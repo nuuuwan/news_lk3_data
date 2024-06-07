@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 15:34:35**
+As of **2024-06-07 15:53:03**
 
 ## Newspaper Stats
 
-*Scraped **29,054** Articles*
+*Scraped **29,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 1,565
 economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,480
-adaderanalk | 3,288
+adaderanalk | 3,289
 tamilmirrorlk | 3,414
 virakesarilk | 4,459
-dailymirrorlk | 4,616
-adaderanasinhalalk | 4,659
+dailymirrorlk | 4,617
+adaderanasinhalalk | 4,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,054 (100.0%) of 29,054 articles have been extended.
+29,054 (100.0%) of 29,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Harsha threatened by those in his own camp: State Minister
+
+*2024-06-07 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harsha-threatened-by-those-in-his-own-camp-State-Minister/108-284346) · `en`
+
+Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance (COPF) Harsha de Silva is being threatened by those in his own camp, State Minister Shehan Semasinghe told Parliament today.
+
+"It has been someone from the Samagi Jana Balawegaya (SJB) who had uploaded  statements on Dr. de Silva on social media. You should save yourself from those in your own camp," the State Minister said.
+
+◼️
+
+[Data](articles/8342cbf6.json)
+
+---
+
+### හෙට තරගයට ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක්
+
+*2024-06-07 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197498) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක තරගය හෙට (08) පැවැත්වීමට නියමිතව තිබේ.
+
+එම තරගය ඩලස් හි ග්‍රෑන්ඩ් ප්‍රේරි ක්‍රීඩාංගණයේ පැවැත්වීමට නියමිත අතර අප වාර්තාකරු පැවසුවේ එම ක්‍රීඩාංගණය අවට උෂ්ණත්වය පසුගිය දින කිහිපයේ ඉතා වැඩි අගයක් ගත් බවය.
+
+ඒ අනුව අද දිනයේ ක්‍රීඩාංගණය අවට ප්‍රදේශයේ උෂ්ණත්වය සෙල්සියස් අංශ 35ක් ලෙස පැවතුණි.
+
+මේ අතර හෙට දිනයේ දී ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් දෙකක් සිදුවනු ඇති බවට වාර්තා වේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ පිතිකරණ පුහුණුකරු තිළිණ කණ්ඩම්බි මහතා පවසා සිටියේ, පළමු තරගය අපේක්ෂිත මට්ටමට ළඟා නොවූ බවය.
+
+ඒ අනුව අත්දැකීම් බහුල ක්‍රීඩකයින්ම සාකච්ඡා කර ඉදිරියට කළ යුතු වෙනස්කම් කවරේ ද යන්න පිළිබඳ තීරණයක් ගත් බවත් ඔවුන් මානසිකව හොඳ තත්ත්වයක සිටින බවත් තිළිණ කණ්ඩම්බි මහතා පැවසීය.
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර මේ දක්වා ජාත්‍යන්තර 20යි 20 තරග 16ක් පවත්වා ඇති අතර ඉන් තරග 11කම ජය හිමිකරගෙන ඇත්තේ ශ්‍රී ලංකාවයි.
+
+...
+
+[Data](articles/3412a358.json)
+
+---
+
+### බොලිවුඩ් නිළියට ගුවන්තොටුපොළේ දී කම්මුල් පහරක්
+
+*2024-06-07 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197497) · `si`
+
+භාරතීය ජනතා පක්ෂය නියෝජනය කරමින් ඉන්දීය පාර්ලිමේන්තුවට තේරී පත්වූ බොලිවුඩ් රංගන ශිලිපිනි කන්ගනා රනාවුත්ට ආරක්ෂක නිලධාරිනියක් කම්මුල් ප්‍රහාරයක් එල්ල කර තිබේ.
+
+ඇයට මෙලෙස  පහර දී තිබුණේ ගුවන්තොටුපොළේ සේවයේ නියුතු කුල්වින්දර් කෝර් නම් මධ්‍යම කාර්මික මර්මස්ථාන ආරක්ෂක බළකායේ නිලධාරිනියක් විසිනි.
+
+කන්ගනා රනාවුත්ට ඇය පහරදී ඇත්තේ ඉන්දියාවේ පැවති ගොවි විරෝධතාවලදී කන්ගන් සිදුකළ ප්‍රකාහයකට විරෝධය පළකරමිනි.
+
+මෙම පහරදීම සම්බන්ධයෙන් කන්ගනා රනාවුත් පැමිණිල්ලක් ගොනුකර ඇති අතර කුල්වින්දර් කෝර් වැඩතහනමකට ලක්කර ඇයට එරෙහිව විමර්ශනයක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/3bc5d7fd.json)
+
+---
+
+### Finance State Minister discloses Sri Lanka’s debt status in Parliament
+
+*2024-06-07 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99726/-finance-state-minister-discloses-sri-lankas-debt-status-in-parliament) · `en`
+
+State Minister of Finance Shehan Semasinghe disclosed the government’s domestic and external debt figures in the Parliament today (07).
+
+Accordingly, he stated that the domestic debt stood at Rs. 17,051 billion as of December 31, 2023, and increased to Rs. 17,252 billion by March 31, 2024.
+
+Additionally, he highlighted the external is debt USD 37 billion, including outstanding external debt installments amounting to USD 5.5 billion from April 2022.
+
+◼️
+
+[Data](articles/d8643917.json)
+
+---
 
 ### Railway strike continues
 
@@ -2147,89 +2219,5 @@ He pointed out that it is important to take steps to curb the spread of the dise
 [Data](articles/b93eb8c5.json)
 
 [Extended Data](ext_articles/b93eb8c5.ext.json)
-
----
-
-### Narendra Modi re -elected as the leader of the National Democratic Alliance
-
-*2024-06-07 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185485) · `ta`
-
-Narendra Modi was re-elected as the leader of the National Democratic Alliance during a meeting in New Delhi post-Lok Sabha elections. Leaders from various parties reaffirmed their commitment to national progress and regional aspirations, emphasizing service to India's vast population.
-
-🟩
-
-The National Democratic Alliance Party's advisory meeting was held in New Delhi after the release of the Lok Sabha elections. At this meeting, Prime Minister Narendra Modi, the leaders of political parties that are part of the National Democratic Alliance. Chandrababu Naidu, leader of Natta, Amit Shah, Rajnath Singh, Telugu Desam Party leader Nitish Kumar, Jana Sena leader Pawan Kalyan, Kumaraswamy, leader of the secular Janata Dal Party, Shiv Sena (Shinde) leader, Sirak Paswan, leader of the Lok Janakti PartyMany participated.
-
-Prime Minister Narendra Modi said on his X -X -X -lane party, “We met party leaders in the National Democratic Alliance.. The coalition will strive for national progress and regional aspirations. We will continue to serve 140 crore people in India and strive to create an expansive Bharat. ”
-
-...
-
-[Data](articles/f8d4e4e1.json)
-
-[Extended Data](ext_articles/f8d4e4e1.ext.json)
-
----
-
-### Indian Lok Sabha election - a view
-
-*2024-06-07 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185482) · `ta`
-
-In the recently concluded Indian Lok Sabha elections, the Bharatiya Janata Party (BJP) and its leader, Prime Minister Narendra Modi, did not secure the expected 400 seats but still achieved a significant majority. This result limits the BJP's ability to unilaterally implement reforms. Despite this, Modi was re-elected for a third term. The election saw several surprises, including independent candidates winning against major parties. For instance, Amrit Pal Singh, despite being imprisoned, won in the Katur Sahib constituency, and Mohammed Haneefa triumphed in Ladakh over both Congress and BJP candidates. These outcomes highlight the dynamic nature of Indian politics and the potential for independent voices to impact electoral results positively.
-
-🟩
-
-The completed Indian Lok Sabha election has many interesting features. The Bharatiya Janata Party (BJP), which has been ruling in India for the past ten years, and the Prime Minister of the party, Narendra Modi, have not received 400 seats in the NDA's campaign.. Instead, only a large -scale majority to rule is to the people.
-
-This has created an environment where the BJP is no longer able to decide for reforms in the country.. Although Indian voters have been given the opportunity to Prime Minister Narendra Modi for the third time.This time the BJP and the party's Prime Minister Narendra Modi have made the position that Telugu Desam Party leader Chandrababu Naidu and Nitish Kumar, the leader of the United Janata Party, can be operated only after consultation.. Political observers have said that this is healthy for democracy.
-
-...
-
-[Data](articles/0b0ca966.json)
-
-[Extended Data](ext_articles/0b0ca966.ext.json)
-
----
-
-### Why people shouldn’t fear  ‘Mr. Talent’ - EDITORIAL
-
-*2024-06-07 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-people-shouldnt-fear-Mr-Talent-EDITORIAL/172-284317) · `en`
-
-These are days when people are working hard to make ends meet; even when the spouse is employed too. With regard to those frequenting the corridors of power, they too are working immensely hard to be in power when the next government is formed.
-
-There was a recent meme (an image, video or piece of text) on Facebook which portrayed two candidates who are likely to bid for the presidency at the next big election. The one with a love for nature photography was saying ‘It would be my way only and there is no asking questions’. The other was saying the total opposite. He states in the meme, “Ask any question and I’ll give the answer again and again till you understand”. Great talent is needed to remain as a politician who wields power in the future because this is an era of discourse; not one of orders.
-
-...
-
-[Data](articles/a9ef6fd4.json)
-
-[Extended Data](ext_articles/a9ef6fd4.ext.json)
-
----
-
-### Elephants are coming like tigers
-
-*2024-06-07 00:43:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளைப்-போலவே-யானைகள்-வருகின்றன/175-338576) · `ta`
-
-Wild elephants in Sri Lanka are causing significant issues, behaving aggressively and leading to loss of human life. They target homes, disrupting daily life and education. The situation is likened to the actions of the LTTE, forcing residents from their villages. Despite being protective of habitats beneficial to them, they attack homes, highlighting the need for effective solutions to manage this crisis, especially to boost agriculture.
-
-🟩
-
-Former Wildlife Defense Minister and State MP Wimalaweera Dissanayake said that wild elephants were acting like the LTTE and could not sleep at night.
-
-Wildlife Minister Pavithra Wanniyarachchi interrupted a question raised in the query in Parliament on Thursday (06) in Parliament.
-
-Wild elephants have problems in all parts of the country.. Many of the human lives are lost when they take steps to address elephant problems.
-
-Elephants do not attack the houses of the sides who are in favor of the elephants. Elephants do not attack the houses. Elephants are attacking the homes of the people.
-
-Wild elephants behave like the Liberation Tigers, so that the residents leave their villages.. Students could not even go to school. Elephants kill the public
-
-Elephant problems should be solved if they want to improve agriculture. Those who refer to as environmental experts have no better plan.
-
-◼️
-
-[Data](articles/5476a7ae.json)
-
-[Extended Data](ext_articles/5476a7ae.ext.json)
 
 ---

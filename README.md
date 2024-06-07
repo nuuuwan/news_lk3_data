@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 15:53:03**
+As of **2024-06-07 16:05:48**
 
 ## Newspaper Stats
 
-*Scraped **29,058** Articles*
+*Scraped **29,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,480
 adaderanalk | 3,289
-tamilmirrorlk | 3,414
+tamilmirrorlk | 3,415
 virakesarilk | 4,459
 dailymirrorlk | 4,617
-adaderanasinhalalk | 4,661
+adaderanasinhalalk | 4,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,054 (100.0%) of 29,058 articles have been extended.
+29,058 (100.0%) of 29,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### බාබර් අසාම් පළමු තැනට
+
+*2024-06-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197499) · `si`
+
+පන්දුවාර 20 යි 20 ජාත්‍යන්තර තරගවල වැඩිම ලකුණුලාභියා බවට පත්වීමට පාකිස්තාන කණ්ඩායමේ නායක බාබර් අසාම් සමත්ව තිබේ.
+
+ඒ, මේ දක්වා එහි පෙරමුණ ගෙන සිටි ඉන්දීය පිතිකරු විරාත් කෝලි දෙවන ස්ථානයට පත් කරමින්.
+
+ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අමෙරිකානු කණ්ඩායම සමග ඊයේ (06) පැවති තරගයේ දී පාකිස්තානයට අමිහිරි පරාජයක් අත්වූ නමුත් එම තරගයේ දී ලකුණු 44ක් වාර්තා කිරීමට බාබර් අසාම් පත්වීමත් සමග ඔහු මෙලෙස 20යි 20 වැඩිම ලකුණුලාභියා බවට පත්ව තිබේ.
+
+ඒ අනුව 20යි 20 ජාත්‍යන්තර තරග 120කට සහභාගී වෙමින් බාබර් අසාම් රැස්කරගෙන ඇති මුළු ලකුණු සංඛ්‍යාව 4,067කි.
+
+තරග 118ක දී ලකුණු 4,038ක් රැස්කර‍ගත් විරාත් කෝලි 20යි 20 වැඩිම ලකුණු ලාභීන් අතර දෙවන ස්ථානයට පත්ව සිටින අතර තරග 152ක දී ලකුණු 4,026ක් ලබාගනිමින් රෝහිත් ශර්මා එහි තෙවන ස්ථානයේ රැඳී සිටී.
+
+◼️
+
+[Data](articles/1d0539b3.json)
+
+---
+
+### திடீரென பற்றி எரிந்த வாகனங்கள்
+
+*2024-06-07 15:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பற்றி-எரிந்த-வாகனங்கள்/175-338590) · `ta`
+
+நாவலப்பிட்டி - குறுந்துவத்த பொலிஸ் பிரிவுக்கு உட்பட்ட தொலஸ்பாகை மீனகொல்ல பிரதேசத்தில் வீட்டிற்கு முன் நிறுத்தி  வைக்கப்பட்டிருந்த வாகனங்கள் திடீரென தீப்பிடித்து எரிந்துள்ளன.
+
+இதில் மோட்டார் சைக்கிள் மற்றும் வேனும் இன்று  அதிகாலை  மூன்று மணியளவில் திடீரென தீப் பிடித்து எரிந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இது தொடர்பான மேலதிக விசாரணைகளை குறுந்துவத்த பொலிஸார்  மற்றும் கைரேகை அதிகாரிகள் முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/6ae780d6.json)
+
+---
 
 ### Harsha threatened by those in his own camp: State Minister
 
@@ -44,47 +80,65 @@ Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance 
 
 [Data](articles/8342cbf6.json)
 
+[Extended Data](ext_articles/8342cbf6.ext.json)
+
 ---
 
-### හෙට තරගයට ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක්
+### Several changes in Sri Lanka's team to be played tomorrow
 
 *2024-06-07 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197498) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක තරගය හෙට (08) පැවැත්වීමට නියමිතව තිබේ.
+Tomorrow, Sri Lanka faces Bangladesh in a crucial World Cup match at the Grand Prairie Stadium in Dallas, where temperatures are expected to reach 35°C. The Sri Lankan team will see two changes, aiming to improve after falling short in their first match. This encounter holds significant importance as it follows Sri Lanka's close contest with South Africa. The match starts at 6 am.
 
-එම තරගය ඩලස් හි ග්‍රෑන්ඩ් ප්‍රේරි ක්‍රීඩාංගණයේ පැවැත්වීමට නියමිත අතර අප වාර්තාකරු පැවසුවේ එම ක්‍රීඩාංගණය අවට උෂ්ණත්වය පසුගිය දින කිහිපයේ ඉතා වැඩි අගයක් ගත් බවය.
+🟩
 
-ඒ අනුව අද දිනයේ ක්‍රීඩාංගණය අවට ප්‍රදේශයේ උෂ්ණත්වය සෙල්සියස් අංශ 35ක් ලෙස පැවතුණි.
+The decisions match between Sri Lanka and Bangladesh will be held tomorrow (08) in the World Cup.
 
-මේ අතර හෙට දිනයේ දී ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් දෙකක් සිදුවනු ඇති බවට වාර්තා වේ.
+The match will be held at the Grand Prary Stadium in Dallas, our correspondent said that the temperature was very much higher in the same stadium.
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ පිතිකරණ පුහුණුකරු තිළිණ කණ්ඩම්බි මහතා පවසා සිටියේ, පළමු තරගය අපේක්ෂිත මට්ටමට ළඟා නොවූ බවය.
+Accordingly, the temperature in the area around the stadium was 35 sections of Celsius.
 
-ඒ අනුව අත්දැකීම් බහුල ක්‍රීඩකයින්ම සාකච්ඡා කර ඉදිරියට කළ යුතු වෙනස්කම් කවරේ ද යන්න පිළිබඳ තීරණයක් ගත් බවත් ඔවුන් මානසිකව හොඳ තත්ත්වයක සිටින බවත් තිළිණ කණ්ඩම්බි මහතා පැවසීය.
+Meanwhile, two changes in the Sri Lankan team will take place tomorrow.
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර මේ දක්වා ජාත්‍යන්තර 20යි 20 තරග 16ක් පවත්වා ඇති අතර ඉන් තරග 11කම ජය හිමිකරගෙන ඇත්තේ ශ්‍රී ලංකාවයි.
+Sri Lanka Cricket Team Sharina Kandamby said the first match was not reached to the desired level.
 
-...
+Accordingly, the decision to discuss the experience and proceed, he said, "Thilina Kandamby said.
+
+Sri Lanka and Bangladesh have held 16 international and 20 internationals to date.
+
+However, Sri Lanka is a critical competition to Sri Lanka tomorrow competition with the first match of South Africa.
+
+Sri Lanka - Bangladeshi match tomorrow will commence at 6 am tomorrow.
+
+◼️
 
 [Data](articles/3412a358.json)
 
+[Extended Data](ext_articles/3412a358.ext.json)
+
 ---
 
-### බොලිවුඩ් නිළියට ගුවන්තොටුපොළේ දී කම්මුල් පහරක්
+### Bollywood actress a slap at the airport
 
 *2024-06-07 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197497) · `si`
 
-භාරතීය ජනතා පක්ෂය නියෝජනය කරමින් ඉන්දීය පාර්ලිමේන්තුවට තේරී පත්වූ බොලිවුඩ් රංගන ශිලිපිනි කන්ගනා රනාවුත්ට ආරක්ෂක නිලධාරිනියක් කම්මුල් ප්‍රහාරයක් එල්ල කර තිබේ.
+Bollywood actress Shalipinna Silaipinna Renawanna Ratnayake was assaulted by a Central Industrial Circuit Service officer, Kulvinder Corr, during a protest led by Kandana Ratnaughphouthorization. The incident, involving Bollywood Rangana Kagana Renaa from the Bharatiya People's Party, has sparked an investigation.
 
-ඇයට මෙලෙස  පහර දී තිබුණේ ගුවන්තොටුපොළේ සේවයේ නියුතු කුල්වින්දර් කෝර් නම් මධ්‍යම කාර්මික මර්මස්ථාන ආරක්ෂක බළකායේ නිලධාරිනියක් විසිනි.
+🟩
 
-කන්ගනා රනාවුත්ට ඇය පහරදී ඇත්තේ ඉන්දියාවේ පැවති ගොවි විරෝධතාවලදී කන්ගන් සිදුකළ ප්‍රකාහයකට විරෝධය පළකරමිනි.
+Bollywood acting Shalipinna Silaipinna Renawanna Ratnayake has been attacked by the Bollywood Rangana Kagana Renaa who was elected to the Indian party representing the Bharatiya People's Party.
 
-මෙම පහරදීම සම්බන්ධයෙන් කන්ගනා රනාවුත් පැමිණිල්ලක් ගොනුකර ඇති අතර කුල්වින්දර් කෝර් වැඩතහනමකට ලක්කර ඇයට එරෙහිව විමර්ශනයක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+She was assaulted by an officer of the Central Industrial Certificate of the Central Industrial Circuit Service, the Central Industrial Circode of Kulvinder Corr.
+
+She was attacked by the Kandana Ratnaughphouthorization protesting with an open to Knowngen in India.
+
+It has been lodged a complaint regarding the assault and reported that Kulvinader Corrnkari has commenced an investigation.
 
 ◼️
 
 [Data](articles/3bc5d7fd.json)
+
+[Extended Data](ext_articles/3bc5d7fd.ext.json)
 
 ---
 
@@ -101,6 +155,8 @@ Additionally, he highlighted the external is debt USD 37 billion, including outs
 ◼️
 
 [Data](articles/d8643917.json)
+
+[Extended Data](ext_articles/d8643917.ext.json)
 
 ---
 
@@ -2177,47 +2233,5 @@ As a result, Pakistan Power Play lost 3 wickets for three wickets for 3 wickets 
 [Data](articles/d351c337.json)
 
 [Extended Data](ext_articles/d351c337.ext.json)
-
----
-
-### Shane and Shehan appointed to driving seat at Triad
-
-*2024-06-07 01:56:49* · [`dailyftlk`](https://www.ft.lk/business/Shane-and-Shehan-appointed-to-driving-seat-at-Triad/34-762749) · `en`
-
-Triad Ltd. has appointed Shane Wilson as Chief Executive Officer (CEO) and Shehan Samarasinha as Chief Operating Officer (COO).
-
-The appointments mark a significant milestone in Triad’s journey as a leader in creative communications solutions in Sri Lanka. Shane and Shehan infuse new blood, and a blend of youth and international experience to Triad, further elevating its strategic and creative capabilities, in the new age of integrated communications.
-
-Giving younger people opportunities to lead and shine is a noted hallmark of Triad’s “API” – we are all one family – culture, and its corporate ethic of ‘purpose beyond profit’. In an industry that sees frequent changes in ownership, form and success, Triad’s ability to thrive for three decades and more is attributed to its ability to revolutionise the traditional, to creatively adapt to challenges and to identify, groom and empower the right talent at the right time for the right purpose.
-
-...
-
-[Data](articles/4f634e85.json)
-
-[Extended Data](ext_articles/4f634e85.ext.json)
-
----
-
-### Public support is essential to control dengue- doctor Sudath Samaraweera
-
-*2024-06-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185487) · `ta`
-
-Dr. Sudath Samaraweera emphasizes the importance of public support in controlling dengue, highlighting its impact beyond health to economics and society. With over 25,000 cases reported in five months, he stresses the need for collective action, especially amid favorable conditions for mosquito breeding due to floods. Prevention efforts must involve all sectors, including government departments and the private sector, to effectively combat the disease.
-
-🟩
-
-The Director of the National Dengue Control Division, Dr. Sudath Samaraweera, said that the dengue is not only a health problem, but it is an economic and social issue and that the health ministry cannot control the spread of dengue alone without the full support of the public.
-
-He added that over 25,000 dengue patients have been reported in the last five months of this year and nine people have died of dengue.
-
-Special Dr. Sudath Samaraweera, speaking at a special press conference held at the Presidential Media Center today (06).
-
-He pointed out that it is important to take steps to curb the spread of the disease as dengue can increase to the level of dengue and infection with the current flooding conditions.
-
-...
-
-[Data](articles/b93eb8c5.json)
-
-[Extended Data](ext_articles/b93eb8c5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 13:53:47**
+As of **2024-06-07 14:05:21**
 
 ## Newspaper Stats
 
-*Scraped **29,043** Articles*
+*Scraped **29,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 1,565
 economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,479
-adaderanalk | 3,287
+adaderanalk | 3,288
 tamilmirrorlk | 3,413
 virakesarilk | 4,459
-dailymirrorlk | 4,612
+dailymirrorlk | 4,615
 adaderanasinhalalk | 4,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,037 (100.0%) of 29,043 articles have been extended.
+29,043 (100.0%) of 29,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Section of Colombo–Kandy road to be closed intermittently
+
+*2024-06-07 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99725/section-of-colombokandy-road-to-be-closed-intermittently-) · `en`
+
+The Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08), says the Kegalle District Secretary.
+
+Accordingly, the section of the road will be closed from time to time between 10.30 a.m. and 6.30 p.m.
+
+The Kegalle District Secretary also said that the closure is necessary to remove unstable rocks and tree branches along this section of the road.
+
+◼️
+
+[Data](articles/426dda13.json)
+
+---
+
+### ICC treats various teams differently, SLC has already complained: Minister
+
+*2024-06-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-treats-various-teams-differently-SLC-has-already-complained-Minister/108-284341) · `en`
+
+Parliament, June 07 (Daily Mirror)- Admitting the fact that the Sri Lankan cricket team touring the USA for the T20 World Cup has faced inconveniences, Sports Minister Harin Fernando said Sri Lanka Cricket (SLC) has already lodged a complaint with the International Cricket Council (ICC) over the matter.
+
+Responding to a question by Opposition Leader Sajith Premadasa, he said the ICC has treated Cricket Boards in various countries differently.
+
+"Not only had the Sri Lankan team wait for about seven hours to take a flight as reported, the Ireland and South Africa teams also had faced a similar ordeal. Cricket Boards in various countries have been treated differently by the ICC. For example, the Bangladesh team is the first team that has to travel the most number of kilometres and the Sri Lankan team is the second. SLC has already lodged a complaint with the ICC," he said.
+
+...
+
+[Data](articles/be639c92.json)
+
+---
+
+### Pahala Kadugannawa Road to close tomorrow
+
+*2024-06-07 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pahala-Kadugannawa-Road-to-close-tomorrow/108-284340) · `en`
+
+Kandy, June 07 (Daily Mirror)- The Pahala Kadugannawa area on the Colombo-Kandy Road will be closed from time to time tomorrow from 10 am to 7 pm, Kegalle District Secretary Chandana Jayasinghe said.
+
+He told the Daily Mirror that the road would be closed to clear unsafe trees and boulders on the road.
+
+He said that the motorists were advised to use alternative roads.
+
+◼️
+
+[Data](articles/d6861085.json)
+
+---
+
+### 32 train journeys cancelled due to the railway strike
+
+*2024-06-07 13:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/32-train-journeys-cancelled-due-to-the-railway-strike/108-284339) · `en`
+
+Colombo, June 07 (Daily Mirror)- More than 30 train services have been cancelled today due to the strike launched by the Sri Lanka Railways Locomotive Operating Engineers’ Union, since midnight yesterday, the Control Rooms sources said.
+
+Altogether 32 services scheduled to run this morning have been cancelled as of 13.00 pm.
+
+The Trade Union stated that the strike was launched due to issues in the promotions of locomotive drivers, and continuous delays in recruitment.
+
+However, the Railways Department announced that the services could be restored by afternoon today.
+
+◼️
+
+[Data](articles/39653f4a.json)
+
+---
 
 ### Sri Lanka lodges complaint with ICC over lengthy travel concerns during T20 World Cup
 
@@ -45,6 +111,8 @@ Speaking in Parliament this morning (07), Fernando highlighted that a separate i
 ...
 
 [Data](articles/ca67f5fe.json)
+
+[Extended Data](ext_articles/ca67f5fe.ext.json)
 
 ---
 
@@ -72,65 +140,95 @@ Meanwhile, MP Gamini Lokuge said that Minister Wijeyadasa Rajapakse presented th
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-07 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185522) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஜூன் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 297.8373ஆகவும் கொள்வனவு விலை ரூபா 307.4417 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately USD 1 = INR 297.8373.
+
+🟩
+
+The US $ 297.8373 was reported at Rs.
 
 ◼️
 
 [Data](articles/0175c664.json)
 
+[Extended Data](ext_articles/0175c664.ext.json)
+
 ---
 
-### ரோயல் பார்க் கொலையாளி சிங்கப்பூரில் இருக்கலாம் என சந்தேகம் - நாட்டிற்கு கொண்டுவருவதற்கான நடவடிக்கைகள் ஆரம்பம்
+### Royal Park's killer may be in Singapore - the beginning of measures to bring to the country
 
 *2024-06-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185521) · `ta`
 
-நீதிமன்றத்தின் தீர்ப்பை தொடர்ந்து ரோயல்பார்க் கொலையாளி டொன்சமந்த ஜூட் அன்டனி ஜெயமகவை வெளிநாட்டிலிருந்து  நாட்டிற்கு கொண்டுவருவதற்கான முயற்சிகளை அதிகாரிகள் ஆரம்பித்துள்ளனர்.
+Efforts are underway to extradite Royalbark killer Tonnesamanda Jude Antony Jayamaka from Singapore to Sri Lanka, despite no extradition treaty between the two nations. Jayamaka fled Sri Lanka after being granted amnesty, but authorities plan to seek international cooperation to return him.
 
-எனினும் சிங்கப்பூருக்கும் இலங்கைக்கும் இடையில் நாடு கடத்தல் தொடர்பான உடன்படிக்கைகள் எதுவும் இல்லை என்பதால்  குற்றவாளியை இலங்கைக்கு கொண்டுவருவதற்கான நடவடிக்கைகளில் பின்னடைவு ஏற்படலாம்.
+🟩
 
-இருநாடுகளுக்கும் இடையிலான இணக்கப்பாட்டின் அடிப்படையில் மாத்திரமே நாடு கடத்தல் தொடர்பான உடன்படிக்கை சாத்தியமாகும் ,இலங்கை வேறு பல நாடுகளுடன் இவ்வாறான உடன்படிக்கையில் கைச்சாத்திட்டுள்ளது.
+Following the court's decision, officials have begun efforts to bring Royalbark killer Tonnesamanda Jude Antony Jayamaka to the country from abroad.
 
-ரோயல்பார்க் கொலையாளி ஜெயமஹ 2019 நவம்பர் 15ம் திகதி இலங்கையிலிருந்து வெளியேறினார் என தெரிவித்துள்ள பொலிஸார் ஜனாதிபதி பொதுமன்னிப்பு நவம்பர் 13ம் திகதி வழங்கப்பட்டது அவர் உடனடியாக கடவுச்சீட்டை பெற்றுக்கொண்டார் எனவும் தெரிவித்துள்ளனர்.
+However, as there are no agreements on transmitting between Singapore and Sri Lanka, there may be a setback in the steps to bring the culprit to Sri Lanka.
 
-அவர் தற்போது வெளிநாட்டில் அனேகமாக சிங்கப்பூரில்  இருக்கலாம் என தெரிவித்துள்ள பொலிஸார் குற்றவாளியை   இலங்கைக்கு கொண்டுவருவதற்காக சர்வதேச உதவியை பெறமுயல்வதாக தெரிவித்துள்ளனர்.
+The Agreement on Trafficking is only possible based on the compliance between the two countries, and Sri Lanka has signed this agreement with many other countries.
 
-...
+The Royalbark killer Jayamaha has left Sri Lanka on November 15, 2019, police said that the President was granted amnesty on November 13.
+
+He has said that he is currently in Singapore abroad and said they would seek international help to bring the culprit to Sri Lanka.
+
+The police spokesman said that as he has left Sri Lanka properly, he can be asked to help him kidnaps the country.
+
+◼️
 
 [Data](articles/8496fa44.json)
 
+[Extended Data](ext_articles/8496fa44.ext.json)
+
 ---
 
-### சாவகச்சேரி ஆதார வைத்தியசாலைக்கு இரத்த சுத்திகரிப்பு இயந்திரங்கள் கையளிப்பு!
+### Blood purification machines handing over to Chavakachcheri Resource Hospital
 
 *2024-06-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185517) · `ta`
 
-கனடா செந்தில்குமரன் நிவாரண நிறுவனத்தின் அனுசரணையில் 64 இலட்சம் ரூபாய் பெறுமதியான இரண்டு இரத்த சுத்திகரிப்பு இயந்திரங்கள் சாவகச்சேரி ஆதார வைத்தியசாலை நிர்வாகத்திடம் இன்று  வெள்ளிக்கிழமை (07) உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+Two blood purification machines valued at Rs 64 lakh were donated to Chavakachcheri Resource Hospital on July 7th. The handover was attended by several officials including S. Kumaravel, former Medical Superintendent, and current Medical Superintendent Dr. T. Kandiban. Also present were Dr. Pathirana from Northern Provincial Health Services, Ketheeswaran from Jaffna District Health Services, and others. These machines will enable the hospital to provide blood purification services to four patients daily.
 
-சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் எஸ்.குமரவேல் மற்றும் புதிய வைத்திய அத்தியட்சகர் வைத்தியர் த.காண்டீபன் ஆகியோர் தலைமையில் இடம்பெற்ற நிகழ்வில் பிரதம விருந்தினராக இலங்கைக்கான கனடா நாட்டின் உயர்ஸ்தானிகர் எரிக் வாஸ் கலந்து கொண்டு வைத்திய உதவிப் பொருட்களை கையளித்திருந்தார்.
+🟩
 
-மேலும், நிகழ்வில் சிறப்பு விருந்தினர்களாக வடக்கு மாகாண சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் பத்திரன, யாழ் மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் ஆ. கேதீஸ்வரன் ,செந்தில்குமரன் நிவாரண நிறுவன ஸ்தாபகர்.டி.செந்தில்குமரன், யாழ் பல்கலைக்கழக மருத்துவ பீடம் மற்றும் போதனா மருத்துவமனையின் ஆலோசகர் வைத்தியர் ஆ.தங்கராஜா ஆகியோர் கலந்து கொண்டனர்.
+Two blood purification machines worth Rs 64 lakh were officially handed over to the Chavakachcheri Resource Hospital on Friday (07).
 
-...
+The chief guest of the event was S. Kumaravel, the former Medical Superintendent of the Chavakachcheri Resource Hospital and the new Medical Superintendent Dr. T. Kandiban, who was the chief guest at the event.
+
+The Director of the Northern Provincial Health Services, Dr. Pathirana, the Director of the Jaffna District Health Services. Ketheeswaran, Senthilkumaran Relief Institute Founder D. Senthilkumaran, Jaffna University Medical Faculty and Teaching Hospital Advisor A. Thangarajah were also present.
+
+The hospital administration said that with the help of blood purification machines, 4 patients can provide blood purification service daily.
+
+◼️
 
 [Data](articles/6f4eb358.json)
 
+[Extended Data](ext_articles/6f4eb358.ext.json)
+
 ---
 
-### மாதவன்- சிவகார்த்திகேயன் இணைந்து வெளியிட்ட சித்தார்த்தின் 'மிஸ் யூ' பட ஃபர்ஸ்ட் லுக்
+### Siddharth's 'Miss You' film First Look by Madhavan- Sivakarthikeyan
 
 *2024-06-07 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185515) · `ta`
 
-நடிகை அதிதி ராவ் ஹயாத்ரியை திருமணம் செய்து கொண்ட பிறகு நடிகர் சித்தார்த் நடிப்பில் தயாராகும் புதிய திரைப்படத்திற்கு 'மிஸ் யூ' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் சினிமாவின் எவர்கிரீன் காதல் இளவரசர்களான மாதவன் மற்றும் சிவகார்த்திகேயன் இணைந்து அவர்களுடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கின்றனர்.
+Actor Siddharth, post-marriage to Aditi Rao Hydari, unveils his comeback film 'Miss You'. The first look, shared by Tamil cinema's beloved Madhavan and Sivakarthikeyan, showcases an emotional love story. Directed by N. Siddharth, featuring Ashika Ranganath, Karunakaran, Bala Saravanan, and others, the film is produced by Seven Miles Bur Seconds Productions.
 
-இயக்குநர் என். ராஜசேகர் இயக்கத்தில் உருவாகும் 'மிஸ் யூ' எனும் திரைப்படத்தில் சித்தார்த், ஆஷிகா ரங்கநாத், கருணாகரன், பால சரவணன், 'லொள்ளு சபா' மாறன், சஷ்டிகா ராஜேந்திரன் உள்ளிட்ட பலர் நடிக்கிறார்கள். கே. ஜி. வெங்கடேஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைக்கிறார். காதலை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை செவன் மைல்ஸ் பர் செகண்ட்ஸ் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சாமுவேல் மாத்யூ தயாரிக்கிறார்.
+🟩
 
-...
+After marrying actress Aditi Rao Hayatri, actor Siddharth's new movie is titled 'Miss You' and its first look has been released.. Evergreen love princes of Tamil cinema, Madhavan and Sivakarthikeyan, have posted it on their social network and congratulated the film crew.
+
+Director n. Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, 'Lalu Sabha' Maran, Sashtika Rajendran, starring Rajasekhar, starring 'Miss You'.. K. G. The film is being recorded by Venkatesh. The film is being produced by Seven Miles Bur Seconds Productions and produced by Samuel Matthew.
+
+After a long hiatus, actor Siddharth is back in the screenplay, which is a 'Miss You' in the title of the film, and the expectation that Siddharth is like a passenger in the first look and the train behind it is an emotional love story.
+
+◼️
 
 [Data](articles/a187888c.json)
+
+[Extended Data](ext_articles/a187888c.ext.json)
 
 ---
 
@@ -180,17 +278,27 @@ It also includes $ 5.5 billion worth not incurred from April 2022.
 
 ---
 
-### விதார்த்துடன் இணையும் ஜனனி
+### Janani joins with Vidarth
 
 *2024-06-07 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185512) · `ta`
 
-தமிழ் சினிமாவின் நம்பிக்கையான இளம் நட்சத்திர கலைஞர்களான விதார்த் - ஜனனி ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடிக்கும் பெயரிடப்படாத திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+The unnamed film features Tamil cinema stars Vidharth and Janani, along with other notable actors like M.S. Bhaskar, Saravanan, and Namitha Krishnamurthy. Directed by Hariharan, it promises a suspense thriller love story, aiming to resume filming in July. The event saw congratulations from industry peers. Additionally, Vidharth's next project, 'Anjamam,' is critically acclaimed for its portrayal of India's medical entrance exams.
 
-இயக்குநர் கிருஷ்ணா குமார் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் விதார்த், ஜனனி, எம். எஸ். பாஸ்கர், 'பருத்திவீரன்' சரவணன், பப்லு பிருத்விராஜ், நமீதா கிருஷ்ணமூர்த்தி, ஷாருக் ஹாசன், விகாஸ், மகா ஆகியோர் உள்ளிட்ட பலர் நடிக்கிறார்கள். பிரபு ஈ. ராகவ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு லால்குடி எம். ஹரிஹரன் இசையமைக்கிறார். ஹைப்பர் லிங்க் பாணியில் மூன்று கதை- ஒரு முடிவு என்ற கோணத்தில் உருவாகி இருக்கும் இந்த திரைப்படத்தை குவியம் ஸ்டுடியோஸ் நிறுவனம் சார்பில் இசையமைப்பாளர் லால்குடி எம். ஹரிஹரன் தயாரிக்கிறார்.
+🟩
+
+The inauguration of the unnamed film, which played the lead roles in Tamil cinema, Vidharth and Janani, the trusted young star artists of Tamil cinema.
+
+Vidarth, Janani, M.. S.. Bhaskar, 'Puthuti Veeran' Saravanan, Pablu Prithviraj, Namitha Krishnamurthy, Shah Rukh Hassan, Vikas and Maha and many others star in. Doser d. Lalgudi M for the film, which is being recorded by Raghav. Hariharan is composed. The film, which is being produced by the Hyper Link style three story- one end. Produced by Hariharan.
+
+Commenting on the film, the director said, “I have been set up in a lineyer in the screenplay of the film, focusing on the shooter of Tanvin.. Suspense Thriller - Love - Sentiment. We are planning to continue the shooting of the film in July. ”
+
+At the inauguration of the film, the leading stars in the film industry also congratulated the film crew.
 
 ...
 
 [Data](articles/81a5e492.json)
+
+[Extended Data](ext_articles/81a5e492.ext.json)
 
 ---
 
@@ -2135,97 +2243,5 @@ The convention will feature competitions across several key categories, includin
 [Data](articles/7964dfde.json)
 
 [Extended Data](ext_articles/7964dfde.ext.json)
-
----
-
-### Says Sri Lanka is an unsinkable aircraft carrier “The country manufactures  poverty  as politics is more profitable  than its industries”  - Major Gen. Dr. Boniface Perera
-
-*2024-06-06 23:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Says-Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Major-Gen-Dr-Boniface-Perera/231-284314) · `en`
-
-A tearful goodbye to Major Gen. Perera as he was leaving Wanni region
-
-If political business is earning more profit than country’s industries, that country will never prosper but will manufacture menace
-
-After the war when I was appointed as the Competent Authority in Wanni, I treated all the communities equally. In fact I gave preference to Tamil community
-
-Military intelligence should not be there to find out the details of politicians, opponent parties, but to hunt for economic opportunities even outside the country
-
-Our defence policy or national security policy should be ‘Active Defence’
-
-Poverty is the worst enemy and it is a breeding ground for terrorism
-
-National Security is very wide spectrum. Before we go further we must understand national survival
-
-If there is no national economy there cannot be national security
-
-...
-
-[Data](articles/4dce4efd.json)
-
-[Extended Data](ext_articles/4dce4efd.ext.json)
-
----
-
-### A 14 -year -old boy who stabbed a 9 -year -old boy several times
-
-*2024-06-06 23:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-வயது-சிறுவனை-பல-முறை-கத்தியால்-குத்திய-14-வயது-சிறுவன்/175-338570) · `ta`
-
-In Hambantota, a 14-year-old boy attacked a 9-year-old, leaving him with multiple stab wounds. The attacker, also 14, was hospitalized after poisoning himself. Investigations continue.
-
-🟩
-
-A 9 -year -old boy was injured yesterday (5) in Angunagolabeelesa area, Hambantota, police said.
-
-Police said the attack was carried out by a 14 -year -old boy living in a neighboring house while he was alone in his home.
-
-Following the incident, a 14 -year -old boy has been admitted to the Embilipitiya Hospital after being poisoned, police said.
-
-A 9 -year -old boy's body has about 6 to 7 stabbing wounds, hospital sources said.
-
-A 14 -year -old boy who was a knife stab is reported to be addicted to video games.
-
-Further investigations into the incident are being carried out by Angunukolapelsa police. Remble
-
-◼️
-
-[Data](articles/e3d1ff39.json)
-
-[Extended Data](ext_articles/e3d1ff39.ext.json)
-
----
-
-### Once bitten, twice shy; but it takes two to tango
-
-*2024-06-06 22:43:03* · [`dailyftlk`](https://www.ft.lk/columns/Once-bitten-twice-shy-but-it-takes-two-to-tango/4-762722) · `en`
-
-Once again, this community finds itself entangled in domestic and regional political intrigue
-
-The age-old adage “Once Bitten, Twice Shy” is a well-known and frequently used phrase of admonition that many Sri Lankans, especially those from the middle and upper strata of society, have grown up hearing during their school years. This often-repeated saying typically forms the lower rungs of a ”disciplinary ladder” that, for many of us, ended with corporal punishment in the principal’s or headmaster’s office, depending on the title of the chief administrative officer at our respective schools.
-
-...
-
-[Data](articles/75c5044f.json)
-
-[Extended Data](ext_articles/75c5044f.ext.json)
-
----
-
-### Health officials emphasize need for additional measures to combat spread of dengue
-
-*2024-06-06 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99717/health-officials-emphasize-need-for-additional-measures-to-combat-spread-of-dengue) · `en`
-
-Director of the National Dengue Control Unit Dr. Sudath Samaraweera, emphasized that dengue disease extends beyond mere health implications, presenting significant economic and social challenges. He underscored that the Ministry of Health alone cannot effectively control the spread of dengue and requires full public support.
-
-Dr. Sudath Samaraweera, disclosed that within the last five months of this year, over 25,000 dengue cases and nine dengue-related deaths have been reported.
-
-Director of the National Dengue Control Unit Dr. Sudath Samaraweera, a specialist, made this revelation while participating in a special news conference held at the Presidential Media Centre today (06).
-
-He also emphasized the critical importance of effectively managing the spread of the disease, noting that the current flood situation could potentially escalate the dengue outbreak to an epidemic level.
-
-...
-
-[Data](articles/47ccc319.json)
-
-[Extended Data](ext_articles/47ccc319.ext.json)
 
 ---

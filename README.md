@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 22:34:22**
+As of **2024-06-07 22:52:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,117 (100.0%) of 29,119 articles have been extended.
+29,119 (100.0%) of 29,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,29 +46,37 @@ Sagala Ratnayaka made these remarks while participating in an observation tour t
 
 [Data](articles/c48263e1.json)
 
+[Extended Data](ext_articles/c48263e1.ext.json)
+
 ---
 
-### කොළඹ - නුවර මාර්ගය පහළ කඩුගන්නාවෙන් ගමනාගමනය සීමා කෙරේ
+### Colombo-Kandy road restricts traffic
 
 *2024-06-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197509) · `si`
 
-හෙට (08) කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ප්‍රදේශයේ ගමනාගමනය සීමා කිරීම සම්බන්ධයෙන් පොලීසියෙන් නිවේදනයක් නිකුත් කර තිබේ.
+Traffic on the Colombo-Kandy road will be restricted due to tree removal until 6 am tomorrow. The road will fully close from 6 pm. Use alternative routes: Colombo to Kandy via Kurunegala, Rambukkana via Maldupunna, or Mawanella to Hemmatagama.
 
-ඒ අනුව එම මාර්ගය දෙපස අවදානම් ගස් සහ දිරාගිය අතු කොටස් ඉවත් කිරීම හා අවදානම් පාෂාණ කොටස් ඉවත් කිරීමේ කටයුතු එදින හෙට පෙරවරු  10 සිට අනිද්දා (09) පෙරවරු 6 දක්වා සිදුකිරීමට නියමිතය.
+🟩
 
-ඒ අනුව එම මාර්ගය හෙට සවස 6 සිට පැය 3ක තුනක කාලයක් සම්පූර්ණයෙන්ම වසා තැබීමට කටයුතු කරන බව මාවනැල්ල ප්‍රාදේශීය ලේකම්වරයා දැනුම්දෙයි.
+The police have issued a statement regarding traffic in the Colombo-Kandy main road.
 
-ඒ හේතුවෙන් කොළඹ - නුවර මාර්ගය භාවිත කරන මහජනතාවට ඇති වන අපහසුතා මඟ හරවා ගැනීමට පහත සඳහන් විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය මහජනතාවට දැනුම්දෙයි.
+Accordingly, the removal of risk trees and rishes on both sides will be taken up to 6 am tomorrow (09).
 
-* කොළඹ සිට මහනුවර දක්වා ගමන් ගන්නා වාහන වරකාපොළ, අ‍ඹේපුස්ස හන්දියෙන් වමට හැරී කුරුණෑගල මාර්ගය ඔස්සේ මහනුවරට.
+Accordingly, the Mawanella Divisional Secretary will inform him that the road will be completely closed from 6 pm tomorrow.
 
-* කෑගල්ල කරඬුපන හරහා රඹුක්කන හා මාවනැල්ල නගරයෙන් රඹුක්කන නගරයට පිවිස හතරලියැද්ද මාර්ගය ඔස්සේ ගලගෙදර හරහා මහනුවර
+As a result, the police informed the public to use the following roads to avoid the inconvenience of the masses of the Colombo-Kandy road.
 
-* මාවනැල්ල නගරයේ සිට හෙම්මාතගම හරහා ගම්පොළ මාර්ගය ඔස්සේ මහනුවරට
+* Harry to Kandy rose from Colombo to Kandy and turn left on Kurunegala road through Kurunegala road.
+
+* Enter in Rambukkana to Rambukkana from Maldupunna and Mawanella town, Kandy through Hatabaiwela
+
+* From Mawanella to Kandy to Kandy via Hemmatagama
 
 ◼️
 
 [Data](articles/0d87b59c.json)
+
+[Extended Data](ext_articles/0d87b59c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 14:19:01**
+As of **2024-06-07 14:34:14**
 
 ## Newspaper Stats
 
-*Scraped **29,050** Articles*
+*Scraped **29,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,72 @@ economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,479
 adaderanalk | 3,288
-tamilmirrorlk | 3,413
+tamilmirrorlk | 3,414
 virakesarilk | 4,459
 dailymirrorlk | 4,615
-adaderanasinhalalk | 4,658
+adaderanasinhalalk | 4,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,047 (100.0%) of 29,050 articles have been extended.
+29,050 (100.0%) of 29,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### නිවාස පිරිසිඳු කරගැනීමට රු 10000 දෙන ක්‍රමවේදය මෙන්න
+### දුම්රිය වර්ජනය දිගටම
+
+*2024-06-07 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197496) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය රියදුරන් පිරිසක් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට දියත් කළ දුම්රිය වර්ජනය තවදුරටත් ක්‍රියාත්මක කරන බව දුම්රිය වෘත්තීය සමිති නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/9a7adcd6.json)
+
+---
+
+### நாளை முக்கிய வீதி ஒன்று மூடப்படுகின்றது
+
+*2024-06-07 14:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முக்கிய-வீதி-ஒன்று-மூடப்படுகின்றது/175-338588) · `ta`
+
+கொழும்பு - கண்டி பிரதான வீதியின் கீழ் கடுகன்னாவ பகுதி நாளை (08) தற்காலிகமாக மூடப்படும் என கேகாலை மாவட்ட செயலாளர் தெரிவித்துள்ளார்.
+
+குறித்த வீதியில் உள்ள ஆபத்தான பாறை கற்கள் மற்றும் மரக்கிளைகளை அகற்றுவதற்காகவே இவ்வாறு வீதி மூடப்படுவதாக  தெரிவித்துள்ளார்.
+
+இதற்கமைய காலை 10.30 முதல் மாலை 6.30 மணி வரையான காலப்பகுதியில் அவ்வப்போது மூடப்படும் எனவும் கேகாலை மாவட்ட செயலாளர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/0d6320f4.json)
+
+---
+
+### Here is the method of cleansing 100,000
 
 *2024-06-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197495) · `si`
 
-ගංවතුර බලපෑමට ලක්වූ නිවාස පිරිසිඳු කරගැනීම සඳහා රජයෙන් ලබාදෙන රුපියල් 10,000ක මුදල ලබාගත හැකි ක්‍රමවේදය පිළිබඳ අද (07) ජනතාව දැනුවත් කෙරුණි.
+In response to severe weather affecting 13 Divisional Secretariats, the Disaster Management Center Director announced financial aid of Rs. 10,000 per person for over 239,000 displaced individuals. Requirements include a grant officer certificate and relevant recommendations from the Grama Niladhari.
 
-එහිදී ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා පැවසුවේ ඒ සඳහා ග්‍රැම නිලධාරී සහතිකය අවශ්‍ය බවය.
+🟩
 
-"ගංවතුරෙන් හානි වූ නිවාස පිරිසිඳු කරගැනීම සඳහා රජයෙන් රුපියල් 10,000 බැගින් ලබාදීමට කටයුතු කරනවා. එය ලබාගැනීමේදී ග්‍රාම නිලධාරී සහතිකය සහ ඊට අදාළ නිර්දේශ අවශ්‍ය වෙනවා."
+The public was informed about the amount of Rs.
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ඉකුත් 01 වනදා සිට මේ දක්වා ප්‍රාදේශීය ලේකම් කොට්ඨාස 113ක එනම් දිස්ත්‍රික්ක 13ක ජනතාව පීඩාවට පත්වී ඇති බවද ඔහු පැවසීය.
+The Disaster Management Center Director Pradeep Kodippili said that the grant officer certificate is required.
 
-පුද්ගලයන් 239,000කට අධික පිරිසක් අවතැන්වී ඇති බවද ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+"Steps will be taken to provide Rs. 10,000 each for the government. The Grama Niladhari Certificate and the relevant recommendations are needed. "
+
+He said that due to inclement weather, he said that the people of 13 Divisional Secretariats have been affected by the LTTE.
+
+More than 239,000 persons have been displaced, he said.
 
 ◼️
 
 [Data](articles/69fc0707.json)
+
+[Extended Data](ext_articles/69fc0707.ext.json)
 
 ---
 
@@ -70,23 +104,29 @@ The Kegalle District Secretary also said that the closure is necessary to remove
 
 ---
 
-### දුම්රිය වර්ජනවලට මගීන්ගෙන් විසඳුමක්
+### Passengers solve from railway strips
 
 *2024-06-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197494) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය රියදුරන් පිරිසක් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට දියත් කළ වර්ජනයෙන් මගීන් අද (07) දැඩි අපහසුතාවයට පත්වුණි.
+A strike by train drivers, part of the Locotiv Opposition Association, threatens to cancel 100 railway lines by evening. Only two train conductors have joined, disrupting services and causing inconvenience to passengers.
 
-වර්ජනයේ නිරත ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසන්නේ අද පස්වරුව වනවිට දුම්රිය ගමන්වාර 100ක් පමණ අවලංගු විය හැකි බවය.
+🟩
 
-ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමය දියත් කරන මෙම වර්ජනයට දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක පමණක් රියදුරන් එක්වී සිටී.
+Trade launched by several demands was severely embarrassed by a group of train drivers from midnight yesterday (07).
 
-මේ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බවට වාර්තා වෙයි.
+The Locootiv Opposition Association of the strike says that by 100 railway lines can be canceled at the end of this afternoon.
 
-දුම්රිය වෘත්තීය සමිති විටින් විට සිදුකරන වර්ජන හේතුවෙන් පීඩාවට පත්වන දුම්රිය මගීන් පවසන්නේ, දුම්රිය සේවය පෞද්ගලීකරණය කළහොත් තමන්ට හොඳ සේවාවක් ලබාගත හැකි බවය.
+The strike, which launches the Locotiv Occupine Engineering Association, only two trains layers have joined the drivers.
+
+It is reported that the execution of forces are not running.
+
+Railway Trade Unions The Railway Trade Unions are suffering from time to time.
 
 ◼️
 
 [Data](articles/50242c9a.json)
+
+[Extended Data](ext_articles/50242c9a.ext.json)
 
 ---
 
@@ -108,17 +148,23 @@ Responding to a question by Opposition Leader Sajith Premadasa, he said the ICC 
 
 ---
 
-### පහළ කඩුගන්නාව කොටසේ පාර හෙට විටින්විට වසා දැමේ
+### Lower Kadugannawa section closes at times tomorrow
 
 *2024-06-07 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197493) · `si`
 
-කොළඹ නුවර මාර්ගයේ පහළ කඩුගන්නාව කොටස හෙට (08) විටින්විට වසා දැමෙන බව කෑගල්ල දිස්ත්‍රික් ලේකම්වරයා පවසයි.
+The Lower Kadugannawa road closure is scheduled for tomorrow due to rock removal and tree branch clearing activities.
 
-ඒ, අදාළ මාර්ගයේ අවදානම් සහිත ගල් ඉවත් කිරීමට සහ ගස්වල අතු ඉවත් කිරීමට බව ඔහු පැවසීය.
+🟩
+
+The lower Kadugannawa road on Colombo Kandy road will be closed tomorrow (08).
+
+He said that the rock with rising rocks and remove the branches of the trees.
 
 ◼️
 
 [Data](articles/223db29d.json)
+
+[Extended Data](ext_articles/223db29d.ext.json)
 
 ---
 
@@ -2179,55 +2225,5 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 [Data](articles/8089052d.json)
 
 [Extended Data](ext_articles/8089052d.ext.json)
-
----
-
-### Solve the Kalmunai North Divisional Secretariat
-
-*2024-06-07 00:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-வடக்கு-பிரதேச-செயலக-விவகாரத்தை-தீர்க்கவும்/175-338574) · `ta`
-
-Selvam Adakkalanathan urges setting up a committee to address issues at Kalmunai North Divisional Secretariat, highlighting the need for accountability and transparency. He also congratulates Narendra Modi and DMK Chairman Stalin on their electoral victories. Adakkalanathan calls for a thorough investigation into the Kalmunai matter and expresses concern over the wind farm project in Mannar district, emphasizing the importance of community consultation in resolving local grievances.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan said that steps should be taken to set up a committee on the Kalmunai North Divisional Secretariat issue.
-
-He was speaking at a debate on the Ceylon Electricity Board Reorganization Bill held in Parliament on Thursday (06).
-
-We congratulate Narendra Modi, who will win the people's mandate for the third time in the Indian election. I also congratulate the Dravida Munnetra Kazhagam (DMK) Chairman Stalin, who has won 40 seats in Tamil Nadu.
-
-Meanwhile, in 1993, the Cabinet resolution on the issue of Kalmunai has been working as a Divisional Secretariat for 30 years.. I ask that the cabinet decision be passed by Hansat. I am asking why the government will not take action to appoint an accountant on this issue and solve the issue.
-
-...
-
-[Data](articles/b4fe65b4.json)
-
-[Extended Data](ext_articles/b4fe65b4.ext.json)
-
----
-
-### Model Mahinda opposes bud
-
-*2024-06-07 00:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-எதிர்க்கிறார்-மொட்டு-ஆதரிக்கிறது/175-338573) · `ta`
-
-Kabir Haseem supports the PA in the CEB Reforms Bill, criticizing its rushed introduction and lack of consultation with unions and engineers. The bill, aimed at reorganizing the Ceylon Electricity Board, faces opposition due to its potential impact on low-income households affected by recent electricity tariff hikes. Mahinda Rajapaksa, opposing privatization, suggests support if amendments addressing concerns are accepted.
-
-🟩
-
-United People's Power Parliamentarian Kabir Haseem said that it was fun to support the PA in the Ceylon Electricity Board Reforms Bill.
-
-He was speaking at a debate on the Ceylon Electricity Board Reorganization Bill held in Parliament on Thursday (06).
-
-The Electricity Board (CEB) has made various allegations regarding the bill. The Electricity Board Trade Unions and Engineers say they have not been given enough time to investigate this. They also say that they did not discuss with them properly.
-
-It has been brought to the Parliamentary Supervisory Committee two days ago. The court has also announced this. In this case, it is improper to bring the bill in a hurry.
-
-Meanwhile, in August 2020, the electricity tariff was increased by 66 per cent. Then increased by 88 percent in October 2023. This was followed by an increase of cost by 18 percent. So that 5 lakhs of low incomes were cut off. This is what happened.
-
-...
-
-[Data](articles/e8195d18.json)
-
-[Extended Data](ext_articles/e8195d18.ext.json)
 
 ---

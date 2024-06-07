@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 06:00:30**
+As of **2024-06-07 07:00:32**
 
 ## Newspaper Stats
 
-*Scraped **28,979** Articles*
+*Scraped **28,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,281
 tamilmirrorlk | 3,403
 virakesarilk | 4,445
 dailymirrorlk | 4,603
-adaderanasinhalalk | 4,641
+adaderanasinhalalk | 4,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,970 (100.0%) of 28,979 articles have been extended.
+28,978 (100.0%) of 28,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### අදත් තද වැසි
+
+*2024-06-07 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197477) · `si`
+
+බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (07) දිනයේ විටින්විට වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+වයඹ, උතුරු සහ උතුරු මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+නැගෙනහිර සහ ඌව පලාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/1ff0df00.json)
+
+---
 
 ### Star Garments Group expands its Sri Lankan footprint
 
@@ -43,6 +65,8 @@ On the acquisition, President and CEO of Komar, Charlie Komar said, “This inve
 ...
 
 [Data](articles/268769bb.json)
+
+[Extended Data](ext_articles/268769bb.ext.json)
 
 ---
 
@@ -60,6 +84,8 @@ The project, aimed at transforming Qatar’s technology landscape, will leverage
 
 [Data](articles/9c6627d6.json)
 
+[Extended Data](ext_articles/9c6627d6.ext.json)
+
 ---
 
 ### Brandix gifts school essentials for 8th consecutive year, strengthens commitment to Sri Lankan youth
@@ -76,6 +102,8 @@ For 2024, children of 11,407 Brandix associates were beneficiaries. Since the in
 
 [Data](articles/1c51f104.json)
 
+[Extended Data](ext_articles/1c51f104.ext.json)
+
 ---
 
 ### Hayleys Fentons launches “Roots of Resilience” programme to restore Bolgoda River’s mangroves
@@ -91,6 +119,8 @@ The “Roots of Resilience” biodiversity conservation programme aims to reinst
 ...
 
 [Data](articles/bf2ab56e.json)
+
+[Extended Data](ext_articles/bf2ab56e.ext.json)
 
 ---
 
@@ -110,6 +140,8 @@ Turnover stood at Rs 1.56 billion with three crossings. Those crossings were rep
 
 [Data](articles/b00e6c0e.json)
 
+[Extended Data](ext_articles/b00e6c0e.ext.json)
+
 ---
 
 ### US-based SaaS provider OnCoor Inc opens new Sri Lanka subsidiary
@@ -121,6 +153,8 @@ OnCoor Inc., a US-based Software as a Service (SaaS) provider in Advance Data Ma
 ...
 
 [Data](articles/c6896b03.json)
+
+[Extended Data](ext_articles/c6896b03.ext.json)
 
 ---
 
@@ -2147,27 +2181,5 @@ It was also reported that the incident occurred after the 14-year-old child warn
 [Data](articles/0b36c7bf.json)
 
 [Extended Data](ext_articles/0b36c7bf.ext.json)
-
----
-
-### Video game leads to stabbing of an eight-year-old
-
-*2024-06-06 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Video-game-leads-to-stabbing-of-an-eight-year-old/108-284274) · `en`
-
-A 13-year-old boy had consumed poison after stabbing an eight-year-old boy for not allowing him to play a video game on his mobile phone.
-
-The two children are residents of Wetiya in the Angunukolapelessa police area.
-
-The child who received stab injuries was admitted to the Kuttigala Divisional Hospital and later transferred to the Hambantota General Hospital, while the child who had consumed poison was admitted to Embilipitiya Base Hospital.
-
-Investigations revealed that the two families had been living hand in glove, and the children welcomed visitors to each house. The two children had, however, become addicted to watching videos on their mobile phones.
-
-On Wednesday evening (05), the 13-year-old boy visited the neighboring house when the eight-year-old boy was playing the video game. The former wanted to play a different game, but the latter had not allowed it. This had resulted in the stabbing of the eight-year-old boy.
-
-...
-
-[Data](articles/0167611d.json)
-
-[Extended Data](ext_articles/0167611d.ext.json)
 
 ---

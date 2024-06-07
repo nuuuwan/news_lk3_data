@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 23:34:41**
+As of **2024-06-07 23:54:10**
 
 ## Newspaper Stats
 
@@ -142,7 +142,7 @@ As a result, the police informed the public to use the following roads to avoid 
 
 *2024-06-07 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-re-appoints-Shavendra-Silva-as-Chief-of-Defence-Staff/108-284360) · `en`
 
-June 07 (Daily Mirror) - President Ranil Wickremesinghe has re-appointed General Shavendra Silva as the Chief of Defence Staff for six months.
+June 07 (Daily Mirror) - President Ranil Wickremesinghe has re-appointed General Shavendra Silva as the Chief of Defence Staff
 
 An extraordinary gazette has been issued extending General Silva's term as CDS under Section 3 of the Chief of Defence Staff Act, No. 35 of 2009.
 

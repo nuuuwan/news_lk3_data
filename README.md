@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 00:19:54**
+As of **2024-06-08 00:34:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,124 (100.0%) of 29,130 articles have been extended.
+29,130 (100.0%) of 29,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Also, can we at least imagine a meeting between the Sri Lankan or Indian Ambassa
 
 [Data](articles/4a16eb06.json)
 
+[Extended Data](ext_articles/4a16eb06.ext.json)
+
 ---
 
 ### The right to strike and motivated strikes
@@ -63,6 +65,8 @@ While most of the demands of the strikers are understandable, what the public fi
 ...
 
 [Data](articles/aa71284d.json)
+
+[Extended Data](ext_articles/aa71284d.ext.json)
 
 ---
 
@@ -472,6 +476,8 @@ The Bill grants the Finance Minister the discretion to exempt State Owned Enterp
 
 [Data](articles/715f9b81.json)
 
+[Extended Data](ext_articles/715f9b81.ext.json)
+
 ---
 
 ### Sri Lanka cricket beat Sri Lanka
@@ -834,6 +840,8 @@ VFS Global started collecting 18.5 dollars and other fees, from each after strik
 
 [Data](articles/79158c91.json)
 
+[Extended Data](ext_articles/79158c91.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 302.70/80 to US dollar
@@ -856,6 +864,8 @@ A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun
 
 [Data](articles/a19f5a48.json)
 
+[Extended Data](ext_articles/a19f5a48.ext.json)
+
 ---
 
 ### Vietnam envoy pays farewell call on Sri Lanka Prime Minister
@@ -875,6 +885,8 @@ Earlier this year Sri Lanka and Vietnam signed an agreement to develop the agric
 ◼️
 
 [Data](articles/e48375f1.json)
+
+[Extended Data](ext_articles/e48375f1.ext.json)
 
 ---
 

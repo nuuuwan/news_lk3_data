@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 10:06:08**
+As of **2024-06-07 10:19:06**
 
 ## Newspaper Stats
 
-*Scraped **28,999** Articles*
+*Scraped **29,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,137 @@ islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,476
-adaderanalk | 3,283
+adaderanalk | 3,284
 tamilmirrorlk | 3,405
-virakesarilk | 4,445
+virakesarilk | 4,448
 dailymirrorlk | 4,608
-adaderanasinhalalk | 4,649
+adaderanasinhalalk | 4,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,995 (100.0%) of 28,999 articles have been extended.
+28,999 (100.0%) of 29,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### පාර්ලිමේන්තුව රැස්වෙයි
+### Railway strike expected to disrupt train services
+
+*2024-06-07 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99720/railway-strike-expected-to-disrupt-train-services-) · `en`
+
+The Locomotive Operating Engineers’ Union of Sri Lanka Railways says they have  launched a strike from midnight yesterday (06).
+
+The trade union action is being carried out over delays in second-class promotions of locomotive drivers and several other issues, according to the Locomotive Operating Engineers’ Union.
+
+Secretary of the union  S.R.C.M. Senanayake said that only locomotive drivers of two of the five running sheds have joined the strike and due to this there will be no power set trains operating.
+
+He further stated that even though the morning office trains would experience minimal impact from the strike, there is a possibility that all the trains scheduled for this evening might be cancelled.
+
+However, Ada Derana learns that only 84 locomotive drivers are engaged in this trade union action based on their own promotion issues.
+
+...
+
+[Data](articles/52ab6c64.json)
+
+---
+
+### ඩෙංගු අධි වසංගතයක් වීම වළක්වමු
+
+*2024-06-07 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197486) · `si`
+
+මාසයක කාලයක් තුළ ඩෙංගු රෝගීන්ගේ ඉහළ යාමක් අපේක්ෂා කළ හැකි බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+
+ජාතික ඩෙංගු මර්දන ඒකකයේ අධ්‍යක්ෂ, විශේෂඥ වෛද්‍ය සුදත් සමරවීර මහතා සඳහන් කළේ මෙම කාලය තුළ ඩෙංගු මරණ 09ක් වාර්තා වී ඇති නමුත් අධි වසංගත තත්ත්වයක් දක්වා රෝග ව්‍යාප්තිය වර්ධනය වීම පාලනය කිරීමට අවශ්‍ය පියවර ගත යුතු බවය.
+
+කෙසේවෙතත් දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සංවිධානය කර තිබූ ඩෙංගු මර්දන වැඩසටහන් සියල්ල කල් දැමීමට සිදුවී ඇති බව සෞඛ්‍ය කීට විද්‍යා නිලධාරීන්ගේ සංගමයේ සභාපති නජිත් සුමණසේන මහතා සඳහන් කළේය.
+
+ගංවතුර තත්ත්වයන් පහව ගියද පාචන රෝග සහ මී උණ රෝගය ඇති වීමේ අවදානම පවතින බවද මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ සභාපති උපුල් රෝහණ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/2a5bc75c.json)
+
+---
+
+### மின் கட்டணம் குறைக்கப்பட்ட பின் 40 இலட்ச மின்பாவனையாளர்கள் பயனடைவார்கள் - மின்சாரத்துறை மற்றும் வலு சக்தி அமைச்சர்
+
+*2024-06-07 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185496) · `ta`
+
+மின் கட்டண திருத்தம் தொடர்பான யோசனையை இன்று அல்லது நாளை இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் முன்வைப்போம். எதிர்வரும்  மாதம் முதலாம் திகதியில் இருந்து அமுலுக்கு வரும் வகையில் மின்கட்டணம் குறைக்கப்படும். 68 இலட்ச மின்பாவனையாளர்களில் 40 இலட்சம் மின்பாவனையாளர்கள் பயனடைவார்கள் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (06) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்னுற்பத்திக்கான செலவுகளை ஈடு செய்யும் வகையில் மின்கட்டணம் திருத்தம் செய்யாமல் இருந்திருந்தால் மின்விநியோக கட்டமைப்பில் எழுந்த பிரச்சினைகளுக்கு இன்றும் தீர்வு கண்டிருக்க முடியாது.மின்கட்டணம் திருத்தம் தொடர்பான யோசனையை இன்று அல்லது நாளை இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் முன்வைப்போம்.
+
+...
+
+[Data](articles/6e662f01.json)
+
+---
+
+### Parliament gathers
 
 *2024-06-07 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197485) · `si`
+
+Parliament meets to discuss crucial issues affecting the nation.
+
+🟩
 
 ◼️
 
 [Data](articles/db0fcd13.json)
 
+[Extended Data](ext_articles/db0fcd13.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණය ගැන IMF මතය
+### இரு தரப்பினரிடையே ஏற்பட்ட முரண்பாட்டில்  கூரிய ஆயுதத்தால் தாக்கி நபரொருவர் கொலை !
+
+*2024-06-07 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185492) · `ta`
+
+ஹெட்டிபொல பொலிஸ் பிரிவிற்குட்பட்ட  பிஹிம்பிய ரத்மல  பகுதியில் நேற்று வியாழக்கிழமை (06) மாலை இந்த சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், சந்தேக நபர் உயிரிழந்தவரின் மூத்த சகோதரரின் மகன் எனவும் , உயிரிழந்தவரின் மகனுக்கும் சந்தேக நபருக்கும் இடையில் ஏற்பட்ட  முரண்பாட்டில் இந்த கொலை இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5af81472.json)
+
+---
+
+### ரயில் இயந்திர பொறியியலாளர்கள் சங்கம் பணிப்புறக்கணிப்பு ; பல ரயில் சேவைகள் இரத்து
+
+*2024-06-07 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185493) · `ta`
+
+இயந்திர பொறியியலாளர்கள் சங்கம் பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளமையினால் இன்று வெள்ளிக்கிழமை (07) காலை பல ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளது.
+
+ரயில்  இயந்திர சாரதிகளின் இரண்டாம் தர பதவி உயர்வுகள் தாமதம் மற்றும் பல பிரச்சினைகள் காரணமாக இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளதாக இயந்திர பொறியியலாளர்கள் சங்கம்  தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/af0ceb52.json)
+
+---
+
+### IMF on the restructuring of Sri Lanka's credit
 
 *2024-06-07 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197484) · `si`
 
-ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය ප්‍රමාණවත් තරම් ශක්තිමත් ප්‍රගතියක් ලබා ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල තක්සේරු කරන බව එහි සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා ජුලි කොසැක් පවසයි.
+The IMF estimates Sri Lanka has sufficiently progressed in its debt restructuring process. The Director of the Communication Department expects a swift agreement with external commercial creditors, adhering to program parameters.
 
-ඇය වැඩිදුරටත් සඳහන් කරන්නේ වැඩසටහන් පරාමිතීන්ට අනුකූලව බාහිර වාණිජ ණයහිමියන් සමග ගිවිසුම් ඉක්මනින් එළඹෙනු ඇතැයි දැඩි අපේක්ෂාවකින් පසුවෙන බවය.
+🟩
+
+The Director of Communication Department says that the International Monetary Fund is estimated that Sri Lanka has made enough progress in the restructuring process.
+
+She further stated that in accordance with the program parameters, the contract is expected to come quickly with external commerce creditors.
 
 ◼️
 
 [Data](articles/879b0f1c.json)
+
+[Extended Data](ext_articles/879b0f1c.ext.json)
 
 ---
 
@@ -71,6 +165,8 @@ Kozack confirmed that on June 12th, the IMF Executive Board will meet to discuss
 ...
 
 [Data](articles/811cec2f.json)
+
+[Extended Data](ext_articles/811cec2f.ext.json)
 
 ---
 
@@ -157,6 +253,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/7940c55d.json)
+
+[Extended Data](ext_articles/7940c55d.ext.json)
 
 ---
 
@@ -2051,111 +2149,5 @@ President's Counsel Upul Jayasuriya appeared for the National JNJel Hatch and th
 [Data](articles/cb6ebb73.json)
 
 [Extended Data](ext_articles/cb6ebb73.ext.json)
-
----
-
-### ‘Sri Lanka Electricity Bill’ passed with amendments
-
-*2024-06-06 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99714/sri-lanka-electricity-bill-passed-with-amendments) · `en`
-
-The Speaker of the Parliament Mahinda Yapa Abeywardena announced to the House this evening (06) that the third reading of the ‘Sri Lanka Electricity Bill’ was passed in the Parliament with amendments.
-
-Meanwhile, the second reading of the draft bill was also passed in the Parliament with a majority of 44 votes.
-
-The ‘Sri Lanka Electricity Bill’, which incorporates the proposed reforms for the electricity sector, was presented to the parliament by Power and Energy Minister Kanchana Wijesekera on April 25. It was published in the government gazette on 17 April.
-
-The Bill seeks to provide for the establishment of the National Electricity Advisory Council and make the Public Utilities Commission of Sri Lanka (PUCSL) the regulator for the electricity industry in terms of the proposed legislation.
-
-...
-
-[Data](articles/e7ab91a4.json)
-
-[Extended Data](ext_articles/e7ab91a4.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-06 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### Badulla Sumanasara Thera removed from the post of Sanganayake
-
-*2024-06-06 18:07:57* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-ගම්මන-සුමනසාර-හිමියන්-සංඝනායක-ධුරයෙන්-ඉවත්-කෙරෙති/11-410059) · `si`
-
-Badulla Sumanasara Thera was removed from his position due to allegations of promoting false doctrines and damaging the reputation of the Malwathu Maha Vihara. This decision was made by the Malwathu Maha Vihara Sangha, highlighting concerns over the conduct and teachings of certain monks.
-
-🟩
-
-The Malwathu East Dr. Maha Sumangala Thero, the Chief Sanganayake, the Chief Sanganayake of the Malwathu Maha Vihara, has been removed from the priority.
-
-The monks of the Malwathu Maha Viharaya Viharaya Sangha has been removed by the same passage by the Malwathu Maha Vihara Sangha from the Malwathu Maha Viharaya.
-
-To promote the false malicious preferences of the Bhikkhu, the Bhikkhu image of Siri Dhammalan, the ferment of Buddha and the Sambuddha pretens.
-
-Propagating Buddhist monk as a monk to the Maha Vihara Dhamma Traditions and the Tripitaka Viharaya in Maha Vihara Temple Shields.
-
-The General Managing Personnel Commerce Sahanayake, the main categories of the Sanctiva of Dharma Sabhas, is a Declaration of Samanera Pakhalani Drugs as a Viharaya, a Declaration of Dissanayake. 4-03-27 The Commissioner of Buddhist AffairsTo insult the Vihara Committener General of Vihara Committees by submitting to the General.
-
-...
-
-[Data](articles/fa973f47.json)
-
-[Extended Data](ext_articles/fa973f47.ext.json)
-
----
-
-### Sri Lanka Bank of Ceylon ‘A(lka)’ rating confirmed
-
-*2024-06-06 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-of-ceylon-alka-rating-confirmed-166696/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Fitch Ratings has confirmed an ‘A(lka)’ rating of Bank of Ceylon saying the operating environment was improving but the exposure to state was high.
-
-“BOC’s asset-quality metrics remain highly influenced by the sovereign’s credit profile due to the bank’s large sovereign exposure via its loans, off-balance-sheet liabilities and securities holdings,” Fitch said.
-
-About 60 percent of bank assets were exposed to the sovereign risk profile.
-
-The bank had provided 55 percent for defaulted sovereign bonds which were 2 percent of its assets.
-
-The bank’s core asset-quality metric – impaired (stage 3) loan ratio – increased to 13.5 percent by end-1Q24 (end-2023: 12.6 percent, 2021: 10.2 percent) primarily due to a contraction in gross loans.
-
-“We estimate this ratio to be significantly higher if BOC’s foreign-currency loan exposure to the state and state-owned entities is included,” Fitch said.
-
-...
-
-[Data](articles/0b3fb6db.json)
-
-[Extended Data](ext_articles/0b3fb6db.ext.json)
-
----
-
-### President  Ranil Wickremesinghe  Opens New Political Office  in Colombo on Sir Ernest de Silva  Mawatte to Coordinate and Direct Future Operations Regarding  Presidential Elections
-
-*2024-06-06 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84161) · `en`
-
-(Text of Press Release Issued by the President’s  Media  Division on 6 June 2024)
-
-President Ranil Wickremesinghe inaugurated his new political office in Colombo today (06) at an auspicious moment. The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.
-
-The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
-
-The establishment of the office was initiated by United National Party Chairman and Member of Parliament, Mr. Wajira Abeywardena.
-
-...
-
-[Data](articles/2faad05d.json)
-
-[Extended Data](ext_articles/2faad05d.ext.json)
 
 ---

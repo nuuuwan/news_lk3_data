@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 00:52:00**
+As of **2024-06-08 01:04:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,130 (100.0%) of 29,131 articles have been extended.
+29,131 (100.0%) of 29,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The 37-year-old Guyana-born Gordon finished with fine figures of 2-16 from his m
 ...
 
 [Data](articles/83045a63.json)
+
+[Extended Data](ext_articles/83045a63.ext.json)
 
 ---
 

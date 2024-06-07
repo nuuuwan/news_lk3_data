@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 09:19:00**
+As of **2024-06-07 09:34:27**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,647
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,992 (100.0%) of 28,995 articles have been extended.
+28,995 (100.0%) of 28,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### අයහපත් කාලගුණයෙන්  නිවාස 5587කට හානි
+### 5587 houses damaged due to inclement weather
 
 *2024-06-07 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197483) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට නිවාස 5,587ක් හානියට ලක්වී තිබේ.
+Inclement weather caused significant damage: 5,587 houses were impacted, including 56 severely and 5,531 partially. The death toll rose to 32, with one missing person found and 16 injured. The Disaster Management Center reported 7,639 individuals in 1,973 shelters, affecting 239,006 from 63,413 families.
 
-නිවාස 56ක් පුර්ණ හානියට ලක්වී ඇති අතර අර්ධ හානි සිදුවී ඇති නිවාස සංඛ්‍යාව 5,531කි.
+🟩
 
-ආපදා තත්ත්වය හේතුවෙන් සිදුවු පුද්ගල මරණ සංඛ්‍යාව ද මේ වන විට 32ක් දක්වා ඉහළ ගොස් තිබේ.
+5,587 houses have been damaged due to inclement weather.
 
-එක් පුද්ගලයෙකු තවදුරටත් අතුරුදන්ව ඇති අතර තුවාල ලබා ඇති සංඛ්‍යාව 16කි.
+56 houses have been severely damaged and 5,531 houses have been partially damaged.
 
-පුද්ගලයින් 7,639 දෙනෙකු මේ වන විටත් සුරක්ෂිත මධ්‍යස්ථාන 1,973ක රඳවා ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේය.
+The death toll from the disaster has increased to 32.
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පවුල් 63,413කට අයත් පුද්ගලයින් 239,006ක් බලපෑමට ලක්වී ඇති බවද සඳහන් ය.
+One person was no longer disappeared and 16 wounded.
+
+The Disaster Management Center (DMC) stated that 7,639 persons have already been held at 1,973 secular centers.
+
+239,006 persons belonging to 63,413 families have been affected due to inclement weather.
 
 ◼️
 
 [Data](articles/9c17ce80.json)
+
+[Extended Data](ext_articles/9c17ce80.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ In another landmark judgement pertaining to the scope of the pardon granted by t
 ...
 
 [Data](articles/9d4e3f15.json)
+
+[Extended Data](ext_articles/9d4e3f15.ext.json)
 
 ---
 
@@ -1636,21 +1644,27 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
-### නිමල් පාර්ශ්වයේ පළමු රැළිය හෙට
+### The first rally of Nimal street tomorrow
 
 *2024-06-06 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-පාර්ශ්වයේ-පළමු-රැළිය-හෙට/11-410064) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයේ පළමු  ජන රැළිය 'දිනුම රටට- එක්ව පෙරට' මැයෙන් හෙට( 08දා) හම්බන්තොට දිස්ත්‍රික්කයේ අම්බලන්තොට නගර මධ්‍යයේදී පැවැත්වෙන බව ශ්‍රී ලංකා නිදහස් පක්ෂය සඳහන් කරයි.
+The SLFP's first rally, led by Nimal Siripala de Silva, Mahinda Amaraweera, and others, will take place in Ambalantota tomorrow. It aims to address future election challenges, starting at 2:00 pm, with nearly 20 parliamentarians participating. Organized by Agriculture Minister Mahinda Amaraweera, it marks the Sri Lanka Freedom Day celebration.
 
-මෙම ජන රැළියට නිමල් සිරිපාල ද සිල්වා, මහින්ද අමරවීර, ලසන්ත අලගියවන්න, දුමින්ද දිසානායක,  මහතා ඇතුළු ඇමතිවරුන්, නව සන්ධානයට සහාය දක්වන පාර්ලිමේන්තු මන්ත්‍රීවරුන්,  හිටපු පළාත් සභා මන්ත්‍රීවරුන්, ප්‍රාදේශීය සභා මන්ත්‍රීවරුන්, වෘත්තීය සමිති නියෝජිතයන් හා සිවිල් ක්‍රියාරිකයන් රැසක් සහභාගි වීමට නියමිතව තිබේ.
+🟩
 
-ජනරැලිය  පස්වරු 2.00 ට සැලසුම් කර තිබෙන අතර ඉදිරියේදී පැවැත්වෙන ඕනෑම මැතිවරණයකට මුහුණ දීම සඳහා  මේ ආකාරයට ඉදිරියේදි ජනරැලි පැවැත් වීමට සැලසුම් කර තිබේ. හෙට පැවැත් වෙන ජනරැළිය සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් 20 කට ආසන්න පිරිසක් සභාභාගි විමට නියමිතව ඇත.
+The Sri Lanka Freedom Day of the Sri Lanka Freedom Party (SLFP) is held in the heart of the 'Dinum' to the 'Dinum' to the 'Dinum' in Ambalantota tomorrow.
 
-මෙම  ජන රැළිය කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් සංවිධානය කරනු ලබන අතර ඉදිරියේදී දේශපාලන  පක්ෂ, වෘත්තීය සමිති, සිවිල් සංවිධාන සම්බන්ධ කර ගනිමින් දැවැන්ත හා පුළුල් සන්ධානයක් ලෙස මෙය ගොඩ නැගීමට සැලසුම් කර තිබේ.
+Nimal Siripala de Silva, Mahinda Amaraweera, Lasantha Alagiyawanna, Lasantha Alagiyawanna, Duminda Dissanayake, Duminda Dissanayake and Duminda Dissanayake.
+
+The famine is planned at 2.00 pm, planned to be held in future to face any future elections in the future. Nearly 20 parliamentarians will be held on behalf of tomorrow.
+
+The rally is organized by Hon. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries Mahinda Amaraweera.
 
 ◼️
 
 [Data](articles/fea1ec01.json)
+
+[Extended Data](ext_articles/fea1ec01.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 12:34:19**
+As of **2024-06-07 12:52:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,030 (100.0%) of 29,032 articles have been extended.
+29,032 (100.0%) of 29,032 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,29 @@ It is said that a total of 239,006 individuals from 63,413 families have been af
 
 [Data](articles/00fb71e9.json)
 
+[Extended Data](ext_articles/00fb71e9.ext.json)
+
 ---
 
-### රාජ්‍ය ණය සම්බන්ධයෙන් හෙළිදරව්වක්
+### A revelation on public debt
 
 *2024-06-07 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197491) · `si`
 
-ශ්‍රී ලංකා රජයේ දේශීය සහ ණය සම්බන්ධයෙන් මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා අද (07) පාර්ලිමේන්තුවේදී හෙළිකළේය.
+State Minister Shehan Semasinghe disclosed in Parliament that as of December 31, 2023, Sri Lanka's local debt stood at Rs 17,051 billion, which increased slightly to Rs 17,252 billion by March 31, 2024. Additionally, there was an outstanding loan of $5.5 billion from April 2022.
 
-ඒ අනුව 2023 දෙසැම්බර් 31 වනදා වනවිට දේශීය ණය රුපියල් බිලියන 17,051 වූ බවත් එය 2024 මාර්තු 31 වනදා වනටිට රුපියල් බිලියන 17,252ක් බවත් ඔහු පැවසීය.
+🟩
 
-2022 අප්‍රේල් සිට නොගෙවූ බාහිර ණය වාරික වල වටිනාකම වූ ඩොලර් බිලියන 5.5ක් ද ඊට ඇතුළත් ය.
+State Minister Shehan Semasinghe today (07) has revealed in Parliament regarding local and loans of the Government of Sri Lanka.
+
+Accordingly, on December 31, 2023, local debt was Rs 17,051 billion and Rs 17,252 billion on March 31, 2024.
+
+It also includes $ 5.5 billion worth not incurred from April 2022.
 
 ◼️
 
 [Data](articles/adf7a9b5.json)
+
+[Extended Data](ext_articles/adf7a9b5.ext.json)
 
 ---
 

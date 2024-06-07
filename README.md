@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 17:34:49**
+As of **2024-06-07 17:55:14**
 
 ## Newspaper Stats
 
-*Scraped **29,077** Articles*
+*Scraped **29,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 1,730
 adalk | 2,483
 adaderanalk | 3,293
 tamilmirrorlk | 3,415
-virakesarilk | 4,459
+virakesarilk | 4,466
 dailymirrorlk | 4,619
-adaderanasinhalalk | 4,664
+adaderanasinhalalk | 4,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,068 (100.0%) of 29,077 articles have been extended.
+29,077 (100.0%) of 29,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### සිව් හැවිරිදි දරුවෙකුට හිංසා කළ මව සහ අනියම් සැමියා අත්අඩංගුවට
+
+*2024-06-07 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197502) · `si`
+
+අවුරුදු හතරක් වයසැති කුඩා දරුවෙකුට කෲර වධ හිංසා කළ මවක් සහ ඇගේ අනියම් සැමියා අත්අඩංගුවට ගත් බව වැලිගම මූලස්ථාන පොලීසිය පවසයි.
+
+වැලිගම පොලිස් වසමේ පදිංචි 25 හැවිරිදි කාන්තාවක් සිය අවුරුදු හතරක් වයසැති සිය පුතුට අතින් පයින් පහරදී පසුව එම දරුවාව නිවසින් පිටත දමා ලණුවක් භාවිතා කරමින් ගේට්ටුවේ ගැට ගසා කෘෘර වධ හිංසාවට ලක්කොට තිබු බව පොලීසිය සඳහන් කරයි.
+
+කෙසේ නමුත් මේ පිළිබඳව ඊයේ (6) දින රාත්‍රි 9ට පමණ ප්‍රදේශවාසීන් විසින් දැක පොලිස් හදිසි ඇමතුම් ඒකකය වෙත (119 ) දැනුම් දී තිබේ.
+
+ඒ අනුව වහා ක්‍රියාත්මක වූ වැලිගම පොලිසියේ ස්ථානාධිපති උපුල් කුමාර මහතා ඇතුළු නිලධාරීන් විසින් සැකකාර කාන්තාව අත්අඩංගුවට ගෙන ඇති අතර හිංසනයට ලක් වූ අවුරුදු හතරක් වයසැති දරුවාව වැලිගම වලාන දිසා රෝහලට ඇතුළත් කිරීමට පියවර ගෙන ඇත.
+
+දරුවාගේ මව සහ ඇගේ අනියම් සැමියා වූ වැලිගම මූදුගමුව ප්‍රදේශයේ පදිංචි වයස 40ක පමණ පුද්ගලයකු විසින් ද මෙම දරුවාට පහරදී කෲර වධ හිංසනයට ලක් කොට ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+ඒ අනුව අදාළ කාන්තාව සහ අනියම් සැමියා වැලිගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/18125133.json)
+
+---
+
+### வெப்பன் - விமர்சனம்
+
+*2024-06-07 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185551) · `ta`
+
+நடிகர்கள் : சத்யராஜ், வசந்த் ரவி, தான்யா ஹோப், ராஜீவ் மேனன், மைம் கோபி, வேலு பிரபாகரன், வினோதினி வைத்தியநாதன் மற்றும் பலர்.
+
+சத்யராஜ் - வசந்த் ரவி கதையின் நாயகர்களாக நடித்திருக்கும் அறிவியல் புனைவு கதையான 'வெப்பன்' அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+ஜேர்மனின் சர்வாதிகாரியான ஹிட்லர் - தன்னை எதிர்ப்பவர்களை அடக்கியாள அதிக சக்தி கொண்ட சீரம் ஒன்றினை அவர் மீது விசுவாசம் மிக்க விஞ்ஞானிகள் குழு தயாரித்திருக்கிறது. இந்திய தேசிய ராணுவத்தை கட்டமைத்து, ஆங்கிலேய அரசாங்கத்திற்கு எதிராக போராடி சுதந்திரம் பெறுவதற்காக தலைவர் நேதாஜி சுபாஷ் சந்திர போஸ் ஆயுத உதவி கோரி ஜேர்மனியை ஆளும் சர்வதிகாரி ஹிட்லரை சந்திக்கிறார். அவருடன் தமிழர் ஒருவரும்  உடன் இருக்கிறார்.  நேதாஜியிடம் ஆற்றல் மிக்க சீரம் பற்றி ஹிட்லர் குழு கூறுகிறது. அதனால் நன்மையை விட தீமை தான் அதிகம் விளையும் என்று எண்ணிய நேதாஜி அதனை வேண்டாம் என்று மறுத்து விடுகிறார். ஆனால் அவருடன்  பயணிக்கும் தமிழர் ஒருவர் அங்கிருந்து கடத்திக் கொண்டு இந்தியாவிற்கு திரும்புகிறார்.
+
+...
+
+[Data](articles/ba730e25.json)
+
+---
 
 ### Railway strike to continue
 
@@ -50,6 +88,8 @@ However, Ada Derana learns that only 84 locomotive drivers are engaged in this t
 
 [Data](articles/5ea83aec.json)
 
+[Extended Data](ext_articles/5ea83aec.ext.json)
+
 ---
 
 ### Sri Lanka Chamber commends Electricity Law, cautions on regulator autonomy
@@ -67,6 +107,22 @@ The Chamber said it remains committed to working with all stakeholders to ensure
 ...
 
 [Data](articles/6c100030.json)
+
+[Extended Data](ext_articles/6c100030.ext.json)
+
+---
+
+### தமிழ் திரையுலக பிரபலங்கள் இணைந்து வெளியிட்ட 'பிதா' பட ஃபர்ஸ்ட் லுக்
+
+*2024-06-07 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185548) · `ta`
+
+தயாரிப்பாளரும், நடிகருமான மதியழகன் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் புதிய திரைப்படத்திற்கு 'பிதா' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் மற்றும் மோசன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகத்தின் முன்னணி பிரபலங்களான விஜய் அண்டனி -சீனு ராமசாமி - விஜய் மில்டன் - போஸ் வெங்கட் - மித்ரன் ஜவகர்- மாதவன்- பிரேம்ஜி அமரன் - சி. சத்யா ஆகியோர் இணைந்து வெளியிட்டனர்.
+
+அறிமுக இயக்குநர் வி. கார்த்திக் குமார் இயக்கத்தில் உருவாகி வரும் 'பிதா' திரைப்படத்தில் மதியழகன், வனிதா விஜயகுமார், ஷரவண சுப்பையா உள்ளிட்ட பலர் நடிக்கிறார்கள். பிராங்களின் ரிச்சர்ட் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ரஷாந்த் அர்வின் இசையமைக்கிறார். தந்தைக்கும் மகளுக்கும் இடையேயான  உணர்வுபூர்வமான உறவை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை ஸ்ரீநிக் புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் டி . பாலசுப்பிரமணி மற்றும் சி. சதீஷ்குமார் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+...
+
+[Data](articles/b5bbf5bc.json)
 
 ---
 
@@ -91,6 +147,8 @@ Commercial Bank of Ceylon Plc contributed the top contributor to the index in th
 ...
 
 [Data](articles/441e7be9.json)
+
+[Extended Data](ext_articles/441e7be9.ext.json)
 
 ---
 
@@ -170,6 +228,8 @@ The Culinary Arts Food Expo, Sri Lanka’s most comprehensive food and beverage 
 
 [Data](articles/4de7f1ce.json)
 
+[Extended Data](ext_articles/4de7f1ce.ext.json)
+
 ---
 
 ### China is angry with Japan
@@ -248,17 +308,25 @@ The Department of Meteorology has requested the public to take steps to reduce t
 
 ---
 
-### “මාව මරල දැම්මොත් මේකෙ පිටිපස්සෙ ඉන්න අය වගකිව යුතුයි“
+### "If you kill me, you are responsible for those who are behind this"
 
 *2024-06-07 16:12:31* · [`adalk`](https://www.ada.lk/breaking_news/“මාව-මරල-දැම්මොත්-මේකෙ-පිටිපස්සෙ-ඉන්න-අය-වගකිව-යුතුයි“/11-410071) · `si`
 
-මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා මුදල් කාරක සභාව තුළින් VFS වීසා ගනුදෙනුවේදී සිදුව ඇත්තේ කුමක්දැයි හෙළිදරව් කරගැනීමට කටයුතු කරන විට රාජ්‍ය පාර්ශවය නියෝජනය කරන මන්ත්‍රීවරු ඔහුට තර්ජනය කරන බවත් මෙම ගනුදෙනුව මගින් මහ බැංකු ගනුදෙනුවටත් වඩා විනාශයක් සිදුව ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (07) පාර්ලිමේන්තුවේදී පැවසීය.
+In a parliamentary session, Dr. Harsha De Silva, Chairman of the Cash Committee, accused unnamed individuals of sabotaging an investigation into a visa deal, threatening his life, and causing a catastrophe. He demanded increased security and criticized unnamed committee members for not allowing proper discussion on the matter. He hinted at resigning from his position due to pressure and embarrassment.
 
-මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පාර්ලිමේන්තුවේදී අනාවරණය කළේ මෙම වීසා ගනුදෙනුව පිළිබඳව විමර්ශනය කිරීමට මුදල් කාරක සභාව උත්සාහ කළත් කාරක සභාවේ පිරිසක් එය කඩාකප්පල් කළ බවයි. මෙම තත්ත්වය හමුවේ තමාගේ ආරක්ෂාව තර කරන මෙන් ඔහු කතානායකවරයාගෙන් ඉල්ලීමක්ද කළේය.
+🟩
+
+Leader of the Opposition, Dr. Harsha De Silva, threatened by the Chairman of the Cash Committee, threatens him and that the transaction has been threatened today and that this transaction has caused a catastroy.(07) He said in parliament.
+
+Dr. Harsha de Silva, Chairman of the Cash Committee Dr. Harsha de Silva was disclosed in Parliament that the Finance Committee tried to investigate the visa deal, but a group of committee sabotaged it. He also requested the Speaker to strengthen his protection in this regard.
+
+"The Committee begins a report on the Visa issue. Who wants to hit me?What if I was killed when on the road?The Hon. Speaker is hard to you. You have responsibility for my safety. This is a billions of dollars. The Hon. Speaker, the Hon. Speaker, the backyard of the backyards have to be held.What tell me?Are you corrupting fraud?Can you threaten and accuse this? "
 
 ...
 
 [Data](articles/adf39c2e.json)
+
+[Extended Data](ext_articles/adf39c2e.ext.json)
 
 ---
 
@@ -279,6 +347,28 @@ Furthermore, the DMC Director expressed that people of 113 Divisional Secretaria
 [Data](articles/8ac7ed8b.json)
 
 [Extended Data](ext_articles/8ac7ed8b.ext.json)
+
+---
+
+### நோமண்டி தரையிறக்கத்தின் 80 வருட நிகழ்வு - ரஸ்ய உக்ரைன் யுத்தத்தை இரண்டாம் உலக யுத்தத்துடன் தொடர்புபடுத்தி பைடன் கருத்து
+
+*2024-06-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185543) · `ta`
+
+அமெரிக்க ஜனாதிபதி ஜோபைடன் இரண்டாம் உலக யுத்தத்தையும் உக்ரைன் மீதான ரஸ்யாவின்  படையெடுப்பையும் தொடர்புபடுத்தி கருத்து வெளியிட்டுள்ளார்.
+
+பிரான்சின் நோமண்டி தரையிறக்கத்தின் 80 வருடநிகழ்வில் உரையாற்றியுள்ள அமெரிக்க ஜனாதிபதி ஜோபைடன் உக்ரைன் மீதான ரஸ்யாவின் படையெடுப்புடன் இரண்டாம் உலக யுத்தத்தை ஒப்பிட்டு கருத்து வெளியிட்டுள்ளார்
+
+நோமண்டி தரையிறக்கத்தின் போது உயிரிழந்த 9388 அமெரிக்க படையினரின் உடல்கள் புதைக்கப்பட்டுள்ள பகுதியிலிருந்து உரையாற்றிய பைடன் உலகில் ஜனநாயகம் மீண்டும் அச்சுறுத்தலிற்குள்ளாகியுள்ளது என குறிப்பிட்டுள்ளார்.
+
+உக்ரைன் விவகாரத்தில் மேற்குலகின் நடவடிக்கையை சர்வாதிகாரிகள் உன்னிப்பாக அவதானிக்கின்றனர் எனவும் அவர் தெரிவித்துள்ளார்.
+
+உக்ரைனில் என்ன நடக்கின்றது என உலகின் சர்வாதிகாரிகள் உன்னிப்பாக அவதானித்துக்கொண்டுள்ளனர் நாங்கள் ரஸ்ய உக்ரைன் மோதலில் இருந்து விலகி ஓடமாட்டோம் அவ்வாறு செய்தால் உக்ரைன் அடிமைப்படுத்தப்படும் எனபைடன் தெரிவித்துள்ளார்.
+
+அத்துடன் மாத்திரம் அது முடியாது உக்ரைனின் அயல்நாடுகள் அச்சுறுத்தப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/b600196d.json)
 
 ---
 
@@ -326,6 +416,8 @@ The Ministry of Agriculture and Plantation Industries has pointed out that the g
 
 [Data](articles/2dc71122.json)
 
+[Extended Data](ext_articles/2dc71122.ext.json)
+
 ---
 
 ### Suddenly burnt vehicles about
@@ -363,6 +455,26 @@ Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance 
 [Data](articles/8342cbf6.json)
 
 [Extended Data](ext_articles/8342cbf6.ext.json)
+
+---
+
+### திறந்த வெளிச்சிறைச்சாலையில் சிக்குண்டுள்ளோம் - பாதுகாப்பற்றவர்களாக உணர்கின்றோம் வீதியில் நடமாடவும் பயமாக உள்ளது -  டியாகோகார்சியாவிலிருந்து ருவாண்டாவிற்கு அனுப்பப்பட்ட இலங்கை தமிழர்கள்
+
+*2024-06-07 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185537) · `ta`
+
+டியாகோ கார்சியாவிலிருந்து ருவாண்டாவிற்கு பிரிட்டிஸ் அரசாங்கத்தினால் அனுப்பப்பட்ட இலங்கையை சேர்ந்த குடியேற்றவாசிகள் தாங்கள் தனிமைப்படுத்தப்பட்டுள்ளதாக பாதுகாப்பற்றவர்களாக உணர்வதாக பிபிசிக்கு தெரிவித்துள்ளனர்.
+
+குடியேற்றவாசிகளை ருவாண்டாவிற்கு அனுப்புவதற்கான பிரிட்டிஸ் அரசாங்கத்தின் தீர்மானம் குறித்து பிரிட்டனின் அரசியல் கட்சிகளிடையே மாறுபட்ட கருத்துக்கள் காணப்படுகின்ற நிலையில் ,அங்குள்ள நான்கு குடியேற்றவாசிகளை சந்திப்பதற்காக  பிபிசி ருவாண்டாவிற்கு சென்றுள்ளது.
+
+எங்களிற்கு பல மருத்துவ தேவைகள் உள்ளன , கடந்த காலங்களில் நாங்கள் பாலியல் வன்முறை சித்திரவதைகளிற்கு உள்ளாகியுள்ளோம் இவற்றிற்கு எல்லாம் சிகிச்சை தேவைப்படுகின்றது ஆனால் ருவாண்டாவில் அது கிடைக்கவில்லை  என அவர்கள் தெரிவிக்கின்றனர்.
+
+ஒவ்வொருவருக்கும் வாராந்தம் 50 டொலர் பெறுமதியான உணவினையும் ஏனைய அத்தியாவசிய பொருட்களையும் வழங்குகின்றனர்.
+
+இலங்கையர்கள் நால்வரும் தாங்கள் வீதிகளில் துன்புறுத்தல்கள் பாலியல் தொந்தரவுகள் போன்றவற்றை  அனுபவிப்பதாக தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/b39b0a8e.json)
 
 ---
 
@@ -442,6 +554,22 @@ Additionally, he highlighted the external is debt USD 37 billion, including outs
 
 ---
 
+### 4 வயது சிறுமி தாக்கப்பட்டமை தொடர்பில் ஜனாதிபதி கண்டனம்
+
+*2024-06-07 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185528) · `ta`
+
+புல்மோட்டை, அரிசிமலை பிரதேசத்தில் 4 வயது சிறுமியொருவர் கொடூரமாக தாக்கப்பட்ட சம்பவத்தை கண்டித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க, இது தொடர்பில் கைது செய்யப்பட்டுள்ள சந்தேகநபர்களுக்கு எதிராக துரித நடவடிக்கை எடுக்கப்படும் என்றும் உறுதியளித்துள்ளார்.
+
+தனது உத்தியோகபூர்வ  தளத்தில் பதிவொன்றை இட்டு ஜனாதிபதி இதனைத் தெரிவித்துள்ளார். ' பாதிக்கப்பட்ட குழந்தையின் நல்வாழ்வுக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். மேலும் இதுபோன்ற துஷ்பிரயோகம் குழந்தைகளுக்கு ஏற்படுத்தக்கூடிய நீடித்த அதிர்ச்சியை எடுத்துக்காட்டுகிறது.' என்றும் ஜனாதிபதி தனது பதிவில் சுட்டிக்காட்டியுள்ளார்.
+
+'4 வயது சிறுமி கொடூரமாக தாக்கப்பட்ட சம்பவம் நாட்டையே திகிலடைய செய்துள்ளது. நீதித்துறை செயல்முறையின் ஊடாக சம்பத்துடன் தொடர்புடையவர்கள் தொடர்பில் நடவடிக்கை எடுக்கப்படும் அதே வேளை,  அந்த குழந்தையின் நல்வாழ்வுக்கு நாம் முன்னுரிமை அளிக்க வேண்டும். இதற்கு அரச அதிகாரிகளிடமிருந்து விரைவான மற்றும் தீர்க்கமான நடவடிக்கை எடுக்கப்படும்.' என்றும் ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/18695377.json)
+
+---
+
 ### It is best to give up products that cannot be facing market competition
 
 *2024-06-07 14:34:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙළෙඳපොළ-තරගයට-මුහුණ-දිය-නොහැකි-නිෂ්පාදන-අත්හැරීම-වඩාත්-සුදුසුයි/11-410070) · `si`
@@ -467,6 +595,40 @@ The project is the expected aim of this project to provide competitive goods for
 [Data](articles/3f1b617d.json)
 
 [Extended Data](ext_articles/3f1b617d.ext.json)
+
+---
+
+### வரலாற்றில் இன்று : 7வது பாராளுமன்றத்தின் புதிய சபாநாயகராக தெரிவானார் ஸ்டான்லி திலகரத்ன : பிரேரித்தவர் மைத்திரி ; வழிமொழிந்தவர் ஜே.ஆர்!
+
+*2024-06-07 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185531) · `ta`
+
+இலங்கையின் 7ஆவது பாராளுமன்றத்தின் சபாநாயகராக ஸ்டான்லி திலகரத்ன 1970ஆம் ஆண்டு இதே திகதியான ஜூன் 7 அன்று தெரிவுசெய்யப்பட்டார்.
+
+இவரது பெயரை அன்றைய சபை முதல்வர் மைத்திரிபால சேனநாயக்க பிரேரிக்க, எதிர்க்கட்சித் தலைவர் ஜே.ஆர். ஜயவர்தன வழிமொழிந்தார்.
+
+இது தொடர்பான செய்தி, 1970 ஜூன் 8ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் "புதிய சபாநாயகர் ஏகமனதாக தெரிவு! : மைத்திரிபால பிரேரிக்க, ஜே.ஆர். வழிமொழிந்தார் : தமிழ் உறுப்பினர்களும் பாராட்டு" என்ற தலையங்கத்துடன் இவ்வாறு குறிப்பிடப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/ebc505ad.json)
+
+---
+
+### இன்று பிற்பகல் வரை 32 ரயில் சேவைகள் இரத்து
+
+*2024-06-07 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185529) · `ta`
+
+இயந்திர பொறியியலாளர்கள் சங்கம் பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளமையினால் இன்று வெள்ளிக்கிழமை 32 ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளதாக கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+இன்று காலை இயக்க திட்டமிடப்பட்டிருந்த மொத்தம் 32 சேவைகள் பிற்பகல் 13.00 மணி வரை இரத்து செய்யப்பட்டுள்ளன.
+
+ரயில்  இயந்திர சாரதிகளின் இரண்டாம் தர பதவி உயர்வுகள் தாமதம் மற்றும் பல பிரச்சினைகள் காரணமாக இந்த பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளதாக இயந்திர பொறியியலாளர்கள் சங்கம்  தெரிவித்துள்ளது.
+
+எவ்வாறாயினும், இன்று பிற்பகல்  ரயில் சேவைகள் வழமைக்குத் திரும்பலாம்  என ரயில் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c0871dbb.json)
 
 ---
 
@@ -738,6 +900,8 @@ Speaker Mahinda Abeywardene said he had yet to receive a complaint and asked who
 
 [Data](articles/5d0fd1a4.json)
 
+[Extended Data](ext_articles/5d0fd1a4.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -775,6 +939,8 @@ The UN Human Rights Commission early this year said it was “very concerned tha
 ...
 
 [Data](articles/4c60753c.json)
+
+[Extended Data](ext_articles/4c60753c.ext.json)
 
 ---
 
@@ -919,6 +1085,8 @@ Lankem shares were trading up at 71.50 during Friday mid-day trade.
 ...
 
 [Data](articles/92d6c730.json)
+
+[Extended Data](ext_articles/92d6c730.ext.json)
 
 ---
 
@@ -2107,147 +2275,5 @@ People were seen cleaning their houses after the floodwaters receded. A small bo
 [Data](articles/b6db0089.json)
 
 [Extended Data](ext_articles/b6db0089.ext.json)
-
----
-
-### Teacher of the Mahiyanganaya Mahiyanganaya, who divides the knowledge.
-
-*2024-06-07 04:43:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gg45ww50ro) · `si`
-
-Aruna Priyankara, a government development officer and former university student activist, dedicates his efforts to providing free education, particularly in commerce, to underprivileged students in the Ridimaliyadda region. Despite facing financial constraints and limited resources, he inspires students to pursue higher education, emphasizing the importance of knowledge as a societal asset rather than personal gain. His story highlights the challenges and triumphs of offering quality education to those who need it most, underscoring the power of dedication and the impact of one person's commitment to making a difference.
-
-🟩
-
-Teacher of the Mahiyanganaya Mahiyanganaya, who divides the knowledge.
-
-"In the past, I am going to add the paddy field for renting the day of the day. I stopped working with the time and go classes. Mom is working for the evening and pick up money to pay for the tuition class. That is why I learned, "that way," the BBC Sinhala was a wonderful teacher in Ridimaliyadda area in Mahiyanganaya. He is a managed graduate of the Rajarata University of Sri Lanka and currently serves as a Government Development Officer.
-
-Adult Workplace Ridimaliyadda Regional Lives of Poverty also is an area of ​​poverty. The students also have minimum facilities in the school system. Lack of money to teach children is a problem that many parents face in the area.
-
-...
-
-[Data](articles/f5f28ad3.json)
-
-[Extended Data](ext_articles/f5f28ad3.ext.json)
-
----
-
-### Star Garments Group expands its Sri Lankan footprint
-
-*2024-06-07 04:33:00* · [`islandlk`](http://island.lk/star-garments-group-expands-its-sri-lankan-footprint/) · `en`
-
-Star Garments Group (“Star”) completed its latest expansion venture with the acquisition of the assets of Kolonna Manufacturing Limited. This acquisition marks the group’s twelfth factory and will create over 1,000 job opportunities in Kolonna in the Ratnapura district. The acquisition cements Star’s belief in the potential for Sri Lankan apparel exports to grow as global sourcing bases look to diversify regional risks in other parts of the globe.
-
-On the acquisition, President and CEO of Komar, Charlie Komar said, “This investment reaffirms our long-term commitment to Sri Lanka and our belief that the country remains an untapped resource in apparel manufacturing. Star continues to remain a priority for Komar and we look forward to this division’s growth in the coming years.”
-
-...
-
-[Data](articles/268769bb.json)
-
-[Extended Data](ext_articles/268769bb.ext.json)
-
----
-
-### Surge Global secures second landmark win in Qatar with contract topping Rs.1billion
-
-*2024-06-07 04:32:00* · [`islandlk`](http://island.lk/surge-global-secures-second-landmark-win-in-qatar-with-contract-topping-rs-1billion/) · `en`
-
-Surge Global, a best-in-class design, technology, and marketing firm, is excited to announce that it has secured its second landmark technology transformation project in Qatar, with an engagement in excess of a billion rupees. This event underscores Surge’s continued commitment to delivering solutions and driving technological advancements in the region.
-
-The project, aimed at transforming Qatar’s technology landscape, will leverage Surge Global’s extensive expertise in software, data, and analytics and performance marketing.
-
-“The business has matured and has demonstrated our ability to take on complex critical pieces of work for large institutions and governments – this is exciting as the gulf is a region we’re excited to dig into” said Bhanuka Harischandra, CEO of Surge Global. “As a company with Sri Lankan origins, we take pride in showcasing our capabilities on an international stage, reflecting its global competitiveness.”
-
-...
-
-[Data](articles/9c6627d6.json)
-
-[Extended Data](ext_articles/9c6627d6.ext.json)
-
----
-
-### Brandix gifts school essentials for 8th consecutive year, strengthens commitment to Sri Lankan youth
-
-*2024-06-07 04:24:00* · [`islandlk`](http://island.lk/brandix-gifts-school-essentials-for-8th-consecutive-year-strengthens-commitment-to-sri-lankan-youth/) · `en`
-
-5 June 2024, Colombo: Renewing its commitment to Sri Lankan youth with the gift of hope, Brandix Apparel conducted its Manusathkara Thilina program for the 8th consecutive year, presenting 16,349 children of the Brandix family, vital school essentials including stationery and schoolbags for the new academic year.
-
-The Manusathkara Thilina project ensures children of Brandix Associates receive equal opportunities for education. It helps them to continue their primary and secondary schooling ranging from preschool through to Grade 13, without any hindrances. This support is aimed at enabling the next generation to learn and pave the way for positive changes.
-
-For 2024, children of 11,407 Brandix associates were beneficiaries. Since the inception of the program in 2016, cumulatively 53,349 school packs have been distributed, benefiting 45,600 employees and their families since inception.
-
-...
-
-[Data](articles/1c51f104.json)
-
-[Extended Data](ext_articles/1c51f104.ext.json)
-
----
-
-### Hayleys Fentons launches “Roots of Resilience” programme to restore Bolgoda River’s mangroves
-
-*2024-06-07 04:24:00* · [`islandlk`](http://island.lk/hayleys-fentons-launches-roots-of-resilience-programme-to-restore-bolgoda-rivers-mangroves/) · `en`
-
-Sri Lanka’s commitment to mangrove conservation is a strong backdrop for Hayleys Fentons’ “Roots of Resilience” programme.
-
-Hayleys Fentons Limited celebrated the inauguration of the “Roots of Resilience” biodiversity conservation programme. The project began with the signing of the MoU on November 7, 2023. This significant endeavour was carried out in collaboration with the Government of Sri Lanka and the Department of Coast Conservation and Coastal Resource Management (CCCRMD).
-
-The “Roots of Resilience” biodiversity conservation programme aims to reinstate the vital mangrove ecosystem in the Bolgoda River. This river, a valuable natural treasure, was selected due to its ecological importance and the environmental threats it faces. The project witnessed the planting of 1,000 mangrove saplings on the banks of the river, an initial step towards the project’s long-term goal of enriching biodiversity and supporting local communities.
-
-...
-
-[Data](articles/bf2ab56e.json)
-
-[Extended Data](ext_articles/bf2ab56e.ext.json)
-
----
-
-### SL-Paris Club MoU news gives bourse a lift
-
-*2024-06-07 04:21:00* · [`islandlk`](http://island.lk/sl-paris-club-mou-news-gives-bourse-a-lift/) · `en`
-
-The stock market performed well yesterday with the reporting in the foreign media that bilateral creditors had expressed their interest in signing a Memorandum of Understanding with the Sri Lankan government as a part of the external debt restructuring exercise.
-
-The bilateral creditors expressed their interest in a MoU with the government, thus boosting the market ahead of the IMF Board level review meeting scheduled for June12.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 120.93 points while the S and P SL 20 rose by 55.04 points.
-
-Turnover stood at Rs 1.56 billion with three crossings. Those crossings were reported in Pan Asia Bank, which crossed 1.8 million shares to the tune of Rs 43.54 million; its shares traded at Rs 23.20, Sampath Bank 300,000 shares crossed for Rs 23.9; its shares sold at Rs 79.50 and HNB 97500 shares crossed to the tune of Rs 20 million; its shares traded at Rs 205.
-
-...
-
-[Data](articles/b00e6c0e.json)
-
-[Extended Data](ext_articles/b00e6c0e.ext.json)
-
----
-
-### US-based SaaS provider OnCoor Inc opens new Sri Lanka subsidiary
-
-*2024-06-07 04:21:00* · [`islandlk`](http://island.lk/us-based-saas-provider-oncoor-inc-opens-new-sri-lanka-subsidiary/) · `en`
-
-OnCoor Inc., a US-based Software as a Service (SaaS) provider in Advance Data Management and Analytics, has announced the opening of its new subsidiary in Sri Lanka, marking an important milestone in the company’s global expansion strategy.
-
-...
-
-[Data](articles/c6896b03.json)
-
-[Extended Data](ext_articles/c6896b03.ext.json)
-
----
-
-### Pramitha and Marikkar clash over Govt’s flood compensation strategy
-
-*2024-06-07 02:45:33* · [`dailyftlk`](https://www.ft.lk/news/Pramitha-and-Marikkar-clash-over-Govt-s-flood-compensation-strategy/56-762764) · `en`
-
-State Minister of Defence Premitha Bandara Tennakoon and Samagi Jana Balawegaya (SJB) MP S.M. Marikkar engaged in a contentious debate yesterday concerning the provision of compensation to those affected by recent floods.
-
-During a parliamentary session, MP S.M. Marikkar urged the Government to deploy Grama Seva Officers and Disaster Management Centre officials to conduct damage assessments instead of utilising university students for this purpose.
-
-...
-
-[Data](articles/e8377046.json)
-
-[Extended Data](ext_articles/e8377046.ext.json)
 
 ---

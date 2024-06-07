@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 16:51:23**
+As of **2024-06-07 17:04:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,061 (100.0%) of 29,067 articles have been extended.
+29,067 (100.0%) of 29,067 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,31 @@ Fans expecting a run-fest were left disappointed when Sri Lanka were bowled out 
 
 [Data](articles/6e9e5d50.json)
 
+[Extended Data](ext_articles/6e9e5d50.ext.json)
+
 ---
 
-### නිවසකට ඇතුළුවී බිම හාරා රත්රන් සෙවූ පොලිස් නිළදාරීන්ට සිදුවූ දේ
+### What happened to police officers who were searched by a house and searched gold
 
 *2024-06-07 16:35:07* · [`adalk`](https://www.ada.lk/breaking_news/නිවසකට-ඇතුළුවී-බිම-හාරා-රත්රන්-සෙවූ-පොලිස්-නිළදාරීන්ට-සිදුවූ-දේ/11-410073) · `si`
 
-ස්කැනර් යන්ත්‍රයක් රැගෙන විත් ආණමඩුව පෙරමාකුත්තුව ප්‍රදේශයෙ නිවසක් පරික්ෂා කර ඉන් පසුව නිවස කැණීම් කර  රත්‍රන් සෙවිමේ නිරත වු පුත්තලම කොඨඨාශ විශේෂ අපරාධ විමර්ශන අංශයෙ ස්ථානාධිපති වරයා  ඇතුළු නිළධාරීන් සිව් දෙනෙකු වහාම එම ඒකකයෙන් ඉවත් කර ස්ථාන මාරු කර ඇති බව පුත්තලම නියෝජ්‍ය පොලිස්පති නාලක සිල්වා මහතා අද 7 දින පැවසිය.
+In Puttalam, four police officers were dismissed after searching a house for gold without authorization. The Deputy Inspector General (DIG) and other officers were involved in the unauthorized search. Following this incident, Senior Superintendent of Police Sarath Rupasinghe was transferred, and further investigations led to the involvement of officers from the Criminal Investigation Division. The house, owned by someone who passed away in 2017, was searched despite protests from the residents. This situation has sparked a special investigation by Senior DIG Kathsiri Jayalath.
 
-පුත්තලම නියෝජ්‍ය පොලිස්පති නාලක සිල්වා මහතාගේ උපදෙස් මත පුත්තලම කොඨඨාශ භාර ජේෂ්ඨ පොලිස් අධිකාරි සරත් රූපසිංහ මහතා විසින් මේ සම්බන්ධව සිදුකල පරික්ෂණයකින් පසුව අදාල නිළධාරීන් ස්ථාන මාරු කිරීමට කටයුතු කර තිබුනී.
+🟩
 
-අදාල කොඨඨාශ විශේෂ අපරාධ විමර්ශන අංශයෙ නිළධාරීන් ආණමඩුව පෙරමාකුත්තුව නිවසට පසුගිය ප මැයි මාසයෙ පැමින ඇති බවත් ඉන් පසුව පාෂණ හෝ වෙනත් භුගතව ඇති දෑ සේවිමට යොදා ගන්නා ස්කෑනර් යන්ත්‍රයක් යොදා ගනිමින් අදලා නිවස තුල කැණීම් කර ඇති බවත් එම යන්ත්‍රයෙන් ලබා දුන් කිසියම් සංඥාවක් අනුව අදාල ස්ථානය කිසිදු ලෙසකින් කැණීමක් නොකරන ලෙසට දන්වා නිවසින් පිටව ගිය බව නිවැසියන් මේ වන විට මේ සම්බන්ධව විමර්ශන සිදුකරන පොලිස් කණ්ඩායම් වෙත ප්‍රකාශ ලබා දී තිබුනී.
+Puttalam DIG - Deputy Minister of External Investigation Division (STF) and four officers have been deployed in the Union and four officers have been dismissed from the Anamaduwa area and excavated the house.Said.
+
+Subsequent experiments made by Senior Superintendent of Police Sarath Rupasinghe who had conducted SSP Sarath Rupasinghe in charge of Puttalam Nalaka Silva has been transferred by Senior Superintendent of Police Sarath Rupasinghe.
+
+Officers of the relevant Criminal Investigation Division have been excavated in the house in May of last Mayvaria in May of the past May, using an Endamaduwa Premadamukatuwa home.Residents have already been given to the police teams that the residents have been left out of the house not to excuse.
+
+Subsequently, the number of officers returned home again in the house of the UNP, said that the residents had been excavated in the face of residents.
 
 ...
 
 [Data](articles/3b6e1858.json)
+
+[Extended Data](ext_articles/3b6e1858.ext.json)
 
 ---
 
@@ -84,6 +94,8 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 
 [Data](articles/95b699b9.json)
 
+[Extended Data](ext_articles/95b699b9.ext.json)
+
 ---
 
 ### Prevailing rainy condition expected enhance in next few days
@@ -103,6 +115,8 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 ...
 
 [Data](articles/ecedd2e1.json)
+
+[Extended Data](ext_articles/ecedd2e1.ext.json)
 
 ---
 
@@ -151,6 +165,8 @@ Furthermore, the DMC Director expressed that people of 113 Divisional Secretaria
 ◼️
 
 [Data](articles/8ac7ed8b.json)
+
+[Extended Data](ext_articles/8ac7ed8b.ext.json)
 
 ---
 
@@ -294,21 +310,31 @@ Additionally, he highlighted the external is debt USD 37 billion, including outs
 
 ---
 
-### වෙළෙඳපොළ තරගයට මුහුණ දිය නොහැකි නිෂ්පාදන අත්හැරීම වඩාත් සුදුසුයි
+### It is best to give up products that cannot be facing market competition
 
 *2024-06-07 14:34:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙළෙඳපොළ-තරගයට-මුහුණ-දිය-නොහැකි-නිෂ්පාදන-අත්හැරීම-වඩාත්-සුදුසුයි/11-410070) · `si`
 
-වී නිෂ්පාදනය ප්‍රමුඛ කර ගනිමින් තරගකාරී අපනයන වෙළඳපොල ජය ගත හැකි නිෂ්පාදන කෙරෙහි වැඩි අවධානයක් යොමු කළ යුතු බවත් 2030 වන විට නවීන තාක්ෂණය භාවිතා කරමින් තරගකාරී කෘෂිකර්මාන්තය කරා ගමන් කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the importance of competing in the export market, highlighting the need for modern technology and government support to reduce post-harvest losses and enhance competitiveness. He urged for interventions to facilitate exports, showcasing projects aimed at improving agricultural productivity and market access.
 
-එසේ නොවුනහොත් අනාගතය ජයගත නොහැකි බව පෙන්වා දුන් ජනාධිපතිවරයා  අපනයන වෙළඳපොල තුළ තරගකාරීත්වයට මුහුණ දිය නොහැකි නිෂ්පාදන අත්හැරීම වඩාත් සුදුසු බවද පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති කාර්යාලයේදී ඊයේ (06) පස්වරුවේ පැවති කෘෂිකර්ම නවීකරණ වැඩසටහනේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
+President Ranil Wickremesinghe said that the competitive export market should be paid to the premises of the competitive export market.
 
-රට පුරා තෝරා ගත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 26ක ක්‍රියාත්මක කෘෂිකර්ම   නවීකරණ වැඩසටහන යටතේ එක් ප්‍රාදේශීය ලේකම් කොට්ඨාසයකට රුපියල් මිලියන 25 බැගින් වෙන් කර ඇති අතර, එම නියමු ව්‍යාපෘතියේ වත්මන් ප්‍රගතිය පිළිබඳ වාර්තාවක් ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ඉදිරිපත් කෙ‍රිණි.
+Otherwise, the President also pointed out that the export market is preferable in the export market.
+
+President Ranil Wickremesinghe was speaking at the progress review meeting held at the Presidential Secretariat yesterday (06).
+
+25 million per Divisional Secretariat, a report on the current progress project in the 26 Divisional Secretariat Divisions across the country was presented to the President Ranil Wickremesinghe.
+
+The report also includes programs implemented under the Ministry of Agriculture and Fisheries, young agricultural villages and private sector participation in the Agricultural Modernization Program.
+
+The project is the expected aim of this project to provide competitive goods for the export market using modern technology.
 
 ...
 
 [Data](articles/3f1b617d.json)
+
+[Extended Data](ext_articles/3f1b617d.ext.json)
 
 ---
 

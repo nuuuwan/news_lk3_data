@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 18:53:58**
+As of **2024-06-07 19:04:08**
 
 ## Newspaper Stats
 
-*Scraped **29,089** Articles*
+*Scraped **29,095** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 263
 dbsjeyarajcom | 276
-bbccomsinhala | 282
+bbccomsinhala | 283
 newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,665
@@ -18,19 +18,91 @@ dailyftlk | 1,730
 adalk | 2,483
 adaderanalk | 3,294
 tamilmirrorlk | 3,417
-virakesarilk | 4,466
-dailymirrorlk | 4,619
-adaderanasinhalalk | 4,666
+virakesarilk | 4,467
+dailymirrorlk | 4,622
+adaderanasinhalalk | 4,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,089 (100.0%) of 29,089 articles have been extended.
+29,089 (100.0%) of 29,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Biden apologizes to Ukraine’s Zelenskyy
+
+*2024-06-07 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-apologizes-to-Ukraines-Zelenskyy/108-284349) · `en`
+
+PARIS (AP) — U.S. President Joe Biden on Friday for the first time publicly apologized to Ukraine for a monthslong congressional holdup in American military assistance that let Russia make gains on the battlefield.
+
+The apology came as Biden met in Paris with Ukrainian President Volodymyr Zelenskyy, who appealed for bipartisan U.S. support going forward “like it was during World War II.”
+
+A day earlier, the two had attended ceremonies marking the 80th anniversary of the D-Day landings in Normandy, where Biden had drawn common cause between the allied forces that helped free Europe from Nazi Germany and today’s effort to support Ukraine against Russia’s invasion and Zelenskyy had been greeted with a rapt ovation.
+
+...
+
+[Data](articles/8dbfa23d.json)
+
+---
+
+### මැයි මාසයේ දී විදෙස් සංචිතවල සුළු අඩුවීමක්
+
+*2024-06-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197504) · `si`
+
+පසුගිය 2024 මැයි අවසානයේ දී මෙරට නිල සංචිත වත්කම් ප්‍රමාණය එක්සත් ජනපද ඩොලර් මිලියන 5,421ක් බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+මෙය 2024 අප්‍රේල් මාසයේ දී වාර්තා වූ ඩොලර් මිලියන 5,471ක්වූ සංචිත වත්කම් ප්‍රමාණය හා සැසඳීමේ දී 0.9%ක සුළු පහළ යාමකි.
+
+නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය ඩොලර් මිලියන 5,389 සිට ඩොලර් මිලියන 5,367 ක් දක්වා 0.4% කින් මෙහිදී පහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/e7c92d97.json)
+
+---
+
+### Strike disrupts nearly 100 train services
+
+*2024-06-07 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strike-disrupts-nearly-100-train-services/108-284350) · `en`
+
+Colombo, June 07 (Daily Mirror) - Despite the Railways Department announcing that services could be restored by this afternoon due to the ongoing strike, nearly 100 train services were cancelled today leaving commuters in disarray.
+
+The strike which began at midnight last night was launched by the Sri Lanka Railways Locomotive Operating Engineers’ Union in response to issues regarding the promotion of locomotive drivers and continuous delays in recruitment.
+
+The ongoing strike caused significant disruptions, especially for commuters returning home in the afternoon, including many office workers.
+
+While trains arrived in Colombo from all railway lines this morning, many services were halted in the afternoon, leaving passengers stranded and inconvenienced.
+
+◼️
+
+[Data](articles/71b93b84.json)
+
+---
+
+### நாட்டின் சீரற்ற காலநிலையில் மீண்டும் மாற்றம்!
+
+*2024-06-07 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185562) · `ta`
+
+நாளை 08ஆம் திகதி முதல் நாட்டின் தென்மேற்குப் பகுதியில் மழையுடனான வானிலை சற்று அதிகரித்துக் காணப்படலாம் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+அதன்படி, மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும்.
+
+மேலும் வடமேற்கு, வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் சில இடங்களிலும் மழை பெய்யக்கூடும்.
+
+ஊவா மாகாணம் மற்றும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடக்கு, வடமத்திய மற்றும் வடமேற்கு மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசும்.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களைக் குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/d023cf12.json)
+
+---
 
 ### Change in the climate from tomorrow
 
@@ -307,6 +379,24 @@ Subsequently, the number of officers returned home again in the house of the UNP
 [Data](articles/3b6e1858.json)
 
 [Extended Data](ext_articles/3b6e1858.ext.json)
+
+---
+
+### Heavy rainfall to enhance in coming days
+
+*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-to-enhance-in-coming-days/108-284347) · `en`
+
+Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are expected to intensify over the next few days, beginning tomorrow, June 8.
+
+According to the latest weather report by the Meteorological Department, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
+
+Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
+
+In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
+
+...
+
+[Data](articles/138a0812.json)
 
 ---
 
@@ -1123,6 +1213,30 @@ The police spokesman said that as he has left Sri Lanka properly, he can be aske
 [Data](articles/8496fa44.json)
 
 [Extended Data](ext_articles/8496fa44.ext.json)
+
+---
+
+### ශ්‍රී ලංකා නිදහස් පක්ෂයට අදාළව මෙතෙක් ලැබුණු අධිකරණ නියෝග මොනවා ද?
+
+*2024-06-07 12:26:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ww3q79434o) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයට අදාළව මෙතෙක් ලැබුණු අධිකරණ නියෝග මොනවා ද?
+
+පක්ෂය තුළ පවතින බෙදීම් මෙන්ම, අධිකරණ නියෝග හේතුවෙන් ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ පැවති අර්බුදකාරී තත්ත්වය තවත් තිව්‍ර වී තිබේ.
+
+පාර්ශව දෙකකට බෙදී ඇති පක්ෂයේ නියෝජිතයින් ඒකිනෙකාට එරෙහිව අධිකරණයට කරුණු ඉදිරිපත් කර වාරණ නියෝග ලබා ගැනීමේ නැඹුරුවක් මෙන්ම එම වාරණ නියෝග ඉවත් කර ගැනීමට දරණ උත්සාහයන් පසුගිය මාස දෙක පුරාවට දක්නට ලැබුණි.
+
+පක්ෂයේ අර්බුදය තවත් තිව්‍රවුයේ, හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති ධූරයෙන් ඉල්ලා අස්වීමත් සමග ය.
+
+එම ඉල්ලා අස්වීමෙහි යටි අරමුණ වූයේ, අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයට පත් කිරීම ය.
+
+(මැයි 13) පස්වරුවේ කෝට්ටේදී පැවති මෛත්‍රීපාල සිරිසේන පාර්ශවයේ විධායක සභා රැස්වීමේදී මෛත්‍රීපාල සිරිසේන සභාපති ධූරයෙන් ඉල්ලා අස්වූ අතර, එහිදී ගත් ඒකමතික තීරණයකට අනුව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ පක්ෂ සභාපති ධූරයට පත් කර ගැනිණි.
+
+ඊට අමතරව, පක්ෂයේ ලේකම්වරයා ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ කැස්බෑව ආසන සංවිධායක නීතිඥ කීර්ති උඩවත්ත පත් කෙරිණි.
+
+...
+
+[Data](articles/0238ad4a.json)
 
 ---
 
@@ -2197,139 +2311,5 @@ All this at the end of a riveting contest, one which fluctuated in the burning T
 [Data](articles/34fec2a8.json)
 
 [Extended Data](ext_articles/34fec2a8.ext.json)
-
----
-
-### IMF says Sri Lanka has made “sufficiently strong progress” on debt for June review
-
-*2024-06-07 08:26:00* · [`economynextcom`](https://economynext.com/imf-says-sri-lanka-has-made-sufficiently-strong-progress-on-debt-for-june-review-166820/) · `en`
-
-ECONOMYNEXT  – The International Monetary Fund has assessed that there has been “sufficiently strong progress on the debt restructuring” for a review of Sri Lanka’s program by its board on June 12, an official said.
-
-“…[T]he authorities have been holding extensive discussions with external official creditors regarding an MOU with the official creditor committee and the final agreements with the Export Import Bank of China,” IMF Communication Director Julie Kozack told reporters in Washington.
-
-“Discussions with external bondholders continue with the aim of reaching agreements in principle soon. Negotiations with the China Development bank are also at an advanced stage.
-
-“There is a strong expectation that agreements with external commercial creditors consistent with program parameters will be reached soon.
-
-“So overall we assess that there has been sufficiently strong progress on the debt restructuring front.”
-
-Sri Lanka has also made progress on restoring stability and meeting IMF targets.
-
-...
-
-[Data](articles/02b5592d.json)
-
-[Extended Data](ext_articles/02b5592d.ext.json)
-
----
-
-### Special attention on the development of the Northern Province
-
-*2024-06-07 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-அபிவிருத்தியில்-விசேட-கவனம்/175-338578) · `ta`
-
-President Ranil Wickremesinghe is focusing on developing the war-affected Northern Province, with significant efforts in Vavuniya, Mullaitivu, and Mannar districts. The government is releasing lands from dense forests for resettlement and providing relief for floods, as announced by Rural Economic Minister Katar Mastan and State Minister Khadar Mastan.
-
-🟩
-
-President Ranil Wickremesinghe has paid special attention to the development activities of the war -affected Northern Province, Rural Economic Minister Katar Mastan said.
-
-State Minister Khadar Mastan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Today people are somewhat meeting their needs. In this context, the government's massive programs are underway in our areas, especially in the Vavuniya, Mullaitivu and Mannar districts.
-
-President Ranil Wickremesinghe is paying special attention to the development work of the Northern Province as a war -affected province.. The President is carrying out these tasks in particular by allocating funds for the MPs.
-
-...
-
-[Data](articles/8925e8ca.json)
-
-[Extended Data](ext_articles/8925e8ca.ext.json)
-
----
-
-### Father killed in son's dispute
-
-*2024-06-07 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197482) · `si`
-
-In a tragic incident, a man was killed in a dispute involving a sharp weapon in the Ratmalai area of Hettipola. The suspect is his own son, indicating a family conflict led to the fatal clash.
-
-🟩
-
-A person has died due to a clash with a sharp weapon with a sharp weapon.
-
-The clash broke out in the evening of the Ratmalai area in Hettipola yesterday (06).
-
-The suspect is the son of the deceased person, and preferences have revealed that the murder had been carried out on a dispute between the son of the deceased.
-
-◼️
-
-[Data](articles/148b0f12.json)
-
-[Extended Data](ext_articles/148b0f12.ext.json)
-
----
-
-### Deposit of the President's Political Office
-
-*2024-06-07 07:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறந்து-வைப்பு/175-338577) · `ta`
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo, located at Sir Ernest de Silva Mawatha. The office, established under UNP leadership, will serve as the hub for his future political activities.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo yesterday.
-
-The new office is set up in Sir Ernest de Silva Mawatha, Colombo and future political activities will be carried out through the office, the Presidential Media Unit said.
-
-The initial measures to establish the president's political office were carried out under the leadership of the United National Party (UNP) and Member of Parliament Vajira Abeywardena.. (A)
-
-◼️
-
-[Data](articles/95a399cd.json)
-
-[Extended Data](ext_articles/95a399cd.ext.json)
-
----
-
-### Woman assassinated abroad and killed a woman
-
-*2024-06-07 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197481) · `si`
-
-A lone woman living abroad was murdered yesterday by another lonely woman in her home in the Mawathagama police division, using a sharp object.
-
-🟩
-
-A woman who lived alone in a foreign country was killed by a lonely woman yesterday (06).
-
-Police said the murder had been attacked with a sharp object in a house in the Mawathagama police division.
-
-◼️
-
-[Data](articles/2bcd5af4.json)
-
-[Extended Data](ext_articles/2bcd5af4.ext.json)
-
----
-
-### Sri Lanka legislators slam 49 renewables plants without tender, Adani deal
-
-*2024-06-07 07:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-legislators-slam-49-renewables-plants-without-tender-adani-deal-166770/) · `en`
-
-ECONOMYNEXT – Sri Lanka legislators have slammed 49 renewable energy deals running into hundreds of Megawatts each which are under consideration without competitive tenders and also India’s Adani deal  already procured at a high price.
-
-A cabinet paper was submitted on May 21, seeking approval for 49 plants, some as large as 700 MegaWatts which have been proposed following an Expression of Interest and no competitive bidding, opposition legislator Nalin Bandara Jayamaha said.
-
-“This paper was not on the lists of decisions released on May 22,” Jayamaha said in a debate on a new bill to reform and unbundle the electricity sector.
-
-The cabinet paper titled ‘Implementation of Renewable Energy Projects Received Through Expressions of Interest’ listed 49 projects, he said.
-
-The Supreme Court in a decision has said that earlier projects can be continued only if they were procured through competitive tender, Jayamaha said.
-
-...
-
-[Data](articles/a4f7b531.json)
-
-[Extended Data](ext_articles/a4f7b531.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 20:53:27**
+As of **2024-06-07 21:04:06**
 
 ## Newspaper Stats
 
-*Scraped **29,102** Articles*
+*Scraped **29,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,566
 economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,484
-adaderanalk | 3,296
+adaderanalk | 3,297
 tamilmirrorlk | 3,418
 virakesarilk | 4,467
 dailymirrorlk | 4,623
-adaderanasinhalalk | 4,668
+adaderanasinhalalk | 4,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,102 (100.0%) of 29,102 articles have been extended.
+29,102 (100.0%) of 29,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### හර්ෂ මුහුණදෙන තර්ජන ගැන හොයන්න CIDයට භාරදෙයි
+
+*2024-06-07 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197507) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මුහුණදෙන බවට පැවසෙන තර්ජන සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාර දී තිබේ.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ට කරන ලද නියෝගයක් මත එම තීරණය ගෙන තිබේ.
+
+◼️
+
+[Data](articles/10d2f690.json)
+
+---
+
+### CID to probe alleged threats against MP Harsha de Silva
+
+*2024-06-07 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99734/cid-to-probe-alleged-threats-against-mp-harsha-de-silva) · `en`
+
+Public Security Minister Tiran Alles has instructed IGP Deshabandu Tennakoon to direct the Criminal Investigation Department (CID) to investigate into the alleged threats SJB MP Dr. Harsha de Silva has received.
+
+Speaking in Parliament today (7), the opposition parliamentarian and economist claimed that he is faced with threats to his life.
+
+◼️
+
+[Data](articles/577d1d69.json)
+
+---
+
+### ආර්ථිකය නිවැරදි මඟකට ගන්නා හැටි ජනපති කියයි
+
+*2024-06-07 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197506) · `si`
+
+ආර්ථික පරිවර්තන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම තුළ මෙරට ආර්ථිකය නිවැරදි මඟකට ගෙන ඒමේ පළමු පියවර තබා ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒකල ප්‍රදේශයේ ඉදිකෙරුණු Cephalosporin ( සෙෆලෝස්පොරින් ) එන්නත් හා මෙල්ඩෝල් නිෂ්පාදන කර්මාන්තශාලාව විවෘත කිරීමේ අවස්ථාවට ඊයේ (06) පස්වරුවේ එක්වෙමින් ජනාධිපතිවරයාගේ ඒ බව පැවසීය.
+
+මෙල්වා සමූහ ව්‍යාපාරය යටතේ Sands Active පුද්ගලික සමාගම විසින් මෙම නිෂ්පාදන කටයුතු ආරම්භ කළ අතර එහි සමරු ඵලකය නිරාවරණය කළ ජනාධිපතිවරයා පසුව කර්මාන්තශාලාවේ නිරීක්ෂණ චාරිකාවකට ද එක්වුණි.
+
+එම අවස්ථාව සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය රාජිත සේනාරත්න මහතාද එක්ව සිටීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/b3662cec.json)
+
+---
 
 ### Sri Lanka cricket beat Sri Lanka
 
@@ -2277,65 +2323,5 @@ Investigations have revealed that the murder had taken place in conflict between
 [Data](articles/5af81472.json)
 
 [Extended Data](ext_articles/5af81472.ext.json)
-
----
-
-### Rail Mechanical Engineers Association Workplace;Cancels many train services
-
-*2024-06-07 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185493) · `ta`
-
-Due to a strike by the Mechanical Engineers Association over delays and issues affecting railway drivers, numerous train services were canceled today.
-
-🟩
-
-Many train services have been canceled this morning (07) as the Mechanical Engineers Association is in the works.
-
-The trade union action has been launched due to delay and many issues of railway drivers.
-
-◼️
-
-[Data](articles/af0ceb52.json)
-
-[Extended Data](ext_articles/af0ceb52.ext.json)
-
----
-
-### IMF on the restructuring of Sri Lanka's credit
-
-*2024-06-07 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197484) · `si`
-
-The IMF estimates Sri Lanka has sufficiently progressed in its debt restructuring process. The Director of the Communication Department expects a swift agreement with external commercial creditors, adhering to program parameters.
-
-🟩
-
-The Director of Communication Department says that the International Monetary Fund is estimated that Sri Lanka has made enough progress in the restructuring process.
-
-She further stated that in accordance with the program parameters, the contract is expected to come quickly with external commerce creditors.
-
-◼️
-
-[Data](articles/879b0f1c.json)
-
-[Extended Data](ext_articles/879b0f1c.ext.json)
-
----
-
-### Strong expectation that Sri Lanka will reach agreements with external creditors soon - IMF
-
-*2024-06-07 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99719/strong-expectation-that-sri-lanka-will-reach-agreements-with-external-creditors-soon-imf) · `en`
-
-The International Monetary Fund (IMF) says there is a strong expectation that Sri Lanka will soon reach agreements with external commercial creditors consistent with program parameters.
-
-“So overall we assess that there has been sufficiently strong progress on the debt restructuring front,” Julie Kozack, Director of the IMF Communications Department, said during a press briefing on Thursday (06).
-
-On March 21st, IMF staff and the Sri Lankan authorities reached staff-level agreement on economic policies to conclude the second review of the economic reform program and also the 2024 Article IV Consultation.
-
-Kozack confirmed that on June 12th, the IMF Executive Board will meet to discuss Sri Lanka’s second review and the Article IV Consultation.
-
-...
-
-[Data](articles/811cec2f.json)
-
-[Extended Data](ext_articles/811cec2f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 01:52:52**
+As of **2024-06-08 02:04:15**
 
 ## Newspaper Stats
 
-*Scraped **29,156** Articles*
+*Scraped **29,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,754
 adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,421
-virakesarilk | 4,473
+virakesarilk | 4,474
 dailymirrorlk | 4,632
 adaderanasinhalalk | 4,672
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,151 (100.0%) of 29,156 articles have been extended.
+29,156 (100.0%) of 29,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,28 @@ Under the agricultural modernization program implemented in 26 selected division
 [Data](articles/b9e9bc7f.json)
 
 [Extended Data](ext_articles/b9e9bc7f.ext.json)
+
+---
+
+### அயர்லாந்தை வீழ்த்தி ரி20 உலகக் கிண்ணத்தில் முதலாவது வெற்றியை ஈட்டியது கனடா
+
+*2024-06-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185575) · `ta`
+
+நியூயோர்க் நசவ் கன்ட்றி சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவடைந்த ஏ குழுவுக்கான ரி20 உலகக் கிண்ண போட்டியில் அயர்லாந்தை 12 ஓட்டங்களால்  கனடா  வெற்றிகொண்டது.
+
+இந்த வருட உலகக் கிண்ணப் போட்டியில் அறிமுகமான கனடா ஈட்டிய முதலாவது வெற்றி இதுவாகும்.
+
+இரண்டு அணிகளும் மந்தகதியில் ஓட்டங்களைப் பெற்றதால் பதிலுக்கு துடுப்பெடுத்தாடிய அயர்லாந்தின் 16ஆவது ஓவர்வரை ஆட்டத்தில் சுவாரஸ்யம் இருக்கவில்லை.
+
+ஆனால், மார்க் அடயாரும் ஜோர்ஜ் டொக்ரெல்லும் 17ஆவது ஓவரிலிருந்து விளாசி அடிக்கத் தொடங்கியதும் போட்டியில் ஓரளவு விறுவிறுப்பு ஏற்பட்டது. அவர்கள் இருவரது அதிரடிகள் காலம் தாழ்த்தி ஆரம்பிக்கப்பட்டதால் கனடாவின் வெற்றியை அவர்களால் தடுக்க முடியாமல் போனது.
+
+கனடாவினால் நிர்ணியிக்கப்பட்ட சுமாரான 138 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய அயர்லாந்து 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 125 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+மிக மோசமாக துடுப்பெடுத்தாடிய அயர்லாந்து 11ஆவது ஓவரில் 5 விக்கெட்களை இழந்து 53 ஓட்டங்களை மட்டும் பெற்றிருந்தது.
+
+...
+
+[Data](articles/f4725141.json)
 
 ---
 
@@ -446,6 +468,8 @@ During a recent visit to the North, President Ranil Wickremesinghe stated that t
 
 [Data](articles/0d8c26d2.json)
 
+[Extended Data](ext_articles/0d8c26d2.ext.json)
+
 ---
 
 ### Sri Lanka-China Friendship Association unveils “Sri Lanka Cheena Mithudama” book
@@ -461,6 +485,8 @@ The launch event was graced by prominent dignitaries, including the former Speak
 ...
 
 [Data](articles/8ff0e6ff.json)
+
+[Extended Data](ext_articles/8ff0e6ff.ext.json)
 
 ---
 
@@ -478,6 +504,8 @@ The Frontline Socialist Party Education Secretary Pubudu Jayagoda, academics Dr.
 
 [Data](articles/6d1f8b99.json)
 
+[Extended Data](ext_articles/6d1f8b99.ext.json)
+
 ---
 
 ### ACJU receives Tamil translation of Milinda’s “Ashoka Vadana” book
@@ -491,6 +519,8 @@ The book contains selected articles from his newspaper column of the same name t
 ◼️
 
 [Data](articles/c2c9d627.json)
+
+[Extended Data](ext_articles/c2c9d627.ext.json)
 
 ---
 
@@ -507,6 +537,8 @@ The monsoon rains have wreaked havoc, particularly in the districts of Colombo, 
 ...
 
 [Data](articles/a9ec8c5f.json)
+
+[Extended Data](ext_articles/a9ec8c5f.ext.json)
 
 ---
 
@@ -2107,31 +2139,5 @@ Accordingly, the Kegalle District Secretary said that it will be closed from tim
 [Data](articles/0d6320f4.json)
 
 [Extended Data](ext_articles/0d6320f4.ext.json)
-
----
-
-### Here is the method of cleansing 100,000
-
-*2024-06-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197495) · `si`
-
-In response to severe weather affecting 13 Divisional Secretariats, the Disaster Management Center Director announced financial aid of Rs. 10,000 per person for over 239,000 displaced individuals. Requirements include a grant officer certificate and relevant recommendations from the Grama Niladhari.
-
-🟩
-
-The public was informed about the amount of Rs.
-
-The Disaster Management Center Director Pradeep Kodippili said that the grant officer certificate is required.
-
-"Steps will be taken to provide Rs. 10,000 each for the government. The Grama Niladhari Certificate and the relevant recommendations are needed. "
-
-He said that due to inclement weather, he said that the people of 13 Divisional Secretariats have been affected by the LTTE.
-
-More than 239,000 persons have been displaced, he said.
-
-◼️
-
-[Data](articles/69fc0707.json)
-
-[Extended Data](ext_articles/69fc0707.ext.json)
 
 ---

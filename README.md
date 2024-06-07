@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 21:04:06**
+As of **2024-06-07 21:18:47**
 
 ## Newspaper Stats
 
-*Scraped **29,105** Articles*
+*Scraped **29,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,58 @@ adalk | 2,484
 adaderanalk | 3,297
 tamilmirrorlk | 3,418
 virakesarilk | 4,467
-dailymirrorlk | 4,623
+dailymirrorlk | 4,625
 adaderanasinhalalk | 4,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,102 (100.0%) of 29,105 articles have been extended.
+29,105 (100.0%) of 29,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### හර්ෂ මුහුණදෙන තර්ජන ගැන හොයන්න CIDයට භාරදෙයි
+### New city planned for residents along Kelani River bank
+
+*2024-06-07 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-city-planned-for-residents-along-Kelani-River-bank/108-284354) · `en`
+
+June 07- In light of the severe flood risk, plans are afoot to establish a new city along the Kelani River bank, designed to provide comprehensive amenities including hospitals, schools, and residential complexes.
+
+This initiative aims to enhance living standards for the local population, particularly given the proximity of major institutions like the IDH Hospital and the Sri Lanka Transport Board Depot.
+
+Authorities are set to engage with residents to incorporate their feedback, ensuring a community-driven development plan within the next decade.
+
+This was revealed by Senior Presidential Advisor on National Security and Chief of Staff, Sagala Ratnayaka.
+
+He also announced a LKR 10,000 allowance for each household affected by the recent floods.
+
+During his visit to the Kolonnawa area on June 7, Ratnayaka inspected flood-damaged homes and a medical clinic at the Kolonnawa Sri Sambuddharaja Purana Vihara, overseeing relief efforts.
+
+...
+
+[Data](articles/a9fd518f.json)
+
+---
+
+### Contact Harsha faces under CID
 
 *2024-06-07 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197507) · `si`
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මුහුණදෙන බවට පැවසෙන තර්ජන සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාර දී තිබේ.
+CID hands over threats to MP Dr. Harsha de Silva, as per Defense Minister Tiran Alles' directive issued by IGP Deshabandu Tennakoon.
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ට කරන ලද නියෝගයක් මත එම තීරණය ගෙන තිබේ.
+🟩
+
+The Investigation Criminal Investigations Department has handed over the threats to MP Dr. Harsha de Silva, MP, Dr. Harsha de Silva.
+
+The decision was taken by the Minister of Defense Minister Tiran Alles on an order issued by IGP Deshaband Tennakoon.
 
 ◼️
 
 [Data](articles/10d2f690.json)
+
+[Extended Data](ext_articles/10d2f690.ext.json)
 
 ---
 
@@ -58,23 +86,51 @@ Speaking in Parliament today (7), the opposition parliamentarian and economist c
 
 [Data](articles/577d1d69.json)
 
+[Extended Data](ext_articles/577d1d69.ext.json)
+
 ---
 
-### ආර්ථිකය නිවැරදි මඟකට ගන්නා හැටි ජනපති කියයි
+### President tells us how the economy is right
 
 *2024-06-07 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197506) · `si`
 
-ආර්ථික පරිවර්තන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම තුළ මෙරට ආර්ථිකය නිවැරදි මඟකට ගෙන ඒමේ පළමු පියවර තබා ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlights the introduction of the Economic Translation Bill as a crucial step towards improving the economy, aiming for a 5% GDP growth by 2027 and reducing unemployment to 5%. He emphasizes the importance of adhering to a nine-stage program without making empty promises, referencing agreements with the IMF and past decisions like increasing VAT, which led to strengthening the rupee.
 
-ඒකල ප්‍රදේශයේ ඉදිකෙරුණු Cephalosporin ( සෙෆලෝස්පොරින් ) එන්නත් හා මෙල්ඩෝල් නිෂ්පාදන කර්මාන්තශාලාව විවෘත කිරීමේ අවස්ථාවට ඊයේ (06) පස්වරුවේ එක්වෙමින් ජනාධිපතිවරයාගේ ඒ බව පැවසීය.
+🟩
 
-මෙල්වා සමූහ ව්‍යාපාරය යටතේ Sands Active පුද්ගලික සමාගම විසින් මෙම නිෂ්පාදන කටයුතු ආරම්භ කළ අතර එහි සමරු ඵලකය නිරාවරණය කළ ජනාධිපතිවරයා පසුව කර්මාන්තශාලාවේ නිරීක්ෂණ චාරිකාවකට ද එක්වුණි.
+President Ranil Wickremesinghe says that the first step in presiding the economic translation bill to be presented to the Parliament is the first step in the right path.
 
-එම අවස්ථාව සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය රාජිත සේනාරත්න මහතාද එක්ව සිටීම විශේෂත්වයකි.
+The President was speaking at the occasion of the opening of Cephalospoin in Ekala area and the opening of the Meldole Production factory at the opening of the Meldoor Factory.
+
+The production was commenced by Sands Active (II) under Melwa Group.
+
+Former Health Minister Rajitha Senaratne is also present.
 
 ...
 
 [Data](articles/b3662cec.json)
+
+[Extended Data](ext_articles/b3662cec.ext.json)
+
+---
+
+### Most flood deaths caused by reckless behavior: DMC
+
+*2024-06-07 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Most-flood-deaths-caused-by-reckless-behavior-DMC/108-284351) · `en`
+
+June 07 (Daily Mirror) - The causes of most of the deaths reported during floods are due to careless bathing, attempting to cross submerged roads and unsafe boating practices, the Disaster Management Centre (DMC) Director Pradeep Kodippli said.
+
+A total of 24 individuals lost their lives due to incidents like trees or soil collapsing on them, drowning and being swept away by floodwaters, he said.
+
+Additionally, 239,006 persons from 63,413 families were affected, with 16 sustaining injuries. There was only one person reported missing due to the floods.
+
+A total of 118 boats were used by the Sri Lanka Army to rescue the affected people, while the Sri Lanka Navy had assigned 31 boats.
+
+Kodippili urged people to refrain from visiting flood-affected areas or stepping into floodwaters.
+
+◼️
+
+[Data](articles/da86ac61.json)
 
 ---
 
@@ -2287,41 +2343,5 @@ Amendments will be made to reduce the 20 rupees for a unit of 30 -60 minbavanna,
 [Data](articles/6e662f01.json)
 
 [Extended Data](ext_articles/6e662f01.ext.json)
-
----
-
-### Parliament gathers
-
-*2024-06-07 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197485) · `si`
-
-Parliament meets to discuss crucial issues affecting the nation.
-
-🟩
-
-◼️
-
-[Data](articles/db0fcd13.json)
-
-[Extended Data](ext_articles/db0fcd13.ext.json)
-
----
-
-### A man killed by a sharp weapon in the conflict between the two sides!
-
-*2024-06-07 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185492) · `ta`
-
-A man was fatally stabbed during a dispute between him and another individual in the Ratmala area of the Bihimbiya region under the Hettipola police division on Thursday evening. The investigation indicates it was a conflict between father and son.
-
-🟩
-
-The incident took place on Thursday evening (06) evening in the Ratmala area of ​​the Bihimbiya area of ​​the Hettipola police division, police said.
-
-Investigations have revealed that the murder had taken place in conflict between the son of the deceased and the suspect.
-
-◼️
-
-[Data](articles/5af81472.json)
-
-[Extended Data](ext_articles/5af81472.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 20:04:44**
+As of **2024-06-07 20:19:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,097 (100.0%) of 29,100 articles have been extended.
+29,100 (100.0%) of 29,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,19 +106,25 @@ Forex pool, the main component of the uniform reserve assets, the forex reserve 
 
 ---
 
-### மொட்டு கட்சிக்கு புதிய தலைவர்?
+### New leader for the bud?
 
 *2024-06-07 18:33:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சிக்கு-புதிய-தலைவர்/175-338593) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன இன்று (07) காலை கொழும்பு, விஜேராமவில் உள்ள மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் முக்கிய சந்திப்பு ஒன்றை நடத்தியிருந்தது.
+A key meeting in Sri Lanka aimed to revamp the PA leadership, potentially naming Rohitha Abeygunawardena as the new "National Summoner."
 
-அரசியலமைப்பு திருத்தத்தின் மூலம் கட்சிக்கு புதிய தலைமை பதவியை ஏற்படுத்துவதே இதன் நோக்கமாக இருந்தது.
+🟩
 
-இதன்படி, பொதுஜன பெரமுனவின் தேசிய அழைப்பாளராக ரோஹித அபேகுணவர்தனவை நியமிப்பதற்கான ஏற்பாடுகள் மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+Sri Lanka PA held a major meeting at Mahinda Rajapaksa's official residence in Wijerama, Colombo this morning.
+
+The aim was to establish a new leadership for the party through a constitutional amendment.
+
+Accordingly, arrangements have been made to appoint Rohitha Abeygunawardena as the National Summoner of the PA. Remble
 
 ◼️
 
 [Data](articles/ab34b83d.json)
+
+[Extended Data](ext_articles/ab34b83d.ext.json)
 
 ---
 
@@ -550,23 +556,29 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 
 ---
 
-### හෙට සිට වැස්ස වැඩිවෙයි
+### Rain from tomorrow
 
 *2024-06-07 16:22:22* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-වැඩිවෙයි/11-410072) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින් වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (08දා) දින් සිට ඉදිරි දින් කිහිපයේදී බලාපොරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Tomorrow, heavy rainfall is forecasted for the southwest island, particularly affecting the Western, Sabaragamuwa, and Southern provinces, including Kandy and Nuwara Eliya districts. The Western and Sabaragamuwa Provinces, along with Nuwara Eliya, Galle, and Matara districts, are expected to receive more than 50mm of rain. Showers or thundershowers may also occur in the North Western, North, North-central regions, as well as in the Ampara and Batticaloa districts during the day or night.
 
-බස්නාහිර, සබරගමුව හා දකුණු පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවත් එම දෙපාර්තමේන්තුව අද පස්වරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි..
+🟩
 
-බස්නාහිර හා සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ දැක්වෙයි.
+The southwest part of the island is expected to be experiencing a rainy rain in the island tomorrow (08).
 
-වයඹ, උතුරු හා උතුරු-මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Western, Sabaragamuwa and Southern provinces and the department is issued in the Kandy and Nuwara Eliya districts this afternoon.
 
-ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts are located mm.. Heavy showers more than 50 will experience.
+
+Several spells of showers can occur in the North Western, North and North-central areas.
+
+Showers or thundershowers will occur at several places in the Ampara and Ampara and Batticaloa districts, or even nights.
 
 ◼️
 
 [Data](articles/588a62f7.json)
+
+[Extended Data](ext_articles/588a62f7.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 16:05:48**
+As of **2024-06-07 16:18:58**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,058 (100.0%) of 29,060 articles have been extended.
+29,060 (100.0%) of 29,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### බාබර් අසාම් පළමු තැනට
+### Barber Assam to the first place
 
 *2024-06-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197499) · `si`
 
-පන්දුවාර 20 යි 20 ජාත්‍යන්තර තරගවල වැඩිම ලකුණුලාභියා බවට පත්වීමට පාකිස්තාන කණ්ඩායමේ නායක බාබර් අසාම් සමත්ව තිබේ.
+Barber Assam leads Pakistan's cricket team, scoring the highest in 20 overs during a match against India. Despite losing to America in the World Cup, Assam remains a top scorer with 4,067 runs from 120 international games. Rohit Sharma follows closely with 152 runs in 152 matches.
 
-ඒ, මේ දක්වා එහි පෙරමුණ ගෙන සිටි ඉන්දීය පිතිකරු විරාත් කෝලි දෙවන ස්ථානයට පත් කරමින්.
+🟩
 
-ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අමෙරිකානු කණ්ඩායම සමග ඊයේ (06) පැවති තරගයේ දී පාකිස්තානයට අමිහිරි පරාජයක් අත්වූ නමුත් එම තරගයේ දී ලකුණු 44ක් වාර්තා කිරීමට බාබර් අසාම් පත්වීමත් සමග ඔහු මෙලෙස 20යි 20 වැඩිම ලකුණුලාභියා බවට පත්ව තිබේ.
+Leader of the Pakistan's leader Barber Assam has been able to become the highest mark in the 20 overs.
 
-ඒ අනුව 20යි 20 ජාත්‍යන්තර තරග 120කට සහභාගී වෙමින් බාබර් අසාම් රැස්කරගෙන ඇති මුළු ලකුණු සංඛ්‍යාව 4,067කි.
+The Indian batsmen who have taken the forefront to the second place to the second place.
 
-තරග 118ක දී ලකුණු 4,038ක් රැස්කර‍ගත් විරාත් කෝලි 20යි 20 වැඩිම ලකුණු ලාභීන් අතර දෙවන ස්ථානයට පත්ව සිටින අතර තරග 152ක දී ලකුණු 4,026ක් ලබාගනිමින් රෝහිත් ශර්මා එහි තෙවන ස්ථානයේ රැඳී සිටී.
+With the American group in the World Cup yesterday, Pakistan had a hideous defeat to Pakistan yesterday (06), but he had become 20 and the highest number of mark to record 44 runs.
+
+Accordingly, the total number of marked by Barber Assam has scored 4,067 while participating in 120 international matches.
+
+Rohith Sharma is in the third place in 152 runs in 152 matches.
 
 ◼️
 
 [Data](articles/1d0539b3.json)
 
+[Extended Data](ext_articles/1d0539b3.ext.json)
+
 ---
 
-### திடீரென பற்றி எரிந்த வாகனங்கள்
+### Suddenly burnt vehicles about
 
 *2024-06-07 15:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பற்றி-எரிந்த-வாகனங்கள்/175-338590) · `ta`
 
-நாவலப்பிட்டி - குறுந்துவத்த பொலிஸ் பிரிவுக்கு உட்பட்ட தொலஸ்பாகை மீனகொல்ல பிரதேசத்தில் வீட்டிற்கு முன் நிறுத்தி  வைக்கப்பட்டிருந்த வாகனங்கள் திடீரென தீப்பிடித்து எரிந்துள்ளன.
+In the Tholaspagai Meenakolla area, vehicles including a motorcycle and a van were mysteriously set ablaze around 3 am. The incident falls under the jurisdiction of the Nawalapitiya - SD police division. Investigations are ongoing by the CD police and fingerprint officials.
 
-இதில் மோட்டார் சைக்கிள் மற்றும் வேனும் இன்று  அதிகாலை  மூன்று மணியளவில் திடீரென தீப் பிடித்து எரிந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இது தொடர்பான மேலதிக விசாரணைகளை குறுந்துவத்த பொலிஸார்  மற்றும் கைரேகை அதிகாரிகள் முன்னெடுத்து வருகின்றனர். R
+Vehicles parked in front of the house in the Tholaspagai Meenakolla area, which belongs to the Nawalapitiya - SD police division, have suddenly burnt fire.
+
+It is reported that the motorcycle and the van have been set on fire at around three am this morning.
+
+Further investigations are being carried out by CD police and fingerprint officials. Remble
 
 ◼️
 
 [Data](articles/6ae780d6.json)
+
+[Extended Data](ext_articles/6ae780d6.ext.json)
 
 ---
 

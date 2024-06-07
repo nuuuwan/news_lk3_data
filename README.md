@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 08:34:21**
+As of **2024-06-07 08:53:30**
 
 ## Newspaper Stats
 
-*Scraped **28,987** Articles*
+*Scraped **28,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,475
 adaderanalk | 3,281
-tamilmirrorlk | 3,404
+tamilmirrorlk | 3,405
 virakesarilk | 4,445
 dailymirrorlk | 4,604
 adaderanasinhalalk | 4,646
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,987 (100.0%) of 28,987 articles have been extended.
+28,987 (100.0%) of 28,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### ’வட மாகாண அபிவிருத்தியில் விசேட கவனம்’
+
+*2024-06-07 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-அபிவிருத்தியில்-விசேட-கவனம்/175-338578) · `ta`
+
+யுத்தத்தினால் பாதிக்கப்பட்ட வட மாகாணத்தின் அபிவிருத்தி நடவடிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட கவனம் செலுத்தியுள்ளார் என கிராமிய பொருளாதார இராஜாங்க அமைச்சர் காதர் மஸ்தான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் காதர் மஸ்தான் இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+இன்று மக்கள் ஓரளவுக்கு அவர்களின் தேவைகளைப் பூர்த்தி செய்து வருகின்றனர். இந்த நிலையில், எமது பகுதிகளில் குறிப்பாக வவுனியா, முல்லைத்தீவு மற்றும் மன்னார் மாவட்டங்களில் அரசாங்கத்தின் பாரிய வேலைத் திட்டங்கள் நடந்து வருகின்றன.
+
+யுத்தத்தினால் பாதிக்கப்பட்ட மாகாணம் என்ற வகையில் வட மாகாணத்தின் அபிவிருத்திப் பணிகள் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட கவனம் செலுத்தி வருகிறார். குறிப்பாக அங்கு உள்ள பாராளுமன்ற உறுப்பினர்களுக்குத் தேவையான நிதிகளை ஒதுக்கி அனைவரையும் ஒன்றிணைத்து இப்பணிகளை ஜனாதிபதி முன்னெடுத்து வருகிறார்.
+
+...
+
+[Data](articles/8925e8ca.json)
+
+---
 
 ### Father killed in son's dispute
 
@@ -2165,29 +2183,5 @@ Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya�
 [Data](articles/4577fb0d.json)
 
 [Extended Data](ext_articles/4577fb0d.ext.json)
-
----
-
-### Opposition Leader Sajith visits Jaffna
-
-*2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185465) · `ta`
-
-Sajith Premadasa, the United People's Power Leader and Opposition Leader, will visit Jaffna from September 9th to 13th, focusing on educational development by donating smart classrooms worth Rs 11 lakh each to several schools across the region. Additionally, he plans to donate a bus to Victoria College in Chiripuram and engage in various social and political activities, meeting with local leaders and intellectuals.
-
-🟩
-
-United People's Power Leader and Opposition Leader Sajith Premadasa will visit the Jaffna election district from Sunday (09) to Thursday (13).
-
-Umachandra Prakash, United People's Power Media Spokesperson and Deputy Secretary, said the matter.
-
-Kilinochchi Bharathi Vidyalayam led by Kilinochchi constituency chief organizer Mariyadas Mariaseelan on Sunday (9) under the patronage of Vattiswara College, Nallur Vol.. Sen led by Kripakaran. He will provide smart classrooms worth Rs 11 lakh each to schools and schools.
-
-Opposition Leader of the Point Pedro and Udupitti constituencies will present smart classrooms worth Rs 11 lakh each to the US Mission Tamil Kalavan School and Udupiti Women's College, Kotawattai. On that day, Kankesanthurai constituency chief organizer Wanniyasingham Prabhakaran will donate a smart classroom worth Rs 11 lakh to Alavetti Arunodaya College.
-
-...
-
-[Data](articles/8fdbebfa.json)
-
-[Extended Data](ext_articles/8fdbebfa.ext.json)
 
 ---

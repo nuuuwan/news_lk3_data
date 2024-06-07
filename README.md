@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 23:24:46**
+As of **2024-06-07 23:34:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,122 (100.0%) of 29,124 articles have been extended.
+29,124 (100.0%) of 29,124 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He was arrested while hiding. His son had videoed him assaulting the child and r
 
 [Data](articles/d7aff1f6.json)
 
+[Extended Data](ext_articles/d7aff1f6.ext.json)
+
 ---
 
 ### Céline Dion says illness has caused muscle spasms that broke her ribs
@@ -68,17 +70,23 @@ Dion also said that when she experiences muscle spasms in her throat, “it’s 
 
 ---
 
-### சிறுமியை தாக்கிய குகுல் சமிந்த மீது கடுமையாக தாக்குதல்
+### Severe attack on Kukul Saminda attacking a girl
 
 *2024-06-07 22:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-தாக்கிய-குகுல்-சமிந்த-மீது-கடுமையாக-தாக்குதல்/175-338607) · `ta`
 
-முல்லைத்தீவு  - மணலாறு பகுதியில் நான்கரை வயது சிறுமி மீது தாக்குதல் நடத்திய குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள குகுல் சமிந்த மீது, இன்று (07) சிறைக் கைதிகள் கடுமையாக தாக்குதல் நடத்தியுள்ளனர்.
+Inmates attacked Kukul Saminda, accused of assaulting a young girl in Mullaitivu-Mannar, leaving him hospitalized in Anuradhapura Teaching Hospital.
 
-தாக்குதல் சம்பவத்தில் காயமடைந்த குகுல் சமிந்த, அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
+
+Prison inmates today (07) have been severely assaulted by Kukul Saminda, who has been interrogated on charges of attacking a four -and -a -half -year -old girl in the Mullaitivu - Mannar area.
+
+Kukul Saminda, who was injured in the attack, has been admitted to the Anuradhapura Teaching Hospital, police said.
 
 ◼️
 
 [Data](articles/8f2ca2e6.json)
+
+[Extended Data](ext_articles/8f2ca2e6.ext.json)
 
 ---
 

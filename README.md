@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 02:04:15**
+As of **2024-06-08 02:18:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,156 (100.0%) of 29,157 articles have been extended.
+29,157 (100.0%) of 29,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,25 +56,39 @@ Under the agricultural modernization program implemented in 26 selected division
 
 ---
 
-### அயர்லாந்தை வீழ்த்தி ரி20 உலகக் கிண்ணத்தில் முதலாவது வெற்றியை ஈட்டியது கனடா
+### Canada beat Ireland and won the first win in the R20 World Cup
 
 *2024-06-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185575) · `ta`
 
-நியூயோர்க் நசவ் கன்ட்றி சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவடைந்த ஏ குழுவுக்கான ரி20 உலகக் கிண்ண போட்டியில் அயர்லாந்தை 12 ஓட்டங்களால்  கனடா  வெற்றிகொண்டது.
+In the R20 World Cup, Canada secured its first victory against Ireland, winning by 12 runs. This historic win occurred in their debut appearance in the tournament. Despite Ireland's strong start, scoring 53 runs in the 11th over, Canada's bowlers Jeremy Gordon and Dilon Haligarer took crucial wickets, limiting Ireland to 125 runs. Canada's batting performance was led by Nicholas Carton and Shreyas Moawa, whose partnership contributed significantly to Canada's total of 137 runs.
 
-இந்த வருட உலகக் கிண்ணப் போட்டியில் அறிமுகமான கனடா ஈட்டிய முதலாவது வெற்றி இதுவாகும்.
+🟩
 
-இரண்டு அணிகளும் மந்தகதியில் ஓட்டங்களைப் பெற்றதால் பதிலுக்கு துடுப்பெடுத்தாடிய அயர்லாந்தின் 16ஆவது ஓவர்வரை ஆட்டத்தில் சுவாரஸ்யம் இருக்கவில்லை.
+Canada won Ireland by 12 runs in the R20 World Cup for A Group, which ended shortly before the New York Nasav Kanderi International Cricket Stadium.
 
-ஆனால், மார்க் அடயாரும் ஜோர்ஜ் டொக்ரெல்லும் 17ஆவது ஓவரிலிருந்து விளாசி அடிக்கத் தொடங்கியதும் போட்டியில் ஓரளவு விறுவிறுப்பு ஏற்பட்டது. அவர்கள் இருவரது அதிரடிகள் காலம் தாழ்த்தி ஆரம்பிக்கப்பட்டதால் கனடாவின் வெற்றியை அவர்களால் தடுக்க முடியாமல் போனது.
+This is the first win in Canada's debut in this year's World Cup.
 
-கனடாவினால் நிர்ணியிக்கப்பட்ட சுமாரான 138 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய அயர்லாந்து 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 125 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+Ireland's 16th over was not interesting in the match as the two teams scored the run.
 
-மிக மோசமாக துடுப்பெடுத்தாடிய அயர்லாந்து 11ஆவது ஓவரில் 5 விக்கெட்களை இழந்து 53 ஓட்டங்களை மட்டும் பெற்றிருந்தது.
+However, when Mark Adyar and George Dogrell began to hit the 17th over in the match, there was some excitement in the match. They were unable to prevent Canada's victory as the two of them were delayed.
+
+In response, Ireland lost 7 wickets in 20 overs and lost 125 runs.
+
+Ireland scored 53 runs for the loss of 5 wickets in the 11th over.
+
+In the forefront, both Andy Belberney (17) and Lokan Tucker (10) received double -digit numbers.
+
+The total number of wickets in the 13th over was just 59 runs.
+
+George Dogrell and Mark Adayar joined the 7th wicket and shared 62 runs.
+
+But in the last over, Ireland's success was dismantled by Mark Adyar's 34 runs.
 
 ...
 
 [Data](articles/f4725141.json)
+
+[Extended Data](ext_articles/f4725141.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 09:53:39**
+As of **2024-06-07 10:06:08**
 
 ## Newspaper Stats
 
-*Scraped **28,995** Articles*
+*Scraped **28,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,476
-adaderanalk | 3,281
+adaderanalk | 3,283
 tamilmirrorlk | 3,405
 virakesarilk | 4,445
 dailymirrorlk | 4,608
-adaderanasinhalalk | 4,647
+adaderanasinhalalk | 4,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,995 (100.0%) of 28,995 articles have been extended.
+28,995 (100.0%) of 28,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### පාර්ලිමේන්තුව රැස්වෙයි
+
+*2024-06-07 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197485) · `si`
+
+◼️
+
+[Data](articles/db0fcd13.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණය ගැන IMF මතය
+
+*2024-06-07 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197484) · `si`
+
+ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය ප්‍රමාණවත් තරම් ශක්තිමත් ප්‍රගතියක් ලබා ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල තක්සේරු කරන බව එහි සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා ජුලි කොසැක් පවසයි.
+
+ඇය වැඩිදුරටත් සඳහන් කරන්නේ වැඩසටහන් පරාමිතීන්ට අනුකූලව බාහිර වාණිජ ණයහිමියන් සමග ගිවිසුම් ඉක්මනින් එළඹෙනු ඇතැයි දැඩි අපේක්ෂාවකින් පසුවෙන බවය.
+
+◼️
+
+[Data](articles/879b0f1c.json)
+
+---
+
+### Strong expectation that Sri Lanka will reach agreements with external creditors soon - IMF
+
+*2024-06-07 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99719/strong-expectation-that-sri-lanka-will-reach-agreements-with-external-creditors-soon-imf) · `en`
+
+The International Monetary Fund (IMF) says there is a strong expectation that Sri Lanka will soon reach agreements with external commercial creditors consistent with program parameters.
+
+“So overall we assess that there has been sufficiently strong progress on the debt restructuring front,” Julie Kozack, Director of the IMF Communications Department, said during a press briefing on Thursday (06).
+
+On March 21st, IMF staff and the Sri Lankan authorities reached staff-level agreement on economic policies to conclude the second review of the economic reform program and also the 2024 Article IV Consultation.
+
+Kozack confirmed that on June 12th, the IMF Executive Board will meet to discuss Sri Lanka’s second review and the Article IV Consultation.
+
+...
+
+[Data](articles/811cec2f.json)
+
+---
 
 ### 5587 houses damaged due to inclement weather
 
@@ -95,6 +137,26 @@ The tragic and brutal loss of Yvonne has left an unfillable void in our hearts, 
 [Data](articles/632b80b8.json)
 
 [Extended Data](ext_articles/632b80b8.ext.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-06-07 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99718/showers-expected-in-parts-of-the-island) · `en`
+
+Showers will occur in Western, Sabaragamuwa and Southern provinces and Kandy and Nuwara-Eliya districts, the Department of Meteorology says.
+
+Several spells of showers may occur in North West, North and North Central Provinces.
+
+Showers or thundershowers will occur at several places in Eastern and Uva Provinces in the evening or at night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over Northern, North Central and North Western provinces and Hambantota district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7940c55d.json)
 
 ---
 
@@ -2095,99 +2157,5 @@ The establishment of the office was initiated by United National Party Chairman 
 [Data](articles/2faad05d.json)
 
 [Extended Data](ext_articles/2faad05d.ext.json)
-
----
-
-### Schools to be networked and digitized by July
-
-*2024-06-06 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-to-be-networked-and-digitized-by-July/108-284276) · `en`
-
-Colombo, June 6 (Daily Mirror) - By the end of July, all schools offering various subject streams will be brought together, and their information will be networked and digitized, Education Minister Susil Premajayantha said.
-
-While attending a programme today at Nalanda Vidyalaya, Colombo, as the chief guest for the commencement of the Advanced Level (A/L) studies for students who recently passed the Ordinary Level (O/L) examinations, the Minister announced that approximately 1,500 leading schools will be networked. He also stated that the pilot project for teaching artificial intelligence, which has already begun, will be implemented in these schools by January 2025.
-
-Additionally, it is essential to provide the necessary training for teachers. This includes updating their knowledge and skills with the use of smart boards and internet resources, he added.
-
-He said the teachers should also be equipped to handle challenges such as managing professional responsibilities when taking sick leave.
-
-...
-
-[Data](articles/86e67a35.json)
-
-[Extended Data](ext_articles/86e67a35.ext.json)
-
----
-
-### Amidst opposition
-
-*2024-06-06 17:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்புக்கு-மத்தியில்-மின்சார-சட்டமூலம்-நிறைவேற்றம்/175-338551) · `ta`
-
-Despite fierce opposition and constitutional concerns highlighted by the High Court regarding 54 clauses in the Electricity Board Reorganization Bill, it was passed with 103 votes in favor and 59 against. Key opposition figures and several independent MPs supported the government, while major opposition parties boycotted the vote. The bill's passage was secured by 44 additional votes, despite the absence of 62 MPs from both sides.
-
-🟩
-
-Amidst the fierce opposition of the opposition parties, the Electricity Board Reorganization Bill was passed by 44 additional votes.
-
-The bill was passed by 44 additional votes, with 103 votes and 59 votes in favor of the bill..  அரசு மற்றும் எதிர் கட்சிகளை சேர்ந்த 62  எம்.பி.க்கள் வாக்கெடுப்பில் பங்கேற்கவில்லை.
-
-The High Court has stated that there are 54 arrangements in the Electricity Board Reorganization Bill and that most of them are contrary to the constitution.Opposition parties insisted on not.
-
-However, the opposition parties urged the government to hold a debate at least two days if the government stood up in the launch of the debate on the Bill on Thursday morning (06) morning.. The government, which rejected the two demands of the opposition parties, was debating the bill when there was a fierce controversy over this and the logic between the government and the opposition parties.
-
-...
-
-[Data](articles/7e60b9c4.json)
-
-[Extended Data](ext_articles/7e60b9c4.ext.json)
-
----
-
-### The opportunity to complete the first degree in 21 years
-
-*2024-06-06 17:51:38* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-21-දී-ප්‍රථම-උපාධිය-සම්පූර්ණ-කිරීමට-අවස්ථාව/11-410057) · `si`
-
-Susil Premajayantha, the Minister of Education, highlighted the challenges faced by students during the O/L exams, emphasizing the importance of completing their education. He discussed the impact of the pandemic on schooling and the need for innovative teaching methods, including STEM education and the integration of technology in classrooms. The minister also addressed the issue of teacher training and the adaptation of education systems to modern needs, ensuring that education remains accessible and effective for all students.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the challenging of the students who had been adopted as the victims due to the time of the O / L examination were the time when the O / L examination was completed.
-
-The Minister made this observation as the Chief Guest at a program held today to commence Advanced Level Studies.
-
-The Minister said that the people who sat for the GCE Ordinary Level examination this year have been identified as school children.
-
-The Ministry of Education has taken steps to sit for the O / L examination as soon as the average range of results are usually taken to release their continued education opportunities.The Minister further stated that it is directly related to the exam timetable and school term notes that have missed the last covard season.. He said that the ideas of various scholars, including educators, were reviewed.
-
-...
-
-[Data](articles/0dc8a8c4.json)
-
-[Extended Data](ext_articles/0dc8a8c4.ext.json)
-
----
-
-### 14 of those killed in Israel's attack on UN school in Gaza - Gaza Health Ministry
-
-*2024-06-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185471) · `ta`
-
-Israel's attack on a UN school in Gaza resulted in 40 deaths, including 14 children, with two boys and nine girls among them. The incident occurred amidst reports of displacement and accusations from Hamas about false justifications for the conflict.
-
-🟩
-
-Officials of Gaza's Health Ministry said that Israel's attack on the UN school in the middle of Gaza was killed by 40 people, including 14 children.
-
-Two of the 40s of the 40 are boys, nine girls, two of Gaza's Health Ministry officials have reported to Reuters.
-
-According to journalists who witnessed the Israeli airplane attack on two classrooms found on the top of the school in Nusair
-
-We have been displaced many times.
-
-Hamas has reported that the occupation forces are publishing myths to justify their ruthless war against displaced people.
-
-◼️
-
-[Data](articles/3f82cc2b.json)
-
-[Extended Data](ext_articles/3f82cc2b.ext.json)
 
 ---

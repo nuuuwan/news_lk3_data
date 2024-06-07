@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 01:04:09**
+As of **2024-06-08 01:19:40**
 
 ## Newspaper Stats
 
-*Scraped **29,131** Articles*
+*Scraped **29,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 283
 newsfirstlk | 363
 islandlk | 1,566
 economynextcom | 1,669
-dailyftlk | 1,730
+dailyftlk | 1,754
 adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,420
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,131 (100.0%) of 29,131 articles have been extended.
+29,131 (99.9%) of 29,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Prime Minister meets European Union delegation
+
+*2024-06-08 00:39:47* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-meets-European-Union-delegation/56-762818) · `en`
+
+Prime Minister Dinesh Gunawardena yesterday held a discussion with the European Union Exploratory Mission (ExM) of the EU Election Observatory Mission (EOM) at the Temple Trees.
+
+The delegation discussed issues pertaining to forthcoming elections in Sri Lanka and explained the EU’s methods of election monitoring after entering into an agreement with the Government and the Election Commission.
+
+When they said that there were rumours regarding the next election, the Prime Minister stated that the Constitutional Provision was very clear on the Presidential Election and already the Election Commission has made an announcement with this regard. He assured that elections will be held in accordance with the constitution and the elections will be free and fair.
+
+...
+
+[Data](articles/544d9b33.json)
+
+---
+
+### Parliament passes Public Debt Management Bill: Semasinghe
+
+*2024-06-08 00:38:54* · [`dailyftlk`](https://www.ft.lk/news/Parliament-passes-Public-Debt-Management-Bill-Semasinghe/56-762817) · `en`
+
+State Minister of Finance Shehan Semasinghe confirmed that Parliament passed the Public Debt Management Bill yesterday.
+
+Taking to ‘X’ yesterday, he highlighted the Bill’s significance for public debt management.
+
+The newly passed Bill provides a comprehensive framework for managing public debt, including authorising borrowing, issuing, and servicing public debt on behalf of the Government.
+
+Semasinghe noted that the Bill also facilitates issuing guarantees, on-lending, and entering into suppliers’ credit and financial lease agreements. A key feature of the Bill is the establishment of the Public Debt Management Office, which will oversee these activities and ensure effective management of the country’s debt.
+
+◼️
+
+[Data](articles/43b62403.json)
+
+---
 
 ### Canada stun Ireland by 12 runs in T20 World Cup
 
@@ -53,6 +87,102 @@ The 37-year-old Guyana-born Gordon finished with fine figures of 2-16 from his m
 [Data](articles/83045a63.json)
 
 [Extended Data](ext_articles/83045a63.ext.json)
+
+---
+
+### Sri Lankan delegation successfully concludes visit to Pakistan
+
+*2024-06-08 00:12:10* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-delegation-successfully-concludes-visit-to-Pakistan/56-762816) · `en`
+
+At the invitation of the Government of Pakistan as a State Guest, Minister of Buddhasasana, Religious, and Cultural Affairs of Sri Lanka Vidura Wickramanayaka led a delegation to Pakistan on 27 May, to participate in the international symposium and exhibition titled “From Gandhara to the World: The Legacy of Gandharan Buddhism” held in connection with Vesak Day 2024.
+
+...
+
+[Data](articles/4958910f.json)
+
+---
+
+### High Commissioner of New Zealand presents credentials to Sri Lanka
+
+*2024-06-08 00:09:53* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-of-New-Zealand-presents-credentialsto-Sri-Lanka/56-762815) · `en`
+
+The Government of New Zealand with the concurrence of the Government of Sri Lanka has appointed David Gregory Pine as High Commissioner of New Zealand to Sri Lanka based in Colombo. He has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
+
+◼️
+
+[Data](articles/cd32f7e5.json)
+
+---
+
+### Ambassador of Greece presents credentials to Sri Lanka
+
+*2024-06-08 00:09:05* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-Greece-presents-credentials-to-Sri-Lanka/56-762814) · `en`
+
+The Government of the Hellenic Republic (Greece) with the concurrence of the Government of Sri Lanka has appointed Aliki Koutsomitopoulou as Ambassador Extraordinary and Plenipotentiary of the Hellenic Republic to Sri Lanka based in New Delhi. She has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
+
+◼️
+
+[Data](articles/956e8111.json)
+
+---
+
+### High Commissioner of Maldives presents credentials to Sri Lanka
+
+*2024-06-08 00:08:26* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-of-Maldives-presents-credentials-to-Sri-Lanka/56-762813) · `en`
+
+The Government of the Republic of Maldives with the concurrence of the Government of Sri Lanka has appointed Masood Imad as High Commissioner of the Republic of Maldives to Sri Lanka based in Colombo. He has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
+
+◼️
+
+[Data](articles/d4991616.json)
+
+---
+
+### Sri Lanka mission in Canberra hosts Australia-Sri Lanka Parliamentary Friendship Group
+
+*2024-06-08 00:07:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-mission-in-Canberra-hosts-Australia-Sri-Lanka-Parliamentary-Friendship-Group/56-762812) · `en`
+
+The Sri Lanka High Commission in Canberra in collaboration with the Australia-Sri Lanka Parliamentary Friendship Group organised an event on 28 May to mark the first anniversary of the re-launching of the Group as well as to celebrate significant cultural and religious festivals namely the Sinhala and Tamil New Year and Vesak.
+
+Australian Assistant Foreign Minister Tim Watts was the Guest of Honour.
+
+Sri Lanka born Cassandra Fernando, MP of the Federal Parliament and Labour Party member as the Chair of the Group together with Senator James McGrath of the Liberal Party, the Vice Chair were associated with the invitation.
+
+The guest list included over 15 MPs of the House of Representatives and the Senate, as well as officials from the Department of Foreign Affairs and Trade, and Research Assistants from the Parliament.
+
+...
+
+[Data](articles/eab4516f.json)
+
+---
+
+### Ambassador-designate of Sri Lanka to Myanmar assumes duties
+
+*2024-06-08 00:04:52* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-designate-of-Sri-Lanka-to-Myanmar-assumes-duties/56-762811) · `en`
+
+The newly appointed Ambassador-designate of Sri Lanka to Myanmar Prabashini Ponnamperuma assumed duties at the Sri Lanka Embassy in Yangon on 3 June.
+
+Addressing the staff of the Embassy upon assumption of duties, the Ambassador stated that she is dedicated to strengthening the longstanding friendly relations between Sri Lanka and Myanmar, based on Theravada Buddhism. She also highlighted the need to enhance economic, political, and cultural connectivity between the two countries for mutual benefit.
+
+Ambassador-designate Ponnamperuma is a career Foreign Service Officer with more than 21 years of service in Sri Lanka Foreign Service, who held different positions in the Ministry of Foreign Affairs and Sri Lanka Missions abroad.
+
+◼️
+
+[Data](articles/cf1beeec.json)
+
+---
+
+### Sri Lanka represented at 21st IISS Shangri-La Dialogue 2024 in Singapore
+
+*2024-06-08 00:04:17* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-represented-at-21stIISS-Shangri-La-Dialogue-2024-in-Singapore/56-762810) · `en`
+
+The 21st Shangri-La Dialogue 2024, Asia’s premier security summit, organised by the International Institute for Strategic Studies (IISS), took place in Singapore from 31 May to 2 June.
+
+The Dialogue brings together defence ministers, military chiefs, and high-ranking officials from around the world to discuss urgent security challenges, to exchange views on the most significant security issues faced in the Asia Pacific Region and promote international cooperation. The summit was attended by representatives from 45 countries, with 49 ministerial-level delegates, over 40 senior defence officials and esteemed academics. Sri Lanka was represented at the summit by Chief of Defence Staff General Shavendra Silva, Sri Lanka Navy Commander Vice Admiral Priyantha Perera, and High Commissioner of Sri Lanka to Singapore Senerath Dissanayaka.
+
+...
+
+[Data](articles/3b961fe3.json)
 
 ---
 
@@ -95,6 +225,228 @@ While most of the demands of the strikers are understandable, what the public fi
 ---
 
 ### 2024-06-07 (Friday)
+
+### Change is good: Provided it is for better and not for worse
+
+*2024-06-07 23:56:50* · [`dailyftlk`](https://www.ft.lk/opinion/Change-is-good-Provided-it-is-for-better-and-not-for-worse/14-762802) · `en`
+
+People’s aspiration and hope for a change was short lived and short changed, widening the mistrust between policy makers and electorate further
+
+One fact remains as an acceptable analogy; which is, those who cannot cope with change will never be able to initiate change in any circumstances. This applies to all stakeholders including those who caused and contributed to the current crisis. Fair share of responsibilities fall on to the electorate who got carried away with populism engineered by few; with an ultimate aim of state and regulatory capture for their advantage leaving the country into a dire state grappling with debt. Therefore, capacity and capability to initiate that essential change is absent in the DNA of politicians who deceived their constituents
+
+...
+
+[Data](articles/4fed792a.json)
+
+---
+
+### Understanding Sinhala Buddhism: Lessons from the recent past
+
+*2024-06-07 23:55:02* · [`dailyftlk`](https://www.ft.lk/opinion/Understanding-Sinhala-Buddhism-Lessons-from-the-recent-past/14-762801) · `en`
+
+Review of Buddhism in Sinhalese Society 1750-1900: A Study of Religious Revival And Change by Kitsiri Malagoda, Colombo, Tambapanni Academic Publishers, 2023, 300pp. ISBN: 9786245529094
+
+Sri Lankan Buddhists are spoiled for choice these days. Depending on where your faith lies and what tugs at your heart, it seems you can choose the flavour of Theravada Buddhism that suits you best: from the traditional temple Buddhism of the great sects of Kandy to the radical orthopraxy of ascetic Buddhism in remote forest monasteries, and from the devotional Buddhism of Mahamevna to the contrarian, eclectic mix of teachings at Umandawa, the variety can be dazzling—so much so that one could be excused for thinking that this lack of homogeneity is a sign of decay.
+
+...
+
+[Data](articles/4021bf87.json)
+
+---
+
+### Sri Lanka-Greater Mekong Business Council engages with Vietnam Ambassador on trade partnerships
+
+*2024-06-07 23:53:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Greater-Mekong-Business-Council-engages-with-Vietnam-Ambassador-on-trade-partnerships/34-762800) · `en`
+
+From left: Ranil Chandrasekara, Shaameel Mohideen, Ranil Seneviratne, SLGMBC Immediate Past President Mahen Weerasekera, President S.M.D. Suriyakumara, Vietnam Ambassador Ho Thi Thanh Truc, Tilak Gunawardane, Nishan Seneviratne, SLGMBC Vice President Tran Trong Thanh, Vietnam Embassy Counsellor and Deputy Chief of Mission Noory Kiyas, and Ceylon Chamber of Commerce Secretariat’s Amanthi Silva
+
+A recent meeting between the Sri Lanka-Greater Mekong Business Council (SLGMBC) of the Ceylon Chamber and the Ambassador of Vietnam to Sri Lanka Ho Thi Thanh Truc, focused on identifying strategies to boost production, increase exports, and attract investments in various sectors, including agriculture, construction, logistics, tourism, and pharmaceuticals.
+
+...
+
+[Data](articles/254e96b9.json)
+
+---
+
+### Culinary Art Food Expo kicks off at BMICH
+
+*2024-06-07 23:52:29* · [`dailyftlk`](https://www.ft.lk/business/Culinary-Art-Food-Expo-kicks-off-at-BMICH/34-762799) · `en`
+
+The Chefs Guild of Lanka yesterday held the Culinary Art Food Expo and the Live Cooking Competition at the BMICH. Korean Ambassador Miyon Lee and World Association of Chefs Societies President Chef Thomas Gugler inaugurated the event along with Chefs Guild of Lanka and Culinary Art Food Expo 2024 Chairman Chef Gerard Mendis. The objective of the event titled ‘Tea, Spice, and Coconut Festival and Culinary Talent Hunt” is to promote our cuisines to the world. The event concludes tomorrow
+
+◼️
+
+[Data](articles/d9de81bf.json)
+
+---
+
+### Litro celebrates World LPG Day 2024 with renewed commitment to energy security
+
+*2024-06-07 23:49:35* · [`dailyftlk`](https://www.ft.lk/business/Litro-celebrates-World-LPG-Day-2024-with-renewed-commitment-to-energy-security/34-762798) · `en`
+
+In commemoration of World LPG Day 2024, Litro Gas Lanka Ltd., Sri Lanka’s leading LPG provider, reaffirms its dedication to driving social, environmental, and economic transformation through the promotion of clean energy. This year’s celebration themed “Showcasing and Celebrating the People Behind LPG” holds particular significance for Sri Lanka as Litro Gas has successfully positioned LPG and energy security at the forefront of nation-building efforts.
+
+Litro Gas’s comprehensive approach to leveraging LPG has spanned from supporting large export-driven business enterprises to empowering small and medium-scale entrepreneurs (SMEs). This strategic utilisation of LPG as an essential commodity fuels the engines of the local economy from micro-entrepreneurs to large-scale industries, highlighting its critical role in both economic stability and growth.
+
+...
+
+[Data](articles/7fb71470.json)
+
+---
+
+### NDB Bank powers Avurudu celebrations with NEOS app in unique gaming and gifting initiative
+
+*2024-06-07 23:49:04* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-powers-Avurudu-celebrations-with-NEOS-app-in-unique-gaming-and-gifting-initiative/34-762797) · `en`
+
+NDB Bank enhanced Sri Lanka’s New Year celebrations through its NDB Avurudu Dupatha campaign which was conducted in a custom crafted virtual island featuring the NDB NEOS app.
+
+The campaign which was designed and executed with Gamer.LK, not only marks a significant advancement in showcasing digital banking utilities, but also showcases NDB’s commitment to pioneering new realms of customer engagement, underlining its leadership in the industry.
+
+The interactive experience, a collaboration between NDB Bank and Gamer.LK, the premier Video Games & Esports agency in Sri Lanka, saw the unveiling of a vibrant playable “Avurudu Dupatha” with Avurudu games, characters and stories. The island featured an engaging Avurudu storyline where players had to come together to find “NDB fragments” that unlocked powers to defeat the Economic Demon plaguing the island.
+
+...
+
+[Data](articles/71135d9b.json)
+
+---
+
+### SLT-Mobitel and Dept. of Pensions launch easy payment plans for smartphones for State pensioners
+
+*2024-06-07 23:48:14* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-and-Dept-of-Pensions-launch-easy-payment-plans-for-smartphones-for-State-pensioners/34-762796) · `en`
+
+SLT-Mobitel, together with the Department of Pensions, announced the celebration of the 15th anniversary of Upahara, recognising State pensioners for their untiring dedication serving the nation, with special and attractive value-added device offers designed to provide them with peace of mind and ease of life.
+
+The Upahara Device offers strongly align with SLT-Mobitel’s commitment to supporting and valuing senior citizens by providing them with access to essential communication and connectivity solutions that are also convenient and affordable.
+
+The special initiative includes exclusive monthly payment offers on 4G smartphones, 4G mobile routers, and 4G dongles, providing great value and tailored to meet the diverse needs of pensioners, ensuring they remain connected and informed in today’s digital age.
+
+...
+
+[Data](articles/43ca919f.json)
+
+---
+
+### Daraz announces Mid-Year Sale offers
+
+*2024-06-07 23:48:06* · [`dailyftlk`](https://www.ft.lk/business/Daraz-announces-Mid-Year-Sale-offers/34-762795) · `en`
+
+Product discounts of up to 70% with Free Delivery on over 500,000 items
+
+e-commerce platform Daraz announced the launch of the Daraz Mid-Year Sale, running from 6 to 12 June, featuring a wide array of fashion, lifestyle, beauty, mother and baby, and electronics products, with unbeatable deals and Free Delivery vouchers.
+
+This mega sale event will offer shoppers over Rs. 10 million worth of Mega Vouchers as well as up to 70% off discounts on Mega Deals, which will be available on selected purchases via the Daraz app or website. Additionally, during the Sale period buyers can obtain unparalleled savings with over 500,000 items featuring Free Delivery.
+
+...
+
+[Data](articles/a6b6df0f.json)
+
+---
+
+### How Argentina’s once great economy was destroyed? Lessons for Sri Lanka
+
+*2024-06-07 23:46:28* · [`dailyftlk`](https://www.ft.lk/columns/How-Argentina-s-once-great-economy-was-destroyed-Lessons-for-Sri-Lanka/4-762794) · `en`
+
+Argentina’s exemplary economic success took a wrong turn from 1946 when Juan Peron became president and he implemented economic policies to make Argentina self-sufficient
+
+As Argentina was the fifth largest economy in the world in the early 1900s, Sri Lanka was one of the best economies in Asia and was referred to as the Switzerland of Asia. Sri Lanka’s downfall too was due to looking into import substitution starting in the mid 1950s. Sri Lanka went into a disastrous overdrive towards import substitution and self-sufficiency starting in 1970 which led to goods shortages and high prices and an economic crisis. Sri Lanka opened its economy in 1977. But the Sri Lankan economy has not remained fully open since then and many of the tough reforms were not done when Sri Lanka opened its economy leading to many lost economic opportunities for the country
+
+...
+
+[Data](articles/23ab0e7d.json)
+
+---
+
+### Foreign missions urged to support justice in Navy abduction case amid AG’s shift on Karannagoda
+
+*2024-06-07 23:14:46* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-missions-urged-to-support-justice-in-Navy-abduction-case-amid-AG-s-shift-on-Karannagoda/14-762780) · `en`
+
+Families express concern over political influence as AG may drop charges against former Navy Chief Wasantha Karannagoda
+
+In a letter to foreign diplomatic missions in Sri Lanka, the Families of the Disappeared, an organisation advocating for justice for victims of enforced disappearances, this week expressed concern that the Attorney General may drop charges against former Navy Chief Wasantha Karannagoda, the 14th accused in the Navy abduction for ransom case.
+
+The organisation noted that the writ application filed by Karannagoda seeking his dismissal from the case will be taken up before the Court of Appeal for consideration on 3 June and sought the support of the foreign missions to uphold the rule of law in Sri Lanka. They also expressed their determination to prevent the Attorney General from withdrawing charges against Karannagoda.
+
+...
+
+[Data](articles/db5d7907.json)
+
+---
+
+### Unreleased Nawaz Commission report may hold key to acceptable Truth and Reconciliation Commission
+
+*2024-06-07 23:14:28* · [`dailyftlk`](https://www.ft.lk/opinion/Unreleased-Nawaz-Commission-report-may-hold-key-to-acceptable-Truth-and-Reconciliation-Commission/14-762779) · `en`
+
+The National Peace Council (NPC) in a statement said the unreleased Nawaz Commission report may hold the key to acceptable Trust and Reconciliation Commission (TRC).
+
+During a recent visit to the North, President Ranil Wickremesinghe stated that the Government would be establishing a Truth and Reconciliation Commission (TRC) to address human rights issues that arose out of the three-decade long war. He said that the legislation was nearly finalised with the main remaining question being whether the power to prosecute war crimes should be given to the commission or to a special court. The President said, “We’re deliberating whether the TRC should wield judicial authority or if a separate court should be empowered based on TRC recommendations. This decision is paramount, and I’ve tasked relevant ministers, in consultation with parliamentarians and ambassadors, to draft legislation for parliamentary review.”
+
+...
+
+[Data](articles/0d8c26d2.json)
+
+---
+
+### Sri Lanka-China Friendship Association unveils “Sri Lanka Cheena Mithudama” book
+
+*2024-06-07 23:14:14* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-China-Friendship-Association-unveils-Sri-Lanka-Cheena-Mithudama-book/14-762778) · `en`
+
+From left: Chinese Ambassador to Sri Lanka Qi Zhenhong, Sri Lanka-China Friendship Association President Ananda Goonatilleke and former Speaker of Parliament Karu Jayasuriya – Pix by Upul Abayasekara
+
+The Sri Lanka-China Friendship Association (SLCFA) proudly launched the book “Sri Lanka Cheena Mithudama” (Sri Lanka China Friendship) at a ceremonious event held recently at the auditorium of the National Library and Documentation Services Board of Sri Lanka.
+
+The launch event was graced by prominent dignitaries, including the former Speaker of the Parliament of Sri Lanka Karu Jayasuriya, who was the keynote speaker, and Ambassador for the People’s Republic of China Qi Zhenhong who was the Guest of Honour.
+
+...
+
+[Data](articles/8ff0e6ff.json)
+
+---
+
+### Release of book ‘Talking to My Daughter – A Brief History of Capitalism’ in Sinhala
+
+*2024-06-07 23:11:11* · [`dailyftlk`](https://www.ft.lk/opinion/Release-of-book-Talking-to-My-Daughter-A-Brief-History-of-Capitalism-in-Sinhala/14-762777) · `en`
+
+A Sinhala translation of the book ‘Talking to My Daughter - A Brief History of Capitalism’ written by the famous economist, political activist, and former Finance Minister of Greece, Yanis Varoufakis, and published by the Revolutionary Students’ Union, was released on Sunday.
+
+University students, academics, artists, and representatives of trade unions and mass organisations, participated in this event, which was held at the Colombo National Library Auditorium.
+
+The Frontline Socialist Party Education Secretary Pubudu Jayagoda, academics Dr. Kalpa Rajapaksha and Sumith Chaaminda, and the Revolutionary Students’ Union Organising Secretary Mangala Maddumage, shared some initial thoughts. This was then followed by an open discussion with participants.
+
+...
+
+[Data](articles/6d1f8b99.json)
+
+---
+
+### ACJU receives Tamil translation of Milinda’s “Ashoka Vadana” book
+
+*2024-06-07 23:09:24* · [`dailyftlk`](https://www.ft.lk/opinion/ACJU-receives-Tamil-translation-of-Milinda-s-Ashoka-Vadana-book/14-762776) · `en`
+
+Pathfinder Foundation Founder, former Cabinet Minister and High Commissioner to India Milinda Moragoda recently published a book titled “Ashoka Vadana” translated into Tamil as “Malarum Yugathirku Pudiyathor Vadivam” and handed over to All Ceylon Jamiyyathul Ulama (ACJU) President M.I.M. Rizwe Mufthi, office bearers and the Executive Committee of the ACJU at the event held at the headquarters in Colombo.
+
+The book contains selected articles from his newspaper column of the same name that ran during Moragoda’s tenure as High Commissioner to India. The purpose of the column was to present the experience of India in the realms of economics, science, society, and politics placed within the context of Sri Lanka.
+
+◼️
+
+[Data](articles/c2c9d627.json)
+
+---
+
+### Sri Lanka Red Cross Society responds to escalating flood situation
+
+*2024-06-07 23:08:44* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-Red-Cross-Society-responds-to-escalating-flood-situation/14-762775) · `en`
+
+The country’s largest humanitarian organisation, Sri Lanka Red Cross Society (SLRCS) said it is gravely concerned about the escalating flood situation caused by the Southwest monsoon rains, which have affected over 250,000 individuals and 66,000 families across the country.
+
+The catastrophic weather conditions have resulted in 24 fatalities, with one person still reported missing.
+
+The monsoon rains have wreaked havoc, particularly in the districts of Colombo, Gampaha, Kalutara, Matara, Galle, Ratnapura, and Puttalam. Thousands of families have been forced to evacuate their homes and seek refuge in safe locations such as temples, churches, and other public places, with many inaccessible areas in the country. Many homes have sustained severe damage, power supplies have been disrupted, and children are unable to attend school due to closures.
+
+...
+
+[Data](articles/a9ec8c5f.json)
+
+---
 
 ### Man in viral child assault video attacked in Prison
 
@@ -1739,565 +2091,5 @@ Leader of the Opposition Sajith Premadasa who also joined the crosstalk in the H
 [Data](articles/f02d501e.json)
 
 [Extended Data](ext_articles/f02d501e.ext.json)
-
----
-
-### Section of Colombo–Kandy road to be closed intermittently
-
-*2024-06-07 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99725/section-of-colombokandy-road-to-be-closed-intermittently-) · `en`
-
-The Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08), says the Kegalle District Secretary.
-
-Accordingly, the section of the road will be closed from time to time between 10.30 a.m. and 6.30 p.m.
-
-The Kegalle District Secretary also said that the closure is necessary to remove unstable rocks and tree branches along this section of the road.
-
-◼️
-
-[Data](articles/426dda13.json)
-
-[Extended Data](ext_articles/426dda13.ext.json)
-
----
-
-### Passengers solve from railway strips
-
-*2024-06-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197494) · `si`
-
-A strike by train drivers, part of the Locotiv Opposition Association, threatens to cancel 100 railway lines by evening. Only two train conductors have joined, disrupting services and causing inconvenience to passengers.
-
-🟩
-
-Trade launched by several demands was severely embarrassed by a group of train drivers from midnight yesterday (07).
-
-The Locootiv Opposition Association of the strike says that by 100 railway lines can be canceled at the end of this afternoon.
-
-The strike, which launches the Locotiv Occupine Engineering Association, only two trains layers have joined the drivers.
-
-It is reported that the execution of forces are not running.
-
-Railway Trade Unions The Railway Trade Unions are suffering from time to time.
-
-◼️
-
-[Data](articles/50242c9a.json)
-
-[Extended Data](ext_articles/50242c9a.ext.json)
-
----
-
-### ICC treats various teams differently, SLC has already complained: Minister
-
-*2024-06-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-treats-various-teams-differently-SLC-has-already-complained-Minister/108-284341) · `en`
-
-Parliament, June 07 (Daily Mirror)- Admitting the fact that the Sri Lankan cricket team touring the USA for the T20 World Cup has faced inconveniences, Sports Minister Harin Fernando said Sri Lanka Cricket (SLC) has already lodged a complaint with the International Cricket Council (ICC) over the matter.
-
-Responding to a question by Opposition Leader Sajith Premadasa, he said the ICC has treated Cricket Boards in various countries differently.
-
-"Not only had the Sri Lankan team wait for about seven hours to take a flight as reported, the Ireland and South Africa teams also had faced a similar ordeal. Cricket Boards in various countries have been treated differently by the ICC. For example, the Bangladesh team is the first team that has to travel the most number of kilometres and the Sri Lankan team is the second. SLC has already lodged a complaint with the ICC," he said.
-
-...
-
-[Data](articles/be639c92.json)
-
-[Extended Data](ext_articles/be639c92.ext.json)
-
----
-
-### Lower Kadugannawa section closes at times tomorrow
-
-*2024-06-07 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197493) · `si`
-
-The Lower Kadugannawa road closure is scheduled for tomorrow due to rock removal and tree branch clearing activities.
-
-🟩
-
-The lower Kadugannawa road on Colombo Kandy road will be closed tomorrow (08).
-
-He said that the rock with rising rocks and remove the branches of the trees.
-
-◼️
-
-[Data](articles/223db29d.json)
-
-[Extended Data](ext_articles/223db29d.ext.json)
-
----
-
-### Pahala Kadugannawa Road to close tomorrow
-
-*2024-06-07 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pahala-Kadugannawa-Road-to-close-tomorrow/108-284340) · `en`
-
-Kandy, June 07 (Daily Mirror)- The Pahala Kadugannawa area on the Colombo-Kandy Road will be closed from time to time tomorrow from 10 am to 7 pm, Kegalle District Secretary Chandana Jayasinghe said.
-
-He told the Daily Mirror that the road would be closed to clear unsafe trees and boulders on the road.
-
-He said that the motorists were advised to use alternative roads.
-
-◼️
-
-[Data](articles/d6861085.json)
-
-[Extended Data](ext_articles/d6861085.ext.json)
-
----
-
-### 32 train journeys cancelled due to the railway strike
-
-*2024-06-07 13:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/32-train-journeys-cancelled-due-to-the-railway-strike/108-284339) · `en`
-
-Colombo, June 07 (Daily Mirror)- More than 30 train services have been cancelled today due to the strike launched by the Sri Lanka Railways Locomotive Operating Engineers’ Union, since midnight yesterday, the Control Rooms sources said.
-
-Altogether 32 services scheduled to run this morning have been cancelled as of 13.00 pm.
-
-The Trade Union stated that the strike was launched due to issues in the promotions of locomotive drivers, and continuous delays in recruitment.
-
-However, the Railways Department announced that the services could be restored by afternoon today.
-
-◼️
-
-[Data](articles/39653f4a.json)
-
-[Extended Data](ext_articles/39653f4a.ext.json)
-
----
-
-### Sri Lanka lodges complaint with ICC over lengthy travel concerns during T20 World Cup
-
-*2024-06-07 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99724/sri-lanka-lodges-complaint-with-icc-over-lengthy-travel-concerns-during-t20-world-cup) · `en`
-
-Minister of Sports Harin Fernando announced that a complaint has been lodged with the International Cricket Council (ICC) regarding the lengthy travel times and hardships the Sri Lankan team faced during the Group Stage matches of the 2024 T20 World Cup.
-
-Speaking in Parliament this morning (07), Fernando highlighted that a separate investigation will be conducted into the Sri Lanka Cricket (SLC) representative who traveled to the USA to address concerns about the team’s facilities.
-
-“The Sri Lanka, Ireland, and South Africa cricket teams were stranded at the airport for seven hours due to a technical error with their flight. Sri Lanka Cricket has filed a complaint with the ICC regarding the incident. Each country has been treated differently… The Bangladesh team has traveled the most in terms of kilometers, followed by Sri Lanka”, the Sports Minister expressed.
-
-...
-
-[Data](articles/ca67f5fe.json)
-
-[Extended Data](ext_articles/ca67f5fe.ext.json)
-
----
-
-### The new convener of the pouch Rohitha
-
-*2024-06-07 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197492) · `si`
-
-Rohitha Abeygunawardena, a Senior Member of Parliament, has been named the National Convener of the Sri Lanka General Front, following a meeting of its Executive Council. This decision was made under the patronage of Mahinda Rajapaksa, the party's leader.
-
-🟩
-
-Senior Member of Parliament Rohitha Abeygunawardena has been appointed as the National Convener of the Sri Lanka General Front.
-
-It was when the party's Executive Council met today (07) morning.
-
-The executive council of the Sri Lanka General Front and the Political Council of the Sri Lanka President met with the patronage of the leader of the leader Mahinda Rajapaksa.
-
-Meanwhile, MP Gamini Lokuge said that Minister Wijeyadasa Rajapakse presented the recommendations of Mr. Wijeyadasa Rajapakse.
-
-◼️
-
-[Data](articles/904f16b0.json)
-
-[Extended Data](ext_articles/904f16b0.ext.json)
-
----
-
-### Sri Lanka COPF chief under threat over VFS Global deal probe
-
-*2024-06-07 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-copf-chief-under-threat-over-vfs-global-deal-probe-166886/) · `en`
-
-ECONOMYNEXT – Chairman of Sri Lanka Parliament’s Committee on Public Finance, Harsha de Silva is under threat over examining a controversial visa deal involving IVS-GBS, VFS Global, opposition leader Sajith Premadasa said.
-
-De Silva said he had come under severe pressure including from members of parliament after he started examining the controversial visa deal.
-
-“This is a serious matter,” Premadasa said. “Now what is happening? Members representing the government are threatening him when he is examining the VFS deal. How can that happen?
-
-“On the other side they are using ‘slaves’ to plant stories that he is covering it up. Do you know that the damage caused by this deal is bigger than the central bank bond deal?” he asked the speaker.
-
-“Government legislators threatening the COPF Chairman has to be immediately stopped.”
-
-Speaker Mahinda Abeywardene said he had yet to receive a complaint and asked who had threatened him.
-
-...
-
-[Data](articles/5d0fd1a4.json)
-
-[Extended Data](ext_articles/5d0fd1a4.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-07 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185522) · `ta`
-
-The current exchange rate is approximately USD 1 = INR 297.8373.
-
-🟩
-
-The US $ 297.8373 was reported at Rs.
-
-◼️
-
-[Data](articles/0175c664.json)
-
-[Extended Data](ext_articles/0175c664.ext.json)
-
----
-
-### Sri Lanka Police try humour to get message across social media
-
-*2024-06-07 12:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-try-humour-to-get-message-across-social-media-166868/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Police are trying humour across social media platforms to get their message across to the public.
-
-The official X (twitter) page of Sri-Lanka Police features a series of tweets with popular culture references.
-
-One such message warns about being vigilant, another cautions against riding a motorbike without a helmet, and a third on phishing scams.
-
-The island nation’s Police have come under criticism for its drastic measures in a special anti-drug operation called ‘Yukthiya’ (justice) to nab the drug distributors across the country.
-
-The UN Human Rights Commission early this year said it was “very concerned that authorities in Sri Lanka” were “adopting a heavily security-based response to the country’s drugs problem, instead of public health policies grounded in human rights”.
-
-...
-
-[Data](articles/4c60753c.json)
-
-[Extended Data](ext_articles/4c60753c.ext.json)
-
----
-
-### Royal Park's killer may be in Singapore - the beginning of measures to bring to the country
-
-*2024-06-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185521) · `ta`
-
-Efforts are underway to extradite Royalbark killer Tonnesamanda Jude Antony Jayamaka from Singapore to Sri Lanka, despite no extradition treaty between the two nations. Jayamaka fled Sri Lanka after being granted amnesty, but authorities plan to seek international cooperation to return him.
-
-🟩
-
-Following the court's decision, officials have begun efforts to bring Royalbark killer Tonnesamanda Jude Antony Jayamaka to the country from abroad.
-
-However, as there are no agreements on transmitting between Singapore and Sri Lanka, there may be a setback in the steps to bring the culprit to Sri Lanka.
-
-The Agreement on Trafficking is only possible based on the compliance between the two countries, and Sri Lanka has signed this agreement with many other countries.
-
-The Royalbark killer Jayamaha has left Sri Lanka on November 15, 2019, police said that the President was granted amnesty on November 13.
-
-He has said that he is currently in Singapore abroad and said they would seek international help to bring the culprit to Sri Lanka.
-
-The police spokesman said that as he has left Sri Lanka properly, he can be asked to help him kidnaps the country.
-
-◼️
-
-[Data](articles/8496fa44.json)
-
-[Extended Data](ext_articles/8496fa44.ext.json)
-
----
-
-### What are the court orders received by the Sri Lanka Freedom Party?
-
-*2024-06-07 12:26:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ww3q79434o) · `si`
-
-The Sri Lanka Freedom Party (SLFP) faced internal crises leading to legal battles over leadership changes, including the resignation of former President Maithripala Sirisena and the appointment of Justice Minister Dr. Wijayadasa Rajapakse as Chairman. The Supreme Court ruled against a presidential agreement involving Jude Shamanara Jayamaha.
-
-🟩
-
-What are the court orders received by the Sri Lanka Freedom Party?
-
-The crisis in the Sri Lanka Freedom Party (SLFP) has been repeated due to divisions within the party.
-
-The last two months have seen a tendency to obtain an injunction and dismissal of the injunctions as well as the injunction order.
-
-The crisis of the party is with the resignation of former President Maithripala Sirisena, the resignation of former President Maithripala Sirisena.
-
-The underlying purpose of the resignation was the appointment of Justice Minister Dr. Wijayadasa Rajapakse to be appointed as the Chairman of Sri Lanka Freedom Party.
-
-(May 13) Maithripala Sirisena addressed the post of Chairman at the Executive Committee of Maithripala Sirisena held at Cate.
-
-In addition, SLFP Kesbawa electorate organizer at the SLFP was appointed as the Secretary of the SLFP.
-
-In the backdrop, BBC Sinhala asked what the orders have been given to the Sri Lanka Freedom Party.
-
-...
-
-[Data](articles/0238ad4a.json)
-
-[Extended Data](ext_articles/0238ad4a.ext.json)
-
----
-
-### Blood purification machines handing over to Chavakachcheri Resource Hospital
-
-*2024-06-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185517) · `ta`
-
-Two blood purification machines valued at Rs 64 lakh were donated to Chavakachcheri Resource Hospital on July 7th. The handover was attended by several officials including S. Kumaravel, former Medical Superintendent, and current Medical Superintendent Dr. T. Kandiban. Also present were Dr. Pathirana from Northern Provincial Health Services, Ketheeswaran from Jaffna District Health Services, and others. These machines will enable the hospital to provide blood purification services to four patients daily.
-
-🟩
-
-Two blood purification machines worth Rs 64 lakh were officially handed over to the Chavakachcheri Resource Hospital on Friday (07).
-
-The chief guest of the event was S. Kumaravel, the former Medical Superintendent of the Chavakachcheri Resource Hospital and the new Medical Superintendent Dr. T. Kandiban, who was the chief guest at the event.
-
-The Director of the Northern Provincial Health Services, Dr. Pathirana, the Director of the Jaffna District Health Services. Ketheeswaran, Senthilkumaran Relief Institute Founder D. Senthilkumaran, Jaffna University Medical Faculty and Teaching Hospital Advisor A. Thangarajah were also present.
-
-The hospital administration said that with the help of blood purification machines, 4 patients can provide blood purification service daily.
-
-◼️
-
-[Data](articles/6f4eb358.json)
-
-[Extended Data](ext_articles/6f4eb358.ext.json)
-
----
-
-### Siddharth's 'Miss You' film First Look by Madhavan- Sivakarthikeyan
-
-*2024-06-07 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185515) · `ta`
-
-Actor Siddharth, post-marriage to Aditi Rao Hydari, unveils his comeback film 'Miss You'. The first look, shared by Tamil cinema's beloved Madhavan and Sivakarthikeyan, showcases an emotional love story. Directed by N. Siddharth, featuring Ashika Ranganath, Karunakaran, Bala Saravanan, and others, the film is produced by Seven Miles Bur Seconds Productions.
-
-🟩
-
-After marrying actress Aditi Rao Hayatri, actor Siddharth's new movie is titled 'Miss You' and its first look has been released.. Evergreen love princes of Tamil cinema, Madhavan and Sivakarthikeyan, have posted it on their social network and congratulated the film crew.
-
-Director n. Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, 'Lalu Sabha' Maran, Sashtika Rajendran, starring Rajasekhar, starring 'Miss You'.. K. G. The film is being recorded by Venkatesh. The film is being produced by Seven Miles Bur Seconds Productions and produced by Samuel Matthew.
-
-After a long hiatus, actor Siddharth is back in the screenplay, which is a 'Miss You' in the title of the film, and the expectation that Siddharth is like a passenger in the first look and the train behind it is an emotional love story.
-
-◼️
-
-[Data](articles/a187888c.json)
-
-[Extended Data](ext_articles/a187888c.ext.json)
-
----
-
-### Nearly 6,000 houses damaged due to adverse weather
-
-*2024-06-07 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99723/nearly-6000-houses-damaged-due-to-adverse-weather) · `en`
-
-The Disaster Management Center (DMC) says that a total of 5,587 houses have been damaged due to the prevailing adverse weather conditions in parts of the island.
-
-Among them, 56 houses have suffered serious damages while 5,531 houses have been partially damaged, according to the DMC.
-
-Meanwhile, the number of fatalities reported due to the prevailing weather conditions has also increased to 32, while 01 person is still reported missing.
-
-The number of individuals who sustained injuries during the inclement weather is 16, as per the reports of the DMC.
-
-The Disaster Management Center further states that 7,639 displaced persons have been moved to 1,973 relief centres established across the island.
-
-It is said that a total of 239,006 individuals from 63,413 families have been affected by the prevailing adverse weather conditions across the island.
-
-◼️
-
-[Data](articles/00fb71e9.json)
-
-[Extended Data](ext_articles/00fb71e9.ext.json)
-
----
-
-### A revelation on public debt
-
-*2024-06-07 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197491) · `si`
-
-State Minister Shehan Semasinghe disclosed in Parliament that as of December 31, 2023, Sri Lanka's local debt stood at Rs 17,051 billion, which increased slightly to Rs 17,252 billion by March 31, 2024. Additionally, there was an outstanding loan of $5.5 billion from April 2022.
-
-🟩
-
-State Minister Shehan Semasinghe today (07) has revealed in Parliament regarding local and loans of the Government of Sri Lanka.
-
-Accordingly, on December 31, 2023, local debt was Rs 17,051 billion and Rs 17,252 billion on March 31, 2024.
-
-It also includes $ 5.5 billion worth not incurred from April 2022.
-
-◼️
-
-[Data](articles/adf7a9b5.json)
-
-[Extended Data](ext_articles/adf7a9b5.ext.json)
-
----
-
-### Sri Lanka’s Lankem to open fertilizer plant
-
-*2024-06-07 12:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-lankem-to-open-fertilizer-plant-166862/) · `en`
-
-ECONOMYNEXT – Lankem Ceylon Plc said it is building a fertilizer plant in Oyamaduwa in Anuradhapura at an estimated cost of 2.5 billion rupees.
-
-“The primary objective of this operation is to cater to the agricultural requirement of the non-perennial crops,” the company said in a stock exchange filing.
-
-A new company, Lankem Minerals Limited, a fully owned subsidiary of Lankem Ceylon, has been set up to carry out the project.
-
-The sales and distribution of the fertilizer will be carried out by Lankem Ceylon and its fully-owned subsidiary SunAgro LifeScience Limited through the companies’ existing distributor network.
-
-Commercial operations are expected to commence by the end of the year.
-
-Lankem Ceylon is involved in the production, marketing, and distribution of agrochemical products including straight fertilizers, mixed fertilizers, granular fertilizers, and foliar fertilizers.
-
-Lankem shares were trading up at 71.50 during Friday mid-day trade.
-
-...
-
-[Data](articles/92d6c730.json)
-
-[Extended Data](ext_articles/92d6c730.ext.json)
-
----
-
-### Janani joins with Vidarth
-
-*2024-06-07 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185512) · `ta`
-
-The unnamed film features Tamil cinema stars Vidharth and Janani, along with other notable actors like M.S. Bhaskar, Saravanan, and Namitha Krishnamurthy. Directed by Hariharan, it promises a suspense thriller love story, aiming to resume filming in July. The event saw congratulations from industry peers. Additionally, Vidharth's next project, 'Anjamam,' is critically acclaimed for its portrayal of India's medical entrance exams.
-
-🟩
-
-The inauguration of the unnamed film, which played the lead roles in Tamil cinema, Vidharth and Janani, the trusted young star artists of Tamil cinema.
-
-Vidarth, Janani, M.. S.. Bhaskar, 'Puthuti Veeran' Saravanan, Pablu Prithviraj, Namitha Krishnamurthy, Shah Rukh Hassan, Vikas and Maha and many others star in. Doser d. Lalgudi M for the film, which is being recorded by Raghav. Hariharan is composed. The film, which is being produced by the Hyper Link style three story- one end. Produced by Hariharan.
-
-Commenting on the film, the director said, “I have been set up in a lineyer in the screenplay of the film, focusing on the shooter of Tanvin.. Suspense Thriller - Love - Sentiment. We are planning to continue the shooting of the film in July. ”
-
-At the inauguration of the film, the leading stars in the film industry also congratulated the film crew.
-
-...
-
-[Data](articles/81a5e492.json)
-
-[Extended Data](ext_articles/81a5e492.ext.json)
-
----
-
-### Graduoda's petition panel of judges
-
-*2024-06-07 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197489) · `si`
-
-A former Navy Commander has been appointed to a panel of judges to hear a petition filed by Mr. Wasantha Karannagoda regarding a case from 2008. The panel will convene on the 25th of this month.
-
-🟩
-
-Former Navy Commander's Commander's Magistrate's Board of Appeal Judge has been named to hear the Rit petition filed by Mr. Wasantha Karannagoda.
-
-The film was filed by a three-member High Court for the issuance of a three-member High Court in Colombo and suburbs in 2008.
-
-Accordingly, the petition was called before the Court of Appeal, President of the Court of Appeal and Shashi Mahendran in the Court of Appeal.
-
-Chairman of the Court of Appeal ordered that the panel of judges is named to hear the petition.
-
-The petition is prescribed before the panel of judges on the 25th of this month.
-
-◼️
-
-[Data](articles/f9f4b393.json)
-
-[Extended Data](ext_articles/f9f4b393.ext.json)
-
----
-
-### EU elections start with tight Dutch race - exit poll
-
-*2024-06-07 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99722/eu-elections-start-with-tight-dutch-race-exit-poll) · `en`
-
-Dutch voters have begun four days of voting across the European Union, with exit polls suggesting a tight race between a left-green alliance and the party of anti-Islam populist Geert Wilders.
-
-Right-wing and far-right parties are widely expected to make big gains in many of the EU’s 27 member states, and that appears to have been borne out in the Netherlands, to an extent.
-
-Although the Green-Labour alliance is set to take more seats in the European Parliament according to the exit poll, Mr Wilders’ Freedom Party is on course for big gains.
-
-But he has not repeated the runaway victory of last November’s general election.
-
-Under European law final results are not released until every country has voted, late on Sunday evening. Some 373 million Europeans are eligible to vote in the world’s second biggest democratic election after India.
-
-...
-
-[Data](articles/d188a127.json)
-
-[Extended Data](ext_articles/d188a127.ext.json)
-
----
-
-### The vehicle that rolled into precipice with a family
-
-*2024-06-07 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197488) · `si`
-
-A family's car plunged off a 200-foot cliff near a castle reservoir, injuring one woman who was rushed to hospital. The accident happened when the vehicle, returning from a funeral, was overtaken by a bus on the Norwood Newweligama road, leading it to fall. Four were in the car, including a child, and one suffered severe injuries due to seatbelt use.
-
-🟩
-
-The same family, a motor vehicle, fell into a 200-foot precipice.
-
-Our correspondent stated that the vehicle had gone toppled near the castlery reservoir.
-
-One woman who was traveling in the accident was injured and rushed to the Dikoya Base Hospital.
-
-The accident occurred in the Norwood Newweligama main road around 5.30 pm yesterday (06).
-
-A mortage vehicle traveling from a funeral of Maskeliya area has been traveling up to the Grandpas area of ​​Colombo.
-
-Norwood police said that the accident had taken place after being allowed to allow a bus in the opposite direction and fell into precipice.
-
-Four persons, including a small child in the vehicle at the time of the accident.
-
-It is reported that one person has been severely injured due to the wearing of the vehicle's security bands.
-
-◼️
-
-[Data](articles/21e50d6f.json)
-
-[Extended Data](ext_articles/21e50d6f.ext.json)
-
----
-
-### Ang touched
-
-*2024-06-07 11:20:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்க-தொட்டவர்-சிக்கினார்/175-338587) · `ta`
-
-A 33-year-old man from Sri Lanka was arrested for sexually assaulting a 30-year-old American volunteer teacher at a bus station. The incident occurred when the conductor accidentally bumped into her. The suspect will face charges at the Moneragala Magistrate's Court on Friday.
-
-🟩
-
-The suspect, who was arrested on charges of sexually assaulting a 30 -year -old American woman at the bus station, was arrested on the 6th of this month with the help of investigators by the Moneragala police.
-
-The woman, who was harassed, works as a volunteer teacher at a school in the Bibila Educational Zone.
-
-While traveling by bus to go to his workplace at the Moneragala bus station, the bus conductor has fallen into the woman's body.
-
-The suspect is a 33 -year -old person from Kanwanwa, Keenagodapara, Pakinikahawela.
-
-The suspect is to be produced at the Moneragala Magistrate's Court on Friday (07).
-
-◼️
-
-[Data](articles/22936970.json)
-
-[Extended Data](ext_articles/22936970.ext.json)
-
----
-
-### Sri Lanka eyes mammoth 4,000 workforce to man elephant fences
-
-*2024-06-07 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-mammoth-4000-workforce-to-man-elephant-fences-166858/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to hire a 4,000 strong workforce to man electric fences built to keep elephants away from villages near forests, Minister of Wildlife and Natural Resources Conservation Pavithra Wanniarachchi said.
-
-“We admit that we did not have the sufficient number of officers to repair damaged fences,” Minister Wanniarachchi told Parliament Thursday.
-
-“That is why we are looking to recruit a new workforce of at least 4,000 multipurpose development officers to sort this out.”
-
-She was responding to a question on action taken to provide a “permanent solution” to the human elephant confusion in the Puttalam District.
-
-The entire approved cadre of the Department of Wildlife was 2,851 persons and the actual cadre was 1,941 according to its annual control report.
-
-Sri Lanka was estimated to have around 7,000 elephants around the country based on a 2022 survey.
-
-The workforce would also amount to about one man for 1.8 elephants.
-
-...
-
-[Data](articles/1deaff33.json)
-
-[Extended Data](ext_articles/1deaff33.ext.json)
 
 ---

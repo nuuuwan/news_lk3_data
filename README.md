@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 22:19:14**
+As of **2024-06-07 22:34:22**
 
 ## Newspaper Stats
 
-*Scraped **29,117** Articles*
+*Scraped **29,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,566
 economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,484
-adaderanalk | 3,297
+adaderanalk | 3,298
 tamilmirrorlk | 3,419
 virakesarilk | 4,473
 dailymirrorlk | 4,627
-adaderanasinhalalk | 4,671
+adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,111 (100.0%) of 29,117 articles have been extended.
+29,117 (100.0%) of 29,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### New City for residents along Kelani River Bank - Sagala
+
+*2024-06-07 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99735/new-city-for-residents-along-kelani-river-bank-sagala) · `en`
+
+Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka said that an allowance of LKR 10,000 will be provided to every household affected by the flood.
+
+He stated that this financial assistance is intended for cleaning the houses. Additionally, once the assessment reports on all partially and fully damaged houses and buildings are received, the subsequent steps will be implemented promptly.
+
+Sagala Ratnayaka made these remarks while participating in an observation tour today (07) to assess the welfare of the residents in the Kolonnawa area impacted by adverse weather conditions.
+
+...
+
+[Data](articles/c48263e1.json)
+
+---
+
+### කොළඹ - නුවර මාර්ගය පහළ කඩුගන්නාවෙන් ගමනාගමනය සීමා කෙරේ
+
+*2024-06-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197509) · `si`
+
+හෙට (08) කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ප්‍රදේශයේ ගමනාගමනය සීමා කිරීම සම්බන්ධයෙන් පොලීසියෙන් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව එම මාර්ගය දෙපස අවදානම් ගස් සහ දිරාගිය අතු කොටස් ඉවත් කිරීම හා අවදානම් පාෂාණ කොටස් ඉවත් කිරීමේ කටයුතු එදින හෙට පෙරවරු  10 සිට අනිද්දා (09) පෙරවරු 6 දක්වා සිදුකිරීමට නියමිතය.
+
+ඒ අනුව එම මාර්ගය හෙට සවස 6 සිට පැය 3ක තුනක කාලයක් සම්පූර්ණයෙන්ම වසා තැබීමට කටයුතු කරන බව මාවනැල්ල ප්‍රාදේශීය ලේකම්වරයා දැනුම්දෙයි.
+
+ඒ හේතුවෙන් කොළඹ - නුවර මාර්ගය භාවිත කරන මහජනතාවට ඇති වන අපහසුතා මඟ හරවා ගැනීමට පහත සඳහන් විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය මහජනතාවට දැනුම්දෙයි.
+
+* කොළඹ සිට මහනුවර දක්වා ගමන් ගන්නා වාහන වරකාපොළ, අ‍ඹේපුස්ස හන්දියෙන් වමට හැරී කුරුණෑගල මාර්ගය ඔස්සේ මහනුවරට.
+
+* කෑගල්ල කරඬුපන හරහා රඹුක්කන හා මාවනැල්ල නගරයෙන් රඹුක්කන නගරයට පිවිස හතරලියැද්ද මාර්ගය ඔස්සේ ගලගෙදර හරහා මහනුවර
+
+* මාවනැල්ල නගරයේ සිට හෙම්මාතගම හරහා ගම්පොළ මාර්ගය ඔස්සේ මහනුවරට
+
+◼️
+
+[Data](articles/0d87b59c.json)
+
+---
 
 ### President re-appoints Shavendra Silva as Chief of Defence Staff
 
@@ -52,37 +92,51 @@ He was first appointed as Chief of Defence Staff on June 1, 2022.
 
 ---
 
-### பாதுகாப்பு படைகளின் பிரதானியாக ஜெனரல் சவேந்திராவுக்கு சேவை நீடிப்பு
+### Service extended to General Shavendra as the chief of security forces
 
 *2024-06-07 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185574) · `ta`
 
-ஜனாதிபதியின் ஒப்புதலின் பேரில் உரிய நியமனம் வழங்கப்பட்டுள்ளதுடன் அது தொடர்பான வர்த்தமானி அறிவித்தல் தற்போது வெளியிடப்பட்டுள்ளது.
+General Shavendra has been appointed as the chief of security forces, effective from June 1 to December 31, 2024, following the president's approval and gazette notification release.
 
-அதன்படி, இந்த நியமனம் ஜூன் 1 முதல் டிசம்பர் 31, 2024 வரை செல்லுபடியாகும் என்பது குறிப்பிடத்தக்கது.
+🟩
+
+The appointment of the president has been appointed and the gazette notification has been released.
+
+Accordingly, the appointment is valid from June 1 to December 31, 2024.
 
 ◼️
 
 [Data](articles/a0837d41.json)
 
+[Extended Data](ext_articles/a0837d41.ext.json)
+
 ---
 
-### ஹர்ஷ டி சில்வா எதிர்கொள்ளும் அச்சுறுத்தல் விவகாரம் :  குற்றப் புலனாய்வுப் பிரிவினரிடம் விசாரணைகள் ஒப்படைப்பு
+### Harsha de Silva's threat issue: Investigations handed over to the Criminal Investigation Department
 
 *2024-06-07 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185573) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தாம் எதிர்நோக்குவதாகக் கூறப்படும் அச்சுறுத்தல்கள் தொடர்பான விசாரணைகளை குற்றப் புலனாய்வுப் பிரிவினரிடம் ஒப்படைத்துள்ளார்.
+Dr. Harsha de Silva, a United People's Power MP, has transferred the investigation into threats against him to the Criminal Investigation Department, following orders from the Public Security Minister and the Inspector General of Police. Despite facing numerous challenges, including limited staff and no office, he remains active in addressing various issues such as coal affairs, sugar fraud, and central bank pay problems. He expressed concern over whose interests these matters are serving and held the Speaker accountable for his safety.
 
-பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ், பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு வழங்கிய உத்தரவின் அடிப்படையில் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+🟩
 
-07ஆம் திகதி பாராளுமன்றத்தில் விசேட அறிக்கையொன்றை விடுத்த ஹர்ஷ டி சில்வா, பல சவால்களுக்கு மத்தியில் தான் நிதிக்குழுவின் தலைவராக பொறுப்பேற்றுக் கொண்டதாக தெரிவித்தார்.
+United People's Power Member of Parliament, Dr. Harsha de Silva, has handed over investigations into the alleged threats to the Criminal Investigation Department.
 
-தமக்கு அலுவலகம் இல்லை எனவும், சேவை செய்வதற்கு மூன்று பேர் மட்டுமே உள்ளதாகவும் குறிப்பிட்டுள்ள ஹர்ஷ டி சில்வா, சில சமயங்களில் தமது தனிப்பட்ட பணத்தில் அவர்களுக்கு பணம் கொடுப்பதாகவும் குறிப்பிட்டுள்ளார்.
+The decision was taken on the orders of Public Security Minister Tran Ales, the Inspector General of Police, Deshabandu, to Thennakoon.
 
-அத்துடன், நிலக்கரி விவகாரம், சீனி மோசடி, மத்திய வங்கியின் சம்பளப் பிரச்சினைகள் குறித்து நிதிக் குழு தொடர்ந்தும் பேசி வருவதாகத் தெரிவித்த எம்.பி., பல பிரச்சினைகளில் தாம் ஈடுபட்டுள்ளதாகவும் தெரிவித்தார்.
+Harsha de Silva, who made a special statement in Parliament on the 07th, said he took over as chairman of the Finance Committee amidst many challenges.
 
-...
+Harsha de Silva said he had no office and that there were only three people to serve.
+
+The MP, who said that the Finance Committee continues to talk about coal affairs, sugar fraud and central bank's pay issues, said he was involved in many issues.
+
+He questioned whose interests they were doing, and said the Speaker is responsible for his life.
+
+◼️
 
 [Data](articles/67063a7b.json)
+
+[Extended Data](ext_articles/67063a7b.ext.json)
 
 ---
 
@@ -208,21 +262,31 @@ Former Health Minister Rajitha Senaratne is also present.
 
 ---
 
-### முதல் காலாண்டில் 4 பில்லியன் டொலர் கடன்களை அரசாங்கம் பெற்றுள்ளது - விஜித ஹேரத்
+### The government has received $ 4 billion in the first quarter - Vijitha Herath
 
 *2024-06-07 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185572) · `ta`
 
-2024 ஆம் ஆண்டு முதல் காலாண்டில் மாத்திரம் 4 பில்லியன் டொலர் கடன்களை பெற்று அரச கடன்களை  100 பில்லியன் டொலர்களாக அரசாங்கம் உயர்த்தியுள்ளது. சர்வதேச கடன் மறுசீரமைப்பு என்பது கானல் நீராகவே காணப்படுகிறது எனத் தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+In Q1 2024, the Sri Lankan government secured $4 billion in loans, bringing the total state debt to $100 billion. This move, part of the State Financial Management Bill aimed at economic recovery, was criticized by National People's Power MP Vijitha Herath, who highlighted issues with foreign loans and the lack of favorable resolutions from India and China regarding international debt restructuring.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (07) இடம்பெற்ற அரச நிதி முகாமைத்துவ சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு அரச நிதி முகாமைத்துவ சட்டமூலத்தை முன்வைத்துள்ளதாக அரசாங்கம் குறிப்பிடுகிறது.சர்வதேச நாணய நிதியத்துடனான செயற்திட்டத்தின் போது  தேசிய கடன்களை மறுசீரமைக்கப் போவதில்லை என்று  குறிப்பிடப்பட்டது.ஆனால் தேசிய கடன்கள் தான் முதலாவதாக மறுசீரமைக்கப்பட்டது.
+In the quarter of 2024, the government has increased the state loans to $ 100 billion with $ 4 billion.. The National Debt Relief is seen as a water restructuring, said National People's Power MP Vijitha Herath.
 
-வெளிநாட்டு அரசமுறை கடன்களை இன்று மறுசீரமைப்பதாகவும்,நாளை மறுசீரமைப்பதாகவும்,அடுத்த மாதம் மறுசீரமைப்பதாகவும் அரசாங்கம் குறிப்பிடுகிறது.ஆனால் ஒரு டொலர் கடன் கூட இதுவரை மறுசீரமைக்கப்படவில்லை.இதுதான் உண்மை.
+He said this while addressing the debate on the State Finance Management Bill held in Parliament on Friday (07).
+
+The government has presented the State Financial Management Bill to recover from the economic crisis.
+
+The government states that foreign state -run loans today, reorganizing tomorrow and reorganizing next month.
+
+The government has noted that the total loan value of Sri Lanka is $ 100 billion. The government boasts that we have recovered from the economic crisis and the inflation has declined.
+
+In the first quarter of 2024, the government has received $ 4 billion national loans. In this case, the state -run debt has risen to $ 100 billion.
 
 ...
 
 [Data](articles/f578bdc3.json)
+
+[Extended Data](ext_articles/f578bdc3.ext.json)
 
 ---
 
@@ -248,19 +312,25 @@ Kodippili urged people to refrain from visiting flood-affected areas or stepping
 
 ---
 
-### மே மாதத்தில் கையிருப்பு சொத்துக்களில் சிறிது சரிவு!
+### A slight decline in stockpile assets in May!
 
 *2024-06-07 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185571) · `ta`
 
-2024 மே மாத இறுதியில் நாட்டில் உத்தியோகபூர்வ கையிருப்பு சொத்துக்களின் அளவு 5,421 மில்லியன் அமெரிக்க டொலர்கள் என இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+In May 2024, Sri Lanka's official stockpile assets slightly decreased to $5,421 million, down 0.9% from April's $5,471 million. Forex reserves dropped 0.4%, from $5,389 million to $5,367 million.
 
-ஏப்ரல் 2024 இல் பதிவாகிய $5,471 மில்லியன் இருப்புச் சொத்துக்களுடன் ஒப்பிடுகையில் இது 0.9% குறைவு.
+🟩
 
-உத்தியோகபூர்வ கையிருப்பு சொத்துக்களின் முக்கிய அங்கமான அந்நிய செலாவணி கையிருப்பு, 5,389 மில்லியன் டாலர்களிலிருந்து 5,367 மில்லியன் டாலர்களாக 0.4% குறைந்துள்ளது.
+The Central Bank of Sri Lanka has announced that the country's official stockpile assets in the country are $ 5,421 million at the end of May 2024.
+
+This is a 0.9% lower compared to $ 5,471 million in April 2024.
+
+Forex reserves, the main component of the official stockpile, fell 0.4% from $ 5,389 million to $ 5,367 million.
 
 ◼️
 
 [Data](articles/42616127.json)
+
+[Extended Data](ext_articles/42616127.ext.json)
 
 ---
 
@@ -336,41 +406,57 @@ Hajj, one of Islam’s five pillars, is the pilgrimage to Makkah in Saudi Arabia
 
 ---
 
-### ரி20 உலகக் கிண்ண சுப்பர் 8 சுற்றைக் குறிவைத்து மோதவுள்ள இலங்கை - பங்களாதேஷ் அணிகள்
+### Sri Lanka - Bangladesh teams targeting the R20 World Cup Super 8
 
 *2024-06-07 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185570) · `ta`
 
-ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் கூட்டாக நடத்தப்படும் 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் சுப்பர் 8 சுற்றுக்கு செல்வதைக் குறிவைத்து இலங்கையும் பங்களாதேஷும் டி குழு போட்டியில் மோதவுள்ளன.
+In the 9th T20 World Cup, Sri Lanka and Bangladesh aim for the Super 8 round, clashing in the US and West Indies. Sri Lanka, after losing to South Africa, needs wins in their next three matches, including against Bangladesh. Bangladesh, playing their first match without pressure, looks to counter Sri Lanka's strategy. Despite historical wins by Sri Lanka over Bangladesh in the R20 World Cup, both teams must strategize effectively to secure victory.
 
-இப் போட்டி டலாஸ், க்ராண்ட் ப்ரெய்ரீ விளையாட்டரங்கில் இலங்கை நேரப்படி சனிக்கிழமை (08) காலை 6.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+🟩
 
-இந்த இரண்டு அணிகளும் சுப்பர் 8 சுற்றை குறிவைத்து விளையாடவுள்ளதால் புதிதாக உருவாகியுள்ள பகைமையை இரண்டு அணிகளும் போட்டி முடியும்வரை புறந்தள்ளி வைக்கும் என கருதப்படுகிறது.
+Sri Lanka and Bangladesh will clash in the T team in the 9th T20 World Cup chapter in the United States and the West Indies.
 
-தென் ஆபிரிக்காவுடனான தனது ஆரம்பப் போட்டியில் தோல்வி அடைந்த இலங்கை, எஞ்சிய 3 போட்டிகளிலும் வெற்றிபேற்றே ஆக வெண்டும் என்ற கட்டாயத்தில் தனது இரண்டாவது போட்டியில் பங்களாதேஷை எதிர்கொள்ளவுள்ளது.
+The tournament will start at 6.00 am on Saturday (08) at the Grand Brairie Stadium, Dalus.
 
-மறுபக்கத்தில் தனது முதலாவது போட்டியில் பங்களாதேஷ் விளையாடவுள்ளதால் அவ்வணி எவ்வித அழுத்தத்தையும் எதிர்கொள்ளாது.
+The two teams are expected to quit until the two teams can compete with the newly formed enmity as these two teams are targeting the Super 8 round.
 
-இலங்கை அணியைப் பொறுத்தமட்டில் தென் ஆபிரிக்காவுக்கு எதிரான போட்டியின்போது துடுப்பாட்டத்தில் இழைத்த தவறுகளை மீண்டும் இழைக்காமல் இருப்பது அவசியமாகும்.
+Sri Lanka will face Bangladesh in its second match, which is forced to win the remaining three matches, which lost their opening match against South Africa.
+
+On the other hand, Bangladesh will play in his first match and they will not face any pressure.
+
+As for the Sri Lankan team, it is necessary not to repeat the mistakes made by South Africa during the match.
+
+The Sri Lankan players unnecessarily fired wickets in the fields where the South African bowlers' flowing balls were simply to the fields.
 
 ...
 
 [Data](articles/425a27fa.json)
 
+[Extended Data](ext_articles/425a27fa.ext.json)
+
 ---
 
-### பாலின சமத்துவச் சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரண் உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவிப்பு
+### Most of the preparations for the Gender Equality Bill
 
 *2024-06-07 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185567) · `ta`
 
-பாலின சமத்துவச் சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரணானவை. சட்டமூலத்தை நிறைவேற்ற வேண்டுமாயின் மூன்றில் இரண்டு பெரும்பான்மையை பெறுவதுடன் மக்கள் வாக்கெடுப்புக்கும் செல்ல வேண்டும் என உயர்நீதிமன்றம் வியாக்கியானம் வழங்கியுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+The Gender Equality Bill faces constitutional challenges, with the Supreme Court highlighting several provisions as being in conflict with the Constitution. The court advises achieving a two-thirds majority and holding a referendum for its passage.
 
-அரசியலமைப்பின் 121(1) பிரிவின் பிரகாரம்  உயர்  நீதிமன்றத்தில் சவாலுக்குட்படுத்தப்பட்ட  'பாலின சமத்துவம்'  என்ற  சட்டமூலம் தொடர்பில் உயர் நீதிமன்றம் முன்வைத்துள்ள வியாக்கியானத்தை சபாநாயகர் வெள்ளிக்கிழமை (7) பின்வருமாறு சபைக்கு அறிவித்தார்.
+🟩
 
-இந்த  சட்டமூலத்தின் ஏற்பாடுகளில் பெரும்பாலானவை  அரசியலமைப்பின் 12 வது பிரிவுக்கு முரணானது என்று உயர் நீதிமன்றம் குறிப்பிட்டுள்ளது. இந்த  சட்டமூலத்தில்  உட்பிரிவு 2 இல் உள்ள சரத்து 3  மற்றும் 4 ஆகியன அரசியலமைப்பின்  9, 10,12, 14(1)(இ) மற்றும் 27(1)(ஜி) ஆகியவற்றுடன் முரணானது.
+Most of the preparations of the Gender Equality Bill are unconstitutional. Speaker Mahinda Yapa Abeywardena told the House that the High Court has given the Supreme Court aim to get a two -thirds majority and go to a referendum if the bill is to be passed.
+
+On Friday (7), the Speaker informed the House on Friday (7) that the Supreme Court has put forward the 'Gender Equality' Bill challenging the Supreme Court under Article 121 (1) of the Constitution.
+
+Most of the provisions of this Bill are contrary to Article 12 of the Constitution, the Supreme Court stated that. Sarath 3 and 4 in Article 2 of this Bill is contraindicated with the Constitution 9, 10,12, 14 (1) (e) and 27 (1) (G).
+
+Article 4, 7, 17, 18, 18, 25, 26 and 27, 9, 10,12 (1), 14 (1), 14 (1) (F) of the Constitution 27 (1) (b) of the ConstitutionThe authority to be set up under 5 and 6 is the authority of the string 7, and is contrary to the sections 7, 10,12 (1), 14 (1) (1), 14 (1) (F).
 
 ...
 
 [Data](articles/b3d324ed.json)
+
+[Extended Data](ext_articles/b3d324ed.ext.json)
 
 ---
 
@@ -2251,59 +2337,5 @@ Parliament, June 07 (Daily Mirror)- The Supreme Court observed that the Gender E
 [Data](articles/baf2e891.json)
 
 [Extended Data](ext_articles/baf2e891.ext.json)
-
----
-
-### Ganganavik cheek. The female officer's work suspended
-
-*2024-06-07 10:35:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கங்கனாவிக்-கன்னத்தில்-பளார்-பெண்-அதிகாரி-பணி-இடைநீக்கம்/54-338582) · `ta`
-
-A female CISF guard was suspended for allegedly slapping actress Kangana Ranaut at Chandigarh Airport, sparking controversy. Kangana claimed the guard supported the farmer's protest and expressed concern over rising extremism in Punjab. This incident follows Kangana's previous comments on the farmers' agitation and her stance on misinformation regarding it.
-
-🟩
-
-A female security guard of the Central Industrial Security Force has been suspended on charges of slapping Mandi Lok Sabha member Kangana Ranawan's cheek at Chandigarh Airport.
-
-According to the ANI news agency, a team of CISF officials has been set up to investigate the case.
-
-The incident took place when Kangana Ranawat arrived in Delhi to attend the National Democratic Alliance meeting.
-
-“When I went through the second cabin after a security test, a woman who was a CISF guard slapped my face," she said.
-
-Asked why she did this, Kangana said that the woman replied that she was supporting the peasant movement.
-
-Also, “I am safe. But I am also worried about how to deal with the growing extremism in Punjab, ”Kangana said in his video.
-
-In 2020, Kangana's comments during a one -year competition of farmers across the country against three new agricultural laws were controversial.
-
-...
-
-[Data](articles/fbba2f50.json)
-
-[Extended Data](ext_articles/fbba2f50.ext.json)
-
----
-
-### 200 feet fell in a precipice but they were survived
-
-*2024-06-07 10:35:38* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-200-ක්-ප්‍රපාතයකට-වැටුනත්-ඔවුන්-බේරුනේ-එනිසයි/11-410069) · `si`
-
-A car accident near Norwood Newweligama resulted in one person being hospitalized after falling off a cliff. The incident involved four passengers, including a child, all sustaining minor injuries.
-
-🟩
-
-One woman who was traveling in the motor vehicle was injured and admitted to the Dikoya Bundator hospital with a motor vehicle with a motor vehicle.
-
-The accident occurred in the Norwood Newweligama area on the Hatton Maskelleliya main road around 5.30 pm.
-
-The Norwood police stated that the motor vehicle had moved to the precipice of the motor vehicle to the Grandpas area in Maskeliya.
-
-The police said that the motor vehicle had been traveling and four persons including a small child in the motor vehicle and four were minor injuries due to the accident.
-
-◼️
-
-[Data](articles/e2e7868a.json)
-
-[Extended Data](ext_articles/e2e7868a.ext.json)
 
 ---

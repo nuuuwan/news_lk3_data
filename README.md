@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 10:34:34**
+As of **2024-06-07 10:53:08**
 
 ## Newspaper Stats
 
-*Scraped **29,009** Articles*
+*Scraped **29,011** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 263
 dbsjeyarajcom | 276
-bbccomsinhala | 281
+bbccomsinhala | 282
 newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
@@ -19,18 +19,34 @@ adalk | 2,477
 adaderanalk | 3,284
 tamilmirrorlk | 3,408
 virakesarilk | 4,448
-dailymirrorlk | 4,609
+dailymirrorlk | 4,610
 adaderanasinhalalk | 4,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,004 (100.0%) of 29,009 articles have been extended.
+29,004 (100.0%) of 29,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Anura, Sajith debate becomes a non-event
+
+*2024-06-07 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Sajith-debate-becomes-a-non-event/108-284332) · `en`
+
+Colombo, June 07 (Daily Mirror)- The public debate which was to be held between National Peoples Power (NPP) Leader Anura Kumara Dissanayake and Leader of Opposition Sajith Premadasa became a non-event last night as Premadasa did not turn up for it.
+
+Dissanayake was present and was answering questions asked from him by the presenter who was doing the ‘ Thulawa’ talk show on ITN last night.
+
+Commenting on the matter Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha who was coordinating affairs with regard to the debate told Daily Mirror that Premadasa never agreed for a debate which was to be aired by ITN. “We only agreed for a debate which was to be held on a public place with TV coverage,” he said.
+
+◼️
+
+[Data](articles/1faca4bb.json)
+
+---
 
 ### Several trains may get delayed or cancelled during strike: Engineers’ Union
 
@@ -587,6 +603,22 @@ People were seen cleaning their houses after the floodwaters receded. A small bo
 [Data](articles/b6db0089.json)
 
 [Extended Data](ext_articles/b6db0089.ext.json)
+
+---
+
+### නොමිලේ දැනුම බෙදන මහියංගණයේ උපකාරක පන්ති ගුරුතුමා : 'මම කරන්නේ පිං අතේ වැඩක් නොවෙයි'
+
+*2024-06-07 04:43:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gg45ww50ro) · `si`
+
+නොමිලේ දැනුම බෙදන මහියංගණයේ උපකාරක පන්ති ගුරුතුමා : 'මම කරන්නේ පිං අතේ වැඩක් නොවෙයි'
+
+"ඉස්සර මමත්, අම්මාත් දවසේ කුලියට අනුන්ගේ කුඹුරු කොටන්න යනවා. මම වරුවෙන් වැඩ නවත්වලා පන්ති යනවා. අම්මා හවස් වෙනකන් වැඩ කරලා සල්ලි අරන් එනවා ටියුෂන් පන්තියට ගෙවන්න. ඒ විදිහට අමාරුවෙන් තමයි මම ඉගෙන ගත්තේ," ඒ ආකාරයට බීබීසී සිංහල සමඟින් දොඩමළු වූයේ මහියංගණය, රිදීමාලියද්ද ප්‍රදේශයේ සිටින අපූරු ගුරුවරයෙකි. ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලයේ කළමනාකරණ උපාධිධාරියෙකු වන ඔහු වර්තමානයේ රජයේ සංවර්ධන නිලධාරියෙකු ලෙස සේවය කරයි.
+
+ගොවිතැන ප්‍රධාන ජීවනෝපාය කරගත් පාරම්පරික ගොවීන් ජීවත්වන රිදීමාලියද්ද ප්‍රදේශය යනු දරිද්‍රතාවයෙන් ද පීඩා විඳින ප්‍රදේශයකි. එමෙන් ම පාසල් පද්ධතිය තුළ ද සිසුන්ට ඇත්තේ අවම පහසුකම් ය. දරුවන්ට ඉගැන්වීමට වියදම් කිරීමට මුදල් නොමැතිකම එම ප්‍රදේශයේ බොහෝ දෙමාපියන් මුහුණ දෙන ගැටළුවකි.
+
+...
+
+[Data](articles/f5f28ad3.json)
 
 ---
 
@@ -2091,53 +2123,5 @@ It said Foreign Employment Ministry had already said that “a certain amount of
 [Data](articles/4445ebda.json)
 
 [Extended Data](ext_articles/4445ebda.ext.json)
-
----
-
-### Cricket, rugby…and modelling
-
-*2024-06-06 18:58:00* · [`islandlk`](http://island.lk/cricket-rugbyand-modelling/) · `en`
-
-I’m currently working as a Management Accountant at an IT company. I’ve been involved in modelling since 2016. In 2018 I won the Face of Asia (International pageant) competing with 27 Asian countries. I have a passion for playing cricket; I’m currently participating in the Colombo District Division III tournament. In my spare time, I enjoy going on road trips, with my brother, to explore the beautiful places in our wonderful country.
-
-It happened accidentally. There was a modelling competition at our university, called Stylish Marketer. I hadn’t planned on participating, but I went to see what the event was like since I’d never attended one before. To my surprise, I ended up winning the competition!
-
-I would say my height. I’m so grateful to my parents for gifting me that!
-
-I enjoy modelling a wide variety of clothing styles and am open to any type of attire – from casual to formal, active wear, and everything in between. I’m flexible and always ready to adapt to the designer’s vision.
-
-...
-
-[Data](articles/37e0f664.json)
-
-[Extended Data](ext_articles/37e0f664.ext.json)
-
----
-
-### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
-
-*2024-06-06 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185477) · `ta`
-
-Approximately 1000 Sri Lankans might be in Russia due to the escalating conflict there. The Sri Lankan government has shared details of 220 individuals with the Russian Embassy. Vasantha Yapa Bandara urges those without agreements to comply publicly. Opposition Leader Sajith Premadasa suggests sending delegations to Myanmar and Russia to assist citizens in crises. The government could potentially rescue 49 Sri Lankans accused of cybercrimes in Myanmar through negotiations with the Special Investigation Department, similar to how Nepal and Uganda have rescued their nationals.
-
-🟩
-
-About 1000 Sri Lankans may have gone to Russia in the context of the intensification of Russia-Ukraine conflict. We have handed over information on 220 people to the Russian Embassy.. Vasantha Yapa Bandara, a member of the Independent Opposition, said that the Sri Lankans who have gone without a service agreement should come to a public compliance.
-
-He was speaking at a special statement during a session held in Parliament on Thursday (6).
-
-Opposition Leader Sajith Premadasa advised us to go to Myanmar and Russia to look into the crisis of Sri Lankans who are in crisis.
-
-Meanwhile, I recently visited Myanmar and Thailand, including the members of the Opposition, National Alawattala and Sujith Sanjay Fero.
-
-If the government is negotiating through the Special Investigation Department (DSI) in Thailand, the government can safely rescue 49 Sri Lankans involved in cyber crimes in Myanmar.
-
-Nepal and Uganda have negotiated with the Special Investigation Department and saved their nationals.
-
-...
-
-[Data](articles/696e222e.json)
-
-[Extended Data](ext_articles/696e222e.ext.json)
 
 ---

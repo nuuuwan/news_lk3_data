@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 05:18:52**
+As of **2024-06-07 05:36:44**
 
 ## Newspaper Stats
 
-*Scraped **28,968** Articles*
+*Scraped **28,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 263
 dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
-islandlk | 1,554
+islandlk | 1,556
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,474
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,968 (100.0%) of 28,968 articles have been extended.
+28,968 (100.0%) of 28,970 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1368,6 +1368,24 @@ It said Foreign Employment Ministry had already said that “a certain amount of
 
 ---
 
+### Cricket, rugby…and modelling
+
+*2024-06-06 18:58:00* · [`islandlk`](http://island.lk/cricket-rugbyand-modelling/) · `en`
+
+I’m currently working as a Management Accountant at an IT company. I’ve been involved in modelling since 2016. In 2018 I won the Face of Asia (International pageant) competing with 27 Asian countries. I have a passion for playing cricket; I’m currently participating in the Colombo District Division III tournament. In my spare time, I enjoy going on road trips, with my brother, to explore the beautiful places in our wonderful country.
+
+It happened accidentally. There was a modelling competition at our university, called Stylish Marketer. I hadn’t planned on participating, but I went to see what the event was like since I’d never attended one before. To my surprise, I ended up winning the competition!
+
+I would say my height. I’m so grateful to my parents for gifting me that!
+
+I enjoy modelling a wide variety of clothing styles and am open to any type of attire – from casual to formal, active wear, and everything in between. I’m flexible and always ready to adapt to the designer’s vision.
+
+...
+
+[Data](articles/37e0f664.json)
+
+---
+
 ### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
 
 *2024-06-06 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185477) · `ta`
@@ -2191,31 +2209,5 @@ Taking into account the prevailing weather conditions, the Ministry of Education
 [Data](articles/9302e4ce.json)
 
 [Extended Data](ext_articles/9302e4ce.ext.json)
-
----
-
-### Notice of schools closing tomorrow
-
-*2024-06-06 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197466) · `si`
-
-Due to bad weather, all public schools in the Nivithigala region, specifically in Alapatha, Itection, and Agets divisions, will close tomorrow. The Zonal Education Directors can decide about future school closures. Other zones remain open.
-
-🟩
-
-Public schools have been granted to government schools at the following divisions of the Nivithigala region tomorrow (07) as a special vacation given to public schools.
-
-The decision was taken due to the inclement weather conditions in those areas.
-
-Accordingly, all schools belonging to Alapatha and the Itection and Agets in the Nivitigala Education Zone will not be held tomorrow.
-
-It has been announced that the Zonal Education Directors are authorized to make decisions on conducting decisions on the future.
-
-The Sabaragamuwa Provincial Council is notified to hold schools in all other zones and divisions.
-
-◼️
-
-[Data](articles/15f21d1b.json)
-
-[Extended Data](ext_articles/15f21d1b.ext.json)
 
 ---

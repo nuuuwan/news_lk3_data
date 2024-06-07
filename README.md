@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 16:34:43**
+As of **2024-06-07 16:51:23**
 
 ## Newspaper Stats
 
-*Scraped **29,061** Articles*
+*Scraped **29,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,142 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,659
 dailyftlk | 1,730
-adalk | 2,480
-adaderanalk | 3,289
+adalk | 2,482
+adaderanalk | 3,292
 tamilmirrorlk | 3,415
 virakesarilk | 4,459
-dailymirrorlk | 4,617
+dailymirrorlk | 4,618
 adaderanasinhalalk | 4,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,060 (100.0%) of 29,061 articles have been extended.
+29,061 (100.0%) of 29,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### නැවතත් කාලගුණයේ වෙනසක්
+### ICC admits New York pitches at T20 World Cup not up to standard
+
+*2024-06-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99729/icc-admits-new-york-pitches-at-t20-world-cup-not-up-to-standard) · `en`
+
+The pitches used in the T20 World Cup matches played in New York have not been up to standard and ground staff are working on remedying them for the rest of the tournament, the International Cricket Council (ICC) said on Thursday.
+
+The temporary Nassau County International Cricket Stadium has hosted two games so far, both of which were low-scoring encounters due to the nature of the drop-in pitch which has made batting extremely difficult due to the movement and bounce.
+
+Fans expecting a run-fest were left disappointed when Sri Lanka were bowled out for 77 -- their lowest ever score -- against South Africa, while India bowled out Ireland for 96 in Wednesday’s one-sided contest.
+
+“T20 Inc and the ICC recognise that the pitches used so far at the Nassau County International Cricket Stadium have not played as consistently as we would have all wanted,” the ICC said in a statement.
+
+...
+
+[Data](articles/6e9e5d50.json)
+
+---
+
+### නිවසකට ඇතුළුවී බිම හාරා රත්රන් සෙවූ පොලිස් නිළදාරීන්ට සිදුවූ දේ
+
+*2024-06-07 16:35:07* · [`adalk`](https://www.ada.lk/breaking_news/නිවසකට-ඇතුළුවී-බිම-හාරා-රත්රන්-සෙවූ-පොලිස්-නිළදාරීන්ට-සිදුවූ-දේ/11-410073) · `si`
+
+ස්කැනර් යන්ත්‍රයක් රැගෙන විත් ආණමඩුව පෙරමාකුත්තුව ප්‍රදේශයෙ නිවසක් පරික්ෂා කර ඉන් පසුව නිවස කැණීම් කර  රත්‍රන් සෙවිමේ නිරත වු පුත්තලම කොඨඨාශ විශේෂ අපරාධ විමර්ශන අංශයෙ ස්ථානාධිපති වරයා  ඇතුළු නිළධාරීන් සිව් දෙනෙකු වහාම එම ඒකකයෙන් ඉවත් කර ස්ථාන මාරු කර ඇති බව පුත්තලම නියෝජ්‍ය පොලිස්පති නාලක සිල්වා මහතා අද 7 දින පැවසිය.
+
+පුත්තලම නියෝජ්‍ය පොලිස්පති නාලක සිල්වා මහතාගේ උපදෙස් මත පුත්තලම කොඨඨාශ භාර ජේෂ්ඨ පොලිස් අධිකාරි සරත් රූපසිංහ මහතා විසින් මේ සම්බන්ධව සිදුකල පරික්ෂණයකින් පසුව අදාල නිළධාරීන් ස්ථාන මාරු කිරීමට කටයුතු කර තිබුනී.
+
+අදාල කොඨඨාශ විශේෂ අපරාධ විමර්ශන අංශයෙ නිළධාරීන් ආණමඩුව පෙරමාකුත්තුව නිවසට පසුගිය ප මැයි මාසයෙ පැමින ඇති බවත් ඉන් පසුව පාෂණ හෝ වෙනත් භුගතව ඇති දෑ සේවිමට යොදා ගන්නා ස්කෑනර් යන්ත්‍රයක් යොදා ගනිමින් අදලා නිවස තුල කැණීම් කර ඇති බවත් එම යන්ත්‍රයෙන් ලබා දුන් කිසියම් සංඥාවක් අනුව අදාල ස්ථානය කිසිදු ලෙසකින් කැණීමක් නොකරන ලෙසට දන්වා නිවසින් පිටව ගිය බව නිවැසියන් මේ වන විට මේ සම්බන්ධව විමර්ශන සිදුකරන පොලිස් කණ්ඩායම් වෙත ප්‍රකාශ ලබා දී තිබුනී.
+
+...
+
+[Data](articles/3b6e1858.json)
+
+---
+
+### Heavy rainfall pegged to enhance in coming days
+
+*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-pegged-to-enhance-in-coming-days/108-284347) · `en`
+
+Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are anticipated to intensify over the next few days, beginning tomorrow, June 8.
+
+The Meteorological Department forecast increased rainfall and potential adverse weather across several regions of the island.
+
+According to the latest weather report, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
+
+Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
+
+In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
+
+...
+
+[Data](articles/95b699b9.json)
+
+---
+
+### Prevailing rainy condition expected enhance in next few days
+
+*2024-06-07 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99728/prevailing-rainy-condition-expected-enhance-in-next-few-days) · `en`
+
+The Department of Meteorology states that the prevailing rainy condition in the south-western part of the island is expected to enhance to some extent in the next few days from tomorrow (08).
+
+In its latest foecast, the Meteorology Department mentioned that showers will occur at times in Western, Sabaragamuwa and Southern provinces and in Kandy and Nuwara Eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts. Several spells of showers will occur in North-western, Northern and North-central provinces, it added.
+
+Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, according to the Met. Department.
+
+Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North western provinces and in Trincomalee and Hambantota districts.
+
+...
+
+[Data](articles/ecedd2e1.json)
+
+---
+
+### A change in the weather again
 
 *2024-06-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197500) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (08) සිට ඉදිරි දින කිහිපයේ දී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Expect heavy rainfall in the southwest, western, southern, and central regions of the island over the next few days, with intense showers in specific areas like Nuwara Eliya, Galle, and Matara. Strong winds of 40-50 km/h are forecasted in the northern, north-central, and northwestern provinces. The Department of Meteorology advises caution against lightning and wind-related accidents.
 
-ඒ අනුව බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වේ.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තරමක වැසි ඇති වේ.
+The Department of Meteorology announces that a rainy industry in the southwest part of the island will be expected in the next few days.
 
-වයඹ, උතුරු සහ උතුරු මැද පළාත්වලත් වැසි වාර කිහිපයක් ඇති විය හැකිය.
+Accordingly, there will be showers at times in the Western, Sabaragamuwa and Southern provinces and at times in the Kandy and Nuwara Eliya Districts.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle, Galle and Matara districts will experience more than 50 mm.
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති වේ.
+Several spells of showers can also be in the North Western, North and North Central provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+There are 40-50 strong winds in the North, North Central and Northwestern provinces, Trincomalee and Hambantota districts.
+
+The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/c7d8b577.json)
+
+[Extended Data](ext_articles/c7d8b577.ext.json)
+
+---
+
+### DMC explains how to obtain govt.’s Rs. 10,000 grant to clean flood-affected homes
+
+*2024-06-07 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99727/dmc-explains-how-to-obtain-govts-rs-10000-grant-to-clean-flood-affected-homes) · `en`
+
+The Disaster Management Centre (DMC) today (07) informed the general public regarding the method for obtaining the Rs. 10,000 grant to be provided by the government in order to clean up the flood-affected houses.
+
+Director of the DMC, Pradeep Kodippili stated that the Grama Niladhari certificate and a recommendation, is required for the purpose.
+
+“The government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses. People will need to submit the Grama Niladhari certificate and a recommendation [from the Grama Niladhari officer] to obtain this grant”, Mr. Kodippili said.
+
+Furthermore, the DMC Director expressed that people of 113 Divisional Secretariat Divisions in 13 districts have been affected by the prevailing extreme weather conditions across the island since June 01, 2024.
+
+◼️
+
+[Data](articles/8ac7ed8b.json)
 
 ---
 
@@ -193,6 +291,24 @@ Additionally, he highlighted the external is debt USD 37 billion, including outs
 [Data](articles/d8643917.json)
 
 [Extended Data](ext_articles/d8643917.ext.json)
+
+---
+
+### වෙළෙඳපොළ තරගයට මුහුණ දිය නොහැකි නිෂ්පාදන අත්හැරීම වඩාත් සුදුසුයි
+
+*2024-06-07 14:34:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙළෙඳපොළ-තරගයට-මුහුණ-දිය-නොහැකි-නිෂ්පාදන-අත්හැරීම-වඩාත්-සුදුසුයි/11-410070) · `si`
+
+වී නිෂ්පාදනය ප්‍රමුඛ කර ගනිමින් තරගකාරී අපනයන වෙළඳපොල ජය ගත හැකි නිෂ්පාදන කෙරෙහි වැඩි අවධානයක් යොමු කළ යුතු බවත් 2030 වන විට නවීන තාක්ෂණය භාවිතා කරමින් තරගකාරී කෘෂිකර්මාන්තය කරා ගමන් කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එසේ නොවුනහොත් අනාගතය ජයගත නොහැකි බව පෙන්වා දුන් ජනාධිපතිවරයා  අපනයන වෙළඳපොල තුළ තරගකාරීත්වයට මුහුණ දිය නොහැකි නිෂ්පාදන අත්හැරීම වඩාත් සුදුසු බවද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති කාර්යාලයේදී ඊයේ (06) පස්වරුවේ පැවති කෘෂිකර්ම නවීකරණ වැඩසටහනේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
+
+රට පුරා තෝරා ගත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 26ක ක්‍රියාත්මක කෘෂිකර්ම   නවීකරණ වැඩසටහන යටතේ එක් ප්‍රාදේශීය ලේකම් කොට්ඨාසයකට රුපියල් මිලියන 25 බැගින් වෙන් කර ඇති අතර, එම නියමු ව්‍යාපෘතියේ වත්මන් ප්‍රගතිය පිළිබඳ වාර්තාවක් ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ඉදිරිපත් කෙ‍රිණි.
+
+...
+
+[Data](articles/3f1b617d.json)
 
 ---
 
@@ -2113,125 +2229,5 @@ The Minister of State has stated that it can provide the speedy internet service
 [Data](articles/9841c451.json)
 
 [Extended Data](ext_articles/9841c451.ext.json)
-
----
-
-### Hemas and Hatch to launch second iteration of Slingshot Accelerator to propel Sri Lankan start-ups
-
-*2024-06-07 02:12:44* · [`dailyftlk`](https://www.ft.lk/business/Hemas-and-Hatch-to-launch-second-iteration-of-Slingshot-Accelerator-to-propel-Sri-Lankan-start-ups/34-762754) · `en`
-
-Hatch Works CEO Mevan Peiris, Moderator: Hatch Works Senior Program Manager Ruvanara Tillekeratne, and Hemas Holdings Chief Strategy and Growth Officer Rizny Faisal – Pic by Upul Abayasekara
-
-Hemas, in collaboration with Hatch, this week announced the second iteration of the Hemas x Hatch Slingshot program.
-
-Following on from the success of this Accelerator Program in 2023 where Hemas supported 25 startups and accelerated 8 startups through an intense, high-quality program delivered by Hatch, Slingshot 2.0, aims to support a further 25 startups in the sectors of EdTech, FMCG, Healthcare, and Logistics, fostering innovation and contributing to the growth of the Sri Lankan economy.
-
-...
-
-[Data](articles/8352dee0.json)
-
-[Extended Data](ext_articles/8352dee0.ext.json)
-
----
-
-### Nawaloka Hospitals Group ups after-tax profit by 114% to Rs. 347.8 m in FY24
-
-*2024-06-07 02:10:53* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospitals-Group-ups-after-tax-profit-by-114-to-Rs-347-8-m-in-FY24/34-762753) · `en`
-
-Nawaloka Hospitals Group, yesterday announced it has posted a profit after tax of Rs. 347.8 million for the FY24 reflecting a 114.26% increase from the previous year.
-
-The Company said the result reaffirms its resilience and commitment to operational excellence.
-
-“The positive swing in profitability is a testament to the company’s steadfast dedication to enhancing efficiency and patient care,” the company added.
-
-Revenue for the year increased to Rs. 10,648 million, representing a 14.43% year-over-year growth, demonstrating the strength and adaptability of Nawaloka Hospitals’ business model despite the challenging economic environment.
-
-Nawaloka Hospitals PLC Chairman Dr. Jayantha Dharmadasa said: “This significant profit growth reflects the unwavering commitment and hard work of our entire team, who have prioritised operational excellence and strategic initiatives focused on efficiency and exceptional patient care.”
-
-...
-
-[Data](articles/56b35774.json)
-
-[Extended Data](ext_articles/56b35774.ext.json)
-
----
-
-### Spa Ceylon clinches double win at Pure Beauty Global Awards 2024, dominating Global Beauty Awards season
-
-*2024-06-07 02:09:12* · [`dailyftlk`](https://www.ft.lk/business/Spa-Ceylon-clinches-double-win-at-Pure-Beauty-Global-Awards-2024-dominating-Global-Beauty-Awards-season/34-762752) · `en`
-
-Spa Ceylon, the world’s largest Luxury Ayurveda chain, added another accolade to its trailblazer legacy by clinching a double-win at the prestigious Pure Beauty Global Awards 2024, held recently in London, following a winning streak of 17 international awards in the global beauty circuit.
-
-The Pure Beauty Global Awards celebrates the world’s best in beauty from the past year. More than 400 entries from 40 countries competed in the awards this year, where the Pure Beauty team and an expert panel of judges chose the brightest products of 2024.
-
-Spa Ceylon was amongst the handful of multiple-award winners of the night, sweeping the board in the Natural & Organic category, by winning the Best Natural & Organic Icon, for the Sleep Intense Dream Balm, and the Best Natural Beauty Product for the True Turmeric Vitamin C Glow Renewing Treatment Serum. In addition, the brand was a finalist in the Best Wellness Icon category for the De-stress Harmonising Balm.
-
-...
-
-[Data](articles/21848774.json)
-
-[Extended Data](ext_articles/21848774.ext.json)
-
----
-
-### The Prime Minister of India should resolve the ethnic problem of the Sri Lankan people and live with the self -esteem - Dr. River Thirumurugan
-
-*2024-06-07 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185486) · `ta`
-
-Dr. River Thirumurugan urges India's PM to address Sri Lanka's Tamil ethnic issue, emphasizing the need for a permanent solution to alleviate Tamil suffering. The All Ceylon Hindu VP, Dr. Saridiru Murugan, commends India's PM for their efforts, highlighting the importance of resolving this longstanding issue.
-
-🟩
-
-All Ceylon Hindu Vice President Dr. Saridiru Murugan congratulated the Prime Minister of India that the Prime Minister of India should resolve the ethnic problem that is a long -standing problem of the Tamil people in Sri Lanka in India.
-
-For the third time, I am happy to congratulate themselves on this occasion. Consider the gift of the people to serve the classic service they are doing.
-
-They have to make the way to permanently overcome the plight of Tamils ​​living in a state of distress as they have lost their lives.
-
-You are responsible for bringing the Bharat nation to the world stage.
-
-◼️
-
-[Data](articles/81dedc54.json)
-
-[Extended Data](ext_articles/81dedc54.ext.json)
-
----
-
-### OSL Global and Middle East Liaoning Province General Chamber of Commerce sign MOU
-
-*2024-06-07 02:06:19* · [`dailyftlk`](https://www.ft.lk/business/OSL-Global-and-Middle-East-Liaoning-Province-General-Chamber-of-Commerce-sign-MOU/34-762751) · `en`
-
-Middle East Liaoning Province General Chamber of Commerce Chairman/President Jinsong Wang (left) exchange the MOU with OSL Global Director Aravinda Weerasekara and Director Prasanna Vithanage looks on
-
-OSL Global Ltd., has signed a significant Memorandum of Understanding (MOU) with the Middle East Liaoning Province General Chamber of Commerce.
-
-This strategic agreement aims to enhance cooperation and explore mutual business opportunities between the two entities. The signing ceremony took place in Colombo and marked a pivotal step in strengthening international business relations.
-
-...
-
-[Data](articles/16e08dd3.json)
-
-[Extended Data](ext_articles/16e08dd3.ext.json)
-
----
-
-### Revamped www.singhagiri.lk online store goes live with discounts
-
-*2024-06-07 02:04:51* · [`dailyftlk`](https://www.ft.lk/business/Revamped-www-singhagiri-lk-online-store-goes-live-with-discounts/34-762750) · `en`
-
-Singhagiri CEO Lasantha Alwis relaunching its online shopping website yesterday at Singhagiri Showroom T.B. Jayah Mawatha Colombo
-
-Singhagiri Ltd., the country’s premier consumer electronics specialist, has re-launched its online shopping site to provide an optimal user experience for its valuable customers through www.singhagiri.lk.
-
-The re-launch at Singhagiri Showroom, T.B Jayah Mawatha, Colombo 10 was attended by Directors Nasser Majeed, Chathurika De Silva and Anusha Marasinghe as well as CEO Lasantha Alwis.
-
-Singhagiri always strives to build lifelong relationships with its customers by providing an unmatched user experience and the best after-sales services. With over 52 years of experience in the consumer durables industry and over 10 years in e-commerce, Singhagiri is at the forefront of offering its consumers a wide range of top-quality international brands alongside SGL local brands through retail, plaza showrooms, and countrywide dealers
-
-...
-
-[Data](articles/42d5fc38.json)
-
-[Extended Data](ext_articles/42d5fc38.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 19:04:08**
+As of **2024-06-07 19:18:54**
 
 ## Newspaper Stats
 
-*Scraped **29,095** Articles*
+*Scraped **29,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,565
 economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,483
-adaderanalk | 3,294
+adaderanalk | 3,295
 tamilmirrorlk | 3,417
 virakesarilk | 4,467
-dailymirrorlk | 4,622
+dailymirrorlk | 4,623
 adaderanasinhalalk | 4,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,089 (100.0%) of 29,095 articles have been extended.
+29,095 (100.0%) of 29,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Biden apologizes to Ukraine’s Zelenskyy
+
+*2024-06-07 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Biden-apologizes-to-Ukraines-Zelenskyy/107-284349) · `en`
+
+PARIS (AP) — U.S. President Joe Biden on Friday for the first time publicly apologized to Ukraine for a monthslong congressional holdup in American military assistance that let Russia make gains on the battlefield.
+
+The apology came as Biden met in Paris with Ukrainian President Volodymyr Zelenskyy, who appealed for bipartisan U.S. support going forward “like it was during World War II.”
+
+A day earlier, the two had attended ceremonies marking the 80th anniversary of the D-Day landings in Normandy, where Biden had drawn common cause between the allied forces that helped free Europe from Nazi Germany and today’s effort to support Ukraine against Russia’s invasion and Zelenskyy had been greeted with a rapt ovation.
+
+...
+
+[Data](articles/80699863.json)
+
+---
 
 ### Biden apologizes to Ukraine’s Zelenskyy
 
@@ -46,21 +62,43 @@ A day earlier, the two had attended ceremonies marking the 80th anniversary of t
 
 [Data](articles/8dbfa23d.json)
 
+[Extended Data](ext_articles/8dbfa23d.ext.json)
+
 ---
 
-### මැයි මාසයේ දී විදෙස් සංචිතවල සුළු අඩුවීමක්
+### Sri Lanka’s reserves see marginal drop in May 2024
+
+*2024-06-07 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99732/sri-lankas-reserves-see-marginal-drop-in-may-2024) · `en`
+
+Sri Lanka’s official reserve assets has recorded a marginal drop by 0.9% to USD 5.42 billion in May 2024 compared to USD 5.47 billion in April 2024, according to the Central Bank of Sri Lanka (CBSL).
+
+However, this includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
+
+◼️
+
+[Data](articles/597f5245.json)
+
+---
+
+### A slight decrease in foreign reserves in May
 
 *2024-06-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197504) · `si`
 
-පසුගිය 2024 මැයි අවසානයේ දී මෙරට නිල සංචිත වත්කම් ප්‍රමාණය එක්සත් ජනපද ඩොලර් මිලියන 5,421ක් බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+In May 2024, Sri Lanka's foreign reserves slightly decreased to $5,442.1 million, down 0.9% from April's $5,471 million. The forex reserve, a key part of the reserves, dropped 0.4% to $5,367 million.
 
-මෙය 2024 අප්‍රේල් මාසයේ දී වාර්තා වූ ඩොලර් මිලියන 5,471ක්වූ සංචිත වත්කම් ප්‍රමාණය හා සැසඳීමේ දී 0.9%ක සුළු පහළ යාමකි.
+🟩
 
-නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය ඩොලර් මිලියන 5,389 සිට ඩොලර් මිලියන 5,367 ක් දක්වා 0.4% කින් මෙහිදී පහළ ගොස් තිබේ.
+The Central Bank of Sri Lanka announced that the number of official reserves in the country at the end of May 2024, the Central Bank announced US $ 5,4,421 million.
+
+This is 0.9% shorter compared to $ 5,471 million US $ 5,471 million in April 2024.
+
+Forex pool, the main component of the uniform reserve assets, the forex reserve has fell by 0.4% to $ 5,367 million from $ 5,367 million.
 
 ◼️
 
 [Data](articles/e7c92d97.json)
+
+[Extended Data](ext_articles/e7c92d97.ext.json)
 
 ---
 
@@ -80,27 +118,35 @@ While trains arrived in Colombo from all railway lines this morning, many servic
 
 [Data](articles/71b93b84.json)
 
+[Extended Data](ext_articles/71b93b84.ext.json)
+
 ---
 
-### நாட்டின் சீரற்ற காலநிலையில் மீண்டும் மாற்றம்!
+### Change again in the random weather of the country!
 
 *2024-06-07 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185562) · `ta`
 
-நாளை 08ஆம் திகதி முதல் நாட்டின் தென்மேற்குப் பகுதியில் மழையுடனான வானிலை சற்று அதிகரித்துக் காணப்படலாம் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology predicts increased rainfall starting tomorrow across various regions including the southwest, upper, Sabaragamuwa, southern provinces, Kandy, Nuwara Eliya districts, and parts of the Northwest, North, and North Central Provinces. Showers or thunderstorms are also expected in the Uva Province and Ampara and Batticaloa districts. Heavy winds may hit the North, North Central, Northwestern Provinces, and Trincomalee and Hambantota districts intermittently. The department advises caution against potential risks from heavy winds and lightning during thunderstorms.
 
-அதன்படி, மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும்.
+🟩
 
-மேலும் வடமேற்கு, வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் சில இடங்களிலும் மழை பெய்யக்கூடும்.
+The Department of Meteorology has announced that the rainy weather will increase slightly in the southwest of the country since tomorrow.
 
-ஊவா மாகாணம் மற்றும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Accordingly, rainfall will occur from time to time in the upper, Sabaragamuwa and southern provinces and Kandy and Nuwara Eliya districts.
 
-வடக்கு, வடமத்திய மற்றும் வடமேற்கு மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசும்.
+Rainfall is expected in the Northwest, North and North Central Provinces.
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களைக் குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+Showers or thunderstorms are expected in the evening or night in some places in the Uva Province and Ampara and Batticaloa districts.
+
+Heavy winds will occur at the North, North Central and Northwestern Provinces and Trincomalee and Hambantota districts from time to time.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
 
 ◼️
 
 [Data](articles/d023cf12.json)
+
+[Extended Data](ext_articles/d023cf12.ext.json)
 
 ---
 
@@ -397,6 +443,8 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 ...
 
 [Data](articles/138a0812.json)
+
+[Extended Data](ext_articles/138a0812.ext.json)
 
 ---
 
@@ -1216,27 +1264,35 @@ The police spokesman said that as he has left Sri Lanka properly, he can be aske
 
 ---
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂයට අදාළව මෙතෙක් ලැබුණු අධිකරණ නියෝග මොනවා ද?
+### What are the court orders received by the Sri Lanka Freedom Party?
 
 *2024-06-07 12:26:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ww3q79434o) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයට අදාළව මෙතෙක් ලැබුණු අධිකරණ නියෝග මොනවා ද?
+The Sri Lanka Freedom Party (SLFP) faced internal crises leading to legal battles over leadership changes, including the resignation of former President Maithripala Sirisena and the appointment of Justice Minister Dr. Wijayadasa Rajapakse as Chairman. The Supreme Court ruled against a presidential agreement involving Jude Shamanara Jayamaha.
 
-පක්ෂය තුළ පවතින බෙදීම් මෙන්ම, අධිකරණ නියෝග හේතුවෙන් ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ පැවති අර්බුදකාරී තත්ත්වය තවත් තිව්‍ර වී තිබේ.
+🟩
 
-පාර්ශව දෙකකට බෙදී ඇති පක්ෂයේ නියෝජිතයින් ඒකිනෙකාට එරෙහිව අධිකරණයට කරුණු ඉදිරිපත් කර වාරණ නියෝග ලබා ගැනීමේ නැඹුරුවක් මෙන්ම එම වාරණ නියෝග ඉවත් කර ගැනීමට දරණ උත්සාහයන් පසුගිය මාස දෙක පුරාවට දක්නට ලැබුණි.
+What are the court orders received by the Sri Lanka Freedom Party?
 
-පක්ෂයේ අර්බුදය තවත් තිව්‍රවුයේ, හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති ධූරයෙන් ඉල්ලා අස්වීමත් සමග ය.
+The crisis in the Sri Lanka Freedom Party (SLFP) has been repeated due to divisions within the party.
 
-එම ඉල්ලා අස්වීමෙහි යටි අරමුණ වූයේ, අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධූරයට පත් කිරීම ය.
+The last two months have seen a tendency to obtain an injunction and dismissal of the injunctions as well as the injunction order.
 
-(මැයි 13) පස්වරුවේ කෝට්ටේදී පැවති මෛත්‍රීපාල සිරිසේන පාර්ශවයේ විධායක සභා රැස්වීමේදී මෛත්‍රීපාල සිරිසේන සභාපති ධූරයෙන් ඉල්ලා අස්වූ අතර, එහිදී ගත් ඒකමතික තීරණයකට අනුව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ පක්ෂ සභාපති ධූරයට පත් කර ගැනිණි.
+The crisis of the party is with the resignation of former President Maithripala Sirisena, the resignation of former President Maithripala Sirisena.
 
-ඊට අමතරව, පක්ෂයේ ලේකම්වරයා ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ කැස්බෑව ආසන සංවිධායක නීතිඥ කීර්ති උඩවත්ත පත් කෙරිණි.
+The underlying purpose of the resignation was the appointment of Justice Minister Dr. Wijayadasa Rajapakse to be appointed as the Chairman of Sri Lanka Freedom Party.
+
+(May 13) Maithripala Sirisena addressed the post of Chairman at the Executive Committee of Maithripala Sirisena held at Cate.
+
+In addition, SLFP Kesbawa electorate organizer at the SLFP was appointed as the Secretary of the SLFP.
+
+In the backdrop, BBC Sinhala asked what the orders have been given to the Sri Lanka Freedom Party.
 
 ...
 
 [Data](articles/0238ad4a.json)
+
+[Extended Data](ext_articles/0238ad4a.ext.json)
 
 ---
 
@@ -2265,51 +2321,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/7940c55d.json)
 
 [Extended Data](ext_articles/7940c55d.ext.json)
-
----
-
-### Authorities to pursue extradition of Jayamaha
-
-*2024-06-07 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Authorities-to-pursue-extradition-of-Jayamaha/108-284320) · `en`
-
-Colombo, June 7 (Daily Mirror) Following the Supreme Court's ruling declaring former President Maithripala Sirisena's pardon of Don Shamantha Jude Anthony Jayamaha as arbitrary and invalid, Sri Lankan authorities have intensified efforts to bring the convicted murderer back to the country, suspected to be in Singapore.
-
-However, Sri Lanka’s efforts are likely to hit a snag in this regard because no extradition treaty has been signed yet with Singapore.
-
-Such an agreement can be signed only with the concurrence of the two countries. Sri Lanka has signed such agreements with numerous other countries.
-
-According to police sources, Jayamaha, who had been serving a prison sentence for the Royal Park murder case, left Sri Lanka on November 15, 2019, just days before an interim order was issued prohibiting him from leaving the country.
-
-It was revealed that Jayamaha had obtained a passport on November 13, 2019 immediately after receiving the presidential pardon.
-
-...
-
-[Data](articles/67085965.json)
-
-[Extended Data](ext_articles/67085965.ext.json)
-
----
-
-### USA stun Pakistan in T20 World Cup super over
-
-*2024-06-07 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/USA-stun-Pakistan-in-T20-World-Cup-super-over/108-284319) · `en`
-
-USA, June 7 (BBC) - The United States pulled off one of the biggest shocks in cricket history by beating Pakistan in a super over in Dallas.
-
-Pakistan looked to be avoiding embarrassment at the T20 World Cup before Nitish Kumar hit the final ball of the US innings for four to tie the scores at 159.
-
-Sloppy for large parts of the game, Pakistan fell apart in the tie-breaker. Mohammad Amir bowled three wides, one of which the co-hosts also pinched two extra runs from.
-
-The US scrambled to 18-1, leaving Pakistan to chase 19 off left-arm seamer Saurabh Netravalkar. When 14 were needed off four balls, Kumar made another crucial intervention, this time holding a magnificent catch at long-off to dismiss Iftikhar Ahmed.
-
-With seven required from the last ball, Shadab Khan could only take a single, sparking joyous celebrations among the American players and supporters.
-
-All this at the end of a riveting contest, one which fluctuated in the burning Texas sunshine.
-
-...
-
-[Data](articles/34fec2a8.json)
-
-[Extended Data](ext_articles/34fec2a8.ext.json)
 
 ---

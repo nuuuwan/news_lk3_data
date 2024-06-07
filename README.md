@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 05:36:44**
+As of **2024-06-07 06:00:30**
 
 ## Newspaper Stats
 
-*Scraped **28,970** Articles*
+*Scraped **28,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 263
 dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
-islandlk | 1,556
+islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,474
@@ -26,11 +26,103 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,968 (100.0%) of 28,970 articles have been extended.
+28,970 (100.0%) of 28,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Star Garments Group expands its Sri Lankan footprint
+
+*2024-06-07 04:33:00* · [`islandlk`](http://island.lk/star-garments-group-expands-its-sri-lankan-footprint/) · `en`
+
+Star Garments Group (“Star”) completed its latest expansion venture with the acquisition of the assets of Kolonna Manufacturing Limited. This acquisition marks the group’s twelfth factory and will create over 1,000 job opportunities in Kolonna in the Ratnapura district. The acquisition cements Star’s belief in the potential for Sri Lankan apparel exports to grow as global sourcing bases look to diversify regional risks in other parts of the globe.
+
+On the acquisition, President and CEO of Komar, Charlie Komar said, “This investment reaffirms our long-term commitment to Sri Lanka and our belief that the country remains an untapped resource in apparel manufacturing. Star continues to remain a priority for Komar and we look forward to this division’s growth in the coming years.”
+
+...
+
+[Data](articles/268769bb.json)
+
+---
+
+### Surge Global secures second landmark win in Qatar with contract topping Rs.1billion
+
+*2024-06-07 04:32:00* · [`islandlk`](http://island.lk/surge-global-secures-second-landmark-win-in-qatar-with-contract-topping-rs-1billion/) · `en`
+
+Surge Global, a best-in-class design, technology, and marketing firm, is excited to announce that it has secured its second landmark technology transformation project in Qatar, with an engagement in excess of a billion rupees. This event underscores Surge’s continued commitment to delivering solutions and driving technological advancements in the region.
+
+The project, aimed at transforming Qatar’s technology landscape, will leverage Surge Global’s extensive expertise in software, data, and analytics and performance marketing.
+
+“The business has matured and has demonstrated our ability to take on complex critical pieces of work for large institutions and governments – this is exciting as the gulf is a region we’re excited to dig into” said Bhanuka Harischandra, CEO of Surge Global. “As a company with Sri Lankan origins, we take pride in showcasing our capabilities on an international stage, reflecting its global competitiveness.”
+
+...
+
+[Data](articles/9c6627d6.json)
+
+---
+
+### Brandix gifts school essentials for 8th consecutive year, strengthens commitment to Sri Lankan youth
+
+*2024-06-07 04:24:00* · [`islandlk`](http://island.lk/brandix-gifts-school-essentials-for-8th-consecutive-year-strengthens-commitment-to-sri-lankan-youth/) · `en`
+
+5 June 2024, Colombo: Renewing its commitment to Sri Lankan youth with the gift of hope, Brandix Apparel conducted its Manusathkara Thilina program for the 8th consecutive year, presenting 16,349 children of the Brandix family, vital school essentials including stationery and schoolbags for the new academic year.
+
+The Manusathkara Thilina project ensures children of Brandix Associates receive equal opportunities for education. It helps them to continue their primary and secondary schooling ranging from preschool through to Grade 13, without any hindrances. This support is aimed at enabling the next generation to learn and pave the way for positive changes.
+
+For 2024, children of 11,407 Brandix associates were beneficiaries. Since the inception of the program in 2016, cumulatively 53,349 school packs have been distributed, benefiting 45,600 employees and their families since inception.
+
+...
+
+[Data](articles/1c51f104.json)
+
+---
+
+### Hayleys Fentons launches “Roots of Resilience” programme to restore Bolgoda River’s mangroves
+
+*2024-06-07 04:24:00* · [`islandlk`](http://island.lk/hayleys-fentons-launches-roots-of-resilience-programme-to-restore-bolgoda-rivers-mangroves/) · `en`
+
+Sri Lanka’s commitment to mangrove conservation is a strong backdrop for Hayleys Fentons’ “Roots of Resilience” programme.
+
+Hayleys Fentons Limited celebrated the inauguration of the “Roots of Resilience” biodiversity conservation programme. The project began with the signing of the MoU on November 7, 2023. This significant endeavour was carried out in collaboration with the Government of Sri Lanka and the Department of Coast Conservation and Coastal Resource Management (CCCRMD).
+
+The “Roots of Resilience” biodiversity conservation programme aims to reinstate the vital mangrove ecosystem in the Bolgoda River. This river, a valuable natural treasure, was selected due to its ecological importance and the environmental threats it faces. The project witnessed the planting of 1,000 mangrove saplings on the banks of the river, an initial step towards the project’s long-term goal of enriching biodiversity and supporting local communities.
+
+...
+
+[Data](articles/bf2ab56e.json)
+
+---
+
+### SL-Paris Club MoU news gives bourse a lift
+
+*2024-06-07 04:21:00* · [`islandlk`](http://island.lk/sl-paris-club-mou-news-gives-bourse-a-lift/) · `en`
+
+The stock market performed well yesterday with the reporting in the foreign media that bilateral creditors had expressed their interest in signing a Memorandum of Understanding with the Sri Lankan government as a part of the external debt restructuring exercise.
+
+The bilateral creditors expressed their interest in a MoU with the government, thus boosting the market ahead of the IMF Board level review meeting scheduled for June12.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 120.93 points while the S and P SL 20 rose by 55.04 points.
+
+Turnover stood at Rs 1.56 billion with three crossings. Those crossings were reported in Pan Asia Bank, which crossed 1.8 million shares to the tune of Rs 43.54 million; its shares traded at Rs 23.20, Sampath Bank 300,000 shares crossed for Rs 23.9; its shares sold at Rs 79.50 and HNB 97500 shares crossed to the tune of Rs 20 million; its shares traded at Rs 205.
+
+...
+
+[Data](articles/b00e6c0e.json)
+
+---
+
+### US-based SaaS provider OnCoor Inc opens new Sri Lanka subsidiary
+
+*2024-06-07 04:21:00* · [`islandlk`](http://island.lk/us-based-saas-provider-oncoor-inc-opens-new-sri-lanka-subsidiary/) · `en`
+
+OnCoor Inc., a US-based Software as a Service (SaaS) provider in Advance Data Management and Analytics, has announced the opening of its new subsidiary in Sri Lanka, marking an important milestone in the company’s global expansion strategy.
+
+...
+
+[Data](articles/c6896b03.json)
+
+---
 
 ### Pramitha and Marikkar clash over Govt’s flood compensation strategy
 
@@ -1384,6 +1476,8 @@ I enjoy modelling a wide variety of clothing styles and am open to any type of a
 
 [Data](articles/37e0f664.json)
 
+[Extended Data](ext_articles/37e0f664.ext.json)
+
 ---
 
 ### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
@@ -2075,139 +2169,5 @@ On Wednesday evening (05), the 13-year-old boy visited the neighboring house whe
 [Data](articles/0167611d.json)
 
 [Extended Data](ext_articles/0167611d.ext.json)
-
----
-
-### Jaffna Achuveli Ulavikkulam Temple Vice President Attack by ax attack
-
-*2024-06-06 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185461) · `ta`
-
-In Jaffna, a 38-year-old man was attacked with an axe by a masked gang while riding his motorcycle. The incident occurred near the Achuveli Uruvikkulam Temple, where tensions have been rising due to disputes over land ownership. The victim is receiving treatment at Achuveli Hospital, and the case is under investigation by local authorities.
-
-🟩
-
-The ax has been attacked by an ax at the Jaffna Achuveli Uruvikkulam Temple Deputy Chairman.A 38 -year -old man from Achuveli has been attacked.
-
-While traveling on his motorcycle on Thursday morning (06), a five -man -of -a -two motorcycle violent gang was attacked by an ax and escaped.
-
-The attackers told the police that the attackers had covered their faces with a black cloth.
-
-Achuveli police are conducting investigations as the injured person is being treated at the Achuveli Hospital.
-
-Meanwhile, when the temple administrators were set up by the temple administration, the temple's land and the nearby land were opposed by the youths protested by the temple administration, which was taken up by unidentified persons who had been placed around the land last April.. It is noteworthy that a complaint is lodged at the Achuveli Police Station and is being investigated.
-
-◼️
-
-[Data](articles/2127a292.json)
-
-[Extended Data](ext_articles/2127a292.ext.json)
-
----
-
-### One of the disciple, including 'Kudu Jayani', arrested with ice drugs
-
-*2024-06-06 16:49:18* · [`adalk`](https://www.ada.lk/breaking_news/’’කුඩු-ජයනී’’-ඇතුලු-ප්‍රධාන-ගෝලයෙකු-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-410054) · `si`
-
-In a major crackdown on drug trafficking in Colombo and Moratuwa, authorities arrested several individuals, including 'Kudu Jayani,' who were found in possession of 3,520 milligrams of ice drugs. The operation, led by Chief Inspector Indika Weerasinghe and others from the Walana Central Corruption Brigade, resulted in the arrest of a network involved in distributing drugs across various areas.
-
-🟩
-
-A large number of drug trafficking in Colombo, Moratuwa, is arrested by the Walana Central Corruption Corruption Corruption Corruption Corruption Corruption Corruption Corruption Brigade today (06), Moratuwa.
-
-Walana Central Corpsant OIC Chief Inspector Indika Weerasinghe, Chief Inspector Indika Weerasinghe and Sub Inspector Jayani, a team of ice, is the main trafficking in her possession.With the 3520 milligrams of ice cadres, have been taken into custody.
-
-According to the investigation, the racketing and three brothers have been arrested for drug dealer and is in the long-range drug trafficker, Moratuwa, Modara, Koralawella, andThe police said that it is revealed to be distributed to the areas.
-
-This raid was directed by Sub Inspector General Inspector Indika Weerasinghe, Chief Inspector Indika Weerasinghe, Police Sergeant at the orders and instructions of the Director of Walana Central Corruption.104644 Tillakaratne, 105086 Kumaran, Police Sergeant Driver 6462 Bandara have been done.
-
-◼️
-
-[Data](articles/306bf93e.json)
-
-[Extended Data](ext_articles/306bf93e.ext.json)
-
----
-
-### Sri Lanka seeks employment for seamen on Greek ships
-
-*2024-06-06 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-employment-for-seamen-on-greek-ships-166640/) · `en`
-
-ECONOMYNEXT – Sri Lanka has asked Greece if it could increase employment opportunities for Sri Lankan sailors on Greek ships, the prime minister’s office said after Prime Minister Dinesh Gunawardena met Greek ambassador Aliki Koutsomitopoulou.
-
-“Bilateral relations, trade and investment promotion, maritime issues and commercial marine employment opportunities were discussed here,” a statement by the PMO said.
-
-The ambassador is said to have expressed her willingness to discuss employment opportunities for Sri Lankans with shipping companies.
-
-Greece and Sri Lanka have both faced economic crises, which saw them both declare sovereign debt default. “The reform measures taken to recover from the crisis were also discussed,” the PMO statement said.
-
-...
-
-[Data](articles/b790bd72.json)
-
-[Extended Data](ext_articles/b790bd72.ext.json)
-
----
-
-### WHO confirms first fatal human case of H5N2 bird flu
-
-*2024-06-06 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99710/who-confirms-first-fatal-human-case-of-h5n2-bird-flu) · `en`
-
-A person with prior health complications who had contracted bird flu died in Mexico in April and the source of exposure to the virus was unknown, the World Health Organization said on Wednesday.
-
-WHO said the current risk of bird flu virus to the general population is low.
-
-The 59-year-old resident of the State of Mexico had been hospitalized in Mexico City and died on April 24 after developing a fever, shortness of breath, diarrhea, nausea and general discomfort, WHO said.
-
-“Although the source of exposure to the virus in this case is currently unknown, A(H5N2) viruses have been reported in poultry in Mexico,” WHO said in a statement.
-
-It was the first laboratory-confirmed human case of infection with an influenza A(H5N2) virus globally and the first avian H5 virus reported in a person in Mexico, according to the WHO.
-
-Scientists said the case is unrelated to the outbreak of H5N1 bird flu in the United States that has so far infected three dairy farm workers.
-
-...
-
-[Data](articles/8ae6ab0f.json)
-
-[Extended Data](ext_articles/8ae6ab0f.ext.json)
-
----
-
-### Deagoda Kumara accused
-
-*2024-06-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197467) · `si`
-
-Spiritual leader Deagoda Kumara, accused, acquitted by Kesbewa Magistrate's Court. Verdict announced today, June 6th.
-
-🟩
-
-The Developed Kumara, who was a spiritual leader, has been acquitted of the court.
-
-The verdict in the case against him was announced today (06).
-
-It is reported that the Kesbewa Magistrate's Court ordered him to release him from the accusations.
-
-◼️
-
-[Data](articles/29cc9d02.json)
-
-[Extended Data](ext_articles/29cc9d02.ext.json)
-
----
-
-### Schools closed in two education divisions
-
-*2024-06-06 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99709/schools-closed-in-two-education-divisions) · `en`
-
-All government schools in Elapatha and Ayagama education divisions in the Nivithigala Education Zone will remain closed tomorrow (07) due to prevailing adverse weather conditions.
-
-In a notice issued by the Sabaragamuwa Province Education Secretary, it is further informed that all other schools in other education zones and divisions will conduct academic activities as usual tomorrow.
-
-Taking into account the prevailing weather conditions, the Ministry of Education (MoE) has informed that the authority to make decisions based on the existing weather situation have been vested with the Provincial Education Secretaries and Provincial Education Directors.
-
-◼️
-
-[Data](articles/9302e4ce.json)
-
-[Extended Data](ext_articles/9302e4ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 07:00:32**
+As of **2024-06-07 07:24:23**
 
 ## Newspaper Stats
 
-*Scraped **28,980** Articles*
+*Scraped **28,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,78 @@ adalk | 2,474
 adaderanalk | 3,281
 tamilmirrorlk | 3,403
 virakesarilk | 4,445
-dailymirrorlk | 4,603
-adaderanasinhalalk | 4,642
+dailymirrorlk | 4,604
+adaderanasinhalalk | 4,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,978 (100.0%) of 28,980 articles have been extended.
+28,980 (100.0%) of 28,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### අදත් තද වැසි
+### පාකිස්තානය හමුවේ අමෙරිකාවට පෙරළිකාර ජයක්
+
+*2024-06-07 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197479) · `si`
+
+ලෝක කුසලාන විස්සයි විස්ස ක්‍රිකට් තරගාවලියේ පාකිස්තාන කණ්ඩායම සමග පැවැති තරගයෙන් පෙරළිකාර ජයක් හිමි කරගැනීමට අමෙරිකානු කණ්ඩායම සමත් විය.
+
+එම තරගයේදී ප්‍රථමයෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුළු 07ක් දැවී ලකුණු 159ක් රැස් කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ අමෙරිකානු කණ්ඩායම ද නියමිත පන්දුවාර 20 අවසානයේ කඩුළු 03ක් දැවී ලකුණු 159ක් ලබාගැනීමත් සමග තරගයේ ලකුණු තත්ත්වය සම වුණි.
+
+ඒ අනුව තරගයේ ජයග්‍රාහකයා තෝරාගැනීමට සුපිරි පන්දුවාරයක් ක්‍රියාත්මක වු අතර එහිදී පළමුව පන්දුවට පහරදුන් අමෙරිකානු කණ්ඩායම නියමිත පන්දු 6 තුළ ලකුණු 18ක් රැස් කළේය.
+
+ජයග්‍රාහී ලකුණු 19ක ඉලක්කය හඹා යාමට පිටියට පිවිසි පාකිස්තාන කණ්ඩායමට සුපිරි පන්දුවාරයේ දී එක් කඩුල්ලක් දැවී ලබාගත හැකිවුයේ ලකුණු 13ක් පමණි.
+
+ඒ අනුව ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාවට අලුතින් එක්වු අමෙරිකානු කණ්ඩායම ප්‍රබල පාකිස්තාන කණ්ඩායම පරදවා ලකුණු 5ක ඓතිහාසික විස්සයි විස්ස තරග ජයක් හිමි කරගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/be6e8e48.json)
+
+---
+
+### Heavy rains today
 
 *2024-06-07 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197477) · `si`
 
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (07) දිනයේ විටින්විට වැසි ඇතිවිය හැකිය.
+Heavy rainfall expected across various regions, including western, southern, and central areas, with potential for showers and thunderstorms. The Department of Meteorology advises caution due to possible strong winds and lightning risks.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-වයඹ, උතුරු සහ උතුරු මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+Showers will occur at times in the Western, Sabaragamuwa and Southern provinces, in the Kandy and Nuwara Eliya districts.
 
-නැගෙනහිර සහ ඌව පලාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+The Department of Meteorology issues a latest announcement.
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+Several times can occur in the North Western, North and North Central provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the East and Uva provinces or at night.
+
+From the Hambantota district and time in the Hambantota district and time in the Hambantota district.. 40-50. Strong winds can also occur.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1ff0df00.json)
+
+[Extended Data](ext_articles/1ff0df00.ext.json)
+
+---
+
+### In the aftermath of floods...
+
+*2024-06-07 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-the-aftermath-of-floods/110-284271) · `en`
+
+People were seen cleaning their houses after the floodwaters receded. A small boy appeared distressed as his textbooks were washed away by the floodwaters. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/b6db0089.json)
 
 ---
 
@@ -2137,49 +2177,5 @@ A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun
 [Data](articles/71f0276e.json)
 
 [Extended Data](ext_articles/71f0276e.ext.json)
-
----
-
-### Special programme to provide text and exercise books to flood affected students: Minister
-
-*2024-06-06 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-programme-to-provide-text-and-exercise-books-to-flood-affected-students-Minister/108-284275) · `en`
-
-Parliament, June 06 (Daily Mirror)- A special programme is being implemented to provide school text books and exercise books for the students whose books were destroyed due to the floods, Education Minister Susil Premajayantha said today.
-
-He told Parliament that the affected students will be provided with text books and exercise books within the next two weeks.
-
-Responding to a question raised by SJB MP S.M. Marikkar, he said students in areas such as Kolonnawa, Kelanimulla and Wellampitiya have lost their books due to the floods.
-
-The Minister said instructions have been given to prepare a programme at Ministry level to provide the required books.
-
-◼️
-
-[Data](articles/b9086f72.json)
-
-[Extended Data](ext_articles/b9086f72.ext.json)
-
----
-
-### A 14-year-old child was seriously injured in a 9-year-old child
-
-*2024-06-06 16:59:51* · [`adalk`](https://www.ada.lk/breaking_news/14-හැවිරිදි-දරුවෙක්-09-හැවිරිදි--දරුවෙකුට-පිහින්-ඇන-බරපතළ-තුවාල/11-410055) · `si`
-
-A 14-year-old was hospitalized after poisoning a 9-year-old friend with knives while alone in the latter's home. The incident, involving two neighbors, led to the older child being blamed for playing violent video games.
-
-🟩
-
-A nine-year-old boy was admitted to the Hambantota General Hospital with a 14-year-old child.
-
-The 14-year-old child was rushed to the Embilipitiya hospital due to the poison.. 09-year-old child's house had committed the knives when there was no residents. These children are friends in neighboring houses and have reported that the 9-year-old child had been reported to 6 or seven places.
-
-The 14-year-old boy has been accused of violent video games.
-
-It was also reported that the incident occurred after the 14-year-old child warning of a role in the house of the 9-year-old child.
-
-◼️
-
-[Data](articles/0b36c7bf.json)
-
-[Extended Data](ext_articles/0b36c7bf.ext.json)
 
 ---

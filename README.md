@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 14:53:17**
+As of **2024-06-07 15:04:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,052 (100.0%) of 29,054 articles have been extended.
+29,054 (100.0%) of 29,054 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,8 @@ Leader of the Opposition Sajith Premadasa who also joined the crosstalk in the H
 ...
 
 [Data](articles/f02d501e.json)
+
+[Extended Data](ext_articles/f02d501e.ext.json)
 
 ---
 
@@ -934,15 +936,21 @@ Commenting on the matter Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha 
 
 ---
 
-### ටි.එන්.ඒ. සහාය දෙන අපේක්ෂකයා ගැන තිරණය මෙන්න
+### TNA. Here is the reserved on the supporter of support
 
 *2024-06-07 10:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ටි-එන්-ඒ--සහාය-දෙන-අපේක්ෂකයා-ගැන-තිරණය-මෙන්න/11-410068) · `si`
 
-එළැඹෙන ජනපතිවරනයේදි ද්‍රවිඩ ජාතික සන්ධානයේ සහාය දෙන අපේක්ෂකයා සම්බන්ධයෙන් වන තිරණය ජනපතිවරණයට ඉදිරිපත්වන ප්‍රධාන අපේක්ෂකයන් සමග සාකච්ඡා කිරිමෙන් පසුව තීරණය කරන බව එම සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රි එම්.ඒ. සුමන්තිරන් මහතා ප්‍රකාශ කරයි.
+After discussions, UPFA parliamentarian MA Sumanthiran announces TNA will back the Presidential candidate from the National Alliance in the upcoming election.
+
+🟩
+
+UPFA parliamentarian MA is deciding after discussing the Presidential TNA's TNA to support the Presidential National Alliance (TNA) in the presidential election.. Mr. Sumanthiran says.
 
 ◼️
 
 [Data](articles/9813967b.json)
+
+[Extended Data](ext_articles/9813967b.ext.json)
 
 ---
 

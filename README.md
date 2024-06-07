@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 16:18:58**
+As of **2024-06-07 16:34:43**
 
 ## Newspaper Stats
 
-*Scraped **29,060** Articles*
+*Scraped **29,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,289
 tamilmirrorlk | 3,415
 virakesarilk | 4,459
 dailymirrorlk | 4,617
-adaderanasinhalalk | 4,662
+adaderanasinhalalk | 4,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,060 (100.0%) of 29,060 articles have been extended.
+29,060 (100.0%) of 29,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### නැවතත් කාලගුණයේ වෙනසක්
+
+*2024-06-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197500) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (08) සිට ඉදිරි දින කිහිපයේ දී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තරමක වැසි ඇති වේ.
+
+වයඹ, උතුරු සහ උතුරු මැද පළාත්වලත් වැසි වාර කිහිපයක් ඇති විය හැකිය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c7d8b577.json)
+
+---
 
 ### Barber Assam to the first place
 
@@ -2209,41 +2233,5 @@ Singhagiri always strives to build lifelong relationships with its customers by 
 [Data](articles/42d5fc38.json)
 
 [Extended Data](ext_articles/42d5fc38.ext.json)
-
----
-
-### Pakistan won the Super Over the United States of America
-
-*2024-06-07 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185488) · `ta`
-
-In a thrilling match at the Texas, Talus Grand Brairie Stadium, the United States clinched victory over Pakistan in the Super Over of the R20 World Cup A Group, despite both teams scoring 159 runs in the regular 20 overs. The U.S., having already defeated Canada, leads the group with 4 points. Key performers included Mohammed Aamir for the U.S., scoring 18 runs in the Super Over, and Babar Azam and Shadab Khan for Pakistan, contributing significantly to their total.
-
-🟩
-
-The United States beat Pakistan in the Super over the R20 World Cup for the A Group, which was completed shortly before at the Texas, Talus Grand Brairie Stadium.
-
-The United States, which has already won Canada, tops the A group with 4 points with 2 wins.
-
-The United States, which was in response to Pakistan's 159 runs, ended in a balance to score 159 runs.
-
-The United States won by 5 runs in the Super over the Super Over.
-
-Mohammed Aamir scored 18 runs for the United States lost a wicket in Super Over. It scored 7 runs in 3 wides.
-
-In reply, Pakistan lost one wicket in the Super Over and lost 13 runs.
-
-Former R20 World Champion Pakistan scored 159 runs for the loss of 7 wickets in 20 overs.
-
-Shadhab Khan, team captain Babar Azam and Shaheen Shah Abaridi helped Pakistan's total total of 150 runs.
-
-Sawrap Netravalkar, Nostush Kenjige and Ali Khan took one wicket each by bowling at Power Play.
-
-As a result, Pakistan Power Play lost 3 wickets for three wickets for 3 wickets for 3 wickets in 5 overs.
-
-...
-
-[Data](articles/d351c337.json)
-
-[Extended Data](ext_articles/d351c337.ext.json)
 
 ---

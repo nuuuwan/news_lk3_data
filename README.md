@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 19:34:32**
+As of **2024-06-08 19:53:22**
 
 ## Newspaper Stats
 
-*Scraped **29,246** Articles*
+*Scraped **29,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,68 @@ economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,488
 adaderanalk | 3,309
-tamilmirrorlk | 3,432
+tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,694
+adaderanasinhalalk | 4,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,244 (100.0%) of 29,246 articles have been extended.
+29,246 (100.0%) of 29,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### நீர்த்தேக்கங்கள் பெருக்கெடுக்கும் அளவை எட்டியதாக எச்சரிக்கை
+### කාසියේ වාසිය අප්‍රිකානු කණ්ඩායමට
+
+*2024-06-08 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197534) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නෙදර්ලන්ත කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර තරග අද (08) පැවැත්වෙයි.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව නෙදර්ලන්ත කණ්ඩායමට ලබාදීමටය.
+
+◼️
+
+[Data](articles/e2c8e749.json)
+
+---
+
+### இந்த மாணவியைக் கண்டால் உடன் தகவல் தாருங்கள்...
+
+*2024-06-08 19:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்த-மாணவியைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/76-338621) · `ta`
+
+கண்டி, கெல்லாபோக்க மடுல்கலை பகுதியைச் சேர்ந்த மாணவி ஒருவர் கடந்த இரண்டு நாட்களாக காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+உயர்தரத்தில் கல்வி பயிலும் “ஹரிவதனி” என்ற  மாணவி வெள்ளிக்கிழமை முதல் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக அவரது சகோதரி தெரிவித்துள்ளார்.
+
+இந்நிலையில், குறித்த மாணவி தொடர்பில் தகவல் தெரிந்தவர்கள் (+94 78 171 3389 டிலாந்தினி) என்ற இலக்கத்திற்கு அறிவிக்குமாறு தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c43c7d4e.json)
+
+---
+
+### Warning that reservoirs have reached the level of multiplying
 
 *2024-06-08 19:15:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீர்த்தேக்கங்கள்-பெருக்கெடுக்கும்-அளவை-எட்டியதாக-எச்சரிக்கை/76-338620) · `ta`
 
-மத்திய மலை நாட்டின் மேற்கு சரிவுகளில் கடந்த சில நாட்களாக பெய்து வரும் கடும் மழை காரணமாக காசல்ரீ மற்றும் மவுஸ்ஸாக்கலை நீர்த்தேக்கங்களின் நீர் மட்டம் பெருக்கெடுக்கும் அளவை எட்டியுள்ளதாக அந்த நீர்த்தேக்கங்களுக்கு பொறுப்பான பொறியியலாளர்கள் தெரிவித்துள்ளனர்.
+Engineers warn that the water levels in Kasalri and Mouseakale reservoirs, due to heavy rainfall, have exceeded the maximum capacities of several hydroelectric power stations, posing a risk.
 
-இந்த நீர்த்தேக்கங்களின் நீர் மட்டம் அதிகரித்துள்ளதையடுத்து விமலசுரேந்திர, லக்ஷபான, நியூ லக்ஷபான, கெனியன் மற்றும் பொல்பிட்டிய நீர்மின் நிலையங்களில் நீர்மின் உற்பத்தி அதிகபட்ச கொள்ளளவில் மேற்கொள்ளப்பட்டு வருவதாக குறிப்பிடப்படுகின்றது. R
+🟩
+
+The engineers responsible for the reservoirs have said that the water level of the Kasalri and Mouseakale reservoirs has reached the level of heavy rains over the past few days on the western slopes of the central hill country.
+
+The water level of these reservoirs has increased in the maximum capacity of Wimalasurendra, Lakshapana, New Lakshapana, Keniyan and Polpitiya Hydroelectrics.. Remble
 
 ◼️
 
 [Data](articles/efcb8728.json)
+
+[Extended Data](ext_articles/efcb8728.ext.json)
 
 ---
 
@@ -141,6 +177,8 @@ Sri Lanka obtained the second highest number of votes from the region, and seven
 ...
 
 [Data](articles/0f2cff96.json)
+
+[Extended Data](ext_articles/0f2cff96.ext.json)
 
 ---
 
@@ -2211,35 +2249,5 @@ A recent meeting between the Sri Lanka-Greater Mekong Business Council (SLGMBC) 
 [Data](articles/254e96b9.json)
 
 [Extended Data](ext_articles/254e96b9.ext.json)
-
----
-
-### Culinary Art Food Expo kicks off at BMICH
-
-*2024-06-07 23:52:29* · [`dailyftlk`](https://www.ft.lk/business/Culinary-Art-Food-Expo-kicks-off-at-BMICH/34-762799) · `en`
-
-The Chefs Guild of Lanka yesterday held the Culinary Art Food Expo and the Live Cooking Competition at the BMICH. Korean Ambassador Miyon Lee and World Association of Chefs Societies President Chef Thomas Gugler inaugurated the event along with Chefs Guild of Lanka and Culinary Art Food Expo 2024 Chairman Chef Gerard Mendis. The objective of the event titled ‘Tea, Spice, and Coconut Festival and Culinary Talent Hunt” is to promote our cuisines to the world. The event concludes tomorrow
-
-◼️
-
-[Data](articles/d9de81bf.json)
-
-[Extended Data](ext_articles/d9de81bf.ext.json)
-
----
-
-### Litro celebrates World LPG Day 2024 with renewed commitment to energy security
-
-*2024-06-07 23:49:35* · [`dailyftlk`](https://www.ft.lk/business/Litro-celebrates-World-LPG-Day-2024-with-renewed-commitment-to-energy-security/34-762798) · `en`
-
-In commemoration of World LPG Day 2024, Litro Gas Lanka Ltd., Sri Lanka’s leading LPG provider, reaffirms its dedication to driving social, environmental, and economic transformation through the promotion of clean energy. This year’s celebration themed “Showcasing and Celebrating the People Behind LPG” holds particular significance for Sri Lanka as Litro Gas has successfully positioned LPG and energy security at the forefront of nation-building efforts.
-
-Litro Gas’s comprehensive approach to leveraging LPG has spanned from supporting large export-driven business enterprises to empowering small and medium-scale entrepreneurs (SMEs). This strategic utilisation of LPG as an essential commodity fuels the engines of the local economy from micro-entrepreneurs to large-scale industries, highlighting its critical role in both economic stability and growth.
-
-...
-
-[Data](articles/7fb71470.json)
-
-[Extended Data](ext_articles/7fb71470.ext.json)
 
 ---

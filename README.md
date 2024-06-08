@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 16:50:29**
+As of **2024-06-08 17:04:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,232 (100.0%) of 29,236 articles have been extended.
+29,236 (100.0%) of 29,236 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,31 +48,45 @@ For the first time, five special sponsored quotas were made available for the Mu
 
 [Data](articles/adbfde31.json)
 
+[Extended Data](ext_articles/adbfde31.ext.json)
+
 ---
 
-### බිරිඳට සිදුවූ හිරිහැර නිසා සිව්දරු පියෙක් සියදිවි නසා ගනී
+### Father commits suicide due to the wife's harassment
 
 *2024-06-08 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197529) · `si`
 
-ගෘහ සේවය සඳහා සෞදි ගිය තම බිරිඳට විඳින්නට සිදුවූ අමානුෂික ලිංගික හිරිහැර සහ වධ හිංසා හේතුවෙන් සිත්තැවුලට පත් සැමියෙකු සියදිවි නසා ගත් පුවතක් වාර්තා විය.
+Ranjith, a 44-year-old father of four from a remote village, tragically took his own life due to severe harassment from his wife, Pushpa Kumari, who worked as a domestic helper in Saudi Arabia. After enduring physical and psychological abuse, including being locked in a room without food or water, Pushpa managed to escape with the help of her sister and local authorities. Despite reporting her ordeal to the Foreign Employment Bureau and the Saudi Embassy, she felt ignored and unsupported. Upon returning to Sri Lanka, she shared her story, highlighting the urgent need for better protection for migrant workers.
 
-දඹුල්ල අලකොළ වැව නම් දුෂ්කර ගම්මානයේ ජීවත් වූ දරුවන් 4 දෙනෙකුගේ පියෙක් වන 44 හැවිරිදි රංජිත් මෙලෙස ඊයේ (07) රාත්‍රියේ මියගොස් තිබුණි.
+🟩
 
-පවුලේ පැවැති ආර්ථික දුෂ්කරතා හේතුවෙන් පසුගිය වසරේ  නොවම්බර් 14 වනදා සෞදි රාජ්‍යයේ ගෘහ සේවය සඳහා ඔහුගේ බිරිඳ වන පුෂ්පා කුමාරි ගොස් තිබුණි.
+The victim was reported due to the inhuman harassment and torture of a healthy sexual harassment and torture he had to suffer.
 
-ඒ, දඹුල්ල නගරයේ පිහිටි පෞද්ගලික විදෙස් රැකියා ආයතනයක් හරහා ය.
+The 44-year-old Ranjith, a father of four children who lived in the remote village in the Dambulla Akalaola Wewa, was killed last night.
 
-නිවසක සේවය සඳහා ගිය ඇයව තවත් නිවාස 04ක සේවය සඳහා යොදවමින් අදාළ නිවසේ හාම්පුතා ඇය හරහා මුදල් ඉපයීමේ කටයුත්තක නිරතවූ බව පුෂ්පා කුමාරි පැවසුවාය.
+His wife, his wife, was his wife, for the Saudi State House in the Saudi State on November 14 due to family economic hardship.
 
-එහිදී වරින්වර අමානුෂික අයුරින් වධ හිංසාවලට මුහුණදීමට සිදුවූ බවත් නිවෙස් හිමියෙකුගේ පුතෙකු නිරන්තරයෙක් ලිංගික හිරිහැර සිදුකළ බවත් ඇය පවසයි.
+It is through a private foreign employment agency in Dambulla.
 
-නිවෙස් හිමි කාන්තාවට ඒ බව පැවසූ පසු තමාව කාමරයක දමා දින 15කට අධික කාලයක් ආහාරපාන නොදී රඳවාගෙන සිටි බවත් ඇය සඳහන් කළාය.
+Pushpa Kummy said she was working to make money through her four housing employer to serve in a house.
 
-එහිදී තමන් වැසිකිළියේ තිබූ ජලය පානය කරමින් ජීවත්වූ බවත් ඇය තවදුරටත් සඳහන් කළාය.
+She says she had to face torture and torture that they had tortured.
+
+She added that he was detained when he was told in a room after he had been in a room and was kept.
+
+She added that he had lived drinking water and lived in the toilet.
+
+She had told her a sister in Saudi to torture her torture.
+
+The sister has told the Foreign Employment Bureau, Saudi Embassy and Saudi Police.
+
+Pushpa Kumari was rescued on the intervention of the Saudi police.
 
 ...
 
 [Data](articles/aa30e875.json)
+
+[Extended Data](ext_articles/aa30e875.ext.json)
 
 ---
 
@@ -190,39 +204,53 @@ The Department of Meteorology announces that several thin showers in the North a
 
 ---
 
-### பதுளையில் குளத்தில் இருந்து சடலம் மீட்பு
+### Correct recovery from the pond in Badulla
 
 *2024-06-08 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185609) · `ta`
 
-பதுளை, கலன் கோபோ தோட்ட குளத்தில் ஆண் ஒருவரின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக கஹட்டருப்ப பொலிஸார் தெரிவித்தனர்.
+A man's body was discovered in a pond in Badulla, Kahatarupa, possibly due to suicide or another incident. The police, assisted by the army, retrieved the body, which will be examined at Badulla Hospital.
 
-கும்புரேகெதர மஹகும்புர கஹட்டருப்ப பகுதியைச் சேர்ந்த நபர் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-சுமார் 2 தினங்களுக்கு முன் கலன் கோபோ தோட்ட பகுதியில் அமைந்துள்ள குளத்துக்கு அருகாமையில் சட்டை மற்றும் பணம் ஆகியவை காணப்பட்டதாகவும், இவர் குளத்தில் பாய்ந்து தற்கொலை செய்து கொண்டாரா அல்லது அவர் வேறு ஏதேனும் அசம்பாவிதம் மேற்கொள்ளப் பட்டுள்ளதா என பல கோணங்களில் கஹட்டருப்ப பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The body of a man has been found in the Kohn Kobo estate pond in Badulla, Kahatarupa police said.
 
-வெள்ளிக்கிழமை இராணுவத்தினரின் உதவியுடன் குறித்த குளத்தில் தேடுதலை மேற்கொண்டு வந்ததாகவும் இருப்பினும், குறித்த நபரின் சடலம் நேற்று மாலை வரை கிடைக்கவில்லை எனவும் கஹட்டருப்ப பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி தெரிவித்தார்.
+A man from Kamburekederatha Mahakumbura Kahatarupa area has been recovered.
 
-இந்நிலையில், இன்று சனிக்கிழமை(08) காலை குளத்தில் சடலம் மிதந்த நிலையில் காணப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+About 2 days ago, Kahatarupa police are investigating whether he had seen a shirt and money near the pond located in the Kohn Kobo estate area, and whether he had committed suicide in the pool or had some other incident.
 
-...
+The officer in charge of the Kahatarupa Police Station said that the body was being carried out in the pool on Friday with the help of the army.
+
+In this case, the body was found floating in the pond this morning (08), police said.
+
+The body of the legal officer will be taken to the Badulla Hospital for examination after the body of the judge, Kahatarupa police said.
+
+◼️
 
 [Data](articles/1f097234.json)
 
+[Extended Data](ext_articles/1f097234.ext.json)
+
 ---
 
-### மாணவியை காணவில்லை ; கண்டுபிடிக்க உதவுமாறு கோரிக்கை
+### The student is missing;Request to help find out
 
 *2024-06-08 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185607) · `ta`
 
-கண்டி, கெல்லாபோக்க மடுல்கலை பகுதியைச் சேர்ந்த பாடசாலை மாணவி ஒருவர் கடந்த இரண்டு நாட்களாக காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+A schoolgirl from Kellapoka Madagala, Kandy, has been missing for two days. Her sister mentioned another missing student, Harivathani, since Friday. Those aware have been contacted via +94 78 171 3389 Tilantini.
 
-“ஹரிவதனி” என்ற உயர்தர  மாணவி வெள்ளிக்கிழமை முதல் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக அவரது சகோதரி தெரிவித்துள்ளார்.
+🟩
 
-இந்நிலையில், குறித்த மாணவி தொடர்பில் தகவல் தெரிந்தவர்கள் (+94 78 171 3389 டிலாந்தினி) என்ற இலக்கத்திற்கு அறிவிக்குமாறு தெரிவிக்கப்பட்டுள்ளது.
+A schoolgirl from the Kellapoka Madagala area, Kandy, has been reported missing for the past two days.
+
+Her sister said that a high -ranking student named "Harivathani" has been missing from Friday.
+
+In this case, those who are informed of the student (+94 78 171 3389 Tilantini) have been informed.
 
 ◼️
 
 [Data](articles/2fd95d01.json)
+
+[Extended Data](ext_articles/2fd95d01.ext.json)
 
 ---
 

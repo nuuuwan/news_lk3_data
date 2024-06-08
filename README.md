@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 19:53:22**
+As of **2024-06-08 20:04:12**
 
 ## Newspaper Stats
 
-*Scraped **29,248** Articles*
+*Scraped **29,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,488
-adaderanalk | 3,309
+adaderanalk | 3,310
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
@@ -26,39 +26,51 @@ adaderanasinhalalk | 4,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,246 (100.0%) of 29,248 articles have been extended.
+29,248 (100.0%) of 29,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### කාසියේ වාසිය අප්‍රිකානු කණ්ඩායමට
+### The toss of the coin to the African team
 
 *2024-06-08 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197534) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නෙදර්ලන්ත කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර තරග අද (08) පැවැත්වෙයි.
+In the 2023 Cricket World Cup, the Netherlands and South Africa teams agreed to let the African team bat first after tossing a coin.
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව නෙදර්ලන්ත කණ්ඩායමට ලබාදීමටය.
+🟩
+
+The Netherlands team and South African team will play between the 20 World Cup.
+
+Accordingly, they decided to deliver the opportunity to bat first.
 
 ◼️
 
 [Data](articles/e2c8e749.json)
 
+[Extended Data](ext_articles/e2c8e749.ext.json)
+
 ---
 
-### இந்த மாணவியைக் கண்டால் உடன் தகவல் தாருங்கள்...
+### If you find this student, please information ...
 
 *2024-06-08 19:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்த-மாணவியைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/76-338621) · `ta`
 
-கண்டி, கெல்லாபோக்க மடுல்கலை பகுதியைச் சேர்ந்த மாணவி ஒருவர் கடந்த இரண்டு நாட்களாக காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+A student named Harivathani from Kandy's Kellapoka Madulgalai area has been missing since Friday. Her family requests anyone with information to contact them at +94 78 171 3389.
 
-உயர்தரத்தில் கல்வி பயிலும் “ஹரிவதனி” என்ற  மாணவி வெள்ளிக்கிழமை முதல் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக அவரது சகோதரி தெரிவித்துள்ளார்.
+🟩
 
-இந்நிலையில், குறித்த மாணவி தொடர்பில் தகவல் தெரிந்தவர்கள் (+94 78 171 3389 டிலாந்தினி) என்ற இலக்கத்திற்கு அறிவிக்குமாறு தெரிவிக்கப்பட்டுள்ளது. R
+A student from the Kellapoka Madulgalai area of ​​Kandy has been reported missing for the past two days.
+
+Her sister said that a student named "Harivathani" has been missing from Friday at the police station.
+
+In this case, those who are informed about the student (+94 78 171 3389 Tilantini). Remble
 
 ◼️
 
 [Data](articles/c43c7d4e.json)
+
+[Extended Data](ext_articles/c43c7d4e.ext.json)
 
 ---
 
@@ -79,6 +91,24 @@ The water level of these reservoirs has increased in the maximum capacity of Wim
 [Data](articles/efcb8728.json)
 
 [Extended Data](ext_articles/efcb8728.ext.json)
+
+---
+
+### Sri Lanka elected to UN Economic and Social Council
+
+*2024-06-08 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99746/sri-lanka-elected-to-un-economic-and-social-council) · `en`
+
+Sri Lanka has been elected by the United Nations General Assembly (UNGA) to the United Nations Economic and Social Council (ECOSOC) for a three-year term commencing on 01 January 2025.
+
+At the elections held in New York, on Friday (07 June), Sri Lanka obtained 182 votes, of the 189 member states present and voting, securing the 2nd highest vote count from the region, and the 7th highest number overall, according to the Ministry of Foreign Affairs.
+
+Sri Lanka was previously elected to the ECOSOC from 1985 – 1989 and from 2006 – 2008.
+
+As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide.
+
+...
+
+[Data](articles/aecc3d95.json)
 
 ---
 
@@ -2233,21 +2263,5 @@ Sri Lankan Buddhists are spoiled for choice these days. Depending on where your 
 [Data](articles/4021bf87.json)
 
 [Extended Data](ext_articles/4021bf87.ext.json)
-
----
-
-### Sri Lanka-Greater Mekong Business Council engages with Vietnam Ambassador on trade partnerships
-
-*2024-06-07 23:53:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Greater-Mekong-Business-Council-engages-with-Vietnam-Ambassador-on-trade-partnerships/34-762800) · `en`
-
-From left: Ranil Chandrasekara, Shaameel Mohideen, Ranil Seneviratne, SLGMBC Immediate Past President Mahen Weerasekera, President S.M.D. Suriyakumara, Vietnam Ambassador Ho Thi Thanh Truc, Tilak Gunawardane, Nishan Seneviratne, SLGMBC Vice President Tran Trong Thanh, Vietnam Embassy Counsellor and Deputy Chief of Mission Noory Kiyas, and Ceylon Chamber of Commerce Secretariat’s Amanthi Silva
-
-A recent meeting between the Sri Lanka-Greater Mekong Business Council (SLGMBC) of the Ceylon Chamber and the Ambassador of Vietnam to Sri Lanka Ho Thi Thanh Truc, focused on identifying strategies to boost production, increase exports, and attract investments in various sectors, including agriculture, construction, logistics, tourism, and pharmaceuticals.
-
-...
-
-[Data](articles/254e96b9.json)
-
-[Extended Data](ext_articles/254e96b9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 14:53:14**
+As of **2024-06-08 15:04:14**
 
 ## Newspaper Stats
 
-*Scraped **29,217** Articles*
+*Scraped **29,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,487
 adaderanalk | 3,306
 tamilmirrorlk | 3,429
 virakesarilk | 4,479
-dailymirrorlk | 4,643
+dailymirrorlk | 4,644
 adaderanasinhalalk | 4,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,217 (100.0%) of 29,217 articles have been extended.
+29,217 (100.0%) of 29,218 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -351,6 +351,20 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/5b7ada20.json)
 
 [Extended Data](ext_articles/5b7ada20.ext.json)
+
+---
+
+### Two killed at Enderamulla railway crossing
+
+*2024-06-08 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-at-Enderamulla-railway-crossing/108-284403) · `en`
+
+Colombo, June 8 (Daily Mirror) - A 54-year-old man and a 34-year-old woman died following a car accident at a railway crossing at Enderamulla this morning, police said.
+
+The accident reportedly occurred when a car travelling from Ederamulla towards Wattala collided with the train travelling from Badulla towards Colombo while the signal lights were on at the railway crossing.
+
+◼️
+
+[Data](articles/348de4ee.json)
 
 ---
 
@@ -2125,39 +2139,5 @@ The Bill grants the Finance Minister the discretion to exempt State Owned Enterp
 [Data](articles/715f9b81.json)
 
 [Extended Data](ext_articles/715f9b81.ext.json)
-
----
-
-### Sri Lanka cricket beat Sri Lanka
-
-*2024-06-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197505) · `si`
-
-Sri Lanka's cricket team faced significant challenges during their preparation for the T20 World Cup, including flight delays, accommodation issues, and stadium problems. Their journey from Florida to New York was delayed by seven hours, causing them to miss two training sessions. The team, along with Ireland and South Africa, complained to the ICC about these issues. Despite these setbacks, the ICC announced the inclusion of two pitches at the Nassau Cricket Stadium for the tournament.
-
-🟩
-
-Sri Lanka Sri Lanka has faced many problems for the World Cups T20 cricket tournament.
-
-It is between aircraft delays, lodging hotels and stadiums.
-
-Sri Lanka's first experience was experienced after the training match with Ireland, the flight of flights to New York.
-
-Sri Lanka, Ireland and South African team have been staying in Florida for seven hours.
-
-The plane that was to travel by the group was delayed due to delay for seven hours.
-
-Accordingly, players who were to reach New York on Friday, May 31 and arrived in New York at 5nd Saturday, June 1.
-
-The Sri Lankan team had to cancel two training sessions planned on Saturdays and Sunday before the South African match.
-
-The other problem with Sri Lankan players is the delays in the hotel to the competition.
-
-Sri Lanka, Ireland and South African groups have lodged a complaint with the International Cricket Council regarding these issues that have been faced with the US in the World Cup.
-
-...
-
-[Data](articles/97a46385.json)
-
-[Extended Data](ext_articles/97a46385.ext.json)
 
 ---

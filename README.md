@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 08:53:03**
+As of **2024-06-08 09:04:01**
 
 ## Newspaper Stats
 
-*Scraped **29,179** Articles*
+*Scraped **29,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,57 @@ islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
 adalk | 2,484
-adaderanalk | 3,301
-tamilmirrorlk | 3,424
-virakesarilk | 4,474
-dailymirrorlk | 4,635
+adaderanalk | 3,302
+tamilmirrorlk | 3,426
+virakesarilk | 4,476
+dailymirrorlk | 4,638
 adaderanasinhalalk | 4,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,177 (100.0%) of 29,179 articles have been extended.
+29,179 (100.0%) of 29,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### නවසීලන්තය ට අන්ත පරාජයක්
+### ரயில் விபத்தில் தந்தையும் மகளும் மரணம்
+
+*2024-06-08 08:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-தந்தையும்-மகளும்-மரணம்/175-338614) · `ta`
+
+என்டேரமுல்ல ரயில் கடவையில் இன்று காலை இடம்பெற்ற விபத்தில் தந்தையும் மகளும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த ரயில் கடவையில் பயணித்த கார் ஒன்றின் மீது ரயில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின் போது காரில் பயணித்த தந்தையும் மகளுமே உயிரிழந்துள்ளதாக தெரிவித்துள்ள பொலிஸார் விபத்து குறித்து மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/12652dd9.json)
+
+---
+
+### New Zealand a cat defeat
 
 *2024-06-08 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197514) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ නවසීලන්තය සහ ඇෆ්ගනිස්තානය අතර පැවති තරගය ජයග්‍රහණය කිරීමට ඇෆ්ගනිස්තානය සමත්විය.
+In the Twenty20 World Cup, Afghanistan defeated New Zealand by 84 runs after scoring 159 runs in 6 overs while batting first.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6 ක් දැවී ලකුණු 159ක් රැස්කළේය.
+🟩
 
-ඒ අනුව මෙම තරගය ලකුණු 84කින් ජය ලැබීමට ඇෆ්ගනිස්තානය සමත්විය.
+Afghanistan was able to win the match between New Zealand and Afghanistan, the Twenty20 World Cup.
+
+Batting first, the Afghan group scored 159 runs for the loss of 6 wickets in the loss of 6 overs.
+
+Accordingly, Afghanistan was able to win the match by 84 runs.
 
 ◼️
 
 [Data](articles/00769b94.json)
+
+[Extended Data](ext_articles/00769b94.ext.json)
 
 ---
 
@@ -62,6 +84,26 @@ This is an increase of 11.8% compared to the same period last year.
 
 [Data](articles/c99201a5.json)
 
+[Extended Data](ext_articles/c99201a5.ext.json)
+
+---
+
+### Sri Lanka seeks exclusive economic zone expansion
+
+*2024-06-08 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-seeks-exclusive-economic-zone-expansion/155-284400) · `en`
+
+Colombo, June 8 (Daily Mirror) - Sri Lanka is successfully lobbying for the increase of the size of its Exclusive Economic Zone in cooperation with the Maldives avoiding any conflict between the two sides on overlapping claims, the Daily Mirror learns.
+
+The ‘Exclusive Economic Zone’ is an area of the ocean, generally extending 200 nautical miles (230 miles) beyond a nation’s territorial sea, within which a coastal nation has jurisdiction over both living and nonliving resources.
+
+Sri Lanka submitted in May 2009 technical and scientific data and other information to the UN Commission on the Limits of the Continental Shelf for the establishment of the outer limits of the continental shelf beyond Sri Lanka’s Exclusive Economic Zone of 200 nautical miles under the United Nations Convention on the Law of the Sea.
+
+Afterwards, the Commission established a sub-commission to engage with Sri Lanka in 2016.
+
+...
+
+[Data](articles/d4d94065.json)
+
 ---
 
 ### Father and daughter killed after train hits car at Enderamulla
@@ -77,6 +119,36 @@ A 54-year-old man and his 22-year-old daughter, residents of Gonawala in Biyagam
 [Data](articles/845693e7.json)
 
 [Extended Data](ext_articles/845693e7.ext.json)
+
+---
+
+### Two persons killed after train hits car at Enderamulla
+
+*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/two-persons-killed-after-train-hits-car-at-enderamulla) · `en`
+
+Two persons have been killed after their car collided with a train at the Enderamulla railway crossing this morning (08), police said.
+
+A Colombo-bound train from Badulla had collided with the car, which was traveling from Enderamulla towards Wattala, when it had reportedly attempted to pass through the crossing despite the signal lights warning of the oncoming train.
+
+A 54-year-old man from Biyagama and a 34-year-old woman, who was employed in the private sector in Colombo, have died in the crash.
+
+◼️
+
+[Data](articles/a9973541.json)
+
+---
+
+### பொது இடங்களில் மதுபானசாலை அனுமதிபத்திரம் வழங்குவதை அரசாங்கம் நிறுத்த வேண்டும் - சஜித் சபையில் கோரிக்கை
+
+*2024-06-08 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185577) · `ta`
+
+அரசாங்கம் விநியோகித்துவரும் மதுபான உரிமப்பத்திரம் வழங்கும் திட்டம் போதையற்ற தேசத்தை உருவாக்கும் கொள்கைக்கு எதிரானதாகும். அத்துடன் சுற்றுலாத் தொழில் முன்னெடுக்கப்படாத கிராமங்களுக்குள்ளேயும் இதற்கான அனுமதிகள் வழங்கப்பட்டுள்ளன என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+அரசாங்கம் கடந்த காலங்களில் மதுபான உரிமப்பத்திரம் வழங்கும் திட்டத்தை வேகமாக முன்னெடுத்துள்ளது. இது போதையற்ற தேசத்தை உருவாக்கும் கொள்கைக்கு எதிரானதாகும். சுற்றுலாத் துறையை மையமாகக் கொண்டு இந்த வசதிகளை வழங்குவது சுற்றுலாத் துறையின் ஒரு பகுதியாக அமைந்திருந்தாலும், சுற்றுலாத் தொழில் முன்னெடுக்கப்படாத கிராமங்களுக்குள்ளேயும் இதற்கான அனுமதிகள் வழங்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/27d82817.json)
 
 ---
 
@@ -101,6 +173,22 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 [Data](articles/fe62e085.json)
 
 [Extended Data](ext_articles/fe62e085.ext.json)
+
+---
+
+### அவசர தடுப்பூசி இறக்குமதி மூலம் 36 கோடி 89 இலட்சத்து ஐம்பதாயிரம் ரூபா நாட்டுக்கு நஷ்டம் - விளக்கம் கோரும் சஜித்
+
+*2024-06-08 07:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185576) · `ta`
+
+பாக்டீரியா தொற்றுகளுக்குப் பயன்படுத்தப்படும் மெராெபெனம் தடுப்பூசி போதுமானளவு கையிருப்பில் இருக்கும் நிலையில் அவரச கொள்முதல் முறையின் மூலம் 4 இலட்சித்தி 50ஆயிரம் தடுப்பூசி கொள்வனவு செய்யப்பட்டது. இதன் மூலம் நாட்டுக்கு ஏற்பட்டுள்ள நட்டம் தொடர்பில் சபைக்கு அறிக்கை சமர்ப்பிக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாக்டீரியா தொற்றுகளுக்குப் பயன்படுத்தப்படும் மெராெபெனம் தடுப்பூசி  488,590  கையிருப்பில் இருப்பதாக கணக்காய்வு அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. இவ்வாறான நிலையில்  அவசர கொள்முதல் முறையின் மூலம் 450,000 தடுப்பூசி குப்பிகள் கொள்வனவு செய்யப்பட்டுள்ளன. இதன் மூலம் நாட்டுக்கு 36 கோடி 89 இலட்சத்து ஐம்பதாயிரம் ரூபா நஷ்டம் ஏற்பட்டுள்ளது. ஒரு குப்பி 1075.68 ரூபாவுக்கு கிடைத்தும், 1895.50 ரூபாவுக்கு இதை கொள்வனவு செய்துள்ளனர் .
+
+தேவையான அளவு கையிருப்பில் இருக்கும் நிலையில் ஏன் அவசர கொள்முதல் செய்யப்பட்டது என்பது பிரச்சினைக்குரிய விடயமாகும். இதனால் நாடு நட்டத்தை சந்தித்துள்ளது. எனவே இந்த அவசர கொள்முதல் தொடர்பாக முறையான அறிக்கையை வெளியிட்டு விளக்கம் அளிக்க வேண்டும்.
+
+...
+
+[Data](articles/80184b96.json)
 
 ---
 
@@ -218,6 +306,30 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 
 ---
 
+### “Sufficiently strong progress” on debt restructuring efforts: IMF
+
+*2024-06-08 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficiently-strong-progress-on-debt-restructuring-efforts-IMF/108-284397) · `en`
+
+Acknowledges authorities have been holding extensive discussions and says there is strong expectation that agreements with external commercial creditors will be reached soon.
+
+The International Monetary Fund (IMF) affirmed this week that Sri Lanka’s debt restructuring efforts have gathered steam.
+
+IMF Communications Department Director Julie Kozack addressing a press conference expressed confidence in the island nation firming up the restructuring.
+
+“… overall, we assess that there has been sufficiently strong progress on the debt restructuring front,” Kozack said.
+
+She shared that the authorities have been holding extensive discussions with the external official creditors regarding a memorandum of understanding with the official creditor committee and final agreements with the Export Import Bank of China.
+
+Discussions with the external bondholders continue with the aim of reaching agreements in principle soon.
+
+The negotiations with the China Development Bank are also at an advanced stage.
+
+...
+
+[Data](articles/8f7f0e36.json)
+
+---
+
 ### Shane and Shehan appointed to the driving seat at Triad
 
 *2024-06-08 02:27:00* · [`islandlk`](http://island.lk/shane-and-shehan-appointed-to-the-driving-seat-at-triad/) · `en`
@@ -281,6 +393,24 @@ Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahung
 [Data](articles/e9dacd9b.json)
 
 [Extended Data](ext_articles/e9dacd9b.ext.json)
+
+---
+
+### ’செயற்கை ஹொக்கி மைதானங்கள் திறக்கப்படும்’
+
+*2024-06-08 01:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-ஹொக்கி-மைதானங்கள்-திறக்கப்படும்/175-338613) · `ta`
+
+மாத்தளை செயற்கை ஹொக்கி மைதானத்தையும் கொழும்பு ரீட் மாவத்தையில் உள்ள செயற்கை ஹொக்கி மைதானத்தையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் எதிர்வரும் ஜூலை 15 ஆம் திகதிக்கு முன்னர் திறந்து வைக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக விளையாட்டு மற்றும் இளைஞர் விவகாரங்கள் இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க தெரிவித்தார்.
+
+மேலும் ஒரு சில விளையாட்டு சம்மேளனங்களில் நிலவும் சட்ட சிக்கல்களைத் தீர்த்து விளையாட்டுத்துறையில் புதிய யுகத்தை ஏற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+பல வருடங்களாக அபிவிருத்திப் பணிகள் தடைப்பட்டிருந்த கொழும்பு ரீட் மாவத்தையில் அமைந்துள்ள செயற்கை ஹொக்கி மைதானமும் மாத்தளை செயற்கை ஹொக்கி மைதானமும் நவீனமயப்படுத்தப்பட்டு வருகின்றன. அதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் விளையாட்டுத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ ஆகியோரின் பணிப்புரைக்கு அமைவாக விசேட வேலைத்திட்டம் ஒன்று அமுல்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e0100377.json)
 
 ---
 
@@ -1933,153 +2063,5 @@ Subsequently, the number of officers returned home again in the house of the UNP
 [Data](articles/3b6e1858.json)
 
 [Extended Data](ext_articles/3b6e1858.ext.json)
-
----
-
-### Heavy rainfall to enhance in coming days
-
-*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-to-enhance-in-coming-days/108-284347) · `en`
-
-Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are expected to intensify over the next few days, beginning tomorrow, June 8.
-
-According to the latest weather report by the Meteorological Department, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
-
-Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
-
-In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
-
-...
-
-[Data](articles/138a0812.json)
-
-[Extended Data](ext_articles/138a0812.ext.json)
-
----
-
-### Heavy rainfall pegged to enhance in coming days
-
-*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-pegged-to-enhance-in-coming-days/108-284347) · `en`
-
-Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are anticipated to intensify over the next few days, beginning tomorrow, June 8.
-
-The Meteorological Department forecast increased rainfall and potential adverse weather across several regions of the island.
-
-According to the latest weather report, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
-
-Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
-
-In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
-
-...
-
-[Data](articles/95b699b9.json)
-
-[Extended Data](ext_articles/95b699b9.ext.json)
-
----
-
-### Rainfall to enhance in coming days
-
-*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rainfall-to-enhance-in-coming-days/155-284347) · `en`
-
-Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are expected to intensify over the next few days, beginning tomorrow, June 8.
-
-According to the latest weather report by the Meteorological Department, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
-
-Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
-
-In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
-
-...
-
-[Data](articles/d39bc714.json)
-
-[Extended Data](ext_articles/d39bc714.ext.json)
-
----
-
-### 'Culinary Arts Food Expo'
-
-*2024-06-07 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Culinary-Arts-Food-Expo/110-284345) · `en`
-
-The Culinary Arts Food Expo, Sri Lanka’s most comprehensive food and beverage exhibition, returns for its 18th consecutive year. Culinary Arts Food Expo 2023 will showcase a wide range of food products and services, from preparation to consumption, encompassing both the culinary and hospitality sectors. In short, every aspect of food from "factory to table" will be covered at the Expo. The exhibition runs from today until Sunday night. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/4de7f1ce.json)
-
-[Extended Data](ext_articles/4de7f1ce.ext.json)
-
----
-
-### China is angry with Japan
-
-*2024-06-07 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197501) · `si`
-
-China is upset with Japan over territorial disputes involving the Senkaku/Diaoyu islands. Japan opposes China's deployment of four maritime patrol ships near its coastal waters. These uninhabited islands are claimed by both countries but are under Japanese control.
-
-🟩
-
-It is reported that Japan has objected to China regarding 4 armed coast security boats to a region known as a sea zone of Japan.
-
-China has sent his vessels to the coastal coastal coastal sea.
-
-The islands are called Senkaku as Senkaku and China is called Diaoyu.
-
-No one lives in these islands and is under Japanese rule.
-
-◼️
-
-[Data](articles/20eab26b.json)
-
-[Extended Data](ext_articles/20eab26b.ext.json)
-
----
-
-### Prevailing rainy condition expected enhance in next few days
-
-*2024-06-07 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99728/prevailing-rainy-condition-expected-enhance-in-next-few-days) · `en`
-
-The Department of Meteorology states that the prevailing rainy condition in the south-western part of the island is expected to enhance to some extent in the next few days from tomorrow (08).
-
-In its latest foecast, the Meteorology Department mentioned that showers will occur at times in Western, Sabaragamuwa and Southern provinces and in Kandy and Nuwara Eliya districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts. Several spells of showers will occur in North-western, Northern and North-central provinces, it added.
-
-Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, according to the Met. Department.
-
-Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North western provinces and in Trincomalee and Hambantota districts.
-
-...
-
-[Data](articles/ecedd2e1.json)
-
-[Extended Data](ext_articles/ecedd2e1.ext.json)
-
----
-
-### Rain from tomorrow
-
-*2024-06-07 16:22:22* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-වැඩිවෙයි/11-410072) · `si`
-
-Tomorrow, heavy rainfall is forecasted for the southwest island, particularly affecting the Western, Sabaragamuwa, and Southern provinces, including Kandy and Nuwara Eliya districts. The Western and Sabaragamuwa Provinces, along with Nuwara Eliya, Galle, and Matara districts, are expected to receive more than 50mm of rain. Showers or thundershowers may also occur in the North Western, North, North-central regions, as well as in the Ampara and Batticaloa districts during the day or night.
-
-🟩
-
-The southwest part of the island is expected to be experiencing a rainy rain in the island tomorrow (08).
-
-Showers will occur at times in the Western, Sabaragamuwa and Southern provinces and the department is issued in the Kandy and Nuwara Eliya districts this afternoon.
-
-In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts are located mm.. Heavy showers more than 50 will experience.
-
-Several spells of showers can occur in the North Western, North and North-central areas.
-
-Showers or thundershowers will occur at several places in the Ampara and Ampara and Batticaloa districts, or even nights.
-
-◼️
-
-[Data](articles/588a62f7.json)
-
-[Extended Data](ext_articles/588a62f7.ext.json)
 
 ---

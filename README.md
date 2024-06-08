@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 09:34:14**
+As of **2024-06-08 09:53:33**
 
 ## Newspaper Stats
 
-*Scraped **29,191** Articles*
+*Scraped **29,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 276
 bbccomsinhala | 283
 newsfirstlk | 363
 islandlk | 1,574
-economynextcom | 1,669
+economynextcom | 1,671
 dailyftlk | 1,754
-adalk | 2,486
+adalk | 2,487
 adaderanalk | 3,302
 tamilmirrorlk | 3,426
 virakesarilk | 4,476
@@ -26,41 +26,87 @@ adaderanasinhalalk | 4,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,189 (100.0%) of 29,191 articles have been extended.
+29,191 (100.0%) of 29,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### විදේශ ප්‍රේෂණවල ඉහළ යාමක්
+### EXPLAINER: Implications of Modi’s narrow election victory on Sri Lanka
+
+*2024-06-08 09:30:00* · [`economynextcom`](https://economynext.com/explainer-implications-of-modis-narrow-election-victory-on-sri-lanka-167000/) · `en`
+
+ECONOMYNEXT – Two-time Prime Minister Narendra Modi’s less-than-expected win at the India’s parliamentary election may not change its foreign policy towards Sri Lanka, but aggressive push for connectivity and infrastructure projects in the island nation could be slowed, analysts say.
+
+Modi’s Bharatiya Janata Party (BJP) lost its outright majority in the election and found itself reliant on support from regional parties.
+
+Broader coalition National Democratic Alliance (NDA) led by Modi’s Bharatiya Janata Party (BJP) won 293 seats in the 543-member lower house of parliament, where 272 constitutes a simple majority.
+
+However, Modi’s BJP won only 240, less than outright majority, making two regional parties’ leaders kingmakers in the alliance with their 28 seats in total.
+
+India has been pushing for land, oil, gas, and power grid connectivity in Sri Lanka along with securing lucrative renewable energy and port projects in partnership with Indian private sector.
+
+...
+
+[Data](articles/e4e650a9.json)
+
+---
+
+### An increase in foreign remittances
 
 *2024-06-08 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197516) · `si`
 
-විදේශ ප්‍රේෂණවල ඉහළ යාමක් පෙන්නුම් කරන බව මහ බැංකුව නිවේදනය කරයි.
+In May 2024, foreign remittances rose to $544.4 million, marking an 11.8% increase from the same period in 2023, bringing the total for January-May to $2,624.4 million.
 
-2024  මැයි මාසයේ දී විදේශ ප්‍රේෂණ අමෙරිකානු ඩොලර් මිලියන 544.4ක් වූ බව එම නිවේදනය සඳහන් වේ.
+🟩
 
-එමෙන්ම 2024 ජනවාරි සිට මැයි දක්වා සමුච්චිත අගය අමෙරිකානු ඩොලර් මිලියන 2,624.4 කි.
+The Central Bank announces that the increase in foreign remittances will be increased.
 
-එය 2023 ජනවාරි - මැයි මාස හා සසඳන විට 11.8%ක වැඩිවීමක් බව මහ බැංකුව වැඩිදුරටත් සඳහන් කර තිබේ.
+Foreign remittances were US $ 544.4 million in May 2024.
+
+The cumulative value of January to May is $ 2,624.4 million.
+
+It is an increase of 11.8% compared to January - May of January - May 2023.
 
 ◼️
 
 [Data](articles/72bfbef1.json)
 
+[Extended Data](ext_articles/72bfbef1.ext.json)
+
 ---
 
-### මෝටර් රථයක් දුම්රිය ගැටී පියා හා දියණිය ජීවිතක්ෂයට
+### ඇෆ්ගනිස්ථානය හමුවේ නවසීලන්තයට දරුණු පරාජයක්
+
+*2024-06-08 09:18:06* · [`adalk`](https://www.ada.lk/sports/ඇෆ්ගනිස්ථානය-හමුවේ-නවසීලන්තයට-දරුණු-පරාජයක්/9-410077) · `si`
+
+විස්සයි20 ලෝක කුසලාන තරගාවලිය යටතේ ඇෆ්ගනිස්ථාන කණ්ඩායහම හා ශ්‍රී ලංකා කණ්ඩායම අතර පැවැති තරගයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම ලකුණු 84ක ජයක් වාර්තා කළේය.
+
+නවසීන්තයේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්තානය ලකුණු 159/6ක් රැස්කළ අතර පිළිතුරු ඉනිම ක්‍රිඩා කළ නවසීලන්තයට සියලු දෙනා දැවි රැස්කළ හැකිවූයේ ලකුණු 75ක් පමණි.
+
+◼️
+
+[Data](articles/640f7b79.json)
+
+---
+
+### Father and daughter killed in train accident
 
 *2024-06-08 09:01:48* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථයක්-දුම්රිය-ගැටී-පියා-හා-දියණිය-ජීවිතක්ෂයට/11-410076) · `si`
 
-එඬේරමුල්ල දුම්රිය හරස්මාර්ගයක දී අද (08) උදැසන මෝටර් ර‍ථයක් දුම්රියක ගැටිමෙන්  සිදු වූ අනතුරකින් පියා හා දියණිය ජීවිතක්ෂයට  පත්ව ඇතැයි වාර්තා වෙයි.
+A tragic train accident resulted in the deaths of a 54-year-old man from Biyagama and his 34-year-old daughter who worked in Colombo.
 
-මියගොස් ඇත්තේ මෝටර් රථයේ ගමන් ගත් 54 හැවිරිදි බියගම ප්‍රදේශයේ පදිංචිකරුවෙකු සහ 34 හැවිරිදි කොළඹ ප්‍රදේශයේ පුද්ගලික අංශයේ රැකියාවක නියුතු කාන්තාවකි.
+🟩
+
+The father and daughter has reportedly died in a train collision at an accident in an accident in an accident.
+
+The deceased has been identified as a 54 year old resident of the Biyagama area and 34 year old work in Colombo.
 
 ◼️
 
 [Data](articles/dae55dab.json)
+
+[Extended Data](ext_articles/dae55dab.ext.json)
 
 ---
 
@@ -347,6 +393,26 @@ Our correspondent said that the accident had occurred when a train collided with
 [Data](articles/d616122b.json)
 
 [Extended Data](ext_articles/d616122b.ext.json)
+
+---
+
+### Sri Lanka May 2024 remittances rise 13.5-pct to $544mn
+
+*2024-06-08 06:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-2024-remittances-rise-13-5-pct-to-544mn-167007/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 13.5 percent to $544.4 million in May 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
+
+The remittances in the first five months were $2,624.4 million, 11.8 percent up from the same period last year, the official data showed.
+
+The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methos.
+
+The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
+
+Sri Lanka’s external sector has now recovered after the central bank started to run balance of payments surpluses following a decision to end money printing to sterilize interventions made with Indian Asian Clearing Union money.
+
+...
+
+[Data](articles/02c03579.json)
 
 ---
 
@@ -2031,69 +2097,5 @@ German dictator Hitler - A group of loyal scientists has produced a high -powere
 [Data](articles/ba730e25.json)
 
 [Extended Data](ext_articles/ba730e25.ext.json)
-
----
-
-### Railway strike to continue
-
-*2024-06-07 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99730/railway-strike-to-continue) · `en`
-
-The Locomotive Operating Engineers’ Union of Sri Lanka Railways says that the strike action launched from midnight yesterday (06) will continue further.
-
-The trade union action is being carried out over delays in second-class promotions of locomotive drivers and several other issues, according to the Locomotive Operating Engineers’ Union.
-
-However, only locomotive drivers from two out of the 05 running sheds have joined the strike. As a result, the power set trains will not be in operation, the trade union said.
-
-It further stated that even though the morning office trains would experience minimal impact from the strike, there is a possibility that all the trains scheduled for this evening might be cancelled.
-
-However, Ada Derana learns that only 84 locomotive drivers are engaged in this trade union action based on their own promotion issues.
-
-...
-
-[Data](articles/5ea83aec.json)
-
-[Extended Data](ext_articles/5ea83aec.ext.json)
-
----
-
-### Sri Lanka Chamber commends Electricity Law, cautions on regulator autonomy
-
-*2024-06-07 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-commends-electricity-law-cautions-on-regulator-autonomy-166955/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce considers the new Electricity Bill a step towards modernizing the country’s electricity sector and fostering a more competitive market environment, a statement by the trade body said.
-
-“This move is expected to enhance efficiency, promote competition, and attract much-needed investment into the electricity sector, ultimately benefiting consumers with improved services and more competitive pricing.”
-
-While the overall reception of the bill is overwhelmingly positive, the Ceylon Chamber expressed “caution regarding the transfer of certain powers to an advisory council appointed by the minister, which can potentially undermine the role of the regulator.”
-
-The Chamber said it remains committed to working with all stakeholders to ensure the successful implementation of these reforms and to address any challenges that may arise.
-
-...
-
-[Data](articles/6c100030.json)
-
-[Extended Data](ext_articles/6c100030.ext.json)
-
----
-
-### 'Pitha' released by Tamil cinema celebrities
-
-*2024-06-07 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185548) · `ta`
-
-Tamil film "Pitha," featuring Vijay Antony, Sinu Ramaswamy, Vijay Milton, and more, focuses on a father-daughter emotional bond. Directed by Karthik Kumar, it stars Madhyazhagan, Vanitha Vijayakumar, and Sharavana Subbaiah. The release of the first look and Mohan poster, especially featuring Medaku Prabhakaran, has generated excitement among fans and critics alike.
-
-🟩
-
-The new movie, which plays the lead role as the hero of the story of the producer and actor, has been named 'Father' and its First Look and Mohan Poster has been released.. This is the leading celebrities of the Tamil film industry, Vijay Antony - Sinu Ramaswamy - Vijay Milton - Bose Venkat - Mithran Jawahar - Madhavan - Premji Amaran - C. Satya also published.
-
-Introduction Director v.. Karthik Kumar's upcoming film 'Pitha' stars Madhyazhagan, Vanitha Vijayakumar, Sharavana Subbaiah and many others.. Rashant Arvin is composed by Richard Richard. The film is being prepared to focus on a emotional relationship between father and daughter. Balasubramani and C. Satish Kumar is co -produced.
-
-The photo of Medaku Prabhakaran in the Mohan Poster of the film has caused great anticipation among Tamil sensors and fans.
-
-◼️
-
-[Data](articles/b5bbf5bc.json)
-
-[Extended Data](ext_articles/b5bbf5bc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 02:51:44**
+As of **2024-06-09 03:04:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,276 (100.0%) of 29,277 articles have been extended.
+29,277 (100.0%) of 29,277 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ But spinner Adam Zampa bowled Salt (37) with his first ball to leave England 73-
 ...
 
 [Data](articles/27c38391.json)
+
+[Extended Data](ext_articles/27c38391.ext.json)
 
 ---
 

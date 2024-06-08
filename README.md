@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 10:52:26**
+As of **2024-06-08 11:04:05**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 4,680
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,200 (100.0%) of 29,201 articles have been extended.
+29,201 (100.0%) of 29,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### சிறுவர்களின் சிதைந்த உடல்களை பார்த்தோம் - காசாவில் ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் உயிர் பிழைத்தவர்கள்
+### We have seen children's corrupted bodies - the survivors of Israel's attack on UN School
 
 *2024-06-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185584) · `ta`
 
-ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலின் போது உயிர்பிழைத்தவர்கள் தாங்கள் கொல்லப்பட்ட சிறுவர்களின் உடல்களை பார்த்ததாக தெரிவித்துள்ளனர்.
+Survivors of an Israeli attack on a UN school in Gaza reported seeing the bodies of killed boys amidst ongoing attacks. The head of Gaza's Civil Security Division confirmed high casualties at Nusirit's Alsharti school, with no additional bodies found. Israel claimed the school was targeted by extremists, releasing names of Hamas and Palestinian Jihad members killed, denying civilian deaths. A teacher from Nusreide, whose home was attacked, described the horror of the bombing, including the destruction of classrooms and the shock among survivors.
 
-இஸ்ரேல் குறிப்பிட்ட பகுதியில் இரண்டாவது நாளாக தொடர்ந்தும் தாக்குதலை மேற்கொண்டுவரும் அதேவேளை ஐநா பாடசாலை மீதான தாக்குதலில் உயிர்பிழைத்தவர்கள்  சிதைந்துபோன நிலையில் சிறுவர்களின் உடல்களை பார்த்தோம் என தெரிவித்துள்னர்.
+🟩
 
-காசாவின் மத்தியில் உள்ள நுசெய்ரட்டின் அல்சார்டி பாடசாலையில் உயிரிழந்தவர்கள் அனைவரும் பொதுமக்கள் வேறு எவருடைய உடல்களையும் காணமுடியவில்லை என காசாவின் சிவில் பாதுகாப்பு பிரிவின் தலைவர்  தெரிவித்துள்ளார்.
+The survivors of the Israeli attack on the UN school said they had seen the bodies of the boys who were killed.
 
-கொல்லப்பட்டவர்களின் எண்ணிக்கை 40 ஆக அதிகரித்துள்ளது இன்னமும் அதிகரிக்கின்றது என தெரிவித்துள்ள மஹ்மூட் பாசல் காயமடைந்தவர்களிற்கு உரிய சிகிச்சை இன்மையே உயிரிழப்புகள் அதிகரிக்க காரணம் என தெரிவித்துள்ளார்.
+While Israel continues to attack the second day in the particular area, we have seen the bodies of the boys as the survivors of the attack on the UN school have been shattered.
 
-ஐநா பாடசாலையை முப்பது நாப்பது தீவிரவாதிகள் தளமாக பயன்படுத்தினர் என தெரிவித்துள்ள இஸ்ரேல் அவர்களையே இலக்குவைத்துள்ளதாக குறிப்பிட்டுள்ளது .
+The head of the Civil Security Division of Gaza said that all the casualties of the Nusirit's Alsharti school in the middle of Gaza were not able to find anyone else's bodies.
+
+Mahmoot Basel said the number of casualties has increased by 40 people.
+
+Israel has said that the UN school has been targeted by the thirty -two extremists.
+
+Israel has released the names of members of the Hamas and Palestinian Jihad, which was killed in the attack, saying it was not aware of the deaths of civilians.
+
+A 45 -year -old teacher, a 45 -year -old teacher, who lives in Nusreide, left Israel's groundbreaking two months ago and that the attack had taken place at his home.
 
 ...
 
 [Data](articles/6dc6ee55.json)
+
+[Extended Data](ext_articles/6dc6ee55.ext.json)
 
 ---
 

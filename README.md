@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 18:23:10**
+As of **2024-06-08 18:34:39**
 
 ## Newspaper Stats
 
-*Scraped **29,238** Articles*
+*Scraped **29,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,488
-adaderanalk | 3,308
+adaderanalk | 3,309
 tamilmirrorlk | 3,431
 virakesarilk | 4,485
-dailymirrorlk | 4,645
-adaderanasinhalalk | 4,692
+dailymirrorlk | 4,646
+adaderanasinhalalk | 4,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,238 (100.0%) of 29,238 articles have been extended.
+29,238 (100.0%) of 29,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Rainy conditions expected to enhance in next few days
+
+*2024-06-08 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99745/rainy-conditions-expected-to-enhance-in-next-few-days) · `en`
+
+The prevailing rainy weather conditions in the south-western part of the island are expected to enhance to some extent in the next few days from today (08), according to the Meteorology Department.
+
+Issuing a forecast for the next 36 hours, it said Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts.
+
+Several spells of light showers will occur in Northern and North-central provinces and in Matale district, the department said.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+...
+
+[Data](articles/ff9679d8.json)
+
+---
+
+### Sri Lanka elected into United Nations Economic and Social Council
+
+*2024-06-08 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-elected-into-United-Nations-Economic-and-Social-Council/108-284412) · `en`
+
+Colombo, June 08 (Daily Mirror)- The United Nations General Assembly (UNGA) has elected Sri Lanka into its Economic and Social Council (ECOSOC), with 182 out of 189 members present voting in favour, the Foreign Affairs Ministry said today.
+
+Sri Lanka obtained the second highest number of votes from the region, and seventh highest overall, and will begin its three-year term in the council on January 1, 2025.
+
+“As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide,” the Foreign Affairs Ministry said in a media release.
+
+18 countries were elected to the 54-member council, when the vote took place on Friday.
+
+...
+
+[Data](articles/d663642b.json)
+
+---
+
+### පොසොන් සමයේ ප්‍රවාහන සේවා සිදුවෙන අයුරු
+
+*2024-06-08 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197532) · `si`
+
+අනුරාධපුර පූජා නගරය කේන්ද්‍ර කරගනිමින් පොසොන් සමයේ සාමාන්‍ය ප්‍රවාහන සේවාවට අමතරව අතිරේක බස් රථ සේවාවක් යෙදවීමට කටයුතු කරන බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+
+ඓතිහාසික මිහින්තලය, තන්තිරිමලය සහ අනුරාධපුර පූජා නගරයන් සඳහා පැමිණෙන ජනතාවගේ පහසුව සඳහා අදාළ බස්රථ සේවාව ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන බව ලංකා ගමනාගමන මණ්ඩලයේ සභාපති ලලිත්ද අල්විස් මහතා පැවසීය.
+
+එහිදී බස්රථ 400කට වැඩි ප්‍රමාණයක් යෙදවීමට අපේක්ෂා කරන අතර ගම්පහ සහ කොළඹ ලංගම ප්‍රාදේශිකයන්වල ද සහාය ලබා ගැනීමට නියමිතය.
+
+මහව සිට අනුරාධපුරය දක්වා වන දුම්රිය මාර්ගයේ සිදුවන අලුත් වැඩියාව හේතුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට සිදුවන අපහසුතාවය මඟහැරීම සඳහා මීට පෙර වර්ෂවලදී පැවති පොසොන් මංගල්‍යය සඳහා යෙදවූ බස් රථ සේවාවට අමතර විශේෂ බස් රථ සේවාවක් මෙවර ක්‍රියාත්මක කිරීමට සිදුවන බව සභාපතිවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/a2678025.json)
+
+---
 
 ### Gunatilake Rajapaksa records the incident
 
@@ -2173,57 +2231,5 @@ The organisation noted that the writ application filed by Karannagoda seeking hi
 [Data](articles/db5d7907.json)
 
 [Extended Data](ext_articles/db5d7907.ext.json)
-
----
-
-### Unreleased Nawaz Commission report may hold key to acceptable Truth and Reconciliation Commission
-
-*2024-06-07 23:14:28* · [`dailyftlk`](https://www.ft.lk/opinion/Unreleased-Nawaz-Commission-report-may-hold-key-to-acceptable-Truth-and-Reconciliation-Commission/14-762779) · `en`
-
-The National Peace Council (NPC) in a statement said the unreleased Nawaz Commission report may hold the key to acceptable Trust and Reconciliation Commission (TRC).
-
-During a recent visit to the North, President Ranil Wickremesinghe stated that the Government would be establishing a Truth and Reconciliation Commission (TRC) to address human rights issues that arose out of the three-decade long war. He said that the legislation was nearly finalised with the main remaining question being whether the power to prosecute war crimes should be given to the commission or to a special court. The President said, “We’re deliberating whether the TRC should wield judicial authority or if a separate court should be empowered based on TRC recommendations. This decision is paramount, and I’ve tasked relevant ministers, in consultation with parliamentarians and ambassadors, to draft legislation for parliamentary review.”
-
-...
-
-[Data](articles/0d8c26d2.json)
-
-[Extended Data](ext_articles/0d8c26d2.ext.json)
-
----
-
-### Sri Lanka-China Friendship Association unveils “Sri Lanka Cheena Mithudama” book
-
-*2024-06-07 23:14:14* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-China-Friendship-Association-unveils-Sri-Lanka-Cheena-Mithudama-book/14-762778) · `en`
-
-From left: Chinese Ambassador to Sri Lanka Qi Zhenhong, Sri Lanka-China Friendship Association President Ananda Goonatilleke and former Speaker of Parliament Karu Jayasuriya – Pix by Upul Abayasekara
-
-The Sri Lanka-China Friendship Association (SLCFA) proudly launched the book “Sri Lanka Cheena Mithudama” (Sri Lanka China Friendship) at a ceremonious event held recently at the auditorium of the National Library and Documentation Services Board of Sri Lanka.
-
-The launch event was graced by prominent dignitaries, including the former Speaker of the Parliament of Sri Lanka Karu Jayasuriya, who was the keynote speaker, and Ambassador for the People’s Republic of China Qi Zhenhong who was the Guest of Honour.
-
-...
-
-[Data](articles/8ff0e6ff.json)
-
-[Extended Data](ext_articles/8ff0e6ff.ext.json)
-
----
-
-### Release of book ‘Talking to My Daughter – A Brief History of Capitalism’ in Sinhala
-
-*2024-06-07 23:11:11* · [`dailyftlk`](https://www.ft.lk/opinion/Release-of-book-Talking-to-My-Daughter-A-Brief-History-of-Capitalism-in-Sinhala/14-762777) · `en`
-
-A Sinhala translation of the book ‘Talking to My Daughter - A Brief History of Capitalism’ written by the famous economist, political activist, and former Finance Minister of Greece, Yanis Varoufakis, and published by the Revolutionary Students’ Union, was released on Sunday.
-
-University students, academics, artists, and representatives of trade unions and mass organisations, participated in this event, which was held at the Colombo National Library Auditorium.
-
-The Frontline Socialist Party Education Secretary Pubudu Jayagoda, academics Dr. Kalpa Rajapaksha and Sumith Chaaminda, and the Revolutionary Students’ Union Organising Secretary Mangala Maddumage, shared some initial thoughts. This was then followed by an open discussion with participants.
-
-...
-
-[Data](articles/6d1f8b99.json)
-
-[Extended Data](ext_articles/6d1f8b99.ext.json)
 
 ---

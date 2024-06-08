@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 16:05:15**
+As of **2024-06-08 16:18:58**
 
 ## Newspaper Stats
 
-*Scraped **29,228** Articles*
+*Scraped **29,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,125 +16,199 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,487
-adaderanalk | 3,306
+adaderanalk | 3,307
 tamilmirrorlk | 3,430
 virakesarilk | 4,483
-dailymirrorlk | 4,644
+dailymirrorlk | 4,645
 adaderanasinhalalk | 4,689
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,222 (100.0%) of 29,228 articles have been extended.
+29,228 (100.0%) of 29,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### முப்படையிலுள்ள இஸ்லாமியர்களுக்கு மகிழ்ச்சியான செய்தி
+### Sri Lanka logs 700 Dengue cases in seven days
+
+*2024-06-08 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-logs-700-Dengue-cases-in-seven-days/108-284411) · `en`
+
+Colombo, June 08 (Daily Mirror) - A total of 700 cases were reported over the past seven days, indicating a notable uptick in the Dengue outbreak.
+
+The surge in cases can be attributed to rainy conditions and the receding floodwaters, which create more mosquito breeding sites.
+
+As of June 07, a total of 25,619 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 5,554.
+
+The Western Province has recorded 9,348 cases, the highest province-wise.
+
+As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep Dengue at bay.
+
+◼️
+
+[Data](articles/c3f4fec0.json)
+
+---
+
+### ‘The time to reform is now’ – Ali Sabry on Sri Lankan cricket
+
+*2024-06-08 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99743/the-time-to-reform-is-now-ali-sabry-on-sri-lankan-cricket) · `en`
+
+Sri Lanka’s Foreign Minister and Chairman of Cabinet Sub-Committee appointed to examine the issues faced by Sri Lanka Cricket says that the country’s recent disappointments in the ICC World Cup 2023 and ICC T20 World Cup are not isolated incidents.
+
+“They are stark indicators of the deep-rooted problems within our cricketing infrastructure. These issues cannot be resolved with temporary fixes.”
+
+“What we need is a bold, professional approach that frees our cricket from the control of those who have turned it into a personal enterprise,” Minister Ali Sabry said, in a post on ‘X’ (formerly Twitter) on Saturday.
+
+He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brought smiles, pride, and unity to our nation. “Our triumphs, especially the World Cup victory, have etched unforgettable memories in the hearts of all Sri Lankans. Yet, today, our cherished sport is in crisis, suffering from a decline that calls for an urgent and comprehensive overhaul.”
+
+...
+
+[Data](articles/19a0e948.json)
+
+---
+
+### Happy News to Islamists
 
 *2024-06-08 15:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முப்படையிலுள்ள-இஸ்லாமியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338618) · `ta`
 
-முப்படையிலுள்ள இஸ்லாமியர்களுக்கு ஹஜ் யாத்திரைக்கான இலவச வாய்ப்பை வழங்க சவூதி அரேபிய அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+Saudi Arabia offers free Hajj pilgrimages to Islamists in its Armed Forces, thanks to the efforts of Khalid Hamad Alkadani and the Defense Ministry's cooperation with Sri Lanka. The initiative supports the government's stance and provides special opportunities for the annual pilgrimage.
 
-பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோனின் விசேட கோரிக்கைக்கு அமைவாக இலங்கைக்கான சவூதி அரேபிய தூதுவர் கலீத் ஹமட் அல்கதானியின் தலையீட்டில் இந்த வாய்ப்பு கிட்டியுள்ளதாக பாதுகாப்பு அமைச்சு வௌியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இராஜாங்க அமைச்சரின் கோரிக்கைக்கு அமைய சவூதி அரேபிய தூதுவரினால் வருடாந்த ஹஜ் யாத்திரைக்கான 5 விசேட வாய்ப்புகளை அந்நாட்டு அரசாங்கத்தின் ஆதரவுடன் பெற்றுக் கொடுப்பதற்கு தேவையான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாகவும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. R
+The Saudi Arabian government has taken steps to provide free opportunity for Hajj pilgrimage to Islamists in the Armed Forces.
+
+The Defense Ministry said in a statement that the opportunity was found in the intervention of Saudi Arabian Arab Arab Arab Arabian Khalid Hamad Alkadani to Sri Lanka in accordance with the special demand of Defense Minister of State for Defense Bandara.
+
+The report also stated that the Saudi Arabian Ambassador has taken 5 special opportunities for the annual Hajj pilgrimage to the support of the government at the request of the Minister of State.. Remble
 
 ◼️
 
 [Data](articles/73b0c195.json)
 
+[Extended Data](ext_articles/73b0c195.ext.json)
+
 ---
 
-### අද සිට වැස්ස වැඩි වෙයි
+### Rain from today
 
 *2024-06-08 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197528) · `si`
 
-කාසල්රී සහ මවුස්සාකැලේ ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වී ඇති බව එම ජලාශ භාර ඉංජිනේරුවන් පවසා තිබේ.
+Heavy rainfall in central hills has raised water levels in Castlereagh, MouseCale, and other reservoirs near hydroelectric power plants. The Department of Meteorology forecasts more rain in southern regions, including Western, Sabaragamuwa, and Central provinces, with potential for heavy showers exceeding 75mm. They advise caution against possible damages from thunderstorms.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම්වලට පසුගිය දිනවල ඇදහැලුණු අධික වර්ෂාපතනය හේතුවෙන් එම ජලාශවල ජල මට්ටම් ඉහළ ගොස් ඇති බව එම ඉංජිනේරුවරු සඳහන් කරයි.
+🟩
 
-මෙම ජලාශවල ජල මට්ටම ඉහළ යාමත් සමග විමලසුරේන්ද්‍ර, ලක්ෂපාන, නව ලක්ෂපාන, කැනියොන් සහ පොල්පිටිය යන ජල විදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදුකෙරෙන බව සඳහන්ය.
+The water level in the reservoirs in Castlereagh and MouseCale has said that the water level of the reservoirs is close to the exhaust.
 
-මේ අතර දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් අද (08) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වියහැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The engineers states that the water levels in those reservoirs have increased due to heavy rainfall in the central hills.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවිය හැකි බවය.
+The water levels of the reservoirs are rising in Wimalasurendra, Laxapana, Canyon and Polapitiya hydroelectric power plants.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+Meanwhile, the Department of Meteorology says that a rainy industry in the south section of the island is expected to be expected in the next few days.
 
-උතුරු සහ උතුරු-මැද පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that there will be showers in the Western, Sabaragamuwa, North Western and Southern provinces, in the Kandy and Nuwara Eliya districts.
+
+Some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Heavy rains can occur more than 75.
+
+The Department of Meteorology announces that several thin showers in the North and North-Media areas can occur in the Matale district.
 
 ...
 
 [Data](articles/ec7a1ddb.json)
 
+[Extended Data](ext_articles/ec7a1ddb.ext.json)
+
 ---
 
-### අයිස් මත්ද්‍රව්‍ය සමග ජේලර් අත්අඩංගුවට
+### Jalar arrested with ice drugs
 
 *2024-06-08 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197526) · `si`
 
-මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් සිටි බන්ධනාගාර ජේලර්වරයෙකු අද (08) දහවල් අත්අඩංගුවට ගෙන තිබේ.
+A prison officer named Jilar was arrested today for transporting ice drugs. The arrest occurred after a tip-off led the Nivithigala police to intercept a motorbike carrying the drugs on the Kalawana main road in Ratnapura.
 
-පොලීසිය සඳහන් කළේ සැකකරු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 15ක් එලෙස ප්‍රවාහනය කරමින් සිටියදී නිවිතිගල පොලීසිය විසින් අත්අඩංගුවට ගත් බවය.
+🟩
 
-සැකකරු වැලිකඩ බන්ධනාගාර රෝහලේ සේවය කරන ජේලර්වරයෙකු බව වාර්තා වෙයි.
+A prison jailer who was transporting drugs has been arrested this afternoon today (08).
 
-රත්නපුර ජ්‍යේෂ්ඨ පොලිස් අධිකාරි කපිල ප්‍රේමදාස මහතාට ලද තොරතුරක් අනුව අයිස් මත්ද්‍රව්‍ය සමග යතුරුපැදියකින් යමින් සිටි සැකකරුව රත්නපුර කලවාන ප්‍රධාන මාර්ගයේ ගැටනිවත්ත දී පොලිස් මාර්ග බාධකයක් යොදා අත්අඩංගුවට ගෙන තිබුණි.
+Police said the suspect was arrested by the Nivithigala police while transporting ice drugs.
 
-බන්ධනාගාර නිලධාරියෙකු ලෙස රැකියාව කරමින් සැකකරු කලෙක සිට අයිස් මත්ද්‍රව්‍ය ජාවාරම සිදු කර ඇතැයි ද පොලීසිය පවසයි.
+It is reported that the suspect is a Jiler of the Welikada Prison Hospital.
+
+According to a tip off received by Senior Superintendent of Police, Kapila Premadasa, a motorbike with ice with ice, was arrested in Kalawana main road along the Kalawana main road in Ratnapura.
+
+The suspect has been employed as a prison officer and has taken place from ice drug trafficking.
 
 ◼️
 
 [Data](articles/15fe3de1.json)
 
+[Extended Data](ext_articles/15fe3de1.ext.json)
+
 ---
 
-### මෝටර් රථයක් දුම්රිය 2ක ගැටී සිදුවූ මාරක අනතුර ගැන තවත් තොරතුරු
+### More information about the fatal accident occurred in two trains
 
 *2024-06-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197525) · `si`
 
-එඬේරමුල්ල දුම්රිය ස්ථානය ආසන්නයේ පිහිටි දුම්රිය හරස් මාර්ගයේදී අද (08) උදෑසන මෝටර් රථයක් දුම්රිය දෙකක ගැටී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු දෙදෙනෙකු ජීවිතක්ෂයට පත්වුණි.
+In a tragic accident at a railway crossing near Shepherdammulla station, two individuals, including a 56-year-old man and a 44-year-old woman, were killed when their car collided with a train. The incident occurred around 6:15 AM as the train approached the crossing where warning lights were operational. The collision pushed the car about 200 meters towards Colombo. Witnesses reported seeing the aftermath from another train heading to Trincomalee.
 
-ප්‍රදේශවාසීන් පවසන්නේ ආලෝක සංඥා ක්‍රියාත්මක වෙමින් තිබියදී අපරීක්ෂාකාරී ලෙස දුම්රිය මාර්ගයට ඇතුල් කළ මෝටර් රථයක් දුම්රියේ ගැටුණු බවය.
+🟩
 
-අද උදෑසන 6.15ට පමණ මෙම මාරක රිය අනතුර සිදුවුණේ එඬේරමුල්ල දුම්රිය ස්ථානය ආසන්නයේ පිහිටි දුම්රිය හරස් මාර්ගයේදීය.
+Two persons were killed in an accident that took place in two trains at the railway crossing near the shepherdammulla railway station.
 
-එම ස්ථානයෙන් දුම්රියක් ධාවනය වන බවට වූ ආලෝක සංඥා ක්‍රියාත්මක වෙමින් තිබියදී එඩේරමුල්ල දෙස සිට වත්තල දෙසට මෝටර් රථයක් ඉදිරියට ධාවනය කර තිබුණි.
+Residents say that when the light signs were in operation, a car collided with a train.
 
-එම අවස්ථාවේ බදුල්ලේ සිට කොළඹ බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රියේ මෝටර් රථය ගැටී තිබේ.
+The fatal accident was at around 6.15 this morning at a railway crossing near the shepherdammulla railway station.
 
-අනතුරින් පසු මෝටර් රථය මීටර් 200ක් පමණ කොළඹ දෙසට ඇදී ගොස් තිබුණි.
+The light signs that a train was running out of the place had been opened from Edummulla to Wattala.
 
-අනතුර දුටු ප්‍රදේශවාසීන් කඩිනමින් මෝටර් රථයේ සිටි පුද්ගලයින් පිටතට ගැනීමට උත්සාහ කිරීමේදී ඊට සාමන්තරව පිහිටි අනෙක් දුම්රිය මාර්ගය ඔස්සේ ත්‍රිකුණාමලය බලා ගමන්කරන ඝීග්‍රගාමී දුම්රිය ප්‍රතිවිරුද්ධ දෙසට ධාවනය වී ඇති අතර මෝටර් රථය එම දුම්රියේද ගැටී ඇත.
+The dinner of the night mail traveling from Badulla to Colombo has collided.
+
+After the accident, the car was drawn to Colombo about 200 meters.
+
+The locals who saw the accident had been driven to Trincomalee and travel to Trincomalee along the other railway train, while the car was hit by the train.
+
+A woman and a male had died in the same place in the accident.
+
+The deceased is Kelum Thushara Silva, a 56 year old resident of Biyagama and 44 year old. K. N. N. A woman named Ratnapala.
+
+She is also a security guard at a private company in Colombo.
 
 ...
 
 [Data](articles/2f3afabe.json)
 
+[Extended Data](ext_articles/2f3afabe.ext.json)
+
 ---
 
-### දැරියකට පහරදුන් කුකුළ් චමින්ද රෝහල්ගත කෙරේ
+### Chickeh Chaminda hospitalized after assault
 
 *2024-06-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197524) · `si`
 
-සිව් හැවිරිදි දැරියකට අමානුෂික ලෙස පහරදී අත්අඩංගුවට ගෙන බන්ධනාගාර ගත කළ කුකුළ් චමින්ද අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+Four-year-old Chickhen Chaminda was hospitalized after a brutal assault by Koule Chaminda, who were then taken to Anuradhapura Teaching Hospital. The suspect, arrested in Pulmude, was remanded until the 19th and later examined by a Judicial Medical Officer, leading to hospital admission.
 
-කෙසේ වෙතත් බන්ධනාගාර පරිශ්‍රය තුළදී සැකකරුට පහරදීමක් සිදුවී නැති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ජනරාල් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
+🟩
 
-වැලිඔය ප්‍රදේශයේ සිව් හැවිරිදි දැරියකට අමානුෂික ලෙස පහරදුන් සැකකරු පසුගියදා පුල්මුඩේ, අරිසිමලේ ප්‍රදේශයේ සැඟව සිටියදී අත්අඩංගුවට ගැනුණි.
+The four-year-old girl was brutally assaulted and arrested by Koule Chaminda and who were imprisoned to the Anuradhapura Teaching Hospital.
 
-අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එම්.කේ. චමින්ද නොහොත් කුකුළ් චමින්ද ලබන 19 වනදා දක්වා රිමාන්ඩ් ගත කළේය.
+However, Prison Media Spokesman Prison Spokesman Prison Gamini B. Gamini B. Dissanayake added.
 
-පසුව සැකකරු ජුනි 06 වනදා අධිකරණ වෛද්‍ය නිලධාරී වෙත යොමුකර තිබුණි.
+The suspect inhumabrum was inhumably assaulted in general recently was arrested in Pulmude, Arallamaya.
 
-අධිකරණ වෛද්‍ය නිලධාරියාගේ නිර්දේශ මත සැකකාර කුකුළ් චමින්ද අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+MK after being produced before courts. Chaminda, or Kohin was remanded until the 19th.
+
+The suspect was later sent to the Judicial Medical Officer on June 6.
+
+The suspects have been admitted to the Anuradhapura Teaching Hospital on the recommendations of the Judicial Medical Officer.
 
 ◼️
 
 [Data](articles/334ffa8f.json)
+
+[Extended Data](ext_articles/334ffa8f.ext.json)
 
 ---
 
@@ -1552,6 +1626,8 @@ Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction wit
 
 [Data](articles/5dc66623.json)
 
+[Extended Data](ext_articles/5dc66623.ext.json)
+
 ---
 
 ### Canada stun Ireland by 12 runs in T20 World Cup
@@ -2103,53 +2179,5 @@ He was first appointed as Chief of Defence Staff on June 1, 2022.
 [Data](articles/84aa4419.json)
 
 [Extended Data](ext_articles/84aa4419.ext.json)
-
----
-
-### Service extended to General Shavendra as the chief of security forces
-
-*2024-06-07 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185574) · `ta`
-
-General Shavendra has been appointed as the chief of security forces, effective from June 1 to December 31, 2024, following the president's approval and gazette notification release.
-
-🟩
-
-The appointment of the president has been appointed and the gazette notification has been released.
-
-Accordingly, the appointment is valid from June 1 to December 31, 2024.
-
-◼️
-
-[Data](articles/a0837d41.json)
-
-[Extended Data](ext_articles/a0837d41.ext.json)
-
----
-
-### Harsha de Silva's threat issue: Investigations handed over to the Criminal Investigation Department
-
-*2024-06-07 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185573) · `ta`
-
-Dr. Harsha de Silva, a United People's Power MP, has transferred the investigation into threats against him to the Criminal Investigation Department, following orders from the Public Security Minister and the Inspector General of Police. Despite facing numerous challenges, including limited staff and no office, he remains active in addressing various issues such as coal affairs, sugar fraud, and central bank pay problems. He expressed concern over whose interests these matters are serving and held the Speaker accountable for his safety.
-
-🟩
-
-United People's Power Member of Parliament, Dr. Harsha de Silva, has handed over investigations into the alleged threats to the Criminal Investigation Department.
-
-The decision was taken on the orders of Public Security Minister Tran Ales, the Inspector General of Police, Deshabandu, to Thennakoon.
-
-Harsha de Silva, who made a special statement in Parliament on the 07th, said he took over as chairman of the Finance Committee amidst many challenges.
-
-Harsha de Silva said he had no office and that there were only three people to serve.
-
-The MP, who said that the Finance Committee continues to talk about coal affairs, sugar fraud and central bank's pay issues, said he was involved in many issues.
-
-He questioned whose interests they were doing, and said the Speaker is responsible for his life.
-
-◼️
-
-[Data](articles/67063a7b.json)
-
-[Extended Data](ext_articles/67063a7b.ext.json)
 
 ---

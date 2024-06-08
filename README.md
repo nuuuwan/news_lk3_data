@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 12:06:12**
+As of **2024-06-08 12:18:56**
 
 ## Newspaper Stats
 
@@ -1454,9 +1454,9 @@ The monsoon rains have wreaked havoc, particularly in the districts of Colombo, 
 
 *2024-06-07 22:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-in-viral-child-assault-video-attacked-in-Prison/108-284363) · `en`
 
-The person who was seen assaulting a small boy in a viral video has been attacked by inmates of the Anuradhapura prison following his arrest and remand.
+The person who was seen assaulting a small girl in a viral video has been attacked by inmates of the Anuradhapura prison following his arrest and remand.
 
-The police said he was admitted to the Anuradhapura Teaching Hospital. The person, who is said to be the paramour of the boy’s mother, was arrested by the Welioya Police and produced before the Padaviya Magistrate, who remanded him till June 19.
+The police said he was admitted to the Anuradhapura Teaching Hospital. The person, who is said to be the paramour of the girl's mother, was arrested by the Welioya Police and produced before the Padaviya Magistrate, who remanded him till June 19.
 
 The suspect who is a resident of the village called ‘Hansawila’ in Welioya has been assaulted by the inmates of the Anuradhapura prison. He has allegedly assaulted the child for eating sugar kept in a glass container.
 

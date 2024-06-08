@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 20:53:08**
+As of **2024-06-08 21:04:09**
 
 ## Newspaper Stats
 
-*Scraped **29,256** Articles*
+*Scraped **29,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,491
-adaderanalk | 3,311
+adaderanalk | 3,312
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,253 (100.0%) of 29,256 articles have been extended.
+29,256 (100.0%) of 29,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### රැකියා ඇබෑර්තු දමා කාන්තාවන් සිර කරගන්නා ජාවාරමක්
+### Racketeer who puts job jobs
 
 *2024-06-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197537) · `si`
 
-වසර 4ක් තිස්සේ රැකියා ඇබෑර්තු දැන්වීම් පළ කර කාන්තාවන් නිවසට ගෙන්වා විවිධ ලිංගික ක්‍රියාකාරකම්වල යෙදවූ යුවළක් අත්අඩංගුවට ගෙන තිබේ.
+A racketeer was arrested after advertising jobs for four years, luring women into his home for sexual exploitation and filming their activities. The couple was tracked down by the Nugegoda Children's and Women's Crimes Prevention Bureau, ending their operation.
 
-එලෙස පැමිණෙන කාන්තාවක්  සිර කර විවිධ ලිංගික ක්‍රියාකාරකම්වල යොදවා ඒවා වීඩියෝගත කර මුදලට අලෙවි කිරීම මෙම යුවළ විසින් සිදුකර ඇති බව පැවසෙයි.
+🟩
 
-සැකකාර යුවළ අත්අඩංගුවට ගෙන ඇත්තේ නුගේගොඩ ළමා හා කාන්තා අපරාධ නිවාරණ කාර්යාංශය විසිනි.
+For 4 years, employment jobs have been advertised and arrested for women to house and engaged in various sexual activities.
 
-මීට දින කිහිපයකට පෙර නුගේගොඩ පිහිටි මෙම නිවසට පැමිණ අදාළ සිදුවීමට මුහුණදී නිවසෙන් පැනගිය බදුල්ල සහ වැල්ලේගෙදර පදිංචි කාන්තාවන් දෙදෙනෙකු කළ පැමිණිලි අනුව සිදුකළ වැටලීමකදී මෙම යුවළ අත්අඩංගුවට ගෙන තිබේ.
+It is said that the couple had committed to track of a woman who was coming and deployed in various sexual activities and sell them to videotato.
+
+The suspect is arrested by the Nugegoda Children's and Women's Crimes Prevention Bureau.
+
+The couple's raid was arrested during a raid conducted by two women who had escaped from Nugegoda to arrive at the house in Nugegoda a few days ago.
 
 ◼️
 
 [Data](articles/bf586d30.json)
+
+[Extended Data](ext_articles/bf586d30.ext.json)
 
 ---
 
@@ -94,25 +100,33 @@ Meanwhile, the Kegalle District Secretary had announced yesterday that the Colom
 
 ---
 
-### අපිට හැමදාම හිඟන ජාතියක් වෙන්න බෑ
+### We can't be a beggar nation everyday
 
 *2024-06-08 20:09:40* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-හැමදාම-හිඟන-ජාතියක්-වෙන්න-බෑ/11-410082) · `si`
 
-ආර්ථික පරිවර්තන පනත් කෙටුම්පත ඉදිරිපත් කරමින් මෙරට ආර්ථිකය නිවැරදි මගකට ගෙන ඒමේ ‍පළමු පියවර තබා තිබෙනවා
+President Ranil Wickremesinghe announced the first step towards economic recovery in Sri Lanka through the economic translation bill, aiming to transition the country towards becoming a developed nation focused on youth empowerment. He highlighted the importance of creating employment opportunities and fostering industries like pharmaceuticals, emphasizing the need for innovation and export capabilities to avoid living as a "beggar nation." The President also touched on the challenges faced during his tenure, including the impact of the Covid epidemic and economic crisis, and outlined ambitious goals for economic growth and reduction of unemployment by 2025, with a vision for an export-driven economy by 2040.
 
-මෙරට තරුණ තරුණියන් වෙනුවෙන් දියුණු රටක් ගොඩනැඟිය යුතුයි – ජනපති.
+🟩
 
-ආර්ථික පරිවර්තන පනත් කෙටුම්පත ඉදිරිපත් කරමින් මෙරට ආර්ථිකය නිවැරදි මගකට ගෙන ඒමේ ‍පළමු පියවර රජය විසින් තබා ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The first step has been placed on the economic translation bill, introducing the country's economy on the right path,
 
-කුමන ආණ්ඩුවක් බලයට පැමිණිය ද, කුමන නායකයෙක් රට භාරගත්තද එම එකඟතාව සමඟ ඉදිරියට යා යුතු බව පෙන්වා දුන් ජනාධිපතිවරයා රටේ බිඳ වැටුණු ආර්ථිකය ගොඩනැඟිය හැකි වනුයේ නිසි සැලැස්මක් ඔස්සේ කටයුතු කිරීමෙන් පමණක් බව ද අවධාරණය කළේය.
+A developed country should be built for youths for the youths in Sri Lanka - President.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඒකල ප්‍රදේශයේ ඉදි කෙරුණු Cephalosporin එන්නත් හා මෙල්ඩෝල් නිෂ්පාදන කර්මාන්තශාලාව විවෘත කිරීමේ අවස්ථාවට ඊයේ (06) පස්වරුවේ එක්වෙමිනි.
+President Ranil Wickremesinghe said that the government has placed the first step in which the economic translation bill has taken the country's economy on the right path.
 
-මෙල්වා සමූහ ව්‍යාපාරය යටතේ Sands Active පුද්ගලික සමාගම විසින් මෙම නිෂ්පාදන කටයුතු ආරම්භ කර ඇති අතර සමරු ඵලකය නිරාවරණය කර නව කර්මාන්තශාලාව විවෘත කළ ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවකද නිරත විය.
+The President also emphasized that the President must be able to build the country's collapse economy, despite the government, which was taken to power.
+
+President Ranil Wickremesinghe made this statement participating at the opening of Cephalospoin Vaccine in Ekala area and the Meldole Production factory in Ekala yesterday.
+
+The manufacturers have commenced the production by Sands Active (Pvt) Ltd.
+
+President of Melwa Group Piyasikapillai Anandaraja presented a memorial gift to President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/2f3efc74.json)
+
+[Extended Data](ext_articles/2f3efc74.ext.json)
 
 ---
 
@@ -140,17 +154,23 @@ From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in 
 
 ---
 
-### ශවේන්ද්‍ර සිල්වාට සේවා දිගුවක්
+### Shavendra Silva extensors
 
 *2024-06-08 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වාට-සේවා-දිගුවක්/11-410080) · `si`
 
-ආරක්ෂක මාණ්ඩලික ප්‍රධානි ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතාට සේවා දිගුවක් ලබාද‍ිමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+President Ranil Wickremesinghe appointed General Shavendra Silva as Chief of Defense Staff. A special gazette notification was issued from June 1 to December 31, 2024, formalizing this decision.
 
-ඒ අනුව ජූනි මස 1 වන දා සිට 2024 දෙසැම්බර් 31 වනදා දක්වා ඔහුට සේවා දිගුවක් ලබාදෙමින් අති වි‍ශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+🟩
+
+President Ranil Wickremesinghe has arranged for the Chief of Defense Staff General Shavendra Silva.
+
+Accordingly, a special gazette notification has been issued from June 1 to 31 December 2024.
 
 ◼️
 
 [Data](articles/30028e76.json)
+
+[Extended Data](ext_articles/30028e76.ext.json)
 
 ---
 
@@ -1614,6 +1634,26 @@ Afterwards, the Commission established a sub-commission to engage with Sri Lanka
 
 ---
 
+### Two killed after car collides with 2 trains at Enderamulla
+
+*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/two-killed-after-car-collides-with-2-trains-at-enderamulla) · `en`
+
+Two persons including a woman have been killed after their car collided with two trains at the Enderamulla railway crossing this morning (08), police said.
+
+A Colombo-bound night mail train from Badulla had collided with the car, which was traveling from Enderamulla towards Wattala, when it had reportedly attempted to pass through the crossing despite the signal lights warning of the oncoming train.
+
+Following the collision with the first train, the car had been dragged around 200 meters forward and residents in the area had rushed to rescue the occupants of the car.
+
+However, as they were attempting to rescue the driver and passenger of the car, another train arriving from the opposite direction on the parallel track, and bound for Trincomalee, had also collided with the vehicle.
+
+A 56-year-old man from Biyagama and a 44-year-old woman, who was employed as a security officer at a private company in Colombo, were killed on the spot, according to reports.
+
+◼️
+
+[Data](articles/6da99f02.json)
+
+---
+
 ### Father and daughter killed after train hits car at Enderamulla
 
 *2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/father-and-daughter-killed-after-train-hits-car-at-enderamulla) · `en`
@@ -2267,19 +2307,5 @@ The Government of the Hellenic Republic (Greece) with the concurrence of the Gov
 [Data](articles/956e8111.json)
 
 [Extended Data](ext_articles/956e8111.ext.json)
-
----
-
-### High Commissioner of Maldives presents credentials to Sri Lanka
-
-*2024-06-08 00:08:26* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-of-Maldives-presents-credentials-to-Sri-Lanka/56-762813) · `en`
-
-The Government of the Republic of Maldives with the concurrence of the Government of Sri Lanka has appointed Masood Imad as High Commissioner of the Republic of Maldives to Sri Lanka based in Colombo. He has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
-
-◼️
-
-[Data](articles/d4991616.json)
-
-[Extended Data](ext_articles/d4991616.ext.json)
 
 ---

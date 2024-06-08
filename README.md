@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 21:04:09**
+As of **2024-06-08 21:19:09**
 
 ## Newspaper Stats
 
-*Scraped **29,257** Articles*
+*Scraped **29,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,312
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,698
+adaderanasinhalalk | 4,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,256 (100.0%) of 29,257 articles have been extended.
+29,257 (100.0%) of 29,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### මෝදිගේ දිවුරුම්දීම වෙනුවෙන් ඉන්දියාව ආරක්ෂාව තර කරයි
+
+*2024-06-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197538) · `si`
+
+අඛණ්ඩව තෙවන වරටත් ඉන්දීය අගමැති ධුරයට පත් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදිගේ දිවුරුම් දීමේ උත්සවය හෙට (09) නවදිල්ලි අගනුවරදී පැවැත් වෙයි.
+
+දින 44ක් අදියර 7ක් යටතේ පැවැති ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස සැලකෙන ඉන්දිය මහ මැතිවරණය ජය ගැනීමට අගමැති නරේන්ද්‍ර මෝදිගේ පක්ෂ සන්ධානය පසුගිය දා සමත්වුණි.
+
+එය වාර්තා අතරට එක්වන්නේ මෝදිගේ පක්ෂයද ඇතුළු ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානය අඛණ්ඩව ජයගත් තෙවැනි මහමැතිවරණය ලෙසය.
+
+ජය තහවුරු කරගැනීමෙන් පසුව ඊයේ දිනයේදී නරේන්ද්‍ර මෝදි ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයේ නායකයා ලෙස නිල වශයෙන් පත් කෙරුණි.
+
+ජනාධිපති ද්‍රෞපදී මුර්මු විසින්, නව රජයට නායකත්වය ලබා දෙමින් අඛණ්ඩව තෙවන වරටත් ඉන්දීය අගමැතිවරයා ලෙසට නරේන්ද්‍ර මෝදි පත් කෙරුණේ ඉන් අනතුරුවය.
+
+ඒ අනුව, ඉන්දීය අගමැති මෝදිගේ නිල දිවුරුම් දීමේ උත්සවය හෙට පස්වරුවේ ඉන්දීය ජනපති නිල නිවස වන රාශ්ට්‍රපති භවන්හීදී පැවැත්වීමට නියමිතය.
+
+ඒ සඳහා අසල්වැසි රටවල රාජ්‍ය නායකයින් ඇතුළුව 9000ක පමණ පිරිසක් ආරාධනා ලැබ සිටී.
+
+...
+
+[Data](articles/73a0777d.json)
+
+---
 
 ### Racketeer who puts job jobs
 
@@ -1652,6 +1676,8 @@ A 56-year-old man from Biyagama and a 44-year-old woman, who was employed as a s
 
 [Data](articles/6da99f02.json)
 
+[Extended Data](ext_articles/6da99f02.ext.json)
+
 ---
 
 ### Father and daughter killed after train hits car at Enderamulla
@@ -2293,19 +2319,5 @@ The Government of New Zealand with the concurrence of the Government of Sri Lank
 [Data](articles/cd32f7e5.json)
 
 [Extended Data](ext_articles/cd32f7e5.ext.json)
-
----
-
-### Ambassador of Greece presents credentials to Sri Lanka
-
-*2024-06-08 00:09:05* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-Greece-presents-credentials-to-Sri-Lanka/56-762814) · `en`
-
-The Government of the Hellenic Republic (Greece) with the concurrence of the Government of Sri Lanka has appointed Aliki Koutsomitopoulou as Ambassador Extraordinary and Plenipotentiary of the Hellenic Republic to Sri Lanka based in New Delhi. She has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
-
-◼️
-
-[Data](articles/956e8111.json)
-
-[Extended Data](ext_articles/956e8111.ext.json)
 
 ---

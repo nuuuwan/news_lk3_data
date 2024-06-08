@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 12:34:23**
+As of **2024-06-08 13:04:06**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 4,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,205 (100.0%) of 29,208 articles have been extended.
+29,208 (100.0%) of 29,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### අමෙරිකාව නියෝජනය කරන සෞරබ් කවුද ?
+### Who is the capital of the US?
 
 *2024-06-08 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197519) · `si`
 
-ක්‍රිකට් ක්‍රීඩා කරමින් අමෙරිකාව දිනවූ සෞරබ් නේත්‍රවල්කාර් වෘත්තීමය වශයෙන් ඉංජිනේරුවෙක් ලෙස සේවය කරයි.
+Sorab Nerturkar, an Indian-born engineer turned cricketer, made significant contributions to both fields. Initially known for his cricket skills, especially his fast bowling, he later pursued a career in engineering while continuing to play cricket. His talent led him to represent the United States in international matches, including the 2018 match against St. Lucia where he took six wickets for nine runs. Despite his success in cricket, Sorab chose to focus on his engineering career, highlighting his versatility and dedication to both professions.
 
-2010 යොවුන් ලෝක කුසලාන තරගාවලියේ ඉන්දු පාකිස්තාන අර්ධ අවසන් පූර්ව තරගයේ වමතින් වේගපන්දු යැවූ ඉන්දියානුවෙක් ගැන ඔබේ මතකයට එනවද ? එදා පාකිස්තානයට එරෙහිව ලකුණු 114ක් රැකගන්නට උත්සාහ කළ ඉන්දීය පන්දු බලඇණියේ ප්‍රධාන තුරුම්පුවක් වුයේ මෙම සෞරබ් ලෙස කියැවේ. නමුත් එදා ඉන්දියානුවෙක් විදියට බාබර් අසාම්ලට පැරදුනත් ඊයේ අමෙරිකානුවෙක් විදියට බාබර් ප්‍රමුඛ කණ්ඩායම පරාජය කරන්න ඔහුට හැකියාව ලැබුණි.
+🟩
 
-සෞරබ් කියන්නෙත් තමන්ගේ මව් රට වෙනුවෙන් දීර්ඝ කාලයක් ක්‍රිකට් ගහන්න බලාපොරොත්තුවෙන් සිටි ක්‍රීඩකයෙකි. වමතින් වේගපන්දු යවන්නෙකු වන මොහු 2009 අවුරුද්දේ දී බැංගලෝර්වලදී යුවරාජ්ගේ කඩුල්ලක් දවාගත්තේය. ඒ පන්දුව ඔහුට වාසනාව රැගෙන ආවා කිව්වොත් නිවැරදි ය. ඔහුට ඒ නිසාවෙන් BCCI කෝපරේට් කුසලානය තරගාවලියට ක්‍රීඩා කරන්න අවස්ථාවක් උදා විය.
+Hearing a Sorab Nerturkar, who willed cricket, serves as engineer.
 
-සෞරබ්ට එතනදි යුවරාජ් සිං, රොබින් උතප්පා වගේ ක්‍රීඩකයෝ එක්ක ඩ්‍රසින් රූම් එකේදී දැනුම බෙදාගන්න අවස්ථාව උදාවිය. එමෙන්ම ඔහුගේ ප්‍රතිවාදීන් වූයේ කෝලි, දෝනි වගේ ක්‍රීඩකයින් ය.
+Does your memory recall an Indians who sent a fast bowled outlet of the Indus Pakistan's Semi-Finished Match of the 2010 Youth World Cup?The Sauer is a key trump of the Indian bowlers to protect 114 runs against Pakistan.. However, as an Indian, he was able to defeat Barber's leading team as a US, even though an American man was lost to Barber Assar.
+
+Sorab is also a player who is looking for a long time for their homeland. Left fast bowler, he was a wicket in Bangalore in 2009. If that ball had brought him good luck, the right. That was why he had the BCCI Corporate Trophy to play in the tournament.
+
+Sorab was right there was the opportunity to share knowledge in the Drizcychy room with the Southern Julyah, Robin. And his opponents were Kohli, players like Dhoni.
+
+At the time, the 18-year-old Hairbage series was extinguished with the highest wicket winners. He was a young world cup in the year 2010.
 
 ...
 
 [Data](articles/11ef5d8a.json)
 
+[Extended Data](ext_articles/11ef5d8a.ext.json)
+
 ---
 
-### முதியவரை அடித்து கொலை செய்த பிக்கு தலைமறைவு
+### Piku hiding
 
 *2024-06-08 11:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவரை-அடித்து-கொலை-செய்த-பிக்கு-தலைமறைவு/175-338616) · `ta`
 
-கிரியுல்ல - கஜுலந்தவத்த மாரவில பிரதேசத்தில் வீடொன்றில் தங்கியிருந்த பிக்கு  தாக்கியதில் முதியவர் ஒருவர் உயிரிழந்துள்ளார்.
+In Kajulandawatta, an elderly man died after an attack by Piku, who lived in the same area. The victim was found injured inside a house; despite rescue and hospital admission, he succumbed to his injuries. Piku, known for his addiction to alcohol, fled the scene, leaving the motive unclear. Police continue investigating.
 
-குறித்த வீட்டிற்குள் ஒருவர் காயமடைந்து இருப்பதாக கிரியுல்ல பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில்,
+🟩
 
-பொலிஸார் அவரை மீட்டு தம்பதெனிய வைத்தியசாலையில் அனுமதித்த போதும், அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+An elderly man has died after being attacked by Pikku, who was staying in a house in the Kajulandawatta Marawila area.
 
-சந்தேக நபர் விகாரை ஒன்றில் வசிக்காமல் மாரவில பிரதேசத்தில் உள்ள தனது தாய் வீட்டில் வசித்து வந்ததும், குடிப்பழக்கத்திற்கு அடிமையாகி இருந்ததும் விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Based on the information received by the police that one person was injured inside the house,
 
-தற்போது குறித்த பிக்கு அந்த பகுதியை விட்டு தப்பிச் சென்றுள்ள நிலையில், தாக்குதலுக்கான காரணம் இதுவரையில் வெளியாகவில்லை என்பதுடன், கிரியுல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+Police said he died without treatment, though he was rescued and admitted to the couple's hospital.
+
+Investigations have revealed that the suspect was living in his mother's house in Marawila area and becoming addicted to drinking.
+
+With the Bikku fleeing the area, the cause of the attack has not yet been revealed and the police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/f9b8b643.json)
+
+[Extended Data](ext_articles/f9b8b643.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 22:06:51**
+As of **2024-06-08 22:19:05**
 
 ## Newspaper Stats
 
-*Scraped **29,261** Articles*
+*Scraped **29,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,73 +20,107 @@ adaderanalk | 3,312
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,702
+adaderanasinhalalk | 4,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,258 (100.0%) of 29,261 articles have been extended.
+29,261 (100.0%) of 29,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ප්‍රාණඇපකරුවන් සිව් දෙනෙක් බේරාගනී
+### කාසියේ වාසිය එංගලන්තය ට
+
+*2024-06-08 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197542) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ තවත් තරගයක් ඕස්ට්‍රේලියා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර අද (08) පැවැත්වෙයි.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඕස්ට්‍රේලියානු කණ්ඩායමට ලබාදීමටය.
+
+◼️
+
+[Data](articles/786a6a62.json)
+
+---
+
+### Four hostage rescues
 
 *2024-06-08 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197541) · `si`
 
-ඔක්තෝබර් 07 වනදා නෝවා  සංගීත ප්‍රසංගය ට ප්‍රහාරයක් එල්ලකර පැහැරගත් ඊශ්‍රායල ජාතිකයින් සිව් දෙනෙක්ව බේරාගෙන තිබේ.
+Noah rescued four Israelis on October 7, in a joint operation by the Israeli Special Army Corps and police, following a brutal attack in Central Gaza. The incident resulted in deaths among Hamas militants and Palestinian civilians.
 
-ඊශ්‍රායල විශේෂ හමුදා බළකාය සහ පොලීසිය එක්ව අද (08) දහවල් මධ්‍යම ගාසා තීරයේ සිදුකළ බිහිසුණු ප්‍රහාරයකින් අනතුරුව ඔවුන්ව බේරා ගැනුණි.
+🟩
 
-එම ප්‍රහාර හේතුවෙන් හමාස් සටන්කාමීන් සහ පලස්තීන සාමාන්‍ය වැසියන් විශාල පිරිසක් මියගොස් ඇති බව වාර්තා වෙයි.
+On October 7, Noah had rescued four Israeli people.
+
+The Israeli Special Army Corps and the police jointly rescued them after a terrible attack on the Central Gaza this afternoon.
+
+Hamas militants and a large number of Palestinian civilians have died due to the attacks.
 
 ◼️
 
 [Data](articles/b62f42e8.json)
 
+[Extended Data](ext_articles/b62f42e8.ext.json)
+
 ---
 
-### කුකුළ් චමින්ද ගැන බන්ධනාගාරයෙන් දැනුම්දීමක්
+### Prison notice of chicken chminism
 
 *2024-06-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197540) · `si`
 
-බන්ධනාගාරගත කෙරුණු මුණසිංහ කොඩිකාරලාගේ චමින්ද නොහොත්  "කුකුළ් චමින්ද" රෝහල්ගත කිරීම සම්බන්ධයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+Chaminda, known as Chick Chaminda, was hospitalized after being detained at Anuradhapura Teaching Hospital under a prison officer's protection. He allegedly assaulted a fellow inmate, leading to an investigation initiated by the Superintendent of Prisons, who clarified that Chaminda was not assaulted by another prisoner.
 
-සැකකරු අනුරාධපුර ශික්ෂණ රෝහලේ බන්ධනාගාර නිලධාරීනගේ ආරක්ෂාව යටතේ නේවාසිකව රඳවා සිටි අතර, සැකකරු අද (08) දින නැවත අනුරාධපුර බන්ධනාගාරය වෙත ඇතුළත් කෙරුණි.
+🟩
 
-ඒ අනුව බන්ධනාගාර මාධ්‍ය අංශය පෙන්වා දෙන්නේ මෙම සැකකරුට බන්ධනාගාරය තුළදී නේවාසිකයින් පිරිසක් පහර දුන් බවට වාර්තා පළවී ඇති බවය.
+Chaminda alias Chaminda, or "Chick Chaminda" has issued a statement regarding the hospitalization of Kodaragala.
 
-ඒ සම්බන්ධයෙන් අනුරාධපුර බන්ධනාගාර අධිකාරීවරයා වාර්ථාවක් කැඳවු අතර, බන්ධනාගාරය තුළදී සැකකරුට නේවාසිකියින් විසින් කිසිදු පහරදීමක් සිදු කර නොමැති බව වාර්ථා කර ඇති බව බන්ධනාගාර කොමසාරිස්, මාධ්‍ය ප්‍රකාශක ගාමිණි බී. දිසානායාක මහතා පවසයි.
+The suspect was detained under the protection of the prison officer in the Anuradhapura Teaching Hospital.
 
-මෙම සිදුවීම සම්බන්ධයනේ ජේලර්වරයෙකු මගින් විමර්ශනයක් ආරම්භ කර ඇති බවද ඔහු සඳහන් කළේය.
+Accordingly, the prison media unit has said that the suspect had assaulted a resident in prison in the prison.
+
+The Superintendent of Prisons has been concluded in the Anuradhapura Prison Spouse, Commissioner General of Prisons and has not been assaulted by the resident of the prison.. Mr. Dissanayaka says.
+
+He also said that the incident had begun an investigation by a jarrror.
 
 ◼️
 
 [Data](articles/61ccdf8a.json)
 
+[Extended Data](ext_articles/61ccdf8a.ext.json)
+
 ---
 
-### ප්‍රතික්ෂේප වීම් මත අනාගතය වෙනස් කරගත් තිළිණ
+### Thrive changed the future on the rejection
 
 *2024-06-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197539) · `si`
 
-නිදහස් අධ්‍යාපනය නමට සීමා නොකර ගුරුවරු විසින් ලබාදුන් එක් අවස්ථාවක් නිසා ජීවිතය ජයගත් දරුවෙකු අපට මොනරාගල බුත්තල ප්‍රදේශයෙන් හමුවුණි.
+Thrive transformed futures through education, especially for students like M. Thilina Dananjaya from Moneragala, who excelled despite facing challenges. Despite initial setbacks, including the impact of the GCE Ordinary Level (O/L) exams, Thilina pursued Advanced Level (A/L) studies, particularly in Biology, under the guidance of his school's principal, Mr. Nandasena. Overcoming numerous obstacles, Thilina achieved first place in the Moneragala district during the 2003 A/L examinations, showcasing the transformative power of education and determination.
 
-සාමාන්‍ය පෙළ විභාගයෙන් ගණිතය විෂය අසමත් වීම නිසා අනාගතය අඳුරු වන්නට ගොස් තවත් පාසලකින් ලැබුණු අවස්ථාවෙන් උපරිම ප්‍රයෝජන ගෙන මෙවර උසස් පෙළ විභාගයේ මොනරාගල දිස්ත්‍රික් ප්‍රථමයා වන්නට වාසනාව හිමිවූ තිළිණ ධනංජය ගැනයි මේ පුවත.
+🟩
 
-මෙරට පවතින අධ්‍යාපන ක්‍රමය තුළ සිසුවෙකුට හෝ සිසුවියකට උසස් පෙළ අධ්‍යාපනයේ විෂය ධාරාව තෝරාගැනීමට සිදුවන්නේ සාමාන්‍ය පෙළ විභාගයේ ඇතැම් විෂයන් අනිවාර්යයෙන් සමත් වුවහොත් පමණි.
+One of the opportunities provided by the teachers who gave life without restricting free education, we met a child from Moneragala.
 
-ඒ, රීතිය හමුවේ, ප්‍රතික්ෂේප වීම් මත අනාගතය වෙනස් වන්නට ගොස්, ලැබුණු එක් අවස්ථාවක් නිසා ජීවිතය එළිය කරගත් සිසුවෙකි ඩී. එම්. තිළිණ ධනංජය.
+The following is the first time that the future is the best use of the opportunity to be the best of the opportunity to go to the opportunity and the opportunity to be darkened by the O / L examination.
 
-මේ සිසුවා මොනරාගල යුදගනාව විද්‍යාලයෙන් අධ්‍යාපන හදාරා 2020 දී අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිට තිබුණි.
+A student or student will have to choose the standard of the GCE O / L examination in the education system in Sri Lanka.
 
-කෙසේවෙතත්, එහි ප්‍රතිඵල මත උසස් පෙළ අධ්‍යාපනය සඳහා ඔහුට බොහෝ පාසල්වලින් දොර විවර නොවීය.
+The rule is a student who has led to the future, to change the future, to change the future.. M. Thilina Dananjaya.
+
+The student had appeared at the GCE Ordinary Level examination in 2020
+
+On the consequently, however, the door was opened from many schools to A / L education.
+
+Accordingly, the principal of the Principal of Pelwatta Maha Vidyalaya, Buttala. M. The opportunity to offer Mr. Nandasena, the biological systems they love to study A / Lsia.
 
 ...
 
 [Data](articles/dc3bd27c.json)
+
+[Extended Data](ext_articles/dc3bd27c.ext.json)
 
 ---
 
@@ -2313,23 +2347,5 @@ Semasinghe noted that the Bill also facilitates issuing guarantees, on-lending, 
 [Data](articles/43b62403.json)
 
 [Extended Data](ext_articles/43b62403.ext.json)
-
----
-
-### Sajith-Anura  Televised Debate on ITN  Fizzles out Due to SJB Leader Premadasa not Turning up at Studio;JVP leader AK Dissanayake Participates in ITN’s “Tulawa”Hosted by Sudarman Radaliyagoda Instead
-
-*2024-06-08 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84164) · `en`
-
-Samagi Jana Balawegaya (SJB) leader Sajith Premadasa did not attend the scheduled televised debate with National People’s Power (NPP) leader Anura Kumara Dissanayake on the Independent Television Network (ITN) last night (June 6).
-
-While Premadasa was absent, Dissanayake participated in the Thulawa political program, which was hosted by veteran broadcaster Sudarman Radaliyagoda.
-
-Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction with the ITN regarding its organisation of the debate between the SJB and the rival NPP. MP Bandara conveyed the party’s concerns in a letter to the state broadcaster, highlighting discrepancies in the planning process.
-
-...
-
-[Data](articles/5dc66623.json)
-
-[Extended Data](ext_articles/5dc66623.ext.json)
 
 ---

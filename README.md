@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 09:53:33**
+As of **2024-06-08 10:05:26**
 
 ## Newspaper Stats
 
-*Scraped **29,194** Articles*
+*Scraped **29,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 2,487
 adaderanalk | 3,302
 tamilmirrorlk | 3,426
 virakesarilk | 4,476
-dailymirrorlk | 4,638
-adaderanasinhalalk | 4,679
+dailymirrorlk | 4,639
+adaderanasinhalalk | 4,680
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,191 (100.0%) of 29,194 articles have been extended.
+29,194 (100.0%) of 29,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Afghanistan pull off upset win over New Zealand
+
+*2024-06-08 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-pull-off-upset-win-over-New-Zealand/108-284401) · `en`
+
+(Georgetown) - Rampant Afghanistan mauled a lethargic New Zealand by 84 runs to grab top spot in Group C at the T20 World Cup with an upset win at the Guyana National Stadium on Friday.
+
+Set a challenging 160 for victory, the Black Caps crashed to 75 all out off 15.2 overs to suffer their first defeat ever to Afghanistan in T20 International cricket.
+
+Opener Rahmanullah Gurbaz led the way for the Afghans with a top score of 80 off 56 balls (five fours, five sixes), posting 103 for the first wicket with Ibrahim Zadran (44) by the 15th over on the way to a final total of 159 for six after they were put in.
+
+Left-arm seamer Fazalhaq Farooqi then followed his five-wicket opening match demolition of Uganda with the first three wickets of the New Zealand innings before coming back to claim a fourth to end the match and complete figures of four for 17.
+
+...
+
+[Data](articles/f005d48e.json)
+
+---
+
+### ජය බංග්ලාදේශය ට
+
+*2024-06-08 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197517) · `si`
+
+පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති තරගයේ ජය වාර්තා කිරීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
+
+ඔවුන් පන්දු වාර 19කදී කඩුලු 08ක් දැවී ලකුණු 125ක් ලබා ගනිමින් ජය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/3cf378c6.json)
+
+---
 
 ### EXPLAINER: Implications of Modi’s narrow election victory on Sri Lanka
 
@@ -49,6 +81,8 @@ India has been pushing for land, oil, gas, and power grid connectivity in Sri La
 ...
 
 [Data](articles/e4e650a9.json)
+
+[Extended Data](ext_articles/e4e650a9.ext.json)
 
 ---
 
@@ -76,17 +110,23 @@ It is an increase of 11.8% compared to January - May of January - May 2023.
 
 ---
 
-### ඇෆ්ගනිස්ථානය හමුවේ නවසීලන්තයට දරුණු පරාජයක්
+### New Zealand defeated in Afghanistan
 
 *2024-06-08 09:18:06* · [`adalk`](https://www.ada.lk/sports/ඇෆ්ගනිස්ථානය-හමුවේ-නවසීලන්තයට-දරුණු-පරාජයක්/9-410077) · `si`
 
-විස්සයි20 ලෝක කුසලාන තරගාවලිය යටතේ ඇෆ්ගනිස්ථාන කණ්ඩායහම හා ශ්‍රී ලංකා කණ්ඩායම අතර පැවැති තරගයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම ලකුණු 84ක ජයක් වාර්තා කළේය.
+In the Twenty20 World Cup, Afghanistan triumphed over New Zealand, winning by 84 runs. In their innings, Afghanistan scored 159/6, while New Zealand could only manage 75 runs.
 
-නවසීන්තයේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්තානය ලකුණු 159/6ක් රැස්කළ අතර පිළිතුරු ඉනිම ක්‍රිඩා කළ නවසීලන්තයට සියලු දෙනා දැවි රැස්කළ හැකිවූයේ ලකුණු 75ක් පමණි.
+🟩
+
+The Afghan group wins 84 runs in the match between the Sri Lanka team under the Twenty20 World Cup.
+
+The Afghanistan scored 159 / six runs in the invitation of New Zealand and innings New Zealand scored only 75 runs for New Zealand.
 
 ◼️
 
 [Data](articles/640f7b79.json)
+
+[Extended Data](ext_articles/640f7b79.ext.json)
 
 ---
 
@@ -413,6 +453,8 @@ Sri Lanka’s external sector has now recovered after the central bank started t
 ...
 
 [Data](articles/02c03579.json)
+
+[Extended Data](ext_articles/02c03579.ext.json)
 
 ---
 
@@ -2043,59 +2085,5 @@ On 2 June 2022 President Biden published an op-ed in the New York Times titled �
 [Data](articles/8cbf025c.json)
 
 [Extended Data](ext_articles/8cbf025c.ext.json)
-
----
-
-### Mother and casual husband arrested for a four-year-old child
-
-*2024-06-07 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197502) · `si`
-
-A mother and her partner were arrested after allegedly assaulting a four-year-old child in Weligama. The incident occurred around 9 pm on the 6th, leading to the child being hospitalized. Both the mother, aged 25, and her 40-year-old partner, identified as the child's father, were taken into custody by Weligama Police. They will face charges at the Matara Magistrate's Court.
-
-🟩
-
-A mother and her misconduct had been arrested for a four-year-old child.
-
-A 25-year-old woman residing in the Weligama police division has assaulted his son, police said.
-
-However, about 9 pm yesterday (6th) have been seen by the area to the police emergency unit.
-
-The suspect was arrested by the Weligama Police OIC, Upul Kumara, who was immediately implemented by the officials and the four-year-old child was admitted to the Weligama District Hospital.
-
-It has been revealed that the child's mother and her casual husband, a resident of Moodagamuwa area, a 40-year-old man, had been attacked by the child.
-
-Accordingly, the woman and the casual her husband had been arrested by the Weligama Police.
-
-It has been revealed that the assault was made by the child claiming that the child had any time.
-
-The suspect, who has been arrested in connection with the incident and her casual husband is to be produced before the Matara Magistrate's Court.
-
-◼️
-
-[Data](articles/18125133.json)
-
-[Extended Data](ext_articles/18125133.ext.json)
-
----
-
-### Weapon - Review
-
-*2024-06-07 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185551) · `ta`
-
-"Review: 'Weapon' features Sathyaraj, Vasanth Ravi, and others in a sci-fi tale where a serum turns a man into a superhuman. Despite engaging modern tech elements like AI, the plot lacks depth on its purpose and side effects. Sathyaraj shines as the superhuman, but the film misses opportunities for humor and clarity. Tanya Hope and Rajiv Menon deliver strong performances amidst a storyline that could benefit from more focus on social development and less on indiscriminate violence."
-
-🟩
-
-Actors: Sathyaraj, Vasanth Ravi, Tanya Hope, Rajiv Menon, Mime Gopi, Velu Prabhakaran, Vinodini Vaidyanathan and many others.
-
-Sathyaraj - Vasant Ravi's heroes of the science fiction story 'Webman' attracted all the fans?Or not?We will continue to see.
-
-German dictator Hitler - A group of loyal scientists has produced a high -powered serum of opponents.. Leader Netaji Subhash Chandra Bose meets Germany Almighty Hitler to build the Indian National Army and fight independence against the English government. He is accompanied by a Tamil with him.Hitler group tells about Netaji about powerful serum. So Netaji refuses to do so. But a Tamil traveling with him abducts and returns to India.
-
-...
-
-[Data](articles/ba730e25.json)
-
-[Extended Data](ext_articles/ba730e25.ext.json)
 
 ---

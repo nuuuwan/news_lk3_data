@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 17:54:43**
+As of **2024-06-08 18:11:20**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 4,692
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,236 (100.0%) of 29,238 articles have been extended.
+29,238 (100.0%) of 29,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ගුණතිලක රාජපක්ෂ ට පහරදුන් සිද්ධිය ගැන ප්‍රකාශ සටහන් කරගනී
+### Gunatilake Rajapaksa records the incident
 
 *2024-06-08 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197531) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට පහර දීමේ සිද්ධිය සම්බන්ධයෙන් මන්ත්‍රීවරුන් තිදෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන තිබේ.
+Three MPs and Fort Police officers have recorded statements about an attack involving MP Gunatilake Rajapaksa. His son accused MP Mahindananda Aluthgamage of assault during a meeting. Rajapaksa filed a complaint with the Fort Police, who are now investigating.
 
-සිද්ධියට අදාළ විමර්ශන සිදුකරන කොටුව පොලීසියේ නිලධාරීන් කණ්ඩායමක් විසින් පාර්ලිමේන්තු සංකීර්ණයට ගොස් අදාළ ප්‍රකාශ සටහන් කර ගෙන ඇත.
+🟩
 
-එම පහරදීමේ සිද්ධිය සිදුවු බව කියන අවස්ථාවේදී ඒ අසල රැඳී සිටි මන්ත්‍රීවරුන්ගෙන් මෙලෙස ප්‍රකාශ සටහන් කරගෙන තිබේ.
+Three members have recorded statements from three MPs regarding the attack on MP Gunatilleke Rajapaksa.
 
-පසුගියදා පැවති මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා විසින් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදුන් බවට ඔහුගේ පුත් නිලුපුල් රාජපක්ෂ විසින් පසුගියදා කොටුව පොලීසිය හමුවේ පැමිණිල්ලක් සිදුකළේය.
+A group of Fort Police officers have gone to the parliament complex and recorded statements related to the investigation.
 
-එම සිද්ධියට අදාළව ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා ද ලිඛිත පැමිණිල්ලක් කොටුව පොලිස් ස්ථානයට භාරදී ඇති බව සඳහන්ය.
+Speaking to MPs who stayed in the nearby incidents had been recorded at the incident.
 
-මෙම පැමිණිලිවලට අදාළව කොටුව පොලීසිය මෙලෙස විමර්ශනයක් ආරම්භ කර තිබේ.
+His son Nilauupul Rajapakse lodged a complaint with the Fort police that MP Mahindananda Aluthgamage had assaulted MP Mahindananda Aluthgamage at the recently confessing group meeting.
+
+MP Gunatilake Rajapaksa has also lodged a written complaint to the Fort Police Station.
+
+The Fort Police have launched this investigation.
 
 ◼️
 
 [Data](articles/b75bcc4f.json)
 
+[Extended Data](ext_articles/b75bcc4f.ext.json)
+
 ---
 
-### ගගනගාමී විලියම් ඇන්ඩර්ස් අනතුරකින් මරුට
+### Aeronautical toroad William Anders die in an accident
 
 *2024-06-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197530) · `si`
 
-කුඩා ගුවන්යානයක් වොෂින්ටන් හිදී කඩාවැටී සිදුවූ අනතුරකින් එහි ගමන්ගත් අමෙරිකානු ගගනගාමී විලියම් ඇන්ඩර්ස් මියගොස් තිබේ.
+William Anders, a US astronaut known for his historic moon orbit during the Apollo 8 mission in 1968, tragically passed away in a Washington accident. His iconic Earthrise photograph remains a significant contribution to space exploration.
 
-අමෙරිකානු ගගනගාමී විලියම් ඇන්ඩර්ස් වාර්තා අතරට එක්වන්නේ 1968 වසරේ අපලෝ 08 මෙහෙයුම යටතේ සඳේ කක්ෂයට ඇතුළු වූ ගගනගාමීන් තිදෙනාගෙන් අයෙක් ලෙසය.
+🟩
 
-අභ්‍යවකාශයේ සිට ගත් පෘථිවියේ වඩාත්ම ආශ්වාදජනක ඡායාරූපයක් වන Earthrise ඡායාරූපය කැමරාවට හසුකරගෙන ඇත්තේද විලියම් ඇන්ඩර්ස් ය.
+US Aehimen William Anders has died in an accident in Washington.
 
-එම ඡායාරූපය සැලකෙන්නේ ඇපලෝ 8 අභ්‍යවකාශ මෙහෙයුමට ඔහුගෙන් හිමිවූ විශාලතම දායකත්වය ලෙසය.
+US A / L William Anders Records as one of the three astroads entered the moon orbelling in 1968.
+
+William Anders, which is the most inspiring photograph of the planet, has been captured on the camera.
+
+The photo is considered the largest contribution to the Apollo 8 space mission.
 
 ◼️
 
 [Data](articles/c96ba26e.json)
+
+[Extended Data](ext_articles/c96ba26e.ext.json)
 
 ---
 

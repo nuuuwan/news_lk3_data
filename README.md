@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 06:20:36**
+As of **2024-06-08 06:59:41**
 
 ## Newspaper Stats
 
-*Scraped **29,157** Articles*
+*Scraped **29,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,421
 virakesarilk | 4,474
-dailymirrorlk | 4,632
+dailymirrorlk | 4,635
 adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,157 (100.0%) of 29,157 articles have been extended.
+29,157 (100.0%) of 29,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Sri Lanka lobbies UN for territorial sea expansion
+
+*2024-06-08 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-lobbies-UN-for-territorial-sea-expansion/108-284365) · `en`
+
+June 07 - Sri Lanka is successfully lobbying for the increase of the size of its Exclusive Economic Zone or the country’s territorial sea in cooperation with the Maldives avoiding any conflict between the two sides on overlapping claims, the Daily Mirror learns.
+
+The ‘Exclusive Economic Zone' is an area of the ocean, generally extending 200 nautical miles (230 miles) beyond a nation's territorial sea, within which a coastal nation has jurisdiction over both living and non-living resources.
+
+Sri Lanka submitted in May 2009 technical and scientific data and other information to the UN Commission on the Limits of the Continental Shelf for the establishment of the outer limits of the continental shelf beyond Sri Lanka’s Exclusive Economic Zone of 200 nautical miles under the United Nations Convention on the Law of the Sea.
+
+...
+
+[Data](articles/e5141e6e.json)
+
+---
 
 ### Focus on products that can win the Export Market
 
@@ -1636,6 +1652,24 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 
 ---
 
+### Rainfall to enhance in coming days
+
+*2024-06-07 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rainfall-to-enhance-in-coming-days/155-284347) · `en`
+
+Colombo, June 07 (Daily Mirror) - The prevailing rainy conditions in the south-western part of Sri Lanka are expected to intensify over the next few days, beginning tomorrow, June 8.
+
+According to the latest weather report by the Meteorological Department, showers are expected at various times in the Western, Sabaragamuwa and Southern Provinces, as well as in the Kandy and Nuwara Eliya districts.
+
+Certain areas in the Western and Sabaragamuwa Provinces, along with the Nuwara Eliya, Galle and Matara districts may experience fairly heavy showers exceeding 50 mm.
+
+In addition to these areas, the North-Western, Northern and North-Central Provinces are likely to see several spells of showers. The Uva Province, along with the Ampara and Batticaloa districts may encounter showers or thundershowers at a few places during the evening or night.
+
+...
+
+[Data](articles/d39bc714.json)
+
+---
+
 ### 'Culinary Arts Food Expo'
 
 *2024-06-07 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Culinary-Arts-Food-Expo/110-284345) · `en`
@@ -2113,45 +2147,5 @@ However, the Railway Department has announced that the train services will be re
 [Data](articles/c0871dbb.json)
 
 [Extended Data](ext_articles/c0871dbb.ext.json)
-
----
-
-### Railway strike continues
-
-*2024-06-07 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197496) · `si`
-
-Railway strike persists as drivers' union announces a group of train operators initiated the action from midnight yesterday.
-
-🟩
-
-The railway drivers have announced that a group of train operators launched from midnight yesterday (06).
-
-◼️
-
-[Data](articles/9a7adcd6.json)
-
-[Extended Data](ext_articles/9a7adcd6.ext.json)
-
----
-
-### Tomorrow's main road is closed
-
-*2024-06-07 14:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முக்கிய-வீதி-ஒன்று-மூடப்படுகின்றது/175-338588) · `ta`
-
-The Kadugannawa section of the Colombo-Kandy main road will be closed tomorrow from 10:30 am to 6:30 pm due to removal of dangerous rocks and trees.
-
-🟩
-
-The Kadugannawa area will be temporarily closed under the Colombo -Kandy main road tomorrow (08), Kegalle District Secretary said.
-
-He said that the road is closed to remove the dangerous rocky stones and trees on the road.
-
-Accordingly, the Kegalle District Secretary said that it will be closed from time to time from 10.30 am to 6.30 pm.. Remble
-
-◼️
-
-[Data](articles/0d6320f4.json)
-
-[Extended Data](ext_articles/0d6320f4.ext.json)
 
 ---

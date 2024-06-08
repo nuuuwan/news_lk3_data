@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 22:34:14**
+As of **2024-06-08 22:52:07**
 
 ## Newspaper Stats
 
-*Scraped **29,263** Articles*
+*Scraped **29,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,491
 adaderanalk | 3,313
-tamilmirrorlk | 3,433
+tamilmirrorlk | 3,434
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,703
+adaderanasinhalalk | 4,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,262 (100.0%) of 29,263 articles have been extended.
+29,263 (100.0%) of 29,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### සා පෙළ පිළිතුරු පත්‍ර පරීක්ෂා කිරීම් ඇරඹෙයි
+
+*2024-06-08 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197543) · `si`
+
+2023 වසරට අදාළව පැවති අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු අද (08) ආරම්භ කෙරුණි.
+
+පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු පසුගිය 06 වනදා ආරම්භ කිරීමට නියමිත ව තිබුණ ද දිවයිනට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම කටයුතු දින දෙකකින් කල් දැමීමට විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පියවර ගත්තේය.
+
+පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු අද දිනයේ සිට කිසිදු ගැටලුවකින් තොරව ආරම්භ කළ බව විභාග කොමසාරිස් ජනරාල්වරයා සඳහන් කළේය.
+
+ඒ අනුව අද දිනයේ සිට 17 වනදා දක්වා මධ්‍යස්ථාන 101ක දී පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු සිදුකෙරේ.
+
+පසුගිය මැයි 06 වන දා ආරම්භ වු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය 15 වනදා දක්වා පැවැත්වුණි.
+
+මේ අතර 2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණය සඳහා අයඳුම් පත් කැඳවීම මේ වන විට සිදුකෙරේ.
+
+නැවත සමීක්ෂණය සඳහා අයදුම්පත්‍ර මාර්ගගත ක්‍රමවේදය ඔස්සේ පමණක් කැඳවන අතර එය එළඹෙන 19 දක්වා සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/fc3e249b.json)
+
+---
 
 ### President Ranil among leaders attending Modi’s swearing-in ceremony on Sunday
 
@@ -47,6 +71,8 @@ The foreign ministry also released a video on “know the esteemed guests from I
 ...
 
 [Data](articles/0dba81d7.json)
+
+[Extended Data](ext_articles/0dba81d7.ext.json)
 
 ---
 
@@ -67,6 +93,22 @@ Accordingly, they decided to give the Australian team first to bat first.
 [Data](articles/786a6a62.json)
 
 [Extended Data](ext_articles/786a6a62.ext.json)
+
+---
+
+### 31 கிலோ கேரளா கஞ்சாவுடன் சிக்கிய இளைஞன்
+
+*2024-06-08 21:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/31-கிலோ-கேரளா-கஞ்சாவுடன்-சிக்கிய-இளைஞன்/71-338622) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி மணற்காட்டு பகுதியில் 31 கிலோ கேரளா கஞ்சாவுடன் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த பகுதியில் கஞ்சா பொதிகளை இளைஞன் ஒருவர் பதுக்கி வைப்பதாக இராணுவ புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற ரகசியத் தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த இராணுவத்தினர் , கஞ்சா பொதிகளுடன் இளைஞனைக் கைது செய்துள்ளனர்.
+
+மீட்கப்பட்ட கஞ்சா பொதிகள் 31 கிலோ நிறையுடையது எனவும் , கைது செய்யப்பட்ட இளைஞனையும் , மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக பருத்தித்துறை பொலிஸாரிடம் ஒப்படைத்துள்ளதாக இராணுவ தரப்பினர் தெரிவித்துள்ளனர்.  R
+
+◼️
+
+[Data](articles/f203f338.json)
 
 ---
 
@@ -2297,59 +2339,5 @@ Under the agricultural modernization program implemented in 26 selected division
 [Data](articles/b9e9bc7f.json)
 
 [Extended Data](ext_articles/b9e9bc7f.ext.json)
-
----
-
-### Canada beat Ireland and won the first win in the R20 World Cup
-
-*2024-06-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185575) · `ta`
-
-In the R20 World Cup, Canada secured its first victory against Ireland, winning by 12 runs. This historic win occurred in their debut appearance in the tournament. Despite Ireland's strong start, scoring 53 runs in the 11th over, Canada's bowlers Jeremy Gordon and Dilon Haligarer took crucial wickets, limiting Ireland to 125 runs. Canada's batting performance was led by Nicholas Carton and Shreyas Moawa, whose partnership contributed significantly to Canada's total of 137 runs.
-
-🟩
-
-Canada won Ireland by 12 runs in the R20 World Cup for A Group, which ended shortly before the New York Nasav Kanderi International Cricket Stadium.
-
-This is the first win in Canada's debut in this year's World Cup.
-
-Ireland's 16th over was not interesting in the match as the two teams scored the run.
-
-However, when Mark Adyar and George Dogrell began to hit the 17th over in the match, there was some excitement in the match. They were unable to prevent Canada's victory as the two of them were delayed.
-
-In response, Ireland lost 7 wickets in 20 overs and lost 125 runs.
-
-Ireland scored 53 runs for the loss of 5 wickets in the 11th over.
-
-In the forefront, both Andy Belberney (17) and Lokan Tucker (10) received double -digit numbers.
-
-The total number of wickets in the 13th over was just 59 runs.
-
-George Dogrell and Mark Adayar joined the 7th wicket and shared 62 runs.
-
-But in the last over, Ireland's success was dismantled by Mark Adyar's 34 runs.
-
-...
-
-[Data](articles/f4725141.json)
-
-[Extended Data](ext_articles/f4725141.ext.json)
-
----
-
-### Prime Minister meets European Union delegation
-
-*2024-06-08 00:39:47* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-meets-European-Union-delegation/56-762818) · `en`
-
-Prime Minister Dinesh Gunawardena yesterday held a discussion with the European Union Exploratory Mission (ExM) of the EU Election Observatory Mission (EOM) at the Temple Trees.
-
-The delegation discussed issues pertaining to forthcoming elections in Sri Lanka and explained the EU’s methods of election monitoring after entering into an agreement with the Government and the Election Commission.
-
-When they said that there were rumours regarding the next election, the Prime Minister stated that the Constitutional Provision was very clear on the Presidential Election and already the Election Commission has made an announcement with this regard. He assured that elections will be held in accordance with the constitution and the elections will be free and fair.
-
-...
-
-[Data](articles/544d9b33.json)
-
-[Extended Data](ext_articles/544d9b33.ext.json)
 
 ---

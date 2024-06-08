@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 23:53:38**
+As of **2024-06-09 00:05:26**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ adaderanasinhalalk | 4,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,270 (100.0%) of 29,271 articles have been extended.
+29,271 (100.0%) of 29,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### දකුණු අප්‍රිකාවට තියුණු ජයක්
+### South Africa becoming a sharp win
 
 *2024-06-08 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197544) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නෙදර්ලන්තය සහ දකුණු අප්‍රිකාව අතර අද (08) පැවැති තරගය කඩුලු 4කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+South African team won the match between the Netherlands and South Africa in the World Cup today (08).
 
-නිව්යෝක් හි නසාවු ක්‍රීඩාංගණයේ පැවැති එම තරගයේ කාසියේ වාසිය දිනු දකුණු අප්‍රිකානු කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමෙ සඳහා නෙදර්ලන්ත කණ්ඩායමට ආරාධනා කළේය.
+The leader of the South African group, won the toss and elected to bat first, the leader of the match was played at the Nassawu Stadium in New York.
 
-ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් නෙදර්ලන්ත කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 103ක් රැස්කළේය.
+Accordingly, the Netherlands scored 103 runs for the loss of 9 wickets in the end of the squad.
 
-එහිදී  නෙදර්ලන්ත කණ්ඩායම වෙනුවෙන් Sybrand Engelbrecht  ලකුණු 40ක් රැස්කළ අතර Logan van Beek  ලකුණු 23ක් රැස් කළේය.
+The Syrabrand EngelBrecht scored 40 runs for the Netherlands team, while logan van beek scored 23 runs.
 
-ඒ අනුව ලකුණු 103ක ඉලක්කයක් හඹාගිය දකුණු අප්‍රිකානු කණ්ඩායම පන්දුවාර 18යි පන්දු 5කදී කඩුලු 6දැවී .ලකුණු 106ක් රැස්කරමින් තරගයේ ජයග්‍රහණය වාර්තා කළේය.
+Chasing a target of 103, South Africa scored 106 wickets in 18 overs.
 
 ◼️
 
 [Data](articles/1e9ffd18.json)
+
+[Extended Data](ext_articles/1e9ffd18.ext.json)
 
 ---
 

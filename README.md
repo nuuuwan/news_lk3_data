@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 20:35:04**
+As of **2024-06-08 20:53:08**
 
 ## Newspaper Stats
 
-*Scraped **29,253** Articles*
+*Scraped **29,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,66 @@ newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
-adalk | 2,489
+adalk | 2,491
 adaderanalk | 3,311
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,697
+adaderanasinhalalk | 4,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,251 (100.0%) of 29,253 articles have been extended.
+29,253 (100.0%) of 29,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### වනිඳු ට එපා වුණා ද ?
+### රැකියා ඇබෑර්තු දමා කාන්තාවන් සිර කරගන්නා ජාවාරමක්
+
+*2024-06-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197537) · `si`
+
+වසර 4ක් තිස්සේ රැකියා ඇබෑර්තු දැන්වීම් පළ කර කාන්තාවන් නිවසට ගෙන්වා විවිධ ලිංගික ක්‍රියාකාරකම්වල යෙදවූ යුවළක් අත්අඩංගුවට ගෙන තිබේ.
+
+එලෙස පැමිණෙන කාන්තාවක්  සිර කර විවිධ ලිංගික ක්‍රියාකාරකම්වල යොදවා ඒවා වීඩියෝගත කර මුදලට අලෙවි කිරීම මෙම යුවළ විසින් සිදුකර ඇති බව පැවසෙයි.
+
+සැකකාර යුවළ අත්අඩංගුවට ගෙන ඇත්තේ නුගේගොඩ ළමා හා කාන්තා අපරාධ නිවාරණ කාර්යාංශය විසිනි.
+
+මීට දින කිහිපයකට පෙර නුගේගොඩ පිහිටි මෙම නිවසට පැමිණ අදාළ සිදුවීමට මුහුණදී නිවසෙන් පැනගිය බදුල්ල සහ වැල්ලේගෙදර පදිංචි කාන්තාවන් දෙදෙනෙකු කළ පැමිණිලි අනුව සිදුකළ වැටලීමකදී මෙම යුවළ අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bf586d30.json)
+
+---
+
+### Did you hate to Fanma?
 
 *2024-06-08 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197536) · `si`
 
-බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර අද (08) පැවැති තරගයෙන් අනතුරුව පැවති ප්‍රවෘත්ති සාකච්ඡාවට ශ්‍රී ලංකා නායක වනිඳු හසරංග සහභාගි නොවීය.
+In a press conference, Sri Lanka's Faninu Hasaranga didn't address questions about his absence, leaving them to Nuwan Thushara and the Team Manager. The journalist queried if the inclusion of fast bowlers affected their defeat, to which the Group Manager acknowledged room for improvement but didn't directly link it to the loss. The journalist praised Nuwan Thushara's bowling, suggesting he could've influenced the match outcome with more balls.
 
-ඒ වෙනුවට වේගපන්දු යවන ක්‍රීඩක නුවන් තුෂාර සහ කණ්ඩායම් කළමණාකරු සහභාගී වුවත් මාධ්‍යවේදීන් නැගූ බොහෝ ප්‍රශ්ණවලට ඔවුන් නිරුත්තර විය.
+🟩
 
-මාධ්‍යවේදියා - ටෙස්ට් සංචිතයේ ඉන්න ඕන පිතිකරුවන් 20-20 සංචිතයේ ඉන්නවා. නමුත් වේගයෙන් පන්දුවට පහරදෙන පිතිකරුවෝ එළියේ ඉන්නවා. මේකද පරාජයට හේතුව?
+Sri Lanka captain Faninu Hasaranga did not participate in press conference between the Bangladesh team and the Sri Lankan team today.
 
-ශ්‍රී ලංකා කණ්ඩායම් කළමණාකරු මහින්ද අලංගොඩ -  තේරීම් කමිටුවට තමයි ඒක යොමු කරන් ඕනේ. නමුත් තව ලකුණු රැස් කරන්න තිබුණා. ඒක මම පිළිගන්නවා.
+Instead, they were absconded to many questions that came up with a team of fast bowler Nuwan Thushara and Team Manager.
 
-මාධ්‍යවේදියා - අපි දැක්කා නුවන් ඔයා ගොඩක් හොඳින් පන්දු යවලා අවසන් මොහොත දක්වා තරගය ගෙනාවා. ඔබ හිතන්නේ නැද්ද තරගය මැදදි තව පන්දුයවන්නෙකු පන්දු වාරයක් යැව්වා නම් තරගය බේරගන්න තිබුණා කියලා.
+Journalist - In the Test squad is in the squad of 20-20 squad. But there are batsmen who are batsman that hit fast rapidly. Is this the cause of defeating?
 
-නුවන් තුෂාර -  නායකයෙක් විදිහට වනිඳු තමයි තීරණය ගත්තේ. මම ක්‍රීඩා කරන්නේ කණ්ඩායමට ඕනේ විදිහට.
+Sri Lanka Group Manager Mahinda Angoda - Selection Committee needs to be referred to. But could have scored more marks. I accept it.
+
+Journalist - We saw the Nuwan you were very bowling and brought the match until the last moment. You don't think you could have saved the contest if he sent another ball in the match.
+
+Found Thushara is a leader as a leader. I play the team to the group.
 
 ◼️
 
 [Data](articles/3caf68b3.json)
+
+[Extended Data](ext_articles/3caf68b3.ext.json)
 
 ---
 
@@ -65,6 +89,30 @@ Meanwhile, the Kegalle District Secretary had announced yesterday that the Colom
 ◼️
 
 [Data](articles/42e57849.json)
+
+[Extended Data](ext_articles/42e57849.ext.json)
+
+---
+
+### අපිට හැමදාම හිඟන ජාතියක් වෙන්න බෑ
+
+*2024-06-08 20:09:40* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-හැමදාම-හිඟන-ජාතියක්-වෙන්න-බෑ/11-410082) · `si`
+
+ආර්ථික පරිවර්තන පනත් කෙටුම්පත ඉදිරිපත් කරමින් මෙරට ආර්ථිකය නිවැරදි මගකට ගෙන ඒමේ ‍පළමු පියවර තබා තිබෙනවා
+
+මෙරට තරුණ තරුණියන් වෙනුවෙන් දියුණු රටක් ගොඩනැඟිය යුතුයි – ජනපති.
+
+ආර්ථික පරිවර්තන පනත් කෙටුම්පත ඉදිරිපත් කරමින් මෙරට ආර්ථිකය නිවැරදි මගකට ගෙන ඒමේ ‍පළමු පියවර රජය විසින් තබා ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+කුමන ආණ්ඩුවක් බලයට පැමිණිය ද, කුමන නායකයෙක් රට භාරගත්තද එම එකඟතාව සමඟ ඉදිරියට යා යුතු බව පෙන්වා දුන් ජනාධිපතිවරයා රටේ බිඳ වැටුණු ආර්ථිකය ගොඩනැඟිය හැකි වනුයේ නිසි සැලැස්මක් ඔස්සේ කටයුතු කිරීමෙන් පමණක් බව ද අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඒකල ප්‍රදේශයේ ඉදි කෙරුණු Cephalosporin එන්නත් හා මෙල්ඩෝල් නිෂ්පාදන කර්මාන්තශාලාව විවෘත කිරීමේ අවස්ථාවට ඊයේ (06) පස්වරුවේ එක්වෙමිනි.
+
+මෙල්වා සමූහ ව්‍යාපාරය යටතේ Sands Active පුද්ගලික සමාගම විසින් මෙම නිෂ්පාදන කටයුතු ආරම්භ කර ඇති අතර සමරු ඵලකය නිරාවරණය කර නව කර්මාන්තශාලාව විවෘත කළ ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවකද නිරත විය.
+
+...
+
+[Data](articles/2f3efc74.json)
 
 ---
 
@@ -89,6 +137,20 @@ From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in 
 [Data](articles/9d6eeb30.json)
 
 [Extended Data](ext_articles/9d6eeb30.ext.json)
+
+---
+
+### ශවේන්ද්‍ර සිල්වාට සේවා දිගුවක්
+
+*2024-06-08 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වාට-සේවා-දිගුවක්/11-410080) · `si`
+
+ආරක්ෂක මාණ්ඩලික ප්‍රධානි ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතාට සේවා දිගුවක් ලබාද‍ිමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+
+ඒ අනුව ජූනි මස 1 වන දා සිට 2024 දෙසැම්බර් 31 වනදා දක්වා ඔහුට සේවා දිගුවක් ලබාදෙමින් අති වි‍ශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/30028e76.json)
 
 ---
 
@@ -2219,59 +2281,5 @@ The Government of the Republic of Maldives with the concurrence of the Governmen
 [Data](articles/d4991616.json)
 
 [Extended Data](ext_articles/d4991616.ext.json)
-
----
-
-### Sri Lanka mission in Canberra hosts Australia-Sri Lanka Parliamentary Friendship Group
-
-*2024-06-08 00:07:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-mission-in-Canberra-hosts-Australia-Sri-Lanka-Parliamentary-Friendship-Group/56-762812) · `en`
-
-The Sri Lanka High Commission in Canberra in collaboration with the Australia-Sri Lanka Parliamentary Friendship Group organised an event on 28 May to mark the first anniversary of the re-launching of the Group as well as to celebrate significant cultural and religious festivals namely the Sinhala and Tamil New Year and Vesak.
-
-Australian Assistant Foreign Minister Tim Watts was the Guest of Honour.
-
-Sri Lanka born Cassandra Fernando, MP of the Federal Parliament and Labour Party member as the Chair of the Group together with Senator James McGrath of the Liberal Party, the Vice Chair were associated with the invitation.
-
-The guest list included over 15 MPs of the House of Representatives and the Senate, as well as officials from the Department of Foreign Affairs and Trade, and Research Assistants from the Parliament.
-
-...
-
-[Data](articles/eab4516f.json)
-
-[Extended Data](ext_articles/eab4516f.ext.json)
-
----
-
-### Ambassador-designate of Sri Lanka to Myanmar assumes duties
-
-*2024-06-08 00:04:52* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-designate-of-Sri-Lanka-to-Myanmar-assumes-duties/56-762811) · `en`
-
-The newly appointed Ambassador-designate of Sri Lanka to Myanmar Prabashini Ponnamperuma assumed duties at the Sri Lanka Embassy in Yangon on 3 June.
-
-Addressing the staff of the Embassy upon assumption of duties, the Ambassador stated that she is dedicated to strengthening the longstanding friendly relations between Sri Lanka and Myanmar, based on Theravada Buddhism. She also highlighted the need to enhance economic, political, and cultural connectivity between the two countries for mutual benefit.
-
-Ambassador-designate Ponnamperuma is a career Foreign Service Officer with more than 21 years of service in Sri Lanka Foreign Service, who held different positions in the Ministry of Foreign Affairs and Sri Lanka Missions abroad.
-
-◼️
-
-[Data](articles/cf1beeec.json)
-
-[Extended Data](ext_articles/cf1beeec.ext.json)
-
----
-
-### Sri Lanka represented at 21st IISS Shangri-La Dialogue 2024 in Singapore
-
-*2024-06-08 00:04:17* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-represented-at-21stIISS-Shangri-La-Dialogue-2024-in-Singapore/56-762810) · `en`
-
-The 21st Shangri-La Dialogue 2024, Asia’s premier security summit, organised by the International Institute for Strategic Studies (IISS), took place in Singapore from 31 May to 2 June.
-
-The Dialogue brings together defence ministers, military chiefs, and high-ranking officials from around the world to discuss urgent security challenges, to exchange views on the most significant security issues faced in the Asia Pacific Region and promote international cooperation. The summit was attended by representatives from 45 countries, with 49 ministerial-level delegates, over 40 senior defence officials and esteemed academics. Sri Lanka was represented at the summit by Chief of Defence Staff General Shavendra Silva, Sri Lanka Navy Commander Vice Admiral Priyantha Perera, and High Commissioner of Sri Lanka to Singapore Senerath Dissanayaka.
-
-...
-
-[Data](articles/3b961fe3.json)
-
-[Extended Data](ext_articles/3b961fe3.ext.json)
 
 ---

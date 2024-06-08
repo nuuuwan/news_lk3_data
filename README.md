@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 08:34:19**
+As of **2024-06-08 08:53:03**
 
 ## Newspaper Stats
 
-*Scraped **29,177** Articles*
+*Scraped **29,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
 adalk | 2,484
-adaderanalk | 3,300
+adaderanalk | 3,301
 tamilmirrorlk | 3,424
 virakesarilk | 4,474
 dailymirrorlk | 4,635
-adaderanasinhalalk | 4,676
+adaderanasinhalalk | 4,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,177 (100.0%) of 29,177 articles have been extended.
+29,177 (100.0%) of 29,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### නවසීලන්තය ට අන්ත පරාජයක්
+
+*2024-06-08 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197514) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ නවසීලන්තය සහ ඇෆ්ගනිස්තානය අතර පැවති තරගය ජයග්‍රහණය කිරීමට ඇෆ්ගනිස්තානය සමත්විය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6 ක් දැවී ලකුණු 159ක් රැස්කළේය.
+
+ඒ අනුව මෙම තරගය ලකුණු 84කින් ජය ලැබීමට ඇෆ්ගනිස්තානය සමත්විය.
+
+◼️
+
+[Data](articles/00769b94.json)
+
+---
+
+### Workers’ remittances increase to USD 544.4 million in May
+
+*2024-06-08 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99738/workers-remittances-increase-to-usd-5444-million-in-may) · `en`
+
+The inflow of workers’ remittances to Sri Lanka has exhibited an improvement in recent months with the country recording an inflow of USD 544.4 million for May 2024.
+
+According to the Central Bank of Sri Lanka (CBSL), the cumulative figure for the period from January to May 2024 is USD 2,624.4 million.
+
+This is an increase of 11.8% compared to the same period last year.
+
+◼️
+
+[Data](articles/c99201a5.json)
+
+---
 
 ### Father and daughter killed after train hits car at Enderamulla
 
@@ -2049,57 +2081,5 @@ Showers or thundershowers will occur at several places in the Ampara and Ampara 
 [Data](articles/588a62f7.json)
 
 [Extended Data](ext_articles/588a62f7.ext.json)
-
----
-
-### A change in the weather again
-
-*2024-06-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197500) · `si`
-
-Expect heavy rainfall in the southwest, western, southern, and central regions of the island over the next few days, with intense showers in specific areas like Nuwara Eliya, Galle, and Matara. Strong winds of 40-50 km/h are forecasted in the northern, north-central, and northwestern provinces. The Department of Meteorology advises caution against lightning and wind-related accidents.
-
-🟩
-
-The Department of Meteorology announces that a rainy industry in the southwest part of the island will be expected in the next few days.
-
-Accordingly, there will be showers at times in the Western, Sabaragamuwa and Southern provinces and at times in the Kandy and Nuwara Eliya Districts.
-
-In the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle, Galle and Matara districts will experience more than 50 mm.
-
-Several spells of showers can also be in the North Western, North and North Central provinces.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-There are 40-50 strong winds in the North, North Central and Northwestern provinces, Trincomalee and Hambantota districts.
-
-The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/c7d8b577.json)
-
-[Extended Data](ext_articles/c7d8b577.ext.json)
-
----
-
-### "If you kill me, you are responsible for those who are behind this"
-
-*2024-06-07 16:12:31* · [`adalk`](https://www.ada.lk/breaking_news/“මාව-මරල-දැම්මොත්-මේකෙ-පිටිපස්සෙ-ඉන්න-අය-වගකිව-යුතුයි“/11-410071) · `si`
-
-In a parliamentary session, Dr. Harsha De Silva, Chairman of the Cash Committee, accused unnamed individuals of sabotaging an investigation into a visa deal, threatening his life, and causing a catastrophe. He demanded increased security and criticized unnamed committee members for not allowing proper discussion on the matter. He hinted at resigning from his position due to pressure and embarrassment.
-
-🟩
-
-Leader of the Opposition, Dr. Harsha De Silva, threatened by the Chairman of the Cash Committee, threatens him and that the transaction has been threatened today and that this transaction has caused a catastroy.(07) He said in parliament.
-
-Dr. Harsha de Silva, Chairman of the Cash Committee Dr. Harsha de Silva was disclosed in Parliament that the Finance Committee tried to investigate the visa deal, but a group of committee sabotaged it. He also requested the Speaker to strengthen his protection in this regard.
-
-"The Committee begins a report on the Visa issue. Who wants to hit me?What if I was killed when on the road?The Hon. Speaker is hard to you. You have responsibility for my safety. This is a billions of dollars. The Hon. Speaker, the Hon. Speaker, the backyard of the backyards have to be held.What tell me?Are you corrupting fraud?Can you threaten and accuse this? "
-
-...
-
-[Data](articles/adf39c2e.json)
-
-[Extended Data](ext_articles/adf39c2e.ext.json)
 
 ---

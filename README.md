@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 09:04:01**
+As of **2024-06-08 09:19:14**
 
 ## Newspaper Stats
 
-*Scraped **29,187** Articles*
+*Scraped **29,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,62 @@ newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
-adalk | 2,484
+adalk | 2,485
 adaderanalk | 3,302
 tamilmirrorlk | 3,426
 virakesarilk | 4,476
 dailymirrorlk | 4,638
-adaderanasinhalalk | 4,677
+adaderanasinhalalk | 4,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,179 (100.0%) of 29,187 articles have been extended.
+29,187 (100.0%) of 29,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ரயில் விபத்தில் தந்தையும் மகளும் மரணம்
+### Father and daughter dies in train accident
 
 *2024-06-08 08:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-தந்தையும்-மகளும்-மரணம்/175-338614) · `ta`
 
-என்டேரமுல்ல ரயில் கடவையில் இன்று காலை இடம்பெற்ற விபத்தில் தந்தையும் மகளும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A tragic train accident at Enteramulla resulted in the deaths of a father and his daughter. The incident occurred when a car was hit by a train at a railway crossing. Police are investigating the cause of the accident.
 
-குறித்த ரயில் கடவையில் பயணித்த கார் ஒன்றின் மீது ரயில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தின் போது காரில் பயணித்த தந்தையும் மகளுமே உயிரிழந்துள்ளதாக தெரிவித்துள்ள பொலிஸார் விபத்து குறித்து மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+The father and daughter died in an accident this morning at the Enteramulla railway crossing, police said.
+
+The accident occurred when a train collided with a car traveling in the train.
+
+Police are conducting further investigations into the accident.. Remble
 
 ◼️
 
 [Data](articles/12652dd9.json)
+
+[Extended Data](ext_articles/12652dd9.ext.json)
+
+---
+
+### චීවරධාරියෙකුගේ පහරදීමකින් පුද්ගලයෙකු මරුට
+
+*2024-06-08 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197515) · `si`
+
+ගිරිඋල්ල- කජුලන්දවත්ත මාරවිල ප්‍රදේශයේ නිවසක වැඩවිසූ චීවරධාරියෙකුගේ පහරදීමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් තිබේ.
+
+පුද්ගලයෙකු තුවාල ලබා නිවසක් තුළ සිටින බවට ගිරිඋල්ල පොලීසියට ලැබුණු තොරතුරක් මත සිදුකළ විමර්ශනයක දී තුවාලකරුවාව සොයාගෙන තිබේ.
+
+පසුව තුවාලකරු දඹදෙනිය රෝහලට ඇතුළු කර ප්‍රථිකාර ලබමින් සිටිය දී ඔහු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+එම සැකකරු විහාරස්ථානයක වාසය නොකර මාරවිල ප්‍රදේශයේ පිහිටි මවගේ නිවසේ වැඩවසන බවත්, අධික මත්පැන් පානය සඳහා ද ඇබ්බැහි වී සිටින බවටත් අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+පහරදීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගිරිඋල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/3a494a90.json)
 
 ---
 
@@ -104,6 +130,8 @@ Afterwards, the Commission established a sub-commission to engage with Sri Lanka
 
 [Data](articles/d4d94065.json)
 
+[Extended Data](ext_articles/d4d94065.ext.json)
+
 ---
 
 ### Father and daughter killed after train hits car at Enderamulla
@@ -136,19 +164,29 @@ A 54-year-old man from Biyagama and a 34-year-old woman, who was employed in the
 
 [Data](articles/a9973541.json)
 
+[Extended Data](ext_articles/a9973541.ext.json)
+
 ---
 
-### பொது இடங்களில் மதுபானசாலை அனுமதிபத்திரம் வழங்குவதை அரசாங்கம் நிறுத்த வேண்டும் - சஜித் சபையில் கோரிக்கை
+### The government should stop issuing liquor permits in public places
 
 *2024-06-08 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185577) · `ta`
 
-அரசாங்கம் விநியோகித்துவரும் மதுபான உரிமப்பத்திரம் வழங்கும் திட்டம் போதையற்ற தேசத்தை உருவாக்கும் கொள்கைக்கு எதிரானதாகும். அத்துடன் சுற்றுலாத் தொழில் முன்னெடுக்கப்படாத கிராமங்களுக்குள்ளேயும் இதற்கான அனுமதிகள் வழங்கப்பட்டுள்ளன என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticizes the government for issuing liquor licenses in non-tourist areas, arguing it contradicts national development goals. Religious leaders, civilians, and civil organizations also oppose these permits, especially near schools. The government is urged to cancel such permits and halt political bribery related to alcohol distribution, focusing instead on appropriate locations near the tourism industry.
 
-அரசாங்கம் கடந்த காலங்களில் மதுபான உரிமப்பத்திரம் வழங்கும் திட்டத்தை வேகமாக முன்னெடுத்துள்ளது. இது போதையற்ற தேசத்தை உருவாக்கும் கொள்கைக்கு எதிரானதாகும். சுற்றுலாத் துறையை மையமாகக் கொண்டு இந்த வசதிகளை வழங்குவது சுற்றுலாத் துறையின் ஒரு பகுதியாக அமைந்திருந்தாலும், சுற்றுலாத் தொழில் முன்னெடுக்கப்படாத கிராமங்களுக்குள்ளேயும் இதற்கான அனுமதிகள் வழங்கப்பட்டுள்ளன.
+🟩
+
+The government distributed liquor license is against the policy of creating an inadequate nation. Opposition leader Sajith Premadasa said that permission has been granted within the villages that are not carried out in the tourism industry.
+
+The government has rapidly launched a plan to issue a liquor license in the past. This is against the principle of creating an inadequate nation. Providing these facilities focusing on the tourism industry is part of the tourism industry, but permits have been granted within the villages that are not carried out.
+
+Other religious leaders, civilians and civil organizations have expressed their opposition to this.. Therefore, if these permits are issued in areas where the tourism industry is not carried out in areas where the schools are adjacent to the schools, the government should take steps to cancel the liquor permits issued in the absence.
 
 ...
 
 [Data](articles/27d82817.json)
+
+[Extended Data](ext_articles/27d82817.ext.json)
 
 ---
 
@@ -176,19 +214,27 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 
 ---
 
-### அவசர தடுப்பூசி இறக்குமதி மூலம் 36 கோடி 89 இலட்சத்து ஐம்பதாயிரம் ரூபா நாட்டுக்கு நஷ்டம் - விளக்கம் கோரும் சஜித்
+### 36 crores 89 lakhs of fifty thousand rupees
 
 *2024-06-08 07:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185576) · `ta`
 
-பாக்டீரியா தொற்றுகளுக்குப் பயன்படுத்தப்படும் மெராெபெனம் தடுப்பூசி போதுமானளவு கையிருப்பில் இருக்கும் நிலையில் அவரச கொள்முதல் முறையின் மூலம் 4 இலட்சித்தி 50ஆயிரம் தடுப்பூசி கொள்வனவு செய்யப்பட்டது. இதன் மூலம் நாட்டுக்கு ஏற்பட்டுள்ள நட்டம் தொடர்பில் சபைக்கு அறிக்கை சமர்ப்பிக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The government faced a financial loss of Rs 36 crore 89 lakh due to inadequate stock of the Merebenum vaccine for bacterial infections. Despite purchasing 450,000 vaccines via an emergency system, the total cost exceeded expectations. The opposition leader called for a detailed report on this issue.
 
-பாக்டீரியா தொற்றுகளுக்குப் பயன்படுத்தப்படும் மெராெபெனம் தடுப்பூசி  488,590  கையிருப்பில் இருப்பதாக கணக்காய்வு அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. இவ்வாறான நிலையில்  அவசர கொள்முதல் முறையின் மூலம் 450,000 தடுப்பூசி குப்பிகள் கொள்வனவு செய்யப்பட்டுள்ளன. இதன் மூலம் நாட்டுக்கு 36 கோடி 89 இலட்சத்து ஐம்பதாயிரம் ரூபா நஷ்டம் ஏற்பட்டுள்ளது. ஒரு குப்பி 1075.68 ரூபாவுக்கு கிடைத்தும், 1895.50 ரூபாவுக்கு இதை கொள்வனவு செய்துள்ளனர் .
+🟩
 
-தேவையான அளவு கையிருப்பில் இருக்கும் நிலையில் ஏன் அவசர கொள்முதல் செய்யப்பட்டது என்பது பிரச்சினைக்குரிய விடயமாகும். இதனால் நாடு நட்டத்தை சந்தித்துள்ளது. எனவே இந்த அவசர கொள்முதல் தொடர்பாக முறையான அறிக்கையை வெளியிட்டு விளக்கம் அளிக்க வேண்டும்.
+The merebenum vaccine used for bacterial infections was inadequate in reservoir, with 4 ideals of 50 thousand vaccines were purchased.. Opposition Leader Sajith Premadasa said that a report should be submitted to the council regarding the loss of the country.
 
-...
+The Audit Report noted that the mereepanam vaccine used for bacterial infections is 488,590 stabs. In this case, 450,000 vaccines have been purchased through the emergency purchase system. This has caused a loss of Rs 36 crore 89 lakhs fifty thousand rupees. They have purchased it for Rs.
+
+Why emergency purchases were made in the case of the required quantity. Thus the country has suffered a loss. Therefore, a formal report on this emergency purchase should be issued and explained.
+
+The vaccine dealer has received a certificate from the National Drug Regulatory Authority and has been asked to submit a report to the House as it has committed this fraud through emergency procurement within a short period of time.
+
+◼️
 
 [Data](articles/80184b96.json)
+
+[Extended Data](ext_articles/80184b96.ext.json)
 
 ---
 
@@ -328,6 +374,8 @@ The negotiations with the China Development Bank are also at an advanced stage.
 
 [Data](articles/8f7f0e36.json)
 
+[Extended Data](ext_articles/8f7f0e36.ext.json)
+
 ---
 
 ### Shane and Shehan appointed to the driving seat at Triad
@@ -396,21 +444,27 @@ Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahung
 
 ---
 
-### ’செயற்கை ஹொக்கி மைதானங்கள் திறக்கப்படும்’
+### Exchange artificial hockey stadiums open
 
 *2024-06-08 01:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-ஹொக்கி-மைதானங்கள்-திறக்கப்படும்/175-338613) · `ta`
 
-மாத்தளை செயற்கை ஹொக்கி மைதானத்தையும் கொழும்பு ரீட் மாவத்தையில் உள்ள செயற்கை ஹொக்கி மைதானத்தையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் எதிர்வரும் ஜூலை 15 ஆம் திகதிக்கு முன்னர் திறந்து வைக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக விளையாட்டு மற்றும் இளைஞர் விவகாரங்கள் இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க தெரிவித்தார்.
+The Minister of Sports and Youth Affairs announced plans to open two artificial hockey grounds in Matale and Colombo before July 15, funded by 140 million rupees each. These projects aim to modernize existing facilities and address legal issues within sports federations, marking a new era in Sri Lanka's sports sector under the guidance of President Ranil Wickremesinghe and Sports Minister Harin Fernando.
 
-மேலும் ஒரு சில விளையாட்டு சம்மேளனங்களில் நிலவும் சட்ட சிக்கல்களைத் தீர்த்து விளையாட்டுத்துறையில் புதிய யுகத்தை ஏற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+The Minister of Sports and Youth Affairs Rohana Dissanayake said that arrangements have been made to open the Artificial Hockey Ground in Matale and the Artificial Hockey Ground in Reed Mawatha in Colombo before July 15.
 
-பல வருடங்களாக அபிவிருத்திப் பணிகள் தடைப்பட்டிருந்த கொழும்பு ரீட் மாவத்தையில் அமைந்துள்ள செயற்கை ஹொக்கி மைதானமும் மாத்தளை செயற்கை ஹொக்கி மைதானமும் நவீனமயப்படுத்தப்பட்டு வருகின்றன. அதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் விளையாட்டுத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ ஆகியோரின் பணிப்புரைக்கு அமைவாக விசேட வேலைத்திட்டம் ஒன்று அமுல்படுத்தப்பட்டுள்ளது.
+He also said that steps have been taken to solve the legal issues in a few sports federations and create a new era in the sports sector.
+
+State Minister Rohana Dissanayake made this statement at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The artificial hockey stadium and the Matale Artificial Hockey Ground in Reed Mawatha, which has been blocked for many years, has been modernized.. A special program has been implemented in accordance with the directives of President Ranil Wickremesinghe and Sports Minister Harin Fernando.
 
 ...
 
 [Data](articles/e0100377.json)
+
+[Extended Data](ext_articles/e0100377.ext.json)
 
 ---
 
@@ -1500,6 +1554,26 @@ The Sri Lankan players unnecessarily fired wickets in the fields where the South
 
 ---
 
+### සෞදියෙන් ඉතිහාසයේ ප්‍රථමවරට ලංකාවට ලැබුණ දේ
+
+*2024-06-07 19:18:20* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියෙන්-ඉතිහාසයේ-ප්‍රථමවරට-ලංකාවට-ලැබුණ-දේ/11-410074) · `si`
+
+මෙරට ඉතිහාසයේ ප්‍රථම වරට සෞදි අරාබි රජය විසින් මෙම වසරේදී (2024) ත්‍රිවිධ හමුදාවේ සේවයේ නියුතු මුස්ලිම් සාමාජිකයින් වෙත වාර්ෂික හජ් වන්දනාව සඳහා නොමිලේ අවස්ථාව සලසා තිබේ.
+
+ආරක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතාගේ විශේෂ ඉල්ලීමකට අනුව ශ්‍රී ලංකාවේ සෞදි අරාබි තානාපති අතිගරු කලිඩ් හමඩ් අල්කතානි මහතාගේ මැදිහත්වීමෙන් මෙම අවස්ථාව ලබා ගැනීමට හැකි විය.
+
+රාජ්‍ය අමාත්‍යවරයා විසින් සිදු කල මෙම විශේෂ ඉල්ලීමට ප්‍රතිචාර වශයෙන් සෞදි අරාබි තානාපතිවරයා එරට රජයේ අනුග්‍රහය ඇතිව වාර්ෂික හජ් වන්දනාව සඳහා විශේෂ අවස්ථා පහක් ලබා ගැනීමට අවශ්‍ය කටයුතු සම්පාදනය කර තිබුණි.
+
+ත්‍රිවිධ හමුදා මුස්ලිම් සාමාජිකයින් සඳහා විශේෂ අනුග්‍රහයක් සහිත අවස්ථා පහක් මේ වසරේදී ලබා දී තිබීම සුවිශේෂී කරුණකි.
+
+ආරක්‍ෂක රාජ්‍ය අමාත්‍ය තෙන්නකෝන් මැතිතුමා අද (ජුනි 07) දින උදෑසන කොළඹ පිහිටි සෞදි අරාබි තානාපති කාර්යාලයේදී තානාපති අතිගරු අල්කතානි මහතා හමු වූ අවස්ථාවේ දී ත්‍රිවිධ හමුදාවේ මුස්ලිම් සාමාජිකයින්ට තම ජීවිත කාලයටම එක් වරක් ලැබෙන මෙම මහඟු අවස්ථාව ලබා දීම සඳහා දැක්වූ උදාර සහයෝගය වෙනුවෙන් සිය කෘතඥපූර්වක ස්තූතිය පළ කළේය.‍ෙ
+
+◼️
+
+[Data](articles/b23bd5ee.json)
+
+---
+
 ### Most of the preparations for the Gender Equality Bill
 
 *2024-06-07 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185567) · `ta`
@@ -2019,49 +2093,5 @@ Commercial Bank of Ceylon Plc contributed the top contributor to the index in th
 [Data](articles/441e7be9.json)
 
 [Extended Data](ext_articles/441e7be9.ext.json)
-
----
-
-### ICC admits New York pitches at T20 World Cup not up to standard
-
-*2024-06-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99729/icc-admits-new-york-pitches-at-t20-world-cup-not-up-to-standard) · `en`
-
-The pitches used in the T20 World Cup matches played in New York have not been up to standard and ground staff are working on remedying them for the rest of the tournament, the International Cricket Council (ICC) said on Thursday.
-
-The temporary Nassau County International Cricket Stadium has hosted two games so far, both of which were low-scoring encounters due to the nature of the drop-in pitch which has made batting extremely difficult due to the movement and bounce.
-
-Fans expecting a run-fest were left disappointed when Sri Lanka were bowled out for 77 -- their lowest ever score -- against South Africa, while India bowled out Ireland for 96 in Wednesday’s one-sided contest.
-
-“T20 Inc and the ICC recognise that the pitches used so far at the Nassau County International Cricket Stadium have not played as consistently as we would have all wanted,” the ICC said in a statement.
-
-...
-
-[Data](articles/6e9e5d50.json)
-
-[Extended Data](ext_articles/6e9e5d50.ext.json)
-
----
-
-### What happened to police officers who were searched by a house and searched gold
-
-*2024-06-07 16:35:07* · [`adalk`](https://www.ada.lk/breaking_news/නිවසකට-ඇතුළුවී-බිම-හාරා-රත්රන්-සෙවූ-පොලිස්-නිළදාරීන්ට-සිදුවූ-දේ/11-410073) · `si`
-
-In Puttalam, four police officers were dismissed after searching a house for gold without authorization. The Deputy Inspector General (DIG) and other officers were involved in the unauthorized search. Following this incident, Senior Superintendent of Police Sarath Rupasinghe was transferred, and further investigations led to the involvement of officers from the Criminal Investigation Division. The house, owned by someone who passed away in 2017, was searched despite protests from the residents. This situation has sparked a special investigation by Senior DIG Kathsiri Jayalath.
-
-🟩
-
-Puttalam DIG - Deputy Minister of External Investigation Division (STF) and four officers have been deployed in the Union and four officers have been dismissed from the Anamaduwa area and excavated the house.Said.
-
-Subsequent experiments made by Senior Superintendent of Police Sarath Rupasinghe who had conducted SSP Sarath Rupasinghe in charge of Puttalam Nalaka Silva has been transferred by Senior Superintendent of Police Sarath Rupasinghe.
-
-Officers of the relevant Criminal Investigation Division have been excavated in the house in May of last Mayvaria in May of the past May, using an Endamaduwa Premadamukatuwa home.Residents have already been given to the police teams that the residents have been left out of the house not to excuse.
-
-Subsequently, the number of officers returned home again in the house of the UNP, said that the residents had been excavated in the face of residents.
-
-...
-
-[Data](articles/3b6e1858.json)
-
-[Extended Data](ext_articles/3b6e1858.ext.json)
 
 ---

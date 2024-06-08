@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 11:19:15**
+As of **2024-06-08 11:34:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,680
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,201 (100.0%) of 29,205 articles have been extended.
+29,205 (100.0%) of 29,205 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,37 @@ It was the final of four games at the Grand Prairie Stadium and the Dallas crowd
 
 [Data](articles/9298cb70.json)
 
+[Extended Data](ext_articles/9298cb70.ext.json)
+
 ---
 
-### இன்றிலிருந்து மீண்டும் மழை அதிகரிக்கும்
+### Rain will increase again from today
 
 *2024-06-08 10:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-மீண்டும்-மழை-அதிகரிக்கும்/175-338615) · `ta`
 
-நாட்டின் தென்மேற்கு பிரதேசத்தில் தற்போது நிலவும் மழை நிலைமை இன்றிலிருந்து அடுத்த சில நாட்களுக்கு அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts increased rainfall across several regions including the Western, Sabaragamuwa, North Western, Southern Provinces, and specific districts like Kandy, Nuwara Eliya, Galle, Matara, and others. Heavy rainfall and potential thunderstorms are expected, along with strong winds in certain provinces. The public is urged to prepare for these conditions.
 
-மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has forecast that the current rainfall in the southwestern region of the country is expected to increase for the next few days.
 
-வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் மாத்தளை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected to occur in the Western, Sabaragamuwa, North Western and Southern Provinces and Kandy and Nuwara Eliya districts.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
 
-வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rains are expected in the Northern and North Central Provinces and Matale District.
 
-...
+It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
+
+In the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/5b7ada20.json)
+
+[Extended Data](ext_articles/5b7ada20.ext.json)
 
 ---
 
@@ -85,6 +95,8 @@ The accident reportedly occurred when a car travelling from Ederamulla towards W
 ◼️
 
 [Data](articles/abceab1e.json)
+
+[Extended Data](ext_articles/abceab1e.ext.json)
 
 ---
 
@@ -139,6 +151,8 @@ Anders later described it as his most significant contribution to the space prog
 ...
 
 [Data](articles/8d4e6c07.json)
+
+[Extended Data](ext_articles/8d4e6c07.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 21:19:09**
+As of **2024-06-08 21:34:40**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 4,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,257 (100.0%) of 29,258 articles have been extended.
+29,258 (100.0%) of 29,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### මෝදිගේ දිවුරුම්දීම වෙනුවෙන් ඉන්දියාව ආරක්ෂාව තර කරයි
+### India stirs up security for Modi's swearing in
 
 *2024-06-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197538) · `si`
 
-අඛණ්ඩව තෙවන වරටත් ඉන්දීය අගමැති ධුරයට පත් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදිගේ දිවුරුම් දීමේ උත්සවය හෙට (09) නවදිල්ලි අගනුවරදී පැවැත් වෙයි.
+India enhances security for PM Modi's third term swearing-in ceremony, set for tomorrow in New Delhi. The event follows his party's victory in the recent 44-day general election. About 9,000 guests, including foreign leaders, are expected. Security measures include drone surveillance and special protections for diplomats. Celebrations will be held in 22 cities across India.
 
-දින 44ක් අදියර 7ක් යටතේ පැවැති ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස සැලකෙන ඉන්දිය මහ මැතිවරණය ජය ගැනීමට අගමැති නරේන්ද්‍ර මෝදිගේ පක්ෂ සන්ධානය පසුගිය දා සමත්වුණි.
+🟩
 
-එය වාර්තා අතරට එක්වන්නේ මෝදිගේ පක්ෂයද ඇතුළු ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානය අඛණ්ඩව ජයගත් තෙවැනි මහමැතිවරණය ලෙසය.
+Indian Prime Minister Narendra Modi's swearing in Indian Prime Minister for the third term is held tomorrow (09) at New Delhi capital.
 
-ජය තහවුරු කරගැනීමෙන් පසුව ඊයේ දිනයේදී නරේන්ද්‍ර මෝදි ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයේ නායකයා ලෙස නිල වශයෙන් පත් කෙරුණි.
+Prime Minister Narendra Modi UPFA recently won the Indian General Election of the Indian General Election of the Indian General Election of 44 days.
 
-ජනාධිපති ද්‍රෞපදී මුර්මු විසින්, නව රජයට නායකත්වය ලබා දෙමින් අඛණ්ඩව තෙවන වරටත් ඉන්දීය අගමැතිවරයා ලෙසට නරේන්ද්‍ර මෝදි පත් කෙරුණේ ඉන් අනතුරුවය.
+It is the third general election, including the National Democratic Alliance, including Modi's party and the national democratic alliance, including the party.
 
-ඒ අනුව, ඉන්දීය අගමැති මෝදිගේ නිල දිවුරුම් දීමේ උත්සවය හෙට පස්වරුවේ ඉන්දීය ජනපති නිල නිවස වන රාශ්ට්‍රපති භවන්හීදී පැවැත්වීමට නියමිතය.
+Narendra Modhi was officially appointed as the leader of the National Democratic Alliance yesterday.
 
-ඒ සඳහා අසල්වැසි රටවල රාජ්‍ය නායකයින් ඇතුළුව 9000ක පමණ පිරිසක් ආරාධනා ලැබ සිටී.
+The Presidential Advanced Murmoshi was then appointed Indian Prime Minister as the Indian Prime Minister for the third time.
+
+Accordingly, Indian Prime Minister Modi's official swearing in Indian island tomorrow is to hold the Indian official residence.
+
+About 9000 people are invited, including heads of state in neighboring countries.
 
 ...
 
 [Data](articles/73a0777d.json)
+
+[Extended Data](ext_articles/73a0777d.ext.json)
 
 ---
 

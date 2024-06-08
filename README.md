@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 17:34:51**
+As of **2024-06-08 17:54:43**
 
 ## Newspaper Stats
 
-*Scraped **29,236** Articles*
+*Scraped **29,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,308
 tamilmirrorlk | 3,431
 virakesarilk | 4,485
 dailymirrorlk | 4,645
-adaderanasinhalalk | 4,690
+adaderanasinhalalk | 4,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,236 (100.0%) of 29,236 articles have been extended.
+29,236 (100.0%) of 29,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### ගුණතිලක රාජපක්ෂ ට පහරදුන් සිද්ධිය ගැන ප්‍රකාශ සටහන් කරගනී
+
+*2024-06-08 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197531) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට පහර දීමේ සිද්ධිය සම්බන්ධයෙන් මන්ත්‍රීවරුන් තිදෙනෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන තිබේ.
+
+සිද්ධියට අදාළ විමර්ශන සිදුකරන කොටුව පොලීසියේ නිලධාරීන් කණ්ඩායමක් විසින් පාර්ලිමේන්තු සංකීර්ණයට ගොස් අදාළ ප්‍රකාශ සටහන් කර ගෙන ඇත.
+
+එම පහරදීමේ සිද්ධිය සිදුවු බව කියන අවස්ථාවේදී ඒ අසල රැඳී සිටි මන්ත්‍රීවරුන්ගෙන් මෙලෙස ප්‍රකාශ සටහන් කරගෙන තිබේ.
+
+පසුගියදා පැවති මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා විසින් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදුන් බවට ඔහුගේ පුත් නිලුපුල් රාජපක්ෂ විසින් පසුගියදා කොටුව පොලීසිය හමුවේ පැමිණිල්ලක් සිදුකළේය.
+
+එම සිද්ධියට අදාළව ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා ද ලිඛිත පැමිණිල්ලක් කොටුව පොලිස් ස්ථානයට භාරදී ඇති බව සඳහන්ය.
+
+මෙම පැමිණිලිවලට අදාළව කොටුව පොලීසිය මෙලෙස විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/b75bcc4f.json)
+
+---
+
+### ගගනගාමී විලියම් ඇන්ඩර්ස් අනතුරකින් මරුට
+
+*2024-06-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197530) · `si`
+
+කුඩා ගුවන්යානයක් වොෂින්ටන් හිදී කඩාවැටී සිදුවූ අනතුරකින් එහි ගමන්ගත් අමෙරිකානු ගගනගාමී විලියම් ඇන්ඩර්ස් මියගොස් තිබේ.
+
+අමෙරිකානු ගගනගාමී විලියම් ඇන්ඩර්ස් වාර්තා අතරට එක්වන්නේ 1968 වසරේ අපලෝ 08 මෙහෙයුම යටතේ සඳේ කක්ෂයට ඇතුළු වූ ගගනගාමීන් තිදෙනාගෙන් අයෙක් ලෙසය.
+
+අභ්‍යවකාශයේ සිට ගත් පෘථිවියේ වඩාත්ම ආශ්වාදජනක ඡායාරූපයක් වන Earthrise ඡායාරූපය කැමරාවට හසුකරගෙන ඇත්තේද විලියම් ඇන්ඩර්ස් ය.
+
+එම ඡායාරූපය සැලකෙන්නේ ඇපලෝ 8 අභ්‍යවකාශ මෙහෙයුමට ඔහුගෙන් හිමිවූ විශාලතම දායකත්වය ලෙසය.
+
+◼️
+
+[Data](articles/c96ba26e.json)
+
+---
 
 ### Saudi offers free Hajj pilgrimage for Sri Lankan Muslim tri-forces personnel
 
@@ -2173,39 +2213,5 @@ The Frontline Socialist Party Education Secretary Pubudu Jayagoda, academics Dr.
 [Data](articles/6d1f8b99.json)
 
 [Extended Data](ext_articles/6d1f8b99.ext.json)
-
----
-
-### ACJU receives Tamil translation of Milinda’s “Ashoka Vadana” book
-
-*2024-06-07 23:09:24* · [`dailyftlk`](https://www.ft.lk/opinion/ACJU-receives-Tamil-translation-of-Milinda-s-Ashoka-Vadana-book/14-762776) · `en`
-
-Pathfinder Foundation Founder, former Cabinet Minister and High Commissioner to India Milinda Moragoda recently published a book titled “Ashoka Vadana” translated into Tamil as “Malarum Yugathirku Pudiyathor Vadivam” and handed over to All Ceylon Jamiyyathul Ulama (ACJU) President M.I.M. Rizwe Mufthi, office bearers and the Executive Committee of the ACJU at the event held at the headquarters in Colombo.
-
-The book contains selected articles from his newspaper column of the same name that ran during Moragoda’s tenure as High Commissioner to India. The purpose of the column was to present the experience of India in the realms of economics, science, society, and politics placed within the context of Sri Lanka.
-
-◼️
-
-[Data](articles/c2c9d627.json)
-
-[Extended Data](ext_articles/c2c9d627.ext.json)
-
----
-
-### Sri Lanka Red Cross Society responds to escalating flood situation
-
-*2024-06-07 23:08:44* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-Red-Cross-Society-responds-to-escalating-flood-situation/14-762775) · `en`
-
-The country’s largest humanitarian organisation, Sri Lanka Red Cross Society (SLRCS) said it is gravely concerned about the escalating flood situation caused by the Southwest monsoon rains, which have affected over 250,000 individuals and 66,000 families across the country.
-
-The catastrophic weather conditions have resulted in 24 fatalities, with one person still reported missing.
-
-The monsoon rains have wreaked havoc, particularly in the districts of Colombo, Gampaha, Kalutara, Matara, Galle, Ratnapura, and Puttalam. Thousands of families have been forced to evacuate their homes and seek refuge in safe locations such as temples, churches, and other public places, with many inaccessible areas in the country. Many homes have sustained severe damage, power supplies have been disrupted, and children are unable to attend school due to closures.
-
-...
-
-[Data](articles/a9ec8c5f.json)
-
-[Extended Data](ext_articles/a9ec8c5f.ext.json)
 
 ---

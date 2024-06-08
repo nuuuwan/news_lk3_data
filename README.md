@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 00:05:26**
+As of **2024-06-09 00:18:57**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### South Africa becoming a sharp win
 
 *2024-06-08 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197544) · `si`
+
+In a thrilling World Cup match, South Africa defeated the Netherlands by 3 wickets. Batting first after winning the toss, the Netherlands made 103 runs, with EngelBrecht scoring 40 and Van Beek 23. Chasing 103, South Africa achieved the target in 18 overs, securing a crucial victory.
+
+🟩
 
 South African team won the match between the Netherlands and South Africa in the World Cup today (08).
 

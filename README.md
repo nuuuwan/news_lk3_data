@@ -1,34 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 00:18:57**
+As of **2024-06-09 00:34:17**
 
 ## Newspaper Stats
 
-*Scraped **29,271** Articles*
+*Scraped **29,276** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 265
+colombotelegraphcom | 266
 dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,574
-economynextcom | 1,672
+economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,491
 adaderanalk | 3,314
 tamilmirrorlk | 3,434
 virakesarilk | 4,489
-dailymirrorlk | 4,649
+dailymirrorlk | 4,651
 adaderanasinhalalk | 4,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,271 (100.0%) of 29,271 articles have been extended.
+29,271 (100.0%) of 29,276 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-09 (Sunday)
+
+### Miller rescues South Africa in T20 victory over Netherlands
+
+*2024-06-09 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Miller-rescues-South-Africa-in-T20-victory-over-Netherlands/108-284415) · `en`
+
+(New York) - South Africa overcame a stunning early batting collapse before sealing a four-wicket victory over bogey team the Netherlands in their T20 World Cup Group D clash in New York on Saturday.
+
+David Miller's unbeaten 59 off 51 balls saw the Proteas safely home at the Nassau County International Cricket Stadium, the South Africans finishing on 106-6 after restricting the Dutch to 103-9 from their 20 overs.
+
+For a moment however it looked as if the Dutch were poised to inflict another famous upset on the South Africans following wins at the 2022 T20 World Cup and 2023 ODI World Cup.
+
+The Proteas were left reeling at 12-4 after 4.3 overs and had even been 3-3 at one stage as the Dutch bowling attack broke through early.
+
+But Tristan Stubbs and Miller hauled South Africa off the ropes with a fifth wicket partnership of 65 to leave the Proteas in a winning position.
+
+...
+
+[Data](articles/b585e6ea.json)
+
+---
 
 ### 2024-06-08 (Saturday)
 
@@ -293,6 +315,26 @@ Pet Cammins, who retired during the match against Oman, will be played in the Au
 [Data](articles/24f0d7e8.json)
 
 [Extended Data](ext_articles/24f0d7e8.ext.json)
+
+---
+
+### Sri Lanka’s gross forex reserves marginally down in May
+
+*2024-06-08 21:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-gross-forex-reserves-marginally-down-in-may-167039/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross forex reserves fell marginally to 5,421 million US dollars in May 2024, from 5,471 million US dollars, though the central bank was a net buyer of foreign exchange in the market in the month.
+
+The central bank bought 224.5 million US dollars and sold 32 million through an ad hoc pegging mechanism (it is not possible to build reserves in a floating exchange rate regime) from commercial banks in the month.
+
+Sri Lanka’s gross official reserves are made up of the central bank’s monetary reserves (bought outright against reserve money or borrowed through buy-sell swaps and the IMF), and balances at the Treasury (also borrowed unless the are privatization proceeds).
+
+The central bank’s net reserves are negative, but has been improving with the collection of monetary reserves.
+
+Though gross reserves fall, there is no data yet available to show whether net reserves improved in Ma due to settlement of dollar liabilities of the central bank or that of the government.
+
+...
+
+[Data](articles/bbb92a3e.json)
 
 ---
 
@@ -650,6 +692,20 @@ President Wickremesinghe is expected to participate in several bilateral meeting
 
 ---
 
+### India Ends Marathon In A Midsummer Of Elections
+
+*2024-06-08 18:31:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-ends-marathon-in-a-midsummer-of-elections/) · `en`
+
+India has finally ended its election marathon last week. While the marathon went on, lasting seven phases and forty days, South Africa and Mexico started and finished their day long voting business. The European Union is having its elections over this weekend, followed by Britain in July. To complete what one might call a midsummer of elections. The US elections are always Fall elections and are due in November.
+
+Political taxonomists are dividing the world into super states and small states. There are apparently four super states now – the US, China, India and the EU, republican successors to the old monarchical empires. Remarkably, this year is seeing elections in three of them. The elections to the European parliament are being watched for the rise of populist right wing parties in many member countries, which will have implications for national elections in different countries. Especially France.
+
+...
+
+[Data](articles/8f08d08d.json)
+
+---
+
 ### Flood warnings for several rivers and Attanagalu Oya withdrawn
 
 *2024-06-08 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warnings-for-several-rivers-and-Attanagalu-Oya-withdrawn/108-284413) · `en`
@@ -781,6 +837,26 @@ The Fort Police have launched this investigation.
 [Data](articles/b75bcc4f.json)
 
 [Extended Data](ext_articles/b75bcc4f.ext.json)
+
+---
+
+### Sri Lanka, Maldives to increase ties in trade, tourism, energy
+
+*2024-06-08 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-maldives-to-increase-ties-in-trade-tourism-energy-166993/) · `en`
+
+ECONOMYNEXT – The Maldives was keen to expand relations with Sri Lanka through an investment protection treaty and double tax avoidance agreement, its visiting Minister of Foreign Affairs Moosa Zameer has said.
+
+Zameer met Sri Lankan officials including Prime Minister Dinesh Gunawardena to discuss strengthening existing ties, and exploring new avenues of cooperation, particularly on trade, investment, education and culture.
+
+“The proposed bilateral treaties and Memorandums of Understanding (MoUs) would help to further strengthen economic cooperation between Maldives and Sri Lanka,” a statement by the PM’s office said.
+
+“It is proposed to sign a Investment Protection Treaty, Double Tax Avoidance Agreement and to facilitate remittances by Sri Lankans employed in the Maldives who receive payment in Maldives currency and to facilitate Maldivian students and medical tourists to make payments in Sri Lanka.”
+
+Sri Lanka requests Maldives to relax migrant worker remittances limit
+
+...
+
+[Data](articles/7d63593a.json)
 
 ---
 
@@ -2252,6 +2328,16 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 
 ---
 
+### Live Blog: Bangladesh beat Sri Lanka by 2 wickets
+
+*2024-06-08 05:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Live-Blog-Bangladesh-beat-Sri-Lanka-by-2-wickets/108-284399) · `en`
+
+◼️
+
+[Data](articles/83724ec3.json)
+
+---
+
 ### Search for monsoon rains, cloak, a hidden tourist paradise
 
 *2024-06-08 04:23:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggjj2rn7zo) · `si`
@@ -2279,97 +2365,5 @@ At about eight in the morning, our first destination was reached the u destinati
 [Data](articles/87a3fc9e.json)
 
 [Extended Data](ext_articles/87a3fc9e.ext.json)
-
----
-
-### “Sufficiently strong progress” on debt restructuring efforts: IMF
-
-*2024-06-08 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficiently-strong-progress-on-debt-restructuring-efforts-IMF/108-284397) · `en`
-
-Acknowledges authorities have been holding extensive discussions and says there is strong expectation that agreements with external commercial creditors will be reached soon.
-
-The International Monetary Fund (IMF) affirmed this week that Sri Lanka’s debt restructuring efforts have gathered steam.
-
-IMF Communications Department Director Julie Kozack addressing a press conference expressed confidence in the island nation firming up the restructuring.
-
-“… overall, we assess that there has been sufficiently strong progress on the debt restructuring front,” Kozack said.
-
-She shared that the authorities have been holding extensive discussions with the external official creditors regarding a memorandum of understanding with the official creditor committee and final agreements with the Export Import Bank of China.
-
-Discussions with the external bondholders continue with the aim of reaching agreements in principle soon.
-
-The negotiations with the China Development Bank are also at an advanced stage.
-
-...
-
-[Data](articles/8f7f0e36.json)
-
-[Extended Data](ext_articles/8f7f0e36.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-08 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### Shane and Shehan appointed to the driving seat at Triad
-
-*2024-06-08 02:27:00* · [`islandlk`](http://island.lk/shane-and-shehan-appointed-to-the-driving-seat-at-triad/) · `en`
-
-Triad (Private) Limited – Sri Lanka’s leading homegrown, independent, “global local” integrated communications powerhouse – has appointed Shane Wilson as Chief Executive Officer (CEO) and Shehan Samarasinha as Chief Operating Officer (COO). The appointments mark a significant milestone in Triad’s journey as a leader in creative communications solutions in Sri Lanka. Shane and Shehan infuse new blood, and a blend of youth and international experience to Triad, further elevating its strategic and creative capabilities, in the new age of integrated communications.
-
-...
-
-[Data](articles/10d8728a.json)
-
-[Extended Data](ext_articles/10d8728a.ext.json)
-
----
-
-### Birds Resort Hambantota: Gold Sponsor of ‘Sancharaka Udawa 2024’
-
-*2024-06-08 02:13:00* · [`islandlk`](http://island.lk/birds-resort-hambantota-gold-sponsor-of-sancharaka-udawa-2024/) · `en`
-
-The eagerly awaited ‘Sancharaka Udawa 2024’ is a testament to Sri Lanka’s resilient tourism industry, organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO). This gathering offers a unique opportunity for local and regional tourism entrepreneurs to showcase their offerings and forge meaningful connections. Hosted at the BMICH, this 11th edition promises to be a significant milestone in the industry’s growth.
-
-As the proud Gold Sponsor of the ‘Sancharaka Udawa 2024’, Birds Resort Hambantota is a testament to the harmonious coexistence of opulence and nature. The resort’s vision, to be recognized among the premier luxury destinations worldwide, is evident in every detail—from the personalized service that greets each guest to the eco-friendly practices that thread through its operations. Founded by Ajith Gallage and Ms. Hasanthi Karunarathna Gallage, the resort aims to be globally recognized for its unparalleled service standards.
-
-...
-
-[Data](articles/538994df.json)
-
-[Extended Data](ext_articles/538994df.ext.json)
-
----
-
-### Positive sentiments on external debt restructuring animates stock trading
-
-*2024-06-08 02:02:00* · [`islandlk`](http://island.lk/positive-sentiments-on-external-debt-restructuring-animates-stock-trading/) · `en`
-
-Trading at the Colombo Stock Exchange (CSE) was positive yesterday following the IMF’s views on the Sri Lankan economy.
-
-The global lender had reported that Sri Lanka’s economy has made impressive progress within a relatively short period, and on the strength of it, the much anticipated agreement signing would take place between the government and the creditors for external debt restructuring.
-
-“The IMF has assessed that there has been “sufficiently strong progress on the debt restructuring” for a review of Sri Lanka’s program by its board on June 12, an official said.
-
-“The authorities have been holding extensive discussions with external official creditors regarding an MOU with the official creditor committee and the final agreements with the Export Import Bank of China,” IMF Communication Director Julie Kozack told journalists in Washington DC.
-
-...
-
-[Data](articles/94648cae.json)
-
-[Extended Data](ext_articles/94648cae.ext.json)
 
 ---

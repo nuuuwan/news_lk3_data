@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 07:21:36**
+As of **2024-06-08 07:45:59**
 
 ## Newspaper Stats
 
-*Scraped **29,163** Articles*
+*Scraped **29,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 265
 dbsjeyarajcom | 276
 bbccomsinhala | 283
 newsfirstlk | 363
-islandlk | 1,566
+islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
 adalk | 2,484
@@ -26,63 +26,81 @@ adaderanasinhalalk | 4,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,160 (100.0%) of 29,163 articles have been extended.
+29,163 (100.0%) of 29,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### අදත් ප්‍රදේශ කිහිපයක‌ට වැසි
+### Showers in several areas
 
 *2024-06-08 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197512) · `si`
 
-දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් අද (08) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect widespread showers across various regions including Western, Sabaragamuwa, North Western, Southern provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Intense rainfall of 50mm is predicted in some areas. Strong winds and potential for lightning strikes are also forecasted, prompting the Meteorology Department to advise caution.
 
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවේ.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩිතරමක තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+The Meteorology Department says that a rainy section of the island is expected in the next few days today (08).
 
-උතුරු සහඋතුරු-මැද පළාත්වලත් මාතලේ දිස්ත්‍රික්කයෙත් වැසි වාර කිහිපයක් ඇතිවිය හැක.
+Showers at times in the Western, Sabaragamuwa, North Western and Southern provinces and in the Kandy and Nuwara Elues.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+In some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Informed that 50 highlights are expected.
 
-උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව සඳහන් වේ.
+Several times can occur in the North and Heads - Media and Matale District.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the North, North-Central and Northwestern provinces, Trincomalee and Hambantota districts. It is said that there is about strong winds.
+
+The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/09c7c406.json)
 
+[Extended Data](ext_articles/09c7c406.ext.json)
+
 ---
 
-### එඬේරමුල්ලේ බිහිසුණු දුම්රිය අනතුරක් -  දෙදෙනෙක් මරුට
+### Endemic train accident - two dead
 
 *2024-06-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197511) · `si`
 
-එඬේරමුල්ල දුම්රිය හරස්මාර්ගයක දී සිදු වූ දුම්රිය අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+In an Endelectram railway accident, two died as a train collided with another at a crossing.
 
-අප වාර්තාකරු පැවසුවේ එම දුම්රිය හරස් මාර්ගයේ දී මෝර්ටරථයක් දුම්රියේ ගැටීමෙන් එම අනතුර සිදු ව ඇති බවයි.
+🟩
+
+Two people were killed in a railway accident in a railway crossing at an Endelectram.
+
+Our correspondent said that the accident had occurred when a train collided with the train on the railway crossing.
 
 ◼️
 
 [Data](articles/d616122b.json)
 
+[Extended Data](ext_articles/d616122b.ext.json)
+
 ---
 
-### කාසියේ වාසිය බංග්ලාදේශය ට
+### Bangladesh to advantage
 
 *2024-06-08 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197510) · `si`
 
-අයි.සී.සී ලෝක කුසලාන 20/20 ක්‍රිකට් තරඟාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර තීරණාත්මක තරඟය මේවන විට පැවැත්වේ.
+In the ICC World Cup 20/20 Cricket Tournament, Bangladesh won the toss and chose to bowl first against Sri Lanka. In the initial three overs, Sri Lanka lost 25 runs.
 
-තරඟයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පන්දුවට පහරදෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 3ක දී කඩුල්ලක් දැවී ලකුණු 25ක්  ලබාගෙන සිටියි‍.
+The crucial match between the Sri Lanka team and the Bangladesh team will be held in the ICC World Cup 20/20 Cricket Tournament.
+
+The Bangladesh team won the toss and elected to the bowling first.
+
+Accordingly, Sri Lanka are attacked by 25 runs in 3 overs.
 
 ◼️
 
 [Data](articles/27e34551.json)
+
+[Extended Data](ext_articles/27e34551.ext.json)
 
 ---
 
@@ -101,6 +119,64 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 [Data](articles/e5141e6e.json)
 
 [Extended Data](ext_articles/e5141e6e.ext.json)
+
+---
+
+### Shane and Shehan appointed to the driving seat at Triad
+
+*2024-06-08 02:27:00* · [`islandlk`](http://island.lk/shane-and-shehan-appointed-to-the-driving-seat-at-triad/) · `en`
+
+Triad (Private) Limited – Sri Lanka’s leading homegrown, independent, “global local” integrated communications powerhouse – has appointed Shane Wilson as Chief Executive Officer (CEO) and Shehan Samarasinha as Chief Operating Officer (COO). The appointments mark a significant milestone in Triad’s journey as a leader in creative communications solutions in Sri Lanka. Shane and Shehan infuse new blood, and a blend of youth and international experience to Triad, further elevating its strategic and creative capabilities, in the new age of integrated communications.
+
+...
+
+[Data](articles/10d8728a.json)
+
+---
+
+### Birds Resort Hambantota: Gold Sponsor of ‘Sancharaka Udawa 2024’
+
+*2024-06-08 02:13:00* · [`islandlk`](http://island.lk/birds-resort-hambantota-gold-sponsor-of-sancharaka-udawa-2024/) · `en`
+
+The eagerly awaited ‘Sancharaka Udawa 2024’ is a testament to Sri Lanka’s resilient tourism industry, organized by the Sri Lanka Association of Inbound Tour Operators (SLAITO). This gathering offers a unique opportunity for local and regional tourism entrepreneurs to showcase their offerings and forge meaningful connections. Hosted at the BMICH, this 11th edition promises to be a significant milestone in the industry’s growth.
+
+As the proud Gold Sponsor of the ‘Sancharaka Udawa 2024’, Birds Resort Hambantota is a testament to the harmonious coexistence of opulence and nature. The resort’s vision, to be recognized among the premier luxury destinations worldwide, is evident in every detail—from the personalized service that greets each guest to the eco-friendly practices that thread through its operations. Founded by Ajith Gallage and Ms. Hasanthi Karunarathna Gallage, the resort aims to be globally recognized for its unparalleled service standards.
+
+...
+
+[Data](articles/538994df.json)
+
+---
+
+### Positive sentiments on external debt restructuring animates stock trading
+
+*2024-06-08 02:02:00* · [`islandlk`](http://island.lk/positive-sentiments-on-external-debt-restructuring-animates-stock-trading/) · `en`
+
+Trading at the Colombo Stock Exchange (CSE) was positive yesterday following the IMF’s views on the Sri Lankan economy.
+
+The global lender had reported that Sri Lanka’s economy has made impressive progress within a relatively short period, and on the strength of it, the much anticipated agreement signing would take place between the government and the creditors for external debt restructuring.
+
+“The IMF has assessed that there has been “sufficiently strong progress on the debt restructuring” for a review of Sri Lanka’s program by its board on June 12, an official said.
+
+“The authorities have been holding extensive discussions with external official creditors regarding an MOU with the official creditor committee and the final agreements with the Export Import Bank of China,” IMF Communication Director Julie Kozack told journalists in Washington DC.
+
+...
+
+[Data](articles/94648cae.json)
+
+---
+
+### 2,000 Trees for the Planet: Aitken Spence Hotels leads World Environment Day effort
+
+*2024-06-08 02:02:00* · [`islandlk`](http://island.lk/2000-trees-for-the-planet-aitken-spence-hotels-leads-world-environment-day-effort/) · `en`
+
+In celebration of World Environment Day, Aitken Spence Hotels reaffirms its unwavering commitment to sustainability with the planting of 2,000 trees across its properties in Sri Lanka, the Maldives, India, and Oman. This ambitious initiative not only underscores the company’s dedication to environmental conservation but also serves as a call to action for global ecological responsibility.
+
+Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahungalla, Heritance Tea Factory, Heritance Ayurveda, Sentido Heritance Negombo, Turyaa Kalutara, Amethyst Resort, and Earl’s Regency, a total of 1,730 trees will be planted. Heritance Kandalama, Aitken Spence’s flagship sustainable hotel, will lead the effort by planting 780 trees in addition to its extensive bio-conservation efforts with 211 acres of conservation land, coinciding with its 30th-anniversary celebrations later this month.
+
+...
+
+[Data](articles/e9dacd9b.json)
 
 ---
 
@@ -1142,6 +1218,22 @@ Article 4, 7, 17, 18, 18, 25, 26 and 27, 9, 10,12 (1), 14 (1), 14 (1) (F) of the
 
 ---
 
+### Economic Transformation Bill first step towards economic stability – President
+
+*2024-06-07 18:50:00* · [`islandlk`](http://island.lk/economic-transformation-bill-first-step-towards-economic-stability-president/) · `en`
+
+President Ranil Wickremesinghe announced that the government has initiated the first step towards economic stability by submitting the Economic Transformation Bill. He stressed that regardless of which government or leader takes power, it is imperative to adhere to this agreement to effectively rebuild the national economy. The President emphasized that a proper plan is essential for addressing the country’s economic challenges.
+
+President Wickremesinghe made these remarks during the inauguration ceremony of the Cephalosporin Injectable Plant and the unveiling of the “Meldol” Reliable Relief Manufacturing Facility in Ekala on Thursday (06).
+
+The new production facilities, initiated by Sands Active (PVT) Ltd under the Melwa Group, represent a significant boost to the pharmaceutical sector. President Wickremesinghe, who unveiled the plaque and inaugurated the factory, also took an observation tour of the new facilities.
+
+...
+
+[Data](articles/bdf124a0.json)
+
+---
+
 ### Biden apologizes to Ukraine’s Zelenskyy
 
 *2024-06-07 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Biden-apologizes-to-Ukraines-Zelenskyy/107-284349) · `en`
@@ -1999,137 +2091,5 @@ Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance 
 [Data](articles/8342cbf6.json)
 
 [Extended Data](ext_articles/8342cbf6.ext.json)
-
----
-
-### We are scared to walk on the street on the street - Sri Lankan Tamils ​​sent from Diocarcia to Rwanda
-
-*2024-06-07 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185537) · `ta`
-
-Sri Lankan Tamils relocated from Diego Garcia to Rwanda by the British government face safety concerns, including medical needs and sexual violence. They receive minimal aid and experience harassment. Their legal status differs from asylum seekers from the UK, raising questions about Rwanda's refugee protection. Despite initial reluctance, some consider returning to Sri Lanka due to severe depression and lack of adequate healthcare.
-
-🟩
-
-Sri Lankan immigrants sent by the British government from Diego Garcia to Rwanda have told the BBC that they are unsafe that they have been isolated.
-
-The BBC has gone to Rwanda to meet four immigrants, as there are different views among British political parties on the British government's decision to send immigrants to Rwanda.
-
-We have many medical needs, and in the past we have been tortured by sexual violence.
-
-Everyone provides food and other essential commodities worth $ 50 per week.
-
-Four Sri Lankans report that they are experiencing harassment and sexual harassment on the streets.
-
-Leaving the Army Hospital, they live in the suburbs of Kihali, the capital, and pay their rent.
-
-Attorneys say that their legal status in Rwanda is different from the status of asylum seekers sent from the UK.
-
-The lawyer representing two Sri Lankans said their negative experiences of Rwanda's ability to provide security to the most vulnerable refugees raise serious concerns.
-
-...
-
-[Data](articles/b39b0a8e.json)
-
-[Extended Data](ext_articles/b39b0a8e.ext.json)
-
----
-
-### Several changes in Sri Lanka's team to be played tomorrow
-
-*2024-06-07 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197498) · `si`
-
-Tomorrow, Sri Lanka faces Bangladesh in a crucial World Cup match at the Grand Prairie Stadium in Dallas, where temperatures are expected to reach 35°C. The Sri Lankan team will see two changes, aiming to improve after falling short in their first match. This encounter holds significant importance as it follows Sri Lanka's close contest with South Africa. The match starts at 6 am.
-
-🟩
-
-The decisions match between Sri Lanka and Bangladesh will be held tomorrow (08) in the World Cup.
-
-The match will be held at the Grand Prary Stadium in Dallas, our correspondent said that the temperature was very much higher in the same stadium.
-
-Accordingly, the temperature in the area around the stadium was 35 sections of Celsius.
-
-Meanwhile, two changes in the Sri Lankan team will take place tomorrow.
-
-Sri Lanka Cricket Team Sharina Kandamby said the first match was not reached to the desired level.
-
-Accordingly, the decision to discuss the experience and proceed, he said, "Thilina Kandamby said.
-
-Sri Lanka and Bangladesh have held 16 international and 20 internationals to date.
-
-However, Sri Lanka is a critical competition to Sri Lanka tomorrow competition with the first match of South Africa.
-
-Sri Lanka - Bangladeshi match tomorrow will commence at 6 am tomorrow.
-
-◼️
-
-[Data](articles/3412a358.json)
-
-[Extended Data](ext_articles/3412a358.ext.json)
-
----
-
-### Bollywood actress a slap at the airport
-
-*2024-06-07 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197497) · `si`
-
-Bollywood actress Shalipinna Silaipinna Renawanna Ratnayake was assaulted by a Central Industrial Circuit Service officer, Kulvinder Corr, during a protest led by Kandana Ratnaughphouthorization. The incident, involving Bollywood Rangana Kagana Renaa from the Bharatiya People's Party, has sparked an investigation.
-
-🟩
-
-Bollywood acting Shalipinna Silaipinna Renawanna Ratnayake has been attacked by the Bollywood Rangana Kagana Renaa who was elected to the Indian party representing the Bharatiya People's Party.
-
-She was assaulted by an officer of the Central Industrial Certificate of the Central Industrial Circuit Service, the Central Industrial Circode of Kulvinder Corr.
-
-She was attacked by the Kandana Ratnaughphouthorization protesting with an open to Knowngen in India.
-
-It has been lodged a complaint regarding the assault and reported that Kulvinader Corrnkari has commenced an investigation.
-
-◼️
-
-[Data](articles/3bc5d7fd.json)
-
-[Extended Data](ext_articles/3bc5d7fd.ext.json)
-
----
-
-### Finance State Minister discloses Sri Lanka’s debt status in Parliament
-
-*2024-06-07 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99726/-finance-state-minister-discloses-sri-lankas-debt-status-in-parliament) · `en`
-
-State Minister of Finance Shehan Semasinghe disclosed the government’s domestic and external debt figures in the Parliament today (07).
-
-Accordingly, he stated that the domestic debt stood at Rs. 17,051 billion as of December 31, 2023, and increased to Rs. 17,252 billion by March 31, 2024.
-
-Additionally, he highlighted the external is debt USD 37 billion, including outstanding external debt installments amounting to USD 5.5 billion from April 2022.
-
-◼️
-
-[Data](articles/d8643917.json)
-
-[Extended Data](ext_articles/d8643917.ext.json)
-
----
-
-### President condemns the attack on a 4 -year -old girl
-
-*2024-06-07 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185528) · `ta`
-
-President Ranil Wickremesinghe has strongly condemned the assault on a 4-year-old girl in Pulmottai, promising swift justice for the suspects. He highlighted the need to prioritize the child's well-being and acknowledged the traumatic impact of such incidents. The President, as the Minister of Women and Child Affairs, urged for immediate support to the victim and underscored the importance of addressing the long-term effects of such trauma.
-
-🟩
-
-President Ranil Wickremesinghe has condemned the brutal assault of a 4 -year -old girl in Pulmottai, Arizimalai, and promised to take swift action against the suspects arrested.
-
-The President said this on his official site. 'Priority should be given to the well -being of the victim's child. Moreover, such abuse shows the lasting shock that can cause children. 'The President has pointed out in his record.
-
-'The brutal assault of a 4 -year -old girl has horrified the country. We must prioritize the well -being of the child while action is taken in relation to those involved in the incident through the judicial process.. Rapid and decisive action will be taken from state officials. 'The President also mentioned.
-
-As the Minister of Women and Child Affairs, President Ranil Wickremesinghe has called for immediate support to the victim and emphasized the importance of understanding the long -term impact of such shock.
-
-...
-
-[Data](articles/18695377.json)
-
-[Extended Data](ext_articles/18695377.ext.json)
 
 ---

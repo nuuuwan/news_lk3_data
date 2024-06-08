@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 13:34:20**
+As of **2024-06-08 13:54:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,209 (100.0%) of 29,211 articles have been extended.
+29,211 (100.0%) of 29,211 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The photograph, the first color image of Earth from space, is one of the most im
 ...
 
 [Data](articles/429309de.json)
+
+[Extended Data](ext_articles/429309de.ext.json)
 
 ---
 
@@ -98,29 +100,37 @@ At the time, the 18-year-old Hairbage series was extinguished with the highest w
 
 ---
 
-### චන්ද්‍රිකා දත්ත බ්‍රසීලය ගැන හෙළි කළ රහස
+### The secret that satellite data revealed about Brazil
 
 *2024-06-08 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197518) · `si`
 
-බ්‍රසීලයේ පවතින ලොව විශාලතම තෙත්බිම් කලාපයට ලැව්ගිනි ආපදාවලින් දැඩි හානි සිදුවී ඇති බව චන්ද්‍රිකා දත්ත මගින් අනාවරණය වී තිබේ.
+Satellite data reveals severe damage to Brazil's largest wetland zone, the Pantanal, due to extreme weather events like delayed rains and droughts. The Amazon forest, also in Brazil, faces significant degradation. Despite these challenges, there's a surprising increase in forest cover by 980% since the start of the year, indicating recovery efforts might be effective. Authorities have responded by declaring an emergency environmental standard for the area.
 
-පසුගිය වසරේදී වැසි සමය ප්‍රමාද වීම, නියඟය සහ අධික වියළි කාලගුණය ලැව්ගිනි තීව්‍ර වීමට හේතුව වී ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+🟩
 
-ලෝකයේ විශාලතම ඝර්මකලාපීය වනාන්තරය වන ඇමසන් වනාන්තරය මෙන්ම ලොව විශාලතම තෙත්බිම වන පැන්ටනල් "Pantanal" තෙත්බිමද පිහිටා ඇත්තේ බ්‍රසීලයේය.
+Chandrika data has revealed that the world's largest wetland zone in Brazil has been severely damaged.
 
-එරටින්, මෙම වසරේ මේ දක්වා වාර්තා වි ඇති ලැව්ගිනි ආපදාවලින් පැන්ටනල් තෙත්භූමියට දැඩි හානි සිදුවී තිබේ.
+The rainy season, drought and the delay in the rainy season have been intensified, according to foreign reports.
 
-2023 වසරට සාපේක්ෂව පැන්ටනල් තෙත්බිම්වල ලැව්ගිනි සියයට 10කින් ඉහළ ගොස් ඇති බව විදෙස් වාර්තා පෙන්වා දී ඇත.
+The Amazon forest, the largest collapse forest in the world, is located in Brazil.
 
-පැන්ටනල් තෙත්බිම් කලාපය සැලකෙන්නේ ලොව ජෛව විවිධත්වයෙන් ඉහළම කලාපයක් ලෙසය.
+Erautin, this year, the Panalic wet wet wet was damaged by disasters reported so far this year.
 
-කෙසේ වෙතත් වසර ආරම්භයේ සිට ජුනි 05 වනදා දක්වා කාලය තුළ එම කලාපයෙන් වාර්තා වන ලැව්ගිනි ආපදා පෙර වසරේ මෙම කාලසීමාවට සාපේක්ෂව සියයට 980කින් ඉහළ ගොස් ඇති බව චන්ද්‍රිකා දත්ත මගින් අනාවරණය වී තිබේ.
+Foreign reports have shown that in relation to the year 2023, forecasts have increased by 10 percent.
 
-ඇමසන් වැසි වනාන්තරය මෙන්ම පැන්ටනල් තෙත්බිම් ද නිරන්තරයෙන් ලැව්ගිනි ආපදාවලට මුහුණ දෙයි.
+The Panantel Wetland region is considered a top zone in the world.
 
-...
+However, Chandrika data has revealed that the forest has increased by 980 percent compared to this period from the beginning of the year to June 05.
+
+The Amazon rainforest, as well as Pannol wetlands, is constantly facing disasters.
+
+Considering these factors, the authorities have also taken steps to announce an emergency environmental standard for the Samrog Zulpilla.
+
+◼️
 
 [Data](articles/da565b47.json)
+
+[Extended Data](ext_articles/da565b47.ext.json)
 
 ---
 

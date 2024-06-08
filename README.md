@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 02:34:28**
+As of **2024-06-09 02:51:44**
 
 ## Newspaper Stats
 
-*Scraped **29,276** Articles*
+*Scraped **29,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,491
 adaderanalk | 3,314
 tamilmirrorlk | 3,434
 virakesarilk | 4,489
-dailymirrorlk | 4,651
+dailymirrorlk | 4,652
 adaderanasinhalalk | 4,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,276 (100.0%) of 29,276 articles have been extended.
+29,276 (100.0%) of 29,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Ruthless Australia crush England at T20 World Cup
+
+*2024-06-09 02:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ruthless-Australia-crush-England-at-T20-World-Cup/108-284416) · `en`
+
+(Bridgetown) - Australia crushed England by 36 runs in Barbados on Saturday to leave the defending champions' T20 World Cup hopes in the balance.
+
+Defeat means Jos Buttler's men are still winless after their opening game against Scotland was wrecked by rain.
+
+But Australia, who posted 201-7, are top of Group B with two wins after restricting their fierce rivals to 165-6 in their 20 overs.
+
+Australia's openers raced out of the blocks and the team posted the first score of 200-plus at the tournament even though no batsman reached 40.
+
+Phil Salt and Buttler gave England a solid platform in their reply, reaching 54-0 after six overs before going up a gear, taking 19 off Mitchell Starc's third over.
+
+But spinner Adam Zampa bowled Salt (37) with his first ball to leave England 73-1 in the eighth over and took the prized wicket of Buttler in his next over for 42.
+
+...
+
+[Data](articles/27c38391.json)
+
+---
 
 ### Miller rescues South Africa in T20 victory over Netherlands
 
@@ -2345,35 +2367,5 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 [Data](articles/83724ec3.json)
 
 [Extended Data](ext_articles/83724ec3.ext.json)
-
----
-
-### Search for monsoon rains, cloak, a hidden tourist paradise
-
-*2024-06-08 04:23:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggjj2rn7zo) · `si`
-
-It seems like you've shared a detailed narrative about a journey involving wildlife observation, cultural experiences, and environmental concerns in Sri Lanka. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps assistance with organizing or summarizing this content? Please provide more context or specific questions so I can offer the most relevant help.
-
-🟩
-
-One of the most common people who remembered many of the world who said Sri Lanka said.
-
-The sea strip around the island is a way to draw transators into the country.
-
-When the southwestern coastal coast with many beautiful beaches, the southwestern coastal coast, was in the North Western Province to the nearest, but still the eye of the most popular.
-
-As we were traveling through the maximum water level in the middle of the rain, we were able to see a golden light in the East as close to Chilaw.
-
-We were traveling in parallel to Puttalam, one of the longest and largest in Sri Lanka with the commencement of the Kalpitiya road on the Colombo-Puttalam road.
-
-Of the huge coconut rocks on either side of the road, winds were beautifully seen. The winds were more closely visible to the small destination that our first destination.
-
-At about eight in the morning, our first destination was reached the u destination, and we were near a beautiful sea strip. But that wasn't our last destination.
-
-...
-
-[Data](articles/87a3fc9e.json)
-
-[Extended Data](ext_articles/87a3fc9e.ext.json)
 
 ---

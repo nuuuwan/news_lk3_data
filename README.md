@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 08:20:27**
+As of **2024-06-08 08:34:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,173 (100.0%) of 29,177 articles have been extended.
+29,177 (100.0%) of 29,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ A 54-year-old man and his 22-year-old daughter, residents of Gonawala in Biyagam
 ◼️
 
 [Data](articles/845693e7.json)
+
+[Extended Data](ext_articles/845693e7.ext.json)
 
 ---
 
@@ -66,23 +68,31 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 
 [Data](articles/fe62e085.json)
 
+[Extended Data](ext_articles/fe62e085.ext.json)
+
 ---
 
-### බංග්ලාදේශයට ලකුණු 125ක ඉලක්කයක්
+### A target of 125 runs to Bangladesh
 
 *2024-06-08 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197513) · `si`
 
-පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහභාගීවන දෙවන තරගය බංග්ලාදේශයට එරෙහිව මේ වනවිට අමෙරිකාවේ ඩලස්හීදි පැවැත් වේ.
+In the second T20 World Cup match in Dullashhi, USA, Bangladesh won against Sri Lanka after scoring 125 runs, matching Sri Lanka's 124 runs. Bangladesh chose to field first, and despite losing 9 wickets, secured victory.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට  බංග්ලාදේශය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+🟩
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 09 දැවී ලකුණු 124 ක් රැස් කළේය.
+The second match of the T20 World Cup will be held in Dullashhi, US Dullashhi, USA.
 
-ඒ අනුව තරගය ජය ගැනීම සඳහා බංග්ලාදේශයට හිමිවූ ඉලක්කය ලකුණු 125කි.
+Bangladesh won the advantage of the coin, and they decided to give the Sri Lankan team first to bat first.
+
+Batting first, the Sri Lanka scored 124 runs for the loss of 9 wickets at the end of the allotted 20 overs.
+
+Accordingly, Bangladesh scored 125 runs in order to win the match.
 
 ◼️
 
 [Data](articles/84ab0561.json)
+
+[Extended Data](ext_articles/84ab0561.ext.json)
 
 ---
 
@@ -242,19 +252,25 @@ Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahung
 
 ---
 
-### 80 இற்கும் மேற்பட்ட ரயில் பயணங்கள் இரத்து
+### About more than 80 train trips
 
 *2024-06-08 01:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-இற்கும்-மேற்பட்ட-ரயில்-பயணங்கள்-இரத்து/175-338612) · `ta`
 
-ரயில் இயந்திர இயக்கவியல் பொறியியலாளர்கள் சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் இதுவரை 80 இற்கும் மேற்பட்ட ரயில் பயணங்கள் இரத்தாகியுள்ளன என ரயில்வே   திணைக்களம் தெரிவித்துள்ளது.
+Over 80 train trips have been disrupted by a strike initiated by the Railway Mechanical Engineers Association, leading to cancellations.
 
-குறித்த சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் நேற்று மாலை மாத்திரம் 43 ரயில் பயணங்கள் இரத்தாகியுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அத்துடன், ரயில் இயந்திர இயக்கவியல் பொறியியலாளர்கள் சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பு காரணமாக நேற்று  பிற்பகல் வரை 32 ரயில் பயணங்கள் இரத்து செய்யப்பட்டதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
+The Railway Department has said that more than 80 rail trips have been bleeding due to the workplace launched by the Railway Mechanical Engineers Association.
+
+The Railway Department said that 43 train trips were bleeding yesterday evening due to the workforce launched by the association.
+
+The Railway Department said that 32 train trips were canceled until yesterday afternoon. (A)
 
 ◼️
 
 [Data](articles/657aa167.json)
+
+[Extended Data](ext_articles/657aa167.ext.json)
 
 ---
 

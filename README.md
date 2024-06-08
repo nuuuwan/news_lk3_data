@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 00:34:17**
+As of **2024-06-09 00:50:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,271 (100.0%) of 29,276 articles have been extended.
+29,276 (100.0%) of 29,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ But Tristan Stubbs and Miller hauled South Africa off the ropes with a fifth wic
 ...
 
 [Data](articles/b585e6ea.json)
+
+[Extended Data](ext_articles/b585e6ea.ext.json)
 
 ---
 
@@ -335,6 +337,8 @@ Though gross reserves fall, there is no data yet available to show whether net r
 ...
 
 [Data](articles/bbb92a3e.json)
+
+[Extended Data](ext_articles/bbb92a3e.ext.json)
 
 ---
 
@@ -704,6 +708,8 @@ Political taxonomists are dividing the world into super states and small states.
 
 [Data](articles/8f08d08d.json)
 
+[Extended Data](ext_articles/8f08d08d.ext.json)
+
 ---
 
 ### Flood warnings for several rivers and Attanagalu Oya withdrawn
@@ -857,6 +863,8 @@ Sri Lanka requests Maldives to relax migrant worker remittances limit
 ...
 
 [Data](articles/7d63593a.json)
+
+[Extended Data](ext_articles/7d63593a.ext.json)
 
 ---
 
@@ -2335,6 +2343,8 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 ◼️
 
 [Data](articles/83724ec3.json)
+
+[Extended Data](ext_articles/83724ec3.ext.json)
 
 ---
 

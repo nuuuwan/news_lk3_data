@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 15:34:09**
+As of **2024-06-08 15:53:18**
 
 ## Newspaper Stats
 
-*Scraped **29,222** Articles*
+*Scraped **29,226** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 265
-dbsjeyarajcom | 276
+dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,574
@@ -20,35 +20,107 @@ adaderanalk | 3,306
 tamilmirrorlk | 3,429
 virakesarilk | 4,483
 dailymirrorlk | 4,644
-adaderanasinhalalk | 4,685
+adaderanasinhalalk | 4,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,218 (100.0%) of 29,222 articles have been extended.
+29,222 (100.0%) of 29,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### வரலாறு : 1967
+### අයිස් මත්ද්‍රව්‍ය සමග ජේලර් අත්අඩංගුවට
+
+*2024-06-08 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197526) · `si`
+
+මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් සිටි බන්ධනාගාර ජේලර්වරයෙකු අද (08) දහවල් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ සැකකරු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 15ක් එලෙස ප්‍රවාහනය කරමින් සිටියදී නිවිතිගල පොලීසිය විසින් අත්අඩංගුවට ගත් බවය.
+
+සැකකරු වැලිකඩ බන්ධනාගාර රෝහලේ සේවය කරන ජේලර්වරයෙකු බව වාර්තා වෙයි.
+
+රත්නපුර ජ්‍යේෂ්ඨ පොලිස් අධිකාරි කපිල ප්‍රේමදාස මහතාට ලද තොරතුරක් අනුව අයිස් මත්ද්‍රව්‍ය සමග යතුරුපැදියකින් යමින් සිටි සැකකරුව රත්නපුර කලවාන ප්‍රධාන මාර්ගයේ ගැටනිවත්ත දී පොලිස් මාර්ග බාධකයක් යොදා අත්අඩංගුවට ගෙන තිබුණි.
+
+බන්ධනාගාර නිලධාරියෙකු ලෙස රැකියාව කරමින් සැකකරු කලෙක සිට අයිස් මත්ද්‍රව්‍ය ජාවාරම සිදු කර ඇතැයි ද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/15fe3de1.json)
+
+---
+
+### මෝටර් රථයක් දුම්රිය 2ක ගැටී සිදුවූ මාරක අනතුර ගැන තවත් තොරතුරු
+
+*2024-06-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197525) · `si`
+
+එඬේරමුල්ල දුම්රිය ස්ථානය ආසන්නයේ පිහිටි දුම්රිය හරස් මාර්ගයේදී අද (08) උදෑසන මෝටර් රථයක් දුම්රිය දෙකක ගැටී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු දෙදෙනෙකු ජීවිතක්ෂයට පත්වුණි.
+
+ප්‍රදේශවාසීන් පවසන්නේ ආලෝක සංඥා ක්‍රියාත්මක වෙමින් තිබියදී අපරීක්ෂාකාරී ලෙස දුම්රිය මාර්ගයට ඇතුල් කළ මෝටර් රථයක් දුම්රියේ ගැටුණු බවය.
+
+අද උදෑසන 6.15ට පමණ මෙම මාරක රිය අනතුර සිදුවුණේ එඬේරමුල්ල දුම්රිය ස්ථානය ආසන්නයේ පිහිටි දුම්රිය හරස් මාර්ගයේදීය.
+
+එම ස්ථානයෙන් දුම්රියක් ධාවනය වන බවට වූ ආලෝක සංඥා ක්‍රියාත්මක වෙමින් තිබියදී එඩේරමුල්ල දෙස සිට වත්තල දෙසට මෝටර් රථයක් ඉදිරියට ධාවනය කර තිබුණි.
+
+එම අවස්ථාවේ බදුල්ලේ සිට කොළඹ බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රියේ මෝටර් රථය ගැටී තිබේ.
+
+අනතුරින් පසු මෝටර් රථය මීටර් 200ක් පමණ කොළඹ දෙසට ඇදී ගොස් තිබුණි.
+
+අනතුර දුටු ප්‍රදේශවාසීන් කඩිනමින් මෝටර් රථයේ සිටි පුද්ගලයින් පිටතට ගැනීමට උත්සාහ කිරීමේදී ඊට සාමන්තරව පිහිටි අනෙක් දුම්රිය මාර්ගය ඔස්සේ ත්‍රිකුණාමලය බලා ගමන්කරන ඝීග්‍රගාමී දුම්රිය ප්‍රතිවිරුද්ධ දෙසට ධාවනය වී ඇති අතර මෝටර් රථය එම දුම්රියේද ගැටී ඇත.
+
+...
+
+[Data](articles/2f3afabe.json)
+
+---
+
+### දැරියකට පහරදුන් කුකුළ් චමින්ද රෝහල්ගත කෙරේ
+
+*2024-06-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197524) · `si`
+
+සිව් හැවිරිදි දැරියකට අමානුෂික ලෙස පහරදී අත්අඩංගුවට ගෙන බන්ධනාගාර ගත කළ කුකුළ් චමින්ද අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+
+කෙසේ වෙතත් බන්ධනාගාර පරිශ්‍රය තුළදී සැකකරුට පහරදීමක් සිදුවී නැති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ජනරාල් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
+
+වැලිඔය ප්‍රදේශයේ සිව් හැවිරිදි දැරියකට අමානුෂික ලෙස පහරදුන් සැකකරු පසුගියදා පුල්මුඩේ, අරිසිමලේ ප්‍රදේශයේ සැඟව සිටියදී අත්අඩංගුවට ගැනුණි.
+
+අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එම්.කේ. චමින්ද නොහොත් කුකුළ් චමින්ද ලබන 19 වනදා දක්වා රිමාන්ඩ් ගත කළේය.
+
+පසුව සැකකරු ජුනි 06 වනදා අධිකරණ වෛද්‍ය නිලධාරී වෙත යොමුකර තිබුණි.
+
+අධිකරණ වෛද්‍ය නිලධාරියාගේ නිර්දේශ මත සැකකාර කුකුළ් චමින්ද අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/334ffa8f.json)
+
+---
+
+### History: 1967
 
 *2024-06-08 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185603) · `ta`
 
-1967இல் அரபு நாடுகளுக்கும் இஸ்ரேலுக்கும் இடையே ஆறு நாட்கள் தொடர்ச்சியாக நடந்த பயங்கர போரில் எகிப்திய எல்லையில், சூயஸ் கால்வாயை நோக்கி 25 மைல் தொலைவில், இஸ்ரேலிய படைகள் ஜெருசலேம் நகரம் உள்ளிட்ட பெருமளவு இடத்தை கைப்பற்றின.
+In 1967, during the Six-Day War, Israel captured significant territory from Arab nations, including Jerusalem and areas near the Suez Canal. The conflict also saw Israel seizing control of the Gulf of Aqaba, crucial for its shipping. The United Arab Emirates played a key role, with their air force targeting Israeli armored units. This summary encapsulates the strategic gains and confrontations of the war.
 
-இஸ்ரேலின் கப்பல் போக்குவரத்துக்கான மையப்புள்ளியாக உள்ள அகாபா வளைகுடா மீதான எகிப்தின் முற்றுகையை இஸ்ரேல் முறியடித்தது.
+🟩
 
-இந்நிலையில், இஸ்ரேல் இருக்கும் வரை போராட்டத்தை தொடர்வதென ஐக்கிய அரபு இராச்சியம் அன்றைய போர்க்கால சூழ்நிலையில் கர்ச்சித்தது. அதன் விளைவாக, அரபுப் படைகள் இஸ்ரேல் மீது எதிர்த்தாக்குதல் நடத்தின.
+In 1967, Israeli forces took a large number of space, including the city of Jerusalem, about 25 miles towards the Suez Canal, on the Egyptian border, in the six -day terrorist war between the Arab countries and Israel.
 
-இஸ்ரேலிய கவச அணி முழுவதையும் ஐக்கிய அரபு இராச்சியம் விமானப்படை விமானங்கள் ரொக்கெட் வீச்சினால் நிர்மூலமாக்கின.
+Israel over the siege of Egypt on the Gulf of Agaba, the focal point for Israeli shipping.
 
-இன்றளவில் கோரமுகம் காட்டிக்கொண்டிருக்கும் அந்த ஆறு நாள் போர் நிலவரத்தை அச்சிலேற்றி, 1967ஆம் ஆண்டு ஜூன் மாதம் 8, 9 ஆகிய திகதிகளில் வெளியாகி பரபரப்பை ஏற்படுத்திய வீரகேசரி பத்திரிகைகளின் முதல் பக்கங்கள் இங்கே...
+In this case, the United Arab Emirates were in the mission of the day to continue the struggle as long as Israel was present.. As a result, the Arab forces were resisting Israel.
+
+The United Arab Emirates Air Force Air Force flights allocated the entire Israeli armor team by rocket.
+
+Here are the first pages of the Weerakesari magazines that have been stirred up on June 8 and 9, 1967 ...
 
 ◼️
 
 [Data](articles/a10ef4c3.json)
+
+[Extended Data](ext_articles/a10ef4c3.ext.json)
 
 ---
 
@@ -134,19 +206,27 @@ It was also reported that the Criminal Investigations Department (CID) has infor
 
 ---
 
-### மோடியின் பதவியேற்பு விழாவில் 7 அயல் நாடுகளின் தலைவர்கள் பங்கேற்பு
+### 7 foreign leaders participating in Modi's swearing -in
 
 *2024-06-08 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185599) · `ta`
 
-இந்தியாவில் 2024 ஆம் ஆண்டு பாராளுமன்ற தேர்தல் நடைபெற்று முடிந்துள்ள நிலையில் நாளை ஞாயிற்று கிழமை (09) இரவு 7:15 மணிக்கு இந்திய ஜனாதிபதி மாளிகை வளாகத்தில் மோடி மற்றும் அவரது அமைச்சரவை உறுப்பினர்களுக்கு இந்திய ஜனாதிபதி திரௌபதி முர்மு பதவிப் பிரமாணம் செய்து வைக்கவுள்ளார்.
+Seven foreign leaders, including Sri Lanka's President Ranil Wickremesinghe and Bangladesh's PM Sheikh Hasina, will attend Indian PM Modi's swearing-in ceremony, aligning with India's "Neighbourhood First" policy. The event will take place at the Presidential House, followed by a reception at Rashtrapati Bhavan.
 
-மோடியின் பதவியேற்பு விழாவில் இலங்கை ஜனாதிபதி  ரணில் விக்ரமசிங்க, பங்காதேஷ் பிரதமர் ஷேக் ஹசீனா, மாலைதீவு ஜனாதிபதி முகமது முய்ஸு , சிசல்ஸ் துணை ஜனாதிபதி அகமது அபிப், மொரீஷியஸ் பிரதமர் பிரவிந்த் குமார் ஜக்நாத், நேபாள பிரதமர் புஷ்ப கமல் தஹல், பூட்டான் பிரதமர் ஷெரிங் டோப்கே உள்ளிட்ட 7 அயல் நாடுகளின் தலைவர்கள் பங்கேற்க உள்ளனர்.
+🟩
 
-பிரதமரின் பதவியேற்பு விழாவில் கலந்து கொள்ள அண்டை நாடுகளின் தலைவர்களை அழைத்து உள்ளோம். இது  "அயல் நாடுகளுக்கு முன்னுரிமை (Neighbourhood First)" கொள்கை மற்றும் ”சாகர் (SAGAR)” எனப்படும் பிராந்தியத்தில் அனைவருக்குமான பாதுகாப்பு மற்றும் வளர்ச்சி பார்வைக்கு இந்தியா அளித்த மிக உயர்ந்த முன்னுரிமையாக இது ஏற்பாடு செய்து உள்ளதாக வெளியுறவுத்துறை அமைச்சகம் வெளியிட்ட செய்திக்குறிப்பில் தெரிவிக்கப்பட்டு உள்ளது.
+Indian President Draupadi Murmu will be sworn in as Modi and his cabinet members at the Indian President's House premises at 7:15 pm tomorrow (09) at 7:15 pm.
 
-...
+Sri Lankan President Ranil Wickremesinghe, Pangadesh Prime Minister Sheikh Hasina, Maldivian President Mohammed Muizu, Sisal's Vice President Ahmed Abib, Mauritius Prime Minister Pravi Kumar Jagnath, Nepal Prime Minister Pushpa Kamal Tahal and Bhutan Prime Minister Sherringa Dopkes will participate in the swearing -in ceremony.
+
+We have invited leaders of neighboring countries to attend the Prime Minister's swearing -in. It is said in a statement issued by the Ministry of Foreign Affairs that India has arranged the "Neighbourhood First First" policy and "Sagar" in the region of Sagar.
+
+Apart from attending the swearing -in ceremony, foreign leaders will be attending a party with Indian President Draupadi Murmu at Rashtrapati Bhavan on Sunday evening.
+
+◼️
 
 [Data](articles/00c0aae9.json)
+
+[Extended Data](ext_articles/00c0aae9.ext.json)
 
 ---
 
@@ -278,27 +358,35 @@ At the time, the 18-year-old Hairbage series was extinguished with the highest w
 
 ---
 
-### இலங்கை குறித்த இந்தியாவின் வெளிவிவகார கொள்கை மாறாது ; உட்கட்டமைப்பு திட்டங்கள் ஏனைய கொள்கைகள் தொடர்பில் கடும் அழுத்தங்களை கொடுப்பதை இந்தியா குறைத்துக்கொள்ளும் - இராஜதந்திர ஆய்வாளர்கள் கருத்து
+### India's foreign policy on Sri Lanka will not change;India will reduce heavy pressure on other policies - diplomatic researchers comment
 
 *2024-06-08 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185592) · `ta`
 
-இந்தியாவின் பிரதமராக இரண்டு தடவை பதவிவகித்துள்ள நரேந்திரமோடி இந்திய நாடாளுமன்ற தேர்தலில்  மூன்றாவது முறை எதிர்பார்த்த வெற்றியை பெறாவிட்டாலும் தேர்தல்முடிவுகள் இலங்கை தொடர்பான அவரது கொள்கைகளில் மாற்றத்தை  ஏற்படுத்தாது  என ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+Despite losing seats in the latest elections, India under PM Modi is set to maintain its robust stance towards Sri Lanka, focusing on economic cooperation and infrastructure projects while possibly easing pressure on certain issues. This approach aims to balance strategic interests and manage perceptions positively in Sri Lanka, especially in light of changing dynamics in the region.
 
-இலங்கையுடனான இணைப்பு மற்றும் உள்கட்டமைப்பு திட்டங்களுக்கான ஆக்ரோசமான உந்துதல் குறையலாம் என ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-பாரதிய ஜனதா கட்சி பெரும்பான்மையை பெற தவறியுள்ளதுடன் மாநில கட்சிகளின் ஆதரவை பெறவேண்டிய நிலைக்கு தள்ளப்பட்டுள்ளது.
+Analysts have said that Narendra Modi, who has been appointed as the Prime Minister of India twice, will not change his policies on Sri Lanka, even if the Indian parliamentary election has not won the third time in the Indian parliamentary election.
 
-272 தொகுதிகளில் வெற்றிபெறவேண்டிய நிலையில் பாஜக தலைமையிலான தேசிய ஜனநாயக கூட்டணி 293 ஆசனங்னகளை கைப்பற்றியுள்ளது எனினும் நரேந்திரமோடியின் பாஜகவிற்கு 240 ஆசனங்கள் மாத்திரமே கிடைத்துள்ளன.
+Researchers have said that the aggressive motivation for the merger and infrastructure projects with Sri Lanka may be reduced.
 
-இதன் காரணமாக 28 ஆசனஙகளை கைப்பற்றிய இரண்டு மாநில கட்சிகள்  செல்வாக்கு செலுத்தக்கூடியவையாக மாறியுள்ளன.
+The Bharatiya Janata Party has failed to obtain a majority and has been forced to get the support of the state parties.
 
-இலங்கையில் நிலம் எண்ணெய் எரிவாயு மற்றும் மின் இணைப்பிற்கு இந்தியா அதிக அழுத்தம் கொடுத்துவருகின்றது.
+The BJP -led National Democratic Alliance has won 293 seats, but Narendra Modi's BJP has only 240 seats.
 
-மேலும் தனியார் துறையுடன் இணைந்து இலாபகரமான மீள்புதுப்பித்தக்க எரிசக்தி மற்றும் துறைமுக திட்டங்களை பெற்றுக்கொண்டுள்ளது.
+As a result, the two state parties that have seized 28 seats have become influential.
+
+India is pressing over land oil gas and power supply in Sri Lanka.
+
+Also, in collaboration with the private sector, it has obtained a profitable reconstruction energy and port plans.
+
+Based on the impact of Narendra Modi's small margin
 
 ...
 
 [Data](articles/59ba2d08.json)
+
+[Extended Data](ext_articles/59ba2d08.ext.json)
 
 ---
 
@@ -362,19 +450,27 @@ With the Bikku fleeing the area, the cause of the attack has not yet been reveal
 
 ---
 
-### திருகோணமலையில் தொழில் அமைச்சால் நடத்தப்பட்ட மக்கள் நடமாடும் சேவை
+### People's Mobile Service conducted by the Ministry of Labor in Trincomalee
 
 *2024-06-08 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185588) · `ta`
 
-தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சின் ஏற்பாட்டில் "நானே ஆரம்பம் வெல்வோம் ஸ்ரீலங்கா  சூரன்களோடு” திருகோணமலைக்கு ஸ்மார்ட் எதிர்காலம் எனும் தொனிப்பொருளில் மக்கள் நடமாடும் சேவையானது வெள்ளிக்கிழமை (07) திருகோணமலையில் அமைந்துள்ள மக்ஹெய்ஸர் மைதானத்தில் இடம்பெற்றது.
+The People's Mobile Service in Trincomalee, themed "Smart Future," featured a reception by Ministers Manusha Nanayakkara and Jagath Pushpa Kumara, focusing on labor issues and foreign employment. It included awareness programs against human trafficking and offered services from various departments like Labor and Foreign Employment. The event also provided equipment for schools and self-employment support, attended by officials, parliamentarians, and the public.
 
-தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார அவர்களினால் தேசிய கொடி ஏற்றப்பட்டு தேசிய கீதம் இசைக்கப்பட்டு திருகோணமலை மாவட்ட அரசாங்க அதிபர் சாமிந்த ஹெட்டியாரச்சி அவர்களின் வரவேற்புரையை தொடர்ந்து நிகழ்வு ஆரம்பமானது.
+🟩
 
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார அவர்களின் தலைமையில்  வெளிநாட்டு வேலைவாய்ப்பு மேம்பாட்டு இராஜாங்க அமைச்சர் ஜகத் புஷ்ப குமார அவர்களின் அனுசரணையுடன், அமைச்சுடன் இணைந்த நிறுவனங்களினால் வழங்கப்படும் அனைத்து சேவைகளையும் ஒரே நேரத்தில் ஒரே இடத்தில் பயனாளிகளின் வதிவிட பிரதேசங்களில் இலகுவாக வழங்க இவ்வேலைத்திட்டம் ஏற்பாடு செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The People's Mobile Service was held on Friday (07) at the McAisar Ground in Trincomalee under the theme 'Smart Future to Trincomalee with Sri Lankan Suras with the Ministry of Labor and Foreign Employment.
+
+The event commenced following the reception by the Minister of Labor and Foreign Employment, Manusha Nanayakkara and the National Anthem was hoisted and the National Anthem was played by the Government Agent of the Trincomalee District Saminda Hettiarachchi.
+
+The project has been organized by the Minister of Labor and Foreign Employment, Manusha Nanayakkara, Minister of Foreign Employment Development Minister Jagath Pushpa Kumara.
+
+Awareness program was held for safe and human trafficking for government officials, lawyers and permit agents in the Trincomalee district.
 
 ...
 
 [Data](articles/f3df538c.json)
+
+[Extended Data](ext_articles/f3df538c.ext.json)
 
 ---
 
@@ -1126,6 +1222,22 @@ The negotiations with the China Development Bank are also at an advanced stage.
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-08 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
 ### Shane and Shehan appointed to the driving seat at Triad
 
 *2024-06-08 02:27:00* · [`islandlk`](http://island.lk/shane-and-shehan-appointed-to-the-driving-seat-at-triad/) · `en`
@@ -1383,6 +1495,22 @@ Semasinghe noted that the Bill also facilitates issuing guarantees, on-lending, 
 [Data](articles/43b62403.json)
 
 [Extended Data](ext_articles/43b62403.ext.json)
+
+---
+
+### Sajith-Anura  Televised Debate on ITN  Fizzles out Due to SJB Leader Premadasa not Turning up at Studio;JVP leader AK Dissanayake Participates in ITN’s “Tulawa”Hosted by Sudarman Radaliyagoda Instead
+
+*2024-06-08 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84164) · `en`
+
+Samagi Jana Balawegaya (SJB) leader Sajith Premadasa did not attend the scheduled televised debate with National People’s Power (NPP) leader Anura Kumara Dissanayake on the Independent Television Network (ITN) last night (June 6).
+
+While Premadasa was absent, Dissanayake participated in the Thulawa political program, which was hosted by veteran broadcaster Sudarman Radaliyagoda.
+
+Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction with the ITN regarding its organisation of the debate between the SJB and the rival NPP. MP Bandara conveyed the party’s concerns in a letter to the state broadcaster, highlighting discrepancies in the planning process.
+
+...
+
+[Data](articles/5dc66623.json)
 
 ---
 
@@ -2021,117 +2149,5 @@ Accordingly, the appointment will be valid from 1 December 2024 to 31st June.
 [Data](articles/5214b26e.json)
 
 [Extended Data](ext_articles/5214b26e.ext.json)
-
----
-
-### New city planned for residents along Kelani River bank
-
-*2024-06-07 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-city-planned-for-residents-along-Kelani-River-bank/108-284354) · `en`
-
-June 07- In light of the severe flood risk, plans are afoot to establish a new city along the Kelani River bank, designed to provide comprehensive amenities including hospitals, schools, and residential complexes.
-
-This initiative aims to enhance living standards for the local population, particularly given the proximity of major institutions like the IDH Hospital and the Sri Lanka Transport Board Depot.
-
-Authorities are set to engage with residents to incorporate their feedback, ensuring a community-driven development plan within the next decade.
-
-This was revealed by Senior Presidential Advisor on National Security and Chief of Staff, Sagala Ratnayaka.
-
-He also announced a LKR 10,000 allowance for each household affected by the recent floods.
-
-During his visit to the Kolonnawa area on June 7, Ratnayaka inspected flood-damaged homes and a medical clinic at the Kolonnawa Sri Sambuddharaja Purana Vihara, overseeing relief efforts.
-
-...
-
-[Data](articles/a9fd518f.json)
-
-[Extended Data](ext_articles/a9fd518f.ext.json)
-
----
-
-### Contact Harsha faces under CID
-
-*2024-06-07 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197507) · `si`
-
-CID hands over threats to MP Dr. Harsha de Silva, as per Defense Minister Tiran Alles' directive issued by IGP Deshabandu Tennakoon.
-
-🟩
-
-The Investigation Criminal Investigations Department has handed over the threats to MP Dr. Harsha de Silva, MP, Dr. Harsha de Silva.
-
-The decision was taken by the Minister of Defense Minister Tiran Alles on an order issued by IGP Deshaband Tennakoon.
-
-◼️
-
-[Data](articles/10d2f690.json)
-
-[Extended Data](ext_articles/10d2f690.ext.json)
-
----
-
-### CID to probe alleged threats against MP Harsha de Silva
-
-*2024-06-07 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99734/cid-to-probe-alleged-threats-against-mp-harsha-de-silva) · `en`
-
-Public Security Minister Tiran Alles has instructed IGP Deshabandu Tennakoon to direct the Criminal Investigation Department (CID) to investigate into the alleged threats SJB MP Dr. Harsha de Silva has received.
-
-Speaking in Parliament today (7), the opposition parliamentarian and economist claimed that he is faced with threats to his life.
-
-◼️
-
-[Data](articles/577d1d69.json)
-
-[Extended Data](ext_articles/577d1d69.ext.json)
-
----
-
-### President tells us how the economy is right
-
-*2024-06-07 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197506) · `si`
-
-President Ranil Wickremesinghe highlights the introduction of the Economic Translation Bill as a crucial step towards improving the economy, aiming for a 5% GDP growth by 2027 and reducing unemployment to 5%. He emphasizes the importance of adhering to a nine-stage program without making empty promises, referencing agreements with the IMF and past decisions like increasing VAT, which led to strengthening the rupee.
-
-🟩
-
-President Ranil Wickremesinghe says that the first step in presiding the economic translation bill to be presented to the Parliament is the first step in the right path.
-
-The President was speaking at the occasion of the opening of Cephalospoin in Ekala area and the opening of the Meldole Production factory at the opening of the Meldoor Factory.
-
-The production was commenced by Sands Active (II) under Melwa Group.
-
-Former Health Minister Rajitha Senaratne is also present.
-
-...
-
-[Data](articles/b3662cec.json)
-
-[Extended Data](ext_articles/b3662cec.ext.json)
-
----
-
-### The government has received $ 4 billion in the first quarter - Vijitha Herath
-
-*2024-06-07 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185572) · `ta`
-
-In Q1 2024, the Sri Lankan government secured $4 billion in loans, bringing the total state debt to $100 billion. This move, part of the State Financial Management Bill aimed at economic recovery, was criticized by National People's Power MP Vijitha Herath, who highlighted issues with foreign loans and the lack of favorable resolutions from India and China regarding international debt restructuring.
-
-🟩
-
-In the quarter of 2024, the government has increased the state loans to $ 100 billion with $ 4 billion.. The National Debt Relief is seen as a water restructuring, said National People's Power MP Vijitha Herath.
-
-He said this while addressing the debate on the State Finance Management Bill held in Parliament on Friday (07).
-
-The government has presented the State Financial Management Bill to recover from the economic crisis.
-
-The government states that foreign state -run loans today, reorganizing tomorrow and reorganizing next month.
-
-The government has noted that the total loan value of Sri Lanka is $ 100 billion. The government boasts that we have recovered from the economic crisis and the inflation has declined.
-
-In the first quarter of 2024, the government has received $ 4 billion national loans. In this case, the state -run debt has risen to $ 100 billion.
-
-...
-
-[Data](articles/f578bdc3.json)
-
-[Extended Data](ext_articles/f578bdc3.ext.json)
 
 ---

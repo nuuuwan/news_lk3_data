@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 10:19:00**
+As of **2024-06-08 10:34:14**
 
 ## Newspaper Stats
 
-*Scraped **29,196** Articles*
+*Scraped **29,200** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 265
 dbsjeyarajcom | 276
-bbccomsinhala | 283
+bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,671
 dailyftlk | 1,754
 adalk | 2,487
-adaderanalk | 3,302
+adaderanalk | 3,303
 tamilmirrorlk | 3,426
-virakesarilk | 4,476
+virakesarilk | 4,478
 dailymirrorlk | 4,639
 adaderanasinhalalk | 4,680
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,680
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,196 (100.0%) of 29,196 articles have been extended.
+29,196 (100.0%) of 29,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Bangladesh beat Sri Lanka by two wickets
+
+*2024-06-08 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99739/bangladesh-beat-sri-lanka-by-two-wickets) · `en`
+
+In a thrilling T20 World Cup fixture, Bangladesh clinched a two-wicket victory over former champions Sri Lanka.
+
+Leg-spinner Rishad Hossain’s match-winning figures of 3/22, complemented by Mustafizur Rahman’s 3/17, restricted Sri Lanka to a modest 124 for 9 in 20 overs.
+
+Despite opener Pathum Nissanka’s 47 off 28 balls for Sri Lanka, crucial knocks from Towhid Hridoy (40) and Mahmudullah (16*) helped Bangladesh secure the win with an over to spare.
+
+The win was Bangladesh’s first over Sri Lanka across three World Cup meetings, setting them off the blocks in a competitive group.
+
+Sri Lanka have now lost two successive matches and find themselves at the bottom of the group. They will face Nepal next on Wednesday in Florida.
+
+Meanwhile, Bangladesh will face group toppers South Africa in New York on Monday.
+
+◼️
+
+[Data](articles/5a8f21ab.json)
+
+---
 
 ### Afghanistan pull off upset win over New Zealand
 
@@ -52,6 +74,26 @@ Left-arm seamer Fazalhaq Farooqi then followed his five-wicket opening match dem
 
 ---
 
+### யாழ். சுன்னாகத்தில் கூரிய ஆயுதங்களுடன் நபரொருவர் கைது!
+
+*2024-06-08 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185580) · `ta`
+
+யாழ்ப்பாணம் சுன்னாகம் ஈவினைப் பகுதியில் ஆபத்தை ஏற்படுத்தும் கூரிய ஆயுதங்களுடன் சந்தேக நபரொருவர் வெள்ளிக்கிழமை கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணப் பிராந்திய விசேட குற்றத்தடுப்பு பிரிவு பொலிஸாரே குறித்த ஆயுதங்களை மீட்டதுடன் சந்தேக நபரையும் கைது செய்துள்ளனர்.
+
+சுன்னாகம் ஈவினைப் பகுதியில் வெளிநாட்டு பிரஜை ஒருவருக்கு சொந்தமான வீட்டிலே வாள் உள்ளிட்ட கூரிய ஆயுதங்கள் இருப்பதாக பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய குறித்த சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+இதன்போது, எட்டு ஆயுதங்கள் கைப்பற்றப்பட்டதுடன் சம்பவம் தொடர்பாக கைதான சந்தேக நபரிடம் விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+குறித்த நபர் பல்வேறுபட்ட வன்முறைச் சம்பவங்களுடன் தொடர்புபட்டிருக்கலாம் என சந்தேகிக்கும் பொலிஸார், குறித்த விடயத்தில் வெளிநாட்டு பிரஜைக்கும் தொடர்புள்ளதா அல்லது வேறு நபர்களுக்கு தொடர்புள்ளதா என்ற கோணத்தில் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/a96fc7fe.json)
+
+---
+
 ### Bangladesh
 
 *2024-06-08 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197517) · `si`
@@ -69,6 +111,28 @@ They won 125 runs for the loss of 8 wickets in 19 overs.
 [Data](articles/3cf378c6.json)
 
 [Extended Data](ext_articles/3cf378c6.ext.json)
+
+---
+
+### டென்மார்க் பிரதமர் மீது நபர் ஒருவர் தாக்குதல் - தலைநகர வீதியில் சம்பவம்
+
+*2024-06-08 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185579) · `ta`
+
+டென்மார்க் பிரதமர் மெட்டே  பிரடெரிக்சன் மீது கொப்பன்ஹேகன் வீதியில்  நபர் ஒருவர் தாக்குதலை மேற்கொண்டு;ள்ளார்.
+
+நகரத்தின் சதுக்கத்தில் நபர் ஒருவர் பிரதமரை நோக்கி சென்று அவர் மீது தாக்குதலை மேற்கொண்டார் என பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+
+ஐரோப்பாவில் நாம் நம்புகின்ற குரல்கொடுக்கின்ற அனைத்திற்கும் எதிரான இழிவான செயல் இதுவென ஐரோப்பிய ஒன்றிய ஆணையாளர் உருசுலா வொன்டெயர் லெயென் தெரிவித்துள்ளார்.
+
+கொப்பன்ஹேகனின் குல்டிரோவேர்ட் பகுதியில் நபர் ஒருவர் டென்மார்க் பிரதமரை தாக்கினார் இந்த சம்பவத்தினால் பிரதமர் அதிர்ச்சியடைந்துள்ளார் என பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+
+எதிர்திசையிலிருந்து வந்த முதுகில் பிடித்து பிரதமரை தள்ளினார் அவர் விழுந்தார் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+டென்மார்க் ஐரோப்பிய தேர்தல்களில் வாக்களிப்பதற்கு சில தினங்களிற்கு முன்னர் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/c2cdd37c.json)
 
 ---
 
@@ -503,6 +567,26 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 [Data](articles/e5141e6e.json)
 
 [Extended Data](ext_articles/e5141e6e.ext.json)
+
+---
+
+### මෝසම් වැසි, වාරකන් මැද, සැඟවුණු සංචාරක පාරාදීසයක් සොයා
+
+*2024-06-08 04:23:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggjj2rn7zo) · `si`
+
+ශ්‍රී ලංකාව කියූ සැනින් ලෝකයේ බොහෝ දෙනෙකුට මතක් වන එක් පොදු දෙයක් වන්නේ ශ්‍රී ලංකාව සතු වටිනාම සම්පතක් වන සුන්දර වෙරළ තීරයන් ය.
+
+දිවයින වටා පිහිටි මුහුදු තීරය, රට තුළට සංචාකයන් ඇද ගන්නා මාර්ගයකි.
+
+වඩාත් සුන්දර මුහුදු වෙරළ රාශියක් හිමි දකුණු පළාතේ වෙරළ තීරයන්ට යා හැකි මාර්ග ගණනාවක් ම නිරිත දිග මෝසමේ දැඩි වර්ෂාව හේතුවෙන් ඇති වූ ගංවතුරෙන් යටව තිබිය දී අප ගමන් කරමින් සිටියේ වයඹ පළාතේ පිහිටි එවැනිම සුන්දර නමුත් තවමත් වැඩි පිරිසකගේ ඇස නොගැටුණු සුන්දර වෙරළ තීරයක් වෙත ය.
+
+වර්ෂාව මධ්‍යයේ උපරිම ජල මට්ටමට ළඟා වෙමින් පැවති ගංගා සහ ඔය කිහිපයක් පසුකරමින් යමින් සිටි අපට හලාවත නගරට ආසන්න වෙත්ම නැගෙනහිර දිශාවෙන් රන්වන් ආලෝකයක් විහිදුවමින් හිරු නැග එන අයුරු දැක ගැනීමට හැකි විය.
+
+කොළඹ - පුත්තලම මාර්ගයේ ගමන් කළ අප කල්පිටිය දෙසට ගමන් කිරීම ඇරඹීමත් සමඟ ශ්‍රී ලංකාවේ ඇති දීර්ඝතම සහ විශාලතම කළපු අතරින් එකක් වන පුත්තලම් කලපුවට සමාන්තරව ගමන් කරමින් සිටියෙමු.
+
+...
+
+[Data](articles/87a3fc9e.json)
 
 ---
 
@@ -2007,91 +2091,5 @@ Here is the pictures of the students who are floating in the water throughout th
 [Data](articles/b3363e5c.json)
 
 [Extended Data](ext_articles/b3363e5c.ext.json)
-
----
-
-### Sri Lanka tourist promotion officials reject VFS Global half million dollar offer: Harin
-
-*2024-06-07 17:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-promotion-officials-reject-vfs-global-half-million-dollar-offer-harin-166979/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s promotional officials have rejected half a million dollars offered by VFS Global, Minister Tourism Harin Fernando said while a parliamentary panel is probing the controversial deal with the firm.
-
-Tourism sector has said the VFS website which is collecting data is a complex interface compared to a user-friendly interface which was earlier available, built by Mobitel, a Sri Lanka based telco.
-
-“VFS company recently came and said it will give us 500,000 dollars for promotional work,” Minister Fernando told parliament Friday.
-
-“We said we cannot do that. We said we will give it to the Tourism Advisory Council to discuss.
-
-“The Council’s President is Hiran Cooray from Jetwing Hotels. They said they did not want to enter into a discussion with VFS.”
-
-VFS Global started collecting 18.5 dollars and other fees, from each after striking a deal with the Department of Immigration and Emigration, which comes under the Ministry of Public Security without competitive bidding.
-
-...
-
-[Data](articles/79158c91.json)
-
-[Extended Data](ext_articles/79158c91.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.70/80 to US dollar
-
-*2024-06-07 17:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-70-80-to-us-dollar-166949/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 302.70/80 to the US dollar on Friday, from 302.80/303.10 to the dollar the previous day, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 closed stable at 9.95/10.05 percent.
-
-A bond maturing on 15.09.2027 closed at 10.45/55 percent down from 10.50/65 percent.
-
-A bond maturing on 01.07.2028 closed at 11.00/10 percent up from 10.95/11.05 percent.
-
-A bond maturing on 15.05.2030 closed stable at 11.75/90 percent.
-
-A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun7/2024)
-
-◼️
-
-[Data](articles/a19f5a48.json)
-
-[Extended Data](ext_articles/a19f5a48.ext.json)
-
----
-
-### Vietnam envoy pays farewell call on Sri Lanka Prime Minister
-
-*2024-06-07 17:30:00* · [`economynextcom`](https://economynext.com/vietnam-envoy-pays-farewell-call-on-sri-lanka-prime-minister-166984/) · `en`
-
-ECONOMYNEXT – Vietnam ambassador to Sri Lanka Thi Thanh Truc paid a farewell call on prime minister Dinesh Gunawardena at Temple Trees in Colombo on Thursday.
-
-The prime minister thanked her for the contribution made to strengthen bilateral relations during her tenure and wished her well in her future endeavours.
-
-Sri Lanka and Vietnam have the potential for closer engagement, Truc has said earlier.
-
-Co-operation between the two countries have grown steadily over the years in bilateral trade, investment, high level visits and expanding people to people contact.
-
-Earlier this year Sri Lanka and Vietnam signed an agreement to develop the agricultural sector in the island which will include the exchange of agricultural technology, studies and research, expertise, production of advanced seeds, application of fertilizers and pesticides, and training of farmers and officials to increase harvests. (Colombo/Jun7/2024)
-
-◼️
-
-[Data](articles/e48375f1.json)
-
-[Extended Data](ext_articles/e48375f1.ext.json)
-
----
-
-### The World Thankfully Rising To End US-Israeli Political Exceptionalism
-
-*2024-06-07 17:23:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-world-thankfully-rising-to-end-us-israeli-political-exceptionalism/) · `en`
-
-“The world order and American actions in the world have deep wiring” ~ Ben Rhodes
-
-On 2 June 2022 President Biden published an op-ed in the New York Times titled ‘How the US is willing to help Ukraine’ in which he declared that Russia’s action in Ukraine ‘could mark the end of the rules-based international order and open the door to aggression elsewhere, with catastrophic consequences the world over’. Later, in a press conference at the conclusion of the June 2022 NATO Summit Meeting in Madrid, he warned both Russia and China that the democracies of the world would ‘defend the rules-based order’(RBO). There was however no mention of international law. The term RBO is so frequently used by American political leaders, that it ‘seems to have become a job requirement for a top position in the US foreign policy apparatus’ as per analysts. US’ failure to invoke international law and instead to refer on most occasions to a ‘rules-based international order’ is not an omission, but deliberate.
-
-...
-
-[Data](articles/8cbf025c.json)
-
-[Extended Data](ext_articles/8cbf025c.ext.json)
 
 ---

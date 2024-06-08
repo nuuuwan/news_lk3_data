@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 13:04:06**
+As of **2024-06-08 13:19:01**
 
 ## Newspaper Stats
 
-*Scraped **29,208** Articles*
+*Scraped **29,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,303
 tamilmirrorlk | 3,428
 virakesarilk | 4,479
 dailymirrorlk | 4,643
-adaderanasinhalalk | 4,681
+adaderanasinhalalk | 4,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,208 (100.0%) of 29,208 articles have been extended.
+29,208 (100.0%) of 29,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### නිවසේ උඩු මහලෙන් වැටුණු එක්දරු පියා මරුට
+
+*2024-06-08 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197520) · `si`
+
+ආරක්ෂක වැටක් නොමැති නිවසක උඩුමහලෙන් වැටී 47හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ හොරණ අරමනාගොල්ල කඳන්හේන ප්‍රදේශයේ පදිංචි එක්දරු පියෙකි.
+
+◼️
+
+[Data](articles/c936aaf6.json)
+
+---
 
 ### Who is the capital of the US?
 
@@ -2109,27 +2123,5 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 [Data](articles/597f5245.json)
 
 [Extended Data](ext_articles/597f5245.ext.json)
-
----
-
-### A slight decrease in foreign reserves in May
-
-*2024-06-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197504) · `si`
-
-In May 2024, Sri Lanka's foreign reserves slightly decreased to $5,442.1 million, down 0.9% from April's $5,471 million. The forex reserve, a key part of the reserves, dropped 0.4% to $5,367 million.
-
-🟩
-
-The Central Bank of Sri Lanka announced that the number of official reserves in the country at the end of May 2024, the Central Bank announced US $ 5,4,421 million.
-
-This is 0.9% shorter compared to $ 5,471 million US $ 5,471 million in April 2024.
-
-Forex pool, the main component of the uniform reserve assets, the forex reserve has fell by 0.4% to $ 5,367 million from $ 5,367 million.
-
-◼️
-
-[Data](articles/e7c92d97.json)
-
-[Extended Data](ext_articles/e7c92d97.ext.json)
 
 ---

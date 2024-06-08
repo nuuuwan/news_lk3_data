@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 14:04:01**
+As of **2024-06-08 14:18:58**
 
 ## Newspaper Stats
 
-*Scraped **29,211** Articles*
+*Scraped **29,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ islandlk | 1,574
 economynextcom | 1,671
 dailyftlk | 1,754
 adalk | 2,487
-adaderanalk | 3,304
-tamilmirrorlk | 3,428
+adaderanalk | 3,306
+tamilmirrorlk | 3,429
 virakesarilk | 4,479
 dailymirrorlk | 4,643
-adaderanasinhalalk | 4,683
+adaderanasinhalalk | 4,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,211 (100.0%) of 29,211 articles have been extended.
+29,212 (100.0%) of 29,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Harsha informed to give statement to CID over threats
+
+*2024-06-08 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99742/harsha-informed-to-give-statement-to-cid-over-threats) · `en`
+
+The Criminal Investigation Department (CID) has informed SJB MP Dr. Harsha de Silva that they need to record a statement over his claims of threats against him, police said.
+
+Public Security Minister Tiran Alles yesterday instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats received by the opposition parliamentarian.
+
+Speaking in Parliament on Friday (7), the Chair of the Committee of Public Finance (COPF) claimed that he is faced with threats to his life over the inquiry into the controversy surrounding the new visa issuance system.
+
+“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” he posted on ‘X’ (formerly Twitter).
+
+◼️
+
+[Data](articles/d7bec33e.json)
+
+---
+
+### இன்றும் தொடரும் போராட்டம்
+
+*2024-06-08 13:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-தொடரும்-போராட்டம்/175-338617) · `ta`
+
+கொழும்பிலுள்ள 2 ரயில்வே பணிமனைகளில் இருந்து ரயில்கள் இயக்கப்படவில்லையென லொகோமோட்டிவ் ஒப்பரேட்டிவ் பொறியியலாளர்கள் சங்கத்தின் செயலாளர் எஸ்.ஆர்.சி.எம் சேனாநாயக்க தெரிவித்துள்ளார்.
+
+சம்பளம் வழங்கப்படாமை, பதவி உயர்வின்மை, ஆட்சேர்ப்பு இன்மை உள்ளிட்ட பல்வேறு பிரச்சினைகளை முன்வைத்து இந்த வேலைநிறுத்தம் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டுள்ளார்.  R
+
+◼️
+
+[Data](articles/ec953b61.json)
+
+---
+
+### CIDයෙන් හර්ෂ ට දැනුම්දීමක්
+
+*2024-06-08 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197522) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගෙන් ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව තමන්ට එල්ල වූ බව කියන තර්ජන සම්බන්ධයෙන් ඔහුගෙන් එලෙස ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඔහුට දැනුම්දී ඇති බව වැඩිදුරටත් වාර්තා විය.
+
+◼️
+
+[Data](articles/2e57259e.json)
+
+---
+
+### Elderly man dies after assault by saffron-robed monk
+
+*2024-06-08 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99741/elderly-man-dies-after-assault-by-saffron-robed-monk) · `en`
+
+An elderly person has reportedly died after being assaulted by a saffron-robed monk who was staying at a house in Marawila area in Giriulla.
+
+The injured person was found based on information received by Giriulla Police that an individual was critically injured inside a house.
+
+Later, the injured person was admitted to Dambadeniya Hospital where he succumbed to injuries while receiving treatment, police said.
+
+It is reported that the suspect is a relative of the deceased.
+
+Police said that it has been revealed that the suspect, a saffron-robed monk, does not live in a temple but lives in his mother’s house in Marawila area and is also allegedly addicted to drinking alcohol.
+
+The motive behind the attack has not yet been ascertained as of yet while Giriulla Police are conducting further investigations.
+
+◼️
+
+[Data](articles/5eb49ccf.json)
+
+[Extended Data](ext_articles/5eb49ccf.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට සුපිරි 8ට යා හැකිද ?
+
+*2024-06-08 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197521) · `si`
+
+දුර්වල පිතිකරණය හේතුවෙන් පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව අද (08) දෙවැනි තරගයත් පරාජයට පත්වුණි.
+
+ශ්‍රී ලංකා පන්දුවාර 20 ලෝක කුසලාන තරගාවලියක බංග්ලාදේශය හමුවේ පරාජයක් ලැබු පළමු අවස්ථාව මෙය වෙයි.
+
+ඩලස් හි ග්‍රෑන්ඩ් ප්‍රේරි ක්‍රීඩාංගණයේ පැවති තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශය ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකාවට ආරාධනා කර තිබුණි.
+
+ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුළු 9ක් දැවී ලකුණු 124කට සීමා කිරීමට බංග්ලාදේශය කණ්ඩායම සමත්විය
+
+ලකුණු 125ක ඉලක්කයක් හඹායාමට පිටියට පිවිසි බංග්ලාදේශට දැඩි පීඩණයක් එල්ල කිරීමට ශ්‍රී ලංකා පන්දු යවන්නන් සමත්වුණේ, පළමු කඩුළු 3 ලකුණු 28ක් තුල දවාගනිමින්.
+
+බංග්ලාදේශ කණ්ඩායමේ ජයග්‍රාහී මාවත විවර වුයේ වනිඳු හසරංග යැවූ 12 වැනි පන්දුවාරයේදී තව්හිද් හ්‍රිදෝයි පිට පිට එල්ල කළ හයේ පහර 3ත් සමගය.
+
+18 වැනි පන්දුවාරය නිමාවෙද්දී ශ්‍රී ලංකා නිත්‍ය පන්දු යවන්නන් සිව්දෙනාගේ පන්දුවාර 16 යොමු කර අවසන්ව තිබීම හේතුවෙන් ශ්‍රී ලංකාවට ජයග්‍රහණය පිළිබඳ තබා තිබු බලාපොරොත්තු අත්හැර ගැනීමට සිදුවුණි.
+
+...
+
+[Data](articles/39ab541f.json)
+
+---
 
 ### William Anders, former Apollo 8 astronaut, dies in plane crash
 
@@ -2035,121 +2129,5 @@ Hajj, one of Islam’s five pillars, is the pilgrimage to Makkah in Saudi Arabia
 [Data](articles/b4490e45.json)
 
 [Extended Data](ext_articles/b4490e45.ext.json)
-
----
-
-### Sri Lanka - Bangladesh teams targeting the R20 World Cup Super 8
-
-*2024-06-07 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185570) · `ta`
-
-In the 9th T20 World Cup, Sri Lanka and Bangladesh aim for the Super 8 round, clashing in the US and West Indies. Sri Lanka, after losing to South Africa, needs wins in their next three matches, including against Bangladesh. Bangladesh, playing their first match without pressure, looks to counter Sri Lanka's strategy. Despite historical wins by Sri Lanka over Bangladesh in the R20 World Cup, both teams must strategize effectively to secure victory.
-
-🟩
-
-Sri Lanka and Bangladesh will clash in the T team in the 9th T20 World Cup chapter in the United States and the West Indies.
-
-The tournament will start at 6.00 am on Saturday (08) at the Grand Brairie Stadium, Dalus.
-
-The two teams are expected to quit until the two teams can compete with the newly formed enmity as these two teams are targeting the Super 8 round.
-
-Sri Lanka will face Bangladesh in its second match, which is forced to win the remaining three matches, which lost their opening match against South Africa.
-
-On the other hand, Bangladesh will play in his first match and they will not face any pressure.
-
-As for the Sri Lankan team, it is necessary not to repeat the mistakes made by South Africa during the match.
-
-The Sri Lankan players unnecessarily fired wickets in the fields where the South African bowlers' flowing balls were simply to the fields.
-
-...
-
-[Data](articles/425a27fa.json)
-
-[Extended Data](ext_articles/425a27fa.ext.json)
-
----
-
-### What was the first time in the history of Saudi
-
-*2024-06-07 19:18:20* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියෙන්-ඉතිහාසයේ-ප්‍රථමවරට-ලංකාවට-ලැබුණ-දේ/11-410074) · `si`
-
-In a historic move, Saudi Arabia offered free Hajj pilgrimages to Sri Lanka in 2024, marking the first such initiative in their shared history. This gesture was facilitated by the Saudi Arabian Ambassador and the Sri Lankan Defense Minister, highlighting a significant diplomatic and cultural exchange between the two nations.
-
-🟩
-
-For the first time in the history of the Sri Lankan history, the Saudi Arabian government has the opportunity to provide free Hajj pilgrimage to the Annual Hajj pilgrimage this year (2024).
-
-Defense Minister Hon
-
-The Saudi Arabic Ambassador had arranged to get five special occasions for the annual Hajj pilgrimage to this special request carried out by the State Minister.
-
-It is noteworthy that a special favor with special favor this year for the Armed Forces.
-
-Chief Minister of Defense Tennakoon, Ambassador of His Excellency Alkothani at the Saudi Arabic Embassy in Colombo this morning (June 07)He did
-
-◼️
-
-[Data](articles/b23bd5ee.json)
-
-[Extended Data](ext_articles/b23bd5ee.ext.json)
-
----
-
-### Most of the preparations for the Gender Equality Bill
-
-*2024-06-07 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185567) · `ta`
-
-The Gender Equality Bill faces constitutional challenges, with the Supreme Court highlighting several provisions as being in conflict with the Constitution. The court advises achieving a two-thirds majority and holding a referendum for its passage.
-
-🟩
-
-Most of the preparations of the Gender Equality Bill are unconstitutional. Speaker Mahinda Yapa Abeywardena told the House that the High Court has given the Supreme Court aim to get a two -thirds majority and go to a referendum if the bill is to be passed.
-
-On Friday (7), the Speaker informed the House on Friday (7) that the Supreme Court has put forward the 'Gender Equality' Bill challenging the Supreme Court under Article 121 (1) of the Constitution.
-
-Most of the provisions of this Bill are contrary to Article 12 of the Constitution, the Supreme Court stated that. Sarath 3 and 4 in Article 2 of this Bill is contraindicated with the Constitution 9, 10,12, 14 (1) (e) and 27 (1) (G).
-
-Article 4, 7, 17, 18, 18, 25, 26 and 27, 9, 10,12 (1), 14 (1), 14 (1) (F) of the Constitution 27 (1) (b) of the ConstitutionThe authority to be set up under 5 and 6 is the authority of the string 7, and is contrary to the sections 7, 10,12 (1), 14 (1) (1), 14 (1) (F).
-
-...
-
-[Data](articles/b3d324ed.json)
-
-[Extended Data](ext_articles/b3d324ed.ext.json)
-
----
-
-### Economic Transformation Bill first step towards economic stability – President
-
-*2024-06-07 18:50:00* · [`islandlk`](http://island.lk/economic-transformation-bill-first-step-towards-economic-stability-president/) · `en`
-
-President Ranil Wickremesinghe announced that the government has initiated the first step towards economic stability by submitting the Economic Transformation Bill. He stressed that regardless of which government or leader takes power, it is imperative to adhere to this agreement to effectively rebuild the national economy. The President emphasized that a proper plan is essential for addressing the country’s economic challenges.
-
-President Wickremesinghe made these remarks during the inauguration ceremony of the Cephalosporin Injectable Plant and the unveiling of the “Meldol” Reliable Relief Manufacturing Facility in Ekala on Thursday (06).
-
-The new production facilities, initiated by Sands Active (PVT) Ltd under the Melwa Group, represent a significant boost to the pharmaceutical sector. President Wickremesinghe, who unveiled the plaque and inaugurated the factory, also took an observation tour of the new facilities.
-
-...
-
-[Data](articles/bdf124a0.json)
-
-[Extended Data](ext_articles/bdf124a0.ext.json)
-
----
-
-### Biden apologizes to Ukraine’s Zelenskyy
-
-*2024-06-07 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Biden-apologizes-to-Ukraines-Zelenskyy/107-284349) · `en`
-
-PARIS (AP) — U.S. President Joe Biden on Friday for the first time publicly apologized to Ukraine for a monthslong congressional holdup in American military assistance that let Russia make gains on the battlefield.
-
-The apology came as Biden met in Paris with Ukrainian President Volodymyr Zelenskyy, who appealed for bipartisan U.S. support going forward “like it was during World War II.”
-
-A day earlier, the two had attended ceremonies marking the 80th anniversary of the D-Day landings in Normandy, where Biden had drawn common cause between the allied forces that helped free Europe from Nazi Germany and today’s effort to support Ukraine against Russia’s invasion and Zelenskyy had been greeted with a rapt ovation.
-
-...
-
-[Data](articles/80699863.json)
-
-[Extended Data](ext_articles/80699863.ext.json)
 
 ---

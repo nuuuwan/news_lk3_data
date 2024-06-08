@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 23:04:04**
+As of **2024-06-08 23:18:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,265 (100.0%) of 29,270 articles have been extended.
+29,270 (100.0%) of 29,270 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ On the sidelines, the Foreign Minister is expected to have bilateral meetings wi
 ◼️
 
 [Data](articles/f18e49c1.json)
+
+[Extended Data](ext_articles/f18e49c1.ext.json)
 
 ---
 
@@ -166,17 +168,23 @@ Hamas militants and a large number of Palestinian civilians have died due to the
 
 ---
 
-### யாழ்ப்பாணத்தில் 31 கிலோ கேரளா கஞ்சாவுடன் இளைஞன் கைது
+### Youth arrested with 31 kg Kerala ganja in Jaffna
 
 *2024-06-08 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185625) · `ta`
 
-வடமராட்சி மணற்காட்டு பகுதியில் கேரளா கஞ்சா பொதிகளை இளைஞன் ஒருவர் பதுக்கி வைப்பதாக இராணுவ புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற ரகசியத் தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த இராணுவத்தினர் , கஞ்சா பொதிகளுடன் இளைஞனைக் கைது செய்துள்ளனர்.
+A youth was arrested in Jaffna with 31 kg of Kerala ganja based on intelligence tips. Soldiers found the drugs in the Vadamarachchi area and turned the suspect and cannabis over to the police for prosecution.
 
-மீட்கப்பட்ட கஞ்சா பொதிகள் 31 கிலோ நிறையுடையது எனவும் , கைது செய்யப்பட்ட இளைஞனையும் , மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக பருத்தித்துறை பொலிசாரிடம் ஒப்படைத்துள்ளதாக இராணுவ தரப்பினர் தெரிவித்துள்ளனர்.
+🟩
+
+Soldiers rushed to the scene and arrested the youth with ganja packages on the basis of confidential information received by the Army Intelligence Unit that a young man smuggled Kerala cannabis packs in the Vadamarachchi sandal area.
+
+Army sources said that the rescued cannabis packages were 31 kg and the arrested youth and the recovered cannabis had been handed over to the Point Pedro Police for further legal action.
 
 ◼️
 
 [Data](articles/d9679428.json)
+
+[Extended Data](ext_articles/d9679428.ext.json)
 
 ---
 
@@ -206,41 +214,59 @@ He also said that the incident had begun an investigation by a jarrror.
 
 ---
 
-### யாழ்ப்பாணத்தில் "சுயமரியாதை  நடை - 2024"
+### In Jaffna "Self -Extreme Walk - 2024"
 
 *2024-06-08 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185624) · `ta`
 
-யாழ்ப்பாணத்தில் "சுயமரியாதை  நடை - 2024" இன்றைய தினம் சனிக்கிழமை காலை இடம்பெற்றது .
+The "Self-respecting Walk - 2024" in Jaffna, held on a Saturday morning, started from the Jaffna Central Bus Stand, went through the farm road, and concluded near the public library. Organizers emphasized its focus on self-esteem, equality, and social justice.
 
-யாழ் மத்திய பேருந்து நிலையம்  முன்னாலிருந்து  ஆரம்பித்த  குறித்த நடைபயணம், சத்திரச் சந்தியை நோக்கி பயணித்து பண்ணை வீதியூடாக  பொலிஸ் நிலைய வீதி, சென்று பொது நூலக  முன்பாக நிறைவடைந்தது.
+🟩
 
-சுயமரியாதை, சமத்துவம், சமூக நீதியை அடிப்படையாகக் கொண்டு ஏற்பாடு செய்யப்பட்டிருக்கும் எமது சுயமரியாதை  நடைபயணம் மேற்கொள்ளப்பட்டது என ஏற்பாட்டாளர்கள் தெரிவித்தனர்.
+The "Self -respecting Walk - 2024" was held on Saturday morning in Jaffna.
+
+The walk on the Jaffna Central Bus Stand, which was traveled to the Sathra junction, passed through the farm road, and ended in front of the public library.
+
+The organizers said that our self -esteem, based on self -esteem, equality and social justice, had taken place.
 
 ◼️
 
 [Data](articles/c7a8d649.json)
 
+[Extended Data](ext_articles/c7a8d649.ext.json)
+
 ---
 
-### சம்பியன் அணிகள் மோதும் இங்கிலாந்து - அவுஸ்திரேலியா போட்டி இன்று
+### England - Australia Tournament
 
 *2024-06-08 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185623) · `ta`
 
-நடப்பு ரி20 உலகக் கிண்ண சம்பியன் இங்கிலாந்தும் நடப்பு 50 ஓவர் உலகக் கிண்ண சம்பியன் அவுஸ்திரேலியாவும் மோதும் பி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டி இன்று இரவு பார்படோஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் மைதானத்தில் நடைபெறவுள்ளது.
+Tonight's T20 World Cup match at the Brijdown Kensington Oval Ground features England vs. Australia, with England leading in past encounters. The rivalry, including the memorable 2007 R20 World Cup win by England, promises an exciting clash. Despite the UK's internal issues, the match is anticipated to be highly competitive, with both teams performing well this year. Pet Cammins returns to the Australian team, adding to the anticipation.
 
-ஐக்கிய அரபு இராச்சியத்தில் 2021இல் நடைபெற்ற ரி20 உலகக் கிண்ணப் போட்டியல் அவுஸ்திரேலியா சம்பியனாகி இருந்ததும் குறிப்பிடத்தக்கது.
+🟩
 
-இதே விளையாட்டரங்கில் 14 வருடங்களுக்கு முன்னர் நடைபெற்ற ரி20 உலகக் கிண்ண இறுதிப் போட்டியில் இந்த இரண்டு அணிகளும் மோதிக்கொண்டபோது 7 விக்கெட்களால் இங்கிலாந்து வெற்றிபெற்று முதல் தடவையாக உலக சம்பியனாகி இருந்தது.
+The T20 World Cup for the B Committee will be held at the Brijdown Kensington Oval Ground tonight.
 
-இம்முறை உலகக் கிண்ணத்தில் இந்த இரண்டு அணிகளுக்கு இடையிலான மோதல் மிகச் சிறந்த போட்டியாக அமையும் என எதிர்பார்க்கப்படுகிறது.
+It is noteworthy that the R20 World Cup competition held in 2021 in the United Arab Emirates was Australia.
 
-ஆனால், இங்கிலாந்துக்கும் ஸ்கொட்லாந்துக்கும் இடையிலான போட்டி மழையினால் கைவிடப்பட்டதால் இங்கிலாந்து நெருக்கடியை எதிர்கொண்டுள்ளது.
+England won by 7 wickets for the first time when the two teams clashed in the R20 World Cup final 14 years ago at the same playground.
 
-இரண்டு அணிகளுக்கும் இடையில் இதுவரை நடைபெற்ற 23 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 11 - 10 என்ற ஆட்டங்கள் வித்தியாசத்தில் இங்கிலாந்து முன்னிலையில் இருக்கிறது. 2 போட்டிகள் கைவிடப்பட்டன.
+The clash between the two teams in the World Cup is expected to be the best match.
+
+But the UK is facing a crisis as the rivalry between England and Scotland has been abandoned.
+
+England are in the lead by 11 - 10 in 23 international T20 cricket matches so far between the two teams. 2 matches were abandoned.
+
+The R20 World Cup is 2 - 1 in 4 matches and the UK is leading in a match.
+
+The match is expected to create a shock to the end, as both teams are seen as equally this year.
+
+Pet Cammins, who retired during the match against Oman, will be played in the Australian team in today's match.
 
 ...
 
 [Data](articles/24f0d7e8.json)
+
+[Extended Data](ext_articles/24f0d7e8.ext.json)
 
 ---
 
@@ -304,25 +330,35 @@ About 9000 people are invited, including heads of state in neighboring countries
 
 ---
 
-### உலகக் கிண்ணத்தில் 3ஆவது தொடர்ச்சியான தடவையாக தென் ஆபிரிக்காவை வீழ்த்துமா நெதர்லாந்து?
+### Will the Netherlands beat South Africa for the 3rd consecutive time in the World Cup?
 
 *2024-06-08 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185622) · `ta`
 
-தென் ஆபிரிக்கா, நெதர்லாந்து ஆகிய அணிகள் மோதும் டி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டி நியூயோர்க் நசவ் கன்ட்றி சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஆரம்பமாகியுள்ளது.
+In the ongoing T20 World Cup, both South Africa and the Netherlands have strong records, with the Netherlands winning their last two encounters against South Africa. The Netherlands, known for their adaptability across pitches, might hold an edge over South Africa, who are also formidable but facing unfamiliar conditions. The outcome could significantly impact the tournament standings, especially considering the Netherlands' potential to secure the top spot if victorious.
 
-9ஆவது உலகக் கிண்ண அத்தியாயத்தில் தத்தமது ஆரம்பப் போட்டிகளில் இலங்கையை தென் ஆபிரிக்காவும் நேபாளத்தை நெதர்லாந்தும் வெற்றிகொண்டிருந்தன.
+🟩
 
-தென் ஆபிரிக்காவையும் நெதர்லாந்தையும் ஒப்பிட்டால் தென் ஆபிரிக்கா பலம்வாய்ந்த அணி என்றே கூறத்தோன்றுகிறது.
+The T20 World Cup for the T team has begun at the New York Nasav Cantry International Cricket Stadium.
 
-ஆனால், இரண்டு அணிகளும் கடைசியாக மோதிக்கொண்ட இரண்டு வகையான உலகக் கிண்ண கிரிகெட் போட்டிகளில் தென் ஆபிரிக்காவை அதிர்ச்சி அடையச் செய்யும் வகையில் நெதர்தலாந்து வெற்றிபெற்றிருந்தது.
+South Africa and Netherlands won Sri Lanka in their opening events in the 9th World Cup chapter.
 
-அவுஸ்திரேலியாவில் நடைபெற்ற ரி20 உலகக் கிண்ணப் போட்டியில் 13 ஓட்டங்களால் வெற்றிபெற்ற நெதர்லாந்து, இந்தியாவில் 2023இல் நடைபெற்ற 50 ஓவர் உலகக் கிண்ணப் போட்டியில் 38 ஓட்டங்களால் வெற்றிபெற்றிருந்தது.
+South Africa is said to be a powerful team compared to South Africa and the Netherlands.
 
-இம்முறையும் நெதர்லாந்து வெற்றிபெற்றால் டி குழுவுக்கான அணிகள் நிலையில் முதலிடத்தைப் பெறுவதுடன் இலங்கையும் பங்களாதேஷும் பலத்த நெருக்கடியை எதிர்கொள்ளும்.
+However, the Netherlands won the two types of World Cup cricket matches that the two teams finally clashed.
+
+Netherlands won by 13 runs in the T20 World Cup in Australia by 38 runs in the 50 -over World Cup in India in 2023.
+
+If the Netherlands wins this time, the teams for the T. team will take the top spot and Sri Lanka and Bangladesh will face a severe crisis.
+
+This is how South Africa played in its early stadium again as they played again and again understand the nature of the pitch.. But for the first time, the Netherlands are likely to face the pitch on the pitch.
+
+It is not surprising, however, that South Africa faces crying because the Netherlands are able to play efficiently on any pitch.
 
 ...
 
 [Data](articles/bffd48e8.json)
+
+[Extended Data](ext_articles/bffd48e8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 10:34:14**
+As of **2024-06-08 10:52:26**
 
 ## Newspaper Stats
 
-*Scraped **29,200** Articles*
+*Scraped **29,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,754
 adalk | 2,487
 adaderanalk | 3,303
 tamilmirrorlk | 3,426
-virakesarilk | 4,478
+virakesarilk | 4,479
 dailymirrorlk | 4,639
 adaderanasinhalalk | 4,680
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,680
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,196 (100.0%) of 29,200 articles have been extended.
+29,200 (100.0%) of 29,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### சிறுவர்களின் சிதைந்த உடல்களை பார்த்தோம் - காசாவில் ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் உயிர் பிழைத்தவர்கள்
+
+*2024-06-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185584) · `ta`
+
+ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலின் போது உயிர்பிழைத்தவர்கள் தாங்கள் கொல்லப்பட்ட சிறுவர்களின் உடல்களை பார்த்ததாக தெரிவித்துள்ளனர்.
+
+இஸ்ரேல் குறிப்பிட்ட பகுதியில் இரண்டாவது நாளாக தொடர்ந்தும் தாக்குதலை மேற்கொண்டுவரும் அதேவேளை ஐநா பாடசாலை மீதான தாக்குதலில் உயிர்பிழைத்தவர்கள்  சிதைந்துபோன நிலையில் சிறுவர்களின் உடல்களை பார்த்தோம் என தெரிவித்துள்னர்.
+
+காசாவின் மத்தியில் உள்ள நுசெய்ரட்டின் அல்சார்டி பாடசாலையில் உயிரிழந்தவர்கள் அனைவரும் பொதுமக்கள் வேறு எவருடைய உடல்களையும் காணமுடியவில்லை என காசாவின் சிவில் பாதுகாப்பு பிரிவின் தலைவர்  தெரிவித்துள்ளார்.
+
+கொல்லப்பட்டவர்களின் எண்ணிக்கை 40 ஆக அதிகரித்துள்ளது இன்னமும் அதிகரிக்கின்றது என தெரிவித்துள்ள மஹ்மூட் பாசல் காயமடைந்தவர்களிற்கு உரிய சிகிச்சை இன்மையே உயிரிழப்புகள் அதிகரிக்க காரணம் என தெரிவித்துள்ளார்.
+
+ஐநா பாடசாலையை முப்பது நாப்பது தீவிரவாதிகள் தளமாக பயன்படுத்தினர் என தெரிவித்துள்ள இஸ்ரேல் அவர்களையே இலக்குவைத்துள்ளதாக குறிப்பிட்டுள்ளது .
+
+...
+
+[Data](articles/6dc6ee55.json)
+
+---
 
 ### Bangladesh beat Sri Lanka by two wickets
 
@@ -51,6 +71,8 @@ Meanwhile, Bangladesh will face group toppers South Africa in New York on Monday
 ◼️
 
 [Data](articles/5a8f21ab.json)
+
+[Extended Data](ext_articles/5a8f21ab.ext.json)
 
 ---
 
@@ -74,23 +96,29 @@ Left-arm seamer Fazalhaq Farooqi then followed his five-wicket opening match dem
 
 ---
 
-### யாழ். சுன்னாகத்தில் கூரிய ஆயுதங்களுடன் நபரொருவர் கைது!
+### Yall. A man arrested with sharp weapons in Chunnakam
 
 *2024-06-08 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185580) · `ta`
 
-யாழ்ப்பாணம் சுன்னாகம் ஈவினைப் பகுதியில் ஆபத்தை ஏற்படுத்தும் கூரிய ஆயுதங்களுடன் சந்தேக நபரொருவர் வெள்ளிக்கிழமை கைது செய்யப்பட்டுள்ளார்.
+A suspect was arrested in Chunnakam with several sharp weapons after a police raid based on tip-offs about a foreign-owned house storing them. Eight weapons were seized, and the suspect is linked to potential violent incidents, with further investigation ongoing to determine foreign involvement.
 
-யாழ்ப்பாணப் பிராந்திய விசேட குற்றத்தடுப்பு பிரிவு பொலிஸாரே குறித்த ஆயுதங்களை மீட்டதுடன் சந்தேக நபரையும் கைது செய்துள்ளனர்.
+🟩
 
-சுன்னாகம் ஈவினைப் பகுதியில் வெளிநாட்டு பிரஜை ஒருவருக்கு சொந்தமான வீட்டிலே வாள் உள்ளிட்ட கூரிய ஆயுதங்கள் இருப்பதாக பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய குறித்த சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது.
+A suspect has been arrested on Friday with sharp weapons in the Chunnakam Emine area in Jaffna.
 
-இதன்போது, எட்டு ஆயுதங்கள் கைப்பற்றப்பட்டதுடன் சம்பவம் தொடர்பாக கைதான சந்தேக நபரிடம் விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The Jaffna Regional Special Crime Division has rescued the weapons of the police and arrested the suspect.
 
-குறித்த நபர் பல்வேறுபட்ட வன்முறைச் சம்பவங்களுடன் தொடர்புபட்டிருக்கலாம் என சந்தேகிக்கும் பொலிஸார், குறித்த விடயத்தில் வெளிநாட்டு பிரஜைக்கும் தொடர்புள்ளதா அல்லது வேறு நபர்களுக்கு தொடர்புள்ளதா என்ற கோணத்தில் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The raid was carried out on the confidential information received by the police that a foreign citizen -owned house, including a sword, had a sharp weapon in the Chunnakam Emine area.
+
+In the meantime, eight weapons were seized and police are conducting investigations into the suspect arrested in connection with the incident.
+
+Police suspected that the person may have been involved in various incidents of violence, and is investigating whether the foreign citizen is involved in the matter.
 
 ◼️
 
 [Data](articles/a96fc7fe.json)
+
+[Extended Data](ext_articles/a96fc7fe.ext.json)
 
 ---
 
@@ -114,25 +142,31 @@ They won 125 runs for the loss of 8 wickets in 19 overs.
 
 ---
 
-### டென்மார்க் பிரதமர் மீது நபர் ஒருவர் தாக்குதல் - தலைநகர வீதியில் சம்பவம்
+### A person attack on Denmark's Prime Minister - incident on capital road
 
 *2024-06-08 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185579) · `ta`
 
-டென்மார்க் பிரதமர் மெட்டே  பிரடெரிக்சன் மீது கொப்பன்ஹேகன் வீதியில்  நபர் ஒருவர் தாக்குதலை மேற்கொண்டு;ள்ளார்.
+In a shocking incident, Denmark's Prime Minister Mette Frederiksen was attacked on Copenhagen's Koppenhagen Road. The assailant approached her in the city square, leading to a confrontation. EU Commissioner Ursula von der Leyen condemned the act as a disgrace to European values. Eyewitnesses reported that the Prime Minister fell onto the pavement. This unfortunate event occurred mere days before Denmark's European election.
 
-நகரத்தின் சதுக்கத்தில் நபர் ஒருவர் பிரதமரை நோக்கி சென்று அவர் மீது தாக்குதலை மேற்கொண்டார் என பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+🟩
 
-ஐரோப்பாவில் நாம் நம்புகின்ற குரல்கொடுக்கின்ற அனைத்திற்கும் எதிரான இழிவான செயல் இதுவென ஐரோப்பிய ஒன்றிய ஆணையாளர் உருசுலா வொன்டெயர் லெயென் தெரிவித்துள்ளார்.
+Denmark's Prime Minister Mette Frederickson has attacked a person on the Koppanhagen Road.
 
-கொப்பன்ஹேகனின் குல்டிரோவேர்ட் பகுதியில் நபர் ஒருவர் டென்மார்க் பிரதமரை தாக்கினார் இந்த சம்பவத்தினால் பிரதமர் அதிர்ச்சியடைந்துள்ளார் என பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+The Prime Minister's Office said that a person in the city's square went to the Prime Minister and attacked him.
 
-எதிர்திசையிலிருந்து வந்த முதுகில் பிடித்து பிரதமரை தள்ளினார் அவர் விழுந்தார் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+European Union Commissioner Urusula Wondeyre Leen said that this is a disgrace to all the voices we believe in Europe.
 
-டென்மார்க் ஐரோப்பிய தேர்தல்களில் வாக்களிப்பதற்கு சில தினங்களிற்கு முன்னர் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+The Prime Minister's Office said the Prime Minister was shocked by the incident.
+
+Eyewitnesses said that he fell on the back of the opposite.
+
+The incident took place just days before Denmark voted in the European elections.
 
 ◼️
 
 [Data](articles/c2cdd37c.json)
+
+[Extended Data](ext_articles/c2cdd37c.ext.json)
 
 ---
 
@@ -570,23 +604,33 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 
 ---
 
-### මෝසම් වැසි, වාරකන් මැද, සැඟවුණු සංචාරක පාරාදීසයක් සොයා
+### Search for monsoon rains, cloak, a hidden tourist paradise
 
 *2024-06-08 04:23:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggjj2rn7zo) · `si`
 
-ශ්‍රී ලංකාව කියූ සැනින් ලෝකයේ බොහෝ දෙනෙකුට මතක් වන එක් පොදු දෙයක් වන්නේ ශ්‍රී ලංකාව සතු වටිනාම සම්පතක් වන සුන්දර වෙරළ තීරයන් ය.
+It seems like you've shared a detailed narrative about a journey involving wildlife observation, cultural experiences, and environmental concerns in Sri Lanka. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps assistance with organizing or summarizing this content? Please provide more context or specific questions so I can offer the most relevant help.
 
-දිවයින වටා පිහිටි මුහුදු තීරය, රට තුළට සංචාකයන් ඇද ගන්නා මාර්ගයකි.
+🟩
 
-වඩාත් සුන්දර මුහුදු වෙරළ රාශියක් හිමි දකුණු පළාතේ වෙරළ තීරයන්ට යා හැකි මාර්ග ගණනාවක් ම නිරිත දිග මෝසමේ දැඩි වර්ෂාව හේතුවෙන් ඇති වූ ගංවතුරෙන් යටව තිබිය දී අප ගමන් කරමින් සිටියේ වයඹ පළාතේ පිහිටි එවැනිම සුන්දර නමුත් තවමත් වැඩි පිරිසකගේ ඇස නොගැටුණු සුන්දර වෙරළ තීරයක් වෙත ය.
+One of the most common people who remembered many of the world who said Sri Lanka said.
 
-වර්ෂාව මධ්‍යයේ උපරිම ජල මට්ටමට ළඟා වෙමින් පැවති ගංගා සහ ඔය කිහිපයක් පසුකරමින් යමින් සිටි අපට හලාවත නගරට ආසන්න වෙත්ම නැගෙනහිර දිශාවෙන් රන්වන් ආලෝකයක් විහිදුවමින් හිරු නැග එන අයුරු දැක ගැනීමට හැකි විය.
+The sea strip around the island is a way to draw transators into the country.
 
-කොළඹ - පුත්තලම මාර්ගයේ ගමන් කළ අප කල්පිටිය දෙසට ගමන් කිරීම ඇරඹීමත් සමඟ ශ්‍රී ලංකාවේ ඇති දීර්ඝතම සහ විශාලතම කළපු අතරින් එකක් වන පුත්තලම් කලපුවට සමාන්තරව ගමන් කරමින් සිටියෙමු.
+When the southwestern coastal coast with many beautiful beaches, the southwestern coastal coast, was in the North Western Province to the nearest, but still the eye of the most popular.
+
+As we were traveling through the maximum water level in the middle of the rain, we were able to see a golden light in the East as close to Chilaw.
+
+We were traveling in parallel to Puttalam, one of the longest and largest in Sri Lanka with the commencement of the Kalpitiya road on the Colombo-Puttalam road.
+
+Of the huge coconut rocks on either side of the road, winds were beautifully seen. The winds were more closely visible to the small destination that our first destination.
+
+At about eight in the morning, our first destination was reached the u destination, and we were near a beautiful sea strip. But that wasn't our last destination.
 
 ...
 
 [Data](articles/87a3fc9e.json)
+
+[Extended Data](ext_articles/87a3fc9e.ext.json)
 
 ---
 
@@ -2069,27 +2113,5 @@ Gihan Shawinda Fernando, a resident of Nittambuwa, presented the petition.
 [Data](articles/bddd5d53.json)
 
 [Extended Data](ext_articles/bddd5d53.ext.json)
-
----
-
-### After flood disaster ....
-
-*2024-06-07 18:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அனர்த்தத்திற்குப்-பிறகு/175-338591) · `ta`
-
-Recent floods displaced residents, forcing them to abandon their homes. Now, as waters recede, they return to damaged houses. Students are seen in photos, salvaging wet books while floating on debris, preparing to resume schooling amidst recovery efforts.
-
-🟩
-
-The recent rains have caused flooding to many homes and affected the everyday life.
-
-Thus many people had left their homes. Currently, they are returning to their homes in a state of construction.
-
-Here is the pictures of the students who are floating in the water throughout the textbooks, drying books and ready to go back to school.
-
-◼️
-
-[Data](articles/b3363e5c.json)
-
-[Extended Data](ext_articles/b3363e5c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 18:34:39**
+As of **2024-06-08 18:52:59**
 
 ## Newspaper Stats
 
-*Scraped **29,241** Articles*
+*Scraped **29,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,488
 adaderanalk | 3,309
 tamilmirrorlk | 3,431
 virakesarilk | 4,485
-dailymirrorlk | 4,646
+dailymirrorlk | 4,647
 adaderanasinhalalk | 4,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,238 (100.0%) of 29,241 articles have been extended.
+29,241 (100.0%) of 29,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Flood warnings for several rivers and Attanagalu Oya withdrawn
+
+*2024-06-08 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warnings-for-several-rivers-and-Attanagalu-Oya-withdrawn/108-284413) · `en`
+
+Colombo, June 08 (Daily Mirror)- All flood warnings issued by the Hydrology and Disaster Management Division of the Irrigation Department from June 1 till today for several rivers were withdrawn from today.
+
+The Hydrology and Disaster Management Division of the Irrigation Department said in a statement that flood warnings were issued for Kelani Ganga, Kalu Ganga, Gin Ganga, Nilwala Ganga and Attanagalu Oya.
+
+The statement said that the Department of Irrigation is constantly monitoring the changes in the rainfall conditions across the Island and the changes in the water levels of major rivers and that all arrangements have been made to issue prior warnings and information of flood situations as necessary, if the need arises.
+
+◼️
+
+[Data](articles/742d738f.json)
+
+---
 
 ### Rainy conditions expected to enhance in next few days
 
@@ -52,6 +68,8 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 
 [Data](articles/ff9679d8.json)
 
+[Extended Data](ext_articles/ff9679d8.ext.json)
+
 ---
 
 ### Sri Lanka elected into United Nations Economic and Social Council
@@ -70,23 +88,31 @@ Sri Lanka obtained the second highest number of votes from the region, and seven
 
 [Data](articles/d663642b.json)
 
+[Extended Data](ext_articles/d663642b.ext.json)
+
 ---
 
-### පොසොන් සමයේ ප්‍රවාහන සේවා සිදුවෙන අයුරු
+### How transportations occur during Poson Season
 
 *2024-06-08 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197532) · `si`
 
-අනුරාධපුර පූජා නගරය කේන්ද්‍ර කරගනිමින් පොසොන් සමයේ සාමාන්‍ය ප්‍රවාහන සේවාවට අමතරව අතිරේක බස් රථ සේවාවක් යෙදවීමට කටයුතු කරන බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+During the Poson season, the Ceylon Transport Board plans to deploy its General Transport Service in Anuradhapura, focusing on services to Mihintale, Tantirimale, and Anuradhapura. Over 400 buses will operate in Gampaha and Colombo. This initiative aims to ease transportation issues, especially around the dezonation area near Anuradhapura, where the railway line from Mahawa to Anuradhapura has been realigned.
 
-ඓතිහාසික මිහින්තලය, තන්තිරිමලය සහ අනුරාධපුර පූජා නගරයන් සඳහා පැමිණෙන ජනතාවගේ පහසුව සඳහා අදාළ බස්රථ සේවාව ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන බව ලංකා ගමනාගමන මණ්ඩලයේ සභාපති ලලිත්ද අල්විස් මහතා පැවසීය.
+🟩
 
-එහිදී බස්රථ 400කට වැඩි ප්‍රමාණයක් යෙදවීමට අපේක්ෂා කරන අතර ගම්පහ සහ කොළඹ ලංගම ප්‍රාදේශිකයන්වල ද සහාය ලබා ගැනීමට නියමිතය.
+The Ceylon Transport Board (SLTB) says that the General Transport Service will be deployed in the Poson season with the city of Anuradhapura.
 
-මහව සිට අනුරාධපුරය දක්වා වන දුම්රිය මාර්ගයේ සිදුවන අලුත් වැඩියාව හේතුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට සිදුවන අපහසුතාවය මඟහැරීම සඳහා මීට පෙර වර්ෂවලදී පැවති පොසොන් මංගල්‍යය සඳහා යෙදවූ බස් රථ සේවාවට අමතර විශේෂ බස් රථ සේවාවක් මෙවර ක්‍රියාත්මක කිරීමට සිදුවන බව සභාපතිවරයා වැඩිදුරටත් පැවසීය.
+The Sri Lanka Transport Board Chairman Lalith Alwis said that the bus service is expected to be implemented for the convenience of the historic Mihintale, Tantirimale and Anuradhapura sacred cities.
+
+More than 400 buses are expected to be deployed in Gampaha and Colombo.
+
+He added that a special bus service has been carried out this year to prevent the inconvenience caused to dezone to Anuradhapura due to the reconciliation of the railway line from Mahawa to Anuradhapura.
 
 ◼️
 
 [Data](articles/a2678025.json)
+
+[Extended Data](ext_articles/a2678025.ext.json)
 
 ---
 
@@ -2213,23 +2239,5 @@ As Argentina was the fifth largest economy in the world in the early 1900s, Sri 
 [Data](articles/23ab0e7d.json)
 
 [Extended Data](ext_articles/23ab0e7d.ext.json)
-
----
-
-### Foreign missions urged to support justice in Navy abduction case amid AG’s shift on Karannagoda
-
-*2024-06-07 23:14:46* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-missions-urged-to-support-justice-in-Navy-abduction-case-amid-AG-s-shift-on-Karannagoda/14-762780) · `en`
-
-Families express concern over political influence as AG may drop charges against former Navy Chief Wasantha Karannagoda
-
-In a letter to foreign diplomatic missions in Sri Lanka, the Families of the Disappeared, an organisation advocating for justice for victims of enforced disappearances, this week expressed concern that the Attorney General may drop charges against former Navy Chief Wasantha Karannagoda, the 14th accused in the Navy abduction for ransom case.
-
-The organisation noted that the writ application filed by Karannagoda seeking his dismissal from the case will be taken up before the Court of Appeal for consideration on 3 June and sought the support of the foreign missions to uphold the rule of law in Sri Lanka. They also expressed their determination to prevent the Attorney General from withdrawing charges against Karannagoda.
-
-...
-
-[Data](articles/db5d7907.json)
-
-[Extended Data](ext_articles/db5d7907.ext.json)
 
 ---

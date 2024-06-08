@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 23:34:42**
+As of **2024-06-08 23:53:38**
 
 ## Newspaper Stats
 
-*Scraped **29,270** Articles*
+*Scraped **29,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,314
 tamilmirrorlk | 3,434
 virakesarilk | 4,489
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,704
+adaderanasinhalalk | 4,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,270 (100.0%) of 29,270 articles have been extended.
+29,270 (100.0%) of 29,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### දකුණු අප්‍රිකාවට තියුණු ජයක්
+
+*2024-06-08 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197544) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නෙදර්ලන්තය සහ දකුණු අප්‍රිකාව අතර අද (08) පැවැති තරගය කඩුලු 4කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+
+නිව්යෝක් හි නසාවු ක්‍රීඩාංගණයේ පැවැති එම තරගයේ කාසියේ වාසිය දිනු දකුණු අප්‍රිකානු කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමෙ සඳහා නෙදර්ලන්ත කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් නෙදර්ලන්ත කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 103ක් රැස්කළේය.
+
+එහිදී  නෙදර්ලන්ත කණ්ඩායම වෙනුවෙන් Sybrand Engelbrecht  ලකුණු 40ක් රැස්කළ අතර Logan van Beek  ලකුණු 23ක් රැස් කළේය.
+
+ඒ අනුව ලකුණු 103ක ඉලක්කයක් හඹාගිය දකුණු අප්‍රිකානු කණ්ඩායම පන්දුවාර 18යි පන්දු 5කදී කඩුලු 6දැවී .ලකුණු 106ක් රැස්කරමින් තරගයේ ජයග්‍රහණය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/1e9ffd18.json)
+
+---
 
 ### Foreign Minister to attend BRICS Ministerial Session in Russia
 
@@ -2345,21 +2365,5 @@ The global lender had reported that Sri Lanka’s economy has made impressive pr
 [Data](articles/94648cae.json)
 
 [Extended Data](ext_articles/94648cae.ext.json)
-
----
-
-### 2,000 Trees for the Planet: Aitken Spence Hotels leads World Environment Day effort
-
-*2024-06-08 02:02:00* · [`islandlk`](http://island.lk/2000-trees-for-the-planet-aitken-spence-hotels-leads-world-environment-day-effort/) · `en`
-
-In celebration of World Environment Day, Aitken Spence Hotels reaffirms its unwavering commitment to sustainability with the planting of 2,000 trees across its properties in Sri Lanka, the Maldives, India, and Oman. This ambitious initiative not only underscores the company’s dedication to environmental conservation but also serves as a call to action for global ecological responsibility.
-
-Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahungalla, Heritance Tea Factory, Heritance Ayurveda, Sentido Heritance Negombo, Turyaa Kalutara, Amethyst Resort, and Earl’s Regency, a total of 1,730 trees will be planted. Heritance Kandalama, Aitken Spence’s flagship sustainable hotel, will lead the effort by planting 780 trees in addition to its extensive bio-conservation efforts with 211 acres of conservation land, coinciding with its 30th-anniversary celebrations later this month.
-
-...
-
-[Data](articles/e9dacd9b.json)
-
-[Extended Data](ext_articles/e9dacd9b.ext.json)
 
 ---

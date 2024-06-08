@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 16:18:58**
+As of **2024-06-08 16:34:21**
 
 ## Newspaper Stats
 
-*Scraped **29,230** Articles*
+*Scraped **29,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
-adalk | 2,487
+adalk | 2,488
 adaderanalk | 3,307
-tamilmirrorlk | 3,430
+tamilmirrorlk | 3,431
 virakesarilk | 4,483
 dailymirrorlk | 4,645
 adaderanasinhalalk | 4,689
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,228 (100.0%) of 29,230 articles have been extended.
+29,230 (100.0%) of 29,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### ஹர்ஷவிடம் வாக்குமூலம் பெற வேண்டும்
+
+*2024-06-08 16:03:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷவிடம்-வாக்குமூலம்-பெற-வேண்டும்/175-338619) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வாவுக்கு எதிராக விடுக்கப்படும் அச்சுறுத்தல்கள் தொடர்பில் அவரிடமிருந்து வாக்குமூலம் பெற வேண்டுமென குற்றப் புலனாய்வுத் திணைக்களம் அறிவித்துள்ளது.
+
+இது தொடர்பில் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வாவுக்கு அறிவித்துள்ளதாக குற்றப்புலனாய்வுத் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/a51e7b1c.json)
+
+---
 
 ### Sri Lanka logs 700 Dengue cases in seven days
 
@@ -50,6 +64,8 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 
 [Data](articles/c3f4fec0.json)
 
+[Extended Data](ext_articles/c3f4fec0.ext.json)
+
 ---
 
 ### ‘The time to reform is now’ – Ali Sabry on Sri Lankan cricket
@@ -67,6 +83,8 @@ He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brou
 ...
 
 [Data](articles/19a0e948.json)
+
+[Extended Data](ext_articles/19a0e948.ext.json)
 
 ---
 
@@ -843,6 +861,22 @@ The incident took place just days before Denmark voted in the European elections
 [Data](articles/c2cdd37c.json)
 
 [Extended Data](ext_articles/c2cdd37c.ext.json)
+
+---
+
+### ලංකාවේ ලෝක කුසලාන සිහින බොඳ වෙන හැඩ
+
+*2024-06-08 09:35:47* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-ලෝක-කුසලාන-සිහින-බොඳ-වෙන-හැඩ/9-410078) · `si`
+
+ශ්‍රි ලංකා කණ්ඩායම හමුවේ බංග්ලාදේශය ලබා ගත් කඩුලු දෙකක ජයත් සමග ශ්‍රී ලංකා කණ්ඩායමේ ලෝක කුසලාන බලාපොරොත්තු තව දුරටත් ඈතට ගියේය.
+
+කාසියේ වාසිය දිනා ගත් බංග්ලාදේශයේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ශ්‍රි ලංකාව ලකුණු 124ක් රැස් කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශය කඩුලු 8 දැවි එම ඉලක්කය පසුකර ගියේය.
+
+◼️
+
+[Data](articles/a75b8ac0.json)
 
 ---
 
@@ -2129,55 +2163,5 @@ Sagala Ratnayaka made these remarks while participating in an observation tour t
 [Data](articles/c48263e1.json)
 
 [Extended Data](ext_articles/c48263e1.ext.json)
-
----
-
-### Colombo-Kandy road restricts traffic
-
-*2024-06-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197509) · `si`
-
-Traffic on the Colombo-Kandy road will be restricted due to tree removal until 6 am tomorrow. The road will fully close from 6 pm. Use alternative routes: Colombo to Kandy via Kurunegala, Rambukkana via Maldupunna, or Mawanella to Hemmatagama.
-
-🟩
-
-The police have issued a statement regarding traffic in the Colombo-Kandy main road.
-
-Accordingly, the removal of risk trees and rishes on both sides will be taken up to 6 am tomorrow (09).
-
-Accordingly, the Mawanella Divisional Secretary will inform him that the road will be completely closed from 6 pm tomorrow.
-
-As a result, the police informed the public to use the following roads to avoid the inconvenience of the masses of the Colombo-Kandy road.
-
-* Harry to Kandy rose from Colombo to Kandy and turn left on Kurunegala road through Kurunegala road.
-
-* Enter in Rambukkana to Rambukkana from Maldupunna and Mawanella town, Kandy through Hatabaiwela
-
-* From Mawanella to Kandy to Kandy via Hemmatagama
-
-◼️
-
-[Data](articles/0d87b59c.json)
-
-[Extended Data](ext_articles/0d87b59c.ext.json)
-
----
-
-### President re-appoints Shavendra Silva as Chief of Defence Staff
-
-*2024-06-07 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-re-appoints-Shavendra-Silva-as-Chief-of-Defence-Staff/108-284360) · `en`
-
-June 07 (Daily Mirror) - President Ranil Wickremesinghe has re-appointed General Shavendra Silva as the Chief of Defence Staff
-
-An extraordinary gazette has been issued extending General Silva's term as CDS under Section 3 of the Chief of Defence Staff Act, No. 35 of 2009.
-
-General Silva's new term runs from June 1, 2024, to December 31, 2024.
-
-He was first appointed as Chief of Defence Staff on June 1, 2022.
-
-◼️
-
-[Data](articles/84aa4419.json)
-
-[Extended Data](ext_articles/84aa4419.ext.json)
 
 ---

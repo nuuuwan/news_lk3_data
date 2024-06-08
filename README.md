@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 20:19:02**
+As of **2024-06-08 20:35:04**
 
 ## Newspaper Stats
 
-*Scraped **29,251** Articles*
+*Scraped **29,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,79 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,489
-adaderanalk | 3,310
+adaderanalk | 3,311
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,696
+adaderanasinhalalk | 4,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,249 (100.0%) of 29,251 articles have been extended.
+29,251 (100.0%) of 29,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### පහළ කඩුගන්නාව කොටස හෙට දක්වා වසා දැමේ
+### වනිඳු ට එපා වුණා ද ?
+
+*2024-06-08 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197536) · `si`
+
+බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර අද (08) පැවැති තරගයෙන් අනතුරුව පැවති ප්‍රවෘත්ති සාකච්ඡාවට ශ්‍රී ලංකා නායක වනිඳු හසරංග සහභාගි නොවීය.
+
+ඒ වෙනුවට වේගපන්දු යවන ක්‍රීඩක නුවන් තුෂාර සහ කණ්ඩායම් කළමණාකරු සහභාගී වුවත් මාධ්‍යවේදීන් නැගූ බොහෝ ප්‍රශ්ණවලට ඔවුන් නිරුත්තර විය.
+
+මාධ්‍යවේදියා - ටෙස්ට් සංචිතයේ ඉන්න ඕන පිතිකරුවන් 20-20 සංචිතයේ ඉන්නවා. නමුත් වේගයෙන් පන්දුවට පහරදෙන පිතිකරුවෝ එළියේ ඉන්නවා. මේකද පරාජයට හේතුව?
+
+ශ්‍රී ලංකා කණ්ඩායම් කළමණාකරු මහින්ද අලංගොඩ -  තේරීම් කමිටුවට තමයි ඒක යොමු කරන් ඕනේ. නමුත් තව ලකුණු රැස් කරන්න තිබුණා. ඒක මම පිළිගන්නවා.
+
+මාධ්‍යවේදියා - අපි දැක්කා නුවන් ඔයා ගොඩක් හොඳින් පන්දු යවලා අවසන් මොහොත දක්වා තරගය ගෙනාවා. ඔබ හිතන්නේ නැද්ද තරගය මැදදි තව පන්දුයවන්නෙකු පන්දු වාරයක් යැව්වා නම් තරගය බේරගන්න තිබුණා කියලා.
+
+නුවන් තුෂාර -  නායකයෙක් විදිහට වනිඳු තමයි තීරණය ගත්තේ. මම ක්‍රීඩා කරන්නේ කණ්ඩායමට ඕනේ විදිහට.
+
+◼️
+
+[Data](articles/3caf68b3.json)
+
+---
+
+### Stretch of Colombo-Kandy road temporarily closed at Pahala Kadugannawa
+
+*2024-06-08 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99747/stretch-of-colombo-kandy-road-temporarily-closed-at-pahala-kadugannawa) · `en`
+
+A section of the Colombo-Kandy main road will be closed for traffic at Pahala Kadugannawa from 7.30 p.m. today to 6.00 a.m. tomorrow (Sunday), the Disaster Management Centre (DMC) said.
+
+Meanwhile, the Kegalle District Secretary had announced yesterday that the Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08) to remove unstable rocks and tree branches along this section of the road.
+
+◼️
+
+[Data](articles/42e57849.json)
+
+---
+
+### The lower circumstance part is closed to tomorrow
 
 *2024-06-08 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197535) · `si`
 
-කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව කොටස අද (08) පස්වරු 7.30 සිට හෙට (09) අලුයම 01 දක්වා තාවකාලිකව වසා දැමීමට පියර ගෙන තිබේ.
+Due to road closure near Father's from 7:30 pm today until 1st tomorrow, vehicles from Colombo to Kandy should turn left onto Kurunegala Road, Warakapola, or use alternative routes like through Maldupana, Mawakkana, Mawanella, Hatabaiwela, or Mawamea, Gampola roads to reach Kandy.
 
-කොළඹ සිට මහනුවර දක්වා ගමන් ගන්නා වාහන වරකාපොළ, අ‍ඹේපුස්ස හන්දියෙන් වමට හැරී කුරුණෑගල මාර්ගය ඔස්සේ මහනුවරට ලඟාවීමේ හැකියාව පවතී.
+🟩
 
-පොලීසිය පවසන්නේ ඊට අමතරව කෑගල්ල කරඬුපන හරහා රඹුක්කන හා මාවනැල්ල නගරයෙන් රඹුක්කන නගරයට පිවිස හතරලියැද්ද මාර්ගය ඔස්සේ ගලගෙදර හරහා මහනුවරට ළඟාවිය හැකි බවය.
+Father has been temporarily closed from the Colombo-Kandy main road from 7.30 pm to 1st tomorrow.
 
-එමෙන්ම මාවනැල්ල නගරයේ සිට හෙම්මාතගම හරහා ගම්පොළ මාර්ගය ඔස්සේද මහනුවරට ළඟාවීමේ හැකියාව පවතී.
+Vehicles traveling from Colombo to Kandy turns left and reach Kandy on Kurunegala Road, Warakapola.
+
+Police say that in addition to the Maldupana and Mawakkana town in Rambukkana and Mawanella town and reach Kandy via Hatabaiwela.
+
+From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in Kandy.
 
 ◼️
 
 [Data](articles/9d6eeb30.json)
+
+[Extended Data](ext_articles/9d6eeb30.ext.json)
 
 ---
 
@@ -448,17 +490,23 @@ He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brou
 
 ---
 
-### හසරංග මාලිංගව අභිභවා යයි
+### Has Benexured the Hasaranga Malinga
 
 *2024-06-08 15:53:56* · [`adalk`](https://www.ada.lk/sports/හසරංග-මාලිංගව-අභිභවා-යයි/9-410079) · `si`
 
-විස්සයි 20 තරගවලදී ශ්‍රී ලංකාව වෙනුවෙන් වැඩිම කඩලු ප්‍රමාණයක් දවා ගත් ක්‍රීඩකයා ලෙස වනිඳු හසරංග අද වාර්තා අතරට ඒක්විය.
+In the Twenty20 tournament, Wanindu Hasaranga stood out with his performance, taking two crucial wickets against Bangladesh. His achievement places him second in terms of Twenty20 international wickets, just behind Malinga who holds 107 wickets.
 
-ඒ් බංග්ලාදේශයට එරෙහිව පැවැති තරගයේදි ඔහු කඩුලු දෙකක් දවා ගැනීමත් සමගිනි. වනිඳු මේ වන විට විස්සයි20 ජාත්‍යන්තර පිටියේදී කඩුලු 108ක් දවාගෙන ඇති අතර මාලිංග දවාගෙන තිබුණේ කඩුලු 107ක් පමණි.
+🟩
+
+At the Twenty20 tournament, Vanindu Hasaranga was among the players.
+
+He was with two wickets in the competition against Bangladesh. Fanu has been taken away from Twenty20 wickets at the Twenty20 international and Malinga had only 107 wickets.
 
 ◼️
 
 [Data](articles/33c00a69.json)
+
+[Extended Data](ext_articles/33c00a69.ext.json)
 
 ---
 
@@ -2225,43 +2273,5 @@ The Dialogue brings together defence ministers, military chiefs, and high-rankin
 [Data](articles/3b961fe3.json)
 
 [Extended Data](ext_articles/3b961fe3.ext.json)
-
----
-
-### Presidential election: Good and bad foreign meddling
-
-*2024-06-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-election-Good-and-bad-foreign-meddling/172-284355) · `en`
-
-The US Ambassador to Sri Lanka Julie Chung meeting the officials of the Election Commission
-
-What a big fuss would have been made by the embassies of Western countries had the Chinese Ambassador to Sri Lanka Qi Zhenhong met with the members of the Election Commission (EC), as American Ambassador Julie Chung and several other Western diplomats had done recently?
-
-Also, can we at least imagine a meeting between the Sri Lankan or Indian Ambassador to the United States and the election officials of the US, including those of the Federal Election Commission (FEC), to discuss the forthcoming US Presidential election? Answers to these questions would explain the world order that had been imposed by the West on others.
-
-...
-
-[Data](articles/4a16eb06.json)
-
-[Extended Data](ext_articles/4a16eb06.ext.json)
-
----
-
-### The right to strike and motivated strikes
-
-*2024-06-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-right-to-strike-and-motivated-strikes/172-284353) · `en`
-
-For over the past 35 days, the non-academic staff of government universities in the country has been on strike. There is no doubt that the working class of this country is burdened with low salaries. In some instances, workers’ wages were reduced during the economic melt-down.
-
-On June 6 the Locomotive Operating Engineers’ Union of Sri Lanka Railways suddenly decided to go on strike. The trade union action according to the Union is being carried out over delays in second-class promotions of locomotive drivers and several other issues.
-
-With the present cost of living far beyond the reach of a majority of workers, something needs to be done to correct the situation. Yet the country too is going through unprecedentedly bad economic times.
-
-While most of the demands of the strikers are understandable, what the public find  difficult to agree with is the manner in which these strikes are called. Trade union action most always, inconveniences the public.
-
-...
-
-[Data](articles/aa71284d.json)
-
-[Extended Data](ext_articles/aa71284d.ext.json)
 
 ---

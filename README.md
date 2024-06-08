@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 19:04:04**
+As of **2024-06-08 19:19:02**
 
 ## Newspaper Stats
 
-*Scraped **29,243** Articles*
+*Scraped **29,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,309
 tamilmirrorlk | 3,431
 virakesarilk | 4,485
 dailymirrorlk | 4,648
-adaderanasinhalalk | 4,693
+adaderanasinhalalk | 4,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,242 (100.0%) of 29,243 articles have been extended.
+29,243 (100.0%) of 29,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### ශ්‍රී ලාංකිකයන් මුදාගැනීම වෙනුවෙන් රාජ්‍ය ඇමති අද මියන්මාරයට
+
+*2024-06-08 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197533) · `si`
+
+මියන්මාරයේ ත්‍රස්ත කඳවුරු 03ක රැඳී සිටින ශ්‍රී ලාංකිකයින් පිරිස නිදහස් කරගැනීම සඳහා අද (08) රාත්‍රියේ එරටට යෑමට සුදානමින් පසුවන බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසුරිය මහතා පවසයි.
+
+එමෙන්ම තායිලන්ත රජය සමග ද සාකච්ඡා කිරීමට බලාපොරොත්තු වන බවද විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා මෙහිදී සදහන් කළේය.
+
+කෑගල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා ඒ බව කියා සිටියේය.
+
+◼️
+
+[Data](articles/2e7a491a.json)
+
+---
 
 ### Ranil in New Delhi tomorrow to attend Modi’s swearing in ceremony
 
@@ -43,6 +59,8 @@ President Wickremesinghe is expected to participate in several bilateral meeting
 ◼️
 
 [Data](articles/ab2ffbc5.json)
+
+[Extended Data](ext_articles/ab2ffbc5.ext.json)
 
 ---
 
@@ -2221,23 +2239,5 @@ The special initiative includes exclusive monthly payment offers on 4G smartphon
 [Data](articles/43ca919f.json)
 
 [Extended Data](ext_articles/43ca919f.ext.json)
-
----
-
-### Daraz announces Mid-Year Sale offers
-
-*2024-06-07 23:48:06* · [`dailyftlk`](https://www.ft.lk/business/Daraz-announces-Mid-Year-Sale-offers/34-762795) · `en`
-
-Product discounts of up to 70% with Free Delivery on over 500,000 items
-
-e-commerce platform Daraz announced the launch of the Daraz Mid-Year Sale, running from 6 to 12 June, featuring a wide array of fashion, lifestyle, beauty, mother and baby, and electronics products, with unbeatable deals and Free Delivery vouchers.
-
-This mega sale event will offer shoppers over Rs. 10 million worth of Mega Vouchers as well as up to 70% off discounts on Mega Deals, which will be available on selected purchases via the Daraz app or website. Additionally, during the Sale period buyers can obtain unparalleled savings with over 500,000 items featuring Free Delivery.
-
-...
-
-[Data](articles/a6b6df0f.json)
-
-[Extended Data](ext_articles/a6b6df0f.ext.json)
 
 ---

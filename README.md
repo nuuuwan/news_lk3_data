@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 19:19:02**
+As of **2024-06-08 19:34:32**
 
 ## Newspaper Stats
 
-*Scraped **29,244** Articles*
+*Scraped **29,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,54 @@ economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,488
 adaderanalk | 3,309
-tamilmirrorlk | 3,431
+tamilmirrorlk | 3,432
 virakesarilk | 4,485
-dailymirrorlk | 4,648
+dailymirrorlk | 4,649
 adaderanasinhalalk | 4,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,243 (100.0%) of 29,244 articles have been extended.
+29,244 (100.0%) of 29,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ශ්‍රී ලාංකිකයන් මුදාගැනීම වෙනුවෙන් රාජ්‍ය ඇමති අද මියන්මාරයට
+### நீர்த்தேக்கங்கள் பெருக்கெடுக்கும் அளவை எட்டியதாக எச்சரிக்கை
+
+*2024-06-08 19:15:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீர்த்தேக்கங்கள்-பெருக்கெடுக்கும்-அளவை-எட்டியதாக-எச்சரிக்கை/76-338620) · `ta`
+
+மத்திய மலை நாட்டின் மேற்கு சரிவுகளில் கடந்த சில நாட்களாக பெய்து வரும் கடும் மழை காரணமாக காசல்ரீ மற்றும் மவுஸ்ஸாக்கலை நீர்த்தேக்கங்களின் நீர் மட்டம் பெருக்கெடுக்கும் அளவை எட்டியுள்ளதாக அந்த நீர்த்தேக்கங்களுக்கு பொறுப்பான பொறியியலாளர்கள் தெரிவித்துள்ளனர்.
+
+இந்த நீர்த்தேக்கங்களின் நீர் மட்டம் அதிகரித்துள்ளதையடுத்து விமலசுரேந்திர, லக்ஷபான, நியூ லக்ஷபான, கெனியன் மற்றும் பொல்பிட்டிய நீர்மின் நிலையங்களில் நீர்மின் உற்பத்தி அதிகபட்ச கொள்ளளவில் மேற்கொள்ளப்பட்டு வருவதாக குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/efcb8728.json)
+
+---
+
+### State Minister to release Sri Lankans to Myanmar today
 
 *2024-06-08 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197533) · `si`
 
-මියන්මාරයේ ත්‍රස්ත කඳවුරු 03ක රැඳී සිටින ශ්‍රී ලාංකිකයින් පිරිස නිදහස් කරගැනීම සඳහා අද (08) රාත්‍රියේ එරටට යෑමට සුදානමින් පසුවන බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසුරිය මහතා පවසයි.
+Sri Lanka's Foreign Affairs State Minister Tharaka Balasuriya plans to release citizens from Myanmar's terror camps today. He will also discuss matters with the Thai government, as announced during a media briefing in Kegalle.
 
-එමෙන්ම තායිලන්ත රජය සමග ද සාකච්ඡා කිරීමට බලාපොරොත්තු වන බවද විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා මෙහිදී සදහන් කළේය.
+🟩
 
-කෑගල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා ඒ බව කියා සිටියේය.
+Foreign Affairs State Minister Tharaka Balasuriya says that Sri Lankans who remain in three terror camps in Myanmar.
+
+The Minister of External Affairs also intends to discuss the Thai government.
+
+Speaking to the media in the Kegalle area, the Minister of External Affairs said this.
 
 ◼️
 
 [Data](articles/2e7a491a.json)
+
+[Extended Data](ext_articles/2e7a491a.ext.json)
 
 ---
 
@@ -103,6 +123,24 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 [Data](articles/ff9679d8.json)
 
 [Extended Data](ext_articles/ff9679d8.ext.json)
+
+---
+
+### Sri Lanka elected to United Nations Economic and Social Council
+
+*2024-06-08 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-elected-to-United-Nations-Economic-and-Social-Council/108-284412) · `en`
+
+Colombo, June 08 (Daily Mirror)- The United Nations General Assembly (UNGA) has elected Sri Lanka into its Economic and Social Council (ECOSOC), with 182 out of 189 members present voting in favour, the Foreign Affairs Ministry said today.
+
+Sri Lanka obtained the second highest number of votes from the region, and seventh highest overall, and will begin its three-year term in the council on January 1, 2025.
+
+“As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide,” the Foreign Affairs Ministry said in a media release.
+
+18 countries were elected to the 54-member council, when the vote took place on Friday.
+
+...
+
+[Data](articles/0f2cff96.json)
 
 ---
 
@@ -2203,41 +2241,5 @@ Litro Gas’s comprehensive approach to leveraging LPG has spanned from supporti
 [Data](articles/7fb71470.json)
 
 [Extended Data](ext_articles/7fb71470.ext.json)
-
----
-
-### NDB Bank powers Avurudu celebrations with NEOS app in unique gaming and gifting initiative
-
-*2024-06-07 23:49:04* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-powers-Avurudu-celebrations-with-NEOS-app-in-unique-gaming-and-gifting-initiative/34-762797) · `en`
-
-NDB Bank enhanced Sri Lanka’s New Year celebrations through its NDB Avurudu Dupatha campaign which was conducted in a custom crafted virtual island featuring the NDB NEOS app.
-
-The campaign which was designed and executed with Gamer.LK, not only marks a significant advancement in showcasing digital banking utilities, but also showcases NDB’s commitment to pioneering new realms of customer engagement, underlining its leadership in the industry.
-
-The interactive experience, a collaboration between NDB Bank and Gamer.LK, the premier Video Games & Esports agency in Sri Lanka, saw the unveiling of a vibrant playable “Avurudu Dupatha” with Avurudu games, characters and stories. The island featured an engaging Avurudu storyline where players had to come together to find “NDB fragments” that unlocked powers to defeat the Economic Demon plaguing the island.
-
-...
-
-[Data](articles/71135d9b.json)
-
-[Extended Data](ext_articles/71135d9b.ext.json)
-
----
-
-### SLT-Mobitel and Dept. of Pensions launch easy payment plans for smartphones for State pensioners
-
-*2024-06-07 23:48:14* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-and-Dept-of-Pensions-launch-easy-payment-plans-for-smartphones-for-State-pensioners/34-762796) · `en`
-
-SLT-Mobitel, together with the Department of Pensions, announced the celebration of the 15th anniversary of Upahara, recognising State pensioners for their untiring dedication serving the nation, with special and attractive value-added device offers designed to provide them with peace of mind and ease of life.
-
-The Upahara Device offers strongly align with SLT-Mobitel’s commitment to supporting and valuing senior citizens by providing them with access to essential communication and connectivity solutions that are also convenient and affordable.
-
-The special initiative includes exclusive monthly payment offers on 4G smartphones, 4G mobile routers, and 4G dongles, providing great value and tailored to meet the diverse needs of pensioners, ensuring they remain connected and informed in today’s digital age.
-
-...
-
-[Data](articles/43ca919f.json)
-
-[Extended Data](ext_articles/43ca919f.ext.json)
 
 ---

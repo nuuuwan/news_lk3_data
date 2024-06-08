@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 13:19:01**
+As of **2024-06-08 13:34:20**
 
 ## Newspaper Stats
 
-*Scraped **29,209** Articles*
+*Scraped **29,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,59 @@ islandlk | 1,574
 economynextcom | 1,671
 dailyftlk | 1,754
 adalk | 2,487
-adaderanalk | 3,303
+adaderanalk | 3,304
 tamilmirrorlk | 3,428
 virakesarilk | 4,479
 dailymirrorlk | 4,643
-adaderanasinhalalk | 4,682
+adaderanasinhalalk | 4,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,208 (100.0%) of 29,209 articles have been extended.
+29,209 (100.0%) of 29,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### නිවසේ උඩු මහලෙන් වැටුණු එක්දරු පියා මරුට
+### William Anders, former Apollo 8 astronaut, dies in plane crash
+
+*2024-06-08 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99740/william-anders-former-apollo-8-astronaut-dies-in-plane-crash) · `en`
+
+(AP) — William Anders, the former Apollo 8 astronaut who took the iconic “Earthrise” photo showing the planet as a shadowed blue marble from space in 1968, was killed Friday when the plane he was piloting alone plummeted into the waters off the San Juan Islands in Washington state. He was 90.
+
+His son, retired Air Force Lt. Col. Greg Anders, confirmed the death to The Associated Press.
+
+“The family is devastated,” he said. “He was a great pilot and we will miss him terribly.”
+
+William Anders, a retired major general, has said the photo was his most significant contribution to the space program along with making sure the Apollo 8 command module and service module worked.
+
+The photograph, the first color image of Earth from space, is one of the most important photos in modern history for the way it changed how humans viewed the planet. The photo is credited with sparking the global environmental movement for showing how delicate and isolated Earth appeared from space.
+
+...
+
+[Data](articles/429309de.json)
+
+---
+
+### Others dies after falling up-house house
 
 *2024-06-08 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197520) · `si`
 
-ආරක්ෂක වැටක් නොමැති නිවසක උඩුමහලෙන් වැටී 47හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+A 47-year-old man from Horana's Kandanahena area fell at his home without a security fence and passed away.
 
-මෙලෙස මියගොස් ඇත්තේ හොරණ අරමනාගොල්ල කඳන්හේන ප්‍රදේශයේ පදිංචි එක්දරු පියෙකි.
+🟩
+
+A 47-year-old man has died after falling back home without a security fence.
+
+The deceased has been identified as a father of a resident of the Kandanahena area in Horana.
 
 ◼️
 
 [Data](articles/c936aaf6.json)
+
+[Extended Data](ext_articles/c936aaf6.ext.json)
 
 ---
 
@@ -69,6 +95,32 @@ At the time, the 18-year-old Hairbage series was extinguished with the highest w
 [Data](articles/11ef5d8a.json)
 
 [Extended Data](ext_articles/11ef5d8a.ext.json)
+
+---
+
+### චන්ද්‍රිකා දත්ත බ්‍රසීලය ගැන හෙළි කළ රහස
+
+*2024-06-08 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197518) · `si`
+
+බ්‍රසීලයේ පවතින ලොව විශාලතම තෙත්බිම් කලාපයට ලැව්ගිනි ආපදාවලින් දැඩි හානි සිදුවී ඇති බව චන්ද්‍රිකා දත්ත මගින් අනාවරණය වී තිබේ.
+
+පසුගිය වසරේදී වැසි සමය ප්‍රමාද වීම, නියඟය සහ අධික වියළි කාලගුණය ලැව්ගිනි තීව්‍ර වීමට හේතුව වී ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+ලෝකයේ විශාලතම ඝර්මකලාපීය වනාන්තරය වන ඇමසන් වනාන්තරය මෙන්ම ලොව විශාලතම තෙත්බිම වන පැන්ටනල් "Pantanal" තෙත්බිමද පිහිටා ඇත්තේ බ්‍රසීලයේය.
+
+එරටින්, මෙම වසරේ මේ දක්වා වාර්තා වි ඇති ලැව්ගිනි ආපදාවලින් පැන්ටනල් තෙත්භූමියට දැඩි හානි සිදුවී තිබේ.
+
+2023 වසරට සාපේක්ෂව පැන්ටනල් තෙත්බිම්වල ලැව්ගිනි සියයට 10කින් ඉහළ ගොස් ඇති බව විදෙස් වාර්තා පෙන්වා දී ඇත.
+
+පැන්ටනල් තෙත්බිම් කලාපය සැලකෙන්නේ ලොව ජෛව විවිධත්වයෙන් ඉහළම කලාපයක් ලෙසය.
+
+කෙසේ වෙතත් වසර ආරම්භයේ සිට ජුනි 05 වනදා දක්වා කාලය තුළ එම කලාපයෙන් වාර්තා වන ලැව්ගිනි ආපදා පෙර වසරේ මෙම කාලසීමාවට සාපේක්ෂව සියයට 980කින් ඉහළ ගොස් ඇති බව චන්ද්‍රිකා දත්ත මගින් අනාවරණය වී තිබේ.
+
+ඇමසන් වැසි වනාන්තරය මෙන්ම පැන්ටනල් තෙත්බිම් ද නිරන්තරයෙන් ලැව්ගිනි ආපදාවලට මුහුණ දෙයි.
+
+...
+
+[Data](articles/da565b47.json)
 
 ---
 
@@ -2089,39 +2141,5 @@ A day earlier, the two had attended ceremonies marking the 80th anniversary of t
 [Data](articles/80699863.json)
 
 [Extended Data](ext_articles/80699863.ext.json)
-
----
-
-### Biden apologizes to Ukraine’s Zelenskyy
-
-*2024-06-07 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-apologizes-to-Ukraines-Zelenskyy/108-284349) · `en`
-
-PARIS (AP) — U.S. President Joe Biden on Friday for the first time publicly apologized to Ukraine for a monthslong congressional holdup in American military assistance that let Russia make gains on the battlefield.
-
-The apology came as Biden met in Paris with Ukrainian President Volodymyr Zelenskyy, who appealed for bipartisan U.S. support going forward “like it was during World War II.”
-
-A day earlier, the two had attended ceremonies marking the 80th anniversary of the D-Day landings in Normandy, where Biden had drawn common cause between the allied forces that helped free Europe from Nazi Germany and today’s effort to support Ukraine against Russia’s invasion and Zelenskyy had been greeted with a rapt ovation.
-
-...
-
-[Data](articles/8dbfa23d.json)
-
-[Extended Data](ext_articles/8dbfa23d.ext.json)
-
----
-
-### Sri Lanka’s reserves see marginal drop in May 2024
-
-*2024-06-07 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99732/sri-lankas-reserves-see-marginal-drop-in-may-2024) · `en`
-
-Sri Lanka’s official reserve assets has recorded a marginal drop by 0.9% to USD 5.42 billion in May 2024 compared to USD 5.47 billion in April 2024, according to the Central Bank of Sri Lanka (CBSL).
-
-However, this includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
-
-◼️
-
-[Data](articles/597f5245.json)
-
-[Extended Data](ext_articles/597f5245.ext.json)
 
 ---

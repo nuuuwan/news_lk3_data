@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 08:11:03**
+As of **2024-06-08 08:20:27**
 
 ## Newspaper Stats
 
-*Scraped **29,173** Articles*
+*Scraped **29,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
 adalk | 2,484
-adaderanalk | 3,298
-tamilmirrorlk | 3,423
+adaderanalk | 3,300
+tamilmirrorlk | 3,424
 virakesarilk | 4,474
 dailymirrorlk | 4,635
-adaderanasinhalalk | 4,675
+adaderanasinhalalk | 4,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,171 (100.0%) of 29,173 articles have been extended.
+29,173 (100.0%) of 29,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Father and daughter killed after train hits car at Enderamulla
+
+*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/father-and-daughter-killed-after-train-hits-car-at-enderamulla) · `en`
+
+Two persons have been killed after their car collided with a train at the Enderamulla railway crossing, police said.
+
+A 54-year-old man and his 22-year-old daughter, residents of Gonawala in Biyagama, have died in the crash.
+
+◼️
+
+[Data](articles/845693e7.json)
+
+---
+
+### Rainy conditions expected to enhance from today
+
+*2024-06-08 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99736/rainy-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says the prevailing rainy conditions in the south-western part of the island is expected to enhance to some extent in the next few days from today (08).
+
+Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts.
+
+Fairly heavy showers above 50mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts.
+
+Several spells of showers will occur in Northern and North-central provinces and in Matale district, it said.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Trincomalee and Hambantota districts.
+
+...
+
+[Data](articles/fe62e085.json)
+
+---
+
+### බංග්ලාදේශයට ලකුණු 125ක ඉලක්කයක්
+
+*2024-06-08 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197513) · `si`
+
+පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහභාගීවන දෙවන තරගය බංග්ලාදේශයට එරෙහිව මේ වනවිට අමෙරිකාවේ ඩලස්හීදි පැවැත් වේ.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට  බංග්ලාදේශය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 09 දැවී ලකුණු 124 ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජය ගැනීම සඳහා බංග්ලාදේශයට හිමිවූ ඉලක්කය ලකුණු 125කි.
+
+◼️
+
+[Data](articles/84ab0561.json)
+
+---
 
 ### Showers in several areas
 
@@ -188,37 +242,69 @@ Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahung
 
 ---
 
-### ஒவ்வொரு வீட்டிற்கும் 10,000 ரூபா உதவித் தொகை
+### 80 இற்கும் மேற்பட்ட ரயில் பயணங்கள் இரத்து
 
-*2024-06-08 01:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒவ்வொரு-வீட்டிற்கும்-10-000-ரூபா-உதவித்-தொகை/175-338611) · `ta`
+*2024-06-08 01:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-இற்கும்-மேற்பட்ட-ரயில்-பயணங்கள்-இரத்து/175-338612) · `ta`
 
-வெள்ளத்தினால் பாதிக்கப்பட்ட ஒவ்வொரு வீட்டிற்கும் 10,000 ரூபா கொடுப்பனவு வழங்கப்படும் என தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+ரயில் இயந்திர இயக்கவியல் பொறியியலாளர்கள் சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் இதுவரை 80 இற்கும் மேற்பட்ட ரயில் பயணங்கள் இரத்தாகியுள்ளன என ரயில்வே   திணைக்களம் தெரிவித்துள்ளது.
 
-வீட்டைச் சுத்தம் செய்வதற்கு இந்தப் பணம் வழங்கப்படுவதாகவும், அனர்த்தம் காரணமாக பகுதி அளவில் அல்லது முழுமையாக சேதம் அடைந்த அனைத்து வீடுகள் மற்றும் கட்டிடங்கள் குறித்த மதிப்பீட்டு அறிக்கைகள் கிடைத்த பின்னர், அடுத்த நடவடிக்கைகள் உடனடியாக செயல்படுத்தப்படும் எனவும் அவர் தெரிவித்தார்.
+குறித்த சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் நேற்று மாலை மாத்திரம் 43 ரயில் பயணங்கள் இரத்தாகியுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
 
-சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட கொலன்னாவ பிரதேச மக்களின் நலன்களைத் தேடியறியும் நோக்கில் நேற்று கண்காணிப்பு விஜயத்தை மேற்கொண்டபோதே சாகல ரத்நாயக்க இவ்வாறு குறிப்பிட்டார்.
+அத்துடன், ரயில் இயந்திர இயக்கவியல் பொறியியலாளர்கள் சங்கம் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பு காரணமாக நேற்று  பிற்பகல் வரை 32 ரயில் பயணங்கள் இரத்து செய்யப்பட்டதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
 
-வெள்ளத்தால் பாதிக்கப்பட்ட மக்களின் வீடுகளைப் பார்வையிட்ட சாகல ரத்நாயக்க, பாதிக்கப்பட்ட மக்கள் சார்பாக கொலன்னாவ ஸ்ரீ சம்புத்தராஜ புராண விகாரையில் நடைபெற்ற நடமாடும் மருத்துவ முகாமிற்கும் சென்று பணிகளை பார்வையிட்டார்.
+◼️
 
-...
-
-[Data](articles/95d0f256.json)
+[Data](articles/657aa167.json)
 
 ---
 
-### ’பொருளாதாரத்தை சரியான பாதைக்குத் திருப்புவோம்’
+### 10,000 rupees for each household
+
+*2024-06-08 01:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒவ்வொரு-வீட்டிற்கும்-10-000-ரூபா-உதவித்-தொகை/175-338611) · `ta`
+
+Each flood-hit household will receive 10,000 rupees for cleanup. Sagala Ratnayake, a senior advisor to the National Security President, announced this aid during his visit to Kolonnawa, where he assessed damage and discussed relief efforts.
+
+🟩
+
+Sagala Ratnayake, a senior adviser to the National Security President and the President of the Presidential Commission, said that each of the flood -affected house will be paid Rs 10,000.
+
+He said the money would be paid to clean up the house and the next measures would be implemented immediately after the evaluation reports of all the houses and buildings that had been completely damaged due to the disaster due to the disaster.
+
+Sagala Ratnayake made this comment when he made a surveillance visit yesterday in order to seek the interests of the people of Kolonnawa affected by inclement weather.
+
+Sagala Ratnayake visited the houses of the flood victims and visited the Medical Camp and Medical Camp at Sri Samputharaja Purana Viharaya on behalf of the affected people.
+
+Subsequently, he also participated in a discussion on the progress and future activities of the government's program to provide relief to the affected people at the Kolonnawa Divisional Secretariat.. (A)
+
+◼️
+
+[Data](articles/95d0f256.json)
+
+[Extended Data](ext_articles/95d0f256.ext.json)
+
+---
+
+### Let's turn the economy to the right path
 
 *2024-06-08 01:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-சரியான-பாதைக்குத்-திருப்புவோம்/175-338610) · `ta`
 
-பொருளாதார மறுசீரமைப்புச் சட்டமூலத்தை சமர்பித்து நாட்டின் பொருளாதாரத்தை சரியான பாதைக்கு திருப்புவதற்கான முதல் அடி வைக்கப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe aims to steer Sri Lanka's economy towards recovery through the Economic Rehabilitation Bill, highlighting progress despite challenges like the economic crisis and tax increases. He emphasizes the importance of resilience, noting improvements in agriculture and tourism, and ongoing negotiations with the IMF for financial stability.
 
-ஜா-எல – ஏக்கல பகுதியில் ஆரம்பிக்கப்பட்டிருக்கும் Cephalosporin ஊசி மற்றும் மெல்டோல் மருந்து உற்பத்தி தொழிற்சாலையை நேற்று முன்தினம் திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தாார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நான் ஜனாதிபதியாக பொறுப்பேற்ற வேளையில் நாடு மிகப்பெரிய பொருளாதார நெருக்கடிக்குள் சிக்கியிருந்தது. இந்நிலையிலிருந்து மீண்டு வர 05 – 06 வருடங்கள் ஆகலாம் என்று பலரும் கூறினர். எதிர்காலம் இருக்காது என்று அஞ்சி பலரும் நாட்டை விட்டுச் சென்றனர். இருப்பினும் இரு வருடங்களில் நாட்டின் பொருளாதாரத்தை நல்ல நிலைக்கு கொண்டு வர முடியும் என்ற நம்பிக்கை எமக்கு இருந்தது.
+President Ranil Wickremesinghe said that the first step was to put the country's economy to the right path by submitting the Economic Rehabilitation Bill.
+
+The President said this while addressing the opening of the Cephalosporin injection and Meldol Drug Production Factory, which was launched in the Ja-Ela-Akala area yesterday.. As he further stated,
+
+When I took over as president, the country was in the biggest economic crisis. Many people have said that it may take 05 to 6 years to recover from this situation. Many left the country to fear that there would be no future. However, in two years we had the hope that the country's economy could be better.
+
+Despite the difficulties and economic crises, there was a need to strengthen the country's economy and build a strong life environment. For that, the tax has been increased. So people scolded. However, two years ago, it was possible to strengthen the value of the rupee and move forward.
 
 ...
 
 [Data](articles/64ca560c.json)
+
+[Extended Data](ext_articles/64ca560c.ext.json)
 
 ---
 
@@ -804,7 +890,7 @@ Kukul Saminda, who was injured in the attack, has been admitted to the Anuradhap
 
 ---
 
-### New City for residents along Kelani River Bank - Sagala
+### New city for residents along Kelani River Bank - Sagala
 
 *2024-06-07 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99735/new-city-for-residents-along-kelani-river-bank-sagala) · `en`
 
@@ -1999,103 +2085,5 @@ Dr. Harsha de Silva, Chairman of the Cash Committee Dr. Harsha de Silva was disc
 [Data](articles/adf39c2e.json)
 
 [Extended Data](ext_articles/adf39c2e.ext.json)
-
----
-
-### DMC explains how to obtain govt.’s Rs. 10,000 grant to clean flood-affected homes
-
-*2024-06-07 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99727/dmc-explains-how-to-obtain-govts-rs-10000-grant-to-clean-flood-affected-homes) · `en`
-
-The Disaster Management Centre (DMC) today (07) informed the general public regarding the method for obtaining the Rs. 10,000 grant to be provided by the government in order to clean up the flood-affected houses.
-
-Director of the DMC, Pradeep Kodippili stated that the Grama Niladhari certificate and a recommendation, is required for the purpose.
-
-“The government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses. People will need to submit the Grama Niladhari certificate and a recommendation [from the Grama Niladhari officer] to obtain this grant”, Mr. Kodippili said.
-
-Furthermore, the DMC Director expressed that people of 113 Divisional Secretariat Divisions in 13 districts have been affected by the prevailing extreme weather conditions across the island since June 01, 2024.
-
-◼️
-
-[Data](articles/8ac7ed8b.json)
-
-[Extended Data](ext_articles/8ac7ed8b.ext.json)
-
----
-
-### 80 Year Event of Nomanti Landing
-
-*2024-06-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185543) · `ta`
-
-In commemorating the 80th anniversary of the Nomanti landing, US President Jobiton addressed the threats to global democracy, highlighting Russia's invasion of Ukraine and the vigilance of world dictators towards Western actions. He emphasized the significance of the event through the voices of fallen soldiers, urging unity against tyranny.
-
-🟩
-
-US President Jobiton has commented on World War II and Russia's invasion of Ukraine.
-
-Speaking on the 80 -year event of France's Nomanti landing, US President Jobitton has commented on World War II with Russia's invasion of Ukraine
-
-Speaking from the bodies of 9388 US soldiers who died during the Nomandi landing, Bidan said that democracy in the world has been threatened again.
-
-Dictators are closely watching the West's action in the Ukraine issue, he said.
-
-The world's dictators are closely observing what is happening in Ukraine.
-
-He also said that it would not only be threatened by the neighboring countries of Ukraine.
-
-Faidan, who launched a direct attack on the Russian president, referred to him as a tyrant.
-
-◼️
-
-[Data](articles/b600196d.json)
-
-[Extended Data](ext_articles/b600196d.ext.json)
-
----
-
-### Barber Assam to the first place
-
-*2024-06-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197499) · `si`
-
-Barber Assam leads Pakistan's cricket team, scoring the highest in 20 overs during a match against India. Despite losing to America in the World Cup, Assam remains a top scorer with 4,067 runs from 120 international games. Rohit Sharma follows closely with 152 runs in 152 matches.
-
-🟩
-
-Leader of the Pakistan's leader Barber Assam has been able to become the highest mark in the 20 overs.
-
-The Indian batsmen who have taken the forefront to the second place to the second place.
-
-With the American group in the World Cup yesterday, Pakistan had a hideous defeat to Pakistan yesterday (06), but he had become 20 and the highest number of mark to record 44 runs.
-
-Accordingly, the total number of marked by Barber Assam has scored 4,067 while participating in 120 international matches.
-
-Rohith Sharma is in the third place in 152 runs in 152 matches.
-
-◼️
-
-[Data](articles/1d0539b3.json)
-
-[Extended Data](ext_articles/1d0539b3.ext.json)
-
----
-
-### Sri Lanka looks to remove obstacles in toddy export
-
-*2024-06-07 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-remove-obstacles-in-toddy-export-166923/) · `en`
-
-ECONOMYNEXT – A Sri Lanka parliament sectoral oversight committee has asked officials to ‘remove obstacles in the local production and export of toddy, kithul, palm and coconut related products’.
-
-The Excise Department and the Customs Department were called before the Committee on National Economic and Physical Plans to discuss and resolve issues pertaining to these exports.
-
-At the meeting, it was agreed “to remove the barriers to the wholesale distribution of toddy palm produced in the Northern Province locally and abroad,” a parliament statement said without specifying what the obstacles were.
-
-Committee chair Mahindananda Aluthgamage instructed exporters to prepare a necessary system to easily and systematically export toddy, kithul, palm and coconut related products.
-
-The Ministry of Agriculture and Plantation Industries has pointed out that the government is capable of generating income through the export of these products as there is a large market abroad for them.
-
-...
-
-[Data](articles/2dc71122.json)
-
-[Extended Data](ext_articles/2dc71122.ext.json)
 
 ---

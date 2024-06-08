@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 14:18:58**
+As of **2024-06-08 14:34:32**
 
 ## Newspaper Stats
 
-*Scraped **29,216** Articles*
+*Scraped **29,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 276
 bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,574
-economynextcom | 1,671
+economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,487
 adaderanalk | 3,306
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,212 (100.0%) of 29,216 articles have been extended.
+29,216 (100.0%) of 29,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Sri Lanka’s May tourism revenue rise 54-pct, arrivals up 35-pct
+
+*2024-06-08 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-may-tourism-revenue-rise-54-pct-arrivals-up-35-pct-167010/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $154 million dollars in May 2024, a 54 percent jump from the last year while the arrivals also gained 34 percent in the month compared to 2023, the central bank said quoting tourism promotion authorities.
+
+Sri Lanka’s tourist arrivals went up to 896,779 persons in the first five months of 2024, a 71 percent jump compared to the same period last year.
+
+Tourism earnings in May were estimated at $154 million, up from $100 million a year ago.
+
+Tourist arrivals and revenue from tourism were expected to slow down after to a new on arrival visa system through VFS Global. After the new system, foreign visitors who were earlier permitted to obtain visa free of charge are compelled to pay $21.61 fee for VFS Global.
+
+The island nation’s leisure industry has protested the complex website which is putting off some users as well as higher fees.
+
+...
+
+[Data](articles/64de330e.json)
+
+---
 
 ### Harsha informed to give statement to CID over threats
 
@@ -48,33 +68,47 @@ Speaking in Parliament on Friday (7), the Chair of the Committee of Public Finan
 
 [Data](articles/d7bec33e.json)
 
+[Extended Data](ext_articles/d7bec33e.ext.json)
+
 ---
 
-### இன்றும் தொடரும் போராட்டம்
+### The struggle that continues today
 
 *2024-06-08 13:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-தொடரும்-போராட்டம்/175-338617) · `ta`
 
-கொழும்பிலுள்ள 2 ரயில்வே பணிமனைகளில் இருந்து ரயில்கள் இயக்கப்படவில்லையென லொகோமோட்டிவ் ஒப்பரேட்டிவ் பொறியியலாளர்கள் சங்கத்தின் செயலாளர் எஸ்.ஆர்.சி.எம் சேனாநாயக்க தெரிவித்துள்ளார்.
+Strikes halt train operations in two Colombo workshops due to salary issues, lack of promotions, and recruitment problems as per SRCM Senanayake, Secretary of the Locomotive Comparison Engineers Association.
 
-சம்பளம் வழங்கப்படாமை, பதவி உயர்வின்மை, ஆட்சேர்ப்பு இன்மை உள்ளிட்ட பல்வேறு பிரச்சினைகளை முன்வைத்து இந்த வேலைநிறுத்தம் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டுள்ளார்.  R
+🟩
+
+SRCM Senanayake, Secretary of the Locomotive Comparison Engineers Association, said that trains were not operated from 2 railway workshops in Colombo.
+
+He noted that the strike is being carried out on various issues, including lack of salary, lack of promotion and lack of recruitment.R
 
 ◼️
 
 [Data](articles/ec953b61.json)
 
+[Extended Data](ext_articles/ec953b61.ext.json)
+
 ---
 
-### CIDයෙන් හර්ෂ ට දැනුම්දීමක්
+### CID notice to Harsha
 
 *2024-06-08 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197522) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගෙන් ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+CID requests statement from MP Dr. Harsha de Silva about threats he received.
 
-ඒ අනුව තමන්ට එල්ල වූ බව කියන තර්ජන සම්බන්ධයෙන් ඔහුගෙන් එලෙස ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඔහුට දැනුම්දී ඇති බව වැඩිදුරටත් වාර්තා විය.
+🟩
+
+The Criminal Investigations Department (CID) says that a statement from MP Dr. Harsha de Silva is required.
+
+It was also reported that the Criminal Investigations Department (CID) has informed him that he has to make such a statement regarding the threats that he had.
 
 ◼️
 
 [Data](articles/2e57259e.json)
+
+[Extended Data](ext_articles/2e57259e.ext.json)
 
 ---
 
@@ -102,27 +136,39 @@ The motive behind the attack has not yet been ascertained as of yet while Giriul
 
 ---
 
-### ශ්‍රී ලංකාවට සුපිරි 8ට යා හැකිද ?
+### Can Sri Lanka go to Super 8?
 
 *2024-06-08 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197521) · `si`
 
-දුර්වල පිතිකරණය හේතුවෙන් පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව අද (08) දෙවැනි තරගයත් පරාජයට පත්වුණි.
+Sri Lanka faces challenges to reach the Super 8 stage in the T20 World Cup after losing to Bangladesh, who made history by not being defeated in their first two matches. Despite Bangladesh's strong performance, including a crucial six by Tawfiq Hossain in the 12th over, Sri Lanka's bowling struggled, giving away 3rd wicket runs within 3 balls. With this defeat, Sri Lanka needs to win all remaining matches to qualify for the Super 8s.
 
-ශ්‍රී ලංකා පන්දුවාර 20 ලෝක කුසලාන තරගාවලියක බංග්ලාදේශය හමුවේ පරාජයක් ලැබු පළමු අවස්ථාව මෙය වෙයි.
+🟩
 
-ඩලස් හි ග්‍රෑන්ඩ් ප්‍රේරි ක්‍රීඩාංගණයේ පැවති තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශය ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකාවට ආරාධනා කර තිබුණි.
+Sri Lanka was defeated by the second match today (08) in the T20 World Cup due to poor batting.
 
-ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුළු 9ක් දැවී ලකුණු 124කට සීමා කිරීමට බංග්ලාදේශය කණ්ඩායම සමත්විය
+This is the first time Bangladesh has been defeated in a 20-day World Cup.
 
-ලකුණු 125ක ඉලක්කයක් හඹායාමට පිටියට පිවිසි බංග්ලාදේශට දැඩි පීඩණයක් එල්ල කිරීමට ශ්‍රී ලංකා පන්දු යවන්නන් සමත්වුණේ, පළමු කඩුළු 3 ලකුණු 28ක් තුල දවාගනිමින්.
+Bangladesh won the toss and invited Bangladesh to bat first.
 
-බංග්ලාදේශ කණ්ඩායමේ ජයග්‍රාහී මාවත විවර වුයේ වනිඳු හසරංග යැවූ 12 වැනි පන්දුවාරයේදී තව්හිද් හ්‍රිදෝයි පිට පිට එල්ල කළ හයේ පහර 3ත් සමගය.
+Bangladesh beat up to 124 runs for the loss of 9 wickets at the end of 20 overs
 
-18 වැනි පන්දුවාරය නිමාවෙද්දී ශ්‍රී ලංකා නිත්‍ය පන්දු යවන්නන් සිව්දෙනාගේ පන්දුවාර 16 යොමු කර අවසන්ව තිබීම හේතුවෙන් ශ්‍රී ලංකාවට ජයග්‍රහණය පිළිබඳ තබා තිබු බලාපොරොත්තු අත්හැර ගැනීමට සිදුවුණි.
+Sri Lanka bowlers scored 3rd 3 wickets in 3 runs.
+
+The victory path of the Bangladesh team was opened with the six hits on Tawoan HRRGDOY in the 12th overward.
+
+As he finished the 18th and seven overs of Sri Lanka, 16 overs of the four-permanent bowlers were given their expectations for Sri Lanka.
+
+Bangladesh had to score 11 runs for the final two overs, but Venchi Shanaka or Angelo Mathews had to be elected.
+
+Views were responsible for sending the 19th over the 19th and score of the score of 11 runs needed to victory.
+
+With the defeat, Sri Lanka has to access the 8 World Cup Superways continuously,
 
 ...
 
 [Data](articles/39ab541f.json)
+
+[Extended Data](ext_articles/39ab541f.ext.json)
 
 ---
 
@@ -2111,23 +2157,5 @@ Sri Lanka, Ireland and South African groups have lodged a complaint with the Int
 [Data](articles/97a46385.json)
 
 [Extended Data](ext_articles/97a46385.ext.json)
-
----
-
-### Muslims in Sri Lanka to celebrate Hajj festival on June 17
-
-*2024-06-07 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99733/muslims-in-sri-lanka-to-celebrate-hajj-festival-on-june-17) · `en`
-
-As the crescent moon for the month of Dhul Hijjah (Hajj) has been sighted, Muslims in Sri Lanka will celebrate the Hajj festival (Eid-Ul- Adha) on 17 June 2024, the Colombo Grand Mosque announced today.
-
-The sighting of the moon marks the beginning of the Islamic month of Dhu Al-Hijjah, during which the Hajj pilgrimage is performed, and is followed by Eid-Ul- Adha.
-
-Hajj, one of Islam’s five pillars, is the pilgrimage to Makkah in Saudi Arabia that every Muslim must make at least once in their lifetime if they are able.
-
-◼️
-
-[Data](articles/b4490e45.json)
-
-[Extended Data](ext_articles/b4490e45.ext.json)
 
 ---

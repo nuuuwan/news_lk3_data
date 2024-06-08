@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 21:53:51**
+As of **2024-06-08 22:06:51**
 
 ## Newspaper Stats
 
-*Scraped **29,258** Articles*
+*Scraped **29,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ adaderanalk | 3,312
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,699
+adaderanasinhalalk | 4,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,258 (100.0%) of 29,258 articles have been extended.
+29,258 (100.0%) of 29,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### ප්‍රාණඇපකරුවන් සිව් දෙනෙක් බේරාගනී
+
+*2024-06-08 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197541) · `si`
+
+ඔක්තෝබර් 07 වනදා නෝවා  සංගීත ප්‍රසංගය ට ප්‍රහාරයක් එල්ලකර පැහැරගත් ඊශ්‍රායල ජාතිකයින් සිව් දෙනෙක්ව බේරාගෙන තිබේ.
+
+ඊශ්‍රායල විශේෂ හමුදා බළකාය සහ පොලීසිය එක්ව අද (08) දහවල් මධ්‍යම ගාසා තීරයේ සිදුකළ බිහිසුණු ප්‍රහාරයකින් අනතුරුව ඔවුන්ව බේරා ගැනුණි.
+
+එම ප්‍රහාර හේතුවෙන් හමාස් සටන්කාමීන් සහ පලස්තීන සාමාන්‍ය වැසියන් විශාල පිරිසක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b62f42e8.json)
+
+---
+
+### කුකුළ් චමින්ද ගැන බන්ධනාගාරයෙන් දැනුම්දීමක්
+
+*2024-06-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197540) · `si`
+
+බන්ධනාගාරගත කෙරුණු මුණසිංහ කොඩිකාරලාගේ චමින්ද නොහොත්  "කුකුළ් චමින්ද" රෝහල්ගත කිරීම සම්බන්ධයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+
+සැකකරු අනුරාධපුර ශික්ෂණ රෝහලේ බන්ධනාගාර නිලධාරීනගේ ආරක්ෂාව යටතේ නේවාසිකව රඳවා සිටි අතර, සැකකරු අද (08) දින නැවත අනුරාධපුර බන්ධනාගාරය වෙත ඇතුළත් කෙරුණි.
+
+ඒ අනුව බන්ධනාගාර මාධ්‍ය අංශය පෙන්වා දෙන්නේ මෙම සැකකරුට බන්ධනාගාරය තුළදී නේවාසිකයින් පිරිසක් පහර දුන් බවට වාර්තා පළවී ඇති බවය.
+
+ඒ සම්බන්ධයෙන් අනුරාධපුර බන්ධනාගාර අධිකාරීවරයා වාර්ථාවක් කැඳවු අතර, බන්ධනාගාරය තුළදී සැකකරුට නේවාසිකියින් විසින් කිසිදු පහරදීමක් සිදු කර නොමැති බව වාර්ථා කර ඇති බව බන්ධනාගාර කොමසාරිස්, මාධ්‍ය ප්‍රකාශක ගාමිණි බී. දිසානායාක මහතා පවසයි.
+
+මෙම සිදුවීම සම්බන්ධයනේ ජේලර්වරයෙකු මගින් විමර්ශනයක් ආරම්භ කර ඇති බවද ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/61ccdf8a.json)
+
+---
+
+### ප්‍රතික්ෂේප වීම් මත අනාගතය වෙනස් කරගත් තිළිණ
+
+*2024-06-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197539) · `si`
+
+නිදහස් අධ්‍යාපනය නමට සීමා නොකර ගුරුවරු විසින් ලබාදුන් එක් අවස්ථාවක් නිසා ජීවිතය ජයගත් දරුවෙකු අපට මොනරාගල බුත්තල ප්‍රදේශයෙන් හමුවුණි.
+
+සාමාන්‍ය පෙළ විභාගයෙන් ගණිතය විෂය අසමත් වීම නිසා අනාගතය අඳුරු වන්නට ගොස් තවත් පාසලකින් ලැබුණු අවස්ථාවෙන් උපරිම ප්‍රයෝජන ගෙන මෙවර උසස් පෙළ විභාගයේ මොනරාගල දිස්ත්‍රික් ප්‍රථමයා වන්නට වාසනාව හිමිවූ තිළිණ ධනංජය ගැනයි මේ පුවත.
+
+මෙරට පවතින අධ්‍යාපන ක්‍රමය තුළ සිසුවෙකුට හෝ සිසුවියකට උසස් පෙළ අධ්‍යාපනයේ විෂය ධාරාව තෝරාගැනීමට සිදුවන්නේ සාමාන්‍ය පෙළ විභාගයේ ඇතැම් විෂයන් අනිවාර්යයෙන් සමත් වුවහොත් පමණි.
+
+ඒ, රීතිය හමුවේ, ප්‍රතික්ෂේප වීම් මත අනාගතය වෙනස් වන්නට ගොස්, ලැබුණු එක් අවස්ථාවක් නිසා ජීවිතය එළිය කරගත් සිසුවෙකි ඩී. එම්. තිළිණ ධනංජය.
+
+මේ සිසුවා මොනරාගල යුදගනාව විද්‍යාලයෙන් අධ්‍යාපන හදාරා 2020 දී අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිට තිබුණි.
+
+කෙසේවෙතත්, එහි ප්‍රතිඵල මත උසස් පෙළ අධ්‍යාපනය සඳහා ඔහුට බොහෝ පාසල්වලින් දොර විවර නොවීය.
+
+...
+
+[Data](articles/dc3bd27c.json)
+
+---
 
 ### India stirs up security for Modi's swearing in
 
@@ -2273,57 +2331,5 @@ Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction wit
 [Data](articles/5dc66623.json)
 
 [Extended Data](ext_articles/5dc66623.ext.json)
-
----
-
-### Canada stun Ireland by 12 runs in T20 World Cup
-
-*2024-06-08 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canada-stun-Ireland-by-12-runs-in-T20-World-Cup/108-284398) · `en`
-
-(New York) - Canada won their first match at any Twenty20 World Cup when they stunned Ireland by 12 runs in a Group A game in New York on Friday.
-
-Defending a target of just 138, the non-Test nation bowled and fielded expertly to hold Ireland to 125-7 from their full 20 overs.
-
-Ireland collapsed spectacularly to 59-6 and come the last five overs they still needed 64 more runs to win -- a rate of more than 12 an over
-
-George Dockrell (30 not out) and Mark Adair (34) reduced the target to 17 off the last six balls.
-
-But Canada paceman Jeremy Gordon held his nerve superbly, conceding just three runs and dismissing Adair with the second ball of the 20th over when he held a skyed caught and bowled chance.
-
-The 37-year-old Guyana-born Gordon finished with fine figures of 2-16 from his maximum four overs.
-
-...
-
-[Data](articles/83045a63.json)
-
-[Extended Data](ext_articles/83045a63.ext.json)
-
----
-
-### Sri Lankan delegation successfully concludes visit to Pakistan
-
-*2024-06-08 00:12:10* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-delegation-successfully-concludes-visit-to-Pakistan/56-762816) · `en`
-
-At the invitation of the Government of Pakistan as a State Guest, Minister of Buddhasasana, Religious, and Cultural Affairs of Sri Lanka Vidura Wickramanayaka led a delegation to Pakistan on 27 May, to participate in the international symposium and exhibition titled “From Gandhara to the World: The Legacy of Gandharan Buddhism” held in connection with Vesak Day 2024.
-
-...
-
-[Data](articles/4958910f.json)
-
-[Extended Data](ext_articles/4958910f.ext.json)
-
----
-
-### High Commissioner of New Zealand presents credentials to Sri Lanka
-
-*2024-06-08 00:09:53* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-of-New-Zealand-presents-credentialsto-Sri-Lanka/56-762815) · `en`
-
-The Government of New Zealand with the concurrence of the Government of Sri Lanka has appointed David Gregory Pine as High Commissioner of New Zealand to Sri Lanka based in Colombo. He has presented credentials to President Ranil Wickremesinghe on 5 June at 10 a.m. at the President’s House, Colombo.
-
-◼️
-
-[Data](articles/cd32f7e5.json)
-
-[Extended Data](ext_articles/cd32f7e5.ext.json)
 
 ---

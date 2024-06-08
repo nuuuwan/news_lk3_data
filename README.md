@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 10:05:26**
+As of **2024-06-08 10:19:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,680
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,194 (100.0%) of 29,196 articles have been extended.
+29,196 (100.0%) of 29,196 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ Left-arm seamer Fazalhaq Farooqi then followed his five-wicket opening match dem
 
 [Data](articles/f005d48e.json)
 
+[Extended Data](ext_articles/f005d48e.ext.json)
+
 ---
 
-### ජය බංග්ලාදේශය ට
+### Bangladesh
 
 *2024-06-08 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197517) · `si`
 
-පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති තරගයේ ජය වාර්තා කිරීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
+In the 20th World Cup, Bangladesh triumphed over Sri Lanka, scoring 125 runs with 8 wickets down in 19 overs.
 
-ඔවුන් පන්දු වාර 19කදී කඩුලු 08ක් දැවී ලකුණු 125ක් ලබා ගනිමින් ජය වාර්තා කළේය.
+🟩
+
+Bangladesh won the match won the match between Sri Lanka and Bangladesh in the 20th World Cup.
+
+They won 125 runs for the loss of 8 wickets in 19 overs.
 
 ◼️
 
 [Data](articles/3cf378c6.json)
+
+[Extended Data](ext_articles/3cf378c6.ext.json)
 
 ---
 

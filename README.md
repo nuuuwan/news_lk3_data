@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 20:04:12**
+As of **2024-06-08 20:19:02**
 
 ## Newspaper Stats
 
-*Scraped **29,249** Articles*
+*Scraped **29,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
-adalk | 2,488
+adalk | 2,489
 adaderanalk | 3,310
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
-adaderanasinhalalk | 4,695
+adaderanasinhalalk | 4,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,248 (100.0%) of 29,249 articles have been extended.
+29,249 (100.0%) of 29,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### පහළ කඩුගන්නාව කොටස හෙට දක්වා වසා දැමේ
+
+*2024-06-08 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197535) · `si`
+
+කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව කොටස අද (08) පස්වරු 7.30 සිට හෙට (09) අලුයම 01 දක්වා තාවකාලිකව වසා දැමීමට පියර ගෙන තිබේ.
+
+කොළඹ සිට මහනුවර දක්වා ගමන් ගන්නා වාහන වරකාපොළ, අ‍ඹේපුස්ස හන්දියෙන් වමට හැරී කුරුණෑගල මාර්ගය ඔස්සේ මහනුවරට ලඟාවීමේ හැකියාව පවතී.
+
+පොලීසිය පවසන්නේ ඊට අමතරව කෑගල්ල කරඬුපන හරහා රඹුක්කන හා මාවනැල්ල නගරයෙන් රඹුක්කන නගරයට පිවිස හතරලියැද්ද මාර්ගය ඔස්සේ ගලගෙදර හරහා මහනුවරට ළඟාවිය හැකි බවය.
+
+එමෙන්ම මාවනැල්ල නගරයේ සිට හෙම්මාතගම හරහා ගම්පොළ මාර්ගය ඔස්සේද මහනුවරට ළඟාවීමේ හැකියාව පවතී.
+
+◼️
+
+[Data](articles/9d6eeb30.json)
+
+---
 
 ### The toss of the coin to the African team
 
@@ -109,6 +127,8 @@ As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts 
 ...
 
 [Data](articles/aecc3d95.json)
+
+[Extended Data](ext_articles/aecc3d95.ext.json)
 
 ---
 
@@ -425,6 +445,20 @@ He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brou
 [Data](articles/19a0e948.json)
 
 [Extended Data](ext_articles/19a0e948.ext.json)
+
+---
+
+### හසරංග මාලිංගව අභිභවා යයි
+
+*2024-06-08 15:53:56* · [`adalk`](https://www.ada.lk/sports/හසරංග-මාලිංගව-අභිභවා-යයි/9-410079) · `si`
+
+විස්සයි 20 තරගවලදී ශ්‍රී ලංකාව වෙනුවෙන් වැඩිම කඩලු ප්‍රමාණයක් දවා ගත් ක්‍රීඩකයා ලෙස වනිඳු හසරංග අද වාර්තා අතරට ඒක්විය.
+
+ඒ් බංග්ලාදේශයට එරෙහිව පැවැති තරගයේදි ඔහු කඩුලු දෙකක් දවා ගැනීමත් සමගිනි. වනිඳු මේ වන විට විස්සයි20 ජාත්‍යන්තර පිටියේදී කඩුලු 108ක් දවාගෙන ඇති අතර මාලිංග දවාගෙන තිබුණේ කඩුලු 107ක් පමණි.
+
+◼️
+
+[Data](articles/33c00a69.json)
 
 ---
 
@@ -2229,39 +2263,5 @@ While most of the demands of the strikers are understandable, what the public fi
 [Data](articles/aa71284d.json)
 
 [Extended Data](ext_articles/aa71284d.ext.json)
-
----
-
-### 2024-06-07 (Friday)
-
-### Change is good: Provided it is for better and not for worse
-
-*2024-06-07 23:56:50* · [`dailyftlk`](https://www.ft.lk/opinion/Change-is-good-Provided-it-is-for-better-and-not-for-worse/14-762802) · `en`
-
-People’s aspiration and hope for a change was short lived and short changed, widening the mistrust between policy makers and electorate further
-
-One fact remains as an acceptable analogy; which is, those who cannot cope with change will never be able to initiate change in any circumstances. This applies to all stakeholders including those who caused and contributed to the current crisis. Fair share of responsibilities fall on to the electorate who got carried away with populism engineered by few; with an ultimate aim of state and regulatory capture for their advantage leaving the country into a dire state grappling with debt. Therefore, capacity and capability to initiate that essential change is absent in the DNA of politicians who deceived their constituents
-
-...
-
-[Data](articles/4fed792a.json)
-
-[Extended Data](ext_articles/4fed792a.ext.json)
-
----
-
-### Understanding Sinhala Buddhism: Lessons from the recent past
-
-*2024-06-07 23:55:02* · [`dailyftlk`](https://www.ft.lk/opinion/Understanding-Sinhala-Buddhism-Lessons-from-the-recent-past/14-762801) · `en`
-
-Review of Buddhism in Sinhalese Society 1750-1900: A Study of Religious Revival And Change by Kitsiri Malagoda, Colombo, Tambapanni Academic Publishers, 2023, 300pp. ISBN: 9786245529094
-
-Sri Lankan Buddhists are spoiled for choice these days. Depending on where your faith lies and what tugs at your heart, it seems you can choose the flavour of Theravada Buddhism that suits you best: from the traditional temple Buddhism of the great sects of Kandy to the radical orthopraxy of ascetic Buddhism in remote forest monasteries, and from the devotional Buddhism of Mahamevna to the contrarian, eclectic mix of teachings at Umandawa, the variety can be dazzling—so much so that one could be excused for thinking that this lack of homogeneity is a sign of decay.
-
-...
-
-[Data](articles/4021bf87.json)
-
-[Extended Data](ext_articles/4021bf87.ext.json)
 
 ---

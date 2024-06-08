@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 15:04:14**
+As of **2024-06-08 15:18:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,217 (100.0%) of 29,218 articles have been extended.
+29,218 (100.0%) of 29,218 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -365,6 +365,8 @@ The accident reportedly occurred when a car travelling from Ederamulla towards W
 ◼️
 
 [Data](articles/348de4ee.json)
+
+[Extended Data](ext_articles/348de4ee.ext.json)
 
 ---
 

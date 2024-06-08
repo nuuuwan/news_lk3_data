@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 22:52:07**
+As of **2024-06-08 23:04:04**
 
 ## Newspaper Stats
 
-*Scraped **29,265** Articles*
+*Scraped **29,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,491
-adaderanalk | 3,313
+adaderanalk | 3,314
 tamilmirrorlk | 3,434
-virakesarilk | 4,485
+virakesarilk | 4,489
 dailymirrorlk | 4,649
 adaderanasinhalalk | 4,704
 
@@ -26,33 +26,59 @@ adaderanasinhalalk | 4,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,263 (100.0%) of 29,265 articles have been extended.
+29,265 (100.0%) of 29,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### සා පෙළ පිළිතුරු පත්‍ර පරීක්ෂා කිරීම් ඇරඹෙයි
+### Foreign Minister to attend BRICS Ministerial Session in Russia
+
+*2024-06-08 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99749/foreign-minister-to-attend-brics-ministerial-session-in-russia) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry is scheduled to leave for Russia to attend the BRICS Ministerial Session which will be held in Nizhniy Novgorod in Russia on 11 June 2024, following an invitation extended by his Russian counterpart.
+
+The Foreign Minister has been invited for the Ministerial Meeting as the current Chair of the IORA Council of Ministers, the Ministry of Foreign Affairs said.
+
+Russia is hosting the BRICS Ministerial Session under the theme “Strengthening Multilateralism for Fair Global Development and Security”.
+
+During the Meeting of the Foreign Ministers from the countries of Global South, Foreign Minister Ali Sabry is scheduled to deliver a Statement on the “role of BRICS and Global South in reforming global governance, ensuring sustainable development, enhancing global security”, the statement added.
+
+On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including the host country.
+
+◼️
+
+[Data](articles/f18e49c1.json)
+
+---
+
+### Ordinary Level examines begins
 
 *2024-06-08 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197543) · `si`
 
-2023 වසරට අදාළව පැවති අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු අද (08) ආරම්භ කෙරුණි.
+The GCE Ordinary Level Examination's answer sheet testing started today, delayed by two days due to weather. The exam took place on the 15th, and now, investigations begin across 101 centers. Meanwhile, applications open for the Advanced Level re-exam, which will be conducted online.
 
-පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු පසුගිය 06 වනදා ආරම්භ කිරීමට නියමිත ව තිබුණ ද දිවයිනට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම කටයුතු දින දෙකකින් කල් දැමීමට විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පියවර ගත්තේය.
+🟩
 
-පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු අද දිනයේ සිට කිසිදු ගැටලුවකින් තොරව ආරම්භ කළ බව විභාග කොමසාරිස් ජනරාල්වරයා සඳහන් කළේය.
+Testing the answer sheets of the GCE Ordinary Level Examination held in the year 2023 was commenced today (08).
 
-ඒ අනුව අද දිනයේ සිට 17 වනදා දක්වා මධ්‍යස්ථාන 101ක දී පිළිතුරු පත්‍ර පරීක්ෂා කිරීමේ කටයුතු සිදුකෙරේ.
+The investigation of the answer sheets were to be opened on the 6th due to the inclement weather conditions that have been affected by the island, the Commissioner General of Examinations Amit Jayasundara made action to be postponed in two days.
 
-පසුගිය මැයි 06 වන දා ආරම්භ වු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය 15 වනදා දක්වා පැවැත්වුණි.
+The Commissioner General of Examinations stated that the investigation of the answer sheets began without any problems from today.
 
-මේ අතර 2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණය සඳහා අයඳුම් පත් කැඳවීම මේ වන විට සිදුකෙරේ.
+Accordingly, the answer to the examination will be inspected in 101 centers from today.
 
-නැවත සමීක්ෂණය සඳහා අයදුම්පත්‍ර මාර්ගගත ක්‍රමවේදය ඔස්සේ පමණක් කැඳවන අතර එය එළඹෙන 19 දක්වා සිදුකිරීමට නියමිතය.
+The GCE Ordinary Level Examination was held on the 15th of this month.
+
+Meanwhile, applications will be called for the re-examination of the Advanced Level examination of the GCE Advanced Level Examination.
+
+Re-examination is only called along on online methodology and is to be taken up along online.
 
 ◼️
 
 [Data](articles/fc3e249b.json)
+
+[Extended Data](ext_articles/fc3e249b.ext.json)
 
 ---
 
@@ -96,19 +122,25 @@ Accordingly, they decided to give the Australian team first to bat first.
 
 ---
 
-### 31 கிலோ கேரளா கஞ்சாவுடன் சிக்கிய இளைஞன்
+### A young man caught with 31 kg Kerala cannabis
 
 *2024-06-08 21:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/31-கிலோ-கேரளா-கஞ்சாவுடன்-சிக்கிய-இளைஞன்/71-338622) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சி மணற்காட்டு பகுதியில் 31 கிலோ கேரளா கஞ்சாவுடன் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+In Jaffna, a youth was arrested with 31 kg of Kerala ganja after soldiers, acting on intelligence tips, found him hiding cannabis packages in the Vadamarachchi sandal area. The cannabis, weighing 31 kg, has been turned over to the Point Pedro Police for legal proceedings.
 
-குறித்த பகுதியில் கஞ்சா பொதிகளை இளைஞன் ஒருவர் பதுக்கி வைப்பதாக இராணுவ புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற ரகசியத் தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த இராணுவத்தினர் , கஞ்சா பொதிகளுடன் இளைஞனைக் கைது செய்துள்ளனர்.
+🟩
 
-மீட்கப்பட்ட கஞ்சா பொதிகள் 31 கிலோ நிறையுடையது எனவும் , கைது செய்யப்பட்ட இளைஞனையும் , மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக பருத்தித்துறை பொலிஸாரிடம் ஒப்படைத்துள்ளதாக இராணுவ தரப்பினர் தெரிவித்துள்ளனர்.  R
+A youth has been arrested with 31 kg Kerala ganja in the Jaffna - Vadamarachchi sandal area.
+
+Soldiers rushed to the scene and arrested the youth with cannabis packages on the basis of confidential information received by the Army Intelligence Unit that a young man was hiding cannabis packs in the area.
+
+Army sources said that the rescued cannabis packages were 31 kg and the arrested youth and the recovered cannabis had been handed over to the Point Pedro Police for further legal action.R
 
 ◼️
 
 [Data](articles/f203f338.json)
+
+[Extended Data](ext_articles/f203f338.ext.json)
 
 ---
 
@@ -131,6 +163,20 @@ Hamas militants and a large number of Palestinian civilians have died due to the
 [Data](articles/b62f42e8.json)
 
 [Extended Data](ext_articles/b62f42e8.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் 31 கிலோ கேரளா கஞ்சாவுடன் இளைஞன் கைது
+
+*2024-06-08 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185625) · `ta`
+
+வடமராட்சி மணற்காட்டு பகுதியில் கேரளா கஞ்சா பொதிகளை இளைஞன் ஒருவர் பதுக்கி வைப்பதாக இராணுவ புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற ரகசியத் தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த இராணுவத்தினர் , கஞ்சா பொதிகளுடன் இளைஞனைக் கைது செய்துள்ளனர்.
+
+மீட்கப்பட்ட கஞ்சா பொதிகள் 31 கிலோ நிறையுடையது எனவும் , கைது செய்யப்பட்ட இளைஞனையும் , மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக பருத்தித்துறை பொலிசாரிடம் ஒப்படைத்துள்ளதாக இராணுவ தரப்பினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d9679428.json)
 
 ---
 
@@ -157,6 +203,44 @@ He also said that the incident had begun an investigation by a jarrror.
 [Data](articles/61ccdf8a.json)
 
 [Extended Data](ext_articles/61ccdf8a.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் "சுயமரியாதை  நடை - 2024"
+
+*2024-06-08 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185624) · `ta`
+
+யாழ்ப்பாணத்தில் "சுயமரியாதை  நடை - 2024" இன்றைய தினம் சனிக்கிழமை காலை இடம்பெற்றது .
+
+யாழ் மத்திய பேருந்து நிலையம்  முன்னாலிருந்து  ஆரம்பித்த  குறித்த நடைபயணம், சத்திரச் சந்தியை நோக்கி பயணித்து பண்ணை வீதியூடாக  பொலிஸ் நிலைய வீதி, சென்று பொது நூலக  முன்பாக நிறைவடைந்தது.
+
+சுயமரியாதை, சமத்துவம், சமூக நீதியை அடிப்படையாகக் கொண்டு ஏற்பாடு செய்யப்பட்டிருக்கும் எமது சுயமரியாதை  நடைபயணம் மேற்கொள்ளப்பட்டது என ஏற்பாட்டாளர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c7a8d649.json)
+
+---
+
+### சம்பியன் அணிகள் மோதும் இங்கிலாந்து - அவுஸ்திரேலியா போட்டி இன்று
+
+*2024-06-08 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185623) · `ta`
+
+நடப்பு ரி20 உலகக் கிண்ண சம்பியன் இங்கிலாந்தும் நடப்பு 50 ஓவர் உலகக் கிண்ண சம்பியன் அவுஸ்திரேலியாவும் மோதும் பி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டி இன்று இரவு பார்படோஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் மைதானத்தில் நடைபெறவுள்ளது.
+
+ஐக்கிய அரபு இராச்சியத்தில் 2021இல் நடைபெற்ற ரி20 உலகக் கிண்ணப் போட்டியல் அவுஸ்திரேலியா சம்பியனாகி இருந்ததும் குறிப்பிடத்தக்கது.
+
+இதே விளையாட்டரங்கில் 14 வருடங்களுக்கு முன்னர் நடைபெற்ற ரி20 உலகக் கிண்ண இறுதிப் போட்டியில் இந்த இரண்டு அணிகளும் மோதிக்கொண்டபோது 7 விக்கெட்களால் இங்கிலாந்து வெற்றிபெற்று முதல் தடவையாக உலக சம்பியனாகி இருந்தது.
+
+இம்முறை உலகக் கிண்ணத்தில் இந்த இரண்டு அணிகளுக்கு இடையிலான மோதல் மிகச் சிறந்த போட்டியாக அமையும் என எதிர்பார்க்கப்படுகிறது.
+
+ஆனால், இங்கிலாந்துக்கும் ஸ்கொட்லாந்துக்கும் இடையிலான போட்டி மழையினால் கைவிடப்பட்டதால் இங்கிலாந்து நெருக்கடியை எதிர்கொண்டுள்ளது.
+
+இரண்டு அணிகளுக்கும் இடையில் இதுவரை நடைபெற்ற 23 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 11 - 10 என்ற ஆட்டங்கள் வித்தியாசத்தில் இங்கிலாந்து முன்னிலையில் இருக்கிறது. 2 போட்டிகள் கைவிடப்பட்டன.
+
+...
+
+[Data](articles/24f0d7e8.json)
 
 ---
 
@@ -217,6 +301,28 @@ About 9000 people are invited, including heads of state in neighboring countries
 [Data](articles/73a0777d.json)
 
 [Extended Data](ext_articles/73a0777d.ext.json)
+
+---
+
+### உலகக் கிண்ணத்தில் 3ஆவது தொடர்ச்சியான தடவையாக தென் ஆபிரிக்காவை வீழ்த்துமா நெதர்லாந்து?
+
+*2024-06-08 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185622) · `ta`
+
+தென் ஆபிரிக்கா, நெதர்லாந்து ஆகிய அணிகள் மோதும் டி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டி நியூயோர்க் நசவ் கன்ட்றி சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஆரம்பமாகியுள்ளது.
+
+9ஆவது உலகக் கிண்ண அத்தியாயத்தில் தத்தமது ஆரம்பப் போட்டிகளில் இலங்கையை தென் ஆபிரிக்காவும் நேபாளத்தை நெதர்லாந்தும் வெற்றிகொண்டிருந்தன.
+
+தென் ஆபிரிக்காவையும் நெதர்லாந்தையும் ஒப்பிட்டால் தென் ஆபிரிக்கா பலம்வாய்ந்த அணி என்றே கூறத்தோன்றுகிறது.
+
+ஆனால், இரண்டு அணிகளும் கடைசியாக மோதிக்கொண்ட இரண்டு வகையான உலகக் கிண்ண கிரிகெட் போட்டிகளில் தென் ஆபிரிக்காவை அதிர்ச்சி அடையச் செய்யும் வகையில் நெதர்தலாந்து வெற்றிபெற்றிருந்தது.
+
+அவுஸ்திரேலியாவில் நடைபெற்ற ரி20 உலகக் கிண்ணப் போட்டியில் 13 ஓட்டங்களால் வெற்றிபெற்ற நெதர்லாந்து, இந்தியாவில் 2023இல் நடைபெற்ற 50 ஓவர் உலகக் கிண்ணப் போட்டியில் 38 ஓட்டங்களால் வெற்றிபெற்றிருந்தது.
+
+இம்முறையும் நெதர்லாந்து வெற்றிபெற்றால் டி குழுவுக்கான அணிகள் நிலையில் முதலிடத்தைப் பெறுவதுடன் இலங்கையும் பங்களாதேஷும் பலத்த நெருக்கடியை எதிர்கொள்ளும்.
+
+...
+
+[Data](articles/bffd48e8.json)
 
 ---
 
@@ -2219,125 +2325,5 @@ Across its Sri Lankan properties, including Heritance Kandalama, Heritance Ahung
 [Data](articles/e9dacd9b.json)
 
 [Extended Data](ext_articles/e9dacd9b.ext.json)
-
----
-
-### Exchange artificial hockey stadiums open
-
-*2024-06-08 01:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்கை-ஹொக்கி-மைதானங்கள்-திறக்கப்படும்/175-338613) · `ta`
-
-The Minister of Sports and Youth Affairs announced plans to open two artificial hockey grounds in Matale and Colombo before July 15, funded by 140 million rupees each. These projects aim to modernize existing facilities and address legal issues within sports federations, marking a new era in Sri Lanka's sports sector under the guidance of President Ranil Wickremesinghe and Sports Minister Harin Fernando.
-
-🟩
-
-The Minister of Sports and Youth Affairs Rohana Dissanayake said that arrangements have been made to open the Artificial Hockey Ground in Matale and the Artificial Hockey Ground in Reed Mawatha in Colombo before July 15.
-
-He also said that steps have been taken to solve the legal issues in a few sports federations and create a new era in the sports sector.
-
-State Minister Rohana Dissanayake made this statement at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-The artificial hockey stadium and the Matale Artificial Hockey Ground in Reed Mawatha, which has been blocked for many years, has been modernized.. A special program has been implemented in accordance with the directives of President Ranil Wickremesinghe and Sports Minister Harin Fernando.
-
-...
-
-[Data](articles/e0100377.json)
-
-[Extended Data](ext_articles/e0100377.ext.json)
-
----
-
-### About more than 80 train trips
-
-*2024-06-08 01:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-இற்கும்-மேற்பட்ட-ரயில்-பயணங்கள்-இரத்து/175-338612) · `ta`
-
-Over 80 train trips have been disrupted by a strike initiated by the Railway Mechanical Engineers Association, leading to cancellations.
-
-🟩
-
-The Railway Department has said that more than 80 rail trips have been bleeding due to the workplace launched by the Railway Mechanical Engineers Association.
-
-The Railway Department said that 43 train trips were bleeding yesterday evening due to the workforce launched by the association.
-
-The Railway Department said that 32 train trips were canceled until yesterday afternoon. (A)
-
-◼️
-
-[Data](articles/657aa167.json)
-
-[Extended Data](ext_articles/657aa167.ext.json)
-
----
-
-### 10,000 rupees for each household
-
-*2024-06-08 01:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒவ்வொரு-வீட்டிற்கும்-10-000-ரூபா-உதவித்-தொகை/175-338611) · `ta`
-
-Each flood-hit household will receive 10,000 rupees for cleanup. Sagala Ratnayake, a senior advisor to the National Security President, announced this aid during his visit to Kolonnawa, where he assessed damage and discussed relief efforts.
-
-🟩
-
-Sagala Ratnayake, a senior adviser to the National Security President and the President of the Presidential Commission, said that each of the flood -affected house will be paid Rs 10,000.
-
-He said the money would be paid to clean up the house and the next measures would be implemented immediately after the evaluation reports of all the houses and buildings that had been completely damaged due to the disaster due to the disaster.
-
-Sagala Ratnayake made this comment when he made a surveillance visit yesterday in order to seek the interests of the people of Kolonnawa affected by inclement weather.
-
-Sagala Ratnayake visited the houses of the flood victims and visited the Medical Camp and Medical Camp at Sri Samputharaja Purana Viharaya on behalf of the affected people.
-
-Subsequently, he also participated in a discussion on the progress and future activities of the government's program to provide relief to the affected people at the Kolonnawa Divisional Secretariat.. (A)
-
-◼️
-
-[Data](articles/95d0f256.json)
-
-[Extended Data](ext_articles/95d0f256.ext.json)
-
----
-
-### Let's turn the economy to the right path
-
-*2024-06-08 01:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-சரியான-பாதைக்குத்-திருப்புவோம்/175-338610) · `ta`
-
-President Ranil Wickremesinghe aims to steer Sri Lanka's economy towards recovery through the Economic Rehabilitation Bill, highlighting progress despite challenges like the economic crisis and tax increases. He emphasizes the importance of resilience, noting improvements in agriculture and tourism, and ongoing negotiations with the IMF for financial stability.
-
-🟩
-
-President Ranil Wickremesinghe said that the first step was to put the country's economy to the right path by submitting the Economic Rehabilitation Bill.
-
-The President said this while addressing the opening of the Cephalosporin injection and Meldol Drug Production Factory, which was launched in the Ja-Ela-Akala area yesterday.. As he further stated,
-
-When I took over as president, the country was in the biggest economic crisis. Many people have said that it may take 05 to 6 years to recover from this situation. Many left the country to fear that there would be no future. However, in two years we had the hope that the country's economy could be better.
-
-Despite the difficulties and economic crises, there was a need to strengthen the country's economy and build a strong life environment. For that, the tax has been increased. So people scolded. However, two years ago, it was possible to strengthen the value of the rupee and move forward.
-
-...
-
-[Data](articles/64ca560c.json)
-
-[Extended Data](ext_articles/64ca560c.ext.json)
-
----
-
-### Focus on products that can win the Export Market
-
-*2024-06-08 01:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதிச்-சந்தையை-வெல்லக்கூடிய-உற்பத்திகளில்-கவனம்/175-338609) · `ta`
-
-By 2030, President Ranil Wickremesinghe emphasizes focusing on competitive export-oriented agriculture, particularly paddy production, to ensure future success. He suggests abandoning non-competitive products in the export market. This approach was discussed during an Agricultural Modernization Program review meeting, where improvements were reported from projects funded across 26 divisional secretariats nationwide.
-
-🟩
-
-President Ranil Wickremesinghe has said that by 2030, modern technology should move towards competitive agriculture by paying more attention to the production of the competitive export market by giving priority to paddy production.
-
-Otherwise, the president pointed out that the future would not be a success, and that it would be better to abandon the products that could not face the competition in the export market.
-
-The President made these comments during the Advanced Review Meeting of the Agricultural Modernization Program held at the Presidential Office yesterday afternoon.
-
-Under the agricultural modernization program implemented in 26 selected divisional secretariats nationwide, 25 million rupees has been allocated to each Divisional Secretariat and a report on the current improvement of the pioneering project has been handed over to President Ranil Wickremesinghe.. (A)
-
-◼️
-
-[Data](articles/b9e9bc7f.json)
-
-[Extended Data](ext_articles/b9e9bc7f.ext.json)
 
 ---

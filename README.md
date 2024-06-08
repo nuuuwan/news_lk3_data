@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 22:19:05**
+As of **2024-06-08 22:34:14**
 
 ## Newspaper Stats
 
-*Scraped **29,262** Articles*
+*Scraped **29,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,491
-adaderanalk | 3,312
+adaderanalk | 3,313
 tamilmirrorlk | 3,433
 virakesarilk | 4,485
 dailymirrorlk | 4,649
@@ -26,23 +26,47 @@ adaderanasinhalalk | 4,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,261 (100.0%) of 29,262 articles have been extended.
+29,262 (100.0%) of 29,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### කාසියේ වාසිය එංගලන්තය ට
+### President Ranil among leaders attending Modi’s swearing-in ceremony on Sunday
+
+*2024-06-08 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99748/president-ranil-among-leaders-attending-modis-swearing-in-ceremony-on-sunday) · `en`
+
+Leaders from seven neighboring countries including Sri Lankan President Ranil Wickremesinghe are attending Narendra Modi’s swearing-in ceremony after he secured a third historic term as prime minister following India’s general elections.
+
+They will be among 9,000 guests, including foreign dignitaries and prominent people from around the world, who will be in the capital Delhi to attend Mr Modi’s oath-taking ceremony on Sunday.
+
+The Indian foreign ministry said that leaders from Sri Lanka, Maldives, Bangladesh, Nepal, Bhutan and other neighbouring countries “have accepted the invitation to attend” Mr Modi’s swearing-in ceremony.
+
+The foreign ministry also released a video on “know the esteemed guests from India’s neighbourhood and Indian Ocean region” attending the ceremony.
+
+...
+
+[Data](articles/0dba81d7.json)
+
+---
+
+### England to benefit the coin
 
 *2024-06-08 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197542) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ තවත් තරගයක් ඕස්ට්‍රේලියා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර අද (08) පැවැත්වෙයි.
+In today's World Cup match between Australia and England, England won the toss and elected to field first.
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඕස්ට්‍රේලියානු කණ්ඩායමට ලබාදීමටය.
+🟩
+
+The Australian team and the England team will be held today (08) a match of the World Cup.
+
+Accordingly, they decided to give the Australian team first to bat first.
 
 ◼️
 
 [Data](articles/786a6a62.json)
+
+[Extended Data](ext_articles/786a6a62.ext.json)
 
 ---
 
@@ -2327,25 +2351,5 @@ When they said that there were rumours regarding the next election, the Prime Mi
 [Data](articles/544d9b33.json)
 
 [Extended Data](ext_articles/544d9b33.ext.json)
-
----
-
-### Parliament passes Public Debt Management Bill: Semasinghe
-
-*2024-06-08 00:38:54* · [`dailyftlk`](https://www.ft.lk/news/Parliament-passes-Public-Debt-Management-Bill-Semasinghe/56-762817) · `en`
-
-State Minister of Finance Shehan Semasinghe confirmed that Parliament passed the Public Debt Management Bill yesterday.
-
-Taking to ‘X’ yesterday, he highlighted the Bill’s significance for public debt management.
-
-The newly passed Bill provides a comprehensive framework for managing public debt, including authorising borrowing, issuing, and servicing public debt on behalf of the Government.
-
-Semasinghe noted that the Bill also facilitates issuing guarantees, on-lending, and entering into suppliers’ credit and financial lease agreements. A key feature of the Bill is the establishment of the Public Debt Management Office, which will oversee these activities and ensure effective management of the country’s debt.
-
-◼️
-
-[Data](articles/43b62403.json)
-
-[Extended Data](ext_articles/43b62403.ext.json)
 
 ---

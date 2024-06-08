@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 11:04:05**
+As of **2024-06-08 11:19:15**
 
 ## Newspaper Stats
 
-*Scraped **29,201** Articles*
+*Scraped **29,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 1,671
 dailyftlk | 1,754
 adalk | 2,487
 adaderanalk | 3,303
-tamilmirrorlk | 3,426
+tamilmirrorlk | 3,427
 virakesarilk | 4,479
-dailymirrorlk | 4,639
+dailymirrorlk | 4,642
 adaderanasinhalalk | 4,680
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,201 (100.0%) of 29,201 articles have been extended.
+29,201 (100.0%) of 29,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Bangladesh keep nerve to win thriller with Sri Lanka
+
+*2024-06-08 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-keep-nerve-to-win-thriller-with-Sri-Lanka/108-284407) · `en`
+
+(Dallas) - Bangladesh emerged victorious from a gripping encounter with Sri Lanka in Texas with the two-wicket victory getting them off to a winning start in Group D of the T20 World Cup.
+
+Rishad Hossain produced a brilliant spell of leg-spin as Bangladesh fought back to restrict Sri Lanka to 124-9.
+
+Then Liton Das (36) and Towhid Hridoy (40 from 20 balls) put Bangladesh in command before some excellent pace bowling from Nuwan Thushara (4-18), in his second spell threatened a late twist in the plot.
+
+But veteran Mahmudullah Riyad showed all his experience at the end to see Bangladesh over the line with an unbeaten 16.
+
+It was the final of four games at the Grand Prairie Stadium and the Dallas crowd have been treated to some top entertainment on a surface which offered some bounce and produced good contests between bat and ball.
+
+...
+
+[Data](articles/9298cb70.json)
+
+---
+
+### இன்றிலிருந்து மீண்டும் மழை அதிகரிக்கும்
+
+*2024-06-08 10:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-மீண்டும்-மழை-அதிகரிக்கும்/175-338615) · `ta`
+
+நாட்டின் தென்மேற்கு பிரதேசத்தில் தற்போது நிலவும் மழை நிலைமை இன்றிலிருந்து அடுத்த சில நாட்களுக்கு அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் மாத்தளை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+...
+
+[Data](articles/5b7ada20.json)
+
+---
+
+### Accident kills father, daughter at Enderamulla railway crossing
+
+*2024-06-08 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-kills-father-daughter-at-Enderamulla-railway-crossing/108-284403) · `en`
+
+Colombo, June 8 (Daily Mirror) - A father and a daughter died following a car accident at a railway crossing at Enderamulla this morning, police said.
+
+The accident reportedly occurred when a car travelling from Ederamulla towards Wattala collided with the train travelling from Badulla towards Colombo while the signal lights were on at the railway crossing.
+
+◼️
+
+[Data](articles/abceab1e.json)
+
+---
 
 ### We have seen children's corrupted bodies - the survivors of Israel's attack on UN School
 
@@ -59,6 +115,30 @@ A 45 -year -old teacher, a 45 -year -old teacher, who lives in Nusreide, left Is
 [Data](articles/6dc6ee55.json)
 
 [Extended Data](ext_articles/6dc6ee55.ext.json)
+
+---
+
+### Nasa ’Earthrise’ astronaut dies at 90 in plane crash
+
+*2024-06-08 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nasa-Earthrise-astronaut-dies-at-90-in-plane-crash/108-284402) · `en`
+
+June 8 (BBC) - Apollo 8 astronaut Bill Anders, who snapped one of the most famous photographs taken in outer space, has died at the age of 90.
+
+Officials say a small plane he was flying crashed into the water north of Seattle, Washington.
+
+Anders' son Greg confirmed that his father was flying the small plane, and that his body was recovered on Friday afternoon.
+
+"The family is devastated. He was a great pilot. He will be missed," a statement from the family reads.
+
+Anders - who was a lunar module pilot on the Apollo 8 mission - took the iconic Earthrise photograph, one of the most memorable and inspirational images of Earth from space.
+
+Taken on Christmas Eve during the 1968 mission, the first crewed space flight to leave Earth and reach the Moon, the picture shows the planet rising above the horizon from the barren lunar surface.
+
+Anders later described it as his most significant contribution to the space programme.
+
+...
+
+[Data](articles/8d4e6c07.json)
 
 ---
 
@@ -2027,101 +2107,5 @@ While trains arrived in Colombo from all railway lines this morning, many servic
 [Data](articles/71b93b84.json)
 
 [Extended Data](ext_articles/71b93b84.ext.json)
-
----
-
-### Change again in the random weather of the country!
-
-*2024-06-07 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185562) · `ta`
-
-The Department of Meteorology predicts increased rainfall starting tomorrow across various regions including the southwest, upper, Sabaragamuwa, southern provinces, Kandy, Nuwara Eliya districts, and parts of the Northwest, North, and North Central Provinces. Showers or thunderstorms are also expected in the Uva Province and Ampara and Batticaloa districts. Heavy winds may hit the North, North Central, Northwestern Provinces, and Trincomalee and Hambantota districts intermittently. The department advises caution against potential risks from heavy winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology has announced that the rainy weather will increase slightly in the southwest of the country since tomorrow.
-
-Accordingly, rainfall will occur from time to time in the upper, Sabaragamuwa and southern provinces and Kandy and Nuwara Eliya districts.
-
-Rainfall is expected in the Northwest, North and North Central Provinces.
-
-Showers or thunderstorms are expected in the evening or night in some places in the Uva Province and Ampara and Batticaloa districts.
-
-Heavy winds will occur at the North, North Central and Northwestern Provinces and Trincomalee and Hambantota districts from time to time.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
-
-◼️
-
-[Data](articles/d023cf12.json)
-
-[Extended Data](ext_articles/d023cf12.ext.json)
-
----
-
-### Change in the climate from tomorrow
-
-*2024-06-07 18:13:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-மீண்டும்-காலநிலையில்-மாற்றம்/175-338592) · `ta`
-
-The Department of Meteorology forecasts increased rainfall across the southwestern region, including the Western, Sabaragamuwa, Southern Provinces, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Heavy rainfall is anticipated in some areas, along with potential thunderstorms and high winds in the Northern, North Central, North Western Provinces, and districts like Trincomalee and Hambantota. The public is urged to prepare for these conditions.
-
-🟩
-
-The Department of Meteorology has predicted that the current rainfall in the southwestern region of the country is expected to increase for the next few days.
-
-Rainfall is expected in the Western, Sabaragamuwa and Southern Provinces and Kandy and Nuwara Eliya districts.
-
-Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
-
-Rainfall is expected in the North Western, North and North Central Provinces several times.
-
-It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
-
-In the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/9c269a69.json)
-
-[Extended Data](ext_articles/9c269a69.ext.json)
-
----
-
-### ‘Public Debt Management Bill’ passed in Parliament
-
-*2024-06-07 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99731/public-debt-management-bill-passed-in-parliament) · `en`
-
-The Parliament of Sri Lanka has passed the ‘Public Debt Management Bill’ today (June 07), State Minister of Finance Shehan Semasinghe said.
-
-Posting on ‘X’ (formerly Twitter), the Finance State Minister highlighted that the bill will provide for Public Debt Management including the authorization to borrow, issue and to service public debt for the government.
-
-Furthermore, it will enable issuing guarantees, on-lending, enter into suppliers’ credit and financial lease agreements for the establishment of the Public Debt Management Office and for matters connected therewith, Semasinghe added.
-
-◼️
-
-[Data](articles/945988ca.json)
-
-[Extended Data](ext_articles/945988ca.ext.json)
-
----
-
-### Petition to the Supreme Court against 4 Excise Commissioner
-
-*2024-06-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197503) · `si`
-
-A petition was filed against four Excise Commissioners by Gihan Shawinda Fernando from Nittambuwa, accusing them of violating a Supreme Court order along with a supermarket and political allies.
-
-🟩
-
-The Supreme Court also accused the supermarket and political friends to violate an order issued by the Supreme Court and accusing four persons including the Excise License.
-
-Gihan Shawinda Fernando, a resident of Nittambuwa, presented the petition.
-
-◼️
-
-[Data](articles/bddd5d53.json)
-
-[Extended Data](ext_articles/bddd5d53.ext.json)
 
 ---

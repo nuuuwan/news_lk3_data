@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 09:19:14**
+As of **2024-06-08 09:34:14**
 
 ## Newspaper Stats
 
-*Scraped **29,189** Articles*
+*Scraped **29,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,574
 economynextcom | 1,669
 dailyftlk | 1,754
-adalk | 2,485
+adalk | 2,486
 adaderanalk | 3,302
 tamilmirrorlk | 3,426
 virakesarilk | 4,476
 dailymirrorlk | 4,638
-adaderanasinhalalk | 4,678
+adaderanasinhalalk | 4,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,187 (100.0%) of 29,189 articles have been extended.
+29,189 (100.0%) of 29,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### විදේශ ප්‍රේෂණවල ඉහළ යාමක්
+
+*2024-06-08 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197516) · `si`
+
+විදේශ ප්‍රේෂණවල ඉහළ යාමක් පෙන්නුම් කරන බව මහ බැංකුව නිවේදනය කරයි.
+
+2024  මැයි මාසයේ දී විදේශ ප්‍රේෂණ අමෙරිකානු ඩොලර් මිලියන 544.4ක් වූ බව එම නිවේදනය සඳහන් වේ.
+
+එමෙන්ම 2024 ජනවාරි සිට මැයි දක්වා සමුච්චිත අගය අමෙරිකානු ඩොලර් මිලියන 2,624.4 කි.
+
+එය 2023 ජනවාරි - මැයි මාස හා සසඳන විට 11.8%ක වැඩිවීමක් බව මහ බැංකුව වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/72bfbef1.json)
+
+---
+
+### මෝටර් රථයක් දුම්රිය ගැටී පියා හා දියණිය ජීවිතක්ෂයට
+
+*2024-06-08 09:01:48* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථයක්-දුම්රිය-ගැටී-පියා-හා-දියණිය-ජීවිතක්ෂයට/11-410076) · `si`
+
+එඬේරමුල්ල දුම්රිය හරස්මාර්ගයක දී අද (08) උදැසන මෝටර් ර‍ථයක් දුම්රියක ගැටිමෙන්  සිදු වූ අනතුරකින් පියා හා දියණිය ජීවිතක්ෂයට  පත්ව ඇතැයි වාර්තා වෙයි.
+
+මියගොස් ඇත්තේ මෝටර් රථයේ ගමන් ගත් 54 හැවිරිදි බියගම ප්‍රදේශයේ පදිංචිකරුවෙකු සහ 34 හැවිරිදි කොළඹ ප්‍රදේශයේ පුද්ගලික අංශයේ රැකියාවක නියුතු කාන්තාවකි.
+
+◼️
+
+[Data](articles/dae55dab.json)
+
+---
 
 ### Father and daughter dies in train accident
 
@@ -54,23 +86,29 @@ Police are conducting further investigations into the accident.. Remble
 
 ---
 
-### චීවරධාරියෙකුගේ පහරදීමකින් පුද්ගලයෙකු මරුට
+### Man dies after being assaulted by a monk
 
 *2024-06-08 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197515) · `si`
 
-ගිරිඋල්ල- කජුලන්දවත්ත මාරවිල ප්‍රදේශයේ නිවසක වැඩවිසූ චීවරධාරියෙකුගේ පහරදීමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් තිබේ.
+A man died after an assault by a monk in Marawila, Kawila, Giriulla. The victim was discovered injured at a house and later treated at Dambadeniya Hospital. The assailant, who lives with his mother and drinks heavily, is under investigation for unknown motives.
 
-පුද්ගලයෙකු තුවාල ලබා නිවසක් තුළ සිටින බවට ගිරිඋල්ල පොලීසියට ලැබුණු තොරතුරක් මත සිදුකළ විමර්ශනයක දී තුවාලකරුවාව සොයාගෙන තිබේ.
+🟩
 
-පසුව තුවාලකරු දඹදෙනිය රෝහලට ඇතුළු කර ප්‍රථිකාර ලබමින් සිටිය දී ඔහු මියගොස් ඇති බව පොලීසිය පවසයි.
+One person was killed due to an assault at a house monk in Marawila, Kawila, Giriulla.
 
-එම සැකකරු විහාරස්ථානයක වාසය නොකර මාරවිල ප්‍රදේශයේ පිහිටි මවගේ නිවසේ වැඩවසන බවත්, අධික මත්පැන් පානය සඳහා ද ඇබ්බැහි වී සිටින බවටත් අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The injured was found on a tip off received by the Giriulla Police that a person was injured in a house.
 
-පහරදීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගිරිඋල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The injured was later admitted to Dambadeniya Hospital and was receiving treatment.
+
+The suspect is disclosed in the mother's house in Marawila without dwelling in a temple and he was addicted to the heavy drinking.
+
+The cause of the attack is yet to be determined and the Giriulla Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3a494a90.json)
+
+[Extended Data](ext_articles/3a494a90.ext.json)
 
 ---
 
@@ -1554,23 +1592,29 @@ The Sri Lankan players unnecessarily fired wickets in the fields where the South
 
 ---
 
-### සෞදියෙන් ඉතිහාසයේ ප්‍රථමවරට ලංකාවට ලැබුණ දේ
+### What was the first time in the history of Saudi
 
 *2024-06-07 19:18:20* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියෙන්-ඉතිහාසයේ-ප්‍රථමවරට-ලංකාවට-ලැබුණ-දේ/11-410074) · `si`
 
-මෙරට ඉතිහාසයේ ප්‍රථම වරට සෞදි අරාබි රජය විසින් මෙම වසරේදී (2024) ත්‍රිවිධ හමුදාවේ සේවයේ නියුතු මුස්ලිම් සාමාජිකයින් වෙත වාර්ෂික හජ් වන්දනාව සඳහා නොමිලේ අවස්ථාව සලසා තිබේ.
+In a historic move, Saudi Arabia offered free Hajj pilgrimages to Sri Lanka in 2024, marking the first such initiative in their shared history. This gesture was facilitated by the Saudi Arabian Ambassador and the Sri Lankan Defense Minister, highlighting a significant diplomatic and cultural exchange between the two nations.
 
-ආරක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතාගේ විශේෂ ඉල්ලීමකට අනුව ශ්‍රී ලංකාවේ සෞදි අරාබි තානාපති අතිගරු කලිඩ් හමඩ් අල්කතානි මහතාගේ මැදිහත්වීමෙන් මෙම අවස්ථාව ලබා ගැනීමට හැකි විය.
+🟩
 
-රාජ්‍ය අමාත්‍යවරයා විසින් සිදු කල මෙම විශේෂ ඉල්ලීමට ප්‍රතිචාර වශයෙන් සෞදි අරාබි තානාපතිවරයා එරට රජයේ අනුග්‍රහය ඇතිව වාර්ෂික හජ් වන්දනාව සඳහා විශේෂ අවස්ථා පහක් ලබා ගැනීමට අවශ්‍ය කටයුතු සම්පාදනය කර තිබුණි.
+For the first time in the history of the Sri Lankan history, the Saudi Arabian government has the opportunity to provide free Hajj pilgrimage to the Annual Hajj pilgrimage this year (2024).
 
-ත්‍රිවිධ හමුදා මුස්ලිම් සාමාජිකයින් සඳහා විශේෂ අනුග්‍රහයක් සහිත අවස්ථා පහක් මේ වසරේදී ලබා දී තිබීම සුවිශේෂී කරුණකි.
+Defense Minister Hon
 
-ආරක්‍ෂක රාජ්‍ය අමාත්‍ය තෙන්නකෝන් මැතිතුමා අද (ජුනි 07) දින උදෑසන කොළඹ පිහිටි සෞදි අරාබි තානාපති කාර්යාලයේදී තානාපති අතිගරු අල්කතානි මහතා හමු වූ අවස්ථාවේ දී ත්‍රිවිධ හමුදාවේ මුස්ලිම් සාමාජිකයින්ට තම ජීවිත කාලයටම එක් වරක් ලැබෙන මෙම මහඟු අවස්ථාව ලබා දීම සඳහා දැක්වූ උදාර සහයෝගය වෙනුවෙන් සිය කෘතඥපූර්වක ස්තූතිය පළ කළේය.‍ෙ
+The Saudi Arabic Ambassador had arranged to get five special occasions for the annual Hajj pilgrimage to this special request carried out by the State Minister.
+
+It is noteworthy that a special favor with special favor this year for the Armed Forces.
+
+Chief Minister of Defense Tennakoon, Ambassador of His Excellency Alkothani at the Saudi Arabic Embassy in Colombo this morning (June 07)He did
 
 ◼️
 
 [Data](articles/b23bd5ee.json)
+
+[Extended Data](ext_articles/b23bd5ee.ext.json)
 
 ---
 
@@ -2051,47 +2095,5 @@ The photo of Medaku Prabhakaran in the Mohan Poster of the film has caused great
 [Data](articles/b5bbf5bc.json)
 
 [Extended Data](ext_articles/b5bbf5bc.ext.json)
-
----
-
-### “Minimum Estate Labour Wages” & Other Related Matters
-
-*2024-06-07 17:03:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/minimum-estate-labour-wages-other-related-matters/) · `en`
-
-President Wickremesinghe, drew much enthusiastic applause by his magnanimous promise of an increase of the daily wages of tea (and rubber) workers, to Rs. 1,700/= from the prevailing Rs.1,000/=.
-
-Predictably, this has stirred a “Hornet’s nest,” in the form of protests from the Estate Management sector. It is not unusual for politicians to make rash promises from May Day platforms, which haven’t the faintest chance of implementation. Cheering crowds are the dream of most politicians. But an exalted position of The Presidency of a country, should dampen any craving for the fleeting applause of a mass gathering. On this score, the President has lost. Not a good omen for one aspiring to a further term of office.
-
-...
-
-[Data](articles/b2b8d6b4.json)
-
-[Extended Data](ext_articles/b2b8d6b4.ext.json)
-
----
-
-### Sri Lanka stocks close up, buying interest picks up
-
-*2024-06-07 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-buying-interest-picks-up-166947/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.03 percent, or 3.60 points, at 12,314; while the more liquid S&P SL20 Index closed up 0.13 percent, or 4.73 points, at 3,655.
-
-Turnover was 1.2 billion. A large part of this came from banking stocks (Rs574mn).
-
-“There was some positivity coming into the market, and there was buying interest especially in banking stocks, due to the IMF news and the [CBSL] governor’s announcements,” market participants said. “But market really didn’t take off.”
-
-Hatton National Bank Plc saw the most active volumes (Rs256mn) traded in the day. The share closed up at 205.25.
-
-Sampath Bank Plc also saw high volumes change hands. The share closed up at 80.10.
-
-Commercial Bank of Ceylon Plc contributed the top contributor to the index in the day. The share closed up at 108.75.
-
-...
-
-[Data](articles/441e7be9.json)
-
-[Extended Data](ext_articles/441e7be9.ext.json)
 
 ---

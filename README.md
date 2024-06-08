@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 16:34:21**
+As of **2024-06-08 16:50:29**
 
 ## Newspaper Stats
 
-*Scraped **29,232** Articles*
+*Scraped **29,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,83 @@ islandlk | 1,574
 economynextcom | 1,672
 dailyftlk | 1,754
 adalk | 2,488
-adaderanalk | 3,307
+adaderanalk | 3,308
 tamilmirrorlk | 3,431
-virakesarilk | 4,483
+virakesarilk | 4,485
 dailymirrorlk | 4,645
-adaderanasinhalalk | 4,689
+adaderanasinhalalk | 4,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,230 (100.0%) of 29,232 articles have been extended.
+29,232 (100.0%) of 29,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ஹர்ஷவிடம் வாக்குமூலம் பெற வேண்டும்
+### Saudi offers free Hajj pilgrimage for Sri Lankan Muslim tri-forces personnel
+
+*2024-06-08 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99744/saudi-offers-free-hajj-pilgrimage-for-sri-lankan-muslim-tri-forces-personnel) · `en`
+
+The Saudi Arabian Government has offered Muslim members of the Sri Lankan Tri-Forces sponsored opportunity to perform the annual Hajj Pilgrimage this year (2024), for the first time in history, according to the Defence Ministry.
+
+This comes after a request made by the State Minister of Defence Premitha Bandara Tennakoon from the Ambassador of the Kingdom of Saudi Arabia Khalid Hamoud Alkahtani.
+
+In response to the State Minister’s request, the Saudi Ambassador had made necessary arrangements to obtain five special quotas from the Saudi government, the statement said.
+
+For the first time, five special sponsored quotas were made available for the Muslim Tri-Forces personnel this year, it said.
+
+...
+
+[Data](articles/adbfde31.json)
+
+---
+
+### බිරිඳට සිදුවූ හිරිහැර නිසා සිව්දරු පියෙක් සියදිවි නසා ගනී
+
+*2024-06-08 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197529) · `si`
+
+ගෘහ සේවය සඳහා සෞදි ගිය තම බිරිඳට විඳින්නට සිදුවූ අමානුෂික ලිංගික හිරිහැර සහ වධ හිංසා හේතුවෙන් සිත්තැවුලට පත් සැමියෙකු සියදිවි නසා ගත් පුවතක් වාර්තා විය.
+
+දඹුල්ල අලකොළ වැව නම් දුෂ්කර ගම්මානයේ ජීවත් වූ දරුවන් 4 දෙනෙකුගේ පියෙක් වන 44 හැවිරිදි රංජිත් මෙලෙස ඊයේ (07) රාත්‍රියේ මියගොස් තිබුණි.
+
+පවුලේ පැවැති ආර්ථික දුෂ්කරතා හේතුවෙන් පසුගිය වසරේ  නොවම්බර් 14 වනදා සෞදි රාජ්‍යයේ ගෘහ සේවය සඳහා ඔහුගේ බිරිඳ වන පුෂ්පා කුමාරි ගොස් තිබුණි.
+
+ඒ, දඹුල්ල නගරයේ පිහිටි පෞද්ගලික විදෙස් රැකියා ආයතනයක් හරහා ය.
+
+නිවසක සේවය සඳහා ගිය ඇයව තවත් නිවාස 04ක සේවය සඳහා යොදවමින් අදාළ නිවසේ හාම්පුතා ඇය හරහා මුදල් ඉපයීමේ කටයුත්තක නිරතවූ බව පුෂ්පා කුමාරි පැවසුවාය.
+
+එහිදී වරින්වර අමානුෂික අයුරින් වධ හිංසාවලට මුහුණදීමට සිදුවූ බවත් නිවෙස් හිමියෙකුගේ පුතෙකු නිරන්තරයෙක් ලිංගික හිරිහැර සිදුකළ බවත් ඇය පවසයි.
+
+නිවෙස් හිමි කාන්තාවට ඒ බව පැවසූ පසු තමාව කාමරයක දමා දින 15කට අධික කාලයක් ආහාරපාන නොදී රඳවාගෙන සිටි බවත් ඇය සඳහන් කළාය.
+
+එහිදී තමන් වැසිකිළියේ තිබූ ජලය පානය කරමින් ජීවත්වූ බවත් ඇය තවදුරටත් සඳහන් කළාය.
+
+...
+
+[Data](articles/aa30e875.json)
+
+---
+
+### To get confession to Harsha
 
 *2024-06-08 16:03:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷவிடம்-வாக்குமூலம்-பெற-வேண்டும்/175-338619) · `ta`
 
-பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வாவுக்கு எதிராக விடுக்கப்படும் அச்சுறுத்தல்கள் தொடர்பில் அவரிடமிருந்து வாக்குமூலம் பெற வேண்டுமென குற்றப் புலனாய்வுத் திணைக்களம் அறிவித்துள்ளது.
+The CID aims to obtain a confession from MP Harsha de Silva, informing him about the matter.
 
-இது தொடர்பில் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வாவுக்கு அறிவித்துள்ளதாக குற்றப்புலனாய்வுத் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+🟩
+
+The Criminal Investigation Department (CID) has announced that he should get a confession from MP Harsha de Silva.
+
+The Criminal Investigation Department further stated that Parliamentarian Harsha de Silva has been informed about this.. Remble
 
 ◼️
 
 [Data](articles/a51e7b1c.json)
+
+[Extended Data](ext_articles/a51e7b1c.ext.json)
 
 ---
 
@@ -137,6 +187,42 @@ The Department of Meteorology announces that several thin showers in the North a
 [Data](articles/ec7a1ddb.json)
 
 [Extended Data](ext_articles/ec7a1ddb.ext.json)
+
+---
+
+### பதுளையில் குளத்தில் இருந்து சடலம் மீட்பு
+
+*2024-06-08 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185609) · `ta`
+
+பதுளை, கலன் கோபோ தோட்ட குளத்தில் ஆண் ஒருவரின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக கஹட்டருப்ப பொலிஸார் தெரிவித்தனர்.
+
+கும்புரேகெதர மஹகும்புர கஹட்டருப்ப பகுதியைச் சேர்ந்த நபர் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+சுமார் 2 தினங்களுக்கு முன் கலன் கோபோ தோட்ட பகுதியில் அமைந்துள்ள குளத்துக்கு அருகாமையில் சட்டை மற்றும் பணம் ஆகியவை காணப்பட்டதாகவும், இவர் குளத்தில் பாய்ந்து தற்கொலை செய்து கொண்டாரா அல்லது அவர் வேறு ஏதேனும் அசம்பாவிதம் மேற்கொள்ளப் பட்டுள்ளதா என பல கோணங்களில் கஹட்டருப்ப பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+வெள்ளிக்கிழமை இராணுவத்தினரின் உதவியுடன் குறித்த குளத்தில் தேடுதலை மேற்கொண்டு வந்ததாகவும் இருப்பினும், குறித்த நபரின் சடலம் நேற்று மாலை வரை கிடைக்கவில்லை எனவும் கஹட்டருப்ப பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி தெரிவித்தார்.
+
+இந்நிலையில், இன்று சனிக்கிழமை(08) காலை குளத்தில் சடலம் மிதந்த நிலையில் காணப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/1f097234.json)
+
+---
+
+### மாணவியை காணவில்லை ; கண்டுபிடிக்க உதவுமாறு கோரிக்கை
+
+*2024-06-08 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185607) · `ta`
+
+கண்டி, கெல்லாபோக்க மடுல்கலை பகுதியைச் சேர்ந்த பாடசாலை மாணவி ஒருவர் கடந்த இரண்டு நாட்களாக காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+“ஹரிவதனி” என்ற உயர்தர  மாணவி வெள்ளிக்கிழமை முதல் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக அவரது சகோதரி தெரிவித்துள்ளார்.
+
+இந்நிலையில், குறித்த மாணவி தொடர்பில் தகவல் தெரிந்தவர்கள் (+94 78 171 3389 டிலாந்தினி) என்ற இலக்கத்திற்கு அறிவிக்குமாறு தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2fd95d01.json)
 
 ---
 
@@ -864,19 +950,25 @@ The incident took place just days before Denmark voted in the European elections
 
 ---
 
-### ලංකාවේ ලෝක කුසලාන සිහින බොඳ වෙන හැඩ
+### World Cups Dreaming Shapes
 
 *2024-06-08 09:35:47* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-ලෝක-කුසලාන-සිහින-බොඳ-වෙන-හැඩ/9-410078) · `si`
 
-ශ්‍රි ලංකා කණ්ඩායම හමුවේ බංග්ලාදේශය ලබා ගත් කඩුලු දෙකක ජයත් සමග ශ්‍රී ලංකා කණ්ඩායමේ ලෝක කුසලාන බලාපොරොත්තු තව දුරටත් ඈතට ගියේය.
+Sri Lanka clinched victory over Bangladesh in a cricket match, scoring 124 runs after winning the toss. Bangladesh lost 8 wickets in their chase, securing Sri Lanka's win.
 
-කාසියේ වාසිය දිනා ගත් බංග්ලාදේශයේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ශ්‍රි ලංකාව ලකුණු 124ක් රැස් කළේය.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශය කඩුලු 8 දැවි එම ඉලක්කය පසුකර ගියේය.
+With the winning two wickets in Bangladesh, the Sri Lankan team won further.
+
+Sri Lanka scored 124 runs in the bangladesh invitation of the coin.
+
+In reply, Bangladesh 8 wickets passed through the 8 wickets.
 
 ◼️
 
 [Data](articles/a75b8ac0.json)
+
+[Extended Data](ext_articles/a75b8ac0.ext.json)
 
 ---
 
@@ -2087,81 +2179,5 @@ The monsoon rains have wreaked havoc, particularly in the districts of Colombo, 
 [Data](articles/a9ec8c5f.json)
 
 [Extended Data](ext_articles/a9ec8c5f.ext.json)
-
----
-
-### Man in viral child assault video attacked in Prison
-
-*2024-06-07 22:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-in-viral-child-assault-video-attacked-in-Prison/108-284363) · `en`
-
-The person who was seen assaulting a small girl in a viral video has been attacked by inmates of the Anuradhapura prison following his arrest and remand.
-
-The police said he was admitted to the Anuradhapura Teaching Hospital. The person, who is said to be the paramour of the girl's mother, was arrested by the Welioya Police and produced before the Padaviya Magistrate, who remanded him till June 19.
-
-The suspect who is a resident of the village called ‘Hansawila’ in Welioya has been assaulted by the inmates of the Anuradhapura prison. He has allegedly assaulted the child for eating sugar kept in a glass container.
-
-He was arrested while hiding. His son had videoed him assaulting the child and released it on social media platforms.
-
-◼️
-
-[Data](articles/d7aff1f6.json)
-
-[Extended Data](ext_articles/d7aff1f6.ext.json)
-
----
-
-### Céline Dion says illness has caused muscle spasms that broke her ribs
-
-*2024-06-07 22:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Céline-Dion-says-illness-has-caused-muscle-spasms-that-broke-her-ribs/108-284384) · `en`
-
-The Guardian, June 7- Céline Dion has said she has suffered muscle spasms so strong that her ribs were broken as a result, as she lives with the condition stiff person syndrome.
-
-Speaking in her first TV interview since the diagnosis, to Hoda Kotb on NBC News, Dion said: “I had broken ribs at one point, because sometimes when it’s very severe …” Kotb asks her: “It can spasm so hard it can break a rib?”, with Dion nodding agreement.
-
-Dion also said that when she experiences muscle spasms in her throat, “it’s like somebody is strangling you, like someone is pushing your larynx”, and explained that she can only speak at a certain pitch while experiencing the spasm. “But it can also be in the abdominal [area], in the spine, in the ribs,” she added, describing cramps in her hands: “It’s cramping, but it’s like in a position of, like, you cannot unlock them”.
-
-...
-
-[Data](articles/561f67f7.json)
-
-[Extended Data](ext_articles/561f67f7.ext.json)
-
----
-
-### Severe attack on Kukul Saminda attacking a girl
-
-*2024-06-07 22:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-தாக்கிய-குகுல்-சமிந்த-மீது-கடுமையாக-தாக்குதல்/175-338607) · `ta`
-
-Inmates attacked Kukul Saminda, accused of assaulting a young girl in Mullaitivu-Mannar, leaving him hospitalized in Anuradhapura Teaching Hospital.
-
-🟩
-
-Prison inmates today (07) have been severely assaulted by Kukul Saminda, who has been interrogated on charges of attacking a four -and -a -half -year -old girl in the Mullaitivu - Mannar area.
-
-Kukul Saminda, who was injured in the attack, has been admitted to the Anuradhapura Teaching Hospital, police said.
-
-◼️
-
-[Data](articles/8f2ca2e6.json)
-
-[Extended Data](ext_articles/8f2ca2e6.ext.json)
-
----
-
-### New city for residents along Kelani River Bank - Sagala
-
-*2024-06-07 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99735/new-city-for-residents-along-kelani-river-bank-sagala) · `en`
-
-Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka said that an allowance of LKR 10,000 will be provided to every household affected by the flood.
-
-He stated that this financial assistance is intended for cleaning the houses. Additionally, once the assessment reports on all partially and fully damaged houses and buildings are received, the subsequent steps will be implemented promptly.
-
-Sagala Ratnayaka made these remarks while participating in an observation tour today (07) to assess the welfare of the residents in the Kolonnawa area impacted by adverse weather conditions.
-
-...
-
-[Data](articles/c48263e1.json)
-
-[Extended Data](ext_articles/c48263e1.ext.json)
 
 ---

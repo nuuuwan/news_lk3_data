@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 18:52:59**
+As of **2024-06-08 19:04:04**
 
 ## Newspaper Stats
 
-*Scraped **29,242** Articles*
+*Scraped **29,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,488
 adaderanalk | 3,309
 tamilmirrorlk | 3,431
 virakesarilk | 4,485
-dailymirrorlk | 4,647
+dailymirrorlk | 4,648
 adaderanasinhalalk | 4,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,241 (100.0%) of 29,242 articles have been extended.
+29,242 (100.0%) of 29,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Ranil in New Delhi tomorrow to attend Modi’s swearing in ceremony
+
+*2024-06-08 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-in-New-Delhi-tomorrow-to-attend-Modis-swearing-in-ceremony/108-284414) · `en`
+
+New Delhi, June 08 (Daily Mirror)- Indian Prime Minister Narendra Modi will begin his third term tomorrow in New Delhi and Sri Lankan President Ranil Wickremesinghe is expected to reach New Delhi tomorrow to participate in Modi's swearing in ceremony.
+
+President Wickremesinghe is expected to participate in several bilateral meetings as well during his visit, according to officials from the President's office.
+
+◼️
+
+[Data](articles/ab2ffbc5.json)
+
+---
 
 ### Flood warnings for several rivers and Attanagalu Oya withdrawn
 
@@ -45,6 +59,8 @@ The statement said that the Department of Irrigation is constantly monitoring th
 ◼️
 
 [Data](articles/742d738f.json)
+
+[Extended Data](ext_articles/742d738f.ext.json)
 
 ---
 
@@ -2223,21 +2239,5 @@ This mega sale event will offer shoppers over Rs. 10 million worth of Mega Vouch
 [Data](articles/a6b6df0f.json)
 
 [Extended Data](ext_articles/a6b6df0f.ext.json)
-
----
-
-### How Argentina’s once great economy was destroyed? Lessons for Sri Lanka
-
-*2024-06-07 23:46:28* · [`dailyftlk`](https://www.ft.lk/columns/How-Argentina-s-once-great-economy-was-destroyed-Lessons-for-Sri-Lanka/4-762794) · `en`
-
-Argentina’s exemplary economic success took a wrong turn from 1946 when Juan Peron became president and he implemented economic policies to make Argentina self-sufficient
-
-As Argentina was the fifth largest economy in the world in the early 1900s, Sri Lanka was one of the best economies in Asia and was referred to as the Switzerland of Asia. Sri Lanka’s downfall too was due to looking into import substitution starting in the mid 1950s. Sri Lanka went into a disastrous overdrive towards import substitution and self-sufficiency starting in 1970 which led to goods shortages and high prices and an economic crisis. Sri Lanka opened its economy in 1977. But the Sri Lankan economy has not remained fully open since then and many of the tough reforms were not done when Sri Lanka opened its economy leading to many lost economic opportunities for the country
-
-...
-
-[Data](articles/23ab0e7d.json)
-
-[Extended Data](ext_articles/23ab0e7d.ext.json)
 
 ---

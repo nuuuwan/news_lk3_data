@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 06:59:41**
+As of **2024-06-08 07:21:36**
 
 ## Newspaper Stats
 
-*Scraped **29,160** Articles*
+*Scraped **29,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ adaderanalk | 3,298
 tamilmirrorlk | 3,421
 virakesarilk | 4,474
 dailymirrorlk | 4,635
-adaderanasinhalalk | 4,672
+adaderanasinhalalk | 4,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,157 (100.0%) of 29,160 articles have been extended.
+29,160 (100.0%) of 29,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### අදත් ප්‍රදේශ කිහිපයක‌ට වැසි
+
+*2024-06-08 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197512) · `si`
+
+දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් අද (08) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩිතරමක තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+උතුරු සහඋතුරු-මැද පළාත්වලත් මාතලේ දිස්ත්‍රික්කයෙත් වැසි වාර කිහිපයක් ඇතිවිය හැක.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව සඳහන් වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/09c7c406.json)
+
+---
+
+### එඬේරමුල්ලේ බිහිසුණු දුම්රිය අනතුරක් -  දෙදෙනෙක් මරුට
+
+*2024-06-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197511) · `si`
+
+එඬේරමුල්ල දුම්රිය හරස්මාර්ගයක දී සිදු වූ දුම්රිය අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+
+අප වාර්තාකරු පැවසුවේ එම දුම්රිය හරස් මාර්ගයේ දී මෝර්ටරථයක් දුම්රියේ ගැටීමෙන් එම අනතුර සිදු ව ඇති බවයි.
+
+◼️
+
+[Data](articles/d616122b.json)
+
+---
+
+### කාසියේ වාසිය බංග්ලාදේශය ට
+
+*2024-06-08 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197510) · `si`
+
+අයි.සී.සී ලෝක කුසලාන 20/20 ක්‍රිකට් තරඟාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර තීරණාත්මක තරඟය මේවන විට පැවැත්වේ.
+
+තරඟයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+ඒ අනුව පන්දුවට පහරදෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 3ක දී කඩුල්ලක් දැවී ලකුණු 25ක්  ලබාගෙන සිටියි‍.
+
+◼️
+
+[Data](articles/27e34551.json)
+
+---
 
 ### Sri Lanka lobbies UN for territorial sea expansion
 
@@ -45,6 +99,8 @@ Sri Lanka submitted in May 2009 technical and scientific data and other informat
 ...
 
 [Data](articles/e5141e6e.json)
+
+[Extended Data](ext_articles/e5141e6e.ext.json)
 
 ---
 
@@ -1668,6 +1724,8 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 
 [Data](articles/d39bc714.json)
 
+[Extended Data](ext_articles/d39bc714.ext.json)
+
 ---
 
 ### 'Culinary Arts Food Expo'
@@ -2073,79 +2131,5 @@ As the Minister of Women and Child Affairs, President Ranil Wickremesinghe has c
 [Data](articles/18695377.json)
 
 [Extended Data](ext_articles/18695377.ext.json)
-
----
-
-### It is best to give up products that cannot be facing market competition
-
-*2024-06-07 14:34:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙළෙඳපොළ-තරගයට-මුහුණ-දිය-නොහැකි-නිෂ්පාදන-අත්හැරීම-වඩාත්-සුදුසුයි/11-410070) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of competing in the export market, highlighting the need for modern technology and government support to reduce post-harvest losses and enhance competitiveness. He urged for interventions to facilitate exports, showcasing projects aimed at improving agricultural productivity and market access.
-
-🟩
-
-President Ranil Wickremesinghe said that the competitive export market should be paid to the premises of the competitive export market.
-
-Otherwise, the President also pointed out that the export market is preferable in the export market.
-
-President Ranil Wickremesinghe was speaking at the progress review meeting held at the Presidential Secretariat yesterday (06).
-
-25 million per Divisional Secretariat, a report on the current progress project in the 26 Divisional Secretariat Divisions across the country was presented to the President Ranil Wickremesinghe.
-
-The report also includes programs implemented under the Ministry of Agriculture and Fisheries, young agricultural villages and private sector participation in the Agricultural Modernization Program.
-
-The project is the expected aim of this project to provide competitive goods for the export market using modern technology.
-
-...
-
-[Data](articles/3f1b617d.json)
-
-[Extended Data](ext_articles/3f1b617d.ext.json)
-
----
-
-### Stanley Tilakaratne elected as the new Speaker of the 7th Parliament: Maithri;JR!
-
-*2024-06-07 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185531) · `ta`
-
-Stanley Tilakaratne became the Speaker of Sri Lanka's 7th Parliament on June 7, 1970, with JR. Jayawardena's proposal. The unanimous election was highlighted in the Weerakesari magazine, noting Tamil members' support.
-
-🟩
-
-Stanley Tilakaratne was elected as the Speaker of the 7th Parliament of Sri Lanka on June 7, 1970.
-
-Opposition Leader JR. Jayawardena proposed.
-
-On the first page of the Weerakesari magazine published on June 8, 1970, "The new Speaker is unanimously elected!. This was stated with an editorial "Tamil members too."
-
-◼️
-
-[Data](articles/ebc505ad.json)
-
-[Extended Data](ext_articles/ebc505ad.ext.json)
-
----
-
-### 32 train services canceled until this afternoon
-
-*2024-06-07 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185529) · `ta`
-
-Due to the Mechanical Engineers Association's involvement in promoting train engineers, 32 train services were canceled today but are expected to resume later this afternoon.
-
-🟩
-
-The Control Room said that 32 train services were canceled today due to the Mechanical Engineers Association's work.
-
-A total of 32 services that were scheduled to be operated this morning have been canceled till 13.00 pm.
-
-The Mechanical Engineers Association said that the workplace was involved in the second -grade promotions of the train engineers.
-
-However, the Railway Department has announced that the train services will be returned to normal this afternoon.
-
-◼️
-
-[Data](articles/c0871dbb.json)
-
-[Extended Data](ext_articles/c0871dbb.ext.json)
 
 ---

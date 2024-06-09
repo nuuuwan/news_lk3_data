@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 16:50:36**
+As of **2024-06-09 17:04:14**
 
 ## Newspaper Stats
 
-*Scraped **29,375** Articles*
+*Scraped **29,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,504
-adaderanalk | 3,325
+adaderanalk | 3,326
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,665
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,375 (100.0%) of 29,375 articles have been extended.
+29,375 (100.0%) of 29,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Sajith pledges to implement 13th Amendment
+
+*2024-06-09 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99761/sajith-pledges-to-implement-13th-amendment) · `en`
+
+Leader of the Opposition Sajith Premadasa assured that he will implement the 13th Amendment to the Constitution after coming to power.
+
+The Samagi Jana Balawegaya (SJB) leader stated this while participating in the occasion of donating a smart classroom to at Bharathipuram Maha Vidyalayam, Kilinochchi, under the ‘Sakwala’ programme.
+
+Speaking further, Sajith Premadasa urged everyone to join hands “as children of one mother,” regardless of their religions or race, to help rebuild the country.
+
+Premadasa said that various leaders are afraid to speak about the 13th Amendment as they are “political opportunists”, and that he will implement the 13th Amendment as a “straight talker”.
+
+◼️
+
+[Data](articles/d98ee060.json)
+
+---
 
 ### Indonesian woman found dead inside giant python
 
@@ -2167,25 +2185,5 @@ Re-examination is only called along on online methodology and is to be taken up 
 [Data](articles/fc3e249b.json)
 
 [Extended Data](ext_articles/fc3e249b.ext.json)
-
----
-
-### President Ranil among leaders attending Modi’s swearing-in ceremony on Sunday
-
-*2024-06-08 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99748/president-ranil-among-leaders-attending-modis-swearing-in-ceremony-on-sunday) · `en`
-
-Leaders from seven neighboring countries including Sri Lankan President Ranil Wickremesinghe are attending Narendra Modi’s swearing-in ceremony after he secured a third historic term as prime minister following India’s general elections.
-
-They will be among 9,000 guests, including foreign dignitaries and prominent people from around the world, who will be in the capital Delhi to attend Mr Modi’s oath-taking ceremony on Sunday.
-
-The Indian foreign ministry said that leaders from Sri Lanka, Maldives, Bangladesh, Nepal, Bhutan and other neighbouring countries “have accepted the invitation to attend” Mr Modi’s swearing-in ceremony.
-
-The foreign ministry also released a video on “know the esteemed guests from India’s neighbourhood and Indian Ocean region” attending the ceremony.
-
-...
-
-[Data](articles/0dba81d7.json)
-
-[Extended Data](ext_articles/0dba81d7.ext.json)
 
 ---

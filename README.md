@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 04:34:30**
+As of **2024-06-10 04:52:36**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,453 (100.0%) of 29,456 articles have been extended.
+29,456 (100.0%) of 29,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### புகையிரதத்துடன் மோதி முச்சக்கரவண்டி விபத்து
+### Accident
 
 *2024-06-10 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185705) · `ta`
 
-வத்தளை - எந்தரேமுல்ல ரயில் கடவையில் முச்சக்கரவண்டி ஒன்று ரயிலுடன் மோதியதில் மேலும் ஒரு விபத்து ஏற்பட்டுள்ளது.
+In Wattala, a tragic accident occurred where a three-wheeler collided with a train at the Eremulla railway crossing, resulting in the deaths of two individuals, including a woman.
 
-குறித்த இடத்தில் கடந்த 08ஆம் திகதி சனிக்கிழமை காலையும் இரு புகையிரதங்களுடன் கார் மோதிய விபத்தில் பெண் உட்பட இருவர் உயிரிழந்துள்ளனமை குறிப்பிடத்தக்கது.
+🟩
+
+Wattala - A three -wheeler collided with a train at Eremulla railway crossing.
+
+Two people, including a woman, were killed when a car crashed into two trains on Saturday morning on the 08th.
 
 ◼️
 
 [Data](articles/5b178eaa.json)
+
+[Extended Data](ext_articles/5b178eaa.ext.json)
 
 ---
 
@@ -152,21 +158,27 @@ As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts 
 
 ---
 
-### கண்டியில் காணாமல் போன மாணவி ஹரிவதனி சடலமாக மீட்பு!
+### Harivathani's body recovered
 
 *2024-06-10 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185704) · `ta`
 
-காணாமல் போன கண்டி ரெலுகேஸ் இல 2 கெல்லாபோக்க மடுல்கலை சேர்ந்த ஹரிவதனி என்ற உயர்தர மாணவி  09 ஆம் திகதி ஞாயிற்றுக்கிழமை சடலமாக கண்டெடுக்கப்பட்டுள்ளார்.
+Harivathani, a top student from Madulkal, was found dead on Sunday, ending fears of abduction. The case began when Harivathani and Ammanavi went missing last Friday; Ammanavi was later discovered deceased. Police investigations confirmed there were no abductions involved.
 
-குறித்த மாணவி கடந்த வெள்ளிக்கிழமை முதல் காணாமல் போயிருந்த நிலையிலேயே அம்மாணவி தவறான முடிவெடுத்து உயிரிழந்துள்ளார் என தெரியவந்துள்ளது.
+🟩
 
-சம்பவம் தொடர்பில் காவல்துறையினர் விசாரணை மேற்கொண்ட போது மாணவியை யாரும் கடத்தவில்லை என தெரியவந்துள்ளது.
+Harivathani, a high -ranking student from Madulkal, a missing Kandy Relukes No. 2, has been found dead on Sunday, the 9th.
 
-அத்துடன் மாணவி காணாமல் போன விடயம் தொடர்பாக கடந்த வெள்ளிக்கிழமை பொலிஸ் நிலையத்தில் அவர்களது குடும்பத்தினரால் முறைப்பாடு செய்யப்பட்டிருந்தது என்பது குறிப்பிடத்தக்கது
+It has been revealed that Ammanavi has died after she disappeared since last Friday.
+
+When the police investigated the incident, it was revealed that no one was abducted by the student.
+
+It is also worth noting that their family lodged a complaint at the police station last Friday regarding the disappearance of the student.
 
 ◼️
 
 [Data](articles/2dd73f53.json)
+
+[Extended Data](ext_articles/2dd73f53.ext.json)
 
 ---
 
@@ -270,21 +282,35 @@ The United States, through the United States Agency for International Developmen
 
 ---
 
-### பரபரப்பை ஏற்படுத்திய போட்டியில் பாகிஸ்தானை 6 ஓட்டங்களால் வென்றது இந்தியா
+### India won Pakistan by 6 runs
 
 *2024-06-10 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185703) · `ta`
 
-விளையாட்டு உலகில் பரம வைரிகள் என வருணிக்கப்படும் இந்தியாவுக்கும் பாகிஸ்தானுக்கும் இடையில் நியூயோர்க், நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுபெற்ற  மிகவும் பரபரப்பான ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் இந்தியா 6 ஓட்டங்களால் அபார வெற்றியீட்டியது.
+In the R20 World Cup, India secured a 6-run victory over Pakistan in a closely contested match. This win significantly boosts India's chances of advancing to the first round. Pakistan suffered a setback, losing 7 wickets in 20 overs and managing only 113 runs. Key performers included Mohammed Rizwan with 31 runs for Pakistan and Jasprit Bumrah and Hardik Pandya with notable contributions for India. The match was marked by strategic errors and unexpected performances, particularly from India's batting lineup, which struggled to meet expectations despite a strong showing from Rishabh Pant.
 
-இந்த வெற்றியுடன் 4 புள்ளிகளைப் பெற்று  ஏ குழுவுக்கான   அணிகள் நிலையில் முதல் இடத்தில் உள்ள இந்தியா சுப்பர் 8 சுற்றில் விளையாடுவதற்கான தனது வாய்ப்பை அதிகரித்துக்கொண்டுள்ளது.
+🟩
 
-ஐக்கிய அமெரிக்காவிடம் சுப்பர் ஓவரில் தோல்வி அடைந்த பாகிஸ்தானுக்கு இந்தத் தோல்வியினால் பெரும் நெருக்கடி ஏற்பட்டுள்ளது.
+India won by 6 runs in the R20 World Cup for the most exciting A Group, which was completed shortly before the New York and Nasav Cantry International Stadium between India and Pakistan.
 
-இந்தியாவினால் நிர்ணயிக்கப்பட்ட 120 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய பாகிஸ்தான் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 113 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+With this victory, the team for the A team has increased its chance of playing the first round of India in the first place.
+
+The defeat has caused a major crisis for Pakistan, who lost to the United States in the Super over.
+
+Pakistan lost 7 wickets in 20 overs and lost 113 runs.
+
+When the total number was 26 runs, team captain Babar Azam, Usman Khan and Bakar Zaman, followed by 13 runs, were playing in a steady interval with 13 runs.. (73 - 3 wig.)
+
+On the other hand, Mohammed Rizwan scored 31 runs when he scored 31 runs.. (80 - 4 wig.)
+
+Shadab Khan, who was considered to be a confidence in the Pakistan team, scored only 4 runs.
+
+In the last ball of the 19th over of Jasprit Bumrah, Iptikar Ahmad needed a further 18 runs for the last over to lose 6 with 5 runs.
 
 ...
 
 [Data](articles/9a817474.json)
+
+[Extended Data](ext_articles/9a817474.ext.json)
 
 ---
 

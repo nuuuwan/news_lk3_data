@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 00:05:07**
+As of **2024-06-10 00:19:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,433 (100.0%) of 29,434 articles have been extended.
+29,434 (100.0%) of 29,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### පාකිස්තානයට ලැබුණු ඉලක්කය
+### The goal of Pakistan
 
 *2024-06-09 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197578) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ ඉන්දියාව සහ පාකිස්තානය අතර තරගය මේ වනවිට නිව් යෝර්ක් හීදී පැවැත්වෙයි.
+In the Twenty20 World Cup, India vs. Pakistan match in New York, India batted first and scored 119 runs.
 
-එහිදී පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සියලු දෙනා දැවී රැස්කළේ ලකුණු 119ක් පමණි.
+🟩
+
+The match between India and Pakistan will be held in New York, India and Pakistan in the Twenty20 World Cup.
+
+Batting first, India scored 119 runs.
 
 ◼️
 
 [Data](articles/f2755222.json)
+
+[Extended Data](ext_articles/f2755222.ext.json)
 
 ---
 

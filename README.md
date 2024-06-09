@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 19:19:09**
+As of **2024-06-09 19:34:31**
 
 ## Newspaper Stats
 
-*Scraped **29,394** Articles*
+*Scraped **29,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,754
 adalk | 2,509
 adaderanalk | 3,329
 tamilmirrorlk | 3,448
-virakesarilk | 4,504
+virakesarilk | 4,511
 dailymirrorlk | 4,665
 adaderanasinhalalk | 4,728
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 4,728
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,391 (100.0%) of 29,394 articles have been extended.
+29,394 (100.0%) of 29,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### பைடனின் சர்ச்சைக்குரிய யுத்த நிறுத்த யோசனை
+
+*2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185636) · `ta`
+
+இஸ்ரேலின் வலது சாரி தரப்பில் இருந்து இந்த யோசனைகளுக்கு கடும் எதிர்ப்பும் விமர்சனமும் எழலாம் என்பதையும் அவர் ஏற்றுக்கொண்டுள்ளார். ஆளும் தரப்பில் உள்ள கடும் போக்காளர்களும் இதை எதிர்க்கலாம். அவர்களுக்கு நிலைமையை விளக்கும் வகையிலும் பைடன் பல கருத்துக்களை முன் வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/5ffa6b4f.json)
+
+---
+
+### ஐ.தே.க.வின் பொருந்தாத நியாயம்
+
+*2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185654) · `ta`
+
+ஜனாதிபதி மற்றும் பாராளுமன்றத்தில் பதவிக்காலத்தை நீடிப்பதற்கு சர்வஜன வாக்கெடுப்புக்கு உத்தரவிட்டால் அது அரசியலமைப்பு விரோதமாக கருதப்படாது.
+
+◼️
+
+[Data](articles/95558e14.json)
+
+---
+
+### ஏமாற்றமளித்த   ரஷ்யாவின் இறுக்கம்
+
+*2024-06-09 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185658) · `ta`
+
+விடுதலைப் புலிகளை தோற்கடித்த படையினர் ரஷ்ய மண்ணில் வீணாக உயிரிழந்து கொண்டிருக்கிறார்கள் என்று தயாசிறி ஜயசேகர உசுப்பேற்றிய பின்னர் தான், பாராளுமன்ற உறுப்பினர்களுக்கும் அரசாங்க தலைவர்களுக்கும் மாத்திரமன்றி- பாதுகாப்பு அமைச்சு மற்றும் முப்படைகளின் தளபதிகளுக்கும் கூட சொரணை வந்தது.
+
+◼️
+
+[Data](articles/5b663d33.json)
+
+---
+
+### உள்நாட்டு இறைவரித் திணைக்களத்துடன்   தகவல்களைப் பகிர்வதற்கான புதிய விதிகள்
+
+*2024-06-09 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185671) · `ta`
+
+இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களம் (IRD) மார்ச் 21, 2024 திகதியிட்ட அதிவிசேட வர்த்தமானி எண். 2376/25 தொடர்பான அறிவிப்பை வெளியிட்டுள்ளது. இந்த அறிவிப்பு பல்வேறு நிறுவனங்களை உள்நாட்டு இறைவரி ஆணையாளர் நாயகத்துடன் (CGIR) வழக்கமான தகவல்களைப் பகிர்ந்துகொள்ள வேண்டுமென்று அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/47d53211.json)
+
+---
+
+### பேசப்படாத முஸ்லிம்கள்  மீதான உரிமை மீறல்கள்
+
+*2024-06-09 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185652) · `ta`
+
+துருக்கித் தொப்பி அணிந்து ஆஜராவதை தடுக்கும் நீதிமன்ற அறிவித்தலொன்றும் பின்னர் வெளியிடப்பட்டது. இதனைத்தொடர்ந்து முஸ்லிம் சமூகம் தமது இன, மத, கலாசார உரிமைக்காக பேரெழுச்சி கொண்டது. மருதானையை மையமாகக்கொண்டு இடம்பெற்று, இத்துருக்கித் தொப்பிப் போராட்டம் வெற்றியும் பெற்றது.
+
+◼️
+
+[Data](articles/b5eccacd.json)
+
+---
+
+### தமிழ் பொது வேட்பாளரும் பதற்றங்களும்
+
+*2024-06-09 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185667) · `ta`
+
+தமிழ் அரசு கட்சி ஆதரித்தால் என்ன,  ஆதரிக்காவிட்டால் என்ன- தமிழ் பொது வேட்பாளர் நிறுத்தப்படும் போது, அதனை அவர்களால் எதிர்க்க முடியாது.பொருளாதார காரணியால் தமிழர்கள் ஒரு வாய்ப்பை தவறவிட்டனர் என்ற பழிச் சொல்  வருவதற்கு இடமளிக்க முடியாது முடியாது
+
+◼️
+
+[Data](articles/368d27f9.json)
+
+---
+
+### தென்னாபிரிக்க அழிவின் விளிம்பில் ஆபிரிக்கத் தேசிய காங்கிரஸ்?
+
+*2024-06-09 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185650) · `ta`
+
+1994ஆம் ஆண்டு முதல் நாட்டை ஆட்சி செய்து வரும் மிகப்பெரிய கட்சியான ஆபிரிக்கத் தேசியக் காங்கிரஸின் வாக்குவங்கி தொடர்ந்தும் சரிவைச் சந்தித்து வருவது ஒன்றும் இரகசியமான சேதி அல்ல. கட்சிக்குள் நடக்கும் குத்து வெட்டுக்கள், கட்சித் தலைவர்கள் மீது சுமத்தப்படும் ஊழல் குற்றச்சாட்டுகள், மக்கள் செல்வாக்கு மிக்க கட்சியின் முன்னணி உறுப்பினர்கள் வெளியேறி புதிய கட்சிகளை உருவாக்கியமை, தேர்தல் வாக்களிப்பில் பொதுமக்கள் ஆர்வத்துடன் கலந்து கொள்ளாமை எனப்பல காரணங்கள் இருந்தாலும் கட்சி இத்துணை பின்னடைவைச் சந்திக்கும் என்று எதிர்பார்க்கப்படவில்லை. இருந்தாலும் அது நடைபெற்றிருக்கின்றது.
+
+◼️
+
+[Data](articles/2f313a72.json)
+
+---
 
 ### Woman arrested for cheating businessman of Rs. 150 million
 
@@ -56,43 +140,55 @@ The woman was later arrested by police based on the complaint.
 
 ---
 
-### ලෝක දේශපාලනයේ සුවිශේෂී පරිච්ඡේදයක් අරඹමින් යළි දිවුරුම් දෙන මෝදි
+### Modi is sworn in to commence a special chapter of world politics
 
 *2024-06-09 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197568) · `si`
 
-ආසියානු මෙන්ම ලෝක දේශපාලනයේ තවත් සුවිශේෂී පරිච්ඡේදයක් ආරම්භ කරමින් පිට පිට තුන් වැනි වරටත් ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත් නරේන්ද්‍ර මෝදිගේ දිවුරුම්දීමේ උත්සවය මේ වනවිට නවදිල්ලි අගනුවරදී පැවැත්වෙයි.
+Narendra Modi, sworn in as India's Prime Minister, marks a pivotal moment in global politics. His victory in the Indian general election, leading the National Democratic Alliance, secures him 293 out of 543 parliamentary seats. This achievement makes him the second Indian Prime Minister to gain a majority, following Jawaharlal Nehru. Modi's inauguration ceremony includes visits to national monuments, symbolizing a new era in Indian leadership.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු කලාපීය රාජ්‍ය නායකයින් පිරිසක්ද පදවි ප්‍රාප්ති උත්සවයට සහභාගී වී සිටියි.
+🟩
 
-අප්‍රේල් මස 19 වැනිදා සිට ජූනි මස පළමුවැනිදා දක්වා අදියර 7කින් ක්‍රියාත්මක වූ ඉන්දීය මහා මැතිවරණයේ නිල ප්‍රතිඵල නිකුත් වුණේ පසුගිය ජූනි හතර වැනිදාය.
+The festival of Narendra Modi, who was appointed as the Prime Minister of the Prime Minister of Asian and World politics, is currently conducting the Indian Prime Minister in New Delhi capital.
 
-මිලියන 642ක පිරිසක් ඡන්දය භාවිත කළ මෙම මැතිවරණය ජයගැනීමට ඉන්දීය අගමැති නරේන්ද්‍ර මෝදිගේ භාරතීය ජනතා පක්ෂය ප්‍රමුඛ ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානය සමත්විය.
+President Ranil Wickremesinghe and other regional leaders of the region participated in the Executive Festival.
 
-ඒ ලෝක් සභාව එනම් ඉන්දීය පාර්ලිමේන්තුවේ පහළ මන්ත්‍රී මණ්ඩලයේ ආසන 543න් 293ක් තමන් සතු කරගනිමිනි.
+The official outcome of the Indian general election of 7th April to 1st June, the official results of 7 phases were released on June.
 
-මෙම ජයග්‍රහණය අතිශය සුවිශේෂී වන්නේ ඉන්දීය ඉතිහාසයේ තෙවරක් අගමැති ධුරය දැරීමට ජනවරමක් දිනූ දෙවැනි අග්‍රාමාත්‍යවරයා බවට මෝදි පත්වීම හේතුවෙනි.
+The National Democratic Alliance led by the National Democratic Alliance led by India Narendra Modhi Party to win this election elections.
 
-මීට පෙර තෙවරක් අඛණ්ඩව ඉන්දීය අගමැති ධුරය දරා ඇත්තේ, නිදහස් ඉන්දියාවේ පළමු අගමැතිවරයා වන ජවහර්ලාල් නේරු පමණකි.
+Of the 54th seminar seats in the Indian parliament, 293 of the 543 seats.
+
+This victory is especially significant because of the second Prime Minister of India to win a mandate to the post of Prime Minister.
+
+Only Javahertharal Nehru, the first Prime Minister of Individuals, has been held in the Indian Prime Minister.
 
 ...
 
 [Data](articles/955ee816.json)
 
+[Extended Data](ext_articles/955ee816.ext.json)
+
 ---
 
-### එඬේරමුල්ල දුම්රිය හරස් මාර්ගයේ තවත් අනතුරක්
+### Another accident on the catery crossing of the shepherd
 
 *2024-06-09 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197567) · `si`
 
-එඬේරමුල්ල දුම්රිය හරස් මාර්ගයේදී ත්‍රිරෝද රථයක් දුම්රියක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+In a tragic incident, a three-wheeler crashed into a train at the Shepherd crossroads, injuring its driver who was hospitalized in Ragama. Additionally, two fatalities occurred when another accident involving two trains happened nearby the previous day.
 
-අනතුරින් තුවාල ලැබූ රියදුරු ප්‍රතිකාර සඳහා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-ඊයේ (08) උදෑසනද එම ස්ථානයේදී මෝටර් රථයක් දුම්රිය දෙකක ගැටී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු දෙදෙනෙකු ජීවිතක්ෂයට පත්වුණි.
+A three-wheeler collided with a train on the shepherd cross-cross-crosserway.
+
+The driver injured in the accident have been admitted to the Ragama Teaching Hospital.
+
+At the same place, two others killed in an accident that took place in two trains yesterday (08).
 
 ◼️
 
 [Data](articles/dff1bef7.json)
+
+[Extended Data](ext_articles/dff1bef7.ext.json)
 
 ---
 
@@ -150,21 +246,29 @@ In the same hall who wrote the Sahira College students, ten Muslim students of t
 
 ---
 
-### 2025ට අයවැයක් නෑ, අතුරු සම්මත ගිණුමක්
+### 2025 has no budget, an interim account
 
 *2024-06-09 17:56:05* · [`adalk`](https://www.ada.lk/breaking_news/2025ට-අයවැයක්-නෑ--අතුරු-සම්මත-ගිණුමක්/11-410100) · `si`
 
-2025 වර්ෂය වෙනුවෙන් අයවැය වාර්තාවක් ඉදිරිපත් නොකරන බවත් ඒ වෙනුවට අතුරු සම්මත ගිණුමක් ඉදිරිපත් කරන බවත් මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+In 2025, Sri Lanka won't submit a formal budget; instead, an interim account will be presented due to financial constraints. This decision was announced by State Minister Dr. Ranjith Siyambalapitiya, who also mentioned that the main election is approaching. The interim accounts from last year will guide the process, focusing on economic stability and political transparency. No new proposals will be introduced through this interim account.
 
-අද (09) උදෑසන රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-මෙම වර්ෂය ප්‍රධාන මැතිවරණයක් පැවැත්වීමට නියමිත වර්ෂයක් බවත්,  මීට පෙරද එවැනි අවස්ථාවලදී මේ ආකාරයෙන් අතුරු සම්මත ගිණුම් සම්මත කරගෙන තිබෙන බවත් අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+State Minister Dr. Ranjith Siyambalapitiya says that a budget report is not submitting a budget report on the year 2025 and that an interim account will be submitted.
 
-2024 වර්ෂය වෙනුවෙන් සම්මත කරන ලද අයවැය වාර්තාව මගින් , 2024 දෙසැම්බර් මස 31 වනදා දක්වා පමණක් ආදායම් වියදම් සිදු කිරීමට පාර්ලිමේන්තු අනුමැතිය ලැබී ඇති බවද, ඒ අනුව 2025 වර්ෂය සඳහා වෙනම අයවැය ලේඛනයකින් අනුමැතිය ගත යුතු බවයි සියඹලාපිටිය මහතා මෙහිදී පෙන්ව දෙනු ලැබිණි.
+Speaking to the media this morning (09), the minister said this in Ruwanwella.
+
+The Minister said that the main election is scheduled for a major election, the minister said that the interim accounts have been passed this year ago.
+
+According to the Budget Report passed for the year 2024, Siyambalapitiya was given to be approved by a separate budget for 2025.
+
+However, the Minister emphasized that the policy statements of each of these candidates are vital to present a presidential election this year and the most important document budget will be made to submit the budget registrations of the policy..
 
 ...
 
 [Data](articles/f0b718b8.json)
+
+[Extended Data](ext_articles/f0b718b8.ext.json)
 
 ---
 
@@ -2149,133 +2253,5 @@ Chasing a target of 202, he was able to score only 165 runs for the loss of 6 wi
 [Data](articles/9e8d256d.json)
 
 [Extended Data](ext_articles/9e8d256d.ext.json)
-
----
-
-### Trupti Mehta – A Pioneer in Winning Land Rights for Indigenous Communities
-
-*2024-06-09 06:52:00* · [`economynextcom`](https://economynext.com/trupti-mehta-a-pioneer-in-winning-land-rights-for-indigenous-communities-167042/) · `en`
-
-ECONOMYNEXT – In India’s East Gujarat, more than fifty thousand Indigenous families are no longer considered encroachers but legal landowners with the right to better their standard of living using the resources of the forests.
-
-The road to that change has neither been easy, nor short, but decades of non-violent pushback with the guidance and support of Trupti and Ambrish Mehta, Co-Founders of Action Research in Community Health (ARCH) Vahini. The organisation, along with several other entities campaigned tirelessly for legislation that would provide marginalised communities the security of tenure on the lands they had lived on, cultivated and utilised as resources for decades.  As Trupti Mehta explains the main obstacles to securing these rights have been the bureaucracy and lack of awareness amongst the indigenous communities.
-
-...
-
-[Data](articles/fb3ebd98.json)
-
-[Extended Data](ext_articles/fb3ebd98.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-06-09 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197546) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, North Western, and Southern provinces, with potential closures. Nuwara Eliya may see over 50mm rainfall. Showers/thunderstorms predicted in Ampara, Batticaloa, and central hill western slopes, Trincomalee, Hambantota, and Moneragala districts, with wind speeds of 40-50km/h. Public urged to prepare for possible temporary power cuts and lightning risks.
-
-🟩
-
-The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa, North Western and Southern provinces.
-
-The department states that in some places in the Nuwara Eliya area in the Sabaragamuwa Province. Heavy rains can occur in more than 50.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts in Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/810d8c57.json)
-
-[Extended Data](ext_articles/810d8c57.ext.json)
-
----
-
-### West Indies
-
-*2024-06-09 05:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197545) · `si`
-
-Today, the West Indies cricket team faces Uganda in a match.
-
-🟩
-
-The West Indies group and Uganda team will be held today (09).
-
-◼️
-
-[Data](articles/105fa26e.json)
-
-[Extended Data](ext_articles/105fa26e.ext.json)
-
----
-
-### Amana Takaful celebrates excellence at annual awards night
-
-*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/amana-takaful-celebrates-excellence-at-annual-awards-night/) · `en`
-
-Amana Takaful Insurance PLC recently hosted its highly anticipated annual awards night. Held under the inspiring theme ‘Thriving Through Change,’ the event took place on 14 May at Monarch Imperial, bringing together colleagues from across the country to celebrate exceptional achievements and unwavering dedication within the company.
-
-Amana Takaful Insurance has demonstrated remarkable growth, achieving a 28% year-over-year increase in Gross Written Premium (GWP) in the latest financial year, with revenues reaching an impressive LKR 4.29 billion. This significant success is a testament to the hard work and commitment of its professionals, who have thrived despite numerous challenges.
-
-...
-
-[Data](articles/33592568.json)
-
-[Extended Data](ext_articles/33592568.ext.json)
-
----
-
-### ComBank takes empowering knowledge to entrepreneurs of Marawila & Wennappuwa
-
-*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/combank-takes-empowering-knowledge-to-entrepreneurs-of-marawila-wennappuwa-2/) · `en`
-
-Nearly 100 micro and small business owners in the Marawila and Wennappuwa areas recently benefitted from a sustainable entrepreneurship development programme conducted for them by the Commercial Bank of Ceylon in collaboration with several other key institutions, a news release from the bank said..
-
-Organised under Commercial Bank’s ‘Dirishakthi Sustainable Entrepreneurship Development initiatives, the seminar cum workshop provided the knowledge required to improve their technical and financial literacy and other entrepreneurship skills as well as information on relevant topics including business registration procedures and the banking products and services available to them to grow their businesses.
-
-Resource persons for the programme represented the Central Bank of Sri Lanka, key departments of the Divisional Secretariat of Wennappuwa and Commercial Bank’s own Development Credit Department and Agriculture and Micro Finance Unit (AMFU), as well senior officers of the Bank.
-
-...
-
-[Data](articles/f2f61e6a.json)
-
-[Extended Data](ext_articles/f2f61e6a.ext.json)
-
----
-
-### Baurs appoints Nishantha Weerasinghe as Deputy Managing Director
-
-*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/baurs-appoints-nishantha-weerasinghe-as-deputy-managing-director/) · `en`
-
-A. Baur & Co. (Pvt) Ltd, also known as Baurs, recently announced the appointment of Nishantha Weerasinghe as its Deputy Managing Director. He will also continue to serve as the Director of the Healthcare Division.
-
-In his new role, Weerasinghe will bring his extensive experience and strategic vision to steer the company to achieve greater heights. He will be joining Janaka Gunasekera who will also be continuing in his position as Deputy Managing Director and Director Agriculture. Weerasinghe and Gunasekera as Deputy Managing Directors will bolster the leadership at Baurs even further.
-
-Weerasinghe was instrumental in taking the healthcare division of Baurs to among the top three names in the industry today, achieving rapid progression, growth and recognition in the Sri Lankan market. The division offers a range of products and services in the fields of pharmaceuticals, medical devices, diagnostics, and nutrition
-
-...
-
-[Data](articles/f7f94a88.json)
-
-[Extended Data](ext_articles/f7f94a88.ext.json)
-
----
-
-### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
-
-*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience-2/) · `en`
-
-Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
-
-As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
-
-...
-
-[Data](articles/50be84b1.json)
-
-[Extended Data](ext_articles/50be84b1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 11:19:13**
+As of **2024-06-09 11:34:31**
 
 ## Newspaper Stats
 
-*Scraped **29,320** Articles*
+*Scraped **29,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
-adalk | 2,494
+adalk | 2,496
 adaderanalk | 3,319
 tamilmirrorlk | 3,440
 virakesarilk | 4,494
 dailymirrorlk | 4,653
-adaderanasinhalalk | 4,712
+adaderanasinhalalk | 4,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,319 (100.0%) of 29,320 articles have been extended.
+29,320 (100.0%) of 29,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### වාහන ආනයනය ඔක්තෝබර් මාසයේ සිට  යළි ඇරඹේ
+
+*2024-06-09 11:10:32* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ඔක්තෝබර්-මාසයේ-සිට--යළි-ඇරඹේ/11-410091) · `si`
+
+ආර්ථික අර්බුදය හේතුවෙන්  වාහන ආනයනය සම්පූර්ණයෙන් නවතන්නට මීට වසර 4 කට‍ පෙර රජය ලබාගත් තීරණය වෙනස් කර නැවත වාහන ආනයනය 2024 ඔක්තෝබර් මස සිට අරඹන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය පවසයි.
+
+ඔක්තෝබර් මාසයේ සිට ආනයනයට පියවර කිහිපයකින් අවසරය ලබාදී එය අරඹන අතර කාර්මික සහ බර වාහන වලින් මෙම කටයුතු ආරම්භ වනු ඇත.ත්‍රිරෝද රථ සහ යතුරුපැදි ආනයනය සඳහා දෙවන පියවර ක්‍රියාත්මක වන බවත් නිශ්චිත cif අගයක් යටතේ කුඩා මෝටර් රථ ආනයනය තුන්වන පියවර බවත් පැහැදිලි කරන රාජ්‍ය අමාත්‍යවරයා සුඛෝපභෝගී සහ අධි සුඛෝපබෝගී වාහන ලෙස සිව්වන පියවර අරඹනු ඇත්තේ 2025දී බව පවසා තිබේ.
+
+මෙම යෝජනා ක්‍රමය යටතේ විදුලි වාහන ආනයනයට ප්‍රමුඛත්වය ලබා දීම රජයේ ප්‍රතිපත්තිය වනු ඇති බව
+
+නවතම වාහන හෝ වසර දෙකක් ඇතුළත නිෂ්පාදනය කරන ලද වාහන පමණක් ආනයනය කිරීමට අවසර දෙන බවද පැවසේ.
+
+විදේශ සංචිතයට සරිලන පරිදි වසරක් තුළ ආනයනය කළ යුතු උපරිම වාහන සංඛ්‍යාව පිළිබඳව රජය මහ බැංකුවේ උපදෙස් ලබා ගන්නා බව ඔහු පැවසීය.
+
+...
+
+[Data](articles/8bd6946f.json)
+
+---
 
 ### STF seize Kerala cannabis worth Rs. 10 million at Point Pedro
 
@@ -50,17 +70,45 @@ The Yakkaru Police Special Task Force is continuing further investigations into 
 
 ---
 
-### பிரதமருடன் கலந்துரையாடல்
+### Discussion with the Prime Minister
 
 *2024-06-09 10:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பிரதமருடன்-கலந்துரையாடல்/73-338633) · `ta`
 
-மட்டக்களப்பு பொது நூலகத்தின் கட்டுமான பணிகளை விரைவுப்படுத்தி நிறைவு செய்வதற்கான மேலதிக நிதி ஒதுக்கீடு மற்றும் அமைச்சரவையில் விசேட  அமைச்சரவை பத்திரம் சமர்ப்பித்தல், வேலைத்திட்டங்களை முன்னெடுக்கும் போது ஏற்படுகின்ற இடையூறுகளை கையாள்வதற்கான பொறி முறைமைகள் போன்றன தொடர்பில் ஆராயும் விசேட கலந்துரையாடல் பாராளுமன்ற கட்டிட தொகுதியில் நடைபெற்றது.
+A meeting chaired by Prime Minister Dinesh Gunawardena discussed additional funding for the Batticaloa Public Library project and measures to handle disruptions. The focus was on ensuring the library's completion and its benefits to the public, with special attention from the PM. Attendees included various ministers and officials, emphasizing the importance of the project and the need for efficient management.
 
-குறித்த கலந்துரையாடலில் பிரதமரும், பொது நிர்வாக உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களுக்கான அமைச்சருமான தினேஷ் குணவர்த்தன மற்றும் கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சரும், மட்டக்களப்பு மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவ.சந்திரகாந்தன் ஆகியோர் தலைமையில் முன்னெடுக்கப்பட்டிருந்தது.
+🟩
+
+A special discussion was held in the Parliament Building constituency to investigate additional funding for the expedition of the construction of the Batticaloa Public Library and the submission of a special cabinet paper in the Cabinet, and the trap systems to deal with the interruptions during the implementation of programs.
+
+The discussion was chaired by Dinesh Gunawardena, Prime Minister and Minister of Public Administration, Provincial Councils and Local Government Councils, and Rural Roads Development Minister and Batticaloa District Development Committee Chairman Shiv Chandrakanthan.
+
+In this case, the Cabinet bond. Special attention was paid to Prime Minister Dinesh Gunawardena regarding special funding. At the request of the Minister of State, Shiv Chandrakanthan, the library's tasks were completed and the allocation of funds for the use of the people for use and all other answers would be carried out.
 
 ...
 
 [Data](articles/c5515fb4.json)
+
+[Extended Data](ext_articles/c5515fb4.ext.json)
+
+---
+
+### දුම්රිය ගමන්වාර 35ක් අවලංගු වෙයි
+
+*2024-06-09 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197553) · `si`
+
+දුම්රිය එංජින් රියදුරන් විසින් ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් අද (09) උදෑසන දුම්රිය ගමන්වාර 35ක් අවලංගු වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසා සිටියේ, වැඩවර්ජනය තුන්වන දිනටත් අද ක්‍රියාත්මක වන බවය.
+
+දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවාගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල්කර ගනිමින් ඔවුන් එම වෘත්තීය ක්‍රියාමාර්ගය පසුගිය 06 වනදා මධ්‍යම රාත්‍රී 12 සිට ආරම්භ කළේය.
+
+දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක රියදුරන් පමණක් එම වර්ජනයට එක්ව සිටින අතර ඒ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බව සඳහන්ය.
+
+කෙසේවෙතත් සිය ඉල්ලීම් සඳහා බලධාරීන් තවදුරටත් ප්‍රතිචාර නොදක්වන්නේනම් සිය වෘත්තීය ක්‍රියාමාර්ගය දැඩි කිරීමට පියවර ගන්නා බව ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ ලේකම් එස්. ආර්. සී. එම් සේනානායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/93b79d7a.json)
 
 ---
 
@@ -176,6 +224,20 @@ Pa. The National Democratic Alliance has won 293 seats in Lok Sabha. The Opposit
 
 ---
 
+### කාන්තාවන් බිය ගන්වා මහා පරිමාණයෙන් කරගෙන ගිය ජාවාරමක් එළියට
+
+*2024-06-09 09:52:53* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-බිය-ගන්වා-මහා-පරිමාණයෙන්-කරගෙන-ගිය-ජාවාරමක්-එළියට/11-410085) · `si`
+
+කාන්තාවන් අයුතු ලෙස සිරකර  බිය ගන්වා අඩ නිරුවත් ඇඳුම් අන්දවා ලිංගික  ක්‍රියාකාරකම්වල යොදවා ඒවා පටිගත කර අන්තර්ජාලයට මුදාහැර මහා පරිමාණයෙන් මුදල් ඉපයීමේ ජාවාරමක් සිදුකළ නුගේගොඩ  පාගොඩ  දේවාල පාරේ නිවසක් වටලා එය පවත්වාගෙන ගිය ප්‍රධාන සැකකරු හා  සහය වූ කාන්තාවක් අත්අඩංගුවට ගත් බව ළමා සහ කාන්තා අපයෝජන නිවාරණ  කාර්යාංශය කියයි
+
+එම ස්ථානයේ තිබී අයිස් මත්ද්‍රව්‍ය , ගංජා,කාන්තා අඩ නිරුවත් ඇඳුම් , කාන්තා යට ඇදුම් ,විවිධ පුද්ගලයන්ගේ හැඳුනුම්පත් බැංකු කාඩ් පත් , දේශීය සහ විදේශීය මුදල් ,    උපත් පාලන කොපු ,  ජංගම දුරකථන ඇඳට සවි කරන උපකරණ , ලැෆ් ටොෆ් පරිගණක සහ ජංගම දුරකථන , කාන්තාවන්ගේ පුද්ගලික තොරතුරු ඇතුළත් කර සකස් කරන ලද ගිවිසුම්පත් රැසක් පොලිස් භාරයට ගෙන ඇත
+
+...
+
+[Data](articles/d5217f9a.json)
+
+---
+
 ### New Delhi
 
 *2024-06-09 09:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுடெல்லி-பயணமானார்-ஜனாதிபதி/175-338627) · `ta`
@@ -233,6 +295,26 @@ The aircraft carrying Sri Lankan diplomats will be landed at New Delhi in New De
 [Data](articles/16e2a0a1.json)
 
 [Extended Data](ext_articles/16e2a0a1.ext.json)
+
+---
+
+### කොදෙව්වන්ට විශිෂ්ට ජයක්
+
+*2024-06-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197551) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ උගන්ඩා කණ්ඩායම සමග අද (09) පැවැති තරගය ලකුණු 134ක විශිෂ්ට ජයක් ලබාගැනීමට බටහිර ඉන්දිය කොදෙව් කණ්ඩායම සමත්වුණි.
+
+තරගයේ කාසියේ වාසිය දිනු බටහිර ඉන්දිය කොදෙව් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් බටහිර ඉන්දිය කොදෙව් කණ්ඩායම නියමිත පන්දු වාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 173ක් රැස්කළේය.
+
+එහිදී බටහිර ඉන්දිය කොදෙව් ඉනිම වෙනුවෙන් Johnson Charles  ලකුණු 44ක් රැස් කළ අතර Andre Russell නොදැවී ලකුණු 30ක් රැස්කළේය.
+
+ලකුණු 174ක ඉලක්කයක් හඹාගිය උගන්ඩා කණ්ඩායම පන්දු වාර 12 අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 36ක් පමණි.
+
+◼️
+
+[Data](articles/1ce67b56.json)
 
 ---
 
@@ -2177,93 +2259,5 @@ Speaking in Parliament on Friday (7), the Chair of the Committee of Public Finan
 [Data](articles/d7bec33e.json)
 
 [Extended Data](ext_articles/d7bec33e.ext.json)
-
----
-
-### The struggle that continues today
-
-*2024-06-08 13:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-தொடரும்-போராட்டம்/175-338617) · `ta`
-
-Strikes halt train operations in two Colombo workshops due to salary issues, lack of promotions, and recruitment problems as per SRCM Senanayake, Secretary of the Locomotive Comparison Engineers Association.
-
-🟩
-
-SRCM Senanayake, Secretary of the Locomotive Comparison Engineers Association, said that trains were not operated from 2 railway workshops in Colombo.
-
-He noted that the strike is being carried out on various issues, including lack of salary, lack of promotion and lack of recruitment.R
-
-◼️
-
-[Data](articles/ec953b61.json)
-
-[Extended Data](ext_articles/ec953b61.ext.json)
-
----
-
-### CID notice to Harsha
-
-*2024-06-08 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197522) · `si`
-
-CID requests statement from MP Dr. Harsha de Silva about threats he received.
-
-🟩
-
-The Criminal Investigations Department (CID) says that a statement from MP Dr. Harsha de Silva is required.
-
-It was also reported that the Criminal Investigations Department (CID) has informed him that he has to make such a statement regarding the threats that he had.
-
-◼️
-
-[Data](articles/2e57259e.json)
-
-[Extended Data](ext_articles/2e57259e.ext.json)
-
----
-
-### 7 foreign leaders participating in Modi's swearing -in
-
-*2024-06-08 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185599) · `ta`
-
-Seven foreign leaders, including Sri Lanka's President Ranil Wickremesinghe and Bangladesh's PM Sheikh Hasina, will attend Indian PM Modi's swearing-in ceremony, aligning with India's "Neighbourhood First" policy. The event will take place at the Presidential House, followed by a reception at Rashtrapati Bhavan.
-
-🟩
-
-Indian President Draupadi Murmu will be sworn in as Modi and his cabinet members at the Indian President's House premises at 7:15 pm tomorrow (09) at 7:15 pm.
-
-Sri Lankan President Ranil Wickremesinghe, Pangadesh Prime Minister Sheikh Hasina, Maldivian President Mohammed Muizu, Sisal's Vice President Ahmed Abib, Mauritius Prime Minister Pravi Kumar Jagnath, Nepal Prime Minister Pushpa Kamal Tahal and Bhutan Prime Minister Sherringa Dopkes will participate in the swearing -in ceremony.
-
-We have invited leaders of neighboring countries to attend the Prime Minister's swearing -in. It is said in a statement issued by the Ministry of Foreign Affairs that India has arranged the "Neighbourhood First First" policy and "Sagar" in the region of Sagar.
-
-Apart from attending the swearing -in ceremony, foreign leaders will be attending a party with Indian President Draupadi Murmu at Rashtrapati Bhavan on Sunday evening.
-
-◼️
-
-[Data](articles/00c0aae9.json)
-
-[Extended Data](ext_articles/00c0aae9.ext.json)
-
----
-
-### Elderly man dies after assault by saffron-robed monk
-
-*2024-06-08 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99741/elderly-man-dies-after-assault-by-saffron-robed-monk) · `en`
-
-An elderly person has reportedly died after being assaulted by a saffron-robed monk who was staying at a house in Marawila area in Giriulla.
-
-The injured person was found based on information received by Giriulla Police that an individual was critically injured inside a house.
-
-Later, the injured person was admitted to Dambadeniya Hospital where he succumbed to injuries while receiving treatment, police said.
-
-It is reported that the suspect is a relative of the deceased.
-
-Police said that it has been revealed that the suspect, a saffron-robed monk, does not live in a temple but lives in his mother’s house in Marawila area and is also allegedly addicted to drinking alcohol.
-
-The motive behind the attack has not yet been ascertained as of yet while Giriulla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/5eb49ccf.json)
-
-[Extended Data](ext_articles/5eb49ccf.ext.json)
 
 ---

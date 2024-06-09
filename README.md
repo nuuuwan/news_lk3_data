@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 01:34:33**
+As of **2024-06-10 01:53:30**
 
 ## Newspaper Stats
 
-*Scraped **29,435** Articles*
+*Scraped **29,439** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 266
-dbsjeyarajcom | 277
+dbsjeyarajcom | 278
 bbccomsinhala | 284
 newsfirstlk | 363
-islandlk | 1,592
+islandlk | 1,593
 economynextcom | 1,678
 dailyftlk | 1,754
 adalk | 2,513
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
-dailymirrorlk | 4,670
+dailymirrorlk | 4,672
 adaderanasinhalalk | 4,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,434 (100.0%) of 29,435 articles have been extended.
+29,435 (100.0%) of 29,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Poverty and homelessness stare elders in the face - EDITORIAL
+
+*2024-06-10 01:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Poverty-and-homelessness-stare-elders-in-the-face-EDITORIAL/172-284470) · `en`
+
+Not many decades ago, our country was held up worldwide for its welfare state policies. Today, unfortunately, such praises are but a distant dream. Poverty rules the day-to-day life for a large number of our citizens.
+
+Yet none of the political parties who are now canvassing for our vote, have come out with a single concrete proposal of how they intend to get this country out of its present dilemma.
+
+In these columns, we have highlighted times out of number, the huge difference between the average wage and the cost a family of four needs to bear if they are to have two square meals a day. That cost amounted to over rupees one hundred thousand a month!
+
+On the tea and rubber plantations -until the president recently forced owners to pay workers Rs. 1,700 per day workers were paid less than Rs. 1,000 per day. Daily paid or casual workers elsewhere in the country who form a majority of the country’s workforce receive less than Rs. 55,000 per month.
+
+...
+
+[Data](articles/c21f76e6.json)
+
+---
+
+### UK centre-right media gearing up for a Third World War
+
+*2024-06-10 00:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/UK-centre-right-media-gearing-up-for-a-Third-World-War/172-284469) · `en`
+
+Ukrainians fire at Russian forces in Donetsk province, a target of Russia’s current, narrowed offensive
+
+Social media is agog with fears over a looming Third World War. According to the centre-right Daily Telegraph of the UK, it has already started.
+
+According to this view, military action in Ukraine and Gaza is only a small part of a global war in which propaganda, influence buying, trade wars and misinformation are weapons as deadly as any conventional or nuclear arsenal.
+
+But, before we examine this theory in more detail, it’s noteworthy that Third World War scares are hardly new. They have been there almost since the day the Second World War ended.
+
+One could very well describe the Cold War between the West (the US and its NATO allies) and the former Soviet Union and Eastern Bloc satellites as war by other means – both sides vying to outdo each other with misinformation, propaganda and influence buying and trying to bully the other side into submission.
+
+...
+
+[Data](articles/21ed4733.json)
+
+---
 
 ### The Ranil-Chandrika Debate of 1999 that never occurred
 
@@ -43,6 +81,8 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 ...
 
 [Data](articles/9045c727.json)
+
+[Extended Data](ext_articles/9045c727.ext.json)
 
 ---
 
@@ -1244,6 +1284,20 @@ Earlier, her husband “found her belongings... which made him suspicious. The v
 
 ---
 
+### 
+
+*2024-06-09 16:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84169) · `en`
+
+Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he delivered after attaining Enlightenment, observed that having to associate with those who are repugnant is sorrowful and being apart from those who are loved is also sorrowful — appiyehi sampayogo dukkho, piyehi vippayogo dukkho. So, we choose to avoid and insulate ourselves from the distasteful while we seek the company of people we find agreeable. When they leave, we are saddened. When they depart, never to return, we are distraught.
+
+A few days ago, I realised that while any kind of separation from someone who is likeable is never a happy thing, there are instances when it is devastating. I had just received a text from my friend Prof Arjuna De Silva, and he wanted to know ‘if the story about Dr Siri was true.’ I called two of Dr Siri’s closest friends, Ranjith Page and Dr Harindu. Both confirmed that he had passed away in Dubai. I am shocked and saddened beyond belief.
+
+...
+
+[Data](articles/69b08d28.json)
+
+---
+
 ### NTC, SLTB advised to assign more buses to avoid inconvenience to railway commuters
 
 *2024-06-09 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-SLTB-advised-to-assign-more-buses-to-avoid-inconvenience-to-railway-commuters/108-284428) · `en`
@@ -2199,83 +2253,5 @@ Thirteen students and parents were injured in the incident and have been admitte
 [Data](articles/7125ce2d.json)
 
 [Extended Data](ext_articles/7125ce2d.ext.json)
-
----
-
-### Uganda carpenter arrested for swallowing cocaine
-
-*2024-06-09 11:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொக்கெய்னை-விழுங்கிவந்த-உகண்டா-தச்சர்-கைது/95-338636) · `ta`
-
-A Ugandan carpenter was arrested at Katunayake Airport for smuggling cocaine. He swallowed 45 cocaine pellets worth around Rs 1 crore, wrapped in cello tape. The 31-year-old man, who had difficulty communicating in English, was hospitalized after the drugs were detected during a scan.
-
-🟩
-
-A 31 -year -old carpenter from Uganda, who made a group of officials of the Katunayake Airport Police Drug Prevention Unit.  சனிக்கிழமை (08 ) கைது செய்யப்பட்டுள்ளார்.
-
-International intelligence reports have been taken to arrest him after the authorities of the Police Drug Eradication Unit have received him.
-
-He started his journey from Kampala, Uganda, and arrived at the Katunayake airport at Qatar Airways flight KR-664 at 9 am on Saturday (08).
-
-The Uganda citizen has been admitted to the Negombo General Hospital after the stomach was confirmed when the stomach was arrested and scanned by the police at the Katunayake airport.
-
-A spokesman for the Police Drug Prevention Unit said that about 45 cocaine pellets worth about Rs 1 crore were in the stomach of Uganda citizen.
-
-These cocaine is very tightly prepared using cello tapes.
-
-...
-
-[Data](articles/0f850790.json)
-
-[Extended Data](ext_articles/0f850790.ext.json)
-
----
-
-### Ranil should be given a good idea
-
-*2024-06-09 11:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பேராதரவு-வழங்க-வேண்டும்/175-338635) · `ta`
-
-Subbaiah Anandakumar urges President Ranil Wickremesinghe to engage Tamil speakers in the upcoming election, highlighting his commitment to protecting minorities and addressing the economic crisis. Despite criticism, Wickremesinghe's swift actions to stabilize the economy, reduce fuel and gas prices, ensure pharmaceutical availability, and provide disaster relief demonstrate his effective leadership. His plans for future development and bill passage signal progress towards national recovery.
-
-🟩
-
-President Ranil Wickremesinghe should gather in Tamil speaking people in the upcoming presidential election. His rule is the protection of the minority people.
-
-Similarly, there will also be the opportunity to win the rights, ”said Subbaiah Anandakumar, a member of a three -member committee of a three -member committee to make union decisions under the president.
-
-It is a compulsory requirement of the time to give him the opportunity to rule once again, as the President has revealed his personality and leadership character to carry out swift measures to recover the country from bankruptcy.
-
-How was the country in the period of 2022 due to the economic crisis and the charity?No leader has come forward to accept the leadership of the country to bring forward. However, Ranil Wickremesinghe accepted that challenge. Opponents criticized the narrow political view that he could not, and again the struggle would erupt. But he is facing the challenge successfully and creating normalcy in the country.
-
-...
-
-[Data](articles/3344174a.json)
-
-[Extended Data](ext_articles/3344174a.ext.json)
-
----
-
-### Import of vehicles resumes from October
-
-*2024-06-09 11:10:32* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ඔක්තෝබර්-මාසයේ-සිට--යළි-ඇරඹේ/11-410091) · `si`
-
-Vehicle imports resume in October 2024, aimed at easing the economic crisis. The plan includes importing small cars and motorcycles first, followed by high-end vehicles in 2025. Electric vehicles will also be part of the scheme. Only vehicles less than two years old will be allowed. The government will decide the annual import quota based on foreign reserves but has delayed duty-free import decisions due to low revenue projections.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya stated that the importation of vehicles has been commenced from October 2024 to change the decision of vehicle imports due to the economic crisis.
-
-The public minister will commence with permission to import from October to import, and the second step of the imported vehicles and the importation of small cars and motorcycles is luxurious and the importation of small cars.The fourth step as high luxury vehicles will be held in 2025.
-
-It will be the policy of the government to provide the importation of electrical vehicles under this scheme
-
-It is said that only the latest vehicles or two years permitted to import.
-
-He said the government would take advice on the maximum number of vehicles that should be imported in a year to suit the foreign reserve.
-
-...
-
-[Data](articles/8bd6946f.json)
-
-[Extended Data](ext_articles/8bd6946f.ext.json)
 
 ---

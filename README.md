@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 23:19:04**
+As of **2024-06-09 23:34:40**
 
 ## Newspaper Stats
 
-*Scraped **29,428** Articles*
+*Scraped **29,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,512
+adalk | 2,513
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
 dailymirrorlk | 4,669
-adaderanasinhalalk | 4,736
+adaderanasinhalalk | 4,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,428 (100.0%) of 29,428 articles have been extended.
+29,428 (100.0%) of 29,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### ඉන්දීය අගමැතිවරයාගේ දිවුරුම්දීමේ උත්සවය ට ගිය ජනපති රනිල් ට විශේෂ පිළිගැනීමක්
+
+*2024-06-09 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197577) · `si`
+
+තෙවැනි වරටත් ඉන්දියාවේ අග්‍රාමාත්‍ය ධුරයට පත් වූ නරේන්ද්‍ර මෝදි මහතා ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මිය ඉදිරියේ රාෂ්ට්‍රපති භවන්හි දී දිවුරුම් දීමෙන් පසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ රජ්‍ය නායකයෝ ඔහුට අද (09) රාත්‍රියේ උණුසුම් සුබපැතුම් එක් කළහ.
+
+දෙරට අතර බැඳීම් තවදුරටත් ශක්තිමත් කර ගනිමින් ඉදිරියට යාමට නායක දෙපළ මෙහිදී එකඟතාවය පළකළහ.
+
+ඉන්දීය අග්‍රාමාත්‍යවරයාගේ දිවුරුම් දීමේ උත්සවය නවදිල්ලි රාෂ්ට්‍රපති භවන්හිදී අද පස්වරුවේ ආරම්භ වූ අතර  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අසල්වැසි රාජ්‍ය නායකයෝද  විශේෂ ආරාධිතයෝ ද ඊට සහභාගී වූහ.
+
+ආරාධිත අමුත්තන් 9000කට ආසන්න පිරිසක් වෙනුවෙන් රාෂ්ට්‍රපති භවන් ඉදි‍රිපස භූමියේ අසුන් පනවා තිබුණි.
+
+ආගමික නායකයන් නළු නිළියන්, ව්‍යාපාරිකයන්, විද්වතුන් ඇතුළු විශාල පිරිසක් මේ අවස්ථාවට එක්ව සිටියහ.
+
+නියම කරගත් වේලාව් වූ රාත්‍රී 7ට උත්සවය ආරම්භ වූ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ආසන පනවා තිබුණේ මාලදිවයින් ජනාධිපති හා මුරුසි රාජ්‍යයේ අගමැති අතරය.
+
+◼️
+
+[Data](articles/641e0aef.json)
+
+---
+
+### President Ranil Rashtrapati Bhavan visits Modi to take office
+
+*2024-06-09 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185693) · `ta`
+
+President Ranil Wickremesinghe visits Modi at Rashtrapati Bhavan for his third term as India's PM, marking a significant moment in Asian politics.
+
+🟩
+
+President Ranil Wickremesinghe, including President Ranil Wickremesinghe, has visited Rashtrapati Bhavan to attend Modi's appointment as Prime Minister.
+
+Narendra Modi, who has been sworn in as Prime Minister of India for the third time, is currently underway in the capital Delhi with another unique chapter in Asian and world politics.
+
+President Ranil Wickremesinghe and the Regional Government Heads of Governments are also participating in the swearing -in ceremony.
+
+◼️
+
+[Data](articles/d365ac46.json)
+
+[Extended Data](ext_articles/d365ac46.ext.json)
+
+---
 
 ### Terror attack in India
 
@@ -302,6 +346,26 @@ Meanwhile, Modi's re -election as Indian Prime Minister said that the Indian Pri
 
 ---
 
+### එකට මත්පැන් බී පුද්ගලයා චීවරධාරියාගේ ප්‍රහාරයෙන් මරුට
+
+*2024-06-09 20:05:06* · [`adalk`](https://www.ada.lk/breaking_news/එකට-මත්පැන්-බී-පුද්ගලයා-චීවරධාරියාගේ-ප්‍රහාරයෙන්-මරුට/11-410107) · `si`
+
+චීවරධාරියෙකු හා එක්ව මත්පැන් පානය කිරීමේ යෙදී සිටි හැත්තෑ දෙහැවිරිදි පුද්ගලයෙකු චීවරධාරියාගේ ප්‍රහාරයකට ලක්ව දඹදෙණිය රෝහලට ඇතුළත් කිරීමෙන් පසු මරණයට පත් වී ඇතැයි ගිරිඋල්ල පොලීසිය කියයි.
+
+ගිරිඋල්ල පොලිස් වසමේ මාරවිටගල්ගොඩේවත්ත මාරවිට,දඹදෙණිය ලිපිනයේ පදිංචිව සිටි රුවන්පුර අන්දිරිස් සිල්වලාගේ ඇල්බටි සිංඤ්ඤෝ (72)නමැත්තෙකි.
+
+ස්ථිර වාසස්ථානයක් නොමැති චීවරධාරියා කජුලන්දවත්ත ප්‍රදේශයේ පදිංචිව සිටිබවත් ඔහු මිය ගිය පුද්ගලයා සමග මත්පැන් පානය කිරීමේ යෙදී සිටියදී ඇති වූ බහින්බස්වීමකින් පසු මෙසේ ප්‍රහාරයට ලක් වී ඇති බවත් මූලික පොලිස් පරීක්ෂණවලින් හෙළි වී ඇත.
+
+පහරදීම හේතුවෙන් තුවාලකරු දඹදෙණිය මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් ඇත.
+
+සැකකරු නිවසේ තනිව ජීවත් වී ඇති අතර, හිමිනමගේ මව සහ වැඩිමහල් සහෝදරයා ඥාති නිවසක වෙනම ජීවත්ව සිට ඇත.ඝාතනයෙන් පසුව මව සහ වැඩිමහල් සහෝදරයා තමන් පදිංචිව සිටි නිවසට පැමිණ ඇති අතර, ඝාතනය සිදුවූ ස්ථානයේ තිබූ ලේ පැල්ලම්ද ඔවුන් දෙදෙනා විසින් සෝදා තිබූ බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/72acb353.json)
+
+---
+
 ### Drinking in the north of Vavuniya - Part 02
 
 *2024-06-09 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185670) · `ta`
@@ -499,28 +563,6 @@ However, the Pakistan government and the International Monetary Fund representat
 [Data](articles/9ba729d1.json)
 
 [Extended Data](ext_articles/9ba729d1.ext.json)
-
----
-
-### President Ranil Rashtrapati Bhavan visits Modi to take office
-
-*2024-06-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185693) · `ta`
-
-President Ranil Wickremesinghe visits Modi at Rashtrapati Bhavan for his third term as India's PM, marking a significant moment in Asian politics.
-
-🟩
-
-President Ranil Wickremesinghe, including President Ranil Wickremesinghe, has visited Rashtrapati Bhavan to attend Modi's appointment as Prime Minister.
-
-Narendra Modi, who has been sworn in as Prime Minister of India for the third time, is currently underway in the capital Delhi with another unique chapter in Asian and world politics.
-
-President Ranil Wickremesinghe and the Regional Government Heads of Governments are also participating in the swearing -in ceremony.
-
-◼️
-
-[Data](articles/d365ac46.json)
-
-[Extended Data](ext_articles/d365ac46.ext.json)
 
 ---
 
@@ -2217,47 +2259,5 @@ The 6th Amendment, which was introduced to reduce the ability to bring the Tamil
 [Data](articles/392940b8.json)
 
 [Extended Data](ext_articles/392940b8.ext.json)
-
----
-
-### STF seize Kerala cannabis worth Rs. 10 million at Point Pedro
-
-*2024-06-09 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99754/stf-seize-kerala-cannabis-worth-rs-10-million-at-point-pedro-) · `en`
-
-A suspect has been arrested with a haul of Kerala cannabis by the Special Task Force (STF) in Yakkaru Police during a joint operation conducted in the Vallipuram coastal area of Point Pedro, Jaffna.
-
-Based on information provided by the Military Intelligence Corps of the Sri Lanka Army yesterday (8), they have successfully apprehended a 25-year-old man in possession of 60kg of cannabis worth Rs 10 million, packed in two sacks.
-
-The Yakkaru Police Special Task Force is continuing further investigations into the matter.
-
-◼️
-
-[Data](articles/0225756e.json)
-
-[Extended Data](ext_articles/0225756e.ext.json)
-
----
-
-### Karate Black Twin Soourao receives three respectively
-
-*2024-06-09 10:49:54* · [`adalk`](https://www.ada.lk/sports/කරාතේ-කලු-පටි-‍ශූර-නිවුන්-සොහෝයුරියෝ-උසස්පෙළටත්-ඒ-තුන-බැගින්-ලබති/9-410089) · `si`
-
-Karate twins MG Samahika Sawandy and MG Nimasika Sewandala, trained at JKS VSS Office, Ambalangoda, excelled in all GCE A-Level subjects. They are black belts from Neluwa National School, Galle, achieving all Sri Lanka Karate vows alongside their academic success. Their simultaneous dedication to education and karate training highlights their comprehensive skills development.
-
-🟩
-
-MG Samahika Sawandy, MG Nimasika Sewandala, who has been trained from the JKS VSS Office of the Ambalangoda has obtained these passes to all three subjects faced by the GCE Advanced Level Examination.
-
-These twins are black belts of Karate, who faced the currency stream from Neluwa National School, Galle.
-
-All Sri Lanka vows have already been achieved by the karate in addition to the education of the karate.
-
-The twink of the twin, which is simultaneously given to the education and education, is particularly significant at school as well as the comprehensive capabilities of the Karatra Training Center.
-
-◼️
-
-[Data](articles/ce784f58.json)
-
-[Extended Data](ext_articles/ce784f58.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 22:52:15**
+As of **2024-06-09 23:04:07**
 
 ## Newspaper Stats
 
-*Scraped **29,427** Articles*
+*Scraped **29,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,511
+adalk | 2,512
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,423 (100.0%) of 29,427 articles have been extended.
+29,427 (100.0%) of 29,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ඉන්දියාවේ ත්‍රස්ත ප්‍රහාරයක්
+### Terror attack in India
 
 *2024-06-09 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197576) · `si`
 
-වන්දනාකරුවන් රැගත් බස් රථයකට ඉන්දියාවේ ජම්මු - කාශ්මීර් හි දී ත්‍රස්තවාදීන් ප්‍රහාරයක් එල්ල කර තිබේ.
+In a terror attack in Jammu-Kashmir, India, nine pilgrims were killed and 33 injured when their bus was targeted. The victims were en route to the Shiv Kori Cave, and the bus was pushed off a cliff by the attackers.
 
-එහි දී බස් රථයේ ගමන් ගත් වන්දනාකරුවන් 9 දෙනෙකු මියගොස් ඇති බවත් තවත්  33 දෙනෙකු තුවාල ලබා ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+🟩
 
-වන්දනාකරුවන් ජම්මු -කාශ්මීරයේ ශිව් කෝරි ලෙන් විහාරය "Shiv Khori cave" වෙත යමින් සිටියදී අද (09) පස්වරුවේ මෙම ප්‍රහාරයට ලක් ව ඇති බව සඳහන් වේ.
+A bus carrying pilgrims attacked a terrorist attack in Jammu - Kashmir, India.
 
-මෙහිදී ත්‍රස්තවාදීන් වෙඩි තැබීමත් සමඟ බස් රථය ප්‍රපාතයකට පෙරළි ගොස් ඇති බව වැඩිදුරටත් සඳහන් වේ.
+Nine pilgrims were killed in the bus and 33 others were injured.
+
+Pilgrims were also on their way to the Jammu - Kori Cave Vihara, "Shiv Kori Cave" (09).
+
+The bus has been filtered to a precipice with the shooting of the terrorists.
 
 ◼️
 
 [Data](articles/e97ad6ff.json)
 
+[Extended Data](ext_articles/e97ad6ff.ext.json)
+
 ---
 
-### 200කගේ සිරුරු මතින් 4ක් බේරාගත් ලොවම කම්පා කළ මෙහෙයුම
+### The world's shocking operation saved 4 on the bodies of 200
 
 *2024-06-09 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197575) · `si`
 
-මධ්‍යම ගාසා හී ප්‍රාණ ඇපකරුවන් මුදාගැනීම සදහා ඊශ්‍රායලය සිදුකළ විශේෂ මෙහෙයුම අතරවාරයේ දී මියගිය පුද්ගලයින් ගණන 200 ඉක්මවා ගොස් තිබේ.
+In a daring operation, Israel rescued 4 hostages held by Hamas in central Gaza, resulting in 200 deaths and over 400 injuries. The Israeli Defense Forces successfully extracted the hostages from the Nussaiatte camp, marking a significant military achievement despite the high toll.
 
-ඊශ්‍රායල හමුදා නුසෙයිරාට් කඳවුර ආශ්‍රිතව සිදුකළ මෙම මෙහෙයුම අතරතුර පුද්ගලයින් 210 දෙනෙකු පමණ මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එහිදී තවත් පුද්ගලයින් 400 දෙනෙකු පමණ තුවාල ලබා ඇති බව සඳහන් වෙයි.
+Israel has over 200 people in the area of ​​the special operation of Israel to liberate the so-hostage of the Central Gaza.
 
-මෙම මෙහෙයුම මඟින් හමාස් සංවිධානය විසින් රදවාගෙන සිටි ප්‍රාණ ඇපකරුවන් සිව්දෙනෙකු බේරාගැනීමට ඊශ්‍රායල ආරක්ෂක අංශ කටයුතු කර තිබුණි.
+According to foreign media reports, 200 people have died in the operation of Israeli Army Nussaiatte camp.
+
+About 400 more people were injured there.
+
+The Israeli defense sector was rescued by the Hamas rescue four hostages.
 
 ◼️
 
 [Data](articles/c888b5b5.json)
+
+[Extended Data](ext_articles/c888b5b5.ext.json)
 
 ---
 
@@ -83,6 +95,8 @@ The arrestees are allegedly three main accomplices of wanted drug trafficker ‘
 ◼️
 
 [Data](articles/2623a6af.json)
+
+[Extended Data](ext_articles/2623a6af.ext.json)
 
 ---
 
@@ -103,6 +117,8 @@ He also said that under an NPP government, justice will be meted out to former D
 ◼️
 
 [Data](articles/05b219e5.json)
+
+[Extended Data](ext_articles/05b219e5.ext.json)
 
 ---
 
@@ -659,6 +675,26 @@ It is not a secret Cheti that the African National Congress, the largest party t
 [Data](articles/2f313a72.json)
 
 [Extended Data](ext_articles/2f313a72.ext.json)
+
+---
+
+### 13 වැනි සංශෝධනය ක්‍රියාත්මක කරනවා
+
+*2024-06-09 19:03:34* · [`adalk`](https://www.ada.lk/breaking_news/13-වැනි-සංශෝධනය-ක්‍රියාත්මක-කරනවා/11-410103) · `si`
+
+සමගි ජන බලවේග ආණ්ඩුවක් යටතේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 13 වැනි සංශෝධනය ක්‍රියාත්මක කරන බව එම පක්ෂයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+කිලිනොච්චිය භාරතී විද්‍යාලයට සක්වළ වැඩසටහන යටතේ සුහුරු පන්තිකාමරයක් ලබා දීමට ඊයේ (09දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 13 වැනි සංශෝධනය අපි ක්‍රියාත්මක කරනවා. ජාත්‍යන්තර කම්කරු දිනයේදීත් අපි ඒ ප්‍රතිඥාව ලබා දුන්නා. අද මේ උතුරටත් ඇවිල්ලා අපේ රටේ උත්තරීතර නීති පොතේ තිබෙන 13 වැනි ආණ්ඩුක්‍රව ව්‍යවස්ථාව අපි ක්‍රියාත්මක කරනවා කියන එක උතුරෙත්, දකුණෙත්, නැගෙනහිරත්, බස්නාහිරත් ඇතුළු රටේ පළාත් 09ම ජනතාවට අපි ඒ ප්‍රකාශය කළා. ඒක ක්‍රියාත්මක කරන්න අපි මැලි වෙන්නේ නෑ. මේ ප්‍රදේශයේ ජනතාවගේ දේශපාලන, සමාජීය, ආර්ථික , ආගමික හා සංස්කෘතික අයිතීන් අපි ලබා දෙනවා.
+
+13 වැනි සංශෝධනය ගැන කතා කරනකොට විවිධ නායකයෝ අහක බලාගන්නවා. සමහරු ඇහුණේ නෑ වගේ ඉන්නවා. සමහරු වෙනත් මාතෘකා ගේනවා. සමහරු මිරිකෙනවා. සමහරු බයේ දුවනවා. සමහරු ලැජ්ජාවට පත්වෙනවා. ඒ සියලු දෙනා දේශපාලන අවස්ථාවාදීන්. "
+
+◼️
+
+[Data](articles/f1caccff.json)
 
 ---
 
@@ -2219,27 +2255,5 @@ The twink of the twin, which is simultaneously given to the education and educat
 [Data](articles/ce784f58.json)
 
 [Extended Data](ext_articles/ce784f58.ext.json)
-
----
-
-### Discussion with the Prime Minister
-
-*2024-06-09 10:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பிரதமருடன்-கலந்துரையாடல்/73-338633) · `ta`
-
-A meeting chaired by Prime Minister Dinesh Gunawardena discussed additional funding for the Batticaloa Public Library project and measures to handle disruptions. The focus was on ensuring the library's completion and its benefits to the public, with special attention from the PM. Attendees included various ministers and officials, emphasizing the importance of the project and the need for efficient management.
-
-🟩
-
-A special discussion was held in the Parliament Building constituency to investigate additional funding for the expedition of the construction of the Batticaloa Public Library and the submission of a special cabinet paper in the Cabinet, and the trap systems to deal with the interruptions during the implementation of programs.
-
-The discussion was chaired by Dinesh Gunawardena, Prime Minister and Minister of Public Administration, Provincial Councils and Local Government Councils, and Rural Roads Development Minister and Batticaloa District Development Committee Chairman Shiv Chandrakanthan.
-
-In this case, the Cabinet bond. Special attention was paid to Prime Minister Dinesh Gunawardena regarding special funding. At the request of the Minister of State, Shiv Chandrakanthan, the library's tasks were completed and the allocation of funds for the use of the people for use and all other answers would be carried out.
-
-...
-
-[Data](articles/c5515fb4.json)
-
-[Extended Data](ext_articles/c5515fb4.ext.json)
 
 ---

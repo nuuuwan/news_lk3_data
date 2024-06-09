@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 12:06:16**
+As of **2024-06-09 12:19:24**
 
 ## Newspaper Stats
 
-*Scraped **29,329** Articles*
+*Scraped **29,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,674
 dailyftlk | 1,754
-adalk | 2,496
+adalk | 2,498
 adaderanalk | 3,320
-tamilmirrorlk | 3,442
+tamilmirrorlk | 3,444
 virakesarilk | 4,494
 dailymirrorlk | 4,653
 adaderanasinhalalk | 4,714
@@ -26,11 +26,63 @@ adaderanasinhalalk | 4,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,327 (100.0%) of 29,329 articles have been extended.
+29,329 (100.0%) of 29,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### பஸ்மீது கல்வீச்சு: ஏழுபேர் கைது
+
+*2024-06-09 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்மீது-கல்வீச்சு-ஏழுபேர்-கைது/175-338641) · `ta`
+
+இலங்கை போக்குவரத்து சபையின் சிலாபம் சாலைக்கு சொந்தமான பஸ் ஒன்றின் மீது கல் வீச்சுத் தாக்குதல் மேற்கொண்டதாக சந்தேகிக்கப்படும் தனியார் பஸ் சாரதி மற்றும் நடத்துனர் உட்பட ஏழு பேர் ஆனமடுவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் பத்துளுஓயா, கிரியங்கள்ளிய, பங்கதெனிய மற்றும் வென்னப்புவ ஆகிய பகுதிகளைச் சேர்ந்த 25 வயதுக்கும் 30 வயதுக்கும் இடைப்பட்டவர்கள் என்றும் பொலிஸார் குறிப்பிட்டனர்.
+
+புத்தளம், ஆனமடுவ பகுதியில் இருந்து மஹரகம அபேக்‌ஷா வைத்தியசாலைக்கு செல்லும் இ.போ.ச பஸ் மீதே ஆன்டிகம பகுதியில் வைத்து இவ்வாறு கல்வீச்சு தாக்குதல் மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+புற்றுநோயினால் பாதிக்கப்பட்ட மக்களின் நலன் கருதி இ.போ.சபையின் சிலாபம் சாலைக்கு சொந்தமான குறித்த பஸ் சில வருடங்களுக்கு முன்பிருந்து புத்தளம் -ஆனமடுவ நகரில் இருந்து மஹரகம அபேக்‌ஷா வைத்தியசாலை வரை தொடர்ச்சியாக சேவையை மேற்கொண்டு வருகின்றது.
+
+...
+
+[Data](articles/4bf04451.json)
+
+---
+
+### ප්‍රධාන බස්රථ නැවතුම්පොළකදී පදිකයකුගේ පාද දෙකම සිරුරෙන් වෙන්වෙයි
+
+*2024-06-09 12:00:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-බස්රථ-නැවතුම්පොළකදී-පදිකයකුගේ-පාද-දෙකම-සිරුරෙන්-වෙන්වෙයි/11-410093) · `si`
+
+බදුල්ල නගරයේ ප්‍රධාන බස්රථ නැවතුම්පොළේ දී ශ්‍රී ලංගම බස්‍ රථයකට ඊයේ(8) පස්වරුවේ යට වූ  පදිකයකුගේ පාද දෙක  එම ස්ථානයේදී ම සිරුරෙන් වෙන්වී ගිය බව බදුල්ල පොලිසිය පවසයි .
+
+මෙසේ ශ්‍රී ලංගම බස්‍ රථයකට යට වී බරපතළ තුවාල ලැබු බදුල්ල දෙමටවැල්හින්න ප්‍රදේශයේ පදිංචි 56 හැවිරිදි පුද්ගලයා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බවද පොලිසිය කීය .
+
+මොහු බදුල්ල නගරයේ එදිනෙදා කුලී වැඩ කරමින් ජීවිකාව ගෙවන බවත් , මොහු සිය රැකියා කටයුතු අවසන් කර සවස නිවස කරා යාමට බදුල්ල නගරයේ ප්‍රධාන බස්රථ නැවතුම්පොළ ට පාගමනින් යමින් සිටියදී බණ්ඩාරවෙල සිට බදුල්ල බලා පැමිණි  බණ්ඩාරවෙල ඩිපෝවට අයත්  ශ්‍රී ලංගම බස්‍ රථයට   යට වී ඇතැයි පොලිසිය සදහන් කළේය .
+
+ශ්‍රී ලංගම බස්‍ රථය බදුල්ල නගරයට පැමිණ ප්‍රධාන  පිවිසුමෙන් බස්රථය  බදුල්ල ප්‍රධාන බස්රථ නැවතුම්පොළ ට ඇතුල් කිරිමේදී මොහු බස්රථයේ ඉදිරිපස වම් රෝදයට යට වී සිරවී සිටියදී අවට ජනතාව මහත් පරිශ්‍රමයක් දරා ඉවතට ගෙන පසුව ත්‍රීරෝද රථයක දමා ගෙන බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බවද පොලිසිය පැවසීය .
+
+...
+
+[Data](articles/1cbd4967.json)
+
+---
+
+### 5 ஆயிரம் ரூபாய் தாள்களை மிதிக்கும் நபர்
+
+*2024-06-09 11:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆயிரம்-ரூபாய்-தாள்களை-மிதிக்கும்-நபர்/175-338639) · `ta`
+
+யாழ்ப்பாணத்தில் நபர் ஒருவர், 5 ஆயிரம் ரூபாய் பெறுமதியான தாள்களை கீழே போட்டு, இரண்டு கால்களிலும் மிதிக்கும் காணொளி ஒன்று சமூக வலைத்தளங்களில் பரவி வருகிறது
+
+ஒரு கோடிஸ்வரராக மக்கள் மத்தியில் வெளிப்படுத்திய அவர், தன்னை ஒரு தியாகி என்றே கூறிவருகின்றார்.
+
+மக்களுக்கு கோடிக்கணக்கான பணத்தை தானமாக வழங்குவதாகவும், சம்பவ தினத்தன்று தன்னால் பணத்தை வழங்கமுடியவில்லை என்றும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/fc2c013c.json)
+
+---
 
 ### Bus topples into canal in Warakapola; 13 including students injured
 
@@ -148,6 +200,8 @@ Minister Pathirana, however, recognized the project’s significance and its pot
 
 [Data](articles/b789fabb.json)
 
+[Extended Data](ext_articles/b789fabb.ext.json)
+
 ---
 
 ### STF seize Kerala cannabis worth Rs. 10 million at Point Pedro
@@ -222,7 +276,7 @@ However, the Secretary of the Lockmomotive Opaket Engineering is the Secretary t
 
 Sri Lanka Railways (SLR) stated that a total of 35 scheduled train journeys were cancelled this morning due to the continued strike by the Locomotive Operating Engineers’ Union of the railway department.
 
-he Locomotive Operating Engineers’ Union says that the strike launched by the locomotive drivers will continue for the third consecutive day today (09).
+The Locomotive Operating Engineers’ Union says that the strike launched by the locomotive drivers will continue for the third consecutive day today (09).
 
 They have been on strike since midnight on Thursday, (June 06) over several key demands including solutions to the delays in second-class promotions of locomotive drivers, delays in the recruitment process and several other issues.
 
@@ -315,6 +369,22 @@ The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
 [Data](articles/596658a8.json)
 
 [Extended Data](ext_articles/596658a8.ext.json)
+
+---
+
+### ජල විදුලිය උපරිමයෙන්
+
+*2024-06-09 10:04:12* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලිය-උපරිමයෙන්/11-410086) · `si`
+
+මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවලට පසුගිය දින කිහිපය තුල ඇද හැලුණු අධික වර්ෂාවත් සමග කාසල්රි සහ මවුස්සාකැලේ ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වෙමින් පවතින බව එම ජලාශයන් භාර ඉංජිනේරුවන් පැවසිය.
+
+කාසල්රි ජලාශයේ ජල මට්ටමට පිටාර මට්ටමට අඩි 12 ක් සහ මවුස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 11 ක් දක්වා ආසන්න වි ඇති එම ඉංජිනේරුවන් කියා සිටියේ.
+
+ජලාශයන් දෙකේම ජල මට්ටම ඉහල යාමත් සමග විමලසුරෙන්ද්‍ර , ලක්ෂපාන , නව ලක්ෂපාන , කැනියොන් සහ පොල්පිටිය යන ජල විදුලි බලාගාර වල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බව ජල විදුලි බලාගාර ඉංජිනේරුවන් පැවසිය.
+
+◼️
+
+[Data](articles/73a17425.json)
 
 ---
 
@@ -2177,117 +2247,5 @@ The Department of Meteorology announces that several thin showers in the North a
 [Data](articles/ec7a1ddb.json)
 
 [Extended Data](ext_articles/ec7a1ddb.ext.json)
-
----
-
-### Correct recovery from the pond in Badulla
-
-*2024-06-08 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185609) · `ta`
-
-A man's body was discovered in a pond in Badulla, Kahatarupa, possibly due to suicide or another incident. The police, assisted by the army, retrieved the body, which will be examined at Badulla Hospital.
-
-🟩
-
-The body of a man has been found in the Kohn Kobo estate pond in Badulla, Kahatarupa police said.
-
-A man from Kamburekederatha Mahakumbura Kahatarupa area has been recovered.
-
-About 2 days ago, Kahatarupa police are investigating whether he had seen a shirt and money near the pond located in the Kohn Kobo estate area, and whether he had committed suicide in the pool or had some other incident.
-
-The officer in charge of the Kahatarupa Police Station said that the body was being carried out in the pool on Friday with the help of the army.
-
-In this case, the body was found floating in the pond this morning (08), police said.
-
-The body of the legal officer will be taken to the Badulla Hospital for examination after the body of the judge, Kahatarupa police said.
-
-◼️
-
-[Data](articles/1f097234.json)
-
-[Extended Data](ext_articles/1f097234.ext.json)
-
----
-
-### The student is missing;Request to help find out
-
-*2024-06-08 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185607) · `ta`
-
-A schoolgirl from Kellapoka Madagala, Kandy, has been missing for two days. Her sister mentioned another missing student, Harivathani, since Friday. Those aware have been contacted via +94 78 171 3389 Tilantini.
-
-🟩
-
-A schoolgirl from the Kellapoka Madagala area, Kandy, has been reported missing for the past two days.
-
-Her sister said that a high -ranking student named "Harivathani" has been missing from Friday.
-
-In this case, those who are informed of the student (+94 78 171 3389 Tilantini) have been informed.
-
-◼️
-
-[Data](articles/2fd95d01.json)
-
-[Extended Data](ext_articles/2fd95d01.ext.json)
-
----
-
-### Jalar arrested with ice drugs
-
-*2024-06-08 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197526) · `si`
-
-A prison officer named Jilar was arrested today for transporting ice drugs. The arrest occurred after a tip-off led the Nivithigala police to intercept a motorbike carrying the drugs on the Kalawana main road in Ratnapura.
-
-🟩
-
-A prison jailer who was transporting drugs has been arrested this afternoon today (08).
-
-Police said the suspect was arrested by the Nivithigala police while transporting ice drugs.
-
-It is reported that the suspect is a Jiler of the Welikada Prison Hospital.
-
-According to a tip off received by Senior Superintendent of Police, Kapila Premadasa, a motorbike with ice with ice, was arrested in Kalawana main road along the Kalawana main road in Ratnapura.
-
-The suspect has been employed as a prison officer and has taken place from ice drug trafficking.
-
-◼️
-
-[Data](articles/15fe3de1.json)
-
-[Extended Data](ext_articles/15fe3de1.ext.json)
-
----
-
-### More information about the fatal accident occurred in two trains
-
-*2024-06-08 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197525) · `si`
-
-In a tragic accident at a railway crossing near Shepherdammulla station, two individuals, including a 56-year-old man and a 44-year-old woman, were killed when their car collided with a train. The incident occurred around 6:15 AM as the train approached the crossing where warning lights were operational. The collision pushed the car about 200 meters towards Colombo. Witnesses reported seeing the aftermath from another train heading to Trincomalee.
-
-🟩
-
-Two persons were killed in an accident that took place in two trains at the railway crossing near the shepherdammulla railway station.
-
-Residents say that when the light signs were in operation, a car collided with a train.
-
-The fatal accident was at around 6.15 this morning at a railway crossing near the shepherdammulla railway station.
-
-The light signs that a train was running out of the place had been opened from Edummulla to Wattala.
-
-The dinner of the night mail traveling from Badulla to Colombo has collided.
-
-After the accident, the car was drawn to Colombo about 200 meters.
-
-The locals who saw the accident had been driven to Trincomalee and travel to Trincomalee along the other railway train, while the car was hit by the train.
-
-A woman and a male had died in the same place in the accident.
-
-The deceased is Kelum Thushara Silva, a 56 year old resident of Biyagama and 44 year old. K. N. N. A woman named Ratnapala.
-
-She is also a security guard at a private company in Colombo.
-
-...
-
-[Data](articles/2f3afabe.json)
-
-[Extended Data](ext_articles/2f3afabe.ext.json)
 
 ---

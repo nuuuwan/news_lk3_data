@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 08:53:22**
+As of **2024-06-09 09:04:20**
 
 ## Newspaper Stats
 
-*Scraped **29,301** Articles*
+*Scraped **29,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,314
 tamilmirrorlk | 3,438
 virakesarilk | 4,489
 dailymirrorlk | 4,652
-adaderanasinhalalk | 4,709
+adaderanasinhalalk | 4,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,301 (100.0%) of 29,301 articles have been extended.
+29,301 (100.0%) of 29,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### වැසුණු කඩුගන්නාව යළි විවෘත කෙරේ
+
+*2024-06-09 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197549) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ තාවකාලිකව වසා දැමූ පහළ කඩුගන්නාව කොටස මේ වනවිට යළි විවෘත කර තිබේ.
+
+කෙසේ වෙතත් ආපදා කළමනාකරණ මධ්‍යස්ථානය රියදුරන්ගෙන් ඉල්ලා සිටින්නේ තවදුරටත් විමසිලිමත්ව රථ වාහන ධාවනය කරන ලෙසටය.
+
+කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව කොටස ඊයේ (08) පස්වරු 7.30 සිට අද (09) අලුයම 01 දක්වා තාවකාලිකව වසා දැමීමට පියවර ගෙන තිබුණි.
+
+ඒ වැසි තත්ත්වයත් සමඟ පහළ කඩුගන්නාව ප්‍රදේශයේ මාර්ගය දෙපස පවතින අවදානම් සහිත ගල් සහ ගස් ඉවත්කිරීමේ කටයුතු ආරම්භවීම හේතුවෙනි.
+
+◼️
+
+[Data](articles/458dab4a.json)
+
+---
 
 ### Rainfall in many areas today
 
@@ -2291,33 +2309,5 @@ They won 125 runs for the loss of 8 wickets in 19 overs.
 [Data](articles/3cf378c6.json)
 
 [Extended Data](ext_articles/3cf378c6.ext.json)
-
----
-
-### A person attack on Denmark's Prime Minister - incident on capital road
-
-*2024-06-08 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185579) · `ta`
-
-In a shocking incident, Denmark's Prime Minister Mette Frederiksen was attacked on Copenhagen's Koppenhagen Road. The assailant approached her in the city square, leading to a confrontation. EU Commissioner Ursula von der Leyen condemned the act as a disgrace to European values. Eyewitnesses reported that the Prime Minister fell onto the pavement. This unfortunate event occurred mere days before Denmark's European election.
-
-🟩
-
-Denmark's Prime Minister Mette Frederickson has attacked a person on the Koppanhagen Road.
-
-The Prime Minister's Office said that a person in the city's square went to the Prime Minister and attacked him.
-
-European Union Commissioner Urusula Wondeyre Leen said that this is a disgrace to all the voices we believe in Europe.
-
-The Prime Minister's Office said the Prime Minister was shocked by the incident.
-
-Eyewitnesses said that he fell on the back of the opposite.
-
-The incident took place just days before Denmark voted in the European elections.
-
-◼️
-
-[Data](articles/c2cdd37c.json)
-
-[Extended Data](ext_articles/c2cdd37c.ext.json)
 
 ---

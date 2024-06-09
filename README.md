@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 12:34:39**
+As of **2024-06-09 12:51:52**
 
 ## Newspaper Stats
 
-*Scraped **29,335** Articles*
+*Scraped **29,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,592
-economynextcom | 1,674
+economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,498
 adaderanalk | 3,320
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,716
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,333 (100.0%) of 29,335 articles have been extended.
+29,335 (100.0%) of 29,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,21 +86,27 @@ The driver of the SLTB bus has been arrested along with the SLTB bus.
 
 ---
 
-### පාසල් ළමුන් රැගත් බස් රථයක් අනතුරකට ලක්වෙයි
+### Bus commits school children in a danger
 
 *2024-06-09 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197555) · `si`
 
-පාසල් ළමුන් පිරිසක් රැගත් බස් රථයක් වරකාපොළ ප්‍රදේශයේදී අනතුරකට ලක්ව තිබේ.
+In Warakapola, a bus carrying school children from Rahula College, Malabe, crashed near a stream, injuring 13 students. All victims have been hospitalized at Warakapola Hospital for treatment.
 
-අනතුරින් පාසල් තුවාල ලැබූ පාසල් ළමුන් සහ දෙමව්පියන් 13 දෙනෙකු ප්‍රතිකාර සඳහා වරකාපොළ රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ මාලබේ රාහුල විද්‍යාලයේ ළමුන් පිරිසක් රැගෙන රන්ටැඹේ බලා ගමන්කරමින් තිබූ බස් රථයකි.
+A bus carrying a group of school children has been in danger in the Warakapola area.
 
-වරකාපොළ ප්‍රදේශයේදී බස් රථය ඇළකට පෙරළීයාමෙන් මෙම අනතුර සිදුව තිබුණි.
+School children and 13 children who were injured in the accident have been admitted to the Warakapola Hospital for treatment.
+
+The victim was a bus with a group of children at Rahula College, Malabe.
+
+The accident had occurred when the bus was rose from the stream area in Warakapola.
 
 ◼️
 
 [Data](articles/0db710a7.json)
+
+[Extended Data](ext_articles/0db710a7.ext.json)
 
 ---
 
@@ -126,19 +132,25 @@ He said that he would donate millions of rupees to the people and he could not a
 
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායම ගැන ක්‍රීඩා ඇමති ගත් තීරණය
+### Decision taken about Sri Lankan team
 
 *2024-06-09 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197554) · `si`
 
-ශ්‍රී ලංකා 20යි 20 සංචිතය සඳහා වයස අවුරුදු 25ට අඩු ක්‍රීඩකයින් තෝරා ගත යුතු බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Harin Fernando, Sri Lanka's Sports Minister, announced at a media briefing in Galle that the national cricket team should prioritize selecting players aged 20 to 25 for the Under-20 squad. He emphasized the importance of youth development and expressed regret over recent performance issues, attributing them to a lack of preparation and selection of the best players at the time. Fernando also highlighted the unpredictability of cricket, citing examples from recent matches, and called for new strategies and group formations to improve the team's performance.
 
-ඔහු එම අදහස් පළ කළේ ගාල්ලේ පැවති මාධ්‍ය හමුවකදී ශ්‍රී ලංකාව බංග්ලාදේශය හමුවේ ඊයේ (08) ලද පරාජය පිළිබඳව අදහස් දක්වමිනි.
+🟩
 
-"ඇත්ත වශයෙන්ම කණගාටුවෙනවා අපි හොඳ කණ්ඩායමක්. අපේ සූදානමක් තිබුණා. ලංකාවේ තේරීම් කමිටුව විසින් තෝරලා තියෙන්නේ ඒ අවස්ථාවේ ලකුණු ගහපු හොඳම ක්‍රීඩකයෝ. මම දැක්කා සමහර සමාජ මාධ්‍යවල තියෙනවා ටෙස්ට් කණ්ඩායමක් 20යි 20ට දැම්මද කියලා. මෙහෙමයි තරග පරදිනකොට මිනිස්සුන්ට හරි ලේසියි ඇඟිල්ල දික්කරන්න. තරග පරදිනකොට බෙල්ල කන්නේ ඇමතිවරයාගේ. මැච් දිනනකොට ක්‍රීඩකයා, පරදිනකොට ඇමතිවරයා. ඕක තමයි ලංකාවේ සාමාන්‍ය තත්ත්වය. දින්නම ක්‍රීඩකයෝ ක්‍රීඩකයින්ගේ දේවල් තමයි උස්සගෙන යන්නේ. ක්‍රීඩකයෝ සහ ක්‍රීඩාවකට ආදරය කරන ප්‍රේක්ෂකයෝ. නමුත් පැරදුනාම සංගම්වලට, ඇමතිවරයාට, ආණ්ඩුවට තමයි කුණුහරුපෙන් බනින්නේ."
+Minister of Sports Harin Fernando says that players under the age of 20 to Sri Lanka 20 squad should be selected for the age of 25.
+
+He was speaking at a media briefing in Galle yesterday (08) at Bangladesh.
+
+"Indeed, we're sorry we're a good team. There was a preparation. The selection committee of Sri Lanka has been selected at the time the best players at the time. I have seen some social media has to put 20 Tests and 20. This is how the people defeat the Espects OK to defeat the matches. Minister is eating the neck whenecing the matches. Minister to defeat the player as the machine win. That is the normal situation in Sri Lanka. Growing players are going to lift the players. The audience who loves players and a game. But to the Minister, the Minister, the government blames the minister. "
 
 ...
 
 [Data](articles/9320e806.json)
+
+[Extended Data](ext_articles/9320e806.ext.json)
 
 ---
 
@@ -867,6 +879,20 @@ Chasing a target of 202, he was able to score only 165 runs for the loss of 6 wi
 [Data](articles/9e8d256d.json)
 
 [Extended Data](ext_articles/9e8d256d.ext.json)
+
+---
+
+### Trupti Mehta – A Pioneer in Winning Land Rights for Indigenous Communities
+
+*2024-06-09 06:52:00* · [`economynextcom`](https://economynext.com/trupti-mehta-a-pioneer-in-winning-land-rights-for-indigenous-communities-167042/) · `en`
+
+ECONOMYNEXT – In India’s East Gujarat, more than fifty thousand Indigenous families are no longer considered encroachers but legal landowners with the right to better their standard of living using the resources of the forests.
+
+The road to that change has neither been easy, nor short, but decades of non-violent pushback with the guidance and support of Trupti and Ambrish Mehta, Co-Founders of Action Research in Community Health (ARCH) Vahini. The organisation, along with several other entities campaigned tirelessly for legislation that would provide marginalised communities the security of tenure on the lands they had lived on, cultivated and utilised as resources for decades.  As Trupti Mehta explains the main obstacles to securing these rights have been the bureaucracy and lack of awareness amongst the indigenous communities.
+
+...
+
+[Data](articles/fb3ebd98.json)
 
 ---
 
@@ -2239,25 +2265,5 @@ He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brou
 [Data](articles/19a0e948.json)
 
 [Extended Data](ext_articles/19a0e948.ext.json)
-
----
-
-### Has Benexured the Hasaranga Malinga
-
-*2024-06-08 15:53:56* · [`adalk`](https://www.ada.lk/sports/හසරංග-මාලිංගව-අභිභවා-යයි/9-410079) · `si`
-
-In the Twenty20 tournament, Wanindu Hasaranga stood out with his performance, taking two crucial wickets against Bangladesh. His achievement places him second in terms of Twenty20 international wickets, just behind Malinga who holds 107 wickets.
-
-🟩
-
-At the Twenty20 tournament, Vanindu Hasaranga was among the players.
-
-He was with two wickets in the competition against Bangladesh. Fanu has been taken away from Twenty20 wickets at the Twenty20 international and Malinga had only 107 wickets.
-
-◼️
-
-[Data](articles/33c00a69.json)
-
-[Extended Data](ext_articles/33c00a69.ext.json)
 
 ---

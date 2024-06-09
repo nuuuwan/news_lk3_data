@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 13:53:36**
+As of **2024-06-09 14:04:17**
 
 ## Newspaper Stats
 
-*Scraped **29,348** Articles*
+*Scraped **29,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,501
+adalk | 2,503
 adaderanalk | 3,321
 tamilmirrorlk | 3,445
 virakesarilk | 4,494
-dailymirrorlk | 4,659
+dailymirrorlk | 4,660
 adaderanasinhalalk | 4,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,347 (100.0%) of 29,348 articles have been extended.
+29,348 (100.0%) of 29,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Sri Lanka’s IMF programme aimed to succeed by improving governance. Will it?
+
+*2024-06-09 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-IMF-programme-aimed-to-succeed-by-improving-governance-Will-it/108-284423) · `en`
+
+Colombo, June 9 (Verité Research) - On June 12, the IMF board will approve Sri Lanka’s third disbursement under the current program. However, Sri Lanka is still falling short on the governance improvements that are foundational for its economic recovery.
+
+According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri Lanka verifiably failed to meet 25% of the commitments due by the end of May 2024 under the program renewed in December 2023. Of the 63 commitments due, 32 were classified as ‘met’, 16 as ‘not met’, and 15 as ‘unknown’ – meaning data was not available to verify their status.
+
+...
+
+[Data](articles/f2d1ea41.json)
+
+---
+
+### පාසල් ළමුන් රැගෙන ගිය බස් රථයක් පෙරලී 13ක් රෝහලේ
+
+*2024-06-09 13:29:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-රැගෙන-ගිය-බස්-රථයක්-පෙරලී-13ක්-රෝහලේ/11-410096) · `si`
+
+පාසල් ශිෂ්‍යාවන් 26 දෙනෙකු හා දෙමාපියන් පිරිසක් ගමන් ගත් බස් රථයක් අද(09)දින අලුයම වරකාපොල නගරයේ ඇති අනාරක්ෂිත ඇලකට පෙරළීමෙන් පාසල් ශිෂ්‍යාවන් ඇතුළුව 13 දෙනෙකු තුවාල ලබා වරකාපොළ මූලික රෝහල වෙත ඇතුළත් කළ බව වරකාපොල පොලිසිය පවසයි .
+
+මාලඹේ රාහුල බාලිකා විද්‍යාලයේ බාල දක්ෂිකාවන් 26 දෙනෙකු හා දෙමාපියන් 11දෙනෙකු  අලුයම 03.15ට පමණ පාසලෙන් පිටත්වී  රන්ටැඹේ බාල දක්ෂ පුහුණු කඳවුර බලා පිටත්ව යමින් සිටියදී  අලුයම 5.45ට පමණ වරකාපොල තැපැල් කන්තෝරුව ඉදිරිපිට වංගුවත් සමග ඇති අනාරක්ෂිත ඇළට පෙරළීමෙන් මෙම අනතුර සිදුව තිබිණ .
+
+මෙම අනතුරින් බස් රථයේ ගමන් ගත් ශිෂ්‍යාවන් ඇතුළුව දහතුන් දෙනකු තුවාල ලබා ඇති බවත් ඔවුන්ගෙන් ශිෂ්‍යාවන් දෙදෙනෙකුගේ හැර අන් අයගේ තත්ත්වය බරපතළ නොවන බවත්  රෝහල් ආරංචි මාර්ග පවසයි
+
+සිද්ධිය සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන වරකාපොල අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර වරකාපොළ පොලිසියේ පොලිස් සැරයන් (34590) වික්‍රමරත්න  ,පොලිස් සැරයන් (49871) සමන් යන නිලධාරීන් විසින් වැඩිදුර පරීක්ෂණ සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/cb1ee254.json)
+
+---
 
 ### At least 13 injured as bus carrying students, parents topples into canal
 
@@ -47,6 +79,8 @@ The injured students and parents were admitted to the Warakapola Hospital for tr
 ◼️
 
 [Data](articles/107a5469.json)
+
+[Extended Data](ext_articles/107a5469.ext.json)
 
 ---
 
@@ -479,6 +513,24 @@ The Yakkaru Police Special Task Force is continuing further investigations into 
 [Data](articles/0225756e.json)
 
 [Extended Data](ext_articles/0225756e.ext.json)
+
+---
+
+### කරාතේ කලු පටි ‍ශූර නිවුන් සොහෝයුරියෝ උසස්පෙළටත් ඒ තුන බැගින් ලබති
+
+*2024-06-09 10:49:54* · [`adalk`](https://www.ada.lk/sports/කරාතේ-කලු-පටි-‍ශූර-නිවුන්-සොහෝයුරියෝ-උසස්පෙළටත්-ඒ-තුන-බැගින්-ලබති/9-410089) · `si`
+
+අම්බලන්ගොඩ ජේ.කේ.එස්.කරාතේ පුහුණු මධයස්ථානයෙන් කරාතේ පුහුණුව ලබන එම්.ජී.මහේෂිකා සෙව්වන්දි සහ එම්.ජී.මධුෂිකා සෙව්වන්දි නිවුන් සොහෝයුරියෝ මෙවර අධයන පොදු සහතික උසස් පෙළ විභාගයෙන් තමන් මුහුණදුන් විෂයයන් තුනටම ඒ සාමාර්ථ ලබාගෙන තිබේ.
+
+ගාල්ල නෙළුව ජාතික පාසලෙන් වාණිජ විෂය ධාරාවෙන් මුහුණදුන් මේ නිවුන් සොහොයුරියන් කරාතේ කළු පටි ශේණිධාරීන්ය.
+
+ඔවුන් දෙදෙනා අධයාපනයට අමතරව කරාතේ ක්‍ර‍ිඩාවෙන් මේ වනවිට ලබාඇති සමස්ත ලංකා ජයගහණ රැසකි.
+
+ක්‍ර‍ිඩාවට මෙන්ම අධයාපනයටද එකසේ දසකම් දක්වන මේ නිවුන් සොහොයුරියන් පාසලේදී මෙන්ම කරාතේ පුහුණු මධයස්තානයේදී සිවිශේෂී හැකියාවන්ගෙන් දක්වන අයවීම විශේෂයෙන්ම කැපී පෙනේ.
+
+◼️
+
+[Data](articles/ce784f58.json)
 
 ---
 
@@ -2183,63 +2235,5 @@ President Wickremesinghe is expected to participate in several bilateral meeting
 [Data](articles/ab2ffbc5.json)
 
 [Extended Data](ext_articles/ab2ffbc5.ext.json)
-
----
-
-### India Ends Marathon In A Midsummer Of Elections
-
-*2024-06-08 18:31:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-ends-marathon-in-a-midsummer-of-elections/) · `en`
-
-India has finally ended its election marathon last week. While the marathon went on, lasting seven phases and forty days, South Africa and Mexico started and finished their day long voting business. The European Union is having its elections over this weekend, followed by Britain in July. To complete what one might call a midsummer of elections. The US elections are always Fall elections and are due in November.
-
-Political taxonomists are dividing the world into super states and small states. There are apparently four super states now – the US, China, India and the EU, republican successors to the old monarchical empires. Remarkably, this year is seeing elections in three of them. The elections to the European parliament are being watched for the rise of populist right wing parties in many member countries, which will have implications for national elections in different countries. Especially France.
-
-...
-
-[Data](articles/8f08d08d.json)
-
-[Extended Data](ext_articles/8f08d08d.ext.json)
-
----
-
-### Flood warnings for several rivers and Attanagalu Oya withdrawn
-
-*2024-06-08 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warnings-for-several-rivers-and-Attanagalu-Oya-withdrawn/108-284413) · `en`
-
-Colombo, June 08 (Daily Mirror)- All flood warnings issued by the Hydrology and Disaster Management Division of the Irrigation Department from June 1 till today for several rivers were withdrawn from today.
-
-The Hydrology and Disaster Management Division of the Irrigation Department said in a statement that flood warnings were issued for Kelani Ganga, Kalu Ganga, Gin Ganga, Nilwala Ganga and Attanagalu Oya.
-
-The statement said that the Department of Irrigation is constantly monitoring the changes in the rainfall conditions across the Island and the changes in the water levels of major rivers and that all arrangements have been made to issue prior warnings and information of flood situations as necessary, if the need arises.
-
-◼️
-
-[Data](articles/742d738f.json)
-
-[Extended Data](ext_articles/742d738f.ext.json)
-
----
-
-### Rainy conditions expected to enhance in next few days
-
-*2024-06-08 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99745/rainy-conditions-expected-to-enhance-in-next-few-days) · `en`
-
-The prevailing rainy weather conditions in the south-western part of the island are expected to enhance to some extent in the next few days from today (08), according to the Meteorology Department.
-
-Issuing a forecast for the next 36 hours, it said Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts.
-
-Several spells of light showers will occur in Northern and North-central provinces and in Matale district, the department said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-...
-
-[Data](articles/ff9679d8.json)
-
-[Extended Data](ext_articles/ff9679d8.ext.json)
 
 ---

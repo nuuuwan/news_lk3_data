@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 01:19:09**
+As of **2024-06-10 01:34:33**
 
 ## Newspaper Stats
 
-*Scraped **29,434** Articles*
+*Scraped **29,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,32 @@ adalk | 2,513
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
-dailymirrorlk | 4,669
+dailymirrorlk | 4,670
 adaderanasinhalalk | 4,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,434 (100.0%) of 29,434 articles have been extended.
+29,434 (100.0%) of 29,435 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-10 (Monday)
+
+### The Ranil-Chandrika Debate of 1999 that never occurred
+
+*2024-06-10 00:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Ranil-Chandrika-Debate-of-1999-that-never-occurred/172-284468) · `en`
+
+Kumaratunga’s campaign was plagued by setbacks which prompted Wickremesinghe to challenge Kumaratunga for a Presidential debate
+
+Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mahinda-Ranil 2005: That never was,’ let us revisit the ‘Ranil-Chandrika 1999’ debate. The lead up to the 1999 Presidential Election was marked by significant political turmoil and dramatic events.
+
+...
+
+[Data](articles/9045c727.json)
+
+---
 
 ### 2024-06-09 (Sunday)
 
@@ -2261,25 +2277,5 @@ He said the government would take advice on the maximum number of vehicles that 
 [Data](articles/8bd6946f.json)
 
 [Extended Data](ext_articles/8bd6946f.ext.json)
-
----
-
-### The heart-friendly health minister
-
-*2024-06-09 11:07:00* · [`islandlk`](http://island.lk/the-heart-friendly-health-minister/) · `en`
-
-When we sought a meeting with Hon Dr. Ramesh Pathirana, Minister of Health, he graciously cleared his busy schedule to accommodate us. Renowned for his attentive listening and deep understanding, Minister Pathirana is dedicated to advancing the health sector. His openness and transparency exemplify the qualities of an exemplary politician and minister.
-
-Dr. Palitha Mahipala, the current Health Secretary, demonstrates both commendable enthusiasm and unwavering support. This combination of attributes makes him a highly compatible colleague for the esteemed Minister of Health.
-
-Our discussion centered on a project that has been in the works for the past 30 years, one that no other minister had managed to advance.
-
-Minister Pathirana, however, recognized the project’s significance and its potential to revolutionize care for heart patients.
-
-...
-
-[Data](articles/b789fabb.json)
-
-[Extended Data](ext_articles/b789fabb.ext.json)
 
 ---

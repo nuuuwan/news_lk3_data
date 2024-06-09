@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 19:34:31**
+As of **2024-06-09 19:52:11**
 
 ## Newspaper Stats
 
-*Scraped **29,401** Articles*
+*Scraped **29,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,100 +19,182 @@ adalk | 2,509
 adaderanalk | 3,329
 tamilmirrorlk | 3,448
 virakesarilk | 4,511
-dailymirrorlk | 4,665
-adaderanasinhalalk | 4,728
+dailymirrorlk | 4,666
+adaderanasinhalalk | 4,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,394 (100.0%) of 29,401 articles have been extended.
+29,401 (100.0%) of 29,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### பைடனின் சர்ச்சைக்குரிய யுத்த நிறுத்த யோசனை
+### එකඟතාවයකින් තොරව අවසන් වූ පාකිස්තානයේ IMF සාකච්ඡාව
+
+*2024-06-09 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197570) · `si`
+
+පාකිස්තාන රජය සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර පැවැති සාකච්ඡාවක් එකඟතාවයකින් තොරව අවසන් වී තිබේ.
+
+වැටුප් ලබන සහ වැටුප් නොලබන පුද්ගලයින් සඳහා නව ආදායම් බදු පැනවීමේ අනුපාත පිළිබඳ වන කරුණු සඳහා නිසි එකඟත්වයක් ඇති නොවීම ඊට හේතු වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ආදායම් බදු සීමාව, වැටුප් හා වැටුප් නොලබන අනුපාත ඒකාබද්ධ කිරීම මෙන්ම පුද්ගලයන් සඳහා පනවනු ලබන උපරිම ආදායම් බද්ද සම්බන්ධයෙන් දෙපාර්ශ්වය අතර මතභේදාත්මක තත්ත්වයක් පවතින බව සඳහන් වේ.
+
+කෙසේවෙතත් පවතින ගැටලු සම්බන්ධ විකල්ප යෝජනා පිළිබඳ සාකච්ඡා කිරීම සඳහා යළිත් වරක් පාකිස්තාන රජය සහ සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර හමුවක් පැවැත්වීමට නියමිත බව විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9ba729d1.json)
+
+---
+
+### ජීවිත තර්ජන සිද්ධිය ගැන හර්ෂගෙන් CIDයට විශේෂ දැනුම්දීමක්
+
+*2024-06-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197569) · `si`
+
+ජීවිත තර්ජනයක් ඇති බවට කළ ප්‍රකාශය සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීමේ අවශ්‍යතාවයක් නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත දැනුම්දී තිබේ.
+
+CIDය විසින් විමර්ශන ආරම්භ කර ඊට අදාළ ප්‍රකාශයක් ලබාදෙන ලෙසට දැනුම්දීමෙන් අනතුරුව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මේ බව ප්‍රකාශ කර තිබේ.
+
+එහිදී මහජන ආරක්ෂක අමාත්‍යවරයාට සහ CIDයට ස්තූතිය පළකරමින් මන්ත්‍රීවරයා සඳහන් කර ඇත්තේ තමන් විසින් සිදුකළ එම ප්‍රකාශය පාර්ලිමේන්තු වරප්‍රසාද සහිතව පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රකාශයක් බවය.
+
+එසේම එම අවස්ථාවේදී කථානායකවරයා විසින් තමන්ට ජීවිත තර්ජනයක් තිබේද යන්න විමසූ බවත් එවැන්නක් නොමැති බව තමන් විසින් ප්‍රකාශ කළ බවත් මන්ත්‍රීවරයා පොලීසියට දැනුම්දී තිබේ.
+
+දැනට එවැනි විමර්ශනයක් අවශ්‍ය නොවන බවත් එසේ අවශ්‍යවන්නේ නම් නැවත දැනුම්දීමට කටයුතු කරන බවද පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා වැඩිදුරටත් පවසා ඇති බව පොලිස් මාධ්‍ය කොට්ඨාශය පවසයි.
+
+ඒ අනුව මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කථානායකවරයා ද දැනුවත් කිරීමට පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/584655dd.json)
+
+---
+
+### The idea of ​​stopping the controversial cease
 
 *2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185636) · `ta`
 
-இஸ்ரேலின் வலது சாரி தரப்பில் இருந்து இந்த யோசனைகளுக்கு கடும் எதிர்ப்பும் விமர்சனமும் எழலாம் என்பதையும் அவர் ஏற்றுக்கொண்டுள்ளார். ஆளும் தரப்பில் உள்ள கடும் போக்காளர்களும் இதை எதிர்க்கலாம். அவர்களுக்கு நிலைமையை விளக்கும் வகையிலும் பைடன் பல கருத்துக்களை முன் வைத்துள்ளார்.
+Biden acknowledges controversial ceasefire ideas might stem from Israel's right-wing, noting opposition could come from the ruling party as well. He has proposed various explanations for the situation.
+
+🟩
+
+He also acknowledged that these ideas may arise from Israel's right -wing side. The ruling party can also oppose this. Baidan has put forward many ideas to explain the situation for them.
 
 ◼️
 
 [Data](articles/5ffa6b4f.json)
 
+[Extended Data](ext_articles/5ffa6b4f.ext.json)
+
 ---
 
-### ஐ.தே.க.வின் பொருந்தாத நியாயம்
+### The incompatibility of the UNP
 
 *2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185654) · `ta`
 
-ஜனாதிபதி மற்றும் பாராளுமன்றத்தில் பதவிக்காலத்தை நீடிப்பதற்கு சர்வஜன வாக்கெடுப்புக்கு உத்தரவிட்டால் அது அரசியலமைப்பு விரோதமாக கருதப்படாது.
+The UNP's stance suggests that if a referendum involves both the president and parliament, it wouldn't be unconstitutional.
+
+🟩
+
+If the referendum ordered the referendum in the president and parliament, it would not be considered anti -constitutional.
 
 ◼️
 
 [Data](articles/95558e14.json)
 
+[Extended Data](ext_articles/95558e14.ext.json)
+
 ---
 
-### ஏமாற்றமளித்த   ரஷ்யாவின் இறுக்கம்
+### Tightness of Russia
 
 *2024-06-09 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185658) · `ta`
 
-விடுதலைப் புலிகளை தோற்கடித்த படையினர் ரஷ்ய மண்ணில் வீணாக உயிரிழந்து கொண்டிருக்கிறார்கள் என்று தயாசிறி ஜயசேகர உசுப்பேற்றிய பின்னர் தான், பாராளுமன்ற உறுப்பினர்களுக்கும் அரசாங்க தலைவர்களுக்கும் மாத்திரமன்றி- பாதுகாப்பு அமைச்சு மற்றும் முப்படைகளின் தளபதிகளுக்கும் கூட சொரணை வந்தது.
+After Dayasiri Jayasekara's backing, soldiers who ended the LTTE were assassinated on Russian territory. This incident sparked parliamentary and governmental discussions involving the defense ministry and military commanders.
+
+🟩
+
+It was only after Dayasiri Jayasekara's support that soldiers who defeated the LTTE were killed on Russian soil that only came to parliament and government leaders, the ministry and the commanders of the Armed Forces.
 
 ◼️
 
 [Data](articles/5b663d33.json)
 
+[Extended Data](ext_articles/5b663d33.ext.json)
+
 ---
 
-### உள்நாட்டு இறைவரித் திணைக்களத்துடன்   தகவல்களைப் பகிர்வதற்கான புதிய விதிகள்
+### New rules for sharing information with the Department of Homeland
 
 *2024-06-09 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185671) · `ta`
 
-இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களம் (IRD) மார்ச் 21, 2024 திகதியிட்ட அதிவிசேட வர்த்தமானி எண். 2376/25 தொடர்பான அறிவிப்பை வெளியிட்டுள்ளது. இந்த அறிவிப்பு பல்வேறு நிறுவனங்களை உள்நாட்டு இறைவரி ஆணையாளர் நாயகத்துடன் (CGIR) வழக்கமான தகவல்களைப் பகிர்ந்துகொள்ள வேண்டுமென்று அறிவித்துள்ளது.
+On March 21, 2024, Sri Lanka's IRD issued notice 2376/25, requiring companies to regularly share data with the CGIR under new regulations.
+
+🟩
+
+Sri Lanka's Internal Revenue Department (IRD) on March 21, 2024. Has issued a notification relating to 2376/25. The announcement has announced that various companies should share regular information with the Commissioner of Home Affairs (CGIR).
 
 ◼️
 
 [Data](articles/47d53211.json)
 
+[Extended Data](ext_articles/47d53211.ext.json)
+
 ---
 
-### பேசப்படாத முஸ்லிம்கள்  மீதான உரிமை மீறல்கள்
+### Violations of the rights of unpopular Muslims
 
 *2024-06-09 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185652) · `ta`
 
-துருக்கித் தொப்பி அணிந்து ஆஜராவதை தடுக்கும் நீதிமன்ற அறிவித்தலொன்றும் பின்னர் வெளியிடப்பட்டது. இதனைத்தொடர்ந்து முஸ்லிம் சமூகம் தமது இன, மத, கலாசார உரிமைக்காக பேரெழுச்சி கொண்டது. மருதானையை மையமாகக்கொண்டு இடம்பெற்று, இத்துருக்கித் தொப்பிப் போராட்டம் வெற்றியும் பெற்றது.
+In Turkey, a court recognized the rights of Muslims, especially in Maradana, addressing their ethnic, religious, and cultural rights. This marks a significant victory for the Muslim community.
+
+🟩
+
+A court announcement was later released by a Turkish hat. Following this, the Muslim community was honored for their ethnic, religious and cultural rights. Focusing on the Maradana, the struggle was successful.
 
 ◼️
 
 [Data](articles/b5eccacd.json)
 
+[Extended Data](ext_articles/b5eccacd.ext.json)
+
 ---
 
-### தமிழ் பொது வேட்பாளரும் பதற்றங்களும்
+### Tamil general candidate and tensions
 
 *2024-06-09 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185667) · `ta`
 
-தமிழ் அரசு கட்சி ஆதரித்தால் என்ன,  ஆதரிக்காவிட்டால் என்ன- தமிழ் பொது வேட்பாளர் நிறுத்தப்படும் போது, அதனை அவர்களால் எதிர்க்க முடியாது.பொருளாதார காரணியால் தமிழர்கள் ஒரு வாய்ப்பை தவறவிட்டனர் என்ற பழிச் சொல்  வருவதற்கு இடமளிக்க முடியாது முடியாது
+In Tamil Nadu politics, a general candidate's success hinges on the state party's stance. If supported, opposition becomes challenging; without support, their candidacy faces significant obstacles.
+
+🟩
+
+What if the Tamil state party supports and does not support it- when the Tamil general candidate is stopped, they cannot oppose it.
 
 ◼️
 
 [Data](articles/368d27f9.json)
 
+[Extended Data](ext_articles/368d27f9.ext.json)
+
 ---
 
-### தென்னாபிரிக்க அழிவின் விளிம்பில் ஆபிரிக்கத் தேசிய காங்கிரஸ்?
+### African National Congress on the brink of South African destruction?
 
 *2024-06-09 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185650) · `ta`
 
-1994ஆம் ஆண்டு முதல் நாட்டை ஆட்சி செய்து வரும் மிகப்பெரிய கட்சியான ஆபிரிக்கத் தேசியக் காங்கிரஸின் வாக்குவங்கி தொடர்ந்தும் சரிவைச் சந்தித்து வருவது ஒன்றும் இரகசியமான சேதி அல்ல. கட்சிக்குள் நடக்கும் குத்து வெட்டுக்கள், கட்சித் தலைவர்கள் மீது சுமத்தப்படும் ஊழல் குற்றச்சாட்டுகள், மக்கள் செல்வாக்கு மிக்க கட்சியின் முன்னணி உறுப்பினர்கள் வெளியேறி புதிய கட்சிகளை உருவாக்கியமை, தேர்தல் வாக்களிப்பில் பொதுமக்கள் ஆர்வத்துடன் கலந்து கொள்ளாமை எனப்பல காரணங்கள் இருந்தாலும் கட்சி இத்துணை பின்னடைவைச் சந்திக்கும் என்று எதிர்பார்க்கப்படவில்லை. இருந்தாலும் அது நடைபெற்றிருக்கின்றது.
+The African National Congress (ANC), South Africa's dominant party since 1994, faces declining support due to corruption scandals and internal divisions, potentially threatening its long-standing rule amidst the emergence of new political entities.
+
+🟩
+
+It is not a secret Cheti that the African National Congress, the largest party that has been ruling the country since 1994, continues to decline.. The party is not expected to face a setback, despite the fact that the party's punching, corruption allegations leveled against party leaders, the outbreak of the party's leading party and the formation of new parties.. It has happened, though.
 
 ◼️
 
 [Data](articles/2f313a72.json)
+
+[Extended Data](ext_articles/2f313a72.ext.json)
 
 ---
 
@@ -919,6 +1001,20 @@ Sri Lanka has previously been elected to the United Nations Economic and Social 
 [Data](articles/0d03afb9.json)
 
 [Extended Data](ext_articles/0d03afb9.ext.json)
+
+---
+
+### Sri Lanka’s IMF programme aimed to succeed by improving governance. Will it?
+
+*2024-06-09 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-IMF-programme-aimed-to-succeed-by-improving-governance-Will-it/155-284423) · `en`
+
+Colombo, June 9 (Verité Research) - On June 12, the IMF board will approve Sri Lanka’s third disbursement under the current program. However, Sri Lanka is still falling short on the governance improvements that are foundational for its economic recovery.
+
+According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri Lanka verifiably failed to meet 25% of the commitments due by the end of May 2024 under the program renewed in December 2023. Of the 63 commitments due, 32 were classified as ‘met’, 16 as ‘not met’, and 15 as ‘unknown’ – meaning data was not available to verify their status.
+
+...
+
+[Data](articles/3266caa4.json)
 
 ---
 
@@ -2177,81 +2273,5 @@ The Department of Meteorology has urged the people to take necessary steps to re
 [Data](articles/12a3e286.json)
 
 [Extended Data](ext_articles/12a3e286.ext.json)
-
----
-
-### The main notice of the people
-
-*2024-06-09 08:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-முக்கிய-அறிவிப்பு/175-338625) · `ta`
-
-Kadugannawa road reopened at 6:45 am after closure for tree and rock removal. Disaster Management advises caution due to hazards.
-
-🟩
-
-The Kadugannawa area under the Kandy Road was opened at 6.45 am today.
-
-The Disaster Management Center has advised people to travel with great care through the area.
-
-The road was closed yesterday for the removal of hazardous trees and damaged branches on both sides of the road and to remove dangerous rock parts.. Remble
-
-◼️
-
-[Data](articles/29589117.json)
-
-[Extended Data](ext_articles/29589117.ext.json)
-
----
-
-### Railway Drivers' strike still
-
-*2024-06-09 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197548) · `si`
-
-Railway Engineers' strike continues due to promotion delays and unaddressed demands. Two drivers join; others aren't striking over power issues. The opposition claims the government isn't responding to their concerns. A transport ministry spokesperson plans to report the strike to the CID, potentially involving 21 individuals.
-
-🟩
-
-The Lokomotive Opposition Association says that the strike commenced by Railway Engineer drivers will continue today.
-
-The second level promotions commenced on the 6th of the 6th of this morning, taking delay, recruitment delay, delay, recruitment delay.
-
-Two train drivers are only joining the strike and is not the cause of the power sets.
-
-However, the Secretary of the Lockmomotive Opaket Engineering is the Secretary to the License that the authorities are no longer responding to their demands.. R. C. M. Senanayake said.
-
-However, a spokesperson of the Ministry of Transport (CID) is expected to file a complaint to the CID regarding the strike action.
-
-It is reported that the complaint is to be conducted by the government to embarrass the government by 21 people.
-
-◼️
-
-[Data](articles/0bfa6faa.json)
-
-[Extended Data](ext_articles/0bfa6faa.ext.json)
-
----
-
-### Supervision to Australia
-
-*2024-06-09 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197547) · `si`
-
-In a cricket match against England, Australia won by 36 runs after scoring 201 runs in their batting innings. David Warner contributed with 39 runs, while Mitchell Marsh added 35. Chasing 202, England ended with 165/6 in 20 overs.
-
-🟩
-
-The Australian team won the match between the Australian team and England yesterday in 36 runs.
-
-The England team leader won the toss and invited Australian team to bat first.
-
-Accordingly, the Australian group scored 201 201 201 201 201 201 201 201 201 201).
-
-David Warner scored 39 runs for the Australian team and Mitchell Mash scored 35 runs.
-
-Chasing a target of 202, he was able to score only 165 runs for the loss of 6 wickets in the end of 20 balls.
-
-◼️
-
-[Data](articles/9e8d256d.json)
-
-[Extended Data](ext_articles/9e8d256d.ext.json)
 
 ---

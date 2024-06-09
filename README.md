@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 17:34:45**
+As of **2024-06-09 17:55:02**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 4,724
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,379 (100.0%) of 29,380 articles have been extended.
+29,380 (100.0%) of 29,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### වැස්ස ගැන අලුත්ම කාලගුණ නිවේදනය නිකුත් කෙරේ
+### Latest weather forecast for rain
 
 *2024-06-09 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197564) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිබව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected in Western, Sabaragamuwa, and North Western provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, as well as North Central, Matale, Ampara, Batticaloa, Trincomalee, and Moneragala districts. Strong winds (40-50 km/h) also predicted. Stay safe from potential lightning and wind-related accidents.
 
-ඉදිරි පැය 36 සඳහා වන කාලගුණ නිවේදනය නිකුත් කරමින් එම දෙපාර්තමේන්තුව මේ බව පවසයි.
+🟩
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවය.
+In some places in the Western and Sabaragamuwa provinces, in some places in some places. The Meteorology Department says that there will be rains experience over 75.
 
-එසේම උතුරු-මැද පළාතේත් මන්නාරම සහ මාතලේ දිස්ත්‍රික්කවලත් සිහින් වැසි ඇතිවිය හැකි බව එහි දැක්වෙයි.
+The department is issued by the weather notification for the next 36 hours.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The release shows that there will be showers at times in the Western, Sabaragamuwa and North Western provinces in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ සඳහන් වෙයි.
+The North-Central Province and in the North and Matale and Matale Districts can occur.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The announcement st he strong winds in about (40-50).
+
+The Department of Meteorology has further requested the temporary winds and lightning accidents caused by thunderstorms.
 
 ◼️
 
 [Data](articles/241f91b7.json)
+
+[Extended Data](ext_articles/241f91b7.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 02:19:06**
+As of **2024-06-10 02:34:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,439 (100.0%) of 29,453 articles have been extended.
+29,449 (100.0%) of 29,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Pathfinder Foundation successfully concluded its Fourth Dialogue with Diplom
 ...
 
 [Data](articles/c44bba55.json)
+
+[Extended Data](ext_articles/c44bba55.ext.json)
 
 ---
 
@@ -74,6 +76,8 @@ Tight security has been in place in Delhi, which was declared a no-fly zone, wit
 
 [Data](articles/6fcde23f.json)
 
+[Extended Data](ext_articles/6fcde23f.ext.json)
+
 ---
 
 ### Ali Sabry to attend BRICS Ministerial Session in Russia
@@ -94,6 +98,8 @@ On the side-lines, the Foreign Minister is expected to have bilateral meetings w
 
 [Data](articles/409b3691.json)
 
+[Extended Data](ext_articles/409b3691.ext.json)
+
 ---
 
 ### BALPP announces new course ‘Executive Credential in Leadership and Public Policy’
@@ -110,6 +116,8 @@ As Sri Lanka navigates through a crisis of leadership, political direction and g
 
 [Data](articles/43123656.json)
 
+[Extended Data](ext_articles/43123656.ext.json)
+
 ---
 
 ### Sri Lanka elected to United Nations Economic and Social Council
@@ -125,6 +133,8 @@ As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts 
 ...
 
 [Data](articles/527a0318.json)
+
+[Extended Data](ext_articles/527a0318.ext.json)
 
 ---
 
@@ -150,6 +160,8 @@ Speaking at the Collective’s National Conference in Maharagama, Seneviratne sa
 
 [Data](articles/dc478f4c.json)
 
+[Extended Data](ext_articles/dc478f4c.ext.json)
+
 ---
 
 ### Lawyers’ Collective opposes President’s proposal to extend AG’s term
@@ -164,6 +176,8 @@ The Collective recalled a similar situation in 2008 when an attempt to extend th
 
 [Data](articles/359d8c94.json)
 
+[Extended Data](ext_articles/359d8c94.ext.json)
+
 ---
 
 ### Warm welcome to President in India
@@ -175,6 +189,8 @@ President Ranil Wickremesinghe received a warm welcome including a performance b
 ◼️
 
 [Data](articles/707feb5d.json)
+
+[Extended Data](ext_articles/707feb5d.ext.json)
 
 ---
 
@@ -200,6 +216,8 @@ One man, Abdel Salam Darwish, told the BBC he was in a market buying vegetables 
 
 [Data](articles/c526ec97.json)
 
+[Extended Data](ext_articles/c526ec97.ext.json)
+
 ---
 
 ### USAID supports SL in enhancing investment climate through commercial Alternative Dispute Resolution
@@ -215,6 +233,8 @@ The United States, through the United States Agency for International Developmen
 ...
 
 [Data](articles/d041d063.json)
+
+[Extended Data](ext_articles/d041d063.ext.json)
 
 ---
 

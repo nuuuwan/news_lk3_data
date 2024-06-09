@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 16:04:38**
+As of **2024-06-09 16:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,370** Articles*
+*Scraped **29,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,110 @@ adalk | 2,504
 adaderanalk | 3,324
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
-dailymirrorlk | 4,662
-adaderanasinhalalk | 4,722
+dailymirrorlk | 4,665
+adaderanasinhalalk | 4,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,368 (100.0%) of 29,370 articles have been extended.
+29,370 (100.0%) of 29,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### අතුරුදන් වූ සිව්දරු මව පිඹුරෙකුගේ උදරයේ
+### NTC, SLTB advised to assign more buses to avoid inconvenience to railway commuters
+
+*2024-06-09 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-SLTB-advised-to-assign-more-buses-to-avoid-inconvenience-to-railway-commuters/108-284428) · `en`
+
+Colombo, June 9 (Daily Mirro) - The Transport Ministry advised the National Transport Commission (NTC) and the Sri Lanka Transport Board (SLTB) to assign more buses for railway commuters to avoid the inconvenience caused to them in reaching their workplaces tomorrow morning.
+
+It has been brought to the attention of the Transport Ministry that railway commuters are facing severe inconvenience due to the ongoing strike by locomotive drivers since last Friday (7).
+
+Accordingly, it has been advised to increase the number of buses to reach Colombo from Avissawella, Polgahawela, Aluthgama, Panadura, Chilaw, Gampaha and Negombo.
+
+The Ministry has also advised the NTC and SLTB to operate buses outside of the joint schedule by considering the situation as a special occasion.
+
+The Ministry expressed its regrets for the inconvenience caused to the passengers in this regard.
+
+◼️
+
+[Data](articles/098fdeea.json)
+
+---
+
+### 13 වන සංශෝධනය ක්‍රියාත්මක කරනවා - සජිත්
+
+*2024-06-09 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197563) · `si`
+
+තමන් බලයට පැමිණීමෙන් අනතුරුව 13 වන සංශෝධනය ක්‍රියාත්මක කරන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර ඇත්තේ අද (09) කිළිනොච්චිය භාරතී විද්‍යාලයට සක්වල වැඩසටහන යටතේ සුහුරු පන්තිකාමරයක් පරිත්‍යාග කිරීමේ අවස්ථාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසා ඇත්තේ සිංහල වුවත් දමිළ වුවත් බර්ගර් වුවත් මුස්ලිම් වුවත් එක මවගේ දරුවන් ලෙස අත්වැල් බැඳ ගෙන රට ගොඩ නැගීමට එකතු වන ලෙසටය.
+
+13 වැනි සංශෝධනය ගැන පැවසීමේදී විවිධ නායකයින් බියවන බවත් ඔවුන් දේශපාලන අවස්ථාවාදීන් වුවත් තමන් කෙළින් කතා කරන අයකු ලෙස 13 වැනි සංශෝධනය ක්‍රියාත්මක කරනා බවත් එහිදී විපක්ෂනායකවරයා පවසා තිබේ.
+
+◼️
+
+[Data](articles/09212002.json)
+
+---
+
+### Missing four-missing four-stakes
 
 *2024-06-09 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197562) · `si`
 
-පිඹුරෙකුට ගොදුරු වීමෙන් කාන්තාවක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A woman was found dead in a python's stomach after disappearing from her village. Villagers searched for her, and foreign media reported the discovery.
 
-එම කාන්තාව මීට දින කිහිපයකට පෙර අතුරුදන්ව ඇති අතර ගම්වාසීන් එක්ව ඇයව සෙවීමට මෙහෙයුමක් ආරම්භ කර ඇත.
+🟩
 
-එහිදී දැවැන්ත උදරයක් සහිත පිඹුරෙකු සොයාගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that a woman has died after being victims of a preep.
 
-අනතුරුව පිඹුරාගේ උදරය තුළින් මියගොස් සිටි කාන්තාවගේ සිරුර සොයාගෙන ඇති බව එම වාර්තා සඳහන් කරයි.
+The woman had disappeared a few days ago and the villagers have launched a mission to search for her.
+
+Foreign media reports that a pipe with a huge abdomen has been found.
+
+The body of the woman who was killed in the pimpa's abdomen was found.
 
 ◼️
 
 [Data](articles/b35a8239.json)
+
+[Extended Data](ext_articles/b35a8239.ext.json)
+
+---
+
+### How it happened...
+
+*2024-06-09 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/How-it-happened/110-284427) · `en`
+
+The stretch of road at Pahala Kadugannawa on the Colombo-Kandy road was closed for traffic to remove unstable rocks and branches of trees along this section of the road. Captured here is how the unstable rocks and tree branches were removed. However, the stretch of road was reopened today after clearing the area.
+
+◼️
+
+[Data](articles/3045e776.json)
+
+---
+
+### Ongoing railway strike disrupts services, cancels 48 trains
+
+*2024-06-09 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-railway-strike-disrupts-services-cancels-48-trains/108-284426) · `en`
+
+Colombo, June 9 (Daily Mirror) - A total of 35 trains were canceled this morning due to the ongoing strike by the Sri Lanka Railways Locomotive Operating Engineers’ Union.
+
+The strike, which began at midnight on June 6, is now on its third day.
+
+Despite the cancellations, 41 trains were still able to operate this morning.
+
+According to a senior official from the Railways Department, measures were taken to ensure all-night mail trains ran on June 7 and 8, with plans to continue running night mail services today.
+
+The strike is based on several demands including issues pertaining to the promotions of locomotive drivers, and delays in recruitment.
+
+◼️
+
+[Data](articles/296fc519.json)
 
 ---
 
@@ -70,21 +146,29 @@ Therefore, a new budget will not be presented at the end of this year for the fi
 
 ---
 
-### විදේශ රැකියා ගැන රජයෙන් හදිසි තීරණයක්
+### Emergency decision on foreign employment
 
 *2024-06-09 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197560) · `si`
 
-රජය වෙත ලැබෙන විදේශ රැකියා අවස්ථාවන්ගෙන් සියයට 25ක් විශ්‍රාමික රණවිරුවන් වෙනුවෙන් ලබාදීමට තීරණය කර ඇති බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+The Defense Minister announced that 25% of foreign jobs offered by the government have been allocated to retired war veterans, with the first group set to depart for Israel soon. The initiative aims to support the families of fallen war heroes, prioritizing them for essential services like healthcare, public administration, and banking. Additionally, the government plans to grant land ownership rights and offer concessional loans to military personnel and their families.
 
-ඒ අනුව එහි පළමු කණ්ඩායම මෙම මස අවසානයේ ඊශ්‍රායලය බලා පිටත්ව යාමට නියමිත බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+🟩
 
-විශ්‍රාමික හා වෛද්‍ය හේතූන් මත විශ්‍රාම ගැන්වූ හමුදා සාමාජිකයන්ගේ සහ යුද්ධයේදී ජීවිත පරිත්‍යාග කළ රණවිරුවන්ගේ පවුල්වල සාමාජිකයන්ගේ සුභසාධනය සහ පරිපාලන කටයුතු සම්බන්ධව සොයාබැලීම සඳහා මින්නේරිය පාබල පුහුණු මධ්‍යස්ථානයේදී සංවිධානය කර තිබූ වැඩසහනකට එක්වෙමින් ආරක්ෂක රාජ්‍ය අමාත්‍යවරයා මේ බව කියා සිටියේය.
+Defense Minister Pipain Bandara Tennakoon says that 25 percent of foreign employment opportunities received by the government have been given to retired war heroes.
 
-ආරක්‍ෂක අමාත්‍යංශය, ත්‍රිවිධ හමුදාව, රණවිරු සේවා අධිකාරිය සහ අනෙකුත් රාජ්‍ය ආයතන එක්ව සෞඛ්‍ය, රාජ්‍ය පරිපාලන, බැංකු කටයුතු සහ අනෙකුත් සේවාවන් ලබාගැනීමේදී රණවිරු පවුල්වල සාමාජිකයන් සඳහා ප්‍රමුඛත්වය ලබාදීමේ වැඩපිළිවෙලක් ක්‍රියාත්මක කිරීමට නියමිත බව ද එහිදී ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා සඳහන් කළේය.
+Accordingly, its first batch will leave for Israel at the end of this month, the State Minister added.
+
+He was speaking at a program organized at the Minneriya Infantry Training Center to investigate the welfare and administrative activities of the families of members of the war heroes who donated their lives in retired and the families of war heroes.
+
+The Defense Ministry, the Armed Forces, Ranaviru Seva Authority and other government agencies are to be implemented to provide priority to the members of war heroes and other services to obtain health, public administration, banking and other services.
+
+The State Minister stated that the government will issue permits for the ownership of the land and their families under the "Heritage" inherited Deeds to the Government.
 
 ...
 
 [Data](articles/859dbea4.json)
+
+[Extended Data](ext_articles/859dbea4.ext.json)
 
 ---
 
@@ -2083,95 +2167,5 @@ Accordingly, they decided to give the Australian team first to bat first.
 [Data](articles/786a6a62.json)
 
 [Extended Data](ext_articles/786a6a62.ext.json)
-
----
-
-### A young man caught with 31 kg Kerala cannabis
-
-*2024-06-08 21:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/31-கிலோ-கேரளா-கஞ்சாவுடன்-சிக்கிய-இளைஞன்/71-338622) · `ta`
-
-In Jaffna, a youth was arrested with 31 kg of Kerala ganja after soldiers, acting on intelligence tips, found him hiding cannabis packages in the Vadamarachchi sandal area. The cannabis, weighing 31 kg, has been turned over to the Point Pedro Police for legal proceedings.
-
-🟩
-
-A youth has been arrested with 31 kg Kerala ganja in the Jaffna - Vadamarachchi sandal area.
-
-Soldiers rushed to the scene and arrested the youth with cannabis packages on the basis of confidential information received by the Army Intelligence Unit that a young man was hiding cannabis packs in the area.
-
-Army sources said that the rescued cannabis packages were 31 kg and the arrested youth and the recovered cannabis had been handed over to the Point Pedro Police for further legal action.R
-
-◼️
-
-[Data](articles/f203f338.json)
-
-[Extended Data](ext_articles/f203f338.ext.json)
-
----
-
-### Four hostage rescues
-
-*2024-06-08 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197541) · `si`
-
-Noah rescued four Israelis on October 7, in a joint operation by the Israeli Special Army Corps and police, following a brutal attack in Central Gaza. The incident resulted in deaths among Hamas militants and Palestinian civilians.
-
-🟩
-
-On October 7, Noah had rescued four Israeli people.
-
-The Israeli Special Army Corps and the police jointly rescued them after a terrible attack on the Central Gaza this afternoon.
-
-Hamas militants and a large number of Palestinian civilians have died due to the attacks.
-
-◼️
-
-[Data](articles/b62f42e8.json)
-
-[Extended Data](ext_articles/b62f42e8.ext.json)
-
----
-
-### Youth arrested with 31 kg Kerala ganja in Jaffna
-
-*2024-06-08 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185625) · `ta`
-
-A youth was arrested in Jaffna with 31 kg of Kerala ganja based on intelligence tips. Soldiers found the drugs in the Vadamarachchi area and turned the suspect and cannabis over to the police for prosecution.
-
-🟩
-
-Soldiers rushed to the scene and arrested the youth with ganja packages on the basis of confidential information received by the Army Intelligence Unit that a young man smuggled Kerala cannabis packs in the Vadamarachchi sandal area.
-
-Army sources said that the rescued cannabis packages were 31 kg and the arrested youth and the recovered cannabis had been handed over to the Point Pedro Police for further legal action.
-
-◼️
-
-[Data](articles/d9679428.json)
-
-[Extended Data](ext_articles/d9679428.ext.json)
-
----
-
-### Prison notice of chicken chminism
-
-*2024-06-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197540) · `si`
-
-Chaminda, known as Chick Chaminda, was hospitalized after being detained at Anuradhapura Teaching Hospital under a prison officer's protection. He allegedly assaulted a fellow inmate, leading to an investigation initiated by the Superintendent of Prisons, who clarified that Chaminda was not assaulted by another prisoner.
-
-🟩
-
-Chaminda alias Chaminda, or "Chick Chaminda" has issued a statement regarding the hospitalization of Kodaragala.
-
-The suspect was detained under the protection of the prison officer in the Anuradhapura Teaching Hospital.
-
-Accordingly, the prison media unit has said that the suspect had assaulted a resident in prison in the prison.
-
-The Superintendent of Prisons has been concluded in the Anuradhapura Prison Spouse, Commissioner General of Prisons and has not been assaulted by the resident of the prison.. Mr. Dissanayaka says.
-
-He also said that the incident had begun an investigation by a jarrror.
-
-◼️
-
-[Data](articles/61ccdf8a.json)
-
-[Extended Data](ext_articles/61ccdf8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 14:04:17**
+As of **2024-06-09 14:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,351** Articles*
+*Scraped **29,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,503
 adaderanalk | 3,321
-tamilmirrorlk | 3,445
-virakesarilk | 4,494
+tamilmirrorlk | 3,446
+virakesarilk | 4,499
 dailymirrorlk | 4,660
-adaderanasinhalalk | 4,717
+adaderanasinhalalk | 4,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,348 (100.0%) of 29,351 articles have been extended.
+29,351 (100.0%) of 29,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### 2025ට අතුරු සම්මත ගිණුමක්
+
+*2024-06-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197558) · `si`
+
+2025 වසර සඳහා නව අයවැයක් ඉදිරිපත් නොවනු ඇති බවත් අතුරු සම්මත ගිණුමක් මගින් එම වසරේ මුල් මාස කිහිපය තුළ වියදම් සිදුකිරීමට බලාපොරොත්තුවන බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඒ අනුව එම අතුරු සම්මත ගිණුම 2025 වසරේ මාර්තු මස අවසන් වනතෙක් ක්‍රියාත්මකවීමට නියමිත බව වාර්තා වෙයි.
+
+මැතිවරණ කැලැන්ඩරයට අනුව මෙම වසර මැතිවරණ වසරක්වන අතර වසර අවසානයේදී ජාතික මැතිවරණයක් පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+
+ඒ අනුව එම මැතිවරණයෙන් පත්වන නව ආණ්ඩුවට ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශයක් එළිදැක්වීමට අවස්ථාව ලබාදෙමින් මේ වසර අවසානයේදී 2025 වසර සඳහා නව අයවැයක් ඉදිරිපත් නොවනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/a61aa5be.json)
+
+---
+
+### பட்டத்தை பாடையில் கட்டி  போராட்டம்
+
+*2024-06-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பட்டத்தை-பாடையில்-கட்டி-போராட்டம்/71-338643) · `ta`
+
+பல்கலைக்கழக பட்டத்தை பாடையில் கட்டி  வேலையில்லா பட்டதாரிகள் யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை (09)  கவனயீர்ப்பு போராட்டமொன்றை முன்னெடுத்தனர்.
+
+வடக்கு மாகாண வேலையில்லா பட்தாரிகள் சங்கத்தின் ஏற்பாட்டில் யாழ். மாவட்டச் செயலகத்திற்கு முன்னாள் இந்த கவனயீர்ப்பு போராட்டம் மேற்கொள்ளப்பட்டது.
+
+“பட்டம் வீட்டில் பட்டதாரிகள் நடு ரோட்டில்”, “ஒரே  ஒரு   பரீட்சையில்  பறந்து போனது பல பரீட்சை எழுதிப் பெற்ற பட்டம்”,“வேண்டும் வேண்டும் நீதி வேண்டும்”,“எமக்கான வாழ்க்கையை நாம் எப்போது வாழ்வது”,“படிப்பிற்க்கும் போராட்டம் வேலைக்கும் போராடுவதா”, “எல்லோருக்கும் பாரபட்சமின்றி வேலைகளை வழங்க வேண்டும்”,“படித்ததக்கு கூலிதொழிலா”? ”கடைசி வரைக்கும்,படித்தவர்கள் இந்த நாட்டின் சாபக்கேடுகளா?”,“பல வருட கனவு வெறும் கனவாகவே போய்விடுமா?”,“படித்தும்  பரதேசிகளாக திரிவதா? ”என கோஷங்கள் எழுப்பப்பட்டதுடன்
+
+அனைத்து பட்டதாரிகளுக்கும் பாரபட்சமின்றி வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி போராட்டம் முன்னெடுக்கப்பட்டது.
+
+...
+
+[Data](articles/8f01633f.json)
+
+---
+
+### ශ්‍රී ලංකාව ECOSOC වෙත තේරීපත්වෙයි
+
+*2024-06-09 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197557) · `si`
+
+එක්සත් ජාතීන්ගේ ආර්ථික සහ සමාජයීය කවුන්සිලය (ECOSOC) වෙත ශ්‍රී ලංකාව තේරී පත්වී තිබේ.
+
+එහි සාමාජික රටවල් 189න් ඡන්ද 182ක් හිමිකරගනිමින් ශ්‍රී ලංකාව මෙලෙස එක්සත් ජාතීන්ගේ ආර්ථික සහ සමාජයීය කවුන්සිලය වෙත තේරී පත්ව ඇත.
+
+ඒ අනුව ශ්‍රී ලංකාවට එහි 2025 ජනවාරි 1 වනදා සිට ක්‍රියාත්මක වන පරිදි වසර තුනක ධුර කාලයක් හිමිවෙයි.
+
+ශ්‍රී ලංකාව ලබාගත් මෙම ජන්ද ප්‍රමාණය කලාපයේ රටක් ලබාගත් දෙවන ඉහළම ඡන්ද ප්‍රමාණය බවට පත්විය.
+
+ශ්‍රී ලංකාව මීට පෙර 1985 – 1989 සහ 2006 – 2008 දක්වා එක්සත් ජාතීන්ගේ ආර්ථික හා සමාජ කවුන්සිලයට සඳහා තේරී පත්වී තිබේ.
+
+◼️
+
+[Data](articles/0d03afb9.json)
+
+---
 
 ### Sri Lanka’s IMF programme aimed to succeed by improving governance. Will it?
 
@@ -44,23 +100,31 @@ According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri
 
 [Data](articles/f2d1ea41.json)
 
+[Extended Data](ext_articles/f2d1ea41.ext.json)
+
 ---
 
-### පාසල් ළමුන් රැගෙන ගිය බස් රථයක් පෙරලී 13ක් රෝහලේ
+### Thirte injured 13 buses hospitalized
 
 *2024-06-09 13:29:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-රැගෙන-ගිය-බස්-රථයක්-පෙරලී-13ක්-රෝහලේ/11-410096) · `si`
 
-පාසල් ශිෂ්‍යාවන් 26 දෙනෙකු හා දෙමාපියන් පිරිසක් ගමන් ගත් බස් රථයක් අද(09)දින අලුයම වරකාපොල නගරයේ ඇති අනාරක්ෂිත ඇලකට පෙරළීමෙන් පාසල් ශිෂ්‍යාවන් ඇතුළුව 13 දෙනෙකු තුවාල ලබා වරකාපොළ මූලික රෝහල වෙත ඇතුළත් කළ බව වරකාපොල පොලිසිය පවසයි .
+In April, 13 schoolgirls and parents were hospitalized after an accident involving 26 tuk-tuks and 11 buses in Malabe. The incident occurred around 3:15 am, with 13 injuries reported. Two students' conditions were critical; the rest were not seriously hurt. The bus driver will face charges at the Warakapola and Vickramaratne police stations.
 
-මාලඹේ රාහුල බාලිකා විද්‍යාලයේ බාල දක්ෂිකාවන් 26 දෙනෙකු හා දෙමාපියන් 11දෙනෙකු  අලුයම 03.15ට පමණ පාසලෙන් පිටත්වී  රන්ටැඹේ බාල දක්ෂ පුහුණු කඳවුර බලා පිටත්ව යමින් සිටියදී  අලුයම 5.45ට පමණ වරකාපොල තැපැල් කන්තෝරුව ඉදිරිපිට වංගුවත් සමග ඇති අනාරක්ෂිත ඇළට පෙරළීමෙන් මෙම අනතුර සිදුව තිබිණ .
+🟩
 
-මෙම අනතුරින් බස් රථයේ ගමන් ගත් ශිෂ්‍යාවන් ඇතුළුව දහතුන් දෙනකු තුවාල ලබා ඇති බවත් ඔවුන්ගෙන් ශිෂ්‍යාවන් දෙදෙනෙකුගේ හැර අන් අයගේ තත්ත්වය බරපතළ නොවන බවත්  රෝහල් ආරංචි මාර්ග පවසයි
+Thirteen schoolgasts and a group of parents were admitted to the Warakapola Police, including school girls in the morning of Warakapola in April.
 
-සිද්ධිය සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන වරකාපොල අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර වරකාපොළ පොලිසියේ පොලිස් සැරයන් (34590) වික්‍රමරත්න  ,පොලිස් සැරයන් (49871) සමන් යන නිලධාරීන් විසින් වැඩිදුර පරීක්ෂණ සිදු කරනු ලබයි.
+The accident had occurred when 26 large talets and 11 parents were leaving school in Malabe at about 03.15 am while 11 am.
+
+Thirteen wounds and thirteen were injured in the buses and the condition of others except two students, hospital sources said they were not serious
+
+The bus driver is to be produced before the Warakapola Police (34590), Vickramaratne Police (39871).
 
 ◼️
 
 [Data](articles/cb1ee254.json)
+
+[Extended Data](ext_articles/cb1ee254.ext.json)
 
 ---
 
@@ -81,6 +145,18 @@ The injured students and parents were admitted to the Warakapola Hospital for tr
 [Data](articles/107a5469.json)
 
 [Extended Data](ext_articles/107a5469.ext.json)
+
+---
+
+### ‘தமிழ் மக்கள் பொதுச்சபை’ ஜனநாயக பேரியக்கமாக வளருமா?
+
+*2024-06-09 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185661) · `ta`
+
+ஜனாதிபதித் தேர்தலை பொது வாக்கெடுப்பாக கொள்வதையும் சுமந்திரன் ஏற்றுக்கொள்ளவில்லை. 1977ஆம் ஆண்டு தேர்தலிலேயே பொது வாக்கெடுப்பு வெற்றி பெறவில்லை. தமிழர் விடுதலை கூட்டணிக்கு வடக்கு, கிழக்கில் 50 சதவீதத்துக்கு குறைவான வாக்குகளே கிடைத்திருந்தன. புத்தளம் மாவட்டத்தில் வழங்கப்பட்ட வாக்குகளையும் சேர்த்தே 50 சதவீதம் கிடைத்ததெனக் கூறியிருந்தார்...
+
+◼️
+
+[Data](articles/eb8316af.json)
 
 ---
 
@@ -378,6 +454,30 @@ Stolen gold from civilians during the final stages of the war was reportedly con
 
 ---
 
+### இந்தியாவை அணுகுதல்
+
+*2024-06-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185645) · `ta`
+
+“இந்தியப் பிரதமர் மோடிக்கு வாழ்த்துச் செய்தியை அனுப்பும் தமிழ்த் தலைவர்கள் இந்தியா கூறும் ஒற்றுமை பற்றிச் சிந்திப்பார்களா என்பதுதான் பிரதான கேள்வியாகிறது”
+
+◼️
+
+[Data](articles/50a589b0.json)
+
+---
+
+### திரும்பிப் பார்ப்பாரா மோடி?
+
+*2024-06-09 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185647) · `ta`
+
+தெற்காசிய பிராந்தியத்தில் இந்தியாவின் வெளியுறவு கொள்கையை சமமான நிலையில் முன்னெடுத்துச் செல்வதில் பா.ஜ.க. குழப்பங்களை விளைவித்திருக்கிறது. அடுத்த ஐந்து ஆண்டுகளில் நொடியேனும் மோடி அயர்ந்துபோனால், அவருக்கு முட்டு கொடுத்துக்கொண்டிருக்கின்ற கட்சிகளை, இழுத்து ஆட்சி அமைக்கக்கூடிய வல்லமையுடன் இருக்கிறது ‘இந்தியா’ கூட்டணி’...
+
+◼️
+
+[Data](articles/d6c68f49.json)
+
+---
+
 ### Bus topples into canal in Warakapola; 13 including students injured
 
 *2024-06-09 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99755/bus-topples-into-canal-in-warakapola-13-including-students-injured-) · `en`
@@ -498,6 +598,30 @@ Minister Pathirana, however, recognized the project’s significance and its pot
 
 ---
 
+### மோடியின் பெரும்பான்மை கனவை தகர்த்த ‘இந்தியா'!
+
+*2024-06-09 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185642) · `ta`
+
+தமிழக மக்கள் மதத்தையும் அரசியலையும் வெவ்வேறாக பார்ப்பவர்கள் என்ற செய்தி மோடிக்கு தெரியாமலில்லை. எனினும் தி.மு.க அரசை மிக மோசமாக விமர்சிக்கும் பொறுப்பை அவர் தமிழக பா.ஜ.க தலைவர் அண்ணாமலைக்கு வழங்கினார். திராவிட முன்னேற்ற கழகம் நாத்திகவாத கட்சியாக இருப்பதால் அது தமக்கு சாதகமாக இருக்கும் என்ற நினைப்பும் பொய்த்துப்போனது.
+
+◼️
+
+[Data](articles/01599eb5.json)
+
+---
+
+### வெளியுறவுக் கொள்கையை வகுக்கக் கோரும் மேற்குலகம்
+
+*2024-06-09 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185639) · `ta`
+
+தமிழ் மக்கள் தமது சுதந்திரத்திற்கான வேட்கையை கொண்டுசெல்லும் திறனை குறைக்கும் வகையில் கொண்டுவரப்பட்ட 6ஆவது திருத்தச் சட்டம் முலம் சர்வதேச அடிப்படை மனித உரிமைகளில் ஒன்றான  பேச்சு சுதந்திரம் முடக்கப்பட்டமை, தமிழ் மக்களிடம் கலந்தாலோசிக்கபடாமல் 1987இல் திணிக்கபட்ட 13ஆம் திருத்த சட்டம் கூட நடைமுறைபடுத்தப்படாத நிலை. மேலும் 2006 ஜூன் முதலாம் திகதி யுத்த காலத்தில்  தெற்கு மற்றும் மத்திய ஆசிய பிராந்திய பதில் இராஜாங்க செயலராக இருந்த ரிச்சட் பௌச்சர் ஏற்கனவே தமிழ் மக்களின் கோரிக்கைகளில் நியாயம் இருக்கிறது என்றதுடன் நீண்டகால அரசியல் தீர்வு ஒன்றுக்கான வாக்குறுதி தந்ததையும் அத்தீர்மானம் நினைவுபடுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/392940b8.json)
+
+---
+
 ### STF seize Kerala cannabis worth Rs. 10 million at Point Pedro
 
 *2024-06-09 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99754/stf-seize-kerala-cannabis-worth-rs-10-million-at-point-pedro-) · `en`
@@ -516,21 +640,27 @@ The Yakkaru Police Special Task Force is continuing further investigations into 
 
 ---
 
-### කරාතේ කලු පටි ‍ශූර නිවුන් සොහෝයුරියෝ උසස්පෙළටත් ඒ තුන බැගින් ලබති
+### Karate Black Twin Soourao receives three respectively
 
 *2024-06-09 10:49:54* · [`adalk`](https://www.ada.lk/sports/කරාතේ-කලු-පටි-‍ශූර-නිවුන්-සොහෝයුරියෝ-උසස්පෙළටත්-ඒ-තුන-බැගින්-ලබති/9-410089) · `si`
 
-අම්බලන්ගොඩ ජේ.කේ.එස්.කරාතේ පුහුණු මධයස්ථානයෙන් කරාතේ පුහුණුව ලබන එම්.ජී.මහේෂිකා සෙව්වන්දි සහ එම්.ජී.මධුෂිකා සෙව්වන්දි නිවුන් සොහෝයුරියෝ මෙවර අධයන පොදු සහතික උසස් පෙළ විභාගයෙන් තමන් මුහුණදුන් විෂයයන් තුනටම ඒ සාමාර්ථ ලබාගෙන තිබේ.
+Karate twins MG Samahika Sawandy and MG Nimasika Sewandala, trained at JKS VSS Office, Ambalangoda, excelled in all GCE A-Level subjects. They are black belts from Neluwa National School, Galle, achieving all Sri Lanka Karate vows alongside their academic success. Their simultaneous dedication to education and karate training highlights their comprehensive skills development.
 
-ගාල්ල නෙළුව ජාතික පාසලෙන් වාණිජ විෂය ධාරාවෙන් මුහුණදුන් මේ නිවුන් සොහොයුරියන් කරාතේ කළු පටි ශේණිධාරීන්ය.
+🟩
 
-ඔවුන් දෙදෙනා අධයාපනයට අමතරව කරාතේ ක්‍ර‍ිඩාවෙන් මේ වනවිට ලබාඇති සමස්ත ලංකා ජයගහණ රැසකි.
+MG Samahika Sawandy, MG Nimasika Sewandala, who has been trained from the JKS VSS Office of the Ambalangoda has obtained these passes to all three subjects faced by the GCE Advanced Level Examination.
 
-ක්‍ර‍ිඩාවට මෙන්ම අධයාපනයටද එකසේ දසකම් දක්වන මේ නිවුන් සොහොයුරියන් පාසලේදී මෙන්ම කරාතේ පුහුණු මධයස්තානයේදී සිවිශේෂී හැකියාවන්ගෙන් දක්වන අයවීම විශේෂයෙන්ම කැපී පෙනේ.
+These twins are black belts of Karate, who faced the currency stream from Neluwa National School, Galle.
+
+All Sri Lanka vows have already been achieved by the karate in addition to the education of the karate.
+
+The twink of the twin, which is simultaneously given to the education and education, is particularly significant at school as well as the comprehensive capabilities of the Karatra Training Center.
 
 ◼️
 
 [Data](articles/ce784f58.json)
+
+[Extended Data](ext_articles/ce784f58.ext.json)
 
 ---
 
@@ -2065,175 +2195,5 @@ From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in 
 [Data](articles/9d6eeb30.json)
 
 [Extended Data](ext_articles/9d6eeb30.ext.json)
-
----
-
-### New city for the people on either side of the Kelani River
-
-*2024-06-08 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/කැලණි-ගඟ-දෙපස-සිටින-ජනතාව-වෙනුවෙන්-නව-නගරයක්/11-410081) · `si`
-
-In response to the Kelani River floods, the government has allocated Rs. 10,000 to each affected household, plans to rebuild damaged homes, and launched health programs to combat potential epidemics. A new city is proposed for both riverbanks, featuring essential facilities like hospitals and schools. This initiative aims to provide comprehensive relief and long-term solutions to mitigate future flood impacts.
-
-🟩
-
-- The flood victims are one of the cures of the people, said Sagala Ratnayake.
-
-Senior Advisor to the Presidential Advisor and Presidential Staff Head of the President Sagala Ratnayake said that every house affected household has been paid Rs. 10,000.
-
-He said that the amount of assessment reports on the house is being provided with the purposes of the house, he added that the immediate action will be implemented soon after receiving valuation reports on the disaster.
-
-Mr. Sagala Ratnayake made this observation yesterday (07) a surveillance tour yesterday.
-
-Sagala Ratnayake was also to see the houses destroyed in the area of ​​floods and went to the medical clinic of the Kolonnawa Sri Sambudraja Viharaya, who was affected by the affected people.
-
-He then joined the discussion and the discussion of the government's program to provide relief to the affected people in the Kolonnawa Divisional Secretariat.
-
-Speaking to the media, Mr. Sagala Ratnayake said,
-
-...
-
-[Data](articles/d9404ef7.json)
-
-[Extended Data](ext_articles/d9404ef7.ext.json)
-
----
-
-### Shavendra Silva extensors
-
-*2024-06-08 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වාට-සේවා-දිගුවක්/11-410080) · `si`
-
-President Ranil Wickremesinghe appointed General Shavendra Silva as Chief of Defense Staff. A special gazette notification was issued from June 1 to December 31, 2024, formalizing this decision.
-
-🟩
-
-President Ranil Wickremesinghe has arranged for the Chief of Defense Staff General Shavendra Silva.
-
-Accordingly, a special gazette notification has been issued from June 1 to 31 December 2024.
-
-◼️
-
-[Data](articles/30028e76.json)
-
-[Extended Data](ext_articles/30028e76.ext.json)
-
----
-
-### The toss of the coin to the African team
-
-*2024-06-08 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197534) · `si`
-
-In the 2023 Cricket World Cup, the Netherlands and South Africa teams agreed to let the African team bat first after tossing a coin.
-
-🟩
-
-The Netherlands team and South African team will play between the 20 World Cup.
-
-Accordingly, they decided to deliver the opportunity to bat first.
-
-◼️
-
-[Data](articles/e2c8e749.json)
-
-[Extended Data](ext_articles/e2c8e749.ext.json)
-
----
-
-### If you find this student, please information ...
-
-*2024-06-08 19:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்த-மாணவியைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/76-338621) · `ta`
-
-A student named Harivathani from Kandy's Kellapoka Madulgalai area has been missing since Friday. Her family requests anyone with information to contact them at +94 78 171 3389.
-
-🟩
-
-A student from the Kellapoka Madulgalai area of ​​Kandy has been reported missing for the past two days.
-
-Her sister said that a student named "Harivathani" has been missing from Friday at the police station.
-
-In this case, those who are informed about the student (+94 78 171 3389 Tilantini). Remble
-
-◼️
-
-[Data](articles/c43c7d4e.json)
-
-[Extended Data](ext_articles/c43c7d4e.ext.json)
-
----
-
-### Warning that reservoirs have reached the level of multiplying
-
-*2024-06-08 19:15:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீர்த்தேக்கங்கள்-பெருக்கெடுக்கும்-அளவை-எட்டியதாக-எச்சரிக்கை/76-338620) · `ta`
-
-Engineers warn that the water levels in Kasalri and Mouseakale reservoirs, due to heavy rainfall, have exceeded the maximum capacities of several hydroelectric power stations, posing a risk.
-
-🟩
-
-The engineers responsible for the reservoirs have said that the water level of the Kasalri and Mouseakale reservoirs has reached the level of heavy rains over the past few days on the western slopes of the central hill country.
-
-The water level of these reservoirs has increased in the maximum capacity of Wimalasurendra, Lakshapana, New Lakshapana, Keniyan and Polpitiya Hydroelectrics.. Remble
-
-◼️
-
-[Data](articles/efcb8728.json)
-
-[Extended Data](ext_articles/efcb8728.ext.json)
-
----
-
-### Sri Lanka elected to UN Economic and Social Council
-
-*2024-06-08 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99746/sri-lanka-elected-to-un-economic-and-social-council) · `en`
-
-Sri Lanka has been elected by the United Nations General Assembly (UNGA) to the United Nations Economic and Social Council (ECOSOC) for a three-year term commencing on 01 January 2025.
-
-At the elections held in New York, on Friday (07 June), Sri Lanka obtained 182 votes, of the 189 member states present and voting, securing the 2nd highest vote count from the region, and the 7th highest number overall, according to the Ministry of Foreign Affairs.
-
-Sri Lanka was previously elected to the ECOSOC from 1985 – 1989 and from 2006 – 2008.
-
-As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide.
-
-...
-
-[Data](articles/aecc3d95.json)
-
-[Extended Data](ext_articles/aecc3d95.ext.json)
-
----
-
-### State Minister to release Sri Lankans to Myanmar today
-
-*2024-06-08 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197533) · `si`
-
-Sri Lanka's Foreign Affairs State Minister Tharaka Balasuriya plans to release citizens from Myanmar's terror camps today. He will also discuss matters with the Thai government, as announced during a media briefing in Kegalle.
-
-🟩
-
-Foreign Affairs State Minister Tharaka Balasuriya says that Sri Lankans who remain in three terror camps in Myanmar.
-
-The Minister of External Affairs also intends to discuss the Thai government.
-
-Speaking to the media in the Kegalle area, the Minister of External Affairs said this.
-
-◼️
-
-[Data](articles/2e7a491a.json)
-
-[Extended Data](ext_articles/2e7a491a.ext.json)
-
----
-
-### Ranil in New Delhi tomorrow to attend Modi’s swearing in ceremony
-
-*2024-06-08 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-in-New-Delhi-tomorrow-to-attend-Modis-swearing-in-ceremony/108-284414) · `en`
-
-New Delhi, June 08 (Daily Mirror)- Indian Prime Minister Narendra Modi will begin his third term tomorrow in New Delhi and Sri Lankan President Ranil Wickremesinghe is expected to reach New Delhi tomorrow to participate in Modi's swearing in ceremony.
-
-President Wickremesinghe is expected to participate in several bilateral meetings as well during his visit, according to officials from the President's office.
-
-◼️
-
-[Data](articles/ab2ffbc5.json)
-
-[Extended Data](ext_articles/ab2ffbc5.ext.json)
 
 ---

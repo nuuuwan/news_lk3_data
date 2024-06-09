@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 18:34:43**
+As of **2024-06-09 18:53:19**
 
 ## Newspaper Stats
 
@@ -26,51 +26,63 @@ adaderanasinhalalk | 4,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,383 (100.0%) of 29,390 articles have been extended.
+29,390 (100.0%) of 29,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ආනයන සීමා මැද රථ වාහන 44,430ක් වෙළෙඳපොළට
+### 44,430 of import limits to the market
 
 *2024-06-09 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197566) · `si`
 
-ආනයන සීමා පැනවූ සමයේදී රථ වාහන 44,430ක් වෙළෙඳපොළට නිකුත් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+During a discussion with local traffic manufacturers, State Minister Dr. Ranjith Siyambalapitiya announced that 44,430 vehicles, including 38,144 motorcycles and 6,286 cars, have been released to the market. Manufacturers emphasized focusing on local assembly post-import restrictions removal, noting vehicle production as a long-term process. The minister assured support for local businesses' growth.
 
-අමාත්‍යවරයා මේ බව සඳහන් කර ඇත්තේ දේශීය රථවාහන නිෂ්පාදකයන් පිරිසක් සමග මුදල් අමාත්‍යාංශයේ පැවැති සාකච්ඡාවක් දීය.
+🟩
 
-ඒ අතර යතුරු පැදි 38,144ක් සහ මෝටර් රථ 6,286ක් වන බව අමාත්‍යවරයා පෙන්වාදී තිබේ.
+State Minister Dr. Ranjith Siyambalapitiya says that 44,430 traffic vehicles have been released to the market during the importation period.
 
-එහිදී රථ වාහන ආනයන සඳහා අවසර ලබාදීම පිළිබඳව ගැඹුරින් සාකච්ඡා කර තිබුණි.
+The Minister was addressing a discussion with local traffic manufacturers.
 
-මෙම හමුවේදී දේශීය රථවාහන නිෂ්පාදකයන් පෙන්වා දී ඇත්තේ ආනයන සීමා ඉවත් කිරීමේ දී සිය දේශීය එකලස් කිරීමේ ව්‍යාපාර පිළිබඳව ද අවධානය යොමු කරන ලෙසටය.
+Meanwhile, 38,144 motorcycles and 6,286 cars are 6,286 cars.
 
-ශ්‍රී ලංකාව තුළ රථ වාහන නිෂ්පාදනය සඳහා මෙම ආනයන සීමා පැනවීම යම් උත්තේජනයක් වී ඇතැයි පැවසූ ඔවුන් පවසා ඇත්තේ රටක් වාහන නිෂ්පාදනය ආරම්භ කිරීම යනු දිගු කාලීන ක්‍රියාවලියක් බවය.
+There were deeply discussed in providing authorization for vehicles imports.
 
-කෙසේ වෙතත් දේශීය ව්‍යාපාර ශක්තිමත් කිරීම කෙරෙහි රජය නිරන්තරයෙන් සහාය දක්වන බවද අමාත්‍ය සියඹලාපිටිය මහතා එහි දී සඳහන් කර ඇත.
+In this meeting, local traffic manufacturers have shown to focus on their local assembly businesses when removing the import restrictions.
+
+They said that the imposition of these imports for automobile production in Sri Lanka, they have said that the commencement of vehicle production is a long term process.
+
+However, Minister Siyambalapitiya stated that the government is constantly supporting the strengthening of local businesses.
 
 ◼️
 
 [Data](articles/d0fbbdf6.json)
 
+[Extended Data](ext_articles/d0fbbdf6.ext.json)
+
 ---
 
-### சாஹிரா கல்லூரி மாணவிகளின் பெறுபேற்றை மாத்திரம் வெளியிடாதுள்ளமை அநீதியானது ; பாராளுமன்றத்தை கலைக்கும் அதிகாரம் ஜனாதிபதிக்கே உள்ளது - ரிசாட் பதியுதீன்
+### It is unjust that the results of Zahira College students have not only published;The President has the power to dissolve parliament - Risad Bathiudeen
 
 *2024-06-09 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185680) · `ta`
 
-அரசியலாட்சி அமைப்பின்படி, சட்டப்படி 112 நாட்களில் புதிய ஜனாதிபதி கதிரையில் அமர வேண்டும் எனவும் ஜனாதிபதிக்கே பாராளுமன்றத்தை கலைத்து தேர்தலை நடத்த அதிகாரம் இருக்கிறது என்றும் அகில இலங்கை மக்கள் காங்கிரஸின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிசாட் பதியுதீன் தெரிவித்தார்.
+Risad Bathiudeen criticized the delay in publishing Zahira College students' results, calling it unjust. He mentioned the President's power to dissolve parliament within 112 days and hold elections. Bathiudeen highlighted the unfair treatment of Zahira College students compared to others, emphasizing the college's achievements in medical and engineering fields over the past decade. He promised to seek justice both in Parliament and outside the courts.
 
-அத்தோடு, திருகோணமலை சாஹிரா கல்லூரி மாணவிகளின் பெறுபேற்றை மாத்திரம் வெளியிடாதுள்ளமை அநீதியானது என்றும் அவர் கூறியுள்ளார்.
+🟩
 
-திருகோணமலை சாஹிரா கல்லூரிக்கு இன்று ஞாயிற்றுக்கிழமை (09) விஜயம் செய்த ரிசாட் பதியுதீன், அப்பாடசாலையில் உயர்தரப் பரீட்சை எழுதிய 70 மாணவிகளின் பரீட்சை பெறுபேறுகள் வெளியாகாத விடயம் தொடர்பில் பாடசாலையின் அதிபர், பாடசாலை அபிவிருத்தி சங்க உறுப்பினர்கள், பெற்றோர்கள், மாணவர்களுடன் கலந்துரையாடினார்.
+All Ceylon People's Congress President and Member of Parliament, Risad Bathiudeen, said that according to the Constitutional Association, the new president should sit on the new president in 112 days and the president has the power to dissolve parliament and hold elections.
 
-சாஹிரா கல்லூரி மாணவர்கள் பரீட்சை எழுதிய அதே மண்டபத்தில், அதே உடை அணிந்து வேறு பாடசாலையின் முஸ்லிம் மாணவிகள் பத்து பேர் பரீட்சை எழுதியிருந்தனர். அவர்களுக்கு பெறுபேறுகள் வெளியாகின. ஆனால், சாஹிரா கல்லூரி மாணவிகளில் மாத்திரம் கண்வைத்து இவ்வாறான நடவடிக்கைகளை மேற்கொள்வது அநீதியாகும்.
+He also said that it was unjust that the students of Zahira College, Trincomalee were not released.
+
+Risad Bathiudeen, who visited the Zahira College in Trincomalee today (09), discussed with the school's principal, school development association members and parents on the issue of not being released.
+
+In the same hall who wrote the Sahira College students, ten Muslim students of the other school were wearing the same dress.. The results of them were released. But it is unjust to take such activities with only the students of Zahira College.
 
 ...
 
 [Data](articles/4f59ef8b.json)
+
+[Extended Data](ext_articles/4f59ef8b.ext.json)
 
 ---
 
@@ -130,41 +142,55 @@ Police said that the two suspects are residents of the Nalluruwa and Morawinna a
 
 ---
 
-### கொழும்பிலிருந்து யாழ். சென்று போலி நாணயத்தாள்கள் அச்சிடும் இயந்திரத்தை விற்பனை செய்ய முயன்றவர் கைது : குடும்பத்தினர் தலைமறைவு!
+### Jaffna from Colombo. Arrested to go and sell fake currencies printing machine: Family hiding!
 
 *2024-06-09 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185674) · `ta`
 
-கொழும்பிலிருந்து குடும்பத்துடன் யாழ்ப்பாணத்துக்கு சென்று, போலி நாணயத்தாள்கள் அச்சிடும் இயந்திரத்தை விற்பனை செய்ய முயன்றவர் கைது செய்யப்பட்டுள்ளதோடு, இந்நபர் கைதான விடயமறிந்த அவரது குடும்பத்தினர் தலைமறைவாகியுள்ளனர்.
+A man from Colombo attempted to sell a fake currency printing machine in Jaffna but was arrested by the Kopay police. His family, staying in Ariyalai, went into hiding after learning about his arrest.
 
-கொழும்பிலிருந்து யாழ்ப்பாணத்துக்கு குடும்பத்தினருடன் சென்ற நபர் ஒருவர் அரியாலை பகுதியில் நாள் வாடகைக்கு வீடொன்றினை பெற்று, குடும்பத்தினருடன் தங்கியுள்ளார்.
+🟩
 
-நேற்று சனிக்கிழமை (8) இந்த நபர் திருநெல்வேலி சந்தையை அண்மித்த பகுதியில் போலி நாணயத்தாள்களை அச்சிடும் இயந்திரம் மற்றும் நாணயத்தாள்களை அச்சிடுவதற்கு பயன்படும் தாள்கள் என்பவற்றை நபர் ஒருவருக்கு விற்பனை செய்யும் நோக்குடன் காத்திருந்தபோது, கோப்பாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The man who went to Jaffna from Colombo to Jaffna and tried to sell a fake currency printing machine and his family had gone into hiding.
 
-போலி நாணயத்தாள்களை அச்சிடும் இயந்திரம் விற்கப்படுவது தொடர்பாக கிடைக்கப்பெற்ற தகவலின் அடிப்படையில், சம்பவ இடத்துக்கு கோப்பாய் பொலிஸார் சென்றவேளையிலேயே அவர் கைது செய்யப்பட்டுள்ளார்.
+A man who went to Jaffna from Colombo to Jaffna has received a house for a day in Ariyalai and stays with his family.
 
-கைதான நபரை பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்த வேளையில், அவர் குடும்பத்துடன் அரியாலை பகுதியில் தங்கியிருப்பது தெரியவந்துள்ளது.
+Yesterday (8), the man was arrested by the Kopay police while waiting for a person to sell fake currency notes in the Tirunelveli market near the Tirunelveli market.
 
-...
+Based on the information available on the selling of fake currency notes, he was arrested at the time of the incident.
+
+It was revealed that he was staying with his family in Ariyalai while he was detained at the police station.
+
+In this case, when the police team rushed to the house, the people in the house escaped.
+
+◼️
 
 [Data](articles/154fea0e.json)
 
+[Extended Data](ext_articles/154fea0e.ext.json)
+
 ---
 
-### யாழில் ஆலய கும்பாபிஷேகத்தில் தாலிக்கொடி உள்ளிட்ட நகைகளை திருடிய பெண் கைது!
+### Woman arrested for stealing jewelery
 
 *2024-06-09 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185676) · `ta`
 
-யாழ்ப்பாணம் கன்னாதிட்டி காளிகோயில் கும்பாபிஷேகத்தில் கலந்துகொண்ட அடியார்களின் தாலிக்கொடி உள்ளிட்ட தங்க நகைகளை திருடிய பெண்ணொருவர் ஞாயிற்றுக்கிழமை (9) கைது செய்யப்பட்டார்.
+A 27-year-old woman from Colombo-Wellampitiya, living in Vavuniya Gardens, was arrested on Sunday for stealing gold jewelry and a talisman from the Kumbabishekam event in Jaffna. The items were found hidden in her underwear when she was detained at the Jaffna police station. She has been transferred to the Jaffna Regional Criminal Investigation Division for further investigation and will face legal proceedings.
 
-கைதான பெண் வவுனியா பூந்தோட்டத்தில் வசிக்கும் கொழும்பு - வெல்லம்பிட்டியைச் சேர்ந்த 27 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அப்பெண்ணை கைது செய்து யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணை நடத்தியபோது, திருடப்பட்ட தாலிக்கொடி மற்றும் தங்க நகைகள் பெண்ணின் உள்ளாடைக்குள்ளிருந்து எடுக்கப்பட்டுள்ளது.
+A woman was arrested on Sunday (9) for stealing gold jewelery, including a talisman of servants who attended the Kumbabishekam in Kannaditti Kalikoil, Jaffna.
 
-இப்பெண், மேலதிக விசாரணைக்காக யாழ்ப்பாணம் பிராந்திய குற்றத்தடுப்பு பிரிவினரிடம் ஒப்படைக்கபட்டு, பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் மேலும் கூறியுள்ளனர்.
+The 27 -year -old from Colombo - Wellampitiya, who lives in the Vavuniya Gardens, is a 27 -year -old, police said.
+
+When the woman was arrested and detained at the Jaffna police station, the stolen talisman and gold jewelery were taken from the woman's underwear.
+
+The woman has been handed over to the Jaffna Regional Criminal Investigation Division for further inquiries and then taken action in court, police said.
 
 ◼️
 
 [Data](articles/2eea4e95.json)
+
+[Extended Data](ext_articles/2eea4e95.ext.json)
 
 ---
 
@@ -344,27 +370,39 @@ The Opposition Leader has said that the 13th Amendment was implemented as a dire
 
 ---
 
-### திருமலை ஸாஹிரா கல்லூரி மாணவிகளின் பெறுபேறுகளுக்கு நடந்தது என்ன?
+### What happened to the results of Tirumalai Zahira College students?
 
 *2024-06-09 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185664) · `ta`
 
-மாணவிகளின் பரீட்சைப் பெறுபேறுகளை வெளியிடாது இடைநிறுத்தி வைத்துள்ளமை பெரும் சர்ச்சைகளை ஏற்படுத்தியுள்ளன. மிகவும் ஆவலுடன் எதிர்பார்த்திருந்த பரீட்சைப் பெறுபேறுகள் வெளிவராமையால் மாணவிகளும் அவர்களின் பெற்றோர்களும் பாடசாலைச் சமூகமும் பெரும் அதிர்ச்சிக்குள்ளாகியுள்ளதுடன், மன உளைச்சலையும் எதிர்கொண்டுள்ளனர்.
+The suspension of Tirumalai Zahira College students' exam results sparked controversy, causing shock and distress among students, parents, and the school community.
+
+🟩
+
+The suspension of students' exam results has caused great controversy. Students, their parents and the school community are in great shock and are in distress, as the results of the examination of the examination.
 
 ◼️
 
 [Data](articles/cd0d61d7.json)
 
+[Extended Data](ext_articles/cd0d61d7.ext.json)
+
 ---
 
-### வவுனியா வடக்கில் மாற்றப்படும் குடிப்பரம்பல் - பாகம் 02
+### Drinking in the north of Vavuniya - Part 02
 
 *2024-06-09 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185670) · `ta`
 
-“இப்பகுதிகளில் பாரியளவில் விவசாய நிலங்கள் காணப்பட்டன. அவை பயன்பாடற்ற நிலையில் இருந்தன. அரசாங்கத்தின் கொள்கைக்கு அமைவாக, நாடளாவிய ரீதியில் இருந்து மக்கள் விவசாய செயற்பாட்டுக்காக மகாவலி திட்டத்தின் கீழ் குடியேற்றப்பட்டனர். அவர்களின் நன்மை கருதி வெலிஓயா பிரதேச செயலகத்தை தரமுயர்த்தும் அதேநேரம் பிரதேச சபையொன்றையும் ஸ்தாபிக்க வேண்டுகின்றேன்” - ரணவன தம்மிக்க தேரர்
+In the northern region of Vavuniya, vast farmlands lay idle until the government's Mahaweli Program resettled farmers nationwide for agriculture. Ranavana Dhammika Thera aims to create a local council and upgrade the Welioya Divisional Secretariat to aid these settlers.
+
+🟩
+
+“There were massive agricultural lands in these areas. They were in uselessness. In accordance with the government's policy, people from all over the country were settled under the Mahaweli Program for agricultural activities. I want to establish a Pradeshiya Sabha while upgrading the Welioya Divisional Secretariat for their benefit ” - Ranavana Dhammika Thera
 
 ◼️
 
 [Data](articles/61480fe3.json)
+
+[Extended Data](ext_articles/61480fe3.ext.json)
 
 ---
 
@@ -1094,21 +1132,33 @@ He was speaking at a media briefing in Galle yesterday (08) at Bangladesh.
 
 ---
 
-### උගන්ඩා ජාතිකයා කොකේන් ලංකාවට ගෙනාපු හැටි
+### How the Ugandan national brought Koakine to Sri Lanka
 
 *2024-06-09 11:37:55* · [`adalk`](https://www.ada.lk/breaking_news/උගන්ඩා-ජාතිකයා-කොකේන්-ලංකාවට-ගෙනාපු-හැටි/11-410092) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය ගුලි වශයෙන් සකස් කර , ඒවා ගිල දමා පැමිණි විදේශීකයෙකු 06/08 දින කටුනායක ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ. මොහු 31 හැවිරිදි වඩු කාර්මික වෘත්තීයේ නියැලෙන උගන්ඩා ජාතිකයෙකි.
+A Ugandan man was arrested at Katunayake airport on 6/8 for carrying cocaine. He was detained by the Police Narcotics Division after being found with 450 grams of the drug. The suspect, a 200-year-old Ugaduwa, was transported to Negombo General Hospital. Tests confirmed the presence of cocaine, which was concealed using cello tape.
 
-ඔහු පිළිබඳ ජාත්‍යන්තර බුද්ධි තොරතුරු පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් වෙත ලැබී තිබූ අතර , ඒ අනුව මොහු අත් අඩංගුවට ගැනීමට පියවර ගෙන තිබුණි .
+🟩
 
-මොහු උගන්ඩාවේ කම්පාලා නුවරින් ගමන් ආරම්භ කර , කටාර් රාජ්‍යයේ දෝහා  වෙත පැමිණ , එතැන් සිට  06/08 දින උදෑසන 09.00  කටාර් ගුවන් සේවයේ කිව්.ආර්.- 664 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+A foreigner was arrested by a group of policemen on 6/08, a foreigner who had developed cocaine, Katunayake airport on 06/08. He is a 200 year old Ugaduwa.
 
-කටුනායක ගුවන් තොටුපොළේ දී පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් මොහු අත් අඩංගුවට ගෙන ස්කෑන් පරීක්ෂා වකට ලක් කිරීමේ දී , මොහුගේ ආමාශය තුළ මෙම කොකේන් මත්ද්‍රව්‍ය ගුලි ඇති බවට කරුණු සනාථ වීම නිසා , මෙම උගන්ඩා ජාතිකයා මීගමුව මහ රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබුණි .
+Officers in the Police Narcotics Division have received international intellectuals about him and has taken steps to arrest him.
 
-...
+He commenced journing from Kampala, Uganda, from that morning, from 06/08 am to Katil Airport on the Katunayake airport.
+
+The Uguda was admitted to the Negombo General Hospital due to the fact that he was arrested by the Police Narcotics Unit at the Katunayake airport.
+
+A spokesperson of the Police Narcotics said that the Uguddha national has been dismissed out of 450 guls worth 450 grackets worth about 450 g of cocaine.
+
+The Scan's stomach is confirmed by the Scan's stomach, as Scan has been confirmed by the doctors of the Negombo Hospital.
+
+The cocaine has been severely prepared using Cello Tape, as well as the Uguda, as well as the Uguda, as well as the Katunayaka Airport, the Katunayake Airport.
+
+◼️
 
 [Data](articles/33333aee.json)
+
+[Extended Data](ext_articles/33333aee.ext.json)
 
 ---
 

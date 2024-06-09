@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 17:04:14**
+As of **2024-06-09 17:18:53**
 
 ## Newspaper Stats
 
-*Scraped **29,376** Articles*
+*Scraped **29,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,504
-adaderanalk | 3,326
+adalk | 2,506
+adaderanalk | 3,327
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,665
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,375 (100.0%) of 29,376 articles have been extended.
+29,376 (100.0%) of 29,379 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Leader of the Opposition Sajith Premadasa assured that he will implement the 13th Amendment to the Constitution after coming to power.
 
-The Samagi Jana Balawegaya (SJB) leader stated this while participating in the occasion of donating a smart classroom to at Bharathipuram Maha Vidyalayam, Kilinochchi, under the ‘Sakwala’ programme.
+The Samagi Jana Balawegaya (SJB) leader stated this while participating in the occasion of donating a smart classroom to Bharathipuram Maha Vidyalayam, Kilinochchi, under the ‘Sakwala’ programme.
 
 Speaking further, Sajith Premadasa urged everyone to join hands “as children of one mother,” regardless of their religions or race, to help rebuild the country.
 
@@ -47,6 +47,26 @@ Premadasa said that various leaders are afraid to speak about the 13th Amendment
 ◼️
 
 [Data](articles/d98ee060.json)
+
+[Extended Data](ext_articles/d98ee060.ext.json)
+
+---
+
+### චීවරධාරියෙකු සමඟ මත්පැන් පානය කර  හැත්තෑ දෙහැවිරිදි  අයෙක් මරුට
+
+*2024-06-09 16:48:08* · [`adalk`](https://www.ada.lk/breaking_news/චීවරධාරියෙකු-සමඟ-මත්පැන්-පානය-කර--හැත්තෑ-දෙහැවිරිදි--අයෙක්-මරුට/11-410098) · `si`
+
+චීවරධාරියෙකු හා එක්ව මත්පැන් පානය කිරීමේ යෙදී සිටි හැත්තෑ දෙහැවිරිදි පුද්ගලයෙකු චීවරධාරියාගේ ප්‍රහාරයකට ලක්ව දඹදෙණිය රෝහලට ඇතුළත් කිරීමෙන් පසු මරණයට පත් වී ඇතැයි ගිරිඋල්ල පොලීසිය කියයි. ඊයේ (08) දින රාත්‍රියේ මෙසේ ප්‍රහාරයකට ලක්ව මිය ගොස් ඇත්තේ ගිරිඋල්ල පොලිස් වසමේ මාරවිට ගල්ගොඩේවත්ත මාරවිට, දඹදෙණිය ලිපිනයේ පදිංචිව සිටි රුවන්පුර අන්දිරිස් සිල්වලාගේ ඇල්බටි සිංඤ්ඤෝ (72) නමැත්තෙකි.
+
+ස්ථිර වාසස්ථානයක් නොමැති චීවරධාරියා කජුලන්දවත්ත ප්‍රදේශයේ පදිංචිව සිටි බවත් ඔහු මිය ගිය පුද්ගලයා සමග මත්පැන් පානය කිරීමේ යෙදී සිටියදී ඇති වූ බහින් බස්වීමකින් පසු මෙසේ ප්‍රහාරයට ලක් වී ඇති බවත් මූලික පොලිස් පරීක්ෂණවලින් හෙළි වී ඇත.
+
+පහරදීම හේතුවෙන්  තුවාලකරු දඹදෙණිය මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් ඇත.
+
+සැකකරු නිවසේ තනිව ජීවත් වී ඇති අතර, හිමිනමගේ මව සහ වැඩිමහල් සහෝදරයා ඥාති නිවසක වෙනම ජීවත්ව සිට ඇත. ඝාතනයෙන් පසුව මව සහ වැඩිමහල් සහෝදරයා තමන් පදිංචිව සිටි නිවසට පැමිණ ඇති අතර, ඝාතනය සිදුවූ ස්ථානයේ තිබූ ලේ පැල්ලම්ද ඔවුන් දෙදෙනා විසින් සෝදා තිබූ බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/02b11c1b.json)
 
 ---
 
@@ -318,6 +338,24 @@ President Ranil Wickremesinghe has visited New Delhi to attend Narendra Modi's s
 
 ---
 
+### මධ්‍යම පරිසර අධිකාරිය හරිත දුම්රියපොල තේරිමේ තරගයෙන් ප්‍රධාන දුම්රිය ස්ථාන දහයක් තොරාගනි
+
+*2024-06-09 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-පරිසර-අධිකාරිය-හරිත-දුම්රියපොල-තේරිමේ-තරගයෙන්-ප්‍රධාන-දුම්රිය-ස්ථාන-දහයක්-තොරාගනි/11-410097) · `si`
+
+මධ්‍යම පරිසර අධිකාරිය මගින් 2024 වසරේ හරිත දුම්රියපොලවල් තේරිමේ වැඩසටහන යටතේ ප්‍රධාන දුම්රිය ස්ථාන අටක් සහ උප දුම්රිය ස්ථාන දෙකක් තොරාගෙන එම දුම්රිය ස්ථාන වෙත ත්‍යාග සහ සහතික පත් පිරි නමා ඇත.
+
+ජගත් පරිසර දිනයට සමගාමිව මධ්‍යම පරිසර අධිකාරිය මගින් 2022 වසරේ ආරම්භ කරන ලද මෙම වැඩසටහනෙන් පරිසර හිතකාමි දුම්රිය ස්ථාන ඇගයිමේ අරමුණින් මෙම වැඩසටහන ආරම්භ කර ඇති අතර , මධ්‍යම පරිසර අධිකාරියේ පරිසර අධ්‍යාපන සහ දැනුවත් කිරිමේ අංශය විසින් මෙම වැඩසටහන සංවිධානය කර තිබුණි.
+
+2024 වසරේ හොදම හරිත ප්‍රධාන දුම්රිය ස්ථාන වශයෙන් ඉහල කොට්ටේ , රඹුක්කන , වේයන්ගොඩ , ත්‍රිකුණාමලය , හැටන් , ඇල්ල , අහුන්ගල්ල සහ උකුවෙල යන දුම්රිය ස්ථාන තොරාගෙන ඇති අතර , උප දුම්රිය ස්ථාන වශයෙන් මිසාලෙයි සහ හෝමාගම රෝහල් පාරේ උප දුම්රිය ස්ථානය තේරිපත් වි ඇත.
+
+මෙම වැඩසටහනේ ජයග්‍රහකයන්ට ඉකුත් (05) දින ජනාධිපති ලේකම් කාර්යාලයේදි පාරිසරික රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා  විසින් ත්‍යාග සහ සහතිකපත් පිරිනමා ඇත.
+
+◼️
+
+[Data](articles/ace14f45.json)
+
+---
+
 ### No budget proposals for 2025, only interim standard account
 
 *2024-06-09 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-budget-proposals-for-2025-only-interim-standard-account/108-284425) · `en`
@@ -565,6 +603,28 @@ It is reported that after the suspect was admitted to the Negombo Hospital, as o
 [Data](articles/9ebefac2.json)
 
 [Extended Data](ext_articles/9ebefac2.ext.json)
+
+---
+
+### Israel rescues four hostages in operation Gazan officials say killed more than 200
+
+*2024-06-09 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99756/israel-rescues-four-hostages-in-operation-gazan-officials-say-killed-more-than-200) · `en`
+
+The Israeli military rescued four hostages in a special operation in the Nuseirat refugee camp, central Gaza, that Gazan authorities said killed 236 people and injured more than 400 others.
+
+Noa Argamani, Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv, were rescued by the Israeli military, intelligence and special forces from two separate locations in Nuseirat, the Israel Defense Forces (IDF) said Saturday.
+
+All four were kidnapped from the Nova music festival on October 7.
+
+“They are in good medical condition and have been transferred to the ‘Sheba’ Tel-HaShomer Medical Center for further medical examinations,” the IDF added.
+
+An Israeli policeman from a special counter-terrorism unit was killed in Saturday’s rescue operation, according to Israeli police.
+
+News of the rescue came soon after Israel’s military said it was operating in Nuseirat and other areas of central Gaza, where heavy shelling and artillery fire was reported.
+
+...
+
+[Data](articles/d8c79692.json)
 
 ---
 
@@ -2105,85 +2165,5 @@ But Tristan Stubbs and Miller hauled South Africa off the ropes with a fifth wic
 [Data](articles/b585e6ea.json)
 
 [Extended Data](ext_articles/b585e6ea.ext.json)
-
----
-
-### 2024-06-08 (Saturday)
-
-### South Africa becoming a sharp win
-
-*2024-06-08 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197544) · `si`
-
-In a thrilling World Cup match, South Africa defeated the Netherlands by 3 wickets. Batting first after winning the toss, the Netherlands made 103 runs, with EngelBrecht scoring 40 and Van Beek 23. Chasing 103, South Africa achieved the target in 18 overs, securing a crucial victory.
-
-🟩
-
-South African team won the match between the Netherlands and South Africa in the World Cup today (08).
-
-The leader of the South African group, won the toss and elected to bat first, the leader of the match was played at the Nassawu Stadium in New York.
-
-Accordingly, the Netherlands scored 103 runs for the loss of 9 wickets in the end of the squad.
-
-The Syrabrand EngelBrecht scored 40 runs for the Netherlands team, while logan van beek scored 23 runs.
-
-Chasing a target of 103, South Africa scored 106 wickets in 18 overs.
-
-◼️
-
-[Data](articles/1e9ffd18.json)
-
-[Extended Data](ext_articles/1e9ffd18.ext.json)
-
----
-
-### Foreign Minister to attend BRICS Ministerial Session in Russia
-
-*2024-06-08 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99749/foreign-minister-to-attend-brics-ministerial-session-in-russia) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry is scheduled to leave for Russia to attend the BRICS Ministerial Session which will be held in Nizhniy Novgorod in Russia on 11 June 2024, following an invitation extended by his Russian counterpart.
-
-The Foreign Minister has been invited for the Ministerial Meeting as the current Chair of the IORA Council of Ministers, the Ministry of Foreign Affairs said.
-
-Russia is hosting the BRICS Ministerial Session under the theme “Strengthening Multilateralism for Fair Global Development and Security”.
-
-During the Meeting of the Foreign Ministers from the countries of Global South, Foreign Minister Ali Sabry is scheduled to deliver a Statement on the “role of BRICS and Global South in reforming global governance, ensuring sustainable development, enhancing global security”, the statement added.
-
-On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including the host country.
-
-◼️
-
-[Data](articles/f18e49c1.json)
-
-[Extended Data](ext_articles/f18e49c1.ext.json)
-
----
-
-### Ordinary Level examines begins
-
-*2024-06-08 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197543) · `si`
-
-The GCE Ordinary Level Examination's answer sheet testing started today, delayed by two days due to weather. The exam took place on the 15th, and now, investigations begin across 101 centers. Meanwhile, applications open for the Advanced Level re-exam, which will be conducted online.
-
-🟩
-
-Testing the answer sheets of the GCE Ordinary Level Examination held in the year 2023 was commenced today (08).
-
-The investigation of the answer sheets were to be opened on the 6th due to the inclement weather conditions that have been affected by the island, the Commissioner General of Examinations Amit Jayasundara made action to be postponed in two days.
-
-The Commissioner General of Examinations stated that the investigation of the answer sheets began without any problems from today.
-
-Accordingly, the answer to the examination will be inspected in 101 centers from today.
-
-The GCE Ordinary Level Examination was held on the 15th of this month.
-
-Meanwhile, applications will be called for the re-examination of the Advanced Level examination of the GCE Advanced Level Examination.
-
-Re-examination is only called along on online methodology and is to be taken up along online.
-
-◼️
-
-[Data](articles/fc3e249b.json)
-
-[Extended Data](ext_articles/fc3e249b.ext.json)
 
 ---

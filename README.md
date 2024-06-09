@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 17:55:02**
+As of **2024-06-09 18:11:48**
 
 ## Newspaper Stats
 
-*Scraped **29,380** Articles*
+*Scraped **29,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,506
-adaderanalk | 3,327
+adalk | 2,507
+adaderanalk | 3,328
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,665
-adaderanasinhalalk | 4,724
+adaderanasinhalalk | 4,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,380 (100.0%) of 29,380 articles have been extended.
+29,380 (100.0%) of 29,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### ව්‍යාපාරිකයාගේ කෝටි ගණනකට විද්ද කත අත්අඩංගුවට
+
+*2024-06-09 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197565) · `si`
+
+ව්‍යාපාරිකයෙකුගේ කෝටි 15ක මුදලක් ලබාගෙන එය නැවත ලබානොදී වංචාවක් සිදුකළ බවට චෝදනා එල්ලවූ කාන්තාවක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාකොළ ප්‍රදේශයේ පදිංචි 54 හැවිරිදි වියේ පසුවන කාන්තාවකි.
+
+මෙහිදී කාන්තාව සතු අති සුඛෝපභෝගී මෝටර් රථයක්, ස්මාට් ජංගම දුරකථන කිහිපයක් සහ ලැප්ටොප් පරිගණක දෙකක් පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+කොළඹ ශ්‍රේෂ්ඨාධිකරණ භූමියේදී තම මිතුරෙකු මාර්ගයෙන් මෙම සැකකාර කාන්තාව හඳුනාගත් බව ව්‍යාපාරිකයා පොලීසියට පවසා ඇත.
+
+තමන් වාහන ආනයනය කරන බව පවසා ඇති අදාළ සැකකාර කාන්තාව එලෙස ගෙන්වූ වාහන කිහිපයක් රේගුවෙන් නිදහස් කරගැනීමට හදිසි මුදල් අවශ්‍යතාවයක් ඇතිබව සඳහන් කර මෙම මුදල අදාළ ව්‍යාපාරිකයාගෙන් ලබාගෙන ඇති බවත් මූලික විමර්ශනවලදී හෙළිවී ඇත.
+
+අනතුරුව තමන්ට එම කාන්තාව මුණනොගැසුණු බව සඳහන් කරමින් මෙම ව්‍යාපාරිකයා විසින් පොලීසියට සිදුකරන ලද පැමිණිල්ලකට අනුව සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+
+මෙහිදී තොරතුරු අනාවරණය වී ඇත්තේ සැකකාර කාන්තාව මීට පෙර මහා පරිමාණ මුදල් වංචා රැසකට අදාළව චෝදනා එල්ලවූ කාන්තාවක් බවය.
+
+...
+
+[Data](articles/dcc8341d.json)
+
+---
+
+### Two close associates of ‘Kudu Salindu’ arrested with ammo, ice and cash
+
+*2024-06-09 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99762/two-close-associates-of-kudu-salindu-arrested-with-ammo-ice-and-cash) · `en`
+
+Two close associates of the notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, have been arrested in the Panadura South area today (09).
+
+Police said that one suspect was apprehended along with a motorcycle in the Nalluruwa area of Panadura South during an operation conducted by the Police Special Task Force (STF).
+
+Officers seized 20 rounds of live ammunitions used in revolvers, 10 grams and 400 milligrams of crystal methamphetamine (‘Ice’) and over Rs. 4.2 million in cash, suspected to have been earned from the sale of drugs, which were found in the possession of the suspect.
+
+Following the interrogation of that suspect, another individual was arrested for aiding and abetting by handling this drug trafficking racket from a residence.
+
+Police said that the two suspects are residents of the Nalluruwa and Morawinna areas of Panadura.
+
+...
+
+[Data](articles/222938dd.json)
+
+---
+
+### කුඩු සළිඳුගේ ගෝලයෝ දෙන්නෙක් ජීව උණ්ඩ මුදල් හා මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
+
+*2024-06-09 16:54:39* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ගෝලයෝ-දෙන්නෙක්-ජීව-උණ්ඩ-මුදල්-හා-මත්ද්‍රව්‍ය-සමග-අත්අඩංගුවට/11-410099) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා සංවිධානාත්මක අපරාධකරුවකු වන කුඩු සලිදු නැමැත්තා ඩුබායි රාජ්‍යයේ සිට මෙහෙයවනු ලබන මත්ද්‍රව්‍ය ජාලයට අයත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් දහයක් රිවෝල්වර්   වර්ගයේ ජීව උණ්ඩ විස්සක්, මත්ද්‍රව්‍ය අලෙවියෙන් උපයා ගත් බවට සැක කරන හතළිස් දෙලක්ෂ හතළිස් නමදහසක මුදලක් සමග දෙදෙනෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය බලකාය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර නල්ලුරුව ප්‍රදේශයේ පදිංචි 27 සහ 34 වයසේ පසු වන දෙදෙනෙකු බව පොලිස් පොලිසිය කියයි.
+
+විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්ධන ඒකකය II හි නිලධාරීන්ට ලද තොරතුරකට අනුව එහි පොලිස් පරීක්ෂක පි.ඒන්.ඒ.ජේ.පි.කේ. වන්නිආරච්චි ඇතුළු නිලධාරීන් කණ්ඩායමක් පානදුර දකුණ , නල්ලුරුව නෙවිල් පෙරේරා මාවතේදී සිදුකළ වැටලීමකදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10, මිලි ග්‍රෑම් 400 ක් හා .38 SPECIAL රිවෝල්වර් වර්ගයේ ජීව උණ්ඩ 20 ක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/ac5534ec.json)
+
+---
 
 ### Latest weather forecast for rain
 
@@ -2143,53 +2203,5 @@ My father, Tissa Indraka Weeratunga, the first four-star general of the regular 
 [Data](articles/87d4711f.json)
 
 [Extended Data](ext_articles/87d4711f.ext.json)
-
----
-
-### Thaththa’s Wireless
-
-*2024-06-09 00:24:00* · [`islandlk`](http://island.lk/thaththas-wireless/) · `en`
-
-Thaththa(my late father) was an avid radio listener. He called the radio a ‘wireless.’ Early in the morning, he listened to the news and, after dinner, to Sinhala and English songs. He allowed no one to talk aloud while he listened to the radio. Listening to the news and music was a struggle because of poor reception. He said the poor reception was because of the remoteness of Hambantota, where we lived. His friends advised him to buy a ‘six-valve’ Grundig radio for better reception. They coaxed him, saying he could, of course, as the Principal of St. Mary’s College, afford to buy a powerful radio. But Thaththa refused to discard his old Philips radio. Its front screen looked like an old rag, and the pilot light on the upper left corner was dead.
-
-...
-
-[Data](articles/4e1602fa.json)
-
-[Extended Data](ext_articles/4e1602fa.ext.json)
-
----
-
-### TISL Demands Transparency in Adani Wind Power Project: Files Right to Information Applications
-
-*2024-06-09 00:19:00* · [`islandlk`](http://island.lk/tisl-demands-transparency-in-adani-wind-power-project-files-right-to-information-applications/) · `en`
-
-Transparency International Sri Lanka (TISL) has filed a series of Right to Information (RTI) requests with public authorities seeking crucial information regarding the transparency, legality, evaluation process, pricing, government involvement, and the Environmental Impact Assessment (EIA) related to the Wind Power Project in Mannar and Pooneryn, involving India’s Adani Group.
-
-“Earlier this year, Adani Green Energy (Sri Lanka) Ltd was provisionally approved for two wind power plants of 250 MW in Mannar and 234 MW in Pooneryn. TISL is deeply concerned about the lack of transparency surrounding this project, which has raised significant economic and ecological concerns.” a TISL news release said..
-
-...
-
-[Data](articles/017cb38f.json)
-
-[Extended Data](ext_articles/017cb38f.ext.json)
-
----
-
-### Convicted felon Trump presumptive Republican nominee for 2024 presidency
-
-*2024-06-09 00:13:00* · [`islandlk`](http://island.lk/convicted-felon-trump-presumptive-republican-nominee-for-2024-presidency/) · `en`
-
-NATO allies honor 80th anniversary of D-Day invasion of Normandy
-
-Former President of the United States of America, Donald Trump was found guilty on 34 counts of felony in the recently concluded hush money case in the district court of Manhattan, New York. Trump has gone down in history as the only convicted felon who has served as the President of the United States. He is currently on bail on his own recognizance, until the date of sentencing, July 11, 2024.
-
-Trump’s only chance of avoiding imprisonment is to win re-election in November. As president, the pending cases against him, indeed all punishments currently imposed on him, will be dismissed. If not, he will probably be jailed for life. He is literally fighting for his life. And losing.
-
-...
-
-[Data](articles/12aa991a.json)
-
-[Extended Data](ext_articles/12aa991a.ext.json)
 
 ---

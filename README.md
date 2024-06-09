@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 10:52:41**
+As of **2024-06-09 11:04:10**
 
 ## Newspaper Stats
 
-*Scraped **29,317** Articles*
+*Scraped **29,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,494
-adaderanalk | 3,317
+adaderanalk | 3,319
 tamilmirrorlk | 3,439
 virakesarilk | 4,494
 dailymirrorlk | 4,653
@@ -26,47 +26,93 @@ adaderanasinhalalk | 4,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,309 (100.0%) of 29,317 articles have been extended.
+29,317 (100.0%) of 29,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### விசேட நடவடிக்கையை மேற்கொண்டு நான்கு பணயக்கைதிகளை உயிருடன் மீட்டது இஸ்ரேல்- தாக்குதலில் 200க்கும் மேற்பட்ட பாலஸ்தீனியர்கள் பலி
+### STF seize Kerala cannabis worth Rs. 10 million at Point Pedro
+
+*2024-06-09 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99754/stf-seize-kerala-cannabis-worth-rs-10-million-at-point-pedro-) · `en`
+
+A suspect has been arrested with a haul of Kerala cannabis by the Special Task Force (STF) in Yakkaru Police during a joint operation conducted in the Vallipuram coastal area of Point Pedro, Jaffna.
+
+Based on information provided by the Military Intelligence Corps of the Sri Lanka Army yesterday (8), they have successfully apprehended a 25-year-old man in possession of 60kg of cannabis worth Rs 10 million, packed in two sacks.
+
+The Yakkaru Police Special Task Force is continuing further investigations into the matter.
+
+◼️
+
+[Data](articles/0225756e.json)
+
+---
+
+### 35 trains cancelled this morning as railway strike continues
+
+*2024-06-09 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99753/35-trains-cancelled-this-morning-as-railway-strike-continues) · `en`
+
+Sri Lanka Railways (SLR) stated that a total of 35 scheduled train journeys were cancelled this morning due to the continued strike by the Locomotive Operating Engineers’ Union of the railway department.
+
+◼️
+
+[Data](articles/80e7c400.json)
+
+---
+
+### More than 200 Palestinians killed in Israeli attack
 
 *2024-06-09 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185635) · `ta`
 
-காசாவில் விசேட நடவடிக்கையொன்றை மேற்கொண்டு நான்கு பணயக்கைதிகளை இஸ்ரேலிய படையினர் உயிருடன் மீட்டுள்ள அதேவேளை இந்த நடவடிக்கையின் போது 200க்கும் மேற்பட்ட பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர்.
+In a recent escalation of the ongoing conflict between Israel and Hamas, over 200 Palestinians were killed in an Israeli attack in Gaza, primarily targeting a civilian area in Nuseirat. Simultaneously, Israeli forces successfully rescued four hostages, who had been held captive since a Hamas attack on October 7th. The operation was fraught with challenges, including severe resistance and adverse weather conditions. While the exact number of casualties among the Palestinians remains unclear, it includes both civilians and combatants. The rescued hostages, now under medical care, are reported to be in good condition.
 
-ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர் இஸ்ரேல் மேற்கொண்ட மிகமோசமான இரத்தக்களறியை ஏற்படுத்திய தனியொரு தாக்குதல் இதுவென ரொய்ட்டர் தெரிவித்துள்ளது.
+🟩
 
-பாலஸ்தீனியர்கள் அதிகளவில் நெருக்கமாக வாழும் இஸ்ரேலிய படையினருக்கும் ஹமாஸ் அமைப்பிற்கும் அடிக்கடி மோதல் இடம்பெறும் பகுதி இது.
+More than 200 Palestinians have been killed while Israeli soldiers have rescued four hostages alive after taking a special action in Gaza.
 
-நுசெய்ரட்டில் பொதுமக்கள் வாழும் பகுதியில் இந்த தாக்குதல் இடம்பெற்றதாக தெரிவித்துள்ள இஸ்ரேலிய இராணுவத்தின் பேச்சாளர் பணயக்கைதிகள் தொடர்மாடிக்குடியிருப்புகளில் தடுத்துவைக்கப்பட்டிருந்தனர் என தெரிவித்துள்ளார்
+Reuters said it was an attack on Israel after the seventh of October.
 
-இந்த நடவடிக்கையின் போது இஸ்ரேலிய படையினர் கடும் தாக்குதலை எதிர்கொண்டனர் இதனை தொடர்ந்து அவர்கள் வானிலிருந்தும் தரையிலிருந்தும் பதில் தாக்குதலை மேற்கொண்டனர் என அவர் தெரிவித்துள்ளார்.
+It is a frequent conflict of Israeli forces and Hamas, where the Palestinians live in the most popular.
+
+The Israeli military spokesman said that the attack took place in a civilian population area in Nuseyrat, said the hostages were detained in the series.
+
+He said that Israeli soldiers faced a severe attack during the operation, followed by a response from the weather and the ground.
+
+We know that 100 Palestinians have been killed, and how many of them are terrorists, a member of the Israeli Special Forces has been killed, the Israeli official said.
+
+Gaza's medical sources said that the bodies of women in the market mosque are scattered in the market mosque.
 
 ...
 
 [Data](articles/27659f33.json)
 
+[Extended Data](ext_articles/27659f33.ext.json)
+
 ---
 
-### ஊழலற்ற சிறந்த அரச நிர்வாகத்தை நாங்கள் உருவாக்குவோம் - நாமல் ராஜபக்ஷ
+### We will create the best state administration of corrupt - Namal Rajapaksa
 
 *2024-06-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185629) · `ta`
 
-ஜனாதிபதி தேர்தல் பிரசாரம் தற்போது ஆரம்பமாகியுள்ளது. திருடர்களை பிடிப்பதாக குறிப்பிட்டுக்கொண்டு அரசியல் செய்யும் நிலைப்பாட்டில் இருந்துகொண்டு பிரதான எதிர்க்கட்சிகள் செயற்படுகின்றன. ஊழல் இல்லாத அரச நிர்வாகத்தை எம்மால் உருவாக்க முடியும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, the National Organizer of the Sri Lanka Peoples Alliance, announced plans to establish a corrupt state administration during the early stages of the presidential election campaign. He criticized the main opposition parties for their political maneuvers, emphasizing the importance of the Ratota region in their political journey. Despite the challenges faced by the previous government under Gotabhaya Rajapakse, including the COVID-19 pandemic's impact on the economy, Namal expressed confidence in their ability to address economic issues without relying solely on the International Monetary Fund. He pledged to take responsibility for rebuilding the country, highlighting their leader's achievements in ending the 30-year war and developing the nation.
 
-ரத்தொட்ட பகுதியில் சனிக்கிழமை (08) இடம்பெற்ற பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-2015ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் வேட்பாளராக போட்டியிட்ட மஹிந்த ராஜபக்ஷ தனது முதலாவது தேர்தல் பிரசாரக் கூட்டத்தை ரத்தொட்ட பகுதியில் நடத்தினார். ஆகவே எமது அரசியல் பயணத்தில் ரத்தொட்ட பகுதி இன்றியமையாதது.
+The presidential election campaign has just begun. The main opposition parties are acting in the position of politics, referring to the thieves. The National Organizer of the Sri Lanka Peoples Alliance (PA), Namal Rajapaksa, said that we can create a corrupt state administration.
 
-69 இலட்ச மக்கள் பாரிய எதிர்பார்ப்புகளுக்கு மத்தியில் கோட்டாபய ராஜபக்ஷ தலைமையிலான அரசாங்கத்தை தோற்றுவித்தார்கள். உள்நாட்டு உற்பத்திகளுக்கு முக்கியத்துவம் வழங்கி தேசிய தொழிற்றுறையை மேம்படுத்திக்கொண்டிருந்த வேளை துரதிர்ஷ்டவசமாக கொவிட் பெருந்தொற்று தாக்கத்துக்கு முகங்கொடுக்க நேரிட்டது.
+He was speaking at a meeting of the organizer of the PA, which was held on Saturday (08) in Rathota.
+
+Mahinda Rajapaksa, who contested the 2015 presidential election, held his first election campaign meeting in Rathota. Therefore, on our political journey, the Ratota part is essential.
+
+Amidst the massive expectations of 69 lakhs, Gotabhaya Rajapakse led the government. Unfortunately, the Kovit was faced with the impact of the national industry and improving the national industry.
+
+We are well aware that when protecting people from the glory, it will face economic crises. A party used the economic impact on the Govt, for their political purposes.
 
 ...
 
 [Data](articles/eb476b65.json)
+
+[Extended Data](ext_articles/eb476b65.ext.json)
 
 ---
 
@@ -94,15 +140,21 @@ The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
 
 ---
 
-### லோக் சபா தேர்தல் 2024 : இந்திய அரசியலின் சடுதியான நிலைமாற்றம்
+### Lok Sabha Election 2024: A mutual change of Indian politics
 
 *2024-06-09 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185633) · `ta`
 
-பா. ஜ.க.தலைமையிலான தேசிய ஜனநாயக கூட்டணி லோக் சபாவின் 293 ஆசனங்களை வென்றுள்ளது. இன்டியா (I.N.D.I.A.)என்ற எதிரணிக் கூட்டணிக்கு 232 ஆசனங்கள்  கிடைத்துள்ளது. இந்தக் கூட்டணியானது, பிராந்தியக் கட்சிகளின் செல்வாக்கை கோடிட்டுக் காட்டியுள்ளது. எதிர்கால அரசியலைக் கட்டமைப்பதில் பிராந்திய கட்சிகள் எந்தளவு முக்கியத்துவம் பெறப் போகின்றன என்பதையும் உணர்த்தியுள்ளது.
+In the Lok Sabha Election 2024, the National Democratic Alliance secured 293 seats, while the Opposition Alliance (I.N.D.I.A.) won 232 seats. This election highlights the significant role of regional parties in shaping India's political landscape, emphasizing their importance for future politics.
+
+🟩
+
+Pa. The National Democratic Alliance has won 293 seats in Lok Sabha. The Opposition Alliance (I.N.D.I.A.) has got 232 seats. This alliance has underlined the influence of the regional parties. It has also realized how important the regional parties are going to build future politics.
 
 ◼️
 
 [Data](articles/5872fbad.json)
+
+[Extended Data](ext_articles/5872fbad.ext.json)
 
 ---
 
@@ -124,33 +176,45 @@ President Ranil Wickremesinghe, who was invited to attend the official swearing 
 
 ---
 
-### අප්‍රේල් මහ මැතිවරණයක් තිබුණේ නම් අනුරයි සජිතුයි කරට කර
+### If there was April election, he had to make quite
 
 *2024-06-09 09:39:33* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-මහ-මැතිවරණයක්-තිබුණේ-නම්-අනුරයි-සජිතුයි-කරට-කර/11-410084) · `si`
 
-2024 අප්‍රේල් මාසයේදී ශ්‍රී ලංකාවේ මහ මැතිවරණයක් පැවැතියේ නම් වැඩිහිටියන් ඡන්දය ප්‍රකාශ කිරීමේ අභිප්‍රාය අනුව අනුර කුමාර මහතාගේ නායකත්වයෙන් යුත් ජාතික ජන බලවේගයට සියයට 34ක් හා සජිත් ප්‍රේමදාස මහතාගේ නායකත්වයෙන් යුත් සමගි ජන බලවේගය සියයට 34 බැගින් වූ ප්‍රතිශතයක් හිමිවන බව සෞඛය ප්‍රතිපත්ති ආයතනය කළ සමික්ෂණයකින් හෙළිව තිබේ.
+In the April 2024 general election, Sajith Premadasa received 34% of the vote, marking a slight decrease from previous months.
 
-එය මාර්තු මාසය හා සැසදීමේදි ජාතික ජන බලවේගය සියයට 3ක අඩුවීමක් හා සමගි ජන බලවේගයට සියයට 1ක අඩුවිමකි. මෙහිදී ශ්‍රි ලංකා පොදුජන පෙරමුණට සියයට 12ක ප්‍රතිශතයක් හිමිවෙයි.
+🟩
+
+A general election in April 2024 was held in the intention of voting on the intention of voting on the intention of voting of 34% and Sajith Premadasa, led by Sajith Premadasa.
+
+It is a decrease of 3 percent and 1 percent to the reconciliation decline in the month of March. The Sri Lanka General Front receives 12 percent.
 
 ◼️
 
 [Data](articles/de8aad56.json)
 
+[Extended Data](ext_articles/de8aad56.ext.json)
+
 ---
 
-### ජනපති ඉන්දියාවට
+### President to India
 
 *2024-06-09 09:29:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියාවට/11-410083) · `si`
 
-ඉන්දීය මහ මැතිවරණයෙන් ජයගත් නරේන්ද්‍ර මෝදි මහතා ඉන්දියාවේ නව අග්‍රාමාත්‍යවරයා ලෙස දිවුරුම් දීමේ උත්සවයට සහභාගී වීම සදහා ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දෙදින නිල සංචාරයක් සදහා 06/09 දින උදෑසන කටුනායක ගුවන් තොටුපොළෙන් නවදිල්ලි නුවර බලා පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+Sri Lanka's President Ranil Wickremesinghe will visit New Delhi, India, from morning on a two-day trip starting tomorrow. He'll be accompanied by a delegation and leave via Indian Airlines flight AI-282, arriving at 11:40 pm.
 
-ඔහු සමග දූත පිරිසක් ද මෙම සංචාරය සදහා එක් වී සිටියහ. ඔවුන් 06/09 දින උදෑසන 08.32 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 282 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියහ.
+🟩
 
-ශ්‍රී ලාංකික රාජතාන්ත්‍රික  පිරිස රැගත් මෙම  ගුවන් යානය 06/09 දින දහවල් 11.40 වනවිට ඉන්දියාවේ නවදිල්ලි නුවර ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට නියමිතය.
+Sri Lanka President Ranil Wickremesinghe has confirmed that the Indian President Ranil Wickremesinghe to attend the Indian day's official visit to New Delhi on the morning of a two-day official visit to New Delhi.
+
+A delegation with him was also joined in this visit. They left the Indian Airline AI on 29th morning at the Indian Airlines' A.-282.
+
+The aircraft carrying Sri Lankan diplomats will be landed at New Delhi in New Delhi, India at 11.40 pm.
 
 ◼️
 
 [Data](articles/16e2a0a1.json)
+
+[Extended Data](ext_articles/16e2a0a1.ext.json)
 
 ---
 
@@ -286,41 +350,61 @@ With the rainy season, risks to remove the risky stones and trees on either side
 
 ---
 
-### பிரதமர் மோடியின் பதவியேற்புக்கு கோலாகல ஏற்பாடு : ஜனாதிபதி ரணிலும் பங்கேற்பு
+### President Ranil participates in Prime Minister Modi's swearing -in
 
 *2024-06-09 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185627) · `ta`
 
-பிரதமர் நரேந்திர மோடியின் மூன்றாவது பதவி காலத்துக்கான பதவியேற்பு நிகழ்வுக்கான ஏற்பாடுகள் கோலாகலமாக முன்னெடுக்கப்பட்டு வருகின்றன.
+President Ranil Wickremesinghe and Foreign Minister Ali Sabri are set to attend Prime Minister Narendra Modi's third-term swearing-in ceremony in Delhi today. The event marks a significant gathering of international leaders from the Indian Ocean region and beyond, highlighting India's diplomatic outreach under Modi's leadership.
 
-இந்நிகழ்வில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, வெளிவிவகார அமைச்சர் அலி சப்ரி உள்ளிட்ட குழுவினர் இன்று ஞாயிற்றுக்கிழமை (09) டில்லிக்கு வருகின்றனர்.
+🟩
 
-2024 பொதுத்தேர்தல்களை தொடர்ந்து பிரதமர் நரேந்திர மோடி மற்றும் அமைச்சர்களின் பதவியேற்பு  நிகழ்வுக்காக, இந்தியாவின் அயல்நாடுகள் மற்றும் இந்து சமுத்திர பிராந்தியத்தில் உள்ள நாடுகளின் தலைவர்கள் சிறப்பு விருந்தினர்களாக அழைக்கப்பட்டுள்ளனர்.
+Preparations for the swearing -in of Prime Minister Narendra Modi's third term are being carried out.
 
-அதற்கமைய ஜனாதிபதி ரணில் விக்கிரமசிங்க, மாலைதீவு ஜனாதிபதி கலாநிதி முஹம்மது முயிசு, சிசெல்ஸ் துணை ஜனாதிபதி அகமத் ஆபிப், பங்களாதேஷ் பிரதமர் ஷேய்க் ஹசீனா, மொரிசியஸ் பிரதமர் பிரவீந் குமார் ஜக்நாத், நேபாள பிரதமர் புஷ்ப கமால் தஹல் பிரசண்டா மற்றும் பூட்டான் பிரதமர் சேரிங் டொப்கே ஆகியோர் இந்நிகழ்வில் கலந்து கொள்ளவுள்ளனர்.
+President Ranil Wickremesinghe and Foreign Minister Ali Sabri are coming to Delhi today (09) to attend the event.
+
+Following the 2024 general elections, Prime Minister Narendra Modi and ministers have been invited as special guests for the swearing -in ceremony of India's foreign states and the Indian Ocean region.
+
+President Ranil Wickremesinghe, Maldivian President Dr. Muhammad Muzhis, Sichels Vice President Ahmad Abip, Bangladesh Prime Minister Sheikh Hasina, Mauritius Prime Minister Praveen Kumar Jagnath, Nepal Prime Minister Pushpa Kamal Dahal Prasanda and Bhutan Prime Minister Siring Tobke were present.
+
+The leaders who attend the swearing -in ceremony will be attended by President Indian President Draupadi Murmu at Rashtrapati Bhavan this evening.
+
+It is noteworthy that these leaders are attending the swearing -in ceremony for Prime Minister Modi's third term.
 
 ...
 
 [Data](articles/ad7c36f0.json)
 
+[Extended Data](ext_articles/ad7c36f0.ext.json)
+
 ---
 
-### சப்ரகமுவ, மேல், வடமேல், தென்  மாகாணங்களில் மழைக்கான சாத்தியம்...
+### Rainfall in Sabaragamuwa, Upper, North Western and Southern Provinces ...
 
 *2024-06-09 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185626) · `ta`
 
-சப்ரகமுவ, மேல்,வடமேல்  மற்றும் தென்  மாகாணங்களிலும் அத்துடன் கண்டி மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+Heavy rainfall and thunderstorms are expected in several provinces including Sabaragamuwa, Upper, North Western, Southern, Kandy, and Nuwaralia districts, with heavy winds in Central Highlands, Northern, North Central, North Western, Trincomalee, Hambantota, and Moneragala districts. The Uva Province, Ampara, and Batticaloa districts may also experience rain or thunderstorms. Sea regions from Puttalam to Colombo and Galle are likely to see rainfall, with increased wind speeds from Trincomalee to Kankesanthurai, Mannar via Puttalam, and Hambantota to Pottuvil via Batticaloa. Fishermen are advised to be cautious due to potential turbulence.
 
-சப்ரகமுவ மாகாணத்தின் சில இடங்களிலும் அத்துடன் நுவரேலியா மாவட்டத்தின் சில இடங்களிலும் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-ஊவா மாகாணத்தின்  சில இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+Senior Weather Officer Dr. Mohamed Saliheen said that rainfall would occur in Sabaragamuwa, Upper, North Western and Southern Provinces as well as Kandy and Nuwaralia districts.
 
-மத்திய மலைப்பிராந்தியத்தின் மேற்கு சரிவுகளிலும்,  வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் திருகோணமலை,  ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்ட ங்களிலும் மணித்தியாலத்திற்கு 40 ‐ 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+Heavy rains are expected to occur in some parts of the Sabaragamuwa Province, as well as some of the Nuwarali district and 50 millimeters.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+There is a chance of rain or thunderstorms in the evening or night in some parts of the Uva Province as well as some areas of Ampara and Batticaloa districts.
+
+Heavy winds are expected to blow at speeds of 40 to 50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces as well as in Trincomalee, Hambantota and Moneragala districts.
+
+In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
+
+Rainfall is likely to occur in many parts of the sea regions from Puttalam to Colombo and Galle.
+
+There is a chance of rain or thunderstorms in some parts of other sea regions around the country.
 
 ...
 
 [Data](articles/d7a70d44.json)
+
+[Extended Data](ext_articles/d7a70d44.ext.json)
 
 ---
 
@@ -1312,23 +1396,33 @@ From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in 
 
 ---
 
-### කැලණි ගඟ දෙපස සිටින ජනතාව වෙනුවෙන් නව නගරයක්
+### New city for the people on either side of the Kelani River
 
 *2024-06-08 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/කැලණි-ගඟ-දෙපස-සිටින-ජනතාව-වෙනුවෙන්-නව-නගරයක්/11-410081) · `si`
 
-– ගංවතුරෙන් විපතට පත් කොළොන්නාව ජනතාවගේ සුව දුක් සොයා බැලීමට එක් වෙමින් සාගල රත්නායක මහතා පවසයි.
+In response to the Kelani River floods, the government has allocated Rs. 10,000 to each affected household, plans to rebuild damaged homes, and launched health programs to combat potential epidemics. A new city is proposed for both riverbanks, featuring essential facilities like hospitals and schools. This initiative aims to provide comprehensive relief and long-term solutions to mitigate future flood impacts.
 
-ගංවතුරෙන් පීඩාවට පත් වූ සෑම නිවසකටම රුපියල් 10,000ක දීමනාවක් ලබාදීමට කටයුතු කරන බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා පැවසීය.
+🟩
 
-නිවස පිරිසිදු කර ගැනීම ආදී කටයුතු වෙනුවෙන් එම මුදල ලබා දෙන බවත්, ආපදා තත්ත්වයෙන් අර්ධ හා පූර්ණ හානි සිදු වූ සියලු නිවාස හා ගොඩනැගිලි පිළිබඳ තක්සේරු වාර්තා ලබා ගැනීමෙන් පසු ඉදිරි කටයුතු කඩිනමින් ක්‍රියාත්මක කරන බවත් ඒ මහතා සඳහන් කළේය.
+- The flood victims are one of the cures of the people, said Sagala Ratnayake.
 
-සාගල රත්නායක මහතා මේ බව සඳහන් කළේ අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් විපතට පත් කොළොන්නාව ප්‍රදේශයේ ජනතාවගේ සුව දුක් සොයා බැලීමේ නිරීක්ෂණ චාරිකාවකට ඊයේ (07) එක් වෙමිනි.
+Senior Advisor to the Presidential Advisor and Presidential Staff Head of the President Sagala Ratnayake said that every house affected household has been paid Rs. 10,000.
 
-ගං වතුරෙන් විනාශ වු ප්‍රදේශයේ නිවාස දැක බලා ගැනීමටද එක් වූ සාගල රත්නායක මහතා විපතට පත් ජනතාව වෙනුවෙන් කොළොන්නාව ශ්‍රී සම්බුද්ධරාජ පුරාණ විහාරයේ පැවති වෛද්‍ය සායනය වෙත ද ගොස් එම කටයුතු නිරික්ෂණය කළේය.
+He said that the amount of assessment reports on the house is being provided with the purposes of the house, he added that the immediate action will be implemented soon after receiving valuation reports on the disaster.
+
+Mr. Sagala Ratnayake made this observation yesterday (07) a surveillance tour yesterday.
+
+Sagala Ratnayake was also to see the houses destroyed in the area of ​​floods and went to the medical clinic of the Kolonnawa Sri Sambudraja Viharaya, who was affected by the affected people.
+
+He then joined the discussion and the discussion of the government's program to provide relief to the affected people in the Kolonnawa Divisional Secretariat.
+
+Speaking to the media, Mr. Sagala Ratnayake said,
 
 ...
 
 [Data](articles/d9404ef7.json)
+
+[Extended Data](ext_articles/d9404ef7.ext.json)
 
 ---
 
@@ -2189,47 +2283,5 @@ With the defeat, Sri Lanka has to access the 8 World Cup Superways continuously,
 [Data](articles/39ab541f.json)
 
 [Extended Data](ext_articles/39ab541f.ext.json)
-
----
-
-### William Anders, former Apollo 8 astronaut, dies in plane crash
-
-*2024-06-08 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99740/william-anders-former-apollo-8-astronaut-dies-in-plane-crash) · `en`
-
-(AP) — William Anders, the former Apollo 8 astronaut who took the iconic “Earthrise” photo showing the planet as a shadowed blue marble from space in 1968, was killed Friday when the plane he was piloting alone plummeted into the waters off the San Juan Islands in Washington state. He was 90.
-
-His son, retired Air Force Lt. Col. Greg Anders, confirmed the death to The Associated Press.
-
-“The family is devastated,” he said. “He was a great pilot and we will miss him terribly.”
-
-William Anders, a retired major general, has said the photo was his most significant contribution to the space program along with making sure the Apollo 8 command module and service module worked.
-
-The photograph, the first color image of Earth from space, is one of the most important photos in modern history for the way it changed how humans viewed the planet. The photo is credited with sparking the global environmental movement for showing how delicate and isolated Earth appeared from space.
-
-...
-
-[Data](articles/429309de.json)
-
-[Extended Data](ext_articles/429309de.ext.json)
-
----
-
-### Others dies after falling up-house house
-
-*2024-06-08 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197520) · `si`
-
-A 47-year-old man from Horana's Kandanahena area fell at his home without a security fence and passed away.
-
-🟩
-
-A 47-year-old man has died after falling back home without a security fence.
-
-The deceased has been identified as a father of a resident of the Kandanahena area in Horana.
-
-◼️
-
-[Data](articles/c936aaf6.json)
-
-[Extended Data](ext_articles/c936aaf6.ext.json)
 
 ---

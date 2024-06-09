@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 04:19:12**
+As of **2024-06-10 04:34:30**
 
 ## Newspaper Stats
 
-*Scraped **29,453** Articles*
+*Scraped **29,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,768
 adalk | 2,513
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
-virakesarilk | 4,516
+virakesarilk | 4,519
 dailymirrorlk | 4,672
 adaderanasinhalalk | 4,738
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,453 (100.0%) of 29,453 articles have been extended.
+29,453 (100.0%) of 29,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### புகையிரதத்துடன் மோதி முச்சக்கரவண்டி விபத்து
+
+*2024-06-10 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185705) · `ta`
+
+வத்தளை - எந்தரேமுல்ல ரயில் கடவையில் முச்சக்கரவண்டி ஒன்று ரயிலுடன் மோதியதில் மேலும் ஒரு விபத்து ஏற்பட்டுள்ளது.
+
+குறித்த இடத்தில் கடந்த 08ஆம் திகதி சனிக்கிழமை காலையும் இரு புகையிரதங்களுடன் கார் மோதிய விபத்தில் பெண் உட்பட இருவர் உயிரிழந்துள்ளனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5b178eaa.json)
+
+---
 
 ### Experts highlight policy challenges for new Govt. at Pathfinder Foundation event
 
@@ -138,6 +152,24 @@ As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts 
 
 ---
 
+### கண்டியில் காணாமல் போன மாணவி ஹரிவதனி சடலமாக மீட்பு!
+
+*2024-06-10 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185704) · `ta`
+
+காணாமல் போன கண்டி ரெலுகேஸ் இல 2 கெல்லாபோக்க மடுல்கலை சேர்ந்த ஹரிவதனி என்ற உயர்தர மாணவி  09 ஆம் திகதி ஞாயிற்றுக்கிழமை சடலமாக கண்டெடுக்கப்பட்டுள்ளார்.
+
+குறித்த மாணவி கடந்த வெள்ளிக்கிழமை முதல் காணாமல் போயிருந்த நிலையிலேயே அம்மாணவி தவறான முடிவெடுத்து உயிரிழந்துள்ளார் என தெரியவந்துள்ளது.
+
+சம்பவம் தொடர்பில் காவல்துறையினர் விசாரணை மேற்கொண்ட போது மாணவியை யாரும் கடத்தவில்லை என தெரியவந்துள்ளது.
+
+அத்துடன் மாணவி காணாமல் போன விடயம் தொடர்பாக கடந்த வெள்ளிக்கிழமை பொலிஸ் நிலையத்தில் அவர்களது குடும்பத்தினரால் முறைப்பாடு செய்யப்பட்டிருந்தது என்பது குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/2dd73f53.json)
+
+---
+
 ### Ex-CID Chief takes over as head of NPP’s Retired Police Collective
 
 *2024-06-10 01:40:13* · [`dailyftlk`](https://www.ft.lk/news/Ex-CID-Chief-takes-over-as-head-of-NPP-s-Retired-Police-Collective/56-762865) · `en`
@@ -235,6 +267,24 @@ The United States, through the United States Agency for International Developmen
 [Data](articles/d041d063.json)
 
 [Extended Data](ext_articles/d041d063.ext.json)
+
+---
+
+### பரபரப்பை ஏற்படுத்திய போட்டியில் பாகிஸ்தானை 6 ஓட்டங்களால் வென்றது இந்தியா
+
+*2024-06-10 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185703) · `ta`
+
+விளையாட்டு உலகில் பரம வைரிகள் என வருணிக்கப்படும் இந்தியாவுக்கும் பாகிஸ்தானுக்கும் இடையில் நியூயோர்க், நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுபெற்ற  மிகவும் பரபரப்பான ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் இந்தியா 6 ஓட்டங்களால் அபார வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 4 புள்ளிகளைப் பெற்று  ஏ குழுவுக்கான   அணிகள் நிலையில் முதல் இடத்தில் உள்ள இந்தியா சுப்பர் 8 சுற்றில் விளையாடுவதற்கான தனது வாய்ப்பை அதிகரித்துக்கொண்டுள்ளது.
+
+ஐக்கிய அமெரிக்காவிடம் சுப்பர் ஓவரில் தோல்வி அடைந்த பாகிஸ்தானுக்கு இந்தத் தோல்வியினால் பெரும் நெருக்கடி ஏற்பட்டுள்ளது.
+
+இந்தியாவினால் நிர்ணயிக்கப்பட்ட 120 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய பாகிஸ்தான் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 113 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+...
+
+[Data](articles/9a817474.json)
 
 ---
 
@@ -2159,69 +2209,5 @@ Unlike in 2022, when a currency collapse led to losses on its foreign assets por
 [Data](articles/2c5ae260.json)
 
 [Extended Data](ext_articles/2c5ae260.ext.json)
-
----
-
-### Israel rescues four hostages in operation Gazan officials say killed more than 200
-
-*2024-06-09 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99756/israel-rescues-four-hostages-in-operation-gazan-officials-say-killed-more-than-200) · `en`
-
-The Israeli military rescued four hostages in a special operation in the Nuseirat refugee camp, central Gaza, that Gazan authorities said killed 236 people and injured more than 400 others.
-
-Noa Argamani, Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv, were rescued by the Israeli military, intelligence and special forces from two separate locations in Nuseirat, the Israel Defense Forces (IDF) said Saturday.
-
-All four were kidnapped from the Nova music festival on October 7.
-
-“They are in good medical condition and have been transferred to the ‘Sheba’ Tel-HaShomer Medical Center for further medical examinations,” the IDF added.
-
-An Israeli policeman from a special counter-terrorism unit was killed in Saturday’s rescue operation, according to Israeli police.
-
-News of the rescue came soon after Israel’s military said it was operating in Nuseirat and other areas of central Gaza, where heavy shelling and artillery fire was reported.
-
-...
-
-[Data](articles/d8c79692.json)
-
-[Extended Data](ext_articles/d8c79692.ext.json)
-
----
-
-### Recognition to the President visited India
-
-*2024-06-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197556) · `si`
-
-President Ranil Wickremesinghe will visit India to attend the Prime Minister's swearing-in ceremony in New Delhi. The event will take place at the official residence of the Indian Prime Minister.
-
-🟩
-
-President Ranil Wickremesinghe to visit India to attend the prime minister's swearing ceremony has been reached to New Delhi capital.
-
-The Prime Minister's official swearing in the prime minister is scheduled to hold the Indian official residence, Indian official, is the official residence of Indian capital.
-
-◼️
-
-[Data](articles/d2d4e8bd.json)
-
-[Extended Data](ext_articles/d2d4e8bd.ext.json)
-
----
-
-### School students injured in bus accident
-
-*2024-06-09 12:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-பாடசாலை-மாணவர்கள்-காயம்/175-338642) · `ta`
-
-In a tragic bus accident, thirteen school students and parents were injured and hospitalized at Varakapola Hospital. The incident occurred when the vehicle lost control and plunged into a stream near Warakapola.
-
-🟩
-
-Thirteen students and parents who were injured in the accident have been admitted to Varakapola Hospital.
-
-The Varakapola police said that they had lost the speed and fell into the stream in the Warakapola area.
-
-◼️
-
-[Data](articles/c53a3a9b.json)
-
-[Extended Data](ext_articles/c53a3a9b.ext.json)
 
 ---

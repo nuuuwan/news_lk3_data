@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 13:18:45**
+As of **2024-06-09 13:34:36**
 
 ## Newspaper Stats
 
-*Scraped **29,346** Articles*
+*Scraped **29,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,501
 adaderanalk | 3,321
 tamilmirrorlk | 3,445
 virakesarilk | 4,494
-dailymirrorlk | 4,657
+dailymirrorlk | 4,658
 adaderanasinhalalk | 4,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,345 (100.0%) of 29,346 articles have been extended.
+29,346 (100.0%) of 29,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Ranil in India for Modi’s swearing-in ceremony
+
+*2024-06-09 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-in-India-for-Modis-swearing-in-ceremony/108-284421) · `en`
+
+New Delhi, June 9 (Daily Mirror) - President Ranil Wickremesinghe reached India today to participate in the swearing-in ceremony of Indian Prime Minister Narendra Modi who will begin his third term later this evening.
+
+President Wickremesinghe was welcomed by Indian Foreign Ministry Secretary P. Kumaran, Indian Ocean Affairs Secretary Punin Agrawal, Indian High Commissioner in Colombo Santhosh Jha and Sri Lankan High Commissioner in India Kshenuka Seneviratne at the Indira Ghandi International Airport in New Delhi.
+
+A colourful welcome ceremony was held at the airport with traditional Indian dancers giving a dazzling performance.
+
+President's Secretary Saman Ekanayake, Sri Lankan Foreign Ministry Secretary Aruni Wijewardene and Director General of Government Information Dinith Chinthaka Karunaratne accompanied the President on his trip to India.
+
+...
+
+[Data](articles/48866d01.json)
+
+---
 
 ### Ugandan who swallowed 14 cocaine capsules arrested at BIA
 
@@ -47,6 +65,8 @@ It is reported that after the suspect was admitted to the Negombo Hospital they 
 ◼️
 
 [Data](articles/824d01f3.json)
+
+[Extended Data](ext_articles/824d01f3.ext.json)
 
 ---
 
@@ -2221,25 +2241,5 @@ Sri Lanka obtained the second highest number of votes from the region, and seven
 [Data](articles/0f2cff96.json)
 
 [Extended Data](ext_articles/0f2cff96.ext.json)
-
----
-
-### Sri Lanka elected into United Nations Economic and Social Council
-
-*2024-06-08 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-elected-into-United-Nations-Economic-and-Social-Council/108-284412) · `en`
-
-Colombo, June 08 (Daily Mirror)- The United Nations General Assembly (UNGA) has elected Sri Lanka into its Economic and Social Council (ECOSOC), with 182 out of 189 members present voting in favour, the Foreign Affairs Ministry said today.
-
-Sri Lanka obtained the second highest number of votes from the region, and seventh highest overall, and will begin its three-year term in the council on January 1, 2025.
-
-“As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide,” the Foreign Affairs Ministry said in a media release.
-
-18 countries were elected to the 54-member council, when the vote took place on Friday.
-
-...
-
-[Data](articles/d663642b.json)
-
-[Extended Data](ext_articles/d663642b.ext.json)
 
 ---

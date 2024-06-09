@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 21:04:15**
+As of **2024-06-09 21:19:09**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 4,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,413 (100.0%) of 29,417 articles have been extended.
+29,417 (100.0%) of 29,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### 7:21 சுபநேரத்தில் பாரத பிரதமராக பதவிப்பிரமாணம் செய்தார் மோடி : அமைச்சரவை அமைச்சர்களும் பதவியேற்பு !
+### 7:21 Modi sworn in as Prime Minister of India: Cabinet Ministers
 
 *2024-06-09 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185700) · `ta`
 
-உலகின் மிகப் பெரிய ஜனநாயக தேர்தலான இந்திய நாடாளுமன்றத் தேர்தலில் வெற்றி வாகை சூடிய நிலையில், தொடர்ந்தும் 3ஆவது முறையாக பாரதப் பிரதமராக நரேந்திர மோடி இன்று ஞாயிற்றுக்கிழமை (9) மாலை 7:21சுப நேரத்தில் பதவியேற்றுக் கொண்டார். இதற்கான உத்தியோகபூர்வ பிரம்மாண்ட நிகழ்வு பன்னாட்டு தலைவர்கள் உள்ளிட்ட 9000 இராதந்திரிகளின் பங்கேற்புடன் புதுடில்லியிலுள்ள ராஷ்டிரபதி பவனில் இடம்பெற்றது.
+Narendra Modi was sworn in as India's Prime Minister for the third time following his party's victory in the world's largest democratic elections. The ceremony took place at Rashtrapati Bhavan in New Delhi, attended by 9,000 guests, including international leaders. This marks the continuation of the National Democratic Alliance's winning streak in general elections, with Modi leading the coalition. Key cabinet ministers were also announced, highlighting the stability and continuity of leadership under Modi's administration.
 
-கடும் பாதுகாப்புகளுக்கு மத்தியில் கோலாகல ஏற்பாடுகளுடன் தலைநகர் டில்லி விழாக் கோலம் பூண்டிருந்தது. 44 நாட்களாக 7 கட்டங்களாக இடம்பெற்ற உலகின் மிகப் பெரிய ஜனநாயக தேர்தலாகக் கருதப்படும் இந்திய பொதுத் தேர்தலில் பிரதமர் மோடி தலைமையிலான கூட்டணி வெற்றியை தமதாக்கிக் கொண்டது.
+🟩
 
-மோடியின் கட்சி உட்பட தேசிய ஜனநாயகக் கூட்டணி தொடர்ந்து வெற்றி பெற்ற மூன்றாவது பொதுத் தேர்தலாக இது பதிவுகளில் இணைந்துள்ளது. வெற்றி உறுதிப்படுத்தப்பட்டதன் பின்னர் பிரதமர் மோடி தேசிய ஜனநாயக கூட்டணியின் தலைவராகவும் உத்தியோகபூர்வமாக தெரிவு செய்யப்பட்டமை  குறிப்பிடத்தக்கது.
+Narendra Modi was sworn in as Prime Minister of India for the third consecutive time, as he won the world's largest democratic elections. The official event was held at Rashtrapati Bhavan in New Delhi with the participation of 9000 rabbits, including international leaders.
+
+Amidst heavy security, the capital of Delhi, with the arrangements. Prime Minister Modi -led coalition won the 44 -day phase of seven phases, which is considered the world's largest democratic election in the Indian general election.
+
+This is the third general election that the National Democratic Alliance continued to win, including Modi's party. It is noteworthy that Prime Minister Modi was officially elected as the leader of the National Democratic Alliance after the victory.
 
 ...
 
 [Data](articles/b1cb1b82.json)
 
+[Extended Data](ext_articles/b1cb1b82.ext.json)
+
 ---
 
-### இரண்டு மாத சந்தோஷம் 15ஆம் திகதியுடன் பறி போக போவதாக வடக்கு மீனவர்கள் கவலை
+### Northern fishermen are concerned that two months of happiness is going to be overwhelmed by the 15th
 
 *2024-06-09 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185682) · `ta`
 
-தமது இரண்டு மாத சந்தோஷம் எதிர்வரும் 15 ஆம் திகதியுடன் பறிபோகப்போவதாக யாழ் மாவட்ட கடற்றொழில் கிராமிய அமைப்புகளின் தலைவர் செல்லத்துரை நற்குணம் கவலை தெரிவித்துள்ளார்.
+Northern fishermen fear losing two months of joy due to a fishing ban lift allowing Indian fishermen back into Sri Lankan waters from the 15th, potentially threatening their livelihoods.
 
-இந்தியாவில் மீன் பிடி தடைக்காலம் கடந்த இரண்டு மாதங்களாக இருந்தமையால்,  வடபகுதி கடற்றொழிலாளர்கள் மிகவும் சந்தோஷமாக தொழில் மேற்கொள்ளக் கூடியதாகவிருந்தது.
+🟩
 
-எதிர்வரும் 15 ஆம் திகதி இந்தியாவில் மீன்பிடித் தடைக் காலம் முடிவடையவுள்ளது, அதனால் மீண்டும் இந்திய மீனவர்கள் இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழையலாம். எனவே இந்திய கடற்றொழிலாளர்கள் இலங்கை கடற்பரப்பினுள் அத்துமீறி வராமல் இருக்க இரு நாட்டு அரசும் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+The leader of the Jaffna District Fisheries Rural Organizations Selvathurai Nalukkunam has expressed concern that his two months of happiness will be lost on the 15th.
 
-அதேவேளை இந்திய பிரதமராக மோடி மீண்டும் தெரிவானமை தமக்கு மகிழ்ச்சியே என தெரிவித்த அவர், இந்திய பிரதமர் இந்திய கடற்றொழிலாளர்களின் இழுவைமடிப் படகுகளை தடைசெய்ய வேண்டும் எனவும் கோரியுள்ளார்.
+Since the fishing ban in India has been the last two months, the Northern fishermen have been very happy.
+
+Fisheries ban in India on the 15th of this month, so Indian fishermen can enter the Sri Lankan waters again.. Therefore, Indian fishermen should take steps to take steps to prevent the Sri Lankan waters.
+
+Meanwhile, Modi's re -election as Indian Prime Minister said that the Indian Prime Minister should ban the Indian fishermen's fishermen.
 
 ◼️
 
 [Data](articles/cad562a9.json)
+
+[Extended Data](ext_articles/cad562a9.ext.json)
 
 ---
 
@@ -138,17 +150,23 @@ Earlier in the day, the newly-elected Members of Parliament had gathered at Modi
 
 ---
 
-### இந்தியாவின் பிரதமராக நரேந்திர மோடி பதவிப்பிரமாணம்
+### Narendra Modi sworn in as Prime Minister of India
 
 *2024-06-09 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185695) · `ta`
 
-இந்தியாவின் பிரதமராக தொடர்ந்து மூன்றாவது முறையாக தேர்ந்தெடுக்கப்பட்ட நரேந்திர மோடியின் பதவியேற்பு விழா, இந்தியாவின் தலைநகர் புதுடெல்லியில் தொடங்கியது.
+Narendra Modi was sworn in as India's Prime Minister for the third time in New Delhi, with President Ranil Wickremesinghe among 9,000 attendees.
 
-இந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க உட்பட 9,000 பேர் கலந்துகொண்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Narendra Modi's swearing -in ceremony for the third consecutive year as Prime Minister of India began in New Delhi, India's capital.
+
+9,000 people, including President Ranil Wickremesinghe, were present at the event.
 
 ◼️
 
 [Data](articles/0138641e.json)
+
+[Extended Data](ext_articles/0138641e.ext.json)
 
 ---
 
@@ -260,19 +278,25 @@ However, the Pakistan government and the International Monetary Fund representat
 
 ---
 
-### பிரதமராக மோடி பதவியேற்கவுள்ள நிகழ்வில் பங்கேற்க ஜனாதிபதி ரணில் ராஷ்டிரபதி பவனுக்கு வருகை
+### President Ranil Rashtrapati Bhavan visits Modi to take office
 
 *2024-06-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185693) · `ta`
 
-பிரதமராக மோடி பதவியேற்கவுள்ள நிகழ்வில் பங்கேற்க ராஷ்டிரபதி பவனுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட முக்கியஸ்தர்கள் வருகைதந்துள்ளனர்.
+President Ranil Wickremesinghe visits Modi at Rashtrapati Bhavan for his third term as India's PM, marking a significant moment in Asian politics.
 
-இந்தியாவின் பிரதமராக மூன்றாவது முறையாக பதவியேற்றுள்ள நரேந்திர மோடியின் பதவியேற்பு விழா, ஆசிய மற்றும் உலக அரசியலில் மற்றொரு தனித்துவமான அத்தியாயத்தை தொடங்கி வைத்து தலைநகர் டெல்லியில் தற்போது நடைபெற்று வருகிறது.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பிராந்திய அரசாங்க தலைவர்கள் குழுவும் பதவியேற்பு விழாவில் பங்கேற்கின்றனர்.
+President Ranil Wickremesinghe, including President Ranil Wickremesinghe, has visited Rashtrapati Bhavan to attend Modi's appointment as Prime Minister.
+
+Narendra Modi, who has been sworn in as Prime Minister of India for the third time, is currently underway in the capital Delhi with another unique chapter in Asian and world politics.
+
+President Ranil Wickremesinghe and the Regional Government Heads of Governments are also participating in the swearing -in ceremony.
 
 ◼️
 
 [Data](articles/d365ac46.json)
+
+[Extended Data](ext_articles/d365ac46.ext.json)
 
 ---
 

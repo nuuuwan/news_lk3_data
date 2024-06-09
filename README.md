@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 20:52:35**
+As of **2024-06-09 21:04:15**
 
 ## Newspaper Stats
 
-*Scraped **29,413** Articles*
+*Scraped **29,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,754
 adalk | 2,511
 adaderanalk | 3,333
 tamilmirrorlk | 3,449
-virakesarilk | 4,511
+virakesarilk | 4,515
 dailymirrorlk | 4,667
 adaderanasinhalalk | 4,731
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 4,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,412 (100.0%) of 29,413 articles have been extended.
+29,413 (100.0%) of 29,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### 7:21 சுபநேரத்தில் பாரத பிரதமராக பதவிப்பிரமாணம் செய்தார் மோடி : அமைச்சரவை அமைச்சர்களும் பதவியேற்பு !
+
+*2024-06-09 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185700) · `ta`
+
+உலகின் மிகப் பெரிய ஜனநாயக தேர்தலான இந்திய நாடாளுமன்றத் தேர்தலில் வெற்றி வாகை சூடிய நிலையில், தொடர்ந்தும் 3ஆவது முறையாக பாரதப் பிரதமராக நரேந்திர மோடி இன்று ஞாயிற்றுக்கிழமை (9) மாலை 7:21சுப நேரத்தில் பதவியேற்றுக் கொண்டார். இதற்கான உத்தியோகபூர்வ பிரம்மாண்ட நிகழ்வு பன்னாட்டு தலைவர்கள் உள்ளிட்ட 9000 இராதந்திரிகளின் பங்கேற்புடன் புதுடில்லியிலுள்ள ராஷ்டிரபதி பவனில் இடம்பெற்றது.
+
+கடும் பாதுகாப்புகளுக்கு மத்தியில் கோலாகல ஏற்பாடுகளுடன் தலைநகர் டில்லி விழாக் கோலம் பூண்டிருந்தது. 44 நாட்களாக 7 கட்டங்களாக இடம்பெற்ற உலகின் மிகப் பெரிய ஜனநாயக தேர்தலாகக் கருதப்படும் இந்திய பொதுத் தேர்தலில் பிரதமர் மோடி தலைமையிலான கூட்டணி வெற்றியை தமதாக்கிக் கொண்டது.
+
+மோடியின் கட்சி உட்பட தேசிய ஜனநாயகக் கூட்டணி தொடர்ந்து வெற்றி பெற்ற மூன்றாவது பொதுத் தேர்தலாக இது பதிவுகளில் இணைந்துள்ளது. வெற்றி உறுதிப்படுத்தப்பட்டதன் பின்னர் பிரதமர் மோடி தேசிய ஜனநாயக கூட்டணியின் தலைவராகவும் உத்தியோகபூர்வமாக தெரிவு செய்யப்பட்டமை  குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/b1cb1b82.json)
+
+---
+
+### இரண்டு மாத சந்தோஷம் 15ஆம் திகதியுடன் பறி போக போவதாக வடக்கு மீனவர்கள் கவலை
+
+*2024-06-09 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185682) · `ta`
+
+தமது இரண்டு மாத சந்தோஷம் எதிர்வரும் 15 ஆம் திகதியுடன் பறிபோகப்போவதாக யாழ் மாவட்ட கடற்றொழில் கிராமிய அமைப்புகளின் தலைவர் செல்லத்துரை நற்குணம் கவலை தெரிவித்துள்ளார்.
+
+இந்தியாவில் மீன் பிடி தடைக்காலம் கடந்த இரண்டு மாதங்களாக இருந்தமையால்,  வடபகுதி கடற்றொழிலாளர்கள் மிகவும் சந்தோஷமாக தொழில் மேற்கொள்ளக் கூடியதாகவிருந்தது.
+
+எதிர்வரும் 15 ஆம் திகதி இந்தியாவில் மீன்பிடித் தடைக் காலம் முடிவடையவுள்ளது, அதனால் மீண்டும் இந்திய மீனவர்கள் இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழையலாம். எனவே இந்திய கடற்றொழிலாளர்கள் இலங்கை கடற்பரப்பினுள் அத்துமீறி வராமல் இருக்க இரு நாட்டு அரசும் நடவடிக்கை எடுக்க வேண்டும் என தெரிவித்துள்ளார்.
+
+அதேவேளை இந்திய பிரதமராக மோடி மீண்டும் தெரிவானமை தமக்கு மகிழ்ச்சியே என தெரிவித்த அவர், இந்திய பிரதமர் இந்திய கடற்றொழிலாளர்களின் இழுவைமடிப் படகுகளை தடைசெய்ய வேண்டும் எனவும் கோரியுள்ளார்.
+
+◼️
+
+[Data](articles/cad562a9.json)
+
+---
+
+### Drinking in the north of Vavuniya - Part 02
+
+*2024-06-09 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185670) · `ta`
+
+In the northern region of Vavuniya, vast farmlands lay idle until the government's Mahaweli Program resettled farmers nationwide for agriculture. Ranavana Dhammika Thera aims to create a local council and upgrade the Welioya Divisional Secretariat to aid these settlers.
+
+🟩
+
+“There were massive agricultural lands in these areas. They were in uselessness. In accordance with the government's policy, people from all over the country were settled under the Mahaweli Program for agricultural activities. I want to establish a Pradeshiya Sabha while upgrading the Welioya Divisional Secretariat for their benefit ” - Ranavana Dhammika Thera
+
+◼️
+
+[Data](articles/61480fe3.json)
+
+[Extended Data](ext_articles/61480fe3.ext.json)
+
+---
 
 ### To the coin to Pakistan
 
@@ -83,6 +135,20 @@ Earlier in the day, the newly-elected Members of Parliament had gathered at Modi
 [Data](articles/295b45ea.json)
 
 [Extended Data](ext_articles/295b45ea.ext.json)
+
+---
+
+### இந்தியாவின் பிரதமராக நரேந்திர மோடி பதவிப்பிரமாணம்
+
+*2024-06-09 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185695) · `ta`
+
+இந்தியாவின் பிரதமராக தொடர்ந்து மூன்றாவது முறையாக தேர்ந்தெடுக்கப்பட்ட நரேந்திர மோடியின் பதவியேற்பு விழா, இந்தியாவின் தலைநகர் புதுடெல்லியில் தொடங்கியது.
+
+இந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க உட்பட 9,000 பேர் கலந்துகொண்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0138641e.json)
 
 ---
 
@@ -191,6 +257,22 @@ However, the Pakistan government and the International Monetary Fund representat
 [Data](articles/9ba729d1.json)
 
 [Extended Data](ext_articles/9ba729d1.ext.json)
+
+---
+
+### பிரதமராக மோடி பதவியேற்கவுள்ள நிகழ்வில் பங்கேற்க ஜனாதிபதி ரணில் ராஷ்டிரபதி பவனுக்கு வருகை
+
+*2024-06-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185693) · `ta`
+
+பிரதமராக மோடி பதவியேற்கவுள்ள நிகழ்வில் பங்கேற்க ராஷ்டிரபதி பவனுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட முக்கியஸ்தர்கள் வருகைதந்துள்ளனர்.
+
+இந்தியாவின் பிரதமராக மூன்றாவது முறையாக பதவியேற்றுள்ள நரேந்திர மோடியின் பதவியேற்பு விழா, ஆசிய மற்றும் உலக அரசியலில் மற்றொரு தனித்துவமான அத்தியாயத்தை தொடங்கி வைத்து தலைநகர் டெல்லியில் தற்போது நடைபெற்று வருகிறது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பிராந்திய அரசாங்க தலைவர்கள் குழுவும் பதவியேற்பு விழாவில் பங்கேற்கின்றனர்.
+
+◼️
+
+[Data](articles/d365ac46.json)
 
 ---
 
@@ -424,21 +506,31 @@ At the same place, two others killed in an accident that took place in two train
 
 ---
 
-### කෝටිපති ව්‍යාපාරිකයෙකුගෙන් ලක්ෂ 1500ක් වංචා කළ වංචාකාරියක් අල්ලයි
+### Millionaire deceit Rs.
 
 *2024-06-09 18:33:09* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපාරිකයෙකුගෙන්-ලක්ෂ-1500ක්-වංචා-කළ-වංචාකාරියක්-අල්ලයි/11-410102) · `si`
 
-දකුණු පළාතේ ප්‍රසිද්ධ අවන්හලක් පවත්වාගෙන යන කෝටිපති ව්‍යාපාරිකයකුගෙන්  කෝටි 15 කට ආසන්න මුදලක් ලබාගෙන එය ලබා නොදී වංචා කර සැඟව සිටි මහා පරිමාණ වංචා කාරියක් වන  54 හැවිරිදි  කාන්තාවක් අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+A 54-year-old woman was arrested for a massive fraud involving a millionaire businessman in Sri Lanka's Southern Province. The suspect, who had previous legal issues, allegedly deceived the businessman through false promises. Authorities found a luxury car, four smartphones, and two laptops during the arrest. The investigation, led by the Inspector General of Police, revealed significant financial irregularities linked to the Colombo Chief Magistrate's Court.
 
-අත්අඩංගුවට ගත් එම සැකකාරිය මීට පෙර මහේස්ත්‍රාත්වරියක් ලෙස පෙනී සිට මත්ද්‍රව්‍ය  සම්බන්ධයෙන් චෝදනා ලබා රිමාන්ඩ්  ගත වූ සැකකාරියකගෙන් රුපියල් හය ලක්ෂයකට අධික මුදලක් ලබා ගැනීමට තැත් කිරීම සම්බන්ධයෙන් චෝදනා ලැබු  තැනැත්තියක් බව පොලිසිය කියයි.
+🟩
 
-එම සැකකාරිය පරිහරණය කළ අති සුඛෝභෝගී මෝටර් රථයක් , ස්මාට් වර්ගයේ ජංගම දුරකථන හතරක් හා ලැෆ් ටොෆ් පරිගණක දෙකක්ද පොලිස් භාරයට ගෙන ඇත.
+The Colombo Crimes Division (CCC) says that a 54-year-old woman was arrested by a large scale fraud, who had been cheated without providing a millionaire businessman in the Southern Province.
 
-කොළඹ අලුත් කඩේ පිහිටි ශ්‍රේෂ්ඨාධිකරණ භූමියේදී මිතුරෙකුගේ නඩුවක් සඳහා පැමිණි අවස්ථාවේදී තමාගේ මිතුරන් දෙදෙනකු මාර්ගයෙන් මෙම කාන්තාව හඳුනාගත් බවත් අනතුරුව තමාගේ යෙහෙළියක වශයෙන් විශ්වාසය දිනා ගනිමින් නැවත ලබා දෙන බවට පොරොන්දු වී  රුපියල්  14 කෝටි අනූපන් ලක්ෂයක මුදලක් අවස්ථා හතරකදී ඉල්ලා ගත් බවත් එම ව්‍යාපාරිකයා කරන ලද පැමිණිල්ලේ සඳහන්ය.
+The suspect had previously appeared as a magisterial and had been charged with attempts to obtain more than Rs.
+
+Police have also seized a healthy car, four smoky mobile phones and two laff toff computers.
+
+The businessman made the businessman when he came to a friend from the Supreme Court case at the Supreme Court case at the Supreme Court case.
+
+The woman is a few of the vehicles and rescued the woman to release the lands in the Customs and several persons who have been released to the customs in the Colombo area.In April 2023, the businessman added that a sum of Rs.
+
+The businessman added that he had not received any information regarding the woman and that she was hidden and he was hidden without paying her money.
 
 ...
 
 [Data](articles/8c16b2e0.json)
+
+[Extended Data](ext_articles/8c16b2e0.ext.json)
 
 ---
 
@@ -847,24 +939,6 @@ The suspension of students' exam results has caused great controversy. Students,
 [Data](articles/cd0d61d7.json)
 
 [Extended Data](ext_articles/cd0d61d7.ext.json)
-
----
-
-### Drinking in the north of Vavuniya - Part 02
-
-*2024-06-09 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185670) · `ta`
-
-In the northern region of Vavuniya, vast farmlands lay idle until the government's Mahaweli Program resettled farmers nationwide for agriculture. Ranavana Dhammika Thera aims to create a local council and upgrade the Welioya Divisional Secretariat to aid these settlers.
-
-🟩
-
-“There were massive agricultural lands in these areas. They were in uselessness. In accordance with the government's policy, people from all over the country were settled under the Mahaweli Program for agricultural activities. I want to establish a Pradeshiya Sabha while upgrading the Welioya Divisional Secretariat for their benefit ” - Ranavana Dhammika Thera
-
-◼️
-
-[Data](articles/61480fe3.json)
-
-[Extended Data](ext_articles/61480fe3.ext.json)
 
 ---
 
@@ -2167,95 +2241,5 @@ President Ranil Wickremesinghe, who was invited to attend the official swearing 
 [Data](articles/d153c058.json)
 
 [Extended Data](ext_articles/d153c058.ext.json)
-
----
-
-### If there was April election, he had to make quite
-
-*2024-06-09 09:39:33* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-මහ-මැතිවරණයක්-තිබුණේ-නම්-අනුරයි-සජිතුයි-කරට-කර/11-410084) · `si`
-
-In the April 2024 general election, Sajith Premadasa received 34% of the vote, marking a slight decrease from previous months.
-
-🟩
-
-A general election in April 2024 was held in the intention of voting on the intention of voting on the intention of voting of 34% and Sajith Premadasa, led by Sajith Premadasa.
-
-It is a decrease of 3 percent and 1 percent to the reconciliation decline in the month of March. The Sri Lanka General Front receives 12 percent.
-
-◼️
-
-[Data](articles/de8aad56.json)
-
-[Extended Data](ext_articles/de8aad56.ext.json)
-
----
-
-### President to India
-
-*2024-06-09 09:29:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියාවට/11-410083) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe will visit New Delhi, India, from morning on a two-day trip starting tomorrow. He'll be accompanied by a delegation and leave via Indian Airlines flight AI-282, arriving at 11:40 pm.
-
-🟩
-
-Sri Lanka President Ranil Wickremesinghe has confirmed that the Indian President Ranil Wickremesinghe to attend the Indian day's official visit to New Delhi on the morning of a two-day official visit to New Delhi.
-
-A delegation with him was also joined in this visit. They left the Indian Airline AI on 29th morning at the Indian Airlines' A.-282.
-
-The aircraft carrying Sri Lankan diplomats will be landed at New Delhi in New Delhi, India at 11.40 pm.
-
-◼️
-
-[Data](articles/16e2a0a1.json)
-
-[Extended Data](ext_articles/16e2a0a1.ext.json)
-
----
-
-### West Indies beat
-
-*2024-06-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197551) · `si`
-
-In the World Cup, the West Indies triumphed over Uganda, scoring 173/5 in 20 overs led by Johnson Charles' 44 runs. Chasing 174, Uganda was limited to 36/0 in 12 overs.
-
-🟩
-
-The West Indies team won the match with 134 runs in the World Cup.
-
-The leader of the West Indies won the ball first to bat first.
-
-Accordingly, the West Indies scored 173 runs for the loss of 5 wickets at the end of 20 overs.
-
-Johnnson Charles scored 44 runs for the West Indies in their west Indies and scored 30 runs.
-
-Chasing a target of 174, the Ugandan team could score 36 runs in the end of 12 overs.
-
-◼️
-
-[Data](articles/1ce67b56.json)
-
-[Extended Data](ext_articles/1ce67b56.ext.json)
-
----
-
-### President Ranil leaves for New Delhi to attend Modi’s swearing-in ceremony
-
-*2024-06-09 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99752/president-ranil-leaves-for-new-delhi-to-attend-modis-swearing-in-ceremony) · `en`
-
-President Ranil Wickremesinghe has departed for New Delhi a short while ago at the invitation of Indian Prime Minister Shri Narendra Modi.
-
-He is set to attend Prime Minister Modi’s swearing-in ceremony, which is scheduled for this evening, according to the President’s Media Division (PMD).
-
-Leaders from seven neighboring countries, including Sri Lankan President Ranil Wickremesinghe, are attending Narendra Modi’s swearing-in ceremony after he secured a historic third term as Prime Minister following India’s general elections.
-
-They will be among 9,000 guests, including foreign dignitaries and prominent figures from around the world, who will be present in Delhi for Mr. Modi’s oath-taking ceremony on Sunday.
-
-The Indian foreign ministry confirmed that leaders from Sri Lanka, the Maldives, Bangladesh, Nepal, Bhutan, and other neighboring countries “have accepted the invitation to attend” Mr. Modi’s swearing-in ceremony.
-
-...
-
-[Data](articles/407e2e5d.json)
-
-[Extended Data](ext_articles/407e2e5d.ext.json)
 
 ---

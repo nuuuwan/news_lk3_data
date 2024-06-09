@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 22:05:44**
+As of **2024-06-09 22:19:09**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 4,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,418 (100.0%) of 29,421 articles have been extended.
+29,421 (100.0%) of 29,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### தீர்வின்றேல் பணிப்புறக்கணிப்பு போராட்டம் தொடரும் - புகையிரத தொழிற்சங்கம் எச்சரிக்கை
+### Settlement Struggle will continue - Railway Trade Union Warning
 
 *2024-06-09 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185702) · `ta`
 
-புகையிரத இயந்திர இயக்கவியல் பொறியியலாளர் சங்கத்தின் பணிப்புறக்கணிப்பால் ஞாயிற்றுக்கிழமை (09) 50 அலுவலக புகையிரத சேவைகள் இரத்துச் செய்யப்பட்டன. இந்த பணிப்புறக்கணிப்பால் பொது பயணிகள் கடும் அசௌகரியங்களை எதிர்கொண்டனர்.
+Railway workers' strike threatens service disruptions. A workshop highlighted issues like pay raises and promotions. Talks with the Transport Minister are scheduled, but if unsatisfactory, further strikes are planned. Three drivers participated in limited service, leading to cancellations and delays. The government faces criticism for not addressing sectoral issues adequately.
 
-பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள புகையிரத தொழிற்சங்கத்தினருக்கும்,போக்குவரத்து அமைச்சர் பந்துல குணவர்தனவுக்கும் இடையில் திங்கட்கிழமை (10) போக்குவரத்து அமைச்சில் பேச்சுவார்த்தை இடம்பெறவுள்ளது. இந்த பேச்சுவார்த்தையில் சாதகமான தீர்வு கிடைக்காவிடின் தொடர் பணிப்புறக்கணிப்பில் ஈடுபடுவோம் என புகையிரத சாரதிகள் சங்கத்தின் செயலாளர் எஸ்.ஆர்.சி.எம்.சேனாநாயக்க தெரிவித்தார்.
+🟩
 
-சம்பள அதிகரிப்பு,பதவி உயர்வு உட்பட சேவைத்துறையில் நிலவும் அடிப்படை பிரச்சினைகளை முன்னிலைப்படுத்தி புகையிரத இயக்கவியல் பொறியியலாளர் சங்கத்தினர் கடந்த வியாழக்கிழமை நள்ளிரவு முதல் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+Railway Mechanical Engineering Engineers Association's workshop on Sunday (09). Public travelers face severe inconveniences due to this workplace.
+
+The Transport Ministry will hold talks between the train union and the Minister of Transport Bandula Gunawardena on Monday (10).. SRCM Senanayake, Secretary of the Railway Drivers Association, said that if there is no favorable solution in the negotiations, we will engage in a series of workforce.
+
+The Railway Directorate Engineers Association has been engaged in a workshop since midnight last Thursday, highlighting the basic problems in the service sector, including salary increase and promotion.
+
+Three railway drivers were involved in a limited service while train drivers were engaged in work strike. 50 office train services were canceled on Sunday (09) as the train service was limited. A few trains were delayed in the delay.
 
 ...
 
 [Data](articles/96f2754e.json)
+
+[Extended Data](ext_articles/96f2754e.ext.json)
 
 ---
 
@@ -66,6 +74,8 @@ However, Dr. de Silva, while thanking the Minister of Public Security and the CI
 
 [Data](articles/f6cc20a8.json)
 
+[Extended Data](ext_articles/f6cc20a8.ext.json)
+
 ---
 
 ### Sri Lankan arrested with 13.5 kg of gold at Chennai airport
@@ -85,6 +95,8 @@ The passenger was arrested along with an Indigo airline staff member who was inv
 ...
 
 [Data](articles/6e26b52b.json)
+
+[Extended Data](ext_articles/6e26b52b.ext.json)
 
 ---
 

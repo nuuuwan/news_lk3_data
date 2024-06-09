@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 20:03:58**
+As of **2024-06-09 20:19:05**
 
 ## Newspaper Stats
 
-*Scraped **29,406** Articles*
+*Scraped **29,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,509
+adalk | 2,510
 adaderanalk | 3,331
-tamilmirrorlk | 3,448
+tamilmirrorlk | 3,449
 virakesarilk | 4,511
-dailymirrorlk | 4,666
-adaderanasinhalalk | 4,730
+dailymirrorlk | 4,667
+adaderanasinhalalk | 4,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,404 (100.0%) of 29,406 articles have been extended.
+29,406 (100.0%) of 29,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### කාසියේ වාසිය පාකිස්තානයට
+
+*2024-06-09 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197571) · `si`
+
+ඉන්දියාවට එරෙහි තරගයේ කාසියේ වාසිය දිනූ පාකිස්තාන කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/984b27e3.json)
+
+---
+
+### 3 ஆவது முறையாக பிரதமராக பதவியேற்றார் மோடி
+
+*2024-06-09 19:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஆவது-முறையாக-பிரதமராக-பதவியேற்றார்-மோடி/175-338656) · `ta`
+
+பிரதமர் நரேந்திர மோடி இந்தியாவின் பிரதமராக 3 ஆவது முறையாக பதவியேற்றுக் கொண்டார். டில்லியில் குடியரசுத் தலைவர் மாளிகையில் இன்று மாலை சரியாக 7.23 நடந்த பிரம்மாண்ட பதவியேற்பு விழாவில் குடியரசுத் தலைவர் திரவுபதி முர்மு, மோடிக்கு பதவிப் பிரமாணமும், ரகசியக் காப்புப் பிரமாணமும் செய்து வைத்தார்.
+
+‘நான் நரேந்திர தாமோதரதாஸ் மோடி, கடவுளின் பெயரால்..’ என்று ஆரம்பித்து மோடி பிரதமராகப் பதவியேற்றுக் கொண்டார். முன்னதாக தேசிய கீதம் இசைக்கப்பட்டது. விழாவுக்கு திரண்டிருந்த ஆதரவாளர்கள் பாரத் மாதா கி ஜி என்று பலத்த கோஷம் எழுப்பினர். (a)
+
+◼️
+
+[Data](articles/f7498d22.json)
+
+---
+
+### Modi takes oath as PM for 3rd term
+
+*2024-06-09 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Modi-takes-oath-as-PM-for-3rd-term/107-284437) · `en`
+
+India, June 9 (Indian Express) - Narendra Modi took oath as the Prime Minister of India for the third time, equalling a feat that only Jawaharlal Nehru achieved in the past. Rajnath Singh, Amit Shah, J P Nadda, Shivraj Singh Chouhan and Nirmala Sitharaman have also taken oath as cabinet ministers in the new government. With over 8,000 guests at the Rashtrapati Bhavan, Modi and his council of ministers officially kicked off the NDA’s third stint.
+
+Earlier in the day, the newly-elected Members of Parliament had gathered at Modi’s residence, many of whom will also be included in the Cabinet. 66 ministers are taking oath now.
+
+◼️
+
+[Data](articles/295b45ea.json)
+
+---
 
 ### Modi sworn in for third term as India’s prime minister
 
@@ -50,6 +90,8 @@ This is the first time the BJP under Modi has needed support from its regional a
 
 [Data](articles/0213df75.json)
 
+[Extended Data](ext_articles/0213df75.ext.json)
+
 ---
 
 ### Harsha tells CID there is ‘no threats’ to his life
@@ -67,6 +109,8 @@ This was after the Chair of the Committee of Public Finance (COPF), speaking in 
 ...
 
 [Data](articles/c7b90099.json)
+
+[Extended Data](ext_articles/c7b90099.ext.json)
 
 ---
 
@@ -351,6 +395,24 @@ However, Minister Siyambalapitiya stated that the government is constantly suppo
 [Data](articles/d0fbbdf6.json)
 
 [Extended Data](ext_articles/d0fbbdf6.ext.json)
+
+---
+
+### පොසොන් කාලයට අපුරට අතිරේක බස් 400ක්
+
+*2024-06-09 18:03:13* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-කාලයට-අපුරට-අතිරේක-බස්-400ක්/11-410101) · `si`
+
+ඓතිහාසික මිහින්තලය, තන්තිරිමලය සහ අනුරාධපුර පූජා නගරය කේන්ද්‍ර කර ගනිමින් පැවැත්වෙන මෙව අනුරාධපුර පොසොන් උත්සවය  සදහා පැමිණෙන ලක්ෂ සංඛ්‍යාත  බැතිමතුන් වෙනුවෙන් සාමාන්‍ය ප්‍රවාහන සේවාවට අමතරව අතිරේක විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කරන බව  ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයේ සභාපති ලලිත්ද අල්විස් මහතා පැවසීය.
+
+සභාපතිවරයා මේ බව කියා සිටියේ ඊයේ (8දා) දින අනුරාධපුර ලංගම ප්‍රාදේශීය කාර්යාලයේදී පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින්ය.
+
+මහව සිට අනුරාධපුරය දක්වා වන දුම්රිය මාර්ගයේ සිදුවන අලුත් වැඩියාව හේතුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට සිදුවන අපහසුතාවය මග හැරීම සඳහා මීට පෙර වර්ෂවලදී පැවති පොසොන් මංගල්‍යය සඳහා යෙදවූ බස් රථ සේවාවට අමතර විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට සිදු වන බව සභාපතිවරයා පැවසීය.
+
+ඒ අනුව  ගම්පහ සහ කොළඹ ලංගම ප්‍රාදේශිකයන් වලද සහාය ඇතුව මෙවර පොසොන් මංගල්‍යය වෙනුවෙන් අමතර බස්රථ හාරසීයක් යෙදවීමට කටයුතු කරන බවද මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/a6bbf6c0.json)
 
 ---
 
@@ -2169,105 +2231,5 @@ Meanwhile, the Kegalle District Secretary had announced on Friday that the Colom
 [Data](articles/03ee70ef.json)
 
 [Extended Data](ext_articles/03ee70ef.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-06-09 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99750/fairly-heavy-showers-expected-in-parts-of-the-island-) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts today.
-
-Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Nuwara Eliya district.
-
-A few showers will occur in Northern and North-central provinces.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3ea1e2f4.json)
-
-[Extended Data](ext_articles/3ea1e2f4.ext.json)
-
----
-
-### President to New Delhi
-
-*2024-06-09 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197550) · `si`
-
-President Ranil Wickremesinghe traveled to New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, invited by Modi himself. The event took place today in New Delhi, marking Modi's return after his party's victory in the world's largest democratic election.
-
-🟩
-
-President Ranil Wickremesinghe left for New Delhi for a few minutes ago to attend the swearing in Narendra Modi.
-
-The President is due to attend the event of Indian Prime Minister Narendra Modi's invitation.
-
-The swearing in ceremony will be held today (09) in New Delhi capital.
-
-Prime Minister Narendra Modi's party recently won the biggest democratic election in the world, who is the largest democratic election in the world, is the largest democratic election in the world.
-
-◼️
-
-[Data](articles/4d007c43.json)
-
-[Extended Data](ext_articles/4d007c43.ext.json)
-
----
-
-### Closing Kadugannawa reopened
-
-*2024-06-09 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197549) · `si`
-
-The lower Kadugannawa section of the Colombo-Kandy main road has reopened, but drivers are advised to watch out for debris due to ongoing efforts to clear rocks and trees along the route, which were deemed unsafe during the rainy season.
-
-🟩
-
-The lower Kadugannawa section of the Colombo-Kandy main road has been reopened.
-
-However, the Disaster Management Center requests drivers to be a closer look at chariots.
-
-Steps have been temporarily closed from the Colombo-Kandy main road from 7.30 am from 7.30 am from 7.30 am today (09).
-
-With the rainy season, risks to remove the risky stones and trees on either side of the lower Kadugannawa area.
-
-◼️
-
-[Data](articles/458dab4a.json)
-
-[Extended Data](ext_articles/458dab4a.ext.json)
-
----
-
-### President Ranil participates in Prime Minister Modi's swearing -in
-
-*2024-06-09 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185627) · `ta`
-
-President Ranil Wickremesinghe and Foreign Minister Ali Sabri are set to attend Prime Minister Narendra Modi's third-term swearing-in ceremony in Delhi today. The event marks a significant gathering of international leaders from the Indian Ocean region and beyond, highlighting India's diplomatic outreach under Modi's leadership.
-
-🟩
-
-Preparations for the swearing -in of Prime Minister Narendra Modi's third term are being carried out.
-
-President Ranil Wickremesinghe and Foreign Minister Ali Sabri are coming to Delhi today (09) to attend the event.
-
-Following the 2024 general elections, Prime Minister Narendra Modi and ministers have been invited as special guests for the swearing -in ceremony of India's foreign states and the Indian Ocean region.
-
-President Ranil Wickremesinghe, Maldivian President Dr. Muhammad Muzhis, Sichels Vice President Ahmad Abip, Bangladesh Prime Minister Sheikh Hasina, Mauritius Prime Minister Praveen Kumar Jagnath, Nepal Prime Minister Pushpa Kamal Dahal Prasanda and Bhutan Prime Minister Siring Tobke were present.
-
-The leaders who attend the swearing -in ceremony will be attended by President Indian President Draupadi Murmu at Rashtrapati Bhavan this evening.
-
-It is noteworthy that these leaders are attending the swearing -in ceremony for Prime Minister Modi's third term.
-
-...
-
-[Data](articles/ad7c36f0.json)
-
-[Extended Data](ext_articles/ad7c36f0.ext.json)
 
 ---

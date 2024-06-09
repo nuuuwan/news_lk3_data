@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 01:53:30**
+As of **2024-06-10 02:04:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,435 (100.0%) of 29,439 articles have been extended.
+29,438 (100.0%) of 29,439 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ On the tea and rubber plantations -until the president recently forced owners to
 
 [Data](articles/c21f76e6.json)
 
+[Extended Data](ext_articles/c21f76e6.ext.json)
+
 ---
 
 ### UK centre-right media gearing up for a Third World War
@@ -67,6 +69,8 @@ One could very well describe the Cold War between the West (the US and its NATO 
 ...
 
 [Data](articles/21ed4733.json)
+
+[Extended Data](ext_articles/21ed4733.ext.json)
 
 ---
 
@@ -1295,6 +1299,8 @@ A few days ago, I realised that while any kind of separation from someone who is
 ...
 
 [Data](articles/69b08d28.json)
+
+[Extended Data](ext_articles/69b08d28.ext.json)
 
 ---
 

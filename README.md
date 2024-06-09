@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 09:19:13**
+As of **2024-06-09 09:34:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,302 (100.0%) of 29,303 articles have been extended.
+29,303 (100.0%) of 29,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ජනපති නවදිල්ලියට
+### President to New Delhi
 
 *2024-06-09 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197550) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත්වූ නරේන්ද්‍ර මෝදිගේ දිවුරුම්දීමේ උත්සවයට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර නවදිල්ලිය බලා පිටත්ව ගොස් තිබේ.
+President Ranil Wickremesinghe traveled to New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, invited by Modi himself. The event took place today in New Delhi, marking Modi's return after his party's victory in the world's largest democratic election.
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ ආරාධනයකට අනුව ජනාධිපතිවරයා එම දිවුරුම්දීමේ උත්සවයට සහභාගීවීමට නියමිතය.
+🟩
 
-දිවුරුම්දීමේ උත්සවය නවදිල්ලි අගනුවරදී අද (09) සවස පැවැත්වීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe left for New Delhi for a few minutes ago to attend the swearing in Narendra Modi.
 
-දින 44ක් අදියර 7ක් යටතේ පැවැති ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස සැලකෙන ඉන්දීය මහ මැතිවරණය ජයගැනීමට අගමැති නරේන්ද්‍ර මෝදිගේ පක්ෂය ප්‍රමුඛ සන්ධානය පසුගිය දා සමත්විය.
+The President is due to attend the event of Indian Prime Minister Narendra Modi's invitation.
+
+The swearing in ceremony will be held today (09) in New Delhi capital.
+
+Prime Minister Narendra Modi's party recently won the biggest democratic election in the world, who is the largest democratic election in the world, is the largest democratic election in the world.
 
 ◼️
 
 [Data](articles/4d007c43.json)
+
+[Extended Data](ext_articles/4d007c43.ext.json)
 
 ---
 

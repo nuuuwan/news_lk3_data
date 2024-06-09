@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 18:11:48**
+As of **2024-06-09 18:23:25**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 4,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,380 (100.0%) of 29,383 articles have been extended.
+29,383 (100.0%) of 29,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ව්‍යාපාරිකයාගේ කෝටි ගණනකට විද්ද කත අත්අඩංගුවට
+### Women arrested for billions of businessman
 
 *2024-06-09 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197565) · `si`
 
-ව්‍යාපාරිකයෙකුගේ කෝටි 15ක මුදලක් ලබාගෙන එය නැවත ලබානොදී වංචාවක් සිදුකළ බවට චෝදනා එල්ලවූ කාන්තාවක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 54-year-old woman from Makola has been arrested for allegedly swindling Rs. 15 billion from a businessman. The arrest followed a complaint that the woman failed to return the money lent to release his vehicles. Authorities found a luxury car, smartphones, and laptops in her possession. She is linked to numerous fraud cases, including one where she allegedly tried to extort Rs. 636,000 from another suspect and engaged in false passport processing. Further investigations are being conducted by the Colombo Crimes Division.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මාකොළ ප්‍රදේශයේ පදිංචි 54 හැවිරිදි වියේ පසුවන කාන්තාවකි.
+🟩
 
-මෙහිදී කාන්තාව සතු අති සුඛෝපභෝගී මෝටර් රථයක්, ස්මාට් ජංගම දුරකථන කිහිපයක් සහ ලැප්ටොප් පරිගණක දෙකක් පොලීසිය සිය භාරයට ගෙන තිබේ.
+The police have arrested a woman who has been arrested by the police accused of obtaining Rs. 15 billion in a businessman.
 
-කොළඹ ශ්‍රේෂ්ඨාධිකරණ භූමියේදී තම මිතුරෙකු මාර්ගයෙන් මෙම සැකකාර කාන්තාව හඳුනාගත් බව ව්‍යාපාරිකයා පොලීසියට පවසා ඇත.
+The arrested woman is a 54 year old resident of Makola.
 
-තමන් වාහන ආනයනය කරන බව පවසා ඇති අදාළ සැකකාර කාන්තාව එලෙස ගෙන්වූ වාහන කිහිපයක් රේගුවෙන් නිදහස් කරගැනීමට හදිසි මුදල් අවශ්‍යතාවයක් ඇතිබව සඳහන් කර මෙම මුදල අදාළ ව්‍යාපාරිකයාගෙන් ලබාගෙන ඇති බවත් මූලික විමර්ශනවලදී හෙළිවී ඇත.
+The police have seized a luxury car, several smartphones and two laptops.
 
-අනතුරුව තමන්ට එම කාන්තාව මුණනොගැසුණු බව සඳහන් කරමින් මෙම ව්‍යාපාරිකයා විසින් පොලීසියට සිදුකරන ලද පැමිණිල්ලකට අනුව සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+The businessman has told the police that this suspect was identified by a friend from the Supreme Court of Colombo.
 
-මෙහිදී තොරතුරු අනාවරණය වී ඇත්තේ සැකකාර කාන්තාව මීට පෙර මහා පරිමාණ මුදල් වංචා රැසකට අදාළව චෝදනා එල්ලවූ කාන්තාවක් බවය.
+Preliminary investigations have revealed that the money was obtained from the relevant businessman to release the vehicles.
+
+The suspect was arrested following a complaint lodged by the businessman to say that he did not meet the woman.
+
+The suspected woman has been accused of allegedly accused of allegations of large-scale money frauds.
+
+It has been revealed that there have been many cases of fraud file fraud in the Chief Magistrate's Court of Major Chief Magistrate's Court against her.
+
+It has also been revealed that a suspect is a magistrate and has been accused of attempting to obtain Rs. 636,000 from a suspect.
 
 ...
 
 [Data](articles/dcc8341d.json)
+
+[Extended Data](ext_articles/dcc8341d.ext.json)
 
 ---
 
@@ -74,21 +84,33 @@ Police said that the two suspects are residents of the Nalluruwa and Morawinna a
 
 [Data](articles/222938dd.json)
 
+[Extended Data](ext_articles/222938dd.ext.json)
+
 ---
 
-### කුඩු සළිඳුගේ ගෝලයෝ දෙන්නෙක් ජීව උණ්ඩ මුදල් හා මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
+### Two disciples arrested by Gaudu's disciples arrested with live bullets and drugs
 
 *2024-06-09 16:54:39* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ගෝලයෝ-දෙන්නෙක්-ජීව-උණ්ඩ-මුදල්-හා-මත්ද්‍රව්‍ය-සමග-අත්අඩංගුවට/11-410099) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා සංවිධානාත්මක අපරාධකරුවකු වන කුඩු සලිදු නැමැත්තා ඩුබායි රාජ්‍යයේ සිට මෙහෙයවනු ලබන මත්ද්‍රව්‍ය ජාලයට අයත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් දහයක් රිවෝල්වර්   වර්ගයේ ජීව උණ්ඩ විස්සක්, මත්ද්‍රව්‍ය අලෙවියෙන් උපයා ගත් බවට සැක කරන හතළිස් දෙලක්ෂ හතළිස් නමදහසක මුදලක් සමග දෙදෙනෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය බලකාය පවසයි.
+Gaudu's disciples arrested two individuals with live bullets and drugs. Kudu Salamudu, a major drug dealer, was also nabbed in Dubai with ten bullets. The arrests were made based on intelligence from the Special Task Force, leading to the seizure of various firearms and drugs.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර නල්ලුරුව ප්‍රදේශයේ පදිංචි 27 සහ 34 වයසේ පසු වන දෙදෙනෙකු බව පොලිස් පොලිසිය කියයි.
+🟩
 
-විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්ධන ඒකකය II හි නිලධාරීන්ට ලද තොරතුරකට අනුව එහි පොලිස් පරීක්ෂක පි.ඒන්.ඒ.ජේ.පි.කේ. වන්නිආරච්චි ඇතුළු නිලධාරීන් කණ්ඩායමක් පානදුර දකුණ , නල්ලුරුව නෙවිල් පෙරේරා මාවතේදී සිදුකළ වැටලීමකදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10, මිලි ග්‍රෑම් 400 ක් හා .38 SPECIAL රිවෝල්වර් වර්ගයේ ජීව උණ්ඩ 20 ක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+Kudu Salamudu, a large-scale drug dealer and organized criminal, has been arrested with ten criminal criminal bullets in Dubai..
 
-...
+The police said that 2 and 34 of the residents of Neluwa, Panadura were 27 and 34.
+
+Inspector of Police Inspector (STF) with information received by the Special Task Control Unit of the Special Task Force II. A group of officers including Wanniarachchi has been arrested in Panadura South, Panadura South, 10 millur and 38mm and 38-38-plus live bullets.
+
+It was later reported that he had found Rs.
+
+The two arrested are people who are conducting the drug network in Dubai, Panadura, Panadura, Panadura, Panadura, Panadura, Panadura, Panadura Kudurura Kudura Sampath, the crimes committed by these persons.It is revealed that persons involved in a number of people.
+
+◼️
 
 [Data](articles/ac5534ec.json)
+
+[Extended Data](ext_articles/ac5534ec.ext.json)
 
 ---
 

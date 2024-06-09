@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 09:53:47**
+As of **2024-06-09 10:05:07**
 
 ## Newspaper Stats
 
-*Scraped **29,303** Articles*
+*Scraped **29,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,491
-adaderanalk | 3,314
-tamilmirrorlk | 3,438
+adaderanalk | 3,317
+tamilmirrorlk | 3,439
 virakesarilk | 4,489
 dailymirrorlk | 4,652
 adaderanasinhalalk | 4,711
@@ -26,11 +26,83 @@ adaderanasinhalalk | 4,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,303 (100.0%) of 29,303 articles have been extended.
+29,303 (100.0%) of 29,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### புதுடெல்லி பயணமானார் ஜனாதிபதி
+
+*2024-06-09 09:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுடெல்லி-பயணமானார்-ஜனாதிபதி/175-338627) · `ta`
+
+இன்று (09) மாலை நடைபெறவுள்ள இந்தியப் பிரதமர் நரேந்திர மோடியின் உத்தியோகபூர்வ பதவிப் பிரமாண நிகழ்வில் கலந்துகொள்ளுமாறு  விடுக்கப்பட்ட அழைப்பின் பிரகாரம்,ஜனாதிபதி ரணில் விக்ரமசிங்க
+
+◼️
+
+[Data](articles/d153c058.json)
+
+---
+
+### President Ranil leaves for New Delhi to attend Modi’s swearing-in ceremony
+
+*2024-06-09 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99752/president-ranil-leaves-for-new-delhi-to-attend-modis-swearing-in-ceremony) · `en`
+
+President Ranil Wickremesinghe has departed for New Delhi a short while ago at the invitation of Indian Prime Minister Shri Narendra Modi.
+
+He is set to attend Prime Minister Modi’s swearing-in ceremony, which is scheduled for this evening, according to the President’s Media Division (PMD).
+
+Leaders from seven neighboring countries, including Sri Lankan President Ranil Wickremesinghe, are attending Narendra Modi’s swearing-in ceremony after he secured a historic third term as Prime Minister following India’s general elections.
+
+They will be among 9,000 guests, including foreign dignitaries and prominent figures from around the world, who will be present in Delhi for Mr. Modi’s oath-taking ceremony on Sunday.
+
+The Indian foreign ministry confirmed that leaders from Sri Lanka, the Maldives, Bangladesh, Nepal, Bhutan, and other neighboring countries “have accepted the invitation to attend” Mr. Modi’s swearing-in ceremony.
+
+...
+
+[Data](articles/407e2e5d.json)
+
+---
+
+### Colombo-Kandy Road reopens at Pahala Kadugannawa; Motorists cautioned
+
+*2024-06-09 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99751/colombo-kandy-road-reopens-at-pahala-kadugannawa-motorists-cautioned) · `en`
+
+The stretch of road at Pahala Kadugannawa along the Colombo-Kandy road is now open for traffic once again.
+
+However, the Disaster Management Center (DMC) has advised motorists to exercise caution while driving in the area, as conditions may still be hazardous.
+
+A section of the Colombo-Kandy main road had been closed for traffic at Pahala Kadugannawa from 7.30 p.m. last night to 6.00 a.m. today (09).
+
+Meanwhile, the Kegalle District Secretary had announced on Friday that the Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08) to remove unstable rocks and tree branches along this section of the road.
+
+◼️
+
+[Data](articles/03ee70ef.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-06-09 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99750/fairly-heavy-showers-expected-in-parts-of-the-island-) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts today.
+
+Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Nuwara Eliya district.
+
+A few showers will occur in Northern and North-central provinces.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3ea1e2f4.json)
+
+---
 
 ### President to New Delhi
 
@@ -2223,101 +2295,5 @@ A 45 -year -old teacher, a 45 -year -old teacher, who lives in Nusreide, left Is
 [Data](articles/6dc6ee55.json)
 
 [Extended Data](ext_articles/6dc6ee55.ext.json)
-
----
-
-### Nasa ’Earthrise’ astronaut dies at 90 in plane crash
-
-*2024-06-08 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nasa-Earthrise-astronaut-dies-at-90-in-plane-crash/108-284402) · `en`
-
-June 8 (BBC) - Apollo 8 astronaut Bill Anders, who snapped one of the most famous photographs taken in outer space, has died at the age of 90.
-
-Officials say a small plane he was flying crashed into the water north of Seattle, Washington.
-
-Anders' son Greg confirmed that his father was flying the small plane, and that his body was recovered on Friday afternoon.
-
-"The family is devastated. He was a great pilot. He will be missed," a statement from the family reads.
-
-Anders - who was a lunar module pilot on the Apollo 8 mission - took the iconic Earthrise photograph, one of the most memorable and inspirational images of Earth from space.
-
-Taken on Christmas Eve during the 1968 mission, the first crewed space flight to leave Earth and reach the Moon, the picture shows the planet rising above the horizon from the barren lunar surface.
-
-Anders later described it as his most significant contribution to the space programme.
-
-...
-
-[Data](articles/8d4e6c07.json)
-
-[Extended Data](ext_articles/8d4e6c07.ext.json)
-
----
-
-### Bangladesh beat Sri Lanka by two wickets
-
-*2024-06-08 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99739/bangladesh-beat-sri-lanka-by-two-wickets) · `en`
-
-In a thrilling T20 World Cup fixture, Bangladesh clinched a two-wicket victory over former champions Sri Lanka.
-
-Leg-spinner Rishad Hossain’s match-winning figures of 3/22, complemented by Mustafizur Rahman’s 3/17, restricted Sri Lanka to a modest 124 for 9 in 20 overs.
-
-Despite opener Pathum Nissanka’s 47 off 28 balls for Sri Lanka, crucial knocks from Towhid Hridoy (40) and Mahmudullah (16*) helped Bangladesh secure the win with an over to spare.
-
-The win was Bangladesh’s first over Sri Lanka across three World Cup meetings, setting them off the blocks in a competitive group.
-
-Sri Lanka have now lost two successive matches and find themselves at the bottom of the group. They will face Nepal next on Wednesday in Florida.
-
-Meanwhile, Bangladesh will face group toppers South Africa in New York on Monday.
-
-◼️
-
-[Data](articles/5a8f21ab.json)
-
-[Extended Data](ext_articles/5a8f21ab.ext.json)
-
----
-
-### Afghanistan pull off upset win over New Zealand
-
-*2024-06-08 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-pull-off-upset-win-over-New-Zealand/108-284401) · `en`
-
-(Georgetown) - Rampant Afghanistan mauled a lethargic New Zealand by 84 runs to grab top spot in Group C at the T20 World Cup with an upset win at the Guyana National Stadium on Friday.
-
-Set a challenging 160 for victory, the Black Caps crashed to 75 all out off 15.2 overs to suffer their first defeat ever to Afghanistan in T20 International cricket.
-
-Opener Rahmanullah Gurbaz led the way for the Afghans with a top score of 80 off 56 balls (five fours, five sixes), posting 103 for the first wicket with Ibrahim Zadran (44) by the 15th over on the way to a final total of 159 for six after they were put in.
-
-Left-arm seamer Fazalhaq Farooqi then followed his five-wicket opening match demolition of Uganda with the first three wickets of the New Zealand innings before coming back to claim a fourth to end the match and complete figures of four for 17.
-
-...
-
-[Data](articles/f005d48e.json)
-
-[Extended Data](ext_articles/f005d48e.ext.json)
-
----
-
-### Yall. A man arrested with sharp weapons in Chunnakam
-
-*2024-06-08 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185580) · `ta`
-
-A suspect was arrested in Chunnakam with several sharp weapons after a police raid based on tip-offs about a foreign-owned house storing them. Eight weapons were seized, and the suspect is linked to potential violent incidents, with further investigation ongoing to determine foreign involvement.
-
-🟩
-
-A suspect has been arrested on Friday with sharp weapons in the Chunnakam Emine area in Jaffna.
-
-The Jaffna Regional Special Crime Division has rescued the weapons of the police and arrested the suspect.
-
-The raid was carried out on the confidential information received by the police that a foreign citizen -owned house, including a sword, had a sharp weapon in the Chunnakam Emine area.
-
-In the meantime, eight weapons were seized and police are conducting investigations into the suspect arrested in connection with the incident.
-
-Police suspected that the person may have been involved in various incidents of violence, and is investigating whether the foreign citizen is involved in the matter.
-
-◼️
-
-[Data](articles/a96fc7fe.json)
-
-[Extended Data](ext_articles/a96fc7fe.ext.json)
 
 ---

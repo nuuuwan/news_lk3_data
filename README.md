@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 19:52:11**
+As of **2024-06-09 20:03:58**
 
 ## Newspaper Stats
 
-*Scraped **29,404** Articles*
+*Scraped **29,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,509
-adaderanalk | 3,329
+adaderanalk | 3,331
 tamilmirrorlk | 3,448
 virakesarilk | 4,511
 dailymirrorlk | 4,666
@@ -26,49 +26,99 @@ adaderanasinhalalk | 4,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,401 (100.0%) of 29,404 articles have been extended.
+29,404 (100.0%) of 29,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### එකඟතාවයකින් තොරව අවසන් වූ පාකිස්තානයේ IMF සාකච්ඡාව
+### Modi sworn in for third term as India’s prime minister
+
+*2024-06-09 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99766/modi-sworn-in-for-third-term-as-indias-prime-minister) · `en`
+
+(AP) — Narendra Modi was sworn in Sunday for a rare third consecutive term as India’s prime minister, relying on his coalition partners after his party failed to win a parliamentary majority in a surprise outcome.
+
+Modi and his Cabinet ministers took the oath of office, administered by President Droupadi Murmu, at India’s presidential palace Rashtrapati Bhavan in New Delhi.
+
+The 73-year-old popular but polarizing leader is only the second Indian prime minister after Jawaharlal Nehru to retain power for a third five-year term.
+
+His Hindu nationalist Bharatiya Janata Party, which won by landslides in 2014 and 2019, failed to secure a majority to govern on its own in the latest national election. However, Modi’s National Democratic Alliance coalition won enough seats to form a government, with him at the helm.
+
+This is the first time the BJP under Modi has needed support from its regional allies to form a government after a decade of commanding the majority in Parliament.
+
+...
+
+[Data](articles/0213df75.json)
+
+---
+
+### Harsha tells CID there is ‘no threats’ to his life
+
+*2024-06-09 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99765/harsha-tells-cid-there-is-no-threats-to-his-life) · `en`
+
+The Criminal Investigations Department (CID) has informed the Speaker of Parliament that SJB MP Dr. Harsha de Silva has said there is no threats to his life and hence an investigation in that aspect is not necessary.
+
+Public Security Minister Tiran Alles on Friday (07) instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats the opposition parliamentarian has received.
+
+This was after the Chair of the Committee of Public Finance (COPF), speaking in parliament on the same day, had claimed that he is faced with threats over the inquiry into the controversy surrounding the new visa issuance system.
+
+“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” de Silva had posted on ‘X’ (formerly Twitter).
+
+...
+
+[Data](articles/c7b90099.json)
+
+---
+
+### IMF Discussion in Pakistan that ended without agreement
 
 *2024-06-09 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197570) · `si`
 
-පාකිස්තාන රජය සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර පැවැති සාකච්ඡාවක් එකඟතාවයකින් තොරව අවසන් වී තිබේ.
+The IMF-Pakistan talks concluded without a deal, primarily over disagreements on individual income tax rates. Despite no reported disputes on new tax rates for paid and unpaid individuals, the controversy revolves around the highest income tax rate for individuals. Both sides plan further discussions to explore alternative solutions to existing problems.
 
-වැටුප් ලබන සහ වැටුප් නොලබන පුද්ගලයින් සඳහා නව ආදායම් බදු පැනවීමේ අනුපාත පිළිබඳ වන කරුණු සඳහා නිසි එකඟත්වයක් ඇති නොවීම ඊට හේතු වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ආදායම් බදු සීමාව, වැටුප් හා වැටුප් නොලබන අනුපාත ඒකාබද්ධ කිරීම මෙන්ම පුද්ගලයන් සඳහා පනවනු ලබන උපරිම ආදායම් බද්ද සම්බන්ධයෙන් දෙපාර්ශ්වය අතර මතභේදාත්මක තත්ත්වයක් පවතින බව සඳහන් වේ.
+A discussion between the Pakistani government and the International Monetary Fund representatives ended without agreement.
 
-කෙසේවෙතත් පවතින ගැටලු සම්බන්ධ විකල්ප යෝජනා පිළිබඳ සාකච්ඡා කිරීම සඳහා යළිත් වරක් පාකිස්තාන රජය සහ සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර හමුවක් පැවැත්වීමට නියමිත බව විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+Foreign media reports that it is not due to the disagreement of new income tax rates for paid and non-paid people.
+
+Income tax of income, non-paying and non-paying rates, says that there is controversial among both parties regarding the maximum income tax imposed on individuals.
+
+However, the Pakistan government and the International Monetary Fund representatives will be held to discuss the alternative proposals on existing issues.
 
 ◼️
 
 [Data](articles/9ba729d1.json)
 
+[Extended Data](ext_articles/9ba729d1.ext.json)
+
 ---
 
-### ජීවිත තර්ජන සිද්ධිය ගැන හර්ෂගෙන් CIDයට විශේෂ දැනුම්දීමක්
+### Special notice under Harsha about the life threatening incident
 
 *2024-06-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197569) · `si`
 
-ජීවිත තර්ජනයක් ඇති බවට කළ ප්‍රකාශය සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීමේ අවශ්‍යතාවයක් නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත දැනුම්දී තිබේ.
+Harsha de Silva, head of CID, informed about a life-threatening incident. The MP, thanking the Minister of Public Defense and CID, mentioned being asked by the Speaker if he felt threatened. He stated no further notification of an investigation was needed, prompting CID to update the Speaker.
 
-CIDය විසින් විමර්ශන ආරම්භ කර ඊට අදාළ ප්‍රකාශයක් ලබාදෙන ලෙසට දැනුම්දීමෙන් අනතුරුව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මේ බව ප්‍රකාශ කර තිබේ.
+🟩
 
-එහිදී මහජන ආරක්ෂක අමාත්‍යවරයාට සහ CIDයට ස්තූතිය පළකරමින් මන්ත්‍රීවරයා සඳහන් කර ඇත්තේ තමන් විසින් සිදුකළ එම ප්‍රකාශය පාර්ලිමේන්තු වරප්‍රසාද සහිතව පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රකාශයක් බවය.
+The Criminal Investigation Department (CID Harsha de Silva has informed the CID.
 
-එසේම එම අවස්ථාවේදී කථානායකවරයා විසින් තමන්ට ජීවිත තර්ජනයක් තිබේද යන්න විමසූ බවත් එවැන්නක් නොමැති බව තමන් විසින් ප්‍රකාශ කළ බවත් මන්ත්‍රීවරයා පොලීසියට දැනුම්දී තිබේ.
+Speaking to the CID, the CID has made this statement after he was notified that a statement would be issued.
 
-දැනට එවැනි විමර්ශනයක් අවශ්‍ය නොවන බවත් එසේ අවශ්‍යවන්නේ නම් නැවත දැනුම්දීමට කටයුතු කරන බවද පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා වැඩිදුරටත් පවසා ඇති බව පොලිස් මාධ්‍ය කොට්ඨාශය පවසයි.
+The MP thanked the Minister of Public Defense and the CID under the CID.
 
-ඒ අනුව මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කථානායකවරයා ද දැනුවත් කිරීමට පියවර ගෙන ඇත.
+The MP has also informed the police that the Speaker asked him to ask whether he was threatened by the Speaker.
+
+He further stated that such an investigation is not required to be notified again.
+
+Accordingly, the CID has also taken steps to inform the Speaker.
 
 ◼️
 
 [Data](articles/584655dd.json)
+
+[Extended Data](ext_articles/584655dd.ext.json)
 
 ---
 
@@ -1015,6 +1065,8 @@ According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri
 ...
 
 [Data](articles/3266caa4.json)
+
+[Extended Data](ext_articles/3266caa4.ext.json)
 
 ---
 
@@ -2217,61 +2269,5 @@ It is noteworthy that these leaders are attending the swearing -in ceremony for 
 [Data](articles/ad7c36f0.json)
 
 [Extended Data](ext_articles/ad7c36f0.ext.json)
-
----
-
-### Rainfall in Sabaragamuwa, Upper, North Western and Southern Provinces ...
-
-*2024-06-09 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185626) · `ta`
-
-Heavy rainfall and thunderstorms are expected in several provinces including Sabaragamuwa, Upper, North Western, Southern, Kandy, and Nuwaralia districts, with heavy winds in Central Highlands, Northern, North Central, North Western, Trincomalee, Hambantota, and Moneragala districts. The Uva Province, Ampara, and Batticaloa districts may also experience rain or thunderstorms. Sea regions from Puttalam to Colombo and Galle are likely to see rainfall, with increased wind speeds from Trincomalee to Kankesanthurai, Mannar via Puttalam, and Hambantota to Pottuvil via Batticaloa. Fishermen are advised to be cautious due to potential turbulence.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that rainfall would occur in Sabaragamuwa, Upper, North Western and Southern Provinces as well as Kandy and Nuwaralia districts.
-
-Heavy rains are expected to occur in some parts of the Sabaragamuwa Province, as well as some of the Nuwarali district and 50 millimeters.
-
-There is a chance of rain or thunderstorms in the evening or night in some parts of the Uva Province as well as some areas of Ampara and Batticaloa districts.
-
-Heavy winds are expected to blow at speeds of 40 to 50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces as well as in Trincomalee, Hambantota and Moneragala districts.
-
-In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
-
-Rainfall is likely to occur in many parts of the sea regions from Puttalam to Colombo and Galle.
-
-There is a chance of rain or thunderstorms in some parts of other sea regions around the country.
-
-...
-
-[Data](articles/d7a70d44.json)
-
-[Extended Data](ext_articles/d7a70d44.ext.json)
-
----
-
-### Rainfall in many areas today
-
-*2024-06-09 08:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-பகுதிகளில்-மழை-பெய்யும்/175-338626) · `ta`
-
-Today, the Department of Meteorology predicts rainfall across several provinces including Western, Sabaragamuwa, North Western, Southern Provinces, Kandy, Nuwara Eliya, and potential thunderstorms in Uva Province and Ampara/Batticaloa districts. Heavy rains are forecasted for parts of Sabaragamuwa Province and Nuwara Eliya district. Strong winds up to 40-50km/h are expected in various regions. People are advised to prepare for possible heavy winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology has said that there will be some rainfall in the Western, Sabaragamuwa, North Western and Southern Provinces, Kandy and Nuwara Eliya districts today.
-
-Heavy rains are expected in some parts of the Sabaragamuwa Province and Nuwara Eliya district.
-
-The Department of Meteorology has said that some places in the Uva Province and Ampara and Batticaloa districts are likely to experience rainfall or thunderstorms in the evening or night.
-
-Air km in the western slopes of the Central Highlands, Northern, North Central and Northwestern Provinces, Trincomalee, Hambantota and Moneragala districts. The Department of Meteorology has announced that strong winds are likely to blow up to 40-50.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes in the process of thunderstorms.. Remble
-
-◼️
-
-[Data](articles/12a3e286.json)
-
-[Extended Data](ext_articles/12a3e286.ext.json)
 
 ---

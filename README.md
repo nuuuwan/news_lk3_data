@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 08:12:20**
+As of **2024-06-09 08:22:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,298 (100.0%) of 29,299 articles have been extended.
+29,299 (100.0%) of 29,299 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -443,6 +443,8 @@ Trump’s only chance of avoiding imprisonment is to win re-election in November
 ...
 
 [Data](articles/12aa991a.json)
+
+[Extended Data](ext_articles/12aa991a.ext.json)
 
 ---
 

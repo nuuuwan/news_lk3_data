@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 15:19:03**
+As of **2024-06-09 15:34:23**
 
 ## Newspaper Stats
 
-*Scraped **29,365** Articles*
+*Scraped **29,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,503
-adaderanalk | 3,322
+adalk | 2,504
+adaderanalk | 3,323
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,662
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,720
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,360 (100.0%) of 29,365 articles have been extended.
+29,360 (100.0%) of 29,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Vote on Account to be presented for 2025 instead of Budget – state minister
+
+*2024-06-09 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99759/vote-on-account-to-be-presented-for-2025-instead-of-budget-state-minister) · `en`
+
+State Minister of Finance, Ranjith Siyambalapitiya says that a new budget will likely not be presented for the fiscal year 2025, and instead a Vote on Account will be presented for the expenses in the first few months of next year.
+
+Accordingly, it is reported that the Vote on Account will be implemented until the end of March 2025.
+
+According to the election calendar, this year is an election year and it is reported that a national election will be held at the end of the year
+
+Therefore, a new budget will not be presented at the end of this year for the fiscal year 2025, thereby allowing the new government elected in the election to unveil its policy statement, state minister Ranjith Siyambalapitiya further said.
+
+◼️
+
+[Data](articles/7947d82e.json)
+
+---
 
 ### President Ranil arrives in Delhi to attend swearing-in ceremony of PM Modi
 
@@ -753,6 +771,20 @@ Modi does not know the news that the people of Tamil Nadu are different from rel
 [Data](articles/01599eb5.json)
 
 [Extended Data](ext_articles/01599eb5.ext.json)
+
+---
+
+### මැතිවරණ නීති  සංශෝධන නිර්දේශ  වාර්තාව ලබා දීමට  කොමිසමට දුන් කාලය දිගුකෙරේ
+
+*2024-06-09 11:00:03* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති--සංශෝධන-නිර්දේශ--වාර්තාව-ලබා-දීමට--කොමිසමට-දුන්-කාලය-දිගුකෙරේ/11-410090) · `si`
+
+කාලීන අවශ්‍යතාවන්ට ගැලපෙන පරිදි දැනට පවතින සියලුම මැතිවරණ නීති සංශෝධනය කිරීමට අවශ්‍ය නිර්දේශ රජයට  ඉදිරිපත් කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කළ පරීක්ෂණ  කොමිෂන් සභාවට එම නිර්දේශ සහිත අවසන් වාර්තාව   ඉදිරිපත් කිරීමට ජුනි 15 දක්වා ලබා දී තිබු කාලය  ජුනි 30 දක්වා දීර්ඝ කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+මැතිවරණ සඳහා කාන්තා හා තරුණ නියෝජනය වැඩිකිරීම  ,මැතිවරණ ප්‍රකාශිත දිනය හා ප්‍රතිඵල නිකුත්කරණ දිනය අතර කාලය අඩුකිරීම ,මුද්‍රිත චන්ද පත්‍රිකාව වෙනුවට  ඉලෙක්ට්‍රොනික චන්ද ප්‍රකාශ ක්‍රමයක් සැකසීම , විදෙස්ගත   ලාංකිකයන්ට චන්ද ප්‍රකාශ කිරීමට අවස්ථාව සැලසීම ,එක් පුද්ගලයෙකුට මැතිවරණ වර්ග   දෙකකට තරගකර ආයතන දෙකෙහිම නියෝජනයට අවස්ථාව සැලසීම ,මැතිවරණ දින මැතිවරණ සේවා සපයන රාජ්‍ය අංශයේ නොවන අයටද  තැපැල් චන්ද භාවිතයට ඉඩදීම,සමානුපාතික හා කේවල මිශ්‍ර මැතිවරණ ක්‍රමයක් සැකසීම  ආදී සංශෝධන සඳහා නිර්දේශ ඉදිරිපත් කිරීම  මෙම කොමිෂන් සභාව මගින් අපේක්ෂිතය.
+
+...
+
+[Data](articles/161ef529.json)
 
 ---
 
@@ -2133,65 +2165,5 @@ Though gross reserves fall, there is no data yet available to show whether net r
 [Data](articles/bbb92a3e.json)
 
 [Extended Data](ext_articles/bbb92a3e.ext.json)
-
----
-
-### Thrive changed the future on the rejection
-
-*2024-06-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197539) · `si`
-
-Thrive transformed futures through education, especially for students like M. Thilina Dananjaya from Moneragala, who excelled despite facing challenges. Despite initial setbacks, including the impact of the GCE Ordinary Level (O/L) exams, Thilina pursued Advanced Level (A/L) studies, particularly in Biology, under the guidance of his school's principal, Mr. Nandasena. Overcoming numerous obstacles, Thilina achieved first place in the Moneragala district during the 2003 A/L examinations, showcasing the transformative power of education and determination.
-
-🟩
-
-One of the opportunities provided by the teachers who gave life without restricting free education, we met a child from Moneragala.
-
-The following is the first time that the future is the best use of the opportunity to be the best of the opportunity to go to the opportunity and the opportunity to be darkened by the O / L examination.
-
-A student or student will have to choose the standard of the GCE O / L examination in the education system in Sri Lanka.
-
-The rule is a student who has led to the future, to change the future, to change the future.. M. Thilina Dananjaya.
-
-The student had appeared at the GCE Ordinary Level examination in 2020
-
-On the consequently, however, the door was opened from many schools to A / L education.
-
-Accordingly, the principal of the Principal of Pelwatta Maha Vidyalaya, Buttala. M. The opportunity to offer Mr. Nandasena, the biological systems they love to study A / Lsia.
-
-...
-
-[Data](articles/dc3bd27c.json)
-
-[Extended Data](ext_articles/dc3bd27c.ext.json)
-
----
-
-### India stirs up security for Modi's swearing in
-
-*2024-06-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197538) · `si`
-
-India enhances security for PM Modi's third term swearing-in ceremony, set for tomorrow in New Delhi. The event follows his party's victory in the recent 44-day general election. About 9,000 guests, including foreign leaders, are expected. Security measures include drone surveillance and special protections for diplomats. Celebrations will be held in 22 cities across India.
-
-🟩
-
-Indian Prime Minister Narendra Modi's swearing in Indian Prime Minister for the third term is held tomorrow (09) at New Delhi capital.
-
-Prime Minister Narendra Modi UPFA recently won the Indian General Election of the Indian General Election of the Indian General Election of 44 days.
-
-It is the third general election, including the National Democratic Alliance, including Modi's party and the national democratic alliance, including the party.
-
-Narendra Modhi was officially appointed as the leader of the National Democratic Alliance yesterday.
-
-The Presidential Advanced Murmoshi was then appointed Indian Prime Minister as the Indian Prime Minister for the third time.
-
-Accordingly, Indian Prime Minister Modi's official swearing in Indian island tomorrow is to hold the Indian official residence.
-
-About 9000 people are invited, including heads of state in neighboring countries.
-
-...
-
-[Data](articles/73a0777d.json)
-
-[Extended Data](ext_articles/73a0777d.ext.json)
 
 ---

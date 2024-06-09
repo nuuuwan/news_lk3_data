@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 10:34:22**
+As of **2024-06-09 10:52:41**
 
 ## Newspaper Stats
 
-*Scraped **29,309** Articles*
+*Scraped **29,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
-adalk | 2,491
+adalk | 2,494
 adaderanalk | 3,317
 tamilmirrorlk | 3,439
-virakesarilk | 4,489
+virakesarilk | 4,494
 dailymirrorlk | 4,653
 adaderanasinhalalk | 4,712
 
@@ -26,27 +26,83 @@ adaderanasinhalalk | 4,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,307 (100.0%) of 29,309 articles have been extended.
+29,309 (100.0%) of 29,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### කොකේන් ගෙන ආ උගන්ඩා ජාතිකයා අත්අඩංගුවට
+### விசேட நடவடிக்கையை மேற்கொண்டு நான்கு பணயக்கைதிகளை உயிருடன் மீட்டது இஸ்ரேல்- தாக்குதலில் 200க்கும் மேற்பட்ட பாலஸ்தீனியர்கள் பலி
+
+*2024-06-09 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185635) · `ta`
+
+காசாவில் விசேட நடவடிக்கையொன்றை மேற்கொண்டு நான்கு பணயக்கைதிகளை இஸ்ரேலிய படையினர் உயிருடன் மீட்டுள்ள அதேவேளை இந்த நடவடிக்கையின் போது 200க்கும் மேற்பட்ட பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர்.
+
+ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர் இஸ்ரேல் மேற்கொண்ட மிகமோசமான இரத்தக்களறியை ஏற்படுத்திய தனியொரு தாக்குதல் இதுவென ரொய்ட்டர் தெரிவித்துள்ளது.
+
+பாலஸ்தீனியர்கள் அதிகளவில் நெருக்கமாக வாழும் இஸ்ரேலிய படையினருக்கும் ஹமாஸ் அமைப்பிற்கும் அடிக்கடி மோதல் இடம்பெறும் பகுதி இது.
+
+நுசெய்ரட்டில் பொதுமக்கள் வாழும் பகுதியில் இந்த தாக்குதல் இடம்பெற்றதாக தெரிவித்துள்ள இஸ்ரேலிய இராணுவத்தின் பேச்சாளர் பணயக்கைதிகள் தொடர்மாடிக்குடியிருப்புகளில் தடுத்துவைக்கப்பட்டிருந்தனர் என தெரிவித்துள்ளார்
+
+இந்த நடவடிக்கையின் போது இஸ்ரேலிய படையினர் கடும் தாக்குதலை எதிர்கொண்டனர் இதனை தொடர்ந்து அவர்கள் வானிலிருந்தும் தரையிலிருந்தும் பதில் தாக்குதலை மேற்கொண்டனர் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/27659f33.json)
+
+---
+
+### ஊழலற்ற சிறந்த அரச நிர்வாகத்தை நாங்கள் உருவாக்குவோம் - நாமல் ராஜபக்ஷ
+
+*2024-06-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185629) · `ta`
+
+ஜனாதிபதி தேர்தல் பிரசாரம் தற்போது ஆரம்பமாகியுள்ளது. திருடர்களை பிடிப்பதாக குறிப்பிட்டுக்கொண்டு அரசியல் செய்யும் நிலைப்பாட்டில் இருந்துகொண்டு பிரதான எதிர்க்கட்சிகள் செயற்படுகின்றன. ஊழல் இல்லாத அரச நிர்வாகத்தை எம்மால் உருவாக்க முடியும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+ரத்தொட்ட பகுதியில் சனிக்கிழமை (08) இடம்பெற்ற பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2015ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் வேட்பாளராக போட்டியிட்ட மஹிந்த ராஜபக்ஷ தனது முதலாவது தேர்தல் பிரசாரக் கூட்டத்தை ரத்தொட்ட பகுதியில் நடத்தினார். ஆகவே எமது அரசியல் பயணத்தில் ரத்தொட்ட பகுதி இன்றியமையாதது.
+
+69 இலட்ச மக்கள் பாரிய எதிர்பார்ப்புகளுக்கு மத்தியில் கோட்டாபய ராஜபக்ஷ தலைமையிலான அரசாங்கத்தை தோற்றுவித்தார்கள். உள்நாட்டு உற்பத்திகளுக்கு முக்கியத்துவம் வழங்கி தேசிய தொழிற்றுறையை மேம்படுத்திக்கொண்டிருந்த வேளை துரதிர்ஷ்டவசமாக கொவிட் பெருந்தொற்று தாக்கத்துக்கு முகங்கொடுக்க நேரிட்டது.
+
+...
+
+[Data](articles/eb476b65.json)
+
+---
+
+### Ugaughman arrested for cocaine
 
 *2024-06-09 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197552) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය සමග උගන්ඩා ජාතිකයෙකු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A 31-year-old Ugandan man was arrested at Sri Lanka's Bandaranaike International Airport for possessing cocaine. Officers from the Police Narcotics Bureau detained him upon arrival. He was later hospitalized in Negombo after removing 14 packets of drugs from his body.
 
-ඊයේ (08) උදෑසන කටුනායක ගුවන්තොටුපොළේ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ නිලධාරීන් විසින් එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවටගත් සැකකරු 31 හැවිරිදි උගන්ඩා ජාතිකයෙකු වන අතර ඔහු එම කොකේන් මත්ද්‍රව්‍ය ගුලි ගිල කටාර් රාජ්‍යයේ සිට මෙරටට පැමිණ ඇති බව පොලීසිය පවසයි.
+A Ugandan national with cocaine has been arrested at the Bandaranaike International Airport.
 
-සැකකරු මීගමුව රෝහලට ඇතුළත් කිරීමෙන් පසු ගිල දමා තිබූ කොකේන් ගුලි 14ක් පිටතට ගෙන ඇති බව වාර්තා වෙයි.
+The suspect was arrested by the officers of the Police Narcotics Bureau at the Katunayake airport yesterday morning.
+
+The suspect is a 31-year-old Ugadic, police said.
+
+The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
 
 ◼️
 
 [Data](articles/596658a8.json)
+
+[Extended Data](ext_articles/596658a8.ext.json)
+
+---
+
+### லோக் சபா தேர்தல் 2024 : இந்திய அரசியலின் சடுதியான நிலைமாற்றம்
+
+*2024-06-09 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185633) · `ta`
+
+பா. ஜ.க.தலைமையிலான தேசிய ஜனநாயக கூட்டணி லோக் சபாவின் 293 ஆசனங்களை வென்றுள்ளது. இன்டியா (I.N.D.I.A.)என்ற எதிரணிக் கூட்டணிக்கு 232 ஆசனங்கள்  கிடைத்துள்ளது. இந்தக் கூட்டணியானது, பிராந்தியக் கட்சிகளின் செல்வாக்கை கோடிட்டுக் காட்டியுள்ளது. எதிர்கால அரசியலைக் கட்டமைப்பதில் பிராந்திய கட்சிகள் எந்தளவு முக்கியத்துவம் பெறப் போகின்றன என்பதையும் உணர்த்தியுள்ளது.
+
+◼️
+
+[Data](articles/5872fbad.json)
 
 ---
 
@@ -65,6 +121,36 @@ President Ranil Wickremesinghe, who was invited to attend the official swearing 
 [Data](articles/d153c058.json)
 
 [Extended Data](ext_articles/d153c058.ext.json)
+
+---
+
+### අප්‍රේල් මහ මැතිවරණයක් තිබුණේ නම් අනුරයි සජිතුයි කරට කර
+
+*2024-06-09 09:39:33* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-මහ-මැතිවරණයක්-තිබුණේ-නම්-අනුරයි-සජිතුයි-කරට-කර/11-410084) · `si`
+
+2024 අප්‍රේල් මාසයේදී ශ්‍රී ලංකාවේ මහ මැතිවරණයක් පැවැතියේ නම් වැඩිහිටියන් ඡන්දය ප්‍රකාශ කිරීමේ අභිප්‍රාය අනුව අනුර කුමාර මහතාගේ නායකත්වයෙන් යුත් ජාතික ජන බලවේගයට සියයට 34ක් හා සජිත් ප්‍රේමදාස මහතාගේ නායකත්වයෙන් යුත් සමගි ජන බලවේගය සියයට 34 බැගින් වූ ප්‍රතිශතයක් හිමිවන බව සෞඛය ප්‍රතිපත්ති ආයතනය කළ සමික්ෂණයකින් හෙළිව තිබේ.
+
+එය මාර්තු මාසය හා සැසදීමේදි ජාතික ජන බලවේගය සියයට 3ක අඩුවීමක් හා සමගි ජන බලවේගයට සියයට 1ක අඩුවිමකි. මෙහිදී ශ්‍රි ලංකා පොදුජන පෙරමුණට සියයට 12ක ප්‍රතිශතයක් හිමිවෙයි.
+
+◼️
+
+[Data](articles/de8aad56.json)
+
+---
+
+### ජනපති ඉන්දියාවට
+
+*2024-06-09 09:29:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියාවට/11-410083) · `si`
+
+ඉන්දීය මහ මැතිවරණයෙන් ජයගත් නරේන්ද්‍ර මෝදි මහතා ඉන්දියාවේ නව අග්‍රාමාත්‍යවරයා ලෙස දිවුරුම් දීමේ උත්සවයට සහභාගී වීම සදහා ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දෙදින නිල සංචාරයක් සදහා 06/09 දින උදෑසන කටුනායක ගුවන් තොටුපොළෙන් නවදිල්ලි නුවර බලා පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+
+ඔහු සමග දූත පිරිසක් ද මෙම සංචාරය සදහා එක් වී සිටියහ. ඔවුන් 06/09 දින උදෑසන 08.32 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 282 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියහ.
+
+ශ්‍රී ලාංකික රාජතාන්ත්‍රික  පිරිස රැගත් මෙම  ගුවන් යානය 06/09 දින දහවල් 11.40 වනවිට ඉන්දියාවේ නවදිල්ලි නුවර ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට නියමිතය.
+
+◼️
+
+[Data](articles/16e2a0a1.json)
 
 ---
 
@@ -103,6 +189,8 @@ A three-layered security has been put in place at Rashtrapati Bhawan where he wi
 ◼️
 
 [Data](articles/3565d2f8.json)
+
+[Extended Data](ext_articles/3565d2f8.ext.json)
 
 ---
 
@@ -195,6 +283,44 @@ With the rainy season, risks to remove the risky stones and trees on either side
 [Data](articles/458dab4a.json)
 
 [Extended Data](ext_articles/458dab4a.ext.json)
+
+---
+
+### பிரதமர் மோடியின் பதவியேற்புக்கு கோலாகல ஏற்பாடு : ஜனாதிபதி ரணிலும் பங்கேற்பு
+
+*2024-06-09 08:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185627) · `ta`
+
+பிரதமர் நரேந்திர மோடியின் மூன்றாவது பதவி காலத்துக்கான பதவியேற்பு நிகழ்வுக்கான ஏற்பாடுகள் கோலாகலமாக முன்னெடுக்கப்பட்டு வருகின்றன.
+
+இந்நிகழ்வில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, வெளிவிவகார அமைச்சர் அலி சப்ரி உள்ளிட்ட குழுவினர் இன்று ஞாயிற்றுக்கிழமை (09) டில்லிக்கு வருகின்றனர்.
+
+2024 பொதுத்தேர்தல்களை தொடர்ந்து பிரதமர் நரேந்திர மோடி மற்றும் அமைச்சர்களின் பதவியேற்பு  நிகழ்வுக்காக, இந்தியாவின் அயல்நாடுகள் மற்றும் இந்து சமுத்திர பிராந்தியத்தில் உள்ள நாடுகளின் தலைவர்கள் சிறப்பு விருந்தினர்களாக அழைக்கப்பட்டுள்ளனர்.
+
+அதற்கமைய ஜனாதிபதி ரணில் விக்கிரமசிங்க, மாலைதீவு ஜனாதிபதி கலாநிதி முஹம்மது முயிசு, சிசெல்ஸ் துணை ஜனாதிபதி அகமத் ஆபிப், பங்களாதேஷ் பிரதமர் ஷேய்க் ஹசீனா, மொரிசியஸ் பிரதமர் பிரவீந் குமார் ஜக்நாத், நேபாள பிரதமர் புஷ்ப கமால் தஹல் பிரசண்டா மற்றும் பூட்டான் பிரதமர் சேரிங் டொப்கே ஆகியோர் இந்நிகழ்வில் கலந்து கொள்ளவுள்ளனர்.
+
+...
+
+[Data](articles/ad7c36f0.json)
+
+---
+
+### சப்ரகமுவ, மேல், வடமேல், தென்  மாகாணங்களில் மழைக்கான சாத்தியம்...
+
+*2024-06-09 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185626) · `ta`
+
+சப்ரகமுவ, மேல்,வடமேல்  மற்றும் தென்  மாகாணங்களிலும் அத்துடன் கண்டி மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+
+சப்ரகமுவ மாகாணத்தின் சில இடங்களிலும் அத்துடன் நுவரேலியா மாவட்டத்தின் சில இடங்களிலும் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+ஊவா மாகாணத்தின்  சில இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் மேற்கு சரிவுகளிலும்,  வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் திருகோணமலை,  ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்ட ங்களிலும் மணித்தியாலத்திற்கு 40 ‐ 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+...
+
+[Data](articles/d7a70d44.json)
 
 ---
 
@@ -1186,6 +1312,26 @@ From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in 
 
 ---
 
+### කැලණි ගඟ දෙපස සිටින ජනතාව වෙනුවෙන් නව නගරයක්
+
+*2024-06-08 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/කැලණි-ගඟ-දෙපස-සිටින-ජනතාව-වෙනුවෙන්-නව-නගරයක්/11-410081) · `si`
+
+– ගංවතුරෙන් විපතට පත් කොළොන්නාව ජනතාවගේ සුව දුක් සොයා බැලීමට එක් වෙමින් සාගල රත්නායක මහතා පවසයි.
+
+ගංවතුරෙන් පීඩාවට පත් වූ සෑම නිවසකටම රුපියල් 10,000ක දීමනාවක් ලබාදීමට කටයුතු කරන බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා පැවසීය.
+
+නිවස පිරිසිදු කර ගැනීම ආදී කටයුතු වෙනුවෙන් එම මුදල ලබා දෙන බවත්, ආපදා තත්ත්වයෙන් අර්ධ හා පූර්ණ හානි සිදු වූ සියලු නිවාස හා ගොඩනැගිලි පිළිබඳ තක්සේරු වාර්තා ලබා ගැනීමෙන් පසු ඉදිරි කටයුතු කඩිනමින් ක්‍රියාත්මක කරන බවත් ඒ මහතා සඳහන් කළේය.
+
+සාගල රත්නායක මහතා මේ බව සඳහන් කළේ අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් විපතට පත් කොළොන්නාව ප්‍රදේශයේ ජනතාවගේ සුව දුක් සොයා බැලීමේ නිරීක්ෂණ චාරිකාවකට ඊයේ (07) එක් වෙමිනි.
+
+ගං වතුරෙන් විනාශ වු ප්‍රදේශයේ නිවාස දැක බලා ගැනීමටද එක් වූ සාගල රත්නායක මහතා විපතට පත් ජනතාව වෙනුවෙන් කොළොන්නාව ශ්‍රී සම්බුද්ධරාජ පුරාණ විහාරයේ පැවති වෛද්‍ය සායනය වෙත ද ගොස් එම කටයුතු නිරික්ෂණය කළේය.
+
+...
+
+[Data](articles/d9404ef7.json)
+
+---
+
 ### Shavendra Silva extensors
 
 *2024-06-08 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වාට-සේවා-දිගුවක්/11-410080) · `si`
@@ -2085,215 +2231,5 @@ The deceased has been identified as a father of a resident of the Kandanahena ar
 [Data](articles/c936aaf6.json)
 
 [Extended Data](ext_articles/c936aaf6.ext.json)
-
----
-
-### Who is the capital of the US?
-
-*2024-06-08 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197519) · `si`
-
-Sorab Nerturkar, an Indian-born engineer turned cricketer, made significant contributions to both fields. Initially known for his cricket skills, especially his fast bowling, he later pursued a career in engineering while continuing to play cricket. His talent led him to represent the United States in international matches, including the 2018 match against St. Lucia where he took six wickets for nine runs. Despite his success in cricket, Sorab chose to focus on his engineering career, highlighting his versatility and dedication to both professions.
-
-🟩
-
-Hearing a Sorab Nerturkar, who willed cricket, serves as engineer.
-
-Does your memory recall an Indians who sent a fast bowled outlet of the Indus Pakistan's Semi-Finished Match of the 2010 Youth World Cup?The Sauer is a key trump of the Indian bowlers to protect 114 runs against Pakistan.. However, as an Indian, he was able to defeat Barber's leading team as a US, even though an American man was lost to Barber Assar.
-
-Sorab is also a player who is looking for a long time for their homeland. Left fast bowler, he was a wicket in Bangalore in 2009. If that ball had brought him good luck, the right. That was why he had the BCCI Corporate Trophy to play in the tournament.
-
-Sorab was right there was the opportunity to share knowledge in the Drizcychy room with the Southern Julyah, Robin. And his opponents were Kohli, players like Dhoni.
-
-At the time, the 18-year-old Hairbage series was extinguished with the highest wicket winners. He was a young world cup in the year 2010.
-
-...
-
-[Data](articles/11ef5d8a.json)
-
-[Extended Data](ext_articles/11ef5d8a.ext.json)
-
----
-
-### India's foreign policy on Sri Lanka will not change;India will reduce heavy pressure on other policies - diplomatic researchers comment
-
-*2024-06-08 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185592) · `ta`
-
-Despite losing seats in the latest elections, India under PM Modi is set to maintain its robust stance towards Sri Lanka, focusing on economic cooperation and infrastructure projects while possibly easing pressure on certain issues. This approach aims to balance strategic interests and manage perceptions positively in Sri Lanka, especially in light of changing dynamics in the region.
-
-🟩
-
-Analysts have said that Narendra Modi, who has been appointed as the Prime Minister of India twice, will not change his policies on Sri Lanka, even if the Indian parliamentary election has not won the third time in the Indian parliamentary election.
-
-Researchers have said that the aggressive motivation for the merger and infrastructure projects with Sri Lanka may be reduced.
-
-The Bharatiya Janata Party has failed to obtain a majority and has been forced to get the support of the state parties.
-
-The BJP -led National Democratic Alliance has won 293 seats, but Narendra Modi's BJP has only 240 seats.
-
-As a result, the two state parties that have seized 28 seats have become influential.
-
-India is pressing over land oil gas and power supply in Sri Lanka.
-
-Also, in collaboration with the private sector, it has obtained a profitable reconstruction energy and port plans.
-
-Based on the impact of Narendra Modi's small margin
-
-...
-
-[Data](articles/59ba2d08.json)
-
-[Extended Data](ext_articles/59ba2d08.ext.json)
-
----
-
-### The secret that satellite data revealed about Brazil
-
-*2024-06-08 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197518) · `si`
-
-Satellite data reveals severe damage to Brazil's largest wetland zone, the Pantanal, due to extreme weather events like delayed rains and droughts. The Amazon forest, also in Brazil, faces significant degradation. Despite these challenges, there's a surprising increase in forest cover by 980% since the start of the year, indicating recovery efforts might be effective. Authorities have responded by declaring an emergency environmental standard for the area.
-
-🟩
-
-Chandrika data has revealed that the world's largest wetland zone in Brazil has been severely damaged.
-
-The rainy season, drought and the delay in the rainy season have been intensified, according to foreign reports.
-
-The Amazon forest, the largest collapse forest in the world, is located in Brazil.
-
-Erautin, this year, the Panalic wet wet wet was damaged by disasters reported so far this year.
-
-Foreign reports have shown that in relation to the year 2023, forecasts have increased by 10 percent.
-
-The Panantel Wetland region is considered a top zone in the world.
-
-However, Chandrika data has revealed that the forest has increased by 980 percent compared to this period from the beginning of the year to June 05.
-
-The Amazon rainforest, as well as Pannol wetlands, is constantly facing disasters.
-
-Considering these factors, the authorities have also taken steps to announce an emergency environmental standard for the Samrog Zulpilla.
-
-◼️
-
-[Data](articles/da565b47.json)
-
-[Extended Data](ext_articles/da565b47.ext.json)
-
----
-
-### Piku hiding
-
-*2024-06-08 11:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவரை-அடித்து-கொலை-செய்த-பிக்கு-தலைமறைவு/175-338616) · `ta`
-
-In Kajulandawatta, an elderly man died after an attack by Piku, who lived in the same area. The victim was found injured inside a house; despite rescue and hospital admission, he succumbed to his injuries. Piku, known for his addiction to alcohol, fled the scene, leaving the motive unclear. Police continue investigating.
-
-🟩
-
-An elderly man has died after being attacked by Pikku, who was staying in a house in the Kajulandawatta Marawila area.
-
-Based on the information received by the police that one person was injured inside the house,
-
-Police said he died without treatment, though he was rescued and admitted to the couple's hospital.
-
-Investigations have revealed that the suspect was living in his mother's house in Marawila area and becoming addicted to drinking.
-
-With the Bikku fleeing the area, the cause of the attack has not yet been revealed and the police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/f9b8b643.json)
-
-[Extended Data](ext_articles/f9b8b643.ext.json)
-
----
-
-### People's Mobile Service conducted by the Ministry of Labor in Trincomalee
-
-*2024-06-08 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185588) · `ta`
-
-The People's Mobile Service in Trincomalee, themed "Smart Future," featured a reception by Ministers Manusha Nanayakkara and Jagath Pushpa Kumara, focusing on labor issues and foreign employment. It included awareness programs against human trafficking and offered services from various departments like Labor and Foreign Employment. The event also provided equipment for schools and self-employment support, attended by officials, parliamentarians, and the public.
-
-🟩
-
-The People's Mobile Service was held on Friday (07) at the McAisar Ground in Trincomalee under the theme 'Smart Future to Trincomalee with Sri Lankan Suras with the Ministry of Labor and Foreign Employment.
-
-The event commenced following the reception by the Minister of Labor and Foreign Employment, Manusha Nanayakkara and the National Anthem was hoisted and the National Anthem was played by the Government Agent of the Trincomalee District Saminda Hettiarachchi.
-
-The project has been organized by the Minister of Labor and Foreign Employment, Manusha Nanayakkara, Minister of Foreign Employment Development Minister Jagath Pushpa Kumara.
-
-Awareness program was held for safe and human trafficking for government officials, lawyers and permit agents in the Trincomalee district.
-
-...
-
-[Data](articles/f3df538c.json)
-
-[Extended Data](ext_articles/f3df538c.ext.json)
-
----
-
-### Bangladesh keep nerve to win thriller with Sri Lanka
-
-*2024-06-08 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-keep-nerve-to-win-thriller-with-Sri-Lanka/108-284407) · `en`
-
-(Dallas) - Bangladesh emerged victorious from a gripping encounter with Sri Lanka in Texas with the two-wicket victory getting them off to a winning start in Group D of the T20 World Cup.
-
-Rishad Hossain produced a brilliant spell of leg-spin as Bangladesh fought back to restrict Sri Lanka to 124-9.
-
-Then Liton Das (36) and Towhid Hridoy (40 from 20 balls) put Bangladesh in command before some excellent pace bowling from Nuwan Thushara (4-18), in his second spell threatened a late twist in the plot.
-
-But veteran Mahmudullah Riyad showed all his experience at the end to see Bangladesh over the line with an unbeaten 16.
-
-It was the final of four games at the Grand Prairie Stadium and the Dallas crowd have been treated to some top entertainment on a surface which offered some bounce and produced good contests between bat and ball.
-
-...
-
-[Data](articles/9298cb70.json)
-
-[Extended Data](ext_articles/9298cb70.ext.json)
-
----
-
-### Rain will increase again from today
-
-*2024-06-08 10:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-மீண்டும்-மழை-அதிகரிக்கும்/175-338615) · `ta`
-
-The Department of Meteorology forecasts increased rainfall across several regions including the Western, Sabaragamuwa, North Western, Southern Provinces, and specific districts like Kandy, Nuwara Eliya, Galle, Matara, and others. Heavy rainfall and potential thunderstorms are expected, along with strong winds in certain provinces. The public is urged to prepare for these conditions.
-
-🟩
-
-The Department of Meteorology has forecast that the current rainfall in the southwestern region of the country is expected to increase for the next few days.
-
-Rainfall is expected to occur in the Western, Sabaragamuwa, North Western and Southern Provinces and Kandy and Nuwara Eliya districts.
-
-Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
-
-Heavy rains are expected in the Northern and North Central Provinces and Matale District.
-
-It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
-
-In the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/5b7ada20.json)
-
-[Extended Data](ext_articles/5b7ada20.ext.json)
-
----
-
-### Two killed at Enderamulla railway crossing
-
-*2024-06-08 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-at-Enderamulla-railway-crossing/108-284403) · `en`
-
-Colombo, June 8 (Daily Mirror) - A 54-year-old man and a 34-year-old woman died following a car accident at a railway crossing at Enderamulla this morning, police said.
-
-The accident reportedly occurred when a car travelling from Ederamulla towards Wattala collided with the train travelling from Badulla towards Colombo while the signal lights were on at the railway crossing.
-
-◼️
-
-[Data](articles/348de4ee.json)
-
-[Extended Data](ext_articles/348de4ee.ext.json)
 
 ---

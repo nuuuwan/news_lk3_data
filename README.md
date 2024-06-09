@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 19:03:57**
+As of **2024-06-09 19:19:09**
 
 ## Newspaper Stats
 
-*Scraped **29,391** Articles*
+*Scraped **29,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,508
+adalk | 2,509
 adaderanalk | 3,329
 tamilmirrorlk | 3,448
 virakesarilk | 4,504
 dailymirrorlk | 4,665
-adaderanasinhalalk | 4,726
+adaderanasinhalalk | 4,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,390 (100.0%) of 29,391 articles have been extended.
+29,391 (100.0%) of 29,394 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,48 @@ The woman was later arrested by police based on the complaint.
 ...
 
 [Data](articles/bde48490.json)
+
+[Extended Data](ext_articles/bde48490.ext.json)
+
+---
+
+### ලෝක දේශපාලනයේ සුවිශේෂී පරිච්ඡේදයක් අරඹමින් යළි දිවුරුම් දෙන මෝදි
+
+*2024-06-09 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197568) · `si`
+
+ආසියානු මෙන්ම ලෝක දේශපාලනයේ තවත් සුවිශේෂී පරිච්ඡේදයක් ආරම්භ කරමින් පිට පිට තුන් වැනි වරටත් ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත් නරේන්ද්‍ර මෝදිගේ දිවුරුම්දීමේ උත්සවය මේ වනවිට නවදිල්ලි අගනුවරදී පැවැත්වෙයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු කලාපීය රාජ්‍ය නායකයින් පිරිසක්ද පදවි ප්‍රාප්ති උත්සවයට සහභාගී වී සිටියි.
+
+අප්‍රේල් මස 19 වැනිදා සිට ජූනි මස පළමුවැනිදා දක්වා අදියර 7කින් ක්‍රියාත්මක වූ ඉන්දීය මහා මැතිවරණයේ නිල ප්‍රතිඵල නිකුත් වුණේ පසුගිය ජූනි හතර වැනිදාය.
+
+මිලියන 642ක පිරිසක් ඡන්දය භාවිත කළ මෙම මැතිවරණය ජයගැනීමට ඉන්දීය අගමැති නරේන්ද්‍ර මෝදිගේ භාරතීය ජනතා පක්ෂය ප්‍රමුඛ ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානය සමත්විය.
+
+ඒ ලෝක් සභාව එනම් ඉන්දීය පාර්ලිමේන්තුවේ පහළ මන්ත්‍රී මණ්ඩලයේ ආසන 543න් 293ක් තමන් සතු කරගනිමිනි.
+
+මෙම ජයග්‍රහණය අතිශය සුවිශේෂී වන්නේ ඉන්දීය ඉතිහාසයේ තෙවරක් අගමැති ධුරය දැරීමට ජනවරමක් දිනූ දෙවැනි අග්‍රාමාත්‍යවරයා බවට මෝදි පත්වීම හේතුවෙනි.
+
+මීට පෙර තෙවරක් අඛණ්ඩව ඉන්දීය අගමැති ධුරය දරා ඇත්තේ, නිදහස් ඉන්දියාවේ පළමු අගමැතිවරයා වන ජවහර්ලාල් නේරු පමණකි.
+
+...
+
+[Data](articles/955ee816.json)
+
+---
+
+### එඬේරමුල්ල දුම්රිය හරස් මාර්ගයේ තවත් අනතුරක්
+
+*2024-06-09 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197567) · `si`
+
+එඬේරමුල්ල දුම්රිය හරස් මාර්ගයේදී ත්‍රිරෝද රථයක් දුම්රියක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ රියදුරු ප්‍රතිකාර සඳහා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
+
+ඊයේ (08) උදෑසනද එම ස්ථානයේදී මෝටර් රථයක් දුම්රිය දෙකක ගැටී සිදුවූ රිය අනතුරකින් කාන්තාවක් ඇතුළු දෙදෙනෙකු ජීවිතක්ෂයට පත්වුණි.
+
+◼️
+
+[Data](articles/dff1bef7.json)
 
 ---
 
@@ -105,6 +147,24 @@ In the same hall who wrote the Sahira College students, ten Muslim students of t
 [Data](articles/4f59ef8b.json)
 
 [Extended Data](ext_articles/4f59ef8b.ext.json)
+
+---
+
+### 2025ට අයවැයක් නෑ, අතුරු සම්මත ගිණුමක්
+
+*2024-06-09 17:56:05* · [`adalk`](https://www.ada.lk/breaking_news/2025ට-අයවැයක්-නෑ--අතුරු-සම්මත-ගිණුමක්/11-410100) · `si`
+
+2025 වර්ෂය වෙනුවෙන් අයවැය වාර්තාවක් ඉදිරිපත් නොකරන බවත් ඒ වෙනුවට අතුරු සම්මත ගිණුමක් ඉදිරිපත් කරන බවත් මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+අද (09) උදෑසන රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+
+මෙම වර්ෂය ප්‍රධාන මැතිවරණයක් පැවැත්වීමට නියමිත වර්ෂයක් බවත්,  මීට පෙරද එවැනි අවස්ථාවලදී මේ ආකාරයෙන් අතුරු සම්මත ගිණුම් සම්මත කරගෙන තිබෙන බවත් අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+
+2024 වර්ෂය වෙනුවෙන් සම්මත කරන ලද අයවැය වාර්තාව මගින් , 2024 දෙසැම්බර් මස 31 වනදා දක්වා පමණක් ආදායම් වියදම් සිදු කිරීමට පාර්ලිමේන්තු අනුමැතිය ලැබී ඇති බවද, ඒ අනුව 2025 වර්ෂය සඳහා වෙනම අයවැය ලේඛනයකින් අනුමැතිය ගත යුතු බවයි සියඹලාපිටිය මහතා මෙහිදී පෙන්ව දෙනු ලැබිණි.
+
+...
+
+[Data](articles/f0b718b8.json)
 
 ---
 
@@ -2217,57 +2277,5 @@ As SMEs continue to play an increasingly pivotal role in the market, Sampath Ban
 [Data](articles/50be84b1.json)
 
 [Extended Data](ext_articles/50be84b1.ext.json)
-
----
-
-### TrueCeylonese wins Iconic Brand of the Year for food and agro-based products at the BWIO Awards
-
-*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/trueceylonese-wins-iconic-brand-of-the-year-for-food-and-agro-based-products-at-the-bwio-awards/) · `en`
-
-TrueCeylonese, a purveyor of Sri Lankan trades and services, has been honoured with the prestigious title of Iconic Brand of the Year in the Food and Agro-Based Products category (Medium/Platinum) at the Business World International Awards 2023. Organised by the Business World International Organisation (BWIO), the award ceremony was recently held at Taj Samudra Hotel in Colombo under the patronage of Speaker of Parliament, Mahinda Yapa Abeywardena. Founded by Rushdhun Ramzy in 2021, TrueCeylonese caters to the tri-state region in the United States and Toronto, Canada. The company offers an extensive range of products, including gems, spices, and merchandise such as recycling bags and clothing. TrueCeylonese is committed to delivering the best in quality, price, selection, and service to its discerning clientele.
-
-Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
-
-...
-
-[Data](articles/b4436941.json)
-
-[Extended Data](ext_articles/b4436941.ext.json)
-
----
-
-### Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
-
-*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/stuart-chapman-appointed-chairman-of-hnb-assurance-and-hnb-general-insurance-2/) · `en`
-
-HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) last week announced the appointment of Stuart Chapman as the new Chairman, succeeding Rose Cooray. Chapman holds an MBA from the University of Colombo, a Diploma in Marketing from the Chartered Institute of Marketing (CIM-UK), a Diploma in Life Insurance Sales and Marketing from the Life Underwriters Training Council (USA) and a Diploma in Business Management from the National Institute of Business Management (NIBM). His professional affiliations include being a Fellow Member of the Chartered Institute of Marketing (UK) and the Institute of Management (UK) as well as a Member of the Institute of Certified Management Accountants (Australia).
-
-...
-
-[Data](articles/cd53feb8.json)
-
-[Extended Data](ext_articles/cd53feb8.ext.json)
-
----
-
-### Sanasa Premier League Cricket Tournament 2024
-
-*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/sanasa-premier-league-cricket-tournament-2024/) · `en`
-
-The Sanasa Premier League Cricket Tournament 2024 was held at the Narahenpita Shalika Cricket Ground recently. It was organized under the leadership of T. C. Nilanka De Silva, Chairman of Sanasa National Youth Council.
-
-The Boys’ Champions title was claimed by Challengers Kegalle from Thoranagahapitiya Sanasa, while Titans Colombo from South Athurugiriya Sanasa emerged as the Boys’ Runner Up.
-
-Meanwhile, in the Girls’ category, Queens Colombo from Meegoda Abhaya Sanasa triumphed as the Girls’ Champions. The title of Girls’ Runner Up was claimed by Star Girls Colombo from Godigamuwa Sanasa.
-
-Sumith Nishantha, CEO of Sanasa Federation, was the chief guest. Under the guidance of P.A. Kiriwandeniya, Founder and Chairman of the Sanasa movement, the tournament flourished into a resounding success, embodying the ethos of teamwork, resilience, and excellence.
-
-Ogilvy’s ‘Masterpiece of Abuse’ bags two Grand Prix and six Golds
-
-...
-
-[Data](articles/d3677a0f.json)
-
-[Extended Data](ext_articles/d3677a0f.ext.json)
 
 ---

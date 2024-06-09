@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 22:19:09**
+As of **2024-06-09 22:34:13**
 
 ## Newspaper Stats
 
-*Scraped **29,421** Articles*
+*Scraped **29,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,334
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
 dailymirrorlk | 4,668
-adaderanasinhalalk | 4,732
+adaderanasinhalalk | 4,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,421 (100.0%) of 29,421 articles have been extended.
+29,421 (100.0%) of 29,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### මෝස්ලි ගේ සිරුර හමුවෙයි
+
+*2024-06-09 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197574) · `si`
+
+බ්‍රිතාන්‍යයේ ප්‍රකට රූපවාහිනී වැඩසටහන් ඉදිරිපත් කරන්නෙකු වන මයිකල් මෝස්ලි ගේ සිරුර හමුවී තිබේ.
+
+විනෝද සංචාරයක් අතරතුර එම දූපතට ගොස් ඇති මෝස්ලි මීට දින කිහිපයකට පෙර අතුරුදන් වුණි.
+
+◼️
+
+[Data](articles/5b4ebde9.json)
+
+---
 
 ### Settlement Struggle will continue - Railway Trade Union Warning
 
@@ -53,6 +67,22 @@ Three railway drivers were involved in a limited service while train drivers wer
 [Data](articles/96f2754e.json)
 
 [Extended Data](ext_articles/96f2754e.ext.json)
+
+---
+
+### කහතුඩුවෙන් හමුවූ කෝටි 30ක හෙරොයින්
+
+*2024-06-09 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197573) · `si`
+
+ඩුබායි රාජ්‍යයේ සැඟව සිටි මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවනු ලබන සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන "අහුංගල්ලේ ලොකු පැටී" නම් පුද්ගලයාගේ ප්‍රධාන සගයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකා බුද්ධි අංශයේ නිලධාරීන් විසින් අද (09) පස්වරුවේ සිදුකළ සෝදිසි මෙහෙයුමකදී කහතුඩුව, කැබැල්ලගහවත්ත ප්‍රදේශයේ නිවසකදී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් සතුව තිබී රුපියල් කෝටි 30කට ආසන්න වීථි වටිනාකමකින් යුතු හෙරොයින් කිලෝ 13කට ආසන්න ප්‍රමාණයක්, පිස්තෝල 02ක් සහ ව්‍යාජ අංක තහඩු යොදන ලද මෝටර් රථ 02ක් පොලිස් බාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/11043759.json)
 
 ---
 
@@ -2229,53 +2259,5 @@ We are well aware that when protecting people from the glory, it will face econo
 [Data](articles/eb476b65.json)
 
 [Extended Data](ext_articles/eb476b65.ext.json)
-
----
-
-### Two police officers who were banned due to ice
-
-*2024-06-09 10:12:21* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-නිසා-වැඩ-තහනම්-වූ-පොලිස්-නිලධාරින්-දෙදෙනා/11-410087) · `si`
-
-Two police officers were suspended after being caught with drugs. They were found leaving the country at night and were examined by a medical officer. The suspension was ordered by the Criminal Investigation Department's director due to misconduct.
-
-🟩
-
-The Wellampitiya Bicho of the Criminal Investigation Department has banned the duties of the two police constables who were arrested while returning the ice and cannabis.
-
-The police say that the officers of the Criminal Intelligence Union have been inspected to have been inspected to the OIC of the Criminal Intelligence Union and the Criminal Intelligence Univery OIC when the two officers left the homeland night.
-
-The two constables were submitted to the Judicial Medical Officer of the Colombo Medical Office, police said.
-
-Due to the musicalism of the two officers, the Director of the Criminal Investigation Department has banned duties
-
-◼️
-
-[Data](articles/3c4aa280.json)
-
-[Extended Data](ext_articles/3c4aa280.ext.json)
-
----
-
-### Ugaughman arrested for cocaine
-
-*2024-06-09 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197552) · `si`
-
-A 31-year-old Ugandan man was arrested at Sri Lanka's Bandaranaike International Airport for possessing cocaine. Officers from the Police Narcotics Bureau detained him upon arrival. He was later hospitalized in Negombo after removing 14 packets of drugs from his body.
-
-🟩
-
-A Ugandan national with cocaine has been arrested at the Bandaranaike International Airport.
-
-The suspect was arrested by the officers of the Police Narcotics Bureau at the Katunayake airport yesterday morning.
-
-The suspect is a 31-year-old Ugadic, police said.
-
-The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
-
-◼️
-
-[Data](articles/596658a8.json)
-
-[Extended Data](ext_articles/596658a8.ext.json)
 
 ---

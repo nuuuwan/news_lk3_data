@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 10:05:07**
+As of **2024-06-09 10:19:09**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,303 (100.0%) of 29,307 articles have been extended.
+29,307 (100.0%) of 29,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### புதுடெல்லி பயணமானார் ஜனாதிபதி
+### New Delhi
 
 *2024-06-09 09:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுடெல்லி-பயணமானார்-ஜனாதிபதி/175-338627) · `ta`
 
-இன்று (09) மாலை நடைபெறவுள்ள இந்தியப் பிரதமர் நரேந்திர மோடியின் உத்தியோகபூர்வ பதவிப் பிரமாண நிகழ்வில் கலந்துகொள்ளுமாறு  விடுக்கப்பட்ட அழைப்பின் பிரகாரம்,ஜனாதிபதி ரணில் விக்ரமசிங்க
+President Ranil Wickremesinghe attends PM Narendra Modi's swearing-in ceremony in New Delhi.
+
+🟩
+
+President Ranil Wickremesinghe, who was invited to attend the official swearing -in ceremony of Indian Prime Minister Narendra Modi, to be held this evening.
 
 ◼️
 
 [Data](articles/d153c058.json)
+
+[Extended Data](ext_articles/d153c058.ext.json)
 
 ---
 
@@ -62,6 +68,8 @@ The Indian foreign ministry confirmed that leaders from Sri Lanka, the Maldives,
 
 [Data](articles/407e2e5d.json)
 
+[Extended Data](ext_articles/407e2e5d.ext.json)
+
 ---
 
 ### Colombo-Kandy Road reopens at Pahala Kadugannawa; Motorists cautioned
@@ -79,6 +87,8 @@ Meanwhile, the Kegalle District Secretary had announced on Friday that the Colom
 ◼️
 
 [Data](articles/03ee70ef.json)
+
+[Extended Data](ext_articles/03ee70ef.ext.json)
 
 ---
 
@@ -101,6 +111,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/3ea1e2f4.json)
+
+[Extended Data](ext_articles/3ea1e2f4.ext.json)
 
 ---
 

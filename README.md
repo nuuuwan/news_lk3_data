@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 21:53:37**
+As of **2024-06-09 22:05:44**
 
 ## Newspaper Stats
 
-*Scraped **29,418** Articles*
+*Scraped **29,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,99 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,511
-adaderanalk | 3,333
+adaderanalk | 3,334
 tamilmirrorlk | 3,449
-virakesarilk | 4,515
-dailymirrorlk | 4,667
+virakesarilk | 4,516
+dailymirrorlk | 4,668
 adaderanasinhalalk | 4,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,417 (100.0%) of 29,418 articles have been extended.
+29,418 (100.0%) of 29,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### වර්ජනයෙන් දුම්රිය 60ක් අවලංගු වෙයි
+### தீர்வின்றேல் பணிப்புறக்கணிப்பு போராட்டம் தொடரும் - புகையிரத தொழிற்சங்கம் எச்சரிக்கை
+
+*2024-06-09 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185702) · `ta`
+
+புகையிரத இயந்திர இயக்கவியல் பொறியியலாளர் சங்கத்தின் பணிப்புறக்கணிப்பால் ஞாயிற்றுக்கிழமை (09) 50 அலுவலக புகையிரத சேவைகள் இரத்துச் செய்யப்பட்டன. இந்த பணிப்புறக்கணிப்பால் பொது பயணிகள் கடும் அசௌகரியங்களை எதிர்கொண்டனர்.
+
+பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள புகையிரத தொழிற்சங்கத்தினருக்கும்,போக்குவரத்து அமைச்சர் பந்துல குணவர்தனவுக்கும் இடையில் திங்கட்கிழமை (10) போக்குவரத்து அமைச்சில் பேச்சுவார்த்தை இடம்பெறவுள்ளது. இந்த பேச்சுவார்த்தையில் சாதகமான தீர்வு கிடைக்காவிடின் தொடர் பணிப்புறக்கணிப்பில் ஈடுபடுவோம் என புகையிரத சாரதிகள் சங்கத்தின் செயலாளர் எஸ்.ஆர்.சி.எம்.சேனாநாயக்க தெரிவித்தார்.
+
+சம்பள அதிகரிப்பு,பதவி உயர்வு உட்பட சேவைத்துறையில் நிலவும் அடிப்படை பிரச்சினைகளை முன்னிலைப்படுத்தி புகையிரத இயக்கவியல் பொறியியலாளர் சங்கத்தினர் கடந்த வியாழக்கிழமை நள்ளிரவு முதல் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/96f2754e.json)
+
+---
+
+### ‘No threat to my life’: MP Harsha de Silva informs CID
+
+*2024-06-09 21:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-threat-to-my-life-MP-Harsha-de-Silva-informs-CID/108-284439) · `en`
+
+Colombo, June 9 (Daily Mirror) - The Criminal Investigations Department (CID) has informed the Speaker of Parliament that SJB MP Dr. Harsha de Silva has informed them that there are no threats to his life, negating the need for an investigation.
+
+Public Security Minister Tiran Alles earlier instructed IGP Deshabandu Tennakoon to have the CID investigate into the alleged threats to the opposition parliamentarian.
+
+This instruction followed a claim by the Chair of the Committee on Public Finance (COPF) in parliament that he faced threats over the inquiry into the new visa issuance system controversy.
+
+Accordingly, the CID had notified Dr. Harsha de Silva of their intent to record a statement regarding his recent claims of receiving threats.
+
+However, Dr. de Silva, while thanking the Minister of Public Security and the CID, pointed out that his statement was made under Parliamentary Privileges and that he had assured the Speaker that there was no threat to his life.
+
+...
+
+[Data](articles/f6cc20a8.json)
+
+---
+
+### Sri Lankan arrested with 13.5 kg of gold at Chennai airport
+
+*2024-06-09 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99767/sri-lankan-arrested-with-135-kg-of-gold-at-chennai-airport) · `en`
+
+In a major bust, customs officials at Chennai airport seized 13.5 kg of gold worth INR 85 million from a Sri Lankan passenger who arrived from Singapore on Saturday evening, Indian media reported today.
+
+The passenger, a 29-year-old Sri Lankan man, was attempting to smuggle the gold into India. He had hidden the gold in a parcel and was trying to pass it off as a legitimate shipment, DT Next reported.
+
+The customs officials became suspicious when the passenger, who had travelled on an IndiGo flight, tried to pass through the green channel without declaring the gold.
+
+When they searched his luggage, they found the gold, which was worth INR 85 million. This is one of the largest gold seizures at the Chennai airport in recent times the report said.
+
+The passenger was arrested along with an Indigo airline staff member who was involved in the smuggling operation, it said.
+
+...
+
+[Data](articles/6e26b52b.json)
+
+---
+
+### 60 trains canceled
 
 *2024-06-09 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197572) · `si`
 
-දුම්රිය එන්ජින් රියදුරන් විසින් ක්‍රියාත්මක කර ඇති වැඩවර්ජනය හේතුවෙන් අද දිනයේ දුම්රිය ගමන්වාර 60කට ආසන්න සංඛ්‍යාවක් අවලංගු කිරීමට සිදුව තිබේ.
+Due to a strike by railway engine drivers, nearly 60 train services were canceled. The Lokomotive Opaket Engineering Association (LOCOMOTIVE) announced two rates starting from the 6th night, leading to further disruptions expected tomorrow. Despite efforts to address the strikers' demands, the Railway Department deemed the strike unfair.
 
-දුම්රිය රියදුරු බඳවා ගැනීමේ පටිපාටියේ පවතින ගැටලු ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පසුගිය 6 වනදා මධ්‍යම රාත්‍රීයේ සිට ධාවනාගාර දෙකක් ආශ්‍රිතව ආරම්භ කළ මෙම වැඩවර්ජනය තවදුරටත් අඛණ්ඩව ක්‍රියාත්මක වෙයි.
+🟩
 
-මේ හේතුවෙන් සතියේ ආරම්භක කාර්යාල දිනය වන හෙට දිනයේ දුම්රිය ධාවනයට වැඩි වශයෙන් බාධා එල්ල විය හැකි බව එම සංගමය පෙන්වාදෙයි.
+Nearly 60 railway lines have to be canceled due to the strike implemented by the railway engine drivers.
 
-කෙසේවෙතත් දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ වර්ජනයේ නිරත පිරිස් වල ඉල්ලීම් සම්බන්ධයෙන් විසඳුම් ලබාදීමට අවශ්‍ය පියවර ගෙන තිබියදීත් මෙලෙස වර්ජනය අඛණ්ඩව සිදුකිරිමට සාධාරණ නොවන බවය.
+The Lokomotive Opaket Engineering Association (LOCOMOTIVE) association has continued to commence two rates from two rates from the 6 night.
+
+As a result, the union pointed out that the train will be more obstructed tomorrow, the initial office date of the week.
+
+However, the Railway Department said that the strike is not fair to continue, despite the measures taken to address the demands of the strike.
 
 ◼️
 
 [Data](articles/a7df637d.json)
+
+[Extended Data](ext_articles/a7df637d.ext.json)
 
 ---
 
@@ -1252,7 +1314,7 @@ According to government Minister Ranjith Siyambalapitiya, he added that the new 
 
 *2024-06-09 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-arrives-in-India-for-Modis-swearing-in/110-284424) · `en`
 
-President Ranil Wickremesinghe arrived in India today to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, who will begin his third term this evening. Mr. Wickremesinghe was welcomed at Indira Gandhi International Airport, New Delhi, by Secretary of the Indian Foreign Ministry P. Kumaran, Indian Ocean Affairs Secretary Puneet Agrawal, Indian High Commissioner in Colombo Santhosh Jha, and Sri Lankan High Commissioner in India Shenuka Seneviratne. Traditional Indian dancers performed at the airport as part of the welcoming ceremony. Pix by Pradeep Pathirana.
+President Ranil Wickremesinghe arrived in India today to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, who will begin his third term this evening. Mr. Wickremesinghe was welcomed at Indira Gandhi International Airport, New Delhi, by Secretary of the Indian Foreign Ministry P. Kumaran, Indian Ocean Affairs Secretary Puneet Agrawal, Indian High Commissioner in Colombo Santhosh Jha, and Sri Lankan High Commissioner in India Shenuka Seneviratne. Traditional Indian dancers performed at the airport as part of the welcoming ceremony. Pix by Pradeep Pathirana
 
 ◼️
 
@@ -2203,67 +2265,5 @@ The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
 [Data](articles/596658a8.json)
 
 [Extended Data](ext_articles/596658a8.ext.json)
-
----
-
-### Hydroelectricity to maximize
-
-*2024-06-09 10:04:12* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලිය-උපරිමයෙන්/11-410086) · `si`
-
-With rising water levels in the Castlereagh and Mossman's reservoirs due to heavy rains, hydroelectric engineers anticipate maximizing power generation. They've set a target of 12 feet for the water level in the Castlereagh Reservoir to ensure optimal conditions for hydroelectric production.
-
-🟩
-
-The water level in the Castlereis and MouseSakel reservoirs, along with heavy rains in the western rugher, is close to the overflow.
-
-The engineers expressed their 12 feet and the water level of the Water level of the Castlereaging Reservoir.
-
-Hydroelectric engineers said that with the rise of the water level of both reservoirs.
-
-◼️
-
-[Data](articles/73a17425.json)
-
-[Extended Data](ext_articles/73a17425.ext.json)
-
----
-
-### Lok Sabha Election 2024: A mutual change of Indian politics
-
-*2024-06-09 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185633) · `ta`
-
-In the Lok Sabha Election 2024, the National Democratic Alliance secured 293 seats, while the Opposition Alliance (I.N.D.I.A.) won 232 seats. This election highlights the significant role of regional parties in shaping India's political landscape, emphasizing their importance for future politics.
-
-🟩
-
-Pa. The National Democratic Alliance has won 293 seats in Lok Sabha. The Opposition Alliance (I.N.D.I.A.) has got 232 seats. This alliance has underlined the influence of the regional parties. It has also realized how important the regional parties are going to build future politics.
-
-◼️
-
-[Data](articles/5872fbad.json)
-
-[Extended Data](ext_articles/5872fbad.ext.json)
-
----
-
-### Women scare and exploit a large scale racket
-
-*2024-06-09 09:52:53* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-බිය-ගන්වා-මහා-පරිමාණයෙන්-කරගෙන-ගිය-ජාවාරමක්-එළියට/11-410085) · `si`
-
-A large-scale racket involving child and women's abuse was uncovered, with victims being exploited for sex and money. The operation, centered around Nugegoda, involved the use of drugs, stolen goods, and online surveillance. Two women, aged 34 and 44, were rescued and will be examined by a judicial doctor. The suspects, a 46-year-old and a 29-year-old, face charges and will appear in court.
-
-🟩
-
-Child and Women's Abuse Prevention of woman who has been arrested in the Pagoda Devala Road, who has been released into sex with a large number of cash in the Pagoda Devalaya, who has been released into sex with a large scale in Nugegoda has been rackered to the Internet and recording them on a large scale.
-
-Ice drug, cannabis, women's half naked clothes, women's underwear, local and foreign currency, mobile phone bed, mobile phones, and mobile phones, personal information, women's personal informationPolice have taken a number of agreements inserted and prepared
-
-Two and 344-year-old women who were attended by the coconut oil to a job in a business location and to look after the child.Police say that the man who has been confidentially running of the OIC of the Child and Women's Abuse of Prevention of the Children's Abuse and the OIC of the Children's and Women's Abuse.
-
-...
-
-[Data](articles/d5217f9a.json)
-
-[Extended Data](ext_articles/d5217f9a.ext.json)
 
 ---

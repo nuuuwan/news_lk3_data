@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 13:34:36**
+As of **2024-06-09 13:53:36**
 
 ## Newspaper Stats
 
-*Scraped **29,347** Articles*
+*Scraped **29,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,501
 adaderanalk | 3,321
 tamilmirrorlk | 3,445
 virakesarilk | 4,494
-dailymirrorlk | 4,658
+dailymirrorlk | 4,659
 adaderanasinhalalk | 4,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,346 (100.0%) of 29,347 articles have been extended.
+29,347 (100.0%) of 29,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### At least 13 injured as bus carrying students, parents topples into canal
+
+*2024-06-09 13:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-13-injured-as-bus-carrying-students-parents-topples-into-canal/108-284422) · `en`
+
+Warakapola, June 9 (Daily Mirror)- At least thirteen persons, including school children, were injured and hospitalized after a bus transporting a group of students and parents toppled into a canal in Warakapola town this morning (9).
+
+The incident occurred at around 4:30 a.m. while the bus was transporting students and their parents from Sri Rahula Balika Maha Vidyalaya in Malabe.
+
+Twenty-six girl guides from the school and seven parents were en route to a girl guides’ camp in Rantambe when the driver reportedly lost control of the vehicle, causing it to topple into the canal.
+
+The injured students and parents were admitted to the Warakapola Hospital for treatment.
+
+◼️
+
+[Data](articles/107a5469.json)
+
+---
 
 ### Ranil in India for Modi’s swearing-in ceremony
 
@@ -47,6 +65,8 @@ President's Secretary Saman Ekanayake, Sri Lankan Foreign Ministry Secretary Aru
 ...
 
 [Data](articles/48866d01.json)
+
+[Extended Data](ext_articles/48866d01.ext.json)
 
 ---
 
@@ -2221,25 +2241,5 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 [Data](articles/ff9679d8.json)
 
 [Extended Data](ext_articles/ff9679d8.ext.json)
-
----
-
-### Sri Lanka elected to United Nations Economic and Social Council
-
-*2024-06-08 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-elected-to-United-Nations-Economic-and-Social-Council/108-284412) · `en`
-
-Colombo, June 08 (Daily Mirror)- The United Nations General Assembly (UNGA) has elected Sri Lanka into its Economic and Social Council (ECOSOC), with 182 out of 189 members present voting in favour, the Foreign Affairs Ministry said today.
-
-Sri Lanka obtained the second highest number of votes from the region, and seventh highest overall, and will begin its three-year term in the council on January 1, 2025.
-
-“As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programmes, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide,” the Foreign Affairs Ministry said in a media release.
-
-18 countries were elected to the 54-member council, when the vote took place on Friday.
-
-...
-
-[Data](articles/0f2cff96.json)
-
-[Extended Data](ext_articles/0f2cff96.ext.json)
 
 ---

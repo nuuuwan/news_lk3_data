@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 20:19:05**
+As of **2024-06-09 20:34:35**
 
 ## Newspaper Stats
 
-*Scraped **29,410** Articles*
+*Scraped **29,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,510
-adaderanalk | 3,331
+adaderanalk | 3,333
 tamilmirrorlk | 3,449
 virakesarilk | 4,511
 dailymirrorlk | 4,667
@@ -26,35 +26,47 @@ adaderanasinhalalk | 4,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,406 (100.0%) of 29,410 articles have been extended.
+29,410 (100.0%) of 29,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### කාසියේ වාසිය පාකිස්තානයට
+### To the coin to Pakistan
 
 *2024-06-09 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197571) · `si`
 
-ඉන්දියාවට එරෙහි තරගයේ කාසියේ වාසිය දිනූ පාකිස්තාන කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+Pakistan won the toss and chose to bat against India in a cricket match.
+
+🟩
+
+The Pakistan won the toss and elected to the tour of India.
 
 ◼️
 
 [Data](articles/984b27e3.json)
 
+[Extended Data](ext_articles/984b27e3.ext.json)
+
 ---
 
-### 3 ஆவது முறையாக பிரதமராக பதவியேற்றார் மோடி
+### Modi is sworn in as prime minister for the 3rd time
 
 *2024-06-09 19:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஆவது-முறையாக-பிரதமராக-பதவியேற்றார்-மோடி/175-338656) · `ta`
 
-பிரதமர் நரேந்திர மோடி இந்தியாவின் பிரதமராக 3 ஆவது முறையாக பதவியேற்றுக் கொண்டார். டில்லியில் குடியரசுத் தலைவர் மாளிகையில் இன்று மாலை சரியாக 7.23 நடந்த பிரம்மாண்ட பதவியேற்பு விழாவில் குடியரசுத் தலைவர் திரவுபதி முர்மு, மோடிக்கு பதவிப் பிரமாணமும், ரகசியக் காப்புப் பிரமாணமும் செய்து வைத்தார்.
+Narendra Modi is sworn in as India's Prime Minister for his third term, with President Draupadi Murmu administering the oath at the President's House in Delhi. Supporters present chanted slogans, marking the occasion.
 
-‘நான் நரேந்திர தாமோதரதாஸ் மோடி, கடவுளின் பெயரால்..’ என்று ஆரம்பித்து மோடி பிரதமராகப் பதவியேற்றுக் கொண்டார். முன்னதாக தேசிய கீதம் இசைக்கப்பட்டது. விழாவுக்கு திரண்டிருந்த ஆதரவாளர்கள் பாரத் மாதா கி ஜி என்று பலத்த கோஷம் எழுப்பினர். (a)
+🟩
+
+Prime Minister Narendra Modi is sworn in as Prime Minister of India. President Draupadi Murmu took oath and secret oath at the President's House in Delhi this evening.
+
+Narendra Damodaradas Modi, in the name of God .. Modi was sworn in as Prime Minister. Previously played the national anthem. Supporters gathered at the ceremony chanted a strong slogan. (A)
 
 ◼️
 
 [Data](articles/f7498d22.json)
+
+[Extended Data](ext_articles/f7498d22.ext.json)
 
 ---
 
@@ -69,6 +81,8 @@ Earlier in the day, the newly-elected Members of Parliament had gathered at Modi
 ◼️
 
 [Data](articles/295b45ea.json)
+
+[Extended Data](ext_articles/295b45ea.ext.json)
 
 ---
 
@@ -94,6 +108,26 @@ This is the first time the BJP under Modi has needed support from its regional a
 
 ---
 
+### Modi sworn in for record third term as India’s prime minister
+
+*2024-06-09 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99766/modi-sworn-in-for-record-third-term-as-indias-prime-minister) · `en`
+
+(AP) — Narendra Modi was sworn in Sunday for a rare third consecutive term as India’s prime minister, relying on his coalition partners after his party failed to win a parliamentary majority in a surprise outcome.
+
+Modi and his Cabinet ministers took the oath of office, administered by President Droupadi Murmu, at India’s presidential palace Rashtrapati Bhavan in New Delhi.
+
+The 73-year-old popular but polarizing leader is only the second Indian prime minister after Jawaharlal Nehru to retain power for a third five-year term.
+
+His Hindu nationalist Bharatiya Janata Party, which won by landslides in 2014 and 2019, failed to secure a majority to govern on its own in the latest national election. However, Modi’s National Democratic Alliance coalition won enough seats to form a government, with him at the helm.
+
+This is the first time the BJP under Modi has needed support from its regional allies to form a government after a decade of commanding the majority in Parliament.
+
+...
+
+[Data](articles/636c206d.json)
+
+---
+
 ### Harsha tells CID there is ‘no threats’ to his life
 
 *2024-06-09 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99765/harsha-tells-cid-there-is-no-threats-to-his-life) · `en`
@@ -111,6 +145,24 @@ This was after the Chair of the Committee of Public Finance (COPF), speaking in 
 [Data](articles/c7b90099.json)
 
 [Extended Data](ext_articles/c7b90099.ext.json)
+
+---
+
+### Harsha tells CID there are ‘no threats’ to his life
+
+*2024-06-09 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99765/harsha-tells-cid-there-are-no-threats-to-his-life) · `en`
+
+The Criminal Investigations Department (CID) has informed the Speaker of Parliament that SJB MP Dr. Harsha de Silva has said there is no threats to his life and hence an investigation in that aspect is not necessary.
+
+Public Security Minister Tiran Alles on Friday (07) instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats the opposition parliamentarian has received.
+
+This was after the Chair of the Committee of Public Finance (COPF), speaking in parliament on the same day, had claimed that he is faced with threats over the inquiry into the controversy surrounding the new visa issuance system.
+
+“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” de Silva had posted on ‘X’ (formerly Twitter).
+
+...
+
+[Data](articles/d521f4c7.json)
 
 ---
 
@@ -398,21 +450,29 @@ However, Minister Siyambalapitiya stated that the government is constantly suppo
 
 ---
 
-### පොසොන් කාලයට අපුරට අතිරේක බස් 400ක්
+### 400 additional buses to Pozon
 
 *2024-06-09 18:03:13* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-කාලයට-අපුරට-අතිරේක-බස්-400ක්/11-410101) · `si`
 
-ඓතිහාසික මිහින්තලය, තන්තිරිමලය සහ අනුරාධපුර පූජා නගරය කේන්ද්‍ර කර ගනිමින් පැවැත්වෙන මෙව අනුරාධපුර පොසොන් උත්සවය  සදහා පැමිණෙන ලක්ෂ සංඛ්‍යාත  බැතිමතුන් වෙනුවෙන් සාමාන්‍ය ප්‍රවාහන සේවාවට අමතරව අතිරේක විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කරන බව  ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයේ සභාපති ලලිත්ද අල්විස් මහතා පැවසීය.
+To accommodate the influx of visitors during the Anuradhapura Poson Festival, the Sri Lanka Transport Board plans to add 400 buses to its service, covering routes to Mihintale, Tantirimale, and Anuradhapura. This move aims to alleviate travel inconveniences due to railway repairs between Mahawa and Anuradhapura. Additionally, the board is exploring cost-saving measures, including auctioning bus usage rights and purchasing 1,000 new buses, as approved by the cabinet.
 
-සභාපතිවරයා මේ බව කියා සිටියේ ඊයේ (8දා) දින අනුරාධපුර ලංගම ප්‍රාදේශීය කාර්යාලයේදී පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින්ය.
+🟩
 
-මහව සිට අනුරාධපුරය දක්වා වන දුම්රිය මාර්ගයේ සිදුවන අලුත් වැඩියාව හේතුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට සිදුවන අපහසුතාවය මග හැරීම සඳහා මීට පෙර වර්ෂවලදී පැවති පොසොන් මංගල්‍යය සඳහා යෙදවූ බස් රථ සේවාවට අමතර විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට සිදු වන බව සභාපතිවරයා පැවසීය.
+The Chairman of the Sri Lanka Transport Board Lalith Alwis said that an additional bus service will be implemented to the Anuradhapura Poson Festival in the Historic Mihintale, Tantirimale and Anuradhapura sacred city.
 
-ඒ අනුව  ගම්පහ සහ කොළඹ ලංගම ප්‍රාදේශිකයන් වලද සහාය ඇතුව මෙවර පොසොන් මංගල්‍යය වෙනුවෙන් අමතර බස්රථ හාරසීයක් යෙදවීමට කටයුතු කරන බවද මහතා සඳහන් කළේය.
+The Chairman was speaking at a discussion held at the CTB Regional Office in Anuradhapura yesterday (8).
+
+The President said that a special bus service has been implemented to the bus service that has been used to prevent the inconvenience caused by the Indian to Anuradhapura to Anuradhapura due to the repair of the railway line from Mahawa to Anuradhapura.
+
+Accordingly, the Festival of Posson will be deployed in Gampaha and Colombo Regions, he added.
+
+The faculties held under the private sector to reduce the administrative and operating expenses of the Sri Lanka Transport Board are acting in other activities.The Chairman said that the cabinet has approved the auction of the bus usage and to buy 1000 new buses on the instructions of the bus transport.
 
 ...
 
 [Data](articles/a6bbf6c0.json)
+
+[Extended Data](ext_articles/a6bbf6c0.ext.json)
 
 ---
 
@@ -2193,43 +2253,5 @@ A three-layered security has been put in place at Rashtrapati Bhawan where he wi
 [Data](articles/3565d2f8.json)
 
 [Extended Data](ext_articles/3565d2f8.ext.json)
-
----
-
-### President leaves for Modi’s swearing-in
-
-*2024-06-09 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-leaves-for-Modis-swearing-in/155-284417) · `en`
-
-Colombo, June 9 (Daily Mirror) - President Ranil Wickremesinghe departed for New Delhi a short while ago at the invitation of the Prime Minister of India, Shri Narendra Modi, to attend his swearing-in ceremony scheduled for this evening.
-
-Prime Minister Modi will take oath today, as too will members of his new cabinet, at the Rashtrapati Bhawan in Delhi. He will be the first three-term Prime Minister since Congress stalwart Jawaharlal Nehru.
-
-A three-layered security has been put in place at Rashtrapati Bhawan where he will be administered oath of office by President Droupadi Murmu. Officials said commandos from Delhi Police's SWAT and NSG have been deployed around the venue and other strategic locations as Delhi remains on high alert for the event.
-
-◼️
-
-[Data](articles/8991ee19.json)
-
-[Extended Data](ext_articles/8991ee19.ext.json)
-
----
-
-### Colombo-Kandy Road reopens at Pahala Kadugannawa; Motorists cautioned
-
-*2024-06-09 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99751/colombo-kandy-road-reopens-at-pahala-kadugannawa-motorists-cautioned) · `en`
-
-The stretch of road at Pahala Kadugannawa along the Colombo-Kandy road is now open for traffic once again.
-
-However, the Disaster Management Center (DMC) has advised motorists to exercise caution while driving in the area, as conditions may still be hazardous.
-
-A section of the Colombo-Kandy main road had been closed for traffic at Pahala Kadugannawa from 7.30 p.m. last night to 6.00 a.m. today (09).
-
-Meanwhile, the Kegalle District Secretary had announced on Friday that the Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08) to remove unstable rocks and tree branches along this section of the road.
-
-◼️
-
-[Data](articles/03ee70ef.json)
-
-[Extended Data](ext_articles/03ee70ef.ext.json)
 
 ---

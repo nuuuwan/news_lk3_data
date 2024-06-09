@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 08:34:27**
+As of **2024-06-09 08:53:22**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,299 (100.0%) of 29,301 articles have been extended.
+29,301 (100.0%) of 29,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### இன்றும் பல பகுதிகளில் மழை பெய்யும்
+### Rainfall in many areas today
 
 *2024-06-09 08:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-பகுதிகளில்-மழை-பெய்யும்/175-338626) · `ta`
 
-மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இன்று (09) ஓரளவு மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Today, the Department of Meteorology predicts rainfall across several provinces including Western, Sabaragamuwa, North Western, Southern Provinces, Kandy, Nuwara Eliya, and potential thunderstorms in Uva Province and Ampara/Batticaloa districts. Heavy rains are forecasted for parts of Sabaragamuwa Province and Nuwara Eliya district. Strong winds up to 40-50km/h are expected in various regions. People are advised to prepare for possible heavy winds and lightning during thunderstorms.
 
-சப்ரகமுவ மாகாணம் மற்றும் நுவரெலியா மாவட்டத்தில் சில இடங்களில் பலத்த மழை பெய்ய வாய்ப்புள்ளது.
+🟩
 
-ஊவா மாகாணம் மற்றும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that there will be some rainfall in the Western, Sabaragamuwa, North Western and Southern Provinces, Kandy and Nuwara Eliya districts today.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேற்கு மாகாணங்களிலும் திருகோணமலை, அம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் காற்று கி.மீ. 40-50 வரை பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Heavy rains are expected in some parts of the Sabaragamuwa Province and Nuwara Eliya district.
 
-இடியுடன் கூடிய மழை பெய்யும் வேலையில் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+The Department of Meteorology has said that some places in the Uva Province and Ampara and Batticaloa districts are likely to experience rainfall or thunderstorms in the evening or night.
+
+Air km in the western slopes of the Central Highlands, Northern, North Central and Northwestern Provinces, Trincomalee, Hambantota and Moneragala districts. The Department of Meteorology has announced that strong winds are likely to blow up to 40-50.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes in the process of thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/12a3e286.json)
 
+[Extended Data](ext_articles/12a3e286.ext.json)
+
 ---
 
-### மக்களுக்கு முக்கிய அறிவிப்பு
+### The main notice of the people
 
 *2024-06-09 08:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-முக்கிய-அறிவிப்பு/175-338625) · `ta`
 
-கண்டி வீதியின் கீழ் கடுகன்னாவ பகுதி இன்று காலை 6.45 மணிக்கு திறக்கப்பட்டுள்ளது.
+Kadugannawa road reopened at 6:45 am after closure for tree and rock removal. Disaster Management advises caution due to hazards.
 
-குறித்த பகுதியினூடாக மக்கள் மிகுந்த அவதானத்துடன் பயணிக்குமாறு அனர்த்த முகாமைத்துவ நிலையம் அறிவுறுத்தியுள்ளது.
+🟩
 
-சாலையின் இருபுறமும் உள்ள அபாயகரமான மரங்கள் மற்றும் பழுதடைந்த கிளைகளை அகற்றும் பணிக்காகவும், ஆபத்தான பாறை பாகங்களை அகற்றுவதற்காகவும் நேற்று குறித்த வீதி மூடப்பட்டமை குறிப்பிடத்தக்கது. R
+The Kadugannawa area under the Kandy Road was opened at 6.45 am today.
+
+The Disaster Management Center has advised people to travel with great care through the area.
+
+The road was closed yesterday for the removal of hazardous trees and damaged branches on both sides of the road and to remove dangerous rock parts.. Remble
 
 ◼️
 
 [Data](articles/29589117.json)
+
+[Extended Data](ext_articles/29589117.ext.json)
 
 ---
 

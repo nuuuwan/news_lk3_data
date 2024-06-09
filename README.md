@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 23:04:07**
+As of **2024-06-09 23:19:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,427 (100.0%) of 29,428 articles have been extended.
+29,428 (100.0%) of 29,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -678,23 +678,27 @@ It is not a secret Cheti that the African National Congress, the largest party t
 
 ---
 
-### 13 වැනි සංශෝධනය ක්‍රියාත්මක කරනවා
+### The 13th Amendment is implemented
 
 *2024-06-09 19:03:34* · [`adalk`](https://www.ada.lk/breaking_news/13-වැනි-සංශෝධනය-ක්‍රියාත්මක-කරනවා/11-410103) · `si`
 
-සමගි ජන බලවේග ආණ්ඩුවක් යටතේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 13 වැනි සංශෝධනය ක්‍රියාත්මක කරන බව එම පක්ෂයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Sajith Premadasa, Colombo's Opposition Leader, announced the implementation of the 13th Amendment to the Constitution, promising its activation across all provinces. He emphasized the amendment's importance in ensuring political, social, economic, religious, and cultural rights for the people. Despite criticism from various leaders, he labeled them as political opportunists, reaffirming his commitment to the amendment's full implementation.
 
-කිලිනොච්චිය භාරතී විද්‍යාලයට සක්වළ වැඩසටහන යටතේ සුහුරු පන්තිකාමරයක් ලබා දීමට ඊයේ (09දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The Colombo Opposition Leader Sajith Premadasa said that the 13th Amendment to the Constitution will be implemented under a solid mass force government.
 
-"ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 13 වැනි සංශෝධනය අපි ක්‍රියාත්මක කරනවා. ජාත්‍යන්තර කම්කරු දිනයේදීත් අපි ඒ ප්‍රතිඥාව ලබා දුන්නා. අද මේ උතුරටත් ඇවිල්ලා අපේ රටේ උත්තරීතර නීති පොතේ තිබෙන 13 වැනි ආණ්ඩුක්‍රව ව්‍යවස්ථාව අපි ක්‍රියාත්මක කරනවා කියන එක උතුරෙත්, දකුණෙත්, නැගෙනහිරත්, බස්නාහිරත් ඇතුළු රටේ පළාත් 09ම ජනතාවට අපි ඒ ප්‍රකාශය කළා. ඒක ක්‍රියාත්මක කරන්න අපි මැලි වෙන්නේ නෑ. මේ ප්‍රදේශයේ ජනතාවගේ දේශපාලන, සමාජීය, ආර්ථික , ආගමික හා සංස්කෘතික අයිතීන් අපි ලබා දෙනවා.
+He was speaking at a ceremony at the Sakwala program to be held yesterday (09) under the Sakwala program to Kilinochchi.
 
-13 වැනි සංශෝධනය ගැන කතා කරනකොට විවිධ නායකයෝ අහක බලාගන්නවා. සමහරු ඇහුණේ නෑ වගේ ඉන්නවා. සමහරු වෙනත් මාතෘකා ගේනවා. සමහරු මිරිකෙනවා. සමහරු බයේ දුවනවා. සමහරු ලැජ්ජාවට පත්වෙනවා. ඒ සියලු දෙනා දේශපාලන අවස්ථාවාදීන්. "
+The Opposition Leader Sajith Premadasa said so.
 
-◼️
+"We implement the 13th Amendment to the Constitution. We also gave that pledge on the International Labor Day. We have made the 13th Amendment to the North today, the 13th Constitution of our country, we made that statement to the people including 9 provinces in the North, South, East, East, and East, and West. We will not be released to activate it. We provide the political, social, economic, religious and cultural rights of the people of this area.
+
+...
 
 [Data](articles/f1caccff.json)
+
+[Extended Data](ext_articles/f1caccff.ext.json)
 
 ---
 

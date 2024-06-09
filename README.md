@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 15:34:23**
+As of **2024-06-09 15:52:53**
 
 ## Newspaper Stats
 
-*Scraped **29,367** Articles*
+*Scraped **29,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,504
-adaderanalk | 3,323
+adaderanalk | 3,324
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,662
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,720
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,360 (100.0%) of 29,367 articles have been extended.
+29,367 (100.0%) of 29,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Therefore, a new budget will not be presented at the end of this year for the fi
 
 [Data](articles/7947d82e.json)
 
+[Extended Data](ext_articles/7947d82e.ext.json)
+
 ---
 
 ### President Ranil arrives in Delhi to attend swearing-in ceremony of PM Modi
@@ -66,57 +68,77 @@ India and Sri Lanka are civilisational partners and enjoy strong and enduring bi
 
 [Data](articles/ada91c62.json)
 
+[Extended Data](ext_articles/ada91c62.ext.json)
+
 ---
 
-### ඇතුළේ හිටියත් එළියේ ජයටම කෙරෙන 'කුඩු සළිඳුගේ' සෙල්ලම්
+### Statt, although in the inside, to play
 
 *2024-06-09 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197559) · `si`
 
-සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන පානදුර කුඩු සළිඳු නමැත්තාගේ ගෝලයින් දෙදෙනෙකු පානදුර දකුණ ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A drug dealer and organized criminal was arrested in Panadura South, along with a suspect and a motorcycle. Over 20 grams of ice narcotics, 10 milligrams of ice, and 42 million rupees were found. Investigations linked the drugs to Kudu Shaluck and Kudu Makuduwa, revealing a larger network involved in drug trafficking.
 
-පොලිස් විශේෂ කාර්යය බළකාය විසින් සිදුකළ මෙහෙයුමක දී පානදුර දකුණ නල්ලූරුව ප්‍රදේශයේ දී යතුරුපැදියක් සමග එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+🟩
 
-ඔහු සතුව තිබී රිවෝල්වර් අවි සඳහා භාවිත කරනු ලබන සජීවී පතරොම් 20ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10යි මිලිග්‍රෑම් 400ක් හා මත්ද්‍රව්‍ය අලෙවියෙන් උපයාගන්නා ලද රුපියල් ලක්ෂ 42කට අධික මුදලක් සොයාගෙන තිබේ.
+The goalin was arrested in Panadura South, the organized criminal and a drug dealer.
 
-සැකකරුගෙන් සිදුකරන ලද ප්‍රශ්නකිරීම්වලදී නිවසක සිට එම මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවමින් ආධාර අනුබල ලබාදුන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+One suspect has been arrested along with a motorcycle in the Nalluruwa area in Panadura South Nalluruwa, Panadura South Nalluru area.
 
-සැකකරුවන් දෙදෙනා පානදුර නල්ලූරුව සහ මොරවින්න යන ප්‍රදේශවල පදිංචිකරුවන් බවයි පොලීසිය පැවසීය.
+Revolver weapons were discovered for over 20 grams of ice narcotics, 10 milligrams of ice, and 42 million rupees.
 
-මොවුන්, සංවිධානාත්මක අපරාධකරුවෙකු වන කුඩු සළිඳු නමැත්තාගේ මත්ද්‍රව්‍ය ජාවාරම් ඩුබායි හි සිට මෙහෙයවන ප්‍රධාන ගෝලයින් දෙදෙනෙකුගේ මෙරට මත්ද්‍රව්‍යජාලය මෙහෙයවනු ලබන පුද්ගලයින් බව පොලීසිය සිදුකළ විමර්ශනවල දී අනාවරණය වී ඇත.
+In questioning of the suspect, another suspect had arrested another suspect who supported the drug from a house.
+
+The two suspects are residents of Panadura Nalluruwa and Moravin.
+
+Investigations have revealed that the drug managed by the drug travelers of the drug travelers who are organized by the drug trafficking of Kudu Shaluck, who is organized by the drug trafficking of Kudu Makuduwa.
 
 ◼️
 
 [Data](articles/70dc455e.json)
 
+[Extended Data](ext_articles/70dc455e.ext.json)
+
 ---
 
-### ஈரானிய யுவதி துஷ்பிரயோகம்: ஒருவர் கைது
+### Iranian woman abuse: One arrested
 
 *2024-06-09 14:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-யுவதி-துஷ்பிரயோகம்-ஒருவர்-கைது/175-338648) · `ta`
 
-22 வயதான ஈரானிய யுவதி ஒருவரை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் குறித்த நிறுவன ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கேகாலை பொலிஸார் தெரிவித்தனர்.
+In Kegalle, a 22-year-old Iranian woman was arrested for allegedly sexually assaulting a male employee at an Ayurvedic massage center. The suspect, a 41-year-old man from the Randeniya district, reportedly molested her under the guise of providing a massage.
 
-கேகாலை, ரம்புக்கன வீதியிலுள்ள ஆயுர்வேத மசாஜ் நிலையமொன்றிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது. கைது செய்யப்பட்டவர் கேகாலை ரன்தெனிய மாவட்டத்தைச் சேர்ந்த 41 வயதுடையவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-பாலியல் வன்கொடுமைக்கு ஆளான ஈரானிய யுவதி, ஆயுர்வேத மசாஜ் செய்வதற்காக ரந்தெனியவில் உள்ள ஆயுர்வேத மசாஜ் மையத்திற்கு பல ஈரானியர்களுடன் வந்ததாகவும், அங்கு சந்தேக நபர் மசாஜ் செய்ய வாய்ப்பு கிடைத்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+A 22 -year -old Iranian woman has been arrested for allegedly sexually abusing a company employee, Kegalle police said.
 
-யுவதியை மசாஜ் அறைக்குள் வரவழைத்த சந்தேகநபர் மசாஜ் செய்வதாக கூறி பெண்ணை பாலியல் வன்கொடுமை செய்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The incident took place at a Ayurvedic massage station on Rambukana Road, Kegalle. The arrested person is 41 -year -old from Randeniya district, Kegalle, police said.
+
+Police said that Iranian woman, who was raped, had come to the Ayurvedic massage center in Randeniya with several Iranians and had the opportunity to massage the suspect.
+
+Police say that the suspect who brought the woman into the massage room was molesting the woman, claiming to be massage.
 
 ◼️
 
 [Data](articles/6b07b718.json)
 
+[Extended Data](ext_articles/6b07b718.ext.json)
+
 ---
 
-### ஜனாதிபதிக்கு  அமோக வரவேற்பு
+### Welcome to the president
 
 *2024-06-09 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-338647) · `ta`
 
-இந்தியாவின்   பிரதமராக மூன்றாவது தடவையாகவும் பதவியேற்கவுள்ள நரேந்திர மோடியின் பதவியேற்பு வைபவத்தில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க புதுடெல்லிக்குச் சென்றுள்ளார். அவருக்கு அங்கு அமோக வரவேற்பு அளிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe attended Narendra Modi's swearing-in ceremony in New Delhi, where he was warmly received.
+
+🟩
+
+President Ranil Wickremesinghe has visited New Delhi to attend Narendra Modi's swearing -in. He has been welcomed there.
 
 ◼️
 
 [Data](articles/59e0612e.json)
+
+[Extended Data](ext_articles/59e0612e.ext.json)
 
 ---
 
@@ -135,6 +157,8 @@ According to the budget proposals adopted for 2024, parliamentary approval has b
 ◼️
 
 [Data](articles/0468670e.json)
+
+[Extended Data](ext_articles/0468670e.ext.json)
 
 ---
 
@@ -343,6 +367,24 @@ It is reported that after the suspect was admitted to the Negombo Hospital they 
 [Data](articles/824d01f3.json)
 
 [Extended Data](ext_articles/824d01f3.ext.json)
+
+---
+
+### Ugandan man who ingested cocaine-filled capsules arrested at BIA
+
+*2024-06-09 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99757/ugandan-man-who-ingested-cocaine-filled-capsules-arrested-at-bia) · `en`
+
+A Ugandan national who had attempted to smuggle capsules containing cocaine into the country by swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08).
+
+The arrested suspect has arrived in Sri Lanka from Qatar after swallowing the cocaine capsules, police said.
+
+It is reported that after the suspect was admitted to the Negombo Hospital they were able to extract 14 cocaine capsules from his stomach.
+
+◼️
+
+[Data](articles/9ebefac2.json)
 
 ---
 
@@ -774,17 +816,23 @@ Modi does not know the news that the people of Tamil Nadu are different from rel
 
 ---
 
-### මැතිවරණ නීති  සංශෝධන නිර්දේශ  වාර්තාව ලබා දීමට  කොමිසමට දුන් කාලය දිගුකෙරේ
+### The Commission is extended to issue the report to give the report to the report of election legal revision
 
 *2024-06-09 11:00:03* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති--සංශෝධන-නිර්දේශ--වාර්තාව-ලබා-දීමට--කොමිසමට-දුන්-කාලය-දිගුකෙරේ/11-410090) · `si`
 
-කාලීන අවශ්‍යතාවන්ට ගැලපෙන පරිදි දැනට පවතින සියලුම මැතිවරණ නීති සංශෝධනය කිරීමට අවශ්‍ය නිර්දේශ රජයට  ඉදිරිපත් කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කළ පරීක්ෂණ  කොමිෂන් සභාවට එම නිර්දේශ සහිත අවසන් වාර්තාව   ඉදිරිපත් කිරීමට ජුනි 15 දක්වා ලබා දී තිබු කාලය  ජුනි 30 දක්වා දීර්ඝ කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+President Ranil Wickremesinghe has extended the Commission to review and amend all existing election laws to better suit current needs, focusing on increasing women and youth participation. The Commission, chaired by President's Counsel Vajuge and including Gerard Depp among others, aims to recommend changes to ensure fair representation and introduce constitutional amendments regarding political party conduct. This initiative was announced through special gazette notifications on November 2 and 16 last year, marking significant steps towards electoral reform in Sri Lanka.
 
-මැතිවරණ සඳහා කාන්තා හා තරුණ නියෝජනය වැඩිකිරීම  ,මැතිවරණ ප්‍රකාශිත දිනය හා ප්‍රතිඵල නිකුත්කරණ දිනය අතර කාලය අඩුකිරීම ,මුද්‍රිත චන්ද පත්‍රිකාව වෙනුවට  ඉලෙක්ට්‍රොනික චන්ද ප්‍රකාශ ක්‍රමයක් සැකසීම , විදෙස්ගත   ලාංකිකයන්ට චන්ද ප්‍රකාශ කිරීමට අවස්ථාව සැලසීම ,එක් පුද්ගලයෙකුට මැතිවරණ වර්ග   දෙකකට තරගකර ආයතන දෙකෙහිම නියෝජනයට අවස්ථාව සැලසීම ,මැතිවරණ දින මැතිවරණ සේවා සපයන රාජ්‍ය අංශයේ නොවන අයටද  තැපැල් චන්ද භාවිතයට ඉඩදීම,සමානුපාතික හා කේවල මිශ්‍ර මැතිවරණ ක්‍රමයක් සැකසීම  ආදී සංශෝධන සඳහා නිර්දේශ ඉදිරිපත් කිරීම  මෙම කොමිෂන් සභාව මගින් අපේක්ෂිතය.
+🟩
+
+President Ranil Wickremesinghe issued a special gazette notification to submit the recommendations of President Ranil Wickremesinghe to submit the recommendation of all existing election laws to amend all existing election laws to meet the current needs.Has been done.
+
+Elections to increase the preparation of women and youth and the results of the election publishers and the results of the election publishers and the results are the opportunity to represent the electoral Sri Lankans and the opportunity to represent the electoral Sri Lankans.The Commission is expected to make recommendations for non-state sector to use the post-in-the-government and monetary electoral election.
 
 ...
 
 [Data](articles/161ef529.json)
+
+[Extended Data](ext_articles/161ef529.ext.json)
 
 ---
 
@@ -2143,27 +2191,5 @@ Pet Cammins, who retired during the match against Oman, will be played in the Au
 [Data](articles/24f0d7e8.json)
 
 [Extended Data](ext_articles/24f0d7e8.ext.json)
-
----
-
-### Sri Lanka’s gross forex reserves marginally down in May
-
-*2024-06-08 21:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-gross-forex-reserves-marginally-down-in-may-167039/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross forex reserves fell marginally to 5,421 million US dollars in May 2024, from 5,471 million US dollars, though the central bank was a net buyer of foreign exchange in the market in the month.
-
-The central bank bought 224.5 million US dollars and sold 32 million through an ad hoc pegging mechanism (it is not possible to build reserves in a floating exchange rate regime) from commercial banks in the month.
-
-Sri Lanka’s gross official reserves are made up of the central bank’s monetary reserves (bought outright against reserve money or borrowed through buy-sell swaps and the IMF), and balances at the Treasury (also borrowed unless the are privatization proceeds).
-
-The central bank’s net reserves are negative, but has been improving with the collection of monetary reserves.
-
-Though gross reserves fall, there is no data yet available to show whether net reserves improved in Ma due to settlement of dollar liabilities of the central bank or that of the government.
-
-...
-
-[Data](articles/bbb92a3e.json)
-
-[Extended Data](ext_articles/bbb92a3e.ext.json)
 
 ---

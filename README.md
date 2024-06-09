@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 13:04:05**
+As of **2024-06-09 13:18:45**
 
 ## Newspaper Stats
 
-*Scraped **29,345** Articles*
+*Scraped **29,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,501
-adaderanalk | 3,320
+adaderanalk | 3,321
 tamilmirrorlk | 3,445
 virakesarilk | 4,494
 dailymirrorlk | 4,657
@@ -26,37 +26,67 @@ adaderanasinhalalk | 4,717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,336 (100.0%) of 29,345 articles have been extended.
+29,345 (100.0%) of 29,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ඉන්දියාවට ගිය ජනපතිට ලැබුණු පිළිගැනීම
+### Ugandan who swallowed 14 cocaine capsules arrested at BIA
+
+*2024-06-09 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99757/ugandan-who-swallowed-14-cocaine-capsules-arrested-at-bia) · `en`
+
+A Ugandan national who had attempted to smuggle capsules containing cocaine into the country by swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08).
+
+The arrested suspect has arrived in Sri Lanka from Qatar after swallowing the cocaine capsules, police said.
+
+It is reported that after the suspect was admitted to the Negombo Hospital they were able to extract 14 cocaine capsules from his stomach.
+
+◼️
+
+[Data](articles/824d01f3.json)
+
+---
+
+### Recognition to the President visited India
 
 *2024-06-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197556) · `si`
 
-මෝදි අගමැතිවරයාගේ දිවුරුම්දීමේ උත්සවයට සහභාගීවීම සඳහා ඉන්දියාව බලා ගිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර නවදිල්ලි අගනුවර වෙත ළඟාවී තිබේ.
+President Ranil Wickremesinghe will visit India to attend the Prime Minister's swearing-in ceremony in New Delhi. The event will take place at the official residence of the Indian Prime Minister.
 
-මෝදි අගමැතිවරයාගේ නිල දිවුරුම් දීමේ උත්සවය අද පස්වරුවේ නවදිල්ලි අගනුවර පිහිටි ඉන්දීය ජනපති නිල නිවස වන රාශ්ට්‍රපති භවන්හීදී පැවැත්වීමට නියමිතය.
+🟩
+
+President Ranil Wickremesinghe to visit India to attend the prime minister's swearing ceremony has been reached to New Delhi capital.
+
+The Prime Minister's official swearing in the prime minister is scheduled to hold the Indian official residence, Indian official, is the official residence of Indian capital.
 
 ◼️
 
 [Data](articles/d2d4e8bd.json)
 
+[Extended Data](ext_articles/d2d4e8bd.ext.json)
+
 ---
 
-### பஸ் விபத்தில் பாடசாலை மாணவர்கள் காயம்
+### School students injured in bus accident
 
 *2024-06-09 12:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-பாடசாலை-மாணவர்கள்-காயம்/175-338642) · `ta`
 
-இந்த விபத்தில் காயமடைந்த 13 மாணவர்கள் மற்றும் பெற்றோர் வரக்காபொல வைத்தியசாலை அனுமதிக்கப்பட்டுள்ளனர்.
+In a tragic bus accident, thirteen school students and parents were injured and hospitalized at Varakapola Hospital. The incident occurred when the vehicle lost control and plunged into a stream near Warakapola.
 
-வேகக்கட்டுப்பாட்டை இழந்து, வரக்காபொல பகுதியிலுள்ள நீரோடையில் வீழ்ந்து விபத்துக்கு உள்ளாகியுள்ளதாக தெரிவித்த வரக்காபொல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்தனர்.
+🟩
+
+Thirteen students and parents who were injured in the accident have been admitted to Varakapola Hospital.
+
+The Varakapola police said that they had lost the speed and fell into the stream in the Warakapola area.
 
 ◼️
 
 [Data](articles/c53a3a9b.json)
+
+[Extended Data](ext_articles/c53a3a9b.ext.json)
 
 ---
 
@@ -74,39 +104,59 @@ After being admitted to the Negombo Hospital, 14 cocaine pills were recovered fr
 
 [Data](articles/532f7601.json)
 
+[Extended Data](ext_articles/532f7601.ext.json)
+
 ---
 
-### අපේක්ෂා රෝහලට යන ලංගම බස් රථයට ගල් ප්‍රහාරයක් එල්ල කල සිද්දියට හතක් අත් අඩංගුවට
+### Seven arrested for stone
 
 *2024-06-09 12:23:36* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂා-රෝහලට-යන-ලංගම-බස්-රථයට-ගල්-ප්‍රහාරයක්-එල්ල-කල-සිද්දියට-හතක්-අත්-අඩංගුවට/11-410095) · `si`
 
-ආණමඩුවේ සිට මහරගම අපේක්ෂා රෝහලට ගමන් ගන්නා ලංගම බස් රථයට ආඩිගම නගරයෙදී ගල් ප්‍රහාරයක් එල්ල කිරීමේ සිද්දියට පුද්ගලික බස් රථ රියදුරන් හා කොන්දෙස්තරවරුන් ඇතුළු හත් දෙනෙකු 9 දින අත් අඩංගුවට ගත් බව ආණමඩුව පොලිසිය කියයි.
+Seven individuals, including private bus drivers and conductors, have been arrested for allegedly throwing stones at an SLTB bus traveling from Anamaduwa to Maharagama. The incident occurred on the 9th of the month, causing damage to the bus. Two motorcycles were used in the attack, which targeted the bus as it navigated through Anamaduwa town. The suspects, aged between 25 and 30, will face charges of causing harm with stones in court.
 
-මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ බත්තුළුඔය,කිරීයන්කල්ලිය,බංගදෙනිය. වෙන්නප්පුව ඇතුළු ප්‍රදේශ වල පදිංචි පුද්ගලික මගී ප්‍රවාහන බස් රථ රියදුරන්, කොන්දොස්තරවරුන් ඇතුළු අවුරුදු 25 හා 30 සිමා වල පිරිස් බව කියයි.
+🟩
 
-ලංකා ගමනා ගමන මංඩලයට අයත් හලාවත ඩිපෝවට අයත් NA- 9032 බස් රථය වසර කිපයක සිට ආණමඩුව නගරයෙ සිට මහරගම අපේක්ෂා රෝහල වෙත ගමන් ආරම්භ කර තිබුනේ අපේක්ෂා රෝහලේ නේවාසික ප්‍රතිකාර ලබමින් සිටින රෝගීන් බැලිම සදහා ගමන් කරන පිරිස් එම රෝහලේ සායන සදහා  ගමන් කරනු ලබන රෝගීන් සදහා පහසුවක් වෙමිනි.
+The SLTB buses traveling from Anamaduwa to Maharagama has been arrested in the 9th of the 9th of the 9th.
 
-කෙසේ නමුත් මෙම ලංගම බස් රථය ආණමඩුවෙන් පසුගිය 7 දින පිටත්ව ගමන් කරමින් සිටියදී ආඩිගම නගරයෙදී අංක තහඩු නොමැතිව ගමන් කල යතුරු පැදියක සිටි දෙදෙනෙකු විසින් ලංගම බස් රථයෙ රියදුරු ඉලක්ක කර ගනිමින් දරුණු ගල් ප්‍රහාරයක් එල්ල කර පලා ගොස් තිබුනී.
+Arrested has arrested Btituluoya, Kirawankuliya, Bangadeniya. Private passenger bus drivers, conductors, including private passenger bus drivers, conductors, including the Wennappuwa are said to be 25 and 30 years.
+
+The NA-9032 bus belonging to the Chilaw depot of the Sri Lanka Transport Board has commenced from the Anamaduwa Town..
+
+However, when the SLTB bus was traveling on the 7th of the 7th, two motorcycles were launched targeting the SLTB bus.
+
+However, the Criminal Division of the Anamaduwa Police Statute the Ministry of Criminal OIC, police investigations
+
+The discovery of the SLTB bus to travel from the Anamadu town of Anamaduwa town, the attack had been assaulted on a conflict to navigate passengers.
+
+The suspect who owns the private bus and another private bus driver is to be submitted to the Anamaduwa Court to the Anamaduwa Court on charges of harming stones.
 
 ...
 
 [Data](articles/cfc12b21.json)
 
+[Extended Data](ext_articles/cfc12b21.ext.json)
+
 ---
 
-### රන්ටැඹේ යන්න ගිය බස් රථය වරකාපොලදි ඇළකට යයි
+### Bus traveling to Rantamb goes to a stream of Warakapola
 
 *2024-06-09 12:20:51* · [`adalk`](https://www.ada.lk/breaking_news/රන්ටැඹේ-යන්න-ගිය-බස්-රථය-වරකාපොලදි-ඇළකට-යයි/11-410094) · `si`
 
-පාසල් ළමුන් පිරිසක් රැගෙන රන්ටැඹේ බලා ධාවනය කරමින් තිබූ පෞද්ගලික බස් රථයක් වරකාපොළ නරගය ආසන්නයේදී ඇළකට පෙරලිමෙන් අනතුරකට ලක්ව තිබේ.
+A private bus en route to Ranmbembe crashed near Warakapola, injuring thirty students and parents from Malabe Rahul College. They've been hospitalized at Warakapola Hospital.
 
-අනතුරින් තුවාල ලැබූ පාසල් ළමුන් හා දෙමව්පියන් ඇතුළු 13 දෙනෙකු ප්‍රතිකාර සඳහා වරකාපොළ රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ මාලබේ රාහුල විද්‍යාලයේ ළමුන් පිරිසක් රැගෙන ගිය බස් රථයකි.
+A private bus that was traveling to Ranmbembe has been in front of the stream near the Warakapola.
+
+Thirty school children and parents who were injured in the accident have been admitted to the Warakapola Hospital for treatment.
+
+The victim was a bus carrying a group of children at Malabe Rahul College.
 
 ◼️
 
 [Data](articles/17e8cfec.json)
+
+[Extended Data](ext_articles/17e8cfec.ext.json)
 
 ---
 
@@ -249,6 +299,8 @@ Stolen gold from civilians during the final stages of the war was reportedly con
 ◼️
 
 [Data](articles/35547006.json)
+
+[Extended Data](ext_articles/35547006.ext.json)
 
 ---
 
@@ -516,21 +568,27 @@ We are well aware that when protecting people from the glory, it will face econo
 
 ---
 
-### අයිස් නිසා වැඩ තහනම් වූ පොලිස් නිලධාරින් දෙදෙනා
+### Two police officers who were banned due to ice
 
 *2024-06-09 10:12:21* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-නිසා-වැඩ-තහනම්-වූ-පොලිස්-නිලධාරින්-දෙදෙනා/11-410087) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අයත් වැල්ලම්පිටිය බුත්ගමුව තනිකඩ බට නිවාසයෙන් හොර රහසේ පිටව ගොස් අයිස් සහ ගංජා පානය කර නැවත පැමිණෙමින් සිටියදී  අත්අඩංගුවට ගත් පොලිස් කොස්තාපල්වරුන් දෙදෙනාගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය කියයි.
+Two police officers were suspended after being caught with drugs. They were found leaving the country at night and were examined by a medical officer. The suspension was ordered by the Criminal Investigation Department's director due to misconduct.
 
-මෙම නිලධාරීන් දෙදෙනා තනිකඩ බට නිවාසී රාත්‍රී නාම ලේඛනයට පෙනී නොසිටිමින් අනවසරයෙන් තනිකඩ බට නිවාසයෙන් පිටව ගොස් නැවත පැමිණෙන අවස්ථාවේදී අපරාධ බුද්ධි ඒකකයේ ස්ථානාධිපතිවරයාට ලද තොරතුරක් මත නිලධාරීන් පරික්ෂාවට ලක් කර ඇති අතර එහිදී නිලධාරීන් විෂමද්‍රව්‍ය භාවිතා කර ඇති බවට අනාවරණය වී යැයි පොලිසිය කියයි
+🟩
 
-කොස්තාපල්වරුන් දෙදෙනා කොළඹ අධිකරණ වෛද්‍ය කාර්යාලයේ අධිකරණ වෛද්‍ය නිලධාරීවරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන් දෙදෙනා අයිස් මත්ද්‍රව්‍ය  සහ කැනබිස් නමැති විෂ මත්ද්‍රව්‍ය භාවිතා කර ඇති බවට වාර්තා වලින් ද සනාථ වූ බව පොලීසිය සඳහන් කරයි
+The Wellampitiya Bicho of the Criminal Investigation Department has banned the duties of the two police constables who were arrested while returning the ice and cannabis.
 
-එම නිලධාරීන් දෙදෙනාගේ විෂමාචාර ක්‍රියාව හේතුවෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂකවරයා විසින් රාජකාරී වැඩ තහනම් කර ඇත
+The police say that the officers of the Criminal Intelligence Union have been inspected to have been inspected to the OIC of the Criminal Intelligence Union and the Criminal Intelligence Univery OIC when the two officers left the homeland night.
+
+The two constables were submitted to the Judicial Medical Officer of the Colombo Medical Office, police said.
+
+Due to the musicalism of the two officers, the Director of the Criminal Investigation Department has banned duties
 
 ◼️
 
 [Data](articles/3c4aa280.json)
+
+[Extended Data](ext_articles/3c4aa280.ext.json)
 
 ---
 
@@ -759,6 +817,8 @@ A three-layered security has been put in place at Rashtrapati Bhawan where he wi
 ◼️
 
 [Data](articles/8991ee19.json)
+
+[Extended Data](ext_articles/8991ee19.ext.json)
 
 ---
 
@@ -2181,29 +2241,5 @@ Sri Lanka obtained the second highest number of votes from the region, and seven
 [Data](articles/d663642b.json)
 
 [Extended Data](ext_articles/d663642b.ext.json)
-
----
-
-### How transportations occur during Poson Season
-
-*2024-06-08 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197532) · `si`
-
-During the Poson season, the Ceylon Transport Board plans to deploy its General Transport Service in Anuradhapura, focusing on services to Mihintale, Tantirimale, and Anuradhapura. Over 400 buses will operate in Gampaha and Colombo. This initiative aims to ease transportation issues, especially around the dezonation area near Anuradhapura, where the railway line from Mahawa to Anuradhapura has been realigned.
-
-🟩
-
-The Ceylon Transport Board (SLTB) says that the General Transport Service will be deployed in the Poson season with the city of Anuradhapura.
-
-The Sri Lanka Transport Board Chairman Lalith Alwis said that the bus service is expected to be implemented for the convenience of the historic Mihintale, Tantirimale and Anuradhapura sacred cities.
-
-More than 400 buses are expected to be deployed in Gampaha and Colombo.
-
-He added that a special bus service has been carried out this year to prevent the inconvenience caused to dezone to Anuradhapura due to the reconciliation of the railway line from Mahawa to Anuradhapura.
-
-◼️
-
-[Data](articles/a2678025.json)
-
-[Extended Data](ext_articles/a2678025.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 05:38:04**
+As of **2024-06-09 06:03:10**
 
 ## Newspaper Stats
 
-*Scraped **29,277** Articles*
+*Scraped **29,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 266
 dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
-islandlk | 1,574
+islandlk | 1,589
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,491
@@ -20,17 +20,135 @@ adaderanalk | 3,314
 tamilmirrorlk | 3,434
 virakesarilk | 4,489
 dailymirrorlk | 4,652
-adaderanasinhalalk | 4,705
+adaderanasinhalalk | 4,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,277 (100.0%) of 29,277 articles have been extended.
+29,277 (99.9%) of 29,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### කාසියේ වාසිය කොදෙව්වන්ට
+
+*2024-06-09 05:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197545) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බටහිර ඉන්දිය කොදෙව් කණ්ඩායම සහ උගන්ඩා කණ්ඩායම අතර තරග අද (09) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/105fa26e.json)
+
+---
+
+### Amana Takaful celebrates excellence at annual awards night
+
+*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/amana-takaful-celebrates-excellence-at-annual-awards-night/) · `en`
+
+Amana Takaful Insurance PLC recently hosted its highly anticipated annual awards night. Held under the inspiring theme ‘Thriving Through Change,’ the event took place on 14 May at Monarch Imperial, bringing together colleagues from across the country to celebrate exceptional achievements and unwavering dedication within the company.
+
+Amana Takaful Insurance has demonstrated remarkable growth, achieving a 28% year-over-year increase in Gross Written Premium (GWP) in the latest financial year, with revenues reaching an impressive LKR 4.29 billion. This significant success is a testament to the hard work and commitment of its professionals, who have thrived despite numerous challenges.
+
+...
+
+[Data](articles/33592568.json)
+
+---
+
+### ComBank takes empowering knowledge to entrepreneurs of Marawila & Wennappuwa
+
+*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/combank-takes-empowering-knowledge-to-entrepreneurs-of-marawila-wennappuwa-2/) · `en`
+
+Nearly 100 micro and small business owners in the Marawila and Wennappuwa areas recently benefitted from a sustainable entrepreneurship development programme conducted for them by the Commercial Bank of Ceylon in collaboration with several other key institutions, a news release from the bank said..
+
+Organised under Commercial Bank’s ‘Dirishakthi Sustainable Entrepreneurship Development initiatives, the seminar cum workshop provided the knowledge required to improve their technical and financial literacy and other entrepreneurship skills as well as information on relevant topics including business registration procedures and the banking products and services available to them to grow their businesses.
+
+Resource persons for the programme represented the Central Bank of Sri Lanka, key departments of the Divisional Secretariat of Wennappuwa and Commercial Bank’s own Development Credit Department and Agriculture and Micro Finance Unit (AMFU), as well senior officers of the Bank.
+
+...
+
+[Data](articles/f2f61e6a.json)
+
+---
+
+### Baurs appoints Nishantha Weerasinghe as Deputy Managing Director
+
+*2024-06-09 04:01:00* · [`islandlk`](http://island.lk/baurs-appoints-nishantha-weerasinghe-as-deputy-managing-director/) · `en`
+
+A. Baur & Co. (Pvt) Ltd, also known as Baurs, recently announced the appointment of Nishantha Weerasinghe as its Deputy Managing Director. He will also continue to serve as the Director of the Healthcare Division.
+
+In his new role, Weerasinghe will bring his extensive experience and strategic vision to steer the company to achieve greater heights. He will be joining Janaka Gunasekera who will also be continuing in his position as Deputy Managing Director and Director Agriculture. Weerasinghe and Gunasekera as Deputy Managing Directors will bolster the leadership at Baurs even further.
+
+Weerasinghe was instrumental in taking the healthcare division of Baurs to among the top three names in the industry today, achieving rapid progression, growth and recognition in the Sri Lankan market. The division offers a range of products and services in the fields of pharmaceuticals, medical devices, diagnostics, and nutrition
+
+...
+
+[Data](articles/f7f94a88.json)
+
+---
+
+### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
+
+*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience-2/) · `en`
+
+Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
+
+As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
+
+...
+
+[Data](articles/50be84b1.json)
+
+---
+
+### TrueCeylonese wins Iconic Brand of the Year for food and agro-based products at the BWIO Awards
+
+*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/trueceylonese-wins-iconic-brand-of-the-year-for-food-and-agro-based-products-at-the-bwio-awards/) · `en`
+
+TrueCeylonese, a purveyor of Sri Lankan trades and services, has been honoured with the prestigious title of Iconic Brand of the Year in the Food and Agro-Based Products category (Medium/Platinum) at the Business World International Awards 2023. Organised by the Business World International Organisation (BWIO), the award ceremony was recently held at Taj Samudra Hotel in Colombo under the patronage of Speaker of Parliament, Mahinda Yapa Abeywardena. Founded by Rushdhun Ramzy in 2021, TrueCeylonese caters to the tri-state region in the United States and Toronto, Canada. The company offers an extensive range of products, including gems, spices, and merchandise such as recycling bags and clothing. TrueCeylonese is committed to delivering the best in quality, price, selection, and service to its discerning clientele.
+
+Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
+
+...
+
+[Data](articles/b4436941.json)
+
+---
+
+### Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
+
+*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/stuart-chapman-appointed-chairman-of-hnb-assurance-and-hnb-general-insurance-2/) · `en`
+
+HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) last week announced the appointment of Stuart Chapman as the new Chairman, succeeding Rose Cooray. Chapman holds an MBA from the University of Colombo, a Diploma in Marketing from the Chartered Institute of Marketing (CIM-UK), a Diploma in Life Insurance Sales and Marketing from the Life Underwriters Training Council (USA) and a Diploma in Business Management from the National Institute of Business Management (NIBM). His professional affiliations include being a Fellow Member of the Chartered Institute of Marketing (UK) and the Institute of Management (UK) as well as a Member of the Institute of Certified Management Accountants (Australia).
+
+...
+
+[Data](articles/cd53feb8.json)
+
+---
+
+### Sanasa Premier League Cricket Tournament 2024
+
+*2024-06-09 03:51:00* · [`islandlk`](http://island.lk/sanasa-premier-league-cricket-tournament-2024/) · `en`
+
+The Sanasa Premier League Cricket Tournament 2024 was held at the Narahenpita Shalika Cricket Ground recently. It was organized under the leadership of T. C. Nilanka De Silva, Chairman of Sanasa National Youth Council.
+
+The Boys’ Champions title was claimed by Challengers Kegalle from Thoranagahapitiya Sanasa, while Titans Colombo from South Athurugiriya Sanasa emerged as the Boys’ Runner Up.
+
+Meanwhile, in the Girls’ category, Queens Colombo from Meegoda Abhaya Sanasa triumphed as the Girls’ Champions. The title of Girls’ Runner Up was claimed by Star Girls Colombo from Godigamuwa Sanasa.
+
+Sumith Nishantha, CEO of Sanasa Federation, was the chief guest. Under the guidance of P.A. Kiriwandeniya, Founder and Chairman of the Sanasa movement, the tournament flourished into a resounding success, embodying the ethos of teamwork, resilience, and excellence.
+
+Ogilvy’s ‘Masterpiece of Abuse’ bags two Grand Prix and six Golds
+
+...
+
+[Data](articles/d3677a0f.json)
+
+---
 
 ### Ruthless Australia crush England at T20 World Cup
 
@@ -53,6 +171,100 @@ But spinner Adam Zampa bowled Salt (37) with his first ball to leave England 73-
 [Data](articles/27c38391.json)
 
 [Extended Data](ext_articles/27c38391.ext.json)
+
+---
+
+### SCHOOL DAYS AT ROYAL COLLEGE (1939-1946)
+
+*2024-06-09 02:24:00* · [`islandlk`](http://island.lk/school-days-at-royal-college-1939-1946/) · `en`
+
+During World War II (around 1939), the British military took over the buildings of Royal College, including the College Boarding, where I was boarded. The whole of the Race Course was taken over together with the Royal College and University grounds to make an airfield for the British fighter planes. Meanwhile, Royal College was forced to share classrooms with the University. Since we were short of classrooms, some of our classes were actually held under the wings of the ‘Hurricane’ fighter planes and the camouflage nets covering them! After about a year, Royal was able to rent four large houses down Turret Road, where I spent the Fourth, Fifth and Sixth Forms. Discipline became lax, with the boys taking the chance “to scoot” (play truant) whenever they changed classes from one building to another.
+
+...
+
+[Data](articles/3c56f5d2.json)
+
+---
+
+### Great betrayals in appointing some IGPs
+
+*2024-06-09 02:01:00* · [`islandlk`](http://island.lk/great-betrayals-in-appointing-some-igps/) · `en`
+
+Lakdasa (Lucky) Kodituwakku was the Inspector-General at the time the Waymaba Provincial Council elections took place early in 1999. He was blamed for the violence and the malpractices that took place during those elections. The 17th Amendment to the Constitution was the result of a political initiative launched by MPs in the Opposition led by the UNP in 2001 as a response to the Wayamba election incidents.
+
+This was the second betrayal by a Head of State/Government. President Chandrika Kumaratunga decided to appoint Lucky Kodituwakku the 26th IGP ignoring so many seniors over him just because of the special position he enjoyed as the Personal Security officer (PSO) of a VVIP that gave him an advantage over his seniors to canvass for the post. The Wayamba election bungling and the 17th Amendment to the Constitution was the result.
+
+...
+
+[Data](articles/19d2fcfb.json)
+
+---
+
+### Myanmar…..unlike any land you know about
+
+*2024-06-09 02:01:00* · [`islandlk`](http://island.lk/myanmar-unlike-any-land-you-know-about/) · `en`
+
+A desire to visit Burma (Myanmar since 1989) having seen the film ‘The Story of Dr. Wossell’ as a school boy was fulfilled recently. The film was about a dedicated British Army Medical Officer who during World War II fell in love with the country and more deeply with a lithesome and compassionate Buddhist Burmese lady and chose to remain with her in her country after demobilization.
+
+Several books, fiction and non-fiction of the country read over the years made the desire greater. However, Burma’s isolation from the rest of the world since 1962 when the military junta known as the State Law and Order Restoration Council (SLORC) seized power, rumours of political unrest, and later the house arrest of the Nobel Peace Prize winner and leader of the National League for Democracy, Aung San Sun Kyi made one think twice about making the journey. However, recently people spoke of trickles of tourists flowing into the country and we, a party of five, including my sister followed suit.
+
+...
+
+[Data](articles/24dfb66e.json)
+
+---
+
+### The non-debate and two questions from Sajith and AKD
+
+*2024-06-09 01:16:00* · [`islandlk`](http://island.lk/the-non-debate-and-two-questions-from-sajith-and-akd/) · `en`
+
+SJB and Opposition Leader Sajith Premadasa faced two significant setbacks last week, the repercussions of which are expected to unfold in the coming days. The most notable was the backlash on social media following his failure to attend the highly anticipated debate with JVP/NPP leader Anura Kumara Dissanayake. After weeks of boasting and challenges, the debate was scheduled for Thursday at the ITN studio. While the JVP leader arrived promptly, Premadasa was conspicuously absent.
+
+This triggered a wave of negative feedback and disappointment, not only among SJB members but also among many who had eagerly awaited the debate for weeks. The ramifications of this absence and the resulting damage will become clear in the days ahead.
+
+...
+
+[Data](articles/f9c0a302.json)
+
+---
+
+### Tissa and Sonia Weeratunga
+
+*2024-06-09 00:25:00* · [`islandlk`](http://island.lk/tissa-and-sonia-weeratunga/) · `en`
+
+I will be turning 59 in a few days. Strangely or maybe not so strangely as I grow older I think more often of my late parents, how they were when they were my age, what they did and this makes me reflect on what I do now.
+
+My father, Tissa Indraka Weeratunga, the first four-star general of the regular forces of the Sri Lanka Army, was promoted on his 55th birthday, August 29, 1985. He was the first ever Chief of Defence Staff and the ninth Army Commander in independent Sri Lanka. This is not the place to roll out his extensive curriculum vitae. To me, he was the person who understood me most, cheered me on when I excelled in sports, never missing a single rugger match when I played for Royal and CR&FC, and encouraged me to show similar commitment to my studies.
+
+...
+
+[Data](articles/87d4711f.json)
+
+---
+
+### Thaththa’s Wireless
+
+*2024-06-09 00:24:00* · [`islandlk`](http://island.lk/thaththas-wireless/) · `en`
+
+Thaththa(my late father) was an avid radio listener. He called the radio a ‘wireless.’ Early in the morning, he listened to the news and, after dinner, to Sinhala and English songs. He allowed no one to talk aloud while he listened to the radio. Listening to the news and music was a struggle because of poor reception. He said the poor reception was because of the remoteness of Hambantota, where we lived. His friends advised him to buy a ‘six-valve’ Grundig radio for better reception. They coaxed him, saying he could, of course, as the Principal of St. Mary’s College, afford to buy a powerful radio. But Thaththa refused to discard his old Philips radio. Its front screen looked like an old rag, and the pilot light on the upper left corner was dead.
+
+...
+
+[Data](articles/4e1602fa.json)
+
+---
+
+### TISL Demands Transparency in Adani Wind Power Project: Files Right to Information Applications
+
+*2024-06-09 00:19:00* · [`islandlk`](http://island.lk/tisl-demands-transparency-in-adani-wind-power-project-files-right-to-information-applications/) · `en`
+
+Transparency International Sri Lanka (TISL) has filed a series of Right to Information (RTI) requests with public authorities seeking crucial information regarding the transparency, legality, evaluation process, pricing, government involvement, and the Environmental Impact Assessment (EIA) related to the Wind Power Project in Mannar and Pooneryn, involving India’s Adani Group.
+
+“Earlier this year, Adani Green Energy (Sri Lanka) Ltd was provisionally approved for two wind power plants of 250 MW in Mannar and 234 MW in Pooneryn. TISL is deeply concerned about the lack of transparency surrounding this project, which has raised significant economic and ecological concerns.” a TISL news release said..
+
+...
+
+[Data](articles/017cb38f.json)
 
 ---
 
@@ -2057,317 +2269,5 @@ Accordingly, Afghanistan was able to win the match by 84 runs.
 [Data](articles/00769b94.json)
 
 [Extended Data](ext_articles/00769b94.ext.json)
-
----
-
-### Workers’ remittances increase to USD 544.4 million in May
-
-*2024-06-08 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99738/workers-remittances-increase-to-usd-5444-million-in-may) · `en`
-
-The inflow of workers’ remittances to Sri Lanka has exhibited an improvement in recent months with the country recording an inflow of USD 544.4 million for May 2024.
-
-According to the Central Bank of Sri Lanka (CBSL), the cumulative figure for the period from January to May 2024 is USD 2,624.4 million.
-
-This is an increase of 11.8% compared to the same period last year.
-
-◼️
-
-[Data](articles/c99201a5.json)
-
-[Extended Data](ext_articles/c99201a5.ext.json)
-
----
-
-### Sri Lanka seeks exclusive economic zone expansion
-
-*2024-06-08 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-seeks-exclusive-economic-zone-expansion/155-284400) · `en`
-
-Colombo, June 8 (Daily Mirror) - Sri Lanka is successfully lobbying for the increase of the size of its Exclusive Economic Zone in cooperation with the Maldives avoiding any conflict between the two sides on overlapping claims, the Daily Mirror learns.
-
-The ‘Exclusive Economic Zone’ is an area of the ocean, generally extending 200 nautical miles (230 miles) beyond a nation’s territorial sea, within which a coastal nation has jurisdiction over both living and nonliving resources.
-
-Sri Lanka submitted in May 2009 technical and scientific data and other information to the UN Commission on the Limits of the Continental Shelf for the establishment of the outer limits of the continental shelf beyond Sri Lanka’s Exclusive Economic Zone of 200 nautical miles under the United Nations Convention on the Law of the Sea.
-
-Afterwards, the Commission established a sub-commission to engage with Sri Lanka in 2016.
-
-...
-
-[Data](articles/d4d94065.json)
-
-[Extended Data](ext_articles/d4d94065.ext.json)
-
----
-
-### Two killed after car collides with 2 trains at Enderamulla
-
-*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/two-killed-after-car-collides-with-2-trains-at-enderamulla) · `en`
-
-Two persons including a woman have been killed after their car collided with two trains at the Enderamulla railway crossing this morning (08), police said.
-
-A Colombo-bound night mail train from Badulla had collided with the car, which was traveling from Enderamulla towards Wattala, when it had reportedly attempted to pass through the crossing despite the signal lights warning of the oncoming train.
-
-Following the collision with the first train, the car had been dragged around 200 meters forward and residents in the area had rushed to rescue the occupants of the car.
-
-However, as they were attempting to rescue the driver and passenger of the car, another train arriving from the opposite direction on the parallel track, and bound for Trincomalee, had also collided with the vehicle.
-
-A 56-year-old man from Biyagama and a 44-year-old woman, who was employed as a security officer at a private company in Colombo, were killed on the spot, according to reports.
-
-◼️
-
-[Data](articles/6da99f02.json)
-
-[Extended Data](ext_articles/6da99f02.ext.json)
-
----
-
-### Father and daughter killed after train hits car at Enderamulla
-
-*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/father-and-daughter-killed-after-train-hits-car-at-enderamulla) · `en`
-
-Two persons have been killed after their car collided with a train at the Enderamulla railway crossing, police said.
-
-A 54-year-old man and his 22-year-old daughter, residents of Gonawala in Biyagama, have died in the crash.
-
-◼️
-
-[Data](articles/845693e7.json)
-
-[Extended Data](ext_articles/845693e7.ext.json)
-
----
-
-### Two persons killed after train hits car at Enderamulla
-
-*2024-06-08 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99737/two-persons-killed-after-train-hits-car-at-enderamulla) · `en`
-
-Two persons have been killed after their car collided with a train at the Enderamulla railway crossing this morning (08), police said.
-
-A Colombo-bound train from Badulla had collided with the car, which was traveling from Enderamulla towards Wattala, when it had reportedly attempted to pass through the crossing despite the signal lights warning of the oncoming train.
-
-A 54-year-old man from Biyagama and a 34-year-old woman, who was employed in the private sector in Colombo, have died in the crash.
-
-◼️
-
-[Data](articles/a9973541.json)
-
-[Extended Data](ext_articles/a9973541.ext.json)
-
----
-
-### The government should stop issuing liquor permits in public places
-
-*2024-06-08 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185577) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the government for issuing liquor licenses in non-tourist areas, arguing it contradicts national development goals. Religious leaders, civilians, and civil organizations also oppose these permits, especially near schools. The government is urged to cancel such permits and halt political bribery related to alcohol distribution, focusing instead on appropriate locations near the tourism industry.
-
-🟩
-
-The government distributed liquor license is against the policy of creating an inadequate nation. Opposition leader Sajith Premadasa said that permission has been granted within the villages that are not carried out in the tourism industry.
-
-The government has rapidly launched a plan to issue a liquor license in the past. This is against the principle of creating an inadequate nation. Providing these facilities focusing on the tourism industry is part of the tourism industry, but permits have been granted within the villages that are not carried out.
-
-Other religious leaders, civilians and civil organizations have expressed their opposition to this.. Therefore, if these permits are issued in areas where the tourism industry is not carried out in areas where the schools are adjacent to the schools, the government should take steps to cancel the liquor permits issued in the absence.
-
-...
-
-[Data](articles/27d82817.json)
-
-[Extended Data](ext_articles/27d82817.ext.json)
-
----
-
-### Rainy conditions expected to enhance from today
-
-*2024-06-08 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99736/rainy-conditions-expected-to-enhance-from-today) · `en`
-
-The Meteorology Department says the prevailing rainy conditions in the south-western part of the island is expected to enhance to some extent in the next few days from today (08).
-
-Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara Eliya districts.
-
-Fairly heavy showers above 50mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts.
-
-Several spells of showers will occur in Northern and North-central provinces and in Matale district, it said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Trincomalee and Hambantota districts.
-
-...
-
-[Data](articles/fe62e085.json)
-
-[Extended Data](ext_articles/fe62e085.ext.json)
-
----
-
-### 36 crores 89 lakhs of fifty thousand rupees
-
-*2024-06-08 07:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185576) · `ta`
-
-The government faced a financial loss of Rs 36 crore 89 lakh due to inadequate stock of the Merebenum vaccine for bacterial infections. Despite purchasing 450,000 vaccines via an emergency system, the total cost exceeded expectations. The opposition leader called for a detailed report on this issue.
-
-🟩
-
-The merebenum vaccine used for bacterial infections was inadequate in reservoir, with 4 ideals of 50 thousand vaccines were purchased.. Opposition Leader Sajith Premadasa said that a report should be submitted to the council regarding the loss of the country.
-
-The Audit Report noted that the mereepanam vaccine used for bacterial infections is 488,590 stabs. In this case, 450,000 vaccines have been purchased through the emergency purchase system. This has caused a loss of Rs 36 crore 89 lakhs fifty thousand rupees. They have purchased it for Rs.
-
-Why emergency purchases were made in the case of the required quantity. Thus the country has suffered a loss. Therefore, a formal report on this emergency purchase should be issued and explained.
-
-The vaccine dealer has received a certificate from the National Drug Regulatory Authority and has been asked to submit a report to the House as it has committed this fraud through emergency procurement within a short period of time.
-
-◼️
-
-[Data](articles/80184b96.json)
-
-[Extended Data](ext_articles/80184b96.ext.json)
-
----
-
-### A target of 125 runs to Bangladesh
-
-*2024-06-08 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197513) · `si`
-
-In the second T20 World Cup match in Dullashhi, USA, Bangladesh won against Sri Lanka after scoring 125 runs, matching Sri Lanka's 124 runs. Bangladesh chose to field first, and despite losing 9 wickets, secured victory.
-
-🟩
-
-The second match of the T20 World Cup will be held in Dullashhi, US Dullashhi, USA.
-
-Bangladesh won the advantage of the coin, and they decided to give the Sri Lankan team first to bat first.
-
-Batting first, the Sri Lanka scored 124 runs for the loss of 9 wickets at the end of the allotted 20 overs.
-
-Accordingly, Bangladesh scored 125 runs in order to win the match.
-
-◼️
-
-[Data](articles/84ab0561.json)
-
-[Extended Data](ext_articles/84ab0561.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-06-08 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197512) · `si`
-
-Expect widespread showers across various regions including Western, Sabaragamuwa, North Western, Southern provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Intense rainfall of 50mm is predicted in some areas. Strong winds and potential for lightning strikes are also forecasted, prompting the Meteorology Department to advise caution.
-
-🟩
-
-The Meteorology Department says that a rainy section of the island is expected in the next few days today (08).
-
-Showers at times in the Western, Sabaragamuwa, North Western and Southern provinces and in the Kandy and Nuwara Elues.
-
-In some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Informed that 50 highlights are expected.
-
-Several times can occur in the North and Heads - Media and Matale District.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the North, North-Central and Northwestern provinces, Trincomalee and Hambantota districts. It is said that there is about strong winds.
-
-The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/09c7c406.json)
-
-[Extended Data](ext_articles/09c7c406.ext.json)
-
----
-
-### Endemic train accident - two dead
-
-*2024-06-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197511) · `si`
-
-In an Endelectram railway accident, two died as a train collided with another at a crossing.
-
-🟩
-
-Two people were killed in a railway accident in a railway crossing at an Endelectram.
-
-Our correspondent said that the accident had occurred when a train collided with the train on the railway crossing.
-
-◼️
-
-[Data](articles/d616122b.json)
-
-[Extended Data](ext_articles/d616122b.ext.json)
-
----
-
-### Sri Lanka May 2024 remittances rise 13.5-pct to $544mn
-
-*2024-06-08 06:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-2024-remittances-rise-13-5-pct-to-544mn-167007/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 13.5 percent to $544.4 million in May 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
-
-The remittances in the first five months were $2,624.4 million, 11.8 percent up from the same period last year, the official data showed.
-
-The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methos.
-
-The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
-
-Sri Lanka’s external sector has now recovered after the central bank started to run balance of payments surpluses following a decision to end money printing to sterilize interventions made with Indian Asian Clearing Union money.
-
-...
-
-[Data](articles/02c03579.json)
-
-[Extended Data](ext_articles/02c03579.ext.json)
-
----
-
-### Bangladesh to advantage
-
-*2024-06-08 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197510) · `si`
-
-In the ICC World Cup 20/20 Cricket Tournament, Bangladesh won the toss and chose to bowl first against Sri Lanka. In the initial three overs, Sri Lanka lost 25 runs.
-
-🟩
-
-The crucial match between the Sri Lanka team and the Bangladesh team will be held in the ICC World Cup 20/20 Cricket Tournament.
-
-The Bangladesh team won the toss and elected to the bowling first.
-
-Accordingly, Sri Lanka are attacked by 25 runs in 3 overs.
-
-◼️
-
-[Data](articles/27e34551.json)
-
-[Extended Data](ext_articles/27e34551.ext.json)
-
----
-
-### Sri Lanka lobbies UN for territorial sea expansion
-
-*2024-06-08 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-lobbies-UN-for-territorial-sea-expansion/108-284365) · `en`
-
-June 07 - Sri Lanka is successfully lobbying for the increase of the size of its Exclusive Economic Zone or the country’s territorial sea in cooperation with the Maldives avoiding any conflict between the two sides on overlapping claims, the Daily Mirror learns.
-
-The ‘Exclusive Economic Zone' is an area of the ocean, generally extending 200 nautical miles (230 miles) beyond a nation's territorial sea, within which a coastal nation has jurisdiction over both living and non-living resources.
-
-Sri Lanka submitted in May 2009 technical and scientific data and other information to the UN Commission on the Limits of the Continental Shelf for the establishment of the outer limits of the continental shelf beyond Sri Lanka’s Exclusive Economic Zone of 200 nautical miles under the United Nations Convention on the Law of the Sea.
-
-...
-
-[Data](articles/e5141e6e.json)
-
-[Extended Data](ext_articles/e5141e6e.ext.json)
-
----
-
-### Live Blog: Bangladesh beat Sri Lanka by 2 wickets
-
-*2024-06-08 05:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Live-Blog-Bangladesh-beat-Sri-Lanka-by-2-wickets/108-284399) · `en`
-
-◼️
-
-[Data](articles/83724ec3.json)
-
-[Extended Data](ext_articles/83724ec3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 11:34:31**
+As of **2024-06-09 11:53:54**
 
 ## Newspaper Stats
 
-*Scraped **29,324** Articles*
+*Scraped **29,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,496
-adaderanalk | 3,319
-tamilmirrorlk | 3,440
+adaderanalk | 3,320
+tamilmirrorlk | 3,442
 virakesarilk | 4,494
 dailymirrorlk | 4,653
 adaderanasinhalalk | 4,714
@@ -26,29 +26,89 @@ adaderanasinhalalk | 4,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,320 (100.0%) of 29,324 articles have been extended.
+29,324 (100.0%) of 29,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### වාහන ආනයනය ඔක්තෝබර් මාසයේ සිට  යළි ඇරඹේ
+### Bus topples into canal in Warakapola; 13 including students injured
+
+*2024-06-09 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99755/bus-topples-into-canal-in-warakapola-13-including-students-injured-) · `en`
+
+At least thirteen persons including school children were injured and hospitalised after a bus transporting a group of students and parents toppled into a canal in the Warakapola town this morning (9).
+
+The incident had occurred at around 4.30 a.m. today while the bus was transporting a group of students from Sri Rahula Balika Maha Vidyalaya in Malabe and their parents.
+
+Around 26 girl guides from the school and 07 parents were en route to a girl guides camp in Rantambe.
+
+The driver of the bus had reportedly lost control of the vehicle causing it to topple into the canal in the Warakapola town.
+
+Thirteen students and parents were injured in the incident and have been admitted to the Warakapola Hospital for treatment.
+
+◼️
+
+[Data](articles/7125ce2d.json)
+
+---
+
+### கொக்கெய்னை விழுங்கிவந்த உகண்டா தச்சர் கைது
+
+*2024-06-09 11:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொக்கெய்னை-விழுங்கிவந்த-உகண்டா-தச்சர்-கைது/95-338636) · `ta`
+
+கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவின் அதிகாரிகள் குழுவொன்று கொக்கெய்னை உருண்டைகளாக தயாரித்து விழுங்கிய , உகாண்டாவைச் சேர்ந்த 31 வயதான தச்சர்.  சனிக்கிழமை (08 ) கைது செய்யப்பட்டுள்ளார்.
+
+இவர் தொடர்பான சர்வதேச புலனாய்வுத் தகவல்கள், பொலிஸ் போதைப் பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகளுக்குக் கிடைத்ததையடுத்து, அவரைக் கைது செய்வதற்கான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
+
+உகாண்டாவின் கம்பாலாவில் இருந்து தனது பயணத்தை ஆரம்பித்து, அங்கிருந்து சனிக்கிழமை (08) காலை 9 மணியளவில் கட்டார் ஏர்வேஸ் விமானமான KR-664 இல் கட்டாரின் தோஹாவை வந்தடைந்து, கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+
+கட்டுநாயக்க விமான நிலையத்தில் வைத்து பொலிஸ் போதைப்பொருள் ஒழிப்பு திணைக்கள அதிகாரிகளினால் கைது செய்யப்பட்டு ஸ்கேன் செய்த போது வயிற்றில் கொக்கெய்ன் உருண்டைகள் இருப்பது உறுதி செய்யப்பட்டதையடுத்து இந்த உகண்டா பிரஜையை நீர்கொழும்பு பொது வைத்தியசாலையில் அனுமதிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0f850790.json)
+
+---
+
+### ’’ரணிலுக்கு பேராதரவு வழங்க வேண்டும்’’
+
+*2024-06-09 11:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பேராதரவு-வழங்க-வேண்டும்/175-338635) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் பேசும் மக்கள் ஓரணியில் திரண்டு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பேராதரவு வழங்க வேண்டும். அவர் தலைமையிலான ஆட்சியே சிறுபான்மையின மக்களுக்கு பாதுகாப்பு கவசமாகும்.
+
+அதேபோல உரிமைகளை வென்றெடுப்பதற்குரிய வாய்ப்பும் உருவாகும் -  என்று  ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+
+நாட்டை வங்குரோத்து நிலையிலிருந்து மீட்பதற்குரிய துரிதமான நடவடிக்கைகளை முன்னெடுத்து தனது ஆளுமையையும், தலைமைத்துவ பண்பையும் ஜனாதிபதி வெளிப்படுத்தியுள்ளதால், அவருக்கு மீண்டுமொருமுறை ஆள்வதற்குரிய வாய்ப்பு வழங்கப்பட வேண்டியது காலத்தின் கட்டாய தேவையாகும்.
+
+...
+
+[Data](articles/3344174a.json)
+
+---
+
+### Import of vehicles resumes from October
 
 *2024-06-09 11:10:32* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ඔක්තෝබර්-මාසයේ-සිට--යළි-ඇරඹේ/11-410091) · `si`
 
-ආර්ථික අර්බුදය හේතුවෙන්  වාහන ආනයනය සම්පූර්ණයෙන් නවතන්නට මීට වසර 4 කට‍ පෙර රජය ලබාගත් තීරණය වෙනස් කර නැවත වාහන ආනයනය 2024 ඔක්තෝබර් මස සිට අරඹන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය පවසයි.
+Vehicle imports resume in October 2024, aimed at easing the economic crisis. The plan includes importing small cars and motorcycles first, followed by high-end vehicles in 2025. Electric vehicles will also be part of the scheme. Only vehicles less than two years old will be allowed. The government will decide the annual import quota based on foreign reserves but has delayed duty-free import decisions due to low revenue projections.
 
-ඔක්තෝබර් මාසයේ සිට ආනයනයට පියවර කිහිපයකින් අවසරය ලබාදී එය අරඹන අතර කාර්මික සහ බර වාහන වලින් මෙම කටයුතු ආරම්භ වනු ඇත.ත්‍රිරෝද රථ සහ යතුරුපැදි ආනයනය සඳහා දෙවන පියවර ක්‍රියාත්මක වන බවත් නිශ්චිත cif අගයක් යටතේ කුඩා මෝටර් රථ ආනයනය තුන්වන පියවර බවත් පැහැදිලි කරන රාජ්‍ය අමාත්‍යවරයා සුඛෝපභෝගී සහ අධි සුඛෝපබෝගී වාහන ලෙස සිව්වන පියවර අරඹනු ඇත්තේ 2025දී බව පවසා තිබේ.
+🟩
 
-මෙම යෝජනා ක්‍රමය යටතේ විදුලි වාහන ආනයනයට ප්‍රමුඛත්වය ලබා දීම රජයේ ප්‍රතිපත්තිය වනු ඇති බව
+State Minister Ranjith Siyambalapitiya stated that the importation of vehicles has been commenced from October 2024 to change the decision of vehicle imports due to the economic crisis.
 
-නවතම වාහන හෝ වසර දෙකක් ඇතුළත නිෂ්පාදනය කරන ලද වාහන පමණක් ආනයනය කිරීමට අවසර දෙන බවද පැවසේ.
+The public minister will commence with permission to import from October to import, and the second step of the imported vehicles and the importation of small cars and motorcycles is luxurious and the importation of small cars.The fourth step as high luxury vehicles will be held in 2025.
 
-විදේශ සංචිතයට සරිලන පරිදි වසරක් තුළ ආනයනය කළ යුතු උපරිම වාහන සංඛ්‍යාව පිළිබඳව රජය මහ බැංකුවේ උපදෙස් ලබා ගන්නා බව ඔහු පැවසීය.
+It will be the policy of the government to provide the importation of electrical vehicles under this scheme
+
+It is said that only the latest vehicles or two years permitted to import.
+
+He said the government would take advice on the maximum number of vehicles that should be imported in a year to suit the foreign reserve.
 
 ...
 
 [Data](articles/8bd6946f.json)
+
+[Extended Data](ext_articles/8bd6946f.ext.json)
 
 ---
 
@@ -92,23 +152,29 @@ In this case, the Cabinet bond. Special attention was paid to Prime Minister Din
 
 ---
 
-### දුම්රිය ගමන්වාර 35ක් අවලංගු වෙයි
+### 35 trains canceled
 
 *2024-06-09 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197553) · `si`
 
-දුම්රිය එංජින් රියදුරන් විසින් ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් අද (09) උදෑසන දුම්රිය ගමන්වාර 35ක් අවලංගු වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Due to a strike by Railway Engineers, 35 trains were canceled on 09/06. The strike began over issues including delays and recruitment problems. Two train drivers joined the strike, affecting operations. However, the authorities have reportedly ignored their demands.
 
-ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසා සිටියේ, වැඩවර්ජනය තුන්වන දිනටත් අද ක්‍රියාත්මක වන බවය.
+🟩
 
-දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවාගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල්කර ගනිමින් ඔවුන් එම වෘත්තීය ක්‍රියාමාර්ගය පසුගිය 06 වනදා මධ්‍යම රාත්‍රී 12 සිට ආරම්භ කළේය.
+The Railway Department says that 35 trains will be canceled in this morning (09) due to a strike commenced by Railway Engineers.
 
-දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක රියදුරන් පමණක් එම වර්ජනයට එක්ව සිටින අතර ඒ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බව සඳහන්ය.
+The Locometent Opposition Engineer (Lokomotive Ordinary Association said the strike was running today.
 
-කෙසේවෙතත් සිය ඉල්ලීම් සඳහා බලධාරීන් තවදුරටත් ප්‍රතිචාර නොදක්වන්නේනම් සිය වෘත්තීය ක්‍රියාමාර්ගය දැඩි කිරීමට පියවර ගන්නා බව ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ ලේකම් එස්. ආර්. සී. එම් සේනානායක මහතා සඳහන් කළේය.
+The second level promotions commenced on the 6th of the 6th of this morning, taking delay, recruitment delay, delay, recruitment delay.
+
+Two train drive drivers are only joining the strike, and it is not working as a result of the power sets.
+
+However, the Secretary of the Lockmomotive Opaket Engineering is the Secretary to the License that the authorities are no longer responding to their demands.. R. C. M. Senanayake said.
 
 ◼️
 
 [Data](articles/93b79d7a.json)
+
+[Extended Data](ext_articles/93b79d7a.ext.json)
 
 ---
 
@@ -118,7 +184,15 @@ In this case, the Cabinet bond. Special attention was paid to Prime Minister Din
 
 Sri Lanka Railways (SLR) stated that a total of 35 scheduled train journeys were cancelled this morning due to the continued strike by the Locomotive Operating Engineers’ Union of the railway department.
 
-◼️
+he Locomotive Operating Engineers’ Union says that the strike launched by the locomotive drivers will continue for the third consecutive day today (09).
+
+They have been on strike since midnight on Thursday, (June 06) over several key demands including solutions to the delays in second-class promotions of locomotive drivers, delays in the recruitment process and several other issues.
+
+It is also mentioned that only locomotive drivers of two of the five running sheds have joined the strike and due to this there will be no power set trains operating.
+
+Meanwhile, the Secretary of the union S.R.C.M. Senanayake stated that if the authorities fail to address their demands, they would be taking steps to intensify their trade union action.
+
+...
 
 [Data](articles/80e7c400.json)
 
@@ -224,17 +298,25 @@ Pa. The National Democratic Alliance has won 293 seats in Lok Sabha. The Opposit
 
 ---
 
-### කාන්තාවන් බිය ගන්වා මහා පරිමාණයෙන් කරගෙන ගිය ජාවාරමක් එළියට
+### Women scare and exploit a large scale racket
 
 *2024-06-09 09:52:53* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-බිය-ගන්වා-මහා-පරිමාණයෙන්-කරගෙන-ගිය-ජාවාරමක්-එළියට/11-410085) · `si`
 
-කාන්තාවන් අයුතු ලෙස සිරකර  බිය ගන්වා අඩ නිරුවත් ඇඳුම් අන්දවා ලිංගික  ක්‍රියාකාරකම්වල යොදවා ඒවා පටිගත කර අන්තර්ජාලයට මුදාහැර මහා පරිමාණයෙන් මුදල් ඉපයීමේ ජාවාරමක් සිදුකළ නුගේගොඩ  පාගොඩ  දේවාල පාරේ නිවසක් වටලා එය පවත්වාගෙන ගිය ප්‍රධාන සැකකරු හා  සහය වූ කාන්තාවක් අත්අඩංගුවට ගත් බව ළමා සහ කාන්තා අපයෝජන නිවාරණ  කාර්යාංශය කියයි
+A large-scale racket involving child and women's abuse was uncovered, with victims being exploited for sex and money. The operation, centered around Nugegoda, involved the use of drugs, stolen goods, and online surveillance. Two women, aged 34 and 44, were rescued and will be examined by a judicial doctor. The suspects, a 46-year-old and a 29-year-old, face charges and will appear in court.
 
-එම ස්ථානයේ තිබී අයිස් මත්ද්‍රව්‍ය , ගංජා,කාන්තා අඩ නිරුවත් ඇඳුම් , කාන්තා යට ඇදුම් ,විවිධ පුද්ගලයන්ගේ හැඳුනුම්පත් බැංකු කාඩ් පත් , දේශීය සහ විදේශීය මුදල් ,    උපත් පාලන කොපු ,  ජංගම දුරකථන ඇඳට සවි කරන උපකරණ , ලැෆ් ටොෆ් පරිගණක සහ ජංගම දුරකථන , කාන්තාවන්ගේ පුද්ගලික තොරතුරු ඇතුළත් කර සකස් කරන ලද ගිවිසුම්පත් රැසක් පොලිස් භාරයට ගෙන ඇත
+🟩
+
+Child and Women's Abuse Prevention of woman who has been arrested in the Pagoda Devala Road, who has been released into sex with a large number of cash in the Pagoda Devalaya, who has been released into sex with a large scale in Nugegoda has been rackered to the Internet and recording them on a large scale.
+
+Ice drug, cannabis, women's half naked clothes, women's underwear, local and foreign currency, mobile phone bed, mobile phones, and mobile phones, personal information, women's personal informationPolice have taken a number of agreements inserted and prepared
+
+Two and 344-year-old women who were attended by the coconut oil to a job in a business location and to look after the child.Police say that the man who has been confidentially running of the OIC of the Child and Women's Abuse of Prevention of the Children's Abuse and the OIC of the Children's and Women's Abuse.
 
 ...
 
 [Data](articles/d5217f9a.json)
+
+[Extended Data](ext_articles/d5217f9a.ext.json)
 
 ---
 
@@ -298,23 +380,29 @@ The aircraft carrying Sri Lankan diplomats will be landed at New Delhi in New De
 
 ---
 
-### කොදෙව්වන්ට විශිෂ්ට ජයක්
+### West Indies beat
 
 *2024-06-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197551) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ උගන්ඩා කණ්ඩායම සමග අද (09) පැවැති තරගය ලකුණු 134ක විශිෂ්ට ජයක් ලබාගැනීමට බටහිර ඉන්දිය කොදෙව් කණ්ඩායම සමත්වුණි.
+In the World Cup, the West Indies triumphed over Uganda, scoring 173/5 in 20 overs led by Johnson Charles' 44 runs. Chasing 174, Uganda was limited to 36/0 in 12 overs.
 
-තරගයේ කාසියේ වාසිය දිනු බටහිර ඉන්දිය කොදෙව් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් බටහිර ඉන්දිය කොදෙව් කණ්ඩායම නියමිත පන්දු වාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 173ක් රැස්කළේය.
+The West Indies team won the match with 134 runs in the World Cup.
 
-එහිදී බටහිර ඉන්දිය කොදෙව් ඉනිම වෙනුවෙන් Johnson Charles  ලකුණු 44ක් රැස් කළ අතර Andre Russell නොදැවී ලකුණු 30ක් රැස්කළේය.
+The leader of the West Indies won the ball first to bat first.
 
-ලකුණු 174ක ඉලක්කයක් හඹාගිය උගන්ඩා කණ්ඩායම පන්දු වාර 12 අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 36ක් පමණි.
+Accordingly, the West Indies scored 173 runs for the loss of 5 wickets at the end of 20 overs.
+
+Johnnson Charles scored 44 runs for the West Indies in their west Indies and scored 30 runs.
+
+Chasing a target of 174, the Ugandan team could score 36 runs in the end of 12 overs.
 
 ◼️
 
 [Data](articles/1ce67b56.json)
+
+[Extended Data](ext_articles/1ce67b56.ext.json)
 
 ---
 
@@ -2191,73 +2279,5 @@ The suspects have been admitted to the Anuradhapura Teaching Hospital on the rec
 [Data](articles/334ffa8f.json)
 
 [Extended Data](ext_articles/334ffa8f.ext.json)
-
----
-
-### History: 1967
-
-*2024-06-08 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185603) · `ta`
-
-In 1967, during the Six-Day War, Israel captured significant territory from Arab nations, including Jerusalem and areas near the Suez Canal. The conflict also saw Israel seizing control of the Gulf of Aqaba, crucial for its shipping. The United Arab Emirates played a key role, with their air force targeting Israeli armored units. This summary encapsulates the strategic gains and confrontations of the war.
-
-🟩
-
-In 1967, Israeli forces took a large number of space, including the city of Jerusalem, about 25 miles towards the Suez Canal, on the Egyptian border, in the six -day terrorist war between the Arab countries and Israel.
-
-Israel over the siege of Egypt on the Gulf of Agaba, the focal point for Israeli shipping.
-
-In this case, the United Arab Emirates were in the mission of the day to continue the struggle as long as Israel was present.. As a result, the Arab forces were resisting Israel.
-
-The United Arab Emirates Air Force Air Force flights allocated the entire Israeli armor team by rocket.
-
-Here are the first pages of the Weerakesari magazines that have been stirred up on June 8 and 9, 1967 ...
-
-◼️
-
-[Data](articles/a10ef4c3.json)
-
-[Extended Data](ext_articles/a10ef4c3.ext.json)
-
----
-
-### Sri Lanka’s May tourism revenue rise 54-pct, arrivals up 35-pct
-
-*2024-06-08 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-may-tourism-revenue-rise-54-pct-arrivals-up-35-pct-167010/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $154 million dollars in May 2024, a 54 percent jump from the last year while the arrivals also gained 34 percent in the month compared to 2023, the central bank said quoting tourism promotion authorities.
-
-Sri Lanka’s tourist arrivals went up to 896,779 persons in the first five months of 2024, a 71 percent jump compared to the same period last year.
-
-Tourism earnings in May were estimated at $154 million, up from $100 million a year ago.
-
-Tourist arrivals and revenue from tourism were expected to slow down after to a new on arrival visa system through VFS Global. After the new system, foreign visitors who were earlier permitted to obtain visa free of charge are compelled to pay $21.61 fee for VFS Global.
-
-The island nation’s leisure industry has protested the complex website which is putting off some users as well as higher fees.
-
-...
-
-[Data](articles/64de330e.json)
-
-[Extended Data](ext_articles/64de330e.ext.json)
-
----
-
-### Harsha informed to give statement to CID over threats
-
-*2024-06-08 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99742/harsha-informed-to-give-statement-to-cid-over-threats) · `en`
-
-The Criminal Investigation Department (CID) has informed SJB MP Dr. Harsha de Silva that they need to record a statement over his claims of threats against him, police said.
-
-Public Security Minister Tiran Alles yesterday instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats received by the opposition parliamentarian.
-
-Speaking in Parliament on Friday (7), the Chair of the Committee of Public Finance (COPF) claimed that he is faced with threats to his life over the inquiry into the controversy surrounding the new visa issuance system.
-
-“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” he posted on ‘X’ (formerly Twitter).
-
-◼️
-
-[Data](articles/d7bec33e.json)
-
-[Extended Data](ext_articles/d7bec33e.ext.json)
 
 ---

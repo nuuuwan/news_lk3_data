@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 11:53:54**
+As of **2024-06-09 12:06:16**
 
 ## Newspaper Stats
 
-*Scraped **29,327** Articles*
+*Scraped **29,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 266
 dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
-islandlk | 1,590
+islandlk | 1,592
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,496
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,324 (100.0%) of 29,327 articles have been extended.
+29,327 (100.0%) of 29,329 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,59 @@ Thirteen students and parents were injured in the incident and have been admitte
 
 [Data](articles/7125ce2d.json)
 
+[Extended Data](ext_articles/7125ce2d.ext.json)
+
 ---
 
-### கொக்கெய்னை விழுங்கிவந்த உகண்டா தச்சர் கைது
+### Uganda carpenter arrested for swallowing cocaine
 
 *2024-06-09 11:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொக்கெய்னை-விழுங்கிவந்த-உகண்டா-தச்சர்-கைது/95-338636) · `ta`
 
-கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவின் அதிகாரிகள் குழுவொன்று கொக்கெய்னை உருண்டைகளாக தயாரித்து விழுங்கிய , உகாண்டாவைச் சேர்ந்த 31 வயதான தச்சர்.  சனிக்கிழமை (08 ) கைது செய்யப்பட்டுள்ளார்.
+A Ugandan carpenter was arrested at Katunayake Airport for smuggling cocaine. He swallowed 45 cocaine pellets worth around Rs 1 crore, wrapped in cello tape. The 31-year-old man, who had difficulty communicating in English, was hospitalized after the drugs were detected during a scan.
 
-இவர் தொடர்பான சர்வதேச புலனாய்வுத் தகவல்கள், பொலிஸ் போதைப் பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகளுக்குக் கிடைத்ததையடுத்து, அவரைக் கைது செய்வதற்கான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
+🟩
 
-உகாண்டாவின் கம்பாலாவில் இருந்து தனது பயணத்தை ஆரம்பித்து, அங்கிருந்து சனிக்கிழமை (08) காலை 9 மணியளவில் கட்டார் ஏர்வேஸ் விமானமான KR-664 இல் கட்டாரின் தோஹாவை வந்தடைந்து, கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+A 31 -year -old carpenter from Uganda, who made a group of officials of the Katunayake Airport Police Drug Prevention Unit.  சனிக்கிழமை (08 ) கைது செய்யப்பட்டுள்ளார்.
 
-கட்டுநாயக்க விமான நிலையத்தில் வைத்து பொலிஸ் போதைப்பொருள் ஒழிப்பு திணைக்கள அதிகாரிகளினால் கைது செய்யப்பட்டு ஸ்கேன் செய்த போது வயிற்றில் கொக்கெய்ன் உருண்டைகள் இருப்பது உறுதி செய்யப்பட்டதையடுத்து இந்த உகண்டா பிரஜையை நீர்கொழும்பு பொது வைத்தியசாலையில் அனுமதிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+International intelligence reports have been taken to arrest him after the authorities of the Police Drug Eradication Unit have received him.
+
+He started his journey from Kampala, Uganda, and arrived at the Katunayake airport at Qatar Airways flight KR-664 at 9 am on Saturday (08).
+
+The Uganda citizen has been admitted to the Negombo General Hospital after the stomach was confirmed when the stomach was arrested and scanned by the police at the Katunayake airport.
+
+A spokesman for the Police Drug Prevention Unit said that about 45 cocaine pellets worth about Rs 1 crore were in the stomach of Uganda citizen.
+
+These cocaine is very tightly prepared using cello tapes.
 
 ...
 
 [Data](articles/0f850790.json)
 
+[Extended Data](ext_articles/0f850790.ext.json)
+
 ---
 
-### ’’ரணிலுக்கு பேராதரவு வழங்க வேண்டும்’’
+### Ranil should be given a good idea
 
 *2024-06-09 11:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பேராதரவு-வழங்க-வேண்டும்/175-338635) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் பேசும் மக்கள் ஓரணியில் திரண்டு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பேராதரவு வழங்க வேண்டும். அவர் தலைமையிலான ஆட்சியே சிறுபான்மையின மக்களுக்கு பாதுகாப்பு கவசமாகும்.
+Subbaiah Anandakumar urges President Ranil Wickremesinghe to engage Tamil speakers in the upcoming election, highlighting his commitment to protecting minorities and addressing the economic crisis. Despite criticism, Wickremesinghe's swift actions to stabilize the economy, reduce fuel and gas prices, ensure pharmaceutical availability, and provide disaster relief demonstrate his effective leadership. His plans for future development and bill passage signal progress towards national recovery.
 
-அதேபோல உரிமைகளை வென்றெடுப்பதற்குரிய வாய்ப்பும் உருவாகும் -  என்று  ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+🟩
 
-நாட்டை வங்குரோத்து நிலையிலிருந்து மீட்பதற்குரிய துரிதமான நடவடிக்கைகளை முன்னெடுத்து தனது ஆளுமையையும், தலைமைத்துவ பண்பையும் ஜனாதிபதி வெளிப்படுத்தியுள்ளதால், அவருக்கு மீண்டுமொருமுறை ஆள்வதற்குரிய வாய்ப்பு வழங்கப்பட வேண்டியது காலத்தின் கட்டாய தேவையாகும்.
+President Ranil Wickremesinghe should gather in Tamil speaking people in the upcoming presidential election. His rule is the protection of the minority people.
+
+Similarly, there will also be the opportunity to win the rights, ”said Subbaiah Anandakumar, a member of a three -member committee of a three -member committee to make union decisions under the president.
+
+It is a compulsory requirement of the time to give him the opportunity to rule once again, as the President has revealed his personality and leadership character to carry out swift measures to recover the country from bankruptcy.
+
+How was the country in the period of 2022 due to the economic crisis and the charity?No leader has come forward to accept the leadership of the country to bring forward. However, Ranil Wickremesinghe accepted that challenge. Opponents criticized the narrow political view that he could not, and again the struggle would erupt. But he is facing the challenge successfully and creating normalcy in the country.
 
 ...
 
 [Data](articles/3344174a.json)
+
+[Extended Data](ext_articles/3344174a.ext.json)
 
 ---
 
@@ -109,6 +129,24 @@ He said the government would take advice on the maximum number of vehicles that 
 [Data](articles/8bd6946f.json)
 
 [Extended Data](ext_articles/8bd6946f.ext.json)
+
+---
+
+### The heart-friendly health minister
+
+*2024-06-09 11:07:00* · [`islandlk`](http://island.lk/the-heart-friendly-health-minister/) · `en`
+
+When we sought a meeting with Hon Dr. Ramesh Pathirana, Minister of Health, he graciously cleared his busy schedule to accommodate us. Renowned for his attentive listening and deep understanding, Minister Pathirana is dedicated to advancing the health sector. His openness and transparency exemplify the qualities of an exemplary politician and minister.
+
+Dr. Palitha Mahipala, the current Health Secretary, demonstrates both commendable enthusiasm and unwavering support. This combination of attributes makes him a highly compatible colleague for the esteemed Minister of Health.
+
+Our discussion centered on a project that has been in the works for the past 30 years, one that no other minister had managed to advance.
+
+Minister Pathirana, however, recognized the project’s significance and its potential to revolutionize care for heart patients.
+
+...
+
+[Data](articles/b789fabb.json)
 
 ---
 
@@ -2251,33 +2289,5 @@ She is also a security guard at a private company in Colombo.
 [Data](articles/2f3afabe.json)
 
 [Extended Data](ext_articles/2f3afabe.ext.json)
-
----
-
-### Chickeh Chaminda hospitalized after assault
-
-*2024-06-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197524) · `si`
-
-Four-year-old Chickhen Chaminda was hospitalized after a brutal assault by Koule Chaminda, who were then taken to Anuradhapura Teaching Hospital. The suspect, arrested in Pulmude, was remanded until the 19th and later examined by a Judicial Medical Officer, leading to hospital admission.
-
-🟩
-
-The four-year-old girl was brutally assaulted and arrested by Koule Chaminda and who were imprisoned to the Anuradhapura Teaching Hospital.
-
-However, Prison Media Spokesman Prison Spokesman Prison Gamini B. Gamini B. Dissanayake added.
-
-The suspect inhumabrum was inhumably assaulted in general recently was arrested in Pulmude, Arallamaya.
-
-MK after being produced before courts. Chaminda, or Kohin was remanded until the 19th.
-
-The suspect was later sent to the Judicial Medical Officer on June 6.
-
-The suspects have been admitted to the Anuradhapura Teaching Hospital on the recommendations of the Judicial Medical Officer.
-
-◼️
-
-[Data](articles/334ffa8f.json)
-
-[Extended Data](ext_articles/334ffa8f.ext.json)
 
 ---

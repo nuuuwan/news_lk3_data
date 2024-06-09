@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 10:19:09**
+As of **2024-06-09 10:34:22**
 
 ## Newspaper Stats
 
-*Scraped **29,307** Articles*
+*Scraped **29,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,491
 adaderanalk | 3,317
 tamilmirrorlk | 3,439
 virakesarilk | 4,489
-dailymirrorlk | 4,652
-adaderanasinhalalk | 4,711
+dailymirrorlk | 4,653
+adaderanasinhalalk | 4,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,307 (100.0%) of 29,307 articles have been extended.
+29,307 (100.0%) of 29,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### කොකේන් ගෙන ආ උගන්ඩා ජාතිකයා අත්අඩංගුවට
+
+*2024-06-09 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197552) · `si`
+
+කොකේන් මත්ද්‍රව්‍ය සමග උගන්ඩා ජාතිකයෙකු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (08) උදෑසන කටුනායක ගුවන්තොටුපොළේ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ නිලධාරීන් විසින් එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවටගත් සැකකරු 31 හැවිරිදි උගන්ඩා ජාතිකයෙකු වන අතර ඔහු එම කොකේන් මත්ද්‍රව්‍ය ගුලි ගිල කටාර් රාජ්‍යයේ සිට මෙරටට පැමිණ ඇති බව පොලීසිය පවසයි.
+
+සැකකරු මීගමුව රෝහලට ඇතුළත් කිරීමෙන් පසු ගිල දමා තිබූ කොකේන් ගුලි 14ක් පිටතට ගෙන ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/596658a8.json)
+
+---
 
 ### New Delhi
 
@@ -69,6 +87,22 @@ The Indian foreign ministry confirmed that leaders from Sri Lanka, the Maldives,
 [Data](articles/407e2e5d.json)
 
 [Extended Data](ext_articles/407e2e5d.ext.json)
+
+---
+
+### President leaves for Modi’s swearing-in
+
+*2024-06-09 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-leaves-for-Modis-swearing-in/108-284417) · `en`
+
+Colombo, June 9 (Daily Mirror) - President Ranil Wickremesinghe departed for New Delhi a short while ago at the invitation of the Prime Minister of India, Shri Narendra Modi, to attend his swearing-in ceremony scheduled for this evening.
+
+Prime Minister Modi will take oath today, as too will members of his new cabinet, at the Rashtrapati Bhawan in Delhi. He will be the first three-term Prime Minister since Congress stalwart Jawaharlal Nehru.
+
+A three-layered security has been put in place at Rashtrapati Bhawan where he will be administered oath of office by President Droupadi Murmu. Officials said commandos from Delhi Police's SWAT and NSG have been deployed around the venue and other strategic locations as Delhi remains on high alert for the event.
+
+◼️
+
+[Data](articles/3565d2f8.json)
 
 ---
 
@@ -2261,51 +2295,5 @@ The accident reportedly occurred when a car travelling from Ederamulla towards W
 [Data](articles/348de4ee.json)
 
 [Extended Data](ext_articles/348de4ee.ext.json)
-
----
-
-### Accident kills father, daughter at Enderamulla railway crossing
-
-*2024-06-08 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-kills-father-daughter-at-Enderamulla-railway-crossing/108-284403) · `en`
-
-Colombo, June 8 (Daily Mirror) - A father and a daughter died following a car accident at a railway crossing at Enderamulla this morning, police said.
-
-The accident reportedly occurred when a car travelling from Ederamulla towards Wattala collided with the train travelling from Badulla towards Colombo while the signal lights were on at the railway crossing.
-
-◼️
-
-[Data](articles/abceab1e.json)
-
-[Extended Data](ext_articles/abceab1e.ext.json)
-
----
-
-### We have seen children's corrupted bodies - the survivors of Israel's attack on UN School
-
-*2024-06-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185584) · `ta`
-
-Survivors of an Israeli attack on a UN school in Gaza reported seeing the bodies of killed boys amidst ongoing attacks. The head of Gaza's Civil Security Division confirmed high casualties at Nusirit's Alsharti school, with no additional bodies found. Israel claimed the school was targeted by extremists, releasing names of Hamas and Palestinian Jihad members killed, denying civilian deaths. A teacher from Nusreide, whose home was attacked, described the horror of the bombing, including the destruction of classrooms and the shock among survivors.
-
-🟩
-
-The survivors of the Israeli attack on the UN school said they had seen the bodies of the boys who were killed.
-
-While Israel continues to attack the second day in the particular area, we have seen the bodies of the boys as the survivors of the attack on the UN school have been shattered.
-
-The head of the Civil Security Division of Gaza said that all the casualties of the Nusirit's Alsharti school in the middle of Gaza were not able to find anyone else's bodies.
-
-Mahmoot Basel said the number of casualties has increased by 40 people.
-
-Israel has said that the UN school has been targeted by the thirty -two extremists.
-
-Israel has released the names of members of the Hamas and Palestinian Jihad, which was killed in the attack, saying it was not aware of the deaths of civilians.
-
-A 45 -year -old teacher, a 45 -year -old teacher, who lives in Nusreide, left Israel's groundbreaking two months ago and that the attack had taken place at his home.
-
-...
-
-[Data](articles/6dc6ee55.json)
-
-[Extended Data](ext_articles/6dc6ee55.ext.json)
 
 ---

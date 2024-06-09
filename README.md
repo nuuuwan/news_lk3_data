@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 14:52:59**
+As of **2024-06-09 15:04:15**
 
 ## Newspaper Stats
 
-*Scraped **29,360** Articles*
+*Scraped **29,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,503
-adaderanalk | 3,321
-tamilmirrorlk | 3,446
+adaderanalk | 3,322
+tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,661
-adaderanasinhalalk | 4,719
+adaderanasinhalalk | 4,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,360 (100.0%) of 29,360 articles have been extended.
+29,360 (100.0%) of 29,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### President Ranil arrives in Delhi to attend swearing-in ceremony of PM Modi
+
+*2024-06-09 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99758/president-ranil-arrives-in-delhi-to-attend-swearing-in-ceremony-of-pm-modi) · `en`
+
+Sri Lankan President Ranil Wickremesinghe has arrived in the National Capital to attend the much-anticipated swearing-in ceremony of Prime Minister-designate Narendra Modi today. He was received by P Kumaran, the Officer on Special Duty (ER & DPA) division of the Ministry of External Affairs.
+
+“Warm welcome to President @RW_UNP of Sri Lanka as he arrives in New Delhi to attend the swearing-in ceremony of Prime Minister and Council of Ministers.
+
+Received by OSD (ER & DPA) P. Kumaran at the airport,” said the Official Spokesperson, Ministry of External Affairs, Randhir Jaiswal in a post on X.
+
+India and Sri Lanka are civilisational partners and enjoy strong and enduring bilateral ties. PM Modi was on a two-day visit to Sri Lanka in 2017, during which he visited the country’s Tamil-dominated tea plantation area. PM Modi was accompanied by the then Sri Lankan President Maithripala Sirisena and the then PM Wickremesinghe.
+
+...
+
+[Data](articles/ada91c62.json)
+
+---
+
+### ඇතුළේ හිටියත් එළියේ ජයටම කෙරෙන 'කුඩු සළිඳුගේ' සෙල්ලම්
+
+*2024-06-09 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197559) · `si`
+
+සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන පානදුර කුඩු සළිඳු නමැත්තාගේ ගෝලයින් දෙදෙනෙකු පානදුර දකුණ ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්යය බළකාය විසින් සිදුකළ මෙහෙයුමක දී පානදුර දකුණ නල්ලූරුව ප්‍රදේශයේ දී යතුරුපැදියක් සමග එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+ඔහු සතුව තිබී රිවෝල්වර් අවි සඳහා භාවිත කරනු ලබන සජීවී පතරොම් 20ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10යි මිලිග්‍රෑම් 400ක් හා මත්ද්‍රව්‍ය අලෙවියෙන් උපයාගන්නා ලද රුපියල් ලක්ෂ 42කට අධික මුදලක් සොයාගෙන තිබේ.
+
+සැකකරුගෙන් සිදුකරන ලද ප්‍රශ්නකිරීම්වලදී නිවසක සිට එම මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවමින් ආධාර අනුබල ලබාදුන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+
+සැකකරුවන් දෙදෙනා පානදුර නල්ලූරුව සහ මොරවින්න යන ප්‍රදේශවල පදිංචිකරුවන් බවයි පොලීසිය පැවසීය.
+
+මොවුන්, සංවිධානාත්මක අපරාධකරුවෙකු වන කුඩු සළිඳු නමැත්තාගේ මත්ද්‍රව්‍ය ජාවාරම් ඩුබායි හි සිට මෙහෙයවන ප්‍රධාන ගෝලයින් දෙදෙනෙකුගේ මෙරට මත්ද්‍රව්‍යජාලය මෙහෙයවනු ලබන පුද්ගලයින් බව පොලීසිය සිදුකළ විමර්ශනවල දී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/70dc455e.json)
+
+---
+
+### ஈரானிய யுவதி துஷ்பிரயோகம்: ஒருவர் கைது
+
+*2024-06-09 14:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-யுவதி-துஷ்பிரயோகம்-ஒருவர்-கைது/175-338648) · `ta`
+
+22 வயதான ஈரானிய யுவதி ஒருவரை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் குறித்த நிறுவன ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கேகாலை பொலிஸார் தெரிவித்தனர்.
+
+கேகாலை, ரம்புக்கன வீதியிலுள்ள ஆயுர்வேத மசாஜ் நிலையமொன்றிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது. கைது செய்யப்பட்டவர் கேகாலை ரன்தெனிய மாவட்டத்தைச் சேர்ந்த 41 வயதுடையவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+பாலியல் வன்கொடுமைக்கு ஆளான ஈரானிய யுவதி, ஆயுர்வேத மசாஜ் செய்வதற்காக ரந்தெனியவில் உள்ள ஆயுர்வேத மசாஜ் மையத்திற்கு பல ஈரானியர்களுடன் வந்ததாகவும், அங்கு சந்தேக நபர் மசாஜ் செய்ய வாய்ப்பு கிடைத்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+யுவதியை மசாஜ் அறைக்குள் வரவழைத்த சந்தேகநபர் மசாஜ் செய்வதாக கூறி பெண்ணை பாலியல் வன்கொடுமை செய்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/6b07b718.json)
+
+---
+
+### ஜனாதிபதிக்கு  அமோக வரவேற்பு
+
+*2024-06-09 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-338647) · `ta`
+
+இந்தியாவின்   பிரதமராக மூன்றாவது தடவையாகவும் பதவியேற்கவுள்ள நரேந்திர மோடியின் பதவியேற்பு வைபவத்தில் பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க புதுடெல்லிக்குச் சென்றுள்ளார். அவருக்கு அங்கு அமோக வரவேற்பு அளிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/59e0612e.json)
+
+---
 
 ### 2025 Interim Account
 
@@ -2137,103 +2207,5 @@ It is not surprising, however, that South Africa faces crying because the Nether
 [Data](articles/bffd48e8.json)
 
 [Extended Data](ext_articles/bffd48e8.ext.json)
-
----
-
-### Racketeer who puts job jobs
-
-*2024-06-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197537) · `si`
-
-A racketeer was arrested after advertising jobs for four years, luring women into his home for sexual exploitation and filming their activities. The couple was tracked down by the Nugegoda Children's and Women's Crimes Prevention Bureau, ending their operation.
-
-🟩
-
-For 4 years, employment jobs have been advertised and arrested for women to house and engaged in various sexual activities.
-
-It is said that the couple had committed to track of a woman who was coming and deployed in various sexual activities and sell them to videotato.
-
-The suspect is arrested by the Nugegoda Children's and Women's Crimes Prevention Bureau.
-
-The couple's raid was arrested during a raid conducted by two women who had escaped from Nugegoda to arrive at the house in Nugegoda a few days ago.
-
-◼️
-
-[Data](articles/bf586d30.json)
-
-[Extended Data](ext_articles/bf586d30.ext.json)
-
----
-
-### Did you hate to Fanma?
-
-*2024-06-08 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197536) · `si`
-
-In a press conference, Sri Lanka's Faninu Hasaranga didn't address questions about his absence, leaving them to Nuwan Thushara and the Team Manager. The journalist queried if the inclusion of fast bowlers affected their defeat, to which the Group Manager acknowledged room for improvement but didn't directly link it to the loss. The journalist praised Nuwan Thushara's bowling, suggesting he could've influenced the match outcome with more balls.
-
-🟩
-
-Sri Lanka captain Faninu Hasaranga did not participate in press conference between the Bangladesh team and the Sri Lankan team today.
-
-Instead, they were absconded to many questions that came up with a team of fast bowler Nuwan Thushara and Team Manager.
-
-Journalist - In the Test squad is in the squad of 20-20 squad. But there are batsmen who are batsman that hit fast rapidly. Is this the cause of defeating?
-
-Sri Lanka Group Manager Mahinda Angoda - Selection Committee needs to be referred to. But could have scored more marks. I accept it.
-
-Journalist - We saw the Nuwan you were very bowling and brought the match until the last moment. You don't think you could have saved the contest if he sent another ball in the match.
-
-Found Thushara is a leader as a leader. I play the team to the group.
-
-◼️
-
-[Data](articles/3caf68b3.json)
-
-[Extended Data](ext_articles/3caf68b3.ext.json)
-
----
-
-### Stretch of Colombo-Kandy road temporarily closed at Pahala Kadugannawa
-
-*2024-06-08 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99747/stretch-of-colombo-kandy-road-temporarily-closed-at-pahala-kadugannawa) · `en`
-
-A section of the Colombo-Kandy main road will be closed for traffic at Pahala Kadugannawa from 7.30 p.m. today to 6.00 a.m. tomorrow (Sunday), the Disaster Management Centre (DMC) said.
-
-Meanwhile, the Kegalle District Secretary had announced yesterday that the Colombo–Kandy main road will be intermittently closed near the Pahala Kadugannawa area on Saturday (08) to remove unstable rocks and tree branches along this section of the road.
-
-◼️
-
-[Data](articles/42e57849.json)
-
-[Extended Data](ext_articles/42e57849.ext.json)
-
----
-
-### We can't be a beggar nation everyday
-
-*2024-06-08 20:09:40* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-හැමදාම-හිඟන-ජාතියක්-වෙන්න-බෑ/11-410082) · `si`
-
-President Ranil Wickremesinghe announced the first step towards economic recovery in Sri Lanka through the economic translation bill, aiming to transition the country towards becoming a developed nation focused on youth empowerment. He highlighted the importance of creating employment opportunities and fostering industries like pharmaceuticals, emphasizing the need for innovation and export capabilities to avoid living as a "beggar nation." The President also touched on the challenges faced during his tenure, including the impact of the Covid epidemic and economic crisis, and outlined ambitious goals for economic growth and reduction of unemployment by 2025, with a vision for an export-driven economy by 2040.
-
-🟩
-
-The first step has been placed on the economic translation bill, introducing the country's economy on the right path,
-
-A developed country should be built for youths for the youths in Sri Lanka - President.
-
-President Ranil Wickremesinghe said that the government has placed the first step in which the economic translation bill has taken the country's economy on the right path.
-
-The President also emphasized that the President must be able to build the country's collapse economy, despite the government, which was taken to power.
-
-President Ranil Wickremesinghe made this statement participating at the opening of Cephalospoin Vaccine in Ekala area and the Meldole Production factory in Ekala yesterday.
-
-The manufacturers have commenced the production by Sands Active (Pvt) Ltd.
-
-President of Melwa Group Piyasikapillai Anandaraja presented a memorial gift to President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/2f3efc74.json)
-
-[Extended Data](ext_articles/2f3efc74.ext.json)
 
 ---

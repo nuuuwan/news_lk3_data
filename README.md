@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 14:19:13**
+As of **2024-06-09 14:34:24**
 
 ## Newspaper Stats
 
-*Scraped **29,359** Articles*
+*Scraped **29,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,72 +19,104 @@ adalk | 2,503
 adaderanalk | 3,321
 tamilmirrorlk | 3,446
 virakesarilk | 4,499
-dailymirrorlk | 4,660
+dailymirrorlk | 4,661
 adaderanasinhalalk | 4,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,351 (100.0%) of 29,359 articles have been extended.
+29,359 (100.0%) of 29,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### 2025ට අතුරු සම්මත ගිණුමක්
+### 2025 Interim Account
 
 *2024-06-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197558) · `si`
 
-2025 වසර සඳහා නව අයවැයක් ඉදිරිපත් නොවනු ඇති බවත් අතුරු සම්මත ගිණුමක් මගින් එම වසරේ මුල් මාස කිහිපය තුළ වියදම් සිදුකිරීමට බලාපොරොත්තුවන බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+In 2025, no new budget will be presented; instead, an interim account will cover initial expenditures, set to start in March. This decision comes amid election years, with national elections planned for the year's end.
 
-ඒ අනුව එම අතුරු සම්මත ගිණුම 2025 වසරේ මාර්තු මස අවසන් වනතෙක් ක්‍රියාත්මකවීමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-මැතිවරණ කැලැන්ඩරයට අනුව මෙම වසර මැතිවරණ වසරක්වන අතර වසර අවසානයේදී ජාතික මැතිවරණයක් පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+State Minister Ranjith Siyambalapitiya says that a new budget will not be presented for the year 2025 and an interim account will be expenditure on the first few months of that year.
 
-ඒ අනුව එම මැතිවරණයෙන් පත්වන නව ආණ්ඩුවට ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශයක් එළිදැක්වීමට අවස්ථාව ලබාදෙමින් මේ වසර අවසානයේදී 2025 වසර සඳහා නව අයවැයක් ඉදිරිපත් නොවනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පවසයි.
+It is reported that the interim standard is scheduled to be implemented in March 2025.
+
+According to the election calendar, it is reported that the year is being elected years and is scheduled to hold a national election at the end of the year.
+
+According to government Minister Ranjith Siyambalapitiya, he added that the new budget will not be presented in the year 2025 this year.
 
 ◼️
 
 [Data](articles/a61aa5be.json)
 
+[Extended Data](ext_articles/a61aa5be.ext.json)
+
 ---
 
-### பட்டத்தை பாடையில் கட்டி  போராட்டம்
+### President arrives in India for Modi’s swearing-in
+
+*2024-06-09 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-arrives-in-India-for-Modis-swearing-in/110-284424) · `en`
+
+President Ranil Wickremesinghe arrived in India today to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, who will begin his third term this evening. Mr. Wickremesinghe was welcomed at Indira Gandhi International Airport, New Delhi, by Secretary of the Indian Foreign Ministry P. Kumaran, Indian Ocean Affairs Secretary Puneet Agrawal, Indian High Commissioner in Colombo Santhosh Jha, and Sri Lankan High Commissioner in India Shenuka Seneviratne. Traditional Indian dancers performed at the airport as part of the welcoming ceremony. Pix by Pradeep Pathirana.
+
+◼️
+
+[Data](articles/f4753fa7.json)
+
+---
+
+### Protest
 
 *2024-06-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பட்டத்தை-பாடையில்-கட்டி-போராட்டம்/71-338643) · `ta`
 
-பல்கலைக்கழக பட்டத்தை பாடையில் கட்டி  வேலையில்லா பட்டதாரிகள் யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை (09)  கவனயீர்ப்பு போராட்டமொன்றை முன்னெடுத்தனர்.
+Unemployed graduates protested in Jaffna, organized by the Northern Province Unemployed Baddy Association, demanding jobs. They voiced concerns like "graduates at home," "need justice," and "fight for education and work." The protest aimed to secure employment opportunities, threatening more demonstrations if demands weren't met promptly.
 
-வடக்கு மாகாண வேலையில்லா பட்தாரிகள் சங்கத்தின் ஏற்பாட்டில் யாழ். மாவட்டச் செயலகத்திற்கு முன்னாள் இந்த கவனயீர்ப்பு போராட்டம் மேற்கொள்ளப்பட்டது.
+🟩
 
-“பட்டம் வீட்டில் பட்டதாரிகள் நடு ரோட்டில்”, “ஒரே  ஒரு   பரீட்சையில்  பறந்து போனது பல பரீட்சை எழுதிப் பெற்ற பட்டம்”,“வேண்டும் வேண்டும் நீதி வேண்டும்”,“எமக்கான வாழ்க்கையை நாம் எப்போது வாழ்வது”,“படிப்பிற்க்கும் போராட்டம் வேலைக்கும் போராடுவதா”, “எல்லோருக்கும் பாரபட்சமின்றி வேலைகளை வழங்க வேண்டும்”,“படித்ததக்கு கூலிதொழிலா”? ”கடைசி வரைக்கும்,படித்தவர்கள் இந்த நாட்டின் சாபக்கேடுகளா?”,“பல வருட கனவு வெறும் கனவாகவே போய்விடுமா?”,“படித்தும்  பரதேசிகளாக திரிவதா? ”என கோஷங்கள் எழுப்பப்பட்டதுடன்
+Unemployed graduates launched a protest in Jaffna on Sunday (09) in Jaffna.
 
-அனைத்து பட்டதாரிகளுக்கும் பாரபட்சமின்றி வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி போராட்டம் முன்னெடுக்கப்பட்டது.
+Jaffna organized by the Northern Province Unemployed Baddy Association. The protest was carried out by the former District Secretariat.
 
-...
+"Graduates at home in the middle of the house", "only one examination of the exam", "you need justice", "when to live our life", "When we live our lives", "Fight for studying for study and work", "Read""Until the end, are the educated people of this country?"“With slogans raised
+
+The struggle was carried out demanding employment opportunities for all graduates.
+
+They also said that they would continue to carry out massive protests if they did not meet their demands expeditiously.
+
+◼️
 
 [Data](articles/8f01633f.json)
 
+[Extended Data](ext_articles/8f01633f.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව ECOSOC වෙත තේරීපත්වෙයි
+### Sri Lanka elected to ECOSOC
 
 *2024-06-09 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197557) · `si`
 
-එක්සත් ජාතීන්ගේ ආර්ථික සහ සමාජයීය කවුන්සිලය (ECOSOC) වෙත ශ්‍රී ලංකාව තේරී පත්වී තිබේ.
+Sri Lanka was re-elected to the UN Economic and Social Council (ECOSOC) with the second-highest vote count, securing its seat for a three-year term starting January 1, 2025. This marks Sri Lanka's third tenure on ECOSOC, having served terms from 1985-1989 and 2006.
 
-එහි සාමාජික රටවල් 189න් ඡන්ද 182ක් හිමිකරගනිමින් ශ්‍රී ලංකාව මෙලෙස එක්සත් ජාතීන්ගේ ආර්ථික සහ සමාජයීය කවුන්සිලය වෙත තේරී පත්ව ඇත.
+🟩
 
-ඒ අනුව ශ්‍රී ලංකාවට එහි 2025 ජනවාරි 1 වනදා සිට ක්‍රියාත්මක වන පරිදි වසර තුනක ධුර කාලයක් හිමිවෙයි.
+Sri Lanka has been elected to the United Nations Economic and Social Council (ECOSOC).
 
-ශ්‍රී ලංකාව ලබාගත් මෙම ජන්ද ප්‍රමාණය කලාපයේ රටක් ලබාගත් දෙවන ඉහළම ඡන්ද ප්‍රමාණය බවට පත්විය.
+Sri Lanka has been elected to the United Nations Economic and Social Council with 182 votes from 189 members.
 
-ශ්‍රී ලංකාව මීට පෙර 1985 – 1989 සහ 2006 – 2008 දක්වා එක්සත් ජාතීන්ගේ ආර්ථික හා සමාජ කවුන්සිලයට සඳහා තේරී පත්වී තිබේ.
+Accordingly, Sri Lanka will operate a period of three years on January 1, 2025.
+
+The number of voting received by Sri Lanka became the second highest number of votes obtained from a region.
+
+Sri Lanka has previously been elected to the United Nations Economic and Social Council from 1985 to 1989 and 2006.
 
 ◼️
 
 [Data](articles/0d03afb9.json)
+
+[Extended Data](ext_articles/0d03afb9.ext.json)
 
 ---
 
@@ -148,15 +180,21 @@ The injured students and parents were admitted to the Warakapola Hospital for tr
 
 ---
 
-### ‘தமிழ் மக்கள் பொதுச்சபை’ ஜனநாயக பேரியக்கமாக வளருமா?
+### Will the Tamil People's General Assembly grow into a democratic bar?
 
 *2024-06-09 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185661) · `ta`
 
-ஜனாதிபதித் தேர்தலை பொது வாக்கெடுப்பாக கொள்வதையும் சுமந்திரன் ஏற்றுக்கொள்ளவில்லை. 1977ஆம் ஆண்டு தேர்தலிலேயே பொது வாக்கெடுப்பு வெற்றி பெறவில்லை. தமிழர் விடுதலை கூட்டணிக்கு வடக்கு, கிழக்கில் 50 சதவீதத்துக்கு குறைவான வாக்குகளே கிடைத்திருந்தன. புத்தளம் மாவட்டத்தில் வழங்கப்பட்ட வாக்குகளையும் சேர்த்தே 50 சதவீதம் கிடைத்ததெனக் கூறியிருந்தார்...
+Sumanthiran disputes the presidential vote as a referendum, citing the LTTE's less than 50% support in the 1977 election and his own 50% victory in Puttalam, questioning the assembly's democratic potential.
+
+🟩
+
+Sumanthiran does not accept the presidential election as a referendum. The referendum did not win in the 1977 election. The Liberation Tigers of Tamil Eelam (LTTE) received less than 50 percent of the votes in the North and East. He said that he received 50 per cent of the votes cast in the Puttalam district ...
 
 ◼️
 
 [Data](articles/eb8316af.json)
+
+[Extended Data](ext_articles/eb8316af.ext.json)
 
 ---
 
@@ -454,27 +492,39 @@ Stolen gold from civilians during the final stages of the war was reportedly con
 
 ---
 
-### இந்தியாவை அணுகுதல்
+### Access to India
 
 *2024-06-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185645) · `ta`
 
-“இந்தியப் பிரதமர் மோடிக்கு வாழ்த்துச் செய்தியை அனுப்பும் தமிழ்த் தலைவர்கள் இந்தியா கூறும் ஒற்றுமை பற்றிச் சிந்திப்பார்களா என்பதுதான் பிரதான கேள்வியாகிறது”
+"The debate centers on whether Tamil leaders' greetings to PM Modi consider India's unity."
+
+🟩
+
+“The main question is whether Tamil leaders who send a greeting to Indian Prime Minister Modi will think about the unity of India.”
 
 ◼️
 
 [Data](articles/50a589b0.json)
 
+[Extended Data](ext_articles/50a589b0.ext.json)
+
 ---
 
-### திரும்பிப் பார்ப்பாரா மோடி?
+### Will Modi look back?
 
 *2024-06-09 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185647) · `ta`
 
-தெற்காசிய பிராந்தியத்தில் இந்தியாவின் வெளியுறவு கொள்கையை சமமான நிலையில் முன்னெடுத்துச் செல்வதில் பா.ஜ.க. குழப்பங்களை விளைவித்திருக்கிறது. அடுத்த ஐந்து ஆண்டுகளில் நொடியேனும் மோடி அயர்ந்துபோனால், அவருக்கு முட்டு கொடுத்துக்கொண்டிருக்கின்ற கட்சிகளை, இழுத்து ஆட்சி அமைக்கக்கூடிய வல்லமையுடன் இருக்கிறது ‘இந்தியா’ கூட்டணி’...
+Modi's leadership could significantly influence South Asia's politics, aligning with India's foreign policy but causing confusion. Over the next five years, his popularity might enable him to unite parties previously opposing him.
+
+🟩
+
+The BJP in the South Asian region is in line with India's foreign policy.. Has caused confusion. In the next five years, if Modi is overflowing, he is capable of pulling the parties that have been pushing him ...
 
 ◼️
 
 [Data](articles/d6c68f49.json)
+
+[Extended Data](ext_articles/d6c68f49.ext.json)
 
 ---
 
@@ -598,27 +648,39 @@ Minister Pathirana, however, recognized the project’s significance and its pot
 
 ---
 
-### மோடியின் பெரும்பான்மை கனவை தகர்த்த ‘இந்தியா'!
+### India's majority dream
 
 *2024-06-09 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185642) · `ta`
 
-தமிழக மக்கள் மதத்தையும் அரசியலையும் வெவ்வேறாக பார்ப்பவர்கள் என்ற செய்தி மோடிக்கு தெரியாமலில்லை. எனினும் தி.மு.க அரசை மிக மோசமாக விமர்சிக்கும் பொறுப்பை அவர் தமிழக பா.ஜ.க தலைவர் அண்ணாமலைக்கு வழங்கினார். திராவிட முன்னேற்ற கழகம் நாத்திகவாத கட்சியாக இருப்பதால் அது தமக்கு சாதகமாக இருக்கும் என்ற நினைப்பும் பொய்த்துப்போனது.
+Modi unaware of Tamil Nadu's unique blend of religion and politics, delegates criticism of DMK to local BJP leader Annamalai, considering it beneficial for the atheistic Dravida Munnetra Kazhagam.
+
+🟩
+
+Modi does not know the news that the people of Tamil Nadu are different from religion and politics. However, he handed over the responsibility of criticizing the DMK government to Tamil Nadu BJP leader Annamalai. The thought that it would be good for the Dravida Munnetra Kazhagam is an atheist party.
 
 ◼️
 
 [Data](articles/01599eb5.json)
 
+[Extended Data](ext_articles/01599eb5.ext.json)
+
 ---
 
-### வெளியுறவுக் கொள்கையை வகுக்கக் கோரும் மேற்குலகம்
+### West
 
 *2024-06-09 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185639) · `ta`
 
-தமிழ் மக்கள் தமது சுதந்திரத்திற்கான வேட்கையை கொண்டுசெல்லும் திறனை குறைக்கும் வகையில் கொண்டுவரப்பட்ட 6ஆவது திருத்தச் சட்டம் முலம் சர்வதேச அடிப்படை மனித உரிமைகளில் ஒன்றான  பேச்சு சுதந்திரம் முடக்கப்பட்டமை, தமிழ் மக்களிடம் கலந்தாலோசிக்கபடாமல் 1987இல் திணிக்கபட்ட 13ஆம் திருத்த சட்டம் கூட நடைமுறைபடுத்தப்படாத நிலை. மேலும் 2006 ஜூன் முதலாம் திகதி யுத்த காலத்தில்  தெற்கு மற்றும் மத்திய ஆசிய பிராந்திய பதில் இராஜாங்க செயலராக இருந்த ரிச்சட் பௌச்சர் ஏற்கனவே தமிழ் மக்களின் கோரிக்கைகளில் நியாயம் இருக்கிறது என்றதுடன் நீண்டகால அரசியல் தீர்வு ஒன்றுக்கான வாக்குறுதி தந்ததையும் அத்தீர்மானம் நினைவுபடுத்தியுள்ளது.
+The 6th Amendment aimed to curb Tamil independence efforts but was criticized for infringing on free speech. On June 1, 2006, Richard Bouchar, the Secretary of the Tamil people, supported their demands and pledged a lasting political solution.
+
+🟩
+
+The 6th Amendment, which was introduced to reduce the ability to bring the Tamil people to their freedom, was dismantled by one of the international basic human rights freedom of speech.. Moreover, the Southern and Central Asian Regional Response State Secretary of the War on June 1, 2006, Richard Bouchar, who was already the secretary of the Tamil people, is justified in the demands of the Tamil people and has promised a long -standing political solution.
 
 ◼️
 
 [Data](articles/392940b8.json)
+
+[Extended Data](ext_articles/392940b8.ext.json)
 
 ---
 
@@ -2171,29 +2233,5 @@ President of Melwa Group Piyasikapillai Anandaraja presented a memorial gift to 
 [Data](articles/2f3efc74.json)
 
 [Extended Data](ext_articles/2f3efc74.ext.json)
-
----
-
-### The lower circumstance part is closed to tomorrow
-
-*2024-06-08 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197535) · `si`
-
-Due to road closure near Father's from 7:30 pm today until 1st tomorrow, vehicles from Colombo to Kandy should turn left onto Kurunegala Road, Warakapola, or use alternative routes like through Maldupana, Mawakkana, Mawanella, Hatabaiwela, or Mawamea, Gampola roads to reach Kandy.
-
-🟩
-
-Father has been temporarily closed from the Colombo-Kandy main road from 7.30 pm to 1st tomorrow.
-
-Vehicles traveling from Colombo to Kandy turns left and reach Kandy on Kurunegala Road, Warakapola.
-
-Police say that in addition to the Maldupana and Mawakkana town in Rambukkana and Mawanella town and reach Kandy via Hatabaiwela.
-
-From Mawanella to Mawamea, Gampola road to Kandy will be reached and arrived in Kandy.
-
-◼️
-
-[Data](articles/9d6eeb30.json)
-
-[Extended Data](ext_articles/9d6eeb30.ext.json)
 
 ---

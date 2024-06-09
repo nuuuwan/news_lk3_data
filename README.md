@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 17:18:53**
+As of **2024-06-09 17:34:45**
 
 ## Newspaper Stats
 
-*Scraped **29,379** Articles*
+*Scraped **29,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,327
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,665
-adaderanasinhalalk | 4,723
+adaderanasinhalalk | 4,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,376 (100.0%) of 29,379 articles have been extended.
+29,379 (100.0%) of 29,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### වැස්ස ගැන අලුත්ම කාලගුණ නිවේදනය නිකුත් කෙරේ
+
+*2024-06-09 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197564) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිබව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඉදිරි පැය 36 සඳහා වන කාලගුණ නිවේදනය නිකුත් කරමින් එම දෙපාර්තමේන්තුව මේ බව පවසයි.
+
+එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවය.
+
+එසේම උතුරු-මැද පළාතේත් මන්නාරම සහ මාතලේ දිස්ත්‍රික්කවලත් සිහින් වැසි ඇතිවිය හැකි බව එහි දැක්වෙයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව එම නිවේදනයේ සඳහන් වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/241f91b7.json)
+
+---
 
 ### Sajith pledges to implement 13th Amendment
 
@@ -52,21 +76,31 @@ Premadasa said that various leaders are afraid to speak about the 13th Amendment
 
 ---
 
-### චීවරධාරියෙකු සමඟ මත්පැන් පානය කර  හැත්තෑ දෙහැවිරිදි  අයෙක් මරුට
+### Seventy two people killed in seventy-three years
 
 *2024-06-09 16:48:08* · [`adalk`](https://www.ada.lk/breaking_news/චීවරධාරියෙකු-සමඟ-මත්පැන්-පානය-කර--හැත්තෑ-දෙහැවිරිදි--අයෙක්-මරුට/11-410098) · `si`
 
-චීවරධාරියෙකු හා එක්ව මත්පැන් පානය කිරීමේ යෙදී සිටි හැත්තෑ දෙහැවිරිදි පුද්ගලයෙකු චීවරධාරියාගේ ප්‍රහාරයකට ලක්ව දඹදෙණිය රෝහලට ඇතුළත් කිරීමෙන් පසු මරණයට පත් වී ඇතැයි ගිරිඋල්ල පොලීසිය කියයි. ඊයේ (08) දින රාත්‍රියේ මෙසේ ප්‍රහාරයකට ලක්ව මිය ගොස් ඇත්තේ ගිරිඋල්ල පොලිස් වසමේ මාරවිට ගල්ගොඩේවත්ත මාරවිට, දඹදෙණිය ලිපිනයේ පදිංචිව සිටි රුවන්පුර අන්දිරිස් සිල්වලාගේ ඇල්බටි සිංඤ්ඤෝ (72) නමැත්තෙකි.
+A monk was killed in a dispute over alcohol, marking the 72nd fatality in 73 years in the Giriulla Police Division. Preliminary investigations suggest the attacker, another monk without a permanent residence, was involved in a heated argument with the deceased. The victim succumbed to injuries at the Dambadeniya Base Hospital. The suspect, known for previous offenses, remains at large as police continue their investigation.
 
-ස්ථිර වාසස්ථානයක් නොමැති චීවරධාරියා කජුලන්දවත්ත ප්‍රදේශයේ පදිංචිව සිටි බවත් ඔහු මිය ගිය පුද්ගලයා සමග මත්පැන් පානය කිරීමේ යෙදී සිටියදී ඇති වූ බහින් බස්වීමකින් පසු මෙසේ ප්‍රහාරයට ලක් වී ඇති බවත් මූලික පොලිස් පරීක්ෂණවලින් හෙළි වී ඇත.
+🟩
 
-පහරදීම හේතුවෙන්  තුවාලකරු දඹදෙණිය මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් ඇත.
+Giriulla Police say that a member of the monk was killed after being inaugurated by a monk who was engaged in alcohol.. The attack on the night of the Giriulla Police Division, Marawita Galugodawatta, Marawiteniya, Marawita, Salpita (72), a resident of Dambadeniya.
 
-සැකකරු නිවසේ තනිව ජීවත් වී ඇති අතර, හිමිනමගේ මව සහ වැඩිමහල් සහෝදරයා ඥාති නිවසක වෙනම ජීවත්ව සිට ඇත. ඝාතනයෙන් පසුව මව සහ වැඩිමහල් සහෝදරයා තමන් පදිංචිව සිටි නිවසට පැමිණ ඇති අතර, ඝාතනය සිදුවූ ස්ථානයේ තිබූ ලේ පැල්ලම්ද ඔවුන් දෙදෙනා විසින් සෝදා තිබූ බව පොලීසිය පවසයි.
+Preliminary police investigations have revealed that the monk resident of Kajulandawatta, who had no permanent dwelling, was residing in Kagultulla and he was attacked by a heated argument with the deceased.
+
+The victim died on admission to the Dambadeniya Base Hospital due to the attack.
+
+The suspect has been living alone and the mother of monk and the oldest brother had been alive in a cousin. The mother and the elder brother had come to their home and was washed by the police, police said.
+
+The monk of the suspect is also the convicted of being grabbed after grab.
+
+Narammala Acting Magistrate Upul Adawanna has been conducting a post mortem and ordered the police to find the cause of death.
 
 ...
 
 [Data](articles/02b11c1b.json)
+
+[Extended Data](ext_articles/02b11c1b.ext.json)
 
 ---
 
@@ -338,21 +372,27 @@ President Ranil Wickremesinghe has visited New Delhi to attend Narendra Modi's s
 
 ---
 
-### මධ්‍යම පරිසර අධිකාරිය හරිත දුම්රියපොල තේරිමේ තරගයෙන් ප්‍රධාන දුම්රිය ස්ථාන දහයක් තොරාගනි
+### Central Environmental Authority Ten major railway stations were selected from the Green Railway War Stations
 
 *2024-06-09 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-පරිසර-අධිකාරිය-හරිත-දුම්රියපොල-තේරිමේ-තරගයෙන්-ප්‍රධාන-දුම්රිය-ස්ථාන-දහයක්-තොරාගනි/11-410097) · `si`
 
-මධ්‍යම පරිසර අධිකාරිය මගින් 2024 වසරේ හරිත දුම්රියපොලවල් තේරිමේ වැඩසටහන යටතේ ප්‍රධාන දුම්රිය ස්ථාන අටක් සහ උප දුම්රිය ස්ථාන දෙකක් තොරාගෙන එම දුම්රිය ස්ථාන වෙත ත්‍යාග සහ සහතික පත් පිරි නමා ඇත.
+The Central Environmental Authority (CEA), established in 2022, launched a program with the International Environmental Authority to select ten major railway stations for environmental improvement. These stations, including Hatunagalla and Homagama Hospital Roads, were chosen for their potential to enhance green spaces. Awards and certificates were presented to the winners by the Presidential State Minister at the Presidential Secretariat.
 
-ජගත් පරිසර දිනයට සමගාමිව මධ්‍යම පරිසර අධිකාරිය මගින් 2022 වසරේ ආරම්භ කරන ලද මෙම වැඩසටහනෙන් පරිසර හිතකාමි දුම්රිය ස්ථාන ඇගයිමේ අරමුණින් මෙම වැඩසටහන ආරම්භ කර ඇති අතර , මධ්‍යම පරිසර අධිකාරියේ පරිසර අධ්‍යාපන සහ දැනුවත් කිරිමේ අංශය විසින් මෙම වැඩසටහන සංවිධානය කර තිබුණි.
+🟩
 
-2024 වසරේ හොදම හරිත ප්‍රධාන දුම්රිය ස්ථාන වශයෙන් ඉහල කොට්ටේ , රඹුක්කන , වේයන්ගොඩ , ත්‍රිකුණාමලය , හැටන් , ඇල්ල , අහුන්ගල්ල සහ උකුවෙල යන දුම්රිය ස්ථාන තොරාගෙන ඇති අතර , උප දුම්රිය ස්ථාන වශයෙන් මිසාලෙයි සහ හෝමාගම රෝහල් පාරේ උප දුම්රිය ස්ථානය තේරිපත් වි ඇත.
+The Central Environmental Authority (CEA) has selected eight main railway stations and two main railway stations, with eight main railway stations and two major railway stations, with two main railway stations and two major railway stations.
 
-මෙම වැඩසටහනේ ජයග්‍රහකයන්ට ඉකුත් (05) දින ජනාධිපති ලේකම් කාර්යාලයේදි පාරිසරික රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා  විසින් ත්‍යාග සහ සහතිකපත් පිරිනමා ඇත.
+The program was launched by the CEA, which was established in 2022 with the International Environmental Authority. The program was organized by the Environmental Education and Awareness Division of the CEA.
+
+Over the Best Green main railway stations in the Best Green main railway stations, Railway Station, Hatunagalla and Homagama Hospital Roads have been selected as subway sites.
+
+The winners of this program have been awarded the prizes and certificates of the Presidential State Minister Janakapura at the Presidential Secretariat on the victories of the program.
 
 ◼️
 
 [Data](articles/ace14f45.json)
+
+[Extended Data](ext_articles/ace14f45.ext.json)
 
 ---
 
@@ -625,6 +665,8 @@ News of the rescue came soon after Israel’s military said it was operating in 
 ...
 
 [Data](articles/d8c79692.json)
+
+[Extended Data](ext_articles/d8c79692.ext.json)
 
 ---
 
@@ -2143,27 +2185,5 @@ Trump’s only chance of avoiding imprisonment is to win re-election in November
 [Data](articles/12aa991a.json)
 
 [Extended Data](ext_articles/12aa991a.ext.json)
-
----
-
-### Miller rescues South Africa in T20 victory over Netherlands
-
-*2024-06-09 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Miller-rescues-South-Africa-in-T20-victory-over-Netherlands/108-284415) · `en`
-
-(New York) - South Africa overcame a stunning early batting collapse before sealing a four-wicket victory over bogey team the Netherlands in their T20 World Cup Group D clash in New York on Saturday.
-
-David Miller's unbeaten 59 off 51 balls saw the Proteas safely home at the Nassau County International Cricket Stadium, the South Africans finishing on 106-6 after restricting the Dutch to 103-9 from their 20 overs.
-
-For a moment however it looked as if the Dutch were poised to inflict another famous upset on the South Africans following wins at the 2022 T20 World Cup and 2023 ODI World Cup.
-
-The Proteas were left reeling at 12-4 after 4.3 overs and had even been 3-3 at one stage as the Dutch bowling attack broke through early.
-
-But Tristan Stubbs and Miller hauled South Africa off the ropes with a fifth wicket partnership of 65 to leave the Proteas in a winning position.
-
-...
-
-[Data](articles/b585e6ea.json)
-
-[Extended Data](ext_articles/b585e6ea.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 14:34:24**
+As of **2024-06-09 14:52:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,719
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,359 (100.0%) of 29,360 articles have been extended.
+29,360 (100.0%) of 29,360 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,8 @@ President Ranil Wickremesinghe arrived in India today to attend the swearing-in 
 ◼️
 
 [Data](articles/f4753fa7.json)
+
+[Extended Data](ext_articles/f4753fa7.ext.json)
 
 ---
 

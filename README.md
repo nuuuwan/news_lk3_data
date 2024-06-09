@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 15:04:15**
+As of **2024-06-09 15:19:03**
 
 ## Newspaper Stats
 
-*Scraped **29,364** Articles*
+*Scraped **29,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,503
 adaderanalk | 3,322
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
-dailymirrorlk | 4,661
+dailymirrorlk | 4,662
 adaderanasinhalalk | 4,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,360 (100.0%) of 29,364 articles have been extended.
+29,360 (100.0%) of 29,365 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,7 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-06-09 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99758/president-ranil-arrives-in-delhi-to-attend-swearing-in-ceremony-of-pm-modi) · `en`
 
-Sri Lankan President Ranil Wickremesinghe has arrived in the National Capital to attend the much-anticipated swearing-in ceremony of Prime Minister-designate Narendra Modi today. He was received by P Kumaran, the Officer on Special Duty (ER & DPA) division of the Ministry of External Affairs.
+Sri Lankan President Ranil Wickremesinghe has arrived in the Indian Capital of New Delhi to attend the much-anticipated swearing-in ceremony of Prime Minister-designate Narendra Modi today. He was received by P Kumaran, the Officer on Special Duty (ER & DPA) division of the Ministry of External Affairs.
 
 “Warm welcome to President @RW_UNP of Sri Lanka as he arrives in New Delhi to attend the swearing-in ceremony of Prime Minister and Council of Ministers.
 
@@ -99,6 +99,24 @@ India and Sri Lanka are civilisational partners and enjoy strong and enduring bi
 ◼️
 
 [Data](articles/59e0612e.json)
+
+---
+
+### No budget proposals for 2025, only interim standard account
+
+*2024-06-09 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-budget-proposals-for-2025-only-interim-standard-account/108-284425) · `en`
+
+Colombo, June 9 (Daily Mirror) - Finance State Minister Ranjith Siyambalapitiya said today that he will not present a budget proposal for 2025 and that only an interim standard account will be presented instead.
+
+The Minister said that this is a year when a major election is to be held and that interim standard accounts have been passed before in this manner during such instances.
+
+He said this while speaking to the media in the Ruwanwella area this morning.
+
+According to the budget proposals adopted for 2024, parliamentary approval has been received to carry out revenue expenditure only up to the 31 December 2024, and accordingly, approval should be obtained from a separate budget document for 2025.
+
+◼️
+
+[Data](articles/0468670e.json)
 
 ---
 
@@ -2175,37 +2193,5 @@ About 9000 people are invited, including heads of state in neighboring countries
 [Data](articles/73a0777d.json)
 
 [Extended Data](ext_articles/73a0777d.ext.json)
-
----
-
-### Will the Netherlands beat South Africa for the 3rd consecutive time in the World Cup?
-
-*2024-06-08 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185622) · `ta`
-
-In the ongoing T20 World Cup, both South Africa and the Netherlands have strong records, with the Netherlands winning their last two encounters against South Africa. The Netherlands, known for their adaptability across pitches, might hold an edge over South Africa, who are also formidable but facing unfamiliar conditions. The outcome could significantly impact the tournament standings, especially considering the Netherlands' potential to secure the top spot if victorious.
-
-🟩
-
-The T20 World Cup for the T team has begun at the New York Nasav Cantry International Cricket Stadium.
-
-South Africa and Netherlands won Sri Lanka in their opening events in the 9th World Cup chapter.
-
-South Africa is said to be a powerful team compared to South Africa and the Netherlands.
-
-However, the Netherlands won the two types of World Cup cricket matches that the two teams finally clashed.
-
-Netherlands won by 13 runs in the T20 World Cup in Australia by 38 runs in the 50 -over World Cup in India in 2023.
-
-If the Netherlands wins this time, the teams for the T. team will take the top spot and Sri Lanka and Bangladesh will face a severe crisis.
-
-This is how South Africa played in its early stadium again as they played again and again understand the nature of the pitch.. But for the first time, the Netherlands are likely to face the pitch on the pitch.
-
-It is not surprising, however, that South Africa faces crying because the Netherlands are able to play efficiently on any pitch.
-
-...
-
-[Data](articles/bffd48e8.json)
-
-[Extended Data](ext_articles/bffd48e8.ext.json)
 
 ---

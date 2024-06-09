@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 12:51:52**
+As of **2024-06-09 13:04:05**
 
 ## Newspaper Stats
 
-*Scraped **29,336** Articles*
+*Scraped **29,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,498
+adalk | 2,501
 adaderanalk | 3,320
-tamilmirrorlk | 3,444
+tamilmirrorlk | 3,445
 virakesarilk | 4,494
-dailymirrorlk | 4,653
-adaderanasinhalalk | 4,716
+dailymirrorlk | 4,657
+adaderanasinhalalk | 4,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,335 (100.0%) of 29,336 articles have been extended.
+29,336 (100.0%) of 29,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### ඉන්දියාවට ගිය ජනපතිට ලැබුණු පිළිගැනීම
+
+*2024-06-09 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197556) · `si`
+
+මෝදි අගමැතිවරයාගේ දිවුරුම්දීමේ උත්සවයට සහභාගීවීම සඳහා ඉන්දියාව බලා ගිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර නවදිල්ලි අගනුවර වෙත ළඟාවී තිබේ.
+
+මෝදි අගමැතිවරයාගේ නිල දිවුරුම් දීමේ උත්සවය අද පස්වරුවේ නවදිල්ලි අගනුවර පිහිටි ඉන්දීය ජනපති නිල නිවස වන රාශ්ට්‍රපති භවන්හීදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/d2d4e8bd.json)
+
+---
+
+### பஸ் விபத்தில் பாடசாலை மாணவர்கள் காயம்
+
+*2024-06-09 12:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-பாடசாலை-மாணவர்கள்-காயம்/175-338642) · `ta`
+
+இந்த விபத்தில் காயமடைந்த 13 மாணவர்கள் மற்றும் பெற்றோர் வரக்காபொல வைத்தியசாலை அனுமதிக்கப்பட்டுள்ளனர்.
+
+வேகக்கட்டுப்பாட்டை இழந்து, வரக்காபொல பகுதியிலுள்ள நீரோடையில் வீழ்ந்து விபத்துக்கு உள்ளாகியுள்ளதாக தெரிவித்த வரக்காபொல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c53a3a9b.json)
+
+---
+
+### Ugandan national with cocaine arrested at Katunayake airport
+
+*2024-06-09 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ugandan-national-with-cocaine-arrested-at-Katunayake-airport/108-284420) · `en`
+
+BIA, June 9 (Daily Mirror) - A 31-year-old Ugandan national was arrested by officers of the Police Anti-Narcotics Bureau at the Bandaranaike International Airport, Katunayake while in possession of cocaine.
+
+The suspect arrived in the country from Qatar, having swallowed the cocaine pills for concealment.
+
+After being admitted to the Negombo Hospital, 14 cocaine pills were recovered from the suspect.
+
+◼️
+
+[Data](articles/532f7601.json)
+
+---
+
+### අපේක්ෂා රෝහලට යන ලංගම බස් රථයට ගල් ප්‍රහාරයක් එල්ල කල සිද්දියට හතක් අත් අඩංගුවට
+
+*2024-06-09 12:23:36* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂා-රෝහලට-යන-ලංගම-බස්-රථයට-ගල්-ප්‍රහාරයක්-එල්ල-කල-සිද්දියට-හතක්-අත්-අඩංගුවට/11-410095) · `si`
+
+ආණමඩුවේ සිට මහරගම අපේක්ෂා රෝහලට ගමන් ගන්නා ලංගම බස් රථයට ආඩිගම නගරයෙදී ගල් ප්‍රහාරයක් එල්ල කිරීමේ සිද්දියට පුද්ගලික බස් රථ රියදුරන් හා කොන්දෙස්තරවරුන් ඇතුළු හත් දෙනෙකු 9 දින අත් අඩංගුවට ගත් බව ආණමඩුව පොලිසිය කියයි.
+
+මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ බත්තුළුඔය,කිරීයන්කල්ලිය,බංගදෙනිය. වෙන්නප්පුව ඇතුළු ප්‍රදේශ වල පදිංචි පුද්ගලික මගී ප්‍රවාහන බස් රථ රියදුරන්, කොන්දොස්තරවරුන් ඇතුළු අවුරුදු 25 හා 30 සිමා වල පිරිස් බව කියයි.
+
+ලංකා ගමනා ගමන මංඩලයට අයත් හලාවත ඩිපෝවට අයත් NA- 9032 බස් රථය වසර කිපයක සිට ආණමඩුව නගරයෙ සිට මහරගම අපේක්ෂා රෝහල වෙත ගමන් ආරම්භ කර තිබුනේ අපේක්ෂා රෝහලේ නේවාසික ප්‍රතිකාර ලබමින් සිටින රෝගීන් බැලිම සදහා ගමන් කරන පිරිස් එම රෝහලේ සායන සදහා  ගමන් කරනු ලබන රෝගීන් සදහා පහසුවක් වෙමිනි.
+
+කෙසේ නමුත් මෙම ලංගම බස් රථය ආණමඩුවෙන් පසුගිය 7 දින පිටත්ව ගමන් කරමින් සිටියදී ආඩිගම නගරයෙදී අංක තහඩු නොමැතිව ගමන් කල යතුරු පැදියක සිටි දෙදෙනෙකු විසින් ලංගම බස් රථයෙ රියදුරු ඉලක්ක කර ගනිමින් දරුණු ගල් ප්‍රහාරයක් එල්ල කර පලා ගොස් තිබුනී.
+
+...
+
+[Data](articles/cfc12b21.json)
+
+---
+
+### රන්ටැඹේ යන්න ගිය බස් රථය වරකාපොලදි ඇළකට යයි
+
+*2024-06-09 12:20:51* · [`adalk`](https://www.ada.lk/breaking_news/රන්ටැඹේ-යන්න-ගිය-බස්-රථය-වරකාපොලදි-ඇළකට-යයි/11-410094) · `si`
+
+පාසල් ළමුන් පිරිසක් රැගෙන රන්ටැඹේ බලා ධාවනය කරමින් තිබූ පෞද්ගලික බස් රථයක් වරකාපොළ නරගය ආසන්නයේදී ඇළකට පෙරලිමෙන් අනතුරකට ලක්ව තිබේ.
+
+අනතුරින් තුවාල ලැබූ පාසල් ළමුන් හා දෙමව්පියන් ඇතුළු 13 දෙනෙකු ප්‍රතිකාර සඳහා වරකාපොළ රෝහලට ඇතුළත් කර ඇත.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ මාලබේ රාහුල විද්‍යාලයේ ළමුන් පිරිසක් රැගෙන ගිය බස් රථයකි.
+
+◼️
+
+[Data](articles/17e8cfec.json)
+
+---
 
 ### Seven arrested
 
@@ -151,6 +229,26 @@ He was speaking at a media briefing in Galle yesterday (08) at Bangladesh.
 [Data](articles/9320e806.json)
 
 [Extended Data](ext_articles/9320e806.ext.json)
+
+---
+
+### Five including Chief Inspector arrested for allegedly digging for gold in Kilinochchi
+
+*2024-06-09 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-including-Chief-Inspector-arrested-for-allegedly-digging-for-gold-in-Kilinochchi/108-284419) · `en`
+
+Kilinochchi, June 9 (Daily Mirror) - Five individuals, including a Chief Inspector of Police, suspected of illegally digging for gold believed to have been buried by the LTTE in Kilinochchi, were arrested in Ramanadapuram.
+
+Police said that two modern metal scanners and a luxury jeep were also seized from the suspects.
+
+The arrested Chief Inspector of Police reportedly serves as the OIC of a 'Tell the Police' operation at Police Headquarters. A teacher from a public school in Eravur is also among those arrested.
+
+They were arrested during a raid carried out by the police following intelligence information received by the Police Special Task Force (STF).
+
+Stolen gold from civilians during the final stages of the war was reportedly concealed in an LTTE-owned camp in the area and the suspects attempted to excavate the gold based on information provided by a former LTTE member.
+
+◼️
+
+[Data](articles/35547006.json)
 
 ---
 
@@ -418,6 +516,24 @@ We are well aware that when protecting people from the glory, it will face econo
 
 ---
 
+### අයිස් නිසා වැඩ තහනම් වූ පොලිස් නිලධාරින් දෙදෙනා
+
+*2024-06-09 10:12:21* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-නිසා-වැඩ-තහනම්-වූ-පොලිස්-නිලධාරින්-දෙදෙනා/11-410087) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අයත් වැල්ලම්පිටිය බුත්ගමුව තනිකඩ බට නිවාසයෙන් හොර රහසේ පිටව ගොස් අයිස් සහ ගංජා පානය කර නැවත පැමිණෙමින් සිටියදී  අත්අඩංගුවට ගත් පොලිස් කොස්තාපල්වරුන් දෙදෙනාගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය කියයි.
+
+මෙම නිලධාරීන් දෙදෙනා තනිකඩ බට නිවාසී රාත්‍රී නාම ලේඛනයට පෙනී නොසිටිමින් අනවසරයෙන් තනිකඩ බට නිවාසයෙන් පිටව ගොස් නැවත පැමිණෙන අවස්ථාවේදී අපරාධ බුද්ධි ඒකකයේ ස්ථානාධිපතිවරයාට ලද තොරතුරක් මත නිලධාරීන් පරික්ෂාවට ලක් කර ඇති අතර එහිදී නිලධාරීන් විෂමද්‍රව්‍ය භාවිතා කර ඇති බවට අනාවරණය වී යැයි පොලිසිය කියයි
+
+කොස්තාපල්වරුන් දෙදෙනා කොළඹ අධිකරණ වෛද්‍ය කාර්යාලයේ අධිකරණ වෛද්‍ය නිලධාරීවරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන් දෙදෙනා අයිස් මත්ද්‍රව්‍ය  සහ කැනබිස් නමැති විෂ මත්ද්‍රව්‍ය භාවිතා කර ඇති බවට වාර්තා වලින් ද සනාථ වූ බව පොලීසිය සඳහන් කරයි
+
+එම නිලධාරීන් දෙදෙනාගේ විෂමාචාර ක්‍රියාව හේතුවෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂකවරයා විසින් රාජකාරී වැඩ තහනම් කර ඇත
+
+◼️
+
+[Data](articles/3c4aa280.json)
+
+---
+
 ### Ugaughman arrested for cocaine
 
 *2024-06-09 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197552) · `si`
@@ -627,6 +743,22 @@ A three-layered security has been put in place at Rashtrapati Bhawan where he wi
 [Data](articles/3565d2f8.json)
 
 [Extended Data](ext_articles/3565d2f8.ext.json)
+
+---
+
+### President leaves for Modi’s swearing-in
+
+*2024-06-09 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-leaves-for-Modis-swearing-in/155-284417) · `en`
+
+Colombo, June 9 (Daily Mirror) - President Ranil Wickremesinghe departed for New Delhi a short while ago at the invitation of the Prime Minister of India, Shri Narendra Modi, to attend his swearing-in ceremony scheduled for this evening.
+
+Prime Minister Modi will take oath today, as too will members of his new cabinet, at the Rashtrapati Bhawan in Delhi. He will be the first three-term Prime Minister since Congress stalwart Jawaharlal Nehru.
+
+A three-layered security has been put in place at Rashtrapati Bhawan where he will be administered oath of office by President Droupadi Murmu. Officials said commandos from Delhi Police's SWAT and NSG have been deployed around the venue and other strategic locations as Delhi remains on high alert for the event.
+
+◼️
+
+[Data](articles/8991ee19.json)
 
 ---
 
@@ -893,6 +1025,8 @@ The road to that change has neither been easy, nor short, but decades of non-vio
 ...
 
 [Data](articles/fb3ebd98.json)
+
+[Extended Data](ext_articles/fb3ebd98.ext.json)
 
 ---
 
@@ -2071,199 +2205,5 @@ He added that a special bus service has been carried out this year to prevent th
 [Data](articles/a2678025.json)
 
 [Extended Data](ext_articles/a2678025.ext.json)
-
----
-
-### Gunatilake Rajapaksa records the incident
-
-*2024-06-08 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197531) · `si`
-
-Three MPs and Fort Police officers have recorded statements about an attack involving MP Gunatilake Rajapaksa. His son accused MP Mahindananda Aluthgamage of assault during a meeting. Rajapaksa filed a complaint with the Fort Police, who are now investigating.
-
-🟩
-
-Three members have recorded statements from three MPs regarding the attack on MP Gunatilleke Rajapaksa.
-
-A group of Fort Police officers have gone to the parliament complex and recorded statements related to the investigation.
-
-Speaking to MPs who stayed in the nearby incidents had been recorded at the incident.
-
-His son Nilauupul Rajapakse lodged a complaint with the Fort police that MP Mahindananda Aluthgamage had assaulted MP Mahindananda Aluthgamage at the recently confessing group meeting.
-
-MP Gunatilake Rajapaksa has also lodged a written complaint to the Fort Police Station.
-
-The Fort Police have launched this investigation.
-
-◼️
-
-[Data](articles/b75bcc4f.json)
-
-[Extended Data](ext_articles/b75bcc4f.ext.json)
-
----
-
-### Sri Lanka, Maldives to increase ties in trade, tourism, energy
-
-*2024-06-08 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-maldives-to-increase-ties-in-trade-tourism-energy-166993/) · `en`
-
-ECONOMYNEXT – The Maldives was keen to expand relations with Sri Lanka through an investment protection treaty and double tax avoidance agreement, its visiting Minister of Foreign Affairs Moosa Zameer has said.
-
-Zameer met Sri Lankan officials including Prime Minister Dinesh Gunawardena to discuss strengthening existing ties, and exploring new avenues of cooperation, particularly on trade, investment, education and culture.
-
-“The proposed bilateral treaties and Memorandums of Understanding (MoUs) would help to further strengthen economic cooperation between Maldives and Sri Lanka,” a statement by the PM’s office said.
-
-“It is proposed to sign a Investment Protection Treaty, Double Tax Avoidance Agreement and to facilitate remittances by Sri Lankans employed in the Maldives who receive payment in Maldives currency and to facilitate Maldivian students and medical tourists to make payments in Sri Lanka.”
-
-Sri Lanka requests Maldives to relax migrant worker remittances limit
-
-...
-
-[Data](articles/7d63593a.json)
-
-[Extended Data](ext_articles/7d63593a.ext.json)
-
----
-
-### Aeronautical toroad William Anders die in an accident
-
-*2024-06-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197530) · `si`
-
-William Anders, a US astronaut known for his historic moon orbit during the Apollo 8 mission in 1968, tragically passed away in a Washington accident. His iconic Earthrise photograph remains a significant contribution to space exploration.
-
-🟩
-
-US Aehimen William Anders has died in an accident in Washington.
-
-US A / L William Anders Records as one of the three astroads entered the moon orbelling in 1968.
-
-William Anders, which is the most inspiring photograph of the planet, has been captured on the camera.
-
-The photo is considered the largest contribution to the Apollo 8 space mission.
-
-◼️
-
-[Data](articles/c96ba26e.json)
-
-[Extended Data](ext_articles/c96ba26e.ext.json)
-
----
-
-### Saudi offers free Hajj pilgrimage for Sri Lankan Muslim tri-forces personnel
-
-*2024-06-08 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99744/saudi-offers-free-hajj-pilgrimage-for-sri-lankan-muslim-tri-forces-personnel) · `en`
-
-The Saudi Arabian Government has offered Muslim members of the Sri Lankan Tri-Forces sponsored opportunity to perform the annual Hajj Pilgrimage this year (2024), for the first time in history, according to the Defence Ministry.
-
-This comes after a request made by the State Minister of Defence Premitha Bandara Tennakoon from the Ambassador of the Kingdom of Saudi Arabia Khalid Hamoud Alkahtani.
-
-In response to the State Minister’s request, the Saudi Ambassador had made necessary arrangements to obtain five special quotas from the Saudi government, the statement said.
-
-For the first time, five special sponsored quotas were made available for the Muslim Tri-Forces personnel this year, it said.
-
-...
-
-[Data](articles/adbfde31.json)
-
-[Extended Data](ext_articles/adbfde31.ext.json)
-
----
-
-### Father commits suicide due to the wife's harassment
-
-*2024-06-08 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197529) · `si`
-
-Ranjith, a 44-year-old father of four from a remote village, tragically took his own life due to severe harassment from his wife, Pushpa Kumari, who worked as a domestic helper in Saudi Arabia. After enduring physical and psychological abuse, including being locked in a room without food or water, Pushpa managed to escape with the help of her sister and local authorities. Despite reporting her ordeal to the Foreign Employment Bureau and the Saudi Embassy, she felt ignored and unsupported. Upon returning to Sri Lanka, she shared her story, highlighting the urgent need for better protection for migrant workers.
-
-🟩
-
-The victim was reported due to the inhuman harassment and torture of a healthy sexual harassment and torture he had to suffer.
-
-The 44-year-old Ranjith, a father of four children who lived in the remote village in the Dambulla Akalaola Wewa, was killed last night.
-
-His wife, his wife, was his wife, for the Saudi State House in the Saudi State on November 14 due to family economic hardship.
-
-It is through a private foreign employment agency in Dambulla.
-
-Pushpa Kummy said she was working to make money through her four housing employer to serve in a house.
-
-She says she had to face torture and torture that they had tortured.
-
-She added that he was detained when he was told in a room after he had been in a room and was kept.
-
-She added that he had lived drinking water and lived in the toilet.
-
-She had told her a sister in Saudi to torture her torture.
-
-The sister has told the Foreign Employment Bureau, Saudi Embassy and Saudi Police.
-
-Pushpa Kumari was rescued on the intervention of the Saudi police.
-
-...
-
-[Data](articles/aa30e875.json)
-
-[Extended Data](ext_articles/aa30e875.ext.json)
-
----
-
-### To get confession to Harsha
-
-*2024-06-08 16:03:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷவிடம்-வாக்குமூலம்-பெற-வேண்டும்/175-338619) · `ta`
-
-The CID aims to obtain a confession from MP Harsha de Silva, informing him about the matter.
-
-🟩
-
-The Criminal Investigation Department (CID) has announced that he should get a confession from MP Harsha de Silva.
-
-The Criminal Investigation Department further stated that Parliamentarian Harsha de Silva has been informed about this.. Remble
-
-◼️
-
-[Data](articles/a51e7b1c.json)
-
-[Extended Data](ext_articles/a51e7b1c.ext.json)
-
----
-
-### Sri Lanka logs 700 Dengue cases in seven days
-
-*2024-06-08 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-logs-700-Dengue-cases-in-seven-days/108-284411) · `en`
-
-Colombo, June 08 (Daily Mirror) - A total of 700 cases were reported over the past seven days, indicating a notable uptick in the Dengue outbreak.
-
-The surge in cases can be attributed to rainy conditions and the receding floodwaters, which create more mosquito breeding sites.
-
-As of June 07, a total of 25,619 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 5,554.
-
-The Western Province has recorded 9,348 cases, the highest province-wise.
-
-As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep Dengue at bay.
-
-◼️
-
-[Data](articles/c3f4fec0.json)
-
-[Extended Data](ext_articles/c3f4fec0.ext.json)
-
----
-
-### ‘The time to reform is now’ – Ali Sabry on Sri Lankan cricket
-
-*2024-06-08 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99743/the-time-to-reform-is-now-ali-sabry-on-sri-lankan-cricket) · `en`
-
-Sri Lanka’s Foreign Minister and Chairman of Cabinet Sub-Committee appointed to examine the issues faced by Sri Lanka Cricket says that the country’s recent disappointments in the ICC World Cup 2023 and ICC T20 World Cup are not isolated incidents.
-
-“They are stark indicators of the deep-rooted problems within our cricketing infrastructure. These issues cannot be resolved with temporary fixes.”
-
-“What we need is a bold, professional approach that frees our cricket from the control of those who have turned it into a personal enterprise,” Minister Ali Sabry said, in a post on ‘X’ (formerly Twitter) on Saturday.
-
-He pointed out that cricket is the heartbeat of Sri Lanka, a sport that has brought smiles, pride, and unity to our nation. “Our triumphs, especially the World Cup victory, have etched unforgettable memories in the hearts of all Sri Lankans. Yet, today, our cherished sport is in crisis, suffering from a decline that calls for an urgent and comprehensive overhaul.”
-
-...
-
-[Data](articles/19a0e948.json)
-
-[Extended Data](ext_articles/19a0e948.ext.json)
 
 ---

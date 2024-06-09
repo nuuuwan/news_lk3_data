@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 20:34:35**
+As of **2024-06-09 20:52:35**
 
 ## Newspaper Stats
 
-*Scraped **29,412** Articles*
+*Scraped **29,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
-adalk | 2,510
+adalk | 2,511
 adaderanalk | 3,333
 tamilmirrorlk | 3,449
 virakesarilk | 4,511
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,410 (100.0%) of 29,412 articles have been extended.
+29,412 (100.0%) of 29,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,6 +126,8 @@ This is the first time the BJP under Modi has needed support from its regional a
 
 [Data](articles/636c206d.json)
 
+[Extended Data](ext_articles/636c206d.ext.json)
+
 ---
 
 ### Harsha tells CID there is ‘no threats’ to his life
@@ -163,6 +165,8 @@ This was after the Chair of the Committee of Public Finance (COPF), speaking in 
 ...
 
 [Data](articles/d521f4c7.json)
+
+[Extended Data](ext_articles/d521f4c7.ext.json)
 
 ---
 
@@ -417,6 +421,24 @@ At the same place, two others killed in an accident that took place in two train
 [Data](articles/dff1bef7.json)
 
 [Extended Data](ext_articles/dff1bef7.ext.json)
+
+---
+
+### කෝටිපති ව්‍යාපාරිකයෙකුගෙන් ලක්ෂ 1500ක් වංචා කළ වංචාකාරියක් අල්ලයි
+
+*2024-06-09 18:33:09* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපාරිකයෙකුගෙන්-ලක්ෂ-1500ක්-වංචා-කළ-වංචාකාරියක්-අල්ලයි/11-410102) · `si`
+
+දකුණු පළාතේ ප්‍රසිද්ධ අවන්හලක් පවත්වාගෙන යන කෝටිපති ව්‍යාපාරිකයකුගෙන්  කෝටි 15 කට ආසන්න මුදලක් ලබාගෙන එය ලබා නොදී වංචා කර සැඟව සිටි මහා පරිමාණ වංචා කාරියක් වන  54 හැවිරිදි  කාන්තාවක් අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+අත්අඩංගුවට ගත් එම සැකකාරිය මීට පෙර මහේස්ත්‍රාත්වරියක් ලෙස පෙනී සිට මත්ද්‍රව්‍ය  සම්බන්ධයෙන් චෝදනා ලබා රිමාන්ඩ්  ගත වූ සැකකාරියකගෙන් රුපියල් හය ලක්ෂයකට අධික මුදලක් ලබා ගැනීමට තැත් කිරීම සම්බන්ධයෙන් චෝදනා ලැබු  තැනැත්තියක් බව පොලිසිය කියයි.
+
+එම සැකකාරිය පරිහරණය කළ අති සුඛෝභෝගී මෝටර් රථයක් , ස්මාට් වර්ගයේ ජංගම දුරකථන හතරක් හා ලැෆ් ටොෆ් පරිගණක දෙකක්ද පොලිස් භාරයට ගෙන ඇත.
+
+කොළඹ අලුත් කඩේ පිහිටි ශ්‍රේෂ්ඨාධිකරණ භූමියේදී මිතුරෙකුගේ නඩුවක් සඳහා පැමිණි අවස්ථාවේදී තමාගේ මිතුරන් දෙදෙනකු මාර්ගයෙන් මෙම කාන්තාව හඳුනාගත් බවත් අනතුරුව තමාගේ යෙහෙළියක වශයෙන් විශ්වාසය දිනා ගනිමින් නැවත ලබා දෙන බවට පොරොන්දු වී  රුපියල්  14 කෝටි අනූපන් ලක්ෂයක මුදලක් අවස්ථා හතරකදී ඉල්ලා ගත් බවත් එම ව්‍යාපාරිකයා කරන ලද පැමිණිල්ලේ සඳහන්ය.
+
+...
+
+[Data](articles/8c16b2e0.json)
 
 ---
 
@@ -2235,23 +2257,5 @@ The Indian foreign ministry confirmed that leaders from Sri Lanka, the Maldives,
 [Data](articles/407e2e5d.json)
 
 [Extended Data](ext_articles/407e2e5d.ext.json)
-
----
-
-### President leaves for Modi’s swearing-in
-
-*2024-06-09 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-leaves-for-Modis-swearing-in/108-284417) · `en`
-
-Colombo, June 9 (Daily Mirror) - President Ranil Wickremesinghe departed for New Delhi a short while ago at the invitation of the Prime Minister of India, Shri Narendra Modi, to attend his swearing-in ceremony scheduled for this evening.
-
-Prime Minister Modi will take oath today, as too will members of his new cabinet, at the Rashtrapati Bhawan in Delhi. He will be the first three-term Prime Minister since Congress stalwart Jawaharlal Nehru.
-
-A three-layered security has been put in place at Rashtrapati Bhawan where he will be administered oath of office by President Droupadi Murmu. Officials said commandos from Delhi Police's SWAT and NSG have been deployed around the venue and other strategic locations as Delhi remains on high alert for the event.
-
-◼️
-
-[Data](articles/3565d2f8.json)
-
-[Extended Data](ext_articles/3565d2f8.ext.json)
 
 ---

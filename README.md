@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 23:34:40**
+As of **2024-06-09 23:53:34**
 
 ## Newspaper Stats
 
-*Scraped **29,430** Articles*
+*Scraped **29,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,592
-economynextcom | 1,675
+economynextcom | 1,678
 dailyftlk | 1,754
 adalk | 2,513
 adaderanalk | 3,335
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,428 (100.0%) of 29,430 articles have been extended.
+29,430 (100.0%) of 29,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ඉන්දීය අගමැතිවරයාගේ දිවුරුම්දීමේ උත්සවය ට ගිය ජනපති රනිල් ට විශේෂ පිළිගැනීමක්
+### Ranil has been recognized at the Indian Prime Minister's swearing in ceremony
 
 *2024-06-09 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197577) · `si`
 
-තෙවැනි වරටත් ඉන්දියාවේ අග්‍රාමාත්‍ය ධුරයට පත් වූ නරේන්ද්‍ර මෝදි මහතා ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මිය ඉදිරියේ රාෂ්ට්‍රපති භවන්හි දී දිවුරුම් දීමෙන් පසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ රජ්‍ය නායකයෝ ඔහුට අද (09) රාත්‍රියේ උණුසුම් සුබපැතුම් එක් කළහ.
+At the Indian PM's swearing-in ceremony, Narendra Modi was reappointed for his third term, with Sri Lanka's President Wickremesinghe in attendance. They pledged to enhance bilateral relations. The event, held at Rashtrapati Bhavan in New Delhi, was attended by over 9,000 guests, including religious leaders, actors, businessmen, and scholars.
 
-දෙරට අතර බැඳීම් තවදුරටත් ශක්තිමත් කර ගනිමින් ඉදිරියට යාමට නායක දෙපළ මෙහිදී එකඟතාවය පළකළහ.
+🟩
 
-ඉන්දීය අග්‍රාමාත්‍යවරයාගේ දිවුරුම් දීමේ උත්සවය නවදිල්ලි රාෂ්ට්‍රපති භවන්හිදී අද පස්වරුවේ ආරම්භ වූ අතර  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අසල්වැසි රාජ්‍ය නායකයෝද  විශේෂ ආරාධිතයෝ ද ඊට සහභාගී වූහ.
+Narendra Modi, who was appointed as the Prime Minister of India for the third consecutive year, the state leaders, who was president of Rashtrari Wickremesinghe, joined him today (09).
 
-ආරාධිත අමුත්තන් 9000කට ආසන්න පිරිසක් වෙනුවෙන් රාෂ්ට්‍රපති භවන් ඉදි‍රිපස භූමියේ අසුන් පනවා තිබුණි.
+The two leaders agreed to continue strengthening ties between the two countries.
 
-ආගමික නායකයන් නළු නිළියන්, ව්‍යාපාරිකයන්, විද්වතුන් ඇතුළු විශාල පිරිසක් මේ අවස්ථාවට එක්ව සිටියහ.
+The swearingment ceremony of the Prime Minister of the Indian Prime Minister began at New Delhi Rashtrapara Bhavanhe this afternoon.
 
-නියම කරගත් වේලාව් වූ රාත්‍රී 7ට උත්සවය ආරම්භ වූ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ආසන පනවා තිබුණේ මාලදිවයින් ජනාධිපති හා මුරුසි රාජ්‍යයේ අගමැති අතරය.
+Rashtrapathi Bhavan front was sitting on behalf of nearly 9,000 guests.
+
+Religious leaders, including actors, businessmen, scholars were present at the occasion.
+
+The ceremony was held at the 7 nights, which was held at the Maldives president and the Murdivin president and the Murdi State.
 
 ◼️
 
 [Data](articles/641e0aef.json)
+
+[Extended Data](ext_articles/641e0aef.ext.json)
 
 ---
 
@@ -346,23 +352,33 @@ Meanwhile, Modi's re -election as Indian Prime Minister said that the Indian Pri
 
 ---
 
-### එකට මත්පැන් බී පුද්ගලයා චීවරධාරියාගේ ප්‍රහාරයෙන් මරුට
+### Alcohol b person killed in yesterday's monk attack
 
 *2024-06-09 20:05:06* · [`adalk`](https://www.ada.lk/breaking_news/එකට-මත්පැන්-බී-පුද්ගලයා-චීවරධාරියාගේ-ප්‍රහාරයෙන්-මරුට/11-410107) · `si`
 
-චීවරධාරියෙකු හා එක්ව මත්පැන් පානය කිරීමේ යෙදී සිටි හැත්තෑ දෙහැවිරිදි පුද්ගලයෙකු චීවරධාරියාගේ ප්‍රහාරයකට ලක්ව දඹදෙණිය රෝහලට ඇතුළත් කිරීමෙන් පසු මරණයට පත් වී ඇතැයි ගිරිඋල්ල පොලීසිය කියයි.
+A monk attacked and killed a man named Ruwanpura Andrew Salpetha Salpea (72) in Sri Lanka. The assailant, another monk without a permanent residence, was previously convicted for murder. He lived alone but temporarily resided with his cousin. The Girulla Police arrested him after the incident, which occurred near the Dambadeniya Base Hospital where the victim died upon admission.
 
-ගිරිඋල්ල පොලිස් වසමේ මාරවිටගල්ගොඩේවත්ත මාරවිට,දඹදෙණිය ලිපිනයේ පදිංචිව සිටි රුවන්පුර අන්දිරිස් සිල්වලාගේ ඇල්බටි සිංඤ්ඤෝ (72)නමැත්තෙකි.
+🟩
 
-ස්ථිර වාසස්ථානයක් නොමැති චීවරධාරියා කජුලන්දවත්ත ප්‍රදේශයේ පදිංචිව සිටිබවත් ඔහු මිය ගිය පුද්ගලයා සමග මත්පැන් පානය කිරීමේ යෙදී සිටියදී ඇති වූ බහින්බස්වීමකින් පසු මෙසේ ප්‍රහාරයට ලක් වී ඇති බවත් මූලික පොලිස් පරීක්ෂණවලින් හෙළි වී ඇත.
+Giriulla Police say that a member of the monk was assaulted by a monk who was involved in alcohol.
 
-පහරදීම හේතුවෙන් තුවාලකරු දඹදෙණිය මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් ඇත.
+Ruwanpura Andrew Salpetha Salpea (72) was a resident of Marawiteniyawatta, Marawiteniyawatta.
 
-සැකකරු නිවසේ තනිව ජීවත් වී ඇති අතර, හිමිනමගේ මව සහ වැඩිමහල් සහෝදරයා ඥාති නිවසක වෙනම ජීවත්ව සිට ඇත.ඝාතනයෙන් පසුව මව සහ වැඩිමහල් සහෝදරයා තමන් පදිංචිව සිටි නිවසට පැමිණ ඇති අතර, ඝාතනය සිදුවූ ස්ථානයේ තිබූ ලේ පැල්ලම්ද ඔවුන් දෙදෙනා විසින් සෝදා තිබූ බව පොලීසිය පවසයි.
+Preliminary police investigations have revealed that the monk resident of Kajulandawatta, who had no permanent dwelling, was residing in Kajulandawatta.
 
-...
+The victim died on admission to the Dambadeniya Base Hospital due to the attack.
+
+The suspect has been living alone and has been alive in a cousin's house.
+
+The monk who is the monk is also the convicted of the grace of human killing, police said.
+
+The girilla police complaur has been taken into custody by the premises of the deceased Magistrate Upul Alagawanna, Narammala Acting Magistrate.
+
+◼️
 
 [Data](articles/72acb353.json)
+
+[Extended Data](ext_articles/72acb353.ext.json)
 
 ---
 
@@ -1496,6 +1512,24 @@ According to the budget proposals adopted for 2024, parliamentary approval has b
 
 ---
 
+### Sri Lanka President, South Asia leaders at Indian PM’s swearing in
+
+*2024-06-09 13:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-south-asia-leaders-at-indian-pms-swearing-in-167072/) · `en`
+
+ECONOMYNEXT – South Asian leaders including Sri Lanka’s president, Ranil Wickremesinghe, will visit India for the Narendra Modi’s swearing in ceremony held on the 9 th of June, the Indian High Commission said.
+
+President of Maldives, Mohamed Muizzu; Vice-President of Seychelles, Ahmed Afif; Prime Minister of Bangladesh, Sheikh Hasina; Prime Minister of Mauritius, Pravind Kumar Jugnauth, Prime Minister of Nepal, Pushpa Kamal Dahal ‘Prachanda’; and Prime Minister of Bhutan, Tshering Tobgay, have accepted the invitation to attend.
+
+After the swearing-in ceremony, the leaders will attend a Banquet hosted by President Droupadi Murmu at Rashtrapati Bhavan, the same evening.
+
+Prime Minister Modi won a third consecutive term as prime minister of India, though with a diminished majority.
+
+◼️
+
+[Data](articles/96c4d90e.json)
+
+---
+
 ### 2025 Interim Account
 
 *2024-06-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197558) · `si`
@@ -1739,6 +1773,26 @@ It is reported that after the suspect was admitted to the Negombo Hospital, as o
 [Data](articles/9ebefac2.json)
 
 [Extended Data](ext_articles/9ebefac2.ext.json)
+
+---
+
+### Sri Lanka central bank avoids negative equity with imputed values for restructured bonds
+
+*2024-06-09 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-avoids-negative-equity-with-imputed-values-for-restructured-bonds-167048/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has used an imputed valuation of its re-structured government securities, to get over lack of a market price, which may have allowed it to avoid negative net assets and even bigger losses in 2023.
+
+The central bank reported losses 114.3 billion rupees in 2023, solely due to a 766 billion rupee ‘one day loss’ from restructuring its Treasury bill portfolio into long term bonds with ‘step down’ coupons.
+
+The Treasuries portfolio, acquired to drive monetary instability from 2020, initially gave it high profits as rates went up to correct balance of payment deficits.
+
+Related Sri Lanka’s central bank makes more than Rs500bn in profits to June 2023: analysis
+
+Unlike in 2022, when a currency collapse led to losses on its foreign assets portfolio, which was negative due to swaps not being outlawed by the legislature, foreign currency income was a positive 83 billion rupees, compared to a loss of 778 billion in 2022.
+
+...
+
+[Data](articles/2c5ae260.json)
 
 ---
 
@@ -2221,43 +2275,5 @@ Modi does not know the news that the people of Tamil Nadu are different from rel
 [Data](articles/01599eb5.json)
 
 [Extended Data](ext_articles/01599eb5.ext.json)
-
----
-
-### The Commission is extended to issue the report to give the report to the report of election legal revision
-
-*2024-06-09 11:00:03* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති--සංශෝධන-නිර්දේශ--වාර්තාව-ලබා-දීමට--කොමිසමට-දුන්-කාලය-දිගුකෙරේ/11-410090) · `si`
-
-President Ranil Wickremesinghe has extended the Commission to review and amend all existing election laws to better suit current needs, focusing on increasing women and youth participation. The Commission, chaired by President's Counsel Vajuge and including Gerard Depp among others, aims to recommend changes to ensure fair representation and introduce constitutional amendments regarding political party conduct. This initiative was announced through special gazette notifications on November 2 and 16 last year, marking significant steps towards electoral reform in Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe issued a special gazette notification to submit the recommendations of President Ranil Wickremesinghe to submit the recommendation of all existing election laws to amend all existing election laws to meet the current needs.Has been done.
-
-Elections to increase the preparation of women and youth and the results of the election publishers and the results of the election publishers and the results are the opportunity to represent the electoral Sri Lankans and the opportunity to represent the electoral Sri Lankans.The Commission is expected to make recommendations for non-state sector to use the post-in-the-government and monetary electoral election.
-
-...
-
-[Data](articles/161ef529.json)
-
-[Extended Data](ext_articles/161ef529.ext.json)
-
----
-
-### West
-
-*2024-06-09 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185639) · `ta`
-
-The 6th Amendment aimed to curb Tamil independence efforts but was criticized for infringing on free speech. On June 1, 2006, Richard Bouchar, the Secretary of the Tamil people, supported their demands and pledged a lasting political solution.
-
-🟩
-
-The 6th Amendment, which was introduced to reduce the ability to bring the Tamil people to their freedom, was dismantled by one of the international basic human rights freedom of speech.. Moreover, the Southern and Central Asian Regional Response State Secretary of the War on June 1, 2006, Richard Bouchar, who was already the secretary of the Tamil people, is justified in the demands of the Tamil people and has promised a long -standing political solution.
-
-◼️
-
-[Data](articles/392940b8.json)
-
-[Extended Data](ext_articles/392940b8.ext.json)
 
 ---

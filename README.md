@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 11:04:10**
+As of **2024-06-09 11:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,319** Articles*
+*Scraped **29,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,494
 adaderanalk | 3,319
-tamilmirrorlk | 3,439
+tamilmirrorlk | 3,440
 virakesarilk | 4,494
 dailymirrorlk | 4,653
 adaderanasinhalalk | 4,712
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,317 (100.0%) of 29,319 articles have been extended.
+29,319 (100.0%) of 29,320 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,22 @@ The Yakkaru Police Special Task Force is continuing further investigations into 
 
 [Data](articles/0225756e.json)
 
+[Extended Data](ext_articles/0225756e.ext.json)
+
+---
+
+### பிரதமருடன் கலந்துரையாடல்
+
+*2024-06-09 10:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பிரதமருடன்-கலந்துரையாடல்/73-338633) · `ta`
+
+மட்டக்களப்பு பொது நூலகத்தின் கட்டுமான பணிகளை விரைவுப்படுத்தி நிறைவு செய்வதற்கான மேலதிக நிதி ஒதுக்கீடு மற்றும் அமைச்சரவையில் விசேட  அமைச்சரவை பத்திரம் சமர்ப்பித்தல், வேலைத்திட்டங்களை முன்னெடுக்கும் போது ஏற்படுகின்ற இடையூறுகளை கையாள்வதற்கான பொறி முறைமைகள் போன்றன தொடர்பில் ஆராயும் விசேட கலந்துரையாடல் பாராளுமன்ற கட்டிட தொகுதியில் நடைபெற்றது.
+
+குறித்த கலந்துரையாடலில் பிரதமரும், பொது நிர்வாக உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களுக்கான அமைச்சருமான தினேஷ் குணவர்த்தன மற்றும் கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சரும், மட்டக்களப்பு மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவ.சந்திரகாந்தன் ஆகியோர் தலைமையில் முன்னெடுக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/c5515fb4.json)
+
 ---
 
 ### 35 trains cancelled this morning as railway strike continues
@@ -57,6 +73,8 @@ Sri Lanka Railways (SLR) stated that a total of 35 scheduled train journeys were
 ◼️
 
 [Data](articles/80e7c400.json)
+
+[Extended Data](ext_articles/80e7c400.ext.json)
 
 ---
 
@@ -2247,41 +2265,5 @@ The motive behind the attack has not yet been ascertained as of yet while Giriul
 [Data](articles/5eb49ccf.json)
 
 [Extended Data](ext_articles/5eb49ccf.ext.json)
-
----
-
-### Can Sri Lanka go to Super 8?
-
-*2024-06-08 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197521) · `si`
-
-Sri Lanka faces challenges to reach the Super 8 stage in the T20 World Cup after losing to Bangladesh, who made history by not being defeated in their first two matches. Despite Bangladesh's strong performance, including a crucial six by Tawfiq Hossain in the 12th over, Sri Lanka's bowling struggled, giving away 3rd wicket runs within 3 balls. With this defeat, Sri Lanka needs to win all remaining matches to qualify for the Super 8s.
-
-🟩
-
-Sri Lanka was defeated by the second match today (08) in the T20 World Cup due to poor batting.
-
-This is the first time Bangladesh has been defeated in a 20-day World Cup.
-
-Bangladesh won the toss and invited Bangladesh to bat first.
-
-Bangladesh beat up to 124 runs for the loss of 9 wickets at the end of 20 overs
-
-Sri Lanka bowlers scored 3rd 3 wickets in 3 runs.
-
-The victory path of the Bangladesh team was opened with the six hits on Tawoan HRRGDOY in the 12th overward.
-
-As he finished the 18th and seven overs of Sri Lanka, 16 overs of the four-permanent bowlers were given their expectations for Sri Lanka.
-
-Bangladesh had to score 11 runs for the final two overs, but Venchi Shanaka or Angelo Mathews had to be elected.
-
-Views were responsible for sending the 19th over the 19th and score of the score of 11 runs needed to victory.
-
-With the defeat, Sri Lanka has to access the 8 World Cup Superways continuously,
-
-...
-
-[Data](articles/39ab541f.json)
-
-[Extended Data](ext_articles/39ab541f.ext.json)
 
 ---

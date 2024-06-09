@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 02:04:21**
+As of **2024-06-10 02:19:06**
 
 ## Newspaper Stats
 
-*Scraped **29,439** Articles*
+*Scraped **29,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 284
 newsfirstlk | 363
 islandlk | 1,593
 economynextcom | 1,678
-dailyftlk | 1,754
+dailyftlk | 1,768
 adalk | 2,513
 adaderanalk | 3,335
 tamilmirrorlk | 3,449
@@ -26,11 +26,233 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,438 (100.0%) of 29,439 articles have been extended.
+29,439 (100.0%) of 29,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Experts highlight policy challenges for new Govt. at Pathfinder Foundation event
+
+*2024-06-10 01:49:43* · [`dailyftlk`](https://www.ft.lk/news/Experts-highlight-policy-challenges-for-new-Govt-at-Pathfinder-Foundation-event/56-762870) · `en`
+
+The distinguished audience attentively listens to the virtual address by Prof. Premachandra Athukorala
+
+The distinguished audience, including esteemed diplomatic representatives, actively participates in the event
+
+The main speakers deliver their insightful presentations, engaging the audience with their expertise. From left: UGC former Chairman and Ambassador to the Philippines Prof. Gamini Samaranayaka, Senior Economic Advisor to the President Dr. R.H.S. Samarathunga, Pathfinder Foundation Chairman Amb. (Retd.) Bernard Goonetilleke, University of Colombo Emeritus Professor of Economics Prof. Sirimal Abeyratne, and Pathfinder Foundation Executive Director Dr. Dayaratna Silva
+
+The distinguished audience, comprising local academia, institutional representatives, and subject matter experts, engages in thoughtful discussions
+
+The Pathfinder Foundation successfully concluded its Fourth Dialogue with Diplomats, focusing on ‘Policy Challenges of a New Government.’
+
+...
+
+[Data](articles/c44bba55.json)
+
+---
+
+### Indian PM makes history with third term
+
+*2024-06-10 01:46:00* · [`dailyftlk`](https://www.ft.lk/news/Indian-PM-makes-history-with-third-term/56-762869) · `en`
+
+India’s Prime Minister Narendra Modi with leaders of several countries including President Ranil Wickremesinghe (fourth from right) after being sworn in for his third term
+
+Narendra Modi was sworn in as India’s Prime Minister for a third term in a grand ceremony at the presidential palace in Delhi yesterday.
+
+The leader of the Bharatiya Janata Party took his oath, saying he would “do right to all manner of people without affection or ill-will”.
+
+Modi’s BJP-led National Democratic Alliance won the general election with 293 seats, a much lower margin than predicted by exit polls.
+
+The election saw a resurgence of India’s opposition, which won 234 seats.
+
+Thousands of guests have been attending his inauguration at Delhi’s presidential palace. Among them are the heads of neighbouring Bangladesh, Nepal, Sri Lanka, and the Maldives – but not Pakistan or China.
+
+Tight security has been in place in Delhi, which was declared a no-fly zone, with more than 2,500 police officers deployed around the venue.
+
+...
+
+[Data](articles/6fcde23f.json)
+
+---
+
+### Ali Sabry to attend BRICS Ministerial Session in Russia
+
+*2024-06-10 01:44:05* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-attend-BRICS-Ministerial-SessioninRussia/56-762868) · `en`
+
+On an invitation extended by the Foreign Minister of Russia, Foreign Minister Ali Sabry is scheduled to leave for Russia to attend the BRICS Ministerial Session which will be held in Nizhniy Novgorod in Russia on 11 June.
+
+The Foreign Minister has been invited for the Ministerial Meeting as the current Chair of the IORA Council of Ministers.
+
+Russia is hosting the BRICS Ministerial Session under the theme “Strengthening Multilateralism for Fair Global Development and Security”.
+
+During the Meeting of the Foreign Ministers from the countries in the Global South, Foreign Minister Ali Sabry is scheduled to deliver a Statement on the “role of BRICS and Global South in reforming global governance, ensuring sustainable development, enhancing global security”.
+
+On the side-lines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including the host country.
+
+◼️
+
+[Data](articles/409b3691.json)
+
+---
+
+### BALPP announces new course ‘Executive Credential in Leadership and Public Policy’
+
+*2024-06-10 01:43:40* · [`dailyftlk`](https://www.ft.lk/news/BALPP-announces-new-course-Executive-Credential-in-Leadership-and-Public-Policy/56-762867) · `en`
+
+The Bandaranaike Academy for Leadership and Public Policy (BALPP) is the first and premier institute in Sri Lanka, for education and training on leadership skills with public policy as a core discipline. Beginning its second year of operations, the BALPP is now launching a new course: Executive Credential in Leadership and Public Policy - ECLPP, in October 2024.
+
+The primary reason for commencing this particular course stems from the importance of leadership and public policy education in Sri Lanka, particularly during these challenging times.
+
+As Sri Lanka navigates through a crisis of leadership, political direction and governance, it needs a new generation of leaders who are equipped with futuristic knowledge, 21st century skills, and an ethical grounding with a sense of social responsibility; all which are necessary to emerge from today’s multiple crises and to steer the country towards a bright and prosperous future.
+
+...
+
+[Data](articles/43123656.json)
+
+---
+
+### Sri Lanka elected to United Nations Economic and Social Council
+
+*2024-06-10 01:42:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankaelected-to-United-Nations-Economic-and-Social-Council/56-762866) · `en`
+
+Sri Lanka has been elected by the United Nations General Assembly (UNGA) to the United Nations Economic and Social Council (ECOSOC) at the elections held in New York, on 7 June, for a three-year term commencing on 1 January 2025.
+
+Sri Lanka obtained 182 votes, of the 189 member States present and voting, securing the 2nd highest vote count from the region, and the 7th highest number overall. Sri Lanka was previously elected to the ECOSOC from 1985-1989 and from 2006-2008.
+
+As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programs, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide.
+
+...
+
+[Data](articles/527a0318.json)
+
+---
+
+### Ex-CID Chief takes over as head of NPP’s Retired Police Collective
+
+*2024-06-10 01:40:13* · [`dailyftlk`](https://www.ft.lk/news/Ex-CID-Chief-takes-over-as-head-of-NPP-s-Retired-Police-Collective/56-762865) · `en`
+
+Says decision to join NPP was driven by a desire to restore rule of law in SL
+
+Highlights instances of Police misconduct such as failure to prevent State-sponsored attack on Aragalaya
+
+Stresses need for disciplinary action against officers found guilty of neglecting their duty relating to Easter Sunday attacks
+
+Raises concerns on threats received by Collective members and instances of political persecution, including the case of SSP Shani Abeysekara
+
+Expresses determination to bring about change and pledged to work towards restoring rule of law with support of the NPP
+
+Police Criminal Investigations Department (CID) former Head Senior DIG Ravi Seneviratne assumed leadership of the National People’s Power (NPP) party’s Retired Police Collective yesterday.
+
+Speaking at the Collective’s National Conference in Maharagama, Seneviratne said his decision to join the NPP was driven by a desire to restore the rule of law in the country, which he believes has deteriorated significantly in recent times.
+
+...
+
+[Data](articles/dc478f4c.json)
+
+---
+
+### Lawyers’ Collective opposes President’s proposal to extend AG’s term
+
+*2024-06-10 01:37:49* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-opposes-President-s-proposal-to-extend-AG-s-term/56-762864) · `en`
+
+Lawyers’ Collective, a civil society group comprising legal professionals, has voiced its opposition to the recent recommendation by President Ranil Wickremesinghe to extend the term of Attorney General Sanjaya Rajaratnam beyond the mandatory retirement age of 60. In a letter addressed to the members of the Constitutional Council, the Prime Minister, and other key figures, the letter outlined several serious concerns regarding the proposal.
+
+The Collective recalled a similar situation in 2008 when an attempt to extend the term of an Attorney General resulted in a Fundamental Rights application before the Supreme Court. They noted that this legal challenge ultimately led to the Attorney General in question opting for retirement rather than accepting the extension. According to the Collective, the Constitution does not empower the Constitutional Council to approve extensions for officials who are subject to a mandatory retirement age, thereby rendering such a proposal legally questionable.
+
+...
+
+[Data](articles/359d8c94.json)
+
+---
+
+### Warm welcome to President in India
+
+*2024-06-10 01:37:18* · [`dailyftlk`](https://www.ft.lk/news/Warm-welcome-to-President-in-India/56-762863) · `en`
+
+President Ranil Wickremesinghe received a warm welcome including a performance by traditional dancers yesterday on his arrival at the Indira Gandhi International Airport New Delhi to participate at the swearing in ceremony of Prime Minister Narendra Modi for his third term. Wickremesinghe was received by Indian Foreign Ministry Secretary P. Kumaran, Indian Ocean Affairs Secretary Punin Agrawal, Indian High Commissioner in Colombo Santhosh Jha and Sri Lankan High Commissioner in India Shenuka Seneviratne.
+
+◼️
+
+[Data](articles/707feb5d.json)
+
+---
+
+### Gaza health ministry says Israeli hostage rescue killed 274 Palestinians
+
+*2024-06-10 01:35:48* · [`dailyftlk`](https://www.ft.lk/news/Gaza-health-ministry-says-Israeli-hostage-rescue-killed-274-Palestinians/56-762862) · `en`
+
+BBC: The Hamas-run health ministry in Gaza says an Israeli raid on a refugee camp – which led to the rescue of four hostages – killed 274 people, including children and other civilians.
+
+On Saturday Israel’s forces, backed by air strikes, fought intense gun battles with Hamas in and around the Nuseirat refugee camp, freeing the captives.
+
+Noa Argamani, 26, Almog Meir Jan, 22, Andrei Kozlov, 27, and Shlomi Ziv, 41, who were abducted from the Nova music festival on 7 October have been returned to Israel.
+
+The Israeli military has estimated that fewer than 100 people died in the operation.
+
+But the latest figures from the Hamas-run health ministry in Gaza would, if confirmed, make it one of the deadliest days of the conflict so far.
+
+People living in the densely-populated area have described the terror of coming under intense bombardment and heavy gunfire.
+
+One man, Abdel Salam Darwish, told the BBC he was in a market buying vegetables when he heard fighter jets from above and the sound of gunfire.
+
+...
+
+[Data](articles/c526ec97.json)
+
+---
+
+### USAID supports SL in enhancing investment climate through commercial Alternative Dispute Resolution
+
+*2024-06-10 01:34:39* · [`dailyftlk`](https://www.ft.lk/business/USAID-supports-SL-in-enhancing-investment-climate-through-commercial-Alternative-Dispute-Resolution/34-762861) · `en`
+
+A ceremony in Colombo honoured newly trained commercial mediators, attended by US Embassy Deputy Chief of Mission Doug Sonnek (centre). These mediators received their training as part of USAID’s Efficient and Effective Justice activity
+
+A group of newly accredited commercial mediators initiate a mock mediation demonstration with a handshake during a ceremony. This event celebrates their successful training, supported by USAID’s Efficient and Effective Justice activity
+
+The United States, through the United States Agency for International Development (USAID), is supporting Sri Lanka’s efforts to improve its investment climate by enhancing access to commercial alternative dispute resolution (ADR).
+
+...
+
+[Data](articles/d041d063.json)
+
+---
+
+### Govt. advances tax revenue reforms: Siyambalapitiya
+
+*2024-06-10 01:29:33* · [`dailyftlk`](https://www.ft.lk/business/Govt-advances-tax-revenue-reforms-Siyambalapitiya/34-762860) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya last week announced that the Government is progressively implementing measures to develop and regularise tax revenue collection through its various revenue departments.
+
+Speaking during the Parliamentary debate on the Public Debt Management Act last Friday, Siyambalapitiya highlighted the role of the Parliamentary Committee on Ways and Means in overseeing the country’s financial affairs.
+
+“This committee is tasked with addressing issues related to taxation, duties, and other Government levies, and proposing appropriate methods to the Finance, Economic Stabilisation and National Policy Ministry,” he added.
+
+The State Minister emphasised that this oversight has been instrumental in supporting policy changes and improving revenue collection strategies.
+
+Siyambalapitiya noted that the Inland Revenue Department (IRD) is already leveraging new recommendations to streamline taxpayer registration processes and enhance the recovery of outstanding taxes.
+
+...
+
+[Data](articles/79c7e1fc.json)
+
+---
+
+### Letters from now: Election musings
+
+*2024-06-10 01:26:04* · [`dailyftlk`](https://www.ft.lk/columns/Letters-from-now-Election-musings/4-762859) · `en`
+
+I must apologise for the lengthy delay. After eight and a half years of five days a week of mainly live TV programs I simply had to take a break and here I am writing to you – the powers that be, may give me a slot on TV again but that’s an entirely different trajectory.
+
+For now, dear Sinna, let me share with you what I heard from my rather dear friend Raj Uncle who never left the North when Prabha started to be a pain in the side of JR and PrayMay and Chandrika Missy and the others who followed.
+
+Best bit is, he never even contemplated leaving the land of his birth.
+
+...
+
+[Data](articles/3e2450b6.json)
+
+---
 
 ### Poverty and homelessness stare elders in the face - EDITORIAL
 
@@ -49,6 +271,22 @@ On the tea and rubber plantations -until the president recently forced owners to
 [Data](articles/c21f76e6.json)
 
 [Extended Data](ext_articles/c21f76e6.ext.json)
+
+---
+
+### From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies
+
+*2024-06-10 01:20:58* · [`dailyftlk`](https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) · `en`
+
+“The definition of insanity is doing the same thing over and over again and expecting different results”
+
+I am replying to Cathrine Weerakkody’s (hereafter referred to as Weerakkody) article titled, “President Ranil’s handling of the crisis and what’s next for Sri Lanka”, dated 7 June 2024, in the Daily FT (https://www.ft.lk/opinion/President-Ranil-s-handling-of-the-crisis-and-what-s-next-for-Sri-Lanka/14-762758).
+
+This reply aims to present a more nuanced perspective, encouraging readers to critically evaluate the narratives put forth and consider the multifaceted challenges facing Sri Lanka.
+
+...
+
+[Data](articles/7ce23d2b.json)
 
 ---
 
@@ -109,6 +347,22 @@ Batting first, India scored 119 runs.
 [Data](articles/f2755222.json)
 
 [Extended Data](ext_articles/f2755222.ext.json)
+
+---
+
+### Modi 3.0 in India: What next for Sri Lanka?
+
+*2024-06-09 23:44:12* · [`dailyftlk`](https://www.ft.lk/columns/Modi-3-0-in-India-What-next-for-Sri-Lanka/4-762835) · `en`
+
+Modi 3.0 era will provide a good opportunity for Sri Lanka to attain its development goals
+
+Since beggars are not choosers, it does not matter for Sri Lanka whether it is Narendra Modi or Rahul Gandhi in power. Sri Lanka, like any beggar, will accept anything that will come from India if it gives the country a solace. In this connection, not only the economic materials, but also the economic strategies adopted by India will matter for Sri Lanka
+
+The Lok Sabha elections in India were just concluded with disappointment to both leading contenders, twice Prime Minister Narendra Modi and Nehru family’s heir to power Rahul Gandhi.
+
+...
+
+[Data](articles/f9aed2bc.json)
 
 ---
 
@@ -1937,327 +2191,5 @@ The Prime Minister's official swearing in the prime minister is scheduled to hol
 [Data](articles/d2d4e8bd.json)
 
 [Extended Data](ext_articles/d2d4e8bd.ext.json)
-
----
-
-### School students injured in bus accident
-
-*2024-06-09 12:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-பாடசாலை-மாணவர்கள்-காயம்/175-338642) · `ta`
-
-In a tragic bus accident, thirteen school students and parents were injured and hospitalized at Varakapola Hospital. The incident occurred when the vehicle lost control and plunged into a stream near Warakapola.
-
-🟩
-
-Thirteen students and parents who were injured in the accident have been admitted to Varakapola Hospital.
-
-The Varakapola police said that they had lost the speed and fell into the stream in the Warakapola area.
-
-◼️
-
-[Data](articles/c53a3a9b.json)
-
-[Extended Data](ext_articles/c53a3a9b.ext.json)
-
----
-
-### Ugandan national with cocaine arrested at Katunayake airport
-
-*2024-06-09 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ugandan-national-with-cocaine-arrested-at-Katunayake-airport/108-284420) · `en`
-
-BIA, June 9 (Daily Mirror) - A 31-year-old Ugandan national was arrested by officers of the Police Anti-Narcotics Bureau at the Bandaranaike International Airport, Katunayake while in possession of cocaine.
-
-The suspect arrived in the country from Qatar, having swallowed the cocaine pills for concealment.
-
-After being admitted to the Negombo Hospital, 14 cocaine pills were recovered from the suspect.
-
-◼️
-
-[Data](articles/532f7601.json)
-
-[Extended Data](ext_articles/532f7601.ext.json)
-
----
-
-### Seven arrested for stone
-
-*2024-06-09 12:23:36* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂා-රෝහලට-යන-ලංගම-බස්-රථයට-ගල්-ප්‍රහාරයක්-එල්ල-කල-සිද්දියට-හතක්-අත්-අඩංගුවට/11-410095) · `si`
-
-Seven individuals, including private bus drivers and conductors, have been arrested for allegedly throwing stones at an SLTB bus traveling from Anamaduwa to Maharagama. The incident occurred on the 9th of the month, causing damage to the bus. Two motorcycles were used in the attack, which targeted the bus as it navigated through Anamaduwa town. The suspects, aged between 25 and 30, will face charges of causing harm with stones in court.
-
-🟩
-
-The SLTB buses traveling from Anamaduwa to Maharagama has been arrested in the 9th of the 9th of the 9th.
-
-Arrested has arrested Btituluoya, Kirawankuliya, Bangadeniya. Private passenger bus drivers, conductors, including private passenger bus drivers, conductors, including the Wennappuwa are said to be 25 and 30 years.
-
-The NA-9032 bus belonging to the Chilaw depot of the Sri Lanka Transport Board has commenced from the Anamaduwa Town..
-
-However, when the SLTB bus was traveling on the 7th of the 7th, two motorcycles were launched targeting the SLTB bus.
-
-However, the Criminal Division of the Anamaduwa Police Statute the Ministry of Criminal OIC, police investigations
-
-The discovery of the SLTB bus to travel from the Anamadu town of Anamaduwa town, the attack had been assaulted on a conflict to navigate passengers.
-
-The suspect who owns the private bus and another private bus driver is to be submitted to the Anamaduwa Court to the Anamaduwa Court on charges of harming stones.
-
-...
-
-[Data](articles/cfc12b21.json)
-
-[Extended Data](ext_articles/cfc12b21.ext.json)
-
----
-
-### Bus traveling to Rantamb goes to a stream of Warakapola
-
-*2024-06-09 12:20:51* · [`adalk`](https://www.ada.lk/breaking_news/රන්ටැඹේ-යන්න-ගිය-බස්-රථය-වරකාපොලදි-ඇළකට-යයි/11-410094) · `si`
-
-A private bus en route to Ranmbembe crashed near Warakapola, injuring thirty students and parents from Malabe Rahul College. They've been hospitalized at Warakapola Hospital.
-
-🟩
-
-A private bus that was traveling to Ranmbembe has been in front of the stream near the Warakapola.
-
-Thirty school children and parents who were injured in the accident have been admitted to the Warakapola Hospital for treatment.
-
-The victim was a bus carrying a group of children at Malabe Rahul College.
-
-◼️
-
-[Data](articles/17e8cfec.json)
-
-[Extended Data](ext_articles/17e8cfec.ext.json)
-
----
-
-### Seven arrested
-
-*2024-06-09 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்மீது-கல்வீச்சு-ஏழுபேர்-கைது/175-338641) · `ta`
-
-Seven individuals, including a bus driver and conductor, were arrested by Anamaduwa police for allegedly attacking a Sri Lanka Transport Board bus. The suspects, aged 25-30, come from various areas. The incident occurred near Antigama while the bus, which serves the Puttalam-Anamaduwa-Maharagama route, was en route to Maharagama Abeksha Hospital. This hospital is crucial for cancer patients from Puttalam, ensuring they receive medical care without issues.
-
-🟩
-
-Seven persons, including a private bus driver and conductor, have been arrested by the Anamaduwa police for allegedly attacking a bus belonging to the Sri Lanka Transport Board's Chilaw Road.
-
-The suspects were between the ages of 25 and 30, from Patuluoya, Kiriyangaliya, Pangadeniya and Wennappuwa.
-
-The police said that the attack was carried out in the Antigama area, which was traveling from Anamaduwa in Puttalam to Maharagama Abeksha Hospital.
-
-The bus belonging to the Chilaw Road of the EPC has been continuously serving from Puttalam -Anakamuwa to Maharagama Abeksha Hospital for the benefit of the people affected by cancer.
-
-It is noteworthy that a large number of people from Puttalam are fulfilling their medical needs at the Maharagama Abeksha Hospital without any difficulties.
-
-◼️
-
-[Data](articles/4bf04451.json)
-
-[Extended Data](ext_articles/4bf04451.ext.json)
-
----
-
-### At a major bus bus station, both of a pedestrian's feet separate from the body
-
-*2024-06-09 12:00:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-බස්රථ-නැවතුම්පොළකදී-පදිකයකුගේ-පාද-දෙකම-සිරුරෙන්-වෙන්වෙයි/11-410093) · `si`
-
-In Badulla, a 56-year-old man suffered severe injuries when his feet got stuck between the bus and the platform during boarding. The incident occurred as the Sri Lanka Transport Board (SLTB) bus was submerged due to flooding from Bandarawela to Badulla. The man was rushed to Badulla Teaching Hospital, where doctors successfully reattached his feet. The bus driver has been arrested.
-
-🟩
-
-The two feet of a pedestrian in the main bus stand in Badulla town were separated from the body yesterday (8).
-
-The 56-year-old man who was injured in the Badulla Transport SLTB was admitted to Badulla Teaching Hospital in Badulla.
-
-The police said that the Sri Lanka Transport Board has been submerged from Bandarawela to Badulla while he was traveling to the main bus stand in Badulla town.
-
-The SLTB bus to be inserted into Badulla and the main access to Badulla and was admitted to the Badulla Teaching Hospital after he was struggled with the bus front left.
-
-The government of Emergency Medical Officer of the Badulla Teaching Hospital has been completely removed from the body, which has been admitted to the Badulla Teaching Hospital and has been treated with the body.Dr. Palitha Rajapaksa, Medical Officer of the Medical Officer, Dr. Palitha Rajapaksa said.
-
-The driver of the SLTB bus has been arrested along with the SLTB bus.
-
-◼️
-
-[Data](articles/1cbd4967.json)
-
-[Extended Data](ext_articles/1cbd4967.ext.json)
-
----
-
-### Bus commits school children in a danger
-
-*2024-06-09 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197555) · `si`
-
-In Warakapola, a bus carrying school children from Rahula College, Malabe, crashed near a stream, injuring 13 students. All victims have been hospitalized at Warakapola Hospital for treatment.
-
-🟩
-
-A bus carrying a group of school children has been in danger in the Warakapola area.
-
-School children and 13 children who were injured in the accident have been admitted to the Warakapola Hospital for treatment.
-
-The victim was a bus with a group of children at Rahula College, Malabe.
-
-The accident had occurred when the bus was rose from the stream area in Warakapola.
-
-◼️
-
-[Data](articles/0db710a7.json)
-
-[Extended Data](ext_articles/0db710a7.ext.json)
-
----
-
-### The person who tramples 5 thousand rupees
-
-*2024-06-09 11:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆயிரம்-ரூபாய்-தாள்களை-மிதிக்கும்-நபர்/175-338639) · `ta`
-
-A man in Jaffna, claiming to be a millionaire, publicly destroyed 5,000 rupees' worth of paper, calling himself a martyr. He promised large donations but claimed poverty on the day of the act.
-
-🟩
-
-In Jaffna, a person is spreading on social media on both legs, putting down sheets worth 5 thousand rupees.
-
-He expressed his manner as a millionaire and calls himself a martyr.
-
-He said that he would donate millions of rupees to the people and he could not afford money on the day of the incident.
-
-◼️
-
-[Data](articles/fc2c013c.json)
-
-[Extended Data](ext_articles/fc2c013c.ext.json)
-
----
-
-### Decision taken about Sri Lankan team
-
-*2024-06-09 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197554) · `si`
-
-Harin Fernando, Sri Lanka's Sports Minister, announced at a media briefing in Galle that the national cricket team should prioritize selecting players aged 20 to 25 for the Under-20 squad. He emphasized the importance of youth development and expressed regret over recent performance issues, attributing them to a lack of preparation and selection of the best players at the time. Fernando also highlighted the unpredictability of cricket, citing examples from recent matches, and called for new strategies and group formations to improve the team's performance.
-
-🟩
-
-Minister of Sports Harin Fernando says that players under the age of 20 to Sri Lanka 20 squad should be selected for the age of 25.
-
-He was speaking at a media briefing in Galle yesterday (08) at Bangladesh.
-
-"Indeed, we're sorry we're a good team. There was a preparation. The selection committee of Sri Lanka has been selected at the time the best players at the time. I have seen some social media has to put 20 Tests and 20. This is how the people defeat the Espects OK to defeat the matches. Minister is eating the neck whenecing the matches. Minister to defeat the player as the machine win. That is the normal situation in Sri Lanka. Growing players are going to lift the players. The audience who loves players and a game. But to the Minister, the Minister, the government blames the minister. "
-
-...
-
-[Data](articles/9320e806.json)
-
-[Extended Data](ext_articles/9320e806.ext.json)
-
----
-
-### How the Ugandan national brought Koakine to Sri Lanka
-
-*2024-06-09 11:37:55* · [`adalk`](https://www.ada.lk/breaking_news/උගන්ඩා-ජාතිකයා-කොකේන්-ලංකාවට-ගෙනාපු-හැටි/11-410092) · `si`
-
-A Ugandan man was arrested at Katunayake airport on 6/8 for carrying cocaine. He was detained by the Police Narcotics Division after being found with 450 grams of the drug. The suspect, a 200-year-old Ugaduwa, was transported to Negombo General Hospital. Tests confirmed the presence of cocaine, which was concealed using cello tape.
-
-🟩
-
-A foreigner was arrested by a group of policemen on 6/08, a foreigner who had developed cocaine, Katunayake airport on 06/08. He is a 200 year old Ugaduwa.
-
-Officers in the Police Narcotics Division have received international intellectuals about him and has taken steps to arrest him.
-
-He commenced journing from Kampala, Uganda, from that morning, from 06/08 am to Katil Airport on the Katunayake airport.
-
-The Uguda was admitted to the Negombo General Hospital due to the fact that he was arrested by the Police Narcotics Unit at the Katunayake airport.
-
-A spokesperson of the Police Narcotics said that the Uguddha national has been dismissed out of 450 guls worth 450 grackets worth about 450 g of cocaine.
-
-The Scan's stomach is confirmed by the Scan's stomach, as Scan has been confirmed by the doctors of the Negombo Hospital.
-
-The cocaine has been severely prepared using Cello Tape, as well as the Uguda, as well as the Uguda, as well as the Katunayaka Airport, the Katunayake Airport.
-
-◼️
-
-[Data](articles/33333aee.json)
-
-[Extended Data](ext_articles/33333aee.ext.json)
-
----
-
-### Five including Chief Inspector arrested for allegedly digging for gold in Kilinochchi
-
-*2024-06-09 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-including-Chief-Inspector-arrested-for-allegedly-digging-for-gold-in-Kilinochchi/108-284419) · `en`
-
-Kilinochchi, June 9 (Daily Mirror) - Five individuals, including a Chief Inspector of Police, suspected of illegally digging for gold believed to have been buried by the LTTE in Kilinochchi, were arrested in Ramanadapuram.
-
-Police said that two modern metal scanners and a luxury jeep were also seized from the suspects.
-
-The arrested Chief Inspector of Police reportedly serves as the OIC of a 'Tell the Police' operation at Police Headquarters. A teacher from a public school in Eravur is also among those arrested.
-
-They were arrested during a raid carried out by the police following intelligence information received by the Police Special Task Force (STF).
-
-Stolen gold from civilians during the final stages of the war was reportedly concealed in an LTTE-owned camp in the area and the suspects attempted to excavate the gold based on information provided by a former LTTE member.
-
-◼️
-
-[Data](articles/35547006.json)
-
-[Extended Data](ext_articles/35547006.ext.json)
-
----
-
-### Access to India
-
-*2024-06-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185645) · `ta`
-
-"The debate centers on whether Tamil leaders' greetings to PM Modi consider India's unity."
-
-🟩
-
-“The main question is whether Tamil leaders who send a greeting to Indian Prime Minister Modi will think about the unity of India.”
-
-◼️
-
-[Data](articles/50a589b0.json)
-
-[Extended Data](ext_articles/50a589b0.ext.json)
-
----
-
-### Will Modi look back?
-
-*2024-06-09 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185647) · `ta`
-
-Modi's leadership could significantly influence South Asia's politics, aligning with India's foreign policy but causing confusion. Over the next five years, his popularity might enable him to unite parties previously opposing him.
-
-🟩
-
-The BJP in the South Asian region is in line with India's foreign policy.. Has caused confusion. In the next five years, if Modi is overflowing, he is capable of pulling the parties that have been pushing him ...
-
-◼️
-
-[Data](articles/d6c68f49.json)
-
-[Extended Data](ext_articles/d6c68f49.ext.json)
-
----
-
-### Bus topples into canal in Warakapola; 13 including students injured
-
-*2024-06-09 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99755/bus-topples-into-canal-in-warakapola-13-including-students-injured-) · `en`
-
-At least thirteen persons including school children were injured and hospitalised after a bus transporting a group of students and parents toppled into a canal in the Warakapola town this morning (9).
-
-The incident had occurred at around 4.30 a.m. today while the bus was transporting a group of students from Sri Rahula Balika Maha Vidyalaya in Malabe and their parents.
-
-Around 26 girl guides from the school and 07 parents were en route to a girl guides camp in Rantambe.
-
-The driver of the bus had reportedly lost control of the vehicle causing it to topple into the canal in the Warakapola town.
-
-Thirteen students and parents were injured in the incident and have been admitted to the Warakapola Hospital for treatment.
-
-◼️
-
-[Data](articles/7125ce2d.json)
-
-[Extended Data](ext_articles/7125ce2d.ext.json)
 
 ---

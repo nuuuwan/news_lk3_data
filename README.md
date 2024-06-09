@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 18:53:19**
+As of **2024-06-09 19:03:57**
 
 ## Newspaper Stats
 
-*Scraped **29,390** Articles*
+*Scraped **29,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,508
-adaderanalk | 3,328
+adaderanalk | 3,329
 tamilmirrorlk | 3,448
 virakesarilk | 4,504
 dailymirrorlk | 4,665
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,390 (100.0%) of 29,390 articles have been extended.
+29,390 (100.0%) of 29,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Woman arrested for cheating businessman of Rs. 150 million
+
+*2024-06-09 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99764/woman-arrested-for-cheating-businessman-of-rs-150-million-) · `en`
+
+Police have arrested a 54-year-old woman for allegedly cheating a businessman by obtaining a sum of Rs. 150 million from him and failing to pay it back.
+
+Police have also taken into custody a luxury car, several smartphones, and two laptop cpmputers belonging to the suspect, who is a resident of Makola.
+
+The businessman has informed police that he was introduced to the woman in question through a friend at the Supreme Court premises in Colombo.
+
+Preliminary investigations have revealed that the suspect had claimed she was importing vehicles into the country and that she urgently needed the money in order to clear several imported vehicles from Customs.
+
+Accordingly, the businessman has provided her with the money, however he had later lodged a complaint with police alleging that the woman had disappeared with the money and that he was not able to meet her after that.
+
+The woman was later arrested by police based on the complaint.
+
+...
+
+[Data](articles/bde48490.json)
+
+---
 
 ### 44,430 of import limits to the market
 
@@ -2247,29 +2269,5 @@ Ogilvy’s ‘Masterpiece of Abuse’ bags two Grand Prix and six Golds
 [Data](articles/d3677a0f.json)
 
 [Extended Data](ext_articles/d3677a0f.ext.json)
-
----
-
-### Ruthless Australia crush England at T20 World Cup
-
-*2024-06-09 02:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ruthless-Australia-crush-England-at-T20-World-Cup/108-284416) · `en`
-
-(Bridgetown) - Australia crushed England by 36 runs in Barbados on Saturday to leave the defending champions' T20 World Cup hopes in the balance.
-
-Defeat means Jos Buttler's men are still winless after their opening game against Scotland was wrecked by rain.
-
-But Australia, who posted 201-7, are top of Group B with two wins after restricting their fierce rivals to 165-6 in their 20 overs.
-
-Australia's openers raced out of the blocks and the team posted the first score of 200-plus at the tournament even though no batsman reached 40.
-
-Phil Salt and Buttler gave England a solid platform in their reply, reaching 54-0 after six overs before going up a gear, taking 19 off Mitchell Starc's third over.
-
-But spinner Adam Zampa bowled Salt (37) with his first ball to leave England 73-1 in the eighth over and took the prized wicket of Buttler in his next over for 42.
-
-...
-
-[Data](articles/27c38391.json)
-
-[Extended Data](ext_articles/27c38391.ext.json)
 
 ---

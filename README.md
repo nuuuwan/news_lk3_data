@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 07:00:51**
+As of **2024-06-09 07:27:45**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,286 (100.0%) of 29,295 articles have been extended.
+29,290 (100.0%) of 29,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+### Heavy rains in several areas
 
 *2024-06-09 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197546) · `si`
 
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (09) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Western, Sabaragamuwa, North Western, and Southern provinces, with potential closures. Nuwara Eliya may see over 50mm rainfall. Showers/thunderstorms predicted in Ampara, Batticaloa, and central hill western slopes, Trincomalee, Hambantota, and Moneragala districts, with wind speeds of 40-50km/h. Public urged to prepare for possible temporary power cuts and lightning risks.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that in some places in the Nuwara Eliya area in the Sabaragamuwa Province. Heavy rains can occur in more than 50.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts in Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/810d8c57.json)
+
+[Extended Data](ext_articles/810d8c57.ext.json)
 
 ---
 
@@ -228,19 +234,29 @@ During World War II (around 1939), the British military took over the buildings 
 
 ---
 
-### அனர்த்தத்தினால் பாதிக்கப்பட்ட பகுதிக்கு சாகல விஜயம்
+### Sagala visits to the affected area
 
 *2024-06-09 02:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தத்தினால்-பாதிக்கப்பட்ட-பகுதிக்கு-சாகல-விஜயம்/175-338623) · `ta`
 
-சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதில் பழைய சுற்று நிருபங்களுக்கு அப்பாற்பட்டு புதிய சுற்று நிருபங்களின் பிரகாரம் செயற்படுமாறு அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sakala Ratnayake, a senior advisor and president, directed authorities to enhance relief efforts post-floods, focusing on new strategies beyond previous measures. During his visit to the flood-hit Kaduwela area, he assessed relief programs and discussed future flood control measures. He also interacted with locals and participated in a medical camp, emphasizing support for affected communities.
 
-வெள்ளத்தினால் பாதிக்கப்பட்ட கடுவெல பிரதேச மக்களின் நலன்களை ஆராய்வதற்காகவும், அந்த மக்களுக்கான நிவாரண வேலைத்திட்டம் தொடர்பில் ஆராய்வதற்காகவும் நேற்று கண்காணிப்பு விஜயத்தில் கலந்து கொண்ட போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-வெள்ளம் வடிந்ததன் பின்னர் மக்களின் வாழ்வாதாரத்தை மீட்டெடுக்கும் வேலைத்திட்டத்தை பார்வையிட்டதுடன், மக்களை மீள்குடியேற்றுவதற்குத் தேவையான அனைத்து வசதிகளையும் செய்து கொடுக்குமாறு சாகல ரத்நாயக்க, அதிகாரிகளுக்கு பணிப்புரை வழங்கினார்.
+Sakala Ratnayake, a senior adviser to the National Security and President of the President, said that the authorities have been given a directive to act in accordance with new rounds of new rounds, beyond the old roundabouts in providing relief to people affected by the inclement weather.
 
-...
+He said this while attending a visit to the Kaduwela area affected by the flood -affected Kaduwela area and to investigate the relief program for the people yesterday.
+
+After the flooding, he visited the program to restore the livelihood of the people and provide all the necessary facilities for the resettlement of the people.
+
+Sagala Ratnayake, who visited houses in the flood -affected area, is engaged in a conversation with homeowners. He also discussed the steps to be taken to control this flood situation in the future.
+
+Meanwhile, Sagala Ratnayake also visited the medical camp at the Kaduwela historic Sri Rangadu Patini Vihara with the participation of the Foreign Medical Committee on the campus.. (A)
+
+◼️
 
 [Data](articles/f4b19ef2.json)
+
+[Extended Data](ext_articles/f4b19ef2.ext.json)
 
 ---
 
@@ -256,6 +272,8 @@ This was the second betrayal by a Head of State/Government. President Chandrika
 
 [Data](articles/19d2fcfb.json)
 
+[Extended Data](ext_articles/19d2fcfb.ext.json)
+
 ---
 
 ### Myanmar…..unlike any land you know about
@@ -269,6 +287,8 @@ Several books, fiction and non-fiction of the country read over the years made t
 ...
 
 [Data](articles/24dfb66e.json)
+
+[Extended Data](ext_articles/24dfb66e.ext.json)
 
 ---
 

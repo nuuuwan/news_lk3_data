@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 03:04:00**
+As of **2024-06-10 03:19:06**
 
 ## Newspaper Stats
 
@@ -1570,22 +1570,6 @@ Earlier, her husband “found her belongings... which made him suspicious. The v
 
 ---
 
-### 
-
-*2024-06-09 16:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84169) · `en`
-
-Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he delivered after attaining Enlightenment, observed that having to associate with those who are repugnant is sorrowful and being apart from those who are loved is also sorrowful — appiyehi sampayogo dukkho, piyehi vippayogo dukkho. So, we choose to avoid and insulate ourselves from the distasteful while we seek the company of people we find agreeable. When they leave, we are saddened. When they depart, never to return, we are distraught.
-
-A few days ago, I realised that while any kind of separation from someone who is likeable is never a happy thing, there are instances when it is devastating. I had just received a text from my friend Prof Arjuna De Silva, and he wanted to know ‘if the story about Dr Siri was true.’ I called two of Dr Siri’s closest friends, Ranjith Page and Dr Harindu. Both confirmed that he had passed away in Dubai. I am shocked and saddened beyond belief.
-
-...
-
-[Data](articles/69b08d28.json)
-
-[Extended Data](ext_articles/69b08d28.ext.json)
-
----
-
 ### NTC, SLTB advised to assign more buses to avoid inconvenience to railway commuters
 
 *2024-06-09 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-SLTB-advised-to-assign-more-buses-to-avoid-inconvenience-to-railway-commuters/108-284428) · `en`
@@ -2219,5 +2203,25 @@ The Prime Minister's official swearing in the prime minister is scheduled to hol
 [Data](articles/d2d4e8bd.json)
 
 [Extended Data](ext_articles/d2d4e8bd.ext.json)
+
+---
+
+### School students injured in bus accident
+
+*2024-06-09 12:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-பாடசாலை-மாணவர்கள்-காயம்/175-338642) · `ta`
+
+In a tragic bus accident, thirteen school students and parents were injured and hospitalized at Varakapola Hospital. The incident occurred when the vehicle lost control and plunged into a stream near Warakapola.
+
+🟩
+
+Thirteen students and parents who were injured in the accident have been admitted to Varakapola Hospital.
+
+The Varakapola police said that they had lost the speed and fell into the stream in the Warakapola area.
+
+◼️
+
+[Data](articles/c53a3a9b.json)
+
+[Extended Data](ext_articles/c53a3a9b.ext.json)
 
 ---

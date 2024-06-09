@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 09:04:20**
+As of **2024-06-09 09:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,302** Articles*
+*Scraped **29,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,314
 tamilmirrorlk | 3,438
 virakesarilk | 4,489
 dailymirrorlk | 4,652
-adaderanasinhalalk | 4,710
+adaderanasinhalalk | 4,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,301 (100.0%) of 29,302 articles have been extended.
+29,302 (100.0%) of 29,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### වැසුණු කඩුගන්නාව යළි විවෘත කෙරේ
+### ජනපති නවදිල්ලියට
+
+*2024-06-09 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197550) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත්වූ නරේන්ද්‍ර මෝදිගේ දිවුරුම්දීමේ උත්සවයට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර නවදිල්ලිය බලා පිටත්ව ගොස් තිබේ.
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ ආරාධනයකට අනුව ජනාධිපතිවරයා එම දිවුරුම්දීමේ උත්සවයට සහභාගීවීමට නියමිතය.
+
+දිවුරුම්දීමේ උත්සවය නවදිල්ලි අගනුවරදී අද (09) සවස පැවැත්වීමට නියමිතව තිබේ.
+
+දින 44ක් අදියර 7ක් යටතේ පැවැති ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස සැලකෙන ඉන්දීය මහ මැතිවරණය ජයගැනීමට අගමැති නරේන්ද්‍ර මෝදිගේ පක්ෂය ප්‍රමුඛ සන්ධානය පසුගිය දා සමත්විය.
+
+◼️
+
+[Data](articles/4d007c43.json)
+
+---
+
+### Closing Kadugannawa reopened
 
 *2024-06-09 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197549) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ තාවකාලිකව වසා දැමූ පහළ කඩුගන්නාව කොටස මේ වනවිට යළි විවෘත කර තිබේ.
+The lower Kadugannawa section of the Colombo-Kandy main road has reopened, but drivers are advised to watch out for debris due to ongoing efforts to clear rocks and trees along the route, which were deemed unsafe during the rainy season.
 
-කෙසේ වෙතත් ආපදා කළමනාකරණ මධ්‍යස්ථානය රියදුරන්ගෙන් ඉල්ලා සිටින්නේ තවදුරටත් විමසිලිමත්ව රථ වාහන ධාවනය කරන ලෙසටය.
+🟩
 
-කොළඹ - මහනුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව කොටස ඊයේ (08) පස්වරු 7.30 සිට අද (09) අලුයම 01 දක්වා තාවකාලිකව වසා දැමීමට පියවර ගෙන තිබුණි.
+The lower Kadugannawa section of the Colombo-Kandy main road has been reopened.
 
-ඒ වැසි තත්ත්වයත් සමඟ පහළ කඩුගන්නාව ප්‍රදේශයේ මාර්ගය දෙපස පවතින අවදානම් සහිත ගල් සහ ගස් ඉවත්කිරීමේ කටයුතු ආරම්භවීම හේතුවෙනි.
+However, the Disaster Management Center requests drivers to be a closer look at chariots.
+
+Steps have been temporarily closed from the Colombo-Kandy main road from 7.30 am from 7.30 am from 7.30 am today (09).
+
+With the rainy season, risks to remove the risky stones and trees on either side of the lower Kadugannawa area.
 
 ◼️
 
 [Data](articles/458dab4a.json)
+
+[Extended Data](ext_articles/458dab4a.ext.json)
 
 ---
 
@@ -2289,25 +2313,5 @@ Police suspected that the person may have been involved in various incidents of 
 [Data](articles/a96fc7fe.json)
 
 [Extended Data](ext_articles/a96fc7fe.ext.json)
-
----
-
-### Bangladesh
-
-*2024-06-08 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197517) · `si`
-
-In the 20th World Cup, Bangladesh triumphed over Sri Lanka, scoring 125 runs with 8 wickets down in 19 overs.
-
-🟩
-
-Bangladesh won the match won the match between Sri Lanka and Bangladesh in the 20th World Cup.
-
-They won 125 runs for the loss of 8 wickets in 19 overs.
-
-◼️
-
-[Data](articles/3cf378c6.json)
-
-[Extended Data](ext_articles/3cf378c6.ext.json)
 
 ---

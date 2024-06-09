@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 06:03:10**
+As of **2024-06-09 07:00:51**
 
 ## Newspaper Stats
 
-*Scraped **29,293** Articles*
+*Scraped **29,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,56 @@ economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,491
 adaderanalk | 3,314
-tamilmirrorlk | 3,434
+tamilmirrorlk | 3,435
 virakesarilk | 4,489
 dailymirrorlk | 4,652
-adaderanasinhalalk | 4,706
+adaderanasinhalalk | 4,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,277 (99.9%) of 29,293 articles have been extended.
+29,286 (100.0%) of 29,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### කාසියේ වාසිය කොදෙව්වන්ට
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2024-06-09 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197546) · `si`
+
+බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (09) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/810d8c57.json)
+
+---
+
+### West Indies
 
 *2024-06-09 05:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197545) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බටහිර ඉන්දිය කොදෙව් කණ්ඩායම සහ උගන්ඩා කණ්ඩායම අතර තරග අද (09) පැවැත්වෙයි.
+Today, the West Indies cricket team faces Uganda in a match.
+
+🟩
+
+The West Indies group and Uganda team will be held today (09).
 
 ◼️
 
 [Data](articles/105fa26e.json)
+
+[Extended Data](ext_articles/105fa26e.ext.json)
 
 ---
 
@@ -55,6 +81,8 @@ Amana Takaful Insurance has demonstrated remarkable growth, achieving a 28% year
 ...
 
 [Data](articles/33592568.json)
+
+[Extended Data](ext_articles/33592568.ext.json)
 
 ---
 
@@ -72,6 +100,8 @@ Resource persons for the programme represented the Central Bank of Sri Lanka, ke
 
 [Data](articles/f2f61e6a.json)
 
+[Extended Data](ext_articles/f2f61e6a.ext.json)
+
 ---
 
 ### Baurs appoints Nishantha Weerasinghe as Deputy Managing Director
@@ -88,6 +118,8 @@ Weerasinghe was instrumental in taking the healthcare division of Baurs to among
 
 [Data](articles/f7f94a88.json)
 
+[Extended Data](ext_articles/f7f94a88.ext.json)
+
 ---
 
 ### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
@@ -101,6 +133,8 @@ As SMEs continue to play an increasingly pivotal role in the market, Sampath Ban
 ...
 
 [Data](articles/50be84b1.json)
+
+[Extended Data](ext_articles/50be84b1.ext.json)
 
 ---
 
@@ -116,6 +150,8 @@ Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
 
 [Data](articles/b4436941.json)
 
+[Extended Data](ext_articles/b4436941.ext.json)
+
 ---
 
 ### Stuart Chapman appointed Chairman of HNB Assurance and HNB General Insurance
@@ -127,6 +163,8 @@ HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) last week ann
 ...
 
 [Data](articles/cd53feb8.json)
+
+[Extended Data](ext_articles/cd53feb8.ext.json)
 
 ---
 
@@ -147,6 +185,8 @@ Ogilvy’s ‘Masterpiece of Abuse’ bags two Grand Prix and six Golds
 ...
 
 [Data](articles/d3677a0f.json)
+
+[Extended Data](ext_articles/d3677a0f.ext.json)
 
 ---
 
@@ -183,6 +223,24 @@ During World War II (around 1939), the British military took over the buildings 
 ...
 
 [Data](articles/3c56f5d2.json)
+
+[Extended Data](ext_articles/3c56f5d2.ext.json)
+
+---
+
+### அனர்த்தத்தினால் பாதிக்கப்பட்ட பகுதிக்கு சாகல விஜயம்
+
+*2024-06-09 02:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தத்தினால்-பாதிக்கப்பட்ட-பகுதிக்கு-சாகல-விஜயம்/175-338623) · `ta`
+
+சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதில் பழைய சுற்று நிருபங்களுக்கு அப்பாற்பட்டு புதிய சுற்று நிருபங்களின் பிரகாரம் செயற்படுமாறு அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+வெள்ளத்தினால் பாதிக்கப்பட்ட கடுவெல பிரதேச மக்களின் நலன்களை ஆராய்வதற்காகவும், அந்த மக்களுக்கான நிவாரண வேலைத்திட்டம் தொடர்பில் ஆராய்வதற்காகவும் நேற்று கண்காணிப்பு விஜயத்தில் கலந்து கொண்ட போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+வெள்ளம் வடிந்ததன் பின்னர் மக்களின் வாழ்வாதாரத்தை மீட்டெடுக்கும் வேலைத்திட்டத்தை பார்வையிட்டதுடன், மக்களை மீள்குடியேற்றுவதற்குத் தேவையான அனைத்து வசதிகளையும் செய்து கொடுக்குமாறு சாகல ரத்நாயக்க, அதிகாரிகளுக்கு பணிப்புரை வழங்கினார்.
+
+...
+
+[Data](articles/f4b19ef2.json)
 
 ---
 
@@ -2221,53 +2279,5 @@ Police are conducting further investigations into the accident.. Remble
 [Data](articles/12652dd9.json)
 
 [Extended Data](ext_articles/12652dd9.ext.json)
-
----
-
-### Man dies after being assaulted by a monk
-
-*2024-06-08 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197515) · `si`
-
-A man died after an assault by a monk in Marawila, Kawila, Giriulla. The victim was discovered injured at a house and later treated at Dambadeniya Hospital. The assailant, who lives with his mother and drinks heavily, is under investigation for unknown motives.
-
-🟩
-
-One person was killed due to an assault at a house monk in Marawila, Kawila, Giriulla.
-
-The injured was found on a tip off received by the Giriulla Police that a person was injured in a house.
-
-The injured was later admitted to Dambadeniya Hospital and was receiving treatment.
-
-The suspect is disclosed in the mother's house in Marawila without dwelling in a temple and he was addicted to the heavy drinking.
-
-The cause of the attack is yet to be determined and the Giriulla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3a494a90.json)
-
-[Extended Data](ext_articles/3a494a90.ext.json)
-
----
-
-### New Zealand a cat defeat
-
-*2024-06-08 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197514) · `si`
-
-In the Twenty20 World Cup, Afghanistan defeated New Zealand by 84 runs after scoring 159 runs in 6 overs while batting first.
-
-🟩
-
-Afghanistan was able to win the match between New Zealand and Afghanistan, the Twenty20 World Cup.
-
-Batting first, the Afghan group scored 159 runs for the loss of 6 wickets in the loss of 6 overs.
-
-Accordingly, Afghanistan was able to win the match by 84 runs.
-
-◼️
-
-[Data](articles/00769b94.json)
-
-[Extended Data](ext_articles/00769b94.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 22:34:13**
+As of **2024-06-09 22:52:15**
 
 ## Newspaper Stats
 
-*Scraped **29,423** Articles*
+*Scraped **29,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,113 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,511
-adaderanalk | 3,334
+adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
-dailymirrorlk | 4,668
-adaderanasinhalalk | 4,734
+dailymirrorlk | 4,669
+adaderanasinhalalk | 4,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,421 (100.0%) of 29,423 articles have been extended.
+29,423 (100.0%) of 29,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### මෝස්ලි ගේ සිරුර හමුවෙයි
+### ඉන්දියාවේ ත්‍රස්ත ප්‍රහාරයක්
+
+*2024-06-09 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197576) · `si`
+
+වන්දනාකරුවන් රැගත් බස් රථයකට ඉන්දියාවේ ජම්මු - කාශ්මීර් හි දී ත්‍රස්තවාදීන් ප්‍රහාරයක් එල්ල කර තිබේ.
+
+එහි දී බස් රථයේ ගමන් ගත් වන්දනාකරුවන් 9 දෙනෙකු මියගොස් ඇති බවත් තවත්  33 දෙනෙකු තුවාල ලබා ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+වන්දනාකරුවන් ජම්මු -කාශ්මීරයේ ශිව් කෝරි ලෙන් විහාරය "Shiv Khori cave" වෙත යමින් සිටියදී අද (09) පස්වරුවේ මෙම ප්‍රහාරයට ලක් ව ඇති බව සඳහන් වේ.
+
+මෙහිදී ත්‍රස්තවාදීන් වෙඩි තැබීමත් සමඟ බස් රථය ප්‍රපාතයකට පෙරළි ගොස් ඇති බව වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/e97ad6ff.json)
+
+---
+
+### 200කගේ සිරුරු මතින් 4ක් බේරාගත් ලොවම කම්පා කළ මෙහෙයුම
+
+*2024-06-09 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197575) · `si`
+
+මධ්‍යම ගාසා හී ප්‍රාණ ඇපකරුවන් මුදාගැනීම සදහා ඊශ්‍රායලය සිදුකළ විශේෂ මෙහෙයුම අතරවාරයේ දී මියගිය පුද්ගලයින් ගණන 200 ඉක්මවා ගොස් තිබේ.
+
+ඊශ්‍රායල හමුදා නුසෙයිරාට් කඳවුර ආශ්‍රිතව සිදුකළ මෙම මෙහෙයුම අතරතුර පුද්ගලයින් 210 දෙනෙකු පමණ මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එහිදී තවත් පුද්ගලයින් 400 දෙනෙකු පමණ තුවාල ලබා ඇති බව සඳහන් වෙයි.
+
+මෙම මෙහෙයුම මඟින් හමාස් සංවිධානය විසින් රදවාගෙන සිටි ප්‍රාණ ඇපකරුවන් සිව්දෙනෙකු බේරාගැනීමට ඊශ්‍රායල ආරක්ෂක අංශ කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/c888b5b5.json)
+
+---
+
+### Three main accomplices ‘Loku Patty’ arrested with heroin, firearms
+
+*2024-06-09 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99768/three-main-accomplices-loku-patty-arrested-with-heroin-firearms) · `en`
+
+Three main accomplices of organized criminal and drug trafficker ‘Loku Patty’, who is in hiding in Dubai, have been arrested by the Police Special Task Force (STF) at Kahatuduwa.
+
+Police said the suspects were apprehend along with nearly 13 kilograms of heroin, estimated to be worth around Rs. 30 million, 02 pistols and two cars bearing fake number plates.
+
+The arrests were made during a search operation carried out by STF intelligence officers this evening (09) at a residence in Kebellagahawatte, Kahathuduwa.
+
+The arrestees are allegedly three main accomplices of wanted drug trafficker ‘Loku Patty’, also known as ‘Ahungalle Loku Patty’, who is believed to be hiding in Dubai.
+
+◼️
+
+[Data](articles/2623a6af.json)
+
+---
+
+### Ravi Seneviratne, Shani Abeysekara join NPP’s Retired Police Collective
+
+*2024-06-09 22:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ravi-Seneviratne-Shani-Abeysekara-join-NPPs-Retired-Police-Collective/108-284440) · `en`
+
+Colombo, June 09 (Daily Mirror)- Retired Senior DIG Ravi Seneviratne and former Director of Criminal Investigation Department Shani Abeysekara joined the Retired Police Collective of the National People's Power (NPP) during its maiden meeting today.
+
+The first meeting of the Retired Police Collective of the National People's Power (NPP) was held at the National Youth Council in Maharagama.
+
+Speaking at the meeting, Retired Senior DIG Ravi Seneviratne said he had to face various pressures forcing him not to join the NPP and that he was threatened with having to face repercussions.
+
+NPP Leader Anura Kumara Dissanayake said both Government and Opposition factions have threatened Ravi Seneviratne not to join the NPP and added that investigations have been launched against him on baseless allegations.
+
+He also said that under an NPP government, justice will be meted out to former Director of Criminal Investigation Department Shani Abeysekara, who has faced political victimisation and injustice.
+
+◼️
+
+[Data](articles/05b219e5.json)
+
+---
+
+### Mosley's body found
 
 *2024-06-09 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197574) · `si`
 
-බ්‍රිතාන්‍යයේ ප්‍රකට රූපවාහිනී වැඩසටහන් ඉදිරිපත් කරන්නෙකු වන මයිකල් මෝස්ලි ගේ සිරුර හමුවී තිබේ.
+Michael Mosley, known from TV programs, was found after disappearing from an island trip.
 
-විනෝද සංචාරයක් අතරතුර එම දූපතට ගොස් ඇති මෝස්ලි මීට දින කිහිපයකට පෙර අතුරුදන් වුණි.
+🟩
+
+Michael Mosley, a well-known television program, has been found.
+
+The mosley that had gone to the island during a fun visit, disappeared a few days ago.
 
 ◼️
 
 [Data](articles/5b4ebde9.json)
+
+[Extended Data](ext_articles/5b4ebde9.ext.json)
 
 ---
 
@@ -70,19 +150,25 @@ Three railway drivers were involved in a limited service while train drivers wer
 
 ---
 
-### කහතුඩුවෙන් හමුවූ කෝටි 30ක හෙරොයින්
+### 30 crores heroin found in Kahathuduwa
 
 *2024-06-09 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197573) · `si`
 
-ඩුබායි රාජ්‍යයේ සැඟව සිටි මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවනු ලබන සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන "අහුංගල්ලේ ලොකු පැටී" නම් පුද්ගලයාගේ ප්‍රධාන සගයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Kahathuduwa, Sri Lanka, three key allies of a drug syndicate were arrested during a STF raid, uncovering 30 crores worth of heroin. The operation, led by STF intelligence, also revealed connections to a drug lord hiding in Dubai.
 
-පොලිස් විශේෂ කාර්ය බළකා බුද්ධි අංශයේ නිලධාරීන් විසින් අද (09) පස්වරුවේ සිදුකළ සෝදිසි මෙහෙයුමකදී කහතුඩුව, කැබැල්ලගහවත්ත ප්‍රදේශයේ නිවසකදී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-සැකකරුවන් සතුව තිබී රුපියල් කෝටි 30කට ආසන්න වීථි වටිනාකමකින් යුතු හෙරොයින් කිලෝ 13කට ආසන්න ප්‍රමාණයක්, පිස්තෝල 02ක් සහ ව්‍යාජ අංක තහඩු යොදන ලද මෝටර් රථ 02ක් පොලිස් බාරයට ගෙන තිබේ.
+Three major ally have been arrested by an organized criminal group of organized crimes and a drug dealer, which is considered to be a drug dealer, who is being hidden in Dubai.
+
+The suspects were arrested by the STF in general area Kahathuduwa at a search operation conducted by STF intelligence services this afternoon (09).
+
+Nearly 13 kilograms of heroin worth Rs.
 
 ◼️
 
 [Data](articles/11043759.json)
+
+[Extended Data](ext_articles/11043759.ext.json)
 
 ---
 
@@ -2155,109 +2241,5 @@ In this case, the Cabinet bond. Special attention was paid to Prime Minister Din
 [Data](articles/c5515fb4.json)
 
 [Extended Data](ext_articles/c5515fb4.ext.json)
-
----
-
-### 35 trains canceled
-
-*2024-06-09 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197553) · `si`
-
-Due to a strike by Railway Engineers, 35 trains were canceled on 09/06. The strike began over issues including delays and recruitment problems. Two train drivers joined the strike, affecting operations. However, the authorities have reportedly ignored their demands.
-
-🟩
-
-The Railway Department says that 35 trains will be canceled in this morning (09) due to a strike commenced by Railway Engineers.
-
-The Locometent Opposition Engineer (Lokomotive Ordinary Association said the strike was running today.
-
-The second level promotions commenced on the 6th of the 6th of this morning, taking delay, recruitment delay, delay, recruitment delay.
-
-Two train drive drivers are only joining the strike, and it is not working as a result of the power sets.
-
-However, the Secretary of the Lockmomotive Opaket Engineering is the Secretary to the License that the authorities are no longer responding to their demands.. R. C. M. Senanayake said.
-
-◼️
-
-[Data](articles/93b79d7a.json)
-
-[Extended Data](ext_articles/93b79d7a.ext.json)
-
----
-
-### 35 trains cancelled this morning as railway strike continues
-
-*2024-06-09 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99753/35-trains-cancelled-this-morning-as-railway-strike-continues) · `en`
-
-Sri Lanka Railways (SLR) stated that a total of 35 scheduled train journeys were cancelled this morning due to the continued strike by the Locomotive Operating Engineers’ Union of the railway department.
-
-The Locomotive Operating Engineers’ Union says that the strike launched by the locomotive drivers will continue for the third consecutive day today (09).
-
-They have been on strike since midnight on Thursday, (June 06) over several key demands including solutions to the delays in second-class promotions of locomotive drivers, delays in the recruitment process and several other issues.
-
-It is also mentioned that only locomotive drivers of two of the five running sheds have joined the strike and due to this there will be no power set trains operating.
-
-Meanwhile, the Secretary of the union S.R.C.M. Senanayake stated that if the authorities fail to address their demands, they would be taking steps to intensify their trade union action.
-
-...
-
-[Data](articles/80e7c400.json)
-
-[Extended Data](ext_articles/80e7c400.ext.json)
-
----
-
-### More than 200 Palestinians killed in Israeli attack
-
-*2024-06-09 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185635) · `ta`
-
-In a recent escalation of the ongoing conflict between Israel and Hamas, over 200 Palestinians were killed in an Israeli attack in Gaza, primarily targeting a civilian area in Nuseirat. Simultaneously, Israeli forces successfully rescued four hostages, who had been held captive since a Hamas attack on October 7th. The operation was fraught with challenges, including severe resistance and adverse weather conditions. While the exact number of casualties among the Palestinians remains unclear, it includes both civilians and combatants. The rescued hostages, now under medical care, are reported to be in good condition.
-
-🟩
-
-More than 200 Palestinians have been killed while Israeli soldiers have rescued four hostages alive after taking a special action in Gaza.
-
-Reuters said it was an attack on Israel after the seventh of October.
-
-It is a frequent conflict of Israeli forces and Hamas, where the Palestinians live in the most popular.
-
-The Israeli military spokesman said that the attack took place in a civilian population area in Nuseyrat, said the hostages were detained in the series.
-
-He said that Israeli soldiers faced a severe attack during the operation, followed by a response from the weather and the ground.
-
-We know that 100 Palestinians have been killed, and how many of them are terrorists, a member of the Israeli Special Forces has been killed, the Israeli official said.
-
-Gaza's medical sources said that the bodies of women in the market mosque are scattered in the market mosque.
-
-...
-
-[Data](articles/27659f33.json)
-
-[Extended Data](ext_articles/27659f33.ext.json)
-
----
-
-### We will create the best state administration of corrupt - Namal Rajapaksa
-
-*2024-06-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185629) · `ta`
-
-Namal Rajapaksa, the National Organizer of the Sri Lanka Peoples Alliance, announced plans to establish a corrupt state administration during the early stages of the presidential election campaign. He criticized the main opposition parties for their political maneuvers, emphasizing the importance of the Ratota region in their political journey. Despite the challenges faced by the previous government under Gotabhaya Rajapakse, including the COVID-19 pandemic's impact on the economy, Namal expressed confidence in their ability to address economic issues without relying solely on the International Monetary Fund. He pledged to take responsibility for rebuilding the country, highlighting their leader's achievements in ending the 30-year war and developing the nation.
-
-🟩
-
-The presidential election campaign has just begun. The main opposition parties are acting in the position of politics, referring to the thieves. The National Organizer of the Sri Lanka Peoples Alliance (PA), Namal Rajapaksa, said that we can create a corrupt state administration.
-
-He was speaking at a meeting of the organizer of the PA, which was held on Saturday (08) in Rathota.
-
-Mahinda Rajapaksa, who contested the 2015 presidential election, held his first election campaign meeting in Rathota. Therefore, on our political journey, the Ratota part is essential.
-
-Amidst the massive expectations of 69 lakhs, Gotabhaya Rajapakse led the government. Unfortunately, the Kovit was faced with the impact of the national industry and improving the national industry.
-
-We are well aware that when protecting people from the glory, it will face economic crises. A party used the economic impact on the Govt, for their political purposes.
-
-...
-
-[Data](articles/eb476b65.json)
-
-[Extended Data](ext_articles/eb476b65.ext.json)
 
 ---

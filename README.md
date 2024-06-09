@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 23:53:34**
+As of **2024-06-10 00:05:07**
 
 ## Newspaper Stats
 
-*Scraped **29,433** Articles*
+*Scraped **29,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,335
 tamilmirrorlk | 3,449
 virakesarilk | 4,516
 dailymirrorlk | 4,669
-adaderanasinhalalk | 4,737
+adaderanasinhalalk | 4,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,430 (100.0%) of 29,433 articles have been extended.
+29,433 (100.0%) of 29,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### පාකිස්තානයට ලැබුණු ඉලක්කය
+
+*2024-06-09 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197578) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ ඉන්දියාව සහ පාකිස්තානය අතර තරගය මේ වනවිට නිව් යෝර්ක් හීදී පැවැත්වෙයි.
+
+එහිදී පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සියලු දෙනා දැවී රැස්කළේ ලකුණු 119ක් පමණි.
+
+◼️
+
+[Data](articles/f2755222.json)
+
+---
 
 ### Ranil has been recognized at the Indian Prime Minister's swearing in ceremony
 
@@ -1528,6 +1542,8 @@ Prime Minister Modi won a third consecutive term as prime minister of India, tho
 
 [Data](articles/96c4d90e.json)
 
+[Extended Data](ext_articles/96c4d90e.ext.json)
+
 ---
 
 ### 2025 Interim Account
@@ -1793,6 +1809,8 @@ Unlike in 2022, when a currency collapse led to losses on its foreign assets por
 ...
 
 [Data](articles/2c5ae260.json)
+
+[Extended Data](ext_articles/2c5ae260.ext.json)
 
 ---
 
@@ -2257,23 +2275,5 @@ Minister Pathirana, however, recognized the project’s significance and its pot
 [Data](articles/b789fabb.json)
 
 [Extended Data](ext_articles/b789fabb.ext.json)
-
----
-
-### India's majority dream
-
-*2024-06-09 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185642) · `ta`
-
-Modi unaware of Tamil Nadu's unique blend of religion and politics, delegates criticism of DMK to local BJP leader Annamalai, considering it beneficial for the atheistic Dravida Munnetra Kazhagam.
-
-🟩
-
-Modi does not know the news that the people of Tamil Nadu are different from religion and politics. However, he handed over the responsibility of criticizing the DMK government to Tamil Nadu BJP leader Annamalai. The thought that it would be good for the Dravida Munnetra Kazhagam is an atheist party.
-
-◼️
-
-[Data](articles/01599eb5.json)
-
-[Extended Data](ext_articles/01599eb5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 02:34:18**
+As of **2024-06-10 02:52:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,449 (100.0%) of 29,453 articles have been extended.
+29,453 (100.0%) of 29,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -256,6 +256,8 @@ Siyambalapitiya noted that the Inland Revenue Department (IRD) is already levera
 
 [Data](articles/79c7e1fc.json)
 
+[Extended Data](ext_articles/79c7e1fc.ext.json)
+
 ---
 
 ### Letters from now: Election musings
@@ -271,6 +273,8 @@ Best bit is, he never even contemplated leaving the land of his birth.
 ...
 
 [Data](articles/3e2450b6.json)
+
+[Extended Data](ext_articles/3e2450b6.ext.json)
 
 ---
 
@@ -307,6 +311,8 @@ This reply aims to present a more nuanced perspective, encouraging readers to cr
 ...
 
 [Data](articles/7ce23d2b.json)
+
+[Extended Data](ext_articles/7ce23d2b.ext.json)
 
 ---
 
@@ -383,6 +389,8 @@ The Lok Sabha elections in India were just concluded with disappointment to both
 ...
 
 [Data](articles/f9aed2bc.json)
+
+[Extended Data](ext_articles/f9aed2bc.ext.json)
 
 ---
 

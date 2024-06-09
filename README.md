@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 15:52:53**
+As of **2024-06-09 16:04:38**
 
 ## Newspaper Stats
 
-*Scraped **29,368** Articles*
+*Scraped **29,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,324
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,662
-adaderanasinhalalk | 4,720
+adaderanasinhalalk | 4,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,367 (100.0%) of 29,368 articles have been extended.
+29,368 (100.0%) of 29,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### අතුරුදන් වූ සිව්දරු මව පිඹුරෙකුගේ උදරයේ
+
+*2024-06-09 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197562) · `si`
+
+පිඹුරෙකුට ගොදුරු වීමෙන් කාන්තාවක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එම කාන්තාව මීට දින කිහිපයකට පෙර අතුරුදන්ව ඇති අතර ගම්වාසීන් එක්ව ඇයව සෙවීමට මෙහෙයුමක් ආරම්භ කර ඇත.
+
+එහිදී දැවැන්ත උදරයක් සහිත පිඹුරෙකු සොයාගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අනතුරුව පිඹුරාගේ උදරය තුළින් මියගොස් සිටි කාන්තාවගේ සිරුර සොයාගෙන ඇති බව එම වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/b35a8239.json)
+
+---
 
 ### Vote on Account to be presented for 2025 instead of Budget – state minister
 
@@ -49,6 +67,24 @@ Therefore, a new budget will not be presented at the end of this year for the fi
 [Data](articles/7947d82e.json)
 
 [Extended Data](ext_articles/7947d82e.ext.json)
+
+---
+
+### විදේශ රැකියා ගැන රජයෙන් හදිසි තීරණයක්
+
+*2024-06-09 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197560) · `si`
+
+රජය වෙත ලැබෙන විදේශ රැකියා අවස්ථාවන්ගෙන් සියයට 25ක් විශ්‍රාමික රණවිරුවන් වෙනුවෙන් ලබාදීමට තීරණය කර ඇති බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+ඒ අනුව එහි පළමු කණ්ඩායම මෙම මස අවසානයේ ඊශ්‍රායලය බලා පිටත්ව යාමට නියමිත බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+විශ්‍රාමික හා වෛද්‍ය හේතූන් මත විශ්‍රාම ගැන්වූ හමුදා සාමාජිකයන්ගේ සහ යුද්ධයේදී ජීවිත පරිත්‍යාග කළ රණවිරුවන්ගේ පවුල්වල සාමාජිකයන්ගේ සුභසාධනය සහ පරිපාලන කටයුතු සම්බන්ධව සොයාබැලීම සඳහා මින්නේරිය පාබල පුහුණු මධ්‍යස්ථානයේදී සංවිධානය කර තිබූ වැඩසහනකට එක්වෙමින් ආරක්ෂක රාජ්‍ය අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+ආරක්‍ෂක අමාත්‍යංශය, ත්‍රිවිධ හමුදාව, රණවිරු සේවා අධිකාරිය සහ අනෙකුත් රාජ්‍ය ආයතන එක්ව සෞඛ්‍ය, රාජ්‍ය පරිපාලන, බැංකු කටයුතු සහ අනෙකුත් සේවාවන් ලබාගැනීමේදී රණවිරු පවුල්වල සාමාජිකයන් සඳහා ප්‍රමුඛත්වය ලබාදීමේ වැඩපිළිවෙලක් ක්‍රියාත්මක කිරීමට නියමිත බව ද එහිදී ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/859dbea4.json)
 
 ---
 
@@ -385,6 +421,8 @@ It is reported that after the suspect was admitted to the Negombo Hospital they 
 ◼️
 
 [Data](articles/9ebefac2.json)
+
+[Extended Data](ext_articles/9ebefac2.ext.json)
 
 ---
 
@@ -2135,61 +2173,5 @@ He also said that the incident had begun an investigation by a jarrror.
 [Data](articles/61ccdf8a.json)
 
 [Extended Data](ext_articles/61ccdf8a.ext.json)
-
----
-
-### In Jaffna "Self -Extreme Walk - 2024"
-
-*2024-06-08 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185624) · `ta`
-
-The "Self-respecting Walk - 2024" in Jaffna, held on a Saturday morning, started from the Jaffna Central Bus Stand, went through the farm road, and concluded near the public library. Organizers emphasized its focus on self-esteem, equality, and social justice.
-
-🟩
-
-The "Self -respecting Walk - 2024" was held on Saturday morning in Jaffna.
-
-The walk on the Jaffna Central Bus Stand, which was traveled to the Sathra junction, passed through the farm road, and ended in front of the public library.
-
-The organizers said that our self -esteem, based on self -esteem, equality and social justice, had taken place.
-
-◼️
-
-[Data](articles/c7a8d649.json)
-
-[Extended Data](ext_articles/c7a8d649.ext.json)
-
----
-
-### England - Australia Tournament
-
-*2024-06-08 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185623) · `ta`
-
-Tonight's T20 World Cup match at the Brijdown Kensington Oval Ground features England vs. Australia, with England leading in past encounters. The rivalry, including the memorable 2007 R20 World Cup win by England, promises an exciting clash. Despite the UK's internal issues, the match is anticipated to be highly competitive, with both teams performing well this year. Pet Cammins returns to the Australian team, adding to the anticipation.
-
-🟩
-
-The T20 World Cup for the B Committee will be held at the Brijdown Kensington Oval Ground tonight.
-
-It is noteworthy that the R20 World Cup competition held in 2021 in the United Arab Emirates was Australia.
-
-England won by 7 wickets for the first time when the two teams clashed in the R20 World Cup final 14 years ago at the same playground.
-
-The clash between the two teams in the World Cup is expected to be the best match.
-
-But the UK is facing a crisis as the rivalry between England and Scotland has been abandoned.
-
-England are in the lead by 11 - 10 in 23 international T20 cricket matches so far between the two teams. 2 matches were abandoned.
-
-The R20 World Cup is 2 - 1 in 4 matches and the UK is leading in a match.
-
-The match is expected to create a shock to the end, as both teams are seen as equally this year.
-
-Pet Cammins, who retired during the match against Oman, will be played in the Australian team in today's match.
-
-...
-
-[Data](articles/24f0d7e8.json)
-
-[Extended Data](ext_articles/24f0d7e8.ext.json)
 
 ---

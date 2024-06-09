@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 16:19:13**
+As of **2024-06-09 16:34:31**
 
 ## Newspaper Stats
 
-*Scraped **29,374** Articles*
+*Scraped **29,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,592
 economynextcom | 1,675
 dailyftlk | 1,754
 adalk | 2,504
-adaderanalk | 3,324
+adaderanalk | 3,325
 tamilmirrorlk | 3,448
 virakesarilk | 4,499
 dailymirrorlk | 4,665
@@ -26,11 +26,35 @@ adaderanasinhalalk | 4,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,370 (100.0%) of 29,374 articles have been extended.
+29,374 (100.0%) of 29,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Indonesian woman found dead inside giant python
+
+*2024-06-09 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99760/indonesian-woman-found-dead-inside-giant-python) · `en`
+
+A woman was killed by a 5-meter (16-foot) python in central Indonesia after it swallowed her whole, local media reported Saturday.
+
+The 45-year-old, from Kalempang village in South Sulawesi province, had told her husband on Thursday she was going to sell chilies to a collector.
+
+When she failed to return, her husband and relatives initiated a search, village head Suardi Rosi told the Detik.com news website.
+
+The next morning, a python was discovered near the woman’s abandoned belongings, the report said.
+
+Along with some villagers, the husband of the woman — identified only as Farida — killed the snake and cut it open.
+
+Earlier, her husband “found her belongings... which made him suspicious. The villagers then searched the area. They soon spotted a python with a large belly,” said Suardi.
+
+“They agreed to cut open the python’s stomach. As soon as they did, Farida’s head was immediately visible.”
+
+...
+
+[Data](articles/77343caf.json)
+
+---
 
 ### NTC, SLTB advised to assign more buses to avoid inconvenience to railway commuters
 
@@ -50,23 +74,31 @@ The Ministry expressed its regrets for the inconvenience caused to the passenger
 
 [Data](articles/098fdeea.json)
 
+[Extended Data](ext_articles/098fdeea.ext.json)
+
 ---
 
-### 13 වන සංශෝධනය ක්‍රියාත්මක කරනවා - සජිත්
+### 13th Amendment will be implemented - Sajith
 
 *2024-06-09 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197563) · `si`
 
-තමන් බලයට පැමිණීමෙන් අනතුරුව 13 වන සංශෝධනය ක්‍රියාත්මක කරන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa, the Opposition Leader, promises to implement the 13th Amendment upon assuming power, emphasizing unity among all ethnic groups for national development. He made this statement during a ceremony in Kilinochchi, highlighting the importance of the amendment despite previous criticisms.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර ඇත්තේ අද (09) කිළිනොච්චිය භාරතී විද්‍යාලයට සක්වල වැඩසටහන යටතේ සුහුරු පන්තිකාමරයක් පරිත්‍යාග කිරීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසා ඇත්තේ සිංහල වුවත් දමිළ වුවත් බර්ගර් වුවත් මුස්ලිම් වුවත් එක මවගේ දරුවන් ලෙස අත්වැල් බැඳ ගෙන රට ගොඩ නැගීමට එකතු වන ලෙසටය.
+Opposition Leader Sajith Premadasa says that the 13th Amendment will be implemented after he comes to power.
 
-13 වැනි සංශෝධනය ගැන පැවසීමේදී විවිධ නායකයින් බියවන බවත් ඔවුන් දේශපාලන අවස්ථාවාදීන් වුවත් තමන් කෙළින් කතා කරන අයකු ලෙස 13 වැනි සංශෝධනය ක්‍රියාත්මක කරනා බවත් එහිදී විපක්ෂනායකවරයා පවසා තිබේ.
+He was speaking at a sacrificial ceremony at the Sakwala program to Kilinochchi Bharathi Vidyalaya, Kilinochchi today (09).
+
+The Opposition Leader Sajith Premadasa has said that although the Sinhalese, Sinhalese, join hands to build the country as the children of the country.
+
+The Opposition Leader has said that the 13th Amendment was implemented as a direct-speaking while saying that the 13th Amendment was political opportunist.
 
 ◼️
 
 [Data](articles/09212002.json)
+
+[Extended Data](ext_articles/09212002.ext.json)
 
 ---
 
@@ -104,6 +136,8 @@ The stretch of road at Pahala Kadugannawa on the Colombo-Kandy road was closed f
 
 [Data](articles/3045e776.json)
 
+[Extended Data](ext_articles/3045e776.ext.json)
+
 ---
 
 ### Ongoing railway strike disrupts services, cancels 48 trains
@@ -123,6 +157,8 @@ The strike is based on several demands including issues pertaining to the promot
 ◼️
 
 [Data](articles/296fc519.json)
+
+[Extended Data](ext_articles/296fc519.ext.json)
 
 ---
 
@@ -182,7 +218,7 @@ Sri Lankan President Ranil Wickremesinghe has arrived in the Indian Capital of N
 
 Received by OSD (ER & DPA) P. Kumaran at the airport,” said the Official Spokesperson, Ministry of External Affairs, Randhir Jaiswal in a post on X.
 
-India and Sri Lanka are civilisational partners and enjoy strong and enduring bilateral ties. PM Modi was on a two-day visit to Sri Lanka in 2017, during which he visited the country’s Tamil-dominated tea plantation area. PM Modi was accompanied by the then Sri Lankan President Maithripala Sirisena and the then PM Wickremesinghe.
+President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Sri Narendra Modi, who has been elected as the Prime Minister of India for the third consecutive term, the PMD reported.
 
 ...
 
@@ -494,15 +530,17 @@ It is reported that after the suspect was admitted to the Negombo Hospital they 
 
 *2024-06-09 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99757/ugandan-man-who-ingested-cocaine-filled-capsules-arrested-at-bia) · `en`
 
-A Ugandan national who had attempted to smuggle capsules containing cocaine into the country by swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
+A Ugandan national who had attempted to smuggle a number of capsules containing cocaine into the country after swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
 
-The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08).
+The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08), based on foreign intelligence received regarding the passenger.
 
-The arrested suspect has arrived in Sri Lanka from Qatar after swallowing the cocaine capsules, police said.
+The arrested suspect, who reportedly engages in the carpentry profession, had arrived in Sri Lanka from Kampala, Uganda via Doha, Qatar and had reached the island at around 9.00 a.m. on Saturday.
 
-It is reported that after the suspect was admitted to the Negombo Hospital they were able to extract 14 cocaine capsules from his stomach.
+The passenger was subjected to a scan following his arrest while it was then confirmed that he has swallowed a number of cocaine-filled capsules.
 
-◼️
+It is reported that after the suspect was admitted to the Negombo Hospital, as of now he has passed about 45 capsules of cocaine, weighing about 450g in total and estimated to be worth around Rs. 10 million, through his digestive system.
+
+...
 
 [Data](articles/9ebefac2.json)
 
@@ -2147,25 +2185,5 @@ The foreign ministry also released a video on “know the esteemed guests from I
 [Data](articles/0dba81d7.json)
 
 [Extended Data](ext_articles/0dba81d7.ext.json)
-
----
-
-### England to benefit the coin
-
-*2024-06-08 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197542) · `si`
-
-In today's World Cup match between Australia and England, England won the toss and elected to field first.
-
-🟩
-
-The Australian team and the England team will be held today (08) a match of the World Cup.
-
-Accordingly, they decided to give the Australian team first to bat first.
-
-◼️
-
-[Data](articles/786a6a62.json)
-
-[Extended Data](ext_articles/786a6a62.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 12:19:24**
+As of **2024-06-09 12:34:39**
 
 ## Newspaper Stats
 
-*Scraped **29,333** Articles*
+*Scraped **29,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,67 +20,125 @@ adaderanalk | 3,320
 tamilmirrorlk | 3,444
 virakesarilk | 4,494
 dailymirrorlk | 4,653
-adaderanasinhalalk | 4,714
+adaderanasinhalalk | 4,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,329 (100.0%) of 29,333 articles have been extended.
+29,333 (100.0%) of 29,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
 
-### பஸ்மீது கல்வீச்சு: ஏழுபேர் கைது
+### Seven arrested
 
 *2024-06-09 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்மீது-கல்வீச்சு-ஏழுபேர்-கைது/175-338641) · `ta`
 
-இலங்கை போக்குவரத்து சபையின் சிலாபம் சாலைக்கு சொந்தமான பஸ் ஒன்றின் மீது கல் வீச்சுத் தாக்குதல் மேற்கொண்டதாக சந்தேகிக்கப்படும் தனியார் பஸ் சாரதி மற்றும் நடத்துனர் உட்பட ஏழு பேர் ஆனமடுவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Seven individuals, including a bus driver and conductor, were arrested by Anamaduwa police for allegedly attacking a Sri Lanka Transport Board bus. The suspects, aged 25-30, come from various areas. The incident occurred near Antigama while the bus, which serves the Puttalam-Anamaduwa-Maharagama route, was en route to Maharagama Abeksha Hospital. This hospital is crucial for cancer patients from Puttalam, ensuring they receive medical care without issues.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் பத்துளுஓயா, கிரியங்கள்ளிய, பங்கதெனிய மற்றும் வென்னப்புவ ஆகிய பகுதிகளைச் சேர்ந்த 25 வயதுக்கும் 30 வயதுக்கும் இடைப்பட்டவர்கள் என்றும் பொலிஸார் குறிப்பிட்டனர்.
+🟩
 
-புத்தளம், ஆனமடுவ பகுதியில் இருந்து மஹரகம அபேக்‌ஷா வைத்தியசாலைக்கு செல்லும் இ.போ.ச பஸ் மீதே ஆன்டிகம பகுதியில் வைத்து இவ்வாறு கல்வீச்சு தாக்குதல் மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Seven persons, including a private bus driver and conductor, have been arrested by the Anamaduwa police for allegedly attacking a bus belonging to the Sri Lanka Transport Board's Chilaw Road.
 
-புற்றுநோயினால் பாதிக்கப்பட்ட மக்களின் நலன் கருதி இ.போ.சபையின் சிலாபம் சாலைக்கு சொந்தமான குறித்த பஸ் சில வருடங்களுக்கு முன்பிருந்து புத்தளம் -ஆனமடுவ நகரில் இருந்து மஹரகம அபேக்‌ஷா வைத்தியசாலை வரை தொடர்ச்சியாக சேவையை மேற்கொண்டு வருகின்றது.
+The suspects were between the ages of 25 and 30, from Patuluoya, Kiriyangaliya, Pangadeniya and Wennappuwa.
 
-...
+The police said that the attack was carried out in the Antigama area, which was traveling from Anamaduwa in Puttalam to Maharagama Abeksha Hospital.
+
+The bus belonging to the Chilaw Road of the EPC has been continuously serving from Puttalam -Anakamuwa to Maharagama Abeksha Hospital for the benefit of the people affected by cancer.
+
+It is noteworthy that a large number of people from Puttalam are fulfilling their medical needs at the Maharagama Abeksha Hospital without any difficulties.
+
+◼️
 
 [Data](articles/4bf04451.json)
 
+[Extended Data](ext_articles/4bf04451.ext.json)
+
 ---
 
-### ප්‍රධාන බස්රථ නැවතුම්පොළකදී පදිකයකුගේ පාද දෙකම සිරුරෙන් වෙන්වෙයි
+### At a major bus bus station, both of a pedestrian's feet separate from the body
 
 *2024-06-09 12:00:10* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-බස්රථ-නැවතුම්පොළකදී-පදිකයකුගේ-පාද-දෙකම-සිරුරෙන්-වෙන්වෙයි/11-410093) · `si`
 
-බදුල්ල නගරයේ ප්‍රධාන බස්රථ නැවතුම්පොළේ දී ශ්‍රී ලංගම බස්‍ රථයකට ඊයේ(8) පස්වරුවේ යට වූ  පදිකයකුගේ පාද දෙක  එම ස්ථානයේදී ම සිරුරෙන් වෙන්වී ගිය බව බදුල්ල පොලිසිය පවසයි .
+In Badulla, a 56-year-old man suffered severe injuries when his feet got stuck between the bus and the platform during boarding. The incident occurred as the Sri Lanka Transport Board (SLTB) bus was submerged due to flooding from Bandarawela to Badulla. The man was rushed to Badulla Teaching Hospital, where doctors successfully reattached his feet. The bus driver has been arrested.
 
-මෙසේ ශ්‍රී ලංගම බස්‍ රථයකට යට වී බරපතළ තුවාල ලැබු බදුල්ල දෙමටවැල්හින්න ප්‍රදේශයේ පදිංචි 56 හැවිරිදි පුද්ගලයා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බවද පොලිසිය කීය .
+🟩
 
-මොහු බදුල්ල නගරයේ එදිනෙදා කුලී වැඩ කරමින් ජීවිකාව ගෙවන බවත් , මොහු සිය රැකියා කටයුතු අවසන් කර සවස නිවස කරා යාමට බදුල්ල නගරයේ ප්‍රධාන බස්රථ නැවතුම්පොළ ට පාගමනින් යමින් සිටියදී බණ්ඩාරවෙල සිට බදුල්ල බලා පැමිණි  බණ්ඩාරවෙල ඩිපෝවට අයත්  ශ්‍රී ලංගම බස්‍ රථයට   යට වී ඇතැයි පොලිසිය සදහන් කළේය .
+The two feet of a pedestrian in the main bus stand in Badulla town were separated from the body yesterday (8).
 
-ශ්‍රී ලංගම බස්‍ රථය බදුල්ල නගරයට පැමිණ ප්‍රධාන  පිවිසුමෙන් බස්රථය  බදුල්ල ප්‍රධාන බස්රථ නැවතුම්පොළ ට ඇතුල් කිරිමේදී මොහු බස්රථයේ ඉදිරිපස වම් රෝදයට යට වී සිරවී සිටියදී අවට ජනතාව මහත් පරිශ්‍රමයක් දරා ඉවතට ගෙන පසුව ත්‍රීරෝද රථයක දමා ගෙන බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බවද පොලිසිය පැවසීය .
+The 56-year-old man who was injured in the Badulla Transport SLTB was admitted to Badulla Teaching Hospital in Badulla.
 
-...
+The police said that the Sri Lanka Transport Board has been submerged from Bandarawela to Badulla while he was traveling to the main bus stand in Badulla town.
+
+The SLTB bus to be inserted into Badulla and the main access to Badulla and was admitted to the Badulla Teaching Hospital after he was struggled with the bus front left.
+
+The government of Emergency Medical Officer of the Badulla Teaching Hospital has been completely removed from the body, which has been admitted to the Badulla Teaching Hospital and has been treated with the body.Dr. Palitha Rajapaksa, Medical Officer of the Medical Officer, Dr. Palitha Rajapaksa said.
+
+The driver of the SLTB bus has been arrested along with the SLTB bus.
+
+◼️
 
 [Data](articles/1cbd4967.json)
 
+[Extended Data](ext_articles/1cbd4967.ext.json)
+
 ---
 
-### 5 ஆயிரம் ரூபாய் தாள்களை மிதிக்கும் நபர்
+### පාසල් ළමුන් රැගත් බස් රථයක් අනතුරකට ලක්වෙයි
+
+*2024-06-09 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197555) · `si`
+
+පාසල් ළමුන් පිරිසක් රැගත් බස් රථයක් වරකාපොළ ප්‍රදේශයේදී අනතුරකට ලක්ව තිබේ.
+
+අනතුරින් පාසල් තුවාල ලැබූ පාසල් ළමුන් සහ දෙමව්පියන් 13 දෙනෙකු ප්‍රතිකාර සඳහා වරකාපොළ රෝහලට ඇතුළත් කර ඇත.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ මාලබේ රාහුල විද්‍යාලයේ ළමුන් පිරිසක් රැගෙන රන්ටැඹේ බලා ගමන්කරමින් තිබූ බස් රථයකි.
+
+වරකාපොළ ප්‍රදේශයේදී බස් රථය ඇළකට පෙරළීයාමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/0db710a7.json)
+
+---
+
+### The person who tramples 5 thousand rupees
 
 *2024-06-09 11:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆயிரம்-ரூபாய்-தாள்களை-மிதிக்கும்-நபர்/175-338639) · `ta`
 
-யாழ்ப்பாணத்தில் நபர் ஒருவர், 5 ஆயிரம் ரூபாய் பெறுமதியான தாள்களை கீழே போட்டு, இரண்டு கால்களிலும் மிதிக்கும் காணொளி ஒன்று சமூக வலைத்தளங்களில் பரவி வருகிறது
+A man in Jaffna, claiming to be a millionaire, publicly destroyed 5,000 rupees' worth of paper, calling himself a martyr. He promised large donations but claimed poverty on the day of the act.
 
-ஒரு கோடிஸ்வரராக மக்கள் மத்தியில் வெளிப்படுத்திய அவர், தன்னை ஒரு தியாகி என்றே கூறிவருகின்றார்.
+🟩
 
-மக்களுக்கு கோடிக்கணக்கான பணத்தை தானமாக வழங்குவதாகவும், சம்பவ தினத்தன்று தன்னால் பணத்தை வழங்கமுடியவில்லை என்றும் அவர் தெரிவித்துள்ளார்.
+In Jaffna, a person is spreading on social media on both legs, putting down sheets worth 5 thousand rupees.
+
+He expressed his manner as a millionaire and calls himself a martyr.
+
+He said that he would donate millions of rupees to the people and he could not afford money on the day of the incident.
 
 ◼️
 
 [Data](articles/fc2c013c.json)
+
+[Extended Data](ext_articles/fc2c013c.ext.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායම ගැන ක්‍රීඩා ඇමති ගත් තීරණය
+
+*2024-06-09 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197554) · `si`
+
+ශ්‍රී ලංකා 20යි 20 සංචිතය සඳහා වයස අවුරුදු 25ට අඩු ක්‍රීඩකයින් තෝරා ගත යුතු බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ඔහු එම අදහස් පළ කළේ ගාල්ලේ පැවති මාධ්‍ය හමුවකදී ශ්‍රී ලංකාව බංග්ලාදේශය හමුවේ ඊයේ (08) ලද පරාජය පිළිබඳව අදහස් දක්වමිනි.
+
+"ඇත්ත වශයෙන්ම කණගාටුවෙනවා අපි හොඳ කණ්ඩායමක්. අපේ සූදානමක් තිබුණා. ලංකාවේ තේරීම් කමිටුව විසින් තෝරලා තියෙන්නේ ඒ අවස්ථාවේ ලකුණු ගහපු හොඳම ක්‍රීඩකයෝ. මම දැක්කා සමහර සමාජ මාධ්‍යවල තියෙනවා ටෙස්ට් කණ්ඩායමක් 20යි 20ට දැම්මද කියලා. මෙහෙමයි තරග පරදිනකොට මිනිස්සුන්ට හරි ලේසියි ඇඟිල්ල දික්කරන්න. තරග පරදිනකොට බෙල්ල කන්නේ ඇමතිවරයාගේ. මැච් දිනනකොට ක්‍රීඩකයා, පරදිනකොට ඇමතිවරයා. ඕක තමයි ලංකාවේ සාමාන්‍ය තත්ත්වය. දින්නම ක්‍රීඩකයෝ ක්‍රීඩකයින්ගේ දේවල් තමයි උස්සගෙන යන්නේ. ක්‍රීඩකයෝ සහ ක්‍රීඩාවකට ආදරය කරන ප්‍රේක්ෂකයෝ. නමුත් පැරදුනාම සංගම්වලට, ඇමතිවරයාට, ආණ්ඩුවට තමයි කුණුහරුපෙන් බනින්නේ."
+
+...
+
+[Data](articles/9320e806.json)
 
 ---
 
@@ -372,19 +430,25 @@ The suspect was admitted to the Negombo hospital, 14 gulfs have been taken out.
 
 ---
 
-### ජල විදුලිය උපරිමයෙන්
+### Hydroelectricity to maximize
 
 *2024-06-09 10:04:12* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලිය-උපරිමයෙන්/11-410086) · `si`
 
-මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවලට පසුගිය දින කිහිපය තුල ඇද හැලුණු අධික වර්ෂාවත් සමග කාසල්රි සහ මවුස්සාකැලේ ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වෙමින් පවතින බව එම ජලාශයන් භාර ඉංජිනේරුවන් පැවසිය.
+With rising water levels in the Castlereagh and Mossman's reservoirs due to heavy rains, hydroelectric engineers anticipate maximizing power generation. They've set a target of 12 feet for the water level in the Castlereagh Reservoir to ensure optimal conditions for hydroelectric production.
 
-කාසල්රි ජලාශයේ ජල මට්ටමට පිටාර මට්ටමට අඩි 12 ක් සහ මවුස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 11 ක් දක්වා ආසන්න වි ඇති එම ඉංජිනේරුවන් කියා සිටියේ.
+🟩
 
-ජලාශයන් දෙකේම ජල මට්ටම ඉහල යාමත් සමග විමලසුරෙන්ද්‍ර , ලක්ෂපාන , නව ලක්ෂපාන , කැනියොන් සහ පොල්පිටිය යන ජල විදුලි බලාගාර වල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බව ජල විදුලි බලාගාර ඉංජිනේරුවන් පැවසිය.
+The water level in the Castlereis and MouseSakel reservoirs, along with heavy rains in the western rugher, is close to the overflow.
+
+The engineers expressed their 12 feet and the water level of the Water level of the Castlereaging Reservoir.
+
+Hydroelectric engineers said that with the rise of the water level of both reservoirs.
 
 ◼️
 
 [Data](articles/73a17425.json)
+
+[Extended Data](ext_articles/73a17425.ext.json)
 
 ---
 
@@ -2195,57 +2259,5 @@ He was with two wickets in the competition against Bangladesh. Fanu has been tak
 [Data](articles/33c00a69.json)
 
 [Extended Data](ext_articles/33c00a69.ext.json)
-
----
-
-### Happy News to Islamists
-
-*2024-06-08 15:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முப்படையிலுள்ள-இஸ்லாமியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338618) · `ta`
-
-Saudi Arabia offers free Hajj pilgrimages to Islamists in its Armed Forces, thanks to the efforts of Khalid Hamad Alkadani and the Defense Ministry's cooperation with Sri Lanka. The initiative supports the government's stance and provides special opportunities for the annual pilgrimage.
-
-🟩
-
-The Saudi Arabian government has taken steps to provide free opportunity for Hajj pilgrimage to Islamists in the Armed Forces.
-
-The Defense Ministry said in a statement that the opportunity was found in the intervention of Saudi Arabian Arab Arab Arab Arabian Khalid Hamad Alkadani to Sri Lanka in accordance with the special demand of Defense Minister of State for Defense Bandara.
-
-The report also stated that the Saudi Arabian Ambassador has taken 5 special opportunities for the annual Hajj pilgrimage to the support of the government at the request of the Minister of State.. Remble
-
-◼️
-
-[Data](articles/73b0c195.json)
-
-[Extended Data](ext_articles/73b0c195.ext.json)
-
----
-
-### Rain from today
-
-*2024-06-08 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197528) · `si`
-
-Heavy rainfall in central hills has raised water levels in Castlereagh, MouseCale, and other reservoirs near hydroelectric power plants. The Department of Meteorology forecasts more rain in southern regions, including Western, Sabaragamuwa, and Central provinces, with potential for heavy showers exceeding 75mm. They advise caution against possible damages from thunderstorms.
-
-🟩
-
-The water level in the reservoirs in Castlereagh and MouseCale has said that the water level of the reservoirs is close to the exhaust.
-
-The engineers states that the water levels in those reservoirs have increased due to heavy rainfall in the central hills.
-
-The water levels of the reservoirs are rising in Wimalasurendra, Laxapana, Canyon and Polapitiya hydroelectric power plants.
-
-Meanwhile, the Department of Meteorology says that a rainy industry in the south section of the island is expected to be expected in the next few days.
-
-The department states that there will be showers in the Western, Sabaragamuwa, North Western and Southern provinces, in the Kandy and Nuwara Eliya districts.
-
-Some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts. Heavy rains can occur more than 75.
-
-The Department of Meteorology announces that several thin showers in the North and North-Media areas can occur in the Matale district.
-
-...
-
-[Data](articles/ec7a1ddb.json)
-
-[Extended Data](ext_articles/ec7a1ddb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-09 07:27:45**
+As of **2024-06-09 08:12:20**
 
 ## Newspaper Stats
 
-*Scraped **29,295** Articles*
+*Scraped **29,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ colombotelegraphcom | 266
 dbsjeyarajcom | 277
 bbccomsinhala | 284
 newsfirstlk | 363
-islandlk | 1,589
+islandlk | 1,590
 economynextcom | 1,674
 dailyftlk | 1,754
 adalk | 2,491
 adaderanalk | 3,314
-tamilmirrorlk | 3,435
+tamilmirrorlk | 3,436
 virakesarilk | 4,489
 dailymirrorlk | 4,652
-adaderanasinhalalk | 4,707
+adaderanasinhalalk | 4,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,290 (100.0%) of 29,295 articles have been extended.
+29,298 (100.0%) of 29,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-09 (Sunday)
+
+### Railway Drivers' strike still
+
+*2024-06-09 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197548) · `si`
+
+Railway Engineers' strike continues due to promotion delays and unaddressed demands. Two drivers join; others aren't striking over power issues. The opposition claims the government isn't responding to their concerns. A transport ministry spokesperson plans to report the strike to the CID, potentially involving 21 individuals.
+
+🟩
+
+The Lokomotive Opposition Association says that the strike commenced by Railway Engineer drivers will continue today.
+
+The second level promotions commenced on the 6th of the 6th of this morning, taking delay, recruitment delay, delay, recruitment delay.
+
+Two train drivers are only joining the strike and is not the cause of the power sets.
+
+However, the Secretary of the Lockmomotive Opaket Engineering is the Secretary to the License that the authorities are no longer responding to their demands.. R. C. M. Senanayake said.
+
+However, a spokesperson of the Ministry of Transport (CID) is expected to file a complaint to the CID regarding the strike action.
+
+It is reported that the complaint is to be conducted by the government to embarrass the government by 21 people.
+
+◼️
+
+[Data](articles/0bfa6faa.json)
+
+[Extended Data](ext_articles/0bfa6faa.ext.json)
+
+---
+
+### Supervision to Australia
+
+*2024-06-09 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197547) · `si`
+
+In a cricket match against England, Australia won by 36 runs after scoring 201 runs in their batting innings. David Warner contributed with 39 runs, while Mitchell Marsh added 35. Chasing 202, England ended with 165/6 in 20 overs.
+
+🟩
+
+The Australian team won the match between the Australian team and England yesterday in 36 runs.
+
+The England team leader won the toss and invited Australian team to bat first.
+
+Accordingly, the Australian group scored 201 201 201 201 201 201 201 201 201 201).
+
+David Warner scored 39 runs for the Australian team and Mitchell Mash scored 35 runs.
+
+Chasing a target of 202, he was able to score only 165 runs for the loss of 6 wickets in the end of 20 balls.
+
+◼️
+
+[Data](articles/9e8d256d.json)
+
+[Extended Data](ext_articles/9e8d256d.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -234,6 +288,28 @@ During World War II (around 1939), the British military took over the buildings 
 
 ---
 
+### Identify 700 dengue patients in 7 days
+
+*2024-06-09 02:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நாட்களில்-700-டெங்கு-நோயாளர்கள்-அடையாளம்/175-338624) · `ta`
+
+In 7 days, 700 dengue cases were identified, according to a report by the Dengue Control Division. This surge is attributed to rainy conditions fostering mosquito breeding grounds. Yearly, 25,619 dengue cases have been reported.
+
+🟩
+
+This is mentioned in the renewed report issued by the Dengue Control Division.
+
+Rainy weather and flood water stagnation have led to the increase in dengue mosquitoes.
+
+25 thousand 619 dengue patients have been identified so far this year. (A)
+
+◼️
+
+[Data](articles/8cdbf171.json)
+
+[Extended Data](ext_articles/8cdbf171.ext.json)
+
+---
+
 ### Sagala visits to the affected area
 
 *2024-06-09 02:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தத்தினால்-பாதிக்கப்பட்ட-பகுதிக்கு-சாகல-விஜயம்/175-338623) · `ta`
@@ -304,6 +380,8 @@ This triggered a wave of negative feedback and disappointment, not only among SJ
 
 [Data](articles/f9c0a302.json)
 
+[Extended Data](ext_articles/f9c0a302.ext.json)
+
 ---
 
 ### Tissa and Sonia Weeratunga
@@ -318,6 +396,8 @@ My father, Tissa Indraka Weeratunga, the first four-star general of the regular 
 
 [Data](articles/87d4711f.json)
 
+[Extended Data](ext_articles/87d4711f.ext.json)
+
 ---
 
 ### Thaththa’s Wireless
@@ -329,6 +409,8 @@ Thaththa(my late father) was an avid radio listener. He called the radio a ‘wi
 ...
 
 [Data](articles/4e1602fa.json)
+
+[Extended Data](ext_articles/4e1602fa.ext.json)
 
 ---
 
@@ -343,6 +425,24 @@ Transparency International Sri Lanka (TISL) has filed a series of Right to Infor
 ...
 
 [Data](articles/017cb38f.json)
+
+[Extended Data](ext_articles/017cb38f.ext.json)
+
+---
+
+### Convicted felon Trump presumptive Republican nominee for 2024 presidency
+
+*2024-06-09 00:13:00* · [`islandlk`](http://island.lk/convicted-felon-trump-presumptive-republican-nominee-for-2024-presidency/) · `en`
+
+NATO allies honor 80th anniversary of D-Day invasion of Normandy
+
+Former President of the United States of America, Donald Trump was found guilty on 34 counts of felony in the recently concluded hush money case in the district court of Manhattan, New York. Trump has gone down in history as the only convicted felon who has served as the President of the United States. He is currently on bail on his own recognizance, until the date of sentencing, July 11, 2024.
+
+Trump’s only chance of avoiding imprisonment is to win re-election in November. As president, the pending cases against him, indeed all punishments currently imposed on him, will be dismissed. If not, he will probably be jailed for life. He is literally fighting for his life. And losing.
+
+...
+
+[Data](articles/12aa991a.json)
 
 ---
 
@@ -2213,91 +2313,5 @@ India has been pushing for land, oil, gas, and power grid connectivity in Sri La
 [Data](articles/e4e650a9.json)
 
 [Extended Data](ext_articles/e4e650a9.ext.json)
-
----
-
-### An increase in foreign remittances
-
-*2024-06-08 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197516) · `si`
-
-In May 2024, foreign remittances rose to $544.4 million, marking an 11.8% increase from the same period in 2023, bringing the total for January-May to $2,624.4 million.
-
-🟩
-
-The Central Bank announces that the increase in foreign remittances will be increased.
-
-Foreign remittances were US $ 544.4 million in May 2024.
-
-The cumulative value of January to May is $ 2,624.4 million.
-
-It is an increase of 11.8% compared to January - May of January - May 2023.
-
-◼️
-
-[Data](articles/72bfbef1.json)
-
-[Extended Data](ext_articles/72bfbef1.ext.json)
-
----
-
-### New Zealand defeated in Afghanistan
-
-*2024-06-08 09:18:06* · [`adalk`](https://www.ada.lk/sports/ඇෆ්ගනිස්ථානය-හමුවේ-නවසීලන්තයට-දරුණු-පරාජයක්/9-410077) · `si`
-
-In the Twenty20 World Cup, Afghanistan triumphed over New Zealand, winning by 84 runs. In their innings, Afghanistan scored 159/6, while New Zealand could only manage 75 runs.
-
-🟩
-
-The Afghan group wins 84 runs in the match between the Sri Lanka team under the Twenty20 World Cup.
-
-The Afghanistan scored 159 / six runs in the invitation of New Zealand and innings New Zealand scored only 75 runs for New Zealand.
-
-◼️
-
-[Data](articles/640f7b79.json)
-
-[Extended Data](ext_articles/640f7b79.ext.json)
-
----
-
-### Father and daughter killed in train accident
-
-*2024-06-08 09:01:48* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථයක්-දුම්රිය-ගැටී-පියා-හා-දියණිය-ජීවිතක්ෂයට/11-410076) · `si`
-
-A tragic train accident resulted in the deaths of a 54-year-old man from Biyagama and his 34-year-old daughter who worked in Colombo.
-
-🟩
-
-The father and daughter has reportedly died in a train collision at an accident in an accident in an accident.
-
-The deceased has been identified as a 54 year old resident of the Biyagama area and 34 year old work in Colombo.
-
-◼️
-
-[Data](articles/dae55dab.json)
-
-[Extended Data](ext_articles/dae55dab.ext.json)
-
----
-
-### Father and daughter dies in train accident
-
-*2024-06-08 08:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-தந்தையும்-மகளும்-மரணம்/175-338614) · `ta`
-
-A tragic train accident at Enteramulla resulted in the deaths of a father and his daughter. The incident occurred when a car was hit by a train at a railway crossing. Police are investigating the cause of the accident.
-
-🟩
-
-The father and daughter died in an accident this morning at the Enteramulla railway crossing, police said.
-
-The accident occurred when a train collided with a car traveling in the train.
-
-Police are conducting further investigations into the accident.. Remble
-
-◼️
-
-[Data](articles/12652dd9.json)
-
-[Extended Data](ext_articles/12652dd9.ext.json)
 
 ---

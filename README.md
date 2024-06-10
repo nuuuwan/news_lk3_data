@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 18:53:39**
+As of **2024-06-10 19:04:21**
 
 ## Newspaper Stats
 
-*Scraped **29,605** Articles*
+*Scraped **29,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,768
 adalk | 2,531
 adaderanalk | 3,356
 tamilmirrorlk | 3,467
-virakesarilk | 4,542
+virakesarilk | 4,543
 dailymirrorlk | 4,694
 adaderanasinhalalk | 4,765
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,765
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,604 (100.0%) of 29,605 articles have been extended.
+29,605 (100.0%) of 29,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### இலங்கையில் இருந்து பள்ளிவாசல்களின் பாதுகாவலர் நிகழ்ச்சி திட்டத்தின் கீழ் தெரிவு செய்யப்பட்ட பிரதிநிதிகள்
+
+*2024-06-10 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185780) · `ta`
+
+இரண்டு புனித பள்ளிவாசல்களின் பாதுகாவலர் நிகழ்ச்சி திட்டத்தின் கீழ், இலங்கையில் இருந்து தெரிவு செய்யப்பட்ட பிரதிநிதிகள்,  சவூதியை சென்றடைந்தனர்.
+
+இவர்களில் 6  பேர் இலங்கையின் 4  பல்கலைக்கழகங்களைச் சேர்ந்தவர்கள் ஆவர். 4 ஊடகவியலாளர்களும்,  மூத்த அரசாங்க ஊழியர்களும், பள்ளிவாசல்களின் இமாம்களும், மற்றும் சமூக சேகவர்களும் இதில் உள்ளடங்குகின்றனர்.
+
+இவர்களை சவூதிக்கு வழியனுப்பி வைப்பதிலும், அவர்களுக்கான சிறப்பான ஏற்பாடுகளை செய்வதிலும், கொழும்பில் உள்ள தூதுவர் காலித் ஹமூத் நாசர் அல்தாசம் அல்கஹ்தானி முக்கிய பங்காற்றியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/390c9c60.json)
+
+---
 
 ### India to establish industrial zone in Trinco; Jaishankar to visit Sri Lanka soon
 
@@ -95,6 +111,8 @@ Despite the train strike, several train services were operated while facilitatin
 ◼️
 
 [Data](articles/4cf52593.json)
+
+[Extended Data](ext_articles/4cf52593.ext.json)
 
 ---
 
@@ -2325,29 +2343,5 @@ Panadura Division Scene of Crime Officers (SOCO) are scheduled to visit the loca
 [Data](articles/14032dd1.json)
 
 [Extended Data](ext_articles/14032dd1.ext.json)
-
----
-
-### Sri Lanka’s CAL enhances digital platform for stocks, Treasuries, unit trusts
-
-*2024-06-10 09:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-cal-enhances-digital-platform-for-stocks-treasuries-unit-trusts-167127/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Capital Alliance group said its CALOnline investment platform has been enhanced to make it easier for retail investors in particular to access and invest in Treasury bills, stocks and unit trusts.
-
-The CAL group has divisions involved stockbroking, Treasuries as a primary dealer sand fund management.
-
-CAL says it has built a lightweight mobile platform to complement its web service by developing the CalOnline 2.0 version.
-
-“We have spent a lot of time making on-boarding less intimidating, less troublesome and less painful,” Tharindra Kulasinghe, CAL’s Chief Information Officer said.
-
-About 40,000 investors who have transacted on the platform around the country, he says.
-
-When CAL enabled initial public offer applications for the first time, there was wide response from around the country.
-
-...
-
-[Data](articles/b8b4d2a8.json)
-
-[Extended Data](ext_articles/b8b4d2a8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 09:04:49**
+As of **2024-06-10 09:18:48**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,477 (100.0%) of 29,480 articles have been extended.
+29,480 (100.0%) of 29,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### துப்பாக்கிச் சூட்டில் ஒருவர் மரணம்; கொலையா? தற்கொலையா?
+### Death in one of the shootings;Killing?Suicide?
 
 *2024-06-10 08:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-மரணம்-கொலையா-தற்கொலையா/175-338678) · `ta`
 
-ஹுங்கம திஸ்ஸ வீதி, ரன்ன பிரதேசத்தில் கட்டிடப் பொருட்கள் விற்பனை செய்யும் கடையின் உரிமையாளர் ஒருவர் துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளார்.
+A 51-year-old hardware shop owner, Hungama Tissa Street, was found dead after a shooting incident last night in Ranna area. The cause of death remains unclear, with police investigating whether it was murder or suicide.
 
-நேற்றிரவு (09) இந்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளதுடன், உயிரிழந்தவர் அதே பகுதியைச் சேர்ந்த 51 வயதுடைய வர்த்தகர் என தெரிவிக்கப்படுகின்றது.
+🟩
 
-இந்த நபர் ஹார்ட்வேர் கடை ஒன்றை நடத்தி வந்ததாகவும், நேற்று இரவு துப்பாக்கியால் சுடப்பட்டு முதல் மாடியில் இருந்து தரையில் விழுந்ததாகவும் குறிப்பிடப்படுகின்றது.
+Hungama Tissa Street, a shop owner who sells building goods in Ranna area has been shot dead.
 
-இந்த துப்பாக்கிச் சூடு கொலையா அல்லது தற்கொலையா என்ற உண்மைகள் இன்னும் வெளியாகவில்லை என்று பொலிஸார் தெரிவித்தனர்.
+The shooting took place last night (09) and the deceased is reported to be a 51 -year -old businessman from the same area.
+
+It is said that the man operated a hardware shop and fell to the ground from the first floor last night.
+
+Police said the facts were not yet revealed whether the shooting was murdered or suicide.
 
 ◼️
 
 [Data](articles/589d8f44.json)
+
+[Extended Data](ext_articles/589d8f44.ext.json)
 
 ---
 
@@ -304,25 +310,31 @@ With solar power emerging as a sustainable and cost-effective alternative to tra
 
 ---
 
-### සමෙහි තුවාල ඇතිවීම අවම කරන නව 'මෙට්ටයක්' : 'මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්'
+### A new 'mattress that minimizes the skin injury': 'My grandfather was the basis for this design'
 
 *2024-06-10 02:32:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c988154nr25o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''සම මතුපිට ඇති තෙතමනය අඩු කරන්නත් මේ නිර්මාණයෙන් පුළුවන්.''
+Kuliyapitiya Saranath College developed a mattress designed to minimize skin injuries for long-term patients. Inspired by the inventor's grandfather, it outperforms traditional models like Air Mattresses and Water Beds. Evaluated nationally and internationally, it aims to improve patient comfort and health outcomes.
 
-සමෙහි තුවාල ඇතිවීම අවම කරන නව 'මෙට්ටයක්' : 'මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්'
+🟩
 
-දීර්ඝ කාලීනව ඇඳක් මත ගත කරන රෝගීන්ගේ සමෙහි තුවාල ඇති වීම අවම කරන මෙට්ටයක් නිෂ්පාදනය කිරීමට කුලියාපිටිය සාරානාත් විද්‍යාලයේ  චිරාත් බිම්සර සේනානායක සමත්ව තිබේ.
+It contains nothing here.Veadio header, '' This is also created to reduce the moisture on the surface. ''
 
-එම නිර්මාණය ජාතික මට්ටමින් සහ ජාත්‍යන්තර මට්ටමින් ද ඇගයීමට ලක්විය.
+A new 'mattress that minimizes the skin injury': 'My grandfather was the basis for this design'
 
-රෝගීන් සඳහා දැනට භාවිතා කරන 'එයාර් මෙට්‍රස්' සහ 'වෝටර් මෙට්‍රස්' වලට වඩා මෙහි ඇති විශේෂත්වය වන්නේ මෙම නව නිර්මාණය මගින් සමේ තෙතමනය පාලනය කිරීමට ද හැකිවීමය.
+Kuliyapitiya Saranath College, Kuliyapitiya, have been able to produce a mattress that reduces the injury of diseases on a lengthy patient's skin.
 
-''මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්. මම බලාපොරොත්තු වෙනවා මේක නිෂ්පාදනයක් විදියට ඉදිරියේ දී රෝගීන්ගේ අතට පත් කරන්න'' යනුවෙන් චිරාත් බිම්සර සේනානායක BBC සිංහල සේවයට පැවසුවේය.
+The creation was evaluated at national level and international level.
+
+The specialty of this new design is more important than 'Air Metros' and 'War Maths' for patients.
+
+'' The things I saw because of my grandfather was the basis for this design. I hope this is a product in the presence of patients in the hands of patients, "Chiet Minister Mutha Math Mathsara Senanayake told the BBC Sinhala.
 
 ◼️
 
 [Data](articles/b2ec5ace.json)
+
+[Extended Data](ext_articles/b2ec5ace.ext.json)
 
 ---
 
@@ -844,17 +856,23 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
-### பொசன் பண்டிகை காலத்தில் விசேட பஸ் சேவை
+### Special Bus Service during the Poson Festival
 
 *2024-06-10 00:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொசன்-பண்டிகை-காலத்தில்-விசேட-பஸ்-சேவை/175-338672) · `ta`
 
-பொசன் பண்டிகை காலத்தில் விசேட பஸ் சேவைகள் முன்னெடுக்கப்படவுள்ளன என இலங்கை போக்குவரத்து சபை  வெளியிட்டுள்ளது.
+During the Poson Festival, SLTB offers special bus services from Colombo and Gampaha to Mihintale, Tandrimalai, and Anuradhapura.
 
-கொழும்பு, கம்பஹா உள்ளிட்ட நகரங்களில் இருந்து மிஹிந்தலை, தந்திரிமலை மற்றும் அனுராதபுரம் ஆகிய பகுதிகளுக்கு இந்த பஸ் சேவையை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.  (a)
+🟩
+
+The Sri Lanka Transport Board (SLTB) has issued special bus services to be carried out during the Poson festival.
+
+It has been decided to carry out this bus service from cities including Colombo and Gampaha to Mihintale, Tandrimalai and Anuradhapura.(a)
 
 ◼️
 
 [Data](articles/c86be64f.json)
+
+[Extended Data](ext_articles/c86be64f.ext.json)
 
 ---
 

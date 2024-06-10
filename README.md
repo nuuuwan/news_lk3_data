@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 16:06:43**
+As of **2024-06-10 16:19:05**
 
 ## Newspaper Stats
 
-*Scraped **29,570** Articles*
+*Scraped **29,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,524
+adalk | 2,527
 adaderanalk | 3,350
 tamilmirrorlk | 3,464
 virakesarilk | 4,533
@@ -26,23 +26,43 @@ adaderanasinhalalk | 4,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,569 (100.0%) of 29,570 articles have been extended.
+29,570 (100.0%) of 29,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### පාලමෙන් වැටුණු කාන්තාවක් මරුට
+### A woman dies after falling bridge
 
 *2024-06-10 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197606) · `si`
 
-මෙලෙස මියගොස් ඇත්තේ 33 හැවිරිදි වියේ පසුවන එම ප්‍රදේශයේම පදිංචි කාන්තාවකි.
+A 33-year-old woman tragically passed away after falling from a bridge. Police confirmed her death due to the fall.
 
-පොලීසිය ප්‍රකාශ කළේ පාලමක් මතින් ඇදවැටීමෙන් ඇය මියගොස් ඇති බවය.
+🟩
+
+The victim was a 33-year-old woman in the area.
+
+Police said she had died by falling on a bridge.
 
 ◼️
 
 [Data](articles/2f1264f3.json)
+
+[Extended Data](ext_articles/2f1264f3.ext.json)
+
+---
+
+### දුම්රිය රියදුරු වැඩවර්ජනය අවසන්
+
+*2024-06-10 15:34:23* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරු-වැඩවර්ජනය-අවසන්/11-410121) · `si`
+
+වැඩ වර්ජනයේ යෙදී සිටි දුම්රිය රියදුරන් සහ  ප්‍රවාහන අමාත්‍යාංශයේ නිලධාරීන් අතර සාකච්ඡාවකින් පසු වැඩ වර්ජනය අවසන් කළ බව දුම්රිය රියදුරෝ පවසයි.
+
+වර්ජනය අවසන් වුවද අද පස්වරුවේ දුම්රිය ධාවනය සාමාන්‍ය තත්වයට පත් නොවන බවත් හෙට උදෑසන සිට දුම්රිය ධාවනය සාමාන්‍ය අතට පත් වනු ඇති බවත් දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/5665a33f.json)
 
 ---
 
@@ -113,6 +133,22 @@ Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporati
 [Data](articles/a227fb44.json)
 
 [Extended Data](ext_articles/a227fb44.ext.json)
+
+---
+
+### කඩා වැටෙන ගසකින් බේරීමට ගොස් පාසල් වෑන් රථය තාප්පයක ගැටෙයි
+
+*2024-06-10 15:00:49* · [`adalk`](https://www.ada.lk/breaking_news/කඩා-වැටෙන-ගසකින්-බේරීමට-ගොස්-පාසල්-වෑන්-රථය-තාප්පයක-ගැටෙයි/11-410120) · `si`
+
+තෙල්දෙණිය පොලිස් වසමේ දිගන කෙන්ගල්ල ප්‍රදේශයේදී දැවැන්ත සියඹලා ගසක් පාරට ඇද වැටෙන දුටු පාසල් වෑන් රථ රියදුරෙකු ඉන් බේරීම සඳහා උත්සාහ කිරීමේදී වෑන් රථය රියදුරුගේ පාලනයෙන් මිදී වෑන් රස්තය බැම්මක සහ දුරකථන කුළුණක ගැටීමෙන් පාසල් ළමුන් ඇතුළු පස් දෙනකු තුවාල ලබා රෝහල් ගත කළ බව පොලිසිය කියයි .
+
+පාසල් ළමුන් ප්‍රවාහනය කරමින් අද (10දා) පෙරවරු 6.30 ට පමණ එම අනතුර සිදුව ඇති අතර අනතුරෙන් වෑන් රථයේ රියැදුරු බරපතල තුවාල ලබා රෝහල් ගත කොට ඇති අතර වෑන් රථයේ ගමන් ගත් ගුරුවරියන් දෙදෙනෙකු සහ පාසල් සිසුන් කිහිප දෙනෙකු සුළු තුවාල ලබා රෝහල් ගත කොට ඇති බව ද පොලිසිය කියයි .
+
+දිරාපත්ව තිබූ මෙම ගස ඉවත් කර දෙන ලෙස ප්‍රදේශවාසීන් විසින් ඉඩමේ හිමිකරුට සහ අදාළ බලධාරීන්ට අවස්ථා කිහිපයකදීම දැනුම් දුන්නද ඉන් පලක් නොවූ බව ප්‍රදේශවාසිහු පවසති .
+
+◼️
+
+[Data](articles/4497da2f.json)
 
 ---
 
@@ -437,6 +473,18 @@ The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating eveni
 [Data](articles/1aff787f.json)
 
 [Extended Data](ext_articles/1aff787f.ext.json)
+
+---
+
+### බංග්ලාදේශය ලංකාවට දෙන්න යන සහාය
+
+*2024-06-10 13:46:41* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-ලංකාවට-දෙන්න-යන-සහාය/11-410119) · `si`
+
+ලංකාවේ කෘෂි නවීකරණ ව්‍යාපෘතිය සඳහා බංග්ලාදේශයේ සහාය ලබාදෙන බව බංග්ලාදේශ අගමැතිනී ෂීක් හසීනා මහත්මිය තහවුරු කර තිබේ. ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ දිවුරුම් දිමේ උත්සවය වෙනුවෙන් ඉන්දියාවට ගිය ජනපති රනිල් වික්‍රමසිංහ මහතා හා බංග්ලාදේශ අග්‍රාමාත්‍යවරිය අතර හමුව නවදිල්ලි නුවර පැවැති අවස්ථාවේදී ඇය මේ බව ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/2f4d5d2e.json)
 
 ---
 
@@ -2323,73 +2371,5 @@ The specialty of this new design is more important than 'Air Metros' and 'War Ma
 [Data](articles/b2ec5ace.json)
 
 [Extended Data](ext_articles/b2ec5ace.ext.json)
-
----
-
-### Accident
-
-*2024-06-10 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185705) · `ta`
-
-In Wattala, a tragic accident occurred where a three-wheeler collided with a train at the Eremulla railway crossing, resulting in the deaths of two individuals, including a woman.
-
-🟩
-
-Wattala - A three -wheeler collided with a train at Eremulla railway crossing.
-
-Two people, including a woman, were killed when a car crashed into two trains on Saturday morning on the 08th.
-
-◼️
-
-[Data](articles/5b178eaa.json)
-
-[Extended Data](ext_articles/5b178eaa.ext.json)
-
----
-
-### Experts highlight policy challenges for new Govt. at Pathfinder Foundation event
-
-*2024-06-10 01:49:43* · [`dailyftlk`](https://www.ft.lk/news/Experts-highlight-policy-challenges-for-new-Govt-at-Pathfinder-Foundation-event/56-762870) · `en`
-
-The distinguished audience attentively listens to the virtual address by Prof. Premachandra Athukorala
-
-The distinguished audience, including esteemed diplomatic representatives, actively participates in the event
-
-The main speakers deliver their insightful presentations, engaging the audience with their expertise. From left: UGC former Chairman and Ambassador to the Philippines Prof. Gamini Samaranayaka, Senior Economic Advisor to the President Dr. R.H.S. Samarathunga, Pathfinder Foundation Chairman Amb. (Retd.) Bernard Goonetilleke, University of Colombo Emeritus Professor of Economics Prof. Sirimal Abeyratne, and Pathfinder Foundation Executive Director Dr. Dayaratna Silva
-
-The distinguished audience, comprising local academia, institutional representatives, and subject matter experts, engages in thoughtful discussions
-
-The Pathfinder Foundation successfully concluded its Fourth Dialogue with Diplomats, focusing on ‘Policy Challenges of a New Government.’
-
-...
-
-[Data](articles/c44bba55.json)
-
-[Extended Data](ext_articles/c44bba55.ext.json)
-
----
-
-### Indian PM makes history with third term
-
-*2024-06-10 01:46:00* · [`dailyftlk`](https://www.ft.lk/news/Indian-PM-makes-history-with-third-term/56-762869) · `en`
-
-India’s Prime Minister Narendra Modi with leaders of several countries including President Ranil Wickremesinghe (fourth from right) after being sworn in for his third term
-
-Narendra Modi was sworn in as India’s Prime Minister for a third term in a grand ceremony at the presidential palace in Delhi yesterday.
-
-The leader of the Bharatiya Janata Party took his oath, saying he would “do right to all manner of people without affection or ill-will”.
-
-Modi’s BJP-led National Democratic Alliance won the general election with 293 seats, a much lower margin than predicted by exit polls.
-
-The election saw a resurgence of India’s opposition, which won 234 seats.
-
-Thousands of guests have been attending his inauguration at Delhi’s presidential palace. Among them are the heads of neighbouring Bangladesh, Nepal, Sri Lanka, and the Maldives – but not Pakistan or China.
-
-Tight security has been in place in Delhi, which was declared a no-fly zone, with more than 2,500 police officers deployed around the venue.
-
-...
-
-[Data](articles/6fcde23f.json)
-
-[Extended Data](ext_articles/6fcde23f.ext.json)
 
 ---

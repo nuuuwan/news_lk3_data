@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 08:22:53**
+As of **2024-06-10 08:34:23**
 
 ## Newspaper Stats
 
-*Scraped **29,475** Articles*
+*Scraped **29,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
 adalk | 2,514
-adaderanalk | 3,337
+adaderanalk | 3,339
 tamilmirrorlk | 3,452
 virakesarilk | 4,519
 dailymirrorlk | 4,672
@@ -26,29 +26,75 @@ adaderanasinhalalk | 4,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,473 (100.0%) of 29,475 articles have been extended.
+29,475 (100.0%) of 29,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### பல மாவட்டங்களில் பல தடவைகள் மழை பெய்யும்
+### It is raining several times in many districts
 
 *2024-06-10 08:04:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-338676) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rains are forecasted for several provinces including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Expectations of over 50mm rainfall in Sabaragamuwa and Nuwara Eliya, along with potential thunderstorms in the evening or night across various regions. Strong winds of 40-50km/h are anticipated in certain areas, prompting the Department of Meteorology to advise caution against heavy winds and lightning risks.
 
-சப்ரகமுவ மாகாணத்திலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-ஊவா மாகாணத்தில் ஒரு சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+The Department of Meteorology has said that rainfall will occur in the Western, Sabaragamuwa and North Western Provinces several times in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, அம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+The Department of Sabaragamuwa Province and Nuwara Eliya district will experience more than 50 millimeters of heavy rainfall.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+It has also been reported that rain or thunderstorms are expected in the evening or night in a few places in Uva Province.
+
+Heavy winds are expected to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
+
+The Department of Meteorology has urged the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/e35b4d70.json)
+
+[Extended Data](ext_articles/e35b4d70.ext.json)
+
+---
+
+### Macron dissolves French parliament and calls elections after big EU vote defeat
+
+*2024-06-10 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99772/macron-dissolves-french-parliament-and-calls-elections-after-big-eu-vote-defeat) · `en`
+
+(AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
+
+The legislative elections will take place in two rounds on June 30 and July 7.
+
+The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
+
+Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
+
+Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
+
+...
+
+[Data](articles/62816b78.json)
+
+---
+
+### 20 office trains cancelled as railway strike continues
+
+*2024-06-10 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99771/20-office-trains-cancelled-as-railway-strike-continues) · `en`
+
+At least 20 office trains were cancelled today as well due to the strike launched by Sri Lanka Railway Locomotive Operating Engineers’ Union, says the Railway Department.
+
+Meanwhile, it was reported that over 50 scheduled train journeys were cancelled within yesterday (09) due to the continued strike.
+
+The trade union action launched by the Locomotive Operating Engineers’ Union is continuing for the fourth consecutive day today (10).
+
+They have been on strike since midnight on Thursday, (June 06) over several key demands including solutions to the delays in second-class promotions of locomotive drivers, delays in the recruitment process and several other issues.
+
+It is also mentioned that only locomotive drivers of two of the five running sheds have so far joined the strike and due to this there will be no power set trains operating.
+
+...
+
+[Data](articles/d01d708d.json)
 
 ---
 
@@ -1144,23 +1190,31 @@ This is the third general election that the National Democratic Alliance continu
 
 ---
 
-### හිටපු SDIG රවීට ආණ්ඩුවෙන් තර්ජන ඒම ගැන අනුරගේ හෙළිකිරීම
+### Anura reveal Anura to threaten former SDIG Ravi
 
 *2024-06-09 20:12:01* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-SDIG-රවීට-ආණ්ඩුවෙන්-තර්ජන-ඒම-ගැන-අනුරගේ-හෙළිකිරීම/11-410108) · `si`
 
-විශ්‍රාමික පොලිස් සාමූහිකය ගොඩනැගීමේදී එහි පෙරමුණ ගත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, විශ්‍රාමික පොලිස් සාමූහිකයේ ප්‍රධානී රවී සෙනෙවිරත්න මහතා ඇතුළු නිලධාරීන්ට ආණ්ඩුවෙන් තර්ජන පවා එල්ල වූ බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය.
+Anura Kumara Dissanayake, leader of the National Pension, revealed threats against former SDIG Ravi, highlighting issues with the CID officials' election process and the inability to construct stages due to government obstruction and intimidation. He praised police officers for joining the force despite threats and emphasized the importance of stopping the persecution of retiring officers. The event, attended by various retired police officials, underscored the challenges faced by the pensioner police department and the need for support and protection against undue influence.
 
-ආණ්ඩුවෙන් පමණක් නොව විපක්ෂයෙන්ද තර්ජනාත්මකස්වරූපයෙන්, ආයාචනාත්මක ස්වරූපයෙන් හා ඉල්ලීම් ලෙස මෙම වේදිකාවට ගොඩනොවන ලෙස ඔවුන්ට ඇමතුම් පැමිණි බවද දිසානායක මහතා කීවේය.
+🟩
 
-අභූත චෝදනා කරමින් විශ්‍රාමික පොලිස් නිලධාරීන් දඩයම් කිරීමේ 'කැත වැඩේ' නතර කරන ලෙස ඔහු සාගල රත්නායක මහතාගේ නම අමන්ත්‍රණය කරමින් කියා සිටියේය.
+Leader of the National Pension Anura Kumara Dissanayake said that the officials of the Criminal Investigation Department (CID) was also elected to the officials of the Criminal Investigation Department (CID) and the Head of the Criminal Investigation Department.
 
-කිසිදු තර්ජනයකට බිය නොවී, පලා නොයමින් ජාතික ජනබලවේගය සමග එක් වූ සියලු පොලිස් නිලධාරීන්ට දිසානායක මහතා සිය ස්තූතිය පළ කළේය.
+Dissanayake said that they were not able to build the stage as not only by the government but also as the threatening, appeals and demands.
 
-පොලිස් සේවයේ රාජකාරිය ඉක්මවා යන යුතුකමක් වෙනුවෙන් විශ්‍රාමික පොලිස් නිලධාරීන් ජාතික ජනබලවේගය සමග එකතු වී සිටින බව දිසානායක මහතා පැවසීය.
+He addressed Sagala Ratnayake's name to stop 'ugly work' to hunt retirement police officers.
+
+Dissanayake thanked all police officers who joined the police officers with the national popularity without fear, without fear.
+
+Dissanayake said that the retirement police officers have joined the national popularity for the duties of the Police Service.
+
+National Conference on the Pensioner Police Department held the National Conference of the Pensioner Police at the Youth Services Council Auditorium, Maharagama, Maharagama.. Speaking on the occasion, Anura Kumara Dissanayake made these comments.
 
 ...
 
 [Data](articles/f55f7811.json)
+
+[Extended Data](ext_articles/f55f7811.ext.json)
 
 ---
 
@@ -2185,51 +2239,5 @@ Therefore, a new budget will not be presented at the end of this year for the fi
 [Data](articles/7947d82e.json)
 
 [Extended Data](ext_articles/7947d82e.ext.json)
-
----
-
-### Emergency decision on foreign employment
-
-*2024-06-09 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197560) · `si`
-
-The Defense Minister announced that 25% of foreign jobs offered by the government have been allocated to retired war veterans, with the first group set to depart for Israel soon. The initiative aims to support the families of fallen war heroes, prioritizing them for essential services like healthcare, public administration, and banking. Additionally, the government plans to grant land ownership rights and offer concessional loans to military personnel and their families.
-
-🟩
-
-Defense Minister Pipain Bandara Tennakoon says that 25 percent of foreign employment opportunities received by the government have been given to retired war heroes.
-
-Accordingly, its first batch will leave for Israel at the end of this month, the State Minister added.
-
-He was speaking at a program organized at the Minneriya Infantry Training Center to investigate the welfare and administrative activities of the families of members of the war heroes who donated their lives in retired and the families of war heroes.
-
-The Defense Ministry, the Armed Forces, Ranaviru Seva Authority and other government agencies are to be implemented to provide priority to the members of war heroes and other services to obtain health, public administration, banking and other services.
-
-The State Minister stated that the government will issue permits for the ownership of the land and their families under the "Heritage" inherited Deeds to the Government.
-
-...
-
-[Data](articles/859dbea4.json)
-
-[Extended Data](ext_articles/859dbea4.ext.json)
-
----
-
-### President Ranil arrives in Delhi to attend swearing-in ceremony of PM Modi
-
-*2024-06-09 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99758/president-ranil-arrives-in-delhi-to-attend-swearing-in-ceremony-of-pm-modi) · `en`
-
-Sri Lankan President Ranil Wickremesinghe has arrived in the Indian Capital of New Delhi to attend the much-anticipated swearing-in ceremony of Prime Minister-designate Narendra Modi today. He was received by P Kumaran, the Officer on Special Duty (ER & DPA) division of the Ministry of External Affairs.
-
-“Warm welcome to President @RW_UNP of Sri Lanka as he arrives in New Delhi to attend the swearing-in ceremony of Prime Minister and Council of Ministers.
-
-Received by OSD (ER & DPA) P. Kumaran at the airport,” said the Official Spokesperson, Ministry of External Affairs, Randhir Jaiswal in a post on X.
-
-President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Sri Narendra Modi, who has been elected as the Prime Minister of India for the third consecutive term, the PMD reported.
-
-...
-
-[Data](articles/ada91c62.json)
-
-[Extended Data](ext_articles/ada91c62.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 18:36:26**
+As of **2024-06-10 18:53:39**
 
 ## Newspaper Stats
 
-*Scraped **29,604** Articles*
+*Scraped **29,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,531
 adaderanalk | 3,356
 tamilmirrorlk | 3,467
 virakesarilk | 4,542
-dailymirrorlk | 4,693
+dailymirrorlk | 4,694
 adaderanasinhalalk | 4,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,600 (100.0%) of 29,604 articles have been extended.
+29,604 (100.0%) of 29,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,26 @@ It is reported that the bus was accidental confronting two cars and motorcycle.
 [Data](articles/802344ed.json)
 
 [Extended Data](ext_articles/802344ed.ext.json)
+
+---
+
+### Railways Department yet to calculate losses from strike
+
+*2024-06-10 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-Department-yet-to-calculate-losses-from-strike/108-284527) · `en`
+
+Colombo, June 10 (Daily Mirror) - The Railways Department has said that the losses incurred as a result of the non-operation of trains during the trade union strike initiated by the Sri Lanka Railways Locomotive Operating Engineers’ Union have not yet been calculated.
+
+Speaking to the Daily Mirror, Sri Lanka Railways General Manager N.J. Indipolage said that the losses would be assessed by the end of this month.
+
+He suggested that approximately five per cent of the revenue might have been lost due to the disruption in railway services.
+
+Despite the train strike, several train services were operated while facilitating the transportation of many individuals.
+
+"Only a few people utilized public services. Long-distance operating train services, including goods trains, continued to operate," he stated. "Therefore, the railways department did not experience significant losses." Indipolage said.
+
+◼️
+
+[Data](articles/4cf52593.json)
 
 ---
 
@@ -154,19 +174,27 @@ However, the Israeli Waawan reached a gang and Nethenya.
 
 ---
 
-### நடிகர் பிரேம்ஜி அமரன்- இந்து திருமணம்
+### Actor Premji Amaran- Hindu marriage
 
 *2024-06-10 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185768) · `ta`
 
-இசையமைப்பாளர் -பாடகர்- நடிகர் -பாடலாசிரியர் என பன்முக ஆளுமை கொண்ட நடிகர் பிரேம்ஜி அமரனுக்கும், இந்து என்ற பெண்ணுக்கும் திருத்தணியில் உறவினர்கள் மற்றும் நண்பர்கள் சூழ திருமணம் நடைபெற்றது.‌
+Premji Amaran, known for his roles in over thirty Tamil films, including 'Chennai 28', got married to a Hindu woman at the Thiruthani Murugan Temple on June 9th. His brother and director Venkat Prabhu attended the wedding.
 
-தமிழில் முப்பதுக்கும் மேற்பட்ட படங்களில் நகைச்சுவை நடிகராகவும், குணச்சித்திர நடிகராகவும், கதையின் நாயகனாகவும் நடித்து ரசிகர்களிடத்தில் பிரபலமானவர் பிரேம்ஜி அமரன்.
+🟩
 
-குறிப்பாக 'சென்னை 28' படத்தில் இவரது நடிப்பை பாராட்டாதவர்கள் யாரும் இல்லை என சொல்லலாம். நாற்பது வயதை கடந்த பிறகும் திருமணம் செய்து கொள்ளாமல் இருந்து வந்த பிரேம்ஜி அமரனுக்கு பெற்றோர்கள் தீவிரமாக வரன் தேடினர்.‌
+Actor Premji Amaran, a multi -faceted actor, and a woman named the composer -Padakar -Actor -Padalist.
 
-...
+Premji Amaran is famous for his fans in more than thirty films in Tamil.
+
+In particular, there is no one who does not appreciate his performance in 'Chennai 28'. Parents were actively searching for Premji Amaran, who was not married after the age of forty.
+
+At the end of the age of forty -five, she and a woman named Hindu. Their marriage was followed by relatives and friends at the Thiruthani Murugan Temple, one of Murugan's sixty houses on the ninth of June.. The actors, his brother and director Venkat Prabhu, who played with him in the wedding, congratulated the bride on the role of the bride.
+
+◼️
 
 [Data](articles/91622c24.json)
+
+[Extended Data](ext_articles/91622c24.ext.json)
 
 ---
 
@@ -190,19 +218,25 @@ The Chairman of the Sri Lanka Land Development Corporation, Hiran Balasuriya ind
 
 ---
 
-### வாழைச்சேனையில் மாடு மேய்க்கச் சென்ற இளைஞன் நீரில் மூழ்கி மரணம்!
+### A young man drowned in a cow in Valaichenai
 
 *2024-06-10 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185769) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட ரிதிதென்னை பகுதியில்  நீரில் மூழ்கிய நிலையில் இளைஞன் ஒருவன் சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Valaichenai, a 23-year-old man named Sali Mohammed Rihas drowned while grazing his cow near Ritidenna pond. Initial police reports indicate he fell into the water and couldn't swim.
 
-ரிதிதென்னை குளத்திற்கு அருகில் மாடு மேய்த்துக் கொண்டிருந்த இளைஞன் ஒருவன் குளக்கட்டில் சறுக்கி விழுந்து நீரில் மூழ்கி மரணமடைந்துள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரிய வந்துள்ளது.
+🟩
 
-இவ்வாறு மரணமடைந்த இளைஞன் ரிதிதென்னை புதிய கிராமம் பகுதியைச் சேர்ந்த 23 வயதுடைய சாலி முகம்மது றிஹாஸ் என்பவர் என அடையாளம் காணப்பட்டுள்ளார்.
+A youth has been recovered from the body of the Valaichenai police division, who was drowned in the Ritidenna area, police said.
+
+Initial investigations by the police revealed that a young man who was grazing a cow near the Ritheenni pond has died in the pool and drowned.
+
+The deceased has been identified as 23 -year -old Sali Mohammed Rihas, a new village in Ritiden.
 
 ◼️
 
 [Data](articles/d28468f8.json)
+
+[Extended Data](ext_articles/d28468f8.ext.json)
 
 ---
 
@@ -256,33 +290,49 @@ The Prime Minister of Bangladesh has promised the Prime Minister Ranil Wickremes
 
 ---
 
-### கொரோனா கொடுமையை விவரிக்கும் லாக் டவுன்
+### Lock Town describing Corona cruelty
 
 *2024-06-10 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185766) · `ta`
 
-கொரோனா வைரஸ் தொற்று பரவியிருந்த காலகட்டத்தில் தனிமைப்படுத்திக் கொள்ளும் வகையில் விதிக்கப்பட்ட லாக் டவுன் எனும் விடயத்தால் உறவுகளுக்கு இடையே ஏற்பட்ட உணர்வு பூர்வமான விரிசல்களையும் பூசல்களையும் விவரிக்கும் வகையில் :'லாக் டவுன்' எனும் திரைப்படம் தயாராகி இருக்கிறது. இம்மாதம் வெளியாகவிருக்கும்' லாக் டவுன்' திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+"Lock Town," a film set against the backdrop of the COVID-19 pandemic, explores relationship dynamics amidst isolation. Directed by AR. Anupama Parameswaran stars alongside Charlie, Nirosha, and others. The teaser, released recently, hints at the narrative's emotional depth, with Anupama Parameswaran's performance generating buzz. Known for her roles in "Premam," "Dhanush," and "Siren," she plays the lead, Anita, in "Lock Town."
 
-இயக்குநர் ஏ ஆர். ஜீவா இயக்கத்தில் உருவாகி இருக்கும் 'லாக் டவுன்' எனும் திரைப்படத்தில் அனுபமா பரமேஸ்வரன் கதையின் நாயகியாக நடித்திருக்கிறார். இவருடன் சார்லி, நிரோஷா, பிரியா வெங்கட், லிவிங்ஸ்டன்‌, இந்துமதி ராஜ்குமார் லொள்ளு சபா மாறன் விது, அபிராமி, ரேவதி, பிரியா கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. ஏ. சக்திவேல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என். ஆர். ரகுநந்தன் மற்றும் சித்தார்த் விபின் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். சஸ்பென்ஸ் திரில்லர் வகையிலான இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+🟩
+
+The film 'Lock Town' is ready to describe the sensible cracks and conflicts between relationships with the subject of Lock Town, which was destined to isolate the period of Corona virus infection.. The teaser of the movie 'Lock Town' has been released this month.
+
+Director AR. Anupama Parameswaran plays the hero of the story in the movie 'Lock Town'. Along with him, Charlie, Nirosha, Priya Venkat, Livingston, Indumathi Rajkumar Lok Saba Maran Vidu, Abirami, Revathi, Priya Ganesh. K. A.. Sakthivel's cinematography. R. Raghunandan and Siddharth Vipin have composed the music. The film is produced by producer Subhashkaran on behalf of Leica Productions.
+
+All the tasks of the film are completed and waiting for the release. In this case, the teaser of the film has been released. Anupama Parameswaran, the hero of the story in the teaser, has played the role of Anita and has a great expectation among the audience, as it is a matter of isolation during the Corona period.
 
 ...
 
 [Data](articles/f007e1dc.json)
 
+[Extended Data](ext_articles/f007e1dc.ext.json)
+
 ---
 
-### விதார்த் நடிக்கும் 'லாந்தர்' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### The release date of 'Lander' starring Vidarth
 
 *2024-06-10 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185765) · `ta`
 
-தமிழ் சினிமாவின் தனக்கென ஒரு நிலையான சந்தை மதிப்பை உருவாக்கி தயாரிப்பாளர்களையும், விநியோகஸ்தர்களையும் வாழ வைத்துக் கொண்டிருக்கும் நட்சத்திர நடிகர்களில் ஒருவரான யதார்த்த நாயகன் விதார்த் கதையின் நாயகனாக நடித்திருக்கும் 'லாந்தர்' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது
+"Lander," directed by Sajee Salim and featuring Vidarth among others, is set to release on the 21st of this month. The film, produced by Sri Vishnu under M Productions, follows Vidarth's successful "Anjalam."
 
-இயக்குநர் சஜீ சலீம் இயக்கத்தில் உருவாகி இருக்கும் 'லாந்தர்' திரைப்படத்தில் விதார்த், ஸ்வேதா டோரத்தி, விபின், சஹானா, பசுபதி, கஜராஜ் உள்ளிட்ட பலர் நடித்துள்ளனர். ஞான சௌந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எம். எஸ். பிரவீண் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை எம் புரொடக்ஷன்ஸ் சார்பில் தயாரிப்பாளர் ஸ்ரீ விஷ்ணு தயாரித்திருக்கிறார்.
+🟩
 
-இந்தப் படத்தின் மோஷன் போஸ்டர், பாடல்கள், டீசர் ஆகிய வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கிறது. இந்நிலையில் இந்த திரைப்படம் இம்மாதம் 21 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+The release date of the film 'Lander' has been officially announced as one of the star actors who create a stable market value of Tamil cinema and make producers and distributors.
 
-...
+Directed by director Sajee Salim, Vidarth, Swetha Torathi, Vipin, Sahana, Pasupathi, Gajaraj and many others star in the film 'Lander'. The film has been recorded by Gnana Sounder. S.. Praveen has composed music. The film was produced by Sri Vishnu on behalf of M Productions.
+
+The film's motion poster, songs and teaser has been well received. It has been officially announced that the film will be released on the 21st of this month at the film House.
+
+Meanwhile, the film 'Lander', which is set to star in Vidarth's performance following the success of 'Anjamam', is also in a double joy.
+
+◼️
 
 [Data](articles/503eb428.json)
+
+[Extended Data](ext_articles/503eb428.ext.json)
 
 ---
 
@@ -2299,27 +2349,5 @@ When CAL enabled initial public offer applications for the first time, there was
 [Data](articles/b8b4d2a8.json)
 
 [Extended Data](ext_articles/b8b4d2a8.ext.json)
-
----
-
-### Complications for bodies using substandard soap
-
-*2024-06-10 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197588) · `si`
-
-The Health Service Association warns that substandard soap may cause health issues in infants, including allergies, due to its impact on sensitive skin. In times of economic hardship, some parents resort to cheaper soaps, unaware of the risks. The association emphasizes the importance of choosing high-quality soap for infants to prevent potential complications.
-
-🟩
-
-The government's Health Service Association states that it has been reported that various complications of babies have caused various complications of the babies due to the use of quality soap.
-
-Its Treasurer Priygangani Susangika Susangika said that on the current economic situation, some parents who are not currently useless in the current economic situation and the influence of younger soap is used today.
-
-"We have reportedly reported some allergies on the body of children. Finding out about this, one thing we realized that he is the case with no substandard influential soap.. Especially that mothers should take care of using their children's soap in the use of their children's soap.. Infant skin is a very sensitive place. Therefore, in years the program has the same. So, especially the economic situation, take care of it ... "
-
-◼️
-
-[Data](articles/b8f6f7e5.json)
-
-[Extended Data](ext_articles/b8f6f7e5.ext.json)
 
 ---

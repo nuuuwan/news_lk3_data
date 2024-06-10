@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 11:18:57**
+As of **2024-06-10 11:34:34**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,506 (100.0%) of 29,508 articles have been extended.
+29,508 (100.0%) of 29,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### பாரிய விபத்து தவிர்க்கப்பட்டது: ஐவருக்கு காயம்
+### Massive accident avoided: hurt to five
 
 *2024-06-10 11:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாரிய-விபத்து-தவிர்க்கப்பட்டது-ஐவருக்கு-காயம்/76-338689) · `ta`
 
-திகன- கெங்கல்ல வீதியில் காணி ஒன்றில் அழுகிய புளியமரம் ஒன்று பாடசாலை மாணவர்களை ஏற்றிச் சென்ற வேன் மீது விழுந்து விபத்துக்குள்ளானதில் ஐந்து பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In a recent accident on the Digana-Kengalla road, five people, including two female teachers and several students, were injured after their van collided with a wall and a telephone pole while trying to avoid a fallen tree. The driver, who attempted to steer clear of the obstacle, was also hospitalized. The incident highlights concerns over the lack of communication from local authorities regarding the removal of hazardous trees in the area.
 
-வீதியிலுள்ள மரம் திடீரென முறிந்து வீழ்ந்ததைக் கண்ட வேன் சாரதி, விபத்தைத் தவிர்க்க முயன்றார். எனினும், வேனை கட்டுப்படுத்த முடியாமல் போனதால் மதில் மற்றும் தொலைபேசிக் கம்பத்தில் மோதி விபத்துக்குள்ளானதாக தெல்தெனிய பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-இந்த விபத்து இன்று (10) இடம்பெற்றுள்ளதுடன், வேனின் சாரதி படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Five people were injured and admitted to the hospital when a van carrying a schoolgirl carrying a schoolgirl in a land on a land on the Digana-Kengalla road.
 
-வாகனத்தில் பயணித்த இரண்டு பெண் ஆசிரியர்கள் மற்றும் பல பாடசாலை மாணவர்கள் சிறு காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The van driver, who saw the tree on the street suddenly fell down, tried to avoid accident. However, the Teldeniya police said that the van crashed into a wall and telephone pole as the van was unable to control.
 
-அழுகிய புளியமரத்தை அகற்றுமாறு அப்பகுதி மக்கள் காணியின் உரிமையாளருக்கும், சம்பந்தப்பட்ட அதிகாரிகளுக்கும் அறிவித்தும் பலனில்லை என்பதும் தெரியவந்துள்ளது.
+The accident took place today (10) and the driver of the van has been admitted to the hospital.
+
+Two female teachers and several school children who were traveling in the vehicle were admitted to the hospital with minor injuries, police said.
+
+It has been revealed that the people of the area have not been informed of the land owner and the concerned authorities to remove the rotten tamarind tree.
 
 ◼️
 
 [Data](articles/f00d9143.json)
+
+[Extended Data](ext_articles/f00d9143.ext.json)
 
 ---
 
@@ -124,23 +130,29 @@ President Wickremesinghe’s arrival received significant media coverage in Indi
 
 ---
 
-### ගණේමුල්ල සංජීවට අධිකරණයෙන් දුන් නියෝගය
+### Court order to Mr. River Sanjeewa
 
 *2024-06-10 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197592) · `si`
 
-වීරගුල පොලිසිය භාරයේ රඳවා සිටින සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ගණේමුල්ල සංජීව මේ මස 24 වන දින දක්වා බූස්ස බන්ධනාගාරයේ රඳවා තැබීමට නියෝග කර තිබේ.
+Mr. River Sanjeewa, a notorious drug dealer and organized crime leader, is ordered to remain in Boossamulla Prison until the 24th of this month. Arrested at Katunayake International Airport with a fake Nepalese passport, his detention follows an order by Mrs. Silani Perera.
 
-ඒ අද (10) ගම්පහ මහෙස්ත්‍රාත් සිලනි පෙරේරා මහත්මිය විසින් කළ නියෝගයක් මතය.
+🟩
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ලෙස සැලකෙන සංජීව කුමාර නොහොත් ගණේමුල්ලේ සංජීව කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී පසුගිය වසරේ සැප්තැම්බර් මස 13 වන දා අත්අඩංගුවට පත්විය.
+An organized criminal leader of the Weeragula Police and a strong drug dealer, Religion, has been retained at the Boossamulla Prison until the 24th of this month.
 
-නේපාලයේ කත්මණ්ඩු නුවර සිට මෙම සැකකරු ව්‍යාජ ගමන් බලපත්‍රයක් යොදාගනිමින් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි තිබුණි.
+That is today (10) on an order by Mrs. Silani Perera today.
 
-ත්‍රස්තවාදය වැළක්වීමේ පණත යටතේ ගණේමුල්ලේ සංජීව දින 90ක් රඳවාගෙන ප්‍රශ්න කිරීමට පසුව පොලීසිය අවසර ලබාගත්තේය.
+Sanjeewa Kumara alias Mammulla, who is considered a member of an organized crime, was arrested on September 13 last year at the Katunayake International Airport.
+
+The suspect had arrived at the Katunayake airport using a fake passport from Kathmandu, Nepal.
+
+The police obtained permission after the Prevention of Terrorism Act.
 
 ◼️
 
 [Data](articles/b18c0fbd.json)
+
+[Extended Data](ext_articles/b18c0fbd.ext.json)
 
 ---
 

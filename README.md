@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 17:19:11**
+As of **2024-06-10 17:35:11**
 
 ## Newspaper Stats
 
-*Scraped **29,591** Articles*
+*Scraped **29,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,529
+adalk | 2,530
 adaderanalk | 3,354
 tamilmirrorlk | 3,466
 virakesarilk | 4,538
 dailymirrorlk | 4,693
-adaderanasinhalalk | 4,761
+adaderanasinhalalk | 4,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,587 (100.0%) of 29,591 articles have been extended.
+29,591 (100.0%) of 29,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,49 @@ Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Cha
 
 [Data](articles/2cb12565.json)
 
+[Extended Data](ext_articles/2cb12565.ext.json)
+
 ---
 
-### வேலைநிறுத்தம் கைவிடப்பட்டது
+### බංග්ලාදේශයේ සහාය ශ්‍රී ලංකාවට
+
+*2024-06-10 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197607) · `si`
+
+ශ්‍රී ලංකාවේ ක්‍රියාත්මක කෘෂි නවීකරණ වැඩසටහන සඳහා බංග්ලාදේශයේ සහාය ලබාදෙන බව එරට අග්‍රාමාත්‍ය ෂෙයික් හසීනා මහත්මිය පැවසුවාය.
+
+ඉන්දියාවේ නවදිල්ලිහි දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ පැවති ද්විපාර්ශ්වික සාකච්ඡාවේ දී බංග්ලාදේශ අග්‍රාමාත්‍යවරිය ඒ බව සඳහන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මොදි මහතාගේ දිවුරුම්දීමේ උත්සවය සඳහා නවදිල්ලි නුවරට ගොස් සිටින අතර එහිදී එම හමුව සිදුව තිබේ.
+
+සමූපකාර ක්‍රමවේදය අනුව බංග්ලාදේශයේ ක්‍රියාත්මක වන කෘෂිකර්ම නවීකරණ වැඩසටහන අධ්‍යයනය කොට එහි අත්දැකීම් ද ලබාගනිමින් ශ්‍රී ලංකාවේ කෘෂි නවීකරණ වැඩසටහන සාර්ථක කර ගැනීම සඳහා ලාංකික කෘෂි ප්‍රවීණයන්ගෙන් සමන්විත කණ්ඩායමක් බංග්ලාදේශයට යැවීමට ජනාධිපතිවරයා මෙහිදී එකඟතාවය පළ කර ඇති බව සඳහන්ය.
+
+බංග්ලාදේශය සහ ශ්‍රී ලංකාව අතර නිදහස් වෙළෙඳ ගිවිසුමක් අත්සන් තැබීම සම්බන්ධයෙන්ද නායකයන් දෙපළ සාකච්ඡා කර තිබේ.
+
+...
+
+[Data](articles/fce50b1d.json)
+
+---
+
+### The strike was abandoned
 
 *2024-06-10 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தம்-கைவிடப்பட்டது/175-338710) · `ta`
 
-போக்குவரத்து அமைச்சருடனான கலந்துரையாடலின் பின்னர், வேலை நிறுத்தத்தை கைவிட ரயில்வே தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+Following discussions with the Transport Minister, railway unions called off their strike. The meeting addressed concerns like delayed promotions and recruitments.
 
-போக்குவரத்து அமைச்சர்  பந்துல குணவர்தன மற்றும் ரயில் சாரதிகள் தொழிற்சங்கங்களுக்கு இடையிலான இந்த கலந்துரையாடல் போக்குவரத்து அமைச்சில் இடம்பெற்றுள்ளது.
+🟩
 
-இரண்டாம் வகுப்பு பதவி உயர்வு தாமதம், ஆட்சேர்ப்பு தாமதம் உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து, குறித்த வேலை நிறுத்தம் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது.
+After a discussion with the Transport Minister, the railway unions have decided to abandon the strike.
+
+This discussion between Transport Minister Bandula Gunawardena and Railway Drivers Trade Unions took place at the Ministry of Transport.
+
+It is noteworthy that the strike was made, with various demands, including the delay in the promotion of the second class and the delay in recruitment.
 
 ◼️
 
 [Data](articles/35a506d2.json)
+
+[Extended Data](ext_articles/35a506d2.ext.json)
 
 ---
 
@@ -228,17 +256,23 @@ Former Pradeshiya Sabha Chathura Perera, Mali Algama and Manjuzaran. Mr. Duminda
 
 ---
 
-### ’மாமியா’ கைது
+### Arrested
 
 *2024-06-10 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியா-கைது/175-338709) · `ta`
 
-கைத்துப்பாக்கியை வைத்திருந்த நபர் ஒருவரை கொழும்பு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளனர்.பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய இவர்  கைது செய்யப்பட்டுள்ளார். சந்தேகநபர் சீதுவை  வடக்கில் வசிக்கும் 34 வயதுடைய "மாமியா" என அழைக்கப்படும் நபர் ஆவார் .
+A 34-year-old man from the north was arrested by the Colombo Crime Branch for possession of a handgun. The origin of the weapon remains unknown.
 
-இந்த கைத்துப்பாக்கியானது எந்த நாட்டில் தயாரிக்கப்பட்டதென இதுவரை கண்யறியப்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+The Colombo Crime Branch has been arrested by a man who had a handgun.The suspect is a 34 -year -old man who lives in the north.
+
+Police said that the handgun was prepared in which country was not yet known.
 
 ◼️
 
 [Data](articles/53e14b3b.json)
+
+[Extended Data](ext_articles/53e14b3b.ext.json)
 
 ---
 
@@ -1618,6 +1652,22 @@ The 21-year-old Carlos fails to start with 1 to 1 round of battle after a strugg
 
 ---
 
+### ලංකාවේ මරණ වලින් සියයට 89ක්ම බෝනොවන රෝග නිසයි
+
+*2024-06-10 11:04:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-මරණ-වලින්-සියයට-89ක්ම-බෝනොවන-රෝග-නිසයි/11-410115) · `si`
+
+ඉදිරි වසර පහ තුළ රුපියල් බිලියන 70 ක් වැය කර මෙරට ප්‍රාථමික සෞඛ්‍ය සේවාව ශක්තිමත් කිරීමටත්, දිවයිනම ආවරණය වන පරිදි හෘද කැතීතකරණ ඒකක පහක් ස්ථාපිත කිරීමටත්, පියවර ගන්නා බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+
+ඉදිරි අවුරුදු පහ තුළ ලෝක බැංකු ආධාර යටතේ රුපියල් බිලියන 70 ක්, වර්ෂයකට රුපියල්  බිලියන 14 ක් බැගින් වැය කොට  මෙරට ප්‍රාථමික සෞඛ්‍ය සේවාව ශක්තිමත් කිරීමට පියවර ගන්නා බවත්, ඒ තුලින් රෝගියාට සියලු ප්‍රතිකාර සේවාවන් එකම ආයතනයක් තුලදී විශේෂඥ වෛද්‍ය පහසුකම් සහ තොරතුරු  සහිතව ලබා ගැනීමේ නව ක්‍රමවේදයක් ‍ මෙයින් ඇති වන බවත් ලේකම්වරයා පැවැසිය.
+
+එසේම බෝනොවන රෝග නිසා ඇති වන මරණ පිළිබද අවධානය යොමුකිරීමේදී  දහදෙනෙකුගෙන් හතර දෙනෙක්, නැත්නම් පස්දෙනෙක්  අවුරුදු 50-60 අඩු අය බවත්, එම නිසාවෙන් ජයිකා ආයතනය සමග සම්භන්ධ වී හෘද ප්‍රතිකාර සදහා හෘද කැතීතකරණ ඒකක පහක් දිවයිනම ආවරණය වන පරිදි ස්ථාපිතකිරීමට පියවර ගන්නා බවත්, සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+
+...
+
+[Data](articles/9a61670e.json)
+
+---
+
 ### Massive accident avoided: hurt to five
 
 *2024-06-10 11:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாரிய-விபத்து-தவிர்க்கப்பட்டது-ஐவருக்கு-காயம்/76-338689) · `ta`
@@ -1780,23 +1830,49 @@ The Railway Driver Project operated today (10) on the fourth date on the fourth 
 
 ---
 
-### රුවන්ඩාවට යවන ලද  ශ්‍රී ලාංකික සරණාගතයින්: මේක 'එළිමහන් සිර කඳවුරක්'
+### Sri Lankan refugees sent to Rwanda: This is a open-outdoor camp '
 
 *2024-06-10 10:42:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekkyx2x04ko) · `si`
 
-රුවන්ඩාවට යවන ලද  ශ්‍රී ලාංකික සරණාගතයින්: මේක 'එළිමහන් සිර කඳවුරක්'
+It seems like you've shared a detailed narrative involving a group of individuals, primarily focusing on their experiences as refugees in Rwanda, their legal status, and the challenges they face, including issues related to healthcare, safety, and legal recognition. This story touches on several complex themes such as immigration, asylum, human rights, and the responsibilities of host nations towards refugees.
 
-බ්‍රිතාන්‍ය රජය විසින් ඉන්දීය සාගරයේදී මුදාගෙන රුවන්ඩාව වෙත යවන ලද සංක්‍රමණිකයන් පිරිසක් තමන් ලිංගික හිංසනයන් සහ ප්‍රචණ්ඩත්වයට ගොදුරු වනු ඇතැයි යන බියෙන් පසුවන බව පවසා තිබේ.
 
-එක්සත් රාජධානිය වෙත යන සරණාගතයින් රුවන්ඩාවට යැවීමේ මතභේදාත්මක සැලැස්ම සම්බන්ධයෙන් බ්‍රිතාන්‍ය දේශපාලන පක්ෂ අතර බෙදීම් පැවතිය ද මෙම කුඩා සංක්‍රමණික කණ්ඩායම දැනටමත් වසරකට වැඩි කාලයක් එහි ජීවත් වෙයි.
 
-ඒ අනුව, බීබීසීය ඔවුන්ගෙන් සිව් දෙනෙකු හමු වීම සඳහා නැගෙනහිර-මධ්‍යම අප්‍රිකාව බලා ගියේ ය.
+Given the complexity and depth of the issues raised, it might be helpful to address specific aspects or questions you have regarding this scenario. For instance:
 
-මෙම කණ්ඩායම පවසන්නේ, ඔවුන්ට හුදෙකලා මෙන් ම අනාරක්ෂිත බවක් දැනෙන බව ත් සහ ඔවුන්ගේ සංකීර්ණ වෛද්‍ය අවශ්‍යතා [ඇතැම් අවස්ථාවල අතීතයේ සිදුවූ ස්ත්‍රී දූෂණ සහ වධහිංසාවලට පැමිණ වීමේ ප්‍රතිඵලයක් ලෙස ඇති වූ] ඉටු නොවන බව ත්  ය. ඔවුන් සෑම කෙනෙකුට ම ආහාර සහ අනෙකුත් අත්‍යවශ්‍ය ද්‍රව්‍ය සඳහා සතියකට ඩොලර් 50කට (පවුම් 39) ආසන්න මුදලක් ලැබෙන නමුත් එක්සත් රාජධානියේ සහ රුවන්ඩා රජයන් විසින් එකඟ වනු ලැබ ඇති ඔවුන්ගේ රැඳී සිටීමේ කොන්දේසි යටතේ ඔවුන්ට රැකියාවක නිරත වීමට අවසර නොලැබේ.
+
+
+1. **Legal Status and Asylum**: How does the legal status of these individuals affect their ability to seek asylum or find refuge in another country?
+
+2. **Healthcare Challenges**: What are the implications of inadequate healthcare for refugees, both for their immediate needs and long-term wellbeing?
+
+3. **Safety Concerns**: How can host countries balance the need to maintain public safety with the responsibility to protect refugees from harm?
+
+4. **International Cooperation**: What role do international agreements and cooperation play in addressing the challenges faced by refugees and host countries?
+
+
+
+Please let me know if there's a particular aspect you'd like to explore further or if you have any specific questions related to this narrative.
+
+🟩
+
+Sri Lankan refugees sent to Rwanda: This is a open-outdoor camp '
+
+It has been said that a group of migrants sent to Rwanda from the fear of Rwanda by liberating the British Ocean in the Indian Ocean.
+
+Although the British political parties have divided between the controversial plan to send refugees to the UK, the small migrant group lives there for more than a year.
+
+Accordingly, the BBC went to East-Central Africa to meet four of them.
+
+This group says they are notolated, as well as their complex medical requirements, and their complex medical purposes. They receive an intimate amount of food and other essential items (39 pounds per week), but they are not allowed to work under their stay in the UK and Rwanda governments.
+
+They say that they faced harassment and unnecessary sexual harassment. They say they are afraid to get out of the reality they are "self-imprisoned" in view of the reality. They are waiting for the UK as a permanent place to live. "Rwanda is a outdoor prison," Said one.
 
 ...
 
 [Data](articles/404f81e0.json)
+
+[Extended Data](ext_articles/404f81e0.ext.json)
 
 ---
 
@@ -2237,47 +2313,5 @@ In its plan for reduction of carbon emission, the government has decided to have
 [Data](articles/0ef504f8.json)
 
 [Extended Data](ext_articles/0ef504f8.ext.json)
-
----
-
-### World interest grows in nuke power generation in Sri Lanka
-
-*2024-06-10 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-interest-grows-in-nuke-power-generation-in-Sri-Lanka/108-284471) · `en`
-
-In the backdrop of the government evolving legislation to regulate nuclear power generation and the Sri Lanka Atomic Energy Board (SLAEB) getting ready to call for Expression of Interest from prospective investors, a delegation of China National Nuclear Corporation (CNNC) is expected in the country soon to explore investment in a nuke plant in the country, an official said yesterday.
-
-CNNC is among the organizations that submitted proposals for such a plant in the country. Besides Russia’s Rosatom, France’s Électricité de France (EDF), and Denmark’s Seaborg have submitted proposals.
-
-In its plan for reduction of carbon emission, the government has decided to have nuclear power in its energy mix. Recently, the International Atomic Energy Agency (IAEA) team of experts also concluded a seven-day safety review of Sri Lanka’s selection process to identify potential sites to build its first nuclear power plant.
-
-...
-
-[Data](articles/a97c0d9f.json)
-
-[Extended Data](ext_articles/a97c0d9f.ext.json)
-
----
-
-### Death in one of the shootings;Killing?Suicide?
-
-*2024-06-10 08:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-மரணம்-கொலையா-தற்கொலையா/175-338678) · `ta`
-
-A 51-year-old hardware shop owner, Hungama Tissa Street, was found dead after a shooting incident last night in Ranna area. The cause of death remains unclear, with police investigating whether it was murder or suicide.
-
-🟩
-
-Hungama Tissa Street, a shop owner who sells building goods in Ranna area has been shot dead.
-
-The shooting took place last night (09) and the deceased is reported to be a 51 -year -old businessman from the same area.
-
-It is said that the man operated a hardware shop and fell to the ground from the first floor last night.
-
-Police said the facts were not yet revealed whether the shooting was murdered or suicide.
-
-◼️
-
-[Data](articles/589d8f44.json)
-
-[Extended Data](ext_articles/589d8f44.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 00:19:02**
+As of **2024-06-11 00:34:38**
 
 ## Newspaper Stats
 
-*Scraped **29,651** Articles*
+*Scraped **29,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,601
 economynextcom | 1,697
-dailyftlk | 1,768
+dailyftlk | 1,777
 adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,650 (100.0%) of 29,651 articles have been extended.
+29,651 (100.0%) of 29,660 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,90 @@ This case centers around the marriage of two Sri Lankan nationals, which was leg
 ...
 
 [Data](articles/cf80dd06.json)
+
+[Extended Data](ext_articles/cf80dd06.ext.json)
+
+---
+
+### IDB to roll out national vehicle parade with all domestically value-added vehicles
+
+*2024-06-10 23:49:59* · [`dailyftlk`](https://www.ft.lk/business/IDB-to-roll-out-national-vehicle-parade-with-all-domestically-value-added-vehicles/34-762903) · `en`
+
+A vehicle parade of locally manufactured and assembled vehicles organised by the Industrial Development Board (IDB) along with the Ministry of Industries (MOI), Sri Lanka Automobile Component Manufacturers Association (SLACMA) and Automobile Assemblers Association will be held on 18 June.
+
+The third parade of its kind will tour through Galle Face, Lotus Roundabout, Fort, Technical Junction, Punchikawatta, Maradana, Borella, Borella cemetery junction and to BMICH from 4 p.m. onwards.
+
+The IDB under the Ministry of Industries is a key stakeholder in the Standard Operating Procedure which facilitates automobile assembly and component manufacturing in the country. The roadshow will see a fleet of over 200 locally assembled vehicles parade the streets.
+
+...
+
+[Data](articles/256c5392.json)
+
+---
+
+### Unilever Sri Lanka inaugurates 2.33 MW solar power project at Horana factory
+
+*2024-06-10 23:46:22* · [`dailyftlk`](https://www.ft.lk/business/Unilever-Sri-Lanka-inaugurates-2-33-MW-solar-power-project-at-Horana-factory/34-762902) · `en`
+
+Multinational giant to increase total solar generation in its Sri Lanka network to 4MWs in 2024
+
+Unilever Sri Lanka recently inaugurated a new 2.33 MW solar power project at its Horana factory, partnering with Abans Electricals PLC for project execution.
+
+This significant step forward in Unilever’s commitment to sustainability and renewable energy represents a total investment of 1.3 million Euros. The project aligns with Unilever’s Global Climate Transition Action Plan (CTAP) and contributes to the ambitious goals set by the Sri Lanka Power and Energy Ministry for transitioning the country’s electricity supply to renewable sources by 2030.
+
+...
+
+[Data](articles/06230b62.json)
+
+---
+
+### MCCI completes renovation of Sinopec filling station
+
+*2024-06-10 23:44:41* · [`dailyftlk`](https://www.ft.lk/business/MCCI-completes-renovation-of-Sinopec-filling-station/34-762901) · `en`
+
+The renovation of a Sinopec filling station in Sri Lanka, solely funded by Sinopec Overseas, completed by MCC International Incorporation Ltd. (MCCI) on 4 June.
+
+It is MCCI’s first construction project in the petrochemical industry Sri Lanka, involving high risks, a tight schedule, and many challenges.
+
+MCCI made arrangements with various departments working together seamlessly, organising a strong team to quickly commence construction. The project officially started on 11 May.
+
+With the strong support and assistance of Sinopec’s specialists, MCCI team has overcome adverse effects such as shipping delays and construction during the rainy season, completing the safety hazard modifications in seven days and the entire renovation was completed in six days, achieving the goal of “MCC Speed, Sinopec Quality”.
+
+The MCCI team also received high recognition and praise from Sinopec officials.
+
+...
+
+[Data](articles/ca7da1e1.json)
+
+---
+
+### NYSC launches Youth Accelerator Platform for climate mobility in collaboration with IOM Sri Lanka
+
+*2024-06-10 23:42:23* · [`dailyftlk`](https://www.ft.lk/business/NYSC-launches-Youth-Accelerator-Platform-for-climate-mobility-in-collaboration-with-IOM-Sri-Lanka/34-762900) · `en`
+
+NYSC Chairman Pasindu Guneratne with IOM Sri Lanka Chief of Mission Sarat Dash at the MoU signing ceremony
+
+In a landmark collaboration, the National Youth Services Council (NYSC) and the International Organisation for Migration (IOM) in Sri Lanka have joined forces to introduce the Youth Accelerator Platform for Climate Mobility (YAP4C) – an initiative aiming to empower young individuals to play an active role in addressing climate change challenges, filling a crucial gap in current efforts within the context of climate change-related human mobilities.
+
+The primary objective of YAP4C is to mobilise a movement of young advocates pressing for urgent and effective measures to combat climate change. Through a Memorandum of Understanding, IOM Sri Lanka and NYSC will collaborate on various initiatives aimed at strengthening youth engagement in climate action and climate mobility actions in the country.
+
+...
+
+[Data](articles/e135df6d.json)
+
+---
+
+### Indo Lanka Chamber of Commerce and Industry holds interactive session with High Commissioner Jha
+
+*2024-06-10 23:40:23* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-holds-interactive-session-with-High-Commissioner-Jha/34-762899) · `en`
+
+The Indo Lanka Chamber of Commerce and Industry (ILCCI) hosted a captivating evening interactive session with High Commissioner of India to Sri Lanka Santosh Jha, at Taj Samudra Colombo. The event brought together business leaders and industry experts for a night of engaging discussions and networking.
+
+The evening commenced with a warm welcome address by the ILCCI President Raghuraman. In his address Raghuraman stated, “This is a golden opportunity for us to integrate our economies we have much to learn and gain from India, we as a business should be pushing them for the ECTA and this will definitely take us to the next level in penetrating such a huge market.” His words set the stage for a productive and insightful session.
+
+...
+
+[Data](articles/93fdc0c8.json)
 
 ---
 
@@ -181,6 +265,38 @@ Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest
 [Data](articles/458b7351.json)
 
 [Extended Data](ext_articles/458b7351.ext.json)
+
+---
+
+### Leadership development – not a waste of time, energy and money when done right
+
+*2024-06-10 21:33:48* · [`dailyftlk`](https://www.ft.lk/columns/Leadership-development-not-a-waste-of-time-energy-and-money-when-done-right/4-762885) · `en`
+
+It is essential that leadership development caters to an organisational need and is carefully planned and monitored
+
+Effective leaders are those who enable positive people performance through role modelling, inspiring a shared vision, facilitating an environment of open and frank discussion, licensing the challenge of the status quo, enabling empowerment and decision making, and celebrating success. You do not necessarily have to be a good manager to be a good leader or vice versa. Leadership is hierarchy agnostic. In a corporate setting, leadership need not be confined to just the chief executive officer or the C-suite. It can be allowed to flourish at every level of the organisation provided the roles, and deliverables, of individuals and teams are clearly defined
+
+...
+
+[Data](articles/8037d141.json)
+
+---
+
+### Proposed Economic Transformation Act: Will super-regulator put maritime sector in crisis?
+
+*2024-06-10 21:25:28* · [`dailyftlk`](https://www.ft.lk/columns/Proposed-Economic-Transformation-Act-Will-super-regulator-put-maritime-sector-in-crisis/4-762884) · `en`
+
+The question is whether we are circumventing the application of safety legislation to promote investments in the shipping and ports sector
+
+Sweeping reforms of this nature should be cautiously implemented after broad consultation from all and sundry. The Government needs to understand that her persistent aversion and contemptuous attitude to public consultation, together with her extreme urgency to introduce laws, coupled with the acme of recklessness by the drafters and advisors, will only augment the pain and suffering in this country, and make the existing problems far worse
+
+As per Clause 55(2)(b)(v) any regulatory law can be added through regulations
+
+Such additions may put many domestic industries and maritime sector in trouble
+
+...
+
+[Data](articles/8d71e762.json)
 
 ---
 
@@ -367,6 +483,34 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 [Data](articles/d5451ebb.json)
 
 [Extended Data](ext_articles/d5451ebb.ext.json)
+
+---
+
+### Dr. Siri Kannangara: His healing and teaching remain within us
+
+*2024-06-10 20:19:53* · [`dailyftlk`](https://www.ft.lk/columns/Dr-Siri-Kannangara-His-healing-and-teaching-remain-within-us/4-762882) · `en`
+
+He was a physician who made his patients believe that he was a friend. He was always self-effacing and treated all Sri Lankans as though they were close relatives in an immense extended family
+
+Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he delivered after attaining Enlightenment, observed that having to associate with those who are repugnant is sorrowful and being apart from those who are loved is also sorrowful — ‘appiyehi sampayogo dukkho, piyehi vippayogo dukkho’. So, we choose to avoid and insulate ourselves from the distasteful while we seek the company of people we find agreeable. When they leave, we are saddened. When they depart, never to return, we are distraught.
+
+...
+
+[Data](articles/099bc8a2.json)
+
+---
+
+### Sri Lanka’s struggle with election phobia
+
+*2024-06-10 20:13:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-struggle-with-election-phobia/14-762881) · `en`
+
+The call to postpone elections is an indirect acceptance by President Wickremesinghe of his inability to obtain a popular mandate, no matter what his economy-fixing mantra is
+
+www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat out of the bag. As political tensions increase and the demand for elections spike, the general secretary of the United National Party (UNP)—a party that has recorded successive defeats and now stands decimated under Wickremesinghe’s leadership—has proposed the postponement of both presidential and parliamentary elections by two years through a referendum, effectively permitting Wickremesinghe to continue as president to “implement economic reforms”.
+
+...
+
+[Data](articles/98ae5772.json)
 
 ---
 
@@ -2093,217 +2237,5 @@ The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating eveni
 [Data](articles/1aff787f.json)
 
 [Extended Data](ext_articles/1aff787f.ext.json)
-
----
-
-### Support to grant Bangladesh to Sri Lanka
-
-*2024-06-10 13:46:41* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-ලංකාවට-දෙන්න-යන-සහාය/11-410119) · `si`
-
-Bangladesh supports Sri Lanka's agricultural modernization project, confirming its participation. This announcement came during a visit to New Delhi, where the Bangladeshi Prime Minister met with Indian Prime Minister Narendra Modi.
-
-🟩
-
-Bangladesh has confirmed Bangladesh to the Sri Lankan agricultural modernization project. At New Delhi, he was speaking at New Delhi and the Prime Minister of Bangladesh to arrive in India for Indian Prime Minister Narendra Modi.
-
-◼️
-
-[Data](articles/2f4d5d2e.json)
-
-[Extended Data](ext_articles/2f4d5d2e.ext.json)
-
----
-
-### Railway strikers work
-
-*2024-06-10 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197601) · `si`
-
-Railway strikers' actions were deemed deliberate and aimed at embarrassing the government, according to the Additional General Manager of the Railway Department. The department plans to take disciplinary action against those involved. Despite issuing promotions, the strike's impact led to delays in further appointments due to language proficiency requirements and ongoing inquiries. The department also intends to conduct a special investigation within a month.
-
-🟩
-
-Minister of Strike today has been given a discussion with Minister Bandula Gunawardena in charge of the Ministry in the Ministry of Transport today (10).
-
-Meanwhile, the heads of the Railway Department responded with a press conference for the operations of the strikers.
-
-Additional General Manager of the Railway Department (Administrative) Tuxury, said that the strike is deliberately, that the strike is deliberately and the government is embarrassing.
-
-She added that all those who have done is definitely take disciplinary action.
-
-...
-
-[Data](articles/9798926a.json)
-
-[Extended Data](ext_articles/9798926a.ext.json)
-
----
-
-### President meets Indian External Affairs Minister
-
-*2024-06-10 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Indian-External-Affairs-Minister/108-284507) · `en`
-
-President Ranil Wickremesinghe met Indian External Affairs Minister S. Jaishankar in New Delhi today where he discussed bilateral ties with India and the sub continant's neighbourhood programmes.
-
-◼️
-
-[Data](articles/f7e0a08a.json)
-
-[Extended Data](ext_articles/f7e0a08a.ext.json)
-
----
-
-### Wanted gunman in ’Pas Podda’ murder arrested at BIA on return from UAE
-
-*2024-06-10 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanted-gunman-in-Pas-Podda-murder-arrested-at-BIA-on-return-from-UAE/108-284506) · `en`
-
-Colombo, June 10 (Daily Mirror) - The gunman responsible for the killing of underworld figure Saman Rohitha Perera alias  ‘Pas Podda’ in Gampaha in 2022 was arrested by immigration officials at the Bandaranaike International Airport, Katunayake upon his return to the country.
-
-‘Pas Podda’ was fatally shot at while two others were injured, near the Gampaha Magistrate’s Court on July 30, 2022.
-
-The assailant, identified as 28-year-old Awishka Madhusankha from Kimbulapitiya, Negombo, was arrested this morning and handed over to the Gampaha police.
-
-Following the shooting, Madhusankha reportedly fled to Sharjah in the United Arab Emirates.
-
-The Gampaha Magistrate's Court had imposed a travel ban on the suspect and the officers of the Immigration Department identified him on his return and arrested him.
-
-◼️
-
-[Data](articles/eef80a5c.json)
-
-[Extended Data](ext_articles/eef80a5c.ext.json)
-
----
-
-### Janatha has a nearby seat
-
-*2024-06-10 13:26:25* · [`adalk`](https://www.ada.lk/picture_story/ජනපතිට-මෝදි-ළඟම-අසුනක්/10-410118) · `si`
-
-In a ceremony marking Narendra Modi's third consecutive term as India's Prime Minister, leaders including Bangladesh's PM Shaikh Hasina, Nepal's PM, Maldives' President Mohamed Mishal, and Sri Lanka's President Ranil Wickremesinghe attended. Modi's oath was highlighted, with Wickremesinghe receiving notable recognition. The event, held at Rashtrapati Bhavan, included a dinner where regional leaders interacted, showcasing strong diplomatic ties among them.
-
-🟩
-
-President Ranil Wickremesinghe was congrated to the third consecutive year, and the leaders of Narendra Modi were congratulated.
-
-Narendra Modi's swearing in Narendra Modi was held at Rashtraphi Bhavanhala, Narendra Modi's special invitation.
-
-Bangladesh Prime Minister Shaikh Hasina, Nepal Prime Minister Flowers, Maldivian President Mohamed Mishal, Maldivas President, and the Prime Minister of the region, President Ranil Wickremesinghe received a high recognition from the leaders of the region.
-
-Prime Minister Narendra Modi joined a crowd with the leaders of the region, after the oath of the post.
-
-Meanwhile, President Ranil Wickremesinghe and heads of state were also present at the dinner organized by Prime Minister Narendra Modi.
-
-President Ranil Wickremesinghe had been given a significant publicity to the swearing in President Ranil Wickremesinghe and the main round round of the capital city of New Delhi was displayed.
-
-...
-
-[Data](articles/85846b84.json)
-
-[Extended Data](ext_articles/85846b84.ext.json)
-
----
-
-### Little Ravindu taken into the 11 year
-
-*2024-06-10 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197600) · `si`
-
-Ravindu, an 11-year-old, unexpectedly takes on adult responsibilities after his mother's death. He misses playing and sleeping well but steps up to cook meals and care for his younger siblings. Despite his young age, he shows remarkable resilience, adapting to his new life while awaiting medical treatment for a foot injury. His story highlights the challenges faced by children in similar situations, emphasizing the need for support systems to help them navigate through tough times.
-
-🟩
-
-Little children are filled with her demise.. Play With Friends Living Good With Friends Living Little Children Little Sleep ...
-
-But if you have to imagine the age of a 11-year-old, to abandon all those dreams and take all the responsibilities of a family?
-
-Rivie is 11 years old. Get into a book, runs, and run into a mother's responsibility.
-
-When Ruwinduge's friends were trying to rice in the hands of Father, these little ones have to eat the food cooked in their hands to say dad.
-
-Riviebal Pubhat Puthu son, Bogugoda, Galle is in a tree and has many years from a tree.
-
-She is already receiving treatment at the Karapitiya Teaching Hospital and has been removed from one foot of one foot before a complication caused by a foot injury.
-
-The son does not forget to write to the Bogahagoda Dopi Maha Vidyalaya, Colombo
-
-A doctor of the Karapitiya Teaching Hospital has renting the infinite commitment to the parents of the school to take place in the house.
-
-...
-
-[Data](articles/44c13d64.json)
-
-[Extended Data](ext_articles/44c13d64.ext.json)
-
----
-
-### Passengers are affected by train drivers struggle
-
-*2024-06-10 13:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சாரதிகள்-போராட்டத்தால்-பயணிகள்-பாதிப்பு/175-338697) · `ta`
-
-Railway drivers' strike enters its fourth day due to issues like delayed promotions and recruitments. Despite the strike, some trains continue to operate, affecting passenger travel.
-
-🟩
-
-The railway department said that the workplace, which was launched by the Railway Drivers Group, continued for the fourth day today (10).
-
-The strike has been launched by rail drivers, with various demands, including the delay in the second -class promotion and the delay in recruitment.
-
-In addition, a large number of passengers have traveled on some of the trains that have been serving in the midst of the strike.
-
-◼️
-
-[Data](articles/a1e1ec1f.json)
-
-[Extended Data](ext_articles/a1e1ec1f.ext.json)
-
----
-
-### Child killed when wall collapsed in Vavuniya Omanthai area
-
-*2024-06-10 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185733) · `ta`
-
-In Vavuniya, Omanthai, a tragic incident occurred where a two-month-old baby fell into a collapsing wall in the Veler Chinnakulam area, leading to the child's death. The family, including the infant, were visiting relatives when the accident happened. Despite immediate medical attention at the Vavuniya General Hospital, the baby succumbed to injuries.
-
-🟩
-
-A two -month -old baby has died after falling into the wall of the new Veler Chinnakulam area in Vavuniya.
-
-Mullaitivu. Sindhujan has come to his sister's home in Vavuniya with his wife and two -month -old child.
-
-At about 5 pm yesterday, the house in the house had fallen on the child while staying at the temporary house of her sister.
-
-The child was immediately taken to the Vavuniya General Hospital, but the child died.
-
-◼️
-
-[Data](articles/93033792.json)
-
-[Extended Data](ext_articles/93033792.ext.json)
-
----
-
-### Prime Minister Modu welcomes the invitation of President
-
-*2024-06-10 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197599) · `si`
-
-Indian PM Narendra Modi accepts President Ranil Wickremesinghe's invite for a visit to Sri Lanka, expected in August. Discussions include investment in Sri Lanka's Industrial Zone, agricultural issues, and fishery disputes resolution. President Wickremesinghe also mentioned the upcoming presentation of a reconciliation act to Parliament by July.
-
-🟩
-
-It is reported that Indian Prime Minister Narendra Modi has accepted the invitation of President Ranil Wickremesinghe to join the visit to Sri Lanka.
-
-President Ranil Wickremesinghe has been invited during a special meeting between Prime Minister Narendra Modi, Ranil Wickremesinghe and Indian Prime Minister Narendra Modi.
-
-Senior Minister SK Jayasankur, who is believed to believe that Mr. Narendra Modi will be held in August, has been discussed in New Delhi, India.
-
-It is said that the investors in other countries are also connected to Indian investors to invest their investments in the Industrial Zone where the Indian government begins Trincomalee.
-
-President Ranil Wickremesinghe was referred to the powers in the fields of agriculture, health, education and economic management in the fields of the New Economic Translation Act.
-
-President Ranil Wickremesinghe has told Jayashankar that the true and reconciliation act will be presented to Parliament by July.
-
-...
-
-[Data](articles/c3ab39e1.json)
-
-[Extended Data](ext_articles/c3ab39e1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 17:35:11**
+As of **2024-06-10 17:56:39**
 
 ## Newspaper Stats
 
-*Scraped **29,593** Articles*
+*Scraped **29,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,530
-adaderanalk | 3,354
+adaderanalk | 3,355
 tamilmirrorlk | 3,466
 virakesarilk | 4,538
 dailymirrorlk | 4,693
-adaderanasinhalalk | 4,762
+adaderanasinhalalk | 4,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,591 (100.0%) of 29,593 articles have been extended.
+29,593 (100.0%) of 29,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### ඊශ්‍රායලයේ ප්‍රබලයෙක් ඉල්ලා අස්වෙයි
+
+*2024-06-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197608) · `si`
+
+ඊශ්‍රායල යුද කැබිනට්ටුවේ අමාත්‍ය බෙනී ගැන්ට්ස් ඉන් ඉල්ලා අස්වී තිබේ.
+
+එහිදී ඔහු අවධාරණය කළේ, වත්මන් ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු සැබෑ ජයග්‍රහණයක් අත්කරගැනීමට ඊශ්‍රායලයට ඇති අවස්ථාව අවහිර කරමින් සිටින බවය.
+
+යුද්ධයෙන් මිනිසුන්ට විඳීමිට සිදුව ඇති වේදනාකාරී අත්දැකීම් අගමැතිවරයා සාධාරණීකරණය කරමින් සිටින බවට චෝදනා කරන ගැන්ට්ස් වැඩිදුරටත් පැවසුවේ, යුද්ධයෙන් පසුව කටයුතු කරන ආකාරය සම්බන්ධව වත්මන් රජයට සැලැස්මක් නොමැති බවය.
+
+ඊශ්‍රායල හමුදාවේ හමුදාපතිවරයෙක්ව සිටි බෙනී ගැන්ට්ස්, නෙතෙන්යාහු අගමැතිවරයාගේ ප්‍රබල දේශපාලන ප්‍රතිවාදියෙක් ද වෙයි.
+
+කෙසේ නමුත් ඊශ්‍රායල ගාසා යුද්ධයේදී එක්ව කටයුතු කිරීමට ගැන්ට්ස් සහ නෙතෙන්යාහු එකඟතාවකට පැමිණි සිටියේය.
+
+◼️
+
+[Data](articles/ef242ff2.json)
+
+---
+
+### Govt to remove unauthorized constructions in Colombo and suburbs to tackle flooding
+
+*2024-06-10 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99789/govt-to-remove-unauthorized-constructions-in-colombo-and-suburbs-to-tackle-flooding-) · `en`
+
+The Secretary of the Ministry of Urban Development and Housing, W.S. Sathyananda says that measures will be taken to immediately remove all unauthorized constructions that contribute to flooding in the city of Colombo and its suburbs.
+
+Speaking during a news conference held at the Department of Government Information, Sathyananda stated that a relevant circular will be issued to all government institutions within two weeks.
+
+He emphasized that conserving the existing wetlands in Colombo and its surrounding areas is crucial for the flood control efforts. The blocking of small waterways and drainage systems in these areas has been identified as a significant cause for flooding.
+
+The Chairman of the Sri Lanka Land Development Corporation, Hiran Balasuriya indicated that multiple projects are underway to mitigate flooding in Colombo and its suburbs.
+
+...
+
+[Data](articles/953af93c.json)
+
+---
 
 ### SOC on education approves ‘Sri Lanka National Commission for UNESCO’ Bill
 
@@ -52,23 +90,33 @@ Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Cha
 
 ---
 
-### බංග්ලාදේශයේ සහාය ශ්‍රී ලංකාවට
+### Bangladesh support Sri Lanka
 
 *2024-06-10 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197607) · `si`
 
-ශ්‍රී ලංකාවේ ක්‍රියාත්මක කෘෂි නවීකරණ වැඩසටහන සඳහා බංග්ලාදේශයේ සහාය ලබාදෙන බව එරට අග්‍රාමාත්‍ය ෂෙයික් හසීනා මහත්මිය පැවසුවාය.
+In a meeting in New Delhi, Bangladesh's PM Sheikh Hasina pledged support for Sri Lanka's agricultural modernization, including sending experts and discussing a free trade agreement. The leaders also discussed investment opportunities and a passenger transport service between the countries.
 
-ඉන්දියාවේ නවදිල්ලිහි දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ පැවති ද්විපාර්ශ්වික සාකච්ඡාවේ දී බංග්ලාදේශ අග්‍රාමාත්‍යවරිය ඒ බව සඳහන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මොදි මහතාගේ දිවුරුම්දීමේ උත්සවය සඳහා නවදිල්ලි නුවරට ගොස් සිටින අතර එහිදී එම හමුව සිදුව තිබේ.
+Prime Minister Sheikh Husanna said that Bangladesh would support the agricultural modernization program in Sri Lanka.
 
-සමූපකාර ක්‍රමවේදය අනුව බංග්ලාදේශයේ ක්‍රියාත්මක වන කෘෂිකර්ම නවීකරණ වැඩසටහන අධ්‍යයනය කොට එහි අත්දැකීම් ද ලබාගනිමින් ශ්‍රී ලංකාවේ කෘෂි නවීකරණ වැඩසටහන සාර්ථක කර ගැනීම සඳහා ලාංකික කෘෂි ප්‍රවීණයන්ගෙන් සමන්විත කණ්ඩායමක් බංග්ලාදේශයට යැවීමට ජනාධිපතිවරයා මෙහිදී එකඟතාවය පළ කර ඇති බව සඳහන්ය.
+The Prime Minister of Bangladesh has said that the Prime Minister of Bangladesh has stated that in New Delhi in New Delhi, India.
 
-බංග්ලාදේශය සහ ශ්‍රී ලංකාව අතර නිදහස් වෙළෙඳ ගිවිසුමක් අත්සන් තැබීම සම්බන්ධයෙන්ද නායකයන් දෙපළ සාකච්ඡා කර තිබේ.
+President Ranil Wickremesinghe has gone to New Delhi for the swearing in ceremony of Mr. Narendra Mary.
+
+The President has agreed to send a team of Lankan agro-urgenism to Bangladesh in the cooperative system, studying and experienced its experience in Bangladesh.
+
+The two leaders have discussed a free trade agreement between Bangladesh and Sri Lanka.
+
+President Ranil Wickremesinghe has pointed out that the Indian Free Trade Agreement is completed, President Ranil Wickremesinghe has been able to sign a free trade agreement with Bangladesh.
+
+The Prime Minister of Bangladesh has promised the Prime Minister Ranil Wickremesinghe that private investors in Bangladesh focus on investment opportunities in Sri Lanka.
 
 ...
 
 [Data](articles/fce50b1d.json)
+
+[Extended Data](ext_articles/fce50b1d.ext.json)
 
 ---
 
@@ -1652,19 +1700,31 @@ The 21-year-old Carlos fails to start with 1 to 1 round of battle after a strugg
 
 ---
 
-### ලංකාවේ මරණ වලින් සියයට 89ක්ම බෝනොවන රෝග නිසයි
+### 89 percent of deaths in Sri Lanka due to non-communicable diseases
 
 *2024-06-10 11:04:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-මරණ-වලින්-සියයට-89ක්ම-බෝනොවන-රෝග-නිසයි/11-410115) · `si`
 
-ඉදිරි වසර පහ තුළ රුපියල් බිලියන 70 ක් වැය කර මෙරට ප්‍රාථමික සෞඛ්‍ය සේවාව ශක්තිමත් කිරීමටත්, දිවයිනම ආවරණය වන පරිදි හෘද කැතීතකරණ ඒකක පහක් ස්ථාපිත කිරීමටත්, පියවර ගන්නා බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+In Sri Lanka, 89% of deaths are attributed to non-communicable diseases. Dr. Palitha Mahipala plans to enhance primary healthcare over five years, allocating 70 billion rupees annually. He highlights the aging population, with one in five being over 60 now, projected to be one in four by 2030, leading to increased healthcare needs. Non-communicable diseases like heart disease cause significant mortality, exacerbated by factors like smoking. The government aims to improve healthcare quality and patient care to rebuild public trust.
 
-ඉදිරි අවුරුදු පහ තුළ ලෝක බැංකු ආධාර යටතේ රුපියල් බිලියන 70 ක්, වර්ෂයකට රුපියල්  බිලියන 14 ක් බැගින් වැය කොට  මෙරට ප්‍රාථමික සෞඛ්‍ය සේවාව ශක්තිමත් කිරීමට පියවර ගන්නා බවත්, ඒ තුලින් රෝගියාට සියලු ප්‍රතිකාර සේවාවන් එකම ආයතනයක් තුලදී විශේෂඥ වෛද්‍ය පහසුකම් සහ තොරතුරු  සහිතව ලබා ගැනීමේ නව ක්‍රමවේදයක් ‍ මෙයින් ඇති වන බවත් ලේකම්වරයා පැවැසිය.
+🟩
 
-එසේම බෝනොවන රෝග නිසා ඇති වන මරණ පිළිබද අවධානය යොමුකිරීමේදී  දහදෙනෙකුගෙන් හතර දෙනෙක්, නැත්නම් පස්දෙනෙක්  අවුරුදු 50-60 අඩු අය බවත්, එම නිසාවෙන් ජයිකා ආයතනය සමග සම්භන්ධ වී හෘද ප්‍රතිකාර සදහා හෘද කැතීතකරණ ඒකක පහක් දිවයිනම ආවරණය වන පරිදි ස්ථාපිතකිරීමට පියවර ගන්නා බවත්, සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+Dr. Palitha Mahipala, Medical Palitha Maheepala, emphasizes that steps will be taken to strengthen the country's primary health service in the next five years and to establish and establish the country's primary health services.
+
+70 billion rupees per year, Rs.The Secretary said that this will occur.
+
+Similarly, four people are four-year-old deaths and five years are less than 50 years, the Secretary to the Ministry of HealthSpecialist Palitha Mahipala stressed.
+
+He emphasized the chief guest at the ceremony of the hospital after a special inspection tour of the hospital staff.
+
+At present, he pointed out that one of five people were over 60 years, and by 2030, he pointed out that one in four years. He pointed out that 600,000 people will be stronger a year ago and 4,000 of them die and 56,000 were left with various diseases.
+
+He said 6,000 of the accidents die and more than 100,000 people were injured and strengthened to strengthen the necessary rehabilitation services.
 
 ...
 
 [Data](articles/9a61670e.json)
+
+[Extended Data](ext_articles/9a61670e.ext.json)
 
 ---
 
@@ -2273,45 +2333,5 @@ Macron himself wasn’t a candidate in the EU elections and his term as presiden
 [Data](articles/ac088b96.json)
 
 [Extended Data](ext_articles/ac088b96.ext.json)
-
----
-
-### French President dissolves parliament and calls a snap election
-
-*2024-06-10 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/French-President-dissolves-parliament-and-calls-a-snap-election/107-284474) · `en`
-
-PARIS (AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
-
-The legislative elections will take place in two rounds on June 30 and July 7.
-
-The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
-
-Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
-
-Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
-
-...
-
-[Data](articles/c0acc875.json)
-
-[Extended Data](ext_articles/c0acc875.ext.json)
-
----
-
-### World interest grows in nuke power generation in Sri Lanka
-
-*2024-06-10 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/World-interest-grows-in-nuke-power-generation-in-Sri-Lanka/155-284471) · `en`
-
-In the backdrop of the government evolving legislation to regulate nuclear power generation and the Sri Lanka Atomic Energy Board (SLAEB) getting ready to call for Expression of Interest from prospective investors, a delegation of China National Nuclear Corporation (CNNC) is expected in the country soon to explore investment in a nuke plant in the country, an official said yesterday.
-
-CNNC is among the organizations that submitted proposals for such a plant in the country. Besides Russia’s Rosatom, France’s Électricité de France (EDF), and Denmark’s Seaborg have submitted proposals.
-
-In its plan for reduction of carbon emission, the government has decided to have nuclear power in its energy mix. Recently, the International Atomic Energy Agency (IAEA) team of experts also concluded a seven-day safety review of Sri Lanka’s selection process to identify potential sites to build its first nuclear power plant.
-
-...
-
-[Data](articles/0ef504f8.json)
-
-[Extended Data](ext_articles/0ef504f8.ext.json)
 
 ---

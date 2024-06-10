@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 16:19:05**
+As of **2024-06-10 16:35:37**
 
 ## Newspaper Stats
 
-*Scraped **29,573** Articles*
+*Scraped **29,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,527
+adalk | 2,528
 adaderanalk | 3,350
 tamilmirrorlk | 3,464
 virakesarilk | 4,533
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,570 (100.0%) of 29,573 articles have been extended.
+29,573 (100.0%) of 29,574 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,17 +52,23 @@ Police said she had died by falling on a bridge.
 
 ---
 
-### දුම්රිය රියදුරු වැඩවර්ජනය අවසන්
+### Railway driver strike is over
 
 *2024-06-10 15:34:23* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරු-වැඩවර්ජනය-අවසන්/11-410121) · `si`
 
-වැඩ වර්ජනයේ යෙදී සිටි දුම්රිය රියදුරන් සහ  ප්‍රවාහන අමාත්‍යාංශයේ නිලධාරීන් අතර සාකච්ඡාවකින් පසු වැඩ වර්ජනය අවසන් කළ බව දුම්රිය රියදුරෝ පවසයි.
+The railway driver strike has ended following discussions with transport ministry officials. Despite the resolution, services today will be disrupted, resuming normally tomorrow.
 
-වර්ජනය අවසන් වුවද අද පස්වරුවේ දුම්රිය ධාවනය සාමාන්‍ය තත්වයට පත් නොවන බවත් හෙට උදෑසන සිට දුම්රිය ධාවනය සාමාන්‍ය අතට පත් වනු ඇති බවත් දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියෙක් පැවසීය.
+🟩
+
+Railway drivers said that the strike was completed after a discussion between the strike and the officials of the Ministry of Transport.
+
+Although the strike was over, the railway running would not be normal this afternoon and the railway run will be in the hands of tomorrow.
 
 ◼️
 
 [Data](articles/5665a33f.json)
+
+[Extended Data](ext_articles/5665a33f.ext.json)
 
 ---
 
@@ -136,19 +142,25 @@ Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporati
 
 ---
 
-### කඩා වැටෙන ගසකින් බේරීමට ගොස් පාසල් වෑන් රථය තාප්පයක ගැටෙයි
+### School van collides with a collapse tree
 
 *2024-06-10 15:00:49* · [`adalk`](https://www.ada.lk/breaking_news/කඩා-වැටෙන-ගසකින්-බේරීමට-ගොස්-පාසල්-වෑන්-රථය-තාප්පයක-ගැටෙයි/11-410120) · `si`
 
-තෙල්දෙණිය පොලිස් වසමේ දිගන කෙන්ගල්ල ප්‍රදේශයේදී දැවැන්ත සියඹලා ගසක් පාරට ඇද වැටෙන දුටු පාසල් වෑන් රථ රියදුරෙකු ඉන් බේරීම සඳහා උත්සාහ කිරීමේදී වෑන් රථය රියදුරුගේ පාලනයෙන් මිදී වෑන් රස්තය බැම්මක සහ දුරකථන කුළුණක ගැටීමෙන් පාසල් ළමුන් ඇතුළු පස් දෙනකු තුවාල ලබා රෝහල් ගත කළ බව පොලිසිය කියයි .
+In a tragic incident, a school van collided with a falling tree near Teldeniya, injuring five students, two teachers, and the driver. The victims were rushed to the hospital. Locals urge the landowner and authorities to remove the decaying tree to prevent further accidents.
 
-පාසල් ළමුන් ප්‍රවාහනය කරමින් අද (10දා) පෙරවරු 6.30 ට පමණ එම අනතුර සිදුව ඇති අතර අනතුරෙන් වෑන් රථයේ රියැදුරු බරපතල තුවාල ලබා රෝහල් ගත කොට ඇති අතර වෑන් රථයේ ගමන් ගත් ගුරුවරියන් දෙදෙනෙකු සහ පාසල් සිසුන් කිහිප දෙනෙකු සුළු තුවාල ලබා රෝහල් ගත කොට ඇති බව ද පොලිසිය කියයි .
+🟩
 
-දිරාපත්ව තිබූ මෙම ගස ඉවත් කර දෙන ලෙස ප්‍රදේශවාසීන් විසින් ඉඩමේ හිමිකරුට සහ අදාළ බලධාරීන්ට අවස්ථා කිහිපයකදීම දැනුම් දුන්නද ඉන් පලක් නොවූ බව ප්‍රදේශවාසිහු පවසති .
+A school van driver from the Teldeniya police division in Kengalla area, five and five schoolchildren were injured in a van and telephone tower, police said.
+
+The accident had been admitted to hospital while transporting school children was seriously injured today and two teachers and several schoolchildren have been hospitalized in the van and several school children were injured and taken to hospital injuries.Says.
+
+Residents informed the owner of the land and the relevant authorities to remove the decayed tree.
 
 ◼️
 
 [Data](articles/4497da2f.json)
+
+[Extended Data](ext_articles/4497da2f.ext.json)
 
 ---
 
@@ -476,15 +488,21 @@ The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating eveni
 
 ---
 
-### බංග්ලාදේශය ලංකාවට දෙන්න යන සහාය
+### Support to grant Bangladesh to Sri Lanka
 
 *2024-06-10 13:46:41* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-ලංකාවට-දෙන්න-යන-සහාය/11-410119) · `si`
 
-ලංකාවේ කෘෂි නවීකරණ ව්‍යාපෘතිය සඳහා බංග්ලාදේශයේ සහාය ලබාදෙන බව බංග්ලාදේශ අගමැතිනී ෂීක් හසීනා මහත්මිය තහවුරු කර තිබේ. ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ දිවුරුම් දිමේ උත්සවය වෙනුවෙන් ඉන්දියාවට ගිය ජනපති රනිල් වික්‍රමසිංහ මහතා හා බංග්ලාදේශ අග්‍රාමාත්‍යවරිය අතර හමුව නවදිල්ලි නුවර පැවැති අවස්ථාවේදී ඇය මේ බව ප්‍රකාශ කර තිබේ.
+Bangladesh supports Sri Lanka's agricultural modernization project, confirming its participation. This announcement came during a visit to New Delhi, where the Bangladeshi Prime Minister met with Indian Prime Minister Narendra Modi.
+
+🟩
+
+Bangladesh has confirmed Bangladesh to the Sri Lankan agricultural modernization project. At New Delhi, he was speaking at New Delhi and the Prime Minister of Bangladesh to arrive in India for Indian Prime Minister Narendra Modi.
 
 ◼️
 
 [Data](articles/2f4d5d2e.json)
+
+[Extended Data](ext_articles/2f4d5d2e.ext.json)
 
 ---
 
@@ -867,6 +885,24 @@ The US dollar sales price was Rs 297.9364 and the purchase price was Rs 307.5273
 [Data](articles/33ea47d5.json)
 
 [Extended Data](ext_articles/33ea47d5.ext.json)
+
+---
+
+### ගොඩකවෙල හා වැලිගෙපොල නව මහවැලි කොට්ඨාස ලෙස ප්‍රකාශ කරයි
+
+*2024-06-10 12:39:12* · [`adalk`](https://www.ada.lk/breaking_news/ගොඩකවෙල-හා-වැලිගෙපොල-නව-මහවැලි-කොට්ඨාස-ලෙස-ප්‍රකාශ-කරයි/11-410117) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයේ  ප්‍රාදේශීය ලේකම්  බලප්‍රදේශ පහකට අයත් ග්‍රාම නිලධාරි  වසම්  72 ක් ඒකාබද්ධ කරමින් ගොඩකවෙල සහ  වැලිගෙපොල  වශයෙන්   නව  මහවැලි කොට්ඨාස දෙකක්  ප්‍රකාශයට පත්  කිරීම ට  පියවර ගත් බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+
+ඒ අනුව   ගොඩකවෙල ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 37 ක්, වැලිගෙපොල  ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ග්‍රාම නිලධාරි වසම් 30 ක්, ඕපනායක ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 02 ක්, බලංගොඩ  ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 02 ක් සහ  කල්තොට ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ එක් 01)  ග්‍රාම නිලධාරි වසමක් ලෙස ඒකාබද්ධ කරමින්  ගොඩකවෙල සහ  වැලිගෙපොල  නව මහවැලි කොට්ඨාස ලෙස   ශ්‍රී ලංකා මහවැලි අධිකාරියේ වලව විශේෂ බලප්‍රදේශය යටතේ   සංවර්ධනය කිරීම ට  නියමිතය.
+
+ශ්‍රී  ලංකා මහවැලි අධිකාරි පනත යටතේ, 1981 අප්‍රේල් 16 දින අංක 137 ගැසට් පත්‍රය මඟින්   වලව මහවැලි  විශේෂ බලප්‍රදේශය ප්‍රකාශයට පත්  ඇත.
+
+එහෙත් එම  මහවැලි වලව   කලාපයේ    ඇතැම්  ප්‍රදේශ මෙතෙක්   සංවර්ධන කටයුතු සඳහා  පියවර ගෙන නොතිබුණි.
+
+...
+
+[Data](articles/9af07419.json)
 
 ---
 
@@ -2343,33 +2379,5 @@ With solar power emerging as a sustainable and cost-effective alternative to tra
 [Data](articles/4bdac88f.json)
 
 [Extended Data](ext_articles/4bdac88f.ext.json)
-
----
-
-### A new 'mattress that minimizes the skin injury': 'My grandfather was the basis for this design'
-
-*2024-06-10 02:32:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c988154nr25o) · `si`
-
-Kuliyapitiya Saranath College developed a mattress designed to minimize skin injuries for long-term patients. Inspired by the inventor's grandfather, it outperforms traditional models like Air Mattresses and Water Beds. Evaluated nationally and internationally, it aims to improve patient comfort and health outcomes.
-
-🟩
-
-It contains nothing here.Veadio header, '' This is also created to reduce the moisture on the surface. ''
-
-A new 'mattress that minimizes the skin injury': 'My grandfather was the basis for this design'
-
-Kuliyapitiya Saranath College, Kuliyapitiya, have been able to produce a mattress that reduces the injury of diseases on a lengthy patient's skin.
-
-The creation was evaluated at national level and international level.
-
-The specialty of this new design is more important than 'Air Metros' and 'War Maths' for patients.
-
-'' The things I saw because of my grandfather was the basis for this design. I hope this is a product in the presence of patients in the hands of patients, "Chiet Minister Mutha Math Mathsara Senanayake told the BBC Sinhala.
-
-◼️
-
-[Data](articles/b2ec5ace.json)
-
-[Extended Data](ext_articles/b2ec5ace.ext.json)
 
 ---

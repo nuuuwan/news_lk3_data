@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 22:52:36**
+As of **2024-06-10 23:04:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,634 (100.0%) of 29,637 articles have been extended.
+29,637 (100.0%) of 29,637 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -982,6 +982,8 @@ The new National Education Policy Framework (NEPF) currently being implemented b
 
 [Data](articles/afc9a1dc.json)
 
+[Extended Data](ext_articles/afc9a1dc.ext.json)
+
 ---
 
 ### The release date of 'Lander' starring Vidarth
@@ -1061,6 +1063,8 @@ Tainted politicians are abundant in Sri Lanka. If a small pebble were thrown fro
 ...
 
 [Data](articles/ef1eb553.json)
+
+[Extended Data](ext_articles/ef1eb553.ext.json)
 
 ---
 

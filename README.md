@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 19:19:10**
+As of **2024-06-10 19:35:30**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 4,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,606 (100.0%) of 29,608 articles have been extended.
+29,608 (100.0%) of 29,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ජනපතිගෙන් ඉන්දීය අගමැතිට ආරාධනාවක්
+### President invites Indian Prime Minister
 
 *2024-06-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197611) · `si`
 
-ඉන්දිය අගමැති නරේන්ද්‍ර මෝදිගේ දිවුරුම් දීමේ උත්සවයට සහභාගි වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (10) බංග්ලාදේශ අග්‍රාමාත්‍ය ෂෙයික් හසීනා මහත්මිය සහ ඉන්දිය ජ්‍යෙෂ්ඨ අමාත්‍ය එස්.කේ.ජයශංකර් මහතා හමු වී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වා තිබේ.
+President Ranil Wickremesinghe hosted a swearing-in ceremony for Indian PM Narendra Modi, marking his third term. The event included bilateral talks and invitations from the President to both Modi and Bangladesh's PM Sheikh Hasina. Discussions revolved around a potential free trade agreement and agricultural technology exchanges. The President also extended an invitation to Modi for a future visit to Sri Lanka, possibly within the next month, aiming to boost Indian investments in the country.
 
-මෙහිදී ජනාධිපතිවරයා ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි මහතාට මෙරට සංචාරයක නිරත වන ලෙසටද ඇරයුම් කර තිබේ.
+🟩
 
-අප්‍රේල් මස 19 වැනිදා සිට ජූනි මස පළමුවැනිදා දක්වා අදියර 7කින් ක්‍රියාත්මක වූ ඉන්දීය මහා මැතිවරණය ජයගත් නරේන්ද්‍ර මෝදි අඛණ්ඩව තුන් වැනි වතාවටත් ඊයේ සිය ධුරයේ දිවුරුම් දුනි.
+President of the Indian Prime Minister Narendra Modi's swearing in ceremony, President Ranil Wickremesinghe today (10) met with Prime Minister SK Jayashankar and bilateral discussions.
 
-අසල්වැසි රටවල රාජ්‍ය නායකයින් මෙන්ම ජනප්‍රිය බොලිවුඩ් රංගන ශිල්පීන් ඇතුළු සම්භාවනිය අමුත්තන් රැසක් එම අවස්ථාවට ඇරියුම් ලැබ සිටියේය.
+The President has also invited Indian Prime Minister Narendra Modi to visit Sri Lanka.
 
-දිවුරුම් දීමෙන් පසුව අගමැති නරේන්ද්‍ර මෝදි එම උත්සවයට සහභාගි වූ සෙසු රටවල රාජ්‍ය නායකයින් සමඟ සුහද කතාබහක නිරත වුණි.
+Jayathu Narendra Modi took sworn in in office yesterday for the third term of the Indian General Election of 7th April to 1st June.
 
-අනතුරුව සම්භාවනීය අමුත්තන් වෙනුවෙන් සංවිධාන කළ විශේෂ රාත්‍රී භෝජන සංග්‍රහය පැවැත්වුණේ රාශ්ට්‍රපතිභවන් හිදීය.
+Heads of heads of state and popular Bollywood actresses were also invited.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද උදෑසන පළමුවෙන්ම බංග්ලාදේශ අගමැති ෂෙයික් හසීනා මහත්මිය සමඟ ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වුවා.
+After his swearing in, Prime Minister Narendra Modi wrote a friendly conversation with the leaders of the rest of the rest of the celebrations.
+
+The special dinner was held on behalf of the distinguished guests.
+
+President Ranil Wickremesinghe was first held with bilateral discussions with Mrs. Bangladesh Prime Minister Sheikh Husanna first.
+
+It has been discussed that a free trade agreement between the two countries.
 
 ...
 
 [Data](articles/548e60a3.json)
+
+[Extended Data](ext_articles/548e60a3.ext.json)
 
 ---
 
@@ -124,25 +132,33 @@ It is reported that the bus was accidental confronting two cars and motorcycle.
 
 ---
 
-### කොළඹ ගංවතුරට බලපාන අනවසර ඉදිකිරීම් සති දෙකක් තුළ ඉවත් කරයි
+### Unauthorized constructions affecting floods in Colombo
 
 *2024-06-10 17:50:07* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ගංවතුරට-බලපාන-අනවසර-ඉදිකිරීම්-සති-දෙකක්-තුළ-ඉවත්-කරයි/11-410123) · `si`
 
-කොළඹ අග නගරය ඇතුළු තදාසන්න ප්‍රදේශයවල ජලගැලීම්වලට හේතුවන අනවසර ඉදි කිරීම් සියල්ල කඩිනමින් ඉවත් කිරීමට පියවර ගන්නා බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා පවසයි.
+The Urban Development and Housing Ministry plans to issue a circular to remove unauthorized constructions in Colombo, aiming to control floods by conserving wetlands and managing small waterways. This initiative follows discussions at a press conference focused on environmental conservation, highlighting the importance of preserving wetlands and controlling waterways to mitigate flood risks.
 
-ඔහු පෙන්වා දෙන්නේ අනවසර ඉදිකිරීම් ඉවත් කිරීම සඳහා චක්‍රලේකනයක් නිකුත් කිරීමට අමාත්‍යමණ්ඩල අනුමැතියද හිමිව ඇති බවයි.
+🟩
 
-එම චක්‍රලේඛනය සති දෙකක් ඇතුළත සියළුම රාජ්‍ය ආයතනලට ලබාදෙන බවද හෙතෙම පැවසීය.
+The Ministry of Urban Development and Housing Ministry Secretary WS Secretary to the Ministry of Urban Development and Housing Ministry. Mr. Analyananda says.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා මේ බව කියා සිටියේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවට අද (10) දින සහභාගී වෙමිණි.
+He points out that the Ministers' approval has been paid to issue a circular to remove unauthorized structures.
 
-අන්තර් ජාතික තෙත් බිම් උද්‍යාන එකමුතුවේ ඔස්ට්‍රේලියානු, නවසීලන්ත හා ආසියානු පළමු සමුළුව පිළිබඳව දැනුවත් කිරීම සඳහා මෙම ප්‍රවෘත්ති සාකච්ඡාව සංවිධානය කර තිබුණි.
+He added that the circular will be given to all state institutions within two weeks.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම්වරයා මෙහිදී කියා සිටියේ කොළඹ නගරය හා තදාසන්න ප්‍රදේශවල පවතින තෙත් බිම් සංරක්ෂණය කිරීම මඟින් ජල ගැලීම් පාලනය කිරීමට හැකි බවයි.
+Urban Development and Housing Ministry Secretary WS. Mr. Vithananda was speaking at a press conference held at the Government Information Department today (10).
+
+The discussion was organized to educate the Australian, New Zealand and Asia's first convention in the International Wet Ground Gardens.
+
+The Secretary of the Urban Development and Housing Ministry said that the conservation of wetlands in Colombo and suburbs can control the floods.
+
+The small waterways, sidespread waterways, including the capital area including Colombo and suburbs have been identified as the main reason for floods.
 
 ...
 
 [Data](articles/f6f49223.json)
+
+[Extended Data](ext_articles/f6f49223.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 10:19:09**
+As of **2024-06-10 10:34:36**
 
 ## Newspaper Stats
 
-*Scraped **29,493** Articles*
+*Scraped **29,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,515
 adaderanalk | 3,339
 tamilmirrorlk | 3,456
 virakesarilk | 4,519
-dailymirrorlk | 4,676
+dailymirrorlk | 4,677
 adaderanasinhalalk | 4,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,490 (100.0%) of 29,493 articles have been extended.
+29,493 (100.0%) of 29,494 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ When CAL enabled initial public offer applications for the first time, there was
 
 [Data](articles/b8b4d2a8.json)
 
+[Extended Data](ext_articles/b8b4d2a8.ext.json)
+
 ---
 
 ### Complications for bodies using substandard soap
@@ -76,6 +78,20 @@ Its Treasurer Priygangani Susangika Susangika said that on the current economic 
 
 ---
 
+### Train cancellations continue as strike enters fourth day
+
+*2024-06-10 09:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-cancellations-continue-as-strike-enters-fourth-day/108-284496) · `en`
+
+The Railway Department announced that 20 office trains were cancelled this morning (10) due to the ongoing strike by train drivers, which is now on its fourth day.
+
+The strike began at midnight on Thursday, June 6 in protest of delays in second-class promotions for locomotive drivers, slow recruitment processes and several other issues.
+
+◼️
+
+[Data](articles/0910486e.json)
+
+---
+
 ### Sri Lanka rupee opens at 302.80/95 to US dollar
 
 *2024-06-10 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-broadly-flat-at-302-80-95-to-us-dollar-167123/) · `en`
@@ -97,6 +113,8 @@ A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
 ...
 
 [Data](articles/95d4aa73.json)
+
+[Extended Data](ext_articles/95d4aa73.ext.json)
 
 ---
 
@@ -459,6 +477,8 @@ The SLPA has been used by successive ministers to stuff it with supporters from 
 ...
 
 [Data](articles/3108b640.json)
+
+[Extended Data](ext_articles/3108b640.ext.json)
 
 ---
 
@@ -2195,31 +2215,5 @@ In the same hall who wrote the Sahira College students, ten Muslim students of t
 [Data](articles/4f59ef8b.json)
 
 [Extended Data](ext_articles/4f59ef8b.ext.json)
-
----
-
-### 2025 has no budget, an interim account
-
-*2024-06-09 17:56:05* · [`adalk`](https://www.ada.lk/breaking_news/2025ට-අයවැයක්-නෑ--අතුරු-සම්මත-ගිණුමක්/11-410100) · `si`
-
-In 2025, Sri Lanka won't submit a formal budget; instead, an interim account will be presented due to financial constraints. This decision was announced by State Minister Dr. Ranjith Siyambalapitiya, who also mentioned that the main election is approaching. The interim accounts from last year will guide the process, focusing on economic stability and political transparency. No new proposals will be introduced through this interim account.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that a budget report is not submitting a budget report on the year 2025 and that an interim account will be submitted.
-
-Speaking to the media this morning (09), the minister said this in Ruwanwella.
-
-The Minister said that the main election is scheduled for a major election, the minister said that the interim accounts have been passed this year ago.
-
-According to the Budget Report passed for the year 2024, Siyambalapitiya was given to be approved by a separate budget for 2025.
-
-However, the Minister emphasized that the policy statements of each of these candidates are vital to present a presidential election this year and the most important document budget will be made to submit the budget registrations of the policy..
-
-...
-
-[Data](articles/f0b718b8.json)
-
-[Extended Data](ext_articles/f0b718b8.ext.json)
 
 ---

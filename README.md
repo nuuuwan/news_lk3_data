@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 00:06:29**
+As of **2024-06-11 00:19:02**
 
 ## Newspaper Stats
 
-*Scraped **29,650** Articles*
+*Scraped **29,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
 virakesarilk | 4,551
-dailymirrorlk | 4,700
+dailymirrorlk | 4,701
 adaderanasinhalalk | 4,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,650 (100.0%) of 29,650 articles have been extended.
+29,650 (100.0%) of 29,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Colombo District Court recognises Sri Lankan divorce entered into in USA
+
+*2024-06-10 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-District-Court-recognises-Sri-Lankan-divorce-entered-into-in-USA/108-284534) · `en`
+
+Colombo, June 10 (Daily Mirror) - In a landmark judgment, the Colombo District Court held that a foreign decree of a marriage contracted in Sri Lanka can be recognized and enforced in Sri Lanka. Accordingly, the Colombo District Court issued a decree of dissolution of marriage in favor of a plaintiff living in California by upholding international legal standards relating to marriage laws.
+
+Colombo District Court Judge R.A.M. Rajapakse delivered this judgment in favour of the plaintiff, facilitating him in obtaining a single status certificate.
+
+This case centers around the marriage of two Sri Lankan nationals, which was legally recognized in Sri Lanka. After moving to the United States, they decided to dissolve their marriage and initiate divorce proceedings there. The plaintiff encountered an impediment when he needed proof of being single from Sri Lanka to remarry in Fiji.
+
+...
+
+[Data](articles/cf80dd06.json)
+
+---
 
 ### South Africa becoming a sharp win
 
@@ -2289,31 +2305,5 @@ President Ranil Wickremesinghe has told Jayashankar that the true and reconcilia
 [Data](articles/c3ab39e1.json)
 
 [Extended Data](ext_articles/c3ab39e1.ext.json)
-
----
-
-### Children's Care Care Care for Children's Care for Sexual activities;Police investigation
-
-*2024-06-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185725) · `ta`
-
-Police investigate allegations against a superintendent at a children's care center in Sri Lanka, accused of selling detained girls for sexual activities. A 17-year-old victim filed a complaint after being held there. Investigations uncovered the superintendent's involvement in facilitating sexual acts within the facility.
-
-🟩
-
-Police are investigating the arrest of a superintendent who allegedly sold girls who were detained at the Children's Care Care at the Children's Care Care at the Kandy -Velamboda area.
-
-A 17 -year -old girl from Madattugama, who was detained for some time at the Children's Care Center, has lodged a complaint with the police.
-
-The girl who lodged a complaint with the Dambulla Magistrate's Court was sent to the Child Prevention Center last January.
-
-Investigations have revealed that girls are being sold to various persons by the superintendent and providing facilities for sexual activity in the medical room at the Children's Care Care Center.
-
-The officer in charge of the Madatugama Police Station has taken steps to hand over the medical report of the girl to the Anuradhapura Legal Officer to obtain the medical report.
-
-◼️
-
-[Data](articles/f74a05ad.json)
-
-[Extended Data](ext_articles/f74a05ad.ext.json)
 
 ---

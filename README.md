@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 09:34:32**
+As of **2024-06-10 09:54:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,482 (100.0%) of 29,489 articles have been extended.
+29,489 (100.0%) of 29,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### காணாமல் போன மாணவி சடலமாக மீட்பு
+### Recovery of Missing Student
 
 *2024-06-10 09:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காணாமல்-போன-மாணவி-சடலமாக-மீட்பு/76-338679) · `ta`
 
-கண்டி ரெலுகேஸ் இல 2 கெல்லாபோக்க மடுல்கலையில் காணாமல் போன ஹரிவதனி என்ற  மாணவி  நேற்று சடலமாக கண்டெடுக்கப்பட்டுள்ளார்.
+Harivathani, a student from Kallapokku Madagala, Kandy, went missing and was found dead recently. The police received a complaint about her disappearance last Friday. Her body is now at the Kandy Teaching Hospital.
 
-குறித்த மாணவி கடந்த வெள்ளிக்கிழமை முதல் காணாமல் போயிருந்த நிலையில் பொலிஸில் முறைப்பாடு பதிவுசெய்யப்பட்டு தேடுதல் நடவடிக்கைகள் முன்னெடுக்கப்பட்டிருந்தன.
+🟩
 
-உயிரிழந்த மாணவியின் சடலம் பிரேத பரிசேதனைக்காக கண்டி போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. R
+Harivathani, a student who disappeared in Kallapokku Madagala, Kandy, was found dead yesterday.
+
+The police had lodged a complaint with the police since last Friday.
+
+The body of the deceased student has been placed at the Kandy Teaching Hospital. Remble
 
 ◼️
 
 [Data](articles/de812ff0.json)
+
+[Extended Data](ext_articles/de812ff0.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ Macron himself wasn’t a candidate in the EU elections and his term as presiden
 
 [Data](articles/ac088b96.json)
 
+[Extended Data](ext_articles/ac088b96.ext.json)
+
 ---
 
 ### World interest grows in nuke power generation in Sri Lanka
@@ -107,6 +115,8 @@ In its plan for reduction of carbon emission, the government has decided to have
 ...
 
 [Data](articles/0ef504f8.json)
+
+[Extended Data](ext_articles/0ef504f8.ext.json)
 
 ---
 
@@ -310,6 +320,8 @@ This caused many countries to put up travel advisories against their people who 
 
 [Data](articles/ff733816.json)
 
+[Extended Data](ext_articles/ff733816.ext.json)
+
 ---
 
 ### President Ranil attends Modi’s swearing-in ceremony
@@ -381,6 +393,8 @@ Further the record number of departures for foreign employment also helped Sri L
 ...
 
 [Data](articles/0d1fb9cb.json)
+
+[Extended Data](ext_articles/0d1fb9cb.ext.json)
 
 ---
 
@@ -998,17 +1012,23 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
-### ’இடைக்காலக் கணக்கறிக்கை முன்வைக்கப்படும்’
+### Exchange interim reports presented
 
 *2024-06-10 00:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்காலக்-கணக்கறிக்கை-முன்வைக்கப்படும்/175-338673) · `ta`
 
-2025 ஆம் ஆண்டுக்கான வரவு - செலவுத் திட்டத்திற்கு பதிலாக இடைக்கால கணக்கறிக்கை சமர்ப்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced that due to unforeseen circumstances, an interim financial report will replace the traditional budget for 2025, covering the initial months of the year.
 
-அதற்கமைய, 2025ஆம் ஆண்டின் முதல் சில மாதங்களுக்காக இடைக்கால கணக்கறிக்கை சமர்ப்பிக்கப்படவுள்ளதாகவும் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+🟩
+
+Finance Minister Ranjith Siyambalapitiya has said that the interim accounting will be submitted instead of the budget for 2025.
+
+According to Ranjith Siyambalapitiya, the interim report will be submitted for the first few months of 2025.. (A)
 
 ◼️
 
 [Data](articles/7d3e6cd1.json)
+
+[Extended Data](ext_articles/7d3e6cd1.ext.json)
 
 ---
 
@@ -1822,21 +1842,27 @@ A court announcement was later released by a Turkish hat. Following this, the Mu
 
 ---
 
-### හොර පාරෙන් ලියාපදිංචි කළ වාහන 400න් 6ක් අල්ලස් කොමිෂම භාරයට
+### 6 out of the 400 registered vehicles from the fray road handed over the bribery Commission
 
 *2024-06-09 19:13:40* · [`adalk`](https://www.ada.lk/breaking_news/හොර-පාරෙන්-ලියාපදිංචි-කළ-වාහන-400න්-6ක්-අල්ලස්-කොමිෂම-භාරයට/11-410104) · `si`
 
-රේගුවට හොර රහසේ ආනයනය කර ව්‍යාජ තොරතුරු ඇතුළත් කරමින් ලියාපදිංචි කළේ යැයි කියන අධිසුඛෝපභෝගී වාහන 400ක් අතුරින් වාහන 06ක් අල්ලස් කොමිසම භාරයට ගෙන ඇත.
+Six of 400 vehicles registered on Fray Road were seized by the Bribery Commission for alleged false registration and involvement in corruption investigations. The commission also requested the Colombo Chief Magistrate to defer certain cases related to bribery inquiries.
 
-මෙම අතිසුඛෝපභෝගී වාහන 168 හොර රහසේ ආනයනය කිරීමෙන් රජයට රුපියල් කෝටි 700කට අධික පාඩුවක් කිරීම සම්බන්ධයෙන් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම කරන විමර්ශනයේදී හෙළි වූ තොරතුරුවලට අනුව මෙම වාහන භාරයට ගත් බව අල්ලස් කොමිසමේ ප්‍රකාශයෙකු සඳහන් කළේය.
+🟩
 
-එලෙස අල්ලස් කොමිසමේ භාරයට ගෙන ඇත්තේ රුපියල් කෝටි 04 සිට 06 දක්වා වටිනාකමින් යුත් මොන්ටෙරෝ, ලැන්ඩ්කෲසර්, අධිසුඛෝපභෝගී කැබ් සහ නිසාන් වර්ගයේ අධිසුඛෝපභෝගී ද්විත්ව කාර්ය රථ ඇතුළු වාහන බවද එම ප්‍රකාශයා සඳහන් කළේය.
+Among the 400 vehicles have been taken into custody, along with the 400 vehicles of the 400 vehicles allocated for the Customs and registered false information.
 
-2015 සිට 2022 දක්වා කාලය තුළ අධිසුඛෝපභෝගී වාහන 400ක් පමණ හොර රහසේ මෙරටට ආනයනය කර ඇති බවට අල්ලස් කොමිසමේ රහසිගත බුද්ධි ඒකකයට ලැබුණු තොරතුරුවලට අනුව කළ විමර්ශනවලදී අනාවරණය වූ කරුණු පදනම් කරගනිමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාගෙන් කළ ඉල්ලීමකට අනුව අදාළ මෝටර් රථ 112ක් පැවරීම හෝ අන්සතු කිරීම වළකාලමින් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල්වරයාට නියෝගයක් නිකුත් කර ඇත.
+A spokesman for the Bribery Commission stated that the vehicles were taken into custody at the investigation of Bribery or Corruption by the Commission to Investigate Bribery or Corruption by the Investigation Commission for over Rs.
+
+According to the Bribery Commission, the Bribery Commission has been taken into custorows worth Rs.
+
+According to information received by the Serand Bribery Inquiries of the Bribery Investigations in 2009 to 2022, the Bribery Investigations have to be deferred to the Colombo Chief Magistrate Thilina Gamage, with the request of the Bribery Inquiries.An order has been issued to the Commissioner General of Motor Traffic.
 
 ...
 
 [Data](articles/447465aa.json)
+
+[Extended Data](ext_articles/447465aa.ext.json)
 
 ---
 

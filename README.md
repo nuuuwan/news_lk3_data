@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 22:19:12**
+As of **2024-06-10 22:34:30**
 
 ## Newspaper Stats
 
-*Scraped **29,626** Articles*
+*Scraped **29,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,768
 adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
-virakesarilk | 4,543
+virakesarilk | 4,551
 dailymirrorlk | 4,698
 adaderanasinhalalk | 4,772
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,624 (100.0%) of 29,626 articles have been extended.
+29,626 (100.0%) of 29,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### අසලංක පරාජයන්ට හේතු කියයි
+### The causes of the benchmates
 
 *2024-06-10 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197617) · `si`
 
-තණතිලිවල වෙනස්වීම්වලට හැඩගැසීමට නොහැකි වීම ශ්‍රී ලංකා පිලේ පරාජයට හේතු වූ බව ශ්‍රී ලංකා කණ්ඩායමේ උපනායක චරිත් අසලංක පවසයි.
+Charith, speaking after Sri Lanka's defeat, highlighted the team's struggle to adapt to varying pitch conditions during the tournament. He emphasized the importance of taking responsibility as batsmen, noting their inability to adjust quickly enough to the changing pitches, which led to their loss. The team had previously performed well on other grounds but faced difficulties on the current pitch.
 
-අද පැවති පුහුණු සැසියෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් චරිත් අසලංක මේ අදහස් පළකළේය.
+🟩
 
-"පිතිකරුවෙකු වශයෙන් අපි බ්ලේම් එක ගන්න ඕනේ. ඕවර් 06කට 50 ගාණකට විකට් දෙකක් දීලා මේ වගේ බැටින් ලයින්අපි එකක් 125කට යන්න බැහැ. මම ඇතුළුව හැම පිතිකරුවෙකුම වගකීම භාර ගන්න ඕනේ."
+Sri Lanka's pararith is defeated that the Sri Lankan team has been defeated to be able to adapt to changes in the graduation.
 
-ප්‍රශ්නය - සිදුවුණ දුර්වලකම්වලට පුහුණුවීම්වලදී වැඩිපුර පිතිකරණ පුහුණුවීම් කරලා වෙන ක්‍රියාමර්ග අරගෙන තියෙනවාද ?
+Speaking to the media today, Charith expressed these views.
 
-"අපි ලංකාවේදී හොඳට පුහුණුවීම් කරලා සූදානම් වුණා. නමුත් තණතීරු වෙනස්වීමට අපිට හුරුවෙන්න බැරිවුණා. අපි වෙන ග්‍රවුන්ඩ්වල ඕවර් 06ට 50ක 55ක ලකුණු ගාණක් තිබ්බොත් අපි බලනවා 180ක් කරගන්න. මේකේ එක පාරට තණතීරු වෙනස් වෙනවා බෝලේ පරණ වුණ ගමන් දඟ කැවෙන්න ගන්නවා. අපිට ඉක්මනට හැඩ ගැහෙන්න ඕනේ ලකුණු ටික පහළට දාගෙන විකට් ටික ඉතුරු කරගෙන ගහන්න. අපිට ඒක කරගන්න බැරි වුණ නිසා පරාජයට පත් වුණේ."
+"As a batsman we need to get the bleam. No six overs let two wickets go and a battery linge cannot go to 125. All batsmen, including I, you have to take responsibility. "
+
+Q. Is there action taken to practice more batting practice in training that happened?
+
+"We were trained and prepared in Sri Lanka. But we could not be accustomed to change the pitches. We have scored the score of 6 overs in other Grounds, we would look at 180. Pitchers on this time changing the pitch. We should quickly shape down and save the vicfts. We were defeated because we could not. "
 
 ◼️
 
 [Data](articles/77e047c5.json)
+
+[Extended Data](ext_articles/77e047c5.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ In a post on X, Ali Sabry stated, “Warmest congratulations @DrSJaishankar on b
 ...
 
 [Data](articles/bfe6f44f.json)
+
+[Extended Data](ext_articles/bfe6f44f.ext.json)
 
 ---
 
@@ -162,6 +170,38 @@ Stressing on the fact that it is high time to take measures against the trending
 
 ---
 
+### யாழில் தமிழரசு கட்சியினரை சந்தித்தார் சஜித்பிரேமதாச
+
+*2024-06-10 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185789) · `ta`
+
+யாழ்ப்பாணத்திற்கு விஐயம் மேற்கொண்டிருந்த எதிர்க்கட்சி தலைவர் சஜித்பிரேமதாச தலைமையிலான குழுவினர் இன்று திங்கட்கிழமை தமிழரசு கட்சியினரை சந்தித்தனர்.
+
+இலங்கை தமிழரசு கட்சி அலுவலகத்தில் குறித்த சந்திப்பு திங்கட்கிழமை (10) இரவு இடம்பெற்றுள்ளது.
+
+கட்சி தலைவர் மாவை சேனாதிராசா, பாராளுமன்ற உறுப்பினர் எம்.ஏ சுமந்திரன் மற்றும் கட்சியின் சிரேஸ்ட தலைவர் சிவிகே சிவஞானம், நிர்வாக செயலாளர் குலநாயகம் ஆகியருடன் எதிர்க்கட்சி தலைவர் சஜித்பிரேமதாச தலைமையிலான குழுவினர் சந்திப்பை மேற்கொண்டனர்.
+
+◼️
+
+[Data](articles/9ee57539.json)
+
+---
+
+### நாடளாவிய ரீதியில் 26ஆம் திகதி கயீன விடுமுறை - இலங்கை ஆசிரியர் சங்கம்
+
+*2024-06-10 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185788) · `ta`
+
+நாடளாவிய ரீதியில் எதிர்வரும் 26ஆம் திகதி சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவதற்கு இலங்கை ஆசிரியர் சங்கம் தீர்மானித்துள்ளது.
+
+ஊதிய முரண்பாடு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சங்கத்தின் பொதுச்செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+
+தொழிற்சங்க நடவடிக்கைக்கு சமாந்தரமாக எதிர்வரும் 12ஆம் திகதி கண்டனப் போராட்டத்தை ஏற்பாடு செய்யவுள்ளதாக இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/33cf5105.json)
+
+---
+
 ### The horrific fate of Australia to a Sri Lankan mother
 
 *2024-06-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197615) · `si`
@@ -211,6 +251,46 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 [Data](articles/d5451ebb.json)
 
 [Extended Data](ext_articles/d5451ebb.ext.json)
+
+---
+
+### தென் ஆபிரிக்கா - பங்களாதேஷ் டி குழு போட்டி இன்று
+
+*2024-06-10 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185787) · `ta`
+
+தென் ஆபிரிக்காவுக்கும் பங்களாதேஷுக்கும் இடையிலான டி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டி நியூயோர்க், நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் இன்று திங்கட்கிழமை 10 நடைபெறுகிறது.
+
+இந்த மைதானத்தில் தனது முதல் இரண்டு போட்டிகளை விளையாடி வெற்றிபெற்ற தென் ஆபிரிக்காவுக்கு இப் போட்டியில் சாதகமான முடிவு கிடைக்கும் என எதிர்பார்க்கப்படுகிறது.
+
+எனினும் சுப்பர் 8 சுற்றுக்கான வாய்ப்பை சற்று அதிகரித்துக்கொள்ளும் பொருட்டு பங்களாதேஷ் இன்றைய போட்டியில் திறமையை வெளிப்படுத்தி தென் ஆபிரிக்காவுக்கு சவால் விடுத்து வெற்றி பெற முயற்சிக்கும்.
+
+இந்தப் போட்டியில் தென் ஆபிரிக்கா வெற்றிபெற்றால் முதலாவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெறும்.
+
+இந்த இரண்டு அணிகளுக்கும் இதுவரை நடைபெற்ற 8 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் தென் ஆபிரிக்கா எட்டிலும் வெற்றிபெற்றுள்ளதுடன் அதனை இன்று 9ஆக உயர்த்திக்கொள்ள தென் ஆபிரிக்கா முயற்சிக்கும்.
+
+ரி20 உலகக் கிண்ணப் போட்டியில் பங்களாதேஷை எதிர்த்தாடிய  3 சந்தர்ப்பங்களிலும் தென் ஆபிரிக்கா வெற்றி பெற்றுள்ளது.
+
+...
+
+[Data](articles/29929a1b.json)
+
+---
+
+### வவுனியாவில் வீட்டின் சுவர் இடிந்து வீழ்ந்தில் இரண்டு மாத குழந்தை பலி!
+
+*2024-06-10 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185786) · `ta`
+
+வவுனியா, ஓமந்தை, புதிய வேலர் சின்னக்குளத்தில் வீட்டின் சுவர் இடிந்து வீழ்ந்தில் இரண்டு மாத குழந்தை பலியாகியுள்ளது.
+
+முல்லைத்தீவில் வசிக்கும் ச.சிந்துஜன் தனது மனைவி மற்றும் இரண்டு மாத குழந்தையுடன் வவுனியாவில் உள்ள தனது தங்கையின் வீட்டிற்கு கடந்த 7ஆம் திகதி சென்றுள்ளனர்.
+
+நிகழ்வொன்றுக்காக வருகை தந்திருந்த நிலையில் தங்கையின் தற்காலிக வீட்டில் தங்கியிருந்த போது  மாலை சுமார் 5 மணியளவில் வீட்டில் உட்பகுயில் உள்ள கற்சுவர் குழந்தையின் மீது வீழ்ந்துள்ளது.
+
+உடனடியாக வீட்டார் குழந்தையை வவுனியா பொது வைத்தியசாலைக்கு கொண்டு சென்றபோதிலும் குழந்தை உயிரிழந்துள்ளது.
+
+◼️
+
+[Data](articles/abafa6b6.json)
 
 ---
 
@@ -294,6 +374,18 @@ The match between the Bangladesh team and South African team will be held today 
 
 ---
 
+### கொள்ளுப்பிட்டியில் பேருந்து ஒன்று பல வாகனங்களுடன் மோதி விபத்து
+
+*2024-06-10 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185785) · `ta`
+
+இரண்டு கார்கள் மற்றும் மோட்டார் சைக்கிள் ஒன்றுடன் பஸ் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/27b933ef.json)
+
+---
+
 ### The best news for the salary of the story
 
 *2024-06-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197612) · `si`
@@ -322,6 +414,26 @@ Meanwhile, the Low Country Plantation Union staged a protest in Elvpitiya town a
 
 ---
 
+### ஓமந்தை - பனிக்கர்புளியங்குளத்தில் 235 ஏக்கர் விடுவிப்பு
+
+*2024-06-10 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185784) · `ta`
+
+ஓமந்தை, பனிக்கர் புளியங்குளத்தில் 235 ஏக்கர் காணி வனவளத் திணைக்களத்தால் விடுவிக்கப்பட்டுள்ளதாக மாவட்ட அபிவிருத்திக் குழுத் தலைவர் கு.திலீபன் தெரிவித்துள்ளார்.
+
+ஓமந்தை, பனிக்கர் புளியங்குளம் பகுதிக்கு விஜயம் செய்து காணிகளை பார்வையிட்ட பின் திங்கட்கிழமை (10) கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+பனிக்கர் புளியங்குளம் பகுதியில் வாழ்ந்த மக்கள் பலர் வாழ்வாதார பயிற் செய்கைக்கு நீண்ட காலமாக காணியின்றி அவதிப்பட்டனர். இந்நிலையில் மாவட்ட அபிவிருத்திக்குழு தலைவர் என்ற வகையில் வனவளத் திணைக்களத்துடன் பல தடவை பேசி ஜனாதிபதியின் ஆலோசனைக்கு அமைய தற்போது அம் மக்களுக்கான காணி விடுவிக்கப்பட்டுள்ளது.
+
+வவுனியா, ஓமந்தை, பனிக்கர் புளியங்குளம் குளத்திற்கான காணி உட்பட மக்களின் வாழ்வாதாரப் பயிற் செய்கைக்காக 235 ஏக்கர் நிலம் வனவளத் திணைக்கள அதிகாரிகள் நேரடியாக வருகை தந்து பார்வையிட்டு அதனை விடுவித்துள்ளனர்.
+
+இதன் மூலம் இப் பகுதியில் வாழும் ஒவ்வொரு குடும்பங்களுக்கும் ஒரு ஏக்கர் காணி வாழ்வாதார நடவடிக்கைக்காக வழங்கப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a76a9367.json)
+
+---
+
 ### New laws planned to control wetland destruction and illegal constructions
 
 *2024-06-10 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-laws-planned-to-control-wetland-destruction-and-illegal-constructions/108-284528) · `en`
@@ -337,6 +449,22 @@ The media briefing was held to inform about the first conference of the Internat
 [Data](articles/19e3155f.json)
 
 [Extended Data](ext_articles/19e3155f.ext.json)
+
+---
+
+### மட்டு ஏறாவூரில் ஆடுகளை மிருகவதை செய்த குற்றச்சாட்டில் ஒருவர் கைது
+
+*2024-06-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185783) · `ta`
+
+மட்டக்களப்பு எறாவூரில் சிறிய மரப்பெட்டி ஒன்றில் 3 ஆடுகளை அடைத்து வைத்து மோட்டர் சைக்கிள் ஒன்றில் எடுத்துச் சென்ற ஒருவரை மிருகவதை குற்றச்சாட்டில் திங்கட்கிழமை(10) கைது செய்துள்ளதாக ஏறாவூர் பொலிசார் தெரிவித்தனர்.
+
+பொலிசாருக்கு கிடைத்த தகவல் ஒன்றையடுத்து செங்கலடியில் இறைச்சிக்காக 3 ஆடுகளை வாங்கி அதனை மரப்பெட்டி ஒன்றில் கட்டி அடைத்துக் கொண்டு மோட்டர்சைக்கிள் ஒன்றில் ஏறாவூருக்கு சம்பவதினமான இன்று பகல் எடுத்துச் சென்ற நிலையில் ஏறாவூர் பிரதேசத்தில் வைத்து பொலிசார் குறித்த மோட்டர்சைக்கிளை நிறுத்தி சோதனையிட்டனர்.
+
+இதன் போது ஆடுகளை சிறுய மரப் பெட்டியில் அடைத்து எடுத்துச் சென்ற 55 வயதுடைய ஏறாவூரைச் சேர்ந்தவரை மிருக வதை குற்றச்சாட்டில் கைது செய்ததுடன் 3 ஆடுகள் மோட்டர் சைக்கிள் ஒன்றையும் மீட்டனர்.
+
+◼️
+
+[Data](articles/d2a105ec.json)
 
 ---
 
@@ -374,7 +502,7 @@ It has been discussed that a free trade agreement between the two countries.
 
 ### Representatives selected under the Protector Program of Schools from Sri Lanka
 
-*2024-06-10 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185780) · `ta`
+*2024-06-10 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185780) · `ta`
 
 Selected under the Protector Program, representatives from two Sri Lankan Holy Schools arrived in Saudi Arabia, including students from four universities, journalists, government officials, school imams, and social workers. Ambassador Khalid Hamood facilitated their journey.
 
@@ -1025,6 +1153,24 @@ Police said that the handgun was prepared in which country was not yet known.
 [Data](articles/53e14b3b.json)
 
 [Extended Data](ext_articles/53e14b3b.ext.json)
+
+---
+
+### ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக அறிவிப்பதாக குறிப்பிடவில்லை  - பொதுஜன பெரமுன
+
+*2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185752) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக அறிவிப்பதாகவும்,அவருக்கு ஆதரவு வழங்குவதாகவும் எந்நிலையிலும் குறிப்பிடவில்லை.பொதுஜன பெரமுன தலைமையிலான அரசாங்கம் தோற்றம் பெற வேண்டும் என்பதில் உறுதியாக உள்ளோம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய ஒருங்கிணைப்பாளர் ரோஹித்த அபேகுணவர்தன தெரிவித்தார்.
+
+பத்தரமுல்லயில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுன காரியாலயத்தில் திங்கட்கிமை (10) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+எதிர்வரும் நவம்பர் மாதத்துக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடத்தப்படும்.ஜனாதிபதி தேர்தலை இலக்காகக் கொண்டு தேர்தல் நடவடிக்கைகளை கண்காணிக்கும் அலுவலகத்தை ஆரம்பித்துள்ளோம்.எதிர்வரும் நாட்களில் சகல தேர்தல் தொகுதிகளிலும் தேர்தல் பிரசாரக் கூட்டங்களை நடத்த தீர்மானித்துள்ளோம்.
+
+நல்லாட்சி அரசாங்கம் முறையற்ற வகையில் பிற்போட்ட மாகாண சபைத் தேர்தல் பற்றி தற்போது எவரும் பேசுவது கிடையாது.மாகாண சபைத் தேர்தலை நடத்தினால் படுதோல்வி அடைவதை முன்கூட்டியதாக அறிந்தே நல்லாட்சி அரசாங்கம் தேர்தல் முறைமை திருத்தம் ஊடாக தேர்தலை பிற்போட்டது.
+
+...
+
+[Data](articles/4ebbbe42.json)
 
 ---
 
@@ -2143,189 +2289,5 @@ Macron's Renasans's party receives 15 percent of the votes, which receives 31 pe
 [Data](articles/33bb350f.json)
 
 [Extended Data](ext_articles/33bb350f.ext.json)
-
----
-
-### Shoolent shooting was fired in Katunayake
-
-*2024-06-10 12:04:50* · [`adalk`](https://www.ada.lk/breaking_news/පස්පොඩ්ඩාට-වෙඩි-තැබූ-වෙඩික්කරු-කටුනායකදි-අල්ලයි/11-410116) · `si`
-
-In Katunayake, a school shooting occurred, followed by the arrest of immigration officials at Bandaranaike International Airport. A prominent crime boss from Negombo, who had fled to the UAE after being killed in July 2022, was shot dead upon his return. The shooter faced a flight ban from the Gampaha Magistrate's Court. The case is now under investigation by the Gampaha Police, including officials like Mr. S.J.Cilla.
-
-🟩
-
-Immigration and Emigration officials were arrested by the Immigration and Emigration Officers at the Bandaranaike International Airport while a strong organized crime leader was shot dead in Gampaha.Steps have been taken to hand over the ferry police.
-
-He is a 28-year-old resident of the Kimbulapitiya area in Negombo.
-
-After the shooting was shot dead in July 2022, he had fled to Sergeo in the United Arab Emirate.
-
-Subsequently on 6.07 am at 06.07 am at Air Arabia Airlines. The flight of 502 was reached at the Katunayake airport.
-
-The Gampaha Magistrate's Court had imposed a flight ban to the shooter.
-
-The Katunayake Airport Police Chief Inspector Special Inspector of Police, Special Inspector of Police and other officials including Mr. S.J.Cilla and other officials, is being handed over to the Gampaha Police.
-
-◼️
-
-[Data](articles/62edcd27.json)
-
-[Extended Data](ext_articles/62edcd27.ext.json)
-
----
-
-### Non -standard Savior Use: Problem for Children
-
-*2024-06-10 12:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-சவர்க்கார-பயன்பாடு-குழந்தைகளுக்கு-சிக்கல்/175-338693) · `ta`
-
-Substandard detergents cause skin issues in children, linked to economic strain. Parents urged to check products; effects may take time to show.
-
-🟩
-
-The State Family Health Services Association said that the use of substandard detergents has caused various problems in the skin of the children.
-
-Treasurer of the association Priyankani Susankika said that some parents are using a substandard child deterioration due to the current economic situation.
-
-“Nowadays, there are some allergies in the body of children. Upon examining this, it was revealed that the substandard child was using the wreckage.
-
-Mothers need to be careful when they use sucking for their children. The impact will be revealed only after a long time, ”he said.
-
-◼️
-
-[Data](articles/9d9f2329.json)
-
-[Extended Data](ext_articles/9d9f2329.ext.json)
-
----
-
-### Regional well wishes...
-
-*2024-06-10 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Regional-well-wishes/110-284500) · `en`
-
-President Ranil Wickremesinghe met his Indian counterpart, Narendra Modi, who began his third consecutive term after being sworn-in at New Delhi. Both leaders agreed to maintain bilateral ties between the two nations. The Indian Prime Minister also met other heads of state who attended the swearing-in. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/6f2d8fd7.json)
-
-[Extended Data](ext_articles/6f2d8fd7.ext.json)
-
----
-
-### Former member of the Local Council arrested with leaky bottles
-
-*2024-06-10 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185710) · `ta`
-
-A former council member was arrested in Kandy district for selling illegal "leaks" from his home, despite a police warning. The arrest came after reports of illicit activities. Further investigation is ongoing, and he will appear in court today.
-
-🟩
-
-A former member of the Hadarreyatta Passene Pradesh Council in Kandy district has been arrested by the Hadaralyeth police with two leaks.
-
-The suspect has been arrested for illegally selling illegal leakage at his home in Polwatta, which belongs to the Hadarlyliya police division.
-
-The suspect has been warned by the police to stop the leak sales on the basis of information received by the police that it is illegal.
-
-The suspect has been arrested for allegedly selling the suspect despite the warning issued by the police, police said.
-
-Further investigations are being carried out by the police and the suspect is to be produced before the Kandy Magistrate's Court today (10).
-
-◼️
-
-[Data](articles/ba0e7dcd.json)
-
-[Extended Data](ext_articles/ba0e7dcd.ext.json)
-
----
-
-### Sri Lanka tea prices fall for third consecutive week
-
-*2024-06-10 11:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-fall-for-third-consecutive-week-167170/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s tea price average fell at the first auction in May, industry data showed, continuing a three-week trend, and with Low Growns, the island’s highest priced teas, showing the biggest per kilogram decrease in price of 17.64 rupees.
-
-The national weekly sale average decreased by 8.28 rupees to 1256.98 rupees a kilogram this week, from 1267.26 rupees a week ago, industry data published by Ceylon Tea Brokers showed.
-
-The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell by 17.64 rupees to 1346.54 rupees.
-
-The Medium Grown average rose by 18.10 rupees to 1084.54 rupees.
-
-The High Grown weekly average fell by 6.69 rupees to 1139.19 rupees a kilogram. (Colombo/June8/2024)
-
-◼️
-
-[Data](articles/62851e8b.json)
-
-[Extended Data](ext_articles/62851e8b.ext.json)
-
----
-
-### President Ranil calls on India’s Foreign Minister
-
-*2024-06-10 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99780/president-ranil-calls-on-indias-foreign-minister) · `en`
-
-President Ranil Wickremesinghe has met with the Minister of External Affairs of India Dr. S. Jaishankar in New Delhi, a short while ago, during his visit to India.
-
-President Wickremesinghe arrived in India on Sunday (09) to attend the swearing-in ceremony of Narendra Modi, who was elected as the Prime Minister of India for the third consecutive term.
-
-◼️
-
-[Data](articles/42b84444.json)
-
-[Extended Data](ext_articles/42b84444.ext.json)
-
----
-
-### “Ganemulla Sanjeewa” moved to Boossa Prison
-
-*2024-06-10 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99779/ganemulla-sanjeewa-moved-to-boossa-prison) · `en`
-
-The Gampaha Magistrate’s Court has ordered for the notorious drug trafficker and organized criminal infamously known as “Ganemulla Sanjeewa”, who is currently under detention orders, to be moved to the Boossa Prison.
-
-Accordingly, he was ordered to be detained in the Boossa Prison until June 24.
-
-This order was issued when the suspect was produced before Gampaha Magistrate Silani Perera this morning (10).
-
-The underworld figure was detained at the Weeragula Police Station under detention orders obtained by the Colombo North Crimes Division under the Prevention of Terrorism Act (PTA).
-
-“Ganemulla Sanjeewa” was arrested at the Bandaranaike International Airport (BIA) in Katunayake upon his return from Nepal on September 13, 2023.
-
-He had a forged passport in his possession at the time of his arrest, with personal details of a female believed to be a resident of the Dematagoda area.
-
-...
-
-[Data](articles/37e7573f.json)
-
-[Extended Data](ext_articles/37e7573f.ext.json)
-
----
-
-### The driver's wisely survives 5 lives
-
-*2024-06-10 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197594) · `si`
-
-A van carrying school children crashed due to a fallen tree in Kengalla, Kandy, injuring five. The driver survived despite multiple injuries. Three schools and two teachers were onboard; all are hospitalized but not seriously hurt. Despite the incident, no action has been taken to remove the decaying tree.
-
-🟩
-
-Five injuries injuries in Kengalla area in Kandy and has been injured and hospitalized.
-
-There was a large tree in Kengalla area around 6.00 am today.
-
-At the moment, a van transporting school children have been traveling from Digana to Kandy.
-
-The driver of the van that saw the large tree that was fallen was impossible to prevent the driver of a side wall and phone tower.
-
-At that time, three schools and two teachers were traveling in the van and six teachers were traveling.
-
-Teachers and the injured school children were hospitalized at the same time and their condition is not serious.
-
-Nevertheless, none of them have had any action in the relevant land to remove the decay tree, but no action had taken action.
-
-◼️
-
-[Data](articles/bfbd5c23.json)
-
-[Extended Data](ext_articles/bfbd5c23.ext.json)
 
 ---

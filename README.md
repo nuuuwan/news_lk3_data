@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 08:53:26**
+As of **2024-06-10 09:04:49**
 
 ## Newspaper Stats
 
-*Scraped **29,477** Articles*
+*Scraped **29,480** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 267
 dbsjeyarajcom | 278
-bbccomsinhala | 284
+bbccomsinhala | 285
 newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
 adalk | 2,514
 adaderanalk | 3,339
-tamilmirrorlk | 3,452
+tamilmirrorlk | 3,454
 virakesarilk | 4,519
 dailymirrorlk | 4,672
 adaderanasinhalalk | 4,743
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,477 (100.0%) of 29,477 articles have been extended.
+29,477 (100.0%) of 29,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### துப்பாக்கிச் சூட்டில் ஒருவர் மரணம்; கொலையா? தற்கொலையா?
+
+*2024-06-10 08:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-மரணம்-கொலையா-தற்கொலையா/175-338678) · `ta`
+
+ஹுங்கம திஸ்ஸ வீதி, ரன்ன பிரதேசத்தில் கட்டிடப் பொருட்கள் விற்பனை செய்யும் கடையின் உரிமையாளர் ஒருவர் துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளார்.
+
+நேற்றிரவு (09) இந்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளதுடன், உயிரிழந்தவர் அதே பகுதியைச் சேர்ந்த 51 வயதுடைய வர்த்தகர் என தெரிவிக்கப்படுகின்றது.
+
+இந்த நபர் ஹார்ட்வேர் கடை ஒன்றை நடத்தி வந்ததாகவும், நேற்று இரவு துப்பாக்கியால் சுடப்பட்டு முதல் மாடியில் இருந்து தரையில் விழுந்ததாகவும் குறிப்பிடப்படுகின்றது.
+
+இந்த துப்பாக்கிச் சூடு கொலையா அல்லது தற்கொலையா என்ற உண்மைகள் இன்னும் வெளியாகவில்லை என்று பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/589d8f44.json)
+
+---
 
 ### It is raining several times in many districts
 
@@ -283,6 +301,28 @@ With solar power emerging as a sustainable and cost-effective alternative to tra
 [Data](articles/4bdac88f.json)
 
 [Extended Data](ext_articles/4bdac88f.ext.json)
+
+---
+
+### සමෙහි තුවාල ඇතිවීම අවම කරන නව 'මෙට්ටයක්' : 'මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්'
+
+*2024-06-10 02:32:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c988154nr25o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''සම මතුපිට ඇති තෙතමනය අඩු කරන්නත් මේ නිර්මාණයෙන් පුළුවන්.''
+
+සමෙහි තුවාල ඇතිවීම අවම කරන නව 'මෙට්ටයක්' : 'මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්'
+
+දීර්ඝ කාලීනව ඇඳක් මත ගත කරන රෝගීන්ගේ සමෙහි තුවාල ඇති වීම අවම කරන මෙට්ටයක් නිෂ්පාදනය කිරීමට කුලියාපිටිය සාරානාත් විද්‍යාලයේ  චිරාත් බිම්සර සේනානායක සමත්ව තිබේ.
+
+එම නිර්මාණය ජාතික මට්ටමින් සහ ජාත්‍යන්තර මට්ටමින් ද ඇගයීමට ලක්විය.
+
+රෝගීන් සඳහා දැනට භාවිතා කරන 'එයාර් මෙට්‍රස්' සහ 'වෝටර් මෙට්‍රස්' වලට වඩා මෙහි ඇති විශේෂත්වය වන්නේ මෙම නව නිර්මාණය මගින් සමේ තෙතමනය පාලනය කිරීමට ද හැකිවීමය.
+
+''මේ නිර්මාණය සඳහා මූලික පදනම වුණේ මගේ සීයා අසනීප වීම නිසා මම දැකපු දේවල්. මම බලාපොරොත්තු වෙනවා මේක නිෂ්පාදනයක් විදියට ඉදිරියේ දී රෝගීන්ගේ අතට පත් කරන්න'' යනුවෙන් චිරාත් බිම්සර සේනානායක BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/b2ec5ace.json)
 
 ---
 
@@ -801,6 +841,20 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 [Data](articles/9045c727.json)
 
 [Extended Data](ext_articles/9045c727.ext.json)
+
+---
+
+### பொசன் பண்டிகை காலத்தில் விசேட பஸ் சேவை
+
+*2024-06-10 00:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொசன்-பண்டிகை-காலத்தில்-விசேட-பஸ்-சேவை/175-338672) · `ta`
+
+பொசன் பண்டிகை காலத்தில் விசேட பஸ் சேவைகள் முன்னெடுக்கப்படவுள்ளன என இலங்கை போக்குவரத்து சபை  வெளியிட்டுள்ளது.
+
+கொழும்பு, கம்பஹா உள்ளிட்ட நகரங்களில் இருந்து மிஹிந்தலை, தந்திரிமலை மற்றும் அனுராதபுரம் ஆகிய பகுதிகளுக்கு இந்த பஸ் சேவையை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/c86be64f.json)
 
 ---
 
@@ -2187,61 +2241,5 @@ The body of the woman who was killed in the pimpa's abdomen was found.
 [Data](articles/b35a8239.json)
 
 [Extended Data](ext_articles/b35a8239.ext.json)
-
----
-
-### How it happened...
-
-*2024-06-09 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/How-it-happened/110-284427) · `en`
-
-The stretch of road at Pahala Kadugannawa on the Colombo-Kandy road was closed for traffic to remove unstable rocks and branches of trees along this section of the road. Captured here is how the unstable rocks and tree branches were removed. However, the stretch of road was reopened today after clearing the area.
-
-◼️
-
-[Data](articles/3045e776.json)
-
-[Extended Data](ext_articles/3045e776.ext.json)
-
----
-
-### Ongoing railway strike disrupts services, cancels 48 trains
-
-*2024-06-09 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-railway-strike-disrupts-services-cancels-48-trains/108-284426) · `en`
-
-Colombo, June 9 (Daily Mirror) - A total of 35 trains were canceled this morning due to the ongoing strike by the Sri Lanka Railways Locomotive Operating Engineers’ Union.
-
-The strike, which began at midnight on June 6, is now on its third day.
-
-Despite the cancellations, 41 trains were still able to operate this morning.
-
-According to a senior official from the Railways Department, measures were taken to ensure all-night mail trains ran on June 7 and 8, with plans to continue running night mail services today.
-
-The strike is based on several demands including issues pertaining to the promotions of locomotive drivers, and delays in recruitment.
-
-◼️
-
-[Data](articles/296fc519.json)
-
-[Extended Data](ext_articles/296fc519.ext.json)
-
----
-
-### Vote on Account to be presented for 2025 instead of Budget – state minister
-
-*2024-06-09 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99759/vote-on-account-to-be-presented-for-2025-instead-of-budget-state-minister) · `en`
-
-State Minister of Finance, Ranjith Siyambalapitiya says that a new budget will likely not be presented for the fiscal year 2025, and instead a Vote on Account will be presented for the expenses in the first few months of next year.
-
-Accordingly, it is reported that the Vote on Account will be implemented until the end of March 2025.
-
-According to the election calendar, this year is an election year and it is reported that a national election will be held at the end of the year
-
-Therefore, a new budget will not be presented at the end of this year for the fiscal year 2025, thereby allowing the new government elected in the election to unveil its policy statement, state minister Ranjith Siyambalapitiya further said.
-
-◼️
-
-[Data](articles/7947d82e.json)
-
-[Extended Data](ext_articles/7947d82e.ext.json)
 
 ---

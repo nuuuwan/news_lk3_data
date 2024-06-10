@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 14:06:10**
+As of **2024-06-10 14:18:55**
 
 ## Newspaper Stats
 
-*Scraped **29,547** Articles*
+*Scraped **29,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,86 @@ dbsjeyarajcom | 278
 bbccomsinhala | 286
 newsfirstlk | 363
 islandlk | 1,600
-economynextcom | 1,681
+economynextcom | 1,684
 dailyftlk | 1,768
 adalk | 2,523
 adaderanalk | 3,348
 tamilmirrorlk | 3,462
 virakesarilk | 4,529
 dailymirrorlk | 4,686
-adaderanasinhalalk | 4,756
+adaderanasinhalalk | 4,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,543 (100.0%) of 29,547 articles have been extended.
+29,547 (100.0%) of 29,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### දුම්රිය වර්ජකයින්ට වැඩ වරදින ලකුණු
+### විදෙස් රැකියා ජාවාරම්කරුවෙකු සොයාගැනීමට පොලීසිය මහජන සහාය පතයි
+
+*2024-06-10 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197603) · `si`
+
+වැලිකඩ පොලිස් වසමේ ශ්‍රී ජයවර්ධනපුර කෝට්ටේ ප්‍රදේශයේ පවත්වාගෙන ගිය ආයතනයක සේවය කළ සැකකරුවෙකු අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය අපේක්ෂා කරයි.
+
+අදාළ ආයතනය මඟින් එංගලන්තය සහ පෝලන්තය යන විදේශ රටවල රැකියා ලබදෙන බව පවසා විවිධ ප්‍රදේශවල පුද්ගලයින් රවටා රුපියල් 17,500,000කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් අවශයව සිටින සැකකරුවෙක් බව පොලීසිය පවසයි.
+
+මෙම මුදල් වංචාව සම්බන්ධයෙන් මිරිහාන විශේෂ අපරාධ විමර්ශන අංශය මඟින් විමර්ශන ආරම්භ කර සැකකාරියක් අත්අඩංගුවට ගෙන කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+
+එම සැකකාරියගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අදාළ මුදල් වංචාවට එම ආයතනයේ හිමිකරු ලෙසින් පෙනී සිටි අයෙකු බවට අනාවරණය වී ඇත.
+
+එම සැකකරු පදිංචිව සිටින ලිපිනයක් හෝ වෙනත් අනන්‍යතාවයක් මෙතෙක් අනාවරණය වී නොමැත.
+
+සැකකරු සම්බන්ධයෙන් තොරතුරක් වෙතොත් පහත දුරකථන අංකයට දැනුම් දෙන ලෙස පොලීසිය මහජනතාවට දැනුම්දෙයි.
+
+ස්ථානාධිපති / මිරිහාන විශේෂ අපරාධ විමර්ශන අංශය - 071 8137 373
+
+◼️
+
+[Data](articles/50d0f303.json)
+
+---
+
+### පස් පොඩ්ඩා ට වෙඩිතැබූ සැකකරු ගුවන්තොටුපොළේදී කොටුවෙයි
+
+*2024-06-10 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197602) · `si`
+
+ගම්පහ ප්‍රදේශයේ සංවිධානාත්මක අපරාධ සම්බන්ධ චෝදනා එල්ලව සිටි "පස් පොඩ්ඩා" නමැත්තාව වෙඩිතබා ඝාතනය කළ බවට සැකකෙරෙන පුද්ගලයා ව අද (10) උදෑසන කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගත්තේය.
+
+ආගමන විගමන නිලධාරීන් විසින් ඔහුව අත්අඩංගුවට ගත් අතර සැකකරුව ගුවන් තොටුපොළ පොලීසිය වෙත බාරදීමට පියවර ගත් බව අප වාර්තාකරු පැවසීය.
+
+මොහු ගම්පහ "පස් පොඩ්ඩා" ට ඉකුත් 2022 ජූලි මස වෙඩිතබා ඝාතනය කිරීමෙන් පසුව, එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර බලා පළාගොස් තිබූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/4a465d6c.json)
+
+---
+
+### Railway strikers work
 
 *2024-06-10 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197601) · `si`
 
-වර්ජනයේ නිරත දුම්රිය සේවකයින් ට අද (10) දහවල් ප්‍රවාහන අමාත්‍යාංශයේදී විෂය භාර අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සමග සාකච්ඡාවක් ලබාදී තිබේ.
+Railway strikers' actions were deemed deliberate and aimed at embarrassing the government, according to the Additional General Manager of the Railway Department. The department plans to take disciplinary action against those involved. Despite issuing promotions, the strike's impact led to delays in further appointments due to language proficiency requirements and ongoing inquiries. The department also intends to conduct a special investigation within a month.
 
-මේ අතර වර්ජකයින්ගේ චෝදනාවලට දුම්රිය දෙපාර්තමේන්තුවේ ප්‍රධානීන් ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ප්‍රතිචාර දැක්විය.
+🟩
 
-දුම්රිය දෙපාර්තමේන්තුවේ අතිරේක සාමාන්‍යාධිකාරී (පරිපාලන) කුසලානි ද සිල්වා මහත්මිය පැවසුවේ මෙම වර්ජනය හිතාමතාම මහජනතාව සහ රජය අපහසුතාවයට පත් කිරීමට සිදුකරන එකක් බවය.
+Minister of Strike today has been given a discussion with Minister Bandula Gunawardena in charge of the Ministry in the Ministry of Transport today (10).
 
-එමෙන්ම එවැන්නක් සිදුකළ අයට අනිවාර්යයෙන්ම විනය ක්‍රියාමාර්ග ගතයුතු බවත් ඇය වැඩිදුරටත් පැවසුවාය.
+Meanwhile, the heads of the Railway Department responded with a press conference for the operations of the strikers.
+
+Additional General Manager of the Railway Department (Administrative) Tuxury, said that the strike is deliberately, that the strike is deliberately and the government is embarrassing.
+
+She added that all those who have done is definitely take disciplinary action.
 
 ...
 
 [Data](articles/9798926a.json)
+
+[Extended Data](ext_articles/9798926a.ext.json)
 
 ---
 
@@ -86,45 +132,63 @@ The Gampaha Magistrate's Court had imposed a travel ban on the suspect and the o
 
 ---
 
-### ජනපතිට මෝදි ළඟම අසුනක්
+### Janatha has a nearby seat
 
 *2024-06-10 13:26:25* · [`adalk`](https://www.ada.lk/picture_story/ජනපතිට-මෝදි-ළඟම-අසුනක්/10-410118) · `si`
 
-අඛණ්ඩව තුන්වන වරටත් ඉන්දියාවේ අග්‍රාමාත්‍ය ධූරයේ දිවුරුම් දුන් නරේන්ද්‍ර මෝදි මහතාට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය උණුසුම් සුබ පැතුම් පිරිනැමූ අතර ඉන්දු – ශ්‍රි ලංකා සබඳතා සවිමත්ව ඉදිරියට ගෙන යාමට යළිත් නායකයෝ ප්‍රතිඥා දුන්හ.
+In a ceremony marking Narendra Modi's third consecutive term as India's Prime Minister, leaders including Bangladesh's PM Shaikh Hasina, Nepal's PM, Maldives' President Mohamed Mishal, and Sri Lanka's President Ranil Wickremesinghe attended. Modi's oath was highlighted, with Wickremesinghe receiving notable recognition. The event, held at Rashtrapati Bhavan, included a dinner where regional leaders interacted, showcasing strong diplomatic ties among them.
 
-නරේන්ද්‍ර මෝදි මහතාගේ දිවුරුම් දීමේ උත්සවය ඊයේ (09) පස්වරුවේ නවදිල්ලි නුවර රාෂ්ට්‍රපති භවන්හිදී උත්කර්ෂවත් අන්දමින් පැවැත්වුණු අතර නරේන්ද්‍ර මෝදි මහතාගේ විශේෂ ඇරයුම පරිදි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද එම අවස්ථාවට එක් විය.
+🟩
 
-බංග්ලාදේශ අගමැතිනී ෂෙයික් හසීනා, නේපාල අගමැති පුෂ්ප කමල් දහාල්, මාලදිවයින් ජනාධිපති මොහොමඩ් මුයිසු , සීෂෙල්ස් උප ජනාධිපති, මොරිෂියස් අගමැති මෙන්ම භූතාන අගමැතිවරයා ප්‍රමුඛ කලාපයේ රාජ්‍ය නායකයන් රැසක් ද දිවුරුම් දීමේ උත්සවයට එක්ව සිටි අතර කලාපයේ නායකයන්ගෙන් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට හිමි වුයේ ඉහළ පිළිගැනීමකි.
+President Ranil Wickremesinghe was congrated to the third consecutive year, and the leaders of Narendra Modi were congratulated.
 
-ධූරයේ දිවුරුම් දීමෙන් අනතුරුව අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා කලාපයේ නායකයන් සමඟ සමූහ ඡායාරූපයකට ද එක් වූ අතර එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා අසළම ස්ථානය වෙන් කර තිබීම ද විශේෂත්වයකි.
+Narendra Modi's swearing in Narendra Modi was held at Rashtraphi Bhavanhala, Narendra Modi's special invitation.
+
+Bangladesh Prime Minister Shaikh Hasina, Nepal Prime Minister Flowers, Maldivian President Mohamed Mishal, Maldivas President, and the Prime Minister of the region, President Ranil Wickremesinghe received a high recognition from the leaders of the region.
+
+Prime Minister Narendra Modi joined a crowd with the leaders of the region, after the oath of the post.
+
+Meanwhile, President Ranil Wickremesinghe and heads of state were also present at the dinner organized by Prime Minister Narendra Modi.
+
+President Ranil Wickremesinghe had been given a significant publicity to the swearing in President Ranil Wickremesinghe and the main round round of the capital city of New Delhi was displayed.
 
 ...
 
 [Data](articles/85846b84.json)
 
+[Extended Data](ext_articles/85846b84.ext.json)
+
 ---
 
-### අවුරුදු 11 දී පවුල් බර කරට ගත් පුංචි රවිඳු
+### Little Ravindu taken into the 11 year
 
 *2024-06-10 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197600) · `si`
 
-පුංචි දරුවන්ගේ ලෝකය පිරිලා තියෙන්නේ හීනවලින්... හොඳට ඉගෙන ගන්න යාළුවෝ එක්ක සෙල්ලම් කරන්න නිදහසේ ජීවත්වෙන්න පුංචි දරුවෝ නින්දෙදිත් හීන දකිනවා...
+Ravindu, an 11-year-old, unexpectedly takes on adult responsibilities after his mother's death. He misses playing and sleeping well but steps up to cook meals and care for his younger siblings. Despite his young age, he shows remarkable resilience, adapting to his new life while awaiting medical treatment for a foot injury. His story highlights the challenges faced by children in similar situations, emphasizing the need for support systems to help them navigate through tough times.
 
-ඒත්, ඒ හීන සියල්ල අතහැර පවුලක සියලු වගකීම් කරට ගන්න වයස අවුරුදු 11ක දරුවෙක්ට සිදුවුණොත් ඒ පිළිබඳව ඔබට හිතාගන්නටවත් පුළුවන්ද?
+🟩
 
-රවිඳුට දැන් අවුරුදු 11යි. පොතක් පතක් අතට ගන්න, දුවලා පැනලා සෙල්ලම් කරන්න ඕන වයසේ පුංචි රවිදුට සිදුවන්නේ අම්මෙක්ගේ වගකීම කරට ගන්න.
+Little children are filled with her demise.. Play With Friends Living Good With Friends Living Little Children Little Sleep ...
 
-රවිදුගේ මිතුරන් අම්මා තාත්තාගේ අතින් බත්කටක් කවා ගනිද්දි,මේ පුංචි පුතුට සිදුවෙලා තියෙන්නේ තමන්ගේ දෑතින් පිසූ කෑම ටික අම්මටයි තාත්තටයි කවන්න.
+But if you have to imagine the age of a 11-year-old, to abandon all those dreams and take all the responsibilities of a family?
 
-ගාල්ල බෝගහගොඩ විලේවත්ත ප්‍රදේශයේ පදිංචි රවිඳු ප්‍රභාත් පුතුගේ පියා ගසකින් ඇද වැටී ශුසුම්නාවට හානිවීමෙන් වසර ගණනාවක් ඉන්නේ එක්තැන්වෙලා.
+Rivie is 11 years old. Get into a book, runs, and run into a mother's responsibility.
 
-ඇය මේවන විටත් කරාපිටිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර, පාදයේ තුවාලයක් හේතුවෙන් ඇතිවූ සංකූලතාවයකින් ඇගේ එක් පාදයක කොටසක් මීට දින කිහපයකට පෙර ඉවත් කෙරුණි.
+When Ruwinduge's friends were trying to rice in the hands of Father, these little ones have to eat the food cooked in their hands to say dad.
 
-සියලු අභියෝග මැද ගාල්ල බෝගහගොඩ දොරපේ මහා විද්‍යාලයට අකුරු කරන්නට යන්නත් මේ පුතු අමතක කරන්නේ නැහැ
+Riviebal Pubhat Puthu son, Bogugoda, Galle is in a tree and has many years from a tree.
+
+She is already receiving treatment at the Karapitiya Teaching Hospital and has been removed from one foot of one foot before a complication caused by a foot injury.
+
+The son does not forget to write to the Bogahagoda Dopi Maha Vidyalaya, Colombo
+
+A doctor of the Karapitiya Teaching Hospital has renting the infinite commitment to the parents of the school to take place in the house.
 
 ...
 
 [Data](articles/44c13d64.json)
+
+[Extended Data](ext_articles/44c13d64.ext.json)
 
 ---
 
@@ -372,6 +436,24 @@ However, after telling her husband about the incident she had happened, the two 
 
 ---
 
+### Fitch rates Sri Lanka’s Commercial Bank 20bn debenture issue ‘BBB+(lka)’
+
+*2024-06-10 12:36:00* · [`economynextcom`](https://economynext.com/fitch-rates-sri-lankas-commercial-bank-20bn-debenture-issue-bbblka-167173/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has assigned Commercial Bank’s proposed debentures of up to 20 billion rupees a national long-term rating of ‘BBB+(lka)’, a rating two notches below the bank’s National Long-Term Rating anchor.
+
+“This reflects Fitch’s baseline notching for loss severity for this type of debt and expectation of poor recoveries. There is no additional notching for non-performance risk, as the notes do not incorporate going-concern loss absorption features,” Fitch said.
+
+Fitch Assigns Commercial Bank of Ceylon’s Basel III Subordinated Debt Final ‘BBB+(lka)’
+
+Fitch Ratings – Colombo – 10 Jun 2024: Fitch Ratings has assigned Commercial Bank of Ceylon PLC’s (COMB, A(lka)/Stable) proposed Sri Lankan rupee-denominated Basel IIIcompliant subordinated debentures of up to LKR20 billion a final National Long-Term Rating of ‘BBB+(lka)’.
+
+...
+
+[Data](articles/f9800215.json)
+
+---
+
 ### Substandard soaps cause skin allergies in babies
 
 *2024-06-10 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Substandard-soaps-cause-skin-allergies-in-babies/108-284503) · `en`
@@ -553,6 +635,26 @@ Further investigations are being carried out by the police and the suspect is to
 [Data](articles/ba0e7dcd.json)
 
 [Extended Data](ext_articles/ba0e7dcd.ext.json)
+
+---
+
+### Sri Lanka tea prices fall for third consecutive week
+
+*2024-06-10 11:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-fall-for-third-consecutive-week-167170/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s tea price average fell at the first auction in May, industry data showed, continuing a three-week trend, and with Low Growns, the island’s highest priced teas, showing the biggest per kilogram decrease in price of 17.64 rupees.
+
+The national weekly sale average decreased by 8.28 rupees to 1256.98 rupees a kilogram this week, from 1267.26 rupees a week ago, industry data published by Ceylon Tea Brokers showed.
+
+The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell by 17.64 rupees to 1346.54 rupees.
+
+The Medium Grown average rose by 18.10 rupees to 1084.54 rupees.
+
+The High Grown weekly average fell by 6.69 rupees to 1139.19 rupees a kilogram. (Colombo/June8/2024)
+
+◼️
+
+[Data](articles/62851e8b.json)
 
 ---
 
@@ -1119,6 +1221,30 @@ Hungama Police are conducting further investigations to determine the circumstan
 [Data](articles/64ec0ab7.json)
 
 [Extended Data](ext_articles/64ec0ab7.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 302.80/95 to US dollar
+
+*2024-06-10 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-80-95-to-us-dollar-167123/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.80/95 to the US dollar on Monday in the first half-hour of trading, while bond yields were steady and stocks opened 0.55 percent higher, dealers said.
+
+In equities, Colombo’s All Share Price Index gained 67.86 points to 12,382.24 and the S&P SL20 of more liquid stocks was up 0.88 percent or 32.35 points to 3,687.96, in the first-half hour of trade.
+
+The Colombo Stock Exchange announced that the settlement cycle for all equity transactions on the CSE will be shortened to T+2 with effect from today (10). The market turnover was 63 million rupees.
+
+In the secondary market, yields were stable in somewhat dull trade, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.95/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.45/65 percent up from 10.45/55 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
+
+...
+
+[Data](articles/816561eb.json)
 
 ---
 
@@ -2203,109 +2329,5 @@ One could very well describe the Cold War between the West (the US and its NATO 
 [Data](articles/21ed4733.json)
 
 [Extended Data](ext_articles/21ed4733.ext.json)
-
----
-
-### Nawaloka Hospitals reports Impressive profit growth in FY 2023/24
-
-*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-reports-impressive-profit-growth-in-fy-2023-24/) · `en`
-
-Nawaloka Hospitals Group has announced an outstanding financial performance for the fiscal year 2023/24, showcasing its resilience and commitment to operational excellence.
-
-For the year ending March 31, 2024, the company reported a consolidated net profit after tax of Rs.347.8 million, a remarkable 114.26% increase from the previous year’s figure. This positive swing in profitability is a testament to the company’s steadfast dedication to enhancing efficiency and patient care.
-
-Revenue for the year increased to 10,648 million, representing a 14.43% year-over-year growth, demonstrating the strength and adaptability of Nawaloka Hospitals’ business model despite the challenging economic environment.
-
-“This significant profit growth reflects the unwavering commitment and hard work of our entire team, who have prioritized operational excellence and strategic initiatives focused on efficiency and exceptional patient care,” said Nawaloka Hospitals PLC Chairman Dr. Jayantha Dharmadasa.
-
-...
-
-[Data](articles/5d672ff3.json)
-
-[Extended Data](ext_articles/5d672ff3.ext.json)
-
----
-
-### Sri Lanka rupee appreciates by 7% against USD in the past six months
-
-*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/sri-lanka-rupee-appreciates-by-7-against-usd-in-the-past-six-months/) · `en`
-
-During the year up to 07th June 2024, the Sri Lanka rupee appreciated against the US dollar by 7.0 per cent, according to the Weekly Economic Indicators report of the Central Bank of Sri Lanka.
-
-“Workers’ remittances amounted to US dollars 544.4 mn in May 2024, compared to US dollars 543.8 mn in April 2024 and US dollars 479.7 mn in May 2023,” it stated.
-
-Meanwhile, earnings from tourism amounted to US dollars 154 mn in May 2024, compared to US dollars 225.7 mn in April 2024 and US dollars 100 mn in May 2023.
-
-The net purchases by the CBSL from the domestic foreign exchange market amounted to US dollars 192.5 mn in May 2024.
-
-The gross official reserves were provisionally estimated at US dollars 5,421mn as at end May 2024. This includes proceeds from the PBOC swap arrangement, which is subject to conditionalities on usability.
-
-...
-
-[Data](articles/632bafab.json)
-
-[Extended Data](ext_articles/632bafab.ext.json)
-
----
-
-### SLIM elects new leadership for 2024-2025
-
-*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/slim-elects-new-leadership-for-2024-2025-2/) · `en`
-
-The Sri Lanka Institute of Marketing (SLIM) elected its Council of Management and Executive Committee for the 2024/2025 term.
-
-The 54th Annual General Meeting, held on March 27th, 2024, at the Galadari Hotel, Colombo, saw the election of a distinguished group of marketing professionals who will guide SLIM’s strategic direction over the coming year.
-
-Prof. Dewasiri N. Jayantha – Vice President – Education & Research
-
-Dr. Dilhan Sampath Jayatilleke – Vice President – Events & Sustainability
-
-The Executive Committee for 2024-2025 includes Nuwan Thilakawardhana, Rajiv David, Maduranga Weeratunga, Kaushala Amarasekara, Channa Jayasinghe, Dr. Muditha Hewawanitunga, Gayan Wijethilaka, Asanka Udayakumara, Anuk De Silva and Nirmala Premarathna.
-
-Assetline Finance launches Assetline Green Loan to support solar energy investments
-
-CSE partners with SLIM to promote capital market education among students
-
-...
-
-[Data](articles/fa07a237.json)
-
-[Extended Data](ext_articles/fa07a237.ext.json)
-
----
-
-### The Ranil-Chandrika Debate of 1999 that never occurred
-
-*2024-06-10 00:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Ranil-Chandrika-Debate-of-1999-that-never-occurred/172-284468) · `en`
-
-Kumaratunga’s campaign was plagued by setbacks which prompted Wickremesinghe to challenge Kumaratunga for a Presidential debate
-
-Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mahinda-Ranil 2005: That never was,’ let us revisit the ‘Ranil-Chandrika 1999’ debate. The lead up to the 1999 Presidential Election was marked by significant political turmoil and dramatic events.
-
-...
-
-[Data](articles/9045c727.json)
-
-[Extended Data](ext_articles/9045c727.ext.json)
-
----
-
-### Exchange interim reports presented
-
-*2024-06-10 00:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்காலக்-கணக்கறிக்கை-முன்வைக்கப்படும்/175-338673) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced that due to unforeseen circumstances, an interim financial report will replace the traditional budget for 2025, covering the initial months of the year.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the interim accounting will be submitted instead of the budget for 2025.
-
-According to Ranjith Siyambalapitiya, the interim report will be submitted for the first few months of 2025.. (A)
-
-◼️
-
-[Data](articles/7d3e6cd1.json)
-
-[Extended Data](ext_articles/7d3e6cd1.ext.json)
 
 ---

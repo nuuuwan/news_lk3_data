@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 10:52:56**
+As of **2024-06-10 11:04:55**
 
 ## Newspaper Stats
 
-*Scraped **29,500** Articles*
+*Scraped **29,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,681
 dailyftlk | 1,768
-adalk | 2,515
-adaderanalk | 3,343
-tamilmirrorlk | 3,456
+adalk | 2,517
+adaderanalk | 3,345
+tamilmirrorlk | 3,458
 virakesarilk | 4,519
 dailymirrorlk | 4,677
 adaderanasinhalalk | 4,748
@@ -26,41 +26,123 @@ adaderanasinhalalk | 4,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,494 (100.0%) of 29,500 articles have been extended.
+29,500 (100.0%) of 29,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ඊශ්‍රායල රජය සෙලවෙයි
+### Israel’s centrist minister Benny Gantz quits Netanyahu government
+
+*2024-06-10 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99778/israels-centrist-minister-benny-gantz-quits-netanyahu-government) · `en`
+
+Israeli minister Benny Gantz announced his resignation from Prime Minister Benjamin Netanyahu’s emergency government on Sunday, withdrawing the only centrist power in the embattled leader’s far-right coalition amid a months-long war in Gaza.
+
+The departure of Gantz’s centrist party will not pose an immediate threat to the government. But it could have a serious impact nonetheless, leaving Netanyahu reliant on hardliners, with no end in sight to the Gaza war and a possible escalation in fighting with Lebanese Hezbollah.
+
+Last month, Gantz presented Netanyahu with a June 8 deadline to come up with a clear day-after strategy for Gaza, where Israel has been pressing a devastating military offensive against the ruling Palestinian militant group Hamas.
+
+Netanyahu brushed off the ultimatum soon after it was given.
+
+...
+
+[Data](articles/3fbb3e2e.json)
+
+---
+
+### “IMF நிபந்தனைகளில் 25 சதவீதம் நிறைவேற்றப்படவில்லை”
+
+*2024-06-10 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-நிபந்தனைகளில்-25-சதவீதம்-நிறைவேற்றப்படவில்லை/175-338686) · `ta`
+
+இலங்கையில் நல்லாட்சி முறையினை மேம்படுத்துவதன் மூலம் சர்வதேச நாணயநிதியத்தின் திட்டத்தினை வெற்றிகரமானதாக மாற்ற முடியும் என்று திட்டமிடப்பட்டிருந்தது நடக்குமா?
+
+ஜூன் 12ம் திகதி சர்வதேச நாணயநிதியம் (IMF)  நடைமுறைத்திட்டத்தின் மூன்றாவது பணக் கொடுப்பனவிற்கான ஒப்பந்தத்தில் கைச்சாத்திடவுள்ளது.
+
+சமீபத்திய வெரிட்டே நிறுவனத்தின் IMF கண்கானிப்பானின் 2024 மே மாத தரவுகளின் அடிப்படையில் டிசெம்பர் 2023 இல் புதிப்பிக்கப்பட்ட திட்டத்தின்படி 25 சதவீத வாக்குறுதிகள் நிறைவேற்றப்படவில்லை.
+
+இத்திட்டத்தில் முடிக்கப்பட வேண்டிய 63 வாக்குறுதிகளில் 32 வாக்குறுதிகள் நிறைவேற்றபட்டும் 16 வாக்குறுதிகள் நிறைவேற்றபடாமலும் 15 அறியப்படாமலும் உள்ளன. (தரவுகள் கிடைக்காதபடியினால் உண்மை தன்மையினை கண்டறிய முடியவில்லை.)
+
+நிறைவேற்றப்படாத 16 வாக்குறுதிகளை ஆராயும் பொழுது நல்லாட்சியில் தோல்வி ஏற்படும் என்ற முடிவுக்கு வந்துள்ளது.16 வாக்குறுதிகளையும் ஆய்வு செய்யும் பொழுது அவற்றில் 7  நிதிமுகாமைத்துவம், 6 நிதிவெளிப்படைத்தன்மை, 3 ஊழல் எதிர்ப்பு அளவீடுகள் உள்ளடக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/b1c71340.json)
+
+---
+
+### President Ranil meets Bangladeshi PM in Delhi
+
+*2024-06-10 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99777/president-ranil-meets-bangladeshi-pm-in-delhi-) · `en`
+
+President Ranil Wickremesinghe has held a discussion with the Bangladesh Prime Minister Sheikh Hasina in New Delhi, India.
+
+The bilateral meeting took place while they are in New Delhi to attend the oath-taking ceremony of the new Indian government at the invitation of prime minister Narendra Modi.
+
+President Wickremesinghe arrived in India on Sunday (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Narendra Modi, who was elected as the Prime Minister of India for the third consecutive term.
+
+Wickremesinghe was warmly welcomed at the airport by Additional Secretary P. Kumaran on behalf of the Indian Ministry of External Affairs, Indian High Commissioner to Sri Lanka Santosh Jha, Indian Ocean Region Additional Secretary Puneeth Agrawal and Mrs. Kshenuka Senewiratne.
+
+President Wickremesinghe’s arrival received significant media coverage in India, with billboards featuring his and Prime Minister Modi’s images displayed around key locations in New Delhi.
+
+...
+
+[Data](articles/7dec954b.json)
+
+---
+
+### The Israeli government sees
 
 *2024-06-10 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197591) · `si`
 
-එසේ ඉල්ලා අස්වී ඇත්තේ ඊශ්‍රායල යුද කැබිනෙට්ටුවේ ප්‍රබලයෙක් ලෙස සැලකෙන බෙනි ග්‍රාන්ට්ස් ය.
+The Israeli government views Benny Grants as a test within its war council. Following the conflict, PM Benjamin Netanyahu resigned due to lack of a clear Gaza strategy, citing deep regret.
 
-විශේෂයෙන් යුද්ධයෙන් අනතුරුව ගාසා තීරය සඳහා ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු විසින් පැහැදිලි ක්‍රමවේදයක් ඉදිරිපත් කර නොමැතිවීම හේතුවෙන් මතුවී ඇති අර්බුදය හේතුවෙන් ඔහු රජයෙන් ඉවත්වී ඇති බව සඳහන් වෙයි.
+🟩
 
-ඊයේ (09) ටෙල් අවීව් නගරයේදී මාධ්‍ය අමතමින් ඔහු පැවසුවේ තමා මෙම තීරණය ට එළඹුණේ දැඩි පසුතැවිල්ල හේතුවෙන් බවයි.
+The benni Grants are considered as a probe in the Israeli war cabinet.
+
+After the war, Israeli Prime Minister Benjamin Netanyahu had left the government due to the absence of a clear procedure for Gaza.
+
+Addressing the media in Tel Auv yesterday (09), he said that he had made this decision due to heavy repentance.
 
 ◼️
 
 [Data](articles/4d444462.json)
 
+[Extended Data](ext_articles/4d444462.ext.json)
+
 ---
 
-### ජනපති හා බංග්ලාදේශ අගමැතිනිය අතර හමුවක්
+### President meets Bangladesh Prime Minister
 
 *2024-06-10 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197589) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර ඉන්දියාවේ නවදිල්ලි නුවර දී බංග්ලාදේශ අග්‍රාමාත්‍ය ෂෙයික් හසීනා මහත්මිය හමුවූ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+President Ranil Wickremesinghe of Sri Lanka met with Bangladesh's Prime Minister Sheikh Hasina in New Delhi, India, attending an event hosted by Indian PM Narendra Modi. The meeting took place today, marking significant diplomatic engagement between the countries.
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ දිවුරුම් දීමේ උත්සවයට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය සෙනසුරාදා (08) දිනයේ මෙරටින් පිටත්ව ගියේය.
+🟩
 
-එම සංචාරයේ අතරතුර දී අද (10) දිනයේ මෙම හමුව සිදු වූ බව ජනාධිපති මාධ්‍ය අංශය වැඩිදුරටත් සඳහන් කළේය.
+President Ranil Wickremesinghe met the Prime Minister Sheikh Husanna in New Delhi, India shortly ago.
+
+President Ranil Wickremesinghe left the country on Saturday (08) to attend the ceremony of Indian Prime Minister Narendra Modi.
+
+The meeting was held today (10) during the visit.
 
 ◼️
 
 [Data](articles/f426e9b3.json)
+
+[Extended Data](ext_articles/f426e9b3.ext.json)
+
+---
+
+### சுவர் இடிந்து விழுந்ததில் 2 மாத குழந்தை மரணம்
+
+*2024-06-10 10:14:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவர்-இடிந்து-விழுந்ததில்-2-மாத-குழந்தை-மரணம்/175-338683) · `ta`
+
+ஓமந்தை – புதியவேலர் – சின்னக்குளம் பகுதியில் உள்ள வீடொன்றின் வரவேற்பறை சுவரின் ஒரு பகுதி இடிந்து விழுந்ததில் 2 மாத  குழந்தையொன்று உயிரிழந்தது.
+
+◼️
+
+[Data](articles/0f69cf7e.json)
 
 ---
 
@@ -86,6 +168,24 @@ Modi’s “chest-thumping propaganda of bringing peace and normalcy... rings ho
 
 [Data](articles/6b4a14b7.json)
 
+[Extended Data](ext_articles/6b4a14b7.ext.json)
+
+---
+
+### ක‍ිරි සම්බා සහල් ජාවාරමක්
+
+*2024-06-10 09:56:41* · [`adalk`](https://www.ada.lk/breaking_news/ක‍ිරි-සම්බා-සහල්-ජාවාරමක්/11-410112) · `si`
+
+කීරි සම්බා සහල් හිඟය මූලික කර ගනිමින්  ඇතැම් ප්‍රදේශවල කීරිසම්බා සහල් කිලෝවක් රු. 345-රු. 360 අතර මුදලකට අලෙවි කරමින් පවතී. පාලන මිලට අනුව කීරි සම්බා කිලෝවක මිල රුපියල් 260 කි.
+
+මෝල් හිමියන් විසින් ඔවුන්ගේ ඇසුරුම්වල කීරි සම්බා සහල් කිලෝවක මිල රු. 260 ක් වන ලෙසට කිලෝ 05 හා 10 ඇසුරුම්වල සඳහන් කර ඇතත් වෙළෙඳ සැල් හිමියන් විසින් පාලන මිල ඉක්මවා සහල් අලෙවි කරනු ලබයි. මේ වන විට ඇතැම් ප්‍රදේශවල සහල් කිලෝ 05 ඇසුරුමක් රු. 1745 -රු. 1800 අතර මුදලකට අලෙවි කරන අතර  සහල් කිලෝ 10 ඇසුරුමක් රු. 3450 ක මුදලකට අලෙවි කෙරේ. කිලෝවක් හෝ කිලෝ දෙකක් වශයෙන් සිල්ලරට අලෙවි කිරීමේදී කිලෝවක් රු. 360 ක පමණ මුදලකට අලෙවි කරනු ලබයි.
+
+මෝල් හිමියන් විසින් සහල් ඇසුරුමේ පාලන මිලට අනුව මිල සඳහන් කර තිබුණත් වෙළෙඳ සැල්වලට ලබා දීමේදී සහල් වැඩි මුදලට අලෙවි කරමින් තිබෙන බවත්, මේ නිසා ජනතාවට සහල් අලෙවි කිරීමේදී වැඩි මිලට සහල් අලෙවි කිරීමට සිදුව තිබෙන බවත් ඇතැම් ව්‍යපාරිකයෝ සඳහන් කරති.
+
+...
+
+[Data](articles/8ea5c3f1.json)
+
 ---
 
 ### Unidentified body found on beach in Wadduwa; Murder suspected
@@ -103,6 +203,8 @@ Panadura Division Scene of Crime Officers (SOCO) are scheduled to visit the loca
 ◼️
 
 [Data](articles/14032dd1.json)
+
+[Extended Data](ext_articles/14032dd1.ext.json)
 
 ---
 
@@ -182,6 +284,8 @@ Omanthai Police are currently conducting further investigations regarding the ac
 
 [Data](articles/5ef40e5b.json)
 
+[Extended Data](ext_articles/5ef40e5b.ext.json)
+
 ---
 
 ### Shop owner dies from gunshot wounds in Ranna
@@ -201,6 +305,8 @@ Hungama Police are conducting further investigations to determine the circumstan
 ◼️
 
 [Data](articles/64ec0ab7.json)
+
+[Extended Data](ext_articles/64ec0ab7.ext.json)
 
 ---
 
@@ -1944,6 +2050,24 @@ However, the Pakistan government and the International Monetary Fund representat
 
 ---
 
+### මොරගහකන්ද නිසා මින්නේරියට අලි ඇතින්ගේ පැමිණීම අඩුවෙයි
+
+*2024-06-09 19:21:07* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහකන්ද-නිසා-මින්නේරියට-අලි-ඇතින්ගේ-පැමිණීම-අඩුවෙයි/11-410105) · `si`
+
+අලි ඇතුන් විශාල සංඛ්‍යාවක් එකම ස්ථානයේ සිට නැරඹිය හැකි සුවිශේෂ උද්‍යානයක් වන මින්නේරිය ජාතික උද්‍යානයට 2024 මාර්තු මාසයේ සිට අලින්ගේ පැමිණීම විශාල ලෙස පහත බැස ඇති බව ජාතිකවිගණන කාර්යාලයේ කාර්ය පරිවාරික අංශය මගින් ජුනි මස 08වන දින නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන්වේ.
+
+මෙම උද්‍යානය තුළ ආක්‍රමණශීලී ශාක රාශියක් පැතිරීම හේතුවෙන් උද්‍යානයේ තෘණ භූමි පැතිර පවතින වපසරිය අඩු වීම මේ සඳහා ප්‍රධාන වශයෙන් හේතු වී තිබූ බවද විගණනය මගින් අනාවරණය කොට තිබුණි. එමෙන්ම මොරගහකන්ද ජල ව්‍යාපෘතිය හේතුවෙන්ද මින්නේරිය ජාතික උද්‍යානයට වාර්ෂිකව අලි ඇතුන් පැමිණීම අඩු වී ඇති බවද අනාවරණය වී ඇත.
+
+මොරගහකන්ද ව්‍යාපෘතිය හේතුවෙන් මින්නේරිය ජාතක උද්‍යානයට පැමිණෙන අලි සංඛ්‍යාව අඩු වී ඇති බව හිටපු වන ජීවි අධ්‍යක්ෂජනරාල්වරයා විසින් 2023 ජනවාරි මස කරනු ලැබූ පර්යේෂණයකදී අනාවරණය වී ඇති බව විගණනයට සඳහන් කරයි.
+
+මෙකී උද්‍යානයට අලි ඇතුන් වැඩිපුර පැමිණෙන්නේ සෑම වර්ෂයකම සැප්තැම්බර් සහ ඔක්තෝබර් මාසවලදීය. අධ්‍යක්ෂ ජනරාල්වරයා කරනු ලැබූ පරීක්ෂණවලට අනුව 2017 සිට 2022 වර්ෂය දක්වා අලින්ගේ පැමිණීම 12%කින් අඩු වී ඇත.
+
+...
+
+[Data](articles/ddc2b693.json)
+
+---
+
 ### Special notice under Harsha about the life threatening incident
 
 *2024-06-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197569) · `si`
@@ -2041,131 +2165,5 @@ Sri Lanka's Internal Revenue Department (IRD) on March 21, 2024. Has issued a no
 [Data](articles/47d53211.json)
 
 [Extended Data](ext_articles/47d53211.ext.json)
-
----
-
-### Violations of the rights of unpopular Muslims
-
-*2024-06-09 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185652) · `ta`
-
-In Turkey, a court recognized the rights of Muslims, especially in Maradana, addressing their ethnic, religious, and cultural rights. This marks a significant victory for the Muslim community.
-
-🟩
-
-A court announcement was later released by a Turkish hat. Following this, the Muslim community was honored for their ethnic, religious and cultural rights. Focusing on the Maradana, the struggle was successful.
-
-◼️
-
-[Data](articles/b5eccacd.json)
-
-[Extended Data](ext_articles/b5eccacd.ext.json)
-
----
-
-### 6 out of the 400 registered vehicles from the fray road handed over the bribery Commission
-
-*2024-06-09 19:13:40* · [`adalk`](https://www.ada.lk/breaking_news/හොර-පාරෙන්-ලියාපදිංචි-කළ-වාහන-400න්-6ක්-අල්ලස්-කොමිෂම-භාරයට/11-410104) · `si`
-
-Six of 400 vehicles registered on Fray Road were seized by the Bribery Commission for alleged false registration and involvement in corruption investigations. The commission also requested the Colombo Chief Magistrate to defer certain cases related to bribery inquiries.
-
-🟩
-
-Among the 400 vehicles have been taken into custody, along with the 400 vehicles of the 400 vehicles allocated for the Customs and registered false information.
-
-A spokesman for the Bribery Commission stated that the vehicles were taken into custody at the investigation of Bribery or Corruption by the Commission to Investigate Bribery or Corruption by the Investigation Commission for over Rs.
-
-According to the Bribery Commission, the Bribery Commission has been taken into custorows worth Rs.
-
-According to information received by the Serand Bribery Inquiries of the Bribery Investigations in 2009 to 2022, the Bribery Investigations have to be deferred to the Colombo Chief Magistrate Thilina Gamage, with the request of the Bribery Inquiries.An order has been issued to the Commissioner General of Motor Traffic.
-
-...
-
-[Data](articles/447465aa.json)
-
-[Extended Data](ext_articles/447465aa.ext.json)
-
----
-
-### Tamil general candidate and tensions
-
-*2024-06-09 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185667) · `ta`
-
-In Tamil Nadu politics, a general candidate's success hinges on the state party's stance. If supported, opposition becomes challenging; without support, their candidacy faces significant obstacles.
-
-🟩
-
-What if the Tamil state party supports and does not support it- when the Tamil general candidate is stopped, they cannot oppose it.
-
-◼️
-
-[Data](articles/368d27f9.json)
-
-[Extended Data](ext_articles/368d27f9.ext.json)
-
----
-
-### African National Congress on the brink of South African destruction?
-
-*2024-06-09 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185650) · `ta`
-
-The African National Congress (ANC), South Africa's dominant party since 1994, faces declining support due to corruption scandals and internal divisions, potentially threatening its long-standing rule amidst the emergence of new political entities.
-
-🟩
-
-It is not a secret Cheti that the African National Congress, the largest party that has been ruling the country since 1994, continues to decline.. The party is not expected to face a setback, despite the fact that the party's punching, corruption allegations leveled against party leaders, the outbreak of the party's leading party and the formation of new parties.. It has happened, though.
-
-◼️
-
-[Data](articles/2f313a72.json)
-
-[Extended Data](ext_articles/2f313a72.ext.json)
-
----
-
-### The 13th Amendment is implemented
-
-*2024-06-09 19:03:34* · [`adalk`](https://www.ada.lk/breaking_news/13-වැනි-සංශෝධනය-ක්‍රියාත්මක-කරනවා/11-410103) · `si`
-
-Sajith Premadasa, Colombo's Opposition Leader, announced the implementation of the 13th Amendment to the Constitution, promising its activation across all provinces. He emphasized the amendment's importance in ensuring political, social, economic, religious, and cultural rights for the people. Despite criticism from various leaders, he labeled them as political opportunists, reaffirming his commitment to the amendment's full implementation.
-
-🟩
-
-The Colombo Opposition Leader Sajith Premadasa said that the 13th Amendment to the Constitution will be implemented under a solid mass force government.
-
-He was speaking at a ceremony at the Sakwala program to be held yesterday (09) under the Sakwala program to Kilinochchi.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"We implement the 13th Amendment to the Constitution. We also gave that pledge on the International Labor Day. We have made the 13th Amendment to the North today, the 13th Constitution of our country, we made that statement to the people including 9 provinces in the North, South, East, East, and East, and West. We will not be released to activate it. We provide the political, social, economic, religious and cultural rights of the people of this area.
-
-...
-
-[Data](articles/f1caccff.json)
-
-[Extended Data](ext_articles/f1caccff.ext.json)
-
----
-
-### Woman arrested for cheating businessman of Rs. 150 million
-
-*2024-06-09 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99764/woman-arrested-for-cheating-businessman-of-rs-150-million-) · `en`
-
-Police have arrested a 54-year-old woman for allegedly cheating a businessman by obtaining a sum of Rs. 150 million from him and failing to pay it back.
-
-Police have also taken into custody a luxury car, several smartphones, and two laptop cpmputers belonging to the suspect, who is a resident of Makola.
-
-The businessman has informed police that he was introduced to the woman in question through a friend at the Supreme Court premises in Colombo.
-
-Preliminary investigations have revealed that the suspect had claimed she was importing vehicles into the country and that she urgently needed the money in order to clear several imported vehicles from Customs.
-
-Accordingly, the businessman has provided her with the money, however he had later lodged a complaint with police alleging that the woman had disappeared with the money and that he was not able to meet her after that.
-
-The woman was later arrested by police based on the complaint.
-
-...
-
-[Data](articles/bde48490.json)
-
-[Extended Data](ext_articles/bde48490.ext.json)
 
 ---

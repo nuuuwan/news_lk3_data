@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 12:19:04**
+As of **2024-06-10 12:34:21**
 
 ## Newspaper Stats
 
-*Scraped **29,515** Articles*
+*Scraped **29,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,681
 dailyftlk | 1,768
-adalk | 2,518
+adalk | 2,519
 adaderanalk | 3,347
 tamilmirrorlk | 3,460
 virakesarilk | 4,519
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,512 (100.0%) of 29,515 articles have been extended.
+29,515 (100.0%) of 29,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### தரமற்ற சவர்க்கார பயன்பாடு: குழந்தைகளுக்கு சிக்கல்
+### Non -standard Savior Use: Problem for Children
 
 *2024-06-10 12:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-சவர்க்கார-பயன்பாடு-குழந்தைகளுக்கு-சிக்கல்/175-338693) · `ta`
 
-தரமற்ற சவர்க்காரங்களை பயன்படுத்துவதால் குழந்தைகளின் தோலில் பல்வேறு உபாதைகள் ஏற்பட்டுள்ளதாக தகவல் வெளியாகி உள்ளதாக அரச குடும்ப சுகாதார சேவைகள் சங்கம் தெரிவித்துள்ளது.
+Substandard detergents cause skin issues in children, linked to economic strain. Parents urged to check products; effects may take time to show.
 
-தற்போதைய பொருளாதார நிலை காரணமாக சில பெற்றோர்கள் குழந்தைகளுக்கு தரமற்ற குழந்தை சவர்க்காரத்தை பயன்படுத்துவதாகவும், அதன் விளைவு எதிர்காலத்தில் ஏற்படும் எனவும் சங்கத்தின் பொருளாளர் பிரியங்கனி சுசங்கிகா தெரிவித்தார்.
+🟩
 
-“இன்றைய நாட்களில் குழந்தைகளின் உடலில் சில அலர்ஜிகள் இருப்பதாக தெரிவிக்கப்பட்டது. இதை ஆராய்ந்தபோது தரமில்லாத குழந்தை சவர்காரத்தை பயன்படுத்துவது தெரியவந்துள்ளது.
+The State Family Health Services Association said that the use of substandard detergents has caused various problems in the skin of the children.
 
-தாய்மார்கள் தமது குழந்தைகளுக்கு சவர்க்காரத்தை பயன்படுத்தும்போது கவனமாக இருக்க வேண்டும். இதன் பாதிப்பு நீண்ட காலத்துக்கு பின்னரே வெளிப்படும்” என அவர் குறிப்பிட்டுள்ளார்.
+Treasurer of the association Priyankani Susankika said that some parents are using a substandard child deterioration due to the current economic situation.
+
+“Nowadays, there are some allergies in the body of children. Upon examining this, it was revealed that the substandard child was using the wreckage.
+
+Mothers need to be careful when they use sucking for their children. The impact will be revealed only after a long time, ”he said.
 
 ◼️
 
 [Data](articles/9d9f2329.json)
+
+[Extended Data](ext_articles/9d9f2329.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ President Wickremesinghe arrived in India on Sunday (09) to attend the swearing-
 ◼️
 
 [Data](articles/42b84444.json)
+
+[Extended Data](ext_articles/42b84444.ext.json)
 
 ---
 
@@ -83,6 +91,8 @@ He had a forged passport in his possession at the time of his arrest, with perso
 ...
 
 [Data](articles/37e7573f.json)
+
+[Extended Data](ext_articles/37e7573f.ext.json)
 
 ---
 
@@ -485,6 +495,22 @@ A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
 [Data](articles/95d4aa73.json)
 
 [Extended Data](ext_articles/95d4aa73.ext.json)
+
+---
+
+### ලොකු පැටීගේ පැටව් තිදෙනෙක් කෝටි 25ක මත්ද්‍රව්‍ය සමග අල්ලයි
+
+*2024-06-10 09:21:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටීගේ-පැටව්-තිදෙනෙක්-කෝටි-25ක-මත්ද්‍රව්‍ය-සමග-අල්ලයි/11-410111) · `si`
+
+සංවිධානාත්මක අපරාධකරුවෙකු වන ඩුබායි රාජ්‍යයේ සැඟව සිටින අහුන්ගල්ලේ ලොකු පැටි නැමැත්තාගේ ගෝලයින් තිදෙනෙකු  රුපියල් කෝටි 25කට අධික වටිනා මත්කුඩු තොගයක් සහ ගිනි අවි දෙකක් සමග කැස්බෑව ප්‍රදේශයේ සුපිරි නිවසක් තුළදී අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+එම සැකකරුවන් සමග හොරයින් මත්කුඩු කිලෝ දොළහකට අධික ප්‍රමාණයක්  පිස්තෝල ගිනි අවි දෙකක් ,ජංගම දුරකථන පහක්  විද්‍යුත්තරාදියක් ,මෝටර්  රථ දෙකක් පොලිස් භාරයට ගෙන ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකා විශේෂ මෙහෙයුම් තුන කණ්ඩායමට ලද රහසිගත තොරතුරකට  අනුව මෙම වැටලීම සිදුකර ඇත.මෙම සැකකරුවන් මීට දින තුනකට පමණ ඉහතදී මෙම නිවසට පැමිණ ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/1b88dcce.json)
 
 ---
 
@@ -2183,27 +2209,5 @@ This is the first time the BJP under Modi has needed support from its regional a
 [Data](articles/0213df75.json)
 
 [Extended Data](ext_articles/0213df75.ext.json)
-
----
-
-### Modi sworn in for record third term as India’s prime minister
-
-*2024-06-09 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99766/modi-sworn-in-for-record-third-term-as-indias-prime-minister) · `en`
-
-(AP) — Narendra Modi was sworn in Sunday for a rare third consecutive term as India’s prime minister, relying on his coalition partners after his party failed to win a parliamentary majority in a surprise outcome.
-
-Modi and his Cabinet ministers took the oath of office, administered by President Droupadi Murmu, at India’s presidential palace Rashtrapati Bhavan in New Delhi.
-
-The 73-year-old popular but polarizing leader is only the second Indian prime minister after Jawaharlal Nehru to retain power for a third five-year term.
-
-His Hindu nationalist Bharatiya Janata Party, which won by landslides in 2014 and 2019, failed to secure a majority to govern on its own in the latest national election. However, Modi’s National Democratic Alliance coalition won enough seats to form a government, with him at the helm.
-
-This is the first time the BJP under Modi has needed support from its regional allies to form a government after a decade of commanding the majority in Parliament.
-
-...
-
-[Data](articles/636c206d.json)
-
-[Extended Data](ext_articles/636c206d.ext.json)
 
 ---

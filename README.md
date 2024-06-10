@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 23:34:35**
+As of **2024-06-10 23:54:02**
 
 ## Newspaper Stats
 
-*Scraped **29,639** Articles*
+*Scraped **29,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ dbsjeyarajcom | 278
 bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,601
-economynextcom | 1,687
+economynextcom | 1,697
 dailyftlk | 1,768
 adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
 virakesarilk | 4,551
 dailymirrorlk | 4,700
-adaderanasinhalalk | 4,772
+adaderanasinhalalk | 4,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,637 (100.0%) of 29,639 articles have been extended.
+29,639 (100.0%) of 29,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### දකුණු අප්‍රිකාවට තියුණු ජයක්
+
+*2024-06-10 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197618) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දකුණු අප්‍රිකානු කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර අද (10) පැවැති තරගය ලකුණු 4කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+
+එම තරගයේ කාසියේ වාසිය දිනු දකුණු අප්‍රිකානු කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 113ක් රැස්කළේය.
+
+එහිදී  දකුණු අප්‍රිකානු කණ්ඩායම වෙනුවෙන් Heinrich Klaasen  ලකුණු 46ක් රැස්කළ අතර David Miller  ලකුණු 29ක් රැස් කළේය.
+
+ඒ අනුව ලකුණු 113ක ඉලක්කයක් හඹාගිය බංග්ලාදේශයට නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 7දැවී රැස්කරගත හැකි වුයේ ලකුණු 109ක් පමණි.
+
+◼️
+
+[Data](articles/0bcb15fd.json)
+
+---
 
 ### Non-communicable diseases cause nearly 90% of deaths in Sri Lanka
 
@@ -49,6 +69,8 @@ To combat this, the Japan International Cooperation Agency (JICA) is investing R
 ◼️
 
 [Data](articles/c7d403f2.json)
+
+[Extended Data](ext_articles/c7d403f2.ext.json)
 
 ---
 
@@ -69,6 +91,8 @@ Mr Ashok also talked about an instance that goes back to 2014, when “autopilot
 ...
 
 [Data](articles/1139eb1c.json)
+
+[Extended Data](ext_articles/1139eb1c.ext.json)
 
 ---
 
@@ -229,6 +253,22 @@ Party leader Mawai Senadirasa, MP MA Sumanthiran and party senior leader Sivakay
 [Data](articles/9ee57539.json)
 
 [Extended Data](ext_articles/9ee57539.ext.json)
+
+---
+
+### Any future Sri Lankan government will have to comply with IMF deal: Cabinet Spokesman
+
+*2024-06-10 20:44:00* · [`economynextcom`](https://economynext.com/any-future-sri-lankan-government-will-have-to-comply-with-imf-deal-cabinet-spokesman-167290/) · `en`
+
+ECONOMYNEXT – No future Sri Lankan government will have room to maneuver with the International Monetary Fund deal at least until 2028 as it will be the key for the island nation to come out of the ongoing unprecedented economic crisis and seek commercial borrowing from international capital markets, Cabinet Spokesman Bandula Gunawardena said.
+
+His comments come as some of the opposition political leaders have publicly expressed their willingness to amend the IMF deal, citing it has burdened the public amid Economic Transformation Bill tabled in the island nation’s parliament is expected to ensure sustainability of international agreements.
+
+“In drafting the budget for the upcoming year 2025, irrespective of the government ruling, it is imperative to address the loan agreements established with the International Monetary Fund (IMF) until 2028,” Gunawardena told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/dc933017.json)
 
 ---
 
@@ -399,6 +439,26 @@ It is noteworthy that about 34,000 people are currently working on the pre -scho
 [Data](articles/94e23ec4.json)
 
 [Extended Data](ext_articles/94e23ec4.ext.json)
+
+---
+
+### SriLankan drops pepper & salt from economic class dish, makes on demand after survey
+
+*2024-06-10 19:37:00* · [`economynextcom`](https://economynext.com/srilankan-drops-pepper-salt-from-economic-class-dish-makes-on-demand-after-survey-167286/) · `en`
+
+ECONOMYNEXT – State-owned SriLankan Airlines has dropped pepper and salt packs from its food dishes served for economy class passengers since late last year and made it on demand, witnesses and officials say.
+
+However, the airline has been continuing the supply of the both products to the business class, they say.
+
+Known as the “king” of spices, the island nation’s black pepper has higher piperine content which gives it a superior quality and pungency, compared to the spice produced in other countries.
+
+Earlier, SriLankan Airlines served pepper and salt in small packs branded with the carrier’s logo. However, the airline has decided to drop the salt and pepper from its dishes given only to economy class passengers.
+
+“According to an internal survey, we found that the majority of the passengers travelling on economy class do not use the pepper and salt,” a SriLankan Airlines’ source told EconomyNext when asked for the reason to drop one of the top most export spice.
+
+...
+
+[Data](articles/783d1eb6.json)
 
 ---
 
@@ -660,6 +720,30 @@ Speaking further (Minister) stated that the A / L stream is continuously to be c
 
 ---
 
+### Sri Lanka’s Vidullanka, SEL Tech to develop 4.9mw solar power plant in Hambantota
+
+*2024-06-10 18:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-sel-tech-to-develop-4-9mw-solar-power-plant-in-hambantota-167273/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Vidullanka Plc said it had entered into an agreement with a consortium of promotors led by SEL Tech International (Pvt) Limited on to jointly develop the 4.9 MW Beliatha solar power plant in Hambantota.
+
+The agreement was signed on May 31, the company said in a stock exchange filing.
+
+“Vidullanka PLC will own 50.l% of the project company, Beliatha Solar Project (Pvt) Ltd.”
+
+The project is expected to cost approximately one billion rupees.
+
+Further details will be announced after the commissioning of the project, the company said.
+
+Vidullanka voting shares closed flat at 9.30, non-voting shares closed down at 7.30.
+
+Vidullanka, a leading renewable energy provider in Sri Lanka has seen its outlook improve following the government’s decision to market price electricity and a commitment to grow the share of renewables in the grid to 70%. (Colombo/Jun10/2024)
+
+◼️
+
+[Data](articles/dd9f50be.json)
+
+---
+
 ### Case if there are evidence against Hirunika
 
 *2024-06-10 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහිව-සාක්ෂි-තියෙනවානම්-නඩු-දාන්න/11-410124) · `si`
@@ -683,6 +767,48 @@ The evidence of the OIC of the Cinnamonuwaththa Police OIC on November 14, 2022,
 [Data](articles/b83bac8a.json)
 
 [Extended Data](ext_articles/b83bac8a.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 303.20/50 to US dollar
+
+*2024-06-10 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-20-50-to-us-dollar-167257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee weakened to close at 303.20/50 to the US dollar on Monday, from 302.70/80 to the dollar the previous week, dealers said. Bond yields were broadly stable.
+
+A bond maturing on 15.12.2026 closed at 9.95/10.10 percent, up from 9.95/10.05 percent.
+
+A bond maturing on 15.09.2027 closed at 10.45/65 percent, up from 10.45/55 percent.
+
+A bond maturing on 01.07.2028 closed at 10.95/11.10 percent, down from 11.00/10 percent.
+
+A bond maturing on 15.05.2030 closed at 11.70/85 percent, down from 11.75/90 percent.
+
+A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun10/2024)
+
+◼️
+
+[Data](articles/2c68d500.json)
+
+---
+
+### Sri Lanka to send 6,000 workers to Japan
+
+*2024-06-10 17:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-send-6000-workers-to-japan-167261/) · `en`
+
+ECONOMYNEXT – Sri Lanka will send around 6,000 workers to Japan over the course of the year, a Ministry of Labor official has said.
+
+“We are sending caregivers, construction workers, and workers in the agriculture sector to Japan,” Minister of Labour and Foreign Employment Manusha Nanayakkara’s spokesman, Sanjaya Nallaperuma told EconomyNext.
+
+“So far we have sent 3,223 workers to Japan, in 2023 we sent 5,647 workers, and in 2022 we sent 4,518 workers,” Nallaperuma said. “We will send around 6,000 workers this year.”
+
+“The salary for skilled workers in Japan is high,” Nallaperuma said. “A skilled worker will get an estimated 5 lakhs in Sri Lankan rupees.”
+
+Sri Lanka has been focusing on sending skilled migrant workers following Nanayakkara’s announcement that the country will phase out sending ‘housemaids’, who are considers unskilled and earn less.
+
+...
+
+[Data](articles/b2da189a.json)
 
 ---
 
@@ -884,6 +1010,28 @@ At the end of the age of forty -five, she and a woman named Hindu. Their marriag
 
 ---
 
+### Sri Lanka stocks close up ahead of IMF review
+
+*2024-06-10 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ahead-of-imf-review-167254/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.54 percent, or 67.11 points, at 12,381; while the more liquid S&P SL20 Index closed up 0.76 percent, or 27.64 points, at 3,683.
+
+Turnover was 1.6 billion. A large part of this came from capital goods stocks (Rs734mn).
+
+The market picked up from the bell, ahead of several key developments anticipated this week; the commencement of the International Monetary Fund second review, first quarter GDP figures to be released, and the last day for Expolanka delist offer.
+
+“There was some positivity coming into the market, mostly due to speculation that the the IMF news would be positive,” market participants said. “But things slowed down in the latter part of the day.”
+
+Retail participation was still slow, they said, even as high net worth and corporate customers came in.
+
+...
+
+[Data](articles/3d1c5e0a.json)
+
+---
+
 ### Govt to remove unauthorized constructions in Colombo and suburbs to tackle flooding
 
 *2024-06-10 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99789/govt-to-remove-unauthorized-constructions-in-colombo-and-suburbs-to-tackle-flooding-) · `en`
@@ -943,6 +1091,22 @@ Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Cha
 [Data](articles/2cb12565.json)
 
 [Extended Data](ext_articles/2cb12565.ext.json)
+
+---
+
+### Half of Sajith’s people will join RW after poll date announcement: UNP spox
+
+*2024-06-10 16:58:00* · [`economynextcom`](https://economynext.com/half-of-sajiths-people-will-join-rw-after-poll-date-announcement-unp-spox-167248/) · `en`
+
+ECONOMYNEXT — Half of those now supporting opposition leader Sajith Premadasa will become part of a future alliance to be led by President Ranil Wickremesinghe no sooner the presidential election is announced, a United National Party (UNP) senior said.
+
+Former minister P Harrison speaking at a UNP event in Anuradhapura on Sunday June 09 claimed that several parties in both the government and the opposition have pledged their support for Wickremesinghe.
+
+“A group from the Sri Lanka Podujana Peramuna (SLPP) are saying they’re ready to support President Wickremesinghe. Duminda Dissanayake and company from the Sri Lanka Freedom Party (SLFP) are saying publicly that a majority of their party are ready to assist him. People in the north and east, Mr C Vigneswaran says public that their full support is for the president, as does Mr Jeevan Thondaman and co from the estate sector,” said Harrison.
+
+...
+
+[Data](articles/f43d59a7.json)
 
 ---
 
@@ -1144,6 +1308,26 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 
 ---
 
+### AKD pledges to dissolve Sri Lanka parliament immediately upon election as president
+
+*2024-06-10 16:30:00* · [`economynextcom`](https://economynext.com/akd-pledges-to-dissolve-sri-lanka-parliament-immediately-upon-election-as-president-167221/) · `en`
+
+ECONOMYNEXT — National People’s Power (NPP) leader Anura Kumara Dissanayake will dissolve parliament the same night his victory is announced at Sri Lanka’s upcoming presidential election, Dissanayake said.
+
+At a party event in Hambantota on Sunday June 09, Dissanayake said the NPP will win the parliamentary elections that will be held immediately after the presidential election.
+
+The next parliament will have 120 to 130 MPs from the NPP, he added.
+
+“We may be laughing and clapping, but what we’re doing is Sri Lanka’s biggest political transformation that will see power exchanged between the common people. The NPP is today opening up the road for talented, skilled youth in the villages to move forward in politics.
+
+Dissanayake said though that the current parliament will not continue even for a day after he is elected at the presidential poll.
+
+...
+
+[Data](articles/f856503c.json)
+
+---
+
 ### Selfie with Minister
 
 *2024-06-10 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Selfie-with-Minister/110-284519) · `en`
@@ -1175,6 +1359,26 @@ The opposition centre-left Democratic Party came in second with 24% of the vote,
 [Data](articles/a0d32d38.json)
 
 [Extended Data](ext_articles/a0d32d38.ext.json)
+
+---
+
+### Sri Lanka, Bangladesh discuss FTA, agriculture modernization, ferry and private investment
+
+*2024-06-10 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-bangladesh-discuss-fta-agriculture-modernization-ferry-and-private-investment-167237/) · `en`
+
+ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina and Sri Lanka President Ranil Wickremesinghe have discussed a free trade agreement, a ferry service, an agricultural modernization program, and encouraging private investment opportunities.
+
+Wickremesinghe and Hasina held bilateral discussions this morning (10) while in New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi.
+
+Hasina assured her country’s commitment to assist Sri Lanka to modernise its agriculture, according to a statement by the president’s media division.
+
+Wickremesinghe said he would dispatch a delegation of Sri Lankan agricultural experts to Bangladesh to study Bangladesh’s agricultural modernization program through cooperative methods.
+
+The two leaders also discussed signing a free trade agreement between Bangladesh and Sri Lanka.
+
+...
+
+[Data](articles/c33b6b69.json)
 
 ---
 
@@ -1387,6 +1591,30 @@ Police said she had died by falling on a bridge.
 [Data](articles/2f1264f3.json)
 
 [Extended Data](ext_articles/2f1264f3.ext.json)
+
+---
+
+### Divesting SOEs can generate greater profits through taxation: Sri Lanka restructuring unit
+
+*2024-06-10 15:43:00* · [`economynextcom`](https://economynext.com/divesting-soes-can-generate-greater-profits-through-taxation-sri-lanka-restructuring-unit-167222/) · `en`
+
+ECONOMYNEXT – Some profitable state-owned enterprises are being divested because the government can generate far greater profits through taxation, Sri Lanka’s SOE restructuring unit has said.
+
+“Taxes yield greater benefit to the public with far less financial cost and resources, burdening the country,” SOERU, established under the Ministry of Finance, said on its social media page X (twitter).
+
+“The result is a healthier stronger economy and better governance.”
+
+Sri Lanka has a total of 527 State-Owned Enterprises (SOEs), according to its public finance department.
+
+These have been used by politicians to give ‘jobs for the boys’, appropriate vehicles for personal use, fill boards of directors and key positions with henchmen and relatives, according to critics.
+
+There have also been high profile procurement scandals connected to SOEs.
+
+Last week, Sri Lanka passed a new Electricity Act which will enable the state-owned power utility, Ceylon Electricity Board, to be restructured.
+
+...
+
+[Data](articles/0347a0d8.json)
 
 ---
 
@@ -2061,261 +2289,5 @@ The officer in charge of the Madatugama Police Station has taken steps to hand o
 [Data](articles/f74a05ad.json)
 
 [Extended Data](ext_articles/f74a05ad.ext.json)
-
----
-
-### 70 locomotive engineers promoted, others still to complete requirements – Railway Dept.
-
-*2024-06-10 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99781/70-locomotive-engineers-promoted-others-still-to-complete-requirements-railway-dept) · `en`
-
-The Additional General Manager (Administration) of the Department of Railways Mrs. Kusalani de Silva states that the ongoing strike by railway locomotive engineers is intended solely to inconvenience the government, the Railways Department and the general public, despite all possible solutions having been provided to address their issues.
-
-Joining a press conference held this morning (10), Mrs. Kusalani de Silva highlighted that the Department of Railways had issued 57 promotion letters to the railway locomotive engineers by Thursday (June 06), which is more than 50% of the relevant employees.
-
-“Since they launched the strike at midnight on June 6, we spoke to the Powertrain Sub-Department on the morning of June 7…. The Powertrain Sub-Department of the Department of Railways is responsible for the preliminary activities of the employees in question”, she said.
-
-...
-
-[Data](articles/314c20af.json)
-
-[Extended Data](ext_articles/314c20af.ext.json)
-
----
-
-### Railway strike for passengers
-
-*2024-06-10 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197598) · `si`
-
-A strike by train drivers from the Lokomotive Opposition Association's Railway Engineers Association began today, leading to the cancellation of 20 trains and causing significant delays and congestion at railway stations.
-
-🟩
-
-The strike commenced by a group of train drivers will continue today (10th) and 20 off office trains have been canceled this morning.
-
-The strike commenced the strike by a group of Lokomotive Opposition Association's Railway Engineers Association.
-
-There is also a desolate nature of railway stations.
-
-Several trains played in the middle of the strike was seen in vigorous congestion.
-
-◼️
-
-[Data](articles/6d15f6aa.json)
-
-[Extended Data](ext_articles/6d15f6aa.ext.json)
-
----
-
-### Court orders for the petition demanding arrest
-
-*2024-06-10 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197597) · `si`
-
-The Supreme Court ordered the arrest of Pastood Jerome Fernando, as per a petition presented by religious leaders. The case was heard by a three-judge bench, including Mrs. Murdhavani Wickremasinghe and Janaka De Silva. The Attorney General's Deputy Solicitor, Dili-Peiris, confirmed that all investigations were conducted as per court orders.
-
-🟩
-
-Pastood Jerome Fernando, who is said to be charged and the IGP was arrested by the IGP and the IGP, to issue an order to the IGP and the IGP.The Supreme Court ordered to be called.
-
-The petition was called before the three-member Supreme Court Bench comprised of Mrs. Murdhavani Wickremasinghe and Janaka De Silva today.
-
-President's Counsel Sanjeewa Jayawardena appearing on behalf of the petitugoda said that three of the all religious leaders who presented the petition were ready to withdraw the petition.
-
-Deputy Solicitor General Dili-Peiris appearing on behalf of the Attorney General said that all investigations were filed in court on the orders carried out by the court before the court.
-
-The three-judge panel of judges had previously considered the petition before the Chief Justice before the Chief Justice has been concluded to be called before a panel of judges.
-
-◼️
-
-[Data](articles/fea8deee.json)
-
-[Extended Data](ext_articles/fea8deee.ext.json)
-
----
-
-### Is it time to back Wanindu Hasaranga?
-
-*2024-06-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-it-time-to-back-Wanindu-Hasaranga/108-284504) · `en`
-
-June 10 (Daily Mirror) - Having lost their first two games of the ongoing T20 World Cup in United States of America & West Indies, Sri Lanka are on the brink of another humiliating exit from the most high-profile event of the year.
-
-Following a dreadful batting display against South Africa on the opening game, Sri Lanka looked to be in control against Bangladesh batting first when opener Pathum Nissanka was smashing the bowlers all over the park, but unfortunately after his dismissal Sri Lanka had another shocking batting collapse only making 124 at the end of their 20 overs.
-
-In both the games, Sri Lanka bowlers were able to keep the team in the game until the last moment despite defensive depressingly low scores. However, with both the games ending in defeat, the question marks have been raised over the appointment of Wanindu Hasaranga as captain.
-
-...
-
-[Data](articles/48bfe70f.json)
-
-[Extended Data](ext_articles/48bfe70f.ext.json)
-
----
-
-### Is it time to back Wanindu Hasaranga?
-
-*2024-06-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Is-it-time-to-back-Wanindu-Hasaranga/155-284504) · `en`
-
-June 10 (Daily Mirror) - Having lost their first two games of the ongoing T20 World Cup in United States of America & West Indies, Sri Lanka are on the brink of another humiliating exit from the most high-profile event of the year.
-
-Following a dreadful batting display against South Africa on the opening game, Sri Lanka looked to be in control against Bangladesh batting first when opener Pathum Nissanka was smashing the bowlers all over the park, but unfortunately after his dismissal Sri Lanka had another shocking batting collapse only making 124 at the end of their 20 overs.
-
-In both the games, Sri Lanka bowlers were able to keep the team in the game until the last moment despite defensive depressingly low scores. However, with both the games ending in defeat, the question marks have been raised over the appointment of Wanindu Hasaranga as captain.
-
-...
-
-[Data](articles/cfaf9ed8.json)
-
-[Extended Data](ext_articles/cfaf9ed8.ext.json)
-
----
-
-### Sumanthiran should act in full swing against Tamil general candidate - Sumanthiran!
-
-*2024-06-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185728) · `ta`
-
-MP MA Sumanthiran urged action against the Tamil general candidate, emphasizing the importance of political leadership and the responsibility to protect the rights of the Tamil people. He highlighted the need for unity and advised against labeling opponents as traitors, focusing instead on ensuring the well-being of the community through political engagement.
-
-🟩
-
-Parliamentarian MP MA Sumanthiran has said that we should go down with a full breath against the Tamil general candidate.
-
-He said this while addressing the People's Forum in Jaffna yesterday (09).
-
-There is no longer need to establish that Samasti -based power sharing is required. We have established 70 years ago. There is no need to install it repeatedly.
-
-The general candidate is a poisonous exam than a poisonous exam. This is an event that is not the existence of the Tamil people. We should not go to the political leaders of the Tamil people.
-
-Political leaders and political parties. Civil community can only offer advice. We welcome their advice.
-
-Election is a political event. People did not choose the civil society to lead people in that politics. People have ordered us. We are the ones who can lead people politically. We cannot leave our responsibility and dismantle people.
-
-It is our responsibility to keep the people awake if we stand on the single side that we will stop beyond all this.
-
-...
-
-[Data](articles/55d2f691.json)
-
-[Extended Data](ext_articles/55d2f691.ext.json)
-
----
-
-### Presidential election will be held: Tissa Attanayake says we should be ready
-
-*2024-06-10 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185732) · `ta`
-
-Tissa Attanayake, a United People's Power Organizer and MP, announced his intention to participate in the upcoming presidential election, aiming to expand his voter base significantly. He highlighted the importance of preparation for a strict election process and emphasized the need for discussions on national issues like economic crises and employment.
-
-🟩
-
-United People's Power Organizer and Member of Parliament Tissa Attanayake has said that he plans to join the presidential election.
-
-He said Sajith Premadasa received 55 lakh votes in the last presidential election and that it would be aimed at building a voter base of 75 lakhs who did not vote for him.
-
-Tissa Attanayake MP at the meeting held at the Madawala Sansin Hall on Friday, headed by Tilina Bandara Tennakoon, the organizer of the Patathumbarai constituency. The above said.
-
-Twenty million new members are not a big challenge. 12000 polling stations operate in the presidential election. If you increase 160 votes from one center, you can achieve the goal.
-
-The more presidential election will be held strictly. So we must be prepared for it.
-
-Many people ask why Sajith did not go to the independent television show. We are not asking for a debate on independent television.
-
-...
-
-[Data](articles/a990bc29.json)
-
-[Extended Data](ext_articles/a990bc29.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-10 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185735) · `ta`
-
-The US dollar's selling price is Rs 297.9364, while its buying price is Rs 307.5273 as per the Central Bank on June 10.
-
-🟩
-
-The US dollar sales price was Rs 297.9364 and the purchase price was Rs 307.5273, according to the Central Bank today (June 10).
-
-◼️
-
-[Data](articles/33ea47d5.json)
-
-[Extended Data](ext_articles/33ea47d5.ext.json)
-
----
-
-### Godakawela and Weligepola declared as new Mahaweli Divisions
-
-*2024-06-10 12:39:12* · [`adalk`](https://www.ada.lk/breaking_news/ගොඩකවෙල-හා-වැලිගෙපොල-නව-මහවැලි-කොට්ඨාස-ලෙස-ප්‍රකාශ-කරයි/11-410117) · `si`
-
-Sri Lanka's Minister of Irrigation, Wildlife, and Forests announced the creation of two new Mahaweli Divisions: Godakawela and Weligepola. These divisions encompass 37 and 2 Grama Niladhari Divisions respectively, aiming to boost economic, social, and cultural development through accelerated projects. This move follows the precedent set by combining 47 Grama Niladhari Divisions in the Ratnapura District into a new Mahaweli Division.
-
-🟩
-
-Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi says that there were two new Mahaweli Divisions in Godakawela and Weligepola.
-
-Accordingly, 37 Grama Niladhari Divisions in the Godakawela Divisional Secretariat Division, two Grama Niladhari Divisions in the Weligepola Divisional Secretariat Division, two Grama Niladhari Divisions in the Weligekapola Divisional Secretariat Division and two Grama Niladhari Divisions and Kaltota Divisional Secretariat Division.One of the Grama Niladhari Divisions by the Mahaweli Authority of the Mahaweli Authority of the Mahaweli Authority is due to be developed as the new Mahaweli Authority of the Mahaweli Authority of Godakawela.
-
-Under the Mahaweli Authority Act of Sri Lanka, the Mahaweli Special area has been announced by No. 137 of 1981 under the Gazette No. 137 of 1981.
-
-However, some areas of the Mahaweli in the Mahaweli have not taken measures to develop.
-
-...
-
-[Data](articles/9af07419.json)
-
-[Extended Data](ext_articles/9af07419.ext.json)
-
----
-
-### Wine at home: A friend's wife arrested
-
-*2024-06-10 12:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/வீட்டில்-மதுவிருந்து-நண்பனின்-மனைவியை-வன்புணர்ந்தவர்-கைது/93-338695) · `ta`
-
-In Moneragala, a 20-year-old woman was raped by a friend of her husband. The incident occurred when the husband and his friends went out drinking, leaving the victim alone in their shared house. After the attack, the suspect threatened to kill if the incident was revealed. The victim informed her husband, who took her to the police. Authorities arrested a 32-year-old suspect from Nagala Bibila.
-
-🟩
-
-A 20 -year -old married woman has been raped by a husband's friend, in Moneragala.
-
-The woman who lives in the Telagola area of ​​Bidakumbura, which belongs to the Karadugala Police Division, has been harassed on the 07th.
-
-The abused woman, her husband, husband's brother and husband's mother live in the same house.
-
-Her husband's mother was sleeping in a nearby house and his wife was sleeping due to illness.
-
-The husband then had a house with her brother and three friends.
-
-Wine -drinkers left home for a while. Husband left with them. Only one of the friends stood at home. By then, the woman had come to the room where she was sleeping.
-
-However, the suspect, who had returned home on the 9th of last month, threatened to kill someone if he told anyone about the incident.
-
-However, after telling her husband about the incident she had happened, the two had gone to the Karadugalai police last (09).
-
-...
-
-[Data](articles/22ccfb6c.json)
-
-[Extended Data](ext_articles/22ccfb6c.ext.json)
-
----
-
-### Fitch rates Sri Lanka’s Commercial Bank 20bn debenture issue ‘BBB+(lka)’
-
-*2024-06-10 12:36:00* · [`economynextcom`](https://economynext.com/fitch-rates-sri-lankas-commercial-bank-20bn-debenture-issue-bbblka-167173/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has assigned Commercial Bank’s proposed debentures of up to 20 billion rupees a national long-term rating of ‘BBB+(lka)’, a rating two notches below the bank’s National Long-Term Rating anchor.
-
-“This reflects Fitch’s baseline notching for loss severity for this type of debt and expectation of poor recoveries. There is no additional notching for non-performance risk, as the notes do not incorporate going-concern loss absorption features,” Fitch said.
-
-Fitch Assigns Commercial Bank of Ceylon’s Basel III Subordinated Debt Final ‘BBB+(lka)’
-
-Fitch Ratings – Colombo – 10 Jun 2024: Fitch Ratings has assigned Commercial Bank of Ceylon PLC’s (COMB, A(lka)/Stable) proposed Sri Lankan rupee-denominated Basel IIIcompliant subordinated debentures of up to LKR20 billion a final National Long-Term Rating of ‘BBB+(lka)’.
-
-...
-
-[Data](articles/f9800215.json)
-
-[Extended Data](ext_articles/f9800215.ext.json)
 
 ---

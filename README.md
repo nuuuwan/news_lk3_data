@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 08:02:18**
+As of **2024-06-10 08:15:19**
 
 ## Newspaper Stats
 
-*Scraped **29,470** Articles*
+*Scraped **29,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 3,337
 tamilmirrorlk | 3,451
 virakesarilk | 4,519
 dailymirrorlk | 4,672
-adaderanasinhalalk | 4,740
+adaderanasinhalalk | 4,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,467 (100.0%) of 29,470 articles have been extended.
+29,470 (100.0%) of 29,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### බිත්තියක් කඩා වැටී බිළිඳෙක් මරුට
+
+*2024-06-10 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197586) · `si`
+
+ඕමන්ත පුදියවේලර් සින්නකුලම් ප්‍රදේශයේ නිවසක සාලයේ බැඳ තිබූ බිත්ති බැම්මක කොටසක් කඩා වැටීමෙන් බිළිදෙකු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/98984ecf.json)
+
+---
+
+### දකුණේ තවත් වෙඩිතැබීමක් ?
+
+*2024-06-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197584) · `si`
+
+හුංගම තිස්ස පාර, රන්න ප්‍රදේශයේ ගොඩනැගිලි ද්‍රව්‍ය වෙළෙඳසැලක හිමිකරුවෙකු වෙඩි වැදීමකින් මියගොස් තිබේ.
+
+ඊයේ (09) රාත්‍රියේ මෙම වෙඩි තැබීම සිදුව ඇති බව පොලීසිය පවසයි.
+
+වෙඩි වැදීමෙන් මියගොස් ඇත්තේ 51 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචිව සිටි ව්‍යාපාරිකයෙකි.
+
+මෙම පුද්ගලයා ව්‍යාපාරයක් වශයෙන් හාඩ්වෙයාර් වෙ‍ළෙඳසැලක් පවත්වාගෙන ගොස් ඇති අතර ඊයේ රාත්‍රියේ ඔහු පළමු මහ‍ලේ සිට බිම් මහලට බැස ඇති අවස්ථාවේ වෙඩි වැදීම සිදුව ඇති බව සඳහන්ය.
+
+පොලීසිය පැවසුවේ, මෙම වෙඩි වැදීම මනුෂ්‍ය ඝාතනයක් ද නැතහොත් සියදිවි නසා ගැනීමක් ද යන්න සම්බන්ධයෙන් මෙ‍‍‍තෙක් කරුණු අනාවරණය වී නොමැති බවය.
+
+◼️
+
+[Data](articles/44310319.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -50,6 +82,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/40c06239.json)
 
+[Extended Data](ext_articles/40c06239.ext.json)
+
 ---
 
 ### President Ranil attends Modi’s swearing-in ceremony
@@ -65,6 +99,30 @@ President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Ai
 ...
 
 [Data](articles/7d738589.json)
+
+[Extended Data](ext_articles/7d738589.ext.json)
+
+---
+
+### දුම්රිය වර්ජනය තවදුරටත් - කාර්යාල දුම්රිය 20ක් අවලංගුයි
+
+*2024-06-10 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197582) · `si`
+
+දුම්රිය රියදුරන් පිරිසක් විසින් ආරම්භ කර ඇති වැඩවර්ජනය සිව් වන දිනටත් අද (10) ක්‍රියාත්මක වන බව ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසයි.
+
+දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවා ගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල්කර ගනිමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගය පසුගිය 06 වනදා මධ්‍යම රාත්‍රී 12 සිට ආරම්භ කළේය.
+
+දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක රියදුරන් පමණක් මෙම වර්ජනයට එක්ව සිටින අතර මේ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බව සඳහන්ය.
+
+කෙසේවෙතත් "අද දෙරණ" කළ විමසීමක දී ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේ, ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමය ඇතුළු වෘත්තීය සමිති 05කට සිය ගැටලු ඉදිරිපත් කිරීම සඳහා අද දිනයේ දී සාකච්ඡාවක් ලබා දී ඇති බවය.
+
+ඒ අනුව අද දහවල් 12ට ප්‍රවාහන අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් මහාමාර්ග අමාත්‍යංශයේ දී මෙම සාකච්ඡාව පැවැත්වෙනු ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් එවැනි සාකච්ඡාවක් පැවැත්වෙන බවට මේ වන තෙක් තමන් නොදන්නා බව "අද දෙරණ" කළ විමසීමක දී ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ ලේකම් එස්.ආර්.සී.එම් සේනානායක මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/06d0dea5.json)
 
 ---
 
@@ -654,15 +712,21 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
-### போதைமாத்திரைகளுடன் நால்வர் கைது
+### Four arrested with drugs
 
 *2024-06-10 00:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைமாத்திரைகளுடன்-நால்வர்-கைது/175-338671) · `ta`
 
-ஆனைக்கோட்டையைச் சேர்ந்த நால்வரே யாழ் மாவட்ட விசேட குற்றதடுப்பு பிரிவினர் நேற்று மாலை கைது செய்யப்பட்டனர்.
+Four members of the Jaffna District Special Crime Branch were arrested last night on drug-related charges.
+
+🟩
+
+Four of the Jaffna District Special Crime Branch were arrested yesterday evening.
 
 ◼️
 
 [Data](articles/d9899189.json)
+
+[Extended Data](ext_articles/d9899189.ext.json)
 
 ---
 
@@ -2157,67 +2221,5 @@ Police say that the suspect who brought the woman into the massage room was mole
 [Data](articles/6b07b718.json)
 
 [Extended Data](ext_articles/6b07b718.ext.json)
-
----
-
-### Welcome to the president
-
-*2024-06-09 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-338647) · `ta`
-
-President Ranil Wickremesinghe attended Narendra Modi's swearing-in ceremony in New Delhi, where he was warmly received.
-
-🟩
-
-President Ranil Wickremesinghe has visited New Delhi to attend Narendra Modi's swearing -in. He has been welcomed there.
-
-◼️
-
-[Data](articles/59e0612e.json)
-
-[Extended Data](ext_articles/59e0612e.ext.json)
-
----
-
-### Central Environmental Authority Ten major railway stations were selected from the Green Railway War Stations
-
-*2024-06-09 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-පරිසර-අධිකාරිය-හරිත-දුම්රියපොල-තේරිමේ-තරගයෙන්-ප්‍රධාන-දුම්රිය-ස්ථාන-දහයක්-තොරාගනි/11-410097) · `si`
-
-The Central Environmental Authority (CEA), established in 2022, launched a program with the International Environmental Authority to select ten major railway stations for environmental improvement. These stations, including Hatunagalla and Homagama Hospital Roads, were chosen for their potential to enhance green spaces. Awards and certificates were presented to the winners by the Presidential State Minister at the Presidential Secretariat.
-
-🟩
-
-The Central Environmental Authority (CEA) has selected eight main railway stations and two main railway stations, with eight main railway stations and two major railway stations, with two main railway stations and two major railway stations.
-
-The program was launched by the CEA, which was established in 2022 with the International Environmental Authority. The program was organized by the Environmental Education and Awareness Division of the CEA.
-
-Over the Best Green main railway stations in the Best Green main railway stations, Railway Station, Hatunagalla and Homagama Hospital Roads have been selected as subway sites.
-
-The winners of this program have been awarded the prizes and certificates of the Presidential State Minister Janakapura at the Presidential Secretariat on the victories of the program.
-
-◼️
-
-[Data](articles/ace14f45.json)
-
-[Extended Data](ext_articles/ace14f45.ext.json)
-
----
-
-### No budget proposals for 2025, only interim standard account
-
-*2024-06-09 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-budget-proposals-for-2025-only-interim-standard-account/108-284425) · `en`
-
-Colombo, June 9 (Daily Mirror) - Finance State Minister Ranjith Siyambalapitiya said today that he will not present a budget proposal for 2025 and that only an interim standard account will be presented instead.
-
-The Minister said that this is a year when a major election is to be held and that interim standard accounts have been passed before in this manner during such instances.
-
-He said this while speaking to the media in the Ruwanwella area this morning.
-
-According to the budget proposals adopted for 2024, parliamentary approval has been received to carry out revenue expenditure only up to the 31 December 2024, and accordingly, approval should be obtained from a separate budget document for 2025.
-
-◼️
-
-[Data](articles/0468670e.json)
-
-[Extended Data](ext_articles/0468670e.ext.json)
 
 ---

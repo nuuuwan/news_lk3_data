@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 12:07:47**
+As of **2024-06-10 12:19:04**
 
 ## Newspaper Stats
 
-*Scraped **29,512** Articles*
+*Scraped **29,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,600
 economynextcom | 1,681
 dailyftlk | 1,768
 adalk | 2,518
-adaderanalk | 3,345
-tamilmirrorlk | 3,459
+adaderanalk | 3,347
+tamilmirrorlk | 3,460
 virakesarilk | 4,519
 dailymirrorlk | 4,680
 adaderanasinhalalk | 4,749
@@ -26,11 +26,65 @@ adaderanasinhalalk | 4,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,512 (100.0%) of 29,512 articles have been extended.
+29,512 (100.0%) of 29,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### தரமற்ற சவர்க்கார பயன்பாடு: குழந்தைகளுக்கு சிக்கல்
+
+*2024-06-10 12:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-சவர்க்கார-பயன்பாடு-குழந்தைகளுக்கு-சிக்கல்/175-338693) · `ta`
+
+தரமற்ற சவர்க்காரங்களை பயன்படுத்துவதால் குழந்தைகளின் தோலில் பல்வேறு உபாதைகள் ஏற்பட்டுள்ளதாக தகவல் வெளியாகி உள்ளதாக அரச குடும்ப சுகாதார சேவைகள் சங்கம் தெரிவித்துள்ளது.
+
+தற்போதைய பொருளாதார நிலை காரணமாக சில பெற்றோர்கள் குழந்தைகளுக்கு தரமற்ற குழந்தை சவர்க்காரத்தை பயன்படுத்துவதாகவும், அதன் விளைவு எதிர்காலத்தில் ஏற்படும் எனவும் சங்கத்தின் பொருளாளர் பிரியங்கனி சுசங்கிகா தெரிவித்தார்.
+
+“இன்றைய நாட்களில் குழந்தைகளின் உடலில் சில அலர்ஜிகள் இருப்பதாக தெரிவிக்கப்பட்டது. இதை ஆராய்ந்தபோது தரமில்லாத குழந்தை சவர்காரத்தை பயன்படுத்துவது தெரியவந்துள்ளது.
+
+தாய்மார்கள் தமது குழந்தைகளுக்கு சவர்க்காரத்தை பயன்படுத்தும்போது கவனமாக இருக்க வேண்டும். இதன் பாதிப்பு நீண்ட காலத்துக்கு பின்னரே வெளிப்படும்” என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/9d9f2329.json)
+
+---
+
+### President Ranil calls on India’s Foreign Minister
+
+*2024-06-10 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99780/president-ranil-calls-on-indias-foreign-minister) · `en`
+
+President Ranil Wickremesinghe has met with the Minister of External Affairs of India Dr. S. Jaishankar in New Delhi, a short while ago, during his visit to India.
+
+President Wickremesinghe arrived in India on Sunday (09) to attend the swearing-in ceremony of Narendra Modi, who was elected as the Prime Minister of India for the third consecutive term.
+
+◼️
+
+[Data](articles/42b84444.json)
+
+---
+
+### “Ganemulla Sanjeewa” moved to Boossa Prison
+
+*2024-06-10 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99779/ganemulla-sanjeewa-moved-to-boossa-prison) · `en`
+
+The Gampaha Magistrate’s Court has ordered for the notorious drug trafficker and organized criminal infamously known as “Ganemulla Sanjeewa”, who is currently under detention orders, to be moved to the Boossa Prison.
+
+Accordingly, he was ordered to be detained in the Boossa Prison until June 24.
+
+This order was issued when the suspect was produced before Gampaha Magistrate Silani Perera this morning (10).
+
+The underworld figure was detained at the Weeragula Police Station under detention orders obtained by the Colombo North Crimes Division under the Prevention of Terrorism Act (PTA).
+
+“Ganemulla Sanjeewa” was arrested at the Bandaranaike International Airport (BIA) in Katunayake upon his return from Nepal on September 13, 2023.
+
+He had a forged passport in his possession at the time of his arrest, with personal details of a female believed to be a resident of the Dematagoda area.
+
+...
+
+[Data](articles/37e7573f.json)
+
+---
 
 ### Massive accident avoided: hurt to five
 
@@ -2151,69 +2205,5 @@ This is the first time the BJP under Modi has needed support from its regional a
 [Data](articles/636c206d.json)
 
 [Extended Data](ext_articles/636c206d.ext.json)
-
----
-
-### Harsha tells CID there is ‘no threats’ to his life
-
-*2024-06-09 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99765/harsha-tells-cid-there-is-no-threats-to-his-life) · `en`
-
-The Criminal Investigations Department (CID) has informed the Speaker of Parliament that SJB MP Dr. Harsha de Silva has said there is no threats to his life and hence an investigation in that aspect is not necessary.
-
-Public Security Minister Tiran Alles on Friday (07) instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats the opposition parliamentarian has received.
-
-This was after the Chair of the Committee of Public Finance (COPF), speaking in parliament on the same day, had claimed that he is faced with threats over the inquiry into the controversy surrounding the new visa issuance system.
-
-“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” de Silva had posted on ‘X’ (formerly Twitter).
-
-...
-
-[Data](articles/c7b90099.json)
-
-[Extended Data](ext_articles/c7b90099.ext.json)
-
----
-
-### Harsha tells CID there are ‘no threats’ to his life
-
-*2024-06-09 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99765/harsha-tells-cid-there-are-no-threats-to-his-life) · `en`
-
-The Criminal Investigations Department (CID) has informed the Speaker of Parliament that SJB MP Dr. Harsha de Silva has said there is no threats to his life and hence an investigation in that aspect is not necessary.
-
-Public Security Minister Tiran Alles on Friday (07) instructed IGP Deshabandu Tennakoon to direct the CID to investigate into the alleged threats the opposition parliamentarian has received.
-
-This was after the Chair of the Committee of Public Finance (COPF), speaking in parliament on the same day, had claimed that he is faced with threats over the inquiry into the controversy surrounding the new visa issuance system.
-
-“…. I addressed intimidation & false accusations during the VFS inquiry. Despite these challenges, my dedication to transparency & accountability remains strong. We’ve accomplished much, including key financial reforms,” de Silva had posted on ‘X’ (formerly Twitter).
-
-...
-
-[Data](articles/d521f4c7.json)
-
-[Extended Data](ext_articles/d521f4c7.ext.json)
-
----
-
-### IMF Discussion in Pakistan that ended without agreement
-
-*2024-06-09 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197570) · `si`
-
-The IMF-Pakistan talks concluded without a deal, primarily over disagreements on individual income tax rates. Despite no reported disputes on new tax rates for paid and unpaid individuals, the controversy revolves around the highest income tax rate for individuals. Both sides plan further discussions to explore alternative solutions to existing problems.
-
-🟩
-
-A discussion between the Pakistani government and the International Monetary Fund representatives ended without agreement.
-
-Foreign media reports that it is not due to the disagreement of new income tax rates for paid and non-paid people.
-
-Income tax of income, non-paying and non-paying rates, says that there is controversial among both parties regarding the maximum income tax imposed on individuals.
-
-However, the Pakistan government and the International Monetary Fund representatives will be held to discuss the alternative proposals on existing issues.
-
-◼️
-
-[Data](articles/9ba729d1.json)
-
-[Extended Data](ext_articles/9ba729d1.ext.json)
 
 ---

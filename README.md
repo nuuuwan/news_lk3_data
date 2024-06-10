@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 09:18:48**
+As of **2024-06-10 09:34:32**
 
 ## Newspaper Stats
 
-*Scraped **29,480** Articles*
+*Scraped **29,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
-adalk | 2,514
+adalk | 2,515
 adaderanalk | 3,339
-tamilmirrorlk | 3,454
+tamilmirrorlk | 3,456
 virakesarilk | 4,519
-dailymirrorlk | 4,672
-adaderanasinhalalk | 4,743
+dailymirrorlk | 4,676
+adaderanasinhalalk | 4,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,480 (100.0%) of 29,480 articles have been extended.
+29,482 (100.0%) of 29,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### காணாமல் போன மாணவி சடலமாக மீட்பு
+
+*2024-06-10 09:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காணாமல்-போன-மாணவி-சடலமாக-மீட்பு/76-338679) · `ta`
+
+கண்டி ரெலுகேஸ் இல 2 கெல்லாபோக்க மடுல்கலையில் காணாமல் போன ஹரிவதனி என்ற  மாணவி  நேற்று சடலமாக கண்டெடுக்கப்பட்டுள்ளார்.
+
+குறித்த மாணவி கடந்த வெள்ளிக்கிழமை முதல் காணாமல் போயிருந்த நிலையில் பொலிஸில் முறைப்பாடு பதிவுசெய்யப்பட்டு தேடுதல் நடவடிக்கைகள் முன்னெடுக்கப்பட்டிருந்தன.
+
+உயிரிழந்த மாணவியின் சடலம் பிரேத பரிசேதனைக்காக கண்டி போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/de812ff0.json)
+
+---
+
+### Body found on Wadduwa beach
+
+*2024-06-10 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197587) · `si`
+
+A body, believed to be of a man aged 40-45 wearing blue jeans and white socks, was discovered on Wadduwa beach. The identity remains unknown as police continue investigating, with officials from the Panadura Divisional Secretariat expected to arrive. Inspector Gayan Kahatapitiya is leading the probe.
+
+🟩
+
+The Busharukara, who had been assassinated in the t-shirt, was found on the beach in Wadduwa, the Thawarderakara, the Thawarderakara.
+
+Police said who the victim has not been identified yet.
+
+Police suspect that the person who bed is a blue denim trousers and the white sock block is aged between 40 to 45 years.
+
+The Panadura Divisional Secretariat officials are due to arrive at the location of the corpse.
+
+The Wadduwa OIC (Acting) Inspector Gayan Kahatapitiya are conducting further investigations.
+
+◼️
+
+[Data](articles/3086caa7.json)
+
+[Extended Data](ext_articles/3086caa7.ext.json)
+
+---
+
+### French President dissolves parliament and calls a snap election
+
+*2024-06-10 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/French-President-dissolves-parliament-and-calls-a-snap-election/108-284474) · `en`
+
+PARIS (AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
+
+The legislative elections will take place in two rounds on June 30 and July 7.
+
+The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
+
+Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
+
+Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
+
+...
+
+[Data](articles/ac088b96.json)
+
+---
+
+### World interest grows in nuke power generation in Sri Lanka
+
+*2024-06-10 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/World-interest-grows-in-nuke-power-generation-in-Sri-Lanka/155-284471) · `en`
+
+In the backdrop of the government evolving legislation to regulate nuclear power generation and the Sri Lanka Atomic Energy Board (SLAEB) getting ready to call for Expression of Interest from prospective investors, a delegation of China National Nuclear Corporation (CNNC) is expected in the country soon to explore investment in a nuke plant in the country, an official said yesterday.
+
+CNNC is among the organizations that submitted proposals for such a plant in the country. Besides Russia’s Rosatom, France’s Électricité de France (EDF), and Denmark’s Seaborg have submitted proposals.
+
+In its plan for reduction of carbon emission, the government has decided to have nuclear power in its energy mix. Recently, the International Atomic Energy Agency (IAEA) team of experts also concluded a seven-day safety review of Sri Lanka’s selection process to identify potential sites to build its first nuclear power plant.
+
+...
+
+[Data](articles/0ef504f8.json)
+
+---
 
 ### Death in one of the shootings;Killing?Suicide?
 
@@ -170,6 +248,28 @@ Police said that the shooting was not yet known as a human killing or suicide.
 
 ---
 
+### The French elections are dates
+
+*2024-06-10 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197583) · `si`
+
+French President Ekanuel McCron dissolved Parliament, setting elections for June 30 and July 7. The Paris Olympics are rumored to start two weeks earlier.
+
+🟩
+
+French President Ekanuel McCron dissolved the Parliament by the country.
+
+He said that the dissolution of parliament was held on June 30 and July 7, he will be held on June 30 and July 07.
+
+It is said that the Paris Olympics will be two weeks ago.
+
+◼️
+
+[Data](articles/f98f51d6.json)
+
+[Extended Data](ext_articles/f98f51d6.ext.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the country
 
 *2024-06-10 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99770/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
@@ -189,6 +289,26 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/40c06239.json)
 
 [Extended Data](ext_articles/40c06239.ext.json)
+
+---
+
+### Tourism trade remains robust despite seasonal softening in May
+
+*2024-06-10 07:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-trade-remains-robust-despite-seasonal-softening-in-May/108-284463) · `en`
+
+The tourism trade is going through an expected softening due to the seasonality tied to the arrivals, but it has managed to eke out an income of US$ 154.0 million in May, data showed.
+
+This was down from US$ 225.7 million in April but up from US$ 100.0 million a year ago when the trade was recovering from repeated crises.
+
+Sri Lanka’s economy weakened due to waning inflows from tourism and other foreign currency inflows due to the 2019 Easter attacks, two years of pandemic induced restrictions over travel and in-person events, and then by the ‘Aragalaya’ in 2022.
+
+It added to the challenges faced by tourism in its efforts to revive while the global travel industry started picking up from two years of pursuing stay at home orders due to the worldwide pandemic.
+
+This caused many countries to put up travel advisories against their people who were thinking of taking flights to Sri Lanka, delaying what looked like a continuous recovery in the trade.
+
+...
+
+[Data](articles/ff733816.json)
 
 ---
 
@@ -239,6 +359,28 @@ Meanwhile, the Railway Department says that 47 office trains have been planned t
 [Data](articles/06d0dea5.json)
 
 [Extended Data](ext_articles/06d0dea5.ext.json)
+
+---
+
+### wokers’ remittances continue to plough ahead with US$ 544mn in May
+
+*2024-06-10 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/wokers-remittances-continue-to-plough-ahead-with-US-544mn-in-May/108-284464) · `en`
+
+Remittance income from Sri Lankans working abroad has continued to remain robust through May as the country received US$ 544.4 million in the month. This is both, higher from a month ago levels as well as the year earlier levels.
+
+Sri Lankan received US$ 543.8 million as remittances in April this year while in May last year the receipts were US$ 479.7 million.
+
+For the five months through May, the country received US$ 2, 624.4 million from remittances, up 11.8 percent from the same period a year ago.
+
+Sri Lanka’s remittances started normalising when the authorities began cracking down on the informal money exchanges that were offering substantial premiums to the official exchange rate.
+
+The rupee depreciation also helped emigrants to re-route their earnings via banks which until then were repatriated via informal channels.
+
+Further the record number of departures for foreign employment also helped Sri Lanka to receive strong amounts of foreign currency every month.
+
+...
+
+[Data](articles/0d1fb9cb.json)
 
 ---
 
@@ -853,6 +995,20 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 [Data](articles/9045c727.json)
 
 [Extended Data](ext_articles/9045c727.ext.json)
+
+---
+
+### ’இடைக்காலக் கணக்கறிக்கை முன்வைக்கப்படும்’
+
+*2024-06-10 00:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்காலக்-கணக்கறிக்கை-முன்வைக்கப்படும்/175-338673) · `ta`
+
+2025 ஆம் ஆண்டுக்கான வரவு - செலவுத் திட்டத்திற்கு பதிலாக இடைக்கால கணக்கறிக்கை சமர்ப்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அதற்கமைய, 2025ஆம் ஆண்டின் முதல் சில மாதங்களுக்காக இடைக்கால கணக்கறிக்கை சமர்ப்பிக்கப்படவுள்ளதாகவும் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/7d3e6cd1.json)
 
 ---
 
@@ -1666,6 +1822,24 @@ A court announcement was later released by a Turkish hat. Following this, the Mu
 
 ---
 
+### හොර පාරෙන් ලියාපදිංචි කළ වාහන 400න් 6ක් අල්ලස් කොමිෂම භාරයට
+
+*2024-06-09 19:13:40* · [`adalk`](https://www.ada.lk/breaking_news/හොර-පාරෙන්-ලියාපදිංචි-කළ-වාහන-400න්-6ක්-අල්ලස්-කොමිෂම-භාරයට/11-410104) · `si`
+
+රේගුවට හොර රහසේ ආනයනය කර ව්‍යාජ තොරතුරු ඇතුළත් කරමින් ලියාපදිංචි කළේ යැයි කියන අධිසුඛෝපභෝගී වාහන 400ක් අතුරින් වාහන 06ක් අල්ලස් කොමිසම භාරයට ගෙන ඇත.
+
+මෙම අතිසුඛෝපභෝගී වාහන 168 හොර රහසේ ආනයනය කිරීමෙන් රජයට රුපියල් කෝටි 700කට අධික පාඩුවක් කිරීම සම්බන්ධයෙන් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම කරන විමර්ශනයේදී හෙළි වූ තොරතුරුවලට අනුව මෙම වාහන භාරයට ගත් බව අල්ලස් කොමිසමේ ප්‍රකාශයෙකු සඳහන් කළේය.
+
+එලෙස අල්ලස් කොමිසමේ භාරයට ගෙන ඇත්තේ රුපියල් කෝටි 04 සිට 06 දක්වා වටිනාකමින් යුත් මොන්ටෙරෝ, ලැන්ඩ්කෲසර්, අධිසුඛෝපභෝගී කැබ් සහ නිසාන් වර්ගයේ අධිසුඛෝපභෝගී ද්විත්ව කාර්ය රථ ඇතුළු වාහන බවද එම ප්‍රකාශයා සඳහන් කළේය.
+
+2015 සිට 2022 දක්වා කාලය තුළ අධිසුඛෝපභෝගී වාහන 400ක් පමණ හොර රහසේ මෙරටට ආනයනය කර ඇති බවට අල්ලස් කොමිසමේ රහසිගත බුද්ධි ඒකකයට ලැබුණු තොරතුරුවලට අනුව කළ විමර්ශනවලදී අනාවරණය වූ කරුණු පදනම් කරගනිමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාගෙන් කළ ඉල්ලීමකට අනුව අදාළ මෝටර් රථ 112ක් පැවරීම හෝ අන්සතු කිරීම වළකාලමින් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල්වරයාට නියෝගයක් නිකුත් කර ඇත.
+
+...
+
+[Data](articles/447465aa.json)
+
+---
+
 ### Tamil general candidate and tensions
 
 *2024-06-09 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185667) · `ta`
@@ -2041,223 +2215,5 @@ The woman has been handed over to the Jaffna Regional Criminal Investigation Div
 [Data](articles/2eea4e95.json)
 
 [Extended Data](ext_articles/2eea4e95.ext.json)
-
----
-
-### Two disciples arrested by Gaudu's disciples arrested with live bullets and drugs
-
-*2024-06-09 16:54:39* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ගෝලයෝ-දෙන්නෙක්-ජීව-උණ්ඩ-මුදල්-හා-මත්ද්‍රව්‍ය-සමග-අත්අඩංගුවට/11-410099) · `si`
-
-Gaudu's disciples arrested two individuals with live bullets and drugs. Kudu Salamudu, a major drug dealer, was also nabbed in Dubai with ten bullets. The arrests were made based on intelligence from the Special Task Force, leading to the seizure of various firearms and drugs.
-
-🟩
-
-Kudu Salamudu, a large-scale drug dealer and organized criminal, has been arrested with ten criminal criminal bullets in Dubai..
-
-The police said that 2 and 34 of the residents of Neluwa, Panadura were 27 and 34.
-
-Inspector of Police Inspector (STF) with information received by the Special Task Control Unit of the Special Task Force II. A group of officers including Wanniarachchi has been arrested in Panadura South, Panadura South, 10 millur and 38mm and 38-38-plus live bullets.
-
-It was later reported that he had found Rs.
-
-The two arrested are people who are conducting the drug network in Dubai, Panadura, Panadura, Panadura, Panadura, Panadura, Panadura, Panadura Kudurura Kudura Sampath, the crimes committed by these persons.It is revealed that persons involved in a number of people.
-
-◼️
-
-[Data](articles/ac5534ec.json)
-
-[Extended Data](ext_articles/ac5534ec.ext.json)
-
----
-
-### Latest weather forecast for rain
-
-*2024-06-09 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197564) · `si`
-
-Heavy rainfall expected in Western, Sabaragamuwa, and North Western provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, as well as North Central, Matale, Ampara, Batticaloa, Trincomalee, and Moneragala districts. Strong winds (40-50 km/h) also predicted. Stay safe from potential lightning and wind-related accidents.
-
-🟩
-
-In some places in the Western and Sabaragamuwa provinces, in some places in some places. The Meteorology Department says that there will be rains experience over 75.
-
-The department is issued by the weather notification for the next 36 hours.
-
-The release shows that there will be showers at times in the Western, Sabaragamuwa and North Western provinces in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The North-Central Province and in the North and Matale and Matale Districts can occur.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The announcement st he strong winds in about (40-50).
-
-The Department of Meteorology has further requested the temporary winds and lightning accidents caused by thunderstorms.
-
-◼️
-
-[Data](articles/241f91b7.json)
-
-[Extended Data](ext_articles/241f91b7.ext.json)
-
----
-
-### Sajith pledges to implement 13th Amendment
-
-*2024-06-09 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99761/sajith-pledges-to-implement-13th-amendment) · `en`
-
-Leader of the Opposition Sajith Premadasa assured that he will implement the 13th Amendment to the Constitution after coming to power.
-
-The Samagi Jana Balawegaya (SJB) leader stated this while participating in the occasion of donating a smart classroom to Bharathipuram Maha Vidyalayam, Kilinochchi, under the ‘Sakwala’ programme.
-
-Speaking further, Sajith Premadasa urged everyone to join hands “as children of one mother,” regardless of their religions or race, to help rebuild the country.
-
-Premadasa said that various leaders are afraid to speak about the 13th Amendment as they are “political opportunists”, and that he will implement the 13th Amendment as a “straight talker”.
-
-◼️
-
-[Data](articles/d98ee060.json)
-
-[Extended Data](ext_articles/d98ee060.ext.json)
-
----
-
-### Seventy two people killed in seventy-three years
-
-*2024-06-09 16:48:08* · [`adalk`](https://www.ada.lk/breaking_news/චීවරධාරියෙකු-සමඟ-මත්පැන්-පානය-කර--හැත්තෑ-දෙහැවිරිදි--අයෙක්-මරුට/11-410098) · `si`
-
-A monk was killed in a dispute over alcohol, marking the 72nd fatality in 73 years in the Giriulla Police Division. Preliminary investigations suggest the attacker, another monk without a permanent residence, was involved in a heated argument with the deceased. The victim succumbed to injuries at the Dambadeniya Base Hospital. The suspect, known for previous offenses, remains at large as police continue their investigation.
-
-🟩
-
-Giriulla Police say that a member of the monk was killed after being inaugurated by a monk who was engaged in alcohol.. The attack on the night of the Giriulla Police Division, Marawita Galugodawatta, Marawiteniya, Marawita, Salpita (72), a resident of Dambadeniya.
-
-Preliminary police investigations have revealed that the monk resident of Kajulandawatta, who had no permanent dwelling, was residing in Kagultulla and he was attacked by a heated argument with the deceased.
-
-The victim died on admission to the Dambadeniya Base Hospital due to the attack.
-
-The suspect has been living alone and the mother of monk and the oldest brother had been alive in a cousin. The mother and the elder brother had come to their home and was washed by the police, police said.
-
-The monk of the suspect is also the convicted of being grabbed after grab.
-
-Narammala Acting Magistrate Upul Adawanna has been conducting a post mortem and ordered the police to find the cause of death.
-
-...
-
-[Data](articles/02b11c1b.json)
-
-[Extended Data](ext_articles/02b11c1b.ext.json)
-
----
-
-### Indonesian woman found dead inside giant python
-
-*2024-06-09 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99760/indonesian-woman-found-dead-inside-giant-python) · `en`
-
-A woman was killed by a 5-meter (16-foot) python in central Indonesia after it swallowed her whole, local media reported Saturday.
-
-The 45-year-old, from Kalempang village in South Sulawesi province, had told her husband on Thursday she was going to sell chilies to a collector.
-
-When she failed to return, her husband and relatives initiated a search, village head Suardi Rosi told the Detik.com news website.
-
-The next morning, a python was discovered near the woman’s abandoned belongings, the report said.
-
-Along with some villagers, the husband of the woman — identified only as Farida — killed the snake and cut it open.
-
-Earlier, her husband “found her belongings... which made him suspicious. The villagers then searched the area. They soon spotted a python with a large belly,” said Suardi.
-
-“They agreed to cut open the python’s stomach. As soon as they did, Farida’s head was immediately visible.”
-
-...
-
-[Data](articles/77343caf.json)
-
-[Extended Data](ext_articles/77343caf.ext.json)
-
----
-
-### NTC, SLTB advised to assign more buses to avoid inconvenience to railway commuters
-
-*2024-06-09 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-SLTB-advised-to-assign-more-buses-to-avoid-inconvenience-to-railway-commuters/108-284428) · `en`
-
-Colombo, June 9 (Daily Mirro) - The Transport Ministry advised the National Transport Commission (NTC) and the Sri Lanka Transport Board (SLTB) to assign more buses for railway commuters to avoid the inconvenience caused to them in reaching their workplaces tomorrow morning.
-
-It has been brought to the attention of the Transport Ministry that railway commuters are facing severe inconvenience due to the ongoing strike by locomotive drivers since last Friday (7).
-
-Accordingly, it has been advised to increase the number of buses to reach Colombo from Avissawella, Polgahawela, Aluthgama, Panadura, Chilaw, Gampaha and Negombo.
-
-The Ministry has also advised the NTC and SLTB to operate buses outside of the joint schedule by considering the situation as a special occasion.
-
-The Ministry expressed its regrets for the inconvenience caused to the passengers in this regard.
-
-◼️
-
-[Data](articles/098fdeea.json)
-
-[Extended Data](ext_articles/098fdeea.ext.json)
-
----
-
-### 13th Amendment will be implemented - Sajith
-
-*2024-06-09 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197563) · `si`
-
-Sajith Premadasa, the Opposition Leader, promises to implement the 13th Amendment upon assuming power, emphasizing unity among all ethnic groups for national development. He made this statement during a ceremony in Kilinochchi, highlighting the importance of the amendment despite previous criticisms.
-
-🟩
-
-Opposition Leader Sajith Premadasa says that the 13th Amendment will be implemented after he comes to power.
-
-He was speaking at a sacrificial ceremony at the Sakwala program to Kilinochchi Bharathi Vidyalaya, Kilinochchi today (09).
-
-The Opposition Leader Sajith Premadasa has said that although the Sinhalese, Sinhalese, join hands to build the country as the children of the country.
-
-The Opposition Leader has said that the 13th Amendment was implemented as a direct-speaking while saying that the 13th Amendment was political opportunist.
-
-◼️
-
-[Data](articles/09212002.json)
-
-[Extended Data](ext_articles/09212002.ext.json)
-
----
-
-### What happened to the results of Tirumalai Zahira College students?
-
-*2024-06-09 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185664) · `ta`
-
-The suspension of Tirumalai Zahira College students' exam results sparked controversy, causing shock and distress among students, parents, and the school community.
-
-🟩
-
-The suspension of students' exam results has caused great controversy. Students, their parents and the school community are in great shock and are in distress, as the results of the examination of the examination.
-
-◼️
-
-[Data](articles/cd0d61d7.json)
-
-[Extended Data](ext_articles/cd0d61d7.ext.json)
-
----
-
-### Missing four-missing four-stakes
-
-*2024-06-09 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197562) · `si`
-
-A woman was found dead in a python's stomach after disappearing from her village. Villagers searched for her, and foreign media reported the discovery.
-
-🟩
-
-Foreign media reports that a woman has died after being victims of a preep.
-
-The woman had disappeared a few days ago and the villagers have launched a mission to search for her.
-
-Foreign media reports that a pipe with a huge abdomen has been found.
-
-The body of the woman who was killed in the pimpa's abdomen was found.
-
-◼️
-
-[Data](articles/b35a8239.json)
-
-[Extended Data](ext_articles/b35a8239.ext.json)
 
 ---

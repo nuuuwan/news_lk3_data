@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 00:50:50**
+As of **2024-06-11 01:04:15**
 
 ## Newspaper Stats
 
-*Scraped **29,660** Articles*
+*Scraped **29,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,52 @@ adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
 virakesarilk | 4,551
-dailymirrorlk | 4,701
+dailymirrorlk | 4,703
 adaderanasinhalalk | 4,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,657 (100.0%) of 29,660 articles have been extended.
+29,660 (100.0%) of 29,662 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-11 (Tuesday)
+
+### Presidential pardons shouldn’t encourage impunity - EDITORIAL
+
+*2024-06-11 00:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-pardons-shouldnt-encourage-impunity-EDITORIAL/172-284557) · `en`
+
+The Supreme Court’s June 6 reversal of the order of President Maithripala Sirisena to grant a pardon to Jude Shramantha Jayamaha, who was sentenced to death over the Royal Park murder incident on July 1, 2005, was the second such action by the apex court within the last six months.
+
+The court on January 17 quashed the clemency given by former President Gotabaya Rajapaksa to former Parliamentarian Duminda Silva who had been on death row over the murder of former Presidential Advisor Bharatha Lakshman Premachandra on October 8, 2011.
+
+Both rulings by the Supreme Court to quash the capital punishment given to Duminda Silva and Jude Shramantha Jayamaha were based on technicalities - meaning the President had failed to adhere to the proper legal procedures in granting the special Presidential Pardon.
+
+...
+
+[Data](articles/08404a9c.json)
+
+---
+
+### Sri Lanka is now well on the way to harnessing nuclear energy
+
+*2024-06-11 00:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-is-now-well-on-the-way-to-harnessing-nuclear-energy/172-284556) · `en`
+
+Benefits outweigh drawbacks and external finance will not be a problem
+
+Having taken a firm decision to include nuclear energy in its mix of energy sources, Sri Lanka is now well on the way to harnessing it. Literature on the subject shows that the benefits of going for nuclear energy outweigh the drawbacks, and external finance will not be a problem.
+
+The Sri Lanka Atomic Energy Board (SLAEB) Chairman Prof. Rexy Denzil Rosa has said that Sri Lanka has identified nuclear energy as a clean and green energy source to fulfil future electricity demand. In March 2024, the Sri Lankan Cabinet committed the country to a nuclear power programme.
+
+The International Atomic Energy Agency (IAEA) says that Sri Lanka is pursuing nuclear power to increase its low carbon power production, tackle climate change and increase energy security.
+
+...
+
+[Data](articles/0edda735.json)
+
+---
 
 ### 2024-06-10 (Monday)
 
@@ -310,6 +346,8 @@ Such additions may put many domestic industries and maritime sector in trouble
 
 [Data](articles/8d71e762.json)
 
+[Extended Data](ext_articles/8d71e762.ext.json)
+
 ---
 
 ### The difference in the body of a whitewarnu gray
@@ -510,6 +548,8 @@ Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he
 
 [Data](articles/099bc8a2.json)
 
+[Extended Data](ext_articles/099bc8a2.ext.json)
+
 ---
 
 ### Sri Lanka’s struggle with election phobia
@@ -523,6 +563,8 @@ www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat 
 ...
 
 [Data](articles/98ae5772.json)
+
+[Extended Data](ext_articles/98ae5772.ext.json)
 
 ---
 
@@ -2205,49 +2247,5 @@ Speaking at an event in Jaffna on Sunday June 09, Premadasa said an SJB governme
 [Data](articles/37958496.json)
 
 [Extended Data](ext_articles/37958496.ext.json)
-
----
-
-### Suspected suspect in soil Podda caught at airport
-
-*2024-06-10 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197602) · `si`
-
-A suspect named Podda, linked to soil-related crimes, was arrested at Katunayake Airport by immigration officers. He was later handed over to local police. The victim was reportedly killed in July 2022.
-
-🟩
-
-The victim was arrested at the Katunayake Airport this morning at Katunayake Airport this morning.
-
-He was arrested by immigration officials and the suspect had been handed over to the airport police, our correspondent said.
-
-It is said that he had been shot dead in July 2022, after he was shot dead in July 2022, after he was shot dead in July 2022.
-
-◼️
-
-[Data](articles/4a465d6c.json)
-
-[Extended Data](ext_articles/4a465d6c.ext.json)
-
----
-
-### Sri Lanka will be able to better penetrate India market with ECTA: ILCCI chief
-
-*2024-06-10 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-be-able-to-better-penetrate-india-market-with-ecta-ilcci-chief-167185/) · `en`
-
-ECONOMYNEXT – Sri Lankan businesses have a lot to learn and gain from India, the Indo Lanka Chamber of Commerce and Industry (ILCCI) has said.
-
-“This is a golden opportunity for us to integrate our economies we have much to learn and gain from India, we as a business should be pushing them for the ECTA and this will definitely take us to the next level in penetrating such a huge market,” President of ILCCI, Muthukumaraswamy Raghuraman said.
-
-He was speaking at an interactive session with High Commissioner of India to Sri Lanka Santosh Jha, at Taj Samudra Colombo.
-
-An Evening of Insight and Dialogue: Interactive Session with H.E. Santosh Jha, High Commissioner of India to Sri Lanka
-
-The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating evening interactive session with H.E. Santosh Jha, High Commissioner of India to Sri Lanka, at Taj Samudra Colombo. The event brought together business leaders and industry experts for a night of engaging discussions and networking.
-
-...
-
-[Data](articles/1aff787f.json)
-
-[Extended Data](ext_articles/1aff787f.ext.json)
 
 ---

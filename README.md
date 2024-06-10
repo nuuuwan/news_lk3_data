@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 10:06:51**
+As of **2024-06-10 10:19:09**
 
 ## Newspaper Stats
 
-*Scraped **29,490** Articles*
+*Scraped **29,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 278
 bbccomsinhala | 285
 newsfirstlk | 363
 islandlk | 1,600
-economynextcom | 1,678
+economynextcom | 1,681
 dailyftlk | 1,768
 adalk | 2,515
 adaderanalk | 3,339
@@ -26,25 +26,77 @@ adaderanasinhalalk | 4,746
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,489 (100.0%) of 29,490 articles have been extended.
+29,490 (100.0%) of 29,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ප්‍රමිතියෙන් තොර සබන් භාවිතයෙන් බිළිඳුන්ට සංකූලතා
+### Sri Lanka’s CAL enhances digital platform for stocks, Treasuries, unit trusts
+
+*2024-06-10 09:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-cal-enhances-digital-platform-for-stocks-treasuries-unit-trusts-167127/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Capital Alliance group said its CALOnline investment platform has been enhanced to make it easier for retail investors in particular to access and invest in Treasury bills, stocks and unit trusts.
+
+The CAL group has divisions involved stockbroking, Treasuries as a primary dealer sand fund management.
+
+CAL says it has built a lightweight mobile platform to complement its web service by developing the CalOnline 2.0 version.
+
+“We have spent a lot of time on boarding less troublesome, less intimidating and less troublesome,” Tharindra Kulasinghe, CAL’s Chief Information Officer said.
+
+About 40,000 investors who have transacted on the platform around the country, he says.
+
+When CAL enabled initial public offer applications for the first time, there was wide response from around the country.
+
+...
+
+[Data](articles/b8b4d2a8.json)
+
+---
+
+### Complications for bodies using substandard soap
 
 *2024-06-10 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197588) · `si`
 
-ප්‍රමිතියෙන් තොර සබන් වර්ග භාවිතා කිරීම හේතුවෙන් බිළිඳුන්ගේ සමෙහි විවිධ සංකූලතා ඇති වී තිබෙන බවට තොරතුරු වාර්තා වී ඇතැයි රජයේ පවුල් සෞඛ්‍ය සේවා සංගමය පවසයි.
+The Health Service Association warns that substandard soap may cause health issues in infants, including allergies, due to its impact on sensitive skin. In times of economic hardship, some parents resort to cheaper soaps, unaware of the risks. The association emphasizes the importance of choosing high-quality soap for infants to prevent potential complications.
 
-එහි භාණ්ඩාගාරික ප්‍රියංගනී සුසංගිකා මහත්මිය පැවසුවේ, වර්තමානයේ පවතින ආර්ථික තත්ත්වය මත ඇතැම් මව්පියන් ප්‍රමිතියෙන් තොර බාල සබන් වර්තමානයේ තම බිළිඳුන් සඳහා භාවිතා කරන බවත්, එහි බලපෑම ඇතිවන්නේ අනාගතයේදී බවය.
+🟩
 
-"අපිට මේ දවස්වල වාර්තා වෙලා තියෙනවා දරුවන්ගේ ඇඟේ යම් යම් අසාත්මිකතා. මේ ගැන හොයලා බලනකොට අපිට තේරුණ එක දෙයක් තමා ප්‍රමිතියෙන් තොර බාල බිළිඳු සබන් භාවිතා කිරීමෙන් තමා මේ තත්ත්වය ඇති වෙන්නේ කියන එක. විශේෂයෙන්ම කියන්න ඕනේ අම්මලාට තමන්ගේ දරුවන්ගේ සබන් පාවිච්චි කිරීමේ දී සැලකිලිමත් වෙන්න ඕන විශේෂම කාරණය තමා ශ්‍රී ලංකා ප්‍රමිති ආයතනයෙන් නිකුත් කළ සහතිකය සහිත බේබි සබන් වර්ගයක් පාවිච්චි කරන්න කියන එක. බිළිඳු සම ඉතාම සංවේදී තැනක්. ඒ නිසා අද නෙමෙයි මෙහි ඵළවිපාක ඇති වෙන්නේ වසර ගණනාවකින්. ඒ නිසා විශේෂයෙන්ම ආර්ථික තත්ත්වය එසේ වුවත් මේ ගැන සැලකිලිමත් වෙන්න..."
+The government's Health Service Association states that it has been reported that various complications of babies have caused various complications of the babies due to the use of quality soap.
+
+Its Treasurer Priygangani Susangika Susangika said that on the current economic situation, some parents who are not currently useless in the current economic situation and the influence of younger soap is used today.
+
+"We have reportedly reported some allergies on the body of children. Finding out about this, one thing we realized that he is the case with no substandard influential soap.. Especially that mothers should take care of using their children's soap in the use of their children's soap.. Infant skin is a very sensitive place. Therefore, in years the program has the same. So, especially the economic situation, take care of it ... "
 
 ◼️
 
 [Data](articles/b8f6f7e5.json)
+
+[Extended Data](ext_articles/b8f6f7e5.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 302.80/95 to US dollar
+
+*2024-06-10 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-broadly-flat-at-302-80-95-to-us-dollar-167123/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.80/95 to the US dollar on Monday in the first half-hour of trading, while bond yields were steady and stocks opened 0.55 percent higher, dealers said.
+
+In equities, Colombo’s All Share Price Index gained 67.86 points to 12,382.24 and the S&P SL20 of more liquid stocks was up 0.88 percent or 32.35 points to 3,687.96, in the first-half hour of trade.
+
+The Colombo Stock Exchange announced that the settlement cycle for all equity transactions on the CSE will be shortened to T+2 with effect from today (10). The market turnover was 63 million rupees.
+
+In the secondary market, yields were stable in somewhat dull trade, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.95/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.45/65 percent up from 10.45/55 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
+
+...
+
+[Data](articles/95d4aa73.json)
 
 ---
 
@@ -387,6 +439,26 @@ Meanwhile, the Railway Department says that 47 office trains have been planned t
 [Data](articles/06d0dea5.json)
 
 [Extended Data](ext_articles/06d0dea5.ext.json)
+
+---
+
+### Sri Lanka Ports Authority cadre slashed, makes payment to Treasury
+
+*2024-06-10 07:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-ports-authority-cadre-slashed-makes-payment-to-treasury-167120/) · `en`
+
+ECONOMYNEXT – Sri Lanka Ports Authority, has made profits of 40.3 billion rupees in 2023, before payment to the Treasury of 8.6 billion rupees to repay a long taken to build Hambantota port, down from 57.0 billion rupees, official data showed.
+
+SLPA paid income tax of 5.6 billion rupees, down from 13.2 billion rupees a year earlier.
+
+The Treasury had also reduce the approved cadre of the SLPA.
+
+“After a lengthy analysis by considering the technological advancement over the years and redundant job categories, General Treasury revised the cadre of the SLPA in 2023 and reduced the cadre by 3003 from 9,990 to 6,987,” the statement said.
+
+The SLPA has been used by successive ministers to stuff it with supporters from their respective electorates.
+
+...
+
+[Data](articles/3108b640.json)
 
 ---
 
@@ -2149,89 +2221,5 @@ However, the Minister emphasized that the policy statements of each of these can
 [Data](articles/f0b718b8.json)
 
 [Extended Data](ext_articles/f0b718b8.ext.json)
-
----
-
-### Women arrested for billions of businessman
-
-*2024-06-09 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197565) · `si`
-
-A 54-year-old woman from Makola has been arrested for allegedly swindling Rs. 15 billion from a businessman. The arrest followed a complaint that the woman failed to return the money lent to release his vehicles. Authorities found a luxury car, smartphones, and laptops in her possession. She is linked to numerous fraud cases, including one where she allegedly tried to extort Rs. 636,000 from another suspect and engaged in false passport processing. Further investigations are being conducted by the Colombo Crimes Division.
-
-🟩
-
-The police have arrested a woman who has been arrested by the police accused of obtaining Rs. 15 billion in a businessman.
-
-The arrested woman is a 54 year old resident of Makola.
-
-The police have seized a luxury car, several smartphones and two laptops.
-
-The businessman has told the police that this suspect was identified by a friend from the Supreme Court of Colombo.
-
-Preliminary investigations have revealed that the money was obtained from the relevant businessman to release the vehicles.
-
-The suspect was arrested following a complaint lodged by the businessman to say that he did not meet the woman.
-
-The suspected woman has been accused of allegedly accused of allegations of large-scale money frauds.
-
-It has been revealed that there have been many cases of fraud file fraud in the Chief Magistrate's Court of Major Chief Magistrate's Court against her.
-
-It has also been revealed that a suspect is a magistrate and has been accused of attempting to obtain Rs. 636,000 from a suspect.
-
-...
-
-[Data](articles/dcc8341d.json)
-
-[Extended Data](ext_articles/dcc8341d.ext.json)
-
----
-
-### Two close associates of ‘Kudu Salindu’ arrested with ammo, ice and cash
-
-*2024-06-09 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99762/two-close-associates-of-kudu-salindu-arrested-with-ammo-ice-and-cash) · `en`
-
-Two close associates of the notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, have been arrested in the Panadura South area today (09).
-
-Police said that one suspect was apprehended along with a motorcycle in the Nalluruwa area of Panadura South during an operation conducted by the Police Special Task Force (STF).
-
-Officers seized 20 rounds of live ammunitions used in revolvers, 10 grams and 400 milligrams of crystal methamphetamine (‘Ice’) and over Rs. 4.2 million in cash, suspected to have been earned from the sale of drugs, which were found in the possession of the suspect.
-
-Following the interrogation of that suspect, another individual was arrested for aiding and abetting by handling this drug trafficking racket from a residence.
-
-Police said that the two suspects are residents of the Nalluruwa and Morawinna areas of Panadura.
-
-...
-
-[Data](articles/222938dd.json)
-
-[Extended Data](ext_articles/222938dd.ext.json)
-
----
-
-### Jaffna from Colombo. Arrested to go and sell fake currencies printing machine: Family hiding!
-
-*2024-06-09 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185674) · `ta`
-
-A man from Colombo attempted to sell a fake currency printing machine in Jaffna but was arrested by the Kopay police. His family, staying in Ariyalai, went into hiding after learning about his arrest.
-
-🟩
-
-The man who went to Jaffna from Colombo to Jaffna and tried to sell a fake currency printing machine and his family had gone into hiding.
-
-A man who went to Jaffna from Colombo to Jaffna has received a house for a day in Ariyalai and stays with his family.
-
-Yesterday (8), the man was arrested by the Kopay police while waiting for a person to sell fake currency notes in the Tirunelveli market near the Tirunelveli market.
-
-Based on the information available on the selling of fake currency notes, he was arrested at the time of the incident.
-
-It was revealed that he was staying with his family in Ariyalai while he was detained at the police station.
-
-In this case, when the police team rushed to the house, the people in the house escaped.
-
-◼️
-
-[Data](articles/154fea0e.json)
-
-[Extended Data](ext_articles/154fea0e.ext.json)
 
 ---

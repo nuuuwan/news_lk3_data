@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 13:34:33**
+As of **2024-06-10 13:54:15**
 
 ## Newspaper Stats
 
-*Scraped **29,541** Articles*
+*Scraped **29,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,98 @@ adalk | 2,521
 adaderanalk | 3,348
 tamilmirrorlk | 3,462
 virakesarilk | 4,529
-dailymirrorlk | 4,684
+dailymirrorlk | 4,686
 adaderanasinhalalk | 4,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,533 (100.0%) of 29,541 articles have been extended.
+29,541 (100.0%) of 29,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ரயில் சாரதிகள் போராட்டத்தால் பயணிகள் பாதிப்பு
+### President meets Indian External Affairs Minister
+
+*2024-06-10 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Indian-External-Affairs-Minister/108-284507) · `en`
+
+President Ranil Wickremesinghe met Indian External Affairs Minister S. Jaishankar in New Delhi today where he discussed bilateral ties with India and the sub continant's neighbourhood programmes.
+
+◼️
+
+[Data](articles/f7e0a08a.json)
+
+---
+
+### Wanted gunman in ’Pas Podda’ murder arrested at BIA on return from UAE
+
+*2024-06-10 13:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanted-gunman-in-Pas-Podda-murder-arrested-at-BIA-on-return-from-UAE/108-284506) · `en`
+
+Colombo, June 10 (Daily Mirror) - The gunman responsible for the killing of underworld figure Saman Rohitha Perera alias  ‘Pas Podda’ in Gampaha in 2022 was arrested by immigration officials at the Bandaranaike International Airport, Katunayake upon his return to the country.
+
+‘Pas Podda’ was fatally shot at while two others were injured, near the Gampaha Magistrate’s Court on July 30, 2022.
+
+The assailant, identified as 28-year-old Awishka Madhusankha from Kimbulapitiya, Negombo, was arrested this morning and handed over to the Gampaha police.
+
+Following the shooting, Madhusankha reportedly fled to Sharjah in the United Arab Emirates.
+
+The Gampaha Magistrate's Court had imposed a travel ban on the suspect and the officers of the Immigration Department identified him on his return and arrested him.
+
+◼️
+
+[Data](articles/eef80a5c.json)
+
+---
+
+### Passengers are affected by train drivers struggle
 
 *2024-06-10 13:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சாரதிகள்-போராட்டத்தால்-பயணிகள்-பாதிப்பு/175-338697) · `ta`
 
-ரயில் இயந்திர சாரதிகள் குழுவினால் ஆரம்பிக்கப்பட்ட பணிப்புறக்கணிப்பு நான்காவது நாளாகவும் இன்று (10) தொடர்வதால், இன்று காலை 20 அலுவலக ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Railway drivers' strike enters its fourth day due to issues like delayed promotions and recruitments. Despite the strike, some trains continue to operate, affecting passenger travel.
 
-இரண்டாம் வகுப்பு பதவி உயர்வு தாமதம், ஆட்சேர்ப்பு தாமதம் உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து, ரயில் இயந்திர சாரதிகளால் வேலை நிறுத்தம் முன்னெடுக்கப்பட்டுள்ளது.
+🟩
 
-அத்துடன், வேலை நிறுத்தத்துக்கு மத்தியில் சேவையில் ஈடுபட்ட சில ரயில்களில் அதிகளவான பயணிகள்  பயணித்துள்ளனர்.
+The railway department said that the workplace, which was launched by the Railway Drivers Group, continued for the fourth day today (10).
+
+The strike has been launched by rail drivers, with various demands, including the delay in the second -class promotion and the delay in recruitment.
+
+In addition, a large number of passengers have traveled on some of the trains that have been serving in the midst of the strike.
 
 ◼️
 
 [Data](articles/a1e1ec1f.json)
 
+[Extended Data](ext_articles/a1e1ec1f.ext.json)
+
 ---
 
-### ජනපතිගේ ආරාධනය අගමැති මෝදි පිළිගනියි
+### Prime Minister Modu welcomes the invitation of President
 
 *2024-06-10 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197599) · `si`
 
-මෙරට සංචාරයක් සඳහා එක්වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් කළ ආරාධනාව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි විසින් පිළිගෙන ඇති බව වාර්තාවෙයි.
+Indian PM Narendra Modi accepts President Ranil Wickremesinghe's invite for a visit to Sri Lanka, expected in August. Discussions include investment in Sri Lanka's Industrial Zone, agricultural issues, and fishery disputes resolution. President Wickremesinghe also mentioned the upcoming presentation of a reconciliation act to Parliament by July.
 
-අගමැති නරේන්ද්‍ර මෝදි මහතාගේ දිවුරුම්දීමේ උත්සවයෙන් පසුව ජනපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා අතර පැවති විශේෂ හමුවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම ආරාධනාව සිදුකර ඇත.
+🟩
 
-ඒ අනුව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා ලබන අගෝස්තු මාසයේදී සිදු කෙරෙනු ඇතැයි විශ්වාස කෙරෙන ශ්‍රී ලංකා සංචාරය සම්බන්ධයෙන් ඉන්දීය ජ්‍යේෂ්ඨ අමාත්‍ය එස්.කේ ජයශංකර්  මහතා ඉන්දියාවේ නව දිල්ලි නුවරදී  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡා කර තිබේ.
+It is reported that Indian Prime Minister Narendra Modi has accepted the invitation of President Ranil Wickremesinghe to join the visit to Sri Lanka.
 
-ඉන්දීය රජය විසින් ත්‍රිකුණාමලය කේන්ද්‍රකර ගනිමින් ආරම්භ කරන කර්මාන්ත කලාපය ගැන පැවති සාකච්ඡාවේදී ඉන්දීය ආයෝජකයන් රැසක් එහි සිය ආයෝජන කටයුතු ආරම්භ කරන බව සඳහන් කර ඇති ජයෂංකර් මහතා ඉන්දීය ආයෝජකයන්ට අමතරව වෙනත් රටවල ආයෝජකයන්ද මෙම කර්මාන්ත කලාපයේ ආයෝජන සඳහා සම්බන්ධ කරන බවද සඳහන් කර තිබේ.
+President Ranil Wickremesinghe has been invited during a special meeting between Prime Minister Narendra Modi, Ranil Wickremesinghe and Indian Prime Minister Narendra Modi.
+
+Senior Minister SK Jayasankur, who is believed to believe that Mr. Narendra Modi will be held in August, has been discussed in New Delhi, India.
+
+It is said that the investors in other countries are also connected to Indian investors to invest their investments in the Industrial Zone where the Indian government begins Trincomalee.
+
+President Ranil Wickremesinghe was referred to the powers in the fields of agriculture, health, education and economic management in the fields of the New Economic Translation Act.
+
+President Ranil Wickremesinghe has told Jayashankar that the true and reconciliation act will be presented to Parliament by July.
 
 ...
 
 [Data](articles/c3ab39e1.json)
+
+[Extended Data](ext_articles/c3ab39e1.ext.json)
 
 ---
 
@@ -79,6 +127,8 @@ Joining a press conference held this morning (10), Mrs. Kusalani de Silva highli
 ...
 
 [Data](articles/314c20af.json)
+
+[Extended Data](ext_articles/314c20af.ext.json)
 
 ---
 
@@ -536,21 +586,33 @@ However, beyond these pressure, they have come forward to boldly, they have shar
 
 ---
 
-### ஜேவிபியின் நேற்யை மாநாட்டில் சிஐடியின் முன்னாள் இயக்குநர் - சிரேஸ்ட பிரதிபொலிஸ்மா அதிபர் - பல முன்னாள் பொலிஸ் உத்தியோகத்தர்கள் -மாநாட்டில் கலந்துகொள்ளவேண்டாம் என மிரட்டல் விடுக்கப்பட்டதாக தெரிவிப்பு
+### Former Director of the CIT - Senior Representative Principal - many former police officers - have been threatened not to attend the conference at the JVP
 
 *2024-06-10 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185721) · `ta`
 
-தேசிய மக்கள் சக்தியின் ஓய்வு பெற்ற பொலிஸ் உத்தியோகத்தர்கள் அமைப்பின் நேற்றைய செய்தியாளர் மாநாட்டில்  சிஐடியின் முன்னாள் அதிகாரிகள் உட்பட ஓய்வு பெற்ற பல பொலிஸ் அதிகாரிகள் கலந்துகொண்டுள்ளனர்.
+Retired police officers, including former CIT officials, faced threats not to attend a conference organized by the National People's Power's retired police officers' organization. The event saw the presence of the party's parliamentarians. Former Senior Representative Principal Ravi Seniviratne emphasized the organization's democratic nature and denied any negative impact on the police force. He revealed receiving pressure from various sources, including a threat from a member of the National Investigation Unit, to avoid participating. Despite the challenges, Seniviratne highlighted the group's honesty and readiness to sacrifice for their cause, contrasting it with current politics.
 
-தேசிய மக்கள் சக்தியின் நேற்றைய மாநாட்டில் கட்சியின் நாடாளுமன்ற உறுப்பினர்கள் ஓய்வு பெற்ற பொலிஸ் இராணுவ அதிகாரிகள் நீதித்துறையினர் உட்பட பலர் கலந்துகொண்டனர்.
+🟩
 
-ஓய்வுபெற்ற பொலிஸ் உத்தியோகத்தர்களின் கூட்டு என்பது உண்மையில் நியாயபூர்வமான ஜனநாயக அமைப்பு என தெரிவித்துள்ள முன்னாள் சிரேஸ்ட பிரதிபொலிஸ்மா அதிபர் ரவிசெனிவிரட்ண பொலிஸார் மீது தாக்கம் செலுத்தும் நோக்கமோ அல்லது அல்லது பொலிஸ் துறைக்குமீள திரும்பும் நோக்கமோ இல்லை எனவும் குறிப்பிட்டுள்ளார்.
+Several retired police officers, including former CIT officials, were present at a press conference of the retired police officers organization of the National People's Power.
 
-இந்த மேடையில் ஏறவேண்டாம் என பல தரப்பினரிடமிருந்து எனக்கு அழுத்தம் வந்தது, எனக்கு மாத்திரமல்ல ஏனைய முன்னாள் அதிகாரிகளிற்கும் அழுத்தம் கொடுக்கப்பட்டது என அவர் மேலும் தெரிவித்துள்ளார்.
+The party's parliamentarians were present at the National People's Power yesterday.
+
+Former Senior Representative Principal Raviseniviratne, who has said that the joint of retired police officers is actually a fair democratic organization, has said that there is no impact on the police or the return of the police department.
+
+He added that I was pressured from many sides not to climb on this platform, and I was also pressured not only to other former officials, he added.
+
+Ravi Seniviratne said that a person had been threatened by telephone.
+
+Ravi Seniviratne said that a person from the National Investigation Unit had threatened.
+
+Two years ago, Ravi Seniviratna, who made the reasons for the creation of a joint police officers, said that we had taken serious consultations with the leadership of the national people's power.
 
 ...
 
 [Data](articles/3bd0a9d5.json)
+
+[Extended Data](ext_articles/3bd0a9d5.ext.json)
 
 ---
 
@@ -716,21 +778,27 @@ The police obtained permission after the Prevention of Terrorism Act.
 
 ---
 
-### දුම්රිය රියදුරන්ගේ වර්ජනය හේතුවෙන් අපහසුතාවයට පත්වන මගීන්ට සහනයක්
+### Relief for passengers who are embarrassing due to the strike of the train drivers
 
 *2024-06-10 10:43:58* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ගේ-වර්ජනය-හේතුවෙන්-අපහසුතාවයට-පත්වන-මගීන්ට-සහනයක්/11-410113) · `si`
 
-දුම්රිය රියදුරන් පිරිසකගේ වෘත්තීය ක්‍රියාමාර්ගය හේතුවෙන් මගීන්ට සිදුවන අපහසුතා වළක්වාලීම සඳහා අතිරේක බස්රථ ඇතැම් දුම්රිය ස්ථාන අසලින් ගමන් ආරම්භ කරන ආකාරයට යොදවා ඇතිබව වාරථා වනවා.
+In response to train driver strikes, Sri Lanka Transport Board has deployed extra buses to ease travel for students and office-goers affected by the disruption. Chairman Lalith de Alwis confirmed the deployment, ensuring services run smoothly despite the industrial action.
 
-ඒසේම හැකි උපරිම ආකාරයෙන් බස් රථ ප්‍රමාණයක් අද දිනයේ ධාවනයට එක් කර ඇති බව ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය පවසනවා.
+🟩
 
-ඒ අනුව දුම්රිය ස්ථානවල ආසන්නයේ ඇති ඩිපෝවලට ඒ සම්බන්ධයෙන් දැනුම්දී ඇති බවයි එහි සභාපති ලලිත් ද අල්විස් සඳහන් කළේ.
+The additional buses have been deployed to prevent the trains of the railway drivers as a result of a group of train operators will start with the sights.
 
-ඒසේම දුම්රිය රියදුරු වෘතිය සමිති ක්‍රයාමාර්ගය අද (10) හතරවන දිනටත් ක්‍රියාත්මක වීම හේතුවෙන් උදෑසන කාර්යාල සේවකයින් හා පාසල් දරුවන් බොහෝ අපහසුතාවන්ට පත්ව තිබෙනවා.
+The Sri Lanka Transport Board states that a large number of buses have been added to the operation today.
+
+The Chairman Lalith de Alwis stated that the depots in the railway stations have been informed of the matter.
+
+The Railway Driver Project operated today (10) on the fourth date on the fourth today (10th) has difficulty office and school children.
 
 ◼️
 
 [Data](articles/78992813.json)
+
+[Extended Data](ext_articles/78992813.ext.json)
 
 ---
 
@@ -796,19 +864,25 @@ A 2 -month -old child died when a part of the reception wall of a house in the O
 
 ---
 
-### பிரான்ஸ் பாராளுமன்றம் கலைப்பு ; ஜனாதிபதி இமானுவேல் மேக்ரான் தேர்தலுக்கு அழைப்பு
+### Dissolve France Parliament;President Emanuel Macron calls for election
 
 *2024-06-10 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185714) · `ta`
 
-பாராளுமன்றம் கலைக்கப்பட்டதாக அறிவித்த அவர், ஜூன் 30 மற்றும் ஜூலை 7ஆம் திகதிகளில் பாராளுமன்றத் தேர்தல் நடைபெறும் என்று தெரிவித்துள்ளார்.
+French President Emmanuel Macron dissolves Parliament, calling for elections on June 30 and July 7 after his party's poor showing in EU polls from June 6 to 9.
 
-ஐரோப்பிய தேர்தல்கள் ஜூன் 6 முதல் 9 வரை ஐரோப்பிய ஒன்றியம் முழுவதும் நடைபெற்றது. அதில், பிரான்ஸ் ஜனாதிபதி இம்மானுவேல் மேக்ரோனின் கட்சி தோல்வி அடைந்துள்ளது.
+🟩
 
-இந்நிலையில், பிரான்ஸ் ஜனாதிபதி இம்மானுவேல் மேக்ரோன் அந்நாட்டு பாராளுமன்றத்தை கலைத்து தேர்தலுக்கு அழைப்பு விடுத்துள்ளார்.
+He announced the dissolution of Parliament and said that parliamentary elections will be held on June 30 and July 7.
+
+European elections were held throughout the European Union from June 6 to 9. In it, French President Emmanuel Macron's party has failed.
+
+In this case, French President Emmanuel Macron has called for the election to dissolve the parliament.
 
 ◼️
 
 [Data](articles/1e0b9eae.json)
+
+[Extended Data](ext_articles/1e0b9eae.ext.json)
 
 ---
 
@@ -1490,23 +1564,75 @@ Chasing a target of 120, Pakistan won only 113 runs in the end of 20 overs.
 
 ---
 
-### මෛත්‍රීපාල සිරිසේන: වැඩිම වාර ගණනක් ව්‍යවස්ථාව සහ මූලික අයිතීන් උල්ලංඝණය කළ එකම ජනපති
+### Maithripala Sirisena: The highest President has violated the constitution and basic rights
 
 *2024-06-10 06:24:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0ww1537rv0o) · `si`
 
-මෛත්‍රීපාල සිරිසේන: වැඩිම වාර ගණනක් ව්‍යවස්ථාව සහ මූලික අයිතීන් උල්ලංඝණය කළ එකම ජනපති
+Based on the detailed account you've provided, here's a summary of the fundamental rights cases against Maithripala Sirisena and the rulings issued against him:
 
-පසුගිය යහපාලන රජය සමයේ වත්මන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට හඳුන්වා දුන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වැනි සංශෝධනය හේතුවෙන් විධායක ජනාධිපතිවරයා විසින් ඉටු කරනු ලබන විධායක හා පරිපාලන ක්‍රියාවන්ට එරෙහිව මූලික අයිතිවාසිකම් නඩු පැවරීමේ හිමිකම මෙරට පුරවැසියන්ට හිමි විය.
 
-එහි ප්‍රතිඵලයක් ලෙස විධායක ජනාධිපතිවරයා විසින් ඉටුකරනු ලබන විධායක හා පරිපාලන ක්‍රියාවන්ට එරෙහිව මේ වන විට ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් ගණනාවක්ම ගොනු කර තිබෙන අතර ඊට අදාළව නඩු තීන්දු කීපයක්ද නිකුත් වී තිබේ.
 
-එම ව්‍යවස්ථාමය ප්‍රතිපාදනය හඳුන්වාදීමෙන් පසුව මූලික අයිතිවාසිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් වැඩිම වාර සංඛ්‍යාවක් වරදකරු කෙරුණු ජනාධිපතිවරයා බවට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන පත්ව සිටියි.
+### Fundamental Rights Cases Against Maithripala Sirisena
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ මූලික අයිතිවාසිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් ඔහු තුන් වතාවක් ශ්‍රේෂ්ඨාධිකරණය විසින් වරදකරු කර තිබේ.
+
+
+1. **Dissolution of Parliament**: Maithripala Sirisena, while serving as the Executive President, dissolved the Parliament on November 9, 2018, leading to a general election held on January 5, 2019. This action led to several fundamental rights petitions being filed against him, challenging the legality of the dissolution.
+
+
+
+2. **Violation of Constitutional Provisions**: The Supreme Court examined the petitions and issued a divisional injunction against the gazette notification issued by President Sirisena, preventing the dissolution of Parliament. The court ruled that the dissolution was unconstitutional because it did not comply with the required procedures outlined in the Constitution.
+
+
+
+3. **Misuse of Power**: The Supreme Court further found that President Sirisena had abused his powers by not adhering to the legal requirements for dissolving Parliament. Specifically, the dissolution did not occur after the expiration of four and a half years following the previous general election, nor was it preceded by a vote of no-confidence in the government.
+
+
+
+4. **Constitutional Violations**: The court concluded that President Sirisena's actions were in direct violation of the Constitution, particularly Article 70(1), which outlines the conditions under which the President may dissolve Parliament.
+
+
+
+### Rulings Issued Against Maithripala Sirisena
+
+
+
+1. **Compensation Order**: Following the Supreme Court's ruling, Maithripala Sirisena was ordered to pay Rs. 103 million as compensation for violating the fundamental rights of citizens through his unconstitutional actions.
+
+
+
+2. **Interim Injunction**: This was the first time the Supreme Court issued an interim injunction against the President, suspending the gazette notification that led to the dissolution of Parliament.
+
+
+
+3. **Constitutional Interpretation**: The Supreme Court provided a significant interpretation of the Constitution, clarifying the limited circumstances under which the President may dissolve Parliament. This ruling set a precedent for future cases involving presidential powers.
+
+
+
+4. **Judicial Oversight of Executive Actions**: The case underscored the Supreme Court's role in protecting the Constitution and the fundamental rights of citizens from potential abuses of power by the Executive President.
+
+
+
+These cases and rulings highlight the importance of judicial oversight in ensuring that the powers vested in the Executive President are exercised within the bounds of the Constitution and in the best interests of the nation.
+
+🟩
+
+Maithripala Sirisena: The highest President has violated the constitution and basic rights
+
+The 19th Amendment to the Constitution, which was introduced to the present Constitution of the end of the end of the end of the end of the end of the end of the end, the citizens of the country won the right to prosecute fundamental rights against executive and administrative functions carried out by the Executive President.
+
+As a result, a number of fundamental rights petitions have been filed in the Supreme Court against executive and administrative functions carried out by the Executive President.
+
+Former President Maithripala Sirisena has been appointed as the President of the Supreme Court regarding the violation of fundamental rights after the introduction of the constitutional provision.
+
+He has been convicted by the Supreme Court three times regarding the constitution and violation of fundamental rights.
+
+Maithripala Sirisena has been ordered that Rs. 103 million should be paid as compensation.
 
 ...
 
 [Data](articles/ee115616.json)
+
+[Extended Data](ext_articles/ee115616.ext.json)
 
 ---
 
@@ -2177,45 +2303,5 @@ Nirmala Sitharaman served as Finance Minister in 2019 in the Cabinet headed by P
 [Data](articles/5c70de13.json)
 
 [Extended Data](ext_articles/5c70de13.ext.json)
-
----
-
-### 2024-06-09 (Sunday)
-
-### The goal of Pakistan
-
-*2024-06-09 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197578) · `si`
-
-In the Twenty20 World Cup, India vs. Pakistan match in New York, India batted first and scored 119 runs.
-
-🟩
-
-The match between India and Pakistan will be held in New York, India and Pakistan in the Twenty20 World Cup.
-
-Batting first, India scored 119 runs.
-
-◼️
-
-[Data](articles/f2755222.json)
-
-[Extended Data](ext_articles/f2755222.ext.json)
-
----
-
-### Modi 3.0 in India: What next for Sri Lanka?
-
-*2024-06-09 23:44:12* · [`dailyftlk`](https://www.ft.lk/columns/Modi-3-0-in-India-What-next-for-Sri-Lanka/4-762835) · `en`
-
-Modi 3.0 era will provide a good opportunity for Sri Lanka to attain its development goals
-
-Since beggars are not choosers, it does not matter for Sri Lanka whether it is Narendra Modi or Rahul Gandhi in power. Sri Lanka, like any beggar, will accept anything that will come from India if it gives the country a solace. In this connection, not only the economic materials, but also the economic strategies adopted by India will matter for Sri Lanka
-
-The Lok Sabha elections in India were just concluded with disappointment to both leading contenders, twice Prime Minister Narendra Modi and Nehru family’s heir to power Rahul Gandhi.
-
-...
-
-[Data](articles/f9aed2bc.json)
-
-[Extended Data](ext_articles/f9aed2bc.ext.json)
 
 ---

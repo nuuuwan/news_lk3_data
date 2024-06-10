@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 03:53:05**
+As of **2024-06-11 04:05:33**
 
 ## Newspaper Stats
 
-*Scraped **29,681** Articles*
+*Scraped **29,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,475
+tamilmirrorlk | 3,477
 virakesarilk | 4,554
 dailymirrorlk | 4,703
 adaderanasinhalalk | 4,773
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,681 (100.0%) of 29,681 articles have been extended.
+29,681 (100.0%) of 29,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,6 +166,22 @@ Emerchemie NB Ceylon Ltd., is celebrating its 25th anniversary in June, enjoying
 
 ---
 
+### ’கோமாளிக்கூத்துக்கு எதிராக பிரசாரம்’
+
+*2024-06-11 01:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோமாளிக்கூத்துக்கு-எதிராக-பிரசாரம்/175-338739) · `ta`
+
+தமிழ் பொதுவேட்பாளர் என்ற கோமாளிக்கூத்துடன் எமக்கு உடன்பாடில்லை. இதற்கெதிராக மக்கள் மத்தியில் இலங்கை தமிழரசு கட்சி பிரசாரம் செய்யும் என அந்தக் கட்சியின் பேச்சாளர் எம். ஏ. சுமந்திரன் தெரிவித்துள்ளார்.
+
+சுமந்திரன் தரப்பினரின் ஏற்பாட்டில் தந்தை செல்வா கேட்போர் கூடத்தில் “ஈழத் தமிழர் சுயநிர்ணய உரிமை பொது நிலைப்பாடும் பொது வாக்கெடுப்பும்” என்ற தலைப்பில்  ஞாயிற்றுக்கிழமை (09)  நடத்தப்பட்ட அரசியல் கருத்துக் களத்தில் உரையாற்றியபோதே சுமந்திரன் எம். பி. இவ்வாறு கூறினார்.
+
+“பொதுமக்களால் தெரிவு செய்யப்பட்ட மக்கள் பிரதிநிதிகளே, அரசியல் முடிவுகளை எடுக்க வேண்டும்.  சிவில் சமூகக்குழுக்கள் ஏதாவது ஆலோசனை சொல்லலாமே தவிர, அரசியல் முடிவுகள் எடுப்பதற்கான மக்கள் ஆணையை பெறாதவர்கள்  என்றார்.
+
+...
+
+[Data](articles/1a8636ca.json)
+
+---
+
 ### ACFA seminar on risk of liability due to ignorance of narcotics on 19 June
 
 *2024-06-11 01:27:09* · [`dailyftlk`](https://www.ft.lk/business/ACFA-seminar-on-risk-of-liability-due-to-ignorance-of-narcotics-on-19-June/34-762914) · `en`
@@ -285,6 +301,22 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 [Data](articles/eca2d069.json)
 
 [Extended Data](ext_articles/eca2d069.ext.json)
+
+---
+
+### அருட்தந்தையை சந்தித்தார் சஜித்
+
+*2024-06-11 01:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருட்தந்தையை-சந்தித்தார்-சஜித்/175-338737) · `ta`
+
+யாழ்ப்பாணம் ரோமன் கத்தோலிக்க மறைமாவட்டத்தின் அருட்தந்தை ஜோசப் பத்திநாதர் ஜெபரத்தினம் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோர்  இடையிலான விசேட சந்திப்பொன்று யாழ் ஆயர் இல்லத்தில் திங்கட்கிழமை (10) இடம்பெற்றது.
+
+யாழ்ப்பாணம் ரோமன் கத்தோலிக்க மறைமாவட்டத்தின் அருட்தந்தை ஜோசப் பத்திநாதர் ஜெபரத்தினத்திடம், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, தமது எதிர்கால அரசியல் நடவடிக்கைகளுக்காக ஆசி பெற்றுக் கொண்டதன் பின்னர், யாழ் மாவட்டத்தின் குறைபாடுகள் தொடர்பில் நீண்ட நேரம் கலந்துரையாடினார்.
+
+யுத்தத்தின் பின்னர் யாழ் மாவட்ட அபிவிருத்தியின் முன்னேற்றங்கள் குறித்து கேட்டறிந்த எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் வடக்கு மற்றும் கிழக்கு மாகாணங்களை மையப்படுத்தி சர்வதேச நன்கொடையாளர்கள் மாநாட்டை நடத்தி, இதன் பலன்களை வடக்கு மக்களுக்கு வழங்கி இந்தப் பிரதேசங்களை மேலும் அபிவிருத்தி செய்து தருவதாக யாழ்ப்பாணம் ரோமன் கத்தோலிக்க மறைமாவட்டத்தின் அருட்தந்தை ஜோசப் பத்திநாதர் ஜெபரத்தினத்திடம் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/dffd25f0.json)
 
 ---
 
@@ -2157,53 +2189,5 @@ Speaking at the event, the filmmaker and director's friend, Pilomin Raj, said, �
 [Data](articles/8cc3a5ac.json)
 
 [Extended Data](ext_articles/8cc3a5ac.ext.json)
-
----
-
-### A Sri Lankan woman who lost her hand due to the impact of a flesh in Australia
-
-*2024-06-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185755) · `ta`
-
-A Sri Lankan woman visiting her family in Melbourne, Australia, lost her hand due to a rare flesh-eating bacterial infection known as a brush ulcer. The 74-year-old woman, identified as Carmel Rodrigo, experienced severe pain and swelling in her left hand before being rushed to the hospital. Despite immediate medical attention, doctors had to amputate her hand to control the spread of the infection. She remains in a coma, indicating the severity of her condition. This case highlights the dangers of brush ulcers, which can be spread by mosquitoes and other animals that damage skin and soft tissue, and have been previously diagnosed in various Australian states.
-
-🟩
-
-Australian media reports that an elderly woman from a Sri Lankan elderly woman who went to visit her family to Melbourne in Australia has lost her hand after the impact of a rare germ eating.
-
-A 74 -year -old elderly elderly woman named Carmel Rodrigo has gone to visit her daughter in Melbourne, Australia.
-
-The elderly woman was staying with her daughter for several months, and she suffered pain as he was shot in his left hand last month.. He is screaming in pain. He has swollen all over his hand and becomes slightly blue.
-
-Was taken to the hospital immediately. It is later found that the elderly woman is suffering from "deadly" brush ulcer. It is usually referred to as a rare type of "flesh -eating" disease. It is a germ infection.
-
-Doctors to control the disease have removed the old woman's left hand by surgery.
-
-In this case, he has been in a coma for the past three weeks. Because if he is conscious, his pain will be "unable to bear".
-
-...
-
-[Data](articles/71a4574e.json)
-
-[Extended Data](ext_articles/71a4574e.ext.json)
-
----
-
-### All train services from tomorrow!
-
-*2024-06-10 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185756) · `ta`
-
-The Railway Department announced today that all train services will resume as normal starting Tuesday morning, following the completion of the Railway Drivers Association's workplace.
-
-🟩
-
-The Railway Department has said that the workplace of the Railway Drivers Association has been completed.
-
-In this case, the Railway Department said that all train services will be held as usual from Tuesday morning.
-
-◼️
-
-[Data](articles/09c4bf39.json)
-
-[Extended Data](ext_articles/09c4bf39.ext.json)
 
 ---

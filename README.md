@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 17:56:39**
+As of **2024-06-10 18:13:39**
 
 ## Newspaper Stats
 
-*Scraped **29,595** Articles*
+*Scraped **29,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,530
-adaderanalk | 3,355
-tamilmirrorlk | 3,466
+adaderanalk | 3,356
+tamilmirrorlk | 3,467
 virakesarilk | 4,538
 dailymirrorlk | 4,693
 adaderanasinhalalk | 4,763
@@ -26,29 +26,75 @@ adaderanasinhalalk | 4,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,593 (100.0%) of 29,595 articles have been extended.
+29,595 (100.0%) of 29,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ඊශ්‍රායලයේ ප්‍රබලයෙක් ඉල්ලා අස්වෙයි
+### India to establish industrial zone in Trinco; Jaishankar to visit Sri Lanka soon
+
+*2024-06-10 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99790/india-to-establish-industrial-zone-in-trinco-jaishankar-to-visit-sri-lanka-soon-) · `en`
+
+President Ranil Wickremesinghe, who is currently in New Delhi, held a meeting today (10) with India’s External Affairs Minister Dr. S. Jaishankar.
+
+During the meeting, Mr. Jaishankar addressed the swift resumption of development projects initiated in Sri Lanka with Indian investments, which had been halted midway.
+
+He expressed his intent to visit Sri Lanka in the near future to oversee the progress of these activities.
+
+Minister Jaishankar assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and expedite the commencement of development projects funded by Indian investments.
+
+The discussions also covered India’s “Neighborhood First” policy. Minister Jaishankar highlighted plans for an industrial zone in Trincomalee, to be established by the Indian government, which will attract numerous Indian investors and potentially investors from other countries.
+
+...
+
+[Data](articles/a634c6ba.json)
+
+---
+
+### தாலியை தட்டிவிட்ட மணப்பெண்: தேம்பி தேம்பி அழுத மாப்பிள்ளை
+
+*2024-06-10 17:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலியை-தட்டிவிட்ட-மணப்பெண்-தேம்பி-தேம்பி-அழுத-மாப்பிள்ளை/175-338713) · `ta`
+
+போட்டோ ஷுட்டில் மணமக்கள் படுஉற்சாகமாகவும், மகிழ்ச்சியுடன் காணப்பட்டார்கள். அதற்கு பிறகுதான், இப்படியொரு சம்பவம் நடந்துள்ளது. சம்பவத்தில் மாப்பிள்ளை தேம்பி தேம்பி அழுதுள்ளார்.
+
+திருப்பூரைச் சேர்ந்தவர் அந்த இளம்பெண். இவருக்கு அவரது பெற்றோர் திருமண ஏற்பாடுகளை செய்து வந்தனர். இறுதியில், கடந்த 2 மாதங்களுக்கு முன்பு, ஒரு மாப்பிள்ளையை பார்த்து திருமணம் நிச்சயம் செய்தார்கள்.
+
+தற்கு பிறகு இளம்பெண்ணும், அந்த இளைஞரும் செல்போனில் பேசி பழகி வந்தார்கள். மற்றொருபக்கம் இரு வீட்டிலுமே திருமண ஏற்பாடுள் பலமாக நடந்து கொண்டிருந்தது.
+
+இந்நிலையில், இவர்களுக்கு திருமண தேதி குறிக்கப்பட்டிருந்தது. இதையடுத்து, திருப்பூரில் உள்ள ஒரு தனியார் மண்டபத்தில் திருமணத்திற்கு முந்தைய நாள், அதாவது போட்டோ ஷூட் நடந்துள்ளது.
+
+இதற்காக மணமக்கள் குடும்பத்தினரும், மண்டபத்துக்கு உற்சாகமாக வந்தனர். மணமகன், மணமகள் இருவருமே போட்டோ ஷூட்டில் மிகவும் மகிழ்ச்சியாக காணப்பட்டனர். போட்டோ ஷூட்டினை, இருவருமே உற்சாகத்துடன் நடத்தினர்.
+
+...
+
+[Data](articles/aaa84472.json)
+
+---
+
+### Israel resigns
 
 *2024-06-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197608) · `si`
 
-ඊශ්‍රායල යුද කැබිනට්ටුවේ අමාත්‍ය බෙනී ගැන්ට්ස් ඉන් ඉල්ලා අස්වී තිබේ.
+Israel's military cabinet resigns, criticizing PM Benjamin for hindering peace efforts. The resignation highlights internal conflicts and political rivalry within the government.
 
-එහිදී ඔහු අවධාරණය කළේ, වත්මන් ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු සැබෑ ජයග්‍රහණයක් අත්කරගැනීමට ඊශ්‍රායලයට ඇති අවස්ථාව අවහිර කරමින් සිටින බවය.
+🟩
 
-යුද්ධයෙන් මිනිසුන්ට විඳීමිට සිදුව ඇති වේදනාකාරී අත්දැකීම් අගමැතිවරයා සාධාරණීකරණය කරමින් සිටින බවට චෝදනා කරන ගැන්ට්ස් වැඩිදුරටත් පැවසුවේ, යුද්ධයෙන් පසුව කටයුතු කරන ආකාරය සම්බන්ධව වත්මන් රජයට සැලැස්මක් නොමැති බවය.
+The Israeli Army Cabinettt has resigned.
 
-ඊශ්‍රායල හමුදාවේ හමුදාපතිවරයෙක්ව සිටි බෙනී ගැන්ට්ස්, නෙතෙන්යාහු අගමැතිවරයාගේ ප්‍රබල දේශපාලන ප්‍රතිවාදියෙක් ද වෙයි.
+He emphasized that the present Israeli Prime Minister Benjaminiu is blocking the opportunity to achieve a true victory.
 
-කෙසේ නමුත් ඊශ්‍රායල ගාසා යුද්ධයේදී එක්ව කටයුතු කිරීමට ගැන්ට්ස් සහ නෙතෙන්යාහු එකඟතාවකට පැමිණි සිටියේය.
+The Prime Minister is justifying the Prime Minister that is justifying the Prime Minister to suffer from war.
+
+The Israeli Army Commander, Benny Army Commander, is also a powerful political rival of the Prime Minister of Prime Minister.
+
+However, the Israeli Waawan reached a gang and Nethenya.
 
 ◼️
 
 [Data](articles/ef242ff2.json)
+
+[Extended Data](ext_articles/ef242ff2.ext.json)
 
 ---
 
@@ -67,6 +113,8 @@ The Chairman of the Sri Lanka Land Development Corporation, Hiran Balasuriya ind
 ...
 
 [Data](articles/953af93c.json)
+
+[Extended Data](ext_articles/953af93c.ext.json)
 
 ---
 
@@ -2285,53 +2333,5 @@ The body of the deceased student has been placed at the Kandy Teaching Hospital.
 [Data](articles/de812ff0.json)
 
 [Extended Data](ext_articles/de812ff0.ext.json)
-
----
-
-### Body found on Wadduwa beach
-
-*2024-06-10 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197587) · `si`
-
-A body, believed to be of a man aged 40-45 wearing blue jeans and white socks, was discovered on Wadduwa beach. The identity remains unknown as police continue investigating, with officials from the Panadura Divisional Secretariat expected to arrive. Inspector Gayan Kahatapitiya is leading the probe.
-
-🟩
-
-The Busharukara, who had been assassinated in the t-shirt, was found on the beach in Wadduwa, the Thawarderakara, the Thawarderakara.
-
-Police said who the victim has not been identified yet.
-
-Police suspect that the person who bed is a blue denim trousers and the white sock block is aged between 40 to 45 years.
-
-The Panadura Divisional Secretariat officials are due to arrive at the location of the corpse.
-
-The Wadduwa OIC (Acting) Inspector Gayan Kahatapitiya are conducting further investigations.
-
-◼️
-
-[Data](articles/3086caa7.json)
-
-[Extended Data](ext_articles/3086caa7.ext.json)
-
----
-
-### French President dissolves parliament and calls a snap election
-
-*2024-06-10 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/French-President-dissolves-parliament-and-calls-a-snap-election/108-284474) · `en`
-
-PARIS (AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
-
-The legislative elections will take place in two rounds on June 30 and July 7.
-
-The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
-
-Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
-
-Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
-
-...
-
-[Data](articles/ac088b96.json)
-
-[Extended Data](ext_articles/ac088b96.ext.json)
 
 ---

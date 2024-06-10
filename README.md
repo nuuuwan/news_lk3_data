@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 23:19:11**
+As of **2024-06-10 23:34:35**
 
 ## Newspaper Stats
 
-*Scraped **29,637** Articles*
+*Scraped **29,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,471
 virakesarilk | 4,551
-dailymirrorlk | 4,698
+dailymirrorlk | 4,700
 adaderanasinhalalk | 4,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,637 (100.0%) of 29,637 articles have been extended.
+29,637 (100.0%) of 29,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Non-communicable diseases cause nearly 90% of deaths in Sri Lanka
+
+*2024-06-10 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-communicable-diseases-cause-nearly-90-of-deaths-in-Sri-Lanka/108-284531) · `en`
+
+Colombo, June 10 (Daily Mirror) - Sri Lanka is facing a health crisis of non-communicable diseases (NCDs) which account for 89% of deaths, according to Health Secretary Dr. Palitha Mahipala.
+
+The hardest hit are those aged 50 to 60, with four out of ten falling victim to NCDs.
+
+“Each year, 60,000 Sri Lankans suffer strokes, resulting in 4,000 deaths and leaving thousands with serious health issues,” the health secretary underscored.
+
+“Smoking is another major killer, causing 20,000 deaths annually,” he added.
+
+To combat this, the Japan International Cooperation Agency (JICA) is investing Rs 70 billion over the next five years. Their plan includes boosting primary health care and setting up five cardiac catheterization units across the island.
+
+◼️
+
+[Data](articles/c7d403f2.json)
+
+---
+
+### Elon Musk’s thank you note to Indian-origin man behind Tesla’s AI success
+
+*2024-06-10 22:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Elon-Musks-thank-you-note-to-Indian-origin-man-behind-Teslas-AI-success/107-284533) · `en`
+
+Elon Musk, on Sunday, expressed gratitude towards Indian-origin Ashok Elluswamy – the first person hired for Tesla's autopilot team.
+
+The tech billionaire has credited Mr Ashok for Tesla's “success in AI” and autopilot software.
+
+Quote-tweeting Mr Ashok's note on X (formerly Twitter), Elon Musk said, “Thanks Ashok! Ashok was the first person to join the Tesla AI/Autopilot team and ultimately rose to lead all AI/Autopilot software. Without him and our awesome team, we would just be another car company looking for an autonomy supplier that doesn't exist. BTW, I never suggested that he say anything and I had no idea he wrote this until I saw it 10 minutes ago!”
+
+Ashok Elluswamy, in his detailed note, said, “Elon Musk has been the key driver of AI and autonomy at Tesla. He has always pushed us to achieve great things, even when such ideas were seemingly impossible at the time.”
+
+Mr Ashok also talked about an instance that goes back to 2014, when “autopilot started on a ridiculously tiny computer”.
+
+...
+
+[Data](articles/1139eb1c.json)
+
+---
 
 ### The causes of the benchmates
 
@@ -2277,53 +2317,5 @@ Fitch Ratings – Colombo – 10 Jun 2024: Fitch Ratings has assigned Commercial
 [Data](articles/f9800215.json)
 
 [Extended Data](ext_articles/f9800215.ext.json)
-
----
-
-### Substandard soaps cause skin allergies in babies
-
-*2024-06-10 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Substandard-soaps-cause-skin-allergies-in-babies/108-284503) · `en`
-
-Colombo, June 10 (Daily Mirror) - According to the Government Family Health Services Association, it has been reported that various allergies have occurred on the skin of babies due to the use of substandard soaps.
-
-Association treassure Priyangani Susangika said some parents use substandard soap for their babies now, and that its impacts will be felt in the future.
-
-Therefore, she requested the parents choose a baby soap approved by the Sri Lanka Standards Institution (SLSI).
-
-"The baby skin is very sensitive. The results of using substandard soap will not be evident today but will be seen after many years. Therefore, parents should be very careful when using soap," she said.
-
-◼️
-
-[Data](articles/a410214a.json)
-
-[Extended Data](ext_articles/a410214a.ext.json)
-
----
-
-### People's Opposition to Nellikulam Mountain Break in Trincomalee
-
-*2024-06-10 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185726) · `ta`
-
-Residents of Trincomalee's Muttur East oppose a planned rock breaking operation on Nellikkulam mountain, fearing it will destroy their livelihoods and natural forests. Despite protests, machinery remains, leading to concerns over environmental and economic impacts.
-
-🟩
-
-The people of the area protested when they tried to start a breakdown with a rock break on Saturday (08) to break the rocks of the Nellikkulam mountain range in the Muttur East of the Trincomalee district.
-
-But the breakdown machine has not yet been removed from the area. He said that the President of the Senayoor Rural Development Association had lodged a complaint with the matter.
-
-People gathered in the area on Sunday (09).
-
-We must stop the work of destroying our livelihood for the development of the rest of the country. The question was who was allowed to break the mountains to affect the livelihood.
-
-Adult. The area is the people who rely on livelihood efforts such as mercenaries, paddy and walking.
-
-He said that the fields surrounding the mountain, the natural forest of the mountain, said that the risk of collapsing would be destroyed.
-
-◼️
-
-[Data](articles/42a74ad5.json)
-
-[Extended Data](ext_articles/42a74ad5.ext.json)
 
 ---

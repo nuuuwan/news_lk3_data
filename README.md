@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 07:00:35**
+As of **2024-06-10 07:25:25**
 
 ## Newspaper Stats
 
-*Scraped **29,466** Articles*
+*Scraped **29,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 3,335
 tamilmirrorlk | 3,450
 virakesarilk | 4,519
 dailymirrorlk | 4,672
-adaderanasinhalalk | 4,739
+adaderanasinhalalk | 4,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,463 (100.0%) of 29,466 articles have been extended.
+29,466 (100.0%) of 29,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### අදත් තරමක තද වැසි
+### ඉන්දියාවට තියුණු ජයක්
+
+*2024-06-10 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197581) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියේ පාකිස්තානය අතර පැවති තරගයෙන් ඉන්දියානු කණ්ඩායම ලකුණු 6ක තියුණු ජයක් හිමි කරගත්තේය.
+
+තරගයේ කාසියේ වාසිය දිනු පාකිස්තාන කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට ඉන්දියාවට ආරාධනා කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පන්දු වාර 19ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 119ක් රැස්කළේය.
+
+ලකුණු 120ක ඉලක්කයක් හඹාගිය පාකිස්තාන කණ්ඩායමට පන්දු වාර 20 අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 113ක් පමණි.
+
+◼️
+
+[Data](articles/95efd0d9.json)
+
+---
+
+### Heavy rains today
 
 *2024-06-10 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197579) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, heavy rains are expected across several regions, including the Western, Sabaragamuwa, and Northwestern provinces, with intense rainfall predicted in areas like Kandy, Nuwara Eliya, Galle, and Matara. The Nuwara Eliya region may see over 50mm of rain. Showers or night thundershowers are also forecasted for the Uva Province and along the Western slopes of the central hills, as well as in Trincomalee, Hambantota, and Moneragala Districts. Strong winds are anticipated, prompting the Department of Meteorology to advise caution against potential wind and lightning hazards.
 
-සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-ඌව පළාතේ ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces will experience a few showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව සඳහන් වේ.
+In some places in the Nuwara Eliya area in the Sabaragamuwa Province, mm. Heavy rains can occur in more than 50.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or night thundershowers will occur at evening or night in the Uva Province.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. It is said that there is about strong winds.
+
+The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9a25cc32.json)
+
+[Extended Data](ext_articles/9a25cc32.ext.json)
 
 ---
 
@@ -588,19 +612,25 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
-### அமித் ஷா, நிர்மலாவுக்கு மீண்டும் அமைச்சுக்கள்
+### Amit Shah, Ministries to Nirmala
 
 *2024-06-10 00:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமித்-ஷா-நிர்மலாவுக்கு-மீண்டும்-அமைச்சுக்கள்/175-338670) · `ta`
 
-நரேந்தி மோடி நேற்று மூன்றாவது முறையாக பிரதமராக பதவியேற்றுக் கொண்டார். அவரது தலைமையிலான மத்திய அமைச்சரவையில் பா.ஜ.க. மற்றும் தேசிய ஜனநாயக கூட்டணி கட்சியின் உறுப்பினர்கள் இடம்பெற்றுள்ளனர்.
+Narendra Modi was sworn in as India's Prime Minister for his third term, leading a BJP-majority government. Key ministers including Amit Shah, Rajnath Singh, Nitin Gadkari, Nirmala Sitharaman, S.Jaishankar, Piyush Goyal, and Ashwini Vaishnav were retained, with Sitharaman previously serving as Finance Minister from 2019.
 
-இதில் ஏற்கெனவே பிரதமர் மோடியின் அமைச்சரவையில் அங்கம் வகித்த ராஜ்நாத் சிங், அமித் ஷா, நிதின் கட்கரி, நிர்மலா சீதாராமன், எஸ்.ஜெய்சங்கர், பியூஷ் கோயல், அஸ்வினி வைஷ்ணவ் ஆகியோர் மீண்டும் மத்திய அமைச்சர்களாக பங்கேற்றுள்ளனர்.
+🟩
 
-பிரதமர் மோடி தலைமையிலான அமைச்சரவையில் கடந்த 2019 இல் நிதி அமைச்சராக நிர்மலா சீதாராமன் பணியாற்றினார். கர்நாடக மாநிலத்தில் இருந்து தேர்வு செய்யப்பட்ட மாநிலங்களவை உறுப்பினர். செப்டம்பர் 2017 முதல் மே 2019 வரையில் மோடியின் முதல் ஆட்சியில் பாதுகாப்பு துறை அமைச்சராக பணியாற்றினார். (a)
+Narendi Modi was sworn in as prime minister for the third time yesterday. The BJP in the Union Cabinet headed by him. And the members of the National Democratic Alliance party.
+
+Rajnath Singh, Amit Shah, Nitin Gadkari, Nirmala Sitharaman, S.Jaishankar, Push Goyal and Aswini Vaishnav, who have already been a member of Prime Minister Modi's cabinet, have re -participated as Union Ministers.
+
+Nirmala Sitharaman served as Finance Minister in 2019 in the Cabinet headed by Prime Minister Modi. Member of Rajya Sabha selected from Karnataka State. From September 2017 to May 2019, Modi served as Defense Minister. (A)
 
 ◼️
 
 [Data](articles/5c70de13.json)
+
+[Extended Data](ext_articles/5c70de13.ext.json)
 
 ---
 
@@ -681,6 +711,8 @@ The Lok Sabha elections in India were just concluded with disappointment to both
 ...
 
 [Data](articles/8add1e6f.json)
+
+[Extended Data](ext_articles/8add1e6f.ext.json)
 
 ---
 
@@ -2191,31 +2223,5 @@ President Ranil Wickremesinghe arrived in India today to attend the swearing-in 
 [Data](articles/f4753fa7.json)
 
 [Extended Data](ext_articles/f4753fa7.ext.json)
-
----
-
-### Protest
-
-*2024-06-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பட்டத்தை-பாடையில்-கட்டி-போராட்டம்/71-338643) · `ta`
-
-Unemployed graduates protested in Jaffna, organized by the Northern Province Unemployed Baddy Association, demanding jobs. They voiced concerns like "graduates at home," "need justice," and "fight for education and work." The protest aimed to secure employment opportunities, threatening more demonstrations if demands weren't met promptly.
-
-🟩
-
-Unemployed graduates launched a protest in Jaffna on Sunday (09) in Jaffna.
-
-Jaffna organized by the Northern Province Unemployed Baddy Association. The protest was carried out by the former District Secretariat.
-
-"Graduates at home in the middle of the house", "only one examination of the exam", "you need justice", "when to live our life", "When we live our lives", "Fight for studying for study and work", "Read""Until the end, are the educated people of this country?"“With slogans raised
-
-The struggle was carried out demanding employment opportunities for all graduates.
-
-They also said that they would continue to carry out massive protests if they did not meet their demands expeditiously.
-
-◼️
-
-[Data](articles/8f01633f.json)
-
-[Extended Data](ext_articles/8f01633f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 15:19:00**
+As of **2024-06-10 15:34:41**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 4,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,554 (100.0%) of 29,565 articles have been extended.
+29,565 (100.0%) of 29,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### யாழ். வடமராட்சி கொற்றாவத்தை அ.மி.த.க பாடசாலையின் திறன் விருத்தி வகுப்பறை சஜித்தினால் திறப்பு !
+### Yall. Vadamarachchi Kottawattai AMP school skills
 
 *2024-06-10 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185744) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கொற்றாவத்தை அமெரிக்கன் மிசன் தமிழ் கலவன் பாடசாலைக்காக அமைத்துக் கொடுக்கப்பட்ட திறன் விருத்தி வகுப்பறை இன்றையதினம் எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாசவால் திறந்து வைக்கப்பட்டுள்ளது.
+Sajith Premadasa, leader of the opposition and the United People's Power, inaugurated a Skills Development Classroom at the American American Mizan Tamil Kalavan School in Jaffna. The event was attended by several notable figures including Jaffna District Parliamentarian Angananathan and Uma Chandra Prakas, Deputy Secretary of the United People's Power. This initiative aims to enhance skill development and includes the provision of five computers.
 
-முன்னதாக திறன் விருத்தி வகுப்பறையை திறந்து வைப்பதற்க்காக வருகை தந்த இலங்கை எதிர்கட்சி தலைவர் சஜித்  பிரேமதாஸ தலைமையிலான குழுவினருக்கு வெற்றிலை கொடுக்கப்பட்டு மலர்மாலை அணிவிக்கப்பட்டு வரவேற்க்கப்பட்டனர்.
+🟩
 
-பாடசாலை அதிபர் அ.பவானந்தன் தலமையில் இடம்பெற்ற இந்நிகழ்வில்  யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன், ஐக்கிய மக்கள் சக்தியின் உப செயலாளர் உமா சந்திரா பிரகாஸ், ஐக்கிய மக்கள் சக்தியின் நல்லூர் அமைப்பாளர் தொழிலதிபர் கிருபாகரன், வட்டுக்கோட்டை தொகுதி அமைப்பாளர் மு.சதாசிவம், பாடசாலை ஆசிரியர்கள், மாணவர்கள், பெற்றோர்கள், பழைய மாணவர்கள் என பலரும் கலந்துகொண்டனர்.
+The Skills Development Classroom, which has been set up for the American American Mizan Tamil Kalavan School in Jaffna, has been opened today by Sajith Premadasa, the leader of the opposition and the leader of the United People's Power.
 
-இத் திட்டத்தின் கீழ் திறன் விருத்தி தொலைக்காட்சி, 5 கணனிகள் என்பன வழங்கப்பட்டிருந்ததமை குறிப்பிடத்தக்கது.
+Earlier, a group led by Sri Lanka Opposition Leader Sajith Premadasa, who had come to the opening of the Skills Development Classroom, was greeted and greeted.
+
+Jaffna District Parliamentarian Angananathan, Deputy Secretary of the United People's Power Uma Chandra Prakas, United People's Power Organizer KripakaranAttended.
+
+It is noteworthy that under this scheme, skill development and 5 computers were provided.
 
 ◼️
 
 [Data](articles/ebdce8f1.json)
 
+[Extended Data](ext_articles/ebdce8f1.ext.json)
+
 ---
 
-### சஜித்துடன் கைகோர்த்த அங்கஜன்
+### Angajan joined hands with Sajith
 
 *2024-06-10 14:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சஜித்துடன்-கைகோர்த்த-அங்கஜன்/71-338704) · `ta`
 
-யாழ்ப்பாணத்தில் ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சி தலைவருமான சஜித் பிரேமதாச கலந்து கொண்ட நிகழ்வில், ஸ்ரீலங்கா சுதந்திர கட்சியின் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனும் கலந்து கொண்டிருந்தார்.
+Angajan Ramanathan, a Sri Lanka Freedom Party parliamentarian, joined Sajith Premadasa, the United People's Power Leader and Opposition Leader, at the opening of the Skills Classroom at the American Mission Tamil Kalavan School in Vadamarachchi Kotawatam. The event highlighted their commitment to improving education and addressing community issues directly, emphasizing unity and support for the 13th Amendment.
 
-வடமராட்சி கொற்றாவத்தை அமெரிக்கன் மிஷன் தமிழ் கலவன் பாடசாலையின் திறன் வகுப்பறையை உத்தியோகபூர்வமாக திறந்து வைக்கும் நிகழ்வு  திங்கட்கிழமை (10) நடைபெற்றது.  இந்நிகழ்வில் எதிர்க்கட்சி தலைவர்சஜித் பிரேமதாச கலந்து கொண்டு, திறன் வகுப்பறையை திறந்து வைத்தார்.
+🟩
 
-" மாவட்ட கல்வி அபிவிருத்திக்கான இப்பங்களிப்புக்கு நன்றி தெரிவிக்கும் வகையில் தான் இந்நிகழ்வில் கலந்து கொண்டிருந்தேன்.
+Sri Lanka Freedom Party (SLFP) parliamentarian Anganan Ramanathan was also present at the event attended by United People's Power Leader and Opposition Leader Sajith Premadasa.
 
-இதன்போது, எமது மக்களின் கல்வியை மேம்படுத்துவதன் அவசியத்தையும், அதன் இலக்கில் நாம் இருவரும் பயணிப்பதே எமக்கிடையேயான ஓர் ஒற்றுமையாக உள்ளது.
+The official opening of the Skills Classroom of the American Mission Tamil Kalavan School in Vadamarachchi Kotawatam was held on Monday (10).Opposition Leader Sajid Premadasa participated in the event and opened the skill classroom.
 
-அதேவேளை, 13வது திருத்தச்சட்டம் தொடர்பாக எதிர்கட்சித்தலைவர் வாக்குறுதி வழங்கியுள்ள நிலையில், அதனை வரவேற்பதுடன் எமது மக்களின் பிரச்சனைகள் மற்றும் கோரிக்கைகள் தொடர்பாக இடைத்தரகர்கள் இல்லாமல் நேரடியாக அறிந்து கொள்ள வேண்டும், அவ்வாறு செய்யும் பட்சத்தில் அதனை நாம் வரவேற்போம் "  என தெரிவித்தார்.
+“I was attending the event to thank the district education development.
+
+At this time, it is a unity between us that we both travel on the need to improve the education of our people.
+
+At the same time, as the Opposition Leader has promised on the 13th Amendment, it is welcomed and we will be welcomed directly without intermediaries on the problems and demands of our people.
 
 ◼️
 
 [Data](articles/e892b1e1.json)
+
+[Extended Data](ext_articles/e892b1e1.ext.json)
 
 ---
 
@@ -88,39 +100,53 @@ Joining a press conference held this morning (10), Additional General Manager (A
 
 [Data](articles/0271d19f.json)
 
+[Extended Data](ext_articles/0271d19f.ext.json)
+
 ---
 
-### දුම්රිය වර්ජනය අවසන්
+### Railway strike ends
 
 *2024-06-10 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197604) · `si`
 
-ප්‍රවාහන අමාත්‍යවරයා සමග පැවති සාකච්ඡාවකින් අනතුරුව දුම්රිය වෘත්තීය සමිති සිය වර්ජනය අවසන් කිරීමට තීරණය කර තිබේ.
+Following discussions with the Transport Minister, Railway Trade Unions ended their strike. The decision came after talks between Minister Bandula Gunawardena and various railway worker unions, including those representing locomotive engineers.
 
-ප්‍රවාහන අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා සහ දුම්රිය රියදුරු වෘත්තිය සමිති අතර මෙම සාකච්ඡාව ප්‍රවාහන අමාත්‍යාංශයේදී සිදුකර ඇත.
+🟩
 
-ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ දුම්රිය එන්ජින් රියදුරන් පිරිසක් විසින් මෙම වර්ජනය ආරම්භ කළේ දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවා ගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල්කර ගනිමිනි.
+After a discussion with the Minister of Transport, the Railway Trade Unions have decided to finish their strike.
+
+Transport Minister Bandula Gunawardena and the train driver vocational trade unions have been conducted at the Transport Ministry.
+
+The strike commenced the strike by a group of Lokomotive Opposition Association's Railway Engineers Association.
 
 ◼️
 
 [Data](articles/01582b55.json)
 
+[Extended Data](ext_articles/01582b55.ext.json)
+
 ---
 
-### ஓகஸ்டில் மோடி வருகிறார்
+### Modi is coming in August
 
 *2024-06-10 14:39:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்டில்-மோடி-வருகிறார்/175-338703) · `ta`
 
-இந்தியப் பிரதமர் நரேந்திர மோடி இந்த ஆண்டு ஓகஸ்ட் மாதம் இலங்கைக்கு விஜயம் செய்யவுள்ளதாக ஜனாதிபதி அலுவலக அதிகாரிகள் இங்கு செய்தியாளர்களிடம் தெரிவித்தனர்.
+Narendra Modi, India's PM, will visit Sri Lanka in August at the invitation of President Ranil Wickremesinghe. The visit was confirmed after discussions between Wickremesinghe and Indian Foreign Minister S. Jaishankar.
 
-பிரதமர் மோடியின் பதவியேற்பு விழாவில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, ராஷ்டிரபதி பவனில் மோடியை ஞாயிற்றுக்கிழமை சந்தித்துப் பேசியபோது, ​​இலங்கைக்கு வருமாறு மோடிக்கு அழைப்பு விடுத்திருந்தார்.
+🟩
 
-இந்திய வெளியுறவுத்துறை அமைச்சர் எஸ்.ஜெய்சங்கருடன் பிரதமர் மோடியின் பயணம் குறித்து விக்கிரமசிங்க  புது டெல்லியில் திங்கட்கிழமை (10) கலந்துரையாடினார்.
+Indian Prime Minister Narendra Modi will visit Sri Lanka in August this year, President's Office officials told reporters.
 
-ஜனாதிபதி மற்றும் இந்திய வெளிவிவகார அமைச்சர் இருவரும் இந்திய தலைவரின் விஜயம் குறித்து கலந்துரையாடினர், இதன் போது இந்த விஜயம் இந்த வருடம் ஓகஸ்ட் மாதம் இடம்பெறும் என தெரியவந்துள்ளது. ஜெய்சங்கர், விரைவில் இலங்கைக்கு விஜயம் செய்வதாகவும், இந்தியப் பிரதமரின் பயணம் குறித்து ஆராய்வதாகவும் ஜனாதிபதி விக்கிரமசிங்கவிடம் உறுதியளித்திருந்தார்.
+President Ranil Wickremesinghe, who attended the swearing -in ceremony of Prime Minister Modi, met Modi on Sunday at Rashtrapati Bhavan and invited Modi to come to Sri Lanka.
+
+Wickremesinghe held a discussion with Indian Foreign Minister S. Jaishankar on Monday (10) in New Delhi on the visit of Prime Minister Modi.
+
+Both the President and the Indian Foreign Minister discussed the visit of the Indian President, and it was revealed that the visit would take place in August this year.. Jaishankar has assured President Wickremesinghe that he will soon visit Sri Lanka and investigate the Indian Prime Minister's visit.
 
 ◼️
 
 [Data](articles/9f05e952.json)
+
+[Extended Data](ext_articles/9f05e952.ext.json)
 
 ---
 
@@ -142,23 +168,33 @@ Modi posed for a group photo with Wickremesinghe next to him.
 
 [Data](articles/90f53e0e.json)
 
+[Extended Data](ext_articles/90f53e0e.ext.json)
+
 ---
 
-### யாழ். சென் சார்ல்ஸ் மகா வித்தியாலயத்திற்கு ஸ்மார்ட் வகுப்பறை சஜித் பிரேமதாசவால் கையளிப்பு
+### Yall. Smart Classroom Smart Classrooms Handing over to St. Charles Maha Vidyalaya by Sajith Premadasa
 
 *2024-06-10 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185741) · `ta`
 
-"நவீன உலகின் வளமான டிஜிட்டல் எதிர்காலத்திற்காக இந் நாட்டின் இளைய தலைமுறையை தொழில்நுட்பத்தில் தேர்ச்சி பெற்ற ஸ்மார்ட் கணினி பயன்பாட்டில் தேர்ச்சி பெற்ற சமூகத்தை கட்டியெழுப்புவோம்" என்ற தொனிப்பொருளில் சக்வச என்ற செயற்றிட்டத்தின் கீழ் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவின் வருகை நேற்று ஞாயிற்றுக்கிழமை (09) சென் சார்ல்ஸ் மகா வித்தியாலயத்தில் பிற்பகல் 3.30 மணியளவில் இடம்பெற்றது.
+Opposition Leader Sajith Premadasa visited St. Charles Maha Vidyalaya, inaugurating a smart classroom equipped with computers, printers, and a Smart Board. The event, themed "Sakwasa," aimed to enhance digital literacy among students for a prosperous future. Premadasa promised daily English lessons and gifted dictionaries, while acknowledging the school's need for more Buddhist resources.
 
-குறித்த நிகழ்வில் எதிர்கட்சித் தலைவர் சஜித் பிரேமதாஸ ,  ஐக்கிய மக்கள் சக்தியின் ஊடகப் பேச்சாளர் உமா சந்திர பிரகாஷ் மற்றும் ஆசிரியர்கள், மாணவர்கள் எனப் பலரும் கலந்துகொண்டனர்.
+🟩
 
-5 கணினிகளும் ,  1 அச்சுப்பொறியும் ,  smart board உம் வழங்கப்பட்டதோடு புதிய ஸ்மார்ட் வகுப்பறையும் திறந்து வைக்கப்பட்டு நேற்றையதினம்  உத்தியோகபூர்வமாக  கையளிக்கப்பட்டது.
+The visit of Opposition Leader Sajith Premadasa on Sunday (09) was held at the Sen Charles Maha Vidyalaya under the theme "Sakwasa", under the theme "Smart Computer Use of the Smart Computer Use of the country's younger generation for the prosperous digital future of the modern world."
 
-அதனைத் தொடர்ந்து முதலில் சஜித் பிரேமதாஸ அவர்களால் மங்கள விளக்கேற்றல் இடம்பெற்றதோடு அதனை அடுத்து தொடர்ந்தும் பாடசாலை மாணவிகளால் வரவேற்பு நடனம் இடம்பெற்றதோடு, பாடசாலை மாணவியினால்  வரவேற்புரை நிகழ்த்தப்பட்டது. தொடர்ந்தும் பாடசாலை அதிபர் லெனின் குமார் அவர்களால் உரை நிகழ்த்தப்பட்டது.
+Opposition leader Sajith Premadasa, United People's Power Media Spokesperson Uma Chandra Prakash and many teachers and students were present at the event.
+
+5 computers, 1 printer, Smart Board were also issued and the new smart classroom was opened and officially handed over yesterday.
+
+It was followed by Sajith Premadasa, followed by the Mangala lighting, followed by a welcome dance by schoolchildren and the school student was delivered by the school student.. The speech was continued by school principal Lenin Kumar.
+
+Continuing the speech by Kripakaran and the school principal was honored by Sajith Premadasa.
 
 ...
 
 [Data](articles/7eb363fb.json)
+
+[Extended Data](ext_articles/7eb363fb.ext.json)
 
 ---
 
@@ -175,6 +211,8 @@ Wickremesinghe had discussed the visit of Prime Minister Modi with Indian Extern
 ◼️
 
 [Data](articles/bc4025d7.json)
+
+[Extended Data](ext_articles/bc4025d7.ext.json)
 
 ---
 
@@ -250,6 +288,8 @@ Speaking at an event in Jaffna on Sunday June 09, Premadasa said an SJB governme
 
 [Data](articles/37958496.json)
 
+[Extended Data](ext_articles/37958496.ext.json)
+
 ---
 
 ### Suspected suspect in soil Podda caught at airport
@@ -291,6 +331,8 @@ The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating eveni
 ...
 
 [Data](articles/1aff787f.json)
+
+[Extended Data](ext_articles/1aff787f.ext.json)
 
 ---
 
@@ -824,23 +866,31 @@ Macron's Renasans's party receives 15 percent of the votes, which receives 31 pe
 
 ---
 
-### පස්පොඩ්ඩාට වෙඩි තැබූ වෙඩික්කරු කටුනායකදි අල්ලයි
+### Shoolent shooting was fired in Katunayake
 
 *2024-06-10 12:04:50* · [`adalk`](https://www.ada.lk/breaking_news/පස්පොඩ්ඩාට-වෙඩි-තැබූ-වෙඩික්කරු-කටුනායකදි-අල්ලයි/11-410116) · `si`
 
-ගම්පහ ප්‍රදේශයේ ප්‍රබල සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකුව සිටි " පස් පොඩ්ඩා " නැමැත්තාට වෙඩි තබා ඝාතනය කර , එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර වෙත පළා ගොස් සිටි වෙඩික්කරු  06/10 දින උදෑසන  යළි මෙරටට පැමිණෙමින් සිටියදී කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන නිලධාරීන් විසින් අත් අඩංගුවට ගෙන ගුවන් තොටුපොළ පොලිසිය වෙත භාර දීමට පියවර ගෙන තිබේ .
+In Katunayake, a school shooting occurred, followed by the arrest of immigration officials at Bandaranaike International Airport. A prominent crime boss from Negombo, who had fled to the UAE after being killed in July 2022, was shot dead upon his return. The shooter faced a flight ban from the Gampaha Magistrate's Court. The case is now under investigation by the Gampaha Police, including officials like Mr. S.J.Cilla.
 
-මොහු මීගමුව , කිඹුලපිටිය ප්‍රදේශයේ පදිංචි 28 හැවිරිදි ඇටැම්පොළ ආරච්චිලාගේ අවිෂ්ක මධුසංඛ නැමැති අයෙකි .
+🟩
 
-මොහු ගම්පහ " පස් පොඩ්ඩා " ට ඉකුත් 2022 ජූලි මස වෙඩි තබා ඝාතනය කිරීමෙන් පසුව , එසැනින් එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර බලා පළා ගොස් තිබුණි .
+Immigration and Emigration officials were arrested by the Immigration and Emigration Officers at the Bandaranaike International Airport while a strong organized crime leader was shot dead in Gampaha.Steps have been taken to hand over the ferry police.
 
-ඉන්පසුව 06/10 දින උදෑසන 06.07 ට සජා නුවර සිට එයාර් ඇරේබියා ගුවන් සේවයේ ජී.එන්. - 502 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+He is a 28-year-old resident of the Kimbulapitiya area in Negombo.
 
-එසේ පැමිණෙමින් සිටි මෙම වෙඩික්කරු වෙත ගුවන් ගමන් තහනමක් ගම්පහ මහේස්ත්‍රාත් අධිකරණය විසින් පනවා තිබූ අතර , ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් විසින් හදුනා ගෙන , අත් අඩංගුවට ගෙන  , පසුව කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දීමට පියවර ගෙන තිබුණි .
+After the shooting was shot dead in July 2022, he had fled to Sergeo in the United Arab Emirate.
 
-...
+Subsequently on 6.07 am at 06.07 am at Air Arabia Airlines. The flight of 502 was reached at the Katunayake airport.
+
+The Gampaha Magistrate's Court had imposed a flight ban to the shooter.
+
+The Katunayake Airport Police Chief Inspector Special Inspector of Police, Special Inspector of Police and other officials including Mr. S.J.Cilla and other officials, is being handed over to the Gampaha Police.
+
+◼️
 
 [Data](articles/62edcd27.json)
+
+[Extended Data](ext_articles/62edcd27.ext.json)
 
 ---
 

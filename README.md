@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 00:34:38**
+As of **2024-06-11 00:50:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,651 (100.0%) of 29,660 articles have been extended.
+29,657 (100.0%) of 29,660 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,6 +64,8 @@ The IDB under the Ministry of Industries is a key stakeholder in the Standard Op
 
 [Data](articles/256c5392.json)
 
+[Extended Data](ext_articles/256c5392.ext.json)
+
 ---
 
 ### Unilever Sri Lanka inaugurates 2.33 MW solar power project at Horana factory
@@ -79,6 +81,8 @@ This significant step forward in Unilever’s commitment to sustainability and r
 ...
 
 [Data](articles/06230b62.json)
+
+[Extended Data](ext_articles/06230b62.ext.json)
 
 ---
 
@@ -100,6 +104,8 @@ The MCCI team also received high recognition and praise from Sinopec officials.
 
 [Data](articles/ca7da1e1.json)
 
+[Extended Data](ext_articles/ca7da1e1.ext.json)
+
 ---
 
 ### NYSC launches Youth Accelerator Platform for climate mobility in collaboration with IOM Sri Lanka
@@ -116,6 +122,8 @@ The primary objective of YAP4C is to mobilise a movement of young advocates pres
 
 [Data](articles/e135df6d.json)
 
+[Extended Data](ext_articles/e135df6d.ext.json)
+
 ---
 
 ### Indo Lanka Chamber of Commerce and Industry holds interactive session with High Commissioner Jha
@@ -129,6 +137,8 @@ The evening commenced with a warm welcome address by the ILCCI President Raghura
 ...
 
 [Data](articles/93fdc0c8.json)
+
+[Extended Data](ext_articles/93fdc0c8.ext.json)
 
 ---
 
@@ -279,6 +289,8 @@ Effective leaders are those who enable positive people performance through role 
 ...
 
 [Data](articles/8037d141.json)
+
+[Extended Data](ext_articles/8037d141.ext.json)
 
 ---
 

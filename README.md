@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 08:34:23**
+As of **2024-06-10 08:53:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,475 (100.0%) of 29,477 articles have been extended.
+29,477 (100.0%) of 29,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,8 @@ Macron himself wasn’t a candidate in the EU elections and his term as presiden
 
 [Data](articles/62816b78.json)
 
+[Extended Data](ext_articles/62816b78.ext.json)
+
 ---
 
 ### 20 office trains cancelled as railway strike continues
@@ -95,6 +97,8 @@ It is also mentioned that only locomotive drivers of two of the five running she
 ...
 
 [Data](articles/d01d708d.json)
+
+[Extended Data](ext_articles/d01d708d.ext.json)
 
 ---
 

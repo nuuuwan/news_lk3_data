@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 05:19:09**
+As of **2024-06-10 05:37:09**
 
 ## Newspaper Stats
 
-*Scraped **29,456** Articles*
+*Scraped **29,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 266
 dbsjeyarajcom | 278
 bbccomsinhala | 284
 newsfirstlk | 363
-islandlk | 1,593
+islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
 adalk | 2,513
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,456 (100.0%) of 29,456 articles have been extended.
+29,456 (100.0%) of 29,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Assetline Finance launches Assetline Green Loan to support solar energy investments
+
+*2024-06-10 05:16:00* · [`islandlk`](http://island.lk/assetline-finance-launches-assetline-green-loan-to-support-solar-energy-investments/) · `en`
+
+Assetline Finance Limited (AFL) recently launched Assetline Green Loan, a specialised financing facility aimed at empowering individuals as well as Micro, Small and Medium Enterprises to invest in solar energy solutions. This initiative is designed to make solar energy adoption more accessible and affordable.
+
+With solar power emerging as a sustainable and cost-effective alternative to traditional energy sources, Assetline Finance is committed to helping customers harness the benefits of renewable energy as part of its sustainability agenda.
+
+“Whether you are a homeowner looking to switch to solar energy or a business aiming to reduce operational costs and environmental impact, the Assetline Green Loan offers an excellent opportunity to embrace sustainable practices with ease,” said Ashan Nissanka, Director and CEO of AFL.
+
+...
+
+[Data](articles/4bdac88f.json)
+
+---
 
 ### Accident
 
@@ -392,6 +408,54 @@ This reply aims to present a more nuanced perspective, encouraging readers to cr
 
 ---
 
+### Sampath Bank Launches Innovative Mini-POS Solution, Empowering SMEs to Boost Sales and Enhance Customer Experience
+
+*2024-06-10 01:15:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience-2/) · `en`
+
+Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
+
+As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
+
+...
+
+[Data](articles/50be84b1.json)
+
+[Extended Data](ext_articles/50be84b1.ext.json)
+
+---
+
+### MCCI delivers fully renovated filling station to Sinopec
+
+*2024-06-10 01:15:00* · [`islandlk`](http://island.lk/mcci-delivers-fully-renovated-filling-station-to-sinopec/) · `en`
+
+The entire renovation of a Sinopec filling station in Sri Lanka, fully funded by Sinopec Overseas, was completed by MCC International Incorporation Ltd. (MCCI) on June 4.
+
+The agreement for the full renovation of Sinopec’s Ariyadasa Filling Station in Colombo was signed on April 22, 2024. It was MCCI’s first construction project in the petrochemical industry Sri Lanka, involving industrial risks, a tight schedule, and many challenges.
+
+MCCI made arrangements with various departments working together seamlessly, organising a strong team to quickly commence construction. The project officially started on May 11.
+
+With the strong support and assistance of Sinopec’s specialists, MCCI team has overcome adverse effects such as shipping delays and construction during the rainy season, completing the safety hazard modifications in seven days and the entire renovation was completed in six days, achieving the goal of “MCC Speed, Sinopec Quality”.
+
+...
+
+[Data](articles/d526b0c4.json)
+
+---
+
+### Exterminators PLC named ‘Great Place to Work’ for 3rd consecutive year
+
+*2024-06-10 01:15:00* · [`islandlk`](http://island.lk/exterminators-plc-named-great-place-to-work-for-3rd-consecutive-year/) · `en`
+
+Exterminators PLC has been recertified as a ‘Great Place to Work’ for the third consecutive year. In 2021, the company created history by becoming Asia’s first pest control company to be certified as ‘Great Place to Work’.
+
+The Great Place to Work certification is a testament to the positive workplace environment that Exterminators has fostered. The company scored highly on the Trust Index survey, over 90 percent of which evaluated criteria such as leadership behaviour, integrity, personal job satisfaction, hospitality, community, corporate image, pride, communication, credibility, and collaboration. Additionally, the company scored over 88% on team, competence, camaraderie, justice, caring, engagement, respect, and innovation.
+
+...
+
+[Data](articles/e8dd6d26.json)
+
+---
+
 ### UK centre-right media gearing up for a Third World War
 
 *2024-06-10 00:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/UK-centre-right-media-gearing-up-for-a-Third-World-War/172-284469) · `en`
@@ -411,6 +475,68 @@ One could very well describe the Cold War between the West (the US and its NATO 
 [Data](articles/21ed4733.json)
 
 [Extended Data](ext_articles/21ed4733.ext.json)
+
+---
+
+### Nawaloka Hospitals reports Impressive profit growth in FY 2023/24
+
+*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-reports-impressive-profit-growth-in-fy-2023-24/) · `en`
+
+Nawaloka Hospitals Group has announced an outstanding financial performance for the fiscal year 2023/24, showcasing its resilience and commitment to operational excellence.
+
+For the year ending March 31, 2024, the company reported a consolidated net profit after tax of Rs.347.8 million, a remarkable 114.26% increase from the previous year’s figure. This positive swing in profitability is a testament to the company’s steadfast dedication to enhancing efficiency and patient care.
+
+Revenue for the year increased to 10,648 million, representing a 14.43% year-over-year growth, demonstrating the strength and adaptability of Nawaloka Hospitals’ business model despite the challenging economic environment.
+
+“This significant profit growth reflects the unwavering commitment and hard work of our entire team, who have prioritized operational excellence and strategic initiatives focused on efficiency and exceptional patient care,” said Nawaloka Hospitals PLC Chairman Dr. Jayantha Dharmadasa.
+
+...
+
+[Data](articles/5d672ff3.json)
+
+---
+
+### Sri Lanka rupee appreciates by 7% against USD in the past six months
+
+*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/sri-lanka-rupee-appreciates-by-7-against-usd-in-the-past-six-months/) · `en`
+
+During the year up to 07th June 2024, the Sri Lanka rupee appreciated against the US dollar by 7.0 per cent, according to the Weekly Economic Indicators report of the Central Bank of Sri Lanka.
+
+“Workers’ remittances amounted to US dollars 544.4 mn in May 2024, compared to US dollars 543.8 mn in April 2024 and US dollars 479.7 mn in May 2023,” it stated.
+
+Meanwhile, earnings from tourism amounted to US dollars 154 mn in May 2024, compared to US dollars 225.7 mn in April 2024 and US dollars 100 mn in May 2023.
+
+The net purchases by the CBSL from the domestic foreign exchange market amounted to US dollars 192.5 mn in May 2024.
+
+The gross official reserves were provisionally estimated at US dollars 5,421mn as at end May 2024. This includes proceeds from the PBOC swap arrangement, which is subject to conditionalities on usability.
+
+...
+
+[Data](articles/632bafab.json)
+
+---
+
+### SLIM elects new leadership for 2024-2025
+
+*2024-06-10 00:54:00* · [`islandlk`](http://island.lk/slim-elects-new-leadership-for-2024-2025-2/) · `en`
+
+The Sri Lanka Institute of Marketing (SLIM) elected its Council of Management and Executive Committee for the 2024/2025 term.
+
+The 54th Annual General Meeting, held on March 27th, 2024, at the Galadari Hotel, Colombo, saw the election of a distinguished group of marketing professionals who will guide SLIM’s strategic direction over the coming year.
+
+Prof. Dewasiri N. Jayantha – Vice President – Education & Research
+
+Dr. Dilhan Sampath Jayatilleke – Vice President – Events & Sustainability
+
+The Executive Committee for 2024-2025 includes Nuwan Thilakawardhana, Rajiv David, Maduranga Weeratunga, Kaushala Amarasekara, Channa Jayasinghe, Dr. Muditha Hewawanitunga, Gayan Wijethilaka, Asanka Udayakumara, Anuk De Silva and Nirmala Premarathna.
+
+Assetline Finance launches Assetline Green Loan to support solar energy investments
+
+CSE partners with SLIM to promote capital market education among students
+
+...
+
+[Data](articles/fa07a237.json)
 
 ---
 
@@ -2089,151 +2215,5 @@ According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri
 [Data](articles/f2d1ea41.json)
 
 [Extended Data](ext_articles/f2d1ea41.ext.json)
-
----
-
-### Thirte injured 13 buses hospitalized
-
-*2024-06-09 13:29:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-රැගෙන-ගිය-බස්-රථයක්-පෙරලී-13ක්-රෝහලේ/11-410096) · `si`
-
-In April, 13 schoolgirls and parents were hospitalized after an accident involving 26 tuk-tuks and 11 buses in Malabe. The incident occurred around 3:15 am, with 13 injuries reported. Two students' conditions were critical; the rest were not seriously hurt. The bus driver will face charges at the Warakapola and Vickramaratne police stations.
-
-🟩
-
-Thirteen schoolgasts and a group of parents were admitted to the Warakapola Police, including school girls in the morning of Warakapola in April.
-
-The accident had occurred when 26 large talets and 11 parents were leaving school in Malabe at about 03.15 am while 11 am.
-
-Thirteen wounds and thirteen were injured in the buses and the condition of others except two students, hospital sources said they were not serious
-
-The bus driver is to be produced before the Warakapola Police (34590), Vickramaratne Police (39871).
-
-◼️
-
-[Data](articles/cb1ee254.json)
-
-[Extended Data](ext_articles/cb1ee254.ext.json)
-
----
-
-### At least 13 injured as bus carrying students, parents topples into canal
-
-*2024-06-09 13:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-13-injured-as-bus-carrying-students-parents-topples-into-canal/108-284422) · `en`
-
-Warakapola, June 9 (Daily Mirror)- At least thirteen persons, including school children, were injured and hospitalized after a bus transporting a group of students and parents toppled into a canal in Warakapola town this morning (9).
-
-The incident occurred at around 4:30 a.m. while the bus was transporting students and their parents from Sri Rahula Balika Maha Vidyalaya in Malabe.
-
-Twenty-six girl guides from the school and seven parents were en route to a girl guides’ camp in Rantambe when the driver reportedly lost control of the vehicle, causing it to topple into the canal.
-
-The injured students and parents were admitted to the Warakapola Hospital for treatment.
-
-◼️
-
-[Data](articles/107a5469.json)
-
-[Extended Data](ext_articles/107a5469.ext.json)
-
----
-
-### Will the Tamil People's General Assembly grow into a democratic bar?
-
-*2024-06-09 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185661) · `ta`
-
-Sumanthiran disputes the presidential vote as a referendum, citing the LTTE's less than 50% support in the 1977 election and his own 50% victory in Puttalam, questioning the assembly's democratic potential.
-
-🟩
-
-Sumanthiran does not accept the presidential election as a referendum. The referendum did not win in the 1977 election. The Liberation Tigers of Tamil Eelam (LTTE) received less than 50 percent of the votes in the North and East. He said that he received 50 per cent of the votes cast in the Puttalam district ...
-
-◼️
-
-[Data](articles/eb8316af.json)
-
-[Extended Data](ext_articles/eb8316af.ext.json)
-
----
-
-### Ranil in India for Modi’s swearing-in ceremony
-
-*2024-06-09 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-in-India-for-Modis-swearing-in-ceremony/108-284421) · `en`
-
-New Delhi, June 9 (Daily Mirror) - President Ranil Wickremesinghe reached India today to participate in the swearing-in ceremony of Indian Prime Minister Narendra Modi who will begin his third term later this evening.
-
-President Wickremesinghe was welcomed by Indian Foreign Ministry Secretary P. Kumaran, Indian Ocean Affairs Secretary Punin Agrawal, Indian High Commissioner in Colombo Santhosh Jha and Sri Lankan High Commissioner in India Kshenuka Seneviratne at the Indira Ghandi International Airport in New Delhi.
-
-A colourful welcome ceremony was held at the airport with traditional Indian dancers giving a dazzling performance.
-
-President's Secretary Saman Ekanayake, Sri Lankan Foreign Ministry Secretary Aruni Wijewardene and Director General of Government Information Dinith Chinthaka Karunaratne accompanied the President on his trip to India.
-
-...
-
-[Data](articles/48866d01.json)
-
-[Extended Data](ext_articles/48866d01.ext.json)
-
----
-
-### Ugandan who swallowed 14 cocaine capsules arrested at BIA
-
-*2024-06-09 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99757/ugandan-who-swallowed-14-cocaine-capsules-arrested-at-bia) · `en`
-
-A Ugandan national who had attempted to smuggle capsules containing cocaine into the country by swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08).
-
-The arrested suspect has arrived in Sri Lanka from Qatar after swallowing the cocaine capsules, police said.
-
-It is reported that after the suspect was admitted to the Negombo Hospital they were able to extract 14 cocaine capsules from his stomach.
-
-◼️
-
-[Data](articles/824d01f3.json)
-
-[Extended Data](ext_articles/824d01f3.ext.json)
-
----
-
-### Ugandan man who ingested cocaine-filled capsules arrested at BIA
-
-*2024-06-09 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99757/ugandan-man-who-ingested-cocaine-filled-capsules-arrested-at-bia) · `en`
-
-A Ugandan national who had attempted to smuggle a number of capsules containing cocaine into the country after swallowing them, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The 31-year-old suspect has been arrested by the officers of Police Narcotics Bureau (PNB) at the Katunayake Airport on Saturday (08), based on foreign intelligence received regarding the passenger.
-
-The arrested suspect, who reportedly engages in the carpentry profession, had arrived in Sri Lanka from Kampala, Uganda via Doha, Qatar and had reached the island at around 9.00 a.m. on Saturday.
-
-The passenger was subjected to a scan following his arrest while it was then confirmed that he has swallowed a number of cocaine-filled capsules.
-
-It is reported that after the suspect was admitted to the Negombo Hospital, as of now he has passed about 45 capsules of cocaine, weighing about 450g in total and estimated to be worth around Rs. 10 million, through his digestive system.
-
-...
-
-[Data](articles/9ebefac2.json)
-
-[Extended Data](ext_articles/9ebefac2.ext.json)
-
----
-
-### Sri Lanka central bank avoids negative equity with imputed values for restructured bonds
-
-*2024-06-09 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-avoids-negative-equity-with-imputed-values-for-restructured-bonds-167048/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has used an imputed valuation of its re-structured government securities, to get over lack of a market price, which may have allowed it to avoid negative net assets and even bigger losses in 2023.
-
-The central bank reported losses 114.3 billion rupees in 2023, solely due to a 766 billion rupee ‘one day loss’ from restructuring its Treasury bill portfolio into long term bonds with ‘step down’ coupons.
-
-The Treasuries portfolio, acquired to drive monetary instability from 2020, initially gave it high profits as rates went up to correct balance of payment deficits.
-
-Related Sri Lanka’s central bank makes more than Rs500bn in profits to June 2023: analysis
-
-Unlike in 2022, when a currency collapse led to losses on its foreign assets portfolio, which was negative due to swaps not being outlawed by the legislature, foreign currency income was a positive 83 billion rupees, compared to a loss of 778 billion in 2022.
-
-...
-
-[Data](articles/2c5ae260.json)
-
-[Extended Data](ext_articles/2c5ae260.ext.json)
 
 ---

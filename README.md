@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 06:01:34**
+As of **2024-06-10 07:00:35**
 
 ## Newspaper Stats
 
-*Scraped **29,463** Articles*
+*Scraped **29,466** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 266
+colombotelegraphcom | 267
 dbsjeyarajcom | 278
 bbccomsinhala | 284
 newsfirstlk | 363
@@ -17,20 +17,40 @@ economynextcom | 1,678
 dailyftlk | 1,768
 adalk | 2,513
 adaderanalk | 3,335
-tamilmirrorlk | 3,449
+tamilmirrorlk | 3,450
 virakesarilk | 4,519
 dailymirrorlk | 4,672
-adaderanasinhalalk | 4,738
+adaderanasinhalalk | 4,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,463 (100.0%) of 29,463 articles have been extended.
+29,463 (100.0%) of 29,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### අදත් තරමක තද වැසි
+
+*2024-06-10 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197579) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+ඌව පළාතේ ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව සඳහන් වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/9a25cc32.json)
+
+---
 
 ### Assetline Finance launches Assetline Green Loan to support solar energy investments
 
@@ -568,6 +588,22 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
+### அமித் ஷா, நிர்மலாவுக்கு மீண்டும் அமைச்சுக்கள்
+
+*2024-06-10 00:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமித்-ஷா-நிர்மலாவுக்கு-மீண்டும்-அமைச்சுக்கள்/175-338670) · `ta`
+
+நரேந்தி மோடி நேற்று மூன்றாவது முறையாக பிரதமராக பதவியேற்றுக் கொண்டார். அவரது தலைமையிலான மத்திய அமைச்சரவையில் பா.ஜ.க. மற்றும் தேசிய ஜனநாயக கூட்டணி கட்சியின் உறுப்பினர்கள் இடம்பெற்றுள்ளனர்.
+
+இதில் ஏற்கெனவே பிரதமர் மோடியின் அமைச்சரவையில் அங்கம் வகித்த ராஜ்நாத் சிங், அமித் ஷா, நிதின் கட்கரி, நிர்மலா சீதாராமன், எஸ்.ஜெய்சங்கர், பியூஷ் கோயல், அஸ்வினி வைஷ்ணவ் ஆகியோர் மீண்டும் மத்திய அமைச்சர்களாக பங்கேற்றுள்ளனர்.
+
+பிரதமர் மோடி தலைமையிலான அமைச்சரவையில் கடந்த 2019 இல் நிதி அமைச்சராக நிர்மலா சீதாராமன் பணியாற்றினார். கர்நாடக மாநிலத்தில் இருந்து தேர்வு செய்யப்பட்ட மாநிலங்களவை உறுப்பினர். செப்டம்பர் 2017 முதல் மே 2019 வரையில் மோடியின் முதல் ஆட்சியில் பாதுகாப்பு துறை அமைச்சராக பணியாற்றினார். (a)
+
+◼️
+
+[Data](articles/5c70de13.json)
+
+---
+
 ### 2024-06-09 (Sunday)
 
 ### The goal of Pakistan
@@ -633,6 +669,18 @@ The ceremony was held at the 7 nights, which was held at the Maldives president 
 [Data](articles/641e0aef.json)
 
 [Extended Data](ext_articles/641e0aef.ext.json)
+
+---
+
+### Modi 3.0 In India: What Next For Sri Lanka?
+
+*2024-06-09 23:03:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modi-3-0-in-india-what-next-for-sri-lanka/) · `en`
+
+The Lok Sabha elections in India were just concluded with disappointment to both leading contenders, twice Prime Minister Narendra Modi and Nehru family’s heir to power Rahul Gandhi.  The incumbent Prime Minister Narendra Modi canvassed for a grand victory with over 400 seats out of a total of 543, clearly a two third majority in Parliament. His position was that he needed this superior power to drive India towards prosperity which has been time-lined to 2047 when India would celebrate the centenary of its independence from Britain. He wanted the electorate to increase his power from 303 seats in the previous election to well over 400. But the electorate scaled him down to 240 and now he has been forced to go for a coalition government with two leading regional political parties.
+
+...
+
+[Data](articles/8add1e6f.json)
 
 ---
 
@@ -2169,63 +2217,5 @@ They also said that they would continue to carry out massive protests if they di
 [Data](articles/8f01633f.json)
 
 [Extended Data](ext_articles/8f01633f.ext.json)
-
----
-
-### Sri Lanka elected to ECOSOC
-
-*2024-06-09 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197557) · `si`
-
-Sri Lanka was re-elected to the UN Economic and Social Council (ECOSOC) with the second-highest vote count, securing its seat for a three-year term starting January 1, 2025. This marks Sri Lanka's third tenure on ECOSOC, having served terms from 1985-1989 and 2006.
-
-🟩
-
-Sri Lanka has been elected to the United Nations Economic and Social Council (ECOSOC).
-
-Sri Lanka has been elected to the United Nations Economic and Social Council with 182 votes from 189 members.
-
-Accordingly, Sri Lanka will operate a period of three years on January 1, 2025.
-
-The number of voting received by Sri Lanka became the second highest number of votes obtained from a region.
-
-Sri Lanka has previously been elected to the United Nations Economic and Social Council from 1985 to 1989 and 2006.
-
-◼️
-
-[Data](articles/0d03afb9.json)
-
-[Extended Data](ext_articles/0d03afb9.ext.json)
-
----
-
-### Sri Lanka’s IMF programme aimed to succeed by improving governance. Will it?
-
-*2024-06-09 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-IMF-programme-aimed-to-succeed-by-improving-governance-Will-it/155-284423) · `en`
-
-Colombo, June 9 (Verité Research) - On June 12, the IMF board will approve Sri Lanka’s third disbursement under the current program. However, Sri Lanka is still falling short on the governance improvements that are foundational for its economic recovery.
-
-According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri Lanka verifiably failed to meet 25% of the commitments due by the end of May 2024 under the program renewed in December 2023. Of the 63 commitments due, 32 were classified as ‘met’, 16 as ‘not met’, and 15 as ‘unknown’ – meaning data was not available to verify their status.
-
-...
-
-[Data](articles/3266caa4.json)
-
-[Extended Data](ext_articles/3266caa4.ext.json)
-
----
-
-### Sri Lanka’s IMF programme aimed to succeed by improving governance. Will it?
-
-*2024-06-09 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-IMF-programme-aimed-to-succeed-by-improving-governance-Will-it/108-284423) · `en`
-
-Colombo, June 9 (Verité Research) - On June 12, the IMF board will approve Sri Lanka’s third disbursement under the current program. However, Sri Lanka is still falling short on the governance improvements that are foundational for its economic recovery.
-
-According to the latest update of the ‘IMF Tracker’ by Verité Research, Sri Lanka verifiably failed to meet 25% of the commitments due by the end of May 2024 under the program renewed in December 2023. Of the 63 commitments due, 32 were classified as ‘met’, 16 as ‘not met’, and 15 as ‘unknown’ – meaning data was not available to verify their status.
-
-...
-
-[Data](articles/f2d1ea41.json)
-
-[Extended Data](ext_articles/f2d1ea41.ext.json)
 
 ---

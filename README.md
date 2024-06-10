@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 22:07:11**
+As of **2024-06-10 22:19:12**
 
 ## Newspaper Stats
 
-*Scraped **29,624** Articles*
+*Scraped **29,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,103 @@ islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,535
-adaderanalk | 3,356
+adaderanalk | 3,357
 tamilmirrorlk | 3,471
 virakesarilk | 4,543
 dailymirrorlk | 4,698
-adaderanasinhalalk | 4,771
+adaderanasinhalalk | 4,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,622 (100.0%) of 29,624 articles have been extended.
+29,624 (100.0%) of 29,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### 26ஆம் திகதி நடக்கப்போவது என்ன?
+### අසලංක පරාජයන්ට හේතු කියයි
+
+*2024-06-10 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197617) · `si`
+
+තණතිලිවල වෙනස්වීම්වලට හැඩගැසීමට නොහැකි වීම ශ්‍රී ලංකා පිලේ පරාජයට හේතු වූ බව ශ්‍රී ලංකා කණ්ඩායමේ උපනායක චරිත් අසලංක පවසයි.
+
+අද පැවති පුහුණු සැසියෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් චරිත් අසලංක මේ අදහස් පළකළේය.
+
+"පිතිකරුවෙකු වශයෙන් අපි බ්ලේම් එක ගන්න ඕනේ. ඕවර් 06කට 50 ගාණකට විකට් දෙකක් දීලා මේ වගේ බැටින් ලයින්අපි එකක් 125කට යන්න බැහැ. මම ඇතුළුව හැම පිතිකරුවෙකුම වගකීම භාර ගන්න ඕනේ."
+
+ප්‍රශ්නය - සිදුවුණ දුර්වලකම්වලට පුහුණුවීම්වලදී වැඩිපුර පිතිකරණ පුහුණුවීම් කරලා වෙන ක්‍රියාමර්ග අරගෙන තියෙනවාද ?
+
+"අපි ලංකාවේදී හොඳට පුහුණුවීම් කරලා සූදානම් වුණා. නමුත් තණතීරු වෙනස්වීමට අපිට හුරුවෙන්න බැරිවුණා. අපි වෙන ග්‍රවුන්ඩ්වල ඕවර් 06ට 50ක 55ක ලකුණු ගාණක් තිබ්බොත් අපි බලනවා 180ක් කරගන්න. මේකේ එක පාරට තණතීරු වෙනස් වෙනවා බෝලේ පරණ වුණ ගමන් දඟ කැවෙන්න ගන්නවා. අපිට ඉක්මනට හැඩ ගැහෙන්න ඕනේ ලකුණු ටික පහළට දාගෙන විකට් ටික ඉතුරු කරගෙන ගහන්න. අපිට ඒක කරගන්න බැරි වුණ නිසා පරාජයට පත් වුණේ."
+
+◼️
+
+[Data](articles/77e047c5.json)
+
+---
+
+### Ali Sabry congratulates Jaishankar on second term as India’s Foreign Minister
+
+*2024-06-10 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99792/ali-sabry-congratulates-jaishankar-on-second-term-as-indias-foreign-minister) · `en`
+
+Foreign Ministers of Sri Lanka and Maldives congratulated S Jaishankar on his second term as External Affairs Minister of India in the newly constituted cabinet of the BJP-led NDA government under the leadership of Prime Minister Narendra Modi.
+
+Sri Lankan Minister of Foreign Affairs Ali Sabry said that Jaishankar’s second term as EAM is a well-deserved recognition of his acumen in foreign relations. Sabry said he looks forward to working with him to enhance the ties between the two nations.
+
+In a post on X, Ali Sabry stated, “Warmest congratulations @DrSJaishankar on being reappointed Minister of External Affairs of #India, a well-deserved recognition of your acumen in foreign relations. I look forward to working with you in enhancing the deep-rooted traditional cooperation between #SriLanka & #India.”
+
+...
+
+[Data](articles/bfe6f44f.json)
+
+---
+
+### What's going to happen on the 26th?
 
 *2024-06-10 21:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/26ஆம்-திகதி-நடக்கப்போவது-என்ன/175-338727) · `ta`
 
-எதிர்வரும் 26ஆம் திகதி சுகயீன விடுமுறையை அறிவித்து நாடளாவிய ரீதியில் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவதற்கு இலங்கை ஆசிரியர் சங்கம் தீர்மானித்துள்ளது.
+On the 26th, the Sri Lanka Teachers Union will observe a nationwide sick day due to a wage dispute. The decision was announced earlier, with Joseph Stalin, the general secretary, stating the protest aims to address pay issues.
 
-ஊதிய முரண்பாடு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சங்கத்தின் பொதுச்செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+🟩
 
-தொழிற்சங்க நடவடிக்கைக்கு சமாந்தரமாக எதிர்வரும் 12ஆம் திகதி கண்டனப் போராட்டத்தை ஏற்பாடு செய்யவுள்ளதாகவும் இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் மேலும் தெரிவித்தார். R
+The Sri Lanka Teachers Union has decided to engage in trade union action nationwide, announcing a sick holiday on the 26th.
+
+Joseph Stalin, general secretary of the association, said the move was taken due to a wage conflict.
+
+Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest will be organized on the 12th of this month.. Remble
 
 ◼️
 
 [Data](articles/458b7351.json)
 
+[Extended Data](ext_articles/458b7351.ext.json)
+
 ---
 
-### සුදුවෙන්න ගාන ආලේපනයෙන් සිරුරේ සිදුවන නොසිතූ වෙනස
+### The difference in the body of a whitewarnu gray
 
 *2024-06-10 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197616) · `si`
 
-නීතිවිරෝධි, හානිකර රූපලාවණ්‍ය ප්‍රතිකාර සහ ආලේපන කිසිදු නියාමනයකින් තොරව සමාජය තුළ සංසරණයවීම හේතුවෙන් බරපතළ සෞඛ්‍ය ගැටලු උද්ගතවී තිබුණත් ඊට එරෙහිව ඇති නීතිමය ප්‍රතිපාදන ප්‍රමාණවත් නොවන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+The GMOA warns against unregulated cosmetic use, citing health issues from harmful ingredients like mercury and steroids. They highlight insufficient laws to curb these products causing serious health problems.
 
-සිය සමේ වර්ණය පැහැපත් කරගැනීම සඳහා ස්ත්‍රී - පුරුෂ සහ වයස් භේදයකින් තොරව වර්තමානයේදී විවිධ ආලේපන වර්ග භාවිත කිරීමේ ප්‍රවණතාවය මේ වනවිට ඉහළ ගොස් තිබේ.
+🟩
 
-කෙසේ වෙතත් සෞඛ්‍ය අංශ පෙන්වාදෙන්නේ නියාමනයෙන් තොරව නිෂ්පාදනය කරන රූපලාවණ්‍ය ආලේපන සහ ද්‍රව්‍ය භාවිත කිරීම හේතුවෙන් සෞඛ්‍ය සංකූලතා වාර්තාවීමද ඉහළගොස් ඇති බවය.
+The government's Medical Officers Association (GMOA) says that though, inaugural health problems and coatings have been caused by the circulation of harmful beauty and coatings without any regulation in society, the Government Medical Officers' Association (GMOA) says.
 
-ඒ අනුව එම ආලේපන තුළ රසදිය වැනි බැර ලෝහ මෙන්ම ස්ටෙරොයිඩ ඉහළ සාන්ද්‍රණවලින් අන්තර්ගතවන බව අනාවරණය වී ඇතැයි රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+The tendency to use a variety of cosmetics is now at present to encourage its skin color.
 
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පෙන්වා දෙන්නේ බරපතළ සෞඛ්‍ය ගැටලු ඇති කරන නීතිවිරෝධි, හානිකර රූපලාවණ්‍ය ප්‍රතිකාර සහ ආලේපන සම්බන්ධයෙන් ක්‍රියාත්මකවීමට දැනට පවතින නීති ප්‍රමාණවත් නොවන බවය.
+However, health services show that he increased health complications due to the use of cosmetics and materials produced without regulation.
+
+According to the Government Medical Officers' Association (GMOA) says that it is revealed that heavy metals such as mercury and stereide in the coats.
+
+The Government Medical Officers' Association points out that the existing laws are not sufficient to implement the illegal, harmful beauty and cosins that cause serious health problems.
 
 ◼️
 
 [Data](articles/4aa4a623.json)
+
+[Extended Data](ext_articles/4aa4a623.ext.json)
 
 ---
 
@@ -2279,59 +2327,5 @@ Nevertheless, none of them have had any action in the relevant land to remove th
 [Data](articles/bfbd5c23.json)
 
 [Extended Data](ext_articles/bfbd5c23.ext.json)
-
----
-
-### The government and the opposition to the former director of the CIT not to attend the JVP conference
-
-*2024-06-10 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185724) · `ta`
-
-Government and opposition pressured former officials Ravi Senavaratne and Shani Abayasekara to skip JVP's Maharagama conference, citing intimidation and baseless accusations against Senavaratne. Despite this, JVP leader Anuragumara Dissanayake asserts their right to support any public party, highlighting the erosion of rule of law in the country through their bold participation.
-
-🟩
-
-National People's Power President Anuragumara Dissanayake has said that the government and the opposition parties have put heavy pressure on the former Senior Procuremental Chancellor Ravi Senavaratne and the former director of the CIT Shani Abayasekara to prevent the JVP's Maharagama conference.
-
-He said that the two poles of politics had put pressure on several ways, including intimidation, and that the government is still investigating Raviseniwaratne on the basis of meaningless accusations.
-
-The JVP leader said that they have the right to support any party that belongs to the public and that they do not have the support of the government and the opposition.
-
-However, beyond these pressure, they have come forward to boldly, they have shared their experiences and made it clear what happened to the rule of law in the country.
-
-◼️
-
-[Data](articles/fd6a23dc.json)
-
-[Extended Data](ext_articles/fd6a23dc.ext.json)
-
----
-
-### Former Director of the CIT - Senior Representative Principal - many former police officers - have been threatened not to attend the conference at the JVP
-
-*2024-06-10 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185721) · `ta`
-
-Retired police officers, including former CIT officials, faced threats not to attend a conference organized by the National People's Power's retired police officers' organization. The event saw the presence of the party's parliamentarians. Former Senior Representative Principal Ravi Seniviratne emphasized the organization's democratic nature and denied any negative impact on the police force. He revealed receiving pressure from various sources, including a threat from a member of the National Investigation Unit, to avoid participating. Despite the challenges, Seniviratne highlighted the group's honesty and readiness to sacrifice for their cause, contrasting it with current politics.
-
-🟩
-
-Several retired police officers, including former CIT officials, were present at a press conference of the retired police officers organization of the National People's Power.
-
-The party's parliamentarians were present at the National People's Power yesterday.
-
-Former Senior Representative Principal Raviseniviratne, who has said that the joint of retired police officers is actually a fair democratic organization, has said that there is no impact on the police or the return of the police department.
-
-He added that I was pressured from many sides not to climb on this platform, and I was also pressured not only to other former officials, he added.
-
-Ravi Seniviratne said that a person had been threatened by telephone.
-
-Ravi Seniviratne said that a person from the National Investigation Unit had threatened.
-
-Two years ago, Ravi Seniviratna, who made the reasons for the creation of a joint police officers, said that we had taken serious consultations with the leadership of the national people's power.
-
-...
-
-[Data](articles/3bd0a9d5.json)
-
-[Extended Data](ext_articles/3bd0a9d5.ext.json)
 
 ---

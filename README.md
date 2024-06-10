@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 05:37:09**
+As of **2024-06-10 06:01:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,456 (100.0%) of 29,463 articles have been extended.
+29,463 (100.0%) of 29,463 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ With solar power emerging as a sustainable and cost-effective alternative to tra
 ...
 
 [Data](articles/4bdac88f.json)
+
+[Extended Data](ext_articles/4bdac88f.ext.json)
 
 ---
 
@@ -440,6 +442,8 @@ With the strong support and assistance of Sinopec’s specialists, MCCI team has
 
 [Data](articles/d526b0c4.json)
 
+[Extended Data](ext_articles/d526b0c4.ext.json)
+
 ---
 
 ### Exterminators PLC named ‘Great Place to Work’ for 3rd consecutive year
@@ -453,6 +457,8 @@ The Great Place to Work certification is a testament to the positive workplace e
 ...
 
 [Data](articles/e8dd6d26.json)
+
+[Extended Data](ext_articles/e8dd6d26.ext.json)
 
 ---
 
@@ -494,6 +500,8 @@ Revenue for the year increased to 10,648 million, representing a 14.43% year-ove
 
 [Data](articles/5d672ff3.json)
 
+[Extended Data](ext_articles/5d672ff3.ext.json)
+
 ---
 
 ### Sri Lanka rupee appreciates by 7% against USD in the past six months
@@ -513,6 +521,8 @@ The gross official reserves were provisionally estimated at US dollars 5,421mn a
 ...
 
 [Data](articles/632bafab.json)
+
+[Extended Data](ext_articles/632bafab.ext.json)
 
 ---
 
@@ -537,6 +547,8 @@ CSE partners with SLIM to promote capital market education among students
 ...
 
 [Data](articles/fa07a237.json)
+
+[Extended Data](ext_articles/fa07a237.ext.json)
 
 ---
 

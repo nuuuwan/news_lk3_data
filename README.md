@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 01:18:59**
+As of **2024-06-11 01:34:26**
 
 ## Newspaper Stats
 
-*Scraped **29,663** Articles*
+*Scraped **29,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,601
 economynextcom | 1,697
-dailyftlk | 1,777
+dailyftlk | 1,779
 adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,472
@@ -26,25 +26,65 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,662 (100.0%) of 29,663 articles have been extended.
+29,663 (100.0%) of 29,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### சிறந்த பெறுபேறுகளை பெற்ற மாணவர்கள் கௌரவிப்பு
+### Two new Mahaweli Divisions announced in Ratnapura District
+
+*2024-06-11 01:22:28* · [`dailyftlk`](https://www.ft.lk/news/Two-new-Mahaweli-Divisions-announced-in-Ratnapura-District/56-762911) · `en`
+
+Irrigation, Wildlife and Forest Conservation Minister Pavitra Vanniarachchi yesterday revealed that steps have been taken to announce two new Mahaweli Divisions namely Godakawela and Weligepola by merging 72 Grama Niladhari Divisions belonging to five Divisional Secretariats of Ratnapura District.
+
+There are 37 Grama Niladhari Divisions in Godakawela Divisional Secretariat Division, 30 Grama Niladhari Divisions in Weligepola Divisional Secretariat Division, 02 Grama Niladhari Divisions in Opanayake Divisional Secretariat Division, 02 Grama Niladhari Divisions in Balangoda Divisional Secretariat Division and 01 Grama Niladhari Division in Kalthota Divisional Secretariat Division. Godakawela and Weligepola are to be developed as new Mahaweli Divisions under Walawa Special region of Sri Lanka Mahaweli Authority by combining them as 72 Grama Niladhari Divisions.
+
+Under the Sri Lanka Mahaweli Authority Act, the Walawa Mahaweli Special region was declared by Gazette No. 137 dated 16 April 1981.
+
+...
+
+[Data](articles/7bd883f4.json)
+
+---
+
+### CJ-led bench to hear petition against Pastor Jerome Fernando
+
+*2024-06-11 01:21:13* · [`dailyftlk`](https://www.ft.lk/news/CJ-led-bench-to-hear-petition-against-Pastor-Jerome-Fernando/56-762910) · `en`
+
+The Supreme Court has ordered for a Fundamental Rights (FR) petition filed against Pastor Jerome Fernando to be taken up for consideration before a judge bench chaired by the Chief Justice.
+
+This order was issued when the relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Murdhu Fernando, Kumudini Wickremasinghe and Janak De Silva yesterday.
+
+Several religious leaders had filed this petition seeking an order to prosecute controversial Pastor Jerome Fernando under the United Nations International Covenant on Civil and Political Rights (ICCPR) over his derogatory statements related to Lord Buddha and other religious figures.
+
+Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena informed the court that three of the religious leaders involved in filing the petition have expressed their willingness to withdraw it.
+
+...
+
+[Data](articles/eca2d069.json)
+
+---
+
+### Honor students who have received the best results
 
 *2024-06-11 01:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறந்த-பெறுபேறுகளை-பெற்ற-மாணவர்கள்-கௌரவிப்பு/175-338734) · `ta`
 
-கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையில் சிறந்த பெறுபேறுகளைப் பெற்ற மாணவர்களை கௌரவிக்கும் நிகழ்வு, கல்வி அமைச்சில் திங்கட்கிழமை (10)  கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த தலைமையில் நடைபெற்றது.
+Education Minister Dr. Susil Premajayantha honored top achievers in the GCE A/L exam, including Bahanma Upani Lenora, Chirat Nirodha, Shehara Chiduminini, Dasun Rithmika, Shehani Navotya, and Kruu Shildia, recognizing excellence across various fields.
 
-உயிரியல் பாடப்பிரிவில் காலி சங்கமித்த வித்தியாலயத்தைச் சேர்ந்த பஹன்மா உபனி லெனோரா முதலிடத்தையும், பௌதீகப் பிரிவில் கொழும்பு ஆனந்த வித்தியாலயத்தைச் சேர்ந்த சிரத் நிரோதா முதலிடத்தையும், வர்த்தகப் பிரிவில் பாணந்துறை மகளிர் கல்லூரியின் ஷெஹாரா சிதுமினி முதலிடத்தையும், காலி ரிச்மன் கல்லூரியின் தசுன் ரித்மிகா முதலாம் இடத்தையும் பெற்றனர்.
+🟩
 
-கலைப் பிரிவில் விதானகே, பொறியியல் தொழில்நுட்பப் பிரிவில் முதலாம் இடத்தைப் பெற்ற கினிகத்தேன மத்திய மகா வித்தியாலயத்தைச் சேர்ந்த ஷெஹானி நவோத்யா மற்றும் உயிரியல் தொழில்நுட்பப் பிரிவில் முதலாம் இடத்தைப் பெற்ற எஹலியகொட மத்திய மகா வித்தியாலயத்தைச் சேர்ந்த கிருலு ஷில்டியா ஆகியோர் கலந்துகொண்டனர்.
+Education Minister Dr Susil Premajayantha was held on Monday (10) at the Ministry of Education to honor the students who received the best results in the GCE A / L examination.
+
+Bahanma Upani Lenora from the Galle Strategy of the Galle Strategy was the first place, Chirat Nirodha of the Buddhist section, Shehara Chiduminini of the Panadura Women's College, Dasun Rithmika, Galle Richman College.
+
+Shehani Navotya of Ginigathena Central Maha Vidyalaya, who was the first in the art category, and Kruu Shildia of the Ehaliyagoda Central Maha Vidyalaya, who was the first in the Biology Technology Division.
 
 ◼️
 
 [Data](articles/2eccd045.json)
+
+[Extended Data](ext_articles/2eccd045.ext.json)
 
 ---
 
@@ -2191,61 +2231,5 @@ Wickremesinghe had discussed the visit of Prime Minister Modi with Indian Extern
 [Data](articles/bc4025d7.json)
 
 [Extended Data](ext_articles/bc4025d7.ext.json)
-
----
-
-### Lambi skin disease affecting cows in Nuwara Eliya district
-
-*2024-06-10 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185740) · `ta`
-
-Nuwara Eliya's cows suffer from Lambi skin disease, causing widespread inflammation and economic impact. The disease, exacerbated by pests and weather conditions, leads to decreased milk production, reduced appetite, calf grinning, skin sores, and reproductive issues. This results in higher mortality rates among cows, contributing to economic losses and a decline in beef consumption preferences.
-
-🟩
-
-In most areas of Nuwara Eliya, a type of lamb skin disease is affected by cows.
-
-The disease has created inflammation from the entire body of the cows, and the disease has begun to affect the cows with a little bit of vigor.
-
-As a result of the fact that the economy is significantly affected, there is anxiety due to a death rate.
-
-Due to the rise of other pests, the disease has been intensified after the rainy weather in the Nuwara Eliya district in the past.
-
-Pests that transmit Lambi can fly up to thirty kilometers and may be rapidly spreading in the Nuwara Eliya district.. This has made more than five complaints daily. They said the disease attacks the excessive amounts of cows and less buffalo cows.
-
-...
-
-[Data](articles/72837456.json)
-
-[Extended Data](ext_articles/72837456.ext.json)
-
----
-
-### Police seek public assistance to find a foreign employment dealer
-
-*2024-06-10 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197603) · `si`
-
-Police need help finding a scammer who cheated over 17 million people, pretending to offer jobs in England and Poland. The suspect is from the Welikada Police Division. Investigations are ongoing, and anyone with information should call 071 8137 373.
-
-🟩
-
-Police seek public assistance to arrest a suspect working in a body in the Welikada Police Division in the Welikada Police Division.
-
-The police say that the suspects are required to cheat over 17,500,000 people, claiming that the employer is employed in England and Poland.
-
-The Mirihana Special Investigation Division has commenced investigations into the fraud and produced before the Colombo Chief Magistrate's Court.
-
-In the interrogation of the suspect, it was revealed that the owner of the company was the owner of the company.
-
-The suspect has not yet been revealed any resemble address or other identity.
-
-The police informed the public to inform the following telephone number if information about the suspect.
-
-OIC / Mirihana Special Criminal Investigation Division - 071 8137 373
-
-◼️
-
-[Data](articles/50d0f303.json)
-
-[Extended Data](ext_articles/50d0f303.ext.json)
 
 ---

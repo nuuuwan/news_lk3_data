@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 01:04:15**
+As of **2024-06-11 01:18:59**
 
 ## Newspaper Stats
 
-*Scraped **29,662** Articles*
+*Scraped **29,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,697
 dailyftlk | 1,777
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,471
+tamilmirrorlk | 3,472
 virakesarilk | 4,551
 dailymirrorlk | 4,703
 adaderanasinhalalk | 4,773
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,660 (100.0%) of 29,662 articles have been extended.
+29,662 (100.0%) of 29,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### சிறந்த பெறுபேறுகளை பெற்ற மாணவர்கள் கௌரவிப்பு
+
+*2024-06-11 01:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறந்த-பெறுபேறுகளை-பெற்ற-மாணவர்கள்-கௌரவிப்பு/175-338734) · `ta`
+
+கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையில் சிறந்த பெறுபேறுகளைப் பெற்ற மாணவர்களை கௌரவிக்கும் நிகழ்வு, கல்வி அமைச்சில் திங்கட்கிழமை (10)  கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த தலைமையில் நடைபெற்றது.
+
+உயிரியல் பாடப்பிரிவில் காலி சங்கமித்த வித்தியாலயத்தைச் சேர்ந்த பஹன்மா உபனி லெனோரா முதலிடத்தையும், பௌதீகப் பிரிவில் கொழும்பு ஆனந்த வித்தியாலயத்தைச் சேர்ந்த சிரத் நிரோதா முதலிடத்தையும், வர்த்தகப் பிரிவில் பாணந்துறை மகளிர் கல்லூரியின் ஷெஹாரா சிதுமினி முதலிடத்தையும், காலி ரிச்மன் கல்லூரியின் தசுன் ரித்மிகா முதலாம் இடத்தையும் பெற்றனர்.
+
+கலைப் பிரிவில் விதானகே, பொறியியல் தொழில்நுட்பப் பிரிவில் முதலாம் இடத்தைப் பெற்ற கினிகத்தேன மத்திய மகா வித்தியாலயத்தைச் சேர்ந்த ஷெஹானி நவோத்யா மற்றும் உயிரியல் தொழில்நுட்பப் பிரிவில் முதலாம் இடத்தைப் பெற்ற எஹலியகொட மத்திய மகா வித்தியாலயத்தைச் சேர்ந்த கிருலு ஷில்டியா ஆகியோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/2eccd045.json)
+
+---
 
 ### Presidential pardons shouldn’t encourage impunity - EDITORIAL
 
@@ -45,6 +61,8 @@ Both rulings by the Supreme Court to quash the capital punishment given to Dumin
 ...
 
 [Data](articles/08404a9c.json)
+
+[Extended Data](ext_articles/08404a9c.ext.json)
 
 ---
 
@@ -63,6 +81,8 @@ The International Atomic Energy Agency (IAEA) says that Sri Lanka is pursuing nu
 ...
 
 [Data](articles/0edda735.json)
+
+[Extended Data](ext_articles/0edda735.ext.json)
 
 ---
 
@@ -2227,25 +2247,5 @@ OIC / Mirihana Special Criminal Investigation Division - 071 8137 373
 [Data](articles/50d0f303.json)
 
 [Extended Data](ext_articles/50d0f303.ext.json)
-
----
-
-### Sajith says SJB government will implement Sri Lanka’s 13th amendment
-
-*2024-06-10 14:06:00* · [`economynextcom`](https://economynext.com/sajith-says-sjb-government-will-implement-sri-lankas-13th-amendment-167186/) · `en`
-
-ECONOMYNEXT —  A government led by Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) will implement the 13th amendment to the constitution, opposition leader Sajith Premadasa said, also claiming that people in the north have become addicted to false promises made by politicians.
-
-Speaking at an event in Jaffna on Sunday June 09, Premadasa said an SJB government would ensure all civil and economic rights of the people.
-
-“People in Jaffna district and the northern province have become addicted to the candy politics (losinjara deshapalanaya) of various leaders. They hand out these candies at election time.
-
-“We will end the period that people fell for candy. Not just your civil rights, we will also provide economic, social, religious, cultural, educational health and right to life, as well as the right to a good income avenue to our beloved people,” said Premadsa.
-
-...
-
-[Data](articles/37958496.json)
-
-[Extended Data](ext_articles/37958496.ext.json)
 
 ---

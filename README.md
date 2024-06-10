@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 15:53:33**
+As of **2024-06-10 16:06:43**
 
 ## Newspaper Stats
 
-*Scraped **29,569** Articles*
+*Scraped **29,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,350
 tamilmirrorlk | 3,464
 virakesarilk | 4,533
 dailymirrorlk | 4,689
-adaderanasinhalalk | 4,760
+adaderanasinhalalk | 4,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,565 (100.0%) of 29,569 articles have been extended.
+29,569 (100.0%) of 29,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### පාලමෙන් වැටුණු කාන්තාවක් මරුට
+
+*2024-06-10 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197606) · `si`
+
+මෙලෙස මියගොස් ඇත්තේ 33 හැවිරිදි වියේ පසුවන එම ප්‍රදේශයේම පදිංචි කාන්තාවකි.
+
+පොලීසිය ප්‍රකාශ කළේ පාලමක් මතින් ඇදවැටීමෙන් ඇය මියගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/2f1264f3.json)
+
+---
 
 ### Train strike called off
 
@@ -47,6 +61,8 @@ The Locomotive Operating Engineers Union launched their strike on Friday due to 
 ◼️
 
 [Data](articles/57dd1fdd.json)
+
+[Extended Data](ext_articles/57dd1fdd.ext.json)
 
 ---
 
@@ -68,25 +84,35 @@ On 22 July 2022, a gunman who arrived in a car had opened fire at six individual
 
 [Data](articles/234141cd.json)
 
+[Extended Data](ext_articles/234141cd.ext.json)
+
 ---
 
-### කොළඹ අනවසර ඉදිකිරීම් ගැන රජයෙන් හදිසි තීරණයක්
+### Emergency decision on unauthorized constructions in Colombo
 
 *2024-06-10 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197605) · `si`
 
-කොළඹ අගනගරය ඇතුළු තදාසන්න ප්‍රදේශයවල ජල ගැලීම්වලට හේතුවන අනවසර ඉදිකිරීම් සියල්ල කඩිනමින් ඉවත් කිරීමට පියවර ගන්නා බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා පවසයි.
+The Urban Development and Housing Ministry plans to control Colombo's flooding through wetland conservation and improve drainage systems. A circular will be issued to state institutions within two weeks. The initiative involves seven special projects launched by the Sri Lanka Land Development Corporation, aiming to reduce floods in Colombo and its suburbs in three phases.
 
-රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් ඒ මහතා මේ බව පැවසීය.
+🟩
 
-ඊට අදාළ චක්‍රලේඛය සති දෙකක් ඇතුළත සියළුම රාජ්‍ය ආයතනලට ලබාදෙන බවද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කර තිබේ.
+Urban Development and Housing Ministry Secretary to the Ministry of Urban Development and Housing Ministry. Mr. Analyananda says.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම්වරයා මෙහිදී කියා සිටියේ කොළඹ නගරය හා තදාසන්න ප්‍රදේශවල පවතින තෙත් බිම් සංරක්ෂණය කිරීම මගින් ජල ගැලීම් පාලනය කිරීමට හැකි බවය.
+He was speaking at a press conference held at the Government Information Department.
 
-කොළඹ අගනගරය ඇතුළු තදාසන්න ප්‍රදේශවල පවතින කුඩා ජල මාර්ග, පැති කාණු අවහිරවීම ජලගැලීම්වලට ප්‍රධාන හේතුව බවට හදුනාගෙන තිබෙන බවද ලේකම්වරයා පවසයි.
+He further stated that the circular will be given to all state institutions within two weeks.
+
+The Secretary of the Urban Development and Housing Ministry said that the water flows can be controlled by the conservation of wetlands in Colombo and suburbs.
+
+Small waterways, sidespread waterways, in suburbs, in Colombo and suburbs have been identified as the main reason for floods.
+
+Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Authority, Urban Development Authority, the Department of Irrigation and Local Authorities.
 
 ...
 
 [Data](articles/a227fb44.json)
+
+[Extended Data](ext_articles/a227fb44.ext.json)
 
 ---
 
@@ -177,6 +203,8 @@ Therefore, Minister Gunawardena requested that the union end the strike and avoi
 ◼️
 
 [Data](articles/01a45da5.json)
+
+[Extended Data](ext_articles/01a45da5.ext.json)
 
 ---
 
@@ -2363,27 +2391,5 @@ Tight security has been in place in Delhi, which was declared a no-fly zone, wit
 [Data](articles/6fcde23f.json)
 
 [Extended Data](ext_articles/6fcde23f.ext.json)
-
----
-
-### Ali Sabry to attend BRICS Ministerial Session in Russia
-
-*2024-06-10 01:44:05* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-attend-BRICS-Ministerial-SessioninRussia/56-762868) · `en`
-
-On an invitation extended by the Foreign Minister of Russia, Foreign Minister Ali Sabry is scheduled to leave for Russia to attend the BRICS Ministerial Session which will be held in Nizhniy Novgorod in Russia on 11 June.
-
-The Foreign Minister has been invited for the Ministerial Meeting as the current Chair of the IORA Council of Ministers.
-
-Russia is hosting the BRICS Ministerial Session under the theme “Strengthening Multilateralism for Fair Global Development and Security”.
-
-During the Meeting of the Foreign Ministers from the countries in the Global South, Foreign Minister Ali Sabry is scheduled to deliver a Statement on the “role of BRICS and Global South in reforming global governance, ensuring sustainable development, enhancing global security”.
-
-On the side-lines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including the host country.
-
-◼️
-
-[Data](articles/409b3691.json)
-
-[Extended Data](ext_articles/409b3691.ext.json)
 
 ---

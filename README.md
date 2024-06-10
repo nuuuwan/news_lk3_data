@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 21:34:30**
+As of **2024-06-10 21:54:14**
 
 ## Newspaper Stats
 
-*Scraped **29,621** Articles*
+*Scraped **29,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,534
+adalk | 2,535
 adaderanalk | 3,356
 tamilmirrorlk | 3,470
 virakesarilk | 4,543
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,620 (100.0%) of 29,621 articles have been extended.
+29,621 (100.0%) of 29,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### இன்று முதல் முறையாக தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபாய் கிடைத்தது
+### 1,700 rupees for plantation workers for the first time today
 
 *2024-06-10 20:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இன்று-முதல்-முறையாக-தோட்டத்-தொழிலாளர்களுக்கு-1-700-ரூபாய்-கிடைத்தது/76-338719) · `ta`
 
-1,700 ரூபாவாக அதிகரிக்கப்பட்ட தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளம் இன்று (10) முதல் முறையாக மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனத்தின் தலைமை அலுவலகத்தில் வழங்கப்பட்டுள்ளது.
+For the first time, plantation workers received a daily wage hike of Rs 1,700, totaling Rs 2,700, as per a government directive issued on April 30. Despite opposition from the Sri Lanka Plantation Company and the Plantation Owners Association, the Elgaduwa Plantation Company complied, distributing the increased pay to its workers at its headquarters in Matale.
 
-கடந்த ஏப்ரல் 30 ஆம் திகதி வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலின் ஊடாக தோட்டத் தொழிலாளர்களின் மொத்த நாளாந்த சம்பளத்தை 1000 ரூபாவிலிருந்து 1700 ரூபாவாக உயர்த்துவதற்கு தொழிலாளர் ஆணையாளர் நாயகம் தீர்மானித்திருந்தார்.
+🟩
 
-எவ்வாறாயினும், இலங்கை பெருந்தோட்ட நிறுவனம் மற்றும் தோட்ட உரிமையாளர்கள் சங்கமும் இவ்வாறான சம்பள அதிகரிப்புக்கு உடன்படப்போவதில்லை என தொடர்ந்தும் தெரிவித்து வந்தன.
+The daily salary of plantation workers increased by Rs 1,700 has been paid to the headquarters of the Elgaduwa Plantation Company for the first time today (10).
 
-இந்த நிலையில், அரசாங்கத்தின் தீர்மானத்திற்கு அமைய தோட்டத் தொழிலாளர்களுக்கு அதிகரிக்கப்பட்ட சம்பளத்தை வழங்குவதற்கு மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனம் இன்று நடவடிக்கை எடுத்துள்ளது.
+The Commissioner General of Labor had decided to increase the total daily salary of plantation workers from 1000 rupees to 1700 rupees through a gazette notification released on April 30.
 
-அதன்படி இன்று பிற்பகல் மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனத்தின் தலைமை அலுவலகத்தில் தோட்டத் தொழிலாளர்களுக்கு அதிகரிக்கப்பட்ட நாளாந்த சம்பளம் வழங்கப்பட்டது. R
+However, the Sri Lanka Plantation Company and the Plantation Owners Association continued to say that it would not agree with such salary increases.
+
+In the meantime, the Matale Elkaduwa Plantation Company has taken steps to provide increased salary to plantation workers in accordance with the government's decision.
+
+Accordingly, the daily salary was paid to the plantation workers at the headquarters of the Elgaduwa Plantation Company Matale this afternoon.. Remble
 
 ◼️
 
 [Data](articles/51c3d0ef.json)
+
+[Extended Data](ext_articles/51c3d0ef.ext.json)
 
 ---
 
@@ -301,6 +307,26 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 [Data](articles/390c9c60.json)
 
 [Extended Data](ext_articles/390c9c60.ext.json)
+
+---
+
+### ඉන්දීය අගමැතිට ලංකාවේ සංචාරයකට ආරාධනා
+
+*2024-06-10 18:31:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-අගමැතිට-ලංකාවේ-සංචාරයකට-ආරාධනා/11-410126) · `si`
+
+නවදිල්ලි නුවරට ගොස් සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය ජ්‍යෙෂ්ඨ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා අතර හමුවක් අද (10) සිදු විය.
+
+ඉන්දීය ආයෝජන මත මෙරට ආරම්භ කර, අතරමග නැවතී ඇති සංවර්ධන ව්‍යාපෘති කඩිනමින් යළි ආරම්භ කිරීම පිළිබඳ මෙහිදී සාකච්ඡා කෙරුණු අතර එම කටයුතු සොයා බැලීමට නුදුරු දිනකදීම ශ්‍රී ලංකාවේ සංචාරයක නිරත වන බව ජයශංකර් මහතා පැවසීය.
+
+අසල්වැසියාට පළමු තැන දෙන ඉන්දීය ප්‍රතිපත්තිය සම්බන්ධයෙන්ද මෙහිදී අදහස් හුවමාරු කර ගැනිණි.
+
+ඉන්දීය රජය විසින් ත්‍රිකුණාමලය කේන්ද්‍ර කර ගනිමින් ආරම්භ කිරීමට නියමිත කර්මාන්ත කලාපය පිළිබඳවද සාකච්ඡා කෙරුණු අතර ඉන්දීය ආයෝජකයන් රැසක් එහි සිය ආයෝජන කටයුතු ආරම්භ කිරීමට නියමිත බවත්, ඉන්දීය ආයෝජකයන්ට අමතරව වෙනත් රටවල ආයෝජකයන්ද මෙම කර්මාන්ත කලාපයේ ආයෝජන සඳහා සම්බන්ධ කිරීමට අපේක්ෂා කරන බවත් ජයශංකර් මහතා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ කෘෂිකර්මාන්තය, සෞඛ්‍ය අධ්‍යාපනය සහ ආර්ථික කළමනාකරණය යන ක්ෂේත්‍රයන්හි බලතල නව ආර්ථික පරිවර්තන පනත මඟින් පළාත් සභාවලට හිමිවන බවයි.
+
+...
+
+[Data](articles/1fcea79c.json)
 
 ---
 
@@ -2307,31 +2333,5 @@ He said 6,000 of the accidents die and more than 100,000 people were injured and
 [Data](articles/9a61670e.json)
 
 [Extended Data](ext_articles/9a61670e.ext.json)
-
----
-
-### Massive accident avoided: hurt to five
-
-*2024-06-10 11:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாரிய-விபத்து-தவிர்க்கப்பட்டது-ஐவருக்கு-காயம்/76-338689) · `ta`
-
-In a recent accident on the Digana-Kengalla road, five people, including two female teachers and several students, were injured after their van collided with a wall and a telephone pole while trying to avoid a fallen tree. The driver, who attempted to steer clear of the obstacle, was also hospitalized. The incident highlights concerns over the lack of communication from local authorities regarding the removal of hazardous trees in the area.
-
-🟩
-
-Five people were injured and admitted to the hospital when a van carrying a schoolgirl carrying a schoolgirl in a land on a land on the Digana-Kengalla road.
-
-The van driver, who saw the tree on the street suddenly fell down, tried to avoid accident. However, the Teldeniya police said that the van crashed into a wall and telephone pole as the van was unable to control.
-
-The accident took place today (10) and the driver of the van has been admitted to the hospital.
-
-Two female teachers and several school children who were traveling in the vehicle were admitted to the hospital with minor injuries, police said.
-
-It has been revealed that the people of the area have not been informed of the land owner and the concerned authorities to remove the rotten tamarind tree.
-
-◼️
-
-[Data](articles/f00d9143.json)
-
-[Extended Data](ext_articles/f00d9143.ext.json)
 
 ---

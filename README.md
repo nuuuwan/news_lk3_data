@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 09:54:04**
+As of **2024-06-10 10:06:51**
 
 ## Newspaper Stats
 
-*Scraped **29,489** Articles*
+*Scraped **29,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,339
 tamilmirrorlk | 3,456
 virakesarilk | 4,519
 dailymirrorlk | 4,676
-adaderanasinhalalk | 4,745
+adaderanasinhalalk | 4,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,489 (100.0%) of 29,489 articles have been extended.
+29,489 (100.0%) of 29,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### ප්‍රමිතියෙන් තොර සබන් භාවිතයෙන් බිළිඳුන්ට සංකූලතා
+
+*2024-06-10 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197588) · `si`
+
+ප්‍රමිතියෙන් තොර සබන් වර්ග භාවිතා කිරීම හේතුවෙන් බිළිඳුන්ගේ සමෙහි විවිධ සංකූලතා ඇති වී තිබෙන බවට තොරතුරු වාර්තා වී ඇතැයි රජයේ පවුල් සෞඛ්‍ය සේවා සංගමය පවසයි.
+
+එහි භාණ්ඩාගාරික ප්‍රියංගනී සුසංගිකා මහත්මිය පැවසුවේ, වර්තමානයේ පවතින ආර්ථික තත්ත්වය මත ඇතැම් මව්පියන් ප්‍රමිතියෙන් තොර බාල සබන් වර්තමානයේ තම බිළිඳුන් සඳහා භාවිතා කරන බවත්, එහි බලපෑම ඇතිවන්නේ අනාගතයේදී බවය.
+
+"අපිට මේ දවස්වල වාර්තා වෙලා තියෙනවා දරුවන්ගේ ඇඟේ යම් යම් අසාත්මිකතා. මේ ගැන හොයලා බලනකොට අපිට තේරුණ එක දෙයක් තමා ප්‍රමිතියෙන් තොර බාල බිළිඳු සබන් භාවිතා කිරීමෙන් තමා මේ තත්ත්වය ඇති වෙන්නේ කියන එක. විශේෂයෙන්ම කියන්න ඕනේ අම්මලාට තමන්ගේ දරුවන්ගේ සබන් පාවිච්චි කිරීමේ දී සැලකිලිමත් වෙන්න ඕන විශේෂම කාරණය තමා ශ්‍රී ලංකා ප්‍රමිති ආයතනයෙන් නිකුත් කළ සහතිකය සහිත බේබි සබන් වර්ගයක් පාවිච්චි කරන්න කියන එක. බිළිඳු සම ඉතාම සංවේදී තැනක්. ඒ නිසා අද නෙමෙයි මෙහි ඵළවිපාක ඇති වෙන්නේ වසර ගණනාවකින්. ඒ නිසා විශේෂයෙන්ම ආර්ථික තත්ත්වය එසේ වුවත් මේ ගැන සැලකිලිමත් වෙන්න..."
+
+◼️
+
+[Data](articles/b8f6f7e5.json)
+
+---
 
 ### Recovery of Missing Student
 
@@ -2217,29 +2233,5 @@ In this case, when the police team rushed to the house, the people in the house 
 [Data](articles/154fea0e.json)
 
 [Extended Data](ext_articles/154fea0e.ext.json)
-
----
-
-### Woman arrested for stealing jewelery
-
-*2024-06-09 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185676) · `ta`
-
-A 27-year-old woman from Colombo-Wellampitiya, living in Vavuniya Gardens, was arrested on Sunday for stealing gold jewelry and a talisman from the Kumbabishekam event in Jaffna. The items were found hidden in her underwear when she was detained at the Jaffna police station. She has been transferred to the Jaffna Regional Criminal Investigation Division for further investigation and will face legal proceedings.
-
-🟩
-
-A woman was arrested on Sunday (9) for stealing gold jewelery, including a talisman of servants who attended the Kumbabishekam in Kannaditti Kalikoil, Jaffna.
-
-The 27 -year -old from Colombo - Wellampitiya, who lives in the Vavuniya Gardens, is a 27 -year -old, police said.
-
-When the woman was arrested and detained at the Jaffna police station, the stolen talisman and gold jewelery were taken from the woman's underwear.
-
-The woman has been handed over to the Jaffna Regional Criminal Investigation Division for further inquiries and then taken action in court, police said.
-
-◼️
-
-[Data](articles/2eea4e95.json)
-
-[Extended Data](ext_articles/2eea4e95.ext.json)
 
 ---

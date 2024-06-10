@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 20:19:15**
+As of **2024-06-10 20:34:48**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 4,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,611 (100.0%) of 29,614 articles have been extended.
+29,614 (100.0%) of 29,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### 26 දැවැන්ත වර්ජනයක්
+### 26 Massive striking strike
 
 *2024-06-10 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197614) · `si`
 
-එළැඹෙන 26 වන දින දිවයින පුරා අසනීප නිවාඩු වාර්තාකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරතවීමට ලංකා ගුරු සංගමය තීරණය කර තිබේ.
+The Ceylon Teachers Union plans a sick leave protest on the 26th due to salary issues, with a general strike on the 12th.
 
-වැටුප් විෂමතා ගැටලුවක් මුල්කර ගනිමින් එම පියවර ගන්නා බව එම සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි
+🟩
 
-එම වෘත්තීය සමිති ක්‍රියාමාර්ගයට සමගාමීව ලබන 12 වනදා විරෝධතා ව්‍යාපාරයක් සංවිධානය කරන බව ලංකා ගුරු සංගමයේ ලේකම් ජෝසප් ස්ටාලින් මහතා වැඩිදුරටත් පැවසීය.
+The Ceylon Teachers Union has decided to engage in a trade union action to report sick leave of sick leave on the 26th.
+
+General Secretary of the Union Joseph Stalin says that action will take on a salary anomalies taking over the problem.
+
+Ceylon Teachers Union Secretary Joseph Stalin added that a protest will be organized on the 12th of this trade union action.
 
 ◼️
 
 [Data](articles/c87038ae.json)
 
+[Extended Data](ext_articles/c87038ae.ext.json)
+
 ---
 
-### முன்பள்ளி ஆசிரியர்களுக்கு மகிழ்ச்சியான செய்தி
+### Happy news to pre -school teachers
 
 *2024-06-10 19:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-ஆசிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338717) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரைக்கு அமைய முன்பள்ளி ஆசிரியைகளுக்கான 2,500 ரூபாய் கொடுப்பனவை 5,000 ரூபாவாக அதிகரிக்க அரசாங்கம் தீர்மானித்துள்ளது.
+The government of Sri Lanka has increased allowances for pre-school teachers, benefiting around 34,000 educators.
 
-தற்போது இலங்கையில் முன்பள்ளி ஆசிரியப் பணியில் சுமார் 34,000 பேர் கடமையாற்றி வருகின்றமை குறிப்பிடத்தக்கது. R
+🟩
+
+The government has decided to increase the allowance of Rs.
+
+It is noteworthy that about 34,000 people are currently working on the pre -school teacher work in Sri Lanka. Remble
 
 ◼️
 
 [Data](articles/94e23ec4.json)
+
+[Extended Data](ext_articles/94e23ec4.ext.json)
 
 ---
 
@@ -182,19 +194,29 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 
 ---
 
-### හිරුණිකාට එරෙහිව සාක්ෂි තියෙනවානම් නඩු දාන්න
+### Case if there are evidence against Hirunika
 
 *2024-06-10 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහිව-සාක්ෂි-තියෙනවානම්-නඩු-දාන්න/11-410124) · `si`
 
-වීදී නාට්‍යයක් කරමින්, මහජනතාවට පීඩාවක් හා පොලිස් රාජකාරියට බාධා කලේ යැයි කියන හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇතුළු පිරිසට එරෙහිව සාක්ෂි ඇත්නම් නඩු පවරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා කුරුඳුවත්ත පොලිසියට අද (10) නියෝග කළේය.
+Colombo Chief Magistrate Thilina Gamage ordered the prosecution of individuals involved in disrupting a women's rights street play, including former MP Hirunika, after 14 people were charged. The case involves allegations of obstructing police during the event.
 
-කාන්තා අයිතීන් වෙනුවෙන් වීදි නාට්‍යයක් කිරීමෙන් හිටපු මන්ත්‍රීවරිය ඇතුළු පිරිස මහජනතාවට පීඩාවක් හා පොලිස් රාජකාරියට බාධාවක් කලේ යැයි කියන සිද්ධියට අදාළ පැමිණිල්ල කැඳවූ අවස්ථාවේදී මහේස්ත්‍රාත්වරයා කුරුඳුවත්ත පොලිසියට එසේ නියෝග කළේය.
+🟩
 
-මෙම සිද්ධියට අදාළ පමිණිල්ල කැඳවු අවස්ථාවේදී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇතු`ථ කාන්තාවන් 13 දෙනෙකු සහ එක් පුද්ගලයකු අධිකරණයේ පෙනී සිටියහ.
+Colombo Chief Magistrate Thilina Gamage ordered the Cinnamon Gamage to prosecute the prosecution to the public.
+
+The Magistrate was called to the Cinnamon Gardens Police when his former MP and others had a street play for women's rights and interrupted the public.
+
+When the incident had been taken up to the incident, 13 women and one person sat the courts.
+
+Investigations into the investigation into the investigation into the investigation into the incident, the complaint made by the progress of the investigation into the incident, the progress of the investigation into the incident, the progress of the investigation and obstructed the police on the occasion of the incident, the progress of the investigation and the police duties were taken into the incident.He said the proceedings had been concluded and sent to the anadis.
+
+The evidence of the OIC of the Cinnamonuwaththa Police OIC on November 14, 2022, the proof of the officers who were produced before courts were notified.
 
 ...
 
 [Data](articles/b83bac8a.json)
+
+[Extended Data](ext_articles/b83bac8a.ext.json)
 
 ---
 

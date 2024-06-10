@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 20:53:25**
+As of **2024-06-10 21:04:25**
 
 ## Newspaper Stats
 
-*Scraped **29,615** Articles*
+*Scraped **29,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,88 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,533
+adalk | 2,534
 adaderanalk | 3,356
 tamilmirrorlk | 3,469
 virakesarilk | 4,543
-dailymirrorlk | 4,694
+dailymirrorlk | 4,698
 adaderanasinhalalk | 4,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,614 (100.0%) of 29,615 articles have been extended.
+29,615 (100.0%) of 29,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ශ්‍රී ලාංකික මවකට ඔස්ට්‍රේලියාවේදී අත්වූ බිහිසුණු ඉරණම
+### Retired soldiers left for Russia to make ends meet: Defence Secy.
+
+*2024-06-10 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Retired-soldiers-left-for-Russia-to-make-ends-meet-Defence-Secy/108-284532) · `en`
+
+Colombo, June 10 (Daily Mirror) - The retired soldiers of Sri Lanka who dedicated their lives to the war left for Russia not to abandon the motherland but to make ends meet, who have been deceived by the scammers promising them a lucrative opportunity, opined Defence Secretary General Kamal Gunaratne.
+
+Gunaratne said by toay 42 of the Sri Lankan ex-military had been brought to the country safely and still a large number remained to be gathered and dispatched from Moscow.
+
+The Defence Secretary was addressing a special function held at the Ananda College Colombo today to mark the Ananda Walk 2024 scheduled on July 7, which would be themed under ‘Educate and Empower to Save Mother Lanka’.
+
+Stressing on the fact that it is high time to take measures against the trending brain drain from Sri Lanka, General Gunaratne said the retired soldiers did not abandon the country like many others but went to earn a better life for their children and families.
+
+...
+
+[Data](articles/96a20473.json)
+
+---
+
+### The horrific fate of Australia to a Sri Lankan mother
 
 *2024-06-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197615) · `si`
 
-සිය දියණිය සහ පවුලේ පිරිස සමඟ කල්ගත කිරීමේ අරමුණින් ඔස්ට්‍රේලියාවට ගිය ලාංකික  කාන්තාවක් මාරාන්තික බැක්ටීරියා ආසාදනයකට මුහුණ දී තිබේ.
+A Sri Lankan mother visiting Australia fell ill due to a rare bacterial infection, leading to the amputation of her left hand after being hospitalized in Melbourne. The infection, caused by mosquito or animal bites, is known as Brucellosis. Despite undergoing surgery and treatment, her condition remains critical, with foreign media estimating her medical costs at over $200,000. A fund has been set up to assist with her expenses.
 
-විදෙස් මාධ්‍ය වාර්තා කළේ, වේදනාව දරාගැනීමට බැරි තාරම් අපහසු එම රෝගය වැළඳුණු කාන්තාව මේ වනවිට සිහිසුන්ව තබා ඇති බවය.
+🟩
 
-74 හැවිරිදි කාර්මෙල් රොද්‍රිගු මේ වසරේ ආරම්භයේ ඔස්ට්‍රේලියාවට යන්නේ සිය දියණිය සහ ඇගේ පවුල සමඟ කල්ගත කිරීමේ අරමුණිනි.
+A woman who went to Australia has faced a deadly bacterial infection with the objective of pursuing her daughter and his family.
 
-මෙල්බර්න් නුවර වාසය කළ ඔවුන් සමඟ මාස කිහිපයක් සිටි ඇය හදිසියේ මෙලෙස රෝගාතුර වී තිබේ.
+Foreign media reports that the woman who had uncomfortable damaged disease was unconscious.
 
-කාර්මේල්ගේ වම් අත ඉදිමී නිල්පැහැව තිබූ අතර ඇයගේ දියණිය පළමුවෙන්ම සිය මව රැගෙන යන්නේ පවුලේ වෛද්‍යවරයා වෙතටය.
+74-year-old Carmell Rodrigo, a 74-year-old Carmell leaves Australia to pursue her daughter and her family.
 
-නමුත්, තත්ත්වය බරපතළ වීම හේතුවෙන් ඇය කඩිනමින් රෝහල්ගත කරන ලෙසට පවුලේ වෛද්‍යවරයා උපදෙස් දී තිබුණි.
+She had been sick and sick in Melbourne.
 
-රෝහල්ගතකළ ඇයට වෛද්‍යවරුන් පවසන්නේ, ජීවිතය බේරාගැනීමට නම් වේදනාව ගෙනඑන වම් අත කපා ඉවත් කළ යුතු බවය.
+Carmal's left hand was fascinated and her daughter takes his mother first to the family doctor.
 
-වම් අත කපා ඉවත් කිරීමෙන් පසුව සිදුකරන ලද වෛද්‍ය පරීක්ෂණවලදී අනාවරණ වන්නේ ඇය ලක්ව ඇත්තේ දුර්ලභ බැක්ටීරියා ආසාදනයකට බවය.
+However, the family doctor was instructed to hospitalize that as a result of the death.
+
+Her hospitalized her doctors say that the left hand should be removed and removed the left hand.
+
+After the left hand was cut off, medical tests revealed that she had been revealed to a rare bacterial infection.
+
+Doctors say that the cells in the wounded places are destroyed by small blood vessels and the skin under the skin under the skin.
 
 ...
 
 [Data](articles/240158ab.json)
+
+[Extended Data](ext_articles/240158ab.ext.json)
+
+---
+
+### Planters’ Association condemns Thondaman’s illegal actions at Pedro Estate, calls for justice
+
+*2024-06-10 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Planters-Association-condemns-Thondamans-illegal-actions-at-Pedro-Estate-calls-for-justice/155-284529) · `en`
+
+Colombo, June 10 (Daily Mirror) - While condemning Minister Jeevan Thondaman's recent illegal behaviour at Pedro Estate, Nuwara Eliya, the Planters' Association of Ceylon (PA) urged the Sri Lankan Government and the Sri Lankan Police to conduct a comprehensive investigation into this incident and ensure that those responsible are brought to justice.
+
+The Minister's actions, which included intimidation tactics and disregard for the law, have caused widespread concern within the plantation community, the association said in a statement.
+
+The PA called for immediate measures to safeguard the industry stakeholders and restore confidence in the plantation sector.
+
+...
+
+[Data](articles/d5451ebb.json)
 
 ---
 
@@ -166,6 +208,22 @@ Meanwhile, the Low Country Plantation Union staged a protest in Elvpitiya town a
 
 ---
 
+### New laws planned to control wetland destruction and illegal constructions
+
+*2024-06-10 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-laws-planned-to-control-wetland-destruction-and-illegal-constructions/108-284528) · `en`
+
+Colombo, June 10 (Daily Mirror) - New laws are to be enacted to control the destruction of wetlands, including illegal constructions and they are negotiating with all government agencies to reach a common consensus, Housing, Construction and Cultural Affairs Ministry Secretary W.S. Sathyananda said.
+
+While addressing the media, he said this common consensus is to prepare a programme that gathers all the knowledge to implement these policies as a model country for the conservation and protection of wetlands, and the protection of the biodiversity associated with them.
+
+The media briefing was held to inform about the first conference of the International Wetland Park Association in Australia, New Zealand and Asia, and the conference is scheduled to be held from June 17 to 21 at the Diyasaru Park, Battaramulla.
+
+...
+
+[Data](articles/19e3155f.json)
+
+---
+
 ### President invites Indian Prime Minister
 
 *2024-06-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197611) · `si`
@@ -217,6 +275,20 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 [Data](articles/390c9c60.json)
 
 [Extended Data](ext_articles/390c9c60.ext.json)
+
+---
+
+### විශ්වවිද්‍යාලයට යෑම කඩිනම් කිරීමට පියවර
+
+*2024-06-10 18:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාලයට-යෑම-කඩිනම්-කිරීමට-පියවර/11-410125) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහා ම උසස් පෙළ අධ්‍යයන කටයුතු ආරම්භ කර විශ්වවිද්‍යාල ප්‍රවේශය ද කඩිනම් කිරීමෙන් දරුවන්ගේ කාලය අපතේ යෑම වැලැක්වීම උදෙසා අධ්‍යාපන අමාත්‍යාංශය අදාළ පියවර ගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+
+අපොස උසස් පෙළ විභාගයෙන් දිවයිනේ විශිෂ්ට ප්‍රතිඵල ලබාගත් සිසු සිසුවියන් ඇගයීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් අධ්‍යාපන අමාත්‍යාංශයේ දි අද පැවති වැඩසටහනකට එක් වෙමින් ඒ මහතා මේ බව පැවසී ය. ඒ අනුව වයස අවුරුදු 16 ඉක්මවන විට දී උසස් පෙළත් 18 වැනි විය ඉක්මවද්දී පාසල් අධ්‍යාපනයත් නිමා කර කඩිනමින් විශ්වවිද්‍යාල ප්‍රවේශයට අවස්ථා විවර කිරීමේ අරමුණින් මේ වන විට අතපසු වූ අධ්‍යයන කටයුතු නිමා කිරීමට විශ්වවිද්‍යාල පද්ධතිය තුළ ද එක වර කණ්ඩායම් දෙකක් අධ්‍යයන කටයුතුවල නිරත වන බවත් අමාත්‍යවරයා සඳහන් කළේ ය.
+
+...
+
+[Data](articles/11889dac.json)
 
 ---
 
@@ -533,6 +605,18 @@ The Prime Minister of Bangladesh has promised the Prime Minister Ranil Wickremes
 [Data](articles/fce50b1d.json)
 
 [Extended Data](ext_articles/fce50b1d.ext.json)
+
+---
+
+### Absorb us into teaching profession…
+
+*2024-06-10 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Absorb-us-into-teaching-profession/110-284524) · `en`
+
+The All Ceylon School Development Officers Union staged a protest march towards the Fort Railway Station today, demanding that the government promptly absorb their service into the teaching profession. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/66f741f9.json)
 
 ---
 
@@ -2235,117 +2319,5 @@ For five months from May, the country has received US $ 2,624.4 million to the c
 [Data](articles/9845fde9.json)
 
 [Extended Data](ext_articles/9845fde9.ext.json)
-
----
-
-### President meets Bangladesh Prime Minister in New Delhi
-
-*2024-06-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Bangladesh-Prime-Minister-in-New-Delhi/108-284498) · `en`
-
-President Ranil Wickremesinghe met Prime Minister Sheikh Hasina of Bangladesh in New Delhi earlier today.
-
-The meeting took place on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi.
-
-The President’s Media Division confirmed the meeting, which highlights the ongoing efforts to strengthen regional ties and cooperation among South Asian nations.
-
-◼️
-
-[Data](articles/b6afb45d.json)
-
-[Extended Data](ext_articles/b6afb45d.ext.json)
-
----
-
-### Israel’s centrist minister Benny Gantz quits Netanyahu government
-
-*2024-06-10 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99778/israels-centrist-minister-benny-gantz-quits-netanyahu-government) · `en`
-
-Israeli minister Benny Gantz announced his resignation from Prime Minister Benjamin Netanyahu’s emergency government on Sunday, withdrawing the only centrist power in the embattled leader’s far-right coalition amid a months-long war in Gaza.
-
-The departure of Gantz’s centrist party will not pose an immediate threat to the government. But it could have a serious impact nonetheless, leaving Netanyahu reliant on hardliners, with no end in sight to the Gaza war and a possible escalation in fighting with Lebanese Hezbollah.
-
-Last month, Gantz presented Netanyahu with a June 8 deadline to come up with a clear day-after strategy for Gaza, where Israel has been pressing a devastating military offensive against the ruling Palestinian militant group Hamas.
-
-Netanyahu brushed off the ultimatum soon after it was given.
-
-...
-
-[Data](articles/3fbb3e2e.json)
-
-[Extended Data](ext_articles/3fbb3e2e.ext.json)
-
----
-
-### “25 percent of the IMF conditions are not fulfilled”
-
-*2024-06-10 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-நிபந்தனைகளில்-25-சதவீதம்-நிறைவேற்றப்படவில்லை/175-338686) · `ta`
-
-As of December 2023, 25% of IMF-promised reforms for Sri Lanka remain unfulfilled, including crucial aspects like good governance and anti-corruption measures. Despite progress in some areas, the lack of fulfillment indicates potential obstacles to economic recovery. The upcoming third cash tranche from the IMF, set to be signed on June 12, aims to address these issues, emphasizing transparency and combating corruption. However, the success of this initiative hinges on fulfilling these unmet commitments, which are critical for long-term economic stability in Sri Lanka.
-
-🟩
-
-Will it be planned that the IMF can make the project a successful manner by improving the good governance system in Sri Lanka?
-
-On June 12, the International Monetary Fund (IMF) will sign a contract for the third cash allowance of the IMF.
-
-According to the latest Verite Company's IMF watchdogs, 25 percent of the promises have not been fulfilled as of the renewed plan of December 2023.
-
-Of the 63 promises to be completed in this scheme, 32 have been fulfilled, but 16 promises are not fulfilled and 15 are unknown. (Could not find the truth because of the data is not available.)
-
-The 16 -unveiled promises have come to the conclusion that good governance will fail.
-
-Sri Lanka has not accomplished the issues that have been identified as the root cause of the economic crisis by the IMF project.That means financialization and anti -corruption.
-
-In September 2023, it was published in September 2023 that the Good Governance Review Report was made in Sri Lanka under the leadership of the IMF in Asia.
-
-...
-
-[Data](articles/b1c71340.json)
-
-[Extended Data](ext_articles/b1c71340.ext.json)
-
----
-
-### President Ranil meets Bangladeshi PM in Delhi
-
-*2024-06-10 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99777/president-ranil-meets-bangladeshi-pm-in-delhi-) · `en`
-
-Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe of Bangladesh’s commitment to support Sri Lanka’s agricultural modernization program.
-
-President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina are currently in New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi. The two leaders engaged in bilateral discussions this morning (10), where Prime Minister Hasina assured her country’s commitment to assist Sri Lanka to modernised agriculture.
-
-President Ranil Wickremesinghe also affirmed his commitment to dispatch a delegation of Sri Lankan agricultural experts to Bangladesh. Their objective is to study Bangladesh’s agricultural modernization program through cooperative methods and gather valuable insights to enhance Sri Lanka’s own agricultural modernization efforts.
-
-...
-
-[Data](articles/7dec954b.json)
-
-[Extended Data](ext_articles/7dec954b.ext.json)
-
----
-
-### Court order to Mr. River Sanjeewa
-
-*2024-06-10 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197592) · `si`
-
-Mr. River Sanjeewa, a notorious drug dealer and organized crime leader, is ordered to remain in Boossamulla Prison until the 24th of this month. Arrested at Katunayake International Airport with a fake Nepalese passport, his detention follows an order by Mrs. Silani Perera.
-
-🟩
-
-An organized criminal leader of the Weeragula Police and a strong drug dealer, Religion, has been retained at the Boossamulla Prison until the 24th of this month.
-
-That is today (10) on an order by Mrs. Silani Perera today.
-
-Sanjeewa Kumara alias Mammulla, who is considered a member of an organized crime, was arrested on September 13 last year at the Katunayake International Airport.
-
-The suspect had arrived at the Katunayake airport using a fake passport from Kathmandu, Nepal.
-
-The police obtained permission after the Prevention of Terrorism Act.
-
-◼️
-
-[Data](articles/b18c0fbd.json)
-
-[Extended Data](ext_articles/b18c0fbd.ext.json)
 
 ---

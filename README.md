@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 20:34:48**
+As of **2024-06-10 20:53:25**
 
 ## Newspaper Stats
 
-*Scraped **29,614** Articles*
+*Scraped **29,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 3,356
 tamilmirrorlk | 3,469
 virakesarilk | 4,543
 dailymirrorlk | 4,694
-adaderanasinhalalk | 4,769
+adaderanasinhalalk | 4,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,614 (100.0%) of 29,614 articles have been extended.
+29,614 (100.0%) of 29,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### ශ්‍රී ලාංකික මවකට ඔස්ට්‍රේලියාවේදී අත්වූ බිහිසුණු ඉරණම
+
+*2024-06-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197615) · `si`
+
+සිය දියණිය සහ පවුලේ පිරිස සමඟ කල්ගත කිරීමේ අරමුණින් ඔස්ට්‍රේලියාවට ගිය ලාංකික  කාන්තාවක් මාරාන්තික බැක්ටීරියා ආසාදනයකට මුහුණ දී තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ, වේදනාව දරාගැනීමට බැරි තාරම් අපහසු එම රෝගය වැළඳුණු කාන්තාව මේ වනවිට සිහිසුන්ව තබා ඇති බවය.
+
+74 හැවිරිදි කාර්මෙල් රොද්‍රිගු මේ වසරේ ආරම්භයේ ඔස්ට්‍රේලියාවට යන්නේ සිය දියණිය සහ ඇගේ පවුල සමඟ කල්ගත කිරීමේ අරමුණිනි.
+
+මෙල්බර්න් නුවර වාසය කළ ඔවුන් සමඟ මාස කිහිපයක් සිටි ඇය හදිසියේ මෙලෙස රෝගාතුර වී තිබේ.
+
+කාර්මේල්ගේ වම් අත ඉදිමී නිල්පැහැව තිබූ අතර ඇයගේ දියණිය පළමුවෙන්ම සිය මව රැගෙන යන්නේ පවුලේ වෛද්‍යවරයා වෙතටය.
+
+නමුත්, තත්ත්වය බරපතළ වීම හේතුවෙන් ඇය කඩිනමින් රෝහල්ගත කරන ලෙසට පවුලේ වෛද්‍යවරයා උපදෙස් දී තිබුණි.
+
+රෝහල්ගතකළ ඇයට වෛද්‍යවරුන් පවසන්නේ, ජීවිතය බේරාගැනීමට නම් වේදනාව ගෙනඑන වම් අත කපා ඉවත් කළ යුතු බවය.
+
+වම් අත කපා ඉවත් කිරීමෙන් පසුව සිදුකරන ලද වෛද්‍ය පරීක්ෂණවලදී අනාවරණ වන්නේ ඇය ලක්ව ඇත්තේ දුර්ලභ බැක්ටීරියා ආසාදනයකට බවය.
+
+...
+
+[Data](articles/240158ab.json)
+
+---
 
 ### 26 Massive striking strike
 
@@ -2321,29 +2347,5 @@ The police obtained permission after the Prevention of Terrorism Act.
 [Data](articles/b18c0fbd.json)
 
 [Extended Data](ext_articles/b18c0fbd.ext.json)
-
----
-
-### Relief for passengers who are embarrassing due to the strike of the train drivers
-
-*2024-06-10 10:43:58* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ගේ-වර්ජනය-හේතුවෙන්-අපහසුතාවයට-පත්වන-මගීන්ට-සහනයක්/11-410113) · `si`
-
-In response to train driver strikes, Sri Lanka Transport Board has deployed extra buses to ease travel for students and office-goers affected by the disruption. Chairman Lalith de Alwis confirmed the deployment, ensuring services run smoothly despite the industrial action.
-
-🟩
-
-The additional buses have been deployed to prevent the trains of the railway drivers as a result of a group of train operators will start with the sights.
-
-The Sri Lanka Transport Board states that a large number of buses have been added to the operation today.
-
-The Chairman Lalith de Alwis stated that the depots in the railway stations have been informed of the matter.
-
-The Railway Driver Project operated today (10) on the fourth date on the fourth today (10th) has difficulty office and school children.
-
-◼️
-
-[Data](articles/78992813.json)
-
-[Extended Data](ext_articles/78992813.ext.json)
 
 ---

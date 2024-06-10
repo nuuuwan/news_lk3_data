@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 22:34:30**
+As of **2024-06-10 22:52:36**
 
 ## Newspaper Stats
 
-*Scraped **29,634** Articles*
+*Scraped **29,637** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 267
+colombotelegraphcom | 269
 dbsjeyarajcom | 278
 bbccomsinhala | 287
 newsfirstlk | 363
-islandlk | 1,600
+islandlk | 1,601
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,535
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,626 (100.0%) of 29,634 articles have been extended.
+29,634 (100.0%) of 29,637 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,35 +170,47 @@ Stressing on the fact that it is high time to take measures against the trending
 
 ---
 
-### யாழில் தமிழரசு கட்சியினரை சந்தித்தார் சஜித்பிரேமதாச
+### Sajitpremadasa met the Tamil party in Jaffna
 
 *2024-06-10 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185789) · `ta`
 
-யாழ்ப்பாணத்திற்கு விஐயம் மேற்கொண்டிருந்த எதிர்க்கட்சி தலைவர் சஜித்பிரேமதாச தலைமையிலான குழுவினர் இன்று திங்கட்கிழமை தமிழரசு கட்சியினரை சந்தித்தனர்.
+Opposition leader Sajitpremadasa met with the Tamil National Alliance (TNA) in Jaffna, including leaders like Mawai Senadirasa, MA Sumanthiran, and others, at the TNA office.
 
-இலங்கை தமிழரசு கட்சி அலுவலகத்தில் குறித்த சந்திப்பு திங்கட்கிழமை (10) இரவு இடம்பெற்றுள்ளது.
+🟩
 
-கட்சி தலைவர் மாவை சேனாதிராசா, பாராளுமன்ற உறுப்பினர் எம்.ஏ சுமந்திரன் மற்றும் கட்சியின் சிரேஸ்ட தலைவர் சிவிகே சிவஞானம், நிர்வாக செயலாளர் குலநாயகம் ஆகியருடன் எதிர்க்கட்சி தலைவர் சஜித்பிரேமதாச தலைமையிலான குழுவினர் சந்திப்பை மேற்கொண்டனர்.
+A delegation led by opposition leader Sajitpremadasa, who was in Jaffna, met with the TNA on Monday.
+
+The meeting was held on Monday night at the Sri Lanka Tamil National Party office.
+
+Party leader Mawai Senadirasa, MP MA Sumanthiran and party senior leader Sivakayaganam and executive secretary Kulanayagam held a meeting of opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/9ee57539.json)
 
+[Extended Data](ext_articles/9ee57539.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் 26ஆம் திகதி கயீன விடுமுறை - இலங்கை ஆசிரியர் சங்கம்
+### Ceylon Holidays on the 26th - Sri Lanka Teachers Association
 
 *2024-06-10 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185788) · `ta`
 
-நாடளாவிய ரீதியில் எதிர்வரும் 26ஆம் திகதி சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவதற்கு இலங்கை ஆசிரியர் சங்கம் தீர்மானித்துள்ளது.
+Sri Lanka Teachers Union plans a trade union action on the 26th due to wage disputes. The protest, organized on the 12th, aims to address these issues.
 
-ஊதிய முரண்பாடு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சங்கத்தின் பொதுச்செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+🟩
 
-தொழிற்சங்க நடவடிக்கைக்கு சமாந்தரமாக எதிர்வரும் 12ஆம் திகதி கண்டனப் போராட்டத்தை ஏற்பாடு செய்யவுள்ளதாக இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் மேலும் தெரிவித்தார்.
+The Sri Lanka Teachers Union has decided to engage in trade union action on the 26th of this month.
+
+Joseph Stalin, general secretary of the association, said the move was taken due to a wage conflict.
+
+Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest will be organized on the 12th of this month.
 
 ◼️
 
 [Data](articles/33cf5105.json)
+
+[Extended Data](ext_articles/33cf5105.ext.json)
 
 ---
 
@@ -254,43 +266,57 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 
 ---
 
-### தென் ஆபிரிக்கா - பங்களாதேஷ் டி குழு போட்டி இன்று
+### South Africa - Bangladesh D Group Tournament Today
 
 *2024-06-10 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185787) · `ta`
 
-தென் ஆபிரிக்காவுக்கும் பங்களாதேஷுக்கும் இடையிலான டி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டி நியூயோர்க், நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் இன்று திங்கட்கிழமை 10 நடைபெறுகிறது.
+In the T20 World Cup, South Africa faces Bangladesh at the Nasav Kandri International Stadium. South Africa, victorious in the first two matches, aims to extend its lead. Bangladesh seeks to capitalize on its talents to advance towards the Super 8 round. The match holds significance as it could determine which team qualifies for the Super 8. Historically, South Africa leads with eight victories over Bangladesh in international T20s, including three in the T20 World Cup. The teams' rosters feature notable players like Quinton de Kock for South Africa and Shakib Al Hasan for Bangladesh, setting the stage for an exciting encounter.
 
-இந்த மைதானத்தில் தனது முதல் இரண்டு போட்டிகளை விளையாடி வெற்றிபெற்ற தென் ஆபிரிக்காவுக்கு இப் போட்டியில் சாதகமான முடிவு கிடைக்கும் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-எனினும் சுப்பர் 8 சுற்றுக்கான வாய்ப்பை சற்று அதிகரித்துக்கொள்ளும் பொருட்டு பங்களாதேஷ் இன்றைய போட்டியில் திறமையை வெளிப்படுத்தி தென் ஆபிரிக்காவுக்கு சவால் விடுத்து வெற்றி பெற முயற்சிக்கும்.
+The T20 World Cup Cricket Tournament for South Africa and Bangladesh will be held at the Nasav Kandri International Stadium on Monday.
 
-இந்தப் போட்டியில் தென் ஆபிரிக்கா வெற்றிபெற்றால் முதலாவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெறும்.
+South Africa, who won the first two matches at the stadium, is expected to get a favorable result.
 
-இந்த இரண்டு அணிகளுக்கும் இதுவரை நடைபெற்ற 8 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் தென் ஆபிரிக்கா எட்டிலும் வெற்றிபெற்றுள்ளதுடன் அதனை இன்று 9ஆக உயர்த்திக்கொள்ள தென் ஆபிரிக்கா முயற்சிக்கும்.
+However, Bangladesh will showcase the talent in today's match and challenge South Africa in order to increase the chance of the Super 8 round.
 
-ரி20 உலகக் கிண்ணப் போட்டியில் பங்களாதேஷை எதிர்த்தாடிய  3 சந்தர்ப்பங்களிலும் தென் ஆபிரிக்கா வெற்றி பெற்றுள்ளது.
+If South Africa wins this match, the first team will qualify for the Super 8 round.
+
+South Africa has won the 8 International T20 cricket matches for the two teams so far and South Africa will try to increase it to 9 today.
+
+South Africa has won three occasions against Bangladesh in the T20 World Cup.
+
+South Africa: Quinton de Kock, Reza Hendrix, Aiden Margram (Chairman), Triston Stubs, Henry Clazan, David Miller, Maco Jenson, Keshav Maharaj, Kiso Rabada, Odnil Badman
 
 ...
 
 [Data](articles/29929a1b.json)
 
+[Extended Data](ext_articles/29929a1b.ext.json)
+
 ---
 
-### வவுனியாவில் வீட்டின் சுவர் இடிந்து வீழ்ந்தில் இரண்டு மாத குழந்தை பலி!
+### Two -month -old child killed in house wall collapsing in Vavuniya
 
 *2024-06-10 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185786) · `ta`
 
-வவுனியா, ஓமந்தை, புதிய வேலர் சின்னக்குளத்தில் வீட்டின் சுவர் இடிந்து வீழ்ந்தில் இரண்டு மாத குழந்தை பலியாகியுள்ளது.
+A two-month-old baby died after a house wall collapsed in Vavuniya, Sri Lanka. The incident occurred on July 7th when the child was visiting relatives. Despite immediate medical attention at Vavuniya General Hospital, the baby succumbed to injuries.
 
-முல்லைத்தீவில் வசிக்கும் ச.சிந்துஜன் தனது மனைவி மற்றும் இரண்டு மாத குழந்தையுடன் வவுனியாவில் உள்ள தனது தங்கையின் வீட்டிற்கு கடந்த 7ஆம் திகதி சென்றுள்ளனர்.
+🟩
 
-நிகழ்வொன்றுக்காக வருகை தந்திருந்த நிலையில் தங்கையின் தற்காலிக வீட்டில் தங்கியிருந்த போது  மாலை சுமார் 5 மணியளவில் வீட்டில் உட்பகுயில் உள்ள கற்சுவர் குழந்தையின் மீது வீழ்ந்துள்ளது.
+Two -month -old baby has been killed when the wall of the house collapsed in the new Veler Chinnakulam, Vavuniya, Omanthai.
 
-உடனடியாக வீட்டார் குழந்தையை வவுனியா பொது வைத்தியசாலைக்கு கொண்டு சென்றபோதிலும் குழந்தை உயிரிழந்துள்ளது.
+S Sindhujan, who lives in Mullaitivu, has visited the house of his sister in Vavuniya on the 7th of last month.
+
+At about 5 pm, the house in the house fell on the child while staying at the temporary house of her sister.
+
+The child was immediately taken to the Vavuniya General Hospital, but the baby died.
 
 ◼️
 
 [Data](articles/abafa6b6.json)
+
+[Extended Data](ext_articles/abafa6b6.ext.json)
 
 ---
 
@@ -374,15 +400,21 @@ The match between the Bangladesh team and South African team will be held today 
 
 ---
 
-### கொள்ளுப்பிட்டியில் பேருந்து ஒன்று பல வாகனங்களுடன் மோதி விபத்து
+### A bus collided with several vehicles
 
 *2024-06-10 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185785) · `ta`
 
-இரண்டு கார்கள் மற்றும் மோட்டார் சைக்கிள் ஒன்றுடன் பஸ் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A bus crash involved two cars and a motorcycle, causing significant damage and injuries.
+
+🟩
+
+The accident occurred when a bus collided with two cars and motorcycle.
 
 ◼️
 
 [Data](articles/27b933ef.json)
+
+[Extended Data](ext_articles/27b933ef.ext.json)
 
 ---
 
@@ -414,23 +446,29 @@ Meanwhile, the Low Country Plantation Union staged a protest in Elvpitiya town a
 
 ---
 
-### ஓமந்தை - பனிக்கர்புளியங்குளத்தில் 235 ஏக்கர் விடுவிப்பு
+### Omanthai - The release of 235 acres in Panpuriyankulam
 
 *2024-06-10 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185784) · `ta`
 
-ஓமந்தை, பனிக்கர் புளியங்குளத்தில் 235 ஏக்கர் காணி வனவளத் திணைக்களத்தால் விடுவிக்கப்பட்டுள்ளதாக மாவட்ட அபிவிருத்திக் குழுத் தலைவர் கு.திலீபன் தெரிவித்துள்ளார்.
+In Omanthai, 235 acres of land in Panpuriyankulam were released by the Forest Department for livelihood training, as announced by District Development Committee Chairman K. Dileepan. This move aims to support locals facing challenges in finding work, with each family set to receive an acre of land.
 
-ஓமந்தை, பனிக்கர் புளியங்குளம் பகுதிக்கு விஜயம் செய்து காணிகளை பார்வையிட்ட பின் திங்கட்கிழமை (10) கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பனிக்கர் புளியங்குளம் பகுதியில் வாழ்ந்த மக்கள் பலர் வாழ்வாதார பயிற் செய்கைக்கு நீண்ட காலமாக காணியின்றி அவதிப்பட்டனர். இந்நிலையில் மாவட்ட அபிவிருத்திக்குழு தலைவர் என்ற வகையில் வனவளத் திணைக்களத்துடன் பல தடவை பேசி ஜனாதிபதியின் ஆலோசனைக்கு அமைய தற்போது அம் மக்களுக்கான காணி விடுவிக்கப்பட்டுள்ளது.
+District Development Committee Chairman K. Dileepan said that 235 acres of land has been released by the Department of Forest Department in Pankar Puliyankulam, Omanthai.
 
-வவுனியா, ஓமந்தை, பனிக்கர் புளியங்குளம் குளத்திற்கான காணி உட்பட மக்களின் வாழ்வாதாரப் பயிற் செய்கைக்காக 235 ஏக்கர் நிலம் வனவளத் திணைக்கள அதிகாரிகள் நேரடியாக வருகை தந்து பார்வையிட்டு அதனை விடுவித்துள்ளனர்.
+He said this while commenting on Monday (10) after he visited the lands at Pankar Puliyankulam, Omanthai.. As he further stated,
 
-இதன் மூலம் இப் பகுதியில் வாழும் ஒவ்வொரு குடும்பங்களுக்கும் ஒரு ஏக்கர் காணி வாழ்வாதார நடவடிக்கைக்காக வழங்கப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+Many people living in Pankar Puliyankulam have been suffering from a long time for livelihood training. As the Chairman of the District Development Committee, the land has been released to the people on the advice of the President by speaking to the Forest Department several times.
+
+Officials of the Forest Department have visited 235 acres of land for the livelihood training of the people, including the land for the Vavuniya, Omanthai and Pankar Puliyankulam pond.
+
+He added that every families living in the area will be given one acre of land for livelihood.
 
 ◼️
 
 [Data](articles/a76a9367.json)
+
+[Extended Data](ext_articles/a76a9367.ext.json)
 
 ---
 
@@ -452,19 +490,25 @@ The media briefing was held to inform about the first conference of the Internat
 
 ---
 
-### மட்டு ஏறாவூரில் ஆடுகளை மிருகவதை செய்த குற்றச்சாட்டில் ஒருவர் கைது
+### One person arrested for allegedly beating goats in Eravur
 
 *2024-06-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185783) · `ta`
 
-மட்டக்களப்பு எறாவூரில் சிறிய மரப்பெட்டி ஒன்றில் 3 ஆடுகளை அடைத்து வைத்து மோட்டர் சைக்கிள் ஒன்றில் எடுத்துச் சென்ற ஒருவரை மிருகவதை குற்றச்சாட்டில் திங்கட்கிழமை(10) கைது செய்துள்ளதாக ஏறாவூர் பொலிசார் தெரிவித்தனர்.
+A man was arrested in Eravur for allegedly transporting three goats in a wooden box to be slaughtered, after being stopped by police. The 55-year-old faces charges related to animal cruelty, and the goats were rescued.
 
-பொலிசாருக்கு கிடைத்த தகவல் ஒன்றையடுத்து செங்கலடியில் இறைச்சிக்காக 3 ஆடுகளை வாங்கி அதனை மரப்பெட்டி ஒன்றில் கட்டி அடைத்துக் கொண்டு மோட்டர்சைக்கிள் ஒன்றில் ஏறாவூருக்கு சம்பவதினமான இன்று பகல் எடுத்துச் சென்ற நிலையில் ஏறாவூர் பிரதேசத்தில் வைத்து பொலிசார் குறித்த மோட்டர்சைக்கிளை நிறுத்தி சோதனையிட்டனர்.
+🟩
 
-இதன் போது ஆடுகளை சிறுய மரப் பெட்டியில் அடைத்து எடுத்துச் சென்ற 55 வயதுடைய ஏறாவூரைச் சேர்ந்தவரை மிருக வதை குற்றச்சாட்டில் கைது செய்ததுடன் 3 ஆடுகள் மோட்டர் சைக்கிள் ஒன்றையும் மீட்டனர்.
+Eravur police said that a man who was carrying 3 goats in a small wooden box in Eravur, Batticaloa was arrested on Monday (10).
+
+According to information available to the police, the police stopped the motorcycle in the Eravur area as they took 3 goats for meat in Chengaladi.
+
+During this time, a 55 -year -old from Eravur, who was taken to a small wooden box, was arrested on charges of animal death and 3 goats rescued a motorcycle.
 
 ◼️
 
 [Data](articles/d2a105ec.json)
+
+[Extended Data](ext_articles/d2a105ec.ext.json)
 
 ---
 
@@ -928,6 +972,18 @@ All the tasks of the film are completed and waiting for the release. In this cas
 
 ---
 
+### Provincializing Universities: The Risks & Dangerous Precedent Of The Newly Proposed NEPF
+
+*2024-06-10 16:53:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/provincializing-universities-the-risks-dangerous-precedent-of-the-newly-proposed-nepf/) · `en`
+
+The new National Education Policy Framework (NEPF) currently being implemented by the government has begun to be noticed by the public. However, there is a noticeable absence of in-depth discussion of the implications of the policies that it proposes. So far critics have quite convincingly pointed out the neoliberal motives behind the proposals and the threat that it poses to the longstanding tradition of free education in Sri Lanka. These criticisms hold merit, as the compilers of the framework have failed to present any moral stance, such as a commitment to social justice and equity, within the document.
+
+...
+
+[Data](articles/afc9a1dc.json)
+
+---
+
 ### The release date of 'Lander' starring Vidarth
 
 *2024-06-10 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185765) · `ta`
@@ -993,6 +1049,18 @@ Police have released photographs of the suspect and urge the public to provide a
 [Data](articles/29171e91.json)
 
 [Extended Data](ext_articles/29171e91.ext.json)
+
+---
+
+### Fear Of Tainted Politicians: To Hold Or Not To Hold Elections
+
+*2024-06-10 16:40:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fear-of-tainted-politicians-to-hold-or-not-to-hold-elections/) · `en`
+
+Tainted politicians are abundant in Sri Lanka. If a small pebble were thrown from the spectator gallery in the legislature, there is a 99 percent chance it would hit the head of a scam-tainted politician. These individuals are either compromised by their own actions or by their association with and support for the most corrupt and vile political leaders alleged to have committed numerous crimes, including the embezzlement of state funds. Corruption among Sri Lankan politicians is rampant, a scourge that has undermined governance, the judiciary and civil liberties. It has stifled economic growth, and eroded the very fabric of society, a phenomenon that knows no boundaries. Its impact has been devastating, affecting not just the corridors of power but reaching deep into the daily lives of ordinary citizens for more than seven decades.
+
+...
+
+[Data](articles/ef1eb553.json)
 
 ---
 
@@ -1156,21 +1224,33 @@ Police said that the handgun was prepared in which country was not yet known.
 
 ---
 
-### ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக அறிவிப்பதாக குறிப்பிடவில்லை  - பொதுஜன பெரமுன
+### Ranil Wickremesinghe is not mentioned as presidential candidate - PA
 
 *2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185752) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக அறிவிப்பதாகவும்,அவருக்கு ஆதரவு வழங்குவதாகவும் எந்நிலையிலும் குறிப்பிடவில்லை.பொதுஜன பெரமுன தலைமையிலான அரசாங்கம் தோற்றம் பெற வேண்டும் என்பதில் உறுதியாக உள்ளோம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய ஒருங்கிணைப்பாளர் ரோஹித்த அபேகுணவர்தன தெரிவித்தார்.
+The Puthujana Peramuna-led government announced President Ranil Wickremesinghe as the presidential candidate, despite no mention from the Good Governance government. The election is set before November, but details remain undisclosed. The Sri Lanka Peoples Freedom Alliance (PA)-led government expects acceptance of their decision, which includes former President Mahinda Rajapaksa's announcement. It's clarified that Wickremesinghe wasn't named as interim president.
 
-பத்தரமுல்லயில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுன காரியாலயத்தில் திங்கட்கிமை (10) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-எதிர்வரும் நவம்பர் மாதத்துக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடத்தப்படும்.ஜனாதிபதி தேர்தலை இலக்காகக் கொண்டு தேர்தல் நடவடிக்கைகளை கண்காணிக்கும் அலுவலகத்தை ஆரம்பித்துள்ளோம்.எதிர்வரும் நாட்களில் சகல தேர்தல் தொகுதிகளிலும் தேர்தல் பிரசாரக் கூட்டங்களை நடத்த தீர்மானித்துள்ளோம்.
+The government headed by the Puthujana Peramuna -led government, Rohitha Abeygunawardena, said that President Ranil Wickremesinghe was declared as the presidential candidate.
 
-நல்லாட்சி அரசாங்கம் முறையற்ற வகையில் பிற்போட்ட மாகாண சபைத் தேர்தல் பற்றி தற்போது எவரும் பேசுவது கிடையாது.மாகாண சபைத் தேர்தலை நடத்தினால் படுதோல்வி அடைவதை முன்கூட்டியதாக அறிந்தே நல்லாட்சி அரசாங்கம் தேர்தல் முறைமை திருத்தம் ஊடாக தேர்தலை பிற்போட்டது.
+He was speaking at a media briefing held at the Sri Lanka PA at the Sri Lanka PA in Battaramulla.
 
-...
+The presidential election will be held before November.
+
+The government of goodwill has not spoken about the election of the Good Governance Elections.
+
+We have taken a final decision on the presidential candidate. Former President Mahinda Rajapaksa will soon announce the resolution. People will accept our resolution.
+
+We did not mention anywhere that President Ranil Wickremesinghe was elected as the interim president.
+
+We are sure that the Sri Lanka Peoples Freedom Alliance (PA) -led government should look back.
+
+◼️
 
 [Data](articles/4ebbbe42.json)
+
+[Extended Data](ext_articles/4ebbbe42.ext.json)
 
 ---
 
@@ -2241,53 +2321,5 @@ He said that the fields surrounding the mountain, the natural forest of the moun
 [Data](articles/42a74ad5.json)
 
 [Extended Data](ext_articles/42a74ad5.ext.json)
-
----
-
-### Nepal’s Lamichhane to join T20 World Cup squad in West Indies
-
-*2024-06-10 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nepals-Lamichhane-to-join-T20-World-Cup-squad-in-West-Indies/108-284502) · `en`
-
-(Kathmandu) - Sandeep Lamichhane will join Nepal's T20 World Cup squad in the West Indies after missing matches in the United States because his visa was denied, the cricket association said Monday.
-
-Nepal had originally wanted to select former skipper Lamichhane, who had an eight-year sentence for rape quashed on appeal, but his US visa was denied twice despite intense lobbying.
-
-The T20 World Cup is being co-hosted by the United States and West Indies.
-
-"Nepali player Sandeep Lamichhane will leave for the West Indies for the ongoing ICC T20 World Cup and join the Nepali national cricket team," association secretary Paras Khadka said in a statement.
-
-Spin bowler Lamichhane, 23, was once the poster boy for cricket in Nepal, but was convicted for raping a young woman in a Kathmandu hotel in 2022. That was quashed last month.
-
-...
-
-[Data](articles/b61aa798.json)
-
-[Extended Data](ext_articles/b61aa798.ext.json)
-
----
-
-### In the election for the European Parliament, extreme seizures are confused with German politics
-
-*2024-06-10 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185734) · `ta`
-
-In the European Parliament elections, extremist parties are predicted to gain significantly, potentially winning over 150 of 720 seats. This includes expected victories in major countries like France and Italy, where the far-right could triumph. The outcome could drastically influence the EU's political direction for the next five years, reflecting public sentiment towards current governments.
-
-🟩
-
-The uncertainty in Europe has further increased following the election results revealed that the radical Sudal parties could win the election for the European parliament.
-
-In advance of the three -day elections in the 27 countries in the EU, the radicalist parties could get a significant success, as the results of the three -day elections have begun.
-
-The right -wing parties can capture more than 150 seats out of 720 seats, according to polls.
-
-It is noteworthy that in countries with high seats such as France, Italy, Italy. French Prime Minister Emanuel Macron has dissolved the parliament and announced a new date for the election following polls that Marine Le Pen's radicalist party would win in France.
-
-Macron's Renasans's party receives 15 percent of the votes, which receives 31 percent of the votes, the Socialist Party will get 14 percent of the votes.
-
-...
-
-[Data](articles/33bb350f.json)
-
-[Extended Data](ext_articles/33bb350f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 19:35:30**
+As of **2024-06-10 19:53:08**
 
 ## Newspaper Stats
 
-*Scraped **29,608** Articles*
+*Scraped **29,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,532
 adaderanalk | 3,356
-tamilmirrorlk | 3,467
+tamilmirrorlk | 3,468
 virakesarilk | 4,543
 dailymirrorlk | 4,694
-adaderanasinhalalk | 4,766
+adaderanasinhalalk | 4,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,608 (100.0%) of 29,608 articles have been extended.
+29,608 (100.0%) of 29,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### பல வாகனங்களை மோதித்தள்ளிய பேருந்து
+
+*2024-06-10 19:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-வாகனங்களை-மோதித்தள்ளிய-பேருந்து/175-338716) · `ta`
+
+இதில் இரண்டு கார்கள் மற்றும் மோட்டார் சைக்கிள் ஒன்றுடன் பேருந்து மோதியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அலுவலக ஊழியர்களை ஏற்றிச் சென்ற பேருந்து ஒன்றே இவ்வாறு விபத்துக்குள்ளாகியுள்ளதாக மேலதிக தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/68124df3.json)
+
+---
+
+### කාසියේ වාසිය දකුණු අප්‍රිකාවට
+
+*2024-06-10 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197613) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බංග්ලාදේශ කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර තරගය අද (10) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/847b6f5a.json)
+
+---
+
+### රටම කතාවූ වැටුප ගැන අද ලැබුණු සුබ ආරංචිය
+
+*2024-06-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197612) · `si`
+
+රජය ගැසට් කළ පරිදි රුපියල් 1,700ක් දක්වා ඉහළ දැමුණු වතු කම්කරු දෛනික වැටුප මුල් වරට ලබාදීම අද (10) සිදු කෙරුණි.
+
+කම්කරු කොමසාරිස් ජනරාල්වරයා පසුගිය අපේල් 30 වැනිදා නිකුත් කළ ගැසට් නිවේදනය මගින් රුපියල් 1,000ක්ව පැවති වතු කම්කරු දෛනික සම්පූර්ණ වැටුප රුපියල් 1,700ක් දක්වා ඉහළ නැංවීමට තීරණය කර තිබුණි.
+
+කෙසේවෙතත්, ලංකා වැවිලි සමාගම සහ වතු හාම්පුතුන්ගේ සංගමය දිගින් දිගටම පැවසුවේ එවැනි වැටුප් වැඩි කිරීමකට එකඟනොවන බවය.
+
+මෙවන් පසුබිමක මාතලේ, ඇල්කඩුව වැවිලි සමාගම රජයේ තීරණය ප්‍රකාරව වතු කම්කරුවන් සඳහා වැඩිකළ වැටුප් ලබාදීමට අද පියවර ගත්තේය.
+
+ඒ අනුව අද පස්වරුවේ මාතලේ, ඇල්කඩුව වැවිලි සමාගම් ප්‍රධාන කාර්යාලයේදී වතු කම්කරු ජනතාව වෙත වැඩි කළ දෛනික වැටුප් ප්‍රදානය කෙරුණි.
+
+මේ අතර, වැඩිකළ රුපියල් 1,700ක දෛනික වැටුප ලබාදෙන ලෙස ඉල්ලමින් පහතරට වතු කම්කරුවන්ගේ සංගමය ඇල්පිටිය නගරයේදී උද්ඝෝෂණයක නිරත විය.
+
+◼️
+
+[Data](articles/f6cf0ef0.json)
+
+---
 
 ### President invites Indian Prime Minister
 
@@ -2301,71 +2349,5 @@ The meeting was held today (10) during the visit.
 [Data](articles/f426e9b3.json)
 
 [Extended Data](ext_articles/f426e9b3.ext.json)
-
----
-
-### 2 -month -old baby death after the wall collapsed
-
-*2024-06-10 10:14:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவர்-இடிந்து-விழுந்ததில்-2-மாத-குழந்தை-மரணம்/175-338683) · `ta`
-
-In Omanthai, a 2-month-old infant tragically passed away as a section of a residential building's reception wall crumbled.
-
-🟩
-
-A 2 -month -old child died when a part of the reception wall of a house in the Omanthai - Puthuvelar - Chinnakulam area collapsed.
-
-◼️
-
-[Data](articles/0f69cf7e.json)
-
-[Extended Data](ext_articles/0f69cf7e.ext.json)
-
----
-
-### Dissolve France Parliament;President Emanuel Macron calls for election
-
-*2024-06-10 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185714) · `ta`
-
-French President Emmanuel Macron dissolves Parliament, calling for elections on June 30 and July 7 after his party's poor showing in EU polls from June 6 to 9.
-
-🟩
-
-He announced the dissolution of Parliament and said that parliamentary elections will be held on June 30 and July 7.
-
-European elections were held throughout the European Union from June 6 to 9. In it, French President Emmanuel Macron's party has failed.
-
-In this case, French President Emmanuel Macron has called for the election to dissolve the parliament.
-
-◼️
-
-[Data](articles/1e0b9eae.json)
-
-[Extended Data](ext_articles/1e0b9eae.ext.json)
-
----
-
-### Gunmen attack Hindu pilgrim bus in India’s Kashmir, nine killed
-
-*2024-06-10 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99776/gunmen-attack-hindu-pilgrim-bus-in-indias-kashmir-nine-killed) · `en`
-
-Gunmen ambushed a bus carrying Hindu pilgrims in Indian-administered Kashmir, which then tumbled into a ravine killing at least nine people, police said Sunday.
-
-The attack came around an hour before Hindu-nationalist Prime Minister Narendra Modi was sworn in for a third term on Sunday evening in the capital New Delhi.
-
-“Initial reports suggest that militants were waiting there in an ambush and they fired on the bus,” police officer Mohita Sharma told AFP.
-
-“The driver lost control and fell into the deep gorge. Nine people died and 23 were injured.”
-
-The crash happened near Reasi town, in the south of the disputed territory, as the bus was returning from a popular Hindu shrine in the area.
-
-Opposition Congress party president Mallikarjun Kharge condemned the “gruesome terror attack” in a post on social media platform X.
-
-Modi’s “chest-thumping propaganda of bringing peace and normalcy... rings hollow”, he said.
-
-◼️
-
-[Data](articles/6b4a14b7.json)
-
-[Extended Data](ext_articles/6b4a14b7.ext.json)
 
 ---

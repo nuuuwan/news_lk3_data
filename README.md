@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 18:13:39**
+As of **2024-06-10 18:25:48**
 
 ## Newspaper Stats
 
-*Scraped **29,597** Articles*
+*Scraped **29,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,530
+adalk | 2,531
 adaderanalk | 3,356
 tamilmirrorlk | 3,467
 virakesarilk | 4,538
 dailymirrorlk | 4,693
-adaderanasinhalalk | 4,763
+adaderanasinhalalk | 4,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,595 (100.0%) of 29,597 articles have been extended.
+29,597 (100.0%) of 29,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,69 @@ The discussions also covered India’s “Neighborhood First” policy. Minister
 
 [Data](articles/a634c6ba.json)
 
+[Extended Data](ext_articles/a634c6ba.ext.json)
+
 ---
 
-### தாலியை தட்டிவிட்ட மணப்பெண்: தேம்பி தேம்பி அழுத மாப்பிள்ளை
+### කොල්ලුපිටියේ බිහිසුණු බස් අනතුරක්
+
+*2024-06-10 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197610) · `si`
+
+කොල්ලුපිටියේදී බස් රථයක් රථ වාහන කිහිපයක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+වැඩිදුර තොරතුරු වාර්තාවන්නේ කාර්යාල සේවක සේවිකාවන් පිරිසක් ප්‍රවාහන කෙරෙමින් තිබූ බස් රථයක් මෙලෙස අනතුරට ලක්ව ඇති බවටය.
+
+බස් රථයේ තිරිංග ක්‍රියාවිරහිත වීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට සැකපළ කරයි.
+
+බස් රථය මෝටර් රථ දෙකක සහ යතුරුපැදියක ගැටීමෙන් අනතුර සිදුව ඇති බවට වාර්තාවෙයි.
+
+◼️
+
+[Data](articles/802344ed.json)
+
+---
+
+### මැණික් ව්‍යාපාරිකයාගේ කනෙන් රිංගූ පවුලම දැලේ
+
+*2024-06-10 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197609) · `si`
+
+රත්නපුර, මුද්දුව ප්‍රදේශයේ මැණික් ව්‍යාපාරිකයෙකුගේ නිවසේ තිබී රුපියල් කෝටි දෙකහමාරකට අධික මැණික් සොරකම් කළ බවට සැක එකම පවුලේ තිදෙනෙකු රත්නපුර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සොරකම සිදු කරන ආකාරය නිවසේ සවි කර තිබු cctv කැමරාවක සටහන් ව තිබුණි.
+
+එකම පවුලේ මව පියා සහ වයස අවුරුදු 12 ක් වන පිරිමි දරුවා එක්ව මෙම සොරකම සිදුකර ඇති අතර ගංවතුරෙන් අවතැන් ව සිටි එම පවුල තම නිවසට ගෙන්වා අහාරපාන ලබා දී ඇත්තේ ද අදාළ ව්‍යාපාරිකයා විසිනි.
+
+◼️
+
+[Data](articles/9c17eb68.json)
+
+---
+
+### The bride who tapped the talisman
 
 *2024-06-10 17:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலியை-தட்டிவிட்ட-மணப்பெண்-தேம்பி-தேம்பி-அழுத-மாப்பிள்ளை/175-338713) · `ta`
 
-போட்டோ ஷுட்டில் மணமக்கள் படுஉற்சாகமாகவும், மகிழ்ச்சியுடன் காணப்பட்டார்கள். அதற்கு பிறகுதான், இப்படியொரு சம்பவம் நடந்துள்ளது. சம்பவத்தில் மாப்பிள்ளை தேம்பி தேம்பி அழுதுள்ளார்.
+A bride from Tirupur abruptly halted her wedding ceremony, shocking everyone present. During a pre-wedding photo shoot, the couple seemed happy. However, the next day, as the groom attempted to tie the mangalsutra, he pushed the bride, causing her to drop the talisman and stop the marriage. Despite inquiries, the bride remained silent, leading to confusion and tears from the groom. The incident sparked discussions among the families and local authorities but ended without legal action, leaving many unanswered questions about the bride's sudden decision.
 
-திருப்பூரைச் சேர்ந்தவர் அந்த இளம்பெண். இவருக்கு அவரது பெற்றோர் திருமண ஏற்பாடுகளை செய்து வந்தனர். இறுதியில், கடந்த 2 மாதங்களுக்கு முன்பு, ஒரு மாப்பிள்ளையை பார்த்து திருமணம் நிச்சயம் செய்தார்கள்.
+🟩
 
-தற்கு பிறகு இளம்பெண்ணும், அந்த இளைஞரும் செல்போனில் பேசி பழகி வந்தார்கள். மற்றொருபக்கம் இரு வீட்டிலுமே திருமண ஏற்பாடுள் பலமாக நடந்து கொண்டிருந்தது.
+The bride in the photo shoot was a sight and happy. It was only after that, such an incident took place. In the incident, the groom is crying.
 
-இந்நிலையில், இவர்களுக்கு திருமண தேதி குறிக்கப்பட்டிருந்தது. இதையடுத்து, திருப்பூரில் உள்ள ஒரு தனியார் மண்டபத்தில் திருமணத்திற்கு முந்தைய நாள், அதாவது போட்டோ ஷூட் நடந்துள்ளது.
+The young woman belongs to Tirupur. His parents were making wedding arrangements for him. Eventually, 2 months ago, they were married to a groom.
 
-இதற்காக மணமக்கள் குடும்பத்தினரும், மண்டபத்துக்கு உற்சாகமாக வந்தனர். மணமகன், மணமகள் இருவருமே போட்டோ ஷூட்டில் மிகவும் மகிழ்ச்சியாக காணப்பட்டனர். போட்டோ ஷூட்டினை, இருவருமே உற்சாகத்துடன் நடத்தினர்.
+After the young girl and the young man were talking on the cell phone. On the other hand, the wedding arrangement was going on in both households.
+
+In this case, the wedding date was marked for them. Subsequently, a private hall in Tirupur was the day before the wedding, ie a photo shoot.
+
+The bride's family came to the hall for this. The bridegroom and the bride were very happy in the photo shoot. The photo shoot, both of them enthusiastically.
+
+After this, the next day was married, and in the morning, relatives started gathering in the wedding hall. The groom and the bride have come to the stage.
 
 ...
 
 [Data](articles/aaa84472.json)
+
+[Extended Data](ext_articles/aaa84472.ext.json)
 
 ---
 
@@ -1802,6 +1846,22 @@ It has been revealed that the people of the area have not been informed of the l
 
 ---
 
+### රට විරුවන්ගෙන් ආර්ථිකයට ලොකු තල්ලුවක්
+
+*2024-06-10 10:59:11* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ගෙන්-ආර්ථිකයට-ලොකු-තල්ලුවක්/11-410114) · `si`
+
+විදේශයන්හි සේවය කරන ශ්‍රී ලාංකිකයන්ගේ ප්‍රේෂණ ආදායම මැයි මාසයය තුළද වර්ධනයක් පෙන්නුම් කරමින් ඩොලර් මිලියන 544.4ක් ශ්‍රී ලංකාවට යොමුකර තිබේ.
+
+එම අගය මේ වසරේ අප්‍රේල් මාසයේ‍ද‍ි වාර්තා වූ ඩොලර් මිලියන 543.8 මෙන්ම පසුගිය වසරේ මැයි මාසයේද‍ වාර්තා වූ ‍ ඩොලර් මිලියන  479.7ක අගයද ඉක්මවා යාමකි.
+
+එසේම මැයි මාසය දක්වා වූ මාස පහ සඳහා, ප්‍රේෂණ මගින් රටට ඇමරිකානු ඩොලර් මිලියන 2, 624.4 ක් ලැබී ඇති අතර එය වසරකට පෙර එම කාල සීමාව හා සැසැදීමේදී සියයට 11.8 ක වර්ධනයකි.
+
+◼️
+
+[Data](articles/9845fde9.json)
+
+---
+
 ### President meets Bangladesh Prime Minister in New Delhi
 
 *2024-06-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Bangladesh-Prime-Minister-in-New-Delhi/108-284498) · `en`
@@ -2263,75 +2323,5 @@ A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
 [Data](articles/816561eb.json)
 
 [Extended Data](ext_articles/816561eb.ext.json)
-
----
-
-### Sri Lanka rupee opens at 302.80/95 to US dollar
-
-*2024-06-10 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-broadly-flat-at-302-80-95-to-us-dollar-167123/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.80/95 to the US dollar on Monday in the first half-hour of trading, while bond yields were steady and stocks opened 0.55 percent higher, dealers said.
-
-In equities, Colombo’s All Share Price Index gained 67.86 points to 12,382.24 and the S&P SL20 of more liquid stocks was up 0.88 percent or 32.35 points to 3,687.96, in the first-half hour of trade.
-
-The Colombo Stock Exchange announced that the settlement cycle for all equity transactions on the CSE will be shortened to T+2 with effect from today (10). The market turnover was 63 million rupees.
-
-In the secondary market, yields were stable in somewhat dull trade, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.95/10.05 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.45/65 percent up from 10.45/55 percent.
-
-A bond maturing on 01.07.2028 was quoted stable at 11.00/10 percent.
-
-...
-
-[Data](articles/95d4aa73.json)
-
-[Extended Data](ext_articles/95d4aa73.ext.json)
-
----
-
-### 3 big chick's litters arrested with 25 million drugs
-
-*2024-06-10 09:21:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටීගේ-පැටව්-තිදෙනෙක්-කෝටි-25ක-මත්ද්‍රව්‍ය-සමග-අල්ලයි/11-410111) · `si`
-
-Three major drug traffickers from Ahungalla, previously based in Dubai, were arrested along with 12kg of drugs and two pistols. The operation took place in a luxury home, revealing the suspects' recent arrival and ongoing criminal activities.
-
-🟩
-
-Police Special Task Force said that three goals of Ahungalla, who was hiding in Dubai kingdom, an organized criminal, has been arrested in a large house worth over Rs.
-
-More than twelve kilograms of drugs with these suspects have been taken into custody by two pistol firearms and five cells.
-
-Police investigations have revealed that the suspects had come to the house nearly three days ago.
-
-◼️
-
-[Data](articles/1b88dcce.json)
-
-[Extended Data](ext_articles/1b88dcce.ext.json)
-
----
-
-### Recovery of Missing Student
-
-*2024-06-10 09:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காணாமல்-போன-மாணவி-சடலமாக-மீட்பு/76-338679) · `ta`
-
-Harivathani, a student from Kallapokku Madagala, Kandy, went missing and was found dead recently. The police received a complaint about her disappearance last Friday. Her body is now at the Kandy Teaching Hospital.
-
-🟩
-
-Harivathani, a student who disappeared in Kallapokku Madagala, Kandy, was found dead yesterday.
-
-The police had lodged a complaint with the police since last Friday.
-
-The body of the deceased student has been placed at the Kandy Teaching Hospital. Remble
-
-◼️
-
-[Data](articles/de812ff0.json)
-
-[Extended Data](ext_articles/de812ff0.ext.json)
 
 ---

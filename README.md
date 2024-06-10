@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 17:04:12**
+As of **2024-06-10 17:19:11**
 
 ## Newspaper Stats
 
-*Scraped **29,587** Articles*
+*Scraped **29,591** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 267
 dbsjeyarajcom | 278
-bbccomsinhala | 286
+bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,529
-adaderanalk | 3,353
-tamilmirrorlk | 3,464
+adaderanalk | 3,354
+tamilmirrorlk | 3,466
 virakesarilk | 4,538
 dailymirrorlk | 4,693
 adaderanasinhalalk | 4,761
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,579 (100.0%) of 29,587 articles have been extended.
+29,587 (100.0%) of 29,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### SOC on education approves ‘Sri Lanka National Commission for UNESCO’ Bill
+
+*2024-06-10 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99788/soc-on-education-approves-sri-lanka-national-commission-for-unesco-bill-) · `en`
+
+The “Sri Lanka National Commission for UNESCO” Bill, which was presented to the Parliament and submitted to the Sectoral Oversight Committee on Education, has been received the approval of the Sectoral Oversight Committee on Education.
+
+This approval was given when the Sectoral Oversight Committee on Education met in Parliament recently (06) under the chairmanship of Member of Parliament Dr. V. Radhakrishnan, the Parliamentary Communications Department said in a statement.
+
+This bill has been presented to make arrangements for the establishment of a National Commission for the United Nations Educational, Scientific and Cultural Organization (UNESCO) and related activities. The committee met and discussed this bill and the amendments to be made on several occasions before, it added.
+
+Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Charita Herath participated in this meeting, the statement mentioned.
+
+...
+
+[Data](articles/2cb12565.json)
+
+---
+
+### வேலைநிறுத்தம் கைவிடப்பட்டது
+
+*2024-06-10 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தம்-கைவிடப்பட்டது/175-338710) · `ta`
+
+போக்குவரத்து அமைச்சருடனான கலந்துரையாடலின் பின்னர், வேலை நிறுத்தத்தை கைவிட ரயில்வே தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+
+போக்குவரத்து அமைச்சர்  பந்துல குணவர்தன மற்றும் ரயில் சாரதிகள் தொழிற்சங்கங்களுக்கு இடையிலான இந்த கலந்துரையாடல் போக்குவரத்து அமைச்சில் இடம்பெற்றுள்ளது.
+
+இரண்டாம் வகுப்பு பதவி உயர்வு தாமதம், ஆட்சேர்ப்பு தாமதம் உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து, குறித்த வேலை நிறுத்தம் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/35a506d2.json)
+
+---
 
 ### Police hunt for fraudster who defrauded Rs. 17.5 million in job scam
 
@@ -50,6 +84,8 @@ Police have released photographs of the suspect and urge the public to provide a
 
 [Data](articles/29171e91.json)
 
+[Extended Data](ext_articles/29171e91.ext.json)
+
 ---
 
 ### Woman drowns after falling from bridge in Ratnapura
@@ -63,6 +99,8 @@ Police said the deceased is a 33-year-old resident of the area.
 ◼️
 
 [Data](articles/3d247e92.json)
+
+[Extended Data](ext_articles/3d247e92.ext.json)
 
 ---
 
@@ -82,6 +120,8 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 
 [Data](articles/aa9adca0.json)
 
+[Extended Data](ext_articles/aa9adca0.ext.json)
+
 ---
 
 ### Selfie with Minister
@@ -93,6 +133,8 @@ The programme of appreciation of the students who obtained excellent results in 
 ◼️
 
 [Data](articles/4336231b.json)
+
+[Extended Data](ext_articles/4336231b.ext.json)
 
 ---
 
@@ -111,6 +153,8 @@ The opposition centre-left Democratic Party came in second with 24% of the vote,
 ...
 
 [Data](articles/a0d32d38.json)
+
+[Extended Data](ext_articles/a0d32d38.ext.json)
 
 ---
 
@@ -160,21 +204,41 @@ Meanwhile, the state president of the party has announced that the Congress part
 
 ---
 
-### ගංවතුරින් පීඩාවට පත් බියගම ජනතාවට රැවන් විජේවර්ධන මහතාගේ මගපෙන්වීමෙන් සනීපාරක්ෂක ද්‍රව්‍ය
+### Sanitation substances hygiene
 
 *2024-06-10 16:20:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරින්-පීඩාවට-පත්-බියගම-ජනතාවට-රැවන්-විජේවර්ධන-මහතාගේ-මගපෙන්වීමෙන්-සනීපාරක්ෂක-ද්‍රව්‍ය/11-410122) · `si`
 
-ගංවතුරින් පීඩාවට පත් බියගම ජනතාව වෙනුවෙන් ලක්ෂ හතහමාරක් වටිනා   සනීපාරක්ෂක දුව්‍ය  තොගයක්  බියගම සහකාර ප්‍රාදේශීය ලේකම් චමත් කල්පනා අමදෝරු මහත්මිය වෙත බියගම ප්‍රාදේශීය සභාවේ හිටපු විපක්ෂ නායක පුසන්න සම්පත් මහතා විසින් අද (10දා) එම කාර්‍යාලයේදී   ප්‍රධානය කලේය.
+The former Opposition Leader of the Biyagama Pradeshiya Sabha distributed hygiene supplies, including 2,500 sanitary towels and 1,000 soaps, to flood-affected areas across 21 divisions, following guidance from the Presidential Advisor Ravan Wijewardene.
 
-කාලගුණ විපර්යාස ජනාධිපති උපදේශක හා බියගම එජාප ප්‍රධාන සංවිධායක රැවන් විජේවර්ධන මහතාගේ මගපෙන්වීම  මත මෙම සනීපාරක්ෂක දුව්‍ය ලබාදීම සිදුවිය .
+🟩
 
-මේ යටතේ සනීපාරක්ෂක තුවා 2500ක් සහ සබන් කෑලි 1000 ක් ගංවතුරින් පීඩාවට පත් බියගම වසම් 21 ක ජනතාව වෙනුවෙන් ලබාදීම සිදුවිය.
+Former Opposition Leader of the Biyagama Pradeshiya Sabha has handed over a stock of hygiene for the people affected by the floods.
 
-මෙම අවස්ථාවට බියගම ප්‍රාදේශීය සභාවෙිි හිටපු මන්ත්‍රීවරුන් වන චතුර පෙරේරා , මාලි අල්ගම හා සමිිබන්ධිකරණ ලේකමිිවරැන් වන මංජුශ්‍රී . දුමින්ද ආටිගල , ශෙල්ටන් සෙබස්තියන්  යන මහත්ම මහත්මීන්ද සහභාගි වූහ.
+The hygiene's deficiencies were delivered on the guidance of the Presidential Advisor and Chief Organizer Ravan Wijewardene.
+
+In this case, 2,500 sanitary towels and 1000 soap pieces were flooded to the public for 21 Biyagama Divisions.
+
+Former Pradeshiya Sabha Chathura Perera, Mali Algama and Manjuzaran. Mr. Duminda Attygalle, Selton Sebastian were also present.
 
 ◼️
 
 [Data](articles/cc4a44eb.json)
+
+[Extended Data](ext_articles/cc4a44eb.ext.json)
+
+---
+
+### ’மாமியா’ கைது
+
+*2024-06-10 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியா-கைது/175-338709) · `ta`
+
+கைத்துப்பாக்கியை வைத்திருந்த நபர் ஒருவரை கொழும்பு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளனர்.பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய இவர்  கைது செய்யப்பட்டுள்ளார். சந்தேகநபர் சீதுவை  வடக்கில் வசிக்கும் 34 வயதுடைய "மாமியா" என அழைக்கப்படும் நபர் ஆவார் .
+
+இந்த கைத்துப்பாக்கியானது எந்த நாட்டில் தயாரிக்கப்பட்டதென இதுவரை கண்யறியப்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/53e14b3b.json)
 
 ---
 
@@ -1044,6 +1108,8 @@ In both the games, Sri Lanka bowlers were able to keep the team in the game unti
 
 [Data](articles/cfaf9ed8.json)
 
+[Extended Data](ext_articles/cfaf9ed8.ext.json)
+
 ---
 
 ### Sumanthiran should act in full swing against Tamil general candidate - Sumanthiran!
@@ -1714,6 +1780,26 @@ The Railway Driver Project operated today (10) on the fourth date on the fourth 
 
 ---
 
+### රුවන්ඩාවට යවන ලද  ශ්‍රී ලාංකික සරණාගතයින්: මේක 'එළිමහන් සිර කඳවුරක්'
+
+*2024-06-10 10:42:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekkyx2x04ko) · `si`
+
+රුවන්ඩාවට යවන ලද  ශ්‍රී ලාංකික සරණාගතයින්: මේක 'එළිමහන් සිර කඳවුරක්'
+
+බ්‍රිතාන්‍ය රජය විසින් ඉන්දීය සාගරයේදී මුදාගෙන රුවන්ඩාව වෙත යවන ලද සංක්‍රමණිකයන් පිරිසක් තමන් ලිංගික හිංසනයන් සහ ප්‍රචණ්ඩත්වයට ගොදුරු වනු ඇතැයි යන බියෙන් පසුවන බව පවසා තිබේ.
+
+එක්සත් රාජධානිය වෙත යන සරණාගතයින් රුවන්ඩාවට යැවීමේ මතභේදාත්මක සැලැස්ම සම්බන්ධයෙන් බ්‍රිතාන්‍ය දේශපාලන පක්ෂ අතර බෙදීම් පැවතිය ද මෙම කුඩා සංක්‍රමණික කණ්ඩායම දැනටමත් වසරකට වැඩි කාලයක් එහි ජීවත් වෙයි.
+
+ඒ අනුව, බීබීසීය ඔවුන්ගෙන් සිව් දෙනෙකු හමු වීම සඳහා නැගෙනහිර-මධ්‍යම අප්‍රිකාව බලා ගියේ ය.
+
+මෙම කණ්ඩායම පවසන්නේ, ඔවුන්ට හුදෙකලා මෙන් ම අනාරක්ෂිත බවක් දැනෙන බව ත් සහ ඔවුන්ගේ සංකීර්ණ වෛද්‍ය අවශ්‍යතා [ඇතැම් අවස්ථාවල අතීතයේ සිදුවූ ස්ත්‍රී දූෂණ සහ වධහිංසාවලට පැමිණ වීමේ ප්‍රතිඵලයක් ලෙස ඇති වූ] ඉටු නොවන බව ත්  ය. ඔවුන් සෑම කෙනෙකුට ම ආහාර සහ අනෙකුත් අත්‍යවශ්‍ය ද්‍රව්‍ය සඳහා සතියකට ඩොලර් 50කට (පවුම් 39) ආසන්න මුදලක් ලැබෙන නමුත් එක්සත් රාජධානියේ සහ රුවන්ඩා රජයන් විසින් එකඟ වනු ලැබ ඇති ඔවුන්ගේ රැඳී සිටීමේ කොන්දේසි යටතේ ඔවුන්ට රැකියාවක නිරත වීමට අවසර නොලැබේ.
+
+...
+
+[Data](articles/404f81e0.json)
+
+---
+
 ### The Israeli government sees
 
 *2024-06-10 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197591) · `si`
@@ -2168,6 +2254,8 @@ In its plan for reduction of carbon emission, the government has decided to have
 
 [Data](articles/a97c0d9f.json)
 
+[Extended Data](ext_articles/a97c0d9f.ext.json)
+
 ---
 
 ### Death in one of the shootings;Killing?Suicide?
@@ -2191,93 +2279,5 @@ Police said the facts were not yet revealed whether the shooting was murdered or
 [Data](articles/589d8f44.json)
 
 [Extended Data](ext_articles/589d8f44.ext.json)
-
----
-
-### It is raining several times in many districts
-
-*2024-06-10 08:04:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-338676) · `ta`
-
-Heavy rains are forecasted for several provinces including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Expectations of over 50mm rainfall in Sabaragamuwa and Nuwara Eliya, along with potential thunderstorms in the evening or night across various regions. Strong winds of 40-50km/h are anticipated in certain areas, prompting the Department of Meteorology to advise caution against heavy winds and lightning risks.
-
-🟩
-
-The Department of Meteorology has said that rainfall will occur in the Western, Sabaragamuwa and North Western Provinces several times in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Sabaragamuwa Province and Nuwara Eliya district will experience more than 50 millimeters of heavy rainfall.
-
-It has also been reported that rain or thunderstorms are expected in the evening or night in a few places in Uva Province.
-
-Heavy winds are expected to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
-
-The Department of Meteorology has urged the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/e35b4d70.json)
-
-[Extended Data](ext_articles/e35b4d70.ext.json)
-
----
-
-### Macron dissolves French parliament and calls elections after big EU vote defeat
-
-*2024-06-10 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99772/macron-dissolves-french-parliament-and-calls-elections-after-big-eu-vote-defeat) · `en`
-
-(AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
-
-The legislative elections will take place in two rounds on June 30 and July 7.
-
-The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
-
-Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
-
-Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
-
-...
-
-[Data](articles/62816b78.json)
-
-[Extended Data](ext_articles/62816b78.ext.json)
-
----
-
-### 20 office trains cancelled as railway strike continues
-
-*2024-06-10 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99771/20-office-trains-cancelled-as-railway-strike-continues) · `en`
-
-At least 20 office trains were cancelled today as well due to the strike launched by Sri Lanka Railway Locomotive Operating Engineers’ Union, says the Railway Department.
-
-Meanwhile, it was reported that over 50 scheduled train journeys were cancelled within yesterday (09) due to the continued strike.
-
-The trade union action launched by the Locomotive Operating Engineers’ Union is continuing for the fourth consecutive day today (10).
-
-They have been on strike since midnight on Thursday, (June 06) over several key demands including solutions to the delays in second-class promotions of locomotive drivers, delays in the recruitment process and several other issues.
-
-It is also mentioned that only locomotive drivers of two of the five running sheds have so far joined the strike and due to this there will be no power set trains operating.
-
-...
-
-[Data](articles/d01d708d.json)
-
-[Extended Data](ext_articles/d01d708d.ext.json)
-
----
-
-### A baby dies after falling
-
-*2024-06-10 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197586) · `si`
-
-In the Salankulam area, Omanthayannalare died from a fall involving a wall bundle.
-
-🟩
-
-Omanthayannalare was killed by a blend of wall bundle of walls in a house in a house in a house in a house in the Salankulam area in Sinnnakulam area.
-
-◼️
-
-[Data](articles/98984ecf.json)
-
-[Extended Data](ext_articles/98984ecf.ext.json)
 
 ---

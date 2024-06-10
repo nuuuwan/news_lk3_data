@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 08:02:18**
+As of **2024-06-10 08:22:53**
 
 ## Newspaper Stats
 
-*Scraped **29,470** Articles*
+*Scraped **29,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
-adalk | 2,513
+adalk | 2,514
 adaderanalk | 3,337
-tamilmirrorlk | 3,451
+tamilmirrorlk | 3,452
 virakesarilk | 4,519
 dailymirrorlk | 4,672
-adaderanasinhalalk | 4,740
+adaderanasinhalalk | 4,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,467 (100.0%) of 29,470 articles have been extended.
+29,473 (100.0%) of 29,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### பல மாவட்டங்களில் பல தடவைகள் மழை பெய்யும்
+
+*2024-06-10 08:04:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-338676) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ மாகாணத்திலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+
+ஊவா மாகாணத்தில் ஒரு சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, அம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/e35b4d70.json)
+
+---
+
+### A baby dies after falling
+
+*2024-06-10 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197586) · `si`
+
+In the Salankulam area, Omanthayannalare died from a fall involving a wall bundle.
+
+🟩
+
+Omanthayannalare was killed by a blend of wall bundle of walls in a house in a house in a house in a house in the Salankulam area in Sinnnakulam area.
+
+◼️
+
+[Data](articles/98984ecf.json)
+
+[Extended Data](ext_articles/98984ecf.ext.json)
+
+---
+
+### Another shot in the South?
+
+*2024-06-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197584) · `si`
+
+A 51-year-old businessman operating a hardware shop in Ranna was shot dead at his store last night. The incident occurred at night, but it's unclear whether it was a homicide or suicide.
+
+🟩
+
+An owner shooting was shot dead in Ranna, Ranna area in Ranna area.
+
+The shooting was held at night last night.
+
+The 51-year-old businessman was a 51 year old businessman.
+
+The man had operated a Hardware shot as a business and was shot dead at the first floor last night.
+
+Police said that the shooting was not yet known as a human killing or suicide.
+
+◼️
+
+[Data](articles/44310319.json)
+
+[Extended Data](ext_articles/44310319.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -50,6 +114,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/40c06239.json)
 
+[Extended Data](ext_articles/40c06239.ext.json)
+
 ---
 
 ### President Ranil attends Modi’s swearing-in ceremony
@@ -65,6 +131,40 @@ President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Ai
 ...
 
 [Data](articles/7d738589.json)
+
+[Extended Data](ext_articles/7d738589.ext.json)
+
+---
+
+### Railway strike further - 20 office trains canceled
+
+*2024-06-10 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197582) · `si`
+
+A railway strike initiated by train drivers' opposition continues, affecting 20 office trains. The delay in promotions and recruitment is cited as reasons, not due to power struggles. Despite planning 47 office trains, 20 were cancelled due to the strike. Discussions between transport minister Bandula Gunawardena and five trade unions are scheduled, aiming to address the issue.
+
+🟩
+
+The Lokomotive Opposition Association says the strike commenced by a group of train drivers will continue today (10).
+
+The delay in the second level promotions commenced on the 6th of the 6th of this month, taking the delay, recruitment late.
+
+The drivers of 5 train drive are only join the strike, and it is not the result of the power sets.
+
+However, Transport Minister Bandula Gunawardena said that "Ada Derana" inquiry, however, Minister of Transport Bandula Gunawardena said that five trade unions have been given a discussion today.
+
+Accordingly, the Minister will be held in the Ministry of Highways this afternoon.
+
+Mr. Derana, however, inquired by Ada Derana, "Ada Derana" stated that such a discussion is being held.
+
+Inquiry from the Deputy General Manager of the Railway Department, he said he had informed the President of the Lockopo-Occutor Engineering regarding the discussion.
+
+Meanwhile, the Railway Department says that 47 office trains have been planned this morning.
+
+...
+
+[Data](articles/06d0dea5.json)
+
+[Extended Data](ext_articles/06d0dea5.ext.json)
 
 ---
 
@@ -654,15 +754,21 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 
 ---
 
-### போதைமாத்திரைகளுடன் நால்வர் கைது
+### Four arrested with drugs
 
 *2024-06-10 00:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைமாத்திரைகளுடன்-நால்வர்-கைது/175-338671) · `ta`
 
-ஆனைக்கோட்டையைச் சேர்ந்த நால்வரே யாழ் மாவட்ட விசேட குற்றதடுப்பு பிரிவினர் நேற்று மாலை கைது செய்யப்பட்டனர்.
+Four members of the Jaffna District Special Crime Branch were arrested last night on drug-related charges.
+
+🟩
+
+Four of the Jaffna District Special Crime Branch were arrested yesterday evening.
 
 ◼️
 
 [Data](articles/d9899189.json)
+
+[Extended Data](ext_articles/d9899189.ext.json)
 
 ---
 
@@ -1035,6 +1141,26 @@ This is the third general election that the National Democratic Alliance continu
 [Data](articles/b1cb1b82.json)
 
 [Extended Data](ext_articles/b1cb1b82.ext.json)
+
+---
+
+### හිටපු SDIG රවීට ආණ්ඩුවෙන් තර්ජන ඒම ගැන අනුරගේ හෙළිකිරීම
+
+*2024-06-09 20:12:01* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-SDIG-රවීට-ආණ්ඩුවෙන්-තර්ජන-ඒම-ගැන-අනුරගේ-හෙළිකිරීම/11-410108) · `si`
+
+විශ්‍රාමික පොලිස් සාමූහිකය ගොඩනැගීමේදී එහි පෙරමුණ ගත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, විශ්‍රාමික පොලිස් සාමූහිකයේ ප්‍රධානී රවී සෙනෙවිරත්න මහතා ඇතුළු නිලධාරීන්ට ආණ්ඩුවෙන් තර්ජන පවා එල්ල වූ බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+ආණ්ඩුවෙන් පමණක් නොව විපක්ෂයෙන්ද තර්ජනාත්මකස්වරූපයෙන්, ආයාචනාත්මක ස්වරූපයෙන් හා ඉල්ලීම් ලෙස මෙම වේදිකාවට ගොඩනොවන ලෙස ඔවුන්ට ඇමතුම් පැමිණි බවද දිසානායක මහතා කීවේය.
+
+අභූත චෝදනා කරමින් විශ්‍රාමික පොලිස් නිලධාරීන් දඩයම් කිරීමේ 'කැත වැඩේ' නතර කරන ලෙස ඔහු සාගල රත්නායක මහතාගේ නම අමන්ත්‍රණය කරමින් කියා සිටියේය.
+
+කිසිදු තර්ජනයකට බිය නොවී, පලා නොයමින් ජාතික ජනබලවේගය සමග එක් වූ සියලු පොලිස් නිලධාරීන්ට දිසානායක මහතා සිය ස්තූතිය පළ කළේය.
+
+පොලිස් සේවයේ රාජකාරිය ඉක්මවා යන යුතුකමක් වෙනුවෙන් විශ්‍රාමික පොලිස් නිලධාරීන් ජාතික ජනබලවේගය සමග එකතු වී සිටින බව දිසානායක මහතා පැවසීය.
+
+...
+
+[Data](articles/f55f7811.json)
 
 ---
 
@@ -2105,119 +2231,5 @@ President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Ai
 [Data](articles/ada91c62.json)
 
 [Extended Data](ext_articles/ada91c62.ext.json)
-
----
-
-### Statt, although in the inside, to play
-
-*2024-06-09 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197559) · `si`
-
-A drug dealer and organized criminal was arrested in Panadura South, along with a suspect and a motorcycle. Over 20 grams of ice narcotics, 10 milligrams of ice, and 42 million rupees were found. Investigations linked the drugs to Kudu Shaluck and Kudu Makuduwa, revealing a larger network involved in drug trafficking.
-
-🟩
-
-The goalin was arrested in Panadura South, the organized criminal and a drug dealer.
-
-One suspect has been arrested along with a motorcycle in the Nalluruwa area in Panadura South Nalluruwa, Panadura South Nalluru area.
-
-Revolver weapons were discovered for over 20 grams of ice narcotics, 10 milligrams of ice, and 42 million rupees.
-
-In questioning of the suspect, another suspect had arrested another suspect who supported the drug from a house.
-
-The two suspects are residents of Panadura Nalluruwa and Moravin.
-
-Investigations have revealed that the drug managed by the drug travelers of the drug travelers who are organized by the drug trafficking of Kudu Shaluck, who is organized by the drug trafficking of Kudu Makuduwa.
-
-◼️
-
-[Data](articles/70dc455e.json)
-
-[Extended Data](ext_articles/70dc455e.ext.json)
-
----
-
-### Iranian woman abuse: One arrested
-
-*2024-06-09 14:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-யுவதி-துஷ்பிரயோகம்-ஒருவர்-கைது/175-338648) · `ta`
-
-In Kegalle, a 22-year-old Iranian woman was arrested for allegedly sexually assaulting a male employee at an Ayurvedic massage center. The suspect, a 41-year-old man from the Randeniya district, reportedly molested her under the guise of providing a massage.
-
-🟩
-
-A 22 -year -old Iranian woman has been arrested for allegedly sexually abusing a company employee, Kegalle police said.
-
-The incident took place at a Ayurvedic massage station on Rambukana Road, Kegalle. The arrested person is 41 -year -old from Randeniya district, Kegalle, police said.
-
-Police said that Iranian woman, who was raped, had come to the Ayurvedic massage center in Randeniya with several Iranians and had the opportunity to massage the suspect.
-
-Police say that the suspect who brought the woman into the massage room was molesting the woman, claiming to be massage.
-
-◼️
-
-[Data](articles/6b07b718.json)
-
-[Extended Data](ext_articles/6b07b718.ext.json)
-
----
-
-### Welcome to the president
-
-*2024-06-09 14:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-338647) · `ta`
-
-President Ranil Wickremesinghe attended Narendra Modi's swearing-in ceremony in New Delhi, where he was warmly received.
-
-🟩
-
-President Ranil Wickremesinghe has visited New Delhi to attend Narendra Modi's swearing -in. He has been welcomed there.
-
-◼️
-
-[Data](articles/59e0612e.json)
-
-[Extended Data](ext_articles/59e0612e.ext.json)
-
----
-
-### Central Environmental Authority Ten major railway stations were selected from the Green Railway War Stations
-
-*2024-06-09 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-පරිසර-අධිකාරිය-හරිත-දුම්රියපොල-තේරිමේ-තරගයෙන්-ප්‍රධාන-දුම්රිය-ස්ථාන-දහයක්-තොරාගනි/11-410097) · `si`
-
-The Central Environmental Authority (CEA), established in 2022, launched a program with the International Environmental Authority to select ten major railway stations for environmental improvement. These stations, including Hatunagalla and Homagama Hospital Roads, were chosen for their potential to enhance green spaces. Awards and certificates were presented to the winners by the Presidential State Minister at the Presidential Secretariat.
-
-🟩
-
-The Central Environmental Authority (CEA) has selected eight main railway stations and two main railway stations, with eight main railway stations and two major railway stations, with two main railway stations and two major railway stations.
-
-The program was launched by the CEA, which was established in 2022 with the International Environmental Authority. The program was organized by the Environmental Education and Awareness Division of the CEA.
-
-Over the Best Green main railway stations in the Best Green main railway stations, Railway Station, Hatunagalla and Homagama Hospital Roads have been selected as subway sites.
-
-The winners of this program have been awarded the prizes and certificates of the Presidential State Minister Janakapura at the Presidential Secretariat on the victories of the program.
-
-◼️
-
-[Data](articles/ace14f45.json)
-
-[Extended Data](ext_articles/ace14f45.ext.json)
-
----
-
-### No budget proposals for 2025, only interim standard account
-
-*2024-06-09 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-budget-proposals-for-2025-only-interim-standard-account/108-284425) · `en`
-
-Colombo, June 9 (Daily Mirror) - Finance State Minister Ranjith Siyambalapitiya said today that he will not present a budget proposal for 2025 and that only an interim standard account will be presented instead.
-
-The Minister said that this is a year when a major election is to be held and that interim standard accounts have been passed before in this manner during such instances.
-
-He said this while speaking to the media in the Ruwanwella area this morning.
-
-According to the budget proposals adopted for 2024, parliamentary approval has been received to carry out revenue expenditure only up to the 31 December 2024, and accordingly, approval should be obtained from a separate budget document for 2025.
-
-◼️
-
-[Data](articles/0468670e.json)
-
-[Extended Data](ext_articles/0468670e.ext.json)
 
 ---

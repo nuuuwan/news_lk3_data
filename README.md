@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 21:04:25**
+As of **2024-06-10 21:19:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,615 (100.0%) of 29,620 articles have been extended.
+29,620 (100.0%) of 29,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Stressing on the fact that it is high time to take measures against the trending
 ...
 
 [Data](articles/96a20473.json)
+
+[Extended Data](ext_articles/96a20473.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 ...
 
 [Data](articles/d5451ebb.json)
+
+[Extended Data](ext_articles/d5451ebb.ext.json)
 
 ---
 
@@ -222,6 +226,8 @@ The media briefing was held to inform about the first conference of the Internat
 
 [Data](articles/19e3155f.json)
 
+[Extended Data](ext_articles/19e3155f.ext.json)
+
 ---
 
 ### President invites Indian Prime Minister
@@ -278,17 +284,25 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 
 ---
 
-### විශ්වවිද්‍යාලයට යෑම කඩිනම් කිරීමට පියවර
+### Measures to expedite attending university
 
 *2024-06-10 18:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාලයට-යෑම-කඩිනම්-කිරීමට-පියවර/11-410125) · `si`
 
-අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහා ම උසස් පෙළ අධ්‍යයන කටයුතු ආරම්භ කර විශ්වවිද්‍යාල ප්‍රවේශය ද කඩිනම් කිරීමෙන් දරුවන්ගේ කාලය අපතේ යෑම වැලැක්වීම උදෙසා අධ්‍යාපන අමාත්‍යාංශය අදාළ පියවර ගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+The Ministry of Education aims to speed up university admission post-GCE Ordinary Level exams. Measures include continuous GCE Advanced Level examinations and maintaining educational resources. The minister emphasizes the importance of adapting to rapid technological changes like AI and addressing global issues like climate change. He assures free education opportunities and supports strengthening the state university system while acknowledging challenges in private education.
 
-අපොස උසස් පෙළ විභාගයෙන් දිවයිනේ විශිෂ්ට ප්‍රතිඵල ලබාගත් සිසු සිසුවියන් ඇගයීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් අධ්‍යාපන අමාත්‍යාංශයේ දි අද පැවති වැඩසටහනකට එක් වෙමින් ඒ මහතා මේ බව පැවසී ය. ඒ අනුව වයස අවුරුදු 16 ඉක්මවන විට දී උසස් පෙළත් 18 වැනි විය ඉක්මවද්දී පාසල් අධ්‍යාපනයත් නිමා කර කඩිනමින් විශ්වවිද්‍යාල ප්‍රවේශයට අවස්ථා විවර කිරීමේ අරමුණින් මේ වන විට අතපසු වූ අධ්‍යයන කටයුතු නිමා කිරීමට විශ්වවිද්‍යාල පද්ධතිය තුළ ද එක වර කණ්ඩායම් දෙකක් අධ්‍යයන කටයුතුවල නිරත වන බවත් අමාත්‍යවරයා සඳහන් කළේ ය.
+🟩
+
+Minister of Education Dr. Susil Premajayantha said that the Ministry of Education is taking action to prevent the time of the GCE Advanced Level Study and expedite the time of university studies immediately after the end of the GCE Ordinary Level examination.
+
+He was speaking at a program to be held at the Ministry of Education today under the patronage of the Ministry of Education on the GCE Advanced Level examination.. Accordingly, when the A / L exceeded the age of 16, the university system is still engaged in studies in the university system to end school approach to the end of the university.Is.
+
+Speaking further (Minister) stated that the A / L stream is continuously to be continuously by issuing the GCE Advanced Level Emperor. The Minister said that the children, parents, teachers have a gross borrow of children.
 
 ...
 
 [Data](articles/11889dac.json)
+
+[Extended Data](ext_articles/11889dac.ext.json)
 
 ---
 
@@ -617,6 +631,8 @@ The All Ceylon School Development Officers Union staged a protest march towards 
 ◼️
 
 [Data](articles/66f741f9.json)
+
+[Extended Data](ext_articles/66f741f9.ext.json)
 
 ---
 

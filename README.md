@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 02:53:16**
+As of **2024-06-11 03:04:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,679 (100.0%) of 29,681 articles have been extended.
+29,681 (100.0%) of 29,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,19 +244,27 @@ Under the Sri Lanka Mahaweli Authority Act, the Walawa Mahaweli Special region w
 
 ---
 
-### ’கைவாறு அரசியல்வாதிகளின் சீனி உருண்டை அரசியல்’
+### Politics
 
 *2024-06-11 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவாறு-அரசியல்வாதிகளின்-சீனி-உருண்டை-அரசியல்/175-338738) · `ta`
 
-வடக்கு, கிழக்கு மாகாண மக்களும் பல்வேறு வாய்ச் சொல் தலைவர்களின் சீனி உருண்டை அரசியலுக்கு அடிமைப்பட்டு, தேர்தல் காலங்களில் அவர்கள் தரும் கனவு உலகத்தில் தொலைந்து போகின்றனர். இந்த சீனி உருண்டை அரசியலால் ஏமாற்றப்படும் காலம் முடிவுக்கு வர வேண்டும் என எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+In the Northern and Eastern Provinces, citizens face political deception, yearning for genuine representation and development. Opposition leader Sajith Premadasa promises the United People's Power will address economic, social, cultural, educational, and healthcare needs, emphasizing IT education and English proficiency. The 13th Amendment will be implemented, converting all districts into knowledge hubs. Efforts against drug trafficking are pledged, aiming to safeguard children. Past rulers' contributions are contrasted with the United People's Power's efforts, highlighting a shift towards inclusivity and progress. Despite government claims of a smart nation, specifics are lacking, with the United People's Power outlining its plans. The focus is on the future of millions of children across the country, as opposed to mere vote-seeking.
 
-இப்பிரதேச மக்களின் அரசியல், சிவில் உரிமைகள் மட்டுமன்றி, பொருளாதாரம், சமூகம், கலாச்சாரம், கல்வி, சுகாதாரம், வாழ்வாதாரம் மற்றும் சிறந்த வருமானத்தைப் பெறுவதற்கான உரிமைகளை வழங்குவதற்கு ஐக்கிய மக்கள் சக்தி நடவடிக்கை எடுக்கும் என்றார்.
+🟩
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 226 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபாய் பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், யாழ்ப்பாணம் வைத்தீஸ்வரா கல்லூரிக்கு வழங்கி வைக்கும் நிகழ்வு ஞாயிற்றுக்கிழமை (09) இடம்பெற்றது.
+The people of the Northern and Eastern Province are subjugated with various vocabulary leaders, and they are lost in the dream world of the election period.. Opposition leader and United People's Power Leader Sajith Premadasa said the time should end the time of deception by the politics of the orb.
+
+He said the United People's Power would take the rights of the people of the area to provide the rights of the people of the area, the economics, society, culture, education, health, livelihood and better income.
+
+Under the Universal Information Technology Program, Smart classroom equipment worth Rs 1,177,000 lakhs was held on Sunday (09).
+
+The people of Jaffna have heard the stories of various leaders. The people of Jaffna, Kilinochchi, Vanni, Mannar and Mullaitivu have heard the stories. People are asking for a format for these talks. As a move, the Opposition Leader said that the 13th Amendment to the United People's Power Government will be implemented.
 
 ...
 
 [Data](articles/cf7eeb92.json)
+
+[Extended Data](ext_articles/cf7eeb92.ext.json)
 
 ---
 
@@ -280,21 +288,29 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 
 ---
 
-### ஈர நிலங்களை அழிப்பதை கட்டுப்படுத்த புதிய
+### New to control the destruction of wet lands
 
 *2024-06-11 01:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈர-நிலங்களை-அழிப்பதை-கட்டுப்படுத்த-புதிய/175-338736) · `ta`
 
-சட்டவிரோத கட்டுமானங்களை அழிப்பது, ஈர நிலங்களை அழிப்பது உள்ளிட்டவற்றை கட்டுப்படுத்த புதிய சட்டங்கள் இயற்றப்பட உள்ளன.
+To combat illegal construction and protect wetlands, new laws are being introduced. These policies aim to serve as a global example for environmental conservation, focusing on wetland preservation and biodiversity. A conference involving Australia, New Zealand, and Asia will discuss these efforts, highlighting the importance of wetlands for environmental tourism and sustainability.
 
-அதற்காக  அனைத்து அரச நிறுவனங்களுடனும் பேச்சுவார்த்தை நடாத்தி வருவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் செயலாளர் டபிள்யூ.எஸ். சத்யானந்தா தெரிவித்தார்.
+🟩
 
-ஈர நிலங்களைப் பாதுகாத்தல், அதனுடன் தொடர்புடைய பல்லுயிர் பாதுகாப்பு, சுற்றுச்சூழலில் சமநிலையை உருவாக்குதல் போன்றவற்றுக்கு முன்மாதிரி நாடாக இந்தக் கொள்கைகளை நடைமுறைப்படுத்துவதற்கான அனைத்து அறிவையும் சேகரித்து ஒரு திட்டத்தைத் தயாரிப்பதே இந்த பொதுவான ஒருமித்த கருத்து. சுற்றுச்சூழல் எதிர்கொள்ளும் உலகளாவிய சவால்களுக்கு இந்த கொள்கைகளை ஒரு முன்மாதிரி நாடாக செயல்படுத்துவது எதிர்பார்க்கப்படுகிறது என்று அமைச்சின் செயலாளர் கூறினார்.
+New laws are to be enacted to curb illegal construction and destroy wet lands.
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் செயலாளர் டபிள்யூ.எஸ். சத்யானந்த அரசாங்க தகவல் திணைக்களத்தில் திங்கட்கிழமை  (10) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே  மேற்கண்டவாறு தெரிவித்தார்.
+Secretary to the Ministry of Urban Development and Housing. Said Satyananda.
+
+This common consensus is to collect all the knowledge of the implementation of these policies as a prototype country for the protection of wet lands, related biodiversity and balance in the environment.. The Secretary of the Ministry said that these policies are expected to be a role model for the global challenges facing the environment.
+
+Secretary of the Ministry of Urban Development and Housing. He was speaking at a press conference held at the Government Information Department on Monday (10).
+
+The press conference was organized to report the first conference of Australia, New Zealand and Asia with the contribution of the international wetland park.
 
 ...
 
 [Data](articles/6b5857e8.json)
+
+[Extended Data](ext_articles/6b5857e8.ext.json)
 
 ---
 

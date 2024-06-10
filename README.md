@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 15:34:41**
+As of **2024-06-10 15:53:33**
 
 ## Newspaper Stats
 
-*Scraped **29,565** Articles*
+*Scraped **29,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,524
-adaderanalk | 3,349
+adaderanalk | 3,350
 tamilmirrorlk | 3,464
 virakesarilk | 4,533
-dailymirrorlk | 4,687
-adaderanasinhalalk | 4,759
+dailymirrorlk | 4,689
+adaderanasinhalalk | 4,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,565 (100.0%) of 29,565 articles have been extended.
+29,565 (100.0%) of 29,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### Train strike called off
+
+*2024-06-10 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-strike-called-off/108-284517) · `en`
+
+Colombo, June 10 (Daily Mirror) - The Sri Lanka Railways Locomotive Operating Engineers’ Union decided to call off their ongoing strike following discussion with the Transport Minister.
+
+The union said the trains in the evening will not run as usual, but the services will return to normal by tomorrow morning.
+
+Only a few trains will be cancelled this evening, and the locomotive engineers and the General Manager, Railways are aware of this.
+
+The Locomotive Operating Engineers Union launched their strike on Friday due to delays in the second-class promotions of locomotive drivers, continuous delays in recruitments due to the lack of a salary code, and other issues.
+
+◼️
+
+[Data](articles/57dd1fdd.json)
+
+---
+
+### Pas Podda’s suspected killer arrested at BIA after 2 years
+
+*2024-06-10 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99783/-pas-poddas-suspected-killer-arrested-at-bia-after-2-years) · `en`
+
+An individual suspected of shooting and killing the underworld figure Saman Rohitha Perera alias ‘Pas Podda’, who was allegedly involved in several organized crimes in Gampaha, has been apprehended this morning (June 10) at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The immigration officials, who apprehended the suspect, have handed him over to the Airport Police in Katunayaka.
+
+The arrested individual has been identified as a resident of the Kimbulapitiya area in Negambo.
+
+It is reported that the suspect had fled to Sharjah in the United Arab Emirates (UAE) following the shooting of ‘Pas Podda’ in July 2022.
+
+On 22 July 2022, a gunman who arrived in a car had opened fire at six individuals including underworld figure ‘Pas Podda’ who were about to leave the Gampaha Magistrate’s Court premises in a cab after attending court proceedings.
+
+...
+
+[Data](articles/234141cd.json)
+
+---
+
+### කොළඹ අනවසර ඉදිකිරීම් ගැන රජයෙන් හදිසි තීරණයක්
+
+*2024-06-10 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197605) · `si`
+
+කොළඹ අගනගරය ඇතුළු තදාසන්න ප්‍රදේශයවල ජල ගැලීම්වලට හේතුවන අනවසර ඉදිකිරීම් සියල්ල කඩිනමින් ඉවත් කිරීමට පියවර ගන්නා බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා පවසයි.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් ඒ මහතා මේ බව පැවසීය.
+
+ඊට අදාළ චක්‍රලේඛය සති දෙකක් ඇතුළත සියළුම රාජ්‍ය ආයතනලට ලබාදෙන බවද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කර තිබේ.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම්වරයා මෙහිදී කියා සිටියේ කොළඹ නගරය හා තදාසන්න ප්‍රදේශවල පවතින තෙත් බිම් සංරක්ෂණය කිරීම මගින් ජල ගැලීම් පාලනය කිරීමට හැකි බවය.
+
+කොළඹ අගනගරය ඇතුළු තදාසන්න ප්‍රදේශවල පවතින කුඩා ජල මාර්ග, පැති කාණු අවහිරවීම ජලගැලීම්වලට ප්‍රධාන හේතුව බවට හදුනාගෙන තිබෙන බවද ලේකම්වරයා පවසයි.
+
+...
+
+[Data](articles/a227fb44.json)
+
+---
 
 ### Yall. Vadamarachchi Kottawattai AMP school skills
 
@@ -86,7 +144,7 @@ At the same time, as the Opposition Leader has promised on the 13th Amendment, i
 
 *2024-06-10 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99782/railway-strike-called-off) · `en`
 
-The Sri Lanka Railway Locomotive Operating Engineers have decided to call off their strike action.
+The Sri Lanka Railway Locomotive Operating Engineers’ Union has decided to call off their strike action.
 
 The trade union has reached this decision after a successful discussion with the Minister of Transport Bandula Gunawardena, Ada Derana reporter said.
 
@@ -94,13 +152,31 @@ The Locomotive Operating Engineers’ Union of Sri Lanka Railways launched a str
 
 However, in response to the allegations leveled by the trade union in question, the administrative officials of the Department of Railways said that the department has provided all possible solutions to address their issues.
 
-Joining a press conference held this morning (10), Additional General Manager (Administration) of the Department of Railways Mrs. Kusalani de Silva stated that the Department of Railways had issued 57 promotion letters to the railway locomotive engineers by Thursday (June 06), which is more than 50% of the relevant employees.
-
 ...
 
 [Data](articles/0271d19f.json)
 
 [Extended Data](ext_articles/0271d19f.ext.json)
+
+---
+
+### Minister urges union to end strike and return to duty
+
+*2024-06-10 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-urges-union-to-end-strike-and-return-to-duty/108-284516) · `en`
+
+Colombo, June 10 (Daily Mirror) - Transport and Highways Minister Bandula Gunawardena today requested the Sri Lanka Railways Locomotive Operating Engineers’ Union to call off their strike and report to work.
+
+He made this request during the discussion held with the union at the Transport Ministry.
+
+“I brought a long-neglected issue to the Cabinet and successfully secured approval for promotions in March 2024.
+
+"The promotion process for train drivers is now underway. Applications were received from 75 train drivers seeking promotion from third class to second class, and 70 of them have already been issued their promotion letters," the Minister said.
+
+Therefore, Minister Gunawardena requested that the union end the strike and avoid inconveniencing the public, ensuring that promotions will be granted in the future according to the prescribed procedure.
+
+◼️
+
+[Data](articles/01a45da5.json)
 
 ---
 
@@ -778,7 +854,7 @@ Colombo, June 10 (Daily Mirror) - According to the Government Family Health Serv
 
 Association treassure Priyangani Susangika said some parents use substandard soap for their babies now, and that its impacts will be felt in the future.
 
-Therefore, she requested the parents choose a baby sope approved by the Sri Lanka Standards Institution (SLSI).
+Therefore, she requested the parents choose a baby soap approved by the Sri Lanka Standards Institution (SLSI).
 
 "The baby skin is very sensitive. The results of using substandard soap will not be evident today but will be seen after many years. Therefore, parents should be very careful when using soap," she said.
 
@@ -2309,91 +2385,5 @@ On the side-lines, the Foreign Minister is expected to have bilateral meetings w
 [Data](articles/409b3691.json)
 
 [Extended Data](ext_articles/409b3691.ext.json)
-
----
-
-### BALPP announces new course ‘Executive Credential in Leadership and Public Policy’
-
-*2024-06-10 01:43:40* · [`dailyftlk`](https://www.ft.lk/news/BALPP-announces-new-course-Executive-Credential-in-Leadership-and-Public-Policy/56-762867) · `en`
-
-The Bandaranaike Academy for Leadership and Public Policy (BALPP) is the first and premier institute in Sri Lanka, for education and training on leadership skills with public policy as a core discipline. Beginning its second year of operations, the BALPP is now launching a new course: Executive Credential in Leadership and Public Policy - ECLPP, in October 2024.
-
-The primary reason for commencing this particular course stems from the importance of leadership and public policy education in Sri Lanka, particularly during these challenging times.
-
-As Sri Lanka navigates through a crisis of leadership, political direction and governance, it needs a new generation of leaders who are equipped with futuristic knowledge, 21st century skills, and an ethical grounding with a sense of social responsibility; all which are necessary to emerge from today’s multiple crises and to steer the country towards a bright and prosperous future.
-
-...
-
-[Data](articles/43123656.json)
-
-[Extended Data](ext_articles/43123656.ext.json)
-
----
-
-### Sri Lanka elected to United Nations Economic and Social Council
-
-*2024-06-10 01:42:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankaelected-to-United-Nations-Economic-and-Social-Council/56-762866) · `en`
-
-Sri Lanka has been elected by the United Nations General Assembly (UNGA) to the United Nations Economic and Social Council (ECOSOC) at the elections held in New York, on 7 June, for a three-year term commencing on 1 January 2025.
-
-Sri Lanka obtained 182 votes, of the 189 member States present and voting, securing the 2nd highest vote count from the region, and the 7th highest number overall. Sri Lanka was previously elected to the ECOSOC from 1985-1989 and from 2006-2008.
-
-As a member of the ECOSOC, Sri Lanka will contribute to the Council’s efforts and programs, which include eradication of poverty, food security, financing for development, reform of the international financial architecture to better support vulnerable countries, climate justice, gender equality and women’s empowerment, rights of persons with disabilities, science and technology, and bridging the digital divide.
-
-...
-
-[Data](articles/527a0318.json)
-
-[Extended Data](ext_articles/527a0318.ext.json)
-
----
-
-### Harivathani's body recovered
-
-*2024-06-10 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185704) · `ta`
-
-Harivathani, a top student from Madulkal, was found dead on Sunday, ending fears of abduction. The case began when Harivathani and Ammanavi went missing last Friday; Ammanavi was later discovered deceased. Police investigations confirmed there were no abductions involved.
-
-🟩
-
-Harivathani, a high -ranking student from Madulkal, a missing Kandy Relukes No. 2, has been found dead on Sunday, the 9th.
-
-It has been revealed that Ammanavi has died after she disappeared since last Friday.
-
-When the police investigated the incident, it was revealed that no one was abducted by the student.
-
-It is also worth noting that their family lodged a complaint at the police station last Friday regarding the disappearance of the student.
-
-◼️
-
-[Data](articles/2dd73f53.json)
-
-[Extended Data](ext_articles/2dd73f53.ext.json)
-
----
-
-### Ex-CID Chief takes over as head of NPP’s Retired Police Collective
-
-*2024-06-10 01:40:13* · [`dailyftlk`](https://www.ft.lk/news/Ex-CID-Chief-takes-over-as-head-of-NPP-s-Retired-Police-Collective/56-762865) · `en`
-
-Says decision to join NPP was driven by a desire to restore rule of law in SL
-
-Highlights instances of Police misconduct such as failure to prevent State-sponsored attack on Aragalaya
-
-Stresses need for disciplinary action against officers found guilty of neglecting their duty relating to Easter Sunday attacks
-
-Raises concerns on threats received by Collective members and instances of political persecution, including the case of SSP Shani Abeysekara
-
-Expresses determination to bring about change and pledged to work towards restoring rule of law with support of the NPP
-
-Police Criminal Investigations Department (CID) former Head Senior DIG Ravi Seneviratne assumed leadership of the National People’s Power (NPP) party’s Retired Police Collective yesterday.
-
-Speaking at the Collective’s National Conference in Maharagama, Seneviratne said his decision to join the NPP was driven by a desire to restore the rule of law in the country, which he believes has deteriorated significantly in recent times.
-
-...
-
-[Data](articles/dc478f4c.json)
-
-[Extended Data](ext_articles/dc478f4c.ext.json)
 
 ---

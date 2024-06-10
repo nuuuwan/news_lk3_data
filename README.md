@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 23:54:02**
+As of **2024-06-11 00:06:29**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,639 (100.0%) of 29,650 articles have been extended.
+29,650 (100.0%) of 29,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### දකුණු අප්‍රිකාවට තියුණු ජයක්
+### South Africa becoming a sharp win
 
 *2024-06-10 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197618) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දකුණු අප්‍රිකානු කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර අද (10) පැවැති තරගය ලකුණු 4කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+In a thrilling World Cup match, South Africa narrowly defeated Bangladesh by 4 runs. Batting first, South Africa made 113/6 in 20 overs, led by David Miller's 29 runs. Despite a strong chase, Bangladesh could only manage 109/7, falling short of the target.
 
-එම තරගයේ කාසියේ වාසිය දිනු දකුණු අප්‍රිකානු කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 113ක් රැස්කළේය.
+South African team and the Bangladesh team won the match between the World Cup and Bangladesh by 4 runs.
 
-එහිදී  දකුණු අප්‍රිකානු කණ්ඩායම වෙනුවෙන් Heinrich Klaasen  ලකුණු 46ක් රැස්කළ අතර David Miller  ලකුණු 29ක් රැස් කළේය.
+The leader of the South African team won the toss and elected to bat.
 
-ඒ අනුව ලකුණු 113ක ඉලක්කයක් හඹාගිය බංග්ලාදේශයට නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 7දැවී රැස්කරගත හැකි වුයේ ලකුණු 109ක් පමණි.
+Accordingly, the South African team scored 113 runs for the loss of 6 wickets in the end of 20 overs.
+
+The South African team had scored 46 runs while David Miller scored 29 runs.
+
+Chasing a target of 113, Bangladesh was only 109 runs for the loss of 7 wickets in the end of 20 overs.
 
 ◼️
 
 [Data](articles/0bcb15fd.json)
+
+[Extended Data](ext_articles/0bcb15fd.ext.json)
 
 ---
 
@@ -270,6 +276,8 @@ His comments come as some of the opposition political leaders have publicly expr
 
 [Data](articles/dc933017.json)
 
+[Extended Data](ext_articles/dc933017.ext.json)
+
 ---
 
 ### Ceylon Holidays on the 26th - Sri Lanka Teachers Association
@@ -459,6 +467,8 @@ Earlier, SriLankan Airlines served pepper and salt in small packs branded with t
 ...
 
 [Data](articles/783d1eb6.json)
+
+[Extended Data](ext_articles/783d1eb6.ext.json)
 
 ---
 
@@ -742,6 +752,8 @@ Vidullanka, a leading renewable energy provider in Sri Lanka has seen its outloo
 
 [Data](articles/dd9f50be.json)
 
+[Extended Data](ext_articles/dd9f50be.ext.json)
+
 ---
 
 ### Case if there are evidence against Hirunika
@@ -790,6 +802,8 @@ A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun
 
 [Data](articles/2c68d500.json)
 
+[Extended Data](ext_articles/2c68d500.ext.json)
+
 ---
 
 ### Sri Lanka to send 6,000 workers to Japan
@@ -809,6 +823,8 @@ Sri Lanka has been focusing on sending skilled migrant workers following Nanayak
 ...
 
 [Data](articles/b2da189a.json)
+
+[Extended Data](ext_articles/b2da189a.ext.json)
 
 ---
 
@@ -1030,6 +1046,8 @@ Retail participation was still slow, they said, even as high net worth and corpo
 
 [Data](articles/3d1c5e0a.json)
 
+[Extended Data](ext_articles/3d1c5e0a.ext.json)
+
 ---
 
 ### Govt to remove unauthorized constructions in Colombo and suburbs to tackle flooding
@@ -1107,6 +1125,8 @@ Former minister P Harrison speaking at a UNP event in Anuradhapura on Sunday Jun
 ...
 
 [Data](articles/f43d59a7.json)
+
+[Extended Data](ext_articles/f43d59a7.ext.json)
 
 ---
 
@@ -1326,6 +1346,8 @@ Dissanayake said though that the current parliament will not continue even for a
 
 [Data](articles/f856503c.json)
 
+[Extended Data](ext_articles/f856503c.ext.json)
+
 ---
 
 ### Selfie with Minister
@@ -1379,6 +1401,8 @@ The two leaders also discussed signing a free trade agreement between Bangladesh
 ...
 
 [Data](articles/c33b6b69.json)
+
+[Extended Data](ext_articles/c33b6b69.ext.json)
 
 ---
 
@@ -1615,6 +1639,8 @@ Last week, Sri Lanka passed a new Electricity Act which will enable the state-ow
 ...
 
 [Data](articles/0347a0d8.json)
+
+[Extended Data](ext_articles/0347a0d8.ext.json)
 
 ---
 

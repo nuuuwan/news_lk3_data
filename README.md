@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 20:05:44**
+As of **2024-06-10 20:19:15**
 
 ## Newspaper Stats
 
-*Scraped **29,611** Articles*
+*Scraped **29,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,532
+adalk | 2,533
 adaderanalk | 3,356
-tamilmirrorlk | 3,468
+tamilmirrorlk | 3,469
 virakesarilk | 4,543
 dailymirrorlk | 4,694
-adaderanasinhalalk | 4,768
+adaderanasinhalalk | 4,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,611 (100.0%) of 29,611 articles have been extended.
+29,611 (100.0%) of 29,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### 26 දැවැන්ත වර්ජනයක්
+
+*2024-06-10 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197614) · `si`
+
+එළැඹෙන 26 වන දින දිවයින පුරා අසනීප නිවාඩු වාර්තාකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරතවීමට ලංකා ගුරු සංගමය තීරණය කර තිබේ.
+
+වැටුප් විෂමතා ගැටලුවක් මුල්කර ගනිමින් එම පියවර ගන්නා බව එම සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි
+
+එම වෘත්තීය සමිති ක්‍රියාමාර්ගයට සමගාමීව ලබන 12 වනදා විරෝධතා ව්‍යාපාරයක් සංවිධානය කරන බව ලංකා ගුරු සංගමයේ ලේකම් ජෝසප් ස්ටාලින් මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/c87038ae.json)
+
+---
+
+### முன்பள்ளி ஆசிரியர்களுக்கு மகிழ்ச்சியான செய்தி
+
+*2024-06-10 19:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-ஆசிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338717) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரைக்கு அமைய முன்பள்ளி ஆசிரியைகளுக்கான 2,500 ரூபாய் கொடுப்பனவை 5,000 ரூபாவாக அதிகரிக்க அரசாங்கம் தீர்மானித்துள்ளது.
+
+தற்போது இலங்கையில் முன்பள்ளி ஆசிரியப் பணியில் சுமார் 34,000 பேர் கடமையாற்றி வருகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/94e23ec4.json)
+
+---
 
 ### Bus
 
@@ -149,6 +179,22 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 [Data](articles/390c9c60.json)
 
 [Extended Data](ext_articles/390c9c60.ext.json)
+
+---
+
+### හිරුණිකාට එරෙහිව සාක්ෂි තියෙනවානම් නඩු දාන්න
+
+*2024-06-10 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහිව-සාක්ෂි-තියෙනවානම්-නඩු-දාන්න/11-410124) · `si`
+
+වීදී නාට්‍යයක් කරමින්, මහජනතාවට පීඩාවක් හා පොලිස් රාජකාරියට බාධා කලේ යැයි කියන හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇතුළු පිරිසට එරෙහිව සාක්ෂි ඇත්නම් නඩු පවරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා කුරුඳුවත්ත පොලිසියට අද (10) නියෝග කළේය.
+
+කාන්තා අයිතීන් වෙනුවෙන් වීදි නාට්‍යයක් කිරීමෙන් හිටපු මන්ත්‍රීවරිය ඇතුළු පිරිස මහජනතාවට පීඩාවක් හා පොලිස් රාජකාරියට බාධාවක් කලේ යැයි කියන සිද්ධියට අදාළ පැමිණිල්ල කැඳවූ අවස්ථාවේදී මහේස්ත්‍රාත්වරයා කුරුඳුවත්ත පොලිසියට එසේ නියෝග කළේය.
+
+මෙම සිද්ධියට අදාළ පමිණිල්ල කැඳවු අවස්ථාවේදී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇතු`ථ කාන්තාවන් 13 දෙනෙකු සහ එක් පුද්ගලයකු අධිකරණයේ පෙනී සිටියහ.
+
+...
+
+[Data](articles/b83bac8a.json)
 
 ---
 
@@ -2277,95 +2323,5 @@ The Railway Driver Project operated today (10) on the fourth date on the fourth 
 [Data](articles/78992813.json)
 
 [Extended Data](ext_articles/78992813.ext.json)
-
----
-
-### Sri Lankan refugees sent to Rwanda: This is a open-outdoor camp '
-
-*2024-06-10 10:42:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekkyx2x04ko) · `si`
-
-It seems like you've shared a detailed narrative involving a group of individuals, primarily focusing on their experiences as refugees in Rwanda, their legal status, and the challenges they face, including issues related to healthcare, safety, and legal recognition. This story touches on several complex themes such as immigration, asylum, human rights, and the responsibilities of host nations towards refugees.
-
-
-
-Given the complexity and depth of the issues raised, it might be helpful to address specific aspects or questions you have regarding this scenario. For instance:
-
-
-
-1. **Legal Status and Asylum**: How does the legal status of these individuals affect their ability to seek asylum or find refuge in another country?
-
-2. **Healthcare Challenges**: What are the implications of inadequate healthcare for refugees, both for their immediate needs and long-term wellbeing?
-
-3. **Safety Concerns**: How can host countries balance the need to maintain public safety with the responsibility to protect refugees from harm?
-
-4. **International Cooperation**: What role do international agreements and cooperation play in addressing the challenges faced by refugees and host countries?
-
-
-
-Please let me know if there's a particular aspect you'd like to explore further or if you have any specific questions related to this narrative.
-
-🟩
-
-Sri Lankan refugees sent to Rwanda: This is a open-outdoor camp '
-
-It has been said that a group of migrants sent to Rwanda from the fear of Rwanda by liberating the British Ocean in the Indian Ocean.
-
-Although the British political parties have divided between the controversial plan to send refugees to the UK, the small migrant group lives there for more than a year.
-
-Accordingly, the BBC went to East-Central Africa to meet four of them.
-
-This group says they are notolated, as well as their complex medical requirements, and their complex medical purposes. They receive an intimate amount of food and other essential items (39 pounds per week), but they are not allowed to work under their stay in the UK and Rwanda governments.
-
-They say that they faced harassment and unnecessary sexual harassment. They say they are afraid to get out of the reality they are "self-imprisoned" in view of the reality. They are waiting for the UK as a permanent place to live. "Rwanda is a outdoor prison," Said one.
-
-...
-
-[Data](articles/404f81e0.json)
-
-[Extended Data](ext_articles/404f81e0.ext.json)
-
----
-
-### The Israeli government sees
-
-*2024-06-10 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197591) · `si`
-
-The Israeli government views Benny Grants as a test within its war council. Following the conflict, PM Benjamin Netanyahu resigned due to lack of a clear Gaza strategy, citing deep regret.
-
-🟩
-
-The benni Grants are considered as a probe in the Israeli war cabinet.
-
-After the war, Israeli Prime Minister Benjamin Netanyahu had left the government due to the absence of a clear procedure for Gaza.
-
-Addressing the media in Tel Auv yesterday (09), he said that he had made this decision due to heavy repentance.
-
-◼️
-
-[Data](articles/4d444462.json)
-
-[Extended Data](ext_articles/4d444462.ext.json)
-
----
-
-### President meets Bangladesh Prime Minister
-
-*2024-06-10 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197589) · `si`
-
-President Ranil Wickremesinghe of Sri Lanka met with Bangladesh's Prime Minister Sheikh Hasina in New Delhi, India, attending an event hosted by Indian PM Narendra Modi. The meeting took place today, marking significant diplomatic engagement between the countries.
-
-🟩
-
-President Ranil Wickremesinghe met the Prime Minister Sheikh Husanna in New Delhi, India shortly ago.
-
-President Ranil Wickremesinghe left the country on Saturday (08) to attend the ceremony of Indian Prime Minister Narendra Modi.
-
-The meeting was held today (10) during the visit.
-
-◼️
-
-[Data](articles/f426e9b3.json)
-
-[Extended Data](ext_articles/f426e9b3.ext.json)
 
 ---

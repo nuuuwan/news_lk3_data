@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 12:52:34**
+As of **2024-06-10 13:04:21**
 
 ## Newspaper Stats
 
-*Scraped **29,516** Articles*
+*Scraped **29,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,347
 tamilmirrorlk | 3,460
 virakesarilk | 4,519
 dailymirrorlk | 4,680
-adaderanasinhalalk | 4,749
+adaderanasinhalalk | 4,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,516 (100.0%) of 29,516 articles have been extended.
+29,516 (100.0%) of 29,518 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,44 @@ He had a forged passport in his possession at the time of his arrest, with perso
 [Data](articles/37e7573f.json)
 
 [Extended Data](ext_articles/37e7573f.ext.json)
+
+---
+
+### රියදුරුගේ නුවණින් ජීවිත 5ක් බේරෙයි
+
+*2024-06-10 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197594) · `si`
+
+මහනුවර - දිගන මාර්ගයේ කෙන්ගල්ල ප්‍රදේශයේදී දිරාගිය ගසක් කඩාවැටිමෙන් පස්දෙනෙක් තුවාල ලබා රෝහල්ගතකර තිබේ.
+
+අද උදැසන 6.00 පමණ කෙන්ගල්ල ප්‍රදේශයේ මාර්ගය ආසන්නයේ පාළු ඉඩමක තිබු දිරාගිය සියඔලා ගසක් හිටි හැටියේම මාර්ගයට ඇදවැටී තිබුණි.
+
+ඒ මොහොතේ දිගන සිට මහනුවර දක්වා පාසල් ළමුන් ප්‍රවාහනය කළ වෑන් රථයක් ගමන් කර තිබේ.
+
+ඇද වැටෙමින් තිබූ විශාල ගස දුටු වෑන් රථයේ රියදුරුට රිය පාලනය කරගැනීමට නොහැකිව මාර්ය අසල තිබු පැති බැම්මක හා දුරකථන කුලුනක හැපී තිබේ.
+
+එම අවස්ථාවේ වෑන්රථයේ පාසල් ළමුන් තිදෙනෙක් හා ගුරුවරියන් දෙදෙනෙකු ඇතුළු හය දෙනෙක් ගමන් කරමින් සිටි අතර එහිදී රියදුරා ට බරපතළ තුවාල සිදුව තිබුණි.
+
+ගුරුවරියන් හා තුවාල ලැබූ පාසල් දරුවන් එම මොහොතේ ම රෝහල්ගත කළ අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බව වාර්තා වෙයි.
+
+එම දිරාගිය ගස ඉවත්කරදෙන ලෙස අදාළ ඉඩමේ හිමිකරුට හා රාජ්‍ය ආයතන කිහිපයකට දන්වා තිබුණත් ඒ කිසිවෙක් ඒ සම්බන්ධයෙන් කිසිදු ක්‍රියාමාර්ගයක් නොගත් බව අසල්වාසින් පැවසීය.
+
+◼️
+
+[Data](articles/bfbd5c23.json)
+
+---
+
+### ප්‍රංශ ටෙනිස් ශූරතාවය ස්පාඤ්ඤයේ කාලෝස් ට
+
+*2024-06-10 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197593) · `si`
+
+ස්පාඤ්ඤයේ Carlos Alcaraz ඉතා තියුණු තරගයකින් අනතුරුව ජර්මනියේ Alexander Zverev පරාජය කරමින් ප්‍රංශ විවෘත පිරිමි ටෙනිස් ශූරතාව දිනාගත්තේය.
+
+21 හැවිරිදි Carlos තරග වර 2ට 1ක් ලෙස ආරම්භයේදී පසුබෑවද පසුව දැඩි සටනකින් අනතුරුව තරග වට 3ට 2ක් ලෙස තරගය ජයගත්තේය.
+
+◼️
+
+[Data](articles/e4e0f8b3.json)
 
 ---
 
@@ -2173,47 +2211,5 @@ Earlier in the day, the newly-elected Members of Parliament had gathered at Modi
 [Data](articles/295b45ea.json)
 
 [Extended Data](ext_articles/295b45ea.ext.json)
-
----
-
-### Narendra Modi sworn in as Prime Minister of India
-
-*2024-06-09 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185695) · `ta`
-
-Narendra Modi was sworn in as India's Prime Minister for the third time in New Delhi, with President Ranil Wickremesinghe among 9,000 attendees.
-
-🟩
-
-Narendra Modi's swearing -in ceremony for the third consecutive year as Prime Minister of India began in New Delhi, India's capital.
-
-9,000 people, including President Ranil Wickremesinghe, were present at the event.
-
-◼️
-
-[Data](articles/0138641e.json)
-
-[Extended Data](ext_articles/0138641e.ext.json)
-
----
-
-### Modi sworn in for third term as India’s prime minister
-
-*2024-06-09 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99766/modi-sworn-in-for-third-term-as-indias-prime-minister) · `en`
-
-(AP) — Narendra Modi was sworn in Sunday for a rare third consecutive term as India’s prime minister, relying on his coalition partners after his party failed to win a parliamentary majority in a surprise outcome.
-
-Modi and his Cabinet ministers took the oath of office, administered by President Droupadi Murmu, at India’s presidential palace Rashtrapati Bhavan in New Delhi.
-
-The 73-year-old popular but polarizing leader is only the second Indian prime minister after Jawaharlal Nehru to retain power for a third five-year term.
-
-His Hindu nationalist Bharatiya Janata Party, which won by landslides in 2014 and 2019, failed to secure a majority to govern on its own in the latest national election. However, Modi’s National Democratic Alliance coalition won enough seats to form a government, with him at the helm.
-
-This is the first time the BJP under Modi has needed support from its regional allies to form a government after a decade of commanding the majority in Parliament.
-
-...
-
-[Data](articles/0213df75.json)
-
-[Extended Data](ext_articles/0213df75.ext.json)
 
 ---

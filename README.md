@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 16:51:41**
+As of **2024-06-10 17:04:12**
 
 ## Newspaper Stats
 
-*Scraped **29,579** Articles*
+*Scraped **29,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,102 +15,238 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,528
-adaderanalk | 3,350
+adalk | 2,529
+adaderanalk | 3,353
 tamilmirrorlk | 3,464
 virakesarilk | 4,538
-dailymirrorlk | 4,689
+dailymirrorlk | 4,693
 adaderanasinhalalk | 4,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,574 (100.0%) of 29,579 articles have been extended.
+29,579 (100.0%) of 29,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### குருதியில் ஓவியம் வரையும் பிரபாகரன் என்கிற தாமோதரன்
+### Police hunt for fraudster who defrauded Rs. 17.5 million in job scam
+
+*2024-06-10 16:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-hunt-for-fraudster-who-defrauded-Rs-17-5-million-in-job-scam/108-284518) · `en`
+
+Colombo, June 10 (Daily Mirror) - Police are seeking public assistance in apprehending a suspect wanted for defrauding individuals of Rs. 17.5 million with promises of employment abroad, particularly in countries like England and Poland.
+
+Police said the fraud was operated under the guise of IMH Logistics (Pvt) Ltd, based in Janajaya City Hall, Sri Jayawardenapura, Kotte.
+
+The Mirihana Special Criminal Investigation Division has launched an inquiry into the fraud and has already arrested a female suspect, who was produced before the Chief Magistrate's Court in Colombo.
+
+During interrogation, it was revealed that an individual named Fernando, claiming to be the company owner, was involved in the scam. However, the suspect's whereabouts and identity remain undisclosed.
+
+Police have released photographs of the suspect and urge the public to provide any information regarding his whereabouts.
+
+...
+
+[Data](articles/29171e91.json)
+
+---
+
+### Woman drowns after falling from bridge in Ratnapura
+
+*2024-06-10 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99786/woman-drowns-after-falling-from-bridge-in-ratnapura) · `en`
+
+A woman has drowned after reportedly falling from a bridge in Kiriella area in Ratnapura.
+
+Police said the deceased is a 33-year-old resident of the area.
+
+◼️
+
+[Data](articles/3d247e92.json)
+
+---
+
+### CJ-led bench to hear petition against Pastor Jerome Fernando
+
+*2024-06-10 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99785/-cj-led-bench-to-hear-petition-against-pastor-jerome-fernando) · `en`
+
+The Supreme Court has ordered for a Fundamental Rights (FR) petition filed against Pastor Jerome Fernando to be taken up for consideration before a judge bench chaired by the Chief Justice.
+
+This order was issued when the relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Murdhu Fernando, Kumudini Wickremasinghe and Janak De Silva today (10).
+
+Several religious leaders had filed this petition seeking an order to prosecute controversial Pastor Jerome Fernando under the United Nations International Covenant on Civil and Political Rights (ICCPR) over his derogatory statements related to Lord Buddha and other religious figures.
+
+Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena informed the court that three of the religious leaders involved in filing the petition have expressed their willingness to withdraw it.
+
+...
+
+[Data](articles/aa9adca0.json)
+
+---
+
+### Selfie with Minister
+
+*2024-06-10 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Selfie-with-Minister/110-284519) · `en`
+
+The programme of appreciation of the students who obtained excellent results in the 2023 (2024) GCE Advanced Level Examination was held today at the Education Ministry under the chairmanship of Minister Susil Premajayantha and they appeared for a group photo and a selfie photo with the Minister.
+
+◼️
+
+[Data](articles/4336231b.json)
+
+---
+
+### Italy’s PM Meloni comes out on top in EU vote, strengthening her hand
+
+*2024-06-10 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99784/italys-pm-meloni-comes-out-on-top-in-eu-vote-strengthening-her-hand) · `en`
+
+Prime Minister Giorgia Meloni’s arch-conservative Brothers of Italy group won the most votes in the European parliamentary election over the weekend, boosting her standing both at home and abroad.
+
+With almost all ballots counted, Brothers of Italy won 28.8%of the vote, more than four times what it took in the last European Union election in 2019, and exceeding the 26% it secured in the 2022 national ballot, when it rose to power.
+
+“I am proud that Italy will present itself to the G7, to Europe with the strongest government of all. This is something that has not happened in the past but is happening today, it is a satisfaction and also a great responsibility,” Meloni said early on Monday from the party’s headquarters.
+
+The opposition centre-left Democratic Party came in second with 24% of the vote, while another opposition group, the 5-Star Movement, was third with 9.9% - its worst showing at a countrywide level since its creation in 2009.
+
+...
+
+[Data](articles/a0d32d38.json)
+
+---
+
+### Prabhakaran alias Damodharan
 
 *2024-06-10 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185762) · `ta`
 
-தயாரிப்பாளர் மதியழகன் கதையின் நாயகனாக அறிமுகமாகும் திரைப்படத்திற்கு 'பிதா' (பிரபாகரன் என்கிற தாமோதரன்) என பெயரிடப்பட்டு,  அதற்கான அறிமுக விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன்போது தமிழ் திரைப்படத் துறையிலிருந்து மட்டுமல்லாமல் அரசியல் துறையிலிருந்தும் ஏராளமான பிரபலங்கள் அதிதிகளாக பங்கு பற்றி சிறப்பித்தனர்.
+"Prabhakaran alias Damodharan," a film debut by Madhyazhagan, premiered in Chennai with a mix of Tamil cinema and political figures in attendance. The movie, focusing on Eelam and Medaka Prabhakaran without commercial intent, aims to offer a unique cinematic experience. Directed by Karthik Kumar, it features Saravana Subbaiah, Vanitha Vijayakumar, and newcomer Mathi Alaga. The release has sparked excitement and controversy due to its content and the involvement of various artists.
 
-படத்தின் தயாரிப்பாளரும் நடிகருமான மதியழகன் பேசுகையில், '' இந்த திரைப்படத்தில் ஈழம் பற்றியும், மேதகு பிரபாகரனை பற்றியும் விடயங்கள் பயன்படுத்தப்பட்டிருக்கிறது. இவை வணிக நோக்கத்திற்காகவோ அல்லது பரபரப்பிற்காகவோ பயன்படுத்தவில்லை. மேலும் அவர்களை எந்த விதத்திலும் அவமதிக்கவில்லை. மிகவும் உண்மையாகவும், உன்னதமாகவும் இந்த படைப்பை உருவாக்கி இருக்கிறோம். இதுவரை இல்லாத வகையில் வித்தியாசமான படைப்பாக இந்த திரைப்படம் இருக்கும் ''என்றார்.
+🟩
 
-இப்படத்திற்காக வெளியிடப்பட்ட அறிமுக காணொளியில் கதையின் நாயகனான மதியழகன் குருதியை அதுவும் மனித குருதியில் ஓவியம் வரைவது போன்ற காட்சிகள் இடம் பெற்றிருப்பதால் ரசிகர்களிடத்தில் பெரும் எதிர்பார்ப்பை ஏற்படுத்தி இருக்கிறது.
+The film, which debuted as the hero of the producer, was named 'Pitha' (Prabhakaran alias Damodharan) and the launch ceremony was held in Chennai. A large number of celebrities from not only the Tamil film industry but also from the political department were highlighted.
+
+The film's producer and actor, Madhyazhagan, said, “The film is used about Eelam and Medaka Prabhakaran.. These are not used for commercial purposes or for a stir. And not insulting them in any way. We have created this work so true and classic. The film will be a different work that is not yet. ”
+
+In the debut video released for the film, the hero of the story, the hero of the story, has been a great expectation for fans as there are such scenes in the human blood.
 
 ...
 
 [Data](articles/f17c48d6.json)
 
+[Extended Data](ext_articles/f17c48d6.ext.json)
+
 ---
 
-### தமிழகம் உள்ளிட்ட ஆறு இந்திய மாநிலங்களுக்கான சட்டப்பேரவைக்கு இடைத்தேர்தல் அறிவிப்பு
+### By -election announcement of six Indian states including Tamil Nadu
 
 *2024-06-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185761) · `ta`
 
-தமிழகத்தில் உள்ள விக்கிரவாண்டி எனும் தொகுதிக்கு இடைத்தேர்தல் நடத்தப்படும் என இந்திய தேர்தல் ஆணையம் அதிகாரப்பூர்வமாக அறிவித்துள்ளது.
+The Election Commission of India has scheduled by-elections for various assembly seats across six states: Tamil Nadu, Bihar, West Bengal, Madhya Pradesh, Uttarakhand, Punjab, and Himachal Pradesh. Notably, the Vikravandi constituency in Tamil Nadu will hold its election due to the death of a member. Voting is set for July 10, with counting on July 13. The Congress party has pledged support to the DMK in the Vikravandi by-election.
 
-விக்கிரவாண்டி சட்டப்பேரவை உறுப்பினராக பணியாற்றிய திமுகவைச் சேர்ந்த என். புகழேந்தி உயிரிழந்ததை தொடர்ந்து, அந்த தொகுதி காலியானதாக அறிவிக்கப்பட்டது. காலியான அந்தத் தொகுதிக்கு எதிர்வரும் ஜூலை மாதம் பத்தாம் திகதியன்று இடைத்தேர்தல் நடத்தப்படும் என்று இந்திய தேர்தல் ஆணையம் அறிவித்துள்ளது.
+🟩
 
-தமிழகம் மட்டுமல்லாமல் பீகார்(1), மேற்கு வங்காளம் (4), மத்திய பிரதேசம் (1) ,உத்தரகாண்ட்( 2), பஞ்சாப் (1), இமாச்சல் பிரதேசம்(3) ஆகிய மாநிலங்களில் காலியாக இருக்கும் மொத்தம் பதிமூன்று சட்டப்பேரவை தொகுதிகளுக்கும் ஜூலை 10 ஆம் திகதியன்று வாக்குப்பதிவு நடைபெறும் என்றும், பதிவான வாக்குகள் ஜூலை 13-ஆம் திகதியன்று எண்ணப்பட்டு முடிவுகள் அறிவிக்கப்படும் என்றும் தேர்தல் ஆணையம் அறிவித்துள்ளது. மேலும் அந்த அறிவிப்பில் இடைத்தேர்தலுக்கான வேட்பு மனுதாக்கல் ஜூன் 14-ஆம் திகதியன்று தொடங்கும் என்றும் குறிப்பிடப்பட்டுள்ளது.
+The Election Commission of India has officially announced that the by -election will be held for the Vikravandi constituency in Tamil Nadu.
 
-...
+Vikravandi Member of the Legislative Assembly. Following the death of the celebrity, the block was declared empty. The Election Commission of India has announced that the by -election will be held on the 10th of July for the vacant constituency.
+
+Voting will be held on the 10th of July for the total number of thirteen assembly constituencies in Bihar (1), Bihar (1), West Bengal (4), Madhya Pradesh (1), Uttarakhand (2), Punjab (1) and Himachal Pradesh (3).The Election Commission has announced that the votes will be counted on July 13 and the results will be announced.. The announcement also stated that the nomination papers for the by-election will begin on June 14.
+
+Meanwhile, the state president of the party has announced that the Congress party will support the DMK in the by -election for the Vikravandi constituency.
+
+◼️
 
 [Data](articles/8c65aa10.json)
 
+[Extended Data](ext_articles/8c65aa10.ext.json)
+
 ---
 
-### தட மாற்றமும், தடுமாற்றமும் புதிராக கொண்ட 'மகாராஜா'
+### ගංවතුරින් පීඩාවට පත් බියගම ජනතාවට රැවන් විජේවර්ධන මහතාගේ මගපෙන්වීමෙන් සනීපාරක්ෂක ද්‍රව්‍ය
+
+*2024-06-10 16:20:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරින්-පීඩාවට-පත්-බියගම-ජනතාවට-රැවන්-විජේවර්ධන-මහතාගේ-මගපෙන්වීමෙන්-සනීපාරක්ෂක-ද්‍රව්‍ය/11-410122) · `si`
+
+ගංවතුරින් පීඩාවට පත් බියගම ජනතාව වෙනුවෙන් ලක්ෂ හතහමාරක් වටිනා   සනීපාරක්ෂක දුව්‍ය  තොගයක්  බියගම සහකාර ප්‍රාදේශීය ලේකම් චමත් කල්පනා අමදෝරු මහත්මිය වෙත බියගම ප්‍රාදේශීය සභාවේ හිටපු විපක්ෂ නායක පුසන්න සම්පත් මහතා විසින් අද (10දා) එම කාර්‍යාලයේදී   ප්‍රධානය කලේය.
+
+කාලගුණ විපර්යාස ජනාධිපති උපදේශක හා බියගම එජාප ප්‍රධාන සංවිධායක රැවන් විජේවර්ධන මහතාගේ මගපෙන්වීම  මත මෙම සනීපාරක්ෂක දුව්‍ය ලබාදීම සිදුවිය .
+
+මේ යටතේ සනීපාරක්ෂක තුවා 2500ක් සහ සබන් කෑලි 1000 ක් ගංවතුරින් පීඩාවට පත් බියගම වසම් 21 ක ජනතාව වෙනුවෙන් ලබාදීම සිදුවිය.
+
+මෙම අවස්ථාවට බියගම ප්‍රාදේශීය සභාවෙිි හිටපු මන්ත්‍රීවරුන් වන චතුර පෙරේරා , මාලි අල්ගම හා සමිිබන්ධිකරණ ලේකමිිවරැන් වන මංජුශ්‍රී . දුමින්ද ආටිගල , ශෙල්ටන් සෙබස්තියන්  යන මහත්ම මහත්මීන්ද සහභාගි වූහ.
+
+◼️
+
+[Data](articles/cc4a44eb.json)
+
+---
+
+### Transition and stumbling block 'Maharaja'
 
 *2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185758) · `ta`
 
-''மகாராஜா திரைப்படம் ரசிகர்களுக்கு பதறச் செய்யும் தட மாற்றத்தையும், தடு மாற்றத்தையும் ஏற்படுத்தும் புதிர் நிறைந்த படைப்பு'' என படக் குழுவினர் தெரிவித்துள்ளனர்.
+"Maharaja," directed by Bharathiraja, stars Vijay Sethupathi and features music by Ajanis Lokanath. Released in four languages on June 14, it promises a unique cinematic experience with its engaging narrative from start to finish.
 
-இயக்குநர் நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி இருக்கும் 'மகாராஜா' எனும் திரைப்படத்தில் விஜய் சேதுபதி, மம்தா மோகன் தாஸ், அபிராமி, அனுராக் காஷ்யப், நட்டி என்கிற நட்ராஜ், 'இயக்குநர் இமயம்' பாரதிராஜா, சிங்கம் புலி, அருள்தாஸ், முனீஸ்காந்த், வினோத் சாகர், கல்கி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தினேஷ் புருஷோத்தமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பி. அஜனீஸ் லோகநாத் இசையமைத்திருக்கிறார்.‌ சஸ்பென்ஸ் திரில்லர் வகையிலான இந்தத் திரைப்படத்தை பெசன் ஸ்டுடியோஸ் மற்றும் தி ரூட் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம் மற்றும் ஜெகதீஷ் பழனிச்சாமி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-ஜூன் 14-ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம் ஆகிய மொழிகளில்  வெளியாகும் இந்தப் படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையின் நடைபெற்றது. இதன் போது பட குழுவினர் பங்குபற்றினர்.
+The film crew has said, "The film is a ridiculous creation of the film that will cause a change of traffic and prevention for fans."
 
-...
+Vijay Sethupathi, Mamta Mohan Das, Abirami, Anurag Kashyap, Nattara Natraj, 'Director' Imam 'Bharathiraja, Lion Tiger, Aruldas, Muniskant, Vinod Sagar. Dinesh Purushothaman's cinematography. The film is composed by Ajanis Lokanath.
+
+The film was released on June 14 in Tamil, Telugu, Malayalam and Kannada.. The film crew participated in the event.
+
+Speaking at the event, the filmmaker and director's friend, Pilomin Raj, said, “The film will certainly provide a new experience for fans.. The film's opening scene to the end scene will make the audience anxious. When the director unravels its knots and the trademark, the director will give fans a different experience.. '' said.
+
+◼️
 
 [Data](articles/8cc3a5ac.json)
 
+[Extended Data](ext_articles/8cc3a5ac.ext.json)
+
 ---
 
-### அவுஸ்திரேலியாவில் சதையை உண்ணும் கிருமியின் தாக்கத்தால் கையை இழந்த இலங்கை பெண் !
+### A Sri Lankan woman who lost her hand due to the impact of a flesh in Australia
 
 *2024-06-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185755) · `ta`
 
-அவுஸ்திரேலியாவில் மெல்பேர்ண் நகருக்கு தனது குடும்பத்தாரை பார்க்கச் சென்ற இலங்கையைச் சேர்ந்த வயோதிப பெண் ஒருவர் சதையை உண்ணும் அரியவகை கிருமியின் தாக்கத்திற்கு பாதிக்கப்பட்டு அவரது கையை இழந்துள்ளதாக அவுஸ்திரரேலிய ஊடகங்கள் தெரிவித்துள்ளன.
+A Sri Lankan woman visiting her family in Melbourne, Australia, lost her hand due to a rare flesh-eating bacterial infection known as a brush ulcer. The 74-year-old woman, identified as Carmel Rodrigo, experienced severe pain and swelling in her left hand before being rushed to the hospital. Despite immediate medical attention, doctors had to amputate her hand to control the spread of the infection. She remains in a coma, indicating the severity of her condition. This case highlights the dangers of brush ulcers, which can be spread by mosquitoes and other animals that damage skin and soft tissue, and have been previously diagnosed in various Australian states.
 
-74 வயதான கார்மெல் ரோட்ரிகோ என்ற வயோதிப பெண் இவ் வருட ஆரம்பத்தில் அவுஸ்திரேலியாவின் மெல்பேர்ணிலுள்ள மகளை பார்ப்பதற்குச் சென்றுள்ளார்.
+🟩
 
-இந்த வயோதிப பெண்  அங்கு பல மாதங்கள் மகளுடன் தங்கியிருந்த நிலையில், கடந்த மாதம் அவருக்கு இடது கையில் துப்பாக்கியால் சுடப்பட்டது போல்  வலி ஏற்பட்டுள்ளது. அவர் வலியால் கத்தியுள்ளார். அவர் கை முழுவதும் வீங்கி, சற்று நீல நிறமாக மாறியுள்ளது.
+Australian media reports that an elderly woman from a Sri Lankan elderly woman who went to visit her family to Melbourne in Australia has lost her hand after the impact of a rare germ eating.
 
-உடனடியாக வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார். பின்னர் வயோதிப பெண் "கொடிய" புருலி அல்சர் (Buruli ulcer) நோயால் பாதிக்கப்பட்டுள்ளதாக கண்டறியப்பட்டுள்ளது. இது பொதுவாக அரியவகை "சதை உண்ணும்"நோய் என்று குறிப்பிடப்படுகிறது. இது ஒரு  கிருமித் தொற்று ஆகும்.
+A 74 -year -old elderly elderly woman named Carmel Rodrigo has gone to visit her daughter in Melbourne, Australia.
 
-நோயை கட்டுப்படுத்த வைத்தியர்கள் வயோதிப பெண்ணின் இடது கையை அறுவை சிகிச்சை மூலம் அகற்றியுள்ளனர்.
+The elderly woman was staying with her daughter for several months, and she suffered pain as he was shot in his left hand last month.. He is screaming in pain. He has swollen all over his hand and becomes slightly blue.
+
+Was taken to the hospital immediately. It is later found that the elderly woman is suffering from "deadly" brush ulcer. It is usually referred to as a rare type of "flesh -eating" disease. It is a germ infection.
+
+Doctors to control the disease have removed the old woman's left hand by surgery.
+
+In this case, he has been in a coma for the past three weeks. Because if he is conscious, his pain will be "unable to bear".
 
 ...
 
 [Data](articles/71a4574e.json)
 
+[Extended Data](ext_articles/71a4574e.ext.json)
+
 ---
 
-### நாளை முதல் சகல ரயில் சேவைகளும் வழமைக்கு !
+### All train services from tomorrow!
 
 *2024-06-10 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185756) · `ta`
 
-ரயில் சாரதிகள் சங்கத்தின் பணிப்புறக்கணிப்பு போராட்டம் நிறைவு பெற்றுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+The Railway Department announced today that all train services will resume as normal starting Tuesday morning, following the completion of the Railway Drivers Association's workplace.
 
-இந்நிலையில், நாளை செவ்வாய்க்கிழமை (11) காலை முதல் சகல ரயில் சேவைகளும் வழமை போல் இடம்பெறுமென ரயில்  திணைக்களம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Railway Department has said that the workplace of the Railway Drivers Association has been completed.
+
+In this case, the Railway Department said that all train services will be held as usual from Tuesday morning.
 
 ◼️
 
 [Data](articles/09c4bf39.json)
+
+[Extended Data](ext_articles/09c4bf39.ext.json)
 
 ---
 
@@ -894,6 +1030,22 @@ In both the games, Sri Lanka bowlers were able to keep the team in the game unti
 
 ---
 
+### Is it time to back Wanindu Hasaranga?
+
+*2024-06-10 12:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Is-it-time-to-back-Wanindu-Hasaranga/155-284504) · `en`
+
+June 10 (Daily Mirror) - Having lost their first two games of the ongoing T20 World Cup in United States of America & West Indies, Sri Lanka are on the brink of another humiliating exit from the most high-profile event of the year.
+
+Following a dreadful batting display against South Africa on the opening game, Sri Lanka looked to be in control against Bangladesh batting first when opener Pathum Nissanka was smashing the bowlers all over the park, but unfortunately after his dismissal Sri Lanka had another shocking batting collapse only making 124 at the end of their 20 overs.
+
+In both the games, Sri Lanka bowlers were able to keep the team in the game until the last moment despite defensive depressingly low scores. However, with both the games ending in defeat, the question marks have been raised over the appointment of Wanindu Hasaranga as captain.
+
+...
+
+[Data](articles/cfaf9ed8.json)
+
+---
+
 ### Sumanthiran should act in full swing against Tamil general candidate - Sumanthiran!
 
 *2024-06-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185728) · `ta`
@@ -1498,15 +1650,11 @@ In September 2023, it was published in September 2023 that the Good Governance R
 
 *2024-06-10 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99777/president-ranil-meets-bangladeshi-pm-in-delhi-) · `en`
 
-President Ranil Wickremesinghe has held a discussion with the Bangladesh Prime Minister Sheikh Hasina in New Delhi, India.
+Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe of Bangladesh’s commitment to support Sri Lanka’s agricultural modernization program.
 
-The bilateral meeting took place while they are in New Delhi to attend the oath-taking ceremony of the new Indian government at the invitation of prime minister Narendra Modi.
+President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina are currently in New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi. The two leaders engaged in bilateral discussions this morning (10), where Prime Minister Hasina assured her country’s commitment to assist Sri Lanka to modernised agriculture.
 
-President Wickremesinghe arrived in India on Sunday (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Narendra Modi, who was elected as the Prime Minister of India for the third consecutive term.
-
-Wickremesinghe was warmly welcomed at the airport by Additional Secretary P. Kumaran on behalf of the Indian Ministry of External Affairs, Indian High Commissioner to Sri Lanka Santosh Jha, Indian Ocean Region Additional Secretary Puneeth Agrawal and Mrs. Kshenuka Senewiratne.
-
-President Wickremesinghe’s arrival received significant media coverage in India, with billboards featuring his and Prime Minister Modi’s images displayed around key locations in New Delhi.
+President Ranil Wickremesinghe also affirmed his commitment to dispatch a delegation of Sri Lankan agricultural experts to Bangladesh. Their objective is to study Bangladesh’s agricultural modernization program through cooperative methods and gather valuable insights to enhance Sri Lanka’s own agricultural modernization efforts.
 
 ...
 
@@ -2006,6 +2154,22 @@ In its plan for reduction of carbon emission, the government has decided to have
 
 ---
 
+### World interest grows in nuke power generation in Sri Lanka
+
+*2024-06-10 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-interest-grows-in-nuke-power-generation-in-Sri-Lanka/108-284471) · `en`
+
+In the backdrop of the government evolving legislation to regulate nuclear power generation and the Sri Lanka Atomic Energy Board (SLAEB) getting ready to call for Expression of Interest from prospective investors, a delegation of China National Nuclear Corporation (CNNC) is expected in the country soon to explore investment in a nuke plant in the country, an official said yesterday.
+
+CNNC is among the organizations that submitted proposals for such a plant in the country. Besides Russia’s Rosatom, France’s Électricité de France (EDF), and Denmark’s Seaborg have submitted proposals.
+
+In its plan for reduction of carbon emission, the government has decided to have nuclear power in its energy mix. Recently, the International Atomic Energy Agency (IAEA) team of experts also concluded a seven-day safety review of Sri Lanka’s selection process to identify potential sites to build its first nuclear power plant.
+
+...
+
+[Data](articles/a97c0d9f.json)
+
+---
+
 ### Death in one of the shootings;Killing?Suicide?
 
 *2024-06-10 08:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-மரணம்-கொலையா-தற்கொலையா/175-338678) · `ta`
@@ -2115,193 +2279,5 @@ Omanthayannalare was killed by a blend of wall bundle of walls in a house in a h
 [Data](articles/98984ecf.json)
 
 [Extended Data](ext_articles/98984ecf.ext.json)
-
----
-
-### Another shot in the South?
-
-*2024-06-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197584) · `si`
-
-A 51-year-old businessman operating a hardware shop in Ranna was shot dead at his store last night. The incident occurred at night, but it's unclear whether it was a homicide or suicide.
-
-🟩
-
-An owner shooting was shot dead in Ranna, Ranna area in Ranna area.
-
-The shooting was held at night last night.
-
-The 51-year-old businessman was a 51 year old businessman.
-
-The man had operated a Hardware shot as a business and was shot dead at the first floor last night.
-
-Police said that the shooting was not yet known as a human killing or suicide.
-
-◼️
-
-[Data](articles/44310319.json)
-
-[Extended Data](ext_articles/44310319.ext.json)
-
----
-
-### The French elections are dates
-
-*2024-06-10 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197583) · `si`
-
-French President Ekanuel McCron dissolved Parliament, setting elections for June 30 and July 7. The Paris Olympics are rumored to start two weeks earlier.
-
-🟩
-
-French President Ekanuel McCron dissolved the Parliament by the country.
-
-He said that the dissolution of parliament was held on June 30 and July 7, he will be held on June 30 and July 07.
-
-It is said that the Paris Olympics will be two weeks ago.
-
-◼️
-
-[Data](articles/f98f51d6.json)
-
-[Extended Data](ext_articles/f98f51d6.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-10 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99770/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Nuwara Eliya district.
-
-Showers or thundershowers may occur at a few places in Uva province in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/40c06239.json)
-
-[Extended Data](ext_articles/40c06239.ext.json)
-
----
-
-### Tourism trade remains robust despite seasonal softening in May
-
-*2024-06-10 07:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-trade-remains-robust-despite-seasonal-softening-in-May/108-284463) · `en`
-
-The tourism trade is going through an expected softening due to the seasonality tied to the arrivals, but it has managed to eke out an income of US$ 154.0 million in May, data showed.
-
-This was down from US$ 225.7 million in April but up from US$ 100.0 million a year ago when the trade was recovering from repeated crises.
-
-Sri Lanka’s economy weakened due to waning inflows from tourism and other foreign currency inflows due to the 2019 Easter attacks, two years of pandemic induced restrictions over travel and in-person events, and then by the ‘Aragalaya’ in 2022.
-
-It added to the challenges faced by tourism in its efforts to revive while the global travel industry started picking up from two years of pursuing stay at home orders due to the worldwide pandemic.
-
-This caused many countries to put up travel advisories against their people who were thinking of taking flights to Sri Lanka, delaying what looked like a continuous recovery in the trade.
-
-...
-
-[Data](articles/ff733816.json)
-
-[Extended Data](ext_articles/ff733816.ext.json)
-
----
-
-### President Ranil attends Modi’s swearing-in ceremony
-
-*2024-06-10 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99769/president-ranil-attends-modis-swearing-in-ceremony) · `en`
-
-Sri Lanka President Ranil Wickremesinghe joined the swearing-in ceremony of Indian Prime Minister Shri Narendra Modi, held on Sunday evening (09) at the Rashtrapati Bhavan, New Delhi.
-
-The swearing-in ceremony was also attended by other leaders from the neighbourhood including Bangladesh Prime Minister Sheikh Hasina, Bhutan Prime Minister Tshering Tobgay, Nepal Prime Minister Pushpa Kamal Dahal, Mauritius Prime Minister Pravind Kumar Jugnauth, Seychelles Vice-President Ahmed Afif, and Maldives President Mohamed Muizzu, whose inclusion as an invitee surprised diplomatic circles in view of the currently strained ties between New Delhi and Male.
-
-President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Narendra Modi, who has been elected as the Prime Minister of India for the third consecutive term.
-
-...
-
-[Data](articles/7d738589.json)
-
-[Extended Data](ext_articles/7d738589.ext.json)
-
----
-
-### Railway strike further - 20 office trains canceled
-
-*2024-06-10 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197582) · `si`
-
-A railway strike initiated by train drivers' opposition continues, affecting 20 office trains. The delay in promotions and recruitment is cited as reasons, not due to power struggles. Despite planning 47 office trains, 20 were cancelled due to the strike. Discussions between transport minister Bandula Gunawardena and five trade unions are scheduled, aiming to address the issue.
-
-🟩
-
-The Lokomotive Opposition Association says the strike commenced by a group of train drivers will continue today (10).
-
-The delay in the second level promotions commenced on the 6th of the 6th of this month, taking the delay, recruitment late.
-
-The drivers of 5 train drive are only join the strike, and it is not the result of the power sets.
-
-However, Transport Minister Bandula Gunawardena said that "Ada Derana" inquiry, however, Minister of Transport Bandula Gunawardena said that five trade unions have been given a discussion today.
-
-Accordingly, the Minister will be held in the Ministry of Highways this afternoon.
-
-Mr. Derana, however, inquired by Ada Derana, "Ada Derana" stated that such a discussion is being held.
-
-Inquiry from the Deputy General Manager of the Railway Department, he said he had informed the President of the Lockopo-Occutor Engineering regarding the discussion.
-
-Meanwhile, the Railway Department says that 47 office trains have been planned this morning.
-
-...
-
-[Data](articles/06d0dea5.json)
-
-[Extended Data](ext_articles/06d0dea5.ext.json)
-
----
-
-### Sri Lanka Ports Authority cadre slashed, makes payment to Treasury
-
-*2024-06-10 07:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-ports-authority-cadre-slashed-makes-payment-to-treasury-167120/) · `en`
-
-ECONOMYNEXT – Sri Lanka Ports Authority, has made profits of 40.3 billion rupees in 2023, before payment to the Treasury of 8.6 billion rupees to repay a long taken to build Hambantota port, down from 57.0 billion rupees, official data showed.
-
-SLPA paid income tax of 5.6 billion rupees, down from 13.2 billion rupees a year earlier.
-
-The Treasury had also reduce the approved cadre of the SLPA.
-
-“After a lengthy analysis by considering the technological advancement over the years and redundant job categories, General Treasury revised the cadre of the SLPA in 2023 and reduced the cadre by 3003 from 9,990 to 6,987,” the statement said.
-
-The SLPA has been used by successive ministers to stuff it with supporters from their respective electorates.
-
-...
-
-[Data](articles/3108b640.json)
-
-[Extended Data](ext_articles/3108b640.ext.json)
-
----
-
-### wokers’ remittances continue to plough ahead with US$ 544mn in May
-
-*2024-06-10 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/wokers-remittances-continue-to-plough-ahead-with-US-544mn-in-May/108-284464) · `en`
-
-Remittance income from Sri Lankans working abroad has continued to remain robust through May as the country received US$ 544.4 million in the month. This is both, higher from a month ago levels as well as the year earlier levels.
-
-Sri Lankan received US$ 543.8 million as remittances in April this year while in May last year the receipts were US$ 479.7 million.
-
-For the five months through May, the country received US$ 2, 624.4 million from remittances, up 11.8 percent from the same period a year ago.
-
-Sri Lanka’s remittances started normalising when the authorities began cracking down on the informal money exchanges that were offering substantial premiums to the official exchange rate.
-
-The rupee depreciation also helped emigrants to re-route their earnings via banks which until then were repatriated via informal channels.
-
-Further the record number of departures for foreign employment also helped Sri Lanka to receive strong amounts of foreign currency every month.
-
-...
-
-[Data](articles/0d1fb9cb.json)
-
-[Extended Data](ext_articles/0d1fb9cb.ext.json)
 
 ---

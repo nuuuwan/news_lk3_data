@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 11:34:34**
+As of **2024-06-10 11:54:23**
 
 ## Newspaper Stats
 
-*Scraped **29,508** Articles*
+*Scraped **29,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,600
 economynextcom | 1,681
 dailyftlk | 1,768
-adalk | 2,517
+adalk | 2,518
 adaderanalk | 3,345
 tamilmirrorlk | 3,459
 virakesarilk | 4,519
-dailymirrorlk | 4,677
+dailymirrorlk | 4,680
 adaderanasinhalalk | 4,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,508 (100.0%) of 29,508 articles have been extended.
+29,508 (100.0%) of 29,512 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,22 @@ It has been revealed that the people of the area have not been informed of the l
 [Data](articles/f00d9143.json)
 
 [Extended Data](ext_articles/f00d9143.ext.json)
+
+---
+
+### President meets Bangladesh Prime Minister in New Delhi
+
+*2024-06-10 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Bangladesh-Prime-Minister-in-New-Delhi/108-284498) · `en`
+
+President Ranil Wickremesinghe met Prime Minister Sheikh Hasina of Bangladesh in New Delhi earlier today.
+
+The meeting took place on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi.
+
+The President’s Media Division confirmed the meeting, which highlights the ongoing efforts to strengthen regional ties and cooperation among South Asian nations.
+
+◼️
+
+[Data](articles/b6afb45d.json)
 
 ---
 
@@ -486,6 +502,26 @@ Macron himself wasn’t a candidate in the EU elections and his term as presiden
 
 ---
 
+### French President dissolves parliament and calls a snap election
+
+*2024-06-10 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/French-President-dissolves-parliament-and-calls-a-snap-election/107-284474) · `en`
+
+PARIS (AP) — President Emmanuel Macron dissolved the lower house of France’s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday.
+
+The legislative elections will take place in two rounds on June 30 and July 7.
+
+The announcement came after the first projected results from France put the far-right National Rally party well ahead in the European Union’s parliamentary elections, handing a chastening loss to Macron’s pro-European centrists, according to French opinion poll institutes.
+
+Marine Le Pen’s anti-immigration, nationalist party was estimated to get around 31%-32% of the votes, a historic result more than double the share of Macron’s Renaissance party, which was projected to reach around 15%.
+
+Macron himself wasn’t a candidate in the EU elections and his term as president still runs for three more years.
+
+...
+
+[Data](articles/c0acc875.json)
+
+---
+
 ### World interest grows in nuke power generation in Sri Lanka
 
 *2024-06-10 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/World-interest-grows-in-nuke-power-generation-in-Sri-Lanka/155-284471) · `en`
@@ -801,6 +837,28 @@ Further the record number of departures for foreign employment also helped Sri L
 [Data](articles/0d1fb9cb.json)
 
 [Extended Data](ext_articles/0d1fb9cb.ext.json)
+
+---
+
+### Workers’ remittances continue to plough ahead with US$ 544mn in May
+
+*2024-06-10 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Workers-remittances-continue-to-plough-ahead-with-US-544mn-in-May/108-284464) · `en`
+
+Remittance income from Sri Lankans working abroad has continued to remain robust through May as the country received US$ 544.4 million in the month. This is both, higher from a month ago levels as well as the year earlier levels.
+
+Sri Lankan received US$ 543.8 million as remittances in April this year while in May last year the receipts were US$ 479.7 million.
+
+For the five months through May, the country received US$ 2, 624.4 million from remittances, up 11.8 percent from the same period a year ago.
+
+Sri Lanka’s remittances started normalising when the authorities began cracking down on the informal money exchanges that were offering substantial premiums to the official exchange rate.
+
+The rupee depreciation also helped emigrants to re-route their earnings via banks which until then were repatriated via informal channels.
+
+Further the record number of departures for foreign employment also helped Sri Lanka to receive strong amounts of foreign currency every month.
+
+...
+
+[Data](articles/a496c741.json)
 
 ---
 
@@ -1848,6 +1906,22 @@ This is the third general election that the National Democratic Alliance continu
 
 ---
 
+### දුම්රිය රියදුරන් 186කගේ හිඟයක්
+
+*2024-06-09 20:18:05* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්-186කගේ-හිඟයක්/11-410109) · `si`
+
+වර්තමානය වන විට දුම්රිය රියදුරන් 186 දෙනෙකුගේ පුරප්පාඩු තිබෙන බවත්, දුම්රිය රියදුරන් 2017 වසරේ සිට බඳවා ගෙන නොමැති බවත් රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී (කෝපා) අනාවරණය විය.
+
+ඒ අනුව දුම්රිය දෙපාර්තමේන්තුවේ පුරප්පාඩු සඳහා අභ්‍යන්තර උසස්වීම් ක්‍රියාවලිය වේගවත් කරන ලෙස කෝපා සභාපතිවරයා වෙනුවට මුලසුන දැරූ පාර්ලිමේන්තු මන්ත්‍රී වීරසුමන වීරසිංහ මහතා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් කෝපා කමිටුව හමුවට කැඳවූ අවස්ථාවේදී මෙම උපදෙස් ලබා දුන්නේය.
+
+මෙම අවස්ථාවේදී කෝපා සභාපති ලසන්ත අලගියවන්න මහතා ප්‍රවාහන රාජ්‍ය අමාත්‍යවරයා වීම හේතුවෙන් වැඩකටයුතු කර ගෙන යෑමට වීරසුමන වීරසංහ මන්ත්‍රීවරයාට මුලසුන ලබා දී කමිටුවෙන් පිටත්ව ගියේය.
+
+...
+
+[Data](articles/f3e9859e.json)
+
+---
+
 ### Anura reveal Anura to threaten former SDIG Ravi
 
 *2024-06-09 20:12:01* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-SDIG-රවීට-ආණ්ඩුවෙන්-තර්ජන-ඒම-ගැන-අනුරගේ-හෙළිකිරීම/11-410108) · `si`
@@ -2127,93 +2201,5 @@ However, the Pakistan government and the International Monetary Fund representat
 [Data](articles/9ba729d1.json)
 
 [Extended Data](ext_articles/9ba729d1.ext.json)
-
----
-
-### Elephant's coming to Minneriya falls due to Moragahakanda
-
-*2024-06-09 19:21:07* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහකන්ද-නිසා-මින්නේරියට-අලි-ඇතින්ගේ-පැමිණීම-අඩුවෙයි/11-410105) · `si`
-
-Elephants are migrating less to Minneriya National Park since the Moragahakanda Water Project started. This project, initiated in January 2023, has led to a decrease in elephant sightings, especially during their peak migration months of September and October. Investigations show a 12% drop in elephant arrivals from 2017 to 2022. The park's grasslands are now dominated by invasive plants, affecting the habitat of grazing animals.
-
-🟩
-
-A large number of elephants from the same location from March 2024, the National Institute of Performance, which has been reduced from the same location, has been reduced to the Minneriya National Park.
-
-The audit revealed that the loss of the park park is prevalent due to the spread of aggressive plants in this park.. It has also been revealed that the Elephant Arrivals to the Minneriya National Park has also reduced due to the Moragahakanda Water Project.
-
-Due to the Moragahakanda Project, the number of elephants will be detected in January 2023, the number of elephants will be detected in January 2023.
-
-Elephants come to the park is more in September and October every year. According to the investigations made by the Director General, the arrivals of elephants from 2017 to 2022 have decreased by 12%.
-
-...
-
-[Data](articles/ddc2b693.json)
-
-[Extended Data](ext_articles/ddc2b693.ext.json)
-
----
-
-### Special notice under Harsha about the life threatening incident
-
-*2024-06-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197569) · `si`
-
-Harsha de Silva, head of CID, informed about a life-threatening incident. The MP, thanking the Minister of Public Defense and CID, mentioned being asked by the Speaker if he felt threatened. He stated no further notification of an investigation was needed, prompting CID to update the Speaker.
-
-🟩
-
-The Criminal Investigation Department (CID Harsha de Silva has informed the CID.
-
-Speaking to the CID, the CID has made this statement after he was notified that a statement would be issued.
-
-The MP thanked the Minister of Public Defense and the CID under the CID.
-
-The MP has also informed the police that the Speaker asked him to ask whether he was threatened by the Speaker.
-
-He further stated that such an investigation is not required to be notified again.
-
-Accordingly, the CID has also taken steps to inform the Speaker.
-
-◼️
-
-[Data](articles/584655dd.json)
-
-[Extended Data](ext_articles/584655dd.ext.json)
-
----
-
-### The idea of ​​stopping the controversial cease
-
-*2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185636) · `ta`
-
-Biden acknowledges controversial ceasefire ideas might stem from Israel's right-wing, noting opposition could come from the ruling party as well. He has proposed various explanations for the situation.
-
-🟩
-
-He also acknowledged that these ideas may arise from Israel's right -wing side. The ruling party can also oppose this. Baidan has put forward many ideas to explain the situation for them.
-
-◼️
-
-[Data](articles/5ffa6b4f.json)
-
-[Extended Data](ext_articles/5ffa6b4f.ext.json)
-
----
-
-### The incompatibility of the UNP
-
-*2024-06-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185654) · `ta`
-
-The UNP's stance suggests that if a referendum involves both the president and parliament, it wouldn't be unconstitutional.
-
-🟩
-
-If the referendum ordered the referendum in the president and parliament, it would not be considered anti -constitutional.
-
-◼️
-
-[Data](articles/95558e14.json)
-
-[Extended Data](ext_articles/95558e14.ext.json)
 
 ---

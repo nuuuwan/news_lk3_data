@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 02:04:13**
+As of **2024-06-11 02:19:01**
 
 ## Newspaper Stats
 
-*Scraped **29,678** Articles*
+*Scraped **29,679** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 270
+colombotelegraphcom | 271
 dbsjeyarajcom | 278
 bbccomsinhala | 287
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,671 (100.0%) of 29,678 articles have been extended.
+29,678 (100.0%) of 29,679 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Archbishop of Colombo Malcolm Cardinal Ranjith, has expressed strong criticism o
 
 [Data](articles/2f0ebde2.json)
 
+[Extended Data](ext_articles/2f0ebde2.ext.json)
+
 ---
 
 ### Foreign economic experts meet NPP
@@ -61,6 +63,8 @@ A group of foreign economic experts met with representatives of the National Peo
 ◼️
 
 [Data](articles/11aece38.json)
+
+[Extended Data](ext_articles/11aece38.ext.json)
 
 ---
 
@@ -82,19 +86,27 @@ Speaking at a press conference Peiris highlighted that such an extension has not
 
 [Data](articles/142f90cb.json)
 
+[Extended Data](ext_articles/142f90cb.ext.json)
+
 ---
 
-### பருத்தித்துறை ஆதார வைத்தியசாலை ஊழியர்கள் போராட்டம்!
+### Point Pedro Hospital Struggle
 
 *2024-06-11 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185793) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி பருத்தித்துறை ஆதார வைத்தியசாலையில்  கடந்த 8 ஆம் திகதி  விடுதி இலக்கம் 7 இலக்க விடுதியில்  நுழைந்து அங்கு கடமையிலிருந்த தாதிய உத்தியோகத்தரை தாக்க முற்பட்ட சம்பவத்தை கண்டித்து மதியம் 12 மணி முதல் ஒரு மணிவரையன தமதி உணவு வேளையில். வைத்தியசாலையின் தாதிய உத்தியோகஸ்தர்கள் சிற்றூழியர்கள், தனியார் பாதுகாப்பு உத்தியோகத்தர்கள்  இணைந்து கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+Nurses at Point Pedro Hospital, Jaffna, protested on August 8, entering Hostel No. 7. Their demands included officer safety, arrest of armed police, and capturing suspects.
 
-உத்தியோகத்தர்கள்  பாதுகாப்பை உறுதிப்படுத்து, ஆயுதம் தாங்கிய பொலிசாரை கடமையில் ஈடுபடுத்து, சம்மந்தப்பட்ட குற்றவாளியை கைது செய், போன்ற கோரிக்கைகளை முன்வைத்தே குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
+
+Jaffna entered the Vadamarachchi Point Pedro Hospital on the 8th of last month and entered the hostel No. 7 No. 7 Hostel. The Nurses of the Hospital were launching a protest march.
+
+The struggle was carried out on demands such as the security of the officers, the arrest of the armed policemen, and the arrest of the accused.
 
 ◼️
 
 [Data](articles/aa547216.json)
+
+[Extended Data](ext_articles/aa547216.ext.json)
 
 ---
 
@@ -112,21 +124,27 @@ Renowned global customer experience guru Ron Kaufman last week met with the Boar
 
 ---
 
-### அராலியில் இளம் பெண் தூக்கிட்டு உயிர்மாய்ப்பு!
+### Young woman lifted in Arali!
 
 *2024-06-11 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185792) · `ta`
 
-அராலி வடக்கு பகுதியில் 10ஆம் திகதி திங்கட்கிழமை இளம் பெண்ணொருவர் தவறான முடிவெடுத்துத் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+A young woman named Sivakaran Mayura, aged 24, tragically passed away on Arali's 10th due to a poor choice. Her family has suffered losses; her father and brother had previously died. An autopsy conducted by a Sudden Death Investigation Officer followed her death, after which her body was returned to her grieving relatives.
 
-அதே பகுதியைச் சேர்ந்த 24 வயதுடைய சிவகரன் மயூரா என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த பெண்ணின் தந்தையும், அண்ணாவும் ஏற்கனவே உயிரிழந்துள்ளனர். இந்நிலையில் அவர் இன்று இவ்வாறு உயிர்மாய்த்துள்ளார்.
+On Monday, the 10th of Arali, a young woman has made a wrong decision and died.
 
-சடலம் மீதான பிரேதப் பரிசோதனைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The deceased is Sivakaran Mayura, a 24 -year -old from the same area.
+
+The girl's father and brother have already died. In this case, he is still alive today.
+
+An autopsy on the body was carried out by Sudden Death Investigation Officer. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/d0e41887.json)
+
+[Extended Data](ext_articles/d0e41887.ext.json)
 
 ---
 
@@ -246,19 +264,27 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 
 ---
 
-### இலங்கை - பங்களாதேஷ் பயணிகள் படகு சேவை
+### Sri Lanka - Bangladesh passenger ferry service
 
 *2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
 
-இலங்கையில் முன்னெடுக்கப்படும் விவசாய நவீனமயமாக்கல் திட்டத்திற்கு பங்களாதேஷ் ஆதரவளிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா உறுதியளித்தார்.
+In a meeting between Sri Lanka's President Ranil Wickremesinghe and Bangladesh's Prime Minister Sheikh Hasina in New Delhi, discussions revolved around enhancing bilateral ties, including agricultural modernization, potential free trade agreements, and investment opportunities. Both leaders agreed to collaborate on agricultural programs and facilitate investments. They also touched upon the passenger ferry service between the two countries and invited each other to conferences, highlighting a strong commitment to strengthening relations.
 
-இந்தியப் பிரதமர் நரேந்திர மோடியின் பதவிப் பிரமாண வைபவத்திற்காக புதுடெல்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனாவுக்கும் இடையிலான இருதரப்பு பேச்சுவார்த்தை திங்கட்கிழமை (10) காலை நடைபெற்றது. இதன்போதே பங்களாதேஷ் பிரதமர் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கூட்டுறவு முறையின் அடிப்படையில் பங்களாதேஷில்  செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை ஆராய்ந்து இலங்கையின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காக இலங்கை விவசாயத்துறை  நிபுணர்கள் குழுவொன்றை பங்களாதேஷிற்கு அனுப்புவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க இணக்கம் தெரிவித்தார்.
+Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe that Bangladesh will support the agricultural modernization program in Sri Lanka.
+
+Bilateral talks between President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina, who are in New Delhi for the swearing -in of Indian Prime Minister Narendra Modi. The Prime Minister of Bangladesh said the above.
+
+President Ranil Wickremesinghe has agreed to send a group of Sri Lankan agricultural experts to Bangladesh to analyze the agricultural modernization program implemented in Bangladesh based on the co -operative system and to succeed in the agricultural modernization program of Sri Lanka.
+
+President Ranil Wickremesinghe pointed out that the two leaders discussed the signing of the free trade agreement between Bangladesh and Sri Lanka and that there is a possibility of signing a free trade agreement with Bangladesh after the completion of the Indian Free Trade Agreement.
 
 ...
 
 [Data](articles/c0980eb8.json)
+
+[Extended Data](ext_articles/c0980eb8.ext.json)
 
 ---
 
@@ -284,23 +310,33 @@ Shehani Navotya of Ginigathena Central Maha Vidyalaya, who was the first in the 
 
 ---
 
-### பங்களாதேஷை 4 ஓட்டங்களால் வென்ற தென் ஆபிரிக்கா அடுத்த சுற்றுக்கான வாய்ப்பை அதிகரித்துக்கொண்டது
+### South Africa won the chance of the next round of Bangladesh by 4 runs
 
 *2024-06-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185791) · `ta`
 
-தென் ஆபிரிக்காவுக்கும் பங்களாதேஷுக்கும் இடையில் நியூயோர்க் நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவடைந்த டி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் தென் ஆபிரிக்கா 4 ஓட்டங்களால் வெற்றிபெற்றது.
+South Africa advanced to the Super 8 round in the 9th T20 World Cup by defeating Bangladesh by 4 runs in a closely contested match at the New York Nasav Kandri International Stadium. Despite a challenging start where they lost six wickets and managed only 113 runs, Henry Glassen and David Miller's partnership of 79 runs revived South Africa's innings. In response, Bangladesh also struggled, losing seven wickets for 109 runs, with Tauhid Ritoy's 37 runs being a highlight. Keshav Maharaj's bowling performance, taking three wickets across four overs, sealed South Africa's victory.
 
-இந்த வெற்றியுடன் 9ஆவது ரி20 உலகக் கிண்ணப் போட்டியில் சுப்பர் 8 சுற்றில் விளையாடுவதற்கான வாய்ப்பை தென் ஆபிரிக்கா அதிகரித்துக்கொண்டுள்ளது.
+🟩
 
-அடுத்தடுத்த இரண்டு தினங்கள் மிகவும் குறைந்த மொத்த எண்ணிக்கைகளை வெற்றி இலக்காகக் கொண்டு இரண்டாவதாக துடுப்பெடுத்தாடிய அணிகள் தோல்வியைத் தழுவியமை குறிப்பிட்டுச் சொல்லக்கூடிய விடயமாகும்.
+South Africa won by 4 runs in the T20 World Cup for the D Group, which was completed shortly before the New York Nasav Kandri International Stadium between South Africa and Bangladesh.
 
-இந்தியாவுக்கு எதிராக இதே மைதானத்தில்  நடைபெற்ற போட்டியில் 120 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய பாகிஸ்தான் 6 ஓட்டங்களால் தோல்வி அடைந்திருந்தது.
+With this victory, South Africa has increased the chance of playing the Super 8 round in the 9th T20 World Cup.
 
-பங்களாதேஷுடனான வெற்றியை அடுத்து ரி20 உலகக் கிண்ணப் போட்டியில் மிகவும் குறைந்த மொத்த எண்ணிக்கையை தக்கவைத்த அணி என்ற பெருமையை தென் ஆபிரிக்கா தனதாக்கிக்கொண்டது. இதற்கு முன்னர் இந்தியாவின் 119 ஓட்டங்களே தக்கவைக்கப்பட்ட மிகக் குறைந்த எண்ணிக்கையாக இருந்தது.
+It is worth noting that the two -day teams have failed the second team with the target of a very low total number.
+
+Pakistan lost by 6 runs in response to 120 runs in the same stadium against India.
+
+South Africa became the pride of the team that retained very little total number in the T20 World Cup after winning with Bangladesh. Earlier, India's 119 runs were the smallest number.
+
+South Africa decided to bat first, which gave them difficulty again, losing six wickets in 20 overs and scoring only 113 runs.
+
+In the match against the Netherlands, the total number of South Africa's leading quarries was 23 runs in the 5th over.
 
 ...
 
 [Data](articles/856453f0.json)
+
+[Extended Data](ext_articles/856453f0.ext.json)
 
 ---
 
@@ -825,6 +861,20 @@ Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he
 [Data](articles/099bc8a2.json)
 
 [Extended Data](ext_articles/099bc8a2.ext.json)
+
+---
+
+### Fly Highdream Big
+
+*2024-06-10 20:15:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fly-highdream-big/) · `en`
+
+We are living in an era under a High Level focus by UN authorities on the creation of a global level road map, with an open data platform, to commit all nations towards a Sustainable Development Goal. This concept emerged with the Heads of State and High Representatives of Governments meeting at the United Nations Headquarters in New York from 25-27 September 2015 to celebrate its seventieth anniversary, deciding on a new action program for a global Sustainable Development Goal (SDG).
+
+The declaration adopted at this forum incorporated inter-alia the following;
+
+...
+
+[Data](articles/d61e5ef4.json)
 
 ---
 
@@ -2149,25 +2199,5 @@ Last week, Sri Lanka passed a new Electricity Act which will enable the state-ow
 [Data](articles/0347a0d8.json)
 
 [Extended Data](ext_articles/0347a0d8.ext.json)
-
----
-
-### Railway driver strike is over
-
-*2024-06-10 15:34:23* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරු-වැඩවර්ජනය-අවසන්/11-410121) · `si`
-
-The railway driver strike has ended following discussions with transport ministry officials. Despite the resolution, services today will be disrupted, resuming normally tomorrow.
-
-🟩
-
-Railway drivers said that the strike was completed after a discussion between the strike and the officials of the Ministry of Transport.
-
-Although the strike was over, the railway running would not be normal this afternoon and the railway run will be in the hands of tomorrow.
-
-◼️
-
-[Data](articles/5665a33f.json)
-
-[Extended Data](ext_articles/5665a33f.ext.json)
 
 ---

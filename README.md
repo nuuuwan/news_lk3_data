@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 01:34:26**
+As of **2024-06-11 01:53:03**
 
 ## Newspaper Stats
 
-*Scraped **29,665** Articles*
+*Scraped **29,671** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 269
+colombotelegraphcom | 270
 dbsjeyarajcom | 278
 bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,601
 economynextcom | 1,697
-dailyftlk | 1,779
+dailyftlk | 1,784
 adalk | 2,535
 adaderanalk | 3,357
 tamilmirrorlk | 3,472
@@ -26,11 +26,93 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,663 (100.0%) of 29,665 articles have been extended.
+29,665 (100.0%) of 29,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Customer experience guru Ron Kaufman meets BOI, SLPA heads
+
+*2024-06-11 01:30:02* · [`dailyftlk`](https://www.ft.lk/business/Customer-experience-guru-Ron-Kaufman-meets-BOI-SLPA-heads/34-762916) · `en`
+
+Renowned global customer experience guru Ron Kaufman last week met with the Board of Investment of Sri Lanka (BOI) Chairman Dinesh Weerakkody and Sri Lanka Ports Authority Chairman Keith D. Bernard to discuss the current economic climate and investment opportunities in both Colombo Port City and on shore. They discussed strategies for public sector capacity development. Ron Kaufman, who led an event in Sri Lanka in 2017, has built a globally renowned reputation as a leading educator on Uplifting Service performance and Building Service Cultures. Ron is the author of the New York Times bestselling book “Uplifting Service: The Proven Path” and 14 other books on customer service, business, and inspiration.
+
+◼️
+
+[Data](articles/8086aa68.json)
+
+---
+
+### New director at Emerchemie NB
+
+*2024-06-11 01:28:47* · [`dailyftlk`](https://www.ft.lk/business/New-director-at-Emerchemie-NB/34-762915) · `en`
+
+In consequence to the retirement of Ruud van Anraat as an Independent Director, Emerchemie NB Ceylon Ltd., has appointed President’s Counsel Anura Meddegoda to its Board.
+
+Following the appointment the Board of Directors comprises Chairman Nimal Dias-Jayasinha, M. Prathaban, Hasintha Alahakoon, Dr. Janaka Weeratunga, Manisha Dias-Jayasinha, Nelun Dias-Jayasinha and Anura Meddegoda .
+
+Emerchemie NB Ceylon Ltd., is celebrating its 25th anniversary in June, enjoying a market share of 12% of the pharmaceutical market in Sri Lanka and providing employment to a staff cadre exceeding 800.
+
+◼️
+
+[Data](articles/d6ce41fd.json)
+
+---
+
+### ACFA seminar on risk of liability due to ignorance of narcotics on 19 June
+
+*2024-06-11 01:27:09* · [`dailyftlk`](https://www.ft.lk/business/ACFA-seminar-on-risk-of-liability-due-to-ignorance-of-narcotics-on-19-June/34-762914) · `en`
+
+The Association of Clearing and Forwarding Agents (ACFA) has taken an initiative to enhance and spread industry awareness on Customs compliance and risks of narcotic trafficking.
+
+A seminar under the theme “Risk of Noncompliance and Liability due to Ignorance of Narcotics” will be held at the Sri Lanka Foundation Institute on 19 June from 9:00 a.m. to 12.00 p.m.
+
+Composition of panellists and issues to be addressed will be designed to appeal to varied professional interests of Importers, exporters, clearing and forwarding agents, shipping lines, air lines, trade forums and other stakeholders who regularly interact with Customs.
+
+“Ignorance of the law is no excuse. This means that professionals cannot claim that they didn’t know the law or were not aware of the processes. Industry awareness is an essential component in combating narcotic trafficking through ports,” ACFA President Uvaiz Samsudeen said.
+
+...
+
+[Data](articles/3e71b6a2.json)
+
+---
+
+### President and Dr. Jaishankar discuss resumption of India-aided development projects
+
+*2024-06-11 01:25:31* · [`dailyftlk`](https://www.ft.lk/news/President-and-Dr-Jaishankar-discuss-resumption-of-India-aided-development-projects/56-762913) · `en`
+
+Dr. Jaishankar announces plans to visit Sri Lanka soon to oversee progress of projects, coordinate upcoming visit by Indian Prime Minister
+
+President Ranil Wickremesinghe yesterday met with Indian External Affairs Minister Dr. S. Jaishankar to discuss the swift resumption of halted development projects in Sri Lanka, funded by Indian investments.
+
+Dr. Jaishankar emphasised India’s commitment to fast-tracking these projects and announced plans to visit Sri Lanka soon to oversee their progress and coordinate an upcoming visit by the Indian Prime Minister.
+
+During the meeting, Dr. Jaishankar reiterated India’s ‘Neighbourhood First’ policy, highlighting plans for an industrial zone in Trincomalee. This project, spearheaded by the Indian Government, aims to attract numerous Indian investors and potentially others from around the globe, boosting economic collaboration between the two countries.
+
+...
+
+[Data](articles/004ce2c0.json)
+
+---
+
+### Bangladesh pledges support for Sri Lanka’s agricultural modernisation drive
+
+*2024-06-11 01:24:11* · [`dailyftlk`](https://www.ft.lk/news/Bangladesh-pledges-support-for-Sri-Lanka-s-agricultural-modernisation-drive/56-762912) · `en`
+
+Bangladesh Prime Minister Sheikh Hasina in conversation with President Ranil Wickremesinghe during their meeting in New Delhi yesterday on the sidelines of the
+
+swearing-in ceremony of Indian Prime Minister Narendra Modi – Pic by Pradeep Pathirana
+
+Bangladesh Prime Minister Sheikh Hasina yesterday assured President Ranil Wickremesinghe of her country’s commitment to support Sri Lanka’s agricultural modernisation program.
+
+This was conveyed when the duo met in New Delhi on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi. The two leaders engaged in bilateral discussions where Prime Minister Hasina assured her country’s commitment to assist Sri Lanka to modernised agriculture.
+
+...
+
+[Data](articles/2b785bbf.json)
+
+---
 
 ### Two new Mahaweli Divisions announced in Ratnapura District
 
@@ -45,6 +127,8 @@ Under the Sri Lanka Mahaweli Authority Act, the Walawa Mahaweli Special region w
 ...
 
 [Data](articles/7bd883f4.json)
+
+[Extended Data](ext_articles/7bd883f4.ext.json)
 
 ---
 
@@ -63,6 +147,8 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 ...
 
 [Data](articles/eca2d069.json)
+
+[Extended Data](ext_articles/eca2d069.ext.json)
 
 ---
 
@@ -655,6 +741,22 @@ South Africa: Quinton de Kock, Reza Hendrix, Aiden Margram (Chairman), Triston S
 [Data](articles/29929a1b.json)
 
 [Extended Data](ext_articles/29929a1b.ext.json)
+
+---
+
+### Philip Gunawardena: Who Is Ready To Serve ?
+
+*2024-06-10 20:04:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/philip-gunawardena-who-is-ready-to-serve/) · `en`
+
+The Hon, Philip Gunawardena was a product of a time when this nation which had focused on social upliftment as the development goal. As stated by the Hon D.S. the performance of my govt must be gauged by the larder of the poorest of our homes. In November 1932, he plunged into active politics organising rural peasants, plantation workers and urban workers.
+
+Philip Gunawardena is remembered as the architect of the Paddy Lands Act which brought relief to the tenant cultivator  and  his politics is reflected in a statement in July, 1967,
+
+“I have always said that I will work with any group of people who are ready to develop this country, who are ready to defend the independence of this country, who are ready to serve the people of this country. Let it be any group of people – Yes, not only with the devil, but with the devil’s grandmother.”
+
+...
+
+[Data](articles/6d00d7a0.json)
 
 ---
 
@@ -2097,139 +2199,5 @@ However, in response to the allegations leveled by the trade union in question, 
 [Data](articles/0271d19f.json)
 
 [Extended Data](ext_articles/0271d19f.ext.json)
-
----
-
-### Minister urges union to end strike and return to duty
-
-*2024-06-10 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-urges-union-to-end-strike-and-return-to-duty/108-284516) · `en`
-
-Colombo, June 10 (Daily Mirror) - Transport and Highways Minister Bandula Gunawardena today requested the Sri Lanka Railways Locomotive Operating Engineers’ Union to call off their strike and report to work.
-
-He made this request during the discussion held with the union at the Transport Ministry.
-
-“I brought a long-neglected issue to the Cabinet and successfully secured approval for promotions in March 2024.
-
-"The promotion process for train drivers is now underway. Applications were received from 75 train drivers seeking promotion from third class to second class, and 70 of them have already been issued their promotion letters," the Minister said.
-
-Therefore, Minister Gunawardena requested that the union end the strike and avoid inconveniencing the public, ensuring that promotions will be granted in the future according to the prescribed procedure.
-
-◼️
-
-[Data](articles/01a45da5.json)
-
-[Extended Data](ext_articles/01a45da5.ext.json)
-
----
-
-### Railway strike ends
-
-*2024-06-10 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197604) · `si`
-
-Following discussions with the Transport Minister, Railway Trade Unions ended their strike. The decision came after talks between Minister Bandula Gunawardena and various railway worker unions, including those representing locomotive engineers.
-
-🟩
-
-After a discussion with the Minister of Transport, the Railway Trade Unions have decided to finish their strike.
-
-Transport Minister Bandula Gunawardena and the train driver vocational trade unions have been conducted at the Transport Ministry.
-
-The strike commenced the strike by a group of Lokomotive Opposition Association's Railway Engineers Association.
-
-◼️
-
-[Data](articles/01582b55.json)
-
-[Extended Data](ext_articles/01582b55.ext.json)
-
----
-
-### Modi is coming in August
-
-*2024-06-10 14:39:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்டில்-மோடி-வருகிறார்/175-338703) · `ta`
-
-Narendra Modi, India's PM, will visit Sri Lanka in August at the invitation of President Ranil Wickremesinghe. The visit was confirmed after discussions between Wickremesinghe and Indian Foreign Minister S. Jaishankar.
-
-🟩
-
-Indian Prime Minister Narendra Modi will visit Sri Lanka in August this year, President's Office officials told reporters.
-
-President Ranil Wickremesinghe, who attended the swearing -in ceremony of Prime Minister Modi, met Modi on Sunday at Rashtrapati Bhavan and invited Modi to come to Sri Lanka.
-
-Wickremesinghe held a discussion with Indian Foreign Minister S. Jaishankar on Monday (10) in New Delhi on the visit of Prime Minister Modi.
-
-Both the President and the Indian Foreign Minister discussed the visit of the Indian President, and it was revealed that the visit would take place in August this year.. Jaishankar has assured President Wickremesinghe that he will soon visit Sri Lanka and investigate the Indian Prime Minister's visit.
-
-◼️
-
-[Data](articles/9f05e952.json)
-
-[Extended Data](ext_articles/9f05e952.ext.json)
-
----
-
-### Sri Lanka, India reaffirm commitment to strengthening ties
-
-*2024-06-10 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-reaffirm-commitment-to-strengthening-ties-167200/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and Narendra Modi, who was sworn in for a third consecutive term as Prime Minister of India, have reaffirmed their commitment to maintaining strong Indo-Sri Lankan relations.
-
-Wickremesinghe attended the swearing-in ceremony in New Delhi yesterday (9) on the invitation of Modi.
-
-The ceremony was attended by regional leaders Bangladesh Prime Minister Sheikh Hasina, Nepal Prime Minister Pushpa Kamal Dahal, Maldives President Mohamed Muizzu, Seychelles Vice President Ahmed Afif, Mauritius Prime Minister Pravind Jugnauth, and Bhutan Prime Minister Tshering Tobgay.
-
-Modi posed for a group photo with Wickremesinghe next to him.
-
-“Sri Lanka is an important partner in our Neighbourhood First policy. India is proud to be a dependable partner for Sri Lanka. I look forward to realising our joint vision of enhancing connectivity in all its dimensions,” Modi said on social media platform X (twitter).
-
-...
-
-[Data](articles/90f53e0e.json)
-
-[Extended Data](ext_articles/90f53e0e.ext.json)
-
----
-
-### Yall. Smart Classroom Smart Classrooms Handing over to St. Charles Maha Vidyalaya by Sajith Premadasa
-
-*2024-06-10 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185741) · `ta`
-
-Opposition Leader Sajith Premadasa visited St. Charles Maha Vidyalaya, inaugurating a smart classroom equipped with computers, printers, and a Smart Board. The event, themed "Sakwasa," aimed to enhance digital literacy among students for a prosperous future. Premadasa promised daily English lessons and gifted dictionaries, while acknowledging the school's need for more Buddhist resources.
-
-🟩
-
-The visit of Opposition Leader Sajith Premadasa on Sunday (09) was held at the Sen Charles Maha Vidyalaya under the theme "Sakwasa", under the theme "Smart Computer Use of the Smart Computer Use of the country's younger generation for the prosperous digital future of the modern world."
-
-Opposition leader Sajith Premadasa, United People's Power Media Spokesperson Uma Chandra Prakash and many teachers and students were present at the event.
-
-5 computers, 1 printer, Smart Board were also issued and the new smart classroom was opened and officially handed over yesterday.
-
-It was followed by Sajith Premadasa, followed by the Mangala lighting, followed by a welcome dance by schoolchildren and the school student was delivered by the school student.. The speech was continued by school principal Lenin Kumar.
-
-Continuing the speech by Kripakaran and the school principal was honored by Sajith Premadasa.
-
-...
-
-[Data](articles/7eb363fb.json)
-
-[Extended Data](ext_articles/7eb363fb.ext.json)
-
----
-
-### Modi likely to visit Sri Lanka in August
-
-*2024-06-10 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-likely-to-visit-Sri-Lanka-in-August/108-284514) · `en`
-
-June 10 (Daily Mirror) - Indian Prime Minister Narendra Modi is likely to visit Sri Lanka in August this year, officials from the President's office told journalists here.
-
-President Ranil Wickremesinghe who attended the swearing-in ceremony of Prime Minister Modi had invited the latter to visit Sri Lanka when the duo met on Sunday at Rasthrapati Bhavan.
-
-Wickremesinghe had discussed the visit of Prime Minister Modi with Indian External Affairs Minister S. Jaishankar in Delhi on Monday. Both the President and the Indian External Affairs Minister discussed the visit of the Indian Leader during which it was revealed that the visit is likely to take place in August this year. Jaishankar had assured President Wickremesinghe that he would visit Sri Lanka soon and look into the Indian Prime Minister's visit.
-
-◼️
-
-[Data](articles/bc4025d7.json)
-
-[Extended Data](ext_articles/bc4025d7.ext.json)
 
 ---

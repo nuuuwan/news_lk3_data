@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 07:25:25**
+As of **2024-06-10 07:47:39**
 
 ## Newspaper Stats
 
-*Scraped **29,467** Articles*
+*Scraped **29,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,600
 economynextcom | 1,678
 dailyftlk | 1,768
 adalk | 2,513
-adaderanalk | 3,335
-tamilmirrorlk | 3,450
+adaderanalk | 3,337
+tamilmirrorlk | 3,451
 virakesarilk | 4,519
 dailymirrorlk | 4,672
 adaderanasinhalalk | 4,740
@@ -26,27 +26,69 @@ adaderanasinhalalk | 4,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,466 (100.0%) of 29,467 articles have been extended.
+29,467 (100.0%) of 29,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### ඉන්දියාවට තියුණු ජයක්
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-10 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99770/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Nuwara Eliya district.
+
+Showers or thundershowers may occur at a few places in Uva province in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/40c06239.json)
+
+---
+
+### President Ranil attends Modi’s swearing-in ceremony
+
+*2024-06-10 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99769/president-ranil-attends-modis-swearing-in-ceremony) · `en`
+
+Sri Lanka President Ranil Wickremesinghe joined the swearing-in ceremony of Indian Prime Minister Shri Narendra Modi, held on Sunday evening (09) at the Rashtrapati Bhavan, New Delhi.
+
+The swearing-in ceremony was also attended by other leaders from the neighbourhood including Bangladesh Prime Minister Sheikh Hasina, Bhutan Prime Minister Tshering Tobgay, Nepal Prime Minister Pushpa Kamal Dahal, Mauritius Prime Minister Pravind Kumar Jugnauth, Seychelles Vice-President Ahmed Afif, and Maldives President Mohamed Muizzu, whose inclusion as an invitee surprised diplomatic circles in view of the currently strained ties between New Delhi and Male.
+
+President Wickremesinghe arrived in India this morning (09) via Indira Gandhi Airport to attend the swearing-in ceremony of Narendra Modi, who has been elected as the Prime Minister of India for the third consecutive term.
+
+...
+
+[Data](articles/7d738589.json)
+
+---
+
+### India beat India
 
 *2024-06-10 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197581) · `si`
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ පාකිස්තානය අතර පැවති තරගයෙන් ඉන්දියානු කණ්ඩායම ලකුණු 6ක තියුණු ජයක් හිමි කරගත්තේය.
+In a cricket match, India defeated Pakistan by 6 runs. Batting first after losing the toss, India made 119 runs in 19 overs. Pakistan, chasing 120, could only manage 113 runs in 20 overs, leading to India's victory.
 
-තරගයේ කාසියේ වාසිය දිනු පාකිස්තාන කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීමට ඉන්දියාවට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පන්දු වාර 19ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 119ක් රැස්කළේය.
+The Indian team won the match between Pakistan and six runs.
 
-ලකුණු 120ක ඉලක්කයක් හඹාගිය පාකිස්තාන කණ්ඩායමට පන්දු වාර 20 අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 113ක් පමණි.
+The Leader of the Pakistan, winning the coin, invited India to bat first.
+
+Accordingly, India scored 119 runs for the loss of 19 overs.
+
+Chasing a target of 120, Pakistan won only 113 runs in the end of 20 overs.
 
 ◼️
 
 [Data](articles/95efd0d9.json)
+
+[Extended Data](ext_articles/95efd0d9.ext.json)
 
 ---
 
@@ -609,6 +651,18 @@ Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mah
 [Data](articles/9045c727.json)
 
 [Extended Data](ext_articles/9045c727.ext.json)
+
+---
+
+### போதைமாத்திரைகளுடன் நால்வர் கைது
+
+*2024-06-10 00:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைமாத்திரைகளுடன்-நால்வர்-கைது/175-338671) · `ta`
+
+ஆனைக்கோட்டையைச் சேர்ந்த நால்வரே யாழ் மாவட்ட விசேட குற்றதடுப்பு பிரிவினர் நேற்று மாலை கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/d9899189.json)
 
 ---
 
@@ -2165,63 +2219,5 @@ According to the budget proposals adopted for 2024, parliamentary approval has b
 [Data](articles/0468670e.json)
 
 [Extended Data](ext_articles/0468670e.ext.json)
-
----
-
-### Sri Lanka President, South Asia leaders at Indian PM’s swearing in
-
-*2024-06-09 13:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-south-asia-leaders-at-indian-pms-swearing-in-167072/) · `en`
-
-ECONOMYNEXT – South Asian leaders including Sri Lanka’s president, Ranil Wickremesinghe, will visit India for the Narendra Modi’s swearing in ceremony held on the 9 th of June, the Indian High Commission said.
-
-President of Maldives, Mohamed Muizzu; Vice-President of Seychelles, Ahmed Afif; Prime Minister of Bangladesh, Sheikh Hasina; Prime Minister of Mauritius, Pravind Kumar Jugnauth, Prime Minister of Nepal, Pushpa Kamal Dahal ‘Prachanda’; and Prime Minister of Bhutan, Tshering Tobgay, have accepted the invitation to attend.
-
-After the swearing-in ceremony, the leaders will attend a Banquet hosted by President Droupadi Murmu at Rashtrapati Bhavan, the same evening.
-
-Prime Minister Modi won a third consecutive term as prime minister of India, though with a diminished majority.
-
-◼️
-
-[Data](articles/96c4d90e.json)
-
-[Extended Data](ext_articles/96c4d90e.ext.json)
-
----
-
-### 2025 Interim Account
-
-*2024-06-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197558) · `si`
-
-In 2025, no new budget will be presented; instead, an interim account will cover initial expenditures, set to start in March. This decision comes amid election years, with national elections planned for the year's end.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that a new budget will not be presented for the year 2025 and an interim account will be expenditure on the first few months of that year.
-
-It is reported that the interim standard is scheduled to be implemented in March 2025.
-
-According to the election calendar, it is reported that the year is being elected years and is scheduled to hold a national election at the end of the year.
-
-According to government Minister Ranjith Siyambalapitiya, he added that the new budget will not be presented in the year 2025 this year.
-
-◼️
-
-[Data](articles/a61aa5be.json)
-
-[Extended Data](ext_articles/a61aa5be.ext.json)
-
----
-
-### President arrives in India for Modi’s swearing-in
-
-*2024-06-09 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-arrives-in-India-for-Modis-swearing-in/110-284424) · `en`
-
-President Ranil Wickremesinghe arrived in India today to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi, who will begin his third term this evening. Mr. Wickremesinghe was welcomed at Indira Gandhi International Airport, New Delhi, by Secretary of the Indian Foreign Ministry P. Kumaran, Indian Ocean Affairs Secretary Puneet Agrawal, Indian High Commissioner in Colombo Santhosh Jha, and Sri Lankan High Commissioner in India Shenuka Seneviratne. Traditional Indian dancers performed at the airport as part of the welcoming ceremony. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/f4753fa7.json)
-
-[Extended Data](ext_articles/f4753fa7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 11:54:23**
+As of **2024-06-10 12:07:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,508 (100.0%) of 29,512 articles have been extended.
+29,512 (100.0%) of 29,512 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ The President’s Media Division confirmed the meeting, which highlights the ong
 ◼️
 
 [Data](articles/b6afb45d.json)
+
+[Extended Data](ext_articles/b6afb45d.ext.json)
 
 ---
 
@@ -520,6 +522,8 @@ Macron himself wasn’t a candidate in the EU elections and his term as presiden
 
 [Data](articles/c0acc875.json)
 
+[Extended Data](ext_articles/c0acc875.ext.json)
+
 ---
 
 ### World interest grows in nuke power generation in Sri Lanka
@@ -859,6 +863,8 @@ Further the record number of departures for foreign employment also helped Sri L
 ...
 
 [Data](articles/a496c741.json)
+
+[Extended Data](ext_articles/a496c741.ext.json)
 
 ---
 
@@ -1906,19 +1912,27 @@ This is the third general election that the National Democratic Alliance continu
 
 ---
 
-### දුම්රිය රියදුරන් 186කගේ හිඟයක්
+### There is a shortage of 186 train drivers
 
 *2024-06-09 20:18:05* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්-186කගේ-හිඟයක්/11-410109) · `si`
 
-වර්තමානය වන විට දුම්රිය රියදුරන් 186 දෙනෙකුගේ පුරප්පාඩු තිබෙන බවත්, දුම්රිය රියදුරන් 2017 වසරේ සිට බඳවා ගෙන නොමැති බවත් රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී (කෝපා) අනාවරණය විය.
+A shortage of 186 train drivers has led to vacancies since 2017, affecting the efficiency of the railway system. Efforts to address this through internal promotions and recruitment have been hindered due to limited approvals and bureaucratic delays. The situation raises concerns about the operational capacity and future sustainability of the railway department.
 
-ඒ අනුව දුම්රිය දෙපාර්තමේන්තුවේ පුරප්පාඩු සඳහා අභ්‍යන්තර උසස්වීම් ක්‍රියාවලිය වේගවත් කරන ලෙස කෝපා සභාපතිවරයා වෙනුවට මුලසුන දැරූ පාර්ලිමේන්තු මන්ත්‍රී වීරසුමන වීරසිංහ මහතා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් කෝපා කමිටුව හමුවට කැඳවූ අවස්ථාවේදී මෙම උපදෙස් ලබා දුන්නේය.
+🟩
 
-මෙම අවස්ථාවේදී කෝපා සභාපති ලසන්ත අලගියවන්න මහතා ප්‍රවාහන රාජ්‍ය අමාත්‍යවරයා වීම හේතුවෙන් වැඩකටයුතු කර ගෙන යෑමට වීරසුමන වීරසංහ මන්ත්‍රීවරයාට මුලසුන ලබා දී කමිටුවෙන් පිටත්ව ගියේය.
+There are currently vacancies of 186 train drivers and that train drivers had not recruited from 2017 and was revealed at the Committee on Public Accounts (Kapa).
+
+He presided over the Korethuman Weerasinghe who presided over the Kopyma Chair to speed up the internal promotions of the Railway Vacancies.
+
+At this point, Kotha Alagiyawanna, the Minister of Transport Lasantha Alagiyawanna, was chaired by the Vidyakara and left the committee to carry out the Transport Minister.
+
+Committee member MP Dr. Weli Amarasuriya - staff approved 21,604. There are vacancies 6,223. Most of these vacancies have the required positions. The secondary level, third level and senior level is the. But there are excess primary, casual and contracts. How does this staff run a company running?
 
 ...
 
 [Data](articles/f3e9859e.json)
+
+[Extended Data](ext_articles/f3e9859e.ext.json)
 
 ---
 

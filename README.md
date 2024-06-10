@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 10:34:36**
+As of **2024-06-10 10:52:56**
 
 ## Newspaper Stats
 
-*Scraped **29,494** Articles*
+*Scraped **29,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,600
 economynextcom | 1,681
 dailyftlk | 1,768
 adalk | 2,515
-adaderanalk | 3,339
+adaderanalk | 3,343
 tamilmirrorlk | 3,456
 virakesarilk | 4,519
 dailymirrorlk | 4,677
-adaderanasinhalalk | 4,746
+adaderanasinhalalk | 4,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,493 (100.0%) of 29,494 articles have been extended.
+29,494 (100.0%) of 29,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### ඊශ්‍රායල රජය සෙලවෙයි
+
+*2024-06-10 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197591) · `si`
+
+එසේ ඉල්ලා අස්වී ඇත්තේ ඊශ්‍රායල යුද කැබිනෙට්ටුවේ ප්‍රබලයෙක් ලෙස සැලකෙන බෙනි ග්‍රාන්ට්ස් ය.
+
+විශේෂයෙන් යුද්ධයෙන් අනතුරුව ගාසා තීරය සඳහා ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු විසින් පැහැදිලි ක්‍රමවේදයක් ඉදිරිපත් කර නොමැතිවීම හේතුවෙන් මතුවී ඇති අර්බුදය හේතුවෙන් ඔහු රජයෙන් ඉවත්වී ඇති බව සඳහන් වෙයි.
+
+ඊයේ (09) ටෙල් අවීව් නගරයේදී මාධ්‍ය අමතමින් ඔහු පැවසුවේ තමා මෙම තීරණය ට එළඹුණේ දැඩි පසුතැවිල්ල හේතුවෙන් බවයි.
+
+◼️
+
+[Data](articles/4d444462.json)
+
+---
+
+### ජනපති හා බංග්ලාදේශ අගමැතිනිය අතර හමුවක්
+
+*2024-06-10 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197589) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර ඉන්දියාවේ නවදිල්ලි නුවර දී බංග්ලාදේශ අග්‍රාමාත්‍ය ෂෙයික් හසීනා මහත්මිය හමුවූ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ දිවුරුම් දීමේ උත්සවයට සහභාගී වීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය සෙනසුරාදා (08) දිනයේ මෙරටින් පිටත්ව ගියේය.
+
+එම සංචාරයේ අතරතුර දී අද (10) දිනයේ මෙම හමුව සිදු වූ බව ජනාධිපති මාධ්‍ය අංශය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f426e9b3.json)
+
+---
+
+### Gunmen attack Hindu pilgrim bus in India’s Kashmir, nine killed
+
+*2024-06-10 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99776/gunmen-attack-hindu-pilgrim-bus-in-indias-kashmir-nine-killed) · `en`
+
+Gunmen ambushed a bus carrying Hindu pilgrims in Indian-administered Kashmir, which then tumbled into a ravine killing at least nine people, police said Sunday.
+
+The attack came around an hour before Hindu-nationalist Prime Minister Narendra Modi was sworn in for a third term on Sunday evening in the capital New Delhi.
+
+“Initial reports suggest that militants were waiting there in an ambush and they fired on the bus,” police officer Mohita Sharma told AFP.
+
+“The driver lost control and fell into the deep gorge. Nine people died and 23 were injured.”
+
+The crash happened near Reasi town, in the south of the disputed territory, as the bus was returning from a popular Hindu shrine in the area.
+
+Opposition Congress party president Mallikarjun Kharge condemned the “gruesome terror attack” in a post on social media platform X.
+
+Modi’s “chest-thumping propaganda of bringing peace and normalcy... rings hollow”, he said.
+
+◼️
+
+[Data](articles/6b4a14b7.json)
+
+---
+
+### Unidentified body found on beach in Wadduwa; Murder suspected
+
+*2024-06-10 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99775/unidentified-body-found-on-beach-in-wadduwa-murder-suspected) · `en`
+
+Wadduwa Police says that the body of an unidentified person who is suspected to have been murdered has been discovered on the Pohaddaramulla Beach in Wadduwa.
+
+The deceased was found with his face tied up covered with his own T-shirt while the identity of the person has not yet been ascertained.
+
+Police describe the deceased to be a male, aged between 40 and 45, wearing blue denim pants and a white undershirt.
+
+Panadura Division Scene of Crime Officers (SOCO) are scheduled to visit the location where the body was found for further examination.
+
+◼️
+
+[Data](articles/14032dd1.json)
+
+---
 
 ### Sri Lanka’s CAL enhances digital platform for stocks, Treasuries, unit trusts
 
@@ -42,7 +116,7 @@ The CAL group has divisions involved stockbroking, Treasuries as a primary deale
 
 CAL says it has built a lightweight mobile platform to complement its web service by developing the CalOnline 2.0 version.
 
-“We have spent a lot of time on boarding less troublesome, less intimidating and less troublesome,” Tharindra Kulasinghe, CAL’s Chief Information Officer said.
+“We have spent a lot of time making on-boarding less intimidating, less troublesome and less painful,” Tharindra Kulasinghe, CAL’s Chief Information Officer said.
 
 About 40,000 investors who have transacted on the platform around the country, he says.
 
@@ -89,6 +163,44 @@ The strike began at midnight on Thursday, June 6 in protest of delays in second-
 ◼️
 
 [Data](articles/0910486e.json)
+
+[Extended Data](ext_articles/0910486e.ext.json)
+
+---
+
+### Infant dies after wall collapses in Omanthai
+
+*2024-06-10 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99774/infant-dies-after-wall-collapses-in-omanthai) · `en`
+
+A two-month-old baby has reportedly died after part of a wall in the living room of a house collapsed in Sinnakulam, Omanthai.
+
+The incident had reportedly taken place last evening (09), according to police.
+
+Omanthai Police are currently conducting further investigations regarding the accident.
+
+◼️
+
+[Data](articles/5ef40e5b.json)
+
+---
+
+### Shop owner dies from gunshot wounds in Ranna
+
+*2024-06-10 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99773/shop-owner-dies-from-gunshot-wounds-in-ranna) · `en`
+
+The owner of a hardware store on Hungama-Tissa Road in Ranna has reportedly died due to gunshot wounds.
+
+Police report that the incident has taken place last night (09).
+
+The deceased is a 51-year-old businessman from the same area who owns a hardware store.
+
+At this stage, it is still unclear whether the incident was a homicide or a suicide, police said.
+
+Hungama Police are conducting further investigations to determine the circumstances surrounding the shooting.
+
+◼️
+
+[Data](articles/64ec0ab7.json)
 
 ---
 
@@ -1110,7 +1222,7 @@ CSE partners with SLIM to promote capital market education among students
 
 Kumaratunga’s campaign was plagued by setbacks which prompted Wickremesinghe to challenge Kumaratunga for a Presidential debate
 
-Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mahinda-Ranil 2005: That never was,’ let us revisit the ‘Ranil-Chandrika 1999’ debate. The lead up to the 1999 Presidential Election was marked by significant political turmoil and dramatic events.
+Following the articles ‘Sajith-Anura debate, that never happened’ and ‘Mahinda-Ranil 2005: That never was,’ let us revisit the ‘Ranil-Chandrika 1999’ debate. The lead up to the 1999 Presidential Election was marked by significant political turmoil and dramatic events.
 
 ...
 
@@ -2055,165 +2167,5 @@ The woman was later arrested by police based on the complaint.
 [Data](articles/bde48490.json)
 
 [Extended Data](ext_articles/bde48490.ext.json)
-
----
-
-### Modi is sworn in to commence a special chapter of world politics
-
-*2024-06-09 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197568) · `si`
-
-Narendra Modi, sworn in as India's Prime Minister, marks a pivotal moment in global politics. His victory in the Indian general election, leading the National Democratic Alliance, secures him 293 out of 543 parliamentary seats. This achievement makes him the second Indian Prime Minister to gain a majority, following Jawaharlal Nehru. Modi's inauguration ceremony includes visits to national monuments, symbolizing a new era in Indian leadership.
-
-🟩
-
-The festival of Narendra Modi, who was appointed as the Prime Minister of the Prime Minister of Asian and World politics, is currently conducting the Indian Prime Minister in New Delhi capital.
-
-President Ranil Wickremesinghe and other regional leaders of the region participated in the Executive Festival.
-
-The official outcome of the Indian general election of 7th April to 1st June, the official results of 7 phases were released on June.
-
-The National Democratic Alliance led by the National Democratic Alliance led by India Narendra Modhi Party to win this election elections.
-
-Of the 54th seminar seats in the Indian parliament, 293 of the 543 seats.
-
-This victory is especially significant because of the second Prime Minister of India to win a mandate to the post of Prime Minister.
-
-Only Javahertharal Nehru, the first Prime Minister of Individuals, has been held in the Indian Prime Minister.
-
-...
-
-[Data](articles/955ee816.json)
-
-[Extended Data](ext_articles/955ee816.ext.json)
-
----
-
-### Another accident on the catery crossing of the shepherd
-
-*2024-06-09 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197567) · `si`
-
-In a tragic incident, a three-wheeler crashed into a train at the Shepherd crossroads, injuring its driver who was hospitalized in Ragama. Additionally, two fatalities occurred when another accident involving two trains happened nearby the previous day.
-
-🟩
-
-A three-wheeler collided with a train on the shepherd cross-cross-crosserway.
-
-The driver injured in the accident have been admitted to the Ragama Teaching Hospital.
-
-At the same place, two others killed in an accident that took place in two trains yesterday (08).
-
-◼️
-
-[Data](articles/dff1bef7.json)
-
-[Extended Data](ext_articles/dff1bef7.ext.json)
-
----
-
-### Millionaire deceit Rs.
-
-*2024-06-09 18:33:09* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපති-ව්‍යාපාරිකයෙකුගෙන්-ලක්ෂ-1500ක්-වංචා-කළ-වංචාකාරියක්-අල්ලයි/11-410102) · `si`
-
-A 54-year-old woman was arrested for a massive fraud involving a millionaire businessman in Sri Lanka's Southern Province. The suspect, who had previous legal issues, allegedly deceived the businessman through false promises. Authorities found a luxury car, four smartphones, and two laptops during the arrest. The investigation, led by the Inspector General of Police, revealed significant financial irregularities linked to the Colombo Chief Magistrate's Court.
-
-🟩
-
-The Colombo Crimes Division (CCC) says that a 54-year-old woman was arrested by a large scale fraud, who had been cheated without providing a millionaire businessman in the Southern Province.
-
-The suspect had previously appeared as a magisterial and had been charged with attempts to obtain more than Rs.
-
-Police have also seized a healthy car, four smoky mobile phones and two laff toff computers.
-
-The businessman made the businessman when he came to a friend from the Supreme Court case at the Supreme Court case at the Supreme Court case.
-
-The woman is a few of the vehicles and rescued the woman to release the lands in the Customs and several persons who have been released to the customs in the Colombo area.In April 2023, the businessman added that a sum of Rs.
-
-The businessman added that he had not received any information regarding the woman and that she was hidden and he was hidden without paying her money.
-
-...
-
-[Data](articles/8c16b2e0.json)
-
-[Extended Data](ext_articles/8c16b2e0.ext.json)
-
----
-
-### 44,430 of import limits to the market
-
-*2024-06-09 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197566) · `si`
-
-During a discussion with local traffic manufacturers, State Minister Dr. Ranjith Siyambalapitiya announced that 44,430 vehicles, including 38,144 motorcycles and 6,286 cars, have been released to the market. Manufacturers emphasized focusing on local assembly post-import restrictions removal, noting vehicle production as a long-term process. The minister assured support for local businesses' growth.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that 44,430 traffic vehicles have been released to the market during the importation period.
-
-The Minister was addressing a discussion with local traffic manufacturers.
-
-Meanwhile, 38,144 motorcycles and 6,286 cars are 6,286 cars.
-
-There were deeply discussed in providing authorization for vehicles imports.
-
-In this meeting, local traffic manufacturers have shown to focus on their local assembly businesses when removing the import restrictions.
-
-They said that the imposition of these imports for automobile production in Sri Lanka, they have said that the commencement of vehicle production is a long term process.
-
-However, Minister Siyambalapitiya stated that the government is constantly supporting the strengthening of local businesses.
-
-◼️
-
-[Data](articles/d0fbbdf6.json)
-
-[Extended Data](ext_articles/d0fbbdf6.ext.json)
-
----
-
-### 400 additional buses to Pozon
-
-*2024-06-09 18:03:13* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-කාලයට-අපුරට-අතිරේක-බස්-400ක්/11-410101) · `si`
-
-To accommodate the influx of visitors during the Anuradhapura Poson Festival, the Sri Lanka Transport Board plans to add 400 buses to its service, covering routes to Mihintale, Tantirimale, and Anuradhapura. This move aims to alleviate travel inconveniences due to railway repairs between Mahawa and Anuradhapura. Additionally, the board is exploring cost-saving measures, including auctioning bus usage rights and purchasing 1,000 new buses, as approved by the cabinet.
-
-🟩
-
-The Chairman of the Sri Lanka Transport Board Lalith Alwis said that an additional bus service will be implemented to the Anuradhapura Poson Festival in the Historic Mihintale, Tantirimale and Anuradhapura sacred city.
-
-The Chairman was speaking at a discussion held at the CTB Regional Office in Anuradhapura yesterday (8).
-
-The President said that a special bus service has been implemented to the bus service that has been used to prevent the inconvenience caused by the Indian to Anuradhapura to Anuradhapura due to the repair of the railway line from Mahawa to Anuradhapura.
-
-Accordingly, the Festival of Posson will be deployed in Gampaha and Colombo Regions, he added.
-
-The faculties held under the private sector to reduce the administrative and operating expenses of the Sri Lanka Transport Board are acting in other activities.The Chairman said that the cabinet has approved the auction of the bus usage and to buy 1000 new buses on the instructions of the bus transport.
-
-...
-
-[Data](articles/a6bbf6c0.json)
-
-[Extended Data](ext_articles/a6bbf6c0.ext.json)
-
----
-
-### It is unjust that the results of Zahira College students have not only published;The President has the power to dissolve parliament - Risad Bathiudeen
-
-*2024-06-09 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185680) · `ta`
-
-Risad Bathiudeen criticized the delay in publishing Zahira College students' results, calling it unjust. He mentioned the President's power to dissolve parliament within 112 days and hold elections. Bathiudeen highlighted the unfair treatment of Zahira College students compared to others, emphasizing the college's achievements in medical and engineering fields over the past decade. He promised to seek justice both in Parliament and outside the courts.
-
-🟩
-
-All Ceylon People's Congress President and Member of Parliament, Risad Bathiudeen, said that according to the Constitutional Association, the new president should sit on the new president in 112 days and the president has the power to dissolve parliament and hold elections.
-
-He also said that it was unjust that the students of Zahira College, Trincomalee were not released.
-
-Risad Bathiudeen, who visited the Zahira College in Trincomalee today (09), discussed with the school's principal, school development association members and parents on the issue of not being released.
-
-In the same hall who wrote the Sahira College students, ten Muslim students of the other school were wearing the same dress.. The results of them were released. But it is unjust to take such activities with only the students of Zahira College.
-
-...
-
-[Data](articles/4f59ef8b.json)
-
-[Extended Data](ext_articles/4f59ef8b.ext.json)
 
 ---

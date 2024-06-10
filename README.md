@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 16:35:37**
+As of **2024-06-10 16:51:41**
 
 ## Newspaper Stats
 
-*Scraped **29,574** Articles*
+*Scraped **29,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,768
 adalk | 2,528
 adaderanalk | 3,350
 tamilmirrorlk | 3,464
-virakesarilk | 4,533
+virakesarilk | 4,538
 dailymirrorlk | 4,689
 adaderanasinhalalk | 4,761
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 4,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,573 (100.0%) of 29,574 articles have been extended.
+29,574 (100.0%) of 29,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### குருதியில் ஓவியம் வரையும் பிரபாகரன் என்கிற தாமோதரன்
+
+*2024-06-10 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185762) · `ta`
+
+தயாரிப்பாளர் மதியழகன் கதையின் நாயகனாக அறிமுகமாகும் திரைப்படத்திற்கு 'பிதா' (பிரபாகரன் என்கிற தாமோதரன்) என பெயரிடப்பட்டு,  அதற்கான அறிமுக விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன்போது தமிழ் திரைப்படத் துறையிலிருந்து மட்டுமல்லாமல் அரசியல் துறையிலிருந்தும் ஏராளமான பிரபலங்கள் அதிதிகளாக பங்கு பற்றி சிறப்பித்தனர்.
+
+படத்தின் தயாரிப்பாளரும் நடிகருமான மதியழகன் பேசுகையில், '' இந்த திரைப்படத்தில் ஈழம் பற்றியும், மேதகு பிரபாகரனை பற்றியும் விடயங்கள் பயன்படுத்தப்பட்டிருக்கிறது. இவை வணிக நோக்கத்திற்காகவோ அல்லது பரபரப்பிற்காகவோ பயன்படுத்தவில்லை. மேலும் அவர்களை எந்த விதத்திலும் அவமதிக்கவில்லை. மிகவும் உண்மையாகவும், உன்னதமாகவும் இந்த படைப்பை உருவாக்கி இருக்கிறோம். இதுவரை இல்லாத வகையில் வித்தியாசமான படைப்பாக இந்த திரைப்படம் இருக்கும் ''என்றார்.
+
+இப்படத்திற்காக வெளியிடப்பட்ட அறிமுக காணொளியில் கதையின் நாயகனான மதியழகன் குருதியை அதுவும் மனித குருதியில் ஓவியம் வரைவது போன்ற காட்சிகள் இடம் பெற்றிருப்பதால் ரசிகர்களிடத்தில் பெரும் எதிர்பார்ப்பை ஏற்படுத்தி இருக்கிறது.
+
+...
+
+[Data](articles/f17c48d6.json)
+
+---
+
+### தமிழகம் உள்ளிட்ட ஆறு இந்திய மாநிலங்களுக்கான சட்டப்பேரவைக்கு இடைத்தேர்தல் அறிவிப்பு
+
+*2024-06-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185761) · `ta`
+
+தமிழகத்தில் உள்ள விக்கிரவாண்டி எனும் தொகுதிக்கு இடைத்தேர்தல் நடத்தப்படும் என இந்திய தேர்தல் ஆணையம் அதிகாரப்பூர்வமாக அறிவித்துள்ளது.
+
+விக்கிரவாண்டி சட்டப்பேரவை உறுப்பினராக பணியாற்றிய திமுகவைச் சேர்ந்த என். புகழேந்தி உயிரிழந்ததை தொடர்ந்து, அந்த தொகுதி காலியானதாக அறிவிக்கப்பட்டது. காலியான அந்தத் தொகுதிக்கு எதிர்வரும் ஜூலை மாதம் பத்தாம் திகதியன்று இடைத்தேர்தல் நடத்தப்படும் என்று இந்திய தேர்தல் ஆணையம் அறிவித்துள்ளது.
+
+தமிழகம் மட்டுமல்லாமல் பீகார்(1), மேற்கு வங்காளம் (4), மத்திய பிரதேசம் (1) ,உத்தரகாண்ட்( 2), பஞ்சாப் (1), இமாச்சல் பிரதேசம்(3) ஆகிய மாநிலங்களில் காலியாக இருக்கும் மொத்தம் பதிமூன்று சட்டப்பேரவை தொகுதிகளுக்கும் ஜூலை 10 ஆம் திகதியன்று வாக்குப்பதிவு நடைபெறும் என்றும், பதிவான வாக்குகள் ஜூலை 13-ஆம் திகதியன்று எண்ணப்பட்டு முடிவுகள் அறிவிக்கப்படும் என்றும் தேர்தல் ஆணையம் அறிவித்துள்ளது. மேலும் அந்த அறிவிப்பில் இடைத்தேர்தலுக்கான வேட்பு மனுதாக்கல் ஜூன் 14-ஆம் திகதியன்று தொடங்கும் என்றும் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8c65aa10.json)
+
+---
+
+### தட மாற்றமும், தடுமாற்றமும் புதிராக கொண்ட 'மகாராஜா'
+
+*2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185758) · `ta`
+
+''மகாராஜா திரைப்படம் ரசிகர்களுக்கு பதறச் செய்யும் தட மாற்றத்தையும், தடு மாற்றத்தையும் ஏற்படுத்தும் புதிர் நிறைந்த படைப்பு'' என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி இருக்கும் 'மகாராஜா' எனும் திரைப்படத்தில் விஜய் சேதுபதி, மம்தா மோகன் தாஸ், அபிராமி, அனுராக் காஷ்யப், நட்டி என்கிற நட்ராஜ், 'இயக்குநர் இமயம்' பாரதிராஜா, சிங்கம் புலி, அருள்தாஸ், முனீஸ்காந்த், வினோத் சாகர், கல்கி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தினேஷ் புருஷோத்தமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பி. அஜனீஸ் லோகநாத் இசையமைத்திருக்கிறார்.‌ சஸ்பென்ஸ் திரில்லர் வகையிலான இந்தத் திரைப்படத்தை பெசன் ஸ்டுடியோஸ் மற்றும் தி ரூட் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம் மற்றும் ஜெகதீஷ் பழனிச்சாமி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+ஜூன் 14-ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம் ஆகிய மொழிகளில்  வெளியாகும் இந்தப் படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையின் நடைபெற்றது. இதன் போது பட குழுவினர் பங்குபற்றினர்.
+
+...
+
+[Data](articles/8cc3a5ac.json)
+
+---
+
+### அவுஸ்திரேலியாவில் சதையை உண்ணும் கிருமியின் தாக்கத்தால் கையை இழந்த இலங்கை பெண் !
+
+*2024-06-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185755) · `ta`
+
+அவுஸ்திரேலியாவில் மெல்பேர்ண் நகருக்கு தனது குடும்பத்தாரை பார்க்கச் சென்ற இலங்கையைச் சேர்ந்த வயோதிப பெண் ஒருவர் சதையை உண்ணும் அரியவகை கிருமியின் தாக்கத்திற்கு பாதிக்கப்பட்டு அவரது கையை இழந்துள்ளதாக அவுஸ்திரரேலிய ஊடகங்கள் தெரிவித்துள்ளன.
+
+74 வயதான கார்மெல் ரோட்ரிகோ என்ற வயோதிப பெண் இவ் வருட ஆரம்பத்தில் அவுஸ்திரேலியாவின் மெல்பேர்ணிலுள்ள மகளை பார்ப்பதற்குச் சென்றுள்ளார்.
+
+இந்த வயோதிப பெண்  அங்கு பல மாதங்கள் மகளுடன் தங்கியிருந்த நிலையில், கடந்த மாதம் அவருக்கு இடது கையில் துப்பாக்கியால் சுடப்பட்டது போல்  வலி ஏற்பட்டுள்ளது. அவர் வலியால் கத்தியுள்ளார். அவர் கை முழுவதும் வீங்கி, சற்று நீல நிறமாக மாறியுள்ளது.
+
+உடனடியாக வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார். பின்னர் வயோதிப பெண் "கொடிய" புருலி அல்சர் (Buruli ulcer) நோயால் பாதிக்கப்பட்டுள்ளதாக கண்டறியப்பட்டுள்ளது. இது பொதுவாக அரியவகை "சதை உண்ணும்"நோய் என்று குறிப்பிடப்படுகிறது. இது ஒரு  கிருமித் தொற்று ஆகும்.
+
+நோயை கட்டுப்படுத்த வைத்தியர்கள் வயோதிப பெண்ணின் இடது கையை அறுவை சிகிச்சை மூலம் அகற்றியுள்ளனர்.
+
+...
+
+[Data](articles/71a4574e.json)
+
+---
+
+### நாளை முதல் சகல ரயில் சேவைகளும் வழமைக்கு !
+
+*2024-06-10 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185756) · `ta`
+
+ரயில் சாரதிகள் சங்கத்தின் பணிப்புறக்கணிப்பு போராட்டம் நிறைவு பெற்றுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்நிலையில், நாளை செவ்வாய்க்கிழமை (11) காலை முதல் சகல ரயில் சேவைகளும் வழமை போல் இடம்பெறுமென ரயில்  திணைக்களம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/09c4bf39.json)
+
+---
 
 ### A woman dies after falling bridge
 
@@ -888,21 +970,27 @@ The US dollar sales price was Rs 297.9364 and the purchase price was Rs 307.5273
 
 ---
 
-### ගොඩකවෙල හා වැලිගෙපොල නව මහවැලි කොට්ඨාස ලෙස ප්‍රකාශ කරයි
+### Godakawela and Weligepola declared as new Mahaweli Divisions
 
 *2024-06-10 12:39:12* · [`adalk`](https://www.ada.lk/breaking_news/ගොඩකවෙල-හා-වැලිගෙපොල-නව-මහවැලි-කොට්ඨාස-ලෙස-ප්‍රකාශ-කරයි/11-410117) · `si`
 
-රත්නපුර දිස්ත්‍රික්කයේ  ප්‍රාදේශීය ලේකම්  බලප්‍රදේශ පහකට අයත් ග්‍රාම නිලධාරි  වසම්  72 ක් ඒකාබද්ධ කරමින් ගොඩකවෙල සහ  වැලිගෙපොල  වශයෙන්   නව  මහවැලි කොට්ඨාස දෙකක්  ප්‍රකාශයට පත්  කිරීම ට  පියවර ගත් බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+Sri Lanka's Minister of Irrigation, Wildlife, and Forests announced the creation of two new Mahaweli Divisions: Godakawela and Weligepola. These divisions encompass 37 and 2 Grama Niladhari Divisions respectively, aiming to boost economic, social, and cultural development through accelerated projects. This move follows the precedent set by combining 47 Grama Niladhari Divisions in the Ratnapura District into a new Mahaweli Division.
 
-ඒ අනුව   ගොඩකවෙල ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 37 ක්, වැලිගෙපොල  ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ග්‍රාම නිලධාරි වසම් 30 ක්, ඕපනායක ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 02 ක්, බලංගොඩ  ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ ග්‍රාම නිලධාරි වසම් 02 ක් සහ  කල්තොට ප්‍රාදේශීය ලේකම් කොට්ඨාස යේ එක් 01)  ග්‍රාම නිලධාරි වසමක් ලෙස ඒකාබද්ධ කරමින්  ගොඩකවෙල සහ  වැලිගෙපොල  නව මහවැලි කොට්ඨාස ලෙස   ශ්‍රී ලංකා මහවැලි අධිකාරියේ වලව විශේෂ බලප්‍රදේශය යටතේ   සංවර්ධනය කිරීම ට  නියමිතය.
+🟩
 
-ශ්‍රී  ලංකා මහවැලි අධිකාරි පනත යටතේ, 1981 අප්‍රේල් 16 දින අංක 137 ගැසට් පත්‍රය මඟින්   වලව මහවැලි  විශේෂ බලප්‍රදේශය ප්‍රකාශයට පත්  ඇත.
+Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi says that there were two new Mahaweli Divisions in Godakawela and Weligepola.
 
-එහෙත් එම  මහවැලි වලව   කලාපයේ    ඇතැම්  ප්‍රදේශ මෙතෙක්   සංවර්ධන කටයුතු සඳහා  පියවර ගෙන නොතිබුණි.
+Accordingly, 37 Grama Niladhari Divisions in the Godakawela Divisional Secretariat Division, two Grama Niladhari Divisions in the Weligepola Divisional Secretariat Division, two Grama Niladhari Divisions in the Weligekapola Divisional Secretariat Division and two Grama Niladhari Divisions and Kaltota Divisional Secretariat Division.One of the Grama Niladhari Divisions by the Mahaweli Authority of the Mahaweli Authority of the Mahaweli Authority is due to be developed as the new Mahaweli Authority of the Mahaweli Authority of Godakawela.
+
+Under the Mahaweli Authority Act of Sri Lanka, the Mahaweli Special area has been announced by No. 137 of 1981 under the Gazette No. 137 of 1981.
+
+However, some areas of the Mahaweli in the Mahaweli have not taken measures to develop.
 
 ...
 
 [Data](articles/9af07419.json)
+
+[Extended Data](ext_articles/9af07419.ext.json)
 
 ---
 
@@ -2215,169 +2303,5 @@ Further the record number of departures for foreign employment also helped Sri L
 [Data](articles/0d1fb9cb.json)
 
 [Extended Data](ext_articles/0d1fb9cb.ext.json)
-
----
-
-### Workers’ remittances continue to plough ahead with US$ 544mn in May
-
-*2024-06-10 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Workers-remittances-continue-to-plough-ahead-with-US-544mn-in-May/108-284464) · `en`
-
-Remittance income from Sri Lankans working abroad has continued to remain robust through May as the country received US$ 544.4 million in the month. This is both, higher from a month ago levels as well as the year earlier levels.
-
-Sri Lankan received US$ 543.8 million as remittances in April this year while in May last year the receipts were US$ 479.7 million.
-
-For the five months through May, the country received US$ 2, 624.4 million from remittances, up 11.8 percent from the same period a year ago.
-
-Sri Lanka’s remittances started normalising when the authorities began cracking down on the informal money exchanges that were offering substantial premiums to the official exchange rate.
-
-The rupee depreciation also helped emigrants to re-route their earnings via banks which until then were repatriated via informal channels.
-
-Further the record number of departures for foreign employment also helped Sri Lanka to receive strong amounts of foreign currency every month.
-
-...
-
-[Data](articles/a496c741.json)
-
-[Extended Data](ext_articles/a496c741.ext.json)
-
----
-
-### India beat India
-
-*2024-06-10 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197581) · `si`
-
-In a cricket match, India defeated Pakistan by 6 runs. Batting first after losing the toss, India made 119 runs in 19 overs. Pakistan, chasing 120, could only manage 113 runs in 20 overs, leading to India's victory.
-
-🟩
-
-The Indian team won the match between Pakistan and six runs.
-
-The Leader of the Pakistan, winning the coin, invited India to bat first.
-
-Accordingly, India scored 119 runs for the loss of 19 overs.
-
-Chasing a target of 120, Pakistan won only 113 runs in the end of 20 overs.
-
-◼️
-
-[Data](articles/95efd0d9.json)
-
-[Extended Data](ext_articles/95efd0d9.ext.json)
-
----
-
-### Maithripala Sirisena: The highest President has violated the constitution and basic rights
-
-*2024-06-10 06:24:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0ww1537rv0o) · `si`
-
-Based on the detailed account you've provided, here's a summary of the fundamental rights cases against Maithripala Sirisena and the rulings issued against him:
-
-
-
-### Fundamental Rights Cases Against Maithripala Sirisena
-
-
-
-1. **Dissolution of Parliament**: Maithripala Sirisena, while serving as the Executive President, dissolved the Parliament on November 9, 2018, leading to a general election held on January 5, 2019. This action led to several fundamental rights petitions being filed against him, challenging the legality of the dissolution.
-
-
-
-2. **Violation of Constitutional Provisions**: The Supreme Court examined the petitions and issued a divisional injunction against the gazette notification issued by President Sirisena, preventing the dissolution of Parliament. The court ruled that the dissolution was unconstitutional because it did not comply with the required procedures outlined in the Constitution.
-
-
-
-3. **Misuse of Power**: The Supreme Court further found that President Sirisena had abused his powers by not adhering to the legal requirements for dissolving Parliament. Specifically, the dissolution did not occur after the expiration of four and a half years following the previous general election, nor was it preceded by a vote of no-confidence in the government.
-
-
-
-4. **Constitutional Violations**: The court concluded that President Sirisena's actions were in direct violation of the Constitution, particularly Article 70(1), which outlines the conditions under which the President may dissolve Parliament.
-
-
-
-### Rulings Issued Against Maithripala Sirisena
-
-
-
-1. **Compensation Order**: Following the Supreme Court's ruling, Maithripala Sirisena was ordered to pay Rs. 103 million as compensation for violating the fundamental rights of citizens through his unconstitutional actions.
-
-
-
-2. **Interim Injunction**: This was the first time the Supreme Court issued an interim injunction against the President, suspending the gazette notification that led to the dissolution of Parliament.
-
-
-
-3. **Constitutional Interpretation**: The Supreme Court provided a significant interpretation of the Constitution, clarifying the limited circumstances under which the President may dissolve Parliament. This ruling set a precedent for future cases involving presidential powers.
-
-
-
-4. **Judicial Oversight of Executive Actions**: The case underscored the Supreme Court's role in protecting the Constitution and the fundamental rights of citizens from potential abuses of power by the Executive President.
-
-
-
-These cases and rulings highlight the importance of judicial oversight in ensuring that the powers vested in the Executive President are exercised within the bounds of the Constitution and in the best interests of the nation.
-
-🟩
-
-Maithripala Sirisena: The highest President has violated the constitution and basic rights
-
-The 19th Amendment to the Constitution, which was introduced to the present Constitution of the end of the end of the end of the end of the end of the end of the end, the citizens of the country won the right to prosecute fundamental rights against executive and administrative functions carried out by the Executive President.
-
-As a result, a number of fundamental rights petitions have been filed in the Supreme Court against executive and administrative functions carried out by the Executive President.
-
-Former President Maithripala Sirisena has been appointed as the President of the Supreme Court regarding the violation of fundamental rights after the introduction of the constitutional provision.
-
-He has been convicted by the Supreme Court three times regarding the constitution and violation of fundamental rights.
-
-Maithripala Sirisena has been ordered that Rs. 103 million should be paid as compensation.
-
-...
-
-[Data](articles/ee115616.json)
-
-[Extended Data](ext_articles/ee115616.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-06-10 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197579) · `si`
-
-Today, heavy rains are expected across several regions, including the Western, Sabaragamuwa, and Northwestern provinces, with intense rainfall predicted in areas like Kandy, Nuwara Eliya, Galle, and Matara. The Nuwara Eliya region may see over 50mm of rain. Showers or night thundershowers are also forecasted for the Uva Province and along the Western slopes of the central hills, as well as in Trincomalee, Hambantota, and Moneragala Districts. Strong winds are anticipated, prompting the Department of Meteorology to advise caution against potential wind and lightning hazards.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces will experience a few showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In some places in the Nuwara Eliya area in the Sabaragamuwa Province, mm. Heavy rains can occur in more than 50.
-
-Showers or night thundershowers will occur at evening or night in the Uva Province.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. It is said that there is about strong winds.
-
-The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9a25cc32.json)
-
-[Extended Data](ext_articles/9a25cc32.ext.json)
-
----
-
-### Assetline Finance launches Assetline Green Loan to support solar energy investments
-
-*2024-06-10 05:16:00* · [`islandlk`](http://island.lk/assetline-finance-launches-assetline-green-loan-to-support-solar-energy-investments/) · `en`
-
-Assetline Finance Limited (AFL) recently launched Assetline Green Loan, a specialised financing facility aimed at empowering individuals as well as Micro, Small and Medium Enterprises to invest in solar energy solutions. This initiative is designed to make solar energy adoption more accessible and affordable.
-
-With solar power emerging as a sustainable and cost-effective alternative to traditional energy sources, Assetline Finance is committed to helping customers harness the benefits of renewable energy as part of its sustainability agenda.
-
-“Whether you are a homeowner looking to switch to solar energy or a business aiming to reduce operational costs and environmental impact, the Assetline Green Loan offers an excellent opportunity to embrace sustainable practices with ease,” said Ashan Nissanka, Director and CEO of AFL.
-
-...
-
-[Data](articles/4bdac88f.json)
-
-[Extended Data](ext_articles/4bdac88f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 01:53:03**
+As of **2024-06-11 02:04:13**
 
 ## Newspaper Stats
 
-*Scraped **29,671** Articles*
+*Scraped **29,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 287
 newsfirstlk | 363
 islandlk | 1,601
 economynextcom | 1,697
-dailyftlk | 1,784
+dailyftlk | 1,787
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,472
-virakesarilk | 4,551
+tamilmirrorlk | 3,473
+virakesarilk | 4,554
 dailymirrorlk | 4,703
 adaderanasinhalalk | 4,773
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,665 (100.0%) of 29,671 articles have been extended.
+29,671 (100.0%) of 29,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Cardinal condemns President’s attempt to link Catholic Church to AG service extension
+
+*2024-06-11 01:51:34* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-condemns-President-s-attempt-to-link-Catholic-Church-to-AG-service-extension/56-762926) · `en`
+
+Archbishop of Colombo, Malcolm Cardinal Ranjith criticises President’s comments, calling them misleading and lacking genuine intent
+
+Questions why discussions with Church, initiated by the Govt., being used to retain same Attorney General
+
+Accuses President of using Catholic Bishops to create facade of addressing Easter Sunday attack to gain votes
+
+Expresses disappointment that invitation for discussions on Easter Sunday attacks was not made in good faith
+
+Archbishop of Colombo Malcolm Cardinal Ranjith, has expressed strong criticism over the weekend against a recent statement made by President Ranil Wickremesinghe suggesting a link between the extension of the Attorney General’s tenure and the Catholic Church of Sri Lanka.
+
+...
+
+[Data](articles/2f0ebde2.json)
+
+---
+
+### Foreign economic experts meet NPP
+
+*2024-06-11 01:48:28* · [`dailyftlk`](https://www.ft.lk/news/Foreign-economic-experts-meet-NPP/56-762925) · `en`
+
+A group of foreign economic experts met with representatives of the National People’s Power (NPP) party at the JVP Head Office yesterday. Among the attendees was Argentina’s former Economy Minister and Columbia University Professor Martin Guzman, Massachusetts University Professor Jayathi Ghosh and United Nations Millennium Project former Regional Director Charles Abugre. Dr. Ahilan Kadirgamar, a senior lecturer at Jaffna University, also contributed to the discussion. The meeting, which included NPP Executive Members Dr. Harini Amarasuriya, Dr. Nalinda Jayatissa and several other NPP members focused on addressing Sri Lanka’s economic crisis
+
+◼️
+
+[Data](articles/11aece38.json)
+
+---
+
+### Ulterior motive behind proposed service extension for AG: Opposition
+
+*2024-06-11 01:47:01* · [`dailyftlk`](https://www.ft.lk/news/Ulterior-motive-behind-proposed-service-extension-for-AG-Opposition/56-762924) · `en`
+
+MP Prof. G.L Peiris questions unprecedented nature of proposed extension, citing lack of historical precedent
+
+Criticises Govt.’s rationale for extension and deems arguments as baseless
+
+Highlights unique responsibilities of AG emphasising potential disruption to electoral process
+
+People’s Freedom Congress (FPC) MP Prof G.L. Peiris yesterday raised significant concerns regarding the proposed extension of Attorney General Sanjay Rajaratnam’s tenure by six months.
+
+Speaking at a press conference Peiris highlighted that such an extension has not been witnessed in Sri Lanka’s history. The MP stressed that allowing this extension amidst ongoing election campaigns could potentially disrupt the integrity of the electoral process.
+
+...
+
+[Data](articles/142f90cb.json)
+
+---
+
+### பருத்தித்துறை ஆதார வைத்தியசாலை ஊழியர்கள் போராட்டம்!
+
+*2024-06-11 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185793) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி பருத்தித்துறை ஆதார வைத்தியசாலையில்  கடந்த 8 ஆம் திகதி  விடுதி இலக்கம் 7 இலக்க விடுதியில்  நுழைந்து அங்கு கடமையிலிருந்த தாதிய உத்தியோகத்தரை தாக்க முற்பட்ட சம்பவத்தை கண்டித்து மதியம் 12 மணி முதல் ஒரு மணிவரையன தமதி உணவு வேளையில். வைத்தியசாலையின் தாதிய உத்தியோகஸ்தர்கள் சிற்றூழியர்கள், தனியார் பாதுகாப்பு உத்தியோகத்தர்கள்  இணைந்து கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+
+உத்தியோகத்தர்கள்  பாதுகாப்பை உறுதிப்படுத்து, ஆயுதம் தாங்கிய பொலிசாரை கடமையில் ஈடுபடுத்து, சம்மந்தப்பட்ட குற்றவாளியை கைது செய், போன்ற கோரிக்கைகளை முன்வைத்தே குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/aa547216.json)
+
+---
 
 ### Customer experience guru Ron Kaufman meets BOI, SLPA heads
 
@@ -41,6 +107,26 @@ Renowned global customer experience guru Ron Kaufman last week met with the Boar
 ◼️
 
 [Data](articles/8086aa68.json)
+
+[Extended Data](ext_articles/8086aa68.ext.json)
+
+---
+
+### அராலியில் இளம் பெண் தூக்கிட்டு உயிர்மாய்ப்பு!
+
+*2024-06-11 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185792) · `ta`
+
+அராலி வடக்கு பகுதியில் 10ஆம் திகதி திங்கட்கிழமை இளம் பெண்ணொருவர் தவறான முடிவெடுத்துத் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+
+அதே பகுதியைச் சேர்ந்த 24 வயதுடைய சிவகரன் மயூரா என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணின் தந்தையும், அண்ணாவும் ஏற்கனவே உயிரிழந்துள்ளனர். இந்நிலையில் அவர் இன்று இவ்வாறு உயிர்மாய்த்துள்ளார்.
+
+சடலம் மீதான பிரேதப் பரிசோதனைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/d0e41887.json)
 
 ---
 
@@ -57,6 +143,8 @@ Emerchemie NB Ceylon Ltd., is celebrating its 25th anniversary in June, enjoying
 ◼️
 
 [Data](articles/d6ce41fd.json)
+
+[Extended Data](ext_articles/d6ce41fd.ext.json)
 
 ---
 
@@ -76,6 +164,8 @@ Composition of panellists and issues to be addressed will be designed to appeal 
 
 [Data](articles/3e71b6a2.json)
 
+[Extended Data](ext_articles/3e71b6a2.ext.json)
+
 ---
 
 ### President and Dr. Jaishankar discuss resumption of India-aided development projects
@@ -94,6 +184,8 @@ During the meeting, Dr. Jaishankar reiterated India’s ‘Neighbourhood First�
 
 [Data](articles/004ce2c0.json)
 
+[Extended Data](ext_articles/004ce2c0.ext.json)
+
 ---
 
 ### Bangladesh pledges support for Sri Lanka’s agricultural modernisation drive
@@ -111,6 +203,8 @@ This was conveyed when the duo met in New Delhi on the sidelines of the swearing
 ...
 
 [Data](articles/2b785bbf.json)
+
+[Extended Data](ext_articles/2b785bbf.ext.json)
 
 ---
 
@@ -152,6 +246,22 @@ Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena 
 
 ---
 
+### இலங்கை - பங்களாதேஷ் பயணிகள் படகு சேவை
+
+*2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
+
+இலங்கையில் முன்னெடுக்கப்படும் விவசாய நவீனமயமாக்கல் திட்டத்திற்கு பங்களாதேஷ் ஆதரவளிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா உறுதியளித்தார்.
+
+இந்தியப் பிரதமர் நரேந்திர மோடியின் பதவிப் பிரமாண வைபவத்திற்காக புதுடெல்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனாவுக்கும் இடையிலான இருதரப்பு பேச்சுவார்த்தை திங்கட்கிழமை (10) காலை நடைபெற்றது. இதன்போதே பங்களாதேஷ் பிரதமர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கூட்டுறவு முறையின் அடிப்படையில் பங்களாதேஷில்  செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை ஆராய்ந்து இலங்கையின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காக இலங்கை விவசாயத்துறை  நிபுணர்கள் குழுவொன்றை பங்களாதேஷிற்கு அனுப்புவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க இணக்கம் தெரிவித்தார்.
+
+...
+
+[Data](articles/c0980eb8.json)
+
+---
+
 ### Honor students who have received the best results
 
 *2024-06-11 01:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறந்த-பெறுபேறுகளை-பெற்ற-மாணவர்கள்-கௌரவிப்பு/175-338734) · `ta`
@@ -171,6 +281,26 @@ Shehani Navotya of Ginigathena Central Maha Vidyalaya, who was the first in the 
 [Data](articles/2eccd045.json)
 
 [Extended Data](ext_articles/2eccd045.ext.json)
+
+---
+
+### பங்களாதேஷை 4 ஓட்டங்களால் வென்ற தென் ஆபிரிக்கா அடுத்த சுற்றுக்கான வாய்ப்பை அதிகரித்துக்கொண்டது
+
+*2024-06-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185791) · `ta`
+
+தென் ஆபிரிக்காவுக்கும் பங்களாதேஷுக்கும் இடையில் நியூயோர்க் நசவ் கன்ட்றி சர்வதேச விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவடைந்த டி குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் தென் ஆபிரிக்கா 4 ஓட்டங்களால் வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் 9ஆவது ரி20 உலகக் கிண்ணப் போட்டியில் சுப்பர் 8 சுற்றில் விளையாடுவதற்கான வாய்ப்பை தென் ஆபிரிக்கா அதிகரித்துக்கொண்டுள்ளது.
+
+அடுத்தடுத்த இரண்டு தினங்கள் மிகவும் குறைந்த மொத்த எண்ணிக்கைகளை வெற்றி இலக்காகக் கொண்டு இரண்டாவதாக துடுப்பெடுத்தாடிய அணிகள் தோல்வியைத் தழுவியமை குறிப்பிட்டுச் சொல்லக்கூடிய விடயமாகும்.
+
+இந்தியாவுக்கு எதிராக இதே மைதானத்தில்  நடைபெற்ற போட்டியில் 120 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய பாகிஸ்தான் 6 ஓட்டங்களால் தோல்வி அடைந்திருந்தது.
+
+பங்களாதேஷுடனான வெற்றியை அடுத்து ரி20 உலகக் கிண்ணப் போட்டியில் மிகவும் குறைந்த மொத்த எண்ணிக்கையை தக்கவைத்த அணி என்ற பெருமையை தென் ஆபிரிக்கா தனதாக்கிக்கொண்டது. இதற்கு முன்னர் இந்தியாவின் 119 ஓட்டங்களே தக்கவைக்கப்பட்ட மிகக் குறைந்த எண்ணிக்கையாக இருந்தது.
+
+...
+
+[Data](articles/856453f0.json)
 
 ---
 
@@ -757,6 +887,8 @@ Philip Gunawardena is remembered as the architect of the Paddy Lands Act which b
 ...
 
 [Data](articles/6d00d7a0.json)
+
+[Extended Data](ext_articles/6d00d7a0.ext.json)
 
 ---
 
@@ -2037,167 +2169,5 @@ Although the strike was over, the railway running would not be normal this after
 [Data](articles/5665a33f.json)
 
 [Extended Data](ext_articles/5665a33f.ext.json)
-
----
-
-### Train strike called off
-
-*2024-06-10 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-strike-called-off/108-284517) · `en`
-
-Colombo, June 10 (Daily Mirror) - The Sri Lanka Railways Locomotive Operating Engineers’ Union decided to call off their ongoing strike following discussion with the Transport Minister.
-
-The union said the trains in the evening will not run as usual, but the services will return to normal by tomorrow morning.
-
-Only a few trains will be cancelled this evening, and the locomotive engineers and the General Manager, Railways are aware of this.
-
-The Locomotive Operating Engineers Union launched their strike on Friday due to delays in the second-class promotions of locomotive drivers, continuous delays in recruitments due to the lack of a salary code, and other issues.
-
-◼️
-
-[Data](articles/57dd1fdd.json)
-
-[Extended Data](ext_articles/57dd1fdd.ext.json)
-
----
-
-### Pas Podda’s suspected killer arrested at BIA after 2 years
-
-*2024-06-10 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99783/-pas-poddas-suspected-killer-arrested-at-bia-after-2-years) · `en`
-
-An individual suspected of shooting and killing the underworld figure Saman Rohitha Perera alias ‘Pas Podda’, who was allegedly involved in several organized crimes in Gampaha, has been apprehended this morning (June 10) at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The immigration officials, who apprehended the suspect, have handed him over to the Airport Police in Katunayaka.
-
-The arrested individual has been identified as a resident of the Kimbulapitiya area in Negambo.
-
-It is reported that the suspect had fled to Sharjah in the United Arab Emirates (UAE) following the shooting of ‘Pas Podda’ in July 2022.
-
-On 22 July 2022, a gunman who arrived in a car had opened fire at six individuals including underworld figure ‘Pas Podda’ who were about to leave the Gampaha Magistrate’s Court premises in a cab after attending court proceedings.
-
-...
-
-[Data](articles/234141cd.json)
-
-[Extended Data](ext_articles/234141cd.ext.json)
-
----
-
-### Emergency decision on unauthorized constructions in Colombo
-
-*2024-06-10 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197605) · `si`
-
-The Urban Development and Housing Ministry plans to control Colombo's flooding through wetland conservation and improve drainage systems. A circular will be issued to state institutions within two weeks. The initiative involves seven special projects launched by the Sri Lanka Land Development Corporation, aiming to reduce floods in Colombo and its suburbs in three phases.
-
-🟩
-
-Urban Development and Housing Ministry Secretary to the Ministry of Urban Development and Housing Ministry. Mr. Analyananda says.
-
-He was speaking at a press conference held at the Government Information Department.
-
-He further stated that the circular will be given to all state institutions within two weeks.
-
-The Secretary of the Urban Development and Housing Ministry said that the water flows can be controlled by the conservation of wetlands in Colombo and suburbs.
-
-Small waterways, sidespread waterways, in suburbs, in Colombo and suburbs have been identified as the main reason for floods.
-
-Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Corporation, the Sri Lanka Land Development Authority, Urban Development Authority, the Department of Irrigation and Local Authorities.
-
-...
-
-[Data](articles/a227fb44.json)
-
-[Extended Data](ext_articles/a227fb44.ext.json)
-
----
-
-### School van collides with a collapse tree
-
-*2024-06-10 15:00:49* · [`adalk`](https://www.ada.lk/breaking_news/කඩා-වැටෙන-ගසකින්-බේරීමට-ගොස්-පාසල්-වෑන්-රථය-තාප්පයක-ගැටෙයි/11-410120) · `si`
-
-In a tragic incident, a school van collided with a falling tree near Teldeniya, injuring five students, two teachers, and the driver. The victims were rushed to the hospital. Locals urge the landowner and authorities to remove the decaying tree to prevent further accidents.
-
-🟩
-
-A school van driver from the Teldeniya police division in Kengalla area, five and five schoolchildren were injured in a van and telephone tower, police said.
-
-The accident had been admitted to hospital while transporting school children was seriously injured today and two teachers and several schoolchildren have been hospitalized in the van and several school children were injured and taken to hospital injuries.Says.
-
-Residents informed the owner of the land and the relevant authorities to remove the decayed tree.
-
-◼️
-
-[Data](articles/4497da2f.json)
-
-[Extended Data](ext_articles/4497da2f.ext.json)
-
----
-
-### Yall. Vadamarachchi Kottawattai AMP school skills
-
-*2024-06-10 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185744) · `ta`
-
-Sajith Premadasa, leader of the opposition and the United People's Power, inaugurated a Skills Development Classroom at the American American Mizan Tamil Kalavan School in Jaffna. The event was attended by several notable figures including Jaffna District Parliamentarian Angananathan and Uma Chandra Prakas, Deputy Secretary of the United People's Power. This initiative aims to enhance skill development and includes the provision of five computers.
-
-🟩
-
-The Skills Development Classroom, which has been set up for the American American Mizan Tamil Kalavan School in Jaffna, has been opened today by Sajith Premadasa, the leader of the opposition and the leader of the United People's Power.
-
-Earlier, a group led by Sri Lanka Opposition Leader Sajith Premadasa, who had come to the opening of the Skills Development Classroom, was greeted and greeted.
-
-Jaffna District Parliamentarian Angananathan, Deputy Secretary of the United People's Power Uma Chandra Prakas, United People's Power Organizer KripakaranAttended.
-
-It is noteworthy that under this scheme, skill development and 5 computers were provided.
-
-◼️
-
-[Data](articles/ebdce8f1.json)
-
-[Extended Data](ext_articles/ebdce8f1.ext.json)
-
----
-
-### Angajan joined hands with Sajith
-
-*2024-06-10 14:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சஜித்துடன்-கைகோர்த்த-அங்கஜன்/71-338704) · `ta`
-
-Angajan Ramanathan, a Sri Lanka Freedom Party parliamentarian, joined Sajith Premadasa, the United People's Power Leader and Opposition Leader, at the opening of the Skills Classroom at the American Mission Tamil Kalavan School in Vadamarachchi Kotawatam. The event highlighted their commitment to improving education and addressing community issues directly, emphasizing unity and support for the 13th Amendment.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) parliamentarian Anganan Ramanathan was also present at the event attended by United People's Power Leader and Opposition Leader Sajith Premadasa.
-
-The official opening of the Skills Classroom of the American Mission Tamil Kalavan School in Vadamarachchi Kotawatam was held on Monday (10).Opposition Leader Sajid Premadasa participated in the event and opened the skill classroom.
-
-“I was attending the event to thank the district education development.
-
-At this time, it is a unity between us that we both travel on the need to improve the education of our people.
-
-At the same time, as the Opposition Leader has promised on the 13th Amendment, it is welcomed and we will be welcomed directly without intermediaries on the problems and demands of our people.
-
-◼️
-
-[Data](articles/e892b1e1.json)
-
-[Extended Data](ext_articles/e892b1e1.ext.json)
-
----
-
-### Railway strike called off
-
-*2024-06-10 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99782/railway-strike-called-off) · `en`
-
-The Sri Lanka Railway Locomotive Operating Engineers’ Union has decided to call off their strike action.
-
-The trade union has reached this decision after a successful discussion with the Minister of Transport Bandula Gunawardena, Ada Derana reporter said.
-
-The Locomotive Operating Engineers’ Union of Sri Lanka Railways launched a strike from midnight on Thursday (06), over delays in second-class promotions of locomotive drivers and several other issues.
-
-However, in response to the allegations leveled by the trade union in question, the administrative officials of the Department of Railways said that the department has provided all possible solutions to address their issues.
-
-...
-
-[Data](articles/0271d19f.json)
-
-[Extended Data](ext_articles/0271d19f.ext.json)
 
 ---

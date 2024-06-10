@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 21:54:14**
+As of **2024-06-10 22:07:11**
 
 ## Newspaper Stats
 
-*Scraped **29,622** Articles*
+*Scraped **29,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,687
 dailyftlk | 1,768
 adalk | 2,535
 adaderanalk | 3,356
-tamilmirrorlk | 3,470
+tamilmirrorlk | 3,471
 virakesarilk | 4,543
 dailymirrorlk | 4,698
-adaderanasinhalalk | 4,770
+adaderanasinhalalk | 4,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,621 (100.0%) of 29,622 articles have been extended.
+29,622 (100.0%) of 29,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### 26ஆம் திகதி நடக்கப்போவது என்ன?
+
+*2024-06-10 21:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/26ஆம்-திகதி-நடக்கப்போவது-என்ன/175-338727) · `ta`
+
+எதிர்வரும் 26ஆம் திகதி சுகயீன விடுமுறையை அறிவித்து நாடளாவிய ரீதியில் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவதற்கு இலங்கை ஆசிரியர் சங்கம் தீர்மானித்துள்ளது.
+
+ஊதிய முரண்பாடு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சங்கத்தின் பொதுச்செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+
+தொழிற்சங்க நடவடிக்கைக்கு சமாந்தரமாக எதிர்வரும் 12ஆம் திகதி கண்டனப் போராட்டத்தை ஏற்பாடு செய்யவுள்ளதாகவும் இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/458b7351.json)
+
+---
+
+### සුදුවෙන්න ගාන ආලේපනයෙන් සිරුරේ සිදුවන නොසිතූ වෙනස
+
+*2024-06-10 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197616) · `si`
+
+නීතිවිරෝධි, හානිකර රූපලාවණ්‍ය ප්‍රතිකාර සහ ආලේපන කිසිදු නියාමනයකින් තොරව සමාජය තුළ සංසරණයවීම හේතුවෙන් බරපතළ සෞඛ්‍ය ගැටලු උද්ගතවී තිබුණත් ඊට එරෙහිව ඇති නීතිමය ප්‍රතිපාදන ප්‍රමාණවත් නොවන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+සිය සමේ වර්ණය පැහැපත් කරගැනීම සඳහා ස්ත්‍රී - පුරුෂ සහ වයස් භේදයකින් තොරව වර්තමානයේදී විවිධ ආලේපන වර්ග භාවිත කිරීමේ ප්‍රවණතාවය මේ වනවිට ඉහළ ගොස් තිබේ.
+
+කෙසේ වෙතත් සෞඛ්‍ය අංශ පෙන්වාදෙන්නේ නියාමනයෙන් තොරව නිෂ්පාදනය කරන රූපලාවණ්‍ය ආලේපන සහ ද්‍රව්‍ය භාවිත කිරීම හේතුවෙන් සෞඛ්‍ය සංකූලතා වාර්තාවීමද ඉහළගොස් ඇති බවය.
+
+ඒ අනුව එම ආලේපන තුළ රසදිය වැනි බැර ලෝහ මෙන්ම ස්ටෙරොයිඩ ඉහළ සාන්ද්‍රණවලින් අන්තර්ගතවන බව අනාවරණය වී ඇතැයි රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පෙන්වා දෙන්නේ බරපතළ සෞඛ්‍ය ගැටලු ඇති කරන නීතිවිරෝධි, හානිකර රූපලාවණ්‍ය ප්‍රතිකාර සහ ආලේපන සම්බන්ධයෙන් ක්‍රියාත්මකවීමට දැනට පවතින නීති ප්‍රමාණවත් නොවන බවය.
+
+◼️
+
+[Data](articles/4aa4a623.json)
+
+---
 
 ### 1,700 rupees for plantation workers for the first time today
 
@@ -310,23 +346,35 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 
 ---
 
-### ඉන්දීය අගමැතිට ලංකාවේ සංචාරයකට ආරාධනා
+### Indian Prime Minister visited Sri Lanka
 
 *2024-06-10 18:31:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-අගමැතිට-ලංකාවේ-සංචාරයකට-ආරාධනා/11-410126) · `si`
 
-නවදිල්ලි නුවරට ගොස් සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය ජ්‍යෙෂ්ඨ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා අතර හමුවක් අද (10) සිදු විය.
+Indian PM meets Sri Lankan President Ranil Wickremesinghe and Minister Dr. S. Jayasankar to discuss reviving Indian-funded development projects, including an industrial zone in Trincomalee. They also touched on the Truth and Reconciliation Bill, the Agricultural Navinnament Program, and future visits.
 
-ඉන්දීය ආයෝජන මත මෙරට ආරම්භ කර, අතරමග නැවතී ඇති සංවර්ධන ව්‍යාපෘති කඩිනමින් යළි ආරම්භ කිරීම පිළිබඳ මෙහිදී සාකච්ඡා කෙරුණු අතර එම කටයුතු සොයා බැලීමට නුදුරු දිනකදීම ශ්‍රී ලංකාවේ සංචාරයක නිරත වන බව ජයශංකර් මහතා පැවසීය.
+🟩
 
-අසල්වැසියාට පළමු තැන දෙන ඉන්දීය ප්‍රතිපත්තිය සම්බන්ධයෙන්ද මෙහිදී අදහස් හුවමාරු කර ගැනිණි.
+President Ranil Wickremesinghe, President Ranil Wickremesinghe and Indian Senior Minister Dr. S. A meeting between Jayasankar met today (10).
 
-ඉන්දීය රජය විසින් ත්‍රිකුණාමලය කේන්ද්‍ර කර ගනිමින් ආරම්භ කිරීමට නියමිත කර්මාන්ත කලාපය පිළිබඳවද සාකච්ඡා කෙරුණු අතර ඉන්දීය ආයෝජකයන් රැසක් එහි සිය ආයෝජන කටයුතු ආරම්භ කිරීමට නියමිත බවත්, ඉන්දීය ආයෝජකයන්ට අමතරව වෙනත් රටවල ආයෝජකයන්ද මෙම කර්මාන්ත කලාපයේ ආයෝජන සඳහා සම්බන්ධ කිරීමට අපේක්ෂා කරන බවත් ජයශංකර් මහතා සඳහන් කළේය.
+He was discussing the resumption of the development projects that were started on Indian investments and resume the development projects that were staying.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ කෘෂිකර්මාන්තය, සෞඛ්‍ය අධ්‍යාපනය සහ ආර්ථික කළමනාකරණය යන ක්ෂේත්‍රයන්හි බලතල නව ආර්ථික පරිවර්තන පනත මඟින් පළාත් සභාවලට හිමිවන බවයි.
+Communications on the first place to the neighbor was exchanged.
+
+The Indian government also discussed the industrial zone that is scheduled to be opened in Trincomalee and the investors in other countries are expected to be connected to investments in these industry in addition to Indian investors.
+
+President Ranil Wickremesinghe said that the Powers of Agriculture, Health Education and Economic Management
+
+The Truth and Reconciliation Bill will be presented to Parliament by July.
+
+It was also discussed on the Sri Lanka Agricultural Navinnament Program in the country.
+
+President Ranil Wickremesinghe said that the gazette is being published in the gazette as the gazette, which is issued with the gazette.
 
 ...
 
 [Data](articles/1fcea79c.json)
+
+[Extended Data](ext_articles/1fcea79c.ext.json)
 
 ---
 
@@ -2285,53 +2333,5 @@ Two years ago, Ravi Seniviratna, who made the reasons for the creation of a join
 [Data](articles/3bd0a9d5.json)
 
 [Extended Data](ext_articles/3bd0a9d5.ext.json)
-
----
-
-### French tennis championship to Carlos in Spain
-
-*2024-06-10 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197593) · `si`
-
-Carlos from Spain clinched the French Open men's tennis title in a close match, overcoming a tough start to win 2-1.
-
-🟩
-
-Spain's carlos in Spain won the French open men's tennis championship after a very sharp match.
-
-The 21-year-old Carlos fails to start with 1 to 1 round of battle after a struggle.
-
-◼️
-
-[Data](articles/e4e0f8b3.json)
-
-[Extended Data](ext_articles/e4e0f8b3.ext.json)
-
----
-
-### 89 percent of deaths in Sri Lanka due to non-communicable diseases
-
-*2024-06-10 11:04:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-මරණ-වලින්-සියයට-89ක්ම-බෝනොවන-රෝග-නිසයි/11-410115) · `si`
-
-In Sri Lanka, 89% of deaths are attributed to non-communicable diseases. Dr. Palitha Mahipala plans to enhance primary healthcare over five years, allocating 70 billion rupees annually. He highlights the aging population, with one in five being over 60 now, projected to be one in four by 2030, leading to increased healthcare needs. Non-communicable diseases like heart disease cause significant mortality, exacerbated by factors like smoking. The government aims to improve healthcare quality and patient care to rebuild public trust.
-
-🟩
-
-Dr. Palitha Mahipala, Medical Palitha Maheepala, emphasizes that steps will be taken to strengthen the country's primary health service in the next five years and to establish and establish the country's primary health services.
-
-70 billion rupees per year, Rs.The Secretary said that this will occur.
-
-Similarly, four people are four-year-old deaths and five years are less than 50 years, the Secretary to the Ministry of HealthSpecialist Palitha Mahipala stressed.
-
-He emphasized the chief guest at the ceremony of the hospital after a special inspection tour of the hospital staff.
-
-At present, he pointed out that one of five people were over 60 years, and by 2030, he pointed out that one in four years. He pointed out that 600,000 people will be stronger a year ago and 4,000 of them die and 56,000 were left with various diseases.
-
-He said 6,000 of the accidents die and more than 100,000 people were injured and strengthened to strengthen the necessary rehabilitation services.
-
-...
-
-[Data](articles/9a61670e.json)
-
-[Extended Data](ext_articles/9a61670e.ext.json)
 
 ---

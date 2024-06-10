@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 15:04:30**
+As of **2024-06-10 15:19:00**
 
 ## Newspaper Stats
 
-*Scraped **29,554** Articles*
+*Scraped **29,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,170 @@ dbsjeyarajcom | 278
 bbccomsinhala | 286
 newsfirstlk | 363
 islandlk | 1,600
-economynextcom | 1,684
+economynextcom | 1,687
 dailyftlk | 1,768
-adalk | 2,523
-adaderanalk | 3,348
-tamilmirrorlk | 3,462
-virakesarilk | 4,531
-dailymirrorlk | 4,686
-adaderanasinhalalk | 4,758
+adalk | 2,524
+adaderanalk | 3,349
+tamilmirrorlk | 3,464
+virakesarilk | 4,533
+dailymirrorlk | 4,687
+adaderanasinhalalk | 4,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,554 (100.0%) of 29,554 articles have been extended.
+29,554 (100.0%) of 29,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
+
+### யாழ். வடமராட்சி கொற்றாவத்தை அ.மி.த.க பாடசாலையின் திறன் விருத்தி வகுப்பறை சஜித்தினால் திறப்பு !
+
+*2024-06-10 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185744) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கொற்றாவத்தை அமெரிக்கன் மிசன் தமிழ் கலவன் பாடசாலைக்காக அமைத்துக் கொடுக்கப்பட்ட திறன் விருத்தி வகுப்பறை இன்றையதினம் எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாசவால் திறந்து வைக்கப்பட்டுள்ளது.
+
+முன்னதாக திறன் விருத்தி வகுப்பறையை திறந்து வைப்பதற்க்காக வருகை தந்த இலங்கை எதிர்கட்சி தலைவர் சஜித்  பிரேமதாஸ தலைமையிலான குழுவினருக்கு வெற்றிலை கொடுக்கப்பட்டு மலர்மாலை அணிவிக்கப்பட்டு வரவேற்க்கப்பட்டனர்.
+
+பாடசாலை அதிபர் அ.பவானந்தன் தலமையில் இடம்பெற்ற இந்நிகழ்வில்  யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன், ஐக்கிய மக்கள் சக்தியின் உப செயலாளர் உமா சந்திரா பிரகாஸ், ஐக்கிய மக்கள் சக்தியின் நல்லூர் அமைப்பாளர் தொழிலதிபர் கிருபாகரன், வட்டுக்கோட்டை தொகுதி அமைப்பாளர் மு.சதாசிவம், பாடசாலை ஆசிரியர்கள், மாணவர்கள், பெற்றோர்கள், பழைய மாணவர்கள் என பலரும் கலந்துகொண்டனர்.
+
+இத் திட்டத்தின் கீழ் திறன் விருத்தி தொலைக்காட்சி, 5 கணனிகள் என்பன வழங்கப்பட்டிருந்ததமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ebdce8f1.json)
+
+---
+
+### சஜித்துடன் கைகோர்த்த அங்கஜன்
+
+*2024-06-10 14:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சஜித்துடன்-கைகோர்த்த-அங்கஜன்/71-338704) · `ta`
+
+யாழ்ப்பாணத்தில் ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சி தலைவருமான சஜித் பிரேமதாச கலந்து கொண்ட நிகழ்வில், ஸ்ரீலங்கா சுதந்திர கட்சியின் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனும் கலந்து கொண்டிருந்தார்.
+
+வடமராட்சி கொற்றாவத்தை அமெரிக்கன் மிஷன் தமிழ் கலவன் பாடசாலையின் திறன் வகுப்பறையை உத்தியோகபூர்வமாக திறந்து வைக்கும் நிகழ்வு  திங்கட்கிழமை (10) நடைபெற்றது.  இந்நிகழ்வில் எதிர்க்கட்சி தலைவர்சஜித் பிரேமதாச கலந்து கொண்டு, திறன் வகுப்பறையை திறந்து வைத்தார்.
+
+" மாவட்ட கல்வி அபிவிருத்திக்கான இப்பங்களிப்புக்கு நன்றி தெரிவிக்கும் வகையில் தான் இந்நிகழ்வில் கலந்து கொண்டிருந்தேன்.
+
+இதன்போது, எமது மக்களின் கல்வியை மேம்படுத்துவதன் அவசியத்தையும், அதன் இலக்கில் நாம் இருவரும் பயணிப்பதே எமக்கிடையேயான ஓர் ஒற்றுமையாக உள்ளது.
+
+அதேவேளை, 13வது திருத்தச்சட்டம் தொடர்பாக எதிர்கட்சித்தலைவர் வாக்குறுதி வழங்கியுள்ள நிலையில், அதனை வரவேற்பதுடன் எமது மக்களின் பிரச்சனைகள் மற்றும் கோரிக்கைகள் தொடர்பாக இடைத்தரகர்கள் இல்லாமல் நேரடியாக அறிந்து கொள்ள வேண்டும், அவ்வாறு செய்யும் பட்சத்தில் அதனை நாம் வரவேற்போம் "  என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e892b1e1.json)
+
+---
+
+### Railway strike called off
+
+*2024-06-10 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99782/railway-strike-called-off) · `en`
+
+The Sri Lanka Railway Locomotive Operating Engineers have decided to call off their strike action.
+
+The trade union has reached this decision after a successful discussion with the Minister of Transport Bandula Gunawardena, Ada Derana reporter said.
+
+The Locomotive Operating Engineers’ Union of Sri Lanka Railways launched a strike from midnight on Thursday (06), over delays in second-class promotions of locomotive drivers and several other issues.
+
+However, in response to the allegations leveled by the trade union in question, the administrative officials of the Department of Railways said that the department has provided all possible solutions to address their issues.
+
+Joining a press conference held this morning (10), Additional General Manager (Administration) of the Department of Railways Mrs. Kusalani de Silva stated that the Department of Railways had issued 57 promotion letters to the railway locomotive engineers by Thursday (June 06), which is more than 50% of the relevant employees.
+
+...
+
+[Data](articles/0271d19f.json)
+
+---
+
+### දුම්රිය වර්ජනය අවසන්
+
+*2024-06-10 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197604) · `si`
+
+ප්‍රවාහන අමාත්‍යවරයා සමග පැවති සාකච්ඡාවකින් අනතුරුව දුම්රිය වෘත්තීය සමිති සිය වර්ජනය අවසන් කිරීමට තීරණය කර තිබේ.
+
+ප්‍රවාහන අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා සහ දුම්රිය රියදුරු වෘත්තිය සමිති අතර මෙම සාකච්ඡාව ප්‍රවාහන අමාත්‍යාංශයේදී සිදුකර ඇත.
+
+ලොකෝමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ දුම්රිය එන්ජින් රියදුරන් පිරිසක් විසින් මෙම වර්ජනය ආරම්භ කළේ දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවා ගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල්කර ගනිමිනි.
+
+◼️
+
+[Data](articles/01582b55.json)
+
+---
+
+### ஓகஸ்டில் மோடி வருகிறார்
+
+*2024-06-10 14:39:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்டில்-மோடி-வருகிறார்/175-338703) · `ta`
+
+இந்தியப் பிரதமர் நரேந்திர மோடி இந்த ஆண்டு ஓகஸ்ட் மாதம் இலங்கைக்கு விஜயம் செய்யவுள்ளதாக ஜனாதிபதி அலுவலக அதிகாரிகள் இங்கு செய்தியாளர்களிடம் தெரிவித்தனர்.
+
+பிரதமர் மோடியின் பதவியேற்பு விழாவில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, ராஷ்டிரபதி பவனில் மோடியை ஞாயிற்றுக்கிழமை சந்தித்துப் பேசியபோது, ​​இலங்கைக்கு வருமாறு மோடிக்கு அழைப்பு விடுத்திருந்தார்.
+
+இந்திய வெளியுறவுத்துறை அமைச்சர் எஸ்.ஜெய்சங்கருடன் பிரதமர் மோடியின் பயணம் குறித்து விக்கிரமசிங்க  புது டெல்லியில் திங்கட்கிழமை (10) கலந்துரையாடினார்.
+
+ஜனாதிபதி மற்றும் இந்திய வெளிவிவகார அமைச்சர் இருவரும் இந்திய தலைவரின் விஜயம் குறித்து கலந்துரையாடினர், இதன் போது இந்த விஜயம் இந்த வருடம் ஓகஸ்ட் மாதம் இடம்பெறும் என தெரியவந்துள்ளது. ஜெய்சங்கர், விரைவில் இலங்கைக்கு விஜயம் செய்வதாகவும், இந்தியப் பிரதமரின் பயணம் குறித்து ஆராய்வதாகவும் ஜனாதிபதி விக்கிரமசிங்கவிடம் உறுதியளித்திருந்தார்.
+
+◼️
+
+[Data](articles/9f05e952.json)
+
+---
+
+### Sri Lanka, India reaffirm commitment to strengthening ties
+
+*2024-06-10 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-reaffirm-commitment-to-strengthening-ties-167200/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and Narendra Modi, who was sworn in for a third consecutive term as Prime Minister of India, have reaffirmed their commitment to maintaining strong Indo-Sri Lankan relations.
+
+Wickremesinghe attended the swearing-in ceremony in New Delhi yesterday (9) on the invitation of Modi.
+
+The ceremony was attended by regional leaders Bangladesh Prime Minister Sheikh Hasina, Nepal Prime Minister Pushpa Kamal Dahal, Maldives President Mohamed Muizzu, Seychelles Vice President Ahmed Afif, Mauritius Prime Minister Pravind Jugnauth, and Bhutan Prime Minister Tshering Tobgay.
+
+Modi posed for a group photo with Wickremesinghe next to him.
+
+“Sri Lanka is an important partner in our Neighbourhood First policy. India is proud to be a dependable partner for Sri Lanka. I look forward to realising our joint vision of enhancing connectivity in all its dimensions,” Modi said on social media platform X (twitter).
+
+...
+
+[Data](articles/90f53e0e.json)
+
+---
+
+### யாழ். சென் சார்ல்ஸ் மகா வித்தியாலயத்திற்கு ஸ்மார்ட் வகுப்பறை சஜித் பிரேமதாசவால் கையளிப்பு
+
+*2024-06-10 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185741) · `ta`
+
+"நவீன உலகின் வளமான டிஜிட்டல் எதிர்காலத்திற்காக இந் நாட்டின் இளைய தலைமுறையை தொழில்நுட்பத்தில் தேர்ச்சி பெற்ற ஸ்மார்ட் கணினி பயன்பாட்டில் தேர்ச்சி பெற்ற சமூகத்தை கட்டியெழுப்புவோம்" என்ற தொனிப்பொருளில் சக்வச என்ற செயற்றிட்டத்தின் கீழ் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவின் வருகை நேற்று ஞாயிற்றுக்கிழமை (09) சென் சார்ல்ஸ் மகா வித்தியாலயத்தில் பிற்பகல் 3.30 மணியளவில் இடம்பெற்றது.
+
+குறித்த நிகழ்வில் எதிர்கட்சித் தலைவர் சஜித் பிரேமதாஸ ,  ஐக்கிய மக்கள் சக்தியின் ஊடகப் பேச்சாளர் உமா சந்திர பிரகாஷ் மற்றும் ஆசிரியர்கள், மாணவர்கள் எனப் பலரும் கலந்துகொண்டனர்.
+
+5 கணினிகளும் ,  1 அச்சுப்பொறியும் ,  smart board உம் வழங்கப்பட்டதோடு புதிய ஸ்மார்ட் வகுப்பறையும் திறந்து வைக்கப்பட்டு நேற்றையதினம்  உத்தியோகபூர்வமாக  கையளிக்கப்பட்டது.
+
+அதனைத் தொடர்ந்து முதலில் சஜித் பிரேமதாஸ அவர்களால் மங்கள விளக்கேற்றல் இடம்பெற்றதோடு அதனை அடுத்து தொடர்ந்தும் பாடசாலை மாணவிகளால் வரவேற்பு நடனம் இடம்பெற்றதோடு, பாடசாலை மாணவியினால்  வரவேற்புரை நிகழ்த்தப்பட்டது. தொடர்ந்தும் பாடசாலை அதிபர் லெனின் குமார் அவர்களால் உரை நிகழ்த்தப்பட்டது.
+
+...
+
+[Data](articles/7eb363fb.json)
+
+---
+
+### Modi likely to visit Sri Lanka in August
+
+*2024-06-10 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-likely-to-visit-Sri-Lanka-in-August/108-284514) · `en`
+
+June 10 (Daily Mirror) - Indian Prime Minister Narendra Modi is likely to visit Sri Lanka in August this year, officials from the President's office told journalists here.
+
+President Ranil Wickremesinghe who attended the swearing-in ceremony of Prime Minister Modi had invited the latter to visit Sri Lanka when the duo met on Sunday at Rasthrapati Bhavan.
+
+Wickremesinghe had discussed the visit of Prime Minister Modi with Indian External Affairs Minister S. Jaishankar in Delhi on Monday. Both the President and the Indian External Affairs Minister discussed the visit of the Indian Leader during which it was revealed that the visit is likely to take place in August this year. Jaishankar had assured President Wickremesinghe that he would visit Sri Lanka soon and look into the Indian Prime Minister's visit.
+
+◼️
+
+[Data](articles/bc4025d7.json)
+
+---
 
 ### Lambi skin disease affecting cows in Nuwara Eliya district
 
@@ -88,6 +234,24 @@ OIC / Mirihana Special Criminal Investigation Division - 071 8137 373
 
 ---
 
+### Sajith says SJB government will implement Sri Lanka’s 13th amendment
+
+*2024-06-10 14:06:00* · [`economynextcom`](https://economynext.com/sajith-says-sjb-government-will-implement-sri-lankas-13th-amendment-167186/) · `en`
+
+ECONOMYNEXT —  A government led by Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) will implement the 13th amendment to the constitution, opposition leader Sajith Premadasa said, also claiming that people in the north have become addicted to false promises made by politicians.
+
+Speaking at an event in Jaffna on Sunday June 09, Premadasa said an SJB government would ensure all civil and economic rights of the people.
+
+“People in Jaffna district and the northern province have become addicted to the candy politics (losinjara deshapalanaya) of various leaders. They hand out these candies at election time.
+
+“We will end the period that people fell for candy. Not just your civil rights, we will also provide economic, social, religious, cultural, educational health and right to life, as well as the right to a good income avenue to our beloved people,” said Premadsa.
+
+...
+
+[Data](articles/37958496.json)
+
+---
+
 ### Suspected suspect in soil Podda caught at airport
 
 *2024-06-10 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197602) · `si`
@@ -107,6 +271,26 @@ It is said that he had been shot dead in July 2022, after he was shot dead in Ju
 [Data](articles/4a465d6c.json)
 
 [Extended Data](ext_articles/4a465d6c.ext.json)
+
+---
+
+### Sri Lanka will be able to better penetrate India market with ECTA: ILCCI chief
+
+*2024-06-10 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-be-able-to-better-penetrate-india-market-with-ecta-ilcci-chief-167185/) · `en`
+
+ECONOMYNEXT – Sri Lankan businesses have a lot to learn and gain from India, the Indo Lanka Chamber of Commerce and Industry (ILCCI) has said.
+
+“This is a golden opportunity for us to integrate our economies we have much to learn and gain from India, we as a business should be pushing them for the ECTA and this will definitely take us to the next level in penetrating such a huge market,” President of ILCCI, Muthukumaraswamy Raghuraman said.
+
+He was speaking at an interactive session with High Commissioner of India to Sri Lanka Santosh Jha, at Taj Samudra Colombo.
+
+An Evening of Insight and Dialogue: Interactive Session with H.E. Santosh Jha, High Commissioner of India to Sri Lanka
+
+The Indo Lanka Chamber of Commerce & Industry (ILCCI) hosted a captivating evening interactive session with H.E. Santosh Jha, High Commissioner of India to Sri Lanka, at Taj Samudra Colombo. The event brought together business leaders and industry experts for a night of engaging discussions and networking.
+
+...
+
+[Data](articles/1aff787f.json)
 
 ---
 
@@ -249,6 +433,30 @@ In addition, a large number of passengers have traveled on some of the trains th
 [Data](articles/a1e1ec1f.json)
 
 [Extended Data](ext_articles/a1e1ec1f.ext.json)
+
+---
+
+### Child killed when wall collapsed in Vavuniya Omanthai area
+
+*2024-06-10 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185733) · `ta`
+
+In Vavuniya, Omanthai, a tragic incident occurred where a two-month-old baby fell into a collapsing wall in the Veler Chinnakulam area, leading to the child's death. The family, including the infant, were visiting relatives when the accident happened. Despite immediate medical attention at the Vavuniya General Hospital, the baby succumbed to injuries.
+
+🟩
+
+A two -month -old baby has died after falling into the wall of the new Veler Chinnakulam area in Vavuniya.
+
+Mullaitivu. Sindhujan has come to his sister's home in Vavuniya with his wife and two -month -old child.
+
+At about 5 pm yesterday, the house in the house had fallen on the child while staying at the temporary house of her sister.
+
+The child was immediately taken to the Vavuniya General Hospital, but the child died.
+
+◼️
+
+[Data](articles/93033792.json)
+
+[Extended Data](ext_articles/93033792.ext.json)
 
 ---
 
@@ -616,27 +824,23 @@ Macron's Renasans's party receives 15 percent of the votes, which receives 31 pe
 
 ---
 
-### Child killed when wall collapsed in Vavuniya Omanthai area
+### පස්පොඩ්ඩාට වෙඩි තැබූ වෙඩික්කරු කටුනායකදි අල්ලයි
 
-*2024-06-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185733) · `ta`
+*2024-06-10 12:04:50* · [`adalk`](https://www.ada.lk/breaking_news/පස්පොඩ්ඩාට-වෙඩි-තැබූ-වෙඩික්කරු-කටුනායකදි-අල්ලයි/11-410116) · `si`
 
-In Vavuniya, Omanthai, a tragic incident occurred where a two-month-old baby fell into a collapsing wall in the Veler Chinnakulam area, leading to the child's death. The family, including the infant, were visiting relatives when the accident happened. Despite immediate medical attention at the Vavuniya General Hospital, the baby succumbed to injuries.
+ගම්පහ ප්‍රදේශයේ ප්‍රබල සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකුව සිටි " පස් පොඩ්ඩා " නැමැත්තාට වෙඩි තබා ඝාතනය කර , එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර වෙත පළා ගොස් සිටි වෙඩික්කරු  06/10 දින උදෑසන  යළි මෙරටට පැමිණෙමින් සිටියදී කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන නිලධාරීන් විසින් අත් අඩංගුවට ගෙන ගුවන් තොටුපොළ පොලිසිය වෙත භාර දීමට පියවර ගෙන තිබේ .
 
-🟩
+මොහු මීගමුව , කිඹුලපිටිය ප්‍රදේශයේ පදිංචි 28 හැවිරිදි ඇටැම්පොළ ආරච්චිලාගේ අවිෂ්ක මධුසංඛ නැමැති අයෙකි .
 
-A two -month -old baby has died after falling into the wall of the new Veler Chinnakulam area in Vavuniya.
+මොහු ගම්පහ " පස් පොඩ්ඩා " ට ඉකුත් 2022 ජූලි මස වෙඩි තබා ඝාතනය කිරීමෙන් පසුව , එසැනින් එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර බලා පළා ගොස් තිබුණි .
 
-Mullaitivu. Sindhujan has come to his sister's home in Vavuniya with his wife and two -month -old child.
+ඉන්පසුව 06/10 දින උදෑසන 06.07 ට සජා නුවර සිට එයාර් ඇරේබියා ගුවන් සේවයේ ජී.එන්. - 502 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
 
-At about 5 pm yesterday, the house in the house had fallen on the child while staying at the temporary house of her sister.
+එසේ පැමිණෙමින් සිටි මෙම වෙඩික්කරු වෙත ගුවන් ගමන් තහනමක් ගම්පහ මහේස්ත්‍රාත් අධිකරණය විසින් පනවා තිබූ අතර , ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් විසින් හදුනා ගෙන , අත් අඩංගුවට ගෙන  , පසුව කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දීමට පියවර ගෙන තිබුණි .
 
-The child was immediately taken to the Vavuniya General Hospital, but the child died.
+...
 
-◼️
-
-[Data](articles/93033792.json)
-
-[Extended Data](ext_articles/93033792.ext.json)
+[Data](articles/62edcd27.json)
 
 ---
 
@@ -2141,225 +2345,5 @@ Speaking at the Collective’s National Conference in Maharagama, Seneviratne sa
 [Data](articles/dc478f4c.json)
 
 [Extended Data](ext_articles/dc478f4c.ext.json)
-
----
-
-### Lawyers’ Collective opposes President’s proposal to extend AG’s term
-
-*2024-06-10 01:37:49* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-opposes-President-s-proposal-to-extend-AG-s-term/56-762864) · `en`
-
-Lawyers’ Collective, a civil society group comprising legal professionals, has voiced its opposition to the recent recommendation by President Ranil Wickremesinghe to extend the term of Attorney General Sanjaya Rajaratnam beyond the mandatory retirement age of 60. In a letter addressed to the members of the Constitutional Council, the Prime Minister, and other key figures, the letter outlined several serious concerns regarding the proposal.
-
-The Collective recalled a similar situation in 2008 when an attempt to extend the term of an Attorney General resulted in a Fundamental Rights application before the Supreme Court. They noted that this legal challenge ultimately led to the Attorney General in question opting for retirement rather than accepting the extension. According to the Collective, the Constitution does not empower the Constitutional Council to approve extensions for officials who are subject to a mandatory retirement age, thereby rendering such a proposal legally questionable.
-
-...
-
-[Data](articles/359d8c94.json)
-
-[Extended Data](ext_articles/359d8c94.ext.json)
-
----
-
-### Warm welcome to President in India
-
-*2024-06-10 01:37:18* · [`dailyftlk`](https://www.ft.lk/news/Warm-welcome-to-President-in-India/56-762863) · `en`
-
-President Ranil Wickremesinghe received a warm welcome including a performance by traditional dancers yesterday on his arrival at the Indira Gandhi International Airport New Delhi to participate at the swearing in ceremony of Prime Minister Narendra Modi for his third term. Wickremesinghe was received by Indian Foreign Ministry Secretary P. Kumaran, Indian Ocean Affairs Secretary Punin Agrawal, Indian High Commissioner in Colombo Santhosh Jha and Sri Lankan High Commissioner in India Shenuka Seneviratne.
-
-◼️
-
-[Data](articles/707feb5d.json)
-
-[Extended Data](ext_articles/707feb5d.ext.json)
-
----
-
-### Gaza health ministry says Israeli hostage rescue killed 274 Palestinians
-
-*2024-06-10 01:35:48* · [`dailyftlk`](https://www.ft.lk/news/Gaza-health-ministry-says-Israeli-hostage-rescue-killed-274-Palestinians/56-762862) · `en`
-
-BBC: The Hamas-run health ministry in Gaza says an Israeli raid on a refugee camp – which led to the rescue of four hostages – killed 274 people, including children and other civilians.
-
-On Saturday Israel’s forces, backed by air strikes, fought intense gun battles with Hamas in and around the Nuseirat refugee camp, freeing the captives.
-
-Noa Argamani, 26, Almog Meir Jan, 22, Andrei Kozlov, 27, and Shlomi Ziv, 41, who were abducted from the Nova music festival on 7 October have been returned to Israel.
-
-The Israeli military has estimated that fewer than 100 people died in the operation.
-
-But the latest figures from the Hamas-run health ministry in Gaza would, if confirmed, make it one of the deadliest days of the conflict so far.
-
-People living in the densely-populated area have described the terror of coming under intense bombardment and heavy gunfire.
-
-One man, Abdel Salam Darwish, told the BBC he was in a market buying vegetables when he heard fighter jets from above and the sound of gunfire.
-
-...
-
-[Data](articles/c526ec97.json)
-
-[Extended Data](ext_articles/c526ec97.ext.json)
-
----
-
-### USAID supports SL in enhancing investment climate through commercial Alternative Dispute Resolution
-
-*2024-06-10 01:34:39* · [`dailyftlk`](https://www.ft.lk/business/USAID-supports-SL-in-enhancing-investment-climate-through-commercial-Alternative-Dispute-Resolution/34-762861) · `en`
-
-A ceremony in Colombo honoured newly trained commercial mediators, attended by US Embassy Deputy Chief of Mission Doug Sonnek (centre). These mediators received their training as part of USAID’s Efficient and Effective Justice activity
-
-A group of newly accredited commercial mediators initiate a mock mediation demonstration with a handshake during a ceremony. This event celebrates their successful training, supported by USAID’s Efficient and Effective Justice activity
-
-The United States, through the United States Agency for International Development (USAID), is supporting Sri Lanka’s efforts to improve its investment climate by enhancing access to commercial alternative dispute resolution (ADR).
-
-...
-
-[Data](articles/d041d063.json)
-
-[Extended Data](ext_articles/d041d063.ext.json)
-
----
-
-### India won Pakistan by 6 runs
-
-*2024-06-10 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185703) · `ta`
-
-In the R20 World Cup, India secured a 6-run victory over Pakistan in a closely contested match. This win significantly boosts India's chances of advancing to the first round. Pakistan suffered a setback, losing 7 wickets in 20 overs and managing only 113 runs. Key performers included Mohammed Rizwan with 31 runs for Pakistan and Jasprit Bumrah and Hardik Pandya with notable contributions for India. The match was marked by strategic errors and unexpected performances, particularly from India's batting lineup, which struggled to meet expectations despite a strong showing from Rishabh Pant.
-
-🟩
-
-India won by 6 runs in the R20 World Cup for the most exciting A Group, which was completed shortly before the New York and Nasav Cantry International Stadium between India and Pakistan.
-
-With this victory, the team for the A team has increased its chance of playing the first round of India in the first place.
-
-The defeat has caused a major crisis for Pakistan, who lost to the United States in the Super over.
-
-Pakistan lost 7 wickets in 20 overs and lost 113 runs.
-
-When the total number was 26 runs, team captain Babar Azam, Usman Khan and Bakar Zaman, followed by 13 runs, were playing in a steady interval with 13 runs.. (73 - 3 wig.)
-
-On the other hand, Mohammed Rizwan scored 31 runs when he scored 31 runs.. (80 - 4 wig.)
-
-Shadab Khan, who was considered to be a confidence in the Pakistan team, scored only 4 runs.
-
-In the last ball of the 19th over of Jasprit Bumrah, Iptikar Ahmad needed a further 18 runs for the last over to lose 6 with 5 runs.
-
-...
-
-[Data](articles/9a817474.json)
-
-[Extended Data](ext_articles/9a817474.ext.json)
-
----
-
-### Govt. advances tax revenue reforms: Siyambalapitiya
-
-*2024-06-10 01:29:33* · [`dailyftlk`](https://www.ft.lk/business/Govt-advances-tax-revenue-reforms-Siyambalapitiya/34-762860) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya last week announced that the Government is progressively implementing measures to develop and regularise tax revenue collection through its various revenue departments.
-
-Speaking during the Parliamentary debate on the Public Debt Management Act last Friday, Siyambalapitiya highlighted the role of the Parliamentary Committee on Ways and Means in overseeing the country’s financial affairs.
-
-“This committee is tasked with addressing issues related to taxation, duties, and other Government levies, and proposing appropriate methods to the Finance, Economic Stabilisation and National Policy Ministry,” he added.
-
-The State Minister emphasised that this oversight has been instrumental in supporting policy changes and improving revenue collection strategies.
-
-Siyambalapitiya noted that the Inland Revenue Department (IRD) is already leveraging new recommendations to streamline taxpayer registration processes and enhance the recovery of outstanding taxes.
-
-...
-
-[Data](articles/79c7e1fc.json)
-
-[Extended Data](ext_articles/79c7e1fc.ext.json)
-
----
-
-### Letters from now: Election musings
-
-*2024-06-10 01:26:04* · [`dailyftlk`](https://www.ft.lk/columns/Letters-from-now-Election-musings/4-762859) · `en`
-
-I must apologise for the lengthy delay. After eight and a half years of five days a week of mainly live TV programs I simply had to take a break and here I am writing to you – the powers that be, may give me a slot on TV again but that’s an entirely different trajectory.
-
-For now, dear Sinna, let me share with you what I heard from my rather dear friend Raj Uncle who never left the North when Prabha started to be a pain in the side of JR and PrayMay and Chandrika Missy and the others who followed.
-
-Best bit is, he never even contemplated leaving the land of his birth.
-
-...
-
-[Data](articles/3e2450b6.json)
-
-[Extended Data](ext_articles/3e2450b6.ext.json)
-
----
-
-### Poverty and homelessness stare elders in the face - EDITORIAL
-
-*2024-06-10 01:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Poverty-and-homelessness-stare-elders-in-the-face-EDITORIAL/172-284470) · `en`
-
-Not many decades ago, our country was held up worldwide for its welfare state policies. Today, unfortunately, such praises are but a distant dream. Poverty rules the day-to-day life for a large number of our citizens.
-
-Yet none of the political parties who are now canvassing for our vote, have come out with a single concrete proposal of how they intend to get this country out of its present dilemma.
-
-In these columns, we have highlighted times out of number, the huge difference between the average wage and the cost a family of four needs to bear if they are to have two square meals a day. That cost amounted to over rupees one hundred thousand a month!
-
-On the tea and rubber plantations -until the president recently forced owners to pay workers Rs. 1,700 per day workers were paid less than Rs. 1,000 per day. Daily paid or casual workers elsewhere in the country who form a majority of the country’s workforce receive less than Rs. 55,000 per month.
-
-...
-
-[Data](articles/c21f76e6.json)
-
-[Extended Data](ext_articles/c21f76e6.ext.json)
-
----
-
-### From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies
-
-*2024-06-10 01:20:58* · [`dailyftlk`](https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) · `en`
-
-“The definition of insanity is doing the same thing over and over again and expecting different results”
-
-I am replying to Cathrine Weerakkody’s (hereafter referred to as Weerakkody) article titled, “President Ranil’s handling of the crisis and what’s next for Sri Lanka”, dated 7 June 2024, in the Daily FT (https://www.ft.lk/opinion/President-Ranil-s-handling-of-the-crisis-and-what-s-next-for-Sri-Lanka/14-762758).
-
-This reply aims to present a more nuanced perspective, encouraging readers to critically evaluate the narratives put forth and consider the multifaceted challenges facing Sri Lanka.
-
-...
-
-[Data](articles/7ce23d2b.json)
-
-[Extended Data](ext_articles/7ce23d2b.ext.json)
-
----
-
-### Sampath Bank Launches Innovative Mini-POS Solution, Empowering SMEs to Boost Sales and Enhance Customer Experience
-
-*2024-06-10 01:15:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience-2/) · `en`
-
-Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
-
-As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
-
-...
-
-[Data](articles/50be84b1.json)
-
-[Extended Data](ext_articles/50be84b1.ext.json)
-
----
-
-### MCCI delivers fully renovated filling station to Sinopec
-
-*2024-06-10 01:15:00* · [`islandlk`](http://island.lk/mcci-delivers-fully-renovated-filling-station-to-sinopec/) · `en`
-
-The entire renovation of a Sinopec filling station in Sri Lanka, fully funded by Sinopec Overseas, was completed by MCC International Incorporation Ltd. (MCCI) on June 4.
-
-The agreement for the full renovation of Sinopec’s Ariyadasa Filling Station in Colombo was signed on April 22, 2024. It was MCCI’s first construction project in the petrochemical industry Sri Lanka, involving industrial risks, a tight schedule, and many challenges.
-
-MCCI made arrangements with various departments working together seamlessly, organising a strong team to quickly commence construction. The project officially started on May 11.
-
-With the strong support and assistance of Sinopec’s specialists, MCCI team has overcome adverse effects such as shipping delays and construction during the rainy season, completing the safety hazard modifications in seven days and the entire renovation was completed in six days, achieving the goal of “MCC Speed, Sinopec Quality”.
-
-...
-
-[Data](articles/d526b0c4.json)
-
-[Extended Data](ext_articles/d526b0c4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-10 19:53:08**
+As of **2024-06-10 20:05:44**
 
 ## Newspaper Stats
 
@@ -26,57 +26,75 @@ adaderanasinhalalk | 4,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,608 (100.0%) of 29,611 articles have been extended.
+29,611 (100.0%) of 29,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-10 (Monday)
 
-### பல வாகனங்களை மோதித்தள்ளிய பேருந்து
+### Bus
 
 *2024-06-10 19:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-வாகனங்களை-மோதித்தள்ளிய-பேருந்து/175-338716) · `ta`
 
-இதில் இரண்டு கார்கள் மற்றும் மோட்டார் சைக்கிள் ஒன்றுடன் பேருந்து மோதியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A bus carrying office staff collided with two cars and a motorcycle, causing an accident.
 
-அலுவலக ஊழியர்களை ஏற்றிச் சென்ற பேருந்து ஒன்றே இவ்வாறு விபத்துக்குள்ளாகியுள்ளதாக மேலதிக தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+Two cars and a motorcycle are reported to have been hit by a bus.
+
+Further sources say that the bus carrying office staff has crashed.
 
 ◼️
 
 [Data](articles/68124df3.json)
 
+[Extended Data](ext_articles/68124df3.ext.json)
+
 ---
 
-### කාසියේ වාසිය දකුණු අප්‍රිකාවට
+### The toss of the coin to South Africa
 
 *2024-06-10 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197613) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බංග්ලාදේශ කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර තරගය අද (10) පැවැත්වෙයි.
+Today's World Cup match features Bangladesh against South Africa. The toss will decide who bats first.
+
+🟩
+
+The match between the Bangladesh team and South African team will be held today (10) in the World Cup.
 
 ◼️
 
 [Data](articles/847b6f5a.json)
 
+[Extended Data](ext_articles/847b6f5a.ext.json)
+
 ---
 
-### රටම කතාවූ වැටුප ගැන අද ලැබුණු සුබ ආරංචිය
+### The best news for the salary of the story
 
 *2024-06-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197612) · `si`
 
-රජය ගැසට් කළ පරිදි රුපියල් 1,700ක් දක්වා ඉහළ දැමුණු වතු කම්කරු දෛනික වැටුප මුල් වරට ලබාදීම අද (10) සිදු කෙරුණි.
+Estate workers' daily wage increased to Rs. 1,000 by Labor Commissioner, despite opposition from Lanka Plantations Ltd and the Estate Employers' Association. This move follows a protest by the Low Country Plantation Union demanding Rs. 1,700 daily pay.
 
-කම්කරු කොමසාරිස් ජනරාල්වරයා පසුගිය අපේල් 30 වැනිදා නිකුත් කළ ගැසට් නිවේදනය මගින් රුපියල් 1,000ක්ව පැවති වතු කම්කරු දෛනික සම්පූර්ණ වැටුප රුපියල් 1,700ක් දක්වා ඉහළ නැංවීමට තීරණය කර තිබුණි.
+🟩
 
-කෙසේවෙතත්, ලංකා වැවිලි සමාගම සහ වතු හාම්පුතුන්ගේ සංගමය දිගින් දිගටම පැවසුවේ එවැනි වැටුප් වැඩි කිරීමකට එකඟනොවන බවය.
+The first monthly salary of plantation rose to Rs. 1,700 was done today (10).
 
-මෙවන් පසුබිමක මාතලේ, ඇල්කඩුව වැවිලි සමාගම රජයේ තීරණය ප්‍රකාරව වතු කම්කරුවන් සඳහා වැඩිකළ වැටුප් ලබාදීමට අද පියවර ගත්තේය.
+The Commissioner General of Labor has decided to increase the daily salary of the estate workers to Rs. 1,000.
 
-ඒ අනුව අද පස්වරුවේ මාතලේ, ඇල්කඩුව වැවිලි සමාගම් ප්‍රධාන කාර්යාලයේදී වතු කම්කරු ජනතාව වෙත වැඩි කළ දෛනික වැටුප් ප්‍රදානය කෙරුණි.
+However, Lanka Plantations Ltd and the Estate employers' association continued to say that such salary increases would not be in agreement.
 
-මේ අතර, වැඩිකළ රුපියල් 1,700ක දෛනික වැටුප ලබාදෙන ලෙස ඉල්ලමින් පහතරට වතු කම්කරුවන්ගේ සංගමය ඇල්පිටිය නගරයේදී උද්ඝෝෂණයක නිරත විය.
+The decision was made to provide salaries increased by plantation workers in terms of this situation.
+
+Accordingly, the daily salaries of the estate workers were presented to the plantation workers at the Head Office this afternoon.
+
+Meanwhile, the Low Country Plantation Union staged a protest in Elvpitiya town asking for the payment of Rs 1,700 per day.
 
 ◼️
 
 [Data](articles/f6cf0ef0.json)
+
+[Extended Data](ext_articles/f6cf0ef0.ext.json)
 
 ---
 

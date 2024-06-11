@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 05:04:12**
+As of **2024-06-12 05:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,896** Articles*
+*Scraped **29,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,809
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
-virakesarilk | 4,571
+virakesarilk | 4,577
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,809
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,896 (100.0%) of 29,896 articles have been extended.
+29,896 (100.0%) of 29,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### சஜித் பிரேமதாச நாகதீபம் மற்றும் நயினாதீவு ஆலயம் ஆகியவற்றில் வழிபாடுகளில் ஈடுபட்டார்
+
+*2024-06-12 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185872) · `ta`
+
+யாழ். மாவட்டத்தில் உள்ள பல பாடசாலைகளுக்கு ஸ்மார்ட் வகுப்பறைகள் மற்றும் பாடசாலை பஸ் வழங்கி வைக்கும் நிகழ்வுகளில் பங்கேற்பதற்காக யாழ். மாவட்டத்திற்கு விஜயம் மேற்கொண்டுள்ள எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச 11ஆம் திகதி செவ்வாய்க்கிழமை வரலாற்றுச் சிறப்புமிக்க நாகதீப ரஜமகா விகாரைக்குச் சென்று வழிபாடுகளில் ஈடுபட்டதுடன், விஹாராதிபதி அதி வண. நவதகல பதுமகித்தி திஸ்ஸ தேரரை சந்தித்து ஆசி பெற்றார்.
+
+தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள், வரலாற்று சிறப்புமிக்க நயினாதீவு நாகபூசனி அம்மன் ஆலயத்துக்கும் சென்று விசேட வழிபாடுகளை மேற்கொண்டார். ஆலயத்திற்கு சென்ற எதிர்க்கட்சித் தலைவரை, ஊர்காவற்துறை தொகுதி அமைப்பாளர் குருபரன் மதன்ராஜ் , ஆலய அறங்காவலர் சபை உறுப்பினர் ஆகியோர் வரவேற்று, பொன்னாடை போர்த்தி கெளரவித்தனர். ஆலய பிரதம குரு தலைமையில் இடம்பெற்ற சிறப்பு பூஜை வழிபாடுகளில் எதிர்க்கட்சித் தலைவர் கலந்து கொண்டார்.
+
+◼️
+
+[Data](articles/3da2a8b8.json)
+
+---
+
+### யாழ்ப்பாணத்தில் பெருமளவான கேரளக் கஞ்சா மீட்பு!
+
+*2024-06-12 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185871) · `ta`
+
+யாழ்ப்பாணம் குருநகர் பகுதியில் 22 கிலோகிராம் கேரள கஞ்சா பொலிஸாரினால் செவ்வாய்க்கிழமை (11) கைப்பற்றப்பட்டுள்ளது.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் குருநகர் பகுதியில் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின்போது 10 பொதிகளில் 22 கிலோகிராம் கஞ்சா கைப்பற்றப்பட்டது.
+
+கைப்பற்ற கஞ்சாவை யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுத்துள்ள பொலிஸார், சந்தேக நபரை கைது செய்ய நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/5e8f47e4.json)
+
+---
+
+### சுகாதாரமற்ற தெருவோர வியாபாரம் - மூவரிற்குத்  தண்டம்
+
+*2024-06-12 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185870) · `ta`
+
+திருநெல்வேலி பொதுச் சுகாதார பரிசோதகர் பா.சஞ்சீவன் தலைமையிலான பொது சுகாதார பரிசோதகர் குழுவினரால் திருநெல்வேலி, கொக்குவில் பகுதிகளில் கடந்த (மே) மாதம் 29ம் திகதி இரவு தெருவோர வியாபார நிலையங்கள் பரிசோதிக்கப்பட்டன.
+
+இதன்போது மருத்துவ சான்றிதழ் இன்றி உணவைக் கையாண்டமை, தனிநபர் சுகாதாரம் இன்றி உணவைக் கையாண்டமை போன்ற அடிப்படையான சுகாதார வசதிகள் கூட இல்லாமல் சில வியாபார நிலையங்கள் இயங்கியமை பரிசோதனையில் இனங்காணப்பட்டது.
+
+அவ்வாறு இனங்காணப்பட்ட மூன்று வியாபார உரிமையாளர்களிற்கு எதிராக யாழ் மேலதிக நீதவான் நீதிமன்றில் பொதுச் சுகாதார பரிசோதகர் பா. சஞ்சீவன் இனால் வழக்குகள் 10ஆம் திகதி திங்கட்கிழமை தாக்கல் செய்யப்பட்டது. வழக்குகளை அன்றைய தினமே விசாரணைக்கு எடுத்துக்கொண்ட மேலதிக நீதவான் செ. லெனின்குமார் மூவரிற்கும் மொத்தமாக 35,000/= தண்டம் அறவிட்டதுடன் கடும் எச்சரிக்கையும் வழங்கினார்.
+
+◼️
+
+[Data](articles/4b5e79c2.json)
+
+---
+
+### இளைஞனை குடிபோதையில் காரினால் மோதிய  வைத்தியருக்கு  5 இலட்சம் ரூபா சரீரப்பிணை
+
+*2024-06-12 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185869) · `ta`
+
+மோட்டார் சைக்கிளில் வீதியால் சென்ற இளைஞனை குடிபோதையில் காரில்  சென்று மோதி தப்பி சென்ற  வைத்தியரை 5 இலட்சம் ரூபா சரீரப்பிணையில் விடுதலை செய்ய நீதிவான் உத்தரவிட்டதுடன் பாதிக்கப்பட்ட இளைஞனுக்கு 1 இலட்சம் ரூபாவினை இழப்பீடாக வழங்க வேண்டும் எனக் கட்டளையிட்டு எதிர்வரும் ஜூலை மாதம் 31 ஆம் திகதி வரை வழக்கினை கல்முனை நீதிவான் நீதிமன்று ஒத்தி வைத்துள்ளது.
+
+குறித்த வழக்கு திங்கட்கிழமை (10)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸாரின் சமர்ப்பணம் உள்ளிட்ட வாதி பிரதிவாதிகளின் சட்டத்தரணிகள் ஆகியோரின் சமர்ப்பணம் வாதங்களின் அடிப்படையில் கல்முனை அஸ்ரப் ஞாபகார்த்த வைத்தியசாலையில் கடமையாற்றுகின்ற பேரிம்பராஜா பகிர்தன் (வயது-41) வயது மதிக்கத்தக்க வைத்தியரை   5 இலட்சம் ரூபா சரீரப்பிணையில் விடுதலை செய்ய நீதிவான் உத்தரவிட்டதுடன் பாதிக்கப்பட்ட இளைஞனுக்கு 1 இலட்சம் ரூபாவினை இழப்பீடாக வழங்க வேண்டும்  என உத்தரவிட்டார்.
+
+...
+
+[Data](articles/44ce0b43.json)
+
+---
+
+### ஐதேகவின் மத்திய கொழும்பு அமைப்பாளராக ஷராப்தீன் நியமனம்
+
+*2024-06-12 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185868) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் மத்திய கொழும்பு தேர்தல் தொகுதி அமைப்பாளராகக் கொழும்பு மாநகர சபையின் சிரேஷ்ட உறுப்பினர் ஷராப்தீன் நியமிக்கப்பட்டுள்ளார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில்  இடம்பெற்ற அமைப்பாளர் நியமன நிகழ்வின் போது ஜனாதிபதியும் கட்சியின் தலைவருமான ரணில் விக்ரமசிங்கவினால் இந்நியமனம் வழங்கிவைக்கப்பட்டது.
+
+ஐக்கிய தேசிய கட்சியின் மத்திய கொழும்பு அமைப்பாளர் பதவியை இதற்கு முன்னர் பழீல் ஏ கபூர்,  டாக்டர் எம்.சீ.எம், கலீல், ரணசிங்க பிரேமதாச, ஜாபிர் ஏ காதர், சிறிசேன குரே, மொஹமட் மஹ்ரூப். முஜிபுர் ரஹ்மான் போன்ற அரசியல் பிரபலங்கள் வகித்திருந்தமை குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/aa86d092.json)
+
+---
+
+### அடி காயங்களுடன் மீட்கப்பட்ட இளைஞன் வாழைச்சேனை வைத்தியசாலையில் அனுமதி!
+
+*2024-06-12 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185867) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட ஓட்டமாவடி பாலத்துக்கு அருகிலிருந்தே அடி காயங்களுடன் இளைஞன் 11ஆம் திகதி செவ்வாய்க்கிழமை மீட்கப்பட்டுள்ளார்.
+
+பாலத்துக்கு அருகில் இரத்தக் காயங்களுடன் இளைஞன் ஒருவர் மயங்கிய நிலையில் கிடப்பதாக கல்குடா அகீல் அனர்த்த அவசர சேவைப் பிரிவுக்கு கிடைத்த தகவலுக்கமைய அதன் பணிப்பாளர் நியாஸ் ஹாஜியார் குழுவினர் இளைஞனை மீட்டு வாழைச்சேனை வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+புத்தளம் பஸ் வண்டியில் வந்த குறித்த இளைஞனும் இன்னுமொரு இளைஞனும் ஓட்டமாவடி - நாவலடி பகுதியில் பஸ் வண்டி நிறுத்தப்பட்டிருந்த போது  வாய்த்தர்க்கத்தில் ஈடுபட்டுள்ளனர்.
+
+வாய்த்தர்க்கம் கைகலப்பாக மாறியதில் குறித்த இளைஞன் மீது மற்றைய இளைஞன் பொல்லால் தாக்கி விட்டு தப்பிச் சென்றுள்ளதாக தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/cf1c2489.json)
+
+---
 
 ### Marikkar alleges JVP-ITN-President’s Office conspiracy behind one-sided debate
 
@@ -2053,149 +2147,5 @@ Police had discovered lumber including walnut, mahogany, and jackfruit being tra
 [Data](articles/de369253.json)
 
 [Extended Data](ext_articles/de369253.ext.json)
-
----
-
-### CoPF calls for immediate action to regulate online casinos
-
-*2024-06-11 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CoPF-calls-for-immediate-action-to-regulate-online-casinos/108-284608) · `en`
-
-Colombo, June 11 - Chair of the Committee on Public Finance, Dr. Harsha de Silva has called for immediate action to regulate online casinos.
-
-Despite existing laws prohibiting their operation, online casinos continue to function openly, depriving the country of significant revenue. Dr. de Silva has directed a formal letter to be sent to the Hon. Minister of Finance, urging prompt attention to this pressing issue.
-
-The call for regulation was a key topic at the recent Committee on Public Finance meeting, chaired by Dr. de Silva on June 6th. During the session, the necessity of establishing a Casino Regulator was underscored.
-
-Representatives from the Ministry of Finance and the Central Bank concurred, noting that many of the current issues surrounding casinos could be effectively managed with the establishment of a regulatory authority.
-
-...
-
-[Data](articles/43585e3d.json)
-
-[Extended Data](ext_articles/43585e3d.ext.json)
-
----
-
-### Constitutional Error Could Give Ranil and Parliament Another Year
-
-*2024-06-11 15:40:00* · [`economynextcom`](https://economynext.com/constitutional-error-could-give-ranil-and-parliament-another-year-167442/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s constitution could allow President Ranil Wickremesinghe to extend his tenure by almost a year due to a mistake in the constitution that has been overlooked since the 19th Amendment in April 2015.
-
-The sweeping 19th Amendment sought to establish democratic reforms, ensure good governance, and shorten the terms of both the president and parliament to five years. However, it neglected to ensure consistency regarding tenure.
-
-While all references to the six-year terms of both the president and parliament were changed to five years in line with the 19th Amendment, Article 83(b) was overlooked and left unchanged, giving President Wickremesinghe a loophole to extend his term.
-
-Any bill to extend the five-year term of the president or parliament requires approval in parliament with a two-thirds majority, followed by endorsement at a referendum.
-
-...
-
-[Data](articles/70eb64d6.json)
-
-[Extended Data](ext_articles/70eb64d6.ext.json)
-
----
-
-### The plane that was traveling in the middle of the night was caught in the rain!
-
-*2024-06-11 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
-
-An Airbus A320-200, en route from Palma de Mallorca to Vienna with 179 passengers and crew, encountered severe hail damage mid-flight. Despite significant damage to its front and cockpit area, including a curved roof and shattered window mirrors, the aircraft's triple-layered windows remained intact, preventing any penetration. The plane managed a safe landing in Vienna, where technicians are assessing the damage. This incident follows a similar event in 2017, highlighting the aircraft's resilience against such weather conditions.
-
-🟩
-
-The Airbus A320-200, owned by the Austria Airlines, has been severely damaged by hail rains.
-
-The aircraft was traveling from Palma de Melioorka, Spain last Sunday (09) with 173 passengers and 6 employees to Vienna, the capital of Oustria.
-
-In the meantime, the front of the aircraft was severely damaged by the hail, the top of the pilot's room was curved and the mirror in the windows.
-
-But the hail did not penetrate the air into the plane with three layers strengthened.
-
-It is worth noting that the aircraft's mirrors are tested to confirm the bipartisan when they are hit by hail or other hard materials while traveling at hundreds of miles per hour.
-
-In this case, the aircraft is safely landing in Vienna regardless of the damage. Technicians are currently investigating the aircraft.
-
-Emmeli Oakli, who was traveling on the plane, described the incident.
-
-"In about 20 minutes before we landed, we entered the hail and thunderstorm. The turmoil began on the plane."said.
-
-...
-
-[Data](articles/0ebba40e.json)
-
-[Extended Data](ext_articles/0ebba40e.ext.json)
-
----
-
-### A new law for LPL groups
-
-*2024-06-11 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197646) · `si`
-
-Harin Fernando, Sri Lanka's Sports Minister, announced a new law aimed at preventing the sale of Lanka Premier League (LPL) teams to unsuitable buyers. He also discussed with the International Cricket Council (ICC), emphasizing the importance of fair play and consequences for losing matches.
-
-🟩
-
-Minister of Sports Harin Fernando says that if a group is purchasing a team from the Lanka Premier League, the laws relating to a proper system of Sri Lanka, "Sports Minister Harin Fernando says.
-
-He said that it would prevent the purchase of LPL groups inappropriate parties.
-
-"I bring another law. I talked that with the ICC. There is no tim in Sri Lanka. They have made their playgasm.. If you lose, there will be one one. "
-
-◼️
-
-[Data](articles/bc1b7862.json)
-
-[Extended Data](ext_articles/bc1b7862.ext.json)
-
----
-
-### Sri Lanka’s MAS Holdings signs agreement to buy Ambercycle material
-
-*2024-06-11 15:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-mas-holdings-signs-agreement-to-buy-ambercycle-material-167441/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based apparel manufacturer MAS Holdings has signed a three-year agreement with Los Angeles-based materials company Ambercycle to buy its recycled material.
-
-Ambercycle’s polyester material, cycora®, is made from post-consumer and post-industrial textile waste.
-
-Made through molecular regeneration technology, cycora yields the same quality as virgin-grade materials, but with lesser greenhouse gas emissions, the companies said in a statement.
-
-It reduces landfill and the need to incinerate end-of-life textiles.
-
-This circular method is in demand among large brands and manufacturers looking for new streams of high-quality next-gen materials made from recycling, or textile-to-textile regeneration as it is known in the industry.
-
-“Together with Ambercycle, MAS is enabling better access to regenerated next-gen material for our customer partners,” MAS Holdings Director of Group Sustainable Business, Nemanthie Kooragamage said.
-
-...
-
-[Data](articles/30986f23.json)
-
-[Extended Data](ext_articles/30986f23.ext.json)
-
----
-
-### High-risk dengue zones increase in Sri Lanka after heavy rainfall
-
-*2024-06-11 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99803/high-risk-dengue-zones-increase-in-sri-lanka-after-heavy-rainfall-) · `en`
-
-The National Dengue Control Unit (NDCU) says that the number of high-risk dengue zones have increased due to the prevailing rainy weather conditions in the country.
-
-Furthermore, the NDCU says that due to the existing weather conditions, there is a rapid increase in dengue cases reported, with 971 cases recorded in the first 11 days of this month.
-
-Meanwhile, a total of 25,891 cases have been reported so far this year.
-
-During this period, 57 dengue deaths were reported across the country, according to the NDCU.
-
-Accordingly, high-risk dengue zones in the island have also increased up to 14.
-
-The highest number of dengue cases has been reported from the Colombo District with 5,624 cases, followed by Jaffna District with 3,939 dengue cases.
-
-Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha District, 1,986 cases from Kandy District, 1,441 from Ratnapura District and 1,372 from Kalutara District, the NDCU said.
-
-◼️
-
-[Data](articles/546c9018.json)
-
-[Extended Data](ext_articles/546c9018.ext.json)
 
 ---

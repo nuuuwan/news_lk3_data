@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 09:34:40**
+As of **2024-06-11 09:54:21**
 
 ## Newspaper Stats
 
-*Scraped **29,721** Articles*
+*Scraped **29,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,89 @@ adaderanalk | 3,359
 tamilmirrorlk | 3,481
 virakesarilk | 4,554
 dailymirrorlk | 4,713
-adaderanasinhalalk | 4,781
+adaderanasinhalalk | 4,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,717 (100.0%) of 29,721 articles have been extended.
+29,721 (100.0%) of 29,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ලොව සංචාරය කිරීමට හොදම රටවල් තුන අතරට ශ්‍රී ලංකාවත්
+### රාජ්‍ය සේවක වැටුප් විෂමතා ගැන තීරණයක්
+
+*2024-06-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197629) · `si`
+
+රාජ්‍ය අංශයේ පවතින වැටුප් විෂමතා විසඳීමට රජයට අවශ්‍ය වුව ද 2024 අයවැය ලේඛනය මඟින් ඒ සඳහා අතිරේක මූල්‍ය ප්‍රතිපාදන ලබාගැනීමේ හැකිවක් නොමැති බව අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+රාජ්‍ය දෙපාර්තමේන්තු, රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ආශ්‍රිත වැටුප් විෂමතා ඇතුළු වැටුප් සම්බන්ධව පවතින ගැටළුවලට විසඳුම් ලබාදීම සඳහා ජනාධිපති ලේකම්වරයාගේ සහ මුදල් අමාත්‍යාංශ ලේකම්වරයාගෙන් සමන්විත කමිටුවක් මේ වන විටත් පත්කර ඇති බව අමාත්‍යවරයා පෙන්වා දෙයි.
+
+ඒ අනුව ඒ සඳහා විසඳුම් නිර්දේශ ඉදිරිපත් කර 2025 අයවැය ලේඛනයෙන් සම්පූර්ණ විසඳුම් ලබාදීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍ය මණ්ඩලය තීරණයකට ද එළඹ ඇති බව ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ස﻿ඳහන් කළේය.
+
+◼️
+
+[Data](articles/346b4ec9.json)
+
+---
+
+### බස් - වෑන් බිහිසුණු අනතුරක්
+
+*2024-06-11 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197628) · `si`
+
+පෞද්ගලික බස් රථයක් සහ වෑන් රථයක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරින් දෙදෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+අද (11) උදැසන 7.30ට පමණ හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන, දියගල ප්‍රදේශයේදී එම අනතුර සිදුව තිබුණි.
+
+එම අනතුරින් තුවාල ලබා රෝහල් ගත කර ඇත්තේ, වෑන් රථයේ ගමන් ගත් රියදුරා සහ තවත් අයෙකි.
+
+මහනුවර සිට හැටන් දක්වා ධාවනය වු පෞද්ගලික බස් රථයක් සහ හැටන් සිට කොළඹ දක්වා ධාවනය වු වෑන් රථයක් එලෙස අනතුරට ලක්ව ඇත.
+
+අධික වේගයෙන් ධාවනය වී ඇති වෑන් රථය ලිස්සාගොස් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු පෞද්ගලික බස් රථයේ ගැටී අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+අනතුරෙන් වෑන් රථ රියදුරා සහ ඉදිරිපස අසුනේ සිටි තවත් අයෙකු සිර වී සිටි බවත්, බස් රථයේ ගමන් ගත් මගීන් විසින් දැඩි පරිශ්‍රමයක් දරා වෑන් රථයේ දොර විවෘත කර තුවාලකරුවන් රෝහල වෙත යොමු කර ඇත.
+
+අනතුරෙන් බස් රථයට සහ වෑන් රථයට දැඩි අලාභ හානි සිදු වී ඇති බව අප වාර්තාකරු පැවසීය.
+
+ප්‍රදේශයේ පවතින වර්ෂාවත් සමග හැටන් - කොළඹ ප්‍රධාන මාර්ගය ලිස්සන සුළු බැවින් එම මාර්ගයේ රථ වාහන ධාවනය කිරීමේදි සැලකිලිමත් වන ලෙස ගිනිගත්හේන පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/a9f943cc.json)
+
+---
+
+### Sri Lanka is among the best countries to visit the world
 
 *2024-06-11 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197627) · `si`
 
-සංචාරය කිරීම සඳහා ලොව හොදම රටවල් තුන අතරට ශ්‍රී ලංකාව ද පත්ව තිබේ.
+Sri Lanka, along with Greece and Morocco, tops Forbes' list for must-visit destinations in 2024, despite facing economic challenges. Known for its lush highlands, stunning coastlines, and 22 national parks, it offers unparalleled luxury for tourists. The report advises avoiding Europe this summer due to its popularity among American travelers, who received 24 million passports in 2022 and 2023, indicating a significant international travel surge.
 
-ෆෝබ්ස් සඟරාව විසින් ප්‍රකාශයට පත්කළ නවතම වාර්තාවකට අනුව 2024 ගිම්හාන සෘතුවේ දී සංචාරය කිරීම සඳහා ලොව හොඳම රටවල් තුන ලෙස ශ්‍රී ලංකාව, ග්‍රීසිය සහ මොරිසිය යන රටවල් නම් කර ඇති බව වාර්තා වේ.
+🟩
 
-මේ වසරේ පළමු කාර්තුව තුළ ලොව මිලියන 285ක පමණ පිරිසක් ජාත්‍යන්තරව සංචාරය කර ඇති අතර එය පසුගිය වසරට සාපේක්ෂව සියයට 20ක වැඩවීමක් බව සඳහන්ය.
+Sri Lanka is among the world's best countries in the world.
 
-ඉදිරි මාස කිහිපය තුළ අමෙරිකානුවන් විශාල පිරිසක් ජාත්‍යන්තරව සංචාරය කිරීමට නියමිත අතර 2022,2023 කාලය තුළ පමණක් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව විදෙස් ගමන් බලපත්‍ර මිලියන 24ක් නිකුත් කර ඇති බව ෆෝබ්ස් සඟරාව පෙන්වා දෙයි.
+According to a latest report published by the Forbes magazine, Sri Lanka, Greece and Morriris, have been named as three countries in the world to visit the 2024 summer.
 
-මේ වසරේ ගිම්හාන සෘතුවේ දී සංචාරකයින් යුරෝපා රටවලින් ඈත්ව සිටිය යුතු බව ද ෆෝබ්ස් සඟරාව පෙන්වා දී තිබේ.
+In the first quarter of this year, about 285 million people were internationally.
 
-සංචාරය කිරීම සඳහා වඩාත්ම සුදුසු ගමනාත්ත ලෙස ශ්‍රී ලංකාව, ග්‍රීසිය සහ මොරිසිය හඳුන්වා දිය හැකි බව එම වාර්තාවේ සඳහන් වේ.
+For the next few months, a large number of Americans will travel internationally and during the year 2022,2023 alone, the US State Department has issued 24 million passports.
 
-ශ්‍රී ලංකාව සශ්‍රීක උස්බිම්වලින් සහ විස්මිත වෙරළ තීරයන්ගෙන් යුත් දූපතක් වන අතර බාලි හා සමාන සංචාරක ආකර්ෂණයක් පවතින බව ෆෝබ් සඟරාව පෙන්වා දෙයි.
+Forbes magazine also pointed out that tourists should stay away from Europe in the summer this year.
+
+The report states that Sri Lanka, Greece and Morrize, can be introduced as the destination for travel.
+
+Sri Lanka is an island of lush highlands and amazing coastal stars, and the fob magazine points out that there is a similar tourist attraction.
+
+The luxury facilities available for tourists is in Sri Lanka and 22 national parks have been achieved in Sri Lanka.
 
 ...
 
 [Data](articles/23079db5.json)
+
+[Extended Data](ext_articles/23079db5.ext.json)
 
 ---
 
@@ -66,7 +116,7 @@ Fairly heavy showers about 75 mm are likely at some places in Western and Sabara
 
 Showers or thundershowers may occur at a few places in Uva province in the evening or night, it said.
 
-Strong winds of about (40-50) kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
 
 The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
@@ -74,25 +124,33 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/347bae53.json)
 
+[Extended Data](ext_articles/347bae53.ext.json)
+
 ---
 
-### சில இடங்களில் ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது
+### Some places are expected of heavy rainfall
 
 *2024-06-11 09:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-ஓரளவு-பலத்த-மழைவீழ்ச்சி-எதிர்பார்க்கப்படுகின்றது/175-338742) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Heavy rainfall is predicted for the Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara, with over 75mm expected in some areas. Thunderstorms and strong winds up to 40-50km/h are also anticipated in various regions, advising caution against lightning impacts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-ஊவா மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+More than 75 mm of heavy rainfall is expected in some places in the Western and Sabaragamuwa provinces and Nuwara Eliya district.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In some places in Uva province, there is a possibility of rainfall or thunderstorms in the evening or at night.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/ae00a5b4.json)
+
+[Extended Data](ext_articles/ae00a5b4.ext.json)
 
 ---
 
@@ -113,6 +171,8 @@ However, when Kagiso Rabada took the key wicket of Towhid Hridoy for 37 the mome
 ...
 
 [Data](articles/034bfcb0.json)
+
+[Extended Data](ext_articles/034bfcb0.ext.json)
 
 ---
 
@@ -2171,51 +2231,5 @@ Sri Lanka has been focusing on sending skilled migrant workers following Nanayak
 [Data](articles/b2da189a.json)
 
 [Extended Data](ext_articles/b2da189a.ext.json)
-
----
-
-### India to establish industrial zone in Trinco; Jaishankar to visit Sri Lanka soon
-
-*2024-06-10 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99790/india-to-establish-industrial-zone-in-trinco-jaishankar-to-visit-sri-lanka-soon-) · `en`
-
-President Ranil Wickremesinghe, who is currently in New Delhi, held a meeting today (10) with India’s External Affairs Minister Dr. S. Jaishankar.
-
-During the meeting, Mr. Jaishankar addressed the swift resumption of development projects initiated in Sri Lanka with Indian investments, which had been halted midway.
-
-He expressed his intent to visit Sri Lanka in the near future to oversee the progress of these activities.
-
-Minister Jaishankar assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and expedite the commencement of development projects funded by Indian investments.
-
-The discussions also covered India’s “Neighborhood First” policy. Minister Jaishankar highlighted plans for an industrial zone in Trincomalee, to be established by the Indian government, which will attract numerous Indian investors and potentially investors from other countries.
-
-...
-
-[Data](articles/a634c6ba.json)
-
-[Extended Data](ext_articles/a634c6ba.ext.json)
-
----
-
-### Kollupitiya is a terrible bus accident
-
-*2024-06-10 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197610) · `si`
-
-In Kollupitiya, a tragic bus accident occurred when a modern bus, previously used by a transport office for its employees, collided with several vehicles due to a brake failure. The accident involved the bus crashing into two cars and a motorcycle.
-
-🟩
-
-A bus collided with several vehicles in Kollupitiya.
-
-Further information is reported that a bus was traded by a traditional bus to transport office employees.
-
-The accident will be held due to the brake act of the bus.
-
-It is reported that the bus was accidental confronting two cars and motorcycle.
-
-◼️
-
-[Data](articles/802344ed.json)
-
-[Extended Data](ext_articles/802344ed.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 00:07:02**
+As of **2024-06-12 00:19:06**
 
 ## Newspaper Stats
 
-*Scraped **29,870** Articles*
+*Scraped **29,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 279
 bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
-economynextcom | 1,714
+economynextcom | 1,717
 dailyftlk | 1,788
-adalk | 2,563
+adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
-virakesarilk | 4,570
+virakesarilk | 4,571
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,809
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,869 (100.0%) of 29,870 articles have been extended.
+29,870 (100.0%) of 29,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,17 +56,43 @@ Accordingly, Pakistan scored 107 runs for the loss of 3 wickets for the loss of 
 
 ---
 
-### போர் நிறுத்த தீர்மானத்திற்கு ஹமாஸ் சம்மதம்
+### Hamas consent to ceasefire resolution
 
 *2024-06-11 23:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போர்-நிறுத்த-தீர்மானத்திற்கு-ஹமாஸ்-சம்மதம்/50-338788) · `ta`
 
-ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிறைவேற்றப்பட்ட போர் நிறுத்த தீர்மானத்திற்கு ஹமாஸ் அமைப்பு சம்மதம் தெரிவித்துள்ளது.
+Hamas accepts UN ceasefire resolution while Israel calls for airstrikes in Gaza's south.
 
-இதேவேளை, இஸ்ரேல் இராணுவம் காசாவின் தெற்கு பகுதி முழுவதும் வான்வழித்தாக்குதல்களுக்கு அழைப்பு விடுத்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. (a)
+🟩
+
+Hamas has agreed to the ceasefire resolution passed at the United Nations Security Council.
+
+Meanwhile, foreign media have reported that the Israeli army has called for air strikes throughout Gaza's southern part of Gaza.. (A)
 
 ◼️
 
 [Data](articles/02f6a6f0.json)
+
+[Extended Data](ext_articles/02f6a6f0.ext.json)
+
+---
+
+### இலங்கை மகளிர் குழாத்தில் 2 வருடங்களின் பின்னர் சச்சினி நிசன்சலா
+
+*2024-06-11 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185864) · `ta`
+
+மேற்கிந்தியத் தீவுகளுக்கு எதிராக சனிக்கிழமை (16) ஆரம்பமாகவுள்ள 3 போட்டிகளைக் கொண்ட மகளிர் சர்வதேச ஒருநாள் இருதரப்பு  கிரிக்கெட்   மற்றும் ஐசிசி மகளிர் சம்பியன்ஷிப் தொடரில் விளையாடவுள்ள இலங்கை குழாம் அறிவிக்கப்பட்டுள்ளது.
+
+சமரி அத்தபத்து தலைமையில் 16 வீராங்கனைகளைக் கொண்ட இலங்கை மகளிர் கிரிக்கெட் குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் தெரிவுக்குழு பெயரிட்டுள்ளது.
+
+இலங்கை குழாத்தில் இடம்பெறும் பெரும்பாலான சிரேஷ்ட வீராங்கனைகள் 30 வயதைக் கடந்தவர்களாவர். ஐவரே 25 வயதுக்குட்பட்டவர்களாவர்.
+
+அவர்களது அனுபவம் இலங்கை அணிக்கு சாதகமான முடிவுகளைப் பெற்றுக் கொடுக்கும் என கருதப்படுகிறது.
+
+இலங்கைக்கும் மேற்கிந்தியத் தீவுகளுக்கும் இடையிலான 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ச சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஜூன் 15, 18, 21ஆம் திகதிகளில் நடைபெறவுள்ளது.
+
+...
+
+[Data](articles/46530e23.json)
 
 ---
 
@@ -446,6 +472,24 @@ Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secret
 
 ---
 
+### AKD on Sri Lanka’s ethnic issue: NPP concerned with future, not past
+
+*2024-06-11 20:03:00* · [`economynextcom`](https://economynext.com/akd-on-sri-lankas-ethnic-issue-npp-concerned-with-future-not-past-167530/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) is concerned not with the past but the future, NPP leader Anura Kumara Dissanayake said following a discussion with representatives of the Ilankai Thamil Arasu Kachchi (ITAK) in Jaffna.
+
+Dissanayake told reporters on Tuesday June 11 that the NPP in their manifesto for the 2019 presidential election had recognised the need for Sri Lanka’s provincial council system to continue.
+
+“We must also have a dialogue on moving forward. There is a need for constitutional changes. We must also implement the provisions in the constitution that establish peace,” he said.
+
+“In the present, we’re not about the past but how to create the future. To do that, Tamil people should be given a strong guarantee of rights in politics. They must be given a right make decisions for themselves. If everyone lives in the past, we will not be able to create a future,” said Dissanayake.
+
+...
+
+[Data](articles/a79b9ec3.json)
+
+---
+
 ### The people are now watching to win the quart
 
 *2024-06-11 19:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-දැන්-බලාගෙන-ඉන්නෙ-පොහොට්ටුව-දිනවන්නට/11-410159) · `si`
@@ -516,6 +560,24 @@ For the next five years for the health service, about 70 billion rupees for the 
 
 ---
 
+### තැපෑල අද වැඩ වරයි
+
+*2024-06-11 19:47:01* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල-අද-වැඩ-වරයි/11-410157) · `si`
+
+ඉල්ලීම් දෙකක් මුල් කර ගනිමින් අද(12දා) මාධ්‍යම රාත්‍රී 12.00 සිට පැය 24ක කාලයක්   තැපැල් දෙපාර්තමේන්තුවේ සේවකයන් අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්වන බව තැපැල් වෘත්තීය සමිති ඒකාබද්ධ පෙරමුණ සඳහන් කරයි.
+
+මෙම වැඩවර්ජන ක්‍රියාමාර්ගය සඳහා වෘත්තීය සමිති 23කට අයත් සේවකයන් විසිඑක්දහසක් සම්බන්ධ වන බවත් මෙම ක්‍රියාමාර්ගයට අනුව නිසි ප්‍රතිචාර නොමැති වුවහොත් 24වන දින සිට අඛණ්ඩ වෘත්තීය ක්‍රියාමාර්ග ගැනීමට තීරණය කර තිබෙන බවත් එම පෙරමුණේ කැඳවුම්කරුචින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+
+තැපැල් දෙපාර්තමේන්තුව තුළ පුරප්පාඩු පන්දහසකට අධික ප්‍රමාණයක් ඇති වීතිබෙන බවත් පවතින පුරප්පාඩු සම්පූර්ණ නොකිරීම නිසා සේවා සැපයීමේදී ගැටලු රැසක් ඇති වී තිබෙන බවද පවසා සිටියේය.
+
+මීට අමතරව උපතැපැල් ස්ථානාධිපති තනතුරේ හාරසියකට ආසන්න ප්‍රමාණයක් වැඩබලන පදනමින් වසර ගණනාවක් සේවය කරමින් තිබෙන බවත් මෙම පිරිස් සේවයේ ස්ථිර කරන ලෙසට බලධාරීන්ගෙන් අවස්ථා කිහිපයකදී ඉල්ලීම් කර තිබෙන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/048d5841.json)
+
+---
+
 ### To the coin to Pakistan
 
 *2024-06-11 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197653) · `si`
@@ -535,6 +597,22 @@ The Pakistan won two matches and remained in the fourth place and remains the th
 [Data](articles/8075bb50.json)
 
 [Extended Data](ext_articles/8075bb50.ext.json)
+
+---
+
+### Sri Lanka environmentalists, Bishop file FR petition over Indian Adani’s Mannar wind power deal
+
+*2024-06-11 19:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-environmentalists-bishop-file-fr-petition-over-indian-adanis-mannar-wind-power-deal-167527/) · `en`
+
+ECONOMYNEXT – Three eminent environmentalists and a Bishop have filed a fundamental rights (FR) petition in Sri Lanka’s Supreme Court over Adani Green Energy’s Mannar wind power plant citing lack of transparency, secrecy of public information, biased environmental impact assessement (EIA), and the pricing, a court document showed.
+
+Eminent environmentalists Rohan Pethiyagoda, professor Nimal Gunatilleke, and Professor Sarath Kotagama along with Bishop of Mannar Reverend Fr. Bastian, filed a fundamental rights petition in the public interest, against the procurement and construction of the proposed 250-megawatt wind power project in Mannar.
+
+The project has been awarded on an unsolicited manner to India-based Adani Green Energy PTE Ltd without any competitive bidding.
+
+...
+
+[Data](articles/d688126e.json)
 
 ---
 
@@ -559,6 +637,24 @@ He ordered that a fine of compensation would be charged and that if it was not p
 [Data](articles/06054b96.json)
 
 [Extended Data](ext_articles/06054b96.ext.json)
+
+---
+
+### NPP says will honour debt obligations, Sri Lanka must restructure debt
+
+*2024-06-11 19:18:00* · [`economynextcom`](https://economynext.com/npp-says-will-honour-debt-obligations-sri-lanka-must-restructure-debt-167524/) · `en`
+
+ECONOMYNEXT — Sri Lanka must restructure its debt to come out of its financial crisis, former MP Sunil Handunneththi said, adding that a future National People’s Power (NPP) government will not decline to pay off debts incurred by previous governments.
+
+Speaking at an event on Monday June 10, Handunneththi said NPP representatives that met International Monetary Fund (IMF) officials had asked for time to resolve a number of issues faced by the public.
+
+“We met IMF officials. What we told them clearly was to first allow us to solve our country’s people’s problems first. That’s a reasonable request. If we’re ready to form a government that does not waste, their first attention has to come to us.
+
+“We’re not saying we won’t repay the debt. We won’t say we cannot pay [presidents Ranil Wickremesinghe’s, Mahinda Rajapaksa’s or Gotabaya Rajayakasa’s] debt. As a country we’re bound to pay it. But give us a fair amount of time,” he said.
+
+...
+
+[Data](articles/ee93931e.json)
 
 ---
 
@@ -2175,131 +2271,5 @@ The National Dengue Prevention Unit stated that 2,487 cases were reported from t
 [Data](articles/fbd6dcfd.json)
 
 [Extended Data](ext_articles/fbd6dcfd.ext.json)
-
----
-
-### A letter to the president of Harsha
-
-*2024-06-11 13:05:01* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂගෙන්-ජනපතිට-ලිපියක්/11-410141) · `si`
-
-Despite concerns over revenue loss, the Finance Committee, led by Dr. Harsha de Silva, supports legalizing online casinos to attract foreign investment. They've expedited the process to establish necessary laws and regulations under the Casino Enterprise (Regulatory) Act and considered implications under Section 27 of the Wahak Benefit Act.
-
-🟩
-
-The Committee on Finance Commissioner also revealed that online casino is open to the country, despite the revenue to the country despite the income of the country.
-
-Chairman of the Public Finance Committee (Dr.) Harsha de Silva said that he is working to refer to the Minister of Finance (Dr.).
-
-The Committee on Finance Meeting was held at the meeting of Harsha de Silva.
-
-The Chairman instructed the officers who had been asked to be expedited and further delay to the establishment of the laws that should be obtained from gaming authorities, including casinos, and to attract foreign investors and to attract foreign investors..
-
-Thereafter, the Committee, the Committee under Section 4, and Section 4 under Section 4 of the Casino Enterprise (Regulatory) Act No. 17, 2010, was taken into consideration under Section 4. The Committee then approved the decision and the regulations.
-
-...
-
-[Data](articles/21b5455a.json)
-
-[Extended Data](ext_articles/21b5455a.ext.json)
-
----
-
-### Woman found stabbed and murdered inside house in Thalahena
-
-*2024-06-11 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99801/-woman-found-stabbed-and-murdered-inside-house-in-thalahena) · `en`
-
-A 31-year-old woman has been found attacked with sharp weapons and murdered inside a house in the Thalahena area of Thalangama this morning (11).
-
-According to the police, the woman’s the husband and his friend have attacked the woman with a sharp weapon and murdered her due to an argument between the deceased and her husband on June 06, and that they have then left the house after locking the door.
-
-However, both suspects have later reported the incident to the police and surrendered themselves.
-
-The deceased woman was a resident of the Thalangama area and was living with her husband in a rented house.
-
-Police have arrested both 31-year-old husband, who is from Hingurakgoda, and his accomplice, a 44-year-old from Galewela.
-
-Police further stated that when the body was discovered, they had also found a dog tied up inside the house which had not been fed for about 5 days.
-
-◼️
-
-[Data](articles/4d223dcf.json)
-
-[Extended Data](ext_articles/4d223dcf.ext.json)
-
----
-
-### A US Institution is coming to save cancer
-
-*2024-06-11 12:57:56* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගින්-බේරා-ගන්න-ඇමෙරිකානු-ආයතනයක්-එයි/11-410140) · `si`
-
-A US institution, LDS Charities, has donated $225,000 worth of cancer drugs to Sri Lanka's Ministry of Health, marking the start of a partnership expected to provide over $1 million in essential cancer medications in 2024. This initiative aims to significantly enhance cancer treatment capabilities in the country.
-
-🟩
-
-The Ministry of Health was handed over to the Ministry of Health today (11) this morning.
-
-Director of the Asian region of LDS latter - Day Saints Charites, USA. The stock of drugs was officially handed over by Mr. Mickey LUI and its value is US $ 225,000 / =.
-
-This year (2024) The first pharmaceutical pharmaceuticals received between the Ministry of Health in February and LDS latter - Day Saints (USA). According to the MoU, 13 essential cancer drugs will be received, and its value is over US $ 1 million. It will be enough for cancer treatment in Sri Lanka.
-
-Abiraterone Acetate -250 mg tablet, anastrozoo 1 mg tablebine 50mg tablet, 15mg / 50mg injection, 200mg vial 200mg vial 200mg vial 200mg injection, dacarc Ocetaxel 80mg Injection, Doctaxel 80mg / 4MG VIAL 80m injectionThe stock includes more pills, vaccine varieties, including irinotican 100mg / 5ml vial injection.
-
-...
-
-[Data](articles/e07abd53.json)
-
-[Extended Data](ext_articles/e07abd53.ext.json)
-
----
-
-### Construction of Colombo solid waste management project
-
-*2024-06-11 12:53:29* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-ඝණ-අපද්‍රව්‍ය-කලමනාකරණ-ව්‍යාපෘතියේ-ඉදිකිරීම්-අවසන්/10-410139) · `si`
-
-The Colombo Solid Waste Management Project, initiated by the Ministry of Defense and Urban Development in 2014, aimed to improve waste management in Colombo. Completed in August, it includes the construction of two waste transfer stations and necessary infrastructure. Originally intended for use by the Western Province's local governments, the project now serves a broader area. It features a system for transporting waste via trains, with four engines and 94 containers purchased for this purpose. Despite delays due to the COVID epidemic and economic crisis, the project, costing US$130 million, is set to begin operations soon, with training for operators underway.
-
-🟩
-
-The construction work of the Colombo capitagre managing managulas is completely completed by August, says the Director of the Colombo Waste Management Project Sarath Bandara says.
-
-The project rehearsal investigations are also in place. The rehearsal investigations were started on the 5th. The project was started by the Ministry of Defense and Urban Development in 2014.
-
-The Ministry of Urban Development and Housing has to demolish the limestone in the Puttalam Archalaw and other facilities, including a hygiene demolish and other facilities in the Puttalam Archal area.
-
-Construction of two Kelaniya and Puttalam garbage exchange centers were built and the relevant railway infrastructure and road network.
-
-...
-
-[Data](articles/f04c15db.json)
-
-[Extended Data](ext_articles/f04c15db.ext.json)
-
----
-
-### President's Bidane Galts
-
-*2024-06-11 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197638) · `si`
-
-At a White House evening event, President Joe Biden engaged with social media while surrounded by notable guests. Despite being 81 years old, he delivered a speech and joined in the dance during a performance. The President is also dealing with the loss of his son, Beau Biden, and his brother, Jimmy Biden. Meanwhile, Vice President Kamala Harris danced with renowned singer Kirk Franklin.
-
-🟩
-
-During a function held at the White House, President Joe Biday reads different things in the social media.
-
-The event was held at night and a large number of popular people were present.
-
-International media reports that the 81-year-old President conducted his speech when his speech was held.
-
-The media reports stated that when the general band was talented, the meeting was dancing.
-
-The President was diagnosed with the President of Pironacy Floyd (Brother Flooid's brother) and the President is trying to detect the President's change.
-
-Meanwhile, Vice President of Thala Harris was a title that danced with a famous singer Kirk Franklin.
-
-◼️
-
-[Data](articles/75c1b40e.json)
-
-[Extended Data](ext_articles/75c1b40e.ext.json)
 
 ---

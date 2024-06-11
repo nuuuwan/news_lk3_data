@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 03:04:17**
+As of **2024-06-12 03:19:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,882 (100.0%) of 29,896 articles have been extended.
+29,894 (100.0%) of 29,896 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Addressing a press conference yesterday in Colombo, Marikkar displayed a photogr
 
 [Data](articles/28ed9b1a.json)
 
+[Extended Data](ext_articles/28ed9b1a.ext.json)
+
 ---
 
 ### Harrison predicts significant SJB defection to President’s camp post poll announcement
@@ -72,6 +74,8 @@ Harrison asserted that numerous parties from both the Government and the opposit
 
 [Data](articles/10eb1bbc.json)
 
+[Extended Data](ext_articles/10eb1bbc.ext.json)
+
 ---
 
 ### NMSJ urges immediate Parliamentary action on national unity and justice
@@ -87,6 +91,8 @@ In its press release, the NMSJ stressed the importance of tackling these issues 
 ...
 
 [Data](articles/dfd1aef7.json)
+
+[Extended Data](ext_articles/dfd1aef7.ext.json)
 
 ---
 
@@ -110,6 +116,8 @@ Speaking to the media Dr. Jayatissa emphasised that both officers are distinguis
 
 [Data](articles/bc8c5824.json)
 
+[Extended Data](ext_articles/bc8c5824.ext.json)
+
 ---
 
 ### Sabry meets with Russian Foreign Minister
@@ -128,6 +136,8 @@ In this regard, it was agreed that the forthcoming meeting that is scheduled on 
 
 [Data](articles/16f41368.json)
 
+[Extended Data](ext_articles/16f41368.ext.json)
+
 ---
 
 ### BoardPAC elevates board governance standards through collaboration with Johannesburg Stock Exchange
@@ -143,6 +153,8 @@ In a recent meeting between Team BoardPAC and key stakeholders from the JSE, bot
 ...
 
 [Data](articles/d13d1e4a.json)
+
+[Extended Data](ext_articles/d13d1e4a.ext.json)
 
 ---
 
@@ -161,6 +173,8 @@ In addition to the Gold Awards, another MAS subsidiary, Bodyline Ltd. was also a
 ...
 
 [Data](articles/c9ea9fde.json)
+
+[Extended Data](ext_articles/c9ea9fde.ext.json)
 
 ---
 
@@ -182,6 +196,8 @@ During the meeting in Geneva, ILO Director General Houngbo praised the progressi
 
 [Data](articles/03d317f1.json)
 
+[Extended Data](ext_articles/03d317f1.ext.json)
+
 ---
 
 ### LRC to grant land ownership to 4,151 estate workers living in line rooms
@@ -199,6 +215,8 @@ He said the following recommendations of the New Village Development Authority f
 ...
 
 [Data](articles/1e1ceb18.json)
+
+[Extended Data](ext_articles/1e1ceb18.ext.json)
 
 ---
 
@@ -220,6 +238,8 @@ The proposal aims to provide further reductions in energy charges for these key 
 
 [Data](articles/59debd0d.json)
 
+[Extended Data](ext_articles/59debd0d.ext.json)
+
 ---
 
 ### President forms Expert Committee to address public sector salary disparities
@@ -235,6 +255,8 @@ Presidential Additional Secretary Vernon Perera serves as the Secretary of the s
 ...
 
 [Data](articles/a1b65d3a.json)
+
+[Extended Data](ext_articles/a1b65d3a.ext.json)
 
 ---
 
@@ -257,6 +279,8 @@ The meeting underscored the necessity of establishing a Casino Regulator to addr
 ...
 
 [Data](articles/6e8c08e9.json)
+
+[Extended Data](ext_articles/6e8c08e9.ext.json)
 
 ---
 

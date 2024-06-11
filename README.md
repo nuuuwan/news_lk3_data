@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 21:04:18**
+As of **2024-06-11 21:19:11**
 
 ## Newspaper Stats
 
-*Scraped **29,849** Articles*
+*Scraped **29,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,560
 adaderanalk | 3,375
-tamilmirrorlk | 3,495
+tamilmirrorlk | 3,497
 virakesarilk | 4,566
 dailymirrorlk | 4,731
 adaderanasinhalalk | 4,804
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,848 (100.0%) of 29,849 articles have been extended.
+29,849 (100.0%) of 29,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### ரஷ்யா சென்ற அலி சப்ரியின் அதிரடி நடவடிக்கை
+
+*2024-06-11 20:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யா-சென்ற-அலி-சப்ரியின்-அதிரடி-நடவடிக்கை/175-338773) · `ta`
+
+ரஷ்யா சென்றுள்ள இலங்கை வெளிவிவகார அமைச்சர் அலி சப்ரி, ரஷ்ய வெளிவிவகார அமைச்சர் Sergey Lavrov உடன் நேற்று (10) இருதரப்பு சந்திப்பை மேற்கொண்டார்.
+
+இந்த சந்திப்பின் போது, ​​சுற்றுலா, உயர்கல்வி மற்றும் பொருளாதார ஒத்துழைப்பு உள்ளிட்ட இருதரப்பு உறவுகளை மேலும் மேம்படுத்த இரு வெளியுறவு அமைச்சர்களும் ஒப்புக்கொண்டதாக மொஸ்கோவில் உள்ள இலங்கை தூதரகம் தெரிவித்துள்ளது.
+
+மேலும் இந்த சந்திப்பின் போது அமைச்சர் சப்ரி, ​​ரஷ்ய இராணுவத்தில் இணைந்துள்ள இலங்கை பிரஜைகளின் பிரச்சினையை ரஷ்ய பிரதமரின் கவனத்திற்கு கொண்டு வந்து, அவர்கள் எதிர்நோக்கும் பிரச்சினைகளை தீர்ப்பதற்கு உதவியை நாடினார்.
+
+இது தொடர்பில், வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தலைமையிலான இலங்கை உயர்மட்டக் குழுவிற்கும் ரஷ்ய கூட்டமைப்பின் பாதுகாப்பு பிரதி அமைச்சருக்கும் இடையில் எதிர்வரும் 26 - 27ஆம் திகதிகளில் நடைபெறவிருக்கும் சந்திப்பில் இவைகளை மீளாய்வு செய்ய இணக்கம் காணப்பட்டது.
+
+அமைச்சர் அலி சப்ரியின் வேண்டுகோளுக்கு இணங்க, இலங்கையில் இருந்து மேலும் ஆட்சேர்ப்பு செய்யப்பட மாட்டாது என்றும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/185e6fd2.json)
+
+---
+
+### ஹொரகொல்லவில் துப்பாக்கிச் சூடு
+
+*2024-06-11 20:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹொரகொல்லவில்-துப்பாக்கிச்-சூடு/175-338772) · `ta`
+
+கம்பஹா - ஹொரகொல்ல  பிரதேசத்தில் இன்று (11) பிற்பகல் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாக நிட்டம்புவ பொலிஸார் தெரிவித்தனர்.
+
+இவர் ஹொரகொல்ல பிரதேசத்தில் உள்ள காணி ஒன்றிற்குச் சென்றிருந்த போது இந்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வேட்டை துப்பாக்கியால் இந்த துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/c74fe3f3.json)
+
+---
 
 ### A special committee to solve disparity of salary in the public service
 
@@ -264,19 +300,27 @@ Minister Devananda said an initial meeting was held on Tuesday (11) with all the
 
 ---
 
-### කවුරු බලයට පැමිණියත් IMF ගිවිසුම අනුව කටයුතු කිරීමට සිදුවෙනවා
+### Whoever comes to power, IMF agreement will have to work
 
 *2024-06-11 18:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-බලයට-පැමිණියත්-IMF-ගිවිසුම-අනුව-කටයුතු-කිරීමට-සිදුවෙනවා/11-410151) · `si`
 
-එළඹෙන 2025 වර්ෂය සඳහා අයවැය ලේඛණය සකස්කරන විට කවුරුන් විසින් ආණ්ඩුවක් පවත්වාගෙන ගිය ද ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ 2028 දක්වා සකස් කර ඇති ණය ගිවිසුම් ප්‍රකාරව කටයුතු කළ යුතු බව ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Regardless of who gains power, the IMF agreement must be honored. Minister Bandula Gunawardena emphasized that parties expected to hold state power should adhere to these agreements. Protests and strikes have led to the formation of a committee to address issues across state departments and corporations. Despite government efforts, Budget 2024 lacked additional funding due to insufficient recurrent expenditure. In 2023, total revenue was Rs. 3201 billion, but expenses exceeded Rs. 4.3 trillion. For 2025, the government needs to act with the IMF, requiring significant external resources. Past experiences suggest a need for USD 5018 million, with the IMF agreeing to provide USD 663 million and covering the budget deficit with another USD 700 million. The World Bank offers USD 400 million and USD 300 million, while foreign debt restructuring may lead to USD 3655 million in debt relief. President Ranil Wickremesinghe has the authority to decide on acquiring state power for these agreements, highlighting the necessity of international cooperation for the upcoming budget.
 
-මෙම ගිවිසුම් ප්‍රකාරව කටයුතු කරනවාද නැද්ද යන්න පිළිබඳව රාජ්‍ය බලය ලබාගැනීමට අපේක්ෂා කරන පාර්ශ්ව රටට පැවසිය යුතු බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (10) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media.
+
+He also said that the parties expected to obtain state power regarding these agreements should be said to the country.
+
+Minister Bandula Gunawardena made this statement participating at a press conference held at the Presidential Media Center today (10) at the Presidential Media Center.
+
+Various parties have already implemented protests, strike demonstrations. Accordingly, a committee consisting of the Secretary to the President and the Ministry of Finance has been appointed to address the issues including state departments, state corporations and statutory boards.. President Ranil Wickremesinghe and the Cabinet of Ministers had also taken a decision to provide full solutions from the 2025 budget.
 
 ...
 
 [Data](articles/33ff05fd.json)
+
+[Extended Data](ext_articles/33ff05fd.ext.json)
 
 ---
 
@@ -2289,59 +2333,5 @@ According to the Kalpitiya Police, five persons who have called the land have be
 [Data](articles/61c3dcf2.json)
 
 [Extended Data](ext_articles/61c3dcf2.ext.json)
-
----
-
-### A woman was killed in a house with a sharp instrument
-
-*2024-06-11 10:37:43* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-නිවසක්-තුලදී-කාන්තාවක්--ඝාතනය-කරල/11-410136) · `si`
-
-A woman from the Sakuntalan community in Horana was killed in her home by two masked attackers wearing black clothes. The victim, aged 58, lived with her husband from Bangladesh and her younger sister. The attack occurred around 1:30 to 1:45 am, with the assailants targeting the women while they slept. The motive appears to be robbery, as the attackers stole gold items and cash. The police are investigating the incident, led by Senior Superintendent Chamil Ratnayake, with no leads yet on the identity of the perpetrators.
-
-🟩
-
-Two unidentified people who have entered black clothing in the same family have been attacked by two unidentified people in the house, covering the faces today (11) and killed two unidentified people with a sharp weapon in the house.
-
-The victim was the 58th Sakuntalan of the Mount Sakinuntra, Horana.
-
-Police investigations have revealed that the murdered woman is married to a Bangladesh and he is living in this house with her younger sister.
-
-The youngest sister, an younger sister, was a lodge that a mother of a resident of Ingiriya, had been staying home for about three weeks ago, and around 7.30 pm yesterday.
-
-The victim had gone to sleep in a room near her commanding room in her home room.
-
-The two of the two men who had entered the house between 1.30 and 1.45 am
-
-Police said the bread to shook the limbs of the younger sister and went to the room adjacent to her older sister and had fled the police.
-
-...
-
-[Data](articles/552c994d.json)
-
-[Extended Data](ext_articles/552c994d.ext.json)
-
----
-
-### Head-on collision between bus and van leaves 2 critical
-
-*2024-06-11 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99796/-head-on-collision-between-bus-and-van-leaves-2-critical) · `en`
-
-Two persons were critically injured after a head-on collision between a private bus and a van occurred this morning (11) at around 07.30 am on the Hatton-Colombo main road in the Diyagala area.
-
-The driver of the van and a passenger who were seriously injured in the accident were rushed to the hospital.
-
-The accident involved a private bus travelling from Kandy to Hatton and a van travelling from Hatton to Colombo.
-
-Police stated that the van had been speeding, causing it to veer off and crash into the private bus which was arriving from the opposite direction.
-
-It is reported that the van’s driver and the front seat passenger were trapped inside after the crash and that the passengers of the bus had opened the door of the van with great effort and rushed the injured persons to the hospital.
-
-It is also reported that the collision has left both the bus and the van severely damaged.
-
-...
-
-[Data](articles/383f48b4.json)
-
-[Extended Data](ext_articles/383f48b4.ext.json)
 
 ---

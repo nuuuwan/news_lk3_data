@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 06:20:24**
+As of **2024-06-11 07:00:31**
 
 ## Newspaper Stats
 
-*Scraped **29,683** Articles*
+*Scraped **29,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 271
 dbsjeyarajcom | 278
 bbccomsinhala | 287
 newsfirstlk | 363
-islandlk | 1,601
+islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,477
+tamilmirrorlk | 3,478
 virakesarilk | 4,554
 dailymirrorlk | 4,703
 adaderanasinhalalk | 4,773
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,683 (100.0%) of 29,683 articles have been extended.
+29,683 (100.0%) of 29,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,24 @@ Speaking at a press conference Peiris highlighted that such an extension has not
 [Data](articles/142f90cb.json)
 
 [Extended Data](ext_articles/142f90cb.ext.json)
+
+---
+
+### ஜனாதிபதியுடன் ஜெயசங்கர் சந்திப்பு
+
+*2024-06-11 01:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-ஜெயசங்கர்-சந்திப்பு/175-338740) · `ta`
+
+புதுடில்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இந்திய சிரேஷ்ட அமைச்சர் கலாநிதி எஸ்.ஜெயசங்கருக்கும் இடையிலான சந்திப்பு நேற்று இடம்பெற்றது.
+
+இந்திய முதலீட்டில் இலங்கையில் ஆரம்பிக்கப்பட்டு இடைநடுவில் தடைப்பட்டுள்ள அபிவிருத்தித் திட்டங்களை துரிதமாக மீள ஆரம்பிப்பது குறித்து இங்கு ஆராயப்பட்டுள்ளது. இந்த செயற்பாடுகளை ஆராய்வதற்காக விரைவில் இலங்கைக்கு விஜயம் செய்யவிருப்பதாக ஜெயசங்கர் தெரிவித்தார்.
+
+அண்டை நாடுகளுக்கு முதலிடம் கொடுக்கும் இந்தியாவின் கொள்கை குறித்தும் இந்த சந்திப்பில் கருத்துப் பரிமாறப்பட்டன.
+
+திருகோணமலையை மையமாக கொண்டு இந்திய அரசாங்கத்தினால் ஆரம்பிக்கப்பட இருக்கும் கைத்தொழில் வலயம் தொடர்பாகவும் இதன்போது ஆராயப்பட்டதோடு பல இந்திய முதலீட்டாளர்கள் அங்கு தமது முதலீட்டுகளை மேற்கொள்ளவுள்ளனர் எனவும் இந்த தொழில் வலயத்தில் இந்தியாவைத் தவிர ஏனைய நாடுகளின் முதலீட்டாளர்களையும்  முதலீடு செய்வதற்கு இணைத்துக் கொள்ள எதிர்பார்கின்றோம் எனவும் ஜெய்சங்கர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/d8fea509.json)
 
 ---
 
@@ -612,6 +630,92 @@ Chasing a target of 113, Bangladesh was only 109 runs for the loss of 7 wickets 
 
 ---
 
+### London scene for Benjy
+
+*2024-06-10 23:11:00* · [`islandlk`](http://island.lk/london-scene-for-benjy/) · `en`
+
+Dynamic bassist Benjamin (Benjy) Ranabahu is in London, on vacation.
+
+He left towards the end of last month (May) and says he will be in London till the end of June.
+
+The purpose of his visit is to see his loved ones, family and friends.
+
+Benjy also checked out the stage play ‘MJ the Musical’  and was enthralled by the stage performers who, literally, made Michael Jackson come alive on stage.
+
+They were all British actors, said Benjy, adding that he enjoyed the show thoroughly.
+
+He also mentioned that he has made plans to go for The Drifters concert.
+
+The Drifters are an American pop and R&B/soul vocal group famous for their hits, such as ‘Saturday Night at the Movies’, ‘Under the Boardwalk’ and ‘Save the Last Dance for Me.’
+
+Benjy also indicated that he will be celebrating his birthday, in July, on the beach, at Mount Lavinia.
+
+Yes, he loves spending his free time, with friends, on the beach, and the beach, at Mount Lavinia, is his favourite spot!
+
+...
+
+[Data](articles/96b3672d.json)
+
+---
+
+### Navigating Global Trade Finance: Insights from TFAB’s seminal seminar
+
+*2024-06-10 22:42:00* · [`islandlk`](http://island.lk/navigating-global-trade-finance-insights-from-tfabs-seminal-seminar/) · `en`
+
+Trade finance, a critical yet often overlooked component of commercial banking, plays a vital role in generating substantial profits. Despite its low credit risk, trade finance involves significant operational risks, necessitating highly skilled and continuously trained personnel. The Trade Finance Association of Bankers (TFAB), celebrating its 26th anniversary, addresses this need by enhancing the expertise of trade finance professionals.
+
+TFAB’s dedication to professional development is evident through its annual seminars, evening lectures, and interactive programs. These initiatives ensure that bankers, importers, exporters, lawyers, and business leaders stay updated on global practices and regulatory developments, fostering a spirit of goodwill and collaboration within the industry.
+
+...
+
+[Data](articles/ae65d015.json)
+
+---
+
+### Unilever Sri Lanka inaugurates solar power project at Horana factory, contributing to national renewable energy goals and global sustainability commitments
+
+*2024-06-10 22:41:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-inaugurates-solar-power-project-at-horana-factory-contributing-to-national-renewable-energy-goals-and-global-sustainability-commitments/) · `en`
+
+Unilever Sri Lanka recently inaugurated a new 2.33 MW solar power project at its Horana factory, partnering with Abans Electricals PLC for project execution. This significant step forward in Unilever’s commitment to sustainability and renewable energy represents a total investment of 1.3 million Euros. The project aligns with Unilever’s Global Climate Transition Action Plan (CTAP) and contributes to the ambitious goals set by the Sri Lankan Ministry of Electricity and Energy for transitioning the country’s electricity supply to renewable sources by 2030.
+
+...
+
+[Data](articles/c1d3ee1c.json)
+
+---
+
+### CSE Masterminds – most anticipated capital market quiz competition
+
+*2024-06-10 22:39:00* · [`islandlk`](http://island.lk/cse-masterminds-most-anticipated-capital-market-quiz-competition/) · `en`
+
+The “CSE Masterminds Quiz” competition is back for its sixth edition on 05th July 2024 from 4.30 p.m. onwards at the Main Ballroom, Shangri-La Colombo.
+
+With over Rs. 2 million worth of prizes, the event is expected to draw the interest of both public and private sector companies. Participants will be tested on their knowledge of local and global capital markets, general knowledge, sports, entertainment and current affairs.
+
+CSE Masterminds 2024 will offer a cash prize of Rs. 1,000,000/- for the winning team, with additional cash prizes of Rs. 500,000/- and Rs. 300,000/- awarded to the second and third placed teams, respectively. Sector prizes will also be awarded to the best-performing team of each respective sector.
+
+The Platinum Sponsors for the CSE Masterminds 2024 are Bartleet Religare Securities (Pvt) Ltd and First Capital Holdings PLC whilst the Gold sponsor is Ex-pack Corrugated Cartons PLC.
+
+...
+
+[Data](articles/ed8a09a3.json)
+
+---
+
+### Share market driven by retail investors as IMF third tranche hopes rise
+
+*2024-06-10 22:36:00* · [`islandlk`](http://island.lk/share-market-driven-by-retail-investors-as-imf-third-tranche-hopes-rise/) · `en`
+
+The stock market yesterday was driven by retail investors due to speculation that IMF approval would materialize this week and that Sri Lanka will receive the third tranche of the IMF EFF. This is a great inducement for foreign and local investors to invest in the stock market, analysts said.
+
+Due to these developments the market was bullish and both indices moved upwards. The All Share Price Index went up by 87.11 points while the S and P SL20 rose by 35.2 points. Turnover stood at Rs1.6 billion with one crossing. The crossing was reported in JKH, which crossed 1.25 million shares to the tune of Rs 253 million; its shares traded at Rs 204.
+
+...
+
+[Data](articles/a497ae83.json)
+
+---
+
 ### Non-communicable diseases cause nearly 90% of deaths in Sri Lanka
 
 *2024-06-10 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-communicable-diseases-cause-nearly-90-of-deaths-in-Sri-Lanka/108-284531) · `en`
@@ -631,6 +735,28 @@ To combat this, the Japan International Cooperation Agency (JICA) is investing R
 [Data](articles/c7d403f2.json)
 
 [Extended Data](ext_articles/c7d403f2.ext.json)
+
+---
+
+### Indian Government plans to establish an industrial zone in Trincomalee –  Dr. S Jaishankar
+
+*2024-06-10 22:32:00* · [`islandlk`](http://island.lk/indian-government-plans-to-establish-an-industrial-zone-in-trincomalee-dr-s-jaishankar/) · `en`
+
+President Ranil Wickremesinghe, currently in New Delhi, met Indian Senior Minister Dr. S. Jaishanka today [10]
+
+During the meeting, Dr. Jaishankar highlighted the Indian Government’s plans to establish an industrial zone in Trincomalee which will attract numerous Indian investors and potentially investors from other countries. He also said that the development projects initiated in Sri Lanka with Indian investments, which had been halted midway will be resumed soon.
+
+He also assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and also expedite the stalled development projects funded with Indian investments.
+
+Related Topics:“Neighborhood First” policy.Dr. S. JaishankaIndiaNew DelhiPresident Ranil Wickremesinghestalleddevelopment projetts
+
+Whoever comes to power must comply with IMF Agreement – Minister of Transport, Highways and Mass Media
+
+President extends warm wishes to Narendra Modi on his third term as Prime Minister of India
+
+...
+
+[Data](articles/643186a2.json)
 
 ---
 
@@ -1106,7 +1232,7 @@ It is noteworthy that about 34,000 people are currently working on the pre -scho
 
 ---
 
-### SriLankan drops pepper & salt from economic class dish, makes on demand after survey
+### SriLankan drops pepper & salt from economy class dish, makes on demand after survey
 
 *2024-06-10 19:37:00* · [`economynextcom`](https://economynext.com/srilankan-drops-pepper-salt-from-economic-class-dish-makes-on-demand-after-survey-167286/) · `en`
 
@@ -2037,171 +2163,5 @@ The opposition centre-left Democratic Party came in second with 24% of the vote,
 [Data](articles/a0d32d38.json)
 
 [Extended Data](ext_articles/a0d32d38.ext.json)
-
----
-
-### Sri Lanka, Bangladesh discuss FTA, agriculture modernization, ferry and private investment
-
-*2024-06-10 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-bangladesh-discuss-fta-agriculture-modernization-ferry-and-private-investment-167237/) · `en`
-
-ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina and Sri Lanka President Ranil Wickremesinghe have discussed a free trade agreement, a ferry service, an agricultural modernization program, and encouraging private investment opportunities.
-
-Wickremesinghe and Hasina held bilateral discussions this morning (10) while in New Delhi to attend the swearing-in ceremony of Indian Prime Minister Narendra Modi.
-
-Hasina assured her country’s commitment to assist Sri Lanka to modernise its agriculture, according to a statement by the president’s media division.
-
-Wickremesinghe said he would dispatch a delegation of Sri Lankan agricultural experts to Bangladesh to study Bangladesh’s agricultural modernization program through cooperative methods.
-
-The two leaders also discussed signing a free trade agreement between Bangladesh and Sri Lanka.
-
-...
-
-[Data](articles/c33b6b69.json)
-
-[Extended Data](ext_articles/c33b6b69.ext.json)
-
----
-
-### Prabhakaran alias Damodharan
-
-*2024-06-10 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185762) · `ta`
-
-"Prabhakaran alias Damodharan," a film debut by Madhyazhagan, premiered in Chennai with a mix of Tamil cinema and political figures in attendance. The movie, focusing on Eelam and Medaka Prabhakaran without commercial intent, aims to offer a unique cinematic experience. Directed by Karthik Kumar, it features Saravana Subbaiah, Vanitha Vijayakumar, and newcomer Mathi Alaga. The release has sparked excitement and controversy due to its content and the involvement of various artists.
-
-🟩
-
-The film, which debuted as the hero of the producer, was named 'Pitha' (Prabhakaran alias Damodharan) and the launch ceremony was held in Chennai. A large number of celebrities from not only the Tamil film industry but also from the political department were highlighted.
-
-The film's producer and actor, Madhyazhagan, said, “The film is used about Eelam and Medaka Prabhakaran.. These are not used for commercial purposes or for a stir. And not insulting them in any way. We have created this work so true and classic. The film will be a different work that is not yet. ”
-
-In the debut video released for the film, the hero of the story, the hero of the story, has been a great expectation for fans as there are such scenes in the human blood.
-
-...
-
-[Data](articles/f17c48d6.json)
-
-[Extended Data](ext_articles/f17c48d6.ext.json)
-
----
-
-### By -election announcement of six Indian states including Tamil Nadu
-
-*2024-06-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185761) · `ta`
-
-The Election Commission of India has scheduled by-elections for various assembly seats across six states: Tamil Nadu, Bihar, West Bengal, Madhya Pradesh, Uttarakhand, Punjab, and Himachal Pradesh. Notably, the Vikravandi constituency in Tamil Nadu will hold its election due to the death of a member. Voting is set for July 10, with counting on July 13. The Congress party has pledged support to the DMK in the Vikravandi by-election.
-
-🟩
-
-The Election Commission of India has officially announced that the by -election will be held for the Vikravandi constituency in Tamil Nadu.
-
-Vikravandi Member of the Legislative Assembly. Following the death of the celebrity, the block was declared empty. The Election Commission of India has announced that the by -election will be held on the 10th of July for the vacant constituency.
-
-Voting will be held on the 10th of July for the total number of thirteen assembly constituencies in Bihar (1), Bihar (1), West Bengal (4), Madhya Pradesh (1), Uttarakhand (2), Punjab (1) and Himachal Pradesh (3).The Election Commission has announced that the votes will be counted on July 13 and the results will be announced.. The announcement also stated that the nomination papers for the by-election will begin on June 14.
-
-Meanwhile, the state president of the party has announced that the Congress party will support the DMK in the by -election for the Vikravandi constituency.
-
-◼️
-
-[Data](articles/8c65aa10.json)
-
-[Extended Data](ext_articles/8c65aa10.ext.json)
-
----
-
-### Sanitation substances hygiene
-
-*2024-06-10 16:20:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරින්-පීඩාවට-පත්-බියගම-ජනතාවට-රැවන්-විජේවර්ධන-මහතාගේ-මගපෙන්වීමෙන්-සනීපාරක්ෂක-ද්‍රව්‍ය/11-410122) · `si`
-
-The former Opposition Leader of the Biyagama Pradeshiya Sabha distributed hygiene supplies, including 2,500 sanitary towels and 1,000 soaps, to flood-affected areas across 21 divisions, following guidance from the Presidential Advisor Ravan Wijewardene.
-
-🟩
-
-Former Opposition Leader of the Biyagama Pradeshiya Sabha has handed over a stock of hygiene for the people affected by the floods.
-
-The hygiene's deficiencies were delivered on the guidance of the Presidential Advisor and Chief Organizer Ravan Wijewardene.
-
-In this case, 2,500 sanitary towels and 1000 soap pieces were flooded to the public for 21 Biyagama Divisions.
-
-Former Pradeshiya Sabha Chathura Perera, Mali Algama and Manjuzaran. Mr. Duminda Attygalle, Selton Sebastian were also present.
-
-◼️
-
-[Data](articles/cc4a44eb.json)
-
-[Extended Data](ext_articles/cc4a44eb.ext.json)
-
----
-
-### Arrested
-
-*2024-06-10 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியா-கைது/175-338709) · `ta`
-
-A 34-year-old man from the north was arrested by the Colombo Crime Branch for possession of a handgun. The origin of the weapon remains unknown.
-
-🟩
-
-The Colombo Crime Branch has been arrested by a man who had a handgun.The suspect is a 34 -year -old man who lives in the north.
-
-Police said that the handgun was prepared in which country was not yet known.
-
-◼️
-
-[Data](articles/53e14b3b.json)
-
-[Extended Data](ext_articles/53e14b3b.ext.json)
-
----
-
-### Ranil Wickremesinghe is not mentioned as presidential candidate - PA
-
-*2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185752) · `ta`
-
-The Puthujana Peramuna-led government announced President Ranil Wickremesinghe as the presidential candidate, despite no mention from the Good Governance government. The election is set before November, but details remain undisclosed. The Sri Lanka Peoples Freedom Alliance (PA)-led government expects acceptance of their decision, which includes former President Mahinda Rajapaksa's announcement. It's clarified that Wickremesinghe wasn't named as interim president.
-
-🟩
-
-The government headed by the Puthujana Peramuna -led government, Rohitha Abeygunawardena, said that President Ranil Wickremesinghe was declared as the presidential candidate.
-
-He was speaking at a media briefing held at the Sri Lanka PA at the Sri Lanka PA in Battaramulla.
-
-The presidential election will be held before November.
-
-The government of goodwill has not spoken about the election of the Good Governance Elections.
-
-We have taken a final decision on the presidential candidate. Former President Mahinda Rajapaksa will soon announce the resolution. People will accept our resolution.
-
-We did not mention anywhere that President Ranil Wickremesinghe was elected as the interim president.
-
-We are sure that the Sri Lanka Peoples Freedom Alliance (PA) -led government should look back.
-
-◼️
-
-[Data](articles/4ebbbe42.json)
-
-[Extended Data](ext_articles/4ebbbe42.ext.json)
-
----
-
-### Transition and stumbling block 'Maharaja'
-
-*2024-06-10 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185758) · `ta`
-
-"Maharaja," directed by Bharathiraja, stars Vijay Sethupathi and features music by Ajanis Lokanath. Released in four languages on June 14, it promises a unique cinematic experience with its engaging narrative from start to finish.
-
-🟩
-
-The film crew has said, "The film is a ridiculous creation of the film that will cause a change of traffic and prevention for fans."
-
-Vijay Sethupathi, Mamta Mohan Das, Abirami, Anurag Kashyap, Nattara Natraj, 'Director' Imam 'Bharathiraja, Lion Tiger, Aruldas, Muniskant, Vinod Sagar. Dinesh Purushothaman's cinematography. The film is composed by Ajanis Lokanath.
-
-The film was released on June 14 in Tamil, Telugu, Malayalam and Kannada.. The film crew participated in the event.
-
-Speaking at the event, the filmmaker and director's friend, Pilomin Raj, said, “The film will certainly provide a new experience for fans.. The film's opening scene to the end scene will make the audience anxious. When the director unravels its knots and the trademark, the director will give fans a different experience.. '' said.
-
-◼️
-
-[Data](articles/8cc3a5ac.json)
-
-[Extended Data](ext_articles/8cc3a5ac.ext.json)
 
 ---

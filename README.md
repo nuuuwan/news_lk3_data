@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 08:53:32**
+As of **2024-06-11 09:04:42**
 
 ## Newspaper Stats
 
-*Scraped **29,715** Articles*
+*Scraped **29,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
-adalk | 2,536
+adalk | 2,537
 adaderanalk | 3,357
 tamilmirrorlk | 3,480
 virakesarilk | 4,554
@@ -26,27 +26,35 @@ adaderanasinhalalk | 4,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,714 (100.0%) of 29,715 articles have been extended.
+29,715 (100.0%) of 29,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ගංවතුරට හසු වී මිය ගිය කුකුළන් අලෙවි කිරීමේ ජාවාරමක්
+### Racketeer to mark flooded chickens
 
 *2024-06-11 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197626) · `si`
 
-කුකුළු මස් මිලදී ගැනීමේ දී මේ දිනවල වැඩි අවදානයක් යොමුකළ යුතු බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+The Consumer Affairs Authority warns against purchasing flooded chickens due to health risks. Director Sanjaya Iasinghe highlights that unwholesome chickens are being sold in markets, advising consumers to avoid them. Flooded chickens, especially those dyed white but found to be red, may harbor germs that survive high temperatures during cooking. Authorities are conducting nationwide raids to tackle this issue, urging the public to report any suspicious activity related to these chickens.
 
-එහි වැටලීම් සහ විමර්ශන අංශයේ අධ්‍යක්ෂ සංජය ඉරසිංහ මහතා සඳහන් කළේ, ජල ගැලීම් තත්ත්වය හේතුවෙන් ගංවතුරට හසුවී මියගිය කුකුළන් වෙළෙඳපොළ තුළ මේ දිනවල අලෙවි කිරීම සිදුවන බවය.
+🟩
 
-එවැනි කුකුළු මස් පරිභෝජනය ශරීරයට අහිතකර බැවින් ඒ පිළිබඳව වැඩි අවදානයක් යොමුකළ යුතු බව සංජය ඉරසිංහ මහතා පවසයි.
+The Consumer Affairs Authority (CAA) says that a large number of these days should be paid these days when buying chicken.
 
-"ගංවතුරට අහුවෙලා මියගිය කුකුළන්ව සුද්ද කරලා, පැකට් කරලා විකුණන ජාවාරමක් පිළිබඳව තොරතුරු ලැබිලා තියෙනවා. අපි මේ ගැන මේ දවස් ටිකේම සුපරික්ෂාවෙන් හිටියා. වැටලීම් කරා. දිවයින පුරාම මේක කරනවා. ඔබත් කුකුළු මස් ගැනීමේ දී මේ ගැන පරීක්ෂා කර බලන්න. විශේෂයෙන්ම මසට ඇති කරන කුකුළන් සුදු පාටයි. මේ කුකුළන් රතු පාටට හුරුයි. මේක කොච්චර උෂ්ණත්වයට තැම්බුවත් විෂබීජ මැරෙන්නේ නැති වෙන්න පුළුවන්. මේ ගැන තොරතුරක් තිබුණොත් වහාම පාරිභෝගික සේවා අධිකාරියට දැනුම්දෙන්න."
+The Director of the raids and investigation department, Sanjaya Iasinghe said that the deceased chickens fall into the market these days in the market.
 
-...
+Sanjaya Iasinghe says that the consumption of such chicken is adverse to the body.
+
+"Floods caught chickens and cleaned and received information about a racket sold. We were in the rekariu these days. Toward raids. Doing this throughout the island. Check out about this in chicken. Especially chickens that make it white. These chickens are red. The germs may not die for how temperature is steamed. If you find information about this, report to the Consumer Affairs Authority. "
+
+"He stores very much in the Kelani River. In Yutubeb and Facebook, where the floods have caught online. Don't get caught up. These are not prepared for consumption. Please be informed of this at 1977. "
+
+◼️
 
 [Data](articles/1bf3d003.json)
+
+[Extended Data](ext_articles/1bf3d003.ext.json)
 
 ---
 
@@ -1808,6 +1816,22 @@ During this time, a 55 -year -old from Eravur, who was taken to a small wooden b
 
 ---
 
+### පෙර පාසල් ගුරුවරියන්ගේ දීමනාව සියයට 100කින් ඉහළට
+
+*2024-06-10 19:00:57* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරුවරියන්ගේ-දීමනාව-සියයට-100කින්-ඉහළට/11-410129) · `si`
+
+පෙරපාසල් ගුරුවරියන් සඳහා රජය විසින් මාසිකව ලබාදෙන රු. 2500ක දීමනාව රු. 5000 දක්වා ඉහළ දැමීමට අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී තීරණය කර තිබේ.
+
+ඒ අනුව මෙරට 34,000ක් පමණ වන පෙර පාසල් ගුරුවරියන් සඳහා එය ලබා දීමට කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දුන් බව කෘෂිකර්ම හා කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රකාශ කළේය.
+
+අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර සිටියේ පසුගිය සතියේ රැස්වූ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේ දී  මේ පිලිබඳ දීර්ඝ ලෙස සාකච්ඡා වූ බවයි.
+
+◼️
+
+[Data](articles/f11bae3a.json)
+
+---
+
 ### President invites Indian Prime Minister
 
 *2024-06-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197611) · `si`
@@ -2207,29 +2231,5 @@ However, the Israeli Waawan reached a gang and Nethenya.
 [Data](articles/ef242ff2.json)
 
 [Extended Data](ext_articles/ef242ff2.ext.json)
-
----
-
-### Actor Premji Amaran- Hindu marriage
-
-*2024-06-10 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185768) · `ta`
-
-Premji Amaran, known for his roles in over thirty Tamil films, including 'Chennai 28', got married to a Hindu woman at the Thiruthani Murugan Temple on June 9th. His brother and director Venkat Prabhu attended the wedding.
-
-🟩
-
-Actor Premji Amaran, a multi -faceted actor, and a woman named the composer -Padakar -Actor -Padalist.
-
-Premji Amaran is famous for his fans in more than thirty films in Tamil.
-
-In particular, there is no one who does not appreciate his performance in 'Chennai 28'. Parents were actively searching for Premji Amaran, who was not married after the age of forty.
-
-At the end of the age of forty -five, she and a woman named Hindu. Their marriage was followed by relatives and friends at the Thiruthani Murugan Temple, one of Murugan's sixty houses on the ninth of June.. The actors, his brother and director Venkat Prabhu, who played with him in the wedding, congratulated the bride on the role of the bride.
-
-◼️
-
-[Data](articles/91622c24.json)
-
-[Extended Data](ext_articles/91622c24.ext.json)
 
 ---

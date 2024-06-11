@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 07:00:31**
+As of **2024-06-11 07:24:19**
 
 ## Newspaper Stats
 
-*Scraped **29,696** Articles*
+*Scraped **29,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,478
+tamilmirrorlk | 3,479
 virakesarilk | 4,554
-dailymirrorlk | 4,703
-adaderanasinhalalk | 4,773
+dailymirrorlk | 4,711
+adaderanasinhalalk | 4,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,683 (100.0%) of 29,696 articles have been extended.
+29,691 (99.9%) of 29,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Biting the hands that feed you
+
+*2024-06-11 06:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biting-the-hands-that-feed-you/108-284564) · `en`
+
+Ratnapura, June 11 (Daily Mirror) -A family that sought refuge at the residence of a leading gem businessman in Ratnapura after being affected by the floods have allegedly stolen gemstones valued Rs.25 million, according to the police.
+
+The flood-hit family- father, mother and son- was hosted by the businessman with meals for two days. The family was arrested by the Ratnapura Police Special Investigation Division.
+
+After the floodwaters subsided, the family had left with the promise to return to assist in cleaning the businessmen’s house.
+
+They had arrived after a few days. In the process of cleaning the house, they had removed gemstones.
+
+However, their act of theft had been caught on CCTV camera. They had admitted to the theft. They are now to be produced before the Ratnapura Magistrate.
+
+◼️
+
+[Data](articles/f12aaf70.json)
+
+---
+
+### Fears of election postponement still loom
+
+*2024-06-11 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fears-of-election-postponement-still-loom/155-284563) · `en`
+
+*UNP General Secretary suggested postponing polls by two years with a referendum
+
+*Speculation exists that Bandara's remarks were intended to gauge public and political reaction
+
+*Concerns raised whether President might seek AG's opinion on extending the presidential term with a two-thirds parliamentary majority
+
+Colombo, June 11 (Daily Mirror) - Despite assertions that the presidential election would be conducted as scheduled, political circles are abuzz with speculations that the government will try to exploit the provisions in the Constitution to extend the term of the presidential term and the parliamentary period.
+
+Previously, United National Party (UNP) General Secretary Palitha Range Bandara said that the presidential and parliamentary elections should be postponed by two years with approval of the people by referendum.
+
+...
+
+[Data](articles/638f61e4.json)
+
+---
+
+### Rise in flies poses risk of diarrhoea and contagious viral fever
+
+*2024-06-11 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-flies-poses-risk-of-diarrhoea-and-contagious-viral-fever/108-284562) · `en`
+
+Colombo, June 11 (Daily Mirror) - As floodwaters recede, the proliferation of flies has raised alarms among health authorities due to the increased risk of diarrhoea outbreaks and the spread of contagious viral fevers.
+
+According to consultant Dr Deepal Perera, the abundance of organic matter in flooded areas accelerates the maturation of fly eggs, leading to a rapid increase in fly populations as floodwaters subside. These newly hatched flies, seeking food sources, often gravitate towards faeces, garbage, and contaminated surfaces, further exacerbating the health crisis.
+
+“The consequences of the surge in fly populations are dire. Flies are notorious carriers of pathogens, including bacteria and viruses responsible for diarrheal diseases and viral fevers,” he pointed out.
+
+“Contaminated food and water sources, when ingested, can lead to a range of symptoms, including abdominal pain, cramps, nausea (feeling an urge to vomit), and loose stools,” Dr Perera stated.
+
+...
+
+[Data](articles/134be117.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+
+*2024-06-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197620) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ට පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+ඌව පළාතේ ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2d4c7a71.json)
+
+---
+
+### Exercise caution in chicken purchases due to flood contamination: CAA association
+
+*2024-06-11 04:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exercise-caution-in-chicken-purchases-due-to-flood-contamination-CAA-association/108-284561) · `en`
+
+Colombo, June 11 (Daily Mirror) - The Consumer Affairs Authority's (CAA) General Workers’ Association urged the public to exercise caution when purchasing chicken from the market due to the increased risk of contamination caused by recent floods.
+
+Association General Secretary Ajith Jayasundara informed the Daily Mirror that numerous poultry farms have been submerged, resulting in the deaths of many birds.
+
+"The floodwater may carry various viruses, such as rat fever. These birds could have been infected by these viruses due to the floods. Additionally, a significant number of birds on poultry farms often die due to the spread of bacteria, which may have been carried into the floodwaters," he explained.
+
+Jayasundara mentioned that the Consumer Affairs Authority (CAA) conducted raids on several chicken-selling stalls and discovered chickens that had died due to the floods.
+
+...
+
+[Data](articles/26f1c06f.json)
+
+---
+
+### Ransomware menace plaguing Sri Lankan businesses: Kaspersky
+
+*2024-06-11 03:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ransomware-menace-plaguing-Sri-Lankan-businesses-Kaspersky/108-284555) · `en`
+
+A total of 2,650 ransomware incidents have been detected and blocked by Kaspersky’s cybersecurity solutions for businesses in Sri Lanka from January to December 2023, it was revealed.
+
+Experts from the global cybersecurity company insist on organisations, regardless of shape and size, to beef up their IT security posture as ransomware, especially the targeted type, continues to be a damaging menace for organisations in the region.
+
+“The era of widespread mass attacks by encryptors on both individuals and businesses is gradually fading away. Instead, we are witnessing a shift towards organised groups that execute hacks involving data theft and encryption, commonly referred to as double extortion.
+
+The rationale behind this evolution lies in the perpetrators’ ability to operate with greater efficiency, thereby enabling them to demand significantly higher ransom sums,” said  Fedor Sinitsyn, Lead Malware Analyst at Kaspersky.
+
+...
+
+[Data](articles/4f5b038f.json)
+
+---
+
+### Sri Lanka should separate foreign policies from borrowing policies: Dr. Devarajan
+
+*2024-06-11 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-separate-foreign-policies-from-borrowing-policies-Dr-Devarajan/108-284550) · `en`
+
+A prominent economist stressed the need for Sri Lanka to separate its foreign policies from the borrowing policies, so it does not repeat the same mistakes that have resulted in it having to grapple with high cost of debt.
+
+Citing the government’s decision in 2019 to reject the favourable loans from the US and Japan, to choose commercial loans from China, due to the country’s lenient stance over Sri Lanka’s human rights issue, former World Bank Acting Chief Dr. Shanta Devarajan noted the move was detrimental and added to the woes of the country.
+
+“I think this was a big mistake because it mixed up the foreign policy objectives with the economic policy objectives. You always borrow from the cheapest lender, regardless of what your foreign relations are with that country. So, Sri Lanka should keep its borrowing policy separate from its foreign policy,” asserted Dr. Devarajan.
+
+He added that some say it is impossible to make the separation but it is possible, as in the case of Taiwan and China.
+
+...
+
+[Data](articles/4d6f3949.json)
+
+---
 
 ### Cardinal condemns President’s attempt to link Catholic Church to AG service extension
 
@@ -90,21 +222,29 @@ Speaking at a press conference Peiris highlighted that such an extension has not
 
 ---
 
-### ஜனாதிபதியுடன் ஜெயசங்கர் சந்திப்பு
+### Jayashankar meets with president
 
 *2024-06-11 01:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-ஜெயசங்கர்-சந்திப்பு/175-338740) · `ta`
 
-புதுடில்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இந்திய சிரேஷ்ட அமைச்சர் கலாநிதி எஸ்.ஜெயசங்கருக்கும் இடையிலான சந்திப்பு நேற்று இடம்பெற்றது.
+In a meeting between Sri Lanka's President Ranil Wickremesinghe and India's Senior Minister Dr. S. Jaishankar, discussions centered around accelerating development projects in Sri Lanka with Indian investments. Jaishankar announced plans to visit Sri Lanka soon to oversee these initiatives. The meeting also covered India's policies towards its top neighboring countries and potential investments in industries beyond India, including in Trincomalee. Wickremesinghe discussed a new Economic Change Act aimed at decentralizing power in agriculture, health, education, and economic management to provincial councils. He also mentioned the upcoming Truth and Reconciliation Act in Parliament by July. The conversation highlighted the importance of resolving issues in the Agricultural Modernization Program, particularly concerning fisherfolk disputes.
 
-இந்திய முதலீட்டில் இலங்கையில் ஆரம்பிக்கப்பட்டு இடைநடுவில் தடைப்பட்டுள்ள அபிவிருத்தித் திட்டங்களை துரிதமாக மீள ஆரம்பிப்பது குறித்து இங்கு ஆராயப்பட்டுள்ளது. இந்த செயற்பாடுகளை ஆராய்வதற்காக விரைவில் இலங்கைக்கு விஜயம் செய்யவிருப்பதாக ஜெயசங்கர் தெரிவித்தார்.
+🟩
 
-அண்டை நாடுகளுக்கு முதலிடம் கொடுக்கும் இந்தியாவின் கொள்கை குறித்தும் இந்த சந்திப்பில் கருத்துப் பரிமாறப்பட்டன.
+A meeting between President Ranil Wickremesinghe and Senior Minister of India Dr. S. Jayasankar was held yesterday.
 
-திருகோணமலையை மையமாக கொண்டு இந்திய அரசாங்கத்தினால் ஆரம்பிக்கப்பட இருக்கும் கைத்தொழில் வலயம் தொடர்பாகவும் இதன்போது ஆராயப்பட்டதோடு பல இந்திய முதலீட்டாளர்கள் அங்கு தமது முதலீட்டுகளை மேற்கொள்ளவுள்ளனர் எனவும் இந்த தொழில் வலயத்தில் இந்தியாவைத் தவிர ஏனைய நாடுகளின் முதலீட்டாளர்களையும்  முதலீடு செய்வதற்கு இணைத்துக் கொள்ள எதிர்பார்கின்றோம் எனவும் ஜெய்சங்கர் குறிப்பிட்டார்.
+It has been investigated on the speeding up of the development projects that have been launched in Sri Lanka in Indian investment and intermediate development projects. Jayashankar said he would visit Sri Lanka soon to investigate these activities.
+
+The meeting was also exchanged at the policy of India, which is the number one neighboring countries.
+
+Jaishankar said that it was also investigated by the Indian government to be launched by Trincomalee and that many Indian investors will invest their investment and we are looking to invest in investors of countries other than India in this industry.
+
+Speaking at the meeting, President Ranil Wickremesinghe said that the powers of agriculture, health education and economic management will be given to the provincial councils through the new Economic Change Act.
 
 ...
 
 [Data](articles/d8fea509.json)
+
+[Extended Data](ext_articles/d8fea509.ext.json)
 
 ---
 
@@ -375,6 +515,22 @@ The press conference was organized to report the first conference of Australia, 
 [Data](articles/6b5857e8.json)
 
 [Extended Data](ext_articles/6b5857e8.ext.json)
+
+---
+
+### இலங்கை - பங்களாதேஷ்க்கு இடையில் பயணிகள் படகு சேவை
+
+*2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்க்கு-இடையில்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
+
+இலங்கையில் முன்னெடுக்கப்படும் விவசாய நவீனமயமாக்கல் திட்டத்திற்கு பங்களாதேஷ் ஆதரவளிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா உறுதியளித்தார்.
+
+இந்தியப் பிரதமர் நரேந்திர மோடியின் பதவிப் பிரமாண வைபவத்திற்காக புதுடெல்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனாவுக்கும் இடையிலான இருதரப்பு பேச்சுவார்த்தை திங்கட்கிழமை (10) காலை நடைபெற்றது. இதன்போதே பங்களாதேஷ் பிரதமர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கூட்டுறவு முறையின் அடிப்படையில் பங்களாதேஷில்  செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை ஆராய்ந்து இலங்கையின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காக இலங்கை விவசாயத்துறை  நிபுணர்கள் குழுவொன்றை பங்களாதேஷிற்கு அனுப்புவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க இணக்கம் தெரிவித்தார்.
+
+...
+
+[Data](articles/b50fac28.json)
 
 ---
 
@@ -656,6 +812,8 @@ Yes, he loves spending his free time, with friends, on the beach, and the beach,
 
 [Data](articles/96b3672d.json)
 
+[Extended Data](ext_articles/96b3672d.ext.json)
+
 ---
 
 ### Navigating Global Trade Finance: Insights from TFAB’s seminal seminar
@@ -670,6 +828,8 @@ TFAB’s dedication to professional development is evident through its annual se
 
 [Data](articles/ae65d015.json)
 
+[Extended Data](ext_articles/ae65d015.ext.json)
+
 ---
 
 ### Unilever Sri Lanka inaugurates solar power project at Horana factory, contributing to national renewable energy goals and global sustainability commitments
@@ -681,6 +841,8 @@ Unilever Sri Lanka recently inaugurated a new 2.33 MW solar power project at its
 ...
 
 [Data](articles/c1d3ee1c.json)
+
+[Extended Data](ext_articles/c1d3ee1c.ext.json)
 
 ---
 
@@ -700,6 +862,8 @@ The Platinum Sponsors for the CSE Masterminds 2024 are Bartleet Religare Securit
 
 [Data](articles/ed8a09a3.json)
 
+[Extended Data](ext_articles/ed8a09a3.ext.json)
+
 ---
 
 ### Share market driven by retail investors as IMF third tranche hopes rise
@@ -713,6 +877,8 @@ Due to these developments the market was bullish and both indices moved upwards.
 ...
 
 [Data](articles/a497ae83.json)
+
+[Extended Data](ext_articles/a497ae83.ext.json)
 
 ---
 
@@ -757,6 +923,8 @@ President extends warm wishes to Narendra Modi on his third term as Prime Minist
 ...
 
 [Data](articles/643186a2.json)
+
+[Extended Data](ext_articles/643186a2.ext.json)
 
 ---
 
@@ -1049,6 +1217,22 @@ Doctors say that the cells in the wounded places are destroyed by small blood ve
 [Data](articles/240158ab.json)
 
 [Extended Data](ext_articles/240158ab.ext.json)
+
+---
+
+### Planters’ Association condemns Thondaman’s illegal actions at Pedro Estate, calls for justice
+
+*2024-06-10 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planters-Association-condemns-Thondamans-illegal-actions-at-Pedro-Estate-calls-for-justice/108-284529) · `en`
+
+Colombo, June 10 (Daily Mirror) - While condemning Minister Jeevan Thondaman's recent illegal behaviour at Pedro Estate, Nuwara Eliya, the Planters' Association of Ceylon (PA) urged the Sri Lankan Government and the Sri Lankan Police to conduct a comprehensive investigation into this incident and ensure that those responsible are brought to justice.
+
+The Minister's actions, which included intimidation tactics and disregard for the law, have caused widespread concern within the plantation community, the association said in a statement.
+
+The PA called for immediate measures to safeguard the industry stakeholders and restore confidence in the plantation sector.
+
+...
+
+[Data](articles/b47ae928.json)
 
 ---
 
@@ -1989,179 +2173,5 @@ The new National Education Policy Framework (NEPF) currently being implemented b
 [Data](articles/afc9a1dc.json)
 
 [Extended Data](ext_articles/afc9a1dc.ext.json)
-
----
-
-### The release date of 'Lander' starring Vidarth
-
-*2024-06-10 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185765) · `ta`
-
-"Lander," directed by Sajee Salim and featuring Vidarth among others, is set to release on the 21st of this month. The film, produced by Sri Vishnu under M Productions, follows Vidarth's successful "Anjalam."
-
-🟩
-
-The release date of the film 'Lander' has been officially announced as one of the star actors who create a stable market value of Tamil cinema and make producers and distributors.
-
-Directed by director Sajee Salim, Vidarth, Swetha Torathi, Vipin, Sahana, Pasupathi, Gajaraj and many others star in the film 'Lander'. The film has been recorded by Gnana Sounder. S.. Praveen has composed music. The film was produced by Sri Vishnu on behalf of M Productions.
-
-The film's motion poster, songs and teaser has been well received. It has been officially announced that the film will be released on the 21st of this month at the film House.
-
-Meanwhile, the film 'Lander', which is set to star in Vidarth's performance following the success of 'Anjamam', is also in a double joy.
-
-◼️
-
-[Data](articles/503eb428.json)
-
-[Extended Data](ext_articles/503eb428.ext.json)
-
----
-
-### The strike was abandoned
-
-*2024-06-10 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தம்-கைவிடப்பட்டது/175-338710) · `ta`
-
-Following discussions with the Transport Minister, railway unions called off their strike. The meeting addressed concerns like delayed promotions and recruitments.
-
-🟩
-
-After a discussion with the Transport Minister, the railway unions have decided to abandon the strike.
-
-This discussion between Transport Minister Bandula Gunawardena and Railway Drivers Trade Unions took place at the Ministry of Transport.
-
-It is noteworthy that the strike was made, with various demands, including the delay in the promotion of the second class and the delay in recruitment.
-
-◼️
-
-[Data](articles/35a506d2.json)
-
-[Extended Data](ext_articles/35a506d2.ext.json)
-
----
-
-### Police hunt for fraudster who defrauded Rs. 17.5 million in job scam
-
-*2024-06-10 16:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-hunt-for-fraudster-who-defrauded-Rs-17-5-million-in-job-scam/108-284518) · `en`
-
-Colombo, June 10 (Daily Mirror) - Police are seeking public assistance in apprehending a suspect wanted for defrauding individuals of Rs. 17.5 million with promises of employment abroad, particularly in countries like England and Poland.
-
-Police said the fraud was operated under the guise of IMH Logistics (Pvt) Ltd, based in Janajaya City Hall, Sri Jayawardenapura, Kotte.
-
-The Mirihana Special Criminal Investigation Division has launched an inquiry into the fraud and has already arrested a female suspect, who was produced before the Chief Magistrate's Court in Colombo.
-
-During interrogation, it was revealed that an individual named Fernando, claiming to be the company owner, was involved in the scam. However, the suspect's whereabouts and identity remain undisclosed.
-
-Police have released photographs of the suspect and urge the public to provide any information regarding his whereabouts.
-
-...
-
-[Data](articles/29171e91.json)
-
-[Extended Data](ext_articles/29171e91.ext.json)
-
----
-
-### Fear Of Tainted Politicians: To Hold Or Not To Hold Elections
-
-*2024-06-10 16:40:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fear-of-tainted-politicians-to-hold-or-not-to-hold-elections/) · `en`
-
-Tainted politicians are abundant in Sri Lanka. If a small pebble were thrown from the spectator gallery in the legislature, there is a 99 percent chance it would hit the head of a scam-tainted politician. These individuals are either compromised by their own actions or by their association with and support for the most corrupt and vile political leaders alleged to have committed numerous crimes, including the embezzlement of state funds. Corruption among Sri Lankan politicians is rampant, a scourge that has undermined governance, the judiciary and civil liberties. It has stifled economic growth, and eroded the very fabric of society, a phenomenon that knows no boundaries. Its impact has been devastating, affecting not just the corridors of power but reaching deep into the daily lives of ordinary citizens for more than seven decades.
-
-...
-
-[Data](articles/ef1eb553.json)
-
-[Extended Data](ext_articles/ef1eb553.ext.json)
-
----
-
-### Woman drowns after falling from bridge in Ratnapura
-
-*2024-06-10 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99786/woman-drowns-after-falling-from-bridge-in-ratnapura) · `en`
-
-A woman has drowned after reportedly falling from a bridge in Kiriella area in Ratnapura.
-
-Police said the deceased is a 33-year-old resident of the area.
-
-◼️
-
-[Data](articles/3d247e92.json)
-
-[Extended Data](ext_articles/3d247e92.ext.json)
-
----
-
-### CJ-led bench to hear petition against Pastor Jerome Fernando
-
-*2024-06-10 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99785/-cj-led-bench-to-hear-petition-against-pastor-jerome-fernando) · `en`
-
-The Supreme Court has ordered for a Fundamental Rights (FR) petition filed against Pastor Jerome Fernando to be taken up for consideration before a judge bench chaired by the Chief Justice.
-
-This order was issued when the relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Murdhu Fernando, Kumudini Wickremasinghe and Janak De Silva today (10).
-
-Several religious leaders had filed this petition seeking an order to prosecute controversial Pastor Jerome Fernando under the United Nations International Covenant on Civil and Political Rights (ICCPR) over his derogatory statements related to Lord Buddha and other religious figures.
-
-Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena informed the court that three of the religious leaders involved in filing the petition have expressed their willingness to withdraw it.
-
-...
-
-[Data](articles/aa9adca0.json)
-
-[Extended Data](ext_articles/aa9adca0.ext.json)
-
----
-
-### AKD pledges to dissolve Sri Lanka parliament immediately upon election as president
-
-*2024-06-10 16:30:00* · [`economynextcom`](https://economynext.com/akd-pledges-to-dissolve-sri-lanka-parliament-immediately-upon-election-as-president-167221/) · `en`
-
-ECONOMYNEXT — National People’s Power (NPP) leader Anura Kumara Dissanayake will dissolve parliament the same night his victory is announced at Sri Lanka’s upcoming presidential election, Dissanayake said.
-
-At a party event in Hambantota on Sunday June 09, Dissanayake said the NPP will win the parliamentary elections that will be held immediately after the presidential election.
-
-The next parliament will have 120 to 130 MPs from the NPP, he added.
-
-“We may be laughing and clapping, but what we’re doing is Sri Lanka’s biggest political transformation that will see power exchanged between the common people. The NPP is today opening up the road for talented, skilled youth in the villages to move forward in politics.
-
-Dissanayake said though that the current parliament will not continue even for a day after he is elected at the presidential poll.
-
-...
-
-[Data](articles/f856503c.json)
-
-[Extended Data](ext_articles/f856503c.ext.json)
-
----
-
-### Selfie with Minister
-
-*2024-06-10 16:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Selfie-with-Minister/110-284519) · `en`
-
-The programme of appreciation of the students who obtained excellent results in the 2023 (2024) GCE Advanced Level Examination was held today at the Education Ministry under the chairmanship of Minister Susil Premajayantha and they appeared for a group photo and a selfie photo with the Minister.
-
-◼️
-
-[Data](articles/4336231b.json)
-
-[Extended Data](ext_articles/4336231b.ext.json)
-
----
-
-### Italy’s PM Meloni comes out on top in EU vote, strengthening her hand
-
-*2024-06-10 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99784/italys-pm-meloni-comes-out-on-top-in-eu-vote-strengthening-her-hand) · `en`
-
-Prime Minister Giorgia Meloni’s arch-conservative Brothers of Italy group won the most votes in the European parliamentary election over the weekend, boosting her standing both at home and abroad.
-
-With almost all ballots counted, Brothers of Italy won 28.8%of the vote, more than four times what it took in the last European Union election in 2019, and exceeding the 26% it secured in the 2022 national ballot, when it rose to power.
-
-“I am proud that Italy will present itself to the G7, to Europe with the strongest government of all. This is something that has not happened in the past but is happening today, it is a satisfaction and also a great responsibility,” Meloni said early on Monday from the party’s headquarters.
-
-The opposition centre-left Democratic Party came in second with 24% of the vote, while another opposition group, the 5-Star Movement, was third with 9.9% - its worst showing at a countrywide level since its creation in 2009.
-
-...
-
-[Data](articles/a0d32d38.json)
-
-[Extended Data](ext_articles/a0d32d38.ext.json)
 
 ---

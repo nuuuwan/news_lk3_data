@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 12:07:13**
+As of **2024-06-11 12:19:09**
 
 ## Newspaper Stats
 
-*Scraped **29,750** Articles*
+*Scraped **29,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,541
-adaderanalk | 3,363
+adalk | 2,542
+adaderanalk | 3,365
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,715
@@ -26,37 +26,83 @@ adaderanasinhalalk | 4,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,749 (100.0%) of 29,750 articles have been extended.
+29,750 (100.0%) of 29,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ගෙල කපා කාන්තාවක්ව ඝාතනය කෙරේ
+### Four American educators stabbed in park in northeast China
 
-*2024-06-11 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197637) · `si`
+*2024-06-11 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99800/four-american-educators-stabbed-in-park-in-northeast-china) · `en`
 
-තියුණු ආයුධයකින් ගෙල කපා නිදා සිටි ඇද මතදී ම කාන්තාවක් ඝාතනය කර ඇති බව හොරණ පොලීසිය පවසයි.
+Four American educators from a small Iowa university were injured in a stabbing attack in a public park in northeast China’s Jilin province on Monday, according to U.S. media and U.S. government officials.
 
-අද (11) අලුයම හොරණ, මීවනපලාන ප්‍රදේශයේ සිරිල්ටන් වත්ත ප්‍රදේශයේ නිවසක් තුළ එම ඝාතනය සිදුව තිබිණි.
+Iowa Representative Adam Zabner told Reuters his brother was one of the victims.
 
-එලෙස ඝාතනය කර ඇත්තේ, බංග්ලාදේශ ජාතිකයෙකු සමග විවාහ වී සිට 57 හැවිරිදි කාන්තාවකි.
+“My brother, David Zabner, was wounded in the arm during a stabbing attack while visiting a temple in Jilin City, China,” he said.
 
-නැගණිය මීට සති තුනකට ඉහතදී මියගිය කාන්තාවගේ නිවසේ නතර වීමට පැමිණි ඇති බව පොලීසිය පවසයි.
+The group had been visiting a temple in Beishan Park when they were attacked by a man with a knife, he added. There were no reports of a motive.
 
-ඊයේ රාත්‍රී 7.30 පමණ කාන්තාවන් දෙදෙනා දොරවල් වසා නින්දට ගොස් ඇති අතර පසුව     අලුයම 1.45ට පමණ කළු ඇඳගත් මුහුණු ආවරණය කරගත් නාඳුනන පුද්ගලයින් දෙදෙනෙක් නිවසට පැමිණ තිබේ.
+A video of people lying on the ground in a park covered in blood were circulating on X on Monday, though no trace of the images could be found on Chinese social media. Reuters was able to identify the location based on Chinese characters written on a wall, the wall’s structure and the layout of the path.
 
-ඔවුන් මරණකාරියගේ නැගණියගේ දෙඅත් ගැට ගසා කටට රෙදි ඔබා කාමරයේ දමා මියගිය කාන්තාව නිදා සිටි කාමරයට ගොස් තිබේ.
-
-පසුව මියගිය කාන්තාවගේ නැගණිය ගැට ගසා සිටි දෙඅත් හා කටට ඔබා තිබූ රෙදි කැබැල්ල සමග ම අසල්වැසි නිවසකට ගොස් මේ බව පවසා තිබේ.
-
-පසුව එම අසල්වැසියන් විසින් පොලීසියට කළ දැනුම්දීමක් මත විමර්ශන ආරම්භ කර ඇත.
-
-මියගිය කාන්තාව සතු ස්වර්ණාභරණ හා මුදල් ගෙන ගොස් නොමැති අතර, ඇයගේ කාමරයේ තිබූ අල්මාරිය කඩා රෙදි අවුස්සා දමා ඇතැයි පොලීසිය පවසයි.
+No statements on the incident have been issued by Chinese authorities or reports found in Chinese media.
 
 ...
 
+[Data](articles/4143ecd5.json)
+
+---
+
+### A woman is cut off and killed
+
+*2024-06-11 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197637) · `si`
+
+A 57-year-old woman was murdered in her home in the Sirilton Estate, Horana, by two unknown assailants dressed in black. The incident occurred after midnight when the victim and her sister were asleep. The attackers entered their room, tied them up, and left them there. The sister managed to escape and alert the neighbors. The motive behind the killing remains unclear, and no valuables were stolen. Police are investigating the case.
+
+🟩
+
+Horana Police say that a woman has been murdered on a sharp weapon.
+
+The murder had occurred in a house in the Sirilton Estate area in Horana, Horana.
+
+The murdered is a 57-year-old woman from marriage with a Bangladeshi national.
+
+The sister has come to stay at the house of the woman who died over ago, police said.
+
+The two women had gone to sleep at about 7.30 last night and then two strangers covered with black clothes at around 1.45 am.
+
+They tie the death of the deceased to sleep and died in the room where the dead woman was sleeping.
+
+The sister of the deceased woman, had gone to a neighboring house with the knots of the dead woman.
+
+Later, the investigations have been launched on an notification for the police.
+
+The monk has not taken the jewelery and money owned by the deceased, police said.
+
+The police have not been identified as the assassins entered the house, the police are conducting further investigations.
+
+◼️
+
 [Data](articles/b3857cf0.json)
+
+[Extended Data](ext_articles/b3857cf0.ext.json)
+
+---
+
+### Ali Sabry meets Russian Foreign Minister; discuss recruitment of Sri Lankans to Russian forces
+
+*2024-06-11 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99799/ali-sabry-meets-russian-foreign-minister-discuss-recruitment-of-sri-lankans-to-russian-forces-) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry, who is currently in Russia to participate in the BRICS 2024 Foreign Ministerial Session with developing countries, had a bilateral meeting with Russian Foreign Minister Sergey Lavrov on Monday (10).
+
+During the meeting, the two Foreign Ministers agreed to further enhance bilateral ties, including in the spheres of tourism, higher education and economic cooperation, the Embassy of Sri Lanka in Moscow said.
+
+Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them.
+
+...
+
+[Data](articles/f2c33a3b.json)
 
 ---
 
@@ -116,7 +162,15 @@ The International Monetary Fund’s Executive Board is due to take up Sri Lanka�
 
 The Colombo District Court has extended the restraining order issued against Minister Wijeyadasa Rajapakshe, preventing him from functioning as the Chairman and a member of the Sri Lanka Freedom Party (SLFP).
 
-◼️
+Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of SLFP during an executive committee meeting held on April 21, by the party’s faction led by former President Maithripala Sirisena.
+
+On April 24, the Colombo District Court issued an injunction order preventing Minister Wijeyadasa from functioning as the Acting Chairman of the SLFP.
+
+The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
+
+Meanwhile, the court had issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
+
+...
 
 [Data](articles/5cebffcc.json)
 
@@ -451,6 +505,24 @@ Minister Susil Premajayantha made this observation at a function held at the GCE
 [Data](articles/6de8408a.json)
 
 [Extended Data](ext_articles/6de8408a.ext.json)
+
+---
+
+### වතු සේවක වැටුප් වැඩි කිරිම ජාත්‍යන්තර කම්කරු සංවිධානයේ ඇගයීමට
+
+*2024-06-11 09:43:06* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සේවක-වැටුප්-වැඩි-කිරිම-ජාත්‍යන්තර-කම්කරු-සංවිධානයේ-ඇගයීමට/11-410132) · `si`
+
+ජාත්‍යන්තර කම්කරු සංවිධානයේ වාර්ශි ජාත්‍යන්තර කම්කරු සමුළුවට සහභාගීවෙමින් සිටින කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා, ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Gilbert F. Houngbo සමග විශේෂ සාකච්ඡාවක් පැවැත්වූ අතර වතු කම්කරු වැටුප රුපියල් 1700 දක්වා සියයට 70කින් ඉහළ දැමීම ඔහු අගය කළේය.
+
+වතු කම්කරු වැටුප් ඉහළ දැමීමේ ක්‍රියාවලිය තුළදී ජාත්‍යන්තර කම්කරු සංවිධානයේ සමාජ සංවර්ධන මූලධර්මය පිළිපැදීම සම්බන්ධයෙන් ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා මනුෂ නානායක්කාර අමාත්‍යවරයාට සිය ප්‍රසාදය පිරිනැමීය.
+
+ජිනීවා නුවරදී මේ වන විට පැවැත්වෙන ජාත්‍යන්තර කම්කරු සංවිධානයේ, වාර්ශික ජාත්‍යන්තර කම්කරු සමුළුව අතරවාරයේදී අමාත්‍යවරයා සහ ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා අතර සාකච්ඡාව ඊයේ (10) දින පැවැත්විණි.
+
+ශ්‍රම වෙළදපොල ප්‍රමිතීන් සහ රැකියා තත්වයන් වැඩි දියුණු කිරීම සදහා දැනට ක්‍රියාත්මක ව්‍යාපෘතීන් සහ ඒ සදහා වන කැපවීම සම්බන්ධයෙන් අමාත්‍යවරයා කරුණු පැහැදිළි කළේය.
+
+...
+
+[Data](articles/6db2e3fb.json)
 
 ---
 
@@ -2183,75 +2255,5 @@ Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest
 [Data](articles/33cf5105.json)
 
 [Extended Data](ext_articles/33cf5105.ext.json)
-
----
-
-### The horrific fate of Australia to a Sri Lankan mother
-
-*2024-06-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197615) · `si`
-
-A Sri Lankan mother visiting Australia fell ill due to a rare bacterial infection, leading to the amputation of her left hand after being hospitalized in Melbourne. The infection, caused by mosquito or animal bites, is known as Brucellosis. Despite undergoing surgery and treatment, her condition remains critical, with foreign media estimating her medical costs at over $200,000. A fund has been set up to assist with her expenses.
-
-🟩
-
-A woman who went to Australia has faced a deadly bacterial infection with the objective of pursuing her daughter and his family.
-
-Foreign media reports that the woman who had uncomfortable damaged disease was unconscious.
-
-74-year-old Carmell Rodrigo, a 74-year-old Carmell leaves Australia to pursue her daughter and her family.
-
-She had been sick and sick in Melbourne.
-
-Carmal's left hand was fascinated and her daughter takes his mother first to the family doctor.
-
-However, the family doctor was instructed to hospitalize that as a result of the death.
-
-Her hospitalized her doctors say that the left hand should be removed and removed the left hand.
-
-After the left hand was cut off, medical tests revealed that she had been revealed to a rare bacterial infection.
-
-Doctors say that the cells in the wounded places are destroyed by small blood vessels and the skin under the skin under the skin.
-
-...
-
-[Data](articles/240158ab.json)
-
-[Extended Data](ext_articles/240158ab.ext.json)
-
----
-
-### Planters’ Association condemns Thondaman’s illegal actions at Pedro Estate, calls for justice
-
-*2024-06-10 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planters-Association-condemns-Thondamans-illegal-actions-at-Pedro-Estate-calls-for-justice/108-284529) · `en`
-
-Colombo, June 10 (Daily Mirror) - While condemning Minister Jeevan Thondaman's recent illegal behaviour at Pedro Estate, Nuwara Eliya, the Planters' Association of Ceylon (PA) urged the Sri Lankan Government and the Sri Lankan Police to conduct a comprehensive investigation into this incident and ensure that those responsible are brought to justice.
-
-The Minister's actions, which included intimidation tactics and disregard for the law, have caused widespread concern within the plantation community, the association said in a statement.
-
-The PA called for immediate measures to safeguard the industry stakeholders and restore confidence in the plantation sector.
-
-...
-
-[Data](articles/b47ae928.json)
-
-[Extended Data](ext_articles/b47ae928.ext.json)
-
----
-
-### Planters’ Association condemns Thondaman’s illegal actions at Pedro Estate, calls for justice
-
-*2024-06-10 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Planters-Association-condemns-Thondamans-illegal-actions-at-Pedro-Estate-calls-for-justice/155-284529) · `en`
-
-Colombo, June 10 (Daily Mirror) - While condemning Minister Jeevan Thondaman's recent illegal behaviour at Pedro Estate, Nuwara Eliya, the Planters' Association of Ceylon (PA) urged the Sri Lankan Government and the Sri Lankan Police to conduct a comprehensive investigation into this incident and ensure that those responsible are brought to justice.
-
-The Minister's actions, which included intimidation tactics and disregard for the law, have caused widespread concern within the plantation community, the association said in a statement.
-
-The PA called for immediate measures to safeguard the industry stakeholders and restore confidence in the plantation sector.
-
-...
-
-[Data](articles/d5451ebb.json)
-
-[Extended Data](ext_articles/d5451ebb.ext.json)
 
 ---

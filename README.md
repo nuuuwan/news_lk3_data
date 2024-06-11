@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 00:34:24**
+As of **2024-06-12 00:50:49**
 
 ## Newspaper Stats
 
-*Scraped **29,876** Articles*
+*Scraped **29,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,717
-dailyftlk | 1,789
+dailyftlk | 1,790
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,875 (100.0%) of 29,876 articles have been extended.
+29,876 (100.0%) of 29,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### The many faces of impunity
+
+*2024-06-12 00:32:18* · [`dailyftlk`](https://www.ft.lk/columns/The-many-faces-of-impunity/4-762932) · `en`
+
+Such impunity is possible because an absolute majority of victims are the most discriminated against people in Sri Lanka: Upcountry Tamils
+
+Ten years: that was how long three State institutions didn’t pay EPF and ETF monies to their retired and deceased employees.
+
+Most victims of this act of criminal injustice suffered and died in silence. A few (about 2,000) filed court cases. The larger society, including the media, political parties and the labour movement, didn’t know, didn’t care.
+
+This injustice happened in the only place it could have been perpetrated with legal, political, and societal impunity: the plantation sector. The culprits were the three State-owned plantation companies. The excuse was that these companies made losses. How many state-owned enterprises make profits? Do the loss-making ones (which include CEB, CPC, and Air Lanka) deny their employees EPF and ETF payments? What would happen if they even tried?
+
+...
+
+[Data](articles/df8d8928.json)
+
+---
 
 ### On system change
 
@@ -43,6 +61,8 @@ It was only after the 2022 Aragalaya that the need for system change was felt am
 ...
 
 [Data](articles/fb0b3cf5.json)
+
+[Extended Data](ext_articles/fb0b3cf5.ext.json)
 
 ---
 
@@ -2251,31 +2271,5 @@ A gas leak from the sewage drainage in the area has been reported to 3 people wh
 [Data](articles/e3507418.json)
 
 [Extended Data](ext_articles/e3507418.ext.json)
-
----
-
-### Amitirigala assassinates two close associates of Trinity murder
-
-*2024-06-11 13:12:11* · [`adalk`](https://www.ada.lk/breaking_news/අමිතිරිගල-ත්‍රිත්ව-ඝාතනයට-මන්නා-රමේෂ්ගේ-සමීපතමයන්-2ක්-අල්ලයි/11-410142) · `si`
-
-Amitirigala assassinated two associates linked to Trinity's murder near Surveyalla road. Two supporters were implicated. Arrests were made in Avissawella and Langugama, with a motorcycle involved in the crime found in Lunuwila. The suspects, aged 28 and 30, had ties to Ramayes, an event organized by the Dubai kingdoms under the Defense Ministry's approval, allegedly used for criminal activities. One suspect was killed at a funeral, and a Ti 56 firearm from Wellampitiya was linked to the murder. Investigations are ongoing.
-
-🟩
-
-The Western Province says two persons who supported the assassination of the Surveyalla road at Aithrigella road at Aithrigella road.
-
-Police say two suspects were arrested in Avissawella and Langugama area.
-
-The motorcycle used by the suspects were part of the murder and found six fertilizer and was hidden in a garage in Lunuwila area in Pugoda.
-
-Ramayes, who was organized by the Dubai kingdoms on May 9, as per the approval of the Defense Ministry of Defense, is automatically used to commit crimes by the Secretary to the Defense Ministry.The suspect was handed over to the South District in connection with the informance of 13 crimes carried out by the Avissawella police divisions by organizing the suspect, engaging in the event of an illegal crimes.
-
-The suspect was speaking at a funeral home on 20th September 2023 on his advice on his advice on his advice and was shot dead by the shooting.
-
-...
-
-[Data](articles/14db0638.json)
-
-[Extended Data](ext_articles/14db0638.ext.json)
 
 ---

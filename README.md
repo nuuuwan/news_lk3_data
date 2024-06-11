@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 12:19:09**
+As of **2024-06-11 12:34:31**
 
 ## Newspaper Stats
 
-*Scraped **29,753** Articles*
+*Scraped **29,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,542
+adalk | 2,544
 adaderanalk | 3,365
-tamilmirrorlk | 3,484
+tamilmirrorlk | 3,486
 virakesarilk | 4,554
 dailymirrorlk | 4,715
 adaderanasinhalalk | 4,790
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,750 (100.0%) of 29,753 articles have been extended.
+29,753 (100.0%) of 29,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### පොහොට්ටුවේ ආසන සමුළුවට තෙන්නකෝන්ලට ආරාධනා නෑ
+
+*2024-06-11 12:19:01* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ආසන-සමුළුවට-තෙන්නකෝන්ලට-ආරාධනා-නෑ/11-410138) · `si`
+
+රත්තොට බස් නැවතුම් පෙළේදී පසුගිය අටවෙනිදා පැවැත්වින පොදුජන පෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන්  ශ්‍රී ලංකා පොදුජන පෙරමුණේ ආසන සමුළුවට හිටපු ඇමති පොදුජන පෙරමුණේ මාතලේ දිස්ත්‍රික් නායකයා ලෙස කටයුතු කරන ජනක බණ්ඩාර තෙන්නකෝන් මහතා සහ ඔහුගේ පුත් ආරක්ෂක රාජ්‍ය ඇමැති ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතාට ආරාධනා කර නොතිබීම මතභේදාත්මක තත්ත්වයක් ඇතිවී තිබේ.
+
+සමුළුව සංවිධානය කර තිබුණේ ක්‍රීඩා හා යෞවන කටයුතු රාජ්‍ය ඇමැති රෝහණ දිසානායක මහතා විසිනි.
+
+මාතලේ දිස්ත්‍රික් නායකයා  වන ජනක බණ්ඩාර තෙන්නකෝන් මහතාට ආරාධනා නොකිරීම ඔහුට කළ අගෞරවයක් මෙන්ම මදි පුංචිකමක් බවද ආරක්ෂක රාජය ඇමති ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා සඳහන් කළේය.
+
+පොහොට්ටුව තමන්ට සලකන්නේ මේ ආකාරයට නම් ඒවායේ ප්‍රතිඵලත් ඔවුන්ට ලැබෙනු ඇති බවත් තමන්ටත් තම පියාටත් කළ අගෞරවය ගැන දිස්ත්‍රික්කයේම ජනතාව කතා කරන බවත් ප්‍රමිත බණ්ඩාර මහතා කියා සිටී.
+
+◼️
+
+[Data](articles/0d5115bf.json)
+
+---
+
+### இலங்கைக்கு ரஷ்யா வழங்கிய வாக்குறுதி
+
+*2024-06-11 11:57:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-ரஷ்யா-வழங்கிய-வாக்குறுதி/175-338753) · `ta`
+
+ரஷ்யாவில் இனி இலங்கையர்கள் இராணுவ சேவைக்கு ஆட்சேர்ப்பு செய்யப்பட மாட்டார்கள் என ரஷ்ய வெளிவிவகார அமைச்சர் உறுதியளித்துள்ளதாக தெரிவிக்கப்பட்டுகின்றது.
+
+ரஷ்யாவுக்கு  விஜயம் செய்துள்ள இலங்கை வெளிவிவகார அமைச்சர் அலி சப்ரி அந்நாட்டு வெளிவிவகார அமைச்சருடன் நடத்திய கலந்துரையாடலின் பின்னர் இவ்வாறு உறுதியளிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/023d665d.json)
+
+---
 
 ### Four American educators stabbed in park in northeast China
 
@@ -51,6 +83,8 @@ No statements on the incident have been issued by Chinese authorities or reports
 ...
 
 [Data](articles/4143ecd5.json)
+
+[Extended Data](ext_articles/4143ecd5.ext.json)
 
 ---
 
@@ -103,6 +137,8 @@ Minister Sabry, during the meeting, brought to the attention of his Russian coun
 ...
 
 [Data](articles/f2c33a3b.json)
+
+[Extended Data](ext_articles/f2c33a3b.ext.json)
 
 ---
 
@@ -466,6 +502,28 @@ It is anticipated that a final decision regarding the extension of Attorney Gene
 
 ---
 
+### ත්‍රි රෝද රථයක් හා කාර් රථයක් ගැටි දෙදෙනෙක් මරුට
+
+*2024-06-11 09:55:51* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රි-රෝද-රථයක්-හා-කාර්-රථයක්-ගැටි-දෙදෙනෙක්-මරුට/11-410133) · `si`
+
+මාතලේ සිට දඹුල්ල දෙසට ධාවනය වු ත්‍රි රෝද රථයක් හා දඹුල්ල දෙසින් පැමිණි කාර් රථයක ගැටි දෙදෙනකු මියගොස් එක් අයෙකු බරපතල තුවාල ලබා ඇතැයි පොලිසිය කියයි.
+
+පසුගියදා රාත්‍රි (10) අටයි හතලිස් පහට පමණ මෙම අනතුර සදුව ඇති අතර සිද්ධියෙන් පසු ත්‍රි රෝද රථය ගිනිගෙන සම්පූර්ණයෙන්ම විනාශ වී ඇති බව පොලිසිය කියයි.
+
+නාඋල - අරංගල සිරි අරහන්ත පබ්බතාරාම විහාරස්ථානය ඉදිරිපිට සිදුව ඇති මෙම අනතුර හේතුවෙන් කාර් රථය පැදවු රියදුරු නාඋල පොලිසියේ අත්අඞංගුවට ගෙන තිබේ.
+
+අනතුර හේතුවෙන් ත්‍රි රෝද රථයේ රියදුරු වන පන්සල පාර, පිළිහුඞුගොල්ල, නාඋල ලිපිනයේ පදිංචිව සිටි ජි.එම්.විමලරත්න ( 65) යන අය මියගොස් ඇත.
+
+එමෙන්ම ත්‍රි රෝද රථයේ ගමන් ගත් අංක 65 හීනයපොළ පාර ජයන්ති පුර ලිපිනයේ පදිංචිව සිටි හීනා ගමගෙදර සෝමාවතී(76) යන අයද අනතුර හේතුවෙන් මියගොස් ඇති බව පොලිසිය කියයි.
+
+එම ත්‍රිරෝද රථයේම ගමන් ගත් සමූහ ගොවිපොළ අරන්ගල,නාඋල ලිපිනයේ පදිංචිව සිටි හීනා ගම ගෙදර නන්දාවතී(71) යන අය අනතුර හේතුවෙන් තුවාල ලබා දඹුල්ල රෝහලේ දැඞි සත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.සිද්දීය සම්බන්ධයෙන් නාඋල පොලිසිය පරික්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/e73cc5f2.json)
+
+---
+
 ### Internet trio talk with Sajith
 
 *2024-06-11 09:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைய-மூவர்-பேச்சு/175-338745) · `ta`
@@ -508,21 +566,27 @@ Minister Susil Premajayantha made this observation at a function held at the GCE
 
 ---
 
-### වතු සේවක වැටුප් වැඩි කිරිම ජාත්‍යන්තර කම්කරු සංවිධානයේ ඇගයීමට
+### Increasing Estate Employee Salaries International Labor Organization
 
 *2024-06-11 09:43:06* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සේවක-වැටුප්-වැඩි-කිරිම-ජාත්‍යන්තර-කම්කරු-සංවිධානයේ-ඇගයීමට/11-410132) · `si`
 
-ජාත්‍යන්තර කම්කරු සංවිධානයේ වාර්ශි ජාත්‍යන්තර කම්කරු සමුළුවට සහභාගීවෙමින් සිටින කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා, ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Gilbert F. Houngbo සමග විශේෂ සාකච්ඡාවක් පැවැත්වූ අතර වතු කම්කරු වැටුප රුපියල් 1700 දක්වා සියයට 70කින් ඉහළ දැමීම ඔහු අගය කළේය.
+At the International Labor Summit, Minister Manusha Nanayakkara discussed increasing estate worker salaries by 70%, a move welcomed by the ILO Director General Gilbert F. Houngbo. The Minister outlined efforts to enhance labor standards, including implementing projects like C88, C155, C189, and C190 conventions. Additionally, the government plans to bolster the social security system and establish a national labor market information system. The initiative aims to improve employment conditions, promote women's workforce participation, and combat gender discrimination.
 
-වතු කම්කරු වැටුප් ඉහළ දැමීමේ ක්‍රියාවලිය තුළදී ජාත්‍යන්තර කම්කරු සංවිධානයේ සමාජ සංවර්ධන මූලධර්මය පිළිපැදීම සම්බන්ධයෙන් ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා මනුෂ නානායක්කාර අමාත්‍යවරයාට සිය ප්‍රසාදය පිරිනැමීය.
+🟩
 
-ජිනීවා නුවරදී මේ වන විට පැවැත්වෙන ජාත්‍යන්තර කම්කරු සංවිධානයේ, වාර්ශික ජාත්‍යන්තර කම්කරු සමුළුව අතරවාරයේදී අමාත්‍යවරයා සහ ජාත්‍යන්තර කම්කරු සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා අතර සාකච්ඡාව ඊයේ (10) දින පැවැත්විණි.
+Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment at the International Labor Summit, the Director General of the International Labor Organization gilbert f. He also held a special discussion with houngbo, he appreciated the increase in the estate workers by 70 percent to Rs.
 
-ශ්‍රම වෙළදපොල ප්‍රමිතීන් සහ රැකියා තත්වයන් වැඩි දියුණු කිරීම සදහා දැනට ක්‍රියාත්මක ව්‍යාපෘතීන් සහ ඒ සදහා වන කැපවීම සම්බන්ධයෙන් අමාත්‍යවරයා කරුණු පැහැදිළි කළේය.
+The International Labor Organization Director General of the International Labor Organization welcomed the Minister of the International Labor Organization in the process of increasing the plantation workers' salaries.
+
+The discussion between the Minister of Labor and the International Labor Summit was held yesterday (10) at the International Labor Organization in Geneva.
+
+The Minister explained the implementation of the implementation project and the commitment to improve the labor market standards and employment conditions.
 
 ...
 
 [Data](articles/6db2e3fb.json)
+
+[Extended Data](ext_articles/6db2e3fb.ext.json)
 
 ---
 
@@ -2176,84 +2240,22 @@ Accordingly, the daily salary was paid to the plantation workers at the headquar
 
 ---
 
-### Retired soldiers left for Russia to make ends meet: Defence Secy.
+### தொழிலாளர்களுக்கு 1,700 ரூபாய் கிடைத்தது
 
-*2024-06-10 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Retired-soldiers-left-for-Russia-to-make-ends-meet-Defence-Secy/108-284532) · `en`
+*2024-06-10 20:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொழிலாளர்களுக்கு-1-700-ரூபாய்-கிடைத்தது/76-338719) · `ta`
 
-Colombo, June 10 (Daily Mirror) - The retired soldiers of Sri Lanka who dedicated their lives to the war left for Russia not to abandon the motherland but to make ends meet, who have been deceived by the scammers promising them a lucrative opportunity, opined Defence Secretary General Kamal Gunaratne.
+1,700 ரூபாவாக அதிகரிக்கப்பட்ட தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளம் இன்று (10) முதல் முறையாக மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனத்தின் தலைமை அலுவலகத்தில் வழங்கப்பட்டுள்ளது.
 
-Gunaratne said by toay 42 of the Sri Lankan ex-military had been brought to the country safely and still a large number remained to be gathered and dispatched from Moscow.
+கடந்த ஏப்ரல் 30 ஆம் திகதி வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலின் ஊடாக தோட்டத் தொழிலாளர்களின் மொத்த நாளாந்த சம்பளத்தை 1000 ரூபாவிலிருந்து 1700 ரூபாவாக உயர்த்துவதற்கு தொழிலாளர் ஆணையாளர் நாயகம் தீர்மானித்திருந்தார்.
 
-The Defence Secretary was addressing a special function held at the Ananda College Colombo today to mark the Ananda Walk 2024 scheduled on July 7, which would be themed under ‘Educate and Empower to Save Mother Lanka’.
+எவ்வாறாயினும், இலங்கை பெருந்தோட்ட நிறுவனம் மற்றும் தோட்ட உரிமையாளர்கள் சங்கமும் இவ்வாறான சம்பள அதிகரிப்புக்கு உடன்படப்போவதில்லை என தொடர்ந்தும் தெரிவித்து வந்தன.
 
-Stressing on the fact that it is high time to take measures against the trending brain drain from Sri Lanka, General Gunaratne said the retired soldiers did not abandon the country like many others but went to earn a better life for their children and families.
+இந்த நிலையில், அரசாங்கத்தின் தீர்மானத்திற்கு அமைய தோட்டத் தொழிலாளர்களுக்கு அதிகரிக்கப்பட்ட சம்பளத்தை வழங்குவதற்கு மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனம் இன்று நடவடிக்கை எடுத்துள்ளது.
 
-...
-
-[Data](articles/96a20473.json)
-
-[Extended Data](ext_articles/96a20473.ext.json)
-
----
-
-### Sajitpremadasa met the Tamil party in Jaffna
-
-*2024-06-10 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185789) · `ta`
-
-Opposition leader Sajitpremadasa met with the Tamil National Alliance (TNA) in Jaffna, including leaders like Mawai Senadirasa, MA Sumanthiran, and others, at the TNA office.
-
-🟩
-
-A delegation led by opposition leader Sajitpremadasa, who was in Jaffna, met with the TNA on Monday.
-
-The meeting was held on Monday night at the Sri Lanka Tamil National Party office.
-
-Party leader Mawai Senadirasa, MP MA Sumanthiran and party senior leader Sivakayaganam and executive secretary Kulanayagam held a meeting of opposition leader Sajith Premadasa.
+அதன்படி இன்று பிற்பகல் மாத்தளை எல்கடுவ பெருந்தோட்ட நிறுவனத்தின் தலைமை அலுவலகத்தில் தோட்டத் தொழிலாளர்களுக்கு அதிகரிக்கப்பட்ட நாளாந்த சம்பளம் வழங்கப்பட்டது. R
 
 ◼️
 
-[Data](articles/9ee57539.json)
-
-[Extended Data](ext_articles/9ee57539.ext.json)
-
----
-
-### Any future Sri Lankan government will have to comply with IMF deal: Cabinet Spokesman
-
-*2024-06-10 20:44:00* · [`economynextcom`](https://economynext.com/any-future-sri-lankan-government-will-have-to-comply-with-imf-deal-cabinet-spokesman-167290/) · `en`
-
-ECONOMYNEXT – No future Sri Lankan government will have room to maneuver with the International Monetary Fund deal at least until 2028 as it will be the key for the island nation to come out of the ongoing unprecedented economic crisis and seek commercial borrowing from international capital markets, Cabinet Spokesman Bandula Gunawardena said.
-
-His comments come as some of the opposition political leaders have publicly expressed their willingness to amend the IMF deal, citing it has burdened the public amid Economic Transformation Bill tabled in the island nation’s parliament is expected to ensure sustainability of international agreements.
-
-“In drafting the budget for the upcoming year 2025, irrespective of the government ruling, it is imperative to address the loan agreements established with the International Monetary Fund (IMF) until 2028,” Gunawardena told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/dc933017.json)
-
-[Extended Data](ext_articles/dc933017.ext.json)
-
----
-
-### Ceylon Holidays on the 26th - Sri Lanka Teachers Association
-
-*2024-06-10 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185788) · `ta`
-
-Sri Lanka Teachers Union plans a trade union action on the 26th due to wage disputes. The protest, organized on the 12th, aims to address these issues.
-
-🟩
-
-The Sri Lanka Teachers Union has decided to engage in trade union action on the 26th of this month.
-
-Joseph Stalin, general secretary of the association, said the move was taken due to a wage conflict.
-
-Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest will be organized on the 12th of this month.
-
-◼️
-
-[Data](articles/33cf5105.json)
-
-[Extended Data](ext_articles/33cf5105.ext.json)
+[Data](articles/76fc6c03.json)
 
 ---

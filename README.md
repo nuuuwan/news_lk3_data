@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 13:34:40**
+As of **2024-06-11 13:53:57**
 
 ## Newspaper Stats
 
-*Scraped **29,767** Articles*
+*Scraped **29,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,94 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,545
+adalk | 2,547
 adaderanalk | 3,366
-tamilmirrorlk | 3,488
+tamilmirrorlk | 3,489
 virakesarilk | 4,557
-dailymirrorlk | 4,716
-adaderanasinhalalk | 4,792
+dailymirrorlk | 4,717
+adaderanasinhalalk | 4,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,766 (100.0%) of 29,767 articles have been extended.
+29,767 (100.0%) of 29,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### கழிவறை விஷ வாயு: 3 பெண்கள் பலி
+### අසරණ පවුලක් තවත් අසරණ වූ මොහොතක්
 
-*2024-06-11 13:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிவறை-விஷ-வாயு-3-பெண்கள்-பலி/175-338756) · `ta`
+*2024-06-11 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197642) · `si`
 
-கழிவறையில் இருந்து வெளியான விஷவாயு தாக்கியதில் ஒரே குடும்பத்தைச் சேர்ந்த மூவர் மரணமடைந்துள்ளனர். இந்த சம்பவம், புதுச்சேரியின் ரெட்டியார்பாளையம் தொகுதிக்கு உட்பட்ட புதுநகர் பகுதியில் இடம்பெற்றுள்ளது. அங்கு  500க்கும் மேற்பட்ட குடும்பங்கள் வசித்து வருகின்றன.
+උපතින්ම දෙබිඩි දියණියන් දෙ‍දෙනෙකු නඩත්තු කිරීමට හා ඔවුන් දෙදෙනා ශරීරයෙන් වෙන්කිරීමට පිහිටක් ඉල්ලා සිටින මා පිය යුවළක් ගැන තොරතුරු අපට අරණායක ප්‍රදේශයෙන් වාර්තා වුණි.
 
-இந்த பகுதியில் உள்ள ஒரு வீட்டில் கழிவறைக்கு சென்ற மூதாட்டி ஒருவர் மயங்கிய நிலையில் கிடந்துள்ளார். இதை கண்ட அவரது மகள் காப்பாற்ற சென்று, அவரும் மயங்கி விழுந்தார். தனது பாட்டி மற்றும் தாய் மயங்கிய நிலையில் கிடந்ததை கண்ட சிறுமி, அவர்களை காப்பாற்ற சென்றபோது அவரும் மயங்கி விழுந்தார்.
+◼️
 
-3 பேரும் மயங்கிய நிலையில் கிடந்ததை கண்ட அக்கம்பக்கத்தினர், உடனடியாக மீட்டு அருகில் உள்ள அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். அவர்களை பரிசோதித்த மருத்துவர்கள், மூதாட்டி மற்றும் மற்றுமொரு பெண் ஆகிய இருவரும் ஏற்கெனவே உயிரிழந்ததாக தெரிவித்தனர்.
+[Data](articles/56612f33.json)
 
-தொடர்ந்து, சிறுமிக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வந்தது. ஆனால் அவரும் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+---
+
+### Eleven schools in Anuradhapura close for Poson festival
+
+*2024-06-11 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eleven-schools-in-Anuradhapura-close-for-Poson-festival/108-284600) · `en`
+
+Anuradhapura, June 11 (Daily Mirror) - The North Central Province Education Ministry announced today the closure of eleven schools in the Anuradhapura, Mihintale and Thanthirimale areas in view of the Poson festival.
+
+They said the ‘Poson Week’ will commence on June 18 and conclude on June 20.
+
+Accordingly, Central College Anuradhapura, Swarnapali Balika Maha Vidyalaya, Walisinghe Harischandra Maha Vidyalaya, Nivattakachetiya Maha Pirivena, Zahira National School, Vivekananda Tamil Maha Vidyalayam, Devanampiyatissapura Al Azhar Vidyalaya, Mahabodhi Maha Vidyalaya, Mihintale Maha Vidyalaya, Mihintale Kammalakkulama Vidyalaya and Wimalagnana Vidyalaya in Thanthirimale will be closed.
+
+The schools will be closed to provide accommodation to police personnel on duty during the Poson week.
 
 ...
 
+[Data](articles/8213a28f.json)
+
+---
+
+### கணினி கல்வியறிவு 39% அதிகரிப்பு
+
+*2024-06-11 13:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணினி-கல்வியறிவு-39-அதிகரிப்பு/175-338757) · `ta`
+
+இலங்கையில் கணினி கல்வியறிவு 2023 ஆம் ஆண்டில் 39% ஆக அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்  தெரிவித்துள்ளது.
+
+கணினி மற்றும் டிஜிட்டல் கல்வியறிவு குறித்த அதன் சமீபத்திய வெளியீட்டில், நாட்டின் கணினி எழுத்தறிவு விகிதம் 39.0% ஆகவும், டிஜிட்டல் எழுத்தறிவு விகிதம் 63.5% ஆகவும் உள்ளது என்று மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்   தெரிவித்துள்ளது.
+
+கூடுதலாக, 20.2% குடும்பங்கள் டெஸ்க்டாப் அல்லது லேப்டாப் கம்ப்யூட்டரை வைத்திருக்கின்றன, நகர்ப்புறத் துறையானது கணினி மற்றும் டிஜிட்டல் திறன் இரண்டிலும் அதிக கல்வியறிவை வெளிப்படுத்துகிறது.
+
+வீட்டுக் கணினி உரிமையைப் பொறுத்தவரை, நாட்டில் உள்ள 20.2% குடும்பங்களில் குறைந்தபட்சம் ஒரு கணினி கிடைக்கிறது, அதாவது ஒவ்வொரு ஐந்து குடும்பங்களிலும் ஒருவருக்கு டெஸ்க்டாப் அல்லது லேப்டாப் உள்ளது. நகர்ப்புறங்களில், இந்த சதவீதம் 34.0% ஆகவும், கிராமப்புற மற்றும் தோட்டத் துறைகளில் 18.1% ஆகவும் உள்ளது என்றும் மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்   தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ccb265a8.json)
+
+---
+
+### Toilet poison gas: 3 women kill
+
+*2024-06-11 13:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிவறை-விஷ-வாயு-3-பெண்கள்-பலி/175-338756) · `ta`
+
+In Pudunagar, Puducherry, a tragic incident occurred where three family members died due to a poisonous gas leak from the toilet. A grandmother, her daughter, and a granddaughter fell unconscious while using the toilet and were rushed to a local hospital, but unfortunately, all three passed away. The cause is suspected to be a gas leak from the sewage system affecting the area.
+
+🟩
+
+Three members of the same family have died in a poisonous attack released from the toilet. The incident took place in the Pudunagar area of ​​the Rediyarpalayam constituency of Puducherry. There are over 500 families living there.
+
+A grandmother who went to the toilet in a house in the area is lying in a faint. Seeing this, her daughter went to save and she fell unconscious. The girl, who saw her grandmother and mother lying in a state of fainting, fell unconscious when she went to save them.
+
+The neighbors saw that all three were lying in a state of fainting and immediately rescued and sent him to a nearby government hospital.. Doctors, who examined them, said that both elders and another woman had already died.
+
+Subsequently, the girl was treated intensively. But he too died without treatment.
+
+A gas leak from the sewage drainage in the area has been reported to 3 people who died from the toilet of the gas house.
+
+◼️
+
 [Data](articles/e3507418.json)
+
+[Extended Data](ext_articles/e3507418.ext.json)
 
 ---
 
@@ -721,6 +777,22 @@ Regarding household computer ownership, at least one computer is available in 20
 [Data](articles/10d8367f.json)
 
 [Extended Data](ext_articles/10d8367f.ext.json)
+
+---
+
+### සැමියා මිත්‍රයා සමග එක්ව බිරිදව ඝාතනය කරයි
+
+*2024-06-11 10:03:32* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-මිත්‍රයා-සමග-එක්ව-බිරිදව-ඝාතනය-කරයි/11-410134) · `si`
+
+තම මිතුරා සමග එක්ව බිරිඳව ඝාතනය කළ සැමියෙක් මිතුරාද සමග අත්අඩංගුවට ගත් බව පොලීසිය පවසයි. තලංගම පොලිස් වසමේ තලාහේන ප්‍ර දේශයේ නිවසක කුලියට ජිවත්ව සිටියදී මෙම ඝාතනය සිදුව තිබේ.
+
+ඊයේ රාත්‍රිෙය්දී 31 හැවැරිදි බිරිඳ හා 31  හැවැරිදි සැමියා අතර බහින්බස් වීමක් සිදුවීමෙන් අනතුරුව සැමියා හා 44 හැවැරිදි මිතුරා එක්ව අදාළ කාන්තාවට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඉන් අනතුරුව සැකකරුවන් දෙදෙනා නිවස වසාදමා පිටව ගොස් ඇති අතර පසුව ඔවුන් දෙදෙනාම පොලීසියට මේ ගැන පැමිණිලි කර තිබේ.
+
+◼️
+
+[Data](articles/6b60b75b.json)
 
 ---
 
@@ -2239,77 +2311,5 @@ TFAB’s dedication to professional development is evident through its annual se
 [Data](articles/ae65d015.json)
 
 [Extended Data](ext_articles/ae65d015.ext.json)
-
----
-
-### Unilever Sri Lanka inaugurates solar power project at Horana factory, contributing to national renewable energy goals and global sustainability commitments
-
-*2024-06-10 22:41:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-inaugurates-solar-power-project-at-horana-factory-contributing-to-national-renewable-energy-goals-and-global-sustainability-commitments/) · `en`
-
-Unilever Sri Lanka recently inaugurated a new 2.33 MW solar power project at its Horana factory, partnering with Abans Electricals PLC for project execution. This significant step forward in Unilever’s commitment to sustainability and renewable energy represents a total investment of 1.3 million Euros. The project aligns with Unilever’s Global Climate Transition Action Plan (CTAP) and contributes to the ambitious goals set by the Sri Lankan Ministry of Electricity and Energy for transitioning the country’s electricity supply to renewable sources by 2030.
-
-...
-
-[Data](articles/c1d3ee1c.json)
-
-[Extended Data](ext_articles/c1d3ee1c.ext.json)
-
----
-
-### CSE Masterminds – most anticipated capital market quiz competition
-
-*2024-06-10 22:39:00* · [`islandlk`](http://island.lk/cse-masterminds-most-anticipated-capital-market-quiz-competition/) · `en`
-
-The “CSE Masterminds Quiz” competition is back for its sixth edition on 05th July 2024 from 4.30 p.m. onwards at the Main Ballroom, Shangri-La Colombo.
-
-With over Rs. 2 million worth of prizes, the event is expected to draw the interest of both public and private sector companies. Participants will be tested on their knowledge of local and global capital markets, general knowledge, sports, entertainment and current affairs.
-
-CSE Masterminds 2024 will offer a cash prize of Rs. 1,000,000/- for the winning team, with additional cash prizes of Rs. 500,000/- and Rs. 300,000/- awarded to the second and third placed teams, respectively. Sector prizes will also be awarded to the best-performing team of each respective sector.
-
-The Platinum Sponsors for the CSE Masterminds 2024 are Bartleet Religare Securities (Pvt) Ltd and First Capital Holdings PLC whilst the Gold sponsor is Ex-pack Corrugated Cartons PLC.
-
-...
-
-[Data](articles/ed8a09a3.json)
-
-[Extended Data](ext_articles/ed8a09a3.ext.json)
-
----
-
-### Share market driven by retail investors as IMF third tranche hopes rise
-
-*2024-06-10 22:36:00* · [`islandlk`](http://island.lk/share-market-driven-by-retail-investors-as-imf-third-tranche-hopes-rise/) · `en`
-
-The stock market yesterday was driven by retail investors due to speculation that IMF approval would materialize this week and that Sri Lanka will receive the third tranche of the IMF EFF. This is a great inducement for foreign and local investors to invest in the stock market, analysts said.
-
-Due to these developments the market was bullish and both indices moved upwards. The All Share Price Index went up by 87.11 points while the S and P SL20 rose by 35.2 points. Turnover stood at Rs1.6 billion with one crossing. The crossing was reported in JKH, which crossed 1.25 million shares to the tune of Rs 253 million; its shares traded at Rs 204.
-
-...
-
-[Data](articles/a497ae83.json)
-
-[Extended Data](ext_articles/a497ae83.ext.json)
-
----
-
-### Non-communicable diseases cause nearly 90% of deaths in Sri Lanka
-
-*2024-06-10 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-communicable-diseases-cause-nearly-90-of-deaths-in-Sri-Lanka/108-284531) · `en`
-
-Colombo, June 10 (Daily Mirror) - Sri Lanka is facing a health crisis of non-communicable diseases (NCDs) which account for 89% of deaths, according to Health Secretary Dr. Palitha Mahipala.
-
-The hardest hit are those aged 50 to 60, with four out of ten falling victim to NCDs.
-
-“Each year, 60,000 Sri Lankans suffer strokes, resulting in 4,000 deaths and leaving thousands with serious health issues,” the health secretary underscored.
-
-“Smoking is another major killer, causing 20,000 deaths annually,” he added.
-
-To combat this, the Japan International Cooperation Agency (JICA) is investing Rs 70 billion over the next five years. Their plan includes boosting primary health care and setting up five cardiac catheterization units across the island.
-
-◼️
-
-[Data](articles/c7d403f2.json)
-
-[Extended Data](ext_articles/c7d403f2.ext.json)
 
 ---

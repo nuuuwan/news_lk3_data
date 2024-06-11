@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 18:53:34**
+As of **2024-06-11 19:04:08**
 
 ## Newspaper Stats
 
-*Scraped **29,822** Articles*
+*Scraped **29,823** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 271
 dbsjeyarajcom | 279
-bbccomsinhala | 289
+bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,821 (100.0%) of 29,822 articles have been extended.
+29,822 (100.0%) of 29,823 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,29 @@ The wreckage of the plane was found as a result of the operation implemented for
 
 ---
 
-### ඇමති විජයදාසට එරෙහි වාරණය දිගු කරයි
+### Minister extends block against Wijayaka
 
 *2024-06-11 18:01:24* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-එරෙහි-වාරණය-දිගු-කරයි/11-410150) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් හෝ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකයකු වශයෙන් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ  මහතා කටයුතු කිරීම වළකාලමින් නිකුත් කර තිබු වාරණ නියෝගය ලබන 25 වැනිදා දක්වා දීර්ඝ කිරීමට කොළඹ අතිරේක දිසා විනිසුරු චන්දිම එදිරිමාන්න මහතා නියම කළේය.
+Sri Lanka's Colombo Additional District Judge Chandima Edirimanna issued an injunction against SLFP members Lasantha Alagawanna and Lasantha Alagiyawanni, including party treasurer Wijayadasa Rajapakse and acting Secretary-General Maithripala Sirisena, blocking them from certain actions until June 25th. The judge ordered them to appear in court regarding a complaint.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා ගොනු කළ පෙත්සමක් සළකා බැලීමෙන් අනතුරුව එසේ නියම කළ දිසා විනිසුරුවරයා ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන ප්‍රධාන ලේකම් දුමින්ද දිසානායක සහ සභාපති නිමල් සිරිපාද සිල්වා මහත්වරුන්ගේ කටයුතුවලට බාධා කිරීම වළකාලමින්ද වාරණ නියෝගයක්ද නිකුත් කළේය.
+🟩
 
-ජුනි මස 25 වැනිදා තෙක් බලපැවැත්වෙන අන්දමට අදාළ වාරණ නියෝග නිකුත් කළ දිසා විනිසුරුවරයා එදින අධිකරණයේ පෙනී සිට කරුණු දැක්වීමට දැනුම් දෙමින් වගඋත්තරකරුවන්ට නොතිසි නිකුත් කළේය.
+Colombo Additional District Judge Chandima Edirimanna was appointed as a member of the SLFP as a member of the SLFP or a member of the SLFP.
 
-...
+The District Judge of Sri Lanka Freedom Party Lasantha Alagawanna, the District Judge of the Sri Lanka Freedom Party Lasantha Alagiyawanna issued the decision to obstruct the gentlemen.
+
+The District Judge issued an injunction orders issued until June 25, the District Judge issued the respondents notice.
+
+The SLFP Treasurer of Sri Lanka Freedom Party (SLFP) Treasurer of Sri Lanka Freedom Party Lasantha Alagiyawani has been named as respondents, Mr. Wijayadasa Rajapakse, and the Trees Maithripala Sirisena, who was appointed as acting Secretary-General.
+
+After considering the petition, the District Judge extended to all the injunctions and interim injuries asking for the complaint, the Respondent (C) Respondents to appear in court that day.
+
+◼️
 
 [Data](articles/abd3235b.json)
+
+[Extended Data](ext_articles/abd3235b.ext.json)
 
 ---
 
@@ -1334,6 +1344,24 @@ In the article, it is mentioned in the article that congratulations on this succ
 
 ---
 
+### රත්නපුර හිටපු දිසාපතිවරිය, පොලිසිය හා යුද හමුදාව ශ්‍රේෂ්ඨාධිකරණය හමුවේ මාධ්‍යවේදියෙකුගෙන් සමාව ගනී
+
+*2024-06-11 12:20:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7223ljmy9do) · `si`
+
+රත්නපුර හිටපු දිසාපතිවරිය, පොලිසිය හා යුද හමුදාව ශ්‍රේෂ්ඨාධිකරණය හමුවේ මාධ්‍යවේදියෙකුගෙන් සමාව ගනී
+
+රත්නපුර දිසාපති කාර්යාලය තුළට හිස් වැසුමක් පැළඳ ඇතුළු වූයේ යැයි චෝදනා කරමින් රත්නපුර පොලිසියේ කොස්තාපල්වරයෙකු සහ කුරුවිට හමුදා කඳවුරේ සාමාජිකයෙකු  මාධ්‍යවේදියෙකුට පහර දීමේ සිද්ධිය සම්බන්ධයෙන් රත්නපුර එවක දිසාපතිවරිය, රත්නපුර පොලිසියේ එවක ස්ථානාධිපතිවරයා ඇතුළු පිරිසක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ අද (ජුනි 11 වැනිදා) එම මාධ්‍යවේදියාගෙන් විවෘත අධිකරණයේදී වැඳ සමාව ගත්හ.
+
+ඒ අනුව අදාළ ආරවුල සමථයට පත් කෙරුණු අතර පෙත්සම්කාර මාධ්‍යවේදියාට එරෙහිව මහේස්ත්‍රාත් අධිකරණය හමුවේ ගොනුකර තිබූ නඩුකරය ඉල්ලා අස්කර ගන්නා බවත් පෙත්සම්කරුට ඉදිරියේදී කිසිදු ක්‍රියා මාර්ගයක් නොගන්නා බවත් වග උත්තරකාර පොලිස් නිලධාරීහූ අධිකරණය හමුවේ එකඟතාවය පළ කළහ.
+
+මාධ්‍යවේදී සරත් විමලරත්න ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක්  මුර්දු ප්‍රනාන්දු සහ මහින්ද සමයවර්ධන යන විනිසුරු මඩුල්ල ඉදිරියේ අද කැඳවන ලැබුණි
+
+...
+
+[Data](articles/26f55949.json)
+
+---
+
 ### Tennakoon does not invite the seat conference on Pohon
 
 *2024-06-11 12:19:01* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ආසන-සමුළුවට-තෙන්නකෝන්ලට-ආරාධනා-නෑ/11-410138) · `si`
@@ -2355,41 +2383,5 @@ The Western Province has the highest computer literacy and there is a computer l
 [Data](articles/53c4d010.json)
 
 [Extended Data](ext_articles/53c4d010.ext.json)
-
----
-
-### Bodies found in three areas
-
-*2024-06-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197624) · `si`
-
-In Negombo, police found three bodies: one near Marstela College and two others unidentified, aged around 60-65, dressed in red and blue. Investigations ongoing.
-
-🟩
-
-Police have found three bodies found in three areas.
-
-The bodies found that the bodies yesterday
-
-Negombo police have commenced investigations on a tip off received by a person in front of Marstela College, Negombo.
-
-The deceased is about 65 years of age and the last banner and blue boxes are dressed.
-
-Meanwhile, an 119 information was found that a corpse of the Negombo was behind the Church of Negombo.
-
-The identity of the deceased has not yet been established, the Negombo Police said.
-
-The victim has tattoos and shoulder tattood and the last time was a robbery-long shirt.
-
-Panadura South Police have launched a telephone message that a woman has died in the Rankon Temple in the Rankon Temple in Panadura South Police Division.
-
-The identity of the deceased has not yet been established, and she is about 60 and 65 years and 1 inch of height.
-
-Police say a red hatch and blue and a farming skirt.
-
-◼️
-
-[Data](articles/4f702b2b.json)
-
-[Extended Data](ext_articles/4f702b2b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 21:34:32**
+As of **2024-06-11 21:54:08**
 
 ## Newspaper Stats
 
-*Scraped **29,853** Articles*
+*Scraped **29,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,86 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
-adalk | 2,560
+adalk | 2,561
 adaderanalk | 3,375
 tamilmirrorlk | 3,497
 virakesarilk | 4,567
-dailymirrorlk | 4,731
+dailymirrorlk | 4,732
 adaderanasinhalalk | 4,805
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,851 (100.0%) of 29,853 articles have been extended.
+29,853 (100.0%) of 29,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### සමාජ මාධ්‍යයේ දැන් වනිඳුට වඩා හොඳ ක්‍රීඩකයෝ ඉන්නවා - හරීන්
+### Probe into video of youth touching sleeping wild elephant
+
+*2024-06-11 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-into-video-of-youth-touching-sleeping-wild-elephant/108-284620) · `en`
+
+Colombo, June 11 (Daily Mirror) - An investigation has been launched by the Anuradhapura Wildlife Assistant Director regarding a video circulating on social media showing a youth touching a wild elephant while it was asleep.
+
+This video was recorded in the Ranajayapura forest area of Anuradhapura.
+
+The video clearly shows one of the three youths carefully approaching the sleeping elephant, touching it and then gradually retreating.
+
+They recorded the video as an adventure activity, claiming they did not zoom in to make it appear fake. Their stated purpose was to demonstrate how to get close to a wild elephant.
+
+The Wildlife Department urged people not to engage in such activities, highlighting the risks involved, and advised against attempting similar actions after watching the video.
+
+◼️
+
+[Data](articles/54be2e33.json)
+
+---
+
+### There are better players in the social media now - Harin
 
 *2024-06-11 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197655) · `si`
 
-සමාජ මාධ්‍ය තුළ විවේචන එල්ල වූ පමණින් ක්‍රිකට් ක්‍රීඩකයින් වෙනස් කිරීමට හැකියාවක් නොමැති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Harin Fernando, Sri Lanka's Sports Minister, addressed criticisms on social media against cricketers post-match losses, stating that such comments won't affect the players. He highlighted the unfairness of targeting cricketers online, especially when the team's performance is scrutinized after defeats. Fernando also mentioned the recent imposition of new rules by SLC officials, questioning the rationale behind certain decisions.
 
-අද කොළඹදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ක්‍රීඩා අමාත්‍යවරයා කියා සිටියේ ඉකුත් තරග දෙකේ පරාජය පදනම් කරගනිමින් ශ්‍රී ලංකා ක්‍රීඩකයන් හෑල්ලුවට ලක්කිරීම අසාධාරණ බවය.
+🟩
 
-පසුගියදා නව නියෝග පනවමින් නිකුත් කළ ගැසට් නිවේදනයෙන් ක්‍රිකට් ආයතනයේ නිලධාරීන්ගේ ධුර කාලය දීර්ඝ කර ඇතැයි ඇතැමුන් එල්ල කරන චෝදනා පදනම් විරහිත අසත්‍ය ඒවා බවද ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Sports Minister Harin Fernando says that the cricketers of criticism in the social media cannot change cricketers.
 
-"නොදන්න මඟුල්වලට එක එක හෑලි ලියන උන්ට නම් අම්මපා මොකක්ද කරන්නේ කියලා තමයි කල්පනා කරන්නේ. ක්‍රීඩාව දැන් වැටිලා. සමාජ මාධ්‍ය බැලුවොත් සියලුදෙනා දැන් වනිඳුටත් වැඩිය හොඳට ක්‍රීඩා කරන්න පුළුවන් අය. කොහෙවත් යන කීබෝඩ් වීරයන්ගේ කීමට ක්‍රිකට් වෙනස් කරන්න ගියොත් සති පතා වෙනස් කරන්න වෙන්නේ."
+The Sports Minister said that a press conference in Colombo today was held based on the defeat of Sri Lankan players based on the defeat of the two matches.
+
+Minister of Sports Harin Fernando says that the allegations of the SLC officials have been extended from the Gazette Notification that the SLC officials have recently imposed new orders.
+
+"It is wondering why Mampah is doing to write down to wedding wedding. The game is now. If the social media seems everyone can play too much better. If you have to change cricket to say about the keyboard heroes, where to change cricket. "
 
 ◼️
 
 [Data](articles/493dc50f.json)
 
+[Extended Data](ext_articles/493dc50f.ext.json)
+
 ---
 
-### காரைதீவு பிரதேச மக்கள், மீனவர்களின் நெருக்கடிகளை தீர்க்க அமைச்சர் டக்ளஸ் தேவானந்தாவிடம் கோரிக்கை
+### Minister Douglas Devananda requests the people of Karativu area to resolve the crises of fishermen
 
 *2024-06-11 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185860) · `ta`
 
-காரைதீவு பிரதேசத்தை சேர்ந்த மீனவர்களின் வாழ்வாதாரத்தை மேம்படுத்துகின்ற வகையில் காரைதீவு இந்து மயானத்தை அண்டிய தோணா முகத்துவாரத்தை செப்பனிடுவது குறித்து பரிசீலிக்க கடற்றொழில் நீரியல் வள துறை அமைச்சர் டக்ளஸ் தேவானந்தாவின் விசேட பிரதிநிதி செவ்வாய்க்கிழமை (11) காலை கள விஜயம் மேற்கொணடார்.
+Douglas Devananda, Fisheries Minister, urges Karativu residents to address crises affecting fishermen. His rep plans to visit the area to enhance fisherfolk's livelihoods, focusing on repairing the Dana Sangam and establishing educational programs and employment opportunities. The initiative aims to mitigate issues like seaweed infestations and earthquakes impacting local fisheries, ensuring a sustainable future for Karativu's fishing community.
 
-காரைதீவை சேர்ந்த பொதுநல செயற்பாட்டாளரும், ஓய்வு நிலை பிரதி அதிபருமான சுந்தரம் தில்லையம்பலம் தொலைபேசியில் அமைச்சர் டக்ளஸ் தேவானந்தாவின் மேலான கவனத்துக்கு தோணா முகத்துவாரத்தை செப்பனிட வேண்டியதன் அவசியம் குறித்து உரையாடியமையை அடுத்து சூறாவளி வேகத்தில் இவ்விஜயம் இடம்பெற்றது.
+🟩
 
-தோணா முகத்துவாரத்தை செப்பனிட்டு தருவதன் மூலம் பல நூற்று கணக்கான மீனவ உறவுகளுக்கு வாழ்வாதாரம், தொழில் வாய்ப்பு கிடைக்க்க வழி செய்வதுடன் மயானத்துக்கும் தோணா முகத்துவாரத்துக்கும் இடையில் கல்வேலி அமைத்து தருவதன் மூலம் மயானத்தை பாதுகாத்து தருவதற்கும் அமைச்சர் நடவடிக்கை எடுக்க வேண்டும் என்று தில்லையம்பலம் கோரி உள்ளார்.
+Fisheries and Aquatic Resources Minister Douglas Devananda's special representative of the Karadivu Hindu Cemetery will be visited on Tuesday (11) morning to improve the livelihood of fishermen from Karadivu.
+
+This was held at a hurricane, following a speech on the need to repair the Dana Sangam for the attention of Minister Douglas Devananda, a welfare activist and retirement deputy chief minister of Karadivu, Sundaram Thillaiyambalam.
+
+The Minister has demanded that the Minister take steps to protect the cemetery by setting up the tanna and the establishment of the Education and the Dana Mukthanam, which will provide a way of life and employment for hundreds of fishermen.
 
 ...
 
 [Data](articles/a6a5296a.json)
+
+[Extended Data](ext_articles/a6a5296a.ext.json)
 
 ---
 
@@ -323,6 +355,22 @@ Sheikh Hasina has also aledged support for Sri Lanka's agricultural modernizatio
 [Data](articles/311ed1d0.json)
 
 [Extended Data](ext_articles/311ed1d0.ext.json)
+
+---
+
+### රත්නපුර හිටපු මහ දිසාපතිනී ඇතුළු පිරිසක් මාධ්‍යවේදියෙකුගෙන් වැඳ සමාව ගනියි
+
+*2024-06-11 18:42:06* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-මහ-දිසාපතිනී-ඇතුළු-පිරිසක්-මාධ්‍යවේදියෙකුගෙන්-වැඳ-සමාව-ගනියි/11-410153) · `si`
+
+තොප්පියක් පැලඳ රත්නපුර මහ දිසාපති කාර්යාලයට ඇතුල් වුණැයි කියමින් මාධ්‍යවේදියෙකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් රත්නපුර හිටපු මහ දිසාපති මාලනී ලොකුපෝතාගම මහත්මිය සහ රත්නපුර පොලිසියේ හිටපු ස්ථානාධිපතිවරයා ඇතුළු පිරිසක් ශ්‍රේෂ්ඨාධිකරණයේදී මාධ්‍යවේදියාට වැද අද (11) සමාව ගත්හ.
+
+දෙපාර්ශවයේ එකඟත්වය මත සිද්ධිය සමතයට පත්වූ අතර මාධ්‍යවේදී සරත් විමලරත්න මහතාට එරෙහිව කිසිදු ඉදිරි පියවරක් නොගැනීමටද ඔහුට එරෙහිව මහේත්‍රාත් අධිකරණයේ ගොනු කර ඇති නඩුව ඉල්ලා අස්කර ගැනීමටද වගඋත්තරකරුවන් ශ්‍රේෂ්ඨාධිකරණයේදී පොරොන්දු වුහ.
+
+තොප්පියක් පැලඳ රත්නපුර මහ දිසාපති කාර්යාලයට ඇතුල් වුණැයි කියමින් රත්නපුර දිසාපති කාර්යාලයේ ආරච්චිවරයකු, රත්නපුර පොලිසියේ හිටපු සැරයන්වරයකු, කුරුවිට හමුදා කදවුරේ යුද හමුදා කෝප්‍රල්වරයකු ඇතුළු පිරිසක් මාධ්‍යවේදී සරත් විමලරත්න මහතාට පහරදී අත්අඩංගුවට ගෙන රත්නපුර පොලීසියේ රඳවා ගැනීමෙන් ඔහුගේ මුපික අයිතිවාසිකම් කඩ කළැයි සඳහන් කරමින් පවරා ඇති පෙත්සම කැදූවු අවස්ථාවේදී නඩුව එසේ සමථයකට පත් විය.
+
+...
+
+[Data](articles/c3b507e0.json)
 
 ---
 
@@ -2283,51 +2331,5 @@ The case had been filed by the Sri Lanka Freedom Party Treasurer and Minister La
 [Data](articles/2ec0f489.json)
 
 [Extended Data](ext_articles/2ec0f489.ext.json)
-
----
-
-### The husband who killed his wife together with friend
-
-*2024-06-11 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197633) · `si`
-
-A man and his friend allegedly murdered his wife with sharp objects during an argument in Talangama, Thalahena. The victim, a 31-year-old from Talangama, was also known to reside in Hingurakgoda. Police were notified after finding the body, which was bound at the time of discovery.
-
-🟩
-
-The body of a woman who had been assaulted by sharp weapons was found in Talangama, Thalahena area this morning (11).
-
-The husband and his friend say that the husband and his friend have been assassinated with a sharp object, killing a sharp object on a heated argument between the death and her husband on the 6th.
-
-The suspects then came and the police had come to the police.
-
-The deceased has been identified as a 31 year old resident of Talangama, the death of the victim and the other 10-year-old resident of the Hingurakgoda area.
-
-The accident had been tied up at the time when the body was found, police said.
-
-◼️
-
-[Data](articles/8b1f81ed.json)
-
-[Extended Data](ext_articles/8b1f81ed.ext.json)
-
----
-
-### Govt unable to address public sector wage disparities through 2024 Budget
-
-*2024-06-11 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99797/govt-unable-to-address-public-sector-wage-disparities-through-2024-budget-) · `en`
-
-Minister Bandula Gunawardana has said that the government is currently unable to allocate additional financial resources to resolve wage disparities in the public sector through the 2024 Budget.
-
-This announcement was made during a press conference at the Presidential Media Centre (PMC).
-
-Minister Gunawardana noted that a committee has been established, comprising the President’s Secretary and the Secretary of the Ministry of Finance, to address issues related to salaries, including discrepancies within government departments, state corporations, and statutory bodies.
-
-He further stated that the Cabinet, led by President Ranil Wickremesinghe, has decided to propose and implement comprehensive solutions for these salary issues in the 2025 Budget.
-
-◼️
-
-[Data](articles/22a4f053.json)
-
-[Extended Data](ext_articles/22a4f053.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 16:19:13**
+As of **2024-06-11 16:34:55**
 
 ## Newspaper Stats
 
-*Scraped **29,784** Articles*
+*Scraped **29,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,551
+adalk | 2,553
 adaderanalk | 3,369
 tamilmirrorlk | 3,490
-virakesarilk | 4,557
-dailymirrorlk | 4,719
+virakesarilk | 4,562
+dailymirrorlk | 4,722
 adaderanasinhalalk | 4,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,782 (100.0%) of 29,784 articles have been extended.
+29,784 (100.0%) of 29,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති රක්ෂිත බන්ධනාගාරයට
+
+*2024-06-11 16:17:15* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-ප්‍රාදේශීය-සභාවේ-හිටපු-සභාපති-රක්ෂිත-බන්ධනාගාරයට/11-410147) · `si`
+
+කොටවිල පොලීසියේ ස්ථානාධිපතිවරයාගේ සහ නිලධාරීන්ගේ රාජකාරියට බාධා කළ සිද්ධියක් සම්බන්ධයෙන් වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති පුෂ්පකුමාර බැට්ටගේ මෙම මස 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මාතර මහෙස්ත්‍රාත්වරයා විසින් නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/4fb65136.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் போட்டியிட தயார் - சிவாஜிலிங்கம்
+
+*2024-06-11 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185836) · `ta`
+
+தமிழ் பொது வேட்பாளரை நிறுத்துவதில் சிக்கல் ஏற்பட்டால் நான் சுயேட்சையாக போட்டியிடுவேன் என வடமாகாண சபையின் முன்னாள் உறுப்பினர் எம்.கே சிவாஜிலிங்கம் தெரிவித்துள்ளார்.
+
+யாழ்.ஊடக அமையத்தில் இன்று செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+தமிழ் பொது வேட்பாளரை நிறுத்துவது தொடர்பில் முயற்சிகள் முன்னெடுக்கப்பட்டு வருகிறது. இம்முறை மக்கள் மத்தியிலும் பொது வேட்பாளர் விடயம் பேசப்படுகிறது.
+
+எனவே, இம்முறை ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவர் முன்னிறுத்தப்படுவார். அதில் ஏதேனும் சிக்கல்கள் ஏற்பட்டால் , நான் சுயேட்சையாக போட்டியிடுவேன் என தெரிவித்தார்.
+
+அதேவேளை, யாழ்ப்பாணத்தில் கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்ற மக்கள் மன்றம் நிகழ்வில் சிவில் சமூகத்திற்கு மக்கள் ஆணையில்லை என நாடாளுமன்ற உறுப்பினர் எம்.ஏ சுமந்திரன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/66166da7.json)
+
+---
+
+### Malawi’s vice president killed in plane crash
+
+*2024-06-11 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Malawis-vice-president-killed-in-plane-crash/108-284606) · `en`
+
+June 11 - The Vice President of Malawi, Dr. Saulos Chilima, and 9 other people including his wife, were killed when the plane they were travelling in crashed in the Chikangawa mountain range, the government said Tuesday.
+
+President Lazarus Chakwera declared Tuesday a national day of mourning.
+
+The announcement was made Tuesday morning in a statement by the Office of the President and Cabinet, which said, "unfortunately, all on board have perished in the crash," which happened Monday morning after the military aircraft took off from the country's capital Lilongwe.
+
+Chilima and the other passengers had been headed to attend the funeral of the country's former attorney general when their plane dropped off radar. Air traffic officials said the plane had been unable to land at Mzuzu airport, about 200 miles north of the capital, due to poor visibility, and the pilot had been advised to return to Lilongwe when the flight disappeared.
+
+...
+
+[Data](articles/877d1372.json)
+
+---
+
+### ஈக்களின் அதிகரிப்பால் வயிற்றுப்போக்கு, வைரஸ் தொற்றுக்காய்ச்சல் ஏற்படும் அபாயம் - விசேட வைத்திய நிபுணர்
+
+*2024-06-11 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185824) · `ta`
+
+நாட்டில் வெள்ள நீர் வடிந்து வருவதால் ஈக்களின் பெருக்கம் அதிகரித்து வயிற்றுப்போக்கு மற்றும் வைரஸ் தொற்றுக் காய்ச்சல் பரவும் அபாயம் ஏற்பட்டுள்ளதாக கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+வெள்ளம் சூழ்ந்த பகுதிகளில் ஏராளமான கரிமப் பொருட்கள் இருப்பது ஈ முட்டைகள் முதிர்ச்சியடைவதை துரிதப்படுத்துவதுடன், வெள்ள நீர் குறையும்போது ஈக்களின் எண்ணிக்கை விரைவாக அதிகரிக்க வழிவகுக்கிறது.
+
+புதிதாக குஞ்சு பொரித்த இந்த ஈக்கள், உணவு ஆதாரங்களைத் தேடி, அடிக்கடி மலம், குப்பைகள் மற்றும் அசுத்தமான பரப்புகளை நோக்கி சென்று சுகாதார நெருக்கடியை மேலும் அதிகப்படுத்துகின்றன.
+
+ஈக்கள் அதிகரிப்பதன் விளைவுகள் பயங்கரமானவை என்பதுடன், வயிற்றுப்போக்கு நோய்கள் மற்றும் வைரஸ் காய்ச்சலுக்கு காரணமான பற்றீரியா மற்றும் வைரஸ்கள் உள்ளிட்ட நோய்க்கிருமிகளை ஈக்கள் காவி கொண்டு வருகின்றன என அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/caccbb06.json)
+
+---
 
 ### Former Weligama PS Chairman remanded for disrupting police duties
 
@@ -43,6 +111,40 @@ He has been arrested and produced before the court for allegedly disrupting the 
 ◼️
 
 [Data](articles/014258c5.json)
+
+[Extended Data](ext_articles/014258c5.ext.json)
+
+---
+
+### The plane that was traveling in the middle of the night was caught in the rain!
+
+*2024-06-11 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
+
+An Airbus A320-200, en route from Palma de Mallorca to Vienna with 179 passengers and crew, encountered severe hail damage mid-flight. Despite significant damage to its front and cockpit area, including a curved roof and shattered window mirrors, the aircraft's triple-layered windows remained intact, preventing any penetration. The plane managed a safe landing in Vienna, where technicians are assessing the damage. This incident follows a similar event in 2017, highlighting the aircraft's resilience against such weather conditions.
+
+🟩
+
+The Airbus A320-200, owned by the Austria Airlines, has been severely damaged by hail rains.
+
+The aircraft was traveling from Palma de Melioorka, Spain last Sunday (09) with 173 passengers and 6 employees to Vienna, the capital of Oustria.
+
+In the meantime, the front of the aircraft was severely damaged by the hail, the top of the pilot's room was curved and the mirror in the windows.
+
+But the hail did not penetrate the air into the plane with three layers strengthened.
+
+It is worth noting that the aircraft's mirrors are tested to confirm the bipartisan when they are hit by hail or other hard materials while traveling at hundreds of miles per hour.
+
+In this case, the aircraft is safely landing in Vienna regardless of the damage. Technicians are currently investigating the aircraft.
+
+Emmeli Oakli, who was traveling on the plane, described the incident.
+
+"In about 20 minutes before we landed, we entered the hail and thunderstorm. The turmoil began on the plane."said.
+
+...
+
+[Data](articles/0ebba40e.json)
+
+[Extended Data](ext_articles/0ebba40e.ext.json)
 
 ---
 
@@ -72,6 +174,20 @@ Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha Distric
 
 ---
 
+### தேர்தல் நிச்சயமற்ற தன்மையே பொருளாதார மீட்சியை மிகவும் கடுமையாக பாதிக்கக்கூடிய காரணி
+
+*2024-06-11 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185830) · `ta`
+
+பெட்ரோலுக்கோ அல்லது சமையில் எரிவாயுவுக்கோ மக்கள் நீண்ட வரிசைகளில் இப்போது காத்துநிற்பதில்லை. ஆனால், பொருளாதார புள்ளிவிபரங்கள் கவலையளிப்பவையாகவே இருக்கின்றன. நாட்டின் சர்வதேசக் கடன் பொருளாதார வீழ்ச்சிக்கு முன்னர் இருந்ததைப் போன்றே கட்டுப்படுத்த முடியாத அளவுக்குத் தொடர்ச்சியாக அதிகரித்துக்கொண்டு போகிறது.
+
+இரு வருடங்களுக்கு  முன்னர் பொருளாதார நெருக்கடி ஏற்பட்டபோது இலங்கையின் சர்வதேசக் கடன் சுமார் 80 பில்லியன் அமெரிக்க டொலர்களாக இருந்தது. செய்தி அறிக்கைகளின்படி, இலங்கையின் கடன் மணவீக்கம் போன்ற சில பெரும்போக பொருளாதார நடவடிக்கைகளில் ஏற்பட்டிருக்கக்கூடிய சிறிய மேம்பாட்டுக்கு மத்தியில், இப்போது 100 பில்லியன் டொலர்களையும் தாண்டிவிட்டது. அதேவேளை, திருப்பிச் செலுத்தப்படாத சில குறிப்பிட்ட கடனின் முதலும் வட்டியும் 6.4 பில்லியன் டொலர்களை தாண்டிவிட்டது.
+
+...
+
+[Data](articles/be91318f.json)
+
+---
+
 ### Teachers to launch islandwide strike tomorrow
 
 *2024-06-11 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-to-launch-islandwide-strike-tomorrow/108-284603) · `en`
@@ -92,25 +208,31 @@ Additionally, the CTU has called for an increase in paper marking charges. Despi
 
 ---
 
-### කෝටි පහක් වංචා කළ සැකකාරියක් අත්අඩංගුවට
+### Suspect arrested for defrauding five million
 
 *2024-06-11 14:48:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක්-වංචා-කළ-සැකකාරියක්-අත්අඩංගුවට/11-410145) · `si`
 
-ඊශ්‍රායලයේ විදේශ රැකියා ලබා දෙන බව පවසා පුද්ගලයන් විශාල ප්‍රමාණයකගෙන් රුපියල් කෝටි 5 කට ආසන්න මුදලක් වංචා කළ කාන්තාවක් අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+A 51-year-old man from Warakapola has been arrested for allegedly defrauding Rs. 5 million. The Criminal Investigations Department (CID) confirms the arrest, which follows complaints from residents across the island about being cheated out of Rs. 3 million. The suspect, who worked as a nurse, is also linked to a conspiracy involving money laundering. The CID continues its investigation.
 
-දිවයිනේ විවිධ ප්‍රදේශවල පදිංචි පුද්ගලයන් 53 කු සිදුකරන ලද පැමිණිලිවලට අදාළ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකාරයේ එම පැමිණිලිකරුවන්ගෙන් පමණක් රුපියල් හාර කෝටි හැට  ලක්ෂ හැට හතර දාස් තුන්සීයක පුදලක් වංචා කර ඇති බව පොලිසිය සඳහන් කරයි.
+The Criminal Investigations Department says that a large number of persons have been arrested for a large number of Rs.
 
-අත්අඩංගුවට ගත් සැකකාරිය සාත්තු සේවිකාවක් ලෙස සිටිමින් මෙම වංචාව සිදු කර ඇති අතර  එක් පුද්ගලයෙකුගෙන් ලක්ෂ පහ, දහය, හා පහළොව ආදී විවිධ ප්‍රමාණයන්වල මුදල් ලබාගෙන මෙම වංචාව සිදුකර ඇති බව පොලිසියට  ලද පැමිණිලි වලින් සනාථ වන බව පොලිසිය කියයි.
+The suspect has been arrested for the complaints that were residents of various parts of the island.
 
-සැකකාරිය සාපරාදී විශ්වාසය කඩකිරීම. පරිහරණය කිරීම හා මුදල් විශුද්ධිකරණය සඳහා ආධාර අනුබලදීම හා කුමන්ත්‍රණය කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
+Police said that the suspects had been cheated on a three million rupees at Rs.
 
-සැකකාරිය වයස අවුරුදු 51 ක් වන වරකාපොළ පදිංචිකාරියකි. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පරීක්ෂණ පවත්වයි.
+The police say that the fraud has been confirmed by the police that the arrest was conducted as a nurse employee.
+
+Breaking suspect casticity. The assistance and assistance of the money and the conspiracy has been arrested in connection with conspiracy.
+
+The suspect is 51 year old Warakapola resident. The CID is conducting investigations.
 
 ◼️
 
 [Data](articles/766d7c56.json)
+
+[Extended Data](ext_articles/766d7c56.ext.json)
 
 ---
 
@@ -183,6 +305,40 @@ Starting this year, the A/L examination, which has typically been held in Novemb
 [Data](articles/6057f26d.json)
 
 [Extended Data](ext_articles/6057f26d.ext.json)
+
+---
+
+### இலங்கை தமிழரசு கட்சி உறுப்பினர்களை யாழில் சந்தித்து கலந்துரையாடினார் அநுரகுமார
+
+*2024-06-11 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185815) · `ta`
+
+தேசிய மக்கள் சக்தியினருக்கும் தமிழ் அரசுக் கட்சியினருக்கும் இடையில் விசேட சந்திப்பொன்று இன்று செவ்வாய்க்கிழமை (11) காலை யாழில் நடைபெற்றது.
+
+யாழ்ப்பாணத்திற்கு விஐயம் செய்துள்ள அனுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் மாவை சேனாதிராசா தலைமையிலான தமிழ் அரசுக் கட்சியினரை சந்தித்து கலந்துரையாடினர்.
+
+யாழ்ப்பாணம் மார்ட்டின் வீதியிலுள்ள தமிழ் அரசுக் கட்சியின் தலைமை அலுவலகத்தில் இன்று காலை இச் சந்திப்பு இடம்பெற்றது.
+
+இதன் போது பிரதானமாக ஜனாதிபதித் தேர்தல் உட்பட சமகால அரசியல் நிலைமைகள் பற்றி கலந்துரையாடப்பட்டன.
+
+இச் சந்திப்பில் தமிழ் அரசுக் கட்சி சார்பில் அதன் தலைவர் மாவை சேனாதிராசா, துணைத் தலைவர் சீ.வீ.கே.சிவஞானம், நிர்வாக செயலாளர் குலநாயகம், ஊடகப் பேச்சாளர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+
+அதே போன்று தேசிய மக்கள் சக்தியின் சார்பில் அதன் தலைவர் அனுரகுமார திசாநாயக்க மற்றும் அக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர்களான பிமல் ரத்நாயக்கா, இராமலிங்கம் சந்திரசேகரன் உட்பட பலரும் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ce049093.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-11 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185816) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஜூன் 11) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 298.4565 ஆகவும் கொள்வனவு விலை ரூபா 308.0019 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0f7a558f.json)
 
 ---
 
@@ -369,6 +525,22 @@ A gas leak from the sewage drainage in the area has been reported to 3 people wh
 [Data](articles/e3507418.json)
 
 [Extended Data](ext_articles/e3507418.ext.json)
+
+---
+
+### අමිතිරිගල ත්‍රිත්ව ඝාතනයට මන්නා රමේෂ්ගේ සමීපතමයන් 2ක් අල්ලයි
+
+*2024-06-11 13:12:11* · [`adalk`](https://www.ada.lk/breaking_news/අමිතිරිගල-ත්‍රිත්ව-ඝාතනයට-මන්නා-රමේෂ්ගේ-සමීපතමයන්-2ක්-අල්ලයි/11-410142) · `si`
+
+අවිස්සාවේල්ල අමිතිරිගල මාර්ගයේදී සිදු වූ තිත්ව ඝාතනයට  ආධාර අනුබල දුන් පුද්ගලයන් දෙදෙනෙක් සංවිධානාත්මක අපරාධකරු වන මන්නා රමේෂ් නමැත්තාගෙන් අනාවරණ වූ තොරතුරු අනුව අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+
+අවිස්සාවේල්ල හා ලුණුගම ප්‍රදේශයේදී  අත්අඩංගුවට ගත් එම සැකකරුවන් දෙදෙනා මන්නා රමේශ්  ගේ සමීපතමයන් දෙදෙනෙක් බව  පොලිසිය කියයි.
+
+එම සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී ඝාතනය සඳහා යොදාගත් යතුරුපැදිය කොටස් කර පොහොර උර 6 ක දමා පූගොඩ ලුණුවිල ප්‍රදේශයේ නිවසක ගරාජයක  සඟවා තිබියදී සොයාගැනීමට හැකිවූ බව පොලිසිය කියයි කියයි.
+
+...
+
+[Data](articles/14db0638.json)
 
 ---
 
@@ -895,38 +1067,6 @@ Police said the bread to shook the limbs of the younger sister and went to the r
 [Data](articles/552c994d.json)
 
 [Extended Data](ext_articles/552c994d.ext.json)
-
----
-
-### The plane that was traveling in the middle of the night was caught in the rain!
-
-*2024-06-11 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
-
-An Airbus A320-200, en route from Palma de Mallorca to Vienna with 179 passengers and crew, encountered severe hail damage mid-flight. Despite significant damage to its front and cockpit area, including a curved roof and shattered window mirrors, the aircraft's triple-layered windows remained intact, preventing any penetration. The plane managed a safe landing in Vienna, where technicians are assessing the damage. This incident follows a similar event in 2017, highlighting the aircraft's resilience against such weather conditions.
-
-🟩
-
-The Airbus A320-200, owned by the Austria Airlines, has been severely damaged by hail rains.
-
-The aircraft was traveling from Palma de Melioorka, Spain last Sunday (09) with 173 passengers and 6 employees to Vienna, the capital of Oustria.
-
-In the meantime, the front of the aircraft was severely damaged by the hail, the top of the pilot's room was curved and the mirror in the windows.
-
-But the hail did not penetrate the air into the plane with three layers strengthened.
-
-It is worth noting that the aircraft's mirrors are tested to confirm the bipartisan when they are hit by hail or other hard materials while traveling at hundreds of miles per hour.
-
-In this case, the aircraft is safely landing in Vienna regardless of the damage. Technicians are currently investigating the aircraft.
-
-Emmeli Oakli, who was traveling on the plane, described the incident.
-
-"In about 20 minutes before we landed, we entered the hail and thunderstorm. The turmoil began on the plane."said.
-
-...
-
-[Data](articles/0ebba40e.json)
-
-[Extended Data](ext_articles/0ebba40e.ext.json)
 
 ---
 
@@ -1742,6 +1882,26 @@ Previously, United National Party (UNP) General Secretary Palitha Range Bandara 
 
 ---
 
+### Fears of election postponement still loom
+
+*2024-06-11 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fears-of-election-postponement-still-loom/108-284563) · `en`
+
+*UNP General Secretary suggested postponing polls by two years with a referendum
+
+*Speculation exists that Bandara's remarks were intended to gauge public and political reaction
+
+*Concerns raised whether President might seek AG's opinion on extending the presidential term with a two-thirds parliamentary majority
+
+Colombo, June 11 (Daily Mirror) - Despite assertions that the presidential election would be conducted as scheduled, political circles are abuzz with speculations that the government will try to exploit the provisions in the Constitution to extend the term of the presidential term and the parliamentary period.
+
+Previously, United National Party (UNP) General Secretary Palitha Range Bandara said that the presidential and parliamentary elections should be postponed by two years with approval of the people by referendum.
+
+...
+
+[Data](articles/a619a055.json)
+
+---
+
 ### Rise in flies poses risk of diarrhoea and contagious viral fever
 
 *2024-06-11 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-flies-poses-risk-of-diarrhoea-and-contagious-viral-fever/108-284562) · `en`
@@ -1759,6 +1919,24 @@ According to consultant Dr Deepal Perera, the abundance of organic matter in flo
 [Data](articles/134be117.json)
 
 [Extended Data](ext_articles/134be117.ext.json)
+
+---
+
+### Rise in flies poses risk of diarrhoea and contagious viral fever
+
+*2024-06-11 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rise-in-flies-poses-risk-of-diarrhoea-and-contagious-viral-fever/155-284562) · `en`
+
+Colombo, June 11 (Daily Mirror) - As floodwaters recede, the proliferation of flies has raised alarms among health authorities due to the increased risk of diarrhoea outbreaks and the spread of contagious viral fevers.
+
+According to consultant Dr Deepal Perera, the abundance of organic matter in flooded areas accelerates the maturation of fly eggs, leading to a rapid increase in fly populations as floodwaters subside. These newly hatched flies, seeking food sources, often gravitate towards faeces, garbage, and contaminated surfaces, further exacerbating the health crisis.
+
+“The consequences of the surge in fly populations are dire. Flies are notorious carriers of pathogens, including bacteria and viruses responsible for diarrheal diseases and viral fevers,” he pointed out.
+
+“Contaminated food and water sources, when ingested, can lead to a range of symptoms, including abdominal pain, cramps, nausea (feeling an urge to vomit), and loose stools,” Dr Perera stated.
+
+...
+
+[Data](articles/c8cdc34b.json)
 
 ---
 
@@ -2141,231 +2319,5 @@ This was conveyed when the duo met in New Delhi on the sidelines of the swearing
 [Data](articles/2b785bbf.json)
 
 [Extended Data](ext_articles/2b785bbf.ext.json)
-
----
-
-### Two new Mahaweli Divisions announced in Ratnapura District
-
-*2024-06-11 01:22:28* · [`dailyftlk`](https://www.ft.lk/news/Two-new-Mahaweli-Divisions-announced-in-Ratnapura-District/56-762911) · `en`
-
-Irrigation, Wildlife and Forest Conservation Minister Pavitra Vanniarachchi yesterday revealed that steps have been taken to announce two new Mahaweli Divisions namely Godakawela and Weligepola by merging 72 Grama Niladhari Divisions belonging to five Divisional Secretariats of Ratnapura District.
-
-There are 37 Grama Niladhari Divisions in Godakawela Divisional Secretariat Division, 30 Grama Niladhari Divisions in Weligepola Divisional Secretariat Division, 02 Grama Niladhari Divisions in Opanayake Divisional Secretariat Division, 02 Grama Niladhari Divisions in Balangoda Divisional Secretariat Division and 01 Grama Niladhari Division in Kalthota Divisional Secretariat Division. Godakawela and Weligepola are to be developed as new Mahaweli Divisions under Walawa Special region of Sri Lanka Mahaweli Authority by combining them as 72 Grama Niladhari Divisions.
-
-Under the Sri Lanka Mahaweli Authority Act, the Walawa Mahaweli Special region was declared by Gazette No. 137 dated 16 April 1981.
-
-...
-
-[Data](articles/7bd883f4.json)
-
-[Extended Data](ext_articles/7bd883f4.ext.json)
-
----
-
-### Politics
-
-*2024-06-11 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவாறு-அரசியல்வாதிகளின்-சீனி-உருண்டை-அரசியல்/175-338738) · `ta`
-
-In the Northern and Eastern Provinces, citizens face political deception, yearning for genuine representation and development. Opposition leader Sajith Premadasa promises the United People's Power will address economic, social, cultural, educational, and healthcare needs, emphasizing IT education and English proficiency. The 13th Amendment will be implemented, converting all districts into knowledge hubs. Efforts against drug trafficking are pledged, aiming to safeguard children. Past rulers' contributions are contrasted with the United People's Power's efforts, highlighting a shift towards inclusivity and progress. Despite government claims of a smart nation, specifics are lacking, with the United People's Power outlining its plans. The focus is on the future of millions of children across the country, as opposed to mere vote-seeking.
-
-🟩
-
-The people of the Northern and Eastern Province are subjugated with various vocabulary leaders, and they are lost in the dream world of the election period.. Opposition leader and United People's Power Leader Sajith Premadasa said the time should end the time of deception by the politics of the orb.
-
-He said the United People's Power would take the rights of the people of the area to provide the rights of the people of the area, the economics, society, culture, education, health, livelihood and better income.
-
-Under the Universal Information Technology Program, Smart classroom equipment worth Rs 1,177,000 lakhs was held on Sunday (09).
-
-The people of Jaffna have heard the stories of various leaders. The people of Jaffna, Kilinochchi, Vanni, Mannar and Mullaitivu have heard the stories. People are asking for a format for these talks. As a move, the Opposition Leader said that the 13th Amendment to the United People's Power Government will be implemented.
-
-...
-
-[Data](articles/cf7eeb92.json)
-
-[Extended Data](ext_articles/cf7eeb92.ext.json)
-
----
-
-### CJ-led bench to hear petition against Pastor Jerome Fernando
-
-*2024-06-11 01:21:13* · [`dailyftlk`](https://www.ft.lk/news/CJ-led-bench-to-hear-petition-against-Pastor-Jerome-Fernando/56-762910) · `en`
-
-The Supreme Court has ordered for a Fundamental Rights (FR) petition filed against Pastor Jerome Fernando to be taken up for consideration before a judge bench chaired by the Chief Justice.
-
-This order was issued when the relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Murdhu Fernando, Kumudini Wickremasinghe and Janak De Silva yesterday.
-
-Several religious leaders had filed this petition seeking an order to prosecute controversial Pastor Jerome Fernando under the United Nations International Covenant on Civil and Political Rights (ICCPR) over his derogatory statements related to Lord Buddha and other religious figures.
-
-Appearing for the petitioning party, President’s Counsel Sanjeewa Jayawardena informed the court that three of the religious leaders involved in filing the petition have expressed their willingness to withdraw it.
-
-...
-
-[Data](articles/eca2d069.json)
-
-[Extended Data](ext_articles/eca2d069.ext.json)
-
----
-
-### Sajith met the blessing
-
-*2024-06-11 01:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருட்தந்தையை-சந்தித்தார்-சஜித்/175-338737) · `ta`
-
-Sajith Premadasa, the Opposition Leader, met with Joseph Pathinathar Jebarathinam at the Jaffna Bishop's office. They discussed the future of Jaffna district politics and its post-war development. It was mentioned that an International Donors Conference would support the Northern and Eastern Provinces' development.
-
-🟩
-
-A special meeting between Joseph Pathinathar Jebarathinam and Opposition Leader Sajith Premadasa took place on Monday (10) at the Jaffna Bishop.
-
-Opposition Leader Sajith Premadasa, who was blessed with his future political activities for his future political activities, had long discussed the shortcomings of the Jaffna district.
-
-Opposition Leader Sajith Premadasa, who has heard about the advances of the Jaffna district development after the war, said that the Jaffna Catholic Diocese of Roman Catholic Paddadar said that the International Donors Conference will be held in the Northern and Eastern Provinces in the Northern and Eastern Provinces.
-
-◼️
-
-[Data](articles/dffd25f0.json)
-
-[Extended Data](ext_articles/dffd25f0.ext.json)
-
----
-
-### New to control the destruction of wet lands
-
-*2024-06-11 01:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈர-நிலங்களை-அழிப்பதை-கட்டுப்படுத்த-புதிய/175-338736) · `ta`
-
-To combat illegal construction and protect wetlands, new laws are being introduced. These policies aim to serve as a global example for environmental conservation, focusing on wetland preservation and biodiversity. A conference involving Australia, New Zealand, and Asia will discuss these efforts, highlighting the importance of wetlands for environmental tourism and sustainability.
-
-🟩
-
-New laws are to be enacted to curb illegal construction and destroy wet lands.
-
-Secretary to the Ministry of Urban Development and Housing. Said Satyananda.
-
-This common consensus is to collect all the knowledge of the implementation of these policies as a prototype country for the protection of wet lands, related biodiversity and balance in the environment.. The Secretary of the Ministry said that these policies are expected to be a role model for the global challenges facing the environment.
-
-Secretary of the Ministry of Urban Development and Housing. He was speaking at a press conference held at the Government Information Department on Monday (10).
-
-The press conference was organized to report the first conference of Australia, New Zealand and Asia with the contribution of the international wetland park.
-
-...
-
-[Data](articles/6b5857e8.json)
-
-[Extended Data](ext_articles/6b5857e8.ext.json)
-
----
-
-### Passenger boat service between Sri Lanka - Bangladesh
-
-*2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்க்கு-இடையில்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
-
-In a meeting between Bangladesh PM Sheikh Hasina and Sri Lanka's President Ranil Wickremesinghe, both leaders discussed enhancing bilateral ties, including agricultural modernization and a potential free trade agreement. They also touched upon the passenger boat service between the two countries and invited Sri Lanka to learn from Bangladesh's agricultural successes.
-
-🟩
-
-Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe that Bangladesh will support the agricultural modernization program in Sri Lanka.
-
-Bilateral talks between President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina, who are in New Delhi for the swearing -in of Indian Prime Minister Narendra Modi. The Prime Minister of Bangladesh said the above.
-
-President Ranil Wickremesinghe has agreed to send a group of Sri Lankan agricultural experts to Bangladesh to analyze the agricultural modernization program implemented in Bangladesh based on the co -operative system and to succeed in the agricultural modernization program of Sri Lanka.
-
-President Ranil Wickremesinghe pointed out that the two leaders discussed the signing of the free trade agreement between Bangladesh and Sri Lanka and that there is a possibility of signing the free trade agreement with Bangladesh after the Indian Free Trade Agreement.
-
-...
-
-[Data](articles/b50fac28.json)
-
-[Extended Data](ext_articles/b50fac28.ext.json)
-
----
-
-### Sri Lanka - Bangladesh passenger ferry service
-
-*2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
-
-In a meeting between Sri Lanka's President Ranil Wickremesinghe and Bangladesh's Prime Minister Sheikh Hasina in New Delhi, discussions revolved around enhancing bilateral ties, including agricultural modernization, potential free trade agreements, and investment opportunities. Both leaders agreed to collaborate on agricultural programs and facilitate investments. They also touched upon the passenger ferry service between the two countries and invited each other to conferences, highlighting a strong commitment to strengthening relations.
-
-🟩
-
-Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe that Bangladesh will support the agricultural modernization program in Sri Lanka.
-
-Bilateral talks between President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina, who are in New Delhi for the swearing -in of Indian Prime Minister Narendra Modi. The Prime Minister of Bangladesh said the above.
-
-President Ranil Wickremesinghe has agreed to send a group of Sri Lankan agricultural experts to Bangladesh to analyze the agricultural modernization program implemented in Bangladesh based on the co -operative system and to succeed in the agricultural modernization program of Sri Lanka.
-
-President Ranil Wickremesinghe pointed out that the two leaders discussed the signing of the free trade agreement between Bangladesh and Sri Lanka and that there is a possibility of signing a free trade agreement with Bangladesh after the completion of the Indian Free Trade Agreement.
-
-...
-
-[Data](articles/c0980eb8.json)
-
-[Extended Data](ext_articles/c0980eb8.ext.json)
-
----
-
-### Honor students who have received the best results
-
-*2024-06-11 01:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறந்த-பெறுபேறுகளை-பெற்ற-மாணவர்கள்-கௌரவிப்பு/175-338734) · `ta`
-
-Education Minister Dr. Susil Premajayantha honored top achievers in the GCE A/L exam, including Bahanma Upani Lenora, Chirat Nirodha, Shehara Chiduminini, Dasun Rithmika, Shehani Navotya, and Kruu Shildia, recognizing excellence across various fields.
-
-🟩
-
-Education Minister Dr Susil Premajayantha was held on Monday (10) at the Ministry of Education to honor the students who received the best results in the GCE A / L examination.
-
-Bahanma Upani Lenora from the Galle Strategy of the Galle Strategy was the first place, Chirat Nirodha of the Buddhist section, Shehara Chiduminini of the Panadura Women's College, Dasun Rithmika, Galle Richman College.
-
-Shehani Navotya of Ginigathena Central Maha Vidyalaya, who was the first in the art category, and Kruu Shildia of the Ehaliyagoda Central Maha Vidyalaya, who was the first in the Biology Technology Division.
-
-◼️
-
-[Data](articles/2eccd045.json)
-
-[Extended Data](ext_articles/2eccd045.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-11 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### South Africa won the chance of the next round of Bangladesh by 4 runs
-
-*2024-06-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185791) · `ta`
-
-South Africa advanced to the Super 8 round in the 9th T20 World Cup by defeating Bangladesh by 4 runs in a closely contested match at the New York Nasav Kandri International Stadium. Despite a challenging start where they lost six wickets and managed only 113 runs, Henry Glassen and David Miller's partnership of 79 runs revived South Africa's innings. In response, Bangladesh also struggled, losing seven wickets for 109 runs, with Tauhid Ritoy's 37 runs being a highlight. Keshav Maharaj's bowling performance, taking three wickets across four overs, sealed South Africa's victory.
-
-🟩
-
-South Africa won by 4 runs in the T20 World Cup for the D Group, which was completed shortly before the New York Nasav Kandri International Stadium between South Africa and Bangladesh.
-
-With this victory, South Africa has increased the chance of playing the Super 8 round in the 9th T20 World Cup.
-
-It is worth noting that the two -day teams have failed the second team with the target of a very low total number.
-
-Pakistan lost by 6 runs in response to 120 runs in the same stadium against India.
-
-South Africa became the pride of the team that retained very little total number in the T20 World Cup after winning with Bangladesh. Earlier, India's 119 runs were the smallest number.
-
-South Africa decided to bat first, which gave them difficulty again, losing six wickets in 20 overs and scoring only 113 runs.
-
-In the match against the Netherlands, the total number of South Africa's leading quarries was 23 runs in the 5th over.
-
-...
-
-[Data](articles/856453f0.json)
-
-[Extended Data](ext_articles/856453f0.ext.json)
 
 ---

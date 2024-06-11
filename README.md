@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 22:07:35**
+As of **2024-06-11 22:19:05**
 
 ## Newspaper Stats
 
-*Scraped **29,855** Articles*
+*Scraped **29,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
-adalk | 2,561
-adaderanalk | 3,375
+adalk | 2,563
+adaderanalk | 3,376
 tamilmirrorlk | 3,497
 virakesarilk | 4,567
 dailymirrorlk | 4,732
-adaderanasinhalalk | 4,805
+adaderanasinhalalk | 4,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,855 (100.0%) of 29,855 articles have been extended.
+29,855 (100.0%) of 29,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### New officers recruited to Sri Lanka Foreign Service
+
+*2024-06-11 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99811/new-officers-recruited-to-sri-lanka-foreign-service) · `en`
+
+Twenty newly-recruited officers to the Sri Lanka Foreign Service were welcomed to the Ministry by Foreign Secretary Aruni Wijewardane today (11).
+
+The Foreign Secretary highlighted the important role of the Sri Lanka Foreign Service (SLFS) and the special responsibilities of all officers as public servants.
+
+She referred to the skills required in the modern world of diplomacy including the priority given to economic diplomacy, the Ministry of Foreign Affairs said.
+
+The statement added that the 20 new officers have been recruited to the SLFS through an open competitive examination and interview process and appointed by the Public Service Commission.
+
+The newly-recruited officers will participate in the induction training programme conducted by the Bandaranaike International Diplomatic Training Institute (BIDTI) prior to taking up duties at the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/773c0ff4.json)
+
+---
+
+### කැනඩාව ලකුණු 106කට සීමා වෙයි
+
+*2024-06-11 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197657) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩාව සහ පාකිස්තානය අතර තරගය අද (11) පැවැත් වෙයි.
+
+එහි පළමුවෙන් පන්දුවට පහරදුන් කැනඩාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 106ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා පාකිස්තානයට හිමිවී ඇති ඉලක්කය ලකුණු 107කි.
+
+කාසියේ වාසිය දිනා ගැනීමට පාකිස්තානය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+
+◼️
+
+[Data](articles/f006cf48.json)
+
+---
+
+### සෝල් බීච් කැඩුවාට දුන් විසඳුම
+
+*2024-06-11 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197656) · `si`
+
+ආන්දෝලනයකට තුඩුදුන් දෙහිවල සෝල් බීච් හෝටලය කඩාදැමීමේ සිද්ධිය සම්බන්ධයෙන් ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව නිර්දේශ නිකුත් කර තිබේ.
+
+ඒ, අනුව වෙරළ සංරක්ෂණ හා වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා මෙහිදී ක්‍රියාකර ඇති ආකාරය සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකර සුදුසු පියවර ගන්නා ලෙස නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම්වරයා වෙත නිර්දේශ කෙරුණි.
+
+එමෙන්ම වගඋත්තර පාර්ශ්වයන් මෙම සිදුවීම සම්බන්ධයෙන් ක්‍රියා කර ඇති ආකාරය පිළිබඳ පරීක්ෂණයක් සිදුකරන ලෙස පොලිස්පතිවරයා වෙතද නිර්දේශ කර තිබේ.
+
+අදාළ කාලසීමාව තුළ සිදුවූ ආර්ථිකමය හානිය තක්සේරු කර එහි සේවකයින්ට සුදුසු වන්දි මුදලක් ගෙවන ලෙසත්, අත්තනෝමතික ලෙස ගොඩනැඟිල්ල කඩාදැමීමෙන් පැමිණිලිකරුවන්ට සිදුවූ හානිය සම්බන්ධයෙන් තක්සේරු කර රජය විසින් එම මුදල ගෙවිය යුතු බවත් එම නිර්දේශවල සඳහන් ය.
+
+◼️
+
+[Data](articles/c0cbe7a8.json)
+
+---
 
 ### Probe into video of youth touching sleeping wild elephant
 
@@ -169,6 +225,24 @@ Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secret
 [Data](articles/d592d1ef.json)
 
 [Extended Data](ext_articles/d592d1ef.ext.json)
+
+---
+
+### ජනතාව දැන් බලාගෙන ඉන්නෙ පොහොට්ටුව දිනවන්නට
+
+*2024-06-11 19:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-දැන්-බලාගෙන-ඉන්නෙ-පොහොට්ටුව-දිනවන්නට/11-410159) · `si`
+
+ව්‍යවස්ථානුකූලව මැතිවරණය කල් දැමිය නොහැකි බවත් , එහෙම මෝඩකමක් කළොත් එය එක්සත් ජාතික පක්ෂයේ අවසානය බවත්  හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද (11දා) බදුල්ලේ දී පැවසීය .
+
+බදුල්ලේ සිය පාක්ෂිකයකුගේ අවමංගල උත්සව අවස්ථාවකට සහභාගි වීමෙන් අනතුරුව මාධ්‍යවේදීන් හමුවේ හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා එසේ කීය .මෙහිදී තවදුරටත් අදහස් දක්වමින් මහින්ද රාජපක්ෂ මහතා මෙසේද පැවසීය .
+
+"දැන් රටේ ජනතාවගේ විශාල බලාපොරොත්තුවක් තිබෙනවා පොහොට්ටුව ගැන.ලන්සලා කඩාගෙන ගියාට අපිට   කිසිම  අඩුවක් වෙලා නැහැ .අපි දැන් එදාට වඩා අද ශක්තිමත් ..ව්‍යවස්ථානුකූලව මැතිවරණය කල් දාන්න බැහැ .මම හිතන්නෙ නැහැ එක්සත් ජාතික පක්ෂය එතරම් මෝඩකමක් කරයි කියලා .
+
+එහෙම වැඩක් එක්සත් ජාතික පක්ෂය කළොත් ඒ  එම පක්ෂයේ අවසානයයි .අපේ ජනපති අපේක්ෂකයා ගැන දැන්ම මොනවත් කියන්නෙ නැහැ .නිසි වෙලාවට, නිසි කලට  එය අපි කියන්නම්.ජනතාව දැන් බලාගෙන ඉන්නෙ පොහොට්ටුව දිනවන්නට.නැතිව වෙන මොන පක්ෂ ගැනවත් නොවේ."
+
+◼️
+
+[Data](articles/ae8b563c.json)
 
 ---
 
@@ -339,6 +413,22 @@ Devananda proposed the establishment of hatcheries as an alternative to catching
 [Data](articles/2a7e1322.json)
 
 [Extended Data](ext_articles/2a7e1322.ext.json)
+
+---
+
+### ජනපතිවරණය නියමිත පරිදි පවත්වනවා
+
+*2024-06-11 18:55:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-නියමිත-පරිදි-පවත්වනවා/11-410154) · `si`
+
+ආණ්ඩුවේ ඇතැම් පාර්ශ්ව ජනාධිපතිවරණය කල් දැමිය හැකි බවට විවිධ පුවත් නිර්මාණය කළද ජනාධිපතිවරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව නියමිත පරිදි පැවැත්වෙන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේ අද (11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"මේ දවස්වල ආණ්ඩුව පැත්තෙන් ප්ලාන්ට් කරපු නිව්ස් එකක් යනවා ජනාධිපතිවරයාගේ ධුර කාලය තව අවුරුද්දකින් දීර්ඝ කරගන්න පුළුවන් කියලා. අපි පැහැදිලිවම කියන්න ඕනෑ 1977 ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාට අවුරුදු 06ක් තිබුණා. ඒත් 2015දී යහපාලන ආණ්ඩුව ඇවිල්ලා 19 වැනි සංශෝධනය අනුව ජනාධිපතිවරයාගේ ධුර කාලය අවුරුදු 05ට අඩු කරලා තියෙනවා. ඒ වෙලාවේ මෛත්‍රීපාල සිරිසේන මහතා ජනාධිපති ධුරයට පත්වෙද්දි 19 වැනි සංශෝධනය ඇවිල්ලා තිබුණේ නෑ. එතුමා පත්වුණේ අවුරුදු 06ට. ඉන්පසුව ධුර කාලය 05 කළාම එතුමාටත් ඉන්න පුළුවන් වුණේ අවුරුදු 05යි. ඒ අනුව ගෝඨාභය රාජපක්ෂ මහතා ජනාධිපතිවරයා බවට පත්වෙන්නේ අවුරුදු 05ක් සඳහා.
+
+...
+
+[Data](articles/49090720.json)
 
 ---
 
@@ -2225,121 +2315,5 @@ Minister Sabry, during the meeting, brought to the attention of his Russian coun
 [Data](articles/f2c33a3b.json)
 
 [Extended Data](ext_articles/f2c33a3b.ext.json)
-
----
-
-### IMF Loan Program: What is not fulfilled in Sri Lanka?
-
-*2024-06-11 11:32:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrrgjp122mo) · `si`
-
-Sri Lanka faces challenges in fulfilling its commitments under the IMF loan program, particularly in areas related to financial transparency, management, and corruption. Despite receiving two installments, 25% of commitments were unfulfilled by May 2024, with 15% not started, 41% ongoing, and 14% unknown. Key issues include lack of public documentation on financial matters and failures in accountability and transparency in public procurement. Failing to meet these obligations may hinder the release of the third loan installment.
-
-🟩
-
-Discussion to deliver third loan installment to Sri Lanka under International Monetary Fund (IMF). In this session, the International Monetary Fund Executive will determine the third crop installment to Sri Lanka.
-
-Sri Lanka has an agreement with the International Monetary Fund to get back from the economic banking of the fallen economic bankruptcy last year. Accordingly, Sri Lanka has obtained two loan installments under the comprehensive credit facility. Many parties have not yet been fulfilled by the Government of Sri Lanka to be fulfilled by the Government of Sri Lanka to be fulfilled by the Government of Sri Lanka in obtaining this loan facility.
-
-...
-
-[Data](articles/95530660.json)
-
-[Extended Data](ext_articles/95530660.ext.json)
-
----
-
-### Russia promises to Sri Lanka
-
-*2024-06-11 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197635) · `si`
-
-Sri Lanka's Foreign Minister Ali Sabri met with his Russian counterpart, discussing mutual interests and requesting Russia's non-intervention in its military affairs. The Russian Foreign Minister assured this, and further talks are scheduled for June 26-27 involving a large Sri Lankan delegation.
-
-🟩
-
-Foreign Minister Ali Sabri has held discussions with the Foreign Minister Sabri who visited Russia these days.
-
-The Ministry of External Affairs says that the two foreign ministers have exchanged views on matters important to the two countries.
-
-The Russian Foreign Minister he had asked the Russian Foreign Minister to intervene in the Russian army.
-
-The Russian Foreign Minister has promised that the Sri Lankans will not hire Russia's military service.
-
-A large number of Sri Lankan delegates will discuss the issue with the Russian authorities on June 26-27.
-
-◼️
-
-[Data](articles/b37a0943.json)
-
-[Extended Data](ext_articles/b37a0943.ext.json)
-
----
-
-### Sri Lanka draft MOUs with bilateral lenders being exchanged, clarified: State Minister
-
-*2024-06-11 11:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-draft-mous-with-bilateral-lenders-being-exchanged-clarified-state-minister-167381/) · `en`
-
-ECONOMYNEXT  – Draft memoranda of understanding with Sri Lanka’s bilateral creditors are being exchanged and clarifications are being made with a view to wrapping up the agreements later this month, State Minister of Finance Shehan Semasinghe has said.
-
-“The drafts are exchanged with mainly the Official Creditor Committee,” Semasinghe told Sri Lanka’s Derana Tv in a talkshow.
-
-“When they are submitted, they exchange it with their membership. If there are comments they will also exchange. In terms of the ideas they express, we may need some clarifications.
-
-“Each member, after looking at it from their country’s perspective, will give their co-operation to help Sri Lanka.
-
-“In many instances we have come to the final stages of these MOUs. I do not think it will take a long time to get an official announcement. Still ideas are being exchanged.”
-
-The International Monetary Fund’s Executive Board is due to take up Sri Lanka’s review on June 12 after “sufficient progress” was made with restructuring.
-
-...
-
-[Data](articles/e7e245bb.json)
-
-[Extended Data](ext_articles/e7e245bb.ext.json)
-
----
-
-### Court extends restraining order against Minister Wijeyadasa
-
-*2024-06-11 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99798/court-extends-restraining-order-against-minister-wijeyadasa-) · `en`
-
-The Colombo District Court has extended the restraining order issued against Minister Wijeyadasa Rajapakshe, preventing him from functioning as the Chairman and a member of the Sri Lanka Freedom Party (SLFP).
-
-Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of SLFP during an executive committee meeting held on April 21, by the party’s faction led by former President Maithripala Sirisena.
-
-On April 24, the Colombo District Court issued an injunction order preventing Minister Wijeyadasa from functioning as the Acting Chairman of the SLFP.
-
-The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
-
-Meanwhile, the court had issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
-
-...
-
-[Data](articles/5cebffcc.json)
-
-[Extended Data](ext_articles/5cebffcc.ext.json)
-
----
-
-### Enjoining order against Wijayaka is extended
-
-*2024-06-11 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197634) · `si`
-
-Colombo District Court extends injunction against Wijayaka, sentencing SLFP Chairman Wijayadasa Rajapakse. The order, sought by party treasurer Lasantha Alagiyawanna, remains in effect until the 25th of this month.
-
-🟩
-
-The Colombo District Court sentenced Wijayadasa Rajapakse as the Chairman of the Sri Lanka Freedom Party and he would continue to extend the injunction order imposed as a member of the SLFP.
-
-The court was requested for the respondents to submit protests in a case.
-
-The court was ordered by the court to extend the injunction until the 25th of this month.
-
-The case had been filed by the Sri Lanka Freedom Party Treasurer and Minister Lasantha Alagiyawanna.
-
-◼️
-
-[Data](articles/2ec0f489.json)
-
-[Extended Data](ext_articles/2ec0f489.ext.json)
 
 ---

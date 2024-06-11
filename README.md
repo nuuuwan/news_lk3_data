@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 08:21:16**
+As of **2024-06-11 08:34:57**
 
 ## Newspaper Stats
 
-*Scraped **29,711** Articles*
+*Scraped **29,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
-adalk | 2,535
+adalk | 2,536
 adaderanalk | 3,357
 tamilmirrorlk | 3,480
 virakesarilk | 4,554
 dailymirrorlk | 4,712
-adaderanasinhalalk | 4,777
+adaderanasinhalalk | 4,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,711 (100.0%) of 29,711 articles have been extended.
+29,711 (100.0%) of 29,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### මෙරට පරිගණක සහ ඩිජිටල් සාක්ෂරතාව ඉහළට
+
+*2024-06-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197625) · `si`
+
+මෙරට පරිගණක සාක්ෂරතාවය සියයට 39 දක්වා ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+2023 වර්ෂයේ පරිගණක සාක්ෂරතා සමීක්ෂණ වාර්තාවට අනුව මෙරට අවුරුදු 05ත් 69ත් අතර පුද්ගලයින් 05 දෙනෙකුගෙන් දෙදෙනෙකුට පරිගණක සාක්ෂරතාව පවතින බව සඳහන්ය.
+
+එමෙන්ම පුද්ගලයින් 05 දෙනෙකුගෙන් තිදෙනෙකුට ඩිජිටල් සාක්ෂරතාව පවතින අතර එය සියයට 63.5ක් බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+මෙරට පවුල්වලින් සියයට 20.2ක් ඩෙක්ස්ටොප් හෝ ලැප්ටොප් පරිගණක භාවිතා කරන අතර නාගරික ජනතාවගේ පරිගණක හා ඩිජිටල් සාක්ෂරතාවයේ  වැඩිවීමක් පෙන්නුම් කර තිබේ.
+
+2021 වර්ෂයට සාපේක්ෂව 2023 වර්ෂය වන විට මෙරට පරිගණක සාක්ෂරතාවය සියයට 4.7කින් ඉහළ ගොස් ඇති අතර වැඩිම පරිගණක සාක්ෂරතාවයක් වන සියයට 52.9ක් නාගරික ප්‍රදේශවලින් වාර්තා වී ඇති බව සඳහන්ය.
+
+බස්නාහිර පළාතේ වැඩිම පරිගණක සාක්ෂරතාවයක් පවතින අතර නැගෙනහිර පළාතේ අඩුව පරිගණක සාක්ෂරතාවක් පවතින බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/53c4d010.json)
+
+---
+
+### ප්‍රදේශ තුනකින් හමුවූ මළ සිරුරු
+
+*2024-06-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197624) · `si`
+
+ප්‍රදේශ තුනකින් නාඳුන මළ සිරුරු 03ක් හමුව ඇති බව පොලීසිය පවසයි.
+
+ඊයේ එම මළ සිරුරු හමුව ඇත්තේ, මීගමුව සහ පානදුරු දකුණ පොලිස් වසම්වලින්ය.
+
+මීගමුව මාර්ස්ටෙලා විදුහල ඉදිරිපිට පුද්ගලයෙකු මියගොස් ඇති බවට 119ට ලද තොරතුරක් මත මීගමුව පොලීසිය විමර්ශන ආරම්භ කර ඇති අතර මරණරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැත.
+
+මරණකරුගේ වයස අවුරුදු 65ක් පමණ වන අතර අවසන් වරට බැනියමක් සහ නිල් කොටු සහිත සරමක් හැඳ සිටී බව පොලීසිය පවසයි.
+
+මේ අතර මීගමුව සිරිකුරස පල්ලිය පිටුපස කපලුවේ නාඳුනන පිරිමි මළ සිරුරක් ඇති බවට 119 යට තොරතුරක් ලැබී තිබුණි.
+
+මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බව මීගමුව පොලීසිය පවසයි.
+
+මරණකරු පසුවේ සහ උරහිසේ පච්ච සළකුණු ඇති අතර අවසන් වරට ගුර පැහැති අත් දිග කමිසයක් හැඳ සිටි බව පොලීසිය පවසයි.
+
+පානදුර දකුණ පොලිස් වසමේ රන්කොන් විහාරස්ථානය තුළ කාන්තාවක් මියගොස් ඇති බවට ලද දුරකථන පණිවුඩයක් මත පානදුර දකුණ පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැත අතර ඇය වයස අවුරදු 60ත් 65ත් පමණ වන අතර උස අඩි 05වි අඟල් 01කි.
+
+...
+
+[Data](articles/4f702b2b.json)
+
+---
 
 ### Notice of trains running
 
@@ -1780,6 +1830,20 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 
 ---
 
+### ව්‍යාපාරිකයාට වෙඩි තැබුවාද? වෙඩි තබා ගත්තාද?
+
+*2024-06-10 18:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාපාරිකයාට-වෙඩි-තැබුවාද--වෙඩි-තබා-ගත්තාද-/11-410128) · `si`
+
+හුංගම රන්න ප්‍රදේශයේ පදිංචි 51 හැවිරිදි ව්‍යාපාරිකයෙකු නිවසේ  පිටුපස වෙඩි වැදි මියගොස් සිටියදී ඊයේ (09දා) රාත්‍රී සොයාගත් බව හුංගම පොලීසිය පවසයි. මෙලෙස වෙඩි වැදීමෙන් මියගොස් ඇත්තේ තිස්ස පාර,රන්න ලිපිනයේ පදිංචි ගොඩනැගිලි ද්‍රව්‍ය වෙළෙඳ සැලක් පවත්වාගෙන ගිය 51 හැවිරිදි සුමුදු නිශ්ශංක ලංකාමුල්ල නමැති එක් දරු පියෙකි.
+
+මියගිය ව්‍යාපාරිකයා රාත්‍රි 10ට පමණ නිවසේ ඉහළ මහලේ සිට බිම් මහලට පැමිණි ඇති අතර, පසුව ඔහු ඉහළ මහළට නොපැමිණීම නිසා නිවැසියන් විසින් සිදු කළ සොයා බැලීමේදී ඔහු වෙඩි වැදී බිම වැටී සිටිනු දැක තිබේ.ඒ අනුව සිද්ධිය සම්බන්ධයෙන් නිවැසියන් විසින් 119 පොලිස් හදිසි ඇමතුම් අංකයට දැන්වීමෙන් පසු  හුංගම පොලීසියේ නිලධාරීන් කණ්ඩායමක් එම ස්ථානයට පැමිණ විමර්ශන අරඹා තිබේ.
+
+...
+
+[Data](articles/7f1e4691.json)
+
+---
+
 ### Indian Prime Minister visited Sri Lanka
 
 *2024-06-10 18:31:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-අගමැතිට-ලංකාවේ-සංචාරයකට-ආරාධනා/11-410126) · `si`
@@ -2151,67 +2215,5 @@ Retail participation was still slow, they said, even as high net worth and corpo
 [Data](articles/3d1c5e0a.json)
 
 [Extended Data](ext_articles/3d1c5e0a.ext.json)
-
----
-
-### Govt to remove unauthorized constructions in Colombo and suburbs to tackle flooding
-
-*2024-06-10 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99789/govt-to-remove-unauthorized-constructions-in-colombo-and-suburbs-to-tackle-flooding-) · `en`
-
-The Secretary of the Ministry of Urban Development and Housing, W.S. Sathyananda says that measures will be taken to immediately remove all unauthorized constructions that contribute to flooding in the city of Colombo and its suburbs.
-
-Speaking during a news conference held at the Department of Government Information, Sathyananda stated that a relevant circular will be issued to all government institutions within two weeks.
-
-He emphasized that conserving the existing wetlands in Colombo and its surrounding areas is crucial for the flood control efforts. The blocking of small waterways and drainage systems in these areas has been identified as a significant cause for flooding.
-
-The Chairman of the Sri Lanka Land Development Corporation, Hiran Balasuriya indicated that multiple projects are underway to mitigate flooding in Colombo and its suburbs.
-
-...
-
-[Data](articles/953af93c.json)
-
-[Extended Data](ext_articles/953af93c.ext.json)
-
----
-
-### A young man drowned in a cow in Valaichenai
-
-*2024-06-10 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185769) · `ta`
-
-In Valaichenai, a 23-year-old man named Sali Mohammed Rihas drowned while grazing his cow near Ritidenna pond. Initial police reports indicate he fell into the water and couldn't swim.
-
-🟩
-
-A youth has been recovered from the body of the Valaichenai police division, who was drowned in the Ritidenna area, police said.
-
-Initial investigations by the police revealed that a young man who was grazing a cow near the Ritheenni pond has died in the pool and drowned.
-
-The deceased has been identified as 23 -year -old Sali Mohammed Rihas, a new village in Ritiden.
-
-◼️
-
-[Data](articles/d28468f8.json)
-
-[Extended Data](ext_articles/d28468f8.ext.json)
-
----
-
-### SOC on education approves ‘Sri Lanka National Commission for UNESCO’ Bill
-
-*2024-06-10 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99788/soc-on-education-approves-sri-lanka-national-commission-for-unesco-bill-) · `en`
-
-The “Sri Lanka National Commission for UNESCO” Bill, which was presented to the Parliament and submitted to the Sectoral Oversight Committee on Education, has been received the approval of the Sectoral Oversight Committee on Education.
-
-This approval was given when the Sectoral Oversight Committee on Education met in Parliament recently (06) under the chairmanship of Member of Parliament Dr. V. Radhakrishnan, the Parliamentary Communications Department said in a statement.
-
-This bill has been presented to make arrangements for the establishment of a National Commission for the United Nations Educational, Scientific and Cultural Organization (UNESCO) and related activities. The committee met and discussed this bill and the amendments to be made on several occasions before, it added.
-
-Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Charita Herath participated in this meeting, the statement mentioned.
-
-...
-
-[Data](articles/2cb12565.json)
-
-[Extended Data](ext_articles/2cb12565.ext.json)
 
 ---

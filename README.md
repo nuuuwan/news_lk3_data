@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 11:19:03**
+As of **2024-06-11 11:34:28**
 
 ## Newspaper Stats
 
-*Scraped **29,740** Articles*
+*Scraped **29,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,788
-adalk | 2,539
-adaderanalk | 3,362
+adalk | 2,541
+adaderanalk | 3,363
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,715
-adaderanasinhalalk | 4,787
+adaderanasinhalalk | 4,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,727 (100.0%) of 29,740 articles have been extended.
+29,727 (99.9%) of 29,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Court extends restraining order against Minister Wijeyadasa
+
+*2024-06-11 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99798/court-extends-restraining-order-against-minister-wijeyadasa-) · `en`
+
+The Colombo District Court has extended the restraining order issued against Minister Wijeyadasa Rajapakshe, preventing him from functioning as the Chairman and a member of the Sri Lanka Freedom Party (SLFP).
+
+◼️
+
+[Data](articles/5cebffcc.json)
+
+---
+
+### විජයදාසට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+
+*2024-06-11 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197634) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම සහ ඔහු ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකයෙකු වශයෙන් කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+එහිදී නඩුවක අදාළ විරෝධතා ඉදිරිපත් කිරීම සඳහා කල් ලබාදෙන ලෙස වගඋත්තරකාර පාර්ශවයේ අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+ඉන් අනතුරුව වාරණ නියෝගය මේ මස 25 වන දක්වා දීර්ඝ කරන ලෙස අධිකරණය විසින් නියම කරනු ලැබීය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික මෙන්ම අමාත්‍යවරයකු වන ලසන්ත අලගියවන්න මහතා විසින් මෙම නඩුව ගොනුකර තිබුණි.
+
+◼️
+
+[Data](articles/2ec0f489.json)
+
+---
 
 ### මිතුරා සමග එක්ව බිරිඳව ඝාතනය කළ සැමියා
 
@@ -88,6 +118,28 @@ He further stated that the Cabinet, led by President Ranil Wickremesinghe, has d
 
 ---
 
+### තියුණු ආයුධයකින් පහරදී නිවසක් තුලදී කාන්තාවක්  ඝාතනය කරල
+
+*2024-06-11 10:37:43* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-නිවසක්-තුලදී-කාන්තාවක්--ඝාතනය-කරල/11-410136) · `si`
+
+එකම පවුලේ සහෝදරියන් දෙදෙනෙකු සිටින නිවසකට අද (11) අලුයම  මුහුණු ආවරණය කරගෙන කළු පාටට හුරු ඇඳුම් ඇඳ ඇතුළු වූ නාඳුනන පුද්ගලයන් දෙදෙනකු එක් සහෝදරියකට නිවසේ ඇඳ මතදි තියුණු ආයුධයකින් පහරදී  ඝාතනය කර ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ හොරණ මීවනපලාන සිරිල්ටන් වත්ත පදිංචි  උඩ කන්දගේ රමණී සකුන්තලා 58 යන කාන්තාවයි.
+
+ඝාතනයට ලක් වූ කාන්තාව බංගලාදේශ ජාතිකයෙකු  සමග විවාහ වී සිටින අතර ඔහු එරට පදිංචිව සිටින බවත් ඇය බාල සහෝදරිය සමඟ මෙම නිවසේ ගත කරන බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+ඉංගිරිය හල්වතුර ප්‍රදේශයේ පදිංචි එක්දරු මවක් වන බාල සහෝදරියද මීට සති තුනකට පමණ ඉහතදී මෙම නිවසට පැමිණි නවාතැන් ගෙන ඇති අතර ඊයේ (10) රාත්‍රී 7.30 ට පමණ ඔවුන් දෙදෙනා  දොරවල් වසා නින්දට ගොස් ඇති බව නැගණියගේ ප්‍රකාශයකින් අනාවරණය වූ බව පොලිසිය කියයි.
+
+ඝාතනයට ලක් වූ කාන්තාව නිවසේ කාමරයක  ඇයගේ නැගණිය මුළුතැන් ගෙයි ආසන්නයේ කාමරයක බිම නින්දට ගොස් තිබූ බව පොලිසිය කියයි.
+
+අලුයම 1.30 ත් 1.45 ත් අතර කාලයේදී නිවස තුළට ඇතුළු වී තිබූ සහසිකයන් දෙදෙනා
+
+...
+
+[Data](articles/552c994d.json)
+
+---
+
 ### Head-on collision between bus and van leaves 2 critical
 
 *2024-06-11 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99796/-head-on-collision-between-bus-and-van-leaves-2-critical) · `en`
@@ -123,6 +175,24 @@ It is also reported that the collision has left both the bus and the van severel
 ◼️
 
 [Data](articles/977f8fac.json)
+
+---
+
+### බස් රථයක් සහ වෑන් රථයක් මුහුණට මුහුණලා ගැටිමෙන් දෙදෙනෙකුට බරපතලයි
+
+*2024-06-11 10:18:08* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයක්-සහ-වෑන්-රථයක්-මුහුණට-මුහුණලා-ගැටිමෙන්-දෙදෙනෙකුට-බරපතලයි/11-410135) · `si`
+
+පෞද්ගලික බස් රථයක් සහ ඩොල්ෆින් වර්ගයේ වෑන් රථයක් මුහුණට මුහුණලා ගැටිමෙන් අද උදැසන සිදු වු රිය අනතුරකින් වෑන් රථයේ ගමන් ගත් රියදුරා සහ තවත් එක් අයෙක් බරපතල  තුවාල ලබා ගිනිගත්හේන ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් අනතුරුව තුවාලකරුවන් දෙදෙනාගේ තත්ත්වය බරපතල නිසා තුවාලකරුවන් නාවලපිටිය දිස්ත්‍රික් මහ රෝහල වෙත මාරු කර යැවු බව ගිනිගත්හේන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+
+මෙම අනතුර සිදු වි ඇත්තේ අද (11) දින උදැසන 7.30 ට පමණ හැටන් කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන දියගල ප්‍රදේශයේදිය.
+
+මහනුවර සිට හැටන් දක්වා ධාවනය වු පෞද්ගලික බස් රථයක් සහ හැටන් සිට කොළඹ දක්වා ධාවනය වු වෑන් රථයකුයි මෙසේ අනතුරට පත් වි ඇත්තේ.
+
+අධික වේගයෙන් ධාවනය වි ඇති වෑන් රථය ලිස්සාගොස් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු පෞද්ගලික බස් රථයේ ගැටි මෙම අනතුර සිදු වි ඇති බවත්, අනතුරෙන් වෑන් රථය තුල රියදුරා සහ ඉදිරිපස අසුනේ සිටි තවත් අයෙකු සිර වි සිටි බවත්, බස් රථයේ ගමන් ගත් මගින් විසින් දැඩි පරිශ්‍රමයක් දරා වෑන් රථයේ දොර විවෘත කර තුවාලකරුවන් රෝහල වෙත යොමු කර ඇත.
+
+...
+
+[Data](articles/a53959f4.json)
 
 ---
 
@@ -2077,89 +2147,5 @@ South Africa: Quinton de Kock, Reza Hendrix, Aiden Margram (Chairman), Triston S
 [Data](articles/29929a1b.json)
 
 [Extended Data](ext_articles/29929a1b.ext.json)
-
----
-
-### Philip Gunawardena: Who Is Ready To Serve ?
-
-*2024-06-10 20:04:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/philip-gunawardena-who-is-ready-to-serve/) · `en`
-
-The Hon, Philip Gunawardena was a product of a time when this nation which had focused on social upliftment as the development goal. As stated by the Hon D.S. the performance of my govt must be gauged by the larder of the poorest of our homes. In November 1932, he plunged into active politics organising rural peasants, plantation workers and urban workers.
-
-Philip Gunawardena is remembered as the architect of the Paddy Lands Act which brought relief to the tenant cultivator  and  his politics is reflected in a statement in July, 1967,
-
-“I have always said that I will work with any group of people who are ready to develop this country, who are ready to defend the independence of this country, who are ready to serve the people of this country. Let it be any group of people – Yes, not only with the devil, but with the devil’s grandmother.”
-
-...
-
-[Data](articles/6d00d7a0.json)
-
-[Extended Data](ext_articles/6d00d7a0.ext.json)
-
----
-
-### Two -month -old child killed in house wall collapsing in Vavuniya
-
-*2024-06-10 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185786) · `ta`
-
-A two-month-old baby died after a house wall collapsed in Vavuniya, Sri Lanka. The incident occurred on July 7th when the child was visiting relatives. Despite immediate medical attention at Vavuniya General Hospital, the baby succumbed to injuries.
-
-🟩
-
-Two -month -old baby has been killed when the wall of the house collapsed in the new Veler Chinnakulam, Vavuniya, Omanthai.
-
-S Sindhujan, who lives in Mullaitivu, has visited the house of his sister in Vavuniya on the 7th of last month.
-
-At about 5 pm, the house in the house fell on the child while staying at the temporary house of her sister.
-
-The child was immediately taken to the Vavuniya General Hospital, but the baby died.
-
-◼️
-
-[Data](articles/abafa6b6.json)
-
-[Extended Data](ext_articles/abafa6b6.ext.json)
-
----
-
-### 26 Massive striking strike
-
-*2024-06-10 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197614) · `si`
-
-The Ceylon Teachers Union plans a sick leave protest on the 26th due to salary issues, with a general strike on the 12th.
-
-🟩
-
-The Ceylon Teachers Union has decided to engage in a trade union action to report sick leave of sick leave on the 26th.
-
-General Secretary of the Union Joseph Stalin says that action will take on a salary anomalies taking over the problem.
-
-Ceylon Teachers Union Secretary Joseph Stalin added that a protest will be organized on the 12th of this trade union action.
-
-◼️
-
-[Data](articles/c87038ae.json)
-
-[Extended Data](ext_articles/c87038ae.ext.json)
-
----
-
-### Happy news to pre -school teachers
-
-*2024-06-10 19:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-ஆசிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338717) · `ta`
-
-The government of Sri Lanka has increased allowances for pre-school teachers, benefiting around 34,000 educators.
-
-🟩
-
-The government has decided to increase the allowance of Rs.
-
-It is noteworthy that about 34,000 people are currently working on the pre -school teacher work in Sri Lanka. Remble
-
-◼️
-
-[Data](articles/94e23ec4.json)
-
-[Extended Data](ext_articles/94e23ec4.ext.json)
 
 ---

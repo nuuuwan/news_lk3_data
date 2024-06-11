@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 23:34:44**
+As of **2024-06-11 23:54:29**
 
 ## Newspaper Stats
 
-*Scraped **29,868** Articles*
+*Scraped **29,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,378
 tamilmirrorlk | 3,498
 virakesarilk | 4,570
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,808
+adaderanasinhalalk | 4,809
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,868 (100.0%) of 29,868 articles have been extended.
+29,868 (100.0%) of 29,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### පාකිස්තානයට ජය
+
+*2024-06-11 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197659) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩාවට එරෙහිව අද (11) පැවති තරගයෙන් පාකිස්තානය කඩුලු 7ක ජයක් හිමිකර ගත්තේය.
+
+කාසියේ වාසිය දිනු පාකීස්තාන කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට කැනඩා කණ්ඩායමට ආරාධනා කළේය.
+
+එහිදි කැනඩා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 106ක් රැස් කළේය.
+
+ඒ අනුව පිටියට පිවිසි පාකිස්තාන කණ්ඩායම පන්දුවාර 17 යි පන්දු 3ක් තුළ කඩුලු 3ක් දැවී ලකුණු 107ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/58e57576.json)
+
+---
 
 ### Two fishermen were missing in the top of the boat
 
@@ -2289,35 +2307,5 @@ The Additional District Magistrate has ordered Keerthi Udanayake and General Sec
 [Data](articles/538cf5d8.json)
 
 [Extended Data](ext_articles/538cf5d8.ext.json)
-
----
-
-### Modi's leadership will bring about changes - Gopio leader Kumar Nadesan congratulates
-
-*2024-06-11 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185802) · `ta`
-
-Kumar Nadesan, leader of the Global Organization for Indians in Sri Lanka (Gopio), congratulates Narendra Modi on his third term as India's Prime Minister. He expresses hope that Modi's leadership will bring prosperity and progress to both countries, emphasizing the importance of maintaining neighborly relations.
-
-🟩
-
-Narendra Modi, who won the Indian general election for the 3rd time, has congratulated Sri Lanka's Global Organization for the people of Indian origin.
-
-In a letter of congratulations sent by its leader Kumar Nadesan on behalf of the Kopio Organization, Narendra Modi's leadership and overview of many is aimed at many.
-
-On behalf of the Indian origin and all Sri Lankan citizens in Sri Lanka, I am happy to congratulate them on the success of India's successful elected Prime Minister of India.
-
-We hope that their leadership and vision have encouraged many people and guide the country in prosperity and progress.
-
-We expect many benefits to the neighboring country of Sri Lanka and they will continue to maintain their neighboring policy.
-
-We congratulate India to lead India in your new responsibility.
-
-In the article, it is mentioned in the article that congratulations on this success of your most worthy.
-
-◼️
-
-[Data](articles/94425ca2.json)
-
-[Extended Data](ext_articles/94425ca2.ext.json)
 
 ---

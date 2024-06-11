@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 16:06:39**
+As of **2024-06-11 16:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,782** Articles*
+*Scraped **29,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,550
-adaderanalk | 3,368
+adalk | 2,551
+adaderanalk | 3,369
 tamilmirrorlk | 3,490
 virakesarilk | 4,557
 dailymirrorlk | 4,719
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,782 (100.0%) of 29,782 articles have been extended.
+29,782 (100.0%) of 29,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Former Weligama PS Chairman remanded for disrupting police duties
+
+*2024-06-11 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99804/former-weligama-ps-chairman-remanded-for-disrupting-police-duties) · `en`
+
+The former Chairman of the Weligama Pradeshiya Sabha, Pushpakumara Battage has been remanded until June 20 by Matara Magistrate.
+
+He has been arrested and produced before the court for allegedly disrupting the official duties of Officer-in-Charge (OIC) and other police officers at Kotawila Police, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/014258c5.json)
+
+---
 
 ### High-risk dengue zones increase in Sri Lanka after heavy rainfall
 
@@ -75,6 +89,28 @@ Additionally, the CTU has called for an increase in paper marking charges. Despi
 [Data](articles/d4c5bb06.json)
 
 [Extended Data](ext_articles/d4c5bb06.ext.json)
+
+---
+
+### කෝටි පහක් වංචා කළ සැකකාරියක් අත්අඩංගුවට
+
+*2024-06-11 14:48:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක්-වංචා-කළ-සැකකාරියක්-අත්අඩංගුවට/11-410145) · `si`
+
+ඊශ්‍රායලයේ විදේශ රැකියා ලබා දෙන බව පවසා පුද්ගලයන් විශාල ප්‍රමාණයකගෙන් රුපියල් කෝටි 5 කට ආසන්න මුදලක් වංචා කළ කාන්තාවක් අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+දිවයිනේ විවිධ ප්‍රදේශවල පදිංචි පුද්ගලයන් 53 කු සිදුකරන ලද පැමිණිලිවලට අදාළ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරයේ එම පැමිණිලිකරුවන්ගෙන් පමණක් රුපියල් හාර කෝටි හැට  ලක්ෂ හැට හතර දාස් තුන්සීයක පුදලක් වංචා කර ඇති බව පොලිසිය සඳහන් කරයි.
+
+අත්අඩංගුවට ගත් සැකකාරිය සාත්තු සේවිකාවක් ලෙස සිටිමින් මෙම වංචාව සිදු කර ඇති අතර  එක් පුද්ගලයෙකුගෙන් ලක්ෂ පහ, දහය, හා පහළොව ආදී විවිධ ප්‍රමාණයන්වල මුදල් ලබාගෙන මෙම වංචාව සිදුකර ඇති බව පොලිසියට  ලද පැමිණිලි වලින් සනාථ වන බව පොලිසිය කියයි.
+
+සැකකාරිය සාපරාදී විශ්වාසය කඩකිරීම. පරිහරණය කිරීම හා මුදල් විශුද්ධිකරණය සඳහා ආධාර අනුබලදීම හා කුමන්ත්‍රණය කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරිය වයස අවුරුදු 51 ක් වන වරකාපොළ පදිංචිකාරියකි. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/766d7c56.json)
 
 ---
 
@@ -2331,39 +2367,5 @@ In the match against the Netherlands, the total number of South Africa's leading
 [Data](articles/856453f0.json)
 
 [Extended Data](ext_articles/856453f0.ext.json)
-
----
-
-### India voted emphatically for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution.
-
-*2024-06-11 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84178) · `en`
-
-Emphatic. An election result that throws up no outright winners would not be normally described as that. But this was no normal election. It was an election for the democratic heart and soul of India. And, in this sense, the results of the 2024 Lok Sabha election, which left the BJP with less than a majority, were emphatic.
-
-An emphatic rejection of Prime Minister Narendra Modi’s creeping authoritarianism, his and Home Minister Amit Shah’s two-man regime, and their divisive politics, anti-federal tendencies, and idea of “development” that lined the pockets of crony capitalists without improving the lives of the common people. An emphatic vote for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution and the guarantees and protections written into it for all citizens.
-
-...
-
-[Data](articles/0d0d1fc8.json)
-
-[Extended Data](ext_articles/0d0d1fc8.ext.json)
-
----
-
-### Presidential pardons shouldn’t encourage impunity - EDITORIAL
-
-*2024-06-11 00:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-pardons-shouldnt-encourage-impunity-EDITORIAL/172-284557) · `en`
-
-The Supreme Court’s June 6 reversal of the order of President Maithripala Sirisena to grant a pardon to Jude Shramantha Jayamaha, who was sentenced to death over the Royal Park murder incident on July 1, 2005, was the second such action by the apex court within the last six months.
-
-The court on January 17 quashed the clemency given by former President Gotabaya Rajapaksa to former Parliamentarian Duminda Silva who had been on death row over the murder of former Presidential Advisor Bharatha Lakshman Premachandra on October 8, 2011.
-
-Both rulings by the Supreme Court to quash the capital punishment given to Duminda Silva and Jude Shramantha Jayamaha were based on technicalities - meaning the President had failed to adhere to the proper legal procedures in granting the special Presidential Pardon.
-
-...
-
-[Data](articles/08404a9c.json)
-
-[Extended Data](ext_articles/08404a9c.ext.json)
 
 ---

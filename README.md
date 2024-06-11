@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 09:54:21**
+As of **2024-06-11 10:06:31**
 
 ## Newspaper Stats
 
-*Scraped **29,723** Articles*
+*Scraped **29,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,62 +15,122 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
-adalk | 2,537
+adalk | 2,538
 adaderanalk | 3,359
-tamilmirrorlk | 3,481
+tamilmirrorlk | 3,483
 virakesarilk | 4,554
 dailymirrorlk | 4,713
-adaderanasinhalalk | 4,783
+adaderanasinhalalk | 4,784
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,721 (100.0%) of 29,723 articles have been extended.
+29,723 (100.0%) of 29,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### රාජ්‍ය සේවක වැටුප් විෂමතා ගැන තීරණයක්
+### சஜித்துடன் இணைய மூவர் பேச்சு
+
+*2024-06-11 09:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைய-மூவர்-பேச்சு/175-338745) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களான டலஸ் அழகப்பெரும, தயாசிறி ஜயசேகர மற்றும் ரொஷான் ரணசிங்க தலைமையிலான அரசியல் குழுக்கள் ஐக்கிய மக்கள் சக்தியுடன் தேர்தல் கூட்டணியை அமைப்பதற்கான பேச்சுவார்த்தை நடத்தி வருவதாக தகவலறிந்த வட்டாரம் தெரிவித்துள்ளது.
+
+இந்த மூன்று பாராளுமன்ற உறுப்பினர்களும் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஊடாக பாராளுமன்றத்துக்கு தெரிவு செய்யப்பட்டதுடன், . பின்னர், அதிலிருந்து விலகி எதிரணியாக செயற்பட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3d6c2d66.json)
+
+---
+
+### සාමාන්‍ය පෙළ - උසස් පෙළ විභාග කඩිනමින් අවසන් කිරීමට අවධානය
+
+*2024-06-11 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197630) · `si`
+
+සාමාන්‍ය පෙළ සහ උසස් පෙළ විභාග කඩිනමින් අවසන් කර විශ්වවිද්‍යාල ප්‍රවේශය සඳහා අවස්ථාව ලබාදෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, වයස අවුරුදු 18දී පාසල් අධ්‍යාපනය අවසන් කර උසස් අධ්‍යාපනය සඳහා සිසුන්ට අවස්ථාව ලබාදීමට කටයුතු කරන බවය.
+
+අධ්‍යයන පොදු සහතින පත්‍ර උසස් පෙළ විභාගයෙන් ප්‍රමුඛස්ථාන ලැබූ සිසුන්ගේ කුසලතා ඇගයීම වෙනුවෙන් පැවති උත්සවයකට එක්වෙමින් සුසිල් ප්‍රේමජයන්ත අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6de8408a.json)
+
+---
+
+### Decision regarding salary anomalies
 
 *2024-06-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197629) · `si`
 
-රාජ්‍ය අංශයේ පවතින වැටුප් විෂමතා විසඳීමට රජයට අවශ්‍ය වුව ද 2024 අයවැය ලේඛනය මඟින් ඒ සඳහා අතිරේක මූල්‍ය ප්‍රතිපාදන ලබාගැනීමේ හැකිවක් නොමැති බව අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+In a media briefing, Minister Bandula Gunawardena announced that the 2024 budget lacks extra funds for a specific project. He mentioned a committee, including the President's Secretary and the Ministry of Finance, tasked with resolving issues across state departments, corporations, and boards.
 
-රාජ්‍ය දෙපාර්තමේන්තු, රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ආශ්‍රිත වැටුප් විෂමතා ඇතුළු වැටුප් සම්බන්ධව පවතින ගැටළුවලට විසඳුම් ලබාදීම සඳහා ජනාධිපති ලේකම්වරයාගේ සහ මුදල් අමාත්‍යාංශ ලේකම්වරයාගෙන් සමන්විත කමිටුවක් මේ වන විටත් පත්කර ඇති බව අමාත්‍යවරයා පෙන්වා දෙයි.
+🟩
 
-ඒ අනුව ඒ සඳහා විසඳුම් නිර්දේශ ඉදිරිපත් කර 2025 අයවැය ලේඛනයෙන් සම්පූර්ණ විසඳුම් ලබාදීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍ය මණ්ඩලය තීරණයකට ද එළඹ ඇති බව ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ස﻿ඳහන් කළේය.
+Minister Bandula Gunawardena says that the 2024 budget has not been able to obtain additional funds for the project.
+
+The Minister pointed out that a committee consisting of the Secretary to the President and the Ministry of Finance has already been appointed to address the issues including state departments, state corporations and statutory boards.
+
+Addressing a media briefing at the President's Media Center, Minister Bandula Gunawardena addressed a media barisan at the Presidential Media Center.
 
 ◼️
 
 [Data](articles/346b4ec9.json)
 
+[Extended Data](ext_articles/346b4ec9.ext.json)
+
 ---
 
-### බස් - වෑන් බිහිසුණු අනතුරක්
+### Bus - van terrible accident
 
 *2024-06-11 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197628) · `si`
 
-පෞද්ගලික බස් රථයක් සහ වෑන් රථයක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරින් දෙදෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබේ.
+In a tragic accident on the Hatton-Colombo road, two buses and a van collided, resulting in severe damage and hospitalization of several passengers. The incident occurred around 7:30 pm, involving a van speeding in the wrong direction and colliding head-on with a bus traveling from Kandy to Hatton. The van's driver and another passenger were critically injured. Passengers quickly assisted the trapped victims, urging them to exit through the van's front door. The police advise caution due to the road's slick conditions.
 
-අද (11) උදැසන 7.30ට පමණ හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන, දියගල ප්‍රදේශයේදී එම අනතුර සිදුව තිබුණි.
+🟩
 
-එම අනතුරින් තුවාල ලබා රෝහල් ගත කර ඇත්තේ, වෑන් රථයේ ගමන් ගත් රියදුරා සහ තවත් අයෙකි.
+Two buses and a van have been admitted to the face of a van and hospitalized.
 
-මහනුවර සිට හැටන් දක්වා ධාවනය වු පෞද්ගලික බස් රථයක් සහ හැටන් සිට කොළඹ දක්වා ධාවනය වු වෑන් රථයක් එලෙස අනතුරට ලක්ව ඇත.
+The accident had occurred at the Hatton - Colombo main road around 7.30 pm today.
 
-අධික වේගයෙන් ධාවනය වී ඇති වෑන් රථය ලිස්සාගොස් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු පෞද්ගලික බස් රථයේ ගැටී අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+The driver of the van and another were hospitalized after injuring the accident.
 
-අනතුරෙන් වෑන් රථ රියදුරා සහ ඉදිරිපස අසුනේ සිටි තවත් අයෙකු සිර වී සිටි බවත්, බස් රථයේ ගමන් ගත් මගීන් විසින් දැඩි පරිශ්‍රමයක් දරා වෑන් රථයේ දොර විවෘත කර තුවාලකරුවන් රෝහල වෙත යොමු කර ඇත.
+A private bus traveling from Kandy to Hatton and a van traveling from Hatton to Hatton has been reported.
 
-අනතුරෙන් බස් රථයට සහ වෑන් රථයට දැඩි අලාභ හානි සිදු වී ඇති බව අප වාර්තාකරු පැවසීය.
+The accident had occurred when the high fast-run van was on the opposite direction of Lissa.
 
-ප්‍රදේශයේ පවතින වර්ෂාවත් සමග හැටන් - කොළඹ ප්‍රධාන මාර්ගය ලිස්සන සුළු බැවින් එම මාර්ගයේ රථ වාහන ධාවනය කිරීමේදි සැලකිලිමත් වන ලෙස ගිනිගත්හේන පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
+Passers of the van driver and another in the accident were trapped in the front seat and opened the door of the van and directed the injured.
+
+According to our correspondent, the bus and the van had severely damaged.
+
+The Ginigathena police call on the drivers to take care of traffic in the area, as the Hatton-Colombo main road is slippery.
 
 ◼️
 
 [Data](articles/a9f943cc.json)
+
+[Extended Data](ext_articles/a9f943cc.ext.json)
+
+---
+
+### மலாவி நாட்டு துணை ஜனாதிபதி பயணித்த விமானம் மாயம்
+
+*2024-06-11 09:21:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலாவி-நாட்டு-துணை-ஜனாதிபதி-பயணித்த-விமானம்-மாயம்/175-338743) · `ta`
+
+மலாவியின் துணை ஜனாதிபதி சவுலோஸ் கிளாஸ் சிலிமா பயணித்த இராணுவ விமானம் காணாமல் போயுள்ளதாக சர்வதேச செய்திகள் தெரிவிக்கின்றன.
+
+தென்கிழக்கு ஆப்பிரிக்க நாடான மலாவியின் தலைநகர் லிலாங்வேயில் இருந்து துணை ஜனாதிபதி சவுலோஸ் கிளாஸ் சிலிமா (51) மற்றும் 9 பேருடன் நேற்று காலை புறப்பட்ட மலாவி பாதுகாப்பு படை விமானம், ரேடாரில் இருந்து வெளியேறியதாக அந்நாட்டு ஜனாதிபதி அலுவலகம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+“ரேடாரில் இருந்து விலகியதில் இருந்து விமானத்துடன் தொடர்பு கொள்ள விமான அதிகாரிகளின் அனைத்து முயற்சிகளும் இதுவரை தோல்வியடைந்துள்ளன” என்று மலாவியின் ஜனாதிபதி அலுவலகம் மற்றும் அமைச்சரவை தெரிவித்துள்ளது.
+
+விமான நிபுணர்களால் விமானத்தை கண்டுபிடிக்க முடியாமல் போனதை அடுத்து தேடுதல் மற்றும் மீட்பு பணி தொடங்கப்பட்டது. அந்நாட்டு நேரப்படி காலை 9:17 மணியளவில் விமானம் புறப்பட்டு, காலை 10:02 மணிக்கு Mzuzu சர்வதேச விமான நிலையத்தில் திட்டமிடப்பட்டப்படி தரையிறங்க வேண்டும், ஆனால் விமானம் அப்படி இல்லாமல், ரேடாரில் இருந்து விலகியது.
+
+◼️
+
+[Data](articles/6f9fad56.json)
 
 ---
 
@@ -305,6 +365,22 @@ The Railway Department says that the train operations will be done today (11).
 [Data](articles/1fec8691.json)
 
 [Extended Data](ext_articles/1fec8691.ext.json)
+
+---
+
+### චීනය යෝජනා කළ ‘ජාත්‍යන්තර ශිෂ්ටාචාර සංවාද දිනය’ට එක්සත් ජාතීන්ගේ අනුමැතිය
+
+*2024-06-11 07:53:35* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-යෝජනා-කළ-‘ජාත්‍යන්තර-ශිෂ්ටාචාර-සංවාද-දිනය’ට-එක්සත්-ජාතීන්ගේ-අනුමැතිය/11-410130) · `si`
+
+ලෝක ශිෂ්ටාචාර අතර සංවාද වෙනුවෙන් ජාත්‍යන්තර දිනයක් නම් කරන ලෙස චීනය ඉදිරිපත් කළ යෝජනාවට එක්සත් ජාතීන්ගේ අනුමැතිය හිමිවෙයි. ඉකුත් 7 වැනිදා පැවති 78 වැනි මහා සම්මේලන සැසිවාරයේ දී එම යෝජනාව ඒකමතිකව සම්මත කෙරිණ. ඒ අනුව, ජූනි 10 වැනිදා ජාත්‍යන්තර ශිෂ්ටාචාර  සංවාද දිනය ලෙස ප්‍රකාශයට පත්කරනු ලැබීය.
+
+ලොව සියලු ශිෂ්ටාචාර විසින් දිනාගැනුණු ජයග්‍රහණ සමස්ත මානව වර්ගයාගේ උරුමයන් බව එම යෝජනාවෙන් පෙන්වා දී තිබේ.
+
+ශිෂ්ටාචාරවල විවිධත්වයට ගරු කරමින් ලෝක සාමය පවත්වා ගැනීමේ දී මෙන්ම පොදු සංවර්ධනය හා මානව වර්ගයාගේ යහපැවැත්ම සහතික කිරීමේ දී ශිෂ්ටාචාර අතර සංවාදය තීරණාත්මක මෙහෙවරක් ඉටුකරන බව ද මින් අවධාරණය කර ඇත. චීන ජනාධිපති ෂී ජින් පිං මහතා ඉදිරිපත් කළ ගෝලීය ශිෂ්ටාචාර මුලපිරුමේ කේන්ද්‍රීය හරයන් එහි අන්තර්ගත වේ.
+
+◼️
+
+[Data](articles/9fe3b4a2.json)
 
 ---
 
@@ -2133,103 +2209,5 @@ Speaking further (Minister) stated that the A / L stream is continuously to be c
 [Data](articles/11889dac.json)
 
 [Extended Data](ext_articles/11889dac.ext.json)
-
----
-
-### Sri Lanka’s Vidullanka, SEL Tech to develop 4.9mw solar power plant in Hambantota
-
-*2024-06-10 18:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-sel-tech-to-develop-4-9mw-solar-power-plant-in-hambantota-167273/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Vidullanka Plc said it had entered into an agreement with a consortium of promotors led by SEL Tech International (Pvt) Limited on to jointly develop the 4.9 MW Beliatha solar power plant in Hambantota.
-
-The agreement was signed on May 31, the company said in a stock exchange filing.
-
-“Vidullanka PLC will own 50.l% of the project company, Beliatha Solar Project (Pvt) Ltd.”
-
-The project is expected to cost approximately one billion rupees.
-
-Further details will be announced after the commissioning of the project, the company said.
-
-Vidullanka voting shares closed flat at 9.30, non-voting shares closed down at 7.30.
-
-Vidullanka, a leading renewable energy provider in Sri Lanka has seen its outlook improve following the government’s decision to market price electricity and a commitment to grow the share of renewables in the grid to 70%. (Colombo/Jun10/2024)
-
-◼️
-
-[Data](articles/dd9f50be.json)
-
-[Extended Data](ext_articles/dd9f50be.ext.json)
-
----
-
-### Case if there are evidence against Hirunika
-
-*2024-06-10 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහිව-සාක්ෂි-තියෙනවානම්-නඩු-දාන්න/11-410124) · `si`
-
-Colombo Chief Magistrate Thilina Gamage ordered the prosecution of individuals involved in disrupting a women's rights street play, including former MP Hirunika, after 14 people were charged. The case involves allegations of obstructing police during the event.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage ordered the Cinnamon Gamage to prosecute the prosecution to the public.
-
-The Magistrate was called to the Cinnamon Gardens Police when his former MP and others had a street play for women's rights and interrupted the public.
-
-When the incident had been taken up to the incident, 13 women and one person sat the courts.
-
-Investigations into the investigation into the investigation into the investigation into the incident, the complaint made by the progress of the investigation into the incident, the progress of the investigation into the incident, the progress of the investigation and obstructed the police on the occasion of the incident, the progress of the investigation and the police duties were taken into the incident.He said the proceedings had been concluded and sent to the anadis.
-
-The evidence of the OIC of the Cinnamonuwaththa Police OIC on November 14, 2022, the proof of the officers who were produced before courts were notified.
-
-...
-
-[Data](articles/b83bac8a.json)
-
-[Extended Data](ext_articles/b83bac8a.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 303.20/50 to US dollar
-
-*2024-06-10 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-20-50-to-us-dollar-167257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee weakened to close at 303.20/50 to the US dollar on Monday, from 302.70/80 to the dollar the previous week, dealers said. Bond yields were broadly stable.
-
-A bond maturing on 15.12.2026 closed at 9.95/10.10 percent, up from 9.95/10.05 percent.
-
-A bond maturing on 15.09.2027 closed at 10.45/65 percent, up from 10.45/55 percent.
-
-A bond maturing on 01.07.2028 closed at 10.95/11.10 percent, down from 11.00/10 percent.
-
-A bond maturing on 15.05.2030 closed at 11.70/85 percent, down from 11.75/90 percent.
-
-A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun10/2024)
-
-◼️
-
-[Data](articles/2c68d500.json)
-
-[Extended Data](ext_articles/2c68d500.ext.json)
-
----
-
-### Sri Lanka to send 6,000 workers to Japan
-
-*2024-06-10 17:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-send-6000-workers-to-japan-167261/) · `en`
-
-ECONOMYNEXT – Sri Lanka will send around 6,000 workers to Japan over the course of the year, a Ministry of Labor official has said.
-
-“We are sending caregivers, construction workers, and workers in the agriculture sector to Japan,” Minister of Labour and Foreign Employment Manusha Nanayakkara’s spokesman, Sanjaya Nallaperuma told EconomyNext.
-
-“So far we have sent 3,223 workers to Japan, in 2023 we sent 5,647 workers, and in 2022 we sent 4,518 workers,” Nallaperuma said. “We will send around 6,000 workers this year.”
-
-“The salary for skilled workers in Japan is high,” Nallaperuma said. “A skilled worker will get an estimated 5 lakhs in Sri Lankan rupees.”
-
-Sri Lanka has been focusing on sending skilled migrant workers following Nanayakkara’s announcement that the country will phase out sending ‘housemaids’, who are considers unskilled and earn less.
-
-...
-
-[Data](articles/b2da189a.json)
-
-[Extended Data](ext_articles/b2da189a.ext.json)
 
 ---

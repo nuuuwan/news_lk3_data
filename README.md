@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 22:19:05**
+As of **2024-06-11 22:34:20**
 
 ## Newspaper Stats
 
-*Scraped **29,860** Articles*
+*Scraped **29,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,563
 adaderanalk | 3,376
 tamilmirrorlk | 3,497
 virakesarilk | 4,567
-dailymirrorlk | 4,732
+dailymirrorlk | 4,733
 adaderanasinhalalk | 4,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,855 (100.0%) of 29,860 articles have been extended.
+29,860 (100.0%) of 29,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Sri Lanka to face Nepal in must-win T20 World Cup match
+
+*2024-06-11 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-face-Nepal-in-must-win-T20-World-Cup-match/108-284622) · `en`
+
+June 11 (Daily Mirror) - Sri Lanka will take on Nepal in the 23rd match of the ongoing T20 World Cup at the Central Broward Regional Park Stadium in Florida tomorrow morning (Wednesday).
+
+The venue, which hosted its first international match in 2010, is expected to offer better batting conditions than its New York counterpart, where pitch conditions have been tricky.
+
+Sri Lanka will benefit from their previous experience at the ground, offering an advantage over Nepal.
+
+After two defeats to South Africa and Bangladesh, Sri Lanka are in must-win territory. They need victories against Nepal and the Netherlands, and also rely on at least one of those teams to beat Bangladesh to keep their hopes alive.
+
+...
+
+[Data](articles/c09e937e.json)
+
+---
 
 ### New officers recruited to Sri Lanka Foreign Service
 
@@ -50,41 +68,55 @@ The newly-recruited officers will participate in the induction training programm
 
 [Data](articles/773c0ff4.json)
 
+[Extended Data](ext_articles/773c0ff4.ext.json)
+
 ---
 
-### කැනඩාව ලකුණු 106කට සීමා වෙයි
+### Canada limited to 106 runs
 
 *2024-06-11 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197657) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩාව සහ පාකිස්තානය අතර තරගය අද (11) පැවැත් වෙයි.
+In the T20 World Cup match between Canada and Pakistan, Canada made 106 runs in 20 overs but lost. Pakistan needs 107 runs to win.
 
-එහි පළමුවෙන් පන්දුවට පහරදුන් කැනඩාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 106ක් රැස් කළේය.
+🟩
 
-ඒ අනුව තරගය ජයගැනීම සඳහා පාකිස්තානයට හිමිවී ඇති ඉලක්කය ලකුණු 107කි.
+Canada and Pakistan will be held today (11), Canada and Pakistan of the T20 World Cup.
 
-කාසියේ වාසිය දිනා ගැනීමට පාකිස්තානය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+Batting first, Canada scored 106 runs for the loss of 07 wickets at the end of 20 overs.
+
+Accordingly, Pakistan has 107 runs in order to win the match.
+
+Pakistan won Pakistan to win the coin, and they decided first bowler.
 
 ◼️
 
 [Data](articles/f006cf48.json)
 
+[Extended Data](ext_articles/f006cf48.ext.json)
+
 ---
 
-### සෝල් බීච් කැඩුවාට දුන් විසඳුම
+### The solution that broke Soul Beach
 
 *2024-06-11 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197656) · `si`
 
-ආන්දෝලනයකට තුඩුදුන් දෙහිවල සෝල් බීච් හෝටලය කඩාදැමීමේ සිද්ධිය සම්බන්ධයෙන් ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව නිර්දේශ නිකුත් කර තිබේ.
+The Human Rights Commission of Sri Lanka has advised the Director General of Coast Conservation and the Secretary of Urban Development to address issues at the Dehiwala Seal Beach Hotel. The Inspector General of Police (IGP) has also been asked to investigate. Recommendations include assessing economic losses and compensating affected employees and the government.
 
-ඒ, අනුව වෙරළ සංරක්ෂණ හා වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා මෙහිදී ක්‍රියාකර ඇති ආකාරය සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකර සුදුසු පියවර ගන්නා ලෙස නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම්වරයා වෙත නිර්දේශ කෙරුණි.
+🟩
 
-එමෙන්ම වගඋත්තර පාර්ශ්වයන් මෙම සිදුවීම සම්බන්ධයෙන් ක්‍රියා කර ඇති ආකාරය පිළිබඳ පරීක්ෂණයක් සිදුකරන ලෙස පොලිස්පතිවරයා වෙතද නිර්දේශ කර තිබේ.
+The Human Rights Commission of Sri Lanka has issued recommendations regarding the controversy of the Dehiwala Seal Beach Hotel.
 
-අදාළ කාලසීමාව තුළ සිදුවූ ආර්ථිකමය හානිය තක්සේරු කර එහි සේවකයින්ට සුදුසු වන්දි මුදලක් ගෙවන ලෙසත්, අත්තනෝමතික ලෙස ගොඩනැඟිල්ල කඩාදැමීමෙන් පැමිණිලිකරුවන්ට සිදුවූ හානිය සම්බන්ධයෙන් තක්සේරු කර රජය විසින් එම මුදල ගෙවිය යුතු බවත් එම නිර්දේශවල සඳහන් ය.
+Accordingly, the Director General of the Coast Conservation and Coastal Resource Management, the Secretary to the Ministry of Urban Development and Housing has been recommended to take appropriate action.
+
+The IGP has also recommended to the IGP to conduct an investigation into the incident.
+
+The recommendations should be paid by the government to evaluate the economic damage caused by the relevant period and pay an appropriate compensation to its employees and the government.
 
 ◼️
 
 [Data](articles/c0cbe7a8.json)
+
+[Extended Data](ext_articles/c0cbe7a8.ext.json)
 
 ---
 
@@ -228,21 +260,27 @@ Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secret
 
 ---
 
-### ජනතාව දැන් බලාගෙන ඉන්නෙ පොහොට්ටුව දිනවන්නට
+### The people are now watching to win the quart
 
 *2024-06-11 19:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-දැන්-බලාගෙන-ඉන්නෙ-පොහොට්ටුව-දිනවන්නට/11-410159) · `si`
 
-ව්‍යවස්ථානුකූලව මැතිවරණය කල් දැමිය නොහැකි බවත් , එහෙම මෝඩකමක් කළොත් එය එක්සත් ජාතික පක්ෂයේ අවසානය බවත්  හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද (11දා) බදුල්ලේ දී පැවසීය .
+Mahinda Rajapaksa insists elections cannot be delayed, expressing optimism about national unity. He warns that any misstep by the UNP could spell disaster for the party.
 
-බදුල්ලේ සිය පාක්ෂිකයකුගේ අවමංගල උත්සව අවස්ථාවකට සහභාගි වීමෙන් අනතුරුව මාධ්‍යවේදීන් හමුවේ හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා එසේ කීය .මෙහිදී තවදුරටත් අදහස් දක්වමින් මහින්ද රාජපක්ෂ මහතා මෙසේද පැවසීය .
+🟩
 
-"දැන් රටේ ජනතාවගේ විශාල බලාපොරොත්තුවක් තිබෙනවා පොහොට්ටුව ගැන.ලන්සලා කඩාගෙන ගියාට අපිට   කිසිම  අඩුවක් වෙලා නැහැ .අපි දැන් එදාට වඩා අද ශක්තිමත් ..ව්‍යවස්ථානුකූලව මැතිවරණය කල් දාන්න බැහැ .මම හිතන්නෙ නැහැ එක්සත් ජාතික පක්ෂය එතරම් මෝඩකමක් කරයි කියලා .
+Former President Mahinda Rajapaksa said that the election cannot be postponed to be postponed and that if it is foolishly, he said.
 
-එහෙම වැඩක් එක්සත් ජාතික පක්ෂය කළොත් ඒ  එම පක්ෂයේ අවසානයයි .අපේ ජනපති අපේක්ෂකයා ගැන දැන්ම මොනවත් කියන්නෙ නැහැ .නිසි වෙලාවට, නිසි කලට  එය අපි කියන්නම්.ජනතාව දැන් බලාගෙන ඉන්නෙ පොහොට්ටුව දිනවන්නට.නැතිව වෙන මොන පක්ෂ ගැනවත් නොවේ."
+Former President Mahinda Rajapaksa, President Mahinda Rajapaksa said, "President Mahinda Rajapaksa said," President Mahinda Rajapaksa said.
+
+"Now there is a great hope of the people of the country.
+
+If the UNP does that, it is the end of the party .I do not know .It 's it.
 
 ◼️
 
 [Data](articles/ae8b563c.json)
+
+[Extended Data](ext_articles/ae8b563c.ext.json)
 
 ---
 
@@ -416,19 +454,25 @@ Devananda proposed the establishment of hatcheries as an alternative to catching
 
 ---
 
-### ජනපතිවරණය නියමිත පරිදි පවත්වනවා
+### President's vicinity is held
 
 *2024-06-11 18:55:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-නියමිත-පරිදි-පවත්වනවා/11-410154) · `si`
 
-ආණ්ඩුවේ ඇතැම් පාර්ශ්ව ජනාධිපතිවරණය කල් දැමිය හැකි බවට විවිධ පුවත් නිර්මාණය කළද ජනාධිපතිවරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව නියමිත පරිදි පැවැත්වෙන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+The speaker at a media briefing suggested that the government aims to extend the presidential term beyond its current limit due to the absence of the 19th Amendment during Maithripala Sirisena's presidency, which reduced the term from six to five years. They mentioned that Gotabhaya Rajapaksa served a full five-year term, making Ranil Wickremesinghe his successor, who can only serve out the remainder of Rajapaksa's term. The speaker criticized the government's lack of a two-thirds majority in parliament, suggesting that the election commission holds the power to set the election date, which is expected to occur within a specific timeframe.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ අද (11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-"මේ දවස්වල ආණ්ඩුව පැත්තෙන් ප්ලාන්ට් කරපු නිව්ස් එකක් යනවා ජනාධිපතිවරයාගේ ධුර කාලය තව අවුරුද්දකින් දීර්ඝ කරගන්න පුළුවන් කියලා. අපි පැහැදිලිවම කියන්න ඕනෑ 1977 ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාට අවුරුදු 06ක් තිබුණා. ඒත් 2015දී යහපාලන ආණ්ඩුව ඇවිල්ලා 19 වැනි සංශෝධනය අනුව ජනාධිපතිවරයාගේ ධුර කාලය අවුරුදු 05ට අඩු කරලා තියෙනවා. ඒ වෙලාවේ මෛත්‍රීපාල සිරිසේන මහතා ජනාධිපති ධුරයට පත්වෙද්දි 19 වැනි සංශෝධනය ඇවිල්ලා තිබුණේ නෑ. එතුමා පත්වුණේ අවුරුදු 06ට. ඉන්පසුව ධුර කාලය 05 කළාම එතුමාටත් ඉන්න පුළුවන් වුණේ අවුරුදු 05යි. ඒ අනුව ගෝඨාභය රාජපක්ෂ මහතා ජනාධිපතිවරයා බවට පත්වෙන්නේ අවුරුදු 05ක් සඳහා.
+The Presidential Election has said that the presidential election can be postponed that the presidential election can postpone the presidential election.
+
+He was speaking at a media briefing held at the Colombo Opposition Office today (11), he added:
+
+"These days, the government is on the side of the government to go on the side of the government to extend the term of the president in a year. We obviously should say the President had six years after the 1977. But in 2015, the government's term of the President has been reduced to 5 years as per the 19th Amendment. The 19th Amendment was not attended by Maithripala Sirisena's presidency at the time. He was released at 6 years. After five, he was able to stay 5 years old when I was five. Accordingly, Gotabhaya Rajapaksa becomes the President for five years.
 
 ...
 
 [Data](articles/49090720.json)
+
+[Extended Data](ext_articles/49090720.ext.json)
 
 ---
 
@@ -2297,23 +2341,5 @@ The police have not been identified as the assassins entered the house, the poli
 [Data](articles/b3857cf0.json)
 
 [Extended Data](ext_articles/b3857cf0.ext.json)
-
----
-
-### Ali Sabry meets Russian Foreign Minister; discuss recruitment of Sri Lankans to Russian forces
-
-*2024-06-11 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99799/ali-sabry-meets-russian-foreign-minister-discuss-recruitment-of-sri-lankans-to-russian-forces-) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry, who is currently in Russia to participate in the BRICS 2024 Foreign Ministerial Session with developing countries, had a bilateral meeting with Russian Foreign Minister Sergey Lavrov on Monday (10).
-
-During the meeting, the two Foreign Ministers agreed to further enhance bilateral ties, including in the spheres of tourism, higher education and economic cooperation, the Embassy of Sri Lanka in Moscow said.
-
-Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them.
-
-...
-
-[Data](articles/f2c33a3b.json)
-
-[Extended Data](ext_articles/f2c33a3b.ext.json)
 
 ---

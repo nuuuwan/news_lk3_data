@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 11:54:09**
+As of **2024-06-11 12:07:13**
 
 ## Newspaper Stats
 
-*Scraped **29,749** Articles*
+*Scraped **29,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,69 @@ adaderanalk | 3,363
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,715
-adaderanasinhalalk | 4,789
+adaderanasinhalalk | 4,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,744 (100.0%) of 29,749 articles have been extended.
+29,749 (100.0%) of 29,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### රුසියාවෙන් ශ්‍රී ලංකාවට පොරොන්දුවක්
+### ගෙල කපා කාන්තාවක්ව ඝාතනය කෙරේ
+
+*2024-06-11 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197637) · `si`
+
+තියුණු ආයුධයකින් ගෙල කපා නිදා සිටි ඇද මතදී ම කාන්තාවක් ඝාතනය කර ඇති බව හොරණ පොලීසිය පවසයි.
+
+අද (11) අලුයම හොරණ, මීවනපලාන ප්‍රදේශයේ සිරිල්ටන් වත්ත ප්‍රදේශයේ නිවසක් තුළ එම ඝාතනය සිදුව තිබිණි.
+
+එලෙස ඝාතනය කර ඇත්තේ, බංග්ලාදේශ ජාතිකයෙකු සමග විවාහ වී සිට 57 හැවිරිදි කාන්තාවකි.
+
+නැගණිය මීට සති තුනකට ඉහතදී මියගිය කාන්තාවගේ නිවසේ නතර වීමට පැමිණි ඇති බව පොලීසිය පවසයි.
+
+ඊයේ රාත්‍රී 7.30 පමණ කාන්තාවන් දෙදෙනා දොරවල් වසා නින්දට ගොස් ඇති අතර පසුව     අලුයම 1.45ට පමණ කළු ඇඳගත් මුහුණු ආවරණය කරගත් නාඳුනන පුද්ගලයින් දෙදෙනෙක් නිවසට පැමිණ තිබේ.
+
+ඔවුන් මරණකාරියගේ නැගණියගේ දෙඅත් ගැට ගසා කටට රෙදි ඔබා කාමරයේ දමා මියගිය කාන්තාව නිදා සිටි කාමරයට ගොස් තිබේ.
+
+පසුව මියගිය කාන්තාවගේ නැගණිය ගැට ගසා සිටි දෙඅත් හා කටට ඔබා තිබූ රෙදි කැබැල්ල සමග ම අසල්වැසි නිවසකට ගොස් මේ බව පවසා තිබේ.
+
+පසුව එම අසල්වැසියන් විසින් පොලීසියට කළ දැනුම්දීමක් මත විමර්ශන ආරම්භ කර ඇත.
+
+මියගිය කාන්තාව සතු ස්වර්ණාභරණ හා මුදල් ගෙන ගොස් නොමැති අතර, ඇයගේ කාමරයේ තිබූ අල්මාරිය කඩා රෙදි අවුස්සා දමා ඇතැයි පොලීසිය පවසයි.
+
+...
+
+[Data](articles/b3857cf0.json)
+
+---
+
+### Russia promises to Sri Lanka
 
 *2024-06-11 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197635) · `si`
 
-මේ දිනවල රුසියාවේ සංචාරයක යෙදෙන විදේශ අමාත්‍ය අලි සබ්රි මහතා එරට විදේශ අමාත්‍ය සර්යෙව් ලැව්රොෆ් මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+Sri Lanka's Foreign Minister Ali Sabri met with his Russian counterpart, discussing mutual interests and requesting Russia's non-intervention in its military affairs. The Russian Foreign Minister assured this, and further talks are scheduled for June 26-27 involving a large Sri Lankan delegation.
 
-එම හමුවේදී දෙරටට වැදගත් වන කරුණු සම්බන්ධයෙන් විදේශ අමාත්‍යවරු දෙදෙනා අදහස් හුවමාරු කරගත් බව විදේශ කටයුතු අමාත්‍යංශය නිකුත්කළ නිවේදනයක් දැක්වෙයි.
+🟩
 
-එසේම මේ වනවිට රුසියානු හමුදාව හා එක්වී සිටින ශ්‍රී ලාංකිකයින් මුහුණදී ඇති ගැටලු සම්බන්ධයෙන් ද මෙහිදී සබ්රි මහතා අදහස් දක්වා ඇති අතර ඔවුන් වෙනිවෙන් මැදිහත් වන ලෙස ඔහු රුසියානු විදේශ අමාත්‍යවරයාගෙන් ඉල්ලා තිබුණි.
+Foreign Minister Ali Sabri has held discussions with the Foreign Minister Sabri who visited Russia these days.
 
-තවදුරටත් ශ්‍රී ලාංකිකයින් රුසියාවේ හමුදා සේවයට බඳවා නොගන්නා බවට රුසියානු විදේශ අමාත්‍යවරයා පොරොන්දු වී තිබේ.
+The Ministry of External Affairs says that the two foreign ministers have exchanged views on matters important to the two countries.
 
-එළැඹෙන ජූනි 26-27 දිනවල ඉහළ පෙළේ ශ්‍රී ලාංකික නියෝජිතයින් පිරිසක් රුසියානු බලධාරීන් සමග මෙම ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිතය.
+The Russian Foreign Minister he had asked the Russian Foreign Minister to intervene in the Russian army.
+
+The Russian Foreign Minister has promised that the Sri Lankans will not hire Russia's military service.
+
+A large number of Sri Lankan delegates will discuss the issue with the Russian authorities on June 26-27.
 
 ◼️
 
 [Data](articles/b37a0943.json)
+
+[Extended Data](ext_articles/b37a0943.ext.json)
 
 ---
 
@@ -71,6 +105,8 @@ The International Monetary Fund’s Executive Board is due to take up Sri Lanka�
 ...
 
 [Data](articles/e7e245bb.json)
+
+[Extended Data](ext_articles/e7e245bb.ext.json)
 
 ---
 
@@ -329,6 +365,8 @@ A bond maturing on 15.05.2030 was quoted at 11.85/12.00 percent up from 11.70/85
 ◼️
 
 [Data](articles/014316d9.json)
+
+[Extended Data](ext_articles/014316d9.ext.json)
 
 ---
 
@@ -679,6 +717,8 @@ The CPC has made losses and run up large debts including in 2018, when fuel was 
 ...
 
 [Data](articles/9fb471e7.json)
+
+[Extended Data](ext_articles/9fb471e7.ext.json)
 
 ---
 
@@ -2213,21 +2253,5 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 [Data](articles/d5451ebb.json)
 
 [Extended Data](ext_articles/d5451ebb.ext.json)
-
----
-
-### Dr. Siri Kannangara: His healing and teaching remain within us
-
-*2024-06-10 20:19:53* · [`dailyftlk`](https://www.ft.lk/columns/Dr-Siri-Kannangara-His-healing-and-teaching-remain-within-us/4-762882) · `en`
-
-He was a physician who made his patients believe that he was a friend. He was always self-effacing and treated all Sri Lankans as though they were close relatives in an immense extended family
-
-Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he delivered after attaining Enlightenment, observed that having to associate with those who are repugnant is sorrowful and being apart from those who are loved is also sorrowful — ‘appiyehi sampayogo dukkho, piyehi vippayogo dukkho’. So, we choose to avoid and insulate ourselves from the distasteful while we seek the company of people we find agreeable. When they leave, we are saddened. When they depart, never to return, we are distraught.
-
-...
-
-[Data](articles/099bc8a2.json)
-
-[Extended Data](ext_articles/099bc8a2.ext.json)
 
 ---

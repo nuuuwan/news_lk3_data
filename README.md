@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 19:34:46**
+As of **2024-06-11 19:52:42**
 
 ## Newspaper Stats
 
-*Scraped **29,839** Articles*
+*Scraped **29,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,558
-adaderanalk | 3,374
+adaderanalk | 3,375
 tamilmirrorlk | 3,494
 virakesarilk | 4,562
 dailymirrorlk | 4,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,834 (100.0%) of 29,839 articles have been extended.
+29,839 (100.0%) of 29,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,24 @@ Chaired by former Secretary to the President and senior administrative officer M
 
 [Data](articles/23fa0913.json)
 
+[Extended Data](ext_articles/23fa0913.ext.json)
+
+---
+
+### President forms expert committee to address public service salary disparities
+
+*2024-06-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99810/president-forms-expert-committee-to-address-public-service-salary-disparities) · `en`
+
+President Ranil Wickremesinghe has appointed a specialist committee to address salary discrepancies in the government service, the President’s Media Division said.
+
+The committee, chaired by a former presidential secretary Mr. Udaya Seneviratne, comprises various distinguished members including Director General of the National Budget Department S.D.J. Nilukshan, Director General of the Management Services Department Hiransa Kaluthantri, Director General of Combined Services S. Aloka Bandara, Director General of Institutions H.A. Chandana Kumarasinghe, Dr. Terence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Dharmaratne and Isuru Thilakawardena.
+
+Presidential Additional Secretary Vernon Perera serves as the secretary of the said committee, the release said.
+
+...
+
+[Data](articles/9c5bb2bf.json)
+
 ---
 
 ### President forms committee to tackle public service salary anomalies
@@ -59,6 +77,8 @@ The committee is tasked with evaluating and proposing solutions to the salary di
 ◼️
 
 [Data](articles/2309949a.json)
+
+[Extended Data](ext_articles/2309949a.ext.json)
 
 ---
 
@@ -1158,6 +1178,8 @@ Asked about land and police powers, Permadasa sadi: “We will move forward the 
 
 [Data](articles/5758adc5.json)
 
+[Extended Data](ext_articles/5758adc5.ext.json)
+
 ---
 
 ### Anurakumara met the members of the Sri Lanka Tamil National Party in Jaffna
@@ -1315,6 +1337,8 @@ It was prepared by a sub-committee of the Parliamentary sectoral oversight commi
 ...
 
 [Data](articles/fa9dc3b5.json)
+
+[Extended Data](ext_articles/fa9dc3b5.ext.json)
 
 ---
 
@@ -1695,6 +1719,8 @@ Sabry had a bilateral meeting with Lavrov at the BRICS 2024 Foreign Ministerial 
 ...
 
 [Data](articles/650527d5.json)
+
+[Extended Data](ext_articles/650527d5.ext.json)
 
 ---
 
@@ -2311,27 +2337,5 @@ All three Members of Parliament were elected to Parliament through the Sri Lanka
 [Data](articles/3d6c2d66.json)
 
 [Extended Data](ext_articles/3d6c2d66.ext.json)
-
----
-
-### Ordinary Level - Attention to end the A / L exam
-
-*2024-06-11 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197630) · `si`
-
-Susil Premajayantha, the Minister of Education, announced that the Ordinary (O/L) and Advanced (A/L) level exams will conclude, paving the way for university admissions. He emphasized that students will complete their education by age 18, opening doors to higher education opportunities. This statement was made at a function during the GCE Advanced Level Examination.
-
-🟩
-
-Minister of Education Susil Premajayantha says that the O / L and A / L examination will be completed and the opportunity to enter university admission.
-
-The Minister pointed out that the students will be completed at age 18 and provide opportunities for higher education.
-
-Minister Susil Premajayantha made this observation at a function held at the GCE Advanced Level Examination.
-
-◼️
-
-[Data](articles/6de8408a.json)
-
-[Extended Data](ext_articles/6de8408a.ext.json)
 
 ---

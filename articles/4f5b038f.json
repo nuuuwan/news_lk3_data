@@ -1,0 +1,31 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking-news/Ransomware-menace-plaguing-Sri-Lankan-businesses-Kaspersky/108-284555",
+  "time_ut": 1718056320.0,
+  "original_lang": "en",
+  "original_title": "Ransomware menace plaguing Sri Lankan businesses: Kaspersky",
+  "original_body_lines": [
+    "A total of 2,650 ransomware incidents have been detected and blocked by Kaspersky\u2019s cybersecurity solutions for businesses in Sri Lanka from January to December 2023, it was revealed.",
+    "Experts from the global cybersecurity company insist on organisations, regardless of shape and size, to beef up their IT security posture as ransomware, especially the targeted type, continues to be a damaging menace for organisations in the region.",
+    "\u201cThe era of widespread mass attacks by encryptors on both individuals and businesses is gradually fading away. Instead, we are witnessing a shift towards organised groups that execute hacks involving data theft and encryption, commonly referred to as double extortion.",
+    "The rationale behind this evolution lies in the perpetrators\u2019 ability to operate with greater efficiency, thereby enabling them to demand significantly higher ransom sums,\u201d said\u00a0 Fedor Sinitsyn, Lead Malware Analyst at Kaspersky.",
+    "Last year, ransomware incidents in Sri Lanka included the compromise of 5,000 government-related emails as well as attacks on telecom servers.",
+    "\u201cIt\u2019s evident that the threat actors behind ransomware attacks target all sectors in Sri Lanka. The total number of attempts may be low, but organisations need to realise the real impact of each successful ransomware infection, both on the financial and reputation fronts.",
+    "It\u2019s imperative for businesses here to look into cybersecurity technologies that provide absolute anti-ransomware effectiveness in third-party exams. Because not all cybersecurity solutions are created equal,\u201d Yeo Siang Tiong, General Manager for Southeast Asia at Kaspersky.",
+    "Kaspersky Endpoint Security for Business, Kaspersky Small Office Security and Kaspersky Standard demonstrated complete protection against ransomware in 10 different real-life attack scenarios during regular Advanced Threat Protection assessments held by AV-TEST.",
+    "To combat ransomware and assist those affected, Kaspersky, alongside Europol, the Dutch National Police, and others has the No More Ransom initiative, launched in 2016. On the official website, participants provide decryption tools, guidelines, and instructions to report cybercrimes, irrespective of the location of the incident.",
+    "By the end of 2023, Kaspersky marked the seventh anniversary as a key contributor to the No More Ransom initiative. This period witnessed expanded access to Kaspersky\u2019s free decryption tools, in line with its commitment to combating ransomware. These tools, targeting 39 ransomware families, have been integral in assisting nearly 2 million victims globally, as reported by Europol, underscoring the profound impact of the No More Ransom initiative supported by Kaspersky.",
+    "Kaspersky proposes the following rules to protect businesses from ransomware attacks:",
+    "Do not expose remote desktop/management services (such as RDP, MSSQL, etc.) to public networks unless absolutely necessary and always use strong passwords, two-factor authentication and firewall rules for them.",
+    "Promptly install available patches for commercial VPN solutions providing access for remote employees and acting as gateways in your network.",
+    "Always keep software updated on all the devices you use to prevent ransomware from exploiting vulnerabilities.",
+    "Focus your defense strategy on detecting lateral movements and data exfiltration to the Internet. Pay special attention to the outgoing traffic to detect cybercriminals\u2019 connections.",
+    "Back up data regularly with special attention to offline backup strategies. Make sure you can quickly access it in an emergency when needed.",
+    "Avoid downloading and installing pirated software or software from unknown sources.",
+    "Assess and audit your supply chain and managed services\u2019 access to your environment.",
+    "Prepare an action plan for reputational risk of your data exposure in the unfortunate event of data theft.",
+    "Use solutions like Kaspersky Endpoint Detection and Response ExpertandKaspersky Managed Detection and Response service which help to identify and stop the attack on early stages, before attackers reach their final goals.",
+    "To protect the corporate environment, educate your employees. Dedicated training courses can help, such as the ones provided in the Kaspersky Automated Security Awareness Platform.",
+    "Use the latest Threat Intelligence information to stay aware of actual TTPs used by threat actors. The Kaspersky Threat Intelligence Portal is a single point of access for Kaspersky\u2019s TI, providing cyberattack data and insights gathered by our team for over 26 years."
+  ]
+}

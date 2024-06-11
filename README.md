@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 18:25:10**
+As of **2024-06-11 18:36:30**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,814 (100.0%) of 29,821 articles have been extended.
+29,821 (100.0%) of 29,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### මලාවි උප ජනාධිපති ගුවන් අනතුරකින් මරුට
+### Malawi Vice President of Malawi dies
 
 *2024-06-11 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197652) · `si`
 
-මලාවි රාජ්‍යයේ උප ජනාධිපති සවුලෝස් චිලීමා ගුවන් අනතුරකින් මියගොස් තිබේ.
+Vice President of Malawi, part of the Maha Sahani, perished in an airplane crash along with 10 others. The aircraft vanished from radar before being located after a 24-hour search.
 
-උප ජනාධිපතිවරයා ඇතුළු පුද්ගලයින් 10 දෙනෙකු අතුරුදන් වූ ගුවන්යානය කඩාවැටි තිබුණේ එරට චිකන්ගාවා නම් වනාන්තරයට ය.
+🟩
 
-අයහපත් කාලගුණය මැද පියාසර කළ ගුවන්යානය රේඩාර් පථයෙන් අතුරුදන් වූයේ ඊයේ උදෑසනය.
+Vice President of the Malawi, a Vice President of the Maha Sahani has died in an air accident.
 
-යානයේ සුන්බුන් හමුවූයේ පැය 24කට වැඩි කාලයක් පුරා ක්‍රියාත්මක කෙරුණු එම මෙහෙයුමේ ප්‍රතිඵලයක් ලෙසය.
+There were collapsed aircraft missing, including the Vice President and 10 people.
+
+The flight fleated aircraft disappeared from the radar.
+
+The wreckage of the plane was found as a result of the operation implemented for over 24 hours.
 
 ◼️
 
 [Data](articles/1d2200fb.json)
+
+[Extended Data](ext_articles/1d2200fb.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ Renowned past pupils of the Ananda College Colombo including Senior Professors J
 ◼️
 
 [Data](articles/663c4158.json)
+
+[Extended Data](ext_articles/663c4158.ext.json)
 
 ---
 
@@ -78,6 +86,8 @@ NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandras
 
 [Data](articles/df8ad4e5.json)
 
+[Extended Data](ext_articles/df8ad4e5.ext.json)
+
 ---
 
 ### CEB submits proposals on electricity tariff revision to PUCSL
@@ -94,6 +104,8 @@ The proposal for energy charges for the Domestic sector, Religious sector, Gener
 
 [Data](articles/00c898ce.json)
 
+[Extended Data](ext_articles/00c898ce.ext.json)
+
 ---
 
 ### SLC announces Women’s squad for West Indies series
@@ -107,6 +119,8 @@ The ODI series will be played in MRICS, Hambantota, on the 15th, 18th, and 21st 
 ◼️
 
 [Data](articles/74f45b38.json)
+
+[Extended Data](ext_articles/74f45b38.ext.json)
 
 ---
 
@@ -173,6 +187,8 @@ In addition to the marine warning, significant rainfall is expected at times in 
 ...
 
 [Data](articles/0a81d2d6.json)
+
+[Extended Data](ext_articles/0a81d2d6.ext.json)
 
 ---
 
@@ -1170,19 +1186,27 @@ Police further stated that when the body was discovered, they had also found a d
 
 ---
 
-### පිළිකා රෝගින් බේරා ගන්න ඇමෙරිකානු ආයතනයක් එයි
+### A US Institution is coming to save cancer
 
 *2024-06-11 12:57:56* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගින්-බේරා-ගන්න-ඇමෙරිකානු-ආයතනයක්-එයි/11-410140) · `si`
 
-මෙරට රජයේ රෝහල් වලින් ප්‍රතිකාර ලබන පිළිකා රෝගීන් හට ප්‍රතිකාර කිරීම සදහා භාවිතා කරණු ලබන අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගයක් සෞඛ්‍ය අමාත්‍යාංශය වෙත භාරදීම අද දින (11) පෙරවරුවේ එම අමාත්‍යාංශයේදී සිදු විය.
+A US institution, LDS Charities, has donated $225,000 worth of cancer drugs to Sri Lanka's Ministry of Health, marking the start of a partnership expected to provide over $1 million in essential cancer medications in 2024. This initiative aims to significantly enhance cancer treatment capabilities in the country.
 
-සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා වෙත ඇමරිකා එක්සත් ජනපදයේ LDS Latter – day saints charities ආයතනයේ ආසියානු  කලාපයේ සුබසාධන අධ්‍යක්ෂ - Mr. Mickey Lui මහතා විසින් එම ඖෂධ තොගය නිළ වශයෙන් භාරදෙන ලද අතර  එහි වටිනාකම ඇමරිකානු ඩොලර් 225,000/= කට අධිකය.
+🟩
 
-මෙම වර්ෂයේ (2024) පෙබරවාරි මසදී සෞඛ්‍ය අමාත්‍යංශය සහ LDS Latter – day saints charities (USA) ආයතනය අතර ඇතිකර ගත් අවබෝධතා  ගිවිසුමට අනූව මෙරටට ලැබුනු  පළමු ඖෂධ තොගය මෙයවේ. එම අවබෝධතා ගිවිසුමට අනුව අත්‍යවශ්‍ය පිළිකා ඖෂධ වර්ග 13 ක් මෙරටට ලැබෙන අතර  එහි වටිනාකම ඇමරිකානු ඩොලර් මිලියනයකට අධිකය. මෙරට  වර්ෂයක පිළිකා ප්‍රතිකාර සදහා එය  ප්‍රමාණවත් වනු ඇත.
+The Ministry of Health was handed over to the Ministry of Health today (11) this morning.
+
+Director of the Asian region of LDS latter - Day Saints Charites, USA. The stock of drugs was officially handed over by Mr. Mickey LUI and its value is US $ 225,000 / =.
+
+This year (2024) The first pharmaceutical pharmaceuticals received between the Ministry of Health in February and LDS latter - Day Saints (USA). According to the MoU, 13 essential cancer drugs will be received, and its value is over US $ 1 million. It will be enough for cancer treatment in Sri Lanka.
+
+Abiraterone Acetate -250 mg tablet, anastrozoo 1 mg tablebine 50mg tablet, 15mg / 50mg injection, 200mg vial 200mg vial 200mg vial 200mg injection, dacarc Ocetaxel 80mg Injection, Doctaxel 80mg / 4MG VIAL 80m injectionThe stock includes more pills, vaccine varieties, including irinotican 100mg / 5ml vial injection.
 
 ...
 
 [Data](articles/e07abd53.json)
+
+[Extended Data](ext_articles/e07abd53.ext.json)
 
 ---
 

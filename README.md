@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 11:34:28**
+As of **2024-06-11 11:54:09**
 
 ## Newspaper Stats
 
-*Scraped **29,744** Articles*
+*Scraped **29,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 279
 bbccomsinhala | 288
 newsfirstlk | 363
 islandlk | 1,613
-economynextcom | 1,697
+economynextcom | 1,701
 dailyftlk | 1,788
 adalk | 2,541
 adaderanalk | 3,363
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,715
-adaderanasinhalalk | 4,788
+adaderanasinhalalk | 4,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,727 (99.9%) of 29,744 articles have been extended.
+29,744 (100.0%) of 29,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### රුසියාවෙන් ශ්‍රී ලංකාවට පොරොන්දුවක්
+
+*2024-06-11 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197635) · `si`
+
+මේ දිනවල රුසියාවේ සංචාරයක යෙදෙන විදේශ අමාත්‍ය අලි සබ්රි මහතා එරට විදේශ අමාත්‍ය සර්යෙව් ලැව්රොෆ් මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+
+එම හමුවේදී දෙරටට වැදගත් වන කරුණු සම්බන්ධයෙන් විදේශ අමාත්‍යවරු දෙදෙනා අදහස් හුවමාරු කරගත් බව විදේශ කටයුතු අමාත්‍යංශය නිකුත්කළ නිවේදනයක් දැක්වෙයි.
+
+එසේම මේ වනවිට රුසියානු හමුදාව හා එක්වී සිටින ශ්‍රී ලාංකිකයින් මුහුණදී ඇති ගැටලු සම්බන්ධයෙන් ද මෙහිදී සබ්රි මහතා අදහස් දක්වා ඇති අතර ඔවුන් වෙනිවෙන් මැදිහත් වන ලෙස ඔහු රුසියානු විදේශ අමාත්‍යවරයාගෙන් ඉල්ලා තිබුණි.
+
+තවදුරටත් ශ්‍රී ලාංකිකයින් රුසියාවේ හමුදා සේවයට බඳවා නොගන්නා බවට රුසියානු විදේශ අමාත්‍යවරයා පොරොන්දු වී තිබේ.
+
+එළැඹෙන ජූනි 26-27 දිනවල ඉහළ පෙළේ ශ්‍රී ලාංකික නියෝජිතයින් පිරිසක් රුසියානු බලධාරීන් සමග මෙම ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b37a0943.json)
+
+---
+
+### Sri Lanka draft MOUs with bilateral lenders being exchanged, clarified: State Minister
+
+*2024-06-11 11:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-draft-mous-with-bilateral-lenders-being-exchanged-clarified-state-minister-167381/) · `en`
+
+ECONOMYNEXT  – Draft memoranda of understanding with Sri Lanka’s bilateral creditors are being exchanged and clarifications are being made with a view to wrapping up the agreements later this month, State Minister of Finance Shehan Semasinghe has said.
+
+“The drafts are exchanged with mainly the Official Creditor Committee,” Semasinghe told Sri Lanka’s Derana Tv in a talkshow.
+
+“When they are submitted, they exchange it with their membership. If there are comments they will also exchange. In terms of the ideas they express, we may need some clarifications.
+
+“Each member, after looking at it from their country’s perspective, will give their co-operation to help Sri Lanka.
+
+“In many instances we have come to the final stages of these MOUs. I do not think it will take a long time to get an official announcement. Still ideas are being exchanged.”
+
+The International Monetary Fund’s Executive Board is due to take up Sri Lanka’s review on June 12 after “sufficient progress” was made with restructuring.
+
+...
+
+[Data](articles/e7e245bb.json)
+
+---
 
 ### Court extends restraining order against Minister Wijeyadasa
 
@@ -42,43 +84,57 @@ The Colombo District Court has extended the restraining order issued against Min
 
 [Data](articles/5cebffcc.json)
 
+[Extended Data](ext_articles/5cebffcc.ext.json)
+
 ---
 
-### විජයදාසට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Enjoining order against Wijayaka is extended
 
 *2024-06-11 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197634) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම සහ ඔහු ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකයෙකු වශයෙන් කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+Colombo District Court extends injunction against Wijayaka, sentencing SLFP Chairman Wijayadasa Rajapakse. The order, sought by party treasurer Lasantha Alagiyawanna, remains in effect until the 25th of this month.
 
-එහිදී නඩුවක අදාළ විරෝධතා ඉදිරිපත් කිරීම සඳහා කල් ලබාදෙන ලෙස වගඋත්තරකාර පාර්ශවයේ අධිකරණයෙන් ඉල්ලා සිටියේය.
+🟩
 
-ඉන් අනතුරුව වාරණ නියෝගය මේ මස 25 වන දක්වා දීර්ඝ කරන ලෙස අධිකරණය විසින් නියම කරනු ලැබීය.
+The Colombo District Court sentenced Wijayadasa Rajapakse as the Chairman of the Sri Lanka Freedom Party and he would continue to extend the injunction order imposed as a member of the SLFP.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික මෙන්ම අමාත්‍යවරයකු වන ලසන්ත අලගියවන්න මහතා විසින් මෙම නඩුව ගොනුකර තිබුණි.
+The court was requested for the respondents to submit protests in a case.
+
+The court was ordered by the court to extend the injunction until the 25th of this month.
+
+The case had been filed by the Sri Lanka Freedom Party Treasurer and Minister Lasantha Alagiyawanna.
 
 ◼️
 
 [Data](articles/2ec0f489.json)
 
+[Extended Data](ext_articles/2ec0f489.ext.json)
+
 ---
 
-### මිතුරා සමග එක්ව බිරිඳව ඝාතනය කළ සැමියා
+### The husband who killed his wife together with friend
 
 *2024-06-11 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197633) · `si`
 
-තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබූ කාන්තාවගේ මළ සිරුරක් අද (11) අලුයම තලංගම, තලාහේන ප්‍රදේශයෙන් හමුවී තිබේ.
+A man and his friend allegedly murdered his wife with sharp objects during an argument in Talangama, Thalahena. The victim, a 31-year-old from Talangama, was also known to reside in Hingurakgoda. Police were notified after finding the body, which was bound at the time of discovery.
 
-පසුගිය 06 වනදා මරණකාරිය හා ඇයගේ ස්වාමි පුරුෂයා අතර ඇති වූ බහින්බස් වීමක් මත ස්වාමි පුරුෂයා සහ ඔහුගේ යහළුවා විසින් තියුණු ආයුධයකින් පහරදී එම කාන්තව ඝාතනය කර නිවස දොරගුළු දමා පිටව ගොස් ඇතැයි පොලීසිය පවසයි.
+🟩
 
-පසුව සැකකරුවන් දෙදෙනාම පැමිණ පොලීසියට මේ පිළිබඳව පැමිණි කර තිබේ.
+The body of a woman who had been assaulted by sharp weapons was found in Talangama, Thalahena area this morning (11).
 
-මියගොස් ඇත්තේ, තලංගම ප්‍රදේශයේ පදිංචිව සිටි 31 හැවිරිදි කාන්තාවක් වන අතර, 31 හැවිරිදි හිඟුරක්ගොඩ ප්‍රදේශයේ පදිංචි මරණකාරියගේ ස්වාමි පුරුෂයා සහ වයස අවුරුදු 44ක් වන ගලේවෙල ප්‍රදේශයේ පදිංචි අනෙක් සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The husband and his friend say that the husband and his friend have been assassinated with a sharp object, killing a sharp object on a heated argument between the death and her husband on the 6th.
 
-මළ සිරුර හමුවන අවස්ථාවේ දී එම නිවසේ සුනඛයෙක් ගැට ගසා සිට ඇති අතර, එම සතාට ද දින 5ක පමණ කාලයක් ආහාර හෝ නොලැබී ඇතැයි  පොලීසිය සඳහන් කරයි.
+The suspects then came and the police had come to the police.
+
+The deceased has been identified as a 31 year old resident of Talangama, the death of the victim and the other 10-year-old resident of the Hingurakgoda area.
+
+The accident had been tied up at the time when the body was found, police said.
 
 ◼️
 
 [Data](articles/8b1f81ed.json)
+
+[Extended Data](ext_articles/8b1f81ed.ext.json)
 
 ---
 
@@ -98,45 +154,61 @@ He further stated that the Cabinet, led by President Ranil Wickremesinghe, has d
 
 [Data](articles/22a4f053.json)
 
+[Extended Data](ext_articles/22a4f053.ext.json)
+
 ---
 
-### අමෙරිකානුවන් සිව් දෙනෙක්ට චීනයේදී පිහි ප්‍රහාරයක්
+### Four Americans a knives attack in China
 
 *2024-06-11 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197632) · `si`
 
-දැනුම හුවමාරු වැඩසටහනක් යටතේ චීනයේ සංචාරය කරමින් සිටි අමෙරිකානු ජාතික අධ්‍යාපන උපදේශකයින් සිව් දෙනෙක් ට පිහි ප්‍රහාරයක් එල්ලකර තිබේ.
+Four U.S. education advisors were attacked with knives in a public garden in China during a knowledge exchange trip. The assailant, armed with a sharp object, targeted them as they headed to a temple. No official statement has been released by Chinese authorities about the incident.
 
-චීනයේ ජිලින් පළාතේ මහජන උද්‍යානයකදී එම පිහි ඇනුම  සිදුකර ඇති බව වාර්තා වෙයි.
+🟩
 
-එම සිව් දෙනා පන්සලක් වෙත පා ගමනින් යමින් සිටියදී තියුණු ආයුධයකින් සන්නද්ධව පැමිණි පුද්ගලයෙක් විසින් එම ප්‍රහාරය එල්ල කර තිබුණි.
+Four American National Education advisers who were traveling on China under a knowledge transfer program has been attacked.
 
-මෙම ප්‍රහාරය සම්බන්ධයෙන් චීන බලධාරීන් කිසිදු ප්‍රකාශයක් නිකුත්කර නොමැති බව සඳහන් ය.
+It is reported that the knives have been carried out at a public garden in China.
+
+The four were attacked by a man armed with a sharp object while he was heading to a temple.
+
+The Chinese authorities have not issued any statement regarding the attack.
 
 ◼️
 
 [Data](articles/cae37c42.json)
 
+[Extended Data](ext_articles/cae37c42.ext.json)
+
 ---
 
-### තියුණු ආයුධයකින් පහරදී නිවසක් තුලදී කාන්තාවක්  ඝාතනය කරල
+### A woman was killed in a house with a sharp instrument
 
 *2024-06-11 10:37:43* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-නිවසක්-තුලදී-කාන්තාවක්--ඝාතනය-කරල/11-410136) · `si`
 
-එකම පවුලේ සහෝදරියන් දෙදෙනෙකු සිටින නිවසකට අද (11) අලුයම  මුහුණු ආවරණය කරගෙන කළු පාටට හුරු ඇඳුම් ඇඳ ඇතුළු වූ නාඳුනන පුද්ගලයන් දෙදෙනකු එක් සහෝදරියකට නිවසේ ඇඳ මතදි තියුණු ආයුධයකින් පහරදී  ඝාතනය කර ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි.
+A woman from the Sakuntalan community in Horana was killed in her home by two masked attackers wearing black clothes. The victim, aged 58, lived with her husband from Bangladesh and her younger sister. The attack occurred around 1:30 to 1:45 am, with the assailants targeting the women while they slept. The motive appears to be robbery, as the attackers stole gold items and cash. The police are investigating the incident, led by Senior Superintendent Chamil Ratnayake, with no leads yet on the identity of the perpetrators.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ හොරණ මීවනපලාන සිරිල්ටන් වත්ත පදිංචි  උඩ කන්දගේ රමණී සකුන්තලා 58 යන කාන්තාවයි.
+🟩
 
-ඝාතනයට ලක් වූ කාන්තාව බංගලාදේශ ජාතිකයෙකු  සමග විවාහ වී සිටින අතර ඔහු එරට පදිංචිව සිටින බවත් ඇය බාල සහෝදරිය සමඟ මෙම නිවසේ ගත කරන බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Two unidentified people who have entered black clothing in the same family have been attacked by two unidentified people in the house, covering the faces today (11) and killed two unidentified people with a sharp weapon in the house.
 
-ඉංගිරිය හල්වතුර ප්‍රදේශයේ පදිංචි එක්දරු මවක් වන බාල සහෝදරියද මීට සති තුනකට පමණ ඉහතදී මෙම නිවසට පැමිණි නවාතැන් ගෙන ඇති අතර ඊයේ (10) රාත්‍රී 7.30 ට පමණ ඔවුන් දෙදෙනා  දොරවල් වසා නින්දට ගොස් ඇති බව නැගණියගේ ප්‍රකාශයකින් අනාවරණය වූ බව පොලිසිය කියයි.
+The victim was the 58th Sakuntalan of the Mount Sakinuntra, Horana.
 
-ඝාතනයට ලක් වූ කාන්තාව නිවසේ කාමරයක  ඇයගේ නැගණිය මුළුතැන් ගෙයි ආසන්නයේ කාමරයක බිම නින්දට ගොස් තිබූ බව පොලිසිය කියයි.
+Police investigations have revealed that the murdered woman is married to a Bangladesh and he is living in this house with her younger sister.
 
-අලුයම 1.30 ත් 1.45 ත් අතර කාලයේදී නිවස තුළට ඇතුළු වී තිබූ සහසිකයන් දෙදෙනා
+The youngest sister, an younger sister, was a lodge that a mother of a resident of Ingiriya, had been staying home for about three weeks ago, and around 7.30 pm yesterday.
+
+The victim had gone to sleep in a room near her commanding room in her home room.
+
+The two of the two men who had entered the house between 1.30 and 1.45 am
+
+Police said the bread to shook the limbs of the younger sister and went to the room adjacent to her older sister and had fled the police.
 
 ...
 
 [Data](articles/552c994d.json)
+
+[Extended Data](ext_articles/552c994d.ext.json)
 
 ---
 
@@ -160,57 +232,103 @@ It is also reported that the collision has left both the bus and the van severel
 
 [Data](articles/383f48b4.json)
 
+[Extended Data](ext_articles/383f48b4.ext.json)
+
 ---
 
-### බත්තරමුල්ලේ ලැඟුම්හලක් තුළ පුද්ගලයෙකු මිය ගිහින්
+### A person has died in a lodge in Battaramulla
 
 *2024-06-11 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197631) · `si`
 
-අද (11) උදෑසන 9ට පමණ බත්තරමුල්ල ප්‍රදේශයේ ලැඟුම්හලක සේවය කළ අවුරුදු 50ක පමණ පිරිමි පුද්ගලයෙක් ගෙල වැලලාගෙන මියගොස් තිබේ.
+A 50-year-old man found dead in a Battaramulla lodge. He was alone, managing the place. Thalangama Police investigating.
 
-මේ වනවිට අදාළ මරණය පිළිබඳ වැඩිදුර විමර්ශන තලංගම පොලීසිය විසින් සිදුකරයි.
+🟩
 
-එම පුද්ගලයා තනිව එම ලැඟුම්හලේ සිට ඇති බවත් ඔහු එම ස්ථානය බලාගත් පුද්ගලයා බවත් පැවසේ.
+Around 50 years, a 50-year-old man worked with a 50-year-old man who served in a location of a lodge in Battaramulla today (11).
+
+Thalangama Police are conducting further investigations into the death.
+
+It is said that the man was alone in the lorry and he was looking after the place.
 
 ◼️
 
 [Data](articles/977f8fac.json)
 
+[Extended Data](ext_articles/977f8fac.ext.json)
+
 ---
 
-### බස් රථයක් සහ වෑන් රථයක් මුහුණට මුහුණලා ගැටිමෙන් දෙදෙනෙකුට බරපතලයි
+### Bus and a van face face to face face
 
 *2024-06-11 10:18:08* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයක්-සහ-වෑන්-රථයක්-මුහුණට-මුහුණලා-ගැටිමෙන්-දෙදෙනෙකුට-බරපතලයි/11-410135) · `si`
 
-පෞද්ගලික බස් රථයක් සහ ඩොල්ෆින් වර්ගයේ වෑන් රථයක් මුහුණට මුහුණලා ගැටිමෙන් අද උදැසන සිදු වු රිය අනතුරකින් වෑන් රථයේ ගමන් ගත් රියදුරා සහ තවත් එක් අයෙක් බරපතල  තුවාල ලබා ගිනිගත්හේන ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් අනතුරුව තුවාලකරුවන් දෙදෙනාගේ තත්ත්වය බරපතල නිසා තුවාලකරුවන් නාවලපිටිය දිස්ත්‍රික් මහ රෝහල වෙත මාරු කර යැවු බව ගිනිගත්හේන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+An accident between a private bus and a van resulted in injuries. The incident happened on the Dambagahena Diyagala road around 7:30 pm. Both vehicles were traveling in opposite directions from Kandy to Hatton. The victims were taken to the Ginigathena Divisional Hospital. The police are investigating the cause of the crash.
 
-මෙම අනතුර සිදු වි ඇත්තේ අද (11) දින උදැසන 7.30 ට පමණ හැටන් කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන දියගල ප්‍රදේශයේදිය.
+🟩
 
-මහනුවර සිට හැටන් දක්වා ධාවනය වු පෞද්ගලික බස් රථයක් සහ හැටන් සිට කොළඹ දක්වා ධාවනය වු වෑන් රථයකුයි මෙසේ අනතුරට පත් වි ඇත්තේ.
+A private bus and a dolphin type van and another injured in an accident in an accident and another was admitted to the Ginigathena Divisional Hospital.The OIC of Ginigathena Police Chief Police Inspector Viraj Vithanage said.
 
-අධික වේගයෙන් ධාවනය වි ඇති වෑන් රථය ලිස්සාගොස් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු පෞද්ගලික බස් රථයේ ගැටි මෙම අනතුර සිදු වි ඇති බවත්, අනතුරෙන් වෑන් රථය තුල රියදුරා සහ ඉදිරිපස අසුනේ සිටි තවත් අයෙකු සිර වි සිටි බවත්, බස් රථයේ ගමන් ගත් මගින් විසින් දැඩි පරිශ්‍රමයක් දරා වෑන් රථයේ දොර විවෘත කර තුවාලකරුවන් රෝහල වෙත යොමු කර ඇත.
+The accident occurred at the Dambagahena Diyagala road around 7.30 pm today (11).
 
-...
+A private bus traveling from Kandy to Hatton and a van traveling from Hatton and from Hatton has been accidentally damaged.
+
+The accident has occurred in the opposite direction of Lizz and the driver and in the front seat, which was traced by the driver and the front seat van by vansThe injured have been opened and directed to the hospital.
+
+The Ginigathena police are also requested to drive to the driver of the road in the accident.
+
+◼️
 
 [Data](articles/a53959f4.json)
 
+[Extended Data](ext_articles/a53959f4.ext.json)
+
 ---
 
-### வைரஸ் காய்ச்சல்கள் பரவும் அபாயம் அதிகரிப்பு
+### Increase the risk of spreading viral fever
 
 *2024-06-11 10:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைரஸ்-காய்ச்சல்கள்-பரவும்-அபாயம்-அதிகரிப்பு/175-338746) · `ta`
 
-வெள்ள நீர் வடிந்து வருவதால், ஈக்களின் பெருக்கம், வயிற்றுப்போக்கு மற்றும் வைரஸ் காய்ச்சல்கள் பரவும் அபாயம் அதிகரித்துள்ளதாக, சுகாதாரத்துறை அதிகாரிகள் தெரிவித்துள்ளனர்.
+Floodwaters increase the risk of spreading flies, diarrhea, and viral fever by creating a fertile ground for fly eggs to mature rapidly. These flies, drawn to feces and contaminated surfaces, spread pathogens like bacteria and viruses, exacerbating health crises.
 
-“வெள்ளம் சூழ்ந்த பகுதிகளில் காணப்படும் சாதகமான சூழ்நிலை ஈ முட்டைகள் முதிர்ச்சியடைவதை துரிதப்படுத்துவதுடன், வெள்ள நீர் குறையும்போது ஈக்கள் எண்ணிக்கையில் விரைவான அதிகரிப்புக்கு வழிவகுக்கிறது.
+🟩
 
-புதிதாக குஞ்சு பொரித்த இந்த ஈக்கள், உணவு ஆதாரங்களைத் தேடி, அடிக்கடி மலம், குப்பைகள் மற்றும் அசுத்தமான பரப்புகளை நோக்கி ஈர்த்து, சுகாதார நெருக்கடியை மேலும் அதிகப்படுத்துகின்றன.” என, வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Health officials said that due to floodwaters, the risk of spreading flies, diarrhea and viral fever has increased.
 
-"ஈக்களின் எழுச்சியின் விளைவுகள் பயங்கரமானவை என்பதுடன், வயிற்றுப்போக்கு நோய்கள் மற்றும் வைரஸ் காய்ச்சலுக்கு காரணமான பாக்டீரியா மற்றும் வைரஸ்கள் உள்ளிட்ட நோய்க்கிருமிகளை ஈக்கள் காவி கொண்டு வருகின்றன" என்று அவர் சுட்டிக்காட்டினார்.
+“The favorable environment in flooding areas accelerates the maturity of the eggs and leads to a rapid increase in the number of flies as flooding decreases.
+
+These freshly fried flies are looking for food sources, often attracted to feces, debris and contaminated surfaces, and further enhance the health crisis. ”Doctor Deepal Perera said.
+
+"The effects of the rise of the flies are terrible and the flies bring the pathogens, including bacteria and viruses that cause diarrhea and viral fever," he pointed out.
 
 ◼️
 
 [Data](articles/fc0e178c.json)
+
+[Extended Data](ext_articles/fc0e178c.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 303.25/75 to US dollar
+
+*2024-06-11 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-303-25-75-to-us-dollar-167376/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.25/75 to the US dollar on Tuesday in the first half-hour of trading, while bond yields were significantly up, and stocks opened 0.39 percent higher, dealers said.
+
+In equities, Colombo’s All Share Price Index gained 47.95 points to 12,429.44 and the S&P SL20 of more liquid stocks was up 0.54 percent or 19.85 points to 3,703.10, in the first-half hour of trade.
+
+In the secondary market, yields were significantly up in the run-up to the auction, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.05/20 percent, up from 9.95/10.10 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.50/70 percent up from 10.45/65 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.05/15 percent, up from 10.95/11.10 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.85/12.00 percent up from 11.70/85 percent. (Colombo/Jun11/2024)
+
+◼️
+
+[Data](articles/014316d9.json)
 
 ---
 
@@ -227,6 +345,8 @@ Regarding household computer ownership, at least one computer is available in 20
 ◼️
 
 [Data](articles/10d8367f.json)
+
+[Extended Data](ext_articles/10d8367f.ext.json)
 
 ---
 
@@ -249,6 +369,8 @@ It is anticipated that a final decision regarding the extension of Attorney Gene
 ◼️
 
 [Data](articles/ad71ae56.json)
+
+[Extended Data](ext_articles/ad71ae56.ext.json)
 
 ---
 
@@ -348,15 +470,21 @@ The Ginigathena police call on the drivers to take care of traffic in the area, 
 
 ---
 
-### අලුත් නිති හදලා හරි හොරකම් කළ ධනය නැවත අයකර ගන්නවාමයි
+### Recovery of New Frequently Stolen Wealth
 
 *2024-06-11 09:27:40* · [`adalk`](https://www.ada.lk/opinion/අලුත්-නිති-හදලා-හරි-හොරකම්-කළ-ධනය-නැවත-අයකර-ගන්නවාමයි/2-410131) · `si`
 
-"මන්ත්‍රීවරුන්ට විශ්‍රාම වැටුප අවශ්‍යය නෑ, අපි ඉතාම වගකීමෙන් කියනවා අපි ඒවා නීතියක් හැටියටම අහෝසී කර ගන්නවා.පළමුවැනි ආදර්ශය දෙන්නේ අපි.මම වගකීමෙන් කියනවා අපේ ආණ්ඩුවේ වැඩ භාර ගන්න දවසේ ඉඳලාම, වැඩ භාර ගන්න විදිහේ ඉඳලාම ආදර්ශ දීලා, නාස්තිය දූෂණය නතර කරලා පෙන්වනවා.මුදල් විශුද්ධීකරණ පනත තියෙනවා, අල්ලස් හෝ දූෂණ පනත තියෙනවා, පොදු දේපළ අපරාධ පනත තියෙනවා, තව ගොඩක් නීතී තියෙනවා.නීතී නැත්නම් නීතී හදලා හරි මේ මහජනතාවගෙන් වංචා කරපු හොරකම් කරපු ධනය නැවත අත්පත් කර ගන්නවාම තමයි.ඒකේ දෙගිඩියාවක් තියා ගන්න එපා, ඒක නොකලොත් අපෙන් වැඩක් නෑ" යැයි හිටපු කෝප් කමිටු සභාපති, ජාතික ජන බලවේගයේ ජාතික විධායක සභික, ආර්ථික කවුන්සිල සාමාජික සුනිල් හඳුන්නෙත්ති මහතා පැවසීය.
+Sunil Handunnetti, former COPE Chairman, criticized the government for corruption and mismanagement, highlighting issues like debt, poor investments, and lack of action against corruption. He emphasized the need for accountability, efficient use of funds, and tackling corruption to improve the economy and public services.
+
+🟩
+
+"Members do not need pension, we say that we are responsible for the release of the government and to assume the work of work.There is a bribery or corruption, the Bribery or Corruption Act, that has not been ambiguous if you don't have to re-overlay, but will not work."Former COPE Chairman, National Executive Member of the National Power and Economic Council Sunil Handunnetti said.
 
 ...
 
 [Data](articles/8688ae17.json)
+
+[Extended Data](ext_articles/8688ae17.ext.json)
 
 ---
 
@@ -379,6 +507,8 @@ In a speech late on Monday, President Lazarus Chakwera said a search and rescue 
 ...
 
 [Data](articles/6c69af07.json)
+
+[Extended Data](ext_articles/6c69af07.ext.json)
 
 ---
 
@@ -529,6 +659,26 @@ In a speech late on Monday, President Lazarus Chakwera said a search and rescue 
 [Data](articles/fbbeeccc.json)
 
 [Extended Data](ext_articles/fbbeeccc.ext.json)
+
+---
+
+### Sri Lanka’s CPC makes Rs120bn profit in 2023 after Rs884bn tax-payer injection
+
+*2024-06-11 08:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-makes-rs120bn-profit-in-2023-after-rs884bn-tax-payer-injection-167299/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has made profits of 120.3 billion rupees, helped by a 20 billion forex gain and a lower interest bill, compared to 617 billion rupees when the currency collapsed in the previous year.
+
+In 2022, CPC posted a loss of 617.5 billion rupees, with 529.4 billion rupees coming the rupee was busted through un-anchored policy operated by macroeconomists to enforce rate cuts and a failed attempt to float the currency with a surrender rule in place.
+
+A surrender rule involves pegging (a strong side convertibility undertaking).
+
+The CPC had accumulated large volumes of debt by converting suppliers import bills taken during times of forex shortages triggered by central bank money printing to suppress rates for flexible inflation targeting/potential output targeting.
+
+The CPC has made losses and run up large debts including in 2018, when fuel was market prices as the rupee collapsed when money was printed for flexible inflation targeting.
+
+...
+
+[Data](articles/9fb471e7.json)
 
 ---
 
@@ -842,27 +992,33 @@ Jayasundara mentioned that the Consumer Affairs Authority (CAA) conducted raids 
 
 ---
 
-### වතු කම්කරුවන් ගැන කම්කරු විනිශ්චය සභාව දුන් නිර්දේශ ක්‍රියාත්මක වෙයි ද ?
+### Will the Labor Tribunal recommendations on plantation workers?
 
 *2024-06-11 03:58:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj55nynr998o) · `si`
 
-වතු කම්කරුවන් ගැන කම්කරු විනිශ්චය සභාව දුන් නිර්දේශ ක්‍රියාත්මක වෙයි ද ?
+The Labor Tribunal in Sri Lanka has issued recommendations aimed at improving the conditions of plantation workers, addressing issues such as low wages, inadequate facilities, and safety concerns. The tribunal, led by retired Judge Shirani Thilakawardena and others, highlighted the plight of workers who have faced challenges for over two centuries. Recommendations include increasing the daily wage, establishing a committee for better worker representation, protecting collective agreements, and ensuring minimum standards in tea and rubber plantations. The tribunal also emphasized the need for safety equipment and measures to prevent chemical exposure.
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'' මේ විනිශ්චයකාර මණ්ඩලයේ අපි සියලු දෙනා ගොඩක් දේ ඉගෙන ගත්තා. ඊට වඩා අපි කම්පනයට පත්වුණා''", ධාවන කාලය 3,0603:06වීඩියෝ ශීර්ෂ වැකිය, '' මේ විනිශ්චයකාර මණ්ඩලයේ අපි සියලු දෙනා ගොඩක් දේ ඉගෙන ගත්තා. ඊට වඩා අපි කම්පනයට පත්වුණා''
+🟩
 
-මෙරට වතු කම්කරුවන් මුහුණ දෙන ගැටළු සම්බන්ධයෙන් කැඳවූ කම්කරු විනිශ්චය සභාව ( ජුනි 08 වෙනිදා) සිය නිර්දේශ ඉදිරිපත් කරන ලදී.
+Will the Labor Tribunal recommendations on plantation workers?
 
-විශ්‍රාමික විනිසුරුවරුන් වන ශිරාණි තිලකවර්ධන, ඉන්දියානු විනිසුරු A.P. ෂා සහ නේපාල විනිසුරු P.K. ඔජාහ් මෙම කම්කරු සභාවේ විනිසුරුවරු ලෙස කටයුතු කළහ.
+There is nothing here. Play video, "" We have all learned a lot of this judiciary. "", Running Time 3,0603: 06 Video Head, "We've all learned a lot of these judges. We were shocked to ''
 
-වසර දෙසීයකට පසු වතු කම්කරු ප්‍රජාව සඳහා පළමුවරට තැපැල් ලිපිනයක්තේ ගසට බැඳුන වතු කම්කරුවන්ගේ කතාව
+The Labor Tribunal (Labor Tribunal called on the issues faced by plantation workers in Sri Lanka presented their recommendations.
 
-බීබීසී සිංහල සේවයට අදහස් දක්වමින් ලංකා කම්කරු රතුකොඩි සංගමයේ මහ ලේකම් සිවසුබ්‍රමනියම් ආනන්දී දෙවේන්ද්‍ර කුමාරී කියා සිටියේ මෙම කම්කරු විනිශ්චය සභාව සිය සංගමය විසින් සංවිධාන කළ බව ය.
+Retired Judge Shirani Thilakawardena, Indian Referendest A.P. Sha and Nepali referee P.K. Oja acted as the judge of the labor.
 
-එමෙන්ම ඊට සහභාගි වන ලෙස කම්කරු අමාත්‍යාංශයටත්, කම්කරු දෙපාර්තමේන්තුවටත් නිල වශයෙන් ආරාධනා කළ බව ඇය පැවසුවාය.
+The story of plantation workers that bound the tree of a mailing address for the estate workers' community for two hundred years ago
+
+Commenting to the BBC Sinhala Service, the General Secretary of the Labor Red Card Association, Schangendra Kummy stated that the labor Tribunal was organized by his union.
+
+She said that he was officially invited to the Ministry of Labor and the Department of Labor.
 
 ...
 
 [Data](articles/29a4e24d.json)
+
+[Extended Data](ext_articles/29a4e24d.ext.json)
 
 ---
 
@@ -1409,6 +1565,8 @@ An emphatic rejection of Prime Minister Narendra Modi’s creeping authoritarian
 ...
 
 [Data](articles/0d0d1fc8.json)
+
+[Extended Data](ext_articles/0d0d1fc8.ext.json)
 
 ---
 
@@ -2071,81 +2229,5 @@ Lord Buddha, elaborating on the notion of sorrow (dukkha) in the first sermon he
 [Data](articles/099bc8a2.json)
 
 [Extended Data](ext_articles/099bc8a2.ext.json)
-
----
-
-### Fly Highdream Big
-
-*2024-06-10 20:15:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fly-highdream-big/) · `en`
-
-We are living in an era under a High Level focus by UN authorities on the creation of a global level road map, with an open data platform, to commit all nations towards a Sustainable Development Goal. This concept emerged with the Heads of State and High Representatives of Governments meeting at the United Nations Headquarters in New York from 25-27 September 2015 to celebrate its seventieth anniversary, deciding on a new action program for a global Sustainable Development Goal (SDG).
-
-The declaration adopted at this forum incorporated inter-alia the following;
-
-...
-
-[Data](articles/d61e5ef4.json)
-
-[Extended Data](ext_articles/d61e5ef4.ext.json)
-
----
-
-### Sri Lanka’s struggle with election phobia
-
-*2024-06-10 20:13:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-struggle-with-election-phobia/14-762881) · `en`
-
-The call to postpone elections is an indirect acceptance by President Wickremesinghe of his inability to obtain a popular mandate, no matter what his economy-fixing mantra is
-
-www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat out of the bag. As political tensions increase and the demand for elections spike, the general secretary of the United National Party (UNP)—a party that has recorded successive defeats and now stands decimated under Wickremesinghe’s leadership—has proposed the postponement of both presidential and parliamentary elections by two years through a referendum, effectively permitting Wickremesinghe to continue as president to “implement economic reforms”.
-
-...
-
-[Data](articles/98ae5772.json)
-
-[Extended Data](ext_articles/98ae5772.ext.json)
-
----
-
-### Sri Lanka’s struggle with election phobia
-
-*2024-06-10 20:13:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-struggle-with-election-phobia/4-762881) · `en`
-
-The call to postpone elections is an indirect acceptance by President Wickremesinghe of his inability to obtain a popular mandate, no matter what his economy-fixing mantra is
-
-www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat out of the bag. As political tensions increase and the demand for elections spike, the general secretary of the United National Party (UNP)—a party that has recorded successive defeats and now stands decimated under Wickremesinghe’s leadership—has proposed the postponement of both presidential and parliamentary elections by two years through a referendum, effectively permitting Wickremesinghe to continue as president to “implement economic reforms”.
-
-...
-
-[Data](articles/d551234e.json)
-
----
-
-### South Africa - Bangladesh D Group Tournament Today
-
-*2024-06-10 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185787) · `ta`
-
-In the T20 World Cup, South Africa faces Bangladesh at the Nasav Kandri International Stadium. South Africa, victorious in the first two matches, aims to extend its lead. Bangladesh seeks to capitalize on its talents to advance towards the Super 8 round. The match holds significance as it could determine which team qualifies for the Super 8. Historically, South Africa leads with eight victories over Bangladesh in international T20s, including three in the T20 World Cup. The teams' rosters feature notable players like Quinton de Kock for South Africa and Shakib Al Hasan for Bangladesh, setting the stage for an exciting encounter.
-
-🟩
-
-The T20 World Cup Cricket Tournament for South Africa and Bangladesh will be held at the Nasav Kandri International Stadium on Monday.
-
-South Africa, who won the first two matches at the stadium, is expected to get a favorable result.
-
-However, Bangladesh will showcase the talent in today's match and challenge South Africa in order to increase the chance of the Super 8 round.
-
-If South Africa wins this match, the first team will qualify for the Super 8 round.
-
-South Africa has won the 8 International T20 cricket matches for the two teams so far and South Africa will try to increase it to 9 today.
-
-South Africa has won three occasions against Bangladesh in the T20 World Cup.
-
-South Africa: Quinton de Kock, Reza Hendrix, Aiden Margram (Chairman), Triston Stubs, Henry Clazan, David Miller, Maco Jenson, Keshav Maharaj, Kiso Rabada, Odnil Badman
-
-...
-
-[Data](articles/29929a1b.json)
-
-[Extended Data](ext_articles/29929a1b.ext.json)
 
 ---

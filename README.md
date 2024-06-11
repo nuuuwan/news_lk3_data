@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 02:58:17**
+As of **2024-06-12 01:34:18**
 
 ## Newspaper Stats
 
-*Scraped **29,882** Articles*
+*Scraped **29,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,717
-dailyftlk | 1,795
+dailyftlk | 1,794
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
@@ -26,23 +26,11 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,881 (100.0%) of 29,882 articles have been extended.
+29,877 (100.0%) of 29,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
-
-### Navigating troubled waters: Indo-Lanka fishing dispute and quest for sustainable solution
-
-*2024-06-12 01:21:52* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-troubled-waters-Indo-Lanka-fishing-dispute-and-quest-for-sustainable-solution/4-762952) · `en`
-
-The maritime dispute between India and Sri Lanka over illegal fishing by Tamil Nadu fishermen in Sri Lankan waters in the Palk Bay, the Gulf of Mannar, and the Palk Strait has reached a critical juncture. Recent incidents of Sri Lankan authorities detaining Indian fishermen for allegedly crossing the International Maritime Boundary Line (IMBL) have reignited longstanding tensions. This article will attempt to delve into the heart of the conflict simmering for many decades, explore the environmental and socio-economic impacts, and highlight the need for an urgent resolution that respects the livelihoods and traditions of Sri Lankan fishing communities in the northern, north-western, and north-eastern parts of the island while ensuring marine conservation.
-
-...
-
-[Data](articles/590e7004.json)
-
----
 
 ### Could you believe crabs killing giant guitarfish?
 
@@ -55,8 +43,6 @@ The Rhinopristiformes exhibit slow growth, late maturity, and low fecundity, lik
 ...
 
 [Data](articles/201b8a66.json)
-
-[Extended Data](ext_articles/201b8a66.ext.json)
 
 ---
 
@@ -71,8 +57,6 @@ Mahadanamuththa and his modern golayas live in a fictional land called ‘Sasiri
 ...
 
 [Data](articles/53055c73.json)
-
-[Extended Data](ext_articles/53055c73.ext.json)
 
 ---
 
@@ -92,8 +76,6 @@ Kalpage brings extensive experience and a proven track record in the technology 
 
 [Data](articles/975871d6.json)
 
-[Extended Data](ext_articles/975871d6.ext.json)
-
 ---
 
 ### FPA Sri Lanka’s SEAP Project wins again at NPME 2024
@@ -107,8 +89,6 @@ In 2015, IPPF launched the Social Enterprise Acceleration Program (SEAP) to empo
 ...
 
 [Data](articles/03a03fbf.json)
-
-[Extended Data](ext_articles/03a03fbf.ext.json)
 
 ---
 
@@ -2237,5 +2217,27 @@ The green electricity generation has been produced by the Green Electricity gene
 [Data](articles/7638844c.json)
 
 [Extended Data](ext_articles/7638844c.ext.json)
+
+---
+
+### Sri Lanka drafts patient safety and well-being charter
+
+*2024-06-11 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafts-patient-safety-and-well-being-charter-167421/) · `en`
+
+ECONOMYNEXT – Sri Lanka has prepared a Charter to ensure patient safety and well-being, compiled by a panel of experts on the advice and guidance of the World Health Organization.
+
+It focuses on institutional standards, stakeholder roles, and alignment with existing strategies to enhance patient safety nationwide, the WHO in Sri Lanka said.
+
+“Sri Lanka is leading the way in initiating the process for a legal framework specifically addressing Patients’ Safety and Wellbeing in a Charter that captures the rights of the patients, and the responsibilities of the health care workers, the government, and the patients,” WHO Sri Lanka said on X (twitter).
+
+If implemented, it would be the first such to ensure the safety and well-being of patients in the South Asian region, Sri Lanka’s parliament said in a statement.
+
+It was prepared by a sub-committee of the Parliamentary sectoral oversight committee on health in consultation with experts.
+
+...
+
+[Data](articles/fa9dc3b5.json)
+
+[Extended Data](ext_articles/fa9dc3b5.ext.json)
 
 ---

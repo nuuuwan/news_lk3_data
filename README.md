@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 15:34:29**
+As of **2024-06-11 15:53:29**
 
 ## Newspaper Stats
 
-*Scraped **29,781** Articles*
+*Scraped **29,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
 adalk | 2,550
-adaderanalk | 3,367
+adaderanalk | 3,368
 tamilmirrorlk | 3,490
 virakesarilk | 4,557
 dailymirrorlk | 4,719
@@ -26,11 +26,35 @@ adaderanasinhalalk | 4,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,781 (100.0%) of 29,781 articles have been extended.
+29,781 (100.0%) of 29,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### High-risk dengue zones increase in Sri Lanka after heavy rainfall
+
+*2024-06-11 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99803/high-risk-dengue-zones-increase-in-sri-lanka-after-heavy-rainfall-) · `en`
+
+The National Dengue Control Unit (NDCU) says that the number of high-risk dengue zones have increased due to the prevailing rainy weather conditions in the country.
+
+Furthermore, the NDCU says that due to the existing weather conditions, there is a rapid increase in dengue cases reported, with 971 cases recorded in the first 11 days of this month.
+
+Meanwhile, a total of 25,891 cases have been reported so far this year.
+
+During this period, 57 dengue deaths were reported across the country, according to the NDCU.
+
+Accordingly, high-risk dengue zones in the island have also increased up to 14.
+
+The highest number of dengue cases has been reported from the Colombo District with 5,624 cases, followed by Jaffna District with 3,939 dengue cases.
+
+Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha District, 1,986 cases from Kandy District, 1,441 from Ratnapura District and 1,372 from Kalutara District, the NDCU said.
+
+◼️
+
+[Data](articles/546c9018.json)
+
+---
 
 ### Teachers to launch islandwide strike tomorrow
 
@@ -2339,25 +2363,5 @@ Both rulings by the Supreme Court to quash the capital punishment given to Dumin
 [Data](articles/08404a9c.json)
 
 [Extended Data](ext_articles/08404a9c.ext.json)
-
----
-
-### Sri Lanka is now well on the way to harnessing nuclear energy
-
-*2024-06-11 00:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-is-now-well-on-the-way-to-harnessing-nuclear-energy/172-284556) · `en`
-
-Benefits outweigh drawbacks and external finance will not be a problem
-
-Having taken a firm decision to include nuclear energy in its mix of energy sources, Sri Lanka is now well on the way to harnessing it. Literature on the subject shows that the benefits of going for nuclear energy outweigh the drawbacks, and external finance will not be a problem.
-
-The Sri Lanka Atomic Energy Board (SLAEB) Chairman Prof. Rexy Denzil Rosa has said that Sri Lanka has identified nuclear energy as a clean and green energy source to fulfil future electricity demand. In March 2024, the Sri Lankan Cabinet committed the country to a nuclear power programme.
-
-The International Atomic Energy Agency (IAEA) says that Sri Lanka is pursuing nuclear power to increase its low carbon power production, tackle climate change and increase energy security.
-
-...
-
-[Data](articles/0edda735.json)
-
-[Extended Data](ext_articles/0edda735.ext.json)
 
 ---

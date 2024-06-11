@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 13:53:57**
+As of **2024-06-11 14:05:59**
 
 ## Newspaper Stats
 
-*Scraped **29,772** Articles*
+*Scraped **29,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,49 @@ adaderanalk | 3,366
 tamilmirrorlk | 3,489
 virakesarilk | 4,557
 dailymirrorlk | 4,717
-adaderanasinhalalk | 4,793
+adaderanasinhalalk | 4,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,767 (100.0%) of 29,772 articles have been extended.
+29,772 (100.0%) of 29,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### අසරණ පවුලක් තවත් අසරණ වූ මොහොතක්
+### දුම්රියෙන් ඇවිත් බයිසිකලයෙන් යන කසුන්
+
+*2024-06-11 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197643) · `si`
+
+දුම්රියෙන් පැමිණ අලුත්ගම සංචාරක කලාපය සහ වෙනත් ප්‍රදේශවල පාපැදි සහ ගෑස් සිලින්ඩර සොරකම් කළ "මුරවත්ත කසුන් "නැමැති පුද්ගලයාව අලුත්ගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+අලුත්ගම, මොරගල්ල, කළුවාමෝදර ප්‍රදේශවල සංචාරකයින්ට කුලී පදනම මත පාපැදි ලබාදෙන සහ පයාගල, කලමුල්ල ප්‍රදේශවල සහ අවට ප්‍රදේශවල දැනට වසර කිහිපයකට පෙර නිවෙස්වල නවතා ඇති පාපැදි සහ ගෑස් සිලින්ඩර සහ තවත් උපකරණ සොරකම් සිදුවන බවට අලුත්ගම පොලීසියේ දූෂණ මර්දන අංශයට ලද පැමිණිලිමත ඊයේ උදෑසන අලුත්ගම කළුවාමෝදර පාලම ආසන්නයේදී මාර්ගයේ ගමන් ගත් සැක සහිත පුද්ගලයෙකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී හෙරෙයින් ග්‍රෑම් හතරකට ආසන්න ප්‍රමාණයක් සොයාගෙන තිබුණි.
+
+ඉන්පසුව ඔහුගෙන් සිදුකරන ලද දීර්ඝ ප්‍රශ්න කිරීම්වලින් අනතුරුව මෙම සොරකමට අදාළ සියලු තොරතුරු අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/ecd6e677.json)
+
+---
+
+### A moments of an helpless family
 
 *2024-06-11 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197642) · `si`
 
-උපතින්ම දෙබිඩි දියණියන් දෙ‍දෙනෙකු නඩත්තු කිරීමට හා ඔවුන් දෙදෙනා ශරීරයෙන් වෙන්කිරීමට පිහිටක් ඉල්ලා සිටින මා පිය යුවළක් ගැන තොරතුරු අපට අරණායක ප්‍රදේශයෙන් වාර්තා වුණි.
+From the Aranayaka region, we faced difficulties due to my father's birth and our need for two daughters' reservation benefits.
+
+🟩
+
+We were reported from the Aranayaka area for a couple of my father, who is born and demanding a reservation of two daughters.
 
 ◼️
 
 [Data](articles/56612f33.json)
+
+[Extended Data](ext_articles/56612f33.ext.json)
 
 ---
 
@@ -60,23 +82,31 @@ The schools will be closed to provide accommodation to police personnel on duty 
 
 [Data](articles/8213a28f.json)
 
+[Extended Data](ext_articles/8213a28f.ext.json)
+
 ---
 
-### கணினி கல்வியறிவு 39% அதிகரிப்பு
+### System literacy is a 39% increase
 
 *2024-06-11 13:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணினி-கல்வியறிவு-39-அதிகரிப்பு/175-338757) · `ta`
 
-இலங்கையில் கணினி கல்வியறிவு 2023 ஆம் ஆண்டில் 39% ஆக அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்  தெரிவித்துள்ளது.
+Computer literacy in Sri Lanka rose to 39% in 2023, with a digital literacy rate of 63.5%. Ownership of computers is at 20.2%, higher in urban areas (34%) than rural/plantation areas (18.1%).
 
-கணினி மற்றும் டிஜிட்டல் கல்வியறிவு குறித்த அதன் சமீபத்திய வெளியீட்டில், நாட்டின் கணினி எழுத்தறிவு விகிதம் 39.0% ஆகவும், டிஜிட்டல் எழுத்தறிவு விகிதம் 63.5% ஆகவும் உள்ளது என்று மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்   தெரிவித்துள்ளது.
+🟩
 
-கூடுதலாக, 20.2% குடும்பங்கள் டெஸ்க்டாப் அல்லது லேப்டாப் கம்ப்யூட்டரை வைத்திருக்கின்றன, நகர்ப்புறத் துறையானது கணினி மற்றும் டிஜிட்டல் திறன் இரண்டிலும் அதிக கல்வியறிவை வெளிப்படுத்துகிறது.
+The Department of Census and Statistics said that Computer literacy in Sri Lanka increased to 39% by 2023.
 
-வீட்டுக் கணினி உரிமையைப் பொறுத்தவரை, நாட்டில் உள்ள 20.2% குடும்பங்களில் குறைந்தபட்சம் ஒரு கணினி கிடைக்கிறது, அதாவது ஒவ்வொரு ஐந்து குடும்பங்களிலும் ஒருவருக்கு டெஸ்க்டாப் அல்லது லேப்டாப் உள்ளது. நகர்ப்புறங்களில், இந்த சதவீதம் 34.0% ஆகவும், கிராமப்புற மற்றும் தோட்டத் துறைகளில் 18.1% ஆகவும் உள்ளது என்றும் மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களம்   தெரிவித்துள்ளது.
+The Census and Statistics Department said that in its latest publication of computer and digital literacy, the country's computer literacy rate is 39.0% and the digital literacy rate is 63.5%.
+
+In addition, 20.2% of families have a desktop or laptop computer, and the urban sector expresses high literacy in both computer and digital skills.
+
+As for home computer ownership, 20.2% of the country is available at least one computer, ie a desktop or laptop for one person every five families. In urban areas, this percentage is 34.0% and 18.1% in rural and plantation sectors, according to the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/ccb265a8.json)
+
+[Extended Data](ext_articles/ccb265a8.ext.json)
 
 ---
 
@@ -780,19 +810,25 @@ Regarding household computer ownership, at least one computer is available in 20
 
 ---
 
-### සැමියා මිත්‍රයා සමග එක්ව බිරිදව ඝාතනය කරයි
+### Husband murdered with wife friend
 
 *2024-06-11 10:03:32* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-මිත්‍රයා-සමග-එක්ව-බිරිදව-ඝාතනය-කරයි/11-410134) · `si`
 
-තම මිතුරා සමග එක්ව බිරිඳව ඝාතනය කළ සැමියෙක් මිතුරාද සමග අත්අඩංගුවට ගත් බව පොලීසිය පවසයි. තලංගම පොලිස් වසමේ තලාහේන ප්‍ර දේශයේ නිවසක කුලියට ජිවත්ව සිටියදී මෙම ඝාතනය සිදුව තිබේ.
+A husband and his friend were arrested after allegedly murdering the husband's wife in their home in the Thalahena area. The victim, aged 44, was attacked with a sharp object. Both suspects turned themselves in to the police.
 
-ඊයේ රාත්‍රිෙය්දී 31 හැවැරිදි බිරිඳ හා 31  හැවැරිදි සැමියා අතර බහින්බස් වීමක් සිදුවීමෙන් අනතුරුව සැමියා හා 44 හැවැරිදි මිතුරා එක්ව අදාළ කාන්තාවට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+🟩
 
-ඉන් අනතුරුව සැකකරුවන් දෙදෙනා නිවස වසාදමා පිටව ගොස් ඇති අතර පසුව ඔවුන් දෙදෙනාම පොලීසියට මේ ගැන පැමිණිලි කර තිබේ.
+Police say that a husband who killed his wife together with his friend was arrested along with the friend. The murder had taken place while living in a house of Thalahena area of ​​Talangama Police Division.
+
+At last night last night, the wife and 44 march was assaulted by the husband and 44 mark with a sharp instrument.
+
+The two suspects were then closed down and then they both complained to the police.
 
 ◼️
 
 [Data](articles/6b60b75b.json)
+
+[Extended Data](ext_articles/6b60b75b.ext.json)
 
 ---
 
@@ -2295,21 +2331,5 @@ Yes, he loves spending his free time, with friends, on the beach, and the beach,
 [Data](articles/96b3672d.json)
 
 [Extended Data](ext_articles/96b3672d.ext.json)
-
----
-
-### Navigating Global Trade Finance: Insights from TFAB’s seminal seminar
-
-*2024-06-10 22:42:00* · [`islandlk`](http://island.lk/navigating-global-trade-finance-insights-from-tfabs-seminal-seminar/) · `en`
-
-Trade finance, a critical yet often overlooked component of commercial banking, plays a vital role in generating substantial profits. Despite its low credit risk, trade finance involves significant operational risks, necessitating highly skilled and continuously trained personnel. The Trade Finance Association of Bankers (TFAB), celebrating its 26th anniversary, addresses this need by enhancing the expertise of trade finance professionals.
-
-TFAB’s dedication to professional development is evident through its annual seminars, evening lectures, and interactive programs. These initiatives ensure that bankers, importers, exporters, lawyers, and business leaders stay updated on global practices and regulatory developments, fostering a spirit of goodwill and collaboration within the industry.
-
-...
-
-[Data](articles/ae65d015.json)
-
-[Extended Data](ext_articles/ae65d015.ext.json)
 
 ---

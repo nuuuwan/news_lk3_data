@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 01:19:20**
+As of **2024-06-12 01:34:18**
 
 ## Newspaper Stats
 
-*Scraped **29,877** Articles*
+*Scraped **29,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,717
-dailyftlk | 1,790
+dailyftlk | 1,794
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
@@ -26,11 +26,71 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,877 (100.0%) of 29,877 articles have been extended.
+29,877 (100.0%) of 29,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Could you believe crabs killing giant guitarfish?
+
+*2024-06-12 01:16:58* · [`dailyftlk`](https://www.ft.lk/opinion/Could-you-believe-crabs-killing-giant-guitarfish/14-762951) · `en`
+
+Guitarfish, also known as shovelnose rays, are a species of ray that are named because of their guitar-shaped bodies. They belong to the order Rhinopristiformes, along with the wedgefish and sawfish. This group are also called shark-like rays due to their flattened body with pectoral fins fused to the sides of the head and a hind body that resembles a shark, with two dorsal fins and a caudal fin.
+
+The Rhinopristiformes exhibit slow growth, late maturity, and low fecundity, like many other rays and sharks. Such characteristics, alone or in combination, make fishes in this group vulnerable to extinction. The global IUCN Red List of threatened species reveals that species in the order Rhinopristiformes are amongst the most threatened marine fishes and over 70% of guitarfish are either threatened or data deficient.
+
+...
+
+[Data](articles/201b8a66.json)
+
+---
+
+### Economic literacy for youth via puppetry and performing arts carnival on Friday in Galle
+
+*2024-06-12 01:03:08* · [`dailyftlk`](https://www.ft.lk/business/Economic-literacy-for-youth-via-puppetry-and-performing-arts-carnival-on-Friday-in-Galle/34-762945) · `en`
+
+Power of Play Ltd., a company utilising performing arts for advocacy - is partnering with Advocata Institute and Sahana Social Development Alliance to provide Sri Lankan youth in Galle and Matara with an innovative opportunity to increase their economic literacy and communication skills, via the performing arts of theatre and puppetry.
+
+Mahadanamuththa and his modern golayas live in a fictional land called ‘Sasiribara Deshaya’. This land which was once flourished is now facing economic peril due to lack of overall vision cascading down to mismanagement of State resources, rampant corruption, short-sighted economic policies and lack of will to change. Mahadanamuththa invites everyone to partake in his carnival ‘Maha Winnahi Mela 2024’ to understand the different facets of this crisis and help him restore the economic prosperity of his land.
+
+...
+
+[Data](articles/53055c73.json)
+
+---
+
+### Evolza appoints visionary leader Thareendra D. Kalpage as Non-Executive Chairman of Board
+
+*2024-06-12 01:00:13* · [`dailyftlk`](https://www.ft.lk/business/Evolza-appoints-visionary-leader-Thareendra-D-Kalpage-as-Non-Executive-Chairman-of-Board/34-762944) · `en`
+
+From left: Evolza Founder/Chief Executive Officer Isuru Kariyawasam, Evolza Director Sathischandra Navarathna, Thareendra Kalpage, and Evolza Chief Marketing Officer Prassanna Pathmanathan
+
+Evolza, the trailblazing company behind the CGASS AI Platform, a top-tier AI-powered enterprise software generation platform, announced Thareendra D. Kalpage as the new Non-Executive Chairman of its Board of Directors.
+
+This milestone underscores Evolza’s commitment to achieving new heights in technological advancement and success.
+
+Kalpage brings extensive experience and a proven track record in the technology sector. With decades of leadership, he has consistently driven organisations towards success with his visionary approach and understanding of emerging technologies. His appointment is set to propel Evolza into the future.
+
+...
+
+[Data](articles/975871d6.json)
+
+---
+
+### FPA Sri Lanka’s SEAP Project wins again at NPME 2024
+
+*2024-06-12 00:59:08* · [`dailyftlk`](https://www.ft.lk/business/FPA-Sri-Lanka-s-SEAP-Project-wins-again-at-NPME-2024/34-762943) · `en`
+
+FPA Sri Lanka is thrilled to announce that their SEAP Project has won for the second consecutive year at the National Project Management Excellence Awards held on 31 May at the Galadari Hotel, Colombo.
+
+In 2015, IPPF launched the Social Enterprise Acceleration Program (SEAP) to empower The International Planned Parenthood Federation Member Associations (MAs) with entrepreneurial best practices in the health sector, delivering social impact and improving lives. SEAP aims to establish and grow social enterprises, diversifying funding sources and ensuring sustainability.
+
+...
+
+[Data](articles/03a03fbf.json)
+
+---
 
 ### The many faces of impunity
 
@@ -2179,99 +2239,5 @@ It was prepared by a sub-committee of the Parliamentary sectoral oversight commi
 [Data](articles/fa9dc3b5.json)
 
 [Extended Data](ext_articles/fa9dc3b5.ext.json)
-
----
-
-### Eleven schools in Anuradhapura close for Poson festival
-
-*2024-06-11 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eleven-schools-in-Anuradhapura-close-for-Poson-festival/108-284600) · `en`
-
-Anuradhapura, June 11 (Daily Mirror) - The North Central Province Education Ministry announced today the closure of eleven schools in the Anuradhapura, Mihintale and Thanthirimale areas in view of the Poson festival.
-
-They said the ‘Poson Week’ will commence on June 18 and conclude on June 20.
-
-Accordingly, Central College Anuradhapura, Swarnapali Balika Maha Vidyalaya, Walisinghe Harischandra Maha Vidyalaya, Nivattakachetiya Maha Pirivena, Zahira National School, Vivekananda Tamil Maha Vidyalayam, Devanampiyatissapura Al Azhar Vidyalaya, Mahabodhi Maha Vidyalaya, Mihintale Maha Vidyalaya, Mihintale Kammalakkulama Vidyalaya and Wimalagnana Vidyalaya in Thanthirimale will be closed.
-
-The schools will be closed to provide accommodation to police personnel on duty during the Poson week.
-
-...
-
-[Data](articles/8213a28f.json)
-
-[Extended Data](ext_articles/8213a28f.ext.json)
-
----
-
-### System literacy is a 39% increase
-
-*2024-06-11 13:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணினி-கல்வியறிவு-39-அதிகரிப்பு/175-338757) · `ta`
-
-Computer literacy in Sri Lanka rose to 39% in 2023, with a digital literacy rate of 63.5%. Ownership of computers is at 20.2%, higher in urban areas (34%) than rural/plantation areas (18.1%).
-
-🟩
-
-The Department of Census and Statistics said that Computer literacy in Sri Lanka increased to 39% by 2023.
-
-The Census and Statistics Department said that in its latest publication of computer and digital literacy, the country's computer literacy rate is 39.0% and the digital literacy rate is 63.5%.
-
-In addition, 20.2% of families have a desktop or laptop computer, and the urban sector expresses high literacy in both computer and digital skills.
-
-As for home computer ownership, 20.2% of the country is available at least one computer, ie a desktop or laptop for one person every five families. In urban areas, this percentage is 34.0% and 18.1% in rural and plantation sectors, according to the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/ccb265a8.json)
-
-[Extended Data](ext_articles/ccb265a8.ext.json)
-
----
-
-### Vehicle revenue licenses can be taken from the Sabaragamuwa
-
-*2024-06-11 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-හැර-සෙසු-පළාත්වලට-අදාල-වාහන-ආදායම්-බලපත්‍ර-සබරගමුවෙන්-ගන්න-පුළුවන්/11-410143) · `si`
-
-Starting from March, Sabaragamuwa Provincial Council issues annual vehicle revenue licenses, excluding Western Province. Licenses available at Sabaragamuwa Provincial Complex, Ratnapura & Kegalle Divisional Secretaries. Not applicable to buses registered outside Sabaragamuwa.
-
-🟩
-
-Sabaragamuwa Chief Secretary Mahinda Rajapaksa, Chief Secretary Mahinda Rajapaksa General Secretary Mahinda Rajapaksa said that the Sabaragamuwa Provincial Council has been implemented by the Sabaragamuwa Provincial Council from the 3rd of this month except the island in the Western Province.
-
-He was speaking at a discussion held at the Chief Secretary General of Sabaragamuwa Province, Ratnapura.
-
-Accordingly, annual vehicle revenue licenses can be obtained from the Sabaragamuwa Provincial Complex, the Sabaragamuwa Province complex, the Divisional Secretaries of Ratnapura and Kegalle.
-
-Annual Vehicle Revenue License for vehicles registered in other provinces except in the Western Province. The Secretary of the Chief Secretary says that the vehicles revenue license will not apply to these buses.
-
-◼️
-
-[Data](articles/0bc36ba7.json)
-
-[Extended Data](ext_articles/0bc36ba7.ext.json)
-
----
-
-### Toilet poison gas: 3 women kill
-
-*2024-06-11 13:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிவறை-விஷ-வாயு-3-பெண்கள்-பலி/175-338756) · `ta`
-
-In Pudunagar, Puducherry, a tragic incident occurred where three family members died due to a poisonous gas leak from the toilet. A grandmother, her daughter, and a granddaughter fell unconscious while using the toilet and were rushed to a local hospital, but unfortunately, all three passed away. The cause is suspected to be a gas leak from the sewage system affecting the area.
-
-🟩
-
-Three members of the same family have died in a poisonous attack released from the toilet. The incident took place in the Pudunagar area of ​​the Rediyarpalayam constituency of Puducherry. There are over 500 families living there.
-
-A grandmother who went to the toilet in a house in the area is lying in a faint. Seeing this, her daughter went to save and she fell unconscious. The girl, who saw her grandmother and mother lying in a state of fainting, fell unconscious when she went to save them.
-
-The neighbors saw that all three were lying in a state of fainting and immediately rescued and sent him to a nearby government hospital.. Doctors, who examined them, said that both elders and another woman had already died.
-
-Subsequently, the girl was treated intensively. But he too died without treatment.
-
-A gas leak from the sewage drainage in the area has been reported to 3 people who died from the toilet of the gas house.
-
-◼️
-
-[Data](articles/e3507418.json)
-
-[Extended Data](ext_articles/e3507418.ext.json)
 
 ---

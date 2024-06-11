@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 14:53:28**
+As of **2024-06-11 15:04:15**
 
 ## Newspaper Stats
 
-*Scraped **29,775** Articles*
+*Scraped **29,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,548
 adaderanalk | 3,366
 tamilmirrorlk | 3,490
 virakesarilk | 4,557
-dailymirrorlk | 4,717
+dailymirrorlk | 4,718
 adaderanasinhalalk | 4,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,775 (100.0%) of 29,775 articles have been extended.
+29,775 (100.0%) of 29,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Fire at famous Bangkok market kills 1,000 animals
+
+*2024-06-11 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Fire-at-famous-Bangkok-market-kills-1-000-animals/107-284602) · `en`
+
+Bangkok, June 11 (BBC) - Around 1,000 animals were killed in a fire in Bangkok's famous open-air Chatuchak market early Tuesday, gutting nearly 100 shops.
+
+Birds, dogs, cats and snakes were burnt to death in their cages in the pet zone, which also included rats, pythons and geckos.
+
+The blaze was started by an electrical short circuit, authorities said, adding that no human casualties or injuries have been reported.
+
+With tens of thousands of shops crowding narrow lanes, Chatuchak is one of South East Asia's biggest markets.
+
+It's also the largest and best-known of Thailand's weekend markets. It claims to draw nearly 200,000 tourists every Saturday and Sunday.
+
+But the portion of the market selling pets is open through the week. This accounts for about four of the 27 sections in Chatuchak market and is arguably its most controversial trade.
+
+...
+
+[Data](articles/3610c6aa.json)
+
+---
 
 ### 11 schools will be closed
 
@@ -2317,23 +2339,5 @@ The primary objective of YAP4C is to mobilise a movement of young advocates pres
 [Data](articles/e135df6d.json)
 
 [Extended Data](ext_articles/e135df6d.ext.json)
-
----
-
-### Indo Lanka Chamber of Commerce and Industry holds interactive session with High Commissioner Jha
-
-*2024-06-10 23:40:23* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-holds-interactive-session-with-High-Commissioner-Jha/34-762899) · `en`
-
-High Commissioner Santosh Jha (centre) flanked by Vish Govindasamy (left) and moderator Romesh David
-
-The Indo Lanka Chamber of Commerce and Industry (ILCCI) hosted a captivating evening interactive session with High Commissioner of India to Sri Lanka Santosh Jha, at Taj Samudra Colombo. The event brought together business leaders and industry experts for a night of engaging discussions and networking.
-
-The evening commenced with a warm welcome address by the ILCCI President Raghuraman. In his address Raghuraman stated, “This is a golden opportunity for us to integrate our economies we have much to learn and gain from India, we as a business should be pushing them for the ECTA and this will definitely take us to the next level in penetrating such a huge market.” His words set the stage for a productive and insightful session.
-
-...
-
-[Data](articles/93fdc0c8.json)
-
-[Extended Data](ext_articles/93fdc0c8.ext.json)
 
 ---

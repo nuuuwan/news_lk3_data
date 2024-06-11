@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 14:19:03**
+As of **2024-06-11 14:34:32**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,773 (100.0%) of 29,775 articles have been extended.
+29,775 (100.0%) of 29,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### 11 பாடசாலைகள் மூடப்படும்
+### 11 schools will be closed
 
 *2024-06-11 13:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பாடசாலைகள்-மூடப்படும்/175-338762) · `ta`
 
-பொசன் பண்டிகையை முன்னிட்டு, 11 பாடசாலைகளை மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது. அதனடிப்படையில்,  அனுராதபுரம், மிஹிந்தலை மற்றும் தந்திரிமலை ஆகிய பகுதிகளில் உள்ள பதினொரு பாடசாலைகள் மூடப்படும் என வடமத்திய மாகாண கல்வி அமைச்சு அறிவித்துள்ளது.
+Ahead of the Poson festival, 11 schools in Anuradhapura, Mihintale, and Tandrimalai will close from June 18 to 20 at the request of the National Poson Festival Group, Senior Superintendent of Police Thilina Hewapatrana, and the North Central Provincial Education Ministry.
 
-‘பொசன் வாரம்’ ஜூன் 18ஆம் திகதி தொடங்கி ஜூன் 20ஆம் திகதி நிறைவடையும் .
+🟩
 
-அதன்படி, அனுராதபுரம் மத்திய கல்லூரி, ஸ்வர்ணபாலி பாலிகா மகா வித்தியாலயம், வலிசிங்க ஹரிச்சந்திர மகா வித்தியாலயம், நிவட்டகச்சேதிய மகா பிரிவேனா, ஸாஹிரா தேசிய பாடசாலை, விவேகானந்தா தமிழ் மகா வித்தியாலயம், தேவானம்பியதிஸ்ஸபுர அல் அஸ்ஹர் வித்தியாலயம், மஹாபோதி மகா வித்தியாலயம், மிஹிந்தலை மஹா வித்தியாலயம், மிஹிந்தலை கம்மலக்ஞானம வித்தியாலயம், மிஹிந்தலை வித்தியாலயம், வித்தியாலயம் ஆகிய மூடப்படும்.
+It has been decided to close 11 schools ahead of Poson festival. Accordingly, the Ministry of Education of the North Central Province has announced that eleven schools in Anuradhapura, Mihintale and Tandrimalai will be closed.
 
-அநுராதபுரம் தேசிய பொசன் விழா குழு, சிரேஷ்ட பொலிஸ் அத்தியட்சகர் திலின ஹேவாபத்திரன மற்றும் வடமத்திய மாகாண கல்வி அமைச்சின் கோரிக்கைக்கு அமைய பாடசாலைகள் மூடப்படவுள்ளன.
+The Poson week will start on June 18 and end on June 20.
+
+Accordingly, Anuradhapura Central College, Swarnabali Balika Maha Vidyalaya, Valasinghe Harichara Maha Vidyalaya, Zahira National School, Vivekananda Tamil Maha Vidyalayam Vidyalaya, VidyalayaTo be closed.
+
+Schools will be closed at the request of the National Poson Festival Group, Senior Superintendent of Police Thilina Hewapatrana and North Central Provincial Education Ministry.
 
 ◼️
 
 [Data](articles/a4ceb6c6.json)
+
+[Extended Data](ext_articles/a4ceb6c6.ext.json)
 
 ---
 
@@ -222,21 +228,27 @@ Police further stated that when the body was discovered, they had also found a d
 
 ---
 
-### කොළඹ ඝණ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ ඉදිකිරීම් අවසන්
+### Construction of Colombo solid waste management project
 
 *2024-06-11 12:53:29* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-ඝණ-අපද්‍රව්‍ය-කලමනාකරණ-ව්‍යාපෘතියේ-ඉදිකිරීම්-අවසන්/10-410139) · `si`
 
-කොලඹ අගනගර ආශ්‍රිත ඝණ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු සම්පූර්ණයෙන් අවසන් බවත් අගෝස්තු මාසය වන විට එහි මෙහෙයුම් කටයුතු ආරම්භ කරන බවත් කොළඹ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ අධ්‍යක්ෂ සරත් බණ්ඩාර මහතා පවසයි.
+The Colombo Solid Waste Management Project, initiated by the Ministry of Defense and Urban Development in 2014, aimed to improve waste management in Colombo. Completed in August, it includes the construction of two waste transfer stations and necessary infrastructure. Originally intended for use by the Western Province's local governments, the project now serves a broader area. It features a system for transporting waste via trains, with four engines and 94 containers purchased for this purpose. Despite delays due to the COVID epidemic and economic crisis, the project, costing US$130 million, is set to begin operations soon, with training for operators underway.
 
-ව්‍යාපෘතියේ පෙරහුරු පරීක්ෂණ ද මේ වන විට ක්‍රියාත්මකයි. මෙම පෙරහුරු පරීක්ෂණ ආරම්භ කෙරුණේ පසුගිය 05 වන දා සිටයි. මෙම ව්‍යාපෘතිය ආරම්භ කෙරුණේ 2014 වසරේ දී එවකට පැවති ආරක්ෂක හා නාගරික සංවර්ධන අමාත්‍යාංශය මගිනි.
+🟩
 
-දිනෙන් දින ඉහළ යන ඉහළ යන කොළඹ නාගරික ඝණ අපද්‍රව්‍ය බැහැර කිරීමේ ගැටළුව විසදීමේ අරමුණින් පුත්තලම අරුවක්කාලු ප්‍රදේශයේ තිබූ හුණුගල් කඩා ඉවත් කර අතහැර දමන ලද වලවල් ආශ්‍රිතව සනීපාරක්ෂක කසල රදවනයක් සහ අපදියර ප්‍රතිකර්ම පද්ධතියක් ඇතුළු අනෙකුත් පහසුකම් ඉදිකිරීම නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය වෙත පැවරී තිබිණි.
+The construction work of the Colombo capitagre managing managulas is completely completed by August, says the Director of the Colombo Waste Management Project Sarath Bandara says.
 
-කැලණිය හා පුත්තලම කසල හුවමාරු මධ්‍යස්ථාන 02 ක් ඉදිකිරීම හා ඊට අදාල දුම්රිය යටිතල පහසුකම් හා මාර්ග පද්ධතිය ඉදිකිරීම මේ යටතේ සිදුවිය.
+The project rehearsal investigations are also in place. The rehearsal investigations were started on the 5th. The project was started by the Ministry of Defense and Urban Development in 2014.
+
+The Ministry of Urban Development and Housing has to demolish the limestone in the Puttalam Archalaw and other facilities, including a hygiene demolish and other facilities in the Puttalam Archal area.
+
+Construction of two Kelaniya and Puttalam garbage exchange centers were built and the relevant railway infrastructure and road network.
 
 ...
 
 [Data](articles/f04c15db.json)
+
+[Extended Data](ext_articles/f04c15db.ext.json)
 
 ---
 

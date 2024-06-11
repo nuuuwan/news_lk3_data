@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 14:05:59**
+As of **2024-06-11 14:19:03**
 
 ## Newspaper Stats
 
-*Scraped **29,773** Articles*
+*Scraped **29,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,547
+adalk | 2,548
 adaderanalk | 3,366
-tamilmirrorlk | 3,489
+tamilmirrorlk | 3,490
 virakesarilk | 4,557
 dailymirrorlk | 4,717
 adaderanasinhalalk | 4,794
@@ -26,25 +26,55 @@ adaderanasinhalalk | 4,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,772 (100.0%) of 29,773 articles have been extended.
+29,773 (100.0%) of 29,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### දුම්රියෙන් ඇවිත් බයිසිකලයෙන් යන කසුන්
+### 11 பாடசாலைகள் மூடப்படும்
+
+*2024-06-11 13:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பாடசாலைகள்-மூடப்படும்/175-338762) · `ta`
+
+பொசன் பண்டிகையை முன்னிட்டு, 11 பாடசாலைகளை மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது. அதனடிப்படையில்,  அனுராதபுரம், மிஹிந்தலை மற்றும் தந்திரிமலை ஆகிய பகுதிகளில் உள்ள பதினொரு பாடசாலைகள் மூடப்படும் என வடமத்திய மாகாண கல்வி அமைச்சு அறிவித்துள்ளது.
+
+‘பொசன் வாரம்’ ஜூன் 18ஆம் திகதி தொடங்கி ஜூன் 20ஆம் திகதி நிறைவடையும் .
+
+அதன்படி, அனுராதபுரம் மத்திய கல்லூரி, ஸ்வர்ணபாலி பாலிகா மகா வித்தியாலயம், வலிசிங்க ஹரிச்சந்திர மகா வித்தியாலயம், நிவட்டகச்சேதிய மகா பிரிவேனா, ஸாஹிரா தேசிய பாடசாலை, விவேகானந்தா தமிழ் மகா வித்தியாலயம், தேவானம்பியதிஸ்ஸபுர அல் அஸ்ஹர் வித்தியாலயம், மஹாபோதி மகா வித்தியாலயம், மிஹிந்தலை மஹா வித்தியாலயம், மிஹிந்தலை கம்மலக்ஞானம வித்தியாலயம், மிஹிந்தலை வித்தியாலயம், வித்தியாலயம் ஆகிய மூடப்படும்.
+
+அநுராதபுரம் தேசிய பொசன் விழா குழு, சிரேஷ்ட பொலிஸ் அத்தியட்சகர் திலின ஹேவாபத்திரன மற்றும் வடமத்திய மாகாண கல்வி அமைச்சின் கோரிக்கைக்கு அமைய பாடசாலைகள் மூடப்படவுள்ளன.
+
+◼️
+
+[Data](articles/a4ceb6c6.json)
+
+---
+
+### Coasts coming from the train
 
 *2024-06-11 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197643) · `si`
 
-දුම්රියෙන් පැමිණ අලුත්ගම සංචාරක කලාපය සහ වෙනත් ප්‍රදේශවල පාපැදි සහ ගෑස් සිලින්ඩර සොරකම් කළ "මුරවත්ත කසුන් "නැමැති පුද්ගලයාව අලුත්ගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The Aluthgama Police arrested Murawatta Kasun, a 34-year-old suspected thief and drug addict, after recovering seven bicycles, six gas cylinders, and nearly four grams of heroin from various locations including Aluthgama, Talamulla, and Minuwalla areas. Investigations reveal Kasun was staying in Moragalla, Moratuwa, and had recently visited Aluthgama Beruwala.
 
-අලුත්ගම, මොරගල්ල, කළුවාමෝදර ප්‍රදේශවල සංචාරකයින්ට කුලී පදනම මත පාපැදි ලබාදෙන සහ පයාගල, කලමුල්ල ප්‍රදේශවල සහ අවට ප්‍රදේශවල දැනට වසර කිහිපයකට පෙර නිවෙස්වල නවතා ඇති පාපැදි සහ ගෑස් සිලින්ඩර සහ තවත් උපකරණ සොරකම් සිදුවන බවට අලුත්ගම පොලීසියේ දූෂණ මර්දන අංශයට ලද පැමිණිලිමත ඊයේ උදෑසන අලුත්ගම කළුවාමෝදර පාලම ආසන්නයේදී මාර්ගයේ ගමන් ගත් සැක සහිත පුද්ගලයෙකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී හෙරෙයින් ග්‍රෑම් හතරකට ආසන්න ප්‍රමාණයක් සොයාගෙන තිබුණි.
+🟩
 
-ඉන්පසුව ඔහුගෙන් සිදුකරන ලද දීර්ඝ ප්‍රශ්න කිරීම්වලින් අනතුරුව මෙම සොරකමට අදාළ සියලු තොරතුරු අනාවරණය වී තිබේ.
+The Aluthgama Police have arrested the person named Murawatta Kasun 'to the Aluthgama Tourist Zone and other territory.
 
-...
+Attempts to be stolen at the Aluthgama police station, the resignation of bicycles and gas cylinders, in Aluthgama and Talamulla areas have been stolen at the Aluthgama, Talamulla areas and other equipment is located in Minuwalla areas.In the course of checking a suspicious person, he had found nearly four grams of hero.
+
+After the long interrogation from him, all the information pertaining to theft has been revealed.
+
+Investigations have revealed that the suspect had been residential in Moragalla, residing in Moratuwa, residing in Moratuwa and arrived in Aluthgama Beruwala and surrounding areas.
+
+Seven bicycles and six gas cylinders have been recovered by the police.
+
+The suspect is a drug addict, a 34-year-old Massamwatta Kasun.
+
+◼️
 
 [Data](articles/ecd6e677.json)
+
+[Extended Data](ext_articles/ecd6e677.ext.json)
 
 ---
 
@@ -189,6 +219,24 @@ Police further stated that when the body was discovered, they had also found a d
 [Data](articles/4d223dcf.json)
 
 [Extended Data](ext_articles/4d223dcf.ext.json)
+
+---
+
+### කොළඹ ඝණ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ ඉදිකිරීම් අවසන්
+
+*2024-06-11 12:53:29* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-ඝණ-අපද්‍රව්‍ය-කලමනාකරණ-ව්‍යාපෘතියේ-ඉදිකිරීම්-අවසන්/10-410139) · `si`
+
+කොලඹ අගනගර ආශ්‍රිත ඝණ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු සම්පූර්ණයෙන් අවසන් බවත් අගෝස්තු මාසය වන විට එහි මෙහෙයුම් කටයුතු ආරම්භ කරන බවත් කොළඹ අපද්‍රව්‍ය කලමනාකරණ ව්‍යාපෘතියේ අධ්‍යක්ෂ සරත් බණ්ඩාර මහතා පවසයි.
+
+ව්‍යාපෘතියේ පෙරහුරු පරීක්ෂණ ද මේ වන විට ක්‍රියාත්මකයි. මෙම පෙරහුරු පරීක්ෂණ ආරම්භ කෙරුණේ පසුගිය 05 වන දා සිටයි. මෙම ව්‍යාපෘතිය ආරම්භ කෙරුණේ 2014 වසරේ දී එවකට පැවති ආරක්ෂක හා නාගරික සංවර්ධන අමාත්‍යාංශය මගිනි.
+
+දිනෙන් දින ඉහළ යන ඉහළ යන කොළඹ නාගරික ඝණ අපද්‍රව්‍ය බැහැර කිරීමේ ගැටළුව විසදීමේ අරමුණින් පුත්තලම අරුවක්කාලු ප්‍රදේශයේ තිබූ හුණුගල් කඩා ඉවත් කර අතහැර දමන ලද වලවල් ආශ්‍රිතව සනීපාරක්ෂක කසල රදවනයක් සහ අපදියර ප්‍රතිකර්ම පද්ධතියක් ඇතුළු අනෙකුත් පහසුකම් ඉදිකිරීම නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය වෙත පැවරී තිබිණි.
+
+කැලණිය හා පුත්තලම කසල හුවමාරු මධ්‍යස්ථාන 02 ක් ඉදිකිරීම හා ඊට අදාල දුම්රිය යටිතල පහසුකම් හා මාර්ග පද්ධතිය ඉදිකිරීම මේ යටතේ සිදුවිය.
+
+...
+
+[Data](articles/f04c15db.json)
 
 ---
 
@@ -2275,61 +2323,5 @@ The evening commenced with a warm welcome address by the ILCCI President Raghura
 [Data](articles/93fdc0c8.json)
 
 [Extended Data](ext_articles/93fdc0c8.ext.json)
-
----
-
-### South Africa becoming a sharp win
-
-*2024-06-10 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197618) · `si`
-
-In a thrilling World Cup match, South Africa narrowly defeated Bangladesh by 4 runs. Batting first, South Africa made 113/6 in 20 overs, led by David Miller's 29 runs. Despite a strong chase, Bangladesh could only manage 109/7, falling short of the target.
-
-🟩
-
-South African team and the Bangladesh team won the match between the World Cup and Bangladesh by 4 runs.
-
-The leader of the South African team won the toss and elected to bat.
-
-Accordingly, the South African team scored 113 runs for the loss of 6 wickets in the end of 20 overs.
-
-The South African team had scored 46 runs while David Miller scored 29 runs.
-
-Chasing a target of 113, Bangladesh was only 109 runs for the loss of 7 wickets in the end of 20 overs.
-
-◼️
-
-[Data](articles/0bcb15fd.json)
-
-[Extended Data](ext_articles/0bcb15fd.ext.json)
-
----
-
-### London scene for Benjy
-
-*2024-06-10 23:11:00* · [`islandlk`](http://island.lk/london-scene-for-benjy/) · `en`
-
-Dynamic bassist Benjamin (Benjy) Ranabahu is in London, on vacation.
-
-He left towards the end of last month (May) and says he will be in London till the end of June.
-
-The purpose of his visit is to see his loved ones, family and friends.
-
-Benjy also checked out the stage play ‘MJ the Musical’  and was enthralled by the stage performers who, literally, made Michael Jackson come alive on stage.
-
-They were all British actors, said Benjy, adding that he enjoyed the show thoroughly.
-
-He also mentioned that he has made plans to go for The Drifters concert.
-
-The Drifters are an American pop and R&B/soul vocal group famous for their hits, such as ‘Saturday Night at the Movies’, ‘Under the Boardwalk’ and ‘Save the Last Dance for Me.’
-
-Benjy also indicated that he will be celebrating his birthday, in July, on the beach, at Mount Lavinia.
-
-Yes, he loves spending his free time, with friends, on the beach, and the beach, at Mount Lavinia, is his favourite spot!
-
-...
-
-[Data](articles/96b3672d.json)
-
-[Extended Data](ext_articles/96b3672d.ext.json)
 
 ---

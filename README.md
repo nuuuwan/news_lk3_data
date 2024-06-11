@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 17:19:17**
+As of **2024-06-11 17:34:53**
 
 ## Newspaper Stats
 
-*Scraped **29,808** Articles*
+*Scraped **29,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ adaderanalk | 3,372
 tamilmirrorlk | 3,493
 virakesarilk | 4,562
 dailymirrorlk | 4,724
-adaderanasinhalalk | 4,799
+adaderanasinhalalk | 4,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,805 (100.0%) of 29,808 articles have been extended.
+29,808 (100.0%) of 29,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ஆசிரியையின் படத்தில் அப்படி செய்த மாணவன்
+### The student who did so in the picture of the teacher
 
 *2024-06-11 17:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியையின்-படத்தில்-அப்படி-செய்த-மாணவன்/175-338768) · `ta`
 
-பாடசாலை ஆசிரியை ஒருவரின் புகைப்படத்துக்கு நிர்வாண உருவத்தை பதித்ததாக கூறப்படும் அதே பாடசாலை மாணவன் தலா 5 இலட்சம் ரூபாய் பெறுமதியான இரு சரீரப் பிணைகளில் விடுதலைச் செய்யப்பட்டுள்ளார்.
+A schoolgirl accused of taking nude photos of her teacher was released on bail of Rs 5 lakh. The magistrate warned her against interfering with the investigation and altering evidence. The teacher is reportedly distressed, and there were concerns about suicide attempts by the suspect, who also allegedly shared explicit content online.
 
-இந்த உத்தரவு, குளியாபிட்டிய நீதவான்  ரந்திக லக்மால் ஜயலத்தினால் செவ்வாய்க்கிழமை (11) பிறப்பிக்கப்பட்டது.
+🟩
 
-மேலும், இந்த வழக்கை ஓகஸ்ட் 28-ம் திகதி மீண்டும் விசாரணைக்கு அழைக்கவும் உத்தரவிட்டார்.
+The same schoolgirl, who is said to have been naked for a photo of a school teacher, has been released on two physical bail worth Rs 5 lakhs.
 
-மேலும், பிணை நிபந்தனைகளை பிறப்பித்த நீதவான், விசாரணையில் தலையிட வேண்டாம் என்றும், திருத்தப்பட்ட புகைப்படங்களில் எந்த மாற்றமும் செய்யக்கூடாது என்றும் சந்தேக நபரை எச்சரித்தார், மேலும் அவர் அந்த நிபந்தனைகளுக்கு இணங்காவிட்டால், பிணை ரத்து செய்யப்பட்டு, வழக்கு விசாரணை நிறைவடையும் வரையிலும் சிறையில் அடைக்கப்படுவார் என்றும் எச்சரித்தார்.
+The order was issued by Kiliyapitiya Magistrate Randika Lakmal Jayala on Tuesday (11).
 
-சந்தேக நபரை நீதிமன்றில் முன்னிலைப்படுத்திய குளியாபிட்டிய பிரிவு சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  மகேஷ் குமாரசிங்க, இந்த சம்பவத்தினால் குறித்த ஆசிரியர் மன உளைச்சலுக்கு உள்ளாகியுள்ளதாக தெரிவித்தார்.
+He also ordered the case to be called again on August 28.
 
-...
+In addition, the magistrate, who issued bail conditions, warned the suspect not to interfere with the investigation and not make any change in the revised photographs, and that he would be canceled until the bail would be canceled and the case was canceled and the case was over.
+
+Mahesh Kumarasinghe, Senior Superintendent of Police, Guliyapitiya Division, who presented the suspect in court, said the teacher was depressed by the incident.
+
+Mahesh Kumarasinghe, who said there was a risk of committing suicide, also told the court that the suspect had revised the telephone number of the teacher and posted a panel of pornographic images on the homepage and a telegram network.
+
+◼️
 
 [Data](articles/297a87ad.json)
+
+[Extended Data](ext_articles/297a87ad.ext.json)
+
+---
+
+### ගුරු-විදුහල්පතිවරුන් හෙට උද්ඝෝෂණයක
+
+*2024-06-11 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197649) · `si`
+
+හෙට (12) දහවල් 1න් පසු සාමාන්‍ය පෙළ ඇගයීම් කටයුතු නතර කරන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි.
+
+ඒ අනුව හෙට දහවල් සාමාන්‍ය පෙළ ඇගයීම් මධ්‍යස්ථාන 101 ඉදිරිපිට සහ දිවයින පුරා කලාප කාර්යාල 100ක් ඉදිරිපිට ගුරු - විදුහල්පති දැවැන්ත උද්ඝෝෂණ මාලාවක් සිදුකරන බවත් ඔහු සඳහන් කළේය
+
+ගුරු-විදුහල්පති වැටුප් දීමනාව ඉවත් කිරීම, අධ්‍යාපනයේ බර දෙමව්පියන් මත පැටවීම වහා නතර කිරීම යන ඉල්ලීම් මුල් කරගෙන හෙට පාසල් අවසන්වීමෙන් පසු මෙම වෘත්තීය ක්‍රියාමාර්ගය දියත් කිරීමට නියමිතය.
+
+"දැන් සාමාන්‍ය පෙළ ඇගයීම් කටයුතු සිදුවෙනවා. මේ සාමාන්‍ය පෙළ ඇගයීම් සඳහා ලබා දෙන දීමනාව මේ වන විටත් ලබාදීලා නැහැ.දීමනා වැඩි කිරීමක් සිදු කරලත් නැහැ. හෙට සාමාන්‍ය පෙළ විභාගය ඇගයීම් කටයුතු 1න් පස්සේ නතර කරනවා. මේක විභාග කොමසාරිස්වරයාට අපි ලිඛිතව දැනුම් දීලා තියෙන්නේ. අපේ ස්ථාවරය තමයි මේ වර්ෂය තුළ ගුරු - විදුහල්පති වැටුප් සමතාව වෙනුවෙන් මුදල් වෙන් කර යුතුමයි කියන එක."
+
+◼️
+
+[Data](articles/0f02712d.json)
 
 ---
 
@@ -65,6 +91,8 @@ Hundreds of soldiers, police officers and forest rangers had been searching for 
 ...
 
 [Data](articles/b857a0c6.json)
+
+[Extended Data](ext_articles/b857a0c6.ext.json)
 
 ---
 
@@ -904,21 +932,29 @@ The National Dengue Prevention Unit stated that 2,487 cases were reported from t
 
 ---
 
-### හර්ෂගෙන් ජනපතිට ලිපියක්
+### A letter to the president of Harsha
 
 *2024-06-11 13:05:01* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂගෙන්-ජනපතිට-ලිපියක්/11-410141) · `si`
 
-ඔන්ලයින් කැසිනෝ පවත්වාගෙන යාමට නීතිමය තත්ත්වයක් නොපවතින විටෙක ඒ පිළිබඳ නොතකා රටට ලැබිය යුතු ආදායම අහිමි කරමින් ඔන්ලයින් කැසිනෝ විවෘතව ක්‍රියාත්මක වන බවට රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+Despite concerns over revenue loss, the Finance Committee, led by Dr. Harsha de Silva, supports legalizing online casinos to attract foreign investment. They've expedited the process to establish necessary laws and regulations under the Casino Enterprise (Regulatory) Act and considered implications under Section 27 of the Wahak Benefit Act.
 
-මේ සම්බන්ධයෙන් කඩිනමින් අවධානය යොමු කරනලෙස ඉල්ලීමක් කරමින් මුදල් අමාත්‍යවරයා වෙත ලිපියක් යොමු කිරීමට තමන් කටයුතු කරන බව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති (ආචාර්ය) හර්ෂ ද සිල්වා මහතා පැවසීය.
+🟩
 
-හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (06) රැස්වූ රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේදී මේ පිළිබඳ සාකච්ඡාවට ගැනිණි.
+The Committee on Finance Commissioner also revealed that online casino is open to the country, despite the revenue to the country despite the income of the country.
 
-කැසිනෝ ඇතුළු සූදු ව්‍යාපාරවලින් අය විය යුතු හිඟ බදු අය කර ගැනීමට හා මෙවැනි ව්‍යාපාර සඳහා විදේශ ආයෝජකයින් ආකර්ෂණය කර ගැනීමට ඉතාමත් වැදගත් වන නියාමන අධිකාරියක් පිහිටුවීමට අවශ්‍ය නීති සම්මත කර ගැනීමට කඩිනම් කටයුතු යොදන ලෙස සහ එය තවදුරටත් පමා නොකරන ලෙස සභාපතිවරයා පැමිණ සිටි නිලධාරීන් වෙත උපදෙස් ලබා දුන්නේය.
+Chairman of the Public Finance Committee (Dr.) Harsha de Silva said that he is working to refer to the Minister of Finance (Dr.).
+
+The Committee on Finance Meeting was held at the meeting of Harsha de Silva.
+
+The Chairman instructed the officers who had been asked to be expedited and further delay to the establishment of the laws that should be obtained from gaming authorities, including casinos, and to attract foreign investors and to attract foreign investors..
+
+Thereafter, the Committee, the Committee under Section 4, and Section 4 under Section 4 of the Casino Enterprise (Regulatory) Act No. 17, 2010, was taken into consideration under Section 4. The Committee then approved the decision and the regulations.
 
 ...
 
 [Data](articles/21b5455a.json)
+
+[Extended Data](ext_articles/21b5455a.ext.json)
 
 ---
 
@@ -2383,25 +2419,5 @@ She said that he was officially invited to the Ministry of Labor and the Departm
 [Data](articles/29a4e24d.json)
 
 [Extended Data](ext_articles/29a4e24d.ext.json)
-
----
-
-### Ransomware menace plaguing Sri Lankan businesses: Kaspersky
-
-*2024-06-11 03:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ransomware-menace-plaguing-Sri-Lankan-businesses-Kaspersky/108-284555) · `en`
-
-A total of 2,650 ransomware incidents have been detected and blocked by Kaspersky’s cybersecurity solutions for businesses in Sri Lanka from January to December 2023, it was revealed.
-
-Experts from the global cybersecurity company insist on organisations, regardless of shape and size, to beef up their IT security posture as ransomware, especially the targeted type, continues to be a damaging menace for organisations in the region.
-
-“The era of widespread mass attacks by encryptors on both individuals and businesses is gradually fading away. Instead, we are witnessing a shift towards organised groups that execute hacks involving data theft and encryption, commonly referred to as double extortion.
-
-The rationale behind this evolution lies in the perpetrators’ ability to operate with greater efficiency, thereby enabling them to demand significantly higher ransom sums,” said  Fedor Sinitsyn, Lead Malware Analyst at Kaspersky.
-
-...
-
-[Data](articles/4f5b038f.json)
-
-[Extended Data](ext_articles/4f5b038f.ext.json)
 
 ---

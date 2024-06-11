@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 17:55:13**
+As of **2024-06-11 18:13:33**
 
 ## Newspaper Stats
 
@@ -26,41 +26,55 @@ adaderanasinhalalk | 4,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,809 (100.0%) of 29,814 articles have been extended.
+29,814 (100.0%) of 29,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ஹிஜாப் அணிந்து வர தடை;  இராஜினாமா செய்த ஆசிரியை
+### Prohibition of wearing hijab;Resigned teacher
 
 *2024-06-11 17:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்-அணிந்து-வர-தடை-இராஜினாமா-செய்த-ஆசிரியை/175-338769) · `ta`
 
-பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் தெரிவித்ததை அடுத்து, தன்னுயடைய வேலையை ஆசிரியை இராஜினாமா செய்துள்ள சம்பவமொன்று கொல்கத்தாவில் இடம்பெற்றுள்ளது.
+A teacher named Sanjita Khadar resigned from LJD Law College in Kolkata after the administration asked her to remove her hijab from the workplace starting May 31st. She claimed this order violated her religious sentiments. The college denied any such restriction, stating it only aimed to maintain a balanced dress code without explicitly banning hijabs.
 
-கொல்கத்தாவில் உள்ள எல்ஜேடி சட்டக் கல்லூரியில் சுமார் மூன்று ஆண்டு காலம் பணியாற்றி வந்த சஞ்சிதா காதர் என்ற ஆசிரியை தனது பணியை இராஜினாமா செய்துள்ளார். பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் தெரிவித்ததாக அவர் குற்றச்சாட்டு வைத்துள்ளார்.
+🟩
 
-எல்ஜேடி சட்டக் கல்லூரி தனியார் கல்லூரியாகும். கொல்கத்தா பல்கலைக்கழகத்தின் கீழ் இயங்கி வருகிறது. இந்த கல்லூரியில் பணியாற்றி வந்த சஞ்சிதா காதரிடம் மே 31ஆம் திகதிக்கு பிறகு பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் சொல்லியதாக தெரிகிறது. அதையடுத்து ஜூன் 5 ஆம் திகதி தனது பணியை அவர் இராஜினாமா செய்தார்.
+There was an incident in Kolkata that the teacher had resigned from his work after the college administration had said that the hijab should not be worn for the workplace.
+
+Sanjita Khadar, a teacher who has been working for about three years at the LJD Law College, Kolkata, has resigned from his job.. He has accused the college administration of not wearing a hijab for the workplace.
+
+LJD Law College is Private College. Is operating under the University of Kolkata. The college administration seems to have told Sanjita Khadar, who worked at the college, not to wear a hijab after May 31st.. He then resigned from his work on June 5.
+
+He quit his work by claiming that the order of the college executive committee offended his religious sentiments. The college administration has denied the issue as the issue came to light among the people. It also said that there was no restriction on Sanjita to close her head in the workplace.
 
 ...
 
 [Data](articles/6c8e2cc7.json)
 
+[Extended Data](ext_articles/6c8e2cc7.ext.json)
+
 ---
 
-### කෙහෙළියගේ පෙත්සම වැඩිදුර සලකාබැලීමට දිනයක්
+### Day to Keheliya's petition to be considered further
 
 *2024-06-11 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197651) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ පෙත්සම වැඩිදුර සලකාබැලීම සඳහා ලබන 27 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+Keheliya Rambukwella's petition, related to a court order and a magistrate's directive regarding substandard goods, was heard by the Court of Appeal on November 11th, presided over by Mr. Shashi Mahendran.
 
-ඒ ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දුන් නියෝගයක් බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනු කළ පෙත්සමක් සම්බන්ධයෙනි.
+🟩
 
-මෙම පෙත්සම අද (11) අභියාචනාධිකරණ විනිසුරු ශෂී මහේන්ද්‍රන් මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The Court of Appeal ordered the petition filed by former Health Minister Keheliya Rambukwella to the 27th.
+
+In connection with the order of the courts, a petition filed by the Maligakanda Magistrate's directive decision to be remanded at the ceasefall of the presence of the pricing of the substandard.
+
+The petition was called before the Court of Appeal this petition today (11) before Mr. Shashi Mahendran.
 
 ◼️
 
 [Data](articles/feb406d6.json)
+
+[Extended Data](ext_articles/feb406d6.ext.json)
 
 ---
 
@@ -79,6 +93,8 @@ The High Court Judge further ruled that if the compensation is not paid, it will
 ◼️
 
 [Data](articles/4d114851.json)
+
+[Extended Data](ext_articles/4d114851.ext.json)
 
 ---
 
@@ -110,15 +126,21 @@ Mahesh Kumarasinghe, who said there was a risk of committing suicide, also told 
 
 ---
 
-### මලාවි උප ජනාධිපති ඇතුළු නව දෙනෙකු ගුවන් අනතුරකින් මරුට
+### Nine persons including Malawi Vice President kills a ceremony
 
 *2024-06-11 17:00:35* · [`adalk`](https://www.ada.lk/breaking_news/මලාවි-උප-ජනාධිපති-ඇතුළු-නව-දෙනෙකු-ගුවන්-අනතුරකින්-මරුට/11-410148) · `si`
 
-මලාවි රාජ්‍යයේ චිකාන්ගාවා වනාන්තරය ආශ්‍රිතව ඊයේ සිදු වූ ගුවන් යානා අනතුරකින් එරට උප ජනාධිපති සායුලොස් චිලිමා ඇතුළු නව දෙනෙකු මරණයට පත්වූ බව බලධාරීන් පවසයි. අනතුරින් පසුව අද දිනයේදී එම වනාන්තරයේ සිදුකළ දැවැන්ත සෝදිසියේදී අනතුරට ලක් වූ ගුවන් යානායේ සුන්බුන් හමුව තිබේ. මෙම ගුවන් යානය තුළ උප ජනාධිපති චිලිමාට අමතරව මලාවි හි හිටපු ජනපති බිරිඳ වන ෂානිල් සිම්බ්රිද සිටි බව සඳහන් වෙයි. චිලිමා 2014 වසරේ සිට මලාවිහි උප ජනාධිපතිවරයා ලෙස කටයුතු කලේය.
+In a tragic plane crash in Malawi, nine individuals including Vice President Solless Chilama were killed. Authorities discovered the wreckage in a dense forest, marking a significant loss.
+
+🟩
+
+Authorities claimed nine persons including Vice Presidential Solless Chilama, including a plane crash in Malawi forest. The aircraft was found in a massive lack of labor in the forest after the accident. In addition to the Vice President of Malawi, Sharnil Siration of Zhiil was. The Chilea was the Vice President of Malawi from 2014.
 
 ◼️
 
 [Data](articles/cf73ca9f.json)
+
+[Extended Data](ext_articles/cf73ca9f.ext.json)
 
 ---
 
@@ -1298,17 +1320,23 @@ Minister Sabry, during the meeting, brought to the attention of his Russian coun
 
 ---
 
-### IMF ණය වැඩසටහන: ශ්‍රී ලංකාව ඉටු කර නැත්තේ මොනවාද?
+### IMF Loan Program: What is not fulfilled in Sri Lanka?
 
 *2024-06-11 11:32:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrrgjp122mo) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) විස්තීරණ ණය පහසුකම යටතේ  තුන්වන ණය  වාරිකය ශ්‍රී ලංකාවට  ලබාදීම සඳහා වන සාකච්ඡාව හෙට (ජුනි 12 වැනිදා) පැවැත්වීමට  නියමිතය. මෙම සැසියේදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය ශ්‍රී ලංකාවට  තුන්වැනි ණය වාරිකය ලබාදීම ගැන තීරණය කරනු ඇත.
+Sri Lanka faces challenges in fulfilling its commitments under the IMF loan program, particularly in areas related to financial transparency, management, and corruption. Despite receiving two installments, 25% of commitments were unfulfilled by May 2024, with 15% not started, 41% ongoing, and 14% unknown. Key issues include lack of public documentation on financial matters and failures in accountability and transparency in public procurement. Failing to meet these obligations may hinder the release of the third loan installment.
 
-වැටී සිටින ආර්ථික බංකොලොත්භාවයෙන් මිදී නැවත ආර්ථික වශයෙන් ශක්තිමත් වීමට ශ්‍රී ලංකාව ජාත්‍යතර මූල්‍ය අරමුදල සමඟ ගිවිසුමකට එළැඹෙන්නේ පසුගිය වසරේ දීයි. ඒ අනුව මේ වන විට ශ්‍රී ලංකාව විස්තීරණ ණය පහසුකම යටතේ ණය වාරික දෙකක් ලබාගෙන තිබේ. මෙම ණය පහසුකම ලබා ගැනීමේ දී ශ්‍රී ලංකා රජය විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලට ඉටු කර පෙන්විය යුතු කොන්දේසි වලින් බහුතරයක් තවමත් ඉටු වී නොමැති බවට බොහෝ පාර්ශව අදහස් පළ කර තිබේ.
+🟩
+
+Discussion to deliver third loan installment to Sri Lanka under International Monetary Fund (IMF). In this session, the International Monetary Fund Executive will determine the third crop installment to Sri Lanka.
+
+Sri Lanka has an agreement with the International Monetary Fund to get back from the economic banking of the fallen economic bankruptcy last year. Accordingly, Sri Lanka has obtained two loan installments under the comprehensive credit facility. Many parties have not yet been fulfilled by the Government of Sri Lanka to be fulfilled by the Government of Sri Lanka to be fulfilled by the Government of Sri Lanka in obtaining this loan facility.
 
 ...
 
 [Data](articles/95530660.json)
+
+[Extended Data](ext_articles/95530660.ext.json)
 
 ---
 

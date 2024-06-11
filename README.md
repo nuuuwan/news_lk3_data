@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 19:04:08**
+As of **2024-06-11 19:19:13**
 
 ## Newspaper Stats
 
-*Scraped **29,823** Articles*
+*Scraped **29,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 279
 bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
-economynextcom | 1,701
+economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,558
 adaderanalk | 3,373
 tamilmirrorlk | 3,494
 virakesarilk | 4,562
-dailymirrorlk | 4,729
+dailymirrorlk | 4,730
 adaderanasinhalalk | 4,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,822 (100.0%) of 29,823 articles have been extended.
+29,823 (100.0%) of 29,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Sri Lanka to promote sea cucumber hatcheries due to demand: Minister
+
+*2024-06-11 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-promote-sea-cucumber-hatcheries-due-to-demand-minister-167502/) · `en`
+
+ECONOMYNEXT – Sri Lanka will establish more sea cucumber hatcheries to accommodate growing demand for the marine animal in the export market, Minister of Fisheries Douglas Devananda said.
+
+“There are three hatcheries established in Jaffna peninsula. Very soon we will establish in the other areas,” Devananda told reporters on Tuesday.
+
+“They are like black gold,” Devananda said. There are “a lot of farms, especially in the Northern Province. We are getting foreign exchange too.”
+
+The invertebrate found on the sea floor is not commonly consumed by Sri Lankans, so they are being exported to countries like China, Devananda said.
+
+“Sea cucumber, especially our people, they are not eating, it is in China, they are eating.”
+
+Last year the Department of Fisheries and Aquatic Resources told EconomyNext that a kilo of sea cucumber is valued at 20,000-30,000 rupees.
+
+Devananda proposed the establishment of hatcheries as an alternative to catching wild sea cucumbers. (Colombo/Jun11/2024)
+
+◼️
+
+[Data](articles/2a7e1322.json)
+
+---
+
+### Ferry service between Bangladesh and Sri Lanka in the offing
+
+*2024-06-11 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ferry-service-between-Bangladesh-and-Sri-Lanka-in-the-offing/108-284618) · `en`
+
+June 11 - Prime Minister Sheikh Hasina of Bangladesh and President Ranil Wickremesinghe of Sri Lanka have initiated discussions on a free trade agreement (FTA) and the potential launch of a passenger ferry service between the two countries.
+
+This was conveyed during the recent meeting between President Ranil Wickremesinghe and Sheikh Hasina in New Delhi on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi.
+
+Sheikh Hasina has also aledged support for Sri Lanka's agricultural modernization and expressed willingness to provide assistance through direct private investment partnerships from Bangladesh to Sri Lanka.
+
+...
+
+[Data](articles/311ed1d0.json)
+
+---
+
+### Sri Lanka looks for investment for ship building, repairing in Oluvil commercial harbour
+
+*2024-06-11 18:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-for-investment-for-ship-building-repairing-in-oluvil-commercial-harbour-167518/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking for private investments including from foreigners to resume operations with options of ship building and ship repairing in its state-owned Eastern port in Oluvil which consists of a commercial and fisheries port, Fisheries Minister Douglas Devananda said.
+
+The port, located in Sri Lanka’s Eastern district of Ampara, was opened in 2013 after being constructed for five years, but accumulation of sand dunes at the entrance to the harbour had has made vessels inaccessible.
+
+The port has been closed down for nearly a decade effected the livelihoods of nearly 100,000 people who had no option but to look for other employments.
+
+Minister Devananda said an initial meeting was held on Tuesday (11) with all the stakeholders including officials from Sri Lanka Ports Authority, Navy, people in the area, and professionals.
+
+...
+
+[Data](articles/a02fd6fe.json)
+
+---
 
 ### Malawi Vice President of Malawi dies
 
@@ -134,6 +192,26 @@ The proposal for energy charges for the Domestic sector, Religious sector, Gener
 
 ---
 
+### Sri Lanka planters demand justice after Minister storms estate, drunken gang takes staff hostage
+
+*2024-06-11 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-planters-demand-justice-after-minister-storms-estate-drunken-gang-takes-staff-hostage-167504/) · `en`
+
+ECONOMYNEXT – Managers of Sri Lanka’s private plantations have called for justice after a cabinet minister stormed an estate demanding the re-instatement of suspended workers who had assaulted people involved in crop diversification.
+
+Plantations Infrastructure Minister Jeevan Thondaman entry to an estate and threats against Kelani Valley Plantations staff were broadcast over national TV and social media.
+
+Minister Thondaman and a drunken gang had stormed Pedro Estate of Kelani Valley Plantations where the firm’s Chief Executive had gone after a meeting at the Nuwara Eliya Assistant Comissioner of Labour, the Planters’ Association said in a statement.
+
+Sri Lanka’s Television stations had also broadcast visuals of Minister Thondaman shouting and making staff at a factory stop work and leave.
+
+Previously, a gang had surrounded the Labour Office where a meeting was taking place regarding the suspended workers, the PA said.
+
+...
+
+[Data](articles/d83424cb.json)
+
+---
+
 ### SLC announces Women’s squad for West Indies series
 
 *2024-06-11 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-announces-Womens-squad-for-West-Indies-series/108-284614) · `en`
@@ -196,6 +274,26 @@ The petition was called before the Court of Appeal this petition today (11) befo
 
 ---
 
+### Jaishankar to visit Sri Lanka ahead of Indian Prime Minister: President
+
+*2024-06-11 17:17:00* · [`economynextcom`](https://economynext.com/jaishankar-to-visit-sri-lanka-ahead-of-indian-prime-minister-president-167497/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said Indian Minister of External Affairs S Jaishankar will visit the island ahead of a visit by Prime Minister Narendra Modi.
+
+Wickremesinghe who was in India to attend Modi’s swearing in ceremony met with Jaishankar and congratulated him on his appointments.
+
+“He expressed plans to visit Sri Lanka soon to oversee progress and coordinate Prime Minister Modi’s visit,” Wickremesinghe said on social media platform X (twitter).
+
+“We discussed resuming development projects with Indian investments, India’s “Neighbourhood First” policy, and plans for an industrial zone in Trincomalee.
+
+“I informed him about the new Economic Transformation Act, the Truth and Reconciliation Bill, and updates on agricultural modernisation and fishermen’s issues.” (Colombo/June11/2024)
+
+◼️
+
+[Data](articles/e1f54d2f.json)
+
+---
+
 ### Severe weather warning for rough seas, strong winds
 
 *2024-06-11 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Severe-weather-warning-for-rough-seas-strong-winds/108-284610) · `en`
@@ -218,6 +316,24 @@ In addition to the marine warning, significant rainfall is expected at times in 
 
 ---
 
+### India should act strictly on fishermen poaching, bottom trawling in Sri Lankan sea: Minister
+
+*2024-06-11 17:07:00* · [`economynextcom`](https://economynext.com/india-should-act-strictly-on-fishermen-poaching-bottom-trawling-in-sri-lankan-sea-minister-167490/) · `en`
+
+ECONOMYNEXT – India and its Southern Tamil Nadu state should take strict actions against their fishermen who encroach into and involved in illegal fishing in Sri Lankan seas with the usage of banned bottom trawler methods, the island nation’s Fisheries Minister Douglas Devananda said.
+
+Sri Lanka has seen bottom trawling by Indian fishermen during the peak fishing season in Sri Lanka’s northern waters off Jaffna. Bottom trawling is banned by Sri Lanka and is a punishable offense, which has led to arrest of a raft of Indian fishermen along with their bottom trawlers.
+
+Depletion of fish resources in the Northern sea in the face of continuous Indian bottom trawling, a method of banned fishing that involves dragging heavy weighted nets across the sea floor, has pushed some Northern fishermen to take up Chinese funded sea cucumber farming.
+
+Sri Lanka’s North is just 27 km from the South Indian state of Tamil Nadu.
+
+...
+
+[Data](articles/3d59306a.json)
+
+---
+
 ### Taxi driver sentenced to 10 years RI for raping underage girl
 
 *2024-06-11 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99808/taxi-driver-sentenced-to-10-years-ri-for-raping-underage-girl) · `en`
@@ -235,6 +351,28 @@ The High Court Judge further ruled that if the compensation is not paid, it will
 [Data](articles/4d114851.json)
 
 [Extended Data](ext_articles/4d114851.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 303.50/75 to US dollar
+
+*2024-06-11 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-50-75-to-us-dollar-167493/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee weakened further to close at 303.50/75 to the US dollar on Tuesday, from 303.20/50 to the dollar the previous week, dealers said. Bond yields were up ahead of the auction.
+
+A bond maturing on 15.12.2026 closed at 10.15/25 percent, up from 9.95/10.10 percent.
+
+A bond maturing on 15.09.2027 closed at 10.75/90 percent, up from 10.45/65 percent.
+
+A bond maturing on 01.07.2028 closed at 11.10/25 percent, up from 10.95/11.10 percent.
+
+A bond maturing on 15.05.2030 closed at 11.85/95 percent, up from 11.70/85 percent.
+
+A bond maturing on 01.10.2032 closed at 11.95/12.10 percent up from 11.90/12.00 percent. (Colombo/Jun11/2024)
+
+◼️
+
+[Data](articles/8a496ef9.json)
 
 ---
 
@@ -305,6 +443,28 @@ The Career Proceeding will be launched after the completion of the schools to im
 [Data](articles/0f02712d.json)
 
 [Extended Data](ext_articles/0f02712d.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Hayleys top traded
+
+*2024-06-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hayleys-top-traded-167491/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.11 percent, or 13.50 points, at 12,394; while the more liquid S&P SL20 Index closed up 0.13 percent, or 4.74 points, at 3,687.
+
+Turnover was 3.7 billion. A large part of this came from capital goods sector stocks (Rs1.9bn), particularly Hayleys Plc (Rs1bn). The share closed up at 105.25.
+
+John Keells Holdings Plc also saw higher trade volumes (Rs531mn), and closed flat at 204.00.
+
+Power sector stocks Windforce Plc (up at 19.70) and Vidullanka Plc (up at 9.50) announced it had signed a power purchase agreement for the development of a 10mw Vavunathivu II solar power plant in Batticaloa, together with HiEnergy Services (Pvt) Ltd.
+
+The joint venture is expected to attract a total investment of approximately 2.2 billion rupees, the company said in a stock exchange filing.
+
+...
+
+[Data](articles/ed0fa812.json)
 
 ---
 
@@ -562,6 +722,26 @@ Investigations have revealed that they were also taken into custody by the Kanqu
 
 ---
 
+### Sri Lanka’s CEB submits electricity price revision to PUCSL
+
+*2024-06-11 15:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-submits-electricity-price-revision-to-pucsl-167451/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera has said that the state power utility, the Ceylon Electricity Board, had submitted its proposal on Friday to the Public Utilities Commission of Sri Lanka (PUCSL) for the tariff revision from July 2024.
+
+The domestic usage 31-60 category saw the steepest reduction of 55 percent with the unit price coming down from 20 rupees to 9 rupees.
+
+“Accordingly the proposal for further reductions on energy charges for the Domestic sector, Religious sector, General Purpose & Government Buildings sectors are as follows,” Wijesekera said on social media platform X (twitter) listing the breakdown.
+
+“PUCSL will determine the final tariffs after evaluation of the proposal and the public consultation.”
+
+The Government has said its policy is to revise electricity tariffs quarterly every year. (Colombo/Jun11/2024)
+
+◼️
+
+[Data](articles/91d300bf.json)
+
+---
+
 ### Former Weligama PS Chairman remanded for disrupting police duties
 
 *2024-06-11 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99804/former-weligama-ps-chairman-remanded-for-disrupting-police-duties) · `en`
@@ -618,6 +798,24 @@ Representatives from the Ministry of Finance and the Central Bank concurred, not
 
 ---
 
+### Constitutional Error Could Give Ranil and Parliament Another Year
+
+*2024-06-11 15:40:00* · [`economynextcom`](https://economynext.com/constitutional-error-could-give-ranil-and-parliament-another-year-167442/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s constitution could allow President Ranil Wickremesinghe to extend his tenure by almost a year due to a mistake in the constitution that has been overlooked since the 19th Amendment in April 2015.
+
+The sweeping 19th Amendment sought to establish democratic reforms, ensure good governance, and shorten the terms of both the president and parliament to five years. However, it neglected to ensure consistency regarding tenure.
+
+While all references to the six-year terms of both the president and parliament were changed to five years in line with the 19th Amendment, Article 83(b) was overlooked and left unchanged, giving President Wickremesinghe a loophole to extend his term.
+
+Any bill to extend the five-year term of the president or parliament requires approval in parliament with a two-thirds majority, followed by endorsement at a referendum.
+
+...
+
+[Data](articles/70eb64d6.json)
+
+---
+
 ### The plane that was traveling in the middle of the night was caught in the rain!
 
 *2024-06-11 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
@@ -669,6 +867,28 @@ He said that it would prevent the purchase of LPL groups inappropriate parties.
 [Data](articles/bc1b7862.json)
 
 [Extended Data](ext_articles/bc1b7862.ext.json)
+
+---
+
+### Sri Lanka’s MAS Holdings signs agreement to buy Ambercycle material
+
+*2024-06-11 15:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-mas-holdings-signs-agreement-to-buy-ambercycle-material-167441/) · `en`
+
+ECONOMYNEXT – Sri Lanka-based apparel manufacturer MAS Holdings has signed a three-year agreement with Los Angeles-based materials company Ambercycle to buy its recycled material.
+
+Ambercycle’s polyester material, cycora®, is made from post-consumer and post-industrial textile waste.
+
+Made through molecular regeneration technology, cycora yields the same quality as virgin-grade materials, but with lesser greenhouse gas emissions, the companies said in a statement.
+
+It reduces landfill and the need to incinerate end-of-life textiles.
+
+This circular method is in demand among large brands and manufacturers looking for new streams of high-quality next-gen materials made from recycling, or textile-to-textile regeneration as it is known in the industry.
+
+“Together with Ambercycle, MAS is enabling better access to regenerated next-gen material for our customer partners,” MAS Holdings Director of Group Sustainable Business, Nemanthie Kooragamage said.
+
+...
+
+[Data](articles/30986f23.json)
 
 ---
 
@@ -872,6 +1092,22 @@ Starting this year, the A/L examination, which has typically been held in Novemb
 
 ---
 
+### Sajith on sharing police, land powers: Will implement “13; not 13 minus or 13 plus”
+
+*2024-06-11 14:01:00* · [`economynextcom`](https://economynext.com/sajith-on-sharing-police-land-powers-will-implement-13-not-13-minus-or-13-plus-167430/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa who said he, as president, would implement the 13th amendment to the constitution, said on Monday that it would be “13; not 13 minus or 13 plus”, when asked about sharing police and land powers.
+
+The privately owned Swarnavahini television network showed Premadasa, at the end of a round of discussions with representatives of the Ilankai Thamil Arasu Kachchi (ITAK) in Jaffna Monday June 11 morning, responding to questions about his pledge of implementing the amendment.
+
+Asked about land and police powers, Permadasa sadi: “We will move forward the implementation process of the 13th amendment. This amendment is not something new that fell from the sky. It is something that exists in the constitution.  In implementing it, we must create a roadmap on how we efficiently, systematically in an orderly way and implement it. When I spoke of the 13th amendment, I was talking of 13 and not of 13 minus or 13 plus. It was about 13 that I spoke.”
+
+...
+
+[Data](articles/5758adc5.json)
+
+---
+
 ### Anurakumara met the members of the Sri Lanka Tamil National Party in Jaffna
 
 *2024-06-11 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185815) · `ta`
@@ -1007,6 +1243,26 @@ The green electricity generation has been produced by the Green Electricity gene
 [Data](articles/7638844c.json)
 
 [Extended Data](ext_articles/7638844c.ext.json)
+
+---
+
+### Sri Lanka drafts patient safety and well-being charter
+
+*2024-06-11 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafts-patient-safety-and-well-being-charter-167421/) · `en`
+
+ECONOMYNEXT – Sri Lanka has prepared a Charter to ensure patient safety and well-being, compiled by a panel of experts on the advice and guidance of the World Health Organization.
+
+It focuses on institutional standards, stakeholder roles, and alignment with existing strategies to enhance patient safety nationwide, the WHO in Sri Lanka said.
+
+“Sri Lanka is leading the way in initiating the process for a legal framework specifically addressing Patients’ Safety and Wellbeing in a Charter that captures the rights of the patients, and the responsibilities of the health care workers, the government, and the patients,” WHO Sri Lanka said on X (twitter).
+
+If implemented, it would be the first such to ensure the safety and well-being of patients in the South Asian region, Sri Lanka’s parliament said in a statement.
+
+It was prepared by a sub-committee of the Parliamentary sectoral oversight committee on health in consultation with experts.
+
+...
+
+[Data](articles/fa9dc3b5.json)
 
 ---
 
@@ -1344,21 +1600,49 @@ In the article, it is mentioned in the article that congratulations on this succ
 
 ---
 
-### රත්නපුර හිටපු දිසාපතිවරිය, පොලිසිය හා යුද හමුදාව ශ්‍රේෂ්ඨාධිකරණය හමුවේ මාධ්‍යවේදියෙකුගෙන් සමාව ගනී
+### The police and the police and the Army apologizes from the Supreme Court
 
 *2024-06-11 12:20:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7223ljmy9do) · `si`
 
-රත්නපුර හිටපු දිසාපතිවරිය, පොලිසිය හා යුද හමුදාව ශ්‍රේෂ්ඨාධිකරණය හමුවේ මාධ්‍යවේදියෙකුගෙන් සමාව ගනී
+In a case involving a journalist attacked by police and army personnel, the Supreme Court received apologies from both entities. The incident occurred when the journalist visited the Ratnapura Government Agent's office. Following the resolution of the dispute, no further actions were taken against the court. The journalist, Sarath Wimalaratne, initiated the case, highlighting the brutality of the attack and his subsequent detention. The Supreme Court's intervention led to the forgiveness of the involved parties, including a military member assaulted by police officers. This case underscores the importance of judicial oversight in ensuring accountability for such incidents.
 
-රත්නපුර දිසාපති කාර්යාලය තුළට හිස් වැසුමක් පැළඳ ඇතුළු වූයේ යැයි චෝදනා කරමින් රත්නපුර පොලිසියේ කොස්තාපල්වරයෙකු සහ කුරුවිට හමුදා කඳවුරේ සාමාජිකයෙකු  මාධ්‍යවේදියෙකුට පහර දීමේ සිද්ධිය සම්බන්ධයෙන් රත්නපුර එවක දිසාපතිවරිය, රත්නපුර පොලිසියේ එවක ස්ථානාධිපතිවරයා ඇතුළු පිරිසක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ අද (ජුනි 11 වැනිදා) එම මාධ්‍යවේදියාගෙන් විවෘත අධිකරණයේදී වැඳ සමාව ගත්හ.
+🟩
 
-ඒ අනුව අදාළ ආරවුල සමථයට පත් කෙරුණු අතර පෙත්සම්කාර මාධ්‍යවේදියාට එරෙහිව මහේස්ත්‍රාත් අධිකරණය හමුවේ ගොනුකර තිබූ නඩුකරය ඉල්ලා අස්කර ගන්නා බවත් පෙත්සම්කරුට ඉදිරියේදී කිසිදු ක්‍රියා මාර්ගයක් නොගන්නා බවත් වග උත්තරකාර පොලිස් නිලධාරීහූ අධිකරණය හමුවේ එකඟතාවය පළ කළහ.
+The police and the police and the Army apologizes from the Supreme Court
 
-මාධ්‍යවේදී සරත් විමලරත්න ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක්  මුර්දු ප්‍රනාන්දු සහ මහින්ද සමයවර්ධන යන විනිසුරු මඩුල්ල ඉදිරියේ අද කැඳවන ලැබුණි
+Ratnapura police constable and the OIC of Ratnapura Police, Ratnapura and several others to attack a journalist in the Supreme Court regarding the attack on the Ratnapura Government Agent's office..
+
+Accordingly, the dispute has been resolved and the petitioner has not taken any action against the petitioner court against the petitioner's court.
+
+The panel of judges filed by journalist Sarath Wimalaratne called on the judge of the panel of judges and Mahinda Samayawardena
+
+The respondents were prepared to pardon the petitioner, who appeared before the Supreme Court in courts who appeared in behalf of the respondents.
+
+The former Government Agent of Ratnapura Namadu OIC, OIC of the Petition, is OIC, OIC of the Anuradhapura Police Station, Eighty Police OIC, Eastern Police OIC, Ratnapura journalist in the Kuruwita Army.The host was forgiven.
 
 ...
 
 [Data](articles/26f55949.json)
+
+[Extended Data](ext_articles/26f55949.ext.json)
+
+---
+
+### Russia to stop recruiting Sri Lankans for Ukraine war: FM after meeting Lavrov
+
+*2024-06-11 12:20:00* · [`economynextcom`](https://economynext.com/russia-to-stop-recruiting-sri-lankans-for-ukraine-war-fm-after-meeting-lavrov-167387/) · `en`
+
+ECONOMYNEXT – No more Sri Lankan military personnel will be recruited by Russia for the war against Ukraine, the island nation’s Foreign Minister Ali Sabry said after meeting with his Russian counterpart Sergey Lavrov in the central Russian city of Nizhny Novgorod.
+
+Sabry had a bilateral meeting with Lavrov at the BRICS 2024 Foreign Ministerial Session with developing countries in Russia, on June 10.
+
+“We reviewed our bilateral relationship, agreed to enhance cooperation, and addressed issues concerning ex-Sri Lankan servicemen in the Russian military. No further recruitment of ex-servicemen for combat duties will occur,” Sabry said on his social media page on X (twitter).
+
+“Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them,” the Sri Lankan Embassy in Moscow said in a statement.
+
+...
+
+[Data](articles/650527d5.json)
 
 ---
 
@@ -2043,345 +2327,5 @@ Addressing a media briefing at the President's Media Center, Minister Bandula Gu
 [Data](articles/346b4ec9.json)
 
 [Extended Data](ext_articles/346b4ec9.ext.json)
-
----
-
-### Bus - van terrible accident
-
-*2024-06-11 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197628) · `si`
-
-In a tragic accident on the Hatton-Colombo road, two buses and a van collided, resulting in severe damage and hospitalization of several passengers. The incident occurred around 7:30 pm, involving a van speeding in the wrong direction and colliding head-on with a bus traveling from Kandy to Hatton. The van's driver and another passenger were critically injured. Passengers quickly assisted the trapped victims, urging them to exit through the van's front door. The police advise caution due to the road's slick conditions.
-
-🟩
-
-Two buses and a van have been admitted to the face of a van and hospitalized.
-
-The accident had occurred at the Hatton - Colombo main road around 7.30 pm today.
-
-The driver of the van and another were hospitalized after injuring the accident.
-
-A private bus traveling from Kandy to Hatton and a van traveling from Hatton to Hatton has been reported.
-
-The accident had occurred when the high fast-run van was on the opposite direction of Lissa.
-
-Passers of the van driver and another in the accident were trapped in the front seat and opened the door of the van and directed the injured.
-
-According to our correspondent, the bus and the van had severely damaged.
-
-The Ginigathena police call on the drivers to take care of traffic in the area, as the Hatton-Colombo main road is slippery.
-
-◼️
-
-[Data](articles/a9f943cc.json)
-
-[Extended Data](ext_articles/a9f943cc.ext.json)
-
----
-
-### Recovery of New Frequently Stolen Wealth
-
-*2024-06-11 09:27:40* · [`adalk`](https://www.ada.lk/opinion/අලුත්-නිති-හදලා-හරි-හොරකම්-කළ-ධනය-නැවත-අයකර-ගන්නවාමයි/2-410131) · `si`
-
-Sunil Handunnetti, former COPE Chairman, criticized the government for corruption and mismanagement, highlighting issues like debt, poor investments, and lack of action against corruption. He emphasized the need for accountability, efficient use of funds, and tackling corruption to improve the economy and public services.
-
-🟩
-
-"Members do not need pension, we say that we are responsible for the release of the government and to assume the work of work.There is a bribery or corruption, the Bribery or Corruption Act, that has not been ambiguous if you don't have to re-overlay, but will not work."Former COPE Chairman, National Executive Member of the National Power and Economic Council Sunil Handunnetti said.
-
-...
-
-[Data](articles/8688ae17.json)
-
-[Extended Data](ext_articles/8688ae17.ext.json)
-
----
-
-### Aircraft carrying Malawi vice-president goes missing
-
-*2024-06-11 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Aircraft-carrying-Malawi-vice-president-goes-missing/107-284573) · `en`
-
-June 11 (BBC) - An aircraft carrying Malawi's Vice-President Saulos Chilima and nine others has gone missing, a statement from the president's office has said.
-
-The Malawi Defence Force aircraft "went off the radar" after it left the capital, Lilongwe, on Monday morning, it added.
-
-The plane was supposed to land at Mzuzu International Airport, in the country’s north, just after 10:00 local time (09:00 BST).
-
-In a speech late on Monday, President Lazarus Chakwera said a search and rescue operation was continuing.
-
-"Soldiers are still on the ground carrying out the search and I have given strict orders that the operation should continue until the plane is found," he said, adding that it was a "heart-breaking situation".
-
-"I know that we are all frightened and concerned - I too am concerned. But I want to assure you that I am sparing no available resource to find that plane and I am holding onto every fibre of hope that we will find survivors."
-
-...
-
-[Data](articles/6c69af07.json)
-
-[Extended Data](ext_articles/6c69af07.ext.json)
-
----
-
-### Vice President of Malawi
-
-*2024-06-11 09:21:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலாவி-நாட்டு-துணை-ஜனாதிபதி-பயணித்த-விமானம்-மாயம்/175-338743) · `ta`
-
-Saulos Class Chilea Chilima, the Vice President of Malawi, has gone missing. His plane, departing from Lilangwe, vanished from radar shortly after takeoff. A search and rescue mission has been launched, but the aircraft remains untraceable.
-
-🟩
-
-Malawi Vice President Saulos Class Chilea Chilima has disappeared, according to international reports.
-
-The Malawi Security Force plane, which departed from Lilangwe, the capital of the southeastern African country of Malawi, left the Radar yesterday morning with Vice President Saulos Class Chilea (51), said in a statement issued by the President's Office.
-
-“All the efforts of the pilgrims have failed to contact the aircraft since leaving the radar,” the Malawi President's Office and Cabinet said.
-
-The search and rescue mission started after aircraft experts were unable to find the aircraft. The flight departed at 9:17 am and landed at the Mzuzu International Airport at 10:02 am, but the plane left the radar.
-
-◼️
-
-[Data](articles/6f9fad56.json)
-
-[Extended Data](ext_articles/6f9fad56.ext.json)
-
----
-
-### Sri Lanka is among the best countries to visit the world
-
-*2024-06-11 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197627) · `si`
-
-Sri Lanka, along with Greece and Morocco, tops Forbes' list for must-visit destinations in 2024, despite facing economic challenges. Known for its lush highlands, stunning coastlines, and 22 national parks, it offers unparalleled luxury for tourists. The report advises avoiding Europe this summer due to its popularity among American travelers, who received 24 million passports in 2022 and 2023, indicating a significant international travel surge.
-
-🟩
-
-Sri Lanka is among the world's best countries in the world.
-
-According to a latest report published by the Forbes magazine, Sri Lanka, Greece and Morriris, have been named as three countries in the world to visit the 2024 summer.
-
-In the first quarter of this year, about 285 million people were internationally.
-
-For the next few months, a large number of Americans will travel internationally and during the year 2022,2023 alone, the US State Department has issued 24 million passports.
-
-Forbes magazine also pointed out that tourists should stay away from Europe in the summer this year.
-
-The report states that Sri Lanka, Greece and Morrize, can be introduced as the destination for travel.
-
-Sri Lanka is an island of lush highlands and amazing coastal stars, and the fob magazine points out that there is a similar tourist attraction.
-
-The luxury facilities available for tourists is in Sri Lanka and 22 national parks have been achieved in Sri Lanka.
-
-...
-
-[Data](articles/23079db5.json)
-
-[Extended Data](ext_articles/23079db5.ext.json)
-
----
-
-### Future government under Sajith to implement 13th Amendment
-
-*2024-06-11 09:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Future-government-under-Sajith-to-implement-13th-Amendment/108-284609) · `en`
-
-A government under him in the future will be committed to implementing the 13th Amendment to the Constitution, Opposition Leader Sajith Premadasa said recently.
-
-During the donation of a smart classroom to the Bharathipuram Maha Vidyalayam in Kilinochchi under the 'Sakwala' programme, he stated that many politicians visit Sinhalese communities, claiming to support only them, and then visit Tamil areas, making similar claims. This tactic is used to gather votes.
-
-"While other parties spread lies in different areas, the Samagi Jana Balavegaya (SJB) consistently advocated for implementing the 13th Amendment to the Constitution. We made this commitment across all provinces and remain determined to see it through.
-
-"When discussing the 13th Amendment, some look away, some pretend not to hear, some chang the subject, some run away in fear, and some feel ashamed. I must say that all of them are political opportunists." he said.
-
-◼️
-
-[Data](articles/dd23ad69.json)
-
-[Extended Data](ext_articles/dd23ad69.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-11 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99794/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces.
-
-Showers or thundershowers may occur at a few places in Uva province in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/347bae53.json)
-
-[Extended Data](ext_articles/347bae53.ext.json)
-
----
-
-### Some places are expected of heavy rainfall
-
-*2024-06-11 09:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-ஓரளவு-பலத்த-மழைவீழ்ச்சி-எதிர்பார்க்கப்படுகின்றது/175-338742) · `ta`
-
-Heavy rainfall is predicted for the Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara, with over 75mm expected in some areas. Thunderstorms and strong winds up to 40-50km/h are also anticipated in various regions, advising caution against lightning impacts.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-More than 75 mm of heavy rainfall is expected in some places in the Western and Sabaragamuwa provinces and Nuwara Eliya district.
-
-In some places in Uva province, there is a possibility of rainfall or thunderstorms in the evening or at night.
-
-Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/ae00a5b4.json)
-
-[Extended Data](ext_articles/ae00a5b4.ext.json)
-
----
-
-### SA on brink of Super 8s with tense win over Bangladesh
-
-*2024-06-11 09:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SA-on-brink-of-Super-8s-with-tense-win-over-Bangladesh/108-284568) · `en`
-
-New York, June 11 (BBC) - Heinrich Klaasen hit a vital 46 as South Africa claimed a nervy four-run victory over Bangladesh that put them on the brink of securing a place in the T20 World Cup Super 8s.
-
-A combination of the pitch, poor shot selection and good bowling from Bangladesh saw South Africa teetering on 23-4 after they won the toss, as Tanzim Hasan Sakib snaffled 3-18.
-
-Klaasen hit three fours and two sixes in his 44-ball innings as he shared a 79-run partnership with the dependable David Miller to help South Africa recover to compile a defendable 113-6.
-
-Bangladesh made a decent fist of the run chase and at 94-4 with three overs remaining were probably slight favourites.
-
-However, when Kagiso Rabada took the key wicket of Towhid Hridoy for 37 the momentum swung back to the Proteas.
-
-...
-
-[Data](articles/034bfcb0.json)
-
-[Extended Data](ext_articles/034bfcb0.ext.json)
-
----
-
-### Aircraft carrying Malawi vice-president goes missing
-
-*2024-06-11 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99793/aircraft-carrying-malawi-vice-president-goes-missing) · `en`
-
-An aircraft carrying Malawi’s Vice-President Saulos Chilima and nine others has gone missing, a statement from the president’s office has said.
-
-The Malawi Defence Force aircraft “went off the radar” after it left the capital, Lilongwe, on Monday morning, it added.
-
-The plane was supposed to land at Mzuzu International Airport, in the country’s north, just after 10:00 local time (09:00 BST).
-
-In a speech late on Monday, President Lazarus Chakwera said a search and rescue operation was continuing.
-
-“Soldiers are still on the ground carrying out the search and I have given strict orders that the operation should continue until the plane is found,” he said, adding that it was a “heart-breaking situation”.
-
-“I know that we are all frightened and concerned - I too am concerned. But I want to assure you that I am sparing no available resource to find that plane and I am holding onto every fibre of hope that we will find survivors.”
-
-...
-
-[Data](articles/fbbeeccc.json)
-
-[Extended Data](ext_articles/fbbeeccc.ext.json)
-
----
-
-### Falling from the bridge, one dies;The incident
-
-*2024-06-11 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185795) · `ta`
-
-In Ratnapura, a 33-year-old woman from Kiriella fell from a bridge and died.
-
-🟩
-
-One person died after falling from a bridge in the Kiriella area in Ratnapura.
-
-A 33 -year -old woman from Kiriella has died, police said.
-
-◼️
-
-[Data](articles/3a044568.json)
-
-[Extended Data](ext_articles/3a044568.ext.json)
-
----
-
-### Sri Lanka’s CPC makes Rs120bn profit in 2023 after Rs884bn tax-payer injection
-
-*2024-06-11 08:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-makes-rs120bn-profit-in-2023-after-rs884bn-tax-payer-injection-167299/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has made profits of 120.3 billion rupees, helped by a 20 billion forex gain and a lower interest bill, compared to 617 billion rupees when the currency collapsed in the previous year.
-
-In 2022, CPC posted a loss of 617.5 billion rupees, with 529.4 billion rupees coming the rupee was busted through un-anchored policy operated by macroeconomists to enforce rate cuts and a failed attempt to float the currency with a surrender rule in place.
-
-A surrender rule involves pegging (a strong side convertibility undertaking).
-
-The CPC had accumulated large volumes of debt by converting suppliers import bills taken during times of forex shortages triggered by central bank money printing to suppress rates for flexible inflation targeting/potential output targeting.
-
-The CPC has made losses and run up large debts including in 2018, when fuel was market prices as the rupee collapsed when money was printed for flexible inflation targeting.
-
-...
-
-[Data](articles/9fb471e7.json)
-
-[Extended Data](ext_articles/9fb471e7.ext.json)
-
----
-
-### Racketeer to mark flooded chickens
-
-*2024-06-11 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197626) · `si`
-
-The Consumer Affairs Authority warns against purchasing flooded chickens due to health risks. Director Sanjaya Iasinghe highlights that unwholesome chickens are being sold in markets, advising consumers to avoid them. Flooded chickens, especially those dyed white but found to be red, may harbor germs that survive high temperatures during cooking. Authorities are conducting nationwide raids to tackle this issue, urging the public to report any suspicious activity related to these chickens.
-
-🟩
-
-The Consumer Affairs Authority (CAA) says that a large number of these days should be paid these days when buying chicken.
-
-The Director of the raids and investigation department, Sanjaya Iasinghe said that the deceased chickens fall into the market these days in the market.
-
-Sanjaya Iasinghe says that the consumption of such chicken is adverse to the body.
-
-"Floods caught chickens and cleaned and received information about a racket sold. We were in the rekariu these days. Toward raids. Doing this throughout the island. Check out about this in chicken. Especially chickens that make it white. These chickens are red. The germs may not die for how temperature is steamed. If you find information about this, report to the Consumer Affairs Authority. "
-
-"He stores very much in the Kelani River. In Yutubeb and Facebook, where the floods have caught online. Don't get caught up. These are not prepared for consumption. Please be informed of this at 1977. "
-
-◼️
-
-[Data](articles/1bf3d003.json)
-
-[Extended Data](ext_articles/1bf3d003.ext.json)
-
----
-
-### Sri Lanka's computer and digital literacy goes up
-
-*2024-06-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197625) · `si`
-
-Sri Lanka's computer literacy rose to 39% in 2023, with 63.5% having basic skills. Urban areas show higher literacy rates, peaking at 52.9%. The Western Province leads, followed by the Eastern Province.
-
-🟩
-
-The computer literacy of Sri Lanka has increased to 39 percent, said the Department of Census and Statistics.
-
-According to the computer literacy survey of 2023, two of the five people between the 5 and 69 years of Sri Lanka have computer literacy.
-
-The Department of Census and Statistics indicate that three of five people have 63.5 percent.
-
-20.2 percent of Sri Lanka's families use decoust or laptops, and the urban people have increased in the computer and digital literateness of the urban people.
-
-By 2023, Sri Lanka's computer literacy has risen by 4.7 percent, with 52.9 percent of the highest computer literacy.
-
-The Western Province has the highest computer literacy and there is a computer literacy in the Eastern Province, the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/53c4d010.json)
-
-[Extended Data](ext_articles/53c4d010.ext.json)
 
 ---

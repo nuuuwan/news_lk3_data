@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 19:52:42**
+As of **2024-06-11 20:05:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,839 (100.0%) of 29,840 articles have been extended.
+29,840 (100.0%) of 29,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,8 @@ Presidential Additional Secretary Vernon Perera serves as the secretary of the s
 ...
 
 [Data](articles/9c5bb2bf.json)
+
+[Extended Data](ext_articles/9c5bb2bf.ext.json)
 
 ---
 

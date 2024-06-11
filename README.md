@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 13:04:35**
+As of **2024-06-11 13:19:18**
 
 ## Newspaper Stats
 
-*Scraped **29,761** Articles*
+*Scraped **29,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
 adalk | 2,545
-adaderanalk | 3,365
+adaderanalk | 3,366
 tamilmirrorlk | 3,487
-virakesarilk | 4,554
+virakesarilk | 4,557
 dailymirrorlk | 4,716
-adaderanasinhalalk | 4,791
+adaderanasinhalalk | 4,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,760 (100.0%) of 29,761 articles have been extended.
+29,761 (100.0%) of 29,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### ඩෙංගු අධි අවදානම් තත්ත්වය ඉහළට
+
+*2024-06-11 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197639) · `si`
+
+පවතින වැසි සහිත කාලගුණික තත්ත්වයත් සමඟ ඩෙංගු අධි අවදානම් කලාප සංඛ්‍යාව ඉහළ ගොස් තිබේ.
+
+පසුගිය දිනවල පැවති අධික වර්ෂාපතනයත් සමග ඩෙංගු රෝගීන් වාර්තා වීම ද ශීඝ්‍රයෙන් ඉහළ ගොස් ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+
+මෙම මස ගත වු දින 11 තුළ පමණක් ඩෙංගු රෝගීන් 971 දෙනෙකු වාර්තා වී ඇති අතර මේ දක්වා දිවයිනෙන් වාර්තා වී ඇති ඩෙංගු රෝගීන්ගේ ගණන 25,891කි.
+
+මෙම කාලය තුළ ඩෙංගු මරණ ද 9ක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ව්‍යාපාරය සඳහන් කළේය.
+
+ඒ අනුව ඩෙංගු අධි අවදානම් කලාප සංඛ්‍යාව ද 14 දක්වා ඉහළ ගොස් තිබේ.
+
+වැඩිම ඩෙංගු රෝගීන් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වන අතර එම සංඛ්‍යාව 5,624ක් වේ.
+
+ඉන්පසු වැඩිම ඩෙංගු රෝගීන් සංඛ්‍යාවක් වාර්තා වන්නේ යාපනය දිස්ත්‍රික්කයෙන් වන අතර එම සංඛ්‍යාව 3,930කි.
+
+ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 2,487ක්, මහනුවර දිස්ත්‍රික්කයෙන් රෝගීන් 1,986ක්, රත්නපුර දිස්ත්‍රික්කයෙන් රෝගීන් 1,441ක් සහ කළුතර දිස්ත්‍රික්කයෙන් රෝගීන් 1,372ක් ලෙස ඩෙංගු රෝගීන් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fbd6dcfd.json)
+
+---
+
+### Woman found stabbed and murdered inside house in Thalahena
+
+*2024-06-11 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99801/-woman-found-stabbed-and-murdered-inside-house-in-thalahena) · `en`
+
+A 31-year-old woman has been found attacked with sharp weapons and murdered inside a house in the Thalahena area of Thalangama this morning (11).
+
+According to the police, the woman’s the husband and his friend have attacked the woman with a sharp weapon and murdered her due to an argument between the deceased and her husband on June 06, and that they have then left the house after locking the door.
+
+However, both suspects have later reported the incident to the police and surrendered themselves.
+
+The deceased woman was a resident of the Thalangama area and was living with her husband in a rented house.
+
+Police have arrested both 31-year-old husband, who is from Hingurakgoda, and his accomplice, a 44-year-old from Galewela.
+
+Police further stated that when the body was discovered, they had also found a dog tied up inside the house which had not been fed for about 5 days.
+
+◼️
+
+[Data](articles/4d223dcf.json)
+
+---
 
 ### President's Bidane Galts
 
@@ -83,6 +131,26 @@ The Additional District Magistrate has ordered Keerthi Udanayake and General Sec
 [Data](articles/538cf5d8.json)
 
 [Extended Data](ext_articles/538cf5d8.ext.json)
+
+---
+
+### மோடியின் தலைமைத்துவம் மாற்றங்களை கொண்டுவரும் - கோபியோ தலைவர் குமார் நடேசன் வாழ்த்து
+
+*2024-06-11 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185802) · `ta`
+
+இந்திய பொதுத் தேர்தலில் வெற்றிபெற்று 3 ஆவது முறையாகவும் பிரதமராக தெரிவாகியுள்ள நரேந்திர மோடிக்கு, இந்திய வம்சாவளி மக்களுக்கான உலகளாவிய அமைப்பின் இலங்கைக்கிளை (கோபியோ) வாழ்த்துக்களை தெரிவித்துள்ளது.
+
+கோபியோ அமைப்பின் சார்பில் அதன் தலைவர் குமார் நடேசன் அனுப்பி வைத்த வாழ்த்துக் கடிதத்தில், நரேந்திர மோடியின் தலைமைத்துவம் மற்றும் கண்ணோட்டம் என்பன பலருக்கும் தூண்டுகோலாக இருந்து வருவதாகக் குறிப்பிட்டுள்ளார்.
+
+இலங்கையில் உள்ள இந்திய வம்சாவளியினர் மற்றும் இப்போது எல்லா இலங்கை பிரஜைகள் ஆனவர்கள் சார்பில், இந்தியாவின் பிரதமராக வெற்றிகரமாக தேர்வு செய்யப்பட்டமைக்கு தங்களுக்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக்கொள்வதில் மட்டற்ற மகிழ்ச்சி அடைகின்றேன்.
+
+தங்களின் தலைமைத்துவமும் தொலைநோக்குப் பார்வையும் பலரை ஊக்கப்படுத்தியுள்ளதுடன் நீங்கள் நாட்டை செழிப்பிலும் முன்னேற்றத்திலும் வழிநடத்துவீர்கள் என்று நாங்கள் நம்புகின்றோம்.
+
+அண்டை நாடான இலங்கைக்கு இந்தியாவுடன் உள்ள தொடர்பால் பல நன்மைகள் கிடைக்கப்பெறவுள்ளதுடன், தங்கள் அண்டை நாட்டுக் கொள்கையை தொடர்ந்து பேணுவீர்கள் என நாங்கள் எதிர்பார்க்கின்றோம்.
+
+...
+
+[Data](articles/94425ca2.json)
 
 ---
 
@@ -392,17 +460,29 @@ The Chinese authorities have not issued any statement regarding the attack.
 
 ---
 
-### ආකර්ශණීය උච්චිමුණේ දූපතත් විනාශවීමේ ආරම්භයද මේ ....
+### This is the beginning of the destruction of the antiquity of Ukrapima ...
 
 *2024-06-11 10:48:36* · [`adalk`](https://www.ada.lk/breaking_news/ආකර්ශණීය-උච්චිමුණේ-දූපතත්-විනාශවීමේ-ආරම්භයද-මේ-----/11-410137) · `si`
 
-කල්පිටිය දූපත් සමූහයට අයත්, සංචාරක සංවර්ධන අධිකාරීයට මුලුමනින්ම පවරා දී ඇති, උච්චිමුණේ දූපතේ ව්‍යාපාරික වටිනාකමින් යුතු ඉඩම් කිසියම් පිරිසක් විසින් අනවසරයෙන් අල්ලා ගෙන ඇතැ යි, සංචාරක සංවර්ධන අධිකාරියේ පුත්තලම ප්‍රාදේශීය නිළධාරී මනෝජ් රත්නායක මහතා චෝදනා කරයි. අක්කරයේ පටන් අක්කර විස්ස විසි පහ දක්වා පුලුල් පරාසයකට, මහ පරිමාණ වශයෙන් අතලොස්සක් වූ පිරිසක් මෙසේ ඉඩම් අල්ලා ගෙන ඇතැ යි එම මහතා වැඩි දුරටත් පවසා සිටියි.
+Manoj Ratnayake, a regional officer in Puttalam, was arrested by the Kalpitiya Archipelago for allegedly capturing land in Ukrapima. This land grab affects Uchchimima Island, a nearly 100,000-acre area home to about 300 fishing families, a government school, and a Catholic church. The island is under the Sri Lanka Tourism Development Authority for promoting tourism. The arrest follows the construction of a new church, which has attracted both local and foreign tourists. Environmental concerns are also raised due to the impact on local flora and potential erosion. Unauthorized land seizures may lead to legal action.
 
-උච්චිමුණේ දූපත කල්පිටිය ගොඩ බිම සිට දියඹින් කිලෝ මීටර 13 ක් පමණ දුරින් පිහිටි අක්කර එක්දහස් එක සියයකට ආසන්න ඉඩම් ප්‍රමාණයකින් යුතු දූපතකි. ධීවර පවුල් තුන්සියයකට ආසන්න පිරිසක් ද වෙසෙති. රජයේ පාසැලක් ළදරු පාසලක් සහ කතෝලික දේවස්ථානයකින් ද සමන්විතය. උච්චිමුණේ දූපත 2012,04.17 දින 4/10/21029-11 දරණ නිදහස් දීමනා පත්‍රය මගින් සංචාරක සංවර්ධන  කටයුතු ප්‍රවර්ධනය සදහා ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය වෙත පවරා දී ඇත.
+🟩
+
+Travel Development Authority, Puttalam Regional Officer Manoj Ratnayake, Puttalam has been arrested by the Kalpitiya Archipeland, who have been assigned to the Tourism Development Authority, has been captured by a group of business values ​​in Ukrapima.. He further said that the land had been captured by the land, a large number of people with twenty-five acres.
+
+Uchchimima Island is an area of ​​nearly 100,000 acres nearing nearly 13 km away from the ground. Nearly 300 fishing families live. A government school is equipped with a baby school and a Catholic church. The island of Uchchimanu has been vested with the Sri Lanka Tourism Development Authority for the promotion of tourism.
+
+"With the construction of the massive new Walukuknni church on the island of Ubeyamiyene, the local and foreign tourist attraction has been captured.
+
+"They had none of any tips without any trial.
+
+According to the Kalpitiya Police, five persons who have called the land have been captured and notified.
 
 ...
 
 [Data](articles/61c3dcf2.json)
+
+[Extended Data](ext_articles/61c3dcf2.ext.json)
 
 ---
 
@@ -433,6 +513,28 @@ Police said the bread to shook the limbs of the younger sister and went to the r
 [Data](articles/552c994d.json)
 
 [Extended Data](ext_articles/552c994d.ext.json)
+
+---
+
+### நடுவானில் பயணித்த விமானம் ஆலங்கட்டி மழையில் சிக்கியதில் முன்பகுதி பலத்த சேதம் !
+
+*2024-06-11 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
+
+ஒஸ்திரியா விமானச் சேவைக்கு சொந்தமான ஏர்பஸ் ஏ320-200 என்ற விமானத்தின் முன்பகுதி மற்றும் ஜன்னல்கள் ஆலங்கட்டி மழையால் பலத்த சேதமடைந்துள்ளன.
+
+கடந்த ஞாயிற்றுக்கிழமை (09) இந்த விமானம் ஸ்பெயினின் பால்மா டி மெலியோர்காவிலிருந்து ஒஸ்திரியாவின் தலைநகர் வியன்னாவிற்கு 173 பயணிகள் மற்றும் 6 பணியாளர்களுடன் பயணித்துள்ளது.
+
+இதன்போது, விமானத்தின் முன்பகுதி ஆலங்கட்டி மழையால் நொறுங்கி பலத்த சேதம் அடைந்ததோடு, விமானி அறையின் மேற்பகுதி வளைந்ததோடு, ஜன்னல்களிலுள்ள கண்ணாடியில் விரிசல் ஏற்பட்டுள்ளன.
+
+ஆனால், மூன்று அடுக்குகளை கொண்டு பலப்படுத்தப்பட்ட  ஜன்னல்களால் விமானத்திற்குள் ஆலங்கட்டி மழை  ஊடுருவவில்லை.
+
+மணித்தியாலத்திற்கு நூற்றுக்கணக்கான மைல்கள் வேகத்தில் பயணிக்கும் போது ஆலங்கட்டி மழை அல்லது பிற கடினமான பொருட்களால் தாக்கப்பட்டால் உடைந்து போகாமல் இருப்தை உறுதிப்படுத்த விமானத்தின் கண்ணாடிகள் சோதனைக்குட்படுத்தப்படுகின்றமை குறிப்பிடத்தக்கது
+
+இந்நிலையில், சேதத்தை  பொருட்படுத்தாமல் விமானம் பத்திரமாக வியன்னாவில் தரையிறக்கப்பட்டுள்ளது. தற்போது விமானத்தை தொழில்நுட்ப வல்லுநர்கள் ஆய்வு செய்து வருகின்றனர்.
+
+...
+
+[Data](articles/0ebba40e.json)
 
 ---
 
@@ -937,6 +1039,20 @@ In a speech late on Monday, President Lazarus Chakwera said a search and rescue 
 [Data](articles/fbbeeccc.json)
 
 [Extended Data](ext_articles/fbbeeccc.ext.json)
+
+---
+
+### பாலத்திலிருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு ; இரத்தினபுரியில் சம்பவம்
+
+*2024-06-11 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185795) · `ta`
+
+இரத்தினபுரி, கிரியெல்ல பகுதியில் பாலத்தில் இருந்து தவறி விழுந்து ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+கிரியெல்ல பகுதியைச் சேர்ந்த 33 வயதுடைய பெண் ஒருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3a044568.json)
 
 ---
 
@@ -1988,6 +2104,8 @@ The primary objective of YAP4C is to mobilise a movement of young advocates pres
 
 *2024-06-10 23:40:23* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-holds-interactive-session-with-High-Commissioner-Jha/34-762899) · `en`
 
+High Commissioner Santosh Jha (centre) flanked by Vish Govindasamy (left) and moderator Romesh David
+
 The Indo Lanka Chamber of Commerce and Industry (ILCCI) hosted a captivating evening interactive session with High Commissioner of India to Sri Lanka Santosh Jha, at Taj Samudra Colombo. The event brought together business leaders and industry experts for a night of engaging discussions and networking.
 
 The evening commenced with a warm welcome address by the ILCCI President Raghuraman. In his address Raghuraman stated, “This is a golden opportunity for us to integrate our economies we have much to learn and gain from India, we as a business should be pushing them for the ECTA and this will definitely take us to the next level in penetrating such a huge market.” His words set the stage for a productive and insightful session.
@@ -2165,109 +2283,5 @@ President extends warm wishes to Narendra Modi on his third term as Prime Minist
 [Data](articles/643186a2.json)
 
 [Extended Data](ext_articles/643186a2.ext.json)
-
----
-
-### Elon Musk’s thank you note to Indian-origin man behind Tesla’s AI success
-
-*2024-06-10 22:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Elon-Musks-thank-you-note-to-Indian-origin-man-behind-Teslas-AI-success/107-284533) · `en`
-
-Elon Musk, on Sunday, expressed gratitude towards Indian-origin Ashok Elluswamy – the first person hired for Tesla's autopilot team.
-
-The tech billionaire has credited Mr Ashok for Tesla's “success in AI” and autopilot software.
-
-Quote-tweeting Mr Ashok's note on X (formerly Twitter), Elon Musk said, “Thanks Ashok! Ashok was the first person to join the Tesla AI/Autopilot team and ultimately rose to lead all AI/Autopilot software. Without him and our awesome team, we would just be another car company looking for an autonomy supplier that doesn't exist. BTW, I never suggested that he say anything and I had no idea he wrote this until I saw it 10 minutes ago!”
-
-Ashok Elluswamy, in his detailed note, said, “Elon Musk has been the key driver of AI and autonomy at Tesla. He has always pushed us to achieve great things, even when such ideas were seemingly impossible at the time.”
-
-Mr Ashok also talked about an instance that goes back to 2014, when “autopilot started on a ridiculously tiny computer”.
-
-...
-
-[Data](articles/1139eb1c.json)
-
-[Extended Data](ext_articles/1139eb1c.ext.json)
-
----
-
-### The causes of the benchmates
-
-*2024-06-10 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197617) · `si`
-
-Charith, speaking after Sri Lanka's defeat, highlighted the team's struggle to adapt to varying pitch conditions during the tournament. He emphasized the importance of taking responsibility as batsmen, noting their inability to adjust quickly enough to the changing pitches, which led to their loss. The team had previously performed well on other grounds but faced difficulties on the current pitch.
-
-🟩
-
-Sri Lanka's pararith is defeated that the Sri Lankan team has been defeated to be able to adapt to changes in the graduation.
-
-Speaking to the media today, Charith expressed these views.
-
-"As a batsman we need to get the bleam. No six overs let two wickets go and a battery linge cannot go to 125. All batsmen, including I, you have to take responsibility. "
-
-Q. Is there action taken to practice more batting practice in training that happened?
-
-"We were trained and prepared in Sri Lanka. But we could not be accustomed to change the pitches. We have scored the score of 6 overs in other Grounds, we would look at 180. Pitchers on this time changing the pitch. We should quickly shape down and save the vicfts. We were defeated because we could not. "
-
-◼️
-
-[Data](articles/77e047c5.json)
-
-[Extended Data](ext_articles/77e047c5.ext.json)
-
----
-
-### Ali Sabry congratulates Jaishankar on second term as India’s Foreign Minister
-
-*2024-06-10 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99792/ali-sabry-congratulates-jaishankar-on-second-term-as-indias-foreign-minister) · `en`
-
-Foreign Ministers of Sri Lanka and Maldives congratulated S Jaishankar on his second term as External Affairs Minister of India in the newly constituted cabinet of the BJP-led NDA government under the leadership of Prime Minister Narendra Modi.
-
-Sri Lankan Minister of Foreign Affairs Ali Sabry said that Jaishankar’s second term as EAM is a well-deserved recognition of his acumen in foreign relations. Sabry said he looks forward to working with him to enhance the ties between the two nations.
-
-In a post on X, Ali Sabry stated, “Warmest congratulations @DrSJaishankar on being reappointed Minister of External Affairs of #India, a well-deserved recognition of your acumen in foreign relations. I look forward to working with you in enhancing the deep-rooted traditional cooperation between #SriLanka & #India.”
-
-...
-
-[Data](articles/bfe6f44f.json)
-
-[Extended Data](ext_articles/bfe6f44f.ext.json)
-
----
-
-### What's going to happen on the 26th?
-
-*2024-06-10 21:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/26ஆம்-திகதி-நடக்கப்போவது-என்ன/175-338727) · `ta`
-
-On the 26th, the Sri Lanka Teachers Union will observe a nationwide sick day due to a wage dispute. The decision was announced earlier, with Joseph Stalin, the general secretary, stating the protest aims to address pay issues.
-
-🟩
-
-The Sri Lanka Teachers Union has decided to engage in trade union action nationwide, announcing a sick holiday on the 26th.
-
-Joseph Stalin, general secretary of the association, said the move was taken due to a wage conflict.
-
-Joseph Stalin, Secretary of the Sri Lanka Teachers Union, added that the protest will be organized on the 12th of this month.. Remble
-
-◼️
-
-[Data](articles/458b7351.json)
-
-[Extended Data](ext_articles/458b7351.ext.json)
-
----
-
-### Leadership development – not a waste of time, energy and money when done right
-
-*2024-06-10 21:33:48* · [`dailyftlk`](https://www.ft.lk/columns/Leadership-development-not-a-waste-of-time-energy-and-money-when-done-right/4-762885) · `en`
-
-It is essential that leadership development caters to an organisational need and is carefully planned and monitored
-
-Effective leaders are those who enable positive people performance through role modelling, inspiring a shared vision, facilitating an environment of open and frank discussion, licensing the challenge of the status quo, enabling empowerment and decision making, and celebrating success. You do not necessarily have to be a good manager to be a good leader or vice versa. Leadership is hierarchy agnostic. In a corporate setting, leadership need not be confined to just the chief executive officer or the C-suite. It can be allowed to flourish at every level of the organisation provided the roles, and deliverables, of individuals and teams are clearly defined
-
-...
-
-[Data](articles/8037d141.json)
-
-[Extended Data](ext_articles/8037d141.ext.json)
 
 ---

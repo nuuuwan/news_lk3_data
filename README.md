@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 23:54:29**
+As of **2024-06-12 00:07:02**
 
 ## Newspaper Stats
 
-*Scraped **29,869** Articles*
+*Scraped **29,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,563
 adaderanalk | 3,378
-tamilmirrorlk | 3,498
+tamilmirrorlk | 3,499
 virakesarilk | 4,570
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,809
@@ -26,27 +26,47 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,868 (100.0%) of 29,869 articles have been extended.
+29,869 (100.0%) of 29,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### පාකිස්තානයට ජය
+### Win to Pakistan
 
 *2024-06-11 23:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197659) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩාවට එරෙහිව අද (11) පැවති තරගයෙන් පාකිස්තානය කඩුලු 7ක ජයක් හිමිකර ගත්තේය.
+In the T20 World Cup, Pakistan secured a 7-wicket victory over Canada. Inviting Canada to bat first, Pakistan limited them to 106/7 in 20 overs. In response, Pakistan reached 107/3 in just 17 overs, clinching the win.
 
-කාසියේ වාසිය දිනු පාකීස්තාන කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට කැනඩා කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-එහිදි කැනඩා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 106ක් රැස් කළේය.
+Pakistan won by 7 wickets in the T20 World Cup today (11).
 
-ඒ අනුව පිටියට පිවිසි පාකිස්තාන කණ්ඩායම පන්දුවාර 17 යි පන්දු 3ක් තුළ කඩුලු 3ක් දැවී ලකුණු 107ක් රැස් කළේය.
+The Pakis Version, winning the cord, invited Canada to bat first.
+
+The Canada scored 106 runs for the loss of 07 wickets at the end of 20 overs.
+
+Accordingly, Pakistan scored 107 runs for the loss of 3 wickets for the loss of 17 overs.
 
 ◼️
 
 [Data](articles/58e57576.json)
+
+[Extended Data](ext_articles/58e57576.ext.json)
+
+---
+
+### போர் நிறுத்த தீர்மானத்திற்கு ஹமாஸ் சம்மதம்
+
+*2024-06-11 23:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போர்-நிறுத்த-தீர்மானத்திற்கு-ஹமாஸ்-சம்மதம்/50-338788) · `ta`
+
+ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிறைவேற்றப்பட்ட போர் நிறுத்த தீர்மானத்திற்கு ஹமாஸ் அமைப்பு சம்மதம் தெரிவித்துள்ளது.
+
+இதேவேளை, இஸ்ரேல் இராணுவம் காசாவின் தெற்கு பகுதி முழுவதும் வான்வழித்தாக்குதல்களுக்கு அழைப்பு விடுத்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/02f6a6f0.json)
 
 ---
 
@@ -2281,31 +2301,5 @@ Meanwhile, Vice President of Thala Harris was a title that danced with a famous 
 [Data](articles/75c1b40e.json)
 
 [Extended Data](ext_articles/75c1b40e.ext.json)
-
----
-
-### Extension extending against Vijayadasa
-
-*2024-06-11 12:25:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாசவுக்கு-எதிரான-தடையுத்தரவு-நீடிப்பு/175-338755) · `ta`
-
-Vijayadasa Rajapaksa's leadership of SLFP faces legal challenges, with a court order extending a ban involving him and other party officials. The case, which includes allegations against Sarath Ekanayake, Vijayadasa Rajapaksa, Keerthi Udwatta, and Maithripala Sirisena, was heard on the 28th, leading to the extension of the ban.
-
-🟩
-
-The appointment of Minister Vijayadasa Rajapaksa as the leader of the Sri Lanka Freedom Party (SLFP) and the acceptance of the Sri Lanka Freedom Party (SLFP)
-
-Colombo Additional District Magistrate Chandima today (11) has been ordered to extend the ban.
-
-The Treasurer of the Sri Lanka Freedom Party (SLFP). In it, Sarath Ekanayake, Justice Minister Vijayadasa Rajapaksa, General Secretary Keerthi Udwatta and Maithripala Sirisena have been referred to as defendants.
-
-The ban has been extended after the case was taken up for hearing on the 28th.
-
-The Additional District Magistrate has ordered Keerthi Udanayake and General Secretary Duminda Dissanayake and Chairman Nimal Siripada Silva to be the General Secretary of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/538cf5d8.json)
-
-[Extended Data](ext_articles/538cf5d8.ext.json)
 
 ---

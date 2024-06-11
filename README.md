@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 13:19:18**
+As of **2024-06-11 13:34:40**
 
 ## Newspaper Stats
 
-*Scraped **29,766** Articles*
+*Scraped **29,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,701
 dailyftlk | 1,788
 adalk | 2,545
 adaderanalk | 3,366
-tamilmirrorlk | 3,487
+tamilmirrorlk | 3,488
 virakesarilk | 4,557
 dailymirrorlk | 4,716
 adaderanasinhalalk | 4,792
@@ -26,35 +26,59 @@ adaderanasinhalalk | 4,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,761 (100.0%) of 29,766 articles have been extended.
+29,766 (100.0%) of 29,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ඩෙංගු අධි අවදානම් තත්ත්වය ඉහළට
+### கழிவறை விஷ வாயு: 3 பெண்கள் பலி
+
+*2024-06-11 13:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிவறை-விஷ-வாயு-3-பெண்கள்-பலி/175-338756) · `ta`
+
+கழிவறையில் இருந்து வெளியான விஷவாயு தாக்கியதில் ஒரே குடும்பத்தைச் சேர்ந்த மூவர் மரணமடைந்துள்ளனர். இந்த சம்பவம், புதுச்சேரியின் ரெட்டியார்பாளையம் தொகுதிக்கு உட்பட்ட புதுநகர் பகுதியில் இடம்பெற்றுள்ளது. அங்கு  500க்கும் மேற்பட்ட குடும்பங்கள் வசித்து வருகின்றன.
+
+இந்த பகுதியில் உள்ள ஒரு வீட்டில் கழிவறைக்கு சென்ற மூதாட்டி ஒருவர் மயங்கிய நிலையில் கிடந்துள்ளார். இதை கண்ட அவரது மகள் காப்பாற்ற சென்று, அவரும் மயங்கி விழுந்தார். தனது பாட்டி மற்றும் தாய் மயங்கிய நிலையில் கிடந்ததை கண்ட சிறுமி, அவர்களை காப்பாற்ற சென்றபோது அவரும் மயங்கி விழுந்தார்.
+
+3 பேரும் மயங்கிய நிலையில் கிடந்ததை கண்ட அக்கம்பக்கத்தினர், உடனடியாக மீட்டு அருகில் உள்ள அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். அவர்களை பரிசோதித்த மருத்துவர்கள், மூதாட்டி மற்றும் மற்றுமொரு பெண் ஆகிய இருவரும் ஏற்கெனவே உயிரிழந்ததாக தெரிவித்தனர்.
+
+தொடர்ந்து, சிறுமிக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வந்தது. ஆனால் அவரும் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+...
+
+[Data](articles/e3507418.json)
+
+---
+
+### Dengue highlight rains
 
 *2024-06-11 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197639) · `si`
 
-පවතින වැසි සහිත කාලගුණික තත්ත්වයත් සමඟ ඩෙංගු අධි අවදානම් කලාප සංඛ්‍යාව ඉහළ ගොස් තිබේ.
+Rainy weather has led to an increase in dengue risk zones, with a sharp rise in dengue cases across the island. The National Dengue Prevention Unit reports 971 cases this month, bringing the total to 25,891, including nine deaths. High-risk areas now stand at 14, with the Colombo district reporting the most cases (5,624), followed by Jaffna (3,930) and Kandy (2,487).
 
-පසුගිය දිනවල පැවති අධික වර්ෂාපතනයත් සමග ඩෙංගු රෝගීන් වාර්තා වීම ද ශීඝ්‍රයෙන් ඉහළ ගොස් ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+🟩
 
-මෙම මස ගත වු දින 11 තුළ පමණක් ඩෙංගු රෝගීන් 971 දෙනෙකු වාර්තා වී ඇති අතර මේ දක්වා දිවයිනෙන් වාර්තා වී ඇති ඩෙංගු රෝගීන්ගේ ගණන 25,891කි.
+With the prevailing rainy weather, the number of dengue risk zones has increased.
 
-මෙම කාලය තුළ ඩෙංගු මරණ ද 9ක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ව්‍යාපාරය සඳහන් කළේය.
+The National Dengue Prevention Unit said the number of dengue patients had risen fast in the recent past.
 
-ඒ අනුව ඩෙංගු අධි අවදානම් කලාප සංඛ්‍යාව ද 14 දක්වා ඉහළ ගොස් තිබේ.
+971 dengue patients have been reported during the month of this month and 25,891 dengue patients have been reported from the island.
 
-වැඩිම ඩෙංගු රෝගීන් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වන අතර එම සංඛ්‍යාව 5,624ක් වේ.
+Nine dengue deaths have been reported during this period, the National Dengue eradication campaign said.
 
-ඉන්පසු වැඩිම ඩෙංගු රෝගීන් සංඛ්‍යාවක් වාර්තා වන්නේ යාපනය දිස්ත්‍රික්කයෙන් වන අතර එම සංඛ්‍යාව 3,930කි.
+Accordingly, dengue high risk zones have risen to 14.
 
-ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 2,487ක්, මහනුවර දිස්ත්‍රික්කයෙන් රෝගීන් 1,986ක්, රත්නපුර දිස්ත්‍රික්කයෙන් රෝගීන් 1,441ක් සහ කළුතර දිස්ත්‍රික්කයෙන් රෝගීන් 1,372ක් ලෙස ඩෙංගු රෝගීන් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+The highest number of cases cases were reported from the Colombo district, which is 5,624.
+
+The highest number of dengue patients will be reported from the Jaffna district, which is 3,930.
+
+The National Dengue Prevention Unit stated that 2,487 cases were reported from the Kandy district and 1,386 cases were charged from the Gampaha District.
 
 ◼️
 
 [Data](articles/fbd6dcfd.json)
+
+[Extended Data](ext_articles/fbd6dcfd.ext.json)
 
 ---
 
@@ -77,6 +101,8 @@ Police further stated that when the body was discovered, they had also found a d
 ◼️
 
 [Data](articles/4d223dcf.json)
+
+[Extended Data](ext_articles/4d223dcf.ext.json)
 
 ---
 
@@ -134,23 +160,33 @@ The Additional District Magistrate has ordered Keerthi Udanayake and General Sec
 
 ---
 
-### மோடியின் தலைமைத்துவம் மாற்றங்களை கொண்டுவரும் - கோபியோ தலைவர் குமார் நடேசன் வாழ்த்து
+### Modi's leadership will bring about changes - Gopio leader Kumar Nadesan congratulates
 
 *2024-06-11 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185802) · `ta`
 
-இந்திய பொதுத் தேர்தலில் வெற்றிபெற்று 3 ஆவது முறையாகவும் பிரதமராக தெரிவாகியுள்ள நரேந்திர மோடிக்கு, இந்திய வம்சாவளி மக்களுக்கான உலகளாவிய அமைப்பின் இலங்கைக்கிளை (கோபியோ) வாழ்த்துக்களை தெரிவித்துள்ளது.
+Kumar Nadesan, leader of the Global Organization for Indians in Sri Lanka (Gopio), congratulates Narendra Modi on his third term as India's Prime Minister. He expresses hope that Modi's leadership will bring prosperity and progress to both countries, emphasizing the importance of maintaining neighborly relations.
 
-கோபியோ அமைப்பின் சார்பில் அதன் தலைவர் குமார் நடேசன் அனுப்பி வைத்த வாழ்த்துக் கடிதத்தில், நரேந்திர மோடியின் தலைமைத்துவம் மற்றும் கண்ணோட்டம் என்பன பலருக்கும் தூண்டுகோலாக இருந்து வருவதாகக் குறிப்பிட்டுள்ளார்.
+🟩
 
-இலங்கையில் உள்ள இந்திய வம்சாவளியினர் மற்றும் இப்போது எல்லா இலங்கை பிரஜைகள் ஆனவர்கள் சார்பில், இந்தியாவின் பிரதமராக வெற்றிகரமாக தேர்வு செய்யப்பட்டமைக்கு தங்களுக்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக்கொள்வதில் மட்டற்ற மகிழ்ச்சி அடைகின்றேன்.
+Narendra Modi, who won the Indian general election for the 3rd time, has congratulated Sri Lanka's Global Organization for the people of Indian origin.
 
-தங்களின் தலைமைத்துவமும் தொலைநோக்குப் பார்வையும் பலரை ஊக்கப்படுத்தியுள்ளதுடன் நீங்கள் நாட்டை செழிப்பிலும் முன்னேற்றத்திலும் வழிநடத்துவீர்கள் என்று நாங்கள் நம்புகின்றோம்.
+In a letter of congratulations sent by its leader Kumar Nadesan on behalf of the Kopio Organization, Narendra Modi's leadership and overview of many is aimed at many.
 
-அண்டை நாடான இலங்கைக்கு இந்தியாவுடன் உள்ள தொடர்பால் பல நன்மைகள் கிடைக்கப்பெறவுள்ளதுடன், தங்கள் அண்டை நாட்டுக் கொள்கையை தொடர்ந்து பேணுவீர்கள் என நாங்கள் எதிர்பார்க்கின்றோம்.
+On behalf of the Indian origin and all Sri Lankan citizens in Sri Lanka, I am happy to congratulate them on the success of India's successful elected Prime Minister of India.
 
-...
+We hope that their leadership and vision have encouraged many people and guide the country in prosperity and progress.
+
+We expect many benefits to the neighboring country of Sri Lanka and they will continue to maintain their neighboring policy.
+
+We congratulate India to lead India in your new responsibility.
+
+In the article, it is mentioned in the article that congratulations on this success of your most worthy.
+
+◼️
 
 [Data](articles/94425ca2.json)
+
+[Extended Data](ext_articles/94425ca2.ext.json)
 
 ---
 
@@ -516,25 +552,35 @@ Police said the bread to shook the limbs of the younger sister and went to the r
 
 ---
 
-### நடுவானில் பயணித்த விமானம் ஆலங்கட்டி மழையில் சிக்கியதில் முன்பகுதி பலத்த சேதம் !
+### The plane that was traveling in the middle of the night was caught in the rain!
 
 *2024-06-11 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185800) · `ta`
 
-ஒஸ்திரியா விமானச் சேவைக்கு சொந்தமான ஏர்பஸ் ஏ320-200 என்ற விமானத்தின் முன்பகுதி மற்றும் ஜன்னல்கள் ஆலங்கட்டி மழையால் பலத்த சேதமடைந்துள்ளன.
+An Airbus A320-200, en route from Palma de Mallorca to Vienna with 179 passengers and crew, encountered severe hail damage mid-flight. Despite significant damage to its front and cockpit area, including a curved roof and shattered window mirrors, the aircraft's triple-layered windows remained intact, preventing any penetration. The plane managed a safe landing in Vienna, where technicians are assessing the damage. This incident follows a similar event in 2017, highlighting the aircraft's resilience against such weather conditions.
 
-கடந்த ஞாயிற்றுக்கிழமை (09) இந்த விமானம் ஸ்பெயினின் பால்மா டி மெலியோர்காவிலிருந்து ஒஸ்திரியாவின் தலைநகர் வியன்னாவிற்கு 173 பயணிகள் மற்றும் 6 பணியாளர்களுடன் பயணித்துள்ளது.
+🟩
 
-இதன்போது, விமானத்தின் முன்பகுதி ஆலங்கட்டி மழையால் நொறுங்கி பலத்த சேதம் அடைந்ததோடு, விமானி அறையின் மேற்பகுதி வளைந்ததோடு, ஜன்னல்களிலுள்ள கண்ணாடியில் விரிசல் ஏற்பட்டுள்ளன.
+The Airbus A320-200, owned by the Austria Airlines, has been severely damaged by hail rains.
 
-ஆனால், மூன்று அடுக்குகளை கொண்டு பலப்படுத்தப்பட்ட  ஜன்னல்களால் விமானத்திற்குள் ஆலங்கட்டி மழை  ஊடுருவவில்லை.
+The aircraft was traveling from Palma de Melioorka, Spain last Sunday (09) with 173 passengers and 6 employees to Vienna, the capital of Oustria.
 
-மணித்தியாலத்திற்கு நூற்றுக்கணக்கான மைல்கள் வேகத்தில் பயணிக்கும் போது ஆலங்கட்டி மழை அல்லது பிற கடினமான பொருட்களால் தாக்கப்பட்டால் உடைந்து போகாமல் இருப்தை உறுதிப்படுத்த விமானத்தின் கண்ணாடிகள் சோதனைக்குட்படுத்தப்படுகின்றமை குறிப்பிடத்தக்கது
+In the meantime, the front of the aircraft was severely damaged by the hail, the top of the pilot's room was curved and the mirror in the windows.
 
-இந்நிலையில், சேதத்தை  பொருட்படுத்தாமல் விமானம் பத்திரமாக வியன்னாவில் தரையிறக்கப்பட்டுள்ளது. தற்போது விமானத்தை தொழில்நுட்ப வல்லுநர்கள் ஆய்வு செய்து வருகின்றனர்.
+But the hail did not penetrate the air into the plane with three layers strengthened.
+
+It is worth noting that the aircraft's mirrors are tested to confirm the bipartisan when they are hit by hail or other hard materials while traveling at hundreds of miles per hour.
+
+In this case, the aircraft is safely landing in Vienna regardless of the damage. Technicians are currently investigating the aircraft.
+
+Emmeli Oakli, who was traveling on the plane, described the incident.
+
+"In about 20 minutes before we landed, we entered the hail and thunderstorm. The turmoil began on the plane."said.
 
 ...
 
 [Data](articles/0ebba40e.json)
+
+[Extended Data](ext_articles/0ebba40e.ext.json)
 
 ---
 
@@ -1042,17 +1088,23 @@ In a speech late on Monday, President Lazarus Chakwera said a search and rescue 
 
 ---
 
-### பாலத்திலிருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு ; இரத்தினபுரியில் சம்பவம்
+### Falling from the bridge, one dies;The incident
 
 *2024-06-11 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185795) · `ta`
 
-இரத்தினபுரி, கிரியெல்ல பகுதியில் பாலத்தில் இருந்து தவறி விழுந்து ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+In Ratnapura, a 33-year-old woman from Kiriella fell from a bridge and died.
 
-கிரியெல்ல பகுதியைச் சேர்ந்த 33 வயதுடைய பெண் ஒருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+One person died after falling from a bridge in the Kiriella area in Ratnapura.
+
+A 33 -year -old woman from Kiriella has died, police said.
 
 ◼️
 
 [Data](articles/3a044568.json)
+
+[Extended Data](ext_articles/3a044568.ext.json)
 
 ---
 
@@ -2259,29 +2311,5 @@ To combat this, the Japan International Cooperation Agency (JICA) is investing R
 [Data](articles/c7d403f2.json)
 
 [Extended Data](ext_articles/c7d403f2.ext.json)
-
----
-
-### Indian Government plans to establish an industrial zone in Trincomalee –  Dr. S Jaishankar
-
-*2024-06-10 22:32:00* · [`islandlk`](http://island.lk/indian-government-plans-to-establish-an-industrial-zone-in-trincomalee-dr-s-jaishankar/) · `en`
-
-President Ranil Wickremesinghe, currently in New Delhi, met Indian Senior Minister Dr. S. Jaishanka today [10]
-
-During the meeting, Dr. Jaishankar highlighted the Indian Government’s plans to establish an industrial zone in Trincomalee which will attract numerous Indian investors and potentially investors from other countries. He also said that the development projects initiated in Sri Lanka with Indian investments, which had been halted midway will be resumed soon.
-
-He also assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and also expedite the stalled development projects funded with Indian investments.
-
-Related Topics:“Neighborhood First” policy.Dr. S. JaishankaIndiaNew DelhiPresident Ranil Wickremesinghestalleddevelopment projetts
-
-Whoever comes to power must comply with IMF Agreement – Minister of Transport, Highways and Mass Media
-
-President extends warm wishes to Narendra Modi on his third term as Prime Minister of India
-
-...
-
-[Data](articles/643186a2.json)
-
-[Extended Data](ext_articles/643186a2.ext.json)
 
 ---

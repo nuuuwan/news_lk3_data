@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 23:04:56**
+As of **2024-06-11 23:19:07**
 
 ## Newspaper Stats
 
-*Scraped **29,867** Articles*
+*Scraped **29,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,563
 adaderanalk | 3,378
-tamilmirrorlk | 3,497
+tamilmirrorlk | 3,498
 virakesarilk | 4,570
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,808
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,862 (100.0%) of 29,867 articles have been extended.
+29,867 (100.0%) of 29,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### படகு கவிழ்ந்ததில் இரண்டு மீனவர்களை காணவில்லை
+
+*2024-06-11 23:08:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-இரண்டு-மீனவர்களை-காணவில்லை/175-338787) · `ta`
+
+ஹபராதுவ பொலிஸ் பிரிவிற்குட்பட்ட ருமஸ்ஸல கடலில் மீன்பிடி படகு ஒன்று கவிழ்ந்ததில் இரண்டு மீனவர்கள் காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொள்வதற்காக பொலிஸ் குழுவொன்று சென்றுள்ளதாக ஹபராதுவ பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/a2df2850.json)
+
+---
 
 ### Process Sri Lankan refugee’s plea for Indian citizenship, Madras HC directs India’s Home Ministry
 
@@ -46,6 +60,8 @@ The direction was issued while disposing of a writ petition filed by the refugee
 
 [Data](articles/64543657.json)
 
+[Extended Data](ext_articles/64543657.ext.json)
+
 ---
 
 ### Sri Lanka, Oman sign MoU in Agriculture
@@ -59,6 +75,8 @@ It was signed by Ahmed Ali al Rashdi, Ambassador of Oman to Sri Lanka, and Mahin
 ◼️
 
 [Data](articles/fd0c0a0f.json)
+
+[Extended Data](ext_articles/fd0c0a0f.ext.json)
 
 ---
 
@@ -102,39 +120,53 @@ After two defeats to South Africa and Bangladesh, Sri Lanka are in must-win terr
 
 ---
 
-### பொலிஸ் அதிகாரங்கள் முழுமையாக வழங்கப்பட வேண்டும் என சஜித் கூறவில்லை - மரிக்கார் விளக்கம்
+### Sajith does not say that police powers should be fully granted - Marikar's explanation
 
 *2024-06-11 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185863) · `ta`
 
-அரசியலமைப்பின் 13ஆவது திருத்தத்தை நடைமுறைப்படுத்தும் போது சமூக மற்றும் சுற்றாடல் பொலிஸ் அதிகாரங்களை வழங்குவதில் எவ்வித சிக்கலும் இல்லை. எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் அதனையே குறிப்பிட்டிருந்தார். மாறாக பொலிஸ் அதிகாரங்கள் முழுமையாக வழங்கப்பட வேண்டும் என அவர் கூறவில்லை என பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+Sajith Premadasa supports granting social and environmental police powers under the 13th Amendment but opposes full police power transfer. He emphasizes the need for equal rights and development opportunities for all Sri Lankans, particularly in the North, highlighting the importance of attracting foreign investment for job creation and improving the export economy.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-வடக்கிற்கு ஒரு சட்டமும், தெற்கிற்கு ஒரு சட்டமும் இருக்க முடியாது என்றும், முழு நாட்டுக்கும் ஒரே சட்டம் என்ற ரீதியில் தமிழ் மக்களுக்கான நியாயத்தை வழங்க வேண்டும் என்று தான் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச குறிப்பிட்டிருந்தார்.
+There is no problem in the granting of social and environmental police powers while implementing the 13th Amendment to the Constitution. Opposition Leader Sajith Premadasa also mentioned the same. On the contrary, he did not say that the police powers should be fully granted, said MP SM Marikar.
+
+He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Tuesday (11).
+
+Opposition leader Sajith Premadasa has stated that there is no law in the North and a law for the South.
+
+There is no problem in proving provincial councils when the 13th Amendment is implemented. Most of the schools and hospitals are provided to provincial councils. All local corporations are also under provincial councils. This is the meaning of what he said. It is not that the police authority will be given completely.
 
 ...
 
 [Data](articles/9074b8ed.json)
 
+[Extended Data](ext_articles/9074b8ed.ext.json)
+
 ---
 
-### போதைப்பொருளிற்கு அடிமையானவர் துப்பாக்கியை கொள்வனவு செய்த விவகாரம் - ஜோபைடனின் மகன் குற்றவாளி என நீதிமன்றம் தீர்ப்பு
+### The case of a drug addict buy a gun
 
 *2024-06-11 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185862) · `ta`
 
-அமெரிக்க ஜனாதிபதி ஜோபைடனின் மகன் ஹன்டர் பைடன் போதைப்பொருளுக்கு அடிமையானவர்கள் துப்பாக்கியை பயன்படுத்துவது தொடர்பான சட்டங்களை மீறினார் அமெரிக்க நீதிபதியொருவர் தீர்ப்பளித்துள்ளார்.
+In a landmark ruling, a US judge found Hunter Bitton, son of President Jobiton, guilty of violating gun laws, marking the first instance of a presidential relative being convicted. The charges stem from allegations of falsifying documents during a 2018 handgun purchase, with the primary accusation being drug addiction, specifically cocaine use. This case could lead to a 25-year prison sentence under US law for providing false information and using a firearm while under the influence of drugs.
 
-அமெரிக்க ஜனாதிபதியாக பதவிவகிக்கும் ஒருவரின் குடும்ப உறுப்பினர் குற்றவாளி என நீதிமன்றம் தீர்ப்பளித்துள்ளமை இதுவே முதல்தடவை.
+🟩
 
-துப்பாக்கியை கொள்வனவு செய்தவேளை தான் போதைப்பொருள் பாவனையாளர் இல்லை என   ஹன்டர் பொய்சொன்னமை தொடர்பில் இரண்டு குற்றச்சாட்டுகளும் போதைப்பொருளிற்கு அடிமையானவேளை துப்பாக்கிகளை வைத்திருந்த ஒரு குற்றச்சாட்டும் சுமத்தப்பட்டமை குறிப்பிடத்தக்கது.
+A US judge has ruled that Hunter Baidon's son Hunter Bitton, son of US President Jobiton, has violated laws over the use of a gun.
 
-2018ம் ஆண்டு கைத்துப்பாக்கியை கொள்வனவு செய்தவேளை அரசாங்க ஆவணத்தில் தான்போதைப்பொருளை பயன்படுத்தவில்லை அதற்கு அடிமையாகவில்லை என ஹன்டர் பைடன் தெரிவித்திருந்தார் ஆனால் அவ்வேளை கொக்கெய்ன் பாவனையால் பாதிக்கப்பட்டிருந்தார் என்பது பிரதான குற்றச்சாட்டாக காணப்பட்டது.
+This is the first time that the court has ruled that a family member of a man who is in office as US president is guilty.
 
-அமெரிக்க அரசாங்கத்தின் ஏடிஎவ் ஆவணத்தில் பொய்யான தகவல்களை வழங்குவதும் போதைப்பொருளை பயன்படுத்துபவர் துப்பாக்கி வைத்திருப்பதும் அமெரிக்காவில் கடும் குற்றம் இதற்கு 25 வருட சிறைத்தண்டனை விதிக்கப்படலாம்.
+It is noteworthy that two allegations of Hunter's falseness have been accused of holding a rifle while buying a rifle.
+
+Hunter Baidan said that he was not addicted to the government document in the government document when he purchased the handgun in 2018, but was the main allegation that he was suffering from the use of cocaine.
+
+The US government's ATV document can be sentenced to 25 years in prison for providing false information in the US and the use of a drug -fired gun in the United States.
 
 ◼️
 
 [Data](articles/017033ab.json)
+
+[Extended Data](ext_articles/017033ab.ext.json)
 
 ---
 
@@ -230,19 +262,25 @@ The Wildlife Department urged people not to engage in such activities, highlight
 
 ---
 
-### 13ஐ அமுலாக்குவது குறித்து வட்டமேசை மாநாட்டை நடத்துங்கள் - கருஜயசூரிய
+### Conduct a circular conference on implementing 13 - Karujayasuriya
 
 *2024-06-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185861) · `ta`
 
-13ஆவது திருத்தச்சட்டத்தினை அமுலாக்குவது குறித்து அரசியல் தலைவர்களும், புலம்பெயர் தமிழர்களும் நேர்மறையான நிலைப்பாட்டை வெளிப்படுத்தியுள்ள நிலையில் தாமதமின்றி வட்டமேசை மாநாட்டைக் கூட்டி தாமதமின்றி தீர்வினை எட்டுமாறு மூக நீதிக்கான தேசிய இயக்கத்தின் தலைவரும், முன்னாள் சபாநாயகருமான கருஜயசூரிய கோரிக்கை விடுத்துள்ளார்.
+Political leaders and Tamil diaspora support immediate implementation of the 13th Amendment, led by Karujayasuriya, aiming to prevent future racial and religious conflicts and ensure dignified living for all citizens. The call comes ahead of parliamentary elections, with backing from the President, ruling and opposition parties, and influential figures like Ranil Wickremesinghe, Chandrika Bandaranaike, and Mahinda Rajapaksa. This initiative is seen as crucial for addressing ongoing issues and setting a progressive path forward, with the appeal extending to all parliamentary parties to prioritize this matter.
 
-வடக்கு மற்றும் தெற்கின் பரஸ்பர நம்பிக்கையை ஏற்படுத்தவும், இனம் மற்றும் மதத்தை அடிப்படையாகக் கொண்ட மோதல்கள் மீண்டும் இடம்பெறாமல் இருப்பதற்கும், அனைத்து பிரஜைகளுக்கும் கண்ணியத்துடன் வாழக்கூடிய உரிமையை வழங்குவதும், இந்த பிரச்சனைகளை எதிர்கால தலைமுறைகளுக்கு விட்டு வைக்காமல் இருப்பதும் எமக்குள்ள பாரிய கடமையாகும்.
+🟩
 
-ஆகையால் இவ்விடயம் தொடர்பில்  கவனம் செலுத்தி அதற்கான தலையீடுகளை எதிர்வரும் பாராளுமன்ற தேர்தலுக்கு முன் மேற்கொள்ள வேண்டும் என்பது எமது நம்பிக்கையாகும். மேலும் 09  ஆவது பாராளுமன்றத்தின் கால எல்லை தொடர்பிலும் கவனம் செலுத்துமாறு கௌரவ ஜனாதிபதி அவர்கள் உள்ளிட்ட ஆளும் கட்சிக்கும், ஒட்டுமொத்த எதிர்க்கட்சிக்கும் வேண்டுகோள் விடுக்கின்றது.
+Political leaders and diaspora Tamils ​​have expressed their positive position on the implementation of the 13th Amendment, and Karujayasuriya, the leader and former Speaker of the National Movement for Mukherjee, has called for a solution without delay.
+
+It is our great duty to establish mutual confidence in the North and South, to ensure that race and religion -based conflicts are not resumed, the right to live with dignity for all citizens and not leave these problems for future generations.
+
+Therefore, it is our hope that focusing on this issue and making interventions before the upcoming parliamentary elections. Moreover, the Hon. President, including the ruling party and the entire opposition party, appeals to the focus of the 09th Parliament's time.
 
 ...
 
 [Data](articles/db17f79c.json)
+
+[Extended Data](ext_articles/db17f79c.ext.json)
 
 ---
 
@@ -2275,33 +2313,5 @@ In the article, it is mentioned in the article that congratulations on this succ
 [Data](articles/94425ca2.json)
 
 [Extended Data](ext_articles/94425ca2.ext.json)
-
----
-
-### The police and the police and the Army apologizes from the Supreme Court
-
-*2024-06-11 12:20:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7223ljmy9do) · `si`
-
-In a case involving a journalist attacked by police and army personnel, the Supreme Court received apologies from both entities. The incident occurred when the journalist visited the Ratnapura Government Agent's office. Following the resolution of the dispute, no further actions were taken against the court. The journalist, Sarath Wimalaratne, initiated the case, highlighting the brutality of the attack and his subsequent detention. The Supreme Court's intervention led to the forgiveness of the involved parties, including a military member assaulted by police officers. This case underscores the importance of judicial oversight in ensuring accountability for such incidents.
-
-🟩
-
-The police and the police and the Army apologizes from the Supreme Court
-
-Ratnapura police constable and the OIC of Ratnapura Police, Ratnapura and several others to attack a journalist in the Supreme Court regarding the attack on the Ratnapura Government Agent's office..
-
-Accordingly, the dispute has been resolved and the petitioner has not taken any action against the petitioner court against the petitioner's court.
-
-The panel of judges filed by journalist Sarath Wimalaratne called on the judge of the panel of judges and Mahinda Samayawardena
-
-The respondents were prepared to pardon the petitioner, who appeared before the Supreme Court in courts who appeared in behalf of the respondents.
-
-The former Government Agent of Ratnapura Namadu OIC, OIC of the Petition, is OIC, OIC of the Anuradhapura Police Station, Eighty Police OIC, Eastern Police OIC, Ratnapura journalist in the Kuruwita Army.The host was forgiven.
-
-...
-
-[Data](articles/26f55949.json)
-
-[Extended Data](ext_articles/26f55949.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 12:52:19**
+As of **2024-06-11 13:04:35**
 
 ## Newspaper Stats
 
-*Scraped **29,760** Articles*
+*Scraped **29,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,544
+adalk | 2,545
 adaderanalk | 3,365
 tamilmirrorlk | 3,487
 virakesarilk | 4,554
@@ -26,51 +26,63 @@ adaderanasinhalalk | 4,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,757 (100.0%) of 29,760 articles have been extended.
+29,760 (100.0%) of 29,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ජනපති බයිඩන් ගල්වෙයි - කමලා හැරිස් ගෙන් සුපිරි නැටුමක්
+### President's Bidane Galts
 
 *2024-06-11 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197638) · `si`
 
-ධවල මන්දිරයේ පැවති උත්සවයක් අතරතුරදී ජනාධිපති ජෝ බයිඩන් විනාඩියකට ආසන්න කාලයක් නොසෙල්වී (ගල්වූවා) සිටීම සම්බන්ධයෙන් සමාජ මාධ්‍ය යේ විවිධ දේ කියවෙයි.
+At a White House evening event, President Joe Biden engaged with social media while surrounded by notable guests. Despite being 81 years old, he delivered a speech and joined in the dance during a performance. The President is also dealing with the loss of his son, Beau Biden, and his brother, Jimmy Biden. Meanwhile, Vice President Kamala Harris danced with renowned singer Kirk Franklin.
 
-මෙම උත්සවය ඊයේ (10) රාත්‍රියේ පැවැත්වුණු අතර ජනප්‍රිය පුද්ගලයින් විශාල පිරිසක් ඊට එක්වී සිටි බව වාර්තා විය.
+🟩
 
-එසේම 81 හැවිරිදි ජනපතිවරයා සිය කථාව පවත්වන විට ගොත ගැසූ බවද ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+During a function held at the White House, President Joe Biday reads different things in the social media.
 
-මාධ්‍ය වාර්තා සඳහන් කළේ ප්‍රකට සංගීත කණ්ඩායමක් සිය දක්ෂතා දක්වන විට රැස්වී සිටි පිරිස නටමින් විනෝද වූ බවත් එහෙත් ජනපතිවරයා ගල්වූවාක් මෙන් සිටි බවත් ය.
+The event was held at night and a large number of popular people were present.
 
-එම අවස්ථාවට එක්ව සිටි පිලොනීස් ෆ්ලොයිඩ් (ජෝර්ජ් ෆ්ලොයිඩ් ගේ සහෝදරයා) ජනපතිවරයා ගේ වෙනස හඳුනාගෙන ජනපතිවරයා ව පියවි තත්ත්වයට ගන්නා අයුරු දක්නට ලැබුණි.
+International media reports that the 81-year-old President conducted his speech when his speech was held.
 
-මේ අතර උප ජනාධිපතිනි කමලා හැරිස් ප්‍රකට ගායක කර්ක් ෆ්‍රැන්ක්ලින් සමග සිදුකළ නර්ථනය කාගේත් කතාබහට ලක්වූ මාතෘකාවක් විය.
+The media reports stated that when the general band was talented, the meeting was dancing.
+
+The President was diagnosed with the President of Pironacy Floyd (Brother Flooid's brother) and the President is trying to detect the President's change.
+
+Meanwhile, Vice President of Thala Harris was a title that danced with a famous singer Kirk Franklin.
 
 ◼️
 
 [Data](articles/75c1b40e.json)
 
+[Extended Data](ext_articles/75c1b40e.ext.json)
+
 ---
 
-### விஜயதாசவுக்கு எதிரான தடையுத்தரவு நீடிப்பு
+### Extension extending against Vijayadasa
 
 *2024-06-11 12:25:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாசவுக்கு-எதிரான-தடையுத்தரவு-நீடிப்பு/175-338755) · `ta`
 
-அமைச்சர் விஜயதாச ராஜபக்ஷவை ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக நியமிப்பதையும், ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அங்கத்தவராக ஏற்றுக்கொள்ளப்படுவதையும் தடுத்து
+Vijayadasa Rajapaksa's leadership of SLFP faces legal challenges, with a court order extending a ban involving him and other party officials. The case, which includes allegations against Sarath Ekanayake, Vijayadasa Rajapaksa, Keerthi Udwatta, and Maithripala Sirisena, was heard on the 28th, leading to the extension of the ban.
 
-கொழும்பு மேலதிக மாவட்ட நீதவான் சந்திம எதிரிமான்ன பிறப்பிக்கப்பட்டிருந்த தடையை நீடிக்க இன்று (11) உத்தரவிட்டுள்ளார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொருளாளர் இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண இந்த வழக்கை தாக்கல் செய்திருந்தார். அதில், சரத் ​​ஏக்கநாயக்க, நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ, பதில் பொதுச் செயலாளர் கீர்த்தி உடவத்த மற்றும் மைத்திரிபால சிறிசேன ஆகியோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+The appointment of Minister Vijayadasa Rajapaksa as the leader of the Sri Lanka Freedom Party (SLFP) and the acceptance of the Sri Lanka Freedom Party (SLFP)
 
-கடந்த 28 ஆம் திகதி வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டதை அடுத்து, தடையுத்தரவு நீடிக்கப்பட்டுள்ளது.
+Colombo Additional District Magistrate Chandima today (11) has been ordered to extend the ban.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளராக கீர்த்தி உடவத்த, பதில் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க மற்றும் தலைவர் நிமல் சிறிபாத சில்வா ஆகியோர் கட்சியின் நடவடிக்கைகளுக்கு இடையூறு விளைவிக்கக் கூடாது என்பதற்காக விதிக்கப்பட்ட தடையை நீடிக்குமாறு மேலதிக மாவட்ட நீதவான் உத்தரவிட்டுள்ளார்.
+The Treasurer of the Sri Lanka Freedom Party (SLFP). In it, Sarath Ekanayake, Justice Minister Vijayadasa Rajapaksa, General Secretary Keerthi Udwatta and Maithripala Sirisena have been referred to as defendants.
+
+The ban has been extended after the case was taken up for hearing on the 28th.
+
+The Additional District Magistrate has ordered Keerthi Udanayake and General Secretary Duminda Dissanayake and Chairman Nimal Siripada Silva to be the General Secretary of the Sri Lanka Freedom Party (SLFP).
 
 ◼️
 
 [Data](articles/538cf5d8.json)
+
+[Extended Data](ext_articles/538cf5d8.ext.json)
 
 ---
 
@@ -131,6 +143,8 @@ Minister Sabry, during the meeting, brought to the attention of his Russian coun
 ...
 
 [Data](articles/c5406581.json)
+
+[Extended Data](ext_articles/c5406581.ext.json)
 
 ---
 
@@ -375,6 +389,20 @@ The Chinese authorities have not issued any statement regarding the attack.
 [Data](articles/cae37c42.json)
 
 [Extended Data](ext_articles/cae37c42.ext.json)
+
+---
+
+### ආකර්ශණීය උච්චිමුණේ දූපතත් විනාශවීමේ ආරම්භයද මේ ....
+
+*2024-06-11 10:48:36* · [`adalk`](https://www.ada.lk/breaking_news/ආකර්ශණීය-උච්චිමුණේ-දූපතත්-විනාශවීමේ-ආරම්භයද-මේ-----/11-410137) · `si`
+
+කල්පිටිය දූපත් සමූහයට අයත්, සංචාරක සංවර්ධන අධිකාරීයට මුලුමනින්ම පවරා දී ඇති, උච්චිමුණේ දූපතේ ව්‍යාපාරික වටිනාකමින් යුතු ඉඩම් කිසියම් පිරිසක් විසින් අනවසරයෙන් අල්ලා ගෙන ඇතැ යි, සංචාරක සංවර්ධන අධිකාරියේ පුත්තලම ප්‍රාදේශීය නිළධාරී මනෝජ් රත්නායක මහතා චෝදනා කරයි. අක්කරයේ පටන් අක්කර විස්ස විසි පහ දක්වා පුලුල් පරාසයකට, මහ පරිමාණ වශයෙන් අතලොස්සක් වූ පිරිසක් මෙසේ ඉඩම් අල්ලා ගෙන ඇතැ යි එම මහතා වැඩි දුරටත් පවසා සිටියි.
+
+උච්චිමුණේ දූපත කල්පිටිය ගොඩ බිම සිට දියඹින් කිලෝ මීටර 13 ක් පමණ දුරින් පිහිටි අක්කර එක්දහස් එක සියයකට ආසන්න ඉඩම් ප්‍රමාණයකින් යුතු දූපතකි. ධීවර පවුල් තුන්සියයකට ආසන්න පිරිසක් ද වෙසෙති. රජයේ පාසැලක් ළදරු පාසලක් සහ කතෝලික දේවස්ථානයකින් ද සමන්විතය. උච්චිමුණේ දූපත 2012,04.17 දින 4/10/21029-11 දරණ නිදහස් දීමනා පත්‍රය මගින් සංචාරක සංවර්ධන  කටයුතු ප්‍රවර්ධනය සදහා ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය වෙත පවරා දී ඇත.
+
+...
+
+[Data](articles/61c3dcf2.json)
 
 ---
 
@@ -2241,25 +2269,5 @@ Effective leaders are those who enable positive people performance through role 
 [Data](articles/8037d141.json)
 
 [Extended Data](ext_articles/8037d141.ext.json)
-
----
-
-### Proposed Economic Transformation Act: Will super-regulator put maritime sector in crisis?
-
-*2024-06-10 21:25:28* · [`dailyftlk`](https://www.ft.lk/columns/Proposed-Economic-Transformation-Act-Will-super-regulator-put-maritime-sector-in-crisis/4-762884) · `en`
-
-The question is whether we are circumventing the application of safety legislation to promote investments in the shipping and ports sector
-
-Sweeping reforms of this nature should be cautiously implemented after broad consultation from all and sundry. The Government needs to understand that her persistent aversion and contemptuous attitude to public consultation, together with her extreme urgency to introduce laws, coupled with the acme of recklessness by the drafters and advisors, will only augment the pain and suffering in this country, and make the existing problems far worse
-
-As per Clause 55(2)(b)(v) any regulatory law can be added through regulations
-
-Such additions may put many domestic industries and maritime sector in trouble
-
-...
-
-[Data](articles/8d71e762.json)
-
-[Extended Data](ext_articles/8d71e762.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 21:19:11**
+As of **2024-06-11 21:34:32**
 
 ## Newspaper Stats
 
-*Scraped **29,851** Articles*
+*Scraped **29,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,99 @@ dailyftlk | 1,788
 adalk | 2,560
 adaderanalk | 3,375
 tamilmirrorlk | 3,497
-virakesarilk | 4,566
+virakesarilk | 4,567
 dailymirrorlk | 4,731
-adaderanasinhalalk | 4,804
+adaderanasinhalalk | 4,805
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,849 (100.0%) of 29,851 articles have been extended.
+29,851 (100.0%) of 29,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ரஷ்யா சென்ற அலி சப்ரியின் அதிரடி நடவடிக்கை
+### සමාජ මාධ්‍යයේ දැන් වනිඳුට වඩා හොඳ ක්‍රීඩකයෝ ඉන්නවා - හරීන්
+
+*2024-06-11 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197655) · `si`
+
+සමාජ මාධ්‍ය තුළ විවේචන එල්ල වූ පමණින් ක්‍රිකට් ක්‍රීඩකයින් වෙනස් කිරීමට හැකියාවක් නොමැති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+අද කොළඹදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ක්‍රීඩා අමාත්‍යවරයා කියා සිටියේ ඉකුත් තරග දෙකේ පරාජය පදනම් කරගනිමින් ශ්‍රී ලංකා ක්‍රීඩකයන් හෑල්ලුවට ලක්කිරීම අසාධාරණ බවය.
+
+පසුගියදා නව නියෝග පනවමින් නිකුත් කළ ගැසට් නිවේදනයෙන් ක්‍රිකට් ආයතනයේ නිලධාරීන්ගේ ධුර කාලය දීර්ඝ කර ඇතැයි ඇතැමුන් එල්ල කරන චෝදනා පදනම් විරහිත අසත්‍ය ඒවා බවද ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+"නොදන්න මඟුල්වලට එක එක හෑලි ලියන උන්ට නම් අම්මපා මොකක්ද කරන්නේ කියලා තමයි කල්පනා කරන්නේ. ක්‍රීඩාව දැන් වැටිලා. සමාජ මාධ්‍ය බැලුවොත් සියලුදෙනා දැන් වනිඳුටත් වැඩිය හොඳට ක්‍රීඩා කරන්න පුළුවන් අය. කොහෙවත් යන කීබෝඩ් වීරයන්ගේ කීමට ක්‍රිකට් වෙනස් කරන්න ගියොත් සති පතා වෙනස් කරන්න වෙන්නේ."
+
+◼️
+
+[Data](articles/493dc50f.json)
+
+---
+
+### காரைதீவு பிரதேச மக்கள், மீனவர்களின் நெருக்கடிகளை தீர்க்க அமைச்சர் டக்ளஸ் தேவானந்தாவிடம் கோரிக்கை
+
+*2024-06-11 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185860) · `ta`
+
+காரைதீவு பிரதேசத்தை சேர்ந்த மீனவர்களின் வாழ்வாதாரத்தை மேம்படுத்துகின்ற வகையில் காரைதீவு இந்து மயானத்தை அண்டிய தோணா முகத்துவாரத்தை செப்பனிடுவது குறித்து பரிசீலிக்க கடற்றொழில் நீரியல் வள துறை அமைச்சர் டக்ளஸ் தேவானந்தாவின் விசேட பிரதிநிதி செவ்வாய்க்கிழமை (11) காலை கள விஜயம் மேற்கொணடார்.
+
+காரைதீவை சேர்ந்த பொதுநல செயற்பாட்டாளரும், ஓய்வு நிலை பிரதி அதிபருமான சுந்தரம் தில்லையம்பலம் தொலைபேசியில் அமைச்சர் டக்ளஸ் தேவானந்தாவின் மேலான கவனத்துக்கு தோணா முகத்துவாரத்தை செப்பனிட வேண்டியதன் அவசியம் குறித்து உரையாடியமையை அடுத்து சூறாவளி வேகத்தில் இவ்விஜயம் இடம்பெற்றது.
+
+தோணா முகத்துவாரத்தை செப்பனிட்டு தருவதன் மூலம் பல நூற்று கணக்கான மீனவ உறவுகளுக்கு வாழ்வாதாரம், தொழில் வாய்ப்பு கிடைக்க்க வழி செய்வதுடன் மயானத்துக்கும் தோணா முகத்துவாரத்துக்கும் இடையில் கல்வேலி அமைத்து தருவதன் மூலம் மயானத்தை பாதுகாத்து தருவதற்கும் அமைச்சர் நடவடிக்கை எடுக்க வேண்டும் என்று தில்லையம்பலம் கோரி உள்ளார்.
+
+...
+
+[Data](articles/a6a5296a.json)
+
+---
+
+### Ali Sabri's action action that went to Russia
 
 *2024-06-11 20:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யா-சென்ற-அலி-சப்ரியின்-அதிரடி-நடவடிக்கை/175-338773) · `ta`
 
-ரஷ்யா சென்றுள்ள இலங்கை வெளிவிவகார அமைச்சர் அலி சப்ரி, ரஷ்ய வெளிவிவகார அமைச்சர் Sergey Lavrov உடன் நேற்று (10) இருதரப்பு சந்திப்பை மேற்கொண்டார்.
+Sri Lankan Foreign Minister Ali Sabri met with Russian Foreign Minister Sergey Lavrov, discussing enhanced bilateral ties in areas like tourism, education, and economy. They also addressed issues faced by Sri Lankans in the Russian army, leading to a planned meeting between Sri Lanka's High Committee and Russia's Deputy Minister of Defense. Sabri requested a halt to future recruitments from Sri Lanka.
 
-இந்த சந்திப்பின் போது, ​​சுற்றுலா, உயர்கல்வி மற்றும் பொருளாதார ஒத்துழைப்பு உள்ளிட்ட இருதரப்பு உறவுகளை மேலும் மேம்படுத்த இரு வெளியுறவு அமைச்சர்களும் ஒப்புக்கொண்டதாக மொஸ்கோவில் உள்ள இலங்கை தூதரகம் தெரிவித்துள்ளது.
+🟩
 
-மேலும் இந்த சந்திப்பின் போது அமைச்சர் சப்ரி, ​​ரஷ்ய இராணுவத்தில் இணைந்துள்ள இலங்கை பிரஜைகளின் பிரச்சினையை ரஷ்ய பிரதமரின் கவனத்திற்கு கொண்டு வந்து, அவர்கள் எதிர்நோக்கும் பிரச்சினைகளை தீர்ப்பதற்கு உதவியை நாடினார்.
+Sri Lankan Foreign Minister Ali Sabri, who has visited Russia, held a bilateral meeting with Russian Foreign Minister Sergey Lavrov yesterday.
 
-இது தொடர்பில், வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தலைமையிலான இலங்கை உயர்மட்டக் குழுவிற்கும் ரஷ்ய கூட்டமைப்பின் பாதுகாப்பு பிரதி அமைச்சருக்கும் இடையில் எதிர்வரும் 26 - 27ஆம் திகதிகளில் நடைபெறவிருக்கும் சந்திப்பில் இவைகளை மீளாய்வு செய்ய இணக்கம் காணப்பட்டது.
+During the meeting, the Sri Lankan embassy in Moscow said the two Foreign Ministers agreed to further enhance bilateral relations, including tourism, higher education and economic cooperation.
 
-அமைச்சர் அலி சப்ரியின் வேண்டுகோளுக்கு இணங்க, இலங்கையில் இருந்து மேலும் ஆட்சேர்ப்பு செய்யப்பட மாட்டாது என்றும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. R
+During the meeting, Minister Sabri brought the issue of Sri Lankan citizens who have joined the Russian army to the notice of the Russian Prime Minister and sought help to solve the problems they face.
+
+In this regard, the meeting was held at a meeting to be held on the 26th to 27th of this month between the Sri Lanka High Committee and the Russian Federation's Deputy Minister of Defense.
+
+At the request of Minister Ali Sabri, there will be no further recruiting from Sri Lanka, the report said that the report said. Remble
 
 ◼️
 
 [Data](articles/185e6fd2.json)
 
+[Extended Data](ext_articles/185e6fd2.ext.json)
+
 ---
 
-### ஹொரகொல்லவில் துப்பாக்கிச் சூடு
+### Firing in Horagolla
 
 *2024-06-11 20:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹொரகொல்லவில்-துப்பாக்கிச்-சூடு/175-338772) · `ta`
 
-கம்பஹா - ஹொரகொல்ல  பிரதேசத்தில் இன்று (11) பிற்பகல் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாக நிட்டம்புவ பொலிஸார் தெரிவித்தனர்.
+A shooting in Horagolla, Gampaha, injured one person. The incident occurred while the victim was traveling to a land plot in the area. Police investigations suggest it was done with hunting firearms.
 
-இவர் ஹொரகொல்ல பிரதேசத்தில் உள்ள காணி ஒன்றிற்குச் சென்றிருந்த போது இந்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வேட்டை துப்பாக்கியால் இந்த துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது. R
+Nitambuwa police said that one person was injured in the shooting incident which took place this afternoon in the Gampaha -Horagolla area.
+
+The shooting took place when he was traveling to a land in Horagolla area, police said.
+
+Police investigations have revealed that the shooting was carried out by hunting firearms. Remble
 
 ◼️
 
 [Data](articles/c74fe3f3.json)
+
+[Extended Data](ext_articles/c74fe3f3.ext.json)
 
 ---
 
@@ -2283,55 +2329,5 @@ He further stated that the Cabinet, led by President Ranil Wickremesinghe, has d
 [Data](articles/22a4f053.json)
 
 [Extended Data](ext_articles/22a4f053.ext.json)
-
----
-
-### Four Americans a knives attack in China
-
-*2024-06-11 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197632) · `si`
-
-Four U.S. education advisors were attacked with knives in a public garden in China during a knowledge exchange trip. The assailant, armed with a sharp object, targeted them as they headed to a temple. No official statement has been released by Chinese authorities about the incident.
-
-🟩
-
-Four American National Education advisers who were traveling on China under a knowledge transfer program has been attacked.
-
-It is reported that the knives have been carried out at a public garden in China.
-
-The four were attacked by a man armed with a sharp object while he was heading to a temple.
-
-The Chinese authorities have not issued any statement regarding the attack.
-
-◼️
-
-[Data](articles/cae37c42.json)
-
-[Extended Data](ext_articles/cae37c42.ext.json)
-
----
-
-### This is the beginning of the destruction of the antiquity of Ukrapima ...
-
-*2024-06-11 10:48:36* · [`adalk`](https://www.ada.lk/breaking_news/ආකර්ශණීය-උච්චිමුණේ-දූපතත්-විනාශවීමේ-ආරම්භයද-මේ-----/11-410137) · `si`
-
-Manoj Ratnayake, a regional officer in Puttalam, was arrested by the Kalpitiya Archipelago for allegedly capturing land in Ukrapima. This land grab affects Uchchimima Island, a nearly 100,000-acre area home to about 300 fishing families, a government school, and a Catholic church. The island is under the Sri Lanka Tourism Development Authority for promoting tourism. The arrest follows the construction of a new church, which has attracted both local and foreign tourists. Environmental concerns are also raised due to the impact on local flora and potential erosion. Unauthorized land seizures may lead to legal action.
-
-🟩
-
-Travel Development Authority, Puttalam Regional Officer Manoj Ratnayake, Puttalam has been arrested by the Kalpitiya Archipeland, who have been assigned to the Tourism Development Authority, has been captured by a group of business values ​​in Ukrapima.. He further said that the land had been captured by the land, a large number of people with twenty-five acres.
-
-Uchchimima Island is an area of ​​nearly 100,000 acres nearing nearly 13 km away from the ground. Nearly 300 fishing families live. A government school is equipped with a baby school and a Catholic church. The island of Uchchimanu has been vested with the Sri Lanka Tourism Development Authority for the promotion of tourism.
-
-"With the construction of the massive new Walukuknni church on the island of Ubeyamiyene, the local and foreign tourist attraction has been captured.
-
-"They had none of any tips without any trial.
-
-According to the Kalpitiya Police, five persons who have called the land have been captured and notified.
-
-...
-
-[Data](articles/61c3dcf2.json)
-
-[Extended Data](ext_articles/61c3dcf2.ext.json)
 
 ---

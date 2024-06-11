@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 01:34:18**
+As of **2024-06-12 03:04:17**
 
 ## Newspaper Stats
 
-*Scraped **29,881** Articles*
+*Scraped **29,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,717
-dailyftlk | 1,794
+dailyftlk | 1,809
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
@@ -26,11 +26,285 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,877 (100.0%) of 29,881 articles have been extended.
+29,882 (100.0%) of 29,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Marikkar alleges JVP-ITN-President’s Office conspiracy behind one-sided debate
+
+*2024-06-12 02:02:17* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-alleges-JVP-ITN-President-s-Office-conspiracy-behind-one-sided-debate/56-762975) · `en`
+
+Argues a debate should not be restricted to a State television channel or any single media outlet, advocating for its openness to all media
+
+Criticises involvement of Sudharman Radaliyagoda as mediator, citing his association with Rajapaksas and past imprisonment
+
+Rejects participation in event, alleging its orchestration by President, JVP, and demands Economic Council debate instead
+
+Samagi Jana Balawegaya (SJB) MP S. M. Marikkar yesterday claimed the recent televised debate planned between SJB leader Sajith Premadasa and National People’s Power (NPP) party leader Anura Kumara Dissanayake with only the latter attending was a conspiracy hatched by the NPP, ITN and the President’s Office.
+
+Addressing a press conference yesterday in Colombo, Marikkar displayed a photograph to support his allegation. The image depicted NPP’s K.D. Lalkantha and Upul Kumarapperuma in conversation with ITN Chairman Sudarshana Gunawardana at a social gathering.
+
+...
+
+[Data](articles/28ed9b1a.json)
+
+---
+
+### Harrison predicts significant SJB defection to President’s camp post poll announcement
+
+*2024-06-12 01:59:09* · [`dailyftlk`](https://www.ft.lk/news/Harrison-predicts-significant-SJB-defection-to-President-s-camp-post-poll-announcement/56-762974) · `en`
+
+UNP stalwart P. Harrison claims various parties have already pledged their support for Wickremesinghe
+
+Dismisses concerns about the postponement of Presidential election and claims poll will be held before 17 October
+
+Reiterates Wickremesinghe will emerge as common candidate, with neither SLPP nor SLFP fielding separate candidates
+
+Claims Ranil Wickremesinghe will emerge victorious by obtaining over 10 million votes
+
+At a recent United National Party (UNP) gathering in Anuradhapura, former Minister P. Harrison made significant claims regarding the upcoming Presidential election, suggesting a major political shift towards President Ranil Wickremesinghe’s leadership.
+
+Harrison asserted that numerous parties from both the Government and the opposition have pledged their allegiance to Wickremesinghe’s alliance.
+
+...
+
+[Data](articles/10eb1bbc.json)
+
+---
+
+### NMSJ urges immediate Parliamentary action on national unity and justice
+
+*2024-06-12 01:58:37* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-urges-immediate-Parliamentary-action-on-national-unity-and-justice/56-762973) · `en`
+
+The National Movement for Social Justice (NMSJ) led by former Speaker Karu Jayasuriya has issued a call to action, urging both the ruling party and the Opposition to urgently address critical national issues to foster unity and justice.
+
+Emphasising the need to cultivate mutual trust between the north and south of Sri Lanka, the NMSJ in a statement yesterday asserted that issues rooted in race and religion must never resurface. The organisation highlighted the imperative of addressing these challenges proactively, rather than leaving them for future generations.
+
+In its press release, the NMSJ stressed the importance of tackling these issues before the next Parliamentary Elections and called on the current Government, led by the President, and the Opposition to prioritise and thoroughly address these concerns during the 9th Parliamentary term, aiming for a just society.
+
+...
+
+[Data](articles/dfd1aef7.json)
+
+---
+
+### Future NPP Govt. to enlist Ravi and Shani to probe financial frauds
+
+*2024-06-12 01:57:31* · [`dailyftlk`](https://www.ft.lk/news/Future-NPP-Govt-to-enlist-Ravi-and-Shani-to-probe-financial-frauds/56-762972) · `en`
+
+NPP’s Dr. Nalinda Jayatissa says decision by SDIG Ravi Seneviratne and SSP Shani Abeysekara to support NPP has unsettled certain individuals
+
+Claims Govt. and SJB attempted to dissuade two top cops from joining NPP
+
+Maintains a future NPP Govt. will obtain their support to probe financial frauds and unsolved crimes
+
+National People’s Power (NPP) Executive Council member Dr. Nalinda Jayatissa announced yesterday that the party plans to enlist the support of former top Police officers, Senior DIG Ravi Seneviratne and SSP Shani Abeysekara, to investigate financial frauds under an NPP-led Government.
+
+Seneviratne and Abeysekara recently extended their support to the NPP with Seneviratne taking over as the head of NPP’s Retired Police Collective.
+
+Speaking to the media Dr. Jayatissa emphasised that both officers are distinguished former Police officials, and the NPP will seek their expertise to launch investigations into large-scale frauds and unsolved crimes, including killings.
+
+...
+
+[Data](articles/bc8c5824.json)
+
+---
+
+### Sabry meets with Russian Foreign Minister
+
+*2024-06-12 01:56:53* · [`dailyftlk`](https://www.ft.lk/news/Sabry-meets-with-Russian-Foreign-Minister/56-762971) · `en`
+
+Foreign Minister Ali Sabry who is currently in Russia to participate in the BRICS 2024 Foreign Ministerial Session with developing countries had a bilateral meeting with Russian Foreign Minister Sergey Lavrov on Monday.
+
+During the meeting, the two foreign ministers agreed to further enhance bilateral ties, including in the spheres of tourism, higher education, and economic cooperation.
+
+Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them.
+
+In this regard, it was agreed that the forthcoming meeting that is scheduled on 26-27 June between the Sri Lankan high-level delegation led by State Minister of Foreign Affairs Tharaka Balasuriya and the Deputy Minister of Defence of the Russian Federation, will review these issues in detail and take suitable action to arrest the situation.
+
+...
+
+[Data](articles/16f41368.json)
+
+---
+
+### BoardPAC elevates board governance standards through collaboration with Johannesburg Stock Exchange
+
+*2024-06-12 01:55:00* · [`dailyftlk`](https://www.ft.lk/business/BoardPAC-elevates-board-governance-standards-through-collaboration-with-Johannesburg-Stock-Exchange/34-762970) · `en`
+
+BoardPAC, the leading provider of board governance solutions, is excited to rekindle discussions with the Johannesburg Stock Exchange (JSE), marking a significant stride toward enhancing board governance standards in South Africa.
+
+This renewed engagement echoes its commitment to forging strategic alliances, building upon its previous collaboration efforts, and advancing governance practices.
+
+In a recent meeting between Team BoardPAC and key stakeholders from the JSE, both parties explored new opportunities and discussed how BoardPAC’s innovative solutions can enhance the boardroom experience for esteemed clients of the exchange. The discussion centred on streamlining board processes, eliminating cumbersome paperwork, and fostering more effective collaboration among board members and key staff.
+
+...
+
+[Data](articles/d13d1e4a.json)
+
+---
+
+### MAS Kreeda secures 10 ROSPA Gold Awards for outstanding health and safety performance
+
+*2024-06-12 01:53:26* · [`dailyftlk`](https://www.ft.lk/business/MAS-Kreeda-secures-10-ROSPA-Gold-Awards-for-outstanding-health-and-safety-performance/34-762969) · `en`
+
+The winning teams across the MAS Group captured at the ROSPA Health and Safety Awards in Dubai
+
+Global apparel-tech conglomerate, MAS Holdings, announced the outstanding achievement by its subsidiary, MAS Kreeda, which was honoured with 10 Gold Awards by The Royal Society for the Prevention of Accidents (ROSPA) for their exemplary health and safety performance for the year 2023.
+
+The ten MAS Kreeda Strategic Business Units (SBUs) recognised were, Kreeda Balangoda, Kreeda Methliya, Kreeda Shadeline, Kreeda Synergy, Kreeda Vaanavil, Kreeda Campus, Kreeda Al Safi Sahab, Kreeda Al Safi Dulayl, Kreeda Al Safi Madaba, and Kreeda Arya 2 during a special ceremony in Dubai.
+
+In addition to the Gold Awards, another MAS subsidiary, Bodyline Ltd. was also awarded the ROSPA Silver Award.
+
+...
+
+[Data](articles/c9ea9fde.json)
+
+---
+
+### Labour Minister meets ILO Director General in Geneva
+
+*2024-06-12 01:51:49* · [`dailyftlk`](https://www.ft.lk/news/Labour-Minister-meets-ILO-Director-General-in-Geneva/56-762968) · `en`
+
+Labour and Foreign Employment Minister Manusha Nanayakkara (right) with the International Labour Organisation (ILO) Director General Gilbert F. Houngbo
+
+ILO Director General Gilbert F. Houngbo commends 70% salary increment for plantation sector workers
+
+Labour Minister Manusha Nanayakkara outlines key initiatives to enhance standards, employment conditions
+
+Labour and Foreign Employment Minister Manusha Nanayakkara met with the International Labour Organisation (ILO) Director General Gilbert F. Houngbo at the United Nations Headquarters on the sidelines of the Annual International Labour Conference (ILC).
+
+During the meeting in Geneva, ILO Director General Houngbo praised the progressive work undertaken by the Labour and Foreign Employment Ministry, specifically commending the recent 70% salary increment for plantation sector workers and the adherence to the ILO’s principle of social dialogue during this process.
+
+...
+
+[Data](articles/03d317f1.json)
+
+---
+
+### LRC to grant land ownership to 4,151 estate workers living in line rooms
+
+*2024-06-12 01:50:04* · [`dailyftlk`](https://www.ft.lk/news/LRC-to-grant-land-ownership-to-4-151-estate-workers-living-in-line-rooms/56-762967) · `en`
+
+1,059 transfer deeds already handed over to estate worker families
+
+The Land Reform Commission (LRC) will grant 3,192 transfer deeds to worker families in the plantation sector simultaneously to the ’Urumaya’ national program, which grants unconditional freehold ownership of lands to people.
+
+LRC Chairman Panduka Keerthinanda told the Daily FT that 1,059 deeds have already been transferred to estate worker families in Kandy, Nuwara Eliya, Matale and Kegalle districts.
+
+He said the following recommendations of the New Village Development Authority for Plantation Region, which have done surveys, feasibility studies and other requirement to implement the transfer of deeds program named – Semata Himi Bimak- (land ownership for everyone) will also be launched in other districts – Badulla, Monaragala, Matale, Galle, Ratnapura, Colombo and Kalutara.
+
+...
+
+[Data](articles/1e1ceb18.json)
+
+---
+
+### CEB submits quarterly electricity tariff revisions for July: Minister
+
+*2024-06-12 01:49:25* · [`dailyftlk`](https://www.ft.lk/news/CEB-submits-quarterly-electricity-tariff-revisions-for-July-Minister/56-762966) · `en`
+
+Power and Energy Minister Kanchana Wijesekera yesterday announced that in line with the Government’s policy to revise electricity tariffs quarterly, the Ceylon Electricity Board (CEB) has submitted its latest proposal to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+Taking to ‘X’ he noted that the proposal, submitted on Friday, outlines tariff revisions for July.
+
+Minister Wijesekera highlighted the proposed reductions in energy charges across several sectors, including domestic, religious, general purpose and Government buildings.
+
+The proposal aims to provide further reductions in energy charges for these key sectors.
+
+“The PUCSL will determine the final tariffs after evaluation of the proposal and the public consultation,” he added.
+
+◼️
+
+[Data](articles/59debd0d.json)
+
+---
+
+### President forms Expert Committee to address public sector salary disparities
+
+*2024-06-12 01:48:15* · [`dailyftlk`](https://www.ft.lk/news/President-forms-Expert-Committee-to-address-public-sector-salary-disparities/56-762965) · `en`
+
+President Ranil Wickremesinghe has appointed a specialist committee to address salary anomalies in the Government service.
+
+This committee, chaired by a former Presidential Secretary Udaya Seneviratne, comprises various distinguished members including National Budget Department Director General S.D.J. Nilukshan, Management Services Department Director General Hiransa Kaluthantri, Combined Services Director General S. Aloka Bandara, Institutions Director General H.A. Chandana Kumarasinghe, Dr. Terence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Dharmaratne and Isuru Thilakawardena.
+
+Presidential Additional Secretary Vernon Perera serves as the Secretary of the said committee.
+
+...
+
+[Data](articles/a1b65d3a.json)
+
+---
+
+### CoPF exposes unregulated online casino operations
+
+*2024-06-12 01:47:32* · [`dailyftlk`](https://www.ft.lk/news/CoPF-exposes-unregulated-online-casino-operations/56-762964) · `en`
+
+CoPF Chairman Dr. Harsha de Silva instructs letter to be sent to Finance Minister urging immediate attention
+
+Directs officials to expedite implementation of laws to setup regulatory authority
+
+The Committee on Public Finance (CoPF) recently revealed that despite legal prohibitions, online casinos continue to operate openly in Sri Lanka, depriving the Government’s revenue without facing any repercussions.
+
+During a CoPF meeting chaired by MP Dr. Harsha de Silva last week, it was highlighted that the unregulated status of online casinos allows them to flourish without contributing the due taxes to the Government coffers.
+
+Dr. de Silva instructed that a letter be sent to the Finance Minister, urging immediate attention to this issue.
+
+The meeting underscored the necessity of establishing a Casino Regulator to address these challenges.
+
+...
+
+[Data](articles/6e8c08e9.json)
+
+---
+
+### SJB will support amended IMF program: Harsha
+
+*2024-06-12 01:46:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-will-support-amended-IMF-program-Harsha/56-762963) · `en`
+
+Main opposition, Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva yesterday said that they will support an amended International Monetary Fund (IMF) program for Sri Lanka.
+
+Dr. de Silva made this announcement following a constructive discussion with notable economists and policymakers, including Jayati Ghosh, Martin Guzman and Charles Abugre, alongside fellow SJB member Kabir Hashim.
+
+“Good conversation with @Jayati1609 @Martin_M_Guzman @CharlesAbugre w @KabirHashim4 on purported alternative to @IMFNews. Agree nations must cooperate to increase bargaining position but won’t blame conspiracy for SriLanka crisis. @sjbsrilanka will stay w amended IMF program,” Dr. de Silva posted on ‘X’.
+
+He pointed out the importance of international cooperation to enhance bargaining positions but rejected conspiracy theories as explanations for Sri Lanka’s economic crisis.
+
+...
+
+[Data](articles/1dc64339.json)
+
+---
+
+### Discussion today on electoral integrity and role of political parties
+
+*2024-06-12 01:45:33* · [`dailyftlk`](https://www.ft.lk/news/Discussion-today-on-electoral-integrity-and-role-of-political-parties/56-762962) · `en`
+
+The Centre for Investigative Reporting (CIR) will host a panel discussion titled ‘Promoting Electoral Integrity: Role of Political Parties’ today from 3 p.m. to 5 p.m. at the Sri Lanka Foundation.  The panel comprises Prof. Ranjith Bandara (SLPP), M.A. Sumanthiran PC (ITAK) Dr. Harsha de Silva (SJB), Rauff Hakeem (SLMC) and Harshana Nanayakkara (NPP). The discussion will be moderated by Amal Jayasinghe, AFP Bureau Chief for Sri Lanka and the Maldives.
+
+This is the fourth and final discussion in CIR’s dialogue series focused on electoral integrity.
+
+◼️
+
+[Data](articles/b55329b4.json)
+
+---
+
+### Navigating troubled waters: Indo-Lanka fishing dispute and quest for sustainable solution
+
+*2024-06-12 01:21:52* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-troubled-waters-Indo-Lanka-fishing-dispute-and-quest-for-sustainable-solution/4-762952) · `en`
+
+The maritime dispute between India and Sri Lanka over illegal fishing by Tamil Nadu fishermen in Sri Lankan waters in the Palk Bay, the Gulf of Mannar, and the Palk Strait has reached a critical juncture. Recent incidents of Sri Lankan authorities detaining Indian fishermen for allegedly crossing the International Maritime Boundary Line (IMBL) have reignited longstanding tensions. This article will attempt to delve into the heart of the conflict simmering for many decades, explore the environmental and socio-economic impacts, and highlight the need for an urgent resolution that respects the livelihoods and traditions of Sri Lankan fishing communities in the northern, north-western, and north-eastern parts of the island while ensuring marine conservation.
+
+...
+
+[Data](articles/590e7004.json)
+
+[Extended Data](ext_articles/590e7004.ext.json)
+
+---
 
 ### Could you believe crabs killing giant guitarfish?
 
@@ -43,6 +317,8 @@ The Rhinopristiformes exhibit slow growth, late maturity, and low fecundity, lik
 ...
 
 [Data](articles/201b8a66.json)
+
+[Extended Data](ext_articles/201b8a66.ext.json)
 
 ---
 
@@ -57,6 +333,8 @@ Mahadanamuththa and his modern golayas live in a fictional land called ‘Sasiri
 ...
 
 [Data](articles/53055c73.json)
+
+[Extended Data](ext_articles/53055c73.ext.json)
 
 ---
 
@@ -76,6 +354,8 @@ Kalpage brings extensive experience and a proven track record in the technology 
 
 [Data](articles/975871d6.json)
 
+[Extended Data](ext_articles/975871d6.ext.json)
+
 ---
 
 ### FPA Sri Lanka’s SEAP Project wins again at NPME 2024
@@ -89,6 +369,8 @@ In 2015, IPPF launched the Social Enterprise Acceleration Program (SEAP) to empo
 ...
 
 [Data](articles/03a03fbf.json)
+
+[Extended Data](ext_articles/03a03fbf.ext.json)
 
 ---
 
@@ -1887,357 +2169,5 @@ Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha Distric
 [Data](articles/546c9018.json)
 
 [Extended Data](ext_articles/546c9018.ext.json)
-
----
-
-### Chat gp on apple phones add
-
-*2024-06-11 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197645) · `si`
-
-Apple is focusing on integrating AI technology across its products, including the upcoming iPhone, which will feature advanced AI capabilities like responding to messages and emails through Siri. This move aims to enhance user experience and compete with other tech giants. The inclusion of ChatGPT, an AI app from OpenAI, in the iPhone is expected to boost sales as it caters to the growing demand for AI-enhanced devices.
-
-🟩
-
-At a moment, American Apple is working on ai technology using a range of products to the top match between leading technology companies to take the lead in technology.
-
-Accordingly, Apple's annual developers confronted at the annual developers of Apple yesterday (the DEVELOPERS CONFERANCE) stated that Apple's next iPhone is equipped with AI or artificial intelligence.
-
-Apple announced the popular Chat GPT popular Chat GPT in Open AI computing artificial intelligence app.
-
-Apple CEOs states that Apple phones can also respond to Apple phones, emails, emails and third party in the voice.
-
-Siri "AI apps manifests to send emails for you to write emails for you.
-
-The popular chat gpt Ai app is included in the iPhone this year.
-
-The iPhone marketing is expected to increase the iPhone marketing when Apple focuses on AI technology.
-
-Market analysts show that the iPhones who wish to update their mobile phones ai technique to be updated in ai techniques have been tempted to buy new iPhones.
-
-◼️
-
-[Data](articles/663298ba.json)
-
-[Extended Data](ext_articles/663298ba.ext.json)
-
----
-
-### Election uncertainty is the factor that can severely affect economic recovery
-
-*2024-06-11 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185830) · `ta`
-
-Sri Lanka faces significant economic challenges, including a rising international debt exceeding $100 billion, with unpaid loan interests surpassing $6.4 billion. The country's economic growth shrank by 7.3% in 2022 and is projected to grow by only 2% in 2023, with revenue levels lower than two years ago. Political instability, particularly regarding upcoming elections, further complicates the situation. Despite efforts to restructure debt with the IMF, the burden on citizens is expected to worsen. The government's handling of the economic crisis and the necessity of fair and timely elections are crucial for restoring confidence and addressing the nation's pressing issues.
-
-🟩
-
-People do not wait for long rows of gas in petrol or gas. But the economic statistics are worrisome. The country's international debt is continuously increasing as it was before the economic downturn.
-
-Sri Lanka's international debt was about US $ 80 billion in the event of an economic crisis two years ago. According to news reports, amid the slight development of some major economic activities, such as Sri Lanka's credit marriage, has now exceeded $ 100 billion.. At the same time, the first interest and interest of some of the unpaid loans has exceeded $ 6.4 billion.
-
-This is not good for the country. This shows that there has been no change in basically in the last two years. The country and the government continue to spend more than earnings. They deal with the situation by obtaining loans from abroad.
-
-...
-
-[Data](articles/be91318f.json)
-
-[Extended Data](ext_articles/be91318f.ext.json)
-
----
-
-### Teachers to launch islandwide strike tomorrow
-
-*2024-06-11 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-to-launch-islandwide-strike-tomorrow/108-284603) · `en`
-
-Colombo, June 11 (Daily Mirror) - An islandwide trade union action is scheduled to be launched after school, targeting all Zonal Education Centres over several demands, including the provision of the promised remaining salary, the Ceylon Teachers' Union (CTU) General Secretary Joseph Stalin said.
-
-He told the Daily Mirror that all paper marking at all marking centres will stop at 1 p.m. tomorrow, as they join the trade union action demanding the provision of the remaining two-thirds of the salary increment promised to school principals and teachers.
-
-The CTU demands that the Education Ministry provide the allocated Rs. 46 billion funds as payment for teachers and principals, insisting that the funds be assigned this year.
-
-Additionally, the CTU has called for an increase in paper marking charges. Despite a committee being appointed last year to address this issue, the charges have not been increased, he said.
-
-...
-
-[Data](articles/d4c5bb06.json)
-
-[Extended Data](ext_articles/d4c5bb06.ext.json)
-
----
-
-### Suspect arrested for defrauding five million
-
-*2024-06-11 14:48:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක්-වංචා-කළ-සැකකාරියක්-අත්අඩංගුවට/11-410145) · `si`
-
-A 51-year-old man from Warakapola has been arrested for allegedly defrauding Rs. 5 million. The Criminal Investigations Department (CID) confirms the arrest, which follows complaints from residents across the island about being cheated out of Rs. 3 million. The suspect, who worked as a nurse, is also linked to a conspiracy involving money laundering. The CID continues its investigation.
-
-🟩
-
-The Criminal Investigations Department says that a large number of persons have been arrested for a large number of Rs.
-
-The suspect has been arrested for the complaints that were residents of various parts of the island.
-
-Police said that the suspects had been cheated on a three million rupees at Rs.
-
-The police say that the fraud has been confirmed by the police that the arrest was conducted as a nurse employee.
-
-Breaking suspect casticity. The assistance and assistance of the money and the conspiracy has been arrested in connection with conspiracy.
-
-The suspect is 51 year old Warakapola resident. The CID is conducting investigations.
-
-◼️
-
-[Data](articles/766d7c56.json)
-
-[Extended Data](ext_articles/766d7c56.ext.json)
-
----
-
-### Taxi driver who raped a minor girl
-
-*2024-06-11 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197644) · `si`
-
-A taxi driver convicted of raping a minor girl near her home while she prepared for exams was sentenced to 10 years in prison by the Colombo High Court. The court also fined him, threatening an additional two-year jail term if unpaid.
-
-🟩
-
-A taxi driver who was found guilty of raping a minor girl about 10 years ago, the Colombo High Court sentenced 10 years in prison.
-
-The victim has been accused of raping the girl who was preparing for the GCE O / L examination at the time of his home.
-
-Colombo High Court Judge Adal Pabenman issued the order.
-
-In addition, the judge ordered the pupil of Rs.
-
-If you do not pay the price, it was also imposed to be sentenced to two years in prison.
-
-◼️
-
-[Data](articles/7ae1f777.json)
-
-[Extended Data](ext_articles/7ae1f777.ext.json)
-
----
-
-### Fire at famous Bangkok market kills 1,000 animals
-
-*2024-06-11 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Fire-at-famous-Bangkok-market-kills-1-000-animals/107-284602) · `en`
-
-Bangkok, June 11 (BBC) - Around 1,000 animals were killed in a fire in Bangkok's famous open-air Chatuchak market early Tuesday, gutting nearly 100 shops.
-
-Birds, dogs, cats and snakes were burnt to death in their cages in the pet zone, which also included rats, pythons and geckos.
-
-The blaze was started by an electrical short circuit, authorities said, adding that no human casualties or injuries have been reported.
-
-With tens of thousands of shops crowding narrow lanes, Chatuchak is one of South East Asia's biggest markets.
-
-It's also the largest and best-known of Thailand's weekend markets. It claims to draw nearly 200,000 tourists every Saturday and Sunday.
-
-But the portion of the market selling pets is open through the week. This accounts for about four of the 27 sections in Chatuchak market and is arguably its most controversial trade.
-
-...
-
-[Data](articles/3610c6aa.json)
-
-[Extended Data](ext_articles/3610c6aa.ext.json)
-
----
-
-### Minister outlines reforms to streamline university admissions
-
-*2024-06-11 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99802/minister-outlines-reforms-to-streamline-university-admissions) · `en`
-
-Minister of Education, Susil Premajayantha, announced that the G.C.E. Ordinary Level (O/L) and Advanced Level (A/L) examinations will be expedited to facilitate faster university enrollment for students.
-
-The goal is to enable students to complete their schooling by the age of 18 and seamlessly transition into higher education.
-
-Speaking at a ceremony recognizing the top achievers of the G.C.E. Advanced Level Examination, Minister Premajayantha highlighted the reforms aimed at minimizing delays in the educational timeline.
-
-He emphasized that A/L studies will now begin before the release of O/L results, allowing for continuous academic progress without the previous 4-5 month gap traditionally experienced between the two examination stages.
-
-Starting this year, the A/L examination, which has typically been held in November, will be rescheduled to September by 2025. This change aims to streamline the process and reduce the waiting period for university admissions.
-
-...
-
-[Data](articles/6057f26d.json)
-
-[Extended Data](ext_articles/6057f26d.ext.json)
-
----
-
-### Sajith on sharing police, land powers: Will implement “13; not 13 minus or 13 plus”
-
-*2024-06-11 14:01:00* · [`economynextcom`](https://economynext.com/sajith-on-sharing-police-land-powers-will-implement-13-not-13-minus-or-13-plus-167430/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa who said he, as president, would implement the 13th amendment to the constitution, said on Monday that it would be “13; not 13 minus or 13 plus”, when asked about sharing police and land powers.
-
-The privately owned Swarnavahini television network showed Premadasa, at the end of a round of discussions with representatives of the Ilankai Thamil Arasu Kachchi (ITAK) in Jaffna Monday June 11 morning, responding to questions about his pledge of implementing the amendment.
-
-Asked about land and police powers, Permadasa sadi: “We will move forward the implementation process of the 13th amendment. This amendment is not something new that fell from the sky. It is something that exists in the constitution.  In implementing it, we must create a roadmap on how we efficiently, systematically in an orderly way and implement it. When I spoke of the 13th amendment, I was talking of 13 and not of 13 minus or 13 plus. It was about 13 that I spoke.”
-
-...
-
-[Data](articles/5758adc5.json)
-
-[Extended Data](ext_articles/5758adc5.ext.json)
-
----
-
-### Anurakumara met the members of the Sri Lanka Tamil National Party in Jaffna
-
-*2024-06-11 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185815) · `ta`
-
-Anurakumara Dissanayake led a delegation from the National People's Power to meet the Sri Lanka Tamil National Party in Jaffna, discussing current politics, including the presidential election. The gathering included key figures from both parties, aiming to foster dialogue and understanding.
-
-🟩
-
-A special meeting between the national people and the Tamil state party was held in Jaffna on Tuesday morning.
-
-A team led by Anuragumara Dissanayake, who has been present in Jaffna, met with the Tamil state party led by Mavai Senadirasa.
-
-The meeting was held this morning at the Tamil State Party headquarters on Martin Road, Jaffna.
-
-During this time, contemporary political conditions, including the presidential election, were discussed.
-
-The meeting was attended by its leader Mawai Senadirasa, Vice President CVK Sivagnanam, Executive Secretary Kulanayagam and Media Spokesperson MA Sumanthiran.
-
-Similarly, on behalf of the National People's Power, its leader Anura Kumara Dissanayake and former MPs of the party, Bimal Ratnayake and Ramalingam Chandrasekaran were present.
-
-◼️
-
-[Data](articles/ce049093.json)
-
-[Extended Data](ext_articles/ce049093.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-11 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185816) · `ta`
-
-The current exchange rate is approximately 1 USD = 298.4565 INR.
-
-🟩
-
-The US $ 298.4565 was reported at Rs.
-
-◼️
-
-[Data](articles/0f7a558f.json)
-
-[Extended Data](ext_articles/0f7a558f.ext.json)
-
----
-
-### 11 schools will be closed
-
-*2024-06-11 13:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பாடசாலைகள்-மூடப்படும்/175-338762) · `ta`
-
-Ahead of the Poson festival, 11 schools in Anuradhapura, Mihintale, and Tandrimalai will close from June 18 to 20 at the request of the National Poson Festival Group, Senior Superintendent of Police Thilina Hewapatrana, and the North Central Provincial Education Ministry.
-
-🟩
-
-It has been decided to close 11 schools ahead of Poson festival. Accordingly, the Ministry of Education of the North Central Province has announced that eleven schools in Anuradhapura, Mihintale and Tandrimalai will be closed.
-
-The Poson week will start on June 18 and end on June 20.
-
-Accordingly, Anuradhapura Central College, Swarnabali Balika Maha Vidyalaya, Valasinghe Harichara Maha Vidyalaya, Zahira National School, Vivekananda Tamil Maha Vidyalayam Vidyalaya, VidyalayaTo be closed.
-
-Schools will be closed at the request of the National Poson Festival Group, Senior Superintendent of Police Thilina Hewapatrana and North Central Provincial Education Ministry.
-
-◼️
-
-[Data](articles/a4ceb6c6.json)
-
-[Extended Data](ext_articles/a4ceb6c6.ext.json)
-
----
-
-### Coasts coming from the train
-
-*2024-06-11 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197643) · `si`
-
-The Aluthgama Police arrested Murawatta Kasun, a 34-year-old suspected thief and drug addict, after recovering seven bicycles, six gas cylinders, and nearly four grams of heroin from various locations including Aluthgama, Talamulla, and Minuwalla areas. Investigations reveal Kasun was staying in Moragalla, Moratuwa, and had recently visited Aluthgama Beruwala.
-
-🟩
-
-The Aluthgama Police have arrested the person named Murawatta Kasun 'to the Aluthgama Tourist Zone and other territory.
-
-Attempts to be stolen at the Aluthgama police station, the resignation of bicycles and gas cylinders, in Aluthgama and Talamulla areas have been stolen at the Aluthgama, Talamulla areas and other equipment is located in Minuwalla areas.In the course of checking a suspicious person, he had found nearly four grams of hero.
-
-After the long interrogation from him, all the information pertaining to theft has been revealed.
-
-Investigations have revealed that the suspect had been residential in Moragalla, residing in Moratuwa, residing in Moratuwa and arrived in Aluthgama Beruwala and surrounding areas.
-
-Seven bicycles and six gas cylinders have been recovered by the police.
-
-The suspect is a drug addict, a 34-year-old Massamwatta Kasun.
-
-◼️
-
-[Data](articles/ecd6e677.json)
-
-[Extended Data](ext_articles/ecd6e677.ext.json)
-
----
-
-### A moments of an helpless family
-
-*2024-06-11 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197642) · `si`
-
-From the Aranayaka region, we faced difficulties due to my father's birth and our need for two daughters' reservation benefits.
-
-🟩
-
-We were reported from the Aranayaka area for a couple of my father, who is born and demanding a reservation of two daughters.
-
-◼️
-
-[Data](articles/56612f33.json)
-
-[Extended Data](ext_articles/56612f33.ext.json)
-
----
-
-### Desert is green
-
-*2024-06-11 13:32:42* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාර-කොළපාට-කරන-චීනය/11-410144) · `si`
-
-In Northwest China, 86 power plants along the 522 road generate 3540 kW, producing 36 lakh units annually. This initiative, part of the 'Turnim Oil Bellaway Highway' project, not only boosts electricity but also conserves the environment by reducing diesel use by 1000 tons and cutting CO2 emissions by 3410 tons.
-
-🟩
-
-China makes widespread progress with parallel areas of electricity and environmental conservation.
-
-Northwest China's Treasures. 86 voltage power plants have been built on both sides of the 522. Its overall capacity is 3540 kilowats and annual power generation is 36 lakhs of 36 lakhs. There is also a bio-conservation forest that is located about 3100 hectares around this highway. Electricity is used in the voltatism power plants to replace the water to pump water.
-
-The green electricity generation has been produced by the Green Electricity generation under the 'Turnim Oil Bellaway Highway' project.. It is estimated that the project will reduce the annual diesel consumption by 1000 tons and carbon dioxide by 3410 tons.
-
-◼️
-
-[Data](articles/7638844c.json)
-
-[Extended Data](ext_articles/7638844c.ext.json)
-
----
-
-### Sri Lanka drafts patient safety and well-being charter
-
-*2024-06-11 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafts-patient-safety-and-well-being-charter-167421/) · `en`
-
-ECONOMYNEXT – Sri Lanka has prepared a Charter to ensure patient safety and well-being, compiled by a panel of experts on the advice and guidance of the World Health Organization.
-
-It focuses on institutional standards, stakeholder roles, and alignment with existing strategies to enhance patient safety nationwide, the WHO in Sri Lanka said.
-
-“Sri Lanka is leading the way in initiating the process for a legal framework specifically addressing Patients’ Safety and Wellbeing in a Charter that captures the rights of the patients, and the responsibilities of the health care workers, the government, and the patients,” WHO Sri Lanka said on X (twitter).
-
-If implemented, it would be the first such to ensure the safety and well-being of patients in the South Asian region, Sri Lanka’s parliament said in a statement.
-
-It was prepared by a sub-committee of the Parliamentary sectoral oversight committee on health in consultation with experts.
-
-...
-
-[Data](articles/fa9dc3b5.json)
-
-[Extended Data](ext_articles/fa9dc3b5.ext.json)
 
 ---

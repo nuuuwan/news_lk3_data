@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 07:46:59**
+As of **2024-06-11 08:21:16**
 
 ## Newspaper Stats
 
-*Scraped **29,706** Articles*
+*Scraped **29,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,535
 adaderanalk | 3,357
-tamilmirrorlk | 3,479
+tamilmirrorlk | 3,480
 virakesarilk | 4,554
-dailymirrorlk | 4,711
-adaderanasinhalalk | 4,774
+dailymirrorlk | 4,712
+adaderanasinhalalk | 4,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,691 (99.9%) of 29,706 articles have been extended.
+29,711 (100.0%) of 29,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Notice of trains running
+
+*2024-06-11 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197623) · `si`
+
+The Railway Department announces normal train services for today, November 11th.
+
+🟩
+
+The Railway Department says that the train operations will be done today (11).
+
+◼️
+
+[Data](articles/1fec8691.json)
+
+[Extended Data](ext_articles/1fec8691.ext.json)
+
+---
+
+### Dullas, Dayasiri, Roshan in talks with SJB for alliance
+
+*2024-06-11 07:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dullas-Dayasiri-Roshan-in-talks-with-SJB-for-alliance/108-284565) · `en`
+
+Colombo, June 11 (Daily Mirror) -The political groups led by MPs Dullas Alahapperuma, Dayasiri Jayasekara and Roshan Ranasinghe are in negotiations with the Samagi Jana Balawegaya (SJB) to work out an electoral alliance, an informed source said.
+
+According to the source, the modalities of the new electoral formation have not yet been worked out. Ahead of the elections pending, new political formations are realistic.
+
+All these three MPs were elected to Parliament on the ticket of Sri Lanka Podujana Peramuna (SLPP). Later, they defected from it and joined hands with the opposition.
+
+◼️
+
+[Data](articles/0312a6d8.json)
+
+[Extended Data](ext_articles/0312a6d8.ext.json)
+
+---
+
+### The flight of the deputy presenter of Malawi disappeared
+
+*2024-06-11 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197622) · `si`
+
+A plane carrying Malawi's Vice President disappeared from radar shortly after taking off from Lylonway airport. The President, Lazarus Chakwera, has ordered continuous search and rescue operations, expressing deep concern over the incident.
+
+🟩
+
+The Presidential Secretariat says a plane that a plane has been disappeared in the Malawi State Vice President of Malawi.
+
+The Airline Defense Force flight was left by the Radar system after leaving Lylonway yesterday morning.
+
+Malawi President Lazarus Chakweera said that a search and rescue operation continues.
+
+The President has said that the President has also raised orders to continue the operation until the plane should continue until the plane is found.
+
+And the President also said that the heart is a shock.
+
+◼️
+
+[Data](articles/a6b5ea7d.json)
+
+[Extended Data](ext_articles/a6b5ea7d.ext.json)
+
+---
+
+### Attorney General's service extension is postponed
+
+*2024-06-11 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197621) · `si`
+
+The Attorney General's service extension, recommended by the President, awaits Constitutional Council approval, initially set for today but now postponed until the 18th.
+
+🟩
+
+The Constitutional Council is postponed to approve the President's recommendation to the Attorney General Sanjaya Rajaratnam.
+
+The proposal has also been presented to the Constitutional Council, which met yesterday (10), reports say.
+
+Attorney General Sanjaya Rajaratnam is due to end the end of this month and the President has decided to give him another six months extension.
+
+The proposal should be approved by the Constitutional Council and postponed approval before.
+
+However, the Constitutional Council will come back to the meeting on the 18th.
+
+◼️
+
+[Data](articles/c72cbea5.json)
+
+[Extended Data](ext_articles/c72cbea5.ext.json)
+
+---
 
 ### Biting the hands that feed you
 
@@ -49,6 +137,8 @@ However, their act of theft had been caught on CCTV camera. They had admitted to
 ◼️
 
 [Data](articles/f12aaf70.json)
+
+[Extended Data](ext_articles/f12aaf70.ext.json)
 
 ---
 
@@ -70,6 +160,8 @@ Previously, United National Party (UNP) General Secretary Palitha Range Bandara 
 
 [Data](articles/638f61e4.json)
 
+[Extended Data](ext_articles/638f61e4.ext.json)
+
 ---
 
 ### Rise in flies poses risk of diarrhoea and contagious viral fever
@@ -88,25 +180,33 @@ According to consultant Dr Deepal Perera, the abundance of organic matter in flo
 
 [Data](articles/134be117.json)
 
+[Extended Data](ext_articles/134be117.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+### Showers over 75mm
 
 *2024-06-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197620) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers expected in Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya, Galle, Matara districts. Night thundershowers in Uva Province. Strong winds possible in central hills, Trincomalee, Hambantota, Moneragala districts. Public advised to prepare for potential lightning and wind hazards.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ට පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ඌව පළාතේ ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Several spells can occur in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states in some places in the Western and Sabaragamuwa provinces. Heavy rains can occur at around 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or night thundershowers will occur at evening or night in the Uva Province.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/2d4c7a71.json)
+
+[Extended Data](ext_articles/2d4c7a71.ext.json)
 
 ---
 
@@ -126,6 +226,8 @@ Jayasundara mentioned that the Consumer Affairs Authority (CAA) conducted raids 
 
 [Data](articles/26f1c06f.json)
 
+[Extended Data](ext_articles/26f1c06f.ext.json)
+
 ---
 
 ### Ransomware menace plaguing Sri Lankan businesses: Kaspersky
@@ -144,6 +246,8 @@ The rationale behind this evolution lies in the perpetrators’ ability to opera
 
 [Data](articles/4f5b038f.json)
 
+[Extended Data](ext_articles/4f5b038f.ext.json)
+
 ---
 
 ### Sri Lanka should separate foreign policies from borrowing policies: Dr. Devarajan
@@ -161,6 +265,8 @@ He added that some say it is impossible to make the separation but it is possibl
 ...
 
 [Data](articles/4d6f3949.json)
+
+[Extended Data](ext_articles/4d6f3949.ext.json)
 
 ---
 
@@ -219,6 +325,28 @@ Speaking at a press conference Peiris highlighted that such an extension has not
 [Data](articles/142f90cb.json)
 
 [Extended Data](ext_articles/142f90cb.ext.json)
+
+---
+
+### Exchange IMF. To act according to the contract
+
+*2024-06-11 01:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-ஒப்பந்தப்படி-செயல்பட-வேண்டும்/175-338741) · `ta`
+
+Dr. Bandula Gunawardena, Sri Lanka's Transportation, Highways, and Media Minister, announced that the government must adhere to IMF loan agreements until 2028 while preparing the 2025 budget. He highlighted the need for foreign resources due to a projected shortfall of $5018 billion for international transactions, which previous experience showed required this amount. The IMF has agreed to provide $663 million and another $700 million to cover the budget deficit, alongside offers from the World Bank ($400 million) and the Asian Development Bank ($300 million), totaling potential loan relief of $3655 million for foreign debt restructuring.
+
+🟩
+
+Transportation, Highways and Media Minister Dr. Bandula Gunawardena said that when the government manages the government, the government should act in accordance with the International Monetary Fund until 2028, while preparing the budget document for 2025.
+
+Minister Bandula Gunawardena said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+When preparing the budget for the upcoming 2025, whoever guides the government, they must maintain the loan agreements for the International Monetary Fund until 2028. Accordingly, by 2025, the foreign resource gap will not be sufficient for international transactions. According to last year's experience, it requires $ 5018 billion.
+
+...
+
+[Data](articles/92cbd815.json)
+
+[Extended Data](ext_articles/92cbd815.ext.json)
 
 ---
 
@@ -518,19 +646,27 @@ The press conference was organized to report the first conference of Australia, 
 
 ---
 
-### இலங்கை - பங்களாதேஷ்க்கு இடையில் பயணிகள் படகு சேவை
+### Passenger boat service between Sri Lanka - Bangladesh
 
 *2024-06-11 01:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பங்களாதேஷ்க்கு-இடையில்-பயணிகள்-படகு-சேவை/175-338735) · `ta`
 
-இலங்கையில் முன்னெடுக்கப்படும் விவசாய நவீனமயமாக்கல் திட்டத்திற்கு பங்களாதேஷ் ஆதரவளிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா உறுதியளித்தார்.
+In a meeting between Bangladesh PM Sheikh Hasina and Sri Lanka's President Ranil Wickremesinghe, both leaders discussed enhancing bilateral ties, including agricultural modernization and a potential free trade agreement. They also touched upon the passenger boat service between the two countries and invited Sri Lanka to learn from Bangladesh's agricultural successes.
 
-இந்தியப் பிரதமர் நரேந்திர மோடியின் பதவிப் பிரமாண வைபவத்திற்காக புதுடெல்லி சென்றுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனாவுக்கும் இடையிலான இருதரப்பு பேச்சுவார்த்தை திங்கட்கிழமை (10) காலை நடைபெற்றது. இதன்போதே பங்களாதேஷ் பிரதமர் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கூட்டுறவு முறையின் அடிப்படையில் பங்களாதேஷில்  செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை ஆராய்ந்து இலங்கையின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காக இலங்கை விவசாயத்துறை  நிபுணர்கள் குழுவொன்றை பங்களாதேஷிற்கு அனுப்புவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க இணக்கம் தெரிவித்தார்.
+Bangladesh Prime Minister Sheikh Hasina has assured President Ranil Wickremesinghe that Bangladesh will support the agricultural modernization program in Sri Lanka.
+
+Bilateral talks between President Ranil Wickremesinghe and Bangladesh Prime Minister Sheikh Hasina, who are in New Delhi for the swearing -in of Indian Prime Minister Narendra Modi. The Prime Minister of Bangladesh said the above.
+
+President Ranil Wickremesinghe has agreed to send a group of Sri Lankan agricultural experts to Bangladesh to analyze the agricultural modernization program implemented in Bangladesh based on the co -operative system and to succeed in the agricultural modernization program of Sri Lanka.
+
+President Ranil Wickremesinghe pointed out that the two leaders discussed the signing of the free trade agreement between Bangladesh and Sri Lanka and that there is a possibility of signing the free trade agreement with Bangladesh after the Indian Free Trade Agreement.
 
 ...
 
 [Data](articles/b50fac28.json)
+
+[Extended Data](ext_articles/b50fac28.ext.json)
 
 ---
 
@@ -1233,6 +1369,8 @@ The PA called for immediate measures to safeguard the industry stakeholders and 
 ...
 
 [Data](articles/b47ae928.json)
+
+[Extended Data](ext_articles/b47ae928.ext.json)
 
 ---
 
@@ -2075,103 +2213,5 @@ Members of Parliament Rohini Kumari Wijeratne, Manjula Dissanayake and Prof. Cha
 [Data](articles/2cb12565.json)
 
 [Extended Data](ext_articles/2cb12565.ext.json)
-
----
-
-### Half of Sajith’s people will join RW after poll date announcement: UNP spox
-
-*2024-06-10 16:58:00* · [`economynextcom`](https://economynext.com/half-of-sajiths-people-will-join-rw-after-poll-date-announcement-unp-spox-167248/) · `en`
-
-ECONOMYNEXT — Half of those now supporting opposition leader Sajith Premadasa will become part of a future alliance to be led by President Ranil Wickremesinghe no sooner the presidential election is announced, a United National Party (UNP) senior said.
-
-Former minister P Harrison speaking at a UNP event in Anuradhapura on Sunday June 09 claimed that several parties in both the government and the opposition have pledged their support for Wickremesinghe.
-
-“A group from the Sri Lanka Podujana Peramuna (SLPP) are saying they’re ready to support President Wickremesinghe. Duminda Dissanayake and company from the Sri Lanka Freedom Party (SLFP) are saying publicly that a majority of their party are ready to assist him. People in the north and east, Mr C Vigneswaran says public that their full support is for the president, as does Mr Jeevan Thondaman and co from the estate sector,” said Harrison.
-
-...
-
-[Data](articles/f43d59a7.json)
-
-[Extended Data](ext_articles/f43d59a7.ext.json)
-
----
-
-### Bangladesh support Sri Lanka
-
-*2024-06-10 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197607) · `si`
-
-In a meeting in New Delhi, Bangladesh's PM Sheikh Hasina pledged support for Sri Lanka's agricultural modernization, including sending experts and discussing a free trade agreement. The leaders also discussed investment opportunities and a passenger transport service between the countries.
-
-🟩
-
-Prime Minister Sheikh Husanna said that Bangladesh would support the agricultural modernization program in Sri Lanka.
-
-The Prime Minister of Bangladesh has said that the Prime Minister of Bangladesh has stated that in New Delhi in New Delhi, India.
-
-President Ranil Wickremesinghe has gone to New Delhi for the swearing in ceremony of Mr. Narendra Mary.
-
-The President has agreed to send a team of Lankan agro-urgenism to Bangladesh in the cooperative system, studying and experienced its experience in Bangladesh.
-
-The two leaders have discussed a free trade agreement between Bangladesh and Sri Lanka.
-
-President Ranil Wickremesinghe has pointed out that the Indian Free Trade Agreement is completed, President Ranil Wickremesinghe has been able to sign a free trade agreement with Bangladesh.
-
-The Prime Minister of Bangladesh has promised the Prime Minister Ranil Wickremesinghe that private investors in Bangladesh focus on investment opportunities in Sri Lanka.
-
-...
-
-[Data](articles/fce50b1d.json)
-
-[Extended Data](ext_articles/fce50b1d.ext.json)
-
----
-
-### Absorb us into teaching profession…
-
-*2024-06-10 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Absorb-us-into-teaching-profession/110-284524) · `en`
-
-The All Ceylon School Development Officers Union staged a protest march towards the Fort Railway Station today, demanding that the government promptly absorb their service into the teaching profession. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/66f741f9.json)
-
-[Extended Data](ext_articles/66f741f9.ext.json)
-
----
-
-### Lock Town describing Corona cruelty
-
-*2024-06-10 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185766) · `ta`
-
-"Lock Town," a film set against the backdrop of the COVID-19 pandemic, explores relationship dynamics amidst isolation. Directed by AR. Anupama Parameswaran stars alongside Charlie, Nirosha, and others. The teaser, released recently, hints at the narrative's emotional depth, with Anupama Parameswaran's performance generating buzz. Known for her roles in "Premam," "Dhanush," and "Siren," she plays the lead, Anita, in "Lock Town."
-
-🟩
-
-The film 'Lock Town' is ready to describe the sensible cracks and conflicts between relationships with the subject of Lock Town, which was destined to isolate the period of Corona virus infection.. The teaser of the movie 'Lock Town' has been released this month.
-
-Director AR. Anupama Parameswaran plays the hero of the story in the movie 'Lock Town'. Along with him, Charlie, Nirosha, Priya Venkat, Livingston, Indumathi Rajkumar Lok Saba Maran Vidu, Abirami, Revathi, Priya Ganesh. K. A.. Sakthivel's cinematography. R. Raghunandan and Siddharth Vipin have composed the music. The film is produced by producer Subhashkaran on behalf of Leica Productions.
-
-All the tasks of the film are completed and waiting for the release. In this case, the teaser of the film has been released. Anupama Parameswaran, the hero of the story in the teaser, has played the role of Anita and has a great expectation among the audience, as it is a matter of isolation during the Corona period.
-
-...
-
-[Data](articles/f007e1dc.json)
-
-[Extended Data](ext_articles/f007e1dc.ext.json)
-
----
-
-### Provincializing Universities: The Risks & Dangerous Precedent Of The Newly Proposed NEPF
-
-*2024-06-10 16:53:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/provincializing-universities-the-risks-dangerous-precedent-of-the-newly-proposed-nepf/) · `en`
-
-The new National Education Policy Framework (NEPF) currently being implemented by the government has begun to be noticed by the public. However, there is a noticeable absence of in-depth discussion of the implications of the policies that it proposes. So far critics have quite convincingly pointed out the neoliberal motives behind the proposals and the threat that it poses to the longstanding tradition of free education in Sri Lanka. These criticisms hold merit, as the compilers of the framework have failed to present any moral stance, such as a commitment to social justice and equity, within the document.
-
-...
-
-[Data](articles/afc9a1dc.json)
-
-[Extended Data](ext_articles/afc9a1dc.ext.json)
 
 ---

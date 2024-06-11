@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 17:34:53**
+As of **2024-06-11 17:55:13**
 
 ## Newspaper Stats
 
-*Scraped **29,809** Articles*
+*Scraped **29,814** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 271
 dbsjeyarajcom | 279
-bbccomsinhala | 288
+bbccomsinhala | 289
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,555
-adaderanalk | 3,372
-tamilmirrorlk | 3,493
+adalk | 2,556
+adaderanalk | 3,373
+tamilmirrorlk | 3,494
 virakesarilk | 4,562
 dailymirrorlk | 4,724
-adaderanasinhalalk | 4,800
+adaderanasinhalalk | 4,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,808 (100.0%) of 29,809 articles have been extended.
+29,809 (100.0%) of 29,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### ஹிஜாப் அணிந்து வர தடை;  இராஜினாமா செய்த ஆசிரியை
+
+*2024-06-11 17:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்-அணிந்து-வர-தடை-இராஜினாமா-செய்த-ஆசிரியை/175-338769) · `ta`
+
+பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் தெரிவித்ததை அடுத்து, தன்னுயடைய வேலையை ஆசிரியை இராஜினாமா செய்துள்ள சம்பவமொன்று கொல்கத்தாவில் இடம்பெற்றுள்ளது.
+
+கொல்கத்தாவில் உள்ள எல்ஜேடி சட்டக் கல்லூரியில் சுமார் மூன்று ஆண்டு காலம் பணியாற்றி வந்த சஞ்சிதா காதர் என்ற ஆசிரியை தனது பணியை இராஜினாமா செய்துள்ளார். பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் தெரிவித்ததாக அவர் குற்றச்சாட்டு வைத்துள்ளார்.
+
+எல்ஜேடி சட்டக் கல்லூரி தனியார் கல்லூரியாகும். கொல்கத்தா பல்கலைக்கழகத்தின் கீழ் இயங்கி வருகிறது. இந்த கல்லூரியில் பணியாற்றி வந்த சஞ்சிதா காதரிடம் மே 31ஆம் திகதிக்கு பிறகு பணியிடத்துக்கு ஹிஜாப் அணிந்து வர வேண்டாம் என கல்லூரி நிர்வாகம் சொல்லியதாக தெரிகிறது. அதையடுத்து ஜூன் 5 ஆம் திகதி தனது பணியை அவர் இராஜினாமா செய்தார்.
+
+...
+
+[Data](articles/6c8e2cc7.json)
+
+---
+
+### කෙහෙළියගේ පෙත්සම වැඩිදුර සලකාබැලීමට දිනයක්
+
+*2024-06-11 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197651) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ පෙත්සම වැඩිදුර සලකාබැලීම සඳහා ලබන 27 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+ඒ ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දුන් නියෝගයක් බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනු කළ පෙත්සමක් සම්බන්ධයෙනි.
+
+මෙම පෙත්සම අද (11) අභියාචනාධිකරණ විනිසුරු ශෂී මහේන්ද්‍රන් මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/feb406d6.json)
+
+---
+
+### Taxi driver sentenced to 10 years RI for raping underage girl
+
+*2024-06-11 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99808/taxi-driver-sentenced-to-10-years-ri-for-raping-underage-girl) · `en`
+
+A taxi driver was sentenced to 10 years of rigorous imprisonment by the Colombo High Court for raping an underage girl nearly a decade ago.
+
+The 35-year-old man had been accused of sexually assaulting the girl who was living in a rented house near his residence and was preparing to sit for the G.C.E. Ordinary Level (O/L) examination.
+
+Delivering the verdict today, High Court Judge Aditya Patabendige also ordered the convict to pay a fine of Rs. 10,000 and ordered him to pay Rs. 50,000 in compensation to the victim.
+
+The High Court Judge further ruled that if the compensation is not paid, it will be recovered as an additional fine and if the convict fails to pay that fine too, he will be sentenced to an additional two years of rigorous imprisonment.
+
+◼️
+
+[Data](articles/4d114851.json)
+
+---
 
 ### The student who did so in the picture of the teacher
 
@@ -60,21 +110,39 @@ Mahesh Kumarasinghe, who said there was a risk of committing suicide, also told 
 
 ---
 
-### ගුරු-විදුහල්පතිවරුන් හෙට උද්ඝෝෂණයක
+### මලාවි උප ජනාධිපති ඇතුළු නව දෙනෙකු ගුවන් අනතුරකින් මරුට
+
+*2024-06-11 17:00:35* · [`adalk`](https://www.ada.lk/breaking_news/මලාවි-උප-ජනාධිපති-ඇතුළු-නව-දෙනෙකු-ගුවන්-අනතුරකින්-මරුට/11-410148) · `si`
+
+මලාවි රාජ්‍යයේ චිකාන්ගාවා වනාන්තරය ආශ්‍රිතව ඊයේ සිදු වූ ගුවන් යානා අනතුරකින් එරට උප ජනාධිපති සායුලොස් චිලිමා ඇතුළු නව දෙනෙකු මරණයට පත්වූ බව බලධාරීන් පවසයි. අනතුරින් පසුව අද දිනයේදී එම වනාන්තරයේ සිදුකළ දැවැන්ත සෝදිසියේදී අනතුරට ලක් වූ ගුවන් යානායේ සුන්බුන් හමුව තිබේ. මෙම ගුවන් යානය තුළ උප ජනාධිපති චිලිමාට අමතරව මලාවි හි හිටපු ජනපති බිරිඳ වන ෂානිල් සිම්බ්රිද සිටි බව සඳහන් වෙයි. චිලිමා 2014 වසරේ සිට මලාවිහි උප ජනාධිපතිවරයා ලෙස කටයුතු කලේය.
+
+◼️
+
+[Data](articles/cf73ca9f.json)
+
+---
+
+### Teachers' principals protest tomorrow
 
 *2024-06-11 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197649) · `si`
 
-හෙට (12) දහවල් 1න් පසු සාමාන්‍ය පෙළ ඇගයීම් කටයුතු නතර කරන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි.
+Teachers' union leaders will protest tomorrow against stopping average racket assessments. They argue that allowances for Ordinary Level exams have not been increased despite ongoing issues. The protest aims to ensure funds are allocated for teacher-principal salaries.
 
-ඒ අනුව හෙට දහවල් සාමාන්‍ය පෙළ ඇගයීම් මධ්‍යස්ථාන 101 ඉදිරිපිට සහ දිවයින පුරා කලාප කාර්යාල 100ක් ඉදිරිපිට ගුරු - විදුහල්පති දැවැන්ත උද්ඝෝෂණ මාලාවක් සිදුකරන බවත් ඔහු සඳහන් කළේය
+🟩
 
-ගුරු-විදුහල්පති වැටුප් දීමනාව ඉවත් කිරීම, අධ්‍යාපනයේ බර දෙමව්පියන් මත පැටවීම වහා නතර කිරීම යන ඉල්ලීම් මුල් කරගෙන හෙට පාසල් අවසන්වීමෙන් පසු මෙම වෘත්තීය ක්‍රියාමාර්ගය දියත් කිරීමට නියමිතය.
+The Chief Secretary of the Ceylon Teachers Union Joseph Stalin says that the average racket assessments will be stopped tomorrow (12) afternoon.
 
-"දැන් සාමාන්‍ය පෙළ ඇගයීම් කටයුතු සිදුවෙනවා. මේ සාමාන්‍ය පෙළ ඇගයීම් සඳහා ලබා දෙන දීමනාව මේ වන විටත් ලබාදීලා නැහැ.දීමනා වැඩි කිරීමක් සිදු කරලත් නැහැ. හෙට සාමාන්‍ය පෙළ විභාගය ඇගයීම් කටයුතු 1න් පස්සේ නතර කරනවා. මේක විභාග කොමසාරිස්වරයාට අපි ලිඛිතව දැනුම් දීලා තියෙන්නේ. අපේ ස්ථාවරය තමයි මේ වර්ෂය තුළ ගුරු - විදුහල්පති වැටුප් සමතාව වෙනුවෙන් මුදල් වෙන් කර යුතුමයි කියන එක."
+Accordingly, the Guru-Principal serves a series of depositories in front of 101 O / L and 100 Zonal Offices throughout the country.
+
+The Career Proceeding will be launched after the completion of the schools to immediately remove the salary allowance of the teacher-principal salary.
+
+"The O / L it is now happening. The allowance for these Ordinary Level Evaluation has not yet been provided. Still not increased. Tomorrow's O / L examination stops after 1. This is in writing to the Commissioner of Examinations. Our position is that the money is to be allocated for the wage of payouts of the Teacher - Principal salary. "
 
 ◼️
 
 [Data](articles/0f02712d.json)
+
+[Extended Data](ext_articles/0f02712d.ext.json)
 
 ---
 
@@ -1230,6 +1298,20 @@ Minister Sabry, during the meeting, brought to the attention of his Russian coun
 
 ---
 
+### IMF ණය වැඩසටහන: ශ්‍රී ලංකාව ඉටු කර නැත්තේ මොනවාද?
+
+*2024-06-11 11:32:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrrgjp122mo) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) විස්තීරණ ණය පහසුකම යටතේ  තුන්වන ණය  වාරිකය ශ්‍රී ලංකාවට  ලබාදීම සඳහා වන සාකච්ඡාව හෙට (ජුනි 12 වැනිදා) පැවැත්වීමට  නියමිතය. මෙම සැසියේදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය ශ්‍රී ලංකාවට  තුන්වැනි ණය වාරිකය ලබාදීම ගැන තීරණය කරනු ඇත.
+
+වැටී සිටින ආර්ථික බංකොලොත්භාවයෙන් මිදී නැවත ආර්ථික වශයෙන් ශක්තිමත් වීමට ශ්‍රී ලංකාව ජාත්‍යතර මූල්‍ය අරමුදල සමඟ ගිවිසුමකට එළැඹෙන්නේ පසුගිය වසරේ දීයි. ඒ අනුව මේ වන විට ශ්‍රී ලංකාව විස්තීරණ ණය පහසුකම යටතේ ණය වාරික දෙකක් ලබාගෙන තිබේ. මෙම ණය පහසුකම ලබා ගැනීමේ දී ශ්‍රී ලංකා රජය විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලට ඉටු කර පෙන්විය යුතු කොන්දේසි වලින් බහුතරයක් තවමත් ඉටු වී නොමැති බවට බොහෝ පාර්ශව අදහස් පළ කර තිබේ.
+
+...
+
+[Data](articles/95530660.json)
+
+---
+
 ### Russia promises to Sri Lanka
 
 *2024-06-11 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197635) · `si`
@@ -2303,121 +2385,5 @@ Previously, United National Party (UNP) General Secretary Palitha Range Bandara 
 [Data](articles/a619a055.json)
 
 [Extended Data](ext_articles/a619a055.ext.json)
-
----
-
-### Rise in flies poses risk of diarrhoea and contagious viral fever
-
-*2024-06-11 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-flies-poses-risk-of-diarrhoea-and-contagious-viral-fever/108-284562) · `en`
-
-Colombo, June 11 (Daily Mirror) - As floodwaters recede, the proliferation of flies has raised alarms among health authorities due to the increased risk of diarrhoea outbreaks and the spread of contagious viral fevers.
-
-According to consultant Dr Deepal Perera, the abundance of organic matter in flooded areas accelerates the maturation of fly eggs, leading to a rapid increase in fly populations as floodwaters subside. These newly hatched flies, seeking food sources, often gravitate towards faeces, garbage, and contaminated surfaces, further exacerbating the health crisis.
-
-“The consequences of the surge in fly populations are dire. Flies are notorious carriers of pathogens, including bacteria and viruses responsible for diarrheal diseases and viral fevers,” he pointed out.
-
-“Contaminated food and water sources, when ingested, can lead to a range of symptoms, including abdominal pain, cramps, nausea (feeling an urge to vomit), and loose stools,” Dr Perera stated.
-
-...
-
-[Data](articles/134be117.json)
-
-[Extended Data](ext_articles/134be117.ext.json)
-
----
-
-### Rise in flies poses risk of diarrhoea and contagious viral fever
-
-*2024-06-11 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rise-in-flies-poses-risk-of-diarrhoea-and-contagious-viral-fever/155-284562) · `en`
-
-Colombo, June 11 (Daily Mirror) - As floodwaters recede, the proliferation of flies has raised alarms among health authorities due to the increased risk of diarrhoea outbreaks and the spread of contagious viral fevers.
-
-According to consultant Dr Deepal Perera, the abundance of organic matter in flooded areas accelerates the maturation of fly eggs, leading to a rapid increase in fly populations as floodwaters subside. These newly hatched flies, seeking food sources, often gravitate towards faeces, garbage, and contaminated surfaces, further exacerbating the health crisis.
-
-“The consequences of the surge in fly populations are dire. Flies are notorious carriers of pathogens, including bacteria and viruses responsible for diarrheal diseases and viral fevers,” he pointed out.
-
-“Contaminated food and water sources, when ingested, can lead to a range of symptoms, including abdominal pain, cramps, nausea (feeling an urge to vomit), and loose stools,” Dr Perera stated.
-
-...
-
-[Data](articles/c8cdc34b.json)
-
-[Extended Data](ext_articles/c8cdc34b.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-06-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197620) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya, Galle, Matara districts. Night thundershowers in Uva Province. Strong winds possible in central hills, Trincomalee, Hambantota, Moneragala districts. Public advised to prepare for potential lightning and wind hazards.
-
-🟩
-
-Several spells can occur in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department states in some places in the Western and Sabaragamuwa provinces. Heavy rains can occur at around 75.
-
-Showers or night thundershowers will occur at evening or night in the Uva Province.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/2d4c7a71.json)
-
-[Extended Data](ext_articles/2d4c7a71.ext.json)
-
----
-
-### Exercise caution in chicken purchases due to flood contamination: CAA association
-
-*2024-06-11 04:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exercise-caution-in-chicken-purchases-due-to-flood-contamination-CAA-association/108-284561) · `en`
-
-Colombo, June 11 (Daily Mirror) - The Consumer Affairs Authority's (CAA) General Workers’ Association urged the public to exercise caution when purchasing chicken from the market due to the increased risk of contamination caused by recent floods.
-
-Association General Secretary Ajith Jayasundara informed the Daily Mirror that numerous poultry farms have been submerged, resulting in the deaths of many birds.
-
-"The floodwater may carry various viruses, such as rat fever. These birds could have been infected by these viruses due to the floods. Additionally, a significant number of birds on poultry farms often die due to the spread of bacteria, which may have been carried into the floodwaters," he explained.
-
-Jayasundara mentioned that the Consumer Affairs Authority (CAA) conducted raids on several chicken-selling stalls and discovered chickens that had died due to the floods.
-
-...
-
-[Data](articles/26f1c06f.json)
-
-[Extended Data](ext_articles/26f1c06f.ext.json)
-
----
-
-### Will the Labor Tribunal recommendations on plantation workers?
-
-*2024-06-11 03:58:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj55nynr998o) · `si`
-
-The Labor Tribunal in Sri Lanka has issued recommendations aimed at improving the conditions of plantation workers, addressing issues such as low wages, inadequate facilities, and safety concerns. The tribunal, led by retired Judge Shirani Thilakawardena and others, highlighted the plight of workers who have faced challenges for over two centuries. Recommendations include increasing the daily wage, establishing a committee for better worker representation, protecting collective agreements, and ensuring minimum standards in tea and rubber plantations. The tribunal also emphasized the need for safety equipment and measures to prevent chemical exposure.
-
-🟩
-
-Will the Labor Tribunal recommendations on plantation workers?
-
-There is nothing here. Play video, "" We have all learned a lot of this judiciary. "", Running Time 3,0603: 06 Video Head, "We've all learned a lot of these judges. We were shocked to ''
-
-The Labor Tribunal (Labor Tribunal called on the issues faced by plantation workers in Sri Lanka presented their recommendations.
-
-Retired Judge Shirani Thilakawardena, Indian Referendest A.P. Sha and Nepali referee P.K. Oja acted as the judge of the labor.
-
-The story of plantation workers that bound the tree of a mailing address for the estate workers' community for two hundred years ago
-
-Commenting to the BBC Sinhala Service, the General Secretary of the Labor Red Card Association, Schangendra Kummy stated that the labor Tribunal was organized by his union.
-
-She said that he was officially invited to the Ministry of Labor and the Department of Labor.
-
-...
-
-[Data](articles/29a4e24d.json)
-
-[Extended Data](ext_articles/29a4e24d.ext.json)
 
 ---

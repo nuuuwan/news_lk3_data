@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 10:34:31**
+As of **2024-06-11 10:53:04**
 
 ## Newspaper Stats
 
-*Scraped **29,727** Articles*
+*Scraped **29,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
-adalk | 2,538
-adaderanalk | 3,359
-tamilmirrorlk | 3,483
+adalk | 2,539
+adaderanalk | 3,361
+tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,713
-adaderanasinhalalk | 4,784
+adaderanasinhalalk | 4,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,727 (100.0%) of 29,727 articles have been extended.
+29,727 (100.0%) of 29,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Head-on collision between bus and van leaves 2 critical
+
+*2024-06-11 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99796/-head-on-collision-between-bus-and-van-leaves-2-critical) · `en`
+
+Two persons were critically injured after a head-on collision between a private bus and a van occurred this morning (11) at around 07.30 am on the Hatton-Colombo main road in the Diyagala area.
+
+The driver of the van and a passenger who were seriously injured in the accident were rushed to the hospital.
+
+The accident involved a private bus travelling from Kandy to Hatton and a van travelling from Hatton to Colombo.
+
+Police stated that the van had been speeding, causing it to veer off and crash into the private bus which was arriving from the opposite direction.
+
+It is reported that the van’s driver and the front seat passenger were trapped inside after the crash and that the passengers of the bus had opened the door of the van with great effort and rushed the injured persons to the hospital.
+
+It is also reported that the collision has left both the bus and the van severely damaged.
+
+...
+
+[Data](articles/383f48b4.json)
+
+---
+
+### බත්තරමුල්ලේ ලැඟුම්හලක් තුළ පුද්ගලයෙකු මිය ගිහින්
+
+*2024-06-11 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197631) · `si`
+
+අද (11) උදෑසන 9ට පමණ බත්තරමුල්ල ප්‍රදේශයේ ලැඟුම්හලක සේවය කළ අවුරුදු 50ක පමණ පිරිමි පුද්ගලයෙක් ගෙල වැලලාගෙන මියගොස් තිබේ.
+
+මේ වනවිට අදාළ මරණය පිළිබඳ වැඩිදුර විමර්ශන තලංගම පොලීසිය විසින් සිදුකරයි.
+
+එම පුද්ගලයා තනිව එම ලැඟුම්හලේ සිට ඇති බවත් ඔහු එම ස්ථානය බලාගත් පුද්ගලයා බවත් පැවසේ.
+
+◼️
+
+[Data](articles/977f8fac.json)
+
+---
+
+### வைரஸ் காய்ச்சல்கள் பரவும் அபாயம் அதிகரிப்பு
+
+*2024-06-11 10:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைரஸ்-காய்ச்சல்கள்-பரவும்-அபாயம்-அதிகரிப்பு/175-338746) · `ta`
+
+வெள்ள நீர் வடிந்து வருவதால், ஈக்களின் பெருக்கம், வயிற்றுப்போக்கு மற்றும் வைரஸ் காய்ச்சல்கள் பரவும் அபாயம் அதிகரித்துள்ளதாக, சுகாதாரத்துறை அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+“வெள்ளம் சூழ்ந்த பகுதிகளில் காணப்படும் சாதகமான சூழ்நிலை ஈ முட்டைகள் முதிர்ச்சியடைவதை துரிதப்படுத்துவதுடன், வெள்ள நீர் குறையும்போது ஈக்கள் எண்ணிக்கையில் விரைவான அதிகரிப்புக்கு வழிவகுக்கிறது.
+
+புதிதாக குஞ்சு பொரித்த இந்த ஈக்கள், உணவு ஆதாரங்களைத் தேடி, அடிக்கடி மலம், குப்பைகள் மற்றும் அசுத்தமான பரப்புகளை நோக்கி ஈர்த்து, சுகாதார நெருக்கடியை மேலும் அதிகப்படுத்துகின்றன.” என, வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+"ஈக்களின் எழுச்சியின் விளைவுகள் பயங்கரமானவை என்பதுடன், வயிற்றுப்போக்கு நோய்கள் மற்றும் வைரஸ் காய்ச்சலுக்கு காரணமான பாக்டீரியா மற்றும் வைரஸ்கள் உள்ளிட்ட நோய்க்கிருமிகளை ஈக்கள் காவி கொண்டு வருகின்றன" என்று அவர் சுட்டிக்காட்டினார்.
+
+◼️
+
+[Data](articles/fc0e178c.json)
+
+---
+
+### Approval for AG’s service extension postponed
+
+*2024-06-11 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99795/approval-for-ags-service-extension-postponed) · `en`
+
+The Constitutional Council has postponed the granting approval for the President’s recommendation to extend the tenure of Attorney General Sanjay Rajaratnam by six months.
+
+The decision was made during a council meeting held yesterday (10), where it was agreed to defer the discussion for further deliberation.
+
+Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
+
+However, the proposal requires the approval of the Constitutional Council, which has been delayed.
+
+Speaker Mahinda Yapa Abeywardana has announced that the Constitutional Council is scheduled to reconvene on the 18th of this month.
+
+It is anticipated that a final decision regarding the extension of Attorney General Rajaratnam’s service will be reached during this meeting.
+
+◼️
+
+[Data](articles/ad71ae56.json)
+
+---
 
 ### Internet trio talk with Sajith
 
@@ -125,6 +203,18 @@ The Ginigathena police call on the drivers to take care of traffic in the area, 
 [Data](articles/a9f943cc.json)
 
 [Extended Data](ext_articles/a9f943cc.ext.json)
+
+---
+
+### අලුත් නිති හදලා හරි හොරකම් කළ ධනය නැවත අයකර ගන්නවාමයි
+
+*2024-06-11 09:27:40* · [`adalk`](https://www.ada.lk/opinion/අලුත්-නිති-හදලා-හරි-හොරකම්-කළ-ධනය-නැවත-අයකර-ගන්නවාමයි/2-410131) · `si`
+
+"මන්ත්‍රීවරුන්ට විශ්‍රාම වැටුප අවශ්‍යය නෑ, අපි ඉතාම වගකීමෙන් කියනවා අපි ඒවා නීතියක් හැටියටම අහෝසී කර ගන්නවා.පළමුවැනි ආදර්ශය දෙන්නේ අපි.මම වගකීමෙන් කියනවා අපේ ආණ්ඩුවේ වැඩ භාර ගන්න දවසේ ඉඳලාම, වැඩ භාර ගන්න විදිහේ ඉඳලාම ආදර්ශ දීලා, නාස්තිය දූෂණය නතර කරලා පෙන්වනවා.මුදල් විශුද්ධීකරණ පනත තියෙනවා, අල්ලස් හෝ දූෂණ පනත තියෙනවා, පොදු දේපළ අපරාධ පනත තියෙනවා, තව ගොඩක් නීතී තියෙනවා.නීතී නැත්නම් නීතී හදලා හරි මේ මහජනතාවගෙන් වංචා කරපු හොරකම් කරපු ධනය නැවත අත්පත් කර ගන්නවාම තමයි.ඒකේ දෙගිඩියාවක් තියා ගන්න එපා, ඒක නොකලොත් අපෙන් වැඩක් නෑ" යැයි හිටපු කෝප් කමිටු සභාපති, ජාතික ජන බලවේගයේ ජාතික විධායක සභික, ආර්ථික කවුන්සිල සාමාජික සුනිල් හඳුන්නෙත්ති මහතා පැවසීය.
+
+...
+
+[Data](articles/8688ae17.json)
 
 ---
 
@@ -2103,135 +2193,5 @@ The Minister further stated that the Cabinet Meeting Meeting of last week was le
 [Data](articles/f11bae3a.json)
 
 [Extended Data](ext_articles/f11bae3a.ext.json)
-
----
-
-### President invites Indian Prime Minister
-
-*2024-06-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197611) · `si`
-
-President Ranil Wickremesinghe hosted a swearing-in ceremony for Indian PM Narendra Modi, marking his third term. The event included bilateral talks and invitations from the President to both Modi and Bangladesh's PM Sheikh Hasina. Discussions revolved around a potential free trade agreement and agricultural technology exchanges. The President also extended an invitation to Modi for a future visit to Sri Lanka, possibly within the next month, aiming to boost Indian investments in the country.
-
-🟩
-
-President of the Indian Prime Minister Narendra Modi's swearing in ceremony, President Ranil Wickremesinghe today (10) met with Prime Minister SK Jayashankar and bilateral discussions.
-
-The President has also invited Indian Prime Minister Narendra Modi to visit Sri Lanka.
-
-Jayathu Narendra Modi took sworn in in office yesterday for the third term of the Indian General Election of 7th April to 1st June.
-
-Heads of heads of state and popular Bollywood actresses were also invited.
-
-After his swearing in, Prime Minister Narendra Modi wrote a friendly conversation with the leaders of the rest of the rest of the celebrations.
-
-The special dinner was held on behalf of the distinguished guests.
-
-President Ranil Wickremesinghe was first held with bilateral discussions with Mrs. Bangladesh Prime Minister Sheikh Husanna first.
-
-It has been discussed that a free trade agreement between the two countries.
-
-...
-
-[Data](articles/548e60a3.json)
-
-[Extended Data](ext_articles/548e60a3.ext.json)
-
----
-
-### Representatives selected under the Protector Program of Schools from Sri Lanka
-
-*2024-06-10 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185780) · `ta`
-
-Selected under the Protector Program, representatives from two Sri Lankan Holy Schools arrived in Saudi Arabia, including students from four universities, journalists, government officials, school imams, and social workers. Ambassador Khalid Hamood facilitated their journey.
-
-🟩
-
-Under the Protector Program of two Holy Schools, the elected representatives from Sri Lanka reached Saudi.
-
-Six of these are from 4 universities in Sri Lanka. This includes 4 journalists, senior government employees, imams of schools, and social collectors.
-
-It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani played a key role in leading them and making good arrangements for them.
-
-◼️
-
-[Data](articles/390c9c60.json)
-
-[Extended Data](ext_articles/390c9c60.ext.json)
-
----
-
-### Shooting businessman?Shot?
-
-*2024-06-10 18:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාපාරිකයාට-වෙඩි-තැබුවාද--වෙඩි-තබා-ගත්තාද-/11-410128) · `si`
-
-A 51-year-old businessman, Sumudu Nissanka Lanka Lanamulla, was found dead in his residence in Hungama Runnawa. He was discovered shot after coming downstairs around 10 pm. Initial investigations suggest a dispute led to his death, but further details are pending.
-
-🟩
-
-51-year-old businessman residing in Hungama Runnawa area was found dead yesterday (09), police said. The deceased has been identified as Sumudu Nissanka Lanka Lanka, a 51-year-old Sumudu Nissanka Lanka Lanamulla, who has run a residential substation plan of Tissa Road, Ranna.
-
-The deceased businessman had come to the ground floor to the ground floor at around 10 pm, he was later shot dead by the residents.A team of police officers came to the scene and commenced investigations.
-
-Preliminary investigations were revealed that the same night, between businessman and residents had had a dispute between businessman and residents.At about 11.45, the proof of the businessman had uncovered the proof that the businessman had been assassinated by a person outside the preliminary investigations carried out.
-
-...
-
-[Data](articles/7f1e4691.json)
-
-[Extended Data](ext_articles/7f1e4691.ext.json)
-
----
-
-### Indian Prime Minister visited Sri Lanka
-
-*2024-06-10 18:31:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-අගමැතිට-ලංකාවේ-සංචාරයකට-ආරාධනා/11-410126) · `si`
-
-Indian PM meets Sri Lankan President Ranil Wickremesinghe and Minister Dr. S. Jayasankar to discuss reviving Indian-funded development projects, including an industrial zone in Trincomalee. They also touched on the Truth and Reconciliation Bill, the Agricultural Navinnament Program, and future visits.
-
-🟩
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe and Indian Senior Minister Dr. S. A meeting between Jayasankar met today (10).
-
-He was discussing the resumption of the development projects that were started on Indian investments and resume the development projects that were staying.
-
-Communications on the first place to the neighbor was exchanged.
-
-The Indian government also discussed the industrial zone that is scheduled to be opened in Trincomalee and the investors in other countries are expected to be connected to investments in these industry in addition to Indian investors.
-
-President Ranil Wickremesinghe said that the Powers of Agriculture, Health Education and Economic Management
-
-The Truth and Reconciliation Bill will be presented to Parliament by July.
-
-It was also discussed on the Sri Lanka Agricultural Navinnament Program in the country.
-
-President Ranil Wickremesinghe said that the gazette is being published in the gazette as the gazette, which is issued with the gazette.
-
-...
-
-[Data](articles/1fcea79c.json)
-
-[Extended Data](ext_articles/1fcea79c.ext.json)
-
----
-
-### Measures to expedite attending university
-
-*2024-06-10 18:25:11* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාලයට-යෑම-කඩිනම්-කිරීමට-පියවර/11-410125) · `si`
-
-The Ministry of Education aims to speed up university admission post-GCE Ordinary Level exams. Measures include continuous GCE Advanced Level examinations and maintaining educational resources. The minister emphasizes the importance of adapting to rapid technological changes like AI and addressing global issues like climate change. He assures free education opportunities and supports strengthening the state university system while acknowledging challenges in private education.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha said that the Ministry of Education is taking action to prevent the time of the GCE Advanced Level Study and expedite the time of university studies immediately after the end of the GCE Ordinary Level examination.
-
-He was speaking at a program to be held at the Ministry of Education today under the patronage of the Ministry of Education on the GCE Advanced Level examination.. Accordingly, when the A / L exceeded the age of 16, the university system is still engaged in studies in the university system to end school approach to the end of the university.Is.
-
-Speaking further (Minister) stated that the A / L stream is continuously to be continuously by issuing the GCE Advanced Level Emperor. The Minister said that the children, parents, teachers have a gross borrow of children.
-
-...
-
-[Data](articles/11889dac.json)
-
-[Extended Data](ext_articles/11889dac.ext.json)
 
 ---

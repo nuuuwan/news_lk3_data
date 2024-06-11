@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 00:19:06**
+As of **2024-06-12 00:34:24**
 
 ## Newspaper Stats
 
-*Scraped **29,875** Articles*
+*Scraped **29,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 290
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,717
-dailyftlk | 1,788
+dailyftlk | 1,789
 adalk | 2,564
 adaderanalk | 3,378
 tamilmirrorlk | 3,499
@@ -26,9 +26,25 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,870 (100.0%) of 29,875 articles have been extended.
+29,875 (100.0%) of 29,876 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-12 (Wednesday)
+
+### On system change
+
+*2024-06-12 00:20:40* · [`dailyftlk`](https://www.ft.lk/columns/On-system-change/4-762931) · `en`
+
+“Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has”
+
+It was only after the 2022 Aragalaya that the need for system change was felt among different quarters of Sri Lanka’s intelligentsia and opinion makers. In his Independence Day address to the nation even President RW casually referred to system change without any elaboration. One or two outspoken members from the opposition parties also, without much details, described the shortcomings of current administration as systemic. But it was NPP that adopted system change as its central pillar of reforms if it were to come to power.
+
+...
+
+[Data](articles/fb0b3cf5.json)
+
+---
 
 ### 2024-06-11 (Tuesday)
 
@@ -76,23 +92,31 @@ Meanwhile, foreign media have reported that the Israeli army has called for air 
 
 ---
 
-### இலங்கை மகளிர் குழாத்தில் 2 வருடங்களின் பின்னர் சச்சினி நிசன்சலா
+### Sachini Nissansala 2 years later in the Sri Lankan women's group
 
 *2024-06-11 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185864) · `ta`
 
-மேற்கிந்தியத் தீவுகளுக்கு எதிராக சனிக்கிழமை (16) ஆரம்பமாகவுள்ள 3 போட்டிகளைக் கொண்ட மகளிர் சர்வதேச ஒருநாள் இருதரப்பு  கிரிக்கெட்   மற்றும் ஐசிசி மகளிர் சம்பியன்ஷிப் தொடரில் விளையாடவுள்ள இலங்கை குழாம் அறிவிக்கப்பட்டுள்ளது.
+The Sri Lankan women's cricket team, led by Samari Attapattu, will face the West Indies in a three-match ODI series starting June 15 at the Mahinda Rajapaksa International Cricket Stadium. The squad includes experienced players like Sachini Nissansala, aiming to leverage their skills against the West Indies.
 
-சமரி அத்தபத்து தலைமையில் 16 வீராங்கனைகளைக் கொண்ட இலங்கை மகளிர் கிரிக்கெட் குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் தெரிவுக்குழு பெயரிட்டுள்ளது.
+🟩
 
-இலங்கை குழாத்தில் இடம்பெறும் பெரும்பாலான சிரேஷ்ட வீராங்கனைகள் 30 வயதைக் கடந்தவர்களாவர். ஐவரே 25 வயதுக்குட்பட்டவர்களாவர்.
+The Sri Lankan team has announced that the three -match women's international ODI cricket and ICC Women's Championships have been announced on Saturday (16) against the West Indies.
 
-அவர்களது அனுபவம் இலங்கை அணிக்கு சாதகமான முடிவுகளைப் பெற்றுக் கொடுக்கும் என கருதப்படுகிறது.
+The Sri Lanka Cricket Select Committee has named the Sri Lanka Women's Cricket Group with 16 heroes headed by Samari Attapattu.
 
-இலங்கைக்கும் மேற்கிந்தியத் தீவுகளுக்கும் இடையிலான 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ச சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஜூன் 15, 18, 21ஆம் திகதிகளில் நடைபெறவுள்ளது.
+Most senior heroes in the Sri Lankan group are over 30 years of age. Ivore is under the age of 25.
 
-...
+Their experience is thought to give the Sri Lankan team favorable.
+
+The three -match women's ODI series between Sri Lanka and the West Indies will be held on June 15, 18 and 21 at the Mahinda Rajapaksa International Cricket Stadium, Hambantota.
+
+Vishmi Gunaratne, Harshita Samarawickrama, Hassini Perera, Nilakshika Silva , UdheshikaPrabodhani, Kavya Kavindi, Sachini Nissansala (all bowlers).
+
+◼️
 
 [Data](articles/46530e23.json)
+
+[Extended Data](ext_articles/46530e23.ext.json)
 
 ---
 
@@ -488,6 +512,8 @@ Dissanayake told reporters on Tuesday June 11 that the NPP in their manifesto fo
 
 [Data](articles/a79b9ec3.json)
 
+[Extended Data](ext_articles/a79b9ec3.ext.json)
+
 ---
 
 ### The people are now watching to win the quart
@@ -560,21 +586,29 @@ For the next five years for the health service, about 70 billion rupees for the 
 
 ---
 
-### තැපෑල අද වැඩ වරයි
+### The mail is working today
 
 *2024-06-11 19:47:01* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල-අද-වැඩ-වරයි/11-410157) · `si`
 
-ඉල්ලීම් දෙකක් මුල් කර ගනිමින් අද(12දා) මාධ්‍යම රාත්‍රී 12.00 සිට පැය 24ක කාලයක්   තැපැල් දෙපාර්තමේන්තුවේ සේවකයන් අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්වන බව තැපැල් වෘත්තීය සමිති ඒකාබද්ධ පෙරමුණ සඳහන් කරයි.
+Postal workers reported sick en masse, leading to a decision for ongoing trade union actions starting from the 24th due to over 5,000 vacancies and service issues. Four hundred and forty-four acting Pentian OICs have awaited confirmation for years. Yesterday's program was unsuitable, but today's is expected to proceed despite previous issues.
 
-මෙම වැඩවර්ජන ක්‍රියාමාර්ගය සඳහා වෘත්තීය සමිති 23කට අයත් සේවකයන් විසිඑක්දහසක් සම්බන්ධ වන බවත් මෙම ක්‍රියාමාර්ගයට අනුව නිසි ප්‍රතිචාර නොමැති වුවහොත් 24වන දින සිට අඛණ්ඩ වෘත්තීය ක්‍රියාමාර්ග ගැනීමට තීරණය කර තිබෙන බවත් එම පෙරමුණේ කැඳවුම්කරුචින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+🟩
 
-තැපැල් දෙපාර්තමේන්තුව තුළ පුරප්පාඩු පන්දහසකට අධික ප්‍රමාණයක් ඇති වීතිබෙන බවත් පවතින පුරප්පාඩු සම්පූර්ණ නොකිරීම නිසා සේවා සැපයීමේදී ගැටලු රැසක් ඇති වී තිබෙන බවද පවසා සිටියේය.
+The Post Trade Unions Joint Front states that the Postal Department employees have been able to report sick leave for two days (12).
 
-මීට අමතරව උපතැපැල් ස්ථානාධිපති තනතුරේ හාරසියකට ආසන්න ප්‍රමාණයක් වැඩබලන පදනමින් වසර ගණනාවක් සේවය කරමින් තිබෙන බවත් මෙම පිරිස් සේවයේ ස්ථිර කරන ලෙසට බලධාරීන්ගෙන් අවස්ථා කිහිපයකදී ඉල්ලීම් කර තිබෙන බවද සඳහන් කළේය.
+The foregoing convener summoning as the forerunner's convener summoning was decided to take continuous trade union action from the 24th.
 
-...
+He said that there were more than five thousand vacancies in the Postal Department and that there were many problems in the provision of services.
+
+In addition, four hundred and four hundred in the post of Pentian OIC have served on a number of years on the acting basis and requested several occasions on the authorities to be confirmed by the people.
+
+The program was not suitable for the authorities yesterday (11), but the program was not suitable for 24 hours today (12).Said he would take place.
+
+◼️
 
 [Data](articles/048d5841.json)
+
+[Extended Data](ext_articles/048d5841.ext.json)
 
 ---
 
@@ -613,6 +647,8 @@ The project has been awarded on an unsolicited manner to India-based Adani Green
 ...
 
 [Data](articles/d688126e.json)
+
+[Extended Data](ext_articles/d688126e.ext.json)
 
 ---
 
@@ -655,6 +691,8 @@ Speaking at an event on Monday June 10, Handunneththi said NPP representatives t
 ...
 
 [Data](articles/ee93931e.json)
+
+[Extended Data](ext_articles/ee93931e.ext.json)
 
 ---
 
@@ -2239,37 +2277,5 @@ The suspect was speaking at a funeral home on 20th September 2023 on his advice 
 [Data](articles/14db0638.json)
 
 [Extended Data](ext_articles/14db0638.ext.json)
-
----
-
-### Dengue highlight rains
-
-*2024-06-11 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197639) · `si`
-
-Rainy weather has led to an increase in dengue risk zones, with a sharp rise in dengue cases across the island. The National Dengue Prevention Unit reports 971 cases this month, bringing the total to 25,891, including nine deaths. High-risk areas now stand at 14, with the Colombo district reporting the most cases (5,624), followed by Jaffna (3,930) and Kandy (2,487).
-
-🟩
-
-With the prevailing rainy weather, the number of dengue risk zones has increased.
-
-The National Dengue Prevention Unit said the number of dengue patients had risen fast in the recent past.
-
-971 dengue patients have been reported during the month of this month and 25,891 dengue patients have been reported from the island.
-
-Nine dengue deaths have been reported during this period, the National Dengue eradication campaign said.
-
-Accordingly, dengue high risk zones have risen to 14.
-
-The highest number of cases cases were reported from the Colombo district, which is 5,624.
-
-The highest number of dengue patients will be reported from the Jaffna district, which is 3,930.
-
-The National Dengue Prevention Unit stated that 2,487 cases were reported from the Kandy district and 1,386 cases were charged from the Gampaha District.
-
-◼️
-
-[Data](articles/fbd6dcfd.json)
-
-[Extended Data](ext_articles/fbd6dcfd.ext.json)
 
 ---

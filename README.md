@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 21:54:08**
+As of **2024-06-11 22:07:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,805
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,853 (100.0%) of 29,855 articles have been extended.
+29,855 (100.0%) of 29,855 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Wildlife Department urged people not to engage in such activities, highlight
 ◼️
 
 [Data](articles/54be2e33.json)
+
+[Extended Data](ext_articles/54be2e33.ext.json)
 
 ---
 
@@ -358,19 +360,27 @@ Sheikh Hasina has also aledged support for Sri Lanka's agricultural modernizatio
 
 ---
 
-### රත්නපුර හිටපු මහ දිසාපතිනී ඇතුළු පිරිසක් මාධ්‍යවේදියෙකුගෙන් වැඳ සමාව ගනියි
+### Former Maha Governmentapatini, Ratnapura, pardons a journalist
 
 *2024-06-11 18:42:06* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-මහ-දිසාපතිනී-ඇතුළු-පිරිසක්-මාධ්‍යවේදියෙකුගෙන්-වැඳ-සමාව-ගනියි/11-410153) · `si`
 
-තොප්පියක් පැලඳ රත්නපුර මහ දිසාපති කාර්යාලයට ඇතුල් වුණැයි කියමින් මාධ්‍යවේදියෙකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් රත්නපුර හිටපු මහ දිසාපති මාලනී ලොකුපෝතාගම මහත්මිය සහ රත්නපුර පොලිසියේ හිටපු ස්ථානාධිපතිවරයා ඇතුළු පිරිසක් ශ්‍රේෂ්ඨාධිකරණයේදී මාධ්‍යවේදියාට වැද අද (11) සමාව ගත්හ.
+In a landmark decision, the Supreme Court has pardoned journalist Sarath Wimalaratne, ensuring no action will be taken against him. This follows a case where Sarath was initially arrested but later released. The former High Government Agent of Ratnapura and other officials have pledged not to prosecute Sarath further.
 
-දෙපාර්ශවයේ එකඟත්වය මත සිද්ධිය සමතයට පත්වූ අතර මාධ්‍යවේදී සරත් විමලරත්න මහතාට එරෙහිව කිසිදු ඉදිරි පියවරක් නොගැනීමටද ඔහුට එරෙහිව මහේත්‍රාත් අධිකරණයේ ගොනු කර ඇති නඩුව ඉල්ලා අස්කර ගැනීමටද වගඋත්තරකරුවන් ශ්‍රේෂ්ඨාධිකරණයේදී පොරොන්දු වුහ.
+🟩
 
-තොප්පියක් පැලඳ රත්නපුර මහ දිසාපති කාර්යාලයට ඇතුල් වුණැයි කියමින් රත්නපුර දිසාපති කාර්යාලයේ ආරච්චිවරයකු, රත්නපුර පොලිසියේ හිටපු සැරයන්වරයකු, කුරුවිට හමුදා කදවුරේ යුද හමුදා කෝප්‍රල්වරයකු ඇතුළු පිරිසක් මාධ්‍යවේදී සරත් විමලරත්න මහතාට පහරදී අත්අඩංගුවට ගෙන රත්නපුර පොලීසියේ රඳවා ගැනීමෙන් ඔහුගේ මුපික අයිතිවාසිකම් කඩ කළැයි සඳහන් කරමින් පවරා ඇති පෙත්සම කැදූවු අවස්ථාවේදී නඩුව එසේ සමථයකට පත් විය.
+Former High Government Agent Marani Eepogra, Ratnapura and OIC of Ratnapura has commemorated the journalist in the Supreme Court today (11).
+
+The respondents promised to do not take any action against Mr. Sarath Wanalaratne journalist Sarath Wimalaratne and the respondents had promised to withdraw the case against him.
+
+A soldier and several others from the Ratnapura Government Agent's Army Corporal, a former Army Corporation and several others were arrested in the Ratnapura Government Agent's Army Campaign and detained by the Ratnapura Police.The case was so set up.
+
+The petition was considered in the face of Supreme Court Judge of the Supreme Court Judge Mulf Fernando and Mahinda Samayawardena.
 
 ...
 
 [Data](articles/c3b507e0.json)
+
+[Extended Data](ext_articles/c3b507e0.ext.json)
 
 ---
 

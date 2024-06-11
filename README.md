@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 17:04:06**
+As of **2024-06-11 17:19:17**
 
 ## Newspaper Stats
 
-*Scraped **29,805** Articles*
+*Scraped **29,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,554
-adaderanalk | 3,371
-tamilmirrorlk | 3,492
+adalk | 2,555
+adaderanalk | 3,372
+tamilmirrorlk | 3,493
 virakesarilk | 4,562
 dailymirrorlk | 4,724
 adaderanasinhalalk | 4,799
@@ -26,27 +26,69 @@ adaderanasinhalalk | 4,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,802 (100.0%) of 29,805 articles have been extended.
+29,805 (100.0%) of 29,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### உறங்கிய சகோதரிகளில்  ஒருவர் படுகொலை
+### ஆசிரியையின் படத்தில் அப்படி செய்த மாணவன்
+
+*2024-06-11 17:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியையின்-படத்தில்-அப்படி-செய்த-மாணவன்/175-338768) · `ta`
+
+பாடசாலை ஆசிரியை ஒருவரின் புகைப்படத்துக்கு நிர்வாண உருவத்தை பதித்ததாக கூறப்படும் அதே பாடசாலை மாணவன் தலா 5 இலட்சம் ரூபாய் பெறுமதியான இரு சரீரப் பிணைகளில் விடுதலைச் செய்யப்பட்டுள்ளார்.
+
+இந்த உத்தரவு, குளியாபிட்டிய நீதவான்  ரந்திக லக்மால் ஜயலத்தினால் செவ்வாய்க்கிழமை (11) பிறப்பிக்கப்பட்டது.
+
+மேலும், இந்த வழக்கை ஓகஸ்ட் 28-ம் திகதி மீண்டும் விசாரணைக்கு அழைக்கவும் உத்தரவிட்டார்.
+
+மேலும், பிணை நிபந்தனைகளை பிறப்பித்த நீதவான், விசாரணையில் தலையிட வேண்டாம் என்றும், திருத்தப்பட்ட புகைப்படங்களில் எந்த மாற்றமும் செய்யக்கூடாது என்றும் சந்தேக நபரை எச்சரித்தார், மேலும் அவர் அந்த நிபந்தனைகளுக்கு இணங்காவிட்டால், பிணை ரத்து செய்யப்பட்டு, வழக்கு விசாரணை நிறைவடையும் வரையிலும் சிறையில் அடைக்கப்படுவார் என்றும் எச்சரித்தார்.
+
+சந்தேக நபரை நீதிமன்றில் முன்னிலைப்படுத்திய குளியாபிட்டிய பிரிவு சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  மகேஷ் குமாரசிங்க, இந்த சம்பவத்தினால் குறித்த ஆசிரியர் மன உளைச்சலுக்கு உள்ளாகியுள்ளதாக தெரிவித்தார்.
+
+...
+
+[Data](articles/297a87ad.json)
+
+---
+
+### Malawi’s vice president and 9 others killed in plane crash
+
+*2024-06-11 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99807/malawis-vice-president-and-9-others-killed-in-plane-crash) · `en`
+
+Malawi’s vice president and nine others were killed in a plane crash, the country’s president said Tuesday.
+
+The wreckage of the military plane carrying Vice President Saulos Chilima was located in a mountainous area in the north of the country after a search that lasted more than a day. There were no survivors of the crash, Malawian President Lazarus Chakwera said in a live address on state television.
+
+Hundreds of soldiers, police officers and forest rangers had been searching for the plane that also carried a former first lady after it went missing Monday morning while making the 45-minute flight from the southern African nation’s capital, Lilongwe, to the city of Mzuzu, around 370 kilometers (230 miles) to the north.
+
+...
+
+[Data](articles/b857a0c6.json)
+
+---
+
+### One of the sleeping sisters
 
 *2024-06-11 16:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறங்கிய-சகோதரிகளில்-ஒருவர்-படுகொலை/175-338766) · `ta`
 
-ஒரே குடும்பத்தைச் சேர்ந்த இரு சகோதரிகள் மாத்திரமே வீட்டில் தங்கியிருந்த நிலையில் முகத்தை மூடிக்கொண்டு வீட்டிற்குள் நுழைந்த இனந்தெரியாத இருவர் , வீட்டில் உறங்கிக்கொண்டிருந்த  சகோதரிகளில் ஒருவரை கூரிய ஆயுதத்தால் தாக்கி கொலை செய்துள்ள சம்பவம்  செவ்வாய்க்கிழமை (11) அதிகாலை இடம்பெற்றுள்ளதாக  ஹொரணை தலைமையக பொலிஸார் தெரிவித்துள்ளனர் .
+In Horana, two unknown men killed a 58-year-old woman, a Bangladeshi citizen's wife, in her home early Tuesday. The victim's sister, who lived there, discovered the crime after the attackers slept in separate rooms.
 
-ஹொரண மீவனபலான சிரில்டன் தோட்டத்தை சேர்ந்த 58 வயதுடைய   பெண்ணே இவ்வாறு படுகொலை செய்யப்பட்டுள்ளார்.
+🟩
 
-குறித்த பெண் பங்களாதேஷ் பிரஜை ஒருவரை திருமணம் செய்து கொண்டவர் எனவும் அவர் அந்த நாட்டில் வசிக்கும் நிலையில்,  பெண் தனது தங்கையுடன் இந்த வீட்டில் வசித்து வருவதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+The Horana headquarters headquarters said that two unidentified men who had entered the house with only two sisters of the same family were staying at home and killed one of the sisters who were sleeping in the house with sharp weapons on Tuesday morning.
 
-கொலை செய்யப்பட்ட  பெண்ணின் சகோதரி, மூன்று வாரங்களுக்கு முன்னர் இந்த வீட்டில் தங்குவதற்காக வந்துள்ளதுடன் இருவரும் வெவ்வேறு அறைகளில் உறங்கச் சென்ற பின்னரே இக்கொலை சம்பவம் இடம்பெற்றுள்ளதாகவும் தெரியவந்துள்ளது .
+The 58 -year -old woman from the Sirilton estate of Horana was murdered.
+
+Police investigations have revealed that the woman is married to a Bangladeshi citizen and that she is living in the country with her sister.
+
+The murdered woman's sister had come to stay in the house three weeks ago and the murder was reported only after the two men went to sleep in different rooms.
 
 ◼️
 
 [Data](articles/ab68d8a3.json)
+
+[Extended Data](ext_articles/ab68d8a3.ext.json)
 
 ---
 
@@ -72,15 +114,21 @@ The convener, Chinthaka Bandara said that the 13th morning will cover all post o
 
 ---
 
-### விமான விபத்தில் மலாவியின்  துணை ஜனாதிபதி பலி
+### Vice President of Malawi killed in plane crash
 
 *2024-06-11 16:35:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-மலாவியின்-துணை-ஜனாதிபதி-பலி/50-338764) · `ta`
 
-மலாவியின் துணை ஜனாதிபதி டாக்டர். சௌலோஸ் சிலிமா, விமான விபத்தில் உயிரிழந்தார். அவருடன் பயணித்த அவரது மனைவி உள்ளிட்ட  8 பேரும் விமான விபத்தில் உயிரிழந்தனர் என வெளிநாட்டு செய்திகள் தெரிவிக்கின்றன.
+Chaulso Chilima, Vice President of Malawi, and seven others perished in a plane crash, including his wife.
+
+🟩
+
+Vice President of Malavi. Chaulos Chilima, died in a plane crash. Eight people, including his wife, who were traveling with him, died in a plane crash, foreign reports say.
 
 ◼️
 
 [Data](articles/9fffbbd2.json)
+
+[Extended Data](ext_articles/9fffbbd2.ext.json)
 
 ---
 
@@ -130,21 +178,29 @@ That is wrong. People have made MPs as their representative. Yet people will cho
 
 ---
 
-### බාලවයස්කාර දැරිය අපහරණය කලාට ලැබුණු ඳඩුවම
+### Pruning to abstain the minority girl
 
 *2024-06-11 16:13:20* · [`adalk`](https://www.ada.lk/breaking_news/බාලවයස්කාර-දැරිය-අපහරණය-කලාට-ලැබුණු-ඳඩුවම/11-410146) · `si`
 
-පහලොස් හැවිරිදි බාල වයස්කාර දැරියක් අපහරණය කළා යයි වරදකරුවකුවූ අයෙකුට වසර 15 ක බරපතල වැඩසහිත සිර දඩුවමක්,වින්දිත දැරියට රුපියල් ලක්ෂ පහක වන්දි මුදලක් හා රුපියල් විසිපන්දහසක දඩ මුදලක් ගෙවන බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා අද (11) නියෝග කළේය.
+Balah Juda Ratunga Dissanayake sentenced a man from Karandeniya to imprisonment and fines for raping a minor girl in 2013. The High Court found him guilty after an 11-year trial, imposing a 15-year prison term and a hefty fine as compensation.
 
-මෙසේ සිරදඩුවම්,වන්දි මුදල් හා දඩ මුදල් ගෙවීමට සිදුවූයේ කරන්දෙණිය , කිරිපේද්ද පදිංචි පුද්ගලයකුටය.
+🟩
 
-2013 පෙබරවාරි මස 5 වැනිදා හෝ ඊට ආසන්න දිනයකදී විත්තිකරු පහලොස් හැවිරිදි බාලවයස්කාර දැරියක් දූෂණය කොට ඇතැයි කියමින් කරන්දෙණිය පොලීසිය විසින් සැකකරුට එරෙහිව චෝදනා ගොනු කොට නඩු පවරන ලදි.
+The Balah, Juda Ratunga Dissanayake today (11) ordered the victim with a 15-year-old girl who was imprisoned and a fine of a fifteen year old girl.
 
-වසර 11 ක දීර්ඝ නඩු විභාගයකින් අනතුරුව විත්තිකරු විසින්  බාල වයසකාර දැරියක් දූෂණය කළ බවට සැකයකින් තොරව ඔප්පු වන්නේ යයි නිගමනය කළ මහාධිකරණ විනිසුරුවරයා ඔහුට වසර 15ක බරපතල වැඩ සහිත සිර දඩුවමක් රුපියල් විසිපන්දහසක වන්දි මුදලක් එය නොගෙවන්නේ නම් මාස හයක ලිහිල් සිර දඩුවමක් සහා වින්දිත දැරියට රුපියල් ලක්ෂ පහක වන්දි මුදලක් එය නොගෙවන්නේ නම් වසර දෙකක ලිහිල් සිර දඩුවමක්   නියම කළේය.
+A person residing in Karandeniya, Karadwi, Karandeniya and milk had to pay compensation and penalties.
 
-...
+The Karandeniya police were filed against the suspect, claiming that the accused had been raped a ruthless girl on the 5th of February 2013.
+
+The High Court Judge concluded that the defendant had been proved to be raped by the defendant after a 11 year long trial, a 15 year long sentence of Rs.The compensation paid to a two-year loose sentenced to a two-year loose sentence.
+
+Nishara Jayaratne was conducting the case filed by the Karandeniya Police. (I J)
+
+◼️
 
 [Data](articles/b8e25314.json)
+
+[Extended Data](ext_articles/b8e25314.ext.json)
 
 ---
 
@@ -845,6 +901,24 @@ The National Dengue Prevention Unit stated that 2,487 cases were reported from t
 [Data](articles/fbd6dcfd.json)
 
 [Extended Data](ext_articles/fbd6dcfd.ext.json)
+
+---
+
+### හර්ෂගෙන් ජනපතිට ලිපියක්
+
+*2024-06-11 13:05:01* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂගෙන්-ජනපතිට-ලිපියක්/11-410141) · `si`
+
+ඔන්ලයින් කැසිනෝ පවත්වාගෙන යාමට නීතිමය තත්ත්වයක් නොපවතින විටෙක ඒ පිළිබඳ නොතකා රටට ලැබිය යුතු ආදායම අහිමි කරමින් ඔන්ලයින් කැසිනෝ විවෘතව ක්‍රියාත්මක වන බවට රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+
+මේ සම්බන්ධයෙන් කඩිනමින් අවධානය යොමු කරනලෙස ඉල්ලීමක් කරමින් මුදල් අමාත්‍යවරයා වෙත ලිපියක් යොමු කිරීමට තමන් කටයුතු කරන බව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති (ආචාර්ය) හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (06) රැස්වූ රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේදී මේ පිළිබඳ සාකච්ඡාවට ගැනිණි.
+
+කැසිනෝ ඇතුළු සූදු ව්‍යාපාරවලින් අය විය යුතු හිඟ බදු අය කර ගැනීමට හා මෙවැනි ව්‍යාපාර සඳහා විදේශ ආයෝජකයින් ආකර්ෂණය කර ගැනීමට ඉතාමත් වැදගත් වන නියාමන අධිකාරියක් පිහිටුවීමට අවශ්‍ය නීති සම්මත කර ගැනීමට කඩිනම් කටයුතු යොදන ලෙස සහ එය තවදුරටත් පමා නොකරන ලෙස සභාපතිවරයා පැමිණ සිටි නිලධාරීන් වෙත උපදෙස් ලබා දුන්නේය.
+
+...
+
+[Data](articles/21b5455a.json)
 
 ---
 
@@ -2329,61 +2403,5 @@ The rationale behind this evolution lies in the perpetrators’ ability to opera
 [Data](articles/4f5b038f.json)
 
 [Extended Data](ext_articles/4f5b038f.ext.json)
-
----
-
-### Sri Lanka should separate foreign policies from borrowing policies: Dr. Devarajan
-
-*2024-06-11 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-separate-foreign-policies-from-borrowing-policies-Dr-Devarajan/108-284550) · `en`
-
-A prominent economist stressed the need for Sri Lanka to separate its foreign policies from the borrowing policies, so it does not repeat the same mistakes that have resulted in it having to grapple with high cost of debt.
-
-Citing the government’s decision in 2019 to reject the favourable loans from the US and Japan, to choose commercial loans from China, due to the country’s lenient stance over Sri Lanka’s human rights issue, former World Bank Acting Chief Dr. Shanta Devarajan noted the move was detrimental and added to the woes of the country.
-
-“I think this was a big mistake because it mixed up the foreign policy objectives with the economic policy objectives. You always borrow from the cheapest lender, regardless of what your foreign relations are with that country. So, Sri Lanka should keep its borrowing policy separate from its foreign policy,” asserted Dr. Devarajan.
-
-He added that some say it is impossible to make the separation but it is possible, as in the case of Taiwan and China.
-
-...
-
-[Data](articles/4d6f3949.json)
-
-[Extended Data](ext_articles/4d6f3949.ext.json)
-
----
-
-### Cardinal condemns President’s attempt to link Catholic Church to AG service extension
-
-*2024-06-11 01:51:34* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-condemns-President-s-attempt-to-link-Catholic-Church-to-AG-service-extension/56-762926) · `en`
-
-Archbishop of Colombo, Malcolm Cardinal Ranjith criticises President’s comments, calling them misleading and lacking genuine intent
-
-Questions why discussions with Church, initiated by the Govt., being used to retain same Attorney General
-
-Accuses President of using Catholic Bishops to create facade of addressing Easter Sunday attack to gain votes
-
-Expresses disappointment that invitation for discussions on Easter Sunday attacks was not made in good faith
-
-Archbishop of Colombo Malcolm Cardinal Ranjith, has expressed strong criticism over the weekend against a recent statement made by President Ranil Wickremesinghe suggesting a link between the extension of the Attorney General’s tenure and the Catholic Church of Sri Lanka.
-
-...
-
-[Data](articles/2f0ebde2.json)
-
-[Extended Data](ext_articles/2f0ebde2.ext.json)
-
----
-
-### Foreign economic experts meet NPP
-
-*2024-06-11 01:48:28* · [`dailyftlk`](https://www.ft.lk/news/Foreign-economic-experts-meet-NPP/56-762925) · `en`
-
-A group of foreign economic experts met with representatives of the National People’s Power (NPP) party at the JVP Head Office yesterday. Among the attendees was Argentina’s former Economy Minister and Columbia University Professor Martin Guzman, Massachusetts University Professor Jayathi Ghosh and United Nations Millennium Project former Regional Director Charles Abugre. Dr. Ahilan Kadirgamar, a senior lecturer at Jaffna University, also contributed to the discussion. The meeting, which included NPP Executive Members Dr. Harini Amarasuriya, Dr. Nalinda Jayatissa and several other NPP members focused on addressing Sri Lanka’s economic crisis
-
-◼️
-
-[Data](articles/11aece38.json)
-
-[Extended Data](ext_articles/11aece38.ext.json)
 
 ---

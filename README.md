@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 15:19:07**
+As of **2024-06-11 15:34:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,776 (100.0%) of 29,781 articles have been extended.
+29,781 (100.0%) of 29,781 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Additionally, the CTU has called for an increase in paper marking charges. Despi
 
 [Data](articles/d4c5bb06.json)
 
+[Extended Data](ext_articles/d4c5bb06.ext.json)
+
 ---
 
-### බාලවයස්කාර දැරියක්ව දූෂණය කළ කුලී රථ රියදුරට දැඩි දඬුවම්
+### Taxi driver who raped a minor girl
 
 *2024-06-11 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197644) · `si`
 
-මෙයට වසර 10කට පමණ පෙර බාලවයස්කාර දැරියක්ව දූෂණය කිරීමේ චෝදනාවට වැරදිකරු වූ කුලී රථ රියදුරෙක්ට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිතව වසර 10ක සිරදඬුවම් නියම කළේය.
+A taxi driver convicted of raping a minor girl near her home while she prepared for exams was sentenced to 10 years in prison by the Colombo High Court. The court also fined him, threatening an additional two-year jail term if unpaid.
 
-සිය නිවස අසල කුලී නිවසක විසූ එවකට අපොස සා පෙළ විභාගයට සූදානම් වෙමින් සිටි එම දැරියව දූෂණය කර ඇති බවට දැනට 35 හැවිරිදි වියේ පසුවන එම පුද්ගලයාට එරෙහිව චෝදනා එල්ල විය.
+🟩
 
-කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා අදාළ නියෝගය නිකුත් කළේය.
+A taxi driver who was found guilty of raping a minor girl about 10 years ago, the Colombo High Court sentenced 10 years in prison.
 
-ඊට අමතරව චුදිතයාට එරෙහිව රුපියල් 10,000ක දඩයක් ද නියම කළ විනිසුරුවරයා අගතියට පත් තරුණියට රුපියල් 50,000ක වන්දියක් ගෙවන ලෙසද නියෝග කළේය.
+The victim has been accused of raping the girl who was preparing for the GCE O / L examination at the time of his home.
 
-එම වන්දිය නොගෙවන්නේ නම් එය දඩයක් ලෙස අයකරගන්නා ලෙසත් එයද නොගෙවන්නේ නම් බරපතළ වැඩ සහිත තවත් වසර දෙකක සිර දඬුවම් ලබාදීමටත් නියෝග කළේය.
+Colombo High Court Judge Adal Pabenman issued the order.
+
+In addition, the judge ordered the pupil of Rs.
+
+If you do not pay the price, it was also imposed to be sentenced to two years in prison.
 
 ◼️
 
 [Data](articles/7ae1f777.json)
+
+[Extended Data](ext_articles/7ae1f777.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ Starting this year, the A/L examination, which has typically been held in Novemb
 ...
 
 [Data](articles/6057f26d.json)
+
+[Extended Data](ext_articles/6057f26d.ext.json)
 
 ---
 
@@ -184,19 +194,25 @@ We were reported from the Aranayaka area for a couple of my father, who is born 
 
 ---
 
-### කාන්තාර කොළපාට කරන චීනය
+### Desert is green
 
 *2024-06-11 13:32:42* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාර-කොළපාට-කරන-චීනය/11-410144) · `si`
 
-කාන්තාර ප්‍රදේශවල විදුලි උත්පාදනය හා පරිසර සංරක්ෂණය පිළිබඳ සමගාමී ව්‍යෘපෘතිවලින් චීනය පුළුල් ප්‍රගතියක් අත්කර ගනී.
+In Northwest China, 86 power plants along the 522 road generate 3540 kW, producing 36 lakh units annually. This initiative, part of the 'Turnim Oil Bellaway Highway' project, not only boosts electricity but also conserves the environment by reducing diesel use by 1000 tons and cutting CO2 emissions by 3410 tons.
 
-වයඹදිග චීනයේ තක්ලිමකන් කාන්තාරය හරහා දිවෙන කි.මී. 522 ක් දිග ‘තාරිම් තෙල් බිම් මහා මාර්ගය’ දෙපස ප්‍රකාශ වෝල්ටීයතා බලාගාර 86 ක් ඉදි කර ඇත. එහි සමස්ත ධාරිතාව කිලෝවොට් 3540 ක් වන අතර වාර්ෂික විදුලි උත්පාදනය කිලෝවොට් පැය 36 ලක්ෂ 20 දහසකි. මෙම මහා මාර්ගය අවට හෙක්ටයාර 3100 ක පමණ වපසරියකින් යුතු ජෛව සංරක්ෂණ වනාන්තරයක් ද පවතී. එම වනයට ජලය පොම්ප කිරීම සඳහා ඩීසල් වෙනුවට ප්‍රකාශ වෝල්ටීයතා බලාගාරවල උත්පාදනය කෙරෙන විදුලිය භාවිත කෙරේ.
+🟩
 
-මේ වන විට ‘තාරිම් තෙල් බිම් මහා මාර්ග’ ව්‍යාපෘතිය යටතේ හරිත විදුලි උත්පාදනය කිලෝවොට් පැය මිලියන 5 ඉක්මවා ගොස් තිබීම ද කැපීපෙනේ. එම ව්‍යාපෘතිය මගින් වාර්ෂික ව ඩීසල් පරිභෝජනය ටොන් 1000 කින් සහ කාබන්ඩ‍යොක්සයිඩ් විමෝචනය ටොන් 3410 කින් අඩු කළ හැකිවනු ඇතැයි ඇස්තමේන්තු කර ඇත.
+China makes widespread progress with parallel areas of electricity and environmental conservation.
+
+Northwest China's Treasures. 86 voltage power plants have been built on both sides of the 522. Its overall capacity is 3540 kilowats and annual power generation is 36 lakhs of 36 lakhs. There is also a bio-conservation forest that is located about 3100 hectares around this highway. Electricity is used in the voltatism power plants to replace the water to pump water.
+
+The green electricity generation has been produced by the Green Electricity generation under the 'Turnim Oil Bellaway Highway' project.. It is estimated that the project will reduce the annual diesel consumption by 1000 tons and carbon dioxide by 3410 tons.
 
 ◼️
 
 [Data](articles/7638844c.json)
+
+[Extended Data](ext_articles/7638844c.ext.json)
 
 ---
 
@@ -244,21 +260,27 @@ As for home computer ownership, 20.2% of the country is available at least one c
 
 ---
 
-### බස්නාහිර හැර සෙසු පළාත්වලට අදාල වාහන ආදායම් බලපත්‍ර සබරගමුවෙන් ගන්න පුළුවන්
+### Vehicle revenue licenses can be taken from the Sabaragamuwa
 
 *2024-06-11 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-හැර-සෙසු-පළාත්වලට-අදාල-වාහන-ආදායම්-බලපත්‍ර-සබරගමුවෙන්-ගන්න-පුළුවන්/11-410143) · `si`
 
-බස්නාහිර පළාතේ හැර දිවයිනේ සෙසු පළාත්වලට අදාළව වාහන ආදායම් බලපත්‍ර ලියාපදිංචි කිරීම සබරගමු පළාත් සභාව මගින් මෙම මස 03 වන දින සිට ක්‍රියාත්මක කල බව සබරගමු පළාත් ප්‍රධාන ලේකම් මහින්ද එස් වීරසූරිය මහතා අද (11) සදහන් කළේය.
+Starting from March, Sabaragamuwa Provincial Council issues annual vehicle revenue licenses, excluding Western Province. Licenses available at Sabaragamuwa Provincial Complex, Ratnapura & Kegalle Divisional Secretaries. Not applicable to buses registered outside Sabaragamuwa.
 
-ඒ මහතා මේ බව සදහන් කළේ එදින (11) රත්නපුර පිහිටි සබරගමු පළාත් ප්‍රධාන ලේකම් කාර්යාලීය ශ්‍රවණාගාරයේදී පැවති සාකච්ඡාවකට එක් වෙමිණි.
+🟩
 
-මේ අනුව, බස්නාහිර පළාතේ ලියාපදිංචි වූ වාහන හැර සෙසු පළාත්වල ලියාපදිංචි වූ වාහන සදහා වාර්ෂික වාහන ආදායම් බලපත්‍ර සබරගමු පළාත් සංකීර්නයෙන් ද රත්නපුර සහ කෑගල්ල දීස්ත්‍රික්ක දෙකේ 29 ක් වූ ප්‍රාදේශීය ලේකම් කාර්යාලවලින්ද ලබා ගත හැකිය.
+Sabaragamuwa Chief Secretary Mahinda Rajapaksa, Chief Secretary Mahinda Rajapaksa General Secretary Mahinda Rajapaksa said that the Sabaragamuwa Provincial Council has been implemented by the Sabaragamuwa Provincial Council from the 3rd of this month except the island in the Western Province.
 
-මෙය ක්‍රියාත්මක වීමත් සමගම බස්නාහිර පළාතේ ලියාපදිංචි වූ වාහන හැර සෙසු පළාත්වල ලියාපදිංචි වූ වාහන සදහා වාර්ෂික වාහන  ආදායම් බලපත්‍ර වාහන ලියාපදිංචි වූ පළාත් සභාවට අමතරව සෙසු පළාත් හතෙන් (7) ලබා ගත හැකිය. මීට ඔමිනි බස් රථවලට අදාළ වාහන ආදායම් බලපත්‍ර අදාළ නොවන බවද ප්‍රධාන ලේකම්වරයා පවසයි.
+He was speaking at a discussion held at the Chief Secretary General of Sabaragamuwa Province, Ratnapura.
+
+Accordingly, annual vehicle revenue licenses can be obtained from the Sabaragamuwa Provincial Complex, the Sabaragamuwa Province complex, the Divisional Secretaries of Ratnapura and Kegalle.
+
+Annual Vehicle Revenue License for vehicles registered in other provinces except in the Western Province. The Secretary of the Chief Secretary says that the vehicles revenue license will not apply to these buses.
 
 ◼️
 
 [Data](articles/0bc36ba7.json)
+
+[Extended Data](ext_articles/0bc36ba7.ext.json)
 
 ---
 

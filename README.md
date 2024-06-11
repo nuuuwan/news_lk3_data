@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 22:34:20**
+As of **2024-06-11 22:52:50**
 
 ## Newspaper Stats
 
-*Scraped **29,861** Articles*
+*Scraped **29,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,376
 tamilmirrorlk | 3,497
 virakesarilk | 4,567
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,807
+adaderanasinhalalk | 4,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,860 (100.0%) of 29,861 articles have been extended.
+29,861 (100.0%) of 29,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### ධීවර යාත්‍රාවක් පෙරළෙයි
+
+*2024-06-11 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197658) · `si`
+
+අද (11) රාත්‍රියේ රූමස්සල මුහුදේ දී ධීවර යාත්‍රාවක් පෙරළීමෙන් ධීවරයින් දෙදෙනෙකු අතුරුදහන් වී ඇතැයි වාර්තා වෙයි.
+
+හබරාදුව පොලීසිය සඳහන් කළේ සිද්ධිය සම්බන්ධයෙන් සොයාබැලීමට පොලිස් කණ්ඩායමක් පිටත්ව ගිය බවය.
+
+◼️
+
+[Data](articles/21048abf.json)
+
+---
 
 ### Sri Lanka to face Nepal in must-win T20 World Cup match
 
@@ -47,6 +61,8 @@ After two defeats to South Africa and Bangladesh, Sri Lanka are in must-win terr
 ...
 
 [Data](articles/c09e937e.json)
+
+[Extended Data](ext_articles/c09e937e.ext.json)
 
 ---
 
@@ -2305,41 +2321,5 @@ No statements on the incident have been issued by Chinese authorities or reports
 [Data](articles/4143ecd5.json)
 
 [Extended Data](ext_articles/4143ecd5.ext.json)
-
----
-
-### A woman is cut off and killed
-
-*2024-06-11 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197637) · `si`
-
-A 57-year-old woman was murdered in her home in the Sirilton Estate, Horana, by two unknown assailants dressed in black. The incident occurred after midnight when the victim and her sister were asleep. The attackers entered their room, tied them up, and left them there. The sister managed to escape and alert the neighbors. The motive behind the killing remains unclear, and no valuables were stolen. Police are investigating the case.
-
-🟩
-
-Horana Police say that a woman has been murdered on a sharp weapon.
-
-The murder had occurred in a house in the Sirilton Estate area in Horana, Horana.
-
-The murdered is a 57-year-old woman from marriage with a Bangladeshi national.
-
-The sister has come to stay at the house of the woman who died over ago, police said.
-
-The two women had gone to sleep at about 7.30 last night and then two strangers covered with black clothes at around 1.45 am.
-
-They tie the death of the deceased to sleep and died in the room where the dead woman was sleeping.
-
-The sister of the deceased woman, had gone to a neighboring house with the knots of the dead woman.
-
-Later, the investigations have been launched on an notification for the police.
-
-The monk has not taken the jewelery and money owned by the deceased, police said.
-
-The police have not been identified as the assassins entered the house, the police are conducting further investigations.
-
-◼️
-
-[Data](articles/b3857cf0.json)
-
-[Extended Data](ext_articles/b3857cf0.ext.json)
 
 ---

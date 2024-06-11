@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 20:53:12**
+As of **2024-06-11 21:04:18**
 
 ## Newspaper Stats
 
-*Scraped **29,848** Articles*
+*Scraped **29,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
-adalk | 2,559
+adalk | 2,560
 adaderanalk | 3,375
 tamilmirrorlk | 3,495
 virakesarilk | 4,566
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,844 (100.0%) of 29,848 articles have been extended.
+29,848 (100.0%) of 29,849 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,35 +56,49 @@ Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secret
 
 ---
 
-### அரச துறையில் காணப்படும் சம்பள முரண்பாடுகளை தீர்க்க ஜனாதிபதியினால்  நான்கு பணிப்பாளர் நாயகங்கள் கொண்ட நிபுணர் குழு நியமனம்
+### The President appoints a panel of experts with four director heroes to resolve salary conflicts found in the state sector
 
 *2024-06-11 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185859) · `ta`
 
-அரச சேவையில் நிலவும் சம்பள முரண்பாடுகளை நிவர்த்தி செய்வதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க நிபுணர் குழுவொன்றை நியமித்துள்ளார்.
+President Wickremesinghe has formed a panel led by former President Udaya Seneviratne to tackle salary disputes in the public sector. The team includes several directors from various departments, tasked with submitting salary and allowance recommendations for all public service sectors by early 2025, focusing on resolving pay discrepancies among different divisions.
 
-முன்னாள் ஜனாதிபதி செயலாளர்  உதய செனவிரத்னவின் தலைமையிலான  இந்தக் குழுவின் ஏனைய உறுப்பினர்களாகத் தேசிய வரவு செலவுத்திட்டத் திணைக்களத்தின் பணிப்பாளர் நாயகம் எஸ்.டி.ஜே. நிலுக்ஷன், முகாமைத்துவ சேவைகள் திணைக்களத்தின் பணிப்பாளர் நாயகம் ஹிரன்சா களுதந்திரி, ஒருங்கிணைந்த சேவைகள் பணிப்பாளர் நாயகம் எஸ். ஆலோக பண்டார, நிறுவன பணிப்பாளர் நாயகம் எச்.ஏ. சந்தன குமாரசிங்க, வைத்தியர் டெரன்ஸ் காமினி டி சில்வா, துமிந்த ஹுலங்கமுவ, சந்தி எச். தர்மரத்ன மற்றும் இசுரு திலகவர்தன ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+🟩
 
-அரச சேவையில் உள்ள பல்வேறு  சேவைப் பிரிவுகளுக்கிடையில் நிலவும் சம்பள முரண்பாடுகள் குறித்து உரிய கவனம் செலுத்தி, 2025ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் நடவடிக்கைகளை மேற்கொள்ளும் வகையில் அரச சேவையின் அனைத்துத் துறைகளிலும் உள்ள சம்பளம் மற்றும் ஏனைய  கொடுப்பனவுகளை மீளாய்வு செய்து திருத்தங்கள் தொடர்பான பரிந்துரைகளை  நிபுணர் குழு சமர்ப்பிக்கும்.
+President Ranil Wickremesinghe has appointed a panel of experts to address the existing salary conflicts in public service.
 
-...
+Director General of the National Budget Department, SDJ, is the other members of the committee headed by former President Udaya Seneviratne.. Director General of the Department of Management, Management Services. Alaka Bandara, Director General of Corporation HA. Chandana Kumarasinghe, Dr. Teranz Gamini de Silva, Duminda Hulangamuwa, Junction H. Dharmaratne and Isuru Tilakwardena have been appointed.
+
+The Expert Panel will submit the recommendations relating to the salaries and other allowances in all sectors of the public service to take action in the budget of 2025, with the appropriate focus on the wage conflicts between the various services divisions in the public service.
+
+The Directorate has been issued to the President within three months of their recommendations.
+
+◼️
 
 [Data](articles/2022fd72.json)
 
+[Extended Data](ext_articles/2022fd72.ext.json)
+
 ---
 
-### நாட்டில் வருடாந்தம் 60 ஆயிரம் பேர் தொற்றாநோயால் பாதிப்பு
+### 60 thousand people annually in the country
 
 *2024-06-11 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185858) · `ta`
 
-இலங்கையில் வருடாந்தம் தொற்றா நோயால் பாதிப்புற்ற சுமார் 60 ஆயிரம் நோயாளர்கள் அடையாளம் காணபடுவதுடன் நாட்டில் 89 விதமான மரணங்களுக்கு தொற்றா நோய்களே பிரதான காரணம் என சுகாதார அமைச்சின் செயலாளர் விசேட வைத்திய நிபுணர் பாலித மஹிபால தெரிவித்தார்.
+In Sri Lanka, around 60,000 patients suffer annually from an epidemic causing 89 deaths, mainly attributed to infectious diseases. The Secretary of the Ministry of Health highlighted the need for a heartburn lab and emphasized strengthening primary healthcare, which offers comprehensive treatment under specialist doctors. Additionally, he announced a World Bank-funded initiative providing 70 billion rupees over five years to bolster health services, including a 300 million rupee allocation for the Rikillagaskada Hospital development. This effort aims to address the high mortality rate among the elderly and reduce the impact of infectious diseases, which contribute significantly to global health issues, including heart disease affecting 17.2% of cases.
 
-கண்டி ரிகில்லகஸ்கட ஆரம்ப வைத்தியசாலைக்கு கடந்த ஞாயிற்றுக்கிழமை விசேட விஜயம் மேற்கொண்டிருந்த போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-சுகாதார சேவைக்காக எதிர்வரும் ஐந்து வருடங்களுக்கு உலக வங்கியின் நிதியுதவி திட்டத்துக்கமைய சுமார் 70 பில்லியன் ரூபா வழங்கப்பட்ட உள்ளது. அதற்கமைய ஒவ்வொரு வருடமும் தள 14 பில்லியன் ரூபா வழங்க தீர்மானிக்கப்பட்டுள்ளது. இதன் மூலம் ஆரம்ப சுகாதார சேவையை மேலும் வலுப்படுத்த எதிர்பார்க்கப்பட்டுள்ளது. ஆரம்ப சுகாதார சேவையினூடாக நோயாளர்களுக்கு விசேட வைத்திய நிபுணர்களின் கீழ் அனைத்து சிகிச்சைகளையும் பெறக்கூடிய வாய்ப்புகள் கிடைக்கின்றன.
+Around 60 thousand patients who are suffering from an annual epidemic in Sri Lanka have been identified and the main cause of 89 deaths in the country is the Secretary to the Ministry of Health, Palitha Maibala, Secretary of the Ministry of Health.
+
+He made the above statement while on a special visit to the Kandy Rikillagaskada Primary Hospital last Sunday.
+
+For the next five years for the health service, about 70 billion rupees for the World Bank's financial assistance program. It is decided to pay 14 billion rupees each year. It is expected to further strengthen the primary health service. Through the primary health service, patients have the opportunity to get all the treatments under specialist doctors.
 
 ...
 
 [Data](articles/88fc9e64.json)
+
+[Extended Data](ext_articles/88fc9e64.ext.json)
 
 ---
 
@@ -247,6 +261,22 @@ Minister Devananda said an initial meeting was held on Tuesday (11) with all the
 [Data](articles/a02fd6fe.json)
 
 [Extended Data](ext_articles/a02fd6fe.ext.json)
+
+---
+
+### කවුරු බලයට පැමිණියත් IMF ගිවිසුම අනුව කටයුතු කිරීමට සිදුවෙනවා
+
+*2024-06-11 18:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-බලයට-පැමිණියත්-IMF-ගිවිසුම-අනුව-කටයුතු-කිරීමට-සිදුවෙනවා/11-410151) · `si`
+
+එළඹෙන 2025 වර්ෂය සඳහා අයවැය ලේඛණය සකස්කරන විට කවුරුන් විසින් ආණ්ඩුවක් පවත්වාගෙන ගිය ද ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ 2028 දක්වා සකස් කර ඇති ණය ගිවිසුම් ප්‍රකාරව කටයුතු කළ යුතු බව ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+මෙම ගිවිසුම් ප්‍රකාරව කටයුතු කරනවාද නැද්ද යන්න පිළිබඳව රාජ්‍ය බලය ලබාගැනීමට අපේක්ෂා කරන පාර්ශ්ව රටට පැවසිය යුතු බව ද ඒ මහතා සඳහන් කළේය.
+
+ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (10) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/33ff05fd.json)
 
 ---
 
@@ -462,21 +492,31 @@ The petition was called before the Court of Appeal this petition today (11) befo
 
 ---
 
-### அரசியலமைப்பு பிழையானது ரணிலுக்கும் பாராளுமன்றத்திற்கும் இன்னும் ஒரு வருடத்தை வழங்கலாம்-எகனமி நெக்ஸ்ட்
+### Constitutional Error may give Ranil and Parliament one more year-Eagle Next
 
 *2024-06-11 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185846) · `ta`
 
-அரசமைப்பில் காணப்படும்  கவனிக்காமல் விடப்பட்ட சிறிய தவறு ரணில் விக்கிரமசிங்க தனது பதவிக்காலத்தையும் நாடாளுமன்றத்தின் ஆயுள்காலத்தையும் மேலும் ஒருவருடத்திற்கு நீடிக்ககூடிய வாய்;ப்பை வழங்கியுள்ளதாக எகனமி நெக்ஸ்ட் இணையத்தளம் தெரிவித்துள்ளது
+Ranil Wickremesinghe may extend his term and Parliament's lifespan by one year due to a constitutional loophole not addressed since the 19th Amendment in 2015 aimed at democratic reforms. Despite amendments reducing terms to five years, Article 83(D) allows him to extend it without parliamentary approval for extensions over six years, enabling an 11-month extension without constitutional violation. Political analysts suggest he deserves more time as the country isn't ready for elections.
 
-2015 இல் 19வது திருத்தம் நடைமுறைக்கு வந்த காலம் முதல் கவனம் செலுத்தப்படாமலிருந்த அரசியல் அமைப்பின் ஒரு தவறினை  பயன்படுத்தி ரணில் விக்கிரமசிங்க தனது பதவிக்காலத்தினை நீடிக்க கூடும்.
+🟩
 
-19வது திருத்தம்ஜனநாயக சீர்திருத்தங்களை உறுதி செய்யவும்இநல்லாட்சியை உறுதிசெய்யவும் நாடாளுமன்றத்தினதும் ஜனாதிபதியினதும் பதவிக்காலத்தை ஐந்தாக குறைக்கவும் முயன்றது.
+Ranil Wickremesinghe has issued his term of office and the lifetime of parliament for a further year, according to the Emanami Next website said
 
-19வது திருத்தத்திற்கு அமைய  நாடாளுமன்றத்தினதும்ஜனாதிபதியினதும் ஆறு வருட பதவிக்காலம் பற்றிய அனைத்து குறிப்புகளும் ஐந்தாண்டுகளாக மாற்றப்பட்டாலும் உறுப்புரை 83(டி) கவனிக்கப்படாமலும் மாற்றப்படாமலும் ஜனாதிபதி விக்ரமசிங்கவிற்கு தனது பதவிக்காலத்தை நீடிப்பதற்கானவாய்ப்பினை வழங்கியுள்ளது.
+Ranil Wickremesinghe may use a mistake of the political system that has not been paid since the 19th Amendment in 2015.
+
+The 19th Amendment sought to ensure democratic reforms and to ensure the nation and reduce the term of the parliament and the president.
+
+Although all the references to the six -year term of the Parliament and the President of the Parliament, in accordance with the 19th Amendment have been changed to five years, Article 83 (D) has given President Wickremesinghe to extend his tenure.
+
+Any Bill to extend the five -year tenure of the President or Parliament must be approved by a two -thirds majority in Parliament.
+
+However, under Section 83 (D), the universities are only needed if they are extended for more than six (6) years, not five (5) years
 
 ...
 
 [Data](articles/3be6f956.json)
+
+[Extended Data](ext_articles/3be6f956.ext.json)
 
 ---
 
@@ -700,25 +740,31 @@ Hundreds of soldiers, police officers and forest rangers had been searching for 
 
 ---
 
-### 19 ஆவது திருத்தத்திற்கமைய ஜனாதிபதியின் பதவிக்காலத்தை 5 வருடங்களுக்கு மேல் அதிகரிக்க முடியாது - பெப்ரல்
+### The president's term cannot be increased for more than 5 years - February
 
 *2024-06-11 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185837) · `ta`
 
-அரசியலமைப்பின் 19ஆம் திருத்தத்துக்கு அமைய ஜனாதிபதியின் பதவிக்காலத்தை ஐந்து வருடங்களுக்கு மேல் அதிகரித்துக்கொள்ள முடியாது.
+The 19th Amendment limits the president's term to five years, preventing extensions beyond this duration. The current president, Ranil Wickremesinghe, can serve until the remainder of Gotabhaya Rajapakse's term due to constitutional provisions. It's crucial to hold elections promptly to adhere to democratic norms.
 
-அதன் பிரகாரம் ஜனாதிபதி தேர்தல் உரியக் காலத்தில் நடத்தப்பட வேண்டும் என பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்தார்.
+🟩
 
-பெப்ரல் அமைப்பு கொழும்பில் செவ்வாய்க்கிழமை (11) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The president's term cannot be increased for more than five years, according to the 19th Amendment to the Constitution.
 
-அரசியலமைப்பின் பிரகாரம் மக்கள் மக்கள் ஆணை இன்றி,  நாட்டின் ஜனாதிபதிக்கு 5 வருடங்களுக்கு அப்பால் சென்று ஜனாதிபதி பதவியை வகிக்கச் சட்ட ரீதியிலான அனுமதி இல்லை.
+The Executive Director of the February, Rohana Hettiarachchi, said that the presidential election should be held in a timely manner.
 
-அரசியலமைப்பின் 83ஆவது உறுப்புரிமைக்கு அமைய, ஜனாதிபதியின் பதவிக்காலத்தை 6 வருடங்களுக்கு அதிக காலத்துக்கு அதிகரித்துக்கொள்வதென்றால், பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மை மற்றும் சர்வஜன வாக்களிப்புக்குச் செல்லவேண்டும்.
+He was speaking at a press conference held in Colombo on Tuesday (11).
 
-ஆனால் அரசியலமைப்பின் 19ஆம் திருத்தத்தின்போது எதிர்பார்க்கப்பட்ட ஒரு விடயம்தான், ஜனாதிபதியின் பதவிக்காலத்தை இரண்டு தவணைக்கு மட்டுப்படுத்துவது மற்றும் ஒரு தவணைக்கு இருந்த 6 வருட காலத்தை 5 வருடமாகக் குறைப்பதாகும்.
+According to the Constitution, there is no legal permit to go to the presidency of the country for five years without the people's orders.
+
+In accordance with Article 83 of the Constitution, the president's term is increased to more than 6 years, the parliament must go to a two -thirds majority and universal vote.
+
+But the only thing expected during the 19th Amendment of the Constitution is to limit the president's term to two installments and reduce the 6 -year period of an installment to 5 years.
 
 ...
 
 [Data](articles/268a5941.json)
+
+[Extended Data](ext_articles/268a5941.ext.json)
 
 ---
 
@@ -2297,27 +2343,5 @@ It is also reported that the collision has left both the bus and the van severel
 [Data](articles/383f48b4.json)
 
 [Extended Data](ext_articles/383f48b4.ext.json)
-
----
-
-### A person has died in a lodge in Battaramulla
-
-*2024-06-11 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197631) · `si`
-
-A 50-year-old man found dead in a Battaramulla lodge. He was alone, managing the place. Thalangama Police investigating.
-
-🟩
-
-Around 50 years, a 50-year-old man worked with a 50-year-old man who served in a location of a lodge in Battaramulla today (11).
-
-Thalangama Police are conducting further investigations into the death.
-
-It is said that the man was alone in the lorry and he was looking after the place.
-
-◼️
-
-[Data](articles/977f8fac.json)
-
-[Extended Data](ext_articles/977f8fac.ext.json)
 
 ---

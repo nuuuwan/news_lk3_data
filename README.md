@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 09:04:42**
+As of **2024-06-11 09:19:12**
 
 ## Newspaper Stats
 
-*Scraped **29,716** Articles*
+*Scraped **29,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,537
-adaderanalk | 3,357
+adaderanalk | 3,358
 tamilmirrorlk | 3,480
 virakesarilk | 4,554
 dailymirrorlk | 4,712
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,715 (100.0%) of 29,716 articles have been extended.
+29,716 (100.0%) of 29,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Aircraft carrying Malawi vice-president goes missing
+
+*2024-06-11 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99793/aircraft-carrying-malawi-vice-president-goes-missing) · `en`
+
+An aircraft carrying Malawi’s Vice-President Saulos Chilima and nine others has gone missing, a statement from the president’s office has said.
+
+The Malawi Defence Force aircraft “went off the radar” after it left the capital, Lilongwe, on Monday morning, it added.
+
+The plane was supposed to land at Mzuzu International Airport, in the country’s north, just after 10:00 local time (09:00 BST).
+
+In a speech late on Monday, President Lazarus Chakwera said a search and rescue operation was continuing.
+
+“Soldiers are still on the ground carrying out the search and I have given strict orders that the operation should continue until the plane is found,” he said, adding that it was a “heart-breaking situation”.
+
+“I know that we are all frightened and concerned - I too am concerned. But I want to assure you that I am sparing no available resource to find that plane and I am holding onto every fibre of hope that we will find survivors.”
+
+...
+
+[Data](articles/fbbeeccc.json)
+
+---
 
 ### Racketeer to mark flooded chickens
 
@@ -1816,19 +1838,25 @@ During this time, a 55 -year -old from Eravur, who was taken to a small wooden b
 
 ---
 
-### පෙර පාසල් ගුරුවරියන්ගේ දීමනාව සියයට 100කින් ඉහළට
+### Preschool teachers' allowance up 100 percent
 
 *2024-06-10 19:00:57* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරුවරියන්ගේ-දීමනාව-සියයට-100කින්-ඉහළට/11-410129) · `si`
 
-පෙරපාසල් ගුරුවරියන් සඳහා රජය විසින් මාසිකව ලබාදෙන රු. 2500ක දීමනාව රු. 5000 දක්වා ඉහළ දැමීමට අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී තීරණය කර තිබේ.
+The government has doubled preschool teachers' allowances from Rs. 2,500 to Rs. 5,000 per month. This decision, made by the Cabinet, will benefit around 34,000 teachers as per instructions from President Ranil Wickremesinghe.
 
-ඒ අනුව මෙරට 34,000ක් පමණ වන පෙර පාසල් ගුරුවරියන් සඳහා එය ලබා දීමට කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දුන් බව කෘෂිකර්ම හා කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රකාශ කළේය.
+🟩
 
-අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර සිටියේ පසුගිය සතියේ රැස්වූ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේ දී  මේ පිලිබඳ දීර්ඝ ලෙස සාකච්ඡා වූ බවයි.
+The government monthly Rs.. 2500 per month. The Cabinet has decided to increase to 5,000.
+
+Minister of Agriculture Mahinda Amaraweera stated that President Ranil Wickremesinghe has instructed to provide it to the pre-school teachers of about 34,000 school teachers.
+
+The Minister further stated that the Cabinet Meeting Meeting of last week was lengthy.
 
 ◼️
 
 [Data](articles/f11bae3a.json)
+
+[Extended Data](ext_articles/f11bae3a.ext.json)
 
 ---
 
@@ -2205,31 +2233,5 @@ After this, the next day was married, and in the morning, relatives started gath
 [Data](articles/aaa84472.json)
 
 [Extended Data](ext_articles/aaa84472.ext.json)
-
----
-
-### Israel resigns
-
-*2024-06-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197608) · `si`
-
-Israel's military cabinet resigns, criticizing PM Benjamin for hindering peace efforts. The resignation highlights internal conflicts and political rivalry within the government.
-
-🟩
-
-The Israeli Army Cabinettt has resigned.
-
-He emphasized that the present Israeli Prime Minister Benjaminiu is blocking the opportunity to achieve a true victory.
-
-The Prime Minister is justifying the Prime Minister that is justifying the Prime Minister to suffer from war.
-
-The Israeli Army Commander, Benny Army Commander, is also a powerful political rival of the Prime Minister of Prime Minister.
-
-However, the Israeli Waawan reached a gang and Nethenya.
-
-◼️
-
-[Data](articles/ef242ff2.json)
-
-[Extended Data](ext_articles/ef242ff2.ext.json)
 
 ---

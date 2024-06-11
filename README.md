@@ -1,36 +1,54 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 10:53:04**
+As of **2024-06-11 11:05:04**
 
 ## Newspaper Stats
 
-*Scraped **29,732** Articles*
+*Scraped **29,737** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 271
-dbsjeyarajcom | 278
-bbccomsinhala | 287
+dbsjeyarajcom | 279
+bbccomsinhala | 288
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,539
-adaderanalk | 3,361
+adaderanalk | 3,362
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
-dailymirrorlk | 4,713
+dailymirrorlk | 4,715
 adaderanasinhalalk | 4,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,727 (100.0%) of 29,732 articles have been extended.
+29,727 (100.0%) of 29,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Govt unable to address public sector wage disparities through 2024 Budget
+
+*2024-06-11 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99797/govt-unable-to-address-public-sector-wage-disparities-through-2024-budget-) · `en`
+
+Minister Bandula Gunawardana has said that the government is currently unable to allocate additional financial resources to resolve wage disparities in the public sector through the 2024 Budget.
+
+This announcement was made during a press conference at the Presidential Media Centre (PMC).
+
+Minister Gunawardana noted that a committee has been established, comprising the President’s Secretary and the Secretary of the Ministry of Finance, to address issues related to salaries, including discrepancies within government departments, state corporations, and statutory bodies.
+
+He further stated that the Cabinet, led by President Ranil Wickremesinghe, has decided to propose and implement comprehensive solutions for these salary issues in the 2025 Budget.
+
+◼️
+
+[Data](articles/22a4f053.json)
+
+---
 
 ### Head-on collision between bus and van leaves 2 critical
 
@@ -85,6 +103,22 @@ It is also reported that the collision has left both the bus and the van severel
 ◼️
 
 [Data](articles/fc0e178c.json)
+
+---
+
+### Sri Lanka’s computer, digital literacy increase to 39%
+
+*2024-06-11 10:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-computer-digital-literacy-increase-to-39/108-284591) · `en`
+
+The Department of Census and Statistics (DCS) reports that computer literacy in Sri Lanka has increased to 39% in 2023.
+
+In its latest release on computer and digital literacy, the DCS reported that the country's Computer Literacy Rate stands at 39.0% and the Digital Literacy Rate at 63.5%. Additionally, 20.2% of households own either a desktop or laptop computer, with the urban sector demonstrating higher literacy in both computer and digital skills.
+
+Regarding household computer ownership, at least one computer is available in 20.2% of households in the country, meaning one out of every five households owns either a desktop or a laptop. In the urban sector, this percentage is 34.0%, while the rural and estate sectors show 18.1%.
+
+◼️
+
+[Data](articles/10d8367f.json)
 
 ---
 
@@ -215,6 +249,28 @@ The Ginigathena police call on the drivers to take care of traffic in the area, 
 ...
 
 [Data](articles/8688ae17.json)
+
+---
+
+### Aircraft carrying Malawi vice-president goes missing
+
+*2024-06-11 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Aircraft-carrying-Malawi-vice-president-goes-missing/107-284573) · `en`
+
+June 11 (BBC) - An aircraft carrying Malawi's Vice-President Saulos Chilima and nine others has gone missing, a statement from the president's office has said.
+
+The Malawi Defence Force aircraft "went off the radar" after it left the capital, Lilongwe, on Monday morning, it added.
+
+The plane was supposed to land at Mzuzu International Airport, in the country’s north, just after 10:00 local time (09:00 BST).
+
+In a speech late on Monday, President Lazarus Chakwera said a search and rescue operation was continuing.
+
+"Soldiers are still on the ground carrying out the search and I have given strict orders that the operation should continue until the plane is found," he said, adding that it was a "heart-breaking situation".
+
+"I know that we are all frightened and concerned - I too am concerned. But I want to assure you that I am sparing no available resource to find that plane and I am holding onto every fibre of hope that we will find survivors."
+
+...
+
+[Data](articles/6c69af07.json)
 
 ---
 
@@ -675,6 +731,30 @@ Jayasundara mentioned that the Consumer Affairs Authority (CAA) conducted raids 
 [Data](articles/26f1c06f.json)
 
 [Extended Data](ext_articles/26f1c06f.ext.json)
+
+---
+
+### වතු කම්කරුවන් ගැන කම්කරු විනිශ්චය සභාව දුන් නිර්දේශ ක්‍රියාත්මක වෙයි ද ?
+
+*2024-06-11 03:58:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj55nynr998o) · `si`
+
+වතු කම්කරුවන් ගැන කම්කරු විනිශ්චය සභාව දුන් නිර්දේශ ක්‍රියාත්මක වෙයි ද ?
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "'' මේ විනිශ්චයකාර මණ්ඩලයේ අපි සියලු දෙනා ගොඩක් දේ ඉගෙන ගත්තා. ඊට වඩා අපි කම්පනයට පත්වුණා''", ධාවන කාලය 3,0603:06වීඩියෝ ශීර්ෂ වැකිය, '' මේ විනිශ්චයකාර මණ්ඩලයේ අපි සියලු දෙනා ගොඩක් දේ ඉගෙන ගත්තා. ඊට වඩා අපි කම්පනයට පත්වුණා''
+
+මෙරට වතු කම්කරුවන් මුහුණ දෙන ගැටළු සම්බන්ධයෙන් කැඳවූ කම්කරු විනිශ්චය සභාව ( ජුනි 08 වෙනිදා) සිය නිර්දේශ ඉදිරිපත් කරන ලදී.
+
+විශ්‍රාමික විනිසුරුවරුන් වන ශිරාණි තිලකවර්ධන, ඉන්දියානු විනිසුරු A.P. ෂා සහ නේපාල විනිසුරු P.K. ඔජාහ් මෙම කම්කරු සභාවේ විනිසුරුවරු ලෙස කටයුතු කළහ.
+
+වසර දෙසීයකට පසු වතු කම්කරු ප්‍රජාව සඳහා පළමුවරට තැපැල් ලිපිනයක්තේ ගසට බැඳුන වතු කම්කරුවන්ගේ කතාව
+
+බීබීසී සිංහල සේවයට අදහස් දක්වමින් ලංකා කම්කරු රතුකොඩි සංගමයේ මහ ලේකම් සිවසුබ්‍රමනියම් ආනන්දී දෙවේන්ද්‍ර කුමාරී කියා සිටියේ මෙම කම්කරු විනිශ්චය සභාව සිය සංගමය විසින් සංවිධාන කළ බව ය.
+
+එමෙන්ම ඊට සහභාගි වන ලෙස කම්කරු අමාත්‍යාංශයටත්, කම්කරු දෙපාර්තමේන්තුවටත් නිල වශයෙන් ආරාධනා කළ බව ඇය පැවසුවාය.
+
+...
+
+[Data](articles/29a4e24d.json)
 
 ---
 
@@ -1164,6 +1244,22 @@ Shehani Navotya of Ginigathena Central Maha Vidyalaya, who was the first in the 
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-11 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
 ### South Africa won the chance of the next round of Bangladesh by 4 runs
 
 *2024-06-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185791) · `ta`
@@ -1191,6 +1287,20 @@ In the match against the Netherlands, the total number of South Africa's leading
 [Data](articles/856453f0.json)
 
 [Extended Data](ext_articles/856453f0.ext.json)
+
+---
+
+### India voted emphatically for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution.
+
+*2024-06-11 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84178) · `en`
+
+Emphatic. An election result that throws up no outright winners would not be normally described as that. But this was no normal election. It was an election for the democratic heart and soul of India. And, in this sense, the results of the 2024 Lok Sabha election, which left the BJP with less than a majority, were emphatic.
+
+An emphatic rejection of Prime Minister Narendra Modi’s creeping authoritarianism, his and Home Minister Amit Shah’s two-man regime, and their divisive politics, anti-federal tendencies, and idea of “development” that lined the pockets of crony capitalists without improving the lives of the common people. An emphatic vote for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution and the guarantees and protections written into it for all citizens.
+
+...
+
+[Data](articles/0d0d1fc8.json)
 
 ---
 
@@ -2059,139 +2169,5 @@ The match between the Bangladesh team and South African team will be held today 
 [Data](articles/847b6f5a.json)
 
 [Extended Data](ext_articles/847b6f5a.ext.json)
-
----
-
-### A bus collided with several vehicles
-
-*2024-06-10 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185785) · `ta`
-
-A bus crash involved two cars and a motorcycle, causing significant damage and injuries.
-
-🟩
-
-The accident occurred when a bus collided with two cars and motorcycle.
-
-◼️
-
-[Data](articles/27b933ef.json)
-
-[Extended Data](ext_articles/27b933ef.ext.json)
-
----
-
-### The best news for the salary of the story
-
-*2024-06-10 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197612) · `si`
-
-Estate workers' daily wage increased to Rs. 1,000 by Labor Commissioner, despite opposition from Lanka Plantations Ltd and the Estate Employers' Association. This move follows a protest by the Low Country Plantation Union demanding Rs. 1,700 daily pay.
-
-🟩
-
-The first monthly salary of plantation rose to Rs. 1,700 was done today (10).
-
-The Commissioner General of Labor has decided to increase the daily salary of the estate workers to Rs. 1,000.
-
-However, Lanka Plantations Ltd and the Estate employers' association continued to say that such salary increases would not be in agreement.
-
-The decision was made to provide salaries increased by plantation workers in terms of this situation.
-
-Accordingly, the daily salaries of the estate workers were presented to the plantation workers at the Head Office this afternoon.
-
-Meanwhile, the Low Country Plantation Union staged a protest in Elvpitiya town asking for the payment of Rs 1,700 per day.
-
-◼️
-
-[Data](articles/f6cf0ef0.json)
-
-[Extended Data](ext_articles/f6cf0ef0.ext.json)
-
----
-
-### Omanthai - The release of 235 acres in Panpuriyankulam
-
-*2024-06-10 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185784) · `ta`
-
-In Omanthai, 235 acres of land in Panpuriyankulam were released by the Forest Department for livelihood training, as announced by District Development Committee Chairman K. Dileepan. This move aims to support locals facing challenges in finding work, with each family set to receive an acre of land.
-
-🟩
-
-District Development Committee Chairman K. Dileepan said that 235 acres of land has been released by the Department of Forest Department in Pankar Puliyankulam, Omanthai.
-
-He said this while commenting on Monday (10) after he visited the lands at Pankar Puliyankulam, Omanthai.. As he further stated,
-
-Many people living in Pankar Puliyankulam have been suffering from a long time for livelihood training. As the Chairman of the District Development Committee, the land has been released to the people on the advice of the President by speaking to the Forest Department several times.
-
-Officials of the Forest Department have visited 235 acres of land for the livelihood training of the people, including the land for the Vavuniya, Omanthai and Pankar Puliyankulam pond.
-
-He added that every families living in the area will be given one acre of land for livelihood.
-
-◼️
-
-[Data](articles/a76a9367.json)
-
-[Extended Data](ext_articles/a76a9367.ext.json)
-
----
-
-### New laws planned to control wetland destruction and illegal constructions
-
-*2024-06-10 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-laws-planned-to-control-wetland-destruction-and-illegal-constructions/108-284528) · `en`
-
-Colombo, June 10 (Daily Mirror) - New laws are to be enacted to control the destruction of wetlands, including illegal constructions and they are negotiating with all government agencies to reach a common consensus, Housing, Construction and Cultural Affairs Ministry Secretary W.S. Sathyananda said.
-
-While addressing the media, he said this common consensus is to prepare a programme that gathers all the knowledge to implement these policies as a model country for the conservation and protection of wetlands, and the protection of the biodiversity associated with them.
-
-The media briefing was held to inform about the first conference of the International Wetland Park Association in Australia, New Zealand and Asia, and the conference is scheduled to be held from June 17 to 21 at the Diyasaru Park, Battaramulla.
-
-...
-
-[Data](articles/19e3155f.json)
-
-[Extended Data](ext_articles/19e3155f.ext.json)
-
----
-
-### One person arrested for allegedly beating goats in Eravur
-
-*2024-06-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185783) · `ta`
-
-A man was arrested in Eravur for allegedly transporting three goats in a wooden box to be slaughtered, after being stopped by police. The 55-year-old faces charges related to animal cruelty, and the goats were rescued.
-
-🟩
-
-Eravur police said that a man who was carrying 3 goats in a small wooden box in Eravur, Batticaloa was arrested on Monday (10).
-
-According to information available to the police, the police stopped the motorcycle in the Eravur area as they took 3 goats for meat in Chengaladi.
-
-During this time, a 55 -year -old from Eravur, who was taken to a small wooden box, was arrested on charges of animal death and 3 goats rescued a motorcycle.
-
-◼️
-
-[Data](articles/d2a105ec.json)
-
-[Extended Data](ext_articles/d2a105ec.ext.json)
-
----
-
-### Preschool teachers' allowance up 100 percent
-
-*2024-06-10 19:00:57* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරුවරියන්ගේ-දීමනාව-සියයට-100කින්-ඉහළට/11-410129) · `si`
-
-The government has doubled preschool teachers' allowances from Rs. 2,500 to Rs. 5,000 per month. This decision, made by the Cabinet, will benefit around 34,000 teachers as per instructions from President Ranil Wickremesinghe.
-
-🟩
-
-The government monthly Rs.. 2500 per month. The Cabinet has decided to increase to 5,000.
-
-Minister of Agriculture Mahinda Amaraweera stated that President Ranil Wickremesinghe has instructed to provide it to the pre-school teachers of about 34,000 school teachers.
-
-The Minister further stated that the Cabinet Meeting Meeting of last week was lengthy.
-
-◼️
-
-[Data](articles/f11bae3a.json)
-
-[Extended Data](ext_articles/f11bae3a.ext.json)
 
 ---

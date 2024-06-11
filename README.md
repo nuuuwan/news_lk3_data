@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 20:05:05**
+As of **2024-06-11 20:19:16**
 
 ## Newspaper Stats
 
-*Scraped **29,840** Articles*
+*Scraped **29,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
-adalk | 2,558
+adalk | 2,559
 adaderanalk | 3,375
-tamilmirrorlk | 3,494
+tamilmirrorlk | 3,495
 virakesarilk | 4,562
 dailymirrorlk | 4,731
-adaderanasinhalalk | 4,802
+adaderanasinhalalk | 4,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,840 (100.0%) of 29,840 articles have been extended.
+29,840 (100.0%) of 29,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### කාසියේ වාසිය පාකිස්තානයට
+
+*2024-06-11 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197653) · `si`
+
+පන්දුවාර විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩාව සහ පාකිස්තානය අතර තරගය අද (11) පැවැත් වෙයි.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට පාකිස්තානය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+
+පාකිස්තාන කණ්ඩායම මේ දක්වා තරග දෙකකට සහභාගී වී දෙකම පරාජයට පත්වී “ඒ“ කාණ්ඩයේ සිව්වන ස්ථානයේ රැඳීසිටින අතර කැනඩා කණ්ඩායම සහභාගී වූ තරග දෙකෙන් එකක් ජයගෙන එම කාණ්ඩයේ තෙවන තැන රැඳී සිටී.
+
+◼️
+
+[Data](articles/8075bb50.json)
+
+---
+
+### சிறுமியை துஷ்பிரயோகப்படுத்தியவருக்கு 10 வருடங்களுக்குப்பின் தண்டனை
+
+*2024-06-11 19:38:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-துஷ்பிரயோகப்படுத்தியவருக்கு-10-வருடங்களுக்குப்பின்-தண்டனை/175-338771) · `ta`
+
+சுமார் 10 வருடங்களுக்கு முன்னர், சிறுமி ஒருவரை பாலியல் பலாத்காரம் செய்த குற்றச்சாட்டுக்காக சாரதிக்கு கொழும்பு மேல் நீதிமன்றினால் 10 வருட கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+தனது வீட்டிற்கு அருகில் வாடகை வீடொன்றில் வசித்து வந்த சாதாரண தர பரீட்சைக்கு தயாராகிக்கொண்டிருந்த சிறுமி ஒருவரை பாலியல் பலாத்காரம் செய்ததாக தற்போது 35 வயதுதாகும் குறித்த நபர் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+
+இது தவிர, குற்றவாளிக்கு 10,000 ரூபாய் அபராதம் விதித்த நீதிபதி, பாதிக்கப்பட்ட சிறுமிக்கு 50,000 ரூபாய் இழப்பீடு வழங்கவும் உத்தரவிட்டார்.
+
+இழப்பீடு வழங்காவிட்டால் அபராதத் தொகையாக வசூலிக்கப்படும் என்றும், அதையும் செலுத்தாவிட்டால் மேலும் 2 ஆண்டுகள் கடூழிய சிறைத் தண்டனை அனுபவிக்க வேண்டும் என்றும் உத்தரவிட்டார். R
+
+◼️
+
+[Data](articles/06054b96.json)
+
+---
 
 ### Expert committee appointed to address public sector salary discrepancies
 
@@ -229,6 +263,26 @@ NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandras
 [Data](articles/df8ad4e5.json)
 
 [Extended Data](ext_articles/df8ad4e5.ext.json)
+
+---
+
+### පාසල් 1473 ක ගුරු සිසු අනුපාතය එකට පහයි
+
+*2024-06-11 17:57:33* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-1473-ක-ගුරු-සිසු-අනුපාතය-එකට-පහයි/11-410149) · `si`
+
+දිවයිනේ රජයේ පාසල් පද්ධතිය අතර මුලු ශිෂ්‍ය සංඛ්‍යාව 50 ට අඩු පාසල් 1473 ක් තිබෙන බව අනාවරණය වෙයි.
+
+මෙම පාසල් සියල්ලේම සිටින මුලු ශිෂ්‍ය සංඛ්‍යාව 43986 ක් වන අතර ගුරුවරු සංඛ්‍යාව 8753 කි. ඒ අනුව මෙම පාසල්වල සාමාන්‍ය ගුරු ශිෂ්‍ය අනුපාතය 1 ට 5 කි.
+
+එම පාසලක  සාමාන්‍ය ශිෂ්‍ය සංඛ්‍යාව 30 කට ආසන්නවේ.මේ අතර ශිෂ්‍ය සංඛ්‍යාව 4000 ට වැඩි පාසල්  34 ක් වන අතර ඒවා සමස්ත ශිෂ්‍ය සංඛ්‍යාව 162,930 කි.ගුරුවරු 6757 කි.  සාමාන්‍ය  ගුරු ශිෂ්‍ය අනුපාතය එකට 24  කි.
+
+දිවයිනේ සියලු රජයේ  පාසල් ගණන 10126 ක් වන අතර මුලු ශිෂ්‍ය සංඛ්‍යාව 3969597 කි.ගුරුවරු 236,738 කි.ඒ අනුව දිවයිනේම සාමාන්‍ය ගුරු සිසු අනුපාතය එකට  16.5 ක් වේ.
+
+අධ්‍යාපන අමාත්‍යාංශය මගින් 2022 වසරට අදාලව 2023 දී  සකස් කළ පාසල් සංගණන අවසන් වාර්තාවෙන් මෙම තොරතුරු අනාවරණය වෙයි.
+
+◼️
+
+[Data](articles/036bf136.json)
 
 ---
 
@@ -2267,77 +2321,5 @@ The two suspects were then closed down and then they both complained to the poli
 [Data](articles/6b60b75b.json)
 
 [Extended Data](ext_articles/6b60b75b.ext.json)
-
----
-
-### Approval for AG’s service extension postponed
-
-*2024-06-11 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99795/approval-for-ags-service-extension-postponed) · `en`
-
-The Constitutional Council has postponed the granting approval for the President’s recommendation to extend the tenure of Attorney General Sanjay Rajaratnam by six months.
-
-The decision was made during a council meeting held yesterday (10), where it was agreed to defer the discussion for further deliberation.
-
-Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
-
-However, the proposal requires the approval of the Constitutional Council, which has been delayed.
-
-Speaker Mahinda Yapa Abeywardana has announced that the Constitutional Council is scheduled to reconvene on the 18th of this month.
-
-It is anticipated that a final decision regarding the extension of Attorney General Rajaratnam’s service will be reached during this meeting.
-
-◼️
-
-[Data](articles/ad71ae56.json)
-
-[Extended Data](ext_articles/ad71ae56.ext.json)
-
----
-
-### Two deadline and car dies
-
-*2024-06-11 09:55:51* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රි-රෝද-රථයක්-හා-කාර්-රථයක්-ගැටි-දෙදෙනෙක්-මරුට/11-410133) · `si`
-
-In a tragic accident near Naula, two people were killed when a three-wheeler collided with another vehicle carrying two passengers. The incident occurred around 8 pm, resulting in significant damage. The victims included JM Phellaratne, aged 65, and Heena Gamawathi, aged 76, both residents of Thirawadagolla. Another passenger, Nandawathi, was hospitalized. The driver was taken into custody by the Naula Police for further investigation.
-
-🟩
-
-A three-wheeler and two abroad from Matale to Dambulla was killed and two abroad was killed and one in a car in Dambulla.
-
-The accident had occurred at around 8 pm (10) and the incident was completely destroyed following the incident.
-
-The driver of the car was handed over at Naula Police Naulea Police, which took place in front of Naula and Arangala.
-
-Due to the accident, JM Phmalararatne (65), a resident of the Thirath-wheeler, Thirakugolla, Thirawadagolla and Naula address.
-
-Heena Gamawathi (76), a resident of the Tri-wheeler No. 65, Hena Gamawathi (76) has died due to the accident.
-
-The Group Farm in the three-wheeler was admitted to the Dambulla Hospital Nandawathi (71), who was residing in the Nandala Hospital, Hena Gamayanagala (71). Naula Police are conducting advisors to investigate.
-
-◼️
-
-[Data](articles/e73cc5f2.json)
-
-[Extended Data](ext_articles/e73cc5f2.ext.json)
-
----
-
-### Internet trio talk with Sajith
-
-*2024-06-11 09:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைய-மூவர்-பேச்சு/175-338745) · `ta`
-
-MPs Dullas Alahapperuma, Dayasiri Jayasekara, and Roshan Ranasinghe, from the Sri Lanka PA, are in discussions with the United People's Power, despite previously opposing them.
-
-🟩
-
-Political groups led by MPs Dullas Alahapperuma, Dayasiri Jayasekara and Roshan Ranasinghe are in talks with the United People's Power, sources said.
-
-All three Members of Parliament were elected to Parliament through the Sri Lanka PA.. Since then, it is noteworthy that he is acting as an opponent.
-
-◼️
-
-[Data](articles/3d6c2d66.json)
-
-[Extended Data](ext_articles/3d6c2d66.ext.json)
 
 ---

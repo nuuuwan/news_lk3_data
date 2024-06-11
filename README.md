@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 11:05:04**
+As of **2024-06-11 11:19:03**
 
 ## Newspaper Stats
 
-*Scraped **29,737** Articles*
+*Scraped **29,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ bbccomsinhala | 288
 newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,697
-dailyftlk | 1,787
+dailyftlk | 1,788
 adalk | 2,539
 adaderanalk | 3,362
 tamilmirrorlk | 3,484
 virakesarilk | 4,554
 dailymirrorlk | 4,715
-adaderanasinhalalk | 4,785
+adaderanasinhalalk | 4,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,727 (100.0%) of 29,737 articles have been extended.
+29,727 (100.0%) of 29,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### මිතුරා සමග එක්ව බිරිඳව ඝාතනය කළ සැමියා
+
+*2024-06-11 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197633) · `si`
+
+තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබූ කාන්තාවගේ මළ සිරුරක් අද (11) අලුයම තලංගම, තලාහේන ප්‍රදේශයෙන් හමුවී තිබේ.
+
+පසුගිය 06 වනදා මරණකාරිය හා ඇයගේ ස්වාමි පුරුෂයා අතර ඇති වූ බහින්බස් වීමක් මත ස්වාමි පුරුෂයා සහ ඔහුගේ යහළුවා විසින් තියුණු ආයුධයකින් පහරදී එම කාන්තව ඝාතනය කර නිවස දොරගුළු දමා පිටව ගොස් ඇතැයි පොලීසිය පවසයි.
+
+පසුව සැකකරුවන් දෙදෙනාම පැමිණ පොලීසියට මේ පිළිබඳව පැමිණි කර තිබේ.
+
+මියගොස් ඇත්තේ, තලංගම ප්‍රදේශයේ පදිංචිව සිටි 31 හැවිරිදි කාන්තාවක් වන අතර, 31 හැවිරිදි හිඟුරක්ගොඩ ප්‍රදේශයේ පදිංචි මරණකාරියගේ ස්වාමි පුරුෂයා සහ වයස අවුරුදු 44ක් වන ගලේවෙල ප්‍රදේශයේ පදිංචි අනෙක් සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මළ සිරුර හමුවන අවස්ථාවේ දී එම නිවසේ සුනඛයෙක් ගැට ගසා සිට ඇති අතර, එම සතාට ද දින 5ක පමණ කාලයක් ආහාර හෝ නොලැබී ඇතැයි  පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/8b1f81ed.json)
+
+---
 
 ### Govt unable to address public sector wage disparities through 2024 Budget
 
@@ -47,6 +67,24 @@ He further stated that the Cabinet, led by President Ranil Wickremesinghe, has d
 ◼️
 
 [Data](articles/22a4f053.json)
+
+---
+
+### අමෙරිකානුවන් සිව් දෙනෙක්ට චීනයේදී පිහි ප්‍රහාරයක්
+
+*2024-06-11 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197632) · `si`
+
+දැනුම හුවමාරු වැඩසටහනක් යටතේ චීනයේ සංචාරය කරමින් සිටි අමෙරිකානු ජාතික අධ්‍යාපන උපදේශකයින් සිව් දෙනෙක් ට පිහි ප්‍රහාරයක් එල්ලකර තිබේ.
+
+චීනයේ ජිලින් පළාතේ මහජන උද්‍යානයකදී එම පිහි ඇනුම  සිදුකර ඇති බව වාර්තා වෙයි.
+
+එම සිව් දෙනා පන්සලක් වෙත පා ගමනින් යමින් සිටියදී තියුණු ආයුධයකින් සන්නද්ධව පැමිණි පුද්ගලයෙක් විසින් එම ප්‍රහාරය එල්ල කර තිබුණි.
+
+මෙම ප්‍රහාරය සම්බන්ධයෙන් චීන බලධාරීන් කිසිදු ප්‍රකාශයක් නිකුත්කර නොමැති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/cae37c42.json)
 
 ---
 
@@ -1998,6 +2036,20 @@ www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat 
 
 ---
 
+### Sri Lanka’s struggle with election phobia
+
+*2024-06-10 20:13:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-struggle-with-election-phobia/4-762881) · `en`
+
+The call to postpone elections is an indirect acceptance by President Wickremesinghe of his inability to obtain a popular mandate, no matter what his economy-fixing mantra is
+
+www.newindianexpress.com: On May 28, President Ranil Wickremesinghe let the cat out of the bag. As political tensions increase and the demand for elections spike, the general secretary of the United National Party (UNP)—a party that has recorded successive defeats and now stands decimated under Wickremesinghe’s leadership—has proposed the postponement of both presidential and parliamentary elections by two years through a referendum, effectively permitting Wickremesinghe to continue as president to “implement economic reforms”.
+
+...
+
+[Data](articles/d551234e.json)
+
+---
+
 ### South Africa - Bangladesh D Group Tournament Today
 
 *2024-06-10 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185787) · `ta`
@@ -2109,65 +2161,5 @@ It is noteworthy that about 34,000 people are currently working on the pre -scho
 [Data](articles/94e23ec4.json)
 
 [Extended Data](ext_articles/94e23ec4.ext.json)
-
----
-
-### SriLankan drops pepper & salt from economy class dish, makes on demand after survey
-
-*2024-06-10 19:37:00* · [`economynextcom`](https://economynext.com/srilankan-drops-pepper-salt-from-economic-class-dish-makes-on-demand-after-survey-167286/) · `en`
-
-ECONOMYNEXT – State-owned SriLankan Airlines has dropped pepper and salt packs from its food dishes served for economy class passengers since late last year and made it on demand, witnesses and officials say.
-
-However, the airline has been continuing the supply of the both products to the business class, they say.
-
-Known as the “king” of spices, the island nation’s black pepper has higher piperine content which gives it a superior quality and pungency, compared to the spice produced in other countries.
-
-Earlier, SriLankan Airlines served pepper and salt in small packs branded with the carrier’s logo. However, the airline has decided to drop the salt and pepper from its dishes given only to economy class passengers.
-
-“According to an internal survey, we found that the majority of the passengers travelling on economy class do not use the pepper and salt,” a SriLankan Airlines’ source told EconomyNext when asked for the reason to drop one of the top most export spice.
-
-...
-
-[Data](articles/783d1eb6.json)
-
-[Extended Data](ext_articles/783d1eb6.ext.json)
-
----
-
-### Bus
-
-*2024-06-10 19:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-வாகனங்களை-மோதித்தள்ளிய-பேருந்து/175-338716) · `ta`
-
-A bus carrying office staff collided with two cars and a motorcycle, causing an accident.
-
-🟩
-
-Two cars and a motorcycle are reported to have been hit by a bus.
-
-Further sources say that the bus carrying office staff has crashed.
-
-◼️
-
-[Data](articles/68124df3.json)
-
-[Extended Data](ext_articles/68124df3.ext.json)
-
----
-
-### The toss of the coin to South Africa
-
-*2024-06-10 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197613) · `si`
-
-Today's World Cup match features Bangladesh against South Africa. The toss will decide who bats first.
-
-🟩
-
-The match between the Bangladesh team and South African team will be held today (10) in the World Cup.
-
-◼️
-
-[Data](articles/847b6f5a.json)
-
-[Extended Data](ext_articles/847b6f5a.ext.json)
 
 ---

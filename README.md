@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 22:52:50**
+As of **2024-06-11 23:04:56**
 
 ## Newspaper Stats
 
-*Scraped **29,862** Articles*
+*Scraped **29,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,563
-adaderanalk | 3,376
+adaderanalk | 3,378
 tamilmirrorlk | 3,497
-virakesarilk | 4,567
+virakesarilk | 4,570
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,808
 
@@ -26,23 +26,59 @@ adaderanasinhalalk | 4,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,861 (100.0%) of 29,862 articles have been extended.
+29,862 (100.0%) of 29,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### ධීවර යාත්‍රාවක් පෙරළෙයි
+### Process Sri Lankan refugee’s plea for Indian citizenship, Madras HC directs India’s Home Ministry
+
+*2024-06-11 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99813/process-sri-lankan-refugees-plea-for-indian-citizenship-madras-hc-directs-indias-home-ministry) · `en`
+
+The Madras High Court has directed the Indian Home Ministry to process an application filed by a Sri Lankan refugee, who has been reportedly residing in India since 1990, for Indian citizenship and pass a speaking order, either accepting or rejecting his plea.
+
+Justice Anita Sumanth made it clear that a reasoned order must be passed on the citizenship application filed by Gajendiran, within 12 weeks, after seeking all necessary clarifications from the applicant and by following the applicable rules and regulations.
+
+The direction was issued while disposing of a writ petition filed by the refugee in 2023 seeking a direction to India’s Union Home Ministry to expedite his citizenship application pending since 2017. In his affdavit, the petitioner, now residing in Puducherry, had claimed to have entered India in 1990.
+
+...
+
+[Data](articles/64543657.json)
+
+---
+
+### Sri Lanka, Oman sign MoU in Agriculture
+
+*2024-06-11 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99812/sri-lanka-oman-sign-mou-in-agriculture) · `en`
+
+Oman, represented by the Ministry of Agriculture, Fisheries and Water Resources, and Sri Lanka, represented by the Ministry of Agriculture and Plantation Industries, signed a Memorandum of Understanding (MoU) in the field of Agriculture.
+
+It was signed by Ahmed Ali al Rashdi, Ambassador of Oman to Sri Lanka, and Mahinda Amaraweera, Sri Lankan Minister of Agriculture and Plantation Industries.
+
+◼️
+
+[Data](articles/fd0c0a0f.json)
+
+---
+
+### Following fishing vessel
 
 *2024-06-11 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197658) · `si`
 
-අද (11) රාත්‍රියේ රූමස්සල මුහුදේ දී ධීවර යාත්‍රාවක් පෙරළීමෙන් ධීවරයින් දෙදෙනෙකු අතුරුදහන් වී ඇතැයි වාර්තා වෙයි.
+Two fishermen went missing when their boat rolled over at Siyassala during the night. The Habaraduwa Police dispatched a team to investigate the incident.
 
-හබරාදුව පොලීසිය සඳහන් කළේ සිද්ධිය සම්බන්ධයෙන් සොයාබැලීමට පොලිස් කණ්ඩායමක් පිටත්ව ගිය බවය.
+🟩
+
+Two fishermen have reportedly missing due to the rolling of a fishing vessel at the Siyassala at night.
+
+Habaraduwa Police said that a police team left for the incident.
 
 ◼️
 
 [Data](articles/21048abf.json)
+
+[Extended Data](ext_articles/21048abf.ext.json)
 
 ---
 
@@ -63,6 +99,42 @@ After two defeats to South Africa and Bangladesh, Sri Lanka are in must-win terr
 [Data](articles/c09e937e.json)
 
 [Extended Data](ext_articles/c09e937e.ext.json)
+
+---
+
+### பொலிஸ் அதிகாரங்கள் முழுமையாக வழங்கப்பட வேண்டும் என சஜித் கூறவில்லை - மரிக்கார் விளக்கம்
+
+*2024-06-11 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185863) · `ta`
+
+அரசியலமைப்பின் 13ஆவது திருத்தத்தை நடைமுறைப்படுத்தும் போது சமூக மற்றும் சுற்றாடல் பொலிஸ் அதிகாரங்களை வழங்குவதில் எவ்வித சிக்கலும் இல்லை. எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் அதனையே குறிப்பிட்டிருந்தார். மாறாக பொலிஸ் அதிகாரங்கள் முழுமையாக வழங்கப்பட வேண்டும் என அவர் கூறவில்லை என பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+வடக்கிற்கு ஒரு சட்டமும், தெற்கிற்கு ஒரு சட்டமும் இருக்க முடியாது என்றும், முழு நாட்டுக்கும் ஒரே சட்டம் என்ற ரீதியில் தமிழ் மக்களுக்கான நியாயத்தை வழங்க வேண்டும் என்று தான் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச குறிப்பிட்டிருந்தார்.
+
+...
+
+[Data](articles/9074b8ed.json)
+
+---
+
+### போதைப்பொருளிற்கு அடிமையானவர் துப்பாக்கியை கொள்வனவு செய்த விவகாரம் - ஜோபைடனின் மகன் குற்றவாளி என நீதிமன்றம் தீர்ப்பு
+
+*2024-06-11 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185862) · `ta`
+
+அமெரிக்க ஜனாதிபதி ஜோபைடனின் மகன் ஹன்டர் பைடன் போதைப்பொருளுக்கு அடிமையானவர்கள் துப்பாக்கியை பயன்படுத்துவது தொடர்பான சட்டங்களை மீறினார் அமெரிக்க நீதிபதியொருவர் தீர்ப்பளித்துள்ளார்.
+
+அமெரிக்க ஜனாதிபதியாக பதவிவகிக்கும் ஒருவரின் குடும்ப உறுப்பினர் குற்றவாளி என நீதிமன்றம் தீர்ப்பளித்துள்ளமை இதுவே முதல்தடவை.
+
+துப்பாக்கியை கொள்வனவு செய்தவேளை தான் போதைப்பொருள் பாவனையாளர் இல்லை என   ஹன்டர் பொய்சொன்னமை தொடர்பில் இரண்டு குற்றச்சாட்டுகளும் போதைப்பொருளிற்கு அடிமையானவேளை துப்பாக்கிகளை வைத்திருந்த ஒரு குற்றச்சாட்டும் சுமத்தப்பட்டமை குறிப்பிடத்தக்கது.
+
+2018ம் ஆண்டு கைத்துப்பாக்கியை கொள்வனவு செய்தவேளை அரசாங்க ஆவணத்தில் தான்போதைப்பொருளை பயன்படுத்தவில்லை அதற்கு அடிமையாகவில்லை என ஹன்டர் பைடன் தெரிவித்திருந்தார் ஆனால் அவ்வேளை கொக்கெய்ன் பாவனையால் பாதிக்கப்பட்டிருந்தார் என்பது பிரதான குற்றச்சாட்டாக காணப்பட்டது.
+
+அமெரிக்க அரசாங்கத்தின் ஏடிஎவ் ஆவணத்தில் பொய்யான தகவல்களை வழங்குவதும் போதைப்பொருளை பயன்படுத்துபவர் துப்பாக்கி வைத்திருப்பதும் அமெரிக்காவில் கடும் குற்றம் இதற்கு 25 வருட சிறைத்தண்டனை விதிக்கப்படலாம்.
+
+◼️
+
+[Data](articles/017033ab.json)
 
 ---
 
@@ -155,6 +227,22 @@ The Wildlife Department urged people not to engage in such activities, highlight
 [Data](articles/54be2e33.json)
 
 [Extended Data](ext_articles/54be2e33.ext.json)
+
+---
+
+### 13ஐ அமுலாக்குவது குறித்து வட்டமேசை மாநாட்டை நடத்துங்கள் - கருஜயசூரிய
+
+*2024-06-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185861) · `ta`
+
+13ஆவது திருத்தச்சட்டத்தினை அமுலாக்குவது குறித்து அரசியல் தலைவர்களும், புலம்பெயர் தமிழர்களும் நேர்மறையான நிலைப்பாட்டை வெளிப்படுத்தியுள்ள நிலையில் தாமதமின்றி வட்டமேசை மாநாட்டைக் கூட்டி தாமதமின்றி தீர்வினை எட்டுமாறு மூக நீதிக்கான தேசிய இயக்கத்தின் தலைவரும், முன்னாள் சபாநாயகருமான கருஜயசூரிய கோரிக்கை விடுத்துள்ளார்.
+
+வடக்கு மற்றும் தெற்கின் பரஸ்பர நம்பிக்கையை ஏற்படுத்தவும், இனம் மற்றும் மதத்தை அடிப்படையாகக் கொண்ட மோதல்கள் மீண்டும் இடம்பெறாமல் இருப்பதற்கும், அனைத்து பிரஜைகளுக்கும் கண்ணியத்துடன் வாழக்கூடிய உரிமையை வழங்குவதும், இந்த பிரச்சனைகளை எதிர்கால தலைமுறைகளுக்கு விட்டு வைக்காமல் இருப்பதும் எமக்குள்ள பாரிய கடமையாகும்.
+
+ஆகையால் இவ்விடயம் தொடர்பில்  கவனம் செலுத்தி அதற்கான தலையீடுகளை எதிர்வரும் பாராளுமன்ற தேர்தலுக்கு முன் மேற்கொள்ள வேண்டும் என்பது எமது நம்பிக்கையாகும். மேலும் 09  ஆவது பாராளுமன்றத்தின் கால எல்லை தொடர்பிலும் கவனம் செலுத்துமாறு கௌரவ ஜனாதிபதி அவர்கள் உள்ளிட்ட ஆளும் கட்சிக்கும், ஒட்டுமொத்த எதிர்க்கட்சிக்கும் வேண்டுகோள் விடுக்கின்றது.
+
+...
+
+[Data](articles/db17f79c.json)
 
 ---
 
@@ -2215,111 +2303,5 @@ The former Government Agent of Ratnapura Namadu OIC, OIC of the Petition, is OIC
 [Data](articles/26f55949.json)
 
 [Extended Data](ext_articles/26f55949.ext.json)
-
----
-
-### Russia to stop recruiting Sri Lankans for Ukraine war: FM after meeting Lavrov
-
-*2024-06-11 12:20:00* · [`economynextcom`](https://economynext.com/russia-to-stop-recruiting-sri-lankans-for-ukraine-war-fm-after-meeting-lavrov-167387/) · `en`
-
-ECONOMYNEXT – No more Sri Lankan military personnel will be recruited by Russia for the war against Ukraine, the island nation’s Foreign Minister Ali Sabry said after meeting with his Russian counterpart Sergey Lavrov in the central Russian city of Nizhny Novgorod.
-
-Sabry had a bilateral meeting with Lavrov at the BRICS 2024 Foreign Ministerial Session with developing countries in Russia, on June 10.
-
-“We reviewed our bilateral relationship, agreed to enhance cooperation, and addressed issues concerning ex-Sri Lankan servicemen in the Russian military. No further recruitment of ex-servicemen for combat duties will occur,” Sabry said on his social media page on X (twitter).
-
-“Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them,” the Sri Lankan Embassy in Moscow said in a statement.
-
-...
-
-[Data](articles/650527d5.json)
-
-[Extended Data](ext_articles/650527d5.ext.json)
-
----
-
-### Tennakoon does not invite the seat conference on Pohon
-
-*2024-06-11 12:19:01* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ආසන-සමුළුවට-තෙන්නකෝන්ලට-ආරාධනා-නෑ/11-410138) · `si`
-
-Namal Bandara Tennakoon, son of former minister and national organizer of Namal Rajapaksa's party, was not invited to a conference organized by the State Minister of Sports and Youth Affairs, Rohana Dissanayake. This omission led to controversy, especially since it involved the exclusion of Janaka Bandara Tennakoon, the Matale district leader, perceived as disrespectful towards their father.
-
-🟩
-
-Namal Bandara Tennakoon, the National Organizer of the Carton of the Carton of the Sri Lanka Celebrity Former Minister, and his son Pipamanl Tennakoon, who serves the National Organizer of the Crowd former Minister Namal Rajapaksa, headed by the National Organizer of the Korea Former Minister Namal Rajapaksa.There is a controversial situation.
-
-The conference was organized by the State Minister of Sports and Youth Affairs Rohana Dissanayake.
-
-The State Minister Pcriance Minister Pcriminator Tennakoon stated that he is not invited to Janaka Bandara Tennakoon, the Matale district leader Janaka Bandara Tennakoon.
-
-The tree is considered that way, and the people of the district speak to them and the disrespect of their father's disrespect.
-
-◼️
-
-[Data](articles/0d5115bf.json)
-
-[Extended Data](ext_articles/0d5115bf.ext.json)
-
----
-
-### Russia's promise to Sri Lanka
-
-*2024-06-11 11:57:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-ரஷ்யா-வழங்கிய-வாக்குறுதி/175-338753) · `ta`
-
-After discussions, Russia's Foreign Minister assured Sri Lanka's Ali Sabri that Sri Lankans won't be drafted for Russian military service, addressing concerns raised during Sabri's visit.
-
-🟩
-
-It is reported that the Russian Foreign Minister has promised that Sri Lankans will no longer be recruited for military service in Russia.
-
-Sri Lanka's Foreign Minister Ali Sabri, who has visited Russia, has been assured after a discussion with the Foreign Minister of the country.
-
-◼️
-
-[Data](articles/023d665d.json)
-
-[Extended Data](ext_articles/023d665d.ext.json)
-
----
-
-### Sabry, Russian Foreign Minister discuss Sri Lankan recruitment to Russian forces
-
-*2024-06-11 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sabry-Russian-Foreign-Minister-discuss-Sri-Lankan-recruitment-to-Russian-forces/108-284597) · `en`
-
-Colombo, June 11 (Daily Mirror) - Foreign Minister Ali Sabry who is currently in Russia to participate in the BRICS 2024 Foreign Ministerial Session with developing countries had a bilateral meeting with Russian Foreign Minister Sergey Lavrov yesterday (10).
-
-During the meeting, the two Foreign Ministers agreed to further enhance bilateral ties, including in the spheres of tourism, higher education and economic cooperation.
-
-Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them.
-
-...
-
-[Data](articles/c5406581.json)
-
-[Extended Data](ext_articles/c5406581.ext.json)
-
----
-
-### Four American educators stabbed in park in northeast China
-
-*2024-06-11 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99800/four-american-educators-stabbed-in-park-in-northeast-china) · `en`
-
-Four American educators from a small Iowa university were injured in a stabbing attack in a public park in northeast China’s Jilin province on Monday, according to U.S. media and U.S. government officials.
-
-Iowa Representative Adam Zabner told Reuters his brother was one of the victims.
-
-“My brother, David Zabner, was wounded in the arm during a stabbing attack while visiting a temple in Jilin City, China,” he said.
-
-The group had been visiting a temple in Beishan Park when they were attacked by a man with a knife, he added. There were no reports of a motive.
-
-A video of people lying on the ground in a park covered in blood were circulating on X on Monday, though no trace of the images could be found on Chinese social media. Reuters was able to identify the location based on Chinese characters written on a wall, the wall’s structure and the layout of the path.
-
-No statements on the incident have been issued by Chinese authorities or reports found in Chinese media.
-
-...
-
-[Data](articles/4143ecd5.json)
-
-[Extended Data](ext_articles/4143ecd5.ext.json)
 
 ---

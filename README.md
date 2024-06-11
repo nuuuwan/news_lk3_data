@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 09:19:12**
+As of **2024-06-11 09:34:40**
 
 ## Newspaper Stats
 
-*Scraped **29,717** Articles*
+*Scraped **29,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,613
 economynextcom | 1,697
 dailyftlk | 1,787
 adalk | 2,537
-adaderanalk | 3,358
-tamilmirrorlk | 3,480
+adaderanalk | 3,359
+tamilmirrorlk | 3,481
 virakesarilk | 4,554
-dailymirrorlk | 4,712
-adaderanasinhalalk | 4,780
+dailymirrorlk | 4,713
+adaderanasinhalalk | 4,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,716 (100.0%) of 29,717 articles have been extended.
+29,717 (100.0%) of 29,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### ලොව සංචාරය කිරීමට හොදම රටවල් තුන අතරට ශ්‍රී ලංකාවත්
+
+*2024-06-11 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197627) · `si`
+
+සංචාරය කිරීම සඳහා ලොව හොදම රටවල් තුන අතරට ශ්‍රී ලංකාව ද පත්ව තිබේ.
+
+ෆෝබ්ස් සඟරාව විසින් ප්‍රකාශයට පත්කළ නවතම වාර්තාවකට අනුව 2024 ගිම්හාන සෘතුවේ දී සංචාරය කිරීම සඳහා ලොව හොඳම රටවල් තුන ලෙස ශ්‍රී ලංකාව, ග්‍රීසිය සහ මොරිසිය යන රටවල් නම් කර ඇති බව වාර්තා වේ.
+
+මේ වසරේ පළමු කාර්තුව තුළ ලොව මිලියන 285ක පමණ පිරිසක් ජාත්‍යන්තරව සංචාරය කර ඇති අතර එය පසුගිය වසරට සාපේක්ෂව සියයට 20ක වැඩවීමක් බව සඳහන්ය.
+
+ඉදිරි මාස කිහිපය තුළ අමෙරිකානුවන් විශාල පිරිසක් ජාත්‍යන්තරව සංචාරය කිරීමට නියමිත අතර 2022,2023 කාලය තුළ පමණක් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව විදෙස් ගමන් බලපත්‍ර මිලියන 24ක් නිකුත් කර ඇති බව ෆෝබ්ස් සඟරාව පෙන්වා දෙයි.
+
+මේ වසරේ ගිම්හාන සෘතුවේ දී සංචාරකයින් යුරෝපා රටවලින් ඈත්ව සිටිය යුතු බව ද ෆෝබ්ස් සඟරාව පෙන්වා දී තිබේ.
+
+සංචාරය කිරීම සඳහා වඩාත්ම සුදුසු ගමනාත්ත ලෙස ශ්‍රී ලංකාව, ග්‍රීසිය සහ මොරිසිය හඳුන්වා දිය හැකි බව එම වාර්තාවේ සඳහන් වේ.
+
+ශ්‍රී ලංකාව සශ්‍රීක උස්බිම්වලින් සහ විස්මිත වෙරළ තීරයන්ගෙන් යුත් දූපතක් වන අතර බාලි හා සමාන සංචාරක ආකර්ෂණයක් පවතින බව ෆෝබ් සඟරාව පෙන්වා දෙයි.
+
+...
+
+[Data](articles/23079db5.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-11 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99794/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces.
+
+Showers or thundershowers may occur at a few places in Uva province in the evening or night, it said.
+
+Strong winds of about (40-50) kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/347bae53.json)
+
+---
+
+### சில இடங்களில் ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது
+
+*2024-06-11 09:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-ஓரளவு-பலத்த-மழைவீழ்ச்சி-எதிர்பார்க்கப்படுகின்றது/175-338742) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/ae00a5b4.json)
+
+---
+
+### SA on brink of Super 8s with tense win over Bangladesh
+
+*2024-06-11 09:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SA-on-brink-of-Super-8s-with-tense-win-over-Bangladesh/108-284568) · `en`
+
+New York, June 11 (BBC) - Heinrich Klaasen hit a vital 46 as South Africa claimed a nervy four-run victory over Bangladesh that put them on the brink of securing a place in the T20 World Cup Super 8s.
+
+A combination of the pitch, poor shot selection and good bowling from Bangladesh saw South Africa teetering on 23-4 after they won the toss, as Tanzim Hasan Sakib snaffled 3-18.
+
+Klaasen hit three fours and two sixes in his 44-ball innings as he shared a 79-run partnership with the dependable David Miller to help South Africa recover to compile a defendable 113-6.
+
+Bangladesh made a decent fist of the run chase and at 94-4 with three overs remaining were probably slight favourites.
+
+However, when Kagiso Rabada took the key wicket of Towhid Hridoy for 37 the momentum swung back to the Proteas.
+
+...
+
+[Data](articles/034bfcb0.json)
+
+---
 
 ### Aircraft carrying Malawi vice-president goes missing
 
@@ -51,6 +135,8 @@ In a speech late on Monday, President Lazarus Chakwera said a search and rescue 
 ...
 
 [Data](articles/fbbeeccc.json)
+
+[Extended Data](ext_articles/fbbeeccc.ext.json)
 
 ---
 
@@ -2131,107 +2217,5 @@ It is reported that the bus was accidental confronting two cars and motorcycle.
 [Data](articles/802344ed.json)
 
 [Extended Data](ext_articles/802344ed.ext.json)
-
----
-
-### Unauthorized constructions affecting floods in Colombo
-
-*2024-06-10 17:50:07* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ගංවතුරට-බලපාන-අනවසර-ඉදිකිරීම්-සති-දෙකක්-තුළ-ඉවත්-කරයි/11-410123) · `si`
-
-The Urban Development and Housing Ministry plans to issue a circular to remove unauthorized constructions in Colombo, aiming to control floods by conserving wetlands and managing small waterways. This initiative follows discussions at a press conference focused on environmental conservation, highlighting the importance of preserving wetlands and controlling waterways to mitigate flood risks.
-
-🟩
-
-The Ministry of Urban Development and Housing Ministry Secretary WS Secretary to the Ministry of Urban Development and Housing Ministry. Mr. Analyananda says.
-
-He points out that the Ministers' approval has been paid to issue a circular to remove unauthorized structures.
-
-He added that the circular will be given to all state institutions within two weeks.
-
-Urban Development and Housing Ministry Secretary WS. Mr. Vithananda was speaking at a press conference held at the Government Information Department today (10).
-
-The discussion was organized to educate the Australian, New Zealand and Asia's first convention in the International Wet Ground Gardens.
-
-The Secretary of the Urban Development and Housing Ministry said that the conservation of wetlands in Colombo and suburbs can control the floods.
-
-The small waterways, sidespread waterways, including the capital area including Colombo and suburbs have been identified as the main reason for floods.
-
-...
-
-[Data](articles/f6f49223.json)
-
-[Extended Data](ext_articles/f6f49223.ext.json)
-
----
-
-### Railways Department yet to calculate losses from strike
-
-*2024-06-10 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-Department-yet-to-calculate-losses-from-strike/108-284527) · `en`
-
-Colombo, June 10 (Daily Mirror) - The Railways Department has said that the losses incurred as a result of the non-operation of trains during the trade union strike initiated by the Sri Lanka Railways Locomotive Operating Engineers’ Union have not yet been calculated.
-
-Speaking to the Daily Mirror, Sri Lanka Railways General Manager N.J. Indipolage said that the losses would be assessed by the end of this month.
-
-He suggested that approximately five per cent of the revenue might have been lost due to the disruption in railway services.
-
-Despite the train strike, several train services were operated while facilitating the transportation of many individuals.
-
-"Only a few people utilized public services. Long-distance operating train services, including goods trains, continued to operate," he stated. "Therefore, the railways department did not experience significant losses." Indipolage said.
-
-◼️
-
-[Data](articles/4cf52593.json)
-
-[Extended Data](ext_articles/4cf52593.ext.json)
-
----
-
-### Falls arrested for gem businessman's ear
-
-*2024-06-10 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197609) · `si`
-
-Three suspects, including a 12-year-old boy and his mother, were arrested by Ratnapura Police for stealing from a gem businessman. The crime was caught on CCTV, showing them breaking into the house.
-
-🟩
-
-Ratnapura Police have arrested three members suspected of stolen over Rs.
-
-The role of theft was recorded in a CCTV camera where the house was fixed at home.
-
-The mother of the same family had carried out the robbery and the 12-year-old boy.
-
-◼️
-
-[Data](articles/9c17eb68.json)
-
-[Extended Data](ext_articles/9c17eb68.ext.json)
-
----
-
-### The bride who tapped the talisman
-
-*2024-06-10 17:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாலியை-தட்டிவிட்ட-மணப்பெண்-தேம்பி-தேம்பி-அழுத-மாப்பிள்ளை/175-338713) · `ta`
-
-A bride from Tirupur abruptly halted her wedding ceremony, shocking everyone present. During a pre-wedding photo shoot, the couple seemed happy. However, the next day, as the groom attempted to tie the mangalsutra, he pushed the bride, causing her to drop the talisman and stop the marriage. Despite inquiries, the bride remained silent, leading to confusion and tears from the groom. The incident sparked discussions among the families and local authorities but ended without legal action, leaving many unanswered questions about the bride's sudden decision.
-
-🟩
-
-The bride in the photo shoot was a sight and happy. It was only after that, such an incident took place. In the incident, the groom is crying.
-
-The young woman belongs to Tirupur. His parents were making wedding arrangements for him. Eventually, 2 months ago, they were married to a groom.
-
-After the young girl and the young man were talking on the cell phone. On the other hand, the wedding arrangement was going on in both households.
-
-In this case, the wedding date was marked for them. Subsequently, a private hall in Tirupur was the day before the wedding, ie a photo shoot.
-
-The bride's family came to the hall for this. The bridegroom and the bride were very happy in the photo shoot. The photo shoot, both of them enthusiastically.
-
-After this, the next day was married, and in the morning, relatives started gathering in the wedding hall. The groom and the bride have come to the stage.
-
-...
-
-[Data](articles/aaa84472.json)
-
-[Extended Data](ext_articles/aaa84472.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 23:19:07**
+As of **2024-06-11 23:34:44**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,867 (100.0%) of 29,868 articles have been extended.
+29,868 (100.0%) of 29,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### படகு கவிழ்ந்ததில் இரண்டு மீனவர்களை காணவில்லை
+### Two fishermen were missing in the top of the boat
 
 *2024-06-11 23:08:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-இரண்டு-மீனவர்களை-காணவில்லை/175-338787) · `ta`
 
-ஹபராதுவ பொலிஸ் பிரிவிற்குட்பட்ட ருமஸ்ஸல கடலில் மீன்பிடி படகு ஒன்று கவிழ்ந்ததில் இரண்டு மீனவர்கள் காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Two fishermen went missing when their boat capsized in the Rumasala Sea under the Habaraduwa police division. A police investigation is underway.
 
-சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொள்வதற்காக பொலிஸ் குழுவொன்று சென்றுள்ளதாக ஹபராதுவ பொலிஸார் தெரிவித்தனர். R
+🟩
+
+Two fishermen have been reported missing after a fishing boat capsized in the Rumasala Sea, which belongs to the Habaraduwa police division.
+
+Habaraduwa police said that a police team had gone to investigate the incident. Remble
 
 ◼️
 
 [Data](articles/a2df2850.json)
+
+[Extended Data](ext_articles/a2df2850.ext.json)
 
 ---
 
@@ -838,7 +844,7 @@ The proposal for energy charges for the Domestic sector, Religious sector, Gener
 
 ECONOMYNEXT – Managers of Sri Lanka’s private plantations have called for justice after a cabinet minister stormed an estate demanding the re-instatement of suspended workers who had assaulted people involved in crop diversification.
 
-Plantations Infrastructure Minister Jeevan Thondaman entry to an estate and threats against Kelani Valley Plantations staff were broadcast over national TV and social media.
+Plantations Infrastructure Minister Jeevan Thondaman’s entry to an estate and threats against Kelani Valley Plantations staff were broadcast over national TV and social media.
 
 Minister Thondaman and a drunken gang had stormed Pedro Estate of Kelani Valley Plantations where the firm’s Chief Executive had gone after a meeting at the Nuwara Eliya Assistant Comissioner of Labour, the Planters’ Association said in a statement.
 

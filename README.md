@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 15:04:15**
+As of **2024-06-11 15:19:07**
 
 ## Newspaper Stats
 
-*Scraped **29,776** Articles*
+*Scraped **29,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,548
-adaderanalk | 3,366
+adalk | 2,550
+adaderanalk | 3,367
 tamilmirrorlk | 3,490
 virakesarilk | 4,557
-dailymirrorlk | 4,718
-adaderanasinhalalk | 4,794
+dailymirrorlk | 4,719
+adaderanasinhalalk | 4,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,775 (100.0%) of 29,776 articles have been extended.
+29,776 (100.0%) of 29,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Teachers to launch islandwide strike tomorrow
+
+*2024-06-11 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-to-launch-islandwide-strike-tomorrow/108-284603) · `en`
+
+Colombo, June 11 (Daily Mirror) - An islandwide trade union action is scheduled to be launched after school, targeting all Zonal Education Centres over several demands, including the provision of the promised remaining salary, the Ceylon Teachers' Union (CTU) General Secretary Joseph Stalin said.
+
+He told the Daily Mirror that all paper marking at all marking centres will stop at 1 p.m. tomorrow, as they join the trade union action demanding the provision of the remaining two-thirds of the salary increment promised to school principals and teachers.
+
+The CTU demands that the Education Ministry provide the allocated Rs. 46 billion funds as payment for teachers and principals, insisting that the funds be assigned this year.
+
+Additionally, the CTU has called for an increase in paper marking charges. Despite a committee being appointed last year to address this issue, the charges have not been increased, he said.
+
+...
+
+[Data](articles/d4c5bb06.json)
+
+---
+
+### බාලවයස්කාර දැරියක්ව දූෂණය කළ කුලී රථ රියදුරට දැඩි දඬුවම්
+
+*2024-06-11 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197644) · `si`
+
+මෙයට වසර 10කට පමණ පෙර බාලවයස්කාර දැරියක්ව දූෂණය කිරීමේ චෝදනාවට වැරදිකරු වූ කුලී රථ රියදුරෙක්ට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිතව වසර 10ක සිරදඬුවම් නියම කළේය.
+
+සිය නිවස අසල කුලී නිවසක විසූ එවකට අපොස සා පෙළ විභාගයට සූදානම් වෙමින් සිටි එම දැරියව දූෂණය කර ඇති බවට දැනට 35 හැවිරිදි වියේ පසුවන එම පුද්ගලයාට එරෙහිව චෝදනා එල්ල විය.
+
+කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා අදාළ නියෝගය නිකුත් කළේය.
+
+ඊට අමතරව චුදිතයාට එරෙහිව රුපියල් 10,000ක දඩයක් ද නියම කළ විනිසුරුවරයා අගතියට පත් තරුණියට රුපියල් 50,000ක වන්දියක් ගෙවන ලෙසද නියෝග කළේය.
+
+එම වන්දිය නොගෙවන්නේ නම් එය දඩයක් ලෙස අයකරගන්නා ලෙසත් එයද නොගෙවන්නේ නම් බරපතළ වැඩ සහිත තවත් වසර දෙකක සිර දඬුවම් ලබාදීමටත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/7ae1f777.json)
+
+---
 
 ### Fire at famous Bangkok market kills 1,000 animals
 
@@ -51,6 +89,28 @@ But the portion of the market selling pets is open through the week. This accoun
 ...
 
 [Data](articles/3610c6aa.json)
+
+[Extended Data](ext_articles/3610c6aa.ext.json)
+
+---
+
+### Minister outlines reforms to streamline university admissions
+
+*2024-06-11 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99802/minister-outlines-reforms-to-streamline-university-admissions) · `en`
+
+Minister of Education, Susil Premajayantha, announced that the G.C.E. Ordinary Level (O/L) and Advanced Level (A/L) examinations will be expedited to facilitate faster university enrollment for students.
+
+The goal is to enable students to complete their schooling by the age of 18 and seamlessly transition into higher education.
+
+Speaking at a ceremony recognizing the top achievers of the G.C.E. Advanced Level Examination, Minister Premajayantha highlighted the reforms aimed at minimizing delays in the educational timeline.
+
+He emphasized that A/L studies will now begin before the release of O/L results, allowing for continuous academic progress without the previous 4-5 month gap traditionally experienced between the two examination stages.
+
+Starting this year, the A/L examination, which has typically been held in November, will be rescheduled to September by 2025. This change aims to streamline the process and reduce the waiting period for university admissions.
+
+...
+
+[Data](articles/6057f26d.json)
 
 ---
 
@@ -124,6 +184,22 @@ We were reported from the Aranayaka area for a couple of my father, who is born 
 
 ---
 
+### කාන්තාර කොළපාට කරන චීනය
+
+*2024-06-11 13:32:42* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාර-කොළපාට-කරන-චීනය/11-410144) · `si`
+
+කාන්තාර ප්‍රදේශවල විදුලි උත්පාදනය හා පරිසර සංරක්ෂණය පිළිබඳ සමගාමී ව්‍යෘපෘතිවලින් චීනය පුළුල් ප්‍රගතියක් අත්කර ගනී.
+
+වයඹදිග චීනයේ තක්ලිමකන් කාන්තාරය හරහා දිවෙන කි.මී. 522 ක් දිග ‘තාරිම් තෙල් බිම් මහා මාර්ගය’ දෙපස ප්‍රකාශ වෝල්ටීයතා බලාගාර 86 ක් ඉදි කර ඇත. එහි සමස්ත ධාරිතාව කිලෝවොට් 3540 ක් වන අතර වාර්ෂික විදුලි උත්පාදනය කිලෝවොට් පැය 36 ලක්ෂ 20 දහසකි. මෙම මහා මාර්ගය අවට හෙක්ටයාර 3100 ක පමණ වපසරියකින් යුතු ජෛව සංරක්ෂණ වනාන්තරයක් ද පවතී. එම වනයට ජලය පොම්ප කිරීම සඳහා ඩීසල් වෙනුවට ප්‍රකාශ වෝල්ටීයතා බලාගාරවල උත්පාදනය කෙරෙන විදුලිය භාවිත කෙරේ.
+
+මේ වන විට ‘තාරිම් තෙල් බිම් මහා මාර්ග’ ව්‍යාපෘතිය යටතේ හරිත විදුලි උත්පාදනය කිලෝවොට් පැය මිලියන 5 ඉක්මවා ගොස් තිබීම ද කැපීපෙනේ. එම ව්‍යාපෘතිය මගින් වාර්ෂික ව ඩීසල් පරිභෝජනය ටොන් 1000 කින් සහ කාබන්ඩ‍යොක්සයිඩ් විමෝචනය ටොන් 3410 කින් අඩු කළ හැකිවනු ඇතැයි ඇස්තමේන්තු කර ඇත.
+
+◼️
+
+[Data](articles/7638844c.json)
+
+---
+
 ### Eleven schools in Anuradhapura close for Poson festival
 
 *2024-06-11 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eleven-schools-in-Anuradhapura-close-for-Poson-festival/108-284600) · `en`
@@ -165,6 +241,24 @@ As for home computer ownership, 20.2% of the country is available at least one c
 [Data](articles/ccb265a8.json)
 
 [Extended Data](ext_articles/ccb265a8.ext.json)
+
+---
+
+### බස්නාහිර හැර සෙසු පළාත්වලට අදාල වාහන ආදායම් බලපත්‍ර සබරගමුවෙන් ගන්න පුළුවන්
+
+*2024-06-11 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-හැර-සෙසු-පළාත්වලට-අදාල-වාහන-ආදායම්-බලපත්‍ර-සබරගමුවෙන්-ගන්න-පුළුවන්/11-410143) · `si`
+
+බස්නාහිර පළාතේ හැර දිවයිනේ සෙසු පළාත්වලට අදාළව වාහන ආදායම් බලපත්‍ර ලියාපදිංචි කිරීම සබරගමු පළාත් සභාව මගින් මෙම මස 03 වන දින සිට ක්‍රියාත්මක කල බව සබරගමු පළාත් ප්‍රධාන ලේකම් මහින්ද එස් වීරසූරිය මහතා අද (11) සදහන් කළේය.
+
+ඒ මහතා මේ බව සදහන් කළේ එදින (11) රත්නපුර පිහිටි සබරගමු පළාත් ප්‍රධාන ලේකම් කාර්යාලීය ශ්‍රවණාගාරයේදී පැවති සාකච්ඡාවකට එක් වෙමිණි.
+
+මේ අනුව, බස්නාහිර පළාතේ ලියාපදිංචි වූ වාහන හැර සෙසු පළාත්වල ලියාපදිංචි වූ වාහන සදහා වාර්ෂික වාහන ආදායම් බලපත්‍ර සබරගමු පළාත් සංකීර්නයෙන් ද රත්නපුර සහ කෑගල්ල දීස්ත්‍රික්ක දෙකේ 29 ක් වූ ප්‍රාදේශීය ලේකම් කාර්යාලවලින්ද ලබා ගත හැකිය.
+
+මෙය ක්‍රියාත්මක වීමත් සමගම බස්නාහිර පළාතේ ලියාපදිංචි වූ වාහන හැර සෙසු පළාත්වල ලියාපදිංචි වූ වාහන සදහා වාර්ෂික වාහන  ආදායම් බලපත්‍ර වාහන ලියාපදිංචි වූ පළාත් සභාවට අමතරව සෙසු පළාත් හතෙන් (7) ලබා ගත හැකිය. මීට ඔමිනි බස් රථවලට අදාළ වාහන ආදායම් බලපත්‍ර අදාළ නොවන බවද ප්‍රධාන ලේකම්වරයා පවසයි.
+
+◼️
+
+[Data](articles/0bc36ba7.json)
 
 ---
 
@@ -2243,101 +2337,5 @@ The International Atomic Energy Agency (IAEA) says that Sri Lanka is pursuing nu
 [Data](articles/0edda735.json)
 
 [Extended Data](ext_articles/0edda735.ext.json)
-
----
-
-### 2024-06-10 (Monday)
-
-### Colombo District Court recognises Sri Lankan divorce entered into in USA
-
-*2024-06-10 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-District-Court-recognises-Sri-Lankan-divorce-entered-into-in-USA/108-284534) · `en`
-
-Colombo, June 10 (Daily Mirror) - In a landmark judgment, the Colombo District Court held that a foreign decree of a marriage contracted in Sri Lanka can be recognized and enforced in Sri Lanka. Accordingly, the Colombo District Court issued a decree of dissolution of marriage in favor of a plaintiff living in California by upholding international legal standards relating to marriage laws.
-
-Colombo District Court Judge R.A.M. Rajapakse delivered this judgment in favour of the plaintiff, facilitating him in obtaining a single status certificate.
-
-This case centers around the marriage of two Sri Lankan nationals, which was legally recognized in Sri Lanka. After moving to the United States, they decided to dissolve their marriage and initiate divorce proceedings there. The plaintiff encountered an impediment when he needed proof of being single from Sri Lanka to remarry in Fiji.
-
-...
-
-[Data](articles/cf80dd06.json)
-
-[Extended Data](ext_articles/cf80dd06.ext.json)
-
----
-
-### IDB to roll out national vehicle parade with all domestically value-added vehicles
-
-*2024-06-10 23:49:59* · [`dailyftlk`](https://www.ft.lk/business/IDB-to-roll-out-national-vehicle-parade-with-all-domestically-value-added-vehicles/34-762903) · `en`
-
-A vehicle parade of locally manufactured and assembled vehicles organised by the Industrial Development Board (IDB) along with the Ministry of Industries (MOI), Sri Lanka Automobile Component Manufacturers Association (SLACMA) and Automobile Assemblers Association will be held on 18 June.
-
-The third parade of its kind will tour through Galle Face, Lotus Roundabout, Fort, Technical Junction, Punchikawatta, Maradana, Borella, Borella cemetery junction and to BMICH from 4 p.m. onwards.
-
-The IDB under the Ministry of Industries is a key stakeholder in the Standard Operating Procedure which facilitates automobile assembly and component manufacturing in the country. The roadshow will see a fleet of over 200 locally assembled vehicles parade the streets.
-
-...
-
-[Data](articles/256c5392.json)
-
-[Extended Data](ext_articles/256c5392.ext.json)
-
----
-
-### Unilever Sri Lanka inaugurates 2.33 MW solar power project at Horana factory
-
-*2024-06-10 23:46:22* · [`dailyftlk`](https://www.ft.lk/business/Unilever-Sri-Lanka-inaugurates-2-33-MW-solar-power-project-at-Horana-factory/34-762902) · `en`
-
-Multinational giant to increase total solar generation in its Sri Lanka network to 4MWs in 2024
-
-Unilever Sri Lanka recently inaugurated a new 2.33 MW solar power project at its Horana factory, partnering with Abans Electricals PLC for project execution.
-
-This significant step forward in Unilever’s commitment to sustainability and renewable energy represents a total investment of 1.3 million Euros. The project aligns with Unilever’s Global Climate Transition Action Plan (CTAP) and contributes to the ambitious goals set by the Sri Lanka Power and Energy Ministry for transitioning the country’s electricity supply to renewable sources by 2030.
-
-...
-
-[Data](articles/06230b62.json)
-
-[Extended Data](ext_articles/06230b62.ext.json)
-
----
-
-### MCCI completes renovation of Sinopec filling station
-
-*2024-06-10 23:44:41* · [`dailyftlk`](https://www.ft.lk/business/MCCI-completes-renovation-of-Sinopec-filling-station/34-762901) · `en`
-
-The renovation of a Sinopec filling station in Sri Lanka, solely funded by Sinopec Overseas, completed by MCC International Incorporation Ltd. (MCCI) on 4 June.
-
-It is MCCI’s first construction project in the petrochemical industry Sri Lanka, involving high risks, a tight schedule, and many challenges.
-
-MCCI made arrangements with various departments working together seamlessly, organising a strong team to quickly commence construction. The project officially started on 11 May.
-
-With the strong support and assistance of Sinopec’s specialists, MCCI team has overcome adverse effects such as shipping delays and construction during the rainy season, completing the safety hazard modifications in seven days and the entire renovation was completed in six days, achieving the goal of “MCC Speed, Sinopec Quality”.
-
-The MCCI team also received high recognition and praise from Sinopec officials.
-
-...
-
-[Data](articles/ca7da1e1.json)
-
-[Extended Data](ext_articles/ca7da1e1.ext.json)
-
----
-
-### NYSC launches Youth Accelerator Platform for climate mobility in collaboration with IOM Sri Lanka
-
-*2024-06-10 23:42:23* · [`dailyftlk`](https://www.ft.lk/business/NYSC-launches-Youth-Accelerator-Platform-for-climate-mobility-in-collaboration-with-IOM-Sri-Lanka/34-762900) · `en`
-
-NYSC Chairman Pasindu Guneratne with IOM Sri Lanka Chief of Mission Sarat Dash at the MoU signing ceremony
-
-In a landmark collaboration, the National Youth Services Council (NYSC) and the International Organisation for Migration (IOM) in Sri Lanka have joined forces to introduce the Youth Accelerator Platform for Climate Mobility (YAP4C) – an initiative aiming to empower young individuals to play an active role in addressing climate change challenges, filling a crucial gap in current efforts within the context of climate change-related human mobilities.
-
-The primary objective of YAP4C is to mobilise a movement of young advocates pressing for urgent and effective measures to combat climate change. Through a Memorandum of Understanding, IOM Sri Lanka and NYSC will collaborate on various initiatives aimed at strengthening youth engagement in climate action and climate mobility actions in the country.
-
-...
-
-[Data](articles/e135df6d.json)
-
-[Extended Data](ext_articles/e135df6d.ext.json)
 
 ---

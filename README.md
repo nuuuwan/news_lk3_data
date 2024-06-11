@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 15:53:29**
+As of **2024-06-11 16:06:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,781 (100.0%) of 29,782 articles have been extended.
+29,782 (100.0%) of 29,782 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha Distric
 ◼️
 
 [Data](articles/546c9018.json)
+
+[Extended Data](ext_articles/546c9018.ext.json)
 
 ---
 

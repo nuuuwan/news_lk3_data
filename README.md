@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 18:13:33**
+As of **2024-06-11 18:25:10**
 
 ## Newspaper Stats
 
-*Scraped **29,814** Articles*
+*Scraped **29,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,556
+adalk | 2,557
 adaderanalk | 3,373
 tamilmirrorlk | 3,494
 virakesarilk | 4,562
-dailymirrorlk | 4,724
-adaderanasinhalalk | 4,801
+dailymirrorlk | 4,729
+adaderanasinhalalk | 4,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,814 (100.0%) of 29,814 articles have been extended.
+29,814 (100.0%) of 29,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### මලාවි උප ජනාධිපති ගුවන් අනතුරකින් මරුට
+
+*2024-06-11 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197652) · `si`
+
+මලාවි රාජ්‍යයේ උප ජනාධිපති සවුලෝස් චිලීමා ගුවන් අනතුරකින් මියගොස් තිබේ.
+
+උප ජනාධිපතිවරයා ඇතුළු පුද්ගලයින් 10 දෙනෙකු අතුරුදන් වූ ගුවන්යානය කඩාවැටි තිබුණේ එරට චිකන්ගාවා නම් වනාන්තරයට ය.
+
+අයහපත් කාලගුණය මැද පියාසර කළ ගුවන්යානය රේඩාර් පථයෙන් අතුරුදන් වූයේ ඊයේ උදෑසනය.
+
+යානයේ සුන්බුන් හමුවූයේ පැය 24කට වැඩි කාලයක් පුරා ක්‍රියාත්මක කෙරුණු එම මෙහෙයුමේ ප්‍රතිඵලයක් ලෙසය.
+
+◼️
+
+[Data](articles/1d2200fb.json)
+
+---
+
+### Ananda Walk 2024...
+
+*2024-06-11 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ananda-Walk-2024/110-284617) · `en`
+
+Renowned past pupils of the Ananda College Colombo including Senior Professors J.B. Dissanayake and Sampath Amaratunga, Secretary Defence Gen. Kamal Gunaratne, Dr. Anil Jasinghe, Election Commissioner General Saman Sri Rathnayake and cricketer Dinesh Chandimal got together at the college premises today to launch the Ananda Walk 2024 under the theme ‘Educate and Empower to Save Mother Lanka’, which is scheduled to take place on Sunday, July 7. Pix by Lahiru Harshana
+
+◼️
+
+[Data](articles/663c4158.json)
+
+---
+
+### Anura Kumara meets TNA representatives in Jaffna
+
+*2024-06-11 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-meets-TNA-representatives-in-Jaffna/108-284616) · `en`
+
+Jaffna, June 11 (Daily Mirror)- Nationals People's Power (NPP) leader Anura Kumara Dissanayake today met people's representatives of the North including TNA MP M.A Sumanthiran and Mavai Senadirajah at the Ilankai Thamil Arasu Katchi (ITAK) office in Jaffna.
+
+He also met former TNA MP Dharmalingam Siddarthan during his visit to Jaffna.
+
+They discussed at length the current political atmosphere in the country, issues faced by the people and the need to create national harmony.
+
+NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandrasekara attended the meeting.
+
+◼️
+
+[Data](articles/df8ad4e5.json)
+
+---
+
+### CEB submits proposals on electricity tariff revision to PUCSL
+
+*2024-06-11 17:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-submits-proposals-on-electricity-tariff-revision-to-PUCSL/108-284615) · `en`
+
+Colombo, June 11 (Daily Mirror)- The Ceylon Electiricity Board (CEB) last Friday submitted its proposal to the Pupblic Utility Commission of Sri Lanka (PUCSL) for the tariff revision from July 2024, Power and Energy Minister Kanchana Wijesekara said.
+
+He said on X that the PUCSL will determine the final tariffs after evaluation of the proposal and a public consultation.
+
+The proposal for energy charges for the Domestic sector, Religious sector, General Purpose and Government Buildings sectors are as follows:
+
+◼️
+
+[Data](articles/00c898ce.json)
+
+---
+
+### SLC announces Women’s squad for West Indies series
+
+*2024-06-11 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-announces-Womens-squad-for-West-Indies-series/108-284614) · `en`
+
+(SLC) - The Sri Lanka Cricket Selection Committee announced the 16-member Sri Lanka squad to play the ODI series against the West Indies.
+
+The ODI series will be played in MRICS, Hambantota, on the 15th, 18th, and 21st of June.
+
+◼️
+
+[Data](articles/74f45b38.json)
+
+---
 
 ### Prohibition of wearing hijab;Resigned teacher
 
@@ -75,6 +153,26 @@ The petition was called before the Court of Appeal this petition today (11) befo
 [Data](articles/feb406d6.json)
 
 [Extended Data](ext_articles/feb406d6.ext.json)
+
+---
+
+### Severe weather warning for rough seas, strong winds
+
+*2024-06-11 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Severe-weather-warning-for-rough-seas-strong-winds/108-284610) · `en`
+
+June 11 (Daily Mirror) - Coastal regions in Sri Lanka are bracing for severe weather conditions as the Meteorology Department has issued a warning for very rough seas and strong gusty winds in several sea areas.
+
+Accordingly, the sea areas extending from Trincomalee to Kalpitiya, via Kankasanthurai and Mannar, are expected to be particularly affected.
+
+These regions will experience very rough conditions with wind speeds reaching between 60-70 km/h. Further, the sea areas stretching from Hambantota to Pottuvil are also forecasted to face very rough seas with similarly strong gusty winds.
+
+As such, the Meteorology Department has urged naval and fishing communities to exercise extreme caution and remain vigilant.
+
+In addition to the marine warning, significant rainfall is expected at times in the Western, Sabaragamuwa, and North-Western provinces, as well as in the Kandy, Nuwara Eliya, Galle, and Matara districts.
+
+...
+
+[Data](articles/0a81d2d6.json)
 
 ---
 
@@ -1069,6 +1167,22 @@ Police further stated that when the body was discovered, they had also found a d
 [Data](articles/4d223dcf.json)
 
 [Extended Data](ext_articles/4d223dcf.ext.json)
+
+---
+
+### පිළිකා රෝගින් බේරා ගන්න ඇමෙරිකානු ආයතනයක් එයි
+
+*2024-06-11 12:57:56* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-රෝගින්-බේරා-ගන්න-ඇමෙරිකානු-ආයතනයක්-එයි/11-410140) · `si`
+
+මෙරට රජයේ රෝහල් වලින් ප්‍රතිකාර ලබන පිළිකා රෝගීන් හට ප්‍රතිකාර කිරීම සදහා භාවිතා කරණු ලබන අත්‍යවශ්‍ය පිළිකා  ඖෂධ තොගයක් සෞඛ්‍ය අමාත්‍යාංශය වෙත භාරදීම අද දින (11) පෙරවරුවේ එම අමාත්‍යාංශයේදී සිදු විය.
+
+සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා වෙත ඇමරිකා එක්සත් ජනපදයේ LDS Latter – day saints charities ආයතනයේ ආසියානු  කලාපයේ සුබසාධන අධ්‍යක්ෂ - Mr. Mickey Lui මහතා විසින් එම ඖෂධ තොගය නිළ වශයෙන් භාරදෙන ලද අතර  එහි වටිනාකම ඇමරිකානු ඩොලර් 225,000/= කට අධිකය.
+
+මෙම වර්ෂයේ (2024) පෙබරවාරි මසදී සෞඛ්‍ය අමාත්‍යංශය සහ LDS Latter – day saints charities (USA) ආයතනය අතර ඇතිකර ගත් අවබෝධතා  ගිවිසුමට අනූව මෙරටට ලැබුනු  පළමු ඖෂධ තොගය මෙයවේ. එම අවබෝධතා ගිවිසුමට අනුව අත්‍යවශ්‍ය පිළිකා ඖෂධ වර්ග 13 ක් මෙරටට ලැබෙන අතර  එහි වටිනාකම ඇමරිකානු ඩොලර් මිලියනයකට අධිකය. මෙරට  වර්ෂයක පිළිකා ප්‍රතිකාර සදහා එය  ප්‍රමාණවත් වනු ඇත.
+
+...
+
+[Data](articles/e07abd53.json)
 
 ---
 
@@ -2255,163 +2369,5 @@ The Railway Department says that the train operations will be done today (11).
 [Data](articles/1fec8691.json)
 
 [Extended Data](ext_articles/1fec8691.ext.json)
-
----
-
-### United Nations Approval for 'International Civilization Dialogue' proposed China
-
-*2024-06-11 07:53:35* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-යෝජනා-කළ-‘ජාත්‍යන්තර-ශිෂ්ටාචාර-සංවාද-දිනය’ට-එක්සත්-ජාතීන්ගේ-අනුමැතිය/11-410130) · `si`
-
-The UN approved a US-proposed "International Civilization Dialogue" day, named after a suggestion by Chinese President Xi Jinping. This day, set for June 10, aims to foster dialogue among world civilizations, emphasizing the importance of preserving cultural diversity and promoting human well-being.
-
-🟩
-
-The proposal made by the US proposal to name the International Day for the dialogue between world civilizations is approved by the United Nations. The proposal was unanimously passed at the 78th General Assembly Session held on the 7th.. Accordingly, the International Civilizations Discussion Day was declared on June 10.
-
-The proposal has pointed out that the inheritance of all civilizations in the world is victorious.
-
-It also emphasizes that the conversation between civilizations will play a decisive role in maintaining the civilization diversity and maintaining the well-being and the well-being of humanity.. The global civilization of the global civilization initiatives presented by Chinese President She Jin Pin.
-
-◼️
-
-[Data](articles/9fe3b4a2.json)
-
-[Extended Data](ext_articles/9fe3b4a2.ext.json)
-
----
-
-### Dullas, Dayasiri, Roshan in talks with SJB for alliance
-
-*2024-06-11 07:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dullas-Dayasiri-Roshan-in-talks-with-SJB-for-alliance/108-284565) · `en`
-
-Colombo, June 11 (Daily Mirror) -The political groups led by MPs Dullas Alahapperuma, Dayasiri Jayasekara and Roshan Ranasinghe are in negotiations with the Samagi Jana Balawegaya (SJB) to work out an electoral alliance, an informed source said.
-
-According to the source, the modalities of the new electoral formation have not yet been worked out. Ahead of the elections pending, new political formations are realistic.
-
-All these three MPs were elected to Parliament on the ticket of Sri Lanka Podujana Peramuna (SLPP). Later, they defected from it and joined hands with the opposition.
-
-◼️
-
-[Data](articles/0312a6d8.json)
-
-[Extended Data](ext_articles/0312a6d8.ext.json)
-
----
-
-### The flight of the deputy presenter of Malawi disappeared
-
-*2024-06-11 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197622) · `si`
-
-A plane carrying Malawi's Vice President disappeared from radar shortly after taking off from Lylonway airport. The President, Lazarus Chakwera, has ordered continuous search and rescue operations, expressing deep concern over the incident.
-
-🟩
-
-The Presidential Secretariat says a plane that a plane has been disappeared in the Malawi State Vice President of Malawi.
-
-The Airline Defense Force flight was left by the Radar system after leaving Lylonway yesterday morning.
-
-Malawi President Lazarus Chakweera said that a search and rescue operation continues.
-
-The President has said that the President has also raised orders to continue the operation until the plane should continue until the plane is found.
-
-And the President also said that the heart is a shock.
-
-◼️
-
-[Data](articles/a6b5ea7d.json)
-
-[Extended Data](ext_articles/a6b5ea7d.ext.json)
-
----
-
-### Attorney General's service extension is postponed
-
-*2024-06-11 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197621) · `si`
-
-The Attorney General's service extension, recommended by the President, awaits Constitutional Council approval, initially set for today but now postponed until the 18th.
-
-🟩
-
-The Constitutional Council is postponed to approve the President's recommendation to the Attorney General Sanjaya Rajaratnam.
-
-The proposal has also been presented to the Constitutional Council, which met yesterday (10), reports say.
-
-Attorney General Sanjaya Rajaratnam is due to end the end of this month and the President has decided to give him another six months extension.
-
-The proposal should be approved by the Constitutional Council and postponed approval before.
-
-However, the Constitutional Council will come back to the meeting on the 18th.
-
-◼️
-
-[Data](articles/c72cbea5.json)
-
-[Extended Data](ext_articles/c72cbea5.ext.json)
-
----
-
-### Biting the hands that feed you
-
-*2024-06-11 06:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biting-the-hands-that-feed-you/108-284564) · `en`
-
-Ratnapura, June 11 (Daily Mirror) -A family that sought refuge at the residence of a leading gem businessman in Ratnapura after being affected by the floods have allegedly stolen gemstones valued Rs.25 million, according to the police.
-
-The flood-hit family- father, mother and son- was hosted by the businessman with meals for two days. The family was arrested by the Ratnapura Police Special Investigation Division.
-
-After the floodwaters subsided, the family had left with the promise to return to assist in cleaning the businessmen’s house.
-
-They had arrived after a few days. In the process of cleaning the house, they had removed gemstones.
-
-However, their act of theft had been caught on CCTV camera. They had admitted to the theft. They are now to be produced before the Ratnapura Magistrate.
-
-◼️
-
-[Data](articles/f12aaf70.json)
-
-[Extended Data](ext_articles/f12aaf70.ext.json)
-
----
-
-### Fears of election postponement still loom
-
-*2024-06-11 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fears-of-election-postponement-still-loom/155-284563) · `en`
-
-*UNP General Secretary suggested postponing polls by two years with a referendum
-
-*Speculation exists that Bandara's remarks were intended to gauge public and political reaction
-
-*Concerns raised whether President might seek AG's opinion on extending the presidential term with a two-thirds parliamentary majority
-
-Colombo, June 11 (Daily Mirror) - Despite assertions that the presidential election would be conducted as scheduled, political circles are abuzz with speculations that the government will try to exploit the provisions in the Constitution to extend the term of the presidential term and the parliamentary period.
-
-Previously, United National Party (UNP) General Secretary Palitha Range Bandara said that the presidential and parliamentary elections should be postponed by two years with approval of the people by referendum.
-
-...
-
-[Data](articles/638f61e4.json)
-
-[Extended Data](ext_articles/638f61e4.ext.json)
-
----
-
-### Fears of election postponement still loom
-
-*2024-06-11 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fears-of-election-postponement-still-loom/108-284563) · `en`
-
-*UNP General Secretary suggested postponing polls by two years with a referendum
-
-*Speculation exists that Bandara's remarks were intended to gauge public and political reaction
-
-*Concerns raised whether President might seek AG's opinion on extending the presidential term with a two-thirds parliamentary majority
-
-Colombo, June 11 (Daily Mirror) - Despite assertions that the presidential election would be conducted as scheduled, political circles are abuzz with speculations that the government will try to exploit the provisions in the Constitution to extend the term of the presidential term and the parliamentary period.
-
-Previously, United National Party (UNP) General Secretary Palitha Range Bandara said that the presidential and parliamentary elections should be postponed by two years with approval of the people by referendum.
-
-...
-
-[Data](articles/a619a055.json)
-
-[Extended Data](ext_articles/a619a055.ext.json)
 
 ---

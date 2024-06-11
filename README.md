@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 03:19:04**
+As of **2024-06-12 03:34:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,894 (100.0%) of 29,896 articles have been extended.
+29,896 (100.0%) of 29,896 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -300,6 +300,8 @@ He pointed out the importance of international cooperation to enhance bargaining
 
 [Data](articles/1dc64339.json)
 
+[Extended Data](ext_articles/1dc64339.ext.json)
+
 ---
 
 ### Discussion today on electoral integrity and role of political parties
@@ -313,6 +315,8 @@ This is the fourth and final discussion in CIR’s dialogue series focused on el
 ◼️
 
 [Data](articles/b55329b4.json)
+
+[Extended Data](ext_articles/b55329b4.ext.json)
 
 ---
 

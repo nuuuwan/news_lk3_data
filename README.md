@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 19:19:13**
+As of **2024-06-11 19:34:46**
 
 ## Newspaper Stats
 
-*Scraped **29,837** Articles*
+*Scraped **29,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,613
 economynextcom | 1,714
 dailyftlk | 1,788
 adalk | 2,558
-adaderanalk | 3,373
+adaderanalk | 3,374
 tamilmirrorlk | 3,494
 virakesarilk | 4,562
-dailymirrorlk | 4,730
+dailymirrorlk | 4,731
 adaderanasinhalalk | 4,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,823 (100.0%) of 29,837 articles have been extended.
+29,834 (100.0%) of 29,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
+
+### Expert committee appointed to address public sector salary discrepancies
+
+*2024-06-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99810/expert-committee-appointed-to-address-public-sector-salary-discrepancies) · `en`
+
+President Ranil Wickremesinghe has formed an expert committee to address salary discrepancies in the public service.
+
+Chaired by former Secretary to the President and senior administrative officer Mr. Udaya Seneviratne, the committee comprises four Directors General and four additional members, the PMD reported.
+
+◼️
+
+[Data](articles/23fa0913.json)
+
+---
+
+### President forms committee to tackle public service salary anomalies
+
+*2024-06-11 19:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-forms-committee-to-tackle-public-service-salary-anomalies/108-284619) · `en`
+
+Colombo, June 11 (Daily Mirror)- In a move to address longstanding salary anomalies within the public service, President Ranil Wickremesinghe has announced the formation of a specialized expert committee.
+
+The committee will be chaired by Udaya Seneviratne, a seasoned senior administrative officer and former Secretary to the President.
+
+The committee is tasked with evaluating and proposing solutions to the salary disparities that have plagued various sectors of the public service for years.
+
+◼️
+
+[Data](articles/2309949a.json)
+
+---
 
 ### Sri Lanka to promote sea cucumber hatcheries due to demand: Minister
 
@@ -54,6 +84,8 @@ Devananda proposed the establishment of hatcheries as an alternative to catching
 
 [Data](articles/2a7e1322.json)
 
+[Extended Data](ext_articles/2a7e1322.ext.json)
+
 ---
 
 ### Ferry service between Bangladesh and Sri Lanka in the offing
@@ -69,6 +101,8 @@ Sheikh Hasina has also aledged support for Sri Lanka's agricultural modernizatio
 ...
 
 [Data](articles/311ed1d0.json)
+
+[Extended Data](ext_articles/311ed1d0.ext.json)
 
 ---
 
@@ -87,6 +121,8 @@ Minister Devananda said an initial meeting was held on Tuesday (11) with all the
 ...
 
 [Data](articles/a02fd6fe.json)
+
+[Extended Data](ext_articles/a02fd6fe.ext.json)
 
 ---
 
@@ -210,6 +246,8 @@ Previously, a gang had surrounded the Labour Office where a meeting was taking p
 
 [Data](articles/d83424cb.json)
 
+[Extended Data](ext_articles/d83424cb.ext.json)
+
 ---
 
 ### SLC announces Women’s squad for West Indies series
@@ -292,6 +330,8 @@ Wickremesinghe who was in India to attend Modi’s swearing in ceremony met with
 
 [Data](articles/e1f54d2f.json)
 
+[Extended Data](ext_articles/e1f54d2f.ext.json)
+
 ---
 
 ### Severe weather warning for rough seas, strong winds
@@ -331,6 +371,8 @@ Sri Lanka’s North is just 27 km from the South Indian state of Tamil Nadu.
 ...
 
 [Data](articles/3d59306a.json)
+
+[Extended Data](ext_articles/3d59306a.ext.json)
 
 ---
 
@@ -373,6 +415,8 @@ A bond maturing on 01.10.2032 closed at 11.95/12.10 percent up from 11.90/12.00 
 ◼️
 
 [Data](articles/8a496ef9.json)
+
+[Extended Data](ext_articles/8a496ef9.ext.json)
 
 ---
 
@@ -465,6 +509,8 @@ The joint venture is expected to attract a total investment of approximately 2.2
 ...
 
 [Data](articles/ed0fa812.json)
+
+[Extended Data](ext_articles/ed0fa812.ext.json)
 
 ---
 
@@ -740,6 +786,8 @@ The Government has said its policy is to revise electricity tariffs quarterly ev
 
 [Data](articles/91d300bf.json)
 
+[Extended Data](ext_articles/91d300bf.ext.json)
+
 ---
 
 ### Former Weligama PS Chairman remanded for disrupting police duties
@@ -813,6 +861,8 @@ Any bill to extend the five-year term of the president or parliament requires ap
 ...
 
 [Data](articles/70eb64d6.json)
+
+[Extended Data](ext_articles/70eb64d6.ext.json)
 
 ---
 
@@ -889,6 +939,8 @@ This circular method is in demand among large brands and manufacturers looking f
 ...
 
 [Data](articles/30986f23.json)
+
+[Extended Data](ext_articles/30986f23.ext.json)
 
 ---
 
@@ -2281,51 +2333,5 @@ Minister Susil Premajayantha made this observation at a function held at the GCE
 [Data](articles/6de8408a.json)
 
 [Extended Data](ext_articles/6de8408a.ext.json)
-
----
-
-### Increasing Estate Employee Salaries International Labor Organization
-
-*2024-06-11 09:43:06* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සේවක-වැටුප්-වැඩි-කිරිම-ජාත්‍යන්තර-කම්කරු-සංවිධානයේ-ඇගයීමට/11-410132) · `si`
-
-At the International Labor Summit, Minister Manusha Nanayakkara discussed increasing estate worker salaries by 70%, a move welcomed by the ILO Director General Gilbert F. Houngbo. The Minister outlined efforts to enhance labor standards, including implementing projects like C88, C155, C189, and C190 conventions. Additionally, the government plans to bolster the social security system and establish a national labor market information system. The initiative aims to improve employment conditions, promote women's workforce participation, and combat gender discrimination.
-
-🟩
-
-Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment at the International Labor Summit, the Director General of the International Labor Organization gilbert f. He also held a special discussion with houngbo, he appreciated the increase in the estate workers by 70 percent to Rs.
-
-The International Labor Organization Director General of the International Labor Organization welcomed the Minister of the International Labor Organization in the process of increasing the plantation workers' salaries.
-
-The discussion between the Minister of Labor and the International Labor Summit was held yesterday (10) at the International Labor Organization in Geneva.
-
-The Minister explained the implementation of the implementation project and the commitment to improve the labor market standards and employment conditions.
-
-...
-
-[Data](articles/6db2e3fb.json)
-
-[Extended Data](ext_articles/6db2e3fb.ext.json)
-
----
-
-### Decision regarding salary anomalies
-
-*2024-06-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197629) · `si`
-
-In a media briefing, Minister Bandula Gunawardena announced that the 2024 budget lacks extra funds for a specific project. He mentioned a committee, including the President's Secretary and the Ministry of Finance, tasked with resolving issues across state departments, corporations, and boards.
-
-🟩
-
-Minister Bandula Gunawardena says that the 2024 budget has not been able to obtain additional funds for the project.
-
-The Minister pointed out that a committee consisting of the Secretary to the President and the Ministry of Finance has already been appointed to address the issues including state departments, state corporations and statutory boards.
-
-Addressing a media briefing at the President's Media Center, Minister Bandula Gunawardena addressed a media barisan at the Presidential Media Center.
-
-◼️
-
-[Data](articles/346b4ec9.json)
-
-[Extended Data](ext_articles/346b4ec9.ext.json)
 
 ---

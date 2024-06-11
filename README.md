@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 16:34:55**
+As of **2024-06-11 16:51:47**
 
 ## Newspaper Stats
 
-*Scraped **29,794** Articles*
+*Scraped **29,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,101 @@ islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
 adalk | 2,553
-adaderanalk | 3,369
+adaderanalk | 3,371
 tamilmirrorlk | 3,490
 virakesarilk | 4,562
-dailymirrorlk | 4,722
-adaderanasinhalalk | 4,795
+dailymirrorlk | 4,724
+adaderanasinhalalk | 4,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,784 (100.0%) of 29,794 articles have been extended.
+29,794 (100.0%) of 29,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති රක්ෂිත බන්ධනාගාරයට
+### තවත් වර්ජන තර්ජනයක්
+
+*2024-06-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197648) · `si`
+
+හෙට (12) මධ්‍යම රාත්‍රී 12 සිට 13 වනදා මධ්‍යම රාත්‍රී 12 වනතෙක් ලෙඩ නිවාඩු වාර්තා කර වෘත්තිය ක්‍රියාමාර්ගයක නියැලීමට තීරණය කළ බව ඒකාබද්ධ තැපැල් වෘත්තිය සමිති පෙරමුණ පවසයි.
+
+එහි කැඳවුම්කරු, චින්තක බණ්ඩාර පැවසුවේ 13 වනදා උදෑසන සිට රටපුරා සියලු තැපැල් කාර්යාල වසා දැමීමට කටයුතු කරන බවයි.
+
+"තැපැල් දෙපාර්තමේන්තුව මේ වනවිට විශාල අර්බුදයකට ලක්වී තිබෙනවා. 2,000ක පමණ සේවක හිඟයක් ඇති වී තිබෙන නිසා වසර 4ක සිට උසස් වීම් සහ සේවක බඳවාගැනීම් සිදුවන්නේ නැහැ. මෙම හේතුව නිසා සේවකයන් හට විශාල පරිශ්‍රමයක් දරන්න වෙලා තිබෙනවා සේවය කිරීම සඳහා.  පුරප්පාඩු  නිසා ජනතාවට අත්‍යවශ්‍ය සේවා ලබාදීම අපහසුවී තිබෙනවා..."
+
+◼️
+
+[Data](articles/622493f6.json)
+
+---
+
+### Former Chairman of the Weligama Pradeshiya Sabha remanded
 
 *2024-06-11 16:17:15* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-ප්‍රාදේශීය-සභාවේ-හිටපු-සභාපති-රක්ෂිත-බන්ධනාගාරයට/11-410147) · `si`
 
-කොටවිල පොලීසියේ ස්ථානාධිපතිවරයාගේ සහ නිලධාරීන්ගේ රාජකාරියට බාධා කළ සිද්ධියක් සම්බන්ධයෙන් වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති පුෂ්පකුමාර බැට්ටගේ මෙම මස 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මාතර මහෙස්ත්‍රාත්වරයා විසින් නියෝග කර ඇත.
+The former Chairman of Weligama Pradeshiya Sabha was remanded by the Matara Magistrate until the 20th of this month, as per orders from the Kadawila police station.
+
+🟩
+
+The Matara Magistrate was ordered to be remanded until the 20th of this month of the Weligama Pradeshiya Sabha General of the Kadawila police station.
 
 ◼️
 
 [Data](articles/4fb65136.json)
 
+[Extended Data](ext_articles/4fb65136.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டியிட தயார் - சிவாஜிலிங்கம்
+### Ready to contest presidential election - Sivajilingam
 
 *2024-06-11 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185836) · `ta`
 
-தமிழ் பொது வேட்பாளரை நிறுத்துவதில் சிக்கல் ஏற்பட்டால் நான் சுயேட்சையாக போட்டியிடுவேன் என வடமாகாண சபையின் முன்னாள் உறுப்பினர் எம்.கே சிவாஜிலிங்கம் தெரிவித்துள்ளார்.
+MK Sivajilingam, a former NPC member, announced his readiness to run independently in the upcoming presidential election if there are issues with the Tamil general candidate. He mentioned efforts to prevent a Tamil candidate from running, but the public seems to favor a common candidate. Meanwhile, MP MA Sumanthiran addressed concerns about representation, emphasizing that the civil society should reflect the people's choices and needs.
 
-யாழ்.ஊடக அமையத்தில் இன்று செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ் பொது வேட்பாளரை நிறுத்துவது தொடர்பில் முயற்சிகள் முன்னெடுக்கப்பட்டு வருகிறது. இம்முறை மக்கள் மத்தியிலும் பொது வேட்பாளர் விடயம் பேசப்படுகிறது.
+Former Northern Provincial Council Member MK Sivajilingam says I will contest independently if there is a problem with the Tamil general candidate.
 
-எனவே, இம்முறை ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவர் முன்னிறுத்தப்படுவார். அதில் ஏதேனும் சிக்கல்கள் ஏற்பட்டால் , நான் சுயேட்சையாக போட்டியிடுவேன் என தெரிவித்தார்.
+He said this during a media briefing held at the Jaffna Media Center on Tuesday (11).
 
-அதேவேளை, யாழ்ப்பாணத்தில் கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்ற மக்கள் மன்றம் நிகழ்வில் சிவில் சமூகத்திற்கு மக்கள் ஆணையில்லை என நாடாளுமன்ற உறுப்பினர் எம்.ஏ சுமந்திரன் தெரிவித்துள்ளார்.
+Efforts are being made to stop the Tamil general candidate. This time, the common candidate is spoken of among the people.
+
+So, this time a general candidate will be presented in the presidential election. He said that if there were any problems, I would contest independently.
+
+Meanwhile, parliamentarian MA Sumanthiran said that the civil society has no people's order at the People's Forum held in Jaffna last Sunday.
+
+That is wrong. People have made MPs as their representative. Yet people will choose themselves. The civil society was formed by the people. Sivajilingam also said that they can tell them what they need.
+
+◼️
+
+[Data](articles/66166da7.json)
+
+[Extended Data](ext_articles/66166da7.ext.json)
+
+---
+
+### CoPF directs to take immediate measures to regulate Online Casinos
+
+*2024-06-11 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99805/copf-directs-to-take-immediate-measures-to-regulate-online-casinos-) · `en`
+
+During the meeting of the Committee on Public Finance (CoPF), it was disclosed that even though it is clearly stated by law that online casino operations cannot be carried out in the country, online casinos operate in the open depriving the state of the revenue due without any implications.
+
+The Chair of the committee Dr. Harsha de Silva directed that a letter be sent to the Minister of Finance requesting for his immediate attention regarding the matter.
+
+This was taken into discussion at the Committee on Public Finance which met under the Chairmanship of Dr. de Silva recently (06), according to the Communication Department of Parliament.
+
+The importance of establishing a Casino Regulator was also highlighted at the Committee on Public Finance, the statement said.
+
+Officials representing the Ministry of Finance and the Central Bank were also of the view that many issues pertaining to casinos can be resolved following the establishment of a Casino Regulator.
 
 ...
 
-[Data](articles/66166da7.json)
+[Data](articles/99f64b72.json)
 
 ---
 
@@ -80,23 +130,59 @@ Chilima and the other passengers had been headed to attend the funeral of the co
 
 [Data](articles/877d1372.json)
 
+[Extended Data](ext_articles/877d1372.ext.json)
+
 ---
 
-### ஈக்களின் அதிகரிப்பால் வயிற்றுப்போக்கு, வைரஸ் தொற்றுக்காய்ச்சல் ஏற்படும் அபாயம் - விசேட வைத்திய நிபுணர்
+### Risk of diarrhea, viral infection with increased flies
 
 *2024-06-11 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185824) · `ta`
 
-நாட்டில் வெள்ள நீர் வடிந்து வருவதால் ஈக்களின் பெருக்கம் அதிகரித்து வயிற்றுப்போக்கு மற்றும் வைரஸ் தொற்றுக் காய்ச்சல் பரவும் அபாயம் ஏற்பட்டுள்ளதாக கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Floods in Sri Lanka have led to a fly infestation, exacerbating the spread of diarrhea and viral infections due to the presence of organic matter in flood waters. Flies mature quickly and proliferate, spreading pathogens from feces and contaminated surfaces. This increases the risk of diseases like diarrhea and viral fever, causing symptoms such as abdominal pain, cramps, nausea, and fever. To combat this, it's crucial to use covered containers, manage waste, ensure clean water, and seek immediate medical attention to mitigate the impact of these diseases.
 
-வெள்ளம் சூழ்ந்த பகுதிகளில் ஏராளமான கரிமப் பொருட்கள் இருப்பது ஈ முட்டைகள் முதிர்ச்சியடைவதை துரிதப்படுத்துவதுடன், வெள்ள நீர் குறையும்போது ஈக்களின் எண்ணிக்கை விரைவாக அதிகரிக்க வழிவகுக்கிறது.
+🟩
 
-புதிதாக குஞ்சு பொரித்த இந்த ஈக்கள், உணவு ஆதாரங்களைத் தேடி, அடிக்கடி மலம், குப்பைகள் மற்றும் அசுத்தமான பரப்புகளை நோக்கி சென்று சுகாதார நெருக்கடியை மேலும் அதிகப்படுத்துகின்றன.
+Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the floodwaters in the country are increasing the proliferation of flies and the spread of diarrhea and viral infection.
 
-ஈக்கள் அதிகரிப்பதன் விளைவுகள் பயங்கரமானவை என்பதுடன், வயிற்றுப்போக்கு நோய்கள் மற்றும் வைரஸ் காய்ச்சலுக்கு காரணமான பற்றீரியா மற்றும் வைரஸ்கள் உள்ளிட்ட நோய்க்கிருமிகளை ஈக்கள் காவி கொண்டு வருகின்றன என அவர் சுட்டிக்காட்டினார்.
+The presence of a large number of organic substances in flooded areas accelerates the maturity of the eggs and leads to the rapid increase in the number of flies when flooding is reduced.
+
+These newly fried flies, searching for food resources, often go to feces, debris and contaminated surfaces and further enhance the health crisis.
+
+He pointed out that the effects of increasing flies are scary and that flies bring pathogens, including diarrhea and viral fever, etc.
+
+"If you eat contaminated food and water, you can lead to many symptoms, including abdominal pain, cramps, nausea and relaxed feces," he said.
+
+He also said that the risk of viral infection, characterized by symptoms such as fever, headaches and nausea, also increases in areas where flies are high.
 
 ...
 
 [Data](articles/caccbb06.json)
+
+[Extended Data](ext_articles/caccbb06.ext.json)
+
+---
+
+### වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති රිමාන්ඩ්
+
+*2024-06-11 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197647) · `si`
+
+වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති පුෂ්පකුමාර බැට්ටගේ ජුනි මස 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඒ, බලපත්‍රයක් නොමැතිව වටිනා දැව තොගයක් ප්‍රවාහනය කරමින් සිටි සැකකරුවන් දෙදෙනෙකු පොලිස් අත්අඩංගුවට ගෙන සිටියදී ඔවුන් මුදාගැනීමට පොලිස් රාජකාරියට බාධා සිදුකළ බව කියන සිද්ධියක් සම්බන්ධයෙනි.
+
+කොටවිල පොලීසියේ නිලධාරීන් පසුගියදා කොටවිල වරකාපිටිය මාර්ගයේ රථවාහන රාජකාරියේ නිරතවී සිට තිබුණි.
+
+එම අවස්ථාවේදී මාර්ගයේ ධාවනය වු කුඩා ලොරි රථයක් පරීක්ෂා කර ඇත.
+
+එහිදී බලපත්‍රයක් නොමැතිව නැදුන්, මහෝගනී, සහ කොස් යන දැව ලොරි රථයේ තිබූ බව පොලීසිය කියයි.
+
+අනතුරුව එම ලොරි රථයේ රියදුරු සහ රිය සහායක පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබු අතර එම සැකකරුවන් දෙදෙනා   කඹුරුගමුව ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනකු බව පැවසෙයි.
+
+එම ලොරි රථය යොදා ගනිමින් බලපත්‍ර නොමැතිව දැව ප්‍රවාහනය කරමින් සිටියදී ඉකුත් මාර්තු මස 15 වනදා කනංකේ පොලීසිය මගින් ද අත්අඩංගුවට ගෙන තිබෙන බව විමර්ශනවලදී හෙළිවී ඇත.
+
+◼️
+
+[Data](articles/13c3985d.json)
 
 ---
 
@@ -113,6 +199,42 @@ He has been arrested and produced before the court for allegedly disrupting the 
 [Data](articles/014258c5.json)
 
 [Extended Data](ext_articles/014258c5.ext.json)
+
+---
+
+### Former Weligama PS Chairman remanded for obstructing police duties
+
+*2024-06-11 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99804/former-weligama-ps-chairman-remanded-for-obstructing-police-duties) · `en`
+
+The former Chairman of the Weligama Pradeshiya Sabha, Pushpakumara Battage has been remanded until June 20 by the Matara Magistrate’s Court.
+
+He has been arrested and produced before court for allegedly obstructing the official duties of the Officer-in-Charge (OIC) and other police officers at Kotawila Police, Ada Derana reporter said.
+
+Battage is accused of obstructing the duties of police officers in order to release two suspects who were arrested for transporting valuable timber without a license in a small lorry on May 25.
+
+Police had discovered lumber including walnut, mahogany, and jackfruit being transported inside the lorry without the necessary documentation. The driver of the lorry and his assistant, both residents of Kamburugamuwa area, were apprehended by the police.
+
+...
+
+[Data](articles/de369253.json)
+
+---
+
+### CoPF calls for immediate action to regulate online casinos
+
+*2024-06-11 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CoPF-calls-for-immediate-action-to-regulate-online-casinos/108-284608) · `en`
+
+Colombo, June 11 - Chair of the Committee on Public Finance, Dr. Harsha de Silva has called for immediate action to regulate online casinos.
+
+Despite existing laws prohibiting their operation, online casinos continue to function openly, depriving the country of significant revenue. Dr. de Silva has directed a formal letter to be sent to the Hon. Minister of Finance, urging prompt attention to this pressing issue.
+
+The call for regulation was a key topic at the recent Committee on Public Finance meeting, chaired by Dr. de Silva on June 6th. During the session, the necessity of establishing a Casino Regulator was underscored.
+
+Representatives from the Ministry of Finance and the Central Bank concurred, noting that many of the current issues surrounding casinos could be effectively managed with the establishment of a regulatory authority.
+
+...
+
+[Data](articles/43585e3d.json)
 
 ---
 
@@ -148,6 +270,22 @@ Emmeli Oakli, who was traveling on the plane, described the incident.
 
 ---
 
+### LPL කණ්ඩායම් සඳහා අලුත් නීතියක්
+
+*2024-06-11 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197646) · `si`
+
+අනාගතයේදී යම්කිසි පාර්ශ්වයක් ලංකා ප්‍රිමියර් ලීග් තරගාවලියට සහභාගීවන කණ්ඩායමක් මිලදී ගන්නේ නම් එය නිසි ක්‍රමවේදයකට සිදුකිරීමට අදාළ නීති ගෙන එන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+එමගින් නුසුදුසු පාර්ශ්ව LPL කණ්ඩායම් මිලදී ගැනීම වැළකෙන බව ඔහු පැවසීය.
+
+"මම තව නීතියක් ගෙන එනවා. මම ඒක ICC එකත් එක්ක කතා කළා. මින් මතුවට කිසිම ටීම් එකක් ලංකාවේ ආවාට ගියාට ගන්න බෑ. ඔවුන් ඔවුන්ගේ ක්‍රිඩෙන්ශල්‍ස් දීලා..ඔවුන්ව වැලිඩේෂන් කරලා..ICC එකේ අනුමැතිය අරන් තමයි ඒ අයට ටීම් එකක් ගන්න පුළුවන් වෙන්නේ. එහෙම නැතිවුණොත් කාලෙන්කාලෙට එක එක අය එනවා.."
+
+◼️
+
+[Data](articles/bc1b7862.json)
+
+---
+
 ### High-risk dengue zones increase in Sri Lanka after heavy rainfall
 
 *2024-06-11 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99803/high-risk-dengue-zones-increase-in-sri-lanka-after-heavy-rainfall-) · `en`
@@ -174,17 +312,49 @@ Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha Distric
 
 ---
 
-### தேர்தல் நிச்சயமற்ற தன்மையே பொருளாதார மீட்சியை மிகவும் கடுமையாக பாதிக்கக்கூடிய காரணி
+### ඇපල් දුරකථනවලට Chat GPT එකතු වෙයි
+
+*2024-06-11 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197645) · `si`
+
+AI තාක්ෂණයේ පෙරමුණ ගැනීමට ප්‍රධාන පෙළේ තාක්ෂණ සමාගම් අතර තියුණු තරගයක් ඇති වී තිබෙන මොහොතක අමෙරිකානු ඇපල් සමාගම සිය ඉදිරි නිෂ්පාදන පෙළ AI තාක්ෂණය යොදාගනිමින් එළිදැක්වීමට කටයුතු කරමින් සිටී.
+
+ඒ අනුව ඊයේ පැවති ඇපල් සමාගමේ වාර්ෂික සංවර්ධකයන්ගේ සමුළුවේදී (Developers Conferance) ප්‍රකාශ වුණේ ඇපල් සමාගමේ මීළඟ අයිෆෝන් නිෂ්පාදනය AI නැත්නම් කෘත්‍රිම බුද්ධියෙන් සන්නද්ධ කෙරෙන බවය.
+
+විශේෂයෙන් Open AI සමාගමේ ජනප්‍රිය Chat GPT කෘත්‍රිම බුද්ධි යෙදුම අයිෆෝන්වලට අන්තර්ගත කරන බව ඇපල් සමාගම නිවේදනය කළේය.
+
+එමෙන්ම හඬ මගින් අන්තර්ක්‍රියා කළ හැකි "සිරි" (Siri) යෙදුම මගින් ඇපල් දුරකථනවලට කෙටි පණිඩුව, ඊමේල් සහ තුන්වැනි පාර්ශ්වයක යෙදුම්වලටද ප්‍රතිචාර දැක්විය හැකි බව ඇපල් ප්‍රධාන විධායක ටිම් කුක් සඳහන් කරයි.
+
+ඔබ වෙනුවෙන් ඊමේල් ලිවීමටත් අවස්ථාවට සරිලන අන්දමේ හඬින් පණිවුඩ යැවීමට  "සිරි"  AI යෙදුම සමත් වෙයි.
+
+ජනප්‍රිය  Chat GPT AI යෙදුම ඇපල් අයිෆෝන්වලට අන්තර්ගත කරනු ඇත්තේ මේ වසර අගදී ය.
+
+ඇපල් සමාගම මේ විදියට AI තාක්ෂණය පිළිබඳ අවධානය යොමුකරද්දි අයිෆෝන් අලෙවියේ වර්ධනයක් අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/663298ba.json)
+
+---
+
+### Election uncertainty is the factor that can severely affect economic recovery
 
 *2024-06-11 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185830) · `ta`
 
-பெட்ரோலுக்கோ அல்லது சமையில் எரிவாயுவுக்கோ மக்கள் நீண்ட வரிசைகளில் இப்போது காத்துநிற்பதில்லை. ஆனால், பொருளாதார புள்ளிவிபரங்கள் கவலையளிப்பவையாகவே இருக்கின்றன. நாட்டின் சர்வதேசக் கடன் பொருளாதார வீழ்ச்சிக்கு முன்னர் இருந்ததைப் போன்றே கட்டுப்படுத்த முடியாத அளவுக்குத் தொடர்ச்சியாக அதிகரித்துக்கொண்டு போகிறது.
+Sri Lanka faces significant economic challenges, including a rising international debt exceeding $100 billion, with unpaid loan interests surpassing $6.4 billion. The country's economic growth shrank by 7.3% in 2022 and is projected to grow by only 2% in 2023, with revenue levels lower than two years ago. Political instability, particularly regarding upcoming elections, further complicates the situation. Despite efforts to restructure debt with the IMF, the burden on citizens is expected to worsen. The government's handling of the economic crisis and the necessity of fair and timely elections are crucial for restoring confidence and addressing the nation's pressing issues.
 
-இரு வருடங்களுக்கு  முன்னர் பொருளாதார நெருக்கடி ஏற்பட்டபோது இலங்கையின் சர்வதேசக் கடன் சுமார் 80 பில்லியன் அமெரிக்க டொலர்களாக இருந்தது. செய்தி அறிக்கைகளின்படி, இலங்கையின் கடன் மணவீக்கம் போன்ற சில பெரும்போக பொருளாதார நடவடிக்கைகளில் ஏற்பட்டிருக்கக்கூடிய சிறிய மேம்பாட்டுக்கு மத்தியில், இப்போது 100 பில்லியன் டொலர்களையும் தாண்டிவிட்டது. அதேவேளை, திருப்பிச் செலுத்தப்படாத சில குறிப்பிட்ட கடனின் முதலும் வட்டியும் 6.4 பில்லியன் டொலர்களை தாண்டிவிட்டது.
+🟩
+
+People do not wait for long rows of gas in petrol or gas. But the economic statistics are worrisome. The country's international debt is continuously increasing as it was before the economic downturn.
+
+Sri Lanka's international debt was about US $ 80 billion in the event of an economic crisis two years ago. According to news reports, amid the slight development of some major economic activities, such as Sri Lanka's credit marriage, has now exceeded $ 100 billion.. At the same time, the first interest and interest of some of the unpaid loans has exceeded $ 6.4 billion.
+
+This is not good for the country. This shows that there has been no change in basically in the last two years. The country and the government continue to spend more than earnings. They deal with the situation by obtaining loans from abroad.
 
 ...
 
 [Data](articles/be91318f.json)
+
+[Extended Data](ext_articles/be91318f.ext.json)
 
 ---
 
@@ -308,37 +478,49 @@ Starting this year, the A/L examination, which has typically been held in Novemb
 
 ---
 
-### இலங்கை தமிழரசு கட்சி உறுப்பினர்களை யாழில் சந்தித்து கலந்துரையாடினார் அநுரகுமார
+### Anurakumara met the members of the Sri Lanka Tamil National Party in Jaffna
 
 *2024-06-11 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185815) · `ta`
 
-தேசிய மக்கள் சக்தியினருக்கும் தமிழ் அரசுக் கட்சியினருக்கும் இடையில் விசேட சந்திப்பொன்று இன்று செவ்வாய்க்கிழமை (11) காலை யாழில் நடைபெற்றது.
+Anurakumara Dissanayake led a delegation from the National People's Power to meet the Sri Lanka Tamil National Party in Jaffna, discussing current politics, including the presidential election. The gathering included key figures from both parties, aiming to foster dialogue and understanding.
 
-யாழ்ப்பாணத்திற்கு விஐயம் செய்துள்ள அனுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் மாவை சேனாதிராசா தலைமையிலான தமிழ் அரசுக் கட்சியினரை சந்தித்து கலந்துரையாடினர்.
+🟩
 
-யாழ்ப்பாணம் மார்ட்டின் வீதியிலுள்ள தமிழ் அரசுக் கட்சியின் தலைமை அலுவலகத்தில் இன்று காலை இச் சந்திப்பு இடம்பெற்றது.
+A special meeting between the national people and the Tamil state party was held in Jaffna on Tuesday morning.
 
-இதன் போது பிரதானமாக ஜனாதிபதித் தேர்தல் உட்பட சமகால அரசியல் நிலைமைகள் பற்றி கலந்துரையாடப்பட்டன.
+A team led by Anuragumara Dissanayake, who has been present in Jaffna, met with the Tamil state party led by Mavai Senadirasa.
 
-இச் சந்திப்பில் தமிழ் அரசுக் கட்சி சார்பில் அதன் தலைவர் மாவை சேனாதிராசா, துணைத் தலைவர் சீ.வீ.கே.சிவஞானம், நிர்வாக செயலாளர் குலநாயகம், ஊடகப் பேச்சாளர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+The meeting was held this morning at the Tamil State Party headquarters on Martin Road, Jaffna.
 
-அதே போன்று தேசிய மக்கள் சக்தியின் சார்பில் அதன் தலைவர் அனுரகுமார திசாநாயக்க மற்றும் அக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர்களான பிமல் ரத்நாயக்கா, இராமலிங்கம் சந்திரசேகரன் உட்பட பலரும் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+During this time, contemporary political conditions, including the presidential election, were discussed.
+
+The meeting was attended by its leader Mawai Senadirasa, Vice President CVK Sivagnanam, Executive Secretary Kulanayagam and Media Spokesperson MA Sumanthiran.
+
+Similarly, on behalf of the National People's Power, its leader Anura Kumara Dissanayake and former MPs of the party, Bimal Ratnayake and Ramalingam Chandrasekaran were present.
 
 ◼️
 
 [Data](articles/ce049093.json)
 
+[Extended Data](ext_articles/ce049093.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-11 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185816) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஜூன் 11) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 298.4565 ஆகவும் கொள்வனவு விலை ரூபா 308.0019 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately 1 USD = 298.4565 INR.
+
+🟩
+
+The US $ 298.4565 was reported at Rs.
 
 ◼️
 
 [Data](articles/0f7a558f.json)
+
+[Extended Data](ext_articles/0f7a558f.ext.json)
 
 ---
 
@@ -528,19 +710,29 @@ A gas leak from the sewage drainage in the area has been reported to 3 people wh
 
 ---
 
-### අමිතිරිගල ත්‍රිත්ව ඝාතනයට මන්නා රමේෂ්ගේ සමීපතමයන් 2ක් අල්ලයි
+### Amitirigala assassinates two close associates of Trinity murder
 
 *2024-06-11 13:12:11* · [`adalk`](https://www.ada.lk/breaking_news/අමිතිරිගල-ත්‍රිත්ව-ඝාතනයට-මන්නා-රමේෂ්ගේ-සමීපතමයන්-2ක්-අල්ලයි/11-410142) · `si`
 
-අවිස්සාවේල්ල අමිතිරිගල මාර්ගයේදී සිදු වූ තිත්ව ඝාතනයට  ආධාර අනුබල දුන් පුද්ගලයන් දෙදෙනෙක් සංවිධානාත්මක අපරාධකරු වන මන්නා රමේෂ් නමැත්තාගෙන් අනාවරණ වූ තොරතුරු අනුව අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+Amitirigala assassinated two associates linked to Trinity's murder near Surveyalla road. Two supporters were implicated. Arrests were made in Avissawella and Langugama, with a motorcycle involved in the crime found in Lunuwila. The suspects, aged 28 and 30, had ties to Ramayes, an event organized by the Dubai kingdoms under the Defense Ministry's approval, allegedly used for criminal activities. One suspect was killed at a funeral, and a Ti 56 firearm from Wellampitiya was linked to the murder. Investigations are ongoing.
 
-අවිස්සාවේල්ල හා ලුණුගම ප්‍රදේශයේදී  අත්අඩංගුවට ගත් එම සැකකරුවන් දෙදෙනා මන්නා රමේශ්  ගේ සමීපතමයන් දෙදෙනෙක් බව  පොලිසිය කියයි.
+🟩
 
-එම සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී ඝාතනය සඳහා යොදාගත් යතුරුපැදිය කොටස් කර පොහොර උර 6 ක දමා පූගොඩ ලුණුවිල ප්‍රදේශයේ නිවසක ගරාජයක  සඟවා තිබියදී සොයාගැනීමට හැකිවූ බව පොලිසිය කියයි කියයි.
+The Western Province says two persons who supported the assassination of the Surveyalla road at Aithrigella road at Aithrigella road.
+
+Police say two suspects were arrested in Avissawella and Langugama area.
+
+The motorcycle used by the suspects were part of the murder and found six fertilizer and was hidden in a garage in Lunuwila area in Pugoda.
+
+Ramayes, who was organized by the Dubai kingdoms on May 9, as per the approval of the Defense Ministry of Defense, is automatically used to commit crimes by the Secretary to the Defense Ministry.The suspect was handed over to the South District in connection with the informance of 13 crimes carried out by the Avissawella police divisions by organizing the suspect, engaging in the event of an illegal crimes.
+
+The suspect was speaking at a funeral home on 20th September 2023 on his advice on his advice on his advice and was shot dead by the shooting.
 
 ...
 
 [Data](articles/14db0638.json)
+
+[Extended Data](ext_articles/14db0638.ext.json)
 
 ---
 
@@ -1502,6 +1694,24 @@ The luxury facilities available for tourists is in Sri Lanka and 22 national par
 
 ---
 
+### Future government under Sajith to implement 13th Amendment
+
+*2024-06-11 09:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Future-government-under-Sajith-to-implement-13th-Amendment/108-284609) · `en`
+
+A government under him in the future will be committed to implementing the 13th Amendment to the Constitution, Opposition Leader Sajith Premadasa said recently.
+
+During the donation of a smart classroom to the Bharathipuram Maha Vidyalayam in Kilinochchi under the 'Sakwala' programme, he stated that many politicians visit Sinhalese communities, claiming to support only them, and then visit Tamil areas, making similar claims. This tactic is used to gather votes.
+
+"While other parties spread lies in different areas, the Samagi Jana Balavegaya (SJB) consistently advocated for implementing the 13th Amendment to the Constitution. We made this commitment across all provinces and remain determined to see it through.
+
+"When discussing the 13th Amendment, some look away, some pretend not to hear, some chang the subject, some run away in fear, and some feel ashamed. I must say that all of them are political opportunists." he said.
+
+◼️
+
+[Data](articles/dd23ad69.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the country
 
 *2024-06-11 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99794/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
@@ -1900,6 +2110,8 @@ Previously, United National Party (UNP) General Secretary Palitha Range Bandara 
 
 [Data](articles/a619a055.json)
 
+[Extended Data](ext_articles/a619a055.ext.json)
+
 ---
 
 ### Rise in flies poses risk of diarrhoea and contagious viral fever
@@ -1937,6 +2149,8 @@ According to consultant Dr Deepal Perera, the abundance of organic matter in flo
 ...
 
 [Data](articles/c8cdc34b.json)
+
+[Extended Data](ext_articles/c8cdc34b.ext.json)
 
 ---
 
@@ -2159,165 +2373,5 @@ Speaking at the meeting, President Ranil Wickremesinghe said that the powers of 
 [Data](articles/d8fea509.json)
 
 [Extended Data](ext_articles/d8fea509.ext.json)
-
----
-
-### Point Pedro Hospital Struggle
-
-*2024-06-11 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185793) · `ta`
-
-Nurses at Point Pedro Hospital, Jaffna, protested on August 8, entering Hostel No. 7. Their demands included officer safety, arrest of armed police, and capturing suspects.
-
-🟩
-
-Jaffna entered the Vadamarachchi Point Pedro Hospital on the 8th of last month and entered the hostel No. 7 No. 7 Hostel. The Nurses of the Hospital were launching a protest march.
-
-The struggle was carried out on demands such as the security of the officers, the arrest of the armed policemen, and the arrest of the accused.
-
-◼️
-
-[Data](articles/aa547216.json)
-
-[Extended Data](ext_articles/aa547216.ext.json)
-
----
-
-### Customer experience guru Ron Kaufman meets BOI, SLPA heads
-
-*2024-06-11 01:30:02* · [`dailyftlk`](https://www.ft.lk/business/Customer-experience-guru-Ron-Kaufman-meets-BOI-SLPA-heads/34-762916) · `en`
-
-Renowned global customer experience guru Ron Kaufman last week met with the Board of Investment of Sri Lanka (BOI) Chairman Dinesh Weerakkody and Sri Lanka Ports Authority Chairman Keith D. Bernard to discuss the current economic climate and investment opportunities in both Colombo Port City and on shore. They discussed strategies for public sector capacity development. Ron Kaufman, who led an event in Sri Lanka in 2017, has built a globally renowned reputation as a leading educator on Uplifting Service performance and Building Service Cultures. Ron is the author of the New York Times bestselling book “Uplifting Service: The Proven Path” and 14 other books on customer service, business, and inspiration.
-
-◼️
-
-[Data](articles/8086aa68.json)
-
-[Extended Data](ext_articles/8086aa68.ext.json)
-
----
-
-### Young woman lifted in Arali!
-
-*2024-06-11 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185792) · `ta`
-
-A young woman named Sivakaran Mayura, aged 24, tragically passed away on Arali's 10th due to a poor choice. Her family has suffered losses; her father and brother had previously died. An autopsy conducted by a Sudden Death Investigation Officer followed her death, after which her body was returned to her grieving relatives.
-
-🟩
-
-On Monday, the 10th of Arali, a young woman has made a wrong decision and died.
-
-The deceased is Sivakaran Mayura, a 24 -year -old from the same area.
-
-The girl's father and brother have already died. In this case, he is still alive today.
-
-An autopsy on the body was carried out by Sudden Death Investigation Officer. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/d0e41887.json)
-
-[Extended Data](ext_articles/d0e41887.ext.json)
-
----
-
-### New director at Emerchemie NB
-
-*2024-06-11 01:28:47* · [`dailyftlk`](https://www.ft.lk/business/New-director-at-Emerchemie-NB/34-762915) · `en`
-
-In consequence to the retirement of Ruud van Anraat as an Independent Director, Emerchemie NB Ceylon Ltd., has appointed President’s Counsel Anura Meddegoda to its Board.
-
-Following the appointment the Board of Directors comprises Chairman Nimal Dias-Jayasinha, M. Prathaban, Hasintha Alahakoon, Dr. Janaka Weeratunga, Manisha Dias-Jayasinha, Nelun Dias-Jayasinha and Anura Meddegoda .
-
-Emerchemie NB Ceylon Ltd., is celebrating its 25th anniversary in June, enjoying a market share of 12% of the pharmaceutical market in Sri Lanka and providing employment to a staff cadre exceeding 800.
-
-◼️
-
-[Data](articles/d6ce41fd.json)
-
-[Extended Data](ext_articles/d6ce41fd.ext.json)
-
----
-
-### Campaign against the clown
-
-*2024-06-11 01:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோமாளிக்கூத்துக்கு-எதிராக-பிரசாரம்/175-338739) · `ta`
-
-Tamil general candidate's campaign criticized; party spokesman M. A. Sumanthiran argues elected officials should make political decisions, not civil society groups. Event chaired by Tamil leaders discusses public representation and decision-making.
-
-🟩
-
-We do not agree with the commentary of the Tamil general candidate. The party's spokesman M.. A.. Sumanthiran said.
-
-Sumanthiran M. Mr.. B.. Said this.
-
-“The representatives of the public elected by the public must make political decisions.He said that civil society groups could not advise any people, but they did not receive the people's mandate to make political decisions.
-
-Clean. Wi. K. The event was chaired by Sivagnanam, Tamil Nadu President Mawai Senathirajah and Tamil National Party leader. Srikanta, Secretary. K. Sivajilingam, Equality Party leader. Chandrakumar, Emanuel Adikallar, Jaffna. Former Vice Chancellor of the University. Balasundarambillai was also present at the event.
-
-◼️
-
-[Data](articles/1a8636ca.json)
-
-[Extended Data](ext_articles/1a8636ca.ext.json)
-
----
-
-### ACFA seminar on risk of liability due to ignorance of narcotics on 19 June
-
-*2024-06-11 01:27:09* · [`dailyftlk`](https://www.ft.lk/business/ACFA-seminar-on-risk-of-liability-due-to-ignorance-of-narcotics-on-19-June/34-762914) · `en`
-
-The Association of Clearing and Forwarding Agents (ACFA) has taken an initiative to enhance and spread industry awareness on Customs compliance and risks of narcotic trafficking.
-
-A seminar under the theme “Risk of Noncompliance and Liability due to Ignorance of Narcotics” will be held at the Sri Lanka Foundation Institute on 19 June from 9:00 a.m. to 12.00 p.m.
-
-Composition of panellists and issues to be addressed will be designed to appeal to varied professional interests of Importers, exporters, clearing and forwarding agents, shipping lines, air lines, trade forums and other stakeholders who regularly interact with Customs.
-
-“Ignorance of the law is no excuse. This means that professionals cannot claim that they didn’t know the law or were not aware of the processes. Industry awareness is an essential component in combating narcotic trafficking through ports,” ACFA President Uvaiz Samsudeen said.
-
-...
-
-[Data](articles/3e71b6a2.json)
-
-[Extended Data](ext_articles/3e71b6a2.ext.json)
-
----
-
-### President and Dr. Jaishankar discuss resumption of India-aided development projects
-
-*2024-06-11 01:25:31* · [`dailyftlk`](https://www.ft.lk/news/President-and-Dr-Jaishankar-discuss-resumption-of-India-aided-development-projects/56-762913) · `en`
-
-Dr. Jaishankar announces plans to visit Sri Lanka soon to oversee progress of projects, coordinate upcoming visit by Indian Prime Minister
-
-President Ranil Wickremesinghe yesterday met with Indian External Affairs Minister Dr. S. Jaishankar to discuss the swift resumption of halted development projects in Sri Lanka, funded by Indian investments.
-
-Dr. Jaishankar emphasised India’s commitment to fast-tracking these projects and announced plans to visit Sri Lanka soon to oversee their progress and coordinate an upcoming visit by the Indian Prime Minister.
-
-During the meeting, Dr. Jaishankar reiterated India’s ‘Neighbourhood First’ policy, highlighting plans for an industrial zone in Trincomalee. This project, spearheaded by the Indian Government, aims to attract numerous Indian investors and potentially others from around the globe, boosting economic collaboration between the two countries.
-
-...
-
-[Data](articles/004ce2c0.json)
-
-[Extended Data](ext_articles/004ce2c0.ext.json)
-
----
-
-### Bangladesh pledges support for Sri Lanka’s agricultural modernisation drive
-
-*2024-06-11 01:24:11* · [`dailyftlk`](https://www.ft.lk/news/Bangladesh-pledges-support-for-Sri-Lanka-s-agricultural-modernisation-drive/56-762912) · `en`
-
-Bangladesh Prime Minister Sheikh Hasina in conversation with President Ranil Wickremesinghe during their meeting in New Delhi yesterday on the sidelines of the
-
-swearing-in ceremony of Indian Prime Minister Narendra Modi – Pic by Pradeep Pathirana
-
-Bangladesh Prime Minister Sheikh Hasina yesterday assured President Ranil Wickremesinghe of her country’s commitment to support Sri Lanka’s agricultural modernisation program.
-
-This was conveyed when the duo met in New Delhi on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi. The two leaders engaged in bilateral discussions where Prime Minister Hasina assured her country’s commitment to assist Sri Lanka to modernised agriculture.
-
-...
-
-[Data](articles/2b785bbf.json)
-
-[Extended Data](ext_articles/2b785bbf.ext.json)
 
 ---

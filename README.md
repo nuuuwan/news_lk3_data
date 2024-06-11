@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 08:34:57**
+As of **2024-06-11 08:53:32**
 
 ## Newspaper Stats
 
-*Scraped **29,714** Articles*
+*Scraped **29,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,97 @@ adaderanalk | 3,357
 tamilmirrorlk | 3,480
 virakesarilk | 4,554
 dailymirrorlk | 4,712
-adaderanasinhalalk | 4,779
+adaderanasinhalalk | 4,780
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,711 (100.0%) of 29,714 articles have been extended.
+29,714 (100.0%) of 29,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### මෙරට පරිගණක සහ ඩිජිටල් සාක්ෂරතාව ඉහළට
+### ගංවතුරට හසු වී මිය ගිය කුකුළන් අලෙවි කිරීමේ ජාවාරමක්
+
+*2024-06-11 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197626) · `si`
+
+කුකුළු මස් මිලදී ගැනීමේ දී මේ දිනවල වැඩි අවදානයක් යොමුකළ යුතු බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+
+එහි වැටලීම් සහ විමර්ශන අංශයේ අධ්‍යක්ෂ සංජය ඉරසිංහ මහතා සඳහන් කළේ, ජල ගැලීම් තත්ත්වය හේතුවෙන් ගංවතුරට හසුවී මියගිය කුකුළන් වෙළෙඳපොළ තුළ මේ දිනවල අලෙවි කිරීම සිදුවන බවය.
+
+එවැනි කුකුළු මස් පරිභෝජනය ශරීරයට අහිතකර බැවින් ඒ පිළිබඳව වැඩි අවදානයක් යොමුකළ යුතු බව සංජය ඉරසිංහ මහතා පවසයි.
+
+"ගංවතුරට අහුවෙලා මියගිය කුකුළන්ව සුද්ද කරලා, පැකට් කරලා විකුණන ජාවාරමක් පිළිබඳව තොරතුරු ලැබිලා තියෙනවා. අපි මේ ගැන මේ දවස් ටිකේම සුපරික්ෂාවෙන් හිටියා. වැටලීම් කරා. දිවයින පුරාම මේක කරනවා. ඔබත් කුකුළු මස් ගැනීමේ දී මේ ගැන පරීක්ෂා කර බලන්න. විශේෂයෙන්ම මසට ඇති කරන කුකුළන් සුදු පාටයි. මේ කුකුළන් රතු පාටට හුරුයි. මේක කොච්චර උෂ්ණත්වයට තැම්බුවත් විෂබීජ මැරෙන්නේ නැති වෙන්න පුළුවන්. මේ ගැන තොරතුරක් තිබුණොත් වහාම පාරිභෝගික සේවා අධිකාරියට දැනුම්දෙන්න."
+
+...
+
+[Data](articles/1bf3d003.json)
+
+---
+
+### Sri Lanka's computer and digital literacy goes up
 
 *2024-06-11 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197625) · `si`
 
-මෙරට පරිගණක සාක්ෂරතාවය සියයට 39 දක්වා ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's computer literacy rose to 39% in 2023, with 63.5% having basic skills. Urban areas show higher literacy rates, peaking at 52.9%. The Western Province leads, followed by the Eastern Province.
 
-2023 වර්ෂයේ පරිගණක සාක්ෂරතා සමීක්ෂණ වාර්තාවට අනුව මෙරට අවුරුදු 05ත් 69ත් අතර පුද්ගලයින් 05 දෙනෙකුගෙන් දෙදෙනෙකුට පරිගණක සාක්ෂරතාව පවතින බව සඳහන්ය.
+🟩
 
-එමෙන්ම පුද්ගලයින් 05 දෙනෙකුගෙන් තිදෙනෙකුට ඩිජිටල් සාක්ෂරතාව පවතින අතර එය සියයට 63.5ක් බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+The computer literacy of Sri Lanka has increased to 39 percent, said the Department of Census and Statistics.
 
-මෙරට පවුල්වලින් සියයට 20.2ක් ඩෙක්ස්ටොප් හෝ ලැප්ටොප් පරිගණක භාවිතා කරන අතර නාගරික ජනතාවගේ පරිගණක හා ඩිජිටල් සාක්ෂරතාවයේ  වැඩිවීමක් පෙන්නුම් කර තිබේ.
+According to the computer literacy survey of 2023, two of the five people between the 5 and 69 years of Sri Lanka have computer literacy.
 
-2021 වර්ෂයට සාපේක්ෂව 2023 වර්ෂය වන විට මෙරට පරිගණක සාක්ෂරතාවය සියයට 4.7කින් ඉහළ ගොස් ඇති අතර වැඩිම පරිගණක සාක්ෂරතාවයක් වන සියයට 52.9ක් නාගරික ප්‍රදේශවලින් වාර්තා වී ඇති බව සඳහන්ය.
+The Department of Census and Statistics indicate that three of five people have 63.5 percent.
 
-බස්නාහිර පළාතේ වැඩිම පරිගණක සාක්ෂරතාවයක් පවතින අතර නැගෙනහිර පළාතේ අඩුව පරිගණක සාක්ෂරතාවක් පවතින බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+20.2 percent of Sri Lanka's families use decoust or laptops, and the urban people have increased in the computer and digital literateness of the urban people.
+
+By 2023, Sri Lanka's computer literacy has risen by 4.7 percent, with 52.9 percent of the highest computer literacy.
+
+The Western Province has the highest computer literacy and there is a computer literacy in the Eastern Province, the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/53c4d010.json)
 
+[Extended Data](ext_articles/53c4d010.ext.json)
+
 ---
 
-### ප්‍රදේශ තුනකින් හමුවූ මළ සිරුරු
+### Bodies found in three areas
 
 *2024-06-11 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197624) · `si`
 
-ප්‍රදේශ තුනකින් නාඳුන මළ සිරුරු 03ක් හමුව ඇති බව පොලීසිය පවසයි.
+In Negombo, police found three bodies: one near Marstela College and two others unidentified, aged around 60-65, dressed in red and blue. Investigations ongoing.
 
-ඊයේ එම මළ සිරුරු හමුව ඇත්තේ, මීගමුව සහ පානදුරු දකුණ පොලිස් වසම්වලින්ය.
+🟩
 
-මීගමුව මාර්ස්ටෙලා විදුහල ඉදිරිපිට පුද්ගලයෙකු මියගොස් ඇති බවට 119ට ලද තොරතුරක් මත මීගමුව පොලීසිය විමර්ශන ආරම්භ කර ඇති අතර මරණරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැත.
+Police have found three bodies found in three areas.
 
-මරණකරුගේ වයස අවුරුදු 65ක් පමණ වන අතර අවසන් වරට බැනියමක් සහ නිල් කොටු සහිත සරමක් හැඳ සිටී බව පොලීසිය පවසයි.
+The bodies found that the bodies yesterday
 
-මේ අතර මීගමුව සිරිකුරස පල්ලිය පිටුපස කපලුවේ නාඳුනන පිරිමි මළ සිරුරක් ඇති බවට 119 යට තොරතුරක් ලැබී තිබුණි.
+Negombo police have commenced investigations on a tip off received by a person in front of Marstela College, Negombo.
 
-මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බව මීගමුව පොලීසිය පවසයි.
+The deceased is about 65 years of age and the last banner and blue boxes are dressed.
 
-මරණකරු පසුවේ සහ උරහිසේ පච්ච සළකුණු ඇති අතර අවසන් වරට ගුර පැහැති අත් දිග කමිසයක් හැඳ සිටි බව පොලීසිය පවසයි.
+Meanwhile, an 119 information was found that a corpse of the Negombo was behind the Church of Negombo.
 
-පානදුර දකුණ පොලිස් වසමේ රන්කොන් විහාරස්ථානය තුළ කාන්තාවක් මියගොස් ඇති බවට ලද දුරකථන පණිවුඩයක් මත පානදුර දකුණ පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+The identity of the deceased has not yet been established, the Negombo Police said.
 
-මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැත අතර ඇය වයස අවුරදු 60ත් 65ත් පමණ වන අතර උස අඩි 05වි අඟල් 01කි.
+The victim has tattoos and shoulder tattood and the last time was a robbery-long shirt.
 
-...
+Panadura South Police have launched a telephone message that a woman has died in the Rankon Temple in the Rankon Temple in Panadura South Police Division.
+
+The identity of the deceased has not yet been established, and she is about 60 and 65 years and 1 inch of height.
+
+Police say a red hatch and blue and a farming skirt.
+
+◼️
 
 [Data](articles/4f702b2b.json)
+
+[Extended Data](ext_articles/4f702b2b.ext.json)
 
 ---
 
@@ -1830,17 +1862,25 @@ It is noteworthy that Ambassador Khalid Hamood Hamood Nasser Altasam Al -Qahdani
 
 ---
 
-### ව්‍යාපාරිකයාට වෙඩි තැබුවාද? වෙඩි තබා ගත්තාද?
+### Shooting businessman?Shot?
 
 *2024-06-10 18:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාපාරිකයාට-වෙඩි-තැබුවාද--වෙඩි-තබා-ගත්තාද-/11-410128) · `si`
 
-හුංගම රන්න ප්‍රදේශයේ පදිංචි 51 හැවිරිදි ව්‍යාපාරිකයෙකු නිවසේ  පිටුපස වෙඩි වැදි මියගොස් සිටියදී ඊයේ (09දා) රාත්‍රී සොයාගත් බව හුංගම පොලීසිය පවසයි. මෙලෙස වෙඩි වැදීමෙන් මියගොස් ඇත්තේ තිස්ස පාර,රන්න ලිපිනයේ පදිංචි ගොඩනැගිලි ද්‍රව්‍ය වෙළෙඳ සැලක් පවත්වාගෙන ගිය 51 හැවිරිදි සුමුදු නිශ්ශංක ලංකාමුල්ල නමැති එක් දරු පියෙකි.
+A 51-year-old businessman, Sumudu Nissanka Lanka Lanamulla, was found dead in his residence in Hungama Runnawa. He was discovered shot after coming downstairs around 10 pm. Initial investigations suggest a dispute led to his death, but further details are pending.
 
-මියගිය ව්‍යාපාරිකයා රාත්‍රි 10ට පමණ නිවසේ ඉහළ මහලේ සිට බිම් මහලට පැමිණි ඇති අතර, පසුව ඔහු ඉහළ මහළට නොපැමිණීම නිසා නිවැසියන් විසින් සිදු කළ සොයා බැලීමේදී ඔහු වෙඩි වැදී බිම වැටී සිටිනු දැක තිබේ.ඒ අනුව සිද්ධිය සම්බන්ධයෙන් නිවැසියන් විසින් 119 පොලිස් හදිසි ඇමතුම් අංකයට දැන්වීමෙන් පසු  හුංගම පොලීසියේ නිලධාරීන් කණ්ඩායමක් එම ස්ථානයට පැමිණ විමර්ශන අරඹා තිබේ.
+🟩
+
+51-year-old businessman residing in Hungama Runnawa area was found dead yesterday (09), police said. The deceased has been identified as Sumudu Nissanka Lanka Lanka, a 51-year-old Sumudu Nissanka Lanka Lanamulla, who has run a residential substation plan of Tissa Road, Ranna.
+
+The deceased businessman had come to the ground floor to the ground floor at around 10 pm, he was later shot dead by the residents.A team of police officers came to the scene and commenced investigations.
+
+Preliminary investigations were revealed that the same night, between businessman and residents had had a dispute between businessman and residents.At about 11.45, the proof of the businessman had uncovered the proof that the businessman had been assassinated by a person outside the preliminary investigations carried out.
 
 ...
 
 [Data](articles/7f1e4691.json)
+
+[Extended Data](ext_articles/7f1e4691.ext.json)
 
 ---
 
@@ -2191,29 +2231,5 @@ At the end of the age of forty -five, she and a woman named Hindu. Their marriag
 [Data](articles/91622c24.json)
 
 [Extended Data](ext_articles/91622c24.ext.json)
-
----
-
-### Sri Lanka stocks close up ahead of IMF review
-
-*2024-06-10 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ahead-of-imf-review-167254/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.54 percent, or 67.11 points, at 12,381; while the more liquid S&P SL20 Index closed up 0.76 percent, or 27.64 points, at 3,683.
-
-Turnover was 1.6 billion. A large part of this came from capital goods stocks (Rs734mn).
-
-The market picked up from the bell, ahead of several key developments anticipated this week; the commencement of the International Monetary Fund second review, first quarter GDP figures to be released, and the last day for Expolanka delist offer.
-
-“There was some positivity coming into the market, mostly due to speculation that the the IMF news would be positive,” market participants said. “But things slowed down in the latter part of the day.”
-
-Retail participation was still slow, they said, even as high net worth and corporate customers came in.
-
-...
-
-[Data](articles/3d1c5e0a.json)
-
-[Extended Data](ext_articles/3d1c5e0a.ext.json)
 
 ---

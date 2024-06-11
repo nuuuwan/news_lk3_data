@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-11 16:51:47**
+As of **2024-06-11 17:04:06**
 
 ## Newspaper Stats
 
-*Scraped **29,802** Articles*
+*Scraped **29,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,613
 economynextcom | 1,701
 dailyftlk | 1,788
-adalk | 2,553
+adalk | 2,554
 adaderanalk | 3,371
-tamilmirrorlk | 3,490
+tamilmirrorlk | 3,492
 virakesarilk | 4,562
 dailymirrorlk | 4,724
 adaderanasinhalalk | 4,799
@@ -26,25 +26,61 @@ adaderanasinhalalk | 4,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,794 (100.0%) of 29,802 articles have been extended.
+29,802 (100.0%) of 29,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-11 (Tuesday)
 
-### තවත් වර්ජන තර්ජනයක්
+### உறங்கிய சகோதரிகளில்  ஒருவர் படுகொலை
+
+*2024-06-11 16:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறங்கிய-சகோதரிகளில்-ஒருவர்-படுகொலை/175-338766) · `ta`
+
+ஒரே குடும்பத்தைச் சேர்ந்த இரு சகோதரிகள் மாத்திரமே வீட்டில் தங்கியிருந்த நிலையில் முகத்தை மூடிக்கொண்டு வீட்டிற்குள் நுழைந்த இனந்தெரியாத இருவர் , வீட்டில் உறங்கிக்கொண்டிருந்த  சகோதரிகளில் ஒருவரை கூரிய ஆயுதத்தால் தாக்கி கொலை செய்துள்ள சம்பவம்  செவ்வாய்க்கிழமை (11) அதிகாலை இடம்பெற்றுள்ளதாக  ஹொரணை தலைமையக பொலிஸார் தெரிவித்துள்ளனர் .
+
+ஹொரண மீவனபலான சிரில்டன் தோட்டத்தை சேர்ந்த 58 வயதுடைய   பெண்ணே இவ்வாறு படுகொலை செய்யப்பட்டுள்ளார்.
+
+குறித்த பெண் பங்களாதேஷ் பிரஜை ஒருவரை திருமணம் செய்து கொண்டவர் எனவும் அவர் அந்த நாட்டில் வசிக்கும் நிலையில்,  பெண் தனது தங்கையுடன் இந்த வீட்டில் வசித்து வருவதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+கொலை செய்யப்பட்ட  பெண்ணின் சகோதரி, மூன்று வாரங்களுக்கு முன்னர் இந்த வீட்டில் தங்குவதற்காக வந்துள்ளதுடன் இருவரும் வெவ்வேறு அறைகளில் உறங்கச் சென்ற பின்னரே இக்கொலை சம்பவம் இடம்பெற்றுள்ளதாகவும் தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/ab68d8a3.json)
+
+---
+
+### Another strike threat
 
 *2024-06-11 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197648) · `si`
 
-හෙට (12) මධ්‍යම රාත්‍රී 12 සිට 13 වනදා මධ්‍යම රාත්‍රී 12 වනතෙක් ලෙඩ නිවාඩු වාර්තා කර වෘත්තිය ක්‍රියාමාර්ගයක නියැලීමට තීරණය කළ බව ඒකාබද්ධ තැපැල් වෘත්තිය සමිති පෙරමුණ පවසයි.
+The Joint Postal Societies announced that from 12 pm tomorrow until midnight, all postal services across Sri Lanka will be affected due to a strike. The convener, Chinthaka Bandara, mentioned that the strike will commence nationwide on the 13th morning. This action comes amid a severe crisis within the Department of Posts, facing around 2,000 employee shortages without any recruitment plans, leading to overworked staff struggling to provide essential services to the public.
 
-එහි කැඳවුම්කරු, චින්තක බණ්ඩාර පැවසුවේ 13 වනදා උදෑසන සිට රටපුරා සියලු තැපැල් කාර්යාල වසා දැමීමට කටයුතු කරන බවයි.
+🟩
 
-"තැපැල් දෙපාර්තමේන්තුව මේ වනවිට විශාල අර්බුදයකට ලක්වී තිබෙනවා. 2,000ක පමණ සේවක හිඟයක් ඇති වී තිබෙන නිසා වසර 4ක සිට උසස් වීම් සහ සේවක බඳවාගැනීම් සිදුවන්නේ නැහැ. මෙම හේතුව නිසා සේවකයන් හට විශාල පරිශ්‍රමයක් දරන්න වෙලා තිබෙනවා සේවය කිරීම සඳහා.  පුරප්පාඩු  නිසා ජනතාවට අත්‍යවශ්‍ය සේවා ලබාදීම අපහසුවී තිබෙනවා..."
+The Joint Postal Societies stated that tomorrow midnight will have been decided to record the sick leave of 12 pm tomorrow to 12 midnight.
+
+The convener, Chinthaka Bandara said that the 13th morning will cover all post offices throughout the country.
+
+"The Department of Posts has been intense crisis. There are about 2,000 employees shortages, and not to recruit and employee recruitment. For this reason, the employees have to strive to take great effort.  පුරප්පාඩු  නිසා ජනතාවට අත්‍යවශ්‍ය සේවා ලබාදීම අපහසුවී තිබෙනවා..."
 
 ◼️
 
 [Data](articles/622493f6.json)
+
+[Extended Data](ext_articles/622493f6.ext.json)
+
+---
+
+### விமான விபத்தில் மலாவியின்  துணை ஜனாதிபதி பலி
+
+*2024-06-11 16:35:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-மலாவியின்-துணை-ஜனாதிபதி-பலி/50-338764) · `ta`
+
+மலாவியின் துணை ஜனாதிபதி டாக்டர். சௌலோஸ் சிலிமா, விமான விபத்தில் உயிரிழந்தார். அவருடன் பயணித்த அவரது மனைவி உள்ளிட்ட  8 பேரும் விமான விபத்தில் உயிரிழந்தனர் என வெளிநாட்டு செய்திகள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/9fffbbd2.json)
 
 ---
 
@@ -94,6 +130,24 @@ That is wrong. People have made MPs as their representative. Yet people will cho
 
 ---
 
+### බාලවයස්කාර දැරිය අපහරණය කලාට ලැබුණු ඳඩුවම
+
+*2024-06-11 16:13:20* · [`adalk`](https://www.ada.lk/breaking_news/බාලවයස්කාර-දැරිය-අපහරණය-කලාට-ලැබුණු-ඳඩුවම/11-410146) · `si`
+
+පහලොස් හැවිරිදි බාල වයස්කාර දැරියක් අපහරණය කළා යයි වරදකරුවකුවූ අයෙකුට වසර 15 ක බරපතල වැඩසහිත සිර දඩුවමක්,වින්දිත දැරියට රුපියල් ලක්ෂ පහක වන්දි මුදලක් හා රුපියල් විසිපන්දහසක දඩ මුදලක් ගෙවන බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා අද (11) නියෝග කළේය.
+
+මෙසේ සිරදඩුවම්,වන්දි මුදල් හා දඩ මුදල් ගෙවීමට සිදුවූයේ කරන්දෙණිය , කිරිපේද්ද පදිංචි පුද්ගලයකුටය.
+
+2013 පෙබරවාරි මස 5 වැනිදා හෝ ඊට ආසන්න දිනයකදී විත්තිකරු පහලොස් හැවිරිදි බාලවයස්කාර දැරියක් දූෂණය කොට ඇතැයි කියමින් කරන්දෙණිය පොලීසිය විසින් සැකකරුට එරෙහිව චෝදනා ගොනු කොට නඩු පවරන ලදි.
+
+වසර 11 ක දීර්ඝ නඩු විභාගයකින් අනතුරුව විත්තිකරු විසින්  බාල වයසකාර දැරියක් දූෂණය කළ බවට සැකයකින් තොරව ඔප්පු වන්නේ යයි නිගමනය කළ මහාධිකරණ විනිසුරුවරයා ඔහුට වසර 15ක බරපතල වැඩ සහිත සිර දඩුවමක් රුපියල් විසිපන්දහසක වන්දි මුදලක් එය නොගෙවන්නේ නම් මාස හයක ලිහිල් සිර දඩුවමක් සහා වින්දිත දැරියට රුපියල් ලක්ෂ පහක වන්දි මුදලක් එය නොගෙවන්නේ නම් වසර දෙකක ලිහිල් සිර දඩුවමක්   නියම කළේය.
+
+...
+
+[Data](articles/b8e25314.json)
+
+---
+
 ### CoPF directs to take immediate measures to regulate Online Casinos
 
 *2024-06-11 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99805/copf-directs-to-take-immediate-measures-to-regulate-online-casinos-) · `en`
@@ -111,6 +165,8 @@ Officials representing the Ministry of Finance and the Central Bank were also of
 ...
 
 [Data](articles/99f64b72.json)
+
+[Extended Data](ext_articles/99f64b72.ext.json)
 
 ---
 
@@ -162,27 +218,33 @@ He also said that the risk of viral infection, characterized by symptoms such as
 
 ---
 
-### වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති රිමාන්ඩ්
+### Former Chairman of the Weligama Pradeshiya Sabha remanded
 
 *2024-06-11 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197647) · `si`
 
-වැලිගම ප්‍රාදේශීය සභාවේ හිටපු සභාපති පුෂ්පකුමාර බැට්ටගේ ජුනි මස 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+The former chairman of Weligama Pradeshiya Sabha has been remanded until June 20, linked to a case where two suspects were caught transporting unlicensed timber. This incident occurred when police officers were stuck on the Kotawila Warawila Wawarapitiya road, leading to the seizure of the timber, including mahogany and kosse wood, from a truck driven by two locals from Kamburugamuwa. The suspects had previously been arrested by the Kanquet Police on March 15 for similar offenses.
 
-ඒ, බලපත්‍රයක් නොමැතිව වටිනා දැව තොගයක් ප්‍රවාහනය කරමින් සිටි සැකකරුවන් දෙදෙනෙකු පොලිස් අත්අඩංගුවට ගෙන සිටියදී ඔවුන් මුදාගැනීමට පොලිස් රාජකාරියට බාධා සිදුකළ බව කියන සිද්ධියක් සම්බන්ධයෙනි.
+🟩
 
-කොටවිල පොලීසියේ නිලධාරීන් පසුගියදා කොටවිල වරකාපිටිය මාර්ගයේ රථවාහන රාජකාරියේ නිරතවී සිට තිබුණි.
+Former Chairman of the Weligama Pradeshiya Sabha has been remanded until June 20.
 
-එම අවස්ථාවේදී මාර්ගයේ ධාවනය වු කුඩා ලොරි රථයක් පරීක්ෂා කර ඇත.
+It was in connection with a incident that two suspects were transporting a stock of timber without a license.
 
-එහිදී බලපත්‍රයක් නොමැතිව නැදුන්, මහෝගනී, සහ කොස් යන දැව ලොරි රථයේ තිබූ බව පොලීසිය කියයි.
+The officers of the Kotawila Police were trapped in the Kotwila Warawila Wawarapitiya road.
 
-අනතුරුව එම ලොරි රථයේ රියදුරු සහ රිය සහායක පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබු අතර එම සැකකරුවන් දෙදෙනා   කඹුරුගමුව ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනකු බව පැවසෙයි.
+A small lorry that was run on the road was tested.
 
-එම ලොරි රථය යොදා ගනිමින් බලපත්‍ර නොමැතිව දැව ප්‍රවාහනය කරමින් සිටියදී ඉකුත් මාර්තු මස 15 වනදා කනංකේ පොලීසිය මගින් ද අත්අඩංගුවට ගෙන තිබෙන බව විමර්ශනවලදී හෙළිවී ඇත.
+The Timber, Mahogone, and Koss were in the lorry without a license.
+
+The lorry was taken into custody by the driver of the lorry and the police assistants. The suspects are two residents of Kamburugamuwa.
+
+Investigations have revealed that they were also taken into custody by the Kanquet Police on 15th March while the lorry was transporting timber without permits.
 
 ◼️
 
 [Data](articles/13c3985d.json)
+
+[Extended Data](ext_articles/13c3985d.ext.json)
 
 ---
 
@@ -218,6 +280,8 @@ Police had discovered lumber including walnut, mahogany, and jackfruit being tra
 
 [Data](articles/de369253.json)
 
+[Extended Data](ext_articles/de369253.ext.json)
+
 ---
 
 ### CoPF calls for immediate action to regulate online casinos
@@ -235,6 +299,8 @@ Representatives from the Ministry of Finance and the Central Bank concurred, not
 ...
 
 [Data](articles/43585e3d.json)
+
+[Extended Data](ext_articles/43585e3d.ext.json)
 
 ---
 
@@ -270,19 +336,25 @@ Emmeli Oakli, who was traveling on the plane, described the incident.
 
 ---
 
-### LPL කණ්ඩායම් සඳහා අලුත් නීතියක්
+### A new law for LPL groups
 
 *2024-06-11 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197646) · `si`
 
-අනාගතයේදී යම්කිසි පාර්ශ්වයක් ලංකා ප්‍රිමියර් ලීග් තරගාවලියට සහභාගීවන කණ්ඩායමක් මිලදී ගන්නේ නම් එය නිසි ක්‍රමවේදයකට සිදුකිරීමට අදාළ නීති ගෙන එන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Harin Fernando, Sri Lanka's Sports Minister, announced a new law aimed at preventing the sale of Lanka Premier League (LPL) teams to unsuitable buyers. He also discussed with the International Cricket Council (ICC), emphasizing the importance of fair play and consequences for losing matches.
 
-එමගින් නුසුදුසු පාර්ශ්ව LPL කණ්ඩායම් මිලදී ගැනීම වැළකෙන බව ඔහු පැවසීය.
+🟩
 
-"මම තව නීතියක් ගෙන එනවා. මම ඒක ICC එකත් එක්ක කතා කළා. මින් මතුවට කිසිම ටීම් එකක් ලංකාවේ ආවාට ගියාට ගන්න බෑ. ඔවුන් ඔවුන්ගේ ක්‍රිඩෙන්ශල්‍ස් දීලා..ඔවුන්ව වැලිඩේෂන් කරලා..ICC එකේ අනුමැතිය අරන් තමයි ඒ අයට ටීම් එකක් ගන්න පුළුවන් වෙන්නේ. එහෙම නැතිවුණොත් කාලෙන්කාලෙට එක එක අය එනවා.."
+Minister of Sports Harin Fernando says that if a group is purchasing a team from the Lanka Premier League, the laws relating to a proper system of Sri Lanka, "Sports Minister Harin Fernando says.
+
+He said that it would prevent the purchase of LPL groups inappropriate parties.
+
+"I bring another law. I talked that with the ICC. There is no tim in Sri Lanka. They have made their playgasm.. If you lose, there will be one one. "
 
 ◼️
 
 [Data](articles/bc1b7862.json)
+
+[Extended Data](ext_articles/bc1b7862.ext.json)
 
 ---
 
@@ -312,27 +384,35 @@ Meanwhile, a total of 2,487 dengue cases have been reported from Gampaha Distric
 
 ---
 
-### ඇපල් දුරකථනවලට Chat GPT එකතු වෙයි
+### Chat gp on apple phones add
 
 *2024-06-11 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197645) · `si`
 
-AI තාක්ෂණයේ පෙරමුණ ගැනීමට ප්‍රධාන පෙළේ තාක්ෂණ සමාගම් අතර තියුණු තරගයක් ඇති වී තිබෙන මොහොතක අමෙරිකානු ඇපල් සමාගම සිය ඉදිරි නිෂ්පාදන පෙළ AI තාක්ෂණය යොදාගනිමින් එළිදැක්වීමට කටයුතු කරමින් සිටී.
+Apple is focusing on integrating AI technology across its products, including the upcoming iPhone, which will feature advanced AI capabilities like responding to messages and emails through Siri. This move aims to enhance user experience and compete with other tech giants. The inclusion of ChatGPT, an AI app from OpenAI, in the iPhone is expected to boost sales as it caters to the growing demand for AI-enhanced devices.
 
-ඒ අනුව ඊයේ පැවති ඇපල් සමාගමේ වාර්ෂික සංවර්ධකයන්ගේ සමුළුවේදී (Developers Conferance) ප්‍රකාශ වුණේ ඇපල් සමාගමේ මීළඟ අයිෆෝන් නිෂ්පාදනය AI නැත්නම් කෘත්‍රිම බුද්ධියෙන් සන්නද්ධ කෙරෙන බවය.
+🟩
 
-විශේෂයෙන් Open AI සමාගමේ ජනප්‍රිය Chat GPT කෘත්‍රිම බුද්ධි යෙදුම අයිෆෝන්වලට අන්තර්ගත කරන බව ඇපල් සමාගම නිවේදනය කළේය.
+At a moment, American Apple is working on ai technology using a range of products to the top match between leading technology companies to take the lead in technology.
 
-එමෙන්ම හඬ මගින් අන්තර්ක්‍රියා කළ හැකි "සිරි" (Siri) යෙදුම මගින් ඇපල් දුරකථනවලට කෙටි පණිඩුව, ඊමේල් සහ තුන්වැනි පාර්ශ්වයක යෙදුම්වලටද ප්‍රතිචාර දැක්විය හැකි බව ඇපල් ප්‍රධාන විධායක ටිම් කුක් සඳහන් කරයි.
+Accordingly, Apple's annual developers confronted at the annual developers of Apple yesterday (the DEVELOPERS CONFERANCE) stated that Apple's next iPhone is equipped with AI or artificial intelligence.
 
-ඔබ වෙනුවෙන් ඊමේල් ලිවීමටත් අවස්ථාවට සරිලන අන්දමේ හඬින් පණිවුඩ යැවීමට  "සිරි"  AI යෙදුම සමත් වෙයි.
+Apple announced the popular Chat GPT popular Chat GPT in Open AI computing artificial intelligence app.
 
-ජනප්‍රිය  Chat GPT AI යෙදුම ඇපල් අයිෆෝන්වලට අන්තර්ගත කරනු ඇත්තේ මේ වසර අගදී ය.
+Apple CEOs states that Apple phones can also respond to Apple phones, emails, emails and third party in the voice.
 
-ඇපල් සමාගම මේ විදියට AI තාක්ෂණය පිළිබඳ අවධානය යොමුකරද්දි අයිෆෝන් අලෙවියේ වර්ධනයක් අපේක්ෂා කෙරේ.
+Siri "AI apps manifests to send emails for you to write emails for you.
 
-...
+The popular chat gpt Ai app is included in the iPhone this year.
+
+The iPhone marketing is expected to increase the iPhone marketing when Apple focuses on AI technology.
+
+Market analysts show that the iPhones who wish to update their mobile phones ai technique to be updated in ai techniques have been tempted to buy new iPhones.
+
+◼️
 
 [Data](articles/663298ba.json)
+
+[Extended Data](ext_articles/663298ba.ext.json)
 
 ---
 
@@ -1710,6 +1790,8 @@ During the donation of a smart classroom to the Bharathipuram Maha Vidyalayam in
 
 [Data](articles/dd23ad69.json)
 
+[Extended Data](ext_articles/dd23ad69.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the country
@@ -2303,75 +2385,5 @@ A group of foreign economic experts met with representatives of the National Peo
 [Data](articles/11aece38.json)
 
 [Extended Data](ext_articles/11aece38.ext.json)
-
----
-
-### Ulterior motive behind proposed service extension for AG: Opposition
-
-*2024-06-11 01:47:01* · [`dailyftlk`](https://www.ft.lk/news/Ulterior-motive-behind-proposed-service-extension-for-AG-Opposition/56-762924) · `en`
-
-MP Prof. G.L Peiris questions unprecedented nature of proposed extension, citing lack of historical precedent
-
-Criticises Govt.’s rationale for extension and deems arguments as baseless
-
-Highlights unique responsibilities of AG emphasising potential disruption to electoral process
-
-People’s Freedom Congress (FPC) MP Prof G.L. Peiris yesterday raised significant concerns regarding the proposed extension of Attorney General Sanjay Rajaratnam’s tenure by six months.
-
-Speaking at a press conference Peiris highlighted that such an extension has not been witnessed in Sri Lanka’s history. The MP stressed that allowing this extension amidst ongoing election campaigns could potentially disrupt the integrity of the electoral process.
-
-...
-
-[Data](articles/142f90cb.json)
-
-[Extended Data](ext_articles/142f90cb.ext.json)
-
----
-
-### Exchange IMF. To act according to the contract
-
-*2024-06-11 01:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-ஒப்பந்தப்படி-செயல்பட-வேண்டும்/175-338741) · `ta`
-
-Dr. Bandula Gunawardena, Sri Lanka's Transportation, Highways, and Media Minister, announced that the government must adhere to IMF loan agreements until 2028 while preparing the 2025 budget. He highlighted the need for foreign resources due to a projected shortfall of $5018 billion for international transactions, which previous experience showed required this amount. The IMF has agreed to provide $663 million and another $700 million to cover the budget deficit, alongside offers from the World Bank ($400 million) and the Asian Development Bank ($300 million), totaling potential loan relief of $3655 million for foreign debt restructuring.
-
-🟩
-
-Transportation, Highways and Media Minister Dr. Bandula Gunawardena said that when the government manages the government, the government should act in accordance with the International Monetary Fund until 2028, while preparing the budget document for 2025.
-
-Minister Bandula Gunawardena said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-When preparing the budget for the upcoming 2025, whoever guides the government, they must maintain the loan agreements for the International Monetary Fund until 2028. Accordingly, by 2025, the foreign resource gap will not be sufficient for international transactions. According to last year's experience, it requires $ 5018 billion.
-
-...
-
-[Data](articles/92cbd815.json)
-
-[Extended Data](ext_articles/92cbd815.ext.json)
-
----
-
-### Jayashankar meets with president
-
-*2024-06-11 01:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-ஜெயசங்கர்-சந்திப்பு/175-338740) · `ta`
-
-In a meeting between Sri Lanka's President Ranil Wickremesinghe and India's Senior Minister Dr. S. Jaishankar, discussions centered around accelerating development projects in Sri Lanka with Indian investments. Jaishankar announced plans to visit Sri Lanka soon to oversee these initiatives. The meeting also covered India's policies towards its top neighboring countries and potential investments in industries beyond India, including in Trincomalee. Wickremesinghe discussed a new Economic Change Act aimed at decentralizing power in agriculture, health, education, and economic management to provincial councils. He also mentioned the upcoming Truth and Reconciliation Act in Parliament by July. The conversation highlighted the importance of resolving issues in the Agricultural Modernization Program, particularly concerning fisherfolk disputes.
-
-🟩
-
-A meeting between President Ranil Wickremesinghe and Senior Minister of India Dr. S. Jayasankar was held yesterday.
-
-It has been investigated on the speeding up of the development projects that have been launched in Sri Lanka in Indian investment and intermediate development projects. Jayashankar said he would visit Sri Lanka soon to investigate these activities.
-
-The meeting was also exchanged at the policy of India, which is the number one neighboring countries.
-
-Jaishankar said that it was also investigated by the Indian government to be launched by Trincomalee and that many Indian investors will invest their investment and we are looking to invest in investors of countries other than India in this industry.
-
-Speaking at the meeting, President Ranil Wickremesinghe said that the powers of agriculture, health education and economic management will be given to the provincial councils through the new Economic Change Act.
-
-...
-
-[Data](articles/d8fea509.json)
-
-[Extended Data](ext_articles/d8fea509.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 15:34:52**
+As of **2024-06-12 15:53:18**
 
 ## Newspaper Stats
 
-*Scraped **30,014** Articles*
+*Scraped **30,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,578
 adaderanalk | 3,399
-tamilmirrorlk | 3,515
+tamilmirrorlk | 3,516
 virakesarilk | 4,595
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,832
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,012 (100.0%) of 30,014 articles have been extended.
+30,014 (100.0%) of 30,015 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,49 @@ In line with a proposal by the Minister of Tourism and Lands, the Cabinet has ap
 
 [Data](articles/ab14463c.json)
 
+[Extended Data](ext_articles/ab14463c.ext.json)
+
 ---
 
-### ජනපති සහ සාර්ක් මහලේකම් අතර හමුවක්
+### சாரைப்பாம்பை சாப்பிட்டவர் கைது
+
+*2024-06-12 15:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரைப்பாம்பை-சாப்பிட்டவர்-கைது/175-338813) · `ta`
+
+சாரைப்பாம்பு ஒன்றை அடித்து கொன்று, அந்த பாம்பின் தோலை உரித்து துண்டு துண்டாக வெட்டி சமைத்து சாப்பிட்ட சம்பவம் தொடர்பில், திருப்பத்தூர் அருகே உள்ள பெருமாபட்டு பகுதியைச் சேர்ந்தவர் இளைஞன் கைது செய்யப்பட்டுள்ளார்.
+
+பாம்பின் தோலை உரித்து, தண்ணீரில் அலசும் காட்சிகளை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார்.
+
+இந்த வீடியோ சமூக .வலைத்தளங்களில் வைரலாக பரவியது, அவர் மீது வனத்துறை நடவடிக்கை எடுத்துள்ளது. அவரை கைது செய்து அவரிடம் விசாரணை மேற்கொண்டதில், சாரைப்பாம்பை சமைத்து சாப்பிட்டதை ஒப்புக் கொண்டார். இதையடுத்து அவர் சிறையில் அடைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/04d5a477.json)
+
+---
+
+### President and SAARC Secretary meets Secretary General
 
 *2024-06-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197683) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ සාර්ක් මහලේකම් ගොලාම් සර්වාර් මහතා අතර හමුවක් අද (12) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදු විය.
+President Ranil Wickremesinghe met with SAARC Secretary General Gulam Services to discuss resolving project issues among SAARC nations, enhancing the Sri Lanka Agricultural Navinnamentivity Program, and developing the SAARC Cultural Center for modern art. The meeting included officials like Secretary to the President Saman Ekanayake.
 
-සාර්ක් රටවල් අතර ක්‍රියාත්මක වන විවිධ ව්‍යාපෘතිවලට අදාළව මතුවී තිබෙන ගැටලු විසඳාගැනීම පිළිබඳ මෙහිදී අවධානය යොමු කර ඇති අතර ඒ සඳහා අපක්ෂපාතීව මැදිහත් වන ලෙස ජනාධිපතිවරයා සාර්ක් මහ ලේකම්වරයාගෙන් ඉල්ලා තිබේ.
+🟩
 
-මෙරට ක්‍රියාත්මක කෘෂි නවීකරණ වැඩපිළිවෙළ පිළිබඳවද මෙහිදී සාකච්ඡා වී ඇති අතර එහිදී සාර්ක් රටවලින් ලබාගත හැකි සහාය පිළිබඳව ද අවධානය යොමුකර ඇත.
+President Ranil Wickremesinghe and SAARC Secretary General Gulam Services took place at the Presidential Secretariat this morning.
 
-ශ්‍රී ලංකාවේ සාර්ක් සංස්කෘතික මධ්‍යස්ථානය මොඩර්න් ආර්ට් සඳහා සංවර්ධනය කිරීම පිළිබඳව ද සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The President has requested the SAARC Secretary to the Secretary General to resolve the problems of various projects between the SAARC countries.
 
-ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ඇතුළු නිලධාරින් පිරිසක් මෙම අවස්ථාවට එක්වී තිබේ.
+The meeting has also been discussed on the Sri Lanka Agricultural Navinnamentivity Program.
+
+The Presidential Media Unit said that the development of SAARC Cultural Center in Sri Lanka was also discussed for Modern Art.
+
+A group of officers including the Secretary to the President Saman Ekanayake joined the occasion.
 
 ◼️
 
 [Data](articles/2d139418.json)
+
+[Extended Data](ext_articles/2d139418.ext.json)
 
 ---
 
@@ -2291,23 +2315,5 @@ Harrison asserted that numerous parties from both the Government and the opposit
 [Data](articles/10eb1bbc.json)
 
 [Extended Data](ext_articles/10eb1bbc.ext.json)
-
----
-
-### NMSJ urges immediate Parliamentary action on national unity and justice
-
-*2024-06-12 01:58:37* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-urges-immediate-Parliamentary-action-on-national-unity-and-justice/56-762973) · `en`
-
-The National Movement for Social Justice (NMSJ) led by former Speaker Karu Jayasuriya has issued a call to action, urging both the ruling party and the Opposition to urgently address critical national issues to foster unity and justice.
-
-Emphasising the need to cultivate mutual trust between the north and south of Sri Lanka, the NMSJ in a statement yesterday asserted that issues rooted in race and religion must never resurface. The organisation highlighted the imperative of addressing these challenges proactively, rather than leaving them for future generations.
-
-In its press release, the NMSJ stressed the importance of tackling these issues before the next Parliamentary Elections and called on the current Government, led by the President, and the Opposition to prioritise and thoroughly address these concerns during the 9th Parliamentary term, aiming for a just society.
-
-...
-
-[Data](articles/dfd1aef7.json)
-
-[Extended Data](ext_articles/dfd1aef7.ext.json)
 
 ---

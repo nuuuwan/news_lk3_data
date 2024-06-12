@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 08:01:46**
+As of **2024-06-12 08:13:45**
 
 ## Newspaper Stats
 
-*Scraped **29,920** Articles*
+*Scraped **29,922** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 271
 dbsjeyarajcom | 281
-bbccomsinhala | 290
+bbccomsinhala | 291
 newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,564
 adaderanalk | 3,379
-tamilmirrorlk | 3,501
+tamilmirrorlk | 3,502
 virakesarilk | 4,577
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,813
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,917 (100.0%) of 29,920 articles have been extended.
+29,920 (100.0%) of 29,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### විදුලි ගාස්තු ගැන උපයෝගිතා කොමිසමේ තීරණය ජූලි මැද
+### The Utility Commission on electricity tariffs decided on July
 
 *2024-06-12 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197664) · `si`
 
-නව විදුලි ගාස්තු සංශෝධන සම්බන්ධයෙන් ලංකා විදුලිබල මණ්ඩලය විසින් යොමුකර ඇති යෝජනාවලියට අනුමැතිය ලබාදීම ජූලි මස මැද බාගයේදී පමණ වියහැකි බව මහජන උපයෝගීතා කොමිසම පවසයි.
+The Public Utilities Commission in Sri Lanka is considering amendments to electricity tariffs, with the Ceylon Electricity Board (CEB) set to review these changes. The process includes obtaining public feedback, as stated by Chairman Professor Manjula Fernando. Despite this, Power Energy Minister Kanchana Wijesekera announced in Parliament that tariffs would decrease starting July 1st.
 
-එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේ, විදුලිබල මණ්ඩලයෙන් යොමුකර ඇති නව ගාස්තු සංශෝධන පිළිබඳ යෝජනාව සඳහා මහජන අදහස් ලබාගැනීමට ද අපේක්ෂා කරන බවය.
+🟩
 
-ඉන් අනතුරුව මහජන උපයෝගීතා කොමිසමේ අවසන් නිගමනය ලංකා විදුලිබල මණ්ඩලයට දැනුම්දෙන බව හෙතෙම සඳහන් කළේය.
+The Public Utilities Commission states that approval may be approved by the Ceylon Electricity Board regarding the amendments.
 
-එම අවසන් නිගමනය ලබාදීම ජුලි මස දෙවන සතිය වන විට සිදුකරන බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+The Chairman Professor Manjula Fernando said that the new tariffs referred to the CEB is also expected to obtain public views on the proposal on amendments.
 
-කෙසේ වෙතත් විදුලිබල බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පසුගියදා පාර්ලිමේන්තුවේදී පැවසුවේ ජූලි මස 01 වනදා සිට විදුලි ගාස්තු අඩු කරන බවය.
+The Ceylon Electricity Board (CEB) has then informed the conclusion of the Public Utilities Commission.
+
+Professor Manjula Fernando said that the final conclusion will be carried out by the second week in July.
+
+However, Power Energy Minister Kanchana Wijesekera recently told Parliament that electricity tariffs will be reduced from July 1st.
 
 ◼️
 
 [Data](articles/348b4975.json)
+
+[Extended Data](ext_articles/348b4975.ext.json)
 
 ---
 
@@ -70,25 +76,33 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/0bda27db.json)
 
+[Extended Data](ext_articles/0bda27db.ext.json)
+
 ---
 
-### මූල්‍ය අරමුදලේ ණය වැඩසටහනට අදාළ දෙවන සමාලෝචනය අද
+### Second review of the Monetary Fund Loan Program today
 
 *2024-06-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197663) · `si`
 
-ශ්‍රී ලංකාවේ ණය වැඩසටහනට අදාළ දෙවැනි සමාලෝචනය පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අද (12) සාකච්ඡා කිරීමට නියමිතව තිබේ.
+Today's discussion focused on the IMF's second review of Sri Lanka's loan program. The IMF noted significant progress in credit restructuring and expected strict adherence to credit program standards. Sri Lanka aims to reach agreements with external creditors and has shown improvements in controlling inflation and boosting economic growth.
 
-මෙම විධායක මණ්ඩල රැස්වීමේදී 2024 වසර සඳහා 4 වන වගන්තිය යටතේ උපදේශනය පිළිබඳව අවධානය යොමු කිරීමට අපේක්ෂා කරන බව ජාත්‍යන්තර මූල්‍ය අරමුදල සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා ජුලි කොසැක් මහත්මිය පසුගියදා මාධ්‍ය හමුවක් පවත්වමින් සඳහන් කළේය.
+🟩
 
-ඇය එහිදී තවදුරටත් පැවසුවේ ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගතකරණයට අදාළව ප්‍රමාණවත් සහ ශක්තිමත් ප්‍රගතියක් ලබා ඇති බවය.
+The International Monetary Fund Executive is to be discussed today (12) regarding the second review of the Sri Lankan loan program.
 
-ණය වැඩසටහනේ ප්‍රමිතීන්ට අනුකූලව ශ්‍රී ලංකාව බාහිර වාණිජ ණයහිමියන් සමග කඩිනමින් එකඟතාවකට පැමිණෙනු ඇතැයි දැඩි අපේක්ෂාවෙන් පසුවන බව ද ඇය එහිදී කියා සිටියාය.
+The International Monetary Fund Department (IMF Communications Department's Director of Communication Department) stated that Ms. July Kazaka was held recently to pay attention to the consultation under Section 4 at the Executive Board.
 
-එමෙන්ම ශ්‍රී ලංකාව උද්ධමනය පාලනය කිරීම, සංචිත ඉහළ නංවා ගැනීම, ආර්ථික වර්ධනය ආදිය සම්බන්ධයෙන් ප්‍රගතියක් අත්කරගෙන ඇති බව ද ජුලි කොසැක් මහත්මිය පසුගියදා එම මාධ්‍ය හමුවේදී වැඩිදුරටත් පැවසුවාය.
+She further stated that Sri Lanka has made adequate and strong progress in relation to the restructuring of credit.
+
+She said Sri Lanka would strict expectation to reach an agreement with external commercial creditors in accordance with the credit program standards.
+
+The media briefing further stated that Sri Lanka has made fun of inflation, enhancement, economic growth etc.
 
 ◼️
 
 [Data](articles/b1aed918.json)
+
+[Extended Data](ext_articles/b1aed918.ext.json)
 
 ---
 
@@ -273,6 +287,28 @@ It has been revealed that the other youth has been attacked by a young man over 
 [Data](articles/cf1c2489.json)
 
 [Extended Data](ext_articles/cf1c2489.ext.json)
+
+---
+
+### ගංවතුරක් නොදුටු දියණියක් නිවසක කොටු වී සිටි 'නේවි මාමා' බේරාගත් මෙහෙයුම
+
+*2024-06-12 02:14:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11er5l02zo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මම නේවි එකේ අවුරුදු 22ක්. මේ දුව කොහොම වීර ක්‍රියාවක් කළා ද කියලා මට හිතාගන්න බෑ''
+
+ගංවතුරක් නොදුටු දියණියක් නිවසක කොටු වී සිටි 'නේවි මාමා' බේරාගත් මෙහෙයුම
+
+අවිස්සාවේල්ල, වග පදිංචි චරිත්මා ජිනේද්‍රි මායිටිපේ, ගංවතුරට කොටු වී සිටි වැඩිහිටියන් දෙදෙනෙකුගේ දිවි බේරාගත් දිරිය දියණියක් වන්නීය.
+
+ජුනි දෙවැනි දා රාත්‍රියේ සිදු වූ ක්ෂණික ජල ගැලීමක් නිසා ඇගේ නිවස මෙන්ම යාබද නිවාස ජලයෙන් යට විය.
+
+එහිදී විදුලිය ද විසන්ධි වී පරිසරය අන්ධකාරයේ පැවති රාත්‍රියක ඇය පිහිනා ගොස් ජීවිත දෙකක් බේරා ගැනීමට සමත් වූවාය.
+
+''මම නාවික හමුදාවේ අවුරුදු 22ක් සේවය කරලා විශ්‍රාම ගිහින් ඉන්නේ. මගේ උසටත් වැඩියි වතුර පාර. මමයි බිරිඳයි ගෙදර උලුවස්සේ එල්ලිලා ඉන්නකොට තමයි චරිත්මා දුව ඇවිත් අපිව බේර ගත්තේ.'' යනුවෙන් ජී.ඩී මධුරංග BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/c2f715b0.json)
 
 ---
 
@@ -683,6 +719,22 @@ It was only after the 2022 Aragalaya that the need for system change was felt am
 ---
 
 ### 2024-06-11 (Tuesday)
+
+### சம்பள முரண்பாடுகளை நிவர்த்திக்க நிபுணர் குழு
+
+*2024-06-11 23:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நிபுணர்-குழு/175-338791) · `ta`
+
+அரச சேவையில் நிலவும் சம்பள முரண்பாடுகளை நிவர்த்திப்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க நிபுணர் குழுவை  நியமித்துள்ளார்.
+
+இந்த நிபுணர் குழுவின் தலைவராக முன்னாள் ஜனாதிபதி செயலாளரும், சிரேஷ்ட நிர்வாக உத்தியோகத்தருமான உதய செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
+
+இந்த குழுவில் பணிப்பாளர் நாயகமாக நான்கு உறுப்பினர்களும், மேலதிக உறுப்பினர்களாக நான்கு உறுப்பினர்களும் அங்கம் வகிக்கின்றனர். (a)
+
+◼️
+
+[Data](articles/f7db16f3.json)
+
+---
 
 ### Teachers union action
 
@@ -2095,53 +2147,5 @@ Authorities claimed nine persons including Vice Presidential Solless Chilama, in
 [Data](articles/cf73ca9f.json)
 
 [Extended Data](ext_articles/cf73ca9f.ext.json)
-
----
-
-### Teachers' principals protest tomorrow
-
-*2024-06-11 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197649) · `si`
-
-Teachers' union leaders will protest tomorrow against stopping average racket assessments. They argue that allowances for Ordinary Level exams have not been increased despite ongoing issues. The protest aims to ensure funds are allocated for teacher-principal salaries.
-
-🟩
-
-The Chief Secretary of the Ceylon Teachers Union Joseph Stalin says that the average racket assessments will be stopped tomorrow (12) afternoon.
-
-Accordingly, the Guru-Principal serves a series of depositories in front of 101 O / L and 100 Zonal Offices throughout the country.
-
-The Career Proceeding will be launched after the completion of the schools to immediately remove the salary allowance of the teacher-principal salary.
-
-"The O / L it is now happening. The allowance for these Ordinary Level Evaluation has not yet been provided. Still not increased. Tomorrow's O / L examination stops after 1. This is in writing to the Commissioner of Examinations. Our position is that the money is to be allocated for the wage of payouts of the Teacher - Principal salary. "
-
-◼️
-
-[Data](articles/0f02712d.json)
-
-[Extended Data](ext_articles/0f02712d.ext.json)
-
----
-
-### Sri Lanka stocks close up, Hayleys top traded
-
-*2024-06-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hayleys-top-traded-167491/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.11 percent, or 13.50 points, at 12,394; while the more liquid S&P SL20 Index closed up 0.13 percent, or 4.74 points, at 3,687.
-
-Turnover was 3.7 billion. A large part of this came from capital goods sector stocks (Rs1.9bn), particularly Hayleys Plc (Rs1bn). The share closed up at 105.25.
-
-John Keells Holdings Plc also saw higher trade volumes (Rs531mn), and closed flat at 204.00.
-
-Power sector stocks Windforce Plc (up at 19.70) and Vidullanka Plc (up at 9.50) announced it had signed a power purchase agreement for the development of a 10mw Vavunathivu II solar power plant in Batticaloa, together with HiEnergy Services (Pvt) Ltd.
-
-The joint venture is expected to attract a total investment of approximately 2.2 billion rupees, the company said in a stock exchange filing.
-
-...
-
-[Data](articles/ed0fa812.json)
-
-[Extended Data](ext_articles/ed0fa812.ext.json)
 
 ---

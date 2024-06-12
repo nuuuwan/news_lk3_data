@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 10:19:25**
+As of **2024-06-12 10:34:37**
 
 ## Newspaper Stats
 
-*Scraped **29,940** Articles*
+*Scraped **29,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,568
+adalk | 2,569
 adaderanalk | 3,384
 tamilmirrorlk | 3,505
 virakesarilk | 4,578
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,817
+adaderanasinhalalk | 4,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,937 (100.0%) of 29,940 articles have been extended.
+29,940 (100.0%) of 29,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### මාකුඹුර බස් නැවතුම්පලේ  බස් රථ අනතුරකින් පහක් රෝහලේ
+
+*2024-06-12 10:11:38* · [`adalk`](https://www.ada.lk/breaking_news/මාකුඹුර-බස්-නැවතුම්පලේ--බස්-රථ-අනතුරකින්-පහක්-රෝහලේ/11-410163) · `si`
+
+අද(12) උදෑසන  මාකුඹුර අධිවේගී  හුවමාරු බස් නැවතුම්පලේ තුලදී පෞද්ගලික බස රථයක තිරිංග අක්‍රිය වී රියදුරුට  පාලනය කර ගැනීමට නොහැකි වීමෙන් තවත් බසයක ගැටී බස් නැවතුම්පොළ ගොඩනැගිල්ල කඩාගෙන ධාවනය වී  සිදු වූ අනතුරකින්  පස් දෙනකු තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය කියයි‍.
+
+මෙම අනතුරෙන් බස් රථය තුල සිටි මගීන් පස් දෙනෙකු තුවාල ලබා 1990 ගිලන් රථයෙන් රෝහල ගත කර ඇත. අනතුර සිදුකල  බස් රථයේ රියදුරු පොලිස් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/ac128cd7.json)
+
+---
 
 ### Sri Lanka optimistic as IMF board meets for second review today
 
@@ -47,6 +61,22 @@ He further highlighted that a favorable outcome from the review is expected to u
 ...
 
 [Data](articles/5f3ca9f4.json)
+
+[Extended Data](ext_articles/5f3ca9f4.ext.json)
+
+---
+
+### මාර්ග නඩත්තු සේවකයින් අද විරෝධයේ
+
+*2024-06-12 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197669) · `si`
+
+2025 වසරේ මාර්ග සංවර්ධන අධිකාරියට බඳවා ගත් මාර්ග නඩත්තු අනියම් සේවකයින් මේවන තෙක් ස්ථිර නොකිරීමට විරෝධය පළ කරමින් අද (12) දිනයේ විරෝධතාවක නිරත වන බව එක්සත් පොදු සේවක සංගමය පවසයි.
+
+එහි ප්‍රධාන ලේකම් නිහාල් අජිත් මහතා සඳහන් කළේ, අදාළ ගැටලු සඳහා විසඳුම් ලබා දීමට පියවර නොගත හොත් දැඩි වෘත්තීය ක්‍රියා මාර්ගවලට යොමු වීමට සිදුවන බවය.
+
+◼️
+
+[Data](articles/be5a3fae.json)
 
 ---
 
@@ -447,6 +477,8 @@ I was fortunate to listen to this speech online and live, through ‘Horawa News
 ...
 
 [Data](articles/c3cfe36c.json)
+
+[Extended Data](ext_articles/c3cfe36c.ext.json)
 
 ---
 
@@ -1836,29 +1868,35 @@ He ordered that a fine of compensation would be charged and that if it was not p
 
 ---
 
-### කොළඹ නගරය ගැන නගර සභාවෙන් අනතුරු ඇඟවීමක්
+### Urban Council alerts about Colombo city
 
 *2024-06-11 19:25:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගරය-ගැන-නගර-සභාවෙන්-අනතුරු-ඇඟවීමක්/11-410156) · `si`
 
-ගතවූ දිනවල පැවැති අධික වර්ෂාව හේතුවෙන් කොළඹ නගරය තුළ බෝවන රෝග ශීඝ්‍රයෙන් පැතිරීමේ අවදානමක් උද්ගතව ඇතැයි කොළඹ මහ නගර සභාව අනතුරු අඟවයි.
+Colombo City faces a surge in infectious diseases post-rains. The Health Promotion Division advises washing hands with soap before eating, using toilets properly, treating diarrhea promptly, and practicing safe drain cleaning to prevent diseases like rat fever.
 
-ඒ අනුව එම රෝගවලින් ආරක්ෂා වීම සඳහා අනුගමනය කළ යුතු සෞඛ්‍ය පුරුදු මාලාවක් කොළඹ මහනගර සභාවේ සෞඛ්‍ය ප්‍රවර්ධනය අංශය විසින් මේ වනවිට නිකුත් කර තිබේ.
+🟩
 
-පහත සඳහන් සෞඛ්‍ය පුරුදු අනුගමනය කිරීමට කොළඹ මහ නගර සභා සීමාවේ සියලු ජනතාව කටයුතු කළ යුතු බවත් තමන් සහ තම පවුලේ සෞඛ්‍ය ආරක්ෂාව තහවුරු කර ගැනීම නගර වැසියන්ගේ වගකීම වන බවත් කොළඹ මහනගර සභාව වැඩිදුරටත් අවධාරණය කර සිටියි.
+The Colombo Municipal Council warns that the rapid spread of infectious diseases in Colombo city due to heavy rains.
 
-03.ආහාර පිළියෙල කිරීමට හා ආහාර ගැනීමට පෙර සබන් යොදා අත් සෝදන්න.
+Accordingly, the Health Promotion Division of the Colombo Municipal Council has been issued a series of health habits to be followed accordingly.
 
-07 මළපහ කිරීමට වැසිකිළි භාවිත කරන්න. දරුවන්ගේ මළපහ වැසිකිළියටම දමන්න.
+The Colombo Municipal Council has further emphasized that all the people of the Colombo Municipal Council should act and ensure their health care.
 
-09.දියර ලෙස මළපහ පිටවූයේ නම් ජීවනී ප්‍රතිකාරය පටන් ගන්න. වමනය පාචනය ඇත්නම් වහාම සෞඛ්‍ය උපදෙස් ලබාගන්න .
+03. Wash hands with soap using soap before he or eating.
 
-12. ජලය නොබසින කාණු පිරිසුදු කිරීමේදී සෞඛ්‍ය ආරක්ෂිත ක්‍රම අනුගමනය කරන්න. මී උණ සඳහා ලබා දී ඇති ඖෂධ නිසි පරිදි ලබා ගන්න ලබාගන්න.
+07 Use toilets to stood. Put the body's stools in the toilet.
 
-13.මදුරුවන් බෝවන ස්ථාන ඉවත් කර මදුරුවන්ගෙන් ආරක්ෂා වීමට කටයුතු කරන්න.
+09. If the stools were exit 09., begin lifesting treatment. If there is a vomiting diarrhea immediately seek health advice.
+
+12. Follow health protection methods in cleaning drains without water. Get the drugs provided for rat fever.
+
+13
 
 ◼️
 
 [Data](articles/c1220beb.json)
+
+[Extended Data](ext_articles/c1220beb.ext.json)
 
 ---
 
@@ -2105,47 +2143,5 @@ The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesin
 [Data](articles/3cbabeda.json)
 
 [Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### The Economic Transformation Bill offers imaginary solutions to real problems. The Bill is not a blueprint for efficiency but its antithesis.
-
-*2024-06-11 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84188) · `en`
-
-Ten years: that was how long three State institutions didn’t pay EPF and ETF monies to their retired and deceased employees.
-
-Most victims of this act of criminal injustice suffered and died in silence. A few (about 2,000) filed court cases. The larger society, including the media, political parties and the labour movement, didn’t know, didn’t care.
-
-This injustice happened in the only place it could have been perpetrated with legal, political, and societal impunity: the plantation sector. The culprits were the three State-owned plantation companies. The excuse was that these companies made losses. How many state-owned enterprises make profits? Do the loss-making ones (which include CEB, CPC, and Air Lanka) deny their employees EPF and ETF payments? What would happen if they even tried?
-
-...
-
-[Data](articles/de95984a.json)
-
-[Extended Data](ext_articles/de95984a.ext.json)
-
----
-
-### Malawi Vice President of Malawi dies
-
-*2024-06-11 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197652) · `si`
-
-Vice President of Malawi, part of the Maha Sahani, perished in an airplane crash along with 10 others. The aircraft vanished from radar before being located after a 24-hour search.
-
-🟩
-
-Vice President of the Malawi, a Vice President of the Maha Sahani has died in an air accident.
-
-There were collapsed aircraft missing, including the Vice President and 10 people.
-
-The flight fleated aircraft disappeared from the radar.
-
-The wreckage of the plane was found as a result of the operation implemented for over 24 hours.
-
-◼️
-
-[Data](articles/1d2200fb.json)
-
-[Extended Data](ext_articles/1d2200fb.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 20:04:34**
+As of **2024-06-12 20:19:12**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 4,842
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,060 (100.0%) of 30,064 articles have been extended.
+30,064 (100.0%) of 30,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### කාසියේ වාසිය ඉන්දියාව ට
+### India to benefit the coin
 
 *2024-06-12 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197694) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ අමෙරිකාව සහ ඉන්දියාව අතර තරගය අද (12) පැවැත්වෙයි.
+India stands to gain from its participation in today's Twenty20 World Cup match against the United States.
+
+🟩
+
+The United States and India will be held today (12) in the Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/369a7118.json)
 
+[Extended Data](ext_articles/369a7118.ext.json)
+
 ---
 
-### யாழ். கல்வி வலயங்களுக்கு முன்பாக கவனயீர்ப்பு போராட்டம்
+### Yall. Attention struggle
 
 *2024-06-12 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185951) · `ta`
 
-யாழ்ப்பாண மாவட்டத்தில் உள்ள கல்வி வலயங்களுக்கு முன்பாக 12ஆம் திகதி புதன்கிழமை மதியம் கவனயீர்ப்பு போராட்டம் நடத்தப்பட்டது.
+Protesters marched in Jaffna, demanding teacher salary issues be resolved, publication rights for teachers, better declarations for poor teachers, and improved student nutrition. The Sri Lanka Teachers Union is involved in this struggle.
 
-யாழ்ப்பாணம், வடமராட்சி, தென்மராட்சி, வலிகாமம், தீவகம் என வலயக் கல்வி அலுவலகங்களுக்கு முன்பாக பதாகைகளைத் தாங்கியவாறு அதிபர் ஆசிரியர்களின் சம்பள முரண்பாட்டை நீக்குமாறும், அதிபர் ஆசிரியர்களின் பதவி உயர்வை நடைமுறைப்படுத்து, அதிபர் ஆசிரியர்களில் கொள்ளை அடிக்கும் பணத்தை வழங்கு, மாணவர்களின் போசாக்கை உறுதிப்படுத்து உள்ளிட்ட பல்வேறு கோரிக்கைகளைத் தாங்கியவாறு குறித்த கவனயீர்ப்பு போராட்டம் நடத்தப்பட்டது.
+🟩
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து இலங்கை ஆசிரியர் சங்கத்தினால் நாடாளாவிய ரீதியில் போராட்டம் முன்னெடுக்க அழைப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+A protest march was held on Wednesday afternoon in front of the educational zones in the Jaffna district.
+
+Various demands have been made on various demands, including the elimination of the salary conflict of the Chancellor Teachers, the Publication of Chancellor Teachers, the Poor Declaration of Chancellor Teachers, and the Nutrition of Students.
+
+It is noteworthy that the Sri Lanka Teachers Union has been invited to carry out a struggle for various demands.
 
 ◼️
 
 [Data](articles/c766134d.json)
+
+[Extended Data](ext_articles/c766134d.ext.json)
 
 ---
 
@@ -88,6 +100,8 @@ The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulato
 
 [Data](articles/5116c294.json)
 
+[Extended Data](ext_articles/5116c294.ext.json)
+
 ---
 
 ### Another petition of the election
@@ -116,21 +130,27 @@ Prime Minister Dinesh Gunawardena, who has been appointed as the respondents in 
 
 ---
 
-### நாட்டில் கணினி அறிவு 39 சதவீதமாக உயர்வு
+### In the country, computer knowledge is up 39 percent
 
 *2024-06-12 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185927) · `ta`
 
-நாட்டில் கணினி அறிவு 39 சதவீதத்தால் உயர்வடைந்துள்ளது. மேல் மாகாணம் உயர்வான மட்டத்திலும், கிழக்கு மாகாணம் குறைவான மட்டத்திலும் காணப்படுகிறது என தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களத்தின் மேலதிக பணிப்பாளர் நாயகம் சாமலி கருணாரத்ன தெரிவித்தார்.
+Computer literacy in the country has surged by 39%, with notable disparities between provinces. The Western Province leads with a 33.55% ranking, while the Eastern Province lags below 8.6%. Gender-wise, male computer skills have grown by 40.9%, compared to 37.2% for females. Digital knowledge across all ages has increased significantly, especially among 20-24 year olds, reaching 93.8%. Internet usage stands at 51%, with email adoption slightly lower.
 
-தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களத்தில் புதன்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-வயது மற்றும் தொழிற்றுறை முன்னேற்றம் உள்ளிட்ட காரணிகளை அடிப்படையாகக் கொண்டு கணினி அறிவு தொடர்பில் கணிப்புக்கள் மேற்கொள்ளப்பட்டன. இதற்கமைய ஆண்களின் கணினி அறிவு 40.9 சதவீதமாகவும், பெண்களின் கணினி அறிவு 37.2 சதவீதத்தால் உயர்வடைந்துள்ளது. 15 முதல் 19 வயதுக்குட்பட்டவர்களின் கணினி அறிவு வீதம் 79.4 சதவீதமாக காணப்படுகிறது.
+System Knowledge has increased by 39 percent in the country. The Additional Director General of the Department and Statistics Department Samali Karunaratne said that the Western Province is at a high level and the Eastern Province.
 
-அத்துடன், 5 முதல் 69 வயதுக்குட்பட்டவர்களின் டிஜிட்டல் அறிவு 63.5 சதவீதத்தால் உயர்வடைந்துள்ளது. ஆண்களின் டிஜிட்டல் அறிவு 65.9 சதவீதமாகவும், பெண்களின் டிஜிட்டல் அறிவு 61.3 சதவீதத்தாலும் உயர்வடைந்துள்ளன. இதற்கமைய 20 முதல் 24 வயதுக்குட்பட்டவர்களின் டிஜிட்டல் அறிவு 93.8 சதவீதமாக காணப்படுகிறது.
+He was speaking at a media briefing held at the Department of Value and Statistics on Wednesday (12).
+
+Constants on computer knowledge based on factors including age and vocational improvement. Accordingly, men's computer knowledge has risen by 40.9 per cent and women's computer knowledge has increased by 37.2 per cent. The computer knowledge rate of 15 to 19 years of age is 79.4 percent.
+
+In addition, digital knowledge of 5 to 69 years of age has risen by 63.5 per cent. Men's digital knowledge rose by 65.9 per cent and women's digital knowledge increased by 61.3 per cent. Accordingly, digital knowledge of 20 to 24 years of age is 93.8 percent.
 
 ...
 
 [Data](articles/5a1f89c5.json)
+
+[Extended Data](ext_articles/5a1f89c5.ext.json)
 
 ---
 

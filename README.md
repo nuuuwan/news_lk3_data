@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 20:53:26**
+As of **2024-06-12 21:04:24**
 
 ## Newspaper Stats
 
-*Scraped **30,065** Articles*
+*Scraped **30,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,407
 tamilmirrorlk | 3,520
 virakesarilk | 4,602
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,842
+adaderanasinhalalk | 4,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,065 (100.0%) of 30,065 articles have been extended.
+30,065 (100.0%) of 30,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### පැහැරගත් දැරියක් භූගත කුටියකින් සොයාගනී
+
+*2024-06-12 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197695) · `si`
+
+බලහත්කාරයෙන් පැහැරගෙන ගොස් භූගත කුටියක සඟවා සිටි 14 හැවිරිදි දැරියක් ඉන් මුදාගැනීමට බුත්තල පොලීසිය අද (2) සමත් වුණි.
+
+දැරිය පැහැරගෙන තිබුණේ ඇයගේ පෙම්වතා බව පැවසෙන 20 හැවිරිදි තරුණයෙකු විසිනි.
+
+බුත්තල කටුගහගල්ගේ ප්‍රදේශයේ නිවසකට පැමිණි තරුණයන් තිදෙනෙකු එහි නිදා සිටි 14 හැවිරිදි දැරිය පැහැරගෙන ගොස් තිබුණේ පසුගිය 9 වනදා රාත්‍රියේදී ය.
+
+එහිදී පැහැරගැනීම වැළැක්වීමට උත්සාහ කළ දැරියගේ පියාගේ අතකට එක් තරුණයෙකු තියුණු ආයුධයකින් පහරදී ඇති බව පොලීසිය පැවසීය.
+
+අනතුරුව සිද්ධිය සම්බන්ධයෙන් දැරියගේ පියා පොලීසියට සිදුකළ පැමිණිල්ලකට අනුව අත්අඩංගුවට ගෙන වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරු මෙම මස 24 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+කෙසේවෙතත් සිදුකළ දීර්ඝ විමර්ශනයේදී ප්‍රධාන සැකකරු සමග දැරිය පැහැරගැනීමට පැමිණි අනෙක් තරුණයන් දෙදෙනා අනාවරණ කරගැනීමට පොලීසියට හැකිවුණි.
+
+...
+
+[Data](articles/51a76dc7.json)
+
+---
 
 ### India to benefit the coin
 
@@ -2299,25 +2321,5 @@ It is located twice as much as the Mankatan Central Park.
 [Data](articles/a3e0090c.json)
 
 [Extended Data](ext_articles/a3e0090c.ext.json)
-
----
-
-### LSSP's reply legal teachers will leave work at 2.00 today
-
-*2024-06-12 10:55:52* · [`adalk`](https://www.ada.lk/breaking_news/සා-පෙ-උත්තර-පත්‍ර-බලන-ගුරුවරු-අද-2-00ට-වැඩ-අත්හරියි/11-410167) · `si`
-
-Joseph Stalin, Secretary of the Ceylon Teachers Union, was informed that teachers participating in the rapid allowance process for the O/L exam would leave work early today. This decision involves 35,000 teachers who had previously received a compact allowance of Rs. 3000 million for their involvement in Advanced Level evaluations last year.
-
-🟩
-
-The Ceylon Teachers Union Secretary Joseph Stalin is informed that the teachers who are involved in the rapid allowance of the O / L examination.
-
-The 35,000 teachers who have participated in the campaign at the Zonal Office level will be connected to this program.. Teachers who participated in Advanced Level evaluations last year were given a compact allowance for Rs. 3000 million.
-
-◼️
-
-[Data](articles/874df20d.json)
-
-[Extended Data](ext_articles/874df20d.ext.json)
 
 ---

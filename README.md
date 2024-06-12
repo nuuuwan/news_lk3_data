@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 08:34:53**
+As of **2024-06-12 08:53:34**
 
 ## Newspaper Stats
 
-*Scraped **29,925** Articles*
+*Scraped **29,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,84 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,564
+adalk | 2,566
 adaderanalk | 3,380
 tamilmirrorlk | 3,503
 virakesarilk | 4,577
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,814
+adaderanasinhalalk | 4,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,924 (100.0%) of 29,925 articles have been extended.
+29,925 (100.0%) of 29,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### හිටපු දිසාපතිවරිය, පොලීසිය හා යුද හමුදාව මාධ්‍යවේදියෙකුගෙන් සමාව ගනී
+### කොළඹට බෙදන වතුර ගැන ජලසම්පාදනයෙන් අලුත් කතාවක්
+
+*2024-06-12 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197666) · `si`
+
+ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් බෙදා හරින ජලය පානය කිරීමෙන් කොළඹ අවට ප්‍රදේශවල ජනතාවට පාචනය හා වමනය යන රෝග තත්ත්වයන් වැලඳී ඇති බවට පළ වන වාර්තා සම්පූර්ණයෙන්ම අසත්‍ය බව එම මණ්ඩලය පවසයි.
+
+එහි සහකාර සාමාන්‍යාධිකාරී ඒ.පී.ආර්.ජේ. විජේසිංහ මහතා සඳහන් කළේ, ජනතාවට පානීය ජලය සපයනු ලබන්නේ නිසි ක්‍රමවේදයෙන් යටතේ සිදුකරන පිරිපහදු ක්‍රියාවලියකින් අනතුරුව බවය.
+
+"ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් සපයනු ලබන ජලය පවිත්‍රකරණයෙන් පසුව, නිරන්තරයෙන් රසායනාගාර පරීක්ෂණයකට භාජනය කරනවා. ඒ අනුව සිදුකරන පරීක්ෂණ අනුව ක්ෂ්ද්‍රජීව විද්‍යාත්මක පරීක්ෂණ ඒ වගේම රසායනික සියල්ල සිදුකරනවා. එම ජලය ශ්‍රී ලංකා ප්‍රමිතියට අනුකූලයි. ඒ අනුව ඔය කියන කිසිදු රෝගකාරක ක්ෂුද්‍ර ජීවින් අන්තර්ගත නොවන පිරිසිදු ජලය තමා ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සපයන්නේ. ගංවතුර එක්ක මොන ජලය ආවත් අපි අදාළ පිරිසිදු කිරීම් කරලා ප්‍රමිතියෙන් යුතු පානීය ජලය තමා ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සපයන්නේ. ඒ නිසා කිසිදු බියක් ඇති කරගත යුතු නෑ."
+
+◼️
+
+[Data](articles/8f039aa6.json)
+
+---
+
+### Thema Collection opens eco luxury ‘Waraka’ in Udawalawe
+
+*2024-06-12 08:15:00* · [`islandlk`](http://island.lk/thema-collection-opens-eco-luxury-waraka-in-udawalawe/) · `en`
+
+Thema Collection recently in Udawalawe opened its latest addition to its unque collection of theme properties, the eco-luxury retreat ‘Waraka’ a 12 roomed boutique hotel.
+
+Charg’e d’ Affaires of the Japanese Embassy in Sri Lanka Katsuki Kotaro was the Chief Guest and and he cut the ribbon at the auspicious time to signify the openning of the latest boutique hotel in Sri Lanka.
+
+The Chairman of the family owned company, veteran hotelier travel trade giant Chandra Wickramasinghe said the company has invested Rs. 220 million on the property.
+
+‘Waraka’ is not just another property but a holiday experience that goes hand in hand with nature bio diversity and sutainability, Wickramasignhe explained.
+
+Chief Guest Kotaro said that he was highly impressed with the property and ‘Waraka’ ‘s addctive charms are a combination of tranquility, modernity with innovation.
+
+...
+
+[Data](articles/a7b3eef6.json)
+
+[Extended Data](ext_articles/a7b3eef6.ext.json)
+
+---
+
+### Former Government Courtesy, Police and Army troops apologize to a journalist
 
 *2024-06-12 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197665) · `si`
 
-රත්නපුර දිසාපති කාර්යාලය තුළට හිස් වැසුමක් පැළඳ ඇතුළු වූයේ යැයි චෝදනා කරමින් රත්නපුර පොලීසියේ කොස්තාපල්වරයෙකු සහ කුරුවිට හමුදා කඳවුරේ නිලධාරියකු  මාධ්‍යවේදියෙකුට පහර දීමේ සිද්ධිය සම්බන්ධයෙන් රත්නපුර එවක දිසාපති, රත්නපුර පොලිසියේ එවක ස්ථානාධිපතිවරයා ඇතුළු පිරිසක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ ඊයේ (11) අදාළ මාධ්‍යවේදියාගෙන් විවෘත අධිකරණයේදී වැඳ සමාව ගත්තේය.
+Ratnapura Police and military personnel apologized to journalist Sarath Wimalaratne in court, resolving a dispute over a 2019 incident where he claimed he was assaulted during a visit to their offices. The apology came after the journalist filed a fundamental rights petition, leading to no further legal action being taken against him.
 
-ඒ අනුව අදාළ ආරවුල සමථයට පත් කෙරුණු අතර පෙත්සම්කාර මාධ්‍යවේදියාට එරෙහිව මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනුකර තිබූ නඩුකරය ඉල්ලා අස්කර ගන්නා බවත් පෙත්සම්කරුට ඉදිරියේදී කිසිදු ක්‍රියා මාර්ගයක් නොගන්නා බවත් වග උත්තරකාර පොලිස් නිලධාරීන් විසින් අධිකරණය හමුවේ එකඟතාවය පළ කළා.
+🟩
 
-මාධ්‍යවේදී සරත් විමලරත්න මහතා විසින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක්  මුර්දු ප්‍රනාන්දු සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+An army of Ratnapura Police and the OIC of Ratnapura Police, the OIC of Ratnapura Police and the OIC of Ratnapura Police have bowed down in the Supreme Court with a journalist at the Supreme Court yesterday.
+
+Accordingly, the dispute has been resolved and the petitioner has not taken any action against the petitioner's courts against the petitioner's Court.
+
+A fundamental rights petition filed by journalist Sarath Wimalaratne was called before the fundamental rights petition.
+
+Deputy Solicitor General Madhawa Tennakoon, who appeared in behalf of the respondents, informed the petitioner to apologize to the petitioner and it will not take legal action against him.
+
+Former Government Agent in Ratnapura, the OIC of the OIC of the Petivu, Malachila, OIC in Ratnapura, the OIC of the Employee, Eastern Police OIC, has bowed the petitioner at the Govili Police Station, in the Kuruwita Army.Was forgiven.
 
 ...
 
 [Data](articles/19c11044.json)
+
+[Extended Data](ext_articles/19c11044.ext.json)
 
 ---
 
@@ -992,28 +1040,6 @@ Niluka Gunatilake, Head of Cards at Nations Trust Bank, stated, “With ‘Cuisi
 
 ---
 
-### Thema Collection opens eco luxury ‘Waraka’ in Udawalawe
-
-*2024-06-11 23:03:00* · [`islandlk`](http://island.lk/thema-collection-opens-eco-luxury-waraka-in-udawalawe/) · `en`
-
-Thema Collection recently in Udawalawe opened its latest addition to its unque collection of theme properties, the eco-luxury retreat ‘Waraka’ a 12 roomed boutique hotel.
-
-Charg’e d’ Affaires of the Japanese Embassy in Sri Lanka Katsuki Kotaro was the Chief Guest and and he cut the ribbon at the auspicious time to signify the openning of the latest boutique hotel in Sri Lanka.
-
-The Chairman of the family owned company, veteran hotelier travel trade giant Chandra Wickramasinghe said the company has invested Rs. 220 million on the property.
-
-‘Waraka’ is not just another property but a holiday experience that goes hand in hand with nature bio diversity and sutainability, Wickramasignhe explained.
-
-Chief Guest Kotaro said that he was highly impressed with the property and ‘Waraka’ ‘s addctive charms are a combination of tranquility, modernity with innovation.
-
-...
-
-[Data](articles/a7b3eef6.json)
-
-[Extended Data](ext_articles/a7b3eef6.ext.json)
-
----
-
 ### Share market forges ahead in an optimistic spirit; turnover exceeds Rs. 3 billion
 
 *2024-06-11 22:59:00* · [`islandlk`](http://island.lk/share-market-forges-ahead-in-an-optimistic-spirit-turnover-exceeds-rs-3-billion/) · `en`
@@ -1454,6 +1480,24 @@ The Directorate has been issued to the President within three months of their re
 
 ---
 
+### මාව අපවත් කරන්න සැලසුමක් තිබෙනවා
+
+*2024-06-11 19:51:43* · [`adalk`](https://www.ada.lk/breaking_news/මාව-අපවත්-කරන්න-සැලසුමක්-තිබෙනවා/11-410158) · `si`
+
+පාස්කු ප්‍රහාරය වැනි යම් සිද්ධියක් පොසොන් උත්සවය ඉලක්ක කර ගනිමින් ඓතිහාසික මිහින්තලා පුදබිම තුළදී සිදු වුවහොත් ඊට වගකිවයුත්තන් එල්ලා මැරීම නොව, මෝරුන්ට කෑමට දැමිය යුතු බව ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැඟුණවැවේ ධම්මරතන හිමිපාණෝ පැවසූහ.
+
+උන්වහන්සේ මේ බව පැවසුවේ ඊයේ (10දා)ඌව සහ මධ්‍යම පළාත්වල හිටපු ආණ්ඩුකාරවරයෙකු වන නීතිඥ මෛත්‍රී ගුණරත්න මහතා මිහින්තලා රජමහා විහාරස්ථානයට උන්වහන්සේ බැහැදැක සිදු කළ සාකච්ඡාවකදීය.
+
+"පොසොන් කමිටුවපවසන පරිදි ලක්ෂ විස්සක පමණ ජනතාවක් අනුරාධපුරයට මිහින්තලයට පැමිණෙතැයි අපේක්ෂා කරනවා.මේ වන තෙක් ආරක්ෂක හමුදාව මිහින්තලේ ආරක්ෂාවට කැඳවලා නැහැ.ආණ්ඩුවට මාව ත්‍රස්තවාදියෙක් විදියට පේන නිසා ජීවිත හානියක් වුණත් සිදු කරන්න පුළුවන්. මාව මරන්න පසුගිය කාලයේ සැලසුම් තිබුණා දැනටත් තිබෙනවා.
+
+රටේ ජනතාවට සීරීමක්වත් වෙන්න බෑ. මේ තමයි රටේ ජනතාවගේ පළමු උත්සවය.මිහිඳු හාමුදුරුවන්ගේ දහම ඉගෙන ගත්ත කිසිම කෙනෙක් පාර්ලිමේන්තුවේ නැහැ. එහෙම හිටිය නම් පොසොන් පින්කමට මේ තරම් අරියාදු කරන්නේ නැහැ. මෙය ජනතාවගේ පින්කමක්. පාලකයෝ මේවා කළ යුතුයි.
+
+...
+
+[Data](articles/0d1a9c5a.json)
+
+---
+
 ### 60 thousand people annually in the country
 
 *2024-06-11 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185858) · `ta`
@@ -1563,6 +1607,24 @@ He ordered that a fine of compensation would be charged and that if it was not p
 [Data](articles/06054b96.json)
 
 [Extended Data](ext_articles/06054b96.ext.json)
+
+---
+
+### කුකුළු මස් රතු පාටයි නම් මිලදී ගන්න එපා
+
+*2024-06-11 19:21:27* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-රතු-පාටයි-නම්-මිලදී-ගන්න-එපා/11-410155) · `si`
+
+වතුර තත්ත්වය නිසා හා වෛරස් තත්ත්වයන් යටතේ මරණයට පත් වූ කුකුළු මස් වෙළෙඳ පොළට පැමිණෙන බවට තොරතුරු වාර්තා වී තිබෙන බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ පොදු සේවක සංගමයේ ලේකම් අජිත් ජයසුන්දර මහතා සඳහන් කළේය.
+
+මස් පිණිස වෙළෙඳ පොළට නිකුත් කර තිබෙන කුකුළු මස් සුදු පැහැයක් ගන්නා බවත් එහෙත් ගංවතුර තත්ත්වය තුළ හාවෛරස් රෝගවලින් මරණයට පත්වන කුකුළන්ගේ මස් රතු පැහැට හුරු බවද පවසා සිටියේය.
+
+පාරිභෝගික ජනතාව මේ පිළිබඳව අවධානය යොමු කර මස් මිලදී ගැනීම සිදුකරන ලෙසත් පසුගිය දිනවල ඇති වූ ගංවතුර තත්ත්වයන්වලට කුකුල් ගොවිපොළවල් කිහිපයක් හසු වී තිබෙන බවත් පොදුවේ ගොවිපළවල විවිධ වෛරස් තත්ත්වයන් පැතිරීම නිසා කුකුළන් මිය යාම සිදුවන බවද සඳහන් කළේය.
+
+ගංවතුර තත්ත්වයන්ට හා වෛරස්වලට ගොදුරු වී මිය යන කුකුළු මස් භාවිත කිරීම කිරීම සිදුනොකරනලෙසද එම සංගමය ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/ccd17018.json)
 
 ---
 
@@ -2081,67 +2143,5 @@ Wickremesinghe who was in India to attend Modi’s swearing in ceremony met with
 [Data](articles/e1f54d2f.json)
 
 [Extended Data](ext_articles/e1f54d2f.ext.json)
-
----
-
-### Severe weather warning for rough seas, strong winds
-
-*2024-06-11 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Severe-weather-warning-for-rough-seas-strong-winds/108-284610) · `en`
-
-June 11 (Daily Mirror) - Coastal regions in Sri Lanka are bracing for severe weather conditions as the Meteorology Department has issued a warning for very rough seas and strong gusty winds in several sea areas.
-
-Accordingly, the sea areas extending from Trincomalee to Kalpitiya, via Kankasanthurai and Mannar, are expected to be particularly affected.
-
-These regions will experience very rough conditions with wind speeds reaching between 60-70 km/h. Further, the sea areas stretching from Hambantota to Pottuvil are also forecasted to face very rough seas with similarly strong gusty winds.
-
-As such, the Meteorology Department has urged naval and fishing communities to exercise extreme caution and remain vigilant.
-
-In addition to the marine warning, significant rainfall is expected at times in the Western, Sabaragamuwa, and North-Western provinces, as well as in the Kandy, Nuwara Eliya, Galle, and Matara districts.
-
-...
-
-[Data](articles/0a81d2d6.json)
-
-[Extended Data](ext_articles/0a81d2d6.ext.json)
-
----
-
-### India should act strictly on fishermen poaching, bottom trawling in Sri Lankan sea: Minister
-
-*2024-06-11 17:07:00* · [`economynextcom`](https://economynext.com/india-should-act-strictly-on-fishermen-poaching-bottom-trawling-in-sri-lankan-sea-minister-167490/) · `en`
-
-ECONOMYNEXT – India and its Southern Tamil Nadu state should take strict actions against their fishermen who encroach into and involved in illegal fishing in Sri Lankan seas with the usage of banned bottom trawler methods, the island nation’s Fisheries Minister Douglas Devananda said.
-
-Sri Lanka has seen bottom trawling by Indian fishermen during the peak fishing season in Sri Lanka’s northern waters off Jaffna. Bottom trawling is banned by Sri Lanka and is a punishable offense, which has led to arrest of a raft of Indian fishermen along with their bottom trawlers.
-
-Depletion of fish resources in the Northern sea in the face of continuous Indian bottom trawling, a method of banned fishing that involves dragging heavy weighted nets across the sea floor, has pushed some Northern fishermen to take up Chinese funded sea cucumber farming.
-
-Sri Lanka’s North is just 27 km from the South Indian state of Tamil Nadu.
-
-...
-
-[Data](articles/3d59306a.json)
-
-[Extended Data](ext_articles/3d59306a.ext.json)
-
----
-
-### Taxi driver sentenced to 10 years RI for raping underage girl
-
-*2024-06-11 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99808/taxi-driver-sentenced-to-10-years-ri-for-raping-underage-girl) · `en`
-
-A taxi driver was sentenced to 10 years of rigorous imprisonment by the Colombo High Court for raping an underage girl nearly a decade ago.
-
-The 35-year-old man had been accused of sexually assaulting the girl who was living in a rented house near his residence and was preparing to sit for the G.C.E. Ordinary Level (O/L) examination.
-
-Delivering the verdict today, High Court Judge Aditya Patabendige also ordered the convict to pay a fine of Rs. 10,000 and ordered him to pay Rs. 50,000 in compensation to the victim.
-
-The High Court Judge further ruled that if the compensation is not paid, it will be recovered as an additional fine and if the convict fails to pay that fine too, he will be sentenced to an additional two years of rigorous imprisonment.
-
-◼️
-
-[Data](articles/4d114851.json)
-
-[Extended Data](ext_articles/4d114851.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 15:04:14**
+As of **2024-06-12 15:19:11**
 
 ## Newspaper Stats
 
-*Scraped **30,005** Articles*
+*Scraped **30,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,578
-adaderanalk | 3,396
+adaderanalk | 3,398
 tamilmirrorlk | 3,515
-virakesarilk | 4,590
+virakesarilk | 4,595
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,831
 
@@ -26,27 +26,127 @@ adaderanasinhalalk | 4,831
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,004 (100.0%) of 30,005 articles have been extended.
+30,005 (100.0%) of 30,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### ශ්‍රී ලංකා කණ්ඩායම පරාජය වූ හේතුව තීක්ෂණ කියයි
+### Sri Lanka calls on Global South to collectively address climate change, debt burden & food security
 
-*2024-06-12 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197682) · `si`
+*2024-06-12 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99832/sri-lanka-calls-on-global-south-to-collectively-address-climate-change-debt-burden-food-security) · `en`
 
-20යි 20 ලෝක කුසලාන තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායම මෙතෙක් දැක්වූ දක්ෂතා පිළිබඳව කිසිසේත් සෑහීමකට පත්විය නොහැකි බව ශ්‍රී ලංකා දඟපන්දු යවන ක්‍රීඩක මහීෂ් තීක්ෂණ සඳහන් කළේය.
+Minister of Foreign Affairs Ali Sabry, delivering his statement at the BRICS Foreign Ministers’ meeting, stated that Global South should collectively address global challenges of climate change, debt burden and food security, the Sri Lankan Embassy in Moscow said in a statement.
 
-"අපි තරගාවලියට එද්දි හොඳ මානසිකත්වයත් තිබුණා. අපේ පන්දු යවන්නේ හොඳට කරලා තිබුණා. පන්දුවට පහරදෙන්නන් හොඳට කරලා තිබුණා අන්තිම තරගාවලීන් තුනේම. අපි ගොඩක් ඉස්සරහින් හිටියා තරගාවලියට එද්දි. මම හිතනවා ගොඩක් වැරදීම් වුණා කණ්ඩායමක් විදිහට. ඒ නිසා අපිට සුපිරි 08ට යන්න බැරි වුණා. ලොකුවටම දකින්නේ අපේ පිතිකරණයේ වුණ දේවල්. කන්ඩිෂන්වලට හැඩ ගැහුනේ නැති එක තමයි ලොකුම වැරැද්ද කියලා මම හිතනවා."
+He further stressed that the architecture of global governance, established in the aftermath of World War II has achieved significant milestones. “However, that it was increasingly evident that this structure must evolve to reflect the contemporary realities of our world”, he added.
 
-නේපාලය සමඟ අද (12) පැවැත්වීමට නියමිතව තිබු තරගයට වර්ෂාවෙන් බාධා එල්ල වීම නිසා තරගය අත්හැර දැමීමත් සමඟ පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට ශ්‍රී ලංකාවට තිබු  අවස්ථාව ගිලිහී ගියේය.
-
-ශ්‍රී ලංකා - නේපාල තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීම නිසා කණ්ඩායම් දෙකටම එක් ප්‍රසාද ලකුණු බැගින් පිරිනැමුණි.
+The Foreign Minister highlighted that voices and interests of emerging economies and developing nations must be integrated more fully into the decision-making processes of international institutions, the statement added.
 
 ...
 
+[Data](articles/2b3360bd.json)
+
+---
+
+### Teenage school girl accidentally electrocuted to death
+
+*2024-06-12 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99831/-teenage-school-girl-accidentally-electrocuted-to-death) · `en`
+
+A 17-year-old school girl has reportedly been electrocuted to death while attempting to plug in an electric sewing machine to a power socket in an unsafe manner.
+
+The deceased is a student of Mahamaya Balika Vidyalaya, Nugegoda.
+
+The 17-year-old girl had attempted to use the sewing machine, which was inoperable, at home while her grandmother was resting in another room due to an illness.
+
+It is said that the student had attempted to connect the plug connected to the motor and wire of the sewing machine to a wall switch socket in the room but was unsuccessful.
+
+She was then electrocuted while attempting to modify the plug by cutting it and then inserting the wires directly into the socket.
+
+After hearing the girl’s screams, a neighbour had rushed to help and proceeded to hospitalise the girl. However, she was pronounced dead on admission to the Piliyandala District Hospital.
+
+...
+
+[Data](articles/8d37d29c.json)
+
+---
+
+### சட்ட விரோத, சமூக விரோத செயல்களின் எண்ணங்களுக்கு உருவம் கொடுக்கும் 'பயமறியா பிரம்மை'
+
+*2024-06-12 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185906) · `ta`
+
+நடிகர் ஜேடி கதையின் நாயகர்களில் ஒருவராக அழுத்தமான வேதத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதனை இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான விஜய் அண்டனி அவருடைய சமூக வலைதளப் பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஹரிஷ் உத்தமன், ஜான் விஜய், வினோத் சாகர், சாய் பிரியங்கா ரூத், விஸ்வாந்த், ஹரிஷ், திவ்யா கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+நந்தா மற்றும் பிரவீண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை 69 எம் எம் ஃபிலிம் எனும் நிறுவனம் தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/e513e3a6.json)
+
+---
+
+### The reason the Sri Lankan team was defeated
+
+*2024-06-12 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197682) · `si`
+
+Sri Lanka's defeat in the T20 World Cup was attributed to group errors, particularly in batting, leading to their exclusion from the Super 08 stage. Their match against Nepal was abandoned due to rain, and they faced criticism from South Africa and Bangladesh in the preliminaries. The final against the Netherlands is set for the 17th.
+
+🟩
+
+Sri Lanka spinner Mah said that the Sri Lankan team could not be satisfied at the 20th World Cup.
+
+"We had the good mindset when we got into the tournament. Our bowling was done well. Batting to bat were well done in all three tournaments. We were very long in front of the tournament. I think it was a lot of mistakes as a group. So we couldn't go to Super 08. The world sees what happened in our batting. I think the biggest mistake is that it is the only one is the one who is shaping to sinism. "
+
+Sri Lanka lost the opportunity to enter the 8 World Cup in T20 World Cup with the loss of the match due to the race that was scheduled to be held today (12).
+
+Due to the overthrow of Sri Lanka and Nepal, the Sri Lanka-Nephanipa's match was abandoned due to the rain.
+
+In the preliminary round of the tournament, Sri Lankan players were criticized by South Africa and Bangladesh in the preliminary round of the tournament.
+
+The final will be held on the 17th against the Netherlands to attend the Netherlands.
+
+◼️
+
 [Data](articles/6029ea5c.json)
+
+[Extended Data](ext_articles/6029ea5c.ext.json)
+
+---
+
+### காணாமலாக்கப்பட்டோர் பிரச்சினைக்காக குரல் கொடுப்போம் - எரான் விக்கிரமரட்ண
+
+*2024-06-12 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185913) · `ta`
+
+யுத்தம் நடந்த பிரதேசத்தில் காணாமலாக்கப்பட்டோர் பிரச்சினை தொடர்பில் எந்த நடவடிக்கையும் முன்னெடுக்கபடவில்லை. அதற்காக நாம் தொடர்ந்து குரல் கொடுப்போம் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணத்தில் நேற்று செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+யாழ். நகரின் தீவு பகுதியியின் போக்குவரத்து, மக்களின் கல்வி நிலை அடிப்படை வசதிகளில் ஒன்றான தண்ணீர் பிரச்சினை இன்றும் இந்த ஆட்சியில் தொடர்ந்து கொண்டிருக்கிறது.
+
+யுத்தம் நடந்த பிரதேசம் காணாமலாக்கபட்டவர் பிரச்சினை தொடர்பில் இங்கு எந்த நடவடிக்கையும் முன்னெடுக்கபடவில்லை. அதன் அடிப்படையில் நாம் தொடர்ந்து அதற்காக குரல் கொடுப்போம்.
+
+13 ஆவது திருத்தச் சட்டத்தினை நடைமுறைபடுத்துவோம். நாட்டிலுள்ள சட்டத்தினை நடைமுறைபடுத்துவது இவ்வளவு பிரச்சினையாக இருந்தால் அதனை நிச்சயமாக நாம் நடைமுறைபடுத்துவோம்.
+
+...
+
+[Data](articles/c4d594ca.json)
+
+---
+
+### கிழக்கு மாகாணத்தில் குறைவான மட்டத்தில் கணினி அறிவு வளர்ச்சி வீதம் !
+
+*2024-06-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185910) · `ta`
+
+நாட்டில் கிழக்கு மாகாணத்தில் குறைவான மட்டத்தில் கணினி அறிவு வளர்ச்சி வீதம் பதிவாகியுள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன், மேல்மாகாணத்தில் கணினி அறிவு உயர்வான மட்டத்தில் உள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்நிலையில், நாட்டில் 5 முதல் 69 வயதுக்குட்பட்டவர்களின் கணினி அறிவு 39 வீதமாக உயர்வடைந்துள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் மேலும் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6d258115.json)
 
 ---
 
@@ -115,6 +215,36 @@ Speaking to reporters after the verdict, US President Bidan said that he would a
 [Data](articles/d3b5617b.json)
 
 [Extended Data](ext_articles/d3b5617b.ext.json)
+
+---
+
+### வரலாறு : 'போர் எனும் அரக்கன் புகையாக வந்தனனோ?' - 1967 ஜூன் 12 வீரகேசரியில்...
+
+*2024-06-12 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185907) · `ta`
+
+இஸ்ரேல் - அரபு நாடுகளுக்கிடையிலான யுத்த காட்சிகளை எடுத்துக்காட்டும் மிரளவைக்கும் புகைப்படங்களை முகப்பில் சுமந்தபடி, 1967ஆம் ஆண்டு இதே திகதியில் (ஜூன் 12) 'போர் எனும் அரக்கன் புகையாக வந்தனனோ?' எனும் தலையங்கத்துடன் வீரகேசரி பத்திரிகை வெளியானது.
+
+* 1967இல் ஜூன் மாத ஆரம்ப நாட்களில் ஜெருசலேமில் இஸ்ரேலிய படைகளின் குண்டுவீச்சுத் தாக்குதலில் ஜோர்தான் இராணுவ முகாமொன்று தீக்கிரையாகி, அப்பகுதியே புகை மண்டலமாக காணப்பட்டது.
+
+* நைல் நதிப் பகுதியில் சுட்டு வீழ்த்தப்பட்ட இஸ்ரேலிய விமானமொன்றின் சிதைந்த பாகத்தை எகிப்திய கிராமவாசிகள் மற்றும் பாதுகாப்பு அதிகாரிகள் பார்வையிட்டனர்.
+
+* இஸ்ரேலியரின் குண்டுவீச்சுத் தாக்குதலால் காஸாவுக்கு செல்லும் பாதையில் எகிப்திய இராணுவ லொறியொன்று தீயில் எரிந்து சாம்பலானது......
+
+◼️
+
+[Data](articles/0653b261.json)
+
+---
+
+### இன்றிரவு முதல் தபால் ஊழியர்கள் பணிப்புறக்கணிப்பு
+
+*2024-06-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185905) · `ta`
+
+தபால் சேவையில் 6,000க்கும் மேற்பட்ட ஊழியர் வெற்றிடங்களை நிரப்பத் தவறியதால் தபால் ஊழியர்கள்  பணிப்புறக்கணிப்பை முன்னெடுக்க தீர்மானித்துள்ளனர்.அதன்படி,  இன்று புதன்கிழமை (12) இரவு முதல் 24 மணித்தியால பணிப்புறக்கணிப்பு முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியின் ஒருங்கிணைப்பாளர் சிந்தக பண்டார தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/03494ce3.json)
 
 ---
 
@@ -2145,149 +2275,5 @@ In this regard, it was agreed that the forthcoming meeting that is scheduled on 
 [Data](articles/16f41368.json)
 
 [Extended Data](ext_articles/16f41368.ext.json)
-
----
-
-### BoardPAC elevates board governance standards through collaboration with Johannesburg Stock Exchange
-
-*2024-06-12 01:55:00* · [`dailyftlk`](https://www.ft.lk/business/BoardPAC-elevates-board-governance-standards-through-collaboration-with-Johannesburg-Stock-Exchange/34-762970) · `en`
-
-BoardPAC, the leading provider of board governance solutions, is excited to rekindle discussions with the Johannesburg Stock Exchange (JSE), marking a significant stride toward enhancing board governance standards in South Africa.
-
-This renewed engagement echoes its commitment to forging strategic alliances, building upon its previous collaboration efforts, and advancing governance practices.
-
-In a recent meeting between Team BoardPAC and key stakeholders from the JSE, both parties explored new opportunities and discussed how BoardPAC’s innovative solutions can enhance the boardroom experience for esteemed clients of the exchange. The discussion centred on streamlining board processes, eliminating cumbersome paperwork, and fostering more effective collaboration among board members and key staff.
-
-...
-
-[Data](articles/d13d1e4a.json)
-
-[Extended Data](ext_articles/d13d1e4a.ext.json)
-
----
-
-### MAS Kreeda secures 10 ROSPA Gold Awards for outstanding health and safety performance
-
-*2024-06-12 01:53:26* · [`dailyftlk`](https://www.ft.lk/business/MAS-Kreeda-secures-10-ROSPA-Gold-Awards-for-outstanding-health-and-safety-performance/34-762969) · `en`
-
-The winning teams across the MAS Group captured at the ROSPA Health and Safety Awards in Dubai
-
-Global apparel-tech conglomerate, MAS Holdings, announced the outstanding achievement by its subsidiary, MAS Kreeda, which was honoured with 10 Gold Awards by The Royal Society for the Prevention of Accidents (ROSPA) for their exemplary health and safety performance for the year 2023.
-
-The ten MAS Kreeda Strategic Business Units (SBUs) recognised were, Kreeda Balangoda, Kreeda Methliya, Kreeda Shadeline, Kreeda Synergy, Kreeda Vaanavil, Kreeda Campus, Kreeda Al Safi Sahab, Kreeda Al Safi Dulayl, Kreeda Al Safi Madaba, and Kreeda Arya 2 during a special ceremony in Dubai.
-
-In addition to the Gold Awards, another MAS subsidiary, Bodyline Ltd. was also awarded the ROSPA Silver Award.
-
-...
-
-[Data](articles/c9ea9fde.json)
-
-[Extended Data](ext_articles/c9ea9fde.ext.json)
-
----
-
-### Labour Minister meets ILO Director General in Geneva
-
-*2024-06-12 01:51:49* · [`dailyftlk`](https://www.ft.lk/news/Labour-Minister-meets-ILO-Director-General-in-Geneva/56-762968) · `en`
-
-Labour and Foreign Employment Minister Manusha Nanayakkara (right) with the International Labour Organisation (ILO) Director General Gilbert F. Houngbo
-
-ILO Director General Gilbert F. Houngbo commends 70% salary increment for plantation sector workers
-
-Labour Minister Manusha Nanayakkara outlines key initiatives to enhance standards, employment conditions
-
-Labour and Foreign Employment Minister Manusha Nanayakkara met with the International Labour Organisation (ILO) Director General Gilbert F. Houngbo at the United Nations Headquarters on the sidelines of the Annual International Labour Conference (ILC).
-
-During the meeting in Geneva, ILO Director General Houngbo praised the progressive work undertaken by the Labour and Foreign Employment Ministry, specifically commending the recent 70% salary increment for plantation sector workers and the adherence to the ILO’s principle of social dialogue during this process.
-
-...
-
-[Data](articles/03d317f1.json)
-
-[Extended Data](ext_articles/03d317f1.ext.json)
-
----
-
-### LRC to grant land ownership to 4,151 estate workers living in line rooms
-
-*2024-06-12 01:50:04* · [`dailyftlk`](https://www.ft.lk/news/LRC-to-grant-land-ownership-to-4-151-estate-workers-living-in-line-rooms/56-762967) · `en`
-
-1,059 transfer deeds already handed over to estate worker families
-
-The Land Reform Commission (LRC) will grant 3,192 transfer deeds to worker families in the plantation sector simultaneously to the ’Urumaya’ national program, which grants unconditional freehold ownership of lands to people.
-
-LRC Chairman Panduka Keerthinanda told the Daily FT that 1,059 deeds have already been transferred to estate worker families in Kandy, Nuwara Eliya, Matale and Kegalle districts.
-
-He said the following recommendations of the New Village Development Authority for Plantation Region, which have done surveys, feasibility studies and other requirement to implement the transfer of deeds program named – Semata Himi Bimak- (land ownership for everyone) will also be launched in other districts – Badulla, Monaragala, Matale, Galle, Ratnapura, Colombo and Kalutara.
-
-...
-
-[Data](articles/1e1ceb18.json)
-
-[Extended Data](ext_articles/1e1ceb18.ext.json)
-
----
-
-### CEB submits quarterly electricity tariff revisions for July: Minister
-
-*2024-06-12 01:49:25* · [`dailyftlk`](https://www.ft.lk/news/CEB-submits-quarterly-electricity-tariff-revisions-for-July-Minister/56-762966) · `en`
-
-Power and Energy Minister Kanchana Wijesekera yesterday announced that in line with the Government’s policy to revise electricity tariffs quarterly, the Ceylon Electricity Board (CEB) has submitted its latest proposal to the Public Utilities Commission of Sri Lanka (PUCSL).
-
-Taking to ‘X’ he noted that the proposal, submitted on Friday, outlines tariff revisions for July.
-
-Minister Wijesekera highlighted the proposed reductions in energy charges across several sectors, including domestic, religious, general purpose and Government buildings.
-
-The proposal aims to provide further reductions in energy charges for these key sectors.
-
-“The PUCSL will determine the final tariffs after evaluation of the proposal and the public consultation,” he added.
-
-◼️
-
-[Data](articles/59debd0d.json)
-
-[Extended Data](ext_articles/59debd0d.ext.json)
-
----
-
-### President forms Expert Committee to address public sector salary disparities
-
-*2024-06-12 01:48:15* · [`dailyftlk`](https://www.ft.lk/news/President-forms-Expert-Committee-to-address-public-sector-salary-disparities/56-762965) · `en`
-
-President Ranil Wickremesinghe has appointed a specialist committee to address salary anomalies in the Government service.
-
-This committee, chaired by a former Presidential Secretary Udaya Seneviratne, comprises various distinguished members including National Budget Department Director General S.D.J. Nilukshan, Management Services Department Director General Hiransa Kaluthantri, Combined Services Director General S. Aloka Bandara, Institutions Director General H.A. Chandana Kumarasinghe, Dr. Terence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Dharmaratne and Isuru Thilakawardena.
-
-Presidential Additional Secretary Vernon Perera serves as the Secretary of the said committee.
-
-...
-
-[Data](articles/a1b65d3a.json)
-
-[Extended Data](ext_articles/a1b65d3a.ext.json)
-
----
-
-### CoPF exposes unregulated online casino operations
-
-*2024-06-12 01:47:32* · [`dailyftlk`](https://www.ft.lk/news/CoPF-exposes-unregulated-online-casino-operations/56-762964) · `en`
-
-CoPF Chairman Dr. Harsha de Silva instructs letter to be sent to Finance Minister urging immediate attention
-
-Directs officials to expedite implementation of laws to setup regulatory authority
-
-The Committee on Public Finance (CoPF) recently revealed that despite legal prohibitions, online casinos continue to operate openly in Sri Lanka, depriving the Government’s revenue without facing any repercussions.
-
-During a CoPF meeting chaired by MP Dr. Harsha de Silva last week, it was highlighted that the unregulated status of online casinos allows them to flourish without contributing the due taxes to the Government coffers.
-
-Dr. de Silva instructed that a letter be sent to the Finance Minister, urging immediate attention to this issue.
-
-The meeting underscored the necessity of establishing a Casino Regulator to address these challenges.
-
-...
-
-[Data](articles/6e8c08e9.json)
-
-[Extended Data](ext_articles/6e8c08e9.ext.json)
 
 ---

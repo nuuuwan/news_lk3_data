@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 23:34:50**
+As of **2024-06-12 23:54:29**
 
 ## Newspaper Stats
 
-*Scraped **30,081** Articles*
+*Scraped **30,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,410
 tamilmirrorlk | 3,522
 virakesarilk | 4,605
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,846
+adaderanasinhalalk | 4,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,081 (100.0%) of 30,081 articles have been extended.
+30,081 (100.0%) of 30,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් සුබ ආරංචිය ලැබෙයි
+
+*2024-06-12 23:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197699) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට හඳුන්වා දී ඇති වැඩසටහනේ දෙවැනි සමාලෝචනය අනුමත කර තිබේ.
+
+අමාත්‍ය අලි සබ්‍ රි මහතා සිය X ගිණුමේ සටහනක් තබමින් ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/67e183e3.json)
+
+---
 
 ### Life Sunday Attack - President who landed directly on the field
 
@@ -2321,25 +2335,5 @@ In the meantime, the JVP solve the long -standing ethnic problem in the country.
 [Data](articles/c0c44250.json)
 
 [Extended Data](ext_articles/c0c44250.ext.json)
-
----
-
-### Sri Lanka hopeful IMF will approve third tranche today
-
-*2024-06-12 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99826/sri-lanka-hopeful-imf-will-approve-third-tranche-today) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has expressed confidence that the International Monetary Fund (IMF) will approve the release of the third tranche under the Extended Fund Facility (EFF) programme today (12).
-
-Commenting regarding the matter, Assistant Governor of the CBSL Dr. Chandranath Amarasekara said: ““we hope IMF will announce releasing of the 3rd tranche to Sri Lanka under the EFF programme this evening”.
-
-Dr. Amarasekara made this remark while speaking during an event held to brief heads of media on progress of economic reforms in the Department of Government Information (DGI) this morning (12).
-
-The International Monetary Fund’s executive board is scheduled to meet today (Juen 12) to discuss the second review of the Extended Fund Facility (EFF) and Article IV Consultation.
-
-...
-
-[Data](articles/e70fc4b4.json)
-
-[Extended Data](ext_articles/e70fc4b4.ext.json)
 
 ---

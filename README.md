@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 18:13:31**
+As of **2024-06-12 18:24:57**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,040 (100.0%) of 30,041 articles have been extended.
+30,041 (100.0%) of 30,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### මාරක වෑන් අනතුර ගැන තවත් තොරතුරු
+### More information about the deadly van accident
 
 *2024-06-12 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197691) · `si`
 
-අද (12) සවස් කාලයේදී බස් රථයක වෑන් රථයක් ගැටීමෙන් සිදුවූ මාරක අනතුර පිළිබඳ තවත් තොරතුරු හෙළිවී ඇත.
+A tragic van-bus collision resulted in the deaths of two women and one man. The victims were traveling in the van when it was struck by a bus at a stop.
 
-නතර කර තිබූ බස් රථයක වෑන් රථය ගැටී තිබෙන අතර ඉන් වෑන් රථයේ ගමන් කළ කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු මියගොස් තිබේ.
+🟩
+
+More information about the fatal accident caused by a van at a bus today (12) was revealed.
+
+The van was hit by a bus with stopped and two women and a man died in the van.
 
 ◼️
 
 [Data](articles/3a0403ec.json)
+
+[Extended Data](ext_articles/3a0403ec.ext.json)
 
 ---
 

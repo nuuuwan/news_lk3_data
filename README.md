@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 00:34:27**
+As of **2024-06-13 00:50:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,084 (100.0%) of 30,087 articles have been extended.
+30,087 (100.0%) of 30,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,8 @@ I was fortunate to listen to this speech online and live, through ‘Horawa News
 
 [Data](articles/10df5d73.json)
 
+[Extended Data](ext_articles/10df5d73.ext.json)
+
 ---
 
 ### Debt politics, declining Hindutva hegemony and the Russia war
@@ -101,6 +103,8 @@ Each country must do its own expert research rather than blindly accept the IMF 
 ...
 
 [Data](articles/60ad1013.json)
+
+[Extended Data](ext_articles/60ad1013.ext.json)
 
 ---
 
@@ -255,6 +259,8 @@ The team was advised that a bill to amend the constitution should be passed “o
 ...
 
 [Data](articles/0216f830.json)
+
+[Extended Data](ext_articles/0216f830.ext.json)
 
 ---
 

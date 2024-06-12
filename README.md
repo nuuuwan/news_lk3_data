@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 18:24:57**
+As of **2024-06-12 18:36:14**
 
 ## Newspaper Stats
 
-*Scraped **30,041** Articles*
+*Scraped **30,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 281
 bbccomsinhala | 292
 newsfirstlk | 363
 islandlk | 1,625
-economynextcom | 1,721
+economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,582
-adaderanalk | 3,404
+adaderanalk | 3,405
 tamilmirrorlk | 3,519
 virakesarilk | 4,600
 dailymirrorlk | 4,733
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,041 (100.0%) of 30,041 articles have been extended.
+30,041 (100.0%) of 30,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### President hits out at politicians making promises without presenting any economic policies
+
+*2024-06-12 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99840/president-hits-out-at-politicians-making-promises-without-presenting-any-economic-policies) · `en`
+
+President Ranil Wickremesinghe states that at present, certain politicians are making extensive promises without presenting any concrete policies to drive the country’s economic growth.
+
+Speaking during a dialogue with Youth Representatives of the Parliamentary Sectoral Oversight Committees, Wickremesinghe expressed that despite prolonged discussions between the Opposition Leader Sajith Premadasa and NPP Leader Anura Dissanayake regarding debate formats and venues, no agreement was reached.
+
+“Regrettably, none of these individuals have put forth a viable economic agenda”, the President highlighted.
+
+Meanwhile, Wickremesinghe emphasized that the upcoming presidential election will not be about his personal victory or defeat, but that of the country’s success or failure.
+
+...
+
+[Data](articles/aa9b36db.json)
+
+---
+
+### Sri Lanka president needs referendum to extend his tenure: Justice Minister
+
+*2024-06-12 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-needs-referendum-to-extend-his-tenure-justice-minister-167709/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe will need a referendum if he needs to extend his tenure by one year despite an error in the constitution’s 19th amendment when it was passed in 2015, Justice Minister Wijeyadasa Rajapakshe said.
+
+Speculations have been on rise that the island nation’s constitution could allow President Wickremesinghe to extend his tenure by one year due to a mistake in the constitution, which was approved with more than two-third majority.
+
+While all references to the six-year terms of both the president and parliament were changed to five years in line with the 19th Amendment, Article 83(b) was overlooked and left unchanged, giving a loophole to extend his term for President Wickremesinghe.
+
+However, Minister Rajapakshe said despite an inconsistency, the rulers need both two-third majority and referendum to change 9 clauses in the constitution which also include the people’s voting right.
+
+...
+
+[Data](articles/e1763d1b.json)
+
+---
 
 ### More information about the deadly van accident
 
@@ -59,6 +95,8 @@ The van was hit by a bus with stopped and two women and a man died in the van.
 A Committee of Inquiry has been appointed to investigate into the actions of the State Intelligence Service (SIS), Chief of National Intelligence (CNI) and other authorities regarding prior intelligence received on the Easter Sunday terror attacks.
 
 The committee led by retired Judge Ms A.N.J. De Alwis was appointed by President Ranil Wickremesinghe, President’s Media Division (PMD) said.
+
+Meanwhile, it will assess responses based on Indian agency intel and investigate THE Directorate of Military Intelligence’s (DMI) initial LTTE link to Vavunathivu killings.
 
 The findings of the Committee of Inquiry are due by September 15, 2024, according to the PMD.
 
@@ -89,6 +127,28 @@ The report should be completed by September 15 this year.
 [Data](articles/719b517d.json)
 
 [Extended Data](ext_articles/719b517d.ext.json)
+
+---
+
+### Sri Lanka to amend criminal code to strengthen laws against sexual assault
+
+*2024-06-12 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-criminal-code-to-strengthen-laws-against-sexual-assault-167692/) · `en`
+
+ECONOMYNEXT – Sri Lanka will revise its Penal Code to criminalize sexual harassment, Cabinet Spokesman Minister Bandula Gunawardena said.
+
+“The cabinet has given approval to criminalize sexual harassment including harassment in public places,” Gunawardena told reporters on Wednesday.
+
+“The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman.”
+
+The draft Bill will be published in the Government Gazette and submitted to Parliament for approval.
+
+Section 345 of Sri Lanka’s Penal Code stipulates a punishment of a maximum prison sentence of two years and/or a fine.
+
+However, sexual violence and harassment is commonplace in Sri Lanka with many cases going unreported. It is estimated that 90 percent of women experience sexual harassment in some form. (Colombo/Jun12/2024)
+
+◼️
+
+[Data](articles/7c8d1dc8.json)
 
 ---
 
@@ -138,6 +198,28 @@ According to hospital sources, the student was severely transferred to the Dambu
 
 ---
 
+### Sri Lanka rupee closes weaker at 303.80/304.00 to US dollar
+
+*2024-06-12 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-80-304-00-to-us-dollar-167688/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee weakened further to close at 303.80/304.00 to the US dollar on Wednesday, from 303.50/75 to the dollar the previous week, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.20/40 percent, up from 10.15/25 percent.
+
+A bond maturing on 15.09.2027 closed at 10.75/11.00 percent, up from 10.75/90 percent.
+
+A bond maturing on 01.07.2028 closed at 11.15/40 percent, up from 11.10/25 percent.
+
+A bond maturing on 15.05.2030 closed at 11.90/12.05 percent, up from 11.85/95 percent.
+
+A bond maturing on 01.10.2032 closed at 11.95/12.15 percent up from 11.95/12.10 percent. (Colombo/Jun12/2024)
+
+◼️
+
+[Data](articles/097c0056.json)
+
+---
+
 ### Three killed in Bibila accident
 
 *2024-06-12 16:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-விபத்தில்-மூவர்-பலி-அறுவர்-காயம்/175-338821) · `ta`
@@ -157,6 +239,32 @@ Three people from the same family were killed in the accident and six others wer
 [Data](articles/3054082e.json)
 
 [Extended Data](ext_articles/3054082e.ext.json)
+
+---
+
+### Sri Lanka stocks close marginally down, leasing companies see interest
+
+*2024-06-12 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-leasing-companies-see-interest-167685/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed marginally down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.03 percent, or 4.13 points, at 12,390; while the more liquid S&P SL20 Index closed down 0.05 percent, or 1.68 points, at 3,686.
+
+Turnover was 1.6 billion. Index heavyweights, diversified financials and consumer sectors contributed the most.
+
+“Market closed flat as a bit of uncertainty crept in over today’s IMF review announcement,” market participants said.
+
+People’s Leasing and Finance Plc saw the most volumes traded (Rs216mn) in the day. The share closed up at 13.00.
+
+“The diversified financials [with leasing exposure], saw some interest after news of the government’s possible decision to relax vehicle import controls in October.”
+
+Commercial Credit and Finance Plc closed up at 37.40, Vallibel Finance Plc closed up at 45.80 and Central Finance Company Plc closed up at 121.75.
+
+Hayleys Plc also saw interest (Rs188mn), and the share closed up at 108.00.
+
+...
+
+[Data](articles/93bbb19b.json)
 
 ---
 
@@ -216,11 +324,37 @@ Three persons have reportedly been killed and several others have been injured a
 
 Ada Derana reporter said the three deceased are members of the same family.
 
-◼️
+Meanwhile, the Police Spokesman’s Office said that a private bus travelling from Bibila towards Kotagama had stopped in front of a garage in the Wagama area this evening for repairs when a van arriving from the opposite direction of the road had crashed into the front of the bus.
+
+Three passengers of the van including two females were killed in the crash while five others including the driver of the van had been admitted to the Bibila Hospital with injuries.
+
+Of the deceased, the male is aged 75 and one of the females is 70-years-old while the age of the other female has not been confirmed yet. They are all residents of Wagama, police said.
+
+...
 
 [Data](articles/20a68d4e.json)
 
 [Extended Data](ext_articles/20a68d4e.ext.json)
+
+---
+
+### Renovation in Sri Lanka’s Northern rail track to reduce Colombo-Jaffna train time to 5.5 hours
+
+*2024-06-12 16:38:00* · [`economynextcom`](https://economynext.com/renovation-in-sri-lankas-northern-rail-track-to-reduce-colombo-jaffna-train-time-to-5-5-hours-167684/) · `en`
+
+ECONOMYNEXT – The ongoing renovations in Sri Lanka’s Northern railway track from Maho to Anuradhapura will help to reduce Colombo-Jaffna journey time to around 5.5 hours from the current 7.5 hours, Transport Minister Bandula Gunawardana said.
+
+The work to upgrade the track started in January this year and is part of a $91.27 million project carried out by IRCON, an Indian state firm, and is expected to be completed in six months.
+
+“The train to Jaffna takes 7.5 hours to travel. Now it has been under renovation after more than 100 years. This is being done for the first time since the British rule with complete removal of tracks under an Indian credit line,” Gunawardana told a media briefing on Monday (10).
+
+“Within next few months, there will be a railway track established in the North passengers can travel at 100 km per hour. Within 5.5 hours, people can be able to travel from Colombo to Jaffna.”
+
+India has provided $318 million to upgrade 128 kilometres in track from Maho to Omanthai.
+
+...
+
+[Data](articles/47a24220.json)
 
 ---
 
@@ -305,6 +439,22 @@ Accordingly, the proposal made by the Minister of Public Security Tiran Alles to
 [Data](articles/c6b7a247.json)
 
 [Extended Data](ext_articles/c6b7a247.ext.json)
+
+---
+
+### Singapore-based Aditya Birla awarded Sri Lanka CPC’s 1.5 mln barrel 92 Unl petrol supply
+
+*2024-06-12 16:19:00* · [`economynextcom`](https://economynext.com/singapore-based-aditya-birla-awarded-sri-lanka-cpcs-1-5-mln-barrel-92-unl-petrol-supply-167681/) · `en`
+
+ECONOMYNEXT – Sri Lanka cabinet has approved to award a long-term contract to Aditya Birla Global Trading (Singapore) Pte supply five stocks of shipment of 92 Unl petrol to the state-owned Ceylon Petroleum Corporation (CPC) with a volume of 1.5 million barrel, the government said.
+
+The decision was made based on the bids received from the registered suppliers of CPC for a period of six months from July 15, 2024.
+
+“Based on the recommendation of the Standing Technical Evaluation Committee, the Standing Procurement Committee appointed by the Cabinet of Ministers has recommended to award the said procurement to M/s Aditya Birla Global Trading (Singapore) Pte. Ltd,” the government said in its cabinet decisions document.
+
+...
+
+[Data](articles/1f906388.json)
 
 ---
 
@@ -443,6 +593,26 @@ It was also a member of the group that was not allowed to join the World Cup las
 [Data](articles/ef8121ab.json)
 
 [Extended Data](ext_articles/ef8121ab.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields higher, Rs215bn sold
+
+*2024-06-12 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-higher-rs215bn-sold-167647/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields edged slightly higher at Wednesday’s auction with 215 billion rupees of bills sold but with lower volumes of 12 month bills, data from the state debt office showed.
+
+The 3-month yield went up 19 basis points to 8.89 percent with 40 billion rupees of bills offered and 48.4 billion sold.
+
+The 6-month bill yield was up at 9.30 percent, with 100 billion rupees offered and 111.6 billion sold.
+
+The 12-month bill yield went up 27 basis points to 9.54 percent with 75 billion rupees offered, and 54.8 billion in bills sold.
+
+The debt office offered 215 billion rupees of bills and raised a similar amount in different maturities. (Colombo/June12/2024)
+
+◼️
+
+[Data](articles/02f92c14.json)
 
 ---
 
@@ -677,6 +847,26 @@ The National People's Power led by Anura Kumara has said that the 13th Amendment
 [Data](articles/c4d594ca.json)
 
 [Extended Data](ext_articles/c4d594ca.ext.json)
+
+---
+
+### Sri Lanka to implement national tariff policy in three phases from 2025
+
+*2024-06-12 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-implement-national-tariff-policy-in-three-phases-from-2025-167636/) · `en`
+
+ECONOMYNEXT – Sri Lanka will implement its national tariff policy in three phases from January 2025, cabinet spokesman minister Bandula Gunawardena said.
+
+“The competitive environment for investment in Sri Lanka has been adversely affected due to the revision of the tariff policy in accordance with the various policies introduced from time to time by the existing governments,” Gunawardena told reporters on Tuesday.
+
+A clear, simple, coherent and predictable tariff system is a critical factor in maintaining a competitive environment for trade and investment within a country, he said.
+
+A technical committee headed by the Director General of the Department of Trade and Investment Policy of the Treasury, and members of relevant agencies were appointed to formulate a national tariff policy.
+
+The committee prepared the policy in consultation with the business and industry community under the guidance of trade experts and secretaries of ministries related to this subject, Gunawardena said.
+
+...
+
+[Data](articles/021f982d.json)
 
 ---
 
@@ -962,6 +1152,26 @@ As a result, the train was uncomfortable.
 
 ---
 
+### Sri Lanka to begin free trade agreement negotiations with Malaysia
+
+*2024-06-12 13:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-free-trade-agreement-negotiations-with-malaysia-167618/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the starting of relevant negotiations for a free trade agreement with Malaysia, minister Bandula Gunawardena said.
+
+“Malaysia is the 34th export destination for Sri Lanka currently. It’s a key member of ASEAN and the Regional Comprehensive Economic Partnership,” Gunawardena told reporters on Tuesday.
+
+Total export value from Sri Lanka to Malaysia was 58.34 million dollars in 2023, according to the Export Development Board. Total imports from Malaysia to Sri Lanka for the same period were 736.39 million dollars.
+
+Sri Lanka exported petroleum oils, women’s outerwear, rubber industrial and surgical gloves, men’s and women’s under garments, babies’ garments, tea in bulk, gloves, textile mitts and mittens, and tea packets.
+
+Sri Lanka hopes to sign FTAs with other ASEAN member states after debt restructuring is complete.
+
+...
+
+[Data](articles/0bfafd8b.json)
+
+---
+
 ### NPP backs continuation of Provincial Councils in existing form
 
 *2024-06-12 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99828/npp-backs-continuation-of-provincial-councils-in-existing-form) · `en`
@@ -1096,6 +1306,24 @@ Kesbewa Emergency Death Inspector Ajith Wijesinghe was conducted by the section 
 
 ---
 
+### Sri Lanka Railways explores leasing space above stations, increasing goods trains to boost revenue
+
+*2024-06-12 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-explores-leasing-space-above-stations-increasing-goods-trains-to-boost-revenue-167613/) · `en`
+
+ECONOMYNEXT – State-run Sri Lanka Railways is exploring new avenues to boost its revenue including leasing spaces above some stations located in strategic locations, streamlining illegal occupancy of its lands, and increasing transport of goods and parcels, Transport Minister Bandula Gunawardana said.
+
+Despite sharp price hike in ticket cost, the island nation’s more than a century old railway has yet to make breakeven in its operations.
+
+The loss-making institution has already given some trains to be operated by private sector while starting new trains targeting tourists.
+
+It has now come up with plans to lease out space above some select railway stations including Colombo Fort and other areas in Colombo to lease for private sector investors.
+
+...
+
+[Data](articles/f98a8eba.json)
+
+---
+
 ### LOLC Savi and SLT-Mobitel Upahara join forces to enhance services for state sector employees
 
 *2024-06-12 12:39:00* · [`islandlk`](http://island.lk/lolc-savi-and-slt-mobitel-upahara-join-forces-to-enhance-services-for-state-sector-employees/) · `en`
@@ -1185,6 +1413,24 @@ The reports were to be appointed as the report on 14.04.2014 and the report will
 [Data](articles/e6888f8d.json)
 
 [Extended Data](ext_articles/e6888f8d.ext.json)
+
+---
+
+### Startup Genome ranks Sri Lanka among world’s top 10 for affordable talent
+
+*2024-06-12 12:26:00* · [`economynextcom`](https://economynext.com/startup-genome-ranks-sri-lanka-among-worlds-top-10-for-affordable-talent-167600/) · `en`
+
+ECONOMYNEXT – Startup Genome, a Silicon Valley based policy advisory and research organization that partners with governments, has ranked Sri Lanka among the top 10 Global Ecosystem for Affordable Talent, state minister of technology Kanaka Herath has said.
+
+The ranking was made “In the latest Global Startup Ecosystem Report 2024 by Startup Genome, based on data from 4.5M startups across 300 ecosystems,” Herath said on X (twitter).
+
+“Sri Lanka boasts a resilient mindset, with problem solving and innovation driven by entrepreneurial activity,” Startup Genome said on its website.
+
+Startup Genome listed ‘Access to Talent’ as a reason to move ventures to the island: “Sri Lanka’s tech talent pool is known for high-end product engineering experience, problem solving skills, and ingenuity. Around 5,000 tech students graduate annually.”
+
+...
+
+[Data](articles/4860b194.json)
 
 ---
 
@@ -2071,263 +2317,5 @@ The grandmaker in the same room is asleep in the adjacent room, which has been a
 [Data](articles/9058625f.json)
 
 [Extended Data](ext_articles/9058625f.ext.json)
-
----
-
-### Video of a young man touched by a wild elephant;The beginning of trial
-
-*2024-06-12 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185877) · `ta`
-
-A video of a young man touching a sleeping wild elephant in Sri Lanka's Ranjayapura forest has sparked controversy and investigation by the Wildlife Department. The incident, captured by one of three youths, was shared on social media, highlighting the dangers of approaching wildlife. Authorities advise against mimicking such behavior.
-
-🟩
-
-Video of a young man touches a wild elephant is shared on social media. Investigations have been initiated by the Director of Wildlife Assistant in Anuradhapura.
-
-One of the three youths who went into the Ranjayapura forest area, the footage of the elephant, which was sleeping, was recorded on the video.
-
-To show how to approach the wild elephant, the youth have recorded this video and shared this video on social media.
-
-The Wildlife Department, which has begun investigations into the video, has called for the public not to try to watch the video and engage in such activities.
-
-◼️
-
-[Data](articles/dbe843ca.json)
-
-[Extended Data](ext_articles/dbe843ca.ext.json)
-
----
-
-### Yall. Missing the two men who went to the sea in Analadeev
-
-*2024-06-12 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185885) · `ta`
-
-Two fishermen, Amarasingham and Ketheeswaran, from Jaffna Analativu, went missing on Monday. Police have initiated a search.
-
-🟩
-
-It is reported that two persons who went to the fishermen from Jaffna Analytivu on Monday (10) were missing.
-
-Amarasingham and Ketheeswaran are missing. The police have appealed in this regard. The search for the missing persons has also begun.
-
-◼️
-
-[Data](articles/dd074bc7.json)
-
-[Extended Data](ext_articles/dd074bc7.ext.json)
-
----
-
-### Exports are called to cultivate cannabis
-
-*2024-06-12 10:21:10* · [`adalk`](https://www.ada.lk/breaking_news/අපනයන-අරමුණින්-ගංජා-වගා-කරන්න-යෝජනා-කැඳවයි/11-410164) · `si`
-
-Cultivation of cannabis under the name "Tricklaka Wijayayi" aims to meet global demand for pharmaceuticals. The project, involving the Sri Lanka Investment Board and the Department of Ayurveda, requires approval from the Ministry of Health. Proposals must be submitted by July 10th, focusing on sustainable practices and compliance with health regulations.
-
-🟩
-
-Tricklaka Wijayayi Cultivation of Tricklaka Wijayayapartu Cultivation, interested in production of drugs, collapses project propositions to the local government and the Ministry of Health.
-
-The project proposals say that the project promotions are called to consider the world's demand for pharmaceutical and related pharmaceuticals based on Timbership and related products.
-
-These projects belong to the Joint Scope of the Sri Lanka Investment Board and the Department of Ayurveda.
-
-The Department of Ayurveda will be conducted by the Ministry of Ayurveda, monitoring the cultivation and manufacturing and the completion of the entire process.
-
-After considering the project proposals, the Department of Ayurveda is scheduled to be licensed for projects for the projects for the relevant criteria for the respective criteria and related projects.
-
-Facilitate and implementing relevant projects in a investment center for licensed investors.
-
-...
-
-[Data](articles/d24b1d40.json)
-
-[Extended Data](ext_articles/d24b1d40.ext.json)
-
----
-
-### Sri Lanka Labor Ministry, ILO, IOM discuss labour reforms
-
-*2024-06-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-labor-ministry-ilo-iom-discuss-labour-reforms-167566/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Labor Manusha Nanayakkara has met with International Labor Organization (ILO) Director General Gilbert F Houngbo to discuss labor reforms.
-
-“Provisions in the new employment act aimed at combating discrimination, workplace violence and protecting domestic workers were discussed at the meeting,” Nanayakkara’s media secretary Sanjaya Nallaperuma told EconomyNext.
-
-Houngbo said the International Labor Organization will support Sri Lanka’s program to upskill workers aimed at the international labor market.
-
-In order to increase female employment in the formal sector, the labor ministry discussed a project with the ILO and the International Organization for Migration (IOM) to train care workers.
-
-Sri Lanka also plans to ratify several international instruments pertaining to labor law.
-
-...
-
-[Data](articles/f625961c.json)
-
-[Extended Data](ext_articles/f625961c.ext.json)
-
----
-
-### Five hospitalized after bus accident at Makumbura bus station
-
-*2024-06-12 10:11:38* · [`adalk`](https://www.ada.lk/breaking_news/මාකුඹුර-බස්-නැවතුම්පලේ--බස්-රථ-අනතුරකින්-පහක්-රෝහලේ/11-410163) · `si`
-
-A bus crash at Makumbura involved a collision between a bus stop building and a private vehicle, injuring five passengers. The driver was arrested.
-
-🟩
-
-The police say that the bus stop building collided with a private busy bathing at the Makukumbu Explam Expressway at the Makukumbu Exploration Bus Stand.
-
-Five passengers were injured in the bus in 1990.The driver of the bus was arrested by the bus.
-
-◼️
-
-[Data](articles/ac128cd7.json)
-
-[Extended Data](ext_articles/ac128cd7.ext.json)
-
----
-
-### Sri Lanka optimistic as IMF board meets for second review today
-
-*2024-06-12 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99819/sri-lanka-optimistic-as-imf-board-meets-for-second-review-today) · `en`
-
-Sri Lanka’s State Minister of Finance Shehan Semasinghe says today (June 12) marks a significant milestone for Sri Lanka’s economy as the International Monetary Fund’s executive board is scheduled to discuss the second review of the Extended Fund Facility (EFF) and Article IV consultation.
-
-In a post on ‘X’ (formerly Twitter), Semasinghe expressed that the government remains optimistic that international partners will continue to support Sri Lanka’s efforts.
-
-He further highlighted that a favorable outcome from the review is expected to unlock the third tranche of approximately USD 330 million, which would further enhance confidence in our ongoing economic reforms and growth.
-
-“Further, we are in the final steps of finalizing the debt restructuring agreements, with continued support from our bilateral partners”, he added.
-
-...
-
-[Data](articles/5f3ca9f4.json)
-
-[Extended Data](ext_articles/5f3ca9f4.ext.json)
-
----
-
-### Road Maintenance Employees today
-
-*2024-06-12 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197669) · `si`
-
-The United Public Employees Union protests against the Road Development Authority's road maintenance issues. The General Secretary, Nihal Ajith, urges for professional measures to resolve the problems.
-
-🟩
-
-The United Public Employees Union states that the road maintenance of the Road Main Maintenance of the Road Development Authority in the year 2025 has been protesting today (12).
-
-The General Secretary, Nihal Ajith said that if action will be taken to address the issues, it would have been to look into strict professional measures.
-
-◼️
-
-[Data](articles/be5a3fae.json)
-
-[Extended Data](ext_articles/be5a3fae.ext.json)
-
----
-
-### Unhealthy Street Business - Three
-
-*2024-06-12 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185870) · `ta`
-
-On May 29, Public Health Inspectors from Tirunelveli and Kokuvil inspected businesses, finding several lacking proper health facilities like food handling certifications and personal hygiene standards. Cases were filed against these establishments, leading to penalties and warnings.
-
-🟩
-
-The Public Health Inspector, led by Tirunelveli Public Health Inspector P. Sanjeevan, was inspected by the Public Health Inspector of the Tirunelveli and Kokuvil areas on the night of May 29.
-
-It was reported that some business centers were operating without the basic health facilities such as the handling of food without medical certification and the handling of food without personal hygiene.
-
-Public Health Inspector Pa. At the Jaffna Additional Magistrate's Court. The cases were filed by Sanjeevan on Monday 10th. Additional Magistrate who took the cases on the same day. Lenin Kumar paid a total of 35,000/= penalty and issued a warning.
-
-◼️
-
-[Data](articles/4b5e79c2.json)
-
-[Extended Data](ext_articles/4b5e79c2.ext.json)
-
----
-
-### Oluvil Port set for renovation – Fisheries Minister
-
-*2024-06-12 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99818/oluvil-port-set-for-renovation-fisheries-minister) · `en`
-
-Fisheries Minister Douglas Devananda underscored the commitment of the government to protecting and revitalizing Oluvil Port, citing its significance for the advancement of the country.
-
-He commended the President’s initiatives in resolving past congestion problems and reinstating regularity in civil life, declaring his support for the President’s candidacy in the upcoming presidential election.
-
-Addressing a press briefing titled ‘Collective Path to a Stable Country,’ held Tuesday (11) at the Presidential Media Centre (PMC) Fisheries Minister Douglas Devananda further said that,
-
-...
-
-[Data](articles/595efe23.json)
-
-[Extended Data](ext_articles/595efe23.ext.json)
-
----
-
-### A person who was destined to the gallows. Man arrested for possessing money
-
-*2024-06-12 09:26:43* · [`adalk`](https://www.ada.lk/breaking_news/එල්ලුම්-ගහට-නියම-වූ-පුද්ගලයෙකුගේ-රු--ලක්ෂ-හැටපහක-මුදල්-සන්තකයේ-තබාගෙන-සිටි-පුද්ගලයෙක්-අත්අඩංගුවට/11-410162) · `si`
-
-A man arrested for illegal asset possession, linked to drug trafficking, faces charges including money laundering. Six suspects from a fishing vessel were detained, revealing a connection to a death-row inmate who transferred 28 million rupees to a state bank. Investigations continue, with one suspect expected to appear in court.
-
-🟩
-
-Illegal assets investigation has been arrested by the Current Drug Trafficker in the Boossa Prison, which has been held at the Boossa Prison in the Boossa Prison..
-
-Police Narcotics Bureau of 2022 .06.27 The Tangalle fishing vessel, which is scheduled to be brought to Sri Lanka on 20th, six suspects were started with a multi-day muster fishing vessel with a multi-day muster fishing vessel.The police said
-
-A van in the investigation of the Nalin Suranga who had been imposed on the death sentence of the fishing vessel after the investigation of the fishing vessel was deposited in a state bank at 28 million rupees in a state bank in a state bank, 28 million rupees.It was revealed that the money was sold and the van was purchased by death, Nalin Suranga in 2017
-
-...
-
-[Data](articles/6f16a056.json)
-
-[Extended Data](ext_articles/6f16a056.ext.json)
-
----
-
-### President has a special committee to solve salary anomalies in the public service
-
-*2024-06-12 09:19:44* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැටුප්-විෂමතා-විසඳීමට-ජනපතිගෙන්-විශේෂඥ-කමිටුවක්/11-410161) · `si`
-
-President Ranil Wickremesinghe has formed a committee to address salary issues in the public sector. The team includes several Directors General and other experts like Udaya Seneviratne, formerly a Presidential Secretary. Their task is to review salaries, wages, and benefits across all public service sectors to inform the 2025 budget. They must complete their work within three months and may consult with government officials.
-
-🟩
-
-President Ranil Wickremesinghe has appointed a special committee to deal with salary anomalies in the public service.
-
-Director General of the Department of National Budget, Udaya Seneviratne, a former Presidential Secretary Udaya Seneviratne, is the other members of the Department of National Budget.. Nihthan, Management Services Department
-
-Director General of Hirazasa Kalutanshi, Director General of Combined ServicesDirector General of Aloka Bandara, Director General HA. Chandana Kumarasinghe, Dr. Terrence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Mr. Dharmaratne and Isuru Thilakawardene have been appointed.
-
-Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secretary of the Committee.
-
-...
-
-[Data](articles/36a90659.json)
-
-[Extended Data](ext_articles/36a90659.ext.json)
-
----
-
-### Impact of train services on coastal route
-
-*2024-06-12 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185875) · `ta`
-
-The Sagarika train's technical failure near Kattukurunda station disrupted travel between Galle and Colombo, impacting passengers' plans.
-
-🟩
-
-Sagarika train traveling from Galle to Colombo near the Kattukurunda railway station has suffered a technical failure.
-
-◼️
-
-[Data](articles/94fe843b.json)
-
-[Extended Data](ext_articles/94fe843b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 13:04:35**
+As of **2024-06-12 13:19:08**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 4,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,982 (100.0%) of 29,985 articles have been extended.
+29,985 (100.0%) of 29,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### විදුලිසැර වැදී පාසල් සිසුවියක් මරුට
+### Schoolgirl dies in electrocution
 
 *2024-06-12 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197678) · `si`
 
-රෙදි මැසීමේ යන්ත්‍රයකට අනාරක්ෂිත ලෙස විදුලිය ලබාගැනීමට ගිය 17 හැවිරිදි පාසල් සිසුවියක් විදුලිසැර වැදී ජීවිතක්ෂයට පත්වූ අවාසනාවන්ත පුවතක් වාර්තා විය.
+A 17-year-old girl died from electrocution while trying to power her sewing machine. She touched two wires after cutting them, causing a shock. Despite being rushed to the hospital, she passed away.
 
-නුගේගොඩ මහාමායා බාලිකා විද්‍යාලයෙන් උසස් පෙළ හදාරන නිශානි පියුමිකා ඊයේත් පාසල නිමවී නිවසට පැමිණ තිබුණේ සිය නැගණියද සමඟ ය.
+🟩
 
-සිය මිත්තණිය භාරයේ හැදී වැඩුණු නිශානි  නිවසට පැමිණි පසුව, අක්‍රීය තත්ත්වයේ තිබූ රෙදි මැසීමේ යන්ත්‍රය ක්‍රියාත්මක කිරීමට උත්සාහ දරා තිබුණාය.
+A 17-year-old schoolgirl reported to obtain electricity to a fabric session was reportedly committed to electrification.
 
-ඒ මිත්තණිය අසනීප තත්ත්වයක් හේතුවෙන් යාබද කාමරයේ නිදාගෙන සිටි අවස්ථාවක ය.
+Nishani Piyumika, who studies Advanced Level from Mahamaya Girls' College, Nugegoda had come home yesterday with his sister.
 
-සිසුවිය රෙදි මැසීමේ යන්ත්‍රයේ මෝටරය සහ වයරය සම්බන්ධ විදුලි පේනුව කාමරයේ බිත්තියට සවිකර තිබූ කෙවෙනියට සම්බන්ධ කිරීමට උත්සාහ කළත් එය අසාර්ථක වී ඇති බව පැවසෙයි.
+After entering the Nishani home in the custody of his grandmother, he tried to implement the fabric sewing machine.
 
-අනතුරුව වයරයට සම්බන්ධ පේනුව කොටස කපා ඉවත් කර එමඟින් පාදාගත් වයර් කොටස් දෙක කෙවෙනිය තුළට ඇතුළු කර විදුලිය ලබා ගැනීමට උත්සාහ කිරීමේදී සිසුවියට විදුලි සැර වැදී ඇති බව සඳහන් ය.
+That grandmother is asleep in the adjoining room due to illness.
 
-විදුලි සැර වැදීමත් සමගම ඇය කෑ ගැසූ ශබ්දය ඇසී එහි පැමිණි අසල්වාසී කාන්තාවක විසින් කාමරයේ වැටී සිටි සිසුවිය පිළියන්දල දිසා රෝහල වෙත රැගෙන ගියද ඒ වනවිටත් ඇය මියගොස් තිබුණි.
+The student tried to connect the motor and the weapon's potential telegraph to be connected to the wall of the room, but it is said to have failed.
+
+It is said that the student had been electrocuted and electrocuted when the two sections of the columne was cut off and entered the two sections of the wire.
+
+With the outbreak she had shouted, she was taken to the Piliyandala District Hospital, though she was taken to the Piliyandala District Hospital.
+
+Kesbewa Emergency Death Inspector Ajith Wijesinghe was conducted by the section of the cork and a shorter wire cord.
 
 ...
 
 [Data](articles/dab0c237.json)
+
+[Extended Data](ext_articles/dab0c237.ext.json)
 
 ---
 
@@ -121,6 +129,8 @@ The bus driver has been arrested, police said, adding that the incident has caus
 ◼️
 
 [Data](articles/6f6bf41c.json)
+
+[Extended Data](ext_articles/6f6bf41c.ext.json)
 
 ---
 
@@ -632,17 +642,23 @@ The 35,000 teachers who have participated in the campaign at the Zonal Office le
 
 ---
 
-### ஜனாதிபதித் தேர்தல்: வெற்றி, தோல்வியை தீர்மானிக்கும்
+### Presidential Election: Success and Defeat
 
 *2024-06-12 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-வெற்றி-தோல்வியை-தீர்மானிக்கும்/175-338799) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தல் முடிவுகள், நாட்டின் வெற்றி, தோல்வியைத் தீர்மானிக்குமே அன்றி தனிப்பட்ட வெற்றி, தோல்வியாக அமையாது என்று  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+In a policy reform meeting, President Ranil Wickremesinghe emphasized that the outcome of the upcoming presidential election signifies the nation's triumphs and failures, rather than his personal win or loss. This event was attended by young representatives from the Economic Reforms Department of Supervisory at the Battaramulla Voters Age Hotel.
 
-பொருளாதார சீர்திருத்த துறைசார் மேற்பார்வைக்  குழுவில்  கலந்து கொள்ளும் இளைஞர் பிரதிநிதிகளுடன்  பத்தரமுல்ல வோட்டர்ஸ் ஏஜ் ஹோட்டலில்  நடைபெற்ற கொள்கை சீர்திருத்தம் தொடர்பான கருத்தாடலில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said the upcoming presidential election results, the country's success and defeat, would not be a personal victory.
+
+The President made this statement at a concept of policy reform held at the Battaramulla Voters Age Hotel with youth representatives attending the Economic Reforms Department of Supervisory.
 
 ◼️
 
 [Data](articles/06a828bb.json)
+
+[Extended Data](ext_articles/06a828bb.ext.json)
 
 ---
 

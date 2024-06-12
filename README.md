@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 17:04:07**
+As of **2024-06-12 17:19:18**
 
 ## Newspaper Stats
 
-*Scraped **30,030** Articles*
+*Scraped **30,033** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 272
 dbsjeyarajcom | 281
-bbccomsinhala | 291
+bbccomsinhala | 292
 newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,721
@@ -20,17 +20,53 @@ adaderanalk | 3,403
 tamilmirrorlk | 3,517
 virakesarilk | 4,599
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,836
+adaderanasinhalalk | 4,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,030 (100.0%) of 30,030 articles have been extended.
+30,030 (100.0%) of 30,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### පාසලක සිසුන් සහ ගුරුවරුන් පිරිසකට බඹර ප්‍රහාරයක්
+
+*2024-06-12 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197689) · `si`
+
+කැකිරාව අධ්‍යාපන කලාපයට අයත් පාසලක සිසුන් පිරිසක් සහ ගුරුවරුන් පිරිසක් අද (12) බඹර ප්‍රහාරයකට ලක්වී තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ බඹර ප්‍රහාරයට ලක්වූ සිසුන් සහ ගුරුවරුන් 35 දෙනෙකු කැකිරාව දිසා රෝහලට ඇතුළු කර ඇති බවය.
+
+මෙලෙස බඹර ප්‍රහාරය එල්ලවී ඇත්තේ, කැකිරාව අධ්‍යාපන කලාපයට අයත් ඉහළ කාගම විද්‍යාලයේ ප්‍රාථමික අංශයේ සිසුන් සහ ගුරුවරුන් පිරිසකටය.
+
+ඉන් එක් සිසුවෙකුගේ තත්ත්වය බරපතළ බැවින් එම සිසුවා වැඩිදුර ප්‍රථිකාර සඳහා දඹුල්ල මූලික රෝහල වෙත මාරු කර යැවූ බව රෝහල් ආරංචි මාර්ග පැවසීය.
+
+◼️
+
+[Data](articles/975c8c47.json)
+
+---
+
+### කුකුල් චමින්දගේ අමානුෂික පහරදීම වීඩියෝ කළ තරුෂ ට ලක්ෂ 5ක්
+
+*2024-06-12 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197688) · `si`
+
+පසුගියදා වැලිඔය ප්‍රදේශයේ නිවසකදී පුද්ගලයෙක් විසින් කුඩා දැරියකට අමානුෂික ලෙස පහරදෙන වීඩියෝවක් සමාජ මාධ්‍ය යේ සංසරණය විය.
+
+ඔහු එම දැරියට පහරදෙන අවස්ථාව, කුකුල් චමින්ද ගේ තර්ජන හමුවේ වීඩියෝ කළ තරුණයාට අද (12) මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ප්‍රධාන්නත්වයෙන් පැවති උත්සවයකදී විශේෂ මුදල් ත්‍යාගයක් පිරිනැමිණි.
+
+එසේම මෙම අවස්ථාවේදී තරුෂ සඳරුවන් කොඩිකාර ට පොලිස්පති ප්‍රණාම ද පිරිනැමිණි.
+
+ඔහු ගේ එම වීඩියෝ ව මත ක්‍රියාත්මක වූ ආරක්ෂක අංශ කුකුල් චමින්ද ව අත්අඩංගුවට ගත්තේය.
+
+◼️
+
+[Data](articles/1b687197.json)
+
+---
 
 ### Three dead, several injured in bus-van collision at Wagama
 
@@ -1762,6 +1798,28 @@ Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands 
 
 ---
 
+### පාසල ඇරී වැඩට යන මෙරට දරුවන්: 'ඉගෙන ගන්නේ නැතුවත් බෑනේ රට යන්න'
+
+*2024-06-12 10:32:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg33lz7ljvxo) · `si`
+
+පාසල ඇරී වැඩට යන මෙරට දරුවන්: 'ඉගෙන ගන්නේ නැතුවත් බෑනේ රට යන්න'
+
+සංවේදී සිත් පාරමින් හයක් හතරක් නොතේරෙන සිඟිති දියණියකට අමානුෂික ලෙස පහර දෙන හද කම්පා කරවන විඩියෝවක් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වීමත් සමග රට තුළ ළමා අයිතිවාසිකම් පිළිබඳව වැඩි අවධානයක් යොමු විය.
+
+කුමන හෝ හේතුවක් මත රැකියාවක් කිරිමට බල කෙරී ඇති ලෝක වාසි දරුවන්ට අද සුවිශේෂි වන්නේ ජාත්‍යන්තර ළමා ශ්‍රම විරෝධි දිනය හේතුවෙනි. මෙවර එහි ගෝලීය තේමාව වන්නේ  “අපගේ කැපවීම් මත ක්‍රියා කරමු: ළමා ශ්‍රමය අවසන් කරමු!" යන්නයි.
+
+ජාත්‍යන්තර කම්කරු සංවිධානයේ ගණන් බැලීමට අනුව 2020 වසරේ වාර්තා අනුව ලොව පුරා ළමුන් මිලියන 160ක් ශ්‍රමියන් ලෙස සේවයේ යෙදෙනු ලබයි. ඉන් මිලියන 63ක් ගැහැණු දරුවන් වන අතර පිරිමි දරුවෝ මිලියන 97ක් රැකියාවල නිරත වෙති.
+
+දරුවන්ට පහර දෙන විට සංවේදී වන සමාජය ළමයින්  ශ්‍රමකයින් වන විට කොතරම් සංවේදී දැයි අප තවදුරටත් සිතා බැලිය යුතුය.
+
+හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන්ගේ නිවසේ මෙහෙකාර සේවයේ යෙදෙමින් සිටිය දී පිලිස්සි මිය ගිය ඉෂාලිනි ජුඩ් දැරියගේ මරණය මෙරට ළමා ශ්‍රමියන් පිළිබඳ කතාවේ එක් පරිච්ඡේදයක් පමණි.
+
+...
+
+[Data](articles/911d3eb1.json)
+
+---
+
 ### Two Indians recruited by Russia killed in Ukraine
 
 *2024-06-12 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99820/two-indians-recruited-by-russia-killed-in-ukraine) · `en`
@@ -2235,73 +2293,5 @@ Assistant General Manager APRJ. Wijesinghe said that water is supplied to the pe
 [Data](articles/8f039aa6.json)
 
 [Extended Data](ext_articles/8f039aa6.ext.json)
-
----
-
-### Thema Collection opens eco luxury ‘Waraka’ in Udawalawe
-
-*2024-06-12 08:15:00* · [`islandlk`](http://island.lk/thema-collection-opens-eco-luxury-waraka-in-udawalawe/) · `en`
-
-Thema Collection recently in Udawalawe opened its latest addition to its unque collection of theme properties, the eco-luxury retreat ‘Waraka’ a 12 roomed boutique hotel.
-
-Charg’e d’ Affaires of the Japanese Embassy in Sri Lanka Katsuki Kotaro was the Chief Guest and and he cut the ribbon at the auspicious time to signify the openning of the latest boutique hotel in Sri Lanka.
-
-The Chairman of the family owned company, veteran hotelier travel trade giant Chandra Wickramasinghe said the company has invested Rs. 220 million on the property.
-
-‘Waraka’ is not just another property but a holiday experience that goes hand in hand with nature bio diversity and sutainability, Wickramasignhe explained.
-
-Chief Guest Kotaro said that he was highly impressed with the property and ‘Waraka’ ‘s addctive charms are a combination of tranquility, modernity with innovation.
-
-...
-
-[Data](articles/a7b3eef6.json)
-
-[Extended Data](ext_articles/a7b3eef6.ext.json)
-
----
-
-### Sri Lankan wins the rain
-
-*2024-06-12 08:14:11* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-බලාපොරොත්තුවලට-වැස්ස-හරස්වෙයි/9-410160) · `si`
-
-In the Twenty20 World Cup, Sri Lanka advanced to the next round after defeating Nepal, while South Africa moved to the Super Eight stage due to the outcome of this match.
-
-🟩
-
-The race that was to be held between the Twenty20 World Cup, Nepal and Sri Lanka were left to leave for the next round of the tournament as the first two matures were defeated.Listen to the opportunity to do.
-
-Due to the match, South African team was elected to the round of the Super Eight of the tournament.
-
-◼️
-
-[Data](articles/e01bb8e2.json)
-
-[Extended Data](ext_articles/e01bb8e2.ext.json)
-
----
-
-### Former Government Courtesy, Police and Army troops apologize to a journalist
-
-*2024-06-12 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197665) · `si`
-
-Ratnapura Police and military personnel apologized to journalist Sarath Wimalaratne in court, resolving a dispute over a 2019 incident where he claimed he was assaulted during a visit to their offices. The apology came after the journalist filed a fundamental rights petition, leading to no further legal action being taken against him.
-
-🟩
-
-An army of Ratnapura Police and the OIC of Ratnapura Police, the OIC of Ratnapura Police and the OIC of Ratnapura Police have bowed down in the Supreme Court with a journalist at the Supreme Court yesterday.
-
-Accordingly, the dispute has been resolved and the petitioner has not taken any action against the petitioner's courts against the petitioner's Court.
-
-A fundamental rights petition filed by journalist Sarath Wimalaratne was called before the fundamental rights petition.
-
-Deputy Solicitor General Madhawa Tennakoon, who appeared in behalf of the respondents, informed the petitioner to apologize to the petitioner and it will not take legal action against him.
-
-Former Government Agent in Ratnapura, the OIC of the OIC of the Petivu, Malachila, OIC in Ratnapura, the OIC of the Employee, Eastern Police OIC, has bowed the petitioner at the Govili Police Station, in the Kuruwita Army.Was forgiven.
-
-...
-
-[Data](articles/19c11044.json)
-
-[Extended Data](ext_articles/19c11044.ext.json)
 
 ---

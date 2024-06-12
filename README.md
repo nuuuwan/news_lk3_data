@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 14:05:47**
+As of **2024-06-12 14:19:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,997 (100.0%) of 30,000 articles have been extended.
+30,000 (100.0%) of 30,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### පොදු තැන්වලදී ලිංගික හිරිහැර කළොත් වැඩවරදී
+### If sexually harassed in public places
 
 *2024-06-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197681) · `si`
 
-ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් තහනම් කිරීම සඳහා නෛතික විධිවිධාන ශක්තිමත් කරමින් දණ්ඩ නීති සංග්‍රහය සංශෝධනය කිරීමට අදාළ පනත් කෙටුම්පතට නීතිපතිගේ නිෂ්කාශන ලැබී තිබේ.
+The Attorney General has authorized changes to the pardon code to enhance laws against sexual harassment. A meeting approved amendments to the Penal Code to address various forms of sexual harassment, aiming to provide stronger legal protections.
 
-පොදු ස්ථානවලදී සිදු වන ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් ඇතුළු සියලු ආකාරයේ ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් අපරාධයක් බවට පත් කරමින් 2022 වසරේ දෙසැම්බර් 12 වන දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධන හඳුන්වා දීමට අනුමැතිය හිමිවුණි.
+🟩
 
-එකී පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාවට මෙලෙස අමාත්‍ය මණ්ඩලය අනුමැතිය හිමිව ඇත.
+The Attorney General's clearance has been received to amend the pardon code to strengthen the legal provisions for sexual harassment and sexual provisions.
+
+At the meeting of sexual harassment and sexual harassment, including sexual harassment and sexual harassment, was approved to introduce amendments to the Penal Code.
+
+The Hon.
 
 ◼️
 
 [Data](articles/ae0fb27c.json)
+
+[Extended Data](ext_articles/ae0fb27c.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Accordingly, the proposal made by the Minister of Justice, Prison Affairs and Co
 ◼️
 
 [Data](articles/850f7a7b.json)
+
+[Extended Data](ext_articles/850f7a7b.ext.json)
 
 ---
 
@@ -220,19 +228,25 @@ Considering the situation, a technical committee consisting of the Director Gene
 
 ---
 
-### සාගරිකා කළුතරදී ලෙඩවී මගීන් අපහසුතාවයට
+### Passengers in Kalutara in Kalutara
 
 *2024-06-12 13:12:36* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-කළුතරදී-ලෙඩවී-මගීන්-අපහසුතාවයට/11-410174) · `si`
 
-සාගරිකා සීඝ්‍රගාමී දුම්රිය අද (12) උදැසන කළුතර කලමුල්ල  ප්‍රදේශයේ කාර්මික දෝෂයකට ලක්වීමෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුව කාර්යාල සේවකයින් දැඩි අපහසුතාවට පත්වූහ .
+In Kalutara, the Sagarica express train caused significant delays to the coastal railway operations, stopping Ruhunu Kumari at various stations. This led to discomfort among passengers due to the disruption.
 
-ඒ අනුව රුහුණු කුමාරි සීඝ්‍රගාමී දුම්රිය දුම්රිය ස්ථාන කිහිපයක නවතා ධාවනය කරවීමටත්, කළුතර දකුණ සිට ගල්කිස්ස බලා ධාවනය වන මන්දගාමී දුම්රිය මරදාන දක්වා ධාවනයේ යොදවන බවත් දුම්රිය ප්‍රකාශකයෙක් කිය.
+🟩
 
-මේ හේතුවෙන් දුම්රිය මගින් දැඩි අපහසුතාවයට ලක්වන අයුරු දැකගත හැකි විය.
+The railway operations of the coastal railway operations were severely embarrassed by the Sagarica express train in Kalutara yesterday morning.
+
+Accordingly, Ruhunu Kumari has been stopped at several stations from Kalutara and the slow train from the South from the South from the South from the South from the South.
+
+As a result, the train was uncomfortable.
 
 ◼️
 
 [Data](articles/72beed3c.json)
+
+[Extended Data](ext_articles/72beed3c.ext.json)
 
 ---
 

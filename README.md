@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 01:34:26**
+As of **2024-06-13 01:53:37**
 
 ## Newspaper Stats
 
-*Scraped **30,094** Articles*
+*Scraped **30,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 293
 newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,733
-dailyftlk | 1,818
+dailyftlk | 1,827
 adalk | 2,590
 adaderanalk | 3,411
 tamilmirrorlk | 3,522
@@ -26,11 +26,163 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,087 (100.0%) of 30,094 articles have been extended.
+30,094 (100.0%) of 30,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### Election delay would end UNP: MR
+
+*2024-06-13 01:30:49* · [`dailyftlk`](https://www.ft.lk/news/Election-delay-would-end-UNP-MR/56-763034) · `en`
+
+Emphasises polls cannot be postponed according to constitution and any such attempt would be foolish
+
+Assures SLPP remains strong despite defections and people are supportive of an SLPP victory
+
+Claims public is focused on ensuring an SLPP and has little interest in other parties
+
+Former President Mahinda Rajapaksa has warned that attempting to postpone upcoming elections would only spell the end of the United National Party (UNP).
+
+Responding to questions posed by the media in Badulla on Tuesday, the Sri Lanka Podujana Peramuna (SLPP) leader said elections cannot be postponed according to the constitution. “Any attempt to delay polls will mark the end of the UNP,” he said.
+
+Rajapaksa also asserted that the country’s people remain hopeful about the SLPP and that defections have not weakened the party.
+
+...
+
+[Data](articles/6d08380b.json)
+
+---
+
+### BASL President temporarily steps down amid JICA scandal investigation
+
+*2024-06-13 01:30:01* · [`dailyftlk`](https://www.ft.lk/news/BASL-President-temporarily-steps-down-amid-JICA-scandal-investigation/56-763033) · `en`
+
+In a significant development the President of the Bar Association of Sri Lanka (BASL) Kaushalya Nawaratna, has temporarily stepped down from his position pending the conclusion of an investigation into alleged financial irregularities within the BASL. This decision comes in response to growing pressure and concerns regarding the alleged misappropriation of funds earmarked for an anti-corruption initiative funded by the Japan International Cooperation Agency (JICA).
+
+The controversy erupted when a group of legal professionals, including 10 Presidents’ Counsel and over 80 Attorneys-at-Law, called for a comprehensive investigation into the JICA project scandal. They demanded that any BASL member potentially involved in the misuse of funds step down during the inquiry. The group highlighted the paramount importance of transparency, accountability, and the preservation of BASL’s moral authority and public trust.
+
+...
+
+[Data](articles/c4841868.json)
+
+---
+
+### President appoints Committee of Inquiry on 2019 Easter Sunday attacks; wants report in three months
+
+*2024-06-13 01:29:54* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-Committee-of-Inquiry-on-2019-Easter-Sunday-attacks-wants-report-in-three-months/56-763032) · `en`
+
+President Ranil Wickremesinghe has appointed a Committee of Inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on 21 April 2019.
+
+This decision follows the findings of the final report of the Commission of Inquiry, dated 31 January 2021, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
+
+The Committee of Inquiry will be chaired by A.N.J. De Alwis, Retired Judge of the High Court. Other esteemed members of the committee include SLAS special grade Officer K.N.K. Somaratne and Senior Lawyer W.M.A.N. Nishane, AAL.
+
+...
+
+[Data](articles/b2b7b60f.json)
+
+---
+
+### Cabinet clears publication of revised Immigration Bill
+
+*2024-06-13 01:29:22* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-publication-of-revised-Immigration-Bill/56-763031) · `en`
+
+The Cabinet of Ministers has approved the publication of the draft Bill for the new Immigration Act in the Government Gazette, while subsequently presenting it to Parliament for approval.
+
+The Immigration Act No. 20 of 1948 has undergone several amendments over the years. However, in light of rapid technological advancements and evolving international trends, there is a recognised need for a comprehensive overhaul.
+
+On 15 February 2021, the Cabinet initially approved the introduction of a new Immigration Act to address these changes.
+
+“The draft Bill, prepared by the Legal Draftsman, has now received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+This new legislation aims to modernise the legal framework governing immigration in Sri Lanka, ensuring it is aligned with current and future demands.
+
+...
+
+[Data](articles/0a1a7f29.json)
+
+---
+
+### Mullaitivu fishermen threaten action amidst illegal fishing crisis
+
+*2024-06-13 01:29:14* · [`dailyftlk`](https://www.ft.lk/news/Mullaitivu-fishermen-threaten-action-amidst-illegal-fishing-crisis/56-763030) · `en`
+
+Tensions are rising among fishermen in Mullaitivu as Government authorities allegedly continue to fail to stop illegal fishing by fishermen from other provinces, leading to the risk of a major conflict in the region. Local fishing leaders have given the authorities a two-day ultimatum to address the issue, warning of drastic measures if their demands are not met.
+
+Fishermen from outer provinces have been accused of using prohibited gear to fish in the Mullaitivu sea, depleting resources and threatening the livelihoods of local fishermen. This has prompted the Jaffna District Fishermen’s Cooperative Society Vice President, Antonipillai Francis Ratnakumar, to issue a stern warning during a protest held on 10 June in front of the Mullaitivu District Secretariat.
+
+...
+
+[Data](articles/8433320a.json)
+
+---
+
+### Cabinet nod to amend Penal Code to strengthen legal provisions to prohibit sexual harassment
+
+*2024-06-13 01:28:15* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-amend-Penal-Code-to-strengthen-legal-provisions-to-prohibit-sexual-harassment/56-763029) · `en`
+
+The Cabinet of Ministers at its meeting approved the proposal to publish the draft Bill criminalising all forms of sexual harassment in the Government Gazette and subsequently present it to Parliament for approval.
+
+On 12 December 2022, the Cabinet initially approved the introduction of amendments to the Penal Code aimed at criminalising all forms of sexual harassment, including incidents occurring in public places.
+
+“The Legal Draftsman prepared the relevant draft Bill, which has now received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/262955ee.json)
+
+---
+
+### Vidullanka receives ISO 9001:2015 for domestic hydro and solar segments
+
+*2024-06-13 01:27:33* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-receives-ISO-9001-2015-for-domestic-hydro-and-solar-segments/34-763028) · `en`
+
+From left: Vidullanka Manager of Projects and Contracts Sunera Samaranayake, Nexus Business Solutions Managing Director and ISO Consultant Prabhath Samarasinghe, SGS Lanka Business Manager Chamika Wimalasiri, Vidullanka CEO Riyaz Sangani, Vidullanka Director of Operations Roshan Siriwardene, Vidullanka Assistant Manager of Operations Damitha Bandulawansa, and Vidullanka HR Executive Chamodhi Perera
+
+Vidullanka PLC has received the ISO 9001:2015 certification for Quality Management.
+
+Accredited by SGS Lanka Ltd., the certification was awarded for the business development, design and operations of the company’s domestic hydro and solar segments. It is an acknowledgement of Vidullanka’s commitment to implementing exceptional management standards to achieve its vision of sustainably energising the planet.
+
+...
+
+[Data](articles/3a568601.json)
+
+---
+
+### NSBM Founding Vice Chancellor Prof. Weerasinghe honoured with Most Outstanding Citizen Award 2024 by Lions International
+
+*2024-06-13 01:26:46* · [`dailyftlk`](https://www.ft.lk/business/NSBM-Founding-Vice-Chancellor-Prof-Weerasinghe-honoured-with-Most-Outstanding-Citizen-Award-2024-by-Lions-International/34-763027) · `en`
+
+NSBM Green University Vice Chancellor Prof. E.A. Weerasinghe has been bestowed with the prestigious Most Outstanding Citizen 2024 (MOC Awards) by Lions International, in recognition of his exceptional contributions to society.
+
+The award was presented amidst the grandeur of the 19th Annual District Convention of Lions International District 306 A1 - Sri Lanka, held on 9 June at Hotel Galadari in Colombo.
+
+Most Outstanding Citizen 2024 (MOC Awards) of Lions International District 306 A1 - Sri Lanka is awarded under the theme “Exceptional Contribution to Society”, to recognise and honour individuals and organisations who have rendered exceptional, invaluable services or actions which have benefitted Sri Lankan society at large. Prof. Weerasinghe has earned this distinguished award for his truly exceptional, sustained contribution, which provides inspiration for others, has influenced change, and has made an impact and demonstrable contribution to the community.
+
+...
+
+[Data](articles/a3f01c75.json)
+
+---
+
+### Public teach-out on Sri Lanka’s women’s movements on Saturday
+
+*2024-06-13 01:26:05* · [`dailyftlk`](https://www.ft.lk/business/Public-teach-out-on-Sri-Lanka-s-women-s-movements-on-Saturday/34-763026) · `en`
+
+A public teach-out on Sri Lanka’s women’s movements will be held on Saturday 15 June from 2 p.m. to 5 p.m. at the Colombo Public Library Auditorium.
+
+Initiated by Everystory Sri Lanka, a young feminist organisation using storytelling and knowledge sharing for advocacy, the event will feature trilingual interactive discussions, delving into the rich history of women’s movements in Sri Lanka.
+
+Additionally, participants are encouraged to experience the unique human library, where participants can engage with women from different generations working on different interests who will share their memories, perspectives, and insights.
+
+Discussions will be conducted in all three languages: English at 2:15 p.m., Sinhala at 3:00 p.m., and Tamil at 3:45 p.m. All events are free to access, and no pre-registration is required.
+
+...
+
+[Data](articles/2489df32.json)
+
+---
 
 ### First national dialogue on fair taxation and stronger social contract for SDGs
 
@@ -43,6 +195,8 @@ The United Nations Development Program (UNDP) in Sri Lanka, in collaboration wit
 ...
 
 [Data](articles/ab677db0.json)
+
+[Extended Data](ext_articles/ab677db0.ext.json)
 
 ---
 
@@ -60,6 +214,8 @@ This decision was made following a meeting on 18 March 2024, where the Finance, 
 
 [Data](articles/35bc090c.json)
 
+[Extended Data](ext_articles/35bc090c.ext.json)
+
 ---
 
 ### Govt. to set up 25 District Industry Promotion Councils
@@ -75,6 +231,8 @@ Acknowledging that the MSMEs are grappling with numerous issues at present, he s
 ...
 
 [Data](articles/45073884.json)
+
+[Extended Data](ext_articles/45073884.ext.json)
 
 ---
 
@@ -94,6 +252,8 @@ The proposal made by the Trade, Commerce and Food Security Minister Nalin Fernan
 
 [Data](articles/2b741702.json)
 
+[Extended Data](ext_articles/2b741702.ext.json)
+
 ---
 
 ### New solar power venture in Batticaloa with Rs. 2.2 b investment
@@ -110,6 +270,8 @@ The Vavunathivu II Solar Power Project is expected to attract an investment of a
 
 [Data](articles/60184642.json)
 
+[Extended Data](ext_articles/60184642.ext.json)
+
 ---
 
 ### Cabinet approves proposed Sri Lanka Institute of Food Science and Technology
@@ -125,6 +287,8 @@ He said the establishment of this institute aims to advance food science and tec
 ...
 
 [Data](articles/dbc5d55e.json)
+
+[Extended Data](ext_articles/dbc5d55e.ext.json)
 
 ---
 
@@ -143,6 +307,8 @@ On 1 April, the Cabinet approved a proposal to allow the import of 250 small bus
 ...
 
 [Data](articles/67e38721.json)
+
+[Extended Data](ext_articles/67e38721.ext.json)
 
 ---
 
@@ -2057,223 +2223,5 @@ However, Minister of Plantation Enterprise Development Minister Ranjith Siyambal
 [Data](articles/165dcb90.json)
 
 [Extended Data](ext_articles/165dcb90.ext.json)
-
----
-
-### Sri Lanka to begin free trade agreement negotiations with Malaysia
-
-*2024-06-12 13:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-free-trade-agreement-negotiations-with-malaysia-167618/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the starting of relevant negotiations for a free trade agreement with Malaysia, minister Bandula Gunawardena said.
-
-“Malaysia is the 34th export destination for Sri Lanka currently. It’s a key member of ASEAN and the Regional Comprehensive Economic Partnership,” Gunawardena told reporters on Tuesday.
-
-Total export value from Sri Lanka to Malaysia was 58.34 million dollars in 2023, according to the Export Development Board. Total imports from Malaysia to Sri Lanka for the same period were 736.39 million dollars.
-
-Sri Lanka exported petroleum oils, women’s outerwear, rubber industrial and surgical gloves, men’s and women’s under garments, babies’ garments, tea in bulk, gloves, textile mitts and mittens, and tea packets.
-
-Sri Lanka hopes to sign FTAs with other ASEAN member states after debt restructuring is complete.
-
-...
-
-[Data](articles/0bfafd8b.json)
-
-[Extended Data](ext_articles/0bfafd8b.ext.json)
-
----
-
-### NPP backs continuation of Provincial Councils in existing form
-
-*2024-06-12 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99828/npp-backs-continuation-of-provincial-councils-in-existing-form) · `en`
-
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayake affirmed his party’s support for the continuation of Provincial Councils in their current form.
-
-Speaking to the media following a discussion in Jaffna with representatives from the Tamil National Alliance (TNA), the NPP leader stressed the need for further dialogue to enhance the role and effectiveness of Provincial Councils.
-
-“In order to move forward from here, we need to build a discussion, especially on constitutional changes,” Dissanayake said.
-
-The NPP Leader further added: “Provincial councils represent a devolution of power. While we support the existing Provincial Councils, we recognize that they have not resolved the current issues. Therefore, we need to go beyond the existing framework.”
-
-“We believe that national unity can be established through changes in many sections such as constitutional, legal and practical.”
-
-◼️
-
-[Data](articles/efe56895.json)
-
-[Extended Data](ext_articles/efe56895.ext.json)
-
----
-
-### Free trade agreement with Malaysia
-
-*2024-06-12 12:56:01* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාව-සමග-නිදහස්-වෙළඳ-ගිවිසුමක්/11-410173) · `si`
-
-Sri Lanka's Cabinet approves a free trade agreement with Malaysia, aiming to boost trade ties. Malaysia ranks as the 34th largest export destination for Sri Lanka, with exports exceeding US $50 million in 2023.
-
-🟩
-
-Cabinet approval has been approved by the Cabinet paper presented by President Ranil Wickremesinghe with regard to the signing of a free trade agreement with Malaysia.
-
-The 34th Efficiency destination in Sri Lanka is Malaysia and the total exports from the 2023 exceed US $ 50 million.
-
-◼️
-
-[Data](articles/b15a7d6a.json)
-
-[Extended Data](ext_articles/b15a7d6a.ext.json)
-
----
-
-### I accept the judgment of the court against the son
-
-*2024-06-12 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185901) · `ta`
-
-US President Joe Biden respects the court's ruling against his son, Hunter Biden, who was found guilty of violating gun laws. This marks the first time a family member of a sitting US president has been convicted. The charges stem from allegations of false statements regarding the purchase of firearms and potential drug use. Despite the serious nature of the charges, which could lead to a significant prison sentence, the president stands by his son, expressing pride in his position and love as a father.
-
-🟩
-
-US President Joe Bidan has said that he will respect the court's verdict against his son.
-
-A US judge has ruled that Hunter Baidon's son Hunter Bitton, son of US President Jobiton, has violated laws over the use of a gun.
-
-This is the first time that the court has ruled that a family member of a man who is in office as US president is guilty.
-
-It is noteworthy that two allegations of Hunter's falseness have been accused of holding the rifles when the rifle is being purchased.
-
-Hunter Baidan said that he was not addicted to the government document in 2018 when he purchased the handgun in 2018, but it was the main allegation that he was suffering from the use of cocaine.
-
-The US government's ATV document can be sentenced to 25 years in prison in the United States.
-
-In this case, the court has tied up Hunter Baidan, who has gone to Delavayyir Wilmington after the court's verdict.
-
-I am also the father and I love my son and I am proud of his position.
-
-◼️
-
-[Data](articles/1bfe4c08.json)
-
-[Extended Data](ext_articles/1bfe4c08.ext.json)
-
----
-
-### Terror in Ampara!Crocodiles are at risk of invading people's dwellings!
-
-*2024-06-12 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185893) · `ta`
-
-Ampara faces a growing crocodile threat, with animals leaving rivers to invade homes and fields, especially at night. Crocodiles, ranging from 2.5 to 4 feet long, are sighted in residential areas like Kitangi, Mavadipalli, and others, posing a danger to both humans and livestock. The situation is exacerbated during agricultural activities, with crocodiles attacking buffaloes. Authorities are urged to address this issue effectively.
-
-🟩
-
-Most of the crocodiles in Ampara district go out and go into the dwellings. Crocodiles and pedestrians on the road are now traveling in fear as crocodiles leave the river and day.
-
-People have reported that the crocodiles are about 9,5 to 4 feet long at night. Crocodile threat continues in places like Kitangi, Mavadipalli, Chinna Sukkuttaram and Kanjikudicha.. The proliferation of crocodiles is increasing in the ponds and ponds.
-
-Moreover, as agriculture and harvesting have begun, the buffalo cows are crowded with crocodiles in the fields of fields.
-
-Crocodiles in the area are reported to be preying to the cows in the area as crocodiles are out of the night and day.
-
-People say that the proliferation of crocodiles in the areas is increasing and the instructions in the relevant areas of the crocodile are not placed in the appropriate areas.
-
-Traveling in the area without knowing the risk of crocodile is possible. People are demanding that the relevant authorities take this.
-
-◼️
-
-[Data](articles/dc2f1228.json)
-
-[Extended Data](ext_articles/dc2f1228.ext.json)
-
----
-
-### Schoolgirl dies in electrocution
-
-*2024-06-12 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197678) · `si`
-
-A 17-year-old girl died from electrocution while trying to power her sewing machine. She touched two wires after cutting them, causing a shock. Despite being rushed to the hospital, she passed away.
-
-🟩
-
-A 17-year-old schoolgirl reported to obtain electricity to a fabric session was reportedly committed to electrification.
-
-Nishani Piyumika, who studies Advanced Level from Mahamaya Girls' College, Nugegoda had come home yesterday with his sister.
-
-After entering the Nishani home in the custody of his grandmother, he tried to implement the fabric sewing machine.
-
-That grandmother is asleep in the adjoining room due to illness.
-
-The student tried to connect the motor and the weapon's potential telegraph to be connected to the wall of the room, but it is said to have failed.
-
-It is said that the student had been electrocuted and electrocuted when the two sections of the columne was cut off and entered the two sections of the wire.
-
-With the outbreak she had shouted, she was taken to the Piliyandala District Hospital, though she was taken to the Piliyandala District Hospital.
-
-Kesbewa Emergency Death Inspector Ajith Wijesinghe was conducted by the section of the cork and a shorter wire cord.
-
-...
-
-[Data](articles/dab0c237.json)
-
-[Extended Data](ext_articles/dab0c237.ext.json)
-
----
-
-### Sri Lanka Railways explores leasing space above stations, increasing goods trains to boost revenue
-
-*2024-06-12 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-explores-leasing-space-above-stations-increasing-goods-trains-to-boost-revenue-167613/) · `en`
-
-ECONOMYNEXT – State-run Sri Lanka Railways is exploring new avenues to boost its revenue including leasing spaces above some stations located in strategic locations, streamlining illegal occupancy of its lands, and increasing transport of goods and parcels, Transport Minister Bandula Gunawardana said.
-
-Despite sharp price hike in ticket cost, the island nation’s more than a century old railway has yet to make breakeven in its operations.
-
-The loss-making institution has already given some trains to be operated by private sector while starting new trains targeting tourists.
-
-It has now come up with plans to lease out space above some select railway stations including Colombo Fort and other areas in Colombo to lease for private sector investors.
-
-...
-
-[Data](articles/f98a8eba.json)
-
-[Extended Data](ext_articles/f98a8eba.ext.json)
-
----
-
-### LOLC Savi and SLT-Mobitel Upahara join forces to enhance services for state sector employees
-
-*2024-06-12 12:39:00* · [`islandlk`](http://island.lk/lolc-savi-and-slt-mobitel-upahara-join-forces-to-enhance-services-for-state-sector-employees/) · `en`
-
-LOLC SAVI, the leading credit card solution provider for state sector employees and pensioners in Sri Lanka, is excited to announce its strategic partnership with SLT-MOBITEL, the National Information and Communications Technology (ICT) Solutions Provider. This alliance aims to revolutionize the service experience for state sector employees nationwide.
-
-As part of the joint promotion, valid until August 31, 2024, LOLC SAVI cardholders are entitled to exclusive Upahara Packages free of charge, with no connection fees. These packages include the Upahara Rs. 499/- Package, which offers 15 GB anytime data, 1000 free minutes of voice and SMS, 10 GB for learning packages, and 7.5 GB for WhatsApp, Google Maps, and Waze. Additionally, the Upahara Rs. 727/- Package offers 30 GB anytime data, 1000 free minutes of voice and SMS, 10 GB for learning packages, and 7.5 GB for WhatsApp, Google Maps, and Waze.
-
-...
-
-[Data](articles/631ed178.json)
-
-[Extended Data](ext_articles/631ed178.ext.json)
-
----
-
-### A rare bird fever for a 4 -year -old child in India - World Health Organization Information
-
-*2024-06-12 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185899) · `ta`
-
-A 4-year-old boy in West Bengal, India, became the first case in the country of avian influenza A (H9N2) since its initial detection in 2019. The child was hospitalized in February with severe fever and difficulty breathing, requiring intensive care for three months. The virus, contracted from a nearby poultry farm, did not spread to his family or contacts. This rare case marks the second instance of H9N2 infection in India, prompting preventive measures by the government.
-
-🟩
-
-The World Health Organization has reportedly affected a 4 -year -old baby boy in West Bengal, West Bengal, Avian Influayansa A (H9N2).
-
-This rare virus has been diagnosed for the first time in India for the first time in 2019.
-
-The embedded child was admitted to the intensive care unit of the hospital last February due to suffocation and severe fever. In the experiment, H9 N2 virus has been confirmed and has been treated intensively for the past 3 months. He was sent from the hospital after the child recovered.
-
-The study revealed that the virus was infected from a poultry farm near the child's home. The child's family and those who were in touch with them have no symptoms of respiratory illness. And this virus is not said to be fast -paced. The rare virus has been reported for the second time in India.
-
-It is noteworthy that the Indian government has taken preventive measures after the rare bird flu impact was diagnosed.
-
-◼️
-
-[Data](articles/2f0caea0.json)
-
-[Extended Data](ext_articles/2f0caea0.ext.json)
 
 ---

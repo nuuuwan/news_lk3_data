@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 11:34:40**
+As of **2024-06-12 11:54:20**
 
 ## Newspaper Stats
 
-*Scraped **29,962** Articles*
+*Scraped **29,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,572
-adaderanalk | 3,389
+adaderanalk | 3,392
 tamilmirrorlk | 3,509
 virakesarilk | 4,582
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,822
+adaderanasinhalalk | 4,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,955 (100.0%) of 29,962 articles have been extended.
+29,962 (100.0%) of 29,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Sri Lanka hopeful IMF will approve third tranche today
+
+*2024-06-12 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99826/sri-lanka-hopeful-imf-will-approve-third-tranche-today) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has expressed confidence that the International Monetary Fund (IMF) will approve the release of the third tranche under the Extended Fund Facility (EFF) programme today (12).
+
+Commenting regarding the matter, Assistant Governor of the CBSL Dr. Chandranath Amarasekara said: ““we hope IMF will announce releasing of the 3rd tranche to Sri Lanka under the EFF programme this evening”.
+
+Dr. Amarasekara made this remark while speaking during an awareness programme conducted by the CBSL in Colombo this morning (12).
+
+The International Monetary Fund’s executive board is scheduled to meet today (Juen 12) to discuss the second review of the Extended Fund Facility (EFF) and Article IV Consultation.
+
+The Article IV Consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the International Monetary Fund’s (IMF) Executive Board meeting agenda for June 12, as confirmed by Julie Kozack, the Director of the IMF Communications Department.
+
+...
+
+[Data](articles/e70fc4b4.json)
+
+---
+
+### 30 factory workers hospitalised after inhaling toxic chemical fumes
+
+*2024-06-12 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99825/30-factory-workers-hospitalised-after-inhaling-toxic-chemical-fumes) · `en`
+
+At least thirty workers of a cosmetics manufacturing factory in Pinwatta, Panadura have been hospitalised after accidentally inhaling the fumes from a toxic chemical mixture.
+
+Police said that the factory in question has been temporarily closed following the incident.
+
+◼️
+
+[Data](articles/5b96e78d.json)
+
+---
+
+### රසායනික ද්‍රව්‍යයක් විස වී කර්මාන්ත ශාලාවක පිරිසක් රෝහලට
+
+*2024-06-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197675) · `si`
+
+පානදුර, නල්ලුරුව ප්‍රදේශයේ කර්මාන්තශාලාවක රසායනික ද්‍රව්‍යයක් විස වීමෙන් පුද්ගලයින් 30 දෙනෙකු පමණ රෝහල්ගත කර ඇතැයි වාර්තා වේ.
+
+සුවඳ විලවුන් ඇතුළු ද්‍රව්‍ය නිෂ්පාදනය කරන ආයතනයක මිශ්‍රණයක් සැකසීමේ දී රසායනික ද්‍රව්‍යයක් වෙනස්වීමෙන් මෙම තත්ත්වය හට ගෙන ඇත.
+
+කෙසේවෙතත් සිදුවීමෙන් අනතුරුව තාවකාලිකව අදාළ කර්මාන්ත ශාලාව වසා දැමීමට උපදෙස් දුන් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/c0d99bc6.json)
+
+---
+
+### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+
+*2024-06-12 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197674) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති, මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය මේ මස 19 වන දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ මෙම පැමිණිල්ල අද (12) කොළඹ දිසා අධිකරණය ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/092afbdd.json)
+
+---
 
 ### Foreign Minister Sabry engages in high-level talks with counterparts at BRICS summit
 
@@ -48,6 +112,26 @@ Sabry, who also met Belarus FM Sergei Aleinik on the sidelines of the BRICS mini
 
 [Data](articles/26b107c1.json)
 
+[Extended Data](ext_articles/26b107c1.ext.json)
+
+---
+
+### Court further extends injunction against ex-President Maithripala
+
+*2024-06-12 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99823/court-further-extends-injunction-against-ex-president-maithripala) · `en`
+
+The Colombo District Court has extended the interim injunction issued preventing former President Maithripala Sirisena functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) until June 19, 2024, Ada Derana reporter said.
+
+This order was issued when a plaint filed by former President Chandrika Bandaranaike Kumaratunga was taken up for consideration before the court today (12).
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+However on May 12, the former President resigned from the post of Chairman of the SLFP, following which the faction of the SLFP led by Sirisena appointed Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
+
+◼️
+
+[Data](articles/9bc3b383.json)
+
 ---
 
 ### Court extends injunction against ex-President Maithripala
@@ -59,6 +143,8 @@ The Colombo District Court has extended the interim injunction issued preventing
 ◼️
 
 [Data](articles/ab50dc87.json)
+
+[Extended Data](ext_articles/ab50dc87.ext.json)
 
 ---
 
@@ -78,47 +164,63 @@ The Head of the State made this remark during a policy reform discussion held in
 
 ---
 
-### පුද්ගලයන් දෙස බලා තීරණ ගැනීමේ අතීත වැරැද්ද යළි සිදුනොකළ යුතුයි –ජනපති
+### The past mistake of individuals should not be restored to make decisions
 
 *2024-06-12 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197673) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේ දී තීරණය වන්නේ තම ජය, පැරදුම නොව රටේ ජයග්‍රහණය හෝ පරාජය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe emphasizes the importance of national victory over personal success in the upcoming presidential election. He stresses the need for continued support for the government's economic reform program, highlighting the critical role of youth in contributing to the nation's future. The President criticizes the lack of a formal economic system and the consequences of relying heavily on imports without sufficient funds, leading to economic instability and debt. He calls for unity among political parties to support the government's economic stabilization efforts, urging citizens to consider the broader impact of their choices on the country's economy rather than focusing solely on individual political gains.
 
-රජයේ වැඩපිළිවෙළ සමඟ ඉදිරියට යා යුතු බවට ජනතාව සෑහීමකට පත්ව සිටී නම් එම ක්‍රමවේදය සමඟ ඉදිරියට යා හැකි බවත් එසේ නොමැති වුවහොත් නැවතත් කඩාවැටුණු ආර්ථිකයක් ඇති රටක ඖෂධ, පොහොර සපයා ගත නොහැකිව මෙන්ම ඉන්ධන සහ ගැස් පෝලිම්වල දුක් විඳීමට ජනතාවට සිදුවන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, පාර්ලිමේන්තු ආංශික අධික්ෂණ කාරක සභා සඳහා සහභාගිවන තරුණ නියෝජිතයන් සමඟ ඊයේ (11) බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයේ පැවති ප්‍රතිපත්ති ප්‍රතිසංස්කරණ කතිකාවට එක්වෙමිනි.
+President Ranil Wickremesinghe stressed that the next presidential election is determined not to win, but the country's victory but be defeated.
 
-අද වේදිකා මත විවිධ පොරොන්දු දෙන පිරිසට රටේ ආර්ථිකය ඉදිරියට ගෙන යාම වෙනුවෙන් කිසිදු වැඩපිළිවෙළක් නොමැති බව මෙහිදී පෙන්වා දුන් ජනාධිපතිවරයා, මැතිවරණවලදී පුද්ගලයන් දෙස බලා තීරණ ගැනීමේ අතීත වැරද්ද නැවත සිදුනොකරන ලෙස තමා සියලු දෙනාගෙන් ඉල්ලා සිටින බවද සඳහන් කළේය.
+The President pointed out that if the people are satisfied that they should continue with the government's program, the President said.
+
+President Ranil Wickremesinghe made this statement participating in the policy reforms held at Waters Age Hotel yesterday (11) with youth representatives participating in the Parliamentary Collection of Parliament.
+
+The President said that the President has no program to promote various promises on the stage today.
+
+The President had asked all political parties to support the government's economic translation bill to proceed to the country's economy.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/e57f64a5.json)
 
+[Extended Data](ext_articles/e57f64a5.ext.json)
+
 ---
 
-### යුක්‍රේන - රුසියා යුද්ධයට එක්වූ ඉන්දියානුවන් දෙදෙනෙක් මරුට
+### Two Indians killed in Ukrainian and Russia war
 
 *2024-06-12 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197672) · `si`
 
-රුසියානු හමුදාව මගින් බඳවා ගන්නා ලද ඉන්දියානුවන් දෙදෙනෙක් යුක්‍රේන - රුසියා යුදබිමේදී මියගොස් ඇති බව ඉන්දීය බලධාරීන් පවසයි.
+Two Indians fighting for Russia in Ukraine were killed. The Indian government wants their remains returned from Russia. They warn against deceptive recruitment promises offering high wages and citizenship. Nepal and Sri Lanka have issued similar warnings, with deaths reported among citizens who went to fight. Authorities in these countries have arrested suspects involved in misleading recruits. High-ranking officials from Sri Lanka plan to discuss the issue with Russia, emphasizing no recruitment for its army.
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍යංශය පැවසුවේ මිය ගොස් ඇති දෙදෙනාගේ සිරුරු ඉන්දියාවට එවීමට කටයුතු කරන ලෙස රුසියානු බලධාරීන්ට දැනුම්දුන් බවයි.
+🟩
 
-එසේම රුසියානු හමුදාවට බඳවා ගෙන සිටින ඉන්දීය ජාතිකයින් හැකි ඉක්මණින් නිදහස් කර ඔවුන්ව නැවත බාරදෙන ලෙසද ඉන්දීය බලධාරීන් රුසියාවෙන් ඉල්ලා තිබේ.
+Two Indians recruited by the Russian army have died in the Ukrainian and Russia in the milk.
 
-විවිධ වංචනිකයින් විසින් ඉන්දීය තරුණයින්ව විශාල වැටුප් ලබාදෙන බවටත් රුසියානු පුරවැසිභාවය දෙන බවටත් රවටා රුසියාවට යවා ඇති බව වාර්තා වෙයි.
+According to the Indian Foreign Ministry said the Russian authorities had informed the Russian authorities to send the bodies of the dead to India.
 
-ඔවුන්ට රැවටුණු විශාල පිරිසක් මේ වනවිට රුසියාවට ගොස් ඇති බව සඳහන් ය.
+Indian authorities have also requested Russia to release them to the Russian army and redefinate them again.
 
-පසුගිය මැයි මාසයේදී මිනිස් ජාවාරමට සැකපිට සිව් දෙනෙක් ඉන්දීය බලධාරීන් විසින් අත්අඩංගුවට ගත්තේය. එම පුද්ගලයින් තරුණ ඉන්දියානුවන්ව රුසියාවේ අධ්‍යාපන අවස්ථා සහ රැකියා ලබාදෙන බව පවසා රුසියාවට යවා තිබුණු බව හෙළිවිය.
+It is reported that the Indian youths have been sent to Russia that the Indian youth will be given large wages and their Russian citizenship.
 
-මීට පෙරද යුක්‍රේන - රුසියා යුදබිමේදී ඉන්දීය ජාතිකයින් දෙදෙනෙක් මියගොස් තිබුණි.
+A large number of people deceived them had gone to Russia.
 
-මේ අතර බොරු පොරොන්දුවලට රැවටී රුසියාවට නොයන ලෙස නේපාලය සහ ශ්‍රී ලංකාව ද සිය වැසියන්ට අනතුරු අඟවා තිබේ.
+Indian authorities arrested four suspects in May last May. It was revealed that the young Indians had been sent to Russia claiming that the young Indians would give Russia educational opportunities and employment.
+
+Two Indian nationals were killed in Ukrainian and Russia in Russia.
+
+Meanwhile, Nepal and Sri Lanka have warned their people not to deceive false promises and go to Russia.
 
 ...
 
 [Data](articles/7c25ed7e.json)
+
+[Extended Data](ext_articles/7c25ed7e.ext.json)
 
 ---
 
@@ -174,17 +276,23 @@ It is located twice as much as the Mankatan Central Park.
 
 ---
 
-### සා.පෙ උත්තර පත්‍ර බලන ගුරුවරු අද 2.00ට වැඩ අත්හරියි
+### LSSP's reply legal teachers will leave work at 2.00 today
 
 *2024-06-12 10:55:52* · [`adalk`](https://www.ada.lk/breaking_news/සා-පෙ-උත්තර-පත්‍ර-බලන-ගුරුවරු-අද-2-00ට-වැඩ-අත්හරියි/11-410167) · `si`
 
-මෙවර සාමාන්‍ය පෙල විභාගයේ ප්‍රශ්න පත්‍ර ඇගයීම් කටයුතුවල නිරත ගුරුවරුන් සිය සංයුක්ත දීමනාව ලබා දෙන ලෙස ඉල්ලමින් අද (12) සවස 2.00 වන විට ඇගයීම් කටයුතුවලින් ඉවත්වන බව ලංකා ගුරු සංගමයේ ලේකම් ජෝසප් ස්ටාලින් දන්වා සිටියි.
+Joseph Stalin, Secretary of the Ceylon Teachers Union, was informed that teachers participating in the rapid allowance process for the O/L exam would leave work early today. This decision involves 35,000 teachers who had previously received a compact allowance of Rs. 3000 million for their involvement in Advanced Level evaluations last year.
 
-කලාප කාර්යාල මට්ටමින් පවත්වනු ලබන මෙම උද්ඝෝෂනය සඳහා මේ සඳහා සහභාගීවී ඇති ගුරුවරුන් 35,000 දෙනා සම්බන්ධවන බව හෙතෙම වැඩි දුරටත් සඳහන් කරයි. පසුගිය වසරේදී උසස්පෙල ඇගයීවලට සහභාගීවූ ගුරුවරුන්ට රු 2000- 3000 අතර සංයුක්ත දීමනාවක් ලබාදුන් නමුදු මෙවර එය සාමාන්‍ය පෙල ගුරුවරුනට ලබාදීමේ සූදානමක් නැතැයි ගුරු සංගමයේ ලේකම් පවසයි.
+🟩
+
+The Ceylon Teachers Union Secretary Joseph Stalin is informed that the teachers who are involved in the rapid allowance of the O / L examination.
+
+The 35,000 teachers who have participated in the campaign at the Zonal Office level will be connected to this program.. Teachers who participated in Advanced Level evaluations last year were given a compact allowance for Rs. 3000 million.
 
 ◼️
 
 [Data](articles/874df20d.json)
+
+[Extended Data](ext_articles/874df20d.ext.json)
 
 ---
 
@@ -232,21 +340,27 @@ In addition, 3,930 dengue patients in Jaffna district, 2,487 dengue patients in 
 
 ---
 
-### සුමේධ කරළියට එයි
+### Hey to the smoke
 
 *2024-06-12 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197671) · `si`
 
-පොළොන්නරුව දිස්ත්‍රික්කයට අයත් මින්නේරිය ජාතික වන උද්‍යානය හා කවුඩුල්ල ජාතික වන උද්‍යානය නිජබිම කරගනිමින් සැරිසරන සුමේධ නම් දළ ඇතා මේ දිනවල මින්නේරිය ජාතික වනෝද්‍යානය නැවත පැමිණ සිටින අයුරු අප කැමරාවේ සනිටුහන් විය.
+Tourists and researchers flock to Minneriya National Park and Kaudulla National Park, drawn by sightings of the elusive "Grosses." These parks, known for their wildlife, especially elephants, offer a unique opportunity to observe nature without endangering animal safety.
 
-වසර එක හමාරකට පමණ පසු මෙලෙස සුමේධ ඇතා මින්නේරිය ජාතික වන උද්‍යානයට පැමිණ ඇති අතර ඒ හේතුවෙන් එම වන උද්‍යානයට නව  සුන්දරත්වය ලැබී ඇති බව සංචාරකයෝ පවසති.
+🟩
 
-මින්නේරිය ජාතික වන උද්‍යානයට මෙම දළ ඇතා පැමිණ ඇති බව සැලවීමත් සමග එම දළ ඇතා දැක බලාගැනීමට දෙස් විදෙස් සංචාරකයින් හා එම ඇතා පිළිබදව අධ්‍යයනය කරනු ලබන පුද්ගලයින් මේ දිනවල මින්නේරිය ජාතික වන උද්‍යානයට පැමිණ සිටින අයුරු දැක ගත හැකිය.
+We came to the camera, if the Minneriya National Gardens of the Polonnaruwa District and the Kaudulla National Park is home to the homeland these days.
 
-වන සතුන්ගේ ආරක්ෂාවට තර්ජනය නොවන අයුරුන් හා බාධා නොවන අයුරින් එම වන සතුන් නැරඹීම සඳහා මින්නේරිය ජාතික වන උද්‍යානයට පැමිණෙන ලෙස මින්නේරිය ජාතික වන උද්‍යානයේ නිලධාරීන් දෙස් විදෙස් සංචාරකයින්ගෙන් ඉල්ලා සිටියි.
+About a year and a half, the Sumedha has come to the Minneriya National Park, so the tourists say.
+
+As the Grosses have come to the Minneriya National Park, the people who study the grosshop and the people who are studying the matter are visible to see how they are present at the Gardens of the Minneriya National Gardens.
+
+In order to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park, which does not threaten the security of wild animals.
 
 ◼️
 
 [Data](articles/457a88a3.json)
+
+[Extended Data](ext_articles/457a88a3.ext.json)
 
 ---
 
@@ -270,23 +384,29 @@ The President made this statement at a policy reform held at the Battaramulla Vo
 
 ---
 
-### මාකුඹුරේ අධිවේගී බස්නැවතුමට කඩා වැදුණු බස් රථය -CCTV
+### Bus bus with the Makumbura Highway bus - CCTV
 
 *2024-06-12 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197670) · `si`
 
-කොට්ටාව, මාකුඹුර අධිවේගී මාර්ග හුවමාරු බස් නැවතුම්පොළේ දී අද (12) උදෑසන බිහිසුණු අනතුරක් සිදුවන අයුරු CCTV කැමරාවක සටහන්ව තිබිණි.
+In a morning incident at the Mokkumbura Expressway bus stand, a private bus from Padukku to Padakuwa collided with another bus. Five passengers were hospitalized due to the accident caused by the driver losing control over the brakes. The driver was seriously injured and taken into custody.
 
-පාදුක්කේ සිට පිටකොටුව බලා ධාවනය වෙමින් තිබූ පෞද්ගලික බස් රථයක් එක්වරම බස් නැවතුම්පොළේ වීඳුරු කඩාගෙන ඇතුළට එන අතර එහිදී තවත් බසයකට ගැටෙන අයුරු එම දර්ශනවල සටහන්ව තිබේ.
+🟩
 
-අනතුරින් බස් රථයේ සිටි පුද්ගලයින් 5 දෙනෙක් රෝහල්ගත කළ බව පොලීසිය පැවසීය.
+The CCTV camera was reported in the morning at the Mokkumbura Expressway bus stand today (12).
 
-බස් රථයේ තිරිංග ක්‍රියා විරහිත වීමෙන් රියදුරුට බසය පාලනය කරගැනීමට නොහැකි වීම අනතුරට හේතුවී ඇතැයි අනාවරණය වුණි.
+A private bus traveling from Padukku to Padakuwa will collapse in the bus stand, where they are confronted with another bus.
 
-අනතුරින් බස් නැවතුම්පොළට දැඩි ලෙස අලාභ හානි සිදුවී ඇති අතර, බස් රථයේ රියදුරු අත්අඩංගුවට ගත්බව පොලීසිය පවසයි.
+Five persons were hospitalized in the accident, police said.
+
+It was revealed that the driver could not control the bus from the bus brake.
+
+The bus driver was severely damaged in the accident and the bus was arrested.
 
 ◼️
 
 [Data](articles/06ad7903.json)
+
+[Extended Data](ext_articles/06ad7903.ext.json)
 
 ---
 
@@ -2011,121 +2131,5 @@ The Minister has demanded that the Minister take steps to protect the cemetery b
 [Data](articles/a6a5296a.json)
 
 [Extended Data](ext_articles/a6a5296a.ext.json)
-
----
-
-### Ali Sabri's action action that went to Russia
-
-*2024-06-11 20:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யா-சென்ற-அலி-சப்ரியின்-அதிரடி-நடவடிக்கை/175-338773) · `ta`
-
-Sri Lankan Foreign Minister Ali Sabri met with Russian Foreign Minister Sergey Lavrov, discussing enhanced bilateral ties in areas like tourism, education, and economy. They also addressed issues faced by Sri Lankans in the Russian army, leading to a planned meeting between Sri Lanka's High Committee and Russia's Deputy Minister of Defense. Sabri requested a halt to future recruitments from Sri Lanka.
-
-🟩
-
-Sri Lankan Foreign Minister Ali Sabri, who has visited Russia, held a bilateral meeting with Russian Foreign Minister Sergey Lavrov yesterday.
-
-During the meeting, the Sri Lankan embassy in Moscow said the two Foreign Ministers agreed to further enhance bilateral relations, including tourism, higher education and economic cooperation.
-
-During the meeting, Minister Sabri brought the issue of Sri Lankan citizens who have joined the Russian army to the notice of the Russian Prime Minister and sought help to solve the problems they face.
-
-In this regard, the meeting was held at a meeting to be held on the 26th to 27th of this month between the Sri Lanka High Committee and the Russian Federation's Deputy Minister of Defense.
-
-At the request of Minister Ali Sabri, there will be no further recruiting from Sri Lanka, the report said that the report said. Remble
-
-◼️
-
-[Data](articles/185e6fd2.json)
-
-[Extended Data](ext_articles/185e6fd2.ext.json)
-
----
-
-### Firing in Horagolla
-
-*2024-06-11 20:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹொரகொல்லவில்-துப்பாக்கிச்-சூடு/175-338772) · `ta`
-
-A shooting in Horagolla, Gampaha, injured one person. The incident occurred while the victim was traveling to a land plot in the area. Police investigations suggest it was done with hunting firearms.
-
-🟩
-
-Nitambuwa police said that one person was injured in the shooting incident which took place this afternoon in the Gampaha -Horagolla area.
-
-The shooting took place when he was traveling to a land in Horagolla area, police said.
-
-Police investigations have revealed that the shooting was carried out by hunting firearms. Remble
-
-◼️
-
-[Data](articles/c74fe3f3.json)
-
-[Extended Data](ext_articles/c74fe3f3.ext.json)
-
----
-
-### A special committee to solve disparity of salary in the public service
-
-*2024-06-11 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197654) · `si`
-
-President Wickremesinghe has formed a committee under Udaya Seneviratne to address public service salary disparities. The committee includes various department heads and is tasked with reviewing salaries, wages, and other remunerations within the public service. It aims to submit its findings and recommendations to the President within three months.
-
-🟩
-
-President Ranil Wickremesinghe has appointed a special committee to deal with salary anomalies in the public service.
-
-Former Presidential Secretary Udaya Seneviratne serves as the president of the committee.
-
-Director General of the Department of National Budget as fellowities. Office of the Department of Management Services, Director General of the Department of Combined Services, the Director General of Combined Services. Director General of Alok Bandara, Director General H. it. Chandana Kumarasinghe, Dr. Terence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Mr. Dharmaratne and Isuru Thilakawardene have been appointed.
-
-Additional Secretary to the President GL. Mr. Vernon Perera serves as the Secretary of the Committee.
-
-...
-
-[Data](articles/d592d1ef.json)
-
-[Extended Data](ext_articles/d592d1ef.ext.json)
-
----
-
-### AKD on Sri Lanka’s ethnic issue: NPP concerned with future, not past
-
-*2024-06-11 20:03:00* · [`economynextcom`](https://economynext.com/akd-on-sri-lankas-ethnic-issue-npp-concerned-with-future-not-past-167530/) · `en`
-
-ECONOMYNEXT — The leftist National People’s Power (NPP) is concerned not with the past but the future, NPP leader Anura Kumara Dissanayake said following a discussion with representatives of the Ilankai Thamil Arasu Kachchi (ITAK) in Jaffna.
-
-Dissanayake told reporters on Tuesday June 11 that the NPP in their manifesto for the 2019 presidential election had recognised the need for Sri Lanka’s provincial council system to continue.
-
-“We must also have a dialogue on moving forward. There is a need for constitutional changes. We must also implement the provisions in the constitution that establish peace,” he said.
-
-“In the present, we’re not about the past but how to create the future. To do that, Tamil people should be given a strong guarantee of rights in politics. They must be given a right make decisions for themselves. If everyone lives in the past, we will not be able to create a future,” said Dissanayake.
-
-...
-
-[Data](articles/a79b9ec3.json)
-
-[Extended Data](ext_articles/a79b9ec3.ext.json)
-
----
-
-### The people are now watching to win the quart
-
-*2024-06-11 19:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-දැන්-බලාගෙන-ඉන්නෙ-පොහොට්ටුව-දිනවන්නට/11-410159) · `si`
-
-Mahinda Rajapaksa insists elections cannot be delayed, expressing optimism about national unity. He warns that any misstep by the UNP could spell disaster for the party.
-
-🟩
-
-Former President Mahinda Rajapaksa said that the election cannot be postponed to be postponed and that if it is foolishly, he said.
-
-Former President Mahinda Rajapaksa, President Mahinda Rajapaksa said, "President Mahinda Rajapaksa said," President Mahinda Rajapaksa said.
-
-"Now there is a great hope of the people of the country.
-
-If the UNP does that, it is the end of the party .I do not know .It 's it.
-
-◼️
-
-[Data](articles/ae8b563c.json)
-
-[Extended Data](ext_articles/ae8b563c.ext.json)
 
 ---

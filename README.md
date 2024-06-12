@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 22:19:21**
+As of **2024-06-12 22:34:29**
 
 ## Newspaper Stats
 
-*Scraped **30,076** Articles*
+*Scraped **30,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,588
-adaderanalk | 3,408
+adaderanalk | 3,409
 tamilmirrorlk | 3,521
 virakesarilk | 4,605
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,076 (100.0%) of 30,076 articles have been extended.
+30,076 (100.0%) of 30,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Govt to enact 15 crucial new laws in near future – Justice Minister
+
+*2024-06-12 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99844/govt-to-enact-15-crucial-new-laws-in-near-future-justice-minister) · `en`
+
+Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe has announced plans to enact approximately 15 crucial laws in the upcoming weeks.
+
+Highlighting progress, he noted that over the past 18 months, around 75 bills have been introduced and approved by Parliament, facilitating fundamental adjustments within the country.
+
+Justice, Prison Affairs and Constitutional Reforms Minister, President’s Counsel Dr. Wijeyadasa Rajapakshe was addressing a press briefing held at the Presidential Media Centre today (12) under the theme of “Collective Path to a Stable Country”.
+
+“This period marks one of the most significant legal reforms in the justice system of our country. Over the past 18 months, approximately 75 bills have been presented and approved by Parliament, paving the way for fundamental changes.
+
+...
+
+[Data](articles/1a8ac978.json)
+
+---
 
 ### Sri Lanka to start talks with Malaysia on free trade agreement — report
 
@@ -2313,25 +2331,5 @@ However, after the incident, the police said that the police said.
 [Data](articles/c0d99bc6.json)
 
 [Extended Data](ext_articles/c0d99bc6.ext.json)
-
----
-
-### Enjoining order against Maithri is extended
-
-*2024-06-12 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197674) · `si`
-
-The Colombo District Court extended an injunction against Maithri on the 19th, acting on a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-The Colombo District Court sentenced the 19th of this month.
-
-The complaint was filed by former President Chandrika Bandaranaike Kumaratunga today (12) before the Colombo District Court today.
-
-◼️
-
-[Data](articles/092afbdd.json)
-
-[Extended Data](ext_articles/092afbdd.ext.json)
 
 ---

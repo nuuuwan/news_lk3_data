@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 08:13:45**
+As of **2024-06-12 08:21:25**
 
 ## Newspaper Stats
 
-*Scraped **29,922** Articles*
+*Scraped **29,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,564
-adaderanalk | 3,379
-tamilmirrorlk | 3,502
+adaderanalk | 3,380
+tamilmirrorlk | 3,503
 virakesarilk | 4,577
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,813
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,920 (100.0%) of 29,922 articles have been extended.
+29,922 (100.0%) of 29,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Hunter Biden becomes first sitting US President’s son to be convicted of crime
+
+*2024-06-12 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99815/hunter-biden-becomes-first-sitting-us-presidents-son-to-be-convicted-of-crime) · `en`
+
+(AP) — Hunter Biden was convicted Tuesday of all three felony charges related to the purchase of a revolver in 2018 when, prosecutors argued, the president’s son lied on a mandatory gun-purchase form by saying he was not illegally using or addicted to drugs.
+
+Hunter Biden, 54, stared straight ahead and showed little emotion as the verdict was read after jury deliberations that lasted only three hours over two days in Wilmington, Delaware. He hugged his attorneys, smiled wanly and kissed his wife, Melissa, before leaving the courtroom with her.
+
+President Joe Biden said in a statement issued shortly after the verdict that he would accept the outcome and “continue to respect the judicial process as Hunter considers an appeal.”
+
+Now Hunter Biden and presumptive Republican presidential nominee Donald Trump, the president’s chief political rival, have both been convicted by American jurors in an election year that has been as much about the courtroom as about campaign events and rallies.
+
+...
+
+[Data](articles/79f55c7e.json)
+
+---
 
 ### The Utility Commission on electricity tariffs decided on July
 
@@ -290,25 +308,31 @@ It has been revealed that the other youth has been attacked by a young man over 
 
 ---
 
-### ගංවතුරක් නොදුටු දියණියක් නිවසක කොටු වී සිටි 'නේවි මාමා' බේරාගත් මෙහෙයුම
+### 'Uncle Navy Uncle', who had not seen a flood, was found in a house
 
 *2024-06-12 02:14:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11er5l02zo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මම නේවි එකේ අවුරුදු 22ක්. මේ දුව කොහොම වීර ක්‍රියාවක් කළා ද කියලා මට හිතාගන්න බෑ''
+"Uncle Navy Uncle," a man unfamiliar with floods, was discovered in a house during one. He praised his daughter's heroism, having survived two floods himself. The sudden flood on June 2nd submerged his home and nearby houses, cutting off electricity. Despite the chaos, he managed to save two lives, reflecting on his 22-year naval career where he faced similar challenges but never experienced such devastation at home.
 
-ගංවතුරක් නොදුටු දියණියක් නිවසක කොටු වී සිටි 'නේවි මාමා' බේරාගත් මෙහෙයුම
+🟩
 
-අවිස්සාවේල්ල, වග පදිංචි චරිත්මා ජිනේද්‍රි මායිටිපේ, ගංවතුරට කොටු වී සිටි වැඩිහිටියන් දෙදෙනෙකුගේ දිවි බේරාගත් දිරිය දියණියක් වන්නීය.
+It contains nothing here.Video header, '' I'm 22 years in the Navy. I can't imagine how this her daughter had done a heroic. "
 
-ජුනි දෙවැනි දා රාත්‍රියේ සිදු වූ ක්ෂණික ජල ගැලීමක් නිසා ඇගේ නිවස මෙන්ම යාබද නිවාස ජලයෙන් යට විය.
+'Uncle Navy Uncle', who had not seen a flood, was found in a house
 
-එහිදී විදුලිය ද විසන්ධි වී පරිසරය අන්ධකාරයේ පැවති රාත්‍රියක ඇය පිහිනා ගොස් ජීවිත දෙකක් බේරා ගැනීමට සමත් වූවාය.
+Dirii, the survivor of two floods, a flood trapped older of two floods, is a resident of Charitaipura, Avissawella.
 
-''මම නාවික හමුදාවේ අවුරුදු 22ක් සේවය කරලා විශ්‍රාම ගිහින් ඉන්නේ. මගේ උසටත් වැඩියි වතුර පාර. මමයි බිරිඳයි ගෙදර උලුවස්සේ එල්ලිලා ඉන්නකොට තමයි චරිත්මා දුව ඇවිත් අපිව බේර ගත්තේ.'' යනුවෙන් ජී.ඩී මධුරංග BBC සිංහල සේවයට පැවසුවේය.
+The immediate water caused by the night of June second night, her home and adjoining houses were flooded.
+
+The electricity also disconnected and the environment was swimmingly swimming and saved two lives.
+
+"I have been retiring to work 22 years in the Navy. Too much to my height water road. That was when my wife and my wife were hanging at home. GD Maduranga told the BBC Sinhala service.
 
 ◼️
 
 [Data](articles/c2f715b0.json)
+
+[Extended Data](ext_articles/c2f715b0.ext.json)
 
 ---
 
@@ -720,19 +744,37 @@ It was only after the 2022 Aragalaya that the need for system change was felt am
 
 ### 2024-06-11 (Tuesday)
 
-### சம்பள முரண்பாடுகளை நிவர்த்திக்க நிபுணர் குழு
+### 10 நாட்களில் 971 டெங்கு நோயாளர்கள்
+
+*2024-06-11 23:41:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-நாட்களில்-971-டெங்கு-நோயாளர்கள்/175-338792) · `ta`
+
+அதிகமான நோயாளர்கள் மேல் மாகாணத்திலேயே பதிவாகியுள்ளனர். 9 ஆயிரத்து 441 நோயாளர்கள் இங்கு பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9bb74d61.json)
+
+---
+
+### Expert Panel to address salary conflicts
 
 *2024-06-11 23:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நிபுணர்-குழு/175-338791) · `ta`
 
-அரச சேவையில் நிலவும் சம்பள முரண்பாடுகளை நிவர்த்திப்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க நிபுணர் குழுவை  நியமித்துள்ளார்.
+President Wickremesinghe has formed a panel led by Udaya Seneviratne to resolve public sector salary disputes. The committee includes a Director General and four other members.
 
-இந்த நிபுணர் குழுவின் தலைவராக முன்னாள் ஜனாதிபதி செயலாளரும், சிரேஷ்ட நிர்வாக உத்தியோகத்தருமான உதய செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-இந்த குழுவில் பணிப்பாளர் நாயகமாக நான்கு உறுப்பினர்களும், மேலதிக உறுப்பினர்களாக நான்கு உறுப்பினர்களும் அங்கம் வகிக்கின்றனர். (a)
+President Ranil Wickremesinghe has appointed a panel of experts to address the existing salary conflicts in public service.
+
+Udaya Seneviratne, former President of the Expert Panel and Senior Executive Officer.
+
+The committee is the Director General and four members as the further members.. (A)
 
 ◼️
 
 [Data](articles/f7db16f3.json)
+
+[Extended Data](ext_articles/f7db16f3.ext.json)
 
 ---
 
@@ -2101,51 +2143,5 @@ A bond maturing on 01.10.2032 closed at 11.95/12.10 percent up from 11.90/12.00 
 [Data](articles/8a496ef9.json)
 
 [Extended Data](ext_articles/8a496ef9.ext.json)
-
----
-
-### The student who did so in the picture of the teacher
-
-*2024-06-11 17:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியையின்-படத்தில்-அப்படி-செய்த-மாணவன்/175-338768) · `ta`
-
-A schoolgirl accused of taking nude photos of her teacher was released on bail of Rs 5 lakh. The magistrate warned her against interfering with the investigation and altering evidence. The teacher is reportedly distressed, and there were concerns about suicide attempts by the suspect, who also allegedly shared explicit content online.
-
-🟩
-
-The same schoolgirl, who is said to have been naked for a photo of a school teacher, has been released on two physical bail worth Rs 5 lakhs.
-
-The order was issued by Kiliyapitiya Magistrate Randika Lakmal Jayala on Tuesday (11).
-
-He also ordered the case to be called again on August 28.
-
-In addition, the magistrate, who issued bail conditions, warned the suspect not to interfere with the investigation and not make any change in the revised photographs, and that he would be canceled until the bail would be canceled and the case was canceled and the case was over.
-
-Mahesh Kumarasinghe, Senior Superintendent of Police, Guliyapitiya Division, who presented the suspect in court, said the teacher was depressed by the incident.
-
-Mahesh Kumarasinghe, who said there was a risk of committing suicide, also told the court that the suspect had revised the telephone number of the teacher and posted a panel of pornographic images on the homepage and a telegram network.
-
-◼️
-
-[Data](articles/297a87ad.json)
-
-[Extended Data](ext_articles/297a87ad.ext.json)
-
----
-
-### Nine persons including Malawi Vice President kills a ceremony
-
-*2024-06-11 17:00:35* · [`adalk`](https://www.ada.lk/breaking_news/මලාවි-උප-ජනාධිපති-ඇතුළු-නව-දෙනෙකු-ගුවන්-අනතුරකින්-මරුට/11-410148) · `si`
-
-In a tragic plane crash in Malawi, nine individuals including Vice President Solless Chilama were killed. Authorities discovered the wreckage in a dense forest, marking a significant loss.
-
-🟩
-
-Authorities claimed nine persons including Vice Presidential Solless Chilama, including a plane crash in Malawi forest. The aircraft was found in a massive lack of labor in the forest after the accident. In addition to the Vice President of Malawi, Sharnil Siration of Zhiil was. The Chilea was the Vice President of Malawi from 2014.
-
-◼️
-
-[Data](articles/cf73ca9f.json)
-
-[Extended Data](ext_articles/cf73ca9f.ext.json)
 
 ---

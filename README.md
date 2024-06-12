@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 09:53:41**
+As of **2024-06-12 10:05:21**
 
 ## Newspaper Stats
 
-*Scraped **29,936** Articles*
+*Scraped **29,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,567
-adaderanalk | 3,382
+adaderanalk | 3,383
 tamilmirrorlk | 3,505
 virakesarilk | 4,578
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,935 (100.0%) of 29,936 articles have been extended.
+29,936 (100.0%) of 29,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Oluvil Port set for renovation – Fisheries Minister
+
+*2024-06-12 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99818/oluvil-port-set-for-renovation-fisheries-minister) · `en`
+
+Fisheries Minister Douglas Devananda underscored the commitment of the government to protecting and revitalizing Oluvil Port, citing its significance for the advancement of the country.
+
+He commended the President’s initiatives in resolving past congestion problems and reinstating regularity in civil life, declaring his support for the President’s candidacy in the upcoming presidential election.
+
+Addressing a press briefing titled ‘Collective Path to a Stable Country,’ held Tuesday (11) at the Presidential Media Centre (PMC) Fisheries Minister Douglas Devananda further said that,
+
+...
+
+[Data](articles/595efe23.json)
+
+---
 
 ### Impact of train services on coastal route
 
@@ -216,17 +232,23 @@ Chief Guest Kotaro said that he was highly impressed with the property and ‘Wa
 
 ---
 
-### ලංකාවේ බලාපොරොත්තුවලට වැස්ස හරස්වෙයි
+### Sri Lankan wins the rain
 
 *2024-06-12 08:14:11* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-බලාපොරොත්තුවලට-වැස්ස-හරස්වෙයි/9-410160) · `si`
 
-පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලිය තුළ ශ්‍රී ලංකාවට තවදුරටත් රැදී සිටිමට තිබූ බලාපොරොත්තු බොඳ කරමින් නේපාලය හා ශ්‍රී ලංකාව අතර පැවැත්වීමට නියමිතව තිබූ තරගය වර්ෂාව හේතුවෙන් එක් පන්දුවක් හෝ යොමු නෙකර අත්හැර දැමීමට සිදුවිය.මෙ අනුව ශ්‍රී ලංකාව පළමු තරග දෙකත් පරාජයට පත්වූ හෙයින් තරගාවලියේ ඊළඟ වටය සඳහා ගමන් කිරීමට තිබූ අවස්ථාවද අහිමිව ගියේය.
+In the Twenty20 World Cup, Sri Lanka advanced to the next round after defeating Nepal, while South Africa moved to the Super Eight stage due to the outcome of this match.
 
-තරගය අත්හැර දැමීම හේතුවෙන් දකුණු අප්‍රිකානු කණ්ඩායම තරගාවලියේ සුපිරි අට දෙනාගේ වටය සඳහා තේරී පත්විය.
+🟩
+
+The race that was to be held between the Twenty20 World Cup, Nepal and Sri Lanka were left to leave for the next round of the tournament as the first two matures were defeated.Listen to the opportunity to do.
+
+Due to the match, South African team was elected to the round of the Super Eight of the tournament.
 
 ◼️
 
 [Data](articles/e01bb8e2.json)
+
+[Extended Data](ext_articles/e01bb8e2.ext.json)
 
 ---
 
@@ -2125,21 +2147,5 @@ NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandras
 [Data](articles/df8ad4e5.json)
 
 [Extended Data](ext_articles/df8ad4e5.ext.json)
-
----
-
-### International Tribunal Comprising  Three Former Judges from India,Nepal and Sri Lanka States it is “horrified by the stark realities” of the lives of Sri Lanka’s tea and rubber plantation workers,
-
-*2024-06-11 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84184) · `en`
-
-An international tribunal of former judges from the region said it was “horrified by the stark realities” of the lives of Sri Lanka’s tea and rubber plantation workers, after hearing testimonies from workers and trade unions.
-
-Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands of workers are engaged in tea and rubber production. They earn vital foreign exchange for the country that is struggling to rebuild its economy after the dramatic meltdown of 2022.  Last year, Sri Lanka’s revenue from tea exports totalled $1.3 billion, while rubber-based exports fetched $930 million, according to the Export Development Board.
-
-...
-
-[Data](articles/16218441.json)
-
-[Extended Data](ext_articles/16218441.ext.json)
 
 ---

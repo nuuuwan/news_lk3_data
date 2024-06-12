@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 07:24:17**
+As of **2024-06-12 07:47:02**
 
 ## Newspaper Stats
 
-*Scraped **29,917** Articles*
+*Scraped **29,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,105 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,564
-adaderanalk | 3,378
+adaderanalk | 3,379
 tamilmirrorlk | 3,501
 virakesarilk | 4,577
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,811
+adaderanasinhalalk | 4,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,913 (100.0%) of 29,917 articles have been extended.
+29,917 (100.0%) of 29,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### බස්නාහිරට සහ සබරගමුවට මි.මී 75 ඉක්මවූ වැසි
+### විදුලි ගාස්තු ගැන උපයෝගිතා කොමිසමේ තීරණය ජූලි මැද
+
+*2024-06-12 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197664) · `si`
+
+නව විදුලි ගාස්තු සංශෝධන සම්බන්ධයෙන් ලංකා විදුලිබල මණ්ඩලය විසින් යොමුකර ඇති යෝජනාවලියට අනුමැතිය ලබාදීම ජූලි මස මැද බාගයේදී පමණ වියහැකි බව මහජන උපයෝගීතා කොමිසම පවසයි.
+
+එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේ, විදුලිබල මණ්ඩලයෙන් යොමුකර ඇති නව ගාස්තු සංශෝධන පිළිබඳ යෝජනාව සඳහා මහජන අදහස් ලබාගැනීමට ද අපේක්ෂා කරන බවය.
+
+ඉන් අනතුරුව මහජන උපයෝගීතා කොමිසමේ අවසන් නිගමනය ලංකා විදුලිබල මණ්ඩලයට දැනුම්දෙන බව හෙතෙම සඳහන් කළේය.
+
+එම අවසන් නිගමනය ලබාදීම ජුලි මස දෙවන සතිය වන විට සිදුකරන බව මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසුවේය.
+
+කෙසේ වෙතත් විදුලිබල බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පසුගියදා පාර්ලිමේන්තුවේදී පැවසුවේ ජූලි මස 01 වනදා සිට විදුලි ගාස්තු අඩු කරන බවය.
+
+◼️
+
+[Data](articles/348b4975.json)
+
+---
+
+### Fairly heavy showers expected in two provinces
+
+*2024-06-12 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99814/fairly-heavy-showers-expected-in-two-provinces) · `en`
+
+The Department of Meteorology says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces, it said.
+
+Showers or thundershowers may occur at a few places in Uva province and Ampara, Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0bda27db.json)
+
+---
+
+### මූල්‍ය අරමුදලේ ණය වැඩසටහනට අදාළ දෙවන සමාලෝචනය අද
+
+*2024-06-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197663) · `si`
+
+ශ්‍රී ලංකාවේ ණය වැඩසටහනට අදාළ දෙවැනි සමාලෝචනය පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අද (12) සාකච්ඡා කිරීමට නියමිතව තිබේ.
+
+මෙම විධායක මණ්ඩල රැස්වීමේදී 2024 වසර සඳහා 4 වන වගන්තිය යටතේ උපදේශනය පිළිබඳව අවධානය යොමු කිරීමට අපේක්ෂා කරන බව ජාත්‍යන්තර මූල්‍ය අරමුදල සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා ජුලි කොසැක් මහත්මිය පසුගියදා මාධ්‍ය හමුවක් පවත්වමින් සඳහන් කළේය.
+
+ඇය එහිදී තවදුරටත් පැවසුවේ ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගතකරණයට අදාළව ප්‍රමාණවත් සහ ශක්තිමත් ප්‍රගතියක් ලබා ඇති බවය.
+
+ණය වැඩසටහනේ ප්‍රමිතීන්ට අනුකූලව ශ්‍රී ලංකාව බාහිර වාණිජ ණයහිමියන් සමග කඩිනමින් එකඟතාවකට පැමිණෙනු ඇතැයි දැඩි අපේක්ෂාවෙන් පසුවන බව ද ඇය එහිදී කියා සිටියාය.
+
+එමෙන්ම ශ්‍රී ලංකාව උද්ධමනය පාලනය කිරීම, සංචිත ඉහළ නංවා ගැනීම, ආර්ථික වර්ධනය ආදිය සම්බන්ධයෙන් ප්‍රගතියක් අත්කරගෙන ඇති බව ද ජුලි කොසැක් මහත්මිය පසුගියදා එම මාධ්‍ය හමුවේදී වැඩිදුරටත් පැවසුවාය.
+
+◼️
+
+[Data](articles/b1aed918.json)
+
+---
+
+### Showers over 75mm
 
 *2024-06-12 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197661) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of heavy showers in the Western, Sabaragamuwa, North Western, Uva Province, Ampara Districts, and parts of Central Hills, Trincomalee, Hambantota, and Moneragala Districts. Expect 75mm rainfall in some areas, with potential for 40-50 km/h winds. The public is advised to prepare for possible temporary power cuts and lightning risks due to thunderstorms.
 
-බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ට පමණතරමක තද වැසි ඇතිවිය හැකිය.
+🟩
 
-ඌව පළාතේත් සහ අම්පාර, මඩකලපුව දිස්ත්‍රික්කවලත් ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+The Department of Meteorology announces that showers in the Western, Sabaragamuwa and North Western provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa provinces. Showers may occur about 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or night thundershowers will occur at evening or night in the Uva Province and Ampara Districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There may be 40-50 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/f2e9c801.json)
+
+[Extended Data](ext_articles/f2e9c801.ext.json)
 
 ---
 
@@ -618,35 +684,47 @@ It was only after the 2022 Aragalaya that the need for system change was felt am
 
 ### 2024-06-11 (Tuesday)
 
-### ஆசிரியர்கள் தொழிற்சங்க நடவடிக்கை
+### Teachers union action
 
 *2024-06-11 23:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-தொழிற்சங்க-நடவடிக்கை/175-338790) · `ta`
 
-சம்பள நெருக்கடியை அடிப்படையாகக் கொண்டு ஒன்றிணைந்த ஆசிரியர் தொழிற்சங்கங்கள் மீண்டும் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுகின்றன.
+In response to a salary crisis, teacher unions across the country are taking collective action, including holding nationwide protests and withdrawing from administering the GCE Ordinary Level Examination starting tonight.
 
-இதன் முதற்கட்டமாக இன்று முதல் நாடளாவிய ரீதியில் ஆர்ப்பாட்டங்களை நடத்துவதற்கு ஆசிரியர் தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+🟩
 
-இதற்கு இணையாக கல்வி பொதுத்தராதர சாதாரண தரப் பரீட்சைக்கான மதிப்பீட்டுப் பணிகளிலிருந்து இன்று மாலை முதல் விலகவுள்ளதாக ஆசிரியர் தொழிற்சங்கங்கள் தெரிவித்தன. (a)
+Based on the salary crisis, the united teacher unions are re -engaged in trade union action.
+
+As a result, teacher unions have decided to hold protests nationwide from today.
+
+Teachers' unions have said that they will quit the Education GCE Ordinary Level Examination from this evening.. (A)
 
 ◼️
 
 [Data](articles/f3546e5e.json)
 
+[Extended Data](ext_articles/f3546e5e.ext.json)
+
 ---
 
-### 3 ஆவது கடன் தவணைக்கான கலந்துரையாடல் இன்று
+### Discussion for the 3rd Debt installment today
 
 *2024-06-11 23:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/3-ஆவது-கடன்-தவணைக்கான-கலந்துரையாடல்-இன்று/150-338789) · `ta`
 
-இலங்கைக்கான மூன்றாம் தவணை கடன் தொகையை வழங்குவது தொடர்பில் சர்வதேச நாணய நிதியத்தின் நிறைவேற்று சபையால் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+The IMF has approved Sri Lanka's request for its third debt installment, focusing on economic policies and restructuring. Finance Minister Shehan Semasinghe highlighted the importance of a successful review for international support.
 
-இதன்போது இலங்கையின் பொருளாதாரக் கொள்கைகள் மற்றும் பொருளாதார மறுசீரமைப்பு குறித்து கவனம் செலுத்தப்படும் என நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தனது எக்ஸ்  தளத்தில் தெரிவித்துள்ளார்.
+🟩
 
-மூன்றாவது தவணைக்கான வெற்றிகரமான மீளாய்விற்கு அனைத்து நாடுகளினதும் ஆதரவை எதிர்பார்ப்பதாக அவர் குறிப்பிட்டுள்ளார். (a)
+The International Monetary Fund has been approved by the International Monetary Fund on the issue of third installment loan for Sri Lanka.
+
+Finance Minister Shehan Semasinghe told his X site that focus on Sri Lanka's economic policies and economic restructuring.
+
+He noted that all countries are expecting the support of a successful review of the third installment. (A)
 
 ◼️
 
 [Data](articles/48c01a25.json)
+
+[Extended Data](ext_articles/48c01a25.ext.json)
 
 ---
 
@@ -2065,75 +2143,5 @@ The joint venture is expected to attract a total investment of approximately 2.2
 [Data](articles/ed0fa812.json)
 
 [Extended Data](ext_articles/ed0fa812.ext.json)
-
----
-
-### Malawi’s vice president and 9 others killed in plane crash
-
-*2024-06-11 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99807/malawis-vice-president-and-9-others-killed-in-plane-crash) · `en`
-
-Malawi’s vice president and nine others were killed in a plane crash, the country’s president said Tuesday.
-
-The wreckage of the military plane carrying Vice President Saulos Chilima was located in a mountainous area in the north of the country after a search that lasted more than a day. There were no survivors of the crash, Malawian President Lazarus Chakwera said in a live address on state television.
-
-Hundreds of soldiers, police officers and forest rangers had been searching for the plane that also carried a former first lady after it went missing Monday morning while making the 45-minute flight from the southern African nation’s capital, Lilongwe, to the city of Mzuzu, around 370 kilometers (230 miles) to the north.
-
-...
-
-[Data](articles/b857a0c6.json)
-
-[Extended Data](ext_articles/b857a0c6.ext.json)
-
----
-
-### The president's term cannot be increased for more than 5 years - February
-
-*2024-06-11 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185837) · `ta`
-
-The 19th Amendment limits the president's term to five years, preventing extensions beyond this duration. The current president, Ranil Wickremesinghe, can serve until the remainder of Gotabhaya Rajapakse's term due to constitutional provisions. It's crucial to hold elections promptly to adhere to democratic norms.
-
-🟩
-
-The president's term cannot be increased for more than five years, according to the 19th Amendment to the Constitution.
-
-The Executive Director of the February, Rohana Hettiarachchi, said that the presidential election should be held in a timely manner.
-
-He was speaking at a press conference held in Colombo on Tuesday (11).
-
-According to the Constitution, there is no legal permit to go to the presidency of the country for five years without the people's orders.
-
-In accordance with Article 83 of the Constitution, the president's term is increased to more than 6 years, the parliament must go to a two -thirds majority and universal vote.
-
-But the only thing expected during the 19th Amendment of the Constitution is to limit the president's term to two installments and reduce the 6 -year period of an installment to 5 years.
-
-...
-
-[Data](articles/268a5941.json)
-
-[Extended Data](ext_articles/268a5941.ext.json)
-
----
-
-### One of the sleeping sisters
-
-*2024-06-11 16:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறங்கிய-சகோதரிகளில்-ஒருவர்-படுகொலை/175-338766) · `ta`
-
-In Horana, two unknown men killed a 58-year-old woman, a Bangladeshi citizen's wife, in her home early Tuesday. The victim's sister, who lived there, discovered the crime after the attackers slept in separate rooms.
-
-🟩
-
-The Horana headquarters headquarters said that two unidentified men who had entered the house with only two sisters of the same family were staying at home and killed one of the sisters who were sleeping in the house with sharp weapons on Tuesday morning.
-
-The 58 -year -old woman from the Sirilton estate of Horana was murdered.
-
-Police investigations have revealed that the woman is married to a Bangladeshi citizen and that she is living in the country with her sister.
-
-The murdered woman's sister had come to stay in the house three weeks ago and the murder was reported only after the two men went to sleep in different rooms.
-
-◼️
-
-[Data](articles/ab68d8a3.json)
-
-[Extended Data](ext_articles/ab68d8a3.ext.json)
 
 ---

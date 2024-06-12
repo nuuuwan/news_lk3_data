@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 10:34:37**
+As of **2024-06-12 10:53:22**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,940 (100.0%) of 29,942 articles have been extended.
+29,942 (100.0%) of 29,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### මාකුඹුර බස් නැවතුම්පලේ  බස් රථ අනතුරකින් පහක් රෝහලේ
+### Five hospitalized after bus accident at Makumbura bus station
 
 *2024-06-12 10:11:38* · [`adalk`](https://www.ada.lk/breaking_news/මාකුඹුර-බස්-නැවතුම්පලේ--බස්-රථ-අනතුරකින්-පහක්-රෝහලේ/11-410163) · `si`
 
-අද(12) උදෑසන  මාකුඹුර අධිවේගී  හුවමාරු බස් නැවතුම්පලේ තුලදී පෞද්ගලික බස රථයක තිරිංග අක්‍රිය වී රියදුරුට  පාලනය කර ගැනීමට නොහැකි වීමෙන් තවත් බසයක ගැටී බස් නැවතුම්පොළ ගොඩනැගිල්ල කඩාගෙන ධාවනය වී  සිදු වූ අනතුරකින්  පස් දෙනකු තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය කියයි‍.
+A bus crash at Makumbura involved a collision between a bus stop building and a private vehicle, injuring five passengers. The driver was arrested.
 
-මෙම අනතුරෙන් බස් රථය තුල සිටි මගීන් පස් දෙනෙකු තුවාල ලබා 1990 ගිලන් රථයෙන් රෝහල ගත කර ඇත. අනතුර සිදුකල  බස් රථයේ රියදුරු පොලිස් අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+The police say that the bus stop building collided with a private busy bathing at the Makukumbu Explam Expressway at the Makukumbu Exploration Bus Stand.
+
+Five passengers were injured in the bus in 1990.The driver of the bus was arrested by the bus.
 
 ◼️
 
 [Data](articles/ac128cd7.json)
+
+[Extended Data](ext_articles/ac128cd7.ext.json)
 
 ---
 
@@ -66,17 +72,23 @@ He further highlighted that a favorable outcome from the review is expected to u
 
 ---
 
-### මාර්ග නඩත්තු සේවකයින් අද විරෝධයේ
+### Road Maintenance Employees today
 
 *2024-06-12 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197669) · `si`
 
-2025 වසරේ මාර්ග සංවර්ධන අධිකාරියට බඳවා ගත් මාර්ග නඩත්තු අනියම් සේවකයින් මේවන තෙක් ස්ථිර නොකිරීමට විරෝධය පළ කරමින් අද (12) දිනයේ විරෝධතාවක නිරත වන බව එක්සත් පොදු සේවක සංගමය පවසයි.
+The United Public Employees Union protests against the Road Development Authority's road maintenance issues. The General Secretary, Nihal Ajith, urges for professional measures to resolve the problems.
 
-එහි ප්‍රධාන ලේකම් නිහාල් අජිත් මහතා සඳහන් කළේ, අදාළ ගැටලු සඳහා විසඳුම් ලබා දීමට පියවර නොගත හොත් දැඩි වෘත්තීය ක්‍රියා මාර්ගවලට යොමු වීමට සිදුවන බවය.
+🟩
+
+The United Public Employees Union states that the road maintenance of the Road Main Maintenance of the Road Development Authority in the year 2025 has been protesting today (12).
+
+The General Secretary, Nihal Ajith said that if action will be taken to address the issues, it would have been to look into strict professional measures.
 
 ◼️
 
 [Data](articles/be5a3fae.json)
+
+[Extended Data](ext_articles/be5a3fae.ext.json)
 
 ---
 

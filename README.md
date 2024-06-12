@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 10:05:21**
+As of **2024-06-12 10:19:25**
 
 ## Newspaper Stats
 
-*Scraped **29,937** Articles*
+*Scraped **29,940** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 271
+colombotelegraphcom | 272
 dbsjeyarajcom | 281
 bbccomsinhala | 291
 newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,567
-adaderanalk | 3,383
+adalk | 2,568
+adaderanalk | 3,384
 tamilmirrorlk | 3,505
 virakesarilk | 4,578
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,936 (100.0%) of 29,937 articles have been extended.
+29,937 (100.0%) of 29,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Sri Lanka optimistic as IMF board meets for second review today
+
+*2024-06-12 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99819/sri-lanka-optimistic-as-imf-board-meets-for-second-review-today) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe says today (June 12) marks a significant milestone for Sri Lanka’s economy as the International Monetary Fund’s executive board is scheduled to discuss the second review of the Extended Fund Facility (EFF) and Article IV consultation.
+
+In a post on ‘X’ (formerly Twitter), Semasinghe expressed that the government remains optimistic that international partners will continue to support Sri Lanka’s efforts.
+
+He further highlighted that a favorable outcome from the review is expected to unlock the third tranche of approximately USD 330 million, which would further enhance confidence in our ongoing economic reforms and growth.
+
+“Further, we are in the final steps of finalizing the debt restructuring agreements, with continued support from our bilateral partners”, he added.
+
+...
+
+[Data](articles/5f3ca9f4.json)
+
+---
 
 ### Oluvil Port set for renovation – Fisheries Minister
 
@@ -45,6 +63,8 @@ Addressing a press briefing titled ‘Collective Path to a Stable Country,’ he
 ...
 
 [Data](articles/595efe23.json)
+
+[Extended Data](ext_articles/595efe23.ext.json)
 
 ---
 
@@ -413,6 +433,20 @@ The match between Sri Lanka and Nepal, the World Cup match, has decided to leave
 [Data](articles/bea7a1c5.json)
 
 [Extended Data](ext_articles/bea7a1c5.ext.json)
+
+---
+
+### AKD’s Speech On Police & Rule Of Law: Merits & Demerits?
+
+*2024-06-12 04:22:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-speech-on-police-rule-of-law-merits-demerits/) · `en`
+
+Anura Kumara Dissanayake’s (AKD) speech as the Leader of the National People’s Power (NPP) at the National Convention organized by the Retired Police Officers Collective on 9 June 2024 is quite promising in terms of establishing or reestablishing rule of law in the country, if they get the opportunity to govern the nation. They have been talking about a ‘system change’ now for some time, and various independent critics and observers were asking the details of this promise, without merely depending on the slogan.
+
+I was fortunate to listen to this speech online and live, through ‘Horawa News,’ and one weakness or wrong that I immediately observed was its leading phrase ‘Malimawa shows its police power.’ I have no idea about who runs the ‘Horawa,’ but that was not what AKD was quite obviously advocating. “Power’ is not a good word to use in democracy, worst still is the ‘police power.’
+
+...
+
+[Data](articles/c3cfe36c.json)
 
 ---
 
@@ -1802,6 +1836,32 @@ He ordered that a fine of compensation would be charged and that if it was not p
 
 ---
 
+### කොළඹ නගරය ගැන නගර සභාවෙන් අනතුරු ඇඟවීමක්
+
+*2024-06-11 19:25:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගරය-ගැන-නගර-සභාවෙන්-අනතුරු-ඇඟවීමක්/11-410156) · `si`
+
+ගතවූ දිනවල පැවැති අධික වර්ෂාව හේතුවෙන් කොළඹ නගරය තුළ බෝවන රෝග ශීඝ්‍රයෙන් පැතිරීමේ අවදානමක් උද්ගතව ඇතැයි කොළඹ මහ නගර සභාව අනතුරු අඟවයි.
+
+ඒ අනුව එම රෝගවලින් ආරක්ෂා වීම සඳහා අනුගමනය කළ යුතු සෞඛ්‍ය පුරුදු මාලාවක් කොළඹ මහනගර සභාවේ සෞඛ්‍ය ප්‍රවර්ධනය අංශය විසින් මේ වනවිට නිකුත් කර තිබේ.
+
+පහත සඳහන් සෞඛ්‍ය පුරුදු අනුගමනය කිරීමට කොළඹ මහ නගර සභා සීමාවේ සියලු ජනතාව කටයුතු කළ යුතු බවත් තමන් සහ තම පවුලේ සෞඛ්‍ය ආරක්ෂාව තහවුරු කර ගැනීම නගර වැසියන්ගේ වගකීම වන බවත් කොළඹ මහනගර සභාව වැඩිදුරටත් අවධාරණය කර සිටියි.
+
+03.ආහාර පිළියෙල කිරීමට හා ආහාර ගැනීමට පෙර සබන් යොදා අත් සෝදන්න.
+
+07 මළපහ කිරීමට වැසිකිළි භාවිත කරන්න. දරුවන්ගේ මළපහ වැසිකිළියටම දමන්න.
+
+09.දියර ලෙස මළපහ පිටවූයේ නම් ජීවනී ප්‍රතිකාරය පටන් ගන්න. වමනය පාචනය ඇත්නම් වහාම සෞඛ්‍ය උපදෙස් ලබාගන්න .
+
+12. ජලය නොබසින කාණු පිරිසුදු කිරීමේදී සෞඛ්‍ය ආරක්ෂිත ක්‍රම අනුගමනය කරන්න. මී උණ සඳහා ලබා දී ඇති ඖෂධ නිසි පරිදි ලබා ගන්න ලබාගන්න.
+
+13.මදුරුවන් බෝවන ස්ථාන ඉවත් කර මදුරුවන්ගෙන් ආරක්ෂා වීමට කටයුතු කරන්න.
+
+◼️
+
+[Data](articles/c1220beb.json)
+
+---
+
 ### Don't buy if the chicken is red
 
 *2024-06-11 19:21:27* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-රතු-පාටයි-නම්-මිලදී-ගන්න-එපා/11-410155) · `si`
@@ -2087,65 +2147,5 @@ The wreckage of the plane was found as a result of the operation implemented for
 [Data](articles/1d2200fb.json)
 
 [Extended Data](ext_articles/1d2200fb.ext.json)
-
----
-
-### Minister extends block against Wijayaka
-
-*2024-06-11 18:01:24* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාසට-එරෙහි-වාරණය-දිගු-කරයි/11-410150) · `si`
-
-Sri Lanka's Colombo Additional District Judge Chandima Edirimanna issued an injunction against SLFP members Lasantha Alagawanna and Lasantha Alagiyawanni, including party treasurer Wijayadasa Rajapakse and acting Secretary-General Maithripala Sirisena, blocking them from certain actions until June 25th. The judge ordered them to appear in court regarding a complaint.
-
-🟩
-
-Colombo Additional District Judge Chandima Edirimanna was appointed as a member of the SLFP as a member of the SLFP or a member of the SLFP.
-
-The District Judge of Sri Lanka Freedom Party Lasantha Alagawanna, the District Judge of the Sri Lanka Freedom Party Lasantha Alagiyawanna issued the decision to obstruct the gentlemen.
-
-The District Judge issued an injunction orders issued until June 25, the District Judge issued the respondents notice.
-
-The SLFP Treasurer of Sri Lanka Freedom Party (SLFP) Treasurer of Sri Lanka Freedom Party Lasantha Alagiyawani has been named as respondents, Mr. Wijayadasa Rajapakse, and the Trees Maithripala Sirisena, who was appointed as acting Secretary-General.
-
-After considering the petition, the District Judge extended to all the injunctions and interim injuries asking for the complaint, the Respondent (C) Respondents to appear in court that day.
-
-◼️
-
-[Data](articles/abd3235b.json)
-
-[Extended Data](ext_articles/abd3235b.ext.json)
-
----
-
-### Ananda Walk 2024...
-
-*2024-06-11 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ananda-Walk-2024/110-284617) · `en`
-
-Renowned past pupils of the Ananda College Colombo including Senior Professors J.B. Dissanayake and Sampath Amaratunga, Secretary Defence Gen. Kamal Gunaratne, Dr. Anil Jasinghe, Election Commissioner General Saman Sri Rathnayake and cricketer Dinesh Chandimal got together at the college premises today to launch the Ananda Walk 2024 under the theme ‘Educate and Empower to Save Mother Lanka’, which is scheduled to take place on Sunday, July 7. Pix by Lahiru Harshana
-
-◼️
-
-[Data](articles/663c4158.json)
-
-[Extended Data](ext_articles/663c4158.ext.json)
-
----
-
-### Anura Kumara meets TNA representatives in Jaffna
-
-*2024-06-11 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-meets-TNA-representatives-in-Jaffna/108-284616) · `en`
-
-Jaffna, June 11 (Daily Mirror)- Nationals People's Power (NPP) leader Anura Kumara Dissanayake today met people's representatives of the North including TNA MP M.A Sumanthiran and Mavai Senadirajah at the Ilankai Thamil Arasu Katchi (ITAK) office in Jaffna.
-
-He also met former TNA MP Dharmalingam Siddarthan during his visit to Jaffna.
-
-They discussed at length the current political atmosphere in the country, issues faced by the people and the need to create national harmony.
-
-NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandrasekara attended the meeting.
-
-◼️
-
-[Data](articles/df8ad4e5.json)
-
-[Extended Data](ext_articles/df8ad4e5.ext.json)
 
 ---

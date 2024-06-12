@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 21:54:04**
+As of **2024-06-12 22:07:09**
 
 ## Newspaper Stats
 
-*Scraped **30,073** Articles*
+*Scraped **30,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,587
-adaderanalk | 3,407
+adalk | 2,588
+adaderanalk | 3,408
 tamilmirrorlk | 3,521
 virakesarilk | 4,605
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,844
+adaderanasinhalalk | 4,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,073 (100.0%) of 30,073 articles have been extended.
+30,073 (100.0%) of 30,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Sri Lanka to start talks with Malaysia on free trade agreement — report
+
+*2024-06-12 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99843/sri-lanka-to-start-talks-with-malaysia-on-free-trade-agreement-report) · `en`
+
+Sri Lanka will start talks on a free trade agreement with Malaysia, as it seeks to improve trade ties to support its recovery from a financial crisis, the Cabinet spokesperson said on Wednesday.
+
+A severe dollar drought in 2022 sent Sri Lanka’s inflation soaring to a high of 70%, its currency into freefall and caused the economy to contract by 7.3%.
+
+To help buttress recovery, Sri Lanka entered negotiations with multiple countries on free trade deals, inking one with Thailand in February.
+
+“We need to promote stronger trade to move out of this crisis and Malaysia has strong ties with Sri Lanka to assist in this process,” said Sri Lanka’s Cabinet spokesperson Bandula Gunawardana.
+
+Trade between Malaysia and Sri Lanka was worth US$934 million dollars in 2023, according to official data.
+
+Sri Lanka exports mainly gems, garments and fish to Malaysia, and imports palm oil, petroleum products and fertilisers.
+
+...
+
+[Data](articles/a874c182.json)
+
+---
+
+### අමෙරිකාවෙන් ලකුණු 111ක ඉලක්කයක්
+
+*2024-06-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197697) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය යටතේ ඉන්දීය කණ්ඩායම සහ අමෙරිකානු කණ්ඩායම අතර තරගය අද (12) පැවැත් වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ඉන්දියාව සමත්වූ අතර ඔවුන්ගේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහර දුන් අමෙරිකාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 110ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඉන්දියාවට හිමිවූ ඉලක්කය ලකුණු 111කි.
+
+◼️
+
+[Data](articles/ea0c11a7.json)
+
+---
 
 ### Police gifts to citizens of society
 
@@ -361,6 +399,24 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 [Data](articles/bb31b3b7.json)
 
 [Extended Data](ext_articles/bb31b3b7.ext.json)
+
+---
+
+### වැදගත් අණපනත් 15ක් කඩිනමින් සම්මත කර ගැනීමට නියමිතයි
+
+*2024-06-12 18:17:35* · [`adalk`](https://www.ada.lk/breaking_news/වැදගත්-අණපනත්-15ක්-කඩිනමින්-සම්මත-කර-ගැනීමට-නියමිතයි/11-410179) · `si`
+
+ඉදිරි සති කිහිපය තුළ ඉතා වැදගත් අණපනත් 15ක් පමණ සම්මත කර ගැනීම සඳහා මේ වන විට කටයුතු සම්පාදනය කරමින් පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+ඉකුත් මාස 18ක පමණ වැනි කාලය තුළ නව පනත් 75ක් පමණ පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කර රටට අවශ්‍ය මූලික වෙනස සිදුකිරීමට හැකියාව ලැබුණු බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+අප රටේ අධිකරණ පද්ධතියට අදාළව යුක්තිය පසිඳලීම සම්බන්ධව විශාලතම නීති ප්‍රතිසංස්කරණ සිදු කල කාලවකවානුවක් ලෙස මෙම කාලය හඳුන්වා දෙන්න පුළුවන්. ගතවූ මාස 18කපමණ කාලය තුළ නව පනත් 75ක් පමණ පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කර තිබෙනවා. රටට අවශ්‍ය මූලික වෙනස සිදුකිරීමට එමඟින් හැකියාව ලැබෙන බව සඳහන් කළ යුතුයි.
+
+...
+
+[Data](articles/68bdde0d.json)
 
 ---
 
@@ -2263,79 +2319,5 @@ The complaint was filed by former President Chandrika Bandaranaike Kumaratunga t
 [Data](articles/092afbdd.json)
 
 [Extended Data](ext_articles/092afbdd.ext.json)
-
----
-
-### Sri Lanka rupee weakens further at 303.75/304.00 to US dollar
-
-*2024-06-12 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-further-at-303-75-304-00-to-us-dollar-167578/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.75/304.00 to the US dollar on Wednesday in mid-morning trading, while bond yields were broadly stable, and stocks opened 0.09 percent higher, dealers said.
-
-In equities, Colombo’s All Share Price Index gained 10.56 points to 12,405 and the S&P SL20 of more liquid stocks was up 0.06 percent or 2.20 points to 3,690, in mid-morning trade.
-
-In the secondary market, yields were broadly stable during the auction, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.05/15 percent, down from 10.05/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.70/85 percent up from 10.50/70 percent.
-
-A bond maturing on 01.07.2028 was quoted at 11.10/20 percent, down from 11.05/15 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.80/12.00 percent down from 11.85/12.00 percent.
-
-A bond maturing on 01.10.2032 was quoted stable at 11.95/12.10. (Colombo/Jun12/2024)
-
-◼️
-
-[Data](articles/0eb65e54.json)
-
-[Extended Data](ext_articles/0eb65e54.ext.json)
-
----
-
-### Foreign Minister Sabry engages in high-level talks with counterparts at BRICS summit
-
-*2024-06-12 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99824/foreign-minister-sabry-engages-in-high-level-talks-with-counterparts-atbricssummit) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry, who is currently in Russia to take part in the BRICS ministerial meeting has met with the Foreign Ministers of Thailand, China, Belarus, Kazakhstan, Iran and Russia and discussed bilateral relations.
-
-During a bilateral discussion, Minister Sabry has congratulated his newly appointed Thai counterpart Maris Sangiampongsa, and agreed to work together to carry forward the decisions agreed when the Prime Minister of Thailand during his visit to Colombo.
-
-Posting on ‘X’ (formerly Twitter), the Sri Lankan FM stated that in a separate meeting, the Chinese Foreign Minister Wang Yi agreed to continue to strengthen the bilateral relationship with Sri Lanka, which is multifaceted.
-
-Sabry, who also met Belarus FM Sergei Aleinik on the sidelines of the BRICS ministerial meeting, have discussed the areas of education, trade, investment and tourism promotion in both countries.
-
-...
-
-[Data](articles/26b107c1.json)
-
-[Extended Data](ext_articles/26b107c1.ext.json)
-
----
-
-### The girl was abducted and abducted by parents: the girl hiding in a underground chamber
-
-*2024-06-12 11:14:02* · [`adalk`](https://www.ada.lk/breaking_news/දෙමව්පියන්ට-පහරදී-දාහතර-හැවිරිදි-දැරියක්-පැහැරගෙන:-භූගත-කුටියක-සඟවා-සිටි-දැරිය-සොයාගනී/11-410169) · `si`
-
-In Katugahagal, Buttala, police arrested three suspects linked to the abduction of a group of individuals, including a young man who had a romantic relationship with a girl. The girl, who was hidden in an underground chamber, was later found in a local hospital. The primary suspect is an 18-year-old from Weigabadawa Road, Buttala. All three suspects were remanded until June 19th by the Wellawaya Magistrate's Court.
-
-🟩
-
-The Buttala Police have arrested three suspects involved in the abduction of a group of parents in Katugahagal, Buttala.
-
-A young man and several others had a romantic relationship with the girl and had come to the girl's home and was abducted by the girl.
-
-The girl was hiding in a underground stall in a room in his home, was admitted to the Moneragala district hospital.
-
-The main suspect, a 18 year old resident of Weigabadawa Road, Buttala Weelaya.
-
-The three suspects were produced before the Wellawaya Magistrate's Court and remanded until June 19. Buttala Police OIC
-
-◼️
-
-[Data](articles/ad03d738.json)
-
-[Extended Data](ext_articles/ad03d738.ext.json)
 
 ---

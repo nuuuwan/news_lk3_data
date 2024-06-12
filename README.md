@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 13:53:58**
+As of **2024-06-12 14:05:47**
 
 ## Newspaper Stats
 
-*Scraped **29,997** Articles*
+*Scraped **30,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,108 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,576
-adaderanalk | 3,395
+adalk | 2,577
+adaderanalk | 3,396
 tamilmirrorlk | 3,515
 virakesarilk | 4,590
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,829
+adaderanasinhalalk | 4,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,993 (100.0%) of 29,997 articles have been extended.
+29,997 (100.0%) of 30,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### பைடனின் மகன் குற்றவாளி: நீதிமன்றம் பரபரப்பு தீர்ப்பு
+### පොදු තැන්වලදී ලිංගික හිරිහැර කළොත් වැඩවරදී
 
-*2024-06-12 13:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடனின்-மகன்-குற்றவாளி-நீதிமன்றம்-பரபரப்பு-தீர்ப்பு/50-338806) · `ta`
+*2024-06-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197681) · `si`
 
-அமெரிக்கா ஜனாதிபதி  பைடனின் மூத்த மகன் ஹண்டர் பைடன். இவர் மீது கடந்த 2018 ஆம் ஆண்டு சட்டவிரோதமாக துப்பாக்கி வாங்கியதாக குற்றம் சாட்டப்பட்டது.
+ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් තහනම් කිරීම සඳහා නෛතික විධිවිධාන ශක්තිමත් කරමින් දණ්ඩ නීති සංග්‍රහය සංශෝධනය කිරීමට අදාළ පනත් කෙටුම්පතට නීතිපතිගේ නිෂ්කාශන ලැබී තිබේ.
 
-இது தொடர்பாக மூன்று வழக்குகள் பதிவு செய்யப்பட்டு அந்த வழக்குகளின் மீதான விசாரணை அந்நாட்டு நீதிமன்றத்தில் நடைபெற்று வந்தது.
+පොදු ස්ථානවලදී සිදු වන ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් ඇතුළු සියලු ආකාරයේ ලිංගික හිරිහැර සහ ලිංගික අඩන්තේට්ටම් අපරාධයක් බවට පත් කරමින් 2022 වසරේ දෙසැම්බර් 12 වන දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධන හඳුන්වා දීමට අනුමැතිය හිමිවුණි.
 
-இந்நிலையில் சட்டவிரோதமாக துப்பாக்கி வாங்கிய குற்றச்சாட்டுகளில் அமெரிக்க ஜனாதிபதி ஜோ பைடன் மகன் ஹண்டர் பைடன் குற்றவாளி என நீதிமன்றம் தீர்ப்பு அளித்துள்ளது. முதல் இரண்டு வழக்குகளில் தலா 10 ஆண்டுகள், மூன்றாவது வழக்கில் 5 ஆண்டுகள் என அதிகபட்சம் 25 ஆண்டுகள் வரை ஹண்டர் பைடனுக்கு தண்டனை கிடைக்க வாய்ப்பு இருக்கிறது.
+එකී පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාවට මෙලෙස අමාත්‍ය මණ්ඩලය අනුමැතිය හිමිව ඇත.
 
-அதேநேரம் அவரது தண்டனை விவரங்கள் அறிவிக்கப்படவில்லை. அமெரிக்க சட்டப்படி குற்றவாளி என அறிவிக்கப்பட்டவருக்கு 120 நாட்களில் தண்டனை விவரம் அறிவிக்கப்பட வேண்டும். அமெரிக்க ஜனாதிபதி தேர்தல் வரும் நவம்பர் மாதம் நடக்க உள்ள நிலையில், அதற்குள் தண்டனை விவரம் அறிவிக்கப்பட உள்ளது.
+◼️
 
-...
-
-[Data](articles/d3b5617b.json)
+[Data](articles/ae0fb27c.json)
 
 ---
 
-### தாமரை பறிக்க சென்ற சிறுவன் கிணற்றுக்கு பலி
+### Cabinet approval for criminalizing all forms of sexual harassment
+
+*2024-06-12 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99830/cabinet-approval-for-criminalizing-all-forms-of-sexual-harassment) · `en`
+
+The Cabinet of Ministers has approved the revision of the Penal Code to strengthen legal provisions to prohibit sexual harassment and sexual assault.
+
+On 12 December 2022, the Cabinet of Ministers had approved the introduction of amendments to the Penal Code criminalizing all forms of sexual harassment and sexual abuse, including sexual harassment and sexual assault in public places.
+
+The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman, the Department of Government Information said.
+
+Accordingly, the proposal made by the Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to publish the said draft Bill in the Government Gazette and present the same thereafter in Parliament for approval, has been approved by the Cabinet.
+
+◼️
+
+[Data](articles/850f7a7b.json)
+
+---
+
+### Baidan's son is guilty: court verdict
+
+*2024-06-12 13:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடனின்-மகன்-குற்றவாளி-நீதிமன்றம்-பரபரப்பு-தீர்ப்பு/50-338806) · `ta`
+
+Hunter Baidan, son of US President Joe Biden, found guilty of illegal gun possession. Faces potential 25-year sentence across three cases. Court verdict awaits final sentencing details, with appeal consideration.
+
+🟩
+
+Hunter Baidan, the eldest son of US President Baiden. He was accused of illegally acquiring a gun in 2018.
+
+Three cases have been registered in this regard and an investigation into the cases is being held in court.
+
+In this case, the court has ruled that US President Joe Biden's son Hunter Baidan is guilty of illegal gunfire.. In the first two cases, Hunter Baiton is likely to be sentenced to 10 years each and 5 years in the third case.
+
+At the same time not announced his sentences. The person who is found guilty of US law must be declared in 120 days. As the US presidential election is due in November, the sentence is to be announced.
+
+Speaking to reporters after the verdict, US President Bidan said that he would accept the court's decision.. At the same time, he said he was also considering appealing against the verdict.
+
+◼️
+
+[Data](articles/d3b5617b.json)
+
+[Extended Data](ext_articles/d3b5617b.ext.json)
+
+---
+
+### A boy who went to rob lotus killed
 
 *2024-06-12 13:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாமரை-பறிக்க-சென்ற-சிறுவன்-கிணற்றுக்கு-பலி/76-338805) · `ta`
 
-அத்திமலை பொலிஸ் பிரிவுக்குட்பட்ட தோரா அத்துப்பிட்டிய ஏரியில் தாமரை பூ பறிக்க சென்ற பாடசாலை மாணவர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ள சம்பவம் செவ்வாய்க்கிழமை (11)  இடம்பெற்றுள்ளது .
+On Tuesday, Madisha Thenuwan, a 9-year-old student from Athimalai Maha Vidyalaya, drowned while attempting to steal lotus flowers from Torah Attupitiya Lake. The incident occurred without the knowledge of his friends or family, leading to a search before his body was found in the lake.
 
-அத்திமலை  மகா வித்தியாலயத்தின்  04  வகுப்பில் கல்வி கற்கும் கொவிப்பொல வீதியை சேர்ந்த மதிஷ தேனுவன் (வயது 9) என்ற சிறுவனே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-உயிரிழந்த சிறுவன் பாடசாலை முடிந்து , தனது  நண்பர்கள் மூவருடன் தாமரை பறிப்பதற்காக குறித்த ஏரிக்கு சென்றுள்ளார்.அப்போது வறட்சி காலத்தில் தண்ணீர் எடுப்பதற்காக ஏரியின் நடுவே வெட்டப்பட்ட கிணற்றில் தவறி விழுந்து நீரில் மூழ்கியுள்ளார் .
+The incident took place on Tuesday (11) when a schoolgirl drowned in a lotus flower at the Torah Attupitiya Lake belonging to the Athimalai police division.
 
-சிறுவனுடன் வந்த நண்பர்கள் இச் சம்பவம் தொடர்பில் எவருக்கும் தெரிவிக்காத நிலையில் , மாலை 5.45 மணியளவாகியும்  சிறுவன் வீட்டிற்கு வராததால் சிறுவனின் தந்தை சிறுவனை தேடியுள்ளார் .
+The deceased is Madisha Thenuwan (age 9) from Kovipola Road, who is educated in the 04 class of Athimalai Maha Vidyalaya.
 
-அப்போது குழந்தை ஏரியை நோக்கி சென்றதை கண்டதாக  அக்கம் பக்கத்தினர் தெரிவித்ததையடுத்து  அங்கு சென்று பார்த்த போது , சிறுவன் ஏரியின் நடுவில் உள்ள கிணற்றிலிருந்து மீட்கப்பட்டுள்ளார் .
+The deceased boy had gone to the lake with three of his friends to take over the lotus with three of his friends.
 
-...
+The boy's father searched the boy as the boy did not come home at 5.45 pm, as friends who accompanied the boy were not informed of the incident.
+
+When the neighbors reported that the child was heading to the lake, the boy was rescued from the well in the middle of the lake.
+
+Although he was immediately rushed to the Athimalai Divisional Hospital, the boy was reportedly dead.
+
+◼️
 
 [Data](articles/9dbaa846.json)
+
+[Extended Data](ext_articles/9dbaa846.ext.json)
 
 ---
 
@@ -87,6 +137,8 @@ The highest computer literacy rate is reported among the age group of 15 – 19.
 ...
 
 [Data](articles/e51d9017.json)
+
+[Extended Data](ext_articles/e51d9017.ext.json)
 
 ---
 
@@ -116,23 +168,29 @@ Chairman of the Kandy Attorneys Association, Sunanda Udulagama, appeared on beha
 
 ---
 
-### වාහන ආනයනය ගැන කැබිනට්ටුව ගත් තීරණය
+### Decision taken to Cabinet about Vehicles
 
 *2024-06-12 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197680) · `si`
 
-සංචාරක ව්‍යාපාරය සඳහා අවශ්‍ය වාහන ගෙන්වන රෙගුලාසි පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බව කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Cabinet approves vehicle importation for tourism, reversing a temporary suspension. The decision allows for 75 vans and other necessary vehicles for tourist transportation, aligning with import regulations under the Import and Export (Control) Regulations, 2023.
 
-2023 අංක දෙක දරණ ආනයන හා අපනයන පාලන රෙගුලාසි ප්‍රකාරව ශ්‍රී ලංකාවට මෝටර් රථ වාහන ආනයනය කිරීම තාවකාලිකව අත්හිටුවා  තිබේ.
+🟩
 
-එහෙත් සංචාරක හා ඉඩම් අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවක් පරිදි සංචාරකයින් ප්‍රවාහනය කිරීම සඳහා කුඩා ප්‍රමාණයේ බස් රථ 250ක් හා වෑන් රථ 75ක් ආනයනය කිරීම සඳහා 2024 අප්‍රේල් 01 වනදා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබුණි.
+Cabinet spokesman Minister Bandula Gunawardena says Cabinet has approved the submission of the necessary vehicles to the tourism.
 
-අති විශේෂ ගැසට් නිවේදනයක් මගින් ප්‍රකාශයට පත්කළ එම රෙගුලාසි අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා මුදල් ආර්ථික ස්ථායීකරණ  හා ජාතික ප්‍රතිපත්ති අමාත්‍ය ලෙස ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
+Importation of Motor Vehicles to Sri Lanka has been temporarily suspended in accordance with the Department of Import and Export Control Regulations, 2023.
 
-1969 අංක 1 දරන ආනයන හා අපනයන (පාලන) පනත යටතේ නිකුත් කළ 2024 අංක 07 දරන ආනයන හා අපනයන (පාලන) රෙගුලාසි සහ එම පනත යටතේ නිකුත් කරනු ලැබ ඇති ප්‍රමිතිකරණ හා තත්ත්ව පාලන රෙගුලාසි ඒ අනුව පාර්ලිමේන්තු අනුමැතියට ඉදිරිපත් කෙරේ.
+However, the approval was given at the Cabinet Meeting held on 1 April 1 of 2024 to the transportation of tourists and 75 vans to transport tourists.
+
+The proposal presented by the Cabinet of Money was approved by the Cabinet of Money to present the President to the Economic Standardization and National Policy Minister to present the regulations published by a special gazette notification.
+
+Under the Import and Export (Control) Regulations, which were issued under the Import and Export (Administration) Act, No. 1 of 1969, will be approved by the Standardization and Quality and Quality Administration issued under the Act.
 
 ◼️
 
 [Data](articles/8d80d43d.json)
+
+[Extended Data](ext_articles/8d80d43d.ext.json)
 
 ---
 
@@ -159,6 +217,22 @@ Considering the situation, a technical committee consisting of the Director Gene
 [Data](articles/b29423c4.json)
 
 [Extended Data](ext_articles/b29423c4.ext.json)
+
+---
+
+### සාගරිකා කළුතරදී ලෙඩවී මගීන් අපහසුතාවයට
+
+*2024-06-12 13:12:36* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-කළුතරදී-ලෙඩවී-මගීන්-අපහසුතාවයට/11-410174) · `si`
+
+සාගරිකා සීඝ්‍රගාමී දුම්රිය අද (12) උදැසන කළුතර කලමුල්ල  ප්‍රදේශයේ කාර්මික දෝෂයකට ලක්වීමෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුව කාර්යාල සේවකයින් දැඩි අපහසුතාවට පත්වූහ .
+
+ඒ අනුව රුහුණු කුමාරි සීඝ්‍රගාමී දුම්රිය දුම්රිය ස්ථාන කිහිපයක නවතා ධාවනය කරවීමටත්, කළුතර දකුණ සිට ගල්කිස්ස බලා ධාවනය වන මන්දගාමී දුම්රිය මරදාන දක්වා ධාවනයේ යොදවන බවත් දුම්රිය ප්‍රකාශකයෙක් කිය.
+
+මේ හේතුවෙන් දුම්රිය මගින් දැඩි අපහසුතාවයට ලක්වන අයුරු දැකගත හැකි විය.
+
+◼️
+
+[Data](articles/72beed3c.json)
 
 ---
 
@@ -2193,57 +2267,5 @@ The maritime dispute between India and Sri Lanka over illegal fishing by Tamil N
 [Data](articles/590e7004.json)
 
 [Extended Data](ext_articles/590e7004.ext.json)
-
----
-
-### Could you believe crabs killing giant guitarfish?
-
-*2024-06-12 01:16:58* · [`dailyftlk`](https://www.ft.lk/opinion/Could-you-believe-crabs-killing-giant-guitarfish/14-762951) · `en`
-
-Guitarfish, also known as shovelnose rays, are a species of ray that are named because of their guitar-shaped bodies. They belong to the order Rhinopristiformes, along with the wedgefish and sawfish. This group are also called shark-like rays due to their flattened body with pectoral fins fused to the sides of the head and a hind body that resembles a shark, with two dorsal fins and a caudal fin.
-
-The Rhinopristiformes exhibit slow growth, late maturity, and low fecundity, like many other rays and sharks. Such characteristics, alone or in combination, make fishes in this group vulnerable to extinction. The global IUCN Red List of threatened species reveals that species in the order Rhinopristiformes are amongst the most threatened marine fishes and over 70% of guitarfish are either threatened or data deficient.
-
-...
-
-[Data](articles/201b8a66.json)
-
-[Extended Data](ext_articles/201b8a66.ext.json)
-
----
-
-### Economic literacy for youth via puppetry and performing arts carnival on Friday in Galle
-
-*2024-06-12 01:03:08* · [`dailyftlk`](https://www.ft.lk/business/Economic-literacy-for-youth-via-puppetry-and-performing-arts-carnival-on-Friday-in-Galle/34-762945) · `en`
-
-Power of Play Ltd., a company utilising performing arts for advocacy - is partnering with Advocata Institute and Sahana Social Development Alliance to provide Sri Lankan youth in Galle and Matara with an innovative opportunity to increase their economic literacy and communication skills, via the performing arts of theatre and puppetry.
-
-Mahadanamuththa and his modern golayas live in a fictional land called ‘Sasiribara Deshaya’. This land which was once flourished is now facing economic peril due to lack of overall vision cascading down to mismanagement of State resources, rampant corruption, short-sighted economic policies and lack of will to change. Mahadanamuththa invites everyone to partake in his carnival ‘Maha Winnahi Mela 2024’ to understand the different facets of this crisis and help him restore the economic prosperity of his land.
-
-...
-
-[Data](articles/53055c73.json)
-
-[Extended Data](ext_articles/53055c73.ext.json)
-
----
-
-### Evolza appoints visionary leader Thareendra D. Kalpage as Non-Executive Chairman of Board
-
-*2024-06-12 01:00:13* · [`dailyftlk`](https://www.ft.lk/business/Evolza-appoints-visionary-leader-Thareendra-D-Kalpage-as-Non-Executive-Chairman-of-Board/34-762944) · `en`
-
-From left: Evolza Founder/Chief Executive Officer Isuru Kariyawasam, Evolza Director Sathischandra Navarathna, Thareendra Kalpage, and Evolza Chief Marketing Officer Prassanna Pathmanathan
-
-Evolza, the trailblazing company behind the CGASS AI Platform, a top-tier AI-powered enterprise software generation platform, announced Thareendra D. Kalpage as the new Non-Executive Chairman of its Board of Directors.
-
-This milestone underscores Evolza’s commitment to achieving new heights in technological advancement and success.
-
-Kalpage brings extensive experience and a proven track record in the technology sector. With decades of leadership, he has consistently driven organisations towards success with his visionary approach and understanding of emerging technologies. His appointment is set to propel Evolza into the future.
-
-...
-
-[Data](articles/975871d6.json)
-
-[Extended Data](ext_articles/975871d6.ext.json)
 
 ---

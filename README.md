@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 17:35:00**
+As of **2024-06-12 17:55:12**
 
 ## Newspaper Stats
 
-*Scraped **30,037** Articles*
+*Scraped **30,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,74 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,581
-adaderanalk | 3,403
+adalk | 2,582
+adaderanalk | 3,404
 tamilmirrorlk | 3,519
 virakesarilk | 4,600
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,838
+adaderanasinhalalk | 4,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,033 (100.0%) of 30,037 articles have been extended.
+30,037 (100.0%) of 30,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### நினைவேந்தல் விவகாரம் ; அறிக்கை ஜனாதிபதிக்கு கையளிப்பு
+### Easter attacks: Inquiry committee appointed to probe actions taken on prior intelligence
+
+*2024-06-12 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99839/easter-attacks-inquiry-committee-appointed-to-probe-actions-taken-on-prior-intelligence) · `en`
+
+A Committee of Inquiry has been appointed to investigate into the actions of the State Intelligence Service (SIS), Chief of National Intelligence (CNI) and other authorities regarding prior intelligence received on the Easter Sunday terror attacks.
+
+The committee led by retired Judge Ms A.N.J. De Alwis was appointed by President Ranil Wickremesinghe, President’s Media Division (PMD) said.
+
+The findings of the Committee of Inquiry are due by September 15, 2024, according to the PMD.
+
+◼️
+
+[Data](articles/e39f0590.json)
+
+---
+
+### පාස්කු ප්‍රහාර සිද්ධිය ගැන සෙවීමට විශේෂ විමර්ශන කමිටුවක්
+
+*2024-06-12 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197690) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් ලැබී තිබූ බවට පැවසෙන පෙර තොරතුරු සහ බුද්ධි අංශ තොරතුරු සම්බන්ධයෙන් රාජ්‍ය බුද්ධි අංශය, ජාතික බුද්ධි අංශ ප්‍රධානියා සහ අනෙකුත් බලධාරීන් කටයුතු කළ ආකාරය සම්බන්ධයෙන් සොයාබැලීම සඳහා විමර්ශන කමිටුවක් පත්කර තිබේ.
+
+එම කමිටුවේ ප්‍රධානියා වශයෙන් විශ්‍රාමික විනිසුරු ඒ. එන්. ජේ අල්විස් මහත්මිය ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර ඇති බව ජනාධිපති මාධ්‍ය අංශය වාර්තා කළේය.
+
+එම කමිටු වාර්තාව මෙම වසරේ සැප්තැම්බර් 15 වනවිට අවසන් කළ යුතු බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/719b517d.json)
+
+---
+
+### Memorial affair;Handing over the report to the President
 
 *2024-06-12 17:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைவேந்தல்-விவகாரம்-அறிக்கை-ஜனாதிபதிக்கு-கையளிப்பு/175-338822) · `ta`
 
-இலங்கையில் ஆயுத மோதல்கள், அரசியல்  அமைதியின்மை அல்லது உள்நாட்டுக் கலவரம் காரணமாக உயிரிழந்தவர்களை நினைவு கூறுவது  குறித்து ஆராய்வதற்காக நியமிக்கப்பட்ட நிபுணர் குழுவின் அறிக்கை அண்மையில் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+An expert panel in Sri Lanka submitted a report to President Ranil Wickremesinghe, focusing on victims of conflicts (1983-2009). The committee, led by Senior Professor Jagath Weerasinghe and others, included public consultations across six districts. It emphasized the importance of commemorating diverse perspectives and recommended a symbolic building to preserve Sri Lanka's conflict art and culture. The goal is to foster national unity and reconciliation.
 
-சிரேஷ்ட பேராசிரியர் ஜகத் வீரசிங்க, கட்புல அரங்கேற்றக் கலைகள் பல்கலைக்கழக பேராசிரியர் சந்திரகுப்த தேனுவர, யாழ்  பல்கலைக்கழகப் பேராசிரியர் டி. சனாதனன், கொழும்பு பல்கலைக்கழகத்தின் பேராசிரியர்  பர்ஸானா ஹனீபா, தேசிய ஒருமைப்பாடு மற்றும் நல்லிணக்க அலுவலகத்தின் பதில் பணிப்பாளர் நாயகம் துஷாரி சூரியாராச்சி, நகர அபிவிருத்தி அதிகார சபையின் மேலதிக பணிப்பாளர் நாயகம் மஹிந்த விதானராச்சி ஆகியோர்  உள்ளடங்கிய குழுவொன்று நியமிக்கப்பட்டது.
+🟩
 
-22-05-2023 ஆம் திகதி எடுக்கப்பட்ட அமைச்சரவை தீர்மானத்தின் பிரகாரம் ஜனாதிபதி ரணில்  விக்ரமசிங்கவினால் இந்தக் குழு நியமிக்கப்பட்டது.
+The report of the expert panel appointed to investigate the victims of armed conflicts, political unrest or domestic riots in Sri Lanka has recently been handed over to President Ranil Wickremesinghe at the Presidential Office.
+
+Senior Professor Jagath Weerasinghe, Katpula Arts University Professor Chandragupta Thenuwara, Professor of Jaffna University. A committee was appointed by Sanatanan, Professor Parsana Haneefa of the University of Colombo, Director General of the National Integration and Reconciliation Office, Dushari Suriyarachchi and the Additional Director General of Urban Development Authority Mahinda Vithanachi.
+
+The committee was appointed by President Ranil Wickremesinghe as per the Cabinet decision taken on 22-05-2023.
 
 ...
 
 [Data](articles/576ac737.json)
+
+[Extended Data](ext_articles/576ac737.ext.json)
 
 ---
 
@@ -72,19 +110,25 @@ According to hospital sources, the student was severely transferred to the Dambu
 
 ---
 
-### பிபில விபத்தில் மூவர் பலி அறுவர் காயம்
+### Three killed in Bibila accident
 
 *2024-06-12 16:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-விபத்தில்-மூவர்-பலி-அறுவர்-காயம்/175-338821) · `ta`
 
-பிபில – மஹியங்கனை பிரதான வீதியின் வெகம பகுதியில் இடம்பெற்ற வாகன விபத்தில் மூவர் உயிரிழந்துள்ள சம்பவம் புதன்கிழமை (12) பிற்பகல் இடம்பெற்றுள்ளது .
+In a tragic accident on Bibila-Mahiyanganaya road, three members of a family died, and six others were injured when a private bus and a van collided head-on on Wednesday afternoon.
 
-தனியார் பஸ் ஒன்றும் வேன் ஒன்றும் நேருக்கு நேர் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
+🟩
 
-இந்த விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழந்துள்ளதாகவும் மேலும் 6 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+The incident took place on Wednesday afternoon (12) after a vehicle accident in the Bibila - Mahiyanganaya main road.
+
+The accident occurred when a private bus and a van collided head -on.
+
+Three people from the same family were killed in the accident and six others were injured and admitted to the hospital.
 
 ◼️
 
 [Data](articles/3054082e.json)
+
+[Extended Data](ext_articles/3054082e.ext.json)
 
 ---
 
@@ -112,21 +156,27 @@ The security forces operating on his video was arrested and arrested.
 
 ---
 
-### நீர்கொழும்பு வலயக்கல்விக் காரியாலயம் முன்பாக அதிபர், ஆசிரியர்கள் ஆர்ப்பாட்டம்
+### Chancellor, Teachers Demonstrate in front of Negombo Zonal Education Office
 
 *2024-06-12 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185932) · `ta`
 
-நீர்கொழும்பு வலயக்கல்விக் காரியாலயம் முன்பாக இன்று புதன்கிழமை (12) பிற்பகல் 2 மணி அளவில் அதிபர்கள், ஆசிரியர்கள், ஆசிரிய ஆலோசகர்கள், பிரிவெனா ஆசிரியர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Teachers, principals, and faculty advisers demonstrated outside the Negombo Zonal Education Office on Wednesday, demanding a two-thirds salary increase, lower fuel costs, and better educational resources. Despite rain, the protest was organized by the Chancellor and the Teacher Trade Union Federation, highlighting their commitment to improving conditions for students and educators.
 
-ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் பல்வேறு வாசகங்கள் எழுதப்பட்ட சுலோக அட்டைகளை ஏந்தி இருந்ததோடு எதிர்ப்பு கோஷங்களையும் எழுப்பினர்.
+🟩
 
-சம்பள அதிகரிப்பின் எஞ்சிய மூன்றில் இரண்டு பங்கை வழங்கு, எரிபொருள் விலையை குறை,  சம்பளத்தை அதிகரி, பெற்றோர்களே இது உங்கள் பிள்ளைகளின்  கல்வி உரிமைக்கான போராட்டம், கற்றல் உபகரணங்களின் விலையை குறை போன்ற வாசகங்கள் எழுதப்பட்ட சுலோக அட்டைகளை ஆர்ப்பாட்டக்காரர்கள் கைகளிலேந்திருந்தனர்.
+Principals, teachers, faculty advisers and teachers staged a demonstration in front of the Negombo Zonal Education Office on Wednesday (12).
 
-மழையின் மத்தியிலும் ஆசிரியர்கள் இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்டமை குறிப்பிடத்தக்கது. அதிபர், ஆசிரியர் தொழிற்சங்க கூட்டமைப்பு இதனை ஏற்பாடு செய்துள்ளது.
+The protesters carried the slogans written and chanted slogans.
+
+Demonstrators were in the hands of slogans written by the remaining two -thirds of the salary increase, the reduction in fuel prices, the salary, the struggle for the education rights of your children, the cost of learning equipment.
+
+It is noteworthy that the teachers were involved in the demonstration despite the rains. The Chancellor and the Teacher Trade Union Federation has organized this.
 
 ◼️
 
 [Data](articles/7604d9bb.json)
+
+[Extended Data](ext_articles/7604d9bb.ext.json)
 
 ---
 
@@ -1226,25 +1276,33 @@ The US dollar sales price was 298.7951 based on the currency exchange rate relea
 
 ---
 
-### ජනාධිපතිවරණයේ දී තීරණය වන්නේ මගේ ජය, පැරදුම නොව රටේ ජය හෝ පරාජයයි
+### The presidential election determines my victory, not my victory, or defeat in the country
 
 *2024-06-12 11:57:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේ-දී-තීරණය-වන්නේ-මගේ-ජය--පැරදුම-නොව-රටේ-ජය-හෝ-පරාජයයි/11-410170) · `si`
 
-ආණ්ඩුවේ ගමන ආපසු හැරවුවහොත් නැවතත් පෝලිම් යුගයකට මුහුණ දීමට ජනතාවට සිදු වෙනවා.
+President Ranil Wickremesinghe emphasizes the importance of the upcoming presidential election for the country's future rather than his personal victory or defeat. He warns against returning to economic hardships like fuel and gas shortages if the government's program isn't supported. Highlighting the lack of a formal economic system and the consequences of political instability, he calls for unity and support for the government's economic reform bill. He also addresses the need for youth involvement in governance and the importance of creating a sustainable economic plan.
 
-මැතිවරණ වේදිකාවල පොරොන්දු දුන්නද රට ඉදිරියට ගෙන යාමේ ක්‍රමවේදයක් කිසිදු පාර්ශ්වයකට නැහැ.
+🟩
 
-පුද්ගලයන් දෙස බලා තීරණ ගැනීමේ අතීත දේශපාලන වැරැද්ද යළි සිදු නොකළ යුතුයි – ජනපති.
+If the government's journey is back, the people face a queue era again.
 
-ඉදිරි ජනාධිපතිවරණයේ දී තීරණය වන්නේ තම ජය, පැරදුම නොව රටේ ජයග්‍රහණය හෝ පරාජය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+Despite the promises of election platforms, there is no party to promote the country.
 
-රජයේ වැඩපිළිවෙළ සමඟ ඉදිරියට යා යුතු බවට ජනතාව සෑහීමකට පත්ව සිටී නම් එම ක්‍රමවේදය සමඟ ඉදිරියට යා හැකි බවත් එසේ නොමැති වුවහොත් නැවතත් කඩාවැටුණු ආර්ථිකයක් ඇති රටක ඖෂධ, පොහොර සපයා ගත නොහැකිව මෙන්ම ඉන්ධන සහ ගැස් පෝලිම්වල දුක් විදීමට ජනතාවට සිදු වන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+President should not re-overcome the past political mistake to make decisions.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ පාර්ලිමේන්තු ආංශික අධික්ෂණ කාරක සභා සඳහා සහභාගිවන තරුණ නියෝජිතයන් සමඟ ඊයේ (11) බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයේ පැවති ප්‍රතිපත්ති ප්‍රතිසංස්කරණ කතිකාවට එක්වෙමිනි.
+President Ranil Wickremesinghe stressed that the next presidential election is determined not to win, but the country's victory but be defeated.
+
+The President pointed out that if the people are satisfied that they should proceed with the government's program, the President pointed out that the people of a country with a collapse economy again and the people will be able to suffer from the fuel and gas queues.
+
+President Ranil Wickremesinghe made this statement participating at the policy reforms held at Waters Age Hotel yesterday (11) with youth representatives participating in the Parliamentary Collection of Parliament.
+
+The President said that the President has no program to promote various promises to the country's economy today.
 
 ...
 
 [Data](articles/1b14eb09.json)
+
+[Extended Data](ext_articles/1b14eb09.ext.json)
 
 ---
 
@@ -1840,6 +1898,24 @@ The President made this statement at a policy reform held at the Battaramulla Vo
 
 ---
 
+### ආහාර නිෂ්පාදන වලට GMP සහතික ලබා ගැනීමට කර්මාන්ත අමාත්‍යාංශයේ සහාය
+
+*2024-06-12 10:34:37* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-නිෂ්පාදන-වලට-GMP-සහතික-ලබා-ගැනීමට-කර්මාන්ත-අමාත්‍යාංශයේ-සහාය/11-410166) · `si`
+
+දේශීය කර්මාන්තවල ඵලදායීතාවය ඉහල නැංවීම හා ආහාර සුරක්ෂිතතාව වර්ධනය කිරීම සඳහා ආහාර පාන    නිෂ්පාදන   කර්මාන්ත රැසකට යහපත් නිපයුම් පරිචයන් පිළිබඳ තත්ත්ව සහතික(GMP) ලබා ගැනීමට අවශ්‍ය මූල්‍ය අනුග්‍රහය ලබාදීමේ වැඩ සටහනක් කර්මාන්ත අමාත්‍යාංශය මගින් ආරම්භ කර තිබේ.
+
+මේ යටතේ 2024 ජනවාරි 01 දිනට වාර්ෂික  පිරිවැටුම රුපියල් මිලියන 350 ට අඩු මෙන්ම  සේවක සංඛ්‍යාව 50 ට අඩුවෙන් සිටින  සැකසූ ආහාර, තේ  ආශ්‍රිත නිපයුම්,කිරි හා ඒ ආශ්‍රිත නිපයුම් ,කුලුබඩු, පොල් ආශ්‍රිත නිපයුම් හා ඇසුරුම් ආශ්‍රිත නිපයුම් යන කර්මාන්ත සඳහා තත්ව සහතික ලබා ගැනීමට රුපියල් ලක්ෂයක් දක්වා  ප්‍රතිපාදන සහ අවශ්‍ය මග පෙන්වීම  ලබා දෙන බව කර්මාන්ත අමාත්‍යාංශය පවසයි.
+
+එම ප්‍රතිපාදන මගින් ශ්‍රී ලංකා ප්‍රමිති ආයතනයේ SLS 1 හා ප්‍රතීතකරණ මන්ඩලයේ SLAB තත්ව සහතික ලබා ගැනීමට එම කර්මාන්තකරුවන්ට අවස්ථාව සැලසෙන බවද කර්මාන්ත අමාත්‍යාංශය සඳහන් කරයි.
+
+මේ පිළිබඳව  උනන්දුවක්  දක්වන ව්‍යවසායකයින්ට ජුනි 20 දක්වා මෙම අනුග්‍රහයන්  ලබා ගැනීමට   ඉල්ලුම් කළ හැකිවේ.
+
+◼️
+
+[Data](articles/b2d37f1c.json)
+
+---
+
 ### Bus bus with the Makumbura Highway bus - CCTV
 
 *2024-06-12 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197670) · `si`
@@ -2235,69 +2311,5 @@ The ‘Sagarika’ express train has reportedly broken down due to a technical i
 [Data](articles/7a861b8f.json)
 
 [Extended Data](ext_articles/7a861b8f.ext.json)
-
----
-
-### A coastal train delay
-
-*2024-06-12 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197668) · `si`
-
-A coastal train is delayed due to interruptions at Kalutara South and Katunagun railway stations. The Railway Control Room has been notified.
-
-🟩
-
-The Railway Control Room has been informed that a train on the coastal is a delay in the coastal.
-
-The train operation has been interrupted due to the railway train in Kalutara South Railway Station and Katunangun railway stations.
-
-◼️
-
-[Data](articles/488008d0.json)
-
-[Extended Data](ext_articles/488008d0.ext.json)
-
----
-
-### Coastal Railway Service is blocked by Sagariga
-
-*2024-06-12 08:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாகரிகாவால்-கரையோர-புகையிரத-சேவை-தடைப்பட்டது/175-338795) · `ta`
-
-The Coastal Railway Service between Galle and Colombo is halted due to a technical issue near the station, causing inconvenience to numerous passengers.
-
-🟩
-
-It is reported that the train from Galle to Colombo has been reported to have a technical failure near the railway station.
-
-As a result, the coastal train service has been blocked and many passengers are in trouble.. Remble
-
-◼️
-
-[Data](articles/52702e65.json)
-
-[Extended Data](ext_articles/52702e65.ext.json)
-
----
-
-### Anura TNA claims to be in harmony with the provincial council system
-
-*2024-06-12 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197667) · `si`
-
-Anura Kumara Dissanayake, representing the Tamil National Alliance (TNA), supports the provincial council system, emphasizing the need for discussions on its implementation and expansion beyond legal limitations to foster national unity through constitutional changes.
-
-🟩
-
-Anura Kumara Dissanayake says that the national folk force is accepted that the provincial councils should be implemented.
-
-He says that a discussion should be founded on how to implement further.
-
-Speaking to the media with the TNA representatives of the TNA, MP Anura Kumara Dissanayake said this.
-
-"We must build a conversation to go out here. Especially has a constitutional change. Moreover, we must minimize opportunities for solutions established in the law. Some of them are limited to the law only. They go beyond it practice and need activities. Provincial councils are power distribution. Therefore, we agreed to the provincial councils already implemented. We also admit that there is no solution from the provincial councils. So we have to go beyond. We believe that he can establish national unity with a change of constitutional, legal, practical areas. "
-
-◼️
-
-[Data](articles/e22bbc95.json)
-
-[Extended Data](ext_articles/e22bbc95.ext.json)
 
 ---

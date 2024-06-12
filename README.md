@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 00:19:19**
+As of **2024-06-13 00:34:27**
 
 ## Newspaper Stats
 
-*Scraped **30,084** Articles*
+*Scraped **30,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 281
 bbccomsinhala | 293
 newsfirstlk | 363
 islandlk | 1,625
-economynextcom | 1,732
-dailyftlk | 1,809
+economynextcom | 1,733
+dailyftlk | 1,811
 adalk | 2,590
 adaderanalk | 3,411
 tamilmirrorlk | 3,522
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,083 (100.0%) of 30,084 articles have been extended.
+30,084 (100.0%) of 30,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ During a press briefing on Thursday (06), Kozack affirmed that there is a strong
 
 [Data](articles/1e234a79.json)
 
+[Extended Data](ext_articles/1e234a79.ext.json)
+
 ---
 
 ### Good news from the International Monetary Fund
@@ -67,6 +69,38 @@ Mr. Ali Sab Rie, Minister Ali Sab Rie, has a note in his account.
 [Data](articles/67e183e3.json)
 
 [Extended Data](ext_articles/67e183e3.ext.json)
+
+---
+
+### AKD’s speech on police and rule of law: Merits and demerits
+
+*2024-06-12 23:03:04* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-speech-on-police-and-rule-of-law-Merits-and-demerits/4-762997) · `en`
+
+Anura Kumara Dissanayake’s (AKD) speech as the Leader of the National People’s Power (NPP) at the National Convention organised by the Retired Police Officers Collective on 9 June 2024 is quite promising in terms of establishing or reestablishing rule of law in the country, if they get the opportunity to govern the nation. They have been talking about a ‘system change’ now for some time, and various independent critics and observers were asking the details of this promise, without merely depending on the slogan.
+
+I was fortunate to listen to this speech online and live, through ‘Horawa News,’ and one weakness or wrong that I immediately observed was its leading phrase ‘Malimawa shows its police power.’ I have no idea about who runs the ‘Horawa,’ but that was not what AKD was quite obviously advocating. ‘Power’ is not a good word to use in democracy, worst still is the ‘police power.’
+
+...
+
+[Data](articles/10df5d73.json)
+
+---
+
+### Debt politics, declining Hindutva hegemony and the Russia war
+
+*2024-06-12 22:55:44* · [`dailyftlk`](https://www.ft.lk/columns/Debt-politics-declining-Hindutva-hegemony-and-the-Russia-war/4-762989) · `en`
+
+‘Is There Another Way? Debt Restructuring, the IMF and the Future of Sri Lanka’, was the title and topic of the most educative, enlightening public policy event of this year. Organised by Yukthi a newish civic association spearheaded by Ahilan Kadirgamar, Ermiza Tegal and Melanie Gunatilleke, it featured three top-notch international economists, Prof. Jayati Ghosh, Prof. Martin Guzman --former Economics Minister of Argentina-- and Charles Abugre. (https://www.youtube.com/live/3SF2L0nh_l4?si=G7D82fcNI2YSxu5A)
+
+Watching the video, my wife Sanja and I had the same thought: these experts and not Lazard et al, should be our advisors on debt restructuring and consultants on our negotiating team, and our negotiating team should certainly not be the current one.
+
+My key takeaways from what Ghosh, Guzman and Abugre said were:
+
+Each country must do its own expert research rather than blindly accept the IMF narrative.
+
+...
+
+[Data](articles/60ad1013.json)
 
 ---
 
@@ -201,6 +235,26 @@ Accordingly, India has won 111 runs in order to win the match.
 [Data](articles/ea0c11a7.json)
 
 [Extended Data](ext_articles/ea0c11a7.ext.json)
+
+---
+
+### Sri Lanka’s 6-year Presidential term: problem in drafting 19th amendment explained
+
+*2024-06-12 21:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-6-year-presidential-term-problem-in-drafting-19th-amendment-explained-167722/) · `en`
+
+ECONOMYNEXT – A member of the team that drafted Sri Lanka’s 19th amendment to the constitution has explained the constraint they worked with, which has led to the possibility of a 6-year Presidential term enabled by a two thirds’ majority vote.
+
+The deficiency in the constitution was highlighted in a report by EconomyNext on Tuesday.
+
+President’s Counsel Jayampathy Wickramaratne, a member of the drafting team, explained that they were instructed not to make changes that required a referendum.
+
+The team was advised that a bill to amend the constitution should be passed “only by a two-thirds majority, in keeping with the pledge of Presidential candidate Maithripala Sirisena in his election manifesto that no amendment necessitating a Referendum would be placed before Parliament.
+
+“As such, the draft did not propose reducing the maximum period from six to five years.”
+
+...
+
+[Data](articles/0216f830.json)
 
 ---
 
@@ -2267,75 +2321,5 @@ We see the most violent conflict, and they are interconnected. He said that it h
 [Data](articles/60c9cb80.json)
 
 [Extended Data](ext_articles/60c9cb80.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-12 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185894) · `ta`
-
-The US dollar sold for 298.7951 Rupees according to today's currency exchange rate update on June 12.
-
-🟩
-
-The US dollar sales price was 298.7951 based on the currency exchange rate released today (June 12) at Rs.
-
-◼️
-
-[Data](articles/b256c31d.json)
-
-[Extended Data](ext_articles/b256c31d.ext.json)
-
----
-
-### The presidential election determines my victory, not my victory, or defeat in the country
-
-*2024-06-12 11:57:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේ-දී-තීරණය-වන්නේ-මගේ-ජය--පැරදුම-නොව-රටේ-ජය-හෝ-පරාජයයි/11-410170) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of the upcoming presidential election for the country's future rather than his personal victory or defeat. He warns against returning to economic hardships like fuel and gas shortages if the government's program isn't supported. Highlighting the lack of a formal economic system and the consequences of political instability, he calls for unity and support for the government's economic reform bill. He also addresses the need for youth involvement in governance and the importance of creating a sustainable economic plan.
-
-🟩
-
-If the government's journey is back, the people face a queue era again.
-
-Despite the promises of election platforms, there is no party to promote the country.
-
-President should not re-overcome the past political mistake to make decisions.
-
-President Ranil Wickremesinghe stressed that the next presidential election is determined not to win, but the country's victory but be defeated.
-
-The President pointed out that if the people are satisfied that they should proceed with the government's program, the President pointed out that the people of a country with a collapse economy again and the people will be able to suffer from the fuel and gas queues.
-
-President Ranil Wickremesinghe made this statement participating at the policy reforms held at Waters Age Hotel yesterday (11) with youth representatives participating in the Parliamentary Collection of Parliament.
-
-The President said that the President has no program to promote various promises to the country's economy today.
-
-...
-
-[Data](articles/1b14eb09.json)
-
-[Extended Data](ext_articles/1b14eb09.ext.json)
-
----
-
-### Decision regarding the allowance of the answer
-
-*2024-06-12 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197676) · `si`
-
-The Ministry of Education announced an update on teacher and inspector allowances for Ordinary Level ADB, mentioning a Cabinet Memorandum submitted for relevant allowance increases. The committee's report will be presented to the next Cabinet meeting.
-
-🟩
-
-GCE Advanced Level. The Ministry of Education has issued a statement regarding the allowance paid to the teachers and inspectors for a (Ordinary Level ADB).
-
-The statement further states that a Cabinet Memorandum has been submitted regarding the relevant allowance.
-
-The report of the committee is scheduled to be presented to the next Cabinet and increase the allowances to the next Cabinet.
-
-◼️
-
-[Data](articles/ec96a6a6.json)
-
-[Extended Data](ext_articles/ec96a6a6.ext.json)
 
 ---

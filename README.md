@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 00:06:49**
+As of **2024-06-13 00:19:19**
 
 ## Newspaper Stats
 
-*Scraped **30,083** Articles*
+*Scraped **30,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,590
-adaderanalk | 3,410
+adaderanalk | 3,411
 tamilmirrorlk | 3,522
 virakesarilk | 4,605
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,082 (100.0%) of 30,083 articles have been extended.
+30,083 (100.0%) of 30,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### IMF approves second review of Sri Lanka’s bailout package - FM
+
+*2024-06-12 23:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99846/imf-approves-second-review-of-sri-lankas-bailout-package-fm) · `en`
+
+The Executive Board of the International Monetary Fund (IMF) has approved Sri Lanka’s second review under the Extended Fund Facility (EFF) programme, paving the way for the country to receive the third tranche of around USD 330 million, Sri Lanka’s Foreign Minister Ali Sabry said.
+
+“IMF’s approved the 2nd review of Sri Lanka’s program. This achievement is a testament to our dedication to driving forward economic reforms and securing a prosperous future for all Sri Lankans,” he posted on ‘X’ (formerly Twitter).
+
+The Article IV Consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the International Monetary Fund’s (IMF) Executive Board meeting agenda for today (June 12), as confirmed by Julie Kozack, the Director of the IMF Communications Department.
+
+During a press briefing on Thursday (06), Kozack affirmed that there is a strong expectation that Sri Lanka will soon reach agreements with external commercial creditors consistent with program parameters.
+
+...
+
+[Data](articles/1e234a79.json)
+
+---
 
 ### Good news from the International Monetary Fund
 
@@ -442,23 +460,29 @@ The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulato
 
 ---
 
-### පාස්කු ප්‍රහාරය ගැන ලද පූර්ව බුද්ධි තොරතුරු ගැන බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට ජනපතිගෙන් කමිටුව
+### President commemorates action to investigate the Easter attack on the Easter attack
 
 *2024-06-12 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ලද-පූර්ව-බුද්ධි-තොරතුරු-ගැන-බලධාරීන්-ගත්-ක්‍රියාමාර්ග-විමර්ශනයට-ජනපතිගෙන්-කමිටුව/11-410182) · `si`
 
-විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මිය කමිටුවේ සභාපති ධූරයට.
+President Ranil Wickremesinghe has formed a committee to probe actions taken by the State Intelligence Service (SIS) and others before the 2019 Easter bombings. The committee, chaired by Pension High Court Judge N.J. Alwis, includes a special grade officer and a senior attorney. They must submit their findings by September 15, 2024.
 
-කමිටු වාර්තාව සැප්තැම්බර් 15 දිනට පෙර ජනපතිට ලබා දීමට උපදෙස්.
+🟩
 
-2019 අප්‍රේල් 21 දින සිදුවූ බෝම්බ ප්‍රහාර පිළිබඳ ලැබුණු පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවය (SIS), ජාතික බුද්ධි ප්‍රධානී (CNI) සහ අනෙකුත් බලධාරීන් ගත් ක්‍රියාමාර්ග පිළිබඳ විමර්ශනය කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විමර්ශන කමිටුවක් පත් කර තිබේ.
+Pension High Court Judge. N. J. Mrs. Alwis to be appointed chairman of the Committee.
 
-විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මියගේ සභාපතිත්වයෙන් යුත් මෙම විමර්ශන කමිටුවේ සෙසු සාමාජිකයන් ලෙස ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන කේ. එන්. කේ. සෝමරත්න මහත්මිය සහ ජ්‍යෙෂ්ඨ නීතීඥ ඩබ්. එම්. ඒ. එන්. නිෂේන් මහතා පත් කර තිබේ.
+Advice to provide the committee report before September 15.
 
-මෙම විමර්ශන කමිටුවේ ලේකම් ලෙස ජනාධිපති ජ්‍යෙෂ්ඨ සහකාර ලේකම් සාරතාංජලී මනෝහරන් මහත්මිය කටයුතු කරයි.
+President Ranil Wickremesinghe has appointed a committee to investigate the pre-intelligence (SIS) and other authorities taken regarding the pre-intelligence (SIS) and other authorities who have taken about the premises of the bombings on April 21, 2019.
+
+Pension High Court Judge. N. J. Mr. Alwis' fellow members of the Commission of Investigation Committee is a special grade officer of the Sri Lanka Administrative Service. N. K. Mrs. Somaratne and Senior Attorney. M. it. N. Mr. Nadan has been appointed.
+
+Senior Assistant Secretary Sarathajeli Manharan is the Secretary to the Investigation Committee.
 
 ...
 
 [Data](articles/49bb6f19.json)
+
+[Extended Data](ext_articles/49bb6f19.ext.json)
 
 ---
 
@@ -2313,29 +2337,5 @@ The report of the committee is scheduled to be presented to the next Cabinet and
 [Data](articles/ec96a6a6.json)
 
 [Extended Data](ext_articles/ec96a6a6.ext.json)
-
----
-
-### There is a need to strengthen unity and reconciliation among the world - the Sri Lanka Branch of the World Buddhist Maha Federation
-
-*2024-06-12 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/185892) · `ta`
-
-The Sri Lanka Branch of the World Buddhist Maha Federation, along with the Ceylon Center and the International Human Rights Bureau, hosted an event promoting unity and reconciliation among Sinhala, Tamil, and Muslim communities. Led by Dr. Sudath Devapura, the event aimed to foster peace and unity across religions and ethnicities in Sri Lanka.
-
-🟩
-
-The Sri Lanka Branch of the World Buddhist Maha Federation has emphasized that there is a need to further strengthen the unity and harmony among ethnic harmony in Sri Lanka.
-
-The World Buddhist Maha Federation and the Ceylon Center of the World and the International Human Rights Bureau organized an event on Tuesday (11) to promote unity and reconciliation between the Sinhala, Tamil and Muslim communities in Sri Lanka.
-
-The religious event was held at the Sri Patrakali Amman Temple in Colombo, headed by Dr. Sudath Devapura, President of the Sri Lanka Branch of the World Buddhist Maha Federation.. The event was organized to promote peace and unity through harmony between all religions and ethnicities.
-
-Dr. Sudath Devapura, Secretary to the Ceylon Center of the World Buddhist Great Federation, Secretary Jayantha Peiris, International Human Rights Global Guidelines. A.. Clean. Mahasum, its leader Amir Khan, Director Kuberalingam, Advisor Naseem and journalist journalist Baslan were also present.
-
-...
-
-[Data](articles/ccf5912a.json)
-
-[Extended Data](ext_articles/ccf5912a.ext.json)
 
 ---

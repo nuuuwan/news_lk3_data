@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 20:35:08**
+As of **2024-06-12 20:53:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,842
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,064 (100.0%) of 30,065 articles have been extended.
+30,065 (100.0%) of 30,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -180,19 +180,27 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 
 ---
 
-### ධනකුවේරයන් ඉලක්ක කර ගණිකා ජාවාරමක් කරගෙන ගිය නිළියක් අල්ලයි
+### Actress also arrested a prostitution racket targeting riceters
 
 *2024-06-12 18:09:21* · [`adalk`](https://www.ada.lk/breaking_news/ධනකුවේරයන්-ඉලක්ක-කර-ගණිකා-ජාවාරමක්-කරගෙන-ගිය-නිළියක්-අල්ලයි/11-410177) · `si`
 
-ධනවතුන් සමග බීමත්ව  ගණිකාවන් තරුපන්ති හෝටල්වලට හා සමාජශාලා සුපිරි නිවාස සංකීර්ණ වෙත කුලීරථ සේවා මගින්  සපයමින් සිදුකරගන ගිය ගණිකා ජාවාරමක් වටලා සුරූපි නිළියක් ඇතුලු සුරූපි කාන්තාවන් හතර දෙනෙකු වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකාය මගින් 12 අලුයම  අත්අඩංගුවට ගෙන ඇතැයි.පොලීසිය පැවසීය.
+Four actresses aged 25-45, including a prominent one known for her roles in adult films, were arrested by the Walana Central Anti-Corruption Unit for involvement in a prostitution racket targeting rich clients. The operation spanned several districts, highlighting a widespread network.
 
-මෙම සුරූපි කාන්තාවන් වයස අවුරදු 25 ත් 45.ත් අතර පසුවන ගම්පහ,අම්පාර,බොරලැස්ගමුව,මාතර, බියගම,යන ප්‍රදේශවල පදිංචිව සිටින අයද වන බවත් පොලීසිය කියයි.
+🟩
 
-මෙම ප්‍රධාන නිළිය සරාගී චිත්‍රපට විශාල ගණනක සහ රූපවාහිනී නාලිකාවල විකාශයවු ටෙලිනාට්‍ය ගණනාවකට රංගනයෙන් දායකත්වය ලබාදී ඇති අතර ,මෙම නිළිය සිය වට්ස්ඇප් යෙදුම හරහා ව්‍යාපාරික ලෝකයේ ධනකුවේරයන් සම්බන්ධ කරගන ඔවුන් පිනවීම සදහා සුරූපි කාන්තාවක් ලගට ගෙනැවත් දීමට රුපියල් 30,000/= සිට ඉහල විවිධ මිල ගණන්වලට ගෙනවිත් දෙනු ලබන බවත් හෙලිවී ඇති බවත් පොලීසිය පැවසීය.
+Four beautiful women, including a large number of beautiful actresses, has been arrested by the Walana Central Anti-Corruption Assistant Corrupt Assistance has been arrested by the Walapinte of Hotels and the World Relief Services.
 
-...
+The demonstrators are among the age of 25 and 45. from Gampaha, Ampara, Boralesgamuwa, Matara and Biyagama areas.
+
+The main actress has been subscribed to a large number of sexy films and television televisions on television channels.He was revealed that he was revealed.
+
+According to the Director General of the Central Corruption, Jayalal has been arrested by the Central Corruption Attack Unit as a strategic structure as a tactical angel, including the Saragii actress of the Central Corruption.
+
+◼️
 
 [Data](articles/5b6a2f25.json)
+
+[Extended Data](ext_articles/5b6a2f25.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 11:54:20**
+As of **2024-06-12 12:06:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,824
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,962 (100.0%) of 29,967 articles have been extended.
+29,967 (100.0%) of 29,967 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The Article IV Consultation and second review under the Extended Fund Facility (
 
 [Data](articles/e70fc4b4.json)
 
+[Extended Data](ext_articles/e70fc4b4.ext.json)
+
 ---
 
 ### 30 factory workers hospitalised after inhaling toxic chemical fumes
@@ -64,35 +66,49 @@ Police said that the factory in question has been temporarily closed following t
 
 [Data](articles/5b96e78d.json)
 
+[Extended Data](ext_articles/5b96e78d.ext.json)
+
 ---
 
-### රසායනික ද්‍රව්‍යයක් විස වී කර්මාන්ත ශාලාවක පිරිසක් රෝහලට
+### Chemicals to hospital at factory
 
 *2024-06-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197675) · `si`
 
-පානදුර, නල්ලුරුව ප්‍රදේශයේ කර්මාන්තශාලාවක රසායනික ද්‍රව්‍යයක් විස වීමෙන් පුද්ගලයින් 30 දෙනෙකු පමණ රෝහල්ගත කර ඇතැයි වාර්තා වේ.
+Approximately 30 individuals were hospitalized due to chemical poisoning at a factory in Nalluriya, Panadura. The incident occurred when a chemical was altered during the production of a substance, including perfumes.
 
-සුවඳ විලවුන් ඇතුළු ද්‍රව්‍ය නිෂ්පාදනය කරන ආයතනයක මිශ්‍රණයක් සැකසීමේ දී රසායනික ද්‍රව්‍යයක් වෙනස්වීමෙන් මෙම තත්ත්වය හට ගෙන ඇත.
+🟩
 
-කෙසේවෙතත් සිදුවීමෙන් අනතුරුව තාවකාලිකව අදාළ කර්මාන්ත ශාලාව වසා දැමීමට උපදෙස් දුන් බව පොලීසිය පැවසීය.
+Around 30 persons have been hospitalized after being poisoning a chemical of a factory in Nalluriya, Panadura.
+
+This situation has arisen by changing a chemical in the formation of a mixture of a substance manufacturing institution including perfumes.
+
+However, after the incident, the police said that the police said.
 
 ◼️
 
 [Data](articles/c0d99bc6.json)
 
+[Extended Data](ext_articles/c0d99bc6.ext.json)
+
 ---
 
-### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Enjoining order against Maithri is extended
 
 *2024-06-12 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197674) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති, මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය මේ මස 19 වන දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+The Colombo District Court extended an injunction against Maithri on the 19th, acting on a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ මෙම පැමිණිල්ල අද (12) කොළඹ දිසා අධිකරණය ඉදිරියේ යළි කැඳවනු ලැබීය.
+🟩
+
+The Colombo District Court sentenced the 19th of this month.
+
+The complaint was filed by former President Chandrika Bandaranaike Kumaratunga today (12) before the Colombo District Court today.
 
 ◼️
 
 [Data](articles/092afbdd.json)
+
+[Extended Data](ext_articles/092afbdd.ext.json)
 
 ---
 
@@ -131,6 +147,8 @@ However on May 12, the former President resigned from the post of Chairman of th
 ◼️
 
 [Data](articles/9bc3b383.json)
+
+[Extended Data](ext_articles/9bc3b383.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 17:55:12**
+As of **2024-06-12 18:13:31**
 
 ## Newspaper Stats
 
-*Scraped **30,040** Articles*
+*Scraped **30,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,404
 tamilmirrorlk | 3,519
 virakesarilk | 4,600
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,839
+adaderanasinhalalk | 4,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,037 (100.0%) of 30,040 articles have been extended.
+30,040 (100.0%) of 30,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### මාරක වෑන් අනතුර ගැන තවත් තොරතුරු
+
+*2024-06-12 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197691) · `si`
+
+අද (12) සවස් කාලයේදී බස් රථයක වෑන් රථයක් ගැටීමෙන් සිදුවූ මාරක අනතුර පිළිබඳ තවත් තොරතුරු හෙළිවී ඇත.
+
+නතර කර තිබූ බස් රථයක වෑන් රථය ගැටී තිබෙන අතර ඉන් වෑන් රථයේ ගමන් කළ කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/3a0403ec.json)
+
+---
 
 ### Easter attacks: Inquiry committee appointed to probe actions taken on prior intelligence
 
@@ -46,21 +60,29 @@ The findings of the Committee of Inquiry are due by September 15, 2024, accordin
 
 [Data](articles/e39f0590.json)
 
+[Extended Data](ext_articles/e39f0590.ext.json)
+
 ---
 
-### පාස්කු ප්‍රහාර සිද්ධිය ගැන සෙවීමට විශේෂ විමර්ශන කමිටුවක්
+### Special Investigation Committee to probe Easter attack
 
 *2024-06-12 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197690) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් ලැබී තිබූ බවට පැවසෙන පෙර තොරතුරු සහ බුද්ධි අංශ තොරතුරු සම්බන්ධයෙන් රාජ්‍ය බුද්ධි අංශය, ජාතික බුද්ධි අංශ ප්‍රධානියා සහ අනෙකුත් බලධාරීන් කටයුතු කළ ආකාරය සම්බන්ධයෙන් සොයාබැලීම සඳහා විමර්ශන කමිටුවක් පත්කර තිබේ.
+The State Intelligence Committee, led by retired chief N., will investigate the Easter attack under President Ranil Wickremesinghe's orders. Mrs. J Alwis is part of the team, aiming to submit a report by September 15.
 
-එම කමිටුවේ ප්‍රධානියා වශයෙන් විශ්‍රාමික විනිසුරු ඒ. එන්. ජේ අල්විස් මහත්මිය ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර ඇති බව ජනාධිපති මාධ්‍ය අංශය වාර්තා කළේය.
+🟩
 
-එම කමිටු වාර්තාව මෙම වසරේ සැප්තැම්බර් 15 වනවිට අවසන් කළ යුතු බව සඳහන් වෙයි.
+The State Intelligence Committee has been appointed to look into the matter and the intelligence head of the National Intelligence and other authorities regarding the Easter attack.
+
+Retirement benchief as the head of the committee. N. The Presidential Media Unit reported that Mrs. J Alwis had been appointed by President Ranil Wickremesinghe.
+
+The report should be completed by September 15 this year.
 
 ◼️
 
 [Data](articles/719b517d.json)
+
+[Extended Data](ext_articles/719b517d.ext.json)
 
 ---
 
@@ -1898,21 +1920,27 @@ The President made this statement at a policy reform held at the Battaramulla Vo
 
 ---
 
-### ආහාර නිෂ්පාදන වලට GMP සහතික ලබා ගැනීමට කර්මාන්ත අමාත්‍යාංශයේ සහාය
+### Industry Ministry to obtain GMP certificates
 
 *2024-06-12 10:34:37* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-නිෂ්පාදන-වලට-GMP-සහතික-ලබා-ගැනීමට-කර්මාන්ත-අමාත්‍යාංශයේ-සහාය/11-410166) · `si`
 
-දේශීය කර්මාන්තවල ඵලදායීතාවය ඉහල නැංවීම හා ආහාර සුරක්ෂිතතාව වර්ධනය කිරීම සඳහා ආහාර පාන    නිෂ්පාදන   කර්මාන්ත රැසකට යහපත් නිපයුම් පරිචයන් පිළිබඳ තත්ත්ව සහතික(GMP) ලබා ගැනීමට අවශ්‍ය මූල්‍ය අනුග්‍රහය ලබාදීමේ වැඩ සටහනක් කර්මාන්ත අමාත්‍යාංශය මගින් ආරම්භ කර තිබේ.
+The Ministry of Industries launched a program offering GMP certifications to boost local industry productivity and food safety, with support for businesses earning up to Rs. 350 million annually. The initiative aims to assist one million entrepreneurs, providing them with necessary allocations and guidance. Applications opened on June 20, enabling businesses to acquire SLS quality certificates through the Sri Lanka Standards Institution's Accreditation Board.
 
-මේ යටතේ 2024 ජනවාරි 01 දිනට වාර්ෂික  පිරිවැටුම රුපියල් මිලියන 350 ට අඩු මෙන්ම  සේවක සංඛ්‍යාව 50 ට අඩුවෙන් සිටින  සැකසූ ආහාර, තේ  ආශ්‍රිත නිපයුම්,කිරි හා ඒ ආශ්‍රිත නිපයුම් ,කුලුබඩු, පොල් ආශ්‍රිත නිපයුම් හා ඇසුරුම් ආශ්‍රිත නිපයුම් යන කර්මාන්ත සඳහා තත්ව සහතික ලබා ගැනීමට රුපියල් ලක්ෂයක් දක්වා  ප්‍රතිපාදන සහ අවශ්‍ය මග පෙන්වීම  ලබා දෙන බව කර්මාන්ත අමාත්‍යාංශය පවසයි.
+🟩
 
-එම ප්‍රතිපාදන මගින් ශ්‍රී ලංකා ප්‍රමිති ආයතනයේ SLS 1 හා ප්‍රතීතකරණ මන්ඩලයේ SLAB තත්ව සහතික ලබා ගැනීමට එම කර්මාන්තකරුවන්ට අවස්ථාව සැලසෙන බවද කර්මාන්ත අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Industries has commenced a financial supportive program of providing GMP to obtain a GMP to obtain the productivity of local industries and to enhance food safety.
 
-මේ පිළිබඳව  උනන්දුවක්  දක්වන ව්‍යවසායකයින්ට ජුනි 20 දක්වා මෙම අනුග්‍රහයන්  ලබා ගැනීමට   ඉල්ලුම් කළ හැකිවේ.
+Under this, the annual turnover is Rs. 350 million as well as Rs.The Ministry of Industries says that allocations and guidance will be given to a million.
+
+According to the Ministry of Industrialists, the provisions will be able to obtain SLS quality certificates at the SLS 1 and Accreditation Board by the Sri Lanka Standards Institution.
+
+Entrepreneurs are applying for these favor from June 20.
 
 ◼️
 
 [Data](articles/b2d37f1c.json)
+
+[Extended Data](ext_articles/b2d37f1c.ext.json)
 
 ---
 
@@ -2295,21 +2323,5 @@ Sagarika train traveling from Galle to Colombo near the Kattukurunda railway sta
 [Data](articles/94fe843b.json)
 
 [Extended Data](ext_articles/94fe843b.ext.json)
-
----
-
-### Trains delayed on coastal line as ‘Sagarika’ breaks down
-
-*2024-06-12 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99817/trains-delayed-on-coastal-line-as-sagarika-breaks-down) · `en`
-
-The ‘Sagarika’ train has suffered a breakdown at Kalutara, leading to significant delays along the coastal railway line, according to Sri Lanka Railways.
-
-The ‘Sagarika’ express train has reportedly broken down due to a technical issue between Kalutara South and Katukurunda railway stations.
-
-◼️
-
-[Data](articles/7a861b8f.json)
-
-[Extended Data](ext_articles/7a861b8f.ext.json)
 
 ---

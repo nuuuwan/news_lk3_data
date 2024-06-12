@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 01:53:37**
+As of **2024-06-13 02:04:24**
 
 ## Newspaper Stats
 
-*Scraped **30,103** Articles*
+*Scraped **30,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,590
 adaderanalk | 3,411
-tamilmirrorlk | 3,522
+tamilmirrorlk | 3,523
 virakesarilk | 4,605
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,847
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,094 (100.0%) of 30,103 articles have been extended.
+30,103 (100.0%) of 30,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### குவைத்தில் தீ விபத்து; 41 பேர் பலி
+
+*2024-06-13 01:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குவைத்தில்-தீ-விபத்து-41-பேர்-பலி/50-338838) · `ta`
+
+குவைத்தில் கட்டடம் ஒன்றில் ஏற்பட்ட பயங்கர தீ விபத்தில் 41 பேர் உயிரிழந்துள்ளனர்.
+
+குறைத்தின் தெற்கில் உள்ள மங்காஃப் மாவட்டத்தில் இந்த தீ விபத்து ஏற்பட்டுள்ளது. இந்தப் பகுதியில் அதிகளவில் வெளிநாட்டு தொழிலாளர்கள் தங்கியிருந்தனர் என ஊடகங்கள் தெரிவித்துள்ளன.
+
+நேற்று அதிகாலை பரவிய தீயில் 15 பேர் காயமடைந்துள்ளனர் என சுகாதார அமைச்சு குறிப்பிட்டுள்ளது.
+
+மேற்படி கட்டடத்தில் ஏராளமான தொழிலாளர்கள் தங்கியிருந்துள்ளனர். அவர்களில் பலர் மீட்கப்பட்டுள்ளனர். புகையை சுவாசித்ததால் மூச்சுத்திணறி பலர் உயிரிழந்துள்ளனர்.
+
+தீ விபத்து இடம்பெற்ற பகுதியை பார்வையிட்ட அந்த நாட்டு துணை பிரதமர், கட்டட உரிமையாளரை கைது செய்யுமாறு உத்தரவிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/05bd6059.json)
+
+---
 
 ### Election delay would end UNP: MR
 
@@ -52,6 +72,8 @@ Rajapaksa also asserted that the country’s people remain hopeful about the SLP
 
 [Data](articles/6d08380b.json)
 
+[Extended Data](ext_articles/6d08380b.ext.json)
+
 ---
 
 ### BASL President temporarily steps down amid JICA scandal investigation
@@ -65,6 +87,8 @@ The controversy erupted when a group of legal professionals, including 10 Presid
 ...
 
 [Data](articles/c4841868.json)
+
+[Extended Data](ext_articles/c4841868.ext.json)
 
 ---
 
@@ -81,6 +105,8 @@ The Committee of Inquiry will be chaired by A.N.J. De Alwis, Retired Judge of th
 ...
 
 [Data](articles/b2b7b60f.json)
+
+[Extended Data](ext_articles/b2b7b60f.ext.json)
 
 ---
 
@@ -102,6 +128,8 @@ This new legislation aims to modernise the legal framework governing immigration
 
 [Data](articles/0a1a7f29.json)
 
+[Extended Data](ext_articles/0a1a7f29.ext.json)
+
 ---
 
 ### Mullaitivu fishermen threaten action amidst illegal fishing crisis
@@ -115,6 +143,8 @@ Fishermen from outer provinces have been accused of using prohibited gear to fis
 ...
 
 [Data](articles/8433320a.json)
+
+[Extended Data](ext_articles/8433320a.ext.json)
 
 ---
 
@@ -132,6 +162,8 @@ On 12 December 2022, the Cabinet initially approved the introduction of amendmen
 
 [Data](articles/262955ee.json)
 
+[Extended Data](ext_articles/262955ee.ext.json)
+
 ---
 
 ### Vidullanka receives ISO 9001:2015 for domestic hydro and solar segments
@@ -148,6 +180,8 @@ Accredited by SGS Lanka Ltd., the certification was awarded for the business dev
 
 [Data](articles/3a568601.json)
 
+[Extended Data](ext_articles/3a568601.ext.json)
+
 ---
 
 ### NSBM Founding Vice Chancellor Prof. Weerasinghe honoured with Most Outstanding Citizen Award 2024 by Lions International
@@ -163,6 +197,8 @@ Most Outstanding Citizen 2024 (MOC Awards) of Lions International District 306 A
 ...
 
 [Data](articles/a3f01c75.json)
+
+[Extended Data](ext_articles/a3f01c75.ext.json)
 
 ---
 
@@ -181,6 +217,8 @@ Discussions will be conducted in all three languages: English at 2:15 p.m., Sinh
 ...
 
 [Data](articles/2489df32.json)
+
+[Extended Data](ext_articles/2489df32.ext.json)
 
 ---
 
@@ -2197,31 +2235,5 @@ As a result, the train was uncomfortable.
 [Data](articles/72beed3c.json)
 
 [Extended Data](ext_articles/72beed3c.ext.json)
-
----
-
-### Salary of Estate Workers: 'We can pay for money from the government.'
-
-*2024-06-12 13:09:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce44vvy5j84o) · `si`
-
-Estate workers' salaries may be funded by the government, as suggested by Roshan, a media spokesperson. However, due to productivity concerns, it's unclear if wages will reach Rs. 1700. This was discussed during a press conference by Minister Ranjith Siyambalapitiya, focusing on plantation enterprise development.
-
-🟩
-
-None contains none of the Fource Foreign Head, '' No 40 years of government estate companies'
-
-Salary of Estate Workers: 'We can pay for money from the government.'
-
-Roshan, a media spokesman, told the BBC Sinhala service, to increase the daily wage of plantation workers to Rs.
-
-He added that the productivity is not possible to pay 1700, not to pay 1700, but also based on salary increases.
-
-However, Minister of Plantation Enterprise Development Minister Ranjith Siyambalapitiya stated that Minister Ranjith Siyambalapitiya held at a press conference held in Colombo today (June 12).
-
-◼️
-
-[Data](articles/165dcb90.json)
-
-[Extended Data](ext_articles/165dcb90.ext.json)
 
 ---

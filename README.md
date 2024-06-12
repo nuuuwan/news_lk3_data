@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 22:34:29**
+As of **2024-06-12 22:52:22**
 
 ## Newspaper Stats
 
-*Scraped **30,077** Articles*
+*Scraped **30,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,588
-adaderanalk | 3,409
+adaderanalk | 3,410
 tamilmirrorlk | 3,521
 virakesarilk | 4,605
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,076 (100.0%) of 30,077 articles have been extended.
+30,077 (100.0%) of 30,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### More than 1.5 million foreign pilgrims arrive in Mecca for annual Hajj pilgrimage
+
+*2024-06-12 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99845/more-than-15-million-foreign-pilgrims-arrive-in-mecca-for-annual-hajj-pilgrimage) · `en`
+
+Muslim pilgrims have been streaming into Saudi Arabia’s holy city of Mecca ahead of the start of the Hajj later this week, as the annual pilgrimage returns to its monumental scale.
+
+Saudi officials say more than 1.5 million foreign pilgrims have arrived in the country by Tuesday, the vast majority by air, from across the world. More are expected, and hundreds of thousands of Saudis and others living in Saudi Arabia will also join them when the pilgrimage officially begins on Friday.
+
+Saudi officials have said they expect the number of pilgrims this year to exceed 2023, when more than 1.8 million people performed Hajj, approaching pre-pandemic levels. In 2019, more than 2.4 million Muslims made the pilgrimage. Saudi authorities control the flow of pilgrims through quotas, allowing each country one pilgrim for every thousand Muslim citizens.
+
+...
+
+[Data](articles/c7965164.json)
+
+---
 
 ### Govt to enact 15 crucial new laws in near future – Justice Minister
 
@@ -47,6 +63,8 @@ Justice, Prison Affairs and Constitutional Reforms Minister, President’s Couns
 ...
 
 [Data](articles/1a8ac978.json)
+
+[Extended Data](ext_articles/1a8ac978.ext.json)
 
 ---
 
@@ -2309,27 +2327,5 @@ The Sri Lankan Government was in the final steps of finalizing the debt restruct
 [Data](articles/8ec33b80.json)
 
 [Extended Data](ext_articles/8ec33b80.ext.json)
-
----
-
-### Chemicals to hospital at factory
-
-*2024-06-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197675) · `si`
-
-Approximately 30 individuals were hospitalized due to chemical poisoning at a factory in Nalluriya, Panadura. The incident occurred when a chemical was altered during the production of a substance, including perfumes.
-
-🟩
-
-Around 30 persons have been hospitalized after being poisoning a chemical of a factory in Nalluriya, Panadura.
-
-This situation has arisen by changing a chemical in the formation of a mixture of a substance manufacturing institution including perfumes.
-
-However, after the incident, the police said that the police said.
-
-◼️
-
-[Data](articles/c0d99bc6.json)
-
-[Extended Data](ext_articles/c0d99bc6.ext.json)
 
 ---

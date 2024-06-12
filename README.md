@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 16:35:01**
+As of **2024-06-12 16:52:08**
 
 ## Newspaper Stats
 
-*Scraped **30,023** Articles*
+*Scraped **30,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,159 @@ islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,580
-adaderanalk | 3,399
-tamilmirrorlk | 3,516
+adaderanalk | 3,403
+tamilmirrorlk | 3,517
 virakesarilk | 4,599
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,834
+adaderanasinhalalk | 4,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,018 (100.0%) of 30,023 articles have been extended.
+30,023 (100.0%) of 30,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### நடிகை ஐஸ்வர்யா அர்ஜுன் - நடிகர் உமாபதி ராமையா திருமணம்
+### Three dead, several injured in bus-van collision at Wagama
+
+*2024-06-12 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99838/three-dead-several-injured-in-bus-van-collision-at-wagama) · `en`
+
+Three members of the same family have reportedly been killed and several others have been injured after a van and a passenger transport bus collided at the Wagama area along the Bibila - Mahiyanganaya road today (12).
+
+◼️
+
+[Data](articles/20a68d4e.json)
+
+---
+
+### රිය අනතුරකින් එකම පවුලේ තිදෙනෙක් මරුට
+
+*2024-06-12 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197687) · `si`
+
+වෑන් රථයක් හා පෞද්ගලික බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් අද (12) පස්වරුවේ මාරක අනතුරක් සිදුවී තිබේ.
+
+බිබිල - මහියංගනය ප්‍රධාන මාර්ගයේ වෑගම ප්‍රදේශයේදී මෙම අනතුර සිදුවී තිබුණි.
+
+◼️
+
+[Data](articles/d2be028b.json)
+
+---
+
+### வயரை அறுத்த மாணவி மின்சாரம் தாக்கி மரணம்
+
+*2024-06-12 16:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயரை-அறுத்த-மாணவி-மின்சாரம்-தாக்கி-மரணம்/175-338820) · `ta`
+
+தையல் இயந்திரத்தின் மோட்டாருடன் இணைக்கப்பட்ட  வயரின் செருகியை அறுத்து, பாதுகாப்பற்ற முறையில் மின் இணைப்பைப் பெற முற்பட்ட 17 வயதுடைய பாடசாலை மாணவி ஒருவர் மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+
+பிலியந்தலை தும்போவில, துவாவத்த வீதி, 5வது லேன், பிரதேசத்தை சேர்ந்த , நுகேகொட மஹாமாயா பெண்கள் கல்லூரியில் கல்வி கற்கும்  நிஷானி பியூமிகா வென்ரோவன் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+உயிரிழந்த மாணவியின் பிரேத பரிசோதனை களுபோவில போதனா வைத்தியசாலையில் மேற்கொள்ளப்படவுள்ளதுடன் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டுள்ளனர் .
+
+◼️
+
+[Data](articles/5e5c3447.json)
+
+---
+
+### President Ranil meets SAARC Secretary General
+
+*2024-06-12 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99835/president-ranil-meets-saarc-secretary-general) · `en`
+
+President Ranil Wickremesinghe met with the Secretary General of the South Asian Association for Regional Cooperation (SAARC) Golam Sarwar at the Presidential Secretariat in Colombo this morning (12), according to the President’s Media Division.
+
+The meeting focused on addressing issues related to various projects among SAARC countries, with the President urging impartial intervention from the Secretary General.
+
+The discussion also covered the country’s agricultural modernization program and explored potential support from SAARC member nations, the PMD said.
+
+Additionally, the development of the SAARC Cultural Center for Modern Art in Sri Lanka was a key topic of conversation.
+
+President’s Secretary Saman Ekanayake and a group of officials were present at the meeting.
+
+◼️
+
+[Data](articles/1cda57a1.json)
+
+---
+
+### New Immigration Bill to be presented to Parliament
+
+*2024-06-12 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99836/new-immigration-bill-to-be-presented-to-parliament) · `en`
+
+The Cabinet of Ministers has granted approval to publish the new draft Immigration Bill in the Government Gazette and to present it thereafter in Parliament for approval.
+
+The Immigration Act No. 20 of 1948 has been amended on several occasions. However, considering the rapid changes taking place in the field covered by the Act, the rapid development of technology as well as international trends, the Cabinet of Ministers had given approval on February 15, 2021 to introduce a new Act for the same.
+
+The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman accordingly, the Cabinet Spokesman Minister Bandula Gunawardena said.
+
+Accordingly, the proposal made by the Minister of Public Security Tiran Alles to publish the said draft Bill in the Government Gazette and present the same thereafter in Parliament for approval, was approved by the Cabinet, he said.
+
+◼️
+
+[Data](articles/c6b7a247.json)
+
+---
+
+### Actress Aishwarya Arjun - Actor Umapati Ramaiah's marriage
 
 *2024-06-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185921) · `ta`
 
-குணச்சித்திர நடிகரும், இயக்குநருமான தம்பி ராமையாவின் மகன் உமாபதி ராமையாவுக்கும்,  முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான அர்ஜுனனின் மகளான ஐஸ்வர்யா அர்ஜுனுக்கும் பெற்றோர்கள் நிச்சயித்த வண்ணம்  சென்னையில் உள்ள ஸ்ரீ யோக ஆஞ்சநேயர் ஆலயத்தில் திருமணம் வெகு விமரிசையாக நடைபெற்றது.
+Aishwarya Arjun, daughter of Arjuna Arjun, and Umapati Ramaiah, son of Thambi Ramaiah, married at the Sri Yoga Anjaneyar Temple in Chennai. Aishwarya debuted in "Pattattu Elephant" (2013) and later appeared in "Say Vidava" (2018). Umapati made his acting debut in "Adagatam Mahajanangale" (2017), followed by roles in "Maniyar Family," "Wedding," and "Tanani Vandi." Their marriage was celebrated with the presence of several film celebrities.
 
-இயக்குநரும், நடிகருமான அர்ஜுனனின் மகள் ஐஸ்வர்யா அர்ஜுன்- விஷால் நடிப்பில் 2013 ஆம் ஆண்டில் வெளியான 'பட்டத்து யானை' எனும் படத்தின் மூலம் நடிகையாக தமிழ் திரையுலகத்திற்கு அறிமுகமானார். அதன் பிறகு 2018 ஆம் ஆண்டில் வெளியான 'சொல்லி விடவா' எனும் திரைப்படத்தில் நடித்திருந்தார்.
+🟩
 
-இயக்குநரும், நடிகருமான தம்பி ராமையாவின் மகனான உமாபதி இராமையா 2017 ஆம் ஆண்டில் இயக்குநர் இன்பா சேகர் இயக்கத்தில் வெளியான 'அதாகப்பட்டது மகாஜனங்களே' எனும் படத்தின் மூலம் நாயகனாக தமிழ் திரையுலகிற்கு அறிமுகமானார். அதனைத் தொடர்ந்து 'மணியார் குடும்பம்', 'திருமணம்', 'தண்ணி வண்டி' ஆகிய படங்களில் நடித்திருக்கிறார்.
+The marriage of Umapati Ramaiah, the son of character actor and director Thambi Ramaiah, and Aishwarya Arjun, the daughter of leading star actor and director Arjuna Arjun, took a marriage at the Sri Yoga Anjaneyar Temple in Chennai.
+
+Aishwarya Arjun, daughter of director and actor Arjuna, made her debut as an actress in the film 'Pattattu Elephant' in 2013, starring Vishal.. He then starred in the 2018 film 'Say Vidava'.
+
+Umapati Ramaiah, the son of director and actor Thambi Ramaiah, made his debut as a hero in the film 'Adagatam Mahajanangale' directed by director Infa Sekhar in 2017. Subsequently, he has acted in films like 'Maniyar family', 'wedding' and 'tanani vandi'.
 
 ...
 
 [Data](articles/a9350195.json)
+
+[Extended Data](ext_articles/a9350195.ext.json)
+
+---
+
+### ප්‍රංශය නැළවූ ගායිකාව ජීවිතයෙන් සමුගනී
+
+*2024-06-12 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197686) · `si`
+
+ප්‍රංශයෙන් බිහිවූ ජනප්‍රිය ගායිකාවක් මෙන්ම ගීත රචිකාවක් වූ ෆ්රැන්කොයි හාඩි ජිවිතක්ෂයට පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+"අම්මා ගියා", ඇයගේ පුත්‍රයා වන තෝමස් ඩියුට්‍රොන්ක් සමාජ මාධ්‍ය සටහනක් තබමින් පැවසීය.
+
+සංගීත ක්ෂේත්‍රයට 1962 වසරේදී එක්වූ හාර්ඩි ට ප්‍රංශයේ සංගීත ක්ෂේත්‍රයේ කීර්තිමත් චරිතයක් බවට කෙටි කලකදී පත්වූවාය.
+
+ප්‍රංශයේ ප්‍රකට වූ Yé-yé (yeah yeah) පොප් ව්‍යාපාරයේ ප්‍රමුඛ චරිතයක් වූයේ ඇයයි.
+
+◼️
+
+[Data](articles/834ea1d2.json)
+
+---
+
+### Fire in Kuwaiti building housing workers kills 41, deputy PM says
+
+*2024-06-12 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99834/fire-in-kuwaiti-building-housing-workers-kills-41-deputy-pm-says) · `en`
+
+A fire that broke out in a building housing workers in the city of Mangaf in southern Kuwait early on Wednesday has killed at least 41 people, the country’s deputy prime minister Sheikh Fahad Yusuf Saud Al-Sabah said during a visit to the site.
+
+The deputy PM accused real estate owners of violations and greed, saying those factors contributed towards the incident.
+
+“Unfortunately, the greed of real estate owners is what leads to these matters,” said Sheikh Fahad, who also runs the interior and defense ministries.
+
+The fire was reported to authorities at 6:00 a.m. local time (0300 GMT), Major General Eid Rashed Hamad said.
+
+“The building in which the fire occurred was used to house workers, and there was a large number of workers there. Dozens were rescued, but unfortunately there were many deaths as a result of inhaling smoke from the fire,” another senior police commander told state TV.
+
+...
+
+[Data](articles/c5862945.json)
 
 ---
 
@@ -68,19 +192,25 @@ About 160 employees have lived in the company.
 
 ---
 
-### யாழில் வைத்தியர் ஒருவர் தவறான முடிவெடுத்து உயிர் மாய்ப்பு
+### A doctor in Jaffna makes a wrong decision
 
 *2024-06-12 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185925) · `ta`
 
-யாழ்ப்பாணம் - பருத்தித்துறை ஆதார வைத்தியசாலையில் பணிபுரியும் வைத்தியர் ஒருவர், வைத்தியசாலை விடுதிக்குள் தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+A doctor at Jaffna's Point Pedro Hospital died under unclear circumstances, with her body remaining there due to the unknown cause of death.
 
-பருத்தித்துறை ஆதார வைத்தியசாலையின் மகப்பேற்று விடுதியில் கடமையாற்றும் வைத்தியர் ஒருவரே உயிரை மாய்த்துள்ளார்.
+🟩
 
-உயிரிழப்புக்கான காரணம் தெரிய வராத நிலையில் சடலம் பருத்தித்துறை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+A doctor working at the Jaffna - Point Pedro Hospital has made a wrong decision in the hospital hostel.
+
+A doctor who works at the Point Pedro Hospital's Postpartum Hospital has died of life.
+
+The body has been kept at the Point Pedro Hospital as the cause of the death is unknown.
 
 ◼️
 
 [Data](articles/759f4d4c.json)
+
+[Extended Data](ext_articles/759f4d4c.ext.json)
 
 ---
 
@@ -112,31 +242,45 @@ It was also a member of the group that was not allowed to join the World Cup las
 
 ---
 
-### நடிகர் சார்லியின் மகன் திருமண வரவேற்பில் பங்குபற்றிய தமிழக முதல்வர்
+### Actor Charlie's son participated in the wedding reception
 
 *2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185914) · `ta`
 
-தமிழ் திரையுலகில் 'கலாநிதி' பட்டம் வென்ற சில நடிகர்களில் ஒருவரும், ஒப்பற்ற குணச்சித்திர நடிகருமான சார்லியின் மகன் அஜய் தங்கசாமி - பெர்மிசியா டெமி ஆகியோரின் திருமண வரவேற்பில் தமிழக முதல்வர் மு. க. ஸ்டாலின் சிறப்பு அதிதியாக பங்கு பற்றி மணமக்களுக்கு வாழ்த்து தெரிவித்தார்.
+Charlie's actor son, Ajay Thangasamy, attended a wedding reception, where he was celebrated as a special guest by the groom's family. Notable personalities like Kamal Haasan, Ilayaraja, Ilai Tilak Prabhu, Nasser, Gangai Amaran, and Santana Bharati also congratulated the bride.
 
-மேலும் இந்நிகழ்வில் 'உலக நாயகன்' கமல்ஹாசன், 'இசைஞானி' இளையராஜா, 'இளைய திலகம்' பிரபு , நாசர், கங்கை அமரன், சந்தான பாரதி உள்ளிட்ட பல திரையுலக முன்னணி பிரபலங்கள் பங்கு பற்றி மணமக்களுக்கு வாழ்த்து தெரிவித்தனர்.
+🟩
+
+Ajay Thangasamy - Permissia Demi, the son of Charlie, one of the actors who won the 'Doctor' title in the Tamil film industry. Ka. Stalin congratulated the bride on the participation of the special guest.
+
+Also, 'World Man' Kamal Haasan, 'Ilayaraja', 'Ilayaraja', 'Ilaiyaraja', 'Ilai Tilak' Prabhu, Nasser, Gangai Amaran and Santana Bharati congratulated the bride to the bride.
 
 ◼️
 
 [Data](articles/4b64d5f8.json)
 
+[Extended Data](ext_articles/4b64d5f8.ext.json)
+
 ---
 
-### நடிகர் காளி வெங்கட் நடிக்கும் 'தோனிமா'
+### Actor Kali Venkat plays 'Donima'
 
 *2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185918) · `ta`
 
-தமிழ் திரையுலகின் சிறந்த குணச்சித்திர நடிகர் என்ற நற்பெயரை சம்பாதித்திருக்கும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'தோனிமா' எனும் திரைப்படத்தில், அவர் கோடி எனும் பொறுப்பற்ற குடும்பத் தலைவர் கதாபாத்திரத்தில் நடித்திருப்பதாக படக் குழுவினர் தெரிவித்துள்ளனர்.
+Kali Venkat stars as Donima in a Tamil film, leading a cast including Roshini Prakash, Vivek Prasanna, and others. Directed by Johnson, the movie explores the daily struggles of a middle-class family, with Venkat portraying a character facing health issues. Produced by Sai Venkateswaran and presented by SPR Studios, the film aims to resonate with its audience through realistic storytelling.
 
-இயக்குநர் ஜெகதீசன் சுப்பு இயக்கத்தில் உருவாகி இருக்கும் 'தோனிமா' எனும் திரைப்படத்தில் காளி வெங்கட், ரோஷினி பிரகாஷ், விவேக் பிரசன்னா, கண்ணன் பொன்னையா, ராஜேஷ் ஷர்மா, பி. எல். தேனப்பன், கல்கி ராஜன், 'ஆடுகளம்' ராஜாமணி, விசித்திரன், சசி, சுஜாதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பாக்கியராஜ் மற்றும் சஜித் குமார் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜான்சன் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை தயாரிப்பாளர் சாய் வெங்கடேஸ்வரன் தயாரித்திருக்கிறார். எஸ் பி ஆர் ஸ்டுடியோஸ் சார்பில் எஸ் பி ராஜா சேதுபதி இப்படத்தை வழங்குகிறார்.
+🟩
 
-...
+Actor Kali Venkat, who has earned the reputation of being the best characteristic actor of the Tamil film, is playing the lead role in the film 'Dhonima'.
+
+Kali Venkat, Roshini Prakash, Vivek Prasanna, Kannan Ponniah, Rajesh Sharma, B. L. Thenappan, Kalki Rajan, 'Adukalam' Rajamani, Visitran, Sasi, Sujatha and many others have played. Johnson has composed the film, which has been recorded by Bhagiraj and Sajith Kumar.. The film has been produced by producer Sai Venkateswaran. SP Raja Sethupathi presents the film on behalf of SPR Studios.
+
+Commenting on the film, the director said, “The story of the film is written in the middle of the day -to -day life in the middle -class family.. Actress Kali Venkatu plays the role of actress Roshini Prakasam, Kodi. The heir of these couples causes health problems. How do these couples face the difficult environment?Realistically recorded. The screenplay is set to make it easier to communicate with fans who enjoy watching the film. ”
+
+◼️
 
 [Data](articles/6c7619b4.json)
+
+[Extended Data](ext_articles/6c7619b4.ext.json)
 
 ---
 
@@ -636,17 +780,23 @@ The NPP Leader further added: “Provincial councils represent a devolution of p
 
 ---
 
-### මැලේසියාව සමග නිදහස් වෙළඳ ගිවිසුමක්
+### Free trade agreement with Malaysia
 
 *2024-06-12 12:56:01* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාව-සමග-නිදහස්-වෙළඳ-ගිවිසුමක්/11-410173) · `si`
 
-මැලේසියාව සමගින් නිදහස් වෙළඳ ගිවිසුමක් අත්සන් කිරිමට අදාළව ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+Sri Lanka's Cabinet approves a free trade agreement with Malaysia, aiming to boost trade ties. Malaysia ranks as the 34th largest export destination for Sri Lanka, with exports exceeding US $50 million in 2023.
 
-ශ්‍රි ලංකාවේ 34 වැනි අපනයන ගමනාන්තය මැලේසියාව වෙන අතර 2023දි එරටට කර ඇති සමස්ත අපනයනය ඇමෙරිකානු ඩොලර් මිලියන 50 ඉක්මවා යයි.
+🟩
+
+Cabinet approval has been approved by the Cabinet paper presented by President Ranil Wickremesinghe with regard to the signing of a free trade agreement with Malaysia.
+
+The 34th Efficiency destination in Sri Lanka is Malaysia and the total exports from the 2023 exceed US $ 50 million.
 
 ◼️
 
 [Data](articles/b15a7d6a.json)
+
+[Extended Data](ext_articles/b15a7d6a.ext.json)
 
 ---
 
@@ -2125,159 +2275,5 @@ Former Government Agent in Ratnapura, the OIC of the OIC of the Petivu, Malachil
 [Data](articles/19c11044.json)
 
 [Extended Data](ext_articles/19c11044.ext.json)
-
----
-
-### Hunter Biden becomes first sitting US President’s son to be convicted of crime
-
-*2024-06-12 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99815/hunter-biden-becomes-first-sitting-us-presidents-son-to-be-convicted-of-crime) · `en`
-
-(AP) — Hunter Biden was convicted Tuesday of all three felony charges related to the purchase of a revolver in 2018 when, prosecutors argued, the president’s son lied on a mandatory gun-purchase form by saying he was not illegally using or addicted to drugs.
-
-Hunter Biden, 54, stared straight ahead and showed little emotion as the verdict was read after jury deliberations that lasted only three hours over two days in Wilmington, Delaware. He hugged his attorneys, smiled wanly and kissed his wife, Melissa, before leaving the courtroom with her.
-
-President Joe Biden said in a statement issued shortly after the verdict that he would accept the outcome and “continue to respect the judicial process as Hunter considers an appeal.”
-
-Now Hunter Biden and presumptive Republican presidential nominee Donald Trump, the president’s chief political rival, have both been convicted by American jurors in an election year that has been as much about the courtroom as about campaign events and rallies.
-
-...
-
-[Data](articles/79f55c7e.json)
-
-[Extended Data](ext_articles/79f55c7e.ext.json)
-
----
-
-### The Utility Commission on electricity tariffs decided on July
-
-*2024-06-12 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197664) · `si`
-
-The Public Utilities Commission in Sri Lanka is considering amendments to electricity tariffs, with the Ceylon Electricity Board (CEB) set to review these changes. The process includes obtaining public feedback, as stated by Chairman Professor Manjula Fernando. Despite this, Power Energy Minister Kanchana Wijesekera announced in Parliament that tariffs would decrease starting July 1st.
-
-🟩
-
-The Public Utilities Commission states that approval may be approved by the Ceylon Electricity Board regarding the amendments.
-
-The Chairman Professor Manjula Fernando said that the new tariffs referred to the CEB is also expected to obtain public views on the proposal on amendments.
-
-The Ceylon Electricity Board (CEB) has then informed the conclusion of the Public Utilities Commission.
-
-Professor Manjula Fernando said that the final conclusion will be carried out by the second week in July.
-
-However, Power Energy Minister Kanchana Wijesekera recently told Parliament that electricity tariffs will be reduced from July 1st.
-
-◼️
-
-[Data](articles/348b4975.json)
-
-[Extended Data](ext_articles/348b4975.ext.json)
-
----
-
-### Fairly heavy showers expected in two provinces
-
-*2024-06-12 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99814/fairly-heavy-showers-expected-in-two-provinces) · `en`
-
-The Department of Meteorology says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces, it said.
-
-Showers or thundershowers may occur at a few places in Uva province and Ampara, Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0bda27db.json)
-
-[Extended Data](ext_articles/0bda27db.ext.json)
-
----
-
-### Second review of the Monetary Fund Loan Program today
-
-*2024-06-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197663) · `si`
-
-Today's discussion focused on the IMF's second review of Sri Lanka's loan program. The IMF noted significant progress in credit restructuring and expected strict adherence to credit program standards. Sri Lanka aims to reach agreements with external creditors and has shown improvements in controlling inflation and boosting economic growth.
-
-🟩
-
-The International Monetary Fund Executive is to be discussed today (12) regarding the second review of the Sri Lankan loan program.
-
-The International Monetary Fund Department (IMF Communications Department's Director of Communication Department) stated that Ms. July Kazaka was held recently to pay attention to the consultation under Section 4 at the Executive Board.
-
-She further stated that Sri Lanka has made adequate and strong progress in relation to the restructuring of credit.
-
-She said Sri Lanka would strict expectation to reach an agreement with external commercial creditors in accordance with the credit program standards.
-
-The media briefing further stated that Sri Lanka has made fun of inflation, enhancement, economic growth etc.
-
-◼️
-
-[Data](articles/b1aed918.json)
-
-[Extended Data](ext_articles/b1aed918.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-06-12 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197661) · `si`
-
-The Department of Meteorology warns of heavy showers in the Western, Sabaragamuwa, North Western, Uva Province, Ampara Districts, and parts of Central Hills, Trincomalee, Hambantota, and Moneragala Districts. Expect 75mm rainfall in some areas, with potential for 40-50 km/h winds. The public is advised to prepare for possible temporary power cuts and lightning risks due to thunderstorms.
-
-🟩
-
-The Department of Meteorology announces that showers in the Western, Sabaragamuwa and North Western provinces.
-
-In some places in the Western and Sabaragamuwa provinces. Showers may occur about 75.
-
-Showers or night thundershowers will occur at evening or night in the Uva Province and Ampara Districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There may be 40-50 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f2e9c801.json)
-
-[Extended Data](ext_articles/f2e9c801.ext.json)
-
----
-
-### Sri Lanka and Nepal drows up
-
-*2024-06-12 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197660) · `si`
-
-The World Cup match between Sri Lanka and Nepal was abandoned due to rain.
-
-🟩
-
-The match between Sri Lanka and Nepal, the World Cup match, has decided to leave the rain.
-
-◼️
-
-[Data](articles/bea7a1c5.json)
-
-[Extended Data](ext_articles/bea7a1c5.ext.json)
-
----
-
-### AKD’s Speech On Police & Rule Of Law: Merits & Demerits?
-
-*2024-06-12 04:22:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-speech-on-police-rule-of-law-merits-demerits/) · `en`
-
-Anura Kumara Dissanayake’s (AKD) speech as the Leader of the National People’s Power (NPP) at the National Convention organized by the Retired Police Officers Collective on 9 June 2024 is quite promising in terms of establishing or reestablishing rule of law in the country, if they get the opportunity to govern the nation. They have been talking about a ‘system change’ now for some time, and various independent critics and observers were asking the details of this promise, without merely depending on the slogan.
-
-I was fortunate to listen to this speech online and live, through ‘Horawa News,’ and one weakness or wrong that I immediately observed was its leading phrase ‘Malimawa shows its police power.’ I have no idea about who runs the ‘Horawa,’ but that was not what AKD was quite obviously advocating. “Power’ is not a good word to use in democracy, worst still is the ‘police power.’
-
-...
-
-[Data](articles/c3cfe36c.json)
-
-[Extended Data](ext_articles/c3cfe36c.ext.json)
 
 ---

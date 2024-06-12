@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 23:54:29**
+As of **2024-06-13 00:06:49**
 
 ## Newspaper Stats
 
-*Scraped **30,082** Articles*
+*Scraped **30,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,589
+adalk | 2,590
 adaderanalk | 3,410
 tamilmirrorlk | 3,522
 virakesarilk | 4,605
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,081 (100.0%) of 30,082 articles have been extended.
+30,082 (100.0%) of 30,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් සුබ ආරංචිය ලැබෙයි
+### Good news from the International Monetary Fund
 
 *2024-06-12 23:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197699) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට හඳුන්වා දී ඇති වැඩසටහනේ දෙවැනි සමාලෝචනය අනුමත කර තිබේ.
+The International Monetary Fund (IMF) has approved the second review of its program. This comes as good news, especially since Mr. Ali Sab Rie, who has a note in his account, will likely benefit from this approval.
 
-අමාත්‍ය අලි සබ්‍ රි මහතා සිය X ගිණුමේ සටහනක් තබමින් ඒ බව පැවසීය.
+🟩
+
+The second review of the program introduced by the International Monetary Fund has been approved.
+
+Mr. Ali Sab Rie, Minister Ali Sab Rie, has a note in his account.
 
 ◼️
 
 [Data](articles/67e183e3.json)
+
+[Extended Data](ext_articles/67e183e3.ext.json)
 
 ---
 
@@ -433,6 +439,26 @@ The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulato
 [Data](articles/5116c294.json)
 
 [Extended Data](ext_articles/5116c294.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාරය ගැන ලද පූර්ව බුද්ධි තොරතුරු ගැන බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට ජනපතිගෙන් කමිටුව
+
+*2024-06-12 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ලද-පූර්ව-බුද්ධි-තොරතුරු-ගැන-බලධාරීන්-ගත්-ක්‍රියාමාර්ග-විමර්ශනයට-ජනපතිගෙන්-කමිටුව/11-410182) · `si`
+
+විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මිය කමිටුවේ සභාපති ධූරයට.
+
+කමිටු වාර්තාව සැප්තැම්බර් 15 දිනට පෙර ජනපතිට ලබා දීමට උපදෙස්.
+
+2019 අප්‍රේල් 21 දින සිදුවූ බෝම්බ ප්‍රහාර පිළිබඳ ලැබුණු පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවය (SIS), ජාතික බුද්ධි ප්‍රධානී (CNI) සහ අනෙකුත් බලධාරීන් ගත් ක්‍රියාමාර්ග පිළිබඳ විමර්ශනය කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විමර්ශන කමිටුවක් පත් කර තිබේ.
+
+විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මියගේ සභාපතිත්වයෙන් යුත් මෙම විමර්ශන කමිටුවේ සෙසු සාමාජිකයන් ලෙස ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන කේ. එන්. කේ. සෝමරත්න මහත්මිය සහ ජ්‍යෙෂ්ඨ නීතීඥ ඩබ්. එම්. ඒ. එන්. නිෂේන් මහතා පත් කර තිබේ.
+
+මෙම විමර්ශන කමිටුවේ ලේකම් ලෙස ජනාධිපති ජ්‍යෙෂ්ඨ සහකාර ලේකම් සාරතාංජලී මනෝහරන් මහත්මිය කටයුතු කරයි.
+
+...
+
+[Data](articles/49bb6f19.json)
 
 ---
 
@@ -2311,29 +2337,5 @@ Dr. Sudath Devapura, Secretary to the Ceylon Center of the World Buddhist Great 
 [Data](articles/ccf5912a.json)
 
 [Extended Data](ext_articles/ccf5912a.ext.json)
-
----
-
-### Vegetarian leaders have visited the North, saying that you cannot even provide a solution to the ethnic problem.
-
-*2024-06-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185884) · `ta`
-
-Vegetarian leaders criticized the government's handling of the ethnic conflict, while Saivite leaders withdrew support from a lawmaker over the death of innocent children post-war. A delegation led by the lawmaker visited Jaffna, discussing solutions with religious leaders. The Saivite community expressed frustration with the lack of progress in addressing disappearances and called for political action. Amidst tensions, the lawmaker promised to address temple destruction and resolve the Tamil issue if elected president.
-
-🟩
-
-Saivite leaders have released the support of National People's Power and Member of Parliament Anura Kumara Dissanayake, saying that the school boys and children who have not committed any crime in the war have died and the war ended and that all the years after the war ended.
-
-A team led by Anura Kumara Dissanayake, who visited Jaffna, visited Nallai Thirugnanasambandar Athena at 7 pm on Tuesday (11).
-
-The meeting was attended by Nallai Adheen Guru Chief Minister Srilasree Somasundara Desika Gnanasambandha Paramacharya Swamis and the Vice President of the All Ceylon Hindu Council River Thirumurugan.
-
-In the meantime, the JVP solve the long -standing ethnic problem in the country. The Saiva religious leaders, who urged the role to be contributed, issued a statement why you were left -wing leaders when you were killed when they died after being bombed by school children, children and children who had not committed any crime in the war.
-
-...
-
-[Data](articles/c0c44250.json)
-
-[Extended Data](ext_articles/c0c44250.ext.json)
 
 ---

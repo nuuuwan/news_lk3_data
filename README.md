@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 22:07:09**
+As of **2024-06-12 22:19:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,073 (100.0%) of 30,076 articles have been extended.
+30,076 (100.0%) of 30,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,29 @@ Sri Lanka exports mainly gems, garments and fish to Malaysia, and imports palm o
 
 [Data](articles/a874c182.json)
 
+[Extended Data](ext_articles/a874c182.ext.json)
+
 ---
 
-### අමෙරිකාවෙන් ලකුණු 111ක ඉලක්කයක්
+### US target of 111 in America
 
 *2024-06-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197697) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය යටතේ ඉන්දීය කණ්ඩායම සහ අමෙරිකානු කණ්ඩායම අතර තරගය අද (12) පැවැත් වෙයි.
+In today's World Cup match, India won against America by scoring 111 runs after losing 8 wickets in 20 overs, having chosen to bat first.
 
-එහි කාසියේ වාසිය දිනාගැනීමට ඉන්දියාව සමත්වූ අතර ඔවුන්ගේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහර දුන් අමෙරිකාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 110ක් රැස් කළේය.
+🟩
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඉන්දියාවට හිමිවූ ඉලක්කය ලකුණු 111කි.
+The match between the Indian team and the American team will be held today under the World Cup.
+
+India won the advantage of its coin and scored 110 runs for the loss of 08 wickets at the end of their 20 overs.
+
+Accordingly, India has won 111 runs in order to win the match.
 
 ◼️
 
 [Data](articles/ea0c11a7.json)
+
+[Extended Data](ext_articles/ea0c11a7.ext.json)
 
 ---
 
@@ -402,21 +410,27 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 
 ---
 
-### වැදගත් අණපනත් 15ක් කඩිනමින් සම්මත කර ගැනීමට නියමිතයි
+### 15 important commands are to be passed again
 
 *2024-06-12 18:17:35* · [`adalk`](https://www.ada.lk/breaking_news/වැදගත්-අණපනත්-15ක්-කඩිනමින්-සම්මත-කර-ගැනීමට-නියමිතයි/11-410179) · `si`
 
-ඉදිරි සති කිහිපය තුළ ඉතා වැදගත් අණපනත් 15ක් පමණ සම්මත කර ගැනීම සඳහා මේ වන විට කටයුතු සම්පාදනය කරමින් පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+In the coming weeks, Sri Lanka's government plans to enact 15 key laws, part of its largest judicial reform in decades. These include anti-corruption measures aligned with UN standards, new sports and sexual bribery laws, asset liability monitoring, drug control acts, and revisions to family laws, especially concerning Muslim marriages and divorces. Additionally, amendments to the Criminal Procedure Code and the Water Resources Act are underway, aiming to boost revenue from sea boundaries.
 
-ඉකුත් මාස 18ක පමණ වැනි කාලය තුළ නව පනත් 75ක් පමණ පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කර රටට අවශ්‍ය මූලික වෙනස සිදුකිරීමට හැකියාව ලැබුණු බව ද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister Wijayadasa and Constitutional Reforms Minister Wijayadasa Rajapaksa said that steps are being taken to adopt about 15 important commands in the next few weeks.
 
-අප රටේ අධිකරණ පද්ධතියට අදාළව යුක්තිය පසිඳලීම සම්බන්ධව විශාලතම නීති ප්‍රතිසංස්කරණ සිදු කල කාලවකවානුවක් ලෙස මෙම කාලය හඳුන්වා දෙන්න පුළුවන්. ගතවූ මාස 18කපමණ කාලය තුළ නව පනත් 75ක් පමණ පාර්ලිමේන්තුවට ඉදිරිපත් කොට සම්මත කර තිබෙනවා. රටට අවශ්‍ය මූලික වෙනස සිදුකිරීමට එමඟින් හැකියාව ලැබෙන බව සඳහන් කළ යුතුයි.
+The Minister said that about 75 new bills had been submitted to parliament over the past 18 months, he said.
+
+Minister Wijayadasa Rajapaksa made this statement participating at a press conference held at the Presidential Media Center today (12) at the Presidential Media Center.
+
+This time can be introduced as a period of the largest law reform of the country's judicial system in relation to the judicial system of justice.. In the last 18 months, about 75 new bills have been submitted to Parliament. It should be noted that the country will be able to make the basic difference.
 
 ...
 
 [Data](articles/68bdde0d.json)
+
+[Extended Data](ext_articles/68bdde0d.ext.json)
 
 ---
 

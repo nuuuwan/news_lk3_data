@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 21:34:22**
+As of **2024-06-12 21:54:04**
 
 ## Newspaper Stats
 
@@ -26,69 +26,91 @@ adaderanasinhalalk | 4,844
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,069 (100.0%) of 30,073 articles have been extended.
+30,073 (100.0%) of 30,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### සමාජයට ආදර්ශයක් වූ පුරවැසියන්ට පොලීසියෙන් තෑගි
+### Police gifts to citizens of society
 
 *2024-06-12 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197696) · `si`
 
-මත්ද්‍රව්‍ය උවදුර සහ පාතාලය මේ වසර අවසන් වනවිට මෙරටින් තුරන් කරන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+At a Public Defense Ministry event, IGP Deshabandu Tennakoon announced plans to eliminate drugs and the underworld this year. Minister Tiran Alles mentioned that justice operations vary monthly. Police salaries will increase next year, aligning with military pay. The event recognized 237 police officers and civilians, including those who rescued individuals from the Kelani River and handled police dogs in raids, with awards totaling Rs.
 
-එමෙන්ම විෂය භාර අමාත්‍ය ටිරාන් අලස් මහතා පෙන්වා දෙන්නේ, යුක්තිය මෙහෙයුම ලබන මස සිට වෙනස් ආකාරයකින් සිදුකරන බවය.
+🟩
 
-"ලබන වසරේ පොලිස් නිලධාරීන්ගේ වැටුප් අනිවාර්යයෙන් වැඩි කරනවා. එවිට ඔබේ වැටුප හමුදාවේ වැටුපට සමාන වැටුපක් වෙයි. මට ඕනේ හරියට වැඩේ කෙරෙන්න. හොරකම් නොකරන්න."
+IGP Deshabandu Tennakoon says that the drugs and underworld will eliminate from this year.
 
-අද (12) මහජන ආරක්ෂක අමාත්‍යාංශයේ පැවැති උත්සවයකට එක්වෙමින් මේ බව සඳහන් කෙරුණි.
+Minister of Subject Minister Tiran Alles points out that justice operation is conducted different from the month.
 
-සමාජයට සුවිශේෂී මෙහෙවරක් සිදුකළ පොලිස් නිලධාරීන් සහ සිවිල් පුරවැසියන් මෙන්ම පොලිස් නිල සුනඛයින්ද ඇගයීම අද සිදුකෙරුණේ මහජන ආරක්ෂක අමාත්‍යාංශ ශ්‍රවණාගාරයේදීය.
+"The salaries of the police officers will be increased next year. Then your wage will be a similar salary of the military. I want to do what work. Do not steal. "
 
-ඒ අනුව පොලිස් නිලධාරීන්ද ඇතුළු 237 දෙනෙකුට මෙහිදී පිරිනැමුණු මුදල රුපියල් දෙකෝටි 35 ලක්ෂයකට අධිකය.
+This was being taken at a function held at the Public Defense Ministry today.
 
-එහිදී, වැලිඔය ප්‍රදේශයේදී පුද්ගලයෙකු සිව් හැවිරිදි දැරියකට අමානුෂික ලෙස පහරදෙන වීඩියෝව සමාජ මාධ්‍ය වෙත මුදාහැරි තරුණයාට රුපියල් ලක්ෂ 05 ක ත්‍යාග මුදලක් පිරිනැමුණි.
+The assessment of police officers and civilians and police officers of the police were conducting the police as well as the police officers and the official dogs.
 
-...
+Accordingly, 237 persons who and 237 were awarded to police officers.
+
+The youth released a prize of Rs.
+
+The civilians who were mocked at the Kelani River on May 29 and were awarded a sum of Rs.
+
+Also, the police officers who handed over police dogs for various raids were also presented.
+
+◼️
 
 [Data](articles/e8ce55e9.json)
 
+[Extended Data](ext_articles/e8ce55e9.ext.json)
+
 ---
 
-### 15 முக்கிய சட்டங்கள் விரைவில் நிறைவேற்றப்படும் - நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ
+### 15 major laws will be passed soon - Justice Minister Vijayadasa Rajapakse
 
 *2024-06-12 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185953) · `ta`
 
-எதிர்வரும் சில வாரங்களில் சுமார் 15 மிக முக்கியமான சட்டங்களை நிறைவேற்றுவதற்கான ஏற்பாடுகள் மேற்கொள்ளப்பட்டு வருவதாக நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Justice Minister Vijayadasa Rajapaksa announced plans to pass 15 key laws within weeks, building on 75 bills passed in the past 18 months to overhaul the country's legal structure. These reforms aim to combat corruption, introduce new crimes related to sports and sexual bribery, require asset declarations from citizens, establish an authority for investigating illicitly gained assets, amend primary case action laws, and facilitate implementation of foreign court judgments. Additionally, the government aims to remove lawsuits and drug-related laws, with amendments to the Muslim Marriage and Divorce Act and the introduction of a new marriage bill.
 
-கடந்த 18 மாதங்களில் சுமார் 75 சட்டமூலங்கள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு நிறைவேற்றப்பட்டு நாட்டுக்குத் தேவையான அடிப்படை மாற்றங்களைச் செய்ய முடிந்துள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 12ஆம் திகதி புதன்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விஜயதாச ராஜபக்ஷ இதனைத் தெரிவித்தார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that arrangements are being made to pass about 15 most important laws in the next few weeks.
 
-“நமது நாட்டின் நீதித்துறைக் கட்டமைப்பில், நீதியை நிலைநாட்டுதல் தொடர்பான மிகப்பாரிய சட்ட மறுசீரமைப்புகள் இடம்பெற்ற காலமாக இக்காலகட்டத்தைக் குறிப்பிடலாம். கடந்த 18 மாதங்களில் சுமார் 75 சட்டமூலங்கள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு நிறைவேற்றப்பட்டுள்ளன. இது நாட்டில் அடிப்படை மாற்றத்தை ஏற்படுத்த உதவும் என்பதை குறிப்பிட வேண்டும்.
+The Minister said that in the last 18 months, about 75 bills have been passed in Parliament and have made the basic changes to the country.
+
+Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Wednesday the 12th.
+
+“In the judicial framework of our country, this period can be mentioned in the time when the major legal restructuring on justice is the case.. In the last 18 months, about 75 bills have been submitted and passed in Parliament. It must be noted that this will help the country to make a basic change.
 
 ...
 
 [Data](articles/84f90b00.json)
 
+[Extended Data](ext_articles/84f90b00.ext.json)
+
 ---
 
-### ஏப்ரல் 21 குண்டுத் தாக்குதல் குறித்த முழுமையான புலனாய்வு அறிக்கை தொடர்பில் அதிகாரிகள் மேற்கொண்ட நடவடிக்கைகள் குறித்து விசாரிக்க புதிய குழு
+### New Committee to investigate the actions taken by the authorities in connection with the April 21 bomb attack
 
 *2024-06-12 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185952) · `ta`
 
-2019 ஏப்ரல் 21 ஆம் திகதி நடத்தப்பட்ட குண்டுத் தாக்குதல் தொடர்பான முழுமையான புலனாய்வுத் தகவல் குறித்து அரச புலனாய்வுச் சேவை (SIS),தேசிய புலனாய்வு பிரதானி (CNI) மற்றும் ஏனைய அதிகாரிகள் முன்னெடுத்த நடவடிக்கைகள் தொடர்பில் விசாரணை நடத்த ஜனாதிபதி ரணில் விக்ரமசிங்க, ஓய்வுபெற்ற நீதியரசர் ஏ.என்.டி.அல்விஸ் தலைமையிலான குழுவொன்று நியமித்துள்ளார்.
+A new committee, led by retired Justice ANT Alvis and including officials from the State Intelligence Service (SIS), National Intelligence Service (CNI), and others, has been formed to investigate the April 21, 2019, bomb attack. The committee aims to assess the measures taken by these services and officials regarding the bombing and whether these measures were adequate. This comes after previous investigations, including one by the Criminal Investigation Division (CID) and another by the Commission of Inquiry, highlighted issues in the initial responses and investigations into the attack.
 
-ஓய்வுபெற்ற உயர்நீதிமன்ற நீதியரசர் ஏ.என்.ஜே.டி. அல்விஸ் தலைமையிலான இந்தக் குழுவில், சக உறுப்பினர்களாக இலங்கை நிர்வாகச் சேவையின் விசேட தரநிலை அதிகாரியான கே.என.கே. சோமரத்ன மற்றும் சிரேஷ்ட சட்டத்தரணி டபிள்யூ.எம்.ஏ.என்நிஷேன் ஆகியோரும் உள்ளடங்குகின்றனர்.
+🟩
 
-இந்த விசாரணைக் குழுவின் செயலாளராக ஜனாதிபதியின் சிரேஷ்ட உதவி ஆலோசகர் சாரதாஞ்சலி மனோகரன் நியமிக்கப்பட்டுள்ளார்.
+President Ranil Wickremesinghe and retired Justice ANT Alvis have appointed a committee headed by the State Intelligence Service (SIS), National Intelligence Service (CNI) and other officials to investigate the bombing on April 21, 2019..
 
-2019 ஏப்ரல் 21 ஆம் திகதி நடத்தப்பட்ட குண்டுத் தாக்குதல் தொடர்பான முழுமையான புலனாய்வுத் தகவல் குறித்து அரச புலனாய்வுச் சேவை (SIS),தேசிய புலனாய்வு பிரதானி (CNI) மற்றும் ஏனைய அதிகாரிகள் முன்னெடுத்த நடவடிக்கைகள் எவை? அதற்கு அமைவாக போதிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளனவா? என்பது குறித்தும் ஆராயப்படவுள்ளது.
+Retired High Court Judge ANJD. In this committee headed by Alvis, KNK, a special standard officer of the Sri Lanka Executive Service as fellow members. Somatna and Senior Attorney WMANnishane are also included.
+
+The President's Senior Assistant Advisor Saradanjali Manoharan has been appointed as the Secretary of the Inquiry Committee.
+
+What are the measures taken by the State Intelligence Service (SIS), the National Intelligence Chief (CNI) and other officials on the bombing of the bombing on April 21, 2019?Is there adequate measures?To be investigated.
 
 ...
 
 [Data](articles/7dee8f8d.json)
+
+[Extended Data](ext_articles/7dee8f8d.ext.json)
 
 ---
 
@@ -124,19 +146,25 @@ Buttala Police Chief Inspector Jayathilaka Bandara and a group of other official
 
 ---
 
-### ஒடிசா மாநில முதல்வராக மோகன் சரண் மாஜி தேர்வு
+### Mohan Saran Maji selected as the Chief Minister of Odisha
 
 *2024-06-12 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185916) · `ta`
 
-ஒடிசா மாநிலத்திற்கு நடைபெற்ற சட்டப்பேரவை பொதுத் தேர்தலில் பாரதிய ஜனதா கட்சி தலைமையிலான தேசிய ஜனநாயக கூட்டணி வெற்றி பெற்றதால் அக்கட்சியை சேர்ந்த மோகன் சரண் மாஜி முதல்வராக தெரிவு செய்யப்பட்டிருப்பதாக அக்கட்சியின் மேலிடம் அறிவித்திருக்கிறது.
+Mohan Saran Maji, from the Bharatiya Janata Party (BJP), has been elected as the Chief Minister of Odisha, winning 78 assembly seats. The decision came after consultations with BJP legislators, with union ministers Rajnath Singh and Bubender Yadav present. Maji, a tribal leader, is sworn in by Governor Raghubar Das, with Prime Minister Narendra Modi attending the ceremony. Deputy Chief Ministers KV Singh Theo and Pravati Parita were also elected.
 
-ஒடிசா சட்டப்பேரவை பொது தேர்தலில் பாரதிய ஜனதா கட்சி 78 இடங்களில் வெற்றி பெற்றது. இதைத்தொடர்ந்து மாநில முதல்வரை தேர்ந்தெடுக்கும் கூட்டம் தலைநகர் புவனேஸ்வரில் நடைபெற்றது. இதில் பாஜக கட்சியின் மேலிட பிரதிநிதியாக மத்திய அமைச்சர்கள் ராஜ்நாத் சிங் மற்றும் புபேந்தர் யாதவ் ஆகியோர் பங்கு பற்றினர். பாரதிய ஜனதா கட்சியின் சட்டமன்ற உறுப்பினர்களிடம் நடைபெற்ற ஆலோசனைக்குப் பிறகு கட்சியின் முதல்வராக மோகன் சரண் மாஜி தெரிவு செய்யப்பட்டார். துணை முதல்வராக கே வி சிங் தியோ மற்றும் பிரவாதி பரிதா ஆகியோர் தெரிவு செய்யப்பட்டதாகவும் அவர்கள் அறிவித்தனர்.
+🟩
 
-புதிய முதல்வராக பொறுப்பேற்கும் மோகன் சரண் மாஜி பழங்குடி இனத்தை சேர்ந்தவர் என்பதும், தொடர்ந்து நான்காவது முறையாக சட்டப்பேரவைக்கு தெரிவு செய்யப்பட்டிருக்கிறார் என்பதும் குறிப்பிடத்தக்கது.
+The party has announced that Mohan Saran Maji has been elected as the Chief Minister of the Bharatiya Janata Party (NDA) led by the Bharatiya Janata Party (NDA).
+
+Bharatiya Janata Party won 78 seats in the Odisha assembly election. This was followed by a meeting to elect the Chief Minister of the State, Bhubaneswar. Union ministers Rajnath Singh and Bubender Yadav participated as the BJP's top representative. Mohan Saran Maji was elected as the party's chief minister after consultation with Bharatiya Janata Party legislators. They also announced that KV Singh Theo and Pravati Parita were elected as deputy chief minister.
+
+It is noteworthy that Mohan Saran, who is in charge of the new chief minister, belongs to the tribal and has been elected for the fourth consecutive time.
 
 ...
 
 [Data](articles/91af0c79.json)
+
+[Extended Data](ext_articles/91af0c79.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 20:19:12**
+As of **2024-06-12 20:35:08**
 
 ## Newspaper Stats
 
-*Scraped **30,064** Articles*
+*Scraped **30,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,584
+adalk | 2,585
 adaderanalk | 3,407
 tamilmirrorlk | 3,520
 virakesarilk | 4,602
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,842
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,064 (100.0%) of 30,064 articles have been extended.
+30,064 (100.0%) of 30,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,22 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 [Data](articles/bb31b3b7.json)
 
 [Extended Data](ext_articles/bb31b3b7.ext.json)
+
+---
+
+### ධනකුවේරයන් ඉලක්ක කර ගණිකා ජාවාරමක් කරගෙන ගිය නිළියක් අල්ලයි
+
+*2024-06-12 18:09:21* · [`adalk`](https://www.ada.lk/breaking_news/ධනකුවේරයන්-ඉලක්ක-කර-ගණිකා-ජාවාරමක්-කරගෙන-ගිය-නිළියක්-අල්ලයි/11-410177) · `si`
+
+ධනවතුන් සමග බීමත්ව  ගණිකාවන් තරුපන්ති හෝටල්වලට හා සමාජශාලා සුපිරි නිවාස සංකීර්ණ වෙත කුලීරථ සේවා මගින්  සපයමින් සිදුකරගන ගිය ගණිකා ජාවාරමක් වටලා සුරූපි නිළියක් ඇතුලු සුරූපි කාන්තාවන් හතර දෙනෙකු වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකාය මගින් 12 අලුයම  අත්අඩංගුවට ගෙන ඇතැයි.පොලීසිය පැවසීය.
+
+මෙම සුරූපි කාන්තාවන් වයස අවුරදු 25 ත් 45.ත් අතර පසුවන ගම්පහ,අම්පාර,බොරලැස්ගමුව,මාතර, බියගම,යන ප්‍රදේශවල පදිංචිව සිටින අයද වන බවත් පොලීසිය කියයි.
+
+මෙම ප්‍රධාන නිළිය සරාගී චිත්‍රපට විශාල ගණනක සහ රූපවාහිනී නාලිකාවල විකාශයවු ටෙලිනාට්‍ය ගණනාවකට රංගනයෙන් දායකත්වය ලබාදී ඇති අතර ,මෙම නිළිය සිය වට්ස්ඇප් යෙදුම හරහා ව්‍යාපාරික ලෝකයේ ධනකුවේරයන් සම්බන්ධ කරගන ඔවුන් පිනවීම සදහා සුරූපි කාන්තාවක් ලගට ගෙනැවත් දීමට රුපියල් 30,000/= සිට ඉහල විවිධ මිල ගණන්වලට ගෙනවිත් දෙනු ලබන බවත් හෙලිවී ඇති බවත් පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/5b6a2f25.json)
 
 ---
 
@@ -2295,25 +2311,5 @@ The 35,000 teachers who have participated in the campaign at the Zonal Office le
 [Data](articles/874df20d.json)
 
 [Extended Data](ext_articles/874df20d.ext.json)
-
----
-
-### Presidential Election: Success and Defeat
-
-*2024-06-12 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-வெற்றி-தோல்வியை-தீர்மானிக்கும்/175-338799) · `ta`
-
-In a policy reform meeting, President Ranil Wickremesinghe emphasized that the outcome of the upcoming presidential election signifies the nation's triumphs and failures, rather than his personal win or loss. This event was attended by young representatives from the Economic Reforms Department of Supervisory at the Battaramulla Voters Age Hotel.
-
-🟩
-
-President Ranil Wickremesinghe said the upcoming presidential election results, the country's success and defeat, would not be a personal victory.
-
-The President made this statement at a concept of policy reform held at the Battaramulla Voters Age Hotel with youth representatives attending the Economic Reforms Department of Supervisory.
-
-◼️
-
-[Data](articles/06a828bb.json)
-
-[Extended Data](ext_articles/06a828bb.ext.json)
 
 ---

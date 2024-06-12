@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 12:52:24**
+As of **2024-06-12 13:04:35**
 
 ## Newspaper Stats
 
-*Scraped **29,982** Articles*
+*Scraped **29,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,67 @@ islandlk | 1,622
 economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,574
-adaderanalk | 3,392
-tamilmirrorlk | 3,512
+adaderanalk | 3,393
+tamilmirrorlk | 3,513
 virakesarilk | 4,586
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,826
+adaderanasinhalalk | 4,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,979 (100.0%) of 29,982 articles have been extended.
+29,982 (100.0%) of 29,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### වොෂිංටන් නුවරින් එන සුබ පණිවුඩය
+### විදුලිසැර වැදී පාසල් සිසුවියක් මරුට
 
-*2024-06-12 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197677) · `si`
+*2024-06-12 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197678) · `si`
 
-ශ්‍රී ලංකාවට තුන්වැනි ණය වාරිකය නිදහස් කිරීම සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අද (12) රැස්වී තීරණය කිරීමට නියමිතය.
+රෙදි මැසීමේ යන්ත්‍රයකට අනාරක්ෂිත ලෙස විදුලිය ලබාගැනීමට ගිය 17 හැවිරිදි පාසල් සිසුවියක් විදුලිසැර වැදී ජීවිතක්ෂයට පත්වූ අවාසනාවන්ත පුවතක් වාර්තා විය.
 
-ඒ යටතේ අනුමත කිරීමට නියමිත ණය මුදල අමෙරිකානු ඩොලර් මිලියන 335කි.
+නුගේගොඩ මහාමායා බාලිකා විද්‍යාලයෙන් උසස් පෙළ හදාරන නිශානි පියුමිකා ඊයේත් පාසල නිමවී නිවසට පැමිණ තිබුණේ සිය නැගණියද සමඟ ය.
 
-ඒ සම්බන්ධයෙන් අද (12) කොළඹදී අදහස් දැක්වූ සහකාර මහබැංකු අධිපති බව ආචාර්ය චන්ද්‍රනාත් අමරසේකර මහතා,
+සිය මිත්තණිය භාරයේ හැදී වැඩුණු නිශානි  නිවසට පැමිණි පසුව, අක්‍රීය තත්ත්වයේ තිබූ රෙදි මැසීමේ යන්ත්‍රය ක්‍රියාත්මක කිරීමට උත්සාහ දරා තිබුණාය.
+
+ඒ මිත්තණිය අසනීප තත්ත්වයක් හේතුවෙන් යාබද කාමරයේ නිදාගෙන සිටි අවස්ථාවක ය.
+
+සිසුවිය රෙදි මැසීමේ යන්ත්‍රයේ මෝටරය සහ වයරය සම්බන්ධ විදුලි පේනුව කාමරයේ බිත්තියට සවිකර තිබූ කෙවෙනියට සම්බන්ධ කිරීමට උත්සාහ කළත් එය අසාර්ථක වී ඇති බව පැවසෙයි.
+
+අනතුරුව වයරයට සම්බන්ධ පේනුව කොටස කපා ඉවත් කර එමඟින් පාදාගත් වයර් කොටස් දෙක කෙවෙනිය තුළට ඇතුළු කර විදුලිය ලබා ගැනීමට උත්සාහ කිරීමේදී සිසුවියට විදුලි සැර වැදී ඇති බව සඳහන් ය.
+
+විදුලි සැර වැදීමත් සමගම ඇය කෑ ගැසූ ශබ්දය ඇසී එහි පැමිණි අසල්වාසී කාන්තාවක විසින් කාමරයේ වැටී සිටි සිසුවිය පිළියන්දල දිසා රෝහල වෙත රැගෙන ගියද ඒ වනවිටත් ඇය මියගොස් තිබුණි.
 
 ...
 
+[Data](articles/dab0c237.json)
+
+---
+
+### The best message from Washington
+
+*2024-06-12 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197677) · `si`
+
+Sri Lanka expects a $335 million loan approval from the IMF during its executive meeting today. This is part of a broader $3 billion support package agreed upon in March 2023, aimed at stabilizing the country's economy over a 485-month period. The third installment of this loan is anticipated to be released soon, pending the successful completion of the second review by the IMF executive in Washington.
+
+🟩
+
+The International Monetary Fund Executive will meet today (12) regarding the release of the Third Premium to Sri Lanka.
+
+The loan to approve is US $ 335 million.
+
+Mr. Chandranaath Amarasekera is the Governor of the Central Bank.
+
+"The government began discussions with a discussion. In March 2023, the International Monetary Fund endorsed US $ 3 billion for Sri Lanka. 485-month credit facilities in four years. Review During six out of six months and this loan facility for the budget for the budget. Now that 670 dopendu is in this credit facility. By midnight today, we hope that we will receive the 3rd installment of this loan facility. Because in Washington, USA, the International Monetary Fund Executive is finalizing the second review of Sri Lanka's credit facility. We hope that the review will be completed in the cooperation of all countries. But we have to get another $ 335 million. However, the IMF is currently more than the billions of dollars. "
+
+◼️
+
 [Data](articles/cb38c263.json)
+
+[Extended Data](ext_articles/cb38c263.ext.json)
 
 ---
 
@@ -72,21 +104,51 @@ The school principal said that the lack of food for the 3D class today has been 
 
 ---
 
-### போர்க்களங்களில் -உள்நாட்டு மோதல்களில்  உயிரிழப்பவர்களின் எண்ணிக்கை பல மடங்காக அதிகரிப்பு - ஒரே நாட்டிற்குள் பல மோதல்கள் - நோர்வே அமைப்பு
+### Five injured as bus crashes into Makumbura Multimodal Center
+
+*2024-06-12 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99827/five-injured-as-bus-crashes-into-makumbura-multimodal-center) · `en`
+
+Five people have been injured in a shocking accident at the Makumbura Multimodal Center (MMC) in Kottawa this morning (12).
+
+CCTV footage of the incident shows a private bus, traveling from Padukka to Pettah, suddenly crashing through glass windows at the bus station and also colliding with another bus.
+
+The five passengers, who sustained injuries during the accident have been hospitalised, the police said.
+
+Investigations have revealed that the driver of the bus had lost control of the vehicle after its brakes apparently malfunctioned, according to police.
+
+The bus driver has been arrested, police said, adding that the incident has caused significant damage to the building at the Makumbura Multimodal Center in Kottawa.
+
+◼️
+
+[Data](articles/6f6bf41c.json)
+
+---
+
+### On the battlefields - the number of casualties in foreign clashes is multiple fold - many conflicts within the same country - the Norwegian system
 
 *2024-06-12 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185897) · `ta`
 
-சர்வதேச அளவில் உள்நாட்டு மோதல்கள் , போர்களங்களில் உயிரிழந்தவர்கள் எண்ணிக்கை மூன்று தசாப்தங்களில் இல்லாதவாறு அதிகரித்துள்ளமை புதிய ஆய்வின் மூலம் தெரியவந்துள்ளது.
+A new study shows a significant increase in global conflict-related casualties over the past three decades, with notable spikes due to Russia's invasion of Ukraine and Israel's attacks on Gaza. Despite a slight decrease in casualties last year, 2023 saw 122,000 deaths, primarily in Ukraine (73,000) and Gaza (23,000). The world now faces 59 conflicts across 34 countries, marking a complex and interconnected era of violence, with over half of all countries experiencing multiple conflicts simultaneously. This rise in global unrest is attributed to factors including the presence of extremist groups like ISIS across the Middle East, Africa, and Asia.
 
-எத்தியோப்பியாவின் டைகிரே பிராந்தியத்திலும் உக்ரைன் மீதான ரஸ்யாவின் படையெடுப்பு காரணமாகவும் காசா மீதான இஸ்ரேலின் தாக்குதல் காரணமாகவும் பொதுமக்களின் உயிரிழப்புகள் அதிகரித்துள்ளன என ஒஸ்லோவின் சமாதான ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது.
+🟩
 
-எனினும் முன்னைய வருடங்களுடன் ஒப்பிடும்போது மோதல்கள் காரணமாக உயிர் இழப்பவர்களின் எண்ணிக்கை கடந்த வருடம் குறைவடைந்திருந்தது என தெரிவித்துள்ள ஒஸ்லோ அமைப்பு எனினும் 2023 இல் 122,000 பேர் கொல்லப்பட்டுள்ளனர்,உக்ரைனில் 73.000 பேரும் காசாவில் 23,000 பேரும் கொல்லப்பட்டுள்ளனர் என தெரிவித்துள்ளது.
+The new study has revealed that the number of casualties in international domestic conflicts and wars has increased in three decades.
 
-உலகில் இடம்பெறும் மோதல்களின் எண்ணிக்கையும் குறிப்பிடத்தக்க அளவிற்கு அதிகரித்துள்ளது,34 நாடுகளில் 59 மோதல்களங்கள் காணப்படுகின்றன என நோர்வே அமைப்பு தெரிவித்துள்ளது.
+Oslo's Peace Research Institute has reported that civilian casualties have increased due to Russia's invasion of Ukraine and Israel's attack on Gaza.
+
+However, the Oslo organization said that the number of casualties was reduced last year compared to previous years, but in 2023, 122,000 people were killed, 73,000 people in Ukraine and 23,000 people in Gaza.
+
+The number of conflicts in the world has increased significantly, with 59 conflicts in 34 countries, the Norwegian organization said.
+
+Professor Siri As Rustat, who produced the report, said that the world is at its peak and the conflict has changed complex.
+
+We see the most violent conflict, and they are interconnected. He said that it has become an international competition.
 
 ...
 
 [Data](articles/60c9cb80.json)
+
+[Extended Data](ext_articles/60c9cb80.ext.json)
 
 ---
 
@@ -207,6 +269,12 @@ The Article IV Consultation and second review under the Extended Fund Facility (
 At least thirty workers of a cosmetics manufacturing factory in Pinwatta, Panadura have been hospitalised after accidentally inhaling the fumes from a toxic chemical mixture.
 
 Police said that the factory in question has been temporarily closed following the incident.
+
+The incident has reportedly occurred due to the change of a chemical substance while making a chemical mixture at the factory which manufactures cosmetic products including perfumes.
+
+The incident has taken place at around 09.30 a.m. this morning (12), the police revealed.
+
+It is further reported that a group of workers have been admitted to the Panadura Base Hospital while another group was directed to private medical treatment.
 
 ◼️
 
@@ -418,6 +486,12 @@ President Ranil Wickremesinghe says that the upcoming presidential election will
 
 The Head of the State made this remark during a policy reform discussion held in Battaramulla this morning (12), according to the PMD.
 
+During the event, the President was asked whether there will be anyone to take the lead in continuing the current program if he somehow loses the next election.
+
+In response to this, President Wickremesinghe said: “It is not my victory or defeat that will be decided in this election. It will be decided whether the country will lose or not.”
+
+“We have currently negotiated with the International Monetary Fund and presented an economic program. To implement it, the Economic Transformation Bill has been brought. If it collapses, we will lose foreign exchange again. We will have to suffer in queues without medicines, petrol and gas.”
+
 ◼️
 
 [Data](articles/591b2dcc.json)
@@ -555,6 +629,20 @@ The 35,000 teachers who have participated in the campaign at the Zonal Office le
 [Data](articles/874df20d.json)
 
 [Extended Data](ext_articles/874df20d.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தல்: வெற்றி, தோல்வியை தீர்மானிக்கும்
+
+*2024-06-12 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-வெற்றி-தோல்வியை-தீர்மானிக்கும்/175-338799) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் முடிவுகள், நாட்டின் வெற்றி, தோல்வியைத் தீர்மானிக்குமே அன்றி தனிப்பட்ட வெற்றி, தோல்வியாக அமையாது என்று  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+பொருளாதார சீர்திருத்த துறைசார் மேற்பார்வைக்  குழுவில்  கலந்து கொள்ளும் இளைஞர் பிரதிநிதிகளுடன்  பத்தரமுல்ல வோட்டர்ஸ் ஏஜ் ஹோட்டலில்  நடைபெற்ற கொள்கை சீர்திருத்தம் தொடர்பான கருத்தாடலில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/06a828bb.json)
 
 ---
 
@@ -904,17 +992,25 @@ Addressing a press briefing titled ‘Collective Path to a Stable Country,’ he
 
 ---
 
-### එල්ලුම් ගහට නියම වූ පුද්ගලයෙකුගේ රු. ලක්ෂ හැටපහක මුදල් සන්තකයේ තබාගෙන සිටි පුද්ගලයෙක් අත්අඩංගුවට
+### A person who was destined to the gallows. Man arrested for possessing money
 
 *2024-06-12 09:26:43* · [`adalk`](https://www.ada.lk/breaking_news/එල්ලුම්-ගහට-නියම-වූ-පුද්ගලයෙකුගේ-රු--ලක්ෂ-හැටපහක-මුදල්-සන්තකයේ-තබාගෙන-සිටි-පුද්ගලයෙක්-අත්අඩංගුවට/11-410162) · `si`
 
-මරණීය දණ්ඩනය නියමව බූස්ස බන්ධනාගාරයේ රඳවා සිටින මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවකු වන විධානගමගේ නලින් සුරංග යන අය විසින් මත්ද්‍රව්‍ය  ජාවාරමෙන් උපයා ගත් මුදල්  සම්බන්ධයෙන්  මුදල් විශුද්ධකරන පනත යටතේ විමර්ශන පවත්වා ඔහුට අයත් රුපියල් ලක්ෂ 65 ක මුදලක්   සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකු අත්අඩංගුවට  ගත් බව නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය කියයි.
+A man arrested for illegal asset possession, linked to drug trafficking, faces charges including money laundering. Six suspects from a fishing vessel were detained, revealing a connection to a death-row inmate who transferred 28 million rupees to a state bank. Investigations continue, with one suspect expected to appear in court.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් 2022  .06.27 වෙනි දින  මහා පරිමාණ මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට සැලසුම් කරන බවට තොරතුරක් අනුව  තංගල්ල ධීවර වරාය ආසන්නයේ මුහුදු තීරයේදී  බහු දින ධීවර යාත්‍රාවක් සමග ස්කිපර්  වරයෙකු සමග තවත් සැකකරුවන් හය දෙනෙකු අත්අඩංගුවට ගැනීමෙන් පසු මුදල් විශුද්ධකරනය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කළ බව පොලිසිය සඳහන් කරයි
+🟩
+
+Illegal assets investigation has been arrested by the Current Drug Trafficker in the Boossa Prison, which has been held at the Boossa Prison in the Boossa Prison..
+
+Police Narcotics Bureau of 2022 .06.27 The Tangalle fishing vessel, which is scheduled to be brought to Sri Lanka on 20th, six suspects were started with a multi-day muster fishing vessel with a multi-day muster fishing vessel.The police said
+
+A van in the investigation of the Nalin Suranga who had been imposed on the death sentence of the fishing vessel after the investigation of the fishing vessel was deposited in a state bank at 28 million rupees in a state bank in a state bank, 28 million rupees.It was revealed that the money was sold and the van was purchased by death, Nalin Suranga in 2017
 
 ...
 
 [Data](articles/6f16a056.json)
+
+[Extended Data](ext_articles/6f16a056.ext.json)
 
 ---
 
@@ -2097,59 +2193,5 @@ Habaraduwa police said that a police team had gone to investigate the incident. 
 [Data](articles/a2df2850.json)
 
 [Extended Data](ext_articles/a2df2850.ext.json)
-
----
-
-### Loops Integrated ends The Four A’s Advertising Awards 2024 on a high
-
-*2024-06-11 23:07:00* · [`islandlk`](http://island.lk/loops-integrated-ends-the-four-as-advertising-awards-2024-on-a-high/) · `en`
-
-Loops Integrated, Sri Lanka’s premier integrated advertising agency in Sri Lanka, achieved remarkable success at the prestigious Four A’s Advertising Awards 2024. The agency proudly collected 3 gold and 3 bronze awards, marking a significant milestone in Sri Lankan commercial creativity.
-
-Anoj Wijayaratne, General Manager, said: “Six awards for creative excellence in such a brief period since our agency’s transition to Integrated is an exhilarating triumph. We’ve built a remarkable team of talented individuals both young and old who bring freshness and seasoned experience to the campaigns we do. We are excited and motivated to continue pushing the boundaries of innovation in the industry.”
-
-...
-
-[Data](articles/afb87cf7.json)
-
-[Extended Data](ext_articles/afb87cf7.ext.json)
-
----
-
-### Antyra Solutions named a 2024 Google Premier Partner
-
-*2024-06-11 23:07:00* · [`islandlk`](http://island.lk/antyra-solutions-named-a-2024-google-premier-partner/) · `en`
-
-Sri Lanka-based digital agency Antyra Solutions has achieved 2024 Premier Partner status in the Google Partners program.
-
-Antyra’s team of experts provides performance-based digital marketing solutions catering to a range of industries such as Hospitality, eCommerce, FMCG, and Finance, both locally and internationally.
-
-“As a data driven, performance marketing agency, Antyra has always focussed on driving real world results for our clients. Premier Partner status is a testament to our Google Ads capabilities and our effectiveness in meeting client objectives. As a team, we are immensely proud of this achievement,” said Naveen Marasinghe, Chief Operating Officer, Antyra Solutions.
-
-In February, Google recognised the achievements of top-performing digital marketing partners across the globe by awarding Premier Partner status as part of the Google Partners program. Antyra Solutions has been named a 2024 Premier Partner, which means:
-
-...
-
-[Data](articles/bff32919.json)
-
-[Extended Data](ext_articles/bff32919.ext.json)
-
----
-
-### Cuisines of the World with Nations Trust Bank American Express
-
-*2024-06-11 23:04:00* · [`islandlk`](http://island.lk/cuisines-of-the-world-with-nations-trust-bank-american-express/) · `en`
-
-Nations Trust Bank American Express is excited to announce the launch of the ‘Cuisines of the World’ campaign, offering Cardmembers exclusive experiences and significant savings at a variety of top-tier restaurants across Sri Lanka. This initiative will feature a diverse range of global cuisines each week during June and July 2024.
-
-Throughout these two months, each week, will spotlight a different cuisine together with attractive offers from restaurants that offer the respective cuisine. Cardmembers can enjoy a multi-cuisine culinary journey with their friends and family.
-
-Niluka Gunatilake, Head of Cards at Nations Trust Bank, stated, “With ‘Cuisines of the World,’ our goal is to provide our Cardmembers with a unique culinary experience that mirrors the diverse tastes and preferences of our community. Additionally, this offers a wonderful opportunity for them to spend quality time and create lasting memories with their loved ones.”
-
-...
-
-[Data](articles/f0bc8763.json)
-
-[Extended Data](ext_articles/f0bc8763.ext.json)
 
 ---

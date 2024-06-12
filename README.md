@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 14:53:22**
+As of **2024-06-12 15:04:14**
 
 ## Newspaper Stats
 
-*Scraped **30,004** Articles*
+*Scraped **30,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,396
 tamilmirrorlk | 3,515
 virakesarilk | 4,590
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,830
+adaderanasinhalalk | 4,831
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,000 (100.0%) of 30,004 articles have been extended.
+30,004 (100.0%) of 30,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### ශ්‍රී ලංකා කණ්ඩායම පරාජය වූ හේතුව තීක්ෂණ කියයි
+
+*2024-06-12 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197682) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායම මෙතෙක් දැක්වූ දක්ෂතා පිළිබඳව කිසිසේත් සෑහීමකට පත්විය නොහැකි බව ශ්‍රී ලංකා දඟපන්දු යවන ක්‍රීඩක මහීෂ් තීක්ෂණ සඳහන් කළේය.
+
+"අපි තරගාවලියට එද්දි හොඳ මානසිකත්වයත් තිබුණා. අපේ පන්දු යවන්නේ හොඳට කරලා තිබුණා. පන්දුවට පහරදෙන්නන් හොඳට කරලා තිබුණා අන්තිම තරගාවලීන් තුනේම. අපි ගොඩක් ඉස්සරහින් හිටියා තරගාවලියට එද්දි. මම හිතනවා ගොඩක් වැරදීම් වුණා කණ්ඩායමක් විදිහට. ඒ නිසා අපිට සුපිරි 08ට යන්න බැරි වුණා. ලොකුවටම දකින්නේ අපේ පිතිකරණයේ වුණ දේවල්. කන්ඩිෂන්වලට හැඩ ගැහුනේ නැති එක තමයි ලොකුම වැරැද්ද කියලා මම හිතනවා."
+
+නේපාලය සමඟ අද (12) පැවැත්වීමට නියමිතව තිබු තරගයට වර්ෂාවෙන් බාධා එල්ල වීම නිසා තරගය අත්හැර දැමීමත් සමඟ පන්දුවාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට ශ්‍රී ලංකාවට තිබු  අවස්ථාව ගිලිහී ගියේය.
+
+ශ්‍රී ලංකා - නේපාල තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීම නිසා කණ්ඩායම් දෙකටම එක් ප්‍රසාද ලකුණු බැගින් පිරිනැමුණි.
+
+...
+
+[Data](articles/6029ea5c.json)
+
+---
 
 ### If sexually harassed in public places
 
@@ -375,6 +393,8 @@ As part of the joint promotion, valid until August 31, 2024, LOLC SAVI cardholde
 ...
 
 [Data](articles/631ed178.json)
+
+[Extended Data](ext_articles/631ed178.ext.json)
 
 ---
 
@@ -1230,19 +1250,29 @@ The ministry also urged Indian nationals to “exercise caution while seeking em
 
 ---
 
-### විදුලි සැර වැදී 17 හැවිරිදි රූමත් සිසුවියක් මරුට
+### Superintendent student dies after electricity exploding
 
 *2024-06-12 10:29:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සැර-වැදී-17-හැවිරිදි-රූමත්-සිසුවියක්-මරුට/11-410165) · `si`
 
-රෙදි මැසීමේ මෝටරයට සම්බන්ධ වයරයේ පේනුව කපා අනාරක්ෂිත අයුරින් විදුලි සම්බන්ධතාවයක් ලබා ගැනීමට උත්සාහ දැරූ 17 හැවිරිදි  රූමත් පාසල් සිසුවියක් විදුලි සැර වැදී අවාසනාවන්ත අයුරින් මියගොස් ඇතැයි පිළියන්දල පොලිසිය කියයි.
+A 17-year-old girl, Nishani Piyumika Vanrowan, died from an electric shock while attempting to fix a power issue in her home. Her father passed away mysteriously earlier, and his remains arrived in Sri Lanka. The incident occurred on November 11th, and police found evidence of tampering with the electrical wiring.
 
-මෙලෙස මියගොස් ඇත්තේ පිළියන්දල තුම්බෝවිල , දූව වත්ත පාර , 5 වෙනි පටු මඟ පදිංචිව සිටි නුගේගොඩ  මහමායා බාලිකා විද්‍යාලයේ අධ්‍යාපනය ලබන (2025 වසරේ  අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිතව සිටි)  නිශානි පියුමිකා වැන්රෝවන් සිසුවියයි.
+🟩
 
-මියගිය සිසුවියගේ පියා මැලේසියාවේ හෝටලයක සේවය කරමින් සිටියදී 2023 වසරේ දෙසැම්බර් පළමුවැනි දින අභිරහස් ලෙස මියගොස් තිබූ අතර ඔහුගේ දේහය 2024 ජනවාරි 01 වෙනිදින  මෙරටට එවීමෙන් අනතුරුව ඒ වන විට විදේශගතව සිටි මවද මෙරටට පැමිණ අවමංගල කටයුතු නිමවීමෙන් අනතුරුව යළි සෞදි අරාබියේ රැකියාව සඳහා මීට මාස කිහිපයකට ඉහතදී පිටත්ව ගොස් තිබූ බව පොලිසිය කියයි.
+Piliyandala Police say that a 17-year-old schoolgirl has died of electricity connectivity and deceased with electricity connection.
+
+The deceased has been identified as Nishani Piyumika Vanrowan, who was living in the Mahamaya Road, Duwa Vidyalaya, Piliyandala Thalawila Road, Panataaya Road, Nugegoda.
+
+The father of the deceased has died as a mysterious day in December 2024, after the funeral of January 1, 2024, and his remains had come to Sri Lanka.Police said.
+
+Police investigations have revealed that the student who had stayed at home yesterday (11th) had been attempted to implement the homeless of the house in the house yesterday (11th).has.
+
+The grandmaker in the same room is asleep in the adjacent room, which has been a squarew to the wall of the cloth seizing and the weaker of the wall is a square, she is a square, she is a wire codPolice investigations have revealed that the electrical rose connected to the motor side of the fabric seism
 
 ...
 
 [Data](articles/9058625f.json)
+
+[Extended Data](ext_articles/9058625f.ext.json)
 
 ---
 
@@ -2259,25 +2289,5 @@ The meeting underscored the necessity of establishing a Casino Regulator to addr
 [Data](articles/6e8c08e9.json)
 
 [Extended Data](ext_articles/6e8c08e9.ext.json)
-
----
-
-### SJB will support amended IMF program: Harsha
-
-*2024-06-12 01:46:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-will-support-amended-IMF-program-Harsha/56-762963) · `en`
-
-Main opposition, Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva yesterday said that they will support an amended International Monetary Fund (IMF) program for Sri Lanka.
-
-Dr. de Silva made this announcement following a constructive discussion with notable economists and policymakers, including Jayati Ghosh, Martin Guzman and Charles Abugre, alongside fellow SJB member Kabir Hashim.
-
-“Good conversation with @Jayati1609 @Martin_M_Guzman @CharlesAbugre w @KabirHashim4 on purported alternative to @IMFNews. Agree nations must cooperate to increase bargaining position but won’t blame conspiracy for SriLanka crisis. @sjbsrilanka will stay w amended IMF program,” Dr. de Silva posted on ‘X’.
-
-He pointed out the importance of international cooperation to enhance bargaining positions but rejected conspiracy theories as explanations for Sri Lanka’s economic crisis.
-
-...
-
-[Data](articles/1dc64339.json)
-
-[Extended Data](ext_articles/1dc64339.ext.json)
 
 ---

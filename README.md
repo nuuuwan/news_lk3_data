@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 15:53:18**
+As of **2024-06-12 16:05:50**
 
 ## Newspaper Stats
 
-*Scraped **30,015** Articles*
+*Scraped **30,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,399
 tamilmirrorlk | 3,516
 virakesarilk | 4,595
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,832
+adaderanasinhalalk | 4,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,014 (100.0%) of 30,015 articles have been extended.
+30,015 (100.0%) of 30,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### කුවේට් හි ගින්නකින් 41ක් මරුට
+
+*2024-06-12 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197685) · `si`
+
+කුවේට් හි ඉදිකිරීම් සමාගමක සේවකයින් පිරිසක් නවාතැන් ගෙන සිටි ගොඩනැගිල්ලක සිදුවූ ගිනි ගැනීමකින් 41 දෙනෙක් පමණ මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම ඉදිකිරීම් සමාගමේ සේවකයින් 160 දෙනෙක් පමණ එහි වාසය කර තිබේ.
+
+◼️
+
+[Data](articles/eb24131e.json)
+
+---
+
+### එංගලන්ත 19න් පහළ පිළට එක්වූ කේෂණ
+
+*2024-06-12 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197684) · `si`
+
+ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් කණ්ඩායම සමග පැවැත්වෙන එක්දින තරග 3කින් සමන්විත තරගාවලිය සඳහා සහභාගී වන එංගලන්ත කණ්ඩායම නම්කර තිබේ.
+
+එම කණ්ඩායමේ හිටපු ටෙස්ට් සහ එක්දින ක්‍රීඩකයින් කිහිප දෙනෙකුගේ දරුවන් සිටීම විශේෂත්වයකි.
+
+හිටපු එංගලන්ත තුන් ඉරියව් ක්‍රීඩක ඇන්ද්රූ ෆ්ලින්ටොෆ් ගේ පුතා වන රොකි ෆ්ලින්ටොෆ්, හිටපු දකුණු අප්‍රිකානු ක්‍රීඩක ඩේල් බෙන්කන්ස්ටයින් ගේ පුතා වන ලුක් බෙන්කන්ස්ටයින් මෙම කණ්ඩායමේ නායකත්වය දරයි.
+
+එංගලන්තය වෙනුවෙන් ක්‍රීඩාකළ ෆිල් මුස්ටාර්ඩ් ගේ පුතා හේඩන් මුස්ටාර්ඩ් ද මෙම කණ්ඩායමේ සාමාජිකයෙකි.
+
+එසේම දැනට එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සිටින ක්‍රීඩක රෙහාන් අහමඩ් ගේ සොහොයුරා වන ෆර්හාන් අහමඩ් ද එම කණ්ඩායමේ සාමාජිකයෙකි.
+
+තුවාල ලැබීම හේතුවෙන් පසුගිය වයස අවුරුදු 19 පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියට එක්වීමට අවස්ථාව නොලැබුණු කේෂණ ෆොන්සේකා ද මෙම කණ්ඩායමේ සාමාජිකයෙකි.
+
+◼️
+
+[Data](articles/ef8121ab.json)
+
+---
 
 ### Import and Export Control Regulations to be submitted for parliament approval
 
@@ -50,19 +86,25 @@ In line with a proposal by the Minister of Tourism and Lands, the Cabinet has ap
 
 ---
 
-### சாரைப்பாம்பை சாப்பிட்டவர் கைது
+### Arrest
 
 *2024-06-12 15:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரைப்பாம்பை-சாப்பிட்டவர்-கைது/175-338813) · `ta`
 
-சாரைப்பாம்பு ஒன்றை அடித்து கொன்று, அந்த பாம்பின் தோலை உரித்து துண்டு துண்டாக வெட்டி சமைத்து சாப்பிட்ட சம்பவம் தொடர்பில், திருப்பத்தூர் அருகே உள்ள பெருமாபட்டு பகுதியைச் சேர்ந்தவர் இளைஞன் கைது செய்யப்பட்டுள்ளார்.
+A youth in Perumapattu, near Tirupattur, was arrested for cooking and eating a snake, posting a viral video of the act. The forest department took action after the video went viral, leading to his arrest and confession.
 
-பாம்பின் தோலை உரித்து, தண்ணீரில் அலசும் காட்சிகளை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார்.
+🟩
 
-இந்த வீடியோ சமூக .வலைத்தளங்களில் வைரலாக பரவியது, அவர் மீது வனத்துறை நடவடிக்கை எடுத்துள்ளது. அவரை கைது செய்து அவரிடம் விசாரணை மேற்கொண்டதில், சாரைப்பாம்பை சமைத்து சாப்பிட்டதை ஒப்புக் கொண்டார். இதையடுத்து அவர் சிறையில் அடைக்கப்பட்டார்.
+The youth has been arrested in the Perumapattu area near Tirupattur in connection with the incident where the snake's skin was beaten and cooked and cooked.
+
+He has posted a video of the snake's skin and the water in the water.
+
+This video has been going viral on the site and the forest department has taken action against him. When he was arrested and interrogated, he admitted that he cooked and eaten. He was subsequently jailed.
 
 ◼️
 
 [Data](articles/04d5a477.json)
+
+[Extended Data](ext_articles/04d5a477.ext.json)
 
 ---
 
@@ -2269,51 +2311,5 @@ The electricity also disconnected and the environment was swimmingly swimming an
 [Data](articles/c2f715b0.json)
 
 [Extended Data](ext_articles/c2f715b0.ext.json)
-
----
-
-### Marikkar alleges JVP-ITN-President’s Office conspiracy behind one-sided debate
-
-*2024-06-12 02:02:17* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-alleges-JVP-ITN-President-s-Office-conspiracy-behind-one-sided-debate/56-762975) · `en`
-
-Argues a debate should not be restricted to a State television channel or any single media outlet, advocating for its openness to all media
-
-Criticises involvement of Sudharman Radaliyagoda as mediator, citing his association with Rajapaksas and past imprisonment
-
-Rejects participation in event, alleging its orchestration by President, JVP, and demands Economic Council debate instead
-
-Samagi Jana Balawegaya (SJB) MP S. M. Marikkar yesterday claimed the recent televised debate planned between SJB leader Sajith Premadasa and National People’s Power (NPP) party leader Anura Kumara Dissanayake with only the latter attending was a conspiracy hatched by the NPP, ITN and the President’s Office.
-
-Addressing a press conference yesterday in Colombo, Marikkar displayed a photograph to support his allegation. The image depicted NPP’s K.D. Lalkantha and Upul Kumarapperuma in conversation with ITN Chairman Sudarshana Gunawardana at a social gathering.
-
-...
-
-[Data](articles/28ed9b1a.json)
-
-[Extended Data](ext_articles/28ed9b1a.ext.json)
-
----
-
-### Harrison predicts significant SJB defection to President’s camp post poll announcement
-
-*2024-06-12 01:59:09* · [`dailyftlk`](https://www.ft.lk/news/Harrison-predicts-significant-SJB-defection-to-President-s-camp-post-poll-announcement/56-762974) · `en`
-
-UNP stalwart P. Harrison claims various parties have already pledged their support for Wickremesinghe
-
-Dismisses concerns about the postponement of Presidential election and claims poll will be held before 17 October
-
-Reiterates Wickremesinghe will emerge as common candidate, with neither SLPP nor SLFP fielding separate candidates
-
-Claims Ranil Wickremesinghe will emerge victorious by obtaining over 10 million votes
-
-At a recent United National Party (UNP) gathering in Anuradhapura, former Minister P. Harrison made significant claims regarding the upcoming Presidential election, suggesting a major political shift towards President Ranil Wickremesinghe’s leadership.
-
-Harrison asserted that numerous parties from both the Government and the opposition have pledged their allegiance to Wickremesinghe’s alliance.
-
-...
-
-[Data](articles/10eb1bbc.json)
-
-[Extended Data](ext_articles/10eb1bbc.ext.json)
 
 ---

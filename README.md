@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 01:19:01**
+As of **2024-06-13 01:34:26**
 
 ## Newspaper Stats
 
-*Scraped **30,087** Articles*
+*Scraped **30,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 293
 newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,733
-dailyftlk | 1,811
+dailyftlk | 1,818
 adalk | 2,590
 adaderanalk | 3,411
 tamilmirrorlk | 3,522
@@ -26,9 +26,125 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,087 (100.0%) of 30,087 articles have been extended.
+30,087 (100.0%) of 30,094 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-13 (Thursday)
+
+### First national dialogue on fair taxation and stronger social contract for SDGs
+
+*2024-06-13 01:07:14* · [`dailyftlk`](https://www.ft.lk/business/First-national-dialogue-on-fair-taxation-and-stronger-social-contract-for-SDGs/34-763025) · `en`
+
+Govt. and UNDP host inaugural dialogue in light of ongoing economic recovery efforts; launch Sri Lanka’s first ‘Taxpayer Perception Study’
+
+The United Nations Development Program (UNDP) in Sri Lanka, in collaboration with the Ministry of Finance, Inland Revenue Department, University of Moratuwa, and the National Innovation Agency of Sri Lanka yesterday co-convened the first-ever National Tax Dialogue to address contemporary issues surrounding taxation and fiscal policies.
+
+...
+
+[Data](articles/ab677db0.json)
+
+---
+
+### Cabinet green lights import of spices for re-export
+
+*2024-06-13 01:04:36* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-import-of-spices-for-re-export/34-763024) · `en`
+
+The Cabinet of Ministers has approved a set of recommendations aimed at boosting the country’s spice reprocessing industry.
+
+This decision was made following a meeting on 18 March 2024, where the Finance, Economic Stabilisation and National Policies Ministry Secretary instructed a review of the Import and Export Control Regulations No. 3 of 2024.
+
+“The review instructed by the Finance Ministry Secretary was conducted by the Secretaries of the Ministry of Investment Promotions and the Ministry of Agriculture and Plantation Industries. Their findings were presented in a detailed report, leading to the Cabinet’s approval of the proposal by President Ranil Wickremesinghe,in his capacity as the Finance, Economic Stabilisation and National Policies Minister,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/35bc090c.json)
+
+---
+
+### Govt. to set up 25 District Industry Promotion Councils
+
+*2024-06-13 01:04:29* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-set-up-25-District-Industry-Promotion-Councils/34-763023) · `en`
+
+The Cabinet of Ministers on Tuesday approved establishing 25 ‘District Industry Promotion Councils’ across the country, to address the challenges faced by locally established micro, small and medium-scale enterprises (MSMEs).
+
+“A steering committee, comprising representatives from the public sector, private sector and other relevant institutions, will be appointed to determine the structure, role and responsibilities of these councils and to oversee the entire process,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+Acknowledging that the MSMEs are grappling with numerous issues at present, he said recognising the need for a system that is both accessible and beneficial, the Government seeks to create a supportive environment to help these industries overcome their challenges.
+
+...
+
+[Data](articles/45073884.json)
+
+---
+
+### Cabinet nod to prepare Bill to amend Consumer Affairs Authority Act
+
+*2024-06-13 01:04:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-prepare-Bill-to-amend-Consumer-Affairs-Authority-Act/34-763022) · `en`
+
+The Cabinet of Ministers on Tuesday approved the proposal to expedite the preparation of a Bill to amend the Consumer Affairs Authority Act No. 9 of 2003, following the observations received from the Attorney General.
+
+On 2 May 2023, the Cabinet initially gave the green light to draft amendments to the Act.
+
+The Legal Draftsman has since prepared the draft Bill, which has now been reviewed by the Attorney General, who provided key observations and recommendations.
+
+The proposal made by the Trade, Commerce and Food Security Minister Nalin Fernando to advise Legal Draftsman to prepare the relevant Bill promptly was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/2b741702.json)
+
+---
+
+### New solar power venture in Batticaloa with Rs. 2.2 b investment
+
+*2024-06-13 01:04:15* · [`dailyftlk`](https://www.ft.lk/business/New-solar-power-venturein-Batticaloawith-Rs-2-2-b-investment/34-763021) · `en`
+
+Suryashakthi Ltd., has signed a Power Purchase Agreement for the development of the 10MW Vavunathivu II Solar Power Project in Batticaloa.
+
+Suryashakthi is a wholly owned subsidiary of Solar Universe Ltd., a joint venture between Vidullanka PLC, WindForce PLC, and HiEnergy Services Ltd.
+
+The Vavunathivu II Solar Power Project is expected to attract an investment of approximately Rs. 2.2 billion.
+
+◼️
+
+[Data](articles/60184642.json)
+
+---
+
+### Cabinet approves proposed Sri Lanka Institute of Food Science and Technology
+
+*2024-06-13 01:04:07* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-proposed-Sri-Lanka-Institute-of-Food-Science-and-Technology/34-763020) · `en`
+
+The Cabinet of Ministers on Tuesday approved instructing the legal draftsman to expedite the completion of the Bill for establishing the Sri Lanka Institute of Food Science and Technology, incorporating the necessary amendments.
+
+“The initial approval for the preparation of the bill to establish the Sri Lanka Institute of Food Science and Technology had been granted previously. Following this, the legal draftsman prepared the relevant bill and the Attorney General proposed several amendments,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He said the establishment of this institute aims to advance food science and technology in Sri Lanka, promoting research, innovation and development in the sector.
+
+...
+
+[Data](articles/dbc5d55e.json)
+
+---
+
+### Cabinet nod to Gazette regulations to facilitate import of vehicles for tourism
+
+*2024-06-13 01:03:56* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-Gazette-regulations-to-facilitate-import-of-vehicles-for-tourism/34-763019) · `en`
+
+The Cabinet of Ministers on Tuesday approved the submission of regulations, to be published in an Extraordinary Gazette and present the same in Parliament for approval.
+
+These regulations pertain to the temporary suspension of motor vehicle imports into Sri Lanka under the Import and Export (Control) Regulations No. 2 of 2023.
+
+On 1 April, the Cabinet approved a proposal to allow the import of 250 small buses and 750 vans specifically for tourism purposes. To implement this decision, Import and Export (Control) Regulations No. 7 of 2024 has been issued under the Import and Export (Control) Act No. 1 of 1969.
+
+“These measures are intended to boost the tourism sector by ensuring the availability of adequate transport options while maintaining stringent standards for imports to protect the national interests,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/67e38721.json)
+
+---
 
 ### 2024-06-12 (Wednesday)
 
@@ -2159,173 +2275,5 @@ It is noteworthy that the Indian government has taken preventive measures after 
 [Data](articles/2f0caea0.json)
 
 [Extended Data](ext_articles/2f0caea0.ext.json)
-
----
-
-### 30 clients hospitalized for chemicals
-
-*2024-06-12 12:35:11* · [`adalk`](https://www.ada.lk/breaking_news/රසායනික-ද්‍රව්‍යයක්-විසවි-සේවිකවන්-30ක්-රෝහලට/11-410172) · `si`
-
-In Panadura, 30 clients were hospitalized due to chemical exposure from a factory, including Dr. Dilrukshi Weerasinghe, the hospital's director. Symptoms included headaches, coughing, and breathing difficulties. Four patients were transferred to the Panadura Base Hospital and are stable. The factory, which also produces beauty products, has been temporarily shut down for investigation by local authorities.
-
-🟩
-
-Dr. Dilrukshi Weerasinghe, Director of the Panadura, has been hospitalized using a chemical in a factory in Panadura, Pinwatta.
-
-It is reported that the victims of the hospital have come to the head ache, cording, breathing difficulties.
-
-Initial investigations have revealed that a mixture of a chemical manufacturer, including a cosmetic, manufacture of beauty, face cosmetics.
-
-The director of the hospital said that four were sick were taken to the Panadura Base Hospital, but four of them are in general condition after they were given basic treatment.
-
-With the incident, the Pinwatta OIC Chief Inspector Padma and other employees go to the factory and send 340 employees have to be temporarily closed.
-
-Pinwatta OIC Chief Inspector of Police Pinwatta Police are conducting further investigations.
-
-Panadura Sumith Pothupitiya, Panadura Saman Kariyawasam and Wadduwa Daya Hemantha Silva
-
-◼️
-
-[Data](articles/7d5d8269.json)
-
-[Extended Data](ext_articles/7d5d8269.ext.json)
-
----
-
-### Ministry of Certificate of Survey fees
-
-*2024-06-12 12:29:34* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-සමීක්ෂණ-ගාස්තු-ගැන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-410171) · `si`
-
-The Ministry of Education has submitted a Cabinet Memorandum to increase allowances for Ordinary Level teachers and inspectors. A report due April 14, 2014, will recommend further increases, to be presented to the Cabinet.
-
-🟩
-
-GCE Advanced Level. The Ministry of Education has issued a statement that the relevant Cabinet Memorandum has been submitted to increase the allowance paid to the teachers and inspectors for a (Ordinary Level).
-
-The reports were to be appointed as the report on 14.04.2014 and the report will be presented to the next Cabinet and increase the allowances.
-
-◼️
-
-[Data](articles/e6888f8d.json)
-
-[Extended Data](ext_articles/e6888f8d.ext.json)
-
----
-
-### Startup Genome ranks Sri Lanka among world’s top 10 for affordable talent
-
-*2024-06-12 12:26:00* · [`economynextcom`](https://economynext.com/startup-genome-ranks-sri-lanka-among-worlds-top-10-for-affordable-talent-167600/) · `en`
-
-ECONOMYNEXT – Startup Genome, a Silicon Valley based policy advisory and research organization that partners with governments, has ranked Sri Lanka among the top 10 Global Ecosystem for Affordable Talent, state minister of technology Kanaka Herath has said.
-
-The ranking was made “In the latest Global Startup Ecosystem Report 2024 by Startup Genome, based on data from 4.5M startups across 300 ecosystems,” Herath said on X (twitter).
-
-“Sri Lanka boasts a resilient mindset, with problem solving and innovation driven by entrepreneurial activity,” Startup Genome said on its website.
-
-Startup Genome listed ‘Access to Talent’ as a reason to move ventures to the island: “Sri Lanka’s tech talent pool is known for high-end product engineering experience, problem solving skills, and ingenuity. Around 5,000 tech students graduate annually.”
-
-...
-
-[Data](articles/4860b194.json)
-
-[Extended Data](ext_articles/4860b194.ext.json)
-
----
-
-### The best message from Washington
-
-*2024-06-12 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197677) · `si`
-
-Sri Lanka expects a $335 million loan approval from the IMF during its executive meeting today. This is part of a broader $3 billion support package agreed upon in March 2023, aimed at stabilizing the country's economy over a 485-month period. The third installment of this loan is anticipated to be released soon, pending the successful completion of the second review by the IMF executive in Washington.
-
-🟩
-
-The International Monetary Fund Executive will meet today (12) regarding the release of the Third Premium to Sri Lanka.
-
-The loan to approve is US $ 335 million.
-
-Mr. Chandranaath Amarasekera is the Governor of the Central Bank.
-
-"The government began discussions with a discussion. In March 2023, the International Monetary Fund endorsed US $ 3 billion for Sri Lanka. 485-month credit facilities in four years. Review During six out of six months and this loan facility for the budget for the budget. Now that 670 dopendu is in this credit facility. By midnight today, we hope that we will receive the 3rd installment of this loan facility. Because in Washington, USA, the International Monetary Fund Executive is finalizing the second review of Sri Lanka's credit facility. We hope that the review will be completed in the cooperation of all countries. But we have to get another $ 335 million. However, the IMF is currently more than the billions of dollars. "
-
-◼️
-
-[Data](articles/cb38c263.json)
-
-[Extended Data](ext_articles/cb38c263.ext.json)
-
----
-
-### 25 students are affected by food allergies
-
-*2024-06-12 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமை-காரணமாக-25-மாணவர்கள்-பாதிப்பு/175-338803) · `ta`
-
-25 Grade 3 students from Kahatagastikiliya primary school were hospitalized due to severe allergic reactions to food after breakfast. The incident involved students from classes 3C and 3D, with the school principal noting a mistake in meal provision for class 3D.
-
-🟩
-
-Grade 3 students of the primary school in Kahatagastikiliya have been admitted to the Kahatagastikiliya Resource Hospital today due to food allergies.
-
-A short time after having breakfast provided at the school, 25 students have been admitted to the hospital due to body itching.
-
-The students who attended the 3C and 3D grades of the elementary school have been admitted to the hospital.
-
-The school principal said that the lack of food for the 3D class today has been provided with food for the 3D class.
-
-◼️
-
-[Data](articles/05bcde75.json)
-
-[Extended Data](ext_articles/05bcde75.ext.json)
-
----
-
-### Five injured as bus crashes into Makumbura Multimodal Center
-
-*2024-06-12 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99827/five-injured-as-bus-crashes-into-makumbura-multimodal-center) · `en`
-
-Five people have been injured in a shocking accident at the Makumbura Multimodal Center (MMC) in Kottawa this morning (12).
-
-CCTV footage of the incident shows a private bus, traveling from Padukka to Pettah, suddenly crashing through glass windows at the bus station and also colliding with another bus.
-
-The five passengers, who sustained injuries during the accident have been hospitalised, the police said.
-
-Investigations have revealed that the driver of the bus had lost control of the vehicle after its brakes apparently malfunctioned, according to police.
-
-The bus driver has been arrested, police said, adding that the incident has caused significant damage to the building at the Makumbura Multimodal Center in Kottawa.
-
-◼️
-
-[Data](articles/6f6bf41c.json)
-
-[Extended Data](ext_articles/6f6bf41c.ext.json)
-
----
-
-### On the battlefields - the number of casualties in foreign clashes is multiple fold - many conflicts within the same country - the Norwegian system
-
-*2024-06-12 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185897) · `ta`
-
-A new study shows a significant increase in global conflict-related casualties over the past three decades, with notable spikes due to Russia's invasion of Ukraine and Israel's attacks on Gaza. Despite a slight decrease in casualties last year, 2023 saw 122,000 deaths, primarily in Ukraine (73,000) and Gaza (23,000). The world now faces 59 conflicts across 34 countries, marking a complex and interconnected era of violence, with over half of all countries experiencing multiple conflicts simultaneously. This rise in global unrest is attributed to factors including the presence of extremist groups like ISIS across the Middle East, Africa, and Asia.
-
-🟩
-
-The new study has revealed that the number of casualties in international domestic conflicts and wars has increased in three decades.
-
-Oslo's Peace Research Institute has reported that civilian casualties have increased due to Russia's invasion of Ukraine and Israel's attack on Gaza.
-
-However, the Oslo organization said that the number of casualties was reduced last year compared to previous years, but in 2023, 122,000 people were killed, 73,000 people in Ukraine and 23,000 people in Gaza.
-
-The number of conflicts in the world has increased significantly, with 59 conflicts in 34 countries, the Norwegian organization said.
-
-Professor Siri As Rustat, who produced the report, said that the world is at its peak and the conflict has changed complex.
-
-We see the most violent conflict, and they are interconnected. He said that it has become an international competition.
-
-...
-
-[Data](articles/60c9cb80.json)
-
-[Extended Data](ext_articles/60c9cb80.ext.json)
 
 ---

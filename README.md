@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 14:34:45**
+As of **2024-06-12 14:53:22**
 
 ## Newspaper Stats
 
-*Scraped **30,000** Articles*
+*Scraped **30,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ colombotelegraphcom | 272
 dbsjeyarajcom | 281
 bbccomsinhala | 291
 newsfirstlk | 363
-islandlk | 1,622
+islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,577
+adalk | 2,578
 adaderanalk | 3,396
 tamilmirrorlk | 3,515
 virakesarilk | 4,590
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,000 (100.0%) of 30,000 articles have been extended.
+30,000 (100.0%) of 30,004 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -364,6 +364,20 @@ Kesbewa Emergency Death Inspector Ajith Wijesinghe was conducted by the section 
 
 ---
 
+### LOLC Savi and SLT-Mobitel Upahara join forces to enhance services for state sector employees
+
+*2024-06-12 12:39:00* · [`islandlk`](http://island.lk/lolc-savi-and-slt-mobitel-upahara-join-forces-to-enhance-services-for-state-sector-employees/) · `en`
+
+LOLC SAVI, the leading credit card solution provider for state sector employees and pensioners in Sri Lanka, is excited to announce its strategic partnership with SLT-MOBITEL, the National Information and Communications Technology (ICT) Solutions Provider. This alliance aims to revolutionize the service experience for state sector employees nationwide.
+
+As part of the joint promotion, valid until August 31, 2024, LOLC SAVI cardholders are entitled to exclusive Upahara Packages free of charge, with no connection fees. These packages include the Upahara Rs. 499/- Package, which offers 15 GB anytime data, 1000 free minutes of voice and SMS, 10 GB for learning packages, and 7.5 GB for WhatsApp, Google Maps, and Waze. Additionally, the Upahara Rs. 727/- Package offers 30 GB anytime data, 1000 free minutes of voice and SMS, 10 GB for learning packages, and 7.5 GB for WhatsApp, Google Maps, and Waze.
+
+...
+
+[Data](articles/631ed178.json)
+
+---
+
 ### A rare bird fever for a 4 -year -old child in India - World Health Organization Information
 
 *2024-06-12 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185899) · `ta`
@@ -634,11 +648,9 @@ The Central Bank of Sri Lanka (CBSL) has expressed confidence that the Internati
 
 Commenting regarding the matter, Assistant Governor of the CBSL Dr. Chandranath Amarasekara said: ““we hope IMF will announce releasing of the 3rd tranche to Sri Lanka under the EFF programme this evening”.
 
-Dr. Amarasekara made this remark while speaking during an awareness programme conducted by the CBSL in Colombo this morning (12).
+Dr. Amarasekara made this remark while speaking during an event held to brief heads of media on progress of economic reforms in the Department of Government Information (DGI) this morning (12).
 
 The International Monetary Fund’s executive board is scheduled to meet today (Juen 12) to discuss the second review of the Extended Fund Facility (EFF) and Article IV Consultation.
-
-The Article IV Consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the International Monetary Fund’s (IMF) Executive Board meeting agenda for June 12, as confirmed by Julie Kozack, the Director of the IMF Communications Department.
 
 ...
 
@@ -1215,6 +1227,22 @@ The ministry also urged Indian nationals to “exercise caution while seeking em
 [Data](articles/b00e6fcc.json)
 
 [Extended Data](ext_articles/b00e6fcc.ext.json)
+
+---
+
+### විදුලි සැර වැදී 17 හැවිරිදි රූමත් සිසුවියක් මරුට
+
+*2024-06-12 10:29:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සැර-වැදී-17-හැවිරිදි-රූමත්-සිසුවියක්-මරුට/11-410165) · `si`
+
+රෙදි මැසීමේ මෝටරයට සම්බන්ධ වයරයේ පේනුව කපා අනාරක්ෂිත අයුරින් විදුලි සම්බන්ධතාවයක් ලබා ගැනීමට උත්සාහ දැරූ 17 හැවිරිදි  රූමත් පාසල් සිසුවියක් විදුලි සැර වැදී අවාසනාවන්ත අයුරින් මියගොස් ඇතැයි පිළියන්දල පොලිසිය කියයි.
+
+මෙලෙස මියගොස් ඇත්තේ පිළියන්දල තුම්බෝවිල , දූව වත්ත පාර , 5 වෙනි පටු මඟ පදිංචිව සිටි නුගේගොඩ  මහමායා බාලිකා විද්‍යාලයේ අධ්‍යාපනය ලබන (2025 වසරේ  අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිතව සිටි)  නිශානි පියුමිකා වැන්රෝවන් සිසුවියයි.
+
+මියගිය සිසුවියගේ පියා මැලේසියාවේ හෝටලයක සේවය කරමින් සිටියදී 2023 වසරේ දෙසැම්බර් පළමුවැනි දින අභිරහස් ලෙස මියගොස් තිබූ අතර ඔහුගේ දේහය 2024 ජනවාරි 01 වෙනිදින  මෙරටට එවීමෙන් අනතුරුව ඒ වන විට විදේශගතව සිටි මවද මෙරටට පැමිණ අවමංගල කටයුතු නිමවීමෙන් අනතුරුව යළි සෞදි අරාබියේ රැකියාව සඳහා මීට මාස කිහිපයකට ඉහතදී පිටත්ව ගොස් තිබූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/9058625f.json)
 
 ---
 
@@ -2251,35 +2279,5 @@ He pointed out the importance of international cooperation to enhance bargaining
 [Data](articles/1dc64339.json)
 
 [Extended Data](ext_articles/1dc64339.ext.json)
-
----
-
-### Discussion today on electoral integrity and role of political parties
-
-*2024-06-12 01:45:33* · [`dailyftlk`](https://www.ft.lk/news/Discussion-today-on-electoral-integrity-and-role-of-political-parties/56-762962) · `en`
-
-The Centre for Investigative Reporting (CIR) will host a panel discussion titled ‘Promoting Electoral Integrity: Role of Political Parties’ today from 3 p.m. to 5 p.m. at the Sri Lanka Foundation.  The panel comprises Prof. Ranjith Bandara (SLPP), M.A. Sumanthiran PC (ITAK) Dr. Harsha de Silva (SJB), Rauff Hakeem (SLMC) and Harshana Nanayakkara (NPP). The discussion will be moderated by Amal Jayasinghe, AFP Bureau Chief for Sri Lanka and the Maldives.
-
-This is the fourth and final discussion in CIR’s dialogue series focused on electoral integrity.
-
-◼️
-
-[Data](articles/b55329b4.json)
-
-[Extended Data](ext_articles/b55329b4.ext.json)
-
----
-
-### Navigating troubled waters: Indo-Lanka fishing dispute and quest for sustainable solution
-
-*2024-06-12 01:21:52* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-troubled-waters-Indo-Lanka-fishing-dispute-and-quest-for-sustainable-solution/4-762952) · `en`
-
-The maritime dispute between India and Sri Lanka over illegal fishing by Tamil Nadu fishermen in Sri Lankan waters in the Palk Bay, the Gulf of Mannar, and the Palk Strait has reached a critical juncture. Recent incidents of Sri Lankan authorities detaining Indian fishermen for allegedly crossing the International Maritime Boundary Line (IMBL) have reignited longstanding tensions. This article will attempt to delve into the heart of the conflict simmering for many decades, explore the environmental and socio-economic impacts, and highlight the need for an urgent resolution that respects the livelihoods and traditions of Sri Lankan fishing communities in the northern, north-western, and north-eastern parts of the island while ensuring marine conservation.
-
-...
-
-[Data](articles/590e7004.json)
-
-[Extended Data](ext_articles/590e7004.ext.json)
 
 ---

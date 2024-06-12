@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 09:34:30**
+As of **2024-06-12 09:53:41**
 
 ## Newspaper Stats
 
-*Scraped **29,935** Articles*
+*Scraped **29,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,566
+adalk | 2,567
 adaderanalk | 3,382
 tamilmirrorlk | 3,505
 virakesarilk | 4,578
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,933 (100.0%) of 29,935 articles have been extended.
+29,935 (100.0%) of 29,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### கரையோர மார்க்கத்தில் ரயில் சேவைகள் பாதிப்பு
+### Impact of train services on coastal route
 
 *2024-06-12 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185875) · `ta`
 
-கட்டுகுருந்த ரயில் நிலையத்திற்கு அருகில் காலியில் இருந்து கொழும்பு நோக்கி பயணித்த சாகரிகா ரயிலில் தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளது.
+The Sagarika train's technical failure near Kattukurunda station disrupted travel between Galle and Colombo, impacting passengers' plans.
+
+🟩
+
+Sagarika train traveling from Galle to Colombo near the Kattukurunda railway station has suffered a technical failure.
 
 ◼️
 
 [Data](articles/94fe843b.json)
+
+[Extended Data](ext_articles/94fe843b.ext.json)
 
 ---
 
@@ -55,6 +61,8 @@ The ‘Sagarika’ express train has reportedly broken down due to a technical i
 ◼️
 
 [Data](articles/7a861b8f.json)
+
+[Extended Data](ext_articles/7a861b8f.ext.json)
 
 ---
 
@@ -205,6 +213,20 @@ Chief Guest Kotaro said that he was highly impressed with the property and ‘Wa
 [Data](articles/a7b3eef6.json)
 
 [Extended Data](ext_articles/a7b3eef6.ext.json)
+
+---
+
+### ලංකාවේ බලාපොරොත්තුවලට වැස්ස හරස්වෙයි
+
+*2024-06-12 08:14:11* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-බලාපොරොත්තුවලට-වැස්ස-හරස්වෙයි/9-410160) · `si`
+
+පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලිය තුළ ශ්‍රී ලංකාවට තවදුරටත් රැදී සිටිමට තිබූ බලාපොරොත්තු බොඳ කරමින් නේපාලය හා ශ්‍රී ලංකාව අතර පැවැත්වීමට නියමිතව තිබූ තරගය වර්ෂාව හේතුවෙන් එක් පන්දුවක් හෝ යොමු නෙකර අත්හැර දැමීමට සිදුවිය.මෙ අනුව ශ්‍රී ලංකාව පළමු තරග දෙකත් පරාජයට පත්වූ හෙයින් තරගාවලියේ ඊළඟ වටය සඳහා ගමන් කිරීමට තිබූ අවස්ථාවද අහිමිව ගියේය.
+
+තරගය අත්හැර දැමීම හේතුවෙන් දකුණු අප්‍රිකානු කණ්ඩායම තරගාවලියේ සුපිරි අට දෙනාගේ වටය සඳහා තේරී පත්විය.
+
+◼️
+
+[Data](articles/e01bb8e2.json)
 
 ---
 
@@ -2119,31 +2141,5 @@ Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands 
 [Data](articles/16218441.json)
 
 [Extended Data](ext_articles/16218441.ext.json)
-
----
-
-### Teacher Student Rate of 1473 schools five
-
-*2024-06-11 17:57:33* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-1473-ක-ගුරු-සිසු-අනුපාතය-එකට-පහයි/11-410149) · `si`
-
-In 2023, the Ministry of Education reported that out of 1473 government schools with fewer than 50 students each, the average teacher-student ratio was 1:1. In contrast, across all 10,126 schools nationwide, the ratio was significantly higher at approximately 24 students per teacher. This highlights a stark disparity in educational resource allocation within the country's school system.
-
-🟩
-
-It is revealed that there are 1473 schools below 50 among the government's school system in the island.
-
-The total number of students in these schools is 43986 and 8753 teachers.Accordingly, the average teacher student ratio of these schools is 5 to 5.
-
-The average number of students is nearly 4000 schools in the school.The average teacher student ratio is 24 together.
-
-There are 10126 schools in the country and the total number of students is 3969597 km, 236,738 km.
-
-This information reveals from the final report prepared by the Ministry of Education in 2023 in 2023.
-
-◼️
-
-[Data](articles/036bf136.json)
-
-[Extended Data](ext_articles/036bf136.ext.json)
 
 ---

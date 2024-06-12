@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 15:19:11**
+As of **2024-06-12 15:34:52**
 
 ## Newspaper Stats
 
-*Scraped **30,012** Articles*
+*Scraped **30,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,578
-adaderanalk | 3,398
+adaderanalk | 3,399
 tamilmirrorlk | 3,515
 virakesarilk | 4,595
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,831
+adaderanasinhalalk | 4,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,005 (100.0%) of 30,012 articles have been extended.
+30,012 (100.0%) of 30,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### Import and Export Control Regulations to be submitted for parliament approval
+
+*2024-06-12 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99833/import-and-export-control-regulations-to-be-submitted-for-parliament-approval) · `en`
+
+The Cabinet of Ministers has approved the submission of the Import and Export (Control) Regulations No. 7 of 2024, issued under the Import and Export (Control) Act No. 1 of 1969, and the Standardization and Quality Control Regulations issued under the same Act for the approval of the Parliament of Sri Lanka.
+
+According to the Import and Export (Control) Regulations No. 7 of 2024, the controlled import of motor vehicles for tourism purposes has been introduced. This follows a temporary suspension on motor vehicle imports as per the Import and Export (Control) Regulations No. 2 of 2023.
+
+In line with a proposal by the Minister of Tourism and Lands, the Cabinet has approved the import of 250 small buses and 750 vans for tourism on April 1. The new regulations aim to implement this decision, reflecting the government’s efforts to support and boost the tourism sector through regulated imports.
+
+...
+
+[Data](articles/ab14463c.json)
+
+---
+
+### ජනපති සහ සාර්ක් මහලේකම් අතර හමුවක්
+
+*2024-06-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197683) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ සාර්ක් මහලේකම් ගොලාම් සර්වාර් මහතා අතර හමුවක් අද (12) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදු විය.
+
+සාර්ක් රටවල් අතර ක්‍රියාත්මක වන විවිධ ව්‍යාපෘතිවලට අදාළව මතුවී තිබෙන ගැටලු විසඳාගැනීම පිළිබඳ මෙහිදී අවධානය යොමු කර ඇති අතර ඒ සඳහා අපක්ෂපාතීව මැදිහත් වන ලෙස ජනාධිපතිවරයා සාර්ක් මහ ලේකම්වරයාගෙන් ඉල්ලා තිබේ.
+
+මෙරට ක්‍රියාත්මක කෘෂි නවීකරණ වැඩපිළිවෙළ පිළිබඳවද මෙහිදී සාකච්ඡා වී ඇති අතර එහිදී සාර්ක් රටවලින් ලබාගත හැකි සහාය පිළිබඳව ද අවධානය යොමුකර ඇත.
+
+ශ්‍රී ලංකාවේ සාර්ක් සංස්කෘතික මධ්‍යස්ථානය මොඩර්න් ආර්ට් සඳහා සංවර්ධනය කිරීම පිළිබඳව ද සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ඇතුළු නිලධාරින් පිරිසක් මෙම අවස්ථාවට එක්වී තිබේ.
+
+◼️
+
+[Data](articles/2d139418.json)
+
+---
 
 ### Sri Lanka calls on Global South to collectively address climate change, debt burden & food security
 
@@ -45,6 +81,8 @@ The Foreign Minister highlighted that voices and interests of emerging economies
 ...
 
 [Data](articles/2b3360bd.json)
+
+[Extended Data](ext_articles/2b3360bd.ext.json)
 
 ---
 
@@ -68,21 +106,33 @@ After hearing the girl’s screams, a neighbour had rushed to help and proceeded
 
 [Data](articles/8d37d29c.json)
 
+[Extended Data](ext_articles/8d37d29c.ext.json)
+
 ---
 
-### சட்ட விரோத, சமூக விரோத செயல்களின் எண்ணங்களுக்கு உருவம் கொடுக்கும் 'பயமறியா பிரம்மை'
+### The 'fearlessness', which is the image of the thoughts of illegal and anti -social activities
 
 *2024-06-12 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185906) · `ta`
 
-நடிகர் ஜேடி கதையின் நாயகர்களில் ஒருவராக அழுத்தமான வேதத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதனை இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான விஜய் அண்டனி அவருடைய சமூக வலைதளப் பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+The teaser for "Pathiyamaria Prama," featuring actor Jedi, has sparked interest due to its depiction of fearlessness in illegal and antisocial acts. Directed by Rahul Kabali and produced by 69MM Film, the movie includes performances from Guru Somasundaram, Harish Uthaman, John Vijay, among others. Composed by Nanda and Praveen, the film's storyline, revolving around powerful forces being punished, resonates with audiences, generating anticipation for its release.
 
-அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஹரிஷ் உத்தமன், ஜான் விஜய், வினோத் சாகர், சாய் பிரியங்கா ரூத், விஸ்வாந்த், ஹரிஷ், திவ்யா கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-நந்தா மற்றும் பிரவீண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை 69 எம் எம் ஃபிலிம் எனும் நிறுவனம் தயாரித்திருக்கிறது.
+The teaser of the movie 'Pathiyamaria Prama' has been released as one of the heroes of actor Jedi story.. The composer and leading star actor Vijay Antony posted it on his social network and congratulated the film crew.
 
-...
+Jedi, Guru Somasundaram, Harish Uthaman, John Vijay, Vinod Sagar, Sai Priyanka Ruth, Vishwant, Harish, Divya Ganesh, directed by debutant director Rahul Kabali.
+
+Nanda and Praveen have composed the film for the film. The film was produced by 69MM Film.
+
+The first look of the film was recently released. In this case, the teaser of the film has been released. In this teaser, when the powerful forces of the mighty obey and punished at various levels in life, the victims should be killed in the minds of the victims.
+
+The story of the film has been very impressed with all fans as it is in shape to the thoughts of such anti -social and illegal activities.. It has also created anticipation of the film.
+
+◼️
 
 [Data](articles/e513e3a6.json)
+
+[Extended Data](ext_articles/e513e3a6.ext.json)
 
 ---
 
@@ -114,39 +164,55 @@ The final will be held on the 17th against the Netherlands to attend the Netherl
 
 ---
 
-### காணாமலாக்கப்பட்டோர் பிரச்சினைக்காக குரல் கொடுப்போம் - எரான் விக்கிரமரட்ண
+### We will give voice to the missing persons - Eran Wickremaratna
 
 *2024-06-12 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185913) · `ta`
 
-யுத்தம் நடந்த பிரதேசத்தில் காணாமலாக்கப்பட்டோர் பிரச்சினை தொடர்பில் எந்த நடவடிக்கையும் முன்னெடுக்கபடவில்லை. அதற்காக நாம் தொடர்ந்து குரல் கொடுப்போம் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+Eran Wickremaratne, a United People's Power MP, highlighted the ongoing issues of missing persons and basic amenities like water and education in war-torn areas. He pledged continued advocacy for these issues and mentioned plans to implement the 13th Amendment, despite challenges, asserting leadership support from Sajith Premadasa. The National People's Power also expressed support for the amendment's implementation, marking a significant step after 35 years.
 
-யாழ்ப்பாணத்தில் நேற்று செவ்வாய்க்கிழமை (11) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-யாழ். நகரின் தீவு பகுதியியின் போக்குவரத்து, மக்களின் கல்வி நிலை அடிப்படை வசதிகளில் ஒன்றான தண்ணீர் பிரச்சினை இன்றும் இந்த ஆட்சியில் தொடர்ந்து கொண்டிருக்கிறது.
+No action has been taken on the issue of missing persons in the war -torn area. United People's Power MP Eran Wickremaratne said that we will continue to voice for it.
 
-யுத்தம் நடந்த பிரதேசம் காணாமலாக்கபட்டவர் பிரச்சினை தொடர்பில் இங்கு எந்த நடவடிக்கையும் முன்னெடுக்கபடவில்லை. அதன் அடிப்படையில் நாம் தொடர்ந்து அதற்காக குரல் கொடுப்போம்.
+He said this during a media briefing held in Jaffna yesterday (11).
 
-13 ஆவது திருத்தச் சட்டத்தினை நடைமுறைபடுத்துவோம். நாட்டிலுள்ள சட்டத்தினை நடைமுறைபடுத்துவது இவ்வளவு பிரச்சினையாக இருந்தால் அதனை நிச்சயமாக நாம் நடைமுறைபடுத்துவோம்.
+Yall. The water issue, one of the basic amenities of the city's island and the educational facilities of the people, continues in this regime.
+
+No action has been taken on the issue of the missing person. Based on that, we will continue to voice it.
+
+We will implement the 13th Amendment. If the implementation of the law in the country is so much problem, we will certainly implement it.
+
+Our leader Sajith Premadasa will definitely carry out it. Now there is an imperialist state. Has authority in the hands of the president. We are implementing the 13th Amendment as Land Police Power.
+
+The National People's Power led by Anura Kumara has said that the 13th Amendment is implemented. We welcome this. It took about 35 years for them to arrive at this place.
 
 ...
 
 [Data](articles/c4d594ca.json)
 
+[Extended Data](ext_articles/c4d594ca.ext.json)
+
 ---
 
-### கிழக்கு மாகாணத்தில் குறைவான மட்டத்தில் கணினி அறிவு வளர்ச்சி வீதம் !
+### System Knowledge Growth Rate at Low level in the Eastern Province!
 
 *2024-06-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185910) · `ta`
 
-நாட்டில் கிழக்கு மாகாணத்தில் குறைவான மட்டத்தில் கணினி அறிவு வளர்ச்சி வீதம் பதிவாகியுள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+In the Eastern Province, computer knowledge growth is noted but lower than in the Western Province. Nationally, it rose to 39% among 5 to 69-year-olds.
 
-அத்துடன், மேல்மாகாணத்தில் கணினி அறிவு உயர்வான மட்டத்தில் உள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இந்நிலையில், நாட்டில் 5 முதல் 69 வயதுக்குட்பட்டவர்களின் கணினி அறிவு 39 வீதமாக உயர்வடைந்துள்ளதாக தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் மேலும் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The Department of Commerce and Statistics said that the development rate of computer knowledge has been recorded in the Eastern Province in the Eastern Province.
+
+The Department of Commerce and Statistics said that the computer knowledge is at a high level in the Western Province.
+
+The Department of Commerce and Statistics said that the computer knowledge of the 5 to 69 years in the country has risen to 39 percent.
 
 ◼️
 
 [Data](articles/6d258115.json)
+
+[Extended Data](ext_articles/6d258115.ext.json)
 
 ---
 
@@ -218,33 +284,45 @@ Speaking to reporters after the verdict, US President Bidan said that he would a
 
 ---
 
-### வரலாறு : 'போர் எனும் அரக்கன் புகையாக வந்தனனோ?' - 1967 ஜூன் 12 வீரகேசரியில்...
+### History: 'Did the monster of war come as a smoke?'- June 12, 1967 ...
 
 *2024-06-12 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185907) · `ta`
 
-இஸ்ரேல் - அரபு நாடுகளுக்கிடையிலான யுத்த காட்சிகளை எடுத்துக்காட்டும் மிரளவைக்கும் புகைப்படங்களை முகப்பில் சுமந்தபடி, 1967ஆம் ஆண்டு இதே திகதியில் (ஜூன் 12) 'போர் எனும் அரக்கன் புகையாக வந்தனனோ?' எனும் தலையங்கத்துடன் வீரகேசரி பத்திரிகை வெளியானது.
+On June 12, 1967, the onset of war was marked by bombings and confrontations between Israel and Arab nations. The "monster of war" metaphorically emerged through the publication of war-torn images from Israel-Arab conflicts, including the destruction of a Jordanian military camp and an Egyptian military vehicle near Gaza. This day also saw the visitation of Egyptian villagers to an Israeli plane crash site in the Nile River, highlighting the immediate impact of the conflict on both sides.
 
-* 1967இல் ஜூன் மாத ஆரம்ப நாட்களில் ஜெருசலேமில் இஸ்ரேலிய படைகளின் குண்டுவீச்சுத் தாக்குதலில் ஜோர்தான் இராணுவ முகாமொன்று தீக்கிரையாகி, அப்பகுதியே புகை மண்டலமாக காணப்பட்டது.
+🟩
 
-* நைல் நதிப் பகுதியில் சுட்டு வீழ்த்தப்பட்ட இஸ்ரேலிய விமானமொன்றின் சிதைந்த பாகத்தை எகிப்திய கிராமவாசிகள் மற்றும் பாதுகாப்பு அதிகாரிகள் பார்வையிட்டனர்.
+On the same date of 1967 (June 12), the monster of war came up with the face of the war -torn photos of Israel -Arab countries? 'Veerakesari magazine was published with an editorial.
 
-* இஸ்ரேலியரின் குண்டுவீச்சுத் தாக்குதலால் காஸாவுக்கு செல்லும் பாதையில் எகிப்திய இராணுவ லொறியொன்று தீயில் எரிந்து சாம்பலானது......
+* In the early days of June 1967, a Jordan military camp was set on fire in the Israeli forces' bomb blasts in Jerusalem.
+
+* Egyptian villagers and security officials visited the corrupted part of an Israeli plane that was shot down in the Nile River.
+
+* An Egyptian military lorry on the road to Gaza on the road to Gaza due to the bombing of Israel
 
 ◼️
 
 [Data](articles/0653b261.json)
 
+[Extended Data](ext_articles/0653b261.ext.json)
+
 ---
 
-### இன்றிரவு முதல் தபால் ஊழியர்கள் பணிப்புறக்கணிப்பு
+### Postal staff workforce from tonight
 
 *2024-06-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185905) · `ta`
 
-தபால் சேவையில் 6,000க்கும் மேற்பட்ட ஊழியர் வெற்றிடங்களை நிரப்பத் தவறியதால் தபால் ஊழியர்கள்  பணிப்புறக்கணிப்பை முன்னெடுக்க தீர்மானித்துள்ளனர்.அதன்படி,  இன்று புதன்கிழமை (12) இரவு முதல் 24 மணித்தியால பணிப்புறக்கணிப்பு முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியின் ஒருங்கிணைப்பாளர் சிந்தக பண்டார தெரிவித்துள்ளார்.
+Over 6,000 postal service employees will work overtime starting tonight due to a shortage of replacements for vacant positions.
+
+🟩
+
+The postal workers have decided to carry out the workforce as more than 6,000 employees in the postal service have failed to fill the vacancies.
 
 ◼️
 
 [Data](articles/03494ce3.json)
+
+[Extended Data](ext_articles/03494ce3.ext.json)
 
 ---
 
@@ -2231,49 +2309,5 @@ In its press release, the NMSJ stressed the importance of tackling these issues 
 [Data](articles/dfd1aef7.json)
 
 [Extended Data](ext_articles/dfd1aef7.ext.json)
-
----
-
-### Future NPP Govt. to enlist Ravi and Shani to probe financial frauds
-
-*2024-06-12 01:57:31* · [`dailyftlk`](https://www.ft.lk/news/Future-NPP-Govt-to-enlist-Ravi-and-Shani-to-probe-financial-frauds/56-762972) · `en`
-
-NPP’s Dr. Nalinda Jayatissa says decision by SDIG Ravi Seneviratne and SSP Shani Abeysekara to support NPP has unsettled certain individuals
-
-Claims Govt. and SJB attempted to dissuade two top cops from joining NPP
-
-Maintains a future NPP Govt. will obtain their support to probe financial frauds and unsolved crimes
-
-National People’s Power (NPP) Executive Council member Dr. Nalinda Jayatissa announced yesterday that the party plans to enlist the support of former top Police officers, Senior DIG Ravi Seneviratne and SSP Shani Abeysekara, to investigate financial frauds under an NPP-led Government.
-
-Seneviratne and Abeysekara recently extended their support to the NPP with Seneviratne taking over as the head of NPP’s Retired Police Collective.
-
-Speaking to the media Dr. Jayatissa emphasised that both officers are distinguished former Police officials, and the NPP will seek their expertise to launch investigations into large-scale frauds and unsolved crimes, including killings.
-
-...
-
-[Data](articles/bc8c5824.json)
-
-[Extended Data](ext_articles/bc8c5824.ext.json)
-
----
-
-### Sabry meets with Russian Foreign Minister
-
-*2024-06-12 01:56:53* · [`dailyftlk`](https://www.ft.lk/news/Sabry-meets-with-Russian-Foreign-Minister/56-762971) · `en`
-
-Foreign Minister Ali Sabry who is currently in Russia to participate in the BRICS 2024 Foreign Ministerial Session with developing countries had a bilateral meeting with Russian Foreign Minister Sergey Lavrov on Monday.
-
-During the meeting, the two foreign ministers agreed to further enhance bilateral ties, including in the spheres of tourism, higher education, and economic cooperation.
-
-Minister Sabry, during the meeting, brought to the attention of his Russian counterpart the issue of Sri Lankan citizens who have joined the Russian Armed Forces and sought his assistance in resolving the issues encountered by them.
-
-In this regard, it was agreed that the forthcoming meeting that is scheduled on 26-27 June between the Sri Lankan high-level delegation led by State Minister of Foreign Affairs Tharaka Balasuriya and the Deputy Minister of Defence of the Russian Federation, will review these issues in detail and take suitable action to arrest the situation.
-
-...
-
-[Data](articles/16f41368.json)
-
-[Extended Data](ext_articles/16f41368.ext.json)
 
 ---

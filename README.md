@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 09:19:01**
+As of **2024-06-12 09:34:30**
 
 ## Newspaper Stats
 
-*Scraped **29,933** Articles*
+*Scraped **29,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,566
-adaderanalk | 3,381
+adaderanalk | 3,382
 tamilmirrorlk | 3,505
-virakesarilk | 4,577
+virakesarilk | 4,578
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,817
 
@@ -26,37 +26,75 @@ adaderanasinhalalk | 4,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,931 (100.0%) of 29,933 articles have been extended.
+29,933 (100.0%) of 29,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### මුහුදුබඩ දුම්රිය ප්‍රමාදයක්
+### கரையோர மார்க்கத்தில் ரயில் சேவைகள் பாதிப்பு
+
+*2024-06-12 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185875) · `ta`
+
+கட்டுகுருந்த ரயில் நிலையத்திற்கு அருகில் காலியில் இருந்து கொழும்பு நோக்கி பயணித்த சாகரிகா ரயிலில் தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/94fe843b.json)
+
+---
+
+### Trains delayed on coastal line as ‘Sagarika’ breaks down
+
+*2024-06-12 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99817/trains-delayed-on-coastal-line-as-sagarika-breaks-down) · `en`
+
+The ‘Sagarika’ train has suffered a breakdown at Kalutara, leading to significant delays along the coastal railway line, according to Sri Lanka Railways.
+
+The ‘Sagarika’ express train has reportedly broken down due to a technical issue between Kalutara South and Katukurunda railway stations.
+
+◼️
+
+[Data](articles/7a861b8f.json)
+
+---
+
+### A coastal train delay
 
 *2024-06-12 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197668) · `si`
 
-මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුව ඇතැයි දුම්රිය පාලක මැදිරිය දැනුම් දී තිබේ.
+A coastal train is delayed due to interruptions at Kalutara South and Katunagun railway stations. The Railway Control Room has been notified.
 
-කළුතර දකුණ දුම්රිය ස්ථානයේ සහ කටුකරුන්ද දුම්රිය ස්ථාන අතර සාගරිකා ශීඝ්‍රගාමී දුම්රිය කාර්මික දෝෂයකට ලක්වීම හේතුවෙන් මෙලෙස දුම්රිය ධාවනයට බාධා ඇතිව තිබේ.
+🟩
+
+The Railway Control Room has been informed that a train on the coastal is a delay in the coastal.
+
+The train operation has been interrupted due to the railway train in Kalutara South Railway Station and Katunangun railway stations.
 
 ◼️
 
 [Data](articles/488008d0.json)
 
+[Extended Data](ext_articles/488008d0.ext.json)
+
 ---
 
-### சாகரிகாவால் கரையோர புகையிரத சேவை தடைப்பட்டது
+### Coastal Railway Service is blocked by Sagariga
 
 *2024-06-12 08:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாகரிகாவால்-கரையோர-புகையிரத-சேவை-தடைப்பட்டது/175-338795) · `ta`
 
-காலியில் இருந்து கொழும்பு நோக்கி பயணித்த சாகரிகா புகையிரதம் கட்டுகுருந்து புகையிரத நிலையத்திற்கு அருகில் தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+The Coastal Railway Service between Galle and Colombo is halted due to a technical issue near the station, causing inconvenience to numerous passengers.
 
-இதனால், கரையோர புகையிரத சேவை தடைபட்டுள்ளதுடன், பயணிகள் பலர் சிரமத்திற்கு ஆளாகியுள்ளனர் எனவும் தெரிவிக்கப்படுகின்றது. R
+🟩
+
+It is reported that the train from Galle to Colombo has been reported to have a technical failure near the railway station.
+
+As a result, the coastal train service has been blocked and many passengers are in trouble.. Remble
 
 ◼️
 
 [Data](articles/52702e65.json)
+
+[Extended Data](ext_articles/52702e65.ext.json)
 
 ---
 
@@ -2107,45 +2145,5 @@ This information reveals from the final report prepared by the Ministry of Educa
 [Data](articles/036bf136.json)
 
 [Extended Data](ext_articles/036bf136.ext.json)
-
----
-
-### CEB submits proposals on electricity tariff revision to PUCSL
-
-*2024-06-11 17:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-submits-proposals-on-electricity-tariff-revision-to-PUCSL/108-284615) · `en`
-
-Colombo, June 11 (Daily Mirror)- The Ceylon Electiricity Board (CEB) last Friday submitted its proposal to the Pupblic Utility Commission of Sri Lanka (PUCSL) for the tariff revision from July 2024, Power and Energy Minister Kanchana Wijesekara said.
-
-He said on X that the PUCSL will determine the final tariffs after evaluation of the proposal and a public consultation.
-
-The proposal for energy charges for the Domestic sector, Religious sector, General Purpose and Government Buildings sectors are as follows:
-
-◼️
-
-[Data](articles/00c898ce.json)
-
-[Extended Data](ext_articles/00c898ce.ext.json)
-
----
-
-### Sri Lanka planters demand justice after Minister storms estate, drunken gang takes staff hostage
-
-*2024-06-11 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-planters-demand-justice-after-minister-storms-estate-drunken-gang-takes-staff-hostage-167504/) · `en`
-
-ECONOMYNEXT – Managers of Sri Lanka’s private plantations have called for justice after a cabinet minister stormed an estate demanding the re-instatement of suspended workers who had assaulted people involved in crop diversification.
-
-Plantations Infrastructure Minister Jeevan Thondaman’s entry to an estate and threats against Kelani Valley Plantations staff were broadcast over national TV and social media.
-
-Minister Thondaman and a drunken gang had stormed Pedro Estate of Kelani Valley Plantations where the firm’s Chief Executive had gone after a meeting at the Nuwara Eliya Assistant Comissioner of Labour, the Planters’ Association said in a statement.
-
-Sri Lanka’s Television stations had also broadcast visuals of Minister Thondaman shouting and making staff at a factory stop work and leave.
-
-Previously, a gang had surrounded the Labour Office where a meeting was taking place regarding the suspended workers, the PA said.
-
-...
-
-[Data](articles/d83424cb.json)
-
-[Extended Data](ext_articles/d83424cb.ext.json)
 
 ---

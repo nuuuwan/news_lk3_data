@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 16:52:08**
+As of **2024-06-12 17:04:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,023 (100.0%) of 30,030 articles have been extended.
+30,030 (100.0%) of 30,030 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,41 +36,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-06-12 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99838/three-dead-several-injured-in-bus-van-collision-at-wagama) · `en`
 
-Three members of the same family have reportedly been killed and several others have been injured after a van and a passenger transport bus collided at the Wagama area along the Bibila - Mahiyanganaya road today (12).
+Three persons have reportedly been killed and several others have been injured after a van and a private passenger transport bus collided head-on at the Wagama area along the Bibila - Mahiyanganaya road today (12).
+
+Ada Derana reporter said the three deceased are members of the same family.
 
 ◼️
 
 [Data](articles/20a68d4e.json)
 
+[Extended Data](ext_articles/20a68d4e.ext.json)
+
 ---
 
-### රිය අනතුරකින් එකම පවුලේ තිදෙනෙක් මරුට
+### Three dead in one family in accident
 
 *2024-06-12 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197687) · `si`
 
-වෑන් රථයක් හා පෞද්ගලික බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් අද (12) පස්වරුවේ මාරක අනතුරක් සිදුවී තිබේ.
+In a tragic accident today, three members of the same family died when a van collided with a private bus on the Bibila-Mahiyanganaya main road near Wagama.
 
-බිබිල - මහියංගනය ප්‍රධාන මාර්ගයේ වෑගම ප්‍රදේශයේදී මෙම අනතුර සිදුවී තිබුණි.
+🟩
+
+A fatal accident occurred this afternoon following a van and a private bus collide.
+
+The accident had occurred in the Wagama area on the Bibila and Mahiyanganaya main road.
 
 ◼️
 
 [Data](articles/d2be028b.json)
 
+[Extended Data](ext_articles/d2be028b.ext.json)
+
 ---
 
-### வயரை அறுத்த மாணவி மின்சாரம் தாக்கி மரணம்
+### The woman who cut the wire is electrocuted
 
 *2024-06-12 16:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயரை-அறுத்த-மாணவி-மின்சாரம்-தாக்கி-மரணம்/175-338820) · `ta`
 
-தையல் இயந்திரத்தின் மோட்டாருடன் இணைக்கப்பட்ட  வயரின் செருகியை அறுத்து, பாதுகாப்பற்ற முறையில் மின் இணைப்பைப் பெற முற்பட்ட 17 வயதுடைய பாடசாலை மாணவி ஒருவர் மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+Nishani Pumika Venrovan, a 17-year-old from Mahamaiah Girls College, died after touching an unsecured electrical wire while attempting to connect it to a sewing machine. The incident occurred at her home in Piliyandala. An autopsy will be conducted at Kalubowila Teaching Hospital as part of the ongoing police investigation.
 
-பிலியந்தலை தும்போவில, துவாவத்த வீதி, 5வது லேன், பிரதேசத்தை சேர்ந்த , நுகேகொட மஹாமாயா பெண்கள் கல்லூரியில் கல்வி கற்கும்  நிஷானி பியூமிகா வென்ரோவன் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-உயிரிழந்த மாணவியின் பிரேத பரிசோதனை களுபோவில போதனா வைத்தியசாலையில் மேற்கொள்ளப்படவுள்ளதுடன் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டுள்ளனர் .
+A 17 -year -old schoolgirl who was trying to get an unsafe power connection to the plug -and -a -half -attached wire connected to a sewing machine has been killed by electricity, police said.
+
+The deceased is Nishani Pumika Venrovan, who is educated at the Mahamaiah Girls College, Nugeendala, Duwatta Road, 5th Lane, Piliyandala.
+
+An autopsy of the deceased student is to be carried out at the Kalubowila Teaching Hospital and further investigations into the incident are being carried out by the police.
 
 ◼️
 
 [Data](articles/5e5c3447.json)
+
+[Extended Data](ext_articles/5e5c3447.ext.json)
 
 ---
 
@@ -92,6 +108,8 @@ President’s Secretary Saman Ekanayake and a group of officials were present at
 
 [Data](articles/1cda57a1.json)
 
+[Extended Data](ext_articles/1cda57a1.ext.json)
+
 ---
 
 ### New Immigration Bill to be presented to Parliament
@@ -109,6 +127,8 @@ Accordingly, the proposal made by the Minister of Public Security Tiran Alles to
 ◼️
 
 [Data](articles/c6b7a247.json)
+
+[Extended Data](ext_articles/c6b7a247.ext.json)
 
 ---
 
@@ -134,21 +154,27 @@ Umapati Ramaiah, the son of director and actor Thambi Ramaiah, made his debut as
 
 ---
 
-### ප්‍රංශය නැළවූ ගායිකාව ජීවිතයෙන් සමුගනී
+### The singer of France is saying goodbye
 
 *2024-06-12 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197686) · `si`
 
-ප්‍රංශයෙන් බිහිවූ ජනප්‍රිය ගායිකාවක් මෙන්ම ගීත රචිකාවක් වූ ෆ්රැන්කොයි හාඩි ජිවිතක්ෂයට පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Frankyy Hary, a renowned French singer and songwriter who entered the music scene in 1962, has passed away. Her son, Thomas Dutronck, announced this tragic news on social media. Known as a key figure in France's pop music scene, Hardy will be deeply missed.
 
-"අම්මා ගියා", ඇයගේ පුත්‍රයා වන තෝමස් ඩියුට්‍රොන්ක් සමාජ මාධ්‍ය සටහනක් තබමින් පැවසීය.
+🟩
 
-සංගීත ක්ෂේත්‍රයට 1962 වසරේදී එක්වූ හාර්ඩි ට ප්‍රංශයේ සංගීත ක්ෂේත්‍රයේ කීර්තිමත් චරිතයක් බවට කෙටි කලකදී පත්වූවාය.
+Foreign media reports that a popular singer and songwriting in France, Frankyy Hary, is killed.
 
-ප්‍රංශයේ ප්‍රකට වූ Yé-yé (yeah yeah) පොප් ව්‍යාපාරයේ ප්‍රමුඛ චරිතයක් වූයේ ඇයයි.
+"Mom went," Thomas Dutronck, her son, told a social media note.
+
+In 1962, Hardy joined in 1962 to the music industry was shortened in the music industry in France.
+
+She was a prominent figure of the pop-yeah population of France.
 
 ◼️
 
 [Data](articles/834ea1d2.json)
+
+[Extended Data](ext_articles/834ea1d2.ext.json)
 
 ---
 
@@ -169,6 +195,8 @@ The fire was reported to authorities at 6:00 a.m. local time (0300 GMT), Major G
 ...
 
 [Data](articles/c5862945.json)
+
+[Extended Data](ext_articles/c5862945.ext.json)
 
 ---
 

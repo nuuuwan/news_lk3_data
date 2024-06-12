@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 19:34:24**
+As of **2024-06-12 19:52:36**
 
 ## Newspaper Stats
 
-*Scraped **30,058** Articles*
+*Scraped **30,060** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 272
+colombotelegraphcom | 273
 dbsjeyarajcom | 281
 bbccomsinhala | 293
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,584
-adaderanalk | 3,405
+adaderanalk | 3,406
 tamilmirrorlk | 3,520
 virakesarilk | 4,600
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,056 (100.0%) of 30,058 articles have been extended.
+30,058 (100.0%) of 30,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### CBSL to regulate Money or Value Transfer Service providers in Sri Lanka
+
+*2024-06-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99842/cbsl-to-regulate-and-money-or-value-transfer-service-providers-in-sri-lanka) · `en`
+
+The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulatory and supervisory authority of Money or Value Transfer Service (MVTS) providers in Sri Lanka, effective from June 03, 2024.
+
+“Currently, institutions providing money transfer services in Sri Lanka such as banks and nonbank financial institutions, are regulated by the Central Bank of Sri Lanka (CBSL) or other relevant authorities to ensure financial system stability. However, some entities providing similar services operate outside the formal system, potentially disrupting the money transfer system and not being subject to Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) regulatory framework”, the CBSL said in a statement.
+
+...
+
+[Data](articles/2596a42f.json)
+
+---
 
 ### Another petition of the election
 
@@ -84,21 +98,29 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 
 ---
 
-### පොසොන් පොහොයට මිහින්තලේට නොමිලයේ දුම්රිය සේවයක්
+### Railway service for Poson Poya
 
 *2024-06-12 17:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පොහොයට-මිහින්තලේට-නොමිලයේ-දුම්රිය-සේවයක්/11-410176) · `si`
 
-පොසොන් පොහොය නිමිති කරගෙන මිහින්තලය වෙත පැමිණෙන බැතිමතුන් වෙනුවෙන් විශේෂ දුම්රිය සේවාවක් ආරම්භ කිරීමට කටයුතු කරන බව ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය, කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කරයි.
+Transport Ministers announced a special train service for devotees traveling to Mihintale during Poson Poya, facilitated by the reorganization of the Anuradhapura railway line. This initiative, aimed at enhancing religious tourism, includes the use of 40 special buses from the Northern Railways. The service is set to commence ahead of the Poson festival, ensuring convenient transportation for visitors.
 
-ඒ මහතා මේ බව ප්‍රකාශ කළේ, අද (12) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී ය.
+🟩
 
-එවකට ජනාධිපතිවරයාව සිටි රණසිංහ ප්‍රේමදාස මහතා විසින් ඉදිකිරීම් කර අත්හැර දමා තිබූ මෙම දුම්රිය මාර්ගය සම්පුර්ණයෙන්ම ප්‍රතිසංවිධානය කිරීමට පියවර ගත් බවත්, මේ වන විට එහි අවසන් අදියර වෙත පැමිණ තිබෙන බවත් ඒ අනුව, අනුරාධපුරයේ සිට මිහින්තලය දුම්රිය නැවතුම්පොළ දක්වා නව  කෙටි දුර ධාවන දුම්රිය මාර්ගයක් ඉදි කර තිබෙන බවත්, අමාත්‍යවරයා පැවසීය.
+Cabinet Minister of Transport and Highways, Cabinet Minister of Mass Media, Minister of Mass Media, Minister of Mass Media and Highways will commence a special train service for devotees visiting the Mihintale.
 
-වසර ගණනාවකට පසු සිදුකෙරෙන උතුරු දුම්රිය මාර්ග ප්‍රතිසංවිධාන කටයුතු හේතුවෙන් මෙවර අනුරාධපුරය වන්දනා කිරීමට මඟීන්ට දුම්රිය භාවිතා කිරීමට නොහැකි වන බැවින් ඒ වෙනුවෙන් විශේෂ බස්රථ පමණක් 400ක් අතිරේකව යෙදවීමට කටයුතු කරන බව ද හෙතෙම පැවසීය.
+He was speaking at a press conference to inform the Cabinet decisions held at the Government Information Department today.
 
-...
+The railway line was to be reorganized by Anuradhapura, the last stage of the then president, had come to the final stage.The Minister said.
+
+He added that the train will be used to use 40 special buses to worship Anuradhapura due to the work of the Northern Railways.
+
+Accordingly, before the Poson festival, the railway department has instructed the Railway Department to run a special train to the Mihintale from Anuradhapura to Mihintale.
+
+◼️
 
 [Data](articles/25330dea.json)
+
+[Extended Data](ext_articles/25330dea.ext.json)
 
 ---
 
@@ -188,15 +210,13 @@ The accident had occurred when the accident was running from a garage in Mahija 
 
 *2024-06-12 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99839/easter-attacks-inquiry-committee-appointed-to-probe-actions-taken-on-prior-intelligence) · `en`
 
-A Committee of Inquiry has been appointed to investigate into the actions of the State Intelligence Service (SIS), Chief of National Intelligence (CNI) and other authorities regarding prior intelligence received on the Easter Sunday terror attacks.
+President Ranil Wickremesinghe has appointed a Committee of Inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on April 21, 2019.
 
-The committee led by retired Judge Ms A.N.J. De Alwis was appointed by President Ranil Wickremesinghe, President’s Media Division (PMD) said.
+This decision follows the findings of the Final Report of the Commission of Inquiry, dated January 31, 2021, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
 
-Meanwhile, it will assess responses based on Indian agency intel and investigate THE Directorate of Military Intelligence’s (DMI) initial LTTE link to Vavunathivu killings.
+The Committee of Inquiry will be chaired by Ms. A.N.J. De Alwis, Retired Judge of the High Court. Other esteemed members of the committee include SLAS special grade Officer Ms. K.N.K. Somaratne and Senior Lawyer Mr. W.M.A.N. Nishane, AAL. The committee’s mandate includes examining whether adequate actions and measures were taken by the SIS, CNI, and other relevant authorities based on the prior intelligence and evaluating the sufficiency of these measures.
 
-The findings of the Committee of Inquiry are due by September 15, 2024, according to the PMD.
-
-◼️
+...
 
 [Data](articles/e39f0590.json)
 
@@ -1002,6 +1022,18 @@ The Department of Commerce and Statistics said that the computer knowledge of th
 
 ---
 
+### Historic Crimes Of The Chauvinistic Left: Why Defending Marxist Position Is Important
+
+*2024-06-12 14:00:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left-why-defending-marxist-position-is-important/) · `en`
+
+Developing a class position in relation to nationalities has remained a crucial aspect of the political programme of the left, one fraught with complications since the inception of the first international. The ability of competing nation-states and the bourgeois class to mobilize on the basis of nationalism has continually posed challenges to establishing class solidarity and breaking the grip of capitalist ideology on the working class. VI Lenin played a significant role in clarifying a Marxist position on this matter during his time with the Russian Social Democratic Labour Party (RSDLP). At the 1903 congress of the RSDLP, point 9 of the party’s programme addressed the national question, sparking a heated debate that resulted in numerous clarifications. Since then, various debates and discussions have ensued among the left on this issue, with the Leninist position enduring various historical challenges.
+
+...
+
+[Data](articles/31f9ed99.json)
+
+---
+
 ### If sexually harassed in public places
 
 *2024-06-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197681) · `si`
@@ -1262,23 +1294,29 @@ As a result, the train was uncomfortable.
 
 ---
 
-### වතු කම්කරුවන්ගේ වැටුප : 'ආණ්ඩුවෙන් සල්ලි දුන්නොත් අපිටත් ගෙවන්න පුළුවන්.'
+### Salary of Estate Workers: 'We can pay for money from the government.'
 
 *2024-06-12 13:09:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce44vvy5j84o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''රජයේ වතු සමාගම්වල EPF / ETF අවුරුදු 40කින් විතර ගෙවල නෑ''
+Estate workers' salaries may be funded by the government, as suggested by Roshan, a media spokesperson. However, due to productivity concerns, it's unclear if wages will reach Rs. 1700. This was discussed during a press conference by Minister Ranjith Siyambalapitiya, focusing on plantation enterprise development.
 
-වතු කම්කරුවන්ගේ වැටුප : 'ආණ්ඩුවෙන් සල්ලි දුන්නොත් අපිටත් ගෙවන්න පුළුවන්.'
+🟩
 
-වතු කම්කරුවන්ගේ දෛනික වැටුප රුපියල් 1700ක දක්වා වැඩි කිරීම, ඉදිරියේ දී ලැබෙන අභියාචනාධිකරණයේ සහ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දු මත කටයුතු කරන බව  වතු හාම්පුතුන්ගේ සංගමයේ මාධ්‍ය ප්‍රකාශක රොෂාන් රජතුරෙයි BBC සිංහල සේවයට පැවසුවේය.
+None contains none of the Fource Foreign Head, '' No 40 years of government estate companies'
 
-නිෂ්පාදන වියදම සහ අනෙකුත් තත්ත්වයන් සැලකීමේ දී දැනට 1700 ගෙවීමට හැකියාවක් නොමැති අතර වැටුප් වැඩි කිරීම සඳහා පදනම් කර ගතයුත්තේ පැමිණීම නොව ඵලදායිතාව බව ද ඔහු සඳහන් කළේය.
+Salary of Estate Workers: 'We can pay for money from the government.'
 
-කෙසේ වෙතත් රජයට අයත් වැවිලි සමාගම් 1700 ලබාදෙන බවත් අනෙක් සමාගම්වලට ගෙවිය නොහැකි නම් ඊට හේතු සොයා බැලීමට සහ සාකච්ඡා කිරීමට සුදානම් බව රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ අමාත්‍ය රන්ජිත් සියඹලාපිටිය අද (ජුනි 12) කොළඹ පැවති මාධ්‍ය හමුවක දී කියා සිටියේය.
+Roshan, a media spokesman, told the BBC Sinhala service, to increase the daily wage of plantation workers to Rs.
+
+He added that the productivity is not possible to pay 1700, not to pay 1700, but also based on salary increases.
+
+However, Minister of Plantation Enterprise Development Minister Ranjith Siyambalapitiya stated that Minister Ranjith Siyambalapitiya held at a press conference held in Colombo today (June 12).
 
 ◼️
 
 [Data](articles/165dcb90.json)
+
+[Extended Data](ext_articles/165dcb90.ext.json)
 
 ---
 
@@ -2285,49 +2323,5 @@ In order to visit the Minneriya National Park to visit the Minneriya National Pa
 [Data](articles/457a88a3.json)
 
 [Extended Data](ext_articles/457a88a3.ext.json)
-
----
-
-### Presidential election results will determine the country's success and defeat: President
-
-*2024-06-12 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185886) · `ta`
-
-Ranil Wickremesinghe emphasizes that the outcome of Sri Lanka's upcoming presidential election is crucial for the nation's progress, not just his personal gain. He addressed this during a policy reform event attended by young representatives from the Economic Reforms Department.
-
-🟩
-
-President Ranil Wickremesinghe said the upcoming presidential election results, the country's success and defeat, would not be a personal victory.
-
-The President made this statement at a policy reform held at the Battaramulla Voters Age Hotel with youth representatives attending the Economic Reforms Department of Supervisory.
-
-◼️
-
-[Data](articles/b5a06d20.json)
-
-[Extended Data](ext_articles/b5a06d20.ext.json)
-
----
-
-### Industry Ministry to obtain GMP certificates
-
-*2024-06-12 10:34:37* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-නිෂ්පාදන-වලට-GMP-සහතික-ලබා-ගැනීමට-කර්මාන්ත-අමාත්‍යාංශයේ-සහාය/11-410166) · `si`
-
-The Ministry of Industries launched a program offering GMP certifications to boost local industry productivity and food safety, with support for businesses earning up to Rs. 350 million annually. The initiative aims to assist one million entrepreneurs, providing them with necessary allocations and guidance. Applications opened on June 20, enabling businesses to acquire SLS quality certificates through the Sri Lanka Standards Institution's Accreditation Board.
-
-🟩
-
-The Ministry of Industries has commenced a financial supportive program of providing GMP to obtain a GMP to obtain the productivity of local industries and to enhance food safety.
-
-Under this, the annual turnover is Rs. 350 million as well as Rs.The Ministry of Industries says that allocations and guidance will be given to a million.
-
-According to the Ministry of Industrialists, the provisions will be able to obtain SLS quality certificates at the SLS 1 and Accreditation Board by the Sri Lanka Standards Institution.
-
-Entrepreneurs are applying for these favor from June 20.
-
-◼️
-
-[Data](articles/b2d37f1c.json)
-
-[Extended Data](ext_articles/b2d37f1c.ext.json)
 
 ---

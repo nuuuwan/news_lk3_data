@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 04:19:07**
+As of **2024-06-13 04:34:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,104 (100.0%) of 30,109 articles have been extended.
+30,109 (100.0%) of 30,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### கட்டைக்காட்டில் சட்டவிரோத தொழில் - 16பேர் கைது
+### Illegal business - 16 arrested
 
 *2024-06-13 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185958) · `ta`
 
-வடமராட்சி கிழக்கு கட்டைக்காட்டில் சட்டவிரோதமாக ஒளி பாய்ச்சி மீன்பிடியில் ஈடுபட்ட 16பேர் 8 படகுகளுடன் 12 ஆம் திகதி புதன்கிழமை கைது செய்யப்பட்டனர்.
+16 individuals were arrested along with 8 boats for illegal fishing off Vadamarachchi East. Complaints about intensifying illegal industries like cardboard manufacturing and fisheries have surfaced. The arrests occurred after the suspects returned to shore with over fifty boats on Tuesday. Small-scale fishermen accuse the Jaffna Fisheries Inspector of negligence, demanding legal action against the illegal operations. They believe the arrest and interrogation by Dora boats could halt these illicit activities.
 
-வடமராட்சி கிழக்கு கட்டைக்காடு தொடக்கம் சுண்டிக்குளம் வரையிலான கடற்பகுதியில் சட்டவிரோத தொழில்களான அட்டை பிடித்தல்,ஒளிப்பாய்ச்சி மீன்பிடித்தல் போன்ற நடவடிக்கைகள் தீவிரமாகியுள்ளதால் சிறு தொழிலாளிகள் தொடர் முறைப்பாடுகளைச் செய்து வருகின்றனர்
+🟩
 
-கட்டைக்காட்டிலிருந்து 11ஆம் திகதி செவ்வாய்க்கிழமை ஐம்பதுக்கும் அதிகமான படகுகளில் சென்று ஒளிபாய்ச்சி மீன்பிடித்து பல்லாயிரக்கணக்கான மீன்களோடு கரைக்கு வந்து கொண்டிருந்தவேளை 12 ஆம் திகதி புதன்கிழமை காலை 8 படகுகளுடன் குறித்த 16பேரும் வெற்றிலைக்கேணி கடற்படையால் கைது செய்யப்பட்டனர்
+16 people were arrested on Wednesday 12th with 8 boats for illegal lighting in the Vadamarachchi East.
 
-...
+Small workers are making a series of complaints as Illegal industries such as illegal industries such as cardboard and fisheries have been intensified in the waters from Vadamarachchi East Bettaikkadu to Sundikkulam.
+
+On Wednesday morning, 16 persons were arrested by the Vaikkali Navy on Wednesday morning, when they went to shore more than fifty boats on Tuesday 11th Tuesday, 11th.
+
+Small workers have accused the Jaffna Fisheries Inspector of Fisheries for further legal action and that some of the arrested workers have been released in the sea.
+
+They say that they can end the illegal industrial activities when they are arrested and interrogated by the Dora boats from the Kankesan industry.
+
+◼️
 
 [Data](articles/6fcbf988.json)
+
+[Extended Data](ext_articles/6fcbf988.ext.json)
 
 ---
 
@@ -74,23 +84,35 @@ The Deputy Prime Minister of the country, who visited the area where the fire oc
 
 ---
 
-### மேற்கிந்தியத் தீவுகளுக்கு எதிரான போட்டி நியூஸிலாந்துக்கு தீர்மானமிக்கது
+### Competition against the West Indies is decisive to New Zealand
 
 *2024-06-13 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185957) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிரான தனது முதலாவது போட்டியில் தோல்வி அடைந்த நியூஸிலாந்து சி குழுவுக்கான ரி20 உலகக் கிண்ணத்தில் தனது இரண்டாவது போட்டியில் முன்னாள் சம்பியன் மேற்கிந்தியத் தீவுகளை எதிர்த்தாடவுள்ளது.
+In the R20 World Cup, New Zealand's C team faces the West Indies after losing to Afghanistan. A win against the West Indies could secure New Zealand's spot in the Super 8 round, enhancing their chances. Historically, New Zealand has performed well in World Cups, reaching the semi-finals or finals multiple times since 2015 but struggled against Afghanistan this year. The match against the West Indies is crucial for New Zealand, who leads 10-4 in international T20 encounters but faced a tie and loss in previous meetings. Both teams aim to advance to the Super 8 round, making this match pivotal.
 
-இப் போட்டி இலங்கை நேரப்படி வியாழக்கிழமை (13) காலை 6.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+🟩
 
-இந்தப் போட்டியில் மேற்கிந்தியத் தீவுகள் வெற்றிபெற்றால் நான்காவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெறும் அதேவேளை நியூஸிலாந்தின் சுப்பர் 8 சுற்று வாய்ப்பு கேள்விக்குறியாகிவிடும்.
+The New Zealand C team, which lost its first match against Afghanistan, will oppose the West Indies in its second match in the R20 World Cup.
 
-எனவே இன்றைய போட்டியில் மேற்கிந்தியத் தீவுகளை வீழ்த்தி தனது சுப்பர் சுற்று வாய்ப்பை சற்று அதிகரித்துக்கொள்ள நியூஸிலாந்து கடுமையாக முயற்சிக்கும்.
+The tournament will begin at 6.00 am on Thursday (13).
 
-2015க்குப் பின்னர் உலகக் கிண்ணப் போட்டிகளில் அதிசிறந்த ஆற்றல்களை வெளிப்படுத்தி வந்துள்ள நியூஸிலாந்து சர்வதேச ஒருநாள் உலகக் கிண்ணத்தில் 2015, 2019, 2023 ஆகிய வருடங்களிலும் ரி20 உலகக் கிண்ணத்தில் 2016, 2021, 2022 ஆகிய வருடங்களிலும் அரை இறுதிவரை முன்னேறியிருந்தது. அவற்றில் 3 சந்தர்ப்பங்களில் இறுதி ஆட்டத்தில் விளையாடியபோதிலும் சம்பியன் பட்டத்தை சூடவில்லை.
+If the West Indies wins the match, the fourth team will qualify for the Super 8 round, while New Zealand's Super 8 round chance will be questioned.
+
+So in today's match, New Zealand will try to increase its Super round chance by defeating the West Indies.
+
+New Zealand, which has revealed the best in the World Cup since 2015, has advanced to the semi -finals of 2015, 2019, 2019 and 2023 in 2016, 2021 and 2022. On 3 occasions, he played in the final game, but did not hesitate.
+
+However, there is suspicion that New Zealand will leave the first round of Afghanistan by 84 runs this year.
+
+So the rivalry against the West Indies will be a knock out of New Zealand.
+
+On the other hand, the West Indies will also try to win the Super 8 round.
 
 ...
 
 [Data](articles/82b76722.json)
+
+[Extended Data](ext_articles/82b76722.ext.json)
 
 ---
 
@@ -392,25 +414,37 @@ On 1 April, the Cabinet approved a proposal to allow the import of 250 small bus
 
 ---
 
-### ஐக்கிய அமெரிக்காவை வெற்றிகொண்ட இந்தியா சுப்பர் 8 சுற்றுக்கு தகுதிபெற்றது
+### India qualified for the Super 8 round to win the United States
 
 *2024-06-13 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185956) · `ta`
 
-இந்தியாவுக்கும் ஐக்கிய அமெரிக்காவுக்கும் இடையில் நியூயோர்க் நசவ் கவுன்டி சரவ்தேச கிரிக்கெட் விளையாட்டரங்கில் சற்ற நேரத்துக்கு முன்னர் நிறைவடைந்த ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் 7 விக்கெட்களால் இந்தியா வெற்றிபெற்றது.
+India beat the United States by 7 wickets in the R20 World Cup, qualifying for the Super 8 round. In a challenging pitch, India, after electing to chase 111 runs, achieved the target in 18.2 overs despite early losses. Key contributions came from Suryakumar Yadav (50 runs) and Shivam Dube (31 runs). The United States, batting first, managed 110 runs in 20 overs, led by Nitish Kumar (27) and Steven Taylor (24). India's bowlers, Saurab Nethravalkar and Arshdeep Singh, were standout performers.
 
-இந்த வெற்றியுடன் இந்தியா மூன்றாவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெற்றது.
+🟩
 
-தென் ஆபிரிக்கா (டி குழு), அவுஸ்திரேலியா (பி குழு) ஆகியன சுப்பர் 8 சுற்றுக்கு தெரிவான முதல் இரண்டு அணிகளாகும்.
+India won by 7 wickets in the R20 World Cup for A Group, which ended some time ago at the New York Nasav County Cricket Stadium between India and the United States.
 
-விசித்திரமான ஆடுகளத்தில்  இந்தப் போட்டியிலும்   துடுப்பாட்ட வீரர்கள் பந்து வீச்சாளர்களை எதிர்கொள்வதில் சிரமத்தை எதிர்கொண்டனர்.
+With this victory, India qualified for the third team in the Super 8 round.
 
-நினைத்துப்பார்க்க முடியாத அளவுக்கு சில சந்தர்ப்பங்களில் பந்து எகிறிப் பாய்வதுடன்  மற்றும் சில சந்தர்ப்பங்களில் பந்து தாழ்வாக சென்றது.
+South Africa (D Group) and Australia (B Group) are the first two teams to be selected for the Super 8 round.
 
-ஐக்கிய அமெரிக்காவினால் நிர்ணயிக்கப்பட்ட 111 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 18.2 ஓவர்களில் 3 விக்கெட்களை இழந்து 111 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+In the strange pitch, the players also faced the difficulty of facing the bowlers.
+
+In some cases unthinkable, the ball flowed and in some cases the ball went down.
+
+In response to the United States, India won the toss and elected to win 111 runs, losing 3 wickets in 18.2 overs.
+
+Virat Kohli (0), team captain Rohit Sharma (3) and Rishabh Bant (18) lost 39 runs in the overs.
+
+India's total number was 47 runs for the loss of 3 wickets in 10 overs.
+
+In this case, India had to score 64 in the last 10 overs to achieve the win.
 
 ...
 
 [Data](articles/85a60183.json)
+
+[Extended Data](ext_articles/85a60183.ext.json)
 
 ---
 
@@ -580,43 +614,59 @@ Justice, Prison Affairs and Constitutional Reforms Minister, President’s Couns
 
 ---
 
-### சுற்றுலாத்துறைக்கு தேவையான வாகன இறக்குமதிக்கு அமைச்சரவை அங்கீகாரம்
+### Cabinet approval for vehicle imports for tourism
 
 *2024-06-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185955) · `ta`
 
-சுற்றுலாத்துறைக்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கான விதிமுறைகளை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கான அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளதாக அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+The Sri Lankan Cabinet has approved rules for importing vehicles for tourism, reversing a suspension on motor vehicle imports. This decision follows a proposal by the Minister of Tourism and Land, allowing 250 small buses and 75 vans to be imported. The move aligns with the President's economic services and national policy directives, ensuring adherence to quality control regulations under the Import and Export (Control) Act.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு புதன்கிழமை (12) நடைபெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-2023 ஆம் ஆண்டின் இரண்டாவது இறக்குமதி மற்றும் ஏற்றுமதி கட்டுப்பாட்டு ஒழுங்குமுறையின்படி, இலங்கைக்கான மோட்டார் வாகனங்களை இறக்குமதி செய்வது தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+Cabinet Spokesperson Minister Bandula Gunawardena said that the Cabinet approval has been approved to submit the rules for importing vehicles for the tourism sector.
 
-ஆனால் சுற்றுலா மற்றும் காணி அமைச்சரினால் முன்வைக்கப்பட்ட யோசனையின் பிரகாரம், 250 சிறிய பேருந்துகள் மற்றும் 75 வேன்களை சுற்றுலாப் பயணிகளை ஏற்றிச் செல்வதற்கு கடந்த ஏப்ரல் 1 ஆம் திகதி நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் அனுமதி வழங்கப்பட்டது.
+He further stated that the weekly press conference to announce the Cabinet decisions was held on Wednesday (12).
+
+According to the second import and export control regulation of 2023, the importation of motor vehicles to Sri Lanka has been suspended.
+
+However, according to the proposal put forward by the Minister of Tourism and Land, permission was granted permission at a Cabinet meeting held on April 1 to transport 250 small buses and 75 vans.
+
+The proposal made by the President as the Minister of Finance Economic Services and the National Policy Minister has been approved by the Cabinet to submit the regulations issued by the Special Gazette Notification.
 
 ...
 
 [Data](articles/a66caeeb.json)
 
+[Extended Data](ext_articles/a66caeeb.ext.json)
+
 ---
 
-### அரச சார்பற்ற நிறுவனங்கள் தரவரிசையில் இலங்கை முன்னேற்றம்
+### Sri Lankan progress in NGOs rankings
 
 *2024-06-12 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185954) · `ta`
 
-ஆசிய சமூக சேவைத் துறையில் அரச சார்பற்ற நிறுவனங்கள் (NGO), தரவரிசையில் இலங்கை முன்னேறியுள்ளது.
+By 2024, Sri Lanka has significantly improved its ranking among NGOs in Asia's social service sector, moving past the challenges faced in 2022. This advancement aligns with the standardized metrics used to assess the Asian Social Service Department's activities. Sri Lanka has also become part of the Doing OKEY Group, joining countries like Cambodia, India, Indonesia, Nepal, Pakistan, Thailand, and Vietnam. The improvement is attributed to various reforms guided by Public Security Minister Tran Ales, as stated by the Director General of the National Secretariat for NGOs, Sanjeewa Vimalagunaratne. The next assessment cycle includes Singapore, China, and Taipei, aiming to join the group by 2026.
 
-2022 ஆம் ஆண்டளவில் அடைந்திருந்த கரும்புள்ளியை அகற்றி 2024 ஆம் ஆண்டில் இந்த முன்னேற்றத்தை இலங்கை கண்டுள்ளது.
+🟩
 
-2024 ஆண்டு ஆசிய சமூக சேவை துறையின் செயல் திறனை அளவிடும் DOING Good INDEX தரப்படுத்தப்படுத்தல் சுட்டிக்கு அமைய இலங்கை 2024 ஆம் ஆண்டுக்கான பட்டியலில் முன்னேற்றம் கண்டுள்ளது.
+Sri Lanka has advanced in the rankings of NGOs (NGOs) in the Asian Social Service sector.
 
-இதற்கமைய கம்போடியா, இந்தியா, இந்தோனேஷியா, நேபாளம், பாகிஸ்தான், தாய்லாந்து மற்றும் வியட்நாம் ஆகிய நாடுகளுடன் DOING OKEY குழுவில் இலங்கை இணைந்துள்ளது.
+Sri Lanka has seen this progress by 2024 by removing the black spot that was reached by 2022.
 
-2022 சுட்டெண் படி, இலங்கை பங்களாதேசுடன் தரவரிசையில் NOT DOING ENOUGH பிரிவில்  இருந்தது.
+Sri Lanka has improved the list of 2024 in accordance with the standardization mouse to measure the activities of the Asian Social Service Department in 2024.
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸின் வழிகாட்டலில் முன்னெடுக்கப்பட்ட பல சீர்திருத்தங்களின் பெறுபேறாக இது அமைந்துள்ளது என அரச சார்பற்ற நிறுவனங்களுக்கான தேசிய செயலகத்தின் பணிப்பாளர் நாயகம் சஞ்சீவ விமலகுணரத்ன தெரிவித்துள்ளார்.
+Sri Lanka has joined the Doing OKEY Group with Cambodia, India, Indonesia, Nepal, Pakistan, Thailand and Vietnam.
 
-...
+According to the 2022 index, the Sri Lankan Bangladesh ranked in the notes of the notes enough.
+
+The Director General of the National Secretariat for NGOs, Sanjeewa Vimalagunaratne said that this is the result of many reforms carried out under the guidance of Public Security Minister Tran Ales.
+
+The code, which is measured once in two years, will include the Reconciliation of Singapore, China and Taipei to join the doing Well Group by 2026.
+
+◼️
 
 [Data](articles/05bcf0fa.json)
+
+[Extended Data](ext_articles/05bcf0fa.ext.json)
 
 ---
 

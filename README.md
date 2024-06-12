@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 08:53:34**
+As of **2024-06-12 09:05:12**
 
 ## Newspaper Stats
 
-*Scraped **29,928** Articles*
+*Scraped **29,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,91 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,566
-adaderanalk | 3,380
-tamilmirrorlk | 3,503
+adaderanalk | 3,381
+tamilmirrorlk | 3,504
 virakesarilk | 4,577
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,815
+adaderanasinhalalk | 4,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,925 (100.0%) of 29,928 articles have been extended.
+29,928 (100.0%) of 29,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### කොළඹට බෙදන වතුර ගැන ජලසම්පාදනයෙන් අලුත් කතාවක්
+### පළාත් සභා ක්‍රමයට එකඟ බව අනුර TNA හමුවේ කියයි
+
+*2024-06-12 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197667) · `si`
+
+පළාත් සභා පවතින ආකාරයෙන් ක්‍රියාත්මක විය යුතු බවට ජාතික ජන බලවේගය පිළිගන්නා බව අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු පවසන්නේ, එය තවදුරටත් ක්‍රියාත්මක කරන ආකාරය සම්බන්ධයෙන් සාකච්ඡාවක් ආරම්භ කළ යුතු බවය.
+
+දෙමළ ජාතික සන්ධානයේ නියෝජිතයින් සමග යාපනයේදී පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අනුර කුමාර දිසානායක මන්ත්‍රීවරයා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/e22bbc95.json)
+
+---
+
+### PUCSL approval for CEB’s new electricity tariff revision by mid-July
+
+*2024-06-12 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99816/pucsl-approval-for-cebs-new-electricity-tariff-revision-by-mid-july) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) says that the granting of approval for the new electricity tariff revision proposed by the Ceylon Electricity Board (CEB) is anticipated to be finalized by mid-July.
+
+PUCSL Chairman, Prof. Manjula Fernando, stated that public consultations on the tariff revision proposal will also be held before a final decision is reached.
+
+Prof. Fernando indicated that the PUCSL’s final conclusion regarding the tariff revision will be communicated to the CEB by the second week of July.
+
+However, this follows a statement made by Minister of Power and Energy, Kanchana Wijesekera, who recently told Parliament that electricity tariffs are expected to be reduced with effect from July 1.
+
+◼️
+
+[Data](articles/891a4e94.json)
+
+---
+
+### இலங்கை - நேபாளத்திற்கு இடையிலான போட்டி கைவிடப்பட்டது
+
+*2024-06-12 08:39:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளத்திற்கு-இடையிலான-போட்டி-கைவிடப்பட்டது/175-338794) · `ta`
+
+தொடர்ச்சியாக மழை பெய்து வருவதால் 2024 T20 உலகக்கிண்ணத் தொடரில் இலங்கை மற்றும் நேபாளம் அணிகளுக்கு இடையில் இன்று இடம்பெறவிருந்த போட்டி கைவிடப்பட்டுள்ளது.
+
+அமெரிக்காவின் புளோரிடாவில் உள்ள சென்ட்ரல் ப்ரோவர்ட் ரீஜினல் பார்க் ஸ்டேடியம் டர்ஃப் மைதானத்தில் தொடர்ச்சியாக மழை பெய்து வருவதால் இந்த போட்டியை கைவிட நடுவர்கள் தீர்மானித்துள்ளனர்.
+
+இதற்கமைய, இலங்கை மற்றம் நேபாளம் அணிகளுக்கு தலா ஒரு புள்ளி வீதம் வழங்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/7642a9ef.json)
+
+---
+
+### A new story of water on water split into Colombo
 
 *2024-06-12 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197666) · `si`
 
-ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් බෙදා හරින ජලය පානය කිරීමෙන් කොළඹ අවට ප්‍රදේශවල ජනතාවට පාචනය හා වමනය යන රෝග තත්ත්වයන් වැලඳී ඇති බවට පළ වන වාර්තා සම්පූර්ණයෙන්ම අසත්‍ය බව එම මණ්ඩලය පවසයි.
+Reports debunked: National Water Supply and Drainage Board assures clean water supply post-measurement and lab tests, adhering to Sri Lanka standards, with no pathogens detected. Flood waters treated before distribution, ensuring safety.
 
-එහි සහකාර සාමාන්‍යාධිකාරී ඒ.පී.ආර්.ජේ. විජේසිංහ මහතා සඳහන් කළේ, ජනතාවට පානීය ජලය සපයනු ලබන්නේ නිසි ක්‍රමවේදයෙන් යටතේ සිදුකරන පිරිපහදු ක්‍රියාවලියකින් අනතුරුව බවය.
+🟩
 
-"ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් සපයනු ලබන ජලය පවිත්‍රකරණයෙන් පසුව, නිරන්තරයෙන් රසායනාගාර පරීක්ෂණයකට භාජනය කරනවා. ඒ අනුව සිදුකරන පරීක්ෂණ අනුව ක්ෂ්ද්‍රජීව විද්‍යාත්මක පරීක්ෂණ ඒ වගේම රසායනික සියල්ල සිදුකරනවා. එම ජලය ශ්‍රී ලංකා ප්‍රමිතියට අනුකූලයි. ඒ අනුව ඔය කියන කිසිදු රෝගකාරක ක්ෂුද්‍ර ජීවින් අන්තර්ගත නොවන පිරිසිදු ජලය තමා ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සපයන්නේ. ගංවතුර එක්ක මොන ජලය ආවත් අපි අදාළ පිරිසිදු කිරීම් කරලා ප්‍රමිතියෙන් යුතු පානීය ජලය තමා ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සපයන්නේ. ඒ නිසා කිසිදු බියක් ඇති කරගත යුතු නෑ."
+The reports that the National Water Supply and Drainage Board distributes to the people in the surrounding area are completely false.
+
+Assistant General Manager APRJ. Wijesinghe said that water is supplied to the people after a proper measurement process.
+
+"After the water supplied by the National Water Supply and Drainage Board, a laboratory test is constantly underway. Accordingly, the investigation conducts kushhdriological tests and chemicals are carried out. That water complies with Sri Lanka standard. Accordingly, the National Water Supply and Drainage Board provides clean water that does not contain any such pathogens. Whatever the waters of the flood, we will provide the relevant cleaners and provide the National Water Supply and Drainage Board. So there is no need to be worried. "
 
 ◼️
 
 [Data](articles/8f039aa6.json)
+
+[Extended Data](ext_articles/8f039aa6.ext.json)
 
 ---
 
@@ -1480,21 +1536,31 @@ The Directorate has been issued to the President within three months of their re
 
 ---
 
-### මාව අපවත් කරන්න සැලසුමක් තිබෙනවා
+### There is a plan to do our
 
 *2024-06-11 19:51:43* · [`adalk`](https://www.ada.lk/breaking_news/මාව-අපවත්-කරන්න-සැලසුමක්-තිබෙනවා/11-410158) · `si`
 
-පාස්කු ප්‍රහාරය වැනි යම් සිද්ධියක් පොසොන් උත්සවය ඉලක්ක කර ගනිමින් ඓතිහාසික මිහින්තලා පුදබිම තුළදී සිදු වුවහොත් ඊට වගකිවයුත්තන් එල්ලා මැරීම නොව, මෝරුන්ට කෑමට දැමිය යුතු බව ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැඟුණවැවේ ධම්මරතන හිමිපාණෝ පැවසූහ.
+A plan is underway for the Mihintale Festival, expecting around 800,000 attendees. Despite threats, the event continues as a significant cultural gathering. The speaker emphasized the importance of unity and suggested that parliamentary commitments could lead to national development within six months.
 
-උන්වහන්සේ මේ බව පැවසුවේ ඊයේ (10දා)ඌව සහ මධ්‍යම පළාත්වල හිටපු ආණ්ඩුකාරවරයෙකු වන නීතිඥ මෛත්‍රී ගුණරත්න මහතා මිහින්තලා රජමහා විහාරස්ථානයට උන්වහන්සේ බැහැදැක සිදු කළ සාකච්ඡාවකදීය.
+🟩
 
-"පොසොන් කමිටුවපවසන පරිදි ලක්ෂ විස්සක පමණ ජනතාවක් අනුරාධපුරයට මිහින්තලයට පැමිණෙතැයි අපේක්ෂා කරනවා.මේ වන තෙක් ආරක්ෂක හමුදාව මිහින්තලේ ආරක්ෂාවට කැඳවලා නැහැ.ආණ්ඩුවට මාව ත්‍රස්තවාදියෙක් විදියට පේන නිසා ජීවිත හානියක් වුණත් සිදු කරන්න පුළුවන්. මාව මරන්න පසුගිය කාලයේ සැලසුම් තිබුණා දැනටත් තිබෙනවා.
+The historic Mihintane Rajamaha Ven.
 
-රටේ ජනතාවට සීරීමක්වත් වෙන්න බෑ. මේ තමයි රටේ ජනතාවගේ පළමු උත්සවය.මිහිඳු හාමුදුරුවන්ගේ දහම ඉගෙන ගත්ත කිසිම කෙනෙක් පාර්ලිමේන්තුවේ නැහැ. එහෙම හිටිය නම් පොසොන් පින්කමට මේ තරම් අරියාදු කරන්නේ නැහැ. මෙය ජනතාවගේ පින්කමක්. පාලකයෝ මේවා කළ යුතුයි.
+He was speaking at a discussion at the Mihintala Rajamaha Viharaya at the Mihintala Raja Maha Viharaya yesterday (10).
 
-...
+"Around 800,000 people are expected to come to the Mihintale Proposal.. There were still plans to kill me.
+
+The people of this country cannot be scraped.This is the first festival of the people of the country, no one learns in Parliament. If so, the Poson does not be so bullied so much. This is a pinch of people. The rulers should do these.
+
+This is the pinnacle when he was. At least the time of King Elara. Like Anagarika Dharmapala, the whiteo is now ruled the country.  ඒ අයට ආගමක් දහමක් නෑ. Everyone is in Parliament. "
+
+If the commitment to parliament is able to build the country in six months and all groups will be built in the country, said Mr. Maithree Gunaratne, a former governor of the Central and Uva provinces.
+
+◼️
 
 [Data](articles/0d1a9c5a.json)
+
+[Extended Data](ext_articles/0d1a9c5a.ext.json)
 
 ---
 
@@ -1610,21 +1676,27 @@ He ordered that a fine of compensation would be charged and that if it was not p
 
 ---
 
-### කුකුළු මස් රතු පාටයි නම් මිලදී ගන්න එපා
+### Don't buy if the chicken is red
 
 *2024-06-11 19:21:27* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-රතු-පාටයි-නම්-මිලදී-ගන්න-එපා/11-410155) · `si`
 
-වතුර තත්ත්වය නිසා හා වෛරස් තත්ත්වයන් යටතේ මරණයට පත් වූ කුකුළු මස් වෙළෙඳ පොළට පැමිණෙන බවට තොරතුරු වාර්තා වී තිබෙන බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ පොදු සේවක සංගමයේ ලේකම් අජිත් ජයසුන්දර මහතා සඳහන් කළේය.
+Ajith Jayasundara warns against buying red chickens, linked to virus outbreaks and flood-related deaths. Consumers advised to avoid purchasing chicken during floods to prevent health risks.
 
-මස් පිණිස වෙළෙඳ පොළට නිකුත් කර තිබෙන කුකුළු මස් සුදු පැහැයක් ගන්නා බවත් එහෙත් ගංවතුර තත්ත්වය තුළ හාවෛරස් රෝගවලින් මරණයට පත්වන කුකුළන්ගේ මස් රතු පැහැට හුරු බවද පවසා සිටියේය.
+🟩
 
-පාරිභෝගික ජනතාව මේ පිළිබඳව අවධානය යොමු කර මස් මිලදී ගැනීම සිදුකරන ලෙසත් පසුගිය දිනවල ඇති වූ ගංවතුර තත්ත්වයන්වලට කුකුල් ගොවිපොළවල් කිහිපයක් හසු වී තිබෙන බවත් පොදුවේ ගොවිපළවල විවිධ වෛරස් තත්ත්වයන් පැතිරීම නිසා කුකුළන් මිය යාම සිදුවන බවද සඳහන් කළේය.
+The Consumer Employees Authority Secretary Ajith Jayasundara said that it is reported that the chicken market that was killed and the deaths killed under virus.
 
-ගංවතුර තත්ත්වයන්ට හා වෛරස්වලට ගොදුරු වී මිය යන කුකුළු මස් භාවිත කිරීම කිරීම සිදුනොකරනලෙසද එම සංගමය ජනතාවගෙන් ඉල්ලා සිටියි.
+The chicken released into the market for meat is red, but the chickens killed in the floods are red.
+
+The consumer people have been caught by the floods that have been caught up to buy meat and the chickens of the farms have caused the death of chickens due to the spread of various viruses in general.
+
+The association is also requested by the people who are not using chicken in flooding and viruses.
 
 ◼️
 
 [Data](articles/ccd17018.json)
+
+[Extended Data](ext_articles/ccd17018.ext.json)
 
 ---
 
@@ -2071,77 +2143,5 @@ He quit his work by claiming that the order of the college executive committee o
 [Data](articles/6c8e2cc7.json)
 
 [Extended Data](ext_articles/6c8e2cc7.ext.json)
-
----
-
-### Day to Keheliya's petition to be considered further
-
-*2024-06-11 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197651) · `si`
-
-Keheliya Rambukwella's petition, related to a court order and a magistrate's directive regarding substandard goods, was heard by the Court of Appeal on November 11th, presided over by Mr. Shashi Mahendran.
-
-🟩
-
-The Court of Appeal ordered the petition filed by former Health Minister Keheliya Rambukwella to the 27th.
-
-In connection with the order of the courts, a petition filed by the Maligakanda Magistrate's directive decision to be remanded at the ceasefall of the presence of the pricing of the substandard.
-
-The petition was called before the Court of Appeal this petition today (11) before Mr. Shashi Mahendran.
-
-◼️
-
-[Data](articles/feb406d6.json)
-
-[Extended Data](ext_articles/feb406d6.ext.json)
-
----
-
-### Constitutional Error may give Ranil and Parliament one more year-Eagle Next
-
-*2024-06-11 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185846) · `ta`
-
-Ranil Wickremesinghe may extend his term and Parliament's lifespan by one year due to a constitutional loophole not addressed since the 19th Amendment in 2015 aimed at democratic reforms. Despite amendments reducing terms to five years, Article 83(D) allows him to extend it without parliamentary approval for extensions over six years, enabling an 11-month extension without constitutional violation. Political analysts suggest he deserves more time as the country isn't ready for elections.
-
-🟩
-
-Ranil Wickremesinghe has issued his term of office and the lifetime of parliament for a further year, according to the Emanami Next website said
-
-Ranil Wickremesinghe may use a mistake of the political system that has not been paid since the 19th Amendment in 2015.
-
-The 19th Amendment sought to ensure democratic reforms and to ensure the nation and reduce the term of the parliament and the president.
-
-Although all the references to the six -year term of the Parliament and the President of the Parliament, in accordance with the 19th Amendment have been changed to five years, Article 83 (D) has given President Wickremesinghe to extend his tenure.
-
-Any Bill to extend the five -year tenure of the President or Parliament must be approved by a two -thirds majority in Parliament.
-
-However, under Section 83 (D), the universities are only needed if they are extended for more than six (6) years, not five (5) years
-
-...
-
-[Data](articles/3be6f956.json)
-
-[Extended Data](ext_articles/3be6f956.ext.json)
-
----
-
-### Jaishankar to visit Sri Lanka ahead of Indian Prime Minister: President
-
-*2024-06-11 17:17:00* · [`economynextcom`](https://economynext.com/jaishankar-to-visit-sri-lanka-ahead-of-indian-prime-minister-president-167497/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said Indian Minister of External Affairs S Jaishankar will visit the island ahead of a visit by Prime Minister Narendra Modi.
-
-Wickremesinghe who was in India to attend Modi’s swearing in ceremony met with Jaishankar and congratulated him on his appointments.
-
-“He expressed plans to visit Sri Lanka soon to oversee progress and coordinate Prime Minister Modi’s visit,” Wickremesinghe said on social media platform X (twitter).
-
-“We discussed resuming development projects with Indian investments, India’s “Neighbourhood First” policy, and plans for an industrial zone in Trincomalee.
-
-“I informed him about the new Economic Transformation Act, the Truth and Reconciliation Bill, and updates on agricultural modernisation and fishermen’s issues.” (Colombo/June11/2024)
-
-◼️
-
-[Data](articles/e1f54d2f.json)
-
-[Extended Data](ext_articles/e1f54d2f.ext.json)
 
 ---

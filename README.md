@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 16:19:33**
+As of **2024-06-12 16:35:01**
 
 ## Newspaper Stats
 
-*Scraped **30,018** Articles*
+*Scraped **30,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,579
+adalk | 2,580
 adaderanalk | 3,399
 tamilmirrorlk | 3,516
-virakesarilk | 4,595
+virakesarilk | 4,599
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,834
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,017 (100.0%) of 30,018 articles have been extended.
+30,018 (100.0%) of 30,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### நடிகை ஐஸ்வர்யா அர்ஜுன் - நடிகர் உமாபதி ராமையா திருமணம்
+
+*2024-06-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185921) · `ta`
+
+குணச்சித்திர நடிகரும், இயக்குநருமான தம்பி ராமையாவின் மகன் உமாபதி ராமையாவுக்கும்,  முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான அர்ஜுனனின் மகளான ஐஸ்வர்யா அர்ஜுனுக்கும் பெற்றோர்கள் நிச்சயித்த வண்ணம்  சென்னையில் உள்ள ஸ்ரீ யோக ஆஞ்சநேயர் ஆலயத்தில் திருமணம் வெகு விமரிசையாக நடைபெற்றது.
+
+இயக்குநரும், நடிகருமான அர்ஜுனனின் மகள் ஐஸ்வர்யா அர்ஜுன்- விஷால் நடிப்பில் 2013 ஆம் ஆண்டில் வெளியான 'பட்டத்து யானை' எனும் படத்தின் மூலம் நடிகையாக தமிழ் திரையுலகத்திற்கு அறிமுகமானார். அதன் பிறகு 2018 ஆம் ஆண்டில் வெளியான 'சொல்லி விடவா' எனும் திரைப்படத்தில் நடித்திருந்தார்.
+
+இயக்குநரும், நடிகருமான தம்பி ராமையாவின் மகனான உமாபதி இராமையா 2017 ஆம் ஆண்டில் இயக்குநர் இன்பா சேகர் இயக்கத்தில் வெளியான 'அதாகப்பட்டது மகாஜனங்களே' எனும் படத்தின் மூலம் நாயகனாக தமிழ் திரையுலகிற்கு அறிமுகமானார். அதனைத் தொடர்ந்து 'மணியார் குடும்பம்', 'திருமணம்', 'தண்ணி வண்டி' ஆகிய படங்களில் நடித்திருக்கிறார்.
+
+...
+
+[Data](articles/a9350195.json)
+
+---
 
 ### 41 killed in Kuwait
 
@@ -49,6 +65,22 @@ About 160 employees have lived in the company.
 [Data](articles/eb24131e.json)
 
 [Extended Data](ext_articles/eb24131e.ext.json)
+
+---
+
+### யாழில் வைத்தியர் ஒருவர் தவறான முடிவெடுத்து உயிர் மாய்ப்பு
+
+*2024-06-12 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185925) · `ta`
+
+யாழ்ப்பாணம் - பருத்தித்துறை ஆதார வைத்தியசாலையில் பணிபுரியும் வைத்தியர் ஒருவர், வைத்தியசாலை விடுதிக்குள் தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+
+பருத்தித்துறை ஆதார வைத்தியசாலையின் மகப்பேற்று விடுதியில் கடமையாற்றும் வைத்தியர் ஒருவரே உயிரை மாய்த்துள்ளார்.
+
+உயிரிழப்புக்கான காரணம் தெரிய வராத நிலையில் சடலம் பருத்தித்துறை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/759f4d4c.json)
 
 ---
 
@@ -77,6 +109,34 @@ It was also a member of the group that was not allowed to join the World Cup las
 [Data](articles/ef8121ab.json)
 
 [Extended Data](ext_articles/ef8121ab.ext.json)
+
+---
+
+### நடிகர் சார்லியின் மகன் திருமண வரவேற்பில் பங்குபற்றிய தமிழக முதல்வர்
+
+*2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185914) · `ta`
+
+தமிழ் திரையுலகில் 'கலாநிதி' பட்டம் வென்ற சில நடிகர்களில் ஒருவரும், ஒப்பற்ற குணச்சித்திர நடிகருமான சார்லியின் மகன் அஜய் தங்கசாமி - பெர்மிசியா டெமி ஆகியோரின் திருமண வரவேற்பில் தமிழக முதல்வர் மு. க. ஸ்டாலின் சிறப்பு அதிதியாக பங்கு பற்றி மணமக்களுக்கு வாழ்த்து தெரிவித்தார்.
+
+மேலும் இந்நிகழ்வில் 'உலக நாயகன்' கமல்ஹாசன், 'இசைஞானி' இளையராஜா, 'இளைய திலகம்' பிரபு , நாசர், கங்கை அமரன், சந்தான பாரதி உள்ளிட்ட பல திரையுலக முன்னணி பிரபலங்கள் பங்கு பற்றி மணமக்களுக்கு வாழ்த்து தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/4b64d5f8.json)
+
+---
+
+### நடிகர் காளி வெங்கட் நடிக்கும் 'தோனிமா'
+
+*2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185918) · `ta`
+
+தமிழ் திரையுலகின் சிறந்த குணச்சித்திர நடிகர் என்ற நற்பெயரை சம்பாதித்திருக்கும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'தோனிமா' எனும் திரைப்படத்தில், அவர் கோடி எனும் பொறுப்பற்ற குடும்பத் தலைவர் கதாபாத்திரத்தில் நடித்திருப்பதாக படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் ஜெகதீசன் சுப்பு இயக்கத்தில் உருவாகி இருக்கும் 'தோனிமா' எனும் திரைப்படத்தில் காளி வெங்கட், ரோஷினி பிரகாஷ், விவேக் பிரசன்னா, கண்ணன் பொன்னையா, ராஜேஷ் ஷர்மா, பி. எல். தேனப்பன், கல்கி ராஜன், 'ஆடுகளம்' ராஜாமணி, விசித்திரன், சசி, சுஜாதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பாக்கியராஜ் மற்றும் சஜித் குமார் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜான்சன் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை தயாரிப்பாளர் சாய் வெங்கடேஸ்வரன் தயாரித்திருக்கிறார். எஸ் பி ஆர் ஸ்டுடியோஸ் சார்பில் எஸ் பி ராஜா சேதுபதி இப்படத்தை வழங்குகிறார்.
+
+...
+
+[Data](articles/6c7619b4.json)
 
 ---
 
@@ -573,6 +633,20 @@ The NPP Leader further added: “Provincial councils represent a devolution of p
 [Data](articles/efe56895.json)
 
 [Extended Data](ext_articles/efe56895.ext.json)
+
+---
+
+### මැලේසියාව සමග නිදහස් වෙළඳ ගිවිසුමක්
+
+*2024-06-12 12:56:01* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාව-සමග-නිදහස්-වෙළඳ-ගිවිසුමක්/11-410173) · `si`
+
+මැලේසියාව සමගින් නිදහස් වෙළඳ ගිවිසුමක් අත්සන් කිරිමට අදාළව ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+ශ්‍රි ලංකාවේ 34 වැනි අපනයන ගමනාන්තය මැලේසියාව වෙන අතර 2023දි එරටට කර ඇති සමස්ත අපනයනය ඇමෙරිකානු ඩොලර් මිලියන 50 ඉක්මවා යයි.
+
+◼️
+
+[Data](articles/b15a7d6a.json)
 
 ---
 
@@ -1606,23 +1680,31 @@ Amarasingham and Ketheeswaran are missing. The police have appealed in this rega
 
 ---
 
-### අපනයන අරමුණින් ගංජා වගා කරන්න යෝජනා කැඳවයි
+### Exports are called to cultivate cannabis
 
 *2024-06-12 10:21:10* · [`adalk`](https://www.ada.lk/breaking_news/අපනයන-අරමුණින්-ගංජා-වගා-කරන්න-යෝජනා-කැඳවයි/11-410164) · `si`
 
-අපනයන වෙළඳාම අරමුණු කරගෙන ත්‍රෛලෝක විජයපත්‍ර වගා කිරීම ඒ ආශ්‍රිත ඖෂධ  නිෂ්පාදනය කිරීම සඳහා උනන්දුවක් දක්වන දෙස් විදෙස් ආයෝජකයන්ගෙන්  ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය හා සෞඛ්‍ය අමාත්‍යාංශය එක්ව  ව්‍යාපෘති යෝජනා කැඳවයි.
+Cultivation of cannabis under the name "Tricklaka Wijayayi" aims to meet global demand for pharmaceuticals. The project, involving the Sri Lanka Investment Board and the Department of Ayurveda, requires approval from the Ministry of Health. Proposals must be submitted by July 10th, focusing on sustainable practices and compliance with health regulations.
 
-අපනයන අරමුණු කරගෙන  ත්‍රෛලෝක විජයපත්‍ර මත පදනම්වූ ඖෂධ හා ඒ ආශ්‍රිත නිෂ්පාදන සඳහා ලෝකයේ පවතින ඉල්ලුම සැළකිල්ලට ගෙන මෙම ව්‍යාපෘති යෝජනා කැඳවන බව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය පවසයි.
+🟩
 
-මෙම ව්‍යාපෘති ශ්‍රී ලංකා ආයෝජන මන්ඩලයේ හා ආයුර්වේද දෙපාර්තමේන්තුව ඒකාබද්ධ විෂය පථයට අයත් බවත් එම අමාත්‍යාංශය  සඳහන් කරයි.
+Tricklaka Wijayayi Cultivation of Tricklaka Wijayayapartu Cultivation, interested in production of drugs, collapses project propositions to the local government and the Ministry of Health.
 
-මෙම වගාව හා නිෂ්පාදන කටයුතු අධීක්ෂණය මෙන්ම ඒ හා සම්බන්ධ සම්පූර්ණ ක්‍රියාවලියම නියාමනය කිරීම හා බලපත්‍ර නිකුත් කිරීම ආයුර්වේද දෙපාර්තමේන්තුව මගින් සිදු කෙරෙන බවද එම අමාත්‍යාංශය පවසයි.
+The project proposals say that the project promotions are called to consider the world's demand for pharmaceutical and related pharmaceuticals based on Timbership and related products.
 
-ව්‍යාපෘති යෝජනා සලකා බැලීමෙන් පසු අදාල නිර්ණායක සපුරන ආයෝජකයන්ට ත්‍රෛලෝක විජය පත්‍ර වගාව සහ ඒ ආශ්‍රිත නිෂ්පාදන සඳහාවූ ව්‍යාපෘති සඳහා   ආයුර්වේද දෙපාර්තමේන්තුව මගින් බලපත්‍ර ලබා දීම සිදු කිරීමට නියමිත බව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය පවසයි.
+These projects belong to the Joint Scope of the Sri Lanka Investment Board and the Department of Ayurveda.
+
+The Department of Ayurveda will be conducted by the Ministry of Ayurveda, monitoring the cultivation and manufacturing and the completion of the entire process.
+
+After considering the project proposals, the Department of Ayurveda is scheduled to be licensed for projects for the projects for the relevant criteria for the respective criteria and related projects.
+
+Facilitate and implementing relevant projects in a investment center for licensed investors.
 
 ...
 
 [Data](articles/d24b1d40.json)
+
+[Extended Data](ext_articles/d24b1d40.ext.json)
 
 ---
 
@@ -2197,123 +2279,5 @@ I was fortunate to listen to this speech online and live, through ‘Horawa News
 [Data](articles/c3cfe36c.json)
 
 [Extended Data](ext_articles/c3cfe36c.ext.json)
-
----
-
-### Sajith Premadasa was worshiped at Nagadeepam and Nainadivu Temple
-
-*2024-06-12 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185872) · `ta`
-
-Opposition Leader Sajith Premadasa visited the Nagadeepam and Nainadivu Temples in Jaffna, engaging in worship and performing special rituals. He also attended a pooja ceremony at the Nainadivu Nagabusani Amman Temple, where he was honored with a Ponnadi wrap.
-
-🟩
-
-Yall. Smart classrooms and school buses for many schools in the district to participate in Jaffna. Opposition Leader Sajith Premadasa, who visited the district, visited the historic Nagadeepa Rajamaha Vihara on Tuesday 11th and engaged in worship.. Navadagala Patumagithi met Tissa Thera and blessed.
-
-Subsequently, Opposition Leader Sajith Premadasa visited the historic Nainadivu Nagabusani Amman Temple and performed special rituals.. Kuruparan Madanraj, the organizer of the Kayts constituency and the Member of the Board of Trustees welcomed the opposition leader who went to the temple and honored the Ponnadi wrap. The Leader of the Opposition participated in a special pooja ceremony chaired by the temple's chief guru.
-
-◼️
-
-[Data](articles/3da2a8b8.json)
-
-[Extended Data](ext_articles/3da2a8b8.ext.json)
-
----
-
-### A large number of Kerala cannabis rescue in Jaffna
-
-*2024-06-12 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185871) · `ta`
-
-In Jaffna, 22 kg of Kerala cannabis were seized by police in Gurunagar based on tip-offs. The drugs were confiscated, and a suspect was arrested, as per actions taken at the Jaffna Magistrate's Court.
-
-🟩
-
-22 kilograms of Kerala cannabis police seized on Tuesday (11) in the Gurunagar area in Jaffna.
-
-Based on the confidential information received by the police, 22 kilograms of cannabis was seized during a special round of special rounds carried out in the Gurunagar area.
-
-Police have taken steps to seize cannabis at the Jaffna Magistrate's Court and have taken steps to arrest the suspect.
-
-◼️
-
-[Data](articles/5e8f47e4.json)
-
-[Extended Data](ext_articles/5e8f47e4.ext.json)
-
----
-
-### 5 lakhs of rupees for a doctor
-
-*2024-06-12 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185869) · `ta`
-
-A court ordered a victim to pay Rs. 1 lakh as compensation after a car crash involving a drunk youth and a fleeing doctor. The case, heard in Kalmunai Court, was adjourned until July 31st. The doctor, whose license was found expired, was arrested but later released.
-
-🟩
-
-The magistrate has ordered the release of a youth who was drunk in a car on a motorbike and the doctor who fled into the car, and ordered the victim to pay a compensation of Rs. 1 lakh.
-
-The case was taken up for hearing in the presence of the Kalmunai Court Mr. MSM Samsuddin on Monday (10).The magistrate ordered the victim to pay Rs.
-
-The case has been postponed for a reorganization on July 31.
-
-The car that was in front of the youth who was traveling by the road crashed into a car and the car was rescued by the Kalmunai headquarters police.
-
-The incident took place at around 11 pm last Saturday (8) and the 28 -year -old youth who was driving the victim of the accident was admitted to the Kalmunai Azraf Memorial Hospital.
-
-The accident was rescued by the Kalmunai Headquarters Police and the doctor who had been arrested by the Kalmunai headquarters police and was taken to the Kalmunai headquarters police station.
-
-The police are receiving a confession to a 41 -year -old doctor who is arrested.
-
-...
-
-[Data](articles/44ce0b43.json)
-
-[Extended Data](ext_articles/44ce0b43.ext.json)
-
----
-
-### Sharafdeen appointed as Central Colombo Organizer of UNP
-
-*2024-06-12 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185868) · `ta`
-
-Sharafdeen, a senior councilor, is now the UNP's Central Colombo Election Organizer. The appointment was made by President Ranil Wickremesinghe at a ceremony in Sirikotha. Notable attendees included Pulse A Kapoor, Dr. MCM, Khalil, Premadasa, Jabir A Khadar, Sirisena Kure, and Mohammed Mahroof, with political figures like Mujibur Rahman also present.
-
-🟩
-
-Sharapdeen, a senior member of the Colombo Municipal Council, has been appointed as the organizer of the United National Party (UNP) Central Colombo Elections.
-
-President and party leader Ranil Wickremesinghe was given the implementation during the appointment ceremony of the UNP headquarters in Sirikotha.
-
-Pulse A Kapoor, Dr. MCM, Khalil, Ranasinghe Premadasa, Jabir A Khadar, Sirisena Kure, Mohammed Mahroof. It is noteworthy that political celebrities such as Mujibur Rahman played.
-
-◼️
-
-[Data](articles/aa86d092.json)
-
-[Extended Data](ext_articles/aa86d092.ext.json)
-
----
-
-### Youth rescued with foot injuries
-
-*2024-06-12 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185867) · `ta`
-
-A youth was rescued on Tuesday 11th with foot injuries near the Ottamavadi Bridge, under the Valaichenai police division. The Calcutta Emergency Service Division reported finding him with blood injuries, and he was taken to Valaichenai Hospital after being rescued by director Niyas Hajiar. The incident occurred when two youths engaged in a dispute over a rhetoric while waiting for a Puttalam bus at Ottamavadi - Navaladi, leading to one being attacked.
-
-🟩
-
-The youth has been rescued on Tuesday 11th with a foot injury near the Ottamavadi Bridge, which belongs to the Valaichenai police division.
-
-According to information received by the Calcutta Emergency Service Division that a young man was found lying with blood injuries near the bridge, its director Niyas Hajiar has rescued the youth and admitted to the Valaichenai Hospital.
-
-The young man and another young man who arrived in the Puttalam bus was involved in the rhetoric when the bus was parked in Ottamavadi - Navaladi.
-
-It has been revealed that the other youth has been attacked by a young man over a rhetoric.
-
-◼️
-
-[Data](articles/cf1c2489.json)
-
-[Extended Data](ext_articles/cf1c2489.ext.json)
 
 ---

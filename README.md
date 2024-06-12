@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 23:19:15**
+As of **2024-06-12 23:34:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,846
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,080 (100.0%) of 30,081 articles have been extended.
+30,081 (100.0%) of 30,081 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,23 +74,29 @@ Saudi officials have said they expect the number of pilgrims this year to exceed
 
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායමේ දැන් තත්ත්වය
+### Sri Lanka team nowadays
 
 *2024-06-12 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197698) · `si`
 
-නේපාලය සමග අද (12) පැවැත්වීමට නියමිතව තිබු තරගයට වර්ෂාවෙන් බාධා එල්ලවීමත් සමග ශ්‍රී ලංකාවට T20 ලෝක කුසලාන තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට තිබූ අවස්ථාව අවම තත්ත්වයකට පත්වී තිබේ.
+The Sri Lankan cricket team's fate hinges on their final match against the Netherlands, as heavy rain threatens today's game. Their progress to the Super 8 round depends on other teams' performances, especially South Africa, Nepal, and Bangladesh.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමේ ඉරණම තීරණය වන්නේ 'ඩී' කාණ්ඩයේ ඉතිරි තරගවල ප්‍රතිඵල මතය.
+🟩
 
-මේ වනවිට ශ්‍රී ලංකාවට ඉතිරිව ඇත්තේ නෙදර්ලන්තය සමග තරගය පමණි.
+The rains have been hindered by the competition scheduled to be held today (12).
 
-එය ජය ගත්තද ශ්‍රී ලංකාවට සුපිරි 8දෙනාගේ වටයට පිවිසීමට නම් ඩී කාණ්ඩයේ අනෙකුත් තරගවල ප්‍රතිඵල දෙස බලාසිටීමට සිදුවෙයි.
+The fate of the Sri Lankan team depends on the results of the remaining matches of the 'D' category.
 
-දකුණු අප්‍රිකාව සියලු තරග ජය ගැනීම, නේපාලය සහ බංග්ලාදේශය අතර තරගයෙන් නේපාලය ජයගැනීම සහ බංග්ලාදේශය සහ නේදර්ලන්තය අතර තරගය ප්‍රතිඵලයකින් තොරව අවසන් වීම යන කාරණා 03 සම්පූර්ණ වුවහොත් පමණක් ශ්‍රී ලකාවට සුපිරි 8 දෙනාගේ වටයට ඉඩ විවර වෙයි.
+Sri Lanka has only the match with the Netherlands.
+
+Despite the conquering, Sri Lanka to enter the 8s of the Super 8 people will take a look at the results of other D group.
+
+If South Africa completes all the matches, Nepal and Bangladesh, and the end of the competition between Nepal and Bangladesh.
 
 ◼️
 
 [Data](articles/567c6473.json)
+
+[Extended Data](ext_articles/567c6473.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 21:04:24**
+As of **2024-06-12 21:19:06**
 
 ## Newspaper Stats
 
-*Scraped **30,066** Articles*
+*Scraped **30,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,585
+adalk | 2,587
 adaderanalk | 3,407
-tamilmirrorlk | 3,520
+tamilmirrorlk | 3,521
 virakesarilk | 4,602
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,843
@@ -26,31 +26,73 @@ adaderanasinhalalk | 4,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,065 (100.0%) of 30,066 articles have been extended.
+30,066 (100.0%) of 30,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### පැහැරගත් දැරියක් භූගත කුටියකින් සොයාගනී
+### A kidnapped girl discovers in underground booth
 
 *2024-06-12 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197695) · `si`
 
-බලහත්කාරයෙන් පැහැරගෙන ගොස් භූගත කුටියක සඟවා සිටි 14 හැවිරිදි දැරියක් ඉන් මුදාගැනීමට බුත්තල පොලීසිය අද (2) සමත් වුණි.
+Buttala Police rescued a 14-year-old girl from an underground hiding place after she was kidnapped by three individuals. The main suspect, a 20-year-old, was arrested and remanded, while the others were caught due to their confessions. The underground shelter, prepared for over a month and a half, had minimal ventilation. The suspects were remanded for 14 days by the Wellawaya Magistrate's Court.
 
-දැරිය පැහැරගෙන තිබුණේ ඇයගේ පෙම්වතා බව පැවසෙන 20 හැවිරිදි තරුණයෙකු විසිනි.
+🟩
 
-බුත්තල කටුගහගල්ගේ ප්‍රදේශයේ නිවසකට පැමිණි තරුණයන් තිදෙනෙකු එහි නිදා සිටි 14 හැවිරිදි දැරිය පැහැරගෙන ගොස් තිබුණේ පසුගිය 9 වනදා රාත්‍රියේදී ය.
+Buttala Police have liberated a 14-year-old girl who was hidden in an underground booth today (2).
 
-එහිදී පැහැරගැනීම වැළැක්වීමට උත්සාහ කළ දැරියගේ පියාගේ අතකට එක් තරුණයෙකු තියුණු ආයුධයකින් පහරදී ඇති බව පොලීසිය පැවසීය.
+The girl was kidnapped by a 20-year-old youth.
 
-අනතුරුව සිද්ධිය සම්බන්ධයෙන් දැරියගේ පියා පොලීසියට සිදුකළ පැමිණිල්ලකට අනුව අත්අඩංගුවට ගෙන වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරු මෙම මස 24 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The 14-year-old girl had been abducted by three youths who came to a house in Katugasage, Buttala on the 9th.
 
-කෙසේවෙතත් සිදුකළ දීර්ඝ විමර්ශනයේදී ප්‍රධාන සැකකරු සමග දැරිය පැහැරගැනීමට පැමිණි අනෙක් තරුණයන් දෙදෙනා අනාවරණ කරගැනීමට පොලීසියට හැකිවුණි.
+One youth has been attacked with a sharp instrument in the father of the girl who tried to prevent abduction.
+
+The main suspect in connected to the incident was taken into custody and was remanded until the 24th of this month.
+
+However, the police were able to detect the other two youths who had come to the abduction of the girl along with the main suspect.
+
+Accordingly, the two youths arrested during the interrogation of the two youths were confessed that the abducted girl remains in a underground house of a mark belonging to the main suspect in the city of Buttala.
+
+Buttala Police Chief Inspector Jayathilaka Bandara and a group of other officials had left the relevant house expedited.
 
 ...
 
 [Data](articles/51a76dc7.json)
+
+[Extended Data](ext_articles/51a76dc7.ext.json)
+
+---
+
+### முட்டை பிரியர்களுக்கு மகிழ்ச்சியான செய்தி
+
+*2024-06-12 20:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-பிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338824) · `ta`
+
+முட்டையின் அதிகபட்ச சில்லறை விலையை 45 ரூபாய் வரை குறைக்க முடியுமென உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+சந்தையில் அதிகப்படியான முட்டை உற்பத்தி கிடைப்பதால் முட்டையின் விலை மேலும் குறையுமென அதன் தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார்.
+
+இதேவேளை முட்டை சந்தையில் 35 ரூபாய் முதல் 48 ரூபாய் வரை முட்டையை நுகர்வோர் வாங்குகின்றனர் என்றும் முட்டையை இறக்குமதி செய்ய வேண்டிய அவசியமில்லை எனவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/da01621a.json)
+
+---
+
+### රන්ජන් නිදොස් කොට නිදහස්
+
+*2024-06-12 20:05:07* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්-නිදොස්-කොට-නිදහස්/11-410185) · `si`
+
+මහනුවර ප්‍රදේශයේ කාන්තාවකට විවාහ පොරොන්දු ලබා දී මූල්‍ය වංචාවක් සිදු කළ බවට හිටපු පාර්ලිමේන්තු මන්ත්‍රී සහ ජනප්‍රිය නළු රන්ජන් රාමනායක මහතාට එරෙහිව පවරා තිබූ නඩුවෙන් ඔහු නිදොස් කොට නිදහස් කිරීමට මහනුවර ප්‍රධාන මහේස්ත්‍රාත් චාමර වික්‍රමනායක මහතා අද (12දා)නියෝග කළේය.
+
+මහනුවර ප්‍රදේශයේ කාන්තාවකට විවාහ පොරාන්දුවක් ලබා දී රුපියල් ලක්ෂ 10ක මුදලක් වංචා කළ බවට එම කාන්තාව විසින් පොලීසියට සිදු කරන ලද පැමිණිල්ලක් අනුව මෙම නඩුව ගොනු කර තිබිණ.
+
+වසර 13ක පමණ කාලයක් මෙම නඩුව මහනුවර මහේස්ත්‍රාත් අධිකරණයේ සහ අතිරේක(01) මහේස්ත්‍රාත් අධිකරණයේ විභාග වූ අතර,එහි තීන්දුව ඊයේ (12දා) පස්වරු 1.45 ට ප්‍රකාශ කරනු ලැබුවේ මහනුවර ප්‍රධාන මහේස්ත්‍රාත් චාමර වික්‍රමනායක මහතා විසින් විවෘත අධිකරණයේදීය.
+
+...
+
+[Data](articles/a693e970.json)
 
 ---
 
@@ -199,6 +241,20 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 [Data](articles/bb31b3b7.json)
 
 [Extended Data](ext_articles/bb31b3b7.ext.json)
+
+---
+
+### සංහිදියාවේ සහ ප්‍රතිසන්ධානයේ ස්මාරකයක්
+
+*2024-06-12 18:13:53* · [`adalk`](https://www.ada.lk/breaking_news/සංහිදියාවේ-සහ-ප්‍රතිසන්ධානයේ-ස්මාරකයක්/11-410178) · `si`
+
+ශ්‍රී ලංකාවේ සන්නද්ධ ගැටුම්, දේශපාලන නොසන්සුන්තාවයන් හෝ සිවිල් කැළඹීම්වල ප්‍රතිඵලයක් ලෙස මියගිය පිරිස සැමරීම සඳහා ස්මාරකයක් ස්ථාපිත කිරීම සම්බන්ධයෙන් අධ්‍යයනය කිරීම සඳහා පත් කරන ලද විශේෂඥ කමිටුවේ වාර්තාව කමිටු සාමාජිකයන් විසින් පසුගියදා ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත භාර දෙනු ලැබීය.
+
+ජ්‍යෙෂ්ඨ මහාචාර්ය ජගත් වීරසිංහ, සෞන්දර්ය කලා විශ්වවිද්‍යාලයේ මහාචාර්ය චන්ද්‍රගුප්ත තේනුවර, යාපනය විශ්වවිද්‍යාලයේ මහාචාර්ය ටී. සනාතනන්, කොළඹ විශ්වවිද්‍යාලයේ මහාචාර්ය ෆර්සානා හනීෆා, ජාතික සමගිය හා ප්‍රතිසන්ධාන කාර්යාලයේ වැඩබලන අධ්‍යක්ෂ ජනරාල් තුෂාරි සූරියආරච්චි, නාගරික සංවර්ධන අධිකාරියේ අතිරේක අධ්‍යක්ෂ ජනරාල් මහින්ද විතානාරච්චි යන මහත්ම මහත්මීන්ගේ සාමාජිකත්වයෙන් යුතු මෙම කමිටුව 2023-05-22 වනදා ගනු ලැබූ කැබිනට් තීරණයට අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත් කරනු ලැබීය.
+
+...
+
+[Data](articles/93f3ef74.json)
 
 ---
 
@@ -2237,89 +2293,5 @@ Speaking further, President Ranil Wickremesinghe further said,
 [Data](articles/e57f64a5.json)
 
 [Extended Data](ext_articles/e57f64a5.ext.json)
-
----
-
-### Two Indians killed in Ukrainian and Russia war
-
-*2024-06-12 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197672) · `si`
-
-Two Indians fighting for Russia in Ukraine were killed. The Indian government wants their remains returned from Russia. They warn against deceptive recruitment promises offering high wages and citizenship. Nepal and Sri Lanka have issued similar warnings, with deaths reported among citizens who went to fight. Authorities in these countries have arrested suspects involved in misleading recruits. High-ranking officials from Sri Lanka plan to discuss the issue with Russia, emphasizing no recruitment for its army.
-
-🟩
-
-Two Indians recruited by the Russian army have died in the Ukrainian and Russia in the milk.
-
-According to the Indian Foreign Ministry said the Russian authorities had informed the Russian authorities to send the bodies of the dead to India.
-
-Indian authorities have also requested Russia to release them to the Russian army and redefinate them again.
-
-It is reported that the Indian youths have been sent to Russia that the Indian youth will be given large wages and their Russian citizenship.
-
-A large number of people deceived them had gone to Russia.
-
-Indian authorities arrested four suspects in May last May. It was revealed that the young Indians had been sent to Russia claiming that the young Indians would give Russia educational opportunities and employment.
-
-Two Indian nationals were killed in Ukrainian and Russia in Russia.
-
-Meanwhile, Nepal and Sri Lanka have warned their people not to deceive false promises and go to Russia.
-
-...
-
-[Data](articles/7c25ed7e.json)
-
-[Extended Data](ext_articles/7c25ed7e.ext.json)
-
----
-
-### She was killed in heavy loss of husband of her husband who died in the train accident
-
-*2024-06-12 10:58:08* · [`adalk`](https://www.ada.lk/breaking_news/එඬේරමුල්ලේ-දුම්රිය-අනතුරින්-මියගිය-සිය-සැමියාගේ-වියෝව-දරාගත-නොහැකිව-බිරිද-ජීවිතක්ෂයට/11-410168) · `si`
-
-In a tragic series of events, a woman lost her husband in a train accident, followed by her own death in a car crash at the Evelamulla railway crossing. Her husband's funeral was held after she was hospitalized from the shock.
-
-🟩
-
-A man and woman killed in the car at the cargo accident on the 8th of the Evelamulla railway crossing on the 8th.
-
-Kelum Thushara Silva's husband's wife, a resident of the Gonawala Silva, a resident of Kelaniya, was severely shocked in Grewwala Gawala, Viharaya.
-
-She had been admitted to a private hospital in Colombo, as he had told the funeral of the husband's body.
-
-◼️
-
-[Data](articles/c0847ea9.json)
-
-[Extended Data](ext_articles/c0847ea9.ext.json)
-
----
-
-### Israel has turned Israeli security zones into a killing site as Sri Lanka once done -
-
-*2024-06-12 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185888) · `ta`
-
-Israel's declaration of a "safe" zone in Gaza led to the death of 45 Palestinians, echoing Sri Lanka's civil war where a similar zone became a killing field. Both incidents saw military justifications for attacks within civilian areas, leading to widespread civilian casualties. The UN has implicated both countries in war crimes and crimes against humanity, despite Western condemnation and continued military aid.
-
-🟩
-
-While the attention of all was seen on top of Rabba, four days later, the small part of Israel Gaza was declared a safe humanitarian zone as a safe humanitarian zone, four days later.
-
-45 Palestinians were killed in an attack on the tents where Israel displaced people were staying.
-
-The incident recalls the details of the incident when WikiLeaks interrupted the secret cables that describe the plight of the public at the final moments of Sri Lanka's civil war 15 years ago.
-
-The Cables sent from the US Embassy in Colombo to the US Embassy in Colombo to the United States Department of State for the US Embassy in the Security Zone.
-
-The Sri Lankan military has declared this area a safe place for the public.
-
-The Mannar Pastor estimated that the civilians were involved in the area of ​​60,000 to 70,000.
-
-It is located twice as much as the Mankatan Central Park.
-
-...
-
-[Data](articles/a3e0090c.json)
-
-[Extended Data](ext_articles/a3e0090c.ext.json)
 
 ---

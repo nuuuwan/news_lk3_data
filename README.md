@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 02:04:24**
+As of **2024-06-13 02:19:07**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,103 (100.0%) of 30,104 articles have been extended.
+30,104 (100.0%) of 30,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### குவைத்தில் தீ விபத்து; 41 பேர் பலி
+### Fire in Kuwait;41 killed
 
 *2024-06-13 01:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குவைத்தில்-தீ-விபத்து-41-பேர்-பலி/50-338838) · `ta`
 
-குவைத்தில் கட்டடம் ஒன்றில் ஏற்பட்ட பயங்கர தீ விபத்தில் 41 பேர் உயிரிழந்துள்ளனர்.
+In Kuwait, a devastating fire in the Mangaf district resulted in 41 fatalities, primarily affecting foreign workers. At least 15 injuries were reported. The blaze, which started early in the morning, led to the death of several individuals due to smoke inhalation. Following the tragedy, the Deputy Prime Minister ordered the arrest of the building's owner.
 
-குறைத்தின் தெற்கில் உள்ள மங்காஃப் மாவட்டத்தில் இந்த தீ விபத்து ஏற்பட்டுள்ளது. இந்தப் பகுதியில் அதிகளவில் வெளிநாட்டு தொழிலாளர்கள் தங்கியிருந்தனர் என ஊடகங்கள் தெரிவித்துள்ளன.
+🟩
 
-நேற்று அதிகாலை பரவிய தீயில் 15 பேர் காயமடைந்துள்ளனர் என சுகாதார அமைச்சு குறிப்பிட்டுள்ளது.
+41 people were killed in a fire in a building in Kuwait.
 
-மேற்படி கட்டடத்தில் ஏராளமான தொழிலாளர்கள் தங்கியிருந்துள்ளனர். அவர்களில் பலர் மீட்கப்பட்டுள்ளனர். புகையை சுவாசித்ததால் மூச்சுத்திணறி பலர் உயிரிழந்துள்ளனர்.
+The fire broke out in the Mangaf district in the south of the low. The media reported that foreign workers were staying in the area.
 
-தீ விபத்து இடம்பெற்ற பகுதியை பார்வையிட்ட அந்த நாட்டு துணை பிரதமர், கட்டட உரிமையாளரை கைது செய்யுமாறு உத்தரவிட்டுள்ளார். (a)
+At least 15 people were injured in a fire that spread early this morning, the Ministry of Health said.
+
+There are plenty of workers staying in the building. Many of them have been recovered. Many people have died after breathing smoke.
+
+The Deputy Prime Minister of the country, who visited the area where the fire occurred, ordered the arrest of the building owner. (A)
 
 ◼️
 
 [Data](articles/05bd6059.json)
+
+[Extended Data](ext_articles/05bd6059.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 19:04:13**
+As of **2024-06-12 19:19:08**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 4,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,055 (100.0%) of 30,056 articles have been extended.
+30,056 (100.0%) of 30,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### ඡන්දය ගැන තවත් පෙත්සමක්
+### Another petition of the election
 
 *2024-06-12 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197693) · `si`
 
-පළාත් පාලන ඡන්ද විමසීම සඳහා නාමයෝජනා භාරදී තිබෙන අපේක්ෂකයින්ට ඔවුන්ගේ කටයුතු ප්‍රවර්ධනය කිරීම සඳහා රාජ්‍ය සම්පත් භාවිත කිරීමට ඉඩ නොදෙන ලෙස ඉල්ලා පැෆ්රල් සංවිධානය ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනුකර තිබේ.
+PAFFREL, through its Executive Director Rohana Hettiarachchi, filed a Supreme Court petition for fair nomination processes in Local Government Elections. The court, led by Chief Justice Jayantuni Jayasuriya, directed the Ministry of Finance and other agencies to support PAFFREL's efforts. Prime Minister Dinesh Gunawardena was named a respondent but later removed from the petition.
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා විසින් මෙම පෙත්සම ගොනුකර ඇත.
+🟩
 
-ඒ අනුව, පළාත් පාලන ඡන්ද විමසීම සඳහා නාමයෝජනා භාරදී තිබෙන අපේක්ෂකයින්ට ඔවුන්ගේ කටයුතු ප්‍රවර්ධනය කිරීම සඳහා රාජ්‍ය සම්පත් භාවිත කිරීමට ඉඩ නොදෙන ලෙස රජයේ ආයතන හා එහි ප්‍රධානීන්ට උපදෙස් දෙන්නැයි ඉල්ලා සහ මැතිවරණ කොමිසම විසින් නිකුත් කර තිබෙන උපදෙස් මාලාව අනුව කටයුතු කරන ලෙස මුදල් අමාත්‍යංශයේ ලේකම්වරයා ඇතුළු පිරිසක් වෙත නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකර තිබෙන පෙත්සම ජුලි මස 03 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+PAFFREL has filed a petition in the Supreme Court for the nomination of nominations for Local Government Elections to promote their work.
 
-මෙම පෙත්සම අද (12) අගවිනිසුරු ජයන්ත ජයසූරිය, කුමුදුනී වික්‍රමසිංහ සහ අචල වෙංගප්පුලි යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition has been filed by its Executive Director Rohana Hettiarachchi.
 
-...
+Accordingly, the Secretary to the Ministry of Finance and its heads are to advise the governmental agencies and its heads of government resources to promote state resources to promote state resources to promote their work.The Supreme Court ordered the petition asking for an order to issue an order on July 3.
+
+The petition was called before Chief Justice Jayantuni Jayasuriya, Kumuduni Wickremasinghe and Achala Weddapwuli Bench.
+
+Prime Minister Dinesh Gunawardena, who has been appointed as the respondents in the petitioner, to be resigned as respondents in the petitioner.
+
+◼️
 
 [Data](articles/6dc4de6a.json)
+
+[Extended Data](ext_articles/6dc4de6a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 10:53:22**
+As of **2024-06-12 11:04:47**
 
 ## Newspaper Stats
 
-*Scraped **29,942** Articles*
+*Scraped **29,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,569
-adaderanalk | 3,384
+adaderanalk | 3,386
 tamilmirrorlk | 3,505
-virakesarilk | 4,578
+virakesarilk | 4,581
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,818
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 4,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,942 (100.0%) of 29,942 articles have been extended.
+29,942 (100.0%) of 29,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### ஜனாதிபதித் தேர்தல் முடிவுகள் நாட்டின் வெற்றி, தோல்வியையே தீர்மானிக்கும் : ஜனாதிபதி
+
+*2024-06-12 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185886) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் முடிவுகள், நாட்டின் வெற்றி, தோல்வியைத் தீர்மானிக்குமே அன்றி தனிப்பட்ட வெற்றி, தோல்வியாக அமையாது என்று  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+பொருளாதார சீர்த்திருத்த துறைசார் மேற்பார்வைக்  குழுவில் கலந்து கொள்ளும் இளைஞர் பிரதிநிதிகளுடன்  பத்தரமுல்ல வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்ற கொள்கை சீர்திருத்தம் தொடர்பான கருத்தாடலில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b5a06d20.json)
+
+---
+
+### ‘Horrified’ by plight of Sri Lanka’s plantation workers, says tribunal
+
+*2024-06-12 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99821/horrified-by-plight-of-sri-lankas-plantation-workers-says-tribunal) · `en`
+
+An international tribunal of prominent judges from the region said it was “horrified by the stark realities” of the lives of Sri Lanka’s tea and rubber plantation workers, after hearing testimonies from workers and trade unions.
+
+Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands of workers are engaged in tea and rubber production. They earn vital foreign exchange for the country that is struggling to rebuild its economy after the dramatic meltdown of 2022. Last year, Sri Lanka’s revenue from tea exports totalled $1.3 billion, while rubber-based exports fetched $930 million, according to the Export Development Board.
+
+...
+
+[Data](articles/5a9a996e.json)
+
+---
+
+### Two Indians recruited by Russia killed in Ukraine
+
+*2024-06-12 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99820/two-indians-recruited-by-russia-killed-in-ukraine) · `en`
+
+India says two of its nationals who had been recruited by the Russian army have been killed in the ongoing conflict in Ukraine.
+
+The Indian foreign ministry said it had urged the Russian authorities to repatriate the bodies of the two deceased.
+
+The ministry has also urged Moscow to quickly release and return all Indian nationals who are with the Russian army.
+
+Dozens of Indians have reportedly been duped by agents into fighting for Russian forces with the lure of money and a Russian passport. The BBC has spoken to some of them.
+
+Some said they were coerced into taking up combat roles in the Russian army.
+
+“We regret to state that two Indian nationals who had been recruited by the Russian Army have recently been killed in the ongoing conflict between Russia and Ukraine,” the foreign ministry statement said, without naming the victims.
+
+The ministry also urged Indian nationals to “exercise caution while seeking employment opportunities in Russia”.
+
+...
+
+[Data](articles/b00e6fcc.json)
+
+---
+
+### உறங்கிக்கொண்டிருந்த காட்டு யானையை இளைஞரொருவர் தொடும் காணொளி ; விசாரணை ஆரம்பம்
+
+*2024-06-12 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185877) · `ta`
+
+உறங்கிக்கொண்டிருந்த காட்டு யானையை இளைஞர் ஒருவர் தொடும் காணொளி சமூக ஊடகங்களில் பகிரப்பட்டுவருகிறது. இது தொடர்பில் அநுராதபுரம் வனவிலங்கு உதவிப் பணிப்பாளரினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+ரணஜயபுர காட்டுப்பகுதிக்குள் சென்ற மூன்று இளைஞர்களில் ஒருவர் உறங்கிக்கொண்டிருந்த யானையின் அருகில் மெதுவாகச் சென்று அதைத் தொட்டுவிட்டுவரும் காட்சி காணொளியில் பதிவாகியுள்ளது.
+
+காட்டு யானையை எப்படி நெருங்குவது என்பதை காண்பிக்க, ஒரு சாகச செயலாக இந்த காணொளியை  இளைஞர்கள் பதிவு செய்து சமூக ஊடகங்களில் பகிர்ந்துள்ளனர்.
+
+இந்த காணொளி தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ள வனவிலங்கு திணைக்களம், இது ஆபத்தான செயல், காணொளியை பார்த்து இதுபோன்ற செயல்களில் ஈடுபட எவரும் முயற்சிக்க வேண்டாம் என பொதுமக்களை கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/dbe843ca.json)
+
+---
+
+### யாழ். அனலைதீவில் கடலுக்குச் சென்ற இருவரைக் காணவில்லை
+
+*2024-06-12 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185885) · `ta`
+
+யாழ்ப்பாணம் அனலைதீவிலிருந்து நேற்றுமுன்தினம் திங்கட்கிழமை (10) கடற்றொழிலுக்குச் சென்ற இருவரைக் காணவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
+
+அமரசிங்கம் மற்றும் கேதீஸ்வரன் ஆகிய இருவரையே காணவில்லை. இது தொடர்பில் பொலிஸாரிடம் முறையிடப்பட்டுள்ளது. காணாமல் போனோரை கடலில் தேடும் பணிகளும் ஆரம்பிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/dd074bc7.json)
+
+---
 
 ### Five hospitalized after bus accident at Makumbura bus station
 
@@ -89,6 +173,28 @@ The General Secretary, Nihal Ajith said that if action will be taken to address 
 [Data](articles/be5a3fae.json)
 
 [Extended Data](ext_articles/be5a3fae.ext.json)
+
+---
+
+### Unhealthy Street Business - Three
+
+*2024-06-12 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185870) · `ta`
+
+On May 29, Public Health Inspectors from Tirunelveli and Kokuvil inspected businesses, finding several lacking proper health facilities like food handling certifications and personal hygiene standards. Cases were filed against these establishments, leading to penalties and warnings.
+
+🟩
+
+The Public Health Inspector, led by Tirunelveli Public Health Inspector P. Sanjeevan, was inspected by the Public Health Inspector of the Tirunelveli and Kokuvil areas on the night of May 29.
+
+It was reported that some business centers were operating without the basic health facilities such as the handling of food without medical certification and the handling of food without personal hygiene.
+
+Public Health Inspector Pa. At the Jaffna Additional Magistrate's Court. The cases were filed by Sanjeevan on Monday 10th. Additional Magistrate who took the cases on the same day. Lenin Kumar paid a total of 35,000/= penalty and issued a warning.
+
+◼️
+
+[Data](articles/4b5e79c2.json)
+
+[Extended Data](ext_articles/4b5e79c2.ext.json)
 
 ---
 
@@ -533,28 +639,6 @@ Police have taken steps to seize cannabis at the Jaffna Magistrate's Court and h
 [Data](articles/5e8f47e4.json)
 
 [Extended Data](ext_articles/5e8f47e4.ext.json)
-
----
-
-### Unhealthy Street Business - Three
-
-*2024-06-12 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185870) · `ta`
-
-On May 29, Public Health Inspectors from Tirunelveli and Kokuvil inspected businesses, finding several lacking proper health facilities like food handling certifications and personal hygiene standards. Cases were filed against these establishments, leading to penalties and warnings.
-
-🟩
-
-The Public Health Inspector, led by Tirunelveli Public Health Inspector P. Sanjeevan, was inspected by the Public Health Inspector of the Tirunelveli and Kokuvil areas on the night of May 29.
-
-It was reported that some business centers were operating without the basic health facilities such as the handling of food without medical certification and the handling of food without personal hygiene.
-
-Public Health Inspector Pa. At the Jaffna Additional Magistrate's Court. The cases were filed by Sanjeevan on Monday 10th. Additional Magistrate who took the cases on the same day. Lenin Kumar paid a total of 35,000/= penalty and issued a warning.
-
-◼️
-
-[Data](articles/4b5e79c2.json)
-
-[Extended Data](ext_articles/4b5e79c2.ext.json)
 
 ---
 
@@ -2053,107 +2137,5 @@ He was speaking at a media briefing held at the Colombo Opposition Office today 
 [Data](articles/49090720.json)
 
 [Extended Data](ext_articles/49090720.ext.json)
-
----
-
-### Ferry service between Bangladesh and Sri Lanka in the offing
-
-*2024-06-11 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ferry-service-between-Bangladesh-and-Sri-Lanka-in-the-offing/108-284618) · `en`
-
-June 11 - Prime Minister Sheikh Hasina of Bangladesh and President Ranil Wickremesinghe of Sri Lanka have initiated discussions on a free trade agreement (FTA) and the potential launch of a passenger ferry service between the two countries.
-
-This was conveyed during the recent meeting between President Ranil Wickremesinghe and Sheikh Hasina in New Delhi on the sidelines of the swearing-in ceremony of Indian Prime Minister Narendra Modi.
-
-Sheikh Hasina has also aledged support for Sri Lanka's agricultural modernization and expressed willingness to provide assistance through direct private investment partnerships from Bangladesh to Sri Lanka.
-
-...
-
-[Data](articles/311ed1d0.json)
-
-[Extended Data](ext_articles/311ed1d0.ext.json)
-
----
-
-### Former Maha Governmentapatini, Ratnapura, pardons a journalist
-
-*2024-06-11 18:42:06* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-හිටපු-මහ-දිසාපතිනී-ඇතුළු-පිරිසක්-මාධ්‍යවේදියෙකුගෙන්-වැඳ-සමාව-ගනියි/11-410153) · `si`
-
-In a landmark decision, the Supreme Court has pardoned journalist Sarath Wimalaratne, ensuring no action will be taken against him. This follows a case where Sarath was initially arrested but later released. The former High Government Agent of Ratnapura and other officials have pledged not to prosecute Sarath further.
-
-🟩
-
-Former High Government Agent Marani Eepogra, Ratnapura and OIC of Ratnapura has commemorated the journalist in the Supreme Court today (11).
-
-The respondents promised to do not take any action against Mr. Sarath Wanalaratne journalist Sarath Wimalaratne and the respondents had promised to withdraw the case against him.
-
-A soldier and several others from the Ratnapura Government Agent's Army Corporal, a former Army Corporation and several others were arrested in the Ratnapura Government Agent's Army Campaign and detained by the Ratnapura Police.The case was so set up.
-
-The petition was considered in the face of Supreme Court Judge of the Supreme Court Judge Mulf Fernando and Mahinda Samayawardena.
-
-...
-
-[Data](articles/c3b507e0.json)
-
-[Extended Data](ext_articles/c3b507e0.ext.json)
-
----
-
-### Sri Lanka looks for investment for ship building, repairing in Oluvil commercial harbour
-
-*2024-06-11 18:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-for-investment-for-ship-building-repairing-in-oluvil-commercial-harbour-167518/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking for private investments including from foreigners to resume operations with options of ship building and ship repairing in its state-owned Eastern port in Oluvil which consists of a commercial and fisheries port, Fisheries Minister Douglas Devananda said.
-
-The port, located in Sri Lanka’s Eastern district of Ampara, was opened in 2013 after being constructed for five years, but accumulation of sand dunes at the entrance to the harbour had has made vessels inaccessible.
-
-The port has been closed down for nearly a decade effected the livelihoods of nearly 100,000 people who had no option but to look for other employments.
-
-Minister Devananda said an initial meeting was held on Tuesday (11) with all the stakeholders including officials from Sri Lanka Ports Authority, Navy, people in the area, and professionals.
-
-...
-
-[Data](articles/a02fd6fe.json)
-
-[Extended Data](ext_articles/a02fd6fe.ext.json)
-
----
-
-### Whoever comes to power, IMF agreement will have to work
-
-*2024-06-11 18:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කවුරු-බලයට-පැමිණියත්-IMF-ගිවිසුම-අනුව-කටයුතු-කිරීමට-සිදුවෙනවා/11-410151) · `si`
-
-Regardless of who gains power, the IMF agreement must be honored. Minister Bandula Gunawardena emphasized that parties expected to hold state power should adhere to these agreements. Protests and strikes have led to the formation of a committee to address issues across state departments and corporations. Despite government efforts, Budget 2024 lacked additional funding due to insufficient recurrent expenditure. In 2023, total revenue was Rs. 3201 billion, but expenses exceeded Rs. 4.3 trillion. For 2025, the government needs to act with the IMF, requiring significant external resources. Past experiences suggest a need for USD 5018 million, with the IMF agreeing to provide USD 663 million and covering the budget deficit with another USD 700 million. The World Bank offers USD 400 million and USD 300 million, while foreign debt restructuring may lead to USD 3655 million in debt relief. President Ranil Wickremesinghe has the authority to decide on acquiring state power for these agreements, highlighting the necessity of international cooperation for the upcoming budget.
-
-🟩
-
-The Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media.
-
-He also said that the parties expected to obtain state power regarding these agreements should be said to the country.
-
-Minister Bandula Gunawardena made this statement participating at a press conference held at the Presidential Media Center today (10) at the Presidential Media Center.
-
-Various parties have already implemented protests, strike demonstrations. Accordingly, a committee consisting of the Secretary to the President and the Ministry of Finance has been appointed to address the issues including state departments, state corporations and statutory boards.. President Ranil Wickremesinghe and the Cabinet of Ministers had also taken a decision to provide full solutions from the 2025 budget.
-
-...
-
-[Data](articles/33ff05fd.json)
-
-[Extended Data](ext_articles/33ff05fd.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-11 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
 
 ---

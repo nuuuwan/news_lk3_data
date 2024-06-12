@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 09:05:12**
+As of **2024-06-12 09:19:01**
 
 ## Newspaper Stats
 
-*Scraped **29,931** Articles*
+*Scraped **29,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,70 @@ economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,566
 adaderanalk | 3,381
-tamilmirrorlk | 3,504
+tamilmirrorlk | 3,505
 virakesarilk | 4,577
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,816
+adaderanasinhalalk | 4,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,928 (100.0%) of 29,931 articles have been extended.
+29,931 (100.0%) of 29,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### පළාත් සභා ක්‍රමයට එකඟ බව අනුර TNA හමුවේ කියයි
+### මුහුදුබඩ දුම්රිය ප්‍රමාදයක්
+
+*2024-06-12 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197668) · `si`
+
+මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුව ඇතැයි දුම්රිය පාලක මැදිරිය දැනුම් දී තිබේ.
+
+කළුතර දකුණ දුම්රිය ස්ථානයේ සහ කටුකරුන්ද දුම්රිය ස්ථාන අතර සාගරිකා ශීඝ්‍රගාමී දුම්රිය කාර්මික දෝෂයකට ලක්වීම හේතුවෙන් මෙලෙස දුම්රිය ධාවනයට බාධා ඇතිව තිබේ.
+
+◼️
+
+[Data](articles/488008d0.json)
+
+---
+
+### சாகரிகாவால் கரையோர புகையிரத சேவை தடைப்பட்டது
+
+*2024-06-12 08:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாகரிகாவால்-கரையோர-புகையிரத-சேவை-தடைப்பட்டது/175-338795) · `ta`
+
+காலியில் இருந்து கொழும்பு நோக்கி பயணித்த சாகரிகா புகையிரதம் கட்டுகுருந்து புகையிரத நிலையத்திற்கு அருகில் தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதனால், கரையோர புகையிரத சேவை தடைபட்டுள்ளதுடன், பயணிகள் பலர் சிரமத்திற்கு ஆளாகியுள்ளனர் எனவும் தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/52702e65.json)
+
+---
+
+### Anura TNA claims to be in harmony with the provincial council system
 
 *2024-06-12 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197667) · `si`
 
-පළාත් සභා පවතින ආකාරයෙන් ක්‍රියාත්මක විය යුතු බවට ජාතික ජන බලවේගය පිළිගන්නා බව අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake, representing the Tamil National Alliance (TNA), supports the provincial council system, emphasizing the need for discussions on its implementation and expansion beyond legal limitations to foster national unity through constitutional changes.
 
-ඔහු පවසන්නේ, එය තවදුරටත් ක්‍රියාත්මක කරන ආකාරය සම්බන්ධයෙන් සාකච්ඡාවක් ආරම්භ කළ යුතු බවය.
+🟩
 
-දෙමළ ජාතික සන්ධානයේ නියෝජිතයින් සමග යාපනයේදී පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අනුර කුමාර දිසානායක මන්ත්‍රීවරයා මේ බව සඳහන් කළේය.
+Anura Kumara Dissanayake says that the national folk force is accepted that the provincial councils should be implemented.
 
-...
+He says that a discussion should be founded on how to implement further.
+
+Speaking to the media with the TNA representatives of the TNA, MP Anura Kumara Dissanayake said this.
+
+"We must build a conversation to go out here. Especially has a constitutional change. Moreover, we must minimize opportunities for solutions established in the law. Some of them are limited to the law only. They go beyond it practice and need activities. Provincial councils are power distribution. Therefore, we agreed to the provincial councils already implemented. We also admit that there is no solution from the provincial councils. So we have to go beyond. We believe that he can establish national unity with a change of constitutional, legal, practical areas. "
+
+◼️
 
 [Data](articles/e22bbc95.json)
+
+[Extended Data](ext_articles/e22bbc95.ext.json)
 
 ---
 
@@ -64,21 +100,29 @@ However, this follows a statement made by Minister of Power and Energy, Kanchana
 
 [Data](articles/891a4e94.json)
 
+[Extended Data](ext_articles/891a4e94.ext.json)
+
 ---
 
-### இலங்கை - நேபாளத்திற்கு இடையிலான போட்டி கைவிடப்பட்டது
+### Sri Lanka - Nepal rivalry abandoned
 
 *2024-06-12 08:39:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளத்திற்கு-இடையிலான-போட்டி-கைவிடப்பட்டது/175-338794) · `ta`
 
-தொடர்ச்சியாக மழை பெய்து வருவதால் 2024 T20 உலகக்கிண்ணத் தொடரில் இலங்கை மற்றும் நேபாளம் அணிகளுக்கு இடையில் இன்று இடம்பெறவிருந்த போட்டி கைவிடப்பட்டுள்ளது.
+Due to persistent rain, the match between Sri Lanka and Nepal in the 2024 T20 World Cup was abandoned, with both teams awarded one point each.
 
-அமெரிக்காவின் புளோரிடாவில் உள்ள சென்ட்ரல் ப்ரோவர்ட் ரீஜினல் பார்க் ஸ்டேடியம் டர்ஃப் மைதானத்தில் தொடர்ச்சியாக மழை பெய்து வருவதால் இந்த போட்டியை கைவிட நடுவர்கள் தீர்மானித்துள்ளனர்.
+🟩
 
-இதற்கமைய, இலங்கை மற்றம் நேபாளம் அணிகளுக்கு தலா ஒரு புள்ளி வீதம் வழங்கப்பட்டுள்ளது. R
+The match between Sri Lanka and Nepal has been abandoned today in the 2024 T20 World Cup series due to continuous rains.
+
+The referees have decided to abandon the tournament as it continues to rain at the Central Brown Reginally Park Stadium in Florida, USA.
+
+Accordingly, the Sri Lankan and Nepal teams have been given one point each. Remble
 
 ◼️
 
 [Data](articles/7642a9ef.json)
+
+[Extended Data](ext_articles/7642a9ef.ext.json)
 
 ---
 
@@ -2103,45 +2147,5 @@ Previously, a gang had surrounded the Labour Office where a meeting was taking p
 [Data](articles/d83424cb.json)
 
 [Extended Data](ext_articles/d83424cb.ext.json)
-
----
-
-### SLC announces Women’s squad for West Indies series
-
-*2024-06-11 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-announces-Womens-squad-for-West-Indies-series/108-284614) · `en`
-
-(SLC) - The Sri Lanka Cricket Selection Committee announced the 16-member Sri Lanka squad to play the ODI series against the West Indies.
-
-The ODI series will be played in MRICS, Hambantota, on the 15th, 18th, and 21st of June.
-
-◼️
-
-[Data](articles/74f45b38.json)
-
-[Extended Data](ext_articles/74f45b38.ext.json)
-
----
-
-### Prohibition of wearing hijab;Resigned teacher
-
-*2024-06-11 17:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்-அணிந்து-வர-தடை-இராஜினாமா-செய்த-ஆசிரியை/175-338769) · `ta`
-
-A teacher named Sanjita Khadar resigned from LJD Law College in Kolkata after the administration asked her to remove her hijab from the workplace starting May 31st. She claimed this order violated her religious sentiments. The college denied any such restriction, stating it only aimed to maintain a balanced dress code without explicitly banning hijabs.
-
-🟩
-
-There was an incident in Kolkata that the teacher had resigned from his work after the college administration had said that the hijab should not be worn for the workplace.
-
-Sanjita Khadar, a teacher who has been working for about three years at the LJD Law College, Kolkata, has resigned from his job.. He has accused the college administration of not wearing a hijab for the workplace.
-
-LJD Law College is Private College. Is operating under the University of Kolkata. The college administration seems to have told Sanjita Khadar, who worked at the college, not to wear a hijab after May 31st.. He then resigned from his work on June 5.
-
-He quit his work by claiming that the order of the college executive committee offended his religious sentiments. The college administration has denied the issue as the issue came to light among the people. It also said that there was no restriction on Sanjita to close her head in the workplace.
-
-...
-
-[Data](articles/6c8e2cc7.json)
-
-[Extended Data](ext_articles/6c8e2cc7.ext.json)
 
 ---

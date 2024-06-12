@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 18:53:33**
+As of **2024-06-12 19:04:13**
 
 ## Newspaper Stats
 
-*Scraped **30,055** Articles*
+*Scraped **30,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 3,405
 tamilmirrorlk | 3,520
 virakesarilk | 4,600
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,840
+adaderanasinhalalk | 4,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,047 (100.0%) of 30,055 articles have been extended.
+30,055 (100.0%) of 30,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### சிறுமி தாக்கப்படும் வீடியோவை வெளியிட்ட இளைஞனுக்கு கௌரவிப்பு
+### ඡන්දය ගැන තවත් පෙත්සමක්
+
+*2024-06-12 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197693) · `si`
+
+පළාත් පාලන ඡන්ද විමසීම සඳහා නාමයෝජනා භාරදී තිබෙන අපේක්ෂකයින්ට ඔවුන්ගේ කටයුතු ප්‍රවර්ධනය කිරීම සඳහා රාජ්‍ය සම්පත් භාවිත කිරීමට ඉඩ නොදෙන ලෙස ඉල්ලා පැෆ්රල් සංවිධානය ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනුකර තිබේ.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා විසින් මෙම පෙත්සම ගොනුකර ඇත.
+
+ඒ අනුව, පළාත් පාලන ඡන්ද විමසීම සඳහා නාමයෝජනා භාරදී තිබෙන අපේක්ෂකයින්ට ඔවුන්ගේ කටයුතු ප්‍රවර්ධනය කිරීම සඳහා රාජ්‍ය සම්පත් භාවිත කිරීමට ඉඩ නොදෙන ලෙස රජයේ ආයතන හා එහි ප්‍රධානීන්ට උපදෙස් දෙන්නැයි ඉල්ලා සහ මැතිවරණ කොමිසම විසින් නිකුත් කර තිබෙන උපදෙස් මාලාව අනුව කටයුතු කරන ලෙස මුදල් අමාත්‍යංශයේ ලේකම්වරයා ඇතුළු පිරිසක් වෙත නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකර තිබෙන පෙත්සම ජුලි මස 03 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (12) අගවිනිසුරු ජයන්ත ජයසූරිය, කුමුදුනී වික්‍රමසිංහ සහ අචල වෙංගප්පුලි යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/6dc4de6a.json)
+
+---
+
+### Honor to young man who released a video of the girl attacked
 
 *2024-06-12 18:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-தாக்கப்படும்-வீடியோவை-வெளியிட்ட-இளைஞனுக்கு-கௌரவிப்பு/175-338823) · `ta`
 
-முல்லைத்தீவு - மணலாறு (வெலிஓயா) பகுதியில் 4 சிறுமி மீது கடுமையாக தாக்குதல் நடத்திய சம்பவத்தை வீடியோ எடுத்து அதை வெளியிட்ட தருஷ சந்தருவான் கொடிகார என்ற இளைஞன் கௌரவிக்கப்பட்டு, 5 லட்சம் ரூபா பணமும் வழங்கி வைக்கப்பட்டது.
+A young man, Tarusha Sandaruwan Kodikara, was honored and awarded Rs 5 lakhs after releasing a video of a child abuse incident in Mullaitivu. The suspect, Kukul Saminda, was arrested, and five others involved were remanded. The honor and payment were facilitated by the Public Security Minister and the Chief of Police.
 
-அண்மையில் சமூக வலைத்தளங்களில் வெளியிடப்பட்ட குறித்த வீடியோவால் குகுல் சமிந்த என்ற சந்தேகநபர் பொலிஸாரினால் உடனடியாக கைது செய்யப்பட்டார்.
+🟩
 
-இந்த சம்பவம் தொடர்பில் ஐவர் கைது செய்யப்பட்டதுடன், சந்தேகநபர்களை எதிர்வரும் 19ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பதவிய நீதவான் உத்தரவு பிறப்பித்திருந்தார்.
+Tarusha Sandaruwan Kodikara, a young man who released the video of a four -year -old attack on a 4 girl in the Mullaitivu - Manalaru (Welioya) area, was honored and paid Rs 5 lakhs.
 
-இந்த நிலையில், சந்தேகநபரான குகுல் சமிந்த என்ற சந்தேகநபர், சிறுமியை தாக்கும் வீடியோவை பதிவு செய்த இளைஞன் இன்று பொலிஸாரினால் கௌரவிக்கப்பட்டு, அந்த இளைஞனுக்கு 5 லட்சம் ரூபா பணமும் வழங்கி வைக்கப்பட்டது.
+Kukul Saminda, a suspect, was immediately arrested by the police for a video posted on social media.
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பொலிஸ் மாஅதிபர் தேசபந்து தென்னக்கோன் ஆகியோரினால் இந்த பணம் வழங்கி வைக்கப்பட்டது. R
+Five people were arrested in connection with the incident and the magistrate had ordered the suspects to be remanded until the 19th.
+
+In the meantime, the suspect, Kukul Saminda, a suspect, who recorded a video of the girl, was honored by the police today and the young man was paid 5 lakh rupees.
+
+The money was issued by Public Security Minister Tran Ales and the Chief of Police, Patriot Tennakoon.. Remble
 
 ◼️
 
 [Data](articles/bb31b3b7.json)
+
+[Extended Data](ext_articles/bb31b3b7.ext.json)
 
 ---
 
@@ -112,19 +136,25 @@ The van was hit by a bus with stopped and two women and a man died in the van.
 
 ---
 
-### වෑගම වෑන් අනතුරින් තිදෙනෙක් මරුට
+### Three killed in Weigama van crash
 
 *2024-06-12 17:37:10* · [`adalk`](https://www.ada.lk/breaking_news/වෑගම-වෑන්-අනතුරින්-තිදෙනෙක්-මරුට/11-410175) · `si`
 
-බිබිල මහියංගන මාර්ගෙය් වැගම ප්‍ර දේශ්යදෙී අද (12) දින සවස පෞද්ගලික බසයක වෑන් රථයක් ගැටී සිදුවු අනතුරකින් වෑන් රථයේ ගමන්ගත් අඹූ සැමි යුවලක් ඇතුළු තිදෙනෙකු මියෙගාස් තවත් පස් දෙනෙකු  තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය කියයි.
+A fatal crash involving two buses in Mahiyangana resulted in three deaths and hospitalizations for four others. The incident occurred when one bus collided with another while both were en route from a garage in the Mahija area.
 
-අනතුරින් බරපතල තුවාල ලැබු වැන් රථය පැදවු මිය ගිය අඹූ සැමි යුවලගේ පුතෙකු බදුල්ල මහ රෝහලටත් වාහනයේ සිටි තවත් අයෙකු සිරිගල රෝහලට ඇතුලත් කර තිබෙන අතර තුවාල ලැබු වැන් රථයේ ගිය දරුවෙකු සහ බසයේ රියදුරු හා රිය සහයක බිබිල මුලික රෝහ‍ලේ ප්‍රතිකාර ගන්නා බව පෙලිසිය කියයි,
+🟩
 
-අනතුර සිදුවු වෑගම බිබිල මහියංගන ප්‍රෙද්ශෙය්  ගරාජයක සිට ප්‍රධාන මාර්ගයට බසය ධාවනය කරමින් සිටියදි මාර්ගෙය් ධාවනය වු වෑන් රථය බසෙය් ඉදිරිපස ගැටී මෙම අනතුර සිදුව තිබේ, බිබිල පෙලිසිය පරීක්ෂණ ආරම්භ කර තිබේ,
+Police said that three others were hospitalized after a private bus collided with a private bus with a private bus with a private bus today (12) in the Mahiyangana road.
+
+Persisha is being admitted to the Badulla General Hospital and another person who was injured in the accident and the bus assistant in the wounded vehicles and the bus assistant in the wounded vehicles and a bus.
+
+The accident had occurred when the accident was running from a garage in Mahija Mahiyangana area, which was traveling from a garage in Mahija Mahiyangana area.
 
 ◼️
 
 [Data](articles/f29efc2a.json)
+
+[Extended Data](ext_articles/f29efc2a.ext.json)
 
 ---
 
@@ -504,6 +534,8 @@ The decision was made based on the bids received from the registered suppliers o
 
 [Data](articles/1f906388.json)
 
+[Extended Data](ext_articles/1f906388.ext.json)
+
 ---
 
 ### Actress Aishwarya Arjun - Actor Umapati Ramaiah's marriage
@@ -661,6 +693,8 @@ The debt office offered 215 billion rupees of bills and raised a similar amount 
 ◼️
 
 [Data](articles/02f92c14.json)
+
+[Extended Data](ext_articles/02f92c14.ext.json)
 
 ---
 
@@ -915,6 +949,8 @@ The committee prepared the policy in consultation with the business and industry
 ...
 
 [Data](articles/021f982d.json)
+
+[Extended Data](ext_articles/021f982d.ext.json)
 
 ---
 
@@ -1218,6 +1254,8 @@ Sri Lanka hopes to sign FTAs with other ASEAN member states after debt restructu
 
 [Data](articles/0bfafd8b.json)
 
+[Extended Data](ext_articles/0bfafd8b.ext.json)
+
 ---
 
 ### NPP backs continuation of Provincial Councils in existing form
@@ -1370,6 +1408,8 @@ It has now come up with plans to lease out space above some select railway stati
 
 [Data](articles/f98a8eba.json)
 
+[Extended Data](ext_articles/f98a8eba.ext.json)
+
 ---
 
 ### LOLC Savi and SLT-Mobitel Upahara join forces to enhance services for state sector employees
@@ -1479,6 +1519,8 @@ Startup Genome listed ‘Access to Talent’ as a reason to move ventures to the
 ...
 
 [Data](articles/4860b194.json)
+
+[Extended Data](ext_articles/4860b194.ext.json)
 
 ---
 
@@ -2283,35 +2325,5 @@ Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands 
 [Data](articles/5a9a996e.json)
 
 [Extended Data](ext_articles/5a9a996e.ext.json)
-
----
-
-### Children in Australia to Work Order: 'Go the Nil Normal
-
-*2024-06-12 10:32:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg33lz7ljvxo) · `si`
-
-In response to the brutal assault of a child, Australia focuses on child rights, highlighting the global issue of child labor affecting 160 million children worldwide, including 63 million girls. The International Labor Organization emphasizes the urgency to end child labor, with examples from Sri Lanka showing children working under hazardous conditions despite legal protections. The National Child Protection Authority in Sri Lanka reports increasing complaints about child labor, urging stricter regulations and better enforcement to protect children's rights and ensure their safety and education.
-
-🟩
-
-Children in Australia to Work Order: 'Go the Nil Normal
-
-With the publicity of a thumbage daughter who brutally assaulted a thumbar daughter of sensitive acquisition, the children of the country focused on child rights.
-
-World's gain children is special today due to international child labor children who have forced to work on any reason. This year's global theme is to "act on our sacrifices: Let's finish child labor!".
-
-According to the International Labor Organization, 160 million children worldwide live in the world. 63 million of it is girls and 97 million children employed.
-
-When the children are sensitive when they attack their children, we need to think about how sensitive when children are the disciplines.
-
-The death of the death of Philiscy, the death of Philistini Jude girl was the death of the story of children of Sri Lanka.
-
-How many children who are selling the inhabitants or mint balls that sells the inlet or mint balls of the garage?
-
-...
-
-[Data](articles/911d3eb1.json)
-
-[Extended Data](ext_articles/911d3eb1.ext.json)
 
 ---

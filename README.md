@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 04:06:59**
+As of **2024-06-13 04:19:07**
 
 ## Newspaper Stats
 
-*Scraped **30,104** Articles*
+*Scraped **30,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,827
 adalk | 2,590
 adaderanalk | 3,411
 tamilmirrorlk | 3,523
-virakesarilk | 4,605
+virakesarilk | 4,610
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,847
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,104 (100.0%) of 30,104 articles have been extended.
+30,104 (100.0%) of 30,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### கட்டைக்காட்டில் சட்டவிரோத தொழில் - 16பேர் கைது
+
+*2024-06-13 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185958) · `ta`
+
+வடமராட்சி கிழக்கு கட்டைக்காட்டில் சட்டவிரோதமாக ஒளி பாய்ச்சி மீன்பிடியில் ஈடுபட்ட 16பேர் 8 படகுகளுடன் 12 ஆம் திகதி புதன்கிழமை கைது செய்யப்பட்டனர்.
+
+வடமராட்சி கிழக்கு கட்டைக்காடு தொடக்கம் சுண்டிக்குளம் வரையிலான கடற்பகுதியில் சட்டவிரோத தொழில்களான அட்டை பிடித்தல்,ஒளிப்பாய்ச்சி மீன்பிடித்தல் போன்ற நடவடிக்கைகள் தீவிரமாகியுள்ளதால் சிறு தொழிலாளிகள் தொடர் முறைப்பாடுகளைச் செய்து வருகின்றனர்
+
+கட்டைக்காட்டிலிருந்து 11ஆம் திகதி செவ்வாய்க்கிழமை ஐம்பதுக்கும் அதிகமான படகுகளில் சென்று ஒளிபாய்ச்சி மீன்பிடித்து பல்லாயிரக்கணக்கான மீன்களோடு கரைக்கு வந்து கொண்டிருந்தவேளை 12 ஆம் திகதி புதன்கிழமை காலை 8 படகுகளுடன் குறித்த 16பேரும் வெற்றிலைக்கேணி கடற்படையால் கைது செய்யப்பட்டனர்
+
+...
+
+[Data](articles/6fcbf988.json)
+
+---
 
 ### Fire in Kuwait;41 killed
 
@@ -55,6 +71,26 @@ The Deputy Prime Minister of the country, who visited the area where the fire oc
 [Data](articles/05bd6059.json)
 
 [Extended Data](ext_articles/05bd6059.ext.json)
+
+---
+
+### மேற்கிந்தியத் தீவுகளுக்கு எதிரான போட்டி நியூஸிலாந்துக்கு தீர்மானமிக்கது
+
+*2024-06-13 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185957) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிரான தனது முதலாவது போட்டியில் தோல்வி அடைந்த நியூஸிலாந்து சி குழுவுக்கான ரி20 உலகக் கிண்ணத்தில் தனது இரண்டாவது போட்டியில் முன்னாள் சம்பியன் மேற்கிந்தியத் தீவுகளை எதிர்த்தாடவுள்ளது.
+
+இப் போட்டி இலங்கை நேரப்படி வியாழக்கிழமை (13) காலை 6.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+
+இந்தப் போட்டியில் மேற்கிந்தியத் தீவுகள் வெற்றிபெற்றால் நான்காவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெறும் அதேவேளை நியூஸிலாந்தின் சுப்பர் 8 சுற்று வாய்ப்பு கேள்விக்குறியாகிவிடும்.
+
+எனவே இன்றைய போட்டியில் மேற்கிந்தியத் தீவுகளை வீழ்த்தி தனது சுப்பர் சுற்று வாய்ப்பை சற்று அதிகரித்துக்கொள்ள நியூஸிலாந்து கடுமையாக முயற்சிக்கும்.
+
+2015க்குப் பின்னர் உலகக் கிண்ணப் போட்டிகளில் அதிசிறந்த ஆற்றல்களை வெளிப்படுத்தி வந்துள்ள நியூஸிலாந்து சர்வதேச ஒருநாள் உலகக் கிண்ணத்தில் 2015, 2019, 2023 ஆகிய வருடங்களிலும் ரி20 உலகக் கிண்ணத்தில் 2016, 2021, 2022 ஆகிய வருடங்களிலும் அரை இறுதிவரை முன்னேறியிருந்தது. அவற்றில் 3 சந்தர்ப்பங்களில் இறுதி ஆட்டத்தில் விளையாடியபோதிலும் சம்பியன் பட்டத்தை சூடவில்லை.
+
+...
+
+[Data](articles/82b76722.json)
 
 ---
 
@@ -356,6 +392,28 @@ On 1 April, the Cabinet approved a proposal to allow the import of 250 small bus
 
 ---
 
+### ஐக்கிய அமெரிக்காவை வெற்றிகொண்ட இந்தியா சுப்பர் 8 சுற்றுக்கு தகுதிபெற்றது
+
+*2024-06-13 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185956) · `ta`
+
+இந்தியாவுக்கும் ஐக்கிய அமெரிக்காவுக்கும் இடையில் நியூயோர்க் நசவ் கவுன்டி சரவ்தேச கிரிக்கெட் விளையாட்டரங்கில் சற்ற நேரத்துக்கு முன்னர் நிறைவடைந்த ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் 7 விக்கெட்களால் இந்தியா வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் இந்தியா மூன்றாவது அணியாக சுப்பர் 8 சுற்றில் விளையாட தகுதிபெற்றது.
+
+தென் ஆபிரிக்கா (டி குழு), அவுஸ்திரேலியா (பி குழு) ஆகியன சுப்பர் 8 சுற்றுக்கு தெரிவான முதல் இரண்டு அணிகளாகும்.
+
+விசித்திரமான ஆடுகளத்தில்  இந்தப் போட்டியிலும்   துடுப்பாட்ட வீரர்கள் பந்து வீச்சாளர்களை எதிர்கொள்வதில் சிரமத்தை எதிர்கொண்டனர்.
+
+நினைத்துப்பார்க்க முடியாத அளவுக்கு சில சந்தர்ப்பங்களில் பந்து எகிறிப் பாய்வதுடன்  மற்றும் சில சந்தர்ப்பங்களில் பந்து தாழ்வாக சென்றது.
+
+ஐக்கிய அமெரிக்காவினால் நிர்ணயிக்கப்பட்ட 111 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 18.2 ஓவர்களில் 3 விக்கெட்களை இழந்து 111 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+...
+
+[Data](articles/85a60183.json)
+
+---
+
 ### 2024-06-12 (Wednesday)
 
 ### IMF approves second review of Sri Lanka’s bailout package - FM
@@ -519,6 +577,46 @@ Justice, Prison Affairs and Constitutional Reforms Minister, President’s Couns
 [Data](articles/1a8ac978.json)
 
 [Extended Data](ext_articles/1a8ac978.ext.json)
+
+---
+
+### சுற்றுலாத்துறைக்கு தேவையான வாகன இறக்குமதிக்கு அமைச்சரவை அங்கீகாரம்
+
+*2024-06-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185955) · `ta`
+
+சுற்றுலாத்துறைக்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கான விதிமுறைகளை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கான அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளதாக அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு புதன்கிழமை (12) நடைபெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+2023 ஆம் ஆண்டின் இரண்டாவது இறக்குமதி மற்றும் ஏற்றுமதி கட்டுப்பாட்டு ஒழுங்குமுறையின்படி, இலங்கைக்கான மோட்டார் வாகனங்களை இறக்குமதி செய்வது தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+
+ஆனால் சுற்றுலா மற்றும் காணி அமைச்சரினால் முன்வைக்கப்பட்ட யோசனையின் பிரகாரம், 250 சிறிய பேருந்துகள் மற்றும் 75 வேன்களை சுற்றுலாப் பயணிகளை ஏற்றிச் செல்வதற்கு கடந்த ஏப்ரல் 1 ஆம் திகதி நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் அனுமதி வழங்கப்பட்டது.
+
+...
+
+[Data](articles/a66caeeb.json)
+
+---
+
+### அரச சார்பற்ற நிறுவனங்கள் தரவரிசையில் இலங்கை முன்னேற்றம்
+
+*2024-06-12 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185954) · `ta`
+
+ஆசிய சமூக சேவைத் துறையில் அரச சார்பற்ற நிறுவனங்கள் (NGO), தரவரிசையில் இலங்கை முன்னேறியுள்ளது.
+
+2022 ஆம் ஆண்டளவில் அடைந்திருந்த கரும்புள்ளியை அகற்றி 2024 ஆம் ஆண்டில் இந்த முன்னேற்றத்தை இலங்கை கண்டுள்ளது.
+
+2024 ஆண்டு ஆசிய சமூக சேவை துறையின் செயல் திறனை அளவிடும் DOING Good INDEX தரப்படுத்தப்படுத்தல் சுட்டிக்கு அமைய இலங்கை 2024 ஆம் ஆண்டுக்கான பட்டியலில் முன்னேற்றம் கண்டுள்ளது.
+
+இதற்கமைய கம்போடியா, இந்தியா, இந்தோனேஷியா, நேபாளம், பாகிஸ்தான், தாய்லாந்து மற்றும் வியட்நாம் ஆகிய நாடுகளுடன் DOING OKEY குழுவில் இலங்கை இணைந்துள்ளது.
+
+2022 சுட்டெண் படி, இலங்கை பங்களாதேசுடன் தரவரிசையில் NOT DOING ENOUGH பிரிவில்  இருந்தது.
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸின் வழிகாட்டலில் முன்னெடுக்கப்பட்ட பல சீர்திருத்தங்களின் பெறுபேறாக இது அமைந்துள்ளது என அரச சார்பற்ற நிறுவனங்களுக்கான தேசிய செயலகத்தின் பணிப்பாளர் நாயகம் சஞ்சீவ விமலகுணரத்ன தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/05bcf0fa.json)
 
 ---
 
@@ -2119,127 +2217,5 @@ Although he was immediately rushed to the Athimalai Divisional Hospital, the boy
 [Data](articles/9dbaa846.json)
 
 [Extended Data](ext_articles/9dbaa846.ext.json)
-
----
-
-### Three out of five people digitally literate in Sri Lanka – survey
-
-*2024-06-12 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99829/three-out-of-five-people-digitally-literate-in-sri-lanka-survey) · `en`
-
-Sri Lanka’s digital literacy has increased to 63.5% in the year 2023, according to the latest report by the Department of Census and Statistics. This means that three out of five persons aged between 5 and 69 in Sri Lanka are digitally literate.
-
-Additionally, two out of five persons aged between 5 and 69 in Sri Lanka are computer literate, the report by the Department of Census and Statistics highlighted.
-
-Accordingly, Sri Lanka’s computer literacy rate in 2023 has increased to 39.0% compared to the rate of 16.1% in the 2006 – 2007 period.
-
-The findings also indicate that the computer literacy rate of males in Sri Lanka is 40.9% while in females the rate was indicated as 37.2% in 2023.
-
-The highest computer literacy rate is reported among the age group of 15 – 19. The computer literacy rate in this age group was recorded as 79.4%, while the number was mentioned as 74.7% in the age group of 20 – 24.
-
-...
-
-[Data](articles/e51d9017.json)
-
-[Extended Data](ext_articles/e51d9017.ext.json)
-
----
-
-### In incident that threatened lawyer: released to imprisoned five
-
-*2024-06-12 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185879) · `ta`
-
-Five individuals arrested over threats and attacks against a lawyer at a Kandy court were released on bail by Kandy Additional Magistrate Mohamed Rabi. The lawyer, representing a child safety case, filed a complaint with the Kandy Police Division. The suspects must appear in court on July 2nd.
-
-🟩
-
-Five persons who were jailed in connection with the threat and attack on a lawyer at the Kandy court premises were released by Kandy Additional Magistrate Mohamed Rabi on Tuesday (11) on two bodies worth Rs.
-
-The Additional Magistrate has announced that the suspects who were released on bail should appear before the court on July 2.
-
-The lawyer lodged a complaint with the Kandy Police Division regarding the threat and lodged a complaint with the Kandy Police Division for further inquiries.
-
-Investigations have revealed that the lawyer, who is allegedly threatened, represented a party in the case of a child's safety.
-
-Chairman of the Kandy Attorneys Association, Sunanda Udulagama, appeared on behalf of the victim's lawyer. Attorney -at -Law Saman Tantrike has appeared on behalf of the suspects.
-
-◼️
-
-[Data](articles/da08281c.json)
-
-[Extended Data](ext_articles/da08281c.ext.json)
-
----
-
-### Decision taken to Cabinet about Vehicles
-
-*2024-06-12 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197680) · `si`
-
-Cabinet approves vehicle importation for tourism, reversing a temporary suspension. The decision allows for 75 vans and other necessary vehicles for tourist transportation, aligning with import regulations under the Import and Export (Control) Regulations, 2023.
-
-🟩
-
-Cabinet spokesman Minister Bandula Gunawardena says Cabinet has approved the submission of the necessary vehicles to the tourism.
-
-Importation of Motor Vehicles to Sri Lanka has been temporarily suspended in accordance with the Department of Import and Export Control Regulations, 2023.
-
-However, the approval was given at the Cabinet Meeting held on 1 April 1 of 2024 to the transportation of tourists and 75 vans to transport tourists.
-
-The proposal presented by the Cabinet of Money was approved by the Cabinet of Money to present the President to the Economic Standardization and National Policy Minister to present the regulations published by a special gazette notification.
-
-Under the Import and Export (Control) Regulations, which were issued under the Import and Export (Administration) Act, No. 1 of 1969, will be approved by the Standardization and Quality and Quality Administration issued under the Act.
-
-◼️
-
-[Data](articles/8d80d43d.json)
-
-[Extended Data](ext_articles/8d80d43d.ext.json)
-
----
-
-### Cabinet approval for President's bar
-
-*2024-06-12 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197679) · `si`
-
-The President's cabinet approves a National Rampel policy starting January 2025, alongside a revised tax policy under the 101 of the Customs Ordinance. This move aims to enhance trade and investment competitiveness through a simplified corporate and tax system. A technical committee, including the DGs of the Department of Trade and Investment Policy, has been formed to develop a national diplomatic policy, consulting with trade experts and ministry secretaries.
-
-🟩
-
-The President's proposal to implement a National Rampel policy for three stages from January 2025, the President has approved the approval of the Cabinet.
-
-In the meantime, the tax policy has been approved by the 101 of the Customs Ordinance to ensure the awareness and consistency of the stakeholders.
-
-The presence of clear, simple, corporations and a tax system is a critical factor in maintaining a competitive environment for trade and investment in a country.
-
-The government says that due to the various policies that have been introduced by the current governments have been introduced by various policies that have been introduced to time to date.
-
-Considering the situation, a technical committee consisting of the Director General of the Department of Trade and Investment Policy, the Director General of the Department of Trade and Investment Policy has been appointed by the Department of Trade and Investment Policy to formulate a national diplomatic policy.
-
-...
-
-[Data](articles/b29423c4.json)
-
-[Extended Data](ext_articles/b29423c4.ext.json)
-
----
-
-### Passengers in Kalutara in Kalutara
-
-*2024-06-12 13:12:36* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-කළුතරදී-ලෙඩවී-මගීන්-අපහසුතාවයට/11-410174) · `si`
-
-In Kalutara, the Sagarica express train caused significant delays to the coastal railway operations, stopping Ruhunu Kumari at various stations. This led to discomfort among passengers due to the disruption.
-
-🟩
-
-The railway operations of the coastal railway operations were severely embarrassed by the Sagarica express train in Kalutara yesterday morning.
-
-Accordingly, Ruhunu Kumari has been stopped at several stations from Kalutara and the slow train from the South from the South from the South from the South from the South.
-
-As a result, the train was uncomfortable.
-
-◼️
-
-[Data](articles/72beed3c.json)
-
-[Extended Data](ext_articles/72beed3c.ext.json)
 
 ---

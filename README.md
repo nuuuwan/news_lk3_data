@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 16:05:50**
+As of **2024-06-12 16:19:33**
 
 ## Newspaper Stats
 
-*Scraped **30,017** Articles*
+*Scraped **30,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,578
+adalk | 2,579
 adaderanalk | 3,399
 tamilmirrorlk | 3,516
 virakesarilk | 4,595
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,015 (100.0%) of 30,017 articles have been extended.
+30,017 (100.0%) of 30,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### කුවේට් හි ගින්නකින් 41ක් මරුට
+### 41 killed in Kuwait
 
 *2024-06-12 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197685) · `si`
 
-කුවේට් හි ඉදිකිරීම් සමාගමක සේවකයින් පිරිසක් නවාතැන් ගෙන සිටි ගොඩනැගිල්ලක සිදුවූ ගිනි ගැනීමකින් 41 දෙනෙක් පමණ මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+In Kuwait, a tragedy occurred in a construction company building, resulting in the deaths of 41 individuals. The incident involved around 160 employees residing there.
 
-එම ඉදිකිරීම් සමාගමේ සේවකයින් 160 දෙනෙක් පමණ එහි වාසය කර තිබේ.
+🟩
+
+According to foreign media reports, about 41 people were killed in a building where a group of employees of a construction company in Kuwait.
+
+About 160 employees have lived in the company.
 
 ◼️
 
 [Data](articles/eb24131e.json)
 
+[Extended Data](ext_articles/eb24131e.ext.json)
+
 ---
 
-### එංගලන්ත 19න් පහළ පිළට එක්වූ කේෂණ
+### Repeal of the Under-19th Amendment
 
 *2024-06-12 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197684) · `si`
 
-ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් කණ්ඩායම සමග පැවැත්වෙන එක්දින තරග 3කින් සමන්විත තරගාවලිය සඳහා සහභාගී වන එංගලන්ත කණ්ඩායම නම්කර තිබේ.
+The England Under-19 cricket team, featuring sons of former Test and ODI players, includes Phil Mutadard and Ferhan Ahmed. Led by Dale Ben Tannustein, a son of former South African players, the team is notable for its strong lineage and potential.
 
-එම කණ්ඩායමේ හිටපු ටෙස්ට් සහ එක්දින ක්‍රීඩකයින් කිහිප දෙනෙකුගේ දරුවන් සිටීම විශේෂත්වයකි.
+🟩
 
-හිටපු එංගලන්ත තුන් ඉරියව් ක්‍රීඩක ඇන්ද්රූ ෆ්ලින්ටොෆ් ගේ පුතා වන රොකි ෆ්ලින්ටොෆ්, හිටපු දකුණු අප්‍රිකානු ක්‍රීඩක ඩේල් බෙන්කන්ස්ටයින් ගේ පුතා වන ලුක් බෙන්කන්ස්ටයින් මෙම කණ්ඩායමේ නායකත්වය දරයි.
+England, the England team, which consists of three ODIs with the Under-19 cricket team with the Under-19 cricket team, has been named.
 
-එංගලන්තය වෙනුවෙන් ක්‍රීඩාකළ ෆිල් මුස්ටාර්ඩ් ගේ පුතා හේඩන් මුස්ටාර්ඩ් ද මෙම කණ්ඩායමේ සාමාජිකයෙකි.
+It is significant that the children of several former Test and one-day players of the group.
 
-එසේම දැනට එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සිටින ක්‍රීඩක රෙහාන් අහමඩ් ගේ සොහොයුරා වන ෆර්හාන් අහමඩ් ද එම කණ්ඩායමේ සාමාජිකයෙකි.
+Former England three post-player, a son of former South African players, Dale Benn Tannustein, is leading the son of former South African atrocities.
 
-තුවාල ලැබීම හේතුවෙන් පසුගිය වයස අවුරුදු 19 පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියට එක්වීමට අවස්ථාව නොලැබුණු කේෂණ ෆොන්සේකා ද මෙම කණ්ඩායමේ සාමාජිකයෙකි.
+Phil Mutadard, who was playing for England, is a member of the group.
+
+Also, the brother of the England cricket team, Ferhan Ahmed, is a member of the group.
+
+It was also a member of the group that was not allowed to join the World Cup last 19-year cricket tournament due to injuries.
 
 ◼️
 
 [Data](articles/ef8121ab.json)
+
+[Extended Data](ext_articles/ef8121ab.ext.json)
 
 ---
 
@@ -1594,6 +1606,26 @@ Amarasingham and Ketheeswaran are missing. The police have appealed in this rega
 
 ---
 
+### අපනයන අරමුණින් ගංජා වගා කරන්න යෝජනා කැඳවයි
+
+*2024-06-12 10:21:10* · [`adalk`](https://www.ada.lk/breaking_news/අපනයන-අරමුණින්-ගංජා-වගා-කරන්න-යෝජනා-කැඳවයි/11-410164) · `si`
+
+අපනයන වෙළඳාම අරමුණු කරගෙන ත්‍රෛලෝක විජයපත්‍ර වගා කිරීම ඒ ආශ්‍රිත ඖෂධ  නිෂ්පාදනය කිරීම සඳහා උනන්දුවක් දක්වන දෙස් විදෙස් ආයෝජකයන්ගෙන්  ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය හා සෞඛ්‍ය අමාත්‍යාංශය එක්ව  ව්‍යාපෘති යෝජනා කැඳවයි.
+
+අපනයන අරමුණු කරගෙන  ත්‍රෛලෝක විජයපත්‍ර මත පදනම්වූ ඖෂධ හා ඒ ආශ්‍රිත නිෂ්පාදන සඳහා ලෝකයේ පවතින ඉල්ලුම සැළකිල්ලට ගෙන මෙම ව්‍යාපෘති යෝජනා කැඳවන බව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය පවසයි.
+
+මෙම ව්‍යාපෘති ශ්‍රී ලංකා ආයෝජන මන්ඩලයේ හා ආයුර්වේද දෙපාර්තමේන්තුව ඒකාබද්ධ විෂය පථයට අයත් බවත් එම අමාත්‍යාංශය  සඳහන් කරයි.
+
+මෙම වගාව හා නිෂ්පාදන කටයුතු අධීක්ෂණය මෙන්ම ඒ හා සම්බන්ධ සම්පූර්ණ ක්‍රියාවලියම නියාමනය කිරීම හා බලපත්‍ර නිකුත් කිරීම ආයුර්වේද දෙපාර්තමේන්තුව මගින් සිදු කෙරෙන බවද එම අමාත්‍යාංශය පවසයි.
+
+ව්‍යාපෘති යෝජනා සලකා බැලීමෙන් පසු අදාල නිර්ණායක සපුරන ආයෝජකයන්ට ත්‍රෛලෝක විජය පත්‍ර වගාව සහ ඒ ආශ්‍රිත නිෂ්පාදන සඳහාවූ ව්‍යාපෘති සඳහා   ආයුර්වේද දෙපාර්තමේන්තුව මගින් බලපත්‍ර ලබා දීම සිදු කිරීමට නියමිත බව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශය පවසයි.
+
+...
+
+[Data](articles/d24b1d40.json)
+
+---
+
 ### Sri Lanka Labor Ministry, ILO, IOM discuss labour reforms
 
 *2024-06-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-labor-ministry-ilo-iom-discuss-labour-reforms-167566/) · `en`
@@ -2283,33 +2315,5 @@ It has been revealed that the other youth has been attacked by a young man over 
 [Data](articles/cf1c2489.json)
 
 [Extended Data](ext_articles/cf1c2489.ext.json)
-
----
-
-### 'Uncle Navy Uncle', who had not seen a flood, was found in a house
-
-*2024-06-12 02:14:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11er5l02zo) · `si`
-
-"Uncle Navy Uncle," a man unfamiliar with floods, was discovered in a house during one. He praised his daughter's heroism, having survived two floods himself. The sudden flood on June 2nd submerged his home and nearby houses, cutting off electricity. Despite the chaos, he managed to save two lives, reflecting on his 22-year naval career where he faced similar challenges but never experienced such devastation at home.
-
-🟩
-
-It contains nothing here.Video header, '' I'm 22 years in the Navy. I can't imagine how this her daughter had done a heroic. "
-
-'Uncle Navy Uncle', who had not seen a flood, was found in a house
-
-Dirii, the survivor of two floods, a flood trapped older of two floods, is a resident of Charitaipura, Avissawella.
-
-The immediate water caused by the night of June second night, her home and adjoining houses were flooded.
-
-The electricity also disconnected and the environment was swimmingly swimming and saved two lives.
-
-"I have been retiring to work 22 years in the Navy. Too much to my height water road. That was when my wife and my wife were hanging at home. GD Maduranga told the BBC Sinhala service.
-
-◼️
-
-[Data](articles/c2f715b0.json)
-
-[Extended Data](ext_articles/c2f715b0.ext.json)
 
 ---

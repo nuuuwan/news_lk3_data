@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 19:52:36**
+As of **2024-06-12 20:04:34**
 
 ## Newspaper Stats
 
-*Scraped **30,060** Articles*
+*Scraped **30,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
 adalk | 2,584
-adaderanalk | 3,406
+adaderanalk | 3,407
 tamilmirrorlk | 3,520
-virakesarilk | 4,600
+virakesarilk | 4,602
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,841
+adaderanasinhalalk | 4,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,058 (100.0%) of 30,060 articles have been extended.
+30,060 (100.0%) of 30,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### කාසියේ වාසිය ඉන්දියාව ට
+
+*2024-06-12 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197694) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ අමෙරිකාව සහ ඉන්දියාව අතර තරගය අද (12) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/369a7118.json)
+
+---
+
+### யாழ். கல்வி வலயங்களுக்கு முன்பாக கவனயீர்ப்பு போராட்டம்
+
+*2024-06-12 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185951) · `ta`
+
+யாழ்ப்பாண மாவட்டத்தில் உள்ள கல்வி வலயங்களுக்கு முன்பாக 12ஆம் திகதி புதன்கிழமை மதியம் கவனயீர்ப்பு போராட்டம் நடத்தப்பட்டது.
+
+யாழ்ப்பாணம், வடமராட்சி, தென்மராட்சி, வலிகாமம், தீவகம் என வலயக் கல்வி அலுவலகங்களுக்கு முன்பாக பதாகைகளைத் தாங்கியவாறு அதிபர் ஆசிரியர்களின் சம்பள முரண்பாட்டை நீக்குமாறும், அதிபர் ஆசிரியர்களின் பதவி உயர்வை நடைமுறைப்படுத்து, அதிபர் ஆசிரியர்களில் கொள்ளை அடிக்கும் பணத்தை வழங்கு, மாணவர்களின் போசாக்கை உறுதிப்படுத்து உள்ளிட்ட பல்வேறு கோரிக்கைகளைத் தாங்கியவாறு குறித்த கவனயீர்ப்பு போராட்டம் நடத்தப்பட்டது.
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து இலங்கை ஆசிரியர் சங்கத்தினால் நாடாளாவிய ரீதியில் போராட்டம் முன்னெடுக்க அழைப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c766134d.json)
+
+---
 
 ### CBSL to regulate Money or Value Transfer Service providers in Sri Lanka
 
@@ -43,6 +71,22 @@ The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulato
 ...
 
 [Data](articles/2596a42f.json)
+
+[Extended Data](ext_articles/2596a42f.ext.json)
+
+---
+
+### CBSL to regulate Money or Value Transfer Service providers in Sri Lanka
+
+*2024-06-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99842/cbsl-to-regulate-money-or-value-transfer-service-providers-in-sri-lanka) · `en`
+
+The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulatory and supervisory authority of Money or Value Transfer Service (MVTS) providers in Sri Lanka, effective from June 03, 2024.
+
+“Currently, institutions providing money transfer services in Sri Lanka such as banks and nonbank financial institutions, are regulated by the Central Bank of Sri Lanka (CBSL) or other relevant authorities to ensure financial system stability. However, some entities providing similar services operate outside the formal system, potentially disrupting the money transfer system and not being subject to Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) regulatory framework”, the CBSL said in a statement.
+
+...
+
+[Data](articles/5116c294.json)
 
 ---
 
@@ -69,6 +113,24 @@ Prime Minister Dinesh Gunawardena, who has been appointed as the respondents in 
 [Data](articles/6dc4de6a.json)
 
 [Extended Data](ext_articles/6dc4de6a.ext.json)
+
+---
+
+### நாட்டில் கணினி அறிவு 39 சதவீதமாக உயர்வு
+
+*2024-06-12 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185927) · `ta`
+
+நாட்டில் கணினி அறிவு 39 சதவீதத்தால் உயர்வடைந்துள்ளது. மேல் மாகாணம் உயர்வான மட்டத்திலும், கிழக்கு மாகாணம் குறைவான மட்டத்திலும் காணப்படுகிறது என தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களத்தின் மேலதிக பணிப்பாளர் நாயகம் சாமலி கருணாரத்ன தெரிவித்தார்.
+
+தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களத்தில் புதன்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வயது மற்றும் தொழிற்றுறை முன்னேற்றம் உள்ளிட்ட காரணிகளை அடிப்படையாகக் கொண்டு கணினி அறிவு தொடர்பில் கணிப்புக்கள் மேற்கொள்ளப்பட்டன. இதற்கமைய ஆண்களின் கணினி அறிவு 40.9 சதவீதமாகவும், பெண்களின் கணினி அறிவு 37.2 சதவீதத்தால் உயர்வடைந்துள்ளது. 15 முதல் 19 வயதுக்குட்பட்டவர்களின் கணினி அறிவு வீதம் 79.4 சதவீதமாக காணப்படுகிறது.
+
+அத்துடன், 5 முதல் 69 வயதுக்குட்பட்டவர்களின் டிஜிட்டல் அறிவு 63.5 சதவீதத்தால் உயர்வடைந்துள்ளது. ஆண்களின் டிஜிட்டல் அறிவு 65.9 சதவீதமாகவும், பெண்களின் டிஜிட்டல் அறிவு 61.3 சதவீதத்தாலும் உயர்வடைந்துள்ளன. இதற்கமைய 20 முதல் 24 வயதுக்குட்பட்டவர்களின் டிஜிட்டல் அறிவு 93.8 சதவீதமாக காணப்படுகிறது.
+
+...
+
+[Data](articles/5a1f89c5.json)
 
 ---
 
@@ -1031,6 +1093,8 @@ Developing a class position in relation to nationalities has remained a crucial 
 ...
 
 [Data](articles/31f9ed99.json)
+
+[Extended Data](ext_articles/31f9ed99.ext.json)
 
 ---
 
@@ -2231,97 +2295,5 @@ The President made this statement at a concept of policy reform held at the Batt
 [Data](articles/06a828bb.json)
 
 [Extended Data](ext_articles/06a828bb.ext.json)
-
----
-
-### Presidential Election: Success, Determine
-
-*2024-06-12 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-வெற்றி-தோல்விய-தீர்மானிக்கும்/175-338799) · `ta`
-
-In a policy reform meeting, President Ranil Wickremesinghe emphasized that the outcome of the upcoming presidential election signifies the nation's triumph or failure, rather than his personal win. This statement was made during a gathering of young representatives from the Economic Reforms Department at the Battaramulla Voters Age Hotel.
-
-🟩
-
-President Ranil Wickremesinghe said the upcoming presidential election results, the country's success and defeat, would not be a personal victory.
-
-The President made this statement at a concept of policy reform held at the Battaramulla Voters Age Hotel with youth representatives attending the Economic Reforms Department of Supervisory.
-
-◼️
-
-[Data](articles/6c10daaa.json)
-
-[Extended Data](ext_articles/6c10daaa.ext.json)
-
----
-
-### Vidullanka, WindForce joint venture signs purchase agreement with solar plant
-
-*2024-06-12 10:54:00* · [`economynextcom`](https://economynext.com/vidullanka-windforce-joint-venture-signs-purchase-agreement-with-solar-plant-167573/) · `en`
-
-ECONOMYNEXT – Suryashakthi (Pvt) Limited has signed a power purchase agreement for the development of a 10 megawatt Vavunathivu II solar power project in Batticaloa on Sri Lanka’s east coast.
-
-Suryashakthi (Pvt) Limited is a wholly owned subsidiary of Solar Universe (Pvt) Limited, a joint venture between WindForce Plc, Vidullanka Plc and HiEnergy Services (Pvt) Ltd.
-
-The Vavunathivu II solar power project is expected to attract an investment of approximately 2.2 billion rupees, Windforce said in a stock exchange filing.
-
-Renewable energy firm WindForce, started in 2020, has power plants in Sri Lanka, Pakistan, Uganda and Ukraine.
-
-In addition to wind power, the company has diversified into large-scale, ground and rooftop solar power generation systems and mini hydro plants, both locally and overseas.
-
-Mini hydro developer Vidullanka, which has a power plant in Uganda, has diversified into biomass and solar.
-
-...
-
-[Data](articles/70296763.json)
-
-[Extended Data](ext_articles/70296763.ext.json)
-
----
-
-### 9 Dengue deaths record
-
-*2024-06-12 10:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-டெங்கு-மரணங்கள்-பதிவு/175-338798) · `ta`
-
-Dengue cases surged due to rain, with 25,891 reported this year, highest in Colombo (5,624), followed by Jaffna (3,930), Gampaha (2,487), Kandy (1,986), Ratnapura (1,441), and Kalutara (1,372).
-
-🟩
-
-The National Dengue Control Unit said that the number of dengue patients has increased due to the prevailing rains in the country and the number of dengue cases has been identified by 25, 891 dengue cases within this year.
-
-Only 971 dengue patients have been identified in the first 11 days of June this year.
-
-Most dengue patients have been identified in the Colombo district and their number is 5,624.
-
-In addition, 3,930 dengue patients in Jaffna district, 2,487 dengue patients in Gampaha, 1,986 dengue patients in Kandy, 1,441 dengue patients in Ratnapura and 1,372 dengue patients in Kalutara.
-
-◼️
-
-[Data](articles/19478852.json)
-
-[Extended Data](ext_articles/19478852.ext.json)
-
----
-
-### Hey to the smoke
-
-*2024-06-12 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197671) · `si`
-
-Tourists and researchers flock to Minneriya National Park and Kaudulla National Park, drawn by sightings of the elusive "Grosses." These parks, known for their wildlife, especially elephants, offer a unique opportunity to observe nature without endangering animal safety.
-
-🟩
-
-We came to the camera, if the Minneriya National Gardens of the Polonnaruwa District and the Kaudulla National Park is home to the homeland these days.
-
-About a year and a half, the Sumedha has come to the Minneriya National Park, so the tourists say.
-
-As the Grosses have come to the Minneriya National Park, the people who study the grosshop and the people who are studying the matter are visible to see how they are present at the Gardens of the Minneriya National Gardens.
-
-In order to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park to visit the Minneriya National Park, which does not threaten the security of wild animals.
-
-◼️
-
-[Data](articles/457a88a3.json)
-
-[Extended Data](ext_articles/457a88a3.ext.json)
 
 ---

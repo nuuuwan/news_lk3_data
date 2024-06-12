@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 06:20:45**
+As of **2024-06-12 07:00:44**
 
 ## Newspaper Stats
 
-*Scraped **29,912** Articles*
+*Scraped **29,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,378
 tamilmirrorlk | 3,499
 virakesarilk | 4,577
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,809
+adaderanasinhalalk | 4,810
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,902 (100.0%) of 29,912 articles have been extended.
+29,908 (100.0%) of 29,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### ශ්‍රී ලංකාව සහ නේපාලය  අතර තරගය අතහැර දමයි
+
+*2024-06-12 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197660) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ නේපාලය අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/bea7a1c5.json)
+
+---
 
 ### Sajith Premadasa was worshiped at Nagadeepam and Nainadivu Temple
 
@@ -684,6 +696,8 @@ Anoj Wijayaratne, General Manager, said: “Six awards for creative excellence i
 
 [Data](articles/afb87cf7.json)
 
+[Extended Data](ext_articles/afb87cf7.ext.json)
+
 ---
 
 ### Antyra Solutions named a 2024 Google Premier Partner
@@ -702,6 +716,8 @@ In February, Google recognised the achievements of top-performing digital market
 
 [Data](articles/bff32919.json)
 
+[Extended Data](ext_articles/bff32919.ext.json)
+
 ---
 
 ### Cuisines of the World with Nations Trust Bank American Express
@@ -717,6 +733,8 @@ Niluka Gunatilake, Head of Cards at Nations Trust Bank, stated, “With ‘Cuisi
 ...
 
 [Data](articles/f0bc8763.json)
+
+[Extended Data](ext_articles/f0bc8763.ext.json)
 
 ---
 
@@ -738,6 +756,8 @@ Chief Guest Kotaro said that he was highly impressed with the property and ‘Wa
 
 [Data](articles/a7b3eef6.json)
 
+[Extended Data](ext_articles/a7b3eef6.ext.json)
+
 ---
 
 ### Share market forges ahead in an optimistic spirit; turnover exceeds Rs. 3 billion
@@ -751,6 +771,8 @@ Apart from that, Hayleys stocks noted some buying interest due to market specula
 ...
 
 [Data](articles/ce73863e.json)
+
+[Extended Data](ext_articles/ce73863e.ext.json)
 
 ---
 
@@ -1526,6 +1548,8 @@ This injustice happened in the only place it could have been perpetrated with le
 
 [Data](articles/de95984a.json)
 
+[Extended Data](ext_articles/de95984a.ext.json)
+
 ---
 
 ### Malawi Vice President of Malawi dies
@@ -2109,33 +2133,5 @@ The Matara Magistrate was ordered to be remanded until the 20th of this month of
 [Data](articles/4fb65136.json)
 
 [Extended Data](ext_articles/4fb65136.ext.json)
-
----
-
-### Ready to contest presidential election - Sivajilingam
-
-*2024-06-11 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185836) · `ta`
-
-MK Sivajilingam, a former NPC member, announced his readiness to run independently in the upcoming presidential election if there are issues with the Tamil general candidate. He mentioned efforts to prevent a Tamil candidate from running, but the public seems to favor a common candidate. Meanwhile, MP MA Sumanthiran addressed concerns about representation, emphasizing that the civil society should reflect the people's choices and needs.
-
-🟩
-
-Former Northern Provincial Council Member MK Sivajilingam says I will contest independently if there is a problem with the Tamil general candidate.
-
-He said this during a media briefing held at the Jaffna Media Center on Tuesday (11).
-
-Efforts are being made to stop the Tamil general candidate. This time, the common candidate is spoken of among the people.
-
-So, this time a general candidate will be presented in the presidential election. He said that if there were any problems, I would contest independently.
-
-Meanwhile, parliamentarian MA Sumanthiran said that the civil society has no people's order at the People's Forum held in Jaffna last Sunday.
-
-That is wrong. People have made MPs as their representative. Yet people will choose themselves. The civil society was formed by the people. Sivajilingam also said that they can tell them what they need.
-
-◼️
-
-[Data](articles/66166da7.json)
-
-[Extended Data](ext_articles/66166da7.ext.json)
 
 ---

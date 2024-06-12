@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 18:36:14**
+As of **2024-06-12 18:53:33**
 
 ## Newspaper Stats
 
-*Scraped **30,053** Articles*
+*Scraped **30,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,582
+adalk | 2,583
 adaderanalk | 3,405
-tamilmirrorlk | 3,519
+tamilmirrorlk | 3,520
 virakesarilk | 4,600
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,840
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,041 (100.0%) of 30,053 articles have been extended.
+30,047 (100.0%) of 30,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### சிறுமி தாக்கப்படும் வீடியோவை வெளியிட்ட இளைஞனுக்கு கௌரவிப்பு
+
+*2024-06-12 18:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-தாக்கப்படும்-வீடியோவை-வெளியிட்ட-இளைஞனுக்கு-கௌரவிப்பு/175-338823) · `ta`
+
+முல்லைத்தீவு - மணலாறு (வெலிஓயா) பகுதியில் 4 சிறுமி மீது கடுமையாக தாக்குதல் நடத்திய சம்பவத்தை வீடியோ எடுத்து அதை வெளியிட்ட தருஷ சந்தருவான் கொடிகார என்ற இளைஞன் கௌரவிக்கப்பட்டு, 5 லட்சம் ரூபா பணமும் வழங்கி வைக்கப்பட்டது.
+
+அண்மையில் சமூக வலைத்தளங்களில் வெளியிடப்பட்ட குறித்த வீடியோவால் குகுல் சமிந்த என்ற சந்தேகநபர் பொலிஸாரினால் உடனடியாக கைது செய்யப்பட்டார்.
+
+இந்த சம்பவம் தொடர்பில் ஐவர் கைது செய்யப்பட்டதுடன், சந்தேகநபர்களை எதிர்வரும் 19ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பதவிய நீதவான் உத்தரவு பிறப்பித்திருந்தார்.
+
+இந்த நிலையில், சந்தேகநபரான குகுல் சமிந்த என்ற சந்தேகநபர், சிறுமியை தாக்கும் வீடியோவை பதிவு செய்த இளைஞன் இன்று பொலிஸாரினால் கௌரவிக்கப்பட்டு, அந்த இளைஞனுக்கு 5 லட்சம் ரூபா பணமும் வழங்கி வைக்கப்பட்டது.
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பொலிஸ் மாஅதிபர் தேசபந்து தென்னக்கோன் ஆகியோரினால் இந்த பணம் வழங்கி வைக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/bb31b3b7.json)
+
+---
 
 ### President hits out at politicians making promises without presenting any economic policies
 
@@ -47,6 +67,8 @@ Meanwhile, Wickremesinghe emphasized that the upcoming presidential election wil
 ...
 
 [Data](articles/aa9b36db.json)
+
+[Extended Data](ext_articles/aa9b36db.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ However, Minister Rajapakshe said despite an inconsistency, the rulers need both
 ...
 
 [Data](articles/e1763d1b.json)
+
+[Extended Data](ext_articles/e1763d1b.ext.json)
 
 ---
 
@@ -85,6 +109,22 @@ The van was hit by a bus with stopped and two women and a man died in the van.
 [Data](articles/3a0403ec.json)
 
 [Extended Data](ext_articles/3a0403ec.ext.json)
+
+---
+
+### වෑගම වෑන් අනතුරින් තිදෙනෙක් මරුට
+
+*2024-06-12 17:37:10* · [`adalk`](https://www.ada.lk/breaking_news/වෑගම-වෑන්-අනතුරින්-තිදෙනෙක්-මරුට/11-410175) · `si`
+
+බිබිල මහියංගන මාර්ගෙය් වැගම ප්‍ර දේශ්යදෙී අද (12) දින සවස පෞද්ගලික බසයක වෑන් රථයක් ගැටී සිදුවු අනතුරකින් වෑන් රථයේ ගමන්ගත් අඹූ සැමි යුවලක් ඇතුළු තිදෙනෙකු මියෙගාස් තවත් පස් දෙනෙකු  තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය කියයි.
+
+අනතුරින් බරපතල තුවාල ලැබු වැන් රථය පැදවු මිය ගිය අඹූ සැමි යුවලගේ පුතෙකු බදුල්ල මහ රෝහලටත් වාහනයේ සිටි තවත් අයෙකු සිරිගල රෝහලට ඇතුලත් කර තිබෙන අතර තුවාල ලැබු වැන් රථයේ ගිය දරුවෙකු සහ බසයේ රියදුරු හා රිය සහයක බිබිල මුලික රෝහ‍ලේ ප්‍රතිකාර ගන්නා බව පෙලිසිය කියයි,
+
+අනතුර සිදුවු වෑගම බිබිල මහියංගන ප්‍රෙද්ශෙය්  ගරාජයක සිට ප්‍රධාන මාර්ගයට බසය ධාවනය කරමින් සිටියදි මාර්ගෙය් ධාවනය වු වෑන් රථය බසෙය් ඉදිරිපස ගැටී මෙම අනතුර සිදුව තිබේ, බිබිල පෙලිසිය පරීක්ෂණ ආරම්භ කර තිබේ,
+
+◼️
+
+[Data](articles/f29efc2a.json)
 
 ---
 
@@ -149,6 +189,8 @@ However, sexual violence and harassment is commonplace in Sri Lanka with many ca
 ◼️
 
 [Data](articles/7c8d1dc8.json)
+
+[Extended Data](ext_articles/7c8d1dc8.ext.json)
 
 ---
 
@@ -218,6 +260,8 @@ A bond maturing on 01.10.2032 closed at 11.95/12.15 percent up from 11.95/12.10 
 
 [Data](articles/097c0056.json)
 
+[Extended Data](ext_articles/097c0056.ext.json)
+
 ---
 
 ### Three killed in Bibila accident
@@ -265,6 +309,8 @@ Hayleys Plc also saw interest (Rs188mn), and the share closed up at 108.00.
 ...
 
 [Data](articles/93bbb19b.json)
+
+[Extended Data](ext_articles/93bbb19b.ext.json)
 
 ---
 
@@ -355,6 +401,8 @@ India has provided $318 million to upgrade 128 kilometres in track from Maho to 
 ...
 
 [Data](articles/47a24220.json)
+
+[Extended Data](ext_articles/47a24220.ext.json)
 
 ---
 
@@ -2265,57 +2313,5 @@ How many children who are selling the inhabitants or mint balls that sells the i
 [Data](articles/911d3eb1.json)
 
 [Extended Data](ext_articles/911d3eb1.ext.json)
-
----
-
-### Two Indians recruited by Russia killed in Ukraine
-
-*2024-06-12 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99820/two-indians-recruited-by-russia-killed-in-ukraine) · `en`
-
-India says two of its nationals who had been recruited by the Russian army have been killed in the ongoing conflict in Ukraine.
-
-The Indian foreign ministry said it had urged the Russian authorities to repatriate the bodies of the two deceased.
-
-The ministry has also urged Moscow to quickly release and return all Indian nationals who are with the Russian army.
-
-Dozens of Indians have reportedly been duped by agents into fighting for Russian forces with the lure of money and a Russian passport. The BBC has spoken to some of them.
-
-Some said they were coerced into taking up combat roles in the Russian army.
-
-“We regret to state that two Indian nationals who had been recruited by the Russian Army have recently been killed in the ongoing conflict between Russia and Ukraine,” the foreign ministry statement said, without naming the victims.
-
-The ministry also urged Indian nationals to “exercise caution while seeking employment opportunities in Russia”.
-
-...
-
-[Data](articles/b00e6fcc.json)
-
-[Extended Data](ext_articles/b00e6fcc.ext.json)
-
----
-
-### Superintendent student dies after electricity exploding
-
-*2024-06-12 10:29:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සැර-වැදී-17-හැවිරිදි-රූමත්-සිසුවියක්-මරුට/11-410165) · `si`
-
-A 17-year-old girl, Nishani Piyumika Vanrowan, died from an electric shock while attempting to fix a power issue in her home. Her father passed away mysteriously earlier, and his remains arrived in Sri Lanka. The incident occurred on November 11th, and police found evidence of tampering with the electrical wiring.
-
-🟩
-
-Piliyandala Police say that a 17-year-old schoolgirl has died of electricity connectivity and deceased with electricity connection.
-
-The deceased has been identified as Nishani Piyumika Vanrowan, who was living in the Mahamaya Road, Duwa Vidyalaya, Piliyandala Thalawila Road, Panataaya Road, Nugegoda.
-
-The father of the deceased has died as a mysterious day in December 2024, after the funeral of January 1, 2024, and his remains had come to Sri Lanka.Police said.
-
-Police investigations have revealed that the student who had stayed at home yesterday (11th) had been attempted to implement the homeless of the house in the house yesterday (11th).has.
-
-The grandmaker in the same room is asleep in the adjacent room, which has been a squarew to the wall of the cloth seizing and the weaker of the wall is a square, she is a square, she is a wire codPolice investigations have revealed that the electrical rose connected to the motor side of the fabric seism
-
-...
-
-[Data](articles/9058625f.json)
-
-[Extended Data](ext_articles/9058625f.ext.json)
 
 ---

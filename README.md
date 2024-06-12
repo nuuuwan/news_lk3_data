@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 05:19:13**
+As of **2024-06-12 05:37:56**
 
 ## Newspaper Stats
 
@@ -26,103 +26,149 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,896 (100.0%) of 29,902 articles have been extended.
+29,902 (100.0%) of 29,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### சஜித் பிரேமதாச நாகதீபம் மற்றும் நயினாதீவு ஆலயம் ஆகியவற்றில் வழிபாடுகளில் ஈடுபட்டார்
+### Sajith Premadasa was worshiped at Nagadeepam and Nainadivu Temple
 
 *2024-06-12 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185872) · `ta`
 
-யாழ். மாவட்டத்தில் உள்ள பல பாடசாலைகளுக்கு ஸ்மார்ட் வகுப்பறைகள் மற்றும் பாடசாலை பஸ் வழங்கி வைக்கும் நிகழ்வுகளில் பங்கேற்பதற்காக யாழ். மாவட்டத்திற்கு விஜயம் மேற்கொண்டுள்ள எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச 11ஆம் திகதி செவ்வாய்க்கிழமை வரலாற்றுச் சிறப்புமிக்க நாகதீப ரஜமகா விகாரைக்குச் சென்று வழிபாடுகளில் ஈடுபட்டதுடன், விஹாராதிபதி அதி வண. நவதகல பதுமகித்தி திஸ்ஸ தேரரை சந்தித்து ஆசி பெற்றார்.
+Opposition Leader Sajith Premadasa visited the Nagadeepam and Nainadivu Temples in Jaffna, engaging in worship and performing special rituals. He also attended a pooja ceremony at the Nainadivu Nagabusani Amman Temple, where he was honored with a Ponnadi wrap.
 
-தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள், வரலாற்று சிறப்புமிக்க நயினாதீவு நாகபூசனி அம்மன் ஆலயத்துக்கும் சென்று விசேட வழிபாடுகளை மேற்கொண்டார். ஆலயத்திற்கு சென்ற எதிர்க்கட்சித் தலைவரை, ஊர்காவற்துறை தொகுதி அமைப்பாளர் குருபரன் மதன்ராஜ் , ஆலய அறங்காவலர் சபை உறுப்பினர் ஆகியோர் வரவேற்று, பொன்னாடை போர்த்தி கெளரவித்தனர். ஆலய பிரதம குரு தலைமையில் இடம்பெற்ற சிறப்பு பூஜை வழிபாடுகளில் எதிர்க்கட்சித் தலைவர் கலந்து கொண்டார்.
+🟩
+
+Yall. Smart classrooms and school buses for many schools in the district to participate in Jaffna. Opposition Leader Sajith Premadasa, who visited the district, visited the historic Nagadeepa Rajamaha Vihara on Tuesday 11th and engaged in worship.. Navadagala Patumagithi met Tissa Thera and blessed.
+
+Subsequently, Opposition Leader Sajith Premadasa visited the historic Nainadivu Nagabusani Amman Temple and performed special rituals.. Kuruparan Madanraj, the organizer of the Kayts constituency and the Member of the Board of Trustees welcomed the opposition leader who went to the temple and honored the Ponnadi wrap. The Leader of the Opposition participated in a special pooja ceremony chaired by the temple's chief guru.
 
 ◼️
 
 [Data](articles/3da2a8b8.json)
 
+[Extended Data](ext_articles/3da2a8b8.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் பெருமளவான கேரளக் கஞ்சா மீட்பு!
+### A large number of Kerala cannabis rescue in Jaffna
 
 *2024-06-12 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185871) · `ta`
 
-யாழ்ப்பாணம் குருநகர் பகுதியில் 22 கிலோகிராம் கேரள கஞ்சா பொலிஸாரினால் செவ்வாய்க்கிழமை (11) கைப்பற்றப்பட்டுள்ளது.
+In Jaffna, 22 kg of Kerala cannabis were seized by police in Gurunagar based on tip-offs. The drugs were confiscated, and a suspect was arrested, as per actions taken at the Jaffna Magistrate's Court.
 
-பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் குருநகர் பகுதியில் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின்போது 10 பொதிகளில் 22 கிலோகிராம் கஞ்சா கைப்பற்றப்பட்டது.
+🟩
 
-கைப்பற்ற கஞ்சாவை யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுத்துள்ள பொலிஸார், சந்தேக நபரை கைது செய்ய நடவடிக்கை எடுத்துள்ளனர்.
+22 kilograms of Kerala cannabis police seized on Tuesday (11) in the Gurunagar area in Jaffna.
+
+Based on the confidential information received by the police, 22 kilograms of cannabis was seized during a special round of special rounds carried out in the Gurunagar area.
+
+Police have taken steps to seize cannabis at the Jaffna Magistrate's Court and have taken steps to arrest the suspect.
 
 ◼️
 
 [Data](articles/5e8f47e4.json)
 
+[Extended Data](ext_articles/5e8f47e4.ext.json)
+
 ---
 
-### சுகாதாரமற்ற தெருவோர வியாபாரம் - மூவரிற்குத்  தண்டம்
+### Unhealthy Street Business - Three
 
 *2024-06-12 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185870) · `ta`
 
-திருநெல்வேலி பொதுச் சுகாதார பரிசோதகர் பா.சஞ்சீவன் தலைமையிலான பொது சுகாதார பரிசோதகர் குழுவினரால் திருநெல்வேலி, கொக்குவில் பகுதிகளில் கடந்த (மே) மாதம் 29ம் திகதி இரவு தெருவோர வியாபார நிலையங்கள் பரிசோதிக்கப்பட்டன.
+On May 29, Public Health Inspectors from Tirunelveli and Kokuvil inspected businesses, finding several lacking proper health facilities like food handling certifications and personal hygiene standards. Cases were filed against these establishments, leading to penalties and warnings.
 
-இதன்போது மருத்துவ சான்றிதழ் இன்றி உணவைக் கையாண்டமை, தனிநபர் சுகாதாரம் இன்றி உணவைக் கையாண்டமை போன்ற அடிப்படையான சுகாதார வசதிகள் கூட இல்லாமல் சில வியாபார நிலையங்கள் இயங்கியமை பரிசோதனையில் இனங்காணப்பட்டது.
+🟩
 
-அவ்வாறு இனங்காணப்பட்ட மூன்று வியாபார உரிமையாளர்களிற்கு எதிராக யாழ் மேலதிக நீதவான் நீதிமன்றில் பொதுச் சுகாதார பரிசோதகர் பா. சஞ்சீவன் இனால் வழக்குகள் 10ஆம் திகதி திங்கட்கிழமை தாக்கல் செய்யப்பட்டது. வழக்குகளை அன்றைய தினமே விசாரணைக்கு எடுத்துக்கொண்ட மேலதிக நீதவான் செ. லெனின்குமார் மூவரிற்கும் மொத்தமாக 35,000/= தண்டம் அறவிட்டதுடன் கடும் எச்சரிக்கையும் வழங்கினார்.
+The Public Health Inspector, led by Tirunelveli Public Health Inspector P. Sanjeevan, was inspected by the Public Health Inspector of the Tirunelveli and Kokuvil areas on the night of May 29.
+
+It was reported that some business centers were operating without the basic health facilities such as the handling of food without medical certification and the handling of food without personal hygiene.
+
+Public Health Inspector Pa. At the Jaffna Additional Magistrate's Court. The cases were filed by Sanjeevan on Monday 10th. Additional Magistrate who took the cases on the same day. Lenin Kumar paid a total of 35,000/= penalty and issued a warning.
 
 ◼️
 
 [Data](articles/4b5e79c2.json)
 
+[Extended Data](ext_articles/4b5e79c2.ext.json)
+
 ---
 
-### இளைஞனை குடிபோதையில் காரினால் மோதிய  வைத்தியருக்கு  5 இலட்சம் ரூபா சரீரப்பிணை
+### 5 lakhs of rupees for a doctor
 
 *2024-06-12 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185869) · `ta`
 
-மோட்டார் சைக்கிளில் வீதியால் சென்ற இளைஞனை குடிபோதையில் காரில்  சென்று மோதி தப்பி சென்ற  வைத்தியரை 5 இலட்சம் ரூபா சரீரப்பிணையில் விடுதலை செய்ய நீதிவான் உத்தரவிட்டதுடன் பாதிக்கப்பட்ட இளைஞனுக்கு 1 இலட்சம் ரூபாவினை இழப்பீடாக வழங்க வேண்டும் எனக் கட்டளையிட்டு எதிர்வரும் ஜூலை மாதம் 31 ஆம் திகதி வரை வழக்கினை கல்முனை நீதிவான் நீதிமன்று ஒத்தி வைத்துள்ளது.
+A court ordered a victim to pay Rs. 1 lakh as compensation after a car crash involving a drunk youth and a fleeing doctor. The case, heard in Kalmunai Court, was adjourned until July 31st. The doctor, whose license was found expired, was arrested but later released.
 
-குறித்த வழக்கு திங்கட்கிழமை (10)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் பொலிஸாரின் சமர்ப்பணம் உள்ளிட்ட வாதி பிரதிவாதிகளின் சட்டத்தரணிகள் ஆகியோரின் சமர்ப்பணம் வாதங்களின் அடிப்படையில் கல்முனை அஸ்ரப் ஞாபகார்த்த வைத்தியசாலையில் கடமையாற்றுகின்ற பேரிம்பராஜா பகிர்தன் (வயது-41) வயது மதிக்கத்தக்க வைத்தியரை   5 இலட்சம் ரூபா சரீரப்பிணையில் விடுதலை செய்ய நீதிவான் உத்தரவிட்டதுடன் பாதிக்கப்பட்ட இளைஞனுக்கு 1 இலட்சம் ரூபாவினை இழப்பீடாக வழங்க வேண்டும்  என உத்தரவிட்டார்.
+🟩
+
+The magistrate has ordered the release of a youth who was drunk in a car on a motorbike and the doctor who fled into the car, and ordered the victim to pay a compensation of Rs. 1 lakh.
+
+The case was taken up for hearing in the presence of the Kalmunai Court Mr. MSM Samsuddin on Monday (10).The magistrate ordered the victim to pay Rs.
+
+The case has been postponed for a reorganization on July 31.
+
+The car that was in front of the youth who was traveling by the road crashed into a car and the car was rescued by the Kalmunai headquarters police.
+
+The incident took place at around 11 pm last Saturday (8) and the 28 -year -old youth who was driving the victim of the accident was admitted to the Kalmunai Azraf Memorial Hospital.
+
+The accident was rescued by the Kalmunai Headquarters Police and the doctor who had been arrested by the Kalmunai headquarters police and was taken to the Kalmunai headquarters police station.
+
+The police are receiving a confession to a 41 -year -old doctor who is arrested.
 
 ...
 
 [Data](articles/44ce0b43.json)
 
+[Extended Data](ext_articles/44ce0b43.ext.json)
+
 ---
 
-### ஐதேகவின் மத்திய கொழும்பு அமைப்பாளராக ஷராப்தீன் நியமனம்
+### Sharafdeen appointed as Central Colombo Organizer of UNP
 
 *2024-06-12 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185868) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் மத்திய கொழும்பு தேர்தல் தொகுதி அமைப்பாளராகக் கொழும்பு மாநகர சபையின் சிரேஷ்ட உறுப்பினர் ஷராப்தீன் நியமிக்கப்பட்டுள்ளார்.
+Sharafdeen, a senior councilor, is now the UNP's Central Colombo Election Organizer. The appointment was made by President Ranil Wickremesinghe at a ceremony in Sirikotha. Notable attendees included Pulse A Kapoor, Dr. MCM, Khalil, Premadasa, Jabir A Khadar, Sirisena Kure, and Mohammed Mahroof, with political figures like Mujibur Rahman also present.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில்  இடம்பெற்ற அமைப்பாளர் நியமன நிகழ்வின் போது ஜனாதிபதியும் கட்சியின் தலைவருமான ரணில் விக்ரமசிங்கவினால் இந்நியமனம் வழங்கிவைக்கப்பட்டது.
+🟩
 
-ஐக்கிய தேசிய கட்சியின் மத்திய கொழும்பு அமைப்பாளர் பதவியை இதற்கு முன்னர் பழீல் ஏ கபூர்,  டாக்டர் எம்.சீ.எம், கலீல், ரணசிங்க பிரேமதாச, ஜாபிர் ஏ காதர், சிறிசேன குரே, மொஹமட் மஹ்ரூப். முஜிபுர் ரஹ்மான் போன்ற அரசியல் பிரபலங்கள் வகித்திருந்தமை குறிப்பிடத்தக்கதாகும்.
+Sharapdeen, a senior member of the Colombo Municipal Council, has been appointed as the organizer of the United National Party (UNP) Central Colombo Elections.
+
+President and party leader Ranil Wickremesinghe was given the implementation during the appointment ceremony of the UNP headquarters in Sirikotha.
+
+Pulse A Kapoor, Dr. MCM, Khalil, Ranasinghe Premadasa, Jabir A Khadar, Sirisena Kure, Mohammed Mahroof. It is noteworthy that political celebrities such as Mujibur Rahman played.
 
 ◼️
 
 [Data](articles/aa86d092.json)
 
+[Extended Data](ext_articles/aa86d092.ext.json)
+
 ---
 
-### அடி காயங்களுடன் மீட்கப்பட்ட இளைஞன் வாழைச்சேனை வைத்தியசாலையில் அனுமதி!
+### Youth rescued with foot injuries
 
 *2024-06-12 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185867) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட ஓட்டமாவடி பாலத்துக்கு அருகிலிருந்தே அடி காயங்களுடன் இளைஞன் 11ஆம் திகதி செவ்வாய்க்கிழமை மீட்கப்பட்டுள்ளார்.
+A youth was rescued on Tuesday 11th with foot injuries near the Ottamavadi Bridge, under the Valaichenai police division. The Calcutta Emergency Service Division reported finding him with blood injuries, and he was taken to Valaichenai Hospital after being rescued by director Niyas Hajiar. The incident occurred when two youths engaged in a dispute over a rhetoric while waiting for a Puttalam bus at Ottamavadi - Navaladi, leading to one being attacked.
 
-பாலத்துக்கு அருகில் இரத்தக் காயங்களுடன் இளைஞன் ஒருவர் மயங்கிய நிலையில் கிடப்பதாக கல்குடா அகீல் அனர்த்த அவசர சேவைப் பிரிவுக்கு கிடைத்த தகவலுக்கமைய அதன் பணிப்பாளர் நியாஸ் ஹாஜியார் குழுவினர் இளைஞனை மீட்டு வாழைச்சேனை வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+🟩
 
-புத்தளம் பஸ் வண்டியில் வந்த குறித்த இளைஞனும் இன்னுமொரு இளைஞனும் ஓட்டமாவடி - நாவலடி பகுதியில் பஸ் வண்டி நிறுத்தப்பட்டிருந்த போது  வாய்த்தர்க்கத்தில் ஈடுபட்டுள்ளனர்.
+The youth has been rescued on Tuesday 11th with a foot injury near the Ottamavadi Bridge, which belongs to the Valaichenai police division.
 
-வாய்த்தர்க்கம் கைகலப்பாக மாறியதில் குறித்த இளைஞன் மீது மற்றைய இளைஞன் பொல்லால் தாக்கி விட்டு தப்பிச் சென்றுள்ளதாக தெரிய வந்துள்ளது.
+According to information received by the Calcutta Emergency Service Division that a young man was found lying with blood injuries near the bridge, its director Niyas Hajiar has rescued the youth and admitted to the Valaichenai Hospital.
+
+The young man and another young man who arrived in the Puttalam bus was involved in the rhetoric when the bus was parked in Ottamavadi - Navaladi.
+
+It has been revealed that the other youth has been attacked by a young man over a rhetoric.
 
 ◼️
 
 [Data](articles/cf1c2489.json)
+
+[Extended Data](ext_articles/cf1c2489.ext.json)
 
 ---
 

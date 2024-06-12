@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 05:37:56**
+As of **2024-06-12 06:00:19**
 
 ## Newspaper Stats
 
-*Scraped **29,902** Articles*
+*Scraped **29,912** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 271
-dbsjeyarajcom | 279
+dbsjeyarajcom | 281
 bbccomsinhala | 290
 newsfirstlk | 363
-islandlk | 1,613
+islandlk | 1,621
 economynextcom | 1,717
 dailyftlk | 1,809
 adalk | 2,564
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,902 (100.0%) of 29,902 articles have been extended.
+29,902 (100.0%) of 29,912 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -669,6 +669,88 @@ Habaraduwa police said that a police team had gone to investigate the incident. 
 [Data](articles/a2df2850.json)
 
 [Extended Data](ext_articles/a2df2850.ext.json)
+
+---
+
+### Loops Integrated ends The Four A’s Advertising Awards 2024 on a high
+
+*2024-06-11 23:07:00* · [`islandlk`](http://island.lk/loops-integrated-ends-the-four-as-advertising-awards-2024-on-a-high/) · `en`
+
+Loops Integrated, Sri Lanka’s premier integrated advertising agency in Sri Lanka, achieved remarkable success at the prestigious Four A’s Advertising Awards 2024. The agency proudly collected 3 gold and 3 bronze awards, marking a significant milestone in Sri Lankan commercial creativity.
+
+Anoj Wijayaratne, General Manager, said: “Six awards for creative excellence in such a brief period since our agency’s transition to Integrated is an exhilarating triumph. We’ve built a remarkable team of talented individuals both young and old who bring freshness and seasoned experience to the campaigns we do. We are excited and motivated to continue pushing the boundaries of innovation in the industry.”
+
+...
+
+[Data](articles/afb87cf7.json)
+
+---
+
+### Antyra Solutions named a 2024 Google Premier Partner
+
+*2024-06-11 23:07:00* · [`islandlk`](http://island.lk/antyra-solutions-named-a-2024-google-premier-partner/) · `en`
+
+Sri Lanka-based digital agency Antyra Solutions has achieved 2024 Premier Partner status in the Google Partners program.
+
+Antyra’s team of experts provides performance-based digital marketing solutions catering to a range of industries such as Hospitality, eCommerce, FMCG, and Finance, both locally and internationally.
+
+“As a data driven, performance marketing agency, Antyra has always focussed on driving real world results for our clients. Premier Partner status is a testament to our Google Ads capabilities and our effectiveness in meeting client objectives. As a team, we are immensely proud of this achievement,” said Naveen Marasinghe, Chief Operating Officer, Antyra Solutions.
+
+In February, Google recognised the achievements of top-performing digital marketing partners across the globe by awarding Premier Partner status as part of the Google Partners program. Antyra Solutions has been named a 2024 Premier Partner, which means:
+
+...
+
+[Data](articles/bff32919.json)
+
+---
+
+### Cuisines of the World with Nations Trust Bank American Express
+
+*2024-06-11 23:04:00* · [`islandlk`](http://island.lk/cuisines-of-the-world-with-nations-trust-bank-american-express/) · `en`
+
+Nations Trust Bank American Express is excited to announce the launch of the ‘Cuisines of the World’ campaign, offering Cardmembers exclusive experiences and significant savings at a variety of top-tier restaurants across Sri Lanka. This initiative will feature a diverse range of global cuisines each week during June and July 2024.
+
+Throughout these two months, each week, will spotlight a different cuisine together with attractive offers from restaurants that offer the respective cuisine. Cardmembers can enjoy a multi-cuisine culinary journey with their friends and family.
+
+Niluka Gunatilake, Head of Cards at Nations Trust Bank, stated, “With ‘Cuisines of the World,’ our goal is to provide our Cardmembers with a unique culinary experience that mirrors the diverse tastes and preferences of our community. Additionally, this offers a wonderful opportunity for them to spend quality time and create lasting memories with their loved ones.”
+
+...
+
+[Data](articles/f0bc8763.json)
+
+---
+
+### Thema Collection opens eco luxury ‘Waraka’ in Udawalawe
+
+*2024-06-11 23:03:00* · [`islandlk`](http://island.lk/thema-collection-opens-eco-luxury-waraka-in-udawalawe/) · `en`
+
+Thema Collection recently in Udawalawe opened its latest addition to its unque collection of theme properties, the eco-luxury retreat ‘Waraka’ a 12 roomed boutique hotel.
+
+Charg’e d’ Affaires of the Japanese Embassy in Sri Lanka Katsuki Kotaro was the Chief Guest and and he cut the ribbon at the auspicious time to signify the openning of the latest boutique hotel in Sri Lanka.
+
+The Chairman of the family owned company, veteran hotelier travel trade giant Chandra Wickramasinghe said the company has invested Rs. 220 million on the property.
+
+‘Waraka’ is not just another property but a holiday experience that goes hand in hand with nature bio diversity and sutainability, Wickramasignhe explained.
+
+Chief Guest Kotaro said that he was highly impressed with the property and ‘Waraka’ ‘s addctive charms are a combination of tranquility, modernity with innovation.
+
+...
+
+[Data](articles/a7b3eef6.json)
+
+---
+
+### Share market forges ahead in an optimistic spirit; turnover exceeds Rs. 3 billion
+
+*2024-06-11 22:59:00* · [`islandlk`](http://island.lk/share-market-forges-ahead-in-an-optimistic-spirit-turnover-exceeds-rs-3-billion/) · `en`
+
+The stock market kicked off on a positive note yesterday as local and foreign investors were optimistic about Sri Lanka receiving the IMF’s approval for the receipt of the relevant EFF tranches, market analysts said.
+
+Apart from that, Hayleys stocks noted some buying interest due to market speculation on various matters. Owing to those positive impacts, both indices moved upwards. The All Share Price Index went up by 13.5 points while S and P SL 20 rose by 0.19 points.
+
+...
+
+[Data](articles/ce73863e.json)
 
 ---
 
@@ -1414,6 +1496,38 @@ Various parties have already implemented protests, strike demonstrations. Accord
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-11 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
+### The Economic Transformation Bill offers imaginary solutions to real problems. The Bill is not a blueprint for efficiency but its antithesis.
+
+*2024-06-11 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84188) · `en`
+
+Ten years: that was how long three State institutions didn’t pay EPF and ETF monies to their retired and deceased employees.
+
+Most victims of this act of criminal injustice suffered and died in silence. A few (about 2,000) filed court cases. The larger society, including the media, political parties and the labour movement, didn’t know, didn’t care.
+
+This injustice happened in the only place it could have been perpetrated with legal, political, and societal impunity: the plantation sector. The culprits were the three State-owned plantation companies. The excuse was that these companies made losses. How many state-owned enterprises make profits? Do the loss-making ones (which include CEB, CPC, and Air Lanka) deny their employees EPF and ETF payments? What would happen if they even tried?
+
+...
+
+[Data](articles/de95984a.json)
+
+---
+
 ### Malawi Vice President of Malawi dies
 
 *2024-06-11 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197652) · `si`
@@ -1495,6 +1609,20 @@ NPP National Executive Committee member Bimal Rathnayake and Ramalingam Chandras
 [Data](articles/df8ad4e5.json)
 
 [Extended Data](ext_articles/df8ad4e5.ext.json)
+
+---
+
+### International Tribunal Comprising  Three Former Judges from India,Nepal and Sri Lanka States it is “horrified by the stark realities” of the lives of Sri Lanka’s tea and rubber plantation workers,
+
+*2024-06-11 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84184) · `en`
+
+An international tribunal of former judges from the region said it was “horrified by the stark realities” of the lives of Sri Lanka’s tea and rubber plantation workers, after hearing testimonies from workers and trade unions.
+
+Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands of workers are engaged in tea and rubber production. They earn vital foreign exchange for the country that is struggling to rebuild its economy after the dramatic meltdown of 2022.  Last year, Sri Lanka’s revenue from tea exports totalled $1.3 billion, while rubber-based exports fetched $930 million, according to the Export Development Board.
+
+...
+
+[Data](articles/16218441.json)
 
 ---
 
@@ -2009,189 +2137,5 @@ That is wrong. People have made MPs as their representative. Yet people will cho
 [Data](articles/66166da7.json)
 
 [Extended Data](ext_articles/66166da7.ext.json)
-
----
-
-### Pruning to abstain the minority girl
-
-*2024-06-11 16:13:20* · [`adalk`](https://www.ada.lk/breaking_news/බාලවයස්කාර-දැරිය-අපහරණය-කලාට-ලැබුණු-ඳඩුවම/11-410146) · `si`
-
-Balah Juda Ratunga Dissanayake sentenced a man from Karandeniya to imprisonment and fines for raping a minor girl in 2013. The High Court found him guilty after an 11-year trial, imposing a 15-year prison term and a hefty fine as compensation.
-
-🟩
-
-The Balah, Juda Ratunga Dissanayake today (11) ordered the victim with a 15-year-old girl who was imprisoned and a fine of a fifteen year old girl.
-
-A person residing in Karandeniya, Karadwi, Karandeniya and milk had to pay compensation and penalties.
-
-The Karandeniya police were filed against the suspect, claiming that the accused had been raped a ruthless girl on the 5th of February 2013.
-
-The High Court Judge concluded that the defendant had been proved to be raped by the defendant after a 11 year long trial, a 15 year long sentence of Rs.The compensation paid to a two-year loose sentenced to a two-year loose sentence.
-
-Nishara Jayaratne was conducting the case filed by the Karandeniya Police. (I J)
-
-◼️
-
-[Data](articles/b8e25314.json)
-
-[Extended Data](ext_articles/b8e25314.ext.json)
-
----
-
-### CoPF directs to take immediate measures to regulate Online Casinos
-
-*2024-06-11 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99805/copf-directs-to-take-immediate-measures-to-regulate-online-casinos-) · `en`
-
-During the meeting of the Committee on Public Finance (CoPF), it was disclosed that even though it is clearly stated by law that online casino operations cannot be carried out in the country, online casinos operate in the open depriving the state of the revenue due without any implications.
-
-The Chair of the committee Dr. Harsha de Silva directed that a letter be sent to the Minister of Finance requesting for his immediate attention regarding the matter.
-
-This was taken into discussion at the Committee on Public Finance which met under the Chairmanship of Dr. de Silva recently (06), according to the Communication Department of Parliament.
-
-The importance of establishing a Casino Regulator was also highlighted at the Committee on Public Finance, the statement said.
-
-Officials representing the Ministry of Finance and the Central Bank were also of the view that many issues pertaining to casinos can be resolved following the establishment of a Casino Regulator.
-
-...
-
-[Data](articles/99f64b72.json)
-
-[Extended Data](ext_articles/99f64b72.ext.json)
-
----
-
-### Malawi’s vice president killed in plane crash
-
-*2024-06-11 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Malawis-vice-president-killed-in-plane-crash/108-284606) · `en`
-
-June 11 - The Vice President of Malawi, Dr. Saulos Chilima, and 9 other people including his wife, were killed when the plane they were travelling in crashed in the Chikangawa mountain range, the government said Tuesday.
-
-President Lazarus Chakwera declared Tuesday a national day of mourning.
-
-The announcement was made Tuesday morning in a statement by the Office of the President and Cabinet, which said, "unfortunately, all on board have perished in the crash," which happened Monday morning after the military aircraft took off from the country's capital Lilongwe.
-
-Chilima and the other passengers had been headed to attend the funeral of the country's former attorney general when their plane dropped off radar. Air traffic officials said the plane had been unable to land at Mzuzu airport, about 200 miles north of the capital, due to poor visibility, and the pilot had been advised to return to Lilongwe when the flight disappeared.
-
-...
-
-[Data](articles/877d1372.json)
-
-[Extended Data](ext_articles/877d1372.ext.json)
-
----
-
-### Risk of diarrhea, viral infection with increased flies
-
-*2024-06-11 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185824) · `ta`
-
-Floods in Sri Lanka have led to a fly infestation, exacerbating the spread of diarrhea and viral infections due to the presence of organic matter in flood waters. Flies mature quickly and proliferate, spreading pathogens from feces and contaminated surfaces. This increases the risk of diseases like diarrhea and viral fever, causing symptoms such as abdominal pain, cramps, nausea, and fever. To combat this, it's crucial to use covered containers, manage waste, ensure clean water, and seek immediate medical attention to mitigate the impact of these diseases.
-
-🟩
-
-Deepal Perera, a specialist on the children's disease of the Children's Hospital in Colombo, said that the floodwaters in the country are increasing the proliferation of flies and the spread of diarrhea and viral infection.
-
-The presence of a large number of organic substances in flooded areas accelerates the maturity of the eggs and leads to the rapid increase in the number of flies when flooding is reduced.
-
-These newly fried flies, searching for food resources, often go to feces, debris and contaminated surfaces and further enhance the health crisis.
-
-He pointed out that the effects of increasing flies are scary and that flies bring pathogens, including diarrhea and viral fever, etc.
-
-"If you eat contaminated food and water, you can lead to many symptoms, including abdominal pain, cramps, nausea and relaxed feces," he said.
-
-He also said that the risk of viral infection, characterized by symptoms such as fever, headaches and nausea, also increases in areas where flies are high.
-
-...
-
-[Data](articles/caccbb06.json)
-
-[Extended Data](ext_articles/caccbb06.ext.json)
-
----
-
-### Former Chairman of the Weligama Pradeshiya Sabha remanded
-
-*2024-06-11 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197647) · `si`
-
-The former chairman of Weligama Pradeshiya Sabha has been remanded until June 20, linked to a case where two suspects were caught transporting unlicensed timber. This incident occurred when police officers were stuck on the Kotawila Warawila Wawarapitiya road, leading to the seizure of the timber, including mahogany and kosse wood, from a truck driven by two locals from Kamburugamuwa. The suspects had previously been arrested by the Kanquet Police on March 15 for similar offenses.
-
-🟩
-
-Former Chairman of the Weligama Pradeshiya Sabha has been remanded until June 20.
-
-It was in connection with a incident that two suspects were transporting a stock of timber without a license.
-
-The officers of the Kotawila Police were trapped in the Kotwila Warawila Wawarapitiya road.
-
-A small lorry that was run on the road was tested.
-
-The Timber, Mahogone, and Koss were in the lorry without a license.
-
-The lorry was taken into custody by the driver of the lorry and the police assistants. The suspects are two residents of Kamburugamuwa.
-
-Investigations have revealed that they were also taken into custody by the Kanquet Police on 15th March while the lorry was transporting timber without permits.
-
-◼️
-
-[Data](articles/13c3985d.json)
-
-[Extended Data](ext_articles/13c3985d.ext.json)
-
----
-
-### Sri Lanka’s CEB submits electricity price revision to PUCSL
-
-*2024-06-11 15:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-submits-electricity-price-revision-to-pucsl-167451/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera has said that the state power utility, the Ceylon Electricity Board, had submitted its proposal on Friday to the Public Utilities Commission of Sri Lanka (PUCSL) for the tariff revision from July 2024.
-
-The domestic usage 31-60 category saw the steepest reduction of 55 percent with the unit price coming down from 20 rupees to 9 rupees.
-
-“Accordingly the proposal for further reductions on energy charges for the Domestic sector, Religious sector, General Purpose & Government Buildings sectors are as follows,” Wijesekera said on social media platform X (twitter) listing the breakdown.
-
-“PUCSL will determine the final tariffs after evaluation of the proposal and the public consultation.”
-
-The Government has said its policy is to revise electricity tariffs quarterly every year. (Colombo/Jun11/2024)
-
-◼️
-
-[Data](articles/91d300bf.json)
-
-[Extended Data](ext_articles/91d300bf.ext.json)
-
----
-
-### Former Weligama PS Chairman remanded for disrupting police duties
-
-*2024-06-11 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99804/former-weligama-ps-chairman-remanded-for-disrupting-police-duties) · `en`
-
-The former Chairman of the Weligama Pradeshiya Sabha, Pushpakumara Battage has been remanded until June 20 by Matara Magistrate.
-
-He has been arrested and produced before the court for allegedly disrupting the official duties of Officer-in-Charge (OIC) and other police officers at Kotawila Police, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/014258c5.json)
-
-[Extended Data](ext_articles/014258c5.ext.json)
-
----
-
-### Former Weligama PS Chairman remanded for obstructing police duties
-
-*2024-06-11 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99804/former-weligama-ps-chairman-remanded-for-obstructing-police-duties) · `en`
-
-The former Chairman of the Weligama Pradeshiya Sabha, Pushpakumara Battage has been remanded until June 20 by the Matara Magistrate’s Court.
-
-He has been arrested and produced before court for allegedly obstructing the official duties of the Officer-in-Charge (OIC) and other police officers at Kotawila Police, Ada Derana reporter said.
-
-Battage is accused of obstructing the duties of police officers in order to release two suspects who were arrested for transporting valuable timber without a license in a small lorry on May 25.
-
-Police had discovered lumber including walnut, mahogany, and jackfruit being transported inside the lorry without the necessary documentation. The driver of the lorry and his assistant, both residents of Kamburugamuwa area, were apprehended by the police.
-
-...
-
-[Data](articles/de369253.json)
-
-[Extended Data](ext_articles/de369253.ext.json)
 
 ---

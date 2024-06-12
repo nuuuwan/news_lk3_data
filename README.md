@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 11:04:47**
+As of **2024-06-12 11:19:23**
 
 ## Newspaper Stats
 
-*Scraped **29,947** Articles*
+*Scraped **29,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,569
-adaderanalk | 3,386
-tamilmirrorlk | 3,505
-virakesarilk | 4,581
+adalk | 2,571
+adaderanalk | 3,387
+tamilmirrorlk | 3,509
+virakesarilk | 4,582
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,818
 
@@ -26,23 +26,111 @@ adaderanasinhalalk | 4,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,942 (100.0%) of 29,947 articles have been extended.
+29,947 (100.0%) of 29,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### ஜனாதிபதித் தேர்தல் முடிவுகள் நாட்டின் வெற்றி, தோல்வியையே தீர்மானிக்கும் : ஜனாதிபதி
+### Presidential Election will determine country’s success or failure – President
 
-*2024-06-12 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185886) · `ta`
+*2024-06-12 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99822/presidential-election-will-determine-countrys-success-or-failure-president) · `en`
+
+President Ranil Wickremesinghe says that the upcoming presidential election will determine the country’s success or failure, rather than personal victories or defeats, the President’s Media Division (PMD) reported.
+
+The Head of the State made this remark during a policy reform discussion held in Battaramulla this morning (12), according to the PMD.
+
+◼️
+
+[Data](articles/591b2dcc.json)
+
+---
+
+### එඬේරමුල්ලේ දුම්රිය අනතුරින් මියගිය සිය සැමියාගේ වියෝව දරාගත නොහැකිව බිරිද ජීවිතක්ෂයට
+
+*2024-06-12 10:58:08* · [`adalk`](https://www.ada.lk/breaking_news/එඬේරමුල්ලේ-දුම්රිය-අනතුරින්-මියගිය-සිය-සැමියාගේ-වියෝව-දරාගත-නොහැකිව-බිරිද-ජීවිතක්ෂයට/11-410168) · `si`
+
+එඬේරමුල්ල දුම්රිය හරස් මාර්ගයේ පසුගිය 8 වනදා සිදුවූ මාරක දුම්රිය අනතුරින් මෝටර් රථයේ ගමන් ගත් පිරිමි පුද්ගලයෙක් සහ කාන්තාවක්  එම ස්ථානයේදීම ජීවිතක්ෂයට වුණි.
+
+අනතුරින් මෝටර් රථයේ ගමන් ගත් කැලණියේ පමුණුවිල ගෝනවල ප්‍රදේශයේ පදිංචි  කැළුම් තුෂාර සිල්වා මහතාගේ   සැමියාගේ හදිසි වියෝවෙන් දැඩි ලෙස කම්පනය හේතුවෙන් ඔහුගේ බිරිද  රසෝමා හසන්ති කබ්‍රාල් මහත්මිය හදිසියේම ඇතිවූ හර්ද්‍යාබාධයකින් කොළඹ පෞද්ගලික රෝහලකදී මියගොස් තිබෙනවා.
+
+සැමියාගේ දේහය පිලිබදව අවසන් කටයුතු සිදු කිරීමටද පෙර ඊයේ දහවල්  පපුව රිදෙන බව පැවසූ බැවින් කඩිනමින් ඇයව කොළඹ පෞද්ගලික රෝහලකට ඇතුළු කර ඇති අතර පසුව ඇයද ජීවිතක්ෂයට පතව ඇත.
+
+◼️
+
+[Data](articles/c0847ea9.json)
+
+---
+
+### இலங்கை ஒருகாலத்தில் செய்தது போல இஸ்ரேல் பாதுகாப்பு வலயங்களை கொலைக்களமாக மாற்றியுள்ளது -
+
+*2024-06-12 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185888) · `ta`
+
+அனைவரினதும் கவனமும் ரபாவின் மேல் காணப்பட்ட வேளை, இஸ்ரேல் காசாவின் தென்பகுதியில் உள்ள சிறிய பகுதியை பாதுகாப்பான மனிதாபிமான வலயம் என மே 22 ம் திகதி அறிவித்துவிட்டு நான்கு நாட்களின் பின்னர் அந்த பகுதி மீது குண்டுதாக்குதலை மேற்கொண்டது.
+
+இஸ்ரேல் இடம்பெயர்ந்த மக்கள் தங்கியிருந்த கூடாரங்கள் மீது மேற்கொண்ட தாக்குதில் 45 பாலஸ்தீனியர்கள் கொல்லப்பட்டனர்.
+
+இந்த சம்பவம்,15 வருடத்திற்கு முன்னர் இலங்கையின் உள்நாட்டுபோரின் இறுதி தருணங்களில் பொதுமக்களின் அவலநிலையை விவரிக்கும் இரகசிய கேபிள்களை விக்கிலீக்ஸ் இடைமறித்த வேளை தெரியவந்த விபரங்களை நினைவுபடுத்துகின்றன.
+
+2009 மே மாதம் கொழும்பில் உள்ள  அமெரிக்க தூதரகத்திலிருந்து அமெரிக்காவின் இராஜாங்க திணைக்களத்திற்கு அனுப்பப்பட்ட கேபிள்கள் பாதுகாப்பு வலயத்தில்  சிக்குண்டுள்ள ஏழு கத்தோலிக்க மதகுருமார்களை காப்பாற்றுவதற்காக அமெரிக்க தூதரகம் தலையிடவேண்டும் என மன்னார் ஆயர் எவ்வாறு வேண்டுகோள் விடுத்தார் என்பதை தெரிவிக்கின்றன.
+
+இந்த பகுதியை பொதுமக்கள் தங்குவதற்கான பாதுகாப்பான இடம் என இலங்கை இராணுவம் அறிவித்திருந்தது.
+
+...
+
+[Data](articles/a3e0090c.json)
+
+---
+
+### ஜனாதிபதித் தேர்தல்: வெற்றி, தோல்விய தீர்மானிக்கும்
+
+*2024-06-12 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-வெற்றி-தோல்விய-தீர்மானிக்கும்/175-338799) · `ta`
 
 எதிர்வரும் ஜனாதிபதித் தேர்தல் முடிவுகள், நாட்டின் வெற்றி, தோல்வியைத் தீர்மானிக்குமே அன்றி தனிப்பட்ட வெற்றி, தோல்வியாக அமையாது என்று  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
 
-பொருளாதார சீர்த்திருத்த துறைசார் மேற்பார்வைக்  குழுவில் கலந்து கொள்ளும் இளைஞர் பிரதிநிதிகளுடன்  பத்தரமுல்ல வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்ற கொள்கை சீர்திருத்தம் தொடர்பான கருத்தாடலில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+பொருளாதார சீர்திருத்த துறைசார் மேற்பார்வைக்  குழுவில்  கலந்து கொள்ளும் இளைஞர் பிரதிநிதிகளுடன்  பத்தரமுல்ல வோட்டர்ஸ் ஏஜ் ஹோட்டலில்  நடைபெற்ற கொள்கை சீர்திருத்தம் தொடர்பான கருத்தாடலில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6c10daaa.json)
+
+---
+
+### 9 டெங்கு மரணங்கள் பதிவு
+
+*2024-06-12 10:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-டெங்கு-மரணங்கள்-பதிவு/175-338798) · `ta`
+
+நாட்டில் தற்போது நிலவும் மழையுடன் கூடிய சீரற்ற காலநிலையால் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்து வருவதுடன் இந்த வருடத்தின் இதுவரையான காலப்பகுதிக்குள் 25 , 891 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளதாகவும் 9 டெங்கு மரணங்கள் பதிவாகியுள்ளதாகவும்  தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த வருடத்தில் ஜூன் மாதத்தின் முதல் 11 நாட்களில் மாத்திரம் 971 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+
+அதிகளவான டெங்கு நோயாளர்கள் கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்டுள்ளதுடன் அவர்களின் எண்ணிக்கை 5,624 ஆகும்.
+
+மேலும், யாழ்ப்பாணம் மாவட்டத்தில் 3,930 டெங்கு நோயாளர்களும் கம்பஹாவில் 2,487 டெங்கு நோயாளர்களும் கண்டியில் 1,986 டெங்கு நோயாளர்களும் இரத்தினபுரியில் 1,441 டெங்கு நோயாளர்களும் களுத்துறையில் 1,372 டெங்கு நோயாளர்களும் அடையாளம் காணப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/19478852.json)
+
+---
+
+### Presidential election results will determine the country's success and defeat: President
+
+*2024-06-12 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185886) · `ta`
+
+Ranil Wickremesinghe emphasizes that the outcome of Sri Lanka's upcoming presidential election is crucial for the nation's progress, not just his personal gain. He addressed this during a policy reform event attended by young representatives from the Economic Reforms Department.
+
+🟩
+
+President Ranil Wickremesinghe said the upcoming presidential election results, the country's success and defeat, would not be a personal victory.
+
+The President made this statement at a policy reform held at the Battaramulla Voters Age Hotel with youth representatives attending the Economic Reforms Department of Supervisory.
 
 ◼️
 
 [Data](articles/b5a06d20.json)
+
+[Extended Data](ext_articles/b5a06d20.ext.json)
 
 ---
 
@@ -57,6 +145,8 @@ Hailing from the island nation’s Malaiyaha Tamil community, tens of thousands 
 ...
 
 [Data](articles/5a9a996e.json)
+
+[Extended Data](ext_articles/5a9a996e.ext.json)
 
 ---
 
@@ -82,37 +172,51 @@ The ministry also urged Indian nationals to “exercise caution while seeking em
 
 [Data](articles/b00e6fcc.json)
 
+[Extended Data](ext_articles/b00e6fcc.ext.json)
+
 ---
 
-### உறங்கிக்கொண்டிருந்த காட்டு யானையை இளைஞரொருவர் தொடும் காணொளி ; விசாரணை ஆரம்பம்
+### Video of a young man touched by a wild elephant;The beginning of trial
 
 *2024-06-12 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185877) · `ta`
 
-உறங்கிக்கொண்டிருந்த காட்டு யானையை இளைஞர் ஒருவர் தொடும் காணொளி சமூக ஊடகங்களில் பகிரப்பட்டுவருகிறது. இது தொடர்பில் அநுராதபுரம் வனவிலங்கு உதவிப் பணிப்பாளரினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+A video of a young man touching a sleeping wild elephant in Sri Lanka's Ranjayapura forest has sparked controversy and investigation by the Wildlife Department. The incident, captured by one of three youths, was shared on social media, highlighting the dangers of approaching wildlife. Authorities advise against mimicking such behavior.
 
-ரணஜயபுர காட்டுப்பகுதிக்குள் சென்ற மூன்று இளைஞர்களில் ஒருவர் உறங்கிக்கொண்டிருந்த யானையின் அருகில் மெதுவாகச் சென்று அதைத் தொட்டுவிட்டுவரும் காட்சி காணொளியில் பதிவாகியுள்ளது.
+🟩
 
-காட்டு யானையை எப்படி நெருங்குவது என்பதை காண்பிக்க, ஒரு சாகச செயலாக இந்த காணொளியை  இளைஞர்கள் பதிவு செய்து சமூக ஊடகங்களில் பகிர்ந்துள்ளனர்.
+Video of a young man touches a wild elephant is shared on social media. Investigations have been initiated by the Director of Wildlife Assistant in Anuradhapura.
 
-இந்த காணொளி தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ள வனவிலங்கு திணைக்களம், இது ஆபத்தான செயல், காணொளியை பார்த்து இதுபோன்ற செயல்களில் ஈடுபட எவரும் முயற்சிக்க வேண்டாம் என பொதுமக்களை கேட்டுக்கொண்டுள்ளது.
+One of the three youths who went into the Ranjayapura forest area, the footage of the elephant, which was sleeping, was recorded on the video.
+
+To show how to approach the wild elephant, the youth have recorded this video and shared this video on social media.
+
+The Wildlife Department, which has begun investigations into the video, has called for the public not to try to watch the video and engage in such activities.
 
 ◼️
 
 [Data](articles/dbe843ca.json)
 
+[Extended Data](ext_articles/dbe843ca.ext.json)
+
 ---
 
-### யாழ். அனலைதீவில் கடலுக்குச் சென்ற இருவரைக் காணவில்லை
+### Yall. Missing the two men who went to the sea in Analadeev
 
 *2024-06-12 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185885) · `ta`
 
-யாழ்ப்பாணம் அனலைதீவிலிருந்து நேற்றுமுன்தினம் திங்கட்கிழமை (10) கடற்றொழிலுக்குச் சென்ற இருவரைக் காணவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
+Two fishermen, Amarasingham and Ketheeswaran, from Jaffna Analativu, went missing on Monday. Police have initiated a search.
 
-அமரசிங்கம் மற்றும் கேதீஸ்வரன் ஆகிய இருவரையே காணவில்லை. இது தொடர்பில் பொலிஸாரிடம் முறையிடப்பட்டுள்ளது. காணாமல் போனோரை கடலில் தேடும் பணிகளும் ஆரம்பிக்கப்பட்டுள்ளன.
+🟩
+
+It is reported that two persons who went to the fishermen from Jaffna Analytivu on Monday (10) were missing.
+
+Amarasingham and Ketheeswaran are missing. The police have appealed in this regard. The search for the missing persons has also begun.
 
 ◼️
 
 [Data](articles/dd074bc7.json)
+
+[Extended Data](ext_articles/dd074bc7.ext.json)
 
 ---
 
@@ -213,6 +317,26 @@ Addressing a press briefing titled ‘Collective Path to a Stable Country,’ he
 [Data](articles/595efe23.json)
 
 [Extended Data](ext_articles/595efe23.ext.json)
+
+---
+
+### රාජ්‍ය සේවයේ වැටුප් විෂමතා විසඳීමට ජනපතිගෙන් විශේෂඥ කමිටුවක්
+
+*2024-06-12 09:19:44* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැටුප්-විෂමතා-විසඳීමට-ජනපතිගෙන්-විශේෂඥ-කමිටුවක්/11-410161) · `si`
+
+රාජ්‍ය සේවයේ වැටුප් විෂමතාවන් සම්බන්ධයෙන් කටයුතු කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විශේෂඥ කමිටුවක් පත් කර තිබේ.
+
+හිටපු ජනාධිපති ලේකම්වරයෙකු  වූ උදය සෙනෙවිරත්න මහතාගේ සභාපතිත්වයෙන් යුත් මෙම කමිටුවේ සෙසු සාමාජිකයන් ලෙස ජාතික අයවැය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එස්.ඩී.ජේ. නිලුක්ෂාන්, කළමනාකරණ සේවා දෙපාර්තමේන්තුවේ
+
+අධ්‍යක්ෂ ජනරාල් හිරන්සා කලුතන්ත්‍රි, ඒකාබද්ධ සේවා අධ්‍යක්ෂ ජනරාල් එස්. ආලෝක බණ්ඩාර, ආයතන අධ්‍යක්ෂ ජනරාල් එච්.ඒ. චන්දන කුමාරසිංහ, වෛද්‍ය ටෙරන්ස් ගාමිණි ද සිල්වා, දුමින්ද හුලංගමුව, චන්දි එච්. ධර්මරත්න, ඉසුරු තිලකවර්ධන යන මහත්ම මහත්මීහු පත් කර තිබේ.
+
+ජනාධිපති අතිරේක ලේකම් ජී.එල්. වර්නන් පෙරේරා මහතා කමිටුවේ ලේකම් ලෙස කටයුතු කරනු ලබයි.
+
+රාජ්‍ය සේවයේ විවිධ සේවක කණ්ඩායම් අතර පවතින වැටුප් විෂමතාවන් පිළිබඳ නිසි සැලකිල්ලක් යොමු කර 2025 වර්ෂය සඳහා වන අය වැය මඟින් පියවර ගැනීමට හැකි වන පරිදි රාජ්‍ය සේවයේ සියලු අංශයන්හි වැටුප්, වේතන හා අනෙකුත් පාරිශ්‍රමිකයන් සමාලෝචනය කර ඒ සඳහා සිදු කළ යුතු සංශෝධන සම්බන්ධයෙන් වන නිර්දේශ ඉදිරිපත් කිරීම මෙම විශේෂඥ කමිටුවට පවරා ඇත.
+
+...
+
+[Data](articles/36a90659.json)
 
 ---
 
@@ -353,6 +477,22 @@ Accordingly, the Sri Lankan and Nepal teams have been given one point each. Remb
 [Data](articles/7642a9ef.json)
 
 [Extended Data](ext_articles/7642a9ef.ext.json)
+
+---
+
+### இலங்கை - நேபாள போட்டி கைவிடப்பட்டது
+
+*2024-06-12 08:39:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாள-போட்டி-கைவிடப்பட்டது/175-338794) · `ta`
+
+தொடர்ச்சியாக மழை பெய்து வருவதால் 2024 T20 உலகக்கிண்ணத் தொடரில் இலங்கை மற்றும் நேபாளம் அணிகளுக்கு இடையில் இன்று இடம்பெறவிருந்த போட்டி கைவிடப்பட்டுள்ளது.
+
+அமெரிக்காவின் புளோரிடாவில் உள்ள சென்ட்ரல் ப்ரோவர்ட் ரீஜினல் பார்க் ஸ்டேடியம் டர்ஃப் மைதானத்தில் தொடர்ச்சியாக மழை பெய்து வருவதால் இந்த போட்டியை கைவிட நடுவர்கள் தீர்மானித்துள்ளனர்.
+
+இதற்கமைய, இலங்கை மற்றம் நேபாளம் அணிகளுக்கு தலா ஒரு புள்ளி வீதம் வழங்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ad1b5cd1.json)
 
 ---
 
@@ -1153,6 +1293,24 @@ It was only after the 2022 Aragalaya that the need for system change was felt am
 ---
 
 ### 2024-06-11 (Tuesday)
+
+### ’ஒலுவில் துறைமுகம் புனரமைப்புச் செய்யப்படும்’
+
+*2024-06-11 23:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலுவில்-துறைமுகம்-புனரமைப்புச்-செய்யப்படும்/175-338793) · `ta`
+
+ஒலுவில் துறைமுகம் சார்ந்த வளங்கள் பாதுகாக்கப்பட்டு அதனைப் புனரமைத்து, நாட்டின் முன்னேற்றத்திற்கு பயன்படுத்தப்படும் என்று கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் டக்ளஸ் தேவானந்தா இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஒலுவில் துறைமுகத்தை புனரமைத்து மீள இயக்குவது தொடர்பான கலந்துரையாடல் இன்று (நேற்று) இடம்பெற்றது. துறைமுக அதிகார சபையின் அதிகாரிகள், கடற்படையினர், துறைசார் நிபுணர்கள், ஒலுவில் பகுதி புத்திஜீவிகள், மற்றும் பொதுமக்களைப் பிரதிநிதித்துவப்படுத்தும் அமைப்புகள் உள்ளிட்ட பலர் இதில் கலந்துகொண்டனர்.
+
+அந்தப் பிரதேச மக்களின் நலன்களைப் பேணும் வகையிலும் அங்குள்ள வளங்களைப் பாதுகாத்து அபிவிருத்தி செய்கின்ற வகையிலும் துறைமுகத்தை மேம்படுத்தும் முயற்சிகளை மேற்கொண்டு வருகின்றோம். இந்த  துறைமுகத்தை நாட்டின் முன்னேற்றத்திற்கு எவ்வாறு பயன்படுத்துவது என்பதைக் கண்டறிவதே இந்தக் கலந்துரையாடலின் நோக்கமாகும். அப்பணிகளை நிறைவு செய்து விரைவாக எமது இலக்கை அடைய வேண்டும் என்றார். (a)
+
+◼️
+
+[Data](articles/3ea9599a.json)
+
+---
 
 ### 971 dengue patients in 10 days
 
@@ -1961,181 +2119,5 @@ He ordered that a fine of compensation would be charged and that if it was not p
 [Data](articles/06054b96.json)
 
 [Extended Data](ext_articles/06054b96.ext.json)
-
----
-
-### Urban Council alerts about Colombo city
-
-*2024-06-11 19:25:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගරය-ගැන-නගර-සභාවෙන්-අනතුරු-ඇඟවීමක්/11-410156) · `si`
-
-Colombo City faces a surge in infectious diseases post-rains. The Health Promotion Division advises washing hands with soap before eating, using toilets properly, treating diarrhea promptly, and practicing safe drain cleaning to prevent diseases like rat fever.
-
-🟩
-
-The Colombo Municipal Council warns that the rapid spread of infectious diseases in Colombo city due to heavy rains.
-
-Accordingly, the Health Promotion Division of the Colombo Municipal Council has been issued a series of health habits to be followed accordingly.
-
-The Colombo Municipal Council has further emphasized that all the people of the Colombo Municipal Council should act and ensure their health care.
-
-03. Wash hands with soap using soap before he or eating.
-
-07 Use toilets to stood. Put the body's stools in the toilet.
-
-09. If the stools were exit 09., begin lifesting treatment. If there is a vomiting diarrhea immediately seek health advice.
-
-12. Follow health protection methods in cleaning drains without water. Get the drugs provided for rat fever.
-
-13
-
-◼️
-
-[Data](articles/c1220beb.json)
-
-[Extended Data](ext_articles/c1220beb.ext.json)
-
----
-
-### Don't buy if the chicken is red
-
-*2024-06-11 19:21:27* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-රතු-පාටයි-නම්-මිලදී-ගන්න-එපා/11-410155) · `si`
-
-Ajith Jayasundara warns against buying red chickens, linked to virus outbreaks and flood-related deaths. Consumers advised to avoid purchasing chicken during floods to prevent health risks.
-
-🟩
-
-The Consumer Employees Authority Secretary Ajith Jayasundara said that it is reported that the chicken market that was killed and the deaths killed under virus.
-
-The chicken released into the market for meat is red, but the chickens killed in the floods are red.
-
-The consumer people have been caught by the floods that have been caught up to buy meat and the chickens of the farms have caused the death of chickens due to the spread of various viruses in general.
-
-The association is also requested by the people who are not using chicken in flooding and viruses.
-
-◼️
-
-[Data](articles/ccd17018.json)
-
-[Extended Data](ext_articles/ccd17018.ext.json)
-
----
-
-### NPP says will honour debt obligations, Sri Lanka must restructure debt
-
-*2024-06-11 19:18:00* · [`economynextcom`](https://economynext.com/npp-says-will-honour-debt-obligations-sri-lanka-must-restructure-debt-167524/) · `en`
-
-ECONOMYNEXT — Sri Lanka must restructure its debt to come out of its financial crisis, former MP Sunil Handunneththi said, adding that a future National People’s Power (NPP) government will not decline to pay off debts incurred by previous governments.
-
-Speaking at an event on Monday June 10, Handunneththi said NPP representatives that met International Monetary Fund (IMF) officials had asked for time to resolve a number of issues faced by the public.
-
-“We met IMF officials. What we told them clearly was to first allow us to solve our country’s people’s problems first. That’s a reasonable request. If we’re ready to form a government that does not waste, their first attention has to come to us.
-
-“We’re not saying we won’t repay the debt. We won’t say we cannot pay [presidents Ranil Wickremesinghe’s, Mahinda Rajapaksa’s or Gotabaya Rajayakasa’s] debt. As a country we’re bound to pay it. But give us a fair amount of time,” he said.
-
-...
-
-[Data](articles/ee93931e.json)
-
-[Extended Data](ext_articles/ee93931e.ext.json)
-
----
-
-### Expert committee appointed to address public sector salary discrepancies
-
-*2024-06-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99810/expert-committee-appointed-to-address-public-sector-salary-discrepancies) · `en`
-
-President Ranil Wickremesinghe has formed an expert committee to address salary discrepancies in the public service.
-
-Chaired by former Secretary to the President and senior administrative officer Mr. Udaya Seneviratne, the committee comprises four Directors General and four additional members, the PMD reported.
-
-◼️
-
-[Data](articles/23fa0913.json)
-
-[Extended Data](ext_articles/23fa0913.ext.json)
-
----
-
-### President forms expert committee to address public service salary disparities
-
-*2024-06-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99810/president-forms-expert-committee-to-address-public-service-salary-disparities) · `en`
-
-President Ranil Wickremesinghe has appointed a specialist committee to address salary discrepancies in the government service, the President’s Media Division said.
-
-The committee, chaired by a former presidential secretary Mr. Udaya Seneviratne, comprises various distinguished members including Director General of the National Budget Department S.D.J. Nilukshan, Director General of the Management Services Department Hiransa Kaluthantri, Director General of Combined Services S. Aloka Bandara, Director General of Institutions H.A. Chandana Kumarasinghe, Dr. Terence Gamini de Silva, Duminda Hulangamuwa, Chandi H. Dharmaratne and Isuru Thilakawardena.
-
-Presidential Additional Secretary Vernon Perera serves as the secretary of the said committee, the release said.
-
-...
-
-[Data](articles/9c5bb2bf.json)
-
-[Extended Data](ext_articles/9c5bb2bf.ext.json)
-
----
-
-### President forms committee to tackle public service salary anomalies
-
-*2024-06-11 19:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-forms-committee-to-tackle-public-service-salary-anomalies/108-284619) · `en`
-
-Colombo, June 11 (Daily Mirror)- In a move to address longstanding salary anomalies within the public service, President Ranil Wickremesinghe has announced the formation of a specialized expert committee.
-
-The committee will be chaired by Udaya Seneviratne, a seasoned senior administrative officer and former Secretary to the President.
-
-The committee is tasked with evaluating and proposing solutions to the salary disparities that have plagued various sectors of the public service for years.
-
-◼️
-
-[Data](articles/2309949a.json)
-
-[Extended Data](ext_articles/2309949a.ext.json)
-
----
-
-### Sri Lanka to promote sea cucumber hatcheries due to demand: Minister
-
-*2024-06-11 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-promote-sea-cucumber-hatcheries-due-to-demand-minister-167502/) · `en`
-
-ECONOMYNEXT – Sri Lanka will establish more sea cucumber hatcheries to accommodate growing demand for the marine animal in the export market, Minister of Fisheries Douglas Devananda said.
-
-“There are three hatcheries established in Jaffna peninsula. Very soon we will establish in the other areas,” Devananda told reporters on Tuesday.
-
-“They are like black gold,” Devananda said. There are “a lot of farms, especially in the Northern Province. We are getting foreign exchange too.”
-
-The invertebrate found on the sea floor is not commonly consumed by Sri Lankans, so they are being exported to countries like China, Devananda said.
-
-“Sea cucumber, especially our people, they are not eating, it is in China, they are eating.”
-
-Last year the Department of Fisheries and Aquatic Resources told EconomyNext that a kilo of sea cucumber is valued at 20,000-30,000 rupees.
-
-Devananda proposed the establishment of hatcheries as an alternative to catching wild sea cucumbers. (Colombo/Jun11/2024)
-
-◼️
-
-[Data](articles/2a7e1322.json)
-
-[Extended Data](ext_articles/2a7e1322.ext.json)
-
----
-
-### President's vicinity is held
-
-*2024-06-11 18:55:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-නියමිත-පරිදි-පවත්වනවා/11-410154) · `si`
-
-The speaker at a media briefing suggested that the government aims to extend the presidential term beyond its current limit due to the absence of the 19th Amendment during Maithripala Sirisena's presidency, which reduced the term from six to five years. They mentioned that Gotabhaya Rajapaksa served a full five-year term, making Ranil Wickremesinghe his successor, who can only serve out the remainder of Rajapaksa's term. The speaker criticized the government's lack of a two-thirds majority in parliament, suggesting that the election commission holds the power to set the election date, which is expected to occur within a specific timeframe.
-
-🟩
-
-The Presidential Election has said that the presidential election can be postponed that the presidential election can postpone the presidential election.
-
-He was speaking at a media briefing held at the Colombo Opposition Office today (11), he added:
-
-"These days, the government is on the side of the government to go on the side of the government to extend the term of the president in a year. We obviously should say the President had six years after the 1977. But in 2015, the government's term of the President has been reduced to 5 years as per the 19th Amendment. The 19th Amendment was not attended by Maithripala Sirisena's presidency at the time. He was released at 6 years. After five, he was able to stay 5 years old when I was five. Accordingly, Gotabhaya Rajapaksa becomes the President for five years.
-
-...
-
-[Data](articles/49090720.json)
-
-[Extended Data](ext_articles/49090720.ext.json)
 
 ---

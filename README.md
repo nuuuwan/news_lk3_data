@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 12:06:52**
+As of **2024-06-12 12:19:11**
 
 ## Newspaper Stats
 
-*Scraped **29,967** Articles*
+*Scraped **29,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,717
 dailyftlk | 1,809
-adalk | 2,572
+adalk | 2,573
 adaderanalk | 3,392
 tamilmirrorlk | 3,509
 virakesarilk | 4,582
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,824
+adaderanasinhalalk | 4,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,967 (100.0%) of 29,967 articles have been extended.
+29,967 (100.0%) of 29,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### උත්තරපත්‍ර පරීක්ෂකවරුන්ගේ දීමනාව ගැන තීරණයක්
+
+*2024-06-12 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197676) · `si`
+
+අ.පො.ස. (සාමාන්‍ය පෙළ) පිළිතුරු පත්‍ර සමීක්ෂණය සඳහා ගුරුවරුන්ට හා පරීක්ෂකවරුන්ට ගෙවනු ලබන දීමනාව සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනයේ වැඩිදුරටත් සඳහන්ව ඇත්තේ, අදාළ දීමනාව සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල සංදේශයක් ඉදිරිපත් කර ඇති බවය.
+
+ඒ සඳහා පත්කළ කමිටු වාර්තා 2024.06.14 දින ලැබීමට නියමිත අතර එම වාර්තාව මීළඟ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කිරීමටත්, ඒ අනුව එම දීමනා වැඩි කිරීමටත් අපේක්ෂිත බව අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන්ය.
+
+◼️
+
+[Data](articles/ec96a6a6.json)
+
+---
 
 ### Sri Lanka hopeful IMF will approve third tranche today
 
@@ -129,6 +145,26 @@ Sabry, who also met Belarus FM Sergei Aleinik on the sidelines of the BRICS mini
 [Data](articles/26b107c1.json)
 
 [Extended Data](ext_articles/26b107c1.ext.json)
+
+---
+
+### දෙමව්පියන්ට පහරදී දාහතර හැවිරිදි දැරියක් පැහැරගෙන: භූගත කුටියක සඟවා සිටි දැරිය සොයාගනී
+
+*2024-06-12 11:14:02* · [`adalk`](https://www.ada.lk/breaking_news/දෙමව්පියන්ට-පහරදී-දාහතර-හැවිරිදි-දැරියක්-පැහැරගෙන:-භූගත-කුටියක-සඟවා-සිටි-දැරිය-සොයාගනී/11-410169) · `si`
+
+බුත්තල පොලිස් වසමට අයත් කටුගහගල්ගේ ප්‍රදේශයේ නිවසකට ඉකුත් නවවෙනිදා පැමිණි පිරිසක් දෙමව්පියන්ට පහරදී නිවසේ කාමරයක නිදාගෙන සිටි දාහතර හැවිරිදි දැරියක් පැහැරගෙන යෑමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු බුත්තල පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.
+
+දැරිය සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගිය තරුණයෙකු හා තවත් කිහිපදෙනෙකු සමඟ දැරියගේ නිවසට පැමිණ මෙලෙස දැරිය  පැහැරගෙන ගොස් තිබිණි.
+
+අත්අඩංගුවටගත් ප්‍රධාන සැකකරුගෙන් ප්‍රශ්න කිරීමේදී ඔහුගේ නිවසේ කාමරයක භූගත කුටියක සඟවා සිටි දැරිය සොයාගෙන ඇත.ඇය වෛද්‍ය පරීක්ෂණයක් සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුලත්කර තිබේ.
+
+ප්‍රධාන සැකකරු බුත්තල වීගබඩාව පාර පදිංචි 18 හැවිරිදි අයෙකි.ඔහුට සහාය දුන් අනෙක් සැකකරුවන් වන වී ගබඩාවපාර පොල්වත්තේගෙදර පදිංචි 18 හැවිරිදි අයෙකු සහ රත්නසිරිගෙදර බුත්තලපාර මොනරාගල ලිපිනයේ පදිංචි 51 හැවිරිදි අයෙකු පොලීසිය මඟින් අත්අඩංගුවටගෙන තිබේ.
+
+සැකකරුවන් තිදෙනා වැල්ලවාය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කරන ලදුව ජූනි මස 19 දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇත. බුත්තල පොලිස් ස්ථානාධිපති ඩබ්ලිව්.එම්.ජේ බණ්ඩාර මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් වැටලීම සිදුකර තිබේ.3
+
+◼️
+
+[Data](articles/ad03d738.json)
 
 ---
 
@@ -2103,51 +2139,5 @@ Therefore, it is our hope that focusing on this issue and making interventions b
 [Data](articles/db17f79c.json)
 
 [Extended Data](ext_articles/db17f79c.ext.json)
-
----
-
-### There are better players in the social media now - Harin
-
-*2024-06-11 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197655) · `si`
-
-Harin Fernando, Sri Lanka's Sports Minister, addressed criticisms on social media against cricketers post-match losses, stating that such comments won't affect the players. He highlighted the unfairness of targeting cricketers online, especially when the team's performance is scrutinized after defeats. Fernando also mentioned the recent imposition of new rules by SLC officials, questioning the rationale behind certain decisions.
-
-🟩
-
-Sports Minister Harin Fernando says that the cricketers of criticism in the social media cannot change cricketers.
-
-The Sports Minister said that a press conference in Colombo today was held based on the defeat of Sri Lankan players based on the defeat of the two matches.
-
-Minister of Sports Harin Fernando says that the allegations of the SLC officials have been extended from the Gazette Notification that the SLC officials have recently imposed new orders.
-
-"It is wondering why Mampah is doing to write down to wedding wedding. The game is now. If the social media seems everyone can play too much better. If you have to change cricket to say about the keyboard heroes, where to change cricket. "
-
-◼️
-
-[Data](articles/493dc50f.json)
-
-[Extended Data](ext_articles/493dc50f.ext.json)
-
----
-
-### Minister Douglas Devananda requests the people of Karativu area to resolve the crises of fishermen
-
-*2024-06-11 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185860) · `ta`
-
-Douglas Devananda, Fisheries Minister, urges Karativu residents to address crises affecting fishermen. His rep plans to visit the area to enhance fisherfolk's livelihoods, focusing on repairing the Dana Sangam and establishing educational programs and employment opportunities. The initiative aims to mitigate issues like seaweed infestations and earthquakes impacting local fisheries, ensuring a sustainable future for Karativu's fishing community.
-
-🟩
-
-Fisheries and Aquatic Resources Minister Douglas Devananda's special representative of the Karadivu Hindu Cemetery will be visited on Tuesday (11) morning to improve the livelihood of fishermen from Karadivu.
-
-This was held at a hurricane, following a speech on the need to repair the Dana Sangam for the attention of Minister Douglas Devananda, a welfare activist and retirement deputy chief minister of Karadivu, Sundaram Thillaiyambalam.
-
-The Minister has demanded that the Minister take steps to protect the cemetery by setting up the tanna and the establishment of the Education and the Dana Mukthanam, which will provide a way of life and employment for hundreds of fishermen.
-
-...
-
-[Data](articles/a6a5296a.json)
-
-[Extended Data](ext_articles/a6a5296a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 12:19:11**
+As of **2024-06-12 12:34:25**
 
 ## Newspaper Stats
 
-*Scraped **29,969** Articles*
+*Scraped **29,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 281
 bbccomsinhala | 291
 newsfirstlk | 363
 islandlk | 1,622
-economynextcom | 1,717
+economynextcom | 1,721
 dailyftlk | 1,809
 adalk | 2,573
 adaderanalk | 3,392
-tamilmirrorlk | 3,509
-virakesarilk | 4,582
+tamilmirrorlk | 3,512
+virakesarilk | 4,585
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,825
 
@@ -26,25 +26,93 @@ adaderanasinhalalk | 4,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,967 (100.0%) of 29,969 articles have been extended.
+29,969 (100.0%) of 29,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### උත්තරපත්‍ර පරීක්ෂකවරුන්ගේ දීමනාව ගැන තීරණයක්
+### உணவு ஒவ்வாமை காரணமாக 25 மாணவர்கள் பாதிப்பு
+
+*2024-06-12 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமை-காரணமாக-25-மாணவர்கள்-பாதிப்பு/175-338803) · `ta`
+
+கஹட்டகஸ்திகிலிய பகுதியில் உள்ள ஆரம்ப பாடசாலையின் தரம் 3 மாணவர்கள் உணவு ஒவ்வாமை காரணமாக கஹட்டகஸ்திகிலிய ஆதார வைத்தியசாலையில் இன்று (12) அனுமதிக்கப்பட்டுள்ளனர்.
+
+பாடசாலையில் வழங்கப்பட்ட காலை உணவை உட்கொண்ட சிறிது நேரத்திலேயே 25 மாணவர்கள் உடல் அரிப்பு காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+ஆரம்ப பாடசாலையின் 3C மற்றும் 3D வகுப்புகளில் பயிலும் மாணவர்களே இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+3D வகுப்புக்கு உணவு வழங்கும் பெண் இன்று இல்லாததால் 3C வகுப்புக்கு உணவு வழங்கும் பெண்ணே 3D வகுப்புக்கும் உணவு வழங்கியுள்ளதாகவும் இது குறித்து மேலும் விசாரணை நடத்தி வருவதாகவும் பாடசாலை அதிபர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/05bcde75.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-12 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185894) · `ta`
+
+இன்று புதன்கிழமை  (ஜூன் 12) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 298.7951 ஆகவும் கொள்வனவு விலை ரூபா 308.2634 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b256c31d.json)
+
+---
+
+### Decision regarding the allowance of the answer
 
 *2024-06-12 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197676) · `si`
 
-අ.පො.ස. (සාමාන්‍ය පෙළ) පිළිතුරු පත්‍ර සමීක්ෂණය සඳහා ගුරුවරුන්ට හා පරීක්ෂකවරුන්ට ගෙවනු ලබන දීමනාව සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education announced an update on teacher and inspector allowances for Ordinary Level ADB, mentioning a Cabinet Memorandum submitted for relevant allowance increases. The committee's report will be presented to the next Cabinet meeting.
 
-එම නිවේදනයේ වැඩිදුරටත් සඳහන්ව ඇත්තේ, අදාළ දීමනාව සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල සංදේශයක් ඉදිරිපත් කර ඇති බවය.
+🟩
 
-ඒ සඳහා පත්කළ කමිටු වාර්තා 2024.06.14 දින ලැබීමට නියමිත අතර එම වාර්තාව මීළඟ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කිරීමටත්, ඒ අනුව එම දීමනා වැඩි කිරීමටත් අපේක්ෂිත බව අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන්ය.
+GCE Advanced Level. The Ministry of Education has issued a statement regarding the allowance paid to the teachers and inspectors for a (Ordinary Level ADB).
+
+The statement further states that a Cabinet Memorandum has been submitted regarding the relevant allowance.
+
+The report of the committee is scheduled to be presented to the next Cabinet and increase the allowances to the next Cabinet.
 
 ◼️
 
 [Data](articles/ec96a6a6.json)
+
+[Extended Data](ext_articles/ec96a6a6.ext.json)
+
+---
+
+### இனங்களுக்கிடையே ஒற்றுமை, நல்லிணக்கத்தை வலுப்படுத்த வேண்டிய தேவையுள்ளது - உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளை
+
+*2024-06-12 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/185892) · `ta`
+
+இலங்கையில் இனங்களுக்கிடையே ஒற்றுமை மற்றும் நல்லிணக்கத்தை மேலும் வலுப்படுத்த வேண்டிய தேவை எழுந்துள்ளதாக உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளை வலியுறுத்தியுள்ளது.
+
+உலக பெளத்த மகா சம்மேளனத்தின் இலங்கை மத்திய நிலையம் மற்றும் சர்வதேச மனித உரிமைகள் பணியகம் ஆகியன இணைந்து இலங்கையில் சிங்கள, தமிழ் மற்றும் முஸ்லிம் ஆகிய இனங்களுக்கிடையே ஒற்றுமை மற்றும் நல்லிணக்கத்தை விருத்தி செய்யும் நோக்கில் செவ்வாய்க்கிழமை (11) நிகழ்வொன்றினை ஏற்பாடு செய்திருந்தன.
+
+உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளையின் தலைவர் கலாநிதி சுதத் தேவபுரவின் தலைமையில் கொழும்பு மயூரபதி ஸ்ரீ பத்திரகாளி அம்மன் கோவிலில் மேற்படி சமய நிகழ்வு நடைபெற்றது. அனைத்து மதங்கள் மற்றும் இனங்களுக்கிடையில் நல்லிணக்கத்தின் மூலம் சமாதானம் மற்றும் ஒற்றுமையை விருத்தி செய்யும் முகமாக இந்நிகழ்வு ஒழுங்குப்படுத்தப்பட்டிருந்தது.
+
+...
+
+[Data](articles/ccf5912a.json)
+
+---
+
+### இனப்பிரச்சினைக்கு உங்களால் கூட தீர்வை வழங்க முடியவில்லையே என வடக்கிற்கு விஜயம் மேற்கொண்ட அநுரவிடம் சைவ சமயத் தலைவர்கள்  ஆதங்கம்
+
+*2024-06-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185884) · `ta`
+
+போரில் எந்த குற்றமும் செய்யாத பாடசாலை சிறுவர்கள், குழந்தைகள் குண்டு தாக்குதலுக்குள்ளாகி உயிரிழந்து, யுத்தம் முடிவுக்கு வந்து இவ்வளவு ஆண்டுகளாகியும் நீங்கள் எல்லோரும் இணைந்து இன்னமும் இனப்பிரச்சினைக்கு தீர்வை வழங்க முடியவில்லையே என தேசிய மக்கள் சக்தியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான அனுர குமார  திஸாநாயக்கவிடம் சைவ சமயத் தலைவர்கள் ஆதங்கத்தை வெளியிட்டனர்.
+
+யாழ்ப்பாணத்திற்கு விஜயம் செய்துள்ள அனுர குமார  திஸாநாயக்க தலைமையிலான குழுவினர் செவ்வாய்க்கிழமை (11) மாலை ஏழு மணிக்கு நல்லை திருஞானசம்பந்தர் ஆதீனத்திற்குச் சென்று சந்திப்பில் ஈடுபட்டனர்.
+
+சந்திப்பில் நல்லை ஆதீன குரு முதல்வர்  ஸ்ரீலஸ்ரீ சோமசுந்தர தேசிக ஞானசம்பந்த பரமாச்சாரிய சுவாமிகள், அகில இலங்கை இந்து மாமன்றத்தின் உபதலைவர் ஆறு திருமுருகன் உள்ளிட்டோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/c0c44250.json)
 
 ---
 
@@ -83,6 +151,42 @@ Police said that the factory in question has been temporarily closed following t
 [Data](articles/5b96e78d.json)
 
 [Extended Data](ext_articles/5b96e78d.ext.json)
+
+---
+
+### இரசாயனக் கசிவு காரணமாக  30 பேர் பாதிப்பு
+
+*2024-06-12 11:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரசாயனக்-கசிவு-காரணமாக-30-பேர்-பாதிப்பு/175-338801) · `ta`
+
+பாணந்துறை, நல்லுருவ பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் ஏற்பட்ட இரசாயனக் கசிவு காரணமாக சுமார் 30 பேர் சுகயீனமடைந்துள்ளதாக பாணந்துறை சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+வாசனைத் திரவியங்கள் மற்றும் ஏனைய பொருட்களை உற்பத்தி செய்யும் நிறுவனமொன்றில் கலவை தயாரிக்கும் போது இரசாயனப் பொருளில் மாற்றம் ஏற்பட்டுள்ளதாக குறிப்பிட்ட சிரேஷ்ட பொலிஸ் அதிகாரி, நிறுவனத்தை தற்காலிகமாக மூடுமாறு அறிவுறுத்தியுள்ளார்.
+
+பாதிக்கப்பட்டவர்களில் ஒரு குழுவினர் பாணந்துறை ஆதார வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டுள்ளதாகவும் மற்றுமொரு குழு தனிப்பட்ட சிகிச்சைக்காக பரிந்துரைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/eaa29bee.json)
+
+---
+
+### Sri Lanka optimistic ahead of IMF review: State minister
+
+*2024-06-12 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-optimistic-ahead-of-imf-review-state-minister-167584/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state minister for Finance, Shehan Semasinghe, said he expected a favourable review from the International Monetary Fund.
+
+The IMF board is scheduled to discuss the second review of the Extended Fund Facility (EFF) and Article IV consultation today (12).
+
+“We remain optimistic that our international partners will continue to support Sri Lanka’s efforts,” Semasinghe said on X (twitter).
+
+“A favorable outcome from the review is expected to unlock the 3rd tranche of approximately USD 330 million, which would further enhance confidence in our ongoing economic reforms and growth.”
+
+The Sri Lankan Government was in the final steps of finalizing the debt restructuring agreements, with continued support from bilateral partners, the state minister said. (Colombo/June12/2024)
+
+◼️
+
+[Data](articles/8ec33b80.json)
 
 ---
 
@@ -128,6 +232,32 @@ The complaint was filed by former President Chandrika Bandaranaike Kumaratunga t
 
 ---
 
+### Sri Lanka rupee weakens further at 303.75/304.00 to US dollar
+
+*2024-06-12 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-further-at-303-75-304-00-to-us-dollar-167578/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.75/304.00 to the US dollar on Wednesday in mid-morning trading, while bond yields were broadly stable, and stocks opened 0.09 percent higher, dealers said.
+
+In equities, Colombo’s All Share Price Index gained 10.56 points to 12,405 and the S&P SL20 of more liquid stocks was up 0.06 percent or 2.20 points to 3,690, in mid-morning trade.
+
+In the secondary market, yields were broadly stable during the auction, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.05/15 percent, down from 10.05/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.70/85 percent up from 10.50/70 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.10/20 percent, down from 11.05/15 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.80/12.00 percent down from 11.85/12.00 percent.
+
+A bond maturing on 01.10.2032 was quoted stable at 11.95/12.10. (Colombo/Jun12/2024)
+
+◼️
+
+[Data](articles/0eb65e54.json)
+
+---
+
 ### Foreign Minister Sabry engages in high-level talks with counterparts at BRICS summit
 
 *2024-06-12 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99824/foreign-minister-sabry-engages-in-high-level-talks-with-counterparts-atbricssummit) · `en`
@@ -148,23 +278,29 @@ Sabry, who also met Belarus FM Sergei Aleinik on the sidelines of the BRICS mini
 
 ---
 
-### දෙමව්පියන්ට පහරදී දාහතර හැවිරිදි දැරියක් පැහැරගෙන: භූගත කුටියක සඟවා සිටි දැරිය සොයාගනී
+### The girl was abducted and abducted by parents: the girl hiding in a underground chamber
 
 *2024-06-12 11:14:02* · [`adalk`](https://www.ada.lk/breaking_news/දෙමව්පියන්ට-පහරදී-දාහතර-හැවිරිදි-දැරියක්-පැහැරගෙන:-භූගත-කුටියක-සඟවා-සිටි-දැරිය-සොයාගනී/11-410169) · `si`
 
-බුත්තල පොලිස් වසමට අයත් කටුගහගල්ගේ ප්‍රදේශයේ නිවසකට ඉකුත් නවවෙනිදා පැමිණි පිරිසක් දෙමව්පියන්ට පහරදී නිවසේ කාමරයක නිදාගෙන සිටි දාහතර හැවිරිදි දැරියක් පැහැරගෙන යෑමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු බුත්තල පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.
+In Katugahagal, Buttala, police arrested three suspects linked to the abduction of a group of individuals, including a young man who had a romantic relationship with a girl. The girl, who was hidden in an underground chamber, was later found in a local hospital. The primary suspect is an 18-year-old from Weigabadawa Road, Buttala. All three suspects were remanded until June 19th by the Wellawaya Magistrate's Court.
 
-දැරිය සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගිය තරුණයෙකු හා තවත් කිහිපදෙනෙකු සමඟ දැරියගේ නිවසට පැමිණ මෙලෙස දැරිය  පැහැරගෙන ගොස් තිබිණි.
+🟩
 
-අත්අඩංගුවටගත් ප්‍රධාන සැකකරුගෙන් ප්‍රශ්න කිරීමේදී ඔහුගේ නිවසේ කාමරයක භූගත කුටියක සඟවා සිටි දැරිය සොයාගෙන ඇත.ඇය වෛද්‍ය පරීක්ෂණයක් සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුලත්කර තිබේ.
+The Buttala Police have arrested three suspects involved in the abduction of a group of parents in Katugahagal, Buttala.
 
-ප්‍රධාන සැකකරු බුත්තල වීගබඩාව පාර පදිංචි 18 හැවිරිදි අයෙකි.ඔහුට සහාය දුන් අනෙක් සැකකරුවන් වන වී ගබඩාවපාර පොල්වත්තේගෙදර පදිංචි 18 හැවිරිදි අයෙකු සහ රත්නසිරිගෙදර බුත්තලපාර මොනරාගල ලිපිනයේ පදිංචි 51 හැවිරිදි අයෙකු පොලීසිය මඟින් අත්අඩංගුවටගෙන තිබේ.
+A young man and several others had a romantic relationship with the girl and had come to the girl's home and was abducted by the girl.
 
-සැකකරුවන් තිදෙනා වැල්ලවාය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කරන ලදුව ජූනි මස 19 දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇත. බුත්තල පොලිස් ස්ථානාධිපති ඩබ්ලිව්.එම්.ජේ බණ්ඩාර මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් වැටලීම සිදුකර තිබේ.3
+The girl was hiding in a underground stall in a room in his home, was admitted to the Moneragala district hospital.
+
+The main suspect, a 18 year old resident of Weigabadawa Road, Buttala Weelaya.
+
+The three suspects were produced before the Wellawaya Magistrate's Court and remanded until June 19. Buttala Police OIC
 
 ◼️
 
 [Data](articles/ad03d738.json)
+
+[Extended Data](ext_articles/ad03d738.ext.json)
 
 ---
 
@@ -370,6 +506,28 @@ The President made this statement at a concept of policy reform held at the Batt
 
 ---
 
+### Vidullanka, WindForce joint venture signs purchase agreement with solar plant
+
+*2024-06-12 10:54:00* · [`economynextcom`](https://economynext.com/vidullanka-windforce-joint-venture-signs-purchase-agreement-with-solar-plant-167573/) · `en`
+
+ECONOMYNEXT – Suryashakthi (Pvt) Limited has signed a power purchase agreement for the development of a 10 megawatt Vavunathivu II solar power project in Batticaloa on Sri Lanka’s east coast.
+
+Suryashakthi (Pvt) Limited is a wholly owned subsidiary of Solar Universe (Pvt) Limited, a joint venture between WindForce Plc, Vidullanka Plc and HiEnergy Services (Pvt) Ltd.
+
+The Vavunathivu II solar power project is expected to attract an investment of approximately 2.2 billion rupees, Windforce said in a stock exchange filing.
+
+Renewable energy firm WindForce, started in 2020, has power plants in Sri Lanka, Pakistan, Uganda and Ukraine.
+
+In addition to wind power, the company has diversified into large-scale, ground and rooftop solar power generation systems and mini hydro plants, both locally and overseas.
+
+Mini hydro developer Vidullanka, which has a power plant in Uganda, has diversified into biomass and solar.
+
+...
+
+[Data](articles/70296763.json)
+
+---
+
 ### 9 Dengue deaths record
 
 *2024-06-12 10:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-டெங்கு-மரணங்கள்-பதிவு/175-338798) · `ta`
@@ -547,6 +705,26 @@ Amarasingham and Ketheeswaran are missing. The police have appealed in this rega
 [Data](articles/dd074bc7.json)
 
 [Extended Data](ext_articles/dd074bc7.ext.json)
+
+---
+
+### Sri Lanka Labor Ministry, ILO, IOM discuss labour reforms
+
+*2024-06-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-labor-ministry-ilo-iom-discuss-labour-reforms-167566/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Labor Manusha Nanayakkara has met with International Labor Organization (ILO) Director General Gilbert F Houngbo to discuss labor reforms.
+
+“Provisions in the new employment act aimed at combating discrimination, workplace violence and protecting domestic workers were discussed at the meeting,” Nanayakkara’s media secretary Sanjaya Nallaperuma told EconomyNext.
+
+Houngbo said the International Labor Organization will support Sri Lanka’s program to upskill workers aimed at the international labor market.
+
+In order to increase female employment in the formal sector, the labor ministry discussed a project with the ILO and the International Organization for Migration (IOM) to train care workers.
+
+Sri Lanka also plans to ratify several international instruments pertaining to labor law.
+
+...
+
+[Data](articles/f625961c.json)
 
 ---
 
@@ -1935,209 +2113,5 @@ It was signed by Ahmed Ali al Rashdi, Ambassador of Oman to Sri Lanka, and Mahin
 [Data](articles/fd0c0a0f.json)
 
 [Extended Data](ext_articles/fd0c0a0f.ext.json)
-
----
-
-### Following fishing vessel
-
-*2024-06-11 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197658) · `si`
-
-Two fishermen went missing when their boat rolled over at Siyassala during the night. The Habaraduwa Police dispatched a team to investigate the incident.
-
-🟩
-
-Two fishermen have reportedly missing due to the rolling of a fishing vessel at the Siyassala at night.
-
-Habaraduwa Police said that a police team left for the incident.
-
-◼️
-
-[Data](articles/21048abf.json)
-
-[Extended Data](ext_articles/21048abf.ext.json)
-
----
-
-### Sri Lanka to face Nepal in must-win T20 World Cup match
-
-*2024-06-11 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-face-Nepal-in-must-win-T20-World-Cup-match/108-284622) · `en`
-
-June 11 (Daily Mirror) - Sri Lanka will take on Nepal in the 23rd match of the ongoing T20 World Cup at the Central Broward Regional Park Stadium in Florida tomorrow morning (Wednesday).
-
-The venue, which hosted its first international match in 2010, is expected to offer better batting conditions than its New York counterpart, where pitch conditions have been tricky.
-
-Sri Lanka will benefit from their previous experience at the ground, offering an advantage over Nepal.
-
-After two defeats to South Africa and Bangladesh, Sri Lanka are in must-win territory. They need victories against Nepal and the Netherlands, and also rely on at least one of those teams to beat Bangladesh to keep their hopes alive.
-
-...
-
-[Data](articles/c09e937e.json)
-
-[Extended Data](ext_articles/c09e937e.ext.json)
-
----
-
-### Sajith does not say that police powers should be fully granted - Marikar's explanation
-
-*2024-06-11 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185863) · `ta`
-
-Sajith Premadasa supports granting social and environmental police powers under the 13th Amendment but opposes full police power transfer. He emphasizes the need for equal rights and development opportunities for all Sri Lankans, particularly in the North, highlighting the importance of attracting foreign investment for job creation and improving the export economy.
-
-🟩
-
-There is no problem in the granting of social and environmental police powers while implementing the 13th Amendment to the Constitution. Opposition Leader Sajith Premadasa also mentioned the same. On the contrary, he did not say that the police powers should be fully granted, said MP SM Marikar.
-
-He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Tuesday (11).
-
-Opposition leader Sajith Premadasa has stated that there is no law in the North and a law for the South.
-
-There is no problem in proving provincial councils when the 13th Amendment is implemented. Most of the schools and hospitals are provided to provincial councils. All local corporations are also under provincial councils. This is the meaning of what he said. It is not that the police authority will be given completely.
-
-...
-
-[Data](articles/9074b8ed.json)
-
-[Extended Data](ext_articles/9074b8ed.ext.json)
-
----
-
-### The case of a drug addict buy a gun
-
-*2024-06-11 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185862) · `ta`
-
-In a landmark ruling, a US judge found Hunter Bitton, son of President Jobiton, guilty of violating gun laws, marking the first instance of a presidential relative being convicted. The charges stem from allegations of falsifying documents during a 2018 handgun purchase, with the primary accusation being drug addiction, specifically cocaine use. This case could lead to a 25-year prison sentence under US law for providing false information and using a firearm while under the influence of drugs.
-
-🟩
-
-A US judge has ruled that Hunter Baidon's son Hunter Bitton, son of US President Jobiton, has violated laws over the use of a gun.
-
-This is the first time that the court has ruled that a family member of a man who is in office as US president is guilty.
-
-It is noteworthy that two allegations of Hunter's falseness have been accused of holding a rifle while buying a rifle.
-
-Hunter Baidan said that he was not addicted to the government document in the government document when he purchased the handgun in 2018, but was the main allegation that he was suffering from the use of cocaine.
-
-The US government's ATV document can be sentenced to 25 years in prison for providing false information in the US and the use of a drug -fired gun in the United States.
-
-◼️
-
-[Data](articles/017033ab.json)
-
-[Extended Data](ext_articles/017033ab.ext.json)
-
----
-
-### New officers recruited to Sri Lanka Foreign Service
-
-*2024-06-11 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99811/new-officers-recruited-to-sri-lanka-foreign-service) · `en`
-
-Twenty newly-recruited officers to the Sri Lanka Foreign Service were welcomed to the Ministry by Foreign Secretary Aruni Wijewardane today (11).
-
-The Foreign Secretary highlighted the important role of the Sri Lanka Foreign Service (SLFS) and the special responsibilities of all officers as public servants.
-
-She referred to the skills required in the modern world of diplomacy including the priority given to economic diplomacy, the Ministry of Foreign Affairs said.
-
-The statement added that the 20 new officers have been recruited to the SLFS through an open competitive examination and interview process and appointed by the Public Service Commission.
-
-The newly-recruited officers will participate in the induction training programme conducted by the Bandaranaike International Diplomatic Training Institute (BIDTI) prior to taking up duties at the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/773c0ff4.json)
-
-[Extended Data](ext_articles/773c0ff4.ext.json)
-
----
-
-### Canada limited to 106 runs
-
-*2024-06-11 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197657) · `si`
-
-In the T20 World Cup match between Canada and Pakistan, Canada made 106 runs in 20 overs but lost. Pakistan needs 107 runs to win.
-
-🟩
-
-Canada and Pakistan will be held today (11), Canada and Pakistan of the T20 World Cup.
-
-Batting first, Canada scored 106 runs for the loss of 07 wickets at the end of 20 overs.
-
-Accordingly, Pakistan has 107 runs in order to win the match.
-
-Pakistan won Pakistan to win the coin, and they decided first bowler.
-
-◼️
-
-[Data](articles/f006cf48.json)
-
-[Extended Data](ext_articles/f006cf48.ext.json)
-
----
-
-### The solution that broke Soul Beach
-
-*2024-06-11 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197656) · `si`
-
-The Human Rights Commission of Sri Lanka has advised the Director General of Coast Conservation and the Secretary of Urban Development to address issues at the Dehiwala Seal Beach Hotel. The Inspector General of Police (IGP) has also been asked to investigate. Recommendations include assessing economic losses and compensating affected employees and the government.
-
-🟩
-
-The Human Rights Commission of Sri Lanka has issued recommendations regarding the controversy of the Dehiwala Seal Beach Hotel.
-
-Accordingly, the Director General of the Coast Conservation and Coastal Resource Management, the Secretary to the Ministry of Urban Development and Housing has been recommended to take appropriate action.
-
-The IGP has also recommended to the IGP to conduct an investigation into the incident.
-
-The recommendations should be paid by the government to evaluate the economic damage caused by the relevant period and pay an appropriate compensation to its employees and the government.
-
-◼️
-
-[Data](articles/c0cbe7a8.json)
-
-[Extended Data](ext_articles/c0cbe7a8.ext.json)
-
----
-
-### Probe into video of youth touching sleeping wild elephant
-
-*2024-06-11 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-into-video-of-youth-touching-sleeping-wild-elephant/108-284620) · `en`
-
-Colombo, June 11 (Daily Mirror) - An investigation has been launched by the Anuradhapura Wildlife Assistant Director regarding a video circulating on social media showing a youth touching a wild elephant while it was asleep.
-
-This video was recorded in the Ranajayapura forest area of Anuradhapura.
-
-The video clearly shows one of the three youths carefully approaching the sleeping elephant, touching it and then gradually retreating.
-
-They recorded the video as an adventure activity, claiming they did not zoom in to make it appear fake. Their stated purpose was to demonstrate how to get close to a wild elephant.
-
-The Wildlife Department urged people not to engage in such activities, highlighting the risks involved, and advised against attempting similar actions after watching the video.
-
-◼️
-
-[Data](articles/54be2e33.json)
-
-[Extended Data](ext_articles/54be2e33.ext.json)
-
----
-
-### Conduct a circular conference on implementing 13 - Karujayasuriya
-
-*2024-06-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185861) · `ta`
-
-Political leaders and Tamil diaspora support immediate implementation of the 13th Amendment, led by Karujayasuriya, aiming to prevent future racial and religious conflicts and ensure dignified living for all citizens. The call comes ahead of parliamentary elections, with backing from the President, ruling and opposition parties, and influential figures like Ranil Wickremesinghe, Chandrika Bandaranaike, and Mahinda Rajapaksa. This initiative is seen as crucial for addressing ongoing issues and setting a progressive path forward, with the appeal extending to all parliamentary parties to prioritize this matter.
-
-🟩
-
-Political leaders and diaspora Tamils ​​have expressed their positive position on the implementation of the 13th Amendment, and Karujayasuriya, the leader and former Speaker of the National Movement for Mukherjee, has called for a solution without delay.
-
-It is our great duty to establish mutual confidence in the North and South, to ensure that race and religion -based conflicts are not resumed, the right to live with dignity for all citizens and not leave these problems for future generations.
-
-Therefore, it is our hope that focusing on this issue and making interventions before the upcoming parliamentary elections. Moreover, the Hon. President, including the ruling party and the entire opposition party, appeals to the focus of the 09th Parliament's time.
-
-...
-
-[Data](articles/db17f79c.json)
-
-[Extended Data](ext_articles/db17f79c.ext.json)
 
 ---

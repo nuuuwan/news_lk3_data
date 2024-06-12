@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 12:34:25**
+As of **2024-06-12 12:52:24**
 
 ## Newspaper Stats
 
-*Scraped **29,979** Articles*
+*Scraped **29,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,96 @@ newsfirstlk | 363
 islandlk | 1,622
 economynextcom | 1,721
 dailyftlk | 1,809
-adalk | 2,573
+adalk | 2,574
 adaderanalk | 3,392
 tamilmirrorlk | 3,512
-virakesarilk | 4,585
+virakesarilk | 4,586
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,825
+adaderanasinhalalk | 4,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,969 (100.0%) of 29,979 articles have been extended.
+29,979 (100.0%) of 29,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### உணவு ஒவ்வாமை காரணமாக 25 மாணவர்கள் பாதிப்பு
+### වොෂිංටන් නුවරින් එන සුබ පණිවුඩය
+
+*2024-06-12 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197677) · `si`
+
+ශ්‍රී ලංකාවට තුන්වැනි ණය වාරිකය නිදහස් කිරීම සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අද (12) රැස්වී තීරණය කිරීමට නියමිතය.
+
+ඒ යටතේ අනුමත කිරීමට නියමිත ණය මුදල අමෙරිකානු ඩොලර් මිලියන 335කි.
+
+ඒ සම්බන්ධයෙන් අද (12) කොළඹදී අදහස් දැක්වූ සහකාර මහබැංකු අධිපති බව ආචාර්ය චන්ද්‍රනාත් අමරසේකර මහතා,
+
+...
+
+[Data](articles/cb38c263.json)
+
+---
+
+### 25 students are affected by food allergies
 
 *2024-06-12 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமை-காரணமாக-25-மாணவர்கள்-பாதிப்பு/175-338803) · `ta`
 
-கஹட்டகஸ்திகிலிய பகுதியில் உள்ள ஆரம்ப பாடசாலையின் தரம் 3 மாணவர்கள் உணவு ஒவ்வாமை காரணமாக கஹட்டகஸ்திகிலிய ஆதார வைத்தியசாலையில் இன்று (12) அனுமதிக்கப்பட்டுள்ளனர்.
+25 Grade 3 students from Kahatagastikiliya primary school were hospitalized due to severe allergic reactions to food after breakfast. The incident involved students from classes 3C and 3D, with the school principal noting a mistake in meal provision for class 3D.
 
-பாடசாலையில் வழங்கப்பட்ட காலை உணவை உட்கொண்ட சிறிது நேரத்திலேயே 25 மாணவர்கள் உடல் அரிப்பு காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
 
-ஆரம்ப பாடசாலையின் 3C மற்றும் 3D வகுப்புகளில் பயிலும் மாணவர்களே இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Grade 3 students of the primary school in Kahatagastikiliya have been admitted to the Kahatagastikiliya Resource Hospital today due to food allergies.
 
-3D வகுப்புக்கு உணவு வழங்கும் பெண் இன்று இல்லாததால் 3C வகுப்புக்கு உணவு வழங்கும் பெண்ணே 3D வகுப்புக்கும் உணவு வழங்கியுள்ளதாகவும் இது குறித்து மேலும் விசாரணை நடத்தி வருவதாகவும் பாடசாலை அதிபர் தெரிவித்துள்ளார்.
+A short time after having breakfast provided at the school, 25 students have been admitted to the hospital due to body itching.
+
+The students who attended the 3C and 3D grades of the elementary school have been admitted to the hospital.
+
+The school principal said that the lack of food for the 3D class today has been provided with food for the 3D class.
 
 ◼️
 
 [Data](articles/05bcde75.json)
 
+[Extended Data](ext_articles/05bcde75.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### போர்க்களங்களில் -உள்நாட்டு மோதல்களில்  உயிரிழப்பவர்களின் எண்ணிக்கை பல மடங்காக அதிகரிப்பு - ஒரே நாட்டிற்குள் பல மோதல்கள் - நோர்வே அமைப்பு
+
+*2024-06-12 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185897) · `ta`
+
+சர்வதேச அளவில் உள்நாட்டு மோதல்கள் , போர்களங்களில் உயிரிழந்தவர்கள் எண்ணிக்கை மூன்று தசாப்தங்களில் இல்லாதவாறு அதிகரித்துள்ளமை புதிய ஆய்வின் மூலம் தெரியவந்துள்ளது.
+
+எத்தியோப்பியாவின் டைகிரே பிராந்தியத்திலும் உக்ரைன் மீதான ரஸ்யாவின் படையெடுப்பு காரணமாகவும் காசா மீதான இஸ்ரேலின் தாக்குதல் காரணமாகவும் பொதுமக்களின் உயிரிழப்புகள் அதிகரித்துள்ளன என ஒஸ்லோவின் சமாதான ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது.
+
+எனினும் முன்னைய வருடங்களுடன் ஒப்பிடும்போது மோதல்கள் காரணமாக உயிர் இழப்பவர்களின் எண்ணிக்கை கடந்த வருடம் குறைவடைந்திருந்தது என தெரிவித்துள்ள ஒஸ்லோ அமைப்பு எனினும் 2023 இல் 122,000 பேர் கொல்லப்பட்டுள்ளனர்,உக்ரைனில் 73.000 பேரும் காசாவில் 23,000 பேரும் கொல்லப்பட்டுள்ளனர் என தெரிவித்துள்ளது.
+
+உலகில் இடம்பெறும் மோதல்களின் எண்ணிக்கையும் குறிப்பிடத்தக்க அளவிற்கு அதிகரித்துள்ளது,34 நாடுகளில் 59 மோதல்களங்கள் காணப்படுகின்றன என நோர்வே அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/60c9cb80.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-06-12 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185894) · `ta`
 
-இன்று புதன்கிழமை  (ஜூன் 12) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 298.7951 ஆகவும் கொள்வனவு விலை ரூபா 308.2634 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar sold for 298.7951 Rupees according to today's currency exchange rate update on June 12.
+
+🟩
+
+The US dollar sales price was 298.7951 based on the currency exchange rate released today (June 12) at Rs.
 
 ◼️
 
 [Data](articles/b256c31d.json)
+
+[Extended Data](ext_articles/b256c31d.ext.json)
 
 ---
 
@@ -84,35 +130,51 @@ The report of the committee is scheduled to be presented to the next Cabinet and
 
 ---
 
-### இனங்களுக்கிடையே ஒற்றுமை, நல்லிணக்கத்தை வலுப்படுத்த வேண்டிய தேவையுள்ளது - உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளை
+### There is a need to strengthen unity and reconciliation among the world - the Sri Lanka Branch of the World Buddhist Maha Federation
 
 *2024-06-12 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/185892) · `ta`
 
-இலங்கையில் இனங்களுக்கிடையே ஒற்றுமை மற்றும் நல்லிணக்கத்தை மேலும் வலுப்படுத்த வேண்டிய தேவை எழுந்துள்ளதாக உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளை வலியுறுத்தியுள்ளது.
+The Sri Lanka Branch of the World Buddhist Maha Federation, along with the Ceylon Center and the International Human Rights Bureau, hosted an event promoting unity and reconciliation among Sinhala, Tamil, and Muslim communities. Led by Dr. Sudath Devapura, the event aimed to foster peace and unity across religions and ethnicities in Sri Lanka.
 
-உலக பெளத்த மகா சம்மேளனத்தின் இலங்கை மத்திய நிலையம் மற்றும் சர்வதேச மனித உரிமைகள் பணியகம் ஆகியன இணைந்து இலங்கையில் சிங்கள, தமிழ் மற்றும் முஸ்லிம் ஆகிய இனங்களுக்கிடையே ஒற்றுமை மற்றும் நல்லிணக்கத்தை விருத்தி செய்யும் நோக்கில் செவ்வாய்க்கிழமை (11) நிகழ்வொன்றினை ஏற்பாடு செய்திருந்தன.
+🟩
 
-உலக பௌத்த மகா சம்மேளனத்தின் இலங்கை கிளையின் தலைவர் கலாநிதி சுதத் தேவபுரவின் தலைமையில் கொழும்பு மயூரபதி ஸ்ரீ பத்திரகாளி அம்மன் கோவிலில் மேற்படி சமய நிகழ்வு நடைபெற்றது. அனைத்து மதங்கள் மற்றும் இனங்களுக்கிடையில் நல்லிணக்கத்தின் மூலம் சமாதானம் மற்றும் ஒற்றுமையை விருத்தி செய்யும் முகமாக இந்நிகழ்வு ஒழுங்குப்படுத்தப்பட்டிருந்தது.
+The Sri Lanka Branch of the World Buddhist Maha Federation has emphasized that there is a need to further strengthen the unity and harmony among ethnic harmony in Sri Lanka.
+
+The World Buddhist Maha Federation and the Ceylon Center of the World and the International Human Rights Bureau organized an event on Tuesday (11) to promote unity and reconciliation between the Sinhala, Tamil and Muslim communities in Sri Lanka.
+
+The religious event was held at the Sri Patrakali Amman Temple in Colombo, headed by Dr. Sudath Devapura, President of the Sri Lanka Branch of the World Buddhist Maha Federation.. The event was organized to promote peace and unity through harmony between all religions and ethnicities.
+
+Dr. Sudath Devapura, Secretary to the Ceylon Center of the World Buddhist Great Federation, Secretary Jayantha Peiris, International Human Rights Global Guidelines. A.. Clean. Mahasum, its leader Amir Khan, Director Kuberalingam, Advisor Naseem and journalist journalist Baslan were also present.
 
 ...
 
 [Data](articles/ccf5912a.json)
 
+[Extended Data](ext_articles/ccf5912a.ext.json)
+
 ---
 
-### இனப்பிரச்சினைக்கு உங்களால் கூட தீர்வை வழங்க முடியவில்லையே என வடக்கிற்கு விஜயம் மேற்கொண்ட அநுரவிடம் சைவ சமயத் தலைவர்கள்  ஆதங்கம்
+### Vegetarian leaders have visited the North, saying that you cannot even provide a solution to the ethnic problem.
 
 *2024-06-12 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185884) · `ta`
 
-போரில் எந்த குற்றமும் செய்யாத பாடசாலை சிறுவர்கள், குழந்தைகள் குண்டு தாக்குதலுக்குள்ளாகி உயிரிழந்து, யுத்தம் முடிவுக்கு வந்து இவ்வளவு ஆண்டுகளாகியும் நீங்கள் எல்லோரும் இணைந்து இன்னமும் இனப்பிரச்சினைக்கு தீர்வை வழங்க முடியவில்லையே என தேசிய மக்கள் சக்தியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான அனுர குமார  திஸாநாயக்கவிடம் சைவ சமயத் தலைவர்கள் ஆதங்கத்தை வெளியிட்டனர்.
+Vegetarian leaders criticized the government's handling of the ethnic conflict, while Saivite leaders withdrew support from a lawmaker over the death of innocent children post-war. A delegation led by the lawmaker visited Jaffna, discussing solutions with religious leaders. The Saivite community expressed frustration with the lack of progress in addressing disappearances and called for political action. Amidst tensions, the lawmaker promised to address temple destruction and resolve the Tamil issue if elected president.
 
-யாழ்ப்பாணத்திற்கு விஜயம் செய்துள்ள அனுர குமார  திஸாநாயக்க தலைமையிலான குழுவினர் செவ்வாய்க்கிழமை (11) மாலை ஏழு மணிக்கு நல்லை திருஞானசம்பந்தர் ஆதீனத்திற்குச் சென்று சந்திப்பில் ஈடுபட்டனர்.
+🟩
 
-சந்திப்பில் நல்லை ஆதீன குரு முதல்வர்  ஸ்ரீலஸ்ரீ சோமசுந்தர தேசிக ஞானசம்பந்த பரமாச்சாரிய சுவாமிகள், அகில இலங்கை இந்து மாமன்றத்தின் உபதலைவர் ஆறு திருமுருகன் உள்ளிட்டோர் கலந்து கொண்டனர்.
+Saivite leaders have released the support of National People's Power and Member of Parliament Anura Kumara Dissanayake, saying that the school boys and children who have not committed any crime in the war have died and the war ended and that all the years after the war ended.
+
+A team led by Anura Kumara Dissanayake, who visited Jaffna, visited Nallai Thirugnanasambandar Athena at 7 pm on Tuesday (11).
+
+The meeting was attended by Nallai Adheen Guru Chief Minister Srilasree Somasundara Desika Gnanasambandha Paramacharya Swamis and the Vice President of the All Ceylon Hindu Council River Thirumurugan.
+
+In the meantime, the JVP solve the long -standing ethnic problem in the country. The Saiva religious leaders, who urged the role to be contributed, issued a statement why you were left -wing leaders when you were killed when they died after being bombed by school children, children and children who had not committed any crime in the war.
 
 ...
 
 [Data](articles/c0c44250.json)
+
+[Extended Data](ext_articles/c0c44250.ext.json)
 
 ---
 
@@ -154,19 +216,25 @@ Police said that the factory in question has been temporarily closed following t
 
 ---
 
-### இரசாயனக் கசிவு காரணமாக  30 பேர் பாதிப்பு
+### 30 people infected due to chemical leaks
 
 *2024-06-12 11:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரசாயனக்-கசிவு-காரணமாக-30-பேர்-பாதிப்பு/175-338801) · `ta`
 
-பாணந்துறை, நல்லுருவ பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் ஏற்பட்ட இரசாயனக் கசிவு காரணமாக சுமார் 30 பேர் சுகயீனமடைந்துள்ளதாக பாணந்துறை சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+Chemical leaks at a Panadura factory sickened 30 people, including one hospitalized. A senior police officer advised the company to shut down temporarily due to unsafe conditions.
 
-வாசனைத் திரவியங்கள் மற்றும் ஏனைய பொருட்களை உற்பத்தி செய்யும் நிறுவனமொன்றில் கலவை தயாரிக்கும் போது இரசாயனப் பொருளில் மாற்றம் ஏற்பட்டுள்ளதாக குறிப்பிட்ட சிரேஷ்ட பொலிஸ் அதிகாரி, நிறுவனத்தை தற்காலிகமாக மூடுமாறு அறிவுறுத்தியுள்ளார்.
+🟩
 
-பாதிக்கப்பட்டவர்களில் ஒரு குழுவினர் பாணந்துறை ஆதார வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டுள்ளதாகவும் மற்றுமொரு குழு தனிப்பட்ட சிகிச்சைக்காக பரிந்துரைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+A senior police officer of Panadura said that about 30 people were sick due to chemical leaks at a factory in Nalluruwa area in Panadura.
+
+The senior police officer, who specified that the chemical substance has changed when the mixture is being produced in a company that produces perfumes and other products, has advised the company to temporarily close the company.
+
+It is reported that one of the victims has been taken to the Panadura Resource Hospital and another team has been recommended for personal treatment.
 
 ◼️
 
 [Data](articles/eaa29bee.json)
+
+[Extended Data](ext_articles/eaa29bee.ext.json)
 
 ---
 
@@ -187,6 +255,8 @@ The Sri Lankan Government was in the final steps of finalizing the debt restruct
 ◼️
 
 [Data](articles/8ec33b80.json)
+
+[Extended Data](ext_articles/8ec33b80.ext.json)
 
 ---
 
@@ -255,6 +325,8 @@ A bond maturing on 01.10.2032 was quoted stable at 11.95/12.10. (Colombo/Jun12/2
 ◼️
 
 [Data](articles/0eb65e54.json)
+
+[Extended Data](ext_articles/0eb65e54.ext.json)
 
 ---
 
@@ -526,6 +598,8 @@ Mini hydro developer Vidullanka, which has a power plant in Uganda, has diversif
 
 [Data](articles/70296763.json)
 
+[Extended Data](ext_articles/70296763.ext.json)
+
 ---
 
 ### 9 Dengue deaths record
@@ -726,6 +800,8 @@ Sri Lanka also plans to ratify several international instruments pertaining to l
 
 [Data](articles/f625961c.json)
 
+[Extended Data](ext_articles/f625961c.ext.json)
+
 ---
 
 ### Five hospitalized after bus accident at Makumbura bus station
@@ -825,6 +901,20 @@ Addressing a press briefing titled ‘Collective Path to a Stable Country,’ he
 [Data](articles/595efe23.json)
 
 [Extended Data](ext_articles/595efe23.ext.json)
+
+---
+
+### එල්ලුම් ගහට නියම වූ පුද්ගලයෙකුගේ රු. ලක්ෂ හැටපහක මුදල් සන්තකයේ තබාගෙන සිටි පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-06-12 09:26:43* · [`adalk`](https://www.ada.lk/breaking_news/එල්ලුම්-ගහට-නියම-වූ-පුද්ගලයෙකුගේ-රු--ලක්ෂ-හැටපහක-මුදල්-සන්තකයේ-තබාගෙන-සිටි-පුද්ගලයෙක්-අත්අඩංගුවට/11-410162) · `si`
+
+මරණීය දණ්ඩනය නියමව බූස්ස බන්ධනාගාරයේ රඳවා සිටින මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවකු වන විධානගමගේ නලින් සුරංග යන අය විසින් මත්ද්‍රව්‍ය  ජාවාරමෙන් උපයා ගත් මුදල්  සම්බන්ධයෙන්  මුදල් විශුද්ධකරන පනත යටතේ විමර්ශන පවත්වා ඔහුට අයත් රුපියල් ලක්ෂ 65 ක මුදලක්   සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකු අත්අඩංගුවට  ගත් බව නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය කියයි.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් 2022  .06.27 වෙනි දින  මහා පරිමාණ මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට සැලසුම් කරන බවට තොරතුරක් අනුව  තංගල්ල ධීවර වරාය ආසන්නයේ මුහුදු තීරයේදී  බහු දින ධීවර යාත්‍රාවක් සමග ස්කිපර්  වරයෙකු සමග තවත් සැකකරුවන් හය දෙනෙකු අත්අඩංගුවට ගැනීමෙන් පසු මුදල් විශුද්ධකරනය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කළ බව පොලිසිය සඳහන් කරයි
+
+...
+
+[Data](articles/6f16a056.json)
 
 ---
 
@@ -1780,11 +1870,9 @@ In 2015, IPPF launched the Social Enterprise Acceleration Program (SEAP) to empo
 
 Such impunity is possible because an absolute majority of victims are the most discriminated against people in Sri Lanka: Upcountry Tamils
 
-Ten years: that was how long three State institutions didn’t pay EPF and ETF monies to their retired and deceased employees.
+Hopefully, President Wickremesinghe’s decision to use the State to correct the gross imbalance in the bargaining power between plantation workers and the management would set a new trend. Unfortunately, the chances of such a positive outcome is unlikely. Both the SJB and the JVP are silent on the issue (Sajith Premadasa’s promise to fully implement the 13th Amendment is commendable. The JVP is yet to make such a full throated endorsement). Production economy (nishpadana arthikaya) is not a plan but a slogan. Reducing PAYE tax is not a road to the future but a return to the past. If one cannot tell Elon Musk, James Packer, and George Soros apart (as Sunil Handunnetti obviously failed to) a new Gota, armed with the impunity of new-mint popularity, awaits us at the next bend
 
-Most victims of this act of criminal injustice suffered and died in silence. A few (about 2,000) filed court cases. The larger society, including the media, political parties and the labour movement, didn’t know, didn’t care.
-
-This injustice happened in the only place it could have been perpetrated with legal, political, and societal impunity: the plantation sector. The culprits were the three State-owned plantation companies. The excuse was that these companies made losses. How many state-owned enterprises make profits? Do the loss-making ones (which include CEB, CPC, and Air Lanka) deny their employees EPF and ETF payments? What would happen if they even tried?
+“The silence is a danger in itself” – Seamus Heaney (The Burial at Thebes)
 
 ...
 
@@ -2063,55 +2151,5 @@ Niluka Gunatilake, Head of Cards at Nations Trust Bank, stated, “With ‘Cuisi
 [Data](articles/f0bc8763.json)
 
 [Extended Data](ext_articles/f0bc8763.ext.json)
-
----
-
-### Share market forges ahead in an optimistic spirit; turnover exceeds Rs. 3 billion
-
-*2024-06-11 22:59:00* · [`islandlk`](http://island.lk/share-market-forges-ahead-in-an-optimistic-spirit-turnover-exceeds-rs-3-billion/) · `en`
-
-The stock market kicked off on a positive note yesterday as local and foreign investors were optimistic about Sri Lanka receiving the IMF’s approval for the receipt of the relevant EFF tranches, market analysts said.
-
-Apart from that, Hayleys stocks noted some buying interest due to market speculation on various matters. Owing to those positive impacts, both indices moved upwards. The All Share Price Index went up by 13.5 points while S and P SL 20 rose by 0.19 points.
-
-...
-
-[Data](articles/ce73863e.json)
-
-[Extended Data](ext_articles/ce73863e.ext.json)
-
----
-
-### Process Sri Lankan refugee’s plea for Indian citizenship, Madras HC directs India’s Home Ministry
-
-*2024-06-11 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99813/process-sri-lankan-refugees-plea-for-indian-citizenship-madras-hc-directs-indias-home-ministry) · `en`
-
-The Madras High Court has directed the Indian Home Ministry to process an application filed by a Sri Lankan refugee, who has been reportedly residing in India since 1990, for Indian citizenship and pass a speaking order, either accepting or rejecting his plea.
-
-Justice Anita Sumanth made it clear that a reasoned order must be passed on the citizenship application filed by Gajendiran, within 12 weeks, after seeking all necessary clarifications from the applicant and by following the applicable rules and regulations.
-
-The direction was issued while disposing of a writ petition filed by the refugee in 2023 seeking a direction to India’s Union Home Ministry to expedite his citizenship application pending since 2017. In his affdavit, the petitioner, now residing in Puducherry, had claimed to have entered India in 1990.
-
-...
-
-[Data](articles/64543657.json)
-
-[Extended Data](ext_articles/64543657.ext.json)
-
----
-
-### Sri Lanka, Oman sign MoU in Agriculture
-
-*2024-06-11 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99812/sri-lanka-oman-sign-mou-in-agriculture) · `en`
-
-Oman, represented by the Ministry of Agriculture, Fisheries and Water Resources, and Sri Lanka, represented by the Ministry of Agriculture and Plantation Industries, signed a Memorandum of Understanding (MoU) in the field of Agriculture.
-
-It was signed by Ahmed Ali al Rashdi, Ambassador of Oman to Sri Lanka, and Mahinda Amaraweera, Sri Lankan Minister of Agriculture and Plantation Industries.
-
-◼️
-
-[Data](articles/fd0c0a0f.json)
-
-[Extended Data](ext_articles/fd0c0a0f.ext.json)
 
 ---

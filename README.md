@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 23:04:20**
+As of **2024-06-12 23:19:15**
 
 ## Newspaper Stats
 
-*Scraped **30,080** Articles*
+*Scraped **30,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,39 @@ adaderanalk | 3,410
 tamilmirrorlk | 3,522
 virakesarilk | 4,605
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,845
+adaderanasinhalalk | 4,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,078 (100.0%) of 30,080 articles have been extended.
+30,080 (100.0%) of 30,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
 
-### உயிர்த்த ஞாயிறு தாக்குதல் - நேரடியாக களத்தில் இறங்கிய ஜனாதிபதி
+### Life Sunday Attack - President who landed directly on the field
 
 *2024-06-12 22:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிர்த்த-ஞாயிறு-தாக்குதல்-நேரடியாக-களத்தில்-இறங்கிய-ஜனாதிபதி/175-338837) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் புதிய விசாரணைக் குழுவொன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நியமிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe formed an inquiry committee led by retired judge ANJ to probe the handling of intelligence related to the "lifeblood" incident. The panel aims to submit its findings by September 15.
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் கிடைத்ததாக கூறப்படும் முன்னைய தகவல்கள் மற்றும் புலனாய்வுத் தகவல்களை அரச புலனாய்வுப் பிரிவு, தேசிய புலனாய்வுப் பிரிவின் பிரதானி மற்றும் ஏனைய அதிகாரிகள் எவ்வாறு கையாண்டார்கள் என்பதை ஆராயவே இந்த விசாரணைக் குழு நியமிக்கப்பட்டுள்ளது.
+🟩
 
-அந்தக் குழுவின் தலைவராக ஓய்வு பெற்ற நீதிபதி ஏ.என்.ஜே. அல்விஸ், ஜனாதிபதியினால் நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+A new inquiry committee has been appointed by President Ranil Wickremesinghe on the Sunday attack.
 
-இந்த குழுவின் அறிக்கையை இவ்வருடம் செப்டெம்பர் 15ஆம் திகதிக்குள் பூர்த்தி செய்ய வேண்டும் என குறிப்பிடப்பட்டுள்ளது. R
+The Inquiry Committee has been appointed to investigate how the former Intelligence Unit, the Chief of the National Intelligence Unit and other officials handled the alleged information and intelligence information about the lifeblood.
+
+Retired Judge ANJ as chairman of the committee. Alvis has been appointed by the President, the Presidential Media Unit said.
+
+The report of the committee is to be completed by September 15 this year. Remble
 
 ◼️
 
 [Data](articles/653b0e8e.json)
+
+[Extended Data](ext_articles/653b0e8e.ext.json)
 
 ---
 
@@ -65,6 +71,26 @@ Saudi officials have said they expect the number of pilgrims this year to exceed
 [Data](articles/c7965164.json)
 
 [Extended Data](ext_articles/c7965164.ext.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායමේ දැන් තත්ත්වය
+
+*2024-06-12 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197698) · `si`
+
+නේපාලය සමග අද (12) පැවැත්වීමට නියමිතව තිබු තරගයට වර්ෂාවෙන් බාධා එල්ලවීමත් සමග ශ්‍රී ලංකාවට T20 ලෝක කුසලාන තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට තිබූ අවස්ථාව අවම තත්ත්වයකට පත්වී තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමේ ඉරණම තීරණය වන්නේ 'ඩී' කාණ්ඩයේ ඉතිරි තරගවල ප්‍රතිඵල මතය.
+
+මේ වනවිට ශ්‍රී ලංකාවට ඉතිරිව ඇත්තේ නෙදර්ලන්තය සමග තරගය පමණි.
+
+එය ජය ගත්තද ශ්‍රී ලංකාවට සුපිරි 8දෙනාගේ වටයට පිවිසීමට නම් ඩී කාණ්ඩයේ අනෙකුත් තරගවල ප්‍රතිඵල දෙස බලාසිටීමට සිදුවෙයි.
+
+දකුණු අප්‍රිකාව සියලු තරග ජය ගැනීම, නේපාලය සහ බංග්ලාදේශය අතර තරගයෙන් නේපාලය ජයගැනීම සහ බංග්ලාදේශය සහ නේදර්ලන්තය අතර තරගය ප්‍රතිඵලයකින් තොරව අවසන් වීම යන කාරණා 03 සම්පූර්ණ වුවහොත් පමණක් ශ්‍රී ලකාවට සුපිරි 8 දෙනාගේ වටයට ඉඩ විවර වෙයි.
+
+◼️
+
+[Data](articles/567c6473.json)
 
 ---
 
@@ -466,19 +492,31 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 
 ---
 
-### දකුණු ආසියානු සෙස්ටබෝල් කාන්තා ශූරතාවත් පිරිමි අනුශූරතාවත් ලංකාවට
+### Sri Lanka wins the male runners up the South Asian Cestoball Woman
 
 *2024-06-12 18:24:25* · [`adalk`](https://www.ada.lk/sports/දකුණු-ආසියානු-සෙස්ටබෝල්-කාන්තා-ශූරතාවත්-පිරිමි-අනුශූරතාවත්-ලංකාවට/9-410180) · `si`
 
-පළමු වන දකුණු ආසියානු සෙස්ටබෝල් තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා කාන්තා කණ්ඩායම එහි ශූරතාවයත් , පිරිමි කණ්ඩායම අනුශූරතාවයත් දිනා ගෙන 06/12 දින දහවල් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ. මෙම තරගාවලිය ඉන්දියාවේ කර්ණාටක ප්‍රාන්තයේ චික්කබල්ලපූර් නගරයේ දී ඉකුත් 06/07 දින සිට 06/09 දින දක්වා පවත්වා තිබුණි.
+Sri Lanka's women won silver in the South Asian Cestoball Championship, held in India, while the men took home the first South Asian Cestebol title. The event featured teams from various regions, including Anuradhapura and Matara, with Utthanda Vidyalaya, Matara, emerging as top performers. The victorious teams were welcomed at Katunayake airport upon their return from India.
 
-සෙස්ටබෝල් ක්‍රීඩාව පැසිපන්දු (Basketball ) සහ දැල්පන්දු ( Netball ) ක්‍රීඩා වල ලක්ෂණ එකිනෙකට සම්මිශ්‍රණය කර අලුතෙන් හදුන්වා දී ඇති ක්‍රීඩාවක් වන අතර එය යුරෝපය ඇතුළු ලෝකයේ බොහෝ ‍රටවල ජනප්‍රිය ක්‍රීඩාවක් වන අතර ආසියානු කළාපයේ රටවලට මෙම ක්‍රීඩාව අලුතෙන් හදුන්වා දීමට මේ වනවිට පියවර ගනිමින් සිටිති .
+🟩
 
-ශ්‍රී ලංකාවේ දැල්පන්දු සහ පැසිපන්දු ක්‍රීඩා කරන අනුරාධපුර , පොළොන්නරුව , කෑගල්ල , රත්නපුර , මාතර සහ විශ්ව විද්‍යාල වල ක්‍රීඩක ක්‍රීඩිකාවන් එක් රැස් කර ඔවුන් අතරින් ශ්‍රී ලංකා සෙස්ටබෝල් පිරිමි සහ කාන්තා කණ්ඩායම් සදහා අවශ්‍ය 12 දෙනා බැගින් වූ කණ්ඩායම් තෝරා ගෙන තිබුණි.
+Sri Lanka Women's Championship and the Championship of the First South Asian Cestebol won the Katunayake Airport in 06/12. The tournament was held in Chikkaballapur, Chikkaballapur, Chikka Prefecture, India.
 
-...
+The Cestabol game is a popular sport in many parts of the world, including Europe, and is a popular sport in many parts of the world, including Europe.
+
+The networks and basketball played in the Anuradhapura, Polonnaruwa, Kegalle, Ratnapura, Matara and the two university teams have been selected among them.
+
+The Sri Lanka Women's group won the Championship with the gold medal in the final and win the gold medal with the gold medal.
+
+Utthanda Vidyalaya, Matara was won by the best athletes of the tournament.
+
+The winning Sri Lankan Cestabol game teams arrived at the Katunayake airport from Chennai Airlines 675, India, Sri Lanka's Cestabol Union officials to welcome them.Principals, teachers, their parents and many others were also present at the airport.
+
+◼️
 
 [Data](articles/78b41b41.json)
+
+[Extended Data](ext_articles/78b41b41.ext.json)
 
 ---
 
@@ -2297,27 +2335,5 @@ The International Monetary Fund’s executive board is scheduled to meet today (
 [Data](articles/e70fc4b4.json)
 
 [Extended Data](ext_articles/e70fc4b4.ext.json)
-
----
-
-### 30 factory workers hospitalised after inhaling toxic chemical fumes
-
-*2024-06-12 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99825/30-factory-workers-hospitalised-after-inhaling-toxic-chemical-fumes) · `en`
-
-At least thirty workers of a cosmetics manufacturing factory in Pinwatta, Panadura have been hospitalised after accidentally inhaling the fumes from a toxic chemical mixture.
-
-Police said that the factory in question has been temporarily closed following the incident.
-
-The incident has reportedly occurred due to the change of a chemical substance while making a chemical mixture at the factory which manufactures cosmetic products including perfumes.
-
-The incident has taken place at around 09.30 a.m. this morning (12), the police revealed.
-
-It is further reported that a group of workers have been admitted to the Panadura Base Hospital while another group was directed to private medical treatment.
-
-◼️
-
-[Data](articles/5b96e78d.json)
-
-[Extended Data](ext_articles/5b96e78d.ext.json)
 
 ---

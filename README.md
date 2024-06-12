@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-12 22:52:22**
+As of **2024-06-12 23:04:20**
 
 ## Newspaper Stats
 
-*Scraped **30,078** Articles*
+*Scraped **30,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,625
 economynextcom | 1,732
 dailyftlk | 1,809
-adalk | 2,588
+adalk | 2,589
 adaderanalk | 3,410
-tamilmirrorlk | 3,521
+tamilmirrorlk | 3,522
 virakesarilk | 4,605
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,845
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,077 (100.0%) of 30,078 articles have been extended.
+30,078 (100.0%) of 30,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-12 (Wednesday)
+
+### உயிர்த்த ஞாயிறு தாக்குதல் - நேரடியாக களத்தில் இறங்கிய ஜனாதிபதி
+
+*2024-06-12 22:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிர்த்த-ஞாயிறு-தாக்குதல்-நேரடியாக-களத்தில்-இறங்கிய-ஜனாதிபதி/175-338837) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் புதிய விசாரணைக் குழுவொன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நியமிக்கப்பட்டுள்ளது.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் கிடைத்ததாக கூறப்படும் முன்னைய தகவல்கள் மற்றும் புலனாய்வுத் தகவல்களை அரச புலனாய்வுப் பிரிவு, தேசிய புலனாய்வுப் பிரிவின் பிரதானி மற்றும் ஏனைய அதிகாரிகள் எவ்வாறு கையாண்டார்கள் என்பதை ஆராயவே இந்த விசாரணைக் குழு நியமிக்கப்பட்டுள்ளது.
+
+அந்தக் குழுவின் தலைவராக ஓய்வு பெற்ற நீதிபதி ஏ.என்.ஜே. அல்விஸ், ஜனாதிபதியினால் நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த குழுவின் அறிக்கையை இவ்வருடம் செப்டெம்பர் 15ஆம் திகதிக்குள் பூர்த்தி செய்ய வேண்டும் என குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/653b0e8e.json)
+
+---
 
 ### More than 1.5 million foreign pilgrims arrive in Mecca for annual Hajj pilgrimage
 
@@ -45,6 +63,8 @@ Saudi officials have said they expect the number of pilgrims this year to exceed
 ...
 
 [Data](articles/c7965164.json)
+
+[Extended Data](ext_articles/c7965164.ext.json)
 
 ---
 
@@ -443,6 +463,22 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 [Data](articles/bb31b3b7.json)
 
 [Extended Data](ext_articles/bb31b3b7.ext.json)
+
+---
+
+### දකුණු ආසියානු සෙස්ටබෝල් කාන්තා ශූරතාවත් පිරිමි අනුශූරතාවත් ලංකාවට
+
+*2024-06-12 18:24:25* · [`adalk`](https://www.ada.lk/sports/දකුණු-ආසියානු-සෙස්ටබෝල්-කාන්තා-ශූරතාවත්-පිරිමි-අනුශූරතාවත්-ලංකාවට/9-410180) · `si`
+
+පළමු වන දකුණු ආසියානු සෙස්ටබෝල් තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා කාන්තා කණ්ඩායම එහි ශූරතාවයත් , පිරිමි කණ්ඩායම අනුශූරතාවයත් දිනා ගෙන 06/12 දින දහවල් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ. මෙම තරගාවලිය ඉන්දියාවේ කර්ණාටක ප්‍රාන්තයේ චික්කබල්ලපූර් නගරයේ දී ඉකුත් 06/07 දින සිට 06/09 දින දක්වා පවත්වා තිබුණි.
+
+සෙස්ටබෝල් ක්‍රීඩාව පැසිපන්දු (Basketball ) සහ දැල්පන්දු ( Netball ) ක්‍රීඩා වල ලක්ෂණ එකිනෙකට සම්මිශ්‍රණය කර අලුතෙන් හදුන්වා දී ඇති ක්‍රීඩාවක් වන අතර එය යුරෝපය ඇතුළු ලෝකයේ බොහෝ ‍රටවල ජනප්‍රිය ක්‍රීඩාවක් වන අතර ආසියානු කළාපයේ රටවලට මෙම ක්‍රීඩාව අලුතෙන් හදුන්වා දීමට මේ වනවිට පියවර ගනිමින් සිටිති .
+
+ශ්‍රී ලංකාවේ දැල්පන්දු සහ පැසිපන්දු ක්‍රීඩා කරන අනුරාධපුර , පොළොන්නරුව , කෑගල්ල , රත්නපුර , මාතර සහ විශ්ව විද්‍යාල වල ක්‍රීඩක ක්‍රීඩිකාවන් එක් රැස් කර ඔවුන් අතරින් ශ්‍රී ලංකා සෙස්ටබෝල් පිරිමි සහ කාන්තා කණ්ඩායම් සදහා අවශ්‍ය 12 දෙනා බැගින් වූ කණ්ඩායම් තෝරා ගෙන තිබුණි.
+
+...
+
+[Data](articles/78b41b41.json)
 
 ---
 
@@ -2283,49 +2319,5 @@ It is further reported that a group of workers have been admitted to the Panadur
 [Data](articles/5b96e78d.json)
 
 [Extended Data](ext_articles/5b96e78d.ext.json)
-
----
-
-### 30 people infected due to chemical leaks
-
-*2024-06-12 11:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரசாயனக்-கசிவு-காரணமாக-30-பேர்-பாதிப்பு/175-338801) · `ta`
-
-Chemical leaks at a Panadura factory sickened 30 people, including one hospitalized. A senior police officer advised the company to shut down temporarily due to unsafe conditions.
-
-🟩
-
-A senior police officer of Panadura said that about 30 people were sick due to chemical leaks at a factory in Nalluruwa area in Panadura.
-
-The senior police officer, who specified that the chemical substance has changed when the mixture is being produced in a company that produces perfumes and other products, has advised the company to temporarily close the company.
-
-It is reported that one of the victims has been taken to the Panadura Resource Hospital and another team has been recommended for personal treatment.
-
-◼️
-
-[Data](articles/eaa29bee.json)
-
-[Extended Data](ext_articles/eaa29bee.ext.json)
-
----
-
-### Sri Lanka optimistic ahead of IMF review: State minister
-
-*2024-06-12 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-optimistic-ahead-of-imf-review-state-minister-167584/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state minister for Finance, Shehan Semasinghe, said he expected a favourable review from the International Monetary Fund.
-
-The IMF board is scheduled to discuss the second review of the Extended Fund Facility (EFF) and Article IV consultation today (12).
-
-“We remain optimistic that our international partners will continue to support Sri Lanka’s efforts,” Semasinghe said on X (twitter).
-
-“A favorable outcome from the review is expected to unlock the 3rd tranche of approximately USD 330 million, which would further enhance confidence in our ongoing economic reforms and growth.”
-
-The Sri Lankan Government was in the final steps of finalizing the debt restructuring agreements, with continued support from bilateral partners, the state minister said. (Colombo/June12/2024)
-
-◼️
-
-[Data](articles/8ec33b80.json)
-
-[Extended Data](ext_articles/8ec33b80.ext.json)
 
 ---

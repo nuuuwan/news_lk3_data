@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 23:19:14**
+As of **2024-06-13 23:34:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,255 (100.0%) of 30,256 articles have been extended.
+30,256 (100.0%) of 30,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் பலி
+### Daughter killed in plowing machine
 
 *2024-06-13 22:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தந்தை-செலுத்திய-உழவு-இயந்திரத்தில்-சிக்கி-மகள்-பலி/72-338887) · `ta`
 
-தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் உயிரிழந்த சம்பவம் இன்று (13) இரவு 7 மணியளவில் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் இடம்பெற்றுள்ளது.
+In the Poovarasankulam area, under the Mannar-Murugan police division, a tragic accident occurred when an 8-year-old girl fell from a plowing machine operated by her father-in-law and died.
 
-மன்னார் - முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயி தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+🟩
 
-இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய மகள் திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+The death of a daughter who was trapped in a father -in -law's plowing machine took place at Poovarasankulam area of ​​the Murugan Police Division at around 7 pm today.
+
+The farmer in the Poovarasankulam area of ​​the Mannar -Murugan police division was plowing through the plowing machine in his field.
+
+During this time, her 8 -year -old daughter, who was sitting in the Makkad area of ​​the plowing machine, suddenly fell down and died.
 
 ◼️
 
 [Data](articles/fbca65bf.json)
+
+[Extended Data](ext_articles/fbca65bf.ext.json)
 
 ---
 

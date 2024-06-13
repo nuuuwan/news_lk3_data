@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 03:04:54**
+As of **2024-06-14 03:19:08**
 
 ## Newspaper Stats
 
@@ -26,65 +26,93 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,287 (100.0%) of 30,291 articles have been extended.
+30,291 (100.0%) of 30,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### தேசிய புலனாய்வு பிரிவின் தகவலிற்கமைவாக மந்திகையில் கஞ்சாவுடன் ஒருவர் கைது!
+### One person arrested with cannabis in the gathering for information on the National Intelligence Unit
 
 *2024-06-14 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186037) · `ta`
 
-அரச புலனாய்வு சேவையின் தகவலுக்கமைய கேரள கஞ்சா வியாபாரத்தில் ஈடுபட்ட  கற்கோவளம் பகுதியைச் சேர்ந்த  27 வயதுடைய சந்தேக  நபர் ஒருவர் 02kg 300g கேரள கஞ்சாவுடன் மந்திகை பகுதியில் வைத்து  நெல்லியடி பொலிசாரினால் கைது செய்யப்பட்டுள்ளார்.
+A 27-year-old from Kalovalam was arrested by Nelliyadi police for possessing 2.3kg of cannabis. The arrest came after the State Intelligence Unit tipped them off about a long-term cannabis trade. The suspect will face charges in court.
 
-நீண்ட காலமாகக் கஞ்சா வியாபாரத்தில் ஈடுபடும் குறித்த நபர் தொடர்பில் அரச புலனாய்வு பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் தீவிர கண்காணிப்பில் ஈடுபட்டு வந்த அரச புலனாய்வு பிரிவினர் 13ஆம் திகதி வியாழக்கிழமை விற்பனை நோக்கத்திற்காகக் கஞ்சாவைக் கொண்டு செல்லும்போது குறித்த கஞ்சாவுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-குறித்த சந்தேக நபரிடம் தீவிர விசாரணைகளை மேற்கொண்டுவரும் நெல்லியடி பொலிஸார் வெள்ளிக்கிழமை (14) பருத்தித்துறை நீதிமன்றில் முற்படுத்தப்படவுள்ளர்.
+According to the state intelligence service, a 27 -year -old suspect from the Kalovalam area involved in the Kerala cannabis has been arrested by the Nelliyadi police in the area with a 02kg 300G Kerala ganja.
+
+The suspect has been arrested on the basis of information received by the State Intelligence Unit on a long -term trade of cannabis for a long time.
+
+Nelliyadi police, who are conducting serious investigations to the suspect, are to be produced before the Point Pedro Court on Friday.
 
 ◼️
 
 [Data](articles/0caaf6ee.json)
 
+[Extended Data](ext_articles/0caaf6ee.ext.json)
+
 ---
 
-### இறைவனின் புனித இல்லத்தினைத் தரிசிக்கும் யாத்ரீகர்களுக்கு சேவை செய்வதில் சவூதி அரேபியாவின் முயற்சிகள்
+### Saudi Arabia's efforts to serve pilgrims who see the sacred house of the Lord
 
 *2024-06-14 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186036) · `ta`
 
-சவூதி அரேபிய இராச்சியம், அதன் நிறுவனர் மன்னர் அப்துல்அசீஸ் பின் அப்துல் ரஹ்மான் ஆல் சஊத் அவர்களது காலத்திலிருந்து, இரண்டு புனிதத் தலங்களின் பாதுகாவலர் மன்னர் சல்மான் பின் அப்துல் அஸீஸ் ஆல் சஊத் அவர்களின் காலம் வரை, அதிக எண்ணிக்கையிலான ஹஜ் மற்றும் உம்ரா யாத்ரீகர்களுக்கு இடமளிக்கும் வகையில் இரண்டு புனிதத் தலங்கள் மற்றும் மற்ற புனித இடங்களை விரிவுபடுத்தி, அங்குள்ள வசதிகளை மேம்படுத்தவும், நவீன சேவைகளை வழங்கவும் தொடர்ந்து மிகுந்த கவனத்துடன் செயல்பட்டு வருகிறது. யாத்ரீகர்களுக்கு சேவை செய்வது என்பது சவூதி அரேபிய இராச்சியத்தின் தலைமைத்துவத்தின் முக்கிய முன்னுரிமைகளில் ஒன்றாகும். சவூதி அரேபியாவின் அனைத்து மன்னர்களும் இதை தமக்குக் கிடைத்த சிறப்பாகக் கருதி வருகின்றனர்.
+Saudi Arabia, under the leadership of Kings Abdul Aziz and Salman, prioritizes serving pilgrims at the holy sites. Efforts include expanding facilities, upgrading infrastructure, and implementing "Vision 2030" to enhance Hajj and Umrah experiences with modern technology and digital services. Safety is paramount, with top-notch security and health services, including 24/7 emergency preparedness and transportation. The kingdom also focuses on food safety and introduces digital initiatives like e-visa and booking systems.
+
+🟩
+
+The Kingdom of Saudi Arabia, its founder, King Abdul Aziz bin Abdul Rahman All Saud, from the time of the two holy shrines, King Salman bin Abdul Aziz All Saud, to the time of the two holy places and other sacred places to expand to the pilgrims and other places.Continues to work with great care to upgrade and provide modern services. Serving pilgrims is one of the main priorities of the leadership of the Saudi Arabian Kingdom. All the kings of Saudi Arabia are considering this as their best.
+
+The Saudi Arabian Kingdom, under the guidance of its leadership, is carrying out the expansion plan of two holy places to meet the needs of the increasing Hajj and Umrah pilgrims.. Under this program, it is aimed at increasing the area of ​​sacred places, upgrading infrastructure and providing modern facilities and advanced transport systems.. This ease the movement of pilgrims and ensures their amenities.
 
 ...
 
 [Data](articles/2e96da4a.json)
 
+[Extended Data](ext_articles/2e96da4a.ext.json)
+
 ---
 
-### சர்வதேச யோகாசன விழா
+### International Yoga Festival
 
 *2024-06-14 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186035) · `ta`
 
-சுவாமி விவேகானந்த கலாசார மையம், இந்திய உயர்ஸ்தானிகராலயம் கொழும்பு, மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் அறநெறிப் பாடசாலை இணைந்து  ஏற்பாடு செய்த சர்வதேச யோகாசன விழா வியாழக்கிழமை (14) முதற்கட்டமாக கொழும்பு தேசிய அருங்காட்சியக வளாகத்தில் பெண்களுக்கான அதிகாரம் எனும் தொனிப்பொருளில் சுமார் 250 மாணவிகளின் பங்குப்பற்றலுடன் இடம்பெற்றது.  அம்மன் அறநெறிப் பாடசாலை, கொ/ சைவமங்கையர் வித்தியாலயம், கொ.இராமநாதன் இந்து மகளிர் கல்லூரி ஆகிய பாடசாலைகளின் மாணவிகள் கலந்துக் கொண்டனர்.
+The International Yoga Festival, organized by the Swami Vivekananda Cultural Center and others, saw around 250 students participate on its theme of "Women" at the National Museum of Colombo. Students from various schools attended, including Amman Charity School, Ko/Saivamangayar Vidyalaya, and K.Ramanathan Hindu Ladies College.
+
+🟩
+
+The International Yoga Festival organized by the Swami Vivekananda Cultural Center, Indian High Commission, Mayurapathi Sree Patrakali Amman Charity School was held on Thursday (14) with the participation of about 250 students on the theme of the Women at the National Museum of Colombo on Thursday (14).Students of Amman Charity School, Ko/ Saivamangayar Vidyalaya and K.Ramanathan Hindu Ladies College were present.
 
 ◼️
 
 [Data](articles/d21ea2cc.json)
 
+[Extended Data](ext_articles/d21ea2cc.ext.json)
+
 ---
 
-### வட்டுக்கோட்டையில் வன்முறை குழு அட்டகாசம் - நகை மற்றும் பணம் திருட்டு
+### Violence Group Attakasam in Vaddukoddai - jewelry and money theft
 
 *2024-06-14 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186034) · `ta`
 
-வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட வட்டுக்கோட்டை பகுதியில் வெள்ளிக்கிழமை (14) மதியம் வன்முறை குழு ஒன்று அட்டகாசத்தில் ஈடுபட்டதுடன் வீட்டிலிருந்த நகை மற்றும் பணம் என்பவற்றையும் திருடிச் சென்றதாகக் கூறப்படுகிறது.
+In Vaddukoddai, a violent group attacked a house, stealing jewelry and money worth over two lakh rupees. They damaged property including a fridge, windows, and electronics before fleeing. The incident was captured on CCTV, leading to the arrest of one suspect. Police continue investigating and aim to apprehend more individuals involved.
 
-குறித்த வீட்டில் உள்ளவர்கள் வெளியே சென்றிருந்த நிலையில் இன்று மதியம் குறித்த வீட்டுக்குச் சென்ற வன்முறை குழுவினர் வீட்டிலிருந்த தையல் இயந்திரம் குளிர்சாதனப் பெட்டி, ஜன்னல் கண்ணாடிகள், வீட்டுக் கதவு, ஒலிபெருக்கி சாதனங்கள் தொலைக்காட்சி உள்ளிட்ட பல பொருட்களை அடித்துடைத்து சேதமாக்கியதுடன், வீட்டிலிருந்த இரண்டு இலட்சத்துப் பதினோராயிரம் ரூபா பணம், மூன்று பவுன் சங்கிலி மற்றும் இரண்டு பவுன் காப்பு என்பவற்றைத் திருடிச் சென்றதாகக் கூறப்படுகிறது.
+🟩
 
-இது குறித்து வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்த நிலையில், அயல் வீட்டிலிருந்த சிசிடிவி காட்சிகளை பொலிஸார் பார்வையிட்டுக்கொண்டு இருந்தவேளை, தாக்குதலை மேற்கொண்ட ஒருவர் மன்னிப்பு கேட்பதற்காக வந்தவேளை பொலிஸார் அவரை கைது செய்தனர்.
+A violent group of violence in the Vaddukoddai area, which belongs to the Vaddukoddai police division, was reportedly involved in the afternoon and stole jewelery and money from the house.
 
-...
+Violent group of people who went to the house this afternoon had been hit by a sewing machine refrigerator, window mirrors, home door, loudspeakers, television, and stole two lakhs eleven thousand rupees, three pounds and two pounds in the house.Is said to have gone.
+
+While the police were visiting the CCTV footage at the Vaddukoddai police station, he was arrested by the police when the attack came to apologize.
+
+The police, who are conducting investigations, are taking steps to arrest others.
+
+◼️
 
 [Data](articles/136f7c31.json)
+
+[Extended Data](ext_articles/136f7c31.ext.json)
 
 ---
 

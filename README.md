@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 14:35:01**
+As of **2024-06-13 14:53:23**
 
 ## Newspaper Stats
 
-*Scraped **30,187** Articles*
+*Scraped **30,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,600
-adaderanalk | 3,420
-tamilmirrorlk | 3,534
+adaderanalk | 3,421
+tamilmirrorlk | 3,535
 virakesarilk | 4,626
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,861
+adaderanasinhalalk | 4,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,185 (100.0%) of 30,187 articles have been extended.
+30,185 (100.0%) of 30,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### සරසවි ප්‍රවේශය සඳහා ඔන්ලයින් අයදුම්පත් කැඳවීම හෙට සිට
+
+*2024-06-13 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197716) · `si`
+
+2023/2024 අධ්‍යයන වර්ෂයට අදාළව විශ්වවිද්‍යාල ප්‍රවේශය සඳහා ඔන්ලයින් අයදුම්පත් කැඳවීම 2024 ජුනි 14 වනදා ආරම්භ කරන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව හෙට පෙරවරු 6.00 සිට www.ugc.ac.lk වෙත පිවිස අයදුම්පත් ඉදිරිපත් කිරීමට හැකියාව තිබේ.
+
+අයදුම්පත් කැඳවීමේ අවසාන දිනය 2024 ජුලි 05 වනදා බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා පවසයි.
+
+◼️
+
+[Data](articles/f5665705.json)
+
+---
+
+### Online applications called for 2023/2024 university admissions
+
+*2024-06-13 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99856/online-applications-called-for-20232024-university-admissions) · `en`
+
+The online applications for university admissions for the academic year 2023/2024 will open on 14 June 2024, the University Grants Commission (UGC) said.
+
+The Chairman of the UGC Sampath Amaratunge stated that the applications can be submitted by logging into the UGC’s official website through https://www.ugc.ac.lk/ from 6.00 a.m. tomorrow (14).
+
+Meanwhile, the closing date for the applications will be 05 July 2024, according to the UGC.
+
+◼️
+
+[Data](articles/53dec254.json)
+
+---
+
+### வெள்ளவத்தை விபத்தில் நிந்தவூரைச் சேர்ந்தவர் பலி
+
+*2024-06-13 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தை-விபத்தில்-நிந்தவூரைச்-சேர்ந்தவர்-பலி/175-338860) · `ta`
+
+வெள்ளவத்தை கரையோர வீதியில் சென்று கொண்டிருந்த வேன் ஒன்றும் மோட்டார் சைக்கிள் ஒன்றும் நேருக்கு நேர் மோதியதில் படுகாயமடைந்த மோட்டார் சைக்கிள் ஓட்டுனர்வைத்தியசாலையில் அனுமதிக்கப்பட்டு உயிரிழந்துள்ளதாக வெள்ளவத்தை பொலிஸார் தெரிவிக்கின்றனர்.
+
+நிந்தவூர் ஆலிம் வீதியைச் சேர்ந்த பி.எல்.இலானி என்ற 29 வயதுடைய நபரே விபத்தில் உயிரிழந்துள்ளார்.
+
+தெஹிவளையில் இருந்து பம்பலப்பிட்டி நோக்கிச் சென்ற வேன், முன்னால் சென்ற வாகனத்தை முந்திச் செல்வதற்காக எதிர்த் திசையில் சென்ற மோட்டார் சைக்கிளுடன் எதிர்திசையில் வந்த மோட்டார் சைக்கிள் நேருக்கு நேர் மோதியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கரையோர வீதியின் நடுவே, பெரும்பாலான சாரதிகள் தமது வாகனங்களை எதிர்திசையில் செலுத்துவதை அவதானிக்காமல் செல்வதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/43feacf7.json)
+
+---
 
 ### Business Udagala's case is postponed
 
@@ -2199,81 +2249,5 @@ The proposal made by the President as the Minister of Finance Economic Services 
 [Data](articles/a66caeeb.json)
 
 [Extended Data](ext_articles/a66caeeb.ext.json)
-
----
-
-### Sri Lankan progress in NGOs rankings
-
-*2024-06-12 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185954) · `ta`
-
-By 2024, Sri Lanka has significantly improved its ranking among NGOs in Asia's social service sector, moving past the challenges faced in 2022. This advancement aligns with the standardized metrics used to assess the Asian Social Service Department's activities. Sri Lanka has also become part of the Doing OKEY Group, joining countries like Cambodia, India, Indonesia, Nepal, Pakistan, Thailand, and Vietnam. The improvement is attributed to various reforms guided by Public Security Minister Tran Ales, as stated by the Director General of the National Secretariat for NGOs, Sanjeewa Vimalagunaratne. The next assessment cycle includes Singapore, China, and Taipei, aiming to join the group by 2026.
-
-🟩
-
-Sri Lanka has advanced in the rankings of NGOs (NGOs) in the Asian Social Service sector.
-
-Sri Lanka has seen this progress by 2024 by removing the black spot that was reached by 2022.
-
-Sri Lanka has improved the list of 2024 in accordance with the standardization mouse to measure the activities of the Asian Social Service Department in 2024.
-
-Sri Lanka has joined the Doing OKEY Group with Cambodia, India, Indonesia, Nepal, Pakistan, Thailand and Vietnam.
-
-According to the 2022 index, the Sri Lankan Bangladesh ranked in the notes of the notes enough.
-
-The Director General of the National Secretariat for NGOs, Sanjeewa Vimalagunaratne said that this is the result of many reforms carried out under the guidance of Public Security Minister Tran Ales.
-
-The code, which is measured once in two years, will include the Reconciliation of Singapore, China and Taipei to join the doing Well Group by 2026.
-
-◼️
-
-[Data](articles/05bcf0fa.json)
-
-[Extended Data](ext_articles/05bcf0fa.ext.json)
-
----
-
-### Sri Lanka to start talks with Malaysia on free trade agreement — report
-
-*2024-06-12 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99843/sri-lanka-to-start-talks-with-malaysia-on-free-trade-agreement-report) · `en`
-
-Sri Lanka will start talks on a free trade agreement with Malaysia, as it seeks to improve trade ties to support its recovery from a financial crisis, the Cabinet spokesperson said on Wednesday.
-
-A severe dollar drought in 2022 sent Sri Lanka’s inflation soaring to a high of 70%, its currency into freefall and caused the economy to contract by 7.3%.
-
-To help buttress recovery, Sri Lanka entered negotiations with multiple countries on free trade deals, inking one with Thailand in February.
-
-“We need to promote stronger trade to move out of this crisis and Malaysia has strong ties with Sri Lanka to assist in this process,” said Sri Lanka’s Cabinet spokesperson Bandula Gunawardana.
-
-Trade between Malaysia and Sri Lanka was worth US$934 million dollars in 2023, according to official data.
-
-Sri Lanka exports mainly gems, garments and fish to Malaysia, and imports palm oil, petroleum products and fertilisers.
-
-...
-
-[Data](articles/a874c182.json)
-
-[Extended Data](ext_articles/a874c182.ext.json)
-
----
-
-### US target of 111 in America
-
-*2024-06-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197697) · `si`
-
-In today's World Cup match, India won against America by scoring 111 runs after losing 8 wickets in 20 overs, having chosen to bat first.
-
-🟩
-
-The match between the Indian team and the American team will be held today under the World Cup.
-
-India won the advantage of its coin and scored 110 runs for the loss of 08 wickets at the end of their 20 overs.
-
-Accordingly, India has won 111 runs in order to win the match.
-
-◼️
-
-[Data](articles/ea0c11a7.json)
-
-[Extended Data](ext_articles/ea0c11a7.ext.json)
 
 ---

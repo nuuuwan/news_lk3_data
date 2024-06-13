@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 10:05:58**
+As of **2024-06-13 10:19:09**
 
 ## Newspaper Stats
 
-*Scraped **30,149** Articles*
+*Scraped **30,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,86 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
-adalk | 2,592
+adalk | 2,593
 adaderanalk | 3,415
 tamilmirrorlk | 3,529
 virakesarilk | 4,618
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,854
+adaderanasinhalalk | 4,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,146 (100.0%) of 30,149 articles have been extended.
+30,149 (100.0%) of 30,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### பணிப்புறக்கணிப்பில் குதித்த அஞ்சல் ஊழியர்கள்
+### ජෙෆ්රි ඇලෝෂියස්ගේ විදෙස් ගමන් තහනම තාවකාලිකව අත්හිටුවයි
+
+*2024-06-13 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197708) · `si`
+
+පර්පෙචුවල් ට්‍රෙෂරීස්  සමාගම් සමූහයේ සභාපති ජෙෆ්රි ජෝෂප් ඇලෝසියස් යන අයට පනවා තිබෙන විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමට ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් නියෝග කර තිබේ.
+
+මහ බැංකු බැඳුම්කර නඩුවේ, 6 වන විත්තිකරු වන ජෝෂප් ඇලෝසියස් මහතාට වෛද්‍ය ප්‍රතිකාර ලබාගැනීමට සිංගප්පූරුවට යෑම සඳහා එම අවසරය ලබා දී ඇත.
+
+ඒ අනුව ජූලි මස 1 වන දින සිට සැප්තැම්බර් මස 12 දක්වා කාලය තුළ විදෙස්ගත වීමට කොළඹ විශේෂ ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අද අවසර ලබාදුනි.
+
+අදාළ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කළ බව ආගමන විගමන පාලකවරයා ඇතුළු බලධාරීන්ට දැනුම් දෙන ලෙසට අමල් පෙරේරා, ආචාර්ය නාමල් පෙරේරා බළල්ලේ සහ ආදිත්‍ය පටබැඳිගේ යන විනිසුරුවන් විසින් නියෝග කළහ.
+
+◼️
+
+[Data](articles/d63b32a1.json)
+
+---
+
+### Postal staff jumped on the task
 
 *2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதித்த-அஞ்சல்-ஊழியர்கள்/175-338845) · `ta`
 
-ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கம் நேற்று (12) நள்ளிரவு முதல் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையை ஆரம்பித்துள்ளது.
+The Joint Postal Employees Union initiated a nationwide strike from midnight to demand urgent solutions to staffing shortages in the Postal Department. In response, the Post Office canceled all vacations for postal workers.
 
-இன்று (13) நள்ளிரவு வரை நாடளாவிய ரீதியில் இந்த பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கத்தின் அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.
+🟩
 
-அஞ்சல் திணைக்களத்தில் நிலவும் ஊழியர் பற்றாக்குறைக்கு உடனடி தீர்வை வழங்குமாறு அதிகாரிகளுக்கு அறிவிப்பதே இந்த தொழிற்சங்க நடவடிக்கையின் நோக்கம் என அவர் குறிப்பிட்டார்.
+The Joint Postal Employees Union has announced the union action yesterday (12) at midnight.
 
-எவ்வாறாயினும், அனைத்து அஞ்சல் ஊழியர்களின் விடுமுறையையும் உடனடியாக அமுலுக்கு வரும் வகையில் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளதாக அஞ்சல் மா அதிபர் ருவன் சத்குமார தெரிவித்துள்ளார். R
+Sindhaka Bandara, the caller of the Joint Postal Employees Union, said that the workplace will be carried out nationwide till midnight today.
+
+He said the purpose of this union action was to inform the authorities to provide immediate solution to the shortage of employee in the Postal Department.
+
+However, Post Office Ruwan Satkumara has said that it has been decided to cancel all postal workers' vacation immediately.. Remble
 
 ◼️
 
 [Data](articles/5e4e6a35.json)
 
+[Extended Data](ext_articles/5e4e6a35.ext.json)
+
 ---
 
-### IMFஇன் மகிழ்ச்சியான செய்தி
+### The happy news of IMF
 
 *2024-06-13 09:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMFஇன்-மகிழ்ச்சியான-செய்தி/175-338844) · `ta`
 
-சர்வதேச நாணய நிதியத்தால் இலங்கைக்கு அறிமுகப்படுத்தப்பட்ட வேலைத்திட்டத்தின் இரண்டாவது மீளாய்வுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக அமைச்சர் அலி சப்ரி தனது X கணக்கில் தெரிவித்துள்ளார்.
+Sri Lanka receives $2.9 billion from IMF, including $336 million in the latest installment, after passing its economic reforms.
 
-இதன்படி, சர்வதேச நாணய நிதியத்தினால்  அங்கீகரிக்கப்பட்ட 2.9 பில்லியன் டொலர்கள் விரிவான கடன் நிதியின் மூன்றாவது தவணையை இலங்கை பெறவுள்ளது.
+🟩
 
-எனவே, சுமார் 336 மில்லியன் டொலர்களை இலங்கைக்கு வழங்க சர்வதேச நாணய நிதியத்தின் நிறைவேற்று சபை அனுமதி வழங்கியுள்ளது.
+Minister Ali Sabri has said that the second review of the program introduced to Sri Lanka by the International Monetary Fund has been allowed.
 
-இது குறித்து அறிக்கை வெளியிட்டுள்ள சர்வதேச நாணய நிதியம், நாட்டின் பொருளாதாரத்தில் மேலும் சீர்திருத்தம் மற்றும் தகுந்த மாற்றங்களை ஏற்படுத்த இது வாய்ப்பளிக்கும் என்று தெரிவித்துள்ளது. R
+Accordingly, Sri Lanka will receive the third installment of $ 2.9 billion approved by the International Monetary Fund.
+
+Therefore, the International Monetary Fund has granted permission to provide about $ 336 million to Sri Lanka.
+
+The International Monetary Fund, which has issued a statement, said it would give further reform and appropriate changes in the country's economy. Remble
 
 ◼️
 
 [Data](articles/43da91f7.json)
+
+[Extended Data](ext_articles/43da91f7.ext.json)
 
 ---
 
@@ -181,6 +211,22 @@ Through this contribution, Saudi Arabia joins international communities in suppo
 ...
 
 [Data](articles/d11a44b0.json)
+
+[Extended Data](ext_articles/d11a44b0.ext.json)
+
+---
+
+### දෙවැනි සාමාලෝනය අනුමතයි - තෙවැනි වාරිකය ලෙසින් ඇ.ඩො. මිලියන 336ක්
+
+*2024-06-13 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-සාමාලෝනය-අනුමතයි---තෙවැනි-වාරිකය-ලෙසින්-ඇ-ඩො--මිලියන-336ක්/11-410186) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල ලංකාව වෙනුවෙන් ක්‍රියාත්මක කරන විස්තීර්ණ ණය පහසුකමට අදාළව දෙවැනි සාමාලෝනය එම අරමුදලේ විධායක මණ්ඩලය විසින් අනුමත කර තිබේ. ඒ අනුව ශ්‍රී ලංකාවට තෙවැනි ණය වාරිකය නිදහස් කිරිමට එහි විධායක මණ්ඩලය අනුමැතිය හිමිව තිබේ.
+
+මේ අනුව ශ්‍රී ලංකාවට තෙවැනි වාරිකය ලෙස ඇමෙරිකානු ඩොලර් මිලියන 336ක් ලැබීමට නියමිතය. ඒත් සමගම විසතිර්ණ ණය පහසුකම යටතේ ශ්‍රි ලංකාවට ලැබී ඇති ණය ප්‍රමාණය ඇමෙරිකානු ඩොලර් බිලියනය ඉක්මවා ගියේය.
+
+◼️
+
+[Data](articles/bda9cb91.json)
 
 ---
 
@@ -2265,53 +2311,5 @@ Hayleys Plc also saw interest (Rs188mn), and the share closed up at 108.00.
 [Data](articles/93bbb19b.json)
 
 [Extended Data](ext_articles/93bbb19b.ext.json)
-
----
-
-### Tokubh Chaminda's brutal assault video was 4 lakhs
-
-*2024-06-12 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197688) · `si`
-
-A video of a child being assaulted in Welioya went viral, leading to a reward ceremony where the PM, Public Defense Minister, and IGP were present. The IGP received a special award, and the perpetrator was arrested.
-
-🟩
-
-The Social Media circulated a video of a video of a small girl at a house in Welioya area.
-
-A special cash was awarded a special cash in a ceremony held at the Prime Minister of Public Defense Minister Tiran Alles and Inspector General of Defense Minister Tiran Alles and Inspector General of Police.
-
-At this point, the IGP was also also provided with the IGP Pranama.
-
-The security forces operating on his video was arrested and arrested.
-
-◼️
-
-[Data](articles/1b687197.json)
-
-[Extended Data](ext_articles/1b687197.ext.json)
-
----
-
-### Chancellor, Teachers Demonstrate in front of Negombo Zonal Education Office
-
-*2024-06-12 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185932) · `ta`
-
-Teachers, principals, and faculty advisers demonstrated outside the Negombo Zonal Education Office on Wednesday, demanding a two-thirds salary increase, lower fuel costs, and better educational resources. Despite rain, the protest was organized by the Chancellor and the Teacher Trade Union Federation, highlighting their commitment to improving conditions for students and educators.
-
-🟩
-
-Principals, teachers, faculty advisers and teachers staged a demonstration in front of the Negombo Zonal Education Office on Wednesday (12).
-
-The protesters carried the slogans written and chanted slogans.
-
-Demonstrators were in the hands of slogans written by the remaining two -thirds of the salary increase, the reduction in fuel prices, the salary, the struggle for the education rights of your children, the cost of learning equipment.
-
-It is noteworthy that the teachers were involved in the demonstration despite the rains. The Chancellor and the Teacher Trade Union Federation has organized this.
-
-◼️
-
-[Data](articles/7604d9bb.json)
-
-[Extended Data](ext_articles/7604d9bb.ext.json)
 
 ---

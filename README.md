@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 13:19:19**
+As of **2024-06-13 13:36:28**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,175 (100.0%) of 30,178 articles have been extended.
+30,178 (100.0%) of 30,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### තවත් දියණියකට අමානුෂික ප්‍රහාරයක්
+### A brutal attack on another daughter
 
 *2024-06-13 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197712) · `si`
 
-නව හැවිරිදි දියණියකට අමානුෂික ලෙස පහරදුන් පුද්ගලයෙකු මීගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+An army corporal has been arrested for brutally attacking a nine-year-old girl, his own daughter. The assault followed a dispute within a group of suspects, leading to the horrific act.
 
-එම පුද්ගලයා යුද හමුදා කෝප්‍රල්වරයෙකු වන අතර ඔහු එම දැරියගේ සුළු පියා බවට තොරතුරු අනාවරණය වී ඇත.
+🟩
 
-සැකකරුගේ විරුද්ධවාදීන් පිරිසක් සමග කළ කතාබහක් පිළිබඳව දැරිය කරුණු සැඟවීම හේතුවෙන් මෙම පහරදීම සිදුකර ඇති බව මුලික විමර්ශනවලදී අනාවරණය වුණි.
+The Meegoda Police have arrested a person who was brutally assaulted to a nine-year-old daughter.
+
+It is revealed that the man is an army corporal and he has revealed that he was the minor father of the girl.
+
+Initiative investigations were revealed that the attack had been carried out due to a client with a chat with a group of suspects.
 
 ◼️
 
 [Data](articles/262a60f0.json)
+
+[Extended Data](ext_articles/262a60f0.ext.json)
 
 ---
 
@@ -64,19 +70,27 @@ A French official said that while the loan would be mostly U.S.-guaranteed, it c
 
 [Data](articles/609156af.json)
 
+[Extended Data](ext_articles/609156af.ext.json)
+
 ---
 
-### සන්නාම වටිනාකම ඩොලර් ට්‍රිලියනය ඉක්මවූ පළමු සමාගම බවට ඇපල් පත්වෙයි
+### Apple turns out to be the first company exceeding brand value
 
 *2024-06-13 12:15:03* · [`adalk`](https://www.ada.lk/technology/සන්නාම-වටිනාකම-ඩොලර්-ට්‍රිලියනය-ඉක්මවූ-පළමු-සමාගම-බවට-ඇපල්-පත්වෙයි/5-410190) · `si`
 
-තම සන්නාමයේ වටිනාකම ඇමෙරිකානු ඩොලර් ට්‍රිලියනය ඉක්මවූ ලොව පළමු සමාගම බවට ඇපල් සමාගම පත්ව තිබේ.  Kantar's BrandZ විසින් වාර්ශිකව මෙම ශ්‍රේණිගත කිරිම ප්‍රකාශයට පත්කරයි.
+Apple becomes the first company globally to surpass a brand value of $1 trillion, according to Kantar's Brand Rankings. This milestone marks a 15% growth from the previous year, securing Apple's leadership position for two years in a row.
 
-පසුගිය වසරේ සන්නාම වටිනාකමට වඩා මෙම වසරේදී ඇපල් සමාගමේ සන්නාම වටිනාකම සියයට 15කින් වර්ධනය වී තිබේ. ඇපල් සමාගම මෙම සටහනේ පෙරමුණ ගෙන ඇත්තේ අඛණ්ඩව තෙවැනි වසරට වෙයි.
+🟩
+
+Apple is the first company of the world that exceeds US $ 1 trillions of brands.This rating is published by Kantar's Brands.
+
+Apple's brand value grew by 15 percent this year than last year. Apple has taken the lead in this note consecutive year.
 
 ◼️
 
 [Data](articles/097a4756.json)
+
+[Extended Data](ext_articles/097a4756.ext.json)
 
 ---
 

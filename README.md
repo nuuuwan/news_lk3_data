@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 12:34:32**
+As of **2024-06-13 12:52:03**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,171 (100.0%) of 30,175 articles have been extended.
+30,175 (100.0%) of 30,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### கதிர்காம காட்டுப்பாதை: இந்துக்கள் மத்தியில் குழப்பம்
+### Kadirgama Wildfire: Confusion among Hindus
 
 *2024-06-13 12:13:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதிர்காம-காட்டுப்பாதை-இந்துக்கள்-மத்தியில்-குழப்பம்/175-338856) · `ta`
 
-வரலாற்றுப்  பிரசித்திபெற்ற கதிர்காமக் கந்தன் ஆலய ஆடிவேல் விழாவிற்குச் செல்லும் பாதயாத்திரிகர்களுக்கான காட்டுப்பாதை திறக்கப்படும் திகதியில் மீண்டும் மாற்றம் ஏற்படுத்தப் பட்டுள்ளது.
+The Kadirgama Wildfire has caused confusion among Hindus due to sudden changes in the opening dates of the footpath leading to the Kadirgamak Kandan Temple. Initially set to open on July 2, the decision was made at a meeting in Kadirgama on June 11. However, concerns were raised as the usual six-day journey through the forest was reduced to four days, sparking suspicions of a planned conspiracy. The temple's opening was also criticized for lacking essential facilities like water supply. Despite these issues, fundraising efforts are underway to address the shortcomings. The Hindu community fears this could lead to future disruptions in the pilgrimage route.
 
-அதாவது  இப் பாதை திறக்கப்படும் திகதி ஜூலை 2 ஆம் திகதி எனக் கூறப்பட்டுள்ளது .
+🟩
 
-கதிர்காமத்தில் செவ்வாய்க்கிழமை (11) இடம் பெற்ற கூட்டத்தில் இத் திகதி தீர்மானிக்கப்பட்டுள்ளது. அதாவது ஜூலை 2 ஆம் திகதி திறக்கப்பட்டு 14 ஆம் திகதி மூடப்படும் என்று மொனராகலை மாவட்ட அரசாங்க அதிபர் ரத்னாயக்க அறிவித்திருக்கிறார்.
+The historic Kadirgamak Kandan Temple has been re -changed on the date of the opening of the wildfire for the footpaths.
 
-குறித்த நான்கு நாட்களில் காட்டைக் கடந்து கொடியேற்றத்திற்குச் செல்ல முடியாது. சாதாரணமாக ஆறு நாட்கள் தேவை. எனவே இந்த நாட்குறைப்பு திட்டமிட்ட ஒரு சதியாகக் கூட இருக்கலாம் என கருதப்படுகிறது.
+That is, the date of the opening of the route is said to be on July 2.
 
-அந்தக் காலத்தில் இப் புனித யாத்திரை பக்தி பூர்வமாக கொடியேற்றத்திற்கு பத்து நாட்களுக்கு முன்னரே திறக்கப்பட்டு எந்த அன்னதானமோ நீர் விநியோகமோ இல்லாது சிறப்பாக இடம்பெற்று வந்திருக்கிறது. சுமார் 20 நாட்கள் காட்டுப் பாதை திறந்திருக்கும்.
+The date was decided at a meeting held at Kadirgama on Tuesday (11). Moneragala District Government Agent Ratnayake has announced that it will be closed on July 2 and closed on the 14th.
+
+Can't cross the forest in four days. Normally need six days. It is therefore thought that this country may be a planned conspiracy.
+
+At that time, the pilgrimage was opened ten days before the flag pole and was specially featured without any water supply or water supply.. The wildflower is open for about 20 days.
+
+However. The Lakugala Divisional Secretariat is collecting funds for this purpose. A few more charities also collect funds for water supply. People are unaware of what is going on. "Even the days are expensive if we open it. We have gone in three days," an official said at the Kadirgamaka meeting.
 
 ...
 
 [Data](articles/f1d35b7e.json)
+
+[Extended Data](ext_articles/f1d35b7e.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ Meanwhile, the court has also ordered to communicate the Controller General of I
 ◼️
 
 [Data](articles/7020ae25.json)
+
+[Extended Data](ext_articles/7020ae25.ext.json)
 
 ---
 
@@ -122,19 +132,25 @@ The first phase of the investigation revealed that the cooking ginger was smuggl
 
 ---
 
-### දුම්රිය පීලිපැනීමක් හේතුවෙන් දුම්රිය ප්‍රමාදයක්
+### Railway delay due to rail train
 
 *2024-06-13 11:02:26* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පීලිපැනීමක්-හේතුවෙන්-දුම්රිය-ප්‍රමාදයක්/11-410189) · `si`
 
-අද (13) දින පානදුර සිට කොළඹ මරදාන බලා ධාවනය වන දුම්රියක් පානදුර දුම්රිය ස්ථානය ආසන්නයේ පිලී පැනීමකට ලක්ව ඇත.
+A train from Panadura to its station was delayed, blocking both tracks and halting coastal railway traffic. The Rajarata Queen to Beliatta also stopped at Colombo Fort. Coastal route trains now only run to Moratuwa, causing delays.
 
-මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය මාර්ගයේ මාර්ග දෙකම අවහිරව ඇත. ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමනය මේ වන විට තාවකාලික නවතා ඇත. මහව සිට බෙලිඅත්ත බලා ධාවනය වන රජරට රැජිණ දුම්රිය ද අද දින කොළඹ කොටුව දුම්රිය ස්ථානයෙන් ගමන් අවසන් කිරීමට පියවර ගෙන ඇත.
+🟩
 
-මුහුදුබඩ මාර්ගයේ අද දින දහවල් ධාවනය වන දුම්රියන් මොරටුව දුම්රිය ස්ථානය දක්වා පමණක් සීමා වන අතර දුම්රිය පිලී ගත කොට දුම්රිය ගමනාගමන කටයුතු සිදු කිරීමට යම් කාලයක් ගත වනු ඇත. ( I J )
+A train from Panadura from Panadura from Panadura to the Panadura Railway Station today (13th) has been allocated to the Panadura Railway Station.
+
+Due to this, both roads on the railway line are blocked due to this. As a result, the railway traffic on the coastal railway line has been temporarily parked. The Rajarata Queen Railway, which is traveling to Beliatta, has also taken steps to complete the Colombo Fort Railway Station today.
+
+Trains, which are traveling on the coastal route, is limited to the Moratuwa Railway Station and will take some time to carry out the train services. (I J)
 
 ◼️
 
 [Data](articles/7eb8d422.json)
+
+[Extended Data](ext_articles/7eb8d422.ext.json)
 
 ---
 
@@ -374,17 +390,23 @@ The Minister of State for Finance has thanked the International Monetary Fund Ex
 
 ---
 
-### ලංකා ඉතිහාසයේ දිනක් තුළ සිදුකරන විශාලම භාණ්ඩාගාර බැඳුම්කර වෙන්දේසිය අද?
+### The largest Treasury Bond Auction in the history of Sri Lanka today
 
 *2024-06-13 09:47:43* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ඉතිහාසයේ-දිනක්-තුළ-සිදුකරන-විශාලම-භාණ්ඩාගාර-බැඳුම්කර-වෙන්දේසිය-අද-/11-410188) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව විසින් අද (13) දිනයේ දී රු. මිලියන 295,000 ක භාණ්ඩාගාර බැඳුම්කර වෙන්දේසියක් සිදුකිරිමට නියමිතය. මෙය දිනක් තුළ ශ්‍රී ලංකා මහ බැකුව විසින් සිදුකරන විශාලම භාණ්ඩාගාර බැඳුම්කර නිකතුව බවට වාර්තා වෙයි.
+Today, Sri Lanka conducted its largest-ever Treasury Bond Auction worth Rs. 295 billion, surpassing the previous record set in October. The auction included bonds maturing on October 15, 2027 (Rs. 60 billion), September 15, 2029 (Rs. 125 billion), and December 31, 2031 (Rs. 110 billion).
 
-පරිණත කාණ්ඩ තුනක් යටතේ මෙම වෙන්දේසිය පැවැත්වෙයි. එනම් 2027 ඔක්තෝබර් 15 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 60,000 ක්, 2029 සැප්තැම්බර් 15 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 125,000 ක් සහ2031 දෙසැම්බර් 01 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 110,000 ක් ලෙස මෙම වෙන්දේසිය සිදුකිරිමට නියමිතය.
+🟩
+
+Central Bank of Sri Lanka (SLTB) Rs. 13th. Rs. 295,000 million to conduct a auction. It is reported that this is the largest Treasury Bond Send by Sri Lanka's October for a day.
+
+This auction is held under three mature categories. That is, as the mature of October 15, 2027. 60,000 million, September 15, 2029, Rs. 150,000. 125,000 million and Rs. 01th of December 01, 2031. 110,000 million is expected to be carried out.
 
 ◼️
 
 [Data](articles/76e494c5.json)
+
+[Extended Data](ext_articles/76e494c5.ext.json)
 
 ---
 

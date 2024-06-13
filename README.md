@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 21:34:33**
+As of **2024-06-13 21:54:25**
 
 ## Newspaper Stats
 
-*Scraped **30,247** Articles*
+*Scraped **30,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,609
+adalk | 2,610
 adaderanalk | 3,429
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,875
+adaderanasinhalalk | 4,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,246 (100.0%) of 30,247 articles have been extended.
+30,247 (100.0%) of 30,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### උද්දිකගේ රථයට වෙඩි තැබූ හැටි හෙළිවෙයි
+
+*2024-06-13 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197730) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථයට වෙඩි තැබීමේ සිද්ධිය මන්ත්‍රීවරයා ප්‍රදේශයේ සහකාර පොලිස් අධිකාරිවරයෙකු සමග එක්වී සැලසුම්සහගතව සිදු කළ එකක් බව අනාවරණ වී ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පවසයි.
+
+අද (13) ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මේ පිළිබඳව අනාවරණය කළේය.
+
+2023 වසරේ සැප්තැම්බර් 17 වනදා අනුරාධපුර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථය ඉලක්ක කරමින් වෙඩි ප්‍රහාරයක් එල්ල වී තිබුණි.
+
+වෙඩි වැදීමෙන් මෝටර් රථයේ පිටුපස පැති වීදුරුවට අලාභ හානි සිදුවී තිබූ නමුත් මන්ත්‍රීවරයාට කිසිදු අනතුරක් සිදුවී තිබුණේ නැත.
+
+මෙම වෙඩි තැබීමේ සිද්ධියට අදාළ විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකළ අතර සිද්ධියට අදාළ සැකකරුවන් මේ වනවිට හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා අද සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4249e16d.json)
+
+---
 
 ### Another railway strike from tomorrow?
 
@@ -49,6 +69,8 @@ The Sri Lanka Railway Station Masters’ Union also expressed that it is regrett
 ◼️
 
 [Data](articles/11f4a227.json)
+
+[Extended Data](ext_articles/11f4a227.ext.json)
 
 ---
 
@@ -119,6 +141,22 @@ Colombo-13-year-old St. Anthony's Church. The procession is going to be followed
 [Data](articles/5345ca88.json)
 
 [Extended Data](ext_articles/5345ca88.ext.json)
+
+---
+
+### මා කිසිවිටෙකත් ප්‍රජාතන්ත්‍රවාදී මූලධර්මවලින් ඉවත් වී නැහැ
+
+*2024-06-13 19:44:12* · [`adalk`](https://www.ada.lk/breaking_news/මා-කිසිවිටෙකත්-ප්‍රජාතන්ත්‍රවාදී-මූලධර්මවලින්-ඉවත්-වී-නැහැ/11-410204) · `si`
+
+රටේ පවතින ප්‍රජාතාන්ත්‍රික සමාජවාදී මූලධර්මවලින් තමා කිසිවිටෙකත් ඉවත් වී නැති බවත්, සියලුම පුරවැසියන්ට ප්‍රමාණවත් ජීවන තත්ත්වයක් ඇති බව සහතික කිරීම සහ මහජන යහපත සඳහා රාජ්‍ය හා පෞද්ගලික ආර්ථික ක්‍රියාකාරකම් මඟින් සමස්ථ රටේම වේගවත් සංවර්ධනයක් ඇති කිරීම යන අරමුණු සාක්ෂාත් කර ගැනීම වෙනුවෙන් කැපවී කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එම ප්‍රතිපත්තීන් දෙක ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිපත්තිය නැවත ලිවීමට බෙහෙවින් ප්‍රමාණවත් බව පැවසු ජනාධිපතිවරයා එම ප්‍රතිපත්තින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ද සඳහන් වන බැවින් තමා ව්‍යවස්ථාවෙන් පිට කටයුතු කරන බවට කිසිවෙකුට චෝදනා කළ නොහැකි බවද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ අද (13) පෙරවරුවේ කොළඹ හිල්ටන් හෝටලයේ ආරම්භ වූ සාර්ක් කලාපීය රටවල මහබැංකු අධිපතිවරුන්ගේ සමුළුවේ “SAARCFINANCE” සමාරම්භක සැසියේ ප්‍රධාන දේශනය සිදු කරමිනි.
+
+...
+
+[Data](articles/aee0f05f.json)
 
 ---
 
@@ -2321,49 +2359,5 @@ The Badulla police said that although the cause of the death was not yet detecte
 [Data](articles/3d229298.json)
 
 [Extended Data](ext_articles/3d229298.ext.json)
-
----
-
-### UN welcomes Saudi date donation for Sri Lanka kids
-
-*2024-06-13 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99850/un-welcomes-saudi-date-donation-for-sri-lanka-kids) · `en`
-
-The UN World Food Programme has welcomed Saudi Arabia’s donation of 300 tonnes of dates for vulnerable children in Sri Lanka.
-
-Provided through Saudi Arabia’s aid agency KSrelief, the dates will be given to primary grade children enrolled in the country’s national school meal program.
-
-The contribution was acknowledged at a signing event on Tuesday between the Embassy of Saudi Arabia in Sri Lanka and the WFP, according to a press release.
-
-Sri Lanka’s children have been severely affected by the country’s economic downturn which began in 2022, when lost jobs and reduced incomes made it harder for families to access nutritious meals.
-
-Through this contribution, Saudi Arabia joins international communities in supporting the nation’s recovery, particularly in improving nutrition and building its human capital.
-
-“In times of crises, it is often children who are among those hardest hit,” said Gerard Rebello, country director of WFP Sri Lanka.
-
-...
-
-[Data](articles/d11a44b0.json)
-
-[Extended Data](ext_articles/d11a44b0.ext.json)
-
----
-
-### Second migrant approval - Third Premium. 336 million
-
-*2024-06-13 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-සාමාලෝනය-අනුමතයි---තෙවැනි-වාරිකය-ලෙසින්-ඇ-ඩො--මිලියන-336ක්/11-410186) · `si`
-
-The IMF Executive Board has approved the release of the third loan installment to Sri Lanka, amounting to $336 million. This comes amid Sri Lanka's growing debt exceeding $1 billion under the Vispulic Credit Facility.
-
-🟩
-
-The International Monetary Fund has been approved by the Executive Board of the Fund regarding the comprehensive loan facility implemented on behalf of Sri Lanka. Accordingly, the Executive Board has approved the release of the third loan installment to Sri Lanka.
-
-Accordingly, Sri Lanka will receive US $ 336 million as the third premium. At the same time, Sri Lanka's debt exceeded US $ 1 billion under the Vispulic Credit Facility.
-
-◼️
-
-[Data](articles/bda9cb91.json)
-
-[Extended Data](ext_articles/bda9cb91.ext.json)
 
 ---

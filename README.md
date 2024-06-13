@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 11:34:35**
+As of **2024-06-13 11:54:18**
 
 ## Newspaper Stats
 
-*Scraped **30,158** Articles*
+*Scraped **30,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 281
 bbccomsinhala | 294
 newsfirstlk | 363
 islandlk | 1,637
-economynextcom | 1,733
+economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,594
 adaderanalk | 3,418
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,158 (100.0%) of 30,158 articles have been extended.
+30,158 (100.0%) of 30,163 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,24 @@ Accordingly, the trains operating on the coastal line will experience delays, ac
 [Data](articles/03a5de71.json)
 
 [Extended Data](ext_articles/03a5de71.ext.json)
+
+---
+
+### Sri Lanka to investigate SIS, CNI actions prior to Easter attack
+
+*2024-06-13 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-investigate-sis-cni-actions-prior-to-easter-attack-167797/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has appointed a committee of inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on April 21, 2019.
+
+The decision follows the findings of the final report of the commission of inquiry, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
+
+“The committee’s mandate includes examining whether adequate actions and measures were taken by the SIS, CNI, and other relevant authorities based on the prior intelligence and evaluating the sufficiency of these measures,” the president’s media division said in a statement.
+
+The committee is expected to submit its findings and recommendations by September 15.
+
+...
+
+[Data](articles/b6028c7d.json)
 
 ---
 
@@ -605,6 +623,66 @@ The EFF arrangement for Sri Lanka was approved by the Executive Board on March 2
 [Data](articles/0c7b7a25.json)
 
 [Extended Data](ext_articles/0c7b7a25.ext.json)
+
+---
+
+### IMF approves Sri Lanka review, calls for monetary policy for stability
+
+*2024-06-13 05:24:00* · [`economynextcom`](https://economynext.com/imf-approves-sri-lanka-review-calls-for-monetary-policy-for-stability-167761/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has approved Sri Lanka’s program review allowing the disbursement of 330 million US dollars, while calling for monetary policy to be used only for stability.
+
+“Monetary policy should continue prioritizing price stability, supported by a sustained commitment to refrain from monetary financing and safeguard central bank independence,” Kenji Okamura, Deputy Managing Director and Acting Chair said in a statement.
+
+The call comes as inflationists are calling for rates cuts to support ‘growth’ and early noises are starting to be made about ‘positive real interest rates’ based on historical inflation.
+
+Sri Lanka’s inflation is currently low as anchor conflicts have not yet re-emerged, though the operating framework of the monetary authority remains deeply flawed without a credible anchor, critics have said.
+
+...
+
+[Data](articles/f5284e82.json)
+
+---
+
+### Conflict left in Sri Lanka constitution to avoid referendum
+
+*2024-06-13 05:21:00* · [`economynextcom`](https://economynext.com/conflict-left-in-sri-lanka-constitution-to-avoid-referendum-167774/) · `en`
+
+ECONOMYNEXT – The 19th Amendment created a conflict in Sri Lanka’s constitution, but it remained unresolved because the then government was determined to avoid a referendum.
+
+The deficiency in the constitution was highlighted in a report by  EconomyNext on Tuesday and later taken up during a government meeting at the highest levels, sources familiar with the issue said.
+
+The constitutional error, which has persisted since April 2015, could allow an incumbent president to extend his term by less than a year without facing a referendum.
+
+Former legislator and President’s Counsel Jayampathy Wickramaratne said the brief from the then government was to come up with a bill for a 19th Amendment which could be passed without a referendum.
+
+“As a member of the team that drafted the 19th Amendment to the Constitution, I wish to make a clarification,” Wickramaratne said, adding that they were aware of the issue.
+
+...
+
+[Data](articles/4ba2dcff.json)
+
+---
+
+### Sri Lanka plantations to battle state directed wage hike in courts
+
+*2024-06-13 05:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-to-battle-state-directed-wage-hike-in-courts-167772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Planters’ Association said a government mandated wage hike which amounted to 70 percent, will be contested in court, as the island’s wages were double that of India.
+
+Tea and rubber estates may have difficulties in servicing loans due to the wage hike.
+
+“The PA emphasizes that wages must be intrinsically linked to productivity to ensure the sustainability of businesses and the livelihoods of workers,” the group said in a statement.
+
+“Sri Lanka already grapples with the highest production costs, wages, and lowest productivity among all tea-growing nations.
+
+“Notably, the newly gazetted wage is double that of India, creating significant cost disparities in the global market.
+
+This unilateral increase affects not only the regional plantation companies but also over 400 private tea factories in Sabaragamuwa and the Southern province, smallholders employing external labor, and all rubber producers and factories, the statement said.
+
+...
+
+[Data](articles/cf6b0baf.json)
 
 ---
 
@@ -1666,6 +1744,26 @@ The team was advised that a bill to amend the constitution should be passed “o
 
 ---
 
+### IMF approves Sri Lanka program review, Foreign Minister Sabry says
+
+*2024-06-12 21:24:00* · [`economynextcom`](https://economynext.com/imf-approves-sri-lanka-program-review-foreign-minister-sabry-says-167752/) · `en`
+
+ECONOMYNEXT – Washington-based International Monetary Fund has approved a review of Sri Lanka’s program, Foreign Minister Ali Sabry said.
+
+“This achievement is a testament to our dedication to driving forward economic reforms and securing a prosperous future for all Sri Lankans,” Minister Sabry said in an x.com (twitter) post.
+
+IMF's approved the 2nd review of Sri Lanka’s program. This achievement is a testament to our dedication to driving forward economic reforms and securing a prosperous future for all Sri Lankans. Onward and upward! 🇱🇰 #Progress #SriLanka #IMF
+
+The IMF had earlier said Sri Lanka had made “sufficient progress” on debt restructuring for a review on June 12, despite final deals pending with bilateral creditors and private creditors.
+
+Upto now the central bank has provided monetary stability, allowing people to stagger out of the worst currency crisis in the history of the agency.
+
+...
+
+[Data](articles/1a627f56.json)
+
+---
+
 ### Police gifts to citizens of society
 
 *2024-06-12 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197696) · `si`
@@ -2201,105 +2299,5 @@ Accordingly, before the Poson festival, the railway department has instructed th
 [Data](articles/25330dea.json)
 
 [Extended Data](ext_articles/25330dea.ext.json)
-
----
-
-### President hits out at politicians making promises without presenting any economic policies
-
-*2024-06-12 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99840/president-hits-out-at-politicians-making-promises-without-presenting-any-economic-policies) · `en`
-
-President Ranil Wickremesinghe states that at present, certain politicians are making extensive promises without presenting any concrete policies to drive the country’s economic growth.
-
-Speaking during a dialogue with Youth Representatives of the Parliamentary Sectoral Oversight Committees, Wickremesinghe expressed that despite prolonged discussions between the Opposition Leader Sajith Premadasa and NPP Leader Anura Dissanayake regarding debate formats and venues, no agreement was reached.
-
-“Regrettably, none of these individuals have put forth a viable economic agenda”, the President highlighted.
-
-Meanwhile, Wickremesinghe emphasized that the upcoming presidential election will not be about his personal victory or defeat, but that of the country’s success or failure.
-
-...
-
-[Data](articles/aa9b36db.json)
-
-[Extended Data](ext_articles/aa9b36db.ext.json)
-
----
-
-### Sri Lanka president needs referendum to extend his tenure: Justice Minister
-
-*2024-06-12 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-needs-referendum-to-extend-his-tenure-justice-minister-167709/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe will need a referendum if he needs to extend his tenure by one year despite an error in the constitution’s 19th amendment when it was passed in 2015, Justice Minister Wijeyadasa Rajapakshe said.
-
-Speculations have been on rise that the island nation’s constitution could allow President Wickremesinghe to extend his tenure by one year due to a mistake in the constitution, which was approved with more than two-third majority.
-
-While all references to the six-year terms of both the president and parliament were changed to five years in line with the 19th Amendment, Article 83(b) was overlooked and left unchanged, giving a loophole to extend his term for President Wickremesinghe.
-
-However, Minister Rajapakshe said despite an inconsistency, the rulers need both two-third majority and referendum to change 9 clauses in the constitution which also include the people’s voting right.
-
-...
-
-[Data](articles/e1763d1b.json)
-
-[Extended Data](ext_articles/e1763d1b.ext.json)
-
----
-
-### More information about the deadly van accident
-
-*2024-06-12 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197691) · `si`
-
-A tragic van-bus collision resulted in the deaths of two women and one man. The victims were traveling in the van when it was struck by a bus at a stop.
-
-🟩
-
-More information about the fatal accident caused by a van at a bus today (12) was revealed.
-
-The van was hit by a bus with stopped and two women and a man died in the van.
-
-◼️
-
-[Data](articles/3a0403ec.json)
-
-[Extended Data](ext_articles/3a0403ec.ext.json)
-
----
-
-### Three killed in Weigama van crash
-
-*2024-06-12 17:37:10* · [`adalk`](https://www.ada.lk/breaking_news/වෑගම-වෑන්-අනතුරින්-තිදෙනෙක්-මරුට/11-410175) · `si`
-
-A fatal crash involving two buses in Mahiyangana resulted in three deaths and hospitalizations for four others. The incident occurred when one bus collided with another while both were en route from a garage in the Mahija area.
-
-🟩
-
-Police said that three others were hospitalized after a private bus collided with a private bus with a private bus with a private bus today (12) in the Mahiyangana road.
-
-Persisha is being admitted to the Badulla General Hospital and another person who was injured in the accident and the bus assistant in the wounded vehicles and the bus assistant in the wounded vehicles and a bus.
-
-The accident had occurred when the accident was running from a garage in Mahija Mahiyangana area, which was traveling from a garage in Mahija Mahiyangana area.
-
-◼️
-
-[Data](articles/f29efc2a.json)
-
-[Extended Data](ext_articles/f29efc2a.ext.json)
-
----
-
-### Easter attacks: Inquiry committee appointed to probe actions taken on prior intelligence
-
-*2024-06-12 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99839/easter-attacks-inquiry-committee-appointed-to-probe-actions-taken-on-prior-intelligence) · `en`
-
-President Ranil Wickremesinghe has appointed a Committee of Inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on April 21, 2019.
-
-This decision follows the findings of the Final Report of the Commission of Inquiry, dated January 31, 2021, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
-
-The Committee of Inquiry will be chaired by Ms. A.N.J. De Alwis, Retired Judge of the High Court. Other esteemed members of the committee include SLAS special grade Officer Ms. K.N.K. Somaratne and Senior Lawyer Mr. W.M.A.N. Nishane, AAL. The committee’s mandate includes examining whether adequate actions and measures were taken by the SIS, CNI, and other relevant authorities based on the prior intelligence and evaluating the sufficiency of these measures.
-
-...
-
-[Data](articles/e39f0590.json)
-
-[Extended Data](ext_articles/e39f0590.ext.json)
 
 ---

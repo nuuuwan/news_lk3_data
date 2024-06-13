@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 07:46:52**
+As of **2024-06-13 07:23:10**
 
 ## Newspaper Stats
 
-*Scraped **30,131** Articles*
+*Scraped **30,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ adaderanalk | 3,413
 tamilmirrorlk | 3,524
 virakesarilk | 4,614
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,850
+adaderanasinhalalk | 4,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,123 (100.0%) of 30,131 articles have been extended.
+30,123 (100.0%) of 30,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
-
-### මෙරට වැඩිහිටි ජනගහනයේ ඉහළ යාමක්
-
-*2024-06-13 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197703) · `si`
-
-මෙරට වැඩිහිටි ජනගහනය ශීඝ්‍ර ලෙස ඉහළ යමින් පවතින බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
-
-සෞඛ්‍ය අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා සඳහන් කළේ, මේ වන විට මෙරට උපතේ දී ආයු කාලය අවුරුදු 79 ඉක්මන බවය.
-
-කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් විශේඥ වෛද්‍ය පාලිත මහීපාල මහතා මෙම අදහස් පළ කළේය.
-
-"අපේ රටේ වියපත් ජනගහනය එන්න එන්න වැඩිවෙනවා. ආසියාවේ ඉතා ශීඝ්‍රයෙන් වයසට යන ජනගහනයක් ඉන්න රට ශ්‍රී ලංකාව. අපේ රටේ උපතේ දී ආයු අපේක්ෂාව සාමාන්‍යයෙන් 79.7%ක්. අලුත් ඇස්තමේන්තුව අනුව කාන්තාවන් සඳහා අවුරුදු 83 දක්වා වැඩිවෙලා කියලා. මේ නිසා වැඩිහිටි ජනගහනය එන්න එන්න වැඩිවෙනවා. ඒක අපිට තියෙන තව ප්‍රශ්නයක්. ඒ නිසා අපි විශාල ප්‍රතිසංස්කරණයක් ප්‍රාථමික සෞඛ්‍ය ආයතනවල කරගෙන යනවා ඉදිරි අවුරුදු 5 ඇතුළත. ඒ සඳහා බිලියන 70ක පමණ මුදල් වැය කරන්න බලාපොරොත්තු වෙනවා. සියලු පළාත්සභා රෝහලුත් ඇතුළුව. ඒ වගේම රෝග ආවේක්ෂණය තවත් ශක්තිමත් කළ යුතුය. ඒ අනුව අපි වසංගත රෝග විද්‍යා ඒකකය වෙනසක් කරන්න බලාපොරොත්තු වෙනවා. අපි ඒක නව වැඩපිළිවෙලක් යටතේ සිදුකරනවා."
-
-...
-
-[Data](articles/f58f8e57.json)
-
----
 
 ### දක්ෂිණ අධිවේගයේ අනතුරක් - මංතීරුවක් අවහිර වෙයි
 
@@ -2225,5 +2207,31 @@ This video has been going viral on the site and the forest department has taken 
 [Data](articles/04d5a477.json)
 
 [Extended Data](ext_articles/04d5a477.ext.json)
+
+---
+
+### President and SAARC Secretary meets Secretary General
+
+*2024-06-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197683) · `si`
+
+President Ranil Wickremesinghe met with SAARC Secretary General Gulam Services to discuss resolving project issues among SAARC nations, enhancing the Sri Lanka Agricultural Navinnamentivity Program, and developing the SAARC Cultural Center for modern art. The meeting included officials like Secretary to the President Saman Ekanayake.
+
+🟩
+
+President Ranil Wickremesinghe and SAARC Secretary General Gulam Services took place at the Presidential Secretariat this morning.
+
+The President has requested the SAARC Secretary to the Secretary General to resolve the problems of various projects between the SAARC countries.
+
+The meeting has also been discussed on the Sri Lanka Agricultural Navinnamentivity Program.
+
+The Presidential Media Unit said that the development of SAARC Cultural Center in Sri Lanka was also discussed for Modern Art.
+
+A group of officers including the Secretary to the President Saman Ekanayake joined the occasion.
+
+◼️
+
+[Data](articles/2d139418.json)
+
+[Extended Data](ext_articles/2d139418.ext.json)
 
 ---

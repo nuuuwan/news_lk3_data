@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 19:34:31**
+As of **2024-06-13 19:53:15**
 
 ## Newspaper Stats
 
-*Scraped **30,229** Articles*
+*Scraped **30,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,606
-adaderanalk | 3,427
+adalk | 2,607
+adaderanalk | 3,428
 tamilmirrorlk | 3,538
 virakesarilk | 4,636
 dailymirrorlk | 4,733
@@ -26,51 +26,81 @@ adaderanasinhalalk | 4,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,227 (100.0%) of 30,229 articles have been extended.
+30,229 (100.0%) of 30,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### බිළිඳු සිරුරක් හමුවෙයි
+### Shooting incident ‘targeting’ former MP Uddika was self-orchestrated: Police
+
+*2024-06-13 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99864/shooting-incident-targeting-former-mp-uddika-was-self-orchestrated-police) · `en`
+
+Sri Lanka Police says it has been uncovered that the incident where several gunshots had been fired at the vehicle belonging to former Anuradhapura District parliamentarian Uddika Premaratne, had been orchestrated by the actor-turned-politician himself with the assistance of an Assistant Superintendent of Police (ASP) in the area.
+
+Speaking during a press conference held in Colombo today (13), the Police Media Spokesman DIG Nihal Thalduwa said that the suspects connected to the incident have been identified so far following investigations carried out by the CID.
+
+On September 17, 2023, a group of unidentified gunmen had opened fire at Premaratne’s car soon after he returned to his residence in Anuradhapura at around 10:35 p.m. The parliamentarian had managed to escape unharmed.
+
+...
+
+[Data](articles/083bc1c9.json)
+
+---
+
+### Infancy found
 
 *2024-06-13 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197727) · `si`
 
-බිළිඳු මළසිරුරක් නුවරඑළිය බොරලන්ද ඇළ මාර්ගයක් අසල තිබී අද (13) හමුවී තිබේ.
+A baby's body was discovered near a well in Nuwara Eliya. The police believe the infant wasn't there long before being found. Authorities have initiated efforts to identify the parents through hospitals and are conducting a post-mortem examination at the Nuwara Eliya District General Hospital.
 
-නුවරඑළිය පොලීසිය පැවසුවේ ඒ ඉපදී දින කිහිපයක් ගතවූ බිළිඳෙකු බවත් මළසිරුරේ ඉනෙන් පහළ කොටස නොමැති බවත්ය.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් එම ප්‍රදේශය අවට රෝහල් හා පොලීසි සියල්ල දැනුවත් කර අදාළ මළසිරුර හිමි දරුවාගේ දෙමාපියන් සෙවීමට නුවරඑළිය පොලීසිය මෙහෙයුම් දියත් කර තිබේ.
+Infant, a bodic of a baby was found near a Ven.
 
-නුවරඑළිය වැඩබලන මහෙස්ත්‍රාත් විසින් ස්ථානීය පරීක්ෂණය සිදු කිරීමෙන් අනතුරුව බිළිඳු සිරුර නුවරඑළිය දිස්ත්‍රික් මහ රෝහලට රැගෙන ගොස් පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඇත.
+The Nuwara Eliya Police said that it was a baby and the bodies were not a few days.
+
+Nuwara Eliya Police has launched a child's parents to educate the body of the hospital and the parents of the hospital.
+
+The infancy Magistrate was taken to the Nuwara Eliya District General Hospital and the post mortem had been taken to the Nuwara Eliya District General Hospital.
 
 ◼️
 
 [Data](articles/cdf3c87e.json)
 
+[Extended Data](ext_articles/cdf3c87e.ext.json)
+
 ---
 
-### ඔස්ට්‍රේලියාවට යන අයට ජුලි සිට නව නීති
+### New laws from July for those who go to Australia
 
 *2024-06-13 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197726) · `si`
 
-ජුලි මස පළමු වනදා සිට වීසා නීති දැඩි කිරීමට ඔස්ට්‍රේලියානු රජය තීරණය කර තිබේ.
+From July, Australia is tightening visa rules, focusing on reducing student visas granted to tourists and extending stay times for lucrative courses. The government aims to increase immigration to 50% by 2025, emphasizing job suitability and English proficiency for permanent residency. This move comes amid global concerns over migration and follows a 30% rise in temporary undergraduate visa applications.
 
-ඒ අනුව සංචාරක වීසා මත ඔස්ට්‍රේලියාවට පැමිණ එහි රැඳීසිටිමින් ශිෂ්‍ය වීසා ලබාගැනීමට දී තිබූ අවස්ථාව මින් ඉදිරියට අහිමි වේ.
+🟩
 
-යුද ගැටුම් සහ දරිද්‍රතාව හේතුවෙන් දහස් ගණන් පිරිස් රටින් පළාගොස් සමෘද්ධිය පතා ධනවත් රටවල රැකවරණ ඉල්ලා සිටින අතර, තවත් විශාල පිරිසක් සංවර්ධිත රටවල අධ්‍යාපන සහ රැකියා අවස්ථා සොයා යන්නේ සාර්ථක අනාගතයක් ගැන ප්‍රාර්ථනා ඇතිවය.
+The Australian government has decided to raise visa rules from the first month of July.
 
-කෙසේ නමුත් වාර්ෂිකව සංක්‍රමණිකයින් දහස් ගණනින් නීත්‍යානුකූලව සහ අනවසරයෙන් රටට ඇතුළුවීම ලොව සංවර්ධිත රටවලට දැන් මහත් හිසරදයක්ව තිබේ.
+Accordingly, he returned to Australia on tourist visas and stayed in the event of a student visa.
 
-මෙවන් පසුබිමක උසස් අධ්‍යාපනය සඳහා සංවර්ධිත රටවලට පිවිසෙන පිරිස් සීමා කිරීමට ද ඒ රජයන් ආසන්න කාලය පුරා විවිධ පියවර ගනිමින් සිටියේය.
+Thousands of war clashes and poverty are demanding protection of rich countries from the country and demands the protection of the rich in the rich countries.
 
-ඔස්ට්‍රේලියානු රජය ද පසුගිය වසරේ සිය වීසා නීති දැඩි කිරීමේ සැලසුමක් ප්‍රකාශයට පත් කළ අතර 2025 වනවිට රටට පැමිණෙන සංක්‍රමණිකයින් ගණන සියයට 50කින් කප්පාදු කිරීමේ ඉලක්කයක් ස්ථාපනය කළේය.
+However, the world's developed countries are now in the world's developed countries to enter thousands of migrants annually and unauthorized country.
 
-එහිදී ඔවුන්ගේ වැඩිම අවධානය යොමුව තිබුණේ ශිෂ්‍ය වීසා කප්පාදුව සම්බන්ධයෙනි.
+In this backdrop, it was a variety of governments to limit the people who enter the developed countries for higher education.
+
+The Australian government also declared a plan to raise its visa rules last year, installed a target of 50 percent immigrants to reach the country by 2025.
+
+There they had their highest focused on student visa cuts.
+
+Accordingly, the government has taken steps to suspend the opportunity to obtain student visas on the tourist visas.
 
 ...
 
 [Data](articles/648fe9a2.json)
+
+[Extended Data](ext_articles/648fe9a2.ext.json)
 
 ---
 
@@ -169,6 +199,20 @@ The Ministry of Education has also called applications from the English Media Te
 [Data](articles/c37be274.json)
 
 [Extended Data](ext_articles/c37be274.ext.json)
+
+---
+
+### තවත් දුම්රිය වර්ජනයක් අත ළඟයි
+
+*2024-06-13 18:17:34* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-දුම්රිය-වර්ජනයක්-අත-ළඟයි/11-410200) · `si`
+
+තව වෘත්තීමය ගැටලු සඳහා දුම්රිය දෙපාර්තමේන්තුවෙන් ඉල්ලා සිටි යෝජනා සඳහා විසඳුමක් ලබා නොදෙන්නේ නම් හෙට පස්වරු 2න් පසු ක්ෂණික වෘත්තීය ක්‍රියාමාර්ගයට පිවිසෙන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+
+ඒ අනුව තම වෘත්තීය ගැටලු සඳහා සාධනීය පිළිතුරක් හෙට පස්වරු 2ට පෙර අපේක්ෂා කරන බවද එම සංගමය දුම්රිය දෙපාර්තමේන්තුව වෙත දන්වා තිබේ.
+
+◼️
+
+[Data](articles/e080cd36.json)
 
 ---
 
@@ -2335,55 +2379,5 @@ Attorneys on behalf of 10. Mukundan, n. Mohan was also present.
 [Data](articles/3a44aa0a.json)
 
 [Extended Data](ext_articles/3a44aa0a.ext.json)
-
----
-
-### The extension of the service for some essential services is not a traditional continuation of it - the Cabinet spokesman
-
-*2024-06-13 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185959) · `ta`
-
-Cabinet spokesman Bandula Gunawardena clarified that service extensions for essential roles like the Attorney General and Security Forces Chair are not traditional continuations but are necessary precautions to avoid disruptions in critical services. These extensions will be implemented under specific conditions to ensure continuity during the transition period until a new president is elected by October 15th, as funds for the election have already been allocated.
-
-🟩
-
-Service is only provided for some essential services. It is not a traditional continuing position. Cabinet spokesman Bandula Gunawardena said that the Attorney General and the Security Forces have avoided misunderstanding of the extension of the service period.
-
-Responding to a question raised by a journalist about the extension of the service of Attorney General and the Chairman of the Security Forces at a weekly press conference announcing the Cabinet decisions held on Wednesday (12). As he further notes,
-
-The new president must be elected before the 15th of October to the Constitution. Money has been allocated through the budget for the election.
-
-At this time, hurrying new officers cannot be carried out continuously. He said that the provision of service extensions would be carried out under special conditions to prevent problems in certain essential services.
-
-◼️
-
-[Data](articles/07d1c505.json)
-
-[Extended Data](ext_articles/07d1c505.ext.json)
-
----
-
-### Illegal business - 16 arrested
-
-*2024-06-13 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185958) · `ta`
-
-16 individuals were arrested along with 8 boats for illegal fishing off Vadamarachchi East. Complaints about intensifying illegal industries like cardboard manufacturing and fisheries have surfaced. The arrests occurred after the suspects returned to shore with over fifty boats on Tuesday. Small-scale fishermen accuse the Jaffna Fisheries Inspector of negligence, demanding legal action against the illegal operations. They believe the arrest and interrogation by Dora boats could halt these illicit activities.
-
-🟩
-
-16 people were arrested on Wednesday 12th with 8 boats for illegal lighting in the Vadamarachchi East.
-
-Small workers are making a series of complaints as Illegal industries such as illegal industries such as cardboard and fisheries have been intensified in the waters from Vadamarachchi East Bettaikkadu to Sundikkulam.
-
-On Wednesday morning, 16 persons were arrested by the Vaikkali Navy on Wednesday morning, when they went to shore more than fifty boats on Tuesday 11th Tuesday, 11th.
-
-Small workers have accused the Jaffna Fisheries Inspector of Fisheries for further legal action and that some of the arrested workers have been released in the sea.
-
-They say that they can end the illegal industrial activities when they are arrested and interrogated by the Dora boats from the Kankesan industry.
-
-◼️
-
-[Data](articles/6fcbf988.json)
-
-[Extended Data](ext_articles/6fcbf988.ext.json)
 
 ---

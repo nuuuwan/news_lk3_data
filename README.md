@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 14:53:23**
+As of **2024-06-13 15:04:22**
 
 ## Newspaper Stats
 
-*Scraped **30,190** Articles*
+*Scraped **30,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,600
+adalk | 2,601
 adaderanalk | 3,421
 tamilmirrorlk | 3,535
 virakesarilk | 4,626
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,862
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,185 (100.0%) of 30,190 articles have been extended.
+30,190 (100.0%) of 30,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### සරසවි ප්‍රවේශය සඳහා ඔන්ලයින් අයදුම්පත් කැඳවීම හෙට සිට
+### Calling online applications for university admission from tomorrow
 
 *2024-06-13 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197716) · `si`
 
-2023/2024 අධ්‍යයන වර්ෂයට අදාළව විශ්වවිද්‍යාල ප්‍රවේශය සඳහා ඔන්ලයින් අයදුම්පත් කැඳවීම 2024 ජුනි 14 වනදා ආරම්භ කරන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව නිවේදනය කරයි.
+Starting June 14, 2024, applicants can submit university admission applications online via www.ugc.ac.lk until July 5, 2024.
 
-ඒ අනුව හෙට පෙරවරු 6.00 සිට www.ugc.ac.lk වෙත පිවිස අයදුම්පත් ඉදිරිපත් කිරීමට හැකියාව තිබේ.
+🟩
 
-අයදුම්පත් කැඳවීමේ අවසාන දිනය 2024 ජුලි 05 වනදා බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා පවසයි.
+The University Grants Commission announced that the payment of online applications for university admission regarding the academic year will commence on June 14, 2024.
+
+Accordingly, the applications can be submitted to www.ugc.ac.lk from 6.00 am tomorrow.
+
+The Chairperson of the University Grants Commission Sampath Amaratunga says that the closing date for applications for applications was 5th July 2024.
 
 ◼️
 
 [Data](articles/f5665705.json)
+
+[Extended Data](ext_articles/f5665705.ext.json)
 
 ---
 
@@ -62,23 +68,31 @@ Meanwhile, the closing date for the applications will be 05 July 2024, according
 
 [Data](articles/53dec254.json)
 
+[Extended Data](ext_articles/53dec254.ext.json)
+
 ---
 
-### வெள்ளவத்தை விபத்தில் நிந்தவூரைச் சேர்ந்தவர் பலி
+### Nintavur was killed in an accident
 
 *2024-06-13 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தை-விபத்தில்-நிந்தவூரைச்-சேர்ந்தவர்-பலி/175-338860) · `ta`
 
-வெள்ளவத்தை கரையோர வீதியில் சென்று கொண்டிருந்த வேன் ஒன்றும் மோட்டார் சைக்கிள் ஒன்றும் நேருக்கு நேர் மோதியதில் படுகாயமடைந்த மோட்டார் சைக்கிள் ஓட்டுனர்வைத்தியசாலையில் அனுமதிக்கப்பட்டு உயிரிழந்துள்ளதாக வெள்ளவத்தை பொலிஸார் தெரிவிக்கின்றனர்.
+A tragic accident occurred on Wellawatte's coastal road when a van and a motorcycle collided head-on. The driver of the motorcycle, a 29-year-old from Nintavur, was killed. Police investigations suggest many drivers use the road in the wrong direction, contributing to accidents.
 
-நிந்தவூர் ஆலிம் வீதியைச் சேர்ந்த பி.எல்.இலானி என்ற 29 வயதுடைய நபரே விபத்தில் உயிரிழந்துள்ளார்.
+🟩
 
-தெஹிவளையில் இருந்து பம்பலப்பிட்டி நோக்கிச் சென்ற வேன், முன்னால் சென்ற வாகனத்தை முந்திச் செல்வதற்காக எதிர்த் திசையில் சென்ற மோட்டார் சைக்கிளுடன் எதிர்திசையில் வந்த மோட்டார் சைக்கிள் நேருக்கு நேர் மோதியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Wellawatte police say that a van and a motorcycle on the coastal road of Wellawatte were admitted to the hospital where a motorcycle was injured.
 
-கரையோர வீதியின் நடுவே, பெரும்பாலான சாரதிகள் தமது வாகனங்களை எதிர்திசையில் செலுத்துவதை அவதானிக்காமல் செல்வதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+A 29 -year -old man from Nintavur Alim Road, a 29 -year -old man, died in an accident.
+
+Police say the van from Dehiwala to Bambalapitiya has collided head -on with a motorcycle riding in the opposite direction to overtake the vehicle.
+
+In the middle of the coastal road, police investigations have revealed that most drivers are going to drive their vehicles in the opposite direction.
 
 ◼️
 
 [Data](articles/43feacf7.json)
+
+[Extended Data](ext_articles/43feacf7.ext.json)
 
 ---
 
@@ -104,19 +118,31 @@ The Magistrate also set the request to submit the request made by the suspect in
 
 ---
 
-### තිළිණි පියුමාලිගෙන් ඩොලර් ගන්න ව්‍යාපාරිකයෙකුගෙන් රු.ලක්ෂ 50ක් වංචා කළ කාන්තාව රිමාන්ඩ්
+### Womanna Piyumalige Remanded Rs. 50
 
 *2024-06-13 13:41:23* · [`adalk`](https://www.ada.lk/breaking_news/තිළිණි-පියුමාලිගෙන්-ඩොලර්-ගන්න-ව්‍යාපාරිකයෙකුගෙන්-රු-ලක්ෂ-50ක්-වංචා-කළ-කාන්තාව-රිමාන්ඩ්/11-410195) · `si`
 
-තිළිණි පියුමාලි නමැත්තියගෙන් ඩොලර් ලබා දෙන බව පවසා ව්‍යාපාරිකයෙකුගෙන් රුපියල් ලක්ෂ 50ක මුදලක් ලබා ගෙන වංචා කළැයි කියන කාන්තාවක් ලබන 26වැනිදා තෙක් රිමාන්ඩ් භාරයේ රඳවා තැබීමට කොළඹ අතිරේක මහේස්ත්‍රාත් තරංගා මහවත්ත මහත්මිය ඊයේ (12දා) නියම කළාය.
+Piyumalige Womanna has been remanded for Rs. 50 by Colombo Additional Magistrate Tharanga Mahawatta. The Mirihana Special Criminal Investigation Unit will probe the case, involving allegations of financial transactions between suspects and complainants. Attorney-at-Law Piyir Mohammed mentioned that the money was transferred to Thilily Piyumali's wife. After investigation, the suspect remains remanded until the 26th of this month.
 
-සිද්ධිය සම්බන්ධයෙන් විමර්ශන කරන බව කියමින් මිරිහාන විශේෂ අපරාධ විමර්ශන ඒකකය කළ ඉල්ලීමක් පිළිගනිමින් මෙලෙස රිමාන්ඩ් භාරයට පත් කරන ලද්දේ කොටිකාවත්ත ප්‍රදේශයේ කුමුදුනී සුදර්ශනී නමැත්තියකි.
+🟩
 
-ව්‍යාපාරිකයකු වන රාගම පදිංචි රංජිත් එදිරිසිංහ මහතා කළ පැමිණිල්ලකට අනුව සිද්ධිය සම්බන්ධයෙන් විමර්ශන කළ මිරිහාන විශේෂ අපරාධ විමර්ශන ඒකකයේ නිලධාරීහු තිළිණි පියුමාලි නමැත්තිය හරහා ඩොලර් ලබා දෙන බව පවසමින් සැකකාරිය පැමිණිලිකරුගෙන් 2023 සැප්තැම්බර් මාසයේදී මෙලෙස මුදල් ලබා ගෙන ඇතැයි දැනුම් දුන්හ.
+Colombo Additional Magistrate Tharanga Mahawatta has been sentenced to Rs.
+
+The Mirihana Special Criminal Investigation Unit was accepted by the Mirihana Special Criminal Investigation Unit, claiming that he will investigate the incident.
+
+According to a complaint lodged with Ranjayana Special Criminal Investigation Unit, the suspects in the Mirihana Special Criminal Investigation Unit of the Mirihana Special Criminal Investigation Unit will be given the dollars in the case of the complainant.
+
+The officials of the Mirihana Special Investigation Unit of the Mirihana Special Investigation Unit of the Mirihana Special Criminal Investigation Unit Rs. 285 Rs.
+
+Attorney-at-Law Piyir Mohammed said that the case was said to the complainant Mohammed, he obtained money from the complainant and gave it to the wife of Thilily Piyumali.
+
+The lawyer who said that the money should be obtained from the province:
 
 ...
 
 [Data](articles/cef5aafe.json)
+
+[Extended Data](ext_articles/cef5aafe.ext.json)
 
 ---
 
@@ -246,21 +272,49 @@ A French official said that while the loan would be mostly U.S.-guaranteed, it c
 
 ---
 
-### සමෘද්ධියට පණ දෙන්න  ජාතික වැඩසටහනක්
+### ලයිටරයට ‌ගිනිපෙට්ටියෙන් විරෝධයක්
+
+*2024-06-13 12:39:50* · [`adalk`](https://www.ada.lk/breaking_news/ලයිටරයට-‌ගිනිපෙට්ටියෙන්-විරෝධයක්/11-410192) · `si`
+
+විදේශී රටවලින් ගෙන්වන ප්ලාස්ටික් ලයිටර් හේතුවෙන් මෙරට නිෂ්පාදනය කරන දේශීය ගිනිපෙට්ටි නිෂ්පාදන කර්මාන්තයට  සිදුවන බලපෑමට විරෝධය  දකවමින් ලංකා ගිනිපෙට්ටි නිෂ්පාදන කර්මාන්ත කරුවන්ගේ සංගමය විසින්  සංවිධානය කරන ලද උද්ගෝෂණයක් අද (13 )මහනුවර ටොරින්ටන් උද්‍යානය ඉදිරිපිටදී පැවැත්විණී.
+
+මෙරට ගිනිපෙට්ටි නිෂ්පාදන ආයතනයන් පිහිටා ඇත්තේ  මහනුවර කුණ්ඩසාලේ හා පල්ලෙකැලේ ආයෝජන ප්‍රවර්ධන කලාපයේ වන අතර , මෙම කර්මාන්තය ආශ්‍රිතව පවුල් දස දහසකට අධික පිරිසක් නිරතව සිටින බවත් මින් බහුතරයක් අඩු ආදායම් ලාභී පවුල්වල තරුණ තරුණියන් වෙති.
+
+නුතනයේ ප්ලාස්ටික් ආශ්‍රිත නිෂ්පාදන සදහා විවිධ නීතිරීති පැනවුවද ඒවා ප්‍රායෝගිකව ක්‍රියාත්මක නොවන බවත්, දේශීය ගිනිපෙට්ටි කර්මාන්ත ආරක්ෂා කර ගැනීම සදහා රජයේ මැදිහත්වීම අවමබව ද උද්ගොෂණයේ නිරත පිරිස් පවසති.
+
+දේශීය කර්මාන්ත රැකදියව් , ගිනිපෙට්ටිය රැකදෙන්න - ලයිටර් ගෙන්වීමට ඉඩ නොදෙන්න, ලෙස විරෝධතා පුවරු දක්වමින් මෙම පිරිස උද්ගෝෂණයේ නිරතවූ අතර බලධාරීන්ගේ අවධානය යොමුකර මෙම ගැටලුව වහා විසදීමට මැදිහත්වෙන ලෙස මොවුන් ඉල්ලා සිටියහ.
+
+◼️
+
+[Data](articles/36e71d04.json)
+
+---
+
+### A national program to revive prosperity
 
 *2024-06-13 12:35:27* · [`adalk`](https://www.ada.lk/breaking_news/සමෘද්ධියට-පණ-දෙන්න--ජාතික-වැඩසටහනක්/11-410191) · `si`
 
-දේශපාලන අත පෙවීම් හා විවිධ ඕනෑ එපා කම් හේතුවෙන් පසුබෑමකට ලක්වූ සමෘද්ධි ව්‍යාපාරය යළි පණ ගැන්වීමට රජය තීරණය කර ඇතැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+The government aims to revitalize the Samurdhi Movement, a key initiative in combating poverty in Sri Lanka, through a national program. This includes empowering the Samurdhi business in two phases: a pilot project funded by the Asian Development Bank, World Bank, and Japanese Social Development Fund; and a broader national effort targeting 12 million families. The pilot projects will focus on specific regions and aim to uplift thousands of families, with significant financial allocations for each phase.
 
-ඔහු අවධාරණය කරන්නේ සමෘද්ධි ව්‍යාපාරය යළි පණගැන්වීම සඳහා ජාතික වැඩපිළිවෙලක් දැනටමත් ආරම්භ කර ඇති බවයි.
+🟩
 
-ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව කියා සිටියේ සමෘද්ධි සංවර්ධන දෙපාර්තුමේන්තුවේ සමෘද්ධි බැංකු මුලස්ථාන හා ප්‍රජා මූල බැංකු කළමනාකරුවන්, සමෘද්ධි වෘත්තිය සමිති නියෝජිතයන් සහ සමෘද්ධි නිලධාරින් සමඟ පැවැත්වු සාකච්ඡාවකට පසුගියදා සහභාගී වෙමිණි. එම සාකච්ඡාව පැවැත්වුණේ ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලය ශ්‍රවණාගාරයේදී.
+The government has decided to restore the Samurdhi Movement who has been respected due to political arrival and diverse due to the recession.
 
-“අලුත් ගමක් - අලුත් රටක්”සුභ සාධක රාජ්‍යයෙන් නිෂ්පාදන රාජ්‍යයක් වෙත යනුවෙන් නව වැඩසටහන නම් කර තිබේ. ඒ සඳහා වන උපායමාර්ගික ක්‍රියාකාරකම් හදුනා ගැනීම දිස්ත්‍රික් මට්ටමින් මේ දිනවල සිදුවෙයි. ඒ අනුව සමෘද්ධි ව්‍යාපාරය සවිබල නැංවීම සඳහා වන යෝජනා එම ක්ෂේත්‍රයේ නියුතුවූවන්ගෙන් ලබා ගැනීමට පියවර ගෙන ඇතැයි ඇමතිවරයා මෙහිදී කීවේය. නව ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමේ මතුවන ගැටළු හදුනා ගැනීම හා ඊට විසඳුම් ලබා දීම එහි අරමුණයි.
+He emphasized that a national program has already begun to revive the Samurdhi business.
+
+Minister Prasanna Ranatunga was held recently. The meeting was held at the District Secretariat at the auditorium.
+
+"A New Tree - New Country. Identification of strategic activities is due to district level. Accordingly, steps have been taken to obtain the Samurdhi business to enforce the Samurdhi business from the persons in the field.. Its purpose is to identify and solve the issues of implementation of the new project.
+
+Samurdhi business is one of the main projects found in Sri Lanka's poverty. The rice ration, food stamp system, food stamps, Janasaviya program, Samurdhi and revenue program were implemented.
+
+Empowering the Samurdhi business is under two phases. It is a pilot project and a national project.
 
 ...
 
 [Data](articles/4f12f0bf.json)
+
+[Extended Data](ext_articles/4f12f0bf.ext.json)
 
 ---
 
@@ -2223,31 +2277,5 @@ Justice, Prison Affairs and Constitutional Reforms Minister, President’s Couns
 [Data](articles/1a8ac978.json)
 
 [Extended Data](ext_articles/1a8ac978.ext.json)
-
----
-
-### Cabinet approval for vehicle imports for tourism
-
-*2024-06-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185955) · `ta`
-
-The Sri Lankan Cabinet has approved rules for importing vehicles for tourism, reversing a suspension on motor vehicle imports. This decision follows a proposal by the Minister of Tourism and Land, allowing 250 small buses and 75 vans to be imported. The move aligns with the President's economic services and national policy directives, ensuring adherence to quality control regulations under the Import and Export (Control) Act.
-
-🟩
-
-Cabinet Spokesperson Minister Bandula Gunawardena said that the Cabinet approval has been approved to submit the rules for importing vehicles for the tourism sector.
-
-He further stated that the weekly press conference to announce the Cabinet decisions was held on Wednesday (12).
-
-According to the second import and export control regulation of 2023, the importation of motor vehicles to Sri Lanka has been suspended.
-
-However, according to the proposal put forward by the Minister of Tourism and Land, permission was granted permission at a Cabinet meeting held on April 1 to transport 250 small buses and 75 vans.
-
-The proposal made by the President as the Minister of Finance Economic Services and the National Policy Minister has been approved by the Cabinet to submit the regulations issued by the Special Gazette Notification.
-
-...
-
-[Data](articles/a66caeeb.json)
-
-[Extended Data](ext_articles/a66caeeb.ext.json)
 
 ---

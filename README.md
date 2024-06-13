@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 20:34:42**
+As of **2024-06-13 20:53:21**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 4,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,241 (100.0%) of 30,244 articles have been extended.
+30,244 (100.0%) of 30,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### කටුනායක විදෙස් මුදල් ජාවාරම උකුස්සා හෙළිකරයි
+### Katunayake Foreign Money Sugar
 
 *2024-06-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197729) · `si`
 
-අධි ආරක්ෂිත කලාපයක් වන කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළ තුළ නීතිවිරෝධි අයුරින් විදෙස් මුදල් මිලදී ගන්නා හා හුවමාරු කරන ජාවාරමක් පිළිබඳව අද දෙරණ 'උකුස්සා' ට තොරතුරු ලැබුණි.
+Ada Derana reports on a racket involving illegal foreign currency exchange at Katunayake airport, a high-security zone reserved for licensed banks and authorized financial institutions. The operation targets arrivals from the Middle East, bypassing Sri Lanka's banking system, affecting the country's foreign currency reserves. Authorities are urged to address this issue promptly.
 
-විදෙස් මුදල් මිලදීගැනීම, අලෙවි කිරීම හා හුවමාරු කිරීමට අවසර හිමිවන්නේ ශ්‍රී ලංකා මහ බැංකුවේ අනුමත බලපත්‍ර ලාභී බැංකු සහ බලයලත් මුදල් හුවමාරු කිරීමේ ආයතන සඳහා පමණි.
+🟩
 
-එවන් පසුබිමක මෙරට තුළ ඇති ප්‍රධානතම ගුවන්තොටුපොළ තුළදී නීතිවිරෝධී අයුරින් විදෙස් මුදල් මිලදී ගන්නා කන්ඩායමක් පිළිබඳව අද දෙරණ උකුස්සාට රහසිගත තොරතුරක් ලැබුණි.
+Ada Derana has a racket to buy and exchanges foreign currency at the Katunayaka International Airport, a high security zone.
 
-දිවයිනට වැඩිපුරම ගුවන්යානා පැමිණෙන අලුයම 2ත් 4ත් අතර කාලයේදී උකුස්සා ගුවන්තොටුපොළ වෙත ළඟාවුණි.
+Only for the approved licensed banking and authorized financing agencies allowed to purchase foreign currency.
 
-එහිදී දැකගත හැකිවුණේ අධි ආරක්ෂිත ස්ථානයක් වන ගුවන්තොටුපොළ තුළ පිරිසක් කිසිඳු පැකිලීමකින් තොරව විදෙස් රටවල සිට පැමිණෙන දෙස් විදෙස් පුද්ගලයන්ගෙන් විදෙස් මුදල් මිලදී ගන්නා ආකාරයයි.
+In such a background, Ada Derana had a confidential information about a group that purchases a team that purchases foreign currency illegally.
 
-මැදපෙරදිග සිට පැමිණෙන ලාංකික කාන්තාවන් මොවුන්ගේ ප්‍රධානතම ඉලක්කය බව එම ස්ථානයේ රැඳී සිටි පුද්ගලයන් කිහිප දෙනකුම උකුස්සාට අනාවරණ කළේය.
+The island mostly arrived at the Uklassa Airport between the early hours of the aircraft.
+
+There, a high-security location, a high-security place, buy foreign currencies from local overseas, without hesitation from foreign countries.
+
+Several people who have remained the main target from the Middle East have revealed the Ukunsa.
+
+The foreign currencies should come into the country through the banking system of Sri Lanka, but it is not properly due to such personnel.
+
+This is the influence of the centers of the Sri Lankan banking and the number of foreign currency reserves.
 
 ...
 
 [Data](articles/7c0c738d.json)
 
+[Extended Data](ext_articles/7c0c738d.ext.json)
+
 ---
 
-### කාසියේ වාසිය නෙදර්ලන්තයට
+### To the Netherlands the toss of the coin
 
 *2024-06-13 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197728) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරඟාවලියේ ඩී කාණ්ඩයේ බංග්ලාදේශ සහ නෙදර්ලන්තය අතර තරඟය අද (13) පැවැත්වෙයි.
+In the T20 World Cup match today, Bangladesh faces the Netherlands. The Netherlands won the toss and chose to bowl first.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට නෙදර්ලන්තය සමත්වූ අතර ඔවුන් පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+🟩
+
+The match between the Bangladesh and the Netherlands in the T20 World Cup will be held today (13).
+
+The Netherlands scored the toss and win the bowling first.
 
 ◼️
 
 [Data](articles/1e57178a.json)
+
+[Extended Data](ext_articles/1e57178a.ext.json)
 
 ---
 
@@ -232,19 +248,31 @@ Stades of the Statistics Association further stated that although the authoritie
 
 ---
 
-### කෝටි 41ක් වංචා කළ ව්‍යාජ විදේශ රැකියා නියෝජිතයන් ගැන පැමිණිලි
+### Fake foreign employment agents complained about 41 crores
 
 *2024-06-13 18:44:03* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-41ක්-වංචා-කළ-ව්‍යාජ-විදේශ-රැකියා-නියෝජිතයන්-ගැන-පැමිණිලි/11-410202) · `si`
 
-රුපියල් හතලිස් එක් කෝටි දහ නව ලක්ෂ හැත්තෑ තුන් දහස් දෙසිය හතලිස් නවයක මුදලක් අන්තර්ජාලය ඔස්සේ හදුනා ගත් ව්‍යාජ රැකියා නියෝජිතයන් ලෙස පෙනී සිටි පුද්ගලයන් විසින් තමන් රවටා ලබා ගත් බවට වූ පැමිණිළි 119 ක් ඉකුත් 2023 වසරේ සහ 2024 වසරේ දී මීගමුව විශේෂ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රෝහණ මුණසිංහ මහතා මේ පිළිබඳව සිදු කළ විමසීමක දී 06/13 දින පැවසීය.
+Foreign employment agents in Negombo, Sri Lanka, have defrauded millions from citizens seeking jobs in Europe, Australia, Japan, New Zealand, and France. Preliminary investigations reveal these agents issued temporary visas and sent victims to India, Singapore, and Dubai under false pretenses. The Negombo Special Criminal Investigation Division has received 95 complaints in 2024, leading to 24 arrests. Authorities urge job seekers to use registered agencies to avoid scams.
 
-මෙම පැමිණිළිකරුවන් , කිසිදා තමන් සජීවීව දැක නොමැති , අන්තර්ජාලයේ ෆේස්බුක් ඔස්සේ හදුනා ගෙන  තිබූ ව්‍යාජ රැකියා නියෝජිතයන් බවත් , ඔවුන්  විසින්  යුරෝපයට , ඕස්ට්‍රේලියාවට , ජපානයට , ඉතාලියට , නවසීලන්තය සහ ප්‍රංශය වැනි සංවර්ධන වූ රටවලට  යවන බවට පොරොන්දු වී මෙම මුදල් වංචනික ලෙස රවටා ලබා ගෙන ඇති බව මීගමුව විශේෂ අපරාධ විමර්ශන අංශයේ නිලධාරීන් සිදු කළ මූලික විමර්ශන වලදී අනාවරණය වී තිබේ.
+🟩
 
-මෙම ව්‍යාජ රැකියා නියෝජිතයන් මෙම පැමිණිළිකරුවනගෙන් ඇතැම් පිරිසක්  රවටා මුදල් ලබා ගැනීමෙන් පසු ඔවුන් තාවකාලික වීසා බලපත්‍ර සකස් කර  ඉන්දියාව , සිංගප්පූරුව සහ ඩුබායි වෙත රැගෙන ගොස් අතරමං කර දමා පළා ගොස් තිබුණි .
+The OIC of the Negombo Forty Independence Police Chief Police Chief PoliceInspector Rohana Munasinghe, Mr. Rohana Munasinghe said about this, he said.
+
+These money has been deceitful to Europe, Australia, Japan, New Zealand, New Zealand, New Zealand, France, and France.Preliminary investigations have been revealed in the event of the Negombo Special Criminal Investigation Division.
+
+These false employment representatives have prepared temporary visas after they deceived money by deceived money and were taken to India, Singapore and Dubai.
+
+Such complaints received 95 years of the Negombo Special Criminal Investigation Division of 95 in the year.
+
+The total cost of the Negombo has received 45 such complaints so far in 2024.
+
+Some of the complaints were residents of the Negombo Police Division and they have complained against the fake job representatives of Tissamaharama, Tissamaharama, Sri Lanka.
 
 ...
 
 [Data](articles/801edfe8.json)
+
+[Extended Data](ext_articles/801edfe8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 20:19:00**
+As of **2024-06-13 20:34:42**
 
 ## Newspaper Stats
 
-*Scraped **30,241** Articles*
+*Scraped **30,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,74 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,607
+adalk | 2,608
 adaderanalk | 3,428
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,873
+adaderanasinhalalk | 4,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,232 (100.0%) of 30,241 articles have been extended.
+30,241 (100.0%) of 30,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### கொழும்பு, கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம்
+### කටුනායක විදෙස් මුදල් ජාවාරම උකුස්සා හෙළිකරයි
+
+*2024-06-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197729) · `si`
+
+අධි ආරක්ෂිත කලාපයක් වන කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළ තුළ නීතිවිරෝධි අයුරින් විදෙස් මුදල් මිලදී ගන්නා හා හුවමාරු කරන ජාවාරමක් පිළිබඳව අද දෙරණ 'උකුස්සා' ට තොරතුරු ලැබුණි.
+
+විදෙස් මුදල් මිලදීගැනීම, අලෙවි කිරීම හා හුවමාරු කිරීමට අවසර හිමිවන්නේ ශ්‍රී ලංකා මහ බැංකුවේ අනුමත බලපත්‍ර ලාභී බැංකු සහ බලයලත් මුදල් හුවමාරු කිරීමේ ආයතන සඳහා පමණි.
+
+එවන් පසුබිමක මෙරට තුළ ඇති ප්‍රධානතම ගුවන්තොටුපොළ තුළදී නීතිවිරෝධී අයුරින් විදෙස් මුදල් මිලදී ගන්නා කන්ඩායමක් පිළිබඳව අද දෙරණ උකුස්සාට රහසිගත තොරතුරක් ලැබුණි.
+
+දිවයිනට වැඩිපුරම ගුවන්යානා පැමිණෙන අලුයම 2ත් 4ත් අතර කාලයේදී උකුස්සා ගුවන්තොටුපොළ වෙත ළඟාවුණි.
+
+එහිදී දැකගත හැකිවුණේ අධි ආරක්ෂිත ස්ථානයක් වන ගුවන්තොටුපොළ තුළ පිරිසක් කිසිඳු පැකිලීමකින් තොරව විදෙස් රටවල සිට පැමිණෙන දෙස් විදෙස් පුද්ගලයන්ගෙන් විදෙස් මුදල් මිලදී ගන්නා ආකාරයයි.
+
+මැදපෙරදිග සිට පැමිණෙන ලාංකික කාන්තාවන් මොවුන්ගේ ප්‍රධානතම ඉලක්කය බව එම ස්ථානයේ රැඳී සිටි පුද්ගලයන් කිහිප දෙනකුම උකුස්සාට අනාවරණ කළේය.
+
+...
+
+[Data](articles/7c0c738d.json)
+
+---
+
+### කාසියේ වාසිය නෙදර්ලන්තයට
+
+*2024-06-13 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197728) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරඟාවලියේ ඩී කාණ්ඩයේ බංග්ලාදේශ සහ නෙදර්ලන්තය අතර තරඟය අද (13) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට නෙදර්ලන්තය සමත්වූ අතර ඔවුන් පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/1e57178a.json)
+
+---
+
+### St. Anthony's Temple, Kochchikadai, Colombo
 
 *2024-06-13 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/186029) · `ta`
 
-கொழும்பு-13 கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம் வியாழக்கிழமை (13) மாலை அருட்தந்தை பற்றிக் பெரேய்ரா தலைமையில் நடைபெற்றது. பூஜையை அடுத்து ஊர்வலம் புறப்பட்டு செல்வதையும் நிகழ்வில் கலந்துகொண்டோரையும்  காணலாம்.
+St. Anthony's Church in Kochchikadai, Colombo, hosts a procession annually, followed by a pooja ceremony involving participants.
+
+🟩
+
+Colombo-13-year-old St. Anthony's Church. The procession is going to be followed by the pooja and the participants in the event.
 
 ◼️
 
 [Data](articles/5345ca88.json)
+
+[Extended Data](ext_articles/5345ca88.ext.json)
 
 ---
 
@@ -142,19 +184,25 @@ Accordingly, the government has taken steps to suspend the opportunity to obtain
 
 ---
 
-### இரு முச்சக்கர வண்டிகள் நேருக்குநேர் மோதி விபத்து : முச்சக்கர வண்டிகள் பலத்த சேதம்; ஒருவர் காயம்
+### Two -wheelers collided head -on: three -wheelers severe damage;One injury
 
 *2024-06-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186028) · `ta`
 
-ஹட்டன் – நோட்டன் பிரதான வீதியின் வனராஜா பகுதியில் இரு முச்சக்கரவண்டிகள் ஒன்றோடுவொன்று நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் இரண்டு முச்சக்கர வண்டிகளுக்கும் பலத்த சேதம்  ஒருவர் கடும் காயமுற்றுள்ளதாக அட்டன் பொலிஸார் தெரிவித்தனர்.
+In Hatton, two three-wheelers crashed head-on, causing severe damage to both and injuring one passenger. The accident occurred on the Hatton-Notton main road near Vanaraja, involving vehicles coming from Tikoya and Saudwanarajah towards Casalri and Attan respectively.
 
-13ஆம் திகதி வியாழக்கிழமை பிற்பகல் 3.30 மணியளவில் டிக்கோயாவிலிருந்து காசல்ரி பகுதியை நோக்கிச் சென்ற முச்சக்ரவண்டியும் சவுத்வனராஜா பகுதியிலிருந்து அட்டன் நோக்கிச் சென்ற முச்சக்கரவண்டியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-அதிக வேகமே விபத்துக்கான காரணமாக இருக்கலாம் எனத் தெரிவித்த பொலிஸார் விபத்துக்குள்ளான இரு முச்சக்கர வண்டிகளும் கடும் சேதத்திற்குள்ளாகியுள்ளதாகவும் தெரிவித்தனர்.
+Hatton police said that two three -wheelers were severely injured when two three -wheelers collided head -on in the Vanaraja area of ​​Hatton - Notton main road.
+
+A three -wheeler traveling from Tikoya to Casalri area at around 3.30 pm on Thursday 13th and a three -wheeler from Saudwanarajah to Attan.
+
+Police said the two -wheelers were severely damaged.
 
 ◼️
 
 [Data](articles/baac75ae.json)
+
+[Extended Data](ext_articles/baac75ae.ext.json)
 
 ---
 
@@ -181,6 +229,22 @@ Stades of the Statistics Association further stated that although the authoritie
 [Data](articles/c467a410.json)
 
 [Extended Data](ext_articles/c467a410.ext.json)
+
+---
+
+### කෝටි 41ක් වංචා කළ ව්‍යාජ විදේශ රැකියා නියෝජිතයන් ගැන පැමිණිලි
+
+*2024-06-13 18:44:03* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-41ක්-වංචා-කළ-ව්‍යාජ-විදේශ-රැකියා-නියෝජිතයන්-ගැන-පැමිණිලි/11-410202) · `si`
+
+රුපියල් හතලිස් එක් කෝටි දහ නව ලක්ෂ හැත්තෑ තුන් දහස් දෙසිය හතලිස් නවයක මුදලක් අන්තර්ජාලය ඔස්සේ හදුනා ගත් ව්‍යාජ රැකියා නියෝජිතයන් ලෙස පෙනී සිටි පුද්ගලයන් විසින් තමන් රවටා ලබා ගත් බවට වූ පැමිණිළි 119 ක් ඉකුත් 2023 වසරේ සහ 2024 වසරේ දී මීගමුව විශේෂ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රෝහණ මුණසිංහ මහතා මේ පිළිබඳව සිදු කළ විමසීමක දී 06/13 දින පැවසීය.
+
+මෙම පැමිණිළිකරුවන් , කිසිදා තමන් සජීවීව දැක නොමැති , අන්තර්ජාලයේ ෆේස්බුක් ඔස්සේ හදුනා ගෙන  තිබූ ව්‍යාජ රැකියා නියෝජිතයන් බවත් , ඔවුන්  විසින්  යුරෝපයට , ඕස්ට්‍රේලියාවට , ජපානයට , ඉතාලියට , නවසීලන්තය සහ ප්‍රංශය වැනි සංවර්ධන වූ රටවලට  යවන බවට පොරොන්දු වී මෙම මුදල් වංචනික ලෙස රවටා ලබා ගෙන ඇති බව මීගමුව විශේෂ අපරාධ විමර්ශන අංශයේ නිලධාරීන් සිදු කළ මූලික විමර්ශන වලදී අනාවරණය වී තිබේ.
+
+මෙම ව්‍යාජ රැකියා නියෝජිතයන් මෙම පැමිණිළිකරුවනගෙන් ඇතැම් පිරිසක්  රවටා මුදල් ලබා ගැනීමෙන් පසු ඔවුන් තාවකාලික වීසා බලපත්‍ර සකස් කර  ඉන්දියාව , සිංගප්පූරුව සහ ඩුබායි වෙත රැගෙන ගොස් අතරමං කර දමා පළා ගොස් තිබුණි .
+
+...
+
+[Data](articles/801edfe8.json)
 
 ---
 
@@ -276,41 +340,53 @@ Accordingly, a positive answer for their professional issues is expected to be a
 
 ---
 
-### அலங்கார மீன் ஏற்றுமதி மூலம் கடந்த 4 வருடங்களில் 2632 மில்லியன் ரூபா வருமானம்  - அமைச்சர் டக்ளஸ்
+### 2632 million rupees in the last 4 years with decorative fish exports - Minister Douglas
 
 *2024-06-13 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186019) · `ta`
 
-அலங்கார மீன் ஏற்றுமதி மூலம் கடந்த நான்கு வருடங்களில் 2632 மில்லியன் ரூபா (8.52 மில். அமெரிக்க டொலர்) வருமானம் நாட்டுக்கு கிடைத்திருப்பதாக கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Over the past four years, Sri Lanka has earned 2632 million rupees from decorative fish exports, thanks to initiatives by the Ministry of Fisheries. These include providing mother fish, organizing training and trade exhibitions, distributing fish feed, promoting ornamental fish farming among students through associations, and preventing the importation of harmful fish.
 
-அலங்கார மீன் வளர்ப்புத் துறையை அபிவிருத்தி செய்வதற்காக கடற்றொழில் அமைச்சினால் பல்வேறு திட்டங்கள் அமுல்படுத்தப்பட்டு வருகின்றன.
+🟩
 
-அலங்கார மீன் வளர்ப்பில் ஈடுபட்டுள்ளவர்களுக்கு இலங்கை நீர் உயிரின வளர்ப்பு அபிவிருத்தி அதிகார சபையினால் தாய் மீன்கள் வழங்கப்படுகின்றன.
+2632 million rupees in the last four years by decorative fish exports (8.52 mills. Fisheries Minister Douglas Devananda said the country had earned income.
 
-பயிற்சி மற்றும் வர்த்தக பொருட்காட்சிகள் ஏற்பாடு செய்து அவர்களுக்கு சந்தை வாய்ப்பு ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளது. நவீன தொழில்நுட்ப அறிவு வழங்கப்படுகிறது. மீன் உணவு விநியோகிக்கப்படுகிறது.
+Various programs are being implemented by the Ministry of Fisheries to develop the decorative fishing sector.
 
-மாணவர்கள் மத்தியில் அலங்கார மீன் வளர்ப்பை ஊக்குவிப்பதற்காக பாடசாலைகளில் அலங்கார மீன் வளர்ப்பு சங்கங்கள் ஏற்படுத்தப்பட்டுள்ளன.
+Mother fish are provided by the Sri Lanka Hydro Development Authority to those involved in decorative fisheries.
 
-அபாயகர மீன்கள் இறக்குமதி செய்வதை தடுப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது. அத்துடன் மாவட்ட ரீதியாக அலங்கார மீன் வளர்ப்பு சங்கங்கள் உருவாக்கப்பட்டுள்ளன. இவ்வாறு அமைச்சர் தெரிவித்தார்.
+Training and trade exhibitions have been arranged and they have a market opportunity. Is provided with modern technical knowledge. Fish food is distributed.
+
+Ornamental fishing associations have been formed to promote ornamental fish farming among students.
+
+Steps have been taken to prevent the importation of hazardous fish. As well as district ornamental fisheries associations have been formed. The Minister said so.
 
 ◼️
 
 [Data](articles/86402765.json)
 
+[Extended Data](ext_articles/86402765.ext.json)
+
 ---
 
-### மன்னாரிலும் தபால் தொழிற்சங்கத்தினர் சுகயீன போராட்டம்
+### Postal trade unions in Mannar
 
 *2024-06-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186024) · `ta`
 
-ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியின் ஏற்பாட்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் தொழிற்சங்க போராட்டத்திற்கு ஆதரவளிக்கும் முகமாக வியாழக்கிழமை (13) மன்னார் தபாலக ஊழியர்கள் சுகயீன விடுமுறை  போராட்டத்தை முன்னெடுத்துள்ளனர்.
+Mannar postal workers initiated a sick leave protest on 13th, supporting national postal union efforts. They demanded filling over 5,000 vacant positions in the postal sector. However, other services remained operational as management didn't back the strike.
 
-தபால் துறையில் நிலவும் 5 ஆயிரத்திற்கும்   மேற்பட்ட வெற்றிடங்களை நிரப்ப தவறியமை,உரிய பதவி உயர்வு வழங்காமை உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து இன்றைய தினம் போராட்டம் முன்னெடுக்கப்பட்டிருந்தது.
+🟩
 
-குறித்த, போராட்டத்திற்கு அஞ்சல் அதிபர்கள் ஆதரவளிக்காத நிலையில் ஏனைய அஞ்சல் அலுவலக சேவைகள் மன்னார் மாவட்ட அஞ்சல் திணைக்களத்தில் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+The Mannar postal workers on Thursday (13) have launched a sick holiday struggle in support of the union's union struggle nationwide under the organized postal trade union front.
+
+The struggle was carried out today with various demands, including failure to fill more than 5 thousand vacancies in the postal sector.
+
+It is noteworthy that the other post office services were held at the Mannar District Postal Department as the postal principals did not support the struggle.
 
 ◼️
 
 [Data](articles/61e6f17a.json)
+
+[Extended Data](ext_articles/61e6f17a.ext.json)
 
 ---
 
@@ -342,35 +418,47 @@ There are now reports that there are nearly 400,000 Sri Lankans living in Japan 
 
 ---
 
-### தமிழகத்தில் கரையொதுங்கிய அனலைதீவு கடற்றொழிலாளர்களை நாட்டிற்கு அழைத்து வர நடவடிக்கை - உறவினர்களிடம் டக்ளஸ் தெரிவிப்பு
+### Douglas reports to relatives to bring in the country in Tamil Nadu
 
 *2024-06-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186022) · `ta`
 
-காலநிலை சீர்கேடு மற்றும் இயந்திரக் கோளாறு போன்றவை காரணமாக தமிழகத்தில் கரையொதுங்கிய அனலைதீவு கடற்றொழிலாளர்களை இலங்கைக்கு அழைத்து வருவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாக கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Due to climate and machinery issues, Tamil Nadu's Analytivu fishermen are being brought to Sri Lanka under the initiative of Fisheries Minister Douglas Devananda. This move comes after the fishermen faced tensions from naval searches.
 
-அனலைதீவு கடற்பரப்பில் இருந்து கடந்த ஜூன் மாதம் 10 ஆம் திகதி  திங்கட்கிழமை மாலை 5.00 மணியளவில் கடற்றொழிலுக்கு சென்ற குறித்த இருவரும் கரை திரும்பாத காரணத்தினால் பதற்றம் ஏற்பட்டிருந்ததுடன், அனலைதீவு கடற்பரப்பெங்கும் கடற்படையினர் மற்றும் கடற்றொழிலாளர்களால் தீவிர தேடுதல் முன்னெடுக்கப்பட்டு வந்த நிலையில், தேடப்பட்டுவந்த இருவரும் தமிழக கடற்பரப்பில் கரையொதுங்கிய தகவல் கிடைக்கப்பெற்றது.
+🟩
 
-இந்நிலையில் குறித்த இருவரது குடுப்பத்தினர் இன்று வியாழக்கிழமை (13) அமைச்சர் டக்ளஸ் தேவானந்தாவை சந்தித்து இருவரையும் இலங்கைக்கு அழைத்துவர நடவடிக்கை எடுத்து தருமாறு கோரிக்கை விடுத்துள்ள நிலையில், கடற்றொழில் அமைச்சரினால் சம்மந்தப்பட்ட அதிகாரிகள் மூலம் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+Minister of Fisheries Douglas Devananda said that steps are being taken to bring the Analytivu fishermen to Sri Lanka in Tamil Nadu due to climate disorder and mechanical disorder.
+
+The two had gone to the fishing industry on Monday, June 10, June 10, and had been tense due to the fact that the two were searched by the Navy and fishermen.
+
+In this backdrop, the two men have been asked to meet Minister Douglas Devananda on Thursday (13) and have taken action to take action to bring the two to Sri Lanka.
 
 ◼️
 
 [Data](articles/e5bb046f.json)
 
+[Extended Data](ext_articles/e5bb046f.ext.json)
+
 ---
 
-### மற்றுமொரு ரயில் தடம் புரள்வு ; மலையக ரயில் சேவைகள் பாதிப்பு
+### Another train derailment;Mountain Rail Services Victim
 
 *2024-06-13 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186020) · `ta`
 
-பதுளையில் இருந்து கொழும்பு நோக்கி பயணித்த ரயில் தலவாக்கலைக்கும் வட்டகொடைக்கும் இடையில் இன்றையதினம் மாலை தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+A train from Badulla to Colombo derailed near Thalawakkal, causing delays as repairs are underway. Additionally, a train in Panadura was stuck and moved along the coastal line.
 
-ரயில் தடம் புரண்டதன் காரணமாக மலையக ரயில் சேவைகள் தாமதமாகும் எனவும், ரயில் சேவையை வழமைக்கு கொண்டு வர தண்டவாளங்களை சரி செய்ய இன்னும் பல மணி நேரம் ஆகும் எனவும் ரயில்வே திணைக்களம் மேலும் தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, இன்றைய தினம் காலை பாணந்துறையில் ரயில் ஒன்று தடம்புரண்டதால், கரையோர ரயில் மார்க்கத்தில் ஒருவழி பாதையில் மாத்திரம் ரயில் போக்குவரத்து முன்னெடுக்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+The Railway Department has said that the train traveling from Badulla to Colombo has been derailed this evening between Thalawakkal and Vattakoda.
+
+The Railway Department said that the railway services will be delayed due to the train derailment and it will take several more hours to repair the rails to bring the train service to normal.
+
+Meanwhile, this morning, a train in Panadura has been blocked, and the train is being carried out on the coastal railway line only.
 
 ◼️
 
 [Data](articles/19dc8ebe.json)
+
+[Extended Data](ext_articles/19dc8ebe.ext.json)
 
 ---
 
@@ -418,51 +506,75 @@ Fernando further stated that although the government carried out rehabilitation 
 
 ---
 
-### உமாபதி ராமையா நடிக்கும் 'பித்தல மாத்தி'
+### Umapati Ramaiah starrer 'Pithala Mathi'
 
 *2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186017) · `ta`
 
-நடிகர் உமாபதி ராமையா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'பித்தல மாத்தி' எனும் திரைப்படம், ஜூன் 14-ஆம் திகதியன்று பட மாளிகையில் மீண்டும் வெளியிடப்படுகிறது.
+"Umapati Ramaiah's 'Pithala Mathi,' initially overlooked due to its release in a smaller theater, is set for a re-release on June 14th. Despite initial lackluster reception, the team, including Bala Saravanan, Vinitha Lal, and others, believes in the story. Some scenes have been re-filmed, and there's optimism about its success, especially with the involvement of Umapati Ramaiah and Aishwarya Arjun. Producer Saravanan, despite health issues during production, remains hopeful for the film's future."
 
-அறிமுக இயக்குநர் மாணிக் வித்யா இயக்கத்தில் உருவாகி இருக்கும் 'பித்தல மாத்தி' எனும் திரைப்படத்தில் உமாபதி ராமையா, பால சரவணன், வினிதா லால், தம்பி ராமையா, தேவதர்ஷினி, ஆடுகளம் நரேன், காதல் சுகுமார், வித்யூலேகா ராமன், முல்லை, கோதண்டம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌ எஸ். என். வெங்கட் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மோசஸ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஸ்ரீ சரவணா ஃபிலிம் ஆர்ட்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஜி.சரவணன் தயாரித்திருக்கிறார்.
+🟩
+
+Actor Umapati Ramaiah is the hero of the story, 'Pithala Mathi', which is the leading role of the story, will be re-released on June 14 at the film House.
+
+Umapati Ramaiah, Bala Saravanan, Vinitha Lal, Thambi Ramaiah, Devadarshini, Aadukalam Narain, Kalla Sukumar, Vidyuleka Raman, Mullai, Gotham. My. Moses has composed the film, which has been recorded by Venkat. The film was produced by producer G. Saravanan on behalf of Sri Saravana Film Arts.
+
+The film was also featured in many films released in the end of December 2021. The film was released at a fewer film mansion and failed to attract the attention of fans. Due to the confidence of the producer and film crew on the story, some of the scenes in the film have been re -filmed and renamed 'Pithala Mathi' and are currently being released in more filmmakers.. The film crew also feels that the film will be released in the film at the time of her marriage to the hero of the film, Umapati Ramaiah and Arjun's daughter Aishwarya Arjun.
 
 ...
 
 [Data](articles/2ea5e4c7.json)
 
+[Extended Data](ext_articles/2ea5e4c7.ext.json)
+
 ---
 
-### மகாராஜா- விமர்சனம்
+### Maharaja- Review
 
 *2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186014) · `ta`
 
-நடிகர்கள் : விஜய் சேதுபதி, அனுராக் காஷ்யப், மம்தா மோகன்தாஸ், அபிராமி, நட்டி என்கிற நட்ராஜ், சிங்கம் புலி, முனிஸ்காந்த், வினோத் சாகர் மற்றும் பலர்.
+"Maharaja," starring Vijay Sethupathi and Anurag Kashyap, revolves around a hair correction center owner whose daughter faces a threat from a mysterious gang. The plot explores themes of good versus evil, with Sethupathi seeking revenge against Kashyap's character. Despite strong performances, especially from Sethupathi and Kashyap, the narrative suffers from logical inconsistencies and slow pacing initially.
 
-குரங்கு பொம்மை என்ற படத்தின் மூலம் கவனம் ஈர்த்த படைப்பாளி நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி இருக்கும் படம் என்பதாலும், மக்கள் செல்வன் விஜய் சேதுபதி நடிப்பில் தயாராகி இருக்கும் அவரது ஐம்பதாவது திரைப்படம் என்பதாலும் மகாராஜா படத்தின் முன்னோட்டம் வெளியிடப்பட்டு இது வன்முறை மிகுந்த திரில்லர் திரைப்படம் என்ற எதிர்பார்ப்பை ஏற்படுத்தியதாலும் மகாராஜா படத்திற்கு ரசிகர்களிடையே பெரும் எதிர்பார்ப்பு இருந்தது. அதனை இந்தத் திரைப்படம் முழுமையாக பூர்த்தி செய்ததா இல்லையா என்பதை தொடர்ந்து காண்போம்.
+🟩
+
+Actors: Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas, Abirami, Nati alias Natraj, Lion Tiger, Muniskant, Vinod Sagar and many others.
+
+The film was a film directed by the creator Nithilan Saminathan, who was produced by Vijay Sethupathi, who was making his fiftieth film, and the preview of the Maharaja film was released by the Maharaja film.. We will continue to see whether the film has completed it or not.
+
+Maharaja (Vijay Sethupathi), who runs a hair correction center in Chennai, complains at the police station that he is not found in his house.. What is the emotional relationship between the trash and the Maharaja family?What is its background?As the police begin to investigate. Maharaja also offers incentives for police investigation. In the aftermath of the investigation, a mysterious gang carries a stressful act to Maharaja's daughter Jyoti. What is that act?Who is that mob?Did the police find them? What was the reaction of the Maharaja?This is the story of the film.
 
 ...
 
 [Data](articles/315c049a.json)
 
+[Extended Data](ext_articles/315c049a.ext.json)
+
 ---
 
-### அரசாங்கத்தின் நலன்புரி வேலைத்திட்டங்களின் பயன் விரைவாக மக்களை சென்றடைவதற்கு நடவடிக்கை எடுக்க வேண்டும் - மாகாண ஆளுநர்களிடம் ஜனாதிபதி வேண்டுகோள்
+### The benefit of the government's welfare programs should be taken to reach the people quickly - the President's request to provincial governors
 
 *2024-06-13 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186011) · `ta`
 
-அரசாங்கத்தினால் நடைமுறைப்படுத்தப்படும் நலன்புரித் திட்டங்களை வினைத்திறனுள்ளதாக்கி அதன் பயன்களை மக்களுக்கு துரிதமாக வழங்குவதற்கு ஆளுநர்கள் பங்களிக்க வேண்டுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the urgency and importance of government welfare programs reaching people swiftly, highlighting discussions with provincial governors on addressing teacher shortages and enhancing the Urumaya Land Confirmation Scheme. The President also mentioned the potential expansion of services to improve efficiency and the commitment to resolve teacher shortages through targeted appointments and contracts. Additionally, he discussed the Presidential Scholarship Program, aiming to provide financial support to over 35,000 students across various provinces, emphasizing the government's dedication to educational opportunities for low-income families.
 
-மாகாண ஆளுநர்களுடன் நேற்று புதனகிழமை (12) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே  ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-மாகாண மட்டத்தில் உள்ள ஆசிரியர் பற்றாக்குறையை விரைவாகத் தீர்க்க எடுக்கப்பட வேண்டிய நடவடிக்கைகள் மற்றும் உறுமய  காணி உறுதி வழங்கும் திட்டத்தின்  வினைத்திறன் என்பன குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டது.
+President Ranil Wickremesinghe said the governors should contribute to the government's benefit to the people and the benefits of the government.
 
-உறுமய  காணி உறுதிகளை வழங்கும் வேலைத்திட்டத்தை வினைத்திறன் மிக்கதாக மாற்றுவதற்கு கிராம உத்தியோகத்தர்களுக்கு மேலதிகமாக மற்றுமொரு குழுவிற்கு அதிகாரத்தை வழங்கி  நடமாடும் சேவைகளை நடைமுறைப்படுத்துவதற்கான சாத்தியத்தை ஜனாதிபதி இதன்போது சுட்டிக்காட்டினார்.
+The President made this statement during a discussion held at the Presidential Office yesterday (12) with provincial governors.
 
-இது தொடர்பில் மக்களை ஆர்வமூட்டி, அவர்களுக்கு அந்த நன்மையை வழங்க வேண்டிய பொறுப்பு பிரதேச செயலாளர்களுக்கு வழங்கப்பட்டுள்ளதையும் ஜனாதிபதி ரணில் விக்ரமசிங்க நினைவுகூர்ந்தார்.
+The measures to be taken to address the shortage of teachers at the provincial level and the efficiency of the Urumaya Land Confirmation Scheme were also discussed in detail.
+
+The President pointed out the possibility of implementing the services of the Grama Niladhari in addition to the Grama Niladhari to make the Urumaya Land Confirmation Program as efficient.
+
+President Ranil Wickremesinghe recalled that the people were enthusiastic about this and the responsibility of providing them with the benefit of the Divisional Secretaries.
+
+Minister of Education, Dr. Susil Premjayantha, said that the government was dedicated to resolving the shortage of teachers at the provincial level on July 3.
 
 ...
 
 [Data](articles/36070239.json)
+
+[Extended Data](ext_articles/36070239.ext.json)
 
 ---
 
@@ -2245,83 +2357,5 @@ Meanwhile, the Station OICs Association says that if the authorities do not take
 [Data](articles/802ee17d.json)
 
 [Extended Data](ext_articles/802ee17d.ext.json)
-
----
-
-### IMF says the economy is still at risk
-
-*2024-06-13 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197704) · `si`
-
-The IMF approves a second review for Sri Lanka's comprehensive loan facility, committing to a third installment of $336 million. Despite positive signs like restored economy, low inflation, and improved income, the Deputy Managing Director warns of ongoing risks and emphasizes the need for debt restructuring, financial discipline, and central bank independence.
-
-🟩
-
-The IMF was approved for the second review of the comprehensive loan facility, introduced to Sri Lanka.
-
-It is reported that the International Monetary Fund Executive has issued the approval yesterday (12).
-
-Accordingly, the third installment of the International Monetary Fund for 48 months has been decided to hand over the third installment to Sri Lanka.
-
-The third installment will be given US $ 336 million to Sri Lanka.
-
-On March 20, 2023, the International Monetary Fund Executive was agreed to provide nearly US $ 33 billion in Sri Lanka over a 48-month period.
-
-The first installment was obtained as the first installment of US $ 337 million and the US International Monetary Fund to Sri Lanka at present.
-
-After approving the second installment of the Comprehensive Credit Facilitation Project, which was introduced by the International Monetary Fund Executive to Sri Lanka yesterday, issued a special statement.
-
-...
-
-[Data](articles/52d5a456.json)
-
-[Extended Data](ext_articles/52d5a456.ext.json)
-
----
-
-### Increase in the elderly population in Sri Lanka
-
-*2024-06-13 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197703) · `si`
-
-Sri Lanka faces a rapid increase in its elderly population, with life expectancy rising to 83 years for women. The government plans significant reforms in healthcare over five years, investing 70 billion to improve primary health institutions and address the challenges posed by an aging society.
-
-🟩
-
-The Ministry of Health states that the elderly population in the country is increasing rapidly.
-
-Medical Palitha Mahipala said that Dr. Palitha Mahipala said in Sri Lanka 79 years old.
-
-Speaking at a media briefing in Colombo
-
-"Our country's aging population is increasing. Sri Lanka, who is growing older aging in Asia, Sri Lanka. Life expectancy in our country is usually 79.7%. According to the new estimate, women were increased to 83 years. Therefore, the adult population increases the rise. It's another problem with us. Therefore, we are carrying out a large reform in primary health institutions within the next 5 years. We hope to spend about 70 billion. Including all provincial council hospital. Also, the survival should be strengthened. Accordingly, the Epidemiology Unit hopes to make a difference. We are doing it under a new program. "
-
-Dr. Ananda Wijewickrama, who joined the press conference, said Dr. Ananda Wijewickrama said that the Sri Lanka's drug deficit was now normal.
-
-◼️
-
-[Data](articles/f58f8e57.json)
-
-[Extended Data](ext_articles/f58f8e57.ext.json)
-
----
-
-### An accident on Southern Expressway - a lane blocked
-
-*2024-06-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197702) · `si`
-
-An accident at the 61st km on Southern Expressway blocked one lane. A fuel spill near Mattala to Kottawa posed a risk. Vehicles heading towards Colombo were diverted to another lane, allowing traffic flow in both directions.
-
-🟩
-
-The 61st kilometer stake in the Southern Expressway was held today (13).
-
-A fuel bowower towards the Mattala to Kottawa has been in danger of a fuel bowl.
-
-One lane, which is running towards Colombo due to the accident, vehicles traveling towards the other lane can move on the other lane.
-
-◼️
-
-[Data](articles/0a084860.json)
-
-[Extended Data](ext_articles/0a084860.ext.json)
 
 ---

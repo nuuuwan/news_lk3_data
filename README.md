@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 10:19:09**
+As of **2024-06-13 10:34:45**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,149 (100.0%) of 30,151 articles have been extended.
+30,151 (100.0%) of 30,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### ජෙෆ්රි ඇලෝෂියස්ගේ විදෙස් ගමන් තහනම තාවකාලිකව අත්හිටුවයි
+### Jeffrey suspended the ban on foreign travel ban
 
 *2024-06-13 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197708) · `si`
 
-පර්පෙචුවල් ට්‍රෙෂරීස්  සමාගම් සමූහයේ සභාපති ජෙෆ්රි ජෝෂප් ඇලෝසියස් යන අයට පනවා තිබෙන විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමට ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් නියෝග කර තිබේ.
+Geoffrey Joseph, chairman of PPPRICA, lifted a temporary foreign travel ban to allow Joseph Aloysius medical treatment in Singapore. This decision was made while the judges overseeing the central bank bond case were abroad from July 1st to September 12th.
 
-මහ බැංකු බැඳුම්කර නඩුවේ, 6 වන විත්තිකරු වන ජෝෂප් ඇලෝසියස් මහතාට වෛද්‍ය ප්‍රතිකාර ලබාගැනීමට සිංගප්පූරුවට යෑම සඳහා එම අවසරය ලබා දී ඇත.
+🟩
 
-ඒ අනුව ජූලි මස 1 වන දින සිට සැප්තැම්බර් මස 12 දක්වා කාලය තුළ විදෙස්ගත වීමට කොළඹ විශේෂ ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අද අවසර ලබාදුනි.
+PPPRICUL TEASSARY GROUP Chairman Geoffrey Joseph is ordered to temporarily remove the foreign travel ban on adequate.
 
-අදාළ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කළ බව ආගමන විගමන පාලකවරයා ඇතුළු බලධාරීන්ට දැනුම් දෙන ලෙසට අමල් පෙරේරා, ආචාර්ය නාමල් පෙරේරා බළල්ලේ සහ ආදිත්‍ය පටබැඳිගේ යන විනිසුරුවන් විසින් නියෝග කළහ.
+In the central bank bond case, the 6th accused Joseph Aloysius has been given to Singapore to seek medical attention.
+
+Accordingly, the three-member panel of judges of Colombo was abroad from 1st July to 12 September 12.
+
+Amal Perera, Dr. Namal Perera, Dr. Namal Perera, Dr. Namal Perera and Aduriya Pathanaage were ordered to inform the authorities that the foreign travel ban was temporarily removed.
 
 ◼️
 
 [Data](articles/d63b32a1.json)
+
+[Extended Data](ext_articles/d63b32a1.ext.json)
 
 ---
 
@@ -216,17 +222,23 @@ Through this contribution, Saudi Arabia joins international communities in suppo
 
 ---
 
-### දෙවැනි සාමාලෝනය අනුමතයි - තෙවැනි වාරිකය ලෙසින් ඇ.ඩො. මිලියන 336ක්
+### Second migrant approval - Third Premium. 336 million
 
 *2024-06-13 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-සාමාලෝනය-අනුමතයි---තෙවැනි-වාරිකය-ලෙසින්-ඇ-ඩො--මිලියන-336ක්/11-410186) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල ලංකාව වෙනුවෙන් ක්‍රියාත්මක කරන විස්තීර්ණ ණය පහසුකමට අදාළව දෙවැනි සාමාලෝනය එම අරමුදලේ විධායක මණ්ඩලය විසින් අනුමත කර තිබේ. ඒ අනුව ශ්‍රී ලංකාවට තෙවැනි ණය වාරිකය නිදහස් කිරිමට එහි විධායක මණ්ඩලය අනුමැතිය හිමිව තිබේ.
+The IMF Executive Board has approved the release of the third loan installment to Sri Lanka, amounting to $336 million. This comes amid Sri Lanka's growing debt exceeding $1 billion under the Vispulic Credit Facility.
 
-මේ අනුව ශ්‍රී ලංකාවට තෙවැනි වාරිකය ලෙස ඇමෙරිකානු ඩොලර් මිලියන 336ක් ලැබීමට නියමිතය. ඒත් සමගම විසතිර්ණ ණය පහසුකම යටතේ ශ්‍රි ලංකාවට ලැබී ඇති ණය ප්‍රමාණය ඇමෙරිකානු ඩොලර් බිලියනය ඉක්මවා ගියේය.
+🟩
+
+The International Monetary Fund has been approved by the Executive Board of the Fund regarding the comprehensive loan facility implemented on behalf of Sri Lanka. Accordingly, the Executive Board has approved the release of the third loan installment to Sri Lanka.
+
+Accordingly, Sri Lanka will receive US $ 336 million as the third premium. At the same time, Sri Lanka's debt exceeded US $ 1 billion under the Vispulic Credit Facility.
 
 ◼️
 
 [Data](articles/bda9cb91.json)
+
+[Extended Data](ext_articles/bda9cb91.ext.json)
 
 ---
 

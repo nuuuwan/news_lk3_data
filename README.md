@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 16:19:10**
+As of **2024-06-13 16:35:25**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,865
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,207 (100.0%) of 30,209 articles have been extended.
+30,209 (100.0%) of 30,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### විදෙස් රැකියා ජාවාරමක් හසුවෙයි
+### Foreign employment racket is found
 
 *2024-06-13 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197719) · `si`
 
-ඊශ්‍රායලයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ නිල්මිණි නමැති කාන්තාවක් විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Nilmini, suspected of violating foreign employment laws, was arrested by the Special Investigation Division. She faces charges related to unauthorized recruitment for Israeli jobs. The Sri Lanka Bureau of Foreign Employment warns against unlicensed agencies and advises checking slbfe.lk for legitimate recruiters.
 
-කතරගම, ගෝතමීගම ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් ඊශ්‍රායලයේ සාත්තු සේවා රැකියාවක් ලබාදෙන බව පවසා රුපියල් 1,689,000 ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශයට සිදුකළ පැමිණිල්ලක් මත මෙම සැකකාරියව ඊයේ (12) අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඒ, අදාළ කාන්තාව කාර්යාංශය වෙත කැඳවා ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව කාර්යාංශ පනත උල්ලංඝනය කිරීම යන චෝදනාව යටතේය.
+Nilmini has been arrested by the Special Investigation Division of the Foreign Employment Bureau.
 
-සැකකාරිය අද (13) හොරණ මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව සඳහන් ය.
+The suspect was a complaint lodged by the Bureau that a woman residing in the Goththegama, Kataragama, has been arrested yesterday (12).
 
-ඊශ්‍රායල් රැකියා ශ්‍රී ලාංකිකයින්ට හිමිවන්නේ දෙරට අතර ඇති අවබෝධතා ගිවිසුමක් අනුව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ මැදිහත්වීමෙන් පමණි.
+It was under the allegations of violating the relevant woman to the Bureau.
 
-ඒ අනුව කිසිඳු බාහිර පුද්ගලයෙකුට ඒ සඳහා මැදිහත් විය නොහැකි බවත් එසේ රැකියා ලබාදීමට හැකි බව පවසා මුදල් අය කරන පුද්ගලයින් පිළිබඳව කාර්යාංශයේ විශේෂ විමර්ශන අංශයට දැනුම් දෙන ලෙසත් කාර්යාංශය මහජනතාවගෙන් ඉල්ලා සිටී.
+The suspect is to be produced before the Horana Magistrate's Court today (13).
 
-...
+Israeli jobs are available only through the intervention of the Sri Lanka Bureau of Memorandum of MoUs.
+
+Accordingly, the Bureau of the Bureau will inform the Bureau of the Bureau about people who cannot intervene in the area and provide employment and provide employment.
+
+Before grant a foreign job or a person, a person or a person has a valid license to recruit a person or passport should be verified to recruit foreign employment.
+
+Although a valid job agency is a valid job agency, the Bureau has further requested the Bureau's foreign employment to obtain information on the website www.slbfe.lk.
+
+◼️
 
 [Data](articles/89ac8831.json)
+
+[Extended Data](ext_articles/89ac8831.ext.json)
 
 ---
 
@@ -67,6 +77,8 @@ Furthermore, one of the compartments of the derailed train had collided with a n
 Meanwhile, a spokesperson for Sri Lanka Railways stated that it will take a considerable amount of time to restore the railway line for regular train operations.
 
 However, the Department of Railways announced that one of the two railway tracks on the coastal line has now been re-opened for train operations.
+
+The train delays will continue further on the coastal line, according to the  department.
 
 ◼️
 
@@ -392,19 +404,31 @@ Meanwhile, the closing date for the applications will be 05 July 2024, according
 
 ---
 
-### රු කෝටි තුන්දහසක ඉදි කිරිම් කිසිදු ප්‍රයෝජනයක් නෑ
+### There is no use for the construction of Rs.
 
 *2024-06-13 14:26:59* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-තුන්දහසක-ඉදි-කිරිම්-කිසිදු-ප්‍රයෝජනයක්-නෑ/11-410198) · `si`
 
-‍මහා භාණ්ඩාගාරයේ රු කොටි තුන්දහසක මුදල් වැය කර රට තුල ඉදි කිරිම් ගණනාවක් සිදු කර ඇති බවත්, එම ඉදි කිරිම් මෙතෙක් කිසිදු ප්‍රයෝජනයකට නොගෙන ඇති බව පරිසර සහ ස්භාවික සම්පත් තිරසර සංවර්ධන කමිටුවේ සමාජික සහ ගම්පහ දිස්ත්‍රික් පා.ම අජිත් මානප්පෙරුම (ස.ජ.බ) මහතා පැවසිය.
+Ajith Khipperuma, an MP, criticized the use of Rs. 400 million allocated for public buildings, highlighting the Treasury's involvement in funding the first floor of Hatton Railway Station's ticket window, which will generate income for the private sector. He emphasized the need for transparency in financial allocations and the necessity for the Treasury to manage funds efficiently.
 
-අජිත් මානප්පෙරුම මන්ත්‍රිවරයා ඒ බැව් කියා සිටියේ (13) දින හැටන් දුම්රිය ස්ථානයට අයත් ඉඩමක නාගරික සංවර්ධන අධිකාරිය මගින් රු මිලියන 400 ප්‍රතිපාදන වැය කර ඉදි කරන ලද තුන් මහල් ගොඩනගැල්ලක් වසර 3 කට ආසන්න කාලයක් කිසිදු ප්‍රයෝජනයකට නොගෙන තිබිම සම්බන්ධයෙන් පරිසර සහ ස්භාවික සම්පත් තිරසර සංවර්ධන කමිටුවේ අවධානය යොමු විමෙන් පසු අදාල ගොඩනැගිල්ල කඩිනමින් ජනතා අයිතියට පත් කිරිම සම්බන්ධයෙන් සොයා බැලිමට එහි පැමිණි අවස්තාවේදිය.
+🟩
 
-එම ගොඩනැගිල්ලේ පළමු මහල හැටන් දුම්රිය ස්ථානයේ ප්‍රවේශපත්‍ර කවුළුව වශයෙන් පවත්වාගෙන යාමටත් , සෙසු මහල් නාගරික සංවර්ධන අධිකාරිය මගින් පෞද්ගලික අංශයේ කටයුතු සදහා ටෙන්ඩර්පත් මගින් ලබා දි එහි අදායම රජයට ලබා ගැනිමට නියමිතය.
+Members of the Environment and Natural Resources Committee that has been carried out in the country and the Treasury has spent Rs.He said.
 
-...
+MP Ajith Khipperuma told the Medical and Natural Resources Sustainable Development Committee regarding the use of Rs. 400 million.It was during the opportunity to look into the public building soon.
+
+The government is due to run the first floor of the Hatton Railway Station as the ticket window in Hatton Railway Station and obtain its income to the private sector.
+
+The MP stated that the Treasury has to be paid to the Treasury to the Treasury and the Ticketing Ticketing Station for Hatton Railway Station.
+
+The first floor of the building was officially handed over to the Railway Department by the Urban Development Authority of the Urban Development Authority after the observation of the new building.
+
+The Railway Department has also participated in this situation and the UDA officials.
+
+◼️
 
 [Data](articles/6de0d007.json)
+
+[Extended Data](ext_articles/6de0d007.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 02:19:16**
+As of **2024-06-14 02:34:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,281 (100.0%) of 30,287 articles have been extended.
+30,287 (100.0%) of 30,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -400,41 +400,53 @@ The Sri Lanka Railway Station Masters’ Union also expressed that it is regrett
 
 ---
 
-### கிராம உத்தியோகத்தர்களின் புதிய சேவை யாப்புக்கு அரசாங்க சேவை ஆணைக்குழு அங்கீகாரம் அளித்துள்ளது - அசோக்க பிரியந்த
+### Government Service Commission has approved the new service of the Grama Niladhari - Ashoka Priyantha
 
 *2024-06-13 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186031) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அமைச்சரவையின் அங்கீகாரத்தின் பின்னர் கிராம உத்தியோகத்தர்களின் புதிய சேவை யாப்பு அரசாங்க சேவை ஆணைக்குழுவினால் அங்கீகரிக்கப்பட்டுள்ளதாக உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக்க பிரியந்த தெரிவித்தார்.
+The Government Service Commission has approved a new service for Grama Niladharis, led by Minister of State Ashoka Priyantha. This follows Cabinet approval under President Ranil Wickremesinghe. The new service allows for potential amendments. Major projects like "Urumaya" and "Ashemu," along with re-development efforts in villages and cities, are underway. The government is also strengthening public services, recruiting Grama Niladharis for 1942 divisions, and training them. Despite challenges, including a disaster during a Grama Niladhari trade union action, progress is noted, especially in providing safe food through rural food security groups.
 
-அவசியம் ஏற்படுமாயின் இந்தப் புதிய யாப்பில் திருத்தங்களைச் செய்வதற்கும் சந்தர்ப்பம் ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளதாக இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 13ஆம் வியாழக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் அசோக்க பிரியந்த இதனைத் தெரிவித்தார்.
+Minister of State for Home Affairs Ashoka Priyantha said that after the approval of the Cabinet headed by President Ranil Wickremesinghe, the new Service of Grama Niladhari has been approved by the Government Service Commission.
 
-“தற்போது, அரசாங்கம் “உறுமய” மற்றும் “அஸ்வெசும” உள்ளிட்ட பல முக்கிய திட்டங்களை செயல்படுத்தியுள்ளது. அத்துடன் கடந்த காலத்தில் நிறுத்தப்பட்ட பல அபிவிருத்தித் திட்டங்கள் தற்போது ஆரம்பிக்கப்பட்டுள்ளன. பன்முகப்படுத்தப்பட்ட நிதி ஒதுக்கீடுகள் மூலம் கிராமம் மற்றும் நகரங்களில் மீண்டும் அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன.
+The Minister of State said that if necessary, this new Yap has been given the opportunity to make amendments.
 
-அதற்கு ஆதரவளிப்பது அரச அதிகாரிகளின் பொறுப்பாகும். எனவே மக்களுக்கான கடமைகளை நிறைவேற்ற முடியுமான இந்த சந்தர்ப்பத்தில் நாம் அனைவரும் நமது கடமையை செய்ய வேண்டும்.
+State Minister Ashoka Priyantha made this statement at a media briefing held at the Presidential Media Center on Thursday 13th.
+
+Currently, the government has implemented a number of major projects, including “Urumaya” and “Ashemu”. As well as many development projects that have been stopped in the past. Re -development work has been started in the village and cities through diverse funding.
+
+It is the responsibility of state officials to support it. So we must all do our duty on this occasion where the duties of the people can be fulfilled.
 
 ...
 
 [Data](articles/83dad7a3.json)
 
+[Extended Data](ext_articles/83dad7a3.ext.json)
+
 ---
 
-### நுவரெலியாவில் உடலின் கீழ் பகுதி இல்லாமல் குழந்தையின் சடலம் மீட்பு!
+### Baby's corpse recovery without the lower part of the body in Nuwara Eliya!
 
 *2024-06-13 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186030) · `ta`
 
-நுவரெலியாவில் பிறந்து சில நாட்களேயான இதுவரை அடையாளம் காண முடியாத ஒரு சிறிய குழந்தையின் சடலம் கீழ்பாகம் இல்லாமல் நுரைவெளி போரலந்த ஓடை அருகில் 13ஆம் திகதி வியாழக்கிழமை கண்டுபிடிக்கப்பட்டுள்ளதாக நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+In Nuwara Eliya, a baby's body was discovered near a canal on 13th, missing its lower half. The police, alerted by locals, are searching for the parents and conducting a post-mortem examination.
 
-கால்வாய்க்கு அருகில் குழந்தையின் சடலம் ஒன்று இருப்பதாக பொரலந்த பிரதேசவாசிகளிடமிருந்து நுவரெலியா பொலிஸாருக்கு கிடைத்த தொலைபேசிச் செய்தியின் பிரகாரம், நுவரெலியா பொலிஸ் குற்றப் புலனாய்வுப் பிரிவும் பொலிஸ் அதிகாரிகளும் ஸ்தலத்திற்கு வருகைதந்த கால்வாய்க்கு அருகில் குழந்தையின் சடலத்தை கண்டெடுத்தார்கள்.
+🟩
 
-சம்பவம் தொடர்பில் பிரதேசத்தில் உள்ள அனைத்து வைத்தியசாலைகள் மற்றும் பொலிஸாருக்கு அறிவித்ததை அடுத்து, உயிரிழந்த சிசுவின் பெற்றோரை தேடும் நடவடிக்கைகளை நுவரெலியா பொலிஸார் முன்னெடுத்துள்ளனர்.
+The body of a small child who was born in Nuwara Eliya was found on Thursday, 13th, near the foam, without a lower case.
 
-நுவரெலியா பதில் நீதவான் ஜயமினி அம்பகஹவத்த விசாரணைகளை மேற்கொண்ட பின்னர் சிசுவின் சடலத்தை நுவரெலியா மாவட்ட பொது வைத்தியசாலைக்கு எடுத்துச் சென்று பிரேத பரிசோதனையை மேற்கொண்டு குழந்தையின் சடலத்தை பிரேத அறையில் வைக்குமாறு உத்தரவிட்டார்.
+According to a telephone message received by the Nuwara Eliya Police from the residents of Boralanda area, the Nuwara Eliya Police Criminal Investigation Department and the police officers found the body of the child near the canal.
+
+Nuwara Eliya Police have taken steps to look for the parents of the dead infant after the incident was reported to all hospitals and police in the area.
+
+After investigating the Nuwara Eliya Magistrate Jayamini Ambakahawatta, the body of the infant was taken to the Nuwara Eliya District General Hospital and ordered the post -mortem to be placed in the autopsy.
 
 ◼️
 
 [Data](articles/836fb823.json)
+
+[Extended Data](ext_articles/836fb823.ext.json)
 
 ---
 
@@ -982,21 +994,31 @@ Steps have been taken to prevent the importation of hazardous fish. As well as d
 
 ---
 
-### நாளை 2 மணிக்குள் சாதகமான பதிலின்றேல் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவோம் - ரயில் நிலைய அதிபர் சங்கம்
+### We will engage in trade union action at 2 pm tomorrow - Railway Station Chancellor Association
 
 *2024-06-13 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186016) · `ta`
 
-பேச்சுவார்த்தைகள் ஏதும் இல்லாமல் பொது பயணிகளை அசௌகரியங்களுக்கு உள்ளாக்கும் வகையில் பணிப்புறக்கணிப்பில் ஈடுபடும் தொழிற்சங்கங்களின் கோரிக்கைகள் நிறைவேற்றப்படுவதை அவதானித்துள்ளோம்.
+Trade union action is scheduled for 2 pm tomorrow at the Railway Station Chancellor Association due to unresolved demands and perceived injustices. The association, led by Chairman Somatha Somatna, has communicated with the Ministry of Transport about the lack of negotiation regarding the needs of various railway sectors, including drivers and computer management. Despite efforts to address these issues since 2012, progress has been minimal, affecting both workers and passengers.
 
-முன்வைக்கப்பட்டுள்ள கோரிக்கைகளுக்கு வெள்ளிக்கிழமை (14) பிற்பகல் 02 மணிக்குள் சாதகமான பதில் கிடைக்காவிடின் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுவோம் என ரயில் நிலைய அதிபர் சங்கத்தின் தலைவர் சுமேத சோமரத்ன போக்குவரத்து அமைச்சுக்கு அறிவித்துள்ளார்.
+🟩
 
-ஒரே சேவைக்கட்டமைப்பில் உள்ளடங்கும் ரயில்  நிலைய அதிபர், ரயில் ஒழுங்குப்படுத்தல்,ரயில்  சாரதிகள், கணிகாணிப்பு முகாமைத்துவம் உள்ளிட்ட பிரிவுகளில் ரயில் நிலைய அதிபர் பிரிவு வேண்டுமென்றே புறக்கணிக்கப்படுகிறது.
+We have observed that the demands of the unions who are engaged in the workplace are being met with no negotiations.
 
-ஏனைய பிரிவுகளுக்கு அமைச்சரவையின் அங்கீகாரத்தை பெற்றுக் கொண்டு ஐந்து வருடங்களுக்கும் மேலாக பதவி உயர்வு வழங்குவதில் ரயில்  நிலைய அதிபர்களுக்கு பாரிய அநீதி இழைக்கப்பட்டுள்ளது.
+The Chairman of the Railway Station Principal Association, Somatha Somatna, has informed the Ministry of Transport to the Ministry of Transport.
+
+The Railway Principal Division is deliberately ignored in sections including the Railway Station, Railway Regulation, Railway Drivers and Computer Management.
+
+Railway principals have been given massive injustice to other sections of the Cabinet for more than five years.
+
+To address this injustice, we instructed all parties in writing on 01.01.2012 to take steps to recruit the railway principals once a year.
+
+In this regard, there were repeated talks with the top officials of the Department, including the General Manager of the Railway Department, the Minister of Transport and the Secretary of the Ministry.
 
 ...
 
 [Data](articles/22370a5f.json)
+
+[Extended Data](ext_articles/22370a5f.ext.json)
 
 ---
 
@@ -1072,19 +1094,31 @@ In this backdrop, the two men have been asked to meet Minister Douglas Devananda
 
 ---
 
-### சர்வதேச நாணய நிதியத்துடன் இலங்கையின் நிதிச் செயலாற்றுகை பலமடைந்துள்ளது - சர்வதேச நாணய நிதியம்
+### Sri Lanka's financial activities with the IMF - the International Monetary Fund
 
 *2024-06-13 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186023) · `ta`
 
-சர்வதேச நாணய நிதியத்தின்  நீடிக்கப்பட்ட  செயற்திட்டத்துக்கு அமைய இலங்கைக்கு மூன்றாவது தவணை நிதி விடுவிக்க புதன்கிழமை (11)  கூடிய சர்வதேச நாணய நிதியத்தின் நிறைவேற்று சபை அங்கீகாரம் வழங்கியுள்ளது.
+The International Monetary Fund (IMF) has approved the third tranche of $336 million for Sri Lanka under its 48-month extended arrangement, bringing the total IMF support to $1 billion. This move follows Sri Lanka's successful restructuring efforts aimed at stabilizing its economy, including improvements in tax revenue recovery and steps towards economic recovery. Despite progress, challenges remain, particularly in debt restructuring, revenue collection, and maintaining fiscal discipline. The IMF emphasizes the need for continued reform efforts, including governance reforms, to achieve sustainable growth and restore financial stability.
 
-நீடிக்கப்பட்ட செயற்திட்டத்துக்கு அமைய மூன்றாவது தவணையாக 336 மில்லியன் டொலர் இலங்கைக்கு கிடைக்கப்பெறவுள்ளது. 48 மாதகால செயற்திட்டத்துக்கு அமைய சர்வதேச நாணய நிதியம் இலங்கைக்கு இதுவரை 1 பில்லியன் டொலர் வழங்கியுள்ளது.
+🟩
 
-இலங்கையின் பொருளாதார நிலைமை தற்போது முன்னேற்றகரமான நிலையில் காணப்படுகிறது.2023 ஆம் ஆண்டு நடுப்பகுதியில் இலங்கையின் மொத்த தேசிய உற்பத்தி முன்னேற்றமடைந்த நிலையில் 2024 ஆம் ஆண்டு ஏப்ரல் மாதம் இலங்கையின் வெளிநாட்டு கையிருப்பு 5.5 பில்லியன்  டொலர்களாக நிலைப்படுத்தப்பட்டுள்ளது.அத்துடன் கடந்த மாதம் பணவீக்கத்தை 0.9 சதவீதமளவுக்கு கொண்டு வந்துள்ளமை முன்னேற்றத்தின் சிறந்த போக்கினை காட்டுகிறது.
+The International Monetary Fund, which is held on Wednesday (11), has approved the release of the third installment of Sri Lanka in accordance with the International Monetary Fund's extended project.
+
+Sri Lanka will be available to $ 336 million as the third installment of the extended project. The International Monetary Fund has awarded $ 1 billion to Sri Lanka, according to the 48 -month project.
+
+Sri Lanka's foreign reserves have been stabilized in April 2024, with Sri Lanka's GDP in mid -2013.
+
+The International Monetary Fund meeting has been evaluated at the meeting of the International Monetary Fund, which is commendable that Sri Lanka's restructuring has been successful for the recovery of tax revenues.
+
+Kenji Ogamura, Deputy Managing Director of the International Monetary Fund, said Sri Lanka's financial activity with the IMF has been strengthened.
+
+The country has improved on the basic aspects of economic recovery.
 
 ...
 
 [Data](articles/9547e055.json)
+
+[Extended Data](ext_articles/9547e055.ext.json)
 
 ---
 
@@ -1180,25 +1214,33 @@ DFCC Bank Plc closed flat at 78.00, Hatton National Bank Plc closed down at 203.
 
 ---
 
-### பயங்கரவாதிகள் போல் செயற்படுவதை எதிர்க்கட்சிகள் தவிர்க்க வேண்டும் - நிதி இராஜாங்க அமைச்சர்
+### Opposition parties should avoid acting like terrorists - Minister of Finance
 
 *2024-06-13 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185994) · `ta`
 
-சர்வதேச நாணய நிதியத்துடனான செயற்திட்டங்களை ஒருபோதும் மாற்றியமைக்க போவதில்லை.தற்போதைய பொருளாதார முன்னேற்றத்தை தொடர்வது நாட்டுக்கு அத்தியாவசியமானது.
+Finance Minister Sehan Semasinghe warns opposition against destabilizing actions, reaffirming commitment to IMF agreements and economic reforms without making false promises. He highlights the IMF's positive stance towards Sri Lanka's economic recovery efforts, emphasizing the fund's support without imposing harsh conditions. The government acknowledges past economic missteps but asserts progress in stabilizing the nation's finances and moving towards economic reconstruction.
 
-பொருளாதாரத்தின் மீது சர்வதேசமும்,நாட்டு மக்களும் நம்பிக்கை கொண்டுள்ள நிலையில் உறுதிப்பாட்டை பலவீனப்படுத்தும் வகையில் பயங்கரவாத செயற்பாடுகளில் ஈடுபடுவதை எதிர்த்தரப்பினர் தவிர்த்துக்கொள்ள வேண்டும்.
+🟩
 
-குறுகிய அரசியல் நோக்கங்களுக்காக போலியான வாக்குறுதிகளை வழங்க போவதில்லை என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+It is not going to change projects with the IMF.
 
-நிதி அமைச்சின் காரியாலயத்தில் வியாழக்கிழமை (13) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+Opponents must avoid engaging in terrorist activities to weaken the stability of the international community and the people of the country on the economy.
 
-மூன்றாம் தவணை நிதி விடுவிப்பு தொடர்பில் இரண்டாம் மீளாய்வு கூட்டத்தில் சர்வதேச நாணய நிதியம் இலங்கைக்கு சாதகமான தீர்மானத்தை எடுத்துள்ளது.
+Finance Minister Sehan Semasinghe said he would not make fake promises for short political purposes.
 
-சுதந்திரத்துக்கு பின்னரான காலப்பகுதியில் ஆட்சியில் இருந்த சகல அரசாங்கங்களும் கடைப்பிடித்த தவறான பொருளாதார கொள்கையினால் நாடு வங்குரோத்து நிலையடைந்தது என்பதை ஏற்றுக்கொள்கிறோம்.
+He made this statement during a media briefing held at the Ministry of Finance on Thursday (13).
+
+The International Monetary Fund has taken a favorable decision for Sri Lanka at a second review meeting on the release of the third term.
+
+We accept that the country has become a bankrupt economic policy due to the wrong economic policy of all governments that have been in power during the post -independence period.
+
+In April, 2022, the preliminary steps were taken to obtain the cooperation of the International Monetary Fund after the bankruptcy.
 
 ...
 
 [Data](articles/a6ccc57d.json)
+
+[Extended Data](ext_articles/a6ccc57d.ext.json)
 
 ---
 
@@ -1294,23 +1336,31 @@ Accordingly, the applicants must go to the University Grants Commission's offici
 
 ---
 
-### ரணிலின் வேலைத்திட்டமே சர்வதேச நாணய நிதியத்தின் கடன் உதவிக்கான அனுமதி : ஐக்கிய தேசிய கட்சி
+### Ranil's Program is the International Monetary Fund's Credit Assistance: United National Party
 
 *2024-06-13 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186000) · `ta`
 
-நாட்டின் பொருளாதார அபிவிருத்தி வேலைத்திட்டங்கள் நல்லமுறையில் முன்னெடுக்கப்படுவதாலே சர்வதேச நாணய நிதியத்தின் மூன்றாம் கட்ட நிதி உதவிக்கான அனுமதி கிடைக்கப்பெற்றுள்ளது.
+Ranil Wickremesinghe, former UNP parliamentarian, is praised for leading Sri Lanka's economic recovery, receiving $336 million from the IMF for its development programs. His leadership is crucial for maintaining financial stability and ensuring continued IMF support. The country's GDP growth and inflation reduction are highlighted as successes under his governance.
 
-அதனால் இந்த நிலையை தொடர்ந்து கொண்டு செல்ல முடியுமான ஒரே தலைவர் ரணில் விக்ரமசிங்க மாத்திரமாகும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருதது தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+The third phase of the International Monetary Fund has been granted permission for financial assistance by the country's economic development programs.
 
-நாட்டின் பொரைுளாதாரத்தை கட்டியெழுப்ப சர்வதேச நாணய நிதியத்தின் மூன்றாம் கட்ட  336 மில்லியன் டொலர் நிதி உதவிக்காள அனுமதி வழங்கப்பட்படிருக்கிறது.
+Former United National Party (UNP) parliamentarian Ashu Marasinghe said that Ranil Wickremesinghe is the only leader who can continue this situation.
 
-நாணய நிதியத்தின் நிபந்தனைகளுக்கு அமைய அரசாங்கம் நாட்டின் பொருளாதார அபிவிருத்திக்கான வேலைத்திட்டத்தை முறையாக மேற்கொண்டு அதன் இலக்கை அடைந்திருக்கிறது.
+He said this while attending a press conference held at the UNP headquarters in Sirikotha on Thursday (13).
+
+The third phase of the International Monetary Fund has been granted $ 336 million financial aid permit to build the country's funds.
+
+The government has properly reached its goal for the country's economic development program on the conditions of the Monetary Fund.
+
+Similarly, the country's gross production has increased according to the conditions of the Monetary Fund. Inflation has declined. The country is in good news, the Monetary Fund said in a statement.
 
 ...
 
 [Data](articles/f4b95a19.json)
+
+[Extended Data](ext_articles/f4b95a19.ext.json)
 
 ---
 

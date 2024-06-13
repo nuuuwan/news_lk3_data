@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 09:53:50**
+As of **2024-06-13 10:05:58**
 
 ## Newspaper Stats
 
-*Scraped **30,146** Articles*
+*Scraped **30,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,592
-adaderanalk | 3,414
-tamilmirrorlk | 3,527
+adaderanalk | 3,415
+tamilmirrorlk | 3,529
 virakesarilk | 4,618
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,854
@@ -26,79 +26,161 @@ adaderanasinhalalk | 4,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,140 (100.0%) of 30,146 articles have been extended.
+30,146 (100.0%) of 30,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### යුක්‍රේන ජනපතිගේ උපන් ගමට රුසියාවෙන් ගුවන් ප්‍රහාර
+### பணிப்புறக்கணிப்பில் குதித்த அஞ்சல் ஊழியர்கள்
+
+*2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதித்த-அஞ்சல்-ஊழியர்கள்/175-338845) · `ta`
+
+ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கம் நேற்று (12) நள்ளிரவு முதல் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையை ஆரம்பித்துள்ளது.
+
+இன்று (13) நள்ளிரவு வரை நாடளாவிய ரீதியில் இந்த பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கத்தின் அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.
+
+அஞ்சல் திணைக்களத்தில் நிலவும் ஊழியர் பற்றாக்குறைக்கு உடனடி தீர்வை வழங்குமாறு அதிகாரிகளுக்கு அறிவிப்பதே இந்த தொழிற்சங்க நடவடிக்கையின் நோக்கம் என அவர் குறிப்பிட்டார்.
+
+எவ்வாறாயினும், அனைத்து அஞ்சல் ஊழியர்களின் விடுமுறையையும் உடனடியாக அமுலுக்கு வரும் வகையில் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளதாக அஞ்சல் மா அதிபர் ருவன் சத்குமார தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/5e4e6a35.json)
+
+---
+
+### IMFஇன் மகிழ்ச்சியான செய்தி
+
+*2024-06-13 09:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMFஇன்-மகிழ்ச்சியான-செய்தி/175-338844) · `ta`
+
+சர்வதேச நாணய நிதியத்தால் இலங்கைக்கு அறிமுகப்படுத்தப்பட்ட வேலைத்திட்டத்தின் இரண்டாவது மீளாய்வுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக அமைச்சர் அலி சப்ரி தனது X கணக்கில் தெரிவித்துள்ளார்.
+
+இதன்படி, சர்வதேச நாணய நிதியத்தினால்  அங்கீகரிக்கப்பட்ட 2.9 பில்லியன் டொலர்கள் விரிவான கடன் நிதியின் மூன்றாவது தவணையை இலங்கை பெறவுள்ளது.
+
+எனவே, சுமார் 336 மில்லியன் டொலர்களை இலங்கைக்கு வழங்க சர்வதேச நாணய நிதியத்தின் நிறைவேற்று சபை அனுமதி வழங்கியுள்ளது.
+
+இது குறித்து அறிக்கை வெளியிட்டுள்ள சர்வதேச நாணய நிதியம், நாட்டின் பொருளாதாரத்தில் மேலும் சீர்திருத்தம் மற்றும் தகுந்த மாற்றங்களை ஏற்படுத்த இது வாய்ப்பளிக்கும் என்று தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/43da91f7.json)
+
+---
+
+### Russia Air Force fighter jets raid the village of Ukrainian President
 
 *2024-06-13 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197707) · `si`
 
-යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කිගේ උපන් ගම වන ක්‍රිවි රිහ් නගරය වෙත රුසියාව විසින් මිසයිල ප්‍රහාර එල්ල කර තිබේ.
+In a surprise attack, Russian fighter jets targeted the Ukrainian President Volodimir Selenceky's hometown, Clavia Rihan, killing nine and injuring 29 civilians. The assault focused on a residential building, drawing international condemnation from Ukraine.
 
-සාමාන්‍ය ජනතාව රැඳී සිටි ගොඩනැගිල්ලකට අදාළ ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ප්‍රහාරවලින් පුද්ගලයින් නව දෙනෙකු මියගොස් තවත් 29 දෙනෙකු තුවාල ලබා තිබේ.
+President Vlodimir Selenceky's hometown was attacked by Russia to the city of Clavia Rihan.
 
-මේ අතර ප්‍රහාරවලින් මියගිය පුද්ගලයින්ගේ ඥාතීන් වෙත යුක්‍රේන ජනාධිපතිවරයා සිය ශෝකය පළ කර ඇති බව වාර්තා වේ.
+Foreign media reports that the attack was carried out on a building where the ordinary people had stayed.
+
+Nine were killed and 29 others suffered injuries.
+
+Meanwhile, the Ukraine has condemned the relatives of the people who were killed.
 
 ◼️
 
 [Data](articles/0eed224a.json)
 
+[Extended Data](ext_articles/0eed224a.ext.json)
+
 ---
 
-### தெற்கு அதிவேக வீதியில் எரிபொருள் பௌசர் பாதுகாப்பு வேலியில் மோதி விபத்து
+### Fuel Bowser Safety crashes on southern high -speed road
 
 *2024-06-13 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185966) · `ta`
 
-தெற்கு அதிவேக வீதியில் 61 ஆம் மைல்கல் பகுதியில் இன்று வியாழக்கிழமை (13) அதிகாலை எரிபொருள் பௌசர் ஒன்று விபத்துக்குள்ளாகியுள்ளது.
+In the early hours of Thursday, a fuel bowser crashed into a security fence on the Southern Expressway's 61st Milestone, causing an accident near Mattala and Kotta.
 
-மத்தள பகுதியில் இருந்து கொட்டாவை  நோக்கி பயணித்த எரிபொருள் பௌசர் ஒன்று வீதியின் நடுவில் இருந்த பாதுகாப்பு வேலியில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+🟩
+
+A fuel bowler crashed in the early hours of Thursday morning at the 61st Milestone on the Southern Expressway.
+
+A fuel poucher traveling from Mattala to Kotta has crashed into a security fence in the middle of the road.
 
 ◼️
 
 [Data](articles/a531f977.json)
 
+[Extended Data](ext_articles/a531f977.ext.json)
+
 ---
 
-### பதுளை சிறைச்சாலையில் மட்டக்குளியைச் சேர்ந்த கைதி உயிரிழப்பு
+### Mattakkuli prisoner dies at Badulla Prison
 
 *2024-06-13 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185968) · `ta`
 
-பதுளை தல்தென திறந்தவெளி சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த சிறைக்கைதி ஒருவர் திடீர் சுகயீனமுற்ற நிலையில் மரணித்துள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர்.
+A 50-year-old prisoner from Mattakkuli died suddenly at Badulla Open Prison. He was hospitalized on July 12, 2012, but passed away without determining the cause of death. His body was sent for autopsy.
 
-மட்டக்குளி  பகுதியை சேர்ந்த 50 வயதுடைய நபரே இவ்வாறு உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த, கைதி ஐஸ் போதைப்பொருளுக்கு அடிமையானவர் என்றும் கடந்த மார்ச் மாதம் 01 ஆம் திகதி தல்தென திறந்தவெளி சிறைச்சாலைக்கு கொண்டு வரப்பட்டு எதிர்வரும் 2024.07.11 திகதி விடுதலை பெற இருந்த நிலையிலேயே திடீர் சுகயீனமுற்ற நிலையில் பதுளை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் நேற்று புதன்கிழமை (12) சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Badulla police said that a prisoner who was detained at the Open Prison in Badulla had died in a sudden illness.
 
-உயிரிழந்தமைக்கான காரணம் இதுவரையில் கண்டறியாத போதிலும் சடலம் பிரேத பரிசோதனைக்காக பதுளை பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பதுளை பொலிஸார் மேலும் தெரிவித்தனர்.
+The death of a 50 -year -old man from Mattakkuli died, police said.
+
+The prisoner was admitted to the Badulla Hospital on Wednesday (12) after being admitted to the Badulla Hospital on Wednesday (12) after he was brought to the Open Prison on March 01, 2024.07.2012.
+
+The Badulla police said that although the cause of the death was not yet detected, the body was placed in the Badulla Buda 'room for autopsy.
 
 ◼️
 
 [Data](articles/3d229298.json)
 
+[Extended Data](ext_articles/3d229298.ext.json)
+
 ---
 
-### யாழ். அனலைதீவில் காணமால் போன கடற்தொழிலாளர்கள் தமிழகத்தில் மீட்பு
+### Yall. Fishermen in Tamil Nadu
 
 *2024-06-13 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185967) · `ta`
 
-யாழ்ப்பாணம் - அனலைதீவில் இருந்து கடற்றொழிலுக்குச் சென்று காணமல்போன இருவரும் தமிழகத்தில் உயிருடன் கரையொதுங்கியுள்ளனர்.
+Two fishermen from Analadeevu, Thiruchelvam Michael Fernando and Nagalingam Vijayakumar, went missing while fishing near the Nagapattinam coast in Tamil Nadu. Their boat was damaged, but they were found safe in the Arukattutturai fishing village. The Vedaranyam Coast Guard is investigating.
 
-அனலைதீவைச் சேர்ந்த திருச்செல்வம் மைக்கல் பெர்னாண்டோ மற்றும் நாகலிங்கம் விஜயகுமார் ஆகிய இருவருமே படகு இயந்திரம் பழுதாகி தமிழகத்தின் நாகப்பட்டினம் பகுதியில் கரையொதுங்கியுள்ளனர்.
+🟩
 
-வேதாரண்யம் காவல் சரகம், ஆறுகாட்டுத்துறை மீனவ கிராமத்திற்கு கிழக்கே சுமார் 2 நாட்டிகல் மைல் தொலைவில், வங்காள விரிகுடா கடலில், இரு மீனவர்களும் கரையொதுங்கியுள்ளனர்.
+The two missing from Jaffna - Analadeevu have been alive in Tamil Nadu.
 
-மீனவர்கள் இருவரையும், நாகப்பட்டினம் கடலோர பாதுகாப்பு குழும காவல் ஆய்வாளர் ரமேஷ் (பொறுப்பு - வேதாரண்யம் கடலோர பாதுகாப்பு குழுமம்) விசாரணை மேற்கொண்டு வருகின்றார்.
+Thiruchelvam Michael Fernando and Nagalingam Vijayakumar from Analadeevu have collapsed and the boat machine has been damaged and the coast of Nagapattinam in Tamil Nadu is located.
 
-அனலைதீவில் இருந்து கடந்த திங்கட்கிழமை (10) மாலை 5 மணியளவில் கடற்தொழிலுக்கு சென்ற இருவரைக் காணவில்லை என குடும்பத்தினர் அறிவித்திருந்தமை குறிப்பிடத்தக்கது.
+About 2 napayal miles east of the Vedaranyam police Sarakam, Arukattutturai fishing village, two fishermen in the Bay of Bengal have been deployed.
+
+Ramesh (Responsibility - Vedaranyam Coast Guard) is investigating the two fishermen.
+
+The family announced that two persons who had gone to the sea were missing at 5 pm last Monday (10).
 
 ◼️
 
 [Data](articles/29bc7a15.json)
+
+[Extended Data](ext_articles/29bc7a15.ext.json)
+
+---
+
+### UN welcomes Saudi date donation for Sri Lanka kids
+
+*2024-06-13 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99850/un-welcomes-saudi-date-donation-for-sri-lanka-kids) · `en`
+
+The UN World Food Programme has welcomed Saudi Arabia’s donation of 300 tonnes of dates for vulnerable children in Sri Lanka.
+
+Provided through Saudi Arabia’s aid agency KSrelief, the dates will be given to primary grade children enrolled in the country’s national school meal program.
+
+The contribution was acknowledged at a signing event on Tuesday between the Embassy of Saudi Arabia in Sri Lanka and the WFP, according to a press release.
+
+Sri Lanka’s children have been severely affected by the country’s economic downturn which began in 2022, when lost jobs and reduced incomes made it harder for families to access nutritious meals.
+
+Through this contribution, Saudi Arabia joins international communities in supporting the nation’s recovery, particularly in improving nutrition and building its human capital.
+
+“In times of crises, it is often children who are among those hardest hit,” said Gerard Rebello, country director of WFP Sri Lanka.
+
+...
+
+[Data](articles/d11a44b0.json)
 
 ---
 
@@ -480,21 +562,27 @@ They say that they can end the illegal industrial activities when they are arres
 
 ---
 
-### சார்க் பொதுச் செயலாளர் ஜனாதிபதியுடன் சந்திப்பு
+### SAARC General Secretary meets President
 
 *2024-06-13 02:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சார்க்-பொதுச்-செயலாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-338843) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் சார்க் அமைப்பின் பொதுச் செயலாளர் கோலம் சர்வார்க்கும் இடையிலான சந்திப்பொன்று நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe met with SAARC General Secretary Kolam Sarvar to discuss enhancing cooperation among SAARC nations, particularly in agriculture modernization and upgrading the Sri Lankan SAARC Cultural Center for Modern Art.
 
-சார்க் நாடுகளுக்கிடையிலான பல்வேறு திட்டங்கள் தொடர்பில் எழுந்துள்ள பிரச்சினைகளைத் தீர்ப்பது தொடர்பில் இந்த சந்திப்பின் போது கவனம் செலுத்தப்பட்டதுடன், அது தொடர்பில் பாரபட்சமின்றி தலையீடு செய்யுமாறு சார்க் பொதுச் செயலாளரிடம் ஜனாதிபதி கேட்டுக் கொண்டார்.
+🟩
 
-இலங்கையில் செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டம் குறித்தும் கலந்துரையாடப்பட்டதுடன், அதற்கு சார்க் நாடுகளின் ஆதரவை பெறுவது குறித்தும் கவனம் செலுத்தப்பட்டது.
+A meeting between President Ranil Wickremesinghe and the General Secretary of the SAARC Organization Kolam Sarvar was held at the Presidential Office yesterday.
 
-இலங்கை சார்க் கலாச்சார மையத்தை மொடர்ன் ஆர்டிற்காக மேம்படுத்துவது குறித்தும் கலந்துரையாடப்பட்டுள்ளது. (a)
+During the meeting, the President asked the General Secretary of the SAARC to address the issue of various projects between SAARC countries.
+
+The Agricultural Modernization Program in Sri Lanka was also discussed and focusing on the support of the SAARC countries.
+
+Discussion has also been discussed to upgrade the Sri Lankan SAARC Cultural Center for Moden Art. (A)
 
 ◼️
 
 [Data](articles/495b94d9.json)
+
+[Extended Data](ext_articles/495b94d9.ext.json)
 
 ---
 
@@ -1560,21 +1648,31 @@ The case was exterminated for a period of time and had to spend about Rs. 80 lak
 
 ---
 
-### කීරි සම්බා හා සම්බා සහල් හිගය තවදුරටත්
+### Karary Samba and Samba rice short
 
 *2024-06-12 19:48:21* · [`adalk`](https://www.ada.lk/breaking_news/කීරි-සම්බා-හා-සම්බා-සහල්-හිගය-තවදුරටත්/11-410184) · `si`
 
-සම්බා හා  කීරි සම්බා බිත්තර වී හිගයක් ඇති වි තිබෙන බවත් මේ නිසා ඉදිරි කාලයේදිත් කීරි සම්බා හා සම්බා සහල් හිගය තවදුරටත් පවතින බව ජාතික ගොවිජන එකමතුව සදහන් කරයි
+The National Agrarian Department highlights a shortage of Kerah Samba and Samba rice, necessitating a program to ensure quality seeds are provided to farmers for cultivation. The price of Kerah Samba rice has risen to Rs. 300 per kg due to shortages, affecting the market. Despite challenges, efforts are underway to cultivate these varieties efficiently, meeting domestic demand and ensuring food security.
 
-මේ නිසා මේවර කන්නයේදි කීරි සම්බා හා සම්බා වගාකර තිබෙන ගොවින් හරහා  ප්‍රමිතියෙන් යුත් වී බිත්තර වි ලෙස ලබා ගැනිමට වැඩපිලිවෙලක් සකස් කල යුතු බවද  බවද  සංගමයේ සභාපති අනුරාධ තෙන්න කොන් මහතා සදහන් කලේය
+🟩
 
-පවතින බිත්තර වි හිගය නිසා  මේවර කන්නයේදි කීරි සම්බා බිත්තර වී කිලෝවක මිල රුපියල් පන්සිය(500) ඉක්ම වු මිලකට ආලෙවි වු  බවත් එහතේ පසුගිය කන්නවල  කීරි සම්බා බීත්තර වී කිලෝවක් අලෙවි වුයේ රුපියල් 300 ත් රුපියල් 350 ත් අතර මිලකට බවද පැවසිය
+The National Agrarian Description of the National Agrarica Samba and Samba rice in the next time, the National Agrarica Samba and Samba rice deficit is still available in the next time.
 
-කීරි සම්බා සහල් හිගය නිසා  කිරි සම්බා සහල් කිලෝවක මිල රුපියල් 320 ඉක්මවා ගොස් තිබෙන බවත් මිට අමතරව රට තුල සම්බා සහල් හිගයක්ද මේ වන විට නිර්මාණය වි තිබෙන බව.ත් පවතින තත්ත්වය තුල සම්බා සහල් මිල පවා ජනතාවට දරාගත නොහැකි ලෙස ඉහල ගොස් තිබෙන බවද පැවසිය.
+Therefore, it is said that a program should be prepared to provide quality paddy eggs to be cultivated through the farmers who have been cultivated by Kerah Samba and Samba in this season.
+
+It was said that the price of a kilogram of Kimba seat in this season was Rs. 300 and Rs
+
+Due to the shorts of Kiri Samba rice, the price of milk samba rice has exceeded Rs.
+
+Nadu kako. It was also said that the white quaries could be cultivated without any additional costs, but also a significant cultivation of a significant group of the egg paddy can be cultivated for a considerable group of the egg.
+
+It is said that the use of paddy can be manufactured by the use of paddy and harvest machines in the event.
 
 ...
 
 [Data](articles/370801e7.json)
+
+[Extended Data](ext_articles/370801e7.ext.json)
 
 ---
 
@@ -2215,69 +2313,5 @@ It is noteworthy that the teachers were involved in the demonstration despite th
 [Data](articles/7604d9bb.json)
 
 [Extended Data](ext_articles/7604d9bb.ext.json)
-
----
-
-### Three dead, several injured in bus-van collision at Wagama
-
-*2024-06-12 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99838/three-dead-several-injured-in-bus-van-collision-at-wagama) · `en`
-
-Three persons have reportedly been killed and several others have been injured after a van and a private passenger transport bus collided head-on at the Wagama area along the Bibila - Mahiyanganaya road today (12).
-
-Ada Derana reporter said the three deceased are members of the same family.
-
-Meanwhile, the Police Spokesman’s Office said that a private bus travelling from Bibila towards Kotagama had stopped in front of a garage in the Wagama area this evening for repairs when a van arriving from the opposite direction of the road had crashed into the front of the bus.
-
-Three passengers of the van including two females were killed in the crash while five others including the driver of the van had been admitted to the Bibila Hospital with injuries.
-
-Of the deceased, the male is aged 75 and one of the females is 70-years-old while the age of the other female has not been confirmed yet. They are all residents of Wagama, police said.
-
-...
-
-[Data](articles/20a68d4e.json)
-
-[Extended Data](ext_articles/20a68d4e.ext.json)
-
----
-
-### Renovation in Sri Lanka’s Northern rail track to reduce Colombo-Jaffna train time to 5.5 hours
-
-*2024-06-12 16:38:00* · [`economynextcom`](https://economynext.com/renovation-in-sri-lankas-northern-rail-track-to-reduce-colombo-jaffna-train-time-to-5-5-hours-167684/) · `en`
-
-ECONOMYNEXT – The ongoing renovations in Sri Lanka’s Northern railway track from Maho to Anuradhapura will help to reduce Colombo-Jaffna journey time to around 5.5 hours from the current 7.5 hours, Transport Minister Bandula Gunawardana said.
-
-The work to upgrade the track started in January this year and is part of a $91.27 million project carried out by IRCON, an Indian state firm, and is expected to be completed in six months.
-
-“The train to Jaffna takes 7.5 hours to travel. Now it has been under renovation after more than 100 years. This is being done for the first time since the British rule with complete removal of tracks under an Indian credit line,” Gunawardana told a media briefing on Monday (10).
-
-“Within next few months, there will be a railway track established in the North passengers can travel at 100 km per hour. Within 5.5 hours, people can be able to travel from Colombo to Jaffna.”
-
-India has provided $318 million to upgrade 128 kilometres in track from Maho to Omanthai.
-
-...
-
-[Data](articles/47a24220.json)
-
-[Extended Data](ext_articles/47a24220.ext.json)
-
----
-
-### Three dead in one family in accident
-
-*2024-06-12 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197687) · `si`
-
-In a tragic accident today, three members of the same family died when a van collided with a private bus on the Bibila-Mahiyanganaya main road near Wagama.
-
-🟩
-
-A fatal accident occurred this afternoon following a van and a private bus collide.
-
-The accident had occurred in the Wagama area on the Bibila and Mahiyanganaya main road.
-
-◼️
-
-[Data](articles/d2be028b.json)
-
-[Extended Data](ext_articles/d2be028b.ext.json)
 
 ---

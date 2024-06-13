@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 08:20:49**
+As of **2024-06-13 08:35:51**
 
 ## Newspaper Stats
 
-*Scraped **30,132** Articles*
+*Scraped **30,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
-adalk | 2,590
+adalk | 2,591
 adaderanalk | 3,413
 tamilmirrorlk | 3,525
 virakesarilk | 4,614
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,850
+adaderanasinhalalk | 4,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,132 (100.0%) of 30,132 articles have been extended.
+30,132 (100.0%) of 30,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### තැපෑල අද ලෙඩින්
+
+*2024-06-13 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197705) · `si`
+
+අසනීප නිවාඩු වාර්තා කරමින් ඒකාබද්ධ තැපැල් සේවක වෘත්තීය සමිති එකමුතුව ඊයේ (12) මධ්‍යම රාත්‍රීයේ සිට වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
+
+ඒකාබද්ධ තැපැල් සේවක වෘත්තීය සමිති එකමුතුවේ කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේ, අද (13) මධ්‍යම රාත්‍රී දක්වා දිවයින පුරා මෙම වැඩවර්ජනය ක්‍රියාත්මක කරන බවය.
+
+තැපැල් දෙපාර්තමේන්තුවේ පවතින සේවක හිඟයට කඩිනමින් විසඳුම් ලබාදෙන ලෙස බලධාරීන් දැනුවත් කිරීම මෙම වෘත්තිය සමිති ක්‍රියාමාර්ගයේ අරමුණ බව චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, වහාම ක්‍රියාත්මක වන පරිදි සියලු තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කිරීමට තීරණය කර ඇති බවය.
+
+අදාළ ගැටලුව සම්බන්ධයෙන් විසඳුම් ලබාදීමට මේ වන විටත් තැපැල් දෙපාර්තමේන්තුව පියවර ගනිමින් සිටින අතර එවන් අවස්ථාවක වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීම පිළිගත නොහැකි බව තැපැල්පතිවරයා පවසයි.
+
+කෙසේවෙතත් තැපැල් දෙපාර්තමේන්තුවේ කටයුතු අඛණ්ඩව පවත්වාගෙන යාමට හැකි සෑම පියවරක්ම ගන්නා බව තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/802ee17d.json)
+
+---
+
+### ආර්ථිකය තවමත් අවදානමේ බව IMF කියයි
+
+*2024-06-13 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197704) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට හඳුන්වා දී ඇති විස්තීර්ණ ණය පහසුකමට අදාළ දෙවන සමාලෝචනය සඳහා අනුමැතිය හිමිවුණි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය විසින් ඊයේ (12) දිනයේ අදාළ අනුමැතිය ලබා දී ඇති බව වාර්තා වේ.
+
+ඒ අනුව මාස 48ක් සඳහා ක්‍රියාත්මක ජාත්‍යන්තර මුල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකමට අදාළ තෙවන වාරිකය ශ්‍රී ලංකාවට ලබාදීමට තීරණය කර තිබේ.
+
+තෙවන වාරිකය වෙනුවෙන් අමෙරිකානු ඩොලර් මිලියන 336ක පමණ මුදලක් ශ්‍රී ලංකාවට ලබාදීමට නියමිතය.
+
+2023 වසරේ මාර්තු 20 වන දින ජාත්‍යන්තර මුල්‍ය අරමුදලේ විධායක මණ්ඩලය විසින් අමෙරිකානු ඩොලර් බිලියන තුනකට ආසන්න මුදලක් විස්තීරීණ ණය පහසුකම යටතේ මාස 48ක කාලයක් තුළ ශ්‍රී ලංකාවට ලබාදීමට එකඟතාව පළ කරනු ලැබීය.
+
+එහි පළමු වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 337ක් හිමි වූ අතර ඒ අනුව මේ වනවිට අමෙරිකානඩු ඩොලර් බිලියනයකට ආසන්න මුදලක් ජාත්‍යන්තර මුල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී තිබේ.
+
+...
+
+[Data](articles/52d5a456.json)
+
+---
 
 ### Increase in the elderly population in Sri Lanka
 
@@ -1290,6 +1334,24 @@ The United States and India will be held today (12) in the Twenty20 World Cup.
 
 ---
 
+### අගමැති හා ඇමති මණ්ඩලයට නොතීසි
+
+*2024-06-12 19:27:25* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හා-ඇමති-මණ්ඩලයට-නොතීසි/11-410183) · `si`
+
+පළාත් පාලන අපේක්ෂකයන්ට රාජ්‍ය සම්පත් භාවිත නොකිරීමට නියම කරන්නැයි ඉල්ලමින් ඉදිරිපත් කරඇති පෙත්සම සම්බන්ධයෙන් අධිකරණයේ පෙනී සිටි කරුණු දැක්වීමට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු ආමාත්‍ය මණ්ඩලයට නියම කරමින් ශ්‍රේෂ්ඨාධිකරණය අද (12දා) නොතීසි නිකුත් කළේය.
+
+පළාත් පාලන අපේක්ෂකයන්ට රාජ්‍ය සම්පත් භාවිත නොකිරීමට මෙන්ම මැතිවරණ කොමිසමට නිකුත් කර ඇති මාර්ග උපදේශන මාලාව අනුව කටයුතු කිරීමට බලධාරීන්ට නියම කරන්නැයි ඉල්ලා පැෆරල් සංවිධානය ගොනු කර ඇති පෙත්සම සලකා බැලීමෙන් අනතුරුව එලෙස නියම කළ ශ්‍රේෂ්ඨාධිකරණය, අදාළ නොතීසි ශ්‍රේෂ්ඨාධිකරණ ලේඛකාධිවරයා හරහා වගඋත්තරකාර අමාත්‍ය මණ්ඩලයට භාර දීමට කටයුතු කරන ලෙසද නියම කළේය.
+
+පෙත්සම සම්බන්ධයෙන් මූලික විරෝධතා ඇත්නම් ලබන 24වැනිදා ගොනු කිරීමටද, ප්‍රතිවිරෝධතා ඇත්නම් ලබන 28වැනිදා ගොනු කිරීමටද නියම කළ ශ්‍රේෂ්ඨාධිකරණය, කරුණු තහවුරු කිරීම සඳහා පෙත්සම ජූලි 03වැනිදා කැඳවීමටද නියම කළේය.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන කුමුදුනි වික්‍රමසිංහ සහ අචල වෙන්ගප්පුලි යන මහත්ම මහත්මීන්ගේන් සැදුම්ලත් සමන්විත විනිසුරු මඬුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණි.
+
+...
+
+[Data](articles/81f6879e.json)
+
+---
+
 ### Yall. Attention struggle
 
 *2024-06-12 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185951) · `ta`
@@ -2187,65 +2249,5 @@ The debt office offered 215 billion rupees of bills and raised a similar amount 
 [Data](articles/02f92c14.json)
 
 [Extended Data](ext_articles/02f92c14.ext.json)
-
----
-
-### Actor Charlie's son participated in the wedding reception
-
-*2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185914) · `ta`
-
-Charlie's actor son, Ajay Thangasamy, attended a wedding reception, where he was celebrated as a special guest by the groom's family. Notable personalities like Kamal Haasan, Ilayaraja, Ilai Tilak Prabhu, Nasser, Gangai Amaran, and Santana Bharati also congratulated the bride.
-
-🟩
-
-Ajay Thangasamy - Permissia Demi, the son of Charlie, one of the actors who won the 'Doctor' title in the Tamil film industry. Ka. Stalin congratulated the bride on the participation of the special guest.
-
-Also, 'World Man' Kamal Haasan, 'Ilayaraja', 'Ilayaraja', 'Ilaiyaraja', 'Ilai Tilak' Prabhu, Nasser, Gangai Amaran and Santana Bharati congratulated the bride to the bride.
-
-◼️
-
-[Data](articles/4b64d5f8.json)
-
-[Extended Data](ext_articles/4b64d5f8.ext.json)
-
----
-
-### Actor Kali Venkat plays 'Donima'
-
-*2024-06-12 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185918) · `ta`
-
-Kali Venkat stars as Donima in a Tamil film, leading a cast including Roshini Prakash, Vivek Prasanna, and others. Directed by Johnson, the movie explores the daily struggles of a middle-class family, with Venkat portraying a character facing health issues. Produced by Sai Venkateswaran and presented by SPR Studios, the film aims to resonate with its audience through realistic storytelling.
-
-🟩
-
-Actor Kali Venkat, who has earned the reputation of being the best characteristic actor of the Tamil film, is playing the lead role in the film 'Dhonima'.
-
-Kali Venkat, Roshini Prakash, Vivek Prasanna, Kannan Ponniah, Rajesh Sharma, B. L. Thenappan, Kalki Rajan, 'Adukalam' Rajamani, Visitran, Sasi, Sujatha and many others have played. Johnson has composed the film, which has been recorded by Bhagiraj and Sajith Kumar.. The film has been produced by producer Sai Venkateswaran. SP Raja Sethupathi presents the film on behalf of SPR Studios.
-
-Commenting on the film, the director said, “The story of the film is written in the middle of the day -to -day life in the middle -class family.. Actress Kali Venkatu plays the role of actress Roshini Prakasam, Kodi. The heir of these couples causes health problems. How do these couples face the difficult environment?Realistically recorded. The screenplay is set to make it easier to communicate with fans who enjoy watching the film. ”
-
-◼️
-
-[Data](articles/6c7619b4.json)
-
-[Extended Data](ext_articles/6c7619b4.ext.json)
-
----
-
-### Import and Export Control Regulations to be submitted for parliament approval
-
-*2024-06-12 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99833/import-and-export-control-regulations-to-be-submitted-for-parliament-approval) · `en`
-
-The Cabinet of Ministers has approved the submission of the Import and Export (Control) Regulations No. 7 of 2024, issued under the Import and Export (Control) Act No. 1 of 1969, and the Standardization and Quality Control Regulations issued under the same Act for the approval of the Parliament of Sri Lanka.
-
-According to the Import and Export (Control) Regulations No. 7 of 2024, the controlled import of motor vehicles for tourism purposes has been introduced. This follows a temporary suspension on motor vehicle imports as per the Import and Export (Control) Regulations No. 2 of 2023.
-
-In line with a proposal by the Minister of Tourism and Lands, the Cabinet has approved the import of 250 small buses and 750 vans for tourism on April 1. The new regulations aim to implement this decision, reflecting the government’s efforts to support and boost the tourism sector through regulated imports.
-
-...
-
-[Data](articles/ab14463c.json)
-
-[Extended Data](ext_articles/ab14463c.ext.json)
 
 ---

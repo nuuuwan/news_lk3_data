@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 02:53:20**
+As of **2024-06-14 03:04:54**
 
 ## Newspaper Stats
 
-*Scraped **30,287** Articles*
+*Scraped **30,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,832
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,542
-virakesarilk | 4,653
+virakesarilk | 4,657
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,879
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,287 (100.0%) of 30,287 articles have been extended.
+30,287 (100.0%) of 30,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### தேசிய புலனாய்வு பிரிவின் தகவலிற்கமைவாக மந்திகையில் கஞ்சாவுடன் ஒருவர் கைது!
+
+*2024-06-14 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186037) · `ta`
+
+அரச புலனாய்வு சேவையின் தகவலுக்கமைய கேரள கஞ்சா வியாபாரத்தில் ஈடுபட்ட  கற்கோவளம் பகுதியைச் சேர்ந்த  27 வயதுடைய சந்தேக  நபர் ஒருவர் 02kg 300g கேரள கஞ்சாவுடன் மந்திகை பகுதியில் வைத்து  நெல்லியடி பொலிசாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+நீண்ட காலமாகக் கஞ்சா வியாபாரத்தில் ஈடுபடும் குறித்த நபர் தொடர்பில் அரச புலனாய்வு பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் தீவிர கண்காணிப்பில் ஈடுபட்டு வந்த அரச புலனாய்வு பிரிவினர் 13ஆம் திகதி வியாழக்கிழமை விற்பனை நோக்கத்திற்காகக் கஞ்சாவைக் கொண்டு செல்லும்போது குறித்த கஞ்சாவுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த சந்தேக நபரிடம் தீவிர விசாரணைகளை மேற்கொண்டுவரும் நெல்லியடி பொலிஸார் வெள்ளிக்கிழமை (14) பருத்தித்துறை நீதிமன்றில் முற்படுத்தப்படவுள்ளர்.
+
+◼️
+
+[Data](articles/0caaf6ee.json)
+
+---
+
+### இறைவனின் புனித இல்லத்தினைத் தரிசிக்கும் யாத்ரீகர்களுக்கு சேவை செய்வதில் சவூதி அரேபியாவின் முயற்சிகள்
+
+*2024-06-14 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186036) · `ta`
+
+சவூதி அரேபிய இராச்சியம், அதன் நிறுவனர் மன்னர் அப்துல்அசீஸ் பின் அப்துல் ரஹ்மான் ஆல் சஊத் அவர்களது காலத்திலிருந்து, இரண்டு புனிதத் தலங்களின் பாதுகாவலர் மன்னர் சல்மான் பின் அப்துல் அஸீஸ் ஆல் சஊத் அவர்களின் காலம் வரை, அதிக எண்ணிக்கையிலான ஹஜ் மற்றும் உம்ரா யாத்ரீகர்களுக்கு இடமளிக்கும் வகையில் இரண்டு புனிதத் தலங்கள் மற்றும் மற்ற புனித இடங்களை விரிவுபடுத்தி, அங்குள்ள வசதிகளை மேம்படுத்தவும், நவீன சேவைகளை வழங்கவும் தொடர்ந்து மிகுந்த கவனத்துடன் செயல்பட்டு வருகிறது. யாத்ரீகர்களுக்கு சேவை செய்வது என்பது சவூதி அரேபிய இராச்சியத்தின் தலைமைத்துவத்தின் முக்கிய முன்னுரிமைகளில் ஒன்றாகும். சவூதி அரேபியாவின் அனைத்து மன்னர்களும் இதை தமக்குக் கிடைத்த சிறப்பாகக் கருதி வருகின்றனர்.
+
+...
+
+[Data](articles/2e96da4a.json)
+
+---
+
+### சர்வதேச யோகாசன விழா
+
+*2024-06-14 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186035) · `ta`
+
+சுவாமி விவேகானந்த கலாசார மையம், இந்திய உயர்ஸ்தானிகராலயம் கொழும்பு, மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் அறநெறிப் பாடசாலை இணைந்து  ஏற்பாடு செய்த சர்வதேச யோகாசன விழா வியாழக்கிழமை (14) முதற்கட்டமாக கொழும்பு தேசிய அருங்காட்சியக வளாகத்தில் பெண்களுக்கான அதிகாரம் எனும் தொனிப்பொருளில் சுமார் 250 மாணவிகளின் பங்குப்பற்றலுடன் இடம்பெற்றது.  அம்மன் அறநெறிப் பாடசாலை, கொ/ சைவமங்கையர் வித்தியாலயம், கொ.இராமநாதன் இந்து மகளிர் கல்லூரி ஆகிய பாடசாலைகளின் மாணவிகள் கலந்துக் கொண்டனர்.
+
+◼️
+
+[Data](articles/d21ea2cc.json)
+
+---
+
+### வட்டுக்கோட்டையில் வன்முறை குழு அட்டகாசம் - நகை மற்றும் பணம் திருட்டு
+
+*2024-06-14 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186034) · `ta`
+
+வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட வட்டுக்கோட்டை பகுதியில் வெள்ளிக்கிழமை (14) மதியம் வன்முறை குழு ஒன்று அட்டகாசத்தில் ஈடுபட்டதுடன் வீட்டிலிருந்த நகை மற்றும் பணம் என்பவற்றையும் திருடிச் சென்றதாகக் கூறப்படுகிறது.
+
+குறித்த வீட்டில் உள்ளவர்கள் வெளியே சென்றிருந்த நிலையில் இன்று மதியம் குறித்த வீட்டுக்குச் சென்ற வன்முறை குழுவினர் வீட்டிலிருந்த தையல் இயந்திரம் குளிர்சாதனப் பெட்டி, ஜன்னல் கண்ணாடிகள், வீட்டுக் கதவு, ஒலிபெருக்கி சாதனங்கள் தொலைக்காட்சி உள்ளிட்ட பல பொருட்களை அடித்துடைத்து சேதமாக்கியதுடன், வீட்டிலிருந்த இரண்டு இலட்சத்துப் பதினோராயிரம் ரூபா பணம், மூன்று பவுன் சங்கிலி மற்றும் இரண்டு பவுன் காப்பு என்பவற்றைத் திருடிச் சென்றதாகக் கூறப்படுகிறது.
+
+இது குறித்து வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்த நிலையில், அயல் வீட்டிலிருந்த சிசிடிவி காட்சிகளை பொலிஸார் பார்வையிட்டுக்கொண்டு இருந்தவேளை, தாக்குதலை மேற்கொண்ட ஒருவர் மன்னிப்பு கேட்பதற்காக வந்தவேளை பொலிஸார் அவரை கைது செய்தனர்.
+
+...
+
+[Data](articles/136f7c31.json)
+
+---
 
 ### Shakib al -Hasan and Rishad Hossain increased the Super 8 chance of Bangladesh
 
@@ -2293,91 +2349,5 @@ President Ranil Wickremesinghe, the leader of the United National Party (UNP), h
 [Data](articles/6663dd07.json)
 
 [Extended Data](ext_articles/6663dd07.ext.json)
-
----
-
-### Some Sri Lanka’s IMF-agreed targets delayed with consensus: State FinMin
-
-*2024-06-13 13:14:00* · [`economynextcom`](https://economynext.com/some-sri-lankas-imf-agreed-targets-delayed-with-consensus-state-finmin-167840/) · `en`
-
-ECONOMYNEXT – Some of the targets Sri Lanka had agreed with the International Monetary Fund (IMF) including Stolen Asset Recovery legislation have been delayed in consensus with the global lender as they need more time for implementation, State Finance Minister Shehan Semasinghe said.
-
-The IMF approved Sri Lanka’s second program review late on Wednesday, allowing the disbursement of $336 million third tranche, citing that Sri Lanka’s performance under program remaining strong.
-
-The IMF said “all quantitative targets were met, except for the marginal shortfall of indicative target on social spending. Most structural benchmarks were either met or implemented with delay. Reforms and policy adjustment are bearing fruit”.
-
-President Ranil Wickremesinghe’s government is compelled to pass some legislation in the parliament as fast as it can to stay in the programme timeline, government official say.
-
-...
-
-[Data](articles/b0c8afbc.json)
-
-[Extended Data](ext_articles/b0c8afbc.ext.json)
-
----
-
-### A brutal attack on another daughter
-
-*2024-06-13 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197712) · `si`
-
-An army corporal has been arrested for brutally attacking a nine-year-old girl, his own daughter. The assault followed a dispute within a group of suspects, leading to the horrific act.
-
-🟩
-
-The Meegoda Police have arrested a person who was brutally assaulted to a nine-year-old daughter.
-
-It is revealed that the man is an army corporal and he has revealed that he was the minor father of the girl.
-
-Initiative investigations were revealed that the attack had been carried out due to a client with a chat with a group of suspects.
-
-◼️
-
-[Data](articles/262a60f0.json)
-
-[Extended Data](ext_articles/262a60f0.ext.json)
-
----
-
-### G7 leaders agree to lend Ukraine billions backed by Russia’s frozen assets
-
-*2024-06-13 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99855/g7-leaders-agree-to-lend-ukraine-billions-backed-by-russias-frozen-assets) · `en`
-
-Leaders of the Group of Seven wealthy democracies have agreed to engineer a $50 billion loan to help Ukraine in its fight for survival that would use interest earned on profits from Russia’s frozen central bank assets as collateral.
-
-Details of the deal were still being hashed out as G7 leaders gathered for a summit in Italy, but the money could reach Kyiv before the end of the year. That’s according to a French official who confirmed the agreement Wednesday ahead of a formal announcement at the summit. Here’s how the plan would work:
-
-Most of the money would be provided in the form of a loan from the U.S. government that would be backed by windfall profits being earned on roughly $300 billion in immobilized Russian assets. The vast majority of the money is being held in European Union nations.
-
-A French official said that while the loan would be mostly U.S.-guaranteed, it could be “topped up” with European money or other national contributions.
-
-...
-
-[Data](articles/609156af.json)
-
-[Extended Data](ext_articles/609156af.ext.json)
-
----
-
-### Protest against the layer
-
-*2024-06-13 12:39:50* · [`adalk`](https://www.ada.lk/breaking_news/ලයිටරයට-‌ගිනිපෙට්ටියෙන්-විරෝධයක්/11-410192) · `si`
-
-A protest was held today in Kandy's Torrington Park, opposing the lack of regulations for plastic products, affecting over 10,000 low-income youth in Sri Lanka's fashion manufacturing sector. Protesters called for government intervention to safeguard local industries.
-
-🟩
-
-The Torrington's Park was held in front of the Torrington Park in Kandy this morning (13).
-
-The Sri Lankan faing manufacturing agencies are located in Kundasale and the Pallekele Investment Promotion Zone and more than 10,000 families in the industry are young people of low income families.
-
-The promoter is also reduced to the government's involvement in the absence of various rules for plastic related products in the ruthlessness.
-
-To protect the local industries, protecting local industries - to give it to the fashion, they demanded the authorities to intervene and immediately intervened to solve the problem.
-
-◼️
-
-[Data](articles/36e71d04.json)
-
-[Extended Data](ext_articles/36e71d04.ext.json)
 
 ---

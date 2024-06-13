@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 01:19:23**
+As of **2024-06-14 01:34:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,274 (100.0%) of 30,279 articles have been extended.
+30,279 (100.0%) of 30,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2088,6 +2088,8 @@ President Ranil Wickremesinghe’s government is compelled to pass some legislat
 
 [Data](articles/b0c8afbc.json)
 
+[Extended Data](ext_articles/b0c8afbc.ext.json)
+
 ---
 
 ### A brutal attack on another daughter
@@ -2199,6 +2201,8 @@ The Ministry of Buddhasasana, Religious, and Cultural Affairs, said they were re
 ...
 
 [Data](articles/d6c3eba0.json)
+
+[Extended Data](ext_articles/d6c3eba0.ext.json)
 
 ---
 

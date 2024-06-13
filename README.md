@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 02:04:30**
+As of **2024-06-14 02:19:16**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,279 (100.0%) of 30,287 articles have been extended.
+30,281 (100.0%) of 30,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### பங்களாதேஷின் சுப்பர் 8 வாய்ப்பை ஷக்கிப் அல் ஹசன், ரிஷாத் ஹொசெய்ன் அதிகரிக்கச் செய்தனர்
+### Shakib al -Hasan and Rishad Hossain increased the Super 8 chance of Bangladesh
 
 *2024-06-14 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186033) · `ta`
 
-பங்களாதேஷுக்கும் நெதர்லாந்துக்கும் இடையில் சென் வின்சன்ட் கிங்ஸ்டவுன் ஆனோஸ் வேல் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுக்கு வந்த டி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் 25 ஓட்டங்களால் பங்களாதேஷ் வெற்றிபெற்றது.
+Shakib al-Hasan and Rishad Hossain led Bangladesh to a 25-run win against the Netherlands in the R20 World Cup, enhancing Bangladesh's chances of advancing to the Super 8 stage. Shakib's unbeaten half-century and Rishad's top bowling performance were key. Bangladesh scored 159/5 in 20 overs, with Shakib contributing 64 runs. The Netherlands, batting second, were bowled out for 134 after losing 8 wickets. This victory puts Bangladesh in a strong position to qualify for the Super 8, while the Netherlands' fate remains uncertain.
 
-இந்த வெற்றியுடன் 4 புள்ளிகளைப் பெற்றுள்ள பங்களாதேஷ் தனது சுப்பர் 8 சுற்ற வாய்ப்பை அதிகரித்துக்கொண்டது. சுப்பர் 8 சுற்றுக்கு செல்ல நேபாளத்துடனான போட்டியில் பங்களாதேஷுக்கு ஒரு புள்ளியே தெவைப்படுகிறது.
+🟩
 
-இதேவேளை இந்தப் போட்டியில் தோல்வி அடைந்த தெர்லாந்து சுப்பர் 8 சுற்றுக்கு செல்வது சந்தேகத்திற்கிடமாகியுள்ளது.
+Bangladesh won by 25 runs in the R20 World Cup for the D Group, which came to an end at the St. Vincent Kingstown Anos Vale Stadium between Bangladesh and the Netherlands.
 
-இந்தப் போட்டியில் நெதர்லாந்து  பதிலுக்கு    துடுப்பெடுத்தாடுகையில் 5 ஓவர்கள் பூர்த்திசெய்யப்பட்டபோது முதல் சுற்றுடன் இலங்கை வெளியேறுவது உறுதிசெய்யப்பட்டது.
+With this victory, Bangladesh, which scored 4 points, increased its chance to spit its Super 8. Bangladesh has a point in the match with Nepal to go to the Super 8 round.
 
-ஷக்கிப் அல் ஹசன் குவித்த ஆட்டம் இழக்காத அரைச் சதம், ரிஷாத் ஹொசெயனின் சிறந்த பந்துவீச்சு என்பன பங்களாதேஷின் வெற்றியில் பிரதான பங்காற்றின.
+Meanwhile, the team that lost the match is suspected to go to Theland Super 8 round.
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பங்களாதேஷ் 20 ஓவர்கள் நிறைவில் 5 விக்கெட்களை இழந்து 159 ஓட்டங்களைப் பெற்றது.
+When the Netherlands were bowled out for a reply in the match, Sri Lanka was confirmed to be out of the first round when 5 overs were completed.
+
+Shakib al -Hasan's unbeaten half -century and the best bowling of Rishad Ho Syon played a major role in Bangladesh's victory.
+
+Bangladesh were the first to bat in the match and scored 159 runs for the loss of 5 wickets in 20 overs.
+
+After the first two wickets were hit for 23 runs, Dhazid Hasan and Shakib al -Hasan shared 48 runs in the 3rd wicket.
+
+Tansit Hasan scored 35 runs. Following him, Tauhit Ridoi left with 9 runs.
 
 ...
 
 [Data](articles/180bc912.json)
+
+[Extended Data](ext_articles/180bc912.ext.json)
 
 ---
 
@@ -202,23 +212,31 @@ During this time, her 8 -year -old daughter, who was sitting in the Makkad area 
 
 ---
 
-### அனைத்து மக்களின் வாழ்க்கைத் தரத்தையும் உறுதி செய்து, நாட்டில் துரித வளர்ச்சியை ஏற்படுத்த அர்ப்பணிப்புடன் செயற்படுவேன் - ஜனாதிபதி
+### I will be committed to ensuring the quality of life of all people and to create rapid growth in the country - the President
 
 *2024-06-13 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186032) · `ta`
 
-அனைத்துப் பிரஜைகளின் வாழ்க்கைத் தரத்தை உறுதி செய்வதுடன், முழு நாட்டையும் துரித அபிவிருத்தியை நோக்கி இட்டுச் செல்லும் இலக்குகளை அடைய அர்ப்பணிப்புடன் செயல்படுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+It seems like you've shared a comprehensive overview of Sri Lanka's current economic and political landscape, focusing on the challenges faced, the proposed solutions, and the future direction of the country's economic policy. Given the complexity and breadth of the issues discussed, how may I assist you further? Are you looking for analysis, suggestions on specific aspects, or perhaps assistance in drafting a document related to these topics?
 
-அந்த இலக்குகளை அடைவதற்காக  அரசியலமைப்பிற்குள் இருந்து செயற்படும் வகையில் பொருளாதார மாற்ற சட்டத்தில் அதனை உள்ளடக்கியுள்ளதாகவும் குறிப்பிட்ட ஜனாதிபதி, எனவே அரசியலமைப்பிற்கு புறம்பாக செயற்படுவதாக எவரும் குற்றம் சுமத்த முடியாது எனவும் சுட்டிக்காட்டினார்.
+🟩
 
-அத்துடன், நாட்டில் தற்போதுள்ள ஜனநாயக சோசலிசக் கோட்பாடுகளிலிருந்து தாம் ஒருபோதும் விலகவில்லை என்றும் ஜனாதிபதி தெரிவித்தார்.
+President Ranil Wickremesinghe said he would ensure the quality of life of all citizens and to achieve the goals that would lead the entire country towards rapid development.
 
-கொழும்பு ஹில்டன் ஹோட்டலில் இன்று (13) ஆரம்பமான சார்க்  நாடுகளின் மத்திய வங்கி ஆளுநர்களின் “SAARCFINANCE” மாநாட்டின் ஆரம்ப அமர்வில் பிரதான உரையை ஆற்றிய போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+He pointed out that the economic change law includes it in order to achieve those goals and that no one can accuse them of acting illegal.
 
-பிராந்தியத்தில் பல நாடுகளில் தேர்தல்கள் முடிந்து புதிய அரசாங்கங்கள் நிறுவப்பட்டுள்ளதாகத் தெரிவித்த ஜனாதிபதி, இலங்கையும் தேர்தலை நடத்த தயாராவதாகவும் குறிப்பிட்டார்.
+The President also said that he had never quit the country's existing democratic socialist doctrines.
+
+President Ranil Wickremesinghe made this statement while delivered the main speech at the SAARC Governors' Saarcfinance "conference of the Central Bank Governors of the SAARC, which commenced today (13) at the Hilton Hotel in Colombo.
+
+The President said that new governments have been established in many countries in the region and that Sri Lanka is also ready to hold elections.
+
+The President said that the people should decide whether to try to change the government or win the country once in five years.
 
 ...
 
 [Data](articles/fa974be5.json)
+
+[Extended Data](ext_articles/fa974be5.ext.json)
 
 ---
 

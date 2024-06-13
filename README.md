@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 13:53:57**
+As of **2024-06-13 14:05:45**
 
 ## Newspaper Stats
 
-*Scraped **30,179** Articles*
+*Scraped **30,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,85 @@ dailyftlk | 1,827
 adalk | 2,598
 adaderanalk | 3,420
 tamilmirrorlk | 3,534
-virakesarilk | 4,622
+virakesarilk | 4,626
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,859
+adaderanasinhalalk | 4,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,178 (100.0%) of 30,179 articles have been extended.
+30,179 (100.0%) of 30,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### වස්කඩුවේ මුහුදු වෙරළට පුද්ගල මළසිරුරක් ගොඩගසයි
+### இலங்கைக்கு கடத்தப்படவிருந்த பெருமளவிலான இஞ்சி இந்தியாவில் கைப்பற்றல்
+
+*2024-06-13 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185995) · `ta`
+
+இந்தியாவிலிருந்து இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த 60 இஞ்சி மூடைகளை தமிழக சுங்கத்துறை அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+
+இந்நிலையில், இஞ்சி மூடைகளை பதுக்கி வைத்திருந்த  வீட்டின் உரிமையாளர் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+
+இந்நிலையில், இன்று (13) அதிகாலை இலங்கைக்கு மண்டபம் அடுத்துள்ள மரைக்காயர் பட்டினம் கடற்கரையிலிருந்து இஞ்சி நாட்டுப் படகில் கடத்த இருப்பதாக தமிழகத்தில் மண்டபம் சுங்கத் துறை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவல் அடிப்படையில் நேற்று இரவு (12) மரைக்காயர்பட்டிணம் கடற்கரை ஓரம் உள்ள வீடுகள் மற்றும் மீன் வைக்கும் கம்பெனி உள்ளிட்ட  பகுதிகளில் தொடர்ந்து அதிரடி சோதனை நடத்தியுள்ளனர்.
+
+அப்போது மரைக்காயர்பட்டிணம் கடற்கரை ஓரமாக உள்ள வீடொன்றின் பின்புறம் இருந்து 60 மூடைகளில் சுமார் 2 தொன் எடை கொண்ட இஞ்சி கைப்பற்றப்பட்டுள்ளது.
+
+இதையடுத்து, இஞ்சி மூடைகளை மண்டபம் சுங்கத்துறை அதிகாரிகள் அலுவலகம் எடுத்து வந்த அந்த வீட்டின் உரிமையாளர் யார் என்பது குறித்து விசாரித்து வருகின்றனர்.
+
+...
+
+[Data](articles/77563517.json)
+
+---
+
+### කාකි ඇඳුමින් මතු වූ අසීමිත ආදරය
+
+*2024-06-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197713) · `si`
+
+මේසයක් සහ පුටුවක් නොමැතිව පාසල් ගමන අතරමඟ නතර කිරීමට සිදුවූ දරුවෙකුට මිදිගම පොලිසියේ මැදිහත්වීමෙන් යළි පාසල් යාමට අවස්ථාව හිමිවුණි.
+
+පාසැල් යාමට දැඩි කැමත්තෙන් පසුවූ පුංචි මලිඳුගේ ඒ පැතුම ඉටුවූ මොහොත එහි සිටි සියලුදෙනාම සංවේදී කිරීමට සමත් වුණි.
+
+එකළොස් හැවිරිදි චමෙත් මලිඳු ප්‍රියෂාන් වැලිගම ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ මිදිගම ප්‍රදේශයේ පදිංචි ජේ.වී. ප්‍රියන්ත සහ කේ.එච්. රසිකා ලක්ෂානිගේ දරුවන් තිදෙනෙකුගෙන් යුත් පවුලේ දෙවැනි දරුවාය.
+
+දැඩි ආර්ථික අර්බුදයන්ට මුහුණදී සිටින එම පවුල ස්ථිර නිවසක් පවා නොමැතිකමින් පදිංචිව සිටින්නේ ප්‍රදේශයේ විවිධ ස්ථානයක්වලය.
+
+එවන් අපහසුතා මැද සිය පාසල් ගමන අතහැර දමන්නට මලිඳුට සිදුවන්නේ කැමැත්තකින් නොවේ.
+
+කෙසේවෙතත් මාස කිහිපයකට පසුව යළිත් වරක් ප්‍රදේශයේ විදුහලකට මලිඳු ඇතුළත් කිරීමට මව්පියන් උත්සහ දරන්නේ අධ්‍යාපනයේ වැදගත්කම පිළිබඳව අවබෝධයක් පැවතීම හේතුවෙනි.
+
+එහෙත් විදුහල් බලධාරීන් සඳහන් කර තිබුණේ විදුහලේ මේස සහ පුටුවල අඩුවක් පැවතීම හේතුවෙන් දරුවා පාසලට ඇතුළත් කරගැනීමටනම් මේසයක් සහ පුටුවක් රැගෙන එන ලෙසය.
+
+...
+
+[Data](articles/c9290755.json)
+
+---
+
+### Bodybasirus piled to the beach of Waskadu
 
 *2024-06-13 13:17:30* · [`adalk`](https://www.ada.lk/breaking_news/වස්කඩුවේ-මුහුදු-වෙරළට-පුද්ගල-මළසිරුරක්-ගොඩගසයි/11-410193) · `si`
 
-වස්කඩුව ප්‍රදේශයේ  සංචාරක හෝටලයක් පිටුපස මුහුදු වෙරළට පුද්ගල මළසිරුරක් ගොඩගසා ඇති බව කළුතර උතුර පොලිසිය පවසයි .
+A unidentified body, believed to be a 70-year-old man wearing a hazel brown t-shirt, was found behind a tourist hotel in Waskaduwa. The discovery was made by the Kalutara North Police, who are now investigating the incident with Chief Inspector Damith Jayatilake overseeing the case. The body will be examined at the Kalutara Survey Hospital.
 
-මියගොස් ඇති පුද්ගලයා කවුරුන්ද යන්න මෙතෙක් හදුනාගෙන නොමැති බව පොලිසිය පැවසීය .
+🟩
 
-මෘතදේහය හදිසි මරණ පරීක්ෂණයෙන් පසු කළුතර ශීක්ෂණ රෝහලට රැගෙන යාමට නියමිතව තිබුණි. වයස අවුරුදු  70ක පමණ පුද්ගලයකු බවත් ලා දුඹුරු පැහැති  ටී ෂර්ට්  සැරසී සිටින බවත් පොලිසිය පවසයි .
+Kalutara North Police say that a carcirror has been launched behind a tourist hotel in Waskaduwa area.
 
-කළුතර උතුර ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතා ගේ ප්‍රධානත්වයෙන් විවිධ පැමිණිලි අංශය පරීක්ෂණ පවත්වති.
+Police said who had not been identified as the person who had died.
+
+The body was to be taken to the Kalutara Survey Hospital following the death inspection. Police say that a 70-year-old man is dressed in hazelly brown t-shirts.
+
+The complaint sector is conducting further investigations under the patronage of speaking at the chief police Inspector Damith Jayatilake.
 
 ◼️
 
 [Data](articles/850e73b5.json)
+
+[Extended Data](ext_articles/850e73b5.ext.json)
 
 ---
 
@@ -89,6 +139,32 @@ A French official said that while the loan would be mostly U.S.-guaranteed, it c
 [Data](articles/609156af.json)
 
 [Extended Data](ext_articles/609156af.ext.json)
+
+---
+
+### வெகுவிரைவில் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்படும் - செஹான் சேமசிங்க
+
+*2024-06-13 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185988) · `ta`
+
+அரசமுறை வெளிநாட்டு கடன்மறுசீரமைப்பு தொடர்பான இருதரப்பு பேச்சுவார்த்தை இலங்கைக்கு சாதகமாக உள்ளதாகவும் வெகுவிரைவில் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்படுமெனவும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+இதேவேளை, சர்வதேச நாணய நிதியத்துடன் இலங்கை மேற்கொண்டுள்ள செயற்திட்டம் குறித்து தேசிய மட்டத்திலான நிறுவனங்கள் வெளியிடும் மதிப்பாய்வு அறிக்கைகளில் உண்மைத் தன்மை கிடையாதென நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/2f71827a.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-13 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185985) · `ta`
+
+இன்று வியாழக்கிழமை  (ஜூன் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 299.0081 ஆகவும் கொள்வனவு விலை ரூபா 308.4819 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d909b659.json)
 
 ---
 
@@ -137,6 +213,20 @@ However. The Lakugala Divisional Secretariat is collecting funds for this purpos
 [Data](articles/f1d35b7e.json)
 
 [Extended Data](ext_articles/f1d35b7e.ext.json)
+
+---
+
+### கரையோர ரயில் சேவைகள் பாதிப்பு
+
+*2024-06-13 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185983) · `ta`
+
+பாணந்துறையில் இருந்து மருதானை நோக்கி பயணித்த ரயில் ஒன்று  பாணந்துறை ரயில் நிலையத்துக்கு அருகில் இன்று (13) காலை  தடம்புரண்டுள்ளது. இதன்போது, ரயிலின் பெட்டி ஒன்று  தடம்புரண்டு அருகிலிருந்த சமிக்ஞை கட்டமைப்பில்  மோதியதால் அந்தக் கட்மைப்பும் முற்றிலும் செயலிழந்துள்ளது.
+
+இதேவேளை, கரையோர ரயில் சேவை மொரட்டுவை ரயில் நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் மேலும் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/574d8243.json)
 
 ---
 
@@ -428,6 +518,32 @@ The Finance State Minister said that the third tranche of USD 336 million unlock
 
 ---
 
+### Yall. Fishermen in Tamil Nadu
+
+*2024-06-13 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185967) · `ta`
+
+Two fishermen from Analadeevu, Thiruchelvam Michael Fernando and Nagalingam Vijayakumar, went missing while fishing near the Nagapattinam coast in Tamil Nadu. Their boat was damaged, but they were found safe in the Arukattutturai fishing village. The Vedaranyam Coast Guard is investigating.
+
+🟩
+
+The two missing from Jaffna - Analadeevu have been alive in Tamil Nadu.
+
+Thiruchelvam Michael Fernando and Nagalingam Vijayakumar from Analadeevu have collapsed and the boat machine has been damaged and the coast of Nagapattinam in Tamil Nadu is located.
+
+About 2 napayal miles east of the Vedaranyam police Sarakam, Arukattutturai fishing village, two fishermen in the Bay of Bengal have been deployed.
+
+Ramesh (Responsibility - Vedaranyam Coast Guard) is investigating the two fishermen.
+
+The family announced that two persons who had gone to the sea were missing at 5 pm last Monday (10).
+
+◼️
+
+[Data](articles/29bc7a15.json)
+
+[Extended Data](ext_articles/29bc7a15.ext.json)
+
+---
+
 ### Jeffrey suspended the ban on foreign travel ban
 
 *2024-06-13 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197708) · `si`
@@ -681,32 +797,6 @@ The Badulla police said that although the cause of the death was not yet detecte
 [Data](articles/3d229298.json)
 
 [Extended Data](ext_articles/3d229298.ext.json)
-
----
-
-### Yall. Fishermen in Tamil Nadu
-
-*2024-06-13 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185967) · `ta`
-
-Two fishermen from Analadeevu, Thiruchelvam Michael Fernando and Nagalingam Vijayakumar, went missing while fishing near the Nagapattinam coast in Tamil Nadu. Their boat was damaged, but they were found safe in the Arukattutturai fishing village. The Vedaranyam Coast Guard is investigating.
-
-🟩
-
-The two missing from Jaffna - Analadeevu have been alive in Tamil Nadu.
-
-Thiruchelvam Michael Fernando and Nagalingam Vijayakumar from Analadeevu have collapsed and the boat machine has been damaged and the coast of Nagapattinam in Tamil Nadu is located.
-
-About 2 napayal miles east of the Vedaranyam police Sarakam, Arukattutturai fishing village, two fishermen in the Bay of Bengal have been deployed.
-
-Ramesh (Responsibility - Vedaranyam Coast Guard) is investigating the two fishermen.
-
-The family announced that two persons who had gone to the sea were missing at 5 pm last Monday (10).
-
-◼️
-
-[Data](articles/29bc7a15.json)
-
-[Extended Data](ext_articles/29bc7a15.ext.json)
 
 ---
 
@@ -2173,129 +2263,5 @@ Also, the police officers who handed over police dogs for various raids were als
 [Data](articles/e8ce55e9.json)
 
 [Extended Data](ext_articles/e8ce55e9.ext.json)
-
----
-
-### 15 major laws will be passed soon - Justice Minister Vijayadasa Rajapakse
-
-*2024-06-12 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185953) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa announced plans to pass 15 key laws within weeks, building on 75 bills passed in the past 18 months to overhaul the country's legal structure. These reforms aim to combat corruption, introduce new crimes related to sports and sexual bribery, require asset declarations from citizens, establish an authority for investigating illicitly gained assets, amend primary case action laws, and facilitate implementation of foreign court judgments. Additionally, the government aims to remove lawsuits and drug-related laws, with amendments to the Muslim Marriage and Divorce Act and the introduction of a new marriage bill.
-
-🟩
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that arrangements are being made to pass about 15 most important laws in the next few weeks.
-
-The Minister said that in the last 18 months, about 75 bills have been passed in Parliament and have made the basic changes to the country.
-
-Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Wednesday the 12th.
-
-“In the judicial framework of our country, this period can be mentioned in the time when the major legal restructuring on justice is the case.. In the last 18 months, about 75 bills have been submitted and passed in Parliament. It must be noted that this will help the country to make a basic change.
-
-...
-
-[Data](articles/84f90b00.json)
-
-[Extended Data](ext_articles/84f90b00.ext.json)
-
----
-
-### New Committee to investigate the actions taken by the authorities in connection with the April 21 bomb attack
-
-*2024-06-12 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185952) · `ta`
-
-A new committee, led by retired Justice ANT Alvis and including officials from the State Intelligence Service (SIS), National Intelligence Service (CNI), and others, has been formed to investigate the April 21, 2019, bomb attack. The committee aims to assess the measures taken by these services and officials regarding the bombing and whether these measures were adequate. This comes after previous investigations, including one by the Criminal Investigation Division (CID) and another by the Commission of Inquiry, highlighted issues in the initial responses and investigations into the attack.
-
-🟩
-
-President Ranil Wickremesinghe and retired Justice ANT Alvis have appointed a committee headed by the State Intelligence Service (SIS), National Intelligence Service (CNI) and other officials to investigate the bombing on April 21, 2019..
-
-Retired High Court Judge ANJD. In this committee headed by Alvis, KNK, a special standard officer of the Sri Lanka Executive Service as fellow members. Somatna and Senior Attorney WMANnishane are also included.
-
-The President's Senior Assistant Advisor Saradanjali Manoharan has been appointed as the Secretary of the Inquiry Committee.
-
-What are the measures taken by the State Intelligence Service (SIS), the National Intelligence Chief (CNI) and other officials on the bombing of the bombing on April 21, 2019?Is there adequate measures?To be investigated.
-
-...
-
-[Data](articles/7dee8f8d.json)
-
-[Extended Data](ext_articles/7dee8f8d.ext.json)
-
----
-
-### A kidnapped girl discovers in underground booth
-
-*2024-06-12 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197695) · `si`
-
-Buttala Police rescued a 14-year-old girl from an underground hiding place after she was kidnapped by three individuals. The main suspect, a 20-year-old, was arrested and remanded, while the others were caught due to their confessions. The underground shelter, prepared for over a month and a half, had minimal ventilation. The suspects were remanded for 14 days by the Wellawaya Magistrate's Court.
-
-🟩
-
-Buttala Police have liberated a 14-year-old girl who was hidden in an underground booth today (2).
-
-The girl was kidnapped by a 20-year-old youth.
-
-The 14-year-old girl had been abducted by three youths who came to a house in Katugasage, Buttala on the 9th.
-
-One youth has been attacked with a sharp instrument in the father of the girl who tried to prevent abduction.
-
-The main suspect in connected to the incident was taken into custody and was remanded until the 24th of this month.
-
-However, the police were able to detect the other two youths who had come to the abduction of the girl along with the main suspect.
-
-Accordingly, the two youths arrested during the interrogation of the two youths were confessed that the abducted girl remains in a underground house of a mark belonging to the main suspect in the city of Buttala.
-
-Buttala Police Chief Inspector Jayathilaka Bandara and a group of other officials had left the relevant house expedited.
-
-...
-
-[Data](articles/51a76dc7.json)
-
-[Extended Data](ext_articles/51a76dc7.ext.json)
-
----
-
-### Mohan Saran Maji selected as the Chief Minister of Odisha
-
-*2024-06-12 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185916) · `ta`
-
-Mohan Saran Maji, from the Bharatiya Janata Party (BJP), has been elected as the Chief Minister of Odisha, winning 78 assembly seats. The decision came after consultations with BJP legislators, with union ministers Rajnath Singh and Bubender Yadav present. Maji, a tribal leader, is sworn in by Governor Raghubar Das, with Prime Minister Narendra Modi attending the ceremony. Deputy Chief Ministers KV Singh Theo and Pravati Parita were also elected.
-
-🟩
-
-The party has announced that Mohan Saran Maji has been elected as the Chief Minister of the Bharatiya Janata Party (NDA) led by the Bharatiya Janata Party (NDA).
-
-Bharatiya Janata Party won 78 seats in the Odisha assembly election. This was followed by a meeting to elect the Chief Minister of the State, Bhubaneswar. Union ministers Rajnath Singh and Bubender Yadav participated as the BJP's top representative. Mohan Saran Maji was elected as the party's chief minister after consultation with Bharatiya Janata Party legislators. They also announced that KV Singh Theo and Pravati Parita were elected as deputy chief minister.
-
-It is noteworthy that Mohan Saran, who is in charge of the new chief minister, belongs to the tribal and has been elected for the fourth consecutive time.
-
-...
-
-[Data](articles/91af0c79.json)
-
-[Extended Data](ext_articles/91af0c79.ext.json)
-
----
-
-### Happy news to egg lovers
-
-*2024-06-12 20:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-பிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-338824) · `ta`
-
-Egg prices may drop by up to Rs 45 due to reduced production costs, according to the Manufacturers Association. President Ajith Gunasekera notes that current consumer prices range from Rs 35 to Rs 48, eliminating the need for imports.
-
-🟩
-
-The Manufacturers Association said the maximum retail price of the egg could be reduced by up to Rs 45.
-
-Its president Ajith Gunasekera said that the cost of egg production in the market will be further reduced.
-
-Meanwhile, he said that consumers are buying eggs from Rs 35 to Rs 48 in the egg market and there is no need to import the egg.. Remble
-
-◼️
-
-[Data](articles/da01621a.json)
-
-[Extended Data](ext_articles/da01621a.ext.json)
 
 ---

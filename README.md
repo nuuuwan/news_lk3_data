@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 19:53:15**
+As of **2024-06-13 20:05:27**
 
 ## Newspaper Stats
 
-*Scraped **30,231** Articles*
+*Scraped **30,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,607
 adaderanalk | 3,428
-tamilmirrorlk | 3,538
+tamilmirrorlk | 3,539
 virakesarilk | 4,636
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,873
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,229 (100.0%) of 30,231 articles have been extended.
+30,231 (100.0%) of 30,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### பெண் ஒருவர் அதிரடியாக கைது
+
+*2024-06-13 19:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-அதிரடியாக-கைது/175-338874) · `ta`
+
+இஸ்ரேலில் வேலை வாங்கித் தருவதாகக் கூறி பணம் மோசடி செய்த நில்மினி என்ற பெண்ணை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள் கைது செய்துள்ளனர்.
+
+கதிர்காமம், கோதமிகம பிரதேசத்தைச் சேர்ந்த பெண்ணொருவர் 1,689,000 ரூபா பணத்தைப் பெற்று, வாக்குறுதியளித்தபடி வேலை வழங்கவில்லை என நபர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேகநபரான பெண் நேற்று (12) கைது செய்யப்பட்டுள்ளார்.
+
+சம்பந்தப்பட்ட பெண்ணை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்திற்கு அழைத்து வாக்குமூலங்களைப் பதிவு செய்ததன் பின்னர் பணியக சட்டத்தை மீறிய குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், பணியகத்தின் இணையதளமான www.slbfe.lk அல்லது 1989 என்ற ஹாட்லைன் எண்ணுக்கு அழைப்பதன் மூலம் வெளிநாட்டு வேலை தேடுபவர்கள் தகவல்களைப் பெறுமாறு பணியகம் மேலும் கேட்டுக்கொள்கிறது. R
+
+◼️
+
+[Data](articles/25614241.json)
+
+---
 
 ### Shooting incident ‘targeting’ former MP Uddika was self-orchestrated: Police
 
@@ -45,6 +63,8 @@ On September 17, 2023, a group of unidentified gunmen had opened fire at Premara
 ...
 
 [Data](articles/083bc1c9.json)
+
+[Extended Data](ext_articles/083bc1c9.ext.json)
 
 ---
 
@@ -202,17 +222,23 @@ The Ministry of Education has also called applications from the English Media Te
 
 ---
 
-### තවත් දුම්රිය වර්ජනයක් අත ළඟයි
+### Another train strike is nearing
 
 *2024-06-13 18:17:34* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-දුම්රිය-වර්ජනයක්-අත-ළඟයි/11-410200) · `si`
 
-තව වෘත්තීමය ගැටලු සඳහා දුම්රිය දෙපාර්තමේන්තුවෙන් ඉල්ලා සිටි යෝජනා සඳහා විසඳුමක් ලබා නොදෙන්නේ නම් හෙට පස්වරු 2න් පසු ක්ෂණික වෘත්තීය ක්‍රියාමාර්ගයට පිවිසෙන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+A looming train strike is set unless the Railway Department addresses professional concerns raised by the Station Masters' Association and the Station OICs Association. A resolution is awaited by 2 pm tomorrow.
 
-ඒ අනුව තම වෘත්තීය ගැටලු සඳහා සාධනීය පිළිතුරක් හෙට පස්වරු 2ට පෙර අපේක්ෂා කරන බවද එම සංගමය දුම්රිය දෙපාර්තමේන්තුව වෙත දන්වා තිබේ.
+🟩
+
+The Station Masters' Association says that if there is no solution to the Sampath demanded by the Railway Department for more professional issues, the Station OICs Association says.
+
+Accordingly, a positive answer for their professional issues is expected to be anticipated at 2 pm tomorrow.
 
 ◼️
 
 [Data](articles/e080cd36.json)
+
+[Extended Data](ext_articles/e080cd36.ext.json)
 
 ---
 
@@ -2353,31 +2379,5 @@ Opposition leader Sajith Premadasa will go to the Northern Province and implemen
 [Data](articles/e2313a7b.json)
 
 [Extended Data](ext_articles/e2313a7b.ext.json)
-
----
-
-### 10 people arrested and released on bail
-
-*2024-06-13 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185960) · `ta`
-
-Protests erupted in Muttur East over rock breaking at Nellikkulam Mountain. Ten protesters were arrested under the Criminal Procedure Act but released on bail after appearing in court.
-
-🟩
-
-The people of the area protested when they tried to start a breakdown with a rock break on Saturday (08) to break the rocks of the Nellikkulam Mountain Series in the Muttur East of the Trincomalee District.
-
-But on Tuesday (11) at 9.45 am, people protested when the mountain break work began.
-
-The Sampur police arrested 10 people on Tuesday (11) on Tuesday (11) on the basis of an act of the Criminal Procedure Act, Article 15 of 1979.
-
-The 10 released court was produced at the Muttur court today (12) at 12.20 pm.
-
-Attorneys on behalf of 10. Mukundan, n. Mohan was also present.
-
-◼️
-
-[Data](articles/3a44aa0a.json)
-
-[Extended Data](ext_articles/3a44aa0a.ext.json)
 
 ---

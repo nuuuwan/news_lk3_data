@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 20:53:21**
+As of **2024-06-13 21:04:13**
 
 ## Newspaper Stats
 
-*Scraped **30,244** Articles*
+*Scraped **30,246** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 275
+colombotelegraphcom | 276
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,608
+adalk | 2,609
 adaderanalk | 3,428
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,244 (100.0%) of 30,244 articles have been extended.
+30,244 (100.0%) of 30,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -219,6 +219,24 @@ Police said the two -wheelers were severely damaged.
 [Data](articles/baac75ae.json)
 
 [Extended Data](ext_articles/baac75ae.ext.json)
+
+---
+
+### ඇල්ල ආරුක්කු නමය පාලම අසල බඹර කූඩු ඉවත් කෙරේ
+
+*2024-06-13 19:00:51* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ආරුක්කු-නමය-පාලම-අසල-බඹර-කූඩු-ඉවත්-කෙරේ/11-410203) · `si`
+
+සංචාරක ආකර්ෂණය දිනාගත් ඇල්ල ආරුක්කු නමය පාලම අසල බඹරවද ඇවිස්සීම නිසා ඇතිවන අවදානම වැළැක්වීමේ අරමුණින් බඹර කූඩු  ඉවත් කිරීම සහ බඹරවද නැවත සකස් කිරීම පාලනය කිරීම සඳහා විශේෂ වැඩසටහනක් අද 13 දින සිට  ක්‍රියාත්මක කරන  බව ඇල්ල ප්‍රා දේශීය ලේකම් ඉන්දික ගයාන් පතිරණ මහතා පැවසීය.
+
+ඇල්ල  ප්‍රා දේශීය  ලේකම් කාර්යාලය සම්බන්ධීකරණය යටතේ මධ්‍යම සංස්කෘතික අරමුදලේ ‍ සහ ප්‍ර දේශවාසීන්ගේ මූල්‍යදායකත්වය මත දුම්රිය දෙපාර්තමේන්තුව පුරාවිද්‍යා දෙපාර්තමේන්තුව සහ බිඟු සුරැකීමේ සංවිධානය මගින් මෙම බඹරවද ඉවත් කිරීමේ වැඩසටහන ක්‍රියාත්මක කරන බවද ඒ මහතා පැවසීය.
+
+මිට අමතරව හදිසි බඹර ප්‍ර හාරයකින් ආරක්ෂාවීම සඳහා ආරක්ෂක කුටියක් නිර්මාණය කිරීමටද කටයුතු යොදා ඇති බව ඒ මහතා පැවසීය.
+
+ආරුක්කු නමය පාලම හා ඒ ආශ්‍රිත ප්‍ර දේශයේ ගැවසෙන දෙස් විදෙස් සංචාරකයින් කිහිප දෙනෙකුම පසුගිය දිනවල බඹර ප්‍රහාරයට ලක්ව රෝහල් ගත කිරීමට සිදුවූ බවද ඒ මහතා සඳහන් කළේය.ඇල්ල සහ ආරුක්කු නමය පාලම ආශ්‍රිත ප්‍ර දේශයේ දෙස් විදෙස් සංචාරකයින්ගේ ආකර්ෂණය  දිනාගත් සුප්‍රසිද්ධ ගමනාන්තයෙකි.
+
+◼️
+
+[Data](articles/4a8a2c15.json)
 
 ---
 
@@ -1003,6 +1021,22 @@ The news discussion was called at a private hotel in Pitakotte this morning.
 [Data](articles/227ae8cc.json)
 
 [Extended Data](ext_articles/227ae8cc.ext.json)
+
+---
+
+### President RW Emphasizes He Has Not Deviated From The Principles Of The Democratic Socialist System
+
+*2024-06-13 14:56:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-rw-emphasizes-he-has-not-deviated-from-the-principles-of-the-democratic-socialist-system/) · `en`
+
+President Ranil Wickremesinghe emphasized that he has not deviated from the principles of the democratic socialist system in Sri Lanka. He noted that two key objectives have been incorporated, ensuring that all citizens have an adequate standard of living and promoting rapid development across the country through public and private economic activities aimed at social objectives and the public good.
+
+President Wickremesinghe highlighted that the recently submitted Economic Transformation Bill is designed to achieve these ambitious goals within the framework of the constitution. He asserted that this legislation underscores his adherence to constitutional principles, thereby countering any accusations of unconstitutional actions.
+
+The President made these remarks during his keynote address at the inaugural session of the 45th “SAARCFINANCE” Governors’ Meeting and Symposium held today (13) at the Hilton Hotel, Colombo.
+
+...
+
+[Data](articles/964a59d4.json)
 
 ---
 
@@ -2327,63 +2361,5 @@ Ruwan Sathkumara further stated that all the necessary steps would be taken to e
 [Data](articles/e0d7ce09.json)
 
 [Extended Data](ext_articles/e0d7ce09.ext.json)
-
----
-
-### Sri Lanka third place in South Asia among the gender spacing
-
-*2024-06-13 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197706) · `si`
-
-In South Asia, Bangladesh tops, followed by Nepal and Sri Lanka in third place, while India ranks fifth. The Global Gender Gap Index measures gender equality across four dimensions, with Iceland leading worldwide, followed by Finland and Sweden.
-
-🟩
-
-The Guend Gender is in the South Asia, among the lowest countries.
-
-According to the annual global gender, Bangladesh is the first place in the South Asian region.
-
-Nepal is in the second place and India will be in the fifth location and Pakistan.
-
-The gender equality of four main dimensions is measured and the gender has been published since 2006.
-
-The first place in the world is the first place to Iceland.
-
-Finland is the second place in Finland and Sweden is five in the fourth place in the third place.
-
-◼️
-
-[Data](articles/8fe7d079.json)
-
-[Extended Data](ext_articles/8fe7d079.ext.json)
-
----
-
-### Mail is sickin today
-
-*2024-06-13 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197705) · `si`
-
-The Joint Postal Employee Trade Union Alliance initiated a nationwide strike starting last night to press for employee rights within the Postal Department. Despite the strike, postal services aim to remain operational, with management cancelling leaves and taking measures to ensure continuity. The Station OICs Association warns of further actions if issues aren't addressed.
-
-🟩
-
-The Joint Postal Employee Trade Union Alliance has launched a trade union action from midnight yesterday (12).
-
-Convener of the Joint Postal Workers Trade Union Collecter Chinthaka Bandara said that the strike will be implemented throughout the country today (13).
-
-Chinthaka Bandara stated that the purpose of these vocational union action is to educate the authorities to resolve employees in the Postal Department.
-
-However, Mr. Ruwan Sundara, However, he has decided to cancel all postal workers' leave, according to the immediate effective action.
-
-The Postcard will not be accepted to address the issue regarding the issue and is not acceptable to engage in a trade union action.
-
-However, Mr. Ruwan Skamamara said that all possible steps will be taken to continue the post of postal department.
-
-Meanwhile, the Station OICs Association says that if the authorities do not take steps to address their problems, the Station Masters Association says.
-
-...
-
-[Data](articles/802ee17d.json)
-
-[Extended Data](ext_articles/802ee17d.ext.json)
 
 ---

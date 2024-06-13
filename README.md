@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 09:19:11**
+As of **2024-06-13 09:34:29**
 
 ## Newspaper Stats
 
-*Scraped **30,139** Articles*
+*Scraped **30,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,591
-adaderanalk | 3,413
+adaderanalk | 3,414
 tamilmirrorlk | 3,526
 virakesarilk | 4,615
 dailymirrorlk | 4,733
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,139 (100.0%) of 30,139 articles have been extended.
+30,139 (100.0%) of 30,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### Postal strike continues
+
+*2024-06-13 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99849/postal-strike-continues) · `en`
+
+The United Postal Trade Unions Front (UPTUF) has launched a trade union action starting from midnight yesterday (12).
+
+UPTUF convener Chinthaka Bandara stated that a 24-hour nationwide strike will be held till midnight today (13).
+
+He further stated that the main objective of the trade union action is to demand the government to provide immediate solutions to the shortage of employees in the postal service.
+
+However, Postmaster General Ruwan Sathkumara stated that it has been decided to immediately cancel all postal workers’ leave.
+
+He expressed his disapproval of the ongoing trade union action stating that the Posts Department is already planning to take necessary steps for the ongoing concerns.
+
+Ruwan Sathkumara further stated that all the necessary steps would be taken to ensure an uninterrupted postal service.
+
+◼️
+
+[Data](articles/e0d7ce09.json)
+
+---
 
 ### Sri Lanka third place in South Asia among the gender spacing
 
@@ -2277,27 +2299,5 @@ She was a prominent figure of the pop-yeah population of France.
 [Data](articles/834ea1d2.json)
 
 [Extended Data](ext_articles/834ea1d2.ext.json)
-
----
-
-### Fire in Kuwaiti building housing workers kills 41, deputy PM says
-
-*2024-06-12 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99834/fire-in-kuwaiti-building-housing-workers-kills-41-deputy-pm-says) · `en`
-
-A fire that broke out in a building housing workers in the city of Mangaf in southern Kuwait early on Wednesday has killed at least 41 people, the country’s deputy prime minister Sheikh Fahad Yusuf Saud Al-Sabah said during a visit to the site.
-
-The deputy PM accused real estate owners of violations and greed, saying those factors contributed towards the incident.
-
-“Unfortunately, the greed of real estate owners is what leads to these matters,” said Sheikh Fahad, who also runs the interior and defense ministries.
-
-The fire was reported to authorities at 6:00 a.m. local time (0300 GMT), Major General Eid Rashed Hamad said.
-
-“The building in which the fire occurred was used to house workers, and there was a large number of workers there. Dozens were rescued, but unfortunately there were many deaths as a result of inhaling smoke from the fire,” another senior police commander told state TV.
-
-...
-
-[Data](articles/c5862945.json)
-
-[Extended Data](ext_articles/c5862945.ext.json)
 
 ---

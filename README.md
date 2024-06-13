@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 11:54:18**
+As of **2024-06-13 12:07:10**
 
 ## Newspaper Stats
 
-*Scraped **30,163** Articles*
+*Scraped **30,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 1,827
 adalk | 2,594
 adaderanalk | 3,418
 tamilmirrorlk | 3,530
-virakesarilk | 4,618
+virakesarilk | 4,622
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,857
+adaderanasinhalalk | 4,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,158 (100.0%) of 30,163 articles have been extended.
+30,163 (100.0%) of 30,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### රන් මාල කොල්ලය CCTV කැමරාවේ
+
+*2024-06-13 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197711) · `si`
+
+කැස්බෑව, බණ්ඩාරගම මාර්ගයේ මාකන්දන සුපිරි වෙළෙඳසැලක් ඉදිරිපිටදී කාන්තාවකගේ ගෙල බැදි  රන්මාලය හා පෙන්ඩන් තුනක් යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයකු කොල්ලකා පළා යන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
+
+එලෙස කොල්ලකා ඇත්තේ රුපියල් ලක්ෂ 5කට පමණ අධික වටිනා පවුම් 2 හමාරක් බර රන් මාලයක් සහ රන් පෙන්ඩන් තුනකි.
+
+අදාළ කාන්තාව සුපිරි වෙළඳ සැලට ගොස් මාර්ගයට පැමිණ ත්‍රිරෝද රථයක් බලාපොරොත්තුව රැඳී සිටියදී ඇය ආසන්නයේම නතර කර තිබූ  ස්කූටර් වර්ගයේ යතුරු පැදියක සිටි පුද්ගලයෙකු එකවරම ඇයගේ ගෙල බැඳි රන්මාලය කඩාගෙන යතුරුපැදියෙන් බටුවන්දර දෙසට පළ යන අයුරු එම CCTV දර්ශනවල සටහන්ව තිබිණි.
+
+පළා ගිය යතුරුපැදියේ ලියාපදිංචි අංකය අනුව සිදුකළ පරීක්ෂාවේදී එම යතුරු පැදිය මොරටුව ප්‍රදේශයේ කාන්තාවකගේ නමට ලියාපදිංචි එකක් බවත් එය ඉකුත් 10 වෙනි දින රාත්‍රියේ එගොඩවීර ප්‍රදේශයේදී සොරාගෙන ගොස් ඇති බවට අනාවරණය වී යැයි පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/10e9759c.json)
+
+---
+
+### கல்முனையில் இலங்கை போக்குவரத்து சபை ஊழியர்கள் போராட்டம்
+
+*2024-06-13 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185971) · `ta`
+
+கல்முனையில் இலங்கை போக்குவரத்து சபை  ஊழியர்கள்  பஸ் நிலையத்தில் இன்று வியாழக்கிழமை (13) போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+இலங்கை போக்குவரத்து சபை ஊழியர்களின் பாதுகாப்பினை  வலியுறுத்தியும் ஒருங்கிணைந்த சேவை வேண்டாம் என தெரிவித்தும் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+இலங்கை போக்குவரத்து சபையின் தனித்துவத்தை சிதைக்காதே, போக்குவரத்து அமைச்சு தனியாருக்காகவா என்ற வாசகங்கள் அடங்கிய பதாகைகளுடன் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+கடந்த  செவ்வாய்க்கிழமை நேர காலதாமதம் என குறிப்பிட்டு அம்பாறை கல்முனை ஒருங்கிணைந்த சேவையில் ஈடுபடும் இ.போ.ச ஊழியர்களுக்கும் தனியார் பஸ் ஊழியர்களுக்கும் முரண்பாடு ஏற்பட்டு கைகலப்பில் முடிவடைந்திருந்து. இதன்போது இரு தரப்பினரைச் சேர்ந்தவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்திருந்தனர்.
+
+இந்நிலையில் கல்முனை தலைமையக பொலிஸாரினால் இ.போ.சபை ஊழியர்கள் சிலர் கைது செய்யப்பட்டு தடுப்பு காவலில் வைக்கப்பட்டுள்ளதாகவும் குற்றச்சாட்டுக்களை போராட்டத்தில் ஈடுபட்டவர்கள் குறிப்பிட்டனர்.
+
+...
+
+[Data](articles/52648d8c.json)
+
+---
+
+### யாழ். வடமராட்சி பகுதியில் 135 கிலோ கிராம் கஞ்சா மீட்பு!
+
+*2024-06-13 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185975) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு தாளையடி பகுதியில் 135 கிலோ கிராம் கேரள கஞ்சா இன்று வியாழக்கிழமை (13) அதிகாலை 4:45 மணியளவில்  மீட்கப்பட்டுள்ளது.
+
+கஞ்ச கடத்தல் இடம்பெறுவதாக கடற்படை புலனாய்வு பிரிவினருக்கு கிடைத்த  தகவலிற்கு  அமைவாக  வெற்றிலைக்கேணி கடற்படை மற்றும் சிறப்பு அதிரடி படையினர்  இணைந்து தாளையடி பகுதியில் தேடுதல் நடாத்தியுள்ளனர். அவ்வேளை கஞ்சா கடத்தலில் ஈடுபட்டவர்கள் தப்பிச் சென்றுள்ளனர்.
+
+அங்கு காணப்பட்ட  135  கிலோ கிராம் எடையுள்ள 03 கேரள கஞ்சா பொதிகளை கைப்பற்றிய வெற்றிலைக்கேணி  கடற்படை, மற்றும் சிறப்பு அதிரடிப்படையினர் குறித்த கஞ்சாவை பொதிகளை  மேலதிக சட்ட நடவடிக்கைகளுக்காக  மருதங்கேணி பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+
+◼️
+
+[Data](articles/abb86229.json)
+
+---
 
 ### West Indies win
 
@@ -132,6 +186,8 @@ The committee is expected to submit its findings and recommendations by Septembe
 
 [Data](articles/b6028c7d.json)
 
+[Extended Data](ext_articles/b6028c7d.ext.json)
+
 ---
 
 ### Train tracks jumps - the coastal road completely blocks
@@ -196,6 +252,22 @@ Amal Perera, Dr. Namal Perera, Dr. Namal Perera, Dr. Namal Perera and Aduriya Pa
 
 ---
 
+### சர்வதேச நாணய நிதியத்திற்கு நிதி  இராஜாங்க அமைச்சர் செஹான் சேமசிங்க நன்றி தெரிவிப்பு
+
+*2024-06-13 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185972) · `ta`
+
+விரிவாக்கப்பட்ட நிதி வசதி திட்டத்தின் கீழ் மூன்றாவது தவணையை விடுவிப்பதற்கு ஒத்துழைத்த சர்வதேச நாணய நிதிய உறுப்பினர்களுக்கும் அதன் பணிக்குழாமினருக்கும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க நன்றி தெரிவித்துள்ளார்.
+
+அத்துடன், நாட்டின் பொருளாதார மீட்சிக்கும் வளர்ச்சிக்குமான தொடர்ச்சியான அர்ப்பணிப்பை இந்த செயற்பாடு குறித்து நிற்கின்றது என்றும் நிதி  இராஜாங்க அமைச்சர் செஹான் சேமசிங்க குறிப்பிட்டார்.
+
+இலங்கைக்கு வழங்கப்பட்டுள்ள நீடிக்கப்பட்ட கடன் வசதியின் 2 ஆவது மதிப்பாய்வை நிறைவேற்றி 3 ஆவது கட்ட கொடுப்பனவுக்கான 336 மில்லியன் அமெரிக்க டொலர்களை வழங்க சர்வதேச நாணய நிதியத்தின் நிறைவேற்றுக்குழு அங்கீகாரம் வழங்கியுள்ள நிலையிலேயே நிதி இராஜாங்க அமைச்சர் நன்றி தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/968b8024.json)
+
+---
+
 ### Postal staff jumped on the task
 
 *2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதித்த-அஞ்சல்-ஊழியர்கள்/175-338845) · `ta`
@@ -239,6 +311,28 @@ However, the economy is still at risk, and the Monetary Fund points out that the
 [Data](articles/bd56f4da.json)
 
 [Extended Data](ext_articles/bd56f4da.ext.json)
+
+---
+
+### யாழில் ஊடகவியலாளர் வீடு மீது தாக்குதல்
+
+*2024-06-13 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185969) · `ta`
+
+யாழ்ப்பாணம் - அச்சுவேலியில் உள்ள ஊடகவியலாளர் ஒருவரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்டுள்ளனர்.
+
+குறித்த தாக்குதல் சம்பவம் இன்று வியாழக்கிழமை அதிகாலை 12.15 மணியளவில் அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது நடத்தப்பட்டது.
+
+இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஐந்து பேர் கொண்ட வன்முறைக்கும்பலே குறித்த வன்முறையில் ஈடுபட்டுள்ளதாக தெரியவருகிறது.
+
+இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+
+"திருநங்கைளின் உணர்வுகளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டுள்ளது.
+
+தாக்குதலுக்கான காரணம் தெரியவராத நிலையில் சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/88c3f60c.json)
 
 ---
 
@@ -642,6 +736,8 @@ Sri Lanka’s inflation is currently low as anchor conflicts have not yet re-eme
 
 [Data](articles/f5284e82.json)
 
+[Extended Data](ext_articles/f5284e82.ext.json)
+
 ---
 
 ### Conflict left in Sri Lanka constitution to avoid referendum
@@ -661,6 +757,8 @@ Former legislator and President’s Counsel Jayampathy Wickramaratne said the br
 ...
 
 [Data](articles/4ba2dcff.json)
+
+[Extended Data](ext_articles/4ba2dcff.ext.json)
 
 ---
 
@@ -683,6 +781,8 @@ This unilateral increase affects not only the regional plantation companies but 
 ...
 
 [Data](articles/cf6b0baf.json)
+
+[Extended Data](ext_articles/cf6b0baf.ext.json)
 
 ---
 
@@ -1762,6 +1862,8 @@ Upto now the central bank has provided monetary stability, allowing people to st
 
 [Data](articles/1a627f56.json)
 
+[Extended Data](ext_articles/1a627f56.ext.json)
+
 ---
 
 ### Police gifts to citizens of society
@@ -2175,129 +2277,5 @@ The money was issued by Public Security Minister Tran Ales and the Chief of Poli
 [Data](articles/bb31b3b7.json)
 
 [Extended Data](ext_articles/bb31b3b7.ext.json)
-
----
-
-### Sri Lanka wins the male runners up the South Asian Cestoball Woman
-
-*2024-06-12 18:24:25* · [`adalk`](https://www.ada.lk/sports/දකුණු-ආසියානු-සෙස්ටබෝල්-කාන්තා-ශූරතාවත්-පිරිමි-අනුශූරතාවත්-ලංකාවට/9-410180) · `si`
-
-Sri Lanka's women won silver in the South Asian Cestoball Championship, held in India, while the men took home the first South Asian Cestebol title. The event featured teams from various regions, including Anuradhapura and Matara, with Utthanda Vidyalaya, Matara, emerging as top performers. The victorious teams were welcomed at Katunayake airport upon their return from India.
-
-🟩
-
-Sri Lanka Women's Championship and the Championship of the First South Asian Cestebol won the Katunayake Airport in 06/12. The tournament was held in Chikkaballapur, Chikkaballapur, Chikka Prefecture, India.
-
-The Cestabol game is a popular sport in many parts of the world, including Europe, and is a popular sport in many parts of the world, including Europe.
-
-The networks and basketball played in the Anuradhapura, Polonnaruwa, Kegalle, Ratnapura, Matara and the two university teams have been selected among them.
-
-The Sri Lanka Women's group won the Championship with the gold medal in the final and win the gold medal with the gold medal.
-
-Utthanda Vidyalaya, Matara was won by the best athletes of the tournament.
-
-The winning Sri Lankan Cestabol game teams arrived at the Katunayake airport from Chennai Airlines 675, India, Sri Lanka's Cestabol Union officials to welcome them.Principals, teachers, their parents and many others were also present at the airport.
-
-◼️
-
-[Data](articles/78b41b41.json)
-
-[Extended Data](ext_articles/78b41b41.ext.json)
-
----
-
-### 15 important commands are to be passed again
-
-*2024-06-12 18:17:35* · [`adalk`](https://www.ada.lk/breaking_news/වැදගත්-අණපනත්-15ක්-කඩිනමින්-සම්මත-කර-ගැනීමට-නියමිතයි/11-410179) · `si`
-
-In the coming weeks, Sri Lanka's government plans to enact 15 key laws, part of its largest judicial reform in decades. These include anti-corruption measures aligned with UN standards, new sports and sexual bribery laws, asset liability monitoring, drug control acts, and revisions to family laws, especially concerning Muslim marriages and divorces. Additionally, amendments to the Criminal Procedure Code and the Water Resources Act are underway, aiming to boost revenue from sea boundaries.
-
-🟩
-
-Minister Wijayadasa and Constitutional Reforms Minister Wijayadasa Rajapaksa said that steps are being taken to adopt about 15 important commands in the next few weeks.
-
-The Minister said that about 75 new bills had been submitted to parliament over the past 18 months, he said.
-
-Minister Wijayadasa Rajapaksa made this statement participating at a press conference held at the Presidential Media Center today (12) at the Presidential Media Center.
-
-This time can be introduced as a period of the largest law reform of the country's judicial system in relation to the judicial system of justice.. In the last 18 months, about 75 new bills have been submitted to Parliament. It should be noted that the country will be able to make the basic difference.
-
-...
-
-[Data](articles/68bdde0d.json)
-
-[Extended Data](ext_articles/68bdde0d.ext.json)
-
----
-
-### A monument of reconciliation and reconciliation
-
-*2024-06-12 18:13:53* · [`adalk`](https://www.ada.lk/breaking_news/සංහිදියාවේ-සහ-ප්‍රතිසන්ධානයේ-ස්මාරකයක්/11-410178) · `si`
-
-A monument in Sri Lanka, symbolizing reconciliation post-conflict, was presented to President Ranil Wickremesinghe. This initiative follows years of political unrest and civil disturbances from 1983 to 2009. The project, involving experts like Senior Professor Jagath Weerasinghe and Professor Chandraguptha Thenuwara, aimed to foster unity through public sessions across affected regions. The committee highlighted the importance of individual and group commemorations in reconciliation efforts, recommending an artistic and cultural symbol to promote peace and prevent future conflicts.
-
-🟩
-
-Sri Lanka's report to study a monument in Sri Lanka as a result of political unrest, political unrest or civil disturbances were handed over to President Ranil Wickremesinghe at the Presidential Secretariat recently.
-
-Senior Professor Jagath Weerasinghe, Professor Chandraguptha Thenuwara, University of Jaffna. President of the University of Fershana Hanfa, Acting Director General of the UDA, Mr. Mahinda Vithanaarachchi, Additional Director General of the Urban Development Authority, the Additional Director General of the Urban Development Authority, the Additional Director General of the Urban Development Authority (UDA), the Additional Director General of the Urban Development Authority 2023-05-22.Was appointed.
-
-During 1983-2009, Sri Lanka's armed conflicts, political unrest, and civilians, the armed forces and civil disturbances were a symbol of reconciliation and ex-militants.
-
-...
-
-[Data](articles/93f3ef74.json)
-
-[Extended Data](ext_articles/93f3ef74.ext.json)
-
----
-
-### Actress also arrested a prostitution racket targeting riceters
-
-*2024-06-12 18:09:21* · [`adalk`](https://www.ada.lk/breaking_news/ධනකුවේරයන්-ඉලක්ක-කර-ගණිකා-ජාවාරමක්-කරගෙන-ගිය-නිළියක්-අල්ලයි/11-410177) · `si`
-
-Four actresses aged 25-45, including a prominent one known for her roles in adult films, were arrested by the Walana Central Anti-Corruption Unit for involvement in a prostitution racket targeting rich clients. The operation spanned several districts, highlighting a widespread network.
-
-🟩
-
-Four beautiful women, including a large number of beautiful actresses, has been arrested by the Walana Central Anti-Corruption Assistant Corrupt Assistance has been arrested by the Walapinte of Hotels and the World Relief Services.
-
-The demonstrators are among the age of 25 and 45. from Gampaha, Ampara, Boralesgamuwa, Matara and Biyagama areas.
-
-The main actress has been subscribed to a large number of sexy films and television televisions on television channels.He was revealed that he was revealed.
-
-According to the Director General of the Central Corruption, Jayalal has been arrested by the Central Corruption Attack Unit as a strategic structure as a tactical angel, including the Saragii actress of the Central Corruption.
-
-◼️
-
-[Data](articles/5b6a2f25.json)
-
-[Extended Data](ext_articles/5b6a2f25.ext.json)
-
----
-
-### Railway service for Poson Poya
-
-*2024-06-12 17:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පොහොයට-මිහින්තලේට-නොමිලයේ-දුම්රිය-සේවයක්/11-410176) · `si`
-
-Transport Ministers announced a special train service for devotees traveling to Mihintale during Poson Poya, facilitated by the reorganization of the Anuradhapura railway line. This initiative, aimed at enhancing religious tourism, includes the use of 40 special buses from the Northern Railways. The service is set to commence ahead of the Poson festival, ensuring convenient transportation for visitors.
-
-🟩
-
-Cabinet Minister of Transport and Highways, Cabinet Minister of Mass Media, Minister of Mass Media, Minister of Mass Media and Highways will commence a special train service for devotees visiting the Mihintale.
-
-He was speaking at a press conference to inform the Cabinet decisions held at the Government Information Department today.
-
-The railway line was to be reorganized by Anuradhapura, the last stage of the then president, had come to the final stage.The Minister said.
-
-He added that the train will be used to use 40 special buses to worship Anuradhapura due to the work of the Northern Railways.
-
-Accordingly, before the Poson festival, the railway department has instructed the Railway Department to run a special train to the Mihintale from Anuradhapura to Mihintale.
-
-◼️
-
-[Data](articles/25330dea.json)
-
-[Extended Data](ext_articles/25330dea.ext.json)
 
 ---

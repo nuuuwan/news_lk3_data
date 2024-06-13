@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 22:19:38**
+As of **2024-06-13 22:35:09**
 
 ## Newspaper Stats
 
-*Scraped **30,249** Articles*
+*Scraped **30,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,610
-adaderanalk | 3,429
+adaderanalk | 3,430
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,876
+adaderanasinhalalk | 4,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,249 (100.0%) of 30,249 articles have been extended.
+30,249 (100.0%) of 30,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### දින 10කට පසු ගුණතිලක රාජපක්ෂ ගැටුම ගැන කතා කරයි
+
+*2024-06-13 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197732) · `si`
+
+තමාට පහරදීමේ සිද්ධිය පිළිබඳව දැනට සිදුකෙරෙන පරීක්ෂණ සම්බන්ධයෙන් තමන් සෑහීමකට පත් නොවන බවත්, නීතිමය ක්‍රියාමාර්ග ඉදිරියට ගෙනයන බවත් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා පවසයි.
+
+පහරකෑමේ සිද්ධියට ලක්වීමෙන් දින 10කට පසුව කොළඹ පිහිටි සිය නිවසේදී මාධ්‍යයට අදහස් දක්වමින් මන්ත්‍රීවරයා මේ බව ප්‍රකාශ කළේය.
+
+ජුනි 03 වනදා ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී මුදල් ප්‍රතිපාදන ගැටලුවක් මුල්කර ගනිමින් ආණ්ඩු පක්ෂයේ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා සහ මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබුණි.
+
+පසුව මන්ත්‍රී කණ්ඩායම් රැස්වීම අවසන් වී මන්ත්‍රීවරුන් පිටව යන අවස්ථාවේ නැවත වරක් පියගැටපෙළ මතදී මහින්දානන්ද මන්ත්‍රීවරයා තල්ලු කිරීමකින් තමා ඇද වැටී තුවාල ලැබූ බවට ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා චෝදනා කළේය.
+
+තුවාල ලැබූ මන්ත්‍රීවරයා යුද හමුදා රෝහලට ඇතුළත් කෙරුණු අතර ඔහුගේ පාදයේ සිදු වු අස්ථි බිඳීමකට අදාළව පැය 4ක සැත්කමකට ද භාජනය කර තිබුණි.
+
+සිද්ධියෙන් දින 10කට පසු ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා තමා මුහුණදුන් සිද්ධිය සම්බන්ධයෙන් අද මාධ්‍යයට අදහස් පළ කළේය.
+
+...
+
+[Data](articles/ce2b39d6.json)
+
+---
+
+### Chamari Athapaththu claim ICC player of the Month Honors for May 2024
+
+*2024-06-13 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99866/chamari-athapaththu-claim-icc-player-of-the-month-honors-for-may-2024) · `en`
+
+West Indies’ left-arm spinner Gudakesh Motie won the ICC Men’s Player of the Month award, while Sri Lanka skipper Chamari Athapaththu secured her second ICC Women’s Player of the Month when she won the top prize for her performances in May 2024.
+
+Motie claimed the Men’s award by beating competition from Pakistan’s Shaheen Shah Afridi and Lorcan Tucker of Ireland, while Chamari won the women’s award by overcoming Scotland’s Kathryn Bryce and England’s Sophie Ecclestone.
+
+In May, Motie took eight wickets at an average of 8.50 across the three-match series against South Africa in Jamaica, as the West Indies gathered valuable momentum in the lead-up to their Men’s T20 World Cup campaign at home.
+
+...
+
+[Data](articles/ca90d580.json)
+
+---
+
+### මැයි මාසයේ ICC දක්ෂතම ක්‍රීඩිකාව චමරි
+
+*2024-06-13 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197731) · `si`
+
+2024 මැයි මාසයේ දක්ෂතම ක්‍රීඩිකාව ලෙස ICCය චමරි අතපත්තුව නම් කර තිබේ.
+
+ඒ අනුව චමරි අතපත්තු ICCය විසින් නම් කරන මාසයේ කාන්තා ක්‍රීඩිකාව සම්මානය දෙවන වරටත් දිනා ගැනීමට සමත්වී තිබේ.
+
+◼️
+
+[Data](articles/2dbc4a08.json)
+
+---
 
 ### Extense that Idaki's vehicle was shot
 
@@ -2305,73 +2357,5 @@ The International Monetary Fund, which has issued a statement, said it would giv
 [Data](articles/43da91f7.json)
 
 [Extended Data](ext_articles/43da91f7.ext.json)
-
----
-
-### Russia Air Force fighter jets raid the village of Ukrainian President
-
-*2024-06-13 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197707) · `si`
-
-In a surprise attack, Russian fighter jets targeted the Ukrainian President Volodimir Selenceky's hometown, Clavia Rihan, killing nine and injuring 29 civilians. The assault focused on a residential building, drawing international condemnation from Ukraine.
-
-🟩
-
-President Vlodimir Selenceky's hometown was attacked by Russia to the city of Clavia Rihan.
-
-Foreign media reports that the attack was carried out on a building where the ordinary people had stayed.
-
-Nine were killed and 29 others suffered injuries.
-
-Meanwhile, the Ukraine has condemned the relatives of the people who were killed.
-
-◼️
-
-[Data](articles/0eed224a.json)
-
-[Extended Data](ext_articles/0eed224a.ext.json)
-
----
-
-### Fuel Bowser Safety crashes on southern high -speed road
-
-*2024-06-13 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185966) · `ta`
-
-In the early hours of Thursday, a fuel bowser crashed into a security fence on the Southern Expressway's 61st Milestone, causing an accident near Mattala and Kotta.
-
-🟩
-
-A fuel bowler crashed in the early hours of Thursday morning at the 61st Milestone on the Southern Expressway.
-
-A fuel poucher traveling from Mattala to Kotta has crashed into a security fence in the middle of the road.
-
-◼️
-
-[Data](articles/a531f977.json)
-
-[Extended Data](ext_articles/a531f977.ext.json)
-
----
-
-### Mattakkuli prisoner dies at Badulla Prison
-
-*2024-06-13 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185968) · `ta`
-
-A 50-year-old prisoner from Mattakkuli died suddenly at Badulla Open Prison. He was hospitalized on July 12, 2012, but passed away without determining the cause of death. His body was sent for autopsy.
-
-🟩
-
-Badulla police said that a prisoner who was detained at the Open Prison in Badulla had died in a sudden illness.
-
-The death of a 50 -year -old man from Mattakkuli died, police said.
-
-The prisoner was admitted to the Badulla Hospital on Wednesday (12) after being admitted to the Badulla Hospital on Wednesday (12) after he was brought to the Open Prison on March 01, 2024.07.2012.
-
-The Badulla police said that although the cause of the death was not yet detected, the body was placed in the Badulla Buda 'room for autopsy.
-
-◼️
-
-[Data](articles/3d229298.json)
-
-[Extended Data](ext_articles/3d229298.ext.json)
 
 ---

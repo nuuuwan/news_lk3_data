@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 03:52:54**
+As of **2024-06-14 04:04:44**
 
 ## Newspaper Stats
 
-*Scraped **30,291** Articles*
+*Scraped **30,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,753
-dailyftlk | 1,832
+dailyftlk | 1,833
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,542
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,291 (100.0%) of 30,291 articles have been extended.
+30,291 (100.0%) of 30,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Deshamanya Dr. Nissanka Wijeyeratne: A rare personality above normal human frailty
+
+*2024-06-14 03:31:49* · [`dailyftlk`](https://www.ft.lk/columns/Deshamanya-Dr-Nissanka-Wijeyeratne-A-rare-personality-above-normal-human-frailty/4-763059) · `en`
+
+I have not met Deshamanya Dr. Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his 100th birth anniversary falling on 14 June.
+
+I will focus on two matters. One is his success as the lay custodian of the Temple of the Sacred Tooth Relic of the Buddha known as Diyawadana Nilame in Sinhala which can be directly rendered to English as the Water Bearing Official. The other is his rare display of accountability as the Minister of Justice when there was a jail breakout and prison mutiny leading to the death of two inmates in 1988.
+
+...
+
+[Data](articles/e6d55ca5.json)
+
+---
 
 ### One person arrested with cannabis in the gathering for information on the National Intelligence Unit
 
@@ -2353,29 +2367,5 @@ The complaint sector is conducting further investigations under the patronage of
 [Data](articles/850e73b5.json)
 
 [Extended Data](ext_articles/850e73b5.ext.json)
-
----
-
-### Sri Lanka Podujana Peramuna will contest elections as part of alliance: MP
-
-*2024-06-13 13:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-will-contest-elections-as-part-of-alliance-mp-167833/) · `en`
-
-ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP) will contest the upcoming elections, whether presidential or parliamentary, as part of an alliance, MP Shantha Bandara said.
-
-Speaking to reporters, Bandara said the SLPP holds the biggest vote base in the country.
-
-“The SLPP has a bigger base compared to other parties. We will contest upcoming elections as part of an alliance. That alliance will be the biggest alliance there is. We have no apprehensions about winning the next election whether it’s a presidential election or a parliamentary election,” he said.
-
-“The president has informed us quite clearly that the next election will be presidential,” he added.
-
-The SLPP has yet to publicly announce its plans for the presidential election due to be held between September 17 and October 17 this year.
-
-President Ranil Wickremesinghe, the leader of the United National Party (UNP), heads an SLPP-led government after the ruling party voted for him en masse to appoint him president.
-
-...
-
-[Data](articles/6663dd07.json)
-
-[Extended Data](ext_articles/6663dd07.ext.json)
 
 ---

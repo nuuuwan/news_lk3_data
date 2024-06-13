@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 09:04:40**
+As of **2024-06-13 09:19:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,137 (100.0%) of 30,139 articles have been extended.
+30,139 (100.0%) of 30,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -230,27 +230,37 @@ The EFF arrangement for Sri Lanka was approved by the Executive Board on March 2
 
 ---
 
-### பாதாள அறையில் அடைத்து வைக்கப்பட்டிருந்த 14 வயது சிறுமி மீட்பு!
+### A 14 -year -old girl rescued in the cellar
 
 *2024-06-13 05:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185963) · `ta`
 
-14 வயதான சிறுமியொருவரை புத்தல பகுதியில் கடத்திச் செல்லப்பட்டு  நிலக்கீழ் பாதாள அறையொன்றில் மறைத்து வைத்திருந்த நிலையில், அந்த சிறுமியை பொலிஸார் மீட்டுள்ளனர்.
+A 14-year-old girl was kidnapped from Budhala, hidden in a cellar, and rescued by police. The abduction occurred when three youths attacked her father and took her. A 20-year-old claimed love as his motive. Police arrested additional suspects and located the girl in a relative's cellar, constructed for ventilation, after a month-long search.
 
-இந்த சிறுமியை 12 ஆம் திகதி புதன்கிழமை மதியம் மீட்டதாக பொலிஸார் மேலும் தெரிவிக்கின்றனர்.
+🟩
 
-குறித்த சிறுமி புத்தல – கட்டுகஹகல்கே பகுதியிலுள்ள வீடொன்றிற்கு கடந்த 9ம் திகதி வருகைத் தந்த மூன்று இளைஞர்கள், சிறுமியின் தந்தை மீது தாக்குதல் நடாத்தி, சிறுமியை கடத்திச் சென்றுள்ளனர்.
+A 14 -year -old girl was abducted in Budhala and hidden in a underground cellar, police have rescued the girl.
 
-சிறுமியை காதலிப்பதாக கூறும் 20 வயதான இளைஞனினாலேயே இந்த சிறுமி கடத்திச் செல்லப்பட்டுள்ளதாக பொலிஸார் கூறுகின்றனர்.
+The girl was rescued on Wednesday, the 12th, police said.
 
-அதனைத் தொடர்ந்து பொலிஸார் நடாத்திய விசாரணைகளில், பிரதான சந்தேகநபருடன் வருகைத்தந்த மேலும் இரண்டு சந்தேகநபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+Three youths who visited a house in the Budhala - Katugahagkeke area on the 9th of last month have attacked the girl's father and abducted the girl.
 
-இதையடுத்து, பொலிஸார் சந்தேகநபர்களிடம் நடாத்திய விசாரணைகளில், சிறுமி மறைத்து வைக்கப்பட்டதாக கூறப்படும் இடம் தொடர்பான தகவல்களை அறிய முடிந்துள்ளது.
+Police say the girl was abducted by a 20 -year -old youth who claims to be in love.
 
-புத்தல பகுதியிலுள்ள பிரதான சந்தேகநபரின் உறவினர் ஒருவரின் வீட்டில் நிலத்திற்கு கீழ் அமைக்கப்பட்டிருந்த ஒரு பாதாள அறையிலேயே சிறுமி மறைத்து வைக்கப்பட்டிருந்தார்.
+Following the investigation by the police, the police have arrested two more suspects who were accompanied by the main suspect.
 
-...
+Subsequently, in investigations conducted by the suspects, the police have been able to find out about the alleged location.
+
+The girl was hidden in a cellar under the house of a relative of a relative of a main suspect in the Budhala area.
+
+In this case, the police searched the house and rescued the girl. In order to hide the girl, the room was found a month ago.
+
+The room, which is five feet tall and six feet wide, was constructed for two powder for ventilation.
+
+◼️
 
 [Data](articles/20d941d3.json)
+
+[Extended Data](ext_articles/20d941d3.ext.json)
 
 ---
 
@@ -468,21 +478,33 @@ The Deputy Prime Minister of the country, who visited the area where the fire oc
 
 ---
 
-### 'ව්‍යවස්ථාමය කුමන්ත්‍රණයකින්' රනිල්ට ජනපති ධුර කාලය දීර්ඝ කර ගත හැකි ද?
+### Is Ranil extended to Ranil to extend the presidential term?
 
 *2024-06-13 01:48:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevvzjlk25po) · `si`
 
-'ව්‍යවස්ථාමය කුමන්ත්‍රණයකින්' රනිල්ට ජනපති ධුර කාලය දීර්ඝ කර ගත හැකි ද?
+Ranil Wickremesinghe, due to a constitutional loophole, might serve beyond the typical 5-year presidential term limit, potentially for 11 more days. This possibility arises from an interpretation of the 19th Amendment and Section 83(b), leading to debates over constitutional amendments and referendums. Some see this as a 'constitutional conspiracy,' sparking discussions and a social media presence around the issue.
 
-'19 වන ව්‍යවස්ථා සංශෝධනයට අනුකූලව ජනාධිපතිවරයාගේ සහ පාර්ලිමේන්තුවේ හය වසරක ධූර කාලය වසර පහක් ලෙස වෙනස් කළ අතර, 83 (ආ) ව්‍යවස්ථාව නොසලකා හරිමින් නොවෙනස්ව තබා ඇති අතර, ඉන් ජනාධිපති වික්‍රමසිංහට ඔහුගේ ධූර කාලය දීර්ඝ කිරීමේ හිඩැසක් ලබා දී ඇතැයි' ඉන් පෙන්වා දී තිබිණි.
+🟩
 
-ඇතැමෙකු මෙය ‘ව්‍යවස්ථාමය කුමන්ත්‍රණයක්’ ලෙස ද අර්ථ කථනය කර තිබිණි.
+Is Ranil extended to Ranil to extend the presidential term?
 
-මේ අතර, මේ සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ සංවාදාත්මක තත්ත්වයක් ද නිර්මාණය වී තිබේ.
+The '19th Amendment was changed in accordance with five years of the President and 83 (b).
+
+Some had also interpret this as a 'constitutional conspiracy'.
+
+Meanwhile, a social media has also been created in this regard.
+
+Do you agree to reach the Skip Facebook PosFacebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the END.
+
+Some have become a result of an error in Section 83 (b) of Article 83 (b) of the Constitution, Ranil Wickremesinghe has an opportunity for another 11 days.
+
+It is such a view that the General Secretary of the UNP Palitha Ranage was published in the Sinhala BBC.
 
 ...
 
 [Data](articles/1fddac56.json)
+
+[Extended Data](ext_articles/1fddac56.ext.json)
 
 ---
 

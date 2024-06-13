@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 13:36:28**
+As of **2024-06-13 13:53:57**
 
 ## Newspaper Stats
 
-*Scraped **30,178** Articles*
+*Scraped **30,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,597
+adalk | 2,598
 adaderanalk | 3,420
 tamilmirrorlk | 3,534
 virakesarilk | 4,622
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,178 (100.0%) of 30,178 articles have been extended.
+30,178 (100.0%) of 30,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### වස්කඩුවේ මුහුදු වෙරළට පුද්ගල මළසිරුරක් ගොඩගසයි
+
+*2024-06-13 13:17:30* · [`adalk`](https://www.ada.lk/breaking_news/වස්කඩුවේ-මුහුදු-වෙරළට-පුද්ගල-මළසිරුරක්-ගොඩගසයි/11-410193) · `si`
+
+වස්කඩුව ප්‍රදේශයේ  සංචාරක හෝටලයක් පිටුපස මුහුදු වෙරළට පුද්ගල මළසිරුරක් ගොඩගසා ඇති බව කළුතර උතුර පොලිසිය පවසයි .
+
+මියගොස් ඇති පුද්ගලයා කවුරුන්ද යන්න මෙතෙක් හදුනාගෙන නොමැති බව පොලිසිය පැවසීය .
+
+මෘතදේහය හදිසි මරණ පරීක්ෂණයෙන් පසු කළුතර ශීක්ෂණ රෝහලට රැගෙන යාමට නියමිතව තිබුණි. වයස අවුරුදු  70ක පමණ පුද්ගලයකු බවත් ලා දුඹුරු පැහැති  ටී ෂර්ට්  සැරසී සිටින බවත් පොලිසිය පවසයි .
+
+කළුතර උතුර ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතා ගේ ප්‍රධානත්වයෙන් විවිධ පැමිණිලි අංශය පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/850e73b5.json)
+
+---
 
 ### A brutal attack on another daughter
 
@@ -339,6 +357,10 @@ Nuttal said that the airline is also looking for an investor, three candidates h
 A slow train plying from Panadura to Maradana has derailed near the Panadura railway station, disrupting services on the coastal line, Sri Lanka Railways announced.
 
 Accordingly, the trains operating on the coastal line will experience delays, according to Sri Lanka Raiways.
+
+One of the compartments of the derailed train has collided with a nearby railway signal board, causing a complete breakdown of the railway signaling system in the area.
+
+Meanwhile, a spokesperson for Sri Lanka Railways stated that it will take a considerable amount of time to restore the railway line for regular train operations.
 
 ◼️
 
@@ -2275,31 +2297,5 @@ Meanwhile, he said that consumers are buying eggs from Rs 35 to Rs 48 in the egg
 [Data](articles/da01621a.json)
 
 [Extended Data](ext_articles/da01621a.ext.json)
-
----
-
-### Ranjan acquitted and free
-
-*2024-06-12 20:05:07* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්-නිදොස්-කොට-නිදහස්/11-410185) · `si`
-
-MP Ranjan Ramanayake was acquitted after 13 years in a case filed by a woman alleging fraud. The Kandy Chief Magistrate, Chamara Wickramanayaka, presided over the trial, emphasizing judicial independence.
-
-🟩
-
-Kandy Chief Magistrate Chamara Wickramanayaka today (12) ordered that he was acquitted in acquitting hearing against a woman in Kandy.
-
-The case was filed by a complaint lodged by the woman that the woman had cheated a woman to a woman in Kandy.
-
-The case was heard at the Kandy Magistrate's Court for about 13 years and the verdict was held at the Open Court of Chamara Wickramanayaka at 1.45 pm yesterday.
-
-Speaking to the Media After the verdict, MP Ranjan Ramanayake said that the case was launched without any base and there was a political arm. However, it is another moment that has overcome the truth today and that the independence of the country has proved the independence of the judiciary and bowed to the judiciary.
-
-The case was exterminated for a period of time and had to spend about Rs. 80 lakhs and had to spend about Rs.
-
-◼️
-
-[Data](articles/a693e970.json)
-
-[Extended Data](ext_articles/a693e970.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 00:19:08**
+As of **2024-06-14 00:34:23**
 
 ## Newspaper Stats
 
-*Scraped **30,257** Articles*
+*Scraped **30,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,611
 adaderanalk | 3,431
-tamilmirrorlk | 3,540
+tamilmirrorlk | 3,542
 virakesarilk | 4,645
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,879
@@ -26,11 +26,41 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,256 (100.0%) of 30,257 articles have been extended.
+30,257 (100.0%) of 30,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### சிதைவடைந்த சிசுவின் சடலம் மீட்பு
+
+*2024-06-13 23:56:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிதைவடைந்த-சிசுவின்-சடலம்-மீட்பு/175-338889) · `ta`
+
+நுவரெலியா பொரலந்த பகுதியில் பிறந்து சில நாட்களேயான சிசுவொன்றின் சடலமொன்று வியாழக்கிழமை (13)  மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கிடைத்த தகவலையடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தினை மீட்டுள்ளனர். சிசு யாருடையது என இதுவரை அடையாளம் காணப்படவில்லை.
+
+நுவரெலியா பதில் நீதவான் ஜயமினி அம்பகஹவத்த ஸ்தல விசாரணைகளை மேற்கொண்ட பின்னர் சிசுவின் சடலம் பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+சடலமாக மீட்கப்பட்ட சிசுவின் தாயைக் கண்டுபிடிக்கும் நடவடிக்கையில் நுவரெலியா மாவட்ட பொது வைத்தியசாலையின் உதவியுடனும் இப்பகுதியில் உள்ள பிரதேச தாதியர்களின் உதவியுடன் பொலிஸார் ஈடுபட்டுள்ளதுடன் மேலதிக விசரணையை நுவரெலியா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/a008d7f4.json)
+
+---
+
+### கொச்சிக்கடை புனித அந்தோனியார் திருச்சொரூப பவானி
+
+*2024-06-13 23:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-புனித-அந்தோனியார்-திருச்சொரூப-பவானி/175-338888) · `ta`
+
+கொழும்பு, கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம் இன்று மாலை அருட்தந்தை பற்றிக் பெரேய்ரா தலைமையில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/4205ae86.json)
+
+---
 
 ### Daughter killed in plowing machine
 
@@ -561,6 +591,8 @@ I have not met Deshamanya Dr Nissanka Wijeyeratne, known to everyone as Nissanka
 ...
 
 [Data](articles/7d6880e2.json)
+
+[Extended Data](ext_articles/7d6880e2.ext.json)
 
 ---
 
@@ -2307,49 +2339,5 @@ The Minister of State for Finance has thanked the International Monetary Fund Ex
 [Data](articles/968b8024.json)
 
 [Extended Data](ext_articles/968b8024.ext.json)
-
----
-
-### The largest Treasury Bond Auction in the history of Sri Lanka today
-
-*2024-06-13 09:47:43* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ඉතිහාසයේ-දිනක්-තුළ-සිදුකරන-විශාලම-භාණ්ඩාගාර-බැඳුම්කර-වෙන්දේසිය-අද-/11-410188) · `si`
-
-Today, Sri Lanka conducted its largest-ever Treasury Bond Auction worth Rs. 295 billion, surpassing the previous record set in October. The auction included bonds maturing on October 15, 2027 (Rs. 60 billion), September 15, 2029 (Rs. 125 billion), and December 31, 2031 (Rs. 110 billion).
-
-🟩
-
-Central Bank of Sri Lanka (SLTB) Rs. 13th. Rs. 295,000 million to conduct a auction. It is reported that this is the largest Treasury Bond Send by Sri Lanka's October for a day.
-
-This auction is held under three mature categories. That is, as the mature of October 15, 2027. 60,000 million, September 15, 2029, Rs. 150,000. 125,000 million and Rs. 01th of December 01, 2031. 110,000 million is expected to be carried out.
-
-◼️
-
-[Data](articles/76e494c5.json)
-
-[Extended Data](ext_articles/76e494c5.ext.json)
-
----
-
-### Postal staff work
-
-*2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்கள்-பணிப்புறக்கணிப்பு/175-338845) · `ta`
-
-The Joint Postal Employees Union initiated a nationwide strike from midnight to demand urgent solutions to staffing shortages in the Postal Department. In response, the Post Office canceled all vacations for postal workers.
-
-🟩
-
-The Joint Postal Employees Union has announced the union action yesterday (12) at midnight.
-
-Sindhaka Bandara, the caller of the Joint Postal Employees Union, said that the workplace will be carried out nationwide till midnight today.
-
-He said the purpose of this union action was to inform the authorities to provide immediate solution to the shortage of employee in the Postal Department.
-
-However, Post Office Ruwan Satkumara has said that it has been decided to cancel all postal workers' vacation immediately.. Remble
-
-◼️
-
-[Data](articles/18aed32a.json)
-
-[Extended Data](ext_articles/18aed32a.ext.json)
 
 ---

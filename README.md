@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 16:35:25**
+As of **2024-06-13 16:51:48**
 
 ## Newspaper Stats
 
-*Scraped **30,209** Articles*
+*Scraped **30,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,603
-adaderanalk | 3,423
-tamilmirrorlk | 3,536
-virakesarilk | 4,635
+adaderanalk | 3,424
+tamilmirrorlk | 3,537
+virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,865
+adaderanasinhalalk | 4,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,209 (100.0%) of 30,209 articles have been extended.
+30,209 (100.0%) of 30,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### செந்தில் ​தொண்டமானின் கவனத்துக்கு
+
+*2024-06-13 16:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானின்-கவனத்துக்கு/175-338871) · `ta`
+
+கதிர்காமக் காட்டுப்பாதை திறப்பு தினக் குழப்பத்தை தீர்த்து வைக்குமாறு   ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் ஆகியோரிடம் காரைதீவு பிரதேச சபையின் முன்னாள் தவிசாளரும் சமய ஆர்வலருமான கி.ஜெயசிறில் வேண்டுகோள் விடுத்துள்ளார்.
+
+காட்டுப்பாதை திறப்பு தொடர்பாக இரண்டு தினங்கள் ஏலவே அறிவிக்கப்பட்டு தற்பொழுது இறுதியாக யூலை இரண்டாம் திகதி என கதிர்காமத்தில் புதன்கிழமை (12) முடிவெடுக்கப்பட்டு இருக்கிறது .
+
+இது வடக்கு கிழக்கு மாகாணத்தில் இருந்து செல்கின்ற பாதுகாத்திரிகர்ளுக்கு அறவே பொருந்தாது. 4 நாட்களுக்குள் கொடி ஏற்றத்துக்கு செல்ல முடியாது.மற்றும் பாதை திறந்து வைக்கப்படுகின்ற காலஅவகாசமும் போதாமல் இருக்கின்றது . இப் பாரம்பரிய புனித யாத்திரையை முடக்க திட்டமிடப்படுகிறதோ என் எண்ணத் தோன்றுகின்றது.
+
+எனவே, இந்த பாதயாத்திரை பாரம்பரியமாக நிலைத்து பேணும் வகையிலே முறையான தீர்மானங்களை எடுக்க வேண்டும் என்று வேண்டுகோள் விடுத்திருக்கின்றார்
+
+அது மாத்திரமல்ல இந்த பாதயாத்திரையை  வர்த்தமானியில் பிரகடனம் அறிவித்தல் செய்யப்பட வேண்டும் என்று மீண்டும் வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/c1efa575.json)
+
+---
+
+### பல்கலைக்கழக அனுமதிக்கான இணைய விண்ணப்பம் கோரல்
+
+*2024-06-13 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186015) · `ta`
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழு 2023(2024) கல்வியாண்டுக்கான பல்கலைக்கழக அனுமதிக்கு இணையம் மூலம் தகுதியுடைய விண்ணப்பதாரர்களிடமிருந்து விண்ணப்பங்களை நாளை  (14) முதல் ஜூலை மாதம்  05 வரை கோருவதாக அறிவித்துள்ளது.
+
+அதன்படி, அந்த விண்ணப்பதாரர்கள் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் உத்தியோகபூர்வ இணையத்தளமான  https://www.ugc.ac.lk/ க்குச் சென்று விண்ணப்பங்களை முறையாகப் பூர்த்தி செய்து சமர்ப்பிக்க வேண்டும்.
+
+◼️
+
+[Data](articles/26dd6dc6.json)
+
+---
+
+### ලොව ධනවත් රටවල් හතේ මෙවර ඉලක්කය
+
+*2024-06-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197720) · `si`
+
+ලොව ධනවත් රටවල් හතේ නායකයින් සහභාගී වන G7 සමුළුව ඉතාලියේදී අද පැවැත්‌වෙයි.
+
+කැනඩාව, ප්‍රංශය, ජර්මනිය, ඉතාලිය, ජපානය, බ්‍රිතාන්‍ය සහ අමෙරිකාව යන රටවල නායකයින්ගේ සහභාගීත්වයෙන් එම සමුළුව අද සිට ලබන 15 වනදා දක්වා පැවැත්වීමට නියමිතය.
+
+මීට අමතරව අප්‍රිකාවේ සහ ඉන්දු පැසිපික් කලාපීය රටවල නායකයින්ද G7 සමුළුවට සහභාගී වන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+‍යුක්‍රේනයේ සහ ගසා තීරයේ යුධ ගැටුම් සම්බන්ධයෙන් මෙවර සමුළුවේදී දැඩි අවධානයක් යොමු වනු ඇති බවද පැවසෙයි.
+
+මේ අතර අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි හමුවීමට සූදානමින් පසුවන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඉතාලියේ පැවැත්වෙන G7 සමුළුවට සමගාමීව එම හමුව පැවැත්වෙනු ඇති බවද වාර්තා වෙයි.
+
+කෙසේවෙතත් නායකයින් දෙදෙනා හමුවන නිශ්චිත දිනයක් හෝ ස්ථානයක් පිළිබඳ මෙතෙක් වාර්තා වී නොමැත.
+
+◼️
+
+[Data](articles/7779c902.json)
+
+---
+
+### T20 World Cup nightmare: Sri Lanka team stranded in USA due to Florida floods
+
+*2024-06-13 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99859/t20-world-cup-nightmare-sri-lanka-team-stranded-in-usa-due-to-florida-floods) · `en`
+
+The Sri Lanka cricket team’s T20 World Cup campaign has been struck by a double dose of bad luck. Heavy flooding in Florida has left them stranded in Fort Lauderdale, forcing them to delay their travel to Saint Lucia for their next match.
+
+The team’s original flight to the Caribbean was canceled due to the floods, throwing their schedule into disarray. With their next match against the Netherlands scheduled for Monday, June 17th, Sri Lanka are hoping to fly out on Friday.
+
+Floods in Florida has left Sri Lankan team stranded in US. The team was supposed to fly out from Fort Lauderdale this evening to Caribbean, but now are staying back in US. A state of emergency has been issued by Mayor of Fort Lauderdale. The team is expected to fly out tomorrow.
+
+Adding to their woes, Sri Lanka’s match against Nepal on Wednesday was completely washed out due to the same extreme weather. This resulted in a shared point for both teams, which isn’t ideal for Sri Lanka’s qualification chances.
+
+...
+
+[Data](articles/488f66e7.json)
+
+---
 
 ### Foreign employment racket is found
 
@@ -61,6 +137,28 @@ Although a valid job agency is a valid job agency, the Bureau has further reques
 [Data](articles/89ac8831.json)
 
 [Extended Data](ext_articles/89ac8831.ext.json)
+
+---
+
+### The National Program to revive the Samurdhi movement, which has suffered a setback with political interventions and various needs
+
+*2024-06-13 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185992) · `ta`
+
+The government aims to revitalize the Samurdhi Movement, a key initiative to combat poverty in Sri Lanka, after setbacks due to political interference and various demands. The "New Village - New Country" project, part of a broader national effort, focuses on strategic district-level activities to identify and address issues hindering its success. Two phases of the project, funded by the Asian Development Bank, World Bank, and Japanese Social Development Fund, target specific areas across 13 districts, expecting to benefit over 16,000 families. The initiative emphasizes the importance of the Samurdhi Movement in eradicating poverty through comprehensive social welfare programs.
+
+🟩
+
+Minister of Urban Development and Housing Prasanna Ranatunga said that the government has decided to revive the Samurdhi Movement, which has suffered a setback due to political interventions and various demands.
+
+He emphasized that the National Program for the revival of Samurdhi Movement has already been launched.
+
+Minister Prasanna Ranatunga said this while participating in a discussion with Samurdhi Bank's Headquarters and Social Bank Managers, Samurdhi Trade Union Representatives and Samurdhi Officers. The discussion was held at the Gampaha District Secretariat Auditorium.
+
+...
+
+[Data](articles/00635c32.json)
+
+[Extended Data](ext_articles/00635c32.ext.json)
 
 ---
 
@@ -199,28 +297,6 @@ Sajith's security forces immediately tapped the camera of the journalists and th
 [Data](articles/bf8aea0e.json)
 
 [Extended Data](ext_articles/bf8aea0e.ext.json)
-
----
-
-### The National Program to revive the Samurdhi movement, which has suffered a setback with political interventions and various needs
-
-*2024-06-13 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185992) · `ta`
-
-The government aims to revitalize the Samurdhi Movement, a key initiative to combat poverty in Sri Lanka, after setbacks due to political interference and various demands. The "New Village - New Country" project, part of a broader national effort, focuses on strategic district-level activities to identify and address issues hindering its success. Two phases of the project, funded by the Asian Development Bank, World Bank, and Japanese Social Development Fund, target specific areas across 13 districts, expecting to benefit over 16,000 families. The initiative emphasizes the importance of the Samurdhi Movement in eradicating poverty through comprehensive social welfare programs.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga said that the government has decided to revive the Samurdhi Movement, which has suffered a setback due to political interventions and various demands.
-
-He emphasized that the National Program for the revival of Samurdhi Movement has already been launched.
-
-Minister Prasanna Ranatunga said this while participating in a discussion with Samurdhi Bank's Headquarters and Social Bank Managers, Samurdhi Trade Union Representatives and Samurdhi Officers. The discussion was held at the Gampaha District Secretariat Auditorium.
-
-...
-
-[Data](articles/00635c32.json)
-
-[Extended Data](ext_articles/00635c32.ext.json)
 
 ---
 
@@ -2275,77 +2351,5 @@ Most Outstanding Citizen 2024 (MOC Awards) of Lions International District 306 A
 [Data](articles/a3f01c75.json)
 
 [Extended Data](ext_articles/a3f01c75.ext.json)
-
----
-
-### Public teach-out on Sri Lanka’s women’s movements on Saturday
-
-*2024-06-13 01:26:05* · [`dailyftlk`](https://www.ft.lk/business/Public-teach-out-on-Sri-Lanka-s-women-s-movements-on-Saturday/34-763026) · `en`
-
-A public teach-out on Sri Lanka’s women’s movements will be held on Saturday 15 June from 2 p.m. to 5 p.m. at the Colombo Public Library Auditorium.
-
-Initiated by Everystory Sri Lanka, a young feminist organisation using storytelling and knowledge sharing for advocacy, the event will feature trilingual interactive discussions, delving into the rich history of women’s movements in Sri Lanka.
-
-Additionally, participants are encouraged to experience the unique human library, where participants can engage with women from different generations working on different interests who will share their memories, perspectives, and insights.
-
-Discussions will be conducted in all three languages: English at 2:15 p.m., Sinhala at 3:00 p.m., and Tamil at 3:45 p.m. All events are free to access, and no pre-registration is required.
-
-...
-
-[Data](articles/2489df32.json)
-
-[Extended Data](ext_articles/2489df32.ext.json)
-
----
-
-### First national dialogue on fair taxation and stronger social contract for SDGs
-
-*2024-06-13 01:07:14* · [`dailyftlk`](https://www.ft.lk/business/First-national-dialogue-on-fair-taxation-and-stronger-social-contract-for-SDGs/34-763025) · `en`
-
-Govt. and UNDP host inaugural dialogue in light of ongoing economic recovery efforts; launch Sri Lanka’s first ‘Taxpayer Perception Study’
-
-The United Nations Development Program (UNDP) in Sri Lanka, in collaboration with the Ministry of Finance, Inland Revenue Department, University of Moratuwa, and the National Innovation Agency of Sri Lanka yesterday co-convened the first-ever National Tax Dialogue to address contemporary issues surrounding taxation and fiscal policies.
-
-...
-
-[Data](articles/ab677db0.json)
-
-[Extended Data](ext_articles/ab677db0.ext.json)
-
----
-
-### Cabinet green lights import of spices for re-export
-
-*2024-06-13 01:04:36* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-import-of-spices-for-re-export/34-763024) · `en`
-
-The Cabinet of Ministers has approved a set of recommendations aimed at boosting the country’s spice reprocessing industry.
-
-This decision was made following a meeting on 18 March 2024, where the Finance, Economic Stabilisation and National Policies Ministry Secretary instructed a review of the Import and Export Control Regulations No. 3 of 2024.
-
-“The review instructed by the Finance Ministry Secretary was conducted by the Secretaries of the Ministry of Investment Promotions and the Ministry of Agriculture and Plantation Industries. Their findings were presented in a detailed report, leading to the Cabinet’s approval of the proposal by President Ranil Wickremesinghe,in his capacity as the Finance, Economic Stabilisation and National Policies Minister,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/35bc090c.json)
-
-[Extended Data](ext_articles/35bc090c.ext.json)
-
----
-
-### Govt. to set up 25 District Industry Promotion Councils
-
-*2024-06-13 01:04:29* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-set-up-25-District-Industry-Promotion-Councils/34-763023) · `en`
-
-The Cabinet of Ministers on Tuesday approved establishing 25 ‘District Industry Promotion Councils’ across the country, to address the challenges faced by locally established micro, small and medium-scale enterprises (MSMEs).
-
-“A steering committee, comprising representatives from the public sector, private sector and other relevant institutions, will be appointed to determine the structure, role and responsibilities of these councils and to oversee the entire process,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-Acknowledging that the MSMEs are grappling with numerous issues at present, he said recognising the need for a system that is both accessible and beneficial, the Government seeks to create a supportive environment to help these industries overcome their challenges.
-
-...
-
-[Data](articles/45073884.json)
-
-[Extended Data](ext_articles/45073884.ext.json)
 
 ---

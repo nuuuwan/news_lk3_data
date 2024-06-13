@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 00:34:23**
+As of **2024-06-14 00:50:54**
 
 ## Newspaper Stats
 
-*Scraped **30,259** Articles*
+*Scraped **30,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
-economynextcom | 1,738
-dailyftlk | 1,827
+economynextcom | 1,753
+dailyftlk | 1,828
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,542
@@ -26,39 +26,69 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,257 (100.0%) of 30,259 articles have been extended.
+30,259 (99.9%) of 30,275 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-14 (Friday)
+
+### Nation’s sovereignty and international cricket
+
+*2024-06-14 00:28:10* · [`dailyftlk`](https://www.ft.lk/columns/Nation-s-sovereignty-and-international-cricket/4-763048) · `en`
+
+A few right-thinking sports ministers tried to change the constitution governing cricket in the country to address emerging issues, but they failed before the processes even commenced
+
+Sovereignty can generally be defined as supreme authority. In any State, sovereignty is assigned to the person, body or institution that has the ultimate authority over other people to establish a law or change existing laws. In political theory, sovereignty is a substantive term designating supreme legitimate authority over some States.
+
+At the outset a nation’s sovereignty is vested on its citizens and they use it to elect their representatives to a national assembly to carry out the affairs of the nation for a given period of time. In a democratic setup voters use their sovereign power to elect their representatives to manage the affairs for the benefit of the nation and in return be accountable to the nation on its affairs.
+
+...
+
+[Data](articles/36cdf869.json)
+
+---
+
 ### 2024-06-13 (Thursday)
 
-### சிதைவடைந்த சிசுவின் சடலம் மீட்பு
+### The corpse of the degenerative infant
 
 *2024-06-13 23:56:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிதைவடைந்த-சிசுவின்-சடலம்-மீட்பு/175-338889) · `ta`
 
-நுவரெலியா பொரலந்த பகுதியில் பிறந்து சில நாட்களேயான சிசுவொன்றின் சடலமொன்று வியாழக்கிழமை (13)  மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Nuwara Eliya, a fetus' body was found shortly after birth, but its identity remains unknown. Police and hospital staff are investigating, with the body undergoing an autopsy at the Nuwara Eliya District General Hospital.
 
-கிடைத்த தகவலையடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தினை மீட்டுள்ளனர். சிசு யாருடையது என இதுவரை அடையாளம் காணப்படவில்லை.
+🟩
 
-நுவரெலியா பதில் நீதவான் ஜயமினி அம்பகஹவத்த ஸ்தல விசாரணைகளை மேற்கொண்ட பின்னர் சிசுவின் சடலம் பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+A few days after being born in the Nuwara Eliya area, a body of a fetus was recovered on Thursday (13), police said.
 
-சடலமாக மீட்கப்பட்ட சிசுவின் தாயைக் கண்டுபிடிக்கும் நடவடிக்கையில் நுவரெலியா மாவட்ட பொது வைத்தியசாலையின் உதவியுடனும் இப்பகுதியில் உள்ள பிரதேச தாதியர்களின் உதவியுடன் பொலிஸார் ஈடுபட்டுள்ளதுடன் மேலதிக விசரணையை நுவரெலியா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police rushed to the scene and recovered the body. The infant has not yet been identified.
+
+The body of the infant has been placed at the Nuwara Eliya District General Hospital for autopsy after the Nuwara Eliya Magistrate Jayamini Ambagahawatta is being investigated.
+
+The police are engaged in the help of the Nuwara Eliya District General Hospital with the help of the nurses in the area and the Nuwara Eliya police are carrying out the further.
 
 ◼️
 
 [Data](articles/a008d7f4.json)
 
+[Extended Data](ext_articles/a008d7f4.ext.json)
+
 ---
 
-### கொச்சிக்கடை புனித அந்தோனியார் திருச்சொரூப பவானி
+### St. Anthony's Church
 
 *2024-06-13 23:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-புனித-அந்தோனியார்-திருச்சொரூப-பவானி/175-338888) · `ta`
 
-கொழும்பு, கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம் இன்று மாலை அருட்தந்தை பற்றிக் பெரேய்ரா தலைமையில் நடைபெற்றது.
+The Bhavani ceremony at St. Anthony's Temple in Kochchikada, Colombo, took place tonight, hosted by Pereira.
+
+🟩
+
+The Bhavani ceremony at St. Anthony's Temple, Kochchikada, Colombo was held this evening under the patronage of Pereira.
 
 ◼️
 
 [Data](articles/4205ae86.json)
+
+[Extended Data](ext_articles/4205ae86.ext.json)
 
 ---
 
@@ -460,6 +490,28 @@ Accordingly, the government has taken steps to suspend the opportunity to obtain
 
 ---
 
+### Sri Lanka opposition leader proposes Grama Rajya system in addition to 13A
+
+*2024-06-13 19:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-proposes-grama-rajya-system-in-addition-to-13a-167912/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa has proposed devolving power to the village level through a Grama Rajya system in addition to implementing the 13th amendment to the constitution.
+
+Speaking at an event in Jaffna on on Wednesday June 12, Premadasa said all provinces will benefit from the 13th amendment.
+
+“Whatever one’s ethnicity, religion, status or region, this country has citizens of equal level. They’re all Sri Lankan citizens.
+
+“There is no division or grouping.  As we give you and every other province what you should be given through the 13th amendment, we must implement a Grama Rajya system,” Premadasa said, addressing a crowd of school children and other attendees.
+
+Premadasa’s assurance of implementing the 13th amendment has already drawn some protest in the south.
+
+A collective of civil society organisations held a protest outside the office of the leader of the opposition in Colombo on Thursday June 12.
+
+...
+
+[Data](articles/a958e8c2.json)
+
+---
+
 ### Two -wheelers collided head -on: three -wheelers severe damage;One injury
 
 *2024-06-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186028) · `ta`
@@ -560,6 +612,26 @@ Some of the complaints were residents of the Negombo Police Division and they ha
 
 ---
 
+### Sri Lanka rupee closes flat at 303.85/95 to US dollar
+
+*2024-06-13 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-303-85-95-to-us-dollar-167892/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 303.85/95 to the US dollar on Thursday, from 303.80/304.00 to the dollar the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.00/30 percent, down from 10.20/40 percent.
+
+A bond maturing on 01.07.2028 closed at 11.00/15 percent, down from 11.15/40 percent.
+
+A bond maturing on 15.05.2030 closed at 11.85/12.05 percent, down from 11.90/12.05 percent.
+
+A bond maturing on 01.10.2032 closed stable at 11.95/12.15 percent. (Colombo/Jun13/2024)
+
+◼️
+
+[Data](articles/07db7fce.json)
+
+---
+
 ### President requests governors to intervene and expedite delivery of welfare benefits to public
 
 *2024-06-13 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99862/president-requests-governors-to-intervene-and-expedite-delivery-of-welfare-benefits-to-public) · `en`
@@ -646,6 +718,24 @@ The Ministry of Education has also called applications from the English Media Te
 
 ---
 
+### Sri Lanka sells Rs295bn in 2027 to 2031 bonds
+
+*2024-06-13 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs295bn-in-2027-to-2031-bonds-167905/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 295 billion rupees in 2027, 2029 and 2031 bonds, data from the state debt office showed.
+
+The debt office sold an offered 60 billion rupees of 15 October 2027 at an average yield of 10.30 percent.
+
+All offered 125 billion rupees of 15 September 2029 bonds were sold at 11.00 percent.
+
+All 110 billion rupees offered of 01 December 2031 bonds were sold at 12.00 percent. (Colombo/May13/2024)
+
+◼️
+
+[Data](articles/5c47d4da.json)
+
+---
+
 ### Another train strike is nearing
 
 *2024-06-13 18:17:34* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-දුම්රිය-වර්ජනයක්-අත-ළඟයි/11-410200) · `si`
@@ -663,6 +753,32 @@ Accordingly, a positive answer for their professional issues is expected to be a
 [Data](articles/e080cd36.json)
 
 [Extended Data](ext_articles/e080cd36.ext.json)
+
+---
+
+### Sri Lanka coastal plantation of pomegranates yields bumper crop
+
+*2024-06-13 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-coastal-plantation-of-pomegranates-yields-bumper-crop-167898/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s first harvest from a pilot project to cultivate pomegranate in Chenkaladi, in the eastern coastal city of Batticaloa, has been successful, the Ministry of Agriculture and Plantation Industries has said.
+
+“The sea breeze is favorable for pomegranate cultivation in Batticaloa,” the Ministry’s Agriculture Sector Modernization Project (ASMP) said in a statement.
+
+The variety grown in this region is the drought-tolerant Bhagawa pomegranate.
+
+Sri Lanka has been promoting export crops after a foreign exchange crisis.
+
+Sri Lanka to produce pomegranates to ‘save forex’ amid inflationism
+
+Sri Lanka imports pomegranates from India at present. The fruit is considered to have medicinal properties.
+
+The tropical island nation hopes to meet domestic demand with the successful cultivations of several types of the fruit, including Mali Pink, Lanka Red.
+
+The pomegranate harvest in Chenkaladi has earned farmers revenues of up to 3.5 million rupees, the department said.
+
+◼️
+
+[Data](articles/f36e4f8f.json)
 
 ---
 
@@ -829,6 +945,30 @@ Fernando further stated that although the government carried out rehabilitation 
 [Data](articles/05a807b6.json)
 
 [Extended Data](ext_articles/05a807b6.ext.json)
+
+---
+
+### Sri Lanka stocks close down amid lack of clarity on debt restructuring
+
+*2024-06-13 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-lack-of-clarity-on-debt-restructuring-167878/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.03 percent, or 4.13 points, at 12,390; while the more liquid S&P SL20 Index closed down 0.05 percent, or 1.68 points, at 3,686.
+
+Turnover was 1.8 billion. Most of this came from trading on banking stocks (Rs738mn).
+
+“Market was down, even after the IMF news, because investors were expecting some clarity on the external debt restructuring; and this did not come,” market participants said. “There was very thin volumes traded.”
+
+Commercial Bank of Ceylon Plc saw the most volumes traded (Rs476mn) in the day. The share closed flat at 109.25.
+
+Except for Union Bank of Colombo Plc which closed up at 1.02, all banking stocks closed down or flat in the day.
+
+DFCC Bank Plc closed flat at 78.00, Hatton National Bank Plc closed down at 203.75, and Sampath Bank Plc closed down at 80.00.
+
+...
+
+[Data](articles/3cadd343.json)
 
 ---
 
@@ -1280,6 +1420,24 @@ The three men who warned the trio were sentenced to 4 thousand 500 rupees after 
 
 ---
 
+### Sri Lanka discusses legal framework, EOI for nuclear energy: Minister
+
+*2024-06-13 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-discusses-legal-framework-eoi-for-nuclear-energy-minister-167873/) · `en`
+
+ECONOMYNEXT – Sri Lankan officials are discussing the proposed legal framework and expressions of interest for nuclear energy projects in the country, Power and Energy Minister Kanchana Wijesekera has said.
+
+“Discussed the progress of the proposed legal framework on nuclear energy integration, EOI for nuclear energy, technology and technical evaluation, long term generation requirement, safety and policy planning,” Wijesekera said on X (twitter) after a meeting with senior officials of the Atomic Energy Authority and Atomic Energy Board yesterday.
+
+Sri Lanka has given cabinet approval to call for EOIs from suitable investors to establish a nuclear power plant in Sri Lanka, but legal frameworks are required by global agencies before establishing a nuclear power plant in the country.
+
+Late last year, Wijesekara told parliament that several countries including Russia, India, France and the United States had offered to collaborate with Sri Lanka on nuclear technology.
+
+...
+
+[Data](articles/d7c91fb4.json)
+
+---
+
 ### A warning from former police officers
 
 *2024-06-13 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197717) · `si`
@@ -1391,6 +1549,44 @@ At the same time, the mobile phone of the man who left the mobile phone in a thr
 [Data](articles/f5ed2691.json)
 
 [Extended Data](ext_articles/f5ed2691.ext.json)
+
+---
+
+### Sri Lanka tea plantation female workers overlooked for promotions: Minister
+
+*2024-06-13 14:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-plantation-female-workers-overlooked-for-promotions-minister-167860/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s female tea pluckers do not get promoted as male tea pluckers do, Minister of Estate Infrastructure Jeevan Thondaman said.
+
+“I know educated women who are plucking tea because they are not getting into management, and I know less than qualified men who are in management positions. Why? Because they know how to order people around,” Thondaman told EconomyNext.
+
+A study done by Verite Research in 2022 shows that the estate sector’s economically active population is 404,002 out of which 167,156 are women.
+
+However, there is a difference in the work that men and women do while being paid the same wage.
+
+...
+
+[Data](articles/fda64a5c.json)
+
+---
+
+### Sri Lanka courts to sell vehicles, machinery seized for suspected involvement in crimes
+
+*2024-06-13 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-courts-to-sell-vehicles-machinery-seized-for-suspected-involvement-in-crimes-167862/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow courts to sell vehicles and machineries seized by courts due to their suspicious involvement in crimes to preserve foreign exchange and minimal usage of lands, Justice Minister Wijeyadasa Rajapakshe said.
+
+The island nation has witnessed thousands of courts-seized vehicles end up in unusable conditions because of long duration to conclude court cases for crimes.
+
+“There is no clear law on assets and properties that are seized in court cases,” Rajapakshe told reporters at a media briefing on Wednesday (12).
+
+“We have come up with laws on that including the one, which is on the assets involved with court cases. We know that there are goods worth over billions of rupees corroding after being seized by courts. If somebody has used a vehicle or machine in a crime, the court is compelled to keep them with its custody until the legal case is over.”
+
+He said keeping such assets for long duration has become a huge issue for courts because it needs lands.
+
+...
+
+[Data](articles/86b3aca2.json)
 
 ---
 
@@ -1612,6 +1808,24 @@ The Magistrate also set the request to submit the request made by the suspect in
 
 ---
 
+### Protest held outside Sri Lanka opposition leader’s office against 13th amendment
+
+*2024-06-13 13:55:00* · [`economynextcom`](https://economynext.com/protest-held-outside-sri-lanka-opposition-leaders-office-against-13th-amendment-167845/) · `en`
+
+ECONOMYNEXT — A collective of civil society organisations held a protest outside the office of the leader of the opposition Sajith Premadasa in Colombo against an assurance he had made of implementing the 13th amendment to Sri Lanka’s constitution.
+
+Calling itself the ‘Coalition Against Partition of Sri Lanka’, the group carrying national flags marched up to the opposition leader’s office Thursday June 13 morning and demonstrated against the full implementation of the 13th amendment.
+
+“We arrived here today to hand over a missive against devolving police powers, land powers and judicial powers. If Mr Premadasa is inside, come outside,” Jamuni Kamantha Thushara, Chairman of the Citizen’s Movement Against Fraud, Corruption, and Waste, was seen declaring at the site.
+
+“First of all, tell us what we stand to achieve by dividing and giving away the north and east,” said another protestor, warning against bringing the 13th amendment “anywhere here (paththa palaathe)”.
+
+...
+
+[Data](articles/04286597.json)
+
+---
+
 ### Womanna Piyumalige Remanded Rs. 50
 
 *2024-06-13 13:41:23* · [`adalk`](https://www.ada.lk/breaking_news/තිළිණි-පියුමාලිගෙන්-ඩොලර්-ගන්න-ව්‍යාපාරිකයෙකුගෙන්-රු-ලක්ෂ-50ක්-වංචා-කළ-කාන්තාව-රිමාන්ඩ්/11-410195) · `si`
@@ -1750,6 +1964,46 @@ The complaint sector is conducting further investigations under the patronage of
 
 ---
 
+### Sri Lanka Podujana Peramuna will contest elections as part of alliance: MP
+
+*2024-06-13 13:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-will-contest-elections-as-part-of-alliance-mp-167833/) · `en`
+
+ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP) will contest the upcoming elections, whether presidential or parliamentary, as part of an alliance, MP Shantha Bandara said.
+
+Speaking to reporters, Bandara said the SLPP holds the biggest vote base in the country.
+
+“The SLPP has a bigger base compared to other parties. We will contest upcoming elections as part of an alliance. That alliance will be the biggest alliance there is. We have no apprehensions about winning the next election whether it’s a presidential election or a parliamentary election,” he said.
+
+“The president has informed us quite clearly that the next election will be presidential,” he added.
+
+The SLPP has yet to publicly announce its plans for the presidential election due to be held between September 17 and October 17 this year.
+
+President Ranil Wickremesinghe, the leader of the United National Party (UNP), heads an SLPP-led government after the ruling party voted for him en masse to appoint him president.
+
+...
+
+[Data](articles/6663dd07.json)
+
+---
+
+### Some Sri Lanka’s IMF-agreed targets delayed with consensus: State FinMin
+
+*2024-06-13 13:14:00* · [`economynextcom`](https://economynext.com/some-sri-lankas-imf-agreed-targets-delayed-with-consensus-state-finmin-167840/) · `en`
+
+ECONOMYNEXT – Some of the targets Sri Lanka had agreed with the International Monetary Fund (IMF) including Stolen Asset Recovery legislation have been delayed in consensus with the global lender as they need more time for implementation, State Finance Minister Shehan Semasinghe said.
+
+The IMF approved Sri Lanka’s second program review late on Wednesday, allowing the disbursement of $336 million third tranche, citing that Sri Lanka’s performance under program remaining strong.
+
+The IMF said “all quantitative targets were met, except for the marginal shortfall of indicative target on social spending. Most structural benchmarks were either met or implemented with delay. Reforms and policy adjustment are bearing fruit”.
+
+President Ranil Wickremesinghe’s government is compelled to pass some legislation in the parliament as fast as it can to stay in the programme timeline, government official say.
+
+...
+
+[Data](articles/b0c8afbc.json)
+
+---
+
 ### A brutal attack on another daughter
 
 *2024-06-13 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197712) · `si`
@@ -1841,6 +2095,24 @@ Empowering the Samurdhi business is under two phases. It is a pilot project and 
 [Data](articles/4f12f0bf.json)
 
 [Extended Data](ext_articles/4f12f0bf.ext.json)
+
+---
+
+### Switzerland returns bones, tools of Adivasi to Sri Lanka
+
+*2024-06-13 12:35:00* · [`economynextcom`](https://economynext.com/switzerland-returns-bones-tools-of-adivasi-to-sri-lanka-167830/) · `en`
+
+ECONOMYNEXT – The Museum of Cultures and the Natural History Museum in Basel, Switzerland returned a collection of  approximately 90 aboriginal artefacts, including human bones and tools, of Sri Lanka’s indigenous population this week.
+
+Chief Uruwarige Wannilaththo, head of the Vedda tribe, inspected the aboriginal artefacts returned by Switzerland during a exposition to the media at the Lotus Tower in Colombo, on Wednesday.
+
+The artefacts, which were taken to Basel around the end of the 19th century, include 42 human skeletons and skulls of Veddas, weapons like arrows and bows, and everyday items such as bags, plates, and pots.
+
+The Ministry of Buddhasasana, Religious, and Cultural Affairs, said they were returned in response to official requests from the Sri Lankan government and the Vedda tribe.
+
+...
+
+[Data](articles/d6c3eba0.json)
 
 ---
 
@@ -1970,6 +2242,26 @@ Meanwhile, the court has also ordered to communicate the Controller General of I
 
 ---
 
+### Sri Lanka in final stages of reaching in-principle deal with CDB: State Minister
+
+*2024-06-13 11:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-final-stages-of-reaching-in-principle-deal-with-cdb-state-minister-167825/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the final stages of reaching an in-principle agreement to restructure debt of China Development Bank, State Minister for Finance Shehan Semasinghe said.
+
+Sri Lanka has debt classified as commercial and bilateral for China Development Bank according to published debt data.
+
+The International Monetary Fund approved a review on June 12, pending the finalization of bilateral and commercial debt.
+
+Sri Lanka would not have been able to complete the review without the support given by the creditors, Semasinghe said.
+
+Sri Lanka hopes to wrap up final agreement with bilateral creditors and also reach preliminary deals with private creditors before the end of June, he said. (Colombo/June13/2024)
+
+◼️
+
+[Data](articles/911e9889.json)
+
+---
+
 ### Gold Malah Girls on CCTV Camera
 
 *2024-06-13 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197711) · `si`
@@ -1991,6 +2283,32 @@ The motorcycle conducted by the registration number on the rider, the motorcycle
 [Data](articles/10e9759c.json)
 
 [Extended Data](ext_articles/10e9759c.ext.json)
+
+---
+
+### Sri Lanka rupee trades at 303.90/304.05 to US dollar
+
+*2024-06-13 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-303-90-304-05-to-us-dollar-167793/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.90/304.05 to the US dollar on Thursday in mid-day trading, while bond yields were broadly stable, and stocks opened 0.13 percent higher, dealers said.
+
+The rupee closed at 303.80/304.00 to the greenback on Wednesday.
+
+In equities, Colombo’s All Share Price Index fell during mid-day trade after initially opening higher. It was down 0.56 points to 12,390 while the S&P SL20 of more liquid stocks was down 0.18 percent or 6.48 points to 3,679, in mid-day trade.
+
+In the secondary market, yields were broadly stable during the auction, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.05/20 percent, up from 10.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted at stable at 10.70/85 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.10/15 percent, down from 11.10/20 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.80/95 percent down from 11.80/12.00 percent. (Colombo/Jun13/2024)
+
+◼️
+
+[Data](articles/993d99ad.json)
 
 ---
 
@@ -2019,325 +2337,5 @@ The first phase of the investigation revealed that the cooking ginger was smuggl
 [Data](articles/211ad957.json)
 
 [Extended Data](ext_articles/211ad957.ext.json)
-
----
-
-### Buddhist Revolutionist In The Making – Kekirawe Sudassana Thero
-
-*2024-06-13 11:04:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/buddhist-revolutionist-in-the-making-kekirawe-sudassana-thero/) · `en`
-
-Religions across the globe have historically undergone significant economic and social transformations, adapting to evolving circumstances and aiding in the progress of societies. However, in Sri Lanka, Theravada Buddhism has largely remained static, entangled with political influences that benefit a select few monks while wielding considerable influence over the masses. Unlike the vibrant evolutions seen in other countries, Sri Lanka’s Theravada Buddhism has yet to undergo a transformation that aligns it with contemporary social and economic development needs.
-
-...
-
-[Data](articles/33626935.json)
-
-[Extended Data](ext_articles/33626935.ext.json)
-
----
-
-### Railway delay due to rail train
-
-*2024-06-13 11:02:26* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පීලිපැනීමක්-හේතුවෙන්-දුම්රිය-ප්‍රමාදයක්/11-410189) · `si`
-
-A train from Panadura to its station was delayed, blocking both tracks and halting coastal railway traffic. The Rajarata Queen to Beliatta also stopped at Colombo Fort. Coastal route trains now only run to Moratuwa, causing delays.
-
-🟩
-
-A train from Panadura from Panadura from Panadura to the Panadura Railway Station today (13th) has been allocated to the Panadura Railway Station.
-
-Due to this, both roads on the railway line are blocked due to this. As a result, the railway traffic on the coastal railway line has been temporarily parked. The Rajarata Queen Railway, which is traveling to Beliatta, has also taken steps to complete the Colombo Fort Railway Station today.
-
-Trains, which are traveling on the coastal route, is limited to the Moratuwa Railway Station and will take some time to carry out the train services. (I J)
-
-◼️
-
-[Data](articles/7eb8d422.json)
-
-[Extended Data](ext_articles/7eb8d422.ext.json)
-
----
-
-### Sri Lanka Transport Board (SLTB) workers protest in Kalmunai
-
-*2024-06-13 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185971) · `ta`
-
-SLTB employees in Kalmunai protested at the bus station on 13th, demanding safety and opposing integration services. The protest followed a conflict between SLTB, EPO, and private bus workers, leading to hospitalizations. Travelers faced difficulties, including long waits for buses and congestion from private buses.
-
-🟩
-
-The Sri Lanka Transport Board (SLTB) employees in Kalmunai are engaged in a protest at the bus station on Thursday (13).
-
-They are engaged in the struggle to emphasize the safety of the Sri Lanka Transport Board employees and not the integrated service.
-
-Do not distort the uniqueness of the Sri Lanka Transport Board, they are struggling with banners containing the words "Transport Ministry".
-
-The Amparai Kalmunai Integrated Service ended on Tuesday's time and ended in a conflict with the EPO employees and private bus workers.. The two sides were admitted to the hospital and were being treated.
-
-In this case, the protesters said that some of the employees of the EPFA had been arrested and detained by the Kalmunai headquarters.
-
-...
-
-[Data](articles/52648d8c.json)
-
-[Extended Data](ext_articles/52648d8c.ext.json)
-
----
-
-### Yall. 135 kg of cannabis recovery in Vadamarachchi
-
-*2024-06-13 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185975) · `ta`
-
-At 4:45 am today, 135 kg of Kerala cannabis was discovered and confiscated in Vadamarachchi by the Navy and Special Action Force after a search in the Kanjati area. The suspects fled, and the drugs were handed over to the Maruthankani Police Station for legal proceedings.
-
-🟩
-
-135 kg of Kerala cannabis has been recovered at 4:45 am today (13).
-
-In accordance with the information received by the Navy Intelligence Unit, the Navy and Special Action Force have been searching for the Kanjati area.. Those involved in the trafficking of cannabis have escaped.
-
-The packs were handed over to the Maruthankani Police Station for further legal action, which seized three Kerala cannabis packages weighing 135 kg of Kerala cannabis and Special Task Force.
-
-◼️
-
-[Data](articles/abb86229.json)
-
-[Extended Data](ext_articles/abb86229.ext.json)
-
----
-
-### An Efficient Train System Should Be The Number One Public Transport Priority
-
-*2024-06-13 10:55:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-efficient-train-system-should-be-the-number-one-public-transport-priority/) · `en`
-
-I write this because I love travelling by train and am very sad about the condition of Sri Lanka Railways and train travel in this beautiful island. In recent times, several of my planned train trips had to be cancelled causing great inconvenience due to sudden train service disruptions, including derailments, breakdowns and cancellations.
-
-Train travel is both cheap and environment friendly. Trains carry a large number of passengers and hence cause lower Carbon emissions per capita than do cars. Public Transport, in general is both cost-effective and environmentally friendly for a country in a Debt trap and IMF austerity program.
-
-Rather than rushing to buy expensive Electric Vehicles (EVs), for a costly Green Energy Transition promoted by various United Nations Agencies and Greenwash Corporations, the GOSL should urgently make Public Transport, particularly, investing in and upgrading the Sri Lanka Railways a top development priority at this time.
-
-...
-
-[Data](articles/13dee363.json)
-
-[Extended Data](ext_articles/13dee363.ext.json)
-
----
-
-### West Indies win
-
-*2024-06-13 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197710) · `si`
-
-In the Twenty20 World Cup, the West Indies emerged victorious against New Zealand.
-
-🟩
-
-West Indies won the match between the West Indies and New Zealand in the Twenty20 World Cup.
-
-◼️
-
-[Data](articles/455f8558.json)
-
-[Extended Data](ext_articles/455f8558.ext.json)
-
----
-
-### Attack on the house of the journalist
-
-*2024-06-13 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஊடகவியலாளரின்-வீட்டின்-மீது-தாக்குதல்/71-338849) · `ta`
-
-In the early hours of Thursday, journalist Thambichurai Pradeepan's home in Achuveli was attacked by a violent gang on motorcycles. They set fire to a motorcycle and a three-wheeler outside and left pamphlets warning against misrepresenting transgender sentiments inside. The motive behind the attack remains unknown as police investigate.
-
-🟩
-
-The incident took place at around 12.15 am on Thursday (13) at around 12.15 am.
-
-The attack has been attacked on the house of journalist Thambichurai Pradeepan in Achuveli, Pathamani Kali Temple area.
-
-It is reported that the violent gang of two motorcycles has been involved in violence.
-
-The motorcycle and the three -wheeler outside the house have been set on fire with weapons and weapons.
-
-The pamphlets printed on the "do not misrepresent the sentiments of the transgender" have been put in the house where the attacked.
-
-Achuveli police have launched an investigation into the incident as the cause of the attack is yet to be known.
-
-◼️
-
-[Data](articles/662eb4a3.json)
-
-[Extended Data](ext_articles/662eb4a3.ext.json)
-
----
-
-### Privatisation of SriLankan Airlines is part of IMF program, says CEO
-
-*2024-06-13 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99853/privatisation-of-srilankan-airlines-is-part-of-imf-program-says-ceo) · `en`
-
-SriLankan Airline CEO Richard Nuttall said that the government is on its way to privatise several state-owned enterprises as part of the International Monetary Fund (IMF) program and one of those is the flag carrier of the island nation.
-
-“The government is trying to privatise a number of state-owned enterprises as a part of the IMF program that it’s going through. One of those is SriLankan Airlines,” Nuttall said speaking to ANI on Wednesday.
-
-Nuttall shared that one of the steps taken in that direction is the government helping with the balance sheet which will be completed in a month or two.
-
-“There are two parts to that. One is, the government working to help us with our balance sheet and a lot of work has gone on with that and we expect that to be finished in the next one or two months,” the CEO said.
-
-Nuttal said that the airline is also looking for an investor, three candidates have been finalised and the government is in talks with them.
-
-...
-
-[Data](articles/38c50f1b.json)
-
-[Extended Data](ext_articles/38c50f1b.ext.json)
-
----
-
-### Derailment disrupts train services on coastal line
-
-*2024-06-13 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99852/derailment-disrupts-train-services-on-coastal-line) · `en`
-
-A slow train plying from Panadura to Maradana has derailed near the Panadura railway station, disrupting services on the coastal line, Sri Lanka Railways announced.
-
-Accordingly, the trains operating on the coastal line will experience delays, according to Sri Lanka Raiways.
-
-One of the compartments of the derailed train has collided with a nearby railway signal board, causing a complete breakdown of the railway signaling system in the area.
-
-Meanwhile, a spokesperson for Sri Lanka Railways stated that it will take a considerable amount of time to restore the railway line for regular train operations.
-
-◼️
-
-[Data](articles/03a5de71.json)
-
-[Extended Data](ext_articles/03a5de71.ext.json)
-
----
-
-### Sri Lanka to investigate SIS, CNI actions prior to Easter attack
-
-*2024-06-13 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-investigate-sis-cni-actions-prior-to-easter-attack-167797/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has appointed a committee of inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on April 21, 2019.
-
-The decision follows the findings of the final report of the commission of inquiry, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
-
-“The committee’s mandate includes examining whether adequate actions and measures were taken by the SIS, CNI, and other relevant authorities based on the prior intelligence and evaluating the sufficiency of these measures,” the president’s media division said in a statement.
-
-The committee is expected to submit its findings and recommendations by September 15.
-
-...
-
-[Data](articles/b6028c7d.json)
-
-[Extended Data](ext_articles/b6028c7d.ext.json)
-
----
-
-### Train tracks jumps - the coastal road completely blocks
-
-*2024-06-13 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197709) · `si`
-
-A train derailment near Panadura Railway Station has blocked the coastal railway line, disrupting travel.
-
-🟩
-
-The coastal railway line has completely blocked by derailing a train near the Panadura Railway Station.
-
-◼️
-
-[Data](articles/48d53444.json)
-
-[Extended Data](ext_articles/48d53444.ext.json)
-
----
-
-### IMF third tranche will pave the way for long-term sustainable growth in SL - state minister
-
-*2024-06-13 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99851/imf-third-tranche-will-pave-the-way-for-long-term-sustainable-growth-in-sl-state-minister) · `en`
-
-State Minister of Finance Shehan Semasinghe expressed gratitude to the International Monetary Fund (IMF) Board Members, Management and Mission Team for the unwavering and dedicated support extended to Sri Lanka following the approval of the second review of the EFF programme.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe noted that this signifies the continued commitment to Sri Lanka’s economic recovery and growth which is critical in reinforcing economic stability and resilience.
-
-Furthermore, he extended gratitude to the Official Creditor Committee co-chaired by India, Japan, France and China for the steadfast support.
-
-The Finance State Minister said that the third tranche of USD 336 million unlocked through this approval, will have a significant positive impact on the country’s economy, while paving the way for more robust economic policies and reforms for long-term sustainable growth and prosperity.
-
-...
-
-[Data](articles/be0ac1d6.json)
-
-[Extended Data](ext_articles/be0ac1d6.ext.json)
-
----
-
-### Yall. Fishermen in Tamil Nadu
-
-*2024-06-13 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185967) · `ta`
-
-Two fishermen from Analadeevu, Thiruchelvam Michael Fernando and Nagalingam Vijayakumar, went missing while fishing near the Nagapattinam coast in Tamil Nadu. Their boat was damaged, but they were found safe in the Arukattutturai fishing village. The Vedaranyam Coast Guard is investigating.
-
-🟩
-
-The two missing from Jaffna - Analadeevu have been alive in Tamil Nadu.
-
-Thiruchelvam Michael Fernando and Nagalingam Vijayakumar from Analadeevu have collapsed and the boat machine has been damaged and the coast of Nagapattinam in Tamil Nadu is located.
-
-About 2 napayal miles east of the Vedaranyam police Sarakam, Arukattutturai fishing village, two fishermen in the Bay of Bengal have been deployed.
-
-Ramesh (Responsibility - Vedaranyam Coast Guard) is investigating the two fishermen.
-
-The family announced that two persons who had gone to the sea were missing at 5 pm last Monday (10).
-
-◼️
-
-[Data](articles/29bc7a15.json)
-
-[Extended Data](ext_articles/29bc7a15.ext.json)
-
----
-
-### Jeffrey suspended the ban on foreign travel ban
-
-*2024-06-13 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197708) · `si`
-
-Geoffrey Joseph, chairman of PPPRICA, lifted a temporary foreign travel ban to allow Joseph Aloysius medical treatment in Singapore. This decision was made while the judges overseeing the central bank bond case were abroad from July 1st to September 12th.
-
-🟩
-
-PPPRICUL TEASSARY GROUP Chairman Geoffrey Joseph is ordered to temporarily remove the foreign travel ban on adequate.
-
-In the central bank bond case, the 6th accused Joseph Aloysius has been given to Singapore to seek medical attention.
-
-Accordingly, the three-member panel of judges of Colombo was abroad from 1st July to 12 September 12.
-
-Amal Perera, Dr. Namal Perera, Dr. Namal Perera, Dr. Namal Perera and Aduriya Pathanaage were ordered to inform the authorities that the foreign travel ban was temporarily removed.
-
-◼️
-
-[Data](articles/d63b32a1.json)
-
-[Extended Data](ext_articles/d63b32a1.ext.json)
-
----
-
-### Minister of State for Finance Sehan Semasinghe thanks to the IMF
-
-*2024-06-13 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185972) · `ta`
-
-Sehan Semasinghe, Minister of Finance, thanked the IMF and its Task Force for approving a further $336 million under an extended credit facility, crucial for Sri Lanka's economic recovery and growth.
-
-🟩
-
-Minister of Finance Sehan Semasinghe thanked the International Monetary Fund and its Task Force for the release of the third term under the expanded financial facility.
-
-The Minister of Finance Sehan Semasinghe said that this process is a continuous commitment to the country's economic recovery and growth.
-
-The Minister of State for Finance has thanked the International Monetary Fund Executive Committee as the Executive Committee of the IMF has approved US $ 336 million for the 3rd phase of the extended credit facility provided to Sri Lanka.
-
-◼️
-
-[Data](articles/968b8024.json)
-
-[Extended Data](ext_articles/968b8024.ext.json)
 
 ---

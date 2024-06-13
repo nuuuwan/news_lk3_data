@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 15:19:16**
+As of **2024-06-13 15:34:25**
 
 ## Newspaper Stats
 
-*Scraped **30,191** Articles*
+*Scraped **30,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,421
 tamilmirrorlk | 3,535
 virakesarilk | 4,626
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,862
+adaderanasinhalalk | 4,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,191 (100.0%) of 30,191 articles have been extended.
+30,191 (100.0%) of 30,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### හිටපු පොලිස් ලොක්කන්ගෙන් අනතුරු ඇඟවීමක්
+
+*2024-06-13 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197717) · `si`
+
+අතීතයේදී ප්‍රචණ්ඩකාරී දේශපාලන ක්‍රියාකාරකම්වල නිරත වූ දේශපාලන කණ්ඩායම් යළිත් වරක් එවැනි ක්‍රියාකාරකම්වල නිරත නොවනු ඇති බවට විශ්වාස කළ නොහැකි බව හිටපු පොලිස්පති චන්ද්‍රා ප්‍රනාන්දු මහතා පවසයි.
+
+හිටපු පොලිස්පතිවරුන් සහ හිටපු නියෝජ්‍ය පොලිස්පතිවරුන් සහභාගී වූ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
+
+පිටකෝට්ටේ පිහිටි පෞද්ගලික හෝටලයක අද (13) පෙරවරුවේ මෙම ප්‍රවෘත්ති සාකච්ඡාව කැඳවා තිබුණි.
+
+"1971 ඒ කැරැල්ලෙන් පස්සේ විශාල පුනුරුත්ථාපනය කිරීමක් රජය විසින් සිදු කළා. අපි සෑම කෙනෙක්ම හිතුවා මෙතනින් කැරැල්ල අවසාන වෙයි කියලා. නමුත් අවාසනාවකට 1989 නැවත වරක් මෙම ප්‍රචණ්ඩකාරී ක්‍රියාව ඇති වෙලා ලංකාවේ දේපොළ සහ ජීවිත විනාශ වුණා. අපි ඊට පස්සෙත් හිතුවා මෙම ප්‍රචණ්ඩකාරී ක්‍රියාව නතර කරයි කියලා. නමුත් අවාසනාවකට 2022 මැයි මස 09 වනදා ගෙවල් 91ක් එකම රැයේදී විනාශ කිරීමට තරම් සංවිධාන වූ පිරිසක් බව දැන් පෙනී ගියා. ඉතිං මෙවැනි දේවල් කරන කොට ඉදිරියට මේක නොකරාවි ද ?"
+
+◼️
+
+[Data](articles/227ae8cc.json)
+
+---
 
 ### Calling online applications for university admission from tomorrow
 
@@ -2263,25 +2281,5 @@ If South Africa completes all the matches, Nepal and Bangladesh, and the end of 
 [Data](articles/567c6473.json)
 
 [Extended Data](ext_articles/567c6473.ext.json)
-
----
-
-### Govt to enact 15 crucial new laws in near future – Justice Minister
-
-*2024-06-12 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99844/govt-to-enact-15-crucial-new-laws-in-near-future-justice-minister) · `en`
-
-Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe has announced plans to enact approximately 15 crucial laws in the upcoming weeks.
-
-Highlighting progress, he noted that over the past 18 months, around 75 bills have been introduced and approved by Parliament, facilitating fundamental adjustments within the country.
-
-Justice, Prison Affairs and Constitutional Reforms Minister, President’s Counsel Dr. Wijeyadasa Rajapakshe was addressing a press briefing held at the Presidential Media Centre today (12) under the theme of “Collective Path to a Stable Country”.
-
-“This period marks one of the most significant legal reforms in the justice system of our country. Over the past 18 months, approximately 75 bills have been presented and approved by Parliament, paving the way for fundamental changes.
-
-...
-
-[Data](articles/1a8ac978.json)
-
-[Extended Data](ext_articles/1a8ac978.ext.json)
 
 ---

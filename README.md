@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 17:55:31**
+As of **2024-06-13 18:13:28**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,220 (100.0%) of 30,222 articles have been extended.
+30,222 (100.0%) of 30,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### ජපානයේ සිටින ශ්‍රී ලාංකිකයන්ගේ සැණකෙළිය ජුනි 15 සහ 16
+### Carnival of Sri Lankans in Japan on June 15 and 16
 
 *2024-06-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197723) · `si`
 
-විවිධ හේතු මත නතරවී තිබූ ජපානයේ වාර්ෂිකව පවත්වන "ශ්‍රී ලංකා මහෝත්සවය" වසර 04කට පසු මේ වසරේ උත්කර්ෂවත් අන්දමින් පැවැත්වීමට කටයුතු යොදා තිබේ.
+The "Sri Lanka Festival" in Japan, a major event held annually since 2018, brings together the country's Sri Lankan community for two days of celebration. This year, it will take place on June 15 and 16 at Tokyo Yoyogi Park, offering attendees a chance to experience traditional Sri Lankan dance, music, and cuisine. The event is organized by several associations including the Japan Institute of Vehicle Imports, the Sri Lanka Association, and others. With around 400,000 Sri Lankans residing in Japan, the festival serves as a vibrant showcase of Sri Lankan culture in Japan.
 
-ජපානයේ ශ්‍රී ලංකා ව්‍යාපාරික සංගමය පවසන්නේ "ශ්‍රී ලංකා මහෝත්සවය" හෙවත් Sri Lanka Festival යනු ජපානයේ  වෙසෙන ශ්‍රී ලාංකිකයන් ලක්ෂ සංඛ්‍යාත පිරිසක් වසරකට වරක් හමුවන දැවැන්තතම ලාංකික  ඉසව්ව බවය.
+🟩
 
-ඒ අනුව ටෝකියෝ Yoyogi Park හි  ජූනි මස 15 සහ 16 යන දෙදින පෙරවරු 9.00 සිට සවස 7.00 දක්වා මෙම ලංකේය සංස්කෘතික  විවිධත්වයෙන් අනූන උත්සව මාලාව පැවැත්වෙයි.
+Japan's annual "Sri Lanka Cascase" has been held for four years in Japan.
 
-සාම්ප්‍රදායික ශ්‍රී ලාංකීය නැටුම්, සංගීතය, විවිධ ශ්‍රී ලාංකික ආහාර පාන වර්ගවල රස බැලීමට ද මෙහිදී අවස්ථාව උදාවෙයි.
+The Sri Lanka Business Union of Japan says Sri Lanka Festival Festival, "Sri Lanka Festival ', or Sri Lanka Festival, is one of the major crowds in Japan once a year ago.
 
-ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ පූර්ණ අනුග්‍රහය යටතේ  ජපානයේ වාහන ආනයනකරුවන්ගේ සංගමය, ශ්‍රී ලාංකීය විද්වතුන්ගේ සංගමය, ශ්‍රී ලංකා සංගමය, ශ්‍රී ලංකා ශිෂ්‍ය සංගමය ඇතුළු සංවිධාන රැසක් මීට දායකත්වය ලබාදෙයි.
+Accordingly, this series of celebrations will be held from 19th and 16th to 7.00 pm to Tokyo Yoyogi Park.
 
-වර්තමානයේ ජපානයේ ශ්‍රී ලාංකිකයන් ලක්ෂ 04කට ආසන්න ප්‍රමාණයක් ජීවත් වන බවට වාර්තා වෙන බවද එහි සංවිධායක මණ්ඩලය පවසයි.
+The opportunity to taste traditional Sri Lankan dance, music, various Sri Lankan food and drinks.
+
+The Japan Institute of Vehicle Imports, Association, Sri Lanka Association, Sri Lanka Association, Sri Lanka and Sri Lanka Ltd.
+
+There are now reports that there are nearly 400,000 Sri Lankans living in Japan today.
 
 ◼️
 
 [Data](articles/0ca856cc.json)
+
+[Extended Data](ext_articles/0ca856cc.ext.json)
 
 ---
 
@@ -686,19 +692,29 @@ At the same time, only the sealing section and the registration postal segments 
 
 ---
 
-### මානසික ආබාධිත දරුවාට පහරදුන්නාට පොලිසිියේ තිදෙනෙකුගෙන් නිදහසට කරුණු විමසයි
+### Mental disabled child prompts excuses from 3 three polys
 
 *2024-06-13 14:20:19* · [`adalk`](https://www.ada.lk/breaking_news/මානසික-ආබාධිත-දරුවාට-පහරදුන්නාට-පොලිසිියේ-තිදෙනෙකුගෙන්-නිදහසට-කරුණු-විමසයි/11-410197) · `si`
 
-මානසික ආබාධිත ළමයෙකුට අලුත්ගම දර්ගා නගර මධ්‍යයේදී අමානුෂික අන්දමින් පහරදුන් බව කියන සිද්ධිය සම්බන්ධයෙන් නිදහසට කරුණු ඉදිරිපත් කිරීමට අලුත්ගම පොලිසියේ නිලධාරීන්ට තිදෙනකුට ශ්‍රේෂ්ඨාධිකරණය අද (13) නියම කළේය.
+The Supreme Court ordered three individuals to provide explanations regarding an incident involving a mentally disabled child. Notices were sent out, requiring responses by January 16th of next year. The case involves Preethi Padman Surasena, a Supreme Court Judge, and others, including residents of Aluthgama. The petitioner's father alleges his son, who is mentally disabled, was assaulted, leading to an investigation by the police superintendent. Legal representatives have been assigned to the parties involved.
 
-මානසික ආබාධිත 17 හැවිරිදි දරුවාගේ පියා ගොනු කළ මූලික අයිතිවාසිකම්  පෙත්සමක් සලකා බැලූ අවස්ථාවේදී ඉදිරිපත් වු කරුණු සැළකිල්ලට ගනිමින් එලෙස නියම කළ ශ්‍රේෂ්ඨාධිකරණය ලබන වර්ෂයේ ජනවාරි 16 වැනිදා අධිකරණයට ඉදිරිපත් වී නිදහසට කරුණු ඉදිරිපත් කිරීමටද අලුත්ගම පොලිසියේ නිලධාරීන්ට තිදෙනාට නියම කරමින් නොතීසී නිකුත් කළේය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීතී පද්මන් සූරසේන, එස්. තුරේරාජා  සහ ප්‍රියන්ත පුනාන්දු යන මහත්වරුන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම  සලකා බැලීණි.
+The Supreme Court today (13), the Supreme Court today (13th) appointed the Supreme Court today to make excuses on the incident.
+
+The Supreme Court issued notice on the 16th of next year to the three-day and the Supreme Court to file excuses on the 16th of January next year.
+
+Preethi Padman Surasena, Supreme Court Judges, S. The petition was considered in the face of the Supreme Court panel of the Supreme Court pagging of the Turaraja and Priyantha Pun.
+
+Residents of the Aluthgama, a 17-year-old Mental Assistant Ahmad Mawoshik, a 17-year-old MP Jayuadher, Dilan Gunatilleke and NH. Senaratne has been named.
+
+The Petitioner father states that the 17-year-old son of the second petitioner was in the case of the coronary law, was associated with a complaint with a complaint that he had been assaulted in the second petition.The petition further stated that an investigation was conducted before the Superintendent of Police.
 
 ...
 
 [Data](articles/d17d24bb.json)
+
+[Extended Data](ext_articles/d17d24bb.ext.json)
 
 ---
 

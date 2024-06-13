@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 07:23:10**
+As of **2024-06-13 08:12:52**
 
 ## Newspaper Stats
 
-*Scraped **30,130** Articles*
+*Scraped **30,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,90 @@ economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,590
 adaderanalk | 3,413
-tamilmirrorlk | 3,524
+tamilmirrorlk | 3,525
 virakesarilk | 4,614
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,849
+adaderanasinhalalk | 4,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,123 (100.0%) of 30,130 articles have been extended.
+30,132 (100.0%) of 30,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### දක්ෂිණ අධිවේගයේ අනතුරක් - මංතීරුවක් අවහිර වෙයි
+### Increase in the elderly population in Sri Lanka
+
+*2024-06-13 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197703) · `si`
+
+Sri Lanka faces a rapid increase in its elderly population, with life expectancy rising to 83 years for women. The government plans significant reforms in healthcare over five years, investing 70 billion to improve primary health institutions and address the challenges posed by an aging society.
+
+🟩
+
+The Ministry of Health states that the elderly population in the country is increasing rapidly.
+
+Medical Palitha Mahipala said that Dr. Palitha Mahipala said in Sri Lanka 79 years old.
+
+Speaking at a media briefing in Colombo
+
+"Our country's aging population is increasing. Sri Lanka, who is growing older aging in Asia, Sri Lanka. Life expectancy in our country is usually 79.7%. According to the new estimate, women were increased to 83 years. Therefore, the adult population increases the rise. It's another problem with us. Therefore, we are carrying out a large reform in primary health institutions within the next 5 years. We hope to spend about 70 billion. Including all provincial council hospital. Also, the survival should be strengthened. Accordingly, the Epidemiology Unit hopes to make a difference. We are doing it under a new program. "
+
+Dr. Ananda Wijewickrama, who joined the press conference, said Dr. Ananda Wijewickrama said that the Sri Lanka's drug deficit was now normal.
+
+◼️
+
+[Data](articles/f58f8e57.json)
+
+[Extended Data](ext_articles/f58f8e57.ext.json)
+
+---
+
+### An accident on Southern Expressway - a lane blocked
 
 *2024-06-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197702) · `si`
 
-අද (13) අලුයම දක්ෂිණ අධිවේගයේ 61 වන කිලෝමීටර් කණුව ආසන්නයේ අනතුරක් සිදුව තිබිණි.
+An accident at the 61st km on Southern Expressway blocked one lane. A fuel spill near Mattala to Kottawa posed a risk. Vehicles heading towards Colombo were diverted to another lane, allowing traffic flow in both directions.
 
-මත්තල දෙස සිට කොට්ටාව දෙසට ධාවනය වූ ඉන්ධන බවුසරයක් මාර්ගයේ මැද ආරක්ෂිත වැටේ ගැටී අනතුරක සිදුව ඇත.
+🟩
 
-අනතුර හේතුවෙන් කොළඹ දෙසට ධාවනය වන එක් මංතීරුවක් අවහිර වී ඇති අතර, කොළඹ දෙසට ගමන් කරන වාහන අනෙක් මංතීරුවෙන් ගමන් කළ හැක.
+The 61st kilometer stake in the Southern Expressway was held today (13).
+
+A fuel bowower towards the Mattala to Kottawa has been in danger of a fuel bowl.
+
+One lane, which is running towards Colombo due to the accident, vehicles traveling towards the other lane can move on the other lane.
 
 ◼️
 
 [Data](articles/0a084860.json)
 
+[Extended Data](ext_articles/0a084860.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-06-13 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197700) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත්ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of possible showers across the Western, Sabaragamuwa, Northwestern provinces, Matara districts, and specific areas including the Uva Province, Ampara districts, central hills' western slopes, Trincomalee, Hambantota, and Moneragala districts. Strong winds of 40-50 km/h are expected, prompting the department to advise the public to prepare for potential lightning and wind-related accidents.
 
-ඌව පළාතේත් සහ අම්පාර, මඩකලපුව දිස්ත්‍රික්කවලත් ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+The Department of Meteorology announces that several showers may occur in the Western, Sabaragamuwa and Northwestern provinces and in the Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+Showers or night thundershowers will occur at evening or night in the Uva Province and Ampara and Ampara Districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
+
+The Department of Meteorology has kindly requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/696298fa.json)
+
+[Extended Data](ext_articles/696298fa.ext.json)
 
 ---
 
@@ -82,6 +120,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/16ed5ba2.json)
 
+[Extended Data](ext_articles/16ed5ba2.ext.json)
+
 ---
 
 ### IMF approves third tranche of Sri Lanka bailout after second review
@@ -97,6 +137,8 @@ The EFF arrangement for Sri Lanka was approved by the Executive Board on March 2
 ...
 
 [Data](articles/0c7b7a25.json)
+
+[Extended Data](ext_articles/0c7b7a25.ext.json)
 
 ---
 
@@ -219,6 +261,26 @@ They say that they can end the illegal industrial activities when they are arres
 [Data](articles/6fcbf988.json)
 
 [Extended Data](ext_articles/6fcbf988.ext.json)
+
+---
+
+### Indian Ambassador - Sumanthiran Meeting
+
+*2024-06-13 02:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவர்-சுமந்திரன்-சந்திப்பு/175-338841) · `ta`
+
+In a Colombo meeting, Indian Ambassador Santosh Jaw and Sri Lanka's TNA parliamentarian MA Sumanthiran discussed political issues and development in the North and East.
+
+🟩
+
+The meeting was held in Colombo yesterday between Indian Ambassador to Sri Lanka Santosh Jaw and Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran.
+
+A number of issues related to the current political situation and the development of the North and East have been discussed.. (A)
+
+◼️
+
+[Data](articles/45ed68eb.json)
+
+[Extended Data](ext_articles/45ed68eb.ext.json)
 
 ---
 
@@ -2185,53 +2247,5 @@ In line with a proposal by the Minister of Tourism and Lands, the Cabinet has ap
 [Data](articles/ab14463c.json)
 
 [Extended Data](ext_articles/ab14463c.ext.json)
-
----
-
-### Arrest
-
-*2024-06-12 15:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரைப்பாம்பை-சாப்பிட்டவர்-கைது/175-338813) · `ta`
-
-A youth in Perumapattu, near Tirupattur, was arrested for cooking and eating a snake, posting a viral video of the act. The forest department took action after the video went viral, leading to his arrest and confession.
-
-🟩
-
-The youth has been arrested in the Perumapattu area near Tirupattur in connection with the incident where the snake's skin was beaten and cooked and cooked.
-
-He has posted a video of the snake's skin and the water in the water.
-
-This video has been going viral on the site and the forest department has taken action against him. When he was arrested and interrogated, he admitted that he cooked and eaten. He was subsequently jailed.
-
-◼️
-
-[Data](articles/04d5a477.json)
-
-[Extended Data](ext_articles/04d5a477.ext.json)
-
----
-
-### President and SAARC Secretary meets Secretary General
-
-*2024-06-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197683) · `si`
-
-President Ranil Wickremesinghe met with SAARC Secretary General Gulam Services to discuss resolving project issues among SAARC nations, enhancing the Sri Lanka Agricultural Navinnamentivity Program, and developing the SAARC Cultural Center for modern art. The meeting included officials like Secretary to the President Saman Ekanayake.
-
-🟩
-
-President Ranil Wickremesinghe and SAARC Secretary General Gulam Services took place at the Presidential Secretariat this morning.
-
-The President has requested the SAARC Secretary to the Secretary General to resolve the problems of various projects between the SAARC countries.
-
-The meeting has also been discussed on the Sri Lanka Agricultural Navinnamentivity Program.
-
-The Presidential Media Unit said that the development of SAARC Cultural Center in Sri Lanka was also discussed for Modern Art.
-
-A group of officers including the Secretary to the President Saman Ekanayake joined the occasion.
-
-◼️
-
-[Data](articles/2d139418.json)
-
-[Extended Data](ext_articles/2d139418.ext.json)
 
 ---

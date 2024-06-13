@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 21:54:25**
+As of **2024-06-13 22:07:38**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,247 (100.0%) of 30,249 articles have been extended.
+30,249 (100.0%) of 30,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### උද්දිකගේ රථයට වෙඩි තැබූ හැටි හෙළිවෙයි
+### Extense that Idaki's vehicle was shot
 
 *2024-06-13 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197730) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථයට වෙඩි තැබීමේ සිද්ධිය මන්ත්‍රීවරයා ප්‍රදේශයේ සහකාර පොලිස් අධිකාරිවරයෙකු සමග එක්වී සැලසුම්සහගතව සිදු කළ එකක් බව අනාවරණ වී ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පවසයි.
+A planned attack targeted former MP Udabha Premaratne's car, causing damage but no injuries. The plot involved an Assistant Superintendent of Police, as revealed by the Police Media Spokesperson. The CID investigation, initiated after the incident, has identified the suspects.
 
-අද (13) ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මේ පිළිබඳව අනාවරණය කළේය.
+🟩
 
-2023 වසරේ සැප්තැම්බර් 17 වනදා අනුරාධපුර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථය ඉලක්ක කරමින් වෙඩි ප්‍රහාරයක් එල්ල වී තිබුණි.
+Police Media Spokesperson DIG Talduwawe has revealed that the shooting of former MP Udabha Premaratne was planned with a Assistant Superintendent of Police.
 
-වෙඩි වැදීමෙන් මෝටර් රථයේ පිටුපස පැති වීදුරුවට අලාභ හානි සිදුවී තිබූ නමුත් මන්ත්‍රීවරයාට කිසිදු අනතුරක් සිදුවී තිබුණේ නැත.
+The Police Media Spokesperson has revealed this today (13).
 
-මෙම වෙඩි තැබීමේ සිද්ධියට අදාළ විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකළ අතර සිද්ධියට අදාළ සැකකරුවන් මේ වනවිට හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා අද සඳහන් කළේය.
+On September 17, 2023, was aimed at the car of former UNP MP Udi Premaratne's car at the Anuradhapura District MP Uddik Premaratne.
+
+The shooting was damaged by the back of the car, but the MP had not been injured.
+
+The Investigation Criminal Investigations Department (CID) commenced on the shooting was held today, the suspects have been identified.
 
 ◼️
 
 [Data](articles/4249e16d.json)
+
+[Extended Data](ext_articles/4249e16d.ext.json)
 
 ---
 
@@ -144,19 +150,27 @@ Colombo-13-year-old St. Anthony's Church. The procession is going to be followed
 
 ---
 
-### මා කිසිවිටෙකත් ප්‍රජාතන්ත්‍රවාදී මූලධර්මවලින් ඉවත් වී නැහැ
+### I have never left democratic principles
 
 *2024-06-13 19:44:12* · [`adalk`](https://www.ada.lk/breaking_news/මා-කිසිවිටෙකත්-ප්‍රජාතන්ත්‍රවාදී-මූලධර්මවලින්-ඉවත්-වී-නැහැ/11-410204) · `si`
 
-රටේ පවතින ප්‍රජාතාන්ත්‍රික සමාජවාදී මූලධර්මවලින් තමා කිසිවිටෙකත් ඉවත් වී නැති බවත්, සියලුම පුරවැසියන්ට ප්‍රමාණවත් ජීවන තත්ත්වයක් ඇති බව සහතික කිරීම සහ මහජන යහපත සඳහා රාජ්‍ය හා පෞද්ගලික ආර්ථික ක්‍රියාකාරකම් මඟින් සමස්ථ රටේම වේගවත් සංවර්ධනයක් ඇති කිරීම යන අරමුණු සාක්ෂාත් කර ගැනීම වෙනුවෙන් කැපවී කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasizes democratic principles and aims for rapid national development, promising stability and progress. He reiterates the importance of rewriting Sri Lanka's economic policy based on these principles during his keynote address at the Central Bank Editors' Conference. The IMF commends Sri Lanka's efforts towards economic recovery post-December 2023, highlighting the achievement of structural reforms despite delays. Wickremesinghe assures that Sri Lanka will overcome its current challenges more effectively than anticipated, setting a positive outlook for the nation's future.
 
-එම ප්‍රතිපත්තීන් දෙක ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිපත්තිය නැවත ලිවීමට බෙහෙවින් ප්‍රමාණවත් බව පැවසු ජනාධිපතිවරයා එම ප්‍රතිපත්තින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ද සඳහන් වන බැවින් තමා ව්‍යවස්ථාවෙන් පිට කටයුතු කරන බවට කිසිවෙකුට චෝදනා කළ නොහැකි බවද පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ අද (13) පෙරවරුවේ කොළඹ හිල්ටන් හෝටලයේ ආරම්භ වූ සාර්ක් කලාපීය රටවල මහබැංකු අධිපතිවරුන්ගේ සමුළුවේ “SAARCFINANCE” සමාරම්භක සැසියේ ප්‍රධාන දේශනය සිදු කරමිනි.
+President Ranil Wickremesinghe is committed to achieving adequate quality of life in the country and to ensure that all citizens have an adequate quality of life and to achieve rapid development in the entire country.He said.
+
+He said that the two principles were very sufficient to rewrite the economic policy of Sri Lanka.
+
+President Ranil Wickremesinghe said this was commissioned by the main speech of the Central Bank Editors' Conference in the Hilton Hotel in Colombo this morning (13).
+
+The President said that the President also promised to win the government in many countries in the region, and the usual governments should be decided to change the government every five years every five years, or if the country will win every five years, or if the country won, or the country will win..
 
 ...
 
 [Data](articles/aee0f05f.json)
+
+[Extended Data](ext_articles/aee0f05f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 18:36:11**
+As of **2024-06-13 18:53:30**
 
 ## Newspaper Stats
 
-*Scraped **30,223** Articles*
+*Scraped **30,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,606
-adaderanalk | 3,426
-tamilmirrorlk | 3,537
+adaderanalk | 3,427
+tamilmirrorlk | 3,538
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,869
+adaderanasinhalalk | 4,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,222 (100.0%) of 30,223 articles have been extended.
+30,223 (100.0%) of 30,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### President requests governors to intervene and expedite delivery of welfare benefits to public
+
+*2024-06-13 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99862/president-requests-governors-to-intervene-and-expedite-delivery-of-welfare-benefits-to-public) · `en`
+
+President Ranil Wickremesinghe emphasized that all governors should actively ensure the efficient implementation of the government’s welfare programs and promptly deliver their benefits to the people.
+
+The President made these remarks during a discussion held with the Provincial Governors at the Presidential Secretariat yesterday (12).
+
+The meeting also included an extensive discussion on addressing the shortage of teachers at the provincial level and improving the efficiency of the ‘Urumaya’ -freehold land distribution program.
+
+The President highlighted the potential for improving the efficiency of the ‘Urumaya’-freehold land deeds program by implementing mobile services and delegating authority to an additional group beyond the Grama Niladhari level.
+
+President Ranil Wickremesinghe also reminded divisional secretaries of their responsibility to engage the public and ensure they receive the benefits of this program.
+
+...
+
+[Data](articles/ef6b34f9.json)
+
+---
+
+### காட்சி பெட்டியை விட்டுவிட்டு வந்த ரயில்
+
+*2024-06-13 18:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காட்சி-பெட்டியை-விட்டுவிட்டு-வந்த-ரயில்/76-338873) · `ta`
+
+பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பயணிகள் ரயிலில் பெட்டியொன்று தடம் புரண்டதால் மலையகத்துக்கான ரயில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+
+மாலை 3.40 மணியளவில் பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த   பயணிகள் புகையிரதத்தின் காட்சிப் பெட்டி தடம்புரண்டதால் மலையக புகையிரத போக்குவரத்து தடைப்பட்டதாக நாவலப்பிட்டி புகையிரத கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+வட்டகொட மற்றும் தலவாக்கலை நிலையங்களுக்கு இடையில் 118வது மைல் கம்பத்திற்கு அருகில் ரயில் தடம் புரண்டுள்ளதாகவும், தடம் புரண்ட ரயிலில் காட்சி பெட்டியை அகற்றி மற்றைய பெட்டிகளுடன் கொழும்பு கோட்டை வரை ரயிலை இயக்குவதற்கு ரயில் கட்டுப்பாட்டு அறை நடவடிக்கை எடுத்துள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/19988ad5.json)
+
+---
+
+### ජනතාවට ලැබෙන සහන කඩිනම් කරන්නැයි ජනපති උපදෙස් දෙයි
+
+*2024-06-13 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197724) · `si`
+
+රජයේ සුබසාධන වැඩසටහන්වල ප්‍රතිලාභ කඩිනමින් ජනතාවට හිමි කරදීමට මැදිහත් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පළාත් ආණ්ඩුකාරවරුන්ගෙන් ඉල්ලීමක් සිදුකර තිබේ.
+
+ජනතාව වෙනුවෙන් රජය ක්‍රියාත්මක කර ඇති සුබසාධන වැඩසටහන් කාර්යක්ෂම කර ඒවායේ ප්‍රතිලාභ ජනතාවට ලබාදීම වෙනුවෙන් ආණ්ඩුකාරවරුන් මැදිහත් වී කටයුතු කළයුතු බව ජනාධිපතිවරයා පෙන්වාදී ඇත.
+
+පළාත් ආණ්ඩුකාරවරුන් සමග ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර ති‌බේ.
+
+පළාත් මට්ටමින් පවතින ගුරු හිඟය කඩිනමින් පියවා ගැනීමට ගත යුතු පියවර මෙන්ම උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදිමේ වැඩසටහන කාර්යක්ෂම කිරීම පිළිබඳව ද මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡා වී ඇති බව සඳහන් ය.
+
+පළාත් මට්ටමින් පවතින ගුරු හිඟය කඩිනමින් පියවා ගැනීමට රජය කැපවී කටයුතු කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා එහිදී පෙන්වාදී ඇති අතර එළැඹෙන ජුලි 03 වනදා ජාතික පාසල් සඳහා නව ගුරු පත්වීම් 2500ක් ලබා දීමට කටයුතු සූදානම් කර ඇති බවද ප්‍රකාශ කර තිබේ.
+
+...
+
+[Data](articles/c37be274.json)
+
+---
 
 ### Carnival of Sri Lankans in Japan on June 15 and 16
 
@@ -882,21 +938,29 @@ However, there was no economic energy to launch the return of the school journey
 
 ---
 
-### බදුලු ඔයේ මසුන් දහස් ගණනින් මිය යයි
+### Badulu Oya fish dies
 
 *2024-06-13 13:17:50* · [`adalk`](https://www.ada.lk/breaking_news/බදුලු-ඔයේ-මසුන්-දහස්-ගණනින්-මිය-යයි/11-410194) · `si`
 
-බදුලු ඔයේ  මසුන් හිටි හැටියේ මියයාමට පටන් ගෙන මේ දිනවල මසුන් විශාල වශයෙන්  බදුලු ඔයේ ජලයේ පාවෙමින් එන බව ජනතාව පවසති.
+Massive fish deaths in Badulu Oya, Sri Lanka, have led to concerns over water quality. Thousands of fish, including Korulul Fish, are found dead or floating, affecting local livelihoods. The issue has also impacted the Demodara Water Supply Reservoir, causing inconvenience to residents. Environmental officials visited the site to investigate the cause.
 
-හාලිඇල උඩුවර 5කනුව, 6 කනුව 7කනුව ප්‍රදේශයේ දී බදුලු ඔයේ   කොරලි මත්ස්‍යයින්  ඇතුලු   මිරිදිය  මසුන් විශාල ගනණක් හිටි හැටියේම එක්වරම මෙසේ මියගොස් ඊයේ (12)  සිට  බදුලු ඔයේ පාවෙමින් ඒමට  පටන් ගෙන ඇති බවත් ජනතාව කියති .
+🟩
 
-දෙමෝදර ජල පිරි පහදු කිරිමේ ජලාශයේ රොන්මඩ තට්ටු පිරිසිරවී තිබූ අතර ජලාශයේ සිරවී ඇති මඩතට්ටු වැලි ඉවත් කිරිමේ කටයුතු ද දැනට මාස කීපයක සිට සිදු වෙමින් පවතින බවත් මේ නිසාවෙන් නිරතුරුවම බදුලු ඔයේ ජල ය බොරව් ප්‍රයෝජනයට ගැනීමට නොහැකි වීවීමෙන් තමන් දැඩි අපහසුතාවට පත්ව ඇතැයි ජනතාව පැවසූහ .
+People say that the fish from Badulu Oya are floating in the water, which has begun to die in the wake of the fish.
 
-බදුලු ඔයේ 11දා සිට මියගොස් ජලයේ පාවෙමින් එන දහස් ගණන්  මසුන් අල්ලාගෙන ඇතම් ජනතාව ආහාරයට ගන්නා අතර , ඇතමුන් එම මසුන් විකිණීමට පටන් ගෙන තිබේ .බදුලු ඔයේ ජලයට කිසියම් විශක් එකතු වී මෙසේ.මසුන් මියයන බවට   සැකකරයි .
+The masses say that the deaths of freshwater fish, including Korulul Fish in the Halu-Ela, 6 pour in the 7th area in the 7th area in the 7th area, the people have begun to flooded in the Oya.
 
-...
+The people said that they had been severely embarrassed in the Demodara Water Supply Reservoir and the removal of the slapped slapped Muslims in the reservoir have been inconvenienced by a few months.
+
+The fish have eaten to sell thousands of fish that will be crowned from the Badulu Oya and floating from the water. There are some kind of explicit to the water of the water.
+
+However, yesterday's environmental officials were taken to the Badulu Oya to observe the matter and the journalists inquired about the matter.
+
+◼️
 
 [Data](articles/d8beca30.json)
+
+[Extended Data](ext_articles/d8beca30.ext.json)
 
 ---
 
@@ -2305,73 +2369,5 @@ A number of issues related to the current political situation and the developmen
 [Data](articles/45ed68eb.json)
 
 [Extended Data](ext_articles/45ed68eb.ext.json)
-
----
-
-### Recovery of a young doctor's body
-
-*2024-06-13 02:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-மருத்துவர்-சடலமாக-மீட்பு/175-338840) · `ta`
-
-A young female doctor, Premanandarasa Krishnananda, aged 30, from Tirunelveli, died at Point Pedro Basic Hospital due to excessive anesthesia caused by severe stress. Her body was recovered and an autopsy confirmed the cause of death.
-
-🟩
-
-A woman who was staying at the Point Pedro Basic Hospital has been recovered yesterday afternoon.
-
-An autopsy revealed that his death was the cause of excessive anesthesia in the body due to severe stress.
-
-Premanandarasa Krishnananda (age 30) from Tirunelveli, who is a feminine physician at Point Pedro Source Hospital, has been recovered.. (A)
-
-◼️
-
-[Data](articles/7f1a08f6.json)
-
-[Extended Data](ext_articles/7f1a08f6.ext.json)
-
----
-
-### IMF for the second review. Approval
-
-*2024-06-13 02:20:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-மீளாய்வுக்கு-ஐ-எம்-எப்-ஒப்புதல்/175-338839) · `ta`
-
-The IMF has approved the second review of its program with Sri Lanka, marking progress in economic reforms aimed at securing a prosperous future for all Sri Lankans.
-
-🟩
-
-External Affairs Minister Ali Sabri said the second review of the program introduced to Sri Lanka by the International Monetary Fund has been granted.
-
-“International Monetary Fund has approved the 2nd review of Sri Lanka's program. This achievement is a testament to our commitment to advance economic reforms and protect the prosperous future for all Sri Lankans. ”. (A)
-
-◼️
-
-[Data](articles/6830b174.json)
-
-[Extended Data](ext_articles/6830b174.ext.json)
-
----
-
-### Fire in Kuwait;41 killed
-
-*2024-06-13 01:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குவைத்தில்-தீ-விபத்து-41-பேர்-பலி/50-338838) · `ta`
-
-In Kuwait, a devastating fire in the Mangaf district resulted in 41 fatalities, primarily affecting foreign workers. At least 15 injuries were reported. The blaze, which started early in the morning, led to the death of several individuals due to smoke inhalation. Following the tragedy, the Deputy Prime Minister ordered the arrest of the building's owner.
-
-🟩
-
-41 people were killed in a fire in a building in Kuwait.
-
-The fire broke out in the Mangaf district in the south of the low. The media reported that foreign workers were staying in the area.
-
-At least 15 people were injured in a fire that spread early this morning, the Ministry of Health said.
-
-There are plenty of workers staying in the building. Many of them have been recovered. Many people have died after breathing smoke.
-
-The Deputy Prime Minister of the country, who visited the area where the fire occurred, ordered the arrest of the building owner. (A)
-
-◼️
-
-[Data](articles/05bd6059.json)
-
-[Extended Data](ext_articles/05bd6059.ext.json)
 
 ---

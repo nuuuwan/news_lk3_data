@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 11:19:09**
+As of **2024-06-13 11:34:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,157 (100.0%) of 30,158 articles have been extended.
+30,158 (100.0%) of 30,158 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -202,19 +202,25 @@ However, Post Office Ruwan Satkumara has said that it has been decided to cancel
 
 ---
 
-### ආර්ථිකය තවමත් අවදානමක
+### The economy is still at risk
 
 *2024-06-13 09:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-තවමත්-අවදානමක/11-410187) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක විස්තීර්ණ ණය පහසුකමට අදාල වැඩසටහන යටතේ ශ්‍රී ලංකාවේ කාර්ය සාධනය ශක්තිමත් වී ඇති බව එම අරමුදල නිවේදනයක් නිකුත් කරමින් පවසයි. විස්තිර්ණ ණය පහසුකමට අදාළව දෙවැනි සමාලෝචනයෙන් අනතුරුව මූල්‍ය අරමුදල නිකුත් කළ නිවේදනයක මේ බව සඳහන් වෙයි.
+The IMF praises Sri Lanka's progress under its loan program but warns of ongoing economic risks. Despite meeting most targets, sustainability concerns remain, emphasizing the need for continued reforms and restructuring.
 
-එසේම 2023 දෙසැම්බර් අවසානය සඳහා ශ්‍රී ලංකාවට ලබාදුන් සමාජ වියදම් ඉලක්ක හැර සෙසු සියලුම සියලුම ප්‍රමාණාත්මක ඉලක්ක සපුරා ඇි බවද මූල්‍ය අරමුදල පෙන්වා දෙයි. එසේම 2024 අප්‍රේල් අග වන විට බොහෝ ව්‍යුහාත්මක මිණුම් සලකුණු ප්‍රමාදයකින්  හෝ යුතුව සපුරා හෝ ක්‍රියාත්මක කර ඇති බවද අරමුදල පවසයි.
+🟩
 
-එසේ වුවද, ආර්ථිකය තවමත් අවදානමට ලක්ව ඇති අතර ණය තිරසාරත්වයේ මාවත තවමත් තිරණාත්මක අවධියක පසුවන බවද මූල්‍ය අරමුදල පෙන්වා දෙයි. ප්‍රතිසංස්කරණ ගම්‍යතාව තිරසාරව පවත්වා ගැනීම සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ප්‍රයත්නයන් ආර්ථිකය තිරසාර ප්‍රතිසාධනය සහ ණය තිරසාරත්වය කරා යන මාවතකට ගෙන ඒම සඳහා ඉතා වැදගත් වන බවද මූලය අරමුදල වැඩිදුරටත් පවසයි.
+The International Monetary Fund has been strengthened by the performance of Sri Lanka under the program with comprehensive loan facility in Sri Lanka.. This is stated in a statement issued by the IMF nor the second review regarding the second review of the borrowing credit facility.
+
+Also, the Monetary Fund points out that all the quantitative goals except all the social expenditure targets to Sri Lanka will be fulfilled for the end of December 2023. The fund also said that by the end of April 2024, it is fully or implemented with delay in or implemented.
+
+However, the economy is still at risk, and the Monetary Fund points out that the loan sustainability is still in the temperature. The Finance Fund also said that the economic fund is important to maintain sustainable reform and restructuring implants to sustainability of the economic maintenance and debt.
 
 ◼️
 
 [Data](articles/bd56f4da.json)
+
+[Extended Data](ext_articles/bd56f4da.ext.json)
 
 ---
 

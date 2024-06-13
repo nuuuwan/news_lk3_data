@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 18:53:30**
+As of **2024-06-13 19:04:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,223 (100.0%) of 30,226 articles have been extended.
+30,226 (100.0%) of 30,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,41 +50,57 @@ President Ranil Wickremesinghe also reminded divisional secretaries of their res
 
 [Data](articles/ef6b34f9.json)
 
+[Extended Data](ext_articles/ef6b34f9.ext.json)
+
 ---
 
-### காட்சி பெட்டியை விட்டுவிட்டு வந்த ரயில்
+### The train left the display box
 
 *2024-06-13 18:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காட்சி-பெட்டியை-விட்டுவிட்டு-வந்த-ரயில்/76-338873) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பயணிகள் ரயிலில் பெட்டியொன்று தடம் புரண்டதால் மலையகத்துக்கான ரயில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+A passenger train derailed between Badulla and Colombo Fort, disrupting service. The Nawalapitiya Railway Control Room is working to repair the train and resume operations.
 
-மாலை 3.40 மணியளவில் பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த   பயணிகள் புகையிரதத்தின் காட்சிப் பெட்டி தடம்புரண்டதால் மலையக புகையிரத போக்குவரத்து தடைப்பட்டதாக நாவலப்பிட்டி புகையிரத கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+🟩
 
-வட்டகொட மற்றும் தலவாக்கலை நிலையங்களுக்கு இடையில் 118வது மைல் கம்பத்திற்கு அருகில் ரயில் தடம் புரண்டுள்ளதாகவும், தடம் புரண்ட ரயிலில் காட்சி பெட்டியை அகற்றி மற்றைய பெட்டிகளுடன் கொழும்பு கோட்டை வரை ரயிலை இயக்குவதற்கு ரயில் கட்டுப்பாட்டு அறை நடவடிக்கை எடுத்துள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+Train traffic to the hill country has been affected as a passenger train derailed from Badulla to Colombo Fort.
+
+The Nawalapitiya Railway Control Room said that the passenger train from Badulla to Colombo Fort at 3.40 pm
+
+The railway control room has said that the railway control room has taken steps to remove the box on the derailment train and operate the train with other boxes.
 
 ◼️
 
 [Data](articles/19988ad5.json)
 
+[Extended Data](ext_articles/19988ad5.ext.json)
+
 ---
 
-### ජනතාවට ලැබෙන සහන කඩිනම් කරන්නැයි ජනපති උපදෙස් දෙයි
+### President instructs immediate expeditious reliefs
 
 *2024-06-13 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197724) · `si`
 
-රජයේ සුබසාධන වැඩසටහන්වල ප්‍රතිලාභ කඩිනමින් ජනතාවට හිමි කරදීමට මැදිහත් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පළාත් ආණ්ඩුකාරවරුන්ගෙන් ඉල්ලීමක් සිදුකර තිබේ.
+President Ranil Wickremesinghe urged provincial governors to enhance government welfare efforts, emphasizing the need for swift action. Governors were tasked with ensuring benefits reach citizens effectively. The meeting also addressed teacher shortages and the recruitment of retired English media teachers to fill gaps. Additionally, scholarships for 2,000 low-income students will be awarded on March 19th.
 
-ජනතාව වෙනුවෙන් රජය ක්‍රියාත්මක කර ඇති සුබසාධන වැඩසටහන් කාර්යක්ෂම කර ඒවායේ ප්‍රතිලාභ ජනතාවට ලබාදීම වෙනුවෙන් ආණ්ඩුකාරවරුන් මැදිහත් වී කටයුතු කළයුතු බව ජනාධිපතිවරයා පෙන්වාදී ඇත.
+🟩
 
-පළාත් ආණ්ඩුකාරවරුන් සමග ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර ති‌බේ.
+President Ranil Wickremesinghe has requested the provincial governors to intervene in the government's welfare programs.
 
-පළාත් මට්ටමින් පවතින ගුරු හිඟය කඩිනමින් පියවා ගැනීමට ගත යුතු පියවර මෙන්ම උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදිමේ වැඩසටහන කාර්යක්ෂම කිරීම පිළිබඳව ද මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡා වී ඇති බව සඳහන් ය.
+The President has pointed out that the governors should interfere with the governors to bring the benefits to the people and provide the benefits to the people.
 
-පළාත් මට්ටමින් පවතින ගුරු හිඟය කඩිනමින් පියවා ගැනීමට රජය කැපවී කටයුතු කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා එහිදී පෙන්වාදී ඇති අතර එළැඹෙන ජුලි 03 වනදා ජාතික පාසල් සඳහා නව ගුරු පත්වීම් 2500ක් ලබා දීමට කටයුතු සූදානම් කර ඇති බවද ප්‍රකාශ කර තිබේ.
+President Ranil Wickremesinghe has made this statement at a meeting held with the governors of the Provincial Councils.
+
+It is also discussed that the proficiency of the teachers at the provincial level has been discussed as well as the inheritance of the inheritance.
+
+Minister of Education Susil Premajayantha has said that the government is committed to expedite the shortage of teachers at the provincial level.
+
+The Ministry of Education has also called applications from the English Media Teachers who have already retired to cover the English teachers shortage of the English teachers.
 
 ...
 
 [Data](articles/c37be274.json)
+
+[Extended Data](ext_articles/c37be274.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 22:52:44**
+As of **2024-06-13 23:04:21**
 
 ## Newspaper Stats
 
-*Scraped **30,254** Articles*
+*Scraped **30,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,611
-adaderanalk | 3,430
+adaderanalk | 3,431
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,252 (100.0%) of 30,254 articles have been extended.
+30,254 (100.0%) of 30,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### සාමාන්‍ය ජනතාවට ලැබෙන වාසිය ජනපති පහදයි
+### President states the benefit to the general public
 
 *2024-06-13 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197733) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමග එළැඹ ඇති ගිවිසුම්වල මූලික ප්‍රතිලාභ සාමාන්‍ය ජනතාවට ලැබෙමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced that the public is benefiting from IMF contracts during his address at the SAARC Summit in Colombo, attended by SAARC Secretary General Gulam Services and officials from central banks of SAARC countries.
 
-ජනාධිපතිවරයා මෙම අදහස් පළ කළේ, කොළඹදී අද (13) පැවති සාර්ක් කලාපීය රටවල 45 වැනි මහ බැංකු අධිපතිවරුන්ගේ රැස්වීම හා සමුළුව අමතමිනි.
+🟩
 
-එම අවස්ථාවට සාර්ක් මහලේකම් ගොලාම් සර්වාර් මෙන්ම සාර්ක් රටවල මහ බැංකු අධිපතිවරුන් සහ නියෝජ්‍ය අධිපතිවරුන් ඇතුළු පිරිසක් එක්විය.
+President Ranil Wickremesinghe says that the general public is receiving basic benefits of contracts with the International Monetary Fund.
+
+The President made these comments addressing the summit and the convention at the SAARC Governors in Colombo today.
+
+The SAARC Secretary General Gulam Services and Central Bank of the Central Bank of SAARC countries and several deputy purposes were also present.
 
 ◼️
 
 [Data](articles/6bad527a.json)
+
+[Extended Data](ext_articles/6bad527a.ext.json)
 
 ---
 
@@ -79,6 +85,22 @@ He also said that he said that a special statement would be made in Parliament r
 [Data](articles/ce2b39d6.json)
 
 [Extended Data](ext_articles/ce2b39d6.ext.json)
+
+---
+
+### Chamari Athapaththu named ICC Women’s Player of Month for second time
+
+*2024-06-13 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99866/chamari-athapaththu-named-icc-womens-player-of-month-for-second-time) · `en`
+
+West Indies’ left-arm spinner Gudakesh Motie won the ICC Men’s Player of the Month award, while Sri Lanka skipper Chamari Athapaththu secured her second ICC Women’s Player of the Month when she won the top prize for her performances in May 2024.
+
+Motie claimed the Men’s award by beating competition from Pakistan’s Shaheen Shah Afridi and Lorcan Tucker of Ireland, while Chamari won the women’s award by overcoming Scotland’s Kathryn Bryce and England’s Sophie Ecclestone.
+
+In May, Motie took eight wickets at an average of 8.50 across the three-match series against South Africa in Jamaica, as the West Indies gathered valuable momentum in the lead-up to their Men’s T20 World Cup campaign at home.
+
+...
+
+[Data](articles/73378304.json)
 
 ---
 
@@ -238,21 +260,27 @@ Colombo-13-year-old St. Anthony's Church. The procession is going to be followed
 
 ---
 
-### ග්‍රාම නිලධාරීන්ගේ නව සේවා ව්‍යවස්ථාවට රාජ්‍ය සේවා කොමිෂන් සභාවේ අනුමැතිය
+### Approval of the Public Service Commission to the new service constitution of Grama Niladhari
 
 *2024-06-13 19:46:46* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරීන්ගේ-නව-සේවා-ව්‍යවස්ථාවට-රාජ්‍ය-සේවා-කොමිෂන්-සභාවේ-අනුමැතිය/11-410205) · `si`
 
-ග්‍රාම නිලධාරීන්ගේ නව සේවා ව්‍යවස්ථාව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍ය මණ්ඩලයේ එකඟත්වයෙන් පසු රාජ්‍ය සේවා කොමිෂන් සභාව විසින් අනුමත කර තිබෙන බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+The Public Service Commission approved the new service constitution for the Grama Niladhari service, allowing for potential amendments. This move follows the implementation of various projects and the strengthening of the public service, despite initial challenges. The commission's approval supports the government's efforts to enhance rural development and ensure the effective performance of public officers.
 
-මෙම නව ව්‍යවස්ථාවට අවශ්‍ය නම් සංශෝධන සිදු කිරීම සඳහා ද අවස්ථාව උදාකර දී තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Ministry of Home Affairs Ashoka Priyantha said that the new service constitution of the Grama Niladhari service was approved by the Public Service Commission.
 
-මේ වන විට රජය විසින් උරුමය සහ අස්වැසුම ඇතුළු වැදගත් ව්‍යාපෘති කිහිපයක්ම ක්‍රියාවට නඟා තිබෙනවා. ඒ වගේම පසුගිය සමයේ නතර වී තිබූ සංවර්ධන ව්‍යාපෘති රැසක්ම මේ වන විට ආරම්භ කර තිබෙනවා. විමධ්‍යගත ප්‍රතිපාදන හරහා ගමේ, නගරයේ යළි සංවර්ධන කටයුතු ද ආරම්භ කර තිබෙනවා. ඒ සඳහා සහය දැක්වීම රාජ්‍ය නිලධාරීන්ගේ වගකීමක් බව මෙහිදී සඳහන් කළ යුතුයි. ජනතාවගේ යුතුකම් ඉෂ්ඨ කිරීමට හැකි වී ඇති මේ අවස්ථාවේ දී අප හැමෝම අපගේ රාජකාරිය ඉටුකළ යුතුයි.
+The new constitution has also been given the opportunity to perform amendments if necessary.
+
+The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the Presidential Media Center today (13).
+
+The government has already implemented several important projects including inheritance and the resources. Also, there have been many development projects that have been stopped in the past. In the village and the city of the village has also commenced through decentralized allocations.. It should be noted that it is the responsibility of public officers to support it. At this point we all must perform our duties at this time we have been able to fulfill the duties of the people.
 
 ...
 
 [Data](articles/eaf85b45.json)
+
+[Extended Data](ext_articles/eaf85b45.ext.json)
 
 ---
 
@@ -2337,27 +2365,5 @@ The complaint was filed by the Attorney General, Kapila de Silva, a resident of 
 [Data](articles/0d8d1650.json)
 
 [Extended Data](ext_articles/0d8d1650.ext.json)
-
----
-
-### The economy is still at risk
-
-*2024-06-13 09:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-තවමත්-අවදානමක/11-410187) · `si`
-
-The IMF praises Sri Lanka's progress under its loan program but warns of ongoing economic risks. Despite meeting most targets, sustainability concerns remain, emphasizing the need for continued reforms and restructuring.
-
-🟩
-
-The International Monetary Fund has been strengthened by the performance of Sri Lanka under the program with comprehensive loan facility in Sri Lanka.. This is stated in a statement issued by the IMF nor the second review regarding the second review of the borrowing credit facility.
-
-Also, the Monetary Fund points out that all the quantitative goals except all the social expenditure targets to Sri Lanka will be fulfilled for the end of December 2023. The fund also said that by the end of April 2024, it is fully or implemented with delay in or implemented.
-
-However, the economy is still at risk, and the Monetary Fund points out that the loan sustainability is still in the temperature. The Finance Fund also said that the economic fund is important to maintain sustainable reform and restructuring implants to sustainability of the economic maintenance and debt.
-
-◼️
-
-[Data](articles/bd56f4da.json)
-
-[Extended Data](ext_articles/bd56f4da.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 09:34:29**
+As of **2024-06-13 09:53:50**
 
 ## Newspaper Stats
 
-*Scraped **30,140** Articles*
+*Scraped **30,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
-adalk | 2,591
+adalk | 2,592
 adaderanalk | 3,414
-tamilmirrorlk | 3,526
-virakesarilk | 4,615
+tamilmirrorlk | 3,527
+virakesarilk | 4,618
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,853
+adaderanasinhalalk | 4,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,139 (100.0%) of 30,140 articles have been extended.
+30,140 (100.0%) of 30,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### යුක්‍රේන ජනපතිගේ උපන් ගමට රුසියාවෙන් ගුවන් ප්‍රහාර
+
+*2024-06-13 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197707) · `si`
+
+යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කිගේ උපන් ගම වන ක්‍රිවි රිහ් නගරය වෙත රුසියාව විසින් මිසයිල ප්‍රහාර එල්ල කර තිබේ.
+
+සාමාන්‍ය ජනතාව රැඳී සිටි ගොඩනැගිල්ලකට අදාළ ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ප්‍රහාරවලින් පුද්ගලයින් නව දෙනෙකු මියගොස් තවත් 29 දෙනෙකු තුවාල ලබා තිබේ.
+
+මේ අතර ප්‍රහාරවලින් මියගිය පුද්ගලයින්ගේ ඥාතීන් වෙත යුක්‍රේන ජනාධිපතිවරයා සිය ශෝකය පළ කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/0eed224a.json)
+
+---
+
+### தெற்கு அதிவேக வீதியில் எரிபொருள் பௌசர் பாதுகாப்பு வேலியில் மோதி விபத்து
+
+*2024-06-13 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185966) · `ta`
+
+தெற்கு அதிவேக வீதியில் 61 ஆம் மைல்கல் பகுதியில் இன்று வியாழக்கிழமை (13) அதிகாலை எரிபொருள் பௌசர் ஒன்று விபத்துக்குள்ளாகியுள்ளது.
+
+மத்தள பகுதியில் இருந்து கொட்டாவை  நோக்கி பயணித்த எரிபொருள் பௌசர் ஒன்று வீதியின் நடுவில் இருந்த பாதுகாப்பு வேலியில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/a531f977.json)
+
+---
+
+### பதுளை சிறைச்சாலையில் மட்டக்குளியைச் சேர்ந்த கைதி உயிரிழப்பு
+
+*2024-06-13 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185968) · `ta`
+
+பதுளை தல்தென திறந்தவெளி சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த சிறைக்கைதி ஒருவர் திடீர் சுகயீனமுற்ற நிலையில் மரணித்துள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர்.
+
+மட்டக்குளி  பகுதியை சேர்ந்த 50 வயதுடைய நபரே இவ்வாறு உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த, கைதி ஐஸ் போதைப்பொருளுக்கு அடிமையானவர் என்றும் கடந்த மார்ச் மாதம் 01 ஆம் திகதி தல்தென திறந்தவெளி சிறைச்சாலைக்கு கொண்டு வரப்பட்டு எதிர்வரும் 2024.07.11 திகதி விடுதலை பெற இருந்த நிலையிலேயே திடீர் சுகயீனமுற்ற நிலையில் பதுளை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் நேற்று புதன்கிழமை (12) சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தமைக்கான காரணம் இதுவரையில் கண்டறியாத போதிலும் சடலம் பிரேத பரிசோதனைக்காக பதுளை பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பதுளை பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3d229298.json)
+
+---
+
+### யாழ். அனலைதீவில் காணமால் போன கடற்தொழிலாளர்கள் தமிழகத்தில் மீட்பு
+
+*2024-06-13 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185967) · `ta`
+
+யாழ்ப்பாணம் - அனலைதீவில் இருந்து கடற்றொழிலுக்குச் சென்று காணமல்போன இருவரும் தமிழகத்தில் உயிருடன் கரையொதுங்கியுள்ளனர்.
+
+அனலைதீவைச் சேர்ந்த திருச்செல்வம் மைக்கல் பெர்னாண்டோ மற்றும் நாகலிங்கம் விஜயகுமார் ஆகிய இருவருமே படகு இயந்திரம் பழுதாகி தமிழகத்தின் நாகப்பட்டினம் பகுதியில் கரையொதுங்கியுள்ளனர்.
+
+வேதாரண்யம் காவல் சரகம், ஆறுகாட்டுத்துறை மீனவ கிராமத்திற்கு கிழக்கே சுமார் 2 நாட்டிகல் மைல் தொலைவில், வங்காள விரிகுடா கடலில், இரு மீனவர்களும் கரையொதுங்கியுள்ளனர்.
+
+மீனவர்கள் இருவரையும், நாகப்பட்டினம் கடலோர பாதுகாப்பு குழும காவல் ஆய்வாளர் ரமேஷ் (பொறுப்பு - வேதாரண்யம் கடலோர பாதுகாப்பு குழுமம்) விசாரணை மேற்கொண்டு வருகின்றார்.
+
+அனலைதீவில் இருந்து கடந்த திங்கட்கிழமை (10) மாலை 5 மணியளவில் கடற்தொழிலுக்கு சென்ற இருவரைக் காணவில்லை என குடும்பத்தினர் அறிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/29bc7a15.json)
+
+---
 
 ### Postal strike continues
 
@@ -51,6 +121,8 @@ Ruwan Sathkumara further stated that all the necessary steps would be taken to e
 ◼️
 
 [Data](articles/e0d7ce09.json)
+
+[Extended Data](ext_articles/e0d7ce09.ext.json)
 
 ---
 
@@ -405,6 +477,24 @@ They say that they can end the illegal industrial activities when they are arres
 [Data](articles/6fcbf988.json)
 
 [Extended Data](ext_articles/6fcbf988.ext.json)
+
+---
+
+### சார்க் பொதுச் செயலாளர் ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-06-13 02:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சார்க்-பொதுச்-செயலாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-338843) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் சார்க் அமைப்பின் பொதுச் செயலாளர் கோலம் சர்வார்க்கும் இடையிலான சந்திப்பொன்று நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+சார்க் நாடுகளுக்கிடையிலான பல்வேறு திட்டங்கள் தொடர்பில் எழுந்துள்ள பிரச்சினைகளைத் தீர்ப்பது தொடர்பில் இந்த சந்திப்பின் போது கவனம் செலுத்தப்பட்டதுடன், அது தொடர்பில் பாரபட்சமின்றி தலையீடு செய்யுமாறு சார்க் பொதுச் செயலாளரிடம் ஜனாதிபதி கேட்டுக் கொண்டார்.
+
+இலங்கையில் செயற்படுத்தப்படும் விவசாய நவீனமயமாக்கல் வேலைத்திட்டம் குறித்தும் கலந்துரையாடப்பட்டதுடன், அதற்கு சார்க் நாடுகளின் ஆதரவை பெறுவது குறித்தும் கவனம் செலுத்தப்பட்டது.
+
+இலங்கை சார்க் கலாச்சார மையத்தை மொடர்ன் ஆர்டிற்காக மேம்படுத்துவது குறித்தும் கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/495b94d9.json)
 
 ---
 
@@ -1470,6 +1560,24 @@ The case was exterminated for a period of time and had to spend about Rs. 80 lak
 
 ---
 
+### කීරි සම්බා හා සම්බා සහල් හිගය තවදුරටත්
+
+*2024-06-12 19:48:21* · [`adalk`](https://www.ada.lk/breaking_news/කීරි-සම්බා-හා-සම්බා-සහල්-හිගය-තවදුරටත්/11-410184) · `si`
+
+සම්බා හා  කීරි සම්බා බිත්තර වී හිගයක් ඇති වි තිබෙන බවත් මේ නිසා ඉදිරි කාලයේදිත් කීරි සම්බා හා සම්බා සහල් හිගය තවදුරටත් පවතින බව ජාතික ගොවිජන එකමතුව සදහන් කරයි
+
+මේ නිසා මේවර කන්නයේදි කීරි සම්බා හා සම්බා වගාකර තිබෙන ගොවින් හරහා  ප්‍රමිතියෙන් යුත් වී බිත්තර වි ලෙස ලබා ගැනිමට වැඩපිලිවෙලක් සකස් කල යුතු බවද  බවද  සංගමයේ සභාපති අනුරාධ තෙන්න කොන් මහතා සදහන් කලේය
+
+පවතින බිත්තර වි හිගය නිසා  මේවර කන්නයේදි කීරි සම්බා බිත්තර වී කිලෝවක මිල රුපියල් පන්සිය(500) ඉක්ම වු මිලකට ආලෙවි වු  බවත් එහතේ පසුගිය කන්නවල  කීරි සම්බා බීත්තර වී කිලෝවක් අලෙවි වුයේ රුපියල් 300 ත් රුපියල් 350 ත් අතර මිලකට බවද පැවසිය
+
+කීරි සම්බා සහල් හිගය නිසා  කිරි සම්බා සහල් කිලෝවක මිල රුපියල් 320 ඉක්මවා ගොස් තිබෙන බවත් මිට අමතරව රට තුල සම්බා සහල් හිගයක්ද මේ වන විට නිර්මාණය වි තිබෙන බව.ත් පවතින තත්ත්වය තුල සම්බා සහල් මිල පවා ජනතාවට දරාගත නොහැකි ලෙස ඉහල ගොස් තිබෙන බවද පැවසිය.
+
+...
+
+[Data](articles/370801e7.json)
+
+---
+
 ### India to benefit the coin
 
 *2024-06-12 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197694) · `si`
@@ -2171,133 +2279,5 @@ The accident had occurred in the Wagama area on the Bibila and Mahiyanganaya mai
 [Data](articles/d2be028b.json)
 
 [Extended Data](ext_articles/d2be028b.ext.json)
-
----
-
-### The woman who cut the wire is electrocuted
-
-*2024-06-12 16:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயரை-அறுத்த-மாணவி-மின்சாரம்-தாக்கி-மரணம்/175-338820) · `ta`
-
-Nishani Pumika Venrovan, a 17-year-old from Mahamaiah Girls College, died after touching an unsecured electrical wire while attempting to connect it to a sewing machine. The incident occurred at her home in Piliyandala. An autopsy will be conducted at Kalubowila Teaching Hospital as part of the ongoing police investigation.
-
-🟩
-
-A 17 -year -old schoolgirl who was trying to get an unsafe power connection to the plug -and -a -half -attached wire connected to a sewing machine has been killed by electricity, police said.
-
-The deceased is Nishani Pumika Venrovan, who is educated at the Mahamaiah Girls College, Nugeendala, Duwatta Road, 5th Lane, Piliyandala.
-
-An autopsy of the deceased student is to be carried out at the Kalubowila Teaching Hospital and further investigations into the incident are being carried out by the police.
-
-◼️
-
-[Data](articles/5e5c3447.json)
-
-[Extended Data](ext_articles/5e5c3447.ext.json)
-
----
-
-### President Ranil meets SAARC Secretary General
-
-*2024-06-12 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99835/president-ranil-meets-saarc-secretary-general) · `en`
-
-President Ranil Wickremesinghe met with the Secretary General of the South Asian Association for Regional Cooperation (SAARC) Golam Sarwar at the Presidential Secretariat in Colombo this morning (12), according to the President’s Media Division.
-
-The meeting focused on addressing issues related to various projects among SAARC countries, with the President urging impartial intervention from the Secretary General.
-
-The discussion also covered the country’s agricultural modernization program and explored potential support from SAARC member nations, the PMD said.
-
-Additionally, the development of the SAARC Cultural Center for Modern Art in Sri Lanka was a key topic of conversation.
-
-President’s Secretary Saman Ekanayake and a group of officials were present at the meeting.
-
-◼️
-
-[Data](articles/1cda57a1.json)
-
-[Extended Data](ext_articles/1cda57a1.ext.json)
-
----
-
-### New Immigration Bill to be presented to Parliament
-
-*2024-06-12 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99836/new-immigration-bill-to-be-presented-to-parliament) · `en`
-
-The Cabinet of Ministers has granted approval to publish the new draft Immigration Bill in the Government Gazette and to present it thereafter in Parliament for approval.
-
-The Immigration Act No. 20 of 1948 has been amended on several occasions. However, considering the rapid changes taking place in the field covered by the Act, the rapid development of technology as well as international trends, the Cabinet of Ministers had given approval on February 15, 2021 to introduce a new Act for the same.
-
-The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman accordingly, the Cabinet Spokesman Minister Bandula Gunawardena said.
-
-Accordingly, the proposal made by the Minister of Public Security Tiran Alles to publish the said draft Bill in the Government Gazette and present the same thereafter in Parliament for approval, was approved by the Cabinet, he said.
-
-◼️
-
-[Data](articles/c6b7a247.json)
-
-[Extended Data](ext_articles/c6b7a247.ext.json)
-
----
-
-### Singapore-based Aditya Birla awarded Sri Lanka CPC’s 1.5 mln barrel 92 Unl petrol supply
-
-*2024-06-12 16:19:00* · [`economynextcom`](https://economynext.com/singapore-based-aditya-birla-awarded-sri-lanka-cpcs-1-5-mln-barrel-92-unl-petrol-supply-167681/) · `en`
-
-ECONOMYNEXT – Sri Lanka cabinet has approved to award a long-term contract to Aditya Birla Global Trading (Singapore) Pte supply five stocks of shipment of 92 Unl petrol to the state-owned Ceylon Petroleum Corporation (CPC) with a volume of 1.5 million barrel, the government said.
-
-The decision was made based on the bids received from the registered suppliers of CPC for a period of six months from July 15, 2024.
-
-“Based on the recommendation of the Standing Technical Evaluation Committee, the Standing Procurement Committee appointed by the Cabinet of Ministers has recommended to award the said procurement to M/s Aditya Birla Global Trading (Singapore) Pte. Ltd,” the government said in its cabinet decisions document.
-
-...
-
-[Data](articles/1f906388.json)
-
-[Extended Data](ext_articles/1f906388.ext.json)
-
----
-
-### Actress Aishwarya Arjun - Actor Umapati Ramaiah's marriage
-
-*2024-06-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185921) · `ta`
-
-Aishwarya Arjun, daughter of Arjuna Arjun, and Umapati Ramaiah, son of Thambi Ramaiah, married at the Sri Yoga Anjaneyar Temple in Chennai. Aishwarya debuted in "Pattattu Elephant" (2013) and later appeared in "Say Vidava" (2018). Umapati made his acting debut in "Adagatam Mahajanangale" (2017), followed by roles in "Maniyar Family," "Wedding," and "Tanani Vandi." Their marriage was celebrated with the presence of several film celebrities.
-
-🟩
-
-The marriage of Umapati Ramaiah, the son of character actor and director Thambi Ramaiah, and Aishwarya Arjun, the daughter of leading star actor and director Arjuna Arjun, took a marriage at the Sri Yoga Anjaneyar Temple in Chennai.
-
-Aishwarya Arjun, daughter of director and actor Arjuna, made her debut as an actress in the film 'Pattattu Elephant' in 2013, starring Vishal.. He then starred in the 2018 film 'Say Vidava'.
-
-Umapati Ramaiah, the son of director and actor Thambi Ramaiah, made his debut as a hero in the film 'Adagatam Mahajanangale' directed by director Infa Sekhar in 2017. Subsequently, he has acted in films like 'Maniyar family', 'wedding' and 'tanani vandi'.
-
-...
-
-[Data](articles/a9350195.json)
-
-[Extended Data](ext_articles/a9350195.ext.json)
-
----
-
-### The singer of France is saying goodbye
-
-*2024-06-12 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197686) · `si`
-
-Frankyy Hary, a renowned French singer and songwriter who entered the music scene in 1962, has passed away. Her son, Thomas Dutronck, announced this tragic news on social media. Known as a key figure in France's pop music scene, Hardy will be deeply missed.
-
-🟩
-
-Foreign media reports that a popular singer and songwriting in France, Frankyy Hary, is killed.
-
-"Mom went," Thomas Dutronck, her son, told a social media note.
-
-In 1962, Hardy joined in 1962 to the music industry was shortened in the music industry in France.
-
-She was a prominent figure of the pop-yeah population of France.
-
-◼️
-
-[Data](articles/834ea1d2.json)
-
-[Extended Data](ext_articles/834ea1d2.ext.json)
 
 ---

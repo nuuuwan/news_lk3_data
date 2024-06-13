@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 13:04:05**
+As of **2024-06-13 13:19:19**
 
 ## Newspaper Stats
 
-*Scraped **30,175** Articles*
+*Scraped **30,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,596
-adaderanalk | 3,419
+adalk | 2,597
+adaderanalk | 3,420
 tamilmirrorlk | 3,534
 virakesarilk | 4,622
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,858
+adaderanasinhalalk | 4,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,175 (100.0%) of 30,175 articles have been extended.
+30,175 (100.0%) of 30,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### තවත් දියණියකට අමානුෂික ප්‍රහාරයක්
+
+*2024-06-13 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197712) · `si`
+
+නව හැවිරිදි දියණියකට අමානුෂික ලෙස පහරදුන් පුද්ගලයෙකු මීගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම පුද්ගලයා යුද හමුදා කෝප්‍රල්වරයෙකු වන අතර ඔහු එම දැරියගේ සුළු පියා බවට තොරතුරු අනාවරණය වී ඇත.
+
+සැකකරුගේ විරුද්ධවාදීන් පිරිසක් සමග කළ කතාබහක් පිළිබඳව දැරිය කරුණු සැඟවීම හේතුවෙන් මෙම පහරදීම සිදුකර ඇති බව මුලික විමර්ශනවලදී අනාවරණය වුණි.
+
+◼️
+
+[Data](articles/262a60f0.json)
+
+---
+
+### G7 leaders agree to lend Ukraine billions backed by Russia’s frozen assets
+
+*2024-06-13 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99855/g7-leaders-agree-to-lend-ukraine-billions-backed-by-russias-frozen-assets) · `en`
+
+Leaders of the Group of Seven wealthy democracies have agreed to engineer a $50 billion loan to help Ukraine in its fight for survival that would use interest earned on profits from Russia’s frozen central bank assets as collateral.
+
+Details of the deal were still being hashed out as G7 leaders gathered for a summit in Italy, but the money could reach Kyiv before the end of the year. That’s according to a French official who confirmed the agreement Wednesday ahead of a formal announcement at the summit. Here’s how the plan would work:
+
+Most of the money would be provided in the form of a loan from the U.S. government that would be backed by windfall profits being earned on roughly $300 billion in immobilized Russian assets. The vast majority of the money is being held in European Union nations.
+
+A French official said that while the loan would be mostly U.S.-guaranteed, it could be “topped up” with European money or other national contributions.
+
+...
+
+[Data](articles/609156af.json)
+
+---
+
+### සන්නාම වටිනාකම ඩොලර් ට්‍රිලියනය ඉක්මවූ පළමු සමාගම බවට ඇපල් පත්වෙයි
+
+*2024-06-13 12:15:03* · [`adalk`](https://www.ada.lk/technology/සන්නාම-වටිනාකම-ඩොලර්-ට්‍රිලියනය-ඉක්මවූ-පළමු-සමාගම-බවට-ඇපල්-පත්වෙයි/5-410190) · `si`
+
+තම සන්නාමයේ වටිනාකම ඇමෙරිකානු ඩොලර් ට්‍රිලියනය ඉක්මවූ ලොව පළමු සමාගම බවට ඇපල් සමාගම පත්ව තිබේ.  Kantar's BrandZ විසින් වාර්ශිකව මෙම ශ්‍රේණිගත කිරිම ප්‍රකාශයට පත්කරයි.
+
+පසුගිය වසරේ සන්නාම වටිනාකමට වඩා මෙම වසරේදී ඇපල් සමාගමේ සන්නාම වටිනාකම සියයට 15කින් වර්ධනය වී තිබේ. ඇපල් සමාගම මෙම සටහනේ පෙරමුණ ගෙන ඇත්තේ අඛණ්ඩව තෙවැනි වසරට වෙයි.
+
+◼️
+
+[Data](articles/097a4756.json)
+
+---
 
 ### Kadirgama Wildfire: Confusion among Hindus
 
@@ -2239,79 +2287,5 @@ The case was exterminated for a period of time and had to spend about Rs. 80 lak
 [Data](articles/a693e970.json)
 
 [Extended Data](ext_articles/a693e970.ext.json)
-
----
-
-### Karary Samba and Samba rice short
-
-*2024-06-12 19:48:21* · [`adalk`](https://www.ada.lk/breaking_news/කීරි-සම්බා-හා-සම්බා-සහල්-හිගය-තවදුරටත්/11-410184) · `si`
-
-The National Agrarian Department highlights a shortage of Kerah Samba and Samba rice, necessitating a program to ensure quality seeds are provided to farmers for cultivation. The price of Kerah Samba rice has risen to Rs. 300 per kg due to shortages, affecting the market. Despite challenges, efforts are underway to cultivate these varieties efficiently, meeting domestic demand and ensuring food security.
-
-🟩
-
-The National Agrarian Description of the National Agrarica Samba and Samba rice in the next time, the National Agrarica Samba and Samba rice deficit is still available in the next time.
-
-Therefore, it is said that a program should be prepared to provide quality paddy eggs to be cultivated through the farmers who have been cultivated by Kerah Samba and Samba in this season.
-
-It was said that the price of a kilogram of Kimba seat in this season was Rs. 300 and Rs
-
-Due to the shorts of Kiri Samba rice, the price of milk samba rice has exceeded Rs.
-
-Nadu kako. It was also said that the white quaries could be cultivated without any additional costs, but also a significant cultivation of a significant group of the egg paddy can be cultivated for a considerable group of the egg.
-
-It is said that the use of paddy can be manufactured by the use of paddy and harvest machines in the event.
-
-...
-
-[Data](articles/370801e7.json)
-
-[Extended Data](ext_articles/370801e7.ext.json)
-
----
-
-### India to benefit the coin
-
-*2024-06-12 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197694) · `si`
-
-India stands to gain from its participation in today's Twenty20 World Cup match against the United States.
-
-🟩
-
-The United States and India will be held today (12) in the Twenty20 World Cup.
-
-◼️
-
-[Data](articles/369a7118.json)
-
-[Extended Data](ext_articles/369a7118.ext.json)
-
----
-
-### Notice to the Prime Minister and Cabinet
-
-*2024-06-12 19:27:25* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හා-ඇමති-මණ්ඩලයට-නොතීසි/11-410183) · `si`
-
-The Supreme Court issued a notice to Prime Minister Dinesh Gunawardena and his cabinet, responding to a petition by PAFFREL regarding the use of electoral resources for local government candidates. The court directed them to respond by the 28th, after which the petition will be considered by a panel of judges including Chief Justice Jayantuni Jayasuriya. The petition challenges the allocation of funds for rural development projects and requests the court to ensure electoral fairness and protect citizens' rights.
-
-🟩
-
-The Supreme Court issued notice today (12th) directing the Prime Minister Dinesh Gunawardena and the Prime Minister Prime Minister Dinesh Gunawardena.
-
-The petition filed by the PAFFral organization to be used for local government candidates to be used as well as the Supreme Court, the Supreme Court, is to hand over the respondents to the respondents to the respondents.Specified.
-
-If there are basic objections on the petition, the Supreme Court ordered to file the contradictions on the 28th and to confirm the petition to file an contrary to the 28th.
-
-The petition was considered in a panel of judges, Chief Justice Jayantuni Jayasuriya, Supreme Court Judge Kumudi Wickramasinghe and Aeti Alugily.
-
-The Attorney General, Prime Minister Dinesh Gunawardena and Prime Minister Dinesh Gunawardena have been named as respondents filed by PAFFREL.
-
-It is said that the presidential election is scheduled to be held between September 17th and October 17 of September 17, the PAFFREL.
-
-...
-
-[Data](articles/81f6879e.json)
-
-[Extended Data](ext_articles/81f6879e.ext.json)
 
 ---

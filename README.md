@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 17:19:22**
+As of **2024-06-13 17:34:43**
 
 ## Newspaper Stats
 
-*Scraped **30,219** Articles*
+*Scraped **30,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,426
 tamilmirrorlk | 3,537
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,867
+adaderanasinhalalk | 4,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,217 (100.0%) of 30,219 articles have been extended.
+30,219 (100.0%) of 30,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### ජලගැලීම් නිසා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ෆ්ලෝරිඩා හිදී හිරවෙයි
+
+*2024-06-13 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197722) · `si`
+
+අමෙරිකාවේ ෆ්ලෝරීඩා ප්‍රදේශයට බලපෑ ජලගැලීම් තත්ත්වය හේතුවෙන් ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ද බලපෑම් එල්ලවී තිබේ.
+
+ඒ අනුව අද (13) බටහිර ඉන්දීය කොදෙව් දූපත් බලා පිටත්ව යාමට නියමිතව සිටි ශ්‍රී ලංකා කණ්ඩායමට ජලගැලීම් තත්ත්වය සහ වර්ෂාව හේතුවෙන් ෆ්ලෝරිඩා නුවරින් පිටත්ව යාමට හැකිවී නොමැත.
+
+පවතින තත්ත්වය හමුවේ ගුවන් ගමන් වාර රැසක් අවලංගු වීම නිසා ශ්‍රී ලංකා කණ්ඩායමට බටහිර ඉන්දීය කොදෙව් දූපත් බලා පිටත්ව යාමට සිදුවී ඇත්තේ හෙට (14) දිනයේදීය.
+
+ශ්‍රී ලංකා කණ්ඩායම මූලික වටයේ සහභාගි වන අවසන් තරගය ජුනි 17 වනදා නෙදර්ලන්තයට එරෙහිව ශාන්ත ලුසියා හිදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/01c57704.json)
+
+---
 
 ### Ex-police chief sounds warning over possible violent political uprising
 
@@ -47,6 +65,8 @@ Fernando further stated that although the government carried out rehabilitation 
 ◼️
 
 [Data](articles/05a807b6.json)
+
+[Extended Data](ext_articles/05a807b6.ext.json)
 
 ---
 
@@ -91,6 +111,8 @@ Sitharaman was greeted at the office in North Block by Finance Secretary TV Soma
 ...
 
 [Data](articles/5708b317.json)
+
+[Extended Data](ext_articles/5708b317.ext.json)
 
 ---
 
@@ -2359,21 +2381,5 @@ Rajapaksa also asserted that the country’s people remain hopeful about the SLP
 [Data](articles/6d08380b.json)
 
 [Extended Data](ext_articles/6d08380b.ext.json)
-
----
-
-### BASL President temporarily steps down amid JICA scandal investigation
-
-*2024-06-13 01:30:01* · [`dailyftlk`](https://www.ft.lk/news/BASL-President-temporarily-steps-down-amid-JICA-scandal-investigation/56-763033) · `en`
-
-In a significant development the President of the Bar Association of Sri Lanka (BASL) Kaushalya Nawaratna, has temporarily stepped down from his position pending the conclusion of an investigation into alleged financial irregularities within the BASL. This decision comes in response to growing pressure and concerns regarding the alleged misappropriation of funds earmarked for an anti-corruption initiative funded by the Japan International Cooperation Agency (JICA).
-
-The controversy erupted when a group of legal professionals, including 10 Presidents’ Counsel and over 80 Attorneys-at-Law, called for a comprehensive investigation into the JICA project scandal. They demanded that any BASL member potentially involved in the misuse of funds step down during the inquiry. The group highlighted the paramount importance of transparency, accountability, and the preservation of BASL’s moral authority and public trust.
-
-...
-
-[Data](articles/c4841868.json)
-
-[Extended Data](ext_articles/c4841868.ext.json)
 
 ---

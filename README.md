@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 22:35:09**
+As of **2024-06-13 22:52:44**
 
 ## Newspaper Stats
 
-*Scraped **30,252** Articles*
+*Scraped **30,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,70 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,610
+adalk | 2,611
 adaderanalk | 3,430
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,878
+adaderanasinhalalk | 4,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,249 (100.0%) of 30,252 articles have been extended.
+30,252 (100.0%) of 30,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### දින 10කට පසු ගුණතිලක රාජපක්ෂ ගැටුම ගැන කතා කරයි
+### සාමාන්‍ය ජනතාවට ලැබෙන වාසිය ජනපති පහදයි
+
+*2024-06-13 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197733) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමග එළැඹ ඇති ගිවිසුම්වල මූලික ප්‍රතිලාභ සාමාන්‍ය ජනතාවට ලැබෙමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මෙම අදහස් පළ කළේ, කොළඹදී අද (13) පැවති සාර්ක් කලාපීය රටවල 45 වැනි මහ බැංකු අධිපතිවරුන්ගේ රැස්වීම හා සමුළුව අමතමිනි.
+
+එම අවස්ථාවට සාර්ක් මහලේකම් ගොලාම් සර්වාර් මෙන්ම සාර්ක් රටවල මහ බැංකු අධිපතිවරුන් සහ නියෝජ්‍ය අධිපතිවරුන් ඇතුළු පිරිසක් එක්විය.
+
+◼️
+
+[Data](articles/6bad527a.json)
+
+---
+
+### After 10 days, Gunatilleke talks about the Rajapaksa clash
 
 *2024-06-13 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197732) · `si`
 
-තමාට පහරදීමේ සිද්ධිය පිළිබඳව දැනට සිදුකෙරෙන පරීක්ෂණ සම්බන්ධයෙන් තමන් සෑහීමකට පත් නොවන බවත්, නීතිමය ක්‍රියාමාර්ග ඉදිරියට ගෙනයන බවත් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා පවසයි.
+MP Gunatilleke Rajapaksa, unsatisfied with the investigation into an attack on him, spoke out 10 days post-incident. He accused fellow MPs of assaulting him during a party meeting, leading to a fractured foot requiring surgery. Rajapaksa denied any involvement with MP Mahindananda Aluthgamage, who he claimed assaulted him severely. He promised a special statement in Parliament about the assault.
 
-පහරකෑමේ සිද්ධියට ලක්වීමෙන් දින 10කට පසුව කොළඹ පිහිටි සිය නිවසේදී මාධ්‍යයට අදහස් දක්වමින් මන්ත්‍රීවරයා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-ජුනි 03 වනදා ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී මුදල් ප්‍රතිපාදන ගැටලුවක් මුල්කර ගනිමින් ආණ්ඩු පක්ෂයේ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා සහ මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබුණි.
+MP Gunatilleke Rajapaksa says that he is not satisfied with the investigation of the attack on her.
 
-පසුව මන්ත්‍රී කණ්ඩායම් රැස්වීම අවසන් වී මන්ත්‍රීවරුන් පිටව යන අවස්ථාවේ නැවත වරක් පියගැටපෙළ මතදී මහින්දානන්ද මන්ත්‍රීවරයා තල්ලු කිරීමකින් තමා ඇද වැටී තුවාල ලැබූ බවට ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා චෝදනා කළේය.
+Speaking to the media in Colombo, he said this after 10 days after the attack on the attack.
 
-තුවාල ලැබූ මන්ත්‍රීවරයා යුද හමුදා රෝහලට ඇතුළත් කෙරුණු අතර ඔහුගේ පාදයේ සිදු වු අස්ථි බිඳීමකට අදාළව පැය 4ක සැත්කමකට ද භාජනය කර තිබුණි.
+A warm exchange was held in a public provision of a funds at the Presidential Secretariat on June 3.
 
-සිද්ධියෙන් දින 10කට පසු ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා තමා මුහුණදුන් සිද්ධිය සම්බන්ධයෙන් අද මාධ්‍යයට අදහස් පළ කළේය.
+The MP also accused the MPs were injured when the MPs were after the party's meeting and leaving MPs.
 
-...
+The injured MP was admitted to the Army Hospital and a 4-hour surgery had been subjected to a fracture of his foot.
+
+After 10 days, MP Gunatilleke Rajapaksa expressed his views to the media regarding the incident he faced.
+
+He said that he was not in a flight to the MP Mahindananda Aluthgamage and that he was not near the stickfront.
+
+MP Gunatilleke Rajapaksa said that MP Hingdananda Aluthgamage was very severely attacked by him.
+
+He also said that he said that a special statement would be made in Parliament regarding the assault.
+
+◼️
 
 [Data](articles/ce2b39d6.json)
+
+[Extended Data](ext_articles/ce2b39d6.ext.json)
 
 ---
 
@@ -68,19 +96,27 @@ In May, Motie took eight wickets at an average of 8.50 across the three-match se
 
 [Data](articles/ca90d580.json)
 
+[Extended Data](ext_articles/ca90d580.ext.json)
+
 ---
 
-### මැයි මාසයේ ICC දක්ෂතම ක්‍රීඩිකාව චමරි
+### The best player of the ICC in May is Chamari
 
 *2024-06-13 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197731) · `si`
 
-2024 මැයි මාසයේ දක්ෂතම ක්‍රීඩිකාව ලෙස ICCය චමරි අතපත්තුව නම් කර තිබේ.
+Chamari Atapattu was named the best women's cricketer of May 2024 by the ICC.
 
-ඒ අනුව චමරි අතපත්තු ICCය විසින් නම් කරන මාසයේ කාන්තා ක්‍රීඩිකාව සම්මානය දෙවන වරටත් දිනා ගැනීමට සමත්වී තිබේ.
+🟩
+
+The ICC has been named Chamari Ranpattuwa as the best player of May 2024.
+
+Accordingly, Chamari Atapattu is winning the Women's Player of the month named by the ICC.
 
 ◼️
 
 [Data](articles/2dbc4a08.json)
+
+[Extended Data](ext_articles/2dbc4a08.ext.json)
 
 ---
 
@@ -199,6 +235,24 @@ Colombo-13-year-old St. Anthony's Church. The procession is going to be followed
 [Data](articles/5345ca88.json)
 
 [Extended Data](ext_articles/5345ca88.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරීන්ගේ නව සේවා ව්‍යවස්ථාවට රාජ්‍ය සේවා කොමිෂන් සභාවේ අනුමැතිය
+
+*2024-06-13 19:46:46* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරීන්ගේ-නව-සේවා-ව්‍යවස්ථාවට-රාජ්‍ය-සේවා-කොමිෂන්-සභාවේ-අනුමැතිය/11-410205) · `si`
+
+ග්‍රාම නිලධාරීන්ගේ නව සේවා ව්‍යවස්ථාව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍ය මණ්ඩලයේ එකඟත්වයෙන් පසු රාජ්‍ය සේවා කොමිෂන් සභාව විසින් අනුමත කර තිබෙන බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+
+මෙම නව ව්‍යවස්ථාවට අවශ්‍ය නම් සංශෝධන සිදු කිරීම සඳහා ද අවස්ථාව උදාකර දී තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+මේ වන විට රජය විසින් උරුමය සහ අස්වැසුම ඇතුළු වැදගත් ව්‍යාපෘති කිහිපයක්ම ක්‍රියාවට නඟා තිබෙනවා. ඒ වගේම පසුගිය සමයේ නතර වී තිබූ සංවර්ධන ව්‍යාපෘති රැසක්ම මේ වන විට ආරම්භ කර තිබෙනවා. විමධ්‍යගත ප්‍රතිපාදන හරහා ගමේ, නගරයේ යළි සංවර්ධන කටයුතු ද ආරම්භ කර තිබෙනවා. ඒ සඳහා සහය දැක්වීම රාජ්‍ය නිලධාරීන්ගේ වගකීමක් බව මෙහිදී සඳහන් කළ යුතුයි. ජනතාවගේ යුතුකම් ඉෂ්ඨ කිරීමට හැකි වී ඇති මේ අවස්ථාවේ දී අප හැමෝම අපගේ රාජකාරිය ඉටුකළ යුතුයි.
+
+...
+
+[Data](articles/eaf85b45.json)
 
 ---
 
@@ -2305,57 +2359,5 @@ However, the economy is still at risk, and the Monetary Fund points out that the
 [Data](articles/bd56f4da.json)
 
 [Extended Data](ext_articles/bd56f4da.ext.json)
-
----
-
-### Attack on journalist's house in Jaffna
-
-*2024-06-13 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185969) · `ta`
-
-In Jaffna, unidentified individuals broke into journalist Thambichurai Pradeepan's home in Achchuveli, setting his belongings on fire. The attack occurred at 12:15 am, involving five motorcycles. Vehicles and property outside the house were also targeted. Found inside the house were pamphlets warning against misrepresenting transgender sentiments. The Achchuveli police are investigating the motive behind this attack.
-
-🟩
-
-Unidentified persons have broken into the house of a journalist in Jaffna - Achchuveli and set fire to their possessions.
-
-The attack was held at around 12.15 am today at around 12.15 am on the house of journalist Thambichurai Pradeepan in Achuveli, Kali Temple area.
-
-It has been reported that five motorcycles have been involved in violence.
-
-Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
-
-The pamphlets printed on the "do not misrepresent the sentiments of the transgender" have been put in the house where the attacked.
-
-Achchuveli police have launched an investigation into the incident as the cause of the attack is unknown.
-
-◼️
-
-[Data](articles/88c3f60c.json)
-
-[Extended Data](ext_articles/88c3f60c.ext.json)
-
----
-
-### The happy news of IMF
-
-*2024-06-13 09:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMFஇன்-மகிழ்ச்சியான-செய்தி/175-338844) · `ta`
-
-Sri Lanka receives $2.9 billion from IMF, including $336 million in the latest installment, after passing its economic reforms.
-
-🟩
-
-Minister Ali Sabri has said that the second review of the program introduced to Sri Lanka by the International Monetary Fund has been allowed.
-
-Accordingly, Sri Lanka will receive the third installment of $ 2.9 billion approved by the International Monetary Fund.
-
-Therefore, the International Monetary Fund has granted permission to provide about $ 336 million to Sri Lanka.
-
-The International Monetary Fund, which has issued a statement, said it would give further reform and appropriate changes in the country's economy. Remble
-
-◼️
-
-[Data](articles/43da91f7.json)
-
-[Extended Data](ext_articles/43da91f7.ext.json)
 
 ---

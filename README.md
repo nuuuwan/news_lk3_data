@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 14:05:45**
+As of **2024-06-13 14:19:15**
 
 ## Newspaper Stats
 
-*Scraped **30,184** Articles*
+*Scraped **30,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,91 @@ adaderanalk | 3,420
 tamilmirrorlk | 3,534
 virakesarilk | 4,626
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,860
+adaderanasinhalalk | 4,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,179 (100.0%) of 30,184 articles have been extended.
+30,184 (100.0%) of 30,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### இலங்கைக்கு கடத்தப்படவிருந்த பெருமளவிலான இஞ்சி இந்தியாவில் கைப்பற்றல்
+### ව්‍යාපාරික තාඹුගලගේ නඩුව කල්යයි
+
+*2024-06-13 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197714) · `si`
+
+සැකකරුවකු වශයෙන් නම් කර සිටින ව්‍යාපාරික විරංජිත් තාඹුගල මහතා විසින් රහස්‍ය ප්‍රකාශයක් සිදුකිරීමට සූදානම් බවට කර තිබෙන ඉල්ලීම ලබන 18 වනදා සිදුකරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+මෙම පැමිණිල්ල අද (13) කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා පතිරාජ මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
+
+ඒ අනුව තමන්ට  මහෙස්ත්‍රාත්වරිය ඉදිරියේ රහස්‍ය ප්‍රකාශයක් සිදුකිරීමට අවශ්‍ය බවට සැකකරු විසින් සිදුකර තිබෙන ඉල්ලීම මීළඟ නඩු දිනයේ ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරිය නියම කළාය.
+
+◼️
+
+[Data](articles/9f5c5512.json)
+
+---
+
+### A large number of ginger seizure in Sri Lanka
 
 *2024-06-13 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185995) · `ta`
 
-இந்தியாவிலிருந்து இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த 60 இஞ்சி மூடைகளை தமிழக சுங்கத்துறை அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+Tamil Nadu Customs officials seized 60 gingerbreads worth around 3 lakh rupees, hidden in a house, during raids in the Marikkayarpattinam coastal area. The ginger, weighing about 2 tonnes, was intended for smuggling to Sri Lanka. This is the first such seizure from the Ramanathapuram district.
 
-இந்நிலையில், இஞ்சி மூடைகளை பதுக்கி வைத்திருந்த  வீட்டின் உரிமையாளர் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+🟩
 
-இந்நிலையில், இன்று (13) அதிகாலை இலங்கைக்கு மண்டபம் அடுத்துள்ள மரைக்காயர் பட்டினம் கடற்கரையிலிருந்து இஞ்சி நாட்டுப் படகில் கடத்த இருப்பதாக தமிழகத்தில் மண்டபம் சுங்கத் துறை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவல் அடிப்படையில் நேற்று இரவு (12) மரைக்காயர்பட்டிணம் கடற்கரை ஓரம் உள்ள வீடுகள் மற்றும் மீன் வைக்கும் கம்பெனி உள்ளிட்ட  பகுதிகளில் தொடர்ந்து அதிரடி சோதனை நடத்தியுள்ளனர்.
+Tamil Nadu Customs officials have seized 60 gingerbreads stored to smuggle from India to Sri Lanka.
 
-அப்போது மரைக்காயர்பட்டிணம் கடற்கரை ஓரமாக உள்ள வீடொன்றின் பின்புறம் இருந்து 60 மூடைகளில் சுமார் 2 தொன் எடை கொண்ட இஞ்சி கைப்பற்றப்பட்டுள்ளது.
+In this case, they are investigating the owner of the house who had hid gingerbread.
 
-இதையடுத்து, இஞ்சி மூடைகளை மண்டபம் சுங்கத்துறை அதிகாரிகள் அலுவலகம் எடுத்து வந்த அந்த வீட்டின் உரிமையாளர் யார் என்பது குறித்து விசாரித்து வருகின்றனர்.
+In the early hours of this morning, the Mandapam Customs Department has been conducting a series of raids on the Marikkayarpattinam coastal area, based on the confidential information received by the Customs Department in Tamil Nadu, which is being smuggled into a ginger boat from the Marikkayar Pattinam beach near Sri Lanka this morning.
+
+At the time, a ginger weighing about 2 tonnes of 60 crores was seized from the back of a house along the Marikaiyarpattinam beach.
+
+Subsequently, the gingerbreads are being investigated by the owner of the house where the Customs Department officials have taken the office.
+
+In addition, the first phase of investigation revealed that the ginger was smuggled to Sri Lanka through the sea. Customs officials said the Indian value of the confiscated ginger may be about 3 lakhs.
 
 ...
 
 [Data](articles/77563517.json)
 
+[Extended Data](ext_articles/77563517.ext.json)
+
 ---
 
-### කාකි ඇඳුමින් මතු වූ අසීමිත ආදරය
+### Unlimited love emerged from the khaki suit
 
 *2024-06-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197713) · `si`
 
-මේසයක් සහ පුටුවක් නොමැතිව පාසල් ගමන අතරමඟ නතර කිරීමට සිදුවූ දරුවෙකුට මිදිගම පොලිසියේ මැදිහත්වීමෙන් යළි පාසල් යාමට අවස්ථාව හිමිවුණි.
+Despite financial hardships and a lack of furniture, a resilient child named Mailkinge from the Vidigama Divisional Secretariat Division continued her education with the support of local police and community efforts. Her story highlights the importance of education and the role of community intervention in overcoming obstacles.
 
-පාසැල් යාමට දැඩි කැමත්තෙන් පසුවූ පුංචි මලිඳුගේ ඒ පැතුම ඉටුවූ මොහොත එහි සිටි සියලුදෙනාම සංවේදී කිරීමට සමත් වුණි.
+🟩
 
-එකළොස් හැවිරිදි චමෙත් මලිඳු ප්‍රියෂාන් වැලිගම ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ මිදිගම ප්‍රදේශයේ පදිංචි ජේ.වී. ප්‍රියන්ත සහ කේ.එච්. රසිකා ලක්ෂානිගේ දරුවන් තිදෙනෙකුගෙන් යුත් පවුලේ දෙවැනි දරුවාය.
+A child who had to quit school without a table and a chair, a child was able to resume the school's intervention in the Midigama police.
 
-දැඩි ආර්ථික අර්බුදයන්ට මුහුණදී සිටින එම පවුල ස්ථිර නිවසක් පවා නොමැතිකමින් පදිංචිව සිටින්නේ ප්‍රදේශයේ විවිධ ස්ථානයක්වලය.
+The moment, Mailkinge, who was looking to go to school, was able to sensate all the people.
 
-එවන් අපහසුතා මැද සිය පාසල් ගමන අතහැර දමන්නට මලිඳුට සිදුවන්නේ කැමැත්තකින් නොවේ.
+Each year, Chamati Priyashan, a resident of Vidigama Divisional Secretariat Division. Priyantha and K.H. The second child of the Russian Lakshani's second child.
 
-කෙසේවෙතත් මාස කිහිපයකට පසුව යළිත් වරක් ප්‍රදේශයේ විදුහලකට මලිඳු ඇතුළත් කිරීමට මව්පියන් උත්සහ දරන්නේ අධ්‍යාපනයේ වැදගත්කම පිළිබඳව අවබෝධයක් පැවතීම හේතුවෙනි.
+The family is facing severe economic crises in a variety of places in the area, lack of permanent home.
 
-එහෙත් විදුහල් බලධාරීන් සඳහන් කර තිබුණේ විදුහලේ මේස සහ පුටුවල අඩුවක් පැවතීම හේතුවෙන් දරුවා පාසලට ඇතුළත් කරගැනීමටනම් මේසයක් සහ පුටුවක් රැගෙන එන ලෙසය.
+In the midst of such embarrassment, I do not want to drop his school journey.
+
+However, after a few months later, parents try to adapt to the importance of education at a few months later.
+
+However, the school authorities have stated that if the school is a shortage of schools and chairs, it is to bring a table and a chair.
+
+However, there was no economic energy to launch the return of the school journey back to Mailly.
 
 ...
 
 [Data](articles/c9290755.json)
+
+[Extended Data](ext_articles/c9290755.ext.json)
 
 ---
 
@@ -142,29 +174,41 @@ A French official said that while the loan would be mostly U.S.-guaranteed, it c
 
 ---
 
-### வெகுவிரைவில் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்படும் - செஹான் சேமசிங்க
+### Foreign loans will be restructured soon - Sehan Semasinghe
 
 *2024-06-13 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185988) · `ta`
 
-அரசமுறை வெளிநாட்டு கடன்மறுசீரமைப்பு தொடர்பான இருதரப்பு பேச்சுவார்த்தை இலங்கைக்கு சாதகமாக உள்ளதாகவும் வெகுவிரைவில் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்படுமெனவும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Sri Lanka's Finance Minister Xihan Semasinghe announced positive outcomes from bilateral discussions on state-run foreign debt restructuring, indicating imminent loan adjustments beneficial to the country. He also dismissed claims about unfavorable reviews from National Level Companies regarding Sri Lanka's IMF project, asserting them as untrue.
 
-இதேவேளை, சர்வதேச நாணய நிதியத்துடன் இலங்கை மேற்கொண்டுள்ள செயற்திட்டம் குறித்து தேசிய மட்டத்திலான நிறுவனங்கள் வெளியிடும் மதிப்பாய்வு அறிக்கைகளில் உண்மைத் தன்மை கிடையாதென நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க மேலும் தெரிவித்தார்.
+🟩
+
+Finance Minister Xihan Semasinghe said that bilateral talks on state -run foreign debt are favorable to Sri Lanka and foreign loans will be restructured soon.
+
+Meanwhile, Finance Minister Xihan Semasinghe added that there is no truth in the review reports issued by the National Level Companies on Sri Lanka's project with the International Monetary Fund.
 
 ◼️
 
 [Data](articles/2f71827a.json)
 
+[Extended Data](ext_articles/2f71827a.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-13 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185985) · `ta`
 
-இன்று வியாழக்கிழமை  (ஜூன் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 299.0081 ஆகவும் கொள்வனவு விலை ரூபா 308.4819 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On June 13, the US dollar sold for Rs 299.0081 and bought back for Rs 308.4819 according to the Central Bank's rates.
+
+🟩
+
+The US dollar sales price was Rs 299.0081 and the purchase price was Rs 308.4819 based on the Central Bank's currency exchange rate on Thursday (June 13).
 
 ◼️
 
 [Data](articles/d909b659.json)
+
+[Extended Data](ext_articles/d909b659.ext.json)
 
 ---
 
@@ -216,17 +260,23 @@ However. The Lakugala Divisional Secretariat is collecting funds for this purpos
 
 ---
 
-### கரையோர ரயில் சேவைகள் பாதிப்பு
+### Impact of coastal train services
 
 *2024-06-13 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185983) · `ta`
 
-பாணந்துறையில் இருந்து மருதானை நோக்கி பயணித்த ரயில் ஒன்று  பாணந்துறை ரயில் நிலையத்துக்கு அருகில் இன்று (13) காலை  தடம்புரண்டுள்ளது. இதன்போது, ரயிலின் பெட்டி ஒன்று  தடம்புரண்டு அருகிலிருந்த சமிக்ஞை கட்டமைப்பில்  மோதியதால் அந்தக் கட்மைப்பும் முற்றிலும் செயலிழந்துள்ளது.
+Coastal train services were disrupted after a train crash near Panadura, limiting operations to Moratuwa.
 
-இதேவேளை, கரையோர ரயில் சேவை மொரட்டுவை ரயில் நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் மேலும் குறிப்பிட்டுள்ளது.
+🟩
+
+A train traveling from Panadura to Maradana was blocked this morning near the Panadura railway station. In the meantime, a train compartment crashed into a nearby signal structure.
+
+Meanwhile, the Railway Department has further stated that the coastal train service has been limited to the Moratuwa railway station.
 
 ◼️
 
 [Data](articles/574d8243.json)
+
+[Extended Data](ext_articles/574d8243.ext.json)
 
 ---
 
@@ -2229,39 +2279,5 @@ Upto now the central bank has provided monetary stability, allowing people to st
 [Data](articles/1a627f56.json)
 
 [Extended Data](ext_articles/1a627f56.ext.json)
-
----
-
-### Police gifts to citizens of society
-
-*2024-06-12 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197696) · `si`
-
-At a Public Defense Ministry event, IGP Deshabandu Tennakoon announced plans to eliminate drugs and the underworld this year. Minister Tiran Alles mentioned that justice operations vary monthly. Police salaries will increase next year, aligning with military pay. The event recognized 237 police officers and civilians, including those who rescued individuals from the Kelani River and handled police dogs in raids, with awards totaling Rs.
-
-🟩
-
-IGP Deshabandu Tennakoon says that the drugs and underworld will eliminate from this year.
-
-Minister of Subject Minister Tiran Alles points out that justice operation is conducted different from the month.
-
-"The salaries of the police officers will be increased next year. Then your wage will be a similar salary of the military. I want to do what work. Do not steal. "
-
-This was being taken at a function held at the Public Defense Ministry today.
-
-The assessment of police officers and civilians and police officers of the police were conducting the police as well as the police officers and the official dogs.
-
-Accordingly, 237 persons who and 237 were awarded to police officers.
-
-The youth released a prize of Rs.
-
-The civilians who were mocked at the Kelani River on May 29 and were awarded a sum of Rs.
-
-Also, the police officers who handed over police dogs for various raids were also presented.
-
-◼️
-
-[Data](articles/e8ce55e9.json)
-
-[Extended Data](ext_articles/e8ce55e9.ext.json)
 
 ---

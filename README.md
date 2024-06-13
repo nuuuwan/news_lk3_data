@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 04:19:13**
+As of **2024-06-14 04:34:46**
 
 ## Newspaper Stats
 
-*Scraped **30,292** Articles*
+*Scraped **30,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,833
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,542
-virakesarilk | 4,657
+virakesarilk | 4,659
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,879
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,292 (100.0%) of 30,292 articles have been extended.
+30,292 (100.0%) of 30,294 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,42 @@ I will focus on two matters. One is his success as the lay custodian of the Temp
 [Data](articles/e6d55ca5.json)
 
 [Extended Data](ext_articles/e6d55ca5.ext.json)
+
+---
+
+### யாழ்.ஊடகவியலாளர் வீடு மீது தாக்குதல் ; நான்கு பொலிஸ் குழுக்கள் களத்தில் - பலரும் கண்டனம் தெரிவிப்பு
+
+*2024-06-14 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186039) · `ta`
+
+யாழ்ப்பாணம் - அச்சுவேலியில் ஊடகவியலாளரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக வடமாகாண ஆளுநரின் பணிப்பின் பிரகாரம் வடக்கு மாகாண சிரேஷ்ட பொலிஸ்மா அதிபரின் கீழ் நான்கு பொலிஸ் குழுக்கள் தீவிர விசாரணைகளில் ஈடுபட்டுள்ளனர்
+
+அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது இன்றைய தினம் வியாழக்கிழமை அதிகாலை 12.15 மணியளவில்  இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஜந்து பேர் கொண்ட வன்முறைக்கும்பல் தாக்குதல் நடத்தியது.
+
+இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+
+"திருநங்கைளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டிருந்தது.
+
+இந்நிலையில் இன்றைய தினம் காலை பொலிசாரின் தடயவியல் பிரிவினர் சம்பவ இடத்திற்கு வருகைதந்து தடயங்களைச் சேகரித்தனர்.
+
+...
+
+[Data](articles/18b3939e.json)
+
+---
+
+### தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் பலி : மன்னார் முருங்கன் பூவரசங்குளம் பகுதியில் சம்பவம்
+
+*2024-06-14 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186038) · `ta`
+
+தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் உயிரிழந்த சம்பவம் வியாழக்கிழமை(13)  இரவு 7 மணியளவில் மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் இடம்பெற்றுள்ளது.
+
+மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயியான தந்தை ஒருவர் தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+
+இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய மகள் திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/888821a3.json)
 
 ---
 
@@ -2319,55 +2355,5 @@ However, there was no economic energy to launch the return of the school journey
 [Data](articles/c9290755.json)
 
 [Extended Data](ext_articles/c9290755.ext.json)
-
----
-
-### Badulu Oya fish dies
-
-*2024-06-13 13:17:50* · [`adalk`](https://www.ada.lk/breaking_news/බදුලු-ඔයේ-මසුන්-දහස්-ගණනින්-මිය-යයි/11-410194) · `si`
-
-Massive fish deaths in Badulu Oya, Sri Lanka, have led to concerns over water quality. Thousands of fish, including Korulul Fish, are found dead or floating, affecting local livelihoods. The issue has also impacted the Demodara Water Supply Reservoir, causing inconvenience to residents. Environmental officials visited the site to investigate the cause.
-
-🟩
-
-People say that the fish from Badulu Oya are floating in the water, which has begun to die in the wake of the fish.
-
-The masses say that the deaths of freshwater fish, including Korulul Fish in the Halu-Ela, 6 pour in the 7th area in the 7th area in the 7th area, the people have begun to flooded in the Oya.
-
-The people said that they had been severely embarrassed in the Demodara Water Supply Reservoir and the removal of the slapped slapped Muslims in the reservoir have been inconvenienced by a few months.
-
-The fish have eaten to sell thousands of fish that will be crowned from the Badulu Oya and floating from the water. There are some kind of explicit to the water of the water.
-
-However, yesterday's environmental officials were taken to the Badulu Oya to observe the matter and the journalists inquired about the matter.
-
-◼️
-
-[Data](articles/d8beca30.json)
-
-[Extended Data](ext_articles/d8beca30.ext.json)
-
----
-
-### Bodybasirus piled to the beach of Waskadu
-
-*2024-06-13 13:17:30* · [`adalk`](https://www.ada.lk/breaking_news/වස්කඩුවේ-මුහුදු-වෙරළට-පුද්ගල-මළසිරුරක්-ගොඩගසයි/11-410193) · `si`
-
-A unidentified body, believed to be a 70-year-old man wearing a hazel brown t-shirt, was found behind a tourist hotel in Waskaduwa. The discovery was made by the Kalutara North Police, who are now investigating the incident with Chief Inspector Damith Jayatilake overseeing the case. The body will be examined at the Kalutara Survey Hospital.
-
-🟩
-
-Kalutara North Police say that a carcirror has been launched behind a tourist hotel in Waskaduwa area.
-
-Police said who had not been identified as the person who had died.
-
-The body was to be taken to the Kalutara Survey Hospital following the death inspection. Police say that a 70-year-old man is dressed in hazelly brown t-shirts.
-
-The complaint sector is conducting further investigations under the patronage of speaking at the chief police Inspector Damith Jayatilake.
-
-◼️
-
-[Data](articles/850e73b5.json)
-
-[Extended Data](ext_articles/850e73b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 23:04:21**
+As of **2024-06-13 23:19:14**
 
 ## Newspaper Stats
 
-*Scraped **30,255** Articles*
+*Scraped **30,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,611
 adaderanalk | 3,431
-tamilmirrorlk | 3,539
+tamilmirrorlk | 3,540
 virakesarilk | 4,645
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,879
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,254 (100.0%) of 30,255 articles have been extended.
+30,255 (100.0%) of 30,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் பலி
+
+*2024-06-13 22:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தந்தை-செலுத்திய-உழவு-இயந்திரத்தில்-சிக்கி-மகள்-பலி/72-338887) · `ta`
+
+தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் உயிரிழந்த சம்பவம் இன்று (13) இரவு 7 மணியளவில் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் இடம்பெற்றுள்ளது.
+
+மன்னார் - முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயி தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+
+இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய மகள் திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/fbca65bf.json)
+
+---
 
 ### President states the benefit to the general public
 
@@ -101,6 +117,8 @@ In May, Motie took eight wickets at an average of 8.50 across the three-match se
 ...
 
 [Data](articles/73378304.json)
+
+[Extended Data](ext_articles/73378304.ext.json)
 
 ---
 
@@ -2339,31 +2357,5 @@ However, Post Office Ruwan Satkumara has said that it has been decided to cancel
 [Data](articles/5e4e6a35.json)
 
 [Extended Data](ext_articles/5e4e6a35.ext.json)
-
----
-
-### Should a STF arrested for 25 days?Complaint to the Attorney General
-
-*2024-06-13 09:41:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgg1mz59nno) · `si`
-
-A complaint was filed with the Attorney General regarding the arrest and subsequent disappearance of a person by the Government Security Forces for 25 days. This marks the first such complaint since the enactment of a law in 2018 aimed at addressing abductions and disappearances. The complainant, Kapila de Silva, was found after being missing for 25 days. Legal experts emphasize the importance of investigating such cases under the relevant act and taking appropriate legal action.
-
-🟩
-
-Should a STF arrested for 25 days?Complaint to the Attorney General
-
-The Prisoner of the Rights Council has lodged a complaint with the Attorney General's Department today (June 13) to take action against the disappearances of a person by the Government security forces.
-
-The Chairman of the Protection Committee, the president of the Protection Committee, the President of the Protection Committee, stated that this is the first complaint made by the Government Security Forces on the abduction of a person in 2018.
-
-"The bill was passed in 2018, but no complaint had been filed under it.. Abduction and disappearance of persons under third section of that Act have been blameless. Attorney General has the authority to prosecute the matter. "Attorney Senak Perera stated that the complaint has been lodged with the Attorney General.
-
-The complaint was filed by the Attorney General, Kapila de Silva, a resident of Horowpathana, was arrested by the STF on the 27th of March.
-
-...
-
-[Data](articles/0d8d1650.json)
-
-[Extended Data](ext_articles/0d8d1650.ext.json)
 
 ---

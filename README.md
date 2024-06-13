@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 17:34:43**
+As of **2024-06-13 17:55:31**
 
 ## Newspaper Stats
 
-*Scraped **30,220** Articles*
+*Scraped **30,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,66 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,604
+adalk | 2,605
 adaderanalk | 3,426
 tamilmirrorlk | 3,537
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,868
+adaderanasinhalalk | 4,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,219 (100.0%) of 30,220 articles have been extended.
+30,220 (100.0%) of 30,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### ජලගැලීම් නිසා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ෆ්ලෝරිඩා හිදී හිරවෙයි
+### ජපානයේ සිටින ශ්‍රී ලාංකිකයන්ගේ සැණකෙළිය ජුනි 15 සහ 16
+
+*2024-06-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197723) · `si`
+
+විවිධ හේතු මත නතරවී තිබූ ජපානයේ වාර්ෂිකව පවත්වන "ශ්‍රී ලංකා මහෝත්සවය" වසර 04කට පසු මේ වසරේ උත්කර්ෂවත් අන්දමින් පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+ජපානයේ ශ්‍රී ලංකා ව්‍යාපාරික සංගමය පවසන්නේ "ශ්‍රී ලංකා මහෝත්සවය" හෙවත් Sri Lanka Festival යනු ජපානයේ  වෙසෙන ශ්‍රී ලාංකිකයන් ලක්ෂ සංඛ්‍යාත පිරිසක් වසරකට වරක් හමුවන දැවැන්තතම ලාංකික  ඉසව්ව බවය.
+
+ඒ අනුව ටෝකියෝ Yoyogi Park හි  ජූනි මස 15 සහ 16 යන දෙදින පෙරවරු 9.00 සිට සවස 7.00 දක්වා මෙම ලංකේය සංස්කෘතික  විවිධත්වයෙන් අනූන උත්සව මාලාව පැවැත්වෙයි.
+
+සාම්ප්‍රදායික ශ්‍රී ලාංකීය නැටුම්, සංගීතය, විවිධ ශ්‍රී ලාංකික ආහාර පාන වර්ගවල රස බැලීමට ද මෙහිදී අවස්ථාව උදාවෙයි.
+
+ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ පූර්ණ අනුග්‍රහය යටතේ  ජපානයේ වාහන ආනයනකරුවන්ගේ සංගමය, ශ්‍රී ලාංකීය විද්වතුන්ගේ සංගමය, ශ්‍රී ලංකා සංගමය, ශ්‍රී ලංකා ශිෂ්‍ය සංගමය ඇතුළු සංවිධාන රැසක් මීට දායකත්වය ලබාදෙයි.
+
+වර්තමානයේ ජපානයේ ශ්‍රී ලාංකිකයන් ලක්ෂ 04කට ආසන්න ප්‍රමාණයක් ජීවත් වන බවට වාර්තා වෙන බවද එහි සංවිධායක මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/0ca856cc.json)
+
+---
+
+### Sri Lanka crashes into Florida due to floods
 
 *2024-06-13 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197722) · `si`
 
-අමෙරිකාවේ ෆ්ලෝරීඩා ප්‍රදේශයට බලපෑ ජලගැලීම් තත්ත්වය හේතුවෙන් ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ද බලපෑම් එල්ලවී තිබේ.
+Floods in Florida have prevented the Sri Lankan cricket team from leaving for the West Indies, affecting their travel plans. They were scheduled to depart on March 13 but are now delayed until March 14. Their match against the Netherlands in St. Lucia, originally set for June 17, remains unchanged.
 
-ඒ අනුව අද (13) බටහිර ඉන්දීය කොදෙව් දූපත් බලා පිටත්ව යාමට නියමිතව සිටි ශ්‍රී ලංකා කණ්ඩායමට ජලගැලීම් තත්ත්වය සහ වර්ෂාව හේතුවෙන් ෆ්ලෝරිඩා නුවරින් පිටත්ව යාමට හැකිවී නොමැත.
+🟩
 
-පවතින තත්ත්වය හමුවේ ගුවන් ගමන් වාර රැසක් අවලංගු වීම නිසා ශ්‍රී ලංකා කණ්ඩායමට බටහිර ඉන්දීය කොදෙව් දූපත් බලා පිටත්ව යාමට සිදුවී ඇත්තේ හෙට (14) දිනයේදීය.
+The Sri Lankan cricket team has also been affected by the flourism that influenced the Florida area in the United States.
 
-ශ්‍රී ලංකා කණ්ඩායම මූලික වටයේ සහභාගි වන අවසන් තරගය ජුනි 17 වනදා නෙදර්ලන්තයට එරෙහිව ශාන්ත ලුසියා හිදී පැවැත්වීමට නියමිතය.
+Accordingly, the Sri Lankan team to leave the West Indies today (13) has not been able to leave Florida due to floods and rain due to the flooding condition and rain.
+
+The Sri Lankan team has to leave the Sri Lankan team to the West Indies on the 14th of tomorrow due to the current situation.
+
+The Sri Lankan team will be held in St. Lucia against the Netherlands on June 17.
 
 ◼️
 
 [Data](articles/01c57704.json)
+
+[Extended Data](ext_articles/01c57704.ext.json)
 
 ---
 
@@ -655,6 +683,22 @@ At the same time, only the sealing section and the registration postal segments 
 [Data](articles/3740e7e7.json)
 
 [Extended Data](ext_articles/3740e7e7.ext.json)
+
+---
+
+### මානසික ආබාධිත දරුවාට පහරදුන්නාට පොලිසිියේ තිදෙනෙකුගෙන් නිදහසට කරුණු විමසයි
+
+*2024-06-13 14:20:19* · [`adalk`](https://www.ada.lk/breaking_news/මානසික-ආබාධිත-දරුවාට-පහරදුන්නාට-පොලිසිියේ-තිදෙනෙකුගෙන්-නිදහසට-කරුණු-විමසයි/11-410197) · `si`
+
+මානසික ආබාධිත ළමයෙකුට අලුත්ගම දර්ගා නගර මධ්‍යයේදී අමානුෂික අන්දමින් පහරදුන් බව කියන සිද්ධිය සම්බන්ධයෙන් නිදහසට කරුණු ඉදිරිපත් කිරීමට අලුත්ගම පොලිසියේ නිලධාරීන්ට තිදෙනකුට ශ්‍රේෂ්ඨාධිකරණය අද (13) නියම කළේය.
+
+මානසික ආබාධිත 17 හැවිරිදි දරුවාගේ පියා ගොනු කළ මූලික අයිතිවාසිකම්  පෙත්සමක් සලකා බැලූ අවස්ථාවේදී ඉදිරිපත් වු කරුණු සැළකිල්ලට ගනිමින් එලෙස නියම කළ ශ්‍රේෂ්ඨාධිකරණය ලබන වර්ෂයේ ජනවාරි 16 වැනිදා අධිකරණයට ඉදිරිපත් වී නිදහසට කරුණු ඉදිරිපත් කිරීමටද අලුත්ගම පොලිසියේ නිලධාරීන්ට තිදෙනාට නියම කරමින් නොතීසී නිකුත් කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීතී පද්මන් සූරසේන, එස්. තුරේරාජා  සහ ප්‍රියන්ත පුනාන්දු යන මහත්වරුන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම  සලකා බැලීණි.
+
+...
+
+[Data](articles/d17d24bb.json)
 
 ---
 
@@ -2325,61 +2369,5 @@ It is such a view that the General Secretary of the UNP Palitha Ranage was publi
 [Data](articles/1fddac56.json)
 
 [Extended Data](ext_articles/1fddac56.ext.json)
-
----
-
-### Competition against the West Indies is decisive to New Zealand
-
-*2024-06-13 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185957) · `ta`
-
-In the R20 World Cup, New Zealand's C team faces the West Indies after losing to Afghanistan. A win against the West Indies could secure New Zealand's spot in the Super 8 round, enhancing their chances. Historically, New Zealand has performed well in World Cups, reaching the semi-finals or finals multiple times since 2015 but struggled against Afghanistan this year. The match against the West Indies is crucial for New Zealand, who leads 10-4 in international T20 encounters but faced a tie and loss in previous meetings. Both teams aim to advance to the Super 8 round, making this match pivotal.
-
-🟩
-
-The New Zealand C team, which lost its first match against Afghanistan, will oppose the West Indies in its second match in the R20 World Cup.
-
-The tournament will begin at 6.00 am on Thursday (13).
-
-If the West Indies wins the match, the fourth team will qualify for the Super 8 round, while New Zealand's Super 8 round chance will be questioned.
-
-So in today's match, New Zealand will try to increase its Super round chance by defeating the West Indies.
-
-New Zealand, which has revealed the best in the World Cup since 2015, has advanced to the semi -finals of 2015, 2019, 2019 and 2023 in 2016, 2021 and 2022. On 3 occasions, he played in the final game, but did not hesitate.
-
-However, there is suspicion that New Zealand will leave the first round of Afghanistan by 84 runs this year.
-
-So the rivalry against the West Indies will be a knock out of New Zealand.
-
-On the other hand, the West Indies will also try to win the Super 8 round.
-
-...
-
-[Data](articles/82b76722.json)
-
-[Extended Data](ext_articles/82b76722.ext.json)
-
----
-
-### Election delay would end UNP: MR
-
-*2024-06-13 01:30:49* · [`dailyftlk`](https://www.ft.lk/news/Election-delay-would-end-UNP-MR/56-763034) · `en`
-
-Emphasises polls cannot be postponed according to constitution and any such attempt would be foolish
-
-Assures SLPP remains strong despite defections and people are supportive of an SLPP victory
-
-Claims public is focused on ensuring an SLPP and has little interest in other parties
-
-Former President Mahinda Rajapaksa has warned that attempting to postpone upcoming elections would only spell the end of the United National Party (UNP).
-
-Responding to questions posed by the media in Badulla on Tuesday, the Sri Lanka Podujana Peramuna (SLPP) leader said elections cannot be postponed according to the constitution. “Any attempt to delay polls will mark the end of the UNP,” he said.
-
-Rajapaksa also asserted that the country’s people remain hopeful about the SLPP and that defections have not weakened the party.
-
-...
-
-[Data](articles/6d08380b.json)
-
-[Extended Data](ext_articles/6d08380b.ext.json)
 
 ---

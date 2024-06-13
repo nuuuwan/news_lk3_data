@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 21:19:27**
+As of **2024-06-13 21:34:33**
 
 ## Newspaper Stats
 
-*Scraped **30,246** Articles*
+*Scraped **30,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,609
-adaderanalk | 3,428
+adaderanalk | 3,429
 tamilmirrorlk | 3,539
 virakesarilk | 4,645
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,246 (100.0%) of 30,246 articles have been extended.
+30,246 (100.0%) of 30,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### Another railway strike from tomorrow?
+
+*2024-06-13 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99865/another-railway-strike-from-tomorrow-) · `en`
+
+The Sri Lanka Railway Station Masters’ Union has decided to launch trade union action over several demands including the issues pertaining to promotions.
+
+The union stated that they will launch trade union action if no solutions are received to their grievances before 02.00 p.m. on Friday (14).
+
+The railway station masters claim that there has been a gross injustice by deliberately avoiding the grade of station masters among the grades belonging to the same service category and giving promotions to the other grades every five years.
+
+Furthermore, they mention that despite numerous discussions with relevant authorities regarding the matter, the promises to resolve the issues have not yet been implemented.
+
+The Sri Lanka Railway Station Masters’ Union also expressed that it is regrettable that the authorities provide immediate solutions to the demands of the parties who implement sudden trade union action, rather than seeking solutions through discussions.
+
+◼️
+
+[Data](articles/11f4a227.json)
+
+---
 
 ### Katunayake Foreign Money Sugar
 
@@ -2345,29 +2365,5 @@ Accordingly, Sri Lanka will receive US $ 336 million as the third premium. At th
 [Data](articles/bda9cb91.json)
 
 [Extended Data](ext_articles/bda9cb91.ext.json)
-
----
-
-### Postal strike continues
-
-*2024-06-13 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99849/postal-strike-continues) · `en`
-
-The United Postal Trade Unions Front (UPTUF) has launched a trade union action starting from midnight yesterday (12).
-
-UPTUF convener Chinthaka Bandara stated that a 24-hour nationwide strike will be held till midnight today (13).
-
-He further stated that the main objective of the trade union action is to demand the government to provide immediate solutions to the shortage of employees in the postal service.
-
-However, Postmaster General Ruwan Sathkumara stated that it has been decided to immediately cancel all postal workers’ leave.
-
-He expressed his disapproval of the ongoing trade union action stating that the Posts Department is already planning to take necessary steps for the ongoing concerns.
-
-Ruwan Sathkumara further stated that all the necessary steps would be taken to ensure an uninterrupted postal service.
-
-◼️
-
-[Data](articles/e0d7ce09.json)
-
-[Extended Data](ext_articles/e0d7ce09.ext.json)
 
 ---

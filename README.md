@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 20:05:27**
+As of **2024-06-13 20:19:00**
 
 ## Newspaper Stats
 
-*Scraped **30,232** Articles*
+*Scraped **30,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,827
 adalk | 2,607
 adaderanalk | 3,428
 tamilmirrorlk | 3,539
-virakesarilk | 4,636
+virakesarilk | 4,645
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,873
 
@@ -26,27 +26,45 @@ adaderanasinhalalk | 4,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,231 (100.0%) of 30,232 articles have been extended.
+30,232 (100.0%) of 30,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### பெண் ஒருவர் அதிரடியாக கைது
+### கொழும்பு, கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம்
+
+*2024-06-13 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/186029) · `ta`
+
+கொழும்பு-13 கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவானி வைபவம் வியாழக்கிழமை (13) மாலை அருட்தந்தை பற்றிக் பெரேய்ரா தலைமையில் நடைபெற்றது. பூஜையை அடுத்து ஊர்வலம் புறப்பட்டு செல்வதையும் நிகழ்வில் கலந்துகொண்டோரையும்  காணலாம்.
+
+◼️
+
+[Data](articles/5345ca88.json)
+
+---
+
+### A woman was arrested
 
 *2024-06-13 19:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-அதிரடியாக-கைது/175-338874) · `ta`
 
-இஸ்ரேலில் வேலை வாங்கித் தருவதாகக் கூறி பணம் மோசடி செய்த நில்மினி என்ற பெண்ணை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள் கைது செய்துள்ளனர்.
+Nilmini, accused of fraudulently receiving Rs 1,689,000 without providing a promised job in Israel, was arrested by the Special Investigation Unit of the Foreign Employment Bureau based on a complaint. The arrest was made on charges related to violating the Bureau of Convention. The Bureau advises prospective foreign job seekers to verify information through its official website or hotline.
 
-கதிர்காமம், கோதமிகம பிரதேசத்தைச் சேர்ந்த பெண்ணொருவர் 1,689,000 ரூபா பணத்தைப் பெற்று, வாக்குறுதியளித்தபடி வேலை வழங்கவில்லை என நபர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேகநபரான பெண் நேற்று (12) கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சம்பந்தப்பட்ட பெண்ணை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்திற்கு அழைத்து வாக்குமூலங்களைப் பதிவு செய்ததன் பின்னர் பணியக சட்டத்தை மீறிய குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்டுள்ளார்.
+Officials of the Special Investigation Unit of the Foreign Employment Bureau have arrested a woman named Nilmini, who allegedly defrauded Israel.
 
-மேலும், பணியகத்தின் இணையதளமான www.slbfe.lk அல்லது 1989 என்ற ஹாட்லைன் எண்ணுக்கு அழைப்பதன் மூலம் வெளிநாட்டு வேலை தேடுபவர்கள் தகவல்களைப் பெறுமாறு பணியகம் மேலும் கேட்டுக்கொள்கிறது. R
+The suspect has been arrested yesterday (12) on the basis of a complaint lodged by a person that a woman from Kadirgamam, Gothamigama area has received Rs 1,689,000 and has not given a job as promised.
+
+He has been arrested on charges of violating the Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Convention.
+
+Also, the Bureau also requests foreign job seekers to get information by inviting the Bureau's website www.slbfe.lk or the hotline number 1989. Remble
 
 ◼️
 
 [Data](articles/25614241.json)
+
+[Extended Data](ext_articles/25614241.ext.json)
 
 ---
 
@@ -121,6 +139,22 @@ Accordingly, the government has taken steps to suspend the opportunity to obtain
 [Data](articles/648fe9a2.json)
 
 [Extended Data](ext_articles/648fe9a2.ext.json)
+
+---
+
+### இரு முச்சக்கர வண்டிகள் நேருக்குநேர் மோதி விபத்து : முச்சக்கர வண்டிகள் பலத்த சேதம்; ஒருவர் காயம்
+
+*2024-06-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186028) · `ta`
+
+ஹட்டன் – நோட்டன் பிரதான வீதியின் வனராஜா பகுதியில் இரு முச்சக்கரவண்டிகள் ஒன்றோடுவொன்று நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் இரண்டு முச்சக்கர வண்டிகளுக்கும் பலத்த சேதம்  ஒருவர் கடும் காயமுற்றுள்ளதாக அட்டன் பொலிஸார் தெரிவித்தனர்.
+
+13ஆம் திகதி வியாழக்கிழமை பிற்பகல் 3.30 மணியளவில் டிக்கோயாவிலிருந்து காசல்ரி பகுதியை நோக்கிச் சென்ற முச்சக்ரவண்டியும் சவுத்வனராஜா பகுதியிலிருந்து அட்டன் நோக்கிச் சென்ற முச்சக்கரவண்டியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+அதிக வேகமே விபத்துக்கான காரணமாக இருக்கலாம் எனத் தெரிவித்த பொலிஸார் விபத்துக்குள்ளான இரு முச்சக்கர வண்டிகளும் கடும் சேதத்திற்குள்ளாகியுள்ளதாகவும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/baac75ae.json)
 
 ---
 
@@ -242,6 +276,44 @@ Accordingly, a positive answer for their professional issues is expected to be a
 
 ---
 
+### அலங்கார மீன் ஏற்றுமதி மூலம் கடந்த 4 வருடங்களில் 2632 மில்லியன் ரூபா வருமானம்  - அமைச்சர் டக்ளஸ்
+
+*2024-06-13 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186019) · `ta`
+
+அலங்கார மீன் ஏற்றுமதி மூலம் கடந்த நான்கு வருடங்களில் 2632 மில்லியன் ரூபா (8.52 மில். அமெரிக்க டொலர்) வருமானம் நாட்டுக்கு கிடைத்திருப்பதாக கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+அலங்கார மீன் வளர்ப்புத் துறையை அபிவிருத்தி செய்வதற்காக கடற்றொழில் அமைச்சினால் பல்வேறு திட்டங்கள் அமுல்படுத்தப்பட்டு வருகின்றன.
+
+அலங்கார மீன் வளர்ப்பில் ஈடுபட்டுள்ளவர்களுக்கு இலங்கை நீர் உயிரின வளர்ப்பு அபிவிருத்தி அதிகார சபையினால் தாய் மீன்கள் வழங்கப்படுகின்றன.
+
+பயிற்சி மற்றும் வர்த்தக பொருட்காட்சிகள் ஏற்பாடு செய்து அவர்களுக்கு சந்தை வாய்ப்பு ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளது. நவீன தொழில்நுட்ப அறிவு வழங்கப்படுகிறது. மீன் உணவு விநியோகிக்கப்படுகிறது.
+
+மாணவர்கள் மத்தியில் அலங்கார மீன் வளர்ப்பை ஊக்குவிப்பதற்காக பாடசாலைகளில் அலங்கார மீன் வளர்ப்பு சங்கங்கள் ஏற்படுத்தப்பட்டுள்ளன.
+
+அபாயகர மீன்கள் இறக்குமதி செய்வதை தடுப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது. அத்துடன் மாவட்ட ரீதியாக அலங்கார மீன் வளர்ப்பு சங்கங்கள் உருவாக்கப்பட்டுள்ளன. இவ்வாறு அமைச்சர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/86402765.json)
+
+---
+
+### மன்னாரிலும் தபால் தொழிற்சங்கத்தினர் சுகயீன போராட்டம்
+
+*2024-06-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186024) · `ta`
+
+ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியின் ஏற்பாட்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் தொழிற்சங்க போராட்டத்திற்கு ஆதரவளிக்கும் முகமாக வியாழக்கிழமை (13) மன்னார் தபாலக ஊழியர்கள் சுகயீன விடுமுறை  போராட்டத்தை முன்னெடுத்துள்ளனர்.
+
+தபால் துறையில் நிலவும் 5 ஆயிரத்திற்கும்   மேற்பட்ட வெற்றிடங்களை நிரப்ப தவறியமை,உரிய பதவி உயர்வு வழங்காமை உள்ளிட்ட பல்வேறு கோரிக்கைகளை முன்வைத்து இன்றைய தினம் போராட்டம் முன்னெடுக்கப்பட்டிருந்தது.
+
+குறித்த, போராட்டத்திற்கு அஞ்சல் அதிபர்கள் ஆதரவளிக்காத நிலையில் ஏனைய அஞ்சல் அலுவலக சேவைகள் மன்னார் மாவட்ட அஞ்சல் திணைக்களத்தில் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/61e6f17a.json)
+
+---
+
 ### Carnival of Sri Lankans in Japan on June 15 and 16
 
 *2024-06-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197723) · `si`
@@ -267,6 +339,38 @@ There are now reports that there are nearly 400,000 Sri Lankans living in Japan 
 [Data](articles/0ca856cc.json)
 
 [Extended Data](ext_articles/0ca856cc.ext.json)
+
+---
+
+### தமிழகத்தில் கரையொதுங்கிய அனலைதீவு கடற்றொழிலாளர்களை நாட்டிற்கு அழைத்து வர நடவடிக்கை - உறவினர்களிடம் டக்ளஸ் தெரிவிப்பு
+
+*2024-06-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186022) · `ta`
+
+காலநிலை சீர்கேடு மற்றும் இயந்திரக் கோளாறு போன்றவை காரணமாக தமிழகத்தில் கரையொதுங்கிய அனலைதீவு கடற்றொழிலாளர்களை இலங்கைக்கு அழைத்து வருவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாக கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+அனலைதீவு கடற்பரப்பில் இருந்து கடந்த ஜூன் மாதம் 10 ஆம் திகதி  திங்கட்கிழமை மாலை 5.00 மணியளவில் கடற்றொழிலுக்கு சென்ற குறித்த இருவரும் கரை திரும்பாத காரணத்தினால் பதற்றம் ஏற்பட்டிருந்ததுடன், அனலைதீவு கடற்பரப்பெங்கும் கடற்படையினர் மற்றும் கடற்றொழிலாளர்களால் தீவிர தேடுதல் முன்னெடுக்கப்பட்டு வந்த நிலையில், தேடப்பட்டுவந்த இருவரும் தமிழக கடற்பரப்பில் கரையொதுங்கிய தகவல் கிடைக்கப்பெற்றது.
+
+இந்நிலையில் குறித்த இருவரது குடுப்பத்தினர் இன்று வியாழக்கிழமை (13) அமைச்சர் டக்ளஸ் தேவானந்தாவை சந்தித்து இருவரையும் இலங்கைக்கு அழைத்துவர நடவடிக்கை எடுத்து தருமாறு கோரிக்கை விடுத்துள்ள நிலையில், கடற்றொழில் அமைச்சரினால் சம்மந்தப்பட்ட அதிகாரிகள் மூலம் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/e5bb046f.json)
+
+---
+
+### மற்றுமொரு ரயில் தடம் புரள்வு ; மலையக ரயில் சேவைகள் பாதிப்பு
+
+*2024-06-13 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186020) · `ta`
+
+பதுளையில் இருந்து கொழும்பு நோக்கி பயணித்த ரயில் தலவாக்கலைக்கும் வட்டகொடைக்கும் இடையில் இன்றையதினம் மாலை தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+ரயில் தடம் புரண்டதன் காரணமாக மலையக ரயில் சேவைகள் தாமதமாகும் எனவும், ரயில் சேவையை வழமைக்கு கொண்டு வர தண்டவாளங்களை சரி செய்ய இன்னும் பல மணி நேரம் ஆகும் எனவும் ரயில்வே திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+இதேவேளை, இன்றைய தினம் காலை பாணந்துறையில் ரயில் ஒன்று தடம்புரண்டதால், கரையோர ரயில் மார்க்கத்தில் ஒருவழி பாதையில் மாத்திரம் ரயில் போக்குவரத்து முன்னெடுக்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/19dc8ebe.json)
 
 ---
 
@@ -311,6 +415,74 @@ Fernando further stated that although the government carried out rehabilitation 
 [Data](articles/05a807b6.json)
 
 [Extended Data](ext_articles/05a807b6.ext.json)
+
+---
+
+### உமாபதி ராமையா நடிக்கும் 'பித்தல மாத்தி'
+
+*2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186017) · `ta`
+
+நடிகர் உமாபதி ராமையா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'பித்தல மாத்தி' எனும் திரைப்படம், ஜூன் 14-ஆம் திகதியன்று பட மாளிகையில் மீண்டும் வெளியிடப்படுகிறது.
+
+அறிமுக இயக்குநர் மாணிக் வித்யா இயக்கத்தில் உருவாகி இருக்கும் 'பித்தல மாத்தி' எனும் திரைப்படத்தில் உமாபதி ராமையா, பால சரவணன், வினிதா லால், தம்பி ராமையா, தேவதர்ஷினி, ஆடுகளம் நரேன், காதல் சுகுமார், வித்யூலேகா ராமன், முல்லை, கோதண்டம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌ எஸ். என். வெங்கட் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மோசஸ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஸ்ரீ சரவணா ஃபிலிம் ஆர்ட்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஜி.சரவணன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/2ea5e4c7.json)
+
+---
+
+### மகாராஜா- விமர்சனம்
+
+*2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186014) · `ta`
+
+நடிகர்கள் : விஜய் சேதுபதி, அனுராக் காஷ்யப், மம்தா மோகன்தாஸ், அபிராமி, நட்டி என்கிற நட்ராஜ், சிங்கம் புலி, முனிஸ்காந்த், வினோத் சாகர் மற்றும் பலர்.
+
+குரங்கு பொம்மை என்ற படத்தின் மூலம் கவனம் ஈர்த்த படைப்பாளி நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி இருக்கும் படம் என்பதாலும், மக்கள் செல்வன் விஜய் சேதுபதி நடிப்பில் தயாராகி இருக்கும் அவரது ஐம்பதாவது திரைப்படம் என்பதாலும் மகாராஜா படத்தின் முன்னோட்டம் வெளியிடப்பட்டு இது வன்முறை மிகுந்த திரில்லர் திரைப்படம் என்ற எதிர்பார்ப்பை ஏற்படுத்தியதாலும் மகாராஜா படத்திற்கு ரசிகர்களிடையே பெரும் எதிர்பார்ப்பு இருந்தது. அதனை இந்தத் திரைப்படம் முழுமையாக பூர்த்தி செய்ததா இல்லையா என்பதை தொடர்ந்து காண்போம்.
+
+...
+
+[Data](articles/315c049a.json)
+
+---
+
+### அரசாங்கத்தின் நலன்புரி வேலைத்திட்டங்களின் பயன் விரைவாக மக்களை சென்றடைவதற்கு நடவடிக்கை எடுக்க வேண்டும் - மாகாண ஆளுநர்களிடம் ஜனாதிபதி வேண்டுகோள்
+
+*2024-06-13 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186011) · `ta`
+
+அரசாங்கத்தினால் நடைமுறைப்படுத்தப்படும் நலன்புரித் திட்டங்களை வினைத்திறனுள்ளதாக்கி அதன் பயன்களை மக்களுக்கு துரிதமாக வழங்குவதற்கு ஆளுநர்கள் பங்களிக்க வேண்டுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+மாகாண ஆளுநர்களுடன் நேற்று புதனகிழமை (12) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே  ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+மாகாண மட்டத்தில் உள்ள ஆசிரியர் பற்றாக்குறையை விரைவாகத் தீர்க்க எடுக்கப்பட வேண்டிய நடவடிக்கைகள் மற்றும் உறுமய  காணி உறுதி வழங்கும் திட்டத்தின்  வினைத்திறன் என்பன குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டது.
+
+உறுமய  காணி உறுதிகளை வழங்கும் வேலைத்திட்டத்தை வினைத்திறன் மிக்கதாக மாற்றுவதற்கு கிராம உத்தியோகத்தர்களுக்கு மேலதிகமாக மற்றுமொரு குழுவிற்கு அதிகாரத்தை வழங்கி  நடமாடும் சேவைகளை நடைமுறைப்படுத்துவதற்கான சாத்தியத்தை ஜனாதிபதி இதன்போது சுட்டிக்காட்டினார்.
+
+இது தொடர்பில் மக்களை ஆர்வமூட்டி, அவர்களுக்கு அந்த நன்மையை வழங்க வேண்டிய பொறுப்பு பிரதேச செயலாளர்களுக்கு வழங்கப்பட்டுள்ளதையும் ஜனாதிபதி ரணில் விக்ரமசிங்க நினைவுகூர்ந்தார்.
+
+...
+
+[Data](articles/36070239.json)
+
+---
+
+### The web application for university admission
+
+*2024-06-13 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186015) · `ta`
+
+Applications open from July 14 to July 05 for the University of University's 2023-2024 academic year. Eligible applicants should apply via the University Grants Commission's official site: https://www.ugc.ac.lk/.
+
+🟩
+
+The University Grants Commission has announced that applications will be sought from the eligible applicants tomorrow (14) to July 05 for the University of University for the academic year 2023 (2024).
+
+Accordingly, the applicants must go to the University Grants Commission's official website https://www.ugc.ac.lk/ and submit their applications properly.
+
+◼️
+
+[Data](articles/26dd6dc6.json)
+
+[Extended Data](ext_articles/26dd6dc6.ext.json)
 
 ---
 
@@ -383,26 +555,6 @@ He also reiterated that the trail should be declared in the Gazette.
 [Data](articles/c1efa575.json)
 
 [Extended Data](ext_articles/c1efa575.ext.json)
-
----
-
-### The web application for university admission
-
-*2024-06-13 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186015) · `ta`
-
-Applications open from July 14 to July 05 for the University of University's 2023-2024 academic year. Eligible applicants should apply via the University Grants Commission's official site: https://www.ugc.ac.lk/.
-
-🟩
-
-The University Grants Commission has announced that applications will be sought from the eligible applicants tomorrow (14) to July 05 for the University of University for the academic year 2023 (2024).
-
-Accordingly, the applicants must go to the University Grants Commission's official website https://www.ugc.ac.lk/ and submit their applications properly.
-
-◼️
-
-[Data](articles/26dd6dc6.json)
-
-[Extended Data](ext_articles/26dd6dc6.ext.json)
 
 ---
 
@@ -2171,213 +2323,5 @@ One lane, which is running towards Colombo due to the accident, vehicles traveli
 [Data](articles/0a084860.json)
 
 [Extended Data](ext_articles/0a084860.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-06-13 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197700) · `si`
-
-The Department of Meteorology warns of possible showers across the Western, Sabaragamuwa, Northwestern provinces, Matara districts, and specific areas including the Uva Province, Ampara districts, central hills' western slopes, Trincomalee, Hambantota, and Moneragala districts. Strong winds of 40-50 km/h are expected, prompting the department to advise the public to prepare for potential lightning and wind-related accidents.
-
-🟩
-
-The Department of Meteorology announces that several showers may occur in the Western, Sabaragamuwa and Northwestern provinces and in the Matara districts.
-
-Showers or night thundershowers will occur at evening or night in the Uva Province and Ampara and Ampara Districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
-
-The Department of Meteorology has kindly requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/696298fa.json)
-
-[Extended Data](ext_articles/696298fa.ext.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-06-13 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99848/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/16ed5ba2.json)
-
-[Extended Data](ext_articles/16ed5ba2.ext.json)
-
----
-
-### IMF approves third tranche of Sri Lanka bailout after second review
-
-*2024-06-13 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99847/imf-approves-third-tranche-of-sri-lanka-bailout-after-second-review) · `en`
-
-The Executive Board of the International Monetary Fund (IMF) completed the second review under the 48-month Extended Fund Facility (EFF) Arrangement, allowing the authorities to draw SDR 254 million (about US$336 million).
-
-This brings the total IMF financial support disbursed so far to SDR 762 million (about US$1 billion). The Executive Board also concluded the 2024 Article IV Consultation with Sri Lanka, the Washington-based lender said in a statement.
-
-The EFF arrangement for Sri Lanka was approved by the Executive Board on March 20, 2023 in an amount of SDR 2.286 billion (395 percent of quota or about US$3 billion). The first review of the EFF was completed by the Executive Board on December 12, 2023 with disbursements of SDR 254 million (about US$337 million).
-
-...
-
-[Data](articles/0c7b7a25.json)
-
-[Extended Data](ext_articles/0c7b7a25.ext.json)
-
----
-
-### IMF approves Sri Lanka review, calls for monetary policy for stability
-
-*2024-06-13 05:24:00* · [`economynextcom`](https://economynext.com/imf-approves-sri-lanka-review-calls-for-monetary-policy-for-stability-167761/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has approved Sri Lanka’s program review allowing the disbursement of 330 million US dollars, while calling for monetary policy to be used only for stability.
-
-“Monetary policy should continue prioritizing price stability, supported by a sustained commitment to refrain from monetary financing and safeguard central bank independence,” Kenji Okamura, Deputy Managing Director and Acting Chair said in a statement.
-
-The call comes as inflationists are calling for rates cuts to support ‘growth’ and early noises are starting to be made about ‘positive real interest rates’ based on historical inflation.
-
-Sri Lanka’s inflation is currently low as anchor conflicts have not yet re-emerged, though the operating framework of the monetary authority remains deeply flawed without a credible anchor, critics have said.
-
-...
-
-[Data](articles/f5284e82.json)
-
-[Extended Data](ext_articles/f5284e82.ext.json)
-
----
-
-### Conflict left in Sri Lanka constitution to avoid referendum
-
-*2024-06-13 05:21:00* · [`economynextcom`](https://economynext.com/conflict-left-in-sri-lanka-constitution-to-avoid-referendum-167774/) · `en`
-
-ECONOMYNEXT – The 19th Amendment created a conflict in Sri Lanka’s constitution, but it remained unresolved because the then government was determined to avoid a referendum.
-
-The deficiency in the constitution was highlighted in a report by  EconomyNext on Tuesday and later taken up during a government meeting at the highest levels, sources familiar with the issue said.
-
-The constitutional error, which has persisted since April 2015, could allow an incumbent president to extend his term by less than a year without facing a referendum.
-
-Former legislator and President’s Counsel Jayampathy Wickramaratne said the brief from the then government was to come up with a bill for a 19th Amendment which could be passed without a referendum.
-
-“As a member of the team that drafted the 19th Amendment to the Constitution, I wish to make a clarification,” Wickramaratne said, adding that they were aware of the issue.
-
-...
-
-[Data](articles/4ba2dcff.json)
-
-[Extended Data](ext_articles/4ba2dcff.ext.json)
-
----
-
-### Sri Lanka plantations to battle state directed wage hike in courts
-
-*2024-06-13 05:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-to-battle-state-directed-wage-hike-in-courts-167772/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Planters’ Association said a government mandated wage hike which amounted to 70 percent, will be contested in court, as the island’s wages were double that of India.
-
-Tea and rubber estates may have difficulties in servicing loans due to the wage hike.
-
-“The PA emphasizes that wages must be intrinsically linked to productivity to ensure the sustainability of businesses and the livelihoods of workers,” the group said in a statement.
-
-“Sri Lanka already grapples with the highest production costs, wages, and lowest productivity among all tea-growing nations.
-
-“Notably, the newly gazetted wage is double that of India, creating significant cost disparities in the global market.
-
-This unilateral increase affects not only the regional plantation companies but also over 400 private tea factories in Sabaragamuwa and the Southern province, smallholders employing external labor, and all rubber producers and factories, the statement said.
-
-...
-
-[Data](articles/cf6b0baf.json)
-
-[Extended Data](ext_articles/cf6b0baf.ext.json)
-
----
-
-### A 14 -year -old girl rescued in the cellar
-
-*2024-06-13 05:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185963) · `ta`
-
-A 14-year-old girl was kidnapped from Budhala, hidden in a cellar, and rescued by police. The abduction occurred when three youths attacked her father and took her. A 20-year-old claimed love as his motive. Police arrested additional suspects and located the girl in a relative's cellar, constructed for ventilation, after a month-long search.
-
-🟩
-
-A 14 -year -old girl was abducted in Budhala and hidden in a underground cellar, police have rescued the girl.
-
-The girl was rescued on Wednesday, the 12th, police said.
-
-Three youths who visited a house in the Budhala - Katugahagkeke area on the 9th of last month have attacked the girl's father and abducted the girl.
-
-Police say the girl was abducted by a 20 -year -old youth who claims to be in love.
-
-Following the investigation by the police, the police have arrested two more suspects who were accompanied by the main suspect.
-
-Subsequently, in investigations conducted by the suspects, the police have been able to find out about the alleged location.
-
-The girl was hidden in a cellar under the house of a relative of a relative of a main suspect in the Budhala area.
-
-In this case, the police searched the house and rescued the girl. In order to hide the girl, the room was found a month ago.
-
-The room, which is five feet tall and six feet wide, was constructed for two powder for ventilation.
-
-◼️
-
-[Data](articles/20d941d3.json)
-
-[Extended Data](ext_articles/20d941d3.ext.json)
-
----
-
-### There are fears that elections will be held;The ruling party in the uncertainty- Hakeem
-
-*2024-06-13 04:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185962) · `ta`
-
-Rauf Hakeem, leader of the Sri Lanka Muslim Congress, expressed concern over potential electoral delays under the current government, led by President Ranil Wickremesinghe. He mentioned readiness for both parliamentary and presidential elections but highlighted fears of postponement due to political maneuvering. Hakeem also addressed concerns about the government's ability to retain power, hinting at a possible shift towards supporting Sajith Premadasa, aligned with the United People's Power.
-
-🟩
-
-Rauf Hakeem, President of the Sri Lanka Muslim Congress and Kandy district parliamentarian, said that even when we are ready to face the presidential election or in the parliamentary election, we are afraid that the elections will be held.
-
-He said this while commenting to the media following a discussion held on Wednesday, the Sri Lanka Forum College, on Wednesday, on the topic of the Sri Lanka Intelligence Media Center.
-
-We and the entire country are looking for national elections. Whether it is a parliamentary election or a presidential election, we are ready to face it.
-
-But we are afraid that the current President Ranil Wickremesinghe -led government will hold elections. The United National Party General Secretary has already revealed signals to postpone parliamentary elections. It is in such a background that we have doubts.
-
-...
-
-[Data](articles/c15a226a.json)
-
-[Extended Data](ext_articles/c15a226a.ext.json)
-
----
-
-### Ranil and Sajith come to power 13
-
-*2024-06-13 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185961) · `ta`
-
-Sajith Premadasa, winning the presidency with Tamil support, vows to fully implement the 13th Amendment, a move opposed by many. Critics argue it promotes separatism, while supporters see it as essential for regional autonomy. The amendment's history and implications are complex, with both praise and criticism from various quarters.
-
-🟩
-
-Opposition Leader Sajith Premadasa wins the presidential election with the decisive votes of Tamils ​​will fully implement the 13th Amendment. Opposition Leader and President in the 13th Amendment are in the same position. The National Freedom Front parliamentarian Jayantha Samaraweera said that the majority of the people should pay special attention to the nationalism.
-
-He was speaking at a media briefing held at the National Freedom Front office in Sri Jayawardenapura Fort area on Wednesday (12).
-
-Opposition leader Sajith Premadasa will go to the Northern Province and implement the 13th Amendment to the Tamil people in the history of Sri Lanka's political history.. Since most people are against the 13th Amendment, none of the opposition leaders have commented.
-
-...
-
-[Data](articles/e2313a7b.json)
-
-[Extended Data](ext_articles/e2313a7b.ext.json)
 
 ---

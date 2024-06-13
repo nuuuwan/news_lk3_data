@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 00:50:54**
+As of **2024-06-14 01:04:09**
 
 ## Newspaper Stats
 
-*Scraped **30,275** Articles*
+*Scraped **30,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,753
-dailyftlk | 1,828
+dailyftlk | 1,832
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,542
@@ -26,11 +26,67 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,259 (99.9%) of 30,275 articles have been extended.
+30,270 (100.0%) of 30,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Is there another way? Debt restructuring, IMF and future of Sri Lanka
+
+*2024-06-14 00:48:18* · [`dailyftlk`](https://www.ft.lk/opinion/Is-there-another-way-Debt-restructuring-IMF-and-future-of-Sri-Lanka/14-763052) · `en`
+
+International experiences on debt restructuring and negotiating with the International Monetary Fund (IMF) were shared with civil society, politicians and the media on 10 June at the Sri Lanka Foundation Institute in Colombo.
+
+The former Minister of Economy of Argentina, Professor Martín Guzmán, currently at Columbia University in New York, University of Massachusetts, Amherst economist and International Development Economics Associates (IDEAs) co-founder Professor Jayati Ghosh, and IDEAs Executive Director Charles Abugre made presentations at the seminar titled, ‘Is there another way? Debt restructuring, the IMF and the future of Sri Lanka’. This event is an initiative of the Yukthi Collective, a platform of activists and academics engaged in research and advocacy in support of working people’s struggles for democracy and justice.
+
+...
+
+[Data](articles/5dd9c8be.json)
+
+---
+
+### Olympian deception
+
+*2024-06-14 00:44:44* · [`dailyftlk`](https://www.ft.lk/opinion/Olympian-deception/14-763051) · `en`
+
+Although Sri Lanka never wins any medals, the results on the field have no relevance to the greedy officials who are on another track
+
+While the best athletes of the world are gathering in France for the great Olympic Games, the Sri Lankan Olympic Committee (NOC) is to be investigated by the Police on instructions of the Attorney-General. Our Olympic officials have not only failed dismally to raise our sporting profile; they have embarrassed the idea of sports by their deep rooted corruption.
+
+...
+
+[Data](articles/805a9ad6.json)
+
+---
+
+### Beyond CSR: Looking inward for social impact
+
+*2024-06-14 00:43:04* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-CSR-Looking-inward-for-socialimpact/4-763050) · `en`
+
+The true essence of CSR is its integration into the very fabric of a company’s operations
+
+For years now, Corporate Social Responsibility (CSR) has been a buzzword among both development and private sectors. It is easily one of the most misinterpreted concepts – its essence diluted when communicated and implemented within the corporate world. Businesses often misunderstand and misapply the concept of CSR: rather than integrating CSR into core business practices, the trend is a stronger focus on charitable initiatives. While still commendable, businesses can start by looking inward and truly embracing CSR with a deeper, more authentic approach that embodies company policies, practices, and culture.
+
+...
+
+[Data](articles/a3e70bab.json)
+
+---
+
+### Nation’s talent retention – priority beyond politics: A strategic approach
+
+*2024-06-14 00:35:49* · [`dailyftlk`](https://www.ft.lk/columns/Nation-s-talent-retention-priority-beyond-politics-A-strategic-approach/4-763049) · `en`
+
+One major reason for people to seek greener pastures is economic prosperity and quality of life
+
+Today there is a mass exodus of professionals and not so professional citizens from this country to perceived “greener pastures” overseas. From doctors to engineers, lawyers to accountants, private to public sector employees, academics to students, people are migrating or attempting to migrate.
+
+...
+
+[Data](articles/999354b0.json)
+
+---
 
 ### Nation’s sovereignty and international cricket
 
@@ -45,6 +101,8 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 ...
 
 [Data](articles/36cdf869.json)
+
+[Extended Data](ext_articles/36cdf869.ext.json)
 
 ---
 
@@ -510,6 +568,8 @@ A collective of civil society organisations held a protest outside the office of
 
 [Data](articles/a958e8c2.json)
 
+[Extended Data](ext_articles/a958e8c2.ext.json)
+
 ---
 
 ### Two -wheelers collided head -on: three -wheelers severe damage;One injury
@@ -630,6 +690,8 @@ A bond maturing on 01.10.2032 closed stable at 11.95/12.15 percent. (Colombo/Jun
 
 [Data](articles/07db7fce.json)
 
+[Extended Data](ext_articles/07db7fce.ext.json)
+
 ---
 
 ### President requests governors to intervene and expedite delivery of welfare benefits to public
@@ -734,6 +796,8 @@ All 110 billion rupees offered of 01 December 2031 bonds were sold at 12.00 perc
 
 [Data](articles/5c47d4da.json)
 
+[Extended Data](ext_articles/5c47d4da.ext.json)
+
 ---
 
 ### Another train strike is nearing
@@ -779,6 +843,8 @@ The pomegranate harvest in Chenkaladi has earned farmers revenues of up to 3.5 m
 ◼️
 
 [Data](articles/f36e4f8f.json)
+
+[Extended Data](ext_articles/f36e4f8f.ext.json)
 
 ---
 
@@ -969,6 +1035,8 @@ DFCC Bank Plc closed flat at 78.00, Hatton National Bank Plc closed down at 203.
 ...
 
 [Data](articles/3cadd343.json)
+
+[Extended Data](ext_articles/3cadd343.ext.json)
 
 ---
 
@@ -1436,6 +1504,8 @@ Late last year, Wijesekara told parliament that several countries including Russ
 
 [Data](articles/d7c91fb4.json)
 
+[Extended Data](ext_articles/d7c91fb4.ext.json)
+
 ---
 
 ### A warning from former police officers
@@ -1568,6 +1638,8 @@ However, there is a difference in the work that men and women do while being pai
 
 [Data](articles/fda64a5c.json)
 
+[Extended Data](ext_articles/fda64a5c.ext.json)
+
 ---
 
 ### Sri Lanka courts to sell vehicles, machinery seized for suspected involvement in crimes
@@ -1587,6 +1659,8 @@ He said keeping such assets for long duration has become a huge issue for courts
 ...
 
 [Data](articles/86b3aca2.json)
+
+[Extended Data](ext_articles/86b3aca2.ext.json)
 
 ---
 
@@ -1824,6 +1898,8 @@ Calling itself the ‘Coalition Against Partition of Sri Lanka’, the group car
 
 [Data](articles/04286597.json)
 
+[Extended Data](ext_articles/04286597.ext.json)
+
 ---
 
 ### Womanna Piyumalige Remanded Rs. 50
@@ -1983,6 +2059,8 @@ President Ranil Wickremesinghe, the leader of the United National Party (UNP), h
 ...
 
 [Data](articles/6663dd07.json)
+
+[Extended Data](ext_articles/6663dd07.ext.json)
 
 ---
 
@@ -2239,103 +2317,5 @@ Meanwhile, the court has also ordered to communicate the Controller General of I
 [Data](articles/7020ae25.json)
 
 [Extended Data](ext_articles/7020ae25.ext.json)
-
----
-
-### Sri Lanka in final stages of reaching in-principle deal with CDB: State Minister
-
-*2024-06-13 11:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-final-stages-of-reaching-in-principle-deal-with-cdb-state-minister-167825/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the final stages of reaching an in-principle agreement to restructure debt of China Development Bank, State Minister for Finance Shehan Semasinghe said.
-
-Sri Lanka has debt classified as commercial and bilateral for China Development Bank according to published debt data.
-
-The International Monetary Fund approved a review on June 12, pending the finalization of bilateral and commercial debt.
-
-Sri Lanka would not have been able to complete the review without the support given by the creditors, Semasinghe said.
-
-Sri Lanka hopes to wrap up final agreement with bilateral creditors and also reach preliminary deals with private creditors before the end of June, he said. (Colombo/June13/2024)
-
-◼️
-
-[Data](articles/911e9889.json)
-
----
-
-### Gold Malah Girls on CCTV Camera
-
-*2024-06-13 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197711) · `si`
-
-CCTV footage captures a theft incident where a boy steals gold necklaces from a woman near Kesbewa and Bandaragama roads. The thief, riding a stolen motorcycle registered to a woman in Moratuwa, stops at a supermarket before making off with the loot.
-
-🟩
-
-The CCTV camera was recorded in the front of a woman's necklaping Ranmura in front of a Makandane road on the Kesbewa and Bandaragama road.
-
-The boy has three and a half-gold necklace and golden green necklaces.
-
-The CCTV scenes were recorded in the cCTV scenes when a three-wheeler had been stopped to the road to the supermarket.
-
-The motorcycle conducted by the registration number on the rider, the motorcycle was registered with a woman in Moratuwa and it was revealed that it was stolen in the area on the 10th night.
-
-◼️
-
-[Data](articles/10e9759c.json)
-
-[Extended Data](ext_articles/10e9759c.ext.json)
-
----
-
-### Sri Lanka rupee trades at 303.90/304.05 to US dollar
-
-*2024-06-13 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-303-90-304-05-to-us-dollar-167793/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.90/304.05 to the US dollar on Thursday in mid-day trading, while bond yields were broadly stable, and stocks opened 0.13 percent higher, dealers said.
-
-The rupee closed at 303.80/304.00 to the greenback on Wednesday.
-
-In equities, Colombo’s All Share Price Index fell during mid-day trade after initially opening higher. It was down 0.56 points to 12,390 while the S&P SL20 of more liquid stocks was down 0.18 percent or 6.48 points to 3,679, in mid-day trade.
-
-In the secondary market, yields were broadly stable during the auction, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.05/20 percent, up from 10.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted at stable at 10.70/85 percent.
-
-A bond maturing on 01.07.2028 was quoted at 11.10/15 percent, down from 11.10/20 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.80/95 percent down from 11.80/12.00 percent. (Colombo/Jun13/2024)
-
-◼️
-
-[Data](articles/993d99ad.json)
-
----
-
-### Seized ginger worth Rs 3 lakh
-
-*2024-06-13 11:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-3-லட்சம்-மதிப்பிலான-இஞ்சி-பறிமுதல்/175-338851) · `ta`
-
-Customs officials in India confiscated 60 bundles of ginger worth Rs 3 lakh, suspected to be smuggled, from a house near Marikkayar Pattinam beach in the Ramanathapuram district. The owner of the house is also under scrutiny as part of the investigation.
-
-🟩
-
-60 ginger bundles worth Rs 3 lakh have been confiscated for smuggling to the country near the Marikkayar Pattinam beach next to the Ramanathapuram district.
-
-The owner of the house where the bundles have been confiscated by the Customs officials have been seized by the Customs Department.
-
-In the early hours of Thursday (13), the Mandapam Customs officials continued to conduct a series of raids on Wednesday night (12) on the basis of confidential information received by the Customs Department that the Mandapam Customs Department had been smuggled into a ginger boat from the Marikkayar Pattinam beach.
-
-At the time, the owner of the house along the Marikaiyarpattinam beach was unknown.
-
-Subsequently, the gingerbread bundles are being investigated by the owner of the house where Customs officials have taken the office.
-
-The first phase of the investigation revealed that the cooking ginger was smuggled into the country. Customs officials said the seized ginger may be about Rs 3 lakh.
-
-◼️
-
-[Data](articles/211ad957.json)
-
-[Extended Data](ext_articles/211ad957.ext.json)
 
 ---

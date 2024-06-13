@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 12:07:10**
+As of **2024-06-13 12:19:05**
 
 ## Newspaper Stats
 
-*Scraped **30,168** Articles*
+*Scraped **30,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,738
 dailyftlk | 1,827
 adalk | 2,594
 adaderanalk | 3,418
-tamilmirrorlk | 3,530
+tamilmirrorlk | 3,533
 virakesarilk | 4,622
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,858
@@ -26,63 +26,99 @@ adaderanasinhalalk | 4,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,163 (100.0%) of 30,168 articles have been extended.
+30,168 (100.0%) of 30,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### රන් මාල කොල්ලය CCTV කැමරාවේ
+### Gold Malah Girls on CCTV Camera
 
 *2024-06-13 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197711) · `si`
 
-කැස්බෑව, බණ්ඩාරගම මාර්ගයේ මාකන්දන සුපිරි වෙළෙඳසැලක් ඉදිරිපිටදී කාන්තාවකගේ ගෙල බැදි  රන්මාලය හා පෙන්ඩන් තුනක් යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයකු කොල්ලකා පළා යන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
+CCTV footage captures a theft incident where a boy steals gold necklaces from a woman near Kesbewa and Bandaragama roads. The thief, riding a stolen motorcycle registered to a woman in Moratuwa, stops at a supermarket before making off with the loot.
 
-එලෙස කොල්ලකා ඇත්තේ රුපියල් ලක්ෂ 5කට පමණ අධික වටිනා පවුම් 2 හමාරක් බර රන් මාලයක් සහ රන් පෙන්ඩන් තුනකි.
+🟩
 
-අදාළ කාන්තාව සුපිරි වෙළඳ සැලට ගොස් මාර්ගයට පැමිණ ත්‍රිරෝද රථයක් බලාපොරොත්තුව රැඳී සිටියදී ඇය ආසන්නයේම නතර කර තිබූ  ස්කූටර් වර්ගයේ යතුරු පැදියක සිටි පුද්ගලයෙකු එකවරම ඇයගේ ගෙල බැඳි රන්මාලය කඩාගෙන යතුරුපැදියෙන් බටුවන්දර දෙසට පළ යන අයුරු එම CCTV දර්ශනවල සටහන්ව තිබිණි.
+The CCTV camera was recorded in the front of a woman's necklaping Ranmura in front of a Makandane road on the Kesbewa and Bandaragama road.
 
-පළා ගිය යතුරුපැදියේ ලියාපදිංචි අංකය අනුව සිදුකළ පරීක්ෂාවේදී එම යතුරු පැදිය මොරටුව ප්‍රදේශයේ කාන්තාවකගේ නමට ලියාපදිංචි එකක් බවත් එය ඉකුත් 10 වෙනි දින රාත්‍රියේ එගොඩවීර ප්‍රදේශයේදී සොරාගෙන ගොස් ඇති බවට අනාවරණය වී යැයි පොලීසිය පැවසීය.
+The boy has three and a half-gold necklace and golden green necklaces.
+
+The CCTV scenes were recorded in the cCTV scenes when a three-wheeler had been stopped to the road to the supermarket.
+
+The motorcycle conducted by the registration number on the rider, the motorcycle was registered with a woman in Moratuwa and it was revealed that it was stolen in the area on the 10th night.
 
 ◼️
 
 [Data](articles/10e9759c.json)
 
+[Extended Data](ext_articles/10e9759c.ext.json)
+
 ---
 
-### கல்முனையில் இலங்கை போக்குவரத்து சபை ஊழியர்கள் போராட்டம்
+### ரூ.3 லட்சம் மதிப்பிலான இஞ்சி பறிமுதல்
+
+*2024-06-13 11:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-3-லட்சம்-மதிப்பிலான-இஞ்சி-பறிமுதல்/175-338851) · `ta`
+
+இராமநாதபுரம் மாவட்டம் மண்டபம் அடுத்த மரைக்காயர் பட்டினம் கடற்கரை அருகே நாட்டிற்கு கடத்துவதற்காக வீட்டின்  பின்புறம் பதுக்கி வைக்கப்பட்டிருந்த ரூ.3 லட்சம் மதிப்பிலான 60 இஞ்சி மூட்டைகளை பறிமுதல் செய்யப்பட்டுள்ளன.
+
+குறித்த மூட்டைகள் மண்டபம் சுங்கத்துறை அதிகாரிகளால் பறிமுதல் செய்த நிலையில் சமையல் இஞ்சி மூட்டைகளை பதுக்கி வைத்திருந்த  வீட்டின் உரிமையாளர் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+
+இந்நிலையில் வியாழக்கிழமை (13) அதிகாலை இலங்கைக்கு மண்டபம் அடுத்துள்ள மரைக்காயர் பட்டினம் கடற்கரையிலிருந்து சமையல் இஞ்சி நாட்டுப் படகில் கடத்த இருப்பதாக மண்டபம் சுங்கத் துறை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவல் அடிப்படையில் புதன்கிழமை இரவு(12)  மரைக்காயர்பட்டிணம் கடற்கரையோரம் உள்ள வீடுகள் மற்றும் மீன் வைக்கும் கம்பெனி உள்ளிட்ட  பகுதிகளில் தொடர்ந்து அதிரடி சோதனை நடத்தினர்.
+
+அப்போது மரைக்காயர்பட்டிணம் கடற்கரையோரமாக உள்ள வீட்டின் உரிமையாளர் பெயர் தெரியாத நிலையில் அந்த வீட்டின் பின்புறம் இருந்து 60 சாக்கு  மூட்டைகளில் சுமார் 2 டன் எடை கொண்ட சமையல் இஞ்சி பறிமுதல் செய்யப்பட்டது.
+
+...
+
+[Data](articles/211ad957.json)
+
+---
+
+### Sri Lanka Transport Board (SLTB) workers protest in Kalmunai
 
 *2024-06-13 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185971) · `ta`
 
-கல்முனையில் இலங்கை போக்குவரத்து சபை  ஊழியர்கள்  பஸ் நிலையத்தில் இன்று வியாழக்கிழமை (13) போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+SLTB employees in Kalmunai protested at the bus station on 13th, demanding safety and opposing integration services. The protest followed a conflict between SLTB, EPO, and private bus workers, leading to hospitalizations. Travelers faced difficulties, including long waits for buses and congestion from private buses.
 
-இலங்கை போக்குவரத்து சபை ஊழியர்களின் பாதுகாப்பினை  வலியுறுத்தியும் ஒருங்கிணைந்த சேவை வேண்டாம் என தெரிவித்தும் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+🟩
 
-இலங்கை போக்குவரத்து சபையின் தனித்துவத்தை சிதைக்காதே, போக்குவரத்து அமைச்சு தனியாருக்காகவா என்ற வாசகங்கள் அடங்கிய பதாகைகளுடன் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+The Sri Lanka Transport Board (SLTB) employees in Kalmunai are engaged in a protest at the bus station on Thursday (13).
 
-கடந்த  செவ்வாய்க்கிழமை நேர காலதாமதம் என குறிப்பிட்டு அம்பாறை கல்முனை ஒருங்கிணைந்த சேவையில் ஈடுபடும் இ.போ.ச ஊழியர்களுக்கும் தனியார் பஸ் ஊழியர்களுக்கும் முரண்பாடு ஏற்பட்டு கைகலப்பில் முடிவடைந்திருந்து. இதன்போது இரு தரப்பினரைச் சேர்ந்தவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்திருந்தனர்.
+They are engaged in the struggle to emphasize the safety of the Sri Lanka Transport Board employees and not the integrated service.
 
-இந்நிலையில் கல்முனை தலைமையக பொலிஸாரினால் இ.போ.சபை ஊழியர்கள் சிலர் கைது செய்யப்பட்டு தடுப்பு காவலில் வைக்கப்பட்டுள்ளதாகவும் குற்றச்சாட்டுக்களை போராட்டத்தில் ஈடுபட்டவர்கள் குறிப்பிட்டனர்.
+Do not distort the uniqueness of the Sri Lanka Transport Board, they are struggling with banners containing the words "Transport Ministry".
+
+The Amparai Kalmunai Integrated Service ended on Tuesday's time and ended in a conflict with the EPO employees and private bus workers.. The two sides were admitted to the hospital and were being treated.
+
+In this case, the protesters said that some of the employees of the EPFA had been arrested and detained by the Kalmunai headquarters.
 
 ...
 
 [Data](articles/52648d8c.json)
 
+[Extended Data](ext_articles/52648d8c.ext.json)
+
 ---
 
-### யாழ். வடமராட்சி பகுதியில் 135 கிலோ கிராம் கஞ்சா மீட்பு!
+### Yall. 135 kg of cannabis recovery in Vadamarachchi
 
 *2024-06-13 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185975) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு தாளையடி பகுதியில் 135 கிலோ கிராம் கேரள கஞ்சா இன்று வியாழக்கிழமை (13) அதிகாலை 4:45 மணியளவில்  மீட்கப்பட்டுள்ளது.
+At 4:45 am today, 135 kg of Kerala cannabis was discovered and confiscated in Vadamarachchi by the Navy and Special Action Force after a search in the Kanjati area. The suspects fled, and the drugs were handed over to the Maruthankani Police Station for legal proceedings.
 
-கஞ்ச கடத்தல் இடம்பெறுவதாக கடற்படை புலனாய்வு பிரிவினருக்கு கிடைத்த  தகவலிற்கு  அமைவாக  வெற்றிலைக்கேணி கடற்படை மற்றும் சிறப்பு அதிரடி படையினர்  இணைந்து தாளையடி பகுதியில் தேடுதல் நடாத்தியுள்ளனர். அவ்வேளை கஞ்சா கடத்தலில் ஈடுபட்டவர்கள் தப்பிச் சென்றுள்ளனர்.
+🟩
 
-அங்கு காணப்பட்ட  135  கிலோ கிராம் எடையுள்ள 03 கேரள கஞ்சா பொதிகளை கைப்பற்றிய வெற்றிலைக்கேணி  கடற்படை, மற்றும் சிறப்பு அதிரடிப்படையினர் குறித்த கஞ்சாவை பொதிகளை  மேலதிக சட்ட நடவடிக்கைகளுக்காக  மருதங்கேணி பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+135 kg of Kerala cannabis has been recovered at 4:45 am today (13).
+
+In accordance with the information received by the Navy Intelligence Unit, the Navy and Special Action Force have been searching for the Kanjati area.. Those involved in the trafficking of cannabis have escaped.
+
+The packs were handed over to the Maruthankani Police Station for further legal action, which seized three Kerala cannabis packages weighing 135 kg of Kerala cannabis and Special Task Force.
 
 ◼️
 
 [Data](articles/abb86229.json)
+
+[Extended Data](ext_articles/abb86229.ext.json)
 
 ---
 
@@ -252,19 +288,43 @@ Amal Perera, Dr. Namal Perera, Dr. Namal Perera, Dr. Namal Perera and Aduriya Pa
 
 ---
 
-### சர்வதேச நாணய நிதியத்திற்கு நிதி  இராஜாங்க அமைச்சர் செஹான் சேமசிங்க நன்றி தெரிவிப்பு
+### Minister of State for Finance Sehan Semasinghe thanks to the IMF
 
 *2024-06-13 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185972) · `ta`
 
-விரிவாக்கப்பட்ட நிதி வசதி திட்டத்தின் கீழ் மூன்றாவது தவணையை விடுவிப்பதற்கு ஒத்துழைத்த சர்வதேச நாணய நிதிய உறுப்பினர்களுக்கும் அதன் பணிக்குழாமினருக்கும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க நன்றி தெரிவித்துள்ளார்.
+Sehan Semasinghe, Minister of Finance, thanked the IMF and its Task Force for approving a further $336 million under an extended credit facility, crucial for Sri Lanka's economic recovery and growth.
 
-அத்துடன், நாட்டின் பொருளாதார மீட்சிக்கும் வளர்ச்சிக்குமான தொடர்ச்சியான அர்ப்பணிப்பை இந்த செயற்பாடு குறித்து நிற்கின்றது என்றும் நிதி  இராஜாங்க அமைச்சர் செஹான் சேமசிங்க குறிப்பிட்டார்.
+🟩
 
-இலங்கைக்கு வழங்கப்பட்டுள்ள நீடிக்கப்பட்ட கடன் வசதியின் 2 ஆவது மதிப்பாய்வை நிறைவேற்றி 3 ஆவது கட்ட கொடுப்பனவுக்கான 336 மில்லியன் அமெரிக்க டொலர்களை வழங்க சர்வதேச நாணய நிதியத்தின் நிறைவேற்றுக்குழு அங்கீகாரம் வழங்கியுள்ள நிலையிலேயே நிதி இராஜாங்க அமைச்சர் நன்றி தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Minister of Finance Sehan Semasinghe thanked the International Monetary Fund and its Task Force for the release of the third term under the expanded financial facility.
+
+The Minister of Finance Sehan Semasinghe said that this process is a continuous commitment to the country's economic recovery and growth.
+
+The Minister of State for Finance has thanked the International Monetary Fund Executive Committee as the Executive Committee of the IMF has approved US $ 336 million for the 3rd phase of the extended credit facility provided to Sri Lanka.
 
 ◼️
 
 [Data](articles/968b8024.json)
+
+[Extended Data](ext_articles/968b8024.ext.json)
+
+---
+
+### அஞ்சல் ஊழியர்கள் பணிப்புறக்கணிப்பு
+
+*2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்கள்-பணிப்புறக்கணிப்பு/175-338845) · `ta`
+
+ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கம் நேற்று (12) நள்ளிரவு முதல் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையை ஆரம்பித்துள்ளது.
+
+இன்று (13) நள்ளிரவு வரை நாடளாவிய ரீதியில் இந்த பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கத்தின் அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.
+
+அஞ்சல் திணைக்களத்தில் நிலவும் ஊழியர் பற்றாக்குறைக்கு உடனடி தீர்வை வழங்குமாறு அதிகாரிகளுக்கு அறிவிப்பதே இந்த தொழிற்சங்க நடவடிக்கையின் நோக்கம் என அவர் குறிப்பிட்டார்.
+
+எவ்வாறாயினும், அனைத்து அஞ்சல் ஊழியர்களின் விடுமுறையையும் உடனடியாக அமுலுக்கு வரும் வகையில் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளதாக அஞ்சல் மா அதிபர் ருவன் சத்குமார தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/18aed32a.json)
 
 ---
 
@@ -314,25 +374,31 @@ However, the economy is still at risk, and the Monetary Fund points out that the
 
 ---
 
-### யாழில் ஊடகவியலாளர் வீடு மீது தாக்குதல்
+### Attack on journalist's house in Jaffna
 
 *2024-06-13 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185969) · `ta`
 
-யாழ்ப்பாணம் - அச்சுவேலியில் உள்ள ஊடகவியலாளர் ஒருவரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்டுள்ளனர்.
+In Jaffna, unidentified individuals broke into journalist Thambichurai Pradeepan's home in Achchuveli, setting his belongings on fire. The attack occurred at 12:15 am, involving five motorcycles. Vehicles and property outside the house were also targeted. Found inside the house were pamphlets warning against misrepresenting transgender sentiments. The Achchuveli police are investigating the motive behind this attack.
 
-குறித்த தாக்குதல் சம்பவம் இன்று வியாழக்கிழமை அதிகாலை 12.15 மணியளவில் அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது நடத்தப்பட்டது.
+🟩
 
-இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஐந்து பேர் கொண்ட வன்முறைக்கும்பலே குறித்த வன்முறையில் ஈடுபட்டுள்ளதாக தெரியவருகிறது.
+Unidentified persons have broken into the house of a journalist in Jaffna - Achchuveli and set fire to their possessions.
 
-இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+The attack was held at around 12.15 am today at around 12.15 am on the house of journalist Thambichurai Pradeepan in Achuveli, Kali Temple area.
 
-"திருநங்கைளின் உணர்வுகளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டுள்ளது.
+It has been reported that five motorcycles have been involved in violence.
 
-தாக்குதலுக்கான காரணம் தெரியவராத நிலையில் சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
+
+The pamphlets printed on the "do not misrepresent the sentiments of the transgender" have been put in the house where the attacked.
+
+Achchuveli police have launched an investigation into the incident as the cause of the attack is unknown.
 
 ◼️
 
 [Data](articles/88c3f60c.json)
+
+[Extended Data](ext_articles/88c3f60c.ext.json)
 
 ---
 
@@ -1029,6 +1095,20 @@ Premanandarasa Krishnananda (age 30) from Tirunelveli, who is a feminine physici
 [Data](articles/7f1a08f6.json)
 
 [Extended Data](ext_articles/7f1a08f6.ext.json)
+
+---
+
+### இரண்டாவது மீளாய்வுக்கு ஐ.எம்.எப். ஒப்புதல்
+
+*2024-06-13 02:20:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-மீளாய்வுக்கு-ஐ-எம்-எப்-ஒப்புதல்/175-338839) · `ta`
+
+சர்வதேச நாணய நிதியத்தால் இலங்கைக்கு அறிமுகப்படுத்தப்பட்ட வேலைத்திட்டத்தின் இரண்டாவது மீளாய்வுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+
+"இலங்கையின் வேலைத்திட்டத்தின் 2 ஆவது மீளாய்வுக்கு சர்வதேச நாணய நிதியம் ஒப்புதல் அளித்துள்ளது. பொருளாதார சீர்திருத்தங்களை முன்னெடுத்துச் செல்வதற்கும், அனைத்து இலங்கையர்களுக்கும் வளமான எதிர்காலத்தைப் பாதுகாப்பதற்கும் எங்களின் அர்ப்பணிப்புக்கு இந்தச் சாதனை ஒரு சான்றாகும்" என்று குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/6830b174.json)
 
 ---
 
@@ -2201,81 +2281,5 @@ Senior Assistant Secretary Sarathajeli Manharan is the Secretary to the Investig
 [Data](articles/49bb6f19.json)
 
 [Extended Data](ext_articles/49bb6f19.ext.json)
-
----
-
-### Another petition of the election
-
-*2024-06-12 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197693) · `si`
-
-PAFFREL, through its Executive Director Rohana Hettiarachchi, filed a Supreme Court petition for fair nomination processes in Local Government Elections. The court, led by Chief Justice Jayantuni Jayasuriya, directed the Ministry of Finance and other agencies to support PAFFREL's efforts. Prime Minister Dinesh Gunawardena was named a respondent but later removed from the petition.
-
-🟩
-
-PAFFREL has filed a petition in the Supreme Court for the nomination of nominations for Local Government Elections to promote their work.
-
-The petition has been filed by its Executive Director Rohana Hettiarachchi.
-
-Accordingly, the Secretary to the Ministry of Finance and its heads are to advise the governmental agencies and its heads of government resources to promote state resources to promote state resources to promote their work.The Supreme Court ordered the petition asking for an order to issue an order on July 3.
-
-The petition was called before Chief Justice Jayantuni Jayasuriya, Kumuduni Wickremasinghe and Achala Weddapwuli Bench.
-
-Prime Minister Dinesh Gunawardena, who has been appointed as the respondents in the petitioner, to be resigned as respondents in the petitioner.
-
-◼️
-
-[Data](articles/6dc4de6a.json)
-
-[Extended Data](ext_articles/6dc4de6a.ext.json)
-
----
-
-### In the country, computer knowledge is up 39 percent
-
-*2024-06-12 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/185927) · `ta`
-
-Computer literacy in the country has surged by 39%, with notable disparities between provinces. The Western Province leads with a 33.55% ranking, while the Eastern Province lags below 8.6%. Gender-wise, male computer skills have grown by 40.9%, compared to 37.2% for females. Digital knowledge across all ages has increased significantly, especially among 20-24 year olds, reaching 93.8%. Internet usage stands at 51%, with email adoption slightly lower.
-
-🟩
-
-System Knowledge has increased by 39 percent in the country. The Additional Director General of the Department and Statistics Department Samali Karunaratne said that the Western Province is at a high level and the Eastern Province.
-
-He was speaking at a media briefing held at the Department of Value and Statistics on Wednesday (12).
-
-Constants on computer knowledge based on factors including age and vocational improvement. Accordingly, men's computer knowledge has risen by 40.9 per cent and women's computer knowledge has increased by 37.2 per cent. The computer knowledge rate of 15 to 19 years of age is 79.4 percent.
-
-In addition, digital knowledge of 5 to 69 years of age has risen by 63.5 per cent. Men's digital knowledge rose by 65.9 per cent and women's digital knowledge increased by 61.3 per cent. Accordingly, digital knowledge of 20 to 24 years of age is 93.8 percent.
-
-...
-
-[Data](articles/5a1f89c5.json)
-
-[Extended Data](ext_articles/5a1f89c5.ext.json)
-
----
-
-### Honor to young man who released a video of the girl attacked
-
-*2024-06-12 18:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-தாக்கப்படும்-வீடியோவை-வெளியிட்ட-இளைஞனுக்கு-கௌரவிப்பு/175-338823) · `ta`
-
-A young man, Tarusha Sandaruwan Kodikara, was honored and awarded Rs 5 lakhs after releasing a video of a child abuse incident in Mullaitivu. The suspect, Kukul Saminda, was arrested, and five others involved were remanded. The honor and payment were facilitated by the Public Security Minister and the Chief of Police.
-
-🟩
-
-Tarusha Sandaruwan Kodikara, a young man who released the video of a four -year -old attack on a 4 girl in the Mullaitivu - Manalaru (Welioya) area, was honored and paid Rs 5 lakhs.
-
-Kukul Saminda, a suspect, was immediately arrested by the police for a video posted on social media.
-
-Five people were arrested in connection with the incident and the magistrate had ordered the suspects to be remanded until the 19th.
-
-In the meantime, the suspect, Kukul Saminda, a suspect, who recorded a video of the girl, was honored by the police today and the young man was paid 5 lakh rupees.
-
-The money was issued by Public Security Minister Tran Ales and the Chief of Police, Patriot Tennakoon.. Remble
-
-◼️
-
-[Data](articles/bb31b3b7.json)
-
-[Extended Data](ext_articles/bb31b3b7.ext.json)
 
 ---

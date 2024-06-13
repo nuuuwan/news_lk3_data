@@ -1,126 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 17:06:29**
+As of **2024-06-13 16:51:48**
 
 ## Newspaper Stats
 
-*Scraped **30,217** Articles*
+*Scraped **30,213** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 275
+colombotelegraphcom | 273
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,604
+adalk | 2,603
 adaderanalk | 3,424
 tamilmirrorlk | 3,537
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,867
+adaderanasinhalalk | 4,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,213 (100.0%) of 30,217 articles have been extended.
+30,209 (100.0%) of 30,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### ඉන්දීය මුදල් ඇමති සහ ශ්‍රී ලංකා මහකොමසාරිස්වරිය අතර හමුවක්
-
-*2024-06-13 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197721) · `si`
-
-ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස් සහ ඉන්දීය මුදල් අමාත්‍ය නිර්මලා සීතාරාමන් අතර හමුවක් නවදිල්ලියේ දී සිදුවී තිබේ.
-
-එහිදී නිර්මලා සීතාරාමන් යළිත් වරක් ඉන්දියාවේ මුදල් අමාත්‍යවරිය ලෙස පත්වීම සම්බන්ධයෙන් ශ්‍රී ලංකා මහ කොමසාරිස්වරිය ඇයට සුබ පැතුම් එක් කර ඇත.
-
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පවතින මිත්‍රත්වය සහ සහයෝගීතාව වැඩිදියුණු කිරීම සඳහා ශ්‍රී ලංකාව කැපවී සිටින බවද එහිදී සඳහන් කර ඇති බව වාර්තා විය.
-
-◼️
-
-[Data](articles/ee7a3dba.json)
-
----
-
-### To the attention of Senthil Thondaman
+### செந்தில் ​தொண்டமானின் கவனத்துக்கு
 
 *2024-06-13 16:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானின்-கவனத்துக்கு/175-338871) · `ta`
 
-President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have called upon K. Jayasiril, former chairman and religious activist of the Karadivu Pradeshiya Sabha, regarding a two-day auctioneer event scheduled for July 11th and 12th in Kadirgama. They emphasize the importance of adhering to traditional practices and request that the event be officially declared in the Gazette.
+கதிர்காமக் காட்டுப்பாதை திறப்பு தினக் குழப்பத்தை தீர்த்து வைக்குமாறு   ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் ஆகியோரிடம் காரைதீவு பிரதேச சபையின் முன்னாள் தவிசாளரும் சமய ஆர்வலருமான கி.ஜெயசிறில் வேண்டுகோள் விடுத்துள்ளார்.
 
-🟩
+காட்டுப்பாதை திறப்பு தொடர்பாக இரண்டு தினங்கள் ஏலவே அறிவிக்கப்பட்டு தற்பொழுது இறுதியாக யூலை இரண்டாம் திகதி என கதிர்காமத்தில் புதன்கிழமை (12) முடிவெடுக்கப்பட்டு இருக்கிறது .
 
-President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have appealed to the former chairman and religious activist of the Karadivu Pradeshiya Sabha, K. Jayasiril.
+இது வடக்கு கிழக்கு மாகாணத்தில் இருந்து செல்கின்ற பாதுகாத்திரிகர்ளுக்கு அறவே பொருந்தாது. 4 நாட்களுக்குள் கொடி ஏற்றத்துக்கு செல்ல முடியாது.மற்றும் பாதை திறந்து வைக்கப்படுகின்ற காலஅவகாசமும் போதாமல் இருக்கின்றது . இப் பாரம்பரிய புனித யாத்திரையை முடக்க திட்டமிடப்படுகிறதோ என் எண்ணத் தோன்றுகின்றது.
 
-The two -day auctioneer has been announced on the opening of the wildfire and is currently being decided on Wednesday (12) in Kadirgama as the second day of July.
+எனவே, இந்த பாதயாத்திரை பாரம்பரியமாக நிலைத்து பேணும் வகையிலே முறையான தீர்மானங்களை எடுக்க வேண்டும் என்று வேண்டுகோள் விடுத்திருக்கின்றார்
 
-This is not applicable to the security guards from the North and East. The flag cannot go up within 4 days.. My idea is that this traditional pilgrimage is planned to be disabled.
-
-Therefore, he has requested that the trail be traditionally maintained in the way of maintaining proper decisions.
-
-He also reiterated that the trail should be declared in the Gazette.
+அது மாத்திரமல்ல இந்த பாதயாத்திரையை  வர்த்தமானியில் பிரகடனம் அறிவித்தல் செய்யப்பட வேண்டும் என்று மீண்டும் வலியுறுத்தியுள்ளார்.
 
 ◼️
 
 [Data](articles/c1efa575.json)
 
-[Extended Data](ext_articles/c1efa575.ext.json)
-
 ---
 
-### The web application for university admission
+### பல்கலைக்கழக அனுமதிக்கான இணைய விண்ணப்பம் கோரல்
 
 *2024-06-13 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186015) · `ta`
 
-Applications open from July 14 to July 05 for the University of University's 2023-2024 academic year. Eligible applicants should apply via the University Grants Commission's official site: https://www.ugc.ac.lk/.
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழு 2023(2024) கல்வியாண்டுக்கான பல்கலைக்கழக அனுமதிக்கு இணையம் மூலம் தகுதியுடைய விண்ணப்பதாரர்களிடமிருந்து விண்ணப்பங்களை நாளை  (14) முதல் ஜூலை மாதம்  05 வரை கோருவதாக அறிவித்துள்ளது.
 
-🟩
-
-The University Grants Commission has announced that applications will be sought from the eligible applicants tomorrow (14) to July 05 for the University of University for the academic year 2023 (2024).
-
-Accordingly, the applicants must go to the University Grants Commission's official website https://www.ugc.ac.lk/ and submit their applications properly.
+அதன்படி, அந்த விண்ணப்பதாரர்கள் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் உத்தியோகபூர்வ இணையத்தளமான  https://www.ugc.ac.lk/ க்குச் சென்று விண்ணப்பங்களை முறையாகப் பூர்த்தி செய்து சமர்ப்பிக்க வேண்டும்.
 
 ◼️
 
 [Data](articles/26dd6dc6.json)
 
-[Extended Data](ext_articles/26dd6dc6.ext.json)
-
 ---
 
-### The target of the seven wealthy countries in the world is the target
+### ලොව ධනවත් රටවල් හතේ මෙවර ඉලක්කය
 
 *2024-06-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197720) · `si`
 
-The G7 summit, hosted by Italy, gathers leaders from the world's wealthiest nations, including Canada, France, Germany, Japan, the UK, and the US, focusing on global issues like Ukraine's conflict and exploitation. Reports suggest the inclusion of African and Indo-Pacific leaders, with US President Joe Biden set to meet India's PM Narendra Modi, details pending.
+ලොව ධනවත් රටවල් හතේ නායකයින් සහභාගී වන G7 සමුළුව ඉතාලියේදී අද පැවැත්‌වෙයි.
 
-🟩
+කැනඩාව, ප්‍රංශය, ජර්මනිය, ඉතාලිය, ජපානය, බ්‍රිතාන්‍ය සහ අමෙරිකාව යන රටවල නායකයින්ගේ සහභාගීත්වයෙන් එම සමුළුව අද සිට ලබන 15 වනදා දක්වා පැවැත්වීමට නියමිතය.
 
-The G7 summit, attending the leaders of the World's seven wealthy countries, will be held in Italy.
+මීට අමතරව අප්‍රිකාවේ සහ ඉන්දු පැසිපික් කලාපීය රටවල නායකයින්ද G7 සමුළුවට සහභාගී වන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
 
-The conference will be held today with the participation of the leaders of Canada, France, Germany, Italy, Japan, British and America.
+‍යුක්‍රේනයේ සහ ගසා තීරයේ යුධ ගැටුම් සම්බන්ධයෙන් මෙවර සමුළුවේදී දැඩි අවධානයක් යොමු වනු ඇති බවද පැවසෙයි.
 
-In addition, foreign media reports that Leaders of the G7 council in Africa and Indo Pacific countries attend the G7 summit.
+මේ අතර අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි හමුවීමට සූදානමින් පසුවන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
 
-It is also said that this year's conference will focus on the war conflicts in Ukraine and exploitation.
+ඉතාලියේ පැවැත්වෙන G7 සමුළුවට සමගාමීව එම හමුව පැවැත්වෙනු ඇති බවද වාර්තා වෙයි.
 
-Meanwhile, US President Joe Biden is ready to meet Indian Prime Minister Narendra Modi, foreign media reports.
-
-It is reported that the meeting will be held in parallel to the G7 summit in Italy.
-
-However, there is no record of a specific date or place where the two leaders meet.
+කෙසේවෙතත් නායකයින් දෙදෙනා හමුවන නිශ්චිත දිනයක් හෝ ස්ථානයක් පිළිබඳ මෙතෙක් වාර්තා වී නොමැත.
 
 ◼️
 
 [Data](articles/7779c902.json)
-
-[Extended Data](ext_articles/7779c902.ext.json)
 
 ---
 
@@ -139,8 +105,6 @@ Adding to their woes, Sri Lanka’s match against Nepal on Wednesday was complet
 ...
 
 [Data](articles/488f66e7.json)
-
-[Extended Data](ext_articles/488f66e7.ext.json)
 
 ---
 
@@ -195,20 +159,6 @@ Minister Prasanna Ranatunga said this while participating in a discussion with S
 [Data](articles/00635c32.json)
 
 [Extended Data](ext_articles/00635c32.ext.json)
-
----
-
-### මුහුදුබඩ මාර්ගයේ එක් මාර්ගයක් ධාවනයට....
-
-*2024-06-13 15:53:39* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදුබඩ-මාර්ගයේ-එක්-මාර්ගයක්-ධාවනයට----/11-410199) · `si`
-
-අද දින උදෑසන මුහුදුබඩ මාර්ගයේ පානදුර දුම්රිය ස්ථානයේ දුම්රියක් පිලී පැනිම හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ගමනාගමනය මොරටුව දුම්රිය ස්ථානය දක්වා පමණක් සීමා කෙරුණී.
-
-මේ වන විට එම ද්විත්ව මාර්ගයෙන් එක් මාර්ගයක් දුම්රිය ධාවනයට එක් කොට දුම්රිය ධාවන කටයුතු ආරම්භ කොට ඇත. මාර්ගයන් දෙකම ධාවනයට එක් නොකිරිම හේතුවෙන් අද දින සවස ධාවනය වන දුම්රියයන්  මොරටුව හා පානදුර දුම්රිය ස්ථාන අතර ප්‍රමාද විය හැක. (I .J)
-
-◼️
-
-[Data](articles/5d4de351.json)
 
 ---
 
@@ -1044,18 +994,6 @@ The first phase of the investigation revealed that the cooking ginger was smuggl
 
 ---
 
-### Buddhist Revolutionist In The Making – Kekirawe Sudassana Thero
-
-*2024-06-13 11:04:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/buddhist-revolutionist-in-the-making-kekirawe-sudassana-thero/) · `en`
-
-Religions across the globe have historically undergone significant economic and social transformations, adapting to evolving circumstances and aiding in the progress of societies. However, in Sri Lanka, Theravada Buddhism has largely remained static, entangled with political influences that benefit a select few monks while wielding considerable influence over the masses. Unlike the vibrant evolutions seen in other countries, Sri Lanka’s Theravada Buddhism has yet to undergo a transformation that aligns it with contemporary social and economic development needs.
-
-...
-
-[Data](articles/33626935.json)
-
----
-
 ### Railway delay due to rail train
 
 *2024-06-13 11:02:26* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පීලිපැනීමක්-හේතුවෙන්-දුම්රිය-ප්‍රමාදයක්/11-410189) · `si`
@@ -1123,22 +1061,6 @@ The packs were handed over to the Maruthankani Police Station for further legal 
 [Data](articles/abb86229.json)
 
 [Extended Data](ext_articles/abb86229.ext.json)
-
----
-
-### An Efficient Train System Should Be The Number One Public Transport Priority
-
-*2024-06-13 10:55:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-efficient-train-system-should-be-the-number-one-public-transport-priority/) · `en`
-
-I write this because I love travelling by train and am very sad about the condition of Sri Lanka Railways and train travel in this beautiful island. In recent times, several of my planned train trips had to be cancelled causing great inconvenience due to sudden train service disruptions, including derailments, breakdowns and cancellations.
-
-Train travel is both cheap and environment friendly. Trains carry a large number of passengers and hence cause lower Carbon emissions per capita than do cars. Public Transport, in general is both cost-effective and environmentally friendly for a country in a Debt trap and IMF austerity program.
-
-Rather than rushing to buy expensive Electric Vehicles (EVs), for a costly Green Energy Transition promoted by various United Nations Agencies and Greenwash Corporations, the GOSL should urgently make Public Transport, particularly, investing in and upgrading the Sri Lanka Railways a top development priority at this time.
-
-...
-
-[Data](articles/13dee363.json)
 
 ---
 
@@ -2359,5 +2281,75 @@ This new legislation aims to modernise the legal framework governing immigration
 [Data](articles/0a1a7f29.json)
 
 [Extended Data](ext_articles/0a1a7f29.ext.json)
+
+---
+
+### Mullaitivu fishermen threaten action amidst illegal fishing crisis
+
+*2024-06-13 01:29:14* · [`dailyftlk`](https://www.ft.lk/news/Mullaitivu-fishermen-threaten-action-amidst-illegal-fishing-crisis/56-763030) · `en`
+
+Tensions are rising among fishermen in Mullaitivu as Government authorities allegedly continue to fail to stop illegal fishing by fishermen from other provinces, leading to the risk of a major conflict in the region. Local fishing leaders have given the authorities a two-day ultimatum to address the issue, warning of drastic measures if their demands are not met.
+
+Fishermen from outer provinces have been accused of using prohibited gear to fish in the Mullaitivu sea, depleting resources and threatening the livelihoods of local fishermen. This has prompted the Jaffna District Fishermen’s Cooperative Society Vice President, Antonipillai Francis Ratnakumar, to issue a stern warning during a protest held on 10 June in front of the Mullaitivu District Secretariat.
+
+...
+
+[Data](articles/8433320a.json)
+
+[Extended Data](ext_articles/8433320a.ext.json)
+
+---
+
+### Cabinet nod to amend Penal Code to strengthen legal provisions to prohibit sexual harassment
+
+*2024-06-13 01:28:15* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-amend-Penal-Code-to-strengthen-legal-provisions-to-prohibit-sexual-harassment/56-763029) · `en`
+
+The Cabinet of Ministers at its meeting approved the proposal to publish the draft Bill criminalising all forms of sexual harassment in the Government Gazette and subsequently present it to Parliament for approval.
+
+On 12 December 2022, the Cabinet initially approved the introduction of amendments to the Penal Code aimed at criminalising all forms of sexual harassment, including incidents occurring in public places.
+
+“The Legal Draftsman prepared the relevant draft Bill, which has now received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/262955ee.json)
+
+[Extended Data](ext_articles/262955ee.ext.json)
+
+---
+
+### Vidullanka receives ISO 9001:2015 for domestic hydro and solar segments
+
+*2024-06-13 01:27:33* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-receives-ISO-9001-2015-for-domestic-hydro-and-solar-segments/34-763028) · `en`
+
+From left: Vidullanka Manager of Projects and Contracts Sunera Samaranayake, Nexus Business Solutions Managing Director and ISO Consultant Prabhath Samarasinghe, SGS Lanka Business Manager Chamika Wimalasiri, Vidullanka CEO Riyaz Sangani, Vidullanka Director of Operations Roshan Siriwardene, Vidullanka Assistant Manager of Operations Damitha Bandulawansa, and Vidullanka HR Executive Chamodhi Perera
+
+Vidullanka PLC has received the ISO 9001:2015 certification for Quality Management.
+
+Accredited by SGS Lanka Ltd., the certification was awarded for the business development, design and operations of the company’s domestic hydro and solar segments. It is an acknowledgement of Vidullanka’s commitment to implementing exceptional management standards to achieve its vision of sustainably energising the planet.
+
+...
+
+[Data](articles/3a568601.json)
+
+[Extended Data](ext_articles/3a568601.ext.json)
+
+---
+
+### NSBM Founding Vice Chancellor Prof. Weerasinghe honoured with Most Outstanding Citizen Award 2024 by Lions International
+
+*2024-06-13 01:26:46* · [`dailyftlk`](https://www.ft.lk/business/NSBM-Founding-Vice-Chancellor-Prof-Weerasinghe-honoured-with-Most-Outstanding-Citizen-Award-2024-by-Lions-International/34-763027) · `en`
+
+NSBM Green University Vice Chancellor Prof. E.A. Weerasinghe has been bestowed with the prestigious Most Outstanding Citizen 2024 (MOC Awards) by Lions International, in recognition of his exceptional contributions to society.
+
+The award was presented amidst the grandeur of the 19th Annual District Convention of Lions International District 306 A1 - Sri Lanka, held on 9 June at Hotel Galadari in Colombo.
+
+Most Outstanding Citizen 2024 (MOC Awards) of Lions International District 306 A1 - Sri Lanka is awarded under the theme “Exceptional Contribution to Society”, to recognise and honour individuals and organisations who have rendered exceptional, invaluable services or actions which have benefitted Sri Lankan society at large. Prof. Weerasinghe has earned this distinguished award for his truly exceptional, sustained contribution, which provides inspiration for others, has influenced change, and has made an impact and demonstrable contribution to the community.
+
+...
+
+[Data](articles/a3f01c75.json)
+
+[Extended Data](ext_articles/a3f01c75.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 01:04:09**
+As of **2024-06-14 01:19:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,270 (100.0%) of 30,279 articles have been extended.
+30,274 (100.0%) of 30,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The former Minister of Economy of Argentina, Professor Martín Guzmán, currentl
 
 [Data](articles/5dd9c8be.json)
 
+[Extended Data](ext_articles/5dd9c8be.ext.json)
+
 ---
 
 ### Olympian deception
@@ -57,6 +59,8 @@ While the best athletes of the world are gathering in France for the great Olymp
 ...
 
 [Data](articles/805a9ad6.json)
+
+[Extended Data](ext_articles/805a9ad6.ext.json)
 
 ---
 
@@ -72,6 +76,8 @@ For years now, Corporate Social Responsibility (CSR) has been a buzzword among b
 
 [Data](articles/a3e70bab.json)
 
+[Extended Data](ext_articles/a3e70bab.ext.json)
+
 ---
 
 ### Nation’s talent retention – priority beyond politics: A strategic approach
@@ -85,6 +91,8 @@ Today there is a mass exodus of professionals and not so professional citizens f
 ...
 
 [Data](articles/999354b0.json)
+
+[Extended Data](ext_articles/999354b0.ext.json)
 
 ---
 

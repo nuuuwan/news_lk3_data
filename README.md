@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 08:35:51**
+As of **2024-06-13 08:53:22**
 
 ## Newspaper Stats
 
-*Scraped **30,135** Articles*
+*Scraped **30,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,62 +17,100 @@ economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,591
 adaderanalk | 3,413
-tamilmirrorlk | 3,525
+tamilmirrorlk | 3,526
 virakesarilk | 4,614
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,852
+adaderanasinhalalk | 4,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,132 (100.0%) of 30,135 articles have been extended.
+30,135 (100.0%) of 30,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### තැපෑල අද ලෙඩින්
+### ස්ත්‍රී පුරුෂ පරතරය අවම රටවල් අතර දකුණු ආසියාවේ  තෙවන තැන ශ්‍රී ලංකාවට
+
+*2024-06-13 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197706) · `si`
+
+ගෝලිය ස්ත්‍රී පුරුෂ පරතරය අවම රටවල් අතර ශ්‍රී ලංකාව දකුණු ආසියානු කලාපයේ තෙවන ස්ථානයට  පත්ව තිබේ.
+
+වාර්ෂික ගෝලීය ස්ත්‍රී පුරුෂ පරතර වාර්තාවට අනුව දකුණු ආසියානු කලාපයේ පළමු ස්ථානය හිමිව ඇත්තේ බංග්ලාදේශයට යි.
+
+නේපාලය දෙවන ස්ථානයේ පසුවන අතර ඉන්දියාව පස් වන ස්ථානයේත් පාකිස්තානය හත් වන ස්ථානයේත් පසුවේ.
+
+ප්‍රධාන මානයන් හතරක් ඔස්සේ ස්ත්‍රී පුරුෂ සමානාත්මතාවය මනිනු ලබන අතර 2006 වසරේ සිට මෙම ස්ත්‍රී පුරුෂ පරතර දර්ශකය ප්‍රකාශයට පත් කර තිබේ.
+
+ලෝකයේ ස්ත්‍රී පුරුෂ පරතරය අවම රට ලෙස පළමු ස්ථානය හිමිව ඇත්තේ අයිස්ලන්තයට යි.
+
+එහි දෙවන ස්ථානය ෆින්ලන්තයට හිමිව ඇති අතර නොර්වේ රාජ්‍යය තෙවන ස්ථානයේත්, නවසීලන්තය සිව්වන ස්ථානයේත් ස්වීඩනය පස් වන ස්ථානයේත් පසු වේ.
+
+◼️
+
+[Data](articles/8fe7d079.json)
+
+---
+
+### Mail is sickin today
 
 *2024-06-13 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197705) · `si`
 
-අසනීප නිවාඩු වාර්තා කරමින් ඒකාබද්ධ තැපැල් සේවක වෘත්තීය සමිති එකමුතුව ඊයේ (12) මධ්‍යම රාත්‍රීයේ සිට වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
+The Joint Postal Employee Trade Union Alliance initiated a nationwide strike starting last night to press for employee rights within the Postal Department. Despite the strike, postal services aim to remain operational, with management cancelling leaves and taking measures to ensure continuity. The Station OICs Association warns of further actions if issues aren't addressed.
 
-ඒකාබද්ධ තැපැල් සේවක වෘත්තීය සමිති එකමුතුවේ කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේ, අද (13) මධ්‍යම රාත්‍රී දක්වා දිවයින පුරා මෙම වැඩවර්ජනය ක්‍රියාත්මක කරන බවය.
+🟩
 
-තැපැල් දෙපාර්තමේන්තුවේ පවතින සේවක හිඟයට කඩිනමින් විසඳුම් ලබාදෙන ලෙස බලධාරීන් දැනුවත් කිරීම මෙම වෘත්තිය සමිති ක්‍රියාමාර්ගයේ අරමුණ බව චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+The Joint Postal Employee Trade Union Alliance has launched a trade union action from midnight yesterday (12).
 
-කෙසේවෙතත් තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, වහාම ක්‍රියාත්මක වන පරිදි සියලු තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කිරීමට තීරණය කර ඇති බවය.
+Convener of the Joint Postal Workers Trade Union Collecter Chinthaka Bandara said that the strike will be implemented throughout the country today (13).
 
-අදාළ ගැටලුව සම්බන්ධයෙන් විසඳුම් ලබාදීමට මේ වන විටත් තැපැල් දෙපාර්තමේන්තුව පියවර ගනිමින් සිටින අතර එවන් අවස්ථාවක වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීම පිළිගත නොහැකි බව තැපැල්පතිවරයා පවසයි.
+Chinthaka Bandara stated that the purpose of these vocational union action is to educate the authorities to resolve employees in the Postal Department.
 
-කෙසේවෙතත් තැපැල් දෙපාර්තමේන්තුවේ කටයුතු අඛණ්ඩව පවත්වාගෙන යාමට හැකි සෑම පියවරක්ම ගන්නා බව තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේය.
+However, Mr. Ruwan Sundara, However, he has decided to cancel all postal workers' leave, according to the immediate effective action.
+
+The Postcard will not be accepted to address the issue regarding the issue and is not acceptable to engage in a trade union action.
+
+However, Mr. Ruwan Skamamara said that all possible steps will be taken to continue the post of postal department.
+
+Meanwhile, the Station OICs Association says that if the authorities do not take steps to address their problems, the Station Masters Association says.
 
 ...
 
 [Data](articles/802ee17d.json)
 
+[Extended Data](ext_articles/802ee17d.ext.json)
+
 ---
 
-### ආර්ථිකය තවමත් අවදානමේ බව IMF කියයි
+### IMF says the economy is still at risk
 
 *2024-06-13 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197704) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට හඳුන්වා දී ඇති විස්තීර්ණ ණය පහසුකමට අදාළ දෙවන සමාලෝචනය සඳහා අනුමැතිය හිමිවුණි.
+The IMF approves a second review for Sri Lanka's comprehensive loan facility, committing to a third installment of $336 million. Despite positive signs like restored economy, low inflation, and improved income, the Deputy Managing Director warns of ongoing risks and emphasizes the need for debt restructuring, financial discipline, and central bank independence.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය විසින් ඊයේ (12) දිනයේ අදාළ අනුමැතිය ලබා දී ඇති බව වාර්තා වේ.
+🟩
 
-ඒ අනුව මාස 48ක් සඳහා ක්‍රියාත්මක ජාත්‍යන්තර මුල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකමට අදාළ තෙවන වාරිකය ශ්‍රී ලංකාවට ලබාදීමට තීරණය කර තිබේ.
+The IMF was approved for the second review of the comprehensive loan facility, introduced to Sri Lanka.
 
-තෙවන වාරිකය වෙනුවෙන් අමෙරිකානු ඩොලර් මිලියන 336ක පමණ මුදලක් ශ්‍රී ලංකාවට ලබාදීමට නියමිතය.
+It is reported that the International Monetary Fund Executive has issued the approval yesterday (12).
 
-2023 වසරේ මාර්තු 20 වන දින ජාත්‍යන්තර මුල්‍ය අරමුදලේ විධායක මණ්ඩලය විසින් අමෙරිකානු ඩොලර් බිලියන තුනකට ආසන්න මුදලක් විස්තීරීණ ණය පහසුකම යටතේ මාස 48ක කාලයක් තුළ ශ්‍රී ලංකාවට ලබාදීමට එකඟතාව පළ කරනු ලැබීය.
+Accordingly, the third installment of the International Monetary Fund for 48 months has been decided to hand over the third installment to Sri Lanka.
 
-එහි පළමු වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 337ක් හිමි වූ අතර ඒ අනුව මේ වනවිට අමෙරිකානඩු ඩොලර් බිලියනයකට ආසන්න මුදලක් ජාත්‍යන්තර මුල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී තිබේ.
+The third installment will be given US $ 336 million to Sri Lanka.
+
+On March 20, 2023, the International Monetary Fund Executive was agreed to provide nearly US $ 33 billion in Sri Lanka over a 48-month period.
+
+The first installment was obtained as the first installment of US $ 337 million and the US International Monetary Fund to Sri Lanka at present.
+
+After approving the second installment of the Comprehensive Credit Facilitation Project, which was introduced by the International Monetary Fund Executive to Sri Lanka yesterday, issued a special statement.
 
 ...
 
 [Data](articles/52d5a456.json)
+
+[Extended Data](ext_articles/52d5a456.ext.json)
 
 ---
 
@@ -305,6 +343,22 @@ They say that they can end the illegal industrial activities when they are arres
 [Data](articles/6fcbf988.json)
 
 [Extended Data](ext_articles/6fcbf988.ext.json)
+
+---
+
+### ’15 சட்டங்கள் விரைவில் நிறைவேற்றப்படும்’
+
+*2024-06-13 02:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-சட்டங்கள்-விரைவில்-நிறைவேற்றப்படும்/175-338842) · `ta`
+
+எதிர்வரும் சில வாரங்களில் சுமார் 15 மிக முக்கியமான சட்டங்களை நிறைவேற்றுவதற்கான ஏற்பாடுகள் மேற்கொள்ளப்பட்டு வருவதாக நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விஜயதாச ராஜபக்ஷ இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நமது நாட்டின் நீதித்துறைக் கட்டமைப்பில், நீதியை நிலைநாட்டுதல் தொடர்பான மிகப்பாரிய சட்ட மறுசீரமைப்புகள் இடம்பெற்ற காலமாக இக்காலகட்டத்தைக் குறிப்பிடலாம். கடந்த 18 மாதங்களில் சுமார் 75 சட்டமூலங்கள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு நிறைவேற்றப்பட்டுள்ளன. இது நாட்டில் அடிப்படை மாற்றத்தை ஏற்படுத்த உதவும் என்பதை குறிப்பிட வேண்டும்.
+
+...
+
+[Data](articles/3afaa30b.json)
 
 ---
 
@@ -1334,21 +1388,31 @@ The United States and India will be held today (12) in the Twenty20 World Cup.
 
 ---
 
-### අගමැති හා ඇමති මණ්ඩලයට නොතීසි
+### Notice to the Prime Minister and Cabinet
 
 *2024-06-12 19:27:25* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හා-ඇමති-මණ්ඩලයට-නොතීසි/11-410183) · `si`
 
-පළාත් පාලන අපේක්ෂකයන්ට රාජ්‍ය සම්පත් භාවිත නොකිරීමට නියම කරන්නැයි ඉල්ලමින් ඉදිරිපත් කරඇති පෙත්සම සම්බන්ධයෙන් අධිකරණයේ පෙනී සිටි කරුණු දැක්වීමට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු ආමාත්‍ය මණ්ඩලයට නියම කරමින් ශ්‍රේෂ්ඨාධිකරණය අද (12දා) නොතීසි නිකුත් කළේය.
+The Supreme Court issued a notice to Prime Minister Dinesh Gunawardena and his cabinet, responding to a petition by PAFFREL regarding the use of electoral resources for local government candidates. The court directed them to respond by the 28th, after which the petition will be considered by a panel of judges including Chief Justice Jayantuni Jayasuriya. The petition challenges the allocation of funds for rural development projects and requests the court to ensure electoral fairness and protect citizens' rights.
 
-පළාත් පාලන අපේක්ෂකයන්ට රාජ්‍ය සම්පත් භාවිත නොකිරීමට මෙන්ම මැතිවරණ කොමිසමට නිකුත් කර ඇති මාර්ග උපදේශන මාලාව අනුව කටයුතු කිරීමට බලධාරීන්ට නියම කරන්නැයි ඉල්ලා පැෆරල් සංවිධානය ගොනු කර ඇති පෙත්සම සලකා බැලීමෙන් අනතුරුව එලෙස නියම කළ ශ්‍රේෂ්ඨාධිකරණය, අදාළ නොතීසි ශ්‍රේෂ්ඨාධිකරණ ලේඛකාධිවරයා හරහා වගඋත්තරකාර අමාත්‍ය මණ්ඩලයට භාර දීමට කටයුතු කරන ලෙසද නියම කළේය.
+🟩
 
-පෙත්සම සම්බන්ධයෙන් මූලික විරෝධතා ඇත්නම් ලබන 24වැනිදා ගොනු කිරීමටද, ප්‍රතිවිරෝධතා ඇත්නම් ලබන 28වැනිදා ගොනු කිරීමටද නියම කළ ශ්‍රේෂ්ඨාධිකරණය, කරුණු තහවුරු කිරීම සඳහා පෙත්සම ජූලි 03වැනිදා කැඳවීමටද නියම කළේය.
+The Supreme Court issued notice today (12th) directing the Prime Minister Dinesh Gunawardena and the Prime Minister Prime Minister Dinesh Gunawardena.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන කුමුදුනි වික්‍රමසිංහ සහ අචල වෙන්ගප්පුලි යන මහත්ම මහත්මීන්ගේන් සැදුම්ලත් සමන්විත විනිසුරු මඬුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණි.
+The petition filed by the PAFFral organization to be used for local government candidates to be used as well as the Supreme Court, the Supreme Court, is to hand over the respondents to the respondents to the respondents.Specified.
+
+If there are basic objections on the petition, the Supreme Court ordered to file the contradictions on the 28th and to confirm the petition to file an contrary to the 28th.
+
+The petition was considered in a panel of judges, Chief Justice Jayantuni Jayasuriya, Supreme Court Judge Kumudi Wickramasinghe and Aeti Alugily.
+
+The Attorney General, Prime Minister Dinesh Gunawardena and Prime Minister Dinesh Gunawardena have been named as respondents filed by PAFFREL.
+
+It is said that the presidential election is scheduled to be held between September 17th and October 17 of September 17, the PAFFREL.
 
 ...
 
 [Data](articles/81f6879e.json)
+
+[Extended Data](ext_articles/81f6879e.ext.json)
 
 ---
 
@@ -2199,55 +2263,5 @@ The body has been kept at the Point Pedro Hospital as the cause of the death is 
 [Data](articles/759f4d4c.json)
 
 [Extended Data](ext_articles/759f4d4c.ext.json)
-
----
-
-### Repeal of the Under-19th Amendment
-
-*2024-06-12 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197684) · `si`
-
-The England Under-19 cricket team, featuring sons of former Test and ODI players, includes Phil Mutadard and Ferhan Ahmed. Led by Dale Ben Tannustein, a son of former South African players, the team is notable for its strong lineage and potential.
-
-🟩
-
-England, the England team, which consists of three ODIs with the Under-19 cricket team with the Under-19 cricket team, has been named.
-
-It is significant that the children of several former Test and one-day players of the group.
-
-Former England three post-player, a son of former South African players, Dale Benn Tannustein, is leading the son of former South African atrocities.
-
-Phil Mutadard, who was playing for England, is a member of the group.
-
-Also, the brother of the England cricket team, Ferhan Ahmed, is a member of the group.
-
-It was also a member of the group that was not allowed to join the World Cup last 19-year cricket tournament due to injuries.
-
-◼️
-
-[Data](articles/ef8121ab.json)
-
-[Extended Data](ext_articles/ef8121ab.ext.json)
-
----
-
-### Sri Lanka Treasuries yields higher, Rs215bn sold
-
-*2024-06-12 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-higher-rs215bn-sold-167647/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields edged slightly higher at Wednesday’s auction with 215 billion rupees of bills sold but with lower volumes of 12 month bills, data from the state debt office showed.
-
-The 3-month yield went up 19 basis points to 8.89 percent with 40 billion rupees of bills offered and 48.4 billion sold.
-
-The 6-month bill yield was up at 9.30 percent, with 100 billion rupees offered and 111.6 billion sold.
-
-The 12-month bill yield went up 27 basis points to 9.54 percent with 75 billion rupees offered, and 54.8 billion in bills sold.
-
-The debt office offered 215 billion rupees of bills and raised a similar amount in different maturities. (Colombo/June12/2024)
-
-◼️
-
-[Data](articles/02f92c14.json)
-
-[Extended Data](ext_articles/02f92c14.ext.json)
 
 ---

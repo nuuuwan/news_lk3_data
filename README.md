@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 06:20:22**
+As of **2024-06-13 07:00:19**
 
 ## Newspaper Stats
 
-*Scraped **30,113** Articles*
+*Scraped **30,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 273
 dbsjeyarajcom | 281
 bbccomsinhala | 293
 newsfirstlk | 363
-islandlk | 1,625
+islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,590
 adaderanalk | 3,411
-tamilmirrorlk | 3,523
+tamilmirrorlk | 3,524
 virakesarilk | 4,614
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,847
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,113 (100.0%) of 30,113 articles have been extended.
+30,113 (100.0%) of 30,126 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -151,6 +151,22 @@ They say that they can end the illegal industrial activities when they are arres
 [Data](articles/6fcbf988.json)
 
 [Extended Data](ext_articles/6fcbf988.ext.json)
+
+---
+
+### இளம் மருத்துவர் சடலமாக மீட்பு
+
+*2024-06-13 02:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-மருத்துவர்-சடலமாக-மீட்பு/175-338840) · `ta`
+
+பருத்தித்துறை ஆதார வைத்திய சாலையின் விடுதியில் தங்கியிருந்த பெண்ணியல் நோய் வைத்தியர் ஒருவர் நேற்று பிற்பகல் சடலமாக மீட்க்கப்பட்டுள்ளார்.
+
+கடும் மன அழுத்தம் காரணமாக அதிகளவான மயக்க மருந்தை உடலில் செலுத்தியமையே அவரது மரணத்திறக்கு காரணம் என பிரேத பரிசோதனையில் தெரியவந்துள்ளது.
+
+பருத்தித்துறை ஆதார வைத்திய சாலையில் பெண்ணியல் நோய் மருத்துவராக அவர் கடமை புரிந்து வரும் திருநெல்வேலியைச் சேர்ந்த பிரேமானந்தராசா கிருஷ்ணானந்தா (வயது- 30) என்ற வைத்தியரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/7f1a08f6.json)
 
 ---
 
@@ -586,6 +602,38 @@ Mr. Ali Sab Rie, Minister Ali Sab Rie, has a note in his account.
 
 ---
 
+### Tomato Face Pack for Blemishes
+
+*2024-06-12 23:14:00* · [`islandlk`](http://island.lk/tomato-face-pack-for-blemishes/) · `en`
+
+Hi! This week, I’ve decided to do the Beauty Tips scene with tomatoes.
+
+You will need 02 tablespoons tomato pulp and 01 teaspoon honey.
+
+After mixing the tomato and honey, apply the mixture on your face and leave it for 15 minutes or until it dries. Rinse with lukewarm water.
+
+You will need 01 teaspoon of tomato pulp and 03-04 drops of lemon juice
+
+Mix the lemon juice and tomato pulp and apply this pack to the affected areas of your face (blemishes).
+
+Let it dry for 10-12 minutes before rinsing with lukewarm water.
+
+(Repeat this once or twice daily. By the way, use lemon juice sparingly as it can cause a burning sensation when used in excess.)
+
+You will need 1/2 cup of mashed tomato and 1/4 cup of grated cucumber.
+
+Apply this mixture to your face, wait for 20 minutes and then wash with lukewarm water.
+
+You will need 1/2 tomato (mashed), 01 teaspoon of coconut oil, and 01 tablespoon of yoghurt.
+
+Apply this paste to your face and leave it on for 15 minutes and then wash it off.
+
+...
+
+[Data](articles/e36f52d1.json)
+
+---
+
 ### AKD’s speech on police and rule of law: Merits and demerits
 
 *2024-06-12 23:03:04* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-speech-on-police-and-rule-of-law-Merits-and-demerits/4-762997) · `en`
@@ -622,6 +670,20 @@ Each country must do its own expert research rather than blindly accept the IMF 
 
 ---
 
+### National Youth Services Council launches Youth Accelerator Platform for Climate Mobility in collaboration with IOM Sri Lanka
+
+*2024-06-12 22:46:00* · [`islandlk`](http://island.lk/national-youth-services-council-launches-youth-accelerator-platform-for-climate-mobility-in-collaboration-with-iom-sri-lanka/) · `en`
+
+In a landmark collaboration, the National Youth Services Council (NYSC) and the International Organization for Migration (IOM) in Sri Lanka have joined forces to introduce the Youth Accelerator Platform for Climate Mobility (YAP4C) – an initiative aiming to empower young individuals to play an active role in addressing climate change challenges, filling a crucial gap in current efforts within the context of climate change-related human mobilities.
+
+The primary objective of YAP4C is to mobilize a movement of young advocates pressing for urgent and effective measures to combat climate change. Through a Memorandum of Understanding, IOM Sri Lanka and NYSC will collaborate on various initiatives aimed at strengthening youth engagement in climate action and climate mobility actions in the country.
+
+...
+
+[Data](articles/007c2026.json)
+
+---
+
 ### Life Sunday Attack - President who landed directly on the field
 
 *2024-06-12 22:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிர்த்த-ஞாயிறு-தாக்குதல்-நேரடியாக-களத்தில்-இறங்கிய-ஜனாதிபதி/175-338837) · `ta`
@@ -643,6 +705,52 @@ The report of the committee is to be completed by September 15 this year. Remble
 [Data](articles/653b0e8e.json)
 
 [Extended Data](ext_articles/653b0e8e.ext.json)
+
+---
+
+### CIPM successfully concludes 8th annual symposium: Redefining HRM for a Rapidly Changing World
+
+*2024-06-12 22:44:00* · [`islandlk`](http://island.lk/cipm-successfully-concludes-8th-annual-symposium-redefining-hrm-for-a-rapidly-changing-world/) · `en`
+
+The Chartered Institute of Personnel Management (CIPM) successfully concluded the 8th Annual CIPM Symposium, which took place on 31st May 2024. Themed “Nurturing the Human Element—Redefining HRM in a Rapidly Changing World,” the symposium underscored the pivotal role of human resource management (HRM) in today’s dynamic global landscape. Since its inception in 1959, CIPM has been dedicated to advancing the HR profession through education, professional development, and advocacy, solidifying its position as Sri Lanka’s leading professional body for HRM.
+
+...
+
+[Data](articles/7ea718de.json)
+
+---
+
+### WealthOS successfully raises £4Mn with institutional investors Barclays
+
+*2024-06-12 22:42:00* · [`islandlk`](http://island.lk/wealthos-successfully-raises-4mn-with-institutional-investors-barclays/) · `en`
+
+WealthOS, a UK-based cloud-native wealth management platform founded by two Sri Lankan entrepreneurs and with product and engineering operations in Sri Lanka, recently secured £4 million in seed funding led by Barclays Bank.
+
+In addition to Barclays, WealthOS also garnered investment from Main Set, a division of the international investment firm Capricorn Capital Partners UK Limited. With this funding, WealthOS plans to enhance its platform, expand its distribution network, and scale its operations in Sri Lanka to support its growing client base.
+
+The company’s mission is to create fast, seamless digital infrastructure, making wealth management accessible to everyone, everywhere.
+
+...
+
+[Data](articles/a2ca151b.json)
+
+---
+
+### Stable trading on CSE with positive outlook on IMF review
+
+*2024-06-12 22:38:00* · [`islandlk`](http://island.lk/stable-trading-on-cse-with-positive-outlook-on-imf-review/) · `en`
+
+The stock market closed yesterday with optimism on the the potential approval of the IMF review. On top of that the government will sign MoUs with international bondholders and Bilateral creditors shortly as a part of the debt restructuring process as a result of the IMF endorsement, market analysts said..
+
+The Government is in the final steps of finalizing the debt restructuring agreements, with continued support from bilateral partners, the State Minister of Finance, Shehan Semasinghe said, confident of a favourable review from the International Monetary Fund.
+
+The IMF board is scheduled to discuss the second review of the Extended Fund Facility (EFF) and Article IV consultation.
+
+“We remain optimistic that our international partners will continue to support Sri Lanka’s efforts,” Semasinghe said on X (twitter).
+
+...
+
+[Data](articles/bd499266.json)
 
 ---
 
@@ -2137,135 +2245,5 @@ The final will be held on the 17th against the Netherlands to attend the Netherl
 [Data](articles/6029ea5c.json)
 
 [Extended Data](ext_articles/6029ea5c.ext.json)
-
----
-
-### We will give voice to the missing persons - Eran Wickremaratna
-
-*2024-06-12 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185913) · `ta`
-
-Eran Wickremaratne, a United People's Power MP, highlighted the ongoing issues of missing persons and basic amenities like water and education in war-torn areas. He pledged continued advocacy for these issues and mentioned plans to implement the 13th Amendment, despite challenges, asserting leadership support from Sajith Premadasa. The National People's Power also expressed support for the amendment's implementation, marking a significant step after 35 years.
-
-🟩
-
-No action has been taken on the issue of missing persons in the war -torn area. United People's Power MP Eran Wickremaratne said that we will continue to voice for it.
-
-He said this during a media briefing held in Jaffna yesterday (11).
-
-Yall. The water issue, one of the basic amenities of the city's island and the educational facilities of the people, continues in this regime.
-
-No action has been taken on the issue of the missing person. Based on that, we will continue to voice it.
-
-We will implement the 13th Amendment. If the implementation of the law in the country is so much problem, we will certainly implement it.
-
-Our leader Sajith Premadasa will definitely carry out it. Now there is an imperialist state. Has authority in the hands of the president. We are implementing the 13th Amendment as Land Police Power.
-
-The National People's Power led by Anura Kumara has said that the 13th Amendment is implemented. We welcome this. It took about 35 years for them to arrive at this place.
-
-...
-
-[Data](articles/c4d594ca.json)
-
-[Extended Data](ext_articles/c4d594ca.ext.json)
-
----
-
-### Sri Lanka to implement national tariff policy in three phases from 2025
-
-*2024-06-12 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-implement-national-tariff-policy-in-three-phases-from-2025-167636/) · `en`
-
-ECONOMYNEXT – Sri Lanka will implement its national tariff policy in three phases from January 2025, cabinet spokesman minister Bandula Gunawardena said.
-
-“The competitive environment for investment in Sri Lanka has been adversely affected due to the revision of the tariff policy in accordance with the various policies introduced from time to time by the existing governments,” Gunawardena told reporters on Tuesday.
-
-A clear, simple, coherent and predictable tariff system is a critical factor in maintaining a competitive environment for trade and investment within a country, he said.
-
-A technical committee headed by the Director General of the Department of Trade and Investment Policy of the Treasury, and members of relevant agencies were appointed to formulate a national tariff policy.
-
-The committee prepared the policy in consultation with the business and industry community under the guidance of trade experts and secretaries of ministries related to this subject, Gunawardena said.
-
-...
-
-[Data](articles/021f982d.json)
-
-[Extended Data](ext_articles/021f982d.ext.json)
-
----
-
-### System Knowledge Growth Rate at Low level in the Eastern Province!
-
-*2024-06-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185910) · `ta`
-
-In the Eastern Province, computer knowledge growth is noted but lower than in the Western Province. Nationally, it rose to 39% among 5 to 69-year-olds.
-
-🟩
-
-The Department of Commerce and Statistics said that the development rate of computer knowledge has been recorded in the Eastern Province in the Eastern Province.
-
-The Department of Commerce and Statistics said that the computer knowledge is at a high level in the Western Province.
-
-The Department of Commerce and Statistics said that the computer knowledge of the 5 to 69 years in the country has risen to 39 percent.
-
-◼️
-
-[Data](articles/6d258115.json)
-
-[Extended Data](ext_articles/6d258115.ext.json)
-
----
-
-### Historic Crimes Of The Chauvinistic Left: Why Defending Marxist Position Is Important
-
-*2024-06-12 14:00:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left-why-defending-marxist-position-is-important/) · `en`
-
-Developing a class position in relation to nationalities has remained a crucial aspect of the political programme of the left, one fraught with complications since the inception of the first international. The ability of competing nation-states and the bourgeois class to mobilize on the basis of nationalism has continually posed challenges to establishing class solidarity and breaking the grip of capitalist ideology on the working class. VI Lenin played a significant role in clarifying a Marxist position on this matter during his time with the Russian Social Democratic Labour Party (RSDLP). At the 1903 congress of the RSDLP, point 9 of the party’s programme addressed the national question, sparking a heated debate that resulted in numerous clarifications. Since then, various debates and discussions have ensued among the left on this issue, with the Leninist position enduring various historical challenges.
-
-...
-
-[Data](articles/31f9ed99.json)
-
-[Extended Data](ext_articles/31f9ed99.ext.json)
-
----
-
-### If sexually harassed in public places
-
-*2024-06-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197681) · `si`
-
-The Attorney General has authorized changes to the pardon code to enhance laws against sexual harassment. A meeting approved amendments to the Penal Code to address various forms of sexual harassment, aiming to provide stronger legal protections.
-
-🟩
-
-The Attorney General's clearance has been received to amend the pardon code to strengthen the legal provisions for sexual harassment and sexual provisions.
-
-At the meeting of sexual harassment and sexual harassment, including sexual harassment and sexual harassment, was approved to introduce amendments to the Penal Code.
-
-The Hon.
-
-◼️
-
-[Data](articles/ae0fb27c.json)
-
-[Extended Data](ext_articles/ae0fb27c.ext.json)
-
----
-
-### Cabinet approval for criminalizing all forms of sexual harassment
-
-*2024-06-12 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99830/cabinet-approval-for-criminalizing-all-forms-of-sexual-harassment) · `en`
-
-The Cabinet of Ministers has approved the revision of the Penal Code to strengthen legal provisions to prohibit sexual harassment and sexual assault.
-
-On 12 December 2022, the Cabinet of Ministers had approved the introduction of amendments to the Penal Code criminalizing all forms of sexual harassment and sexual abuse, including sexual harassment and sexual assault in public places.
-
-The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman, the Department of Government Information said.
-
-Accordingly, the proposal made by the Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to publish the said draft Bill in the Government Gazette and present the same thereafter in Parliament for approval, has been approved by the Cabinet.
-
-◼️
-
-[Data](articles/850f7a7b.json)
-
-[Extended Data](ext_articles/850f7a7b.ext.json)
 
 ---

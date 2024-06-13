@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 10:34:45**
+As of **2024-06-13 10:53:05**
 
 ## Newspaper Stats
 
-*Scraped **30,151** Articles*
+*Scraped **30,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,593
-adaderanalk | 3,415
+adaderanalk | 3,416
 tamilmirrorlk | 3,529
 virakesarilk | 4,618
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,855
+adaderanasinhalalk | 4,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,151 (100.0%) of 30,151 articles have been extended.
+30,151 (100.0%) of 30,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### දුම්රියක් පීලි පනී - මුහුදුබඩ මාර්ගය සම්පූර්ණයෙන්ම අවහිරයි
+
+*2024-06-13 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197709) · `si`
+
+පානදුර දුම්රිය ස්ථානය ආසන්නයේ දුම්රියක් පීලි පැනීමෙන් මුහුදුබඩ දුම්රිය මාර්ගය මුළුමනින්ම අවහිර වී තිබේ.
+
+◼️
+
+[Data](articles/48d53444.json)
+
+---
+
+### IMF third tranche will pave the way for long-term sustainable growth in SL - state minister
+
+*2024-06-13 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99851/imf-third-tranche-will-pave-the-way-for-long-term-sustainable-growth-in-sl-state-minister) · `en`
+
+State Minister of Finance Shehan Semasinghe expressed gratitude to the International Monetary Fund (IMF) Board Members, Management and Mission Team for the unwavering and dedicated support extended to Sri Lanka following the approval of the second review of the EFF programme.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe noted that this signifies the continued commitment to Sri Lanka’s economic recovery and growth which is critical in reinforcing economic stability and resilience.
+
+Furthermore, he extended gratitude to the Official Creditor Committee co-chaired by India, Japan, France and China for the steadfast support.
+
+The Finance State Minister said that the third tranche of USD 336 million unlocked through this approval, will have a significant positive impact on the country’s economy, while paving the way for more robust economic policies and reforms for long-term sustainable growth and prosperity.
+
+...
+
+[Data](articles/be0ac1d6.json)
+
+---
 
 ### Jeffrey suspended the ban on foreign travel ban
 
@@ -2273,55 +2303,5 @@ A bond maturing on 01.10.2032 closed at 11.95/12.15 percent up from 11.95/12.10 
 [Data](articles/097c0056.json)
 
 [Extended Data](ext_articles/097c0056.ext.json)
-
----
-
-### Three killed in Bibila accident
-
-*2024-06-12 16:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-விபத்தில்-மூவர்-பலி-அறுவர்-காயம்/175-338821) · `ta`
-
-In a tragic accident on Bibila-Mahiyanganaya road, three members of a family died, and six others were injured when a private bus and a van collided head-on on Wednesday afternoon.
-
-🟩
-
-The incident took place on Wednesday afternoon (12) after a vehicle accident in the Bibila - Mahiyanganaya main road.
-
-The accident occurred when a private bus and a van collided head -on.
-
-Three people from the same family were killed in the accident and six others were injured and admitted to the hospital.
-
-◼️
-
-[Data](articles/3054082e.json)
-
-[Extended Data](ext_articles/3054082e.ext.json)
-
----
-
-### Sri Lanka stocks close marginally down, leasing companies see interest
-
-*2024-06-12 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-leasing-companies-see-interest-167685/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed marginally down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.03 percent, or 4.13 points, at 12,390; while the more liquid S&P SL20 Index closed down 0.05 percent, or 1.68 points, at 3,686.
-
-Turnover was 1.6 billion. Index heavyweights, diversified financials and consumer sectors contributed the most.
-
-“Market closed flat as a bit of uncertainty crept in over today’s IMF review announcement,” market participants said.
-
-People’s Leasing and Finance Plc saw the most volumes traded (Rs216mn) in the day. The share closed up at 13.00.
-
-“The diversified financials [with leasing exposure], saw some interest after news of the government’s possible decision to relax vehicle import controls in October.”
-
-Commercial Credit and Finance Plc closed up at 37.40, Vallibel Finance Plc closed up at 45.80 and Central Finance Company Plc closed up at 121.75.
-
-Hayleys Plc also saw interest (Rs188mn), and the share closed up at 108.00.
-
-...
-
-[Data](articles/93bbb19b.json)
-
-[Extended Data](ext_articles/93bbb19b.ext.json)
 
 ---

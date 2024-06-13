@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 11:04:58**
+As of **2024-06-13 11:19:09**
 
 ## Newspaper Stats
 
-*Scraped **30,157** Articles*
+*Scraped **30,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
-adalk | 2,593
+adalk | 2,594
 adaderanalk | 3,418
 tamilmirrorlk | 3,530
 virakesarilk | 4,618
@@ -26,43 +26,55 @@ adaderanasinhalalk | 4,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,153 (100.0%) of 30,157 articles have been extended.
+30,157 (100.0%) of 30,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### කොදෙව්වන්ට ජය
+### West Indies win
 
 *2024-06-13 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197710) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ බටහිර ඉන්දීය කොදෙව් සහ නවසීලන්තය අතර පැවති තරගය ලකුණු 13කින් ජය ගැනීමට කොදෙව් කණ්ඩායම සමත්විය.
+In the Twenty20 World Cup, the West Indies emerged victorious against New Zealand.
+
+🟩
+
+West Indies won the match between the West Indies and New Zealand in the Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/455f8558.json)
 
+[Extended Data](ext_articles/455f8558.ext.json)
+
 ---
 
-### ஊடகவியலாளரின் வீட்டின் மீது தாக்குதல்
+### Attack on the house of the journalist
 
 *2024-06-13 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஊடகவியலாளரின்-வீட்டின்-மீது-தாக்குதல்/71-338849) · `ta`
 
-யாழ்ப்பாணம் - அச்சுவேலியில் உள்ள ஊடகவியலாளர் ஒருவரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து, உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்டுள்ள சம்பவம் வியாழக்கிழமை (13) அதிகாலை 12.15 மணியளவில்  இடம்பெற்றுள்ளது .
+In the early hours of Thursday, journalist Thambichurai Pradeepan's home in Achuveli was attacked by a violent gang on motorcycles. They set fire to a motorcycle and a three-wheeler outside and left pamphlets warning against misrepresenting transgender sentiments inside. The motive behind the attack remains unknown as police investigate.
 
-அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீதே  இவ்வாறு தாக்குதல் நடத்தப்பட்டுள்ளது .
+🟩
 
-இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஜந்து பேர் கொண்ட வன்முறைக்கும்பல் , குறித்த வன்முறையில் ஈடுபட்டுள்ளதாக தெரியவருகிறது.
+The incident took place at around 12.15 am on Thursday (13) at around 12.15 am.
 
-இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள்,  ஆயுதங்களால் தாக்கி  தீ வைத்து கொளுத்தப்பட்டுள்ளது .
+The attack has been attacked on the house of journalist Thambichurai Pradeepan in Achuveli, Pathamani Kali Temple area.
 
-"திருநங்கைளின் உணர்வுகளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டுள்ளது.
+It is reported that the violent gang of two motorcycles has been involved in violence.
 
-தாக்குதலுக்கான காரணம் இதுவரை தெரியவராத நிலையில் சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The motorcycle and the three -wheeler outside the house have been set on fire with weapons and weapons.
+
+The pamphlets printed on the "do not misrepresent the sentiments of the transgender" have been put in the house where the attacked.
+
+Achuveli police have launched an investigation into the incident as the cause of the attack is yet to be known.
 
 ◼️
 
 [Data](articles/662eb4a3.json)
+
+[Extended Data](ext_articles/662eb4a3.ext.json)
 
 ---
 
@@ -84,6 +96,8 @@ Nuttal said that the airline is also looking for an investor, three candidates h
 
 [Data](articles/38c50f1b.json)
 
+[Extended Data](ext_articles/38c50f1b.ext.json)
+
 ---
 
 ### Derailment disrupts train services on coastal line
@@ -97,6 +111,8 @@ Accordingly, the trains operating on the coastal line will experience delays, ac
 ◼️
 
 [Data](articles/03a5de71.json)
+
+[Extended Data](ext_articles/03a5de71.ext.json)
 
 ---
 
@@ -183,6 +199,22 @@ However, Post Office Ruwan Satkumara has said that it has been decided to cancel
 [Data](articles/5e4e6a35.json)
 
 [Extended Data](ext_articles/5e4e6a35.ext.json)
+
+---
+
+### ආර්ථිකය තවමත් අවදානමක
+
+*2024-06-13 09:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-තවමත්-අවදානමක/11-410187) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක විස්තීර්ණ ණය පහසුකමට අදාල වැඩසටහන යටතේ ශ්‍රී ලංකාවේ කාර්ය සාධනය ශක්තිමත් වී ඇති බව එම අරමුදල නිවේදනයක් නිකුත් කරමින් පවසයි. විස්තිර්ණ ණය පහසුකමට අදාළව දෙවැනි සමාලෝචනයෙන් අනතුරුව මූල්‍ය අරමුදල නිකුත් කළ නිවේදනයක මේ බව සඳහන් වෙයි.
+
+එසේම 2023 දෙසැම්බර් අවසානය සඳහා ශ්‍රී ලංකාවට ලබාදුන් සමාජ වියදම් ඉලක්ක හැර සෙසු සියලුම සියලුම ප්‍රමාණාත්මක ඉලක්ක සපුරා ඇි බවද මූල්‍ය අරමුදල පෙන්වා දෙයි. එසේම 2024 අප්‍රේල් අග වන විට බොහෝ ව්‍යුහාත්මක මිණුම් සලකුණු ප්‍රමාදයකින්  හෝ යුතුව සපුරා හෝ ක්‍රියාත්මක කර ඇති බවද අරමුදල පවසයි.
+
+එසේ වුවද, ආර්ථිකය තවමත් අවදානමට ලක්ව ඇති අතර ණය තිරසාරත්වයේ මාවත තවමත් තිරණාත්මක අවධියක පසුවන බවද මූල්‍ය අරමුදල පෙන්වා දෙයි. ප්‍රතිසංස්කරණ ගම්‍යතාව තිරසාරව පවත්වා ගැනීම සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ප්‍රයත්නයන් ආර්ථිකය තිරසාර ප්‍රතිසාධනය සහ ණය තිරසාරත්වය කරා යන මාවතකට ගෙන ඒම සඳහා ඉතා වැදගත් වන බවද මූලය අරමුදල වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/bd56f4da.json)
 
 ---
 
@@ -2263,27 +2295,5 @@ The Committee of Inquiry will be chaired by Ms. A.N.J. De Alwis, Retired Judge o
 [Data](articles/e39f0590.json)
 
 [Extended Data](ext_articles/e39f0590.ext.json)
-
----
-
-### Special Investigation Committee to probe Easter attack
-
-*2024-06-12 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197690) · `si`
-
-The State Intelligence Committee, led by retired chief N., will investigate the Easter attack under President Ranil Wickremesinghe's orders. Mrs. J Alwis is part of the team, aiming to submit a report by September 15.
-
-🟩
-
-The State Intelligence Committee has been appointed to look into the matter and the intelligence head of the National Intelligence and other authorities regarding the Easter attack.
-
-Retirement benchief as the head of the committee. N. The Presidential Media Unit reported that Mrs. J Alwis had been appointed by President Ranil Wickremesinghe.
-
-The report should be completed by September 15 this year.
-
-◼️
-
-[Data](articles/719b517d.json)
-
-[Extended Data](ext_articles/719b517d.ext.json)
 
 ---

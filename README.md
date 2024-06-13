@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 07:00:19**
+As of **2024-06-13 07:23:10**
 
 ## Newspaper Stats
 
-*Scraped **30,126** Articles*
+*Scraped **30,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,590
-adaderanalk | 3,411
+adaderanalk | 3,413
 tamilmirrorlk | 3,524
 virakesarilk | 4,614
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,847
+adaderanasinhalalk | 4,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,113 (100.0%) of 30,126 articles have been extended.
+30,123 (100.0%) of 30,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### දක්ෂිණ අධිවේගයේ අනතුරක් - මංතීරුවක් අවහිර වෙයි
+
+*2024-06-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197702) · `si`
+
+අද (13) අලුයම දක්ෂිණ අධිවේගයේ 61 වන කිලෝමීටර් කණුව ආසන්නයේ අනතුරක් සිදුව තිබිණි.
+
+මත්තල දෙස සිට කොට්ටාව දෙසට ධාවනය වූ ඉන්ධන බවුසරයක් මාර්ගයේ මැද ආරක්ෂිත වැටේ ගැටී අනතුරක සිදුව ඇත.
+
+අනතුර හේතුවෙන් කොළඹ දෙසට ධාවනය වන එක් මංතීරුවක් අවහිර වී ඇති අතර, කොළඹ දෙසට ගමන් කරන වාහන අනෙක් මංතීරුවෙන් ගමන් කළ හැක.
+
+◼️
+
+[Data](articles/0a084860.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-06-13 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197700) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත්ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඌව පළාතේත් සහ අම්පාර, මඩකලපුව දිස්ත්‍රික්කවලත් ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/696298fa.json)
+
+---
+
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-06-13 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99848/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central, and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/16ed5ba2.json)
+
+---
+
+### IMF approves third tranche of Sri Lanka bailout after second review
+
+*2024-06-13 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99847/imf-approves-third-tranche-of-sri-lanka-bailout-after-second-review) · `en`
+
+The Executive Board of the International Monetary Fund (IMF) completed the second review under the 48-month Extended Fund Facility (EFF) Arrangement, allowing the authorities to draw SDR 254 million (about US$336 million).
+
+This brings the total IMF financial support disbursed so far to SDR 762 million (about US$1 billion). The Executive Board also concluded the 2024 Article IV Consultation with Sri Lanka, the Washington-based lender said in a statement.
+
+The EFF arrangement for Sri Lanka was approved by the Executive Board on March 20, 2023 in an amount of SDR 2.286 billion (395 percent of quota or about US$3 billion). The first review of the EFF was completed by the Executive Board on December 12, 2023 with disbursements of SDR 254 million (about US$337 million).
+
+...
+
+[Data](articles/0c7b7a25.json)
+
+---
 
 ### There are fears that elections will be held;The ruling party in the uncertainty- Hakeem
 
@@ -154,19 +222,25 @@ They say that they can end the illegal industrial activities when they are arres
 
 ---
 
-### இளம் மருத்துவர் சடலமாக மீட்பு
+### Recovery of a young doctor's body
 
 *2024-06-13 02:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-மருத்துவர்-சடலமாக-மீட்பு/175-338840) · `ta`
 
-பருத்தித்துறை ஆதார வைத்திய சாலையின் விடுதியில் தங்கியிருந்த பெண்ணியல் நோய் வைத்தியர் ஒருவர் நேற்று பிற்பகல் சடலமாக மீட்க்கப்பட்டுள்ளார்.
+A young female doctor, Premanandarasa Krishnananda, aged 30, from Tirunelveli, died at Point Pedro Basic Hospital due to excessive anesthesia caused by severe stress. Her body was recovered and an autopsy confirmed the cause of death.
 
-கடும் மன அழுத்தம் காரணமாக அதிகளவான மயக்க மருந்தை உடலில் செலுத்தியமையே அவரது மரணத்திறக்கு காரணம் என பிரேத பரிசோதனையில் தெரியவந்துள்ளது.
+🟩
 
-பருத்தித்துறை ஆதார வைத்திய சாலையில் பெண்ணியல் நோய் மருத்துவராக அவர் கடமை புரிந்து வரும் திருநெல்வேலியைச் சேர்ந்த பிரேமானந்தராசா கிருஷ்ணானந்தா (வயது- 30) என்ற வைத்தியரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார். (a)
+A woman who was staying at the Point Pedro Basic Hospital has been recovered yesterday afternoon.
+
+An autopsy revealed that his death was the cause of excessive anesthesia in the body due to severe stress.
+
+Premanandarasa Krishnananda (age 30) from Tirunelveli, who is a feminine physician at Point Pedro Source Hospital, has been recovered.. (A)
 
 ◼️
 
 [Data](articles/7f1a08f6.json)
+
+[Extended Data](ext_articles/7f1a08f6.ext.json)
 
 ---
 
@@ -632,6 +706,8 @@ Apply this paste to your face and leave it on for 15 minutes and then wash it of
 
 [Data](articles/e36f52d1.json)
 
+[Extended Data](ext_articles/e36f52d1.ext.json)
+
 ---
 
 ### AKD’s speech on police and rule of law: Merits and demerits
@@ -682,6 +758,8 @@ The primary objective of YAP4C is to mobilize a movement of young advocates pres
 
 [Data](articles/007c2026.json)
 
+[Extended Data](ext_articles/007c2026.ext.json)
+
 ---
 
 ### Life Sunday Attack - President who landed directly on the field
@@ -718,6 +796,8 @@ The Chartered Institute of Personnel Management (CIPM) successfully concluded th
 
 [Data](articles/7ea718de.json)
 
+[Extended Data](ext_articles/7ea718de.ext.json)
+
 ---
 
 ### WealthOS successfully raises £4Mn with institutional investors Barclays
@@ -733,6 +813,8 @@ The company’s mission is to create fast, seamless digital infrastructure, maki
 ...
 
 [Data](articles/a2ca151b.json)
+
+[Extended Data](ext_articles/a2ca151b.ext.json)
 
 ---
 
@@ -751,6 +833,8 @@ The IMF board is scheduled to discuss the second review of the Extended Fund Fac
 ...
 
 [Data](articles/bd499266.json)
+
+[Extended Data](ext_articles/bd499266.ext.json)
 
 ---
 
@@ -2149,101 +2233,5 @@ A group of officers including the Secretary to the President Saman Ekanayake joi
 [Data](articles/2d139418.json)
 
 [Extended Data](ext_articles/2d139418.ext.json)
-
----
-
-### Sri Lanka calls on Global South to collectively address climate change, debt burden & food security
-
-*2024-06-12 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99832/sri-lanka-calls-on-global-south-to-collectively-address-climate-change-debt-burden-food-security) · `en`
-
-Minister of Foreign Affairs Ali Sabry, delivering his statement at the BRICS Foreign Ministers’ meeting, stated that Global South should collectively address global challenges of climate change, debt burden and food security, the Sri Lankan Embassy in Moscow said in a statement.
-
-He further stressed that the architecture of global governance, established in the aftermath of World War II has achieved significant milestones. “However, that it was increasingly evident that this structure must evolve to reflect the contemporary realities of our world”, he added.
-
-The Foreign Minister highlighted that voices and interests of emerging economies and developing nations must be integrated more fully into the decision-making processes of international institutions, the statement added.
-
-...
-
-[Data](articles/2b3360bd.json)
-
-[Extended Data](ext_articles/2b3360bd.ext.json)
-
----
-
-### Teenage school girl accidentally electrocuted to death
-
-*2024-06-12 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99831/-teenage-school-girl-accidentally-electrocuted-to-death) · `en`
-
-A 17-year-old school girl has reportedly been electrocuted to death while attempting to plug in an electric sewing machine to a power socket in an unsafe manner.
-
-The deceased is a student of Mahamaya Balika Vidyalaya, Nugegoda.
-
-The 17-year-old girl had attempted to use the sewing machine, which was inoperable, at home while her grandmother was resting in another room due to an illness.
-
-It is said that the student had attempted to connect the plug connected to the motor and wire of the sewing machine to a wall switch socket in the room but was unsuccessful.
-
-She was then electrocuted while attempting to modify the plug by cutting it and then inserting the wires directly into the socket.
-
-After hearing the girl’s screams, a neighbour had rushed to help and proceeded to hospitalise the girl. However, she was pronounced dead on admission to the Piliyandala District Hospital.
-
-...
-
-[Data](articles/8d37d29c.json)
-
-[Extended Data](ext_articles/8d37d29c.ext.json)
-
----
-
-### The 'fearlessness', which is the image of the thoughts of illegal and anti -social activities
-
-*2024-06-12 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185906) · `ta`
-
-The teaser for "Pathiyamaria Prama," featuring actor Jedi, has sparked interest due to its depiction of fearlessness in illegal and antisocial acts. Directed by Rahul Kabali and produced by 69MM Film, the movie includes performances from Guru Somasundaram, Harish Uthaman, John Vijay, among others. Composed by Nanda and Praveen, the film's storyline, revolving around powerful forces being punished, resonates with audiences, generating anticipation for its release.
-
-🟩
-
-The teaser of the movie 'Pathiyamaria Prama' has been released as one of the heroes of actor Jedi story.. The composer and leading star actor Vijay Antony posted it on his social network and congratulated the film crew.
-
-Jedi, Guru Somasundaram, Harish Uthaman, John Vijay, Vinod Sagar, Sai Priyanka Ruth, Vishwant, Harish, Divya Ganesh, directed by debutant director Rahul Kabali.
-
-Nanda and Praveen have composed the film for the film. The film was produced by 69MM Film.
-
-The first look of the film was recently released. In this case, the teaser of the film has been released. In this teaser, when the powerful forces of the mighty obey and punished at various levels in life, the victims should be killed in the minds of the victims.
-
-The story of the film has been very impressed with all fans as it is in shape to the thoughts of such anti -social and illegal activities.. It has also created anticipation of the film.
-
-◼️
-
-[Data](articles/e513e3a6.json)
-
-[Extended Data](ext_articles/e513e3a6.ext.json)
-
----
-
-### The reason the Sri Lankan team was defeated
-
-*2024-06-12 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197682) · `si`
-
-Sri Lanka's defeat in the T20 World Cup was attributed to group errors, particularly in batting, leading to their exclusion from the Super 08 stage. Their match against Nepal was abandoned due to rain, and they faced criticism from South Africa and Bangladesh in the preliminaries. The final against the Netherlands is set for the 17th.
-
-🟩
-
-Sri Lanka spinner Mah said that the Sri Lankan team could not be satisfied at the 20th World Cup.
-
-"We had the good mindset when we got into the tournament. Our bowling was done well. Batting to bat were well done in all three tournaments. We were very long in front of the tournament. I think it was a lot of mistakes as a group. So we couldn't go to Super 08. The world sees what happened in our batting. I think the biggest mistake is that it is the only one is the one who is shaping to sinism. "
-
-Sri Lanka lost the opportunity to enter the 8 World Cup in T20 World Cup with the loss of the match due to the race that was scheduled to be held today (12).
-
-Due to the overthrow of Sri Lanka and Nepal, the Sri Lanka-Nephanipa's match was abandoned due to the rain.
-
-In the preliminary round of the tournament, Sri Lankan players were criticized by South Africa and Bangladesh in the preliminary round of the tournament.
-
-The final will be held on the 17th against the Netherlands to attend the Netherlands.
-
-◼️
-
-[Data](articles/6029ea5c.json)
-
-[Extended Data](ext_articles/6029ea5c.ext.json)
 
 ---

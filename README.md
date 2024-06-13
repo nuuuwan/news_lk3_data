@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 10:53:05**
+As of **2024-06-13 11:04:58**
 
 ## Newspaper Stats
 
-*Scraped **30,153** Articles*
+*Scraped **30,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,105 @@ islandlk | 1,637
 economynextcom | 1,733
 dailyftlk | 1,827
 adalk | 2,593
-adaderanalk | 3,416
-tamilmirrorlk | 3,529
+adaderanalk | 3,418
+tamilmirrorlk | 3,530
 virakesarilk | 4,618
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,856
+adaderanasinhalalk | 4,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,151 (100.0%) of 30,153 articles have been extended.
+30,153 (100.0%) of 30,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### දුම්රියක් පීලි පනී - මුහුදුබඩ මාර්ගය සම්පූර්ණයෙන්ම අවහිරයි
+### කොදෙව්වන්ට ජය
+
+*2024-06-13 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197710) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ බටහිර ඉන්දීය කොදෙව් සහ නවසීලන්තය අතර පැවති තරගය ලකුණු 13කින් ජය ගැනීමට කොදෙව් කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/455f8558.json)
+
+---
+
+### ஊடகவியலாளரின் வீட்டின் மீது தாக்குதல்
+
+*2024-06-13 10:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஊடகவியலாளரின்-வீட்டின்-மீது-தாக்குதல்/71-338849) · `ta`
+
+யாழ்ப்பாணம் - அச்சுவேலியில் உள்ள ஊடகவியலாளர் ஒருவரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து, உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்டுள்ள சம்பவம் வியாழக்கிழமை (13) அதிகாலை 12.15 மணியளவில்  இடம்பெற்றுள்ளது .
+
+அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீதே  இவ்வாறு தாக்குதல் நடத்தப்பட்டுள்ளது .
+
+இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஜந்து பேர் கொண்ட வன்முறைக்கும்பல் , குறித்த வன்முறையில் ஈடுபட்டுள்ளதாக தெரியவருகிறது.
+
+இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள்,  ஆயுதங்களால் தாக்கி  தீ வைத்து கொளுத்தப்பட்டுள்ளது .
+
+"திருநங்கைளின் உணர்வுகளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டுள்ளது.
+
+தாக்குதலுக்கான காரணம் இதுவரை தெரியவராத நிலையில் சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/662eb4a3.json)
+
+---
+
+### Privatisation of SriLankan Airlines is part of IMF program, says CEO
+
+*2024-06-13 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99853/privatisation-of-srilankan-airlines-is-part-of-imf-program-says-ceo) · `en`
+
+SriLankan Airline CEO Richard Nuttall said that the government is on its way to privatise several state-owned enterprises as part of the International Monetary Fund (IMF) program and one of those is the flag carrier of the island nation.
+
+“The government is trying to privatise a number of state-owned enterprises as a part of the IMF program that it’s going through. One of those is SriLankan Airlines,” Nuttall said speaking to ANI on Wednesday.
+
+Nuttall shared that one of the steps taken in that direction is the government helping with the balance sheet which will be completed in a month or two.
+
+“There are two parts to that. One is, the government working to help us with our balance sheet and a lot of work has gone on with that and we expect that to be finished in the next one or two months,” the CEO said.
+
+Nuttal said that the airline is also looking for an investor, three candidates have been finalised and the government is in talks with them.
+
+...
+
+[Data](articles/38c50f1b.json)
+
+---
+
+### Derailment disrupts train services on coastal line
+
+*2024-06-13 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99852/derailment-disrupts-train-services-on-coastal-line) · `en`
+
+A slow train plying from Panadura to Maradana has derailed near the Panadura railway station, disrupting services on the coastal line, Sri Lanka Railways announced.
+
+Accordingly, the trains operating on the coastal line will experience delays, according to Sri Lanka Raiways.
+
+◼️
+
+[Data](articles/03a5de71.json)
+
+---
+
+### Train tracks jumps - the coastal road completely blocks
 
 *2024-06-13 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197709) · `si`
 
-පානදුර දුම්රිය ස්ථානය ආසන්නයේ දුම්රියක් පීලි පැනීමෙන් මුහුදුබඩ දුම්රිය මාර්ගය මුළුමනින්ම අවහිර වී තිබේ.
+A train derailment near Panadura Railway Station has blocked the coastal railway line, disrupting travel.
+
+🟩
+
+The coastal railway line has completely blocked by derailing a train near the Panadura Railway Station.
 
 ◼️
 
 [Data](articles/48d53444.json)
+
+[Extended Data](ext_articles/48d53444.ext.json)
 
 ---
 
@@ -59,6 +133,8 @@ The Finance State Minister said that the third tranche of USD 336 million unlock
 ...
 
 [Data](articles/be0ac1d6.json)
+
+[Extended Data](ext_articles/be0ac1d6.ext.json)
 
 ---
 
@@ -2209,99 +2285,5 @@ The report should be completed by September 15 this year.
 [Data](articles/719b517d.json)
 
 [Extended Data](ext_articles/719b517d.ext.json)
-
----
-
-### Sri Lanka to amend criminal code to strengthen laws against sexual assault
-
-*2024-06-12 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-criminal-code-to-strengthen-laws-against-sexual-assault-167692/) · `en`
-
-ECONOMYNEXT – Sri Lanka will revise its Penal Code to criminalize sexual harassment, Cabinet Spokesman Minister Bandula Gunawardena said.
-
-“The cabinet has given approval to criminalize sexual harassment including harassment in public places,” Gunawardena told reporters on Wednesday.
-
-“The clearance of the Attorney General has been received for the draft Bill prepared by the Legal Draftsman.”
-
-The draft Bill will be published in the Government Gazette and submitted to Parliament for approval.
-
-Section 345 of Sri Lanka’s Penal Code stipulates a punishment of a maximum prison sentence of two years and/or a fine.
-
-However, sexual violence and harassment is commonplace in Sri Lanka with many cases going unreported. It is estimated that 90 percent of women experience sexual harassment in some form. (Colombo/Jun12/2024)
-
-◼️
-
-[Data](articles/7c8d1dc8.json)
-
-[Extended Data](ext_articles/7c8d1dc8.ext.json)
-
----
-
-### Memorial affair;Handing over the report to the President
-
-*2024-06-12 17:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைவேந்தல்-விவகாரம்-அறிக்கை-ஜனாதிபதிக்கு-கையளிப்பு/175-338822) · `ta`
-
-An expert panel in Sri Lanka submitted a report to President Ranil Wickremesinghe, focusing on victims of conflicts (1983-2009). The committee, led by Senior Professor Jagath Weerasinghe and others, included public consultations across six districts. It emphasized the importance of commemorating diverse perspectives and recommended a symbolic building to preserve Sri Lanka's conflict art and culture. The goal is to foster national unity and reconciliation.
-
-🟩
-
-The report of the expert panel appointed to investigate the victims of armed conflicts, political unrest or domestic riots in Sri Lanka has recently been handed over to President Ranil Wickremesinghe at the Presidential Office.
-
-Senior Professor Jagath Weerasinghe, Katpula Arts University Professor Chandragupta Thenuwara, Professor of Jaffna University. A committee was appointed by Sanatanan, Professor Parsana Haneefa of the University of Colombo, Director General of the National Integration and Reconciliation Office, Dushari Suriyarachchi and the Additional Director General of Urban Development Authority Mahinda Vithanachi.
-
-The committee was appointed by President Ranil Wickremesinghe as per the Cabinet decision taken on 22-05-2023.
-
-...
-
-[Data](articles/576ac737.json)
-
-[Extended Data](ext_articles/576ac737.ext.json)
-
----
-
-### Wasp attack in a school and teachers in a school
-
-*2024-06-12 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197689) · `si`
-
-In a shocking incident, a swarm of wasps attacked students and teachers at Kaga Vidyalaya in the Kekirawa Education Zone, resulting in 70 individuals being hospitalized, including one student critically injured who was transferred to another hospital for further treatment.
-
-🟩
-
-A group of students and teachers in a school belonging to the Kekirawa Education Zone have been attacked today (12).
-
-Our correspondent stated that 35 students and 35 teachers have been admitted to the Kekirawa District Hospital.
-
-The wasp attack was launched to students and teachers of the high Kaga Vidyalaya belonging to the Kekirawa Education Zone.
-
-According to hospital sources, the student was severely transferred to the Dambulla Base Hospital for further treatment.
-
-◼️
-
-[Data](articles/975c8c47.json)
-
-[Extended Data](ext_articles/975c8c47.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 303.80/304.00 to US dollar
-
-*2024-06-12 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-80-304-00-to-us-dollar-167688/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee weakened further to close at 303.80/304.00 to the US dollar on Wednesday, from 303.50/75 to the dollar the previous week, dealers said. Bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.20/40 percent, up from 10.15/25 percent.
-
-A bond maturing on 15.09.2027 closed at 10.75/11.00 percent, up from 10.75/90 percent.
-
-A bond maturing on 01.07.2028 closed at 11.15/40 percent, up from 11.10/25 percent.
-
-A bond maturing on 15.05.2030 closed at 11.90/12.05 percent, up from 11.85/95 percent.
-
-A bond maturing on 01.10.2032 closed at 11.95/12.15 percent up from 11.95/12.10 percent. (Colombo/Jun12/2024)
-
-◼️
-
-[Data](articles/097c0056.json)
-
-[Extended Data](ext_articles/097c0056.ext.json)
 
 ---

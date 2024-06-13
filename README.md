@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 12:19:05**
+As of **2024-06-13 12:34:32**
 
 ## Newspaper Stats
 
-*Scraped **30,171** Articles*
+*Scraped **30,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,594
-adaderanalk | 3,418
-tamilmirrorlk | 3,533
+adalk | 2,596
+adaderanalk | 3,419
+tamilmirrorlk | 3,534
 virakesarilk | 4,622
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,858
@@ -26,11 +26,49 @@ adaderanasinhalalk | 4,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,168 (100.0%) of 30,171 articles have been extended.
+30,171 (100.0%) of 30,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
+
+### கதிர்காம காட்டுப்பாதை: இந்துக்கள் மத்தியில் குழப்பம்
+
+*2024-06-13 12:13:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதிர்காம-காட்டுப்பாதை-இந்துக்கள்-மத்தியில்-குழப்பம்/175-338856) · `ta`
+
+வரலாற்றுப்  பிரசித்திபெற்ற கதிர்காமக் கந்தன் ஆலய ஆடிவேல் விழாவிற்குச் செல்லும் பாதயாத்திரிகர்களுக்கான காட்டுப்பாதை திறக்கப்படும் திகதியில் மீண்டும் மாற்றம் ஏற்படுத்தப் பட்டுள்ளது.
+
+அதாவது  இப் பாதை திறக்கப்படும் திகதி ஜூலை 2 ஆம் திகதி எனக் கூறப்பட்டுள்ளது .
+
+கதிர்காமத்தில் செவ்வாய்க்கிழமை (11) இடம் பெற்ற கூட்டத்தில் இத் திகதி தீர்மானிக்கப்பட்டுள்ளது. அதாவது ஜூலை 2 ஆம் திகதி திறக்கப்பட்டு 14 ஆம் திகதி மூடப்படும் என்று மொனராகலை மாவட்ட அரசாங்க அதிபர் ரத்னாயக்க அறிவித்திருக்கிறார்.
+
+குறித்த நான்கு நாட்களில் காட்டைக் கடந்து கொடியேற்றத்திற்குச் செல்ல முடியாது. சாதாரணமாக ஆறு நாட்கள் தேவை. எனவே இந்த நாட்குறைப்பு திட்டமிட்ட ஒரு சதியாகக் கூட இருக்கலாம் என கருதப்படுகிறது.
+
+அந்தக் காலத்தில் இப் புனித யாத்திரை பக்தி பூர்வமாக கொடியேற்றத்திற்கு பத்து நாட்களுக்கு முன்னரே திறக்கப்பட்டு எந்த அன்னதானமோ நீர் விநியோகமோ இல்லாது சிறப்பாக இடம்பெற்று வந்திருக்கிறது. சுமார் 20 நாட்கள் காட்டுப் பாதை திறந்திருக்கும்.
+
+...
+
+[Data](articles/f1d35b7e.json)
+
+---
+
+### Overseas travel ban on Perpetual Treasuries Chairman temporarily lifted
+
+*2024-06-13 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99854/-overseas-travel-ban-on-perpetual-treasuries-chairman-temporarily-lifted) · `en`
+
+The Colombo High Court has temporarily lifted the overseas travel ban imposed on the Chairman of Perpetual Treasuries Limited (PTL) Geoffrey Aloysius, said Ada Derana reporter.
+
+This order was issued when the relevant case was taken up before a three-member judge panel comprising Justices Amal Perera, Naml Balalle and Adithya Patabendige today (13).
+
+Geoffrey Aloysius, the sixth defendant of the Central Bank of Sri Lanka bond scam case, was allowed to travel overseas for his medical treatments in Malaysia accordingly. The travel ban suspension is effective from June 1 to September 12.
+
+Meanwhile, the court has also ordered to communicate the Controller General of Immigration and Emigration that the relevant overseas travel ban has been temporarily lifted.
+
+◼️
+
+[Data](articles/7020ae25.json)
+
+---
 
 ### Gold Malah Girls on CCTV Camera
 
@@ -56,21 +94,47 @@ The motorcycle conducted by the registration number on the rider, the motorcycle
 
 ---
 
-### ரூ.3 லட்சம் மதிப்பிலான இஞ்சி பறிமுதல்
+### Seized ginger worth Rs 3 lakh
 
 *2024-06-13 11:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-3-லட்சம்-மதிப்பிலான-இஞ்சி-பறிமுதல்/175-338851) · `ta`
 
-இராமநாதபுரம் மாவட்டம் மண்டபம் அடுத்த மரைக்காயர் பட்டினம் கடற்கரை அருகே நாட்டிற்கு கடத்துவதற்காக வீட்டின்  பின்புறம் பதுக்கி வைக்கப்பட்டிருந்த ரூ.3 லட்சம் மதிப்பிலான 60 இஞ்சி மூட்டைகளை பறிமுதல் செய்யப்பட்டுள்ளன.
+Customs officials in India confiscated 60 bundles of ginger worth Rs 3 lakh, suspected to be smuggled, from a house near Marikkayar Pattinam beach in the Ramanathapuram district. The owner of the house is also under scrutiny as part of the investigation.
 
-குறித்த மூட்டைகள் மண்டபம் சுங்கத்துறை அதிகாரிகளால் பறிமுதல் செய்த நிலையில் சமையல் இஞ்சி மூட்டைகளை பதுக்கி வைத்திருந்த  வீட்டின் உரிமையாளர் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+🟩
 
-இந்நிலையில் வியாழக்கிழமை (13) அதிகாலை இலங்கைக்கு மண்டபம் அடுத்துள்ள மரைக்காயர் பட்டினம் கடற்கரையிலிருந்து சமையல் இஞ்சி நாட்டுப் படகில் கடத்த இருப்பதாக மண்டபம் சுங்கத் துறை அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவல் அடிப்படையில் புதன்கிழமை இரவு(12)  மரைக்காயர்பட்டிணம் கடற்கரையோரம் உள்ள வீடுகள் மற்றும் மீன் வைக்கும் கம்பெனி உள்ளிட்ட  பகுதிகளில் தொடர்ந்து அதிரடி சோதனை நடத்தினர்.
+60 ginger bundles worth Rs 3 lakh have been confiscated for smuggling to the country near the Marikkayar Pattinam beach next to the Ramanathapuram district.
 
-அப்போது மரைக்காயர்பட்டிணம் கடற்கரையோரமாக உள்ள வீட்டின் உரிமையாளர் பெயர் தெரியாத நிலையில் அந்த வீட்டின் பின்புறம் இருந்து 60 சாக்கு  மூட்டைகளில் சுமார் 2 டன் எடை கொண்ட சமையல் இஞ்சி பறிமுதல் செய்யப்பட்டது.
+The owner of the house where the bundles have been confiscated by the Customs officials have been seized by the Customs Department.
 
-...
+In the early hours of Thursday (13), the Mandapam Customs officials continued to conduct a series of raids on Wednesday night (12) on the basis of confidential information received by the Customs Department that the Mandapam Customs Department had been smuggled into a ginger boat from the Marikkayar Pattinam beach.
+
+At the time, the owner of the house along the Marikaiyarpattinam beach was unknown.
+
+Subsequently, the gingerbread bundles are being investigated by the owner of the house where Customs officials have taken the office.
+
+The first phase of the investigation revealed that the cooking ginger was smuggled into the country. Customs officials said the seized ginger may be about Rs 3 lakh.
+
+◼️
 
 [Data](articles/211ad957.json)
+
+[Extended Data](ext_articles/211ad957.ext.json)
+
+---
+
+### දුම්රිය පීලිපැනීමක් හේතුවෙන් දුම්රිය ප්‍රමාදයක්
+
+*2024-06-13 11:02:26* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පීලිපැනීමක්-හේතුවෙන්-දුම්රිය-ප්‍රමාදයක්/11-410189) · `si`
+
+අද (13) දින පානදුර සිට කොළඹ මරදාන බලා ධාවනය වන දුම්රියක් පානදුර දුම්රිය ස්ථානය ආසන්නයේ පිලී පැනීමකට ලක්ව ඇත.
+
+මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය මාර්ගයේ මාර්ග දෙකම අවහිරව ඇත. ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමනය මේ වන විට තාවකාලික නවතා ඇත. මහව සිට බෙලිඅත්ත බලා ධාවනය වන රජරට රැජිණ දුම්රිය ද අද දින කොළඹ කොටුව දුම්රිය ස්ථානයෙන් ගමන් අවසන් කිරීමට පියවර ගෙන ඇත.
+
+මුහුදුබඩ මාර්ගයේ අද දින දහවල් ධාවනය වන දුම්රියන් මොරටුව දුම්රිය ස්ථානය දක්වා පමණක් සීමා වන අතර දුම්රිය පිලී ගත කොට දුම්රිය ගමනාගමන කටයුතු සිදු කිරීමට යම් කාලයක් ගත වනු ඇත. ( I J )
+
+◼️
+
+[Data](articles/7eb8d422.json)
 
 ---
 
@@ -310,21 +374,41 @@ The Minister of State for Finance has thanked the International Monetary Fund Ex
 
 ---
 
-### அஞ்சல் ஊழியர்கள் பணிப்புறக்கணிப்பு
+### ලංකා ඉතිහාසයේ දිනක් තුළ සිදුකරන විශාලම භාණ්ඩාගාර බැඳුම්කර වෙන්දේසිය අද?
+
+*2024-06-13 09:47:43* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ඉතිහාසයේ-දිනක්-තුළ-සිදුකරන-විශාලම-භාණ්ඩාගාර-බැඳුම්කර-වෙන්දේසිය-අද-/11-410188) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් අද (13) දිනයේ දී රු. මිලියන 295,000 ක භාණ්ඩාගාර බැඳුම්කර වෙන්දේසියක් සිදුකිරිමට නියමිතය. මෙය දිනක් තුළ ශ්‍රී ලංකා මහ බැකුව විසින් සිදුකරන විශාලම භාණ්ඩාගාර බැඳුම්කර නිකතුව බවට වාර්තා වෙයි.
+
+පරිණත කාණ්ඩ තුනක් යටතේ මෙම වෙන්දේසිය පැවැත්වෙයි. එනම් 2027 ඔක්තෝබර් 15 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 60,000 ක්, 2029 සැප්තැම්බර් 15 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 125,000 ක් සහ2031 දෙසැම්බර් 01 වැනි දින කල් පිරෙන ලෙස රු. මිලියන 110,000 ක් ලෙස මෙම වෙන්දේසිය සිදුකිරිමට නියමිතය.
+
+◼️
+
+[Data](articles/76e494c5.json)
+
+---
+
+### Postal staff work
 
 *2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்கள்-பணிப்புறக்கணிப்பு/175-338845) · `ta`
 
-ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கம் நேற்று (12) நள்ளிரவு முதல் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையை ஆரம்பித்துள்ளது.
+The Joint Postal Employees Union initiated a nationwide strike from midnight to demand urgent solutions to staffing shortages in the Postal Department. In response, the Post Office canceled all vacations for postal workers.
 
-இன்று (13) நள்ளிரவு வரை நாடளாவிய ரீதியில் இந்த பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளதாக ஒன்றிணைந்த அஞ்சல் ஊழியர் சங்கத்தின் அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.
+🟩
 
-அஞ்சல் திணைக்களத்தில் நிலவும் ஊழியர் பற்றாக்குறைக்கு உடனடி தீர்வை வழங்குமாறு அதிகாரிகளுக்கு அறிவிப்பதே இந்த தொழிற்சங்க நடவடிக்கையின் நோக்கம் என அவர் குறிப்பிட்டார்.
+The Joint Postal Employees Union has announced the union action yesterday (12) at midnight.
 
-எவ்வாறாயினும், அனைத்து அஞ்சல் ஊழியர்களின் விடுமுறையையும் உடனடியாக அமுலுக்கு வரும் வகையில் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளதாக அஞ்சல் மா அதிபர் ருவன் சத்குமார தெரிவித்துள்ளார். R
+Sindhaka Bandara, the caller of the Joint Postal Employees Union, said that the workplace will be carried out nationwide till midnight today.
+
+He said the purpose of this union action was to inform the authorities to provide immediate solution to the shortage of employee in the Postal Department.
+
+However, Post Office Ruwan Satkumara has said that it has been decided to cancel all postal workers' vacation immediately.. Remble
 
 ◼️
 
 [Data](articles/18aed32a.json)
+
+[Extended Data](ext_articles/18aed32a.ext.json)
 
 ---
 
@@ -1098,17 +1182,23 @@ Premanandarasa Krishnananda (age 30) from Tirunelveli, who is a feminine physici
 
 ---
 
-### இரண்டாவது மீளாய்வுக்கு ஐ.எம்.எப். ஒப்புதல்
+### IMF for the second review. Approval
 
 *2024-06-13 02:20:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-மீளாய்வுக்கு-ஐ-எம்-எப்-ஒப்புதல்/175-338839) · `ta`
 
-சர்வதேச நாணய நிதியத்தால் இலங்கைக்கு அறிமுகப்படுத்தப்பட்ட வேலைத்திட்டத்தின் இரண்டாவது மீளாய்வுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+The IMF has approved the second review of its program with Sri Lanka, marking progress in economic reforms aimed at securing a prosperous future for all Sri Lankans.
 
-"இலங்கையின் வேலைத்திட்டத்தின் 2 ஆவது மீளாய்வுக்கு சர்வதேச நாணய நிதியம் ஒப்புதல் அளித்துள்ளது. பொருளாதார சீர்திருத்தங்களை முன்னெடுத்துச் செல்வதற்கும், அனைத்து இலங்கையர்களுக்கும் வளமான எதிர்காலத்தைப் பாதுகாப்பதற்கும் எங்களின் அர்ப்பணிப்புக்கு இந்தச் சாதனை ஒரு சான்றாகும்" என்று குறிப்பிட்டுள்ளார். (a)
+🟩
+
+External Affairs Minister Ali Sabri said the second review of the program introduced to Sri Lanka by the International Monetary Fund has been granted.
+
+“International Monetary Fund has approved the 2nd review of Sri Lanka's program. This achievement is a testament to our commitment to advance economic reforms and protect the prosperous future for all Sri Lankans. ”. (A)
 
 ◼️
 
 [Data](articles/6830b174.json)
+
+[Extended Data](ext_articles/6830b174.ext.json)
 
 ---
 
@@ -2201,85 +2291,5 @@ It is said that the presidential election is scheduled to be held between Septem
 [Data](articles/81f6879e.json)
 
 [Extended Data](ext_articles/81f6879e.ext.json)
-
----
-
-### Yall. Attention struggle
-
-*2024-06-12 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185951) · `ta`
-
-Protesters marched in Jaffna, demanding teacher salary issues be resolved, publication rights for teachers, better declarations for poor teachers, and improved student nutrition. The Sri Lanka Teachers Union is involved in this struggle.
-
-🟩
-
-A protest march was held on Wednesday afternoon in front of the educational zones in the Jaffna district.
-
-Various demands have been made on various demands, including the elimination of the salary conflict of the Chancellor Teachers, the Publication of Chancellor Teachers, the Poor Declaration of Chancellor Teachers, and the Nutrition of Students.
-
-It is noteworthy that the Sri Lanka Teachers Union has been invited to carry out a struggle for various demands.
-
-◼️
-
-[Data](articles/c766134d.json)
-
-[Extended Data](ext_articles/c766134d.ext.json)
-
----
-
-### CBSL to regulate Money or Value Transfer Service providers in Sri Lanka
-
-*2024-06-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99842/cbsl-to-regulate-and-money-or-value-transfer-service-providers-in-sri-lanka) · `en`
-
-The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulatory and supervisory authority of Money or Value Transfer Service (MVTS) providers in Sri Lanka, effective from June 03, 2024.
-
-“Currently, institutions providing money transfer services in Sri Lanka such as banks and nonbank financial institutions, are regulated by the Central Bank of Sri Lanka (CBSL) or other relevant authorities to ensure financial system stability. However, some entities providing similar services operate outside the formal system, potentially disrupting the money transfer system and not being subject to Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) regulatory framework”, the CBSL said in a statement.
-
-...
-
-[Data](articles/2596a42f.json)
-
-[Extended Data](ext_articles/2596a42f.ext.json)
-
----
-
-### CBSL to regulate Money or Value Transfer Service providers in Sri Lanka
-
-*2024-06-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99842/cbsl-to-regulate-money-or-value-transfer-service-providers-in-sri-lanka) · `en`
-
-The Central Bank of Sri Lanka (CBSL) announced that it functions as the regulatory and supervisory authority of Money or Value Transfer Service (MVTS) providers in Sri Lanka, effective from June 03, 2024.
-
-“Currently, institutions providing money transfer services in Sri Lanka such as banks and nonbank financial institutions, are regulated by the Central Bank of Sri Lanka (CBSL) or other relevant authorities to ensure financial system stability. However, some entities providing similar services operate outside the formal system, potentially disrupting the money transfer system and not being subject to Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) regulatory framework”, the CBSL said in a statement.
-
-...
-
-[Data](articles/5116c294.json)
-
-[Extended Data](ext_articles/5116c294.ext.json)
-
----
-
-### President commemorates action to investigate the Easter attack on the Easter attack
-
-*2024-06-12 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ලද-පූර්ව-බුද්ධි-තොරතුරු-ගැන-බලධාරීන්-ගත්-ක්‍රියාමාර්ග-විමර්ශනයට-ජනපතිගෙන්-කමිටුව/11-410182) · `si`
-
-President Ranil Wickremesinghe has formed a committee to probe actions taken by the State Intelligence Service (SIS) and others before the 2019 Easter bombings. The committee, chaired by Pension High Court Judge N.J. Alwis, includes a special grade officer and a senior attorney. They must submit their findings by September 15, 2024.
-
-🟩
-
-Pension High Court Judge. N. J. Mrs. Alwis to be appointed chairman of the Committee.
-
-Advice to provide the committee report before September 15.
-
-President Ranil Wickremesinghe has appointed a committee to investigate the pre-intelligence (SIS) and other authorities taken regarding the pre-intelligence (SIS) and other authorities who have taken about the premises of the bombings on April 21, 2019.
-
-Pension High Court Judge. N. J. Mr. Alwis' fellow members of the Commission of Investigation Committee is a special grade officer of the Sri Lanka Administrative Service. N. K. Mrs. Somaratne and Senior Attorney. M. it. N. Mr. Nadan has been appointed.
-
-Senior Assistant Secretary Sarathajeli Manharan is the Secretary to the Investigation Committee.
-
-...
-
-[Data](articles/49bb6f19.json)
-
-[Extended Data](ext_articles/49bb6f19.ext.json)
 
 ---

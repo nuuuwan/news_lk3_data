@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 18:24:40**
+As of **2024-06-13 18:36:11**
 
 ## Newspaper Stats
 
-*Scraped **30,222** Articles*
+*Scraped **30,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,605
+adalk | 2,606
 adaderanalk | 3,426
 tamilmirrorlk | 3,537
 virakesarilk | 4,636
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,222 (100.0%) of 30,222 articles have been extended.
+30,222 (100.0%) of 30,223 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -879,6 +879,24 @@ However, there was no economic energy to launch the return of the school journey
 [Data](articles/c9290755.json)
 
 [Extended Data](ext_articles/c9290755.ext.json)
+
+---
+
+### බදුලු ඔයේ මසුන් දහස් ගණනින් මිය යයි
+
+*2024-06-13 13:17:50* · [`adalk`](https://www.ada.lk/breaking_news/බදුලු-ඔයේ-මසුන්-දහස්-ගණනින්-මිය-යයි/11-410194) · `si`
+
+බදුලු ඔයේ  මසුන් හිටි හැටියේ මියයාමට පටන් ගෙන මේ දිනවල මසුන් විශාල වශයෙන්  බදුලු ඔයේ ජලයේ පාවෙමින් එන බව ජනතාව පවසති.
+
+හාලිඇල උඩුවර 5කනුව, 6 කනුව 7කනුව ප්‍රදේශයේ දී බදුලු ඔයේ   කොරලි මත්ස්‍යයින්  ඇතුලු   මිරිදිය  මසුන් විශාල ගනණක් හිටි හැටියේම එක්වරම මෙසේ මියගොස් ඊයේ (12)  සිට  බදුලු ඔයේ පාවෙමින් ඒමට  පටන් ගෙන ඇති බවත් ජනතාව කියති .
+
+දෙමෝදර ජල පිරි පහදු කිරිමේ ජලාශයේ රොන්මඩ තට්ටු පිරිසිරවී තිබූ අතර ජලාශයේ සිරවී ඇති මඩතට්ටු වැලි ඉවත් කිරිමේ කටයුතු ද දැනට මාස කීපයක සිට සිදු වෙමින් පවතින බවත් මේ නිසාවෙන් නිරතුරුවම බදුලු ඔයේ ජල ය බොරව් ප්‍රයෝජනයට ගැනීමට නොහැකි වීවීමෙන් තමන් දැඩි අපහසුතාවට පත්ව ඇතැයි ජනතාව පැවසූහ .
+
+බදුලු ඔයේ 11දා සිට මියගොස් ජලයේ පාවෙමින් එන දහස් ගණන්  මසුන් අල්ලාගෙන ඇතම් ජනතාව ආහාරයට ගන්නා අතර , ඇතමුන් එම මසුන් විකිණීමට පටන් ගෙන තිබේ .බදුලු ඔයේ ජලයට කිසියම් විශක් එකතු වී මෙසේ.මසුන් මියයන බවට   සැකකරයි .
+
+...
+
+[Data](articles/d8beca30.json)
 
 ---
 
@@ -2355,35 +2373,5 @@ The Deputy Prime Minister of the country, who visited the area where the fire oc
 [Data](articles/05bd6059.json)
 
 [Extended Data](ext_articles/05bd6059.ext.json)
-
----
-
-### Is Ranil extended to Ranil to extend the presidential term?
-
-*2024-06-13 01:48:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevvzjlk25po) · `si`
-
-Ranil Wickremesinghe, due to a constitutional loophole, might serve beyond the typical 5-year presidential term limit, potentially for 11 more days. This possibility arises from an interpretation of the 19th Amendment and Section 83(b), leading to debates over constitutional amendments and referendums. Some see this as a 'constitutional conspiracy,' sparking discussions and a social media presence around the issue.
-
-🟩
-
-Is Ranil extended to Ranil to extend the presidential term?
-
-The '19th Amendment was changed in accordance with five years of the President and 83 (b).
-
-Some had also interpret this as a 'constitutional conspiracy'.
-
-Meanwhile, a social media has also been created in this regard.
-
-Do you agree to reach the Skip Facebook PosFacebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the END.
-
-Some have become a result of an error in Section 83 (b) of Article 83 (b) of the Constitution, Ranil Wickremesinghe has an opportunity for another 11 days.
-
-It is such a view that the General Secretary of the UNP Palitha Ranage was published in the Sinhala BBC.
-
-...
-
-[Data](articles/1fddac56.json)
-
-[Extended Data](ext_articles/1fddac56.ext.json)
 
 ---

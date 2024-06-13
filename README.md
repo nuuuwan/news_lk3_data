@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 00:07:03**
+As of **2024-06-14 00:19:08**
 
 ## Newspaper Stats
 
-*Scraped **30,256** Articles*
+*Scraped **30,257** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 276
+colombotelegraphcom | 277
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,256 (100.0%) of 30,256 articles have been extended.
+30,256 (100.0%) of 30,257 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -549,6 +549,18 @@ President Ranil Wickremesinghe also reminded divisional secretaries of their res
 [Data](articles/ef6b34f9.json)
 
 [Extended Data](ext_articles/ef6b34f9.ext.json)
+
+---
+
+### Deshamanya Dr Nissanka Wijeyeratne: A Rare Personality Above Normal Human Frailty
+
+*2024-06-13 18:30:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/deshamanya-dr-nissanka-wijeyeratne-a-rare-personality-above-normal-human-frailty/) · `en`
+
+I have not met Deshamanya Dr Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his hundredth birth anniversary falling on 14 of June. I will focus on two matters. One is his success as the lay custodian of the Temple of the Sacred Tooth Relic of the Buddha known as Diyawadana Nilame in Sinhala which can be directly rendered to English as the Water Bearing Official. The other is his rare display of accountability as the Minister of Justice when there was a jail breakout and prison mutiny leading to the death of two inmates in 1988.
+
+...
+
+[Data](articles/7d6880e2.json)
 
 ---
 
@@ -2339,29 +2351,5 @@ However, Post Office Ruwan Satkumara has said that it has been decided to cancel
 [Data](articles/18aed32a.json)
 
 [Extended Data](ext_articles/18aed32a.ext.json)
-
----
-
-### Postal staff jumped on the task
-
-*2024-06-13 09:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதித்த-அஞ்சல்-ஊழியர்கள்/175-338845) · `ta`
-
-The Joint Postal Employees Union initiated a nationwide strike from midnight to demand urgent solutions to staffing shortages in the Postal Department. In response, the Post Office canceled all vacations for postal workers.
-
-🟩
-
-The Joint Postal Employees Union has announced the union action yesterday (12) at midnight.
-
-Sindhaka Bandara, the caller of the Joint Postal Employees Union, said that the workplace will be carried out nationwide till midnight today.
-
-He said the purpose of this union action was to inform the authorities to provide immediate solution to the shortage of employee in the Postal Department.
-
-However, Post Office Ruwan Satkumara has said that it has been decided to cancel all postal workers' vacation immediately.. Remble
-
-◼️
-
-[Data](articles/5e4e6a35.json)
-
-[Extended Data](ext_articles/5e4e6a35.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 19:19:15**
+As of **2024-06-13 19:34:31**
 
 ## Newspaper Stats
 
-*Scraped **30,227** Articles*
+*Scraped **30,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,83 @@ adaderanalk | 3,427
 tamilmirrorlk | 3,538
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,871
+adaderanasinhalalk | 4,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,226 (100.0%) of 30,227 articles have been extended.
+30,227 (100.0%) of 30,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### දුම්රිය ස්ථානාධිපතිවරුන් වෘත්තීය ක්‍රියාමාර්ගයකට සැරසෙයි
+### බිළිඳු සිරුරක් හමුවෙයි
+
+*2024-06-13 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197727) · `si`
+
+බිළිඳු මළසිරුරක් නුවරඑළිය බොරලන්ද ඇළ මාර්ගයක් අසල තිබී අද (13) හමුවී තිබේ.
+
+නුවරඑළිය පොලීසිය පැවසුවේ ඒ ඉපදී දින කිහිපයක් ගතවූ බිළිඳෙකු බවත් මළසිරුරේ ඉනෙන් පහළ කොටස නොමැති බවත්ය.
+
+සිද්ධිය සම්බන්ධයෙන් එම ප්‍රදේශය අවට රෝහල් හා පොලීසි සියල්ල දැනුවත් කර අදාළ මළසිරුර හිමි දරුවාගේ දෙමාපියන් සෙවීමට නුවරඑළිය පොලීසිය මෙහෙයුම් දියත් කර තිබේ.
+
+නුවරඑළිය වැඩබලන මහෙස්ත්‍රාත් විසින් ස්ථානීය පරීක්ෂණය සිදු කිරීමෙන් අනතුරුව බිළිඳු සිරුර නුවරඑළිය දිස්ත්‍රික් මහ රෝහලට රැගෙන ගොස් පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඇත.
+
+◼️
+
+[Data](articles/cdf3c87e.json)
+
+---
+
+### ඔස්ට්‍රේලියාවට යන අයට ජුලි සිට නව නීති
+
+*2024-06-13 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197726) · `si`
+
+ජුලි මස පළමු වනදා සිට වීසා නීති දැඩි කිරීමට ඔස්ට්‍රේලියානු රජය තීරණය කර තිබේ.
+
+ඒ අනුව සංචාරක වීසා මත ඔස්ට්‍රේලියාවට පැමිණ එහි රැඳීසිටිමින් ශිෂ්‍ය වීසා ලබාගැනීමට දී තිබූ අවස්ථාව මින් ඉදිරියට අහිමි වේ.
+
+යුද ගැටුම් සහ දරිද්‍රතාව හේතුවෙන් දහස් ගණන් පිරිස් රටින් පළාගොස් සමෘද්ධිය පතා ධනවත් රටවල රැකවරණ ඉල්ලා සිටින අතර, තවත් විශාල පිරිසක් සංවර්ධිත රටවල අධ්‍යාපන සහ රැකියා අවස්ථා සොයා යන්නේ සාර්ථක අනාගතයක් ගැන ප්‍රාර්ථනා ඇතිවය.
+
+කෙසේ නමුත් වාර්ෂිකව සංක්‍රමණිකයින් දහස් ගණනින් නීත්‍යානුකූලව සහ අනවසරයෙන් රටට ඇතුළුවීම ලොව සංවර්ධිත රටවලට දැන් මහත් හිසරදයක්ව තිබේ.
+
+මෙවන් පසුබිමක උසස් අධ්‍යාපනය සඳහා සංවර්ධිත රටවලට පිවිසෙන පිරිස් සීමා කිරීමට ද ඒ රජයන් ආසන්න කාලය පුරා විවිධ පියවර ගනිමින් සිටියේය.
+
+ඔස්ට්‍රේලියානු රජය ද පසුගිය වසරේ සිය වීසා නීති දැඩි කිරීමේ සැලසුමක් ප්‍රකාශයට පත් කළ අතර 2025 වනවිට රටට පැමිණෙන සංක්‍රමණිකයින් ගණන සියයට 50කින් කප්පාදු කිරීමේ ඉලක්කයක් ස්ථාපනය කළේය.
+
+එහිදී ඔවුන්ගේ වැඩිම අවධානය යොමුව තිබුණේ ශිෂ්‍ය වීසා කප්පාදුව සම්බන්ධයෙනි.
+
+...
+
+[Data](articles/648fe9a2.json)
+
+---
+
+### Station Masters prepared for trade union action
 
 *2024-06-13 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197725) · `si`
 
-උසස්වීම් ක්‍රමවේදයේ පවතින ගැටලු ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් වෘත්තීය ක්‍රියාමාර්ගයකට එළඹීමට දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය තීරණය කර තිබේ.
+The Station Masters Association plans a professional program due to concerns over promotion methods. They aim to reach a resolution by tomorrow at 2:00 pm regarding injustices faced by certain promotions. The association highlights unaddressed issues from previous agreements and expresses hope for immediate problem-solving through negotiation.
 
-සිය ඉල්ලීම් සම්බන්ධයෙන් හෙට (14) පස්වරු 2.00 පෙර සාධනීය විසඳුමක් ලබා නොදෙන්නේ නම් ක්ෂණික වෘත්තීය ක්‍රියාමාර්ගයකට එළඹෙන බව එම සංගමය පවසයි.
+🟩
 
-එකම සේවා ගණයට අයත්ව සිටි ශ්‍රේණිවලින් දුම්රිය ස්ථානාධිපති ශ්‍රේණිය සිතාමතා මඟහැර සෙසු ශ්‍රේණි සඳහා වසර පහෙන් පහට උසස්වීම් ලබාදීම මගින් දැඩි අසාධාරණයක් සිදුවී ඇති බව ස්ථානාධිපතිවරුන්ගේ සංගමය පෙන්වා දෙයි.
+The Station Masters Association has decided to take a professional program based on several demands including issues in the promotion methodology.
 
-මෙම තත්ත්වය නිරවුල් කරගැනීම සඳහා අවස්ථා ගණනාවක දී බලධාරීන් සමඟ සාකච්ඡා කළ ද එහිදී ලබාදුන් එකඟතා මෙතෙක් ක්‍රියාත්මක වී නොමැති බව ඔවුන් පවසයි.
+The Association says that a prompt trade procedure will be reached tomorrow (14) at 2.00 pm on his demands.
 
-සාකච්ඡා මාර්ගයෙන් විසඳුම් ලබාගැනීම පසෙකලා හදිසි වෘත්තීය ක්‍රියාමාර්ගවලට එළඹෙන පාර්ශ්වවල ගැටලු සඳහා බලධාරීන් ක්ෂණිකව මැදහත් වී විසඳුම් ලබා දෙනු ලැබුව ද සිය ඉල්ලිම් සඳහා මෙතෙක් විසඳුම් ලබානොදීම කනගාටුවට කරුණක් බව දුම්රිය ස්ථාධිපතිවරුන්ගේ සංගමය වැඩිදුරටත් සඳහන් කළේය.
+The OICs' Association points out that there has been severe injustice to promoted five years for the five-year grades of Grade OIC of the same service.
+
+They say that the agreement has not been implemented in several occasions to settle this situation.
+
+Stades of the Statistics Association further stated that although the authorities are immediately resolved for the problems of the parties that come to solutions through negotiations.
 
 ◼️
 
 [Data](articles/c467a410.json)
+
+[Extended Data](ext_articles/c467a410.ext.json)
 
 ---
 
@@ -2337,53 +2385,5 @@ They say that they can end the illegal industrial activities when they are arres
 [Data](articles/6fcbf988.json)
 
 [Extended Data](ext_articles/6fcbf988.ext.json)
-
----
-
-### SAARC General Secretary meets President
-
-*2024-06-13 02:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சார்க்-பொதுச்-செயலாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-338843) · `ta`
-
-President Ranil Wickremesinghe met with SAARC General Secretary Kolam Sarvar to discuss enhancing cooperation among SAARC nations, particularly in agriculture modernization and upgrading the Sri Lankan SAARC Cultural Center for Modern Art.
-
-🟩
-
-A meeting between President Ranil Wickremesinghe and the General Secretary of the SAARC Organization Kolam Sarvar was held at the Presidential Office yesterday.
-
-During the meeting, the President asked the General Secretary of the SAARC to address the issue of various projects between SAARC countries.
-
-The Agricultural Modernization Program in Sri Lanka was also discussed and focusing on the support of the SAARC countries.
-
-Discussion has also been discussed to upgrade the Sri Lankan SAARC Cultural Center for Moden Art. (A)
-
-◼️
-
-[Data](articles/495b94d9.json)
-
-[Extended Data](ext_articles/495b94d9.ext.json)
-
----
-
-### Model15 Laws will be passed soon
-
-*2024-06-13 02:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-சட்டங்கள்-விரைவில்-நிறைவேற்றப்படும்/175-338842) · `ta`
-
-Vijayadasa Rajapaksa announced plans to pass 15 key laws within weeks, marking a significant legal overhaul aimed at restructuring the judiciary and addressing various issues including marriage acts, criminal procedures, and the implementation of foreign court judgments. This follows the passage of 75 bills in the past 18 months, signaling a transformative phase for the country's legal framework.
-
-🟩
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that arrangements are being made to pass about 15 most important laws in the next few weeks.
-
-Minister Vijayadasa Rajapakse said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-In the judicial structure of our country, this period can be referred to as the time of the major legal restructuring on the upheaval of justice. In the last 18 months, about 75 bills have been submitted and passed in Parliament. It must be noted that this will help the country to make a basic change.
-
-Furthermore, amendment has been submitted to the primary case action law. The new Bill on Marriage has also been put in place. Moreover, the Cabinet has approved the amendment of the Bill with only the generally acceptable changes to the Muslim Marriage and Divorce Act.
-
-...
-
-[Data](articles/3afaa30b.json)
-
-[Extended Data](ext_articles/3afaa30b.ext.json)
 
 ---

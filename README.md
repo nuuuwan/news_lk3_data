@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 04:34:46**
+As of **2024-06-14 04:53:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,292 (100.0%) of 30,294 articles have been extended.
+30,294 (100.0%) of 30,294 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,39 +48,53 @@ I will focus on two matters. One is his success as the lay custodian of the Temp
 
 ---
 
-### யாழ்.ஊடகவியலாளர் வீடு மீது தாக்குதல் ; நான்கு பொலிஸ் குழுக்கள் களத்தில் - பலரும் கண்டனம் தெரிவிப்பு
+### Attack on Jaffna Mediterranean House;Four police groups in the field - many condemned
 
 *2024-06-14 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186039) · `ta`
 
-யாழ்ப்பாணம் - அச்சுவேலியில் ஊடகவியலாளரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் புகுந்து உடைமைகளுக்கு தீ வைத்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக வடமாகாண ஆளுநரின் பணிப்பின் பிரகாரம் வடக்கு மாகாண சிரேஷ்ட பொலிஸ்மா அதிபரின் கீழ் நான்கு பொலிஸ் குழுக்கள் தீவிர விசாரணைகளில் ஈடுபட்டுள்ளனர்
+A violent attack occurred at the home of journalist Thambichurai Pradeepan in Achuveli, involving four police groups. The assailants, arriving on two motorcycles, targeted the house and nearby vehicles, setting them ablaze. They also left pamphlets warning against misleading transgenders. The police's Forensic Unit collected evidence, including fingerprints from a petrol container, and are investigating with the help of surveillance footage. Political figures have condemned the act and called for the perpetrators' arrest.
 
-அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது இன்றைய தினம் வியாழக்கிழமை அதிகாலை 12.15 மணியளவில்  இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஜந்து பேர் கொண்ட வன்முறைக்கும்பல் தாக்குதல் நடத்தியது.
+🟩
 
-இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+Four police groups under the Northern Province Senior Inspector General of Police (Northern Province) under the Northern Province Senior Inspector General of Police (Northern Province)
 
-"திருநங்கைளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டிருந்தது.
+Violence attacked by two motorcycles on Thursday morning at around 12.15 am on Thursday morning at the house of journalist Thambichurai Pradeepan in Achuveli, Pathamani Kali Temple.
 
-இந்நிலையில் இன்றைய தினம் காலை பொலிசாரின் தடயவியல் பிரிவினர் சம்பவ இடத்திற்கு வருகைதந்து தடயங்களைச் சேகரித்தனர்.
+Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
+
+The pamphlets printed on the "do not mislead transgender" were put in the house where the attacked was attacked.
+
+In this case, the Forensic Unit of the police arrived at the scene this morning and collected evidence.
+
+In addition, the fingerprint identities of the two have been obtained when the specialist fingerprint experts have been tested for a container brought by the petrol used to burn the goods and vehicles.
 
 ...
 
 [Data](articles/18b3939e.json)
 
+[Extended Data](ext_articles/18b3939e.ext.json)
+
 ---
 
-### தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் பலி : மன்னார் முருங்கன் பூவரசங்குளம் பகுதியில் சம்பவம்
+### Daughter Kills Daughter In Mannar Murugan Poovarasankulam
 
 *2024-06-14 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186038) · `ta`
 
-தந்தை செலுத்திய உழவு இயந்திரத்தில் சிக்கி மகள் உயிரிழந்த சம்பவம் வியாழக்கிழமை(13)  இரவு 7 மணியளவில் மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் இடம்பெற்றுள்ளது.
+In Mannar, an 8-year-old girl died after falling from a plowing machine operated by her father-in-law. The accident occurred in the Poovarasankulam area on Thursday evening.
 
-மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயியான தந்தை ஒருவர் தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+🟩
 
-இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய மகள் திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+The death of a daughter who was trapped in a father -in -law's plowing machine took place on Thursday (13) at around 7 pm.
+
+A farmer in the Poovarasankulam area of ​​the Mannar Murugan police division was plowing through a plowing machine in his field.
+
+During this time, her 8 -year -old daughter, who was sitting in the Makkad area of ​​the plowing machine, suddenly fell down and died.
 
 ◼️
 
 [Data](articles/888821a3.json)
+
+[Extended Data](ext_articles/888821a3.ext.json)
 
 ---
 

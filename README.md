@@ -1,92 +1,172 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-13 16:51:48**
+As of **2024-06-13 17:19:22**
 
 ## Newspaper Stats
 
-*Scraped **30,213** Articles*
+*Scraped **30,219** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 273
+colombotelegraphcom | 275
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,637
 economynextcom | 1,738
 dailyftlk | 1,827
-adalk | 2,603
-adaderanalk | 3,424
+adalk | 2,604
+adaderanalk | 3,426
 tamilmirrorlk | 3,537
 virakesarilk | 4,636
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,866
+adaderanasinhalalk | 4,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,209 (100.0%) of 30,213 articles have been extended.
+30,217 (100.0%) of 30,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-13 (Thursday)
 
-### செந்தில் ​தொண்டமானின் கவனத்துக்கு
+### Ex-police chief sounds warning over possible violent political uprising
+
+*2024-06-13 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99861/-ex-police-chief-sounds-warning-over-possible-violent-political-uprising) · `en`
+
+Former Inspector General of Police (IGP), Chandra Fernando says that it cannot be expected that the political groups who have engaged in violent political activities in the past will not resume such activities in the future.
+
+He stated this while speaking during a press conference held today (13), with the participation of other retired high-ranking police officers including former IGPs and DIGs.
+
+Fernando further stated that although the government carried out rehabilitation programmes to a large extent after the 1971 insurrection and though everyone believed that the insurrection would end with that, unfortunately, the violence returned in 1989 “destroying lives and properties in the country.”
+
+“We then thought it was all over, but unfortunately, 91 houses were destroyed in one night on the 9th of May, 2022 by an organized group. Therefore when things like this happen, will this not happen in the future as well?” he said.
+
+◼️
+
+[Data](articles/05a807b6.json)
+
+---
+
+### High Commissioner for Indian Finance Minister and High Commissioner meets
+
+*2024-06-13 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197721) · `si`
+
+In New Delhi, the Sri Lankan High Commissioner met with India's Finance Minister, signaling Sri Lanka's commitment to strengthening ties and cooperation between the two countries.
+
+🟩
+
+The Sri Lankan High Commissioner in India and Indian Finance Minister has taken place in New Delhi.
+
+The High Commissioner of Sri Lanka has joined her to become the Finance Minister of India once again.
+
+It is reported that Sri Lanka is committed to enhance the friendship and cooperation between Sri Lanka and India.
+
+◼️
+
+[Data](articles/ee7a3dba.json)
+
+[Extended Data](ext_articles/ee7a3dba.ext.json)
+
+---
+
+### Sri Lankan envoy calls on Indian Finance Minister Sitharaman
+
+*2024-06-13 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99860/sri-lankan-envoy-calls-on-indian-finance-minister-sitharaman) · `en`
+
+Sri Lanka High Commissioner to India Kshenuka Senewiratne called on Indian Finance Minister Nirmala Sitharaman on Wednesday (12) in New Delhi.
+
+Upon meeting Sitharaman, the Sri Lanka High Commissioner also extended felicitations on her reappointment as India’s Finance Minister.
+
+“Sri Lanka High Commissioner Kshenuka Senewiratne together w/DHC Priyanga Wickramasinghe called on Hon @nsitharamanoffc today to extend felicitations on her reappointment as India’s Finance Minister,” the High Commission of Sri Lanka in New Delhi wrote in a post on X.
+
+“SriLanka looks fwd to enhancing the enduring friendship & cooperation b/w &” the post read.
+
+In a second stint, Nirmala Sitharaman on Wednesday morning formally assumed charge as Union Minister of Finance and Corporate Affairs.
+
+Sitharaman was greeted at the office in North Block by Finance Secretary TV Somanathan and other Secretaries of the Ministry of Finance and Corporate Affairs.
+
+...
+
+[Data](articles/5708b317.json)
+
+---
+
+### To the attention of Senthil Thondaman
 
 *2024-06-13 16:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானின்-கவனத்துக்கு/175-338871) · `ta`
 
-கதிர்காமக் காட்டுப்பாதை திறப்பு தினக் குழப்பத்தை தீர்த்து வைக்குமாறு   ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் ஆகியோரிடம் காரைதீவு பிரதேச சபையின் முன்னாள் தவிசாளரும் சமய ஆர்வலருமான கி.ஜெயசிறில் வேண்டுகோள் விடுத்துள்ளார்.
+President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have called upon K. Jayasiril, former chairman and religious activist of the Karadivu Pradeshiya Sabha, regarding a two-day auctioneer event scheduled for July 11th and 12th in Kadirgama. They emphasize the importance of adhering to traditional practices and request that the event be officially declared in the Gazette.
 
-காட்டுப்பாதை திறப்பு தொடர்பாக இரண்டு தினங்கள் ஏலவே அறிவிக்கப்பட்டு தற்பொழுது இறுதியாக யூலை இரண்டாம் திகதி என கதிர்காமத்தில் புதன்கிழமை (12) முடிவெடுக்கப்பட்டு இருக்கிறது .
+🟩
 
-இது வடக்கு கிழக்கு மாகாணத்தில் இருந்து செல்கின்ற பாதுகாத்திரிகர்ளுக்கு அறவே பொருந்தாது. 4 நாட்களுக்குள் கொடி ஏற்றத்துக்கு செல்ல முடியாது.மற்றும் பாதை திறந்து வைக்கப்படுகின்ற காலஅவகாசமும் போதாமல் இருக்கின்றது . இப் பாரம்பரிய புனித யாத்திரையை முடக்க திட்டமிடப்படுகிறதோ என் எண்ணத் தோன்றுகின்றது.
+President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have appealed to the former chairman and religious activist of the Karadivu Pradeshiya Sabha, K. Jayasiril.
 
-எனவே, இந்த பாதயாத்திரை பாரம்பரியமாக நிலைத்து பேணும் வகையிலே முறையான தீர்மானங்களை எடுக்க வேண்டும் என்று வேண்டுகோள் விடுத்திருக்கின்றார்
+The two -day auctioneer has been announced on the opening of the wildfire and is currently being decided on Wednesday (12) in Kadirgama as the second day of July.
 
-அது மாத்திரமல்ல இந்த பாதயாத்திரையை  வர்த்தமானியில் பிரகடனம் அறிவித்தல் செய்யப்பட வேண்டும் என்று மீண்டும் வலியுறுத்தியுள்ளார்.
+This is not applicable to the security guards from the North and East. The flag cannot go up within 4 days.. My idea is that this traditional pilgrimage is planned to be disabled.
+
+Therefore, he has requested that the trail be traditionally maintained in the way of maintaining proper decisions.
+
+He also reiterated that the trail should be declared in the Gazette.
 
 ◼️
 
 [Data](articles/c1efa575.json)
 
+[Extended Data](ext_articles/c1efa575.ext.json)
+
 ---
 
-### பல்கலைக்கழக அனுமதிக்கான இணைய விண்ணப்பம் கோரல்
+### The web application for university admission
 
 *2024-06-13 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186015) · `ta`
 
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழு 2023(2024) கல்வியாண்டுக்கான பல்கலைக்கழக அனுமதிக்கு இணையம் மூலம் தகுதியுடைய விண்ணப்பதாரர்களிடமிருந்து விண்ணப்பங்களை நாளை  (14) முதல் ஜூலை மாதம்  05 வரை கோருவதாக அறிவித்துள்ளது.
+Applications open from July 14 to July 05 for the University of University's 2023-2024 academic year. Eligible applicants should apply via the University Grants Commission's official site: https://www.ugc.ac.lk/.
 
-அதன்படி, அந்த விண்ணப்பதாரர்கள் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் உத்தியோகபூர்வ இணையத்தளமான  https://www.ugc.ac.lk/ க்குச் சென்று விண்ணப்பங்களை முறையாகப் பூர்த்தி செய்து சமர்ப்பிக்க வேண்டும்.
+🟩
+
+The University Grants Commission has announced that applications will be sought from the eligible applicants tomorrow (14) to July 05 for the University of University for the academic year 2023 (2024).
+
+Accordingly, the applicants must go to the University Grants Commission's official website https://www.ugc.ac.lk/ and submit their applications properly.
 
 ◼️
 
 [Data](articles/26dd6dc6.json)
 
+[Extended Data](ext_articles/26dd6dc6.ext.json)
+
 ---
 
-### ලොව ධනවත් රටවල් හතේ මෙවර ඉලක්කය
+### The target of the seven wealthy countries in the world is the target
 
 *2024-06-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197720) · `si`
 
-ලොව ධනවත් රටවල් හතේ නායකයින් සහභාගී වන G7 සමුළුව ඉතාලියේදී අද පැවැත්‌වෙයි.
+The G7 summit, hosted by Italy, gathers leaders from the world's wealthiest nations, including Canada, France, Germany, Japan, the UK, and the US, focusing on global issues like Ukraine's conflict and exploitation. Reports suggest the inclusion of African and Indo-Pacific leaders, with US President Joe Biden set to meet India's PM Narendra Modi, details pending.
 
-කැනඩාව, ප්‍රංශය, ජර්මනිය, ඉතාලිය, ජපානය, බ්‍රිතාන්‍ය සහ අමෙරිකාව යන රටවල නායකයින්ගේ සහභාගීත්වයෙන් එම සමුළුව අද සිට ලබන 15 වනදා දක්වා පැවැත්වීමට නියමිතය.
+🟩
 
-මීට අමතරව අප්‍රිකාවේ සහ ඉන්දු පැසිපික් කලාපීය රටවල නායකයින්ද G7 සමුළුවට සහභාගී වන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The G7 summit, attending the leaders of the World's seven wealthy countries, will be held in Italy.
 
-‍යුක්‍රේනයේ සහ ගසා තීරයේ යුධ ගැටුම් සම්බන්ධයෙන් මෙවර සමුළුවේදී දැඩි අවධානයක් යොමු වනු ඇති බවද පැවසෙයි.
+The conference will be held today with the participation of the leaders of Canada, France, Germany, Italy, Japan, British and America.
 
-මේ අතර අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි හමුවීමට සූදානමින් පසුවන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+In addition, foreign media reports that Leaders of the G7 council in Africa and Indo Pacific countries attend the G7 summit.
 
-ඉතාලියේ පැවැත්වෙන G7 සමුළුවට සමගාමීව එම හමුව පැවැත්වෙනු ඇති බවද වාර්තා වෙයි.
+It is also said that this year's conference will focus on the war conflicts in Ukraine and exploitation.
 
-කෙසේවෙතත් නායකයින් දෙදෙනා හමුවන නිශ්චිත දිනයක් හෝ ස්ථානයක් පිළිබඳ මෙතෙක් වාර්තා වී නොමැත.
+Meanwhile, US President Joe Biden is ready to meet Indian Prime Minister Narendra Modi, foreign media reports.
+
+It is reported that the meeting will be held in parallel to the G7 summit in Italy.
+
+However, there is no record of a specific date or place where the two leaders meet.
 
 ◼️
 
 [Data](articles/7779c902.json)
+
+[Extended Data](ext_articles/7779c902.ext.json)
 
 ---
 
@@ -105,6 +185,8 @@ Adding to their woes, Sri Lanka’s match against Nepal on Wednesday was complet
 ...
 
 [Data](articles/488f66e7.json)
+
+[Extended Data](ext_articles/488f66e7.ext.json)
 
 ---
 
@@ -159,6 +241,26 @@ Minister Prasanna Ranatunga said this while participating in a discussion with S
 [Data](articles/00635c32.json)
 
 [Extended Data](ext_articles/00635c32.ext.json)
+
+---
+
+### One road on the coastal route to run ...
+
+*2024-06-13 15:53:39* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදුබඩ-මාර්ගයේ-එක්-මාර්ගයක්-ධාවනයට----/11-410199) · `si`
+
+Today, the coastal route's railway station limited morning traffic to Moratuwa. Train services started early, affecting evening travel on both routes.
+
+🟩
+
+The railway traffic on the railway station on the coastal route on the morning of the railway station today was restricted to the Moratuwa Railway Station.
+
+The train operations have already begun one road to railway operation. Trains traveling in the evening due to not to add both routes. (I .j)
+
+◼️
+
+[Data](articles/5d4de351.json)
+
+[Extended Data](ext_articles/5d4de351.ext.json)
 
 ---
 
@@ -994,6 +1096,20 @@ The first phase of the investigation revealed that the cooking ginger was smuggl
 
 ---
 
+### Buddhist Revolutionist In The Making – Kekirawe Sudassana Thero
+
+*2024-06-13 11:04:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/buddhist-revolutionist-in-the-making-kekirawe-sudassana-thero/) · `en`
+
+Religions across the globe have historically undergone significant economic and social transformations, adapting to evolving circumstances and aiding in the progress of societies. However, in Sri Lanka, Theravada Buddhism has largely remained static, entangled with political influences that benefit a select few monks while wielding considerable influence over the masses. Unlike the vibrant evolutions seen in other countries, Sri Lanka’s Theravada Buddhism has yet to undergo a transformation that aligns it with contemporary social and economic development needs.
+
+...
+
+[Data](articles/33626935.json)
+
+[Extended Data](ext_articles/33626935.ext.json)
+
+---
+
 ### Railway delay due to rail train
 
 *2024-06-13 11:02:26* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පීලිපැනීමක්-හේතුවෙන්-දුම්රිය-ප්‍රමාදයක්/11-410189) · `si`
@@ -1061,6 +1177,24 @@ The packs were handed over to the Maruthankani Police Station for further legal 
 [Data](articles/abb86229.json)
 
 [Extended Data](ext_articles/abb86229.ext.json)
+
+---
+
+### An Efficient Train System Should Be The Number One Public Transport Priority
+
+*2024-06-13 10:55:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-efficient-train-system-should-be-the-number-one-public-transport-priority/) · `en`
+
+I write this because I love travelling by train and am very sad about the condition of Sri Lanka Railways and train travel in this beautiful island. In recent times, several of my planned train trips had to be cancelled causing great inconvenience due to sudden train service disruptions, including derailments, breakdowns and cancellations.
+
+Train travel is both cheap and environment friendly. Trains carry a large number of passengers and hence cause lower Carbon emissions per capita than do cars. Public Transport, in general is both cost-effective and environmentally friendly for a country in a Debt trap and IMF austerity program.
+
+Rather than rushing to buy expensive Electric Vehicles (EVs), for a costly Green Energy Transition promoted by various United Nations Agencies and Greenwash Corporations, the GOSL should urgently make Public Transport, particularly, investing in and upgrading the Sri Lanka Railways a top development priority at this time.
+
+...
+
+[Data](articles/13dee363.json)
+
+[Extended Data](ext_articles/13dee363.ext.json)
 
 ---
 
@@ -2241,115 +2375,5 @@ The controversy erupted when a group of legal professionals, including 10 Presid
 [Data](articles/c4841868.json)
 
 [Extended Data](ext_articles/c4841868.ext.json)
-
----
-
-### President appoints Committee of Inquiry on 2019 Easter Sunday attacks; wants report in three months
-
-*2024-06-13 01:29:54* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-Committee-of-Inquiry-on-2019-Easter-Sunday-attacks-wants-report-in-three-months/56-763032) · `en`
-
-President Ranil Wickremesinghe has appointed a Committee of Inquiry to investigate the actions taken by the State Intelligence Service (SIS), Chief of National Intelligence (CNI), and other relevant authorities concerning prior intelligence received about the bomb attacks on 21 April 2019.
-
-This decision follows the findings of the final report of the Commission of Inquiry, dated 31 January 2021, which highlighted that Indian Intelligence agencies and other sources had provided advance warnings about the impending attacks.
-
-The Committee of Inquiry will be chaired by A.N.J. De Alwis, Retired Judge of the High Court. Other esteemed members of the committee include SLAS special grade Officer K.N.K. Somaratne and Senior Lawyer W.M.A.N. Nishane, AAL.
-
-...
-
-[Data](articles/b2b7b60f.json)
-
-[Extended Data](ext_articles/b2b7b60f.ext.json)
-
----
-
-### Cabinet clears publication of revised Immigration Bill
-
-*2024-06-13 01:29:22* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-publication-of-revised-Immigration-Bill/56-763031) · `en`
-
-The Cabinet of Ministers has approved the publication of the draft Bill for the new Immigration Act in the Government Gazette, while subsequently presenting it to Parliament for approval.
-
-The Immigration Act No. 20 of 1948 has undergone several amendments over the years. However, in light of rapid technological advancements and evolving international trends, there is a recognised need for a comprehensive overhaul.
-
-On 15 February 2021, the Cabinet initially approved the introduction of a new Immigration Act to address these changes.
-
-“The draft Bill, prepared by the Legal Draftsman, has now received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-This new legislation aims to modernise the legal framework governing immigration in Sri Lanka, ensuring it is aligned with current and future demands.
-
-...
-
-[Data](articles/0a1a7f29.json)
-
-[Extended Data](ext_articles/0a1a7f29.ext.json)
-
----
-
-### Mullaitivu fishermen threaten action amidst illegal fishing crisis
-
-*2024-06-13 01:29:14* · [`dailyftlk`](https://www.ft.lk/news/Mullaitivu-fishermen-threaten-action-amidst-illegal-fishing-crisis/56-763030) · `en`
-
-Tensions are rising among fishermen in Mullaitivu as Government authorities allegedly continue to fail to stop illegal fishing by fishermen from other provinces, leading to the risk of a major conflict in the region. Local fishing leaders have given the authorities a two-day ultimatum to address the issue, warning of drastic measures if their demands are not met.
-
-Fishermen from outer provinces have been accused of using prohibited gear to fish in the Mullaitivu sea, depleting resources and threatening the livelihoods of local fishermen. This has prompted the Jaffna District Fishermen’s Cooperative Society Vice President, Antonipillai Francis Ratnakumar, to issue a stern warning during a protest held on 10 June in front of the Mullaitivu District Secretariat.
-
-...
-
-[Data](articles/8433320a.json)
-
-[Extended Data](ext_articles/8433320a.ext.json)
-
----
-
-### Cabinet nod to amend Penal Code to strengthen legal provisions to prohibit sexual harassment
-
-*2024-06-13 01:28:15* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-amend-Penal-Code-to-strengthen-legal-provisions-to-prohibit-sexual-harassment/56-763029) · `en`
-
-The Cabinet of Ministers at its meeting approved the proposal to publish the draft Bill criminalising all forms of sexual harassment in the Government Gazette and subsequently present it to Parliament for approval.
-
-On 12 December 2022, the Cabinet initially approved the introduction of amendments to the Penal Code aimed at criminalising all forms of sexual harassment, including incidents occurring in public places.
-
-“The Legal Draftsman prepared the relevant draft Bill, which has now received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/262955ee.json)
-
-[Extended Data](ext_articles/262955ee.ext.json)
-
----
-
-### Vidullanka receives ISO 9001:2015 for domestic hydro and solar segments
-
-*2024-06-13 01:27:33* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-receives-ISO-9001-2015-for-domestic-hydro-and-solar-segments/34-763028) · `en`
-
-From left: Vidullanka Manager of Projects and Contracts Sunera Samaranayake, Nexus Business Solutions Managing Director and ISO Consultant Prabhath Samarasinghe, SGS Lanka Business Manager Chamika Wimalasiri, Vidullanka CEO Riyaz Sangani, Vidullanka Director of Operations Roshan Siriwardene, Vidullanka Assistant Manager of Operations Damitha Bandulawansa, and Vidullanka HR Executive Chamodhi Perera
-
-Vidullanka PLC has received the ISO 9001:2015 certification for Quality Management.
-
-Accredited by SGS Lanka Ltd., the certification was awarded for the business development, design and operations of the company’s domestic hydro and solar segments. It is an acknowledgement of Vidullanka’s commitment to implementing exceptional management standards to achieve its vision of sustainably energising the planet.
-
-...
-
-[Data](articles/3a568601.json)
-
-[Extended Data](ext_articles/3a568601.ext.json)
-
----
-
-### NSBM Founding Vice Chancellor Prof. Weerasinghe honoured with Most Outstanding Citizen Award 2024 by Lions International
-
-*2024-06-13 01:26:46* · [`dailyftlk`](https://www.ft.lk/business/NSBM-Founding-Vice-Chancellor-Prof-Weerasinghe-honoured-with-Most-Outstanding-Citizen-Award-2024-by-Lions-International/34-763027) · `en`
-
-NSBM Green University Vice Chancellor Prof. E.A. Weerasinghe has been bestowed with the prestigious Most Outstanding Citizen 2024 (MOC Awards) by Lions International, in recognition of his exceptional contributions to society.
-
-The award was presented amidst the grandeur of the 19th Annual District Convention of Lions International District 306 A1 - Sri Lanka, held on 9 June at Hotel Galadari in Colombo.
-
-Most Outstanding Citizen 2024 (MOC Awards) of Lions International District 306 A1 - Sri Lanka is awarded under the theme “Exceptional Contribution to Society”, to recognise and honour individuals and organisations who have rendered exceptional, invaluable services or actions which have benefitted Sri Lankan society at large. Prof. Weerasinghe has earned this distinguished award for his truly exceptional, sustained contribution, which provides inspiration for others, has influenced change, and has made an impact and demonstrable contribution to the community.
-
-...
-
-[Data](articles/a3f01c75.json)
-
-[Extended Data](ext_articles/a3f01c75.ext.json)
 
 ---

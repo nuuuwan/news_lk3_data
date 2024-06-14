@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 09:34:30**
+As of **2024-06-14 09:53:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,330 (100.0%) of 30,333 articles have been extended.
+30,333 (100.0%) of 30,333 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Commenting on the upcoming election, Dr. Jayatilleka said that Sri Lanka needs a
 
 [Data](articles/67de1707.json)
 
+[Extended Data](ext_articles/67de1707.ext.json)
+
 ---
 
 ### Sufficient progress for Sri Lanka’s debt restructuring to move forward - IMF
@@ -65,6 +67,8 @@ Furthermore, he mentioned that the elections may affect the timing of IMF’s mi
 ...
 
 [Data](articles/b4adf50d.json)
+
+[Extended Data](ext_articles/b4adf50d.ext.json)
 
 ---
 
@@ -826,21 +830,27 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
-### ’புதிய சேவை யாப்புக்கு அங்கீகாரம்’
+### Approval for new service yap
 
 *2024-06-14 00:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சேவை-யாப்புக்கு-அங்கீகாரம்/175-338893) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அமைச்சரவையின் அங்கீகாரத்தின் பின்னர் கிராம உத்தியோகத்தர்களின் புதிய சேவை யாப்பு அரசாங்க சேவை ஆணைக்குழுவினால் அங்கீகரிக்கப்பட்டுள்ளது. அவசியம் ஏற்படுமாயின் இந்தப் புதிய யாப்பில் திருத்தங்களைச் செய்வதற்கும் சந்தர்ப்பம் ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளது என  உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக்க பிரியந்த தெரிவித்தார்.
+The Cabinet, led by President Ranil Wickremesinghe, has approved a new Grama Niladhari service, which has also received clearance from the Public Service Commission. State Minister Ashoka Priyantha mentioned that amendments could be made if needed. This move comes amid the implementation of significant projects like 'Urumaya' and 'Azwasuma', and the re-development of villages and cities through various funding sources. The government is focusing on strengthening public services, including the appointment and training of Grama Niladharis across 1942 divisions. Despite challenges, such as a previous inability to recruit for the state service, progress is being made towards fulfilling public duties and addressing issues from the past.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் அசோக்க பிரியந்த மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தற்போது, அரசாங்கம் 'உறுமய' மற்றும் 'அஸ்வெசும' உள்ளிட்ட பல முக்கிய திட்டங்களை செயல்படுத்தியுள்ளது. அத்துடன் கடந்த காலத்தில் நிறுத்தப்பட்ட பல அபிவிருத்தித் திட்டங்கள் தற்போது ஆரம்பிக்கப்பட்டுள்ளன. பன்முகப்படுத்தப்பட்ட நிதி ஒதுக்கீடுகள் மூலம் கிராமம் மற்றும் நகரங்களில் மீண்டும் அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Following the approval of the Cabinet headed by President Ranil Wickremesinghe, the new service of the Grama Niladhari has been approved by the Public Service Commission.. Minister of State for Home Affairs Ashoka Priyantha said that if it is necessary, the new Yap has been given the opportunity to make amendments.
 
-அதற்கு ஆதரவளிப்பது அரச அதிகாரிகளின் பொறுப்பாகும். எனவே மக்களுக்கான கடமைகளை நிறைவேற்ற முடியுமான இந்த சந்தர்ப்பத்தில் நாம் அனைவரும் நமது கடமையை செய்ய வேண்டும்.
+State Minister Ashoka Priyantha said at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Currently, the government has implemented a number of major projects, including 'Urumaya' and 'Azwasuma'. As well as many development projects that have been stopped in the past. Re -development work has been started in the village and cities through diverse funding.
+
+It is the responsibility of state officials to support it. So we must all do our duty on this occasion where the duties of the people can be fulfilled.
 
 ...
 
 [Data](articles/c5a03324.json)
+
+[Extended Data](ext_articles/c5a03324.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 14:53:17**
+As of **2024-06-14 15:04:22**
 
 ## Newspaper Stats
 
-*Scraped **30,375** Articles*
+*Scraped **30,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,439
 tamilmirrorlk | 3,555
 virakesarilk | 4,662
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,894
+adaderanasinhalalk | 4,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,375 (100.0%) of 30,375 articles have been extended.
+30,375 (100.0%) of 30,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### පාර්ලිමේන්තුවෙන් විශේෂ නිවේදනයක්
+
+*2024-06-14 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197751) · `si`
+
+පාර්ලිමේන්තුව ජූනි 18 වැනිදා සිට 20 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+පසුගිය ජුනි 6 වැනිදා කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මීට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+
+මේ අනුව ජූනි 18 වැනි අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර පෙ.ව. 9.30 සිට පෙ.ව. 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත.
+
+අනතුරුව පෙ.ව. 10.30 සිට ප.ව. 5.00 දක්වා සංචාරක කටයුතු පනත යටතේ අංක 2348/38, 2352/47, 2352/48, 2360/62 සහ 2360/63 දරන අතිවිශේෂ ගැසට් පත්‍රවල පළ කර ඇති නියමයන් පහක්, හිමිකම් ලියාපදිංචි කිරීමේ පනත යටතේ අංක 2308/27 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළ කර ඇති නියෝග, රජයේ ඉඩම් ආඥාපනත යටතේ  නියෝග සහ ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත යටතේ අංක 2373/14 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළකර ඇති නි‍යෝග විවාදයට ගැනීමට නියමිතව ඇත.
+
+ඉන්පසු ප.ව. 5.00 සිට ප.ව. 5.30 දක්වා සභාව කල් තබන අවස්ථාවේ යෝජනාව (ආණ්ඩු පාර්ශ්වය) විවාදයට ගැනීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/54a1641a.json)
+
+---
 
 ### Warnings to Putin
 
@@ -2201,37 +2221,5 @@ The Government's Department has taken steps to cure Rs.
 [Data](articles/02c7846c.json)
 
 [Extended Data](ext_articles/02c7846c.ext.json)
-
----
-
-### Katunayake Foreign Money Sugar
-
-*2024-06-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197729) · `si`
-
-Ada Derana reports on a racket involving illegal foreign currency exchange at Katunayake airport, a high-security zone reserved for licensed banks and authorized financial institutions. The operation targets arrivals from the Middle East, bypassing Sri Lanka's banking system, affecting the country's foreign currency reserves. Authorities are urged to address this issue promptly.
-
-🟩
-
-Ada Derana has a racket to buy and exchanges foreign currency at the Katunayaka International Airport, a high security zone.
-
-Only for the approved licensed banking and authorized financing agencies allowed to purchase foreign currency.
-
-In such a background, Ada Derana had a confidential information about a group that purchases a team that purchases foreign currency illegally.
-
-The island mostly arrived at the Uklassa Airport between the early hours of the aircraft.
-
-There, a high-security location, a high-security place, buy foreign currencies from local overseas, without hesitation from foreign countries.
-
-Several people who have remained the main target from the Middle East have revealed the Ukunsa.
-
-The foreign currencies should come into the country through the banking system of Sri Lanka, but it is not properly due to such personnel.
-
-This is the influence of the centers of the Sri Lankan banking and the number of foreign currency reserves.
-
-...
-
-[Data](articles/7c0c738d.json)
-
-[Extended Data](ext_articles/7c0c738d.ext.json)
 
 ---

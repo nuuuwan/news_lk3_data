@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 08:21:11**
+As of **2024-06-14 08:34:40**
 
 ## Newspaper Stats
 
-*Scraped **30,326** Articles*
+*Scraped **30,327** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 277
 dbsjeyarajcom | 281
-bbccomsinhala | 295
+bbccomsinhala | 296
 newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,324 (100.0%) of 30,326 articles have been extended.
+30,326 (100.0%) of 30,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### IMF ශ්‍රී ලංකාව ගැන පැහැදිලි කරයි
+### IMF explains Sri Lanka
 
 *2024-06-14 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197738) · `si`
 
-ශ්‍රී ලංකාව සඳහා වූ විස්තීර්ණ ණය පහසුකමේ දෙවැනි ඇගයීම සහ 'ආටිකල් iv' උපදේශනයට අදාළව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව පිළිබඳ නියෝජිත කණ්ඩායම පවත්වන විශේෂ ප්‍රවෘත්ති සාකච්ඡාව මේ වනවිට පැවැත්වෙයි.
+In a special press conference, Sri Lanka's Agency discussed the IMF's second assessment of its loan facility. The event was chaired by a senior IMF official, addressing concerns about the country's economic situation.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත කණ්ඩායමේ ජ්‍යෙෂ්ඨ ප්‍රධානී පීටර් බෘෘවර් මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වෙන එම ප්‍රවෘත්ති සාකච්ඡාවේ සජීවි දර්ශන ඉහතින් නරඹන්න.
+🟩
+
+Special press conference conducted by the Delegation of Sri Lanka's Agency of Sri Lanka in relation to the second assessment of the comprehensive loan facility for Sri Lanka.
+
+Watch the Livelihood of the press conference chaired by Senior Head of the International Monetary Fund.
 
 ◼️
 
 [Data](articles/027c4d98.json)
+
+[Extended Data](ext_articles/027c4d98.ext.json)
 
 ---
 
@@ -594,6 +600,24 @@ The police, who are conducting investigations, are taking steps to arrest others
 
 ---
 
+### සාගරය : මුහුද පතුලේ සැඟවුණු සුන්දර ලෝකය සොයා යන සරසවි සිසුවිය
+
+*2024-06-14 02:11:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0wwxp3xgvko) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''එළියේ ලෝකය හරිම සද්දයි. මුහුද ඇතුළ හරිම නිස්කලංකයි''
+
+සාගරය : මුහුද පතුලේ සැඟවුණු සුන්දර ලෝකය සොයා යන සරසවි සිසුවිය
+
+කොරල් පර, මසුන්, මුහුදු තෘණ සහ වෙනත් ජලජ ජීවින්ගෙන් පිරි ඒ පරිසර පද්ධතියේ පැවැත්මට මානව ක්‍රියාකාරකම් තර්ජනයක් වී ඇත.
+
+එබැවින් තමන්ට හැකි අයුරින් මුහුදු පතුල පිරිසිදු කර එහි සංරක්ෂණයට කැප වූ සරසවි සිසුවියක අපට හමු විය.
+
+◼️
+
+[Data](articles/b6df5015.json)
+
+---
+
 ### Shakib al -Hasan and Rishad Hossain increased the Super 8 chance of Bangladesh
 
 *2024-06-14 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186033) · `ta`
@@ -708,23 +732,29 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
-### ’நலன்புரி வேலைத்திட்டங்கள் மக்களை சென்றடையும்’
+### Model welfare programs reach people
 
 *2024-06-14 00:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நலன்புரி-வேலைத்திட்டங்கள்-மக்களை-சென்றடையும்/175-338892) · `ta`
 
-அரசாங்கத்தினால் நடைமுறைப்படுத்தப்படும் நலன்புரித் திட்டங்களை வினைத்திறனுள்ளதாக்கி அதன் பயன்களை மக்களுக்கு துரிதமாக வழங்குவதற்கு ஆளுநர்கள் பங்களிக்க வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+During a meeting with provincial governors, President Ranil Wickremesinghe emphasized the importance of governors contributing to the government's efforts to benefit the people. Discussions included addressing teacher shortages and improving the efficiency of the Urumaya Land Confirmation Scheme, potentially by expanding the roles of Grama Niladharis.
 
-மாகாண ஆளுநர்களுடன் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மாகாண மட்டத்தில் உள்ள ஆசிரியர் பற்றாக்குறையை விரைவாகத் தீர்க்க எடுக்கப்பட வேண்டிய நடவடிக்கைகள் மற்றும் உறுமய காணி உறுதி வழங்கும் திட்டத்தின் வினைத்திறன் என்பன குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டுள்ளது.
+President Ranil Wickremesinghe said the governors should contribute to the government's benefit to the people and the benefits of the government.
 
-உறுமய காணி உறுதிகளை வழங்கும் வேலைத்திட்டத்தை வினைத்திறன் மிக்கதாக மாற்றுவதற்கு கிராம உத்தியோகத்தர்களுக்கு மேலதிகமாக மற்றுமொரு குழுவிற்கு அதிகாரத்தை வழங்கி நடமாடும் சேவைகளை நடைமுறைப்படுத்துவதற்கான சாத்தியத்தை ஜனாதிபதி இதன்போது சுட்டிக்காட்டினார்.
+The President made this statement during a discussion held at the Presidential Office yesterday with provincial governors.
 
-இது தொடர்பில் மக்களை ஆர்வமூட்டி, அவர்களுக்கு அந்த நன்மையை வழங்க வேண்டிய பொறுப்பு பிரதேச செயலாளர்களுக்கு வழங்கப்பட்டுள்ளதையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நினைவுகூர்ந்தார்.(a)
+The measures to be taken to address the shortage of teachers at the provincial level and the efficiency of the Urumaya Land Confirmation Scheme have also been discussed in detail.
+
+The President pointed out the possibility of implementing the services of the Grama Niladhari in addition to the Grama Niladhari to make the Urumaya Land Confirmation Program as efficient.
+
+President Ranil Wickremesinghe recalled that the Divisional Secretaries have been given the responsibility of giving them the benefit of the people and the benefit of the people. (A)
 
 ◼️
 
 [Data](articles/6eb0bc2f.json)
+
+[Extended Data](ext_articles/6eb0bc2f.ext.json)
 
 ---
 
@@ -2227,29 +2257,5 @@ The train operations have already begun one road to railway operation. Trains tr
 [Data](articles/5d4de351.json)
 
 [Extended Data](ext_articles/5d4de351.ext.json)
-
----
-
-### Train services on Coastal Line limited to single track
-
-*2024-06-13 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99858/train-services-on-coastal-line-limited-to-single-track) · `en`
-
-The train operations on the Coastal Line have been further limited to a single track, following the derailment of a train at Panadura Railway Station this morning (13).
-
-A slow train plying from Panadura to Maradana derailed near the Panadura railway station, disrupting services on the coastal line.
-
-Furthermore, one of the compartments of the derailed train had collided with a nearby railway signal board, causing a complete breakdown of the railway signaling system in the area.
-
-Meanwhile, a spokesperson for Sri Lanka Railways stated that it will take a considerable amount of time to restore the railway line for regular train operations.
-
-However, the Department of Railways announced that one of the two railway tracks on the coastal line has now been re-opened for train operations.
-
-The train delays will continue further on the coastal line, according to the  department.
-
-◼️
-
-[Data](articles/cfd5c869.json)
-
-[Extended Data](ext_articles/cfd5c869.ext.json)
 
 ---

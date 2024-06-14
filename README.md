@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 17:34:46**
+As of **2024-06-14 17:55:17**
 
 ## Newspaper Stats
 
-*Scraped **30,406** Articles*
+*Scraped **30,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
-adalk | 2,619
+adalk | 2,620
 adaderanalk | 3,445
 tamilmirrorlk | 3,556
 virakesarilk | 4,675
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,902
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,405 (100.0%) of 30,406 articles have been extended.
+30,406 (100.0%) of 30,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,31 +86,39 @@ Her clumps have been the cause of this accident.
 
 ---
 
-### සාගතයක් ගැන අනතුරු ඇඟවීමක්
+### A warning of a famine
 
 *2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197760) · `si`
 
-සිවිල් යුද්ධයකින් පීඩාවට පත්ව ඇති අප්‍රිකානු සූඩානයේ අවම වශයෙන් 756,000ක ජනතාවක් ඉදිරි මාස කිහිපය තුළ සාගතයකට මුහුණදෙනු ඇති බව එහි ක්‍රියාත්මක එක්සත් ජාතීන්ගේ සහන සංවිධාන පවසයි.
+Famine threatens 17.7 million in Zudh, with 25.6 million facing severe food crises. The UN warns of a potential famine within months, exacerbated by conflict and security risks. Despite the NMC government denying a famine, the UN faces challenges in assessing the situation due to security issues and communication barriers. The ongoing civil war in Sudan, particularly in the western Daduwur region, has displaced over 10 million, with the UN expressing concern over severe malnutrition affecting 3.6 million. The UN Security Council has passed a resolution calling for the removal of armed forces from the region, highlighting the urgency of the situation.
 
-පසුගිය දෙසැම්බරයේ නිකුත් කළ වාර්තාවලට අනුව පවා සූඩානයේ මිලියන 17.7ක් ජනතාවක්, එනම් ජනගහනයෙන් 37%ක් ආහාර අනාරක්ෂිතභාවයෙන් පෙළුෑණි.
+🟩
 
-එහෙත් මේ වන විට මිලියන 25.6ක් එනම් ජනගහනයෙන් 54%ක් දරුණු ආහාර අර්බුදයකට මුහුණදෙමින් සිටී.
+The United Nations Relief Organizations operating in the next few months, the United Nations Relief Organization (UN) proceedings will face a famine in the next few months.
 
-ඒ අතුරින් මිලියන 9ක ජනතාව හදිසි ආධාර අවශ්‍ය නැත්නම් දරුණු තත්ත්වයක පසුවන බව වාර්තා වේ.
+According to reports released last December, 17.7 million people in Zudh, that is, 37% of the population pee in food insecurity.
 
-සූඩාන හමුදා රජය නම් ප්‍රකාශ කරන්නේ රටතුළ සාගත තත්ත්වයක් නොමැති බවය.
+But at least 25.6 million, 54% of the population is facing a serious food crisis.
 
-සුඩායේ සාගත තත්ත්වය පිළිබඳ නිසි ඇගයීමක් සිදුකිරීම ද ගැටලුකාරී වී තිබේ.
+9 million people are reported to be in severe aid if there are no emergency.
 
-ආරක්ෂක අවදානම, මාර්ග බාධක හා විදුලි සංදේශ සේවා ඇණහිටීම් ආදිය නිසා ඒ ආකාරයේ තොරතුරු දත්ත එක්රැස් කිරීම අභියෝගයක් බව රෝමය කේන්ද්‍ර කරගත් IPC හෙවත් ඒකාබද්ධ ආහාර ආරක්ෂණ අදියර වර්ගීකරණය ප්‍රකාශ කරයි.
+The NMC government says that there is no famine in the country.
 
-කෙසේ නමුත් සුඩානයේ තත්ත්වය පිළිබඳ ඔවුන් ඉදිරි සති කිහිපය තුළ නව වාර්තාවක් ඉදිරිපත් කිරීමට නියමිතයි.
+The proper evaluation of the famine of Sudaya is also also trouble.
 
-සුඩානයේ වත්මන් සිවිල් යුද්ධය ආරම්භ වූයේ පසුගිය වසරේ අප්‍රේල් මාසයේ සිටියි.
+The Rome Center Protection Stage is a challenge that the information data is a challenge due to security risk, roadblock and telecommunications.
+
+However, they are to submit a new record in the situation of Sudha.
+
+The present civil war in Sudan began in April last year.
+
+In particular, the western Daduwur region spread racism and racism.
 
 ...
 
 [Data](articles/806a826f.json)
+
+[Extended Data](ext_articles/806a826f.ext.json)
 
 ---
 
@@ -135,6 +143,24 @@ The economic activities of agriculture, industrial and services in the first qua
 [Data](articles/8fe83a48.json)
 
 [Extended Data](ext_articles/8fe83a48.ext.json)
+
+---
+
+### මේ බිළිඳුන් කොහේ සිටන් ආවාදෝ ..... ?
+
+*2024-06-14 16:49:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-බිළිඳුන්-කොහේ-සිටන්-ආවාදෝ--------/11-410213) · `si`
+
+ඉපදි දින කිහිපයක් ගතවන බිළිදු මල සිරුරක්  අද (13) දින නුවරඑලිය බුළුඇළ බොරලන්ද ප්‍රදේශයෙන් සොයාගත් බව නුවරඑලිය මුලස්ථාන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසිය.
+
+බොරලන්ද ප්‍රදේශයේ බුළුඇළ අසල බිළිඳකුගේ මළ සිරුරක් ඇති බවට බොරලන්ද ප්‍රදේශවාසීන් විසින් නුවරඑළිය පොලිසියට කරන ලද දැනුම් දිමක් මත බිළිදු මල සිරුර සොයාගත් බවත්, සොයාගත් බිළිදු මල සිරරේ ඉනෙන් පහල කොටස නොමැති බවට පොලිසිය විසින් කරන ලද මුලික විමර්ෂණ වලදි අනාවරණය වි ඇත.
+
+බිළිදු මල සිරුර සම්බන්ධයෙන් ප්‍රදේශය අවට පිහිටි සියළුම රෝහල් සහ පොලිස් ස්ථාන දැනුවත් කල බවත්, බිළිදු මල සිරුරේ දෙමව්පියන් සෙවිම් කටයුතු දියත් කර ඇති බවයි නුවරඑලිය පොලිසියේ නිලධාරින් කියා සිටියේ.
+
+බිළිදු මල සිරුර සම්බන්ධයෙන් නුවරඑළිය වැඩබලන මහේස්ත්‍රාත් ජයමිණි අඹගහවත්ත මහතා විසින් ස්ථානය පරීක්ෂණය සිදු කිරීමෙන් අනතුරුව බිළිඳු මල සිරුර නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කර පශ්චාත් මරණ පරීක්ෂණය සිදු කරන ලෙසට නුවරඑලිය පොලිසියට නියෝග කෙරිණ.
+
+◼️
+
+[Data](articles/a373c077.json)
 
 ---
 
@@ -2241,27 +2267,5 @@ In addition, the fingerprint identities of the two have been obtained when the s
 [Data](articles/18b3939e.json)
 
 [Extended Data](ext_articles/18b3939e.ext.json)
-
----
-
-### Daughter Kills Daughter In Mannar Murugan Poovarasankulam
-
-*2024-06-14 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186038) · `ta`
-
-In Mannar, an 8-year-old girl died after falling from a plowing machine operated by her father-in-law. The accident occurred in the Poovarasankulam area on Thursday evening.
-
-🟩
-
-The death of a daughter who was trapped in a father -in -law's plowing machine took place on Thursday (13) at around 7 pm.
-
-A farmer in the Poovarasankulam area of ​​the Mannar Murugan police division was plowing through a plowing machine in his field.
-
-During this time, her 8 -year -old daughter, who was sitting in the Makkad area of ​​the plowing machine, suddenly fell down and died.
-
-◼️
-
-[Data](articles/888821a3.json)
-
-[Extended Data](ext_articles/888821a3.ext.json)
 
 ---

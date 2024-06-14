@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 16:34:23**
+As of **2024-06-14 16:51:11**
 
 ## Newspaper Stats
 
-*Scraped **30,396** Articles*
+*Scraped **30,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,43 @@ islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,616
-adaderanalk | 3,442
+adaderanalk | 3,443
 tamilmirrorlk | 3,556
 virakesarilk | 4,674
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,899
+adaderanasinhalalk | 4,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,393 (100.0%) of 30,396 articles have been extended.
+30,396 (100.0%) of 30,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### யாழில் ஊடகவியலாளரின் வீட்டைத் தாக்கிய கும்பலை உடன் கைதுசெய்ய வேண்டும் - அம்பாறை தமிழ் ஊடகவியலாளர் ஒன்றியம் ஜனாதிபதியிடம் கோரிக்கை
+### Court orders for seized luxury vehicles to be handed over to Customs
 
-*2024-06-14 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186054) · `ta`
+*2024-06-14 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99880/court-orders-for-seized-luxury-vehicles-to-be-handed-over-to-customs) · `en`
 
-ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது வன்முறைக் கும்பல் மேற்கொண்ட தாக்குதலை கடும் கண்டனம் தெரிவிப்பதுடன் இந்த வன்முறைக் கும்பலை உடன் கைதுசெய்து சட்டத்தின் முன் நிறுத்தவேண்டும் அதேவேளை ஊடகவியலாளின் பாதுகாப்பை பொலிசார் உறுதிபடுத்த வேண்டும் என ஜனாதிபதியிடம் அம்பாறை தமிழ் ஊடகவியலாளர் ஒன்றியம் கோரிக்கை விடுத்துள்ளது.
+The Colombo Magistrate’s Court has ordered for five luxury vehicles, seized by the Bribery Commission after it was found that they had been imported by submitting false information to the Department of Motor Traffic, to be handed over to Sri Lanka Customs.
 
-அம்பாறை தமிழ் ஊடகவியலாளர் ஒன்றியம் ஊடகவியலாள் பிரதீபனின் வீட்டின் மீது இடம்பெற்ற தாக்குதலை கண்டித்து இன்று வெள்ளிக்கிழமை (14) ஊடக அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+Investigations by the Bribery Commission have revealed that the government lost approximately Rs. 300 million in tax revenue due to the illegal importation of these vehicles, which are estimated to be worth around Rs. 600 million.
 
-யாழ்ப்பாணம் அச்சுவேலியைச் சேர்ந்த ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது வியாழக்கிழமை அதிகாலை 12.15 மணியளவில்  இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஐந்து பேர் கொண்ட வன்முறைக் கும்பல் தாக்குதல் நடத்தியதுன் மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் தாக்கப்பட்டதுடன் தீ வைத்து எரித்துள்ளனர்.
+The Bribery Commission had taken these vehicles into its custody based on court orders previously issued in relation to the investigation.
 
-இந்த சம்பவம் ஊடக அடக்கு முறையை பிரதிபலிப்பதுடன் தமிழ் ஊடகவியலாளர்கள் மீது கட்டவிழ்த்துவிடப்பட்ட திட்டமிட்ட ஒரு செயலாக பார்க்கின்றோம்.
-
-...
-
-[Data](articles/e11e21e7.json)
-
----
-
-### ශ්‍රීලනිප අර්බුදය - පෙත්සම විභාග කිරීමට නියෝගයක්
-
-*2024-06-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197756) · `si`
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් නිකුත් කර තිබෙන වාරණ නියෝගයට එරෙහිව ගොනුකළ අභියාචනා පෙත්සම විභාගයට ගැනීමට බස්නාහිර පළාත් සිවිල් අභියාචනා මහාධිකරණය නියම කළේය.
-
-විජයදාස රාජපක්ෂ මහතා  විසින් ගොනු කර තිබූ අභියාචනා පෙත්සමක් දීර්ඝ ලෙස සලකා බැලීමෙන් අනතුරුව ගිහාන් කුලතුංග සහ ෆ්‍රෑන්ක් ගුණවර්ධන යන මහත්වරුන්ගෙන් සමන්විත සිවිල් අභියාචනා මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
-
-කෙසේ වෙතත් කොළඹ දිසා අධිකරණය හමුවේ පැවැත්වෙන නඩුව විභාගය ඉදිරියට පවත්වාගෙන යාමටද විනිසුරු මඩුල්ල විසින් නියෝග කරනු ලැබීය.
-
-ඉන් අනතුරුව අදාළ අභියාචනා පෙත්සම ලබන 26 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+Colombo Chief Magistrate Thilina Gamage, has ordered that the vehicles be handed over to Sri Lanka Customs for additional investigations after accepting the facts presented by the Bribery Commission.
 
 ◼️
 
-[Data](articles/b5da07f7.json)
+[Data](articles/66489074.json)
 
 ---
 
 ### Gold jewelery worth Rs 20 lakhs
 
-*2024-06-14 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186073) · `ta`
+*2024-06-14 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186073) · `ta`
 
 A man broke into a woman's house in Kattankudi, robbing her of gold jewelry worth Rs 20 lakh. The incident occurred around 1 pm when the woman was alone, as her husband works abroad. The thief assaulted her before fleeing with the valuables. Neighbors found the woman injured and alerted the police, who are now investigating the case.
 
@@ -93,6 +75,78 @@ A complaint has been lodged with the Kattankudi police and the police are conduc
 [Data](articles/af69dbc0.json)
 
 [Extended Data](ext_articles/af69dbc0.ext.json)
+
+---
+
+### යතුරුපැදියක් දුම්රියේ ගැටී කාන්තාවක් ජීවිතක්ෂයට
+
+*2024-06-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197757) · `si`
+
+අද (14) උදෑසන මීටියාගොඩ, වැරැල්ලාන මුදුගොඩ මාර්ගයේ ධාවනය කරමින් තිබූ යතුරුපැදියක් දුම්රියේ ගැටී අනතුරක් සිදුව තිබිණි.
+
+යතුරුපැදිය වැරැල්ලාන දුම්රිය හරස් මාර්ගයේ දී ගාල්ල සිට රඹුක්කන දක්වා ධාවනය වූ දුම්රියේ ගැටී අනතුර සිදුවුණි.
+
+එහිදී යතුරුපැදිකාරිය බරපතළ තුවාල ලබා, බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්වුණි.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ අවුරුදු 53ක් වූ කළුපේ, හික්කඩුව ප්‍රදේශයේ පදිංචිකාරිණියකි.
+
+පැදිකාරියගේ නොසැලකිලිමත් රිය ධාවනය හේතුවෙන් අනතුර සිදුව ඇති අතර, මෘත ශරීරය බලපිටිය රෝහලේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/9cc07260.json)
+
+---
+
+### Ampara Tamil Journalists Union requests President
+
+*2024-06-14 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186054) · `ta`
+
+The Ampara Tamil Journalists Union has condemned an attack on journalist Thambichurai Pradeepan's home by a gang, urging the President to ensure journalist security. The union sees this as part of a broader pattern of media suppression targeting Tamil journalists. They call for immediate police action and legal measures against the attackers.
+
+🟩
+
+The Ampara Tamil Journalists Union has urged the President to ensure the security of the journalist's security, while the violent gang has strongly condemned the attack on the house of journalist Thambichurai Pradeepan.
+
+Ampara Tamil Journalists Union issued a media statement on Friday (14) condemning the attack on the house of journalist Pradeepan.
+
+A five -member gang of two motorcycles attacked the house of Jaffna Achuveli, Thambichurai Pradeepan, at around 12.15 am on Thursday morning.
+
+This incident reflects the media suppression and we see as a planned act unleashed on Tamil journalists.
+
+At the same time, attacks and threats are being targeted on the Tamil journalist.
+
+It is a cowardly act that carried out these systematic attacks with the napasi that those who cannot face the views of such violence can strangle the neck of the journalists.
+
+...
+
+[Data](articles/e11e21e7.json)
+
+[Extended Data](ext_articles/e11e21e7.ext.json)
+
+---
+
+### SLFP crisis - Order to hear the petition
+
+*2024-06-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197756) · `si`
+
+In a legal dispute involving the Sri Lanka Freedom Party (SLFP), a High Court of Appeal ordered a hearing for appeals against an SLFP chairman's injunction. The court, led by Judges Gihan Kulathunga and Frank Gunawardena, will consider a petition from Mr. Wijayadasa Rajapaksa. Despite this, the case is directed to proceed in the Colombo District Court, with the appearance petition scheduled for the 26th.
+
+🟩
+
+The Western Province General Appeal was taken to hear the appearance of the Appeals filed against the injunction issued by the Sri Lanka Freedom Party (SLFP) as the Chairman of the SLFP.
+
+The order was issued by a High Court of Appeal Gihan Kulathunga and Frank Gunawardena after considering a petition filed by Mr. Wijayadasa Rajapaksa.
+
+However, the panel of judges was ordered to continue the case in the Colombo District Court.
+
+The appearance petition was ordered to be summoned on the 26th.
+
+◼️
+
+[Data](articles/b5da07f7.json)
+
+[Extended Data](ext_articles/b5da07f7.ext.json)
 
 ---
 
@@ -146,19 +200,25 @@ Eastern University Employees Union President A Jegaraju said,
 
 ---
 
-### ට්‍රැෆික් පොලිස් නිලධාරීන්ට සුබ ආරංචියක්
+### Good news for Traffic police officers
 
 *2024-06-14 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197754) · `si`
 
-රථවාහන රාජකාරියේ නියුතු පොලිස් කොස්තාපල්වරයෙකුට ගෙවූ රු.1600ක මාසික දීමනාව රු. 6,000ක් දක්වා ඉහළ දමා තිබේ.
+Traffic police officers receive a monthly allowance increase from Rs. 2,500 to up to Rs. 6,000. The IGP plans to issue a new circular regarding this change.
 
-ඊට අදාළව පොලිස්පතිවරයා විසින් නව චක්‍රලේඛයක් නිකුත් කිරීමට ද නියමිත ය.
+🟩
 
-මෙතෙක් ස්ථානාධිපති/රථවාහන ධුරය දැරූ නිලධාරියෙක් ට ගෙවූ මාසික දීමනාව වූ රුපියල් 2,500, රුපියල් 7,000ක් දක්වා වැඩිකර ඇති බවද වාර්තා විය.
+1600 per month allowance paid to a police constable of traffic duty. Up to 6,000.
+
+The IGP is also scheduled to issue a new circular.
+
+It was reported that the monthly allowance paid to an officer who has so far has been increased to Rs. 2,500.
 
 ◼️
 
 [Data](articles/86715281.json)
+
+[Extended Data](ext_articles/86715281.ext.json)
 
 ---
 
@@ -2173,37 +2233,5 @@ While the best athletes of the world are gathering in France for the great Olymp
 [Data](articles/805a9ad6.json)
 
 [Extended Data](ext_articles/805a9ad6.ext.json)
-
----
-
-### Beyond CSR: Looking inward for social impact
-
-*2024-06-14 00:43:04* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-CSR-Looking-inward-for-socialimpact/4-763050) · `en`
-
-The true essence of CSR is its integration into the very fabric of a company’s operations
-
-For years now, Corporate Social Responsibility (CSR) has been a buzzword among both development and private sectors. It is easily one of the most misinterpreted concepts – its essence diluted when communicated and implemented within the corporate world. Businesses often misunderstand and misapply the concept of CSR: rather than integrating CSR into core business practices, the trend is a stronger focus on charitable initiatives. While still commendable, businesses can start by looking inward and truly embracing CSR with a deeper, more authentic approach that embodies company policies, practices, and culture.
-
-...
-
-[Data](articles/a3e70bab.json)
-
-[Extended Data](ext_articles/a3e70bab.ext.json)
-
----
-
-### Nation’s talent retention – priority beyond politics: A strategic approach
-
-*2024-06-14 00:35:49* · [`dailyftlk`](https://www.ft.lk/columns/Nation-s-talent-retention-priority-beyond-politics-A-strategic-approach/4-763049) · `en`
-
-One major reason for people to seek greener pastures is economic prosperity and quality of life
-
-Today there is a mass exodus of professionals and not so professional citizens from this country to perceived “greener pastures” overseas. From doctors to engineers, lawyers to accountants, private to public sector employees, academics to students, people are migrating or attempting to migrate.
-
-...
-
-[Data](articles/999354b0.json)
-
-[Extended Data](ext_articles/999354b0.ext.json)
 
 ---

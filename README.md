@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 17:55:17**
+As of **2024-06-14 18:13:21**
 
 ## Newspaper Stats
 
-*Scraped **30,407** Articles*
+*Scraped **30,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,620
-adaderanalk | 3,445
+adaderanalk | 3,446
 tamilmirrorlk | 3,556
-virakesarilk | 4,675
+virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,902
+adaderanasinhalalk | 4,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,406 (100.0%) of 30,407 articles have been extended.
+30,407 (100.0%) of 30,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Keheliya and seven others further remanded
+
+*2024-06-14 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99883/keheliya-and-seven-others-further-remanded) · `en`
+
+Former Minister of Health Keheliya Rambukwella and 07 others have been further remanded until June 28 by the Maligakanda Magistrate’s Court over the import of substandard human Immunoglobulin vials.
+
+This order was issued when the case was taken up before the Maligakanda Magistrate today (14).
+
+◼️
+
+[Data](articles/c66f9563.json)
+
+---
+
+### කෙහෙළිය ඇතුළු පිරිස යළි රිමාන්ඩ්
+
+*2024-06-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197761) · `si`
+
+ප්‍රමිතියෙන් තොර මානව ඉමියුනොග්ලොබියුලින් එන්නත් ආනයනය කිරීම සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු 7 දෙනෙකු මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් ජුනි 28 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/d7dcaf71.json)
+
+---
+
+### தாய்லாந்தில் ஆசிய யானை ஈன்ற அரிய வகை இரட்டை யானைக் குட்டிகள்
+
+*2024-06-14 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186087) · `ta`
+
+மத்திய தாய்லாந்தில் உள்ள ஆசிய யானை ஒன்று அரிய வகை இரட்டை யானை குட்டிகளை  ஈன்றுள்ளது.  இது ஒரு அதிசயம் என அயுத்தயா யானைகள் சரணாலயத்தின் பராமரிப்பாளர்கள் கூறுகின்றனர்.
+
+கடந்த வெள்ளிக்கிழமை 36 வயதான 'சாம்சூரி' எனும் யானை எதிர்பார்க்காத வகையில் ஆண் யானை குட்டியை ஈன்றது. அப்போது,  அயுத்தயா யானைகள் சரணாலயம் பராமரிப்பாளர்கள் பிரசவம் முடிந்துவிட்டதாக நினைத்தனர்.
+
+பின்னர், ஈன்ற ஆண் யானை குட்டியை சுத்தம் செய்து அது நிற்பதற்கு உதவி செய்யும் போது, சாம்சூரி இரண்டாவது பெண் யானை குட்டியை ஈன்றுள்ளதாக பலத்த சத்தததை கேட்டு உணர்ந்தனர்.
+
+இந்நிலையில், இரண்டாவது பிரசவம்  பீதியில் ஆழ்த்தியதோடு, பெண் யானை குட்டி மீது தாய் யானையின் கால்கள் படாமல் பராமரிப்பாளர்கள் தடுக்க முற்பட்டபோது காவலர் ஒருவர் காயமடைந்துள்ளார்.
+
+யானைப் பிறப்புகளில் ஒரு சதவீதத்தில் மட்டுமே இரட்டை யானை குட்டிகள் பிறக்கின்றன. மேலும் ஆண் மற்றும் பெண் யானை குட்டிகள் பிறப்பது மிகவும் அரிதான நிகழ்வு என சேவ் தி எலிஃபண்ட்ஸ் என்ற ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/11f1ee1e.json)
+
+---
 
 ### AG’s Dept. will not represent ex-Health Minister and NMRA officials, court told
 
@@ -43,6 +89,20 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 [Data](articles/b8b68c06.json)
 
 [Extended Data](ext_articles/b8b68c06.ext.json)
+
+---
+
+### ‘பயமறியா பிரம்மை’ படத்தில் நீளமான காட்சிகள் அதிகம் - குரு சோமசுந்தரம்
+
+*2024-06-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186081) · `ta`
+
+புதுமுக நடிகர் ஜேடி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில், சிங்கிள் டேக்கில் படமாக்கப்பட்ட நீளமான காட்சிகள் அதிகம் என்று அப்படத்தில் அழுத்தமான வேடத்தில் நடித்திருக்கும் நடிகர் குரு சோமசுந்தரம் தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஜோன் விஜய், ஹரிஷ் உத்தமன், வினோத் சாகர், விஸ்வாந்த், சாய் பிரியங்கா ரூத், திவ்யா கணேஷ், ஹரீஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நந்தா- வி. பிரவீண் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே இசையமைத்திருக்கிறார்.‌ கிரைம் திரில்லர் வகையிலான இந்த திரைப்படத்தை 69 எம் எம் ஃபிலிம் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜெகதீஷ் மற்றும் ராகுல் கபாலி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/cbd39abc.json)
 
 ---
 
@@ -61,6 +121,24 @@ Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen fu
 [Data](articles/7c567899.json)
 
 [Extended Data](ext_articles/7c567899.ext.json)
+
+---
+
+### அட்டன் புதிய ரயில் நிலையம் விரைவில் பயணிகள் பாவனைக்குத் திறக்கப்படும்
+
+*2024-06-14 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186084) · `ta`
+
+தொழிலாளர் தேசிய சங்கத்தின் தலைவரும் முன்னாள் அமைச்சருமான பழனி திகாம்பரத்தினால் 2017 ஆம் ஆண்டு முன்னெடுக்கப்பட்ட அட்டன் புதிய ரயில் நிலையக் கட்டிடத் தொகுதி விரைவில் பொது மக்கள் பாவனைக்கு வழங்குவதற்கான நடவடிக்கைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+இவ்விடயம் தொடர்பான கள ஆய்வு ஒன்றினை பொருளாதார அபிவிருத்தி பாராளுமன்ற கண்காணிப்பு குழுவின்  பாராளுமன்ற உறுப்பினர்  அஜித் மனப்பெரும நேற்று வியாழக்கிழமை (13) அட்டன் ரயில் நிலையத்திற்கு வருகைத் தந்திருந்தார்.
+
+இதன்போது, கள ஆய்வினை மேற்கொண்ட பாராளுமன்ற உறுப்பினர் முதற்கட்டமாக புதிய ரயில் நிலையத்தினை வெகு விரைவில் ஆரம்பிப்பதற்கான நடவடிக்கைகள் குறித்து நகர அபிவிருத்தி அதிகார சபை மற்றும் ரயில்வே திணைக்கள அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபட்டார்.
+
+இதன்போது, பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரத்தின் பணிப்புரைக்கு ஏற்ப அவரின் பாராளுமன்ற ஆய்வாளரும் மத்திய மாகாண சபையின் முன்னாள் உறுப்பினருமான சோ.ஸ்ரீதரன் ,அட்டன் -டிக்கோயா நகர சபையின் முன்னாள் தலைவர் டாக்டர் அழகுமுத்து நந்தகுமார் ஆகியோரும் பங்கேற்றனர்.
+
+...
+
+[Data](articles/d1af8335.json)
 
 ---
 
@@ -146,21 +224,27 @@ The economic activities of agriculture, industrial and services in the first qua
 
 ---
 
-### මේ බිළිඳුන් කොහේ සිටන් ආවාදෝ ..... ?
+### Come on where these babies were up.. ?
 
 *2024-06-14 16:49:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-බිළිඳුන්-කොහේ-සිටන්-ආවාදෝ--------/11-410213) · `si`
 
-ඉපදි දින කිහිපයක් ගතවන බිළිදු මල සිරුරක්  අද (13) දින නුවරඑලිය බුළුඇළ බොරලන්ද ප්‍රදේශයෙන් සොයාගත් බව නුවරඑලිය මුලස්ථාන පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසිය.
+In Nuwara Eliya, a baby's body was found near a well in Boraland. The discovery led to the involvement of the OIC Chief Inspector Premalal Hettiarachchi and the appointment of a Judicial Medical Officer from the Nuwara Eliya District Hospital General Hospital to investigate.
 
-බොරලන්ද ප්‍රදේශයේ බුළුඇළ අසල බිළිඳකුගේ මළ සිරුරක් ඇති බවට බොරලන්ද ප්‍රදේශවාසීන් විසින් නුවරඑළිය පොලිසියට කරන ලද දැනුම් දිමක් මත බිළිදු මල සිරුර සොයාගත් බවත්, සොයාගත් බිළිදු මල සිරරේ ඉනෙන් පහල කොටස නොමැති බවට පොලිසිය විසින් කරන ලද මුලික විමර්ෂණ වලදි අනාවරණය වි ඇත.
+🟩
 
-බිළිදු මල සිරුර සම්බන්ධයෙන් ප්‍රදේශය අවට පිහිටි සියළුම රෝහල් සහ පොලිස් ස්ථාන දැනුවත් කල බවත්, බිළිදු මල සිරුරේ දෙමව්පියන් සෙවිම් කටයුතු දියත් කර ඇති බවයි නුවරඑලිය පොලිසියේ නිලධාරින් කියා සිටියේ.
+Headquarters OIC of the Nuwara Eliya, the OIC Chief Inspector Premalal Hettiarachchi has been discovered in Nuwara Eliya today (13).
 
-බිළිදු මල සිරුර සම්බන්ධයෙන් නුවරඑළිය වැඩබලන මහේස්ත්‍රාත් ජයමිණි අඹගහවත්ත මහතා විසින් ස්ථානය පරීක්ෂණය සිදු කිරීමෙන් අනතුරුව බිළිඳු මල සිරුර නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කර පශ්චාත් මරණ පරීක්ෂණය සිදු කරන ලෙසට නුවරඑලිය පොලිසියට නියෝග කෙරිණ.
+Residents of Boraland have found a baby body near a bulley in Borayanda.
+
+The Nuwara Eliya Police stated that all hospitals and police stations around the area were informed of the infant body.
+
+The infanti blend of the infantry magistrate Jayathi Ambagahawatta regarding the infant body has been ordered to be appointed to the Judicial Medical Officer of the Nuwara Eliya District Hospital General Hospital.
 
 ◼️
 
 [Data](articles/a373c077.json)
+
+[Extended Data](ext_articles/a373c077.ext.json)
 
 ---
 
@@ -2147,125 +2231,5 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, announced the launch 
 [Data](articles/93dbd302.json)
 
 [Extended Data](ext_articles/93dbd302.ext.json)
-
----
-
-### Spa Ceylon and Shangri-La Colombo jointly host ‘Wellness Month’ event series
-
-*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/spa-ceylon-and-shangri-la-colombo-jointly-host-wellness-month-event-series/) · `en`
-
-Spa Ceylon, the world’s largest luxury Ayurveda wellness brand, is proud to extend its successful collaboration with Shangri-La Colombo for another year to launch ‘Wellness Month’, which is a series of wellness events taking place throughout June, scheduled around landmark days such as Global Wellness Day, and International Yoga Day celebrated during the month.
-
-To mark the official launch of ‘Wellness Month 2024’, Spa Ceylon and Shangri-La Colombo held a press conference on 7th June 2024, at Shangri-La Colombo where Spa Ceylon Co-Founder and Managing Director Shiwantha Dias, Spa Ceylon Co-Founder and Director, Shalin Balasuriya, General Manager, Shangri-La Colombo, Herve Duboscq, and Director of Sales & Marketing, Shangri-La Colombo and Shangri-La Hambantota, Saharsh Vadhera, were in attendance.
-
-ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
-
-...
-
-[Data](articles/c6c3e0d8.json)
-
-[Extended Data](ext_articles/c6c3e0d8.ext.json)
-
----
-
-### British Council rallies youth to protect world’s oceans
-
-*2024-06-14 05:02:00* · [`islandlk`](http://island.lk/british-council-rallies-youth-to-protect-worlds-oceans/) · `en`
-
-To mark World Oceans Day, British Council (BC) demonstrated its commitment to empower and support the country’s youth to address climate change and to share their experience of action taken to protect the oceans.
-
-In the first Interactive session at the BC, youth were given the opportunity to explore, engage and be empowered to protect the ocean for climate resilience through a knowledge- sharing and networking session with representatives from two national agencies, NARA (National Aquatic Resources Research and Development Agency) and MEPA (Marine Environment Protection Authority). The forum was moderated by Sudarsha de Silva (Co-founder, Co-Founder Earthlanka Youth Network.
-
-Questions from youth were focused on how national agencies can work together instead of working in isolation for coastal and marine conservation.
-
-...
-
-[Data](articles/17f854c5.json)
-
-[Extended Data](ext_articles/17f854c5.ext.json)
-
----
-
-### Donor's Day: Are You Schedule from Blood?
-
-*2024-06-14 04:20:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c033ewywnelo) · `si`
-
-World Blood Donor's Day, celebrated on June 14, honors Carl Landsteiner, who revolutionized blood transfusions in 1901. It highlights the importance of blood donations, which save lives without expecting anything in return. Despite misconceptions like blood donation harming fertility, experts assure it's safe for both men and women, with no significant impact on health. The event emphasizes the need for more donors, especially women, whose participation is crucial but often lower due to myths and misconceptions.
-
-🟩
-
-Donor's Day: Are You Schedule from Blood?
-
-Blood donating is considered a great donation for the good health of the world.
-
-It is a real donation that does not expect any money or any other benefit.
-
-The World Blood Donor's Day is on the 14th of June 14.
-
-The theme is the theme of the year, 'wise celebration of generosity: blood donors, thank you.'
-
-World Blood Donor's Day was named on June 14, Carl Landline (1868 - 1943).
-
-He is considered to be the Creator of the modern blood transfusion in the human blood of 1901.
-
-Later, in 1937 he was Alexander S. With Veriner, the Rezas factor in blood varieties identified.
-
-Through that, it was able to successfully perform blood transfusions without harm.
-
-The world was named the World Characterary as a honor of his work.
-
-The Kandy Teaching Hospital stated that there is a view of blood transfusions in the Kandy Teaching Hospital that there is no opinion that bloodbath is to be fallen.
-
-He pointed out that the view is just any scientific basis.
-
-...
-
-[Data](articles/392942db.json)
-
-[Extended Data](ext_articles/392942db.ext.json)
-
----
-
-### Deshamanya Dr. Nissanka Wijeyeratne: A rare personality above normal human frailty
-
-*2024-06-14 03:31:49* · [`dailyftlk`](https://www.ft.lk/columns/Deshamanya-Dr-Nissanka-Wijeyeratne-A-rare-personality-above-normal-human-frailty/4-763059) · `en`
-
-Among these politicians, Nissanka was a lotus flower that had blossomed high in the waters. Its fragrance was spreading all around. He was straight forward as a civil servant, Water Bearing Official of the Temple of the Sacred Tooth Relic, and a minister in the Government. While holding any of these positions, there were no allegations against him. It is a testimony to his honesty, frankness, and straightforwardness in handling public posts. These are the qualities which Nissanka had left with us
-
-I have not met Deshamanya Dr. Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his 100th birth anniversary falling on 14 June.
-
-...
-
-[Data](articles/e6d55ca5.json)
-
-[Extended Data](ext_articles/e6d55ca5.ext.json)
-
----
-
-### Attack on Jaffna Mediterranean House;Four police groups in the field - many condemned
-
-*2024-06-14 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186039) · `ta`
-
-A violent attack occurred at the home of journalist Thambichurai Pradeepan in Achuveli, involving four police groups. The assailants, arriving on two motorcycles, targeted the house and nearby vehicles, setting them ablaze. They also left pamphlets warning against misleading transgenders. The police's Forensic Unit collected evidence, including fingerprints from a petrol container, and are investigating with the help of surveillance footage. Political figures have condemned the act and called for the perpetrators' arrest.
-
-🟩
-
-Four police groups under the Northern Province Senior Inspector General of Police (Northern Province) under the Northern Province Senior Inspector General of Police (Northern Province)
-
-Violence attacked by two motorcycles on Thursday morning at around 12.15 am on Thursday morning at the house of journalist Thambichurai Pradeepan in Achuveli, Pathamani Kali Temple.
-
-Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
-
-The pamphlets printed on the "do not mislead transgender" were put in the house where the attacked was attacked.
-
-In this case, the Forensic Unit of the police arrived at the scene this morning and collected evidence.
-
-In addition, the fingerprint identities of the two have been obtained when the specialist fingerprint experts have been tested for a container brought by the petrol used to burn the goods and vehicles.
-
-...
-
-[Data](articles/18b3939e.json)
-
-[Extended Data](ext_articles/18b3939e.ext.json)
 
 ---

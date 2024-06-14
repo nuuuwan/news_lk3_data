@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 00:06:57**
+As of **2024-06-15 00:19:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,435 (100.0%) of 30,436 articles have been extended.
+30,436 (100.0%) of 30,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -261,6 +261,8 @@ NPP spokesman and former parliamentarian Sunil Handunneththi speaking at an even
 ...
 
 [Data](articles/0ebd36a7.json)
+
+[Extended Data](ext_articles/0ebd36a7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 12:34:30**
+As of **2024-06-14 12:52:31**
 
 ## Newspaper Stats
 
-*Scraped **30,359** Articles*
+*Scraped **30,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,758
 dailyftlk | 1,846
 adalk | 2,615
 adaderanalk | 3,438
-tamilmirrorlk | 3,551
+tamilmirrorlk | 3,552
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
@@ -26,27 +26,51 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,358 (100.0%) of 30,359 articles have been extended.
+30,359 (100.0%) of 30,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### தாத்தா செலுத்திய உழவு இயந்திரத்தில் சிக்கி பேத்தி  பலி
+### கணவனுக்கு தெரியாமல் கர்ப்பம்:  அதிர்ச்சி கொடுத்த பெண்
+
+*2024-06-14 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனுக்கு-தெரியாமல்-கர்ப்பம்-அதிர்ச்சி-கொடுத்த-பெண்/175-338902) · `ta`
+
+தன்னுடைய கணவன் மற்றும் குடும்பத்தினருக்கு தெரியாமல் கர்ப்பமாக இருந்த பெண்ணொருவர், குடும்பத்தினருக்கே அதிர்ச்சி கொடுத்துள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+கேரள மாநிலம் இடுக்கி மாவட்டம் தொடுபுழா கரிமண்ணூரைச் சேர்ந்த சுஜாதா என்ற பெண்ணுக்கு கடந்த 10ம் திகதி இரவு குழந்தை பிறந்துள்ளது. பிறந்த உடனே குழந்தையை வாளி நீரில் மூழ்கி கொலை செய்துள்ளார். அதனை தொடர்ந்து சுஜாதா அதீத ரத்தப் போக்கின் காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+
+அங்கு அவருக்கு சிகிச்சை அளிக்கப்பட்டது. அதன்பின்னர் சுஜாதாவிடம் மருத்துவர்கள் விசாரித்த போது, குழந்தை பிறந்தவுடன் இறந்து விட்டதாகத் தெரிவித்தார். இதையடுத்து சம்பவம் குறித்து தகவலறிந்து வந்த பொலிஸார் நடத்தினர்.
+
+அங்கு அவருக்கு சிகிச்சை அளிக்கப்பட்டது. அதன்பின்னர் சுஜாதாவிடம் மருத்துவர்கள் விசாரித்த போது, குழந்தை பிறந்தவுடன் இறந்து விட்டதாகத் தெரிவித்தார். இதையடுத்து சம்பவம் குறித்து தகவலறிந்து வந்த பொலிஸார் நடத்தினர்.
+
+◼️
+
+[Data](articles/ae7136ba.json)
+
+---
+
+### Grandpa's granddaughter killed in plowing machine
 
 *2024-06-14 12:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தாத்தா-செலுத்திய-உழவு-இயந்திரத்தில்-சிக்கி-பேத்தி-பலி/72-338899) · `ta`
 
-தாத்தா செலுத்திய உழவு இயந்திரத்தில் சிக்கி 8 வயதான பேத்தி  உயிரிழந்த சம்பவம், மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் வியாழக்கிழமை(13)  இரவு 7 மணியளவில் இடம்பெற்றுள்ளது.
+In a tragic accident, an 8-year-old girl was fatally injured when she fell from a plowing machine in the Poovarasankulam area, Mannar Murungan police division, around 7 pm on Thursday. The incident occurred while her grandfather, a local farmer, was operating the machine. The girl's body is now at the Mannar District General Hospital, and the police are investigating the case.
 
-மன்னார் முருங்கன் பொலிஸ் பிரிவுக்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயியான ஒருவர் தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+🟩
 
-இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய   பேத்தி  திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+The 8 -year -old granddaughter of the grandfather was trapped in a plowing machine, which took place at around 7 pm on Thursday (13) at Poovarasankulam area of ​​the Mannar Murungan police division.
 
-குறித்த சிறுமியின் சடலம் மன்னார் மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளை முருங்கன் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+A farmer in the Poovarasankulam area belonging to the Mannar Murungan police division was plowing through the plowing machine in his field.
+
+During this time, his 8 -year -old granddaughter, who was sitting in the Makkat area of ​​the plowing machine, suddenly fell down and died.
+
+The body of the girl has been placed at the Mannar District General Hospital. Murugan police are conducting further investigations.
 
 ◼️
 
 [Data](articles/2aa968f6.json)
+
+[Extended Data](ext_articles/2aa968f6.ext.json)
 
 ---
 
@@ -2205,33 +2229,5 @@ Stades of the Statistics Association further stated that although the authoritie
 [Data](articles/c467a410.json)
 
 [Extended Data](ext_articles/c467a410.ext.json)
-
----
-
-### Fake foreign employment agents complained about 41 crores
-
-*2024-06-13 18:44:03* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-41ක්-වංචා-කළ-ව්‍යාජ-විදේශ-රැකියා-නියෝජිතයන්-ගැන-පැමිණිලි/11-410202) · `si`
-
-Foreign employment agents in Negombo, Sri Lanka, have defrauded millions from citizens seeking jobs in Europe, Australia, Japan, New Zealand, and France. Preliminary investigations reveal these agents issued temporary visas and sent victims to India, Singapore, and Dubai under false pretenses. The Negombo Special Criminal Investigation Division has received 95 complaints in 2024, leading to 24 arrests. Authorities urge job seekers to use registered agencies to avoid scams.
-
-🟩
-
-The OIC of the Negombo Forty Independence Police Chief Police Chief PoliceInspector Rohana Munasinghe, Mr. Rohana Munasinghe said about this, he said.
-
-These money has been deceitful to Europe, Australia, Japan, New Zealand, New Zealand, New Zealand, France, and France.Preliminary investigations have been revealed in the event of the Negombo Special Criminal Investigation Division.
-
-These false employment representatives have prepared temporary visas after they deceived money by deceived money and were taken to India, Singapore and Dubai.
-
-Such complaints received 95 years of the Negombo Special Criminal Investigation Division of 95 in the year.
-
-The total cost of the Negombo has received 45 such complaints so far in 2024.
-
-Some of the complaints were residents of the Negombo Police Division and they have complained against the fake job representatives of Tissamaharama, Tissamaharama, Sri Lanka.
-
-...
-
-[Data](articles/801edfe8.json)
-
-[Extended Data](ext_articles/801edfe8.ext.json)
 
 ---

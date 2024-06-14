@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 00:50:39**
+As of **2024-06-15 01:04:17**
 
 ## Newspaper Stats
 
-*Scraped **30,437** Articles*
+*Scraped **30,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,769
-dailyftlk | 1,846
+dailyftlk | 1,849
 adalk | 2,621
 adaderanalk | 3,449
 tamilmirrorlk | 3,561
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,437 (100.0%) of 30,437 articles have been extended.
+30,437 (100.0%) of 30,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,50 @@ Moreover, I would like to point out that I am ready to support such a candidate 
 ---
 
 ### 2024-06-14 (Friday)
+
+### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
+
+*2024-06-14 23:40:14* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-Reply-to-Shantha-Jayarathne/14-763102) · `en`
+
+A reply to the write up published in the DFT on 4 June 2024 under the heading ‘Sajith Premadasa’s leadership qualities: A critique’ by Shantha Jayarathne (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa%E2%80%99s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.)
+
+The election fever is heating up in an unprecedented and virulent manner day in and day out despite the Presidential election being almost five months away and the Election Commission is still to announce the day to accept nominations.
+
+The political parties and political alliances are in a major strategic endeavour to overtake their rival political parties to ensure the victory at the polls. Many of them have no hesitation whatsoever to attack each other with hyperbolised comments and extremely vituperative, malicious and unfounded allegations more often than not, to score a few brownie points over their opponent.
+
+...
+
+[Data](articles/d9bb553e.json)
+
+---
+
+### A new constitution could be leveraged into transitional justice and economic development
+
+*2024-06-14 23:34:59* · [`dailyftlk`](https://www.ft.lk/columns/A-new-constitution-could-be-leveraged-into-transitional-justice-and-economic-development/4-763100) · `en`
+
+What we have witnessed in Sri Lanka is a massive concentration of power and often politicians have resorted to serving themselves or their cronies because concentration of power in one person is a dangerous weapon
+
+The judiciary holds its scales of justice evenly despite various attempts at stripping its powers. The legislature had made veiled threats aimed at the distinguished members of the Judiciary several times. Some learned Justices have been unceremoniously booted out from the office. The Standing Orders have not been properly adopted in compliance with the fundamental rights of the Constitution. A Constituent Assembly could look into all aspects of the Constitution and bring forth a new Constitution which will have the backing from the people of Sri Lanka. That can restore dignity to the people of Sri Lanka
+
+...
+
+[Data](articles/f81f8851.json)
+
+---
+
+### Between two COPs: Key agenda items for the global climate negotiations for 2024
+
+*2024-06-14 23:31:39* · [`dailyftlk`](https://www.ft.lk/columns/Between-two-COPs-Key-agenda-items-for-the-global-climate-negotiations-for-2024/4-763099) · `en`
+
+SB60 brought together Parties to the UNFCCC and the Paris Agreement for two weeks of climate negotiations in Bonn, Germany
+
+From 3 to 13 June 2024, the 60th sessions of the Subsidiary Bodies (SB60) to the United Nations Framework Convention on Climate Change (UNFCCC) took place in Bonn, Germany. Like every year, these sessions mark the mid-point between two meetings of the Conference of the Parties (COP), the UNFCCC’s supreme decision-making body: in this case, COP28 in December 2023 and COP29 in November 2024. Accordingly, these mid-point negotiations play a key role to prepare for COP and lay the groundwork for decisions and outcomes at the end of the year based on the work of all Parties—including Sri Lanka—as well as non-Party stakeholders.
+
+...
+
+[Data](articles/ab023226.json)
+
+---
 
 ### This committee does not accept ... - Catholic Church
 
@@ -2295,77 +2339,5 @@ Commenting on the upcoming election, Dr. Jayatilleka said that Sri Lanka needs a
 [Data](articles/67de1707.json)
 
 [Extended Data](ext_articles/67de1707.ext.json)
-
----
-
-### Sufficient progress for Sri Lanka’s debt restructuring to move forward - IMF
-
-*2024-06-14 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99867/sufficient-progress-for-sri-lankas-debt-restructuring-to-move-forward-imf) · `en`
-
-The International Monetary Fund (IMF) says that there is sufficient progress for Sri Lanka’s Debt Restructuring process to move forward.
-
-However, the IMF further said Sri Lanka’s economy is still vulnerable and the path to debt sustainability remains knife- edged hence the country need to sustain the reform momentum.
-
-Meanwhile, joining the IMF press briefing on Sri Lanka’s second review of EFF program held virtually this morning (14), IMF Senior Mission Chief for Sri Lanka Peter Breuer stated that the IMF fully respect the democratic process for elections to take place in any country and they adapt to the relevant process.
-
-Furthermore, he mentioned that the elections may affect the timing of IMF’s missions they conduct in order to discuss compliance with the programme and reforms going forward.
-
-...
-
-[Data](articles/b4adf50d.json)
-
-[Extended Data](ext_articles/b4adf50d.ext.json)
-
----
-
-### Motorists traveling via Kohuwala junction
-
-*2024-06-14 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186040) · `ta`
-
-Starting Saturday, traffic at Kohuwala junction will be limited due to bridge construction lasting two months. The police advise using alternative routes to ease congestion and ban heavy vehicles.
-
-🟩
-
-Traffic will be restricted from Saturday (15) from Saturday (15) as the bridge will be constructed at the Kohuwala junction, police said.
-
-Since the construction work is to be carried out for a period of two months, the police have told the public to use alternatives to reduce traffic congestion during that time.
-
-In addition, police said that heavy vehicles traveling to the Kohuwala bridge have been suspended.
-
-◼️
-
-[Data](articles/aa03ecd0.json)
-
-[Extended Data](ext_articles/aa03ecd0.ext.json)
-
----
-
-### Secret talks on a referendum
-
-*2024-06-14 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197739) · `si`
-
-Discussions are underway about holding a referendum on extending the election period, possibly influenced by legal advice and the Supreme Court's stance. The government plans to conduct this in July, but potential court interventions could affect its timing and legality.
-
-🟩
-
-Political sources say that several rounds of discussions have held several rounds of the possibility of a referendum on election detection.
-
-One meeting is reported at two cases of a famous hotel in Battaramulla.
-
-Former President J. At the discussion, the present government has asked the present government as a referendum to extend the time of R Jayawardene.
-
-However, it is said that if there is any court interruptions for this purpose, it is also discussed.
-
-Legal scholars have been found in two occasions to hold a referendum and the President can take a national statement in the country and consult a national interest.
-
-The Supreme Court's view is that if the Supreme Court accepts a bill of parliamentary bill, law scholars have come to a referendum.
-
-However, there is a plan of government to hold a referendum in the coming July, "political sources further said."
-
-◼️
-
-[Data](articles/52be65ca.json)
-
-[Extended Data](ext_articles/52be65ca.ext.json)
 
 ---

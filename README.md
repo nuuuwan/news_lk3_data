@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 08:34:40**
+As of **2024-06-14 08:53:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,326 (100.0%) of 30,327 articles have been extended.
+30,327 (100.0%) of 30,327 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -600,21 +600,27 @@ The police, who are conducting investigations, are taking steps to arrest others
 
 ---
 
-### සාගරය : මුහුද පතුලේ සැඟවුණු සුන්දර ලෝකය සොයා යන සරසවි සිසුවිය
+### Ocean: University student who is looking for the lovely world of the sea
 
 *2024-06-14 02:11:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0wwxp3xgvko) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''එළියේ ලෝකය හරිම සද්දයි. මුහුද ඇතුළ හරිම නිස්කලංකයි''
+Ocean, a university student, seeks the beauty of the sea but faces threats from pollution affecting coral reefs, fish, and marine life, dedicating efforts to protect the underwater ecosystem.
 
-සාගරය : මුහුද පතුලේ සැඟවුණු සුන්දර ලෝකය සොයා යන සරසවි සිසුවිය
+🟩
 
-කොරල් පර, මසුන්, මුහුදු තෘණ සහ වෙනත් ජලජ ජීවින්ගෙන් පිරි ඒ පරිසර පද්ධතියේ පැවැත්මට මානව ක්‍රියාකාරකම් තර්ජනයක් වී ඇත.
+None contains none of this. "The world is very quiet,". It is very well in the sea
 
-එබැවින් තමන්ට හැකි අයුරින් මුහුදු පතුල පිරිසිදු කර එහි සංරක්ෂණයට කැප වූ සරසවි සිසුවියක අපට හමු විය.
+Ocean: University student who is looking for the lovely world of the sea
+
+The coral reefs, fish, sea gracks and other aquatic species have threatened the survival of the ecosystem.
+
+Therefore, we met in a university student dedicated to the bottom of the sea.
 
 ◼️
 
 [Data](articles/b6df5015.json)
+
+[Extended Data](ext_articles/b6df5015.ext.json)
 
 ---
 

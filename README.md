@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 01:34:53**
+As of **2024-06-15 01:53:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,440 (100.0%) of 30,453 articles have been extended.
+30,449 (100.0%) of 30,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Therefore Jyasuriya said that the authorities must firstly take steps to combat 
 
 [Data](articles/10cc6b76.json)
 
+[Extended Data](ext_articles/10cc6b76.ext.json)
+
 ---
 
 ### Govt. to repatriate ex-military personnel from Russia; facilitate stranded nationals in Myanmar: Foreign Minister
@@ -68,6 +70,8 @@ Foreign Affairs Minister Ali Sabry yesterday announced that a high-level delegat
 
 [Data](articles/ab65d068.json)
 
+[Extended Data](ext_articles/ab65d068.ext.json)
+
 ---
 
 ### Police seeks court order to repatriate ASP involved in Uddika’s self-orchestrated shooting
@@ -86,6 +90,8 @@ Police sources said they plan to seek a court order for Mahanama’s repatriatio
 
 [Data](articles/1d75405e.json)
 
+[Extended Data](ext_articles/1d75405e.ext.json)
+
 ---
 
 ### BASL President denies fund misappropriation allegations
@@ -102,6 +108,8 @@ On Wednesday, Nawaratna announced he would temporarily step down from his positi
 
 [Data](articles/5a6cf710.json)
 
+[Extended Data](ext_articles/5a6cf710.ext.json)
+
 ---
 
 ### National Chamber of Exporters condemns MP Jeevan Thondaman’s actions
@@ -116,6 +124,8 @@ The footage, which has sparked widespread outrage, depicts a group forcibly ente
 
 [Data](articles/99f35266.json)
 
+[Extended Data](ext_articles/99f35266.ext.json)
+
 ---
 
 ### SDTI Campus honoured with National Entrepreneur Excellence Presidential Award 2024
@@ -129,6 +139,8 @@ This accolade underscores SDTI Campus’s exceptional contributions to entrepren
 ...
 
 [Data](articles/cdb2773b.json)
+
+[Extended Data](ext_articles/cdb2773b.ext.json)
 
 ---
 
@@ -145,6 +157,8 @@ People’s Bank Deputy General Manager – Banking Support Services Nipunika Wij
 ...
 
 [Data](articles/7a0e200f.json)
+
+[Extended Data](ext_articles/7a0e200f.ext.json)
 
 ---
 
@@ -168,6 +182,8 @@ However, the Youth Corps must evolve with the times. To ensure a prosperous futu
 
 [Data](articles/403754d3.json)
 
+[Extended Data](ext_articles/403754d3.ext.json)
+
 ---
 
 ### Siyambalapitiya says supplementary estimates will not result in new allocations
@@ -187,6 +203,8 @@ Siyambalapitiya said the estimates only entail changes to subjects under which e
 ...
 
 [Data](articles/dd17c3af.json)
+
+[Extended Data](ext_articles/dd17c3af.ext.json)
 
 ---
 

@@ -1,36 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 11:35:00**
+As of **2024-06-14 11:54:17**
 
 ## Newspaper Stats
 
-*Scraped **30,345** Articles*
+*Scraped **30,354** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 277
+colombotelegraphcom | 278
 dbsjeyarajcom | 281
 bbccomsinhala | 297
 newsfirstlk | 363
 islandlk | 1,647
-economynextcom | 1,753
+economynextcom | 1,758
 dailyftlk | 1,846
 adalk | 2,615
-adaderanalk | 3,435
+adaderanalk | 3,436
 tamilmirrorlk | 3,550
 virakesarilk | 4,660
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,888
+adaderanasinhalalk | 4,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,344 (100.0%) of 30,345 articles have been extended.
+30,345 (100.0%) of 30,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### සංවර්ධන නිලධාරීන් ට දැනුම්දීමක්
+
+*2024-06-14 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197745) · `si`
+
+සංවර්ධන නිලධාරී සේවයේ I, II සහ 111 ශ්‍රේණි වල කඩඉම් විභාග පැවැත්වීමේ දිනය සම්බන්ධයෙන් ශ්‍රී ලංකා සංවර්ධන පරිපාලන ආයතනය නිවේදනයක් නිකුත්කර තිබේ.
+
+එහි දැක්වෙන්නේ අදාළ විභාග 2024 ජුනි මස 30 වනදා පැවැත්වෙන බවයි.
+
+විභාග ප්‍රවේශපත් අයදුම්කරුවන් සඳහා ඊමේල් ඔස්සේ යවා ඇති බවත් එසේ නොලැබුණු අපේක්ෂකයින් සිය ප්‍රවේශපත www.slida.lk වෙබ් අඩවියෙන් බාගත හැකි බවත් අදාළ නිවේදනයෙහි දැක්වෙයි.
+
+◼️
+
+[Data](articles/ff4179ea.json)
+
+---
+
+### Kenyan policeman shoots magistrate in court after ruling against wife
+
+*2024-06-14 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99871/kenyan-policeman-shoots-magistrate-in-court-after-ruling-against-wife) · `en`
+
+A senior Kenyan police officer has been shot dead after he opened fire at a magistrate in court in the capital, Nairobi.
+
+The chief inspector opened fire on Makadara Principal Magistrate Monica Kivuti shortly after she made a ruling in a case reportedly involving his wife.
+
+The officer is said to have been angered by the court’s decision to cancel her bail after she had absconded.
+
+The officer, identified as Samson Kipchirchir Kipruto, who is in charge of a police station in Londiani in western Kenya, then pulled out a gun and shot the magistrate, injuring her.
+
+Other officers in court responded immediately, with one of them shooting the offending policeman and killing him.
+
+In the process, three other officers were injured, a police report said.
+
+The magistrate and the injured officers are being treated in hospital.
+
+The judiciary said the magistrate had “cancelled the bond for an accused person who had jumped bond and had failed to offer satisfactory explanations for jumping bond”.
+
+...
+
+[Data](articles/d0d171ae.json)
+
+---
+
+### ඊලොන් මස්ක් ගේ වැටුප ගැන දැනගත්තොත් ඇඟ හිරිවැටෙයි
+
+*2024-06-14 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197744) · `si`
+
+ඊලොන් මස්ක් සඳහා වාර්තාගත වැටුපක් ගෙවීමට ගෙන ආ යෝජනාවට ටෙස්ලා සමාගමේ කොටස් හිමිකරුවන් එකඟතාවය ලබාදී තිබෙන බව වාර්තා වෙයි.
+
+තමාගේ වැටුප වැඩිකළ යුතු බවට මස්ක් මාස ගණනක සිට පවසමින් සිටි අතර එම යෝජනාව අනුමත වීම සම්බන්ධයෙන් ඔහු සිය සතුට ප්‍රකාශ කර තිබුණේ "Hot damn, I love you guys," යනුවෙන් පවසමිනි.
+
+ඔහු එසේ පවසා තිබුණේ ටෙස්ලා සමාගමේ මූලස්ථානය ලෙස සැලකෙන ටෙක්සාස් හි පැවති කොටස් හිමියන්ගේ වාර්ෂික සමුළුවට එක්වූ අවස්ථාවේදී ය.
+
+◼️
+
+[Data](articles/9fcd72b8.json)
+
+---
 
 ### Liquor schools that are closed for 16 days
 
@@ -114,6 +172,34 @@ Additionally, the entry of heavy vehicles traveling towards the Kohuwala Bridge 
 
 ---
 
+### Sri Lanka rupee trades weaker at 303.90/304.05 to US dollar
+
+*2024-06-14 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-weaker-at-303-90-304-05-to-us-dollar-167972/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.90/304.05 to the US dollar on Friday first hour trading, while bond yields were broadly stable, and stocks opened 0.21 percent down, dealers said.
+
+In equities, Colombo’s All Share Price Index fell 57.80 points during morning trade to 12,302 while the S&P SL20 of more liquid stocks was down 0.90 percent or 33.07 points to 3,637.
+
+In the secondary market, yields were broadly stable, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.10/25 percent, up from 10.00/30 percent.
+
+A bond maturing on 15.10.2027 was quoted at 10.60/70 percent down from 10.60/75 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.05/20 percent, up from 11.00/15 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.80/85 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.80/90 percent down from 11.85/12.05 percent.
+
+A bond maturing on 01.10.2032 was quoted at 11.97/12.03 percent from 11.95/12.15 percent.
+
+◼️
+
+[Data](articles/cd10b97e.json)
+
+---
+
 ### Man arrested for bribes
 
 *2024-06-14 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197742) · `si`
@@ -153,6 +239,28 @@ The President made these remarks during his keynote address at the inaugural ses
 [Data](articles/ae14de8c.json)
 
 [Extended Data](ext_articles/ae14de8c.ext.json)
+
+---
+
+### Sri Lanka to revise SDP Act with rules-based exemptions
+
+*2024-06-14 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-sdp-act-with-rules-based-exemptions-167974/) · `en`
+
+ECONOMYNEXT – Sri Lanka will bring changes to a Strategic Development Act to limit discretionary tax breaks, an International Monetary Fund report said.
+
+Giving tax breaks to some implies higher taxes on others, the report said. Sri Lanka’s current crisis stemmed in part from tax cuts made for macroeconomic policy.
+
+The SDP Act through its discretionary tax breaks have come under fire for being open to corruption.
+
+“The authorities committed to refrain from new tax exemptions, incentives, and from approving new projects under the SDP,” the report said.
+
+“They will submit amendments to the SDP Act introducing transparent, rules-based eligibility criteria for granting time-bound incentives to Parliament by end-February 2025.”
+
+Under the SDP Law not only is corporate tax exemptions given, but also value added and tax and in an unusual situation, senior management are exempt from taxes.
+
+...
+
+[Data](articles/b493d758.json)
 
 ---
 
@@ -365,6 +473,24 @@ The heavy vehicles traveling along the road has been temporarily stopped towards
 [Data](articles/6db44485.json)
 
 [Extended Data](ext_articles/6db44485.ext.json)
+
+---
+
+### Sri Lanka car import relaxation full plan by June 15: IMF report
+
+*2024-06-14 07:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-import-relaxation-full-plan-by-june-15-imf-report-167937/) · `en`
+
+ECONOMYNEXT – Sri Lanka will finalize a plan by June 15 to end vehicle import controls, starting with commercial vehicles and ending with all vehicles in 2025, according to an International Monetary Fund report.
+
+“The authorities have developed an initial roadmap to relax restrictions on the importation of motor vehicles by 2025, starting with public passenger and special purpose vehicles in 2024 Q3, followed by goods transport vehicles in Q4 2024 and the rest in 2025,” the IMF report said.
+
+“A detailed plan, including the implications on tax and reserve accumulations, will be finalized by June 15, 2024.”
+
+Sri Lanka will also remove several other exchange controls which have fallen foul of the International Monetary Fund and are designated as Multiple Currency Practices (MCP), and capital flow measures (CFMs), by end May 2024.
+
+...
+
+[Data](articles/a0bbcad2.json)
 
 ---
 
@@ -598,6 +724,22 @@ Addressing a public event, Jayatissa asserted that statements suggesting the pos
 
 ---
 
+### IMF says suspension of Sri Lanka parate execution should be ended ASAP
+
+*2024-06-14 06:26:00* · [`economynextcom`](https://economynext.com/imf-says-suspension-of-sri-lanka-parate-execution-should-be-ended-asap-167917/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has said a suspension on parate execution, or halting foreclosure decisions taken by banks in Sri Lanka on bad loans, should be ended as soon as possible.
+
+Sri Lanka bank non-performing loans went up as much as 13 percent, with a combined hit from a currency crisis which came on top of the Coronavirus pandemic triggering a slew of auctions of collateral of distressed businesses.
+
+“The suspension of banks’ repossession of collateral (“Parate” executions) 22 will hinder the banks’ ability to manage NPLs and price credit risks and should be lifted as soon as possible while encouraging a negotiated NPL solution to avoid excessive liquidation,” an IMF report released after the approval of the latest review of the IMF said.
+
+...
+
+[Data](articles/aabb3b14.json)
+
+---
+
 ### AKD arrives in London
 
 *2024-06-14 06:25:39* · [`dailyftlk`](https://www.ft.lk/news/AKD-arrives-in-London/56-763066) · `en`
@@ -635,6 +777,42 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/647731f1.json)
 
 [Extended Data](ext_articles/647731f1.ext.json)
+
+---
+
+### Sri Lanka to tax housing in IMF deal, VAT on digital services, services export exemption to go
+
+*2024-06-14 06:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-tax-housing-in-imf-deal-vat-on-digital-services-services-export-exemption-to-go-167914/) · `en`
+
+ECONOMYNEXT – Sri Lanka will impose tax on owner occupied houses, charge value added tax on digital services, and remove exemptions on services exports, under a revised deal agreed with the International Monetary Fund.
+
+The IMF in particular has been pushing a wealth tax claiming it was ‘critical’.
+
+A tax will be imposed on owner-occupied houses on an imputed rent calculation, according to a program agreed with the IMF and approved by its Board on June 12.
+
+The money will be given to Municipal Councils and Pradeshiya Sabhas,
+
+Concerns have been raised about wealth-style taxes which are imposed on assets without any cashflows to pay, in a country where existing and past measures have discouraged house building and costs are prohibitive and unaffordable in part due to currency depreciation.
+
+Valued added tax will be imposed on digital services, as part of a slew of new tax measures.
+
+...
+
+[Data](articles/6ebf6987.json)
+
+---
+
+### Critique On IMF’s Second Review Under Extended Fund Facility
+
+*2024-06-14 06:01:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/critique-on-imfs-second-review-under-extended-fund-facility/) · `en`
+
+The IMF issued a Press Release No. 24/214 on June 12th completing the Second Review under Extended Fund Facility for Sri Lanka.
+
+The Economy is a system. The way we understand any system might be different. We understand the economy as a system with having cause-and- effect relationship. In such a system as Buddhism preaches nothing will happen without necessary conditions. When we look at the IMF Second Review, economic vulnerabilities just arise not knowing proper causes. Take the very first paragraph of IMF report. It says as follows;
+
+...
+
+[Data](articles/674b59f9.json)
 
 ---
 
@@ -1486,21 +1664,27 @@ After investigating the Nuwara Eliya Magistrate Jayamini Ambakahawatta, the body
 
 ---
 
-### ගොයම කහවෙලා නම් මේ දේ කරන්න
+### If the harvest would do this
 
 *2024-06-13 20:16:51* · [`adalk`](https://www.ada.lk/breaking_news/ගොයම-කහවෙලා-නම්-මේ-දේ-කරන්න/11-410209) · `si`
 
-වී වගාව සඳහා ගොවීන් යුරියා පොහොර යොදා ඇතත් බණ්ඩි පොහොර යෙදීමට පියවර ‌ නොගැනීම ‌ හේතුවෙන් ඇතැම් ප්‍රදේශවල වී වගාවේ ගොයම් ගස් කහ පැහැති වී ඇතැයි කෘෂිකර්ම දෙපාර්තමේන්තුව ප්‍රකාශ කරයි.
+Despite using Urea fertilizer, some Paddy fields show yellowing due to improper application. The Agriculture Department notes this as nutrient deficiency, not a disease. It urges farmers to prioritize paddy cultivation with government-subsidized fertilizers to improve crop health.
 
-එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ ගොයම් කහ පැහැති වීම රෝග තත්ත්වයක් නොව ගොයම් ගසට අවශ්‍ය නිසි පෝෂණය නොලැබීම හේතුවෙන් සිදුවන ඌණ පෝෂණ තත්ත්වයක් වන බවයි.
+🟩
 
-ඒ අනුව රජය විසින් ලබා දෙන පොහොර සහනාධාර මුදල් යොදා ගනිමින් වී වගාව සඳහා බණ්ඩි පොහොර යෙදීමට ප්‍රමුඛත්වය ලබා  ලෙස කෘෂිකර්ම දෙපාර්තමේන්තුව ගොවි ජනතාවගෙන් වැඩිදුරටත් ඉල්ලා සිටී.
+Although the farmers are using Urea fertilizer, the farmers have used urea fertilizers, there are yellow in some parts of Paddy cultivation, as it is not used to apply the bundry.
 
-වී වගා කරන හෙක්ටයාර් එකක් සඳහා රුපියල් 15,000ක් බැගින් රජය විසින් සහනාධාර ලබා දෙන අතර මේ වනවිට රුපියල් මිලියන 4500කට ආසන්න මුදලක් ගොවි ගිණුම්වලට බැර කිරීමට ගොවි ජන සංවර්ධන දෙපාර්තමේන්තුව පියවර ගෙන ඇති බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ වාර්තා සඳහන් කරයි.
+The department points out that the stalk is not a condition, but a underput nutrition due to lack of proper nutrition for the stalk.
+
+Accordingly, the Department of Agriculture has further requested the farmer community to provide priority to paddy cultivation using fertilizer subsidy money provided by the government.
+
+The Government's Department has taken steps to cure Rs.
 
 ◼️
 
 [Data](articles/02c7846c.json)
+
+[Extended Data](ext_articles/02c7846c.ext.json)
 
 ---
 
@@ -2023,229 +2207,5 @@ The Ministry of Education has also called applications from the English Media Te
 [Data](articles/c37be274.json)
 
 [Extended Data](ext_articles/c37be274.ext.json)
-
----
-
-### Sri Lanka sells Rs295bn in 2027 to 2031 bonds
-
-*2024-06-13 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs295bn-in-2027-to-2031-bonds-167905/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 295 billion rupees in 2027, 2029 and 2031 bonds, data from the state debt office showed.
-
-The debt office sold an offered 60 billion rupees of 15 October 2027 at an average yield of 10.30 percent.
-
-All offered 125 billion rupees of 15 September 2029 bonds were sold at 11.00 percent.
-
-All 110 billion rupees offered of 01 December 2031 bonds were sold at 12.00 percent. (Colombo/May13/2024)
-
-◼️
-
-[Data](articles/5c47d4da.json)
-
-[Extended Data](ext_articles/5c47d4da.ext.json)
-
----
-
-### Another train strike is nearing
-
-*2024-06-13 18:17:34* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-දුම්රිය-වර්ජනයක්-අත-ළඟයි/11-410200) · `si`
-
-A looming train strike is set unless the Railway Department addresses professional concerns raised by the Station Masters' Association and the Station OICs Association. A resolution is awaited by 2 pm tomorrow.
-
-🟩
-
-The Station Masters' Association says that if there is no solution to the Sampath demanded by the Railway Department for more professional issues, the Station OICs Association says.
-
-Accordingly, a positive answer for their professional issues is expected to be anticipated at 2 pm tomorrow.
-
-◼️
-
-[Data](articles/e080cd36.json)
-
-[Extended Data](ext_articles/e080cd36.ext.json)
-
----
-
-### Sri Lanka coastal plantation of pomegranates yields bumper crop
-
-*2024-06-13 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-coastal-plantation-of-pomegranates-yields-bumper-crop-167898/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s first harvest from a pilot project to cultivate pomegranate in Chenkaladi, in the eastern coastal city of Batticaloa, has been successful, the Ministry of Agriculture and Plantation Industries has said.
-
-“The sea breeze is favorable for pomegranate cultivation in Batticaloa,” the Ministry’s Agriculture Sector Modernization Project (ASMP) said in a statement.
-
-The variety grown in this region is the drought-tolerant Bhagawa pomegranate.
-
-Sri Lanka has been promoting export crops after a foreign exchange crisis.
-
-Sri Lanka to produce pomegranates to ‘save forex’ amid inflationism
-
-Sri Lanka imports pomegranates from India at present. The fruit is considered to have medicinal properties.
-
-The tropical island nation hopes to meet domestic demand with the successful cultivations of several types of the fruit, including Mali Pink, Lanka Red.
-
-The pomegranate harvest in Chenkaladi has earned farmers revenues of up to 3.5 million rupees, the department said.
-
-◼️
-
-[Data](articles/f36e4f8f.json)
-
-[Extended Data](ext_articles/f36e4f8f.ext.json)
-
----
-
-### 2632 million rupees in the last 4 years with decorative fish exports - Minister Douglas
-
-*2024-06-13 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186019) · `ta`
-
-Over the past four years, Sri Lanka has earned 2632 million rupees from decorative fish exports, thanks to initiatives by the Ministry of Fisheries. These include providing mother fish, organizing training and trade exhibitions, distributing fish feed, promoting ornamental fish farming among students through associations, and preventing the importation of harmful fish.
-
-🟩
-
-2632 million rupees in the last four years by decorative fish exports (8.52 mills. Fisheries Minister Douglas Devananda said the country had earned income.
-
-Various programs are being implemented by the Ministry of Fisheries to develop the decorative fishing sector.
-
-Mother fish are provided by the Sri Lanka Hydro Development Authority to those involved in decorative fisheries.
-
-Training and trade exhibitions have been arranged and they have a market opportunity. Is provided with modern technical knowledge. Fish food is distributed.
-
-Ornamental fishing associations have been formed to promote ornamental fish farming among students.
-
-Steps have been taken to prevent the importation of hazardous fish. As well as district ornamental fisheries associations have been formed. The Minister said so.
-
-◼️
-
-[Data](articles/86402765.json)
-
-[Extended Data](ext_articles/86402765.ext.json)
-
----
-
-### We will engage in trade union action at 2 pm tomorrow - Railway Station Chancellor Association
-
-*2024-06-13 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186016) · `ta`
-
-Trade union action is scheduled for 2 pm tomorrow at the Railway Station Chancellor Association due to unresolved demands and perceived injustices. The association, led by Chairman Somatha Somatna, has communicated with the Ministry of Transport about the lack of negotiation regarding the needs of various railway sectors, including drivers and computer management. Despite efforts to address these issues since 2012, progress has been minimal, affecting both workers and passengers.
-
-🟩
-
-We have observed that the demands of the unions who are engaged in the workplace are being met with no negotiations.
-
-The Chairman of the Railway Station Principal Association, Somatha Somatna, has informed the Ministry of Transport to the Ministry of Transport.
-
-The Railway Principal Division is deliberately ignored in sections including the Railway Station, Railway Regulation, Railway Drivers and Computer Management.
-
-Railway principals have been given massive injustice to other sections of the Cabinet for more than five years.
-
-To address this injustice, we instructed all parties in writing on 01.01.2012 to take steps to recruit the railway principals once a year.
-
-In this regard, there were repeated talks with the top officials of the Department, including the General Manager of the Railway Department, the Minister of Transport and the Secretary of the Ministry.
-
-...
-
-[Data](articles/22370a5f.json)
-
-[Extended Data](ext_articles/22370a5f.ext.json)
-
----
-
-### Postal trade unions in Mannar
-
-*2024-06-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186024) · `ta`
-
-Mannar postal workers initiated a sick leave protest on 13th, supporting national postal union efforts. They demanded filling over 5,000 vacant positions in the postal sector. However, other services remained operational as management didn't back the strike.
-
-🟩
-
-The Mannar postal workers on Thursday (13) have launched a sick holiday struggle in support of the union's union struggle nationwide under the organized postal trade union front.
-
-The struggle was carried out today with various demands, including failure to fill more than 5 thousand vacancies in the postal sector.
-
-It is noteworthy that the other post office services were held at the Mannar District Postal Department as the postal principals did not support the struggle.
-
-◼️
-
-[Data](articles/61e6f17a.json)
-
-[Extended Data](ext_articles/61e6f17a.ext.json)
-
----
-
-### Carnival of Sri Lankans in Japan on June 15 and 16
-
-*2024-06-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197723) · `si`
-
-The "Sri Lanka Festival" in Japan, a major event held annually since 2018, brings together the country's Sri Lankan community for two days of celebration. This year, it will take place on June 15 and 16 at Tokyo Yoyogi Park, offering attendees a chance to experience traditional Sri Lankan dance, music, and cuisine. The event is organized by several associations including the Japan Institute of Vehicle Imports, the Sri Lanka Association, and others. With around 400,000 Sri Lankans residing in Japan, the festival serves as a vibrant showcase of Sri Lankan culture in Japan.
-
-🟩
-
-Japan's annual "Sri Lanka Cascase" has been held for four years in Japan.
-
-The Sri Lanka Business Union of Japan says Sri Lanka Festival Festival, "Sri Lanka Festival ', or Sri Lanka Festival, is one of the major crowds in Japan once a year ago.
-
-Accordingly, this series of celebrations will be held from 19th and 16th to 7.00 pm to Tokyo Yoyogi Park.
-
-The opportunity to taste traditional Sri Lankan dance, music, various Sri Lankan food and drinks.
-
-The Japan Institute of Vehicle Imports, Association, Sri Lanka Association, Sri Lanka Association, Sri Lanka and Sri Lanka Ltd.
-
-There are now reports that there are nearly 400,000 Sri Lankans living in Japan today.
-
-◼️
-
-[Data](articles/0ca856cc.json)
-
-[Extended Data](ext_articles/0ca856cc.ext.json)
-
----
-
-### Douglas reports to relatives to bring in the country in Tamil Nadu
-
-*2024-06-13 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186022) · `ta`
-
-Due to climate and machinery issues, Tamil Nadu's Analytivu fishermen are being brought to Sri Lanka under the initiative of Fisheries Minister Douglas Devananda. This move comes after the fishermen faced tensions from naval searches.
-
-🟩
-
-Minister of Fisheries Douglas Devananda said that steps are being taken to bring the Analytivu fishermen to Sri Lanka in Tamil Nadu due to climate disorder and mechanical disorder.
-
-The two had gone to the fishing industry on Monday, June 10, June 10, and had been tense due to the fact that the two were searched by the Navy and fishermen.
-
-In this backdrop, the two men have been asked to meet Minister Douglas Devananda on Thursday (13) and have taken action to take action to bring the two to Sri Lanka.
-
-◼️
-
-[Data](articles/e5bb046f.json)
-
-[Extended Data](ext_articles/e5bb046f.ext.json)
-
----
-
-### Sri Lanka's financial activities with the IMF - the International Monetary Fund
-
-*2024-06-13 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186023) · `ta`
-
-The International Monetary Fund (IMF) has approved the third tranche of $336 million for Sri Lanka under its 48-month extended arrangement, bringing the total IMF support to $1 billion. This move follows Sri Lanka's successful restructuring efforts aimed at stabilizing its economy, including improvements in tax revenue recovery and steps towards economic recovery. Despite progress, challenges remain, particularly in debt restructuring, revenue collection, and maintaining fiscal discipline. The IMF emphasizes the need for continued reform efforts, including governance reforms, to achieve sustainable growth and restore financial stability.
-
-🟩
-
-The International Monetary Fund, which is held on Wednesday (11), has approved the release of the third installment of Sri Lanka in accordance with the International Monetary Fund's extended project.
-
-Sri Lanka will be available to $ 336 million as the third installment of the extended project. The International Monetary Fund has awarded $ 1 billion to Sri Lanka, according to the 48 -month project.
-
-Sri Lanka's foreign reserves have been stabilized in April 2024, with Sri Lanka's GDP in mid -2013.
-
-The International Monetary Fund meeting has been evaluated at the meeting of the International Monetary Fund, which is commendable that Sri Lanka's restructuring has been successful for the recovery of tax revenues.
-
-Kenji Ogamura, Deputy Managing Director of the International Monetary Fund, said Sri Lanka's financial activity with the IMF has been strengthened.
-
-The country has improved on the basic aspects of economic recovery.
-
-...
-
-[Data](articles/9547e055.json)
-
-[Extended Data](ext_articles/9547e055.ext.json)
 
 ---

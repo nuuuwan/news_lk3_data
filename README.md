@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 09:04:52**
+As of **2024-06-14 09:19:12**
 
 ## Newspaper Stats
 
-*Scraped **30,328** Articles*
+*Scraped **30,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
-adalk | 2,612
+adalk | 2,613
 adaderanalk | 3,431
 tamilmirrorlk | 3,546
-virakesarilk | 4,659
+virakesarilk | 4,660
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,884
 
@@ -26,31 +26,55 @@ adaderanasinhalalk | 4,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,327 (100.0%) of 30,328 articles have been extended.
+30,328 (100.0%) of 30,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### ජනමත විචාරණයක් ගැන රහස් සාකච්ඡා
+### கொஹுவலை சந்தி வழியாக பயணிக்கும் வாகன சாரதிகளுக்கான அறிவிப்பு!
+
+*2024-06-14 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186040) · `ta`
+
+கொஹுவலை சந்தியில் மேம்பாலம் நிர்மாணிக்கப்படவுள்ளதால் நாளை  சனிக்கிழமை (15) முதல் அப்பகுதியூடான போக்குவரத்து மட்டுப்படுத்தப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த நிர்மாணப் பணிகள் 02 மாத காலத்திற்கு மேற்கொள்ளப்படவுள்ளதால், அக்காலப்பகுதியில் போக்குவரத்து நெரிசலைக் குறைப்பதற்கு மாற்று வழிகளைப் பயன்படுத்துமாறு பொலிஸார் பொதுமக்களுக்கு  தெரிவித்துள்ளனர்.
+
+மேலும், கொஹுவலை மேம்பாலத்தை நோக்கி பயணிக்கும் கனரக வாகனங்கள் அப்பகுதியூடாக பயணப்பது தற்காலிகமாக நிறுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/aa03ecd0.json)
+
+---
+
+### Secret talks on a referendum
 
 *2024-06-14 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197739) · `si`
 
-මැතිවරණ සම්බන්ධයෙන් ජනමත විචාරණයක් පැවැත්වීමට ඇති හැකියාව පිළිබඳව සාකච්ඡා වට කිහිපයක් පසුගිය දිනවල පවත්වා ඇති බව දේශපාලන ආරංචි මාර්ග පවසයි.
+Discussions are underway about holding a referendum on extending the election period, possibly influenced by legal advice and the Supreme Court's stance. The government plans to conduct this in July, but potential court interventions could affect its timing and legality.
 
-මින් එක සාකච්ඡාවක් බත්තරමුල්ල ප්‍රදේශයේ පිහිටි ප්‍රසිද්ධ හෝටලයක අවස්ථා දෙකක දී පවත්වා ඇති බව වාර්තා වෙයි.
+🟩
 
-හිටපු ජනාධිපති ජේ. ආර් ජයවර්ධන මහතා පාර්ලිමේන්තුවේ කාලය දීර්ඝ කරගැනීම සඳහා ජනමත විචාරණයක් පැවැත්වු ආකාරයට වත්මන් ආණ්ඩුවටත් කටයුතු කළ හැකිද යන්න සම්බන්ධයෙන් එම සාකච්ඡාවේ දී නීති විශාරදයින්ගෙන් විමසා තිබේ.
+Political sources say that several rounds of discussions have held several rounds of the possibility of a referendum on election detection.
 
-කෙසේවෙතත් මෙම කටයුතු සඳහා අධිකරණ බාධා පවතින්නේ නම් ඊට ගත යුතු විකල්ප සම්බන්ධයෙන් ද සාකච්ඡා කර ඇති බව සදහන් ය.
+One meeting is reported at two cases of a famous hotel in Battaramulla.
 
-නීති විශාරදයින්ගේ මතය වී ඇත්තේ ජනමත විචාරණයක් පැවැත්වීම සඳහා අවස්ථා දෙකක් හිමිවන අතර ජනාධිපතිවරයා රටේ යම් ජාතික වශයෙන් වැදගත් ප්‍රශ්ණයක් යොමුකර ජනමතයක් විමසිය හැකි බවය.
+Former President J. At the discussion, the present government has asked the present government as a referendum to extend the time of R Jayawardene.
 
-එමෙන්ම පාර්ලිමේන්තුවේ පණතක් හරහා තුනෙන් දෙකක බහුතරයකින් සම්මත වූ බව ශ්‍රේෂ්ඨාධිකරණය විසින් පිළිගතහොත් ජනමත විචාරණයකට ගමන් කළ හැකි බව නීති විශාරදයින්ගේ මතය වී තිබේ.
+However, it is said that if there is any court interruptions for this purpose, it is also discussed.
 
-...
+Legal scholars have been found in two occasions to hold a referendum and the President can take a national statement in the country and consult a national interest.
+
+The Supreme Court's view is that if the Supreme Court accepts a bill of parliamentary bill, law scholars have come to a referendum.
+
+However, there is a plan of government to hold a referendum in the coming July, "political sources further said."
+
+◼️
 
 [Data](articles/52be65ca.json)
+
+[Extended Data](ext_articles/52be65ca.ext.json)
 
 ---
 
@@ -1202,6 +1226,22 @@ The Netherlands scored the toss and win the bowling first.
 
 ---
 
+### මුද්‍රණ දෙපාර්තමේන්තුව චක්‍රලේඛ උල්ලංගණය කරයි
+
+*2024-06-13 20:02:26* · [`adalk`](https://www.ada.lk/breaking_news/මුද්‍රණ-දෙපාර්තමේන්තුව-චක්‍රලේඛ-උල්ලංගණය-කරයි/11-410207) · `si`
+
+රජයේ මුද්‍රණ දෙපාර්තමේන්තුව විසින් අය වැය චක්‍රලේඛ විධිවිධාන උල්ලංඝනය කරමින්  සමස්ත අතිකාල දීමනා හා වෙනත් දීමනා 2023 ජනවාරි මාසයේ සිට අනුමත ප්‍රතිපාදන ඉක්මවා 60.39% ක්  වැඩියෙන්  වියදම් කොට ඇති බව  ජුනි මස 10 වැනි දා  නිකුත් කර ඇති විගණන වාර්තාවක සඳහන් වේ.
+
+දෙපාර්තමේන්තුවේ සේවකයන් සඳහා  2023 වර්ෂයේ සහ 2024 මාසයේ ජනවාරි හා පෙබරවාරි  මාස 02ද ඇතුළුව අතිකාල හා වෙනත් දීමනා ලෙස  රුපියල් එකසිය පනස් නව කෝටි දස ලක්ෂ හැත්තෑ හය දහස් අටසීය අනූ පහක කොටසක් (1,591,076,895) මුදලක් 2024 වර්ෂයේ ගෙවා තිබුණි.
+
+2024 වර්ෂයේ ජනවාරි හා පෙබරාවරි මාස 02 තුළ අතිකාල හා වෙනත් දීමනා ලෙස රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ සේවකයන්ට රුපියල් දහතුන් කෝටි තිස් හය ලක්ෂ දාසය දහස් නවසීය අසූ හතක මුදලක් (133,616,897) ගෙවා ඇති බව ද එම විගණන වාර්තාවේ සඳහන් වේ. 2023 වර්ෂයේ ජනවාරි මස සිට දෙසැම්බර් 31 වන දා දක්වා අතිකාල හා වෙනත් දීමනා ලෙස  අයවැය  මගින් රුපියල් අනූ නව කෝටි විසි ලක්ෂයක (992,000,000) ප්‍රතිපාදන අනුමත කොට තිබුණි.
+
+...
+
+[Data](articles/c740d8c4.json)
+
+---
+
 ### Request of the Governors of the President
 
 *2024-06-13 19:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආණ්ඩුකාරවරුන්ගෙන්-කළ-ඉල්ලීම/11-410206) · `si`
@@ -2211,59 +2251,5 @@ Adding to their woes, Sri Lanka’s match against Nepal on Wednesday was complet
 [Data](articles/488f66e7.json)
 
 [Extended Data](ext_articles/488f66e7.ext.json)
-
----
-
-### Foreign employment racket is found
-
-*2024-06-13 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197719) · `si`
-
-Nilmini, suspected of violating foreign employment laws, was arrested by the Special Investigation Division. She faces charges related to unauthorized recruitment for Israeli jobs. The Sri Lanka Bureau of Foreign Employment warns against unlicensed agencies and advises checking slbfe.lk for legitimate recruiters.
-
-🟩
-
-Nilmini has been arrested by the Special Investigation Division of the Foreign Employment Bureau.
-
-The suspect was a complaint lodged by the Bureau that a woman residing in the Goththegama, Kataragama, has been arrested yesterday (12).
-
-It was under the allegations of violating the relevant woman to the Bureau.
-
-The suspect is to be produced before the Horana Magistrate's Court today (13).
-
-Israeli jobs are available only through the intervention of the Sri Lanka Bureau of Memorandum of MoUs.
-
-Accordingly, the Bureau of the Bureau will inform the Bureau of the Bureau about people who cannot intervene in the area and provide employment and provide employment.
-
-Before grant a foreign job or a person, a person or a person has a valid license to recruit a person or passport should be verified to recruit foreign employment.
-
-Although a valid job agency is a valid job agency, the Bureau has further requested the Bureau's foreign employment to obtain information on the website www.slbfe.lk.
-
-◼️
-
-[Data](articles/89ac8831.json)
-
-[Extended Data](ext_articles/89ac8831.ext.json)
-
----
-
-### The National Program to revive the Samurdhi movement, which has suffered a setback with political interventions and various needs
-
-*2024-06-13 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185992) · `ta`
-
-The government aims to revitalize the Samurdhi Movement, a key initiative to combat poverty in Sri Lanka, after setbacks due to political interference and various demands. The "New Village - New Country" project, part of a broader national effort, focuses on strategic district-level activities to identify and address issues hindering its success. Two phases of the project, funded by the Asian Development Bank, World Bank, and Japanese Social Development Fund, target specific areas across 13 districts, expecting to benefit over 16,000 families. The initiative emphasizes the importance of the Samurdhi Movement in eradicating poverty through comprehensive social welfare programs.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga said that the government has decided to revive the Samurdhi Movement, which has suffered a setback due to political interventions and various demands.
-
-He emphasized that the National Program for the revival of Samurdhi Movement has already been launched.
-
-Minister Prasanna Ranatunga said this while participating in a discussion with Samurdhi Bank's Headquarters and Social Bank Managers, Samurdhi Trade Union Representatives and Samurdhi Officers. The discussion was held at the Gampaha District Secretariat Auditorium.
-
-...
-
-[Data](articles/00635c32.json)
-
-[Extended Data](ext_articles/00635c32.ext.json)
 
 ---

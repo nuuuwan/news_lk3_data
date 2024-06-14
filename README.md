@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 09:53:49**
+As of **2024-06-14 10:05:45**
 
 ## Newspaper Stats
 
-*Scraped **30,333** Articles*
+*Scraped **30,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 1,753
 dailyftlk | 1,846
 adalk | 2,613
 adaderanalk | 3,433
-tamilmirrorlk | 3,547
+tamilmirrorlk | 3,548
 virakesarilk | 4,660
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,884
+adaderanasinhalalk | 4,886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,333 (100.0%) of 30,333 articles have been extended.
+30,333 (100.0%) of 30,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### නාඳුනන පුද්ගල මළසිරුරක් හමුවෙයි
+
+*2024-06-14 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197741) · `si`
+
+කළුතර උතුර පොලිස් වසමේ කුඩා වස්කඩුව වෙරළ තීරයේ ගොඩගසා තිබූ පිරිමි පුද්ගලයෙකුගේ මළසිරුරක් හමුවී තිබේ.
+
+පොලීසිය සඳහන් කළේ පොලිස් හදිසි ඇමතුම් 119 ට ලද තොරතුරක් අනුව ඊයේ (13) උදෑසන මෙම මළසිරුර සොයාගත් බවය.
+
+මියගිය පුද්ගලයා උස අඩි 05යි අඟල් 02ක් පමණ වන සිහින් සිරුරකින් යුත් තළෙළු පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+කොණ්ඩය අඟල් 04ක් පමණ වැවී ඇති බවත් උඩුකයට දුඔුරු පැහැති කමිසයක් (ටී-ෂර්ට්) හැඳ සිටි බවත් සඳහන් කරයි.
+
+මේ වනවිට මළසිරුර නාගොඩ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මියගොස් ඇති පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් හෙළිවී නොමැත.
+
+◼️
+
+[Data](articles/6e1e3301.json)
+
+---
+
+### தீவிர விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன
+
+*2024-06-14 09:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தீவிர-விசாரணைகள்-ஆரம்பிக்கப்பட்டுள்ளன/71-338894) · `ta`
+
+யாழ்ப்பாணம் - அச்சுவேலியில் ஊடகவியலாளரின் வீட்டின் மீது இனந்தெரியாத நபர்கள் தாக்குதல் நடத்திய சம்பவம் தொடர்பாக வடமாகாண ஆளுநரின் பணிப்பின் பிரகாரம் வடக்கு மாகாண சிரேஷ்ட பொலிஸ்மா அதிபரின் கீழ் இயங்குகின்ற நான்கு பொலிஸ் குழுக்கள்  அமைக்கப்பட்டு குற்றவாளிகளை கைது செய்யும் நடவடிக்கை முடுக்கி விடப்பட்டுள்ளது.
+
+அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது நேற்று (13) அதிகாலை 12.15 மணியளவில் இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஐந்து பேர் கொண்ட வன்முறைக்கும்பல் தாக்குதல் நடத்தியது.
+
+இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+
+"திருநங்கைளை தவறாக சித்தரிக்காதே" என அச்சடிக்கப்பட்ட துண்டுப்பிரசுரங்கள் தாக்குதல் நடத்தப்பட்டுள்ள வீட்டில் போடப்பட்டிருந்தது.
+
+...
+
+[Data](articles/daaf5417.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ඡන්දෙ ගැන IMF ස්ථාවරය
+
+*2024-06-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197740) · `si`
+
+ශ්‍රී ලංකාවේ මැතිවරණ පැවැත්වීම සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදලට ගැටලුවක් නොමැති බව එහි ශ්‍රී ලංකාව සම්බන්ධයෙන් දූත කණ්ඩායමේ ජ්‍යෙෂ්ඨ ප්‍රධානී පීටර් බෘෘවර් මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ඕනෑම රටක ප්‍රජාතන්ත්‍රවාදයට ජාත්‍යන්තර මූල්‍ය අරමුදල ගරු කරන බවය.
+
+ශ්‍රී ලංකාවේ මැතිවරණයක් පැවැත්වෙන්නේ නම් IMF වැඩසටහනේ කාලය කෙරෙහි එය බලපාන බවත් අදාළ බලධාරීන් සමග සාකච්ඡා කර නැවත කාලරාමුවක් සකස් කරගැනීම සිදුවෙන බවද ඔහු තවදුරටත් පැවසීය.
+
+ශ්‍රී ලංකාව සඳහා වූ විස්තීර්ණ ණය පහසුකමේ දෙවැනි ඇගයීම සහ 'ආටිකල් iv' උපදේශනයට අදාළව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව පිළිබඳ නියෝජිත කණ්ඩායම අද (14) පැවැත්වූ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවේදී ඔහු මේ බව පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත කණ්ඩායමේ ජ්‍යෙෂ්ඨ ප්‍රධානී පීටර් බෘෘවර් මහතාගේ ප්‍රධානත්වයෙන් එම ප්‍රවෘත්ති සාකච්ඡාව පැවැත්වුණි.
+
+◼️
+
+[Data](articles/1d633547.json)
+
+---
 
 ### Ex-diplomat slams govt’s handling of external debt restructuring process
 
@@ -2179,79 +2237,5 @@ Accordingly, the applicants must go to the University Grants Commission's offici
 [Data](articles/26dd6dc6.json)
 
 [Extended Data](ext_articles/26dd6dc6.ext.json)
-
----
-
-### Ranil's Program is the International Monetary Fund's Credit Assistance: United National Party
-
-*2024-06-13 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186000) · `ta`
-
-Ranil Wickremesinghe, former UNP parliamentarian, is praised for leading Sri Lanka's economic recovery, receiving $336 million from the IMF for its development programs. His leadership is crucial for maintaining financial stability and ensuring continued IMF support. The country's GDP growth and inflation reduction are highlighted as successes under his governance.
-
-🟩
-
-The third phase of the International Monetary Fund has been granted permission for financial assistance by the country's economic development programs.
-
-Former United National Party (UNP) parliamentarian Ashu Marasinghe said that Ranil Wickremesinghe is the only leader who can continue this situation.
-
-He said this while attending a press conference held at the UNP headquarters in Sirikotha on Thursday (13).
-
-The third phase of the International Monetary Fund has been granted $ 336 million financial aid permit to build the country's funds.
-
-The government has properly reached its goal for the country's economic development program on the conditions of the Monetary Fund.
-
-Similarly, the country's gross production has increased according to the conditions of the Monetary Fund. Inflation has declined. The country is in good news, the Monetary Fund said in a statement.
-
-...
-
-[Data](articles/f4b95a19.json)
-
-[Extended Data](ext_articles/f4b95a19.ext.json)
-
----
-
-### High Commissioner for Indian Finance Minister and High Commissioner meets
-
-*2024-06-13 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197721) · `si`
-
-In New Delhi, the Sri Lankan High Commissioner met with India's Finance Minister, signaling Sri Lanka's commitment to strengthening ties and cooperation between the two countries.
-
-🟩
-
-The Sri Lankan High Commissioner in India and Indian Finance Minister has taken place in New Delhi.
-
-The High Commissioner of Sri Lanka has joined her to become the Finance Minister of India once again.
-
-It is reported that Sri Lanka is committed to enhance the friendship and cooperation between Sri Lanka and India.
-
-◼️
-
-[Data](articles/ee7a3dba.json)
-
-[Extended Data](ext_articles/ee7a3dba.ext.json)
-
----
-
-### Sri Lankan envoy calls on Indian Finance Minister Sitharaman
-
-*2024-06-13 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99860/sri-lankan-envoy-calls-on-indian-finance-minister-sitharaman) · `en`
-
-Sri Lanka High Commissioner to India Kshenuka Senewiratne called on Indian Finance Minister Nirmala Sitharaman on Wednesday (12) in New Delhi.
-
-Upon meeting Sitharaman, the Sri Lanka High Commissioner also extended felicitations on her reappointment as India’s Finance Minister.
-
-“Sri Lanka High Commissioner Kshenuka Senewiratne together w/DHC Priyanga Wickramasinghe called on Hon @nsitharamanoffc today to extend felicitations on her reappointment as India’s Finance Minister,” the High Commission of Sri Lanka in New Delhi wrote in a post on X.
-
-“SriLanka looks fwd to enhancing the enduring friendship & cooperation b/w &” the post read.
-
-In a second stint, Nirmala Sitharaman on Wednesday morning formally assumed charge as Union Minister of Finance and Corporate Affairs.
-
-Sitharaman was greeted at the office in North Block by Finance Secretary TV Somanathan and other Secretaries of the Ministry of Finance and Corporate Affairs.
-
-...
-
-[Data](articles/5708b317.json)
-
-[Extended Data](ext_articles/5708b317.ext.json)
 
 ---

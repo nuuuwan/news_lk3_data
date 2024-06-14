@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 07:01:38**
+As of **2024-06-14 07:23:41**
 
 ## Newspaper Stats
 
-*Scraped **30,306** Articles*
+*Scraped **30,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 295
 newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
-dailyftlk | 1,833
+dailyftlk | 1,846
 adalk | 2,611
 adaderanalk | 3,431
 tamilmirrorlk | 3,543
@@ -26,29 +26,255 @@ adaderanasinhalalk | 4,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,302 (100.0%) of 30,306 articles have been extended.
+30,306 (100.0%) of 30,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### අදත් තද වැසි
+### Retired police officers criticise Ravi and Shani’s support for JVP-led NPP
+
+*2024-06-14 06:58:47* · [`dailyftlk`](https://www.ft.lk/news/Retired-police-officers-criticise-Ravi-and-Shani-s-support-for-JVP-led-NPP/56-763077) · `en`
+
+Former Directors of the Criminal Investigation Department (CID), Retired SSP Shani Abeysekera and Retired Senior DIG Ravi Seneviratne were seen joining a National People’s Power (NPP) forum organised for retired Police Officers in Maharagama
+
+Former IGP Chandra Fernando claims officers both past and present have express dissatisfaction over Senior DIG Ravi Seneviratne and SSP Shani Abeysekara endorsing JVP led NPP
+
+Highlights JVP’s history of violence and instability, questioning why former law enforcement officials would support such a group
+
+Accuses officers who once fought against JVP led insurgency of now allegedly advocating violence
+
+Fernando and others express disbelief over former colleagues aligning with JVP without considering national interests and public safety
+
+...
+
+[Data](articles/229cc0e1.json)
+
+---
+
+### President requests Governors to expedite delivery of benefits welfare programs to people
+
+*2024-06-14 06:57:35* · [`dailyftlk`](https://www.ft.lk/news/President-requests-Governors-to-expedite-delivery-of-benefits-welfare-programs-to-people/56-763076) · `en`
+
+President Ranil Wickremesinghe has emphasised that all Governors should actively ensure the efficient implementation of the Government’s welfare programs and promptly deliver their benefits to the people.
+
+The President made these remarks during a discussion held with the Provincial Governors at the Presidential Secretariat on Wednesday.
+
+The meeting also included an extensive discussion on addressing the shortage of teachers at the provincial level and improving the efficiency of the ‘Urumaya’ -freehold land distribution program.
+
+The President highlighted the potential for improving the efficiency of the ‘Urumaya’- freehold land deeds program by implementing mobile services and delegating authority to an additional group beyond the Grama Niladhari level.
+
+President Ranil Wickremesinghe also reminded divisional secretaries of their responsibility to engage the public and ensure they receive the benefits of this program.
+
+...
+
+[Data](articles/ff49352f.json)
+
+---
+
+### Splendour of global gems at Ratnapura Expo 2024
+
+*2024-06-14 06:56:04* · [`dailyftlk`](https://www.ft.lk/business/Splendour-of-global-gems-at-Ratnapura-Expo-2024/34-763075) · `en`
+
+From left: Lanka Gem Dealers and Ratnapura Minors Association Chairman U.G. Chandrasena, National Gem and Jewellery Authority Chairman and CEO Viraj De Silva, State Minister of Primary Industries Chamara Sampath Dassanayake, Industries Minister Dr. Ramesh Pathirana, Industries Ministry Secretary Shantha Weerasinghe and National Gem and Jewellery Authority Director General Janaka Udaya Kumara at the launch of the International Gem and Jewellery Exhibition Sri Lanka 2024 in Colombo
+
+From 29 June to 1 July, the prestigious Grand Silver Ray Hotel in Pelmadulla will host the Ratnapura International Gem and Jewellery Exhibition for the first time.
+
+This event, organised by the National Gem and Jewellery Authority (NGJA), aims to spotlight Ratnapura’s rich gem heritage and foster new economic opportunities.
+
+...
+
+[Data](articles/6d1b9c76.json)
+
+---
+
+### Mireka Tower and Havelock City Mall earn prestigious LEED Gold Certification
+
+*2024-06-14 06:54:47* · [`dailyftlk`](https://www.ft.lk/business/Mireka-Tower-and-Havelock-City-Mall-earn-prestigious-LEED-Gold-Certification/34-763074) · `en`
+
+The US Green Building Council recently conferred the LEED Gold Certification for Mireka Tower and Havelock City Mall reflecting its commitment to energy efficiency and occupant well-being.
+
+The achievement of the Gold certification under the LEED 2009 Core and Shell Development rating system identifies Mireka Tower and Havelock City Mall as a showcase example of sustainability and demonstrates the group’s leadership in transforming the building industry in Sri Lanka.
+
+From its inception, this project has incorporated green features and design optimisation, ensuring that both its construction and operations adhere to the highest standards of environmental stewardship.
+
+Mireka Tower, towering at 50 stories, stands as a beacon of sustainable architectural excellence in Colombo’s skyline.
+
+...
+
+[Data](articles/4c3a4cdc.json)
+
+---
+
+### Chinese delegation from Pudong visits BOI
+
+*2024-06-14 06:53:34* · [`dailyftlk`](https://www.ft.lk/business/Chinese-delegation-from-Pudong-visits-BOI/34-763073) · `en`
+
+A top level delegation from Pudong, China visited the Board of Investment (BOI) on Monday to explore opportunities for investment in several sectors. The team met with BOI Chairman Dinesh Weerakkody and senior officials including those from Colombo Port City. The delegation included CPC Shanghai Pudong New Area Committee Deputy Secretary Shan Shaojun, Shanghai Pudong New Area Commission of Commerce Deputy Director  Zhang Hao, Shanghai Pudong New Area Finance Bureau Deputy Director Liu Zhiguo , Laogang Township of Shanghai Pudong New Area Party Secretary  Shen Qifeng, Shanghai Pudong New Area Commission of Commerce Level-2 Research Consultant Wang Xiaofan and Shanghai Pudong International Exchange Centre Director Ge Hongmei.
+
+◼️
+
+[Data](articles/4b2ba154.json)
+
+---
+
+### PickMe expands reach to Jaffna and Anuradhapura
+
+*2024-06-14 06:52:44* · [`dailyftlk`](https://www.ft.lk/business/PickMe-expands-reach-to-Jaffna-and-Anuradhapura/34-763072) · `en`
+
+App based mobility company Pick Me opened their new branch offices in Jaffna and Anuradhapura last week, six months after they launched a pilot program to extend ride hailing services to the Northern provinces.
+
+PickMe COO Isira Perera says their services have been received favourably by the newly added districts to the platform. “Already over 6,000 new drivers from Jaffna and Anuradhapura have registered with us in the last six months, unlocking more economic opportunities for the provinces. This is another step by PickMe to make Sri Lanka more connected to digital mobility solutions. While local commuters are our primary target group, we are also reaching out to the tourism market which is key to our operations.”
+
+...
+
+[Data](articles/a8898520.json)
+
+---
+
+### Prime Group relocates Galle branch to elevate customer experience and reinforce commitment to excellence
+
+*2024-06-14 06:50:31* · [`dailyftlk`](https://www.ft.lk/business/Prime-Group-relocates-Galle-branch-to-elevate-customer-experience-and-reinforce-commitment-to-excellence/34-763071) · `en`
+
+Prime Group has announced the relocation of its Galle branch to No. 66, Havelock Road, to a more strategically positioned and technologically advanced space. The move marks a significant milestone in Prime Groups’ journey, offering valued customers enhanced convenience, modern infrastructure, and a reaffirmation of commitment to providing excellent service.
+
+...
+
+[Data](articles/f58df3b7.json)
+
+---
+
+### Unidil triumphs at National Project Management Excellence Awards 2024
+
+*2024-06-14 06:31:34* · [`dailyftlk`](https://www.ft.lk/business/Unidil-triumphs-at-National-Project-Management-Excellence-Awards-2024/34-763070) · `en`
+
+The winning team of Unidil at the National Project Management Excellence Awards in Colombo
+
+The packaging arm of Vallibel One PLC, Unidil Group of Companies, the Leader in Packaging in Sri Lanka which offers the best and ideal packaging solutions of corrugated cartons and paper sacks for local and export industries, once again displayed its prowess by clinching top honours at the prestigious National Project Management Excellence Awards 2024 presented by Project Management Institute.
+
+The company secured two gold and silver awards in the highly competitive Best Managed Project in the Manufacturing and Transportation and Logistics Sector categories.
+
+...
+
+[Data](articles/867c0670.json)
+
+---
+
+### SJB questions President’s motives behind new inquiry committee on Easter attacks
+
+*2024-06-14 06:29:49* · [`dailyftlk`](https://www.ft.lk/news/SJB-questions-President-s-motives-behind-new-inquiry-committee-on-Easter-attacks/56-763069) · `en`
+
+SJB MP Mujibur Rahman accuses President Ranil Wickremesinghe of obstructing revelations of Easter attack orchestrators
+
+Highlights PCoI recommendations, including prosecution of police officers, have not been acted upon
+
+Questions need for another committee to investigate intelligence failures after SC has already identified there were failures
+
+Speculates President’s new inquiry committee aims to clear his name ahead of potential legal challenges post-Presidential election
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahman claimed yesterday that President Ranil Wickremesinghe is opposed to revealing those responsible for orchestrating the devastating Easter Sunday attacks in 2019.
+
+...
+
+[Data](articles/601735e0.json)
+
+---
+
+### Namal warns Tamil community against election-time policy shifts
+
+*2024-06-14 06:28:34* · [`dailyftlk`](https://www.ft.lk/news/Namal-warns-Tamil-community-against-election-time-policy-shifts/56-763068) · `en`
+
+SLPP National Organiser Namal Rajapaksa cautions TNA and Tamil community against politicians who change policies for votes
+
+Asks them to trust parties consistent on 13th Amendment, whether supporting or opposing it
+
+Criticises parties that flip-flop on issues close to elections, calling it pandering to public sentiment
+
+Sri Lanka Podujana Pera-muna (SLPP) National Organiser MP Namal Rajapaksa has cautioned the Tamil National Alliance (TNA) and Sri Lanka’s Tamil community to beware of politicians who alter their policies abruptly to garner votes.Speaking to the media after attending a special meeting in Colombo on Wednesday, Rajapaksa asserted that the Tamil people could place their trust in parties that have consistently supported the implementation of the 13th Amendment, as well as those that have opposed it from the outset.
+
+He criticised parties that opportunistically change their stances shortly before elections, labelling their actions as mere attempts to pander to public sentiment.
+
+...
+
+[Data](articles/0dd27c8a.json)
+
+---
+
+### NPP urges public vigilance against misleading statements on election postponements
+
+*2024-06-14 06:27:23* · [`dailyftlk`](https://www.ft.lk/news/NPP-urges-public-vigilance-against-misleading-statements-on-election-postponements/56-763067) · `en`
+
+NPP’s Dr. Nalinda Jayatissa highlights Constitutional clause requiring Presidential election to conclude before current Presidential term ends
+
+NPP MP Vijitha Herath affirms that Supreme Court ruled against any President exceeding a five-year term
+
+Emphasises that Article 30(2) limits President’s term to five years, ending this year on 17 November with no extensions allowed
+
+Urges citizens to prepare for the crucial polls and not be misled by false statements made by Govt. and Opposition groups
+
+National People’s Power (NPP) party Executive Council member Dr. Nalinda Jayatissa yesterday cautioned the public to remain vigilant against the election-related uncertainties being propagated by both Government and Opposition members, advising them not to fall prey to such tactics.
+
+Addressing a public event, Jayatissa asserted that statements suggesting the possible postponement of elections are intentionally made to mislead the public and are untrue.
+
+...
+
+[Data](articles/8defd386.json)
+
+---
+
+### AKD arrives in London
+
+*2024-06-14 06:25:39* · [`dailyftlk`](https://www.ft.lk/news/AKD-arrives-in-London/56-763066) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake was warmly greeted by party supporters and Sri Lankan expatriates upon his arrival at Heathrow Airport in the United Kingdom yesterday. He is slated to speak at a public gathering at Crystal Grand in Slough on 15 June, engaging with the Sri Lankan community during his visit.
+
+◼️
+
+[Data](articles/e16a17bd.json)
+
+---
+
+### Heavy rains today
 
 *2024-06-14 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197734) · `si`
 
-අද (14) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+Today, heavy rains are expected in several regions including the Western, Sabaragamuwa, Northwestern provinces, and Galle and Matara districts. The Department of Meteorology advises caution due to potential showers, thundershowers, especially in the evening or night across the Uva Province and other areas. Strong winds may affect over 40,000 people, prompting the public to prepare for possible damage from wind and lightning strikes.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-ඌව පළාතේ ස්ථාන කිහිපයක සවස් කාලයේ හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Showers will occur in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts today (14).
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+The Department of Meteorology issues a latest announcement.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at evening or night in the Uva Province.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. Strong winds can also cause over 40,000.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/647731f1.json)
+
+[Extended Data](ext_articles/647731f1.ext.json)
+
+---
+
+### Shivajilingam advocates for Tamil common candidate amid political resistance
+
+*2024-06-14 05:38:22* · [`dailyftlk`](https://www.ft.lk/news/Shivajilingam-advocates-for-Tamil-common-candidate-amid-political-resistance/56-763065) · `en`
+
+Former MP M.K. Shivajilingam says despite resistance from ITAK and TNA, six Northern political parties are willing to support a common candidate
+
+Asserts his readiness to step forward if no other common candidate emerges
+
+Former Illankai Tamil Arasu Kadchi (ITAK) MP M.K. Shivajilingam has urged Tamil political parties and civil society groups in the North to collaborate in supporting a Tamil common candidate for the upcoming Presidential election.
+
+Speaking at a press conference on Tuesday, Shivajilingam addressed recent remarks by Tamil National Alliance (TNA) MP M.A. Sumanthiran, who had dismissed the idea of a Tamil common candidate. Despite this rejection, Shivajilingam emphasised that there is still an opportunity to field such a candidate.
+
+...
+
+[Data](articles/3318af2f.json)
 
 ---
 
@@ -402,15 +628,21 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
-### கரையோர ரயில் போக்குவரத்து பாதிப்பு
+### Coastal railway impact
 
 *2024-06-14 00:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-போக்குவரத்து-பாதிப்பு/175-338890) · `ta`
 
-இதன் காரணமாக கரையோர மார்க்கத்தில் ரயில் போக்குவரத்திற்கு இடையூறு ஏற்பட்டுள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் எம்.ஜே.இந்திபொலகே தெரிவித்துள்ளார்.
+Railway disruptions on the coastal route have caused significant traffic delays, affecting travel plans and schedules.
+
+🟩
+
+Railway Deputy General Manager MJ Indibollake said that the railway traffic on the coastal route has been disrupted.
 
 ◼️
 
 [Data](articles/8225a99c.json)
+
+[Extended Data](ext_articles/8225a99c.ext.json)
 
 ---
 
@@ -2005,303 +2237,5 @@ Late last year, Wijesekara told parliament that several countries including Russ
 [Data](articles/d7c91fb4.json)
 
 [Extended Data](ext_articles/d7c91fb4.ext.json)
-
----
-
-### A warning from former police officers
-
-*2024-06-13 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197717) · `si`
-
-Former IGP Chandra Fernando stated at a press conference that he doesn't believe current political groups are involved in violent activities, despite past incidents. He mentioned the government's efforts after the 1989 rebellion and expressed concern over recent events, questioning the lack of action against similar occurrences.
-
-🟩
-
-Former IGP Chandra Fernando says that political groups engaged in violent political activities in the past are not believed to be engaged in such activities.
-
-He was speaking at a press conference on the former IGP and former DIGs.
-
-The news discussion was called at a private hotel in Pitakotte this morning.
-
-"After the rebellion, the government performed a major rehabilitation. We each thought that the rebellion would end here. But unfortunately 1989, once again, this violent act was destroyed by the property and lives of Sri Lanka. We later thought it would be stopped by this violence. Unfortunately, 91 houses were organized in the same night on May 9, 2022. Will you not do this in making such things? "
-
-◼️
-
-[Data](articles/227ae8cc.json)
-
-[Extended Data](ext_articles/227ae8cc.ext.json)
-
----
-
-### President RW Emphasizes He Has Not Deviated From The Principles Of The Democratic Socialist System
-
-*2024-06-13 14:56:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-rw-emphasizes-he-has-not-deviated-from-the-principles-of-the-democratic-socialist-system/) · `en`
-
-President Ranil Wickremesinghe emphasized that he has not deviated from the principles of the democratic socialist system in Sri Lanka. He noted that two key objectives have been incorporated, ensuring that all citizens have an adequate standard of living and promoting rapid development across the country through public and private economic activities aimed at social objectives and the public good.
-
-President Wickremesinghe highlighted that the recently submitted Economic Transformation Bill is designed to achieve these ambitious goals within the framework of the constitution. He asserted that this legislation underscores his adherence to constitutional principles, thereby countering any accusations of unconstitutional actions.
-
-The President made these remarks during his keynote address at the inaugural session of the 45th “SAARCFINANCE” Governors’ Meeting and Symposium held today (13) at the Hilton Hotel, Colombo.
-
-...
-
-[Data](articles/964a59d4.json)
-
-[Extended Data](ext_articles/964a59d4.ext.json)
-
----
-
-### Limited services at the Vavuniya Post Office
-
-*2024-06-13 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186004) · `ta`
-
-Despite postal staff's union action, Vavuniya's main post office offered limited services starting at 9 am, focusing on essential and penalty-related tasks.
-
-🟩
-
-Although the staff of the Postal Department were carrying out their trade union action, it was observed that the restricted services were carried out at the Vavuniya main post office.
-
-Although the post office was closed until 9 am, they were limited to their penalty and essential postal services from 9:00 am and the services were provided through the post office.
-
-◼️
-
-[Data](articles/4a3fbbb9.json)
-
-[Extended Data](ext_articles/4a3fbbb9.ext.json)
-
----
-
-### The human remains and artifacts of Sri Lankan adivasis brought from Switzerland
-
-*2024-06-13 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185979) · `ta`
-
-Sri Lanka has repatriated 12 skeletons, 30 skulls, and over 400 kg of artifacts from its indigenous community, the Adivasis, previously housed in Swiss museums. This move follows the successful retrieval of artifacts from the Netherlands and aims to preserve the cultural heritage of the Adivasis. The handover ceremony took place at the Lotus Tree of Colombo, with Etho Vannila, the Adivasi leader, present. The process was facilitated through a formal agreement with the Swiss government upon the request of Sri Lanka's Ministry of Cultural Affairs.
-
-🟩
-
-The Sri Lankan Adivasis, who were placed in museums in Switzerland, have been brought to the country with 12 skeletons, 30 skulls and 400 kilograms of artifacts.
-
-Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake said that following the success of artifacts from the Netherlands to the country last year, the focus was on bringing these human remains and artifacts from Switzerland.
-
-The event was held on Wednesday (12) at the Lotus Tree of Colombo to reveal the native human remains and artifacts brought to the country from the Basel Museum of Switzerland.. Etho, the leader of the Adivasi, Etho Vannila, participated.
-
-Senior lecturer of Sri Jayawardenapura University, Oshan Vitage, who provided information on human remains and artifacts, said the products were re -brought back to the country through a formal agreement with the Swiss government at the request of the Ministry of Cultural Affairs and the Ministry of Cultural Affairs.
-
-◼️
-
-[Data](articles/2ea6c57f.json)
-
-[Extended Data](ext_articles/2ea6c57f.ext.json)
-
----
-
-### Yall. The man who stole the mobile phone in front of the Point Pedro Court
-
-*2024-06-13 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185984) · `ta`
-
-In Jaffna, a man stole a mobile phone from a motorcycle outside the Point Pedro Court. He was later caught and arrested. Meanwhile, another phone was stolen from a three-wheeler near the Jaffna court last week.
-
-🟩
-
-The man who broke the seat of the motorcycle parked in front of the Jaffna Pottaruttu Court has been detained and stolen a valuable mobile phone.
-
-A woman who went to the Point Pedro Court stopped her motorcycle near the court and left her valuable mobile phone in the lower part of the motorcycle's seat.
-
-When the court proceeded, it was revealed that the motorcycle was locked under the seat of the motorcycle, which had been stolen from the seat.
-
-The woman has lodged a complaint at the Point Pedro Police Station. According to the complaint, the police have arrested the man who stole the mobile phone at the telephone stall at Mandigi area.
-
-The police were present in court after investigations until the arrest was arrested.
-
-At the same time, the mobile phone of the man who left the mobile phone in a three -wheeler parked in front of the Jaffna court last week was also stolen.
-
-◼️
-
-[Data](articles/f5ed2691.json)
-
-[Extended Data](ext_articles/f5ed2691.ext.json)
-
----
-
-### Sri Lanka tea plantation female workers overlooked for promotions: Minister
-
-*2024-06-13 14:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-plantation-female-workers-overlooked-for-promotions-minister-167860/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s female tea pluckers do not get promoted as male tea pluckers do, Minister of Estate Infrastructure Jeevan Thondaman said.
-
-“I know educated women who are plucking tea because they are not getting into management, and I know less than qualified men who are in management positions. Why? Because they know how to order people around,” Thondaman told EconomyNext.
-
-A study done by Verite Research in 2022 shows that the estate sector’s economically active population is 404,002 out of which 167,156 are women.
-
-However, there is a difference in the work that men and women do while being paid the same wage.
-
-...
-
-[Data](articles/fda64a5c.json)
-
-[Extended Data](ext_articles/fda64a5c.ext.json)
-
----
-
-### Sri Lanka courts to sell vehicles, machinery seized for suspected involvement in crimes
-
-*2024-06-13 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-courts-to-sell-vehicles-machinery-seized-for-suspected-involvement-in-crimes-167862/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow courts to sell vehicles and machineries seized by courts due to their suspicious involvement in crimes to preserve foreign exchange and minimal usage of lands, Justice Minister Wijeyadasa Rajapakshe said.
-
-The island nation has witnessed thousands of courts-seized vehicles end up in unusable conditions because of long duration to conclude court cases for crimes.
-
-“There is no clear law on assets and properties that are seized in court cases,” Rajapakshe told reporters at a media briefing on Wednesday (12).
-
-“We have come up with laws on that including the one, which is on the assets involved with court cases. We know that there are goods worth over billions of rupees corroding after being seized by courts. If somebody has used a vehicle or machine in a crime, the court is compelled to keep them with its custody until the legal case is over.”
-
-He said keeping such assets for long duration has become a huge issue for courts because it needs lands.
-
-...
-
-[Data](articles/86b3aca2.json)
-
-[Extended Data](ext_articles/86b3aca2.ext.json)
-
----
-
-### Calling online applications for university admission from tomorrow
-
-*2024-06-13 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197716) · `si`
-
-Starting June 14, 2024, applicants can submit university admission applications online via www.ugc.ac.lk until July 5, 2024.
-
-🟩
-
-The University Grants Commission announced that the payment of online applications for university admission regarding the academic year will commence on June 14, 2024.
-
-Accordingly, the applications can be submitted to www.ugc.ac.lk from 6.00 am tomorrow.
-
-The Chairperson of the University Grants Commission Sampath Amaratunga says that the closing date for applications for applications was 5th July 2024.
-
-◼️
-
-[Data](articles/f5665705.json)
-
-[Extended Data](ext_articles/f5665705.ext.json)
-
----
-
-### Demonstration of fireworks workers
-
-*2024-06-13 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185996) · `ta`
-
-In Kandy, thousands protested against foreign imports harming the local fireworks industry, crucial for over 5,000 families' livelihoods. The demonstration took place at George ED Silva Park, highlighting the industry's decline to a few factories.
-
-🟩
-
-Thousands of workers engaged in local fireworks industry have been affected by the importation of lighter from overseas, demanding the protection of their business as they have been affected by a protest in Kandy today (13).
-
-Thousands of people participated in the demonstration, which was a former George ED Silva Park in Kandy.
-
-Demonstrators said that the top -level fireworks industry in Sri Lanka has been reduced to a few factories and now over 5,000 families are directly dependent on the industry.
-
-◼️
-
-[Data](articles/22706c3c.json)
-
-[Extended Data](ext_articles/22706c3c.ext.json)
-
----
-
-### Online applications called for 2023/2024 university admissions
-
-*2024-06-13 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99856/online-applications-called-for-20232024-university-admissions) · `en`
-
-The online applications for university admissions for the academic year 2023/2024 will open on 14 June 2024, the University Grants Commission (UGC) said.
-
-The Chairman of the UGC Sampath Amaratunge stated that the applications can be submitted by logging into the UGC’s official website through https://www.ugc.ac.lk/ from 6.00 a.m. tomorrow (14).
-
-Meanwhile, the closing date for the applications will be 05 July 2024, according to the UGC.
-
-◼️
-
-[Data](articles/53dec254.json)
-
-[Extended Data](ext_articles/53dec254.ext.json)
-
----
-
-### There is no use for the construction of Rs.
-
-*2024-06-13 14:26:59* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-තුන්දහසක-ඉදි-කිරිම්-කිසිදු-ප්‍රයෝජනයක්-නෑ/11-410198) · `si`
-
-Ajith Khipperuma, an MP, criticized the use of Rs. 400 million allocated for public buildings, highlighting the Treasury's involvement in funding the first floor of Hatton Railway Station's ticket window, which will generate income for the private sector. He emphasized the need for transparency in financial allocations and the necessity for the Treasury to manage funds efficiently.
-
-🟩
-
-Members of the Environment and Natural Resources Committee that has been carried out in the country and the Treasury has spent Rs.He said.
-
-MP Ajith Khipperuma told the Medical and Natural Resources Sustainable Development Committee regarding the use of Rs. 400 million.It was during the opportunity to look into the public building soon.
-
-The government is due to run the first floor of the Hatton Railway Station as the ticket window in Hatton Railway Station and obtain its income to the private sector.
-
-The MP stated that the Treasury has to be paid to the Treasury to the Treasury and the Ticketing Ticketing Station for Hatton Railway Station.
-
-The first floor of the building was officially handed over to the Railway Department by the Urban Development Authority of the Urban Development Authority after the observation of the new building.
-
-The Railway Department has also participated in this situation and the UDA officials.
-
-◼️
-
-[Data](articles/6de0d007.json)
-
-[Extended Data](ext_articles/6de0d007.ext.json)
-
----
-
-### Operations of the Nuwara Eliya main post
-
-*2024-06-13 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185998) · `ta`
-
-Nuwara Eliya Post Office workers, part of a nationwide postal employees' union strike, boycotted work until Thursday midnight due to unresolved issues including protection of post offices and postal staff rights. Despite the boycott, services for foreign tourists were maintained, specifically the sealing and registration sections.
-
-🟩
-
-The Postal Employees Union, which has joined the nationwide, has announced a sick holiday and has been engaged in trade union action.
-
-Accordingly, the Nuwara Eliya Post Office workers have been engaged in trade union action until midnight on Thursday (13).
-
-Due to this boycott, the postage that can be distributed through the Nuwara Eliya main post office has been sidelined.
-
-Nuwara Eliya's main post office employees have been assigned to the Identity Service, including a number of demands, including to protect post offices and to win the rights of postal staff.
-
-At the same time, only the sealing section and the registration postal segments are functioning for the benefit of foreign tourists visiting the Nuwara Eliya Post Office.
-
-◼️
-
-[Data](articles/3740e7e7.json)
-
-[Extended Data](ext_articles/3740e7e7.ext.json)
-
----
-
-### Mental disabled child prompts excuses from 3 three polys
-
-*2024-06-13 14:20:19* · [`adalk`](https://www.ada.lk/breaking_news/මානසික-ආබාධිත-දරුවාට-පහරදුන්නාට-පොලිසිියේ-තිදෙනෙකුගෙන්-නිදහසට-කරුණු-විමසයි/11-410197) · `si`
-
-The Supreme Court ordered three individuals to provide explanations regarding an incident involving a mentally disabled child. Notices were sent out, requiring responses by January 16th of next year. The case involves Preethi Padman Surasena, a Supreme Court Judge, and others, including residents of Aluthgama. The petitioner's father alleges his son, who is mentally disabled, was assaulted, leading to an investigation by the police superintendent. Legal representatives have been assigned to the parties involved.
-
-🟩
-
-The Supreme Court today (13), the Supreme Court today (13th) appointed the Supreme Court today to make excuses on the incident.
-
-The Supreme Court issued notice on the 16th of next year to the three-day and the Supreme Court to file excuses on the 16th of January next year.
-
-Preethi Padman Surasena, Supreme Court Judges, S. The petition was considered in the face of the Supreme Court panel of the Supreme Court pagging of the Turaraja and Priyantha Pun.
-
-Residents of the Aluthgama, a 17-year-old Mental Assistant Ahmad Mawoshik, a 17-year-old MP Jayuadher, Dilan Gunatilleke and NH. Senaratne has been named.
-
-The Petitioner father states that the 17-year-old son of the second petitioner was in the case of the coronary law, was associated with a complaint with a complaint that he had been assaulted in the second petition.The petition further stated that an investigation was conducted before the Superintendent of Police.
-
-...
-
-[Data](articles/d17d24bb.json)
-
-[Extended Data](ext_articles/d17d24bb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 18:36:12**
+As of **2024-06-14 18:53:51**
 
 ## Newspaper Stats
 
-*Scraped **30,412** Articles*
+*Scraped **30,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,620
 adaderanalk | 3,446
-tamilmirrorlk | 3,556
+tamilmirrorlk | 3,557
 virakesarilk | 4,678
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,903
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,412 (100.0%) of 30,412 articles have been extended.
+30,412 (100.0%) of 30,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### கெஹலிய உள்ளிட்ட 8 பேருக்கு மீண்டும் விளக்கமறியல்
+
+*2024-06-14 18:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-8-பேருக்கு-மீண்டும்-விளக்கமறியல்/175-338911) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேகநபர்களுக்கு மீண்டும் விளக்கமறியல் உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+இதன்படி, எதிர்வரும் ஜூன் மாதம் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்க மாளிகாகந்த நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்து இறக்குமதி சம்பவம் தொடர்பான வழக்கில் சந்தேகநபர்கள்  இன்று (14) நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3a82a727.json)
+
+---
 
 ### Keheliya and seven others further remanded
 
@@ -2249,19 +2267,5 @@ John Keels PLC commenting on prices realized on June 4 th and 5th 2024 said that
 [Data](articles/1c6c9725.json)
 
 [Extended Data](ext_articles/1c6c9725.ext.json)
-
----
-
-### Dialog launches cutting-edge 4G vehicle tracking solution
-
-*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/dialog-launches-cutting-edge-4g-vehicle-tracking-solution/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, announced the launch of the Smart Vehicle Tracker, an innovative, cost-effective smart vehicle tracking solution that utilises 4G LTE technology for worry-free vehicle and fleet monitoring across Sri Lanka. The device utilises the TeDi fleet management app, powered by Dialog, launched in collaboration with The Connection Workshop Pvt. Ltd., a fully owned subsidiary of South Asian Technologies.
-
-...
-
-[Data](articles/93dbd302.json)
-
-[Extended Data](ext_articles/93dbd302.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 01:04:17**
+As of **2024-06-15 01:19:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,437 (100.0%) of 30,440 articles have been extended.
+30,439 (100.0%) of 30,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,6 +74,8 @@ The political parties and political alliances are in a major strategic endeavour
 
 [Data](articles/d9bb553e.json)
 
+[Extended Data](ext_articles/d9bb553e.ext.json)
+
 ---
 
 ### A new constitution could be leveraged into transitional justice and economic development
@@ -87,6 +89,8 @@ The judiciary holds its scales of justice evenly despite various attempts at str
 ...
 
 [Data](articles/f81f8851.json)
+
+[Extended Data](ext_articles/f81f8851.ext.json)
 
 ---
 

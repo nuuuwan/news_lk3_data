@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 18:13:21**
+As of **2024-06-14 18:25:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,407 (100.0%) of 30,412 articles have been extended.
+30,412 (100.0%) of 30,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,37 +44,51 @@ This order was issued when the case was taken up before the Maligakanda Magistra
 
 [Data](articles/c66f9563.json)
 
+[Extended Data](ext_articles/c66f9563.ext.json)
+
 ---
 
-### කෙහෙළිය ඇතුළු පිරිස යළි රිමාන්ඩ්
+### Keheliya and others remanded again
 
 *2024-06-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197761) · `si`
 
-ප්‍රමිතියෙන් තොර මානව ඉමියුනොග්ලොබියුලින් එන්නත් ආනයනය කිරීම සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු 7 දෙනෙකු මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් ජුනි 28 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
+Former Health Minister Keheliya Rambukwella and seven others were remanded by the Maligakanda Magistrate's Court for allegedly importing substandard human emolulin vaccines.
+
+🟩
+
+Former Health Minister Keheliya Rambukwella and 7 have been remanded by the Maligakanda Magistrate's Court regarding the importation of substandard human emolulin vaccines.
 
 ◼️
 
 [Data](articles/d7dcaf71.json)
 
+[Extended Data](ext_articles/d7dcaf71.ext.json)
+
 ---
 
-### தாய்லாந்தில் ஆசிய யானை ஈன்ற அரிய வகை இரட்டை யானைக் குட்டிகள்
+### Rare elephant cubs in Thailand
 
 *2024-06-14 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186087) · `ta`
 
-மத்திய தாய்லாந்தில் உள்ள ஆசிய யானை ஒன்று அரிய வகை இரட்டை யானை குட்டிகளை  ஈன்றுள்ளது.  இது ஒரு அதிசயம் என அயுத்தயா யானைகள் சரணாலயத்தின் பராமரிப்பாளர்கள் கூறுகின்றனர்.
+A rare event occurred in Central Thailand: 'Samsuri,' a 36-year-old elephant, gave birth to twins—a male and a female elephant cub. This is only the second recorded instance of such a birth, making it a significant event in the world of elephant conservation.
 
-கடந்த வெள்ளிக்கிழமை 36 வயதான 'சாம்சூரி' எனும் யானை எதிர்பார்க்காத வகையில் ஆண் யானை குட்டியை ஈன்றது. அப்போது,  அயுத்தயா யானைகள் சரணாலயம் பராமரிப்பாளர்கள் பிரசவம் முடிந்துவிட்டதாக நினைத்தனர்.
+🟩
 
-பின்னர், ஈன்ற ஆண் யானை குட்டியை சுத்தம் செய்து அது நிற்பதற்கு உதவி செய்யும் போது, சாம்சூரி இரண்டாவது பெண் யானை குட்டியை ஈன்றுள்ளதாக பலத்த சத்தததை கேட்டு உணர்ந்தனர்.
+An Asian elephant in Central Thailand has given birth to rare elephant cubs.This is a miracle.
 
-இந்நிலையில், இரண்டாவது பிரசவம்  பீதியில் ஆழ்த்தியதோடு, பெண் யானை குட்டி மீது தாய் யானையின் கால்கள் படாமல் பராமரிப்பாளர்கள் தடுக்க முற்பட்டபோது காவலர் ஒருவர் காயமடைந்துள்ளார்.
+Last Friday, 36 -year -old 'Samsuri', an elephant, gave birth to a male elephant cub.. At that time, the Authaya Elephants Sanctuary carers thought that childbirth was over.
 
-யானைப் பிறப்புகளில் ஒரு சதவீதத்தில் மட்டுமே இரட்டை யானை குட்டிகள் பிறக்கின்றன. மேலும் ஆண் மற்றும் பெண் யானை குட்டிகள் பிறப்பது மிகவும் அரிதான நிகழ்வு என சேவ் தி எலிஃபண்ட்ஸ் என்ற ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Later, when the male elephant was cleaned and helped it to stand, Samsuri realized that the second female elephant had gained the loud noise.
+
+In this case, a second delivery of the second delivery of the female elephant was injured when the mother elephant's legs were trying to stop the legs of the elephant.
+
+Only twin elephant cubs are born in one percent of elephant births. The birth of male and female elephants is a rare event, according to the Research Institute called Save the Elephants.
 
 ◼️
 
 [Data](articles/11f1ee1e.json)
+
+[Extended Data](ext_articles/11f1ee1e.ext.json)
 
 ---
 
@@ -92,17 +106,27 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 
 ---
 
-### ‘பயமறியா பிரம்மை’ படத்தில் நீளமான காட்சிகள் அதிகம் - குரு சோமசுந்தரம்
+### Long scenes in the movie - Guru Somasundaram
 
 *2024-06-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186081) · `ta`
 
-புதுமுக நடிகர் ஜேடி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில், சிங்கிள் டேக்கில் படமாக்கப்பட்ட நீளமான காட்சிகள் அதிகம் என்று அப்படத்தில் அழுத்தமான வேடத்தில் நடித்திருக்கும் நடிகர் குரு சோமசுந்தரம் தெரிவித்திருக்கிறார்.
+Guru Somasundaram stars as JD in "Piyamaria Prama," a crime thriller shot entirely on a single tag. The film features a mix of long, immersive scenes designed to enhance viewer engagement and emotional connection. Director Rahul Kapali promises a unique cinematic experience, emphasizing the film's distinct storytelling approach and the talented cast's performances.
 
-அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஜோன் விஜய், ஹரிஷ் உத்தமன், வினோத் சாகர், விஸ்வாந்த், சாய் பிரியங்கா ரூத், திவ்யா கணேஷ், ஹரீஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நந்தா- வி. பிரவீண் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே இசையமைத்திருக்கிறார்.‌ கிரைம் திரில்லர் வகையிலான இந்த திரைப்படத்தை 69 எம் எம் ஃபிலிம் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜெகதீஷ் மற்றும் ராகுல் கபாலி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+Actor Guru Somasundaram, who plays the role of the newcomer JD, is the first character in the film 'Piyamaria Prama', which has been filmed in the Single Tag.
+
+Jedi, Guru Somasundaram, John Vijay, Harish Uthaman, Vinod Sagar, Viswant, Vishwant, Sai Priyanka Ruth, Divya Ganesh, Harish. Nanda-V. The film is composed by Praveen and composed by K. Crime Thriller.
+
+The event was held in Chennai.Songwriter Veronica, cinematographers Nanda and Praveen, composer K, actors Jake Robinson, Vinod Sagar, Jedi, Guru Somasundaram and actress Sai Priyanka Ruth were present.
+
+Speaking about the film, director Rahul Kapali said, “This film will give you a sweet interesting experience. The film will make you feel our new venture in the films that are currently being released in the movie. ”said.
 
 ...
 
 [Data](articles/cbd39abc.json)
+
+[Extended Data](ext_articles/cbd39abc.ext.json)
 
 ---
 
@@ -124,21 +148,29 @@ Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen fu
 
 ---
 
-### அட்டன் புதிய ரயில் நிலையம் விரைவில் பயணிகள் பாவனைக்குத் திறக்கப்படும்
+### Attan New Railway Station will soon open for passengers
 
 *2024-06-14 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186084) · `ta`
 
-தொழிலாளர் தேசிய சங்கத்தின் தலைவரும் முன்னாள் அமைச்சருமான பழனி திகாம்பரத்தினால் 2017 ஆம் ஆண்டு முன்னெடுக்கப்பட்ட அட்டன் புதிய ரயில் நிலையக் கட்டிடத் தொகுதி விரைவில் பொது மக்கள் பாவனைக்கு வழங்குவதற்கான நடவடிக்கைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+The Attan New Railway Station, initiated by Palani Digambaram in 2017, is nearing completion after being stalled since 2019. Ajith Manapperuma, a Member of Parliament, recently inspected the site, discussing its reopening with officials from the Urban Development Authority and the Railway Department. The project, initially costing Rs 40 crore, aims to resume operations soon under the Railway Department's supervision, with plans to involve the private sector for further construction.
 
-இவ்விடயம் தொடர்பான கள ஆய்வு ஒன்றினை பொருளாதார அபிவிருத்தி பாராளுமன்ற கண்காணிப்பு குழுவின்  பாராளுமன்ற உறுப்பினர்  அஜித் மனப்பெரும நேற்று வியாழக்கிழமை (13) அட்டன் ரயில் நிலையத்திற்கு வருகைத் தந்திருந்தார்.
+🟩
 
-இதன்போது, கள ஆய்வினை மேற்கொண்ட பாராளுமன்ற உறுப்பினர் முதற்கட்டமாக புதிய ரயில் நிலையத்தினை வெகு விரைவில் ஆரம்பிப்பதற்கான நடவடிக்கைகள் குறித்து நகர அபிவிருத்தி அதிகார சபை மற்றும் ரயில்வே திணைக்கள அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபட்டார்.
+Palani Digambaram, the president of the National Association and former Minister of the Workers' Union, has begun the 2017 Attan New Railway Building Building for the public to use for the public.
 
-இதன்போது, பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரத்தின் பணிப்புரைக்கு ஏற்ப அவரின் பாராளுமன்ற ஆய்வாளரும் மத்திய மாகாண சபையின் முன்னாள் உறுப்பினருமான சோ.ஸ்ரீதரன் ,அட்டன் -டிக்கோயா நகர சபையின் முன்னாள் தலைவர் டாக்டர் அழகுமுத்து நந்தகுமார் ஆகியோரும் பங்கேற்றனர்.
+Ajith Manapperuma, Member of Parliament of the Economic Development and Parliamentary Monitoring Committee, visited the Attan Railway Station on Thursday (13).
+
+Meanwhile, the Member of Parliament who conducted the field inspection was discussed with the Urban Development Authority and the Railway Department officials on the steps to start the new railway station for the first time.
+
+His parliamentary inspector and former member of the Central Provincial Council, S. Sridharan and former Chairman of the Attan -Dikoya Urban Council, Dr Alagumuthu Nandakumar were also present.
+
+The program, which started at a cost of Rs 40 crore in the government of goodwill, has not been continued since 2019.
 
 ...
 
 [Data](articles/d1af8335.json)
+
+[Extended Data](ext_articles/d1af8335.ext.json)
 
 ---
 

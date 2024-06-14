@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 01:19:14**
+As of **2024-06-15 01:34:53**
 
 ## Newspaper Stats
 
-*Scraped **30,440** Articles*
+*Scraped **30,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,769
-dailyftlk | 1,849
+dailyftlk | 1,862
 adalk | 2,621
 adaderanalk | 3,449
 tamilmirrorlk | 3,561
@@ -26,11 +26,233 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,439 (100.0%) of 30,440 articles have been extended.
+30,440 (100.0%) of 30,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### National responsibility to use IMF third tranche effectively – Karu
+
+*2024-06-15 01:18:56* · [`dailyftlk`](https://www.ft.lk/news/National-responsibility-to-use-IMF-third-tranche-effectively-Karu/56-763126) · `en`
+
+Former Speaker and the National Movement of Social Justice (NMSJ) Chairperson Karu Jayasuriya, yesterday emphasised the critical importance of effectively utilising the third tranche of the International Monetary Fund (IMF) bailout package.
+
+In a statement, Jayasuriya underscored that it is a national responsibility to ensure proper use of the funds. The IMF released the third tranche of $ 336 million from its $ 2.9 billion bailout package to Sri Lanka, while cautioning that the country’s economy remains vulnerable and that the path to debt sustainability is “knife-edged.”
+
+“Utilising the funds for the betterment of our country is a national responsibility. Given the sacrifices made by citizens during this challenging period, it is crucial to use every cent responsibly and effectively,” he said.
+
+Therefore Jyasuriya said that the authorities must firstly take steps to combat corruption and waste as stressed by the IMF on many occasions.
+
+...
+
+[Data](articles/10cc6b76.json)
+
+---
+
+### Govt. to repatriate ex-military personnel from Russia; facilitate stranded nationals in Myanmar: Foreign Minister
+
+*2024-06-15 01:17:57* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-repatriate-ex-military-personnel-from-Russia-facilitate-stranded-nationals-in-Myanmar-Foreign-Minister/56-763125) · `en`
+
+Says team of officials reviewing Cabinet paper regarding Sri Lanka’s potential membership in BRICS
+
+Reveals Indian Foreign Minister and Prime Minister are expected to visit SL by end of this month
+
+Says IMF second review is testament to efforts by SL on right economic path
+
+Asserts Japan indicated to resume suspended projects once repayments commence
+
+Foreign Affairs Minister Ali Sabry yesterday announced that a high-level delegation led by State Minister of Foreign Affairs Tharaka Balasuriya is scheduled to visit Russia on 26 and 27 June to arrange the repatriation of Sri Lankan ex-military personnel deployed in Russia for militia purposes.  The development follows discussions between Minister Sabry and Russian Foreign Minister Sergey Lavrov focused on resolving the issue of Sri Lankan ex-military personnel serving in the Russian army.
+
+...
+
+[Data](articles/ab65d068.json)
+
+---
+
+### Police seeks court order to repatriate ASP involved in Uddika’s self-orchestrated shooting
+
+*2024-06-15 01:16:47* · [`dailyftlk`](https://www.ft.lk/news/Police-seeks-court-order-to-repatriate-ASP-involved-in-Uddika-s-self-orchestrated-shooting/56-763124) · `en`
+
+An Assistant Superintendent of Police (ASP) believed to have helped former Sri Lanka Podujana Peramuna (SLPP) Anuradhapura district MP Uddika Premaratne to orchestrate a shooting against himself has fled Sri Lanka, according to the police.
+
+ASP Sanjeewa Mahanama who had supported the actor turned politician had been attached to the Police Transport Division and based in Anuradhapura at the time of the incident.
+
+It is believed the ASP had carried out the shooting on the instructions of Premaratne. According to reports, Mahanama had returned his service pistol to the police through a third party after fleeing the country on 12 June. Police Spokesperson DIG Nihal Thalduwa said Mahanama had not obtained necessary permission to leave the country.
+
+Police sources said they plan to seek a court order for Mahanama’s repatriation.
+
+...
+
+[Data](articles/1d75405e.json)
+
+---
+
+### BASL President denies fund misappropriation allegations
+
+*2024-06-15 01:16:39* · [`dailyftlk`](https://www.ft.lk/news/BASL-President-denies-fund-misappropriation-allegations/56-763123) · `en`
+
+Bar Association of Sri Lanka (BASL) President Kaushalya Nawaratna PC categorically denied any financial misconduct within the organisation yesterday. He and several other members are under scrutiny for alleged misappropriation of funds intended for an anti-corruption initiative funded by the Japan International Cooperation Agency (JICA)
+
+Speaking to the media outside the Supreme Court complex, Nawaratna stated his intention to provide all relevant information to the committee tasked with investigating the allegations. He emphasised, “There is a distinction between media reports and the actual facts.”
+
+On Wednesday, Nawaratna announced he would temporarily step down from his position pending the conclusion of the investigation into alleged financial irregularities within the BASL. This decision came amidst mounting pressure and concerns over the purported misappropriation of funds designated for an anti-corruption initiative funded by JICA.
+
+...
+
+[Data](articles/5a6cf710.json)
+
+---
+
+### National Chamber of Exporters condemns MP Jeevan Thondaman’s actions
+
+*2024-06-15 01:15:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-condemns-MP-Jeevan-Thondaman-s-actions/34-763122) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE) has called for a thorough investigation into the incident involving MP Jeevan Thondaman and his associates at Pedro Estate on 30 May, 2024. The NCE expressed deep concern over reports and social media videos showing unlawful and aggressive behaviour by MP Thondaman’s group.
+
+The footage, which has sparked widespread outrage, depicts a group forcibly entering the estate and engaging in acts of intimidation and arrogance. The NCE emphasised that such conduct is unacceptable and must be addressed by the President and other national leaders. The chamber stressed that trespassing on private property and using force is illegal, warranting immediate legal action.
+
+...
+
+[Data](articles/99f35266.json)
+
+---
+
+### SDTI Campus honoured with National Entrepreneur Excellence Presidential Award 2024
+
+*2024-06-15 01:14:50* · [`dailyftlk`](https://www.ft.lk/business/SDTI-Campus-honoured-with-National-Entrepreneur-Excellence-Presidential-Award-2024/34-763121) · `en`
+
+At a prestigious ceremony held at the Shangri-La Hotel in Colombo, the Skills Development and Training International (SDTI) Campus was conferred with the National Entrepreneur Excellence Presidential Award 2024.
+
+This accolade underscores SDTI Campus’s exceptional contributions to entrepreneurial education and innovation. SDTI Campus has been acclaimed as the Best University in South Asia, adding another recognition to its distinguished reputation. The institution has also achieved ISO 9001:2015 certification, reinforcing its commitment to quality education and operational excellence. In collaboration with the Ministry of Education’s Skill Development Fund, SDTI Campus offers a range of diploma and degree programs that the University Grants Commission approves. This strategic partnership aims to provide affordable education opportunities to both rural and urban youth across Sri Lanka and the Asian region youths with a skill in many marketable fields
+
+...
+
+[Data](articles/cdb2773b.json)
+
+---
+
+### People’s Bank selects winners for January to April in ‘People’s Remittance Vaasi Kotiyai 2024’ draw
+
+*2024-06-15 01:13:58* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-selects-winners-for-January-to-April-in-People-s-Remittance-Vaasi-Kotiyai-2024-draw/34-763120) · `en`
+
+People’s Bank’s ‘People’s Remittance Vaasi Kotiyai 2024’ draw to select the winners of Rs. 250,000 for the months of January, February, March, and April recently took place at the People’s Bank, Overseas Customer Services premises in Colombo 10.
+
+In addition, the weekly winners for the period from 1 January to 5 May were also drawn at the event, and will be gifted Rs. 100,000 each.
+
+People’s Bank Deputy General Manager – Banking Support Services Nipunika Wijayaratne, People’s Bank Deputy General Manager – Human Resources Manjula Dissanayake, People’s Bank Assistant General Manager – Commercial Credit Prasad Ariyawanse, People’s Bank Assistant General Manager – OCS Aruni Liyanagunawardena, People’s Bank Chief Manager – Audit S.M.D. Nandani, People’s Bank Senior Manager – OCS Thilini Perera, and Senior Tax Officer, Department of Revenue – Western Province S. Bulathsinghala participated in the event.
+
+...
+
+[Data](articles/7a0e200f.json)
+
+---
+
+### President says Government fostering knowledge-empowered youth generation
+
+*2024-06-15 01:12:25* · [`dailyftlk`](https://www.ft.lk/news/President-says-Government-fostering-knowledge-empowered-youth-generation/56-763119) · `en`
+
+President Ranil Wickremesinghe this week emphasised the need to cultivate a generation of youth equipped with the knowledge and training necessary to meet future challenges.
+
+He also highlighted that an economic program aimed at generating substantial income for the youth of the country is currently being implemented.
+
+President Wickremesinghe shared these thoughts during a meeting with members of the National Youth Corps (NYC) at the Presidential Secretariat on Wednesday.
+
+During the event, NYC Director Brigadier Sujeewa Rathnayake presented a souvenir to President Wickremesinghe.
+
+“It has been 22 years since the Youth Corps was established. It was originally designed to align with the economic and social system of that era.
+
+However, the Youth Corps must evolve with the times. To ensure a prosperous future for our youth, we must also focus on improving their income opportunities. Necessary steps should be taken to adapt and transform the Youth Corps accordingly.
+
+...
+
+[Data](articles/403754d3.json)
+
+---
+
+### Siyambalapitiya says supplementary estimates will not result in new allocations
+
+*2024-06-15 01:11:52* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-says-supplementary-estimates-will-not-result-in-new-allocations/56-763118) · `en`
+
+Clarifies estimates only entail changes to subjects under which existing expenses are categorised
+
+State Minister of Finance Ranjith Siyambalapitiya said yesterday that the supplementary estimates presented by President Ranil Wickremesinghe, amounting to Rs. 8.75 billion, will not lead to any new financial allocations.
+
+Addressing the concerns regarding the supplementary estimates, he clarified that although supplementary estimates typically involve new recurrent or capital expenditures, this particular estimate does not impact the primary account or the budget deficit.
+
+Siyambalapitiya said the estimates only entail changes to subjects under which existing expenses are categorised.
+
+“The supplementary estimate is merely an adjustment in the allocation of funds within existing budgetary provisions. It does not entail an increase in overall spending or affect the fiscal balance,” Siyambalapitiya added.
+
+...
+
+[Data](articles/dd17c3af.json)
+
+---
+
+### Public Service Commission approves new service constitution for Grama Niladhari Officers
+
+*2024-06-15 01:11:36* · [`dailyftlk`](https://www.ft.lk/news/Public-Service-Commission-approves-new-service-constitution-for-Grama-Niladhari-Officers/56-763117) · `en`
+
+State Minister for Home Affairs Ashoka Priyantha on Thursday announced that the Grama Niladhari Service Constitution has been approved by the Public Service Commission following the approval of the Cabinet Ministers.
+
+He also mentioned that the new constitution allows for necessary amendments.
+
+During the briefing to the media on “Collective Path to a Stable Country” at the Presidential Media Centre, State Minister Ashoka Priyantha said the following:
+
+The Government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralised allocations.
+
+It is important to note that supporting these initiatives is the duty of Government officials. As we fulfil our responsibilities to the people, it is essential that everyone performs their duty.
+
+...
+
+[Data](articles/d435808b.json)
+
+---
+
+### Discussion on “Sri Lanka’s economic security in 2024 – evaluating outlook and risks”
+
+*2024-06-15 01:10:46* · [`dailyftlk`](https://www.ft.lk/news/Discussion-on-Sri-Lanka-s-economic-security-in-2024-evaluating-outlook-and-risks/56-763116) · `en`
+
+The Institute of National Security Studies (INSS) organised a closed-door Round Table Discussion (RTD) on “Sri Lanka’s economic security in 2024 – evaluating the outlook and risks” recently at the Nandimithra Auditorium, Ministry of Defence. Defence Secretary General Kamal Gunaratne graced the event as the Chief Guest.
+
+INSS Overlooking Director General and Acting Director (Research) Colonel Nalin Herath warmly received the Chief Guest to the discussion.
+
+INSS, the premier think tank on national security established and functioning under the Ministry of Defence organised the RTD which brought together esteemed voices to deliberate on pressing thematic issues.
+
+...
+
+[Data](articles/fb042dc7.json)
+
+---
+
+### President meets SAARC Secretary General
+
+*2024-06-15 01:10:13* · [`dailyftlk`](https://www.ft.lk/news/President-meets-SAARC-Secretary-General/56-763115) · `en`
+
+President Ranil Wickremesinghe this week met with SAARC Secretary General Golam Sarwar in Colombo. The meeting focused on addressing issues related to various projects among SAARC countries, with the President urging impartial intervention from the Secretary General. The discussion also covered the country’s agricultural modernisation program and explored potential support from SAARC member nations. Additionally, the development of the SAARC Cultural Centre for Modern Art in Sri Lanka was a key topic of conversation. President’s Secretary Saman Ekanayake and a group of officials were present at the meeting.
+
+◼️
+
+[Data](articles/69a3f5ea.json)
+
+---
+
+### Veterinary policy framework for Sri Lanka takes shape
+
+*2024-06-15 01:09:35* · [`dailyftlk`](https://www.ft.lk/news/Veterinary-policy-framework-for-Sri-Lanka-takes-shape/56-763114) · `en`
+
+Key initiative via joint effort of JICA Sri Lanka office and Department of Animal Production and Health
+
+Japan International Cooperation Agency (JICA) collaborated with the Department of Animal Production and Health to host a joint seminar and workshop for the formulation of the veterinary policy framework which will be laying the platform to guide holistic approach to livestock sector development in Sri Lanka.
+
+High-level officials from the Ministry of Agriculture and Plantation Industries, Central and Provincial Department of Animal Production and Health, private sector leaders, development partners active in livestock sector, and representative members of Sri Lanka Veterinary Association.
+
+...
+
+[Data](articles/b8159de1.json)
+
+---
 
 ### The telephone is ready to be the general candidate
 
@@ -105,6 +327,8 @@ From 3 to 13 June 2024, the 60th sessions of the Subsidiary Bodies (SB60) to the
 ...
 
 [Data](articles/ab023226.json)
+
+[Extended Data](ext_articles/ab023226.ext.json)
 
 ---
 
@@ -2041,307 +2265,5 @@ The comments of MP Mahindananda Aluthgamage explained in this regard,
 [Data](articles/93e46ffa.json)
 
 [Extended Data](ext_articles/93e46ffa.ext.json)
-
----
-
-### IMF has no problem with election
-
-*2024-06-14 10:48:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலால்-IMFக்கு-எந்தப்-பிரச்சினையும்-இல்லை/175-338895) · `ta`
-
-The IMF has no issues with holding elections in Sri Lanka but warns that it may impact the timing of its program. A new schedule would need to be discussed with local authorities.
-
-🟩
-
-The International Monetary Fund has no problem in conducting elections in Sri Lanka, said Peter Brever, senior leader of the International Monetary Fund's Sri Lanka Fund.
-
-He added that if the election is held in Sri Lanka, it will affect the time of the International Monetary Fund program and that the new schedule should be prepared in consultation with the relevant authorities.
-
-He was speaking at a special media conference run by Sri Lankan representatives of the International Monetary Fund. Remble
-
-◼️
-
-[Data](articles/261c3ac8.json)
-
-[Extended Data](ext_articles/261c3ac8.ext.json)
-
----
-
-### Vehicular movement limited near Kohuwala intersection
-
-*2024-06-14 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99870/vehicular-movement-limited-near-kohuwala-intersection) · `en`
-
-Vehicular movement will be limited near the Kohuwala intersection from tomorrow (15), due to ongoing construction work of the Kohuwala flyover.
-
-The construction work is expected to last for two months. Thus, motorists are advised to use alternate routes to avoid inconveniences during this period.
-
-Additionally, the entry of heavy vehicles traveling towards the Kohuwala Bridge has been temporarily halted, according to police.
-
-◼️
-
-[Data](articles/da98c566.json)
-
-[Extended Data](ext_articles/da98c566.ext.json)
-
----
-
-### Sri Lanka rupee trades weaker at 303.90/304.05 to US dollar
-
-*2024-06-14 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-weaker-at-303-90-304-05-to-us-dollar-167972/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 303.90/304.05 to the US dollar on Friday first hour trading, while bond yields were broadly stable, and stocks opened 0.21 percent down, dealers said.
-
-In equities, Colombo’s All Share Price Index fell 57.80 points during morning trade to 12,302 while the S&P SL20 of more liquid stocks was down 0.90 percent or 33.07 points to 3,637.
-
-In the secondary market, yields were broadly stable, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.10/25 percent, up from 10.00/30 percent.
-
-A bond maturing on 15.10.2027 was quoted at 10.60/70 percent down from 10.60/75 percent.
-
-A bond maturing on 01.07.2028 was quoted at 11.05/20 percent, up from 11.00/15 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.80/85 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.80/90 percent down from 11.85/12.05 percent.
-
-A bond maturing on 01.10.2032 was quoted at 11.97/12.03 percent from 11.95/12.15 percent.
-
-◼️
-
-[Data](articles/cd10b97e.json)
-
-[Extended Data](ext_articles/cd10b97e.ext.json)
-
----
-
-### Man arrested for bribes
-
-*2024-06-14 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197742) · `si`
-
-A man from Hiriyala was arrested for bribery and possession of alcohol in the Thalamalgama Police Division. He attempted to turn himself in but was instead detained.
-
-🟩
-
-A person who was attempting to be arrested at the police station at the police station at the police station
-
-The suspect is a resident of Hiriyala, Hiriyala.
-
-The arrested for possessing alcohol has been arrested in the Thalamalgama Police Divisions and two Twenty-eight year old and twenty-eight year old residents of Kumbukulwana Oya.
-
-◼️
-
-[Data](articles/200cb1c2.json)
-
-[Extended Data](ext_articles/200cb1c2.ext.json)
-
----
-
-### Chamari is ECC. Award
-
-*2024-06-14 10:18:00* · [`adalk`](https://www.ada.lk/sports/චමරිට-අයි-සී-සී--සම්මානයක්/9-410210) · `si`
-
-Sri Lanka Cricket leader Atapattu, previously recognized in September, has been elected Player of the Month by the International Cricket Council for May. This honor comes for her outstanding performance during the Women's Twenty20 World Cup tournament eligibility period.
-
-🟩
-
-Sri Lanka Cricket Leader Atapattu has been elected as playlier in the month of the International Cricket Council for May.
-
-She was earlier in September, and she has won the award.
-
-She was awarded due to the performance of the tournament to be eligible for the Women's Twenty20 World Cup.
-
-◼️
-
-[Data](articles/49ef0c8f.json)
-
-[Extended Data](ext_articles/49ef0c8f.ext.json)
-
----
-
-### Upcoming election will be pivotal in determining country’s future trajectory – President
-
-*2024-06-14 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99869/upcoming-election-will-be-pivotal-in-determining-countrys-future-trajectory-president) · `en`
-
-President Ranil Wickremesinghe emphasized that he has not deviated from the principles of the democratic socialist system in Sri Lanka.
-
-He noted that two key objectives have been incorporated, ensuring that all citizens have an adequate standard of living and promoting rapid development across the country through public and private economic activities aimed at social objectives and the public good.
-
-President Wickremesinghe highlighted that the recently submitted Economic Transformation Bill is designed to achieve these ambitious goals within the framework of the constitution. He asserted that this legislation underscores his adherence to constitutional principles, thereby countering any accusations of unconstitutional actions.
-
-The President made these remarks during his keynote address at the inaugural session of the 45th “SAARCFINANCE” Governors’ Meeting and Symposium held Thursday (13) at the Hilton Hotel, Colombo.
-
-...
-
-[Data](articles/ae14de8c.json)
-
-[Extended Data](ext_articles/ae14de8c.ext.json)
-
----
-
-### 150 wild elephants die in five months
-
-*2024-06-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186044) · `ta`
-
-Over five months, 150 wild elephants perished from escalating human-wildlife conflict, with 488 elephants and 184 humans dying in total in 2023 due to such incidents.
-
-🟩
-
-In the last five months, 150 wild elephants have died due to the rising conflicts between human and wildlife in the country.
-
-According to the Department of Safety, 28 elephants, 21 elephants, 21 elephants, 13 elephants, 2 elephants, 2 elephants, 3 elephants, a road accident, 7 elephants, 7 elephants and other accidents.
-
-488 elephants died due to conflicts between humans and elephants in 2023. Meanwhile, 184 people have died.
-
-◼️
-
-[Data](articles/f2161f52.json)
-
-[Extended Data](ext_articles/f2161f52.ext.json)
-
----
-
-### Sri Lanka to revise SDP Act with rules-based exemptions
-
-*2024-06-14 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-sdp-act-with-rules-based-exemptions-167974/) · `en`
-
-ECONOMYNEXT – Sri Lanka will bring changes to a Strategic Development Act to limit discretionary tax breaks, an International Monetary Fund report said.
-
-Giving tax breaks to some implies higher taxes on others, the report said. Sri Lanka’s current crisis stemmed in part from tax cuts made for macroeconomic policy.
-
-The SDP Act through its discretionary tax breaks have come under fire for being open to corruption.
-
-“The authorities committed to refrain from new tax exemptions, incentives, and from approving new projects under the SDP,” the report said.
-
-“They will submit amendments to the SDP Act introducing transparent, rules-based eligibility criteria for granting time-bound incentives to Parliament by end-February 2025.”
-
-Under the SDP Law not only is corporate tax exemptions given, but also value added and tax and in an unusual situation, senior management are exempt from taxes.
-
-...
-
-[Data](articles/b493d758.json)
-
-[Extended Data](ext_articles/b493d758.ext.json)
-
----
-
-### People will be turmoil if the elections are lost - Ira Sanakian
-
-*2024-06-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186042) · `ta`
-
-Ira Sanakian warns of societal unrest if the elections are lost, despite economic challenges like high electricity bills and fuel prices. He discusses the political landscape in Sri Lanka, including the potential extension of the president's term with a two-thirds majority in Parliament. Sanakian criticizes the government's purchase of MPs' support and expresses concern over the delay in local and provincial council elections, which he argues undermines democracy. He hopes for a new government and economic recovery but fears public dissatisfaction if the elections do not proceed smoothly.
-
-🟩
-
-Even though electricity bills and fuel prices are defective. In this case. Parliamentarian R. Sanakian said.
-
-Comments on the presidential election, holding a public referendum, are currently speaking in the political arena. He was responding to a question by journalists in Kaluta in Batticaloa on Thursday evening (13).
-
-In accordance with the political system of Sri Lanka, it is the case if the two -thirds majority in Parliament is to extend the term of the president for a period of one year.. We have heard a vomiting of the presidential negotiations among the parliamentarians, the presidency of Parliament for the first time, the president who has been elected to Parliament for the first time, if the President has been given a two -thirds majority for the first time.
-
-According to the political system, we were told that the parliament and the president's term were extended by a further year.
-
-...
-
-[Data](articles/95a664a9.json)
-
-[Extended Data](ext_articles/95a664a9.ext.json)
-
----
-
-### Unidentified body meets
-
-*2024-06-14 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197741) · `si`
-
-A man's unidentified body was discovered on the shore of the Kalutara North police division. The body, described as thin and measuring 5 feet 5 inches tall, was found after receiving emergency calls. It was dressed in a t-shirt and had long hair. The body is now at the Nagoda hospital morgue awaiting identification.
-
-🟩
-
-The body of a man who had piled up in the shore of the Kalutara North police division has been found in the coast.
-
-Police said the body was found yesterday (13) on information received by police emergency calls.
-
-The deceased is a thin blower of five feet 5 feet and two inches with two feet.
-
-It is said that the hair is about 4 inches and the upper beyond a woman. T-shirts (T-shirt).
-
-The body is placed at the Nagoda hospital morgue and the identity of the victim has not yet been revealed.
-
-◼️
-
-[Data](articles/6e1e3301.json)
-
-[Extended Data](ext_articles/6e1e3301.ext.json)
-
----
-
-### Inquiries have begun
-
-*2024-06-14 09:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தீவிர-விசாரணைகள்-ஆரம்பிக்கப்பட்டுள்ளன/71-338894) · `ta`
-
-A violent gang attacked the home of journalist Thambichurai Pradeepan in Achchuveli, damaging property and setting it ablaze. The motive remains unclear as pamphlets against misleading transgenders were found inside. Police from four groups, along with forensic specialists, are investigating, focusing on fingerprints and evidence collection.
-
-🟩
-
-Four police groups operating under the Northern Provincial Police Inspector General of Police have set up an arrest of the culprits in accordance with the Northern Province Governor's work in connection with the attack on an unidentified person in the Jaffna -Achchuveli journalist's house.
-
-A five -man violent gang on two motorcycles launched a motorcycle at around 12.15 am yesterday (13) at the house of Journalist Thambichurai Pradeepan in the Achchuveli, Pathamani Kali Temple area.
-
-Vehicles and property, including motorcycle and three -wheeler outside the house, were attacked by weapons and set fire to it.
-
-The pamphlets printed on "do not mislead transgender" were put in the house where the attacked.
-
-Achchuveli police are investigating the incident as the cause of the attack is unknown. Following this, the Forensic Division of the Police arrived at the scene and collected traces.
-
-...
-
-[Data](articles/daaf5417.json)
-
-[Extended Data](ext_articles/daaf5417.ext.json)
-
----
-
-### IMF stance on Sri Lanka's election
-
-*2024-06-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197740) · `si`
-
-The IMF supports democracy worldwide but notes that elections in Sri Lanka could impact its programs there.
-
-🟩
-
-The International Monetary Fund (IMF) has said that the International Monetary Fund does not have a problem in the holding in Sri Lanka.
-
-He points out that the International Monetary Fund is respectful to democracy in any country.
-
-If an election in Sri Lanka is held, it will be affecting the IMF program.
-
-He was speaking at a special press conference on Sri Lanka's second assessment and the second assessment of the comprehensive loan facility for Sri Lanka and the International Monetary Fund.
-
-The news discussion was held at the Sri Lanka Head of the International Monetary Fund.
-
-◼️
-
-[Data](articles/1d633547.json)
-
-[Extended Data](ext_articles/1d633547.ext.json)
-
----
-
-### Ex-diplomat slams govt’s handling of external debt restructuring process
-
-*2024-06-14 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99868/ex-diplomat-slams-govts-handling-of-external-debt-restructuring-process-) · `en`
-
-The former Sri Lankan Permanent Representative to the United Nations in Geneva, Dr. Dayan Jayatilleka says that Sri Lanka could have struck a better deal with the International Monetary Fund (IMF), if the island nation went to the international lender as a bipartite team consisting of both government and opposition parties.
-
-While joining Ada Derana’s current Affairs Programme ‘At HydePark’ this afternoon (13), Dr. Jayatilleka alleged that the government is not handling the external debt restructuring process in the best way possible.
-
-He further highlighted that the leaders of the country have managed Sri Lanka in such a way that it is now unable to be completely immune to external pressure when taking internal policy decisions.
-
-Commenting on the upcoming election, Dr. Jayatilleka said that Sri Lanka needs a leader with a popular mandate and that the country requires a generational shift in leadership in order to move forward.
-
-...
-
-[Data](articles/67de1707.json)
-
-[Extended Data](ext_articles/67de1707.ext.json)
 
 ---

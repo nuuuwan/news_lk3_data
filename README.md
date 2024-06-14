@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 12:52:31**
+As of **2024-06-14 13:05:38**
 
 ## Newspaper Stats
 
-*Scraped **30,360** Articles*
+*Scraped **30,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,758
 dailyftlk | 1,846
-adalk | 2,615
+adalk | 2,616
 adaderanalk | 3,438
-tamilmirrorlk | 3,552
+tamilmirrorlk | 3,553
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
@@ -26,27 +26,55 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,359 (100.0%) of 30,360 articles have been extended.
+30,360 (100.0%) of 30,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### கணவனுக்கு தெரியாமல் கர்ப்பம்:  அதிர்ச்சி கொடுத்த பெண்
+### மருத்துவத் துறை மாணவன்  நீரில் மூழ்கி பரிதாப மரணம்
+
+*2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-நீரில்-மூழ்கி-பரிதாப-மரணம்/175-338904) · `ta`
+
+காரைதீவைச் சேர்ந்த  சிவகரன் அக்சயன் (வயது 20) என்ற மாணவன் வெள்ளிக்கிழமை (14) காலை நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தார்.
+
+சிவகரன் ஜீவரஞ்சனி தம்பதியினரின் ஒரேயொரு பிள்ளை அக்சயன் ஆவார். காரைதீவு விபுலானந்தா மத்திய கல்லூரியில் இம்முறை மருத்துவத் துறைக்கு தெரிவான இரண்டு மாணவர்களுள் அக்சயன் ஒருவராவார்.
+
+இவர் அண்மையில் வெளியான G.C.E A/L 2023 (2024) பரீட்சையில் சித்திபெற்று மாவட்டத்தில் 23 வது இடத்தில் மருத்துவ துறைக்கு தெரிவாகி யிருந்தார்.
+
+அவர் தனது குடும்பத்தோடு மூன்று நாட்களுக்கு முன்பு உகந்த மலை முருகன் ஆலயத்துக்கு சென்று அங்கு தரித்துவிட்டு  வெள்ளிக்கிழமை (14) காலை வரும்பொழுது பொத்துவில் மற்றும் லாகுகலைக்கிடையிலுள்ள  நீலகிரி ஆற்றிலே நீராடிய போது மூழ்கி மரணமானார்.
+
+அவரது பூதவுடல் மேலதிக விசாரணை மற்றும் பிரேத பரிசோதனைக்காக லாகுகலை வைத்திய சாலையில் வைக்கப்பட்டுள்ளது.
+
+மருத்துவ துறைக்கு தெரிவான எஸ்.அக்சயன் நீரில் மூழ்கி உயிரிழந்தார் செய்தி காட்டுதீ போல் பரவியது. முழுக் காரைதீவு பிரதேசமே சோகத்தில் மூழ்கியுள்ளது.
+
+◼️
+
+[Data](articles/057c26e3.json)
+
+---
+
+### Pregnancy without knowing her husband: shocked woman
 
 *2024-06-14 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனுக்கு-தெரியாமல்-கர்ப்பம்-அதிர்ச்சி-கொடுத்த-பெண்/175-338902) · `ta`
 
-தன்னுடைய கணவன் மற்றும் குடும்பத்தினருக்கு தெரியாமல் கர்ப்பமாக இருந்த பெண்ணொருவர், குடும்பத்தினருக்கே அதிர்ச்சி கொடுத்துள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+A shocking incident occurred when Sujatha, from Kerala's Idukki district, gave birth alone and then lost her newborn due to drowning. She was hospitalized for severe bleeding, revealing the tragic circumstances of her baby's death.
 
-கேரள மாநிலம் இடுக்கி மாவட்டம் தொடுபுழா கரிமண்ணூரைச் சேர்ந்த சுஜாதா என்ற பெண்ணுக்கு கடந்த 10ம் திகதி இரவு குழந்தை பிறந்துள்ளது. பிறந்த உடனே குழந்தையை வாளி நீரில் மூழ்கி கொலை செய்துள்ளார். அதனை தொடர்ந்து சுஜாதா அதீத ரத்தப் போக்கின் காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+🟩
 
-அங்கு அவருக்கு சிகிச்சை அளிக்கப்பட்டது. அதன்பின்னர் சுஜாதாவிடம் மருத்துவர்கள் விசாரித்த போது, குழந்தை பிறந்தவுடன் இறந்து விட்டதாகத் தெரிவித்தார். இதையடுத்து சம்பவம் குறித்து தகவலறிந்து வந்த பொலிஸார் நடத்தினர்.
+There has been an incident that shocked her family, a woman who was pregnant without her husband and family.
 
-அங்கு அவருக்கு சிகிச்சை அளிக்கப்பட்டது. அதன்பின்னர் சுஜாதாவிடம் மருத்துவர்கள் விசாரித்த போது, குழந்தை பிறந்தவுடன் இறந்து விட்டதாகத் தெரிவித்தார். இதையடுத்து சம்பவம் குறித்து தகவலறிந்து வந்த பொலிஸார் நடத்தினர்.
+Sujatha, a woman from Thodupuzha Karimannur, Idukki district of Kerala, was born on the night of the 10th of last night.. Immediately after birth, the child drowned and murdered. Subsequently, Sujatha was admitted to the hospital due to extreme bleeding.
+
+Where he was treated. When doctors inquired about Sujatha, he said that the baby died after birth. Subsequently, the police carried out information about the incident.
+
+Where he was treated. When doctors inquired about Sujatha, he said that the baby died after birth. Subsequently, the police carried out information about the incident.
 
 ◼️
 
 [Data](articles/ae7136ba.json)
+
+[Extended Data](ext_articles/ae7136ba.ext.json)
 
 ---
 
@@ -321,6 +349,22 @@ The arrested for possessing alcohol has been arrested in the Thalamalgama Police
 [Data](articles/200cb1c2.json)
 
 [Extended Data](ext_articles/200cb1c2.ext.json)
+
+---
+
+### චමරිට අයි.සී.සී. සම්මානයක්
+
+*2024-06-14 10:18:00* · [`adalk`](https://www.ada.lk/sports/චමරිට-අයි-සී-සී--සම්මානයක්/9-410210) · `si`
+
+මැයි මාසයට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් නම් කරන මාසයේ ක්‍රිඩිකාව ලෙස ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු තේරී පත්ව තිබේ.
+
+ඇය මීට පෙර එම සම්මානය සැප්තැම්බර් මාසයේදී හිමිකර ගත් අතර මේ වන විට ඇය දෙවතාවක් එම සම්මානයෙන් පිදුම්  ලැබ තිබේ.
+
+කාන්තා විස්සයි20 ලෝක කුසලාන තරගාවලිය වෙනුවෙන් සුදුසුකම් ලැබීමට  පැවැති තරගාවලියේදී ඇය දැක්වූ දක්ෂතා හේතුවෙන් ඇයට මෙම සම්මානය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/49ef0c8f.json)
 
 ---
 
@@ -2179,55 +2223,5 @@ Police said the two -wheelers were severely damaged.
 [Data](articles/baac75ae.json)
 
 [Extended Data](ext_articles/baac75ae.ext.json)
-
----
-
-### Wasp nests removed near the Ella Arch Bridge
-
-*2024-06-13 19:00:51* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ආරුක්කු-නමය-පාලම-අසල-බඹර-කූඩු-ඉවත්-කෙරේ/11-410203) · `si`
-
-A special program will remove wasp nests near the Ella Arch Bridge, involving several departments including Archaeology and Survey. A safety booth is planned to protect against sudden attacks. This initiative aims to ensure the safety of visitors to this popular destination.
-
-🟩
-
-The Ella Pragine Secretary Indika Gayan Pathiran said that a special program will be implemented in the process of providing the scale of wasps near the bridge near the bridge of the Falls.
-
-He said the Railway Department will be implemented by the Department of Archeology and the Survey Organization, the Department of Archeology and the Skin Development Organization under the coordination of the Ella Divisional Secretariat.
-
-He said that he had also planned to create a safety booth to protect the sudden wasp a coordination.
-
-The famous destination of the Arch Bridge and the Divisional Secretaries have to be hospitalized.
-
-◼️
-
-[Data](articles/4a8a2c15.json)
-
-[Extended Data](ext_articles/4a8a2c15.ext.json)
-
----
-
-### Station Masters prepared for trade union action
-
-*2024-06-13 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197725) · `si`
-
-The Station Masters Association plans a professional program due to concerns over promotion methods. They aim to reach a resolution by tomorrow at 2:00 pm regarding injustices faced by certain promotions. The association highlights unaddressed issues from previous agreements and expresses hope for immediate problem-solving through negotiation.
-
-🟩
-
-The Station Masters Association has decided to take a professional program based on several demands including issues in the promotion methodology.
-
-The Association says that a prompt trade procedure will be reached tomorrow (14) at 2.00 pm on his demands.
-
-The OICs' Association points out that there has been severe injustice to promoted five years for the five-year grades of Grade OIC of the same service.
-
-They say that the agreement has not been implemented in several occasions to settle this situation.
-
-Stades of the Statistics Association further stated that although the authorities are immediately resolved for the problems of the parties that come to solutions through negotiations.
-
-◼️
-
-[Data](articles/c467a410.json)
-
-[Extended Data](ext_articles/c467a410.ext.json)
 
 ---

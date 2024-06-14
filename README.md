@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 15:34:39**
+As of **2024-06-14 15:53:09**
 
 ## Newspaper Stats
 
-*Scraped **30,380** Articles*
+*Scraped **30,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 3,442
 tamilmirrorlk | 3,556
 virakesarilk | 4,662
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,895
+adaderanasinhalalk | 4,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,376 (100.0%) of 30,380 articles have been extended.
+30,380 (100.0%) of 30,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවට දුන් පණිවුඩය
+
+*2024-06-14 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197753) · `si`
+
+මෙරට මැතිවරණයක් ප්‍රකාශයට පත්කළ පසු ඊට අනුකූලව සිය විස්තීර්ණ ණය වැඩසටහනේ කාලසටහන සකස් කරගැනීම පිළිබඳව බලධාරීන් සමග සාකච්ඡා කරන බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+
+ශ්‍රී ලංකාවේ ණය වැඩසටහනේ තුන්වැනි වාරිකය මුදාහැරීමෙන් අනතුරුව වොෂින්ටන් නුවර අද පැවති මාධ්‍ය හමුවකදි IMF ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් සඳහන් කළේ ණය වැඩසටහනේ වෙනසක් යෝජනා කරන්නේ නම් ඒවා ප්‍රායෝගික සහ වැඩසටහනේ කාලරාමුව තුළ ළඟා කරගත හැකි විය යුතු බවයි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහාවන විස්තීර්ණ ණය පහසුකම යටතේ එහි තුන් වැනි වාරිකය වන අමෙරිකානු ඩොලර් මිලියන 336ක මුදල මුදාහැරීමට එහි විධායක අධ්‍යක්ෂ මණ්ඩලය තීරණය කළේය.
+
+ඒ අනුව ඒ පිළිබඳව කරුණු දැක්වීමේ ප්‍රවෘත්ති සාකච්ඡාවක් වොෂින්ටන් නුවර ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත මණ්ඩලයේ සහභාගීත්වයෙන් අද පැවැත්වුණි.
+
+පීටර් බෘෘවර් - ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී - ජාත්‍යන්තර මූල්‍ය අරමුදල
+
+...
+
+[Data](articles/813d6c8d.json)
+
+---
+
+### මොනරෙක් මරා ආහාරයට ගන්නා අයුරු වීඩියෝ ගත කළ විදේශිකයා
+
+*2024-06-14 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197752) · `si`
+
+මාඳුරුඔය ජාතික වනෝද්‍යානය තුළ දී විදේශිකයෙකු හා ආදිවාසීන් පස්දෙනෙකු එක්ව මොනරෙකු ඝාතනය කර එම සතාව පුළුස්සා ආහාරයට ගන්නා ආකාරය දැක්වෙන වීඩියෝවක් සම්බන්ධයෙන් අධිකරණයට කරුණු ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/8c6418d4.json)
+
+---
 
 ### South Korea, US warn against North Korea-Russia military ties ahead of Putin visit
 
@@ -48,6 +80,8 @@ Echoing Kim’s concerns, Campbell pledged continued co-operation to tackle pote
 
 [Data](articles/ad692c0e.json)
 
+[Extended Data](ext_articles/ad692c0e.ext.json)
+
 ---
 
 ### US encourages Sri Lanka’s leaders to stay committed to reforms
@@ -61,6 +95,8 @@ Taking to ‘X’ (formerly Twitter), the US envoy said while recognizing that r
 ◼️
 
 [Data](articles/27d22be0.json)
+
+[Extended Data](ext_articles/27d22be0.ext.json)
 
 ---
 
@@ -82,21 +118,31 @@ According to Ministry of Foreign Affairs, the preceding 12th Round of Bilateral 
 
 [Data](articles/82541ba8.json)
 
+[Extended Data](ext_articles/82541ba8.ext.json)
+
 ---
 
-### “70% சம்பள அதிகரிப்பை எதிர்த்து நீதிமன்றம் செல்வோம்”
+### “Let's go to court against a 70% salary increase”
 
 *2024-06-14 14:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/70-சம்பள-அதிகரிப்பை-எதிர்த்து-நீதிமன்றம்-செல்வோம்/175-338908) · `ta`
 
-தேயிலை மற்றும் இறப்பர் தொழிற்துறை தொழிலாளர்களின் சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் எதுவித அடிப்படியுமின்றி   70% ஆல் உடனடியாக அதிகரிக்கவேண்டும் என்ற சம்பளநிர்ணய சபையின் முடிவுக்கு எதிர்ப்பு தெரிவிப்பதைத் தவிர வேறுவழியில்லை என இலங்கைபெருந்தோட்டமுதலாளிமார் சம்மேளனம் (PA) தெரிவித்துள்ளது.
+The Sri Lanka Plantation Association opposes a 70% salary hike for tea and rubber workers, citing concerns over productivity and global competitiveness. They plan to challenge this decision in court, arguing that such increases could harm the industry's viability and negatively impact Sri Lanka's position in the global tea market.
 
-அத்துடன் இந்தத் தீர்மானத்தை ஏற்றுக் கொள்ள முடியாது எனவும், இந்தத் தீர்மானத்திற்கு எதிராக மேல்முறையீட்டு நீதிமன்றம் மற்றும் உச்சநீதிமன்றத்தில் முறையீடு செய்யவுள்ளதாக சம்மேளனம் தெரிவித்துள்ளது.
+🟩
 
-வியாபாரநிறுவனங்களின் நீடித்த நிலைத்தன்மைக்கும் தொழிலாளர்களின் வாழ்வாதாரத்தை பேணவும் சம்பள அதிகரிப்பு உற்பத்தித்திறனுடன் நெருக்கமாக இணைக்கப்படவேண்டும். என இலங்கை பெருந்தோட்ட முதலாளிமார் சம்மேளனம் (PA) வலியுறுத்தியுள்ளது.
+The Sri Lanka Plantation Association (PA) said that there is no choice but to oppose the decision of the Paying Council to increase the salaries of tea and rubber industrial workers by 70% without any extent.
 
-...
+The Federation said that the resolution would not be accepted and that the appeal would be appealed to the Court of Appeal and the Supreme Court.
+
+The salary increase should be closely connected to the productivity of the businessmen to maintain the livelihood of workers' livelihoods. The Sri Lanka Plantation Employers Federation (PA) has urged.
+
+In all the countries where tea produces, Sri Lanka already has the most expensive production, the largest nomination and the lowest productivity.. In particular, the wages board of the newly announced tea industry has noted that the salaries of workers in the newly announced tea sector will have an impact on the production of Sri Lankan tea in the world market as they are more than double the salaries of workers in India.
+
+◼️
 
 [Data](articles/9bddaa55.json)
+
+[Extended Data](ext_articles/9bddaa55.ext.json)
 
 ---
 
@@ -2153,51 +2199,5 @@ In May, Motie took eight wickets at an average of 8.50 across the three-match se
 [Data](articles/ca90d580.json)
 
 [Extended Data](ext_articles/ca90d580.ext.json)
-
----
-
-### The best player of the ICC in May is Chamari
-
-*2024-06-13 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197731) · `si`
-
-Chamari Atapattu was named the best women's cricketer of May 2024 by the ICC.
-
-🟩
-
-The ICC has been named Chamari Ranpattuwa as the best player of May 2024.
-
-Accordingly, Chamari Atapattu is winning the Women's Player of the month named by the ICC.
-
-◼️
-
-[Data](articles/2dbc4a08.json)
-
-[Extended Data](ext_articles/2dbc4a08.ext.json)
-
----
-
-### Extense that Idaki's vehicle was shot
-
-*2024-06-13 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197730) · `si`
-
-A planned attack targeted former MP Udabha Premaratne's car, causing damage but no injuries. The plot involved an Assistant Superintendent of Police, as revealed by the Police Media Spokesperson. The CID investigation, initiated after the incident, has identified the suspects.
-
-🟩
-
-Police Media Spokesperson DIG Talduwawe has revealed that the shooting of former MP Udabha Premaratne was planned with a Assistant Superintendent of Police.
-
-The Police Media Spokesperson has revealed this today (13).
-
-On September 17, 2023, was aimed at the car of former UNP MP Udi Premaratne's car at the Anuradhapura District MP Uddik Premaratne.
-
-The shooting was damaged by the back of the car, but the MP had not been injured.
-
-The Investigation Criminal Investigations Department (CID) commenced on the shooting was held today, the suspects have been identified.
-
-◼️
-
-[Data](articles/4249e16d.json)
-
-[Extended Data](ext_articles/4249e16d.ext.json)
 
 ---

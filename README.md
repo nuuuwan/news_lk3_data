@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 15:53:09**
+As of **2024-06-14 16:05:32**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 4,897
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,380 (100.0%) of 30,382 articles have been extended.
+30,382 (100.0%) of 30,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවට දුන් පණිවුඩය
+### Message to the International Monetary Fund to Sri Lanka
 
 *2024-06-14 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197753) · `si`
 
-මෙරට මැතිවරණයක් ප්‍රකාශයට පත්කළ පසු ඊට අනුකූලව සිය විස්තීර්ණ ණය වැඩසටහනේ කාලසටහන සකස් කරගැනීම පිළිබඳව බලධාරීන් සමග සාකච්ඡා කරන බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+The IMF has approved releasing $336 million to Sri Lanka as part of its loan scheme, emphasizing the importance of continuing economic reforms and debt restructuring. Despite concerns over upcoming elections potentially affecting agreements, the IMF remains committed to supporting Sri Lanka's economic recovery, adapting to the democratic process.
 
-ශ්‍රී ලංකාවේ ණය වැඩසටහනේ තුන්වැනි වාරිකය මුදාහැරීමෙන් අනතුරුව වොෂින්ටන් නුවර අද පැවති මාධ්‍ය හමුවකදි IMF ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් සඳහන් කළේ ණය වැඩසටහනේ වෙනසක් යෝජනා කරන්නේ නම් ඒවා ප්‍රායෝගික සහ වැඩසටහනේ කාලරාමුව තුළ ළඟා කරගත හැකි විය යුතු බවයි.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහාවන විස්තීර්ණ ණය පහසුකම යටතේ එහි තුන් වැනි වාරිකය වන අමෙරිකානු ඩොලර් මිලියන 336ක මුදල මුදාහැරීමට එහි විධායක අධ්‍යක්ෂ මණ්ඩලය තීරණය කළේය.
+Once an election is published in the country, the International Monetary Fund (IMF) says that conspiring with authorities in accordance with the authorities.
 
-ඒ අනුව ඒ පිළිබඳව කරුණු දැක්වීමේ ප්‍රවෘත්ති සාකච්ඡාවක් වොෂින්ටන් නුවර ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත මණ්ඩලයේ සහභාගීත්වයෙන් අද පැවැත්වුණි.
+After the release of the third installment of the Sri Lankan loan scheme, Washington, Sri Lanka Mission Head of Sri Lanka (Mission) of the IMF Sri Lanka (Mission) of the IMF Sri Lanka Mission Peter Bruver should be able to achieve practical and program.
 
-පීටර් බෘෘවර් - ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී - ජාත්‍යන්තර මූල්‍ය අරමුදල
+The International Monetary Fund has decided to release US $ 336 million to the International Monetary Fund Sri Lanka's 336 million US $ 336 million.
+
+A press conference was held today with the participation of the International Monetary Fund of the International Monetary Fund in Washington.
+
+Peter Broader - Head of Sri Lanka Mission - International Monetary Fund
 
 ...
 
 [Data](articles/813d6c8d.json)
 
+[Extended Data](ext_articles/813d6c8d.ext.json)
+
 ---
 
-### මොනරෙක් මරා ආහාරයට ගන්නා අයුරු වීඩියෝ ගත කළ විදේශිකයා
+### Foreigner who spent a Monae to eat
 
 *2024-06-14 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197752) · `si`
 
-මාඳුරුඔය ජාතික වනෝද්‍යානය තුළ දී විදේශිකයෙකු හා ආදිවාසීන් පස්දෙනෙකු එක්ව මොනරෙකු ඝාතනය කර එම සතාව පුළුස්සා ආහාරයට ගන්නා ආකාරය දැක්වෙන වීඩියෝවක් සම්බන්ධයෙන් අධිකරණයට කරුණු ඉදිරිපත් කර තිබේ.
+A foreigner visiting Menuru Oya National Park was caught on camera killing and eating an animal, leading to legal action.
+
+🟩
+
+In the Menuru Oya National Park, the court has filed a videos on a video showing how to kill the animal and eat.
 
 ◼️
 
 [Data](articles/8c6418d4.json)
+
+[Extended Data](ext_articles/8c6418d4.ext.json)
 
 ---
 
@@ -546,21 +558,17 @@ The announcement states that the examination ticket has been sent to the applica
 
 ---
 
-### Sri Lanka-China bilateral political consultation held in Beijing; policies reviewed
+### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
 
 *2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-bilateral-political-consultation-held-in-beijing-policies-reviewed-167992/) · `en`
 
-ECONOMYNEXT – An annual bilateral political consultation meeting between top officials of Sri Lanka and China is held in Beijing this week to review some bilateral policies, Sri Lanka’s Foreign Ministry officials said.
+ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
 
-Foreign Secretary Aruni Wijewardane and Acting Director General for East Asia Division Poshitha Perera represented Sri Lanka in the Beijing meeting, officials said.
+“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
 
-“It is an annual event. Basically some review on the bilateral policies take place,” Foreign Minister Ali Sabry told EconomyNext.
+She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
 
-Another official said there was no “unusual topics” reviewed in the meeting.
-
-This year’s consultation meeting comes after a mild hiccup in diplomatic relations between both countries after Sri Lanka banned Chinese research vessels calling at the island nation for research purposes for one year.
-
-The ban came after strong protests by India, which had cited security threats from such research ships, Sri Lanka government officials have said.
+“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
 
 ...
 

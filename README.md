@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 07:23:41**
+As of **2024-06-14 07:47:01**
 
 ## Newspaper Stats
 
-*Scraped **30,319** Articles*
+*Scraped **30,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,431
 tamilmirrorlk | 3,543
 virakesarilk | 4,659
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,880
+adaderanasinhalalk | 4,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,306 (100.0%) of 30,319 articles have been extended.
+30,306 (100.0%) of 30,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### කොහුවල මංසන්ධිය හරහා යන රියදුරන්ට දැනුම්දීමක්
+
+*2024-06-14 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197737) · `si`
+
+කොහුවල මංසන්ධියේ ඉදිවන ගුවන් පාලමේ ඉදිරි ඉදිකිරීම් කටයුතු හේතුවෙන් හෙට (15) දිනයේ සිට එම මාර්ගයේ වාහන ගමනාගමනය සීමා කිරීමට කටයුතු කරන බව පොලීසිය පවසයි.
+
+මාස 02ක කාලයක් අදාළ ඉදිකිරීමේ කටයුතු සිදුකිරීමට නියමිත බැවින් එම කාලසීමාව තුළදී මාර්ග තදබදය අවම කරගැනීම සඳහා විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය ජනතාවට දැනුම් දෙයි.
+
+අදාළ මාර්ගයේ ගමන් ගන්නා බර වාහන කොහුවල පාලම දෙසට ඇතුල් කිරීම තාවකාලිකව නවතා දමා තිබේ.
+
+◼️
+
+[Data](articles/6db44485.json)
+
+---
 
 ### Retired police officers criticise Ravi and Shani’s support for JVP-led NPP
 
@@ -141,6 +157,18 @@ Prime Group has announced the relocation of its Galle branch to No. 66, Havelock
 ...
 
 [Data](articles/f58df3b7.json)
+
+---
+
+### ශ්‍රී ලංකාව පළමු වටයෙන්ම ඉවතට
+
+*2024-06-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197736) · `si`
+
+2024 T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු වටයෙන්ම ශ්‍රී ලංකාව ඉවතට විසිවී ඇති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිල වශයෙන් ප්‍රකාශයට පත්කර ඇත.
+
+◼️
+
+[Data](articles/65409511.json)
 
 ---
 
@@ -2195,47 +2223,5 @@ Sajith's security forces immediately tapped the camera of the journalists and th
 [Data](articles/bf8aea0e.json)
 
 [Extended Data](ext_articles/bf8aea0e.ext.json)
-
----
-
-### Dengue spreading environment in Jaffna;Case against the trio
-
-*2024-06-13 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185999) · `ta`
-
-In Jaffna, three men were fined Rs 5,000 for failing to prevent dengue spread. They were charged after several cases of dengue were reported, and pleaded guilty in court.
-
-🟩
-
-The three -year -old case has been sentenced to Rs 5,000 in a court case against the three.
-
-During a series of dengue dengue on the Dengue of Dengue, the three were filed against the three men who were diagnosed with dengue kittanges.
-
-The three men who warned the trio were sentenced to 4 thousand 500 rupees after the trio accepted the allegations against them when the case was taken up at the Mallakam Magistrate's Court on Thursday (13).
-
-◼️
-
-[Data](articles/d4207879.json)
-
-[Extended Data](ext_articles/d4207879.ext.json)
-
----
-
-### Sri Lanka discusses legal framework, EOI for nuclear energy: Minister
-
-*2024-06-13 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-discusses-legal-framework-eoi-for-nuclear-energy-minister-167873/) · `en`
-
-ECONOMYNEXT – Sri Lankan officials are discussing the proposed legal framework and expressions of interest for nuclear energy projects in the country, Power and Energy Minister Kanchana Wijesekera has said.
-
-“Discussed the progress of the proposed legal framework on nuclear energy integration, EOI for nuclear energy, technology and technical evaluation, long term generation requirement, safety and policy planning,” Wijesekera said on X (twitter) after a meeting with senior officials of the Atomic Energy Authority and Atomic Energy Board yesterday.
-
-Sri Lanka has given cabinet approval to call for EOIs from suitable investors to establish a nuclear power plant in Sri Lanka, but legal frameworks are required by global agencies before establishing a nuclear power plant in the country.
-
-Late last year, Wijesekara told parliament that several countries including Russia, India, France and the United States had offered to collaborate with Sri Lanka on nuclear technology.
-
-...
-
-[Data](articles/d7c91fb4.json)
-
-[Extended Data](ext_articles/d7c91fb4.ext.json)
 
 ---

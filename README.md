@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 13:34:38**
+As of **2024-06-14 13:53:47**
 
 ## Newspaper Stats
 
-*Scraped **30,368** Articles*
+*Scraped **30,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,616
-adaderanalk | 3,438
-tamilmirrorlk | 3,554
+adaderanalk | 3,439
+tamilmirrorlk | 3,555
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,362 (100.0%) of 30,368 articles have been extended.
+30,368 (100.0%) of 30,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Public Service Commission approves new service constitution for Grama Niladhari Officers
+
+*2024-06-14 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99875/public-service-commission-approves-new-service-constitution-for-grama-niladhari-officers) · `en`
+
+State Minister for Home Affairs, Ashoka Priyantha, announced that the Grama Niladhari Service Constitution has been approved by the Public Service Commission following the approval of the Cabinet Ministers.
+
+He also mentioned that the new constitution allows for necessary amendments.
+
+State Minister Ashoka Priyantha disclosed these details on Thursday (13) during a press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre.
+
+Addressing the media personnel, the state minister further stated that,
+
+The government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralized allocations.
+
+...
+
+[Data](articles/0b2469cb.json)
+
+---
 
 ### Sri Lanka’s JAT binder plant looks to export excess product
 
@@ -48,21 +68,29 @@ The state-of-the-art plant began operations in March at a cost 1,521,256,438 rup
 
 [Data](articles/3623aaf3.json)
 
+[Extended Data](ext_articles/3623aaf3.ext.json)
+
 ---
 
-### விஜேதாசவுக்கு எதிராக தடையுத்தரவு நீடிப்பு
+### Extension extending against Wijeyadasa
 
 *2024-06-14 13:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜேதாசவுக்கு-எதிராக-தடையுத்தரவு-நீடிப்பு/175-338905) · `ta`
 
-நீதியமைச்சர்  விஜேதாச ராஜபக்ச, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுக்கும் வகையில் அவருக்கு விதிக்கப்பட்ட தடையுத்தரவை எதிர்வரும் 28ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மேலதிக மாவட்ட நீதவான் திருமதி சாமரி வீரசூரிய, வெள்ளிக்கிழமை (14) உத்தரவிட்டுள்ளார்.
+Judge Wijeyadasa Rajapaksa banned SLFP leader Mrs. Samari Weerasuriya, citing a petition by MPs including Duminda Dissanayake, Sarath Ekanayake, and Vijayadasa Rajapaksa. The court must submit objections and responses by July 18.
 
-பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க தாக்கல் செய்துள்ள மனுவில், சரத் ​​ஏக்கநாயக்க, கீர்த்தி உடவத்த மற்றும் விஜயதாச ராஜபக்ஷ ஆகியோரை பிரதிவாதிகளாக  குறிப்பிடப்பட்டுள்ளனர்.
+🟩
 
-தடை உத்தரவுக்கு எதிரான தரப்பினரின் ஆட்சேபனைகள் மற்றும் பதில்களை ஜூலை 18 ஆம் திகதி நீதிமன்றத்தில் சமர்ப்பிக்க வேண்டும் என்றும் நீதவான் உத்தரவிட்டுள்ளார்.
+Judge Wijeyadasa Rajapaksa has ordered the ban on the Sri Lanka Freedom Party (SLFP) leader Mrs. Samari Weerasuriya on Friday (14).
+
+In a petition filed by MP Duminda Dissanayake, Sarath Ekanayake, Keerthi Udawatta and Vijayadasa Rajapaksa have been referred to as defendants.
+
+The magistrate has also ordered the court to submit the objections and responses against the ban order on July 18.
 
 ◼️
 
 [Data](articles/fd9412d3.json)
+
+[Extended Data](ext_articles/fd9412d3.ext.json)
 
 ---
 
@@ -94,6 +122,28 @@ S. Aksayan, who was selected for the medical department, died of water. The enti
 
 ---
 
+### மருத்துவத் துறை மாணவன்  பரிதாப மரணம்
+
+*2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-பரிதாப-மரணம்/175-338904) · `ta`
+
+காரைதீவைச் சேர்ந்த  சிவகரன் அக்சயன் (வயது 20) என்ற மாணவன் வெள்ளிக்கிழமை (14) காலை நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தார்.
+
+சிவகரன் ஜீவரஞ்சனி தம்பதியினரின் ஒரேயொரு பிள்ளை அக்சயன் ஆவார். காரைதீவு விபுலானந்தா மத்திய கல்லூரியில் இம்முறை மருத்துவத் துறைக்கு தெரிவான இரண்டு மாணவர்களுள் அக்சயன் ஒருவராவார்.
+
+இவர் அண்மையில் வெளியான G.C.E A/L 2023 (2024) பரீட்சையில் சித்திபெற்று மாவட்டத்தில் 23 வது இடத்தில் மருத்துவ துறைக்கு தெரிவாகி யிருந்தார்.
+
+அவர் தனது குடும்பத்தோடு மூன்று நாட்களுக்கு முன்பு உகந்த மலை முருகன் ஆலயத்துக்கு சென்று அங்கு தரித்துவிட்டு  வெள்ளிக்கிழமை (14) காலை வரும்பொழுது பொத்துவில் மற்றும் லாகுகலைக்கிடையிலுள்ள  நீலகிரி ஆற்றிலே நீராடிய போது மூழ்கி மரணமானார்.
+
+அவரது பூதவுடல் மேலதிக விசாரணை மற்றும் பிரேத பரிசோதனைக்காக லாகுகலை வைத்திய சாலையில் வைக்கப்பட்டுள்ளது.
+
+மருத்துவ துறைக்கு தெரிவான எஸ்.அக்சயன் நீரில் மூழ்கி உயிரிழந்தார் செய்தி காட்டுதீ போல் பரவியது. முழுக் காரைதீவு பிரதேசமே சோகத்தில் மூழ்கியுள்ளது.
+
+◼️
+
+[Data](articles/30ff9e25.json)
+
+---
+
 ### US welcomes IMF approval of Sri Lanka’s second review
 
 *2024-06-14 12:50:00* · [`economynextcom`](https://economynext.com/us-welcomes-imf-approval-of-sri-lankas-second-review-168027/) · `en`
@@ -109,6 +159,8 @@ Chung met State Minister of Finance Shehan Semasinghe in Washington at the IMF S
 ...
 
 [Data](articles/3de76bb3.json)
+
+[Extended Data](ext_articles/3de76bb3.ext.json)
 
 ---
 
@@ -153,6 +205,8 @@ A database on property valuations that includes information such as assessed val
 ...
 
 [Data](articles/14a8d377.json)
+
+[Extended Data](ext_articles/14a8d377.ext.json)
 
 ---
 
@@ -266,6 +320,8 @@ The ban came after strong protest by India, which had cited security threats fro
 
 [Data](articles/671c1ee5.json)
 
+[Extended Data](ext_articles/671c1ee5.ext.json)
+
 ---
 
 ### Sri Lanka’s Sling solar-powered EV battery project wins US award
@@ -283,6 +339,8 @@ Sling Mobility’s collaboration with Uber for food delivery services has demons
 ...
 
 [Data](articles/7d07f82e.json)
+
+[Extended Data](ext_articles/7d07f82e.ext.json)
 
 ---
 
@@ -2155,53 +2213,5 @@ Colombo-13-year-old St. Anthony's Church. The procession is going to be followed
 [Data](articles/5345ca88.json)
 
 [Extended Data](ext_articles/5345ca88.ext.json)
-
----
-
-### Approval of the Public Service Commission to the new service constitution of Grama Niladhari
-
-*2024-06-13 19:46:46* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරීන්ගේ-නව-සේවා-ව්‍යවස්ථාවට-රාජ්‍ය-සේවා-කොමිෂන්-සභාවේ-අනුමැතිය/11-410205) · `si`
-
-The Public Service Commission approved the new service constitution for the Grama Niladhari service, allowing for potential amendments. This move follows the implementation of various projects and the strengthening of the public service, despite initial challenges. The commission's approval supports the government's efforts to enhance rural development and ensure the effective performance of public officers.
-
-🟩
-
-The Ministry of Home Affairs Ashoka Priyantha said that the new service constitution of the Grama Niladhari service was approved by the Public Service Commission.
-
-The new constitution has also been given the opportunity to perform amendments if necessary.
-
-The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the Presidential Media Center today (13).
-
-The government has already implemented several important projects including inheritance and the resources. Also, there have been many development projects that have been stopped in the past. In the village and the city of the village has also commenced through decentralized allocations.. It should be noted that it is the responsibility of public officers to support it. At this point we all must perform our duties at this time we have been able to fulfill the duties of the people.
-
-...
-
-[Data](articles/eaf85b45.json)
-
-[Extended Data](ext_articles/eaf85b45.ext.json)
-
----
-
-### I have never left democratic principles
-
-*2024-06-13 19:44:12* · [`adalk`](https://www.ada.lk/breaking_news/මා-කිසිවිටෙකත්-ප්‍රජාතන්ත්‍රවාදී-මූලධර්මවලින්-ඉවත්-වී-නැහැ/11-410204) · `si`
-
-President Ranil Wickremesinghe emphasizes democratic principles and aims for rapid national development, promising stability and progress. He reiterates the importance of rewriting Sri Lanka's economic policy based on these principles during his keynote address at the Central Bank Editors' Conference. The IMF commends Sri Lanka's efforts towards economic recovery post-December 2023, highlighting the achievement of structural reforms despite delays. Wickremesinghe assures that Sri Lanka will overcome its current challenges more effectively than anticipated, setting a positive outlook for the nation's future.
-
-🟩
-
-President Ranil Wickremesinghe is committed to achieving adequate quality of life in the country and to ensure that all citizens have an adequate quality of life and to achieve rapid development in the entire country.He said.
-
-He said that the two principles were very sufficient to rewrite the economic policy of Sri Lanka.
-
-President Ranil Wickremesinghe said this was commissioned by the main speech of the Central Bank Editors' Conference in the Hilton Hotel in Colombo this morning (13).
-
-The President said that the President also promised to win the government in many countries in the region, and the usual governments should be decided to change the government every five years every five years, or if the country will win every five years, or if the country won, or the country will win..
-
-...
-
-[Data](articles/aee0f05f.json)
-
-[Extended Data](ext_articles/aee0f05f.ext.json)
 
 ---

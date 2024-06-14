@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 13:53:47**
+As of **2024-06-14 14:05:17**
 
 ## Newspaper Stats
 
-*Scraped **30,370** Articles*
+*Scraped **30,372** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 278
 dbsjeyarajcom | 281
-bbccomsinhala | 297
+bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,763
@@ -20,17 +20,37 @@ adaderanalk | 3,439
 tamilmirrorlk | 3,555
 virakesarilk | 4,662
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,890
+adaderanasinhalalk | 4,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,368 (100.0%) of 30,370 articles have been extended.
+30,370 (100.0%) of 30,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### විජයදාස එරෙහිව අධිකරණය දුන් නියෝගය
+
+*2024-06-14 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197746) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීමට වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය  තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (14) නියෝග කළේය.
+
+මෙම නඩුව අද කොළඹ අතිරේක දිසා විනිසුරු චමරි වීරසුරිය මහත්මිය හමුවේ කැඳවූ අවස්ථාවේදී පැමිල්ලිකාර දුමින්ද දිසානායක මහතා වෙනුවෙන් නීතිඥවරයකු පෙනී සිටියේ නැත.
+
+ඒ අනුව අදාළ නියෝගය දීර්ඝ කිරීම සම්බන්ධයෙන් ඉල්ලීමක් ඉදිරිපත් නොවන නිසා එය දීර්ඝ නොකරන බවත් විනිසුරුවරිය සඳහන් කළේය.
+
+එහිදී අදාළ පැමිණිල්ලේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින විජයදාස රාජපක්ෂ සහ සරත් ඒකනායක යන අය වෙනුවෙන් පෙනී සිටි නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් උත්තර හා විරෝධතා ඉදිරිපත් කිරීම සඳහා කල් ලබා දෙන ලෙස ඉල්ලා සිටියේය.
+
+එහෙත් ඉන් අනතුරුව නඩුව යළි කැඳවූ අවස්ථාවේදී පැමිණිල්ලේ නීතිඥවරයා අධිකරණ හමුවේ කරුණු දක්වමින් තමන් වෙනත් නඩු විභාගයකට සහභාගි වී සිටි හෙයින් මෙම නඩුව සඳහා පෙනී සිටීමට නොහැකි වූ බවත් ඒ අනුව නඩුවට අදාළ වාරණ නියෝගය දීර්ඝ ලෙසත් ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/5440a79b.json)
+
+---
 
 ### Public Service Commission approves new service constitution for Grama Niladhari Officers
 
@@ -44,11 +64,13 @@ State Minister Ashoka Priyantha disclosed these details on Thursday (13) during 
 
 Addressing the media personnel, the state minister further stated that,
 
-The government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralized allocations.
+“The government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralized allocations.
 
 ...
 
 [Data](articles/0b2469cb.json)
+
+[Extended Data](ext_articles/0b2469cb.ext.json)
 
 ---
 
@@ -122,25 +144,31 @@ S. Aksayan, who was selected for the medical department, died of water. The enti
 
 ---
 
-### மருத்துவத் துறை மாணவன்  பரிதாப மரணம்
+### Medical department student death
 
 *2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-பரிதாப-மரணம்/175-338904) · `ta`
 
-காரைதீவைச் சேர்ந்த  சிவகரன் அக்சயன் (வயது 20) என்ற மாணவன் வெள்ளிக்கிழமை (14) காலை நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தார்.
+Sivakaran Akshayan, a promising 20-year-old medical department student from Karadivu, tragically drowned in the Nilgiris river while visiting a temple with his family. Selected as one of the top students in the district for the medical field, his sudden death has deeply saddened the community. Further investigations are being conducted at Lakkalai Hospital.
 
-சிவகரன் ஜீவரஞ்சனி தம்பதியினரின் ஒரேயொரு பிள்ளை அக்சயன் ஆவார். காரைதீவு விபுலானந்தா மத்திய கல்லூரியில் இம்முறை மருத்துவத் துறைக்கு தெரிவான இரண்டு மாணவர்களுள் அக்சயன் ஒருவராவார்.
+🟩
 
-இவர் அண்மையில் வெளியான G.C.E A/L 2023 (2024) பரீட்சையில் சித்திபெற்று மாவட்டத்தில் 23 வது இடத்தில் மருத்துவ துறைக்கு தெரிவாகி யிருந்தார்.
+Sivakaran Akshayan (20 years old) from Karadivu died tragically on Friday morning.
 
-அவர் தனது குடும்பத்தோடு மூன்று நாட்களுக்கு முன்பு உகந்த மலை முருகன் ஆலயத்துக்கு சென்று அங்கு தரித்துவிட்டு  வெள்ளிக்கிழமை (14) காலை வரும்பொழுது பொத்துவில் மற்றும் லாகுகலைக்கிடையிலுள்ள  நீலகிரி ஆற்றிலே நீராடிய போது மூழ்கி மரணமானார்.
+Sivakaran is the only child of Jeevaranjani couple Akshayan. Akshayan is one of the two students who have been selected for the medical department at Vipulananda Central College, Karadivu.
 
-அவரது பூதவுடல் மேலதிக விசாரணை மற்றும் பிரேத பரிசோதனைக்காக லாகுகலை வைத்திய சாலையில் வைக்கப்பட்டுள்ளது.
+He was recently released in the G.C.E A/L 2023 (2024) Examination and was selected to the Medical Department in the 23rd place in the district.
 
-மருத்துவ துறைக்கு தெரிவான எஸ்.அக்சயன் நீரில் மூழ்கி உயிரிழந்தார் செய்தி காட்டுதீ போல் பரவியது. முழுக் காரைதீவு பிரதேசமே சோகத்தில் மூழ்கியுள்ளது.
+He went to the Murugan Temple with his family three days ago and died on Friday morning (14) when he drowned in the Nilgiris river in Pottuvil and Lakkalakalai.
+
+His body has been placed on the Lakkalai Hospital for further investigations and autopsy.
+
+S. Aksayan, who was selected for the medical department, died of water. The entire Karadivu region is mired in tragedy.
 
 ◼️
 
 [Data](articles/30ff9e25.json)
+
+[Extended Data](ext_articles/30ff9e25.ext.json)
 
 ---
 
@@ -830,6 +858,24 @@ Watch the Livelihood of the press conference chaired by Senior Head of the Inter
 
 ---
 
+### උද්දික ප්‍රේමරත්න: වෙඩි තැබීමේ සිද්ධිය රංගනයක් ද? කළේ බොරුවක් නම් උද්දිකට කුමක් වෙයි ද?
+
+*2024-06-14 07:49:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0088lej40o) · `si`
+
+උද්දික ප්‍රේමරත්න: වෙඩි තැබීමේ සිද්ධිය රංගනයක් ද? කළේ බොරුවක් නම් උද්දිකට කුමක් වෙයි ද?
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්නට වෙඩි තැබීමේ සිද්ධිය, ඔහු විසින් ම සැලසුම්සහගතව කර ගන්නා ලද්දක් බව මූලිකව තහවුරු වී ඇතැයි පොලිසිය ජූනි 13 වන දා අනාවරණය කළේ ය.
+
+මාධ්‍ය හමුවක් පවත්වමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව ප්‍රකාශ කළේ, මෙය සහකාර පොලිස් අධිකාරීවරයෙකු සමග එක්ව සැලසුම් කර තිබූ බව හෙළි වී ඇති බව ය.
+
+අදාළ සහකාර පොලිස් අධිකාරීවරයා ජූනි 11 වන දා කටුනායක ගුවන් තොටුපළෙන් පිටත්වූ ගුවන් යානයක නැගී මැලේසියාවට ගොස් ඇතැයි වාර්තා වූ බව ය.
+
+...
+
+[Data](articles/cd36b44d.json)
+
+---
+
 ### Notice to drivers going through Kohuwala Junction
 
 *2024-06-14 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197737) · `si`
@@ -1350,9 +1396,9 @@ He pointed out that the view is just any scientific basis.
 
 *2024-06-14 03:31:49* · [`dailyftlk`](https://www.ft.lk/columns/Deshamanya-Dr-Nissanka-Wijeyeratne-A-rare-personality-above-normal-human-frailty/4-763059) · `en`
 
-I have not met Deshamanya Dr. Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his 100th birth anniversary falling on 14 June.
+Among these politicians, Nissanka was a lotus flower that had blossomed high in the waters. Its fragrance was spreading all around. He was straight forward as a civil servant, Water Bearing Official of the Temple of the Sacred Tooth Relic, and a minister in the Government. While holding any of these positions, there were no allegations against him. It is a testimony to his honesty, frankness, and straightforwardness in handling public posts. These are the qualities which Nissanka had left with us
 
-I will focus on two matters. One is his success as the lay custodian of the Temple of the Sacred Tooth Relic of the Buddha known as Diyawadana Nilame in Sinhala which can be directly rendered to English as the Water Bearing Official. The other is his rare display of accountability as the Minister of Justice when there was a jail breakout and prison mutiny leading to the death of two inmates in 1988.
+I have not met Deshamanya Dr. Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his 100th birth anniversary falling on 14 June.
 
 ...
 
@@ -2167,51 +2213,5 @@ Cabinet notice decision had been informed that the staff officers of the Departm
 [Data](articles/c740d8c4.json)
 
 [Extended Data](ext_articles/c740d8c4.ext.json)
-
----
-
-### Request of the Governors of the President
-
-*2024-06-13 19:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආණ්ඩුකාරවරුන්ගෙන්-කළ-ඉල්ලීම/11-410206) · `si`
-
-The President of Sri Lanka, Ranil Wickremesinghe, emphasized the importance of governors aiding the government's efforts to benefit the public during a meeting with provincial governors. He highlighted the need for efficient implementation of mobile services and the responsibility of Divisional Secretaries to ensure people receive these benefits. The Minister of Education announced plans to address teacher shortages, particularly in subjects like science, mathematics, and technology, by recruiting 2,100 new teachers based on Advanced Diploma Examination results. Additionally, the President discussed the Presidential Scholarship Program, which aims to provide financial support to children from low-income families, with 16,152 scholarships allocated for the Western Province and 10,000 for the Northern Province. These scholarships will offer monthly stipends of Rs. 3,000.
-
-🟩
-
-Presentation of Scholarships from the Presidential Fund begins today. President Ranil Wickremesinghe said that the governors should interfere with the benefit of the government to the public and provide the benefits to the people.
-
-The President made these comments at the Presidential Secretariat yesterday (12) with the governors of the provinces.
-
-The inheritance was also discussed as well as the proficiency of the teachers at the provincial level.
-
-The President pointed out that the heritage freeholds to efficiently efficiently implement mobile services and implement mobile services.
-
-President Ranil Wickremesinghe also recalled the responsibility of the Divisional Secretaries to encourage the people to provide the benefits to them.
-
-Minister of Education Dr. Susil Premajayantha said that the government is committed to expedite the shortage of teachers at the provincial level, "he said.
-
-...
-
-[Data](articles/3ce59fbd.json)
-
-[Extended Data](ext_articles/3ce59fbd.ext.json)
-
----
-
-### St. Anthony's Temple, Kochchikadai, Colombo
-
-*2024-06-13 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/186029) · `ta`
-
-St. Anthony's Church in Kochchikadai, Colombo, hosts a procession annually, followed by a pooja ceremony involving participants.
-
-🟩
-
-Colombo-13-year-old St. Anthony's Church. The procession is going to be followed by the pooja and the participants in the event.
-
-◼️
-
-[Data](articles/5345ca88.json)
-
-[Extended Data](ext_articles/5345ca88.ext.json)
 
 ---

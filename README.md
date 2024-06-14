@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 05:36:57**
+As of **2024-06-14 05:59:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,294 (100.0%) of 30,302 articles have been extended.
+30,302 (100.0%) of 30,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ John Keels PLC commenting on prices realized on June 4 th and 5th 2024 said that
 
 [Data](articles/1c6c9725.json)
 
+[Extended Data](ext_articles/1c6c9725.ext.json)
+
 ---
 
 ### Dialog launches cutting-edge 4G vehicle tracking solution
@@ -59,6 +61,8 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, announced the launch 
 ...
 
 [Data](articles/93dbd302.json)
+
+[Extended Data](ext_articles/93dbd302.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ ISMM signs MoU with Ministry of Industries as part of contribution to national e
 
 [Data](articles/c6c3e0d8.json)
 
+[Extended Data](ext_articles/c6c3e0d8.ext.json)
+
 ---
 
 ### British Council rallies youth to protect world’s oceans
@@ -91,6 +97,8 @@ Questions from youth were focused on how national agencies can work together ins
 ...
 
 [Data](articles/17f854c5.json)
+
+[Extended Data](ext_articles/17f854c5.ext.json)
 
 ---
 
@@ -255,6 +263,8 @@ The ISMM is affiliated to the International Federation of Purchasing and Supply 
 ...
 
 [Data](articles/0d62d85b.json)
+
+[Extended Data](ext_articles/0d62d85b.ext.json)
 
 ---
 

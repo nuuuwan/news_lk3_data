@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 19:04:17**
+As of **2024-06-14 19:19:21**
 
 ## Newspaper Stats
 
-*Scraped **30,415** Articles*
+*Scraped **30,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,647
-economynextcom | 1,763
+economynextcom | 1,768
 dailyftlk | 1,846
 adalk | 2,620
 adaderanalk | 3,446
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,413 (100.0%) of 30,415 articles have been extended.
+30,415 (100.0%) of 30,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Sri Lanka diaspora fund online learning platform to provide education for all ages
+
+*2024-06-14 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-diaspora-fund-online-learning-platform-to-provide-education-for-all-ages-168099/) · `en`
+
+ECONOMYNEXT – Sri Lanka has launched Public Learn, a platform which offers free courses from top universities, to provide those of all ages access to further education.
+
+Operated by Regent Global, Public Learn is been funded by the Sri Lankan diaspora in the UK.
+
+“This aims to transform Sri Lanka’s education and economy which aligns with #Digiecon2030 Mandate of the Ministry of Technology,” minister Kanaka Herath said.
+
+“Whatever the faults of the education system, there are many, but we have still delivered. Now, this will help us make better use of the education system,” President Ranil Wickremesinghe said at the launch.
+
+The initiative aims to provide broad access and accessibility to education Sri Lankans of all ages.
+
+“In a global and competitive world, a skilled and educated populace is crucial,” Former Secretary of State for Education in the United Kingdom Sir Gavin Williamson, said at the launch.
+
+...
+
+[Data](articles/bcfb7697.json)
+
+---
 
 ### Re -explanation for 8 people, including Keheliya
 
@@ -56,33 +78,45 @@ This was stated when the suspects were produced before the court today (14) in c
 
 ---
 
-### විභාග දෙකක ප්‍රතිඵල නිකුත් වෙයි
+### Two exams released
 
 *2024-06-14 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197763) · `si`
 
-විභාග දෙකක ප්‍රතිඵල නිකුත් කර ඇතැයි විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+Results for the Teachers Vidyalaya's 2020/2021 final exam and non-graduate teacher training courses have been announced by Commissioner General of Examinations, Amitith Jayasundara.
 
-නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, ගුරු විද්‍යාල අවසාන විභාගය 2020 / 2021 (2023) සහ උපාධිධාරී නොවන නුපුහුණු ගුරුවරුන් සඳහා පුහුණු පාඨමාලා විභාගය 2022 (2023) හි ප්‍රතිඵල අද (14) නිකුත් කර ඇති බවය.
+🟩
+
+Commissioner General of Examinations, Amitith Jayasundara has said that the results of two examinations have been released.
+
+Issuing a statement, he said that the final examination of the Teachers Vidyalaya is 2020/2021 (2023) and the results of the training courses for non-graduate unknown teachers.
 
 ◼️
 
 [Data](articles/1d29a80a.json)
 
+[Extended Data](ext_articles/1d29a80a.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ඔක්තෝබර් 5 වෙනිදා?
+### Presidential election on October 5th?
 
 *2024-06-14 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197762) · `si`
 
-එළැඹෙන ජනාධිපතිවරණය ඔක්තෝබර් මස 5 වන දින පැවැත්වෙන බව සංචාරක, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+The presidential election in Sri Lanka is scheduled for October 5th, as announced by Minister of Tourism and Youth Fernando. He addressed journalists in Galle, emphasizing progress made in the country and promising intelligence in the upcoming election.
 
-ගාල්ලේ දී මාධ්‍යවේදීන් ඇසූ පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව කියා සිටියේය.
+🟩
 
-කරන්න බැරි බොහෝ දේවල් මේ වනවිට ලංකාව තුළ සිදුකර ඇති බවත්, ඒ පිළිබඳව බුද්ධිමත්ව සිතා ජනාධිපතිවරණයේ දී ජනතාව කටයුතු කරනු ඇතැයි ද අමාත්‍යවරයා පැවසීය.
+Minister of Tourism and Youth Fernando says that the presidential election will be held on October 5, Minister Harin Fernando.
+
+He was responding to a query asking journalists in Galle.
+
+The Minister said that many things that were not done in Sri Lanka have been carried out in Sri Lanka and will be intelligent in the presidential election.
 
 ◼️
 
 [Data](articles/aa5e36e6.json)
+
+[Extended Data](ext_articles/aa5e36e6.ext.json)
 
 ---
 
@@ -436,6 +470,50 @@ A complaint has been lodged with the Kattankudi police and the police are conduc
 
 ---
 
+### Indian FM Jaishankar to visit Sri Lanka this month, to review agreed projects
+
+*2024-06-14 16:12:00* · [`economynextcom`](https://economynext.com/indian-fm-jaishankar-to-visit-sri-lanka-this-month-to-review-agreed-projects-168083/) · `en`
+
+ECONOMYNEXT – Indian External Affairs Minister S. Jaishankar will visit Sri Lanka this month to review ongoing projects between the two neighbours ahead of Prime Minister Narendra Modi’s visit, the island nation’s Foreign Minister said.
+
+Jaishankar’s visit was confirmed when President Ranil Wickremesinghe was in New Delhi last week at Modi’s oath taking as the third term prime minister.
+
+Sri Lanka’s Foreign Minister Ali Sabry said Modi’s invitation to Wickremesinghe shows an indication that India wants to work closely with the neighbours.
+
+“We want to build on that momentum,” Sabry told reporters at a media briefing in Colombo.
+
+“We feel that we want to continue to work with Indians in their investment area, people-to-people contact, tourism, and also connectivity like electricity as well as land and other connectivity areas of sea, air, and other modes of it.”
+
+“I can confirm that external affairs minister of India Dr. Jaishankar is expected to be in Colombo in one of these days in this month.”
+
+...
+
+[Data](articles/17f9676e.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.00/15 to US dollar
+
+*2024-06-14 16:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-15-to-us-dollar-168094/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 304.00/15 to the US dollar on Friday, from 303.85/95 to the dollar the previous day, dealers said. Bond yields were broadly stable.
+
+A bond maturing on 15.12.2026 closed at 10.05/30 percent, up from 10.00/30 percent.
+
+A bond maturing on 15.10.2027 closed at 10.60/80 percent, up from 10.60/75 percent.
+
+A bond maturing on 01.07.2028 closed at 11.05/20 percent, up from 11.00/15 percent.
+
+A bond maturing on 15.09.2029 closed at 11.80/90 percent, up from 11.80/85 percent.
+
+A bond maturing on 01.10.2032 closed at 12.00/10 percent, up from 11.95/12.15 percent. (Colombo/Jun14/2024)
+
+◼️
+
+[Data](articles/0f93978a.json)
+
+---
+
 ### Woman dies after collision with a motorcycle
 
 *2024-06-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197757) · `si`
@@ -487,6 +565,30 @@ It is a cowardly act that carried out these systematic attacks with the napasi t
 [Data](articles/e11e21e7.json)
 
 [Extended Data](ext_articles/e11e21e7.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Hayles Fabric, Dipped Products sees interest
+
+*2024-06-14 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayles-fabric-dipped-products-sees-interest-168080/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.40 percent, or 49.03 points, at 12,310; while the more liquid S&P SL20 Index closed down 0.68 percent, or 24.87 points, at 3,645.
+
+Turnover was 1.2 billion. A large part of this came from capital goods stocks (Rs467mn).
+
+Hayleys Fabric Plc saw the most volumes traded (Rs78mn) in the day. The share closed flat at 44.50.
+
+Dipped Products Plc also attracted interest (Rs74mn). The share closed up at 37.90.
+
+Top contributors to the index included John Keells Holdings Plc (up at 205.00) its subsidiary Asian Hotels and Properties Plc (up at 61.90), and Carson Cumberbatch Plc (up at 295.00).
+
+Some of the bigger banks saw positive interest: Sampath Bank Plc (up at 80.10) and DFCC Bank Plc (up at 78.10), while other banking stocks, including Commercial Bank of Ceylon Plc (down at 108.00) and Hatton National Bank Plc (down at 201.75), closed down or flat in the day.
+
+...
+
+[Data](articles/3c2dbe25.json)
 
 ---
 
@@ -1311,6 +1413,24 @@ She will co-chair the Consultations with Sun Weidong, the vice Minister of Forei
 [Data](articles/671c1ee5.json)
 
 [Extended Data](ext_articles/671c1ee5.ext.json)
+
+---
+
+### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
+
+*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-hold-bilateral-consultation-in-beijing-policies-to-be-reviewed-167992/) · `en`
+
+ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
+
+“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
+
+She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
+
+“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
+
+...
+
+[Data](articles/7951bcc2.json)
 
 ---
 
@@ -2167,105 +2287,5 @@ Sri Lanka bank non-performing loans went up as much as 13 percent, with a combin
 [Data](articles/aabb3b14.json)
 
 [Extended Data](ext_articles/aabb3b14.ext.json)
-
----
-
-### AKD arrives in London
-
-*2024-06-14 06:25:39* · [`dailyftlk`](https://www.ft.lk/news/AKD-arrives-in-London/56-763066) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake was warmly greeted by party supporters and Sri Lankan expatriates upon his arrival at Heathrow Airport in the United Kingdom yesterday. He is slated to speak at a public gathering at Crystal Grand in Slough on 15 June, engaging with the Sri Lankan community during his visit.
-
-◼️
-
-[Data](articles/e16a17bd.json)
-
-[Extended Data](ext_articles/e16a17bd.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-06-14 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197734) · `si`
-
-Today, heavy rains are expected in several regions including the Western, Sabaragamuwa, Northwestern provinces, and Galle and Matara districts. The Department of Meteorology advises caution due to potential showers, thundershowers, especially in the evening or night across the Uva Province and other areas. Strong winds may affect over 40,000 people, prompting the public to prepare for possible damage from wind and lightning strikes.
-
-🟩
-
-Showers will occur in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts today (14).
-
-The Department of Meteorology issues a latest announcement.
-
-Showers or thundershowers will occur at evening or night in the Uva Province.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. Strong winds can also cause over 40,000.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/647731f1.json)
-
-[Extended Data](ext_articles/647731f1.ext.json)
-
----
-
-### Sri Lanka to tax housing in IMF deal, VAT on digital services, services export exemption to go
-
-*2024-06-14 06:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-tax-housing-in-imf-deal-vat-on-digital-services-services-export-exemption-to-go-167914/) · `en`
-
-ECONOMYNEXT – Sri Lanka will impose tax on owner occupied houses, charge value added tax on digital services, and remove exemptions on services exports, under a revised deal agreed with the International Monetary Fund.
-
-The IMF in particular has been pushing a wealth tax claiming it was ‘critical’.
-
-A tax will be imposed on owner-occupied houses on an imputed rent calculation, according to a program agreed with the IMF and approved by its Board on June 12.
-
-The money will be given to Municipal Councils and Pradeshiya Sabhas,
-
-Concerns have been raised about wealth-style taxes which are imposed on assets without any cashflows to pay, in a country where existing and past measures have discouraged house building and costs are prohibitive and unaffordable in part due to currency depreciation.
-
-Valued added tax will be imposed on digital services, as part of a slew of new tax measures.
-
-...
-
-[Data](articles/6ebf6987.json)
-
-[Extended Data](ext_articles/6ebf6987.ext.json)
-
----
-
-### Critique On IMF’s Second Review Under Extended Fund Facility
-
-*2024-06-14 06:01:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/critique-on-imfs-second-review-under-extended-fund-facility/) · `en`
-
-The IMF issued a Press Release No. 24/214 on June 12th completing the Second Review under Extended Fund Facility for Sri Lanka.
-
-The Economy is a system. The way we understand any system might be different. We understand the economy as a system with having cause-and- effect relationship. In such a system as Buddhism preaches nothing will happen without necessary conditions. When we look at the IMF Second Review, economic vulnerabilities just arise not knowing proper causes. Take the very first paragraph of IMF report. It says as follows;
-
-...
-
-[Data](articles/674b59f9.json)
-
-[Extended Data](ext_articles/674b59f9.ext.json)
-
----
-
-### Shivajilingam advocates for Tamil common candidate amid political resistance
-
-*2024-06-14 05:38:22* · [`dailyftlk`](https://www.ft.lk/news/Shivajilingam-advocates-for-Tamil-common-candidate-amid-political-resistance/56-763065) · `en`
-
-Former MP M.K. Shivajilingam says despite resistance from ITAK and TNA, six Northern political parties are willing to support a common candidate
-
-Asserts his readiness to step forward if no other common candidate emerges
-
-Former Illankai Tamil Arasu Kadchi (ITAK) MP M.K. Shivajilingam has urged Tamil political parties and civil society groups in the North to collaborate in supporting a Tamil common candidate for the upcoming Presidential election.
-
-Speaking at a press conference on Tuesday, Shivajilingam addressed recent remarks by Tamil National Alliance (TNA) MP M.A. Sumanthiran, who had dismissed the idea of a Tamil common candidate. Despite this rejection, Shivajilingam emphasised that there is still an opportunity to field such a candidate.
-
-...
-
-[Data](articles/3318af2f.json)
-
-[Extended Data](ext_articles/3318af2f.ext.json)
 
 ---

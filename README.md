@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 15:04:22**
+As of **2024-06-14 15:19:01**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,375 (100.0%) of 30,376 articles have been extended.
+30,376 (100.0%) of 30,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### පාර්ලිමේන්තුවෙන් විශේෂ නිවේදනයක්
+### Parliament
 
 *2024-06-14 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197751) · `si`
 
-පාර්ලිමේන්තුව ජූනි 18 වැනිදා සිට 20 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+The Parliament will convene from June 18 to 20, with specific sessions dedicated to various debates and question times. On June 18, discussions will focus on orders related to the State Land Ordinance and a motion at adjournment time. June 19 will see debates on the Casino Enterprise (Regulatory) Act and allocation for opposition questions. Finally, June 20 will feature debates on the Adjournment Bill and the National Commission for UNESCO, followed by government questions.
 
-පසුගිය ජුනි 6 වැනිදා කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මීට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+🟩
 
-මේ අනුව ජූනි 18 වැනි අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර පෙ.ව. 9.30 සිට පෙ.ව. 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත.
+The Secretary General of Parliament Kushani Rohanadera said that the Parliament will meet on June 18 to 20.
 
-අනතුරුව පෙ.ව. 10.30 සිට ප.ව. 5.00 දක්වා සංචාරක කටයුතු පනත යටතේ අංක 2348/38, 2352/47, 2352/48, 2360/62 සහ 2360/63 දරන අතිවිශේෂ ගැසට් පත්‍රවල පළ කර ඇති නියමයන් පහක්, හිමිකම් ලියාපදිංචි කිරීමේ පනත යටතේ අංක 2308/27 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළ කර ඇති නියෝග, රජයේ ඉඩම් ආඥාපනත යටතේ  නියෝග සහ ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත යටතේ අංක 2373/14 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළකර ඇති නි‍යෝග විවාදයට ගැනීමට නියමිතව ඇත.
+The relevant Parliamentary proceedings have been decided at the Committee on Parliamentary Affairs Transport Affairs held on June 6.
 
-ඉන්පසු ප.ව. 5.00 සිට ප.ව. 5.30 දක්වා සභාව කල් තබන අවස්ථාවේ යෝජනාව (ආණ්ඩු පාර්ශ්වය) විවාදයට ගැනීමට නියමිතව තිබේ.
+Accordingly, Parliament will meet on Tuesday, June 18 at 9.30 am. From 9.30 am. Time for 10:30 is reserved for questions looking for verbal answers.
+
+Then. From 10.30 am to 2:00 pm. 548/38, 2352/47, 2352/48, 2360/62 and 2360/62 and 2360/62, 2360/62 and 2360/62 and 2360/62 and 2360/62 and 2360/62 and 2360/62 published in the Gazette No. 2308/27The orders have been made to debate the orders posted by the Gazette No. 2373/14 under the Convention on the State Land Ordinance under the State Land Ordinance.
+
+Then pm pm. 5:00 pm. Motion at the Adjournment Time (Government) is due to be debated.
 
 ...
 
 [Data](articles/54a1641a.json)
+
+[Extended Data](ext_articles/54a1641a.ext.json)
 
 ---
 
@@ -318,7 +324,7 @@ Where he was treated. When doctors inquired about Sujatha, he said that the baby
 
 *2024-06-14 12:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-tax-imaginary-rents-on-houses-under-imf-deal-168001/) · `en`
 
-ECONOMYNEXT – Sri Lanka will charge taxes on owner occupied and vacant residential houses on imputed or ‘imaginary’ rents from April 2025 on tax hikes under an International Monetary Fund deal after aggressive macroeconomic policy pushed the country into sovereign default.
+ECONOMYNEXT – Sri Lanka will charge taxes on owner occupied and vacant residential houses on imputed or ‘imaginary’ rents from April 2025, under an International Monetary Fund deal after aggressive macroeconomic policy pushed the country into sovereign default.
 
 The imputed rents will be calculated based on a property price register. However there will be an exemption threshold, a report released by after
 
@@ -430,17 +436,17 @@ The announcement states that the examination ticket has been sent to the applica
 
 *2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-bilateral-political-consultation-held-in-beijing-policies-reviewed-167992/) · `en`
 
-ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China is held in Beijing this week with the review of some bilateral policies , |Sri Lanka’s Foreign Ministry officials said.
+ECONOMYNEXT – An annual bilateral political consultation meeting between top officials of Sri Lanka and China is held in Beijing this week to review some bilateral policies, Sri Lanka’s Foreign Ministry officials said.
 
 Foreign Secretary Aruni Wijewardane and Acting Director General for East Asia Division Poshitha Perera represented Sri Lanka in the Beijing meeting, officials said.
 
 “It is an annual event. Basically some review on the bilateral policies take place,” Foreign Minister Ali Sabry told EconomyNext.
 
-Another official said there was nothing “unusual topics” reviewed in the meeting.
+Another official said there was no “unusual topics” reviewed in the meeting.
 
-This year’s consultation meeting comes after a milk hiccup in diplomatic relations between the both countries after Sri Lanka banned Chinese research vessels calling the island nation for research purposes for one year.
+This year’s consultation meeting comes after a mild hiccup in diplomatic relations between both countries after Sri Lanka banned Chinese research vessels calling at the island nation for research purposes for one year.
 
-The ban came after strong protest by India, which had cited security threats from such research ships, Sri Lanka government officials have said.
+The ban came after strong protests by India, which had cited security threats from such research ships, Sri Lanka government officials have said.
 
 ...
 

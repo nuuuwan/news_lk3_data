@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 13:05:38**
+As of **2024-06-14 13:19:14**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,360 (100.0%) of 30,362 articles have been extended.
+30,362 (100.0%) of 30,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### மருத்துவத் துறை மாணவன்  நீரில் மூழ்கி பரிதாப மரணம்
+### Medical department student drowned in a miserable death
 
 *2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-நீரில்-மூழ்கி-பரிதாப-மரணம்/175-338904) · `ta`
 
-காரைதீவைச் சேர்ந்த  சிவகரன் அக்சயன் (வயது 20) என்ற மாணவன் வெள்ளிக்கிழமை (14) காலை நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தார்.
+Sivakaran Aksayan, a promising 20-year-old medical department student from Karadivu, tragically drowned in the Nilgiris river, leaving behind his grieving parents. His selection to the medical department at Vipulananda Central College marked a significant achievement, but his life ended in a heartbreaking accident during a visit to the Murugan Temple. His body is now at Lakkalai Hospital for investigation and autopsy, casting a shadow of sorrow over the Karadivu community.
 
-சிவகரன் ஜீவரஞ்சனி தம்பதியினரின் ஒரேயொரு பிள்ளை அக்சயன் ஆவார். காரைதீவு விபுலானந்தா மத்திய கல்லூரியில் இம்முறை மருத்துவத் துறைக்கு தெரிவான இரண்டு மாணவர்களுள் அக்சயன் ஒருவராவார்.
+🟩
 
-இவர் அண்மையில் வெளியான G.C.E A/L 2023 (2024) பரீட்சையில் சித்திபெற்று மாவட்டத்தில் 23 வது இடத்தில் மருத்துவ துறைக்கு தெரிவாகி யிருந்தார்.
+Sivakaran Aksayan (20 years old) from Karadivu died tragically on Friday morning.
 
-அவர் தனது குடும்பத்தோடு மூன்று நாட்களுக்கு முன்பு உகந்த மலை முருகன் ஆலயத்துக்கு சென்று அங்கு தரித்துவிட்டு  வெள்ளிக்கிழமை (14) காலை வரும்பொழுது பொத்துவில் மற்றும் லாகுகலைக்கிடையிலுள்ள  நீலகிரி ஆற்றிலே நீராடிய போது மூழ்கி மரணமானார்.
+Sivakaran is the only child of Jeevaranjani couple Akshayan. Akshayan is one of the two students who have been selected to the medical department at Vipulananda Central College, Karativu.
 
-அவரது பூதவுடல் மேலதிக விசாரணை மற்றும் பிரேத பரிசோதனைக்காக லாகுகலை வைத்திய சாலையில் வைக்கப்பட்டுள்ளது.
+He was recently released in the G.C.E A/L 2023 (2024) Examination and was selected to the Medical Department in the 23rd place in the district.
 
-மருத்துவ துறைக்கு தெரிவான எஸ்.அக்சயன் நீரில் மூழ்கி உயிரிழந்தார் செய்தி காட்டுதீ போல் பரவியது. முழுக் காரைதீவு பிரதேசமே சோகத்தில் மூழ்கியுள்ளது.
+He went to the Murugan Temple with his family three days ago and died on Friday morning (14) when he drowned in the Nilgiris river in Pottuvil and Lakkalakalai.
+
+His body has been placed on the Lakkalai Hospital for further investigations and autopsy.
+
+S. Aksayan, who was selected for the medical department, died of water. The entire Karadivu region is mired in tragedy.
 
 ◼️
 
 [Data](articles/057c26e3.json)
+
+[Extended Data](ext_articles/057c26e3.ext.json)
 
 ---
 
@@ -352,19 +358,25 @@ The arrested for possessing alcohol has been arrested in the Thalamalgama Police
 
 ---
 
-### චමරිට අයි.සී.සී. සම්මානයක්
+### Chamari is ECC. Award
 
 *2024-06-14 10:18:00* · [`adalk`](https://www.ada.lk/sports/චමරිට-අයි-සී-සී--සම්මානයක්/9-410210) · `si`
 
-මැයි මාසයට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් නම් කරන මාසයේ ක්‍රිඩිකාව ලෙස ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු තේරී පත්ව තිබේ.
+Sri Lanka Cricket leader Atapattu, previously recognized in September, has been elected Player of the Month by the International Cricket Council for May. This honor comes for her outstanding performance during the Women's Twenty20 World Cup tournament eligibility period.
 
-ඇය මීට පෙර එම සම්මානය සැප්තැම්බර් මාසයේදී හිමිකර ගත් අතර මේ වන විට ඇය දෙවතාවක් එම සම්මානයෙන් පිදුම්  ලැබ තිබේ.
+🟩
 
-කාන්තා විස්සයි20 ලෝක කුසලාන තරගාවලිය වෙනුවෙන් සුදුසුකම් ලැබීමට  පැවැති තරගාවලියේදී ඇය දැක්වූ දක්ෂතා හේතුවෙන් ඇයට මෙම සම්මානය හිමිව තිබේ.
+Sri Lanka Cricket Leader Atapattu has been elected as playlier in the month of the International Cricket Council for May.
+
+She was earlier in September, and she has won the award.
+
+She was awarded due to the performance of the tournament to be eligible for the Women's Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/49ef0c8f.json)
+
+[Extended Data](ext_articles/49ef0c8f.ext.json)
 
 ---
 

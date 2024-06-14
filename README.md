@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 11:04:37**
+As of **2024-06-14 11:19:16**
 
 ## Newspaper Stats
 
-*Scraped **30,342** Articles*
+*Scraped **30,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,753
 dailyftlk | 1,846
 adalk | 2,614
 adaderanalk | 3,435
-tamilmirrorlk | 3,548
+tamilmirrorlk | 3,550
 virakesarilk | 4,660
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,888
@@ -26,25 +26,61 @@ adaderanasinhalalk | 4,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,339 (100.0%) of 30,342 articles have been extended.
+30,342 (100.0%) of 30,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### පහරදීම ගැන මහින්දානන්ද කිව්ව කතාව
+### 16 நாட்களுக்கு மூடப்படும் மதுபானசாலைகள்
+
+*2024-06-14 10:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-நாட்களுக்கு-மூடப்படும்-மதுபானசாலைகள்/175-338896) · `ta`
+
+ருஹுனு கதிர்காம மகா தேவாலயத்தின் அசெல பெரஹெராவை முன்னிட்டு கதிர்காமம் பிரதேசத்திலுள்ள அனைத்து மதுபானசாலைகளையும் 16 நாட்களுக்கு மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+அதன்படி, ஜூலை 6ஆம் திகதி முதல் ஜூலை 22ஆம் திகதி வரை மதுக்கடைகள் மூடப்படும் என்று தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/37a94ff6.json)
+
+---
+
+### Mahindananda's story about attack
 
 *2024-06-14 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197743) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට එරෙහිව නීතිමය පියවර ගන්නා බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+Mahindananda Aluthgamage, a parliamentarian, announced legal action against MP Gunatilleke Rajapaksa, accusing him of assault.
 
-මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා පෙන්වා දෙන්නේ තමන් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදුන් බවට ඔහු මාධ්‍ය ඔස්සේ අසත්‍ය චෝදනාවක් සිදුකළ බවය.
+🟩
 
-ඒ සම්බන්ධයෙන් පැහැදිලි කරමින් පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා දැක්වූ අදහස් පහතින්,
+Parliamentarian Mahindananda Aluthgamage says that legal action will be taken against MP Gunatilleke Rajapaksa.
+
+The MP of Mahindananda Aluthgamage pointed out that he had accused him that he had assaulted him by Gunatilake Rajapaksa.
+
+The comments of MP Mahindananda Aluthgamage explained in this regard,
 
 ◼️
 
 [Data](articles/93e46ffa.json)
+
+[Extended Data](ext_articles/93e46ffa.ext.json)
+
+---
+
+### தேர்தலால் IMFக்கு எந்தப் பிரச்சினையும் இல்லை
+
+*2024-06-14 10:48:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலால்-IMFக்கு-எந்தப்-பிரச்சினையும்-இல்லை/175-338895) · `ta`
+
+இலங்கையில் தேர்தலை நடத்துவதில் சர்வதேச நாணய நிதியத்திற்கு எந்தப் பிரச்சினையும் இல்லை என சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான பிரதிநிதிகள் குழுவின்  மூத்த தலைவர் பீட்டர் ப்ரூவர் தெரிவித்துள்ளார்.
+
+இலங்கையில் தேர்தல் நடத்தப்பட்டால் அது சர்வதேச நாணய நிதியத்தின் வேலைத்திட்டத்தின் நேரத்தை பாதிக்கும் எனவும், உரிய அதிகாரிகளுடன் கலந்தாலோசித்து புதிய கால அட்டவணையை தயாரிக்க வேண்டும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+இலங்கைக்கான விரிவாக்கப்பட்ட கடன் வசதிக்கான இரண்டாவது மதிப்பீடு தொடர்பான எண்ணங்களை தெரிவிக்கும் சர்வதேச நாணய நிதியத்தின் இலங்கை பிரதிநிதிகள் நடத்தும் விசேட ஊடகவியலாளர் மாநாட்டின் போதே அவர் இதனை தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/261c3ac8.json)
 
 ---
 
@@ -61,6 +97,8 @@ Additionally, the entry of heavy vehicles traveling towards the Kohuwala Bridge 
 ◼️
 
 [Data](articles/da98c566.json)
+
+[Extended Data](ext_articles/da98c566.ext.json)
 
 ---
 
@@ -1488,19 +1526,25 @@ The Netherlands scored the toss and win the bowling first.
 
 ---
 
-### මැරුණත් ’අලියා’ අත්නොහැරි පාක්ෂිකයා
+### The lord of 'elephant' will not give up
 
 *2024-06-13 20:08:37* · [`adalk`](https://www.ada.lk/breaking_news/මැරුණත්-’අලියා’-අත්නොහැරි-පාක්ෂිකයා/11-410208) · `si`
 
-සිය වාසිය බලා පක්ෂය හා පාට මාරුකරන දේශපාලකයන්,අනුගාමිකයන් ඉන්නා අපේ රටේ දශක අටකට වැඩි කාලයක් තිස්සේ තමන් දර දිය ඇද්ද පක්ෂය මරණයේදී පවා ප්ර දර්ශනය කරමින් මිය ගිය අයෙකු පිළිබඳ කරන්දෙණිය මීගස්මිටියෙන් වාර්තා වේ.
+In Megadandeniya, a political figure's death has sparked controversy among party members, including "colored" politicians. The deceased, known as the "lord of elephants," was reportedly involved in a dispute over his remains, with requests made to the UNP for possession. His funeral attire included a single leaf, symbolizing his connection to nature and possibly hinting at environmental concerns.
 
-අන්තිම කැමැත්ත පරිදි තමා මියගිය දා තමා නියෝජනය කළ එක්සත් ජාතික පක්ෂයේ කොළ පාට ඇඳුම්  මළ සිරුරට අන්දවන ලෙස කරන්දෙණිය මීගස්පිටියේ තොම්මයා හකුරු සෝමසිරි මහතා සිය දූදරුවන්ගෙන් ඉල්ලා සිටියේය.
+🟩
 
-ඒ අනුව ඔහු පෙරේදා(12දා) මිය ගිය පසු දේහයට දූදරුවන් ඇන්දවූවේ කොළ පාටින් මැසූ ඇඳුම්ය.තනි කොළ පාටින් ඇදුම් ඇඳ ඊයේ(13) පස්වරුවේදී ඔහු අවසන් ගමන් ගියේ අසූ හතර හැවිරිදි තිදරු පියෙකු තනි අලියෙකු බව පසක් කරමිනි.
+Politicians and colored politicians, followers of the party and the party, who is the party, has been reported from Megadandeniya, who had been deceased.
+
+Duend to the Meegawa Hakaspiri, Dummy Hakaspiri requested the corpse to the body of the UNP.
+
+According to the death he was dressed on Monday (12th), the leafy leafy leaves were aside from a single elephant.
 
 ◼️
 
 [Data](articles/19b8db5c.json)
+
+[Extended Data](ext_articles/19b8db5c.ext.json)
 
 ---
 
@@ -2195,49 +2239,5 @@ Meanwhile, this morning, a train in Panadura has been blocked, and the train is 
 [Data](articles/19dc8ebe.json)
 
 [Extended Data](ext_articles/19dc8ebe.ext.json)
-
----
-
-### Sri Lanka crashes into Florida due to floods
-
-*2024-06-13 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197722) · `si`
-
-Floods in Florida have prevented the Sri Lankan cricket team from leaving for the West Indies, affecting their travel plans. They were scheduled to depart on March 13 but are now delayed until March 14. Their match against the Netherlands in St. Lucia, originally set for June 17, remains unchanged.
-
-🟩
-
-The Sri Lankan cricket team has also been affected by the flourism that influenced the Florida area in the United States.
-
-Accordingly, the Sri Lankan team to leave the West Indies today (13) has not been able to leave Florida due to floods and rain due to the flooding condition and rain.
-
-The Sri Lankan team has to leave the Sri Lankan team to the West Indies on the 14th of tomorrow due to the current situation.
-
-The Sri Lankan team will be held in St. Lucia against the Netherlands on June 17.
-
-◼️
-
-[Data](articles/01c57704.json)
-
-[Extended Data](ext_articles/01c57704.ext.json)
-
----
-
-### Ex-police chief sounds warning over possible violent political uprising
-
-*2024-06-13 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99861/-ex-police-chief-sounds-warning-over-possible-violent-political-uprising) · `en`
-
-Former Inspector General of Police (IGP), Chandra Fernando says that it cannot be expected that the political groups who have engaged in violent political activities in the past will not resume such activities in the future.
-
-He stated this while speaking during a press conference held today (13), with the participation of other retired high-ranking police officers including former IGPs and DIGs.
-
-Fernando further stated that although the government carried out rehabilitation programmes to a large extent after the 1971 insurrection and though everyone believed that the insurrection would end with that, unfortunately, the violence returned in 1989 “destroying lives and properties in the country.”
-
-“We then thought it was all over, but unfortunately, 91 houses were destroyed in one night on the 9th of May, 2022 by an organized group. Therefore when things like this happen, will this not happen in the future as well?” he said.
-
-◼️
-
-[Data](articles/05a807b6.json)
-
-[Extended Data](ext_articles/05a807b6.ext.json)
 
 ---

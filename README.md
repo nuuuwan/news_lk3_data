@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 12:19:11**
+As of **2024-06-14 12:34:30**
 
 ## Newspaper Stats
 
-*Scraped **30,358** Articles*
+*Scraped **30,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,758
 dailyftlk | 1,846
 adalk | 2,615
 adaderanalk | 3,438
-tamilmirrorlk | 3,550
+tamilmirrorlk | 3,551
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,354 (100.0%) of 30,358 articles have been extended.
+30,358 (100.0%) of 30,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### தாத்தா செலுத்திய உழவு இயந்திரத்தில் சிக்கி பேத்தி  பலி
+
+*2024-06-14 12:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தாத்தா-செலுத்திய-உழவு-இயந்திரத்தில்-சிக்கி-பேத்தி-பலி/72-338899) · `ta`
+
+தாத்தா செலுத்திய உழவு இயந்திரத்தில் சிக்கி 8 வயதான பேத்தி  உயிரிழந்த சம்பவம், மன்னார் முருங்கன் பொலிஸ் பிரிவிற்குட்பட்ட பூவரசங்குளம் பகுதியில் வியாழக்கிழமை(13)  இரவு 7 மணியளவில் இடம்பெற்றுள்ளது.
+
+மன்னார் முருங்கன் பொலிஸ் பிரிவுக்குட்பட்ட பூவரசங்குளம் பகுதியில் உள்ள விவசாயியான ஒருவர் தனது  வயலில் உழவு இயந்திரத்தின் ஊடாக உழுது கொண்டிருந்தார்.
+
+இதன் போது உழவு இயந்திரத்தின் மக்காட் பகுதியில் அமர்ந்து கொண்டிருந்த அவரது 8 வயதுடைய   பேத்தி  திடீரென கீழே விழுந்த நிலையில் உழவு இயந்திரத்தில் அகப்பட்டு உயிரிழந்துள்ளார்.
+
+குறித்த சிறுமியின் சடலம் மன்னார் மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளை முருங்கன் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/2aa968f6.json)
+
+---
 
 ### Person arrested for bribery attempt inside police station
 
@@ -47,6 +65,8 @@ Police said that all three suspects are scheduled to be produced before the Maha
 ◼️
 
 [Data](articles/5dccf05a.json)
+
+[Extended Data](ext_articles/5dccf05a.ext.json)
 
 ---
 
@@ -69,6 +89,8 @@ Additionally, the court ordered the convicted foreign nationals to be extradited
 ◼️
 
 [Data](articles/20a93864.json)
+
+[Extended Data](ext_articles/20a93864.ext.json)
 
 ---
 
@@ -298,19 +320,25 @@ The President made these remarks during his keynote address at the inaugural ses
 
 ---
 
-### ஐந்து மாதங்களில் 150 காட்டு யானைகள் உயிரிழப்பு
+### 150 wild elephants die in five months
 
 *2024-06-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186044) · `ta`
 
-நாட்டில் மனிதனுக்கும் வனவிலங்குகளுக்கும் இடையே அதிகரித்துவரும் முரண்பாடுகளினால் கடந்த ஐந்து மாதங்களில் 150 காட்டு யானைகள் உயிரிழந்துள்ளன.
+Over five months, 150 wild elephants perished from escalating human-wildlife conflict, with 488 elephants and 184 humans dying in total in 2023 due to such incidents.
 
-அதில், துப்பாக்கிச் சூட்டுக்கு இலக்காகி 28 யானைகளும், மின்சாரம் தாக்கி 21 யானைகளும், ஹக்க பட்டாசுகளினால் 13 யானைகளும், உடம்பில் நஞ்சேற்றம் இடம்பெற்றதால் 2 யானைகளும், ரயில் விபத்தால் 3 யானைகளும், வீதி விபத்தினால் ஒரு யானையும், நீரில் அடித்துச் சென்று 7 யானைகளும், ஏனைய விபத்துக்களால் 4 யானைகளும் உயிரிழந்துள்ளதாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-கடந்த 2023ஆம் ஆண்டு மனிதர்களுக்கும் யானைகளுக்கும் இடையேயான முரண்பாடுகள் காரணமாக 488 யானைகள் உயிரிழந்துள்ளன. இதேவேளை, 184 பேர் உயிரிழந்துள்ளனர் என கூறப்படுகிறது.
+In the last five months, 150 wild elephants have died due to the rising conflicts between human and wildlife in the country.
+
+According to the Department of Safety, 28 elephants, 21 elephants, 21 elephants, 13 elephants, 2 elephants, 2 elephants, 3 elephants, a road accident, 7 elephants, 7 elephants and other accidents.
+
+488 elephants died due to conflicts between humans and elephants in 2023. Meanwhile, 184 people have died.
 
 ◼️
 
 [Data](articles/f2161f52.json)
+
+[Extended Data](ext_articles/f2161f52.ext.json)
 
 ---
 
@@ -338,17 +366,27 @@ Under the SDP Law not only is corporate tax exemptions given, but also value add
 
 ---
 
-### தேர்தல்களைப் பிற்போட்டால் மக்கள் கொந்தளிப்பார்கள் - இரா.சாணக்கியன்
+### People will be turmoil if the elections are lost - Ira Sanakian
 
 *2024-06-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186042) · `ta`
 
-மின்சாரக் கட்டணம், எரிபொருட்களின் விலை என்பன குறைபக்கப்பட்டாலும் கூட, மக்கள் வாழ முடியாத அளவிற்கு விலைவாசிகள் அதிகரித்திருக்கின்றன. இந்த நிலையில் தேர்தல்களைப் பிற்போட்டால் மக்கள் கொந்தளிப்பார்கள் என்பதை ஜனாதிபதி அறிந்து வைத்திருக்க வேண்டும். என பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+Ira Sanakian warns of societal unrest if the elections are lost, despite economic challenges like high electricity bills and fuel prices. He discusses the political landscape in Sri Lanka, including the potential extension of the president's term with a two-thirds majority in Parliament. Sanakian criticizes the government's purchase of MPs' support and expresses concern over the delay in local and provincial council elections, which he argues undermines democracy. He hopes for a new government and economic recovery but fears public dissatisfaction if the elections do not proceed smoothly.
 
-ஜனாதிபதித் தேர்தலைப் பிற்போடுதல், பொதுசன வாக்கெடுப்பை நடாத்துதல், போன்ற கருத்துக்கள் அரசியல் களத்தில் தற்போது பேசுபொருளாக உள்ளன. இவ்விடயம் தொடர்பில் பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியனிடம் நேற்று வியாழக்கிழமை(13) மாலை மட்டக்களப்பு களுதாவளையில் வைத்து ஊடகவியலாளர்கள் கேட்ட கேள்விக்குப் பதிலளிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+Even though electricity bills and fuel prices are defective. In this case. Parliamentarian R. Sanakian said.
+
+Comments on the presidential election, holding a public referendum, are currently speaking in the political arena. He was responding to a question by journalists in Kaluta in Batticaloa on Thursday evening (13).
+
+In accordance with the political system of Sri Lanka, it is the case if the two -thirds majority in Parliament is to extend the term of the president for a period of one year.. We have heard a vomiting of the presidential negotiations among the parliamentarians, the presidency of Parliament for the first time, the president who has been elected to Parliament for the first time, if the President has been given a two -thirds majority for the first time.
+
+According to the political system, we were told that the parliament and the president's term were extended by a further year.
 
 ...
 
 [Data](articles/95a664a9.json)
+
+[Extended Data](ext_articles/95a664a9.ext.json)
 
 ---
 
@@ -2195,27 +2233,5 @@ Some of the complaints were residents of the Negombo Police Division and they ha
 [Data](articles/801edfe8.json)
 
 [Extended Data](ext_articles/801edfe8.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 303.85/95 to US dollar
-
-*2024-06-13 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-303-85-95-to-us-dollar-167892/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 303.85/95 to the US dollar on Thursday, from 303.80/304.00 to the dollar the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.00/30 percent, down from 10.20/40 percent.
-
-A bond maturing on 01.07.2028 closed at 11.00/15 percent, down from 11.15/40 percent.
-
-A bond maturing on 15.05.2030 closed at 11.85/12.05 percent, down from 11.90/12.05 percent.
-
-A bond maturing on 01.10.2032 closed stable at 11.95/12.15 percent. (Colombo/Jun13/2024)
-
-◼️
-
-[Data](articles/07db7fce.json)
-
-[Extended Data](ext_articles/07db7fce.ext.json)
 
 ---

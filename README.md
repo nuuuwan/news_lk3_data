@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 15:19:01**
+As of **2024-06-14 15:34:39**
 
 ## Newspaper Stats
 
-*Scraped **30,376** Articles*
+*Scraped **30,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,616
-adaderanalk | 3,439
-tamilmirrorlk | 3,555
+adaderanalk | 3,442
+tamilmirrorlk | 3,556
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,895
@@ -26,11 +26,79 @@ adaderanasinhalalk | 4,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,376 (100.0%) of 30,376 articles have been extended.
+30,376 (100.0%) of 30,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### South Korea, US warn against North Korea-Russia military ties ahead of Putin visit
+
+*2024-06-14 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99879/south-korea-us-warn-against-north-korea-russia-military-ties-ahead-of-putin-visit) · `en`
+
+Senior officials of South Korea and the United States held an emergency phone call over a possible impending visit by Russian President Vladimir Putin to North Korea, Seoul’s foreign ministry said on Friday (June 14).
+
+South Korea’s vice foreign minister, Kim Hong-kyun, in the phone call with US Deputy Secretary of State Kurt Campbell, said that Putin’s visit should not result in deeper military co-operation between Pyongyang and Moscow in violation of UN Security Council resolutions, the ministry said.
+
+Echoing Kim’s concerns, Campbell pledged continued co-operation to tackle potential regional instability and challenges caused by the trip.
+
+“While closely monitoring related developments, the two sides agreed to resolutely respond through airtight co-operation to North Korea’s provocations against South Korea and actions that escalate tensions in the region,” the ministry said in a statement.
+
+...
+
+[Data](articles/ad692c0e.json)
+
+---
+
+### US encourages Sri Lanka’s leaders to stay committed to reforms
+
+*2024-06-14 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99878/us-encourages-sri-lankas-leaders-to-stay-committed-to-reforms-) · `en`
+
+The US Ambassador in Colombo Julie Chung says that the United States welcomes the International Monetary Fund’s (IMF) approval of Sri Lanka’s second review of the Extended Fund Facility (EFF) programme.
+
+Taking to ‘X’ (formerly Twitter), the US envoy said while recognizing that reforms can be challenging, the US continues to encourage Sri Lanka’s leaders to stay committed to take needed measures that ensure accountability, transparency, and representative governance, to foster investment and growth.
+
+◼️
+
+[Data](articles/27d22be0.json)
+
+---
+
+### Sri Lanka, China to hold 13th round of diplomatic consultations in Beijing
+
+*2024-06-14 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99877/sri-lanka-china-to-hold-13th-round-of-diplomatic-consultations-in-beijing) · `en`
+
+The Sri Lankan delegation, led by Secretary of Foreign Affairs, Aruni Wijewardana, is set to participate in the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on June 17 in Beijing.
+
+Wijewardana will co-chair the discussions with China’s Vice Minister of Foreign Affairs, Sun Weidong.
+
+The consultations aim to review progress and advance bilateral engagement in areas including political relations, economic cooperation, trade, investment, and defense.
+
+The Sri Lankan delegation will also include Ambassador-Designate in Beijing, Majintha Jayesinghe, and senior officials from the Ministry of Foreign Affairs and the Sri Lankan Embassy in China.
+
+According to Ministry of Foreign Affairs, the preceding 12th Round of Bilateral Political Consultations took place on May 30 in Colombo.
+
+◼️
+
+[Data](articles/82541ba8.json)
+
+---
+
+### “70% சம்பள அதிகரிப்பை எதிர்த்து நீதிமன்றம் செல்வோம்”
+
+*2024-06-14 14:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/70-சம்பள-அதிகரிப்பை-எதிர்த்து-நீதிமன்றம்-செல்வோம்/175-338908) · `ta`
+
+தேயிலை மற்றும் இறப்பர் தொழிற்துறை தொழிலாளர்களின் சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் எதுவித அடிப்படியுமின்றி   70% ஆல் உடனடியாக அதிகரிக்கவேண்டும் என்ற சம்பளநிர்ணய சபையின் முடிவுக்கு எதிர்ப்பு தெரிவிப்பதைத் தவிர வேறுவழியில்லை என இலங்கைபெருந்தோட்டமுதலாளிமார் சம்மேளனம் (PA) தெரிவித்துள்ளது.
+
+அத்துடன் இந்தத் தீர்மானத்தை ஏற்றுக் கொள்ள முடியாது எனவும், இந்தத் தீர்மானத்திற்கு எதிராக மேல்முறையீட்டு நீதிமன்றம் மற்றும் உச்சநீதிமன்றத்தில் முறையீடு செய்யவுள்ளதாக சம்மேளனம் தெரிவித்துள்ளது.
+
+வியாபாரநிறுவனங்களின் நீடித்த நிலைத்தன்மைக்கும் தொழிலாளர்களின் வாழ்வாதாரத்தை பேணவும் சம்பள அதிகரிப்பு உற்பத்தித்திறனுடன் நெருக்கமாக இணைக்கப்படவேண்டும். என இலங்கை பெருந்தோட்ட முதலாளிமார் சம்மேளனம் (PA) வலியுறுத்தியுள்ளது.
+
+...
+
+[Data](articles/9bddaa55.json)
+
+---
 
 ### Parliament
 
@@ -2131,101 +2199,5 @@ The Investigation Criminal Investigations Department (CID) commenced on the shoo
 [Data](articles/4249e16d.json)
 
 [Extended Data](ext_articles/4249e16d.ext.json)
-
----
-
-### Another railway strike from tomorrow?
-
-*2024-06-13 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99865/another-railway-strike-from-tomorrow-) · `en`
-
-The Sri Lanka Railway Station Masters’ Union has decided to launch trade union action over several demands including the issues pertaining to promotions.
-
-The union stated that they will launch trade union action if no solutions are received to their grievances before 02.00 p.m. on Friday (14).
-
-The railway station masters claim that there has been a gross injustice by deliberately avoiding the grade of station masters among the grades belonging to the same service category and giving promotions to the other grades every five years.
-
-Furthermore, they mention that despite numerous discussions with relevant authorities regarding the matter, the promises to resolve the issues have not yet been implemented.
-
-The Sri Lanka Railway Station Masters’ Union also expressed that it is regrettable that the authorities provide immediate solutions to the demands of the parties who implement sudden trade union action, rather than seeking solutions through discussions.
-
-◼️
-
-[Data](articles/11f4a227.json)
-
-[Extended Data](ext_articles/11f4a227.ext.json)
-
----
-
-### Government Service Commission has approved the new service of the Grama Niladhari - Ashoka Priyantha
-
-*2024-06-13 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186031) · `ta`
-
-The Government Service Commission has approved a new service for Grama Niladharis, led by Minister of State Ashoka Priyantha. This follows Cabinet approval under President Ranil Wickremesinghe. The new service allows for potential amendments. Major projects like "Urumaya" and "Ashemu," along with re-development efforts in villages and cities, are underway. The government is also strengthening public services, recruiting Grama Niladharis for 1942 divisions, and training them. Despite challenges, including a disaster during a Grama Niladhari trade union action, progress is noted, especially in providing safe food through rural food security groups.
-
-🟩
-
-Minister of State for Home Affairs Ashoka Priyantha said that after the approval of the Cabinet headed by President Ranil Wickremesinghe, the new Service of Grama Niladhari has been approved by the Government Service Commission.
-
-The Minister of State said that if necessary, this new Yap has been given the opportunity to make amendments.
-
-State Minister Ashoka Priyantha made this statement at a media briefing held at the Presidential Media Center on Thursday 13th.
-
-Currently, the government has implemented a number of major projects, including “Urumaya” and “Ashemu”. As well as many development projects that have been stopped in the past. Re -development work has been started in the village and cities through diverse funding.
-
-It is the responsibility of state officials to support it. So we must all do our duty on this occasion where the duties of the people can be fulfilled.
-
-...
-
-[Data](articles/83dad7a3.json)
-
-[Extended Data](ext_articles/83dad7a3.ext.json)
-
----
-
-### Baby's corpse recovery without the lower part of the body in Nuwara Eliya!
-
-*2024-06-13 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186030) · `ta`
-
-In Nuwara Eliya, a baby's body was discovered near a canal on 13th, missing its lower half. The police, alerted by locals, are searching for the parents and conducting a post-mortem examination.
-
-🟩
-
-The body of a small child who was born in Nuwara Eliya was found on Thursday, 13th, near the foam, without a lower case.
-
-According to a telephone message received by the Nuwara Eliya Police from the residents of Boralanda area, the Nuwara Eliya Police Criminal Investigation Department and the police officers found the body of the child near the canal.
-
-Nuwara Eliya Police have taken steps to look for the parents of the dead infant after the incident was reported to all hospitals and police in the area.
-
-After investigating the Nuwara Eliya Magistrate Jayamini Ambakahawatta, the body of the infant was taken to the Nuwara Eliya District General Hospital and ordered the post -mortem to be placed in the autopsy.
-
-◼️
-
-[Data](articles/836fb823.json)
-
-[Extended Data](ext_articles/836fb823.ext.json)
-
----
-
-### If the harvest would do this
-
-*2024-06-13 20:16:51* · [`adalk`](https://www.ada.lk/breaking_news/ගොයම-කහවෙලා-නම්-මේ-දේ-කරන්න/11-410209) · `si`
-
-Despite using Urea fertilizer, some Paddy fields show yellowing due to improper application. The Agriculture Department notes this as nutrient deficiency, not a disease. It urges farmers to prioritize paddy cultivation with government-subsidized fertilizers to improve crop health.
-
-🟩
-
-Although the farmers are using Urea fertilizer, the farmers have used urea fertilizers, there are yellow in some parts of Paddy cultivation, as it is not used to apply the bundry.
-
-The department points out that the stalk is not a condition, but a underput nutrition due to lack of proper nutrition for the stalk.
-
-Accordingly, the Department of Agriculture has further requested the farmer community to provide priority to paddy cultivation using fertilizer subsidy money provided by the government.
-
-The Government's Department has taken steps to cure Rs.
-
-◼️
-
-[Data](articles/02c7846c.json)
-
-[Extended Data](ext_articles/02c7846c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 20:35:27**
+As of **2024-06-14 20:53:52**
 
 ## Newspaper Stats
 
-*Scraped **30,422** Articles*
+*Scraped **30,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,768
 dailyftlk | 1,846
 adalk | 2,620
 adaderanalk | 3,447
-tamilmirrorlk | 3,557
+tamilmirrorlk | 3,559
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,906
+adaderanasinhalalk | 4,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,422 (100.0%) of 30,422 articles have been extended.
+30,422 (100.0%) of 30,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### இலங்கை வருகின்றார் எஸ்.ஜெய்சங்கர்
+
+*2024-06-14 20:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-எஸ்-ஜெய்சங்கர்/175-338913) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் இம்மாதம் இலங்கைக்கு வர இருப்பதாக இலங்கையின் வெளிவிவகார அமைச்சர் அலி சப்ரி உறுதிப்படுத்தியுள்ளார்.
+
+புதுப்பிக்கத்தக்க எரிசக்தி, சுற்றுலா மற்றும் மத்திய வங்கி மற்றும் நிதி அமைச்சகங்களுக்கு இடையே உள்ள நிதி ஒத்துழைப்பில் தற்போதுள்ள கூட்டாண்மைகளை மதிப்பாய்வு செய்வதே இந்த விஜயத்தின் நோக்கமாகும்.
+
+எதிர்காலத்தில் பிரதமர் மோடியின் இலங்கை விஜயத்திற்கும் இது களம் அமைக்கிறதாகவும் குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/070276e8.json)
+
+---
+
+### ශ්‍රී ලංකා පිලේ පසුබෑම ගැන ඇමති කට අරී
+
+*2024-06-14 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197765) · `si`
+
+ඉතිහාසයේ පළමු වරට 20-20 ලෝක කුසලාන තරගාවලියක පළමු වටයෙන්ම ඉවත්වීමට ශ්‍රී ලංකා කණ්ඩායමට මෙවර සිදුවූ අතර ක්‍රීඩා අමාත්‍යවරයා ද ඒ පිළිබඳව අදහස් පළ කෙරිණි.
+
+එහිදී අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා සඳහන් කර සිටියේ, මෙලෙස තරග පරාජය වීම වසර ගණනාවක් පුරා පැවති ප්‍රශ්නයක් බවත් එය විසඳීමට නම් දීර්ඝ කාලීන විසඳුමක් අවශ්‍ය බවය.
+
+ප්‍රශ්නය - ක්‍රීඩා අමාත්‍යවරයා විදිහට ක්‍රිකට් සඳහා ඉදිරියේදී ගන්න ක්‍රියාමාර්ග මොනවද ?
+
+"මම ක්‍රිකට් ගහන්න බලාපොරොත්තු වෙනවා. ක්‍රීඩා ඇමති විදියට මම මොනවා කරන්න ද කියලා නේ ඔබ තුමා අහන්නේ. ඉතින් මැච් පැරදුනාට මම මොනවා කරන්න ද?. එහෙනම් මම ක්‍රිකට් ගහන්න යන්‍න ‍ෙඕනේ . ඉතින් එහෙම කරන්න බෑ. මේ අවුරුදු ගානක් තිස්සේ ඇදීගෙන ආව ප්‍රශ්නයක්. විසඳන්න නම් දීර්ඝකාලීන විසඳුමක් ඕනේ. අපි භාර ගන්නකොටත් මේක තහනම් වෙලා. හැමදේම අවුල් වෙලා අච්චාරු වෙලා තියෙන්නේ"
+
+ඉතිහාසයේ පළමු වරට 20-20 ලෝක කුසලාන තරගාවලියක පළමු වටයෙන්ම ඉවත්වීමට ශ්‍රී ලංකා කණ්ඩායමට මෙවර සිදුවිය.
+
+ඒ නෙදර්ලන්තයට එරෙහිව ඊයේ (13) පැවති තරගය බංග්ලාදේශ කණ්ඩායම ලකුණු 25කින් ජය ගැනීමත් සමගය.
+
+...
+
+[Data](articles/d471b2ca.json)
+
+---
+
+### பிளந்தது இ.தொ.கா: முக்கியபுள்ளி சஜித்துடன் இணைந்தார்
+
+*2024-06-14 20:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளந்தது-இ-தொ-கா-முக்கியபுள்ளி-சஜித்துடன்-இணைந்தார்/175-338912) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உறுப்பினர் ஒருவரும் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்
+
+மத்திய மாகாண சபையின் உப தவிசாளராக இரண்டு தடவைகளும், அவைத் தலைவராக பதவி வகித்தவரும், இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளரும், 25 வருடங்களுக்கும் மேலாக கண்டி மாவட்டத்தில் இலங்கை தொழிலாளர் காங்கிரஸின் பிரதான அமைப்பாளராகவும் பணியாற்றியுள்ள துரை மதியுகராஜா எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்களது அரசியல் பயணத்திற்கு ஆதரவளிக்கும் நோக்கில் இன்று(14) ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+
+முப்பது ஆண்டுகளுக்கும் மேலான பலதரப்பட்ட அரசியல் மற்றும் தொழிற்சங்க அனுபவத்துடன் கூடிய முன்னணி தொழிற்சங்கத் தலைவரும் அரசியல்வாதியுமான இவர், அரசியல் மற்றும் தொழிற்சங்கங்கள் குறித்த பரந்த அறிவைக் கொண்ட ஒருவர் என அவரை அறியலாம். ஆங்கிலம், தமிழ் மற்றும் சிங்களம் ஆகிய மொழிகளில் பன்மொழிப் பேச்சாளரான இவர், ஓர் எழுத்தாளரும் கூட.
+
+...
+
+[Data](articles/6dcac0a8.json)
+
+---
 
 ### Two killed in drowning
 
@@ -2237,67 +2291,5 @@ The International Cricket Council has officially declared that Sri Lanka was aba
 [Data](articles/65409511.json)
 
 [Extended Data](ext_articles/65409511.ext.json)
-
----
-
-### Unidil triumphs at National Project Management Excellence Awards 2024
-
-*2024-06-14 06:31:34* · [`dailyftlk`](https://www.ft.lk/business/Unidil-triumphs-at-National-Project-Management-Excellence-Awards-2024/34-763070) · `en`
-
-The winning team of Unidil at the National Project Management Excellence Awards in Colombo
-
-The packaging arm of Vallibel One PLC, Unidil Group of Companies, the Leader in Packaging in Sri Lanka which offers the best and ideal packaging solutions of corrugated cartons and paper sacks for local and export industries, once again displayed its prowess by clinching top honours at the prestigious National Project Management Excellence Awards 2024 presented by Project Management Institute.
-
-The company secured two gold and silver awards in the highly competitive Best Managed Project in the Manufacturing and Transportation and Logistics Sector categories.
-
-...
-
-[Data](articles/867c0670.json)
-
-[Extended Data](ext_articles/867c0670.ext.json)
-
----
-
-### SJB questions President’s motives behind new inquiry committee on Easter attacks
-
-*2024-06-14 06:29:49* · [`dailyftlk`](https://www.ft.lk/news/SJB-questions-President-s-motives-behind-new-inquiry-committee-on-Easter-attacks/56-763069) · `en`
-
-SJB MP Mujibur Rahman accuses President Ranil Wickremesinghe of obstructing revelations of Easter attack orchestrators
-
-Highlights PCoI recommendations, including prosecution of police officers, have not been acted upon
-
-Questions need for another committee to investigate intelligence failures after SC has already identified there were failures
-
-Speculates President’s new inquiry committee aims to clear his name ahead of potential legal challenges post-Presidential election
-
-Samagi Jana Balawegaya (SJB) MP Mujibur Rahman claimed yesterday that President Ranil Wickremesinghe is opposed to revealing those responsible for orchestrating the devastating Easter Sunday attacks in 2019.
-
-...
-
-[Data](articles/601735e0.json)
-
-[Extended Data](ext_articles/601735e0.ext.json)
-
----
-
-### Namal warns Tamil community against election-time policy shifts
-
-*2024-06-14 06:28:34* · [`dailyftlk`](https://www.ft.lk/news/Namal-warns-Tamil-community-against-election-time-policy-shifts/56-763068) · `en`
-
-SLPP National Organiser Namal Rajapaksa cautions TNA and Tamil community against politicians who change policies for votes
-
-Asks them to trust parties consistent on 13th Amendment, whether supporting or opposing it
-
-Criticises parties that flip-flop on issues close to elections, calling it pandering to public sentiment
-
-Sri Lanka Podujana Pera-muna (SLPP) National Organiser MP Namal Rajapaksa has cautioned the Tamil National Alliance (TNA) and Sri Lanka’s Tamil community to beware of politicians who alter their policies abruptly to garner votes.Speaking to the media after attending a special meeting in Colombo on Wednesday, Rajapaksa asserted that the Tamil people could place their trust in parties that have consistently supported the implementation of the 13th Amendment, as well as those that have opposed it from the outset.
-
-He criticised parties that opportunistically change their stances shortly before elections, labelling their actions as mere attempts to pander to public sentiment.
-
-...
-
-[Data](articles/0dd27c8a.json)
-
-[Extended Data](ext_articles/0dd27c8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 19:19:21**
+As of **2024-06-14 19:34:43**
 
 ## Newspaper Stats
 
-*Scraped **30,420** Articles*
+*Scraped **30,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,647
 economynextcom | 1,768
 dailyftlk | 1,846
 adalk | 2,620
-adaderanalk | 3,446
+adaderanalk | 3,447
 tamilmirrorlk | 3,557
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,905
+adaderanasinhalalk | 4,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,415 (100.0%) of 30,420 articles have been extended.
+30,420 (100.0%) of 30,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### දියේ ගිලී සිසුන් දෙදෙනෙක් ජීවිතක්ෂයට
+
+*2024-06-14 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197764) · `si`
+
+මීගමුව, වැල්ල වීදිය ප්‍රදේශයේ මුහුදු තීරයේ දියනෑමට ගිය පාසල් සිසුන් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+
+පොලිස් මාධ්‍ය ඒකකය පැවසුවේ, අද (14) පෙරවරුවේ මෙම සිසුන් දෙදෙනා තවත් සිසුන් දෙදෙනෙකු සමග එම ස්ථානයේ දිය නෑමට ගොස් ඇති බවය.
+
+එහිදී දිය නාමින් සිටි සිසුන් සිව්දෙනාම දියේ ගසා ගොස් ඇති අතර ඉන් දෙදෙනෙකුගේ දිවි බේරා ගෙන ඇත.
+
+◼️
+
+[Data](articles/c3df5302.json)
+
+---
+
+### Sri Lanka’s GDP grew at 5.3% during first quarter of 2024
+
+*2024-06-14 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99884/sri-lankas-gdp-grew-at-53-during-first-quarter-of-2024) · `en`
+
+Sri Lanka’s year-on-year GDP growth rate for the first quarter of 2024 has been estimated as 5.3% of positive growth rate, according to the Department of Census and Statistics.
+
+The Department of Census and Statistics (DCS) Sri Lanka, has released the estimated Gross Domestic Product (GDP) at current price and at constant (2015) price in Production approach and the other macroeconomic indicators for the first quarter (January 1st to March 31st) of 2024.
+
+The GDP for the first quarter of 2024 at constant price (2015) has increased up to Rs. 3,329,583 million from Rs. 3,161,963 million which recorded in the first quarter of 2023.
+
+The year-on-year GDP growth rate for the first quarter of year 2024 has been reported as 5.3 per cent of positive growth rate.
+
+The Agricultural, Industrial and Services activities expanded by 1.1 per cent, 11.8 per cent and 2.6 per cent respectively in the first quarter of 2024
+
+...
+
+[Data](articles/9c08972d.json)
+
+---
 
 ### Sri Lanka diaspora fund online learning platform to provide education for all ages
 
@@ -51,6 +87,8 @@ The initiative aims to provide broad access and accessibility to education Sri L
 ...
 
 [Data](articles/bcfb7697.json)
+
+[Extended Data](ext_articles/bcfb7697.ext.json)
 
 ---
 
@@ -490,6 +528,8 @@ Sri Lanka’s Foreign Minister Ali Sabry said Modi’s invitation to Wickremesin
 
 [Data](articles/17f9676e.json)
 
+[Extended Data](ext_articles/17f9676e.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 304.00/15 to US dollar
@@ -511,6 +551,8 @@ A bond maturing on 01.10.2032 closed at 12.00/10 percent, up from 11.95/12.15 pe
 ◼️
 
 [Data](articles/0f93978a.json)
+
+[Extended Data](ext_articles/0f93978a.ext.json)
 
 ---
 
@@ -589,6 +631,8 @@ Some of the bigger banks saw positive interest: Sampath Bank Plc (up at 80.10) a
 ...
 
 [Data](articles/3c2dbe25.json)
+
+[Extended Data](ext_articles/3c2dbe25.ext.json)
 
 ---
 
@@ -1432,6 +1476,8 @@ She will co-chair the Consultations with Sun Weidong, the vice Minister of Forei
 
 [Data](articles/7951bcc2.json)
 
+[Extended Data](ext_articles/7951bcc2.ext.json)
+
 ---
 
 ### Sri Lanka’s Sling solar-powered EV battery project wins US award
@@ -2245,47 +2291,5 @@ He criticised parties that opportunistically change their stances shortly before
 [Data](articles/0dd27c8a.json)
 
 [Extended Data](ext_articles/0dd27c8a.ext.json)
-
----
-
-### NPP urges public vigilance against misleading statements on election postponements
-
-*2024-06-14 06:27:23* · [`dailyftlk`](https://www.ft.lk/news/NPP-urges-public-vigilance-against-misleading-statements-on-election-postponements/56-763067) · `en`
-
-NPP’s Dr. Nalinda Jayatissa highlights Constitutional clause requiring Presidential election to conclude before current Presidential term ends
-
-NPP MP Vijitha Herath affirms that Supreme Court ruled against any President exceeding a five-year term
-
-Emphasises that Article 30(2) limits President’s term to five years, ending this year on 17 November with no extensions allowed
-
-Urges citizens to prepare for the crucial polls and not be misled by false statements made by Govt. and Opposition groups
-
-National People’s Power (NPP) party Executive Council member Dr. Nalinda Jayatissa yesterday cautioned the public to remain vigilant against the election-related uncertainties being propagated by both Government and Opposition members, advising them not to fall prey to such tactics.
-
-Addressing a public event, Jayatissa asserted that statements suggesting the possible postponement of elections are intentionally made to mislead the public and are untrue.
-
-...
-
-[Data](articles/8defd386.json)
-
-[Extended Data](ext_articles/8defd386.ext.json)
-
----
-
-### IMF says suspension of Sri Lanka parate execution should be ended ASAP
-
-*2024-06-14 06:26:00* · [`economynextcom`](https://economynext.com/imf-says-suspension-of-sri-lanka-parate-execution-should-be-ended-asap-167917/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has said a suspension on parate execution, or halting foreclosure decisions taken by banks in Sri Lanka on bad loans, should be ended as soon as possible.
-
-Sri Lanka bank non-performing loans went up as much as 13 percent, with a combined hit from a currency crisis which came on top of the Coronavirus pandemic triggering a slew of auctions of collateral of distressed businesses.
-
-“The suspension of banks’ repossession of collateral (“Parate” executions) 22 will hinder the banks’ ability to manage NPLs and price credit risks and should be lifted as soon as possible while encouraging a negotiated NPL solution to avoid excessive liquidation,” an IMF report released after the approval of the latest review of the IMF said.
-
-...
-
-[Data](articles/aabb3b14.json)
-
-[Extended Data](ext_articles/aabb3b14.ext.json)
 
 ---

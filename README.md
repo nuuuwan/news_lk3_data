@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 21:55:15**
+As of **2024-06-14 22:06:46**
 
 ## Newspaper Stats
 
-*Scraped **30,428** Articles*
+*Scraped **30,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 1,768
 dailyftlk | 1,846
 adalk | 2,620
 adaderanalk | 3,447
-tamilmirrorlk | 3,559
+tamilmirrorlk | 3,560
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,910
+adaderanasinhalalk | 4,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,428 (100.0%) of 30,428 articles have been extended.
+30,428 (100.0%) of 30,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### මහා පරිමාණ රුමේනියා රැකියා ජාවාරමක තොරතුරු එළියට
+
+*2024-06-14 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197769) · `si`
+
+රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මාතර, ගොඩගම පිහිටි අදාළ ආයතනයේ හිමිකරු විසින් රුමේනියාවේ රැකියා ලබාදීම සඳහා මුදල් අයකර, එම රැකියා අවස්ථා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 53ක් ලැබී ඇත.
+
+පසුව එම පැමිණිලි අනුව අදාළ සැකකරු වංචාකර ඇති මුදලේ වටිනාකම රුපියල් ලක්ෂ 130ට අධිකය.
+
+අදාළ රැකියා නියෝජිතායතනය මීට පෙර කාර්යාංශයේ ලියාපදිංචි රැකියා නියෝජිතායතනයක් වන අතර, එම ආයතනයේ රැකියා බලපත්‍රයේ වලංගු කාලය පෙබරවාරි 29 දිනෙන් අවසන් වී ඇති අතර,  යළි එම ආයතනයේ රැකියා බලපත්‍රය අලුත් කර ගැනීමකින් තොරව නීතිවිරෝධි අයුරින් පවත්වාගෙන ගොස් තිබේ.
+
+මෙම ආයතනයට රුමේනියා රැකියා ලබාදීම සඳහා වලංගු රැකියා ඇණවුමක් තිබුණද, පැමිණිලිකරුවන් රැකියා සඳහා යොමුකිරීමට ඔවුන් කටයුතු කර නොමැත.
+
+පැමිණිලි විභාග කිරිම සඳහා අදාළ රැකියා නියෝජිතායතනයේ හිමිකරු ඊයේ (13) දින කාර්යාංශය වෙත කැඳවා ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව කාර්යාංශ පනතේ අඩංගු බලපත්‍ර කොන්දේසි උල්ලංඝණය කිරීම යන චෝදනාව යටතේ අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/0af3cecb.json)
+
+---
 
 ### 100kg drug to Galle Harbor
 
@@ -47,6 +69,18 @@ Six suspects arrested with over 100 kilograms of drugs have been taken to the po
 [Data](articles/7dd12fc3.json)
 
 [Extended Data](ext_articles/7dd12fc3.ext.json)
+
+---
+
+### நீர்கொழும்பு கடலில் மூழ்கி சிறுவர்கள் உயிரிழப்பு
+
+*2024-06-14 20:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-மூழ்கி-சிறுவர்கள்-உயிரிழப்பு/175-338914) · `ta`
+
+நீர்கொழும்பு கடலில் நிராடச் சென்ற 14 மற்றும் 17 வயதுடைய இரண்டு சிறுவர்கள் நீரில் மூழ்கி உயிரிழந்துள்ளதாக நீர்கொழும்பு பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/289180e1.json)
 
 ---
 
@@ -2317,39 +2351,5 @@ This event, organised by the National Gem and Jewellery Authority (NGJA), aims t
 [Data](articles/6d1b9c76.json)
 
 [Extended Data](ext_articles/6d1b9c76.ext.json)
-
----
-
-### Mireka Tower and Havelock City Mall earn prestigious LEED Gold Certification
-
-*2024-06-14 06:54:47* · [`dailyftlk`](https://www.ft.lk/business/Mireka-Tower-and-Havelock-City-Mall-earn-prestigious-LEED-Gold-Certification/34-763074) · `en`
-
-The US Green Building Council recently conferred the LEED Gold Certification for Mireka Tower and Havelock City Mall reflecting its commitment to energy efficiency and occupant well-being.
-
-The achievement of the Gold certification under the LEED 2009 Core and Shell Development rating system identifies Mireka Tower and Havelock City Mall as a showcase example of sustainability and demonstrates the group’s leadership in transforming the building industry in Sri Lanka.
-
-From its inception, this project has incorporated green features and design optimisation, ensuring that both its construction and operations adhere to the highest standards of environmental stewardship.
-
-Mireka Tower, towering at 50 stories, stands as a beacon of sustainable architectural excellence in Colombo’s skyline.
-
-...
-
-[Data](articles/4c3a4cdc.json)
-
-[Extended Data](ext_articles/4c3a4cdc.ext.json)
-
----
-
-### Chinese delegation from Pudong visits BOI
-
-*2024-06-14 06:53:34* · [`dailyftlk`](https://www.ft.lk/business/Chinese-delegation-from-Pudong-visits-BOI/34-763073) · `en`
-
-A top level delegation from Pudong, China visited the Board of Investment (BOI) on Monday to explore opportunities for investment in several sectors. The team met with BOI Chairman Dinesh Weerakkody and senior officials including those from Colombo Port City. The delegation included CPC Shanghai Pudong New Area Committee Deputy Secretary Shan Shaojun, Shanghai Pudong New Area Commission of Commerce Deputy Director  Zhang Hao, Shanghai Pudong New Area Finance Bureau Deputy Director Liu Zhiguo , Laogang Township of Shanghai Pudong New Area Party Secretary  Shen Qifeng, Shanghai Pudong New Area Commission of Commerce Level-2 Research Consultant Wang Xiaofan and Shanghai Pudong International Exchange Centre Director Ge Hongmei.
-
-◼️
-
-[Data](articles/4b2ba154.json)
-
-[Extended Data](ext_articles/4b2ba154.ext.json)
 
 ---

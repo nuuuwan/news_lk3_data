@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 21:19:22**
+As of **2024-06-14 21:34:39**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,910
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,427 (100.0%) of 30,428 articles have been extended.
+30,428 (100.0%) of 30,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### කිලෝ 100ක මත්කුඩු ගාලු වරායට
+### 100kg drug to Galle Harbor
 
 *2024-06-14 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197768) · `si`
 
-මත්කුඩු කිලෝග්‍රෑම් 100කට අධික ප්‍රමාණයක් සමග අත්අඩංගුවට ගත් සැකකරුවන් 6 දෙනෙකු ගාලු වරායට රැගෙනවිත් තිබේ.
+Six suspects were arrested with over 100kg of drugs and transported to Galle Harbor.
+
+🟩
+
+Six suspects arrested with over 100 kilograms of drugs have been taken to the port of Galle.
 
 ◼️
 
 [Data](articles/7dd12fc3.json)
+
+[Extended Data](ext_articles/7dd12fc3.ext.json)
 
 ---
 

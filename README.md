@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 10:34:23**
+As of **2024-06-14 10:52:51**
 
 ## Newspaper Stats
 
-*Scraped **30,338** Articles*
+*Scraped **30,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
 adalk | 2,613
-adaderanalk | 3,433
+adaderanalk | 3,434
 tamilmirrorlk | 3,548
 virakesarilk | 4,660
 dailymirrorlk | 4,733
@@ -26,25 +26,49 @@ adaderanasinhalalk | 4,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,337 (100.0%) of 30,338 articles have been extended.
+30,338 (100.0%) of 30,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### පොලීසියට අල්ලස් දෙන්න ගිය පුද්ගලයා අත්අඩංගුවට
+### Man arrested for bribes
 
 *2024-06-14 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197742) · `si`
 
-මත් පෙති සන්තකයේ තබා ගැනීමේ වරදට අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකු මුදාගැනීම සඳහා රුපියල් 50,000 අල්ලස් මුදලක් පොලිස් ස්ථානය තුළදීම පොලිස් නිලධාරීන් වෙත ලබාදීමට තැත් කළ පුද්ගලයෙකු ඊයේ (13) රාත්‍රීයේ අත්අඩංගුවට ගත් බව නාගොල්ලාගම පොලීසිය කියයි.
+A man from Hiriyala was arrested for bribery and possession of alcohol in the Thalamalgama Police Division. He attempted to turn himself in but was instead detained.
 
-සිද්ධිය සම්බන්ධයෙන් මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හිරියාල අඔගස්වැව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+🟩
 
-මත් පෙති ළඟ තබා ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත්තේ තලමල්ගම පොලිස් වසමේ හිරියාල අඔගස්වැව හා කුඹුක්ගැටේ පොලිස් වසමේ කිඹුල්වානා ඔය කුඹුක්ගැටේ ලිපිනයේ පදිංචි විසි හැවිරිදි හා විසි අට හැවිරිදි පුද්ගලයින් දෙදෙනෙකි.
+A person who was attempting to be arrested at the police station at the police station at the police station
+
+The suspect is a resident of Hiriyala, Hiriyala.
+
+The arrested for possessing alcohol has been arrested in the Thalamalgama Police Divisions and two Twenty-eight year old and twenty-eight year old residents of Kumbukulwana Oya.
 
 ◼️
 
 [Data](articles/200cb1c2.json)
+
+[Extended Data](ext_articles/200cb1c2.ext.json)
+
+---
+
+### Upcoming election will be pivotal in determining country’s future trajectory – President
+
+*2024-06-14 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99869/upcoming-election-will-be-pivotal-in-determining-countrys-future-trajectory-president) · `en`
+
+President Ranil Wickremesinghe emphasized that he has not deviated from the principles of the democratic socialist system in Sri Lanka.
+
+He noted that two key objectives have been incorporated, ensuring that all citizens have an adequate standard of living and promoting rapid development across the country through public and private economic activities aimed at social objectives and the public good.
+
+President Wickremesinghe highlighted that the recently submitted Economic Transformation Bill is designed to achieve these ambitious goals within the framework of the constitution. He asserted that this legislation underscores his adherence to constitutional principles, thereby countering any accusations of unconstitutional actions.
+
+The President made these remarks during his keynote address at the inaugural session of the 45th “SAARCFINANCE” Governors’ Meeting and Symposium held Thursday (13) at the Hilton Hotel, Colombo.
+
+...
+
+[Data](articles/ae14de8c.json)
 
 ---
 
@@ -2243,27 +2267,5 @@ The film was also featured in many films released in the end of December 2021. T
 [Data](articles/2ea5e4c7.json)
 
 [Extended Data](ext_articles/2ea5e4c7.ext.json)
-
----
-
-### Maharaja- Review
-
-*2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186014) · `ta`
-
-"Maharaja," starring Vijay Sethupathi and Anurag Kashyap, revolves around a hair correction center owner whose daughter faces a threat from a mysterious gang. The plot explores themes of good versus evil, with Sethupathi seeking revenge against Kashyap's character. Despite strong performances, especially from Sethupathi and Kashyap, the narrative suffers from logical inconsistencies and slow pacing initially.
-
-🟩
-
-Actors: Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas, Abirami, Nati alias Natraj, Lion Tiger, Muniskant, Vinod Sagar and many others.
-
-The film was a film directed by the creator Nithilan Saminathan, who was produced by Vijay Sethupathi, who was making his fiftieth film, and the preview of the Maharaja film was released by the Maharaja film.. We will continue to see whether the film has completed it or not.
-
-Maharaja (Vijay Sethupathi), who runs a hair correction center in Chennai, complains at the police station that he is not found in his house.. What is the emotional relationship between the trash and the Maharaja family?What is its background?As the police begin to investigate. Maharaja also offers incentives for police investigation. In the aftermath of the investigation, a mysterious gang carries a stressful act to Maharaja's daughter Jyoti. What is that act?Who is that mob?Did the police find them? What was the reaction of the Maharaja?This is the story of the film.
-
-...
-
-[Data](articles/315c049a.json)
-
-[Extended Data](ext_articles/315c049a.ext.json)
 
 ---

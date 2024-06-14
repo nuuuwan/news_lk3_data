@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 18:53:51**
+As of **2024-06-14 19:04:17**
 
 ## Newspaper Stats
 
-*Scraped **30,413** Articles*
+*Scraped **30,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,69 @@ adaderanalk | 3,446
 tamilmirrorlk | 3,557
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,903
+adaderanasinhalalk | 4,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,412 (100.0%) of 30,413 articles have been extended.
+30,413 (100.0%) of 30,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### கெஹலிய உள்ளிட்ட 8 பேருக்கு மீண்டும் விளக்கமறியல்
+### Re -explanation for 8 people, including Keheliya
 
 *2024-06-14 18:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-8-பேருக்கு-மீண்டும்-விளக்கமறியல்/175-338911) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேகநபர்களுக்கு மீண்டும் விளக்கமறியல் உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Eight individuals, including ex-health minister Keheliya Rambukwella, were re-explained in court regarding the importation of non-standard human immunoglobulin drugs. The court extended their remand until June 28th after a hearing at the Magistrate's Court.
 
-இதன்படி, எதிர்வரும் ஜூன் மாதம் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்க மாளிகாகந்த நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Eight suspects, including former health minister Keheliya Rambukwella, have been re -explanated.
 
-தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்து இறக்குமதி சம்பவம் தொடர்பான வழக்கில் சந்தேகநபர்கள்  இன்று (14) நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது. R
+Accordingly, the court has ordered the remand till the 28th of June.
+
+The order was issued when the case was taken up for hearing at the Magistrate's Court.
+
+This was stated when the suspects were produced before the court today (14) in connection with the importation of non -standard human immunoglobulin drug.. Remble
 
 ◼️
 
 [Data](articles/3a82a727.json)
+
+[Extended Data](ext_articles/3a82a727.ext.json)
+
+---
+
+### විභාග දෙකක ප්‍රතිඵල නිකුත් වෙයි
+
+*2024-06-14 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197763) · `si`
+
+විභාග දෙකක ප්‍රතිඵල නිකුත් කර ඇතැයි විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, ගුරු විද්‍යාල අවසාන විභාගය 2020 / 2021 (2023) සහ උපාධිධාරී නොවන නුපුහුණු ගුරුවරුන් සඳහා පුහුණු පාඨමාලා විභාගය 2022 (2023) හි ප්‍රතිඵල අද (14) නිකුත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/1d29a80a.json)
+
+---
+
+### ජනාධිපතිවරණය ඔක්තෝබර් 5 වෙනිදා?
+
+*2024-06-14 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197762) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය ඔක්තෝබර් මස 5 වන දින පැවැත්වෙන බව සංචාරක, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ගාල්ලේ දී මාධ්‍යවේදීන් ඇසූ පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+කරන්න බැරි බොහෝ දේවල් මේ වනවිට ලංකාව තුළ සිදුකර ඇති බවත්, ඒ පිළිබඳව බුද්ධිමත්ව සිතා ජනාධිපතිවරණයේ දී ජනතාව කටයුතු කරනු ඇතැයි ද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/aa5e36e6.json)
 
 ---
 
@@ -2231,41 +2267,5 @@ Speaking at a press conference on Tuesday, Shivajilingam addressed recent remark
 [Data](articles/3318af2f.json)
 
 [Extended Data](ext_articles/3318af2f.ext.json)
-
----
-
-### ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
-
-*2024-06-14 05:21:00* · [`islandlk`](http://island.lk/ismm-signs-mou-with-ministry-of-industries-as-part-of-contribution-to-national-endeavour/) · `en`
-
-The Institute of Supply and Materials Management, the pioneer and government recognized institute for Supply Chain Management Education was established on October 24, 1972 and is the leading institute which fosters the professional development of the purchasing and supply chain function in Sri Lanka. It is a member of the Organization of Professional Associations of Sri Lanka (OPA) since 1976 and was incorporated by the parliament by Act No 3 of 1981.
-
-The ISMM is affiliated to the International Federation of Purchasing and Supply Management, which is the world body encompassing 48 national associations, having more than 250,000 professionals engaged in Purchasing and Supply Chain Management. ISMM engages in many educational programs covering all aspects of the supply chain for the last two decades, in addition to conducting other professional short courses, adding more than 10,000 professionals to supply chain management in Sri Lanka.
-
-...
-
-[Data](articles/0d62d85b.json)
-
-[Extended Data](ext_articles/0d62d85b.ext.json)
-
----
-
-### Tea production leaving much to be desired
-
-*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/tea-production-leaving-much-to-be-desired/) · `en`
-
-Tea market developments reported by brokers last week indicated that tea production was just slightly higher over the production reported during the same period in 2023. No explanations were forthcoming for the lacklustre performance. Besides, we were unable to obtain comment from the estate sector.
-
-However, smallholders and tea factory owners when requested for comment said that low grown prices were quite within their profit margins. They also said that factories in Ratnapura and also those in some area s in the Galle district were paying bought suppliers around SLR. 300 per kilo for green leaf supplied.
-
-Commenting on these prices they also cautioned that such prices for green leaf were not widespread but restricted to ‘some’ areas.
-
-John Keels PLC commenting on prices realized on June 4 th and 5th 2024 said that low grown FBOPF (Flowery Broken Orange Pekoe Fannings) realized prices between Rs. 6000 and Rs. 6700 per kilo.
-
-...
-
-[Data](articles/1c6c9725.json)
-
-[Extended Data](ext_articles/1c6c9725.ext.json)
 
 ---

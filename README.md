@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 23:05:46**
+As of **2024-06-14 23:19:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,434 (100.0%) of 30,435 articles have been extended.
+30,435 (100.0%) of 30,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### මේ කමිටුව පිළිගන්නේ නෑ...-කතෝලික සභාව
+### This committee does not accept ... - Catholic Church
 
 *2024-06-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197771) · `si`
 
-පාස්කු ඉරුදින බෝම්බ ප්‍රහාර පිළිබඳ ලද පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට අදාළව ජනාධිපතිවරයා පත්කළ කමිටුව නොපිළිගන්නා බව කතෝලික සභාව අවධාරණය කරයි.
+The Catholic Church criticizes the President's newly appointed committee for not implementing recommendations from a previous investigation into the Easter bombings. They demand a special officer or office to handle the case, questioning the impartiality of the current committee members. The church suggests involving the Attorney General and making parliamentary laws within three months to avoid further delays and ensure justice.
 
-කොළඹ අගරදගුරු පදවියේ මාධ්‍ය ප්‍රකාශක සිරිල් ගාමිණි පියතුමන් අද (14) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ජනාධිපතිවරයාගෙන් ඉල්ලා සිටියේ ප්‍රහාරයේ වගකිවයුත්තන්ට නීතිය ක්‍රියාත්මක කිරීමට සැබවින්ම අවශ්‍යතාවක් ඇත්නම් එම ප්‍රහාරය පිළිබඳ කරුණු සොයාබලා නඩු පැවරීමට බලය ඇති විශේෂ නිලධාරියෙකු හෝ කාර්යාලයක් ස්ථාපිත කරන ලෙසය.
+🟩
 
-පාස්කු ඉරුදින බෝම්බ ප්‍රහාර පිළිබඳ ලද පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මියගේ සභාපතිත්වයෙන් යුතු කමිටුවක් පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කරනු ලැබීය.
+The Catholic Church emphasizes that the committee appointed by the President has not issued the committee appointed to investigate the pre-intelligence investigations on the Easter.
 
-ඒ සම්බන්ධයෙන් කතෝලික සභාවේ ප්‍රතිචාර දැක්වූයේ අද අගරදගුරු මැදුරේදී පැවැත්වූ ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+At the Archbishop of Colombo, Syrippa Gamini demanded the President at a press conference held today (14) to be held in the attack, a special officer or an office in the attack.
+
+Pensioners High Court Judge to investigate the pre-intelligence incident on the Easter bombings. N. J. President Ranil Wickremesinghe recently appointed a committee chaired by Mrs. Alwis.
+
+Responding to the Catholic Church in a press conference held at the Archbishop's Medger today.
 
 ...
 
 [Data](articles/45eceedf.json)
+
+[Extended Data](ext_articles/45eceedf.ext.json)
 
 ---
 

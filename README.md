@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 16:51:11**
+As of **2024-06-14 17:04:20**
 
 ## Newspaper Stats
 
-*Scraped **30,398** Articles*
+*Scraped **30,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
-adalk | 2,616
+adalk | 2,619
 adaderanalk | 3,443
 tamilmirrorlk | 3,556
-virakesarilk | 4,674
+virakesarilk | 4,675
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,900
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,396 (100.0%) of 30,398 articles have been extended.
+30,398 (100.0%) of 30,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### යතුරු පැදියක් දුම්රියේ ගැටී යතුරුපැදිකාරිය මරුට
+
+*2024-06-14 16:52:06* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදියක්-දුම්රියේ-ගැටී-යතුරුපැදිකාරිය-මරුට/11-410214) · `si`
+
+මීටියාගොඩ පොලිස්ය වසමේ වැරැල්ලාන දුම්රිය හරස් මාර්ගයේදී කාන්තාවක් පැදවූ යතුරු පැදියක් ගාල්ල සිට රඹුක්කන දක්වා ධාවනය වූ දුම්රියේ ගැටි  අනතුරක් සිදුව ඇතැයි පොලිසිය කියයි.
+
+මෙම අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදි කාරිය රෝහල් ගත කිරිමේදී ජීවිතක්ෂයට පත්ව ඇතැයි පොලිසිය කියයි. අනතුරින් මියගොස් ඇත්තේ හික්කඩුව ප්‍ර දේශයේ  පදිංචිකාරියකි.
+
+ඇයගේ නොසැලකිලිමත් යතුරු පැදි ධාවනය මෙම අනතුරට හේතුව වි තිබේ.
+
+◼️
+
+[Data](articles/cfb6adaa.json)
+
+---
+
+### දේවාලවල ආදායම අඩු වුණැයි කි ප්‍රකාශයට විරෝධයක්
+
+*2024-06-14 16:39:47* · [`adalk`](https://www.ada.lk/breaking_news/දේවාලවල-ආදායම-අඩු-වුණැයි-කි-ප්‍රකාශයට-විරෝධයක්/11-410212) · `si`
+
+සමාජ මාධ්‍යයේ පලවන විවිධ ප්‍රකාශ හේතුවෙන් දේවාල වල ආදායම සියයට පනහකින් අඩුවී ඇති බවට බස්නායක නිලමේවරුන්ගේ සංගමයේ සභාපතිවරයා සිදුකොට ඇති ප්‍රකාශයට බස්නායකවරුන්ගේ සංගමයේ හිටපු සභාපති සහ සබරගමුව බුල්තුමේ මහා සමන් දේවාලයේ වත්මන් බස්නායක නිලමේ ගැමුණු වලිසුන්දර මහතා දැඩි විරෝධයක් දක්වමින් එම සංගමයට ලිපියක් යොමු කොට තිබේ .
+
+එම ලිපිය මගින් බස්නායක නිලමේවරුන්ගේ සංගමයේ හිටපු සභාපතිවරයා පෙන්වා දී ඇත්තේ එම ප්‍රකාශය මගින් මෙරට දේවාල 31 ක බස්නායක නිලමේ වරුන්ද හිටපු බස්නායක නිලමේ වරුන් සහ වත්මන් දියවඩන නිලමේ ඇතුළු හිටපු දියවඩන නිලමේවරුන් දැඩි අපහාසයක් නින්දාවක් සහ හානියක් සිදුව ඇති බවයි .
+
+දේවාලයක බස්නායක නිලමේ ධූරයක් දරන්නාට ඇති ප්‍රධාන කාර්යයන් වන්නේ දේවාලයේ හතර මහා මංගල්‍යයන් සිදු කිරීමත් එහි පරිපාලන කටයුතු සිදු කිරීම බවත් දේවාලයක් යනු මුදල් අය කරන ස්ථානයක් නොවන බවත් එය බැතිමතුන්ගේ හිත සුව පිණිස ඇති පුණ්‍ය භූමියක් බවත් එම ලිපිය මගින් පෙන්වා දෙයි .
+
+...
+
+[Data](articles/0dfe7f7b.json)
+
+---
 
 ### Court orders for seized luxury vehicles to be handed over to Customs
 
@@ -48,11 +80,31 @@ Colombo Chief Magistrate Thilina Gamage, has ordered that the vehicles be handed
 
 [Data](articles/66489074.json)
 
+[Extended Data](ext_articles/66489074.ext.json)
+
+---
+
+### விதார்த் நடிக்கும் 'லாந்தர்' படத்தின் இசை வெளியீடு
+
+*2024-06-14 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186077) · `ta`
+
+சிறு பட்ஜெட் பட தயாரிப்பாளர்களின் ஆதர்ஷ நாயகனும், அறிமுக இயக்குநர்களின் முதன்மையான விருப்பத்திற்குரிய நடிகருமான விதார்த் கதையின் நாயகனாக காக்கி உடை அணிந்து காவல் அதிகாரியாக நடித்திருக்கும் 'லாந்தர்' எனும் திரைப்படத்தின் இசை வெளியிடப்பட்டிருக்கிறது.‌
+
+இதனை நடிகர் சங்கத்தின் துணைத் தலைவரான பூச்சி முருகன் வெளியிட, பட குழுவினரும், இசை வெளியீட்டு விழாவிற்கு வருகை தந்திருந்த சிறப்பு அதிதிகளும் இணைந்து பெற்றுக் கொண்டனர்.‌
+
+இயக்குநர் ஷாஜி சலீம் இயக்கத்தில் உருவாகி இருக்கும் 'லாந்தர்- இரவின் அடையாளம்' எனும் திரைப்படத்தில் விதார்த், ஸ்வேதா டோரத்தி, விபின், சஹானா, பசுபதி ராஜ், கஜராஜ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஞான சௌந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எம். எஸ். பிரவீண் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை எம் சினிமா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் பத்ரிநாத் மற்றும் ஸ்ரீ விஷ்ணு ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/24be8f95.json)
+
 ---
 
 ### Gold jewelery worth Rs 20 lakhs
 
-*2024-06-14 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186073) · `ta`
+*2024-06-14 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186073) · `ta`
 
 A man broke into a woman's house in Kattankudi, robbing her of gold jewelry worth Rs 20 lakh. The incident occurred around 1 pm when the woman was alone, as her husband works abroad. The thief assaulted her before fleeing with the valuables. Neighbors found the woman injured and alerted the police, who are now investigating the case.
 
@@ -78,23 +130,29 @@ A complaint has been lodged with the Kattankudi police and the police are conduc
 
 ---
 
-### යතුරුපැදියක් දුම්රියේ ගැටී කාන්තාවක් ජීවිතක්ෂයට
+### Woman dies after collision with a motorcycle
 
 *2024-06-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197757) · `si`
 
-අද (14) උදෑසන මීටියාගොඩ, වැරැල්ලාන මුදුගොඩ මාර්ගයේ ධාවනය කරමින් තිබූ යතුරුපැදියක් දුම්රියේ ගැටී අනතුරක් සිදුව තිබිණි.
+In Meetiyagoda, a woman died after her car collided with a motorcycle traveling from Galle to Rambukkana. The motorcyclist, seriously injured, was taken to Balapitiya Hospital. The victim, aged 53 and from Hikkaduwa, had her body also placed at Balapitiya Hospital.
 
-යතුරුපැදිය වැරැල්ලාන දුම්රිය හරස් මාර්ගයේ දී ගාල්ල සිට රඹුක්කන දක්වා ධාවනය වූ දුම්රියේ ගැටී අනතුර සිදුවුණි.
+🟩
 
-එහිදී යතුරුපැදිකාරිය බරපතළ තුවාල ලබා, බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්වුණි.
+A motorbike traveled on Meetiyagoda, a motorbike collided with Meetiyagoda, Watiyagoda today.
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ අවුරුදු 53ක් වූ කළුපේ, හික්කඩුව ප්‍රදේශයේ පදිංචිකාරිණියකි.
+The motorbike was hit by Galle to Rambukkana at Galle to Rambukkana at the Greater Railway Cross road.
 
-පැදිකාරියගේ නොසැලකිලිමත් රිය ධාවනය හේතුවෙන් අනතුර සිදුව ඇති අතර, මෘත ශරීරය බලපිටිය රෝහලේ තැන්පත් කර ඇත.
+The motorcyclist was seriously injured and admitted to the Balapitiya Hospital.
+
+The victim was 53 years of resident of Hikkaduwa.
+
+The body was placed at the Balapitiya Hospital while the body was placed at the Balapitiya Hospital.
 
 ◼️
 
 [Data](articles/9cc07260.json)
+
+[Extended Data](ext_articles/9cc07260.ext.json)
 
 ---
 
@@ -1017,6 +1075,28 @@ He was speaking at the Tesla's headquarters at the time of the Annual Summit's A
 [Data](articles/9fcd72b8.json)
 
 [Extended Data](ext_articles/9fcd72b8.ext.json)
+
+---
+
+### ගුණතිලක රාජපක්ෂට එරෙහිව නිතිය හමුවට යන බව මහින්දානන්ද කියයි
+
+*2024-06-14 11:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගුණතිලක-රාජපක්ෂට-එරෙහිව-නිතිය-හමුවට-යන-බව-මහින්දානන්ද-කියයි/11-410211) · `si`
+
+තමන්ට පහර දි තුවාල සිදු කල බවට මාධ්‍ය හරහා අසත්‍ය චෝදනා කිරිම සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට එරෙහිව නිතිමය පියවර ගන්නා බව මහනුවර දිස්ත්‍රික් පා.ම මහින්දානන්ද අලුත්ගමගේ මහතා පැවසිය.
+
+මහින්දානන්ද අලුත්ගමගේ මහතා ඒ බැව් කියා සිටියේ (14) දින නාවලපිටිය ප්‍රදේශයේ විශේෂ මාධ්‍ය හමුවක් පවත්වමිණි.
+
+“පා.ම ගුණතිලක රාජපක්ෂ මන්ත්‍රිවරයා විසින් පසුගියදා ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ රැස්විමේදි මා ඔහු පහර දුන් බවට පහර දිමෙන් ඔහුගේ පාදයට බරපතල තුවාල සිදු වු බවට ඔහුගේ පුත් නිලුපුල් රාජපක්ෂ සහ ගුණතිලක රාජපක්ෂ අවස්තා හතරකදි මාධ්‍යය හරහා මට චෝදනා කර තිබුණා.
+
+මම එම චෝදනාව තරයේ ප්‍රතික්ෂේප කරනවා , මම මගේ නිතිඥයවරයාට උපදෙස් දුන්නා එම දෙදෙනාට එරෙහිව නීතිමය පියවර ගන්න කියලා.
+
+ගුණතිලක රාජපක්ෂ මහතා එදින රාජ්‍ය නිලධාරින් ඉදිරියේදි පරුෂ වචනයෙන් බැන වැදුණා , මම ඔහුට උපදෙස් දුන්නා රාජ්‍ය නිලධාරින් ඉදිරියේ එහෙම හැසිරෙන්න එපා කියලා.
+
+එතනදි බහින් බස් විමක් තමයි ඇති වුණේ පසුව ඔහු විසින් පොලිසියට භාර දිලා තියෙනවා ඇසින් දුටු සාක්ෂිකරුවන් සිව්දෙනෙක් මම ඔහුට පහර දුන්නා කියලා.
+
+...
+
+[Data](articles/dd582f36.json)
 
 ---
 
@@ -2145,93 +2225,5 @@ The police, who are conducting investigations, are taking steps to arrest others
 [Data](articles/136f7c31.json)
 
 [Extended Data](ext_articles/136f7c31.ext.json)
-
----
-
-### Ocean: University student who is looking for the lovely world of the sea
-
-*2024-06-14 02:11:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0wwxp3xgvko) · `si`
-
-Ocean, a university student, seeks the beauty of the sea but faces threats from pollution affecting coral reefs, fish, and marine life, dedicating efforts to protect the underwater ecosystem.
-
-🟩
-
-None contains none of this. "The world is very quiet,". It is very well in the sea
-
-Ocean: University student who is looking for the lovely world of the sea
-
-The coral reefs, fish, sea gracks and other aquatic species have threatened the survival of the ecosystem.
-
-Therefore, we met in a university student dedicated to the bottom of the sea.
-
-◼️
-
-[Data](articles/b6df5015.json)
-
-[Extended Data](ext_articles/b6df5015.ext.json)
-
----
-
-### Shakib al -Hasan and Rishad Hossain increased the Super 8 chance of Bangladesh
-
-*2024-06-14 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186033) · `ta`
-
-Shakib al-Hasan and Rishad Hossain led Bangladesh to a 25-run win against the Netherlands in the R20 World Cup, enhancing Bangladesh's chances of advancing to the Super 8 stage. Shakib's unbeaten half-century and Rishad's top bowling performance were key. Bangladesh scored 159/5 in 20 overs, with Shakib contributing 64 runs. The Netherlands, batting second, were bowled out for 134 after losing 8 wickets. This victory puts Bangladesh in a strong position to qualify for the Super 8, while the Netherlands' fate remains uncertain.
-
-🟩
-
-Bangladesh won by 25 runs in the R20 World Cup for the D Group, which came to an end at the St. Vincent Kingstown Anos Vale Stadium between Bangladesh and the Netherlands.
-
-With this victory, Bangladesh, which scored 4 points, increased its chance to spit its Super 8. Bangladesh has a point in the match with Nepal to go to the Super 8 round.
-
-Meanwhile, the team that lost the match is suspected to go to Theland Super 8 round.
-
-When the Netherlands were bowled out for a reply in the match, Sri Lanka was confirmed to be out of the first round when 5 overs were completed.
-
-Shakib al -Hasan's unbeaten half -century and the best bowling of Rishad Ho Syon played a major role in Bangladesh's victory.
-
-Bangladesh were the first to bat in the match and scored 159 runs for the loss of 5 wickets in 20 overs.
-
-After the first two wickets were hit for 23 runs, Dhazid Hasan and Shakib al -Hasan shared 48 runs in the 3rd wicket.
-
-Tansit Hasan scored 35 runs. Following him, Tauhit Ridoi left with 9 runs.
-
-...
-
-[Data](articles/180bc912.json)
-
-[Extended Data](ext_articles/180bc912.ext.json)
-
----
-
-### Is there another way? Debt restructuring, IMF and future of Sri Lanka
-
-*2024-06-14 00:48:18* · [`dailyftlk`](https://www.ft.lk/opinion/Is-there-another-way-Debt-restructuring-IMF-and-future-of-Sri-Lanka/14-763052) · `en`
-
-International experiences on debt restructuring and negotiating with the International Monetary Fund (IMF) were shared with civil society, politicians and the media on 10 June at the Sri Lanka Foundation Institute in Colombo.
-
-The former Minister of Economy of Argentina, Professor Martín Guzmán, currently at Columbia University in New York, University of Massachusetts, Amherst economist and International Development Economics Associates (IDEAs) co-founder Professor Jayati Ghosh, and IDEAs Executive Director Charles Abugre made presentations at the seminar titled, ‘Is there another way? Debt restructuring, the IMF and the future of Sri Lanka’. This event is an initiative of the Yukthi Collective, a platform of activists and academics engaged in research and advocacy in support of working people’s struggles for democracy and justice.
-
-...
-
-[Data](articles/5dd9c8be.json)
-
-[Extended Data](ext_articles/5dd9c8be.ext.json)
-
----
-
-### Olympian deception
-
-*2024-06-14 00:44:44* · [`dailyftlk`](https://www.ft.lk/opinion/Olympian-deception/14-763051) · `en`
-
-Although Sri Lanka never wins any medals, the results on the field have no relevance to the greedy officials who are on another track
-
-While the best athletes of the world are gathering in France for the great Olympic Games, the Sri Lankan Olympic Committee (NOC) is to be investigated by the Police on instructions of the Attorney-General. Our Olympic officials have not only failed dismally to raise our sporting profile; they have embarrassed the idea of sports by their deep rooted corruption.
-
-...
-
-[Data](articles/805a9ad6.json)
-
-[Extended Data](ext_articles/805a9ad6.ext.json)
 
 ---

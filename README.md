@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 22:53:24**
+As of **2024-06-14 23:05:46**
 
 ## Newspaper Stats
 
-*Scraped **30,434** Articles*
+*Scraped **30,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,449
 tamilmirrorlk | 3,560
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,912
+adaderanasinhalalk | 4,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,433 (100.0%) of 30,434 articles have been extended.
+30,434 (100.0%) of 30,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### මේ කමිටුව පිළිගන්නේ නෑ...-කතෝලික සභාව
+
+*2024-06-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197771) · `si`
+
+පාස්කු ඉරුදින බෝම්බ ප්‍රහාර පිළිබඳ ලද පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට අදාළව ජනාධිපතිවරයා පත්කළ කමිටුව නොපිළිගන්නා බව කතෝලික සභාව අවධාරණය කරයි.
+
+කොළඹ අගරදගුරු පදවියේ මාධ්‍ය ප්‍රකාශක සිරිල් ගාමිණි පියතුමන් අද (14) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ජනාධිපතිවරයාගෙන් ඉල්ලා සිටියේ ප්‍රහාරයේ වගකිවයුත්තන්ට නීතිය ක්‍රියාත්මක කිරීමට සැබවින්ම අවශ්‍යතාවක් ඇත්නම් එම ප්‍රහාරය පිළිබඳ කරුණු සොයාබලා නඩු පැවරීමට බලය ඇති විශේෂ නිලධාරියෙකු හෝ කාර්යාලයක් ස්ථාපිත කරන ලෙසය.
+
+පාස්කු ඉරුදින බෝම්බ ප්‍රහාර පිළිබඳ ලද පූර්ව බුද්ධි තොරතුරු සම්බන්ධයෙන් බලධාරීන් ගත් ක්‍රියාමාර්ග විමර්ශනයට විශ්‍රාමික මහාධිකරණ විනිසුරු ඒ. එන්. ජේ. ද අල්විස් මහත්මියගේ සභාපතිත්වයෙන් යුතු කමිටුවක් පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කරනු ලැබීය.
+
+ඒ සම්බන්ධයෙන් කතෝලික සභාවේ ප්‍රතිචාර දැක්වූයේ අද අගරදගුරු මැදුරේදී පැවැත්වූ ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+
+...
+
+[Data](articles/45eceedf.json)
+
+---
 
 ### President prepare to send classes
 
@@ -508,19 +526,27 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 
 ---
 
-### බස්නාහිර සමූපකාර විධිමත් භාවයකින් තොරව ණය දීලා
+### Lending credit without Western Co-operative
 
 *2024-06-14 17:03:12* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-සමූපකාර-විධිමත්-භාවයකින්-තොරව-ණය-දීලා/11-410215) · `si`
 
-බස්නාහිර පළාත් සභාවේ සහ සමූපකාර සංවර්ධන දෙපාර්තමේන්තුවේ වත්මන් කාර්ය සාධනය සම්බන්ධයෙන් ර‍ජයේ ගිණුම් පිළිබඳ කාරක සභාවේ අවධානය යොමු විය.
+The Committee on Public Accounts scrutinized the Western Provincial Council and the Co-operative Development Department's performance, highlighting issues like weak regulation causing crises in Western Province co-operatives and misuse of funds. The committee recommended investigations into fraudulent practices and urged officials to improve road transport management and bus deployment strategies.
 
-මේ පිළිබඳ සාකච්ඡා කෙරුණේ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+🟩
 
-මෙහිදී 2020, 2021 සහ 2022 වර්ෂවල විගණකාධිපති වාර්තා පදනම් කර ගනිමින් බස්නාහිර පළාත් සභාවේ සහ සමූපකාර සංවර්ධන දෙපාර්තමේන්තුවේ වත්මන් කාර්ය සාධනය සම්බන්ධයෙන් සාකච්ඡා කිරීම සිදු වූ අතර කාරක සභාව ආරම්භ කරමින් කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ බස්නාහිර පළාත් සභාව සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡා කළ යුතු බවත් මේ නිසා කොටස් 3ක් වශයෙන් මෙම සාකච්ඡාව සිදු කරන බවත් ඉන් පළමු කොටස මෙදින පවත්වන බවත් ය.
+The Committee on Public Accounts focused on the current performance of the Western Provincial Council and the Co-operative Development Department.
+
+The Committee on Accounts Committee was discussed when the Hon. Lasantha Alagiyawanna Meeting in Parliament recently.
+
+This was discussed with the current performance of the Western Provincial and Co-operative Development Department based on the Auditor General's records in 2020, 2020, 2022 and 2022.It is the discussion of the discussion and the first part is held today.
+
+Accordingly, the Committee focused on the crisis due to the weak regulation of the Western Province co-operative societies in the Western Province Co-operative Societies in the Western Province.. The committee pointed out that this matter has already caused a massive tragedy.The Committee pointed out that the Western Provincial Department of Co-operative Development should work and that the policy of the Western Province should work in general.
 
 ...
 
 [Data](articles/3a50e8d9.json)
+
+[Extended Data](ext_articles/3a50e8d9.ext.json)
 
 ---
 
@@ -2335,27 +2361,5 @@ The Assistant Superintendent of Assistant was reportedly reported that the Assis
 [Data](articles/cd36b44d.json)
 
 [Extended Data](ext_articles/cd36b44d.ext.json)
-
----
-
-### Notice to drivers going through Kohuwala Junction
-
-*2024-06-14 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197737) · `si`
-
-Due to Kohuwala flyover construction, heavy traffic expected tomorrow. Use alternate routes; heavy vehicles banned from Kohuwala bridge area.
-
-🟩
-
-Police say that the construction of the flyover construction at Kohuwala is restricted tomorrow (15), police said.
-
-The police informed the public to use alternative routes to reduce the traffic congestion within two months.
-
-The heavy vehicles traveling along the road has been temporarily stopped towards Kohuwala bridge.
-
-◼️
-
-[Data](articles/6db44485.json)
-
-[Extended Data](ext_articles/6db44485.ext.json)
 
 ---

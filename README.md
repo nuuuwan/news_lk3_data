@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 11:54:17**
+As of **2024-06-14 12:07:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,345 (100.0%) of 30,354 articles have been extended.
+30,354 (100.0%) of 30,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### සංවර්ධන නිලධාරීන් ට දැනුම්දීමක්
+### Notice to Development Officers
 
 *2024-06-14 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197745) · `si`
 
-සංවර්ධන නිලධාරී සේවයේ I, II සහ 111 ශ්‍රේණි වල කඩඉම් විභාග පැවැත්වීමේ දිනය සම්බන්ධයෙන් ශ්‍රී ලංකා සංවර්ධන පරිපාලන ආයතනය නිවේදනයක් නිකුත්කර තිබේ.
+The Sri Lanka Institute of Development Administration announced that the cutting exams for Development Secretariat I, II, and III will take place on June 30, 2022. Applicants should have received their exam tickets; otherwise, they can download them from www.slida.lk.
 
-එහි දැක්වෙන්නේ අදාළ විභාග 2024 ජුනි මස 30 වනදා පැවැත්වෙන බවයි.
+🟩
 
-විභාග ප්‍රවේශපත් අයදුම්කරුවන් සඳහා ඊමේල් ඔස්සේ යවා ඇති බවත් එසේ නොලැබුණු අපේක්ෂකයින් සිය ප්‍රවේශපත www.slida.lk වෙබ් අඩවියෙන් බාගත හැකි බවත් අදාළ නිවේදනයෙහි දැක්වෙයි.
+The Sri Lanka Institute of Development Administration has issued a statement regarding the date of conducting the cutting examinations of the Development Secretariat I, II and 111.
+
+The examinations will be held on June 30, 202.
+
+The announcement states that the examination ticket has been sent to the applicants and that the candidates who have not received their ticket can be downloaded from www.slida.lk
 
 ◼️
 
 [Data](articles/ff4179ea.json)
+
+[Extended Data](ext_articles/ff4179ea.ext.json)
 
 ---
 
@@ -72,21 +78,29 @@ The judiciary said the magistrate had “cancelled the bond for an accused perso
 
 [Data](articles/d0d171ae.json)
 
+[Extended Data](ext_articles/d0d171ae.ext.json)
+
 ---
 
-### ඊලොන් මස්ක් ගේ වැටුප ගැන දැනගත්තොත් ඇඟ හිරිවැටෙයි
+### If you learn about E ියා ail salary
 
 *2024-06-14 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197744) · `si`
 
-ඊලොන් මස්ක් සඳහා වාර්තාගත වැටුපක් ගෙවීමට ගෙන ආ යෝජනාවට ටෙස්ලා සමාගමේ කොටස් හිමිකරුවන් එකඟතාවය ලබාදී තිබෙන බව වාර්තා වෙයි.
+Tesla shareholders approved a historic salary increase for CEO Elon Musk, who had advocated for higher compensation. This decision came during Tesla's annual summit in Texas, where Musk expressed his desire for a raise.
 
-තමාගේ වැටුප වැඩිකළ යුතු බවට මස්ක් මාස ගණනක සිට පවසමින් සිටි අතර එම යෝජනාව අනුමත වීම සම්බන්ධයෙන් ඔහු සිය සතුට ප්‍රකාශ කර තිබුණේ "Hot damn, I love you guys," යනුවෙන් පවසමිනි.
+🟩
 
-ඔහු එසේ පවසා තිබුණේ ටෙස්ලා සමාගමේ මූලස්ථානය ලෙස සැලකෙන ටෙක්සාස් හි පැවති කොටස් හිමියන්ගේ වාර්ෂික සමුළුවට එක්වූ අවස්ථාවේදී ය.
+Tesla Company's stock owners agreed to the proposal to pay a record salary for Elon Meal.
+
+He was said to have been saying that his salary should be increased with months.
+
+He was speaking at the Tesla's headquarters at the time of the Annual Summit's Annual Summit in Texas.
 
 ◼️
 
 [Data](articles/9fcd72b8.json)
+
+[Extended Data](ext_articles/9fcd72b8.ext.json)
 
 ---
 
@@ -198,6 +212,8 @@ A bond maturing on 01.10.2032 was quoted at 11.97/12.03 percent from 11.95/12.15
 
 [Data](articles/cd10b97e.json)
 
+[Extended Data](ext_articles/cd10b97e.ext.json)
+
 ---
 
 ### Man arrested for bribes
@@ -261,6 +277,8 @@ Under the SDP Law not only is corporate tax exemptions given, but also value add
 ...
 
 [Data](articles/b493d758.json)
+
+[Extended Data](ext_articles/b493d758.ext.json)
 
 ---
 
@@ -491,6 +509,8 @@ Sri Lanka will also remove several other exchange controls which have fallen fou
 ...
 
 [Data](articles/a0bbcad2.json)
+
+[Extended Data](ext_articles/a0bbcad2.ext.json)
 
 ---
 
@@ -738,6 +758,8 @@ Sri Lanka bank non-performing loans went up as much as 13 percent, with a combin
 
 [Data](articles/aabb3b14.json)
 
+[Extended Data](ext_articles/aabb3b14.ext.json)
+
 ---
 
 ### AKD arrives in London
@@ -800,6 +822,8 @@ Valued added tax will be imposed on digital services, as part of a slew of new t
 
 [Data](articles/6ebf6987.json)
 
+[Extended Data](ext_articles/6ebf6987.ext.json)
+
 ---
 
 ### Critique On IMF’s Second Review Under Extended Fund Facility
@@ -813,6 +837,8 @@ The Economy is a system. The way we understand any system might be different. We
 ...
 
 [Data](articles/674b59f9.json)
+
+[Extended Data](ext_articles/674b59f9.ext.json)
 
 ---
 

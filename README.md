@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 09:19:12**
+As of **2024-06-14 09:34:30**
 
 ## Newspaper Stats
 
-*Scraped **30,330** Articles*
+*Scraped **30,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
 adalk | 2,613
-adaderanalk | 3,431
-tamilmirrorlk | 3,546
+adaderanalk | 3,433
+tamilmirrorlk | 3,547
 virakesarilk | 4,660
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,884
@@ -26,25 +26,67 @@ adaderanasinhalalk | 4,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,328 (100.0%) of 30,330 articles have been extended.
+30,330 (100.0%) of 30,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### கொஹுவலை சந்தி வழியாக பயணிக்கும் வாகன சாரதிகளுக்கான அறிவிப்பு!
+### Ex-diplomat slams govt’s handling of external debt restructuring process
+
+*2024-06-14 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99868/ex-diplomat-slams-govts-handling-of-external-debt-restructuring-process-) · `en`
+
+The former Sri Lankan Permanent Representative to the United Nations in Geneva, Dr. Dayan Jayatilleka says that Sri Lanka could have struck a better deal with the International Monetary Fund (IMF), if the island nation went to the international lender as a bipartite team consisting of both government and opposition parties.
+
+While joining Ada Derana’s current Affairs Programme ‘At HydePark’ this afternoon (13), Dr. Jayatilleka alleged that the government is not handling the external debt restructuring process in the best way possible.
+
+He further highlighted that the leaders of the country have managed Sri Lanka in such a way that it is now unable to be completely immune to external pressure when taking internal policy decisions.
+
+Commenting on the upcoming election, Dr. Jayatilleka said that Sri Lanka needs a leader with a popular mandate and that the country requires a generational shift in leadership in order to move forward.
+
+...
+
+[Data](articles/67de1707.json)
+
+---
+
+### Sufficient progress for Sri Lanka’s debt restructuring to move forward - IMF
+
+*2024-06-14 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99867/sufficient-progress-for-sri-lankas-debt-restructuring-to-move-forward-imf) · `en`
+
+The International Monetary Fund (IMF) says that there is sufficient progress for Sri Lanka’s Debt Restructuring process to move forward.
+
+However, the IMF further said Sri Lanka’s economy is still vulnerable and the path to debt sustainability remains knife- edged hence the country need to sustain the reform momentum.
+
+Meanwhile, joining the IMF press briefing on Sri Lanka’s second review of EFF program held virtually this morning (14), IMF Senior Mission Chief for Sri Lanka Peter Breuer stated that the IMF fully respect the democratic process for elections to take place in any country and they adapt to the relevant process.
+
+Furthermore, he mentioned that the elections may affect the timing of IMF’s missions they conduct in order to discuss compliance with the programme and reforms going forward.
+
+...
+
+[Data](articles/b4adf50d.json)
+
+---
+
+### Motorists traveling via Kohuwala junction
 
 *2024-06-14 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186040) · `ta`
 
-கொஹுவலை சந்தியில் மேம்பாலம் நிர்மாணிக்கப்படவுள்ளதால் நாளை  சனிக்கிழமை (15) முதல் அப்பகுதியூடான போக்குவரத்து மட்டுப்படுத்தப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+Starting Saturday, traffic at Kohuwala junction will be limited due to bridge construction lasting two months. The police advise using alternative routes to ease congestion and ban heavy vehicles.
 
-இந்த நிர்மாணப் பணிகள் 02 மாத காலத்திற்கு மேற்கொள்ளப்படவுள்ளதால், அக்காலப்பகுதியில் போக்குவரத்து நெரிசலைக் குறைப்பதற்கு மாற்று வழிகளைப் பயன்படுத்துமாறு பொலிஸார் பொதுமக்களுக்கு  தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், கொஹுவலை மேம்பாலத்தை நோக்கி பயணிக்கும் கனரக வாகனங்கள் அப்பகுதியூடாக பயணப்பது தற்காலிகமாக நிறுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Traffic will be restricted from Saturday (15) from Saturday (15) as the bridge will be constructed at the Kohuwala junction, police said.
+
+Since the construction work is to be carried out for a period of two months, the police have told the public to use alternatives to reduce traffic congestion during that time.
+
+In addition, police said that heavy vehicles traveling to the Kohuwala bridge have been suspended.
 
 ◼️
 
 [Data](articles/aa03ecd0.json)
+
+[Extended Data](ext_articles/aa03ecd0.ext.json)
 
 ---
 
@@ -784,6 +826,24 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
+### ’புதிய சேவை யாப்புக்கு அங்கீகாரம்’
+
+*2024-06-14 00:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சேவை-யாப்புக்கு-அங்கீகாரம்/175-338893) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அமைச்சரவையின் அங்கீகாரத்தின் பின்னர் கிராம உத்தியோகத்தர்களின் புதிய சேவை யாப்பு அரசாங்க சேவை ஆணைக்குழுவினால் அங்கீகரிக்கப்பட்டுள்ளது. அவசியம் ஏற்படுமாயின் இந்தப் புதிய யாப்பில் திருத்தங்களைச் செய்வதற்கும் சந்தர்ப்பம் ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளது என  உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக்க பிரியந்த தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் அசோக்க பிரியந்த மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+தற்போது, அரசாங்கம் 'உறுமய' மற்றும் 'அஸ்வெசும' உள்ளிட்ட பல முக்கிய திட்டங்களை செயல்படுத்தியுள்ளது. அத்துடன் கடந்த காலத்தில் நிறுத்தப்பட்ட பல அபிவிருத்தித் திட்டங்கள் தற்போது ஆரம்பிக்கப்பட்டுள்ளன. பன்முகப்படுத்தப்பட்ட நிதி ஒதுக்கீடுகள் மூலம் கிராமம் மற்றும் நகரங்களில் மீண்டும் அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+அதற்கு ஆதரவளிப்பது அரச அதிகாரிகளின் பொறுப்பாகும். எனவே மக்களுக்கான கடமைகளை நிறைவேற்ற முடியுமான இந்த சந்தர்ப்பத்தில் நாம் அனைவரும் நமது கடமையை செய்ய வேண்டும்.
+
+...
+
+[Data](articles/c5a03324.json)
+
+---
+
 ### Model welfare programs reach people
 
 *2024-06-14 00:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நலன்புரி-வேலைத்திட்டங்கள்-மக்களை-சென்றடையும்/175-338892) · `ta`
@@ -1226,19 +1286,27 @@ The Netherlands scored the toss and win the bowling first.
 
 ---
 
-### මුද්‍රණ දෙපාර්තමේන්තුව චක්‍රලේඛ උල්ලංගණය කරයි
+### Printing Department violates circulars
 
 *2024-06-13 20:02:26* · [`adalk`](https://www.ada.lk/breaking_news/මුද්‍රණ-දෙපාර්තමේන්තුව-චක්‍රලේඛ-උල්ලංගණය-කරයි/11-410207) · `si`
 
-රජයේ මුද්‍රණ දෙපාර්තමේන්තුව විසින් අය වැය චක්‍රලේඛ විධිවිධාන උල්ලංඝනය කරමින්  සමස්ත අතිකාල දීමනා හා වෙනත් දීමනා 2023 ජනවාරි මාසයේ සිට අනුමත ප්‍රතිපාදන ඉක්මවා 60.39% ක්  වැඩියෙන්  වියදම් කොට ඇති බව  ජුනි මස 10 වැනි දා  නිකුත් කර ඇති විගණන වාර්තාවක සඳහන් වේ.
+The Printing Department exceeded its overtime and allowances budget by 60.39% from January to June 2023, with a reported expenditure of Rs. 133,61,897 in just two months. An audit highlighted non-compliance with three conditions set for commercial printing allowance payments since 1998. Despite this, the department continued to pay out significant sums, including Rs. for commercial printing allowances in 2023. The Ministry of Finance aims to reduce overtime and holiday pay by at least 6%.
 
-දෙපාර්තමේන්තුවේ සේවකයන් සඳහා  2023 වර්ෂයේ සහ 2024 මාසයේ ජනවාරි හා පෙබරවාරි  මාස 02ද ඇතුළුව අතිකාල හා වෙනත් දීමනා ලෙස  රුපියල් එකසිය පනස් නව කෝටි දස ලක්ෂ හැත්තෑ හය දහස් අටසීය අනූ පහක කොටසක් (1,591,076,895) මුදලක් 2024 වර්ෂයේ ගෙවා තිබුණි.
+🟩
 
-2024 වර්ෂයේ ජනවාරි හා පෙබරාවරි මාස 02 තුළ අතිකාල හා වෙනත් දීමනා ලෙස රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ සේවකයන්ට රුපියල් දහතුන් කෝටි තිස් හය ලක්ෂ දාසය දහස් නවසීය අසූ හතක මුදලක් (133,616,897) ගෙවා ඇති බව ද එම විගණන වාර්තාවේ සඳහන් වේ. 2023 වර්ෂයේ ජනවාරි මස සිට දෙසැම්බර් 31 වන දා දක්වා අතිකාල හා වෙනත් දීමනා ලෙස  අයවැය  මගින් රුපියල් අනූ නව කෝටි විසි ලක්ෂයක (992,000,000) ප්‍රතිපාදන අනුමත කොට තිබුණි.
+The total overtime and other allowances of the government printing circulars and other allowances have been exceeding 60.39% exceeding 60.39% over June from January.
+
+In the year 2023, the overtime and other allowances of the department were paid Rs.
+
+The audit report reports that the employees of the Government Printing (133,616,897), as overtime and other allowances in two months in two months in January and February, 2024.. The budget was approved as overtime and other allowances from January to 31st January to 31 December 31, 20 million rupees.
+
+Cabinet notice decision had been informed that the staff officers of the Department should meet three conditions in payment of commercial printing allowance. According to the audit, the three conditions have not been met since 1998.
 
 ...
 
 [Data](articles/c740d8c4.json)
+
+[Extended Data](ext_articles/c740d8c4.ext.json)
 
 ---
 
@@ -2175,81 +2243,5 @@ Sitharaman was greeted at the office in North Block by Finance Secretary TV Soma
 [Data](articles/5708b317.json)
 
 [Extended Data](ext_articles/5708b317.ext.json)
-
----
-
-### To the attention of Senthil Thondaman
-
-*2024-06-13 16:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானின்-கவனத்துக்கு/175-338871) · `ta`
-
-President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have called upon K. Jayasiril, former chairman and religious activist of the Karadivu Pradeshiya Sabha, regarding a two-day auctioneer event scheduled for July 11th and 12th in Kadirgama. They emphasize the importance of adhering to traditional practices and request that the event be officially declared in the Gazette.
-
-🟩
-
-President Ranil Wickremesinghe and Eastern Province Governor Senthil Thondaman have appealed to the former chairman and religious activist of the Karadivu Pradeshiya Sabha, K. Jayasiril.
-
-The two -day auctioneer has been announced on the opening of the wildfire and is currently being decided on Wednesday (12) in Kadirgama as the second day of July.
-
-This is not applicable to the security guards from the North and East. The flag cannot go up within 4 days.. My idea is that this traditional pilgrimage is planned to be disabled.
-
-Therefore, he has requested that the trail be traditionally maintained in the way of maintaining proper decisions.
-
-He also reiterated that the trail should be declared in the Gazette.
-
-◼️
-
-[Data](articles/c1efa575.json)
-
-[Extended Data](ext_articles/c1efa575.ext.json)
-
----
-
-### The target of the seven wealthy countries in the world is the target
-
-*2024-06-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197720) · `si`
-
-The G7 summit, hosted by Italy, gathers leaders from the world's wealthiest nations, including Canada, France, Germany, Japan, the UK, and the US, focusing on global issues like Ukraine's conflict and exploitation. Reports suggest the inclusion of African and Indo-Pacific leaders, with US President Joe Biden set to meet India's PM Narendra Modi, details pending.
-
-🟩
-
-The G7 summit, attending the leaders of the World's seven wealthy countries, will be held in Italy.
-
-The conference will be held today with the participation of the leaders of Canada, France, Germany, Italy, Japan, British and America.
-
-In addition, foreign media reports that Leaders of the G7 council in Africa and Indo Pacific countries attend the G7 summit.
-
-It is also said that this year's conference will focus on the war conflicts in Ukraine and exploitation.
-
-Meanwhile, US President Joe Biden is ready to meet Indian Prime Minister Narendra Modi, foreign media reports.
-
-It is reported that the meeting will be held in parallel to the G7 summit in Italy.
-
-However, there is no record of a specific date or place where the two leaders meet.
-
-◼️
-
-[Data](articles/7779c902.json)
-
-[Extended Data](ext_articles/7779c902.ext.json)
-
----
-
-### T20 World Cup nightmare: Sri Lanka team stranded in USA due to Florida floods
-
-*2024-06-13 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99859/t20-world-cup-nightmare-sri-lanka-team-stranded-in-usa-due-to-florida-floods) · `en`
-
-The Sri Lanka cricket team’s T20 World Cup campaign has been struck by a double dose of bad luck. Heavy flooding in Florida has left them stranded in Fort Lauderdale, forcing them to delay their travel to Saint Lucia for their next match.
-
-The team’s original flight to the Caribbean was canceled due to the floods, throwing their schedule into disarray. With their next match against the Netherlands scheduled for Monday, June 17th, Sri Lanka are hoping to fly out on Friday.
-
-Floods in Florida has left Sri Lankan team stranded in US. The team was supposed to fly out from Fort Lauderdale this evening to Caribbean, but now are staying back in US. A state of emergency has been issued by Mayor of Fort Lauderdale. The team is expected to fly out tomorrow.
-
-Adding to their woes, Sri Lanka’s match against Nepal on Wednesday was completely washed out due to the same extreme weather. This resulted in a shared point for both teams, which isn’t ideal for Sri Lanka’s qualification chances.
-
-...
-
-[Data](articles/488f66e7.json)
-
-[Extended Data](ext_articles/488f66e7.ext.json)
 
 ---

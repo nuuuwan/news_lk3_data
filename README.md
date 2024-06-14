@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 07:47:01**
+As of **2024-06-14 08:01:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,306 (100.0%) of 30,321 articles have been extended.
+30,316 (100.0%) of 30,321 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,6 +66,8 @@ Fernando and others express disbelief over former colleagues aligning with JVP w
 
 [Data](articles/229cc0e1.json)
 
+[Extended Data](ext_articles/229cc0e1.ext.json)
+
 ---
 
 ### President requests Governors to expedite delivery of benefits welfare programs to people
@@ -86,6 +88,8 @@ President Ranil Wickremesinghe also reminded divisional secretaries of their res
 
 [Data](articles/ff49352f.json)
 
+[Extended Data](ext_articles/ff49352f.ext.json)
+
 ---
 
 ### Splendour of global gems at Ratnapura Expo 2024
@@ -101,6 +105,8 @@ This event, organised by the National Gem and Jewellery Authority (NGJA), aims t
 ...
 
 [Data](articles/6d1b9c76.json)
+
+[Extended Data](ext_articles/6d1b9c76.ext.json)
 
 ---
 
@@ -120,6 +126,8 @@ Mireka Tower, towering at 50 stories, stands as a beacon of sustainable architec
 
 [Data](articles/4c3a4cdc.json)
 
+[Extended Data](ext_articles/4c3a4cdc.ext.json)
+
 ---
 
 ### Chinese delegation from Pudong visits BOI
@@ -131,6 +139,8 @@ A top level delegation from Pudong, China visited the Board of Investment (BOI) 
 ◼️
 
 [Data](articles/4b2ba154.json)
+
+[Extended Data](ext_articles/4b2ba154.ext.json)
 
 ---
 
@@ -146,6 +156,8 @@ PickMe COO Isira Perera says their services have been received favourably by the
 
 [Data](articles/a8898520.json)
 
+[Extended Data](ext_articles/a8898520.ext.json)
+
 ---
 
 ### Prime Group relocates Galle branch to elevate customer experience and reinforce commitment to excellence
@@ -157,6 +169,8 @@ Prime Group has announced the relocation of its Galle branch to No. 66, Havelock
 ...
 
 [Data](articles/f58df3b7.json)
+
+[Extended Data](ext_articles/f58df3b7.ext.json)
 
 ---
 
@@ -186,6 +200,8 @@ The company secured two gold and silver awards in the highly competitive Best Ma
 
 [Data](articles/867c0670.json)
 
+[Extended Data](ext_articles/867c0670.ext.json)
+
 ---
 
 ### SJB questions President’s motives behind new inquiry committee on Easter attacks
@@ -206,6 +222,8 @@ Samagi Jana Balawegaya (SJB) MP Mujibur Rahman claimed yesterday that President 
 
 [Data](articles/601735e0.json)
 
+[Extended Data](ext_articles/601735e0.ext.json)
+
 ---
 
 ### Namal warns Tamil community against election-time policy shifts
@@ -225,6 +243,8 @@ He criticised parties that opportunistically change their stances shortly before
 ...
 
 [Data](articles/0dd27c8a.json)
+
+[Extended Data](ext_articles/0dd27c8a.ext.json)
 
 ---
 

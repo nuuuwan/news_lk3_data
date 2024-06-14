@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 17:19:11**
+As of **2024-06-14 17:34:46**
 
 ## Newspaper Stats
 
-*Scraped **30,405** Articles*
+*Scraped **30,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,445
 tamilmirrorlk | 3,556
 virakesarilk | 4,675
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,901
+adaderanasinhalalk | 4,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,402 (100.0%) of 30,405 articles have been extended.
+30,405 (100.0%) of 30,406 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 ◼️
 
 [Data](articles/b8b68c06.json)
+
+[Extended Data](ext_articles/b8b68c06.ext.json)
 
 ---
 
@@ -57,6 +59,8 @@ Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen fu
 ...
 
 [Data](articles/7c567899.json)
+
+[Extended Data](ext_articles/7c567899.ext.json)
 
 ---
 
@@ -82,21 +86,55 @@ Her clumps have been the cause of this accident.
 
 ---
 
-### මේ වසරේ පළමු කාර්තුවේ දී මෙරට ආර්ථිකයේ වර්ධනයක්
+### සාගතයක් ගැන අනතුරු ඇඟවීමක්
+
+*2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197760) · `si`
+
+සිවිල් යුද්ධයකින් පීඩාවට පත්ව ඇති අප්‍රිකානු සූඩානයේ අවම වශයෙන් 756,000ක ජනතාවක් ඉදිරි මාස කිහිපය තුළ සාගතයකට මුහුණදෙනු ඇති බව එහි ක්‍රියාත්මක එක්සත් ජාතීන්ගේ සහන සංවිධාන පවසයි.
+
+පසුගිය දෙසැම්බරයේ නිකුත් කළ වාර්තාවලට අනුව පවා සූඩානයේ මිලියන 17.7ක් ජනතාවක්, එනම් ජනගහනයෙන් 37%ක් ආහාර අනාරක්ෂිතභාවයෙන් පෙළුෑණි.
+
+එහෙත් මේ වන විට මිලියන 25.6ක් එනම් ජනගහනයෙන් 54%ක් දරුණු ආහාර අර්බුදයකට මුහුණදෙමින් සිටී.
+
+ඒ අතුරින් මිලියන 9ක ජනතාව හදිසි ආධාර අවශ්‍ය නැත්නම් දරුණු තත්ත්වයක පසුවන බව වාර්තා වේ.
+
+සූඩාන හමුදා රජය නම් ප්‍රකාශ කරන්නේ රටතුළ සාගත තත්ත්වයක් නොමැති බවය.
+
+සුඩායේ සාගත තත්ත්වය පිළිබඳ නිසි ඇගයීමක් සිදුකිරීම ද ගැටලුකාරී වී තිබේ.
+
+ආරක්ෂක අවදානම, මාර්ග බාධක හා විදුලි සංදේශ සේවා ඇණහිටීම් ආදිය නිසා ඒ ආකාරයේ තොරතුරු දත්ත එක්රැස් කිරීම අභියෝගයක් බව රෝමය කේන්ද්‍ර කරගත් IPC හෙවත් ඒකාබද්ධ ආහාර ආරක්ෂණ අදියර වර්ගීකරණය ප්‍රකාශ කරයි.
+
+කෙසේ නමුත් සුඩානයේ තත්ත්වය පිළිබඳ ඔවුන් ඉදිරි සති කිහිපය තුළ නව වාර්තාවක් ඉදිරිපත් කිරීමට නියමිතයි.
+
+සුඩානයේ වත්මන් සිවිල් යුද්ධය ආරම්භ වූයේ පසුගිය වසරේ අප්‍රේල් මාසයේ සිටියි.
+
+...
+
+[Data](articles/806a826f.json)
+
+---
+
+### Sri Lanka's economy growth in the first quarter of this year
 
 *2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197759) · `si`
 
-2024 වර්ෂයේ පළමු කාර්තුවේ දී මෙරට දළ දේශීය නිෂ්පාදිතයේ වර්ධනය 5.3%ක් ලෙස දැක්වේ.
+In Q1 2024, Sri Lanka's GDP grew by 5.3%, reaching Rs. 3,161,963 million. Agriculture, industry, and services sectors saw increases of 1.1%, 11.8%, and 2.6% respectively.
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+🟩
 
-ඒ අනුව 2023 වසරේ පළමු කාර්තුවේ ස්ථාවර මිල ගණන් යටතේ රුපියල් මිලියන 3,161,963ක් ලෙස වාර්තා වූ දළ දේශීය නිෂ්පාදිතය 2024 වසරේ පළමු කාර්තුවේ දී රුපියල් මිලියන 3,329,583ක් ලෙස වාර්තා වී තිබේ.
+In the first quarter of 2024, the growth of GDP growth is 5.3%.
 
-2024 වසරේ පළමු කාර්තුවේ කෘෂිකාර්මික, කාර්මික හා සේවා ආර්ථික කටයුතු පිළිවෙලින් 1.1%, 11.8%ක් හා 2.6ක් ලෙස ධන වර්ධනයක් වාර්තා කර ඇත.
+The Department of Census and Statistics have issued a statement.
+
+Accordingly, the first quarter of 2023 was Rs. 3,161,963 million in the first quarter of 2024.
+
+The economic activities of agriculture, industrial and services in the first quarter of 2024 have been increased by 1.1%, 11.8% and 2.6 respectively.
 
 ◼️
 
 [Data](articles/8fe83a48.json)
+
+[Extended Data](ext_articles/8fe83a48.ext.json)
 
 ---
 
@@ -2225,27 +2263,5 @@ During this time, her 8 -year -old daughter, who was sitting in the Makkad area 
 [Data](articles/888821a3.json)
 
 [Extended Data](ext_articles/888821a3.ext.json)
-
----
-
-### One person arrested with cannabis in the gathering for information on the National Intelligence Unit
-
-*2024-06-14 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186037) · `ta`
-
-A 27-year-old from Kalovalam was arrested by Nelliyadi police for possessing 2.3kg of cannabis. The arrest came after the State Intelligence Unit tipped them off about a long-term cannabis trade. The suspect will face charges in court.
-
-🟩
-
-According to the state intelligence service, a 27 -year -old suspect from the Kalovalam area involved in the Kerala cannabis has been arrested by the Nelliyadi police in the area with a 02kg 300G Kerala ganja.
-
-The suspect has been arrested on the basis of information received by the State Intelligence Unit on a long -term trade of cannabis for a long time.
-
-Nelliyadi police, who are conducting serious investigations to the suspect, are to be produced before the Point Pedro Court on Friday.
-
-◼️
-
-[Data](articles/0caaf6ee.json)
-
-[Extended Data](ext_articles/0caaf6ee.ext.json)
 
 ---

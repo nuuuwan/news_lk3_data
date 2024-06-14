@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 10:52:51**
+As of **2024-06-14 11:04:37**
 
 ## Newspaper Stats
 
-*Scraped **30,339** Articles*
+*Scraped **30,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
-adalk | 2,613
-adaderanalk | 3,434
+adalk | 2,614
+adaderanalk | 3,435
 tamilmirrorlk | 3,548
 virakesarilk | 4,660
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,887
+adaderanasinhalalk | 4,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,338 (100.0%) of 30,339 articles have been extended.
+30,339 (100.0%) of 30,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### පහරදීම ගැන මහින්දානන්ද කිව්ව කතාව
+
+*2024-06-14 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197743) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට එරෙහිව නීතිමය පියවර ගන්නා බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+
+මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා පෙන්වා දෙන්නේ තමන් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදුන් බවට ඔහු මාධ්‍ය ඔස්සේ අසත්‍ය චෝදනාවක් සිදුකළ බවය.
+
+ඒ සම්බන්ධයෙන් පැහැදිලි කරමින් පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා දැක්වූ අදහස් පහතින්,
+
+◼️
+
+[Data](articles/93e46ffa.json)
+
+---
+
+### Vehicular movement limited near Kohuwala intersection
+
+*2024-06-14 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99870/vehicular-movement-limited-near-kohuwala-intersection) · `en`
+
+Vehicular movement will be limited near the Kohuwala intersection from tomorrow (15), due to ongoing construction work of the Kohuwala flyover.
+
+The construction work is expected to last for two months. Thus, motorists are advised to use alternate routes to avoid inconveniences during this period.
+
+Additionally, the entry of heavy vehicles traveling towards the Kohuwala Bridge has been temporarily halted, according to police.
+
+◼️
+
+[Data](articles/da98c566.json)
+
+---
 
 ### Man arrested for bribes
 
@@ -69,6 +101,8 @@ The President made these remarks during his keynote address at the inaugural ses
 ...
 
 [Data](articles/ae14de8c.json)
+
+[Extended Data](ext_articles/ae14de8c.ext.json)
 
 ---
 
@@ -1454,6 +1488,22 @@ The Netherlands scored the toss and win the bowling first.
 
 ---
 
+### මැරුණත් ’අලියා’ අත්නොහැරි පාක්ෂිකයා
+
+*2024-06-13 20:08:37* · [`adalk`](https://www.ada.lk/breaking_news/මැරුණත්-’අලියා’-අත්නොහැරි-පාක්ෂිකයා/11-410208) · `si`
+
+සිය වාසිය බලා පක්ෂය හා පාට මාරුකරන දේශපාලකයන්,අනුගාමිකයන් ඉන්නා අපේ රටේ දශක අටකට වැඩි කාලයක් තිස්සේ තමන් දර දිය ඇද්ද පක්ෂය මරණයේදී පවා ප්ර දර්ශනය කරමින් මිය ගිය අයෙකු පිළිබඳ කරන්දෙණිය මීගස්මිටියෙන් වාර්තා වේ.
+
+අන්තිම කැමැත්ත පරිදි තමා මියගිය දා තමා නියෝජනය කළ එක්සත් ජාතික පක්ෂයේ කොළ පාට ඇඳුම්  මළ සිරුරට අන්දවන ලෙස කරන්දෙණිය මීගස්පිටියේ තොම්මයා හකුරු සෝමසිරි මහතා සිය දූදරුවන්ගෙන් ඉල්ලා සිටියේය.
+
+ඒ අනුව ඔහු පෙරේදා(12දා) මිය ගිය පසු දේහයට දූදරුවන් ඇන්දවූවේ කොළ පාටින් මැසූ ඇඳුම්ය.තනි කොළ පාටින් ඇදුම් ඇඳ ඊයේ(13) පස්වරුවේදී ඔහු අවසන් ගමන් ගියේ අසූ හතර හැවිරිදි තිදරු පියෙකු තනි අලියෙකු බව පසක් කරමිනි.
+
+◼️
+
+[Data](articles/19b8db5c.json)
+
+---
+
 ### Printing Department violates circulars
 
 *2024-06-13 20:02:26* · [`adalk`](https://www.ada.lk/breaking_news/මුද්‍රණ-දෙපාර්තමේන්තුව-චක්‍රලේඛ-උල්ලංගණය-කරයි/11-410207) · `si`
@@ -2189,83 +2239,5 @@ Fernando further stated that although the government carried out rehabilitation 
 [Data](articles/05a807b6.json)
 
 [Extended Data](ext_articles/05a807b6.ext.json)
-
----
-
-### Sri Lanka stocks close down amid lack of clarity on debt restructuring
-
-*2024-06-13 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-lack-of-clarity-on-debt-restructuring-167878/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.03 percent, or 4.13 points, at 12,390; while the more liquid S&P SL20 Index closed down 0.05 percent, or 1.68 points, at 3,686.
-
-Turnover was 1.8 billion. Most of this came from trading on banking stocks (Rs738mn).
-
-“Market was down, even after the IMF news, because investors were expecting some clarity on the external debt restructuring; and this did not come,” market participants said. “There was very thin volumes traded.”
-
-Commercial Bank of Ceylon Plc saw the most volumes traded (Rs476mn) in the day. The share closed flat at 109.25.
-
-Except for Union Bank of Colombo Plc which closed up at 1.02, all banking stocks closed down or flat in the day.
-
-DFCC Bank Plc closed flat at 78.00, Hatton National Bank Plc closed down at 203.75, and Sampath Bank Plc closed down at 80.00.
-
-...
-
-[Data](articles/3cadd343.json)
-
-[Extended Data](ext_articles/3cadd343.ext.json)
-
----
-
-### Opposition parties should avoid acting like terrorists - Minister of Finance
-
-*2024-06-13 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185994) · `ta`
-
-Finance Minister Sehan Semasinghe warns opposition against destabilizing actions, reaffirming commitment to IMF agreements and economic reforms without making false promises. He highlights the IMF's positive stance towards Sri Lanka's economic recovery efforts, emphasizing the fund's support without imposing harsh conditions. The government acknowledges past economic missteps but asserts progress in stabilizing the nation's finances and moving towards economic reconstruction.
-
-🟩
-
-It is not going to change projects with the IMF.
-
-Opponents must avoid engaging in terrorist activities to weaken the stability of the international community and the people of the country on the economy.
-
-Finance Minister Sehan Semasinghe said he would not make fake promises for short political purposes.
-
-He made this statement during a media briefing held at the Ministry of Finance on Thursday (13).
-
-The International Monetary Fund has taken a favorable decision for Sri Lanka at a second review meeting on the release of the third term.
-
-We accept that the country has become a bankrupt economic policy due to the wrong economic policy of all governments that have been in power during the post -independence period.
-
-In April, 2022, the preliminary steps were taken to obtain the cooperation of the International Monetary Fund after the bankruptcy.
-
-...
-
-[Data](articles/a6ccc57d.json)
-
-[Extended Data](ext_articles/a6ccc57d.ext.json)
-
----
-
-### Umapati Ramaiah starrer 'Pithala Mathi'
-
-*2024-06-13 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186017) · `ta`
-
-"Umapati Ramaiah's 'Pithala Mathi,' initially overlooked due to its release in a smaller theater, is set for a re-release on June 14th. Despite initial lackluster reception, the team, including Bala Saravanan, Vinitha Lal, and others, believes in the story. Some scenes have been re-filmed, and there's optimism about its success, especially with the involvement of Umapati Ramaiah and Aishwarya Arjun. Producer Saravanan, despite health issues during production, remains hopeful for the film's future."
-
-🟩
-
-Actor Umapati Ramaiah is the hero of the story, 'Pithala Mathi', which is the leading role of the story, will be re-released on June 14 at the film House.
-
-Umapati Ramaiah, Bala Saravanan, Vinitha Lal, Thambi Ramaiah, Devadarshini, Aadukalam Narain, Kalla Sukumar, Vidyuleka Raman, Mullai, Gotham. My. Moses has composed the film, which has been recorded by Venkat. The film was produced by producer G. Saravanan on behalf of Sri Saravana Film Arts.
-
-The film was also featured in many films released in the end of December 2021. The film was released at a fewer film mansion and failed to attract the attention of fans. Due to the confidence of the producer and film crew on the story, some of the scenes in the film have been re -filmed and renamed 'Pithala Mathi' and are currently being released in more filmmakers.. The film crew also feels that the film will be released in the film at the time of her marriage to the hero of the film, Umapati Ramaiah and Arjun's daughter Aishwarya Arjun.
-
-...
-
-[Data](articles/2ea5e4c7.json)
-
-[Extended Data](ext_articles/2ea5e4c7.ext.json)
 
 ---

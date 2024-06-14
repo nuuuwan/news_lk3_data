@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 10:18:57**
+As of **2024-06-14 10:34:23**
 
 ## Newspaper Stats
 
-*Scraped **30,337** Articles*
+*Scraped **30,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,433
 tamilmirrorlk | 3,548
 virakesarilk | 4,660
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,886
+adaderanasinhalalk | 4,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,336 (100.0%) of 30,337 articles have been extended.
+30,337 (100.0%) of 30,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### පොලීසියට අල්ලස් දෙන්න ගිය පුද්ගලයා අත්අඩංගුවට
+
+*2024-06-14 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197742) · `si`
+
+මත් පෙති සන්තකයේ තබා ගැනීමේ වරදට අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකු මුදාගැනීම සඳහා රුපියල් 50,000 අල්ලස් මුදලක් පොලිස් ස්ථානය තුළදීම පොලිස් නිලධාරීන් වෙත ලබාදීමට තැත් කළ පුද්ගලයෙකු ඊයේ (13) රාත්‍රීයේ අත්අඩංගුවට ගත් බව නාගොල්ලාගම පොලීසිය කියයි.
+
+සිද්ධිය සම්බන්ධයෙන් මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හිරියාල අඔගස්වැව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+
+මත් පෙති ළඟ තබා ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත්තේ තලමල්ගම පොලිස් වසමේ හිරියාල අඔගස්වැව හා කුඹුක්ගැටේ පොලිස් වසමේ කිඹුල්වානා ඔය කුඹුක්ගැටේ ලිපිනයේ පදිංචි විසි හැවිරිදි හා විසි අට හැවිරිදි පුද්ගලයින් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/200cb1c2.json)
+
+---
 
 ### Unidentified body meets
 
@@ -620,29 +636,43 @@ Questions from youth were focused on how national agencies can work together ins
 
 ---
 
-### රුධිර පරිත්‍යාගශීලීන්ගේ දිනය: රුධිරය පරිත්‍යාග කිරීමෙන් ස්ථූලභාවයට පත් වෙනවා ද?
+### Donor's Day: Are You Schedule from Blood?
 
 *2024-06-14 04:20:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c033ewywnelo) · `si`
 
-රුධිර පරිත්‍යාගශීලීන්ගේ දිනය: රුධිරය පරිත්‍යාග කිරීමෙන් ස්ථූලභාවයට පත් වෙනවා ද?
+World Blood Donor's Day, celebrated on June 14, honors Carl Landsteiner, who revolutionized blood transfusions in 1901. It highlights the importance of blood donations, which save lives without expecting anything in return. Despite misconceptions like blood donation harming fertility, experts assure it's safe for both men and women, with no significant impact on health. The event emphasizes the need for more donors, especially women, whose participation is crucial but often lower due to myths and misconceptions.
 
-රුධිරය පරිත්‍යාග කිරීම යනු ලෝකයේ මිනිසුන්ගේ යහපත් සෞඛ්‍යය වෙනුවෙන් කරනු ලබන උතුම් පරිත්‍යාගයක් ලෙස සැලකේ.
+🟩
 
-එය මුදල් හෝ වෙනත් කිසිදු ප්‍රතිලාභයක් අපේක්ෂා නොකර කරනු ලබන සැබෑ පරිත්‍යාගයකි.
+Donor's Day: Are You Schedule from Blood?
 
-ජීවිත බේරා ගැනීම සහ සෞඛ්‍ය තත්ත්වය ඉහළ නැංවීම සඳහා නොමිලයේ රුධිරය පරිත්‍යාග කිරීමේ වැදගත්කම පිළිබඳව ලෝකයේ අවධානය යොමු කිරීමේ අරමුණින් සැමරෙන ලෝක රුධිර පරිත්‍යාගශීලීන්ගේ දිනය ජූනි මස 14 වන දාට යෙදී තිබේ.
+Blood donating is considered a great donation for the good health of the world.
 
-මෙවර එහි තේමාව වී ඇත්තේ, '20 වසරක පරිත්‍යාගශීලීත්වය සැමරීම: රුධිර පරිත්‍යාගශීලීනි, ස්තුතියි,' යන්න ය.
+It is a real donation that does not expect any money or any other benefit.
 
-ලෝක රුධිර පරිත්‍යාගශීලීන්ගේ දිනය ජූනි 14 වන දා ලෙස නම් කර ඇත්තේ, ඔස්ට්‍රියානු ජීව විද්‍යාඥයෙකු සහ භෞතික විද්‍යාඥයෙකු වූ කාල් ලෑන්ඩ්සටයිනර්ගේ (1868 - 1943) උපන් දිනය වෙනුවෙනි.
+The World Blood Donor's Day is on the 14th of June 14.
 
-1901 වසරේදී මිනිස් රුධිරයේ A,B,O ප්‍රභේද අනාවරණය කළ ඔහු, නූතන රුධිර පාරවිලයනයේ නිර්මාතෘ ලෙස සැලකේ.
+The theme is the theme of the year, 'wise celebration of generosity: blood donors, thank you.'
 
-පසුව, 1937 වසරේදී ඔහු ඇලෙක්සැන්ඩර් එස්. වෙයිනර් සමග එක්ව රුධිර ප්‍රභේදවල පවතින රීසස් සාධකය හඳුනා ගත්තේ ය.
+World Blood Donor's Day was named on June 14, Carl Landline (1868 - 1943).
+
+He is considered to be the Creator of the modern blood transfusion in the human blood of 1901.
+
+Later, in 1937 he was Alexander S. With Veriner, the Rezas factor in blood varieties identified.
+
+Through that, it was able to successfully perform blood transfusions without harm.
+
+The world was named the World Characterary as a honor of his work.
+
+The Kandy Teaching Hospital stated that there is a view of blood transfusions in the Kandy Teaching Hospital that there is no opinion that bloodbath is to be fallen.
+
+He pointed out that the view is just any scientific basis.
 
 ...
 
 [Data](articles/392942db.json)
+
+[Extended Data](ext_articles/392942db.ext.json)
 
 ---
 
@@ -2235,33 +2265,5 @@ Maharaja (Vijay Sethupathi), who runs a hair correction center in Chennai, compl
 [Data](articles/315c049a.json)
 
 [Extended Data](ext_articles/315c049a.ext.json)
-
----
-
-### The benefit of the government's welfare programs should be taken to reach the people quickly - the President's request to provincial governors
-
-*2024-06-13 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186011) · `ta`
-
-President Ranil Wickremesinghe emphasized the urgency and importance of government welfare programs reaching people swiftly, highlighting discussions with provincial governors on addressing teacher shortages and enhancing the Urumaya Land Confirmation Scheme. The President also mentioned the potential expansion of services to improve efficiency and the commitment to resolve teacher shortages through targeted appointments and contracts. Additionally, he discussed the Presidential Scholarship Program, aiming to provide financial support to over 35,000 students across various provinces, emphasizing the government's dedication to educational opportunities for low-income families.
-
-🟩
-
-President Ranil Wickremesinghe said the governors should contribute to the government's benefit to the people and the benefits of the government.
-
-The President made this statement during a discussion held at the Presidential Office yesterday (12) with provincial governors.
-
-The measures to be taken to address the shortage of teachers at the provincial level and the efficiency of the Urumaya Land Confirmation Scheme were also discussed in detail.
-
-The President pointed out the possibility of implementing the services of the Grama Niladhari in addition to the Grama Niladhari to make the Urumaya Land Confirmation Program as efficient.
-
-President Ranil Wickremesinghe recalled that the people were enthusiastic about this and the responsibility of providing them with the benefit of the Divisional Secretaries.
-
-Minister of Education, Dr. Susil Premjayantha, said that the government was dedicated to resolving the shortage of teachers at the provincial level on July 3.
-
-...
-
-[Data](articles/36070239.json)
-
-[Extended Data](ext_articles/36070239.ext.json)
 
 ---

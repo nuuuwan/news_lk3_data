@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 05:19:09**
+As of **2024-06-14 05:36:57**
 
 ## Newspaper Stats
 
-*Scraped **30,294** Articles*
+*Scraped **30,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 277
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
-islandlk | 1,637
+islandlk | 1,645
 economynextcom | 1,753
 dailyftlk | 1,833
 adalk | 2,611
@@ -26,11 +26,73 @@ adaderanasinhalalk | 4,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,294 (100.0%) of 30,294 articles have been extended.
+30,294 (100.0%) of 30,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Tea production leaving much to be desired
+
+*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/tea-production-leaving-much-to-be-desired/) · `en`
+
+Tea market developments reported by brokers last week indicated that tea production was just slightly higher over the production reported during the same period in 2023. No explanations were forthcoming for the lacklustre performance. Besides, we were unable to obtain comment from the estate sector.
+
+However, smallholders and tea factory owners when requested for comment said that low grown prices were quite within their profit margins. They also said that factories in Ratnapura and also those in some area s in the Galle district were paying bought suppliers around SLR. 300 per kilo for green leaf supplied.
+
+Commenting on these prices they also cautioned that such prices for green leaf were not widespread but restricted to ‘some’ areas.
+
+John Keels PLC commenting on prices realized on June 4 th and 5th 2024 said that low grown FBOPF (Flowery Broken Orange Pekoe Fannings) realized prices between Rs. 6000 and Rs. 6700 per kilo.
+
+...
+
+[Data](articles/1c6c9725.json)
+
+---
+
+### Dialog launches cutting-edge 4G vehicle tracking solution
+
+*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/dialog-launches-cutting-edge-4g-vehicle-tracking-solution/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, announced the launch of the Smart Vehicle Tracker, an innovative, cost-effective smart vehicle tracking solution that utilises 4G LTE technology for worry-free vehicle and fleet monitoring across Sri Lanka. The device utilises the TeDi fleet management app, powered by Dialog, launched in collaboration with The Connection Workshop Pvt. Ltd., a fully owned subsidiary of South Asian Technologies.
+
+...
+
+[Data](articles/93dbd302.json)
+
+---
+
+### Spa Ceylon and Shangri-La Colombo jointly host ‘Wellness Month’ event series
+
+*2024-06-14 05:03:00* · [`islandlk`](http://island.lk/spa-ceylon-and-shangri-la-colombo-jointly-host-wellness-month-event-series/) · `en`
+
+Spa Ceylon, the world’s largest luxury Ayurveda wellness brand, is proud to extend its successful collaboration with Shangri-La Colombo for another year to launch ‘Wellness Month’, which is a series of wellness events taking place throughout June, scheduled around landmark days such as Global Wellness Day, and International Yoga Day celebrated during the month.
+
+To mark the official launch of ‘Wellness Month 2024’, Spa Ceylon and Shangri-La Colombo held a press conference on 7th June 2024, at Shangri-La Colombo where Spa Ceylon Co-Founder and Managing Director Shiwantha Dias, Spa Ceylon Co-Founder and Director, Shalin Balasuriya, General Manager, Shangri-La Colombo, Herve Duboscq, and Director of Sales & Marketing, Shangri-La Colombo and Shangri-La Hambantota, Saharsh Vadhera, were in attendance.
+
+ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
+
+...
+
+[Data](articles/c6c3e0d8.json)
+
+---
+
+### British Council rallies youth to protect world’s oceans
+
+*2024-06-14 05:02:00* · [`islandlk`](http://island.lk/british-council-rallies-youth-to-protect-worlds-oceans/) · `en`
+
+To mark World Oceans Day, British Council (BC) demonstrated its commitment to empower and support the country’s youth to address climate change and to share their experience of action taken to protect the oceans.
+
+In the first Interactive session at the BC, youth were given the opportunity to explore, engage and be empowered to protect the ocean for climate resilience through a knowledge- sharing and networking session with representatives from two national agencies, NARA (National Aquatic Resources Research and Development Agency) and MEPA (Marine Environment Protection Authority). The forum was moderated by Sudarsha de Silva (Co-founder, Co-Founder Earthlanka Youth Network.
+
+Questions from youth were focused on how national agencies can work together instead of working in isolation for coastal and marine conservation.
+
+...
+
+[Data](articles/17f854c5.json)
+
+---
 
 ### Deshamanya Dr. Nissanka Wijeyeratne: A rare personality above normal human frailty
 
@@ -179,6 +241,20 @@ The police, who are conducting investigations, are taking steps to arrest others
 [Data](articles/136f7c31.json)
 
 [Extended Data](ext_articles/136f7c31.ext.json)
+
+---
+
+### ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
+
+*2024-06-14 02:15:00* · [`islandlk`](http://island.lk/ismm-signs-mou-with-ministry-of-industries-as-part-of-contribution-to-national-endeavour/) · `en`
+
+The Institute of Supply and Materials Management, the pioneer and government recognized institute for Supply Chain Management Education was established on October 24, 1972 and is the leading institute which fosters the professional development of the purchasing and supply chain function in Sri Lanka. It is a member of the Organization of Professional Associations of Sri Lanka (OPA) since 1976 and was incorporated by the parliament by Act No 3 of 1981.
+
+The ISMM is affiliated to the International Federation of Purchasing and Supply Management, which is the world body encompassing 48 national associations, having more than 250,000 professionals engaged in Purchasing and Supply Chain Management. ISMM engages in many educational programs covering all aspects of the supply chain for the last two decades, in addition to conducting other professional short courses, adding more than 10,000 professionals to supply chain management in Sri Lanka.
+
+...
+
+[Data](articles/0d62d85b.json)
 
 ---
 
@@ -2239,135 +2315,5 @@ Young people need to create a good future as well as creating a good income. Ste
 [Data](articles/cec973d2.json)
 
 [Extended Data](ext_articles/cec973d2.ext.json)
-
----
-
-### Business Udagala's case is postponed
-
-*2024-06-13 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197714) · `si`
-
-Udagala's business case was postponed; the Colombo Magistrate's Court scheduled it for the 18th. The hearing was led by Colombo Additional Magistrate Pavithra Pathraja, who asked the suspect to submit a request by tomorrow.
-
-🟩
-
-The Colombo Magistrate's Court was appointed to the 18th of this month.
-
-The complaint was called before Colombo Additional Magistrate Pavithra Pathraja today.
-
-The Magistrate also set the request to submit the request made by the suspect in the next day.
-
-◼️
-
-[Data](articles/9f5c5512.json)
-
-[Extended Data](ext_articles/9f5c5512.ext.json)
-
----
-
-### Protest held outside Sri Lanka opposition leader’s office against 13th amendment
-
-*2024-06-13 13:55:00* · [`economynextcom`](https://economynext.com/protest-held-outside-sri-lanka-opposition-leaders-office-against-13th-amendment-167845/) · `en`
-
-ECONOMYNEXT — A collective of civil society organisations held a protest outside the office of the leader of the opposition Sajith Premadasa in Colombo against an assurance he had made of implementing the 13th amendment to Sri Lanka’s constitution.
-
-Calling itself the ‘Coalition Against Partition of Sri Lanka’, the group carrying national flags marched up to the opposition leader’s office Thursday June 13 morning and demonstrated against the full implementation of the 13th amendment.
-
-“We arrived here today to hand over a missive against devolving police powers, land powers and judicial powers. If Mr Premadasa is inside, come outside,” Jamuni Kamantha Thushara, Chairman of the Citizen’s Movement Against Fraud, Corruption, and Waste, was seen declaring at the site.
-
-“First of all, tell us what we stand to achieve by dividing and giving away the north and east,” said another protestor, warning against bringing the 13th amendment “anywhere here (paththa palaathe)”.
-
-...
-
-[Data](articles/04286597.json)
-
-[Extended Data](ext_articles/04286597.ext.json)
-
----
-
-### Womanna Piyumalige Remanded Rs. 50
-
-*2024-06-13 13:41:23* · [`adalk`](https://www.ada.lk/breaking_news/තිළිණි-පියුමාලිගෙන්-ඩොලර්-ගන්න-ව්‍යාපාරිකයෙකුගෙන්-රු-ලක්ෂ-50ක්-වංචා-කළ-කාන්තාව-රිමාන්ඩ්/11-410195) · `si`
-
-Piyumalige Womanna has been remanded for Rs. 50 by Colombo Additional Magistrate Tharanga Mahawatta. The Mirihana Special Criminal Investigation Unit will probe the case, involving allegations of financial transactions between suspects and complainants. Attorney-at-Law Piyir Mohammed mentioned that the money was transferred to Thilily Piyumali's wife. After investigation, the suspect remains remanded until the 26th of this month.
-
-🟩
-
-Colombo Additional Magistrate Tharanga Mahawatta has been sentenced to Rs.
-
-The Mirihana Special Criminal Investigation Unit was accepted by the Mirihana Special Criminal Investigation Unit, claiming that he will investigate the incident.
-
-According to a complaint lodged with Ranjayana Special Criminal Investigation Unit, the suspects in the Mirihana Special Criminal Investigation Unit of the Mirihana Special Criminal Investigation Unit will be given the dollars in the case of the complainant.
-
-The officials of the Mirihana Special Investigation Unit of the Mirihana Special Investigation Unit of the Mirihana Special Criminal Investigation Unit Rs. 285 Rs.
-
-Attorney-at-Law Piyir Mohammed said that the case was said to the complainant Mohammed, he obtained money from the complainant and gave it to the wife of Thilily Piyumali.
-
-The lawyer who said that the money should be obtained from the province:
-
-...
-
-[Data](articles/cef5aafe.json)
-
-[Extended Data](ext_articles/cef5aafe.ext.json)
-
----
-
-### A large number of ginger seizure in Sri Lanka
-
-*2024-06-13 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185995) · `ta`
-
-Tamil Nadu Customs officials seized 60 gingerbreads worth around 3 lakh rupees, hidden in a house, during raids in the Marikkayarpattinam coastal area. The ginger, weighing about 2 tonnes, was intended for smuggling to Sri Lanka. This is the first such seizure from the Ramanathapuram district.
-
-🟩
-
-Tamil Nadu Customs officials have seized 60 gingerbreads stored to smuggle from India to Sri Lanka.
-
-In this case, they are investigating the owner of the house who had hid gingerbread.
-
-In the early hours of this morning, the Mandapam Customs Department has been conducting a series of raids on the Marikkayarpattinam coastal area, based on the confidential information received by the Customs Department in Tamil Nadu, which is being smuggled into a ginger boat from the Marikkayar Pattinam beach near Sri Lanka this morning.
-
-At the time, a ginger weighing about 2 tonnes of 60 crores was seized from the back of a house along the Marikaiyarpattinam beach.
-
-Subsequently, the gingerbreads are being investigated by the owner of the house where the Customs Department officials have taken the office.
-
-In addition, the first phase of investigation revealed that the ginger was smuggled to Sri Lanka through the sea. Customs officials said the Indian value of the confiscated ginger may be about 3 lakhs.
-
-...
-
-[Data](articles/77563517.json)
-
-[Extended Data](ext_articles/77563517.ext.json)
-
----
-
-### Unlimited love emerged from the khaki suit
-
-*2024-06-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197713) · `si`
-
-Despite financial hardships and a lack of furniture, a resilient child named Mailkinge from the Vidigama Divisional Secretariat Division continued her education with the support of local police and community efforts. Her story highlights the importance of education and the role of community intervention in overcoming obstacles.
-
-🟩
-
-A child who had to quit school without a table and a chair, a child was able to resume the school's intervention in the Midigama police.
-
-The moment, Mailkinge, who was looking to go to school, was able to sensate all the people.
-
-Each year, Chamati Priyashan, a resident of Vidigama Divisional Secretariat Division. Priyantha and K.H. The second child of the Russian Lakshani's second child.
-
-The family is facing severe economic crises in a variety of places in the area, lack of permanent home.
-
-In the midst of such embarrassment, I do not want to drop his school journey.
-
-However, after a few months later, parents try to adapt to the importance of education at a few months later.
-
-However, the school authorities have stated that if the school is a shortage of schools and chairs, it is to bring a table and a chair.
-
-However, there was no economic energy to launch the return of the school journey back to Mailly.
-
-...
-
-[Data](articles/c9290755.json)
-
-[Extended Data](ext_articles/c9290755.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 08:13:54**
+As of **2024-06-14 07:47:01**
 
 ## Newspaper Stats
 
-*Scraped **30,324** Articles*
+*Scraped **30,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
-adalk | 2,612
+adalk | 2,611
 adaderanalk | 3,431
-tamilmirrorlk | 3,545
+tamilmirrorlk | 3,543
 virakesarilk | 4,659
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,882
@@ -26,31 +26,25 @@ adaderanasinhalalk | 4,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,321 (100.0%) of 30,324 articles have been extended.
+30,306 (100.0%) of 30,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### Notice to drivers going through Kohuwala Junction
+### කොහුවල මංසන්ධිය හරහා යන රියදුරන්ට දැනුම්දීමක්
 
 *2024-06-14 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197737) · `si`
 
-Due to Kohuwala flyover construction, heavy traffic expected tomorrow. Use alternate routes; heavy vehicles banned from Kohuwala bridge area.
+කොහුවල මංසන්ධියේ ඉදිවන ගුවන් පාලමේ ඉදිරි ඉදිකිරීම් කටයුතු හේතුවෙන් හෙට (15) දිනයේ සිට එම මාර්ගයේ වාහන ගමනාගමනය සීමා කිරීමට කටයුතු කරන බව පොලීසිය පවසයි.
 
-🟩
+මාස 02ක කාලයක් අදාළ ඉදිකිරීමේ කටයුතු සිදුකිරීමට නියමිත බැවින් එම කාලසීමාව තුළදී මාර්ග තදබදය අවම කරගැනීම සඳහා විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය ජනතාවට දැනුම් දෙයි.
 
-Police say that the construction of the flyover construction at Kohuwala is restricted tomorrow (15), police said.
-
-The police informed the public to use alternative routes to reduce the traffic congestion within two months.
-
-The heavy vehicles traveling along the road has been temporarily stopped towards Kohuwala bridge.
+අදාළ මාර්ගයේ ගමන් ගන්නා බර වාහන කොහුවල පාලම දෙසට ඇතුල් කිරීම තාවකාලිකව නවතා දමා තිබේ.
 
 ◼️
 
 [Data](articles/6db44485.json)
-
-[Extended Data](ext_articles/6db44485.ext.json)
 
 ---
 
@@ -72,8 +66,6 @@ Fernando and others express disbelief over former colleagues aligning with JVP w
 
 [Data](articles/229cc0e1.json)
 
-[Extended Data](ext_articles/229cc0e1.ext.json)
-
 ---
 
 ### President requests Governors to expedite delivery of benefits welfare programs to people
@@ -94,8 +86,6 @@ President Ranil Wickremesinghe also reminded divisional secretaries of their res
 
 [Data](articles/ff49352f.json)
 
-[Extended Data](ext_articles/ff49352f.ext.json)
-
 ---
 
 ### Splendour of global gems at Ratnapura Expo 2024
@@ -111,8 +101,6 @@ This event, organised by the National Gem and Jewellery Authority (NGJA), aims t
 ...
 
 [Data](articles/6d1b9c76.json)
-
-[Extended Data](ext_articles/6d1b9c76.ext.json)
 
 ---
 
@@ -132,8 +120,6 @@ Mireka Tower, towering at 50 stories, stands as a beacon of sustainable architec
 
 [Data](articles/4c3a4cdc.json)
 
-[Extended Data](ext_articles/4c3a4cdc.ext.json)
-
 ---
 
 ### Chinese delegation from Pudong visits BOI
@@ -145,8 +131,6 @@ A top level delegation from Pudong, China visited the Board of Investment (BOI) 
 ◼️
 
 [Data](articles/4b2ba154.json)
-
-[Extended Data](ext_articles/4b2ba154.ext.json)
 
 ---
 
@@ -162,8 +146,6 @@ PickMe COO Isira Perera says their services have been received favourably by the
 
 [Data](articles/a8898520.json)
 
-[Extended Data](ext_articles/a8898520.ext.json)
-
 ---
 
 ### Prime Group relocates Galle branch to elevate customer experience and reinforce commitment to excellence
@@ -176,25 +158,17 @@ Prime Group has announced the relocation of its Galle branch to No. 66, Havelock
 
 [Data](articles/f58df3b7.json)
 
-[Extended Data](ext_articles/f58df3b7.ext.json)
-
 ---
 
-### Sri Lanka out of the first round
+### ශ්‍රී ලංකාව පළමු වටයෙන්ම ඉවතට
 
 *2024-06-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197736) · `si`
 
-Sri Lanka has been disqualified from the 2024 T20 World Cup due to ICC regulations.
-
-🟩
-
-The International Cricket Council has officially declared that Sri Lanka was abandoned first in the 2024 T20 World Cup.
+2024 T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු වටයෙන්ම ශ්‍රී ලංකාව ඉවතට විසිවී ඇති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිල වශයෙන් ප්‍රකාශයට පත්කර ඇත.
 
 ◼️
 
 [Data](articles/65409511.json)
-
-[Extended Data](ext_articles/65409511.ext.json)
 
 ---
 
@@ -211,8 +185,6 @@ The company secured two gold and silver awards in the highly competitive Best Ma
 ...
 
 [Data](articles/867c0670.json)
-
-[Extended Data](ext_articles/867c0670.ext.json)
 
 ---
 
@@ -234,8 +206,6 @@ Samagi Jana Balawegaya (SJB) MP Mujibur Rahman claimed yesterday that President 
 
 [Data](articles/601735e0.json)
 
-[Extended Data](ext_articles/601735e0.ext.json)
-
 ---
 
 ### Namal warns Tamil community against election-time policy shifts
@@ -255,8 +225,6 @@ He criticised parties that opportunistically change their stances shortly before
 ...
 
 [Data](articles/0dd27c8a.json)
-
-[Extended Data](ext_articles/0dd27c8a.ext.json)
 
 ---
 
@@ -280,8 +248,6 @@ Addressing a public event, Jayatissa asserted that statements suggesting the pos
 
 [Data](articles/8defd386.json)
 
-[Extended Data](ext_articles/8defd386.ext.json)
-
 ---
 
 ### AKD arrives in London
@@ -293,8 +259,6 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake was warmly greet
 ◼️
 
 [Data](articles/e16a17bd.json)
-
-[Extended Data](ext_articles/e16a17bd.ext.json)
 
 ---
 
@@ -339,8 +303,6 @@ Speaking at a press conference on Tuesday, Shivajilingam addressed recent remark
 ...
 
 [Data](articles/3318af2f.json)
-
-[Extended Data](ext_articles/3318af2f.ext.json)
 
 ---
 
@@ -694,24 +656,6 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
-### அமித் ஷாவுடன் செந்தில் தொண்டமான் சந்திப்பு
-
-*2024-06-14 00:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமித்-ஷாவுடன்-செந்தில்-தொண்டமான்-சந்திப்பு/175-338891) · `ta`
-
-இந்திய மத்திய உள்துறை அமைச்சர் அமித் ஷா மற்றும் பா.ஜ.கவின் தேசியத் தலைவரும், அமைச்சருமான ஜே.பி.நட்டா ஆகியோரை கிழக்கு மாகாண ஆளுநரும், இலங்கைத் தொழிலாளர் காங்கிரஸ் தலைவருமான செந்தில் தொண்டமான் சந்தித்து கலந்துரையாடியுள்ளார்.
-
-அண்மையில் நடைபெற்று முடிந்த இந்திய மக்களவைத் தேர்தலில் வெற்றி பெற்றமைக்கு செந்தில் தொண்டமான் இதன்போது வாழ்த்துகளைத் தெரிவித்தார்.
-
-இலங்கைக்கு இந்திய அரசாங்கம் தொடர்ந்து வழங்கிவரும் உதவிகளுக்கு நன்றி தெரிவித்த அவர், இலங்கைக்கு விஜயம் செய்யுமாறும் அழைப்பு விடுத்தார்.
-
-இதன்போது, இலங்கையில் பெருந்தோட்ட  சமூகத்தின் 200 ஆவது ஆண்டு நினைவு முத்திரையையும் செந்தில் தொண்டமானால்  அவர்களுக்கு வழங்கி வைக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/1ec5a9b5.json)
-
----
-
 ### Coastal railway impact
 
 *2024-06-14 00:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-போக்குவரத்து-பாதிப்பு/175-338890) · `ta`
@@ -753,18 +697,6 @@ The police are engaged in the help of the Nuwara Eliya District General Hospital
 [Data](articles/a008d7f4.json)
 
 [Extended Data](ext_articles/a008d7f4.ext.json)
-
----
-
-### கொச்சிக்கடை புனித அந்தோனியார் திருச்சொரூப பவனி
-
-*2024-06-13 23:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-புனித-அந்தோனியார்-திருச்சொரூப-பவனி/175-338888) · `ta`
-
-கொழும்பு, கொச்சிக்கடை புனித அந்தோனியார் ஆலய திருச்சொரூப பவனி வைபவம் இன்று மாலை அருட்தந்தை பற்றிக் பெரேய்ரா தலைமையில் நடைபெற்றது.
-
-◼️
-
-[Data](articles/19661fe9.json)
 
 ---
 
@@ -1095,26 +1027,6 @@ The Netherlands scored the toss and win the bowling first.
 [Data](articles/1e57178a.json)
 
 [Extended Data](ext_articles/1e57178a.ext.json)
-
----
-
-### ජනපති ආණ්ඩුකාරවරුන්ගෙන් කළ ඉල්ලීම
-
-*2024-06-13 19:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආණ්ඩුකාරවරුන්ගෙන්-කළ-ඉල්ලීම/11-410206) · `si`
-
-ජනාධිපති අරමුදලෙන් ශිෂ්‍යත්ව ප්‍රදානය කිරීම ජුනි 19 වනදා ජනපති ප්‍රධානත්වයෙන් ඇරඹේ. ජනතාව වෙනුවෙන් රජය ක්‍රියාත්මක කර ඇති සුබසාධන වැඩසටහන් කාර්යක්ෂම කර ඒවායේ ප්‍රතිලාභ ජනතාවට ලබාදීම වෙනුවෙන් ආණ්ඩුකාරවරුන් මැදිහත් වී කටයුතු කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
-
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ පළාත් ආණ්ඩුකාරවරුන් සමඟ ඊයේ (12) ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
-
-පළාත් මට්ටමින් පවතින ගුරු හිඟය කඩිනමින් පියවා ගැනීමට ගත යුතු පියවර මෙන්ම උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදිමේ වැඩසටහන කාර්යක්ෂම කිරීම පිළිබඳව ද මෙහිදී පුළුල් ලෙස සාකච්ඡා කෙරිණි.
-
-උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන කාර්යක්ෂම කිරීම වෙනුවෙන් ග්‍රාම නිලධාරීන්ට අමතරව තවත් කණ්ඩායමක් වෙතද බලය පවරා ජංගම සේවා ක්‍රියාත්මක කිරිමේ හැකියාව ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
-
-ජනතාව මේ කෙරෙහි උනන්දු කරවමින් එම ප්‍රතිලාභය ඔවුන් වෙත ලබාදීමට ප්‍රාදේශීය ලේකම්වරුන්ට පැවරී ඇති වගකීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිහිපත් කළේය.
-
-...
-
-[Data](articles/3ce59fbd.json)
 
 ---
 
@@ -2241,5 +2153,75 @@ How the train was derailed in a nearby CCTV camera.
 [Data](articles/9ee68e59.json)
 
 [Extended Data](ext_articles/9ee68e59.ext.json)
+
+---
+
+### Aura Lanka chairman Thambugala to make confidential statement to court
+
+*2024-06-13 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99857/aura-lanka-chairman-thambugala-to-make-confidential-statement-to-court) · `en`
+
+The Colombo Chief Magistrate’s Court has scheduled the consideration of Aura Lanka Chairman Viranjith Thambugala’s request to provide a confidential statement before the court for July 18.
+
+The case, filed over alleged financial fraud committed by Thambugala, was taken up before Colombo Additional Magistrate Pavitra Pathiraja today (June 13).
+
+However, the officers from the Criminal Investigations Department (CID) were not present in court at the time.
+
+Accordingly, the Additional Magistrate ordered the relevant request to make a confidential statement to be re-submitted to the court at the next hearing.
+
+On May 22, the Chairman of Aura Lanka, businessman Viranjith Thambugala was arrested by police over allegations of misappropriation of nearly Rs. 70 million and was later granted bail after being produced before the Colombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/35da530e.json)
+
+[Extended Data](ext_articles/35da530e.ext.json)
+
+---
+
+### Create an intelligent young generation that will win future challenges - the president
+
+*2024-06-13 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186006) · `ta`
+
+President Ranil Wickremesinghe emphasizes the importance of empowering the youth with knowledge and skills to meet future challenges. He outlines an economic program aimed at increasing youth income and reducing unemployment by 2027, focusing on developing an export-based economy similar to Vietnam, Thailand, and Malaysia. The initiative includes emergency programs for quick-growth sectors like tourism, agriculture, and IT, aiming to create a green society and economy.
+
+🟩
+
+Ranil Wickremesinghe said that the youth generation of knowledge and training should be created to success the future challenges.
+
+The President also pointed out that the economic program is currently being implemented to create a higher income for the youth of the country.
+
+President Ranil Wickremesinghe made this statement when he met the youth regiment's youth at the Presidential Office yesterday (12).
+
+President Ranil Wickremesinghe was awarded a souvenir by the Director of the Youth Brigade, Brigadier Sujeewa Ratnayake.
+
+“It has been 22 years since the Youth Brigade was inaugurated. The youth regiment was launched to suit the then economic and social system. The youth regiment must change in time. To create a good income status to make young people a good future. The youth must take necessary steps to change the force.
+
+...
+
+[Data](articles/864b503f.json)
+
+[Extended Data](ext_articles/864b503f.ext.json)
+
+---
+
+### Sajith's defenders threatened to “do not video”
+
+*2024-06-13 15:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காணொளி-வேண்டாம்-மிரட்டிய-சஜித்தின்-பாதுகாப்பாளர்கள்/71-338867) · `ta`
+
+Sajith Premadasa's supporters threatened journalists, preventing them from filming or photographing his visit to Victoria College of Chiripuram. This action sparked controversy.
+
+🟩
+
+Opposition Leader Sajith Premadasa delivered a bus to the Victoria College of Chiripuram on Wednesday (12).
+
+The bus was held at the Amman Temple at the Amman Temple, followed by a video and photographers when the Sajith Premadasa bus was ready to pay it.
+
+Sajith's security forces immediately tapped the camera of the journalists and threatened not to take a photo and video.. This has caused a stir.
+
+◼️
+
+[Data](articles/bf8aea0e.json)
+
+[Extended Data](ext_articles/bf8aea0e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 06:20:16**
+As of **2024-06-14 07:01:38**
 
 ## Newspaper Stats
 
-*Scraped **30,302** Articles*
+*Scraped **30,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,61 @@ colombotelegraphcom | 277
 dbsjeyarajcom | 281
 bbccomsinhala | 295
 newsfirstlk | 363
-islandlk | 1,645
+islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,833
 adalk | 2,611
 adaderanalk | 3,431
-tamilmirrorlk | 3,542
+tamilmirrorlk | 3,543
 virakesarilk | 4,659
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,879
+adaderanasinhalalk | 4,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,302 (100.0%) of 30,302 articles have been extended.
+30,302 (100.0%) of 30,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### අදත් තද වැසි
+
+*2024-06-14 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197734) · `si`
+
+අද (14) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+ඌව පළාතේ ස්ථාන කිහිපයක සවස් කාලයේ හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/647731f1.json)
+
+---
+
+### ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
+
+*2024-06-14 05:21:00* · [`islandlk`](http://island.lk/ismm-signs-mou-with-ministry-of-industries-as-part-of-contribution-to-national-endeavour/) · `en`
+
+The Institute of Supply and Materials Management, the pioneer and government recognized institute for Supply Chain Management Education was established on October 24, 1972 and is the leading institute which fosters the professional development of the purchasing and supply chain function in Sri Lanka. It is a member of the Organization of Professional Associations of Sri Lanka (OPA) since 1976 and was incorporated by the parliament by Act No 3 of 1981.
+
+The ISMM is affiliated to the International Federation of Purchasing and Supply Management, which is the world body encompassing 48 national associations, having more than 250,000 professionals engaged in Purchasing and Supply Chain Management. ISMM engages in many educational programs covering all aspects of the supply chain for the last two decades, in addition to conducting other professional short courses, adding more than 10,000 professionals to supply chain management in Sri Lanka.
+
+...
+
+[Data](articles/0d62d85b.json)
+
+[Extended Data](ext_articles/0d62d85b.ext.json)
+
+---
 
 ### Tea production leaving much to be desired
 
@@ -252,22 +288,6 @@ The police, who are conducting investigations, are taking steps to arrest others
 
 ---
 
-### ISMM signs MoU with Ministry of Industries as part of contribution to national endeavour
-
-*2024-06-14 02:15:00* · [`islandlk`](http://island.lk/ismm-signs-mou-with-ministry-of-industries-as-part-of-contribution-to-national-endeavour/) · `en`
-
-The Institute of Supply and Materials Management, the pioneer and government recognized institute for Supply Chain Management Education was established on October 24, 1972 and is the leading institute which fosters the professional development of the purchasing and supply chain function in Sri Lanka. It is a member of the Organization of Professional Associations of Sri Lanka (OPA) since 1976 and was incorporated by the parliament by Act No 3 of 1981.
-
-The ISMM is affiliated to the International Federation of Purchasing and Supply Management, which is the world body encompassing 48 national associations, having more than 250,000 professionals engaged in Purchasing and Supply Chain Management. ISMM engages in many educational programs covering all aspects of the supply chain for the last two decades, in addition to conducting other professional short courses, adding more than 10,000 professionals to supply chain management in Sri Lanka.
-
-...
-
-[Data](articles/0d62d85b.json)
-
-[Extended Data](ext_articles/0d62d85b.ext.json)
-
----
-
 ### Shakib al -Hasan and Rishad Hossain increased the Super 8 chance of Bangladesh
 
 *2024-06-14 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186033) · `ta`
@@ -379,6 +399,18 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 [Data](articles/36cdf869.json)
 
 [Extended Data](ext_articles/36cdf869.ext.json)
+
+---
+
+### கரையோர ரயில் போக்குவரத்து பாதிப்பு
+
+*2024-06-14 00:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-போக்குவரத்து-பாதிப்பு/175-338890) · `ta`
+
+இதன் காரணமாக கரையோர மார்க்கத்தில் ரயில் போக்குவரத்திற்கு இடையூறு ஏற்பட்டுள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் எம்.ஜே.இந்திபொலகே தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8225a99c.json)
 
 ---
 
@@ -2271,59 +2303,5 @@ The Petitioner father states that the 17-year-old son of the second petitioner w
 [Data](articles/d17d24bb.json)
 
 [Extended Data](ext_articles/d17d24bb.ext.json)
-
----
-
-### Nintavur was killed in an accident
-
-*2024-06-13 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தை-விபத்தில்-நிந்தவூரைச்-சேர்ந்தவர்-பலி/175-338860) · `ta`
-
-A tragic accident occurred on Wellawatte's coastal road when a van and a motorcycle collided head-on. The driver of the motorcycle, a 29-year-old from Nintavur, was killed. Police investigations suggest many drivers use the road in the wrong direction, contributing to accidents.
-
-🟩
-
-Wellawatte police say that a van and a motorcycle on the coastal road of Wellawatte were admitted to the hospital where a motorcycle was injured.
-
-A 29 -year -old man from Nintavur Alim Road, a 29 -year -old man, died in an accident.
-
-Police say the van from Dehiwala to Bambalapitiya has collided head -on with a motorcycle riding in the opposite direction to overtake the vehicle.
-
-In the middle of the coastal road, police investigations have revealed that most drivers are going to drive their vehicles in the opposite direction.
-
-◼️
-
-[Data](articles/43feacf7.json)
-
-[Extended Data](ext_articles/43feacf7.ext.json)
-
----
-
-### The economy program to develop high income
-
-*2024-06-13 14:15:09* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-තරුණියන්ට‌-ඉහළ-ආදායම්-ඇති-කිරීමට-අවශ්‍ය-ආර්ථික-වැඩපිළිවෙළ-ක්‍රියාත්මකයි/11-410196) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of adapting the Youth Corps to meet future economic challenges, highlighting the need for high-income employment opportunities. He mentioned the introduction of the Economic Translation Law to Parliament, aiming to reduce unemployment and foster a high-income employment environment by 2027, with significant developments expected by 2035 and 2048. The focus is on building an export-based economy, learning from countries like Vietnam, Thailand, and Malaysia, and investing in sectors such as tourism, IT, and green economy to prepare young individuals for future challenges.
-
-🟩
-
-President Ranil Wickremesinghe said that a gutter generation should be created with future challenges and training.
-
-The President also pointed out that the economy of the country is currently implementing the economy of the country.
-
-President Ranil Wickremesinghe made these comments when the youths of the Youth Corps met at the Presidential Secretariat yesterday.
-
-The Director of Youth Corps Brigadier Sujeewa Ratnayake was presented to President Ranil Wickremesinghe.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-"The Youth Corps has already begun and 22 years have been 22 years ago. The Youth Corps began to suit the economic system that had been. With the time, the Youth Corps must change.
-
-Young people need to create a good future as well as creating a good income. Steps should be taken to change the Youth Corps as needed.
-
-...
-
-[Data](articles/cec973d2.json)
-
-[Extended Data](ext_articles/cec973d2.ext.json)
 
 ---

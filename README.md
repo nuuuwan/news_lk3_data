@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 12:07:25**
+As of **2024-06-14 12:19:11**
 
 ## Newspaper Stats
 
-*Scraped **30,354** Articles*
+*Scraped **30,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,647
 economynextcom | 1,758
 dailyftlk | 1,846
 adalk | 2,615
-adaderanalk | 3,436
+adaderanalk | 3,438
 tamilmirrorlk | 3,550
-virakesarilk | 4,660
+virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,354 (100.0%) of 30,354 articles have been extended.
+30,354 (100.0%) of 30,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Person arrested for bribery attempt inside police station
+
+*2024-06-14 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99874/person-arrested-for-bribery-attempt-inside-police-station) · `en`
+
+An individual has been apprehended last night (June 13) for allegedly attempting to bribe police officers at the Nagollagama Police Station to secure the release of two arrested suspects.
+
+The individual had offered a bribe of Rs. 50,000 to secure the release of two suspects detained for possessing drugs, according to police.
+
+The person arrested for the bribery attempt is a resident of Hiriyala, Ambagaswewa. The two suspects, aged 20 and 28, are from the same locality, the police dded
+
+Police said that all three suspects are scheduled to be produced before the Mahawa Magistrate’s Court today (14).
+
+◼️
+
+[Data](articles/5dccf05a.json)
+
+---
+
+### 7 Pakistani & Iranian drug traffickers sentenced to life in prison
+
+*2024-06-14 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99873/7-pakistani-iranian-drug-traffickers-sentenced-to-life-in-prison) · `en`
+
+The Colombo High Court has sentenced seven Pakistani and Iranian nationals to life in prison after they were convicted of possession and trafficking heroin.
+
+This verdict was delivered by Colombo High Court Judge Adithya Patabendige when the relevant case was taken up before the court this morning (14).
+
+During an operation carried out by the Sri Lanka Navy in the 2022, the convicted Pakistani and Iranian nationals were apprehended while transporting 123 kg of heroin within Sri Lanka’s territorial waters.
+
+Later, the Attorney General filed indictments against the suspects before the Colombo High Court.
+
+The accused pleaded guilty to the charges when the case was taken up before the court today, and were subsequently sentenced to life in prison, Ada Derana reporter said.
+
+Additionally, the court ordered the convicted foreign nationals to be extradited to their respective countries in order to serve their sentences, in consideration of a request made by them.
+
+◼️
+
+[Data](articles/20a93864.json)
+
+---
 
 ### Notice to Development Officers
 
@@ -258,6 +298,22 @@ The President made these remarks during his keynote address at the inaugural ses
 
 ---
 
+### ஐந்து மாதங்களில் 150 காட்டு யானைகள் உயிரிழப்பு
+
+*2024-06-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186044) · `ta`
+
+நாட்டில் மனிதனுக்கும் வனவிலங்குகளுக்கும் இடையே அதிகரித்துவரும் முரண்பாடுகளினால் கடந்த ஐந்து மாதங்களில் 150 காட்டு யானைகள் உயிரிழந்துள்ளன.
+
+அதில், துப்பாக்கிச் சூட்டுக்கு இலக்காகி 28 யானைகளும், மின்சாரம் தாக்கி 21 யானைகளும், ஹக்க பட்டாசுகளினால் 13 யானைகளும், உடம்பில் நஞ்சேற்றம் இடம்பெற்றதால் 2 யானைகளும், ரயில் விபத்தால் 3 யானைகளும், வீதி விபத்தினால் ஒரு யானையும், நீரில் அடித்துச் சென்று 7 யானைகளும், ஏனைய விபத்துக்களால் 4 யானைகளும் உயிரிழந்துள்ளதாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
+
+கடந்த 2023ஆம் ஆண்டு மனிதர்களுக்கும் யானைகளுக்கும் இடையேயான முரண்பாடுகள் காரணமாக 488 யானைகள் உயிரிழந்துள்ளன. இதேவேளை, 184 பேர் உயிரிழந்துள்ளனர் என கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/f2161f52.json)
+
+---
+
 ### Sri Lanka to revise SDP Act with rules-based exemptions
 
 *2024-06-14 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-sdp-act-with-rules-based-exemptions-167974/) · `en`
@@ -279,6 +335,20 @@ Under the SDP Law not only is corporate tax exemptions given, but also value add
 [Data](articles/b493d758.json)
 
 [Extended Data](ext_articles/b493d758.ext.json)
+
+---
+
+### தேர்தல்களைப் பிற்போட்டால் மக்கள் கொந்தளிப்பார்கள் - இரா.சாணக்கியன்
+
+*2024-06-14 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186042) · `ta`
+
+மின்சாரக் கட்டணம், எரிபொருட்களின் விலை என்பன குறைபக்கப்பட்டாலும் கூட, மக்கள் வாழ முடியாத அளவிற்கு விலைவாசிகள் அதிகரித்திருக்கின்றன. இந்த நிலையில் தேர்தல்களைப் பிற்போட்டால் மக்கள் கொந்தளிப்பார்கள் என்பதை ஜனாதிபதி அறிந்து வைத்திருக்க வேண்டும். என பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலைப் பிற்போடுதல், பொதுசன வாக்கெடுப்பை நடாத்துதல், போன்ற கருத்துக்கள் அரசியல் களத்தில் தற்போது பேசுபொருளாக உள்ளன. இவ்விடயம் தொடர்பில் பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியனிடம் நேற்று வியாழக்கிழமை(13) மாலை மட்டக்களப்பு களுதாவளையில் வைத்து ஊடகவியலாளர்கள் கேட்ட கேள்விக்குப் பதிலளிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/95a664a9.json)
 
 ---
 
@@ -2147,91 +2217,5 @@ A bond maturing on 01.10.2032 closed stable at 11.95/12.15 percent. (Colombo/Jun
 [Data](articles/07db7fce.json)
 
 [Extended Data](ext_articles/07db7fce.ext.json)
-
----
-
-### President requests governors to intervene and expedite delivery of welfare benefits to public
-
-*2024-06-13 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99862/president-requests-governors-to-intervene-and-expedite-delivery-of-welfare-benefits-to-public) · `en`
-
-President Ranil Wickremesinghe emphasized that all governors should actively ensure the efficient implementation of the government’s welfare programs and promptly deliver their benefits to the people.
-
-The President made these remarks during a discussion held with the Provincial Governors at the Presidential Secretariat yesterday (12).
-
-The meeting also included an extensive discussion on addressing the shortage of teachers at the provincial level and improving the efficiency of the ‘Urumaya’ -freehold land distribution program.
-
-The President highlighted the potential for improving the efficiency of the ‘Urumaya’-freehold land deeds program by implementing mobile services and delegating authority to an additional group beyond the Grama Niladhari level.
-
-President Ranil Wickremesinghe also reminded divisional secretaries of their responsibility to engage the public and ensure they receive the benefits of this program.
-
-...
-
-[Data](articles/ef6b34f9.json)
-
-[Extended Data](ext_articles/ef6b34f9.ext.json)
-
----
-
-### Deshamanya Dr Nissanka Wijeyeratne: A Rare Personality Above Normal Human Frailty
-
-*2024-06-13 18:30:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/deshamanya-dr-nissanka-wijeyeratne-a-rare-personality-above-normal-human-frailty/) · `en`
-
-I have not met Deshamanya Dr Nissanka Wijeyeratne, known to everyone as Nissanka, in person. I have watched him performing as a civil servant and minister, listened to his speeches, and spoken to his friends to know enough about him to pen this appreciation on his hundredth birth anniversary falling on 14 of June. I will focus on two matters. One is his success as the lay custodian of the Temple of the Sacred Tooth Relic of the Buddha known as Diyawadana Nilame in Sinhala which can be directly rendered to English as the Water Bearing Official. The other is his rare display of accountability as the Minister of Justice when there was a jail breakout and prison mutiny leading to the death of two inmates in 1988.
-
-...
-
-[Data](articles/7d6880e2.json)
-
-[Extended Data](ext_articles/7d6880e2.ext.json)
-
----
-
-### The train left the display box
-
-*2024-06-13 18:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காட்சி-பெட்டியை-விட்டுவிட்டு-வந்த-ரயில்/76-338873) · `ta`
-
-A passenger train derailed between Badulla and Colombo Fort, disrupting service. The Nawalapitiya Railway Control Room is working to repair the train and resume operations.
-
-🟩
-
-Train traffic to the hill country has been affected as a passenger train derailed from Badulla to Colombo Fort.
-
-The Nawalapitiya Railway Control Room said that the passenger train from Badulla to Colombo Fort at 3.40 pm
-
-The railway control room has said that the railway control room has taken steps to remove the box on the derailment train and operate the train with other boxes.
-
-◼️
-
-[Data](articles/19988ad5.json)
-
-[Extended Data](ext_articles/19988ad5.ext.json)
-
----
-
-### President instructs immediate expeditious reliefs
-
-*2024-06-13 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197724) · `si`
-
-President Ranil Wickremesinghe urged provincial governors to enhance government welfare efforts, emphasizing the need for swift action. Governors were tasked with ensuring benefits reach citizens effectively. The meeting also addressed teacher shortages and the recruitment of retired English media teachers to fill gaps. Additionally, scholarships for 2,000 low-income students will be awarded on March 19th.
-
-🟩
-
-President Ranil Wickremesinghe has requested the provincial governors to intervene in the government's welfare programs.
-
-The President has pointed out that the governors should interfere with the governors to bring the benefits to the people and provide the benefits to the people.
-
-President Ranil Wickremesinghe has made this statement at a meeting held with the governors of the Provincial Councils.
-
-It is also discussed that the proficiency of the teachers at the provincial level has been discussed as well as the inheritance of the inheritance.
-
-Minister of Education Susil Premajayantha has said that the government is committed to expedite the shortage of teachers at the provincial level.
-
-The Ministry of Education has also called applications from the English Media Teachers who have already retired to cover the English teachers shortage of the English teachers.
-
-...
-
-[Data](articles/c37be274.json)
-
-[Extended Data](ext_articles/c37be274.ext.json)
 
 ---

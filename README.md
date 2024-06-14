@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 14:05:17**
+As of **2024-06-14 14:19:20**
 
 ## Newspaper Stats
 
-*Scraped **30,372** Articles*
+*Scraped **30,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,79 @@ adaderanalk | 3,439
 tamilmirrorlk | 3,555
 virakesarilk | 4,662
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,891
+adaderanasinhalalk | 4,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,370 (100.0%) of 30,372 articles have been extended.
+30,372 (100.0%) of 30,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### විජයදාස එරෙහිව අධිකරණය දුන් නියෝගය
+### වාහන ගෙන්වන සැලසුම IMF වෙත ඉදිරිපත් කරයි
+
+*2024-06-14 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197748) · `si`
+
+මෙරට වාහන ආනයන සීමා ලිහිල් කිරීම සම්බන්ධයෙන් වන සැලසුමක් (Road Map) ශ්‍රී ලංකා බලධාරීන් විසින් ජාත්‍යන්තර මූල්‍ය අරමුදල වෙත ඉදිරිපත් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+ඒ අනුව වාහන ආනයන සීමා ලිහිල් කිරීම, වාහන ඛාණ්ඩ කිහිපයක් යටතේ මේ වසරේ තෙවන සහ සිව්වන කාර්තුවලදී සිදු කිරීමට යෝජිතය.
+
+2024 වසරේ තුන්වන කාර්තුවේදී පොදු ප්‍රවාහන සේවා සඳහා වන වාහන ලිහිල් කිරීමටත්, මෙම වසරේ සිව්වන කාර්තුවේදී වාණිජ අවශ්‍යතා වන වාහන සහ සෙසු කාණ්ඩයන්ට අයත් වාහන ආනයන සීමා ලිහිල් කිරීම සම්බන්ධයෙන් වන රජයේ යෝජනා, ජාත්‍යන්තර මුල්‍ය අරමුදල වෙත එලෙස යොමුකර තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ වාහන ආනයනය සම්බන්ධයෙන් මූල්‍ය අරමුදල වෙත ඉදිරිපත් කර ඇති යෝජනා ක්‍රියාත්මක කිරීම, මෙරට විදේශ සංචිත වර්ධනය සහ ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම පදනම් කරගනිමින් යෝජනා කර ඇති බවය.
+
+◼️
+
+[Data](articles/62007733.json)
+
+---
+
+### අල්ලස් කොමිසම භාරයට ගත් සැප වාහන 5ක් රේගුවට භාරදෙන්නැයි නියෝග
+
+*2024-06-14 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197747) · `si`
+
+නීතිවිරෝධී ලෙස වැරදි තොරතුරු මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවට ඉදිරිපත් කර මෙරටට ගෙන්වීමෙන් පසුව අල්ලස් කොමිසම භාරයට ගන ලැබූ සුඛෝපභෝගී වාහන පහක් ශ්‍රී ලංකා රේගුව වෙත භාරදෙන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+රුපියල් කෝටි 60ක පමණ වටිනාකමකින් යුත් මෙම වාහන නීතිවිරෝධී ලෙස මෙරටට ගෙන ඒම නිසා රජයට රුපියල් මිලියන 300ක පමණ බදු අහිමි වූ බවත් අල්ලස් කොමිසම සිදුකළ විමර්ශනවලදී හෙළි වී තිබිණි.
+
+මෙම වාහන සම්බන්ධයෙන් සිදුකරන විමර්ශනයට අදාළව මීට පෙර අධිකරණය විසින් නිකුත් කරනු ලැබූ නියෝග මත ඒවා තම භාරයට ගැනීමට අල්ලස් කොමිසම විසින් කටයුතු කර තිබිණි.
+
+ඉන් අනතුරුව වැඩිදුර විමර්ශන සිදුකිරීමට අවශ්‍ය බවට අල්ලස් කොමිසම කළ දැනුම් දීම පිළිගත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අදාළ වාහන ශ්‍රී ලංකා රේගුවට භාරදෙන ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/01a0082d.json)
+
+---
+
+### Court of Justice against Wijayadasa
 
 *2024-06-14 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197746) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීමට වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය  තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (14) නියෝග කළේය.
+The Colombo District Court, under Judge Chamari Weerasuriya, declined to extend a case involving the SLFP's chairman. Despite requests from Attorney Jayathassa Jayasuriya on behalf of Wijayadasa and Sarath Ekanayake, the court upheld an earlier decision not to extend the case. This decision came after the attorney had previously faced legal issues related to his involvement in the case.
 
-මෙම නඩුව අද කොළඹ අතිරේක දිසා විනිසුරු චමරි වීරසුරිය මහත්මිය හමුවේ කැඳවූ අවස්ථාවේදී පැමිල්ලිකාර දුමින්ද දිසානායක මහතා වෙනුවෙන් නීතිඥවරයකු පෙනී සිටියේ නැත.
+🟩
 
-ඒ අනුව අදාළ නියෝගය දීර්ඝ කිරීම සම්බන්ධයෙන් ඉල්ලීමක් ඉදිරිපත් නොවන නිසා එය දීර්ඝ නොකරන බවත් විනිසුරුවරිය සඳහන් කළේය.
+The Colombo District Court today (14) ordered that the SLFP's Chairman of the SLFP.
 
-එහිදී අදාළ පැමිණිල්ලේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින විජයදාස රාජපක්ෂ සහ සරත් ඒකනායක යන අය වෙනුවෙන් පෙනී සිටි නීතිඥ ජයමුදිතා ජයසූරිය මහත්මිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් උත්තර හා විරෝධතා ඉදිරිපත් කිරීම සඳහා කල් ලබා දෙන ලෙස ඉල්ලා සිටියේය.
+The case was taken up before the Colombo Additional District Judge Chamari Weerasuriya today.
 
-එහෙත් ඉන් අනතුරුව නඩුව යළි කැඳවූ අවස්ථාවේදී පැමිණිල්ලේ නීතිඥවරයා අධිකරණ හමුවේ කරුණු දක්වමින් තමන් වෙනත් නඩු විභාගයකට සහභාගි වී සිටි හෙයින් මෙම නඩුව සඳහා පෙනී සිටීමට නොහැකි වූ බවත් ඒ අනුව නඩුවට අදාළ වාරණ නියෝගය දීර්ඝ ලෙසත් ඉල්ලා සිටියේය.
+The judge said that it would not be extended, so it would not be extended, so it would not be extended.
 
-...
+Attorney-at-Law Jayathassa Jayasuriya, who is nominated as respondents, requested for the president of Wijayadasa and Sarath Ekanayake.
+
+However, when the case was taken up again, the Attorney at the verdict had faced the courts, as he had participated in the case and asked the legal injunction to the case.
+
+The request was accepted by the reputed judiciary and the injunction order was ordered to extend the injunction order on June 28.
+
+◼️
 
 [Data](articles/5440a79b.json)
+
+[Extended Data](ext_articles/5440a79b.ext.json)
 
 ---
 
@@ -858,21 +902,29 @@ Watch the Livelihood of the press conference chaired by Senior Head of the Inter
 
 ---
 
-### උද්දික ප්‍රේමරත්න: වෙඩි තැබීමේ සිද්ධිය රංගනයක් ද? කළේ බොරුවක් නම් උද්දිකට කුමක් වෙයි ද?
+### Udilika Premaratne: Is the shooting event a task?What if I'm a lie?
 
 *2024-06-14 07:49:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0088lej40o) · `si`
 
-උද්දික ප්‍රේමරත්න: වෙඩි තැබීමේ සිද්ධිය රංගනයක් ද? කළේ බොරුවක් නම් උද්දිකට කුමක් වෙයි ද?
+Former MP Udi Premaratne was shot at his home in Anuradhapura, Sri Lanka, on September 17, 2023. The police suspect the attack was pre-planned with an Assistant Superintendent of Police (ASP) involved, who had traveled to Malaysia without proper permission. Investigations are ongoing. Premaratne claimed in Parliament on September 19, 2023, that he was targeted by the country's security forces, criticizing the social and political systems in Sri Lanka. If proven false, legal actions could be taken against him.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්නට වෙඩි තැබීමේ සිද්ධිය, ඔහු විසින් ම සැලසුම්සහගතව කර ගන්නා ලද්දක් බව මූලිකව තහවුරු වී ඇතැයි පොලිසිය ජූනි 13 වන දා අනාවරණය කළේ ය.
+🟩
 
-මාධ්‍ය හමුවක් පවත්වමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව ප්‍රකාශ කළේ, මෙය සහකාර පොලිස් අධිකාරීවරයෙකු සමග එක්ව සැලසුම් කර තිබූ බව හෙළි වී ඇති බව ය.
+Udilika Premaratne: Is the shooting event a task?What if I'm a lie?
 
-අදාළ සහකාර පොලිස් අධිකාරීවරයා ජූනි 11 වන දා කටුනායක ගුවන් තොටුපළෙන් පිටත්වූ ගුවන් යානයක නැගී මැලේසියාවට ගොස් ඇතැයි වාර්තා වූ බව ය.
+The police revealed that the shooting of former MP Udi Premaratne of Anuradhapura District MP Udi Premaratne in the Sri Lanka General Peradeon was proved to be planned by him.
+
+The Police Media Spokesperson DIG Namal Thalmeduwa stated that it was planned with an Assistant Superintendent of Police.
+
+The Assistant Superintendent of Assistant was reportedly reported that the Assistant Superintendent of Police had gone to Malaysia on June 11.
+
+"Assistant Superintendent of Sanjeewa Mahanama has gone abroad and on Monday. He has been informed of the police to the police and not properly permission. We are conducting an investigation in this regard. An investigation took place by the CID. The Member of Parliament was observed by the investigation as the two persons who knew this work as identified as the Assistant Superintendent of Police.. The man's abroad is taking place while investigations are underway.
 
 ...
 
 [Data](articles/cd36b44d.json)
+
+[Extended Data](ext_articles/cd36b44d.ext.json)
 
 ---
 
@@ -2167,51 +2219,5 @@ The Netherlands scored the toss and win the bowling first.
 [Data](articles/1e57178a.json)
 
 [Extended Data](ext_articles/1e57178a.ext.json)
-
----
-
-### The lord of 'elephant' will not give up
-
-*2024-06-13 20:08:37* · [`adalk`](https://www.ada.lk/breaking_news/මැරුණත්-’අලියා’-අත්නොහැරි-පාක්ෂිකයා/11-410208) · `si`
-
-In Megadandeniya, a political figure's death has sparked controversy among party members, including "colored" politicians. The deceased, known as the "lord of elephants," was reportedly involved in a dispute over his remains, with requests made to the UNP for possession. His funeral attire included a single leaf, symbolizing his connection to nature and possibly hinting at environmental concerns.
-
-🟩
-
-Politicians and colored politicians, followers of the party and the party, who is the party, has been reported from Megadandeniya, who had been deceased.
-
-Duend to the Meegawa Hakaspiri, Dummy Hakaspiri requested the corpse to the body of the UNP.
-
-According to the death he was dressed on Monday (12th), the leafy leafy leaves were aside from a single elephant.
-
-◼️
-
-[Data](articles/19b8db5c.json)
-
-[Extended Data](ext_articles/19b8db5c.ext.json)
-
----
-
-### Printing Department violates circulars
-
-*2024-06-13 20:02:26* · [`adalk`](https://www.ada.lk/breaking_news/මුද්‍රණ-දෙපාර්තමේන්තුව-චක්‍රලේඛ-උල්ලංගණය-කරයි/11-410207) · `si`
-
-The Printing Department exceeded its overtime and allowances budget by 60.39% from January to June 2023, with a reported expenditure of Rs. 133,61,897 in just two months. An audit highlighted non-compliance with three conditions set for commercial printing allowance payments since 1998. Despite this, the department continued to pay out significant sums, including Rs. for commercial printing allowances in 2023. The Ministry of Finance aims to reduce overtime and holiday pay by at least 6%.
-
-🟩
-
-The total overtime and other allowances of the government printing circulars and other allowances have been exceeding 60.39% exceeding 60.39% over June from January.
-
-In the year 2023, the overtime and other allowances of the department were paid Rs.
-
-The audit report reports that the employees of the Government Printing (133,616,897), as overtime and other allowances in two months in two months in January and February, 2024.. The budget was approved as overtime and other allowances from January to 31st January to 31 December 31, 20 million rupees.
-
-Cabinet notice decision had been informed that the staff officers of the Department should meet three conditions in payment of commercial printing allowance. According to the audit, the three conditions have not been met since 1998.
-
-...
-
-[Data](articles/c740d8c4.json)
-
-[Extended Data](ext_articles/c740d8c4.ext.json)
 
 ---

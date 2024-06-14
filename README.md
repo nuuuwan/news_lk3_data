@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 21:04:40**
+As of **2024-06-14 21:19:22**
 
 ## Newspaper Stats
 
-*Scraped **30,427** Articles*
+*Scraped **30,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,71 +20,95 @@ adaderanalk | 3,447
 tamilmirrorlk | 3,559
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,909
+adaderanasinhalalk | 4,910
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,425 (100.0%) of 30,427 articles have been extended.
+30,427 (100.0%) of 30,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### බයිඩන්ගෙන් යළිත් අසාමාන්‍ය හැසිරීමක්
+### කිලෝ 100ක මත්කුඩු ගාලු වරායට
+
+*2024-06-14 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197768) · `si`
+
+මත්කුඩු කිලෝග්‍රෑම් 100කට අධික ප්‍රමාණයක් සමග අත්අඩංගුවට ගත් සැකකරුවන් 6 දෙනෙකු ගාලු වරායට රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/7dd12fc3.json)
+
+---
+
+### Abnormal behavior again from Bideen
 
 *2024-06-14 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197767) · `si`
 
-G7 රාජ්‍ය නායකයින්ට සුබ පැතීම සඳහා සාමාජික රටවල ජාතික ධජ රැගත් පැරෂුට්කරුවන්ගේ සංදර්ශනයක් පැවැත්වා තිබේ.
+G7 leaders meet in Italy, including US President Biden, known for his occasional unusual behavior. The summit aims to congratulate each other with parachute displays carrying national flags. A significant topic is providing Ukraine with a $50 billion loan using frozen Russian assets post-invasion, totaling over $325 billion in suspended assets across G7 nations and the EU.
 
-මේ අවස්ථාවට එක්වූ අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් යළිත් අසාමාන්‍ය හැසිරීමක් පෙන්නුම් කර ඇත.
+🟩
 
-එහිදී ඉතාලි අගමැති ජෝර්ජියා මෙලොනි අමෙරිකානු ජනාධිපතිවරයා යළි කැඳවාගෙන එන අයුරු විදෙස් මාධ්‍ය වාර්තා කළේ, ජනාධිපති බයිඩන්ගේ වයස්ගතභාවය යළි ප්‍රශ්න කරමිනි.
+A parachutemen who carry the national flags of member countries have been conducted in member countries to congratulate G7 Heads of Heads.
 
-G7 රාජ්‍ය නායක හමුව මේ වනවිට ඉතාලියේ බෝර්ගෝ ඉන්යාසියා හිදී පැවැත් වේ.
+US President Joor Beams added to the occasion have shown an unusual behavior again.
 
-ඒ G7 කණ්ඩායම නියෝජන කරන බ්‍රිතාන්‍යය, කැනඩාව, ප්‍රංශය, ජර්මනිය, ඉතාලිය, ජපානය, අමෙරිකාව සහ යුරෝපා සංගම් නායකයන්ගේ සහභාගිත්වයෙනි.
+Italian Prime Minister Georgia is back, foreign media reports the oldest media of President Baiden's elderly.
 
-යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි ඇතුළු රාජ්‍ය නායකයින් පිරිසක් ද ඊට ඇරයුම් ලබා ඇති අතර යුක්‍රේනයට අමෙරිකානු ඩොලර් බිලියන 50ක ණය මුදලක් ලබාදීමට
+The meeting of the G7 Head of the Government is currently in Bourgo Inyasia, Italy.
 
-ඔවුන් මේ මුදල ලබාදීමට සූදානම්ව සිටින්නේ G හත රටවල ඇති අත්හිටවූ රුසියානු වත්කම් භාවිත කරමිනි.
+The G7 group representative British, Canada, France, Germany, Italy, Japan, Japan and EU leaders.
 
-2022දී රුසියාව යුක්‍රේනය ආක්‍රමණය කිරීමෙන් පසුව ඔවුන් මේ වත්කම් අත්හිටුවීමට කටයුතු කළේය.
+President Vlodimir Selenski, including Ukrainian President Vladimir Selenski, invited to provide US $ 50 billion loan to Ukraine
 
-G7 සාමාජික රටවල සහ යුරෝපා සංගමය තුළ ඇති අත්හිටවූ රුසියානු වත්කම්වල වටිනාකම අමෙරිකානු ඩොලර් බිලියන 325කට අධිකය.
+They are about to give this amount using Russian assets in Gian countries.
+
+After the invasion of Russia in 2022, they were suspended to suspend the assets after the invasion of Ukraine.
+
+The suspension in G7 member countries and the suspension of Russian assets in the European Union have over US $ 325 billion.
 
 ...
 
 [Data](articles/7f88edf8.json)
 
+[Extended Data](ext_articles/7f88edf8.ext.json)
+
 ---
 
-### බයිඩන්ගෙන් යළිත් අසාමාන්‍ය හැසිරීමක්
+### Abnormal behavior again from Bideen
 
 *2024-06-14 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197766) · `si`
 
-G7 රාජ්‍ය නායකයින්ට සුබ පැතීම සඳහා සාමාජික රටවල ජාතික ධජ රැගත් පැරෂුට්කරුවන්ගේ සංදර්ශනයක් පැවැත්වා තිබේ.
+G7 leaders meet in Italy, including Ukrainian Pres. Zelensky, discussing a $50 billion loan for Ukraine using frozen Russian assets post-invasion. This move follows President Biden's odd behavior during the event, where parachutists carried national flags. The total value of suspended Russian assets across G7 nations and the EU exceeds $325 billion, potentially generating $3 billion annually.
 
-මේ අවස්ථාවට එක්වූ අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් යළිත් අසාමාන්‍ය හැසිරීමක් පෙන්නුම් කර ඇත.
+🟩
 
-එහිදී ඉතාලි අගමැති ජෝර්ජියා මෙලොනි අමෙරිකානු ජනාධිපතිවරයා යළි කැඳවාගෙන එන අයුරු විදෙස් මාධ්‍ය වාර්තා කළේ, ජනාධිපති බයිඩන්ගේ වයස්ගතභාවය යළි ප්‍රශ්න කරමිනි.
+A parachutemen who carry the national flags of member countries have been conducted in member countries to congratulate G7 Heads of Heads.
 
-G7 රාජ්‍ය නායක හමුව මේ වනවිට ඉතාලියේ බෝර්ගෝ ඉන්යාසියා හිදී පැවැත් වේ.
+US President Joor Beams added to the occasion have shown an unusual behavior again.
 
-ඒ G7 කණ්ඩායම නියෝජන කරන බ්‍රිතාන්‍යය, කැනඩාව, ප්‍රංශය, ජර්මනිය, ඉතාලිය, ජපානය, අමෙරිකාව සහ යුරෝපා සංගම් නායකයන්ගේ සහභාගිත්වයෙනි.
+Italian Prime Minister Georgia is back, foreign media reports the oldest media of President Baiden's elderly.
 
-යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි ඇතුළු රාජ්‍ය නායකයින් පිරිසක් ද ඊට ඇරයුම් ලබා ඇති අතර යුක්‍රේනයට අමෙරිකානු ඩොලර් බිලියන 50ක ණය මුදලක් ලබාදීමට
+The meeting of the G7 Head of the Government is currently in Bourgo Inyasia, Italy.
 
-ඔවුන් මේ මුදල ලබාදීමට සූදානම්ව සිටින්නේ G හත රටවල ඇති අත්හිටවූ රුසියානු වත්කම් භාවිත කරමිනි.
+The G7 group representative British, Canada, France, Germany, Italy, Japan, Japan and EU leaders.
 
-2022දී රුසියාව යුක්‍රේනය ආක්‍රමණය කිරීමෙන් පසුව ඔවුන් මේ වත්කම් අත්හිටුවීමට කටයුතු කළේය.
+President Vlodimir Selenski, including Ukrainian President Vladimir Selenski, invited to provide US $ 50 billion loan to Ukraine
 
-G7 සාමාජික රටවල සහ යුරෝපා සංගමය තුළ ඇති අත්හිටවූ රුසියානු වත්කම්වල වටිනාකම අමෙරිකානු ඩොලර් බිලියන 325කට අධිකය.
+They are about to give this amount using Russian assets in Gian countries.
+
+After the invasion of Russia in 2022, they were suspended to suspend the assets after the invasion of Ukraine.
+
+The suspension in G7 member countries and the suspension of Russian assets in the European Union have over US $ 325 billion.
 
 ...
 
 [Data](articles/8ccacc5c.json)
+
+[Extended Data](ext_articles/8ccacc5c.ext.json)
 
 ---
 
@@ -2321,21 +2345,5 @@ A top level delegation from Pudong, China visited the Board of Investment (BOI) 
 [Data](articles/4b2ba154.json)
 
 [Extended Data](ext_articles/4b2ba154.ext.json)
-
----
-
-### PickMe expands reach to Jaffna and Anuradhapura
-
-*2024-06-14 06:52:44* · [`dailyftlk`](https://www.ft.lk/business/PickMe-expands-reach-to-Jaffna-and-Anuradhapura/34-763072) · `en`
-
-App based mobility company Pick Me opened their new branch offices in Jaffna and Anuradhapura last week, six months after they launched a pilot program to extend ride hailing services to the Northern provinces.
-
-PickMe COO Isira Perera says their services have been received favourably by the newly added districts to the platform. “Already over 6,000 new drivers from Jaffna and Anuradhapura have registered with us in the last six months, unlocking more economic opportunities for the provinces. This is another step by PickMe to make Sri Lanka more connected to digital mobility solutions. While local commuters are our primary target group, we are also reaching out to the tourism market which is key to our operations.”
-
-...
-
-[Data](articles/a8898520.json)
-
-[Extended Data](ext_articles/a8898520.ext.json)
 
 ---

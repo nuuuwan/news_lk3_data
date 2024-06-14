@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 22:06:46**
+As of **2024-06-14 22:19:19**
 
 ## Newspaper Stats
 
-*Scraped **30,430** Articles*
+*Scraped **30,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,97 @@ islandlk | 1,647
 economynextcom | 1,768
 dailyftlk | 1,846
 adalk | 2,620
-adaderanalk | 3,447
+adaderanalk | 3,449
 tamilmirrorlk | 3,560
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,911
+adaderanasinhalalk | 4,912
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,428 (100.0%) of 30,430 articles have been extended.
+30,430 (100.0%) of 30,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### මහා පරිමාණ රුමේනියා රැකියා ජාවාරමක තොරතුරු එළියට
+### මන්ත්‍රීවරු පන්ති යවන්න ජනපති සුදානමින්
+
+*2024-06-14 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197770) · `si`
+
+21 වැනි සියවසේ ආර්ථිකය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පන්ති පැවැත්විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ශ්‍රී ලාංකීය තරුණ ප්‍රජාව සඳහා වන "Public Learn Education Platform" හෙවත් පොදු ඉගෙනුම් අධ්‍යාපන වේදිකාව ඊයේ (13) ජනාධිපති ලේකම් කාර්යාලයේදී නිල වශයෙන් එළිදැක්විය.
+
+ලොව ප්‍රමඛ පෙළේ විශ්වවිද්‍යාලවලින් නොමිලේ පාඨමාලා හැදෑරීම සඳහා පරිශීලකයින් යොමු කරවන මෙම අධ්‍යාපන වේදිකාවට අරමුදල් සපයා ඇත්තේ එක්සත් රාජධානියේ ශ්‍රී ලාංකික ඩයස්පෝරාව විසිනි‍.
+
+...
+
+[Data](articles/b1f00476.json)
+
+---
+
+### Large-scale Romania etc.
 
 *2024-06-14 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197769) · `si`
 
-රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+In Sri Lanka, a person was arrested by the SLBFE's Special Investigation Division for allegedly cheating over Rs. 130 lakhs from 53 victims through an unlicensed employment agency in Godagama, Matara. The agency failed to provide promised jobs despite having a valid job license until February 29. The owner was arrested for violating the Bureau Act and later released on bail. The SLBFE advises potential foreign workers to verify job agencies' legitimacy and contact them via www.slbfe.lk or the 1989 hotline.
 
-මාතර, ගොඩගම පිහිටි අදාළ ආයතනයේ හිමිකරු විසින් රුමේනියාවේ රැකියා ලබාදීම සඳහා මුදල් අයකර, එම රැකියා අවස්ථා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 53ක් ලැබී ඇත.
+🟩
 
-පසුව එම පැමිණිලි අනුව අදාළ සැකකරු වංචාකර ඇති මුදලේ වටිනාකම රුපියල් ලක්ෂ 130ට අධිකය.
+A person has been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (SLBFE).
 
-අදාළ රැකියා නියෝජිතායතනය මීට පෙර කාර්යාංශයේ ලියාපදිංචි රැකියා නියෝජිතායතනයක් වන අතර, එම ආයතනයේ රැකියා බලපත්‍රයේ වලංගු කාලය පෙබරවාරි 29 දිනෙන් අවසන් වී ඇති අතර,  යළි එම ආයතනයේ රැකියා බලපත්‍රය අලුත් කර ගැනීමකින් තොරව නීතිවිරෝධි අයුරින් පවත්වාගෙන ගොස් තිබේ.
+The Bureau has received 53 complaints that the owner of the relevant institution in Godagama, Matara.
 
-මෙම ආයතනයට රුමේනියා රැකියා ලබාදීම සඳහා වලංගු රැකියා ඇණවුමක් තිබුණද, පැමිණිලිකරුවන් රැකියා සඳහා යොමුකිරීමට ඔවුන් කටයුතු කර නොමැත.
+According to the complaints, the amount of money that the suspect has been cheated is over Rs. 130 lakhs.
 
-පැමිණිලි විභාග කිරිම සඳහා අදාළ රැකියා නියෝජිතායතනයේ හිමිකරු ඊයේ (13) දින කාර්යාංශය වෙත කැඳවා ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව කාර්යාංශ පනතේ අඩංගු බලපත්‍ර කොන්දේසි උල්ලංඝණය කිරීම යන චෝදනාව යටතේ අත්අඩංගුවට ගෙන තිබේ.
+The relevant employ agency is a previously registered employment agency, and the validity of the company's job license has been completed by February 29 without renewal of the company's job license.
+
+Despite the valid job order to provide homathena jobs, they have not taken steps to direct the complainants for employment.
+
+After the owner of the relevant employment to the Bureau of employment to the Bureau yesterday (13), the owner of the relevant employment was taken to the Bureau yesterday (13) and was arrested by violation of licenses in the Bureau Act.
+
+The suspect was produced before the Matara Magistrate's Court today on a personal bail of Rs.
 
 ...
 
 [Data](articles/0af3cecb.json)
+
+[Extended Data](ext_articles/0af3cecb.ext.json)
+
+---
+
+### Six arrested with 100kg of narcotics in fishing trawler
+
+*2024-06-14 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99886/six-arrested-with-100kg-of-narcotics-in-fishing-trawler) · `en`
+
+Six suspects in a multi-day fishing trawler have been arrested by Police Narcotics Bureau personnel along with over 100 kilograms of narcotics, the police said.
+
+The apprehended trawler has been subsequently escorted to the Galle harbor, according to police.
+
+◼️
+
+[Data](articles/2db388a0.json)
+
+---
+
+### “I might have to play cricket myself if this continues” - Sports Minister
+
+*2024-06-14 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99885/i-might-have-to-play-cricket-myself-if-this-continues-sports-minister) · `en`
+
+Minister of Sports Harin Fernando, while speaking to the media this afternoon (14), expressed his views regarding Sri Lankan team’s early elimination from the ICC T20 World Cup 2024.
+
+Accordingly, Fernando stated that continuous losing of matches in this manner has been an issue for several years and that a long-term solution is needed to solve the relevant issue.
+
+The Sports Minister further alleged that the Sri Lanka Cricket was already suspended and everything was ‘messed up’ when he took over the relevant ministry.
+
+In response to a question raised by a journalist regarding future steps for the development of cricket, Fernando jokingly said: “I hope to play cricket. You are asking what I can do as the Sports Minister to this issue? What can I do if they keep losing the matches? Then I will have to go and play cricket.”
+
+...
+
+[Data](articles/9942f993.json)
 
 ---
 
@@ -72,15 +128,21 @@ Six suspects arrested with over 100 kilograms of drugs have been taken to the po
 
 ---
 
-### நீர்கொழும்பு கடலில் மூழ்கி சிறுவர்கள் உயிரிழப்பு
+### Boys drown in Negombo Sea
 
 *2024-06-14 20:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-மூழ்கி-சிறுவர்கள்-உயிரிழப்பு/175-338914) · `ta`
 
-நீர்கொழும்பு கடலில் நிராடச் சென்ற 14 மற்றும் 17 வயதுடைய இரண்டு சிறுவர்கள் நீரில் மூழ்கி உயிரிழந்துள்ளதாக நீர்கொழும்பு பொலிஸார் தெரிவித்துள்ளனர். R
+Two boys, ages 14 and 17, drowned in Negombo Sea after being dumped there, according to local police.
+
+🟩
+
+Two boys aged 14 and 17, who were dumped in the Negombo Sea, were drowned, Negombo police said. Remble
 
 ◼️
 
 [Data](articles/289180e1.json)
+
+[Extended Data](ext_articles/289180e1.ext.json)
 
 ---
 
@@ -2289,67 +2351,5 @@ Sri Lanka will also remove several other exchange controls which have fallen fou
 [Data](articles/a0bbcad2.json)
 
 [Extended Data](ext_articles/a0bbcad2.ext.json)
-
----
-
-### Retired police officers criticise Ravi and Shani’s support for JVP-led NPP
-
-*2024-06-14 06:58:47* · [`dailyftlk`](https://www.ft.lk/news/Retired-police-officers-criticise-Ravi-and-Shani-s-support-for-JVP-led-NPP/56-763077) · `en`
-
-Former Directors of the Criminal Investigation Department (CID), Retired SSP Shani Abeysekera and Retired Senior DIG Ravi Seneviratne were seen joining a National People’s Power (NPP) forum organised for retired Police Officers in Maharagama
-
-Former IGP Chandra Fernando claims officers both past and present have express dissatisfaction over Senior DIG Ravi Seneviratne and SSP Shani Abeysekara endorsing JVP led NPP
-
-Highlights JVP’s history of violence and instability, questioning why former law enforcement officials would support such a group
-
-Accuses officers who once fought against JVP led insurgency of now allegedly advocating violence
-
-Fernando and others express disbelief over former colleagues aligning with JVP without considering national interests and public safety
-
-...
-
-[Data](articles/229cc0e1.json)
-
-[Extended Data](ext_articles/229cc0e1.ext.json)
-
----
-
-### President requests Governors to expedite delivery of benefits welfare programs to people
-
-*2024-06-14 06:57:35* · [`dailyftlk`](https://www.ft.lk/news/President-requests-Governors-to-expedite-delivery-of-benefits-welfare-programs-to-people/56-763076) · `en`
-
-President Ranil Wickremesinghe has emphasised that all Governors should actively ensure the efficient implementation of the Government’s welfare programs and promptly deliver their benefits to the people.
-
-The President made these remarks during a discussion held with the Provincial Governors at the Presidential Secretariat on Wednesday.
-
-The meeting also included an extensive discussion on addressing the shortage of teachers at the provincial level and improving the efficiency of the ‘Urumaya’ -freehold land distribution program.
-
-The President highlighted the potential for improving the efficiency of the ‘Urumaya’- freehold land deeds program by implementing mobile services and delegating authority to an additional group beyond the Grama Niladhari level.
-
-President Ranil Wickremesinghe also reminded divisional secretaries of their responsibility to engage the public and ensure they receive the benefits of this program.
-
-...
-
-[Data](articles/ff49352f.json)
-
-[Extended Data](ext_articles/ff49352f.ext.json)
-
----
-
-### Splendour of global gems at Ratnapura Expo 2024
-
-*2024-06-14 06:56:04* · [`dailyftlk`](https://www.ft.lk/business/Splendour-of-global-gems-at-Ratnapura-Expo-2024/34-763075) · `en`
-
-From left: Lanka Gem Dealers and Ratnapura Minors Association Chairman U.G. Chandrasena, National Gem and Jewellery Authority Chairman and CEO Viraj De Silva, State Minister of Primary Industries Chamara Sampath Dassanayake, Industries Minister Dr. Ramesh Pathirana, Industries Ministry Secretary Shantha Weerasinghe and National Gem and Jewellery Authority Director General Janaka Udaya Kumara at the launch of the International Gem and Jewellery Exhibition Sri Lanka 2024 in Colombo
-
-From 29 June to 1 July, the prestigious Grand Silver Ray Hotel in Pelmadulla will host the Ratnapura International Gem and Jewellery Exhibition for the first time.
-
-This event, organised by the National Gem and Jewellery Authority (NGJA), aims to spotlight Ratnapura’s rich gem heritage and foster new economic opportunities.
-
-...
-
-[Data](articles/6d1b9c76.json)
-
-[Extended Data](ext_articles/6d1b9c76.ext.json)
 
 ---

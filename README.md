@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 14:34:42**
+As of **2024-06-14 14:53:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,374 (100.0%) of 30,375 articles have been extended.
+30,375 (100.0%) of 30,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### පුටින් ට අනතුරු ඇඟවීම්
+### Warnings to Putin
 
 *2024-06-14 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197749) · `si`
 
-රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් නුදුරේදීම උතුරු කොරියාවේ සංචාරය කිරීමට නියමිත බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+As Putin prepares to visit North Korea, the US and South Korea warn against strengthening ties between Russia and North Korea, fearing it could undermine UN Security Council resolutions.
 
-මේ අතර අමෙරිකාව සහ දකුණු කොරියාව පවසන්නේ එමගින් උතුරු කොරියාව සහ රුසියාව අතර යුද සබඳතා තවත් වර්ධනය විය හැකි බවත් එය එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයේ යෝජනාවලට එරෙහි ක්‍රියාවක් බවත් ය.
+🟩
 
-රුසියානු ජනපතිවරයාගේ සංචාරය හේතුවෙන් උතුරු කොරියාව සහ රුසියාව අතර යුද සම්බන්ධතා ප්‍රවර්ධනය නොවිය යුතු බවට අමෙරිකානු සහ දකුණු කොරියානු පාර්ශ්ව අනතුරු අඟවා තිබේ.
+International media reports that the Russian President Vladimir Putin is due to visit North Korea soon.
+
+Meanwhile, America and South Korea say that North Korea and Russia can also increase the proposals of the UN Security Council.
+
+US and South Korean parties have warned that northern Korea and Russia should not be promoted due to the Russian President's visit.
 
 ◼️
 
 [Data](articles/31dbe053.json)
+
+[Extended Data](ext_articles/31dbe053.ext.json)
 
 ---
 

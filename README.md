@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 19:34:43**
+As of **2024-06-14 19:54:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,420 (100.0%) of 30,422 articles have been extended.
+30,422 (100.0%) of 30,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### දියේ ගිලී සිසුන් දෙදෙනෙක් ජීවිතක්ෂයට
+### Two killed in drowning
 
 *2024-06-14 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197764) · `si`
 
-මීගමුව, වැල්ල වීදිය ප්‍රදේශයේ මුහුදු තීරයේ දියනෑමට ගිය පාසල් සිසුන් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+In Negombo, two schoolchildren drowned while swimming with friends. The Police Media Unit reported that all four were in danger, but two managed to survive.
 
-පොලිස් මාධ්‍ය ඒකකය පැවසුවේ, අද (14) පෙරවරුවේ මෙම සිසුන් දෙදෙනා තවත් සිසුන් දෙදෙනෙකු සමග එම ස්ථානයේ දිය නෑමට ගොස් ඇති බවය.
+🟩
 
-එහිදී දිය නාමින් සිටි සිසුන් සිව්දෙනාම දියේ ගසා ගොස් ඇති අතර ඉන් දෙදෙනෙකුගේ දිවි බේරා ගෙන ඇත.
+Two schoolchildren who had been drowned in the coast of the Wadiya area in Negombo.
+
+The Police Media Unit said that the two students had been bathing with two students.
+
+The four four students were drowning and two of them were survived.
 
 ◼️
 
 [Data](articles/c3df5302.json)
+
+[Extended Data](ext_articles/c3df5302.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ The Agricultural, Industrial and Services activities expanded by 1.1 per cent, 1
 ...
 
 [Data](articles/9c08972d.json)
+
+[Extended Data](ext_articles/9c08972d.ext.json)
 
 ---
 

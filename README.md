@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 22:34:38**
+As of **2024-06-14 22:53:24**
 
 ## Newspaper Stats
 
-*Scraped **30,433** Articles*
+*Scraped **30,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,768
 dailyftlk | 1,846
-adalk | 2,620
+adalk | 2,621
 adaderanalk | 3,449
 tamilmirrorlk | 3,560
 virakesarilk | 4,678
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,912
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,433 (100.0%) of 30,433 articles have been extended.
+30,433 (100.0%) of 30,434 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -505,6 +505,22 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 [Data](articles/b8b68c06.json)
 
 [Extended Data](ext_articles/b8b68c06.ext.json)
+
+---
+
+### බස්නාහිර සමූපකාර විධිමත් භාවයකින් තොරව ණය දීලා
+
+*2024-06-14 17:03:12* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-සමූපකාර-විධිමත්-භාවයකින්-තොරව-ණය-දීලා/11-410215) · `si`
+
+බස්නාහිර පළාත් සභාවේ සහ සමූපකාර සංවර්ධන දෙපාර්තමේන්තුවේ වත්මන් කාර්ය සාධනය සම්බන්ධයෙන් ර‍ජයේ ගිණුම් පිළිබඳ කාරක සභාවේ අවධානය යොමු විය.
+
+මේ පිළිබඳ සාකච්ඡා කෙරුණේ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+
+මෙහිදී 2020, 2021 සහ 2022 වර්ෂවල විගණකාධිපති වාර්තා පදනම් කර ගනිමින් බස්නාහිර පළාත් සභාවේ සහ සමූපකාර සංවර්ධන දෙපාර්තමේන්තුවේ වත්මන් කාර්ය සාධනය සම්බන්ධයෙන් සාකච්ඡා කිරීම සිදු වූ අතර කාරක සභාව ආරම්භ කරමින් කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ බස්නාහිර පළාත් සභාව සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡා කළ යුතු බවත් මේ නිසා කොටස් 3ක් වශයෙන් මෙම සාකච්ඡාව සිදු කරන බවත් ඉන් පළමු කොටස මෙදින පවත්වන බවත් ය.
+
+...
+
+[Data](articles/3a50e8d9.json)
 
 ---
 
@@ -2341,25 +2357,5 @@ The heavy vehicles traveling along the road has been temporarily stopped towards
 [Data](articles/6db44485.json)
 
 [Extended Data](ext_articles/6db44485.ext.json)
-
----
-
-### Sri Lanka car import relaxation full plan by June 15: IMF report
-
-*2024-06-14 07:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-import-relaxation-full-plan-by-june-15-imf-report-167937/) · `en`
-
-ECONOMYNEXT – Sri Lanka will finalize a plan by June 15 to end vehicle import controls, starting with commercial vehicles and ending with all vehicles in 2025, according to an International Monetary Fund report.
-
-“The authorities have developed an initial roadmap to relax restrictions on the importation of motor vehicles by 2025, starting with public passenger and special purpose vehicles in 2024 Q3, followed by goods transport vehicles in Q4 2024 and the rest in 2025,” the IMF report said.
-
-“A detailed plan, including the implications on tax and reserve accumulations, will be finalized by June 15, 2024.”
-
-Sri Lanka will also remove several other exchange controls which have fallen foul of the International Monetary Fund and are designated as Multiple Currency Practices (MCP), and capital flow measures (CFMs), by end May 2024.
-
-...
-
-[Data](articles/a0bbcad2.json)
-
-[Extended Data](ext_articles/a0bbcad2.ext.json)
 
 ---

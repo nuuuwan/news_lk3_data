@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 13:19:14**
+As of **2024-06-14 13:34:38**
 
 ## Newspaper Stats
 
-*Scraped **30,362** Articles*
+*Scraped **30,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 281
 bbccomsinhala | 297
 newsfirstlk | 363
 islandlk | 1,647
-economynextcom | 1,758
+economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,616
 adaderanalk | 3,438
-tamilmirrorlk | 3,553
+tamilmirrorlk | 3,554
 virakesarilk | 4,662
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,890
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,362 (100.0%) of 30,362 articles have been extended.
+30,362 (100.0%) of 30,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
+
+### Sri Lanka’s JAT binder plant looks to export excess product
+
+*2024-06-14 13:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-jat-binder-plant-looks-to-export-excess-product-168000/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s JAT Holdings Plc, which produces wood coatings and brushes, said it had begun manufacturing its own binders at its new plant in Horana, and hopes to export product in the future.
+
+“The new JAT Binder Plant will complement JAT’s Alkyd Resin Plant in Bangladesh, and its cross-border manufacturing infrastructure,” the company said in a stock exchange filing.
+
+JAT said there was potential for exporting its excess production of binders, the foundational component of wood coatings and emulsion paint, from this plant and launching even more cost-efficient, quality products for customers.
+
+The state-of-the-art plant began operations in March at a cost 1,521,256,438 rupees.
+
+◼️
+
+[Data](articles/3623aaf3.json)
+
+---
+
+### விஜேதாசவுக்கு எதிராக தடையுத்தரவு நீடிப்பு
+
+*2024-06-14 13:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜேதாசவுக்கு-எதிராக-தடையுத்தரவு-நீடிப்பு/175-338905) · `ta`
+
+நீதியமைச்சர்  விஜேதாச ராஜபக்ச, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதைத் தடுக்கும் வகையில் அவருக்கு விதிக்கப்பட்ட தடையுத்தரவை எதிர்வரும் 28ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மேலதிக மாவட்ட நீதவான் திருமதி சாமரி வீரசூரிய, வெள்ளிக்கிழமை (14) உத்தரவிட்டுள்ளார்.
+
+பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க தாக்கல் செய்துள்ள மனுவில், சரத் ​​ஏக்கநாயக்க, கீர்த்தி உடவத்த மற்றும் விஜயதாச ராஜபக்ஷ ஆகியோரை பிரதிவாதிகளாக  குறிப்பிடப்பட்டுள்ளனர்.
+
+தடை உத்தரவுக்கு எதிரான தரப்பினரின் ஆட்சேபனைகள் மற்றும் பதில்களை ஜூலை 18 ஆம் திகதி நீதிமன்றத்தில் சமர்ப்பிக்க வேண்டும் என்றும் நீதவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fd9412d3.json)
+
+---
 
 ### Medical department student drowned in a miserable death
 
@@ -60,6 +94,24 @@ S. Aksayan, who was selected for the medical department, died of water. The enti
 
 ---
 
+### US welcomes IMF approval of Sri Lanka’s second review
+
+*2024-06-14 12:50:00* · [`economynextcom`](https://economynext.com/us-welcomes-imf-approval-of-sri-lankas-second-review-168027/) · `en`
+
+ECONOMYNEXT — The United States has welcomed the International Monetary Fund (IMF)’s approval of the second review of Sri Lanka’s IMF programme which allows for the disbursement of 330 million US dollars.
+
+US Ambassador to Sri Lanka Julie Chung tweeted Friday June 14 that her government encourages Sri Lanka’s leaders to stay committed to measures needed to foster growth.
+
+“Recognising that reforms can be challenging, the United States continues to encourage Sri Lanka’s leaders to stay committed to take needed measures that ensure accountability, transparency, and representative governance, to foster investment and growth,” she said.
+
+Chung met State Minister of Finance Shehan Semasinghe in Washington at the IMF Spring Meeting in April where she said Sri Lanka had made “great progress”.
+
+...
+
+[Data](articles/3de76bb3.json)
+
+---
+
 ### Pregnancy without knowing her husband: shocked woman
 
 *2024-06-14 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனுக்கு-தெரியாமல்-கர்ப்பம்-அதிர்ச்சி-கொடுத்த-பெண்/175-338902) · `ta`
@@ -81,6 +133,26 @@ Where he was treated. When doctors inquired about Sujatha, he said that the baby
 [Data](articles/ae7136ba.json)
 
 [Extended Data](ext_articles/ae7136ba.ext.json)
+
+---
+
+### Sri Lanka to tax imaginary rents on houses under IMF deal
+
+*2024-06-14 12:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-tax-imaginary-rents-on-houses-under-imf-deal-168001/) · `en`
+
+ECONOMYNEXT – Sri Lanka will charge taxes on owner occupied and vacant residential houses on imputed or ‘imaginary’ rents from April 2025 on tax hikes under an International Monetary Fund deal after aggressive macroeconomic policy pushed the country into sovereign default.
+
+The imputed rents will be calculated based on a property price register. However there will be an exemption threshold, a report released by after
+
+A nationwide digital Sales Price and Rents Register (SPRR) is to be set up by March 2025, and accessible to the Department of Inland Revenue.
+
+“This digital SPRR would be the key resource for assessing property values and the imputed rental income tax,” the IMF report said.
+
+A database on property valuations that includes information such as assessed values, latest assessment date, and property type in all municipal councils by August 2024.
+
+...
+
+[Data](articles/14a8d377.json)
 
 ---
 
@@ -171,6 +243,46 @@ The announcement states that the examination ticket has been sent to the applica
 [Data](articles/ff4179ea.json)
 
 [Extended Data](ext_articles/ff4179ea.ext.json)
+
+---
+
+### Sri Lanka-China bilateral political consultation held in Beijing; policies reviewed
+
+*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-bilateral-political-consultation-held-in-beijing-policies-reviewed-167992/) · `en`
+
+ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China is held in Beijing this week with the review of some bilateral policies , |Sri Lanka’s Foreign Ministry officials said.
+
+Foreign Secretary Aruni Wijewardane and Acting Director General for East Asia Division Poshitha Perera represented Sri Lanka in the Beijing meeting, officials said.
+
+“It is an annual event. Basically some review on the bilateral policies take place,” Foreign Minister Ali Sabry told EconomyNext.
+
+Another official said there was nothing “unusual topics” reviewed in the meeting.
+
+This year’s consultation meeting comes after a milk hiccup in diplomatic relations between the both countries after Sri Lanka banned Chinese research vessels calling the island nation for research purposes for one year.
+
+The ban came after strong protest by India, which had cited security threats from such research ships, Sri Lanka government officials have said.
+
+...
+
+[Data](articles/671c1ee5.json)
+
+---
+
+### Sri Lanka’s Sling solar-powered EV battery project wins US award
+
+*2024-06-14 11:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-sling-solar-powered-ev-battery-project-wins-us-award-167990/) · `en`
+
+ECONOMYNEXT – The USAID-funded Sri Lanka Energy Project (SLEP) has received an innovation award at the 2024 annual conference for the Society for International Development (SID-US), for its solar-powered electric vehicle battery swapping stations.
+
+Owned and operated by Sling Mobility (Pvt) Ltd, the stations were recognized for their impact on sustainable urban mobility and economic development in the country, the US embassy said in a statement.
+
+Sling’s ‘360° Sustainable Mobility’ project provides cost-effective and efficient solutions to the retail logistics sector through a smart electric vehicle ecosystem, which reduces the high initial costs of buying batteries and e-bikes by offering a battery subscription service.
+
+Sling Mobility’s collaboration with Uber for food delivery services has demonstrated the model’s effectiveness in reducing downtime for riders, saving money and time, the company said.
+
+...
+
+[Data](articles/7d07f82e.json)
 
 ---
 
@@ -2091,149 +2203,5 @@ The President said that the President also promised to win the government in man
 [Data](articles/aee0f05f.json)
 
 [Extended Data](ext_articles/aee0f05f.ext.json)
-
----
-
-### A woman was arrested
-
-*2024-06-13 19:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-அதிரடியாக-கைது/175-338874) · `ta`
-
-Nilmini, accused of fraudulently receiving Rs 1,689,000 without providing a promised job in Israel, was arrested by the Special Investigation Unit of the Foreign Employment Bureau based on a complaint. The arrest was made on charges related to violating the Bureau of Convention. The Bureau advises prospective foreign job seekers to verify information through its official website or hotline.
-
-🟩
-
-Officials of the Special Investigation Unit of the Foreign Employment Bureau have arrested a woman named Nilmini, who allegedly defrauded Israel.
-
-The suspect has been arrested yesterday (12) on the basis of a complaint lodged by a person that a woman from Kadirgamam, Gothamigama area has received Rs 1,689,000 and has not given a job as promised.
-
-He has been arrested on charges of violating the Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Bureau of Convention.
-
-Also, the Bureau also requests foreign job seekers to get information by inviting the Bureau's website www.slbfe.lk or the hotline number 1989. Remble
-
-◼️
-
-[Data](articles/25614241.json)
-
-[Extended Data](ext_articles/25614241.ext.json)
-
----
-
-### Shooting incident ‘targeting’ former MP Uddika was self-orchestrated: Police
-
-*2024-06-13 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99864/shooting-incident-targeting-former-mp-uddika-was-self-orchestrated-police) · `en`
-
-Sri Lanka Police says it has been uncovered that the incident where several gunshots had been fired at the vehicle belonging to former Anuradhapura District parliamentarian Uddika Premaratne, had been orchestrated by the actor-turned-politician himself with the assistance of an Assistant Superintendent of Police (ASP) in the area.
-
-Speaking during a press conference held in Colombo today (13), the Police Media Spokesman DIG Nihal Thalduwa said that the suspects connected to the incident have been identified so far following investigations carried out by the CID.
-
-On September 17, 2023, a group of unidentified gunmen had opened fire at Premaratne’s car soon after he returned to his residence in Anuradhapura at around 10:35 p.m. The parliamentarian had managed to escape unharmed.
-
-...
-
-[Data](articles/083bc1c9.json)
-
-[Extended Data](ext_articles/083bc1c9.ext.json)
-
----
-
-### Infancy found
-
-*2024-06-13 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197727) · `si`
-
-A baby's body was discovered near a well in Nuwara Eliya. The police believe the infant wasn't there long before being found. Authorities have initiated efforts to identify the parents through hospitals and are conducting a post-mortem examination at the Nuwara Eliya District General Hospital.
-
-🟩
-
-Infant, a bodic of a baby was found near a Ven.
-
-The Nuwara Eliya Police said that it was a baby and the bodies were not a few days.
-
-Nuwara Eliya Police has launched a child's parents to educate the body of the hospital and the parents of the hospital.
-
-The infancy Magistrate was taken to the Nuwara Eliya District General Hospital and the post mortem had been taken to the Nuwara Eliya District General Hospital.
-
-◼️
-
-[Data](articles/cdf3c87e.json)
-
-[Extended Data](ext_articles/cdf3c87e.ext.json)
-
----
-
-### New laws from July for those who go to Australia
-
-*2024-06-13 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197726) · `si`
-
-From July, Australia is tightening visa rules, focusing on reducing student visas granted to tourists and extending stay times for lucrative courses. The government aims to increase immigration to 50% by 2025, emphasizing job suitability and English proficiency for permanent residency. This move comes amid global concerns over migration and follows a 30% rise in temporary undergraduate visa applications.
-
-🟩
-
-The Australian government has decided to raise visa rules from the first month of July.
-
-Accordingly, he returned to Australia on tourist visas and stayed in the event of a student visa.
-
-Thousands of war clashes and poverty are demanding protection of rich countries from the country and demands the protection of the rich in the rich countries.
-
-However, the world's developed countries are now in the world's developed countries to enter thousands of migrants annually and unauthorized country.
-
-In this backdrop, it was a variety of governments to limit the people who enter the developed countries for higher education.
-
-The Australian government also declared a plan to raise its visa rules last year, installed a target of 50 percent immigrants to reach the country by 2025.
-
-There they had their highest focused on student visa cuts.
-
-Accordingly, the government has taken steps to suspend the opportunity to obtain student visas on the tourist visas.
-
-...
-
-[Data](articles/648fe9a2.json)
-
-[Extended Data](ext_articles/648fe9a2.ext.json)
-
----
-
-### Sri Lanka opposition leader proposes Grama Rajya system in addition to 13A
-
-*2024-06-13 19:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-proposes-grama-rajya-system-in-addition-to-13a-167912/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa has proposed devolving power to the village level through a Grama Rajya system in addition to implementing the 13th amendment to the constitution.
-
-Speaking at an event in Jaffna on on Wednesday June 12, Premadasa said all provinces will benefit from the 13th amendment.
-
-“Whatever one’s ethnicity, religion, status or region, this country has citizens of equal level. They’re all Sri Lankan citizens.
-
-“There is no division or grouping.  As we give you and every other province what you should be given through the 13th amendment, we must implement a Grama Rajya system,” Premadasa said, addressing a crowd of school children and other attendees.
-
-Premadasa’s assurance of implementing the 13th amendment has already drawn some protest in the south.
-
-A collective of civil society organisations held a protest outside the office of the leader of the opposition in Colombo on Thursday June 12.
-
-...
-
-[Data](articles/a958e8c2.json)
-
-[Extended Data](ext_articles/a958e8c2.ext.json)
-
----
-
-### Two -wheelers collided head -on: three -wheelers severe damage;One injury
-
-*2024-06-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186028) · `ta`
-
-In Hatton, two three-wheelers crashed head-on, causing severe damage to both and injuring one passenger. The accident occurred on the Hatton-Notton main road near Vanaraja, involving vehicles coming from Tikoya and Saudwanarajah towards Casalri and Attan respectively.
-
-🟩
-
-Hatton police said that two three -wheelers were severely injured when two three -wheelers collided head -on in the Vanaraja area of ​​Hatton - Notton main road.
-
-A three -wheeler traveling from Tikoya to Casalri area at around 3.30 pm on Thursday 13th and a three -wheeler from Saudwanarajah to Attan.
-
-Police said the two -wheelers were severely damaged.
-
-◼️
-
-[Data](articles/baac75ae.json)
-
-[Extended Data](ext_articles/baac75ae.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 22:19:19**
+As of **2024-06-14 22:34:38**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,912
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,430 (100.0%) of 30,433 articles have been extended.
+30,433 (100.0%) of 30,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### මන්ත්‍රීවරු පන්ති යවන්න ජනපති සුදානමින්
+### President prepare to send classes
 
 *2024-06-14 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197770) · `si`
 
-21 වැනි සියවසේ ආර්ථිකය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පන්ති පැවැත්විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of education in preparing for the 21st-century economy, highlighting the launch of the Public Learn Education Platform. He calls for MPs to understand this economic shift, suggesting educational classes could benefit them as well. The initiative aims to leverage digital technologies to enhance learning, focusing on a digital economy and intellectual development.
 
-ශ්‍රී ලාංකීය තරුණ ප්‍රජාව සඳහා වන "Public Learn Education Platform" හෙවත් පොදු ඉගෙනුම් අධ්‍යාපන වේදිකාව ඊයේ (13) ජනාධිපති ලේකම් කාර්යාලයේදී නිල වශයෙන් එළිදැක්විය.
+🟩
 
-ලොව ප්‍රමඛ පෙළේ විශ්වවිද්‍යාලවලින් නොමිලේ පාඨමාලා හැදෑරීම සඳහා පරිශීලකයින් යොමු කරවන මෙම අධ්‍යාපන වේදිකාවට අරමුදල් සපයා ඇත්තේ එක්සත් රාජධානියේ ශ්‍රී ලාංකික ඩයස්පෝරාව විසිනි‍.
+President Ranil Wickremesinghe says that the MPs should be held regarding the 21st century economy.
+
+The Public Learn Education Platform, or General Learning, was officially launched at the Presidential Secretariat yesterday (13).
+
+The Sri Lankan Diaspora is funded by the Sri Lankan Diaspora in the UK.
 
 ...
 
 [Data](articles/b1f00476.json)
+
+[Extended Data](ext_articles/b1f00476.ext.json)
 
 ---
 
@@ -90,6 +96,8 @@ The apprehended trawler has been subsequently escorted to the Galle harbor, acco
 
 [Data](articles/2db388a0.json)
 
+[Extended Data](ext_articles/2db388a0.ext.json)
+
 ---
 
 ### “I might have to play cricket myself if this continues” - Sports Minister
@@ -107,6 +115,8 @@ In response to a question raised by a journalist regarding future steps for the 
 ...
 
 [Data](articles/9942f993.json)
+
+[Extended Data](ext_articles/9942f993.ext.json)
 
 ---
 

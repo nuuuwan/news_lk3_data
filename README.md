@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 01:53:15**
+As of **2024-06-15 02:04:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,449 (100.0%) of 30,453 articles have been extended.
+30,453 (100.0%) of 30,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -226,6 +226,8 @@ It is important to note that supporting these initiatives is the duty of Governm
 
 [Data](articles/d435808b.json)
 
+[Extended Data](ext_articles/d435808b.ext.json)
+
 ---
 
 ### Discussion on “Sri Lanka’s economic security in 2024 – evaluating outlook and risks”
@@ -242,6 +244,8 @@ INSS, the premier think tank on national security established and functioning un
 
 [Data](articles/fb042dc7.json)
 
+[Extended Data](ext_articles/fb042dc7.ext.json)
+
 ---
 
 ### President meets SAARC Secretary General
@@ -253,6 +257,8 @@ President Ranil Wickremesinghe this week met with SAARC Secretary General Golam 
 ◼️
 
 [Data](articles/69a3f5ea.json)
+
+[Extended Data](ext_articles/69a3f5ea.ext.json)
 
 ---
 
@@ -269,6 +275,8 @@ High-level officials from the Ministry of Agriculture and Plantation Industries,
 ...
 
 [Data](articles/b8159de1.json)
+
+[Extended Data](ext_articles/b8159de1.ext.json)
 
 ---
 

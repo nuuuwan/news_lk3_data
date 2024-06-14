@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 17:04:20**
+As of **2024-06-14 17:19:11**
 
 ## Newspaper Stats
 
-*Scraped **30,402** Articles*
+*Scraped **30,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,115 @@ islandlk | 1,647
 economynextcom | 1,763
 dailyftlk | 1,846
 adalk | 2,619
-adaderanalk | 3,443
+adaderanalk | 3,445
 tamilmirrorlk | 3,556
 virakesarilk | 4,675
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,900
+adaderanasinhalalk | 4,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,398 (100.0%) of 30,402 articles have been extended.
+30,402 (100.0%) of 30,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### යතුරු පැදියක් දුම්රියේ ගැටී යතුරුපැදිකාරිය මරුට
+### AG’s Dept. will not represent ex-Health Minister and NMRA officials, court told
+
+*2024-06-14 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99882/ags-dept-will-not-represent-ex-health-minister-and-nmra-officials-court-told-) · `en`
+
+The Attorney General’s Department today informed the Supreme Court that it will not appear on behalf of former Health Minister Kehiliya Rambukwella and arrested NMRA officials over the case of purchasing medicines from two allegedly unregistered companies.
+
+◼️
+
+[Data](articles/b8b68c06.json)
+
+---
+
+### Sri Lanka’s economy to expand by 2.2% in 2024 – World Bank
+
+*2024-06-14 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99881/sri-lankas-economy-to-expand-by-22-in-2024-world-bank) · `en`
+
+Sri Lanka’s economy is expected to expand by 2.2 percent in 2024, according to the World Bank’s latest Global Economic Prospects report issued on Friday (14).
+
+The report indicates that this is a 0.5-percentage-point upward revision from January—supported by modest recoveries in remittances and tourism.
+
+Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen further, reaching 3% in 2026, assuming successful debt restructuring negotiations and the implementation of structural reforms, which would offset the adverse impact of planned fiscal consolidation on growth.
+
+...
+
+[Data](articles/7c567899.json)
+
+---
+
+### Motorcyclist killed and killed a motorbike train
 
 *2024-06-14 16:52:06* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදියක්-දුම්රියේ-ගැටී-යතුරුපැදිකාරිය-මරුට/11-410214) · `si`
 
-මීටියාගොඩ පොලිස්ය වසමේ වැරැල්ලාන දුම්රිය හරස් මාර්ගයේදී කාන්තාවක් පැදවූ යතුරු පැදියක් ගාල්ල සිට රඹුක්කන දක්වා ධාවනය වූ දුම්රියේ ගැටි  අනතුරක් සිදුව ඇතැයි පොලිසිය කියයි.
+A motorcyclist died after colliding with a train near Meetiyagoda while traveling from Galle to Rambukkana. The incident resulted in serious injuries to another person hospitalized. The victim, from Hikkaduwa, was identified post-accident.
 
-මෙම අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදි කාරිය රෝහල් ගත කිරිමේදී ජීවිතක්ෂයට පත්ව ඇතැයි පොලිසිය කියයි. අනතුරින් මියගොස් ඇත්තේ හික්කඩුව ප්‍ර දේශයේ  පදිංචිකාරියකි.
+🟩
 
-ඇයගේ නොසැලකිලිමත් යතුරු පැදි ධාවනය මෙම අනතුරට හේතුව වි තිබේ.
+Police say a motorcycle rose to a train traveling from Galle to Rambukkana on a fault in Meetiyagoda Police said that a motorcycle drown from Galle to Rambukkana.
+
+The police said that hospitalization was seriously injured in hospital injured in the accident. The deceased has been identified as a resident of Hikkaduwa.
+
+Her clumps have been the cause of this accident.
 
 ◼️
 
 [Data](articles/cfb6adaa.json)
 
+[Extended Data](ext_articles/cfb6adaa.ext.json)
+
 ---
 
-### දේවාලවල ආදායම අඩු වුණැයි කි ප්‍රකාශයට විරෝධයක්
+### මේ වසරේ පළමු කාර්තුවේ දී මෙරට ආර්ථිකයේ වර්ධනයක්
+
+*2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197759) · `si`
+
+2024 වර්ෂයේ පළමු කාර්තුවේ දී මෙරට දළ දේශීය නිෂ්පාදිතයේ වර්ධනය 5.3%ක් ලෙස දැක්වේ.
+
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව 2023 වසරේ පළමු කාර්තුවේ ස්ථාවර මිල ගණන් යටතේ රුපියල් මිලියන 3,161,963ක් ලෙස වාර්තා වූ දළ දේශීය නිෂ්පාදිතය 2024 වසරේ පළමු කාර්තුවේ දී රුපියල් මිලියන 3,329,583ක් ලෙස වාර්තා වී තිබේ.
+
+2024 වසරේ පළමු කාර්තුවේ කෘෂිකාර්මික, කාර්මික හා සේවා ආර්ථික කටයුතු පිළිවෙලින් 1.1%, 11.8%ක් හා 2.6ක් ලෙස ධන වර්ධනයක් වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/8fe83a48.json)
+
+---
+
+### Prosortificance of announcing the decline of the devalaya
 
 *2024-06-14 16:39:47* · [`adalk`](https://www.ada.lk/breaking_news/දේවාලවල-ආදායම-අඩු-වුණැයි-කි-ප්‍රකාශයට-විරෝධයක්/11-410212) · `si`
 
-සමාජ මාධ්‍යයේ පලවන විවිධ ප්‍රකාශ හේතුවෙන් දේවාල වල ආදායම සියයට පනහකින් අඩුවී ඇති බවට බස්නායක නිලමේවරුන්ගේ සංගමයේ සභාපතිවරයා සිදුකොට ඇති ප්‍රකාශයට බස්නායකවරුන්ගේ සංගමයේ හිටපු සභාපති සහ සබරගමුව බුල්තුමේ මහා සමන් දේවාලයේ වත්මන් බස්නායක නිලමේ ගැමුණු වලිසුන්දර මහතා දැඩි විරෝධයක් දක්වමින් එම සංගමයට ලිපියක් යොමු කොට තිබේ .
+The Basnayake Nilame of the Sabaragamuwa Bullemme Maha Saman Devalaya received a letter criticizing his actions, suggesting he failed in his duties to support the temple and its devotees. The letter also mentioned a statement from the Basnayake Nilames Association, which was later clarified as unofficial and misunderstood. The secretary noted concerns about declining devotion, possibly linked to these issues.
 
-එම ලිපිය මගින් බස්නායක නිලමේවරුන්ගේ සංගමයේ හිටපු සභාපතිවරයා පෙන්වා දී ඇත්තේ එම ප්‍රකාශය මගින් මෙරට දේවාල 31 ක බස්නායක නිලමේ වරුන්ද හිටපු බස්නායක නිලමේ වරුන් සහ වත්මන් දියවඩන නිලමේ ඇතුළු හිටපු දියවඩන නිලමේවරුන් දැඩි අපහාසයක් නින්දාවක් සහ හානියක් සිදුව ඇති බවයි .
+🟩
 
-දේවාලයක බස්නායක නිලමේ ධූරයක් දරන්නාට ඇති ප්‍රධාන කාර්යයන් වන්නේ දේවාලයේ හතර මහා මංගල්‍යයන් සිදු කිරීමත් එහි පරිපාලන කටයුතු සිදු කිරීම බවත් දේවාලයක් යනු මුදල් අය කරන ස්ථානයක් නොවන බවත් එය බැතිමතුන්ගේ හිත සුව පිණිස ඇති පුණ්‍ය භූමියක් බවත් එම ලිපිය මගින් පෙන්වා දෙයි .
+The president of the Basnayake Nilame, the former Basnayake Nilame of the Basnayake Nilame and Sabaragamuwa Bulleme Maha Saman Devalaya has been sent to a letter from the Basnayake Nilame.
 
-...
+The letter has pointed out that the statement of the Basnayake Nilames Association of the Basnayake Nilame of the Basnayake Nilame.
+
+The article points out that the main functions of a Basnayake Nilame of a temple was a charity of the temple and was a charity that would be a place of money and the heart of devotees.
+
+The letter stated that he has never been chaired by the Basnayake Nilames as a Test Industry.
+
+Upon inquiry from the Basnayakayan Nilami Association, he said that it was not an official statement of the association and that there was a misinterption in the expression.
+
+The Secretary of the Basnayake Nilames Association, said that the publications in the Social Medium said that it was a trend to reduce devotees.
+
+◼️
 
 [Data](articles/0dfe7f7b.json)
+
+[Extended Data](ext_articles/0dfe7f7b.ext.json)
 
 ---
 
@@ -84,21 +148,29 @@ Colombo Chief Magistrate Thilina Gamage, has ordered that the vehicles be handed
 
 ---
 
-### விதார்த் நடிக்கும் 'லாந்தர்' படத்தின் இசை வெளியீடு
+### The music release of 'Lander' starring Vidarth
 
 *2024-06-14 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186077) · `ta`
 
-சிறு பட்ஜெட் பட தயாரிப்பாளர்களின் ஆதர்ஷ நாயகனும், அறிமுக இயக்குநர்களின் முதன்மையான விருப்பத்திற்குரிய நடிகருமான விதார்த் கதையின் நாயகனாக காக்கி உடை அணிந்து காவல் அதிகாரியாக நடித்திருக்கும் 'லாந்தர்' எனும் திரைப்படத்தின் இசை வெளியிடப்பட்டிருக்கிறது.‌
+"Lander," a small-budget film directed by Shaji Salim, stars Vidarth as a police officer. The music, composed by S. Praveen, was launched by Pest Murugan, VP of the Actors Association, and features performances from Swetha Torathi, Vipin, Sahana, Pasupathi Raj, and Kajaraj. Produced by Badrinath and Sri Vishnu under M Cinema Productions, it promises a brisk screenplay and four songs, set to entertain audiences upon its release on the 21st of this month.
 
-இதனை நடிகர் சங்கத்தின் துணைத் தலைவரான பூச்சி முருகன் வெளியிட, பட குழுவினரும், இசை வெளியீட்டு விழாவிற்கு வருகை தந்திருந்த சிறப்பு அதிதிகளும் இணைந்து பெற்றுக் கொண்டனர்.‌
+🟩
 
-இயக்குநர் ஷாஜி சலீம் இயக்கத்தில் உருவாகி இருக்கும் 'லாந்தர்- இரவின் அடையாளம்' எனும் திரைப்படத்தில் விதார்த், ஸ்வேதா டோரத்தி, விபின், சஹானா, பசுபதி ராஜ், கஜராஜ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The music of 'Lander', which plays the role of a police officer, is the hero of the story of Vidarth, a small budget filmmaker's hero and the primary actor of the debut directors.
 
-ஞான சௌந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எம். எஸ். பிரவீண் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை எம் சினிமா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் பத்ரிநாத் மற்றும் ஸ்ரீ விஷ்ணு ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The film crew and special guests attended the music launch were released by the Vice President of the Actors Association, Pest Murugan.
+
+Directed by director Shaji Salim, Vidarth, Swetha Torathi, Vipin, Sahana, Pasupathi Raj, Kajaraj, starring director Shaji Salim.
+
+The film has been recorded by Gnana Sounder. S.. Praveen has composed music. The film is being produced as Exan Entertainer and produced by producers Badrinath and Sri Vishnu on behalf of M Cinema Productions.
+
+The film, which will be released on the 21st of this month, will be released in the world.. Many leading celebrities of the Tamil film industry congratulated the film crew on the participation of the film.
 
 ...
 
 [Data](articles/24be8f95.json)
+
+[Extended Data](ext_articles/24be8f95.ext.json)
 
 ---
 
@@ -1078,25 +1150,37 @@ He was speaking at the Tesla's headquarters at the time of the Annual Summit's A
 
 ---
 
-### ගුණතිලක රාජපක්ෂට එරෙහිව නිතිය හමුවට යන බව මහින්දානන්ද කියයි
+### Mahindananda says that Gunatilleke goes to law against Rajapakse
 
 *2024-06-14 11:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගුණතිලක-රාජපක්ෂට-එරෙහිව-නිතිය-හමුවට-යන-බව-මහින්දානන්ද-කියයි/11-410211) · `si`
 
-තමන්ට පහර දි තුවාල සිදු කල බවට මාධ්‍ය හරහා අසත්‍ය චෝදනා කිරිම සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතාට එරෙහිව නිතිමය පියවර ගන්නා බව මහනුවර දිස්ත්‍රික් පා.ම මහින්දානන්ද අලුත්ගමගේ මහතා පැවසිය.
+MP Gunathanda Aluthgamage plans to sue media outlets over reports that he was injured in an assault by Gunatilleke Rajapaksa, denying the allegations and advising his lawyer to take legal action. He insists no one has testified that he was attacked by Rajapaksa, and he will proceed with legal action regardless.
 
-මහින්දානන්ද අලුත්ගමගේ මහතා ඒ බැව් කියා සිටියේ (14) දින නාවලපිටිය ප්‍රදේශයේ විශේෂ මාධ්‍ය හමුවක් පවත්වමිණි.
+🟩
 
-“පා.ම ගුණතිලක රාජපක්ෂ මන්ත්‍රිවරයා විසින් පසුගියදා ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ රැස්විමේදි මා ඔහු පහර දුන් බවට පහර දිමෙන් ඔහුගේ පාදයට බරපතල තුවාල සිදු වු බවට ඔහුගේ පුත් නිලුපුල් රාජපක්ෂ සහ ගුණතිලක රාජපක්ෂ අවස්තා හතරකදි මාධ්‍යය හරහා මට චෝදනා කර තිබුණා.
+Kandy District Parliamentarian Parliamentarian MP Gunathanda Aluthgamage said that legal action will be taken against the media that he was injured.
 
-මම එම චෝදනාව තරයේ ප්‍රතික්ෂේප කරනවා , මම මගේ නිතිඥයවරයාට උපදෙස් දුන්නා එම දෙදෙනාට එරෙහිව නීතිමය පියවර ගන්න කියලා.
+Mr. Mahindananda Aluthgamage was told by a special media briefing in Nawalapitiya, the 14th.
 
-ගුණතිලක රාජපක්ෂ මහතා එදින රාජ්‍ය නිලධාරින් ඉදිරියේදි පරුෂ වචනයෙන් බැන වැදුණා , මම ඔහුට උපදෙස් දුන්නා රාජ්‍ය නිලධාරින් ඉදිරියේ එහෙම හැසිරෙන්න එපා කියලා.
+"After Gunatilleke Rajapaksa recently assaulted him, he had been sentenced to the media that he was seriously injured in the attack on his base.
 
-එතනදි බහින් බස් විමක් තමයි ඇති වුණේ පසුව ඔහු විසින් පොලිසියට භාර දිලා තියෙනවා ඇසින් දුටු සාක්ෂිකරුවන් සිව්දෙනෙක් මම ඔහුට පහර දුන්නා කියලා.
+I strongly deny that allegation, I advised my lawyer to take legal action against them.
 
-...
+Mr. Gunatilleke Rajapaksa was in front of state officials in front of state officials, and I advised him not to act before government officials.
+
+He was subjected to an argument.
+
+The Jagath, Kalutara Districts, Polonnaruwa Districts, has been recorded by these people by the police.
+
+None of these people testify to the police that I was attacked by Mr. Gunatilake Rajapaksa, then the police had been investigated by the police.
+
+I am doing a need for someone else's need, I'm sorry, I will take legal action. "
+
+◼️
 
 [Data](articles/dd582f36.json)
+
+[Extended Data](ext_articles/dd582f36.ext.json)
 
 ---
 
@@ -2163,67 +2247,5 @@ Nelliyadi police, who are conducting serious investigations to the suspect, are 
 [Data](articles/0caaf6ee.json)
 
 [Extended Data](ext_articles/0caaf6ee.ext.json)
-
----
-
-### Saudi Arabia's efforts to serve pilgrims who see the sacred house of the Lord
-
-*2024-06-14 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186036) · `ta`
-
-Saudi Arabia, under the leadership of Kings Abdul Aziz and Salman, prioritizes serving pilgrims at the holy sites. Efforts include expanding facilities, upgrading infrastructure, and implementing "Vision 2030" to enhance Hajj and Umrah experiences with modern technology and digital services. Safety is paramount, with top-notch security and health services, including 24/7 emergency preparedness and transportation. The kingdom also focuses on food safety and introduces digital initiatives like e-visa and booking systems.
-
-🟩
-
-The Kingdom of Saudi Arabia, its founder, King Abdul Aziz bin Abdul Rahman All Saud, from the time of the two holy shrines, King Salman bin Abdul Aziz All Saud, to the time of the two holy places and other sacred places to expand to the pilgrims and other places.Continues to work with great care to upgrade and provide modern services. Serving pilgrims is one of the main priorities of the leadership of the Saudi Arabian Kingdom. All the kings of Saudi Arabia are considering this as their best.
-
-The Saudi Arabian Kingdom, under the guidance of its leadership, is carrying out the expansion plan of two holy places to meet the needs of the increasing Hajj and Umrah pilgrims.. Under this program, it is aimed at increasing the area of ​​sacred places, upgrading infrastructure and providing modern facilities and advanced transport systems.. This ease the movement of pilgrims and ensures their amenities.
-
-...
-
-[Data](articles/2e96da4a.json)
-
-[Extended Data](ext_articles/2e96da4a.ext.json)
-
----
-
-### International Yoga Festival
-
-*2024-06-14 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186035) · `ta`
-
-The International Yoga Festival, organized by the Swami Vivekananda Cultural Center and others, saw around 250 students participate on its theme of "Women" at the National Museum of Colombo. Students from various schools attended, including Amman Charity School, Ko/Saivamangayar Vidyalaya, and K.Ramanathan Hindu Ladies College.
-
-🟩
-
-The International Yoga Festival organized by the Swami Vivekananda Cultural Center, Indian High Commission, Mayurapathi Sree Patrakali Amman Charity School was held on Thursday (14) with the participation of about 250 students on the theme of the Women at the National Museum of Colombo on Thursday (14).Students of Amman Charity School, Ko/ Saivamangayar Vidyalaya and K.Ramanathan Hindu Ladies College were present.
-
-◼️
-
-[Data](articles/d21ea2cc.json)
-
-[Extended Data](ext_articles/d21ea2cc.ext.json)
-
----
-
-### Violence Group Attakasam in Vaddukoddai - jewelry and money theft
-
-*2024-06-14 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186034) · `ta`
-
-In Vaddukoddai, a violent group attacked a house, stealing jewelry and money worth over two lakh rupees. They damaged property including a fridge, windows, and electronics before fleeing. The incident was captured on CCTV, leading to the arrest of one suspect. Police continue investigating and aim to apprehend more individuals involved.
-
-🟩
-
-A violent group of violence in the Vaddukoddai area, which belongs to the Vaddukoddai police division, was reportedly involved in the afternoon and stole jewelery and money from the house.
-
-Violent group of people who went to the house this afternoon had been hit by a sewing machine refrigerator, window mirrors, home door, loudspeakers, television, and stole two lakhs eleven thousand rupees, three pounds and two pounds in the house.Is said to have gone.
-
-While the police were visiting the CCTV footage at the Vaddukoddai police station, he was arrested by the police when the attack came to apologize.
-
-The police, who are conducting investigations, are taking steps to arrest others.
-
-◼️
-
-[Data](articles/136f7c31.json)
-
-[Extended Data](ext_articles/136f7c31.ext.json)
 
 ---

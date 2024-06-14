@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 00:34:39**
+As of **2024-06-15 00:50:39**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,436 (100.0%) of 30,437 articles have been extended.
+30,437 (100.0%) of 30,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ’பொதுவேட்பாளராகக் களமிறங்கத் தயார்’
+### The telephone is ready to be the general candidate
 
 *2024-06-15 00:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுவேட்பாளராகக்-களமிறங்கத்-தயார்/175-338927) · `ta`
 
-தமிழ்ப் பொதுவேட்பாளராக களமிறங்கத் தயாராக உள்ளேன் என்று  ஈழத் தமிழர் சுயாட்சிக் கழகத்தின் செயலாளர் நாயகம் அனந்தி சசிதரன் தெரிவித்தார்.
+Anandi Sasitharan, Secretary General of the Eelam Tamil Autonomy Association, announced his readiness to serve as a Tamil general candidate. He emphasized his commitment to representing the Eelam Tamils, highlighting his experience in international justice efforts post-2009. Sasitharan expressed his willingness to adapt to the necessary policies and support a stronger candidate if one emerges.
 
-வடமராட்சி ஊடக இல்லத்தில் நேற்று நடாத்திய ஊடக சந்திப்பின் போதே அவர் இதனைத் தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-2009 ஆம் ஆண்டுக்குப் பின்னர் இன அழிப்புப் போரில் பாதிக்கப்பட்ட மக்களின் நேரடிக் குரலாக சர்வதேச நீதி கோரிய பயணத்தில் காத்திரமாகப் பங்கேற்ற தன்மைகளோடு பயணித்து அனுபவமுள்ளவளாகிய நான் அந்தக் களத்தில் பயிற்சி பெற்றுள்ள அனுபவத்தோடு துணிந்து தமிழ்ப் பொது களமிறங்கத் தயாராக உள்ளேன் என்பதை இது குறித்த அக்கறையுள்ள அனைவரின் கவனத்துக்கும் இத்தருணத்தில் கொண்டுவருவது எனது கடமையாகிறது.
+Anandi Sasitharan, Secretary General of the Eelam Tamil Autonomy Association, said that he is ready to field as a Tamil general candidate.
 
-அதுவும், எந்தக் கட்சியினதும் அல்லது கூட்டினதும் பிரதிநிதியாக அன்றி, ஈழத்தமிழருக்கான பொதுப் பிரதிநிதியாக என்னை மாற்றிக்கொள்ளவும், இதற்கான பொருத்தமான கொள்கை வகுப்பு மேற்கொள்ளப்படும்போது அதற்குக் கட்டுப்பட்டு இயங்கவும் தயாரக உள்ளேன் என்பதையும் பரந்துபட்ட சமூகத்துக்குத் தெரிவிப்பதும் எனது கடமையாகிறது.
+He made this statement during a media briefing held at Vadamarachchi Media Home yesterday.As he further stated,
 
-...
+It is my duty to bring to the attention of all who are concerned that I am ready to have a Tamil public field with the experience of training in the field with the experiences of participating in the journey of the International Justice, as the direct voice of the people affected by the ethnic cleansing war after 2009.
+
+It is my duty to inform the vast community that I am ready to transform me into a general representative of the Eelam Tamils ​​and that I am ready to be obliged to comply with the appropriate policy class.
+
+Moreover, I would like to point out that I am ready to support such a candidate if anyone who is more powerful than me has been able to establish it.. (A)
+
+◼️
 
 [Data](articles/832bde24.json)
+
+[Extended Data](ext_articles/832bde24.ext.json)
 
 ---
 

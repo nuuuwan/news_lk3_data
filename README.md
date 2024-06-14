@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 23:54:25**
+As of **2024-06-15 00:06:57**
 
 ## Newspaper Stats
 
-*Scraped **30,435** Articles*
+*Scraped **30,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,647
-economynextcom | 1,768
+economynextcom | 1,769
 dailyftlk | 1,846
 adalk | 2,621
 adaderanalk | 3,449
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,435 (100.0%) of 30,435 articles have been extended.
+30,435 (100.0%) of 30,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,22 @@ The suspension in G7 member countries and the suspension of Russian assets in th
 [Data](articles/8ccacc5c.json)
 
 [Extended Data](ext_articles/8ccacc5c.ext.json)
+
+---
+
+### Sri Lanka’s NPP notes five-point crisis for economic growth sans details
+
+*2024-06-14 20:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-notes-five-point-crisis-for-economic-growth-sans-details-168049/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) has identified five crises that need resolving for Sri Lanka’s economy to progress, much of which emphasise a production economy targeting export growth though sparse on the detail on resource allocation.
+
+NPP spokesman and former parliamentarian Sunil Handunneththi speaking at an event in Mulaitivu on Thursday June 13 said Sri Lanka is grappling with firstly, a collapse of the production economy, second, a budget deficit, third, a balance of payment crisis which has, fourthly, created a debt crisis, and finally, a resultant gap between haves and have-nots.
+
+“We must first understand the crisis. We reocgnise five main crises that have the same impact irrespective of differences between the north and south.
+
+...
+
+[Data](articles/0ebd36a7.json)
 
 ---
 
@@ -2341,31 +2357,5 @@ Watch the Livelihood of the press conference chaired by Senior Head of the Inter
 [Data](articles/027c4d98.json)
 
 [Extended Data](ext_articles/027c4d98.ext.json)
-
----
-
-### Udilika Premaratne: Is the shooting event a task?What if I'm a lie?
-
-*2024-06-14 07:49:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0088lej40o) · `si`
-
-Former MP Udi Premaratne was shot at his home in Anuradhapura, Sri Lanka, on September 17, 2023. The police suspect the attack was pre-planned with an Assistant Superintendent of Police (ASP) involved, who had traveled to Malaysia without proper permission. Investigations are ongoing. Premaratne claimed in Parliament on September 19, 2023, that he was targeted by the country's security forces, criticizing the social and political systems in Sri Lanka. If proven false, legal actions could be taken against him.
-
-🟩
-
-Udilika Premaratne: Is the shooting event a task?What if I'm a lie?
-
-The police revealed that the shooting of former MP Udi Premaratne of Anuradhapura District MP Udi Premaratne in the Sri Lanka General Peradeon was proved to be planned by him.
-
-The Police Media Spokesperson DIG Namal Thalmeduwa stated that it was planned with an Assistant Superintendent of Police.
-
-The Assistant Superintendent of Assistant was reportedly reported that the Assistant Superintendent of Police had gone to Malaysia on June 11.
-
-"Assistant Superintendent of Sanjeewa Mahanama has gone abroad and on Monday. He has been informed of the police to the police and not properly permission. We are conducting an investigation in this regard. An investigation took place by the CID. The Member of Parliament was observed by the investigation as the two persons who knew this work as identified as the Assistant Superintendent of Police.. The man's abroad is taking place while investigations are underway.
-
-...
-
-[Data](articles/cd36b44d.json)
-
-[Extended Data](ext_articles/cd36b44d.ext.json)
 
 ---

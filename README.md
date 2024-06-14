@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 14:19:20**
+As of **2024-06-14 14:34:42**
 
 ## Newspaper Stats
 
-*Scraped **30,374** Articles*
+*Scraped **30,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,79 @@ adaderanalk | 3,439
 tamilmirrorlk | 3,555
 virakesarilk | 4,662
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,893
+adaderanasinhalalk | 4,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,372 (100.0%) of 30,374 articles have been extended.
+30,374 (100.0%) of 30,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### වාහන ගෙන්වන සැලසුම IMF වෙත ඉදිරිපත් කරයි
+### පුටින් ට අනතුරු ඇඟවීම්
+
+*2024-06-14 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197749) · `si`
+
+රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් නුදුරේදීම උතුරු කොරියාවේ සංචාරය කිරීමට නියමිත බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+මේ අතර අමෙරිකාව සහ දකුණු කොරියාව පවසන්නේ එමගින් උතුරු කොරියාව සහ රුසියාව අතර යුද සබඳතා තවත් වර්ධනය විය හැකි බවත් එය එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයේ යෝජනාවලට එරෙහි ක්‍රියාවක් බවත් ය.
+
+රුසියානු ජනපතිවරයාගේ සංචාරය හේතුවෙන් උතුරු කොරියාව සහ රුසියාව අතර යුද සම්බන්ධතා ප්‍රවර්ධනය නොවිය යුතු බවට අමෙරිකානු සහ දකුණු කොරියානු පාර්ශ්ව අනතුරු අඟවා තිබේ.
+
+◼️
+
+[Data](articles/31dbe053.json)
+
+---
+
+### The Plan of Vehicle Submits to the IMF
 
 *2024-06-14 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197748) · `si`
 
-මෙරට වාහන ආනයන සීමා ලිහිල් කිරීම සම්බන්ධයෙන් වන සැලසුමක් (Road Map) ශ්‍රී ලංකා බලධාරීන් විසින් ජාත්‍යන්තර මූල්‍ය අරමුදල වෙත ඉදිරිපත් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Sri Lanka has proposed easing vehicle import restrictions to the IMF, aiming to submit plans by Q3 2024. This includes commercial transport and other vehicles, tied to foreign reserve management and economic reforms.
 
-ඒ අනුව වාහන ආනයන සීමා ලිහිල් කිරීම, වාහන ඛාණ්ඩ කිහිපයක් යටතේ මේ වසරේ තෙවන සහ සිව්වන කාර්තුවලදී සිදු කිරීමට යෝජිතය.
+🟩
 
-2024 වසරේ තුන්වන කාර්තුවේදී පොදු ප්‍රවාහන සේවා සඳහා වන වාහන ලිහිල් කිරීමටත්, මෙම වසරේ සිව්වන කාර්තුවේදී වාණිජ අවශ්‍යතා වන වාහන සහ සෙසු කාණ්ඩයන්ට අයත් වාහන ආනයන සීමා ලිහිල් කිරීම සම්බන්ධයෙන් වන රජයේ යෝජනා, ජාත්‍යන්තර මුල්‍ය අරමුදල වෙත එලෙස යොමුකර තිබේ.
+State Minister Shehan Semasinghe says that the Sri Lankan authorities have submitted to the International Monetary Fund on the erection of vehicle import boundaries.
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ වාහන ආනයනය සම්බන්ධයෙන් මූල්‍ය අරමුදල වෙත ඉදිරිපත් කර ඇති යෝජනා ක්‍රියාත්මක කිරීම, මෙරට විදේශ සංචිත වර්ධනය සහ ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම පදනම් කරගනිමින් යෝජනා කර ඇති බවය.
+Accordingly, vehicle import boundaries are proposed to be eased in several third and fourth quarter this year under several vehicles.
+
+In the third quarter of 2024, the government's proposals have been sent to the International Monetary Fund on the erection of vehicles belonging to commercial transport vehicles and other categories of vehicles this year.
+
+Finance Minister of State Shehan Semasinghe further stated that the implementation of the proposals presented to the IMF regarding the importation of vehicles has been proposed based on implementing foreign reserves and economic reforms.
 
 ◼️
 
 [Data](articles/62007733.json)
 
+[Extended Data](ext_articles/62007733.ext.json)
+
 ---
 
-### අල්ලස් කොමිසම භාරයට ගත් සැප වාහන 5ක් රේගුවට භාරදෙන්නැයි නියෝග
+### Submission of 5 products to the Bribery Commission to be handed over to the Customs
 
 *2024-06-14 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197747) · `si`
 
-නීතිවිරෝධී ලෙස වැරදි තොරතුරු මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවට ඉදිරිපත් කර මෙරටට ගෙන්වීමෙන් පසුව අල්ලස් කොමිසම භාරයට ගන ලැබූ සුඛෝපභෝගී වාහන පහක් ශ්‍රී ලංකා රේගුව වෙත භාරදෙන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+The Colombo Magistrate's Court ordered the handover of five luxury vehicles seized by the Bribery Commission to the Customs Department. This action followed investigations revealing a loss of Rs. 300 million at the Bribery Commission. The vehicles, implicated in import-related bribery, will now be under Sri Lanka Customs' control as per the court's directive.
 
-රුපියල් කෝටි 60ක පමණ වටිනාකමකින් යුත් මෙම වාහන නීතිවිරෝධී ලෙස මෙරටට ගෙන ඒම නිසා රජයට රුපියල් මිලියන 300ක පමණ බදු අහිමි වූ බවත් අල්ලස් කොමිසම සිදුකළ විමර්ශනවලදී හෙළි වී තිබිණි.
+🟩
 
-මෙම වාහන සම්බන්ධයෙන් සිදුකරන විමර්ශනයට අදාළව මීට පෙර අධිකරණය විසින් නිකුත් කරනු ලැබූ නියෝග මත ඒවා තම භාරයට ගැනීමට අල්ලස් කොමිසම විසින් කටයුතු කර තිබිණි.
+The Colombo Magistrate's Court set up five luxury vehicles taken into custody by the Bribery Commission following the importation of misconceptions to the Department of Motor Traffic.
 
-ඉන් අනතුරුව වැඩිදුර විමර්ශන සිදුකිරීමට අවශ්‍ය බවට අල්ලස් කොමිසම කළ දැනුම් දීම පිළිගත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අදාළ වාහන ශ්‍රී ලංකා රේගුවට භාරදෙන ලෙසත් නියෝග කළේය.
+Investigations were revealed at the Bribery Commission about Rs. 300 million and the Bribery Commission had lost Rs. 300 million.
+
+The Bribery Commission had acted in relation to the orders issued by the Court on the orders issued by the court.
+
+The vehicles of the Colombo Chief Magistrate Thilina Gamage was also ordered to be handed over to Sri Lanka Customs.
 
 ◼️
 
 [Data](articles/01a0082d.json)
+
+[Extended Data](ext_articles/01a0082d.ext.json)
 
 ---
 
@@ -2199,25 +2227,5 @@ This is the influence of the centers of the Sri Lankan banking and the number of
 [Data](articles/7c0c738d.json)
 
 [Extended Data](ext_articles/7c0c738d.ext.json)
-
----
-
-### To the Netherlands the toss of the coin
-
-*2024-06-13 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197728) · `si`
-
-In the T20 World Cup match today, Bangladesh faces the Netherlands. The Netherlands won the toss and chose to bowl first.
-
-🟩
-
-The match between the Bangladesh and the Netherlands in the T20 World Cup will be held today (13).
-
-The Netherlands scored the toss and win the bowling first.
-
-◼️
-
-[Data](articles/1e57178a.json)
-
-[Extended Data](ext_articles/1e57178a.ext.json)
 
 ---

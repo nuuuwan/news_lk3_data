@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-14 07:47:01**
+As of **2024-06-14 08:21:11**
 
 ## Newspaper Stats
 
-*Scraped **30,321** Articles*
+*Scraped **30,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,56 @@ newsfirstlk | 363
 islandlk | 1,647
 economynextcom | 1,753
 dailyftlk | 1,846
-adalk | 2,611
+adalk | 2,612
 adaderanalk | 3,431
-tamilmirrorlk | 3,543
+tamilmirrorlk | 3,546
 virakesarilk | 4,659
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,882
+adaderanasinhalalk | 4,883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,306 (100.0%) of 30,321 articles have been extended.
+30,324 (100.0%) of 30,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-14 (Friday)
 
-### කොහුවල මංසන්ධිය හරහා යන රියදුරන්ට දැනුම්දීමක්
+### IMF ශ්‍රී ලංකාව ගැන පැහැදිලි කරයි
+
+*2024-06-14 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197738) · `si`
+
+ශ්‍රී ලංකාව සඳහා වූ විස්තීර්ණ ණය පහසුකමේ දෙවැනි ඇගයීම සහ 'ආටිකල් iv' උපදේශනයට අදාළව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව පිළිබඳ නියෝජිත කණ්ඩායම පවත්වන විශේෂ ප්‍රවෘත්ති සාකච්ඡාව මේ වනවිට පැවැත්වෙයි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත කණ්ඩායමේ ජ්‍යෙෂ්ඨ ප්‍රධානී පීටර් බෘෘවර් මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වෙන එම ප්‍රවෘත්ති සාකච්ඡාවේ සජීවි දර්ශන ඉහතින් නරඹන්න.
+
+◼️
+
+[Data](articles/027c4d98.json)
+
+---
+
+### Notice to drivers going through Kohuwala Junction
 
 *2024-06-14 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197737) · `si`
 
-කොහුවල මංසන්ධියේ ඉදිවන ගුවන් පාලමේ ඉදිරි ඉදිකිරීම් කටයුතු හේතුවෙන් හෙට (15) දිනයේ සිට එම මාර්ගයේ වාහන ගමනාගමනය සීමා කිරීමට කටයුතු කරන බව පොලීසිය පවසයි.
+Due to Kohuwala flyover construction, heavy traffic expected tomorrow. Use alternate routes; heavy vehicles banned from Kohuwala bridge area.
 
-මාස 02ක කාලයක් අදාළ ඉදිකිරීමේ කටයුතු සිදුකිරීමට නියමිත බැවින් එම කාලසීමාව තුළදී මාර්ග තදබදය අවම කරගැනීම සඳහා විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය ජනතාවට දැනුම් දෙයි.
+🟩
 
-අදාළ මාර්ගයේ ගමන් ගන්නා බර වාහන කොහුවල පාලම දෙසට ඇතුල් කිරීම තාවකාලිකව නවතා දමා තිබේ.
+Police say that the construction of the flyover construction at Kohuwala is restricted tomorrow (15), police said.
+
+The police informed the public to use alternative routes to reduce the traffic congestion within two months.
+
+The heavy vehicles traveling along the road has been temporarily stopped towards Kohuwala bridge.
 
 ◼️
 
 [Data](articles/6db44485.json)
+
+[Extended Data](ext_articles/6db44485.ext.json)
 
 ---
 
@@ -66,6 +86,8 @@ Fernando and others express disbelief over former colleagues aligning with JVP w
 
 [Data](articles/229cc0e1.json)
 
+[Extended Data](ext_articles/229cc0e1.ext.json)
+
 ---
 
 ### President requests Governors to expedite delivery of benefits welfare programs to people
@@ -86,6 +108,8 @@ President Ranil Wickremesinghe also reminded divisional secretaries of their res
 
 [Data](articles/ff49352f.json)
 
+[Extended Data](ext_articles/ff49352f.ext.json)
+
 ---
 
 ### Splendour of global gems at Ratnapura Expo 2024
@@ -101,6 +125,8 @@ This event, organised by the National Gem and Jewellery Authority (NGJA), aims t
 ...
 
 [Data](articles/6d1b9c76.json)
+
+[Extended Data](ext_articles/6d1b9c76.ext.json)
 
 ---
 
@@ -120,6 +146,8 @@ Mireka Tower, towering at 50 stories, stands as a beacon of sustainable architec
 
 [Data](articles/4c3a4cdc.json)
 
+[Extended Data](ext_articles/4c3a4cdc.ext.json)
+
 ---
 
 ### Chinese delegation from Pudong visits BOI
@@ -131,6 +159,8 @@ A top level delegation from Pudong, China visited the Board of Investment (BOI) 
 ◼️
 
 [Data](articles/4b2ba154.json)
+
+[Extended Data](ext_articles/4b2ba154.ext.json)
 
 ---
 
@@ -146,6 +176,8 @@ PickMe COO Isira Perera says their services have been received favourably by the
 
 [Data](articles/a8898520.json)
 
+[Extended Data](ext_articles/a8898520.ext.json)
+
 ---
 
 ### Prime Group relocates Galle branch to elevate customer experience and reinforce commitment to excellence
@@ -158,17 +190,25 @@ Prime Group has announced the relocation of its Galle branch to No. 66, Havelock
 
 [Data](articles/f58df3b7.json)
 
+[Extended Data](ext_articles/f58df3b7.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව පළමු වටයෙන්ම ඉවතට
+### Sri Lanka out of the first round
 
 *2024-06-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197736) · `si`
 
-2024 T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු වටයෙන්ම ශ්‍රී ලංකාව ඉවතට විසිවී ඇති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිල වශයෙන් ප්‍රකාශයට පත්කර ඇත.
+Sri Lanka has been disqualified from the 2024 T20 World Cup due to ICC regulations.
+
+🟩
+
+The International Cricket Council has officially declared that Sri Lanka was abandoned first in the 2024 T20 World Cup.
 
 ◼️
 
 [Data](articles/65409511.json)
+
+[Extended Data](ext_articles/65409511.ext.json)
 
 ---
 
@@ -185,6 +225,8 @@ The company secured two gold and silver awards in the highly competitive Best Ma
 ...
 
 [Data](articles/867c0670.json)
+
+[Extended Data](ext_articles/867c0670.ext.json)
 
 ---
 
@@ -206,6 +248,8 @@ Samagi Jana Balawegaya (SJB) MP Mujibur Rahman claimed yesterday that President 
 
 [Data](articles/601735e0.json)
 
+[Extended Data](ext_articles/601735e0.ext.json)
+
 ---
 
 ### Namal warns Tamil community against election-time policy shifts
@@ -225,6 +269,8 @@ He criticised parties that opportunistically change their stances shortly before
 ...
 
 [Data](articles/0dd27c8a.json)
+
+[Extended Data](ext_articles/0dd27c8a.ext.json)
 
 ---
 
@@ -248,6 +294,8 @@ Addressing a public event, Jayatissa asserted that statements suggesting the pos
 
 [Data](articles/8defd386.json)
 
+[Extended Data](ext_articles/8defd386.ext.json)
+
 ---
 
 ### AKD arrives in London
@@ -259,6 +307,8 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake was warmly greet
 ◼️
 
 [Data](articles/e16a17bd.json)
+
+[Extended Data](ext_articles/e16a17bd.ext.json)
 
 ---
 
@@ -303,6 +353,8 @@ Speaking at a press conference on Tuesday, Shivajilingam addressed recent remark
 ...
 
 [Data](articles/3318af2f.json)
+
+[Extended Data](ext_articles/3318af2f.ext.json)
 
 ---
 
@@ -656,6 +708,50 @@ At the outset a nation’s sovereignty is vested on its citizens and they use it
 
 ---
 
+### ’நலன்புரி வேலைத்திட்டங்கள் மக்களை சென்றடையும்’
+
+*2024-06-14 00:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நலன்புரி-வேலைத்திட்டங்கள்-மக்களை-சென்றடையும்/175-338892) · `ta`
+
+அரசாங்கத்தினால் நடைமுறைப்படுத்தப்படும் நலன்புரித் திட்டங்களை வினைத்திறனுள்ளதாக்கி அதன் பயன்களை மக்களுக்கு துரிதமாக வழங்குவதற்கு ஆளுநர்கள் பங்களிக்க வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மாகாண ஆளுநர்களுடன் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மாகாண மட்டத்தில் உள்ள ஆசிரியர் பற்றாக்குறையை விரைவாகத் தீர்க்க எடுக்கப்பட வேண்டிய நடவடிக்கைகள் மற்றும் உறுமய காணி உறுதி வழங்கும் திட்டத்தின் வினைத்திறன் என்பன குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டுள்ளது.
+
+உறுமய காணி உறுதிகளை வழங்கும் வேலைத்திட்டத்தை வினைத்திறன் மிக்கதாக மாற்றுவதற்கு கிராம உத்தியோகத்தர்களுக்கு மேலதிகமாக மற்றுமொரு குழுவிற்கு அதிகாரத்தை வழங்கி நடமாடும் சேவைகளை நடைமுறைப்படுத்துவதற்கான சாத்தியத்தை ஜனாதிபதி இதன்போது சுட்டிக்காட்டினார்.
+
+இது தொடர்பில் மக்களை ஆர்வமூட்டி, அவர்களுக்கு அந்த நன்மையை வழங்க வேண்டிய பொறுப்பு பிரதேச செயலாளர்களுக்கு வழங்கப்பட்டுள்ளதையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நினைவுகூர்ந்தார்.(a)
+
+◼️
+
+[Data](articles/6eb0bc2f.json)
+
+---
+
+### Senthil Thondaman meets with Amit Shah
+
+*2024-06-14 00:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமித்-ஷாவுடன்-செந்தில்-தொண்டமான்-சந்திப்பு/175-338891) · `ta`
+
+Amit Shah and JP Natta meet with Senthil Thondaman, who congratulates India on its election win and thanks for aid. He seeks a visit and is honored for his work with Sri Lanka's plantation community.
+
+🟩
+
+Indian Home Minister Amit Shah and BJP's national leader and minister JP Natta have met with the Eastern Province Governor and the President of the Ceylon Workers Congress, Senthil Thondaman.
+
+Senthil Thondaman congratulated the recently won the Indian Lok Sabha elections.
+
+He thanked the Indian government for continued assistance to Sri Lanka and called for a visit to Sri Lanka.
+
+In the meantime, the 200th anniversary of the plantation community in Sri Lanka has been given to Senthil Thondaman. (A)
+
+◼️
+
+[Data](articles/1ec5a9b5.json)
+
+[Extended Data](ext_articles/1ec5a9b5.ext.json)
+
+---
+
 ### Coastal railway impact
 
 *2024-06-14 00:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-போக்குவரத்து-பாதிப்பு/175-338890) · `ta`
@@ -697,6 +793,24 @@ The police are engaged in the help of the Nuwara Eliya District General Hospital
 [Data](articles/a008d7f4.json)
 
 [Extended Data](ext_articles/a008d7f4.ext.json)
+
+---
+
+### St. Anthony's Church
+
+*2024-06-13 23:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-புனித-அந்தோனியார்-திருச்சொரூப-பவனி/175-338888) · `ta`
+
+St. Anthony's Temple in Colombo hosted an event tonight, under the patronage of Perera.
+
+🟩
+
+St. Anthony's Temple, Colombo, Colombo, was held this evening under the patronage of Perera.
+
+◼️
+
+[Data](articles/19661fe9.json)
+
+[Extended Data](ext_articles/19661fe9.ext.json)
 
 ---
 
@@ -1027,6 +1141,34 @@ The Netherlands scored the toss and win the bowling first.
 [Data](articles/1e57178a.json)
 
 [Extended Data](ext_articles/1e57178a.ext.json)
+
+---
+
+### Request of the Governors of the President
+
+*2024-06-13 19:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආණ්ඩුකාරවරුන්ගෙන්-කළ-ඉල්ලීම/11-410206) · `si`
+
+The President of Sri Lanka, Ranil Wickremesinghe, emphasized the importance of governors aiding the government's efforts to benefit the public during a meeting with provincial governors. He highlighted the need for efficient implementation of mobile services and the responsibility of Divisional Secretaries to ensure people receive these benefits. The Minister of Education announced plans to address teacher shortages, particularly in subjects like science, mathematics, and technology, by recruiting 2,100 new teachers based on Advanced Diploma Examination results. Additionally, the President discussed the Presidential Scholarship Program, which aims to provide financial support to children from low-income families, with 16,152 scholarships allocated for the Western Province and 10,000 for the Northern Province. These scholarships will offer monthly stipends of Rs. 3,000.
+
+🟩
+
+Presentation of Scholarships from the Presidential Fund begins today. President Ranil Wickremesinghe said that the governors should interfere with the benefit of the government to the public and provide the benefits to the people.
+
+The President made these comments at the Presidential Secretariat yesterday (12) with the governors of the provinces.
+
+The inheritance was also discussed as well as the proficiency of the teachers at the provincial level.
+
+The President pointed out that the heritage freeholds to efficiently efficiently implement mobile services and implement mobile services.
+
+President Ranil Wickremesinghe also recalled the responsibility of the Divisional Secretaries to encourage the people to provide the benefits to them.
+
+Minister of Education Dr. Susil Premajayantha said that the government is committed to expedite the shortage of teachers at the provincial level, "he said.
+
+...
+
+[Data](articles/3ce59fbd.json)
+
+[Extended Data](ext_articles/3ce59fbd.ext.json)
 
 ---
 
@@ -2109,119 +2251,5 @@ The train delays will continue further on the coastal line, according to the  d
 [Data](articles/cfd5c869.json)
 
 [Extended Data](ext_articles/cfd5c869.ext.json)
-
----
-
-### 20 students who were targeted for wasps in Kilinochchi are admitted to hospital
-
-*2024-06-13 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186010) · `ta`
-
-In Kilinochchi, 20 students were hospitalized after being attacked by wasps. The incident occurred when high winds blew away nests, causing the insects to swarm and sting the students.
-
-🟩
-
-20 students have been admitted to Dharmapuram Hospital for treatment at Dharmapuram Central College, Kilinochchi.
-
-Today (13) wasps washed away as high winds were blowing. This has caused the students to attack the wasps.
-
-◼️
-
-[Data](articles/38d11a45.json)
-
-[Extended Data](ext_articles/38d11a45.ext.json)
-
----
-
-### One railway line is opened
-
-*2024-06-13 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197718) · `si`
-
-A train derailment at Panadura disrupted services on the coastal railway line, blocking both tracks. Rail technicians worked tirelessly to reopen the line after the incident was captured by a nearby CCTV camera.
-
-🟩
-
-One mark on the coastal railway line has been opened by a train derailment at Panadura.
-
-A train traveling from Panadura to Maradana had been derailed near the Panadura Railway Station.
-
-As a result, both roads were blocked by both roads on the coastal railway line, and the rail technicians were opened a struggle.
-
-How the train was derailed in a nearby CCTV camera.
-
-◼️
-
-[Data](articles/9ee68e59.json)
-
-[Extended Data](ext_articles/9ee68e59.ext.json)
-
----
-
-### Aura Lanka chairman Thambugala to make confidential statement to court
-
-*2024-06-13 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99857/aura-lanka-chairman-thambugala-to-make-confidential-statement-to-court) · `en`
-
-The Colombo Chief Magistrate’s Court has scheduled the consideration of Aura Lanka Chairman Viranjith Thambugala’s request to provide a confidential statement before the court for July 18.
-
-The case, filed over alleged financial fraud committed by Thambugala, was taken up before Colombo Additional Magistrate Pavitra Pathiraja today (June 13).
-
-However, the officers from the Criminal Investigations Department (CID) were not present in court at the time.
-
-Accordingly, the Additional Magistrate ordered the relevant request to make a confidential statement to be re-submitted to the court at the next hearing.
-
-On May 22, the Chairman of Aura Lanka, businessman Viranjith Thambugala was arrested by police over allegations of misappropriation of nearly Rs. 70 million and was later granted bail after being produced before the Colombo Magistrate’s Court.
-
-◼️
-
-[Data](articles/35da530e.json)
-
-[Extended Data](ext_articles/35da530e.ext.json)
-
----
-
-### Create an intelligent young generation that will win future challenges - the president
-
-*2024-06-13 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186006) · `ta`
-
-President Ranil Wickremesinghe emphasizes the importance of empowering the youth with knowledge and skills to meet future challenges. He outlines an economic program aimed at increasing youth income and reducing unemployment by 2027, focusing on developing an export-based economy similar to Vietnam, Thailand, and Malaysia. The initiative includes emergency programs for quick-growth sectors like tourism, agriculture, and IT, aiming to create a green society and economy.
-
-🟩
-
-Ranil Wickremesinghe said that the youth generation of knowledge and training should be created to success the future challenges.
-
-The President also pointed out that the economic program is currently being implemented to create a higher income for the youth of the country.
-
-President Ranil Wickremesinghe made this statement when he met the youth regiment's youth at the Presidential Office yesterday (12).
-
-President Ranil Wickremesinghe was awarded a souvenir by the Director of the Youth Brigade, Brigadier Sujeewa Ratnayake.
-
-“It has been 22 years since the Youth Brigade was inaugurated. The youth regiment was launched to suit the then economic and social system. The youth regiment must change in time. To create a good income status to make young people a good future. The youth must take necessary steps to change the force.
-
-...
-
-[Data](articles/864b503f.json)
-
-[Extended Data](ext_articles/864b503f.ext.json)
-
----
-
-### Sajith's defenders threatened to “do not video”
-
-*2024-06-13 15:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காணொளி-வேண்டாம்-மிரட்டிய-சஜித்தின்-பாதுகாப்பாளர்கள்/71-338867) · `ta`
-
-Sajith Premadasa's supporters threatened journalists, preventing them from filming or photographing his visit to Victoria College of Chiripuram. This action sparked controversy.
-
-🟩
-
-Opposition Leader Sajith Premadasa delivered a bus to the Victoria College of Chiripuram on Wednesday (12).
-
-The bus was held at the Amman Temple at the Amman Temple, followed by a video and photographers when the Sajith Premadasa bus was ready to pay it.
-
-Sajith's security forces immediately tapped the camera of the journalists and threatened not to take a photo and video.. This has caused a stir.
-
-◼️
-
-[Data](articles/bf8aea0e.json)
-
-[Extended Data](ext_articles/bf8aea0e.ext.json)
 
 ---

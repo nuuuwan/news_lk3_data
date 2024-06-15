@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 00:05:55**
+As of **2024-06-16 00:19:01**
 
 ## Newspaper Stats
 
-*Scraped **30,534** Articles*
+*Scraped **30,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,461
-tamilmirrorlk | 3,571
+tamilmirrorlk | 3,572
 virakesarilk | 4,687
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,941
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,533 (100.0%) of 30,534 articles have been extended.
+30,534 (100.0%) of 30,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### ஆசிய எறிதல் சாம்பியன்ஷிப்பில் இலங்கைக்கு தங்கம்
+
+*2024-06-15 23:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-எறிதல்-சாம்பியன்ஷிப்பில்-இலங்கைக்கு-தங்கம்/175-338951) · `ta`
+
+அது மாத்திரமன்றி, சுமேத ரணசிங்க மற்றும் தில்ஹானி லேகம் ஆகியோர் வெண்கலப்பதக்கம் வென்று தாயகத்திற்கு பெருமை ஈட்டிக் கொடுத்துள்ளனர்.
+
+இரண்டாவது தடவையாக நடத்தப்படும் ஆசிய எறிதல் சம்பியன்ஷிப் தொடருக்கான அனுசரணையை தென் கொரியா வழங்குகிறது.
+
+ஆடவருக்கான ஈட்டி எறிதல் போட்டியில் ருமேஷ் தரங்க 85.5 மீட்டருக்கு திறமையை வெளிப்படுத்தினார். இது இலங்கை சாதனையாகவும் போட்டி சாதனையாகவும் பதிவானது.
+
+எவ்வாறாயினும், 5 சென்டிமீட்டரால் அவர் ஒலிம்பிக் விழாவுக்கான வாய்ப்பை இழந்தார். ஒலிம்பிக் விழாவுக்கு தகுதி பெறுவதாயின், 85.50 மீற்றருக்கு திறமையை வெளிப்படுத்தியிருக்க வேண்டும்.
+
+இதேவேளை, இந்த போட்டியில் மற்றுமொரு இலங்கை வீரரான சுமேத ரணசிங்க வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 77.57 மீற்றருக்கு திறமையை வெளிப்படுத்தினார்.
+
+மகளிருக்கான ஈட்டி எறிதல் போட்டியில் இலங்கையின் தில்ஹானி லேகம்கே வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 57.94 மீற்றர் தூரத்திற்கு திறமையை வெளிப்படுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/0d30b82f.json)
+
+---
 
 ### Sri Lanka car import relaxing roadmap given to IMF: State Minister
 
@@ -49,6 +71,8 @@ According to the latest IMF report car import controls may have led to revenue l
 ...
 
 [Data](articles/3a0e5f6a.json)
+
+[Extended Data](ext_articles/3a0e5f6a.ext.json)
 
 ---
 
@@ -2263,29 +2287,5 @@ In response to a question raised by a journalist regarding future steps for the 
 [Data](articles/9942f993.json)
 
 [Extended Data](ext_articles/9942f993.ext.json)
-
----
-
-### Sajith is currently one - Ranil
-
-*2024-06-14 21:13:51* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-සජිත්--එක----රනිල්-තුන/11-410216) · `si`
-
-Ranil Wickremesinghe plans to boost his popularity through a survey in July, addressing concerns about his candidacy. He faces criticism over his low voter turnout history but remains a contender, focusing on overcoming obstacles including land disputes and salary increases. His strategy includes appealing to Tamil and Muslim votes to counter the Rajapaksa influence, aiming to secure a significant position despite challenges.
-
-🟩
-
-President Ranil Wickremesinghe said that he would seek to meet his popularity through a survey of a survey in July July and said that he would not be offered to the President.
-
-He was speaking at a media briefing held at the JHU on 14.06.2013. The leader of the Plandani Hela Urumaya expressed his views.
-
-"If Ranil Wickremesinghe doesn't contest the election, will open a political office?Will you be held at the Kingdom by holding meetings?Will you come forward to give relief to the country?Some people ask us.That is why it is our responsibility to explain Ranil's strategy.
-
-He is now third among the candidates.There will be everything you can to move on.Land divides. The houses are divided. The salaries are increased.Relief is provided.The opposition is trying to win.The Rajapaksas are trying to send from the government.
-
-...
-
-[Data](articles/d10e1ec8.json)
-
-[Extended Data](ext_articles/d10e1ec8.ext.json)
 
 ---

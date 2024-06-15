@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 09:53:58**
+As of **2024-06-15 10:06:59**
 
 ## Newspaper Stats
 
-*Scraped **30,474** Articles*
+*Scraped **30,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,622
-adaderanalk | 3,451
-tamilmirrorlk | 3,565
-virakesarilk | 4,678
+adaderanalk | 3,452
+tamilmirrorlk | 3,566
+virakesarilk | 4,679
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,919
 
@@ -26,29 +26,73 @@ adaderanasinhalalk | 4,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,473 (100.0%) of 30,474 articles have been extended.
+30,474 (100.0%) of 30,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### නාඳුනන සිරුරක් නිසා කැලඹීමක්
+### Railway strike temporarily called off
+
+*2024-06-15 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99889/railway-strike-temporarily-called-off) · `en`
+
+The Sri Lanka Railway Station Masters’ Union has decided to temporarily call off their planned strike action, with the suspension in effect until next Tuesday (18).
+
+This was announced by the President of the Railway Station Masters’ Union, Sumedha Somaratne.
+
+He explained that, “During the discussion with the General Manager of Railways, we received positive responses to some of our demands. However, they were unable to provide a specific answer regarding promotions and other issues.”
+
+He further elaborated that the Acting Minister participated in the discussions and identified a contradiction between the Cabinet paper sent by the department and the letter sent by the Ministry.
+
+“This discrepancy is the reason for the current problem,” Somaratne noted. He added that a correction has been approved and is promised to be addressed during the Public Service Commission meeting on Tuesday.
+
+...
+
+[Data](articles/3b13b31a.json)
+
+---
+
+### 150 கிலோ கிராம் போதைப்பொருளுடன் தெற்கு கடல்பரப்பில் 6 பேர் கைது
+
+*2024-06-15 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186106) · `ta`
+
+மீன் பிடி இழுவை படகில் 150 கிலோ கிராம் போதைப்பொருளுடன் ஆறு சந்தேக நபர்களை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடற்படையினரால் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பில் நேற்று வெள்ளிக்கிழமை (14) மாலை  தென் கடல் பகுதியில் 400 கடல் மைல் தொலைவில் ஹெரோயின் கடத்தியதாக சந்தேகிக்கப்பட்ட இழுவை படகு கைப்பற்றப்பட்டது.
+
+இந்த இழுவை படகு காலி துறைமுகத்திற்கு கொண்டு வரப்பட்டு சோதனை மேற்கொண்டதில் அதிலிருந்து 150 கிலோகிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+இந்நிலையில், படகிலிருந்த 6 பேரை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினர் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/ad797d4f.json)
+
+---
+
+### Turning due to an unknown body
 
 *2024-06-15 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197777) · `si`
 
-කයිට්ස් මඩත්තවේලි ප්‍රදේශයේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් හමුව තිබේ.
+A dead body was discovered in Kayts Madtivu, but the victim remains unidentified. The investigation began after a tip-off to the local police. The deceased, estimated to be between 5 and 6 feet tall, is currently at the Jaffna Hospital pending further inquiries by the Kayts police.
 
-පොලීසිය පැවසුවේ ඊයේ (14) සවස කයිට්ස් පොලීසියට ලද තොරතුරක් මත අදාළ විමර්ශන කටයුතු ආරම්භ කළ බවය.
+🟩
 
-මෘත ශරීරය සම්බන්ධයෙන් හදිසි මරණ පරීක්ෂණය සිදුකර ඇති අතර මෙතෙක් ඔහුගේ අනන්‍යතාවය තහවුරු කරගෙන නොමැත.
+Kayts found a dead body of an unidentified man from Kayts Madtivu.
 
-මෙම පුද්ගලයා අවුරුදු 45ත් 50 අතර උස අඩි 05යි අඟල් 02 ක් පමණ වන අයෙක් බව පොලීසිය පවසයි.
+Police said that the investigations were commenced on a tip off received by the Kayts Police yesterday (14).
 
-සිරුර යාපනය රෝහලේ තැන්පත් කර ඇති අතර කයිට්ස් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The death inspection of the body has been carried out and has not verified his identity so far.
+
+The man is about 5 feet to 5 feet height and about two feet height.
+
+The body is placed at the Jaffna Hospital while Kayts police are conducting further investigations.
 
 ◼️
 
 [Data](articles/6e612fa4.json)
+
+[Extended Data](ext_articles/6e612fa4.ext.json)
 
 ---
 
@@ -293,6 +337,26 @@ In the retail market too seven contributors to the market were Hayleys, Dipped P
 [Data](articles/a00c38b7.json)
 
 [Extended Data](ext_articles/a00c38b7.ext.json)
+
+---
+
+### ’தெற்காசியாவின் சிறந்த கல்வி முறை உருவாக்கப்படும்’
+
+*2024-06-15 01:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசியாவின்-சிறந்த-கல்வி-முறை-உருவாக்கப்படும்/175-338931) · `ta`
+
+கிரிமெட்டியான பௌத்த மகளிர் தேசிய பாடசாலைக்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு மாணவிகளால் சிறப்பு வரவேற்பளிக்கப்பட்டது.
+
+பாடசாலை வளாகத்தில் அமைந்துள்ள பௌத்த விகாரைக்குச் சென்று பூஜை வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதம் பெற்றுக்கொண்ட ஜனாதிபதி, பெயர்ப்பலகையை திரைநீக்கம் செய்து புதிய கட்டடத்தை மாணவர்களிடம் கையளித்தார்.
+
+க.பொ.த. உயர்தரப் பரீட்சையில் சித்தியடைந்த கல்லூரி மாணவர்களுக்கான பரிசில்களும் ஜனாதிபதியினால் வழங்கி வைக்கப்பட்டதுடன் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு நினைவுப் பரிசும் வழங்கி வைக்கப்பட்டது.
+
+இக்கட்டடத்தின் நிர்மாணிப் பணிகளை முடித்துத் தருமாறு மாணவிகள் விடுத்த வேண்டுகோளுக்கு இணங்க இரண்டு கட்டங்களாக கட்டட நிர்மாணப் பணிகளை நிறைவு செய்யவுள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+நாட்டை அபிவிருத்தி செய்வதே அரசாங்கத்தின் பொறுப்பு என ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டியதுடன், கோஷங்களை எழுப்பி காலத்தைக் கடத்தும் காலம் இதுவல்ல என்றும் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/87e3f8f9.json)
 
 ---
 
@@ -2199,71 +2263,5 @@ Addressing the media personnel, the state minister further stated that,
 [Data](articles/0b2469cb.json)
 
 [Extended Data](ext_articles/0b2469cb.ext.json)
-
----
-
-### Yall. Selvarajah Gajendran is suspected that there is a state intelligence unit behind the attack on journalist's house
-
-*2024-06-14 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/186048) · `ta`
-
-Selvarajah Gajendran, a TNA MP, suspects a state intelligence unit orchestrated an attack on journalist Thambichurai Pradeepan's home in Jaffna. Pradeepan, known for challenging the government, faced restrictions during the President's visit and later reported threats to his career. His complaints led to investigations but no arrests. Gajendran criticizes the lack of action from the State Intelligence Unit, suggesting it failed to protect Pradeepan, hinting at a broader issue where former combatants cannot operate freely post-conflict.
-
-🟩
-
-Selvarajah Gajendran, Member of Parliament of the Tamil National People's Front (TNA), has expressed suspicion that there is a state intelligence unit behind the attack on a journalist's house in Jaffna.
-
-Jaffna - Achuveli journalist in Thambichurai Pradeepan's house. Parliamentarian Selvarajah Gajendran, who visited there on Thursday (13) on Thursday (13), said this while commenting to the media.
-
-We vehemently condemn this incident. Pamphlet after the attack. As for us, we suspect that the pamphlets may have been placed in order to cover the background of the attackers.. Transgender parties are unlikely to have been attacked.
-
-Journalist Pradeepan was denied permission when President visited Jaffna a few weeks ago. President Ranil Wickremesinghe was refused permission to collect news in the events of the security forces, claiming that he had been declared by security forces not to allow him at the president's events.
-
-...
-
-[Data](articles/1e92de8a.json)
-
-[Extended Data](ext_articles/1e92de8a.ext.json)
-
----
-
-### Mountaineer train services returned to usual
-
-*2024-06-14 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186049) · `ta`
-
-A high-speed train derailed near Talawakelle but resumed service after repairs. The incident occurred yesterday afternoon, and the track was fixed by 10 pm, allowing trains to run normally again this morning.
-
-🟩
-
-A high -speed train derailed between Talawakelle and Vattakoda in the hill country has returned to us.
-
-The box was also derailed at around 3.25pm ​​yesterday. Subsequently, the railway line has been renovated at 10 pm, the rail control room said.
-
-Accordingly, the train was traveling from Badulla railway station to Colombo Fort at 5.55 am today (14).
-
-◼️
-
-[Data](articles/ae4d3989.json)
-
-[Extended Data](ext_articles/ae4d3989.ext.json)
-
----
-
-### Sri Lanka’s JAT binder plant looks to export excess product
-
-*2024-06-14 13:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-jat-binder-plant-looks-to-export-excess-product-168000/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s JAT Holdings Plc, which produces wood coatings and brushes, said it had begun manufacturing its own binders at its new plant in Horana, and hopes to export product in the future.
-
-“The new JAT Binder Plant will complement JAT’s Alkyd Resin Plant in Bangladesh, and its cross-border manufacturing infrastructure,” the company said in a stock exchange filing.
-
-JAT said there was potential for exporting its excess production of binders, the foundational component of wood coatings and emulsion paint, from this plant and launching even more cost-efficient, quality products for customers.
-
-The state-of-the-art plant began operations in March at a cost 1,521,256,438 rupees.
-
-◼️
-
-[Data](articles/3623aaf3.json)
-
-[Extended Data](ext_articles/3623aaf3.ext.json)
 
 ---

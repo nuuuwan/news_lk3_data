@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 06:20:41**
+As of **2024-06-15 07:00:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,453 (100.0%) of 30,461 articles have been extended.
+30,461 (100.0%) of 30,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Established on May 7th 1981, and granted its banking license on January 26th 198
 
 [Data](articles/0419dacb.json)
 
+[Extended Data](ext_articles/0419dacb.ext.json)
+
 ---
 
 ### SLT-MOBITEL & STEMUP Educational Foundation successfully complete first batch of “CoderDojo”
@@ -57,6 +59,8 @@ This initiative, led by STEMUP Educational Foundation, powered by SLT-MOBITEL an
 ...
 
 [Data](articles/81966f61.json)
+
+[Extended Data](ext_articles/81966f61.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ In the retail market too seven contributors to the market were Hayleys, Dipped P
 ...
 
 [Data](articles/a00c38b7.json)
+
+[Extended Data](ext_articles/a00c38b7.ext.json)
 
 ---
 
@@ -169,6 +175,8 @@ The project’s first day, which spanned two days, saw its inaugural day on Apri
 ...
 
 [Data](articles/7eef57dc.json)
+
+[Extended Data](ext_articles/7eef57dc.ext.json)
 
 ---
 
@@ -301,6 +309,8 @@ With the collaborative efforts of the John Keells Foundation, MAS Holdings, the 
 ...
 
 [Data](articles/a4122167.json)
+
+[Extended Data](ext_articles/a4122167.ext.json)
 
 ---
 

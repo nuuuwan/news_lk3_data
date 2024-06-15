@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 21:34:54**
+As of **2024-06-15 21:54:23**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 4,940
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,527 (100.0%) of 30,528 articles have been extended.
+30,528 (100.0%) of 30,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### බලය ඇත්තෝ  වයඹ රංග ශාලාව ට කළ වින්නැහිය
+### Venny who has committed to the Wayamba Theater
 
 *2024-06-15 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197798) · `si`
 
-අධික මුදලක් වැය කරමින් කොළඹ නෙළුම් පොකුණ රංග ශාලාවට පමණක් දෙවැනි වන ලෙස ඉදිකිරීම් කටයුතු ආරම්භ කරන ලද වයඹ ජනකලා කේන්ද්‍රයේ රංග ශාලාව මේ වනවිට මුළුමනින්ම පාහේ පරිහාණියට පත්ව තිබේ.
+The Wayamba Theater, part of the Northwestern Janakala Center, remains incomplete despite initial plans and efforts. Located in Athuleele, it was intended to be a significant cultural hub, similar in size to the Nelum Pokuna Theater, capable of seating over 1200 people. However, political issues and project irregularities halted its construction, leaving it unfinished for over a decade. The center, once bustling with children learning arts, has now fallen into disrepair, raising concerns about the impact on nurturing talent in the region.
 
-කාලයක් මුළුල්ලේ කලාකරුවන් බිහිකළ ශ්‍රී ලංකාවේ කලාකරුවන්ගේ හදවත බඳු රංග ශාලාවකට අත්වී ඇති දුක්ඛිත ඉරණමක් පිළිබඳ "අද දෙරණ උකුස්සා" ට තොරතුරු අනාවරණ විය.
+🟩
 
-කුරුණෑගල ජනකලා කේන්ද්‍ර පරිශ්‍රයේ පිහිටා ඇති අඩක් වැඩ නිමකළ එම රංග ශාලාව සොයා "අද දෙරණ උකුස්සා" ගවේෂණයක නිරත වූයේ ඒ අනුවය.
+The theater of the Northwestern Janakala Center, which was initiated only to the Colombo Wayamba, Center, has been completely reprimanded.
 
-සුන්දර ඇතුගල් පුරවරයේ පිහිටා තිබෙන වයඹ ජනකලා කේන්ද්‍රය ඉදිවන්නේ 2001 වසරේදීය.
+It was revealed to Ada Derana Ukusa, who created artists who created artists in Sri Lanka.
 
-වයඹ පළාතේ දරුවන්ගේ කලා කුසලතා ඔප් නැංවීමේ අරමුණින් ආරම්භ කළ මෙම ජනකලා කේන්ද්‍රය එකල සතියේ සෑම දිනකම පාහේ කලා කටයුතුවලින් කාර්යබහුල වුණි.
+It is said that the Theater was found in the Folk Folkiya Cynic Premises.
 
-එසේම සංස්කෘතික මධ්‍යස්ථාන හා කෞතුගාකාරවලින්ද එම ජනකලා කේන්ද්‍රය සමන්විත විය.
+The Northwestern Folk Folk Folk Center located in the city of Beautiful Athuleele is built in 2001.
 
-වයඹ පළාත් සභා ආණ්ඩුකාරවරයා විසින් පසු කලෙක එම භූමියේ රංග ශාලාවක් ඉදිකිරීමට යෝජනා කර එහි කටයුතු ආරම්භ කරන්නේද වේදිකා නාට්‍ය, ප්‍රසංග සඳහා එය යොදා ගැනීමේ අරමුණිනි.
+The Janakala Center, who started the children of the North Western Province, was so busy every day of the week at the time.
+
+The Folk Center also comprised of cultural centers and musasts.
+
+The Governor of the North Western Provincial Councils later propose to build a theater of theater in the land and will initiate the construction of a theater.
+
+However, the construction of the theater has stayed in due to various political arms and irregularities in the project.
+
+It is sad that no more than 10 years since 2012, the construction of the theater has not been completed.
 
 ...
 
 [Data](articles/3e8d593f.json)
+
+[Extended Data](ext_articles/3e8d593f.ext.json)
 
 ---
 

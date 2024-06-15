@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 23:04:23**
+As of **2024-06-15 23:19:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,532 (100.0%) of 30,533 articles have been extended.
+30,533 (100.0%) of 30,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -794,17 +794,23 @@ Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, 
 
 ---
 
-### පළමු කාර්තුවේදී සියයට 5.6ක වර්ධනයක්
+### 5.6 percent growth in the first quarter
 
 *2024-06-15 13:33:26* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-කාර්තුවේදී-සියයට-5-6ක-වර්ධනයක්/11-410223) · `si`
 
-2024 වසරේ පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකය සියයට 5.6කින් වර්ධනය වී ඇතැයි මහ බැංකුව පවසයි. 2023 පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකයේ හැකිලීම සියයට 10.7ක් විය.
+The Sri Lankan economy grew by 5.6% in Q1 2024, reversing a 10.7% contraction in Q1 2023. This recovery was driven by growth in the services and manufacturing sectors.
 
-2023 පළමු කාර්තුවට සමගාමීව 2024 පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකයේ සේවා හා නිෂ්පාදන අංශයෙන්හි කැපී පෙනෙන වර්ධනය හේතුවෙන් ‌මෙසේ ආර්ථික වර්ධනය වේගවත් වී තිබේ.
+🟩
+
+Sri Lankan economy has increased 5.6 percent in the first quarter of 2024, the Central Bank said. The shrinking of the Sri Lankan economy was 10.7 percent in the first quarter of 2023.
+
+In the first quarter of 2023, the growth of the services and manufacturing sector of the Sri Lankan economy has accelerated due to the increase in the growth of the Sri Lankan economy.
 
 ◼️
 
 [Data](articles/b046e229.json)
+
+[Extended Data](ext_articles/b046e229.ext.json)
 
 ---
 

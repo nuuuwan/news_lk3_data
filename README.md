@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 19:34:42**
+As of **2024-06-15 19:52:27**
 
 ## Newspaper Stats
 
-*Scraped **30,523** Articles*
+*Scraped **30,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,460
 tamilmirrorlk | 3,570
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,936
+adaderanasinhalalk | 4,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,522 (100.0%) of 30,523 articles have been extended.
+30,523 (100.0%) of 30,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### උද්දිකගේ රථයට වෙඩි තැබූ ASP රටපනි
+
+*2024-06-15 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197795) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථයට වෙඩිතැබු බවට චෝදනා එල්ල වී ඇති සහකාර පොලිස් අධිකාරී සංජීව මහානාම මහතාව අත්අඩංගුවට ගැනීම සඳහා අධිකරණ නියෝග අනුව කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගෙන් ද මේ සම්බන්ධයෙන් ප්‍රකාශයක් ලබා ගැනීමට නියමිතය.
+
+පසුගිය වසරේ සැප්තැම්බර් මස 17 වන දා එවකට පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළ උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථයට වෙඩි තැබීමක් සිදුකර තිබුණි.
+
+එම සිද්ධිය සම්බන්ධයෙන් පොලිස් විමර්ශන ආරම්භ වු අතර පසුව අනාවරණය වුයේ අනුරාධපුර ප්‍රදේශය භාරව කටයුතු කළ සහකාර පොලිස් අධිකාරී සංජීව මහානාම සහ උද්දික ප්‍රේමරත්න යන දෙදෙනා විසින් මෙය සැලසුම් කර ඇති බවය.
+
+කෙසේවෙතත් එම සිද්ධිය පිළිබඳව තොරතුරු අනාවරණය වීමත් සමගම සහකාර පොලිස් අධිකාරීවරයා විදේශගතවී තිබේ.
+
+ඔහු සිය රාජකාරී ගිනි අවිය ගුවන්තොටුපොළේදී වෙනත් පුද්ගලයෙකුට භාරදී විදේශ ගතවී ඇති බව ද සිදුකළ මුලික විමර්ශනවල දී අනාවරණය වී තිබුණි.
+
+◼️
+
+[Data](articles/98d91c4a.json)
+
+---
 
 ### Top cop involved in ex-MP Uddika’s ‘staged’ shooting incident flees country?
 
@@ -47,6 +69,8 @@ On Friday (14), Sri Lanka Police said that it was uncovered that the incident wh
 ...
 
 [Data](articles/c32cec6d.json)
+
+[Extended Data](ext_articles/c32cec6d.ext.json)
 
 ---
 
@@ -2255,29 +2279,5 @@ The Agricultural, Industrial and Services activities expanded by 1.1 per cent, 1
 [Data](articles/9c08972d.json)
 
 [Extended Data](ext_articles/9c08972d.ext.json)
-
----
-
-### Sri Lanka diaspora fund online learning platform to provide education for all ages
-
-*2024-06-14 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-diaspora-fund-online-learning-platform-to-provide-education-for-all-ages-168099/) · `en`
-
-ECONOMYNEXT – Sri Lanka has launched Public Learn, a platform which offers free courses from top universities, to provide those of all ages access to further education.
-
-Operated by Regent Global, Public Learn is been funded by the Sri Lankan diaspora in the UK.
-
-“This aims to transform Sri Lanka’s education and economy which aligns with #Digiecon2030 Mandate of the Ministry of Technology,” minister Kanaka Herath said.
-
-“Whatever the faults of the education system, there are many, but we have still delivered. Now, this will help us make better use of the education system,” President Ranil Wickremesinghe said at the launch.
-
-The initiative aims to provide broad access and accessibility to education Sri Lankans of all ages.
-
-“In a global and competitive world, a skilled and educated populace is crucial,” Former Secretary of State for Education in the United Kingdom Sir Gavin Williamson, said at the launch.
-
-...
-
-[Data](articles/bcfb7697.json)
-
-[Extended Data](ext_articles/bcfb7697.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 14:04:50**
+As of **2024-06-15 14:19:16**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,925
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,497 (100.0%) of 30,499 articles have been extended.
+30,499 (100.0%) of 30,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ඉන්දීය විදේශ ඇමති ජයශංකර් ලංකාව ට
+### Indian Foreign Minister Jayawaru
 
 *2024-06-15 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197783) · `si`
 
-ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා නිල සංචාරයක් සඳහා මෙරටට පැමිණිමට නියමිතව ඇත.
+Dr. S. Jayasankur, India's Foreign Minister, will visit Sri Lanka officially, originally scheduled for June 20.
 
-එළැඹෙන ජුනි 20 වනදා ඒ මහතා ශ්‍රී ලංකාවට පැමිණීමට නිමිත බව වාර්තා වේ.
+🟩
+
+Indian Foreign Minister Dr. S. Jayasankur is due to arrive in Sri Lanka for an official visit.
+
+It is reported that he was to arrive in Sri Lanka on June 20.
 
 ◼️
 
 [Data](articles/dd2e33f6.json)
+
+[Extended Data](ext_articles/dd2e33f6.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, 
 ◼️
 
 [Data](articles/c4a6acf0.json)
+
+[Extended Data](ext_articles/c4a6acf0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 17:34:45**
+As of **2024-06-15 17:56:16**
 
 ## Newspaper Stats
 
-*Scraped **30,515** Articles*
+*Scraped **30,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 3,459
 tamilmirrorlk | 3,568
 virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,933
+adaderanasinhalalk | 4,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,514 (100.0%) of 30,515 articles have been extended.
+30,515 (100.0%) of 30,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### T20 ලෝක කුසලානය ගැන සුපිරි වේග පන්දුයවන්නා ගෙන් විශේෂ ප්‍රකාශයක්
+### මොකක්ද මේ mpox ?
+
+*2024-06-15 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197792) · `si`
+
+mpox නම් වෛරස් රෝගය වැළඳුනු තවත් පුද්ගලයෙක් දකුණු අප්‍රිකාවේ මියගොස් තිබේ.
+
+ඒ එම රෝගී තත්ත්වයෙන් පැය 24ක් තුළ මියගිය දෙවැනි පුද්ගලයා බව වාර්තා වෙයි.
+
+මියගිය පුද්ගලයින් දෙදෙනා වයස අවුරුදු 37 සහ 38 හැවිරිදි වියේ පසුවූවන් ය.
+
+මේ දක්වා එරටින් 2024 වසරේදී ආසාදිතයින් 6 දෙනෙක් හමුවී ඇති බව එරට සෞඛ්‍ය බලධාරීන් පැවසීය.
+
+◼️
+
+[Data](articles/2dbacb49.json)
+
+---
+
+### Special statement from Superftesting bowler about T20 World Cup
 
 *2024-06-15 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197791) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට නවසීලන්තය අසමත් විය.
+Trent Bolt, a top New Zealand bowler, announced it as his last T20 World Cup. Despite New Zealand's exit, Bolt's final appearance will be against Papua New Guinea.
 
-මේ අතර නවසීලන්ත කණ්ඩායමේ සුපිරි වේගපන්දු යවන ක්‍රීඩක ට්‍රෙන්ට් බෝල්ට් පවසන්නේ මෙය තමාගේ අවසාන විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය බවයි.
+🟩
 
-දැනට 34 හැවිරිදි වියේ පසුවන බෝල්ට් උගන්ඩාව ට එරෙහිව පැවති තරගයෙන් අනතුරුව මාධ්‍ය අමතමින් ඒ බව පැවසීය.
+New Zealand failed to access the Twenty20 World Cup
 
-"මම ගැන කතා කරනවා නම්, මේක මගේ අවසාන විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය..." බෝල්ට් පැවසීය.
+Meanwhile, super fast bowlers of New Zealand team Trent Bolts say that this is his last Twenty Twenty World Cup.
 
-ඒ අනුව සඳුදා පැපුවා නිව්ගීනියාව සමග පැවැත්වෙන තරගය ඔහුගේ අවසන් විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගය ලෙස වාර්තාගත වනු ඇත.
+Addressing the media after the match against Uganda, which is now 34, is currently elected to Uganda.
+
+"Talking about me, this is my last Twenty World Cup ..." Bolt said.
+
+His final Twenty Twenty World Cup will be recorded in the competition with Papua New Guinea.
 
 ◼️
 
 [Data](articles/761f0a83.json)
+
+[Extended Data](ext_articles/761f0a83.ext.json)
 
 ---
 
@@ -2229,29 +2253,5 @@ The Attorney General’s Department today informed the Supreme Court that it wil
 [Data](articles/b8b68c06.json)
 
 [Extended Data](ext_articles/b8b68c06.ext.json)
-
----
-
-### Lending credit without Western Co-operative
-
-*2024-06-14 17:03:12* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-සමූපකාර-විධිමත්-භාවයකින්-තොරව-ණය-දීලා/11-410215) · `si`
-
-The Committee on Public Accounts scrutinized the Western Provincial Council and the Co-operative Development Department's performance, highlighting issues like weak regulation causing crises in Western Province co-operatives and misuse of funds. The committee recommended investigations into fraudulent practices and urged officials to improve road transport management and bus deployment strategies.
-
-🟩
-
-The Committee on Public Accounts focused on the current performance of the Western Provincial Council and the Co-operative Development Department.
-
-The Committee on Accounts Committee was discussed when the Hon. Lasantha Alagiyawanna Meeting in Parliament recently.
-
-This was discussed with the current performance of the Western Provincial and Co-operative Development Department based on the Auditor General's records in 2020, 2020, 2022 and 2022.It is the discussion of the discussion and the first part is held today.
-
-Accordingly, the Committee focused on the crisis due to the weak regulation of the Western Province co-operative societies in the Western Province Co-operative Societies in the Western Province.. The committee pointed out that this matter has already caused a massive tragedy.The Committee pointed out that the Western Provincial Department of Co-operative Development should work and that the policy of the Western Province should work in general.
-
-...
-
-[Data](articles/3a50e8d9.json)
-
-[Extended Data](ext_articles/3a50e8d9.ext.json)
 
 ---

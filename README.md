@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 07:00:22**
+As of **2024-06-15 07:23:00**
 
 ## Newspaper Stats
 
-*Scraped **30,461** Articles*
+*Scraped **30,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,449
 tamilmirrorlk | 3,561
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,913
+adaderanasinhalalk | 4,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,461 (100.0%) of 30,461 articles have been extended.
+30,461 (100.0%) of 30,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### අද කාලගුණය - ධීවර හා නාවික ප්‍රජාවට දැනුම්දීමක්
+
+*2024-06-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197772) · `si`
+
+අද (15) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+
+මේ අතර, පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව සඳහන් වේ.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශ වල සුළං නිරිත දිශාවෙන් හමා එන අතර කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. (35-45) පමණ වේ.
+
+මෙම මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. 60 දක්වා වැඩි විය හැකි බව දන්වා ඇත.
+
+මඩකලපුව සිට ත්‍රිකුණාමලය හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. (25-35) පමණ වේ.
+
+...
+
+[Data](articles/2ec26987.json)
+
+---
 
 ### Bank of Ceylon celebrates 43 years of banking excellence in the Maldives
 
@@ -2229,25 +2251,5 @@ She will co-chair the Consultations with Sun Weidong, the vice Minister of Forei
 [Data](articles/7951bcc2.json)
 
 [Extended Data](ext_articles/7951bcc2.ext.json)
-
----
-
-### Sri Lanka’s Sling solar-powered EV battery project wins US award
-
-*2024-06-14 11:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-sling-solar-powered-ev-battery-project-wins-us-award-167990/) · `en`
-
-ECONOMYNEXT – The USAID-funded Sri Lanka Energy Project (SLEP) has received an innovation award at the 2024 annual conference for the Society for International Development (SID-US), for its solar-powered electric vehicle battery swapping stations.
-
-Owned and operated by Sling Mobility (Pvt) Ltd, the stations were recognized for their impact on sustainable urban mobility and economic development in the country, the US embassy said in a statement.
-
-Sling’s ‘360° Sustainable Mobility’ project provides cost-effective and efficient solutions to the retail logistics sector through a smart electric vehicle ecosystem, which reduces the high initial costs of buying batteries and e-bikes by offering a battery subscription service.
-
-Sling Mobility’s collaboration with Uber for food delivery services has demonstrated the model’s effectiveness in reducing downtime for riders, saving money and time, the company said.
-
-...
-
-[Data](articles/7d07f82e.json)
-
-[Extended Data](ext_articles/7d07f82e.ext.json)
 
 ---

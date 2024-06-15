@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 17:19:16**
+As of **2024-06-15 17:34:45**
 
 ## Newspaper Stats
 
-*Scraped **30,514** Articles*
+*Scraped **30,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,459
 tamilmirrorlk | 3,568
 virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,932
+adaderanasinhalalk | 4,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,513 (100.0%) of 30,514 articles have been extended.
+30,514 (100.0%) of 30,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### T20 ලෝක කුසලානය ගැන සුපිරි වේග පන්දුයවන්නා ගෙන් විශේෂ ප්‍රකාශයක්
+
+*2024-06-15 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197791) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයට පිවිසීමට නවසීලන්තය අසමත් විය.
+
+මේ අතර නවසීලන්ත කණ්ඩායමේ සුපිරි වේගපන්දු යවන ක්‍රීඩක ට්‍රෙන්ට් බෝල්ට් පවසන්නේ මෙය තමාගේ අවසාන විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය බවයි.
+
+දැනට 34 හැවිරිදි වියේ පසුවන බෝල්ට් උගන්ඩාව ට එරෙහිව පැවති තරගයෙන් අනතුරුව මාධ්‍ය අමතමින් ඒ බව පැවසීය.
+
+"මම ගැන කතා කරනවා නම්, මේක මගේ අවසාන විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය..." බෝල්ට් පැවසීය.
+
+ඒ අනුව සඳුදා පැපුවා නිව්ගීනියාව සමග පැවැත්වෙන තරගය ඔහුගේ අවසන් විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගය ලෙස වාර්තාගත වනු ඇත.
+
+◼️
+
+[Data](articles/761f0a83.json)
+
+---
 
 ### Committee appointed to formulate program for vehicle imports
 
@@ -424,25 +444,33 @@ G7 leaders have accused Russia of retaining Russia's continuing support for Russ
 
 ---
 
-### ලබන සතියේදි බංකොලොත් බවෙන් නිදහස්
+### Free from bankruptcy next week
 
 *2024-06-15 13:16:20* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සතියේදි-බංකොලොත්-බවෙන්-නිදහස්/11-410221) · `si`
 
-අනාගතයට ගැළපෙන දකුණු ආසියාවේ හොඳම අධ්‍යාපන ක්‍රමය රට තුළ නිර්මාණය කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced the creation of South Asia's best education system in the country, emphasizing the government's commitment to education despite financial challenges. He highlighted the importance of modernizing education and integrating new technologies. The President also discussed the government's efforts to revive the Madampe Economic Zone and develop it into a tourism, economic, and IT hub, alongside initiatives for agricultural modernization and the introduction of modern farming techniques.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ හලාවත කිරිමැටියාන බෞද්ධ බාලිකා ජාතික පාසලේ අභිනවයෙන් ඉදිකරන ලද තෙමහල් ගොඩනැඟිල්ලේ පළමු අදියර සිසු අයිතියට පත් කිරීමේ උත්සවයට එක්වෙමිනි.
+🟩
 
-දුෂ්කර ආර්ථික තත්ත්වයක් හමුවේ වුවද අධ්‍යාපනය වෙනුවෙන් ලබාදිය යුතු ප්‍රතිපාදන වෙන් කිරීමට රජය කටයුතු කළ බව මෙහිදී පැවසූ ජනාධිපතිවරයා රටේ ශක්තිය අධ්‍යාපනය වන බවද අවධාරණය කළේය.
+President Ranil Wickremesinghe said that the best education system in South Asia will be created in the country.
 
-නව පන්තිකාමර නිරීක්ෂණය කිරීමට ද එක් වු ජනාධිපතිවරයා සිසු දරුවන් සමඟ සුහද කථා බහක ද නිරත විය.
+The President made this observation at a ceremony to introduce the first stage of the students to the students.
 
-අපොස උසස් පෙළ විභාගයෙන් ඉහළ දක්ෂතා දැක්වූ විද්‍යාලයේ සිසුවියන් වෙත තිළිණ ප්‍රදානය කිරීමද ජනාධිපතිවරයා අතින් සිදු වූ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ද සිහිවටන තිළිණයක් පිළිගැන්විණ.
+The President emphasized that the government has taken measures to be allocated despite the difficult economic situation.
 
-මෙම නව ගොඩනැඟිල්ලේ පළමු අදියර වෙනුවෙන් රුපියල් මිලියන 450ක මුදලක් වැය කර තිබෙන අතර, එම මුදල රජය සහ දෙමාපියන් විසින් ලබා දී තිබිණි.
+The President also participated in observing new classrooms and joined the students.
+
+The President also offered gifts to the students of the school who was highly granted at the GCE A / L examination and presented a souvenir for President Ranil Wickremesinghe.
+
+The first phase of the new building was spent on the first phase of Rs. 450 million and the money was given by the government and parents.
+
+The President also stated that the construction of the building will be completed under the request of the students to complete the construction of the building.
 
 ...
 
 [Data](articles/4c52a8a0.json)
+
+[Extended Data](ext_articles/4c52a8a0.ext.json)
 
 ---
 
@@ -2225,29 +2253,5 @@ Accordingly, the Committee focused on the crisis due to the weak regulation of t
 [Data](articles/3a50e8d9.json)
 
 [Extended Data](ext_articles/3a50e8d9.ext.json)
-
----
-
-### Long scenes in the movie - Guru Somasundaram
-
-*2024-06-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186081) · `ta`
-
-Guru Somasundaram stars as JD in "Piyamaria Prama," a crime thriller shot entirely on a single tag. The film features a mix of long, immersive scenes designed to enhance viewer engagement and emotional connection. Director Rahul Kapali promises a unique cinematic experience, emphasizing the film's distinct storytelling approach and the talented cast's performances.
-
-🟩
-
-Actor Guru Somasundaram, who plays the role of the newcomer JD, is the first character in the film 'Piyamaria Prama', which has been filmed in the Single Tag.
-
-Jedi, Guru Somasundaram, John Vijay, Harish Uthaman, Vinod Sagar, Viswant, Vishwant, Sai Priyanka Ruth, Divya Ganesh, Harish. Nanda-V. The film is composed by Praveen and composed by K. Crime Thriller.
-
-The event was held in Chennai.Songwriter Veronica, cinematographers Nanda and Praveen, composer K, actors Jake Robinson, Vinod Sagar, Jedi, Guru Somasundaram and actress Sai Priyanka Ruth were present.
-
-Speaking about the film, director Rahul Kapali said, “This film will give you a sweet interesting experience. The film will make you feel our new venture in the films that are currently being released in the movie. ”said.
-
-...
-
-[Data](articles/cbd39abc.json)
-
-[Extended Data](ext_articles/cbd39abc.ext.json)
 
 ---

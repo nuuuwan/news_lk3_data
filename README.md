@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 11:34:44**
+As of **2024-06-15 11:53:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,479 (100.0%) of 30,482 articles have been extended.
+30,482 (100.0%) of 30,482 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ The body has been placed in Jaffna Hospital. Further investigations are being co
 
 [Data](articles/959bb3ad.json)
 
+[Extended Data](ext_articles/959bb3ad.ext.json)
+
 ---
 
-### රුමේෂ්ගෙන් ශ්‍රී ලංකාවට රන් පදක්කමක්
+### Rumesh's gold medal
 
 *2024-06-15 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197778) · `si`
 
-දකුණු කොරියාවේ පැවැත්වෙන ආසියානු විසිකිරීමේ ශූරතාවලියේ පිරිමි හෙල්ල විසි කිරීමේ තරගයේ රන් පදක්කම ‍‍දිනා ගැනීමට ශ්‍රී ලංකාවේ රුමේෂ් තරංග සමත් විය.
+Rumesh won a gold medal in the Asian Twenty Championship in South Korea, setting a new Sri Lankan record with his spear throw of 85.45 meters.
 
-ඔහු එහිදී නව තරග වාර්තාවක් මෙන්ම නව ශ්‍රී ලංකා වාර්තාවක් ද පිහිටුවනු ලැබීය.
+🟩
 
-රුමේෂ් පිරිමි හෙල්ල විසි කිරීම තරගයේ මීටර් 85.45 ක දක්ෂතාවයක් දක්වා තිබේ.
+Rumesh wave was won the gold medal in the Asian Twentry Championship in South Korea.
+
+He was established and a new Sri Lankan record.
+
+Rumesh's spear throwing up 85.45 meters in the match.
 
 ◼️
 
 [Data](articles/98825915.json)
+
+[Extended Data](ext_articles/98825915.ext.json)
 
 ---
 
@@ -158,19 +166,25 @@ The body is placed at the Jaffna Hospital while Kayts police are conducting furt
 
 ---
 
-### හෙරොයින් මත්කුඩු කිලෝ 150ක් සමග බහුදින ධීවර යාත්‍රාවක් අල්ලයි
+### Multiian fishing vessel arrested with 150 kilograms of heroin
 
 *2024-06-15 09:06:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-මත්කුඩු-කිලෝ-150ක්-සමග-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-410218) · `si`
 
-නාවික හමුදාව විසින් ගැඹුරු මුහුදේ සිදු කල මෙහෙයුමකදී මත්ද්‍රව්‍ය ප්‍රවාහනය කල බවට සැක කෙරෙන මෙරට බහුදින ධීවර යාත්‍රාවක් අත්අඩංගුවට ගත් බව නාවික හමුදාව නිවේදනය කරයි.
+A Sri Lankan Navy arrest of a multi-day fishing vessel, suspected of drug trafficking, resulted in the seizure of 150 kg of heroin. The vessel was intercepted approximately 400 nautical miles off the coast, deep in the Indian Ocean, and brought to Galle Harbor for inspection.
 
-ශ්‍රී ලංකාවට දකුණු දෙසින් නාවික සැතපුම් 400 ක් පමණ දුර ( කිලෝමීටර් 740 ) ගැඹුරු මුහුදේ ඊයේ සවස් කාලයේදී මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
+🟩
 
-මෙම යාත්‍රාව ගාල්ල වරායට රැගෙන ඒමට කටයුතු කර ඇති අතර එහි හෙරොයින් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 150 ක් පමණ තිබෙන බවට සැක කෙරෙන අතර, නාවික හමුදාව විසින් යාත්‍රාවේ අභ්‍යන්තර කොටස් පරීක්ෂා කරමින් පවතී.
+The Navy announced that a multi-day fishing vessel suspected to transport drugs at a deep sea operation in a deep sea operation.
+
+Sri Lanka has arrested about 400 nautical miles (740 km) deep in the deep sea last evening.
+
+The vessel has been brought to the Galle Harbor and is suspected of 150 kilograms of narcotics and the Navy is inspected by the internal components of the vessel.
 
 ◼️
 
 [Data](articles/de9f91f7.json)
+
+[Extended Data](ext_articles/de9f91f7.ext.json)
 
 ---
 

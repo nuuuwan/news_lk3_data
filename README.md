@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 12:53:07**
+As of **2024-06-15 13:04:23**
 
 ## Newspaper Stats
 
-*Scraped **30,487** Articles*
+*Scraped **30,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,771
 dailyftlk | 1,862
 adalk | 2,624
 adaderanalk | 3,455
-tamilmirrorlk | 3,566
+tamilmirrorlk | 3,567
 virakesarilk | 4,679
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,922
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,487 (100.0%) of 30,487 articles have been extended.
+30,487 (100.0%) of 30,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### இலங்கை கிரிக்கெட் சபையின் புதிய யாப்பு
+
+*2024-06-15 12:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-சபையின்-புதிய-யாப்பு/175-338933) · `ta`
+
+இலங்கை கிரிக்கெட் சபையின் புதிய யாப்புக்கான சட்டமூலம் ஜனாதிபதி அலுவலகத்தில் வைத்து  இன்று (15) ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+
+அனைத்து மட்டங்களிலுமான கிரிக்கட் பயிற்சி மற்றும் நிருவாகம் தொடர்பாகவும் கிரிக்கட் சபைக் கட்டமைப்பை மறுசீரமைப்பது தொடர்பிலுமான பரிந்துரைகள் இதனில் உள்ளடங்கியுள்ளன.
+
+◼️
+
+[Data](articles/c9845d52.json)
+
+---
 
 ### SLC's new constitutional draft
 
@@ -2235,21 +2249,5 @@ Echoing Kim’s concerns, Campbell pledged continued co-operation to tackle pote
 [Data](articles/ad692c0e.json)
 
 [Extended Data](ext_articles/ad692c0e.ext.json)
-
----
-
-### US encourages Sri Lanka’s leaders to stay committed to reforms
-
-*2024-06-14 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99878/us-encourages-sri-lankas-leaders-to-stay-committed-to-reforms-) · `en`
-
-The US Ambassador in Colombo Julie Chung says that the United States welcomes the International Monetary Fund’s (IMF) approval of Sri Lanka’s second review of the Extended Fund Facility (EFF) programme.
-
-Taking to ‘X’ (formerly Twitter), the US envoy said while recognizing that reforms can be challenging, the US continues to encourage Sri Lanka’s leaders to stay committed to take needed measures that ensure accountability, transparency, and representative governance, to foster investment and growth.
-
-◼️
-
-[Data](articles/27d22be0.json)
-
-[Extended Data](ext_articles/27d22be0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 00:19:01**
+As of **2024-06-16 00:34:22**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,534 (100.0%) of 30,535 articles have been extended.
+30,535 (100.0%) of 30,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ஆசிய எறிதல் சாம்பியன்ஷிப்பில் இலங்கைக்கு தங்கம்
+### Gold to Sri Lanka at the Asian Throw Championships
 
 *2024-06-15 23:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-எறிதல்-சாம்பியன்ஷிப்பில்-இலங்கைக்கு-தங்கம்/175-338951) · `ta`
 
-அது மாத்திரமன்றி, சுமேத ரணசிங்க மற்றும் தில்ஹானி லேகம் ஆகியோர் வெண்கலப்பதக்கம் வென்று தாயகத்திற்கு பெருமை ஈட்டிக் கொடுத்துள்ளனர்.
+At the Asian Throw Championships, Sri Lanka's Sumeda Ranasinghe and Dilhani Legum won bronze medals, making the country proud. South Korea sponsored the event for the second time. Rumesh Taranga set a new Sri Lankan record with a throw of 85.5 meters in the men's javelin, narrowly missing an Olympic qualification by 5 centimeters. Meanwhile, Sumeda Ranasinghe achieved 77.57 meters, and Dilhani Legamke threw 57.94 meters, both securing bronze medals.
 
-இரண்டாவது தடவையாக நடத்தப்படும் ஆசிய எறிதல் சம்பியன்ஷிப் தொடருக்கான அனுசரணையை தென் கொரியா வழங்குகிறது.
+🟩
 
-ஆடவருக்கான ஈட்டி எறிதல் போட்டியில் ருமேஷ் தரங்க 85.5 மீட்டருக்கு திறமையை வெளிப்படுத்தினார். இது இலங்கை சாதனையாகவும் போட்டி சாதனையாகவும் பதிவானது.
+It is the only one, Sumeda Ranasinghe and Dilhani Legum, who won the bronze medal and made the homeland proud.
 
-எவ்வாறாயினும், 5 சென்டிமீட்டரால் அவர் ஒலிம்பிக் விழாவுக்கான வாய்ப்பை இழந்தார். ஒலிம்பிக் விழாவுக்கு தகுதி பெறுவதாயின், 85.50 மீற்றருக்கு திறமையை வெளிப்படுத்தியிருக்க வேண்டும்.
+South Korea provides sponsorship for the Asian throwing championship for the second time.
 
-இதேவேளை, இந்த போட்டியில் மற்றுமொரு இலங்கை வீரரான சுமேத ரணசிங்க வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 77.57 மீற்றருக்கு திறமையை வெளிப்படுத்தினார்.
+Rumesh Taranga showed up 85.5 meters in a spear throwing competition for men. It was a Sri Lankan record and a competitive record.
 
-மகளிருக்கான ஈட்டி எறிதல் போட்டியில் இலங்கையின் தில்ஹானி லேகம்கே வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 57.94 மீற்றர் தூரத்திற்கு திறமையை வெளிப்படுத்தியுள்ளார். (a)
+However, by 5 centimeters he lost the opportunity for the Olympic Festival. If you qualify for the Olympic Festival, you must showcase 85.50 meters.
+
+Meanwhile, another Sri Lankan player Sumeda Ranasinghe won the bronze medal in this competition. In the competition he showed up for 77.57 meters.
+
+Sri Lanka's Dilhani Legamke won the bronze medal in women's spear throwing competition. In the competition he has expressed 57.94 meters of skills. (A)
 
 ◼️
 
 [Data](articles/0d30b82f.json)
+
+[Extended Data](ext_articles/0d30b82f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 10:06:59**
+As of **2024-06-15 10:18:57**
 
 ## Newspaper Stats
 
-*Scraped **30,477** Articles*
+*Scraped **30,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
-adalk | 2,622
+adalk | 2,623
 adaderanalk | 3,452
 tamilmirrorlk | 3,566
 virakesarilk | 4,679
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,474 (100.0%) of 30,477 articles have been extended.
+30,477 (100.0%) of 30,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ He further elaborated that the Acting Minister participated in the discussions a
 
 [Data](articles/3b13b31a.json)
 
+[Extended Data](ext_articles/3b13b31a.ext.json)
+
 ---
 
-### 150 கிலோ கிராம் போதைப்பொருளுடன் தெற்கு கடல்பரப்பில் 6 பேர் கைது
+### 6 arrested on the southern seas with 150 kg of narcotics
 
 *2024-06-15 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186106) · `ta`
 
-மீன் பிடி இழுவை படகில் 150 கிலோ கிராம் போதைப்பொருளுடன் ஆறு சந்தேக நபர்களை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Six individuals were arrested by the Police Drug Prevention Unit after a naval operation intercepted a fishing boat carrying 150 kg of heroin in the South Sea. The boat was towed to Galle Harbor and impounded.
 
-கடற்படையினரால் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பில் நேற்று வெள்ளிக்கிழமை (14) மாலை  தென் கடல் பகுதியில் 400 கடல் மைல் தொலைவில் ஹெரோயின் கடத்தியதாக சந்தேகிக்கப்பட்ட இழுவை படகு கைப்பற்றப்பட்டது.
+🟩
 
-இந்த இழுவை படகு காலி துறைமுகத்திற்கு கொண்டு வரப்பட்டு சோதனை மேற்கொண்டதில் அதிலிருந்து 150 கிலோகிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+Six suspects have been arrested by the Police Drug Prevention Unit with 150 kg of narcotics in the fishing boat.
 
-இந்நிலையில், படகிலிருந்த 6 பேரை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினர் கைது செய்துள்ளனர்.
+A special roundup carried out by the Navy was seized yesterday (14) evening (14) in the South Sea.
+
+The drag boat was brought to the Galle Harbor and seized 150 kilograms of heroin.
+
+In this case, the police narcotics unit has arrested six people from the boat.
 
 ◼️
 
 [Data](articles/ad797d4f.json)
+
+[Extended Data](ext_articles/ad797d4f.ext.json)
 
 ---
 
@@ -169,6 +177,22 @@ Yoganathan Nitish (17) from Negombo Coast Street and Rajadurai Aravindan (17) fr
 [Data](articles/4d9b82c1.json)
 
 [Extended Data](ext_articles/4d9b82c1.ext.json)
+
+---
+
+### මහා පරිමාණ රුමේනියා රැකියා ජාවාරමක තතු හෙළිවෙයි
+
+*2024-06-15 08:19:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-රුමේනියා-රැකියා-ජාවාරමක-තතු-හෙළිවෙයි/11-410217) · `si`
+
+රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් 6/13 අත්අඩංගුවට ගෙන තිබේ.
+
+මාතර, ගොඩගම පිහිටි විකී ඉන්ටර්නැෂනල් සොලියුෂන්ස් ආයතනයේ හිමිකරු විසින් රුමේනියාවේ රැකියා ලබාදීම සඳහා මුදල් අයකර, එම රැකියා අවස්ථා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 53ක් ලැබී තිබුණු අතර, එම පැමිණිලි අනුව අදාළ සැකකරු වංචාකර ඇති මුදලේ වටිනාකම රුපියල් ලක්ෂ 130ට අධික වේ.
+
+අදාළ රැකියා නියෝජිතායතනය මීට පෙර කාර්යාංශයේ ලියාපදිංචි රැකියා නියෝජිතායතනයක් වන අතර, එම ආයතනයේ රැකියා බලපත්‍රයේ වලංගු කාලය පෙබරවාරි 29 දිනෙන් අවසන් වී ඇති අතර,  යළි එම ආයතනයේ රැකියා බලපත්‍රය අලුත් කර ගැනීමකින් තොරව නීති විරෝධි අයුරින් පවත්වාගෙන ගොස් තිබේ. මෙම ආයතනයට රුමේනියා රැකියා ලබාදීම සඳහා වලංගු රැකියා ඇණවුමක් තිබුණද, පැමිණිලිකරුවන් රැකියා සඳහා යොමුකිරීමට ඔවුන් කටයුතු කර නොමැත.
+
+...
+
+[Data](articles/5d8af54f.json)
 
 ---
 
@@ -340,23 +364,29 @@ In the retail market too seven contributors to the market were Hayleys, Dipped P
 
 ---
 
-### ’தெற்காசியாவின் சிறந்த கல்வி முறை உருவாக்கப்படும்’
+### The best educational system in South Asia
 
 *2024-06-15 01:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசியாவின்-சிறந்த-கல்வி-முறை-உருவாக்கப்படும்/175-338931) · `ta`
 
-கிரிமெட்டியான பௌத்த மகளிர் தேசிய பாடசாலைக்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு மாணவிகளால் சிறப்பு வரவேற்பளிக்கப்பட்டது.
+President Ranil Wickremesinghe visited the Buddhist Women's National School, where he was greeted by students and blessed at the Buddhist Vihara. He handed over a new building to the students and awarded GCE prizes to those who passed the Advanced Level Examination. The President emphasized the government's responsibility in national development and urged unity to achieve rapid progress.
 
-பாடசாலை வளாகத்தில் அமைந்துள்ள பௌத்த விகாரைக்குச் சென்று பூஜை வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதம் பெற்றுக்கொண்ட ஜனாதிபதி, பெயர்ப்பலகையை திரைநீக்கம் செய்து புதிய கட்டடத்தை மாணவர்களிடம் கையளித்தார்.
+🟩
 
-க.பொ.த. உயர்தரப் பரீட்சையில் சித்தியடைந்த கல்லூரி மாணவர்களுக்கான பரிசில்களும் ஜனாதிபதியினால் வழங்கி வைக்கப்பட்டதுடன் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு நினைவுப் பரிசும் வழங்கி வைக்கப்பட்டது.
+President Ranil Wickremesinghe, who visited the Created Buddhist Women's National School yesterday afternoon, was welcomed by the students.
 
-இக்கட்டடத்தின் நிர்மாணிப் பணிகளை முடித்துத் தருமாறு மாணவிகள் விடுத்த வேண்டுகோளுக்கு இணங்க இரண்டு கட்டங்களாக கட்டட நிர்மாணப் பணிகளை நிறைவு செய்யவுள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+The President, who had gone to the Buddhist Vihara, located on the school premises, had been blessed with blessings and handed over the new building to the students.
 
-நாட்டை அபிவிருத்தி செய்வதே அரசாங்கத்தின் பொறுப்பு என ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டியதுடன், கோஷங்களை எழுப்பி காலத்தைக் கடத்தும் காலம் இதுவல்ல என்றும் வலியுறுத்தினார்.
+GCE.. Prizes for college students who have passed the GCE Advanced Level Examination were awarded by the President and a souvenir to President Ranil Wickremesinghe.
+
+The President also stated that the construction of the building will be completed in two phases in accordance with the request of the students to complete the construction work of the building.
+
+President Ranil Wickremesinghe pointed out that the government is responsible for the development of the country and stressed that this is not the time of the abduction of slogans.
 
 ...
 
 [Data](articles/87e3f8f9.json)
+
+[Extended Data](ext_articles/87e3f8f9.ext.json)
 
 ---
 
@@ -2241,27 +2271,5 @@ The request was accepted by the reputed judiciary and the injunction order was o
 [Data](articles/5440a79b.json)
 
 [Extended Data](ext_articles/5440a79b.ext.json)
-
----
-
-### Public Service Commission approves new service constitution for Grama Niladhari Officers
-
-*2024-06-14 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99875/public-service-commission-approves-new-service-constitution-for-grama-niladhari-officers) · `en`
-
-State Minister for Home Affairs, Ashoka Priyantha, announced that the Grama Niladhari Service Constitution has been approved by the Public Service Commission following the approval of the Cabinet Ministers.
-
-He also mentioned that the new constitution allows for necessary amendments.
-
-State Minister Ashoka Priyantha disclosed these details on Thursday (13) during a press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre.
-
-Addressing the media personnel, the state minister further stated that,
-
-“The government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralized allocations.
-
-...
-
-[Data](articles/0b2469cb.json)
-
-[Extended Data](ext_articles/0b2469cb.ext.json)
 
 ---

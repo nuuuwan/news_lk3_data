@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 10:34:37**
+As of **2024-06-15 10:52:56**
 
 ## Newspaper Stats
 
-*Scraped **30,478** Articles*
+*Scraped **30,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,623
-adaderanalk | 3,452
+adaderanalk | 3,453
 tamilmirrorlk | 3,566
 virakesarilk | 4,679
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,478 (100.0%) of 30,478 articles have been extended.
+30,478 (100.0%) of 30,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### Rumesh Tharanga sets new Sri Lanka and meet record at Asian Throwing Championships
+
+*2024-06-15 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99890/rumesh-tharanga-sets-new-sri-lanka-and-meet-record-at-asian-throwing-championships) · `en`
+
+Sri Lanka’s Rumesh Tharanga has renewed the meet record and Sri Lanka record in the Javelin Throw event after clinching the Gold Medal at the Asian Throwing Championships, a short while ago.
+
+Tharanga won gold at the Asian Throwing Championships with the new Sri Lanka record of 85.45m.
+
+The Asian Throwing Championships is being held in South Korea.
+
+◼️
+
+[Data](articles/82a6fc7c.json)
+
+---
 
 ### Railway strike temporarily called off
 
@@ -2251,33 +2267,5 @@ The vehicles of the Colombo Chief Magistrate Thilina Gamage was also ordered to 
 [Data](articles/01a0082d.json)
 
 [Extended Data](ext_articles/01a0082d.ext.json)
-
----
-
-### Court of Justice against Wijayadasa
-
-*2024-06-14 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197746) · `si`
-
-The Colombo District Court, under Judge Chamari Weerasuriya, declined to extend a case involving the SLFP's chairman. Despite requests from Attorney Jayathassa Jayasuriya on behalf of Wijayadasa and Sarath Ekanayake, the court upheld an earlier decision not to extend the case. This decision came after the attorney had previously faced legal issues related to his involvement in the case.
-
-🟩
-
-The Colombo District Court today (14) ordered that the SLFP's Chairman of the SLFP.
-
-The case was taken up before the Colombo Additional District Judge Chamari Weerasuriya today.
-
-The judge said that it would not be extended, so it would not be extended, so it would not be extended.
-
-Attorney-at-Law Jayathassa Jayasuriya, who is nominated as respondents, requested for the president of Wijayadasa and Sarath Ekanayake.
-
-However, when the case was taken up again, the Attorney at the verdict had faced the courts, as he had participated in the case and asked the legal injunction to the case.
-
-The request was accepted by the reputed judiciary and the injunction order was ordered to extend the injunction order on June 28.
-
-◼️
-
-[Data](articles/5440a79b.json)
-
-[Extended Data](ext_articles/5440a79b.ext.json)
 
 ---

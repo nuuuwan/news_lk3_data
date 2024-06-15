@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 17:56:16**
+As of **2024-06-15 18:12:07**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,515 (100.0%) of 30,516 articles have been extended.
+30,516 (100.0%) of 30,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### මොකක්ද මේ mpox ?
+### What is this MPOx?
 
 *2024-06-15 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197792) · `si`
 
-mpox නම් වෛරස් රෝගය වැළඳුනු තවත් පුද්ගලයෙක් දකුණු අප්‍රිකාවේ මියගොස් තිබේ.
+MPOx, a disease, caused the death of two individuals aged 37 and 38 in South Africa within 24 hours. Six cases have been identified in 2024.
 
-ඒ එම රෝගී තත්ත්වයෙන් පැය 24ක් තුළ මියගිය දෙවැනි පුද්ගලයා බව වාර්තා වෙයි.
+🟩
 
-මියගිය පුද්ගලයින් දෙදෙනා වයස අවුරුදු 37 සහ 38 හැවිරිදි වියේ පසුවූවන් ය.
+Another person who has been infected with MPOx has died in South Africa.
 
-මේ දක්වා එරටින් 2024 වසරේදී ආසාදිතයින් 6 දෙනෙක් හමුවී ඇති බව එරට සෞඛ්‍ය බලධාරීන් පැවසීය.
+It is reported that the second person died in 24 hours of the disease.
+
+The two died were aged 37 and 38 years old.
+
+Six infected persons have been found in 2024, in 2024.
 
 ◼️
 
 [Data](articles/2dbacb49.json)
+
+[Extended Data](ext_articles/2dbacb49.ext.json)
 
 ---
 

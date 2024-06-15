@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 19:19:24**
+As of **2024-06-15 19:34:42**
 
 ## Newspaper Stats
 
-*Scraped **30,522** Articles*
+*Scraped **30,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,655
 economynextcom | 1,771
 dailyftlk | 1,863
 adalk | 2,628
-adaderanalk | 3,459
+adaderanalk | 3,460
 tamilmirrorlk | 3,570
 virakesarilk | 4,687
 dailymirrorlk | 4,733
@@ -26,25 +26,49 @@ adaderanasinhalalk | 4,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,521 (100.0%) of 30,522 articles have been extended.
+30,522 (100.0%) of 30,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### බැංකු රැකියාව අතහැර පත්තර පිටුවෙන් ලොව ජයගත් අපූරු තරුණයා
+### Top cop involved in ex-MP Uddika’s ‘staged’ shooting incident flees country?
+
+*2024-06-15 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99898/top-cop-involved-in-ex-mp-uddikas-staged-shooting-incident-flees-country) · `en`
+
+The Assistant Superintendent of Police (ASP) of Anuradhapura Sanjeewa Mahanama, who allegedly aided in the orchestrated shooting at the vehicle of former Anuradhapura District parliamentarian Uddika Premaratne, has reportedly fled the country.
+
+Investigations have uncovered that the suspected police officer has handed over his official firearm to another person at the airport and left the country.
+
+Meanwhile, the Ministry of Public Security states that action will be taken to arrest the relevant suspect as per court orders. The Ministry also mentioned that steps will be taken to record statements from former MP Uddika Premaratne.
+
+On Friday (14), Sri Lanka Police said that it was uncovered that the incident where several gunshots had been fired at the vehicle belonging to former Anuradhapura District parliamentarian Uddika Premaratne, had been orchestrated by the actor-turned-politician himself with the assistance of an Assistant Superintendent of Police (ASP) in the area.
+
+...
+
+[Data](articles/c32cec6d.json)
+
+---
+
+### A wonderful young man who left the bank job and won the world from the newspaper
 
 *2024-06-15 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197794) · `si`
 
-බැංකුවක කළ රැකියාව අතහැර තමන්ගේම ස්වයං නිර්මාණවලින් වෙළෙඳපොළ අතික්‍රමණය කළ දක්ෂ ව්‍යවසායකයෙක් පිළිබඳ මාතරින් අද දෙරණ ට තොරතුරු වාර්තා විය.
+A talented entrepreneur quit his banking job and built his empire through innovative watchtower pages, showcasing his journey on Ada Derana with Nudun Amaratne.
 
-විශේෂත්වය වන්නේ, ඔහුගේ සියලු නිර්මාණ ඉවතලන පත්තර පිටු භාවිතයෙන් සිදුකිරීම ය.
+🟩
 
-අද දෙරණ වෙනුවෙන් නදුන් අබේරත්න ගෙන එන එම අපූර්ව තරුණයාගේ සම්පූර්ණ කතාව ඉහතින් නරඹන්න.
+Ada Derana was reported from Matara with a skilled entrepreneur who abandoned the job at a bank and their own self-creation.
+
+The specialty is to use all his works using the Watchtower pages.
+
+Watch the full story of that wonderful young man who brings Nudun Amaratne for Ada Derana.
 
 ◼️
 
 [Data](articles/33905e66.json)
+
+[Extended Data](ext_articles/33905e66.ext.json)
 
 ---
 
@@ -2255,29 +2279,5 @@ The initiative aims to provide broad access and accessibility to education Sri L
 [Data](articles/bcfb7697.json)
 
 [Extended Data](ext_articles/bcfb7697.ext.json)
-
----
-
-### Re -explanation for 8 people, including Keheliya
-
-*2024-06-14 18:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-8-பேருக்கு-மீண்டும்-விளக்கமறியல்/175-338911) · `ta`
-
-Eight individuals, including ex-health minister Keheliya Rambukwella, were re-explained in court regarding the importation of non-standard human immunoglobulin drugs. The court extended their remand until June 28th after a hearing at the Magistrate's Court.
-
-🟩
-
-Eight suspects, including former health minister Keheliya Rambukwella, have been re -explanated.
-
-Accordingly, the court has ordered the remand till the 28th of June.
-
-The order was issued when the case was taken up for hearing at the Magistrate's Court.
-
-This was stated when the suspects were produced before the court today (14) in connection with the importation of non -standard human immunoglobulin drug.. Remble
-
-◼️
-
-[Data](articles/3a82a727.json)
-
-[Extended Data](ext_articles/3a82a727.ext.json)
 
 ---

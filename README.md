@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 15:53:16**
+As of **2024-06-15 16:05:45**
 
 ## Newspaper Stats
 
@@ -26,53 +26,71 @@ adaderanasinhalalk | 4,928
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,503 (100.0%) of 30,506 articles have been extended.
+30,506 (100.0%) of 30,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### උකස් මධ්‍යස්ථානයේ කොල්ලය වැළකූ සේවිකාවගේ නුවණ
+### The pot of the mortgage center is discreet
 
 *2024-06-15 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197786) · `si`
 
-මොරටුමුල්ල ප්‍රදේශයේ උකස් ආයතනයකට අද (15) උදෑසන යතුරුපැදියකින් පැමිණි දෙදෙනෙකු එය මංකොල්ලකෑමට උත්සාහ කර ඇතැයි පොලීසිය පවසයි.
+In Moratuwa, two individuals tried to rob a mortgage center today. They arrived on a motorcycle and threatened an employee with a bottle before fleeing. The staff quickly alerted the police.
 
-එම ආයතනයේ ආරක්ෂක නිලධාරියාව බියකර තවත් අයෙකු බෝතලයක් වැනි දෙයකින් එහි සේවිකාව බියගන්වා ඇති අතර එහිදී සේවිකාවන් විසින් පොලිස් ස්ථානවල දැනුම්දෙන සීනුව නාද කර තිබුණි.
+🟩
+
+Two people who had come from a motorbike in the Moratuwa area have attempted to rob it this morning.
+
+Another person's employee was intimidated by a bottle, and the employees were ringing in police stations.
 
 ◼️
 
 [Data](articles/7487dc18.json)
 
+[Extended Data](ext_articles/7487dc18.ext.json)
+
 ---
 
-### அடுத்த வாரம் இலங்கை வருகிறார் இந்திய வெளிவிவகார அமைச்சர்
+### The Indian Foreign Minister is coming to Sri Lanka next week
 
 *2024-06-15 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186140) · `ta`
 
-இந்திய வெளிவிவகார அமைச்சர்  கலாநிதி எஸ்.ஜெய்சங்கர் உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு 20ஆம் திகதி இலங்கை வரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Dr. S. Jaishankar, India's External Affairs Minister, visits Sri Lanka on the 20th, focusing on reviving development projects via Indian investments.
 
-அவர், இந்த வியஜயத்தின் போது இலங்கையில் இந்திய முதலீடுகள் மூலம் மேற்கொள்ளப்படும் அபிவிருத்தித் திட்டங்களை விரைவாக மீண்டும் ஆரம்பிப்பது தொடர்பில்  கவனம் செலுத்துவார் என தெரிவிக்கப்படுகிறது.
+🟩
+
+Indian External Affairs Minister Dr. S. Jaishankar has made an official visit to Sri Lanka on the 20th.
+
+It is reported that during this amazement, he will focus on the resumption of development projects in India through Indian investments in Sri Lanka.
 
 ◼️
 
 [Data](articles/059dab7e.json)
 
+[Extended Data](ext_articles/059dab7e.ext.json)
+
 ---
 
-### திருகோணமலை ஸாஹிரா கல்லூரியில் 70 மாணவர்களின் பெறுபெறுகளை இடைநிறுத்திய பரீட்சைகள் திணைக்களம் ; ஆளுநர் செந்தில் தொண்டமானிடம் முறைப்பாடளித்த மாணவர்கள்
+### The Department of Examinations suspected of the results of 70 students at Zahira College, Trincomalee;Students who complained to Governor Senthil Thondaman
 
 *2024-06-15 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186144) · `ta`
 
-திருகோணமலை ஸாஹிரா கல்லூரியின் 70 இற்கும் மேற்பட்ட மாணவர்களின் உயர்தர பெறுபேறுகள் பரீட்சைகள் திணைக்களத்தால் இடைநிறுத்தப்பட்ட விவகாரம் குறித்து கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானிடம் குறித்த மாணவர்கள் இன்று சனிக்கிழமை முறைப்பாடு செய்தனர்.
+Zahira College, Trincomalee students complained to Governor Senthil Thondaman about their exam results being suspended due to not adhering to exam rules. The Department of Examinations confirmed the suspension. Governor Thondaman promised to address the issue with the department to find a solution.
 
-பரீட்சைகள் திணைகளத்தின் விதிமுறைகளுக்கு அமைவாக  காதுகளை மறைத்து பர்தா அணிந்து பரீட்சை எழுத முடியாத நிலையில், இம்மாணவர்கள்  அவ்வாறு பரீட்சைகள் எழுதியதால் பெறுபேறுகள் இடைநிறுத்தப்பட்டதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. இதனால் தாம் எதிர்கொண்டுள்ள இக்கட்டான நிலைமை குறித்து ஆளுநரின் கவனத்துக்கு கொண்டவந்த மாணவர்கள், தமக்கு உரிய தீர்வை பெற்றுதர நடவடிக்கைகைள எடுக்குமாறும் கோரிக்கை விடுத்தனர்.
+🟩
 
-மாணவர்களின் கோரிக்கைகளை ஏற்றுக்கொண்ட ஆளுநர் செந்தில் தொண்டமான், அவர்களுடைய பிரச்சினைகள் குறித்து பரீட்சைகள் திணைக்களத்துடன் கலந்துரையாடி உரிய தீர்வை பெற்றுத்தருவதாக மாணவர்களிடம் உறுதியளித்தார்.
+Students lodged a complaint with the Governor of the Eastern Province Senthil Thondaman on Saturday regarding the suspension of the high -quality results of the Zahira College, Trincomalee.
+
+The Department of Examinations said that the results were suspended as they wrote the exams as they could not write the exams in accordance with the rules of the exams.. The students, who have been at the attention of the governor, have demanded that they take action to find a solution for them.
+
+Governor Senthil Thondaman accepted the demands of the students and assured the students that they would discuss their problems with the Department of Examinations and get a proper solution.
 
 ◼️
 
 [Data](articles/2bfc4ff0.json)
+
+[Extended Data](ext_articles/2bfc4ff0.ext.json)
 
 ---
 
@@ -572,7 +590,7 @@ The March data are not performance criteria on which reviews are conducted but a
 
 An indicative target for the primary balance (roughly overall deficit minus interest costs), was assessed at 316 billion rupees more than four times the 70 billion rupee target set in the program.
 
-Primary balance can be a big surplus if the interest bill is high and capital expenditure is cut and is a type of crisis management tool after a central bank triggers a currency crisis by cutting rates with inflationary liquidity tools.
+Primary balance can be a big surplus if the interest bill is high and capital expenditure is cut. It is a type of crisis management measure used by the IMF, after a central bank triggers a currency crisis by cutting rates with inflationary liquidity tools and goes it for help.
 
 ...
 

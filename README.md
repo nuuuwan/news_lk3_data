@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 17:04:20**
+As of **2024-06-15 17:19:16**
 
 ## Newspaper Stats
 
-*Scraped **30,513** Articles*
+*Scraped **30,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,771
 dailyftlk | 1,863
-adalk | 2,626
+adalk | 2,627
 adaderanalk | 3,459
 tamilmirrorlk | 3,568
 virakesarilk | 4,686
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,512 (100.0%) of 30,513 articles have been extended.
+30,513 (100.0%) of 30,514 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -421,6 +421,28 @@ G7 leaders have accused Russia of retaining Russia's continuing support for Russ
 [Data](articles/59dd85ab.json)
 
 [Extended Data](ext_articles/59dd85ab.ext.json)
+
+---
+
+### ලබන සතියේදි බංකොලොත් බවෙන් නිදහස්
+
+*2024-06-15 13:16:20* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සතියේදි-බංකොලොත්-බවෙන්-නිදහස්/11-410221) · `si`
+
+අනාගතයට ගැළපෙන දකුණු ආසියාවේ හොඳම අධ්‍යාපන ක්‍රමය රට තුළ නිර්මාණය කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ හලාවත කිරිමැටියාන බෞද්ධ බාලිකා ජාතික පාසලේ අභිනවයෙන් ඉදිකරන ලද තෙමහල් ගොඩනැඟිල්ලේ පළමු අදියර සිසු අයිතියට පත් කිරීමේ උත්සවයට එක්වෙමිනි.
+
+දුෂ්කර ආර්ථික තත්ත්වයක් හමුවේ වුවද අධ්‍යාපනය වෙනුවෙන් ලබාදිය යුතු ප්‍රතිපාදන වෙන් කිරීමට රජය කටයුතු කළ බව මෙහිදී පැවසූ ජනාධිපතිවරයා රටේ ශක්තිය අධ්‍යාපනය වන බවද අවධාරණය කළේය.
+
+නව පන්තිකාමර නිරීක්ෂණය කිරීමට ද එක් වු ජනාධිපතිවරයා සිසු දරුවන් සමඟ සුහද කථා බහක ද නිරත විය.
+
+අපොස උසස් පෙළ විභාගයෙන් ඉහළ දක්ෂතා දැක්වූ විද්‍යාලයේ සිසුවියන් වෙත තිළිණ ප්‍රදානය කිරීමද ජනාධිපතිවරයා අතින් සිදු වූ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ද සිහිවටන තිළිණයක් පිළිගැන්විණ.
+
+මෙම නව ගොඩනැඟිල්ලේ පළමු අදියර වෙනුවෙන් රුපියල් මිලියන 450ක මුදලක් වැය කර තිබෙන අතර, එම මුදල රජය සහ දෙමාපියන් විසින් ලබා දී තිබිණි.
+
+...
+
+[Data](articles/4c52a8a0.json)
 
 ---
 
@@ -1586,6 +1608,8 @@ The political parties and political alliances are in a major strategic endeavour
 
 [Data](articles/9a6a57f3.json)
 
+[Extended Data](ext_articles/9a6a57f3.ext.json)
+
 ---
 
 ### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
@@ -2225,23 +2249,5 @@ Speaking about the film, director Rahul Kapali said, “This film will give you 
 [Data](articles/cbd39abc.json)
 
 [Extended Data](ext_articles/cbd39abc.ext.json)
-
----
-
-### Sri Lanka’s economy to expand by 2.2% in 2024 – World Bank
-
-*2024-06-14 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99881/sri-lankas-economy-to-expand-by-22-in-2024-world-bank) · `en`
-
-Sri Lanka’s economy is expected to expand by 2.2 percent in 2024, according to the World Bank’s latest Global Economic Prospects report issued on Friday (14).
-
-The report indicates that this is a 0.5-percentage-point upward revision from January—supported by modest recoveries in remittances and tourism.
-
-Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen further, reaching 3% in 2026, assuming successful debt restructuring negotiations and the implementation of structural reforms, which would offset the adverse impact of planned fiscal consolidation on growth.
-
-...
-
-[Data](articles/7c567899.json)
-
-[Extended Data](ext_articles/7c567899.ext.json)
 
 ---

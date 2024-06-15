@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 12:06:01**
+As of **2024-06-15 12:19:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,483 (100.0%) of 30,487 articles have been extended.
+30,487 (100.0%) of 30,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් නව ව්‍යවස්ථා කෙටුම්පත ජනාධිපතිට
+### SLC's new constitutional draft
 
 *2024-06-15 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197780) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නව ව්‍යවස්ථා කෙටුම්පත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත භාරදී තිබේ.
+Sri Lanka Cricket's new constitution, drafted by retired judge K.T. Chitrasiri, aims to restructure its composition and structure. It has been submitted to President Ranil Wickremesinghe.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සංයුතිය සහ ව්‍යුහය ප්‍රතිව්‍යුහගත කිරීමටත් ඉන් යෝජනා කර ඇති අතර එම වාර්තාව අද (15) ජනාධිපතිවරයාට භාරදුන්නේය.
+🟩
 
-විශ්‍රාමික විනිසුරු කේ. ටී. චිත්‍රසිරි මහතා ප්‍රමුඛ කමිටුවක් මගින් එම නව ව්‍යවස්ථා කෙටුම්පත සැකසීය.
+Sri Lanka Cricket's new constitution has been handed over to President Ranil Wickremesinghe.
+
+It has proposed to restructure the composition and structure of Sri Lanka Cricket and the report has been handed over to the President this day.
+
+Retired Judge K. T. The new constitution was formed by Mr. Chitrasiri.
 
 ◼️
 
 [Data](articles/58926468.json)
+
+[Extended Data](ext_articles/58926468.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ The key recommendations of the draft included enhancing administration, training
 ◼️
 
 [Data](articles/8a11610f.json)
+
+[Extended Data](ext_articles/8a11610f.ext.json)
 
 ---
 
@@ -149,6 +157,8 @@ Primary balance can be a big surplus if the interest bill is high and capital ex
 ...
 
 [Data](articles/fc8984a6.json)
+
+[Extended Data](ext_articles/fc8984a6.ext.json)
 
 ---
 
@@ -465,6 +475,8 @@ Instead of printing money to cut rates under ‘flexible inflation targeting’ 
 ...
 
 [Data](articles/3bf191c4.json)
+
+[Extended Data](ext_articles/3bf191c4.ext.json)
 
 ---
 

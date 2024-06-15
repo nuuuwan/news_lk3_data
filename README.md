@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 13:04:23**
+As of **2024-06-15 13:19:12**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,487 (100.0%) of 30,488 articles have been extended.
+30,488 (100.0%) of 30,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### இலங்கை கிரிக்கெட் சபையின் புதிய யாப்பு
+### New York of the Sri Lanka Cricket Board
 
 *2024-06-15 12:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-சபையின்-புதிய-யாப்பு/175-338933) · `ta`
 
-இலங்கை கிரிக்கெட் சபையின் புதிய யாப்புக்கான சட்டமூலம் ஜனாதிபதி அலுவலகத்தில் வைத்து  இன்று (15) ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+The Sri Lanka Cricket Board presented a new bill to President Ranil Wickremesinghe, focusing on cricket training, administration improvements, and the board's rehabilitation.
 
-அனைத்து மட்டங்களிலுமான கிரிக்கட் பயிற்சி மற்றும் நிருவாகம் தொடர்பாகவும் கிரிக்கட் சபைக் கட்டமைப்பை மறுசீரமைப்பது தொடர்பிலுமான பரிந்துரைகள் இதனில் உள்ளடங்கியுள்ளன.
+🟩
+
+The new Bill of the Sri Lanka Cricket Board was handed over to President Ranil Wickremesinghe today (15) at the Presidential Office.
+
+This includes recommendations on cricket training and administration at all levels and the rehabilitation of the Cricket Board.
 
 ◼️
 
 [Data](articles/c9845d52.json)
+
+[Extended Data](ext_articles/c9845d52.ext.json)
 
 ---
 

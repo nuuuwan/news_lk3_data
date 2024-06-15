@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 08:11:42**
+As of **2024-06-15 08:20:39**
 
 ## Newspaper Stats
 
-*Scraped **30,466** Articles*
+*Scraped **30,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,449
 tamilmirrorlk | 3,563
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,916
+adaderanasinhalalk | 4,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,466 (100.0%) of 30,466 articles have been extended.
+30,466 (100.0%) of 30,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### කොළඹ රියදුරන්ට දැනුම්දීමක්
+
+*2024-06-15 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197775) · `si`
+
+කොහුවල මංසන්ධියේ ඉදිවන ගුවන් පාලමේ ඉදිරි ඉදිකිරීම් කටයුතු හේතුවෙන් අද (15) සිට එම මාර්ගයේ වාහන ගමනාගමනය සීමා කිරීමට කටයුතු කරන බව පොලීසිය පවසයි.
+
+මාස 02ක කාලයක් අදාළ මාර්ගයේ වාහන ගමනාගමනය මෙලෙස සීමාකරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියොජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා ප්‍රකාශ කාළේය.
+
+"කොළඹ සිට පිළියන්දල දක්වා ගමන් කරන මාර්ගයේ කොහුවල මංසන්ධියේ ස්ථාපිත කරමින් පවතින ගුවන් පාලමේ අලුත්වැඩියා කටයුතු ආරම්භ කරමින් පවතිනවා. අගෝස්තු මස 15 වනදා දක්වා එම කටයුතු සිදුකරනවා. එමනිසා මාර්ග තදබදයක් ඇති වෙන්න පුළුවන් ඒ මංසන්ධිය අවට. ඒ නිසා විකල්ප මාර්ග භාවිත කරලා ගමන් පහසුව සලසා ගන්න. "
+
+◼️
+
+[Data](articles/97d65f05.json)
+
+---
 
 ### Notification of a strike
 
@@ -2249,25 +2265,5 @@ The body of the girl has been placed at the Mannar District General Hospital. Mu
 [Data](articles/2aa968f6.json)
 
 [Extended Data](ext_articles/2aa968f6.ext.json)
-
----
-
-### Person arrested for bribery attempt inside police station
-
-*2024-06-14 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99874/person-arrested-for-bribery-attempt-inside-police-station) · `en`
-
-An individual has been apprehended last night (June 13) for allegedly attempting to bribe police officers at the Nagollagama Police Station to secure the release of two arrested suspects.
-
-The individual had offered a bribe of Rs. 50,000 to secure the release of two suspects detained for possessing drugs, according to police.
-
-The person arrested for the bribery attempt is a resident of Hiriyala, Ambagaswewa. The two suspects, aged 20 and 28, are from the same locality, the police dded
-
-Police said that all three suspects are scheduled to be produced before the Mahawa Magistrate’s Court today (14).
-
-◼️
-
-[Data](articles/5dccf05a.json)
-
-[Extended Data](ext_articles/5dccf05a.ext.json)
 
 ---

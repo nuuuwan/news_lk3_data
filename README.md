@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 16:51:19**
+As of **2024-06-15 17:04:20**
 
 ## Newspaper Stats
 
-*Scraped **30,512** Articles*
+*Scraped **30,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,771
-dailyftlk | 1,862
+dailyftlk | 1,863
 adalk | 2,626
 adaderanalk | 3,459
 tamilmirrorlk | 3,568
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,509 (100.0%) of 30,512 articles have been extended.
+30,512 (100.0%) of 30,513 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ The relaxation of restrictions will begin with vehicles used for public transpor
 
 [Data](articles/f98b971b.json)
 
+[Extended Data](ext_articles/f98b971b.ext.json)
+
 ---
 
-### පිළිකාවෙන් බේරුණු කේට්
+### Kate saved from cancer
 
 *2024-06-15 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197790) · `si`
 
-බ්‍රිතාන්‍යයේ වේල්ස් කුමරිය මාස පහකට පමණ පසු පළමුවරට මහජන උත්සවයක් සඳහා අද (15) එක් වූවාය.
+Kate, the Princess of Britain, celebrated her recovery from cancer surgery with her family at the Trooping the Color parade, marking five months since her treatment.
 
-මීට මාස 5කට පමණ පෙර ඇය පිළිකාවක් හේතුවෙන් ශල්‍ය කර්මයකට මුහුණ දුන්නාය.
+🟩
 
-චාල්ස් රජුගේ උපන් දිනය නිමිත්තෙන් පැවැත්වෙන "Trooping the Colour" නම් වාර්ෂිකව පැවැත්වෙන හමුදා පෙළපාලියක සිය දරුවන් තිදෙනා සමග අශ්ව රථයක කේට් කුමරිය ගමන් කළාය.
+Princess of the British, Britain, was one of five months after a public ceremony today (15).
+
+About 5 months ago, she faced surgery due to cancer.
+
+The "Trooping the Color" of King Charles was a 'TROOPING THE COLOR', a military parade, a chariot march with her three children.
 
 ◼️
 
 [Data](articles/79a75bc3.json)
+
+[Extended Data](ext_articles/79a75bc3.ext.json)
 
 ---
 
@@ -83,6 +91,8 @@ A video of the catapult in action was posted on social media on Wednesday. CNN c
 ...
 
 [Data](articles/a0059db1.json)
+
+[Extended Data](ext_articles/a0059db1.ext.json)
 
 ---
 
@@ -1564,6 +1574,22 @@ Moreover, I would like to point out that I am ready to support such a candidate 
 
 ### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
 
+*2024-06-14 23:40:14* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-s-leadership-qualities-Reply-to-Shantha-Jayarathne/4-763102) · `en`
+
+A reply to the write up published in the DFT on 4 June 2024 under the heading ‘Sajith Premadasa’s leadership qualities: A critique’ by Shantha Jayarathne (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa%E2%80%99s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.)
+
+The election fever is heating up in an unprecedented and virulent manner day in and day out despite the Presidential election being almost five months away and the Election Commission is still to announce the day to accept nominations.
+
+The political parties and political alliances are in a major strategic endeavour to overtake their rival political parties to ensure the victory at the polls. Many of them have no hesitation whatsoever to attack each other with hyperbolised comments and extremely vituperative, malicious and unfounded allegations more often than not, to score a few brownie points over their opponent.
+
+...
+
+[Data](articles/9a6a57f3.json)
+
+---
+
+### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
+
 *2024-06-14 23:40:14* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-Reply-to-Shantha-Jayarathne/14-763102) · `en`
 
 A reply to the write up published in the DFT on 4 June 2024 under the heading ‘Sajith Premadasa’s leadership qualities: A critique’ by Shantha Jayarathne (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa%E2%80%99s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.)
@@ -2217,31 +2243,5 @@ Meanwhile, it highlights that in 2025-2026, growth is projected to strengthen fu
 [Data](articles/7c567899.json)
 
 [Extended Data](ext_articles/7c567899.ext.json)
-
----
-
-### Attan New Railway Station will soon open for passengers
-
-*2024-06-14 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186084) · `ta`
-
-The Attan New Railway Station, initiated by Palani Digambaram in 2017, is nearing completion after being stalled since 2019. Ajith Manapperuma, a Member of Parliament, recently inspected the site, discussing its reopening with officials from the Urban Development Authority and the Railway Department. The project, initially costing Rs 40 crore, aims to resume operations soon under the Railway Department's supervision, with plans to involve the private sector for further construction.
-
-🟩
-
-Palani Digambaram, the president of the National Association and former Minister of the Workers' Union, has begun the 2017 Attan New Railway Building Building for the public to use for the public.
-
-Ajith Manapperuma, Member of Parliament of the Economic Development and Parliamentary Monitoring Committee, visited the Attan Railway Station on Thursday (13).
-
-Meanwhile, the Member of Parliament who conducted the field inspection was discussed with the Urban Development Authority and the Railway Department officials on the steps to start the new railway station for the first time.
-
-His parliamentary inspector and former member of the Central Provincial Council, S. Sridharan and former Chairman of the Attan -Dikoya Urban Council, Dr Alagumuthu Nandakumar were also present.
-
-The program, which started at a cost of Rs 40 crore in the government of goodwill, has not been continued since 2019.
-
-...
-
-[Data](articles/d1af8335.json)
-
-[Extended Data](ext_articles/d1af8335.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 19:04:30**
+As of **2024-06-15 19:19:24**
 
 ## Newspaper Stats
 
-*Scraped **30,521** Articles*
+*Scraped **30,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,459
 tamilmirrorlk | 3,570
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,935
+adaderanasinhalalk | 4,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,520 (100.0%) of 30,521 articles have been extended.
+30,521 (100.0%) of 30,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### බැංකු රැකියාව අතහැර පත්තර පිටුවෙන් ලොව ජයගත් අපූරු තරුණයා
+
+*2024-06-15 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197794) · `si`
+
+බැංකුවක කළ රැකියාව අතහැර තමන්ගේම ස්වයං නිර්මාණවලින් වෙළෙඳපොළ අතික්‍රමණය කළ දක්ෂ ව්‍යවසායකයෙක් පිළිබඳ මාතරින් අද දෙරණ ට තොරතුරු වාර්තා විය.
+
+විශේෂත්වය වන්නේ, ඔහුගේ සියලු නිර්මාණ ඉවතලන පත්තර පිටු භාවිතයෙන් සිදුකිරීම ය.
+
+අද දෙරණ වෙනුවෙන් නදුන් අබේරත්න ගෙන එන එම අපූර්ව තරුණයාගේ සම්පූර්ණ කතාව ඉහතින් නරඹන්න.
+
+◼️
+
+[Data](articles/33905e66.json)
+
+---
 
 ### Sri Lanka women's group beat Sri Lanka
 
@@ -570,19 +586,27 @@ G7 leaders have accused Russia of retaining Russia's continuing support for Russ
 
 ---
 
-### ලබන 26 හා 27 දා රුසියාවේදී විශේෂ සාකච්ඡාවක්
+### Special discussion in Russia on the 26th and 27
 
 *2024-06-15 13:21:05* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-26-හා-27-දා-රුසියාවේදී-විශේෂ-සාකච්ඡාවක්/11-410222) · `si`
 
-රුසියාවේ හමුදා කටයුතු සඳහා යොදාගෙන සිටින ශ්‍රී ලාංකික හිටපු හමුදා සාමාජිකයන් නැවත මෙරටට ගෙන්වා ගැනීම සඳහා කටයුතු කිරීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය ප්‍රමුඛ දූත පිරිසක් රුසියාවේ සංචාරය කිරීමට නියමිත බවත් ඊට අදාළ සාකච්ඡා ජූනි මස 26 සහ 27 යන දිනවල පැවැත්වෙන බවත් විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පැවසීය.
+A special discussion in Russia on June 26 and 27 involves restoring Sri Lankan military members using Russian military personnel. Foreign Minister Ali Sabri plans to visit Russia to explore BRICS involvement in Sri Lanka. He expects Indian Foreign Minister visits soon, post-Prime Minister Narendra Modi's successful meeting with President Ranil Wickremesinghe. Sri Lanka has successfully completed the second IMF review, paving the way for the third installment. Debt restructuring is nearing completion, with potential MOUs for managing debt with foreign countries. A visit to Japan is planned to resume halted development projects, following an agreement with bilateral official creditors. Additionally, discussions are underway to rescue Sri Lankans in Myanmar.
 
-බ්‍රික්ස් සංවිධානයට ශ්‍රී ලංකාව සම්බන්ධ විය යුතු ද යන්න පිළිබඳව තීරණයක් ගැනීම සඳහා ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල පත්‍රිකාව සම්බන්ධයෙන් අධ්‍යයනය කිරීමට නිලධාරීන් පිරිසක් පත්කර තිබෙන අතර ඔවුන්ගේ වාර්තාව මෙම මස ලැබීමට නියමිත බව ද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of External Affairs is to visit Russia to restore Sri Lankan military members who are using Sri Lankan military members using Russian military personnel.Said Sabri said.
+
+He has appointed a group of officers to study the Cabinet paper to decide whether the BRICS should take part in Sri Lanka.
+
+Foreign Minister Ali Sabri said this at a press conference held at the President's Media Center for
+
+President Ranil Wickremesinghe recently attended the Prime Minister Narendra Modi. We hope that the Indian Foreign Minister will visit Sri Lanka this month. It is believed that the visit of the Indian Prime Minister will soon come soon.
 
 ...
 
 [Data](articles/253ea719.json)
+
+[Extended Data](ext_articles/253ea719.ext.json)
 
 ---
 
@@ -2255,25 +2279,5 @@ This was stated when the suspects were produced before the court today (14) in c
 [Data](articles/3a82a727.json)
 
 [Extended Data](ext_articles/3a82a727.ext.json)
-
----
-
-### Two exams released
-
-*2024-06-14 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197763) · `si`
-
-Results for the Teachers Vidyalaya's 2020/2021 final exam and non-graduate teacher training courses have been announced by Commissioner General of Examinations, Amitith Jayasundara.
-
-🟩
-
-Commissioner General of Examinations, Amitith Jayasundara has said that the results of two examinations have been released.
-
-Issuing a statement, he said that the final examination of the Teachers Vidyalaya is 2020/2021 (2023) and the results of the training courses for non-graduate unknown teachers.
-
-◼️
-
-[Data](articles/1d29a80a.json)
-
-[Extended Data](ext_articles/1d29a80a.ext.json)
 
 ---

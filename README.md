@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 20:04:12**
+As of **2024-06-15 20:20:24**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,524 (100.0%) of 30,525 articles have been extended.
+30,525 (100.0%) of 30,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් සභාපති පුටුවට ඡන්දයක් නෑ - (Exclusive)
+### Sri Lanka Cricket has no vote for chair - (exclusive)
 
 *2024-06-15 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197796) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සඳහා නව ව්‍යවස්ථාවක් සැකසීමට පත්කළ "විනිසුරු චිත්‍රසිරි කමිටු" වාර්තාව අද (15) ජනාධිපතිවරයාට භාර දුන්නේය.
+The Justice Cardisiri Committee recommended changes to Sri Lanka Cricket's constitution, including direct election of the chairman by the International Cricket Board and excluding sports associations from the process. The committee also suggested involving more international cricketers in decision-making roles. This comes after the Sri Lanka Cricket team's early exit from the 20-20 World Cup and controversy surrounding player selections. The report aims to improve governance, transparency, and fairness in cricket, focusing on meritocracy and inclusivity across all levels of the sport.
 
-එමගින් නිර්දේශ කර ඇත්තේ, ක්‍රිකට් සභාපතිවරයා තෝරාගැනීම ක්‍රීඩා සංගම් ඡන්දයෙන් සිදුනොකළ යුතු බවයි.
+🟩
 
-එමෙන්ම, 18 දෙනකුගෙන් සමන්විත ක්‍රිකට් නිලධාරී මණ්ඩලයට ජාත්‍යන්තර ක්‍රිකට් ක්‍රිඩාවේ නිරත වූ ක්‍රීඩකයින් පස්දෙනෙකු ඇතුළු විය යුතු බවද විනිසුරු චිත්‍රසිරි කමිටු වාර්තාවේ වැඩිදුරටත් සඳහන්ය.
+The "Justice Cardisiri Committee" report was handed over to the President today (Judg) to form a new constitution to Sri Lanka Cricket.
 
-තවත් අසාර්ථක තරගාවලියක් නිමා කළ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ඉතිහාසයේ පළමු වරට 20-20 ලෝක  කුසලාන තරගාවලියක පළමු වටයෙන්ම ඉවත්විමට මෙවර සිදු විය.
+It is recommended that the selection of the Cricket Chairman should not be done by the Sports Associations.
 
-එමෙන්ම පසුගිය වසරේ පැවති ආසියානු කුසලානයේ අවසන් මහා තරගයේදී සහ ඉන්දියාවේ පැවති එක්දින ලෝක කුසලාන තරගාවලියේදී ද ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ දැවැන්ත පසුබෑමත් සමඟ ක්‍රීඩකයින්ට මෙන්ම ක්‍රිකට් පරිපාලනයටත් දැඩි විරෝධයක් එල්ල වුණි.
+The Report of the Pictasiri Committee added that five players playing international cricket board should enter international cricket board.
 
-එවක ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා ක්‍රිකට් පරිපාලනය වෙනස් කරමින් පසුගිය වසරේ නොවැම්බර් 5 වැනිදා ගැසට් නිවේදනයක් මගින් අන්තර් පාලන මණ්ඩලයක් පත්කළ අතර පසුදින අභියාචනාධිකරණයෙන් ඊට වාරණයක් නිකුත් කළේය.
+The Sri Lanka Cricket team, which was completed, has come to leave the first 20-20 World Cup competition in history.
+
+The Sri Lankan cricket team was also strongly opposed to players and cricketers in the final Asia Trophy.
+
+At that time, Minister of Sports Roshan Ranasinghe was appointed by a gazette notification on November 5 last year and issued a censorship by the Court of Appeal.
+
+At the Cabinet at the same day, a Cabinet sub-committee comprising Minister Dhanaw Wijesara, Manusan Wijesekara, Manusan Wijesara, Manusanasara Nanayakkara and Tiran Alles chaired by Minister Ali Sabri.
 
 ...
 
 [Data](articles/9db59220.json)
+
+[Extended Data](ext_articles/9db59220.ext.json)
 
 ---
 

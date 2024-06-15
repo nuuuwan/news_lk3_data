@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 07:23:00**
+As of **2024-06-15 07:46:34**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,461 (100.0%) of 30,462 articles have been extended.
+30,462 (100.0%) of 30,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### අද කාලගුණය - ධීවර හා නාවික ප්‍රජාවට දැනුම්දීමක්
+### Weather - Introduction to Fisheries and Marine Community
 
 *2024-06-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197772) · `si`
 
-අද (15) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+The Met Department warns of strong winds (40-50 km/h) in Western, Sabaragamuwa, Northwestern, Central Hills, Trincomalee, Hambantota, and Moneragala districts. Showers expected in sea areas from Puttalam to Matara. Winds around the island may reach 60 km/h at times. Sea areas near Kankasanthurai to Mannar and Hambantota to Pottuvil could be rough. Fisheries and marine communities advised to stay alert.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+🟩
 
-මේ අතර, පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකි බව සඳහන් වේ.
+The Met Department has announced several times in the Western, Sabaragamuwa and Northwestern provinces and in the Western, Sabaragamuwa and North Western Provinces.
 
-දිවයින වටා වන මුහුදු ප්‍රදේශ වල සුළං නිරිත දිශාවෙන් හමා එන අතර කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. (35-45) පමණ වේ.
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
 
-මෙම මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. 60 දක්වා වැඩි විය හැකි බව දන්වා ඇත.
+Meanwhile, there will be showers in a few places in the sea areas off the coast extending from Puttalam to Matara through Matara.
 
-මඩකලපුව සිට ත්‍රිකුණාමලය හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. (25-35) පමණ වේ.
+Winds are blown in the sea areas around the island and windster areas from Kankasanthurai to Mannar and from Hambantota to Pottuvil.. Is about (35-45).
+
+Winds of winds are at times.. It has been informed that it is up to 60.
+
+Winds from Batticaloa to Trincomalee via Kankasanthurai and from Puttalam to Hambantota via Hambantota via Hambantota.. Is about (25-35).
+
+Winds of winds are at times.. May increase to 50.
+
+The sea areas off the Kankesanthurai to Mannar and the coast extending from the coast to Pottuvil can be rough.
 
 ...
 
 [Data](articles/2ec26987.json)
+
+[Extended Data](ext_articles/2ec26987.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 10:52:56**
+As of **2024-06-15 11:04:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,478 (100.0%) of 30,479 articles have been extended.
+30,479 (100.0%) of 30,479 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Asian Throwing Championships is being held in South Korea.
 ◼️
 
 [Data](articles/82a6fc7c.json)
+
+[Extended Data](ext_articles/82a6fc7c.ext.json)
 
 ---
 

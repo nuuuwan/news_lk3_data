@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 18:35:12**
+As of **2024-06-15 18:53:15**
 
 ## Newspaper Stats
 
-*Scraped **30,519** Articles*
+*Scraped **30,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,863
 adalk | 2,627
 adaderanalk | 3,459
 tamilmirrorlk | 3,570
-virakesarilk | 4,686
+virakesarilk | 4,687
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,935
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,519 (100.0%) of 30,519 articles have been extended.
+30,519 (100.0%) of 30,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,26 @@ His final Twenty Twenty World Cup will be recorded in the competition with Papua
 [Data](articles/761f0a83.json)
 
 [Extended Data](ext_articles/761f0a83.ext.json)
+
+---
+
+### இலஞ்சம் பெற்ற நீர்ப்பாசன திணைக்கள எந்திரியும் அவரின் சாரதியும் விளக்கமறியலில்
+
+*2024-06-15 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186148) · `ta`
+
+அம்பாறை, அக்கரைப்பற்றில் காணி ஒன்றில் மண் நிரப்புவதற்கு அனுமதி வழங்க 2 இலட்சம் ரூபாவை இலஞ்சமாக பெற்ற நீர்ப்பாசன திணைக்கள எந்திரியும், அவரின் வாகன சாரதியும் இலஞ்ச ஊழல் ஆணைக்குழுவால் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்நிலையில்,  இருவரையும் எதிர்வரும் 27ம் திகதிவரை விளக்கமறியலில் வைக்குமாறு அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் வியாழக்கிழமை (13) உத்தரவிட்டார்.
+
+காணி ஒன்றுக்கு மண் நிரப்புவதற்கு அனுமதி வழங்க அக்கரைப்பற்று நீர்ப்பாசன திணைக்களத்தில் கடமையாற்றிவரும் எந்திரி இலஞ்சம் கோரியதாக நபரொருவர் கொழும்பிலுள்ள இலஞ்ச ஊழல் ஆணைக்குழுவிடம் முறைப்பாடு செய்துள்ளார்.
+
+இதனை தொடர்ந்து சம்பவதினமான கடந்த புதன்கிழமை (12) அக்கரைப்பற்று பிரதேசத்திலுள்ள நீர்ப்பாசன காரியாலயத்தில் இலஞ்ச ஊழல் ஆணைக்குழு அதிகாரிகள் மாறு வேடத்தில் காத்திருந்தனர்.
+
+அங்கு இலஞ்சமாக கோரிய பணத்துடன் முறைப்பாடு செய்த நபர் எந்திரியின் வாகன சாரதியுடன் சென்று 2 இலட்சம் ரூபா பணத்தை எந்திரியிடம் வழங்கியுள்ளார்.  இதன்போது, அங்கு மாறுவேடத்தில் இருந்த இலஞ்ச ஊழல் ஒழிப்பு அதிகாரிகள் வாகன சாரதியையும், எந்திரியையும் பணத்துடன் கைது செய்தனர்.
+
+...
+
+[Data](articles/8d0f0f36.json)
 
 ---
 
@@ -2253,21 +2273,5 @@ The Minister said that many things that were not done in Sri Lanka have been car
 [Data](articles/aa5e36e6.json)
 
 [Extended Data](ext_articles/aa5e36e6.ext.json)
-
----
-
-### Keheliya and seven others further remanded
-
-*2024-06-14 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99883/keheliya-and-seven-others-further-remanded) · `en`
-
-Former Minister of Health Keheliya Rambukwella and 07 others have been further remanded until June 28 by the Maligakanda Magistrate’s Court over the import of substandard human Immunoglobulin vials.
-
-This order was issued when the case was taken up before the Maligakanda Magistrate today (14).
-
-◼️
-
-[Data](articles/c66f9563.json)
-
-[Extended Data](ext_articles/c66f9563.ext.json)
 
 ---

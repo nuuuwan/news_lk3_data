@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 15:04:11**
+As of **2024-06-15 15:19:13**
 
 ## Newspaper Stats
 
-*Scraped **30,500** Articles*
+*Scraped **30,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,771
 dailyftlk | 1,862
-adalk | 2,625
-adaderanalk | 3,456
+adalk | 2,626
+adaderanalk | 3,457
 tamilmirrorlk | 3,568
 virakesarilk | 4,684
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,926
+adaderanasinhalalk | 4,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,500 (100.0%) of 30,500 articles have been extended.
+30,500 (100.0%) of 30,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### චමෝදී ප්‍රබෝධාට මතු දෙරණින් ශිෂ්‍යත්වයක්
+
+*2024-06-15 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197785) · `si`
+
+දක්ෂතාවලින් පරිපූර්ණ ශ්‍රී ලංකාවේ තාරුණ්‍යට සවියක් වීමේ අරමුණින් දෙරණ මාධ්‍ය ජාලය ආරම්භ කළ  "මතු දෙරණ" ව්‍යාපෘතිය යටතේ, ශ්‍රී ලංකා නාමය ජාත්‍යන්තරයට ගෙන ගිය තවත් ක්‍රීඩිකාවකට අනුග්‍රාහක ශිෂ්‍යත්වක් පිරිනැමීම පසුගියදා සිදුකෙරුණි.
+
+එම ශිෂ්‍යත්වය පිරිනැමුණේ වයස අවුරුදු 19න් පහල කාන්තා ක්‍රිකට් කණ්ඩායම නියෝජනය කරන චමෝදී ප්‍රබෝධා ටය.
+
+පසුගියදා මෙරටදී පැවති වයස අවුරුදු 19න් පහල කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියේදී පන්දුවෙන් දස්කම් දක්වමින් කාගෙත් අවධානය දිනා ගැනීමට ඇය සමත් වූවාය.
+
+මොනරාගල දිස්ත්‍රික්කයේ කුඹුක්කන, පඤ්ඤානන්ද විද්‍යාලයේ ඉගෙනුම ලබන 15 හැවිරිදි චමෝදී ප්‍රබෝධා එංගලන්තය සමඟ පැවති තරගයේදී ලකුණු 42කට කඩුලු 5ක් දවා ගැනීම විශේෂත්වය කි.
+
+දීප්තිමත් අනාගතයක් හිමි චමෝදී ප්‍රබෝධාගේ ක්‍රීඩා දිවියට අත්වැලක් වීමේ අරමුණෙන් "මතු දෙරණ" ශිෂ්‍යත්ව ව්‍යාපෘතිය යටතේ ඇයගේ ක්‍රීඩා සහ පෝෂණ අවශ්‍යතා සපුරා ගැනීමට මසකට රුපියල් 25,000 බැගින් වූ මූල්‍යමය ශිෂ්‍යත්වයක් පිරිනැමීමට දෙරණ මාධ්‍ය ජාලය කටයුතු කළේය.
+
+◼️
+
+[Data](articles/bcf5ddc8.json)
+
+---
+
+### Russia to host high-level talks on repatriation of Sri Lankan military personnel
+
+*2024-06-15 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99894/russia-to-host-high-level-talks-on-repatriation-of-sri-lankan-military-personnel) · `en`
+
+A high level delegation headed by the State Minister of Foreign Affairs Tharaka Balasuriya is scheduled to visit Russia to arrange for the repatriation of Sri Lankan ex-military personnel deployed in Russia for military purposes and the related discussions will be held on June 26 and 27, said Minister of Foreign Affairs, President’s Counsel Ali Sabry.
+
+The Minister also noted that a team of officials has been tasked with reviewing the Cabinet paper submitted to decide on Sri Lanka’s potential membership in the BRICS organization. Their report is anticipated later this month.
+
+Minister of Foreign Affairs, President’s Counsel Ali Sabry, highlighted this during his participation in a Press conference at the Presidential Media Centre, focusing on the theme ‘Collective Path to a Stable Country’
+
+...
+
+[Data](articles/ed570075.json)
+
+---
 
 ### American team that was amazing world cricket field
 
@@ -201,6 +237,24 @@ It will be held until August 15. Thus, traffic congestion is likely to occur in 
 [Data](articles/b6d5e73f.json)
 
 [Extended Data](ext_articles/b6d5e73f.ext.json)
+
+---
+
+### ක්‍රිකට් ආයතනයේ නව ව්‍යවස්ථා පනත් කෙටුම්පත ජනපතිට
+
+*2024-06-15 13:05:21* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ආයතනයේ-නව-ව්‍යවස්ථා-පනත්-කෙටුම්පත-ජනපතිට/9-410220) · `si`
+
+ජාතික පිරිමි හා කාන්තා කණ්ඩායම් ඇතුළු විවිධ මට්ටම්වල ක්‍රීඩකයන්ගේ පරිපාලනය, පුහුණුව හා සමස්ත යහපැවැත්ම පිළිබඳ යෝජනා කිහිපයක්.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සංයුතිය හා ව්‍යූහය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳවත් අවධානය.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සඳහා නව ව්‍යවස්ථාවක් කෙටුම්පත් කිරීමට පත්කළ විනිසුරු චිත්‍රසිරි කමිටුව විසින් සකස්කළ පනත් කෙටුම්පත අද (15) ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත බාර දෙනු ලැබීය.
+
+කමිටුවේ සභාපති විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිරි මහතා විසින් පනත් කෙටුම්පත ජනාධිපතිවරයා වෙත භාර දුන් අතර කමිටුවේ සෙසු සාමාජිකයන් ද ඊට එක්ව සිටියහ.
+
+...
+
+[Data](articles/c0c9eace.json)
 
 ---
 
@@ -2217,83 +2271,5 @@ Sri Lanka’s Foreign Minister Ali Sabry said Modi’s invitation to Wickremesin
 [Data](articles/17f9676e.json)
 
 [Extended Data](ext_articles/17f9676e.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.00/15 to US dollar
-
-*2024-06-14 16:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-15-to-us-dollar-168094/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 304.00/15 to the US dollar on Friday, from 303.85/95 to the dollar the previous day, dealers said. Bond yields were broadly stable.
-
-A bond maturing on 15.12.2026 closed at 10.05/30 percent, up from 10.00/30 percent.
-
-A bond maturing on 15.10.2027 closed at 10.60/80 percent, up from 10.60/75 percent.
-
-A bond maturing on 01.07.2028 closed at 11.05/20 percent, up from 11.00/15 percent.
-
-A bond maturing on 15.09.2029 closed at 11.80/90 percent, up from 11.80/85 percent.
-
-A bond maturing on 01.10.2032 closed at 12.00/10 percent, up from 11.95/12.15 percent. (Colombo/Jun14/2024)
-
-◼️
-
-[Data](articles/0f93978a.json)
-
-[Extended Data](ext_articles/0f93978a.ext.json)
-
----
-
-### Woman dies after collision with a motorcycle
-
-*2024-06-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197757) · `si`
-
-In Meetiyagoda, a woman died after her car collided with a motorcycle traveling from Galle to Rambukkana. The motorcyclist, seriously injured, was taken to Balapitiya Hospital. The victim, aged 53 and from Hikkaduwa, had her body also placed at Balapitiya Hospital.
-
-🟩
-
-A motorbike traveled on Meetiyagoda, a motorbike collided with Meetiyagoda, Watiyagoda today.
-
-The motorbike was hit by Galle to Rambukkana at Galle to Rambukkana at the Greater Railway Cross road.
-
-The motorcyclist was seriously injured and admitted to the Balapitiya Hospital.
-
-The victim was 53 years of resident of Hikkaduwa.
-
-The body was placed at the Balapitiya Hospital while the body was placed at the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/9cc07260.json)
-
-[Extended Data](ext_articles/9cc07260.ext.json)
-
----
-
-### Ampara Tamil Journalists Union requests President
-
-*2024-06-14 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186054) · `ta`
-
-The Ampara Tamil Journalists Union has condemned an attack on journalist Thambichurai Pradeepan's home by a gang, urging the President to ensure journalist security. The union sees this as part of a broader pattern of media suppression targeting Tamil journalists. They call for immediate police action and legal measures against the attackers.
-
-🟩
-
-The Ampara Tamil Journalists Union has urged the President to ensure the security of the journalist's security, while the violent gang has strongly condemned the attack on the house of journalist Thambichurai Pradeepan.
-
-Ampara Tamil Journalists Union issued a media statement on Friday (14) condemning the attack on the house of journalist Pradeepan.
-
-A five -member gang of two motorcycles attacked the house of Jaffna Achuveli, Thambichurai Pradeepan, at around 12.15 am on Thursday morning.
-
-This incident reflects the media suppression and we see as a planned act unleashed on Tamil journalists.
-
-At the same time, attacks and threats are being targeted on the Tamil journalist.
-
-It is a cowardly act that carried out these systematic attacks with the napasi that those who cannot face the views of such violence can strangle the neck of the journalists.
-
-...
-
-[Data](articles/e11e21e7.json)
-
-[Extended Data](ext_articles/e11e21e7.ext.json)
 
 ---

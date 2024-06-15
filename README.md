@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 20:34:55**
+As of **2024-06-15 20:53:37**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 4,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,525 (100.0%) of 30,527 articles have been extended.
+30,527 (100.0%) of 30,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### දකුණු මුහුදේදී කොටුවූ හෙරොයින් තොගය ගැන අලුත් කතාවක්
+### A new story about the stock of heroin trapped at the right sea
 
 *2024-06-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197797) · `si`
 
-දකුණු මුහුදු තීරයේදී මත්ද්‍රව්‍ය පාර්සල්  130ක් සමග නාවික හමුදා භාරයට ගත් බෝට්ටුවේ හිමිකරු මේ වනවිට ප්‍රදේශයෙන් පළාගොස් ඇති බව පොලීසිය පවසයි.
+A boat carrying 130 heroin parcels was intercepted by the navy near the South coast. The crew, detained, claimed they received the drugs from a larger ship at the maritime boundary. A search revealed hidden packages in the vessel's front section. The fishermen, from Gandara and Dondra, were questioned and admitted to sealing the parcels themselves before setting sail.
 
-දකුණු මුහුදු තීරයට නාවික සැතපුම් 400ක් පමණ දුරින් වූ ගැඹුරු මුහුදේදී සැක කටයුතු බහුදින ධීවර යාත්‍රාවක් නාවික හමුදාව හා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් පරීක්ෂා කර තිබුණි.
+🟩
 
-එහිදී අදාළ ධීවර යාත්‍රාවේ තිබී සැකකටයුතු කිසිවක් ආරක්ෂක අංශ වෙත සොයාගැනීමට හැකිවී නොමැත.
+The owner of the boat taken into custody with 130 drug parcels in the South coast, the police said.
 
-නමුත් ධීවර යාත්‍රාවේ සැක සහිත ලෙස ෆයිබර් භාවිතයෙන් සකසා තිබූ ස්ථාන කිහිපයක් පිළිබඳව විමර්ශන නිලධාරීන්ගේ අවධානය යොමුව තිබේ.
+The Bureau of the Navy had inspected a suspicious multi-day fishing vessel at the deep sea, about 400 nautical miles to the South.
 
-නාවික හමුදාව පැවසුවේ අදාළ ධිවර යාත්‍රව ඊයේ (14) රාත්‍රියේ ගාලු වරායට ගෙනැවිත් ස්කෑන් පරීක්ෂාවක් සිදුකළ බවය.
+No doubt was found in the fishing vessel and was found to the security forces.
 
-එහිදී "ඉඳුනිල් 6" නම් එම යාත්‍රාවේ ඉදිරිපස කොටසේ ෆයිබර් දමා සීල් කළ කොටසක තිබූ සැක කටයුතු පාර්සල් තොගයක් නිරීක්ෂණය වී තිබේ.
+However, the investigation officials have focused on several places in the fishing vessel.
 
-අනතුරුව අත්අඩංගුවට ගත් ධීවරයන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔවුන් පවසා ඇත්තේ, ජාත්‍යන්තර මුහුදු සීමාවේදී පැමිණි විශාල නෞකාවකින් තමන්ට අදාළ පර්සල් තොගය ලබාදුන් බවය.
+The Navy said that the fishermen were brought to the port of Galle yesterday (14) and a scan was carried out.
+
+A parcel has observed a parcel in a seal part of the vessel in the front section of the vessel.
+
+In question interrogated by the fishermen, they said that the complaint was given to them from a large ship who arrived at the international maritime boundary.
+
+The suspects have said that a fiber boundar is a form of fiber bound for them and later sealed the parcel to the front of the fishing vessel.
 
 ...
 
 [Data](articles/c1733c8d.json)
+
+[Extended Data](ext_articles/c1733c8d.ext.json)
 
 ---
 
@@ -86,15 +94,21 @@ At the Cabinet at the same day, a Cabinet sub-committee comprising Minister Dhan
 
 ---
 
-### இலங்கையில் அழகுசாதனப் பொருட்களுக்கு புதிய சட்டங்கள்
+### New laws for cosmetics in Sri Lanka
 
 *2024-06-15 19:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அழகுசாதனப்-பொருட்களுக்கு-புதிய-சட்டங்கள்/175-338937) · `ta`
 
-தரமற்ற அழகுசாதனப் பொருட்களுக்கு புதிய சட்டங்கள் அமுல்படுத்தப்படாவிட்டால் நாட்டு மக்களின் சுகாதாரம் பாரிய நெருக்கடிக்கு உள்ளாகும் என தேசிய மருந்துகள் ஒழுங்குபடுத்தல் அதிகார சபையின் முன்னாள் தலைமை பரிசோதகர் அமித் பெரேரா தெரிவித்துள்ளார். R
+Amit Perera warns that without new cosmetic regulations in Sri Lanka, public health could face significant risks due to substandard products.
+
+🟩
+
+Former Chief Inspector of the National Drug Regulatory Authority Amit Perera says that if new laws are not implemented for substandard cosmetics, the health of the people will be in a major crisis.. Remble
 
 ◼️
 
 [Data](articles/ade4b925.json)
+
+[Extended Data](ext_articles/ade4b925.ext.json)
 
 ---
 

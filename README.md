@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 07:46:34**
+As of **2024-06-15 08:00:15**
 
 ## Newspaper Stats
 
-*Scraped **30,462** Articles*
+*Scraped **30,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,621
 adaderanalk | 3,449
-tamilmirrorlk | 3,561
+tamilmirrorlk | 3,563
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,914
+adaderanasinhalalk | 4,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,462 (100.0%) of 30,462 articles have been extended.
+30,462 (100.0%) of 30,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### වැඩවර්ජනයක් ගැන දැනුම්දීමක්
+
+*2024-06-15 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197774) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය ආරම්භ කිරීමට සැලසුම් කර තිබූ වැඩවර්ජනය තාවකාලිකව අත්හිටුවීමට තීරණය කර තිබේ.
+
+එම සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ එය ලබන අඟහරුවදා (18) දක්වා තාවකාලිකව අත්හිටුවන බවය.
+
+"දුම්රිය සාමාන්‍ය අධිකාරීවරයා සමග සාකච්ඡාවේ දී අපේ ඉල්ලීම් වලින් යම්කිසි කොටසකට සාධනීය පිළිතුරු ලැබුණා. නමුත් උසස්වීම් සහ අනෙකුත් කාරනා පිළිබඳ නිශ්චිත පිළිතුරක් ලබාදීමට නොහැකි වූ නිසා  වැඩ බලන අමාත්‍යවරයා මේ අවස්ථාවට පැමිණිලා අදාළ අංශ එක්ක සාකච්ඡා කරලා පිළිගත්තා දෙපාර්තමේන්තුවෙන් යවපු කැබිනට් පත්‍රිකාව සහ අමාත්‍යංශයෙන් ‍යොමු කරපු ලිපිය අතර පරස්පරතාවයක් නිසා තමයි මේ ගැටලුව ඇති වෙලා තියෙන්නේ කියලා. එක නිවැරදි කිරීම අඟහරුවාදා රාජ්‍ය සේවා කොමිෂන් සභාව රැස්වෙන මොහොතේ දී  අනුමැතිය ලබාදීලා අවශ්‍ය කටයුතු කරන පොරොන්දුව ලබා දුන්නා. සමස්ත දුම්රිය සේවයේ ප්‍රශ්න විසඳන්නේ නැතිව කොටස් කොටස් ගෙනයාමෙන් ඇති වු ගැටලු තමයි මේවාට මූලික වෙලා ති‍යෙන්නේ. අපි හිතනවා සුබවාදි පිළිතුරක් ලබා දෙයි කියලා."
+
+◼️
+
+[Data](articles/215c7419.json)
+
+---
+
+### ලබන සතිය ගැන ජනපති කළ හෙළිදරව්ව
+
+*2024-06-15 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197773) · `si`
+
+ශ්‍රී ලංකාවට නිල වශයෙන් ණය ලබා දී තිබෙන රටවල කමිටුව ලබන සතියේ පැවැත්වෙන  බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු පවසුවේ  එම රැස්වීමෙන් පසු ශ්‍රී ලංකාවට බංකොලොත් බවින් ඉවත්වීමට හැකියාව ලැබෙන බවය.
+
+හලාවත කිරිමැටියාන බෞද්ධ බාලිකා ජාතික පාසලේ පැවති උත්සවයකට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+එමෙන්ම ජනාධිපතිවරයා සඳහන් කළේ අනාගතයට ගැලපෙන දකුණු ආසියාවේ හොඳම අධ්‍යාපන ක්‍රමය රට තුළ නිර්මාණය කිරීමට කටයුතු කරන බවය.
+
+...
+
+[Data](articles/53ae9263.json)
+
+---
 
 ### Weather - Introduction to Fisheries and Marine Community
 
@@ -393,6 +427,42 @@ High-level officials from the Ministry of Agriculture and Plantation Industries,
 [Data](articles/b8159de1.json)
 
 [Extended Data](ext_articles/b8159de1.ext.json)
+
+---
+
+### ’உடன்படிக்கையை பேணுவது அவசியம்’
+
+*2024-06-15 00:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-பேணுவது-அவசியம்/175-338929) · `ta`
+
+இலங்கை ஏற்படுத்திக்கொண்டுள்ள உடன்படிக்கையை தொடர்ச்சியாக பேணுவது அவசியமென சர்வதேச நாணய நிதியம் வலியுறுத்தியுள்ளது.
+
+சர்வதேச நாணய நிதியத்தின் சிரேஷ்ட தூதுக்குழுவின் பிரதானி பீட்டர் ப்ரூவர் நேற்று இடம்பெற்ற ஊடக சந்திப்பில் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+செயற்றிட்ட இலக்குகளை அடைவதற்கான அவதானிப்புகள் மற்றும் மாற்று முன்மொழிவுகள் குறித்து அறிய நாம் தயாராக உள்ளோம். எவ்வாறாயினும், அவை சாத்தியமானவையாகவும் செயற்றிட்ட காலப்பகுதிக்குள் அடையக்கூடியவையாகவும் காணப்பட வேண்டும்.
+
+இலங்கையின் தற்போதைய சீர்த்திருத்தங்களினால் பொருளாதாரத்தின் ஆரம்பக்கட்டமைக்கு சீரடைந்துள்ளது. நிதி ஒத்துழைப்பு திட்டத்தின் கீழ் அதிகாரிகளின் வலுவான செயல்பாட்டை நிர்வாக இயக்குநர்கள் பாராட்டினர்.
+
+பொருளாதாரம் மீட்சிப்பெற்றுள்ளது. பணவீக்கம் குறைவாகவே உள்ளது. வருவாய் சேகரிப்பு மேம்பட்டுள்ளது. நாட்டின் வெளிநாட்டு கையிருப்பு ஸ்திரமடைந்துள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/16eaa042.json)
+
+---
+
+### மயக்க மருந்துக்கு பற்றாக்குறை
+
+*2024-06-15 00:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயக்க-மருந்துக்கு-பற்றாக்குறை/175-338928) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையில் மயக்க மருந்து பற்றாக்குறையினால் சத்திரசிகிச்சைகளை இரத்து செய்ய நேரிட்டதாக நேற்று அறிவிக்கப்பட்டது.
+
+இது தொடர்பில் சுகாதார அமைச்சின் வைத்திய விநியோக பிரிவின் பிரதி பணிப்பாளர் நாயகம் டொக்டர் ஜி.விஜேசூரிய கருத்து தெரிவிக்கையில்,
+
+இந்த மயக்க மருந்து கொழும்பு துறைமுகத்திற்கு கொண்டுவரப்பட்டுள்ளது. அவற்றை பகிர்ந்தளிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/2b00a7bf.json)
 
 ---
 
@@ -2175,91 +2245,5 @@ Police said that all three suspects are scheduled to be produced before the Maha
 [Data](articles/5dccf05a.json)
 
 [Extended Data](ext_articles/5dccf05a.ext.json)
-
----
-
-### 7 Pakistani & Iranian drug traffickers sentenced to life in prison
-
-*2024-06-14 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99873/7-pakistani-iranian-drug-traffickers-sentenced-to-life-in-prison) · `en`
-
-The Colombo High Court has sentenced seven Pakistani and Iranian nationals to life in prison after they were convicted of possession and trafficking heroin.
-
-This verdict was delivered by Colombo High Court Judge Adithya Patabendige when the relevant case was taken up before the court this morning (14).
-
-During an operation carried out by the Sri Lanka Navy in the 2022, the convicted Pakistani and Iranian nationals were apprehended while transporting 123 kg of heroin within Sri Lanka’s territorial waters.
-
-Later, the Attorney General filed indictments against the suspects before the Colombo High Court.
-
-The accused pleaded guilty to the charges when the case was taken up before the court today, and were subsequently sentenced to life in prison, Ada Derana reporter said.
-
-Additionally, the court ordered the convicted foreign nationals to be extradited to their respective countries in order to serve their sentences, in consideration of a request made by them.
-
-◼️
-
-[Data](articles/20a93864.json)
-
-[Extended Data](ext_articles/20a93864.ext.json)
-
----
-
-### Notice to Development Officers
-
-*2024-06-14 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197745) · `si`
-
-The Sri Lanka Institute of Development Administration announced that the cutting exams for Development Secretariat I, II, and III will take place on June 30, 2022. Applicants should have received their exam tickets; otherwise, they can download them from www.slida.lk.
-
-🟩
-
-The Sri Lanka Institute of Development Administration has issued a statement regarding the date of conducting the cutting examinations of the Development Secretariat I, II and 111.
-
-The examinations will be held on June 30, 202.
-
-The announcement states that the examination ticket has been sent to the applicants and that the candidates who have not received their ticket can be downloaded from www.slida.lk
-
-◼️
-
-[Data](articles/ff4179ea.json)
-
-[Extended Data](ext_articles/ff4179ea.ext.json)
-
----
-
-### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
-
-*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-bilateral-political-consultation-held-in-beijing-policies-reviewed-167992/) · `en`
-
-ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
-
-“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
-
-She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
-
-“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
-
-...
-
-[Data](articles/671c1ee5.json)
-
-[Extended Data](ext_articles/671c1ee5.ext.json)
-
----
-
-### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
-
-*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-hold-bilateral-consultation-in-beijing-policies-to-be-reviewed-167992/) · `en`
-
-ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
-
-“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
-
-She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
-
-“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
-
-...
-
-[Data](articles/7951bcc2.json)
-
-[Extended Data](ext_articles/7951bcc2.ext.json)
 
 ---

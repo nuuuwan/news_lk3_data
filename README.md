@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 22:06:35**
+As of **2024-06-15 22:19:11**
 
 ## Newspaper Stats
 
-*Scraped **30,531** Articles*
+*Scraped **30,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,655
 economynextcom | 1,773
 dailyftlk | 1,863
 adalk | 2,628
-adaderanalk | 3,460
+adaderanalk | 3,461
 tamilmirrorlk | 3,571
 virakesarilk | 4,687
 dailymirrorlk | 4,733
@@ -26,23 +26,51 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,528 (100.0%) of 30,531 articles have been extended.
+30,531 (100.0%) of 30,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ඉන්දියාව සහ කැනඩාව අතර තරගය අත්හැර දමයි
+### Owner of boat seized with heroine off Galle goes missing
+
+*2024-06-15 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99899/owner-of-boat-seized-with-heroine-off-galle-goes-missing) · `en`
+
+The owner of the boat seized by Sri Lanka Navy along with 130 parcels of heroin has fled the area, the police said.
+
+A multi-day fishing trawler named “Indunil 6,” was apprehended together with the drug stock 400 nautical miles off the southern coast in a joint operation carried out by the Navy and Police Anti-Narcotics Bureau.
+
+The street value of the seized drugs is estimated to be over Rs. 1300 million.
+
+During the initial inspection, security forces have not find anything suspicious. However, further investigation had revealed several areas of the boat were suspiciously made with fiber.
+
+Later on the night of June 14, the vessel was brought to Galle port, where a detailed scan was conducted.
+
+The scan uncovered a stock of suspicious parcels in a compartment sealed with fiber in the front section of the boat, the navy said.
+
+...
+
+[Data](articles/3883338c.json)
+
+---
+
+### India and Canada gives up the match
 
 *2024-06-15 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197799) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දියාව සහ කැනඩාව අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+Due to rain, the match between India and Canada was abandoned. South Africa also qualified for the next round, joining India and the US in Group A.
 
-එමෙන්ම මේ වනවිට A කාණ්ඩයෙන් ඉන්දියාව සහ අමෙරිකාව සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබාගෙන ඇති අතර B කාණ්ඩයෙන් ඔස්ට්‍රේලියාව ද, C කාණ්ඩයෙන් බටහිර ඉන්දීය කොදෙව් සහ ඇෆ්ගනිස්තානය ද  D කාණ්ඩයෙන් දකුණු අප්‍රිකාව ද සුපිරි 8 තරග වටයට සුදුසුකම් ලබා සිටී.
+🟩
+
+The match between India and Canada, the match between India and Canada has been abandoned due to the rainy industry.
+
+South Africa also qualifies to the match of India and the US in Group A to the competition of India and the Tree.
 
 ◼️
 
 [Data](articles/bae83e2c.json)
+
+[Extended Data](ext_articles/bae83e2c.ext.json)
 
 ---
 
@@ -97,6 +125,8 @@ Based on the sub-committee’s recommendations in its report, the Cabinet then a
 ...
 
 [Data](articles/7069fafa.json)
+
+[Extended Data](ext_articles/7069fafa.ext.json)
 
 ---
 
@@ -415,6 +445,8 @@ Sri Lanka’s ACL Cables wraps up acquisition of Cable Solutions
 ◼️
 
 [Data](articles/c6039b20.json)
+
+[Extended Data](ext_articles/c6039b20.ext.json)
 
 ---
 
@@ -2249,39 +2281,5 @@ Two boys aged 14 and 17, who were dumped in the Negombo Sea, were drowned, Negom
 [Data](articles/289180e1.json)
 
 [Extended Data](ext_articles/289180e1.ext.json)
-
----
-
-### Abnormal behavior again from Bideen
-
-*2024-06-14 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197767) · `si`
-
-G7 leaders meet in Italy, including US President Biden, known for his occasional unusual behavior. The summit aims to congratulate each other with parachute displays carrying national flags. A significant topic is providing Ukraine with a $50 billion loan using frozen Russian assets post-invasion, totaling over $325 billion in suspended assets across G7 nations and the EU.
-
-🟩
-
-A parachutemen who carry the national flags of member countries have been conducted in member countries to congratulate G7 Heads of Heads.
-
-US President Joor Beams added to the occasion have shown an unusual behavior again.
-
-Italian Prime Minister Georgia is back, foreign media reports the oldest media of President Baiden's elderly.
-
-The meeting of the G7 Head of the Government is currently in Bourgo Inyasia, Italy.
-
-The G7 group representative British, Canada, France, Germany, Italy, Japan, Japan and EU leaders.
-
-President Vlodimir Selenski, including Ukrainian President Vladimir Selenski, invited to provide US $ 50 billion loan to Ukraine
-
-They are about to give this amount using Russian assets in Gian countries.
-
-After the invasion of Russia in 2022, they were suspended to suspend the assets after the invasion of Ukraine.
-
-The suspension in G7 member countries and the suspension of Russian assets in the European Union have over US $ 325 billion.
-
-...
-
-[Data](articles/7f88edf8.json)
-
-[Extended Data](ext_articles/7f88edf8.ext.json)
 
 ---

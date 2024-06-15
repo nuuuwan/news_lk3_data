@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 20:20:24**
+As of **2024-06-15 20:34:55**
 
 ## Newspaper Stats
 
-*Scraped **30,525** Articles*
+*Scraped **30,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 1,771
 dailyftlk | 1,863
 adalk | 2,628
 adaderanalk | 3,460
-tamilmirrorlk | 3,570
+tamilmirrorlk | 3,571
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,938
+adaderanasinhalalk | 4,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,525 (100.0%) of 30,525 articles have been extended.
+30,525 (100.0%) of 30,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### දකුණු මුහුදේදී කොටුවූ හෙරොයින් තොගය ගැන අලුත් කතාවක්
+
+*2024-06-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197797) · `si`
+
+දකුණු මුහුදු තීරයේදී මත්ද්‍රව්‍ය පාර්සල්  130ක් සමග නාවික හමුදා භාරයට ගත් බෝට්ටුවේ හිමිකරු මේ වනවිට ප්‍රදේශයෙන් පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+දකුණු මුහුදු තීරයට නාවික සැතපුම් 400ක් පමණ දුරින් වූ ගැඹුරු මුහුදේදී සැක කටයුතු බහුදින ධීවර යාත්‍රාවක් නාවික හමුදාව හා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් පරීක්ෂා කර තිබුණි.
+
+එහිදී අදාළ ධීවර යාත්‍රාවේ තිබී සැකකටයුතු කිසිවක් ආරක්ෂක අංශ වෙත සොයාගැනීමට හැකිවී නොමැත.
+
+නමුත් ධීවර යාත්‍රාවේ සැක සහිත ලෙස ෆයිබර් භාවිතයෙන් සකසා තිබූ ස්ථාන කිහිපයක් පිළිබඳව විමර්ශන නිලධාරීන්ගේ අවධානය යොමුව තිබේ.
+
+නාවික හමුදාව පැවසුවේ අදාළ ධිවර යාත්‍රව ඊයේ (14) රාත්‍රියේ ගාලු වරායට ගෙනැවිත් ස්කෑන් පරීක්ෂාවක් සිදුකළ බවය.
+
+එහිදී "ඉඳුනිල් 6" නම් එම යාත්‍රාවේ ඉදිරිපස කොටසේ ෆයිබර් දමා සීල් කළ කොටසක තිබූ සැක කටයුතු පාර්සල් තොගයක් නිරීක්ෂණය වී තිබේ.
+
+අනතුරුව අත්අඩංගුවට ගත් ධීවරයන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔවුන් පවසා ඇත්තේ, ජාත්‍යන්තර මුහුදු සීමාවේදී පැමිණි විශාල නෞකාවකින් තමන්ට අදාළ පර්සල් තොගය ලබාදුන් බවය.
+
+...
+
+[Data](articles/c1733c8d.json)
+
+---
 
 ### Sri Lanka Cricket has no vote for chair - (exclusive)
 
@@ -59,6 +83,18 @@ At the Cabinet at the same day, a Cabinet sub-committee comprising Minister Dhan
 [Data](articles/9db59220.json)
 
 [Extended Data](ext_articles/9db59220.ext.json)
+
+---
+
+### இலங்கையில் அழகுசாதனப் பொருட்களுக்கு புதிய சட்டங்கள்
+
+*2024-06-15 19:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அழகுசாதனப்-பொருட்களுக்கு-புதிய-சட்டங்கள்/175-338937) · `ta`
+
+தரமற்ற அழகுசாதனப் பொருட்களுக்கு புதிய சட்டங்கள் அமுல்படுத்தப்படாவிட்டால் நாட்டு மக்களின் சுகாதாரம் பாரிய நெருக்கடிக்கு உள்ளாகும் என தேசிய மருந்துகள் ஒழுங்குபடுத்தல் அதிகார சபையின் முன்னாள் தலைமை பரிசோதகர் அமித் பெரேரா தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/ade4b925.json)
 
 ---
 
@@ -2247,51 +2283,5 @@ The match was interrupted in the beginning of the Bangladesh and the Netherlands
 [Data](articles/d471b2ca.json)
 
 [Extended Data](ext_articles/d471b2ca.ext.json)
-
----
-
-### Split CWC: Importantly joined Sajith
-
-*2024-06-14 20:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளந்தது-இ-தொ-கா-முக்கியபுள்ளி-சஜித்துடன்-இணைந்தார்/175-338912) · `ta`
-
-Durai Mathiyagarajah, a seasoned trade unionist and politician with extensive experience, recently joined the opposition led by Sajith Premadasa. Known for his deep understanding of politics and labor issues, Mathiyagarajah has served as Vice Chancellor of the Central Provincial Council twice and chaired it once. Despite losing a parliamentary election in 2004, he remained influential, being re-elected to the council and included in the National List three times. His contributions extend beyond politics; he's also a writer in English, Tamil, and Sinhala.
-
-🟩
-
-A senior member of the Ceylon Workers Congress also joined the United People's Power
-
-Durai Mathiyagarajah, who has been the Vice Chancellor of the Central Provincial Council twice as the Vice Chancellor of the Central Provincial Council, the Senior Deputy Chairman of the Ceylon Workers Congress and the Chief Organizer of the Ceylon Workers Congress in Kandy for over 25 years in support of the opposition leader Sajith Premadasa in support of the united power today (14).Got.
-
-He is a leading trade union leader and politician with a wide range of political and trade union experience for more than thirty years and is known as a vast knowledge of politics and trade unions.. He is also a writer in English, Tamil and Sinhala.
-
-He was elected as a member of the Central Provincial Council in 1994 and the Vice Chancellor in 2001 and the Chairman of the Central Provincial Council in 2002.
-
-...
-
-[Data](articles/6dcac0a8.json)
-
-[Extended Data](ext_articles/6dcac0a8.ext.json)
-
----
-
-### Two killed in drowning
-
-*2024-06-14 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197764) · `si`
-
-In Negombo, two schoolchildren drowned while swimming with friends. The Police Media Unit reported that all four were in danger, but two managed to survive.
-
-🟩
-
-Two schoolchildren who had been drowned in the coast of the Wadiya area in Negombo.
-
-The Police Media Unit said that the two students had been bathing with two students.
-
-The four four students were drowning and two of them were survived.
-
-◼️
-
-[Data](articles/c3df5302.json)
-
-[Extended Data](ext_articles/c3df5302.ext.json)
 
 ---

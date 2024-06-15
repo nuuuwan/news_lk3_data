@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 23:54:10**
+As of **2024-06-16 00:05:55**
 
 ## Newspaper Stats
 
-*Scraped **30,533** Articles*
+*Scraped **30,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,655
-economynextcom | 1,773
+economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,461
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,533 (100.0%) of 30,533 articles have been extended.
+30,533 (100.0%) of 30,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### Sri Lanka car import relaxing roadmap given to IMF: State Minister
+
+*2024-06-15 22:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-import-roadmap-given-to-imf-state-minister-168200/) · `en`
+
+ECONOMYNEXT – Sri Lanka has submitted a roadmap on relaxing vehicle imports to the International Monetary Fund, State Minister of Finance Ranjith Siymabalapitiya said as the country recovers from the worst currency crises in the history of its central bank.
+
+The import relaxation will allow vehicles for public transport, goods transport, then motor cycles and cars use by private individuals and after that, luxury cars, Minister Siyambalapitiya said.
+
+Luxury cars however attract the highest taxes for each dollar spent on imports.
+
+Economic analysts have characterized vehicle import controls as a ‘cascading policy error’ that follows inflationary rate cuts, which then deprive taxes to the state and triggers more money printing and more forex shortages, requiring even higher corrective interest rates and a contraction of economic activities to save the rupee.
+
+According to the latest IMF report car import controls may have led to revenue losses of 0.7 to 0.9 percent of GDP.
+
+...
+
+[Data](articles/3a0e5f6a.json)
+
+---
 
 ### Owner of boat seized with heroine off Galle goes missing
 
@@ -2267,23 +2287,5 @@ He is now third among the candidates.There will be everything you can to move on
 [Data](articles/d10e1ec8.json)
 
 [Extended Data](ext_articles/d10e1ec8.ext.json)
-
----
-
-### 100kg drug to Galle Harbor
-
-*2024-06-14 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197768) · `si`
-
-Six suspects were arrested with over 100kg of drugs and transported to Galle Harbor.
-
-🟩
-
-Six suspects arrested with over 100 kilograms of drugs have been taken to the port of Galle.
-
-◼️
-
-[Data](articles/7dd12fc3.json)
-
-[Extended Data](ext_articles/7dd12fc3.ext.json)
 
 ---

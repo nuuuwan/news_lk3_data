@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 18:12:07**
+As of **2024-06-15 18:23:55**
 
 ## Newspaper Stats
 
-*Scraped **30,516** Articles*
+*Scraped **30,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 1,771
 dailyftlk | 1,863
 adalk | 2,627
 adaderanalk | 3,459
-tamilmirrorlk | 3,568
+tamilmirrorlk | 3,570
 virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,934
+adaderanasinhalalk | 4,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,516 (100.0%) of 30,516 articles have been extended.
+30,516 (100.0%) of 30,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට පහසු ජයක්
+
+*2024-06-15 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197793) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සහ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අතර අද (15) පැවති එක්දින ජාත්‍යන්තර තරගය කඩුලු 6කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව කොදෙව් කාන්තා කණ්ඩායමට ලබා දුනි.
+
+ඒ අනුව කොදෙව් කාන්තා කණ්ඩායම පන්දුවාර 47යි එක්පන්දුවක් තුළ සියලුදෙනා දැවී ලකුණු 195ක් ලබා ගත්තේය.
+
+පන්දු යැවීමේදී සුගන්දිකා කුමාරි සහ කවිෂා දිල්හාරි කඩුලු 03 බැගින් දවාගත්තෝය.
+
+ලකුණු 196ක ඉලක්කය හඹා ගිය ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 34යි එක් පන්දුවක් අවසානයේ කඩුලු 4ක් දැවී ජග්‍රහණය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/0a2843e5.json)
+
+---
+
+### இலங்கையில் அறிமுகப்படுத்தப்படவுள்ள வாடகை வருமான வரி
+
+*2024-06-15 17:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அறிமுகப்படுத்தப்படவுள்ள-வாடகை-வருமான-வரி/175-338936) · `ta`
+
+2025ஆம் ஆண்டு ஏப்ரல் முதலாம் திகதி முதல் குடியிருப்புச் சொத்துக்களுக்கு விதிக்கப்படும் வாடகை வருமான வரியை சர்வதேச நாணய நிதியம் அறிமுகப்படுத்த தீர்மானித்துள்ளது.
+
+2026ஆம் ஆண்டிற்குள் இந்த வரி முறையை முழுமையாக நடைமுறைப்படுத்த இலங்கைக்கு, இலக்கு வைத்துள்ளதாக சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
+
+இலங்கையுடனான கடன் வசதி திட்டத்தின் இரண்டாவது மீளாய்வின் பின்னர் வெளியிடப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/87f55087.json)
+
+---
+
+### கடற்கரையில்  உருகுலைந்த நிலையில் சடலம் மீட்பு
+
+*2024-06-15 17:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கரையில்-உருகுலைந்த-நிலையில்-சடலம்-மீட்பு/175-338935) · `ta`
+
+யாழ்ப்பாணம் - ஊர்காவற்றுறை, மடத்துவெளி கடற்கரை பகுதியில்  உருகுலைந்த நிலையில் நபர் ஒருவரின் சடலம் கரையொதுங்கியுள்ளது.
+
+ஊர்காவற்றுறை பொலிஸாரின் விசாரணைகளின் பின்னர் சடலம் பிரதே பரிசோதனைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dfdf0fae.json)
+
+---
 
 ### What is this MPOx?
 
@@ -2201,63 +2251,5 @@ This order was issued when the case was taken up before the Maligakanda Magistra
 [Data](articles/c66f9563.json)
 
 [Extended Data](ext_articles/c66f9563.ext.json)
-
----
-
-### Keheliya and others remanded again
-
-*2024-06-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197761) · `si`
-
-Former Health Minister Keheliya Rambukwella and seven others were remanded by the Maligakanda Magistrate's Court for allegedly importing substandard human emolulin vaccines.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and 7 have been remanded by the Maligakanda Magistrate's Court regarding the importation of substandard human emolulin vaccines.
-
-◼️
-
-[Data](articles/d7dcaf71.json)
-
-[Extended Data](ext_articles/d7dcaf71.ext.json)
-
----
-
-### Rare elephant cubs in Thailand
-
-*2024-06-14 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186087) · `ta`
-
-A rare event occurred in Central Thailand: 'Samsuri,' a 36-year-old elephant, gave birth to twins—a male and a female elephant cub. This is only the second recorded instance of such a birth, making it a significant event in the world of elephant conservation.
-
-🟩
-
-An Asian elephant in Central Thailand has given birth to rare elephant cubs.This is a miracle.
-
-Last Friday, 36 -year -old 'Samsuri', an elephant, gave birth to a male elephant cub.. At that time, the Authaya Elephants Sanctuary carers thought that childbirth was over.
-
-Later, when the male elephant was cleaned and helped it to stand, Samsuri realized that the second female elephant had gained the loud noise.
-
-In this case, a second delivery of the second delivery of the female elephant was injured when the mother elephant's legs were trying to stop the legs of the elephant.
-
-Only twin elephant cubs are born in one percent of elephant births. The birth of male and female elephants is a rare event, according to the Research Institute called Save the Elephants.
-
-◼️
-
-[Data](articles/11f1ee1e.json)
-
-[Extended Data](ext_articles/11f1ee1e.ext.json)
-
----
-
-### AG’s Dept. will not represent ex-Health Minister and NMRA officials, court told
-
-*2024-06-14 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99882/ags-dept-will-not-represent-ex-health-minister-and-nmra-officials-court-told-) · `en`
-
-The Attorney General’s Department today informed the Supreme Court that it will not appear on behalf of former Health Minister Kehiliya Rambukwella and arrested NMRA officials over the case of purchasing medicines from two allegedly unregistered companies.
-
-◼️
-
-[Data](articles/b8b68c06.json)
-
-[Extended Data](ext_articles/b8b68c06.ext.json)
 
 ---

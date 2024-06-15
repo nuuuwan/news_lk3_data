@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 10:18:57**
+As of **2024-06-15 10:34:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,477 (100.0%) of 30,478 articles have been extended.
+30,478 (100.0%) of 30,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -180,19 +180,27 @@ Yoganathan Nitish (17) from Negombo Coast Street and Rajadurai Aravindan (17) fr
 
 ---
 
-### මහා පරිමාණ රුමේනියා රැකියා ජාවාරමක තතු හෙළිවෙයි
+### Large-scale Romania employment reveals
 
 *2024-06-15 08:19:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-රුමේනියා-රැකියා-ජාවාරමක-තතු-හෙළිවෙයි/11-410217) · `si`
 
-රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් 6/13 අත්අඩංගුවට ගෙන තිබේ.
+A person accused of fraud in Romania has been arrested by Sri Lanka's Special Investigation Division for allegedly failing to fulfill job orders through Vicky International Solutions, despite having a valid job license. The agency faced 53 complaints from job seekers. The suspect was released after posting bail.
 
-මාතර, ගොඩගම පිහිටි විකී ඉන්ටර්නැෂනල් සොලියුෂන්ස් ආයතනයේ හිමිකරු විසින් රුමේනියාවේ රැකියා ලබාදීම සඳහා මුදල් අයකර, එම රැකියා අවස්ථා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 53ක් ලැබී තිබුණු අතර, එම පැමිණිලි අනුව අදාළ සැකකරු වංචාකර ඇති මුදලේ වටිනාකම රුපියල් ලක්ෂ 130ට අධික වේ.
+🟩
 
-අදාළ රැකියා නියෝජිතායතනය මීට පෙර කාර්යාංශයේ ලියාපදිංචි රැකියා නියෝජිතායතනයක් වන අතර, එම ආයතනයේ රැකියා බලපත්‍රයේ වලංගු කාලය පෙබරවාරි 29 දිනෙන් අවසන් වී ඇති අතර,  යළි එම ආයතනයේ රැකියා බලපත්‍රය අලුත් කර ගැනීමකින් තොරව නීති විරෝධි අයුරින් පවත්වාගෙන ගොස් තිබේ. මෙම ආයතනයට රුමේනියා රැකියා ලබාදීම සඳහා වලංගු රැකියා ඇණවුමක් තිබුණද, පැමිණිලිකරුවන් රැකියා සඳහා යොමුකිරීමට ඔවුන් කටයුතු කර නොමැත.
+A person who has defrauded money in Romania has been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment 6/13.
+
+The Bureau has received 53 complaints that the owner of the Vicky International Solutions in Godagama, Matara.
+
+The relevant employ agency is a previously registered employment agency, and the validity period of the company's job license has been completed by 29 February.. Despite the valid job order to provide homathena jobs, they have not taken steps to direct the complainants for employment.
+
+Arrested in violating the license terms contained in the Bureau of Police to the Bureau for the examination to investigate the complaints.. The suspect was produced before the Matara Magistrate's Court today, and the Magistrate ordered the release of Rs. 500,000.
 
 ...
 
 [Data](articles/5d8af54f.json)
+
+[Extended Data](ext_articles/5d8af54f.ext.json)
 
 ---
 

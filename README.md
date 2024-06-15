@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 04:04:44**
+As of **2024-06-16 04:19:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,536 (100.0%) of 30,537 articles have been extended.
+30,537 (100.0%) of 30,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,8 @@ Netanyahu is continuing to prove himself as a war criminal. He celebrates the re
 ...
 
 [Data](articles/a5178e4b.json)
+
+[Extended Data](ext_articles/a5178e4b.ext.json)
 
 ---
 

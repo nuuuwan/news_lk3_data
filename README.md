@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 09:04:23**
+As of **2024-06-15 09:19:24**
 
 ## Newspaper Stats
 
-*Scraped **30,472** Articles*
+*Scraped **30,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,622
-adaderanalk | 3,450
+adaderanalk | 3,451
 tamilmirrorlk | 3,565
 virakesarilk | 4,678
 dailymirrorlk | 4,733
@@ -26,29 +26,57 @@ adaderanasinhalalk | 4,918
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,471 (100.0%) of 30,472 articles have been extended.
+30,472 (100.0%) of 30,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### දකුණු අප්‍රිකාවේ පාලන බලය නැවත් සිරිල් රාමපෝසා ට
+### Cyril Ramaphosa re-elected South African president
+
+*2024-06-15 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99888/cyril-ramaphosa-re-elected-south-african-president) · `en`
+
+South Africa’s parliament has re-elected Cyril Ramaphosa as the country’s president following a landmark coalition deal between the governing African National Congress (ANC) and opposition parties.
+
+The new government of national unity combines Mr Ramaphosa’s ANC, the centre-right Democratic Alliance (DA) and smaller parties.
+
+In his victory speech, Mr Ramaphosa hailed the new coalition, and said voters expected the leaders to “to act and to work together for the good of everyone in our country”.
+
+The agreement was hashed out on a day of high political drama, which saw the National Assembly sitting late into the evening for votes to confirm who would hold power in the new administration.
+
+Earlier, a deal was struck following weeks of speculation about whom the ANC would partner with after losing its parliamentary majority for the first time in 30 years in last month’s elections.
+
+ANC secretary-general Fikile Mbalula called the coalition deal a “remarkable step”.
+
+...
+
+[Data](articles/71d49015.json)
+
+---
+
+### Unless Control in South Africa
 
 *2024-06-15 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197776) · `si`
 
-දකුණු අප්‍රිකානු ජාතික කොංග්‍රසය සහ විරුද්ධ පක්ෂ අතර ඇති වූ සුවිශේෂී සභාග ගිවිසුමකින් අනතුරුව එරට පාර්ලිමේන්තුව විසින් සිරිල් රාමපෝසා ජනාධිපතිවරයා ලෙස යළි තෝරාපත් කරගෙන තිබේ.
+Cyril Ramaphosa has been re-elected as the leader of the South African Congress, with support from both the ruling African National Congress (ANC) and smaller parties. This comes after a period of political uncertainty and internal debates within the ANC. The move signifies a return to stability and continuity in leadership, following a challenging period marked by a loss of parliamentary majority for the first time in 30 years.
 
-විදෙස් වාර්තා සඳහන් කළේ ජාතික සමගි නව රජය රාමපෝසාගේ පාලක අප්‍රිකානු ජාතික කොංග්‍රසය මධ්‍ය-දක්ෂිණාංශික ප්‍රජාතන්ත්‍රවාදී සන්ධානය සහ කුඩා පක්ෂ ඒකාබද්ධව මෙම සන්ධානය ගොඩනගා ඇති බවය.
+🟩
 
-නව පාලනයේ බලය දරන්නේ කවුරුන්ද යන්න තහවුරු කිරීම සඳහා විමසීමට ජාතික සභාව ඡන්ද විමසීමක් පවත්වා ඇති බව සඳහන් වේ.
+Cyril Ramalhoza has been re-elected by the Parliament of the South African Congress and opposition parties.
 
-පසුගිය මාසයේ පැවති මැතිවරණයේදී වසර 30කට පසු ප්‍රථම වරට පාර්ලිමේන්තු බහුතරය අහිමි වීමෙන් පසු දකුණු අප්‍රිකානු ජාතික කොංග්‍රසය හවුල් කරගන්නේ කවුරුන්ද යන්න පිළිබඳ සති ගණනාවක් පුරා පැවති සාකච්ඡාවලින් පසු මෙම තීරණයට එළඹ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The UPFA has built the National Unity of Ramapaza's ruling African UPFA and small parties jointly.
 
-2018 දී ඇති වූ දැඩි බල අරගලයකින් පසු ජනාධිපති ජේකොබ් සූමා වෙනුවට සිරිල් රාමපෝසා බලයට පත් වූ අතර ඔහුගේ පක්ෂය සෑම විටම සියයට 50 ට වඩා වැඩි ඡන්ද ප්‍රතිශතයක් ලබා ගෙන තිබුණි.
+It is said that the National Council has held a poll to consult the power of the new administration.
+
+The decision has been taken after discussions with the first time in the last month after the first loss of the Parliamentary majority after 30 years of loss of Parliament.
+
+After a strict force struggle in 2018, President Jacob Zumarasza came to power in power, and his party was always over 50 percent of votes.
 
 ◼️
 
 [Data](articles/28dee491.json)
+
+[Extended Data](ext_articles/28dee491.ext.json)
 
 ---
 
@@ -2237,33 +2265,5 @@ The magistrate has also ordered the court to submit the objections and responses
 [Data](articles/fd9412d3.json)
 
 [Extended Data](ext_articles/fd9412d3.ext.json)
-
----
-
-### Medical department student drowned in a miserable death
-
-*2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-நீரில்-மூழ்கி-பரிதாப-மரணம்/175-338904) · `ta`
-
-Sivakaran Aksayan, a promising 20-year-old medical department student from Karadivu, tragically drowned in the Nilgiris river, leaving behind his grieving parents. His selection to the medical department at Vipulananda Central College marked a significant achievement, but his life ended in a heartbreaking accident during a visit to the Murugan Temple. His body is now at Lakkalai Hospital for investigation and autopsy, casting a shadow of sorrow over the Karadivu community.
-
-🟩
-
-Sivakaran Aksayan (20 years old) from Karadivu died tragically on Friday morning.
-
-Sivakaran is the only child of Jeevaranjani couple Akshayan. Akshayan is one of the two students who have been selected to the medical department at Vipulananda Central College, Karativu.
-
-He was recently released in the G.C.E A/L 2023 (2024) Examination and was selected to the Medical Department in the 23rd place in the district.
-
-He went to the Murugan Temple with his family three days ago and died on Friday morning (14) when he drowned in the Nilgiris river in Pottuvil and Lakkalakalai.
-
-His body has been placed on the Lakkalai Hospital for further investigations and autopsy.
-
-S. Aksayan, who was selected for the medical department, died of water. The entire Karadivu region is mired in tragedy.
-
-◼️
-
-[Data](articles/057c26e3.json)
-
-[Extended Data](ext_articles/057c26e3.ext.json)
 
 ---

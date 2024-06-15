@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 16:19:05**
+As of **2024-06-15 16:34:31**
 
 ## Newspaper Stats
 
-*Scraped **30,506** Articles*
+*Scraped **30,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ adaderanalk | 3,457
 tamilmirrorlk | 3,568
 virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,928
+adaderanasinhalalk | 4,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,506 (100.0%) of 30,506 articles have been extended.
+30,506 (100.0%) of 30,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### වාහන ආනයන වැඩපිළිවෙල සැකසීමට කමිටුවක්
+
+*2024-06-15 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197789) · `si`
+
+ඉදිරියේදී වාහන ආනයන කටයුතු සිදුකරන ආකාරය පිළිබඳ වැඩපිළිවෙල සැකසීම සඳහා කමිටුවක් පත්කළ බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ මෙරට මූල්‍ය කටයුතු සම්බන්ධයෙන් මඟපෙන්වන්නෙකු බවට පත්ව ඇති ජාත්‍යන්තර මුල්‍ය අරමුදල සමඟ බොහෝ මූල්‍යමය කාරණා පිලිබඳව සාකච්ඡා කොට එකඟතාවයන්ට පැමිණිම සිදුකරන බවයි.
+
+ඒ අනුව වාහන ආනයනය යනු රටේ විදේශ සංචිත වලට සෘපුවම බලපාන කරුණක් බැවින් වාහන ආනයන සීමාවන් ලිහිල් කරන මාර්ග සිතියම, රජය ජාත්‍යන්තර මූල්‍ය වෙත ඉදිරිපත් කළ බවද අමාත්‍යවරයා එහිදී පවසා සිටියේය.
+
+එම මාර්ග සිතියමට අනුව පොදු ප්‍රවාහන සේවා සඳහා යොදාගන්නා වාහනවල සිට නිශ්චිත ක්‍රමවේදයක් යටතේ අනුපිළිවෙලකට ආනයන සීමා ලිහිල් කිරීම සිදු කිරීමට අපේක්ෂා කරන බව අමාත්‍යවරයා එහිදී පවසා සිටියේය.
+
+...
+
+[Data](articles/0791d197.json)
+
+---
+
+### ඊශ්‍රායලයෙන් බිහිසුණු ප්‍රහාරයක්
+
+*2024-06-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197788) · `si`
+
+දකුණු ලෙබනනයේ හඳුනාගත් ඉලක්ක වෙත ඊශ්‍රායල ප්‍රහාරක ජෙට් යානා සහ කාලතුවක්කු ප්‍රහාර එල්ලකළ බව ඊශ්‍රායල හමුදාව නිවේදනය කළේය.
+
+සිකුරාදා උතුරු ඊශ්‍රායලය වෙත ලෙබනනයේ සිට මිසයිල ප්‍රහාර එල්ලකර තිබූ අතර ඊට ප්‍රතිචාර ලෙස ඊශ්‍රායලය විසින් මෙම ප්‍රතිප්‍රහාර එල්ලකර තිබුණි.
+
+පසුගිය දින කිහිපය පුරා දෙපාර්ශ්වය එකිනෙකාට ප්‍රහාර එල්ල්කරගෙන තිබූ බව සඳහන් ය.
+
+මෑත කාලයේ ඊශ්‍රායලය එල්ලකළ ප්‍රහාර හේතුවෙන් මේ දක්වා හිස්බුල්ලා සාමාජිකයින් 300ක් සහ ලෙබනන් සාමාන්‍ය වාසිය 80ක් පමණ මියගොස් ඇති අතර හිස්බුල්ලා ප්‍රහාර හේතුවෙන් ඊශ්‍රායල හමුදා භටයින් 18ක් සහ සාමාන්‍ය වැසියන් 10ක් මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/7b7eead0.json)
+
+---
+
+### සුපිරි ගෝල රකින්නෙක් හදිසියේ ජීවිතක්ෂයට
+
+*2024-06-15 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197787) · `si`
+
+මොන්ටෙනෙග්‍රෝ ජාතික පාපන්දු කණ්ඩායමේ ගෝල රකින්නා ලෙස කටයුතු කළ Matija Sarkic හදිසියේ ජීවිතක්ෂයට පත්ව ඇති බව වාර්තා වෙයි.
+
+එසේම එංගලන්තයේ මිල්වොල් පාපන්දු කණ්ඩායමේ ගෝල රකින්නා ලෙසද කටයුතු කළේ ඔහුයි.
+
+ඔහු අවසන් වරට සිය ජාතික කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කළේ පසුගිය ජූනි 05 වනදා බෙල්ජියම සමග පැවති තරගයට යි.
+
+අද උදෑසන ඔහු හදිසියේ මියගිය බව මොන්ටෙනෙග්‍රෝ පාපන්දු සම්මේලනය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/bd1dbee1.json)
+
+---
 
 ### The pot of the mortgage center is discreet
 
@@ -2197,77 +2251,5 @@ The economic activities of agriculture, industrial and services in the first qua
 [Data](articles/8fe83a48.json)
 
 [Extended Data](ext_articles/8fe83a48.ext.json)
-
----
-
-### Come on where these babies were up.. ?
-
-*2024-06-14 16:49:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-බිළිඳුන්-කොහේ-සිටන්-ආවාදෝ--------/11-410213) · `si`
-
-In Nuwara Eliya, a baby's body was found near a well in Boraland. The discovery led to the involvement of the OIC Chief Inspector Premalal Hettiarachchi and the appointment of a Judicial Medical Officer from the Nuwara Eliya District Hospital General Hospital to investigate.
-
-🟩
-
-Headquarters OIC of the Nuwara Eliya, the OIC Chief Inspector Premalal Hettiarachchi has been discovered in Nuwara Eliya today (13).
-
-Residents of Boraland have found a baby body near a bulley in Borayanda.
-
-The Nuwara Eliya Police stated that all hospitals and police stations around the area were informed of the infant body.
-
-The infanti blend of the infantry magistrate Jayathi Ambagahawatta regarding the infant body has been ordered to be appointed to the Judicial Medical Officer of the Nuwara Eliya District Hospital General Hospital.
-
-◼️
-
-[Data](articles/a373c077.json)
-
-[Extended Data](ext_articles/a373c077.ext.json)
-
----
-
-### Prosortificance of announcing the decline of the devalaya
-
-*2024-06-14 16:39:47* · [`adalk`](https://www.ada.lk/breaking_news/දේවාලවල-ආදායම-අඩු-වුණැයි-කි-ප්‍රකාශයට-විරෝධයක්/11-410212) · `si`
-
-The Basnayake Nilame of the Sabaragamuwa Bullemme Maha Saman Devalaya received a letter criticizing his actions, suggesting he failed in his duties to support the temple and its devotees. The letter also mentioned a statement from the Basnayake Nilames Association, which was later clarified as unofficial and misunderstood. The secretary noted concerns about declining devotion, possibly linked to these issues.
-
-🟩
-
-The president of the Basnayake Nilame, the former Basnayake Nilame of the Basnayake Nilame and Sabaragamuwa Bulleme Maha Saman Devalaya has been sent to a letter from the Basnayake Nilame.
-
-The letter has pointed out that the statement of the Basnayake Nilames Association of the Basnayake Nilame of the Basnayake Nilame.
-
-The article points out that the main functions of a Basnayake Nilame of a temple was a charity of the temple and was a charity that would be a place of money and the heart of devotees.
-
-The letter stated that he has never been chaired by the Basnayake Nilames as a Test Industry.
-
-Upon inquiry from the Basnayakayan Nilami Association, he said that it was not an official statement of the association and that there was a misinterption in the expression.
-
-The Secretary of the Basnayake Nilames Association, said that the publications in the Social Medium said that it was a trend to reduce devotees.
-
-◼️
-
-[Data](articles/0dfe7f7b.json)
-
-[Extended Data](ext_articles/0dfe7f7b.ext.json)
-
----
-
-### Court orders for seized luxury vehicles to be handed over to Customs
-
-*2024-06-14 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99880/court-orders-for-seized-luxury-vehicles-to-be-handed-over-to-customs) · `en`
-
-The Colombo Magistrate’s Court has ordered for five luxury vehicles, seized by the Bribery Commission after it was found that they had been imported by submitting false information to the Department of Motor Traffic, to be handed over to Sri Lanka Customs.
-
-Investigations by the Bribery Commission have revealed that the government lost approximately Rs. 300 million in tax revenue due to the illegal importation of these vehicles, which are estimated to be worth around Rs. 600 million.
-
-The Bribery Commission had taken these vehicles into its custody based on court orders previously issued in relation to the investigation.
-
-Colombo Chief Magistrate Thilina Gamage, has ordered that the vehicles be handed over to Sri Lanka Customs for additional investigations after accepting the facts presented by the Bribery Commission.
-
-◼️
-
-[Data](articles/66489074.json)
-
-[Extended Data](ext_articles/66489074.ext.json)
 
 ---

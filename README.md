@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 05:36:52**
+As of **2024-06-15 06:00:07**
 
 ## Newspaper Stats
 
-*Scraped **30,453** Articles*
+*Scraped **30,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 278
 dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
-islandlk | 1,647
+islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,621
@@ -26,11 +26,55 @@ adaderanasinhalalk | 4,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,453 (100.0%) of 30,453 articles have been extended.
+30,453 (100.0%) of 30,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### Bank of Ceylon celebrates 43 years of banking excellence in the Maldives
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/bank-of-ceylon-celebrates-43-years-of-banking-excellence-in-the-maldives/) · `en`
+
+The Bank of Ceylon, one of the most esteemed financial institutions in the Maldives, commemorated its 43rd anniversary on May 28th 2024, marking over four decades of distinguished service and significant contributions to the economic development of the island nation.
+
+Established on May 7th 1981, and granted its banking license on January 26th 1982, the Bank of Ceylon has been a pillar of financial stability in the Maldives, earning a reputation for reliability, stability, and customer-centric service as one of the oldest and most respected banks operating in the country.
+
+...
+
+[Data](articles/0419dacb.json)
+
+---
+
+### SLT-MOBITEL & STEMUP Educational Foundation successfully complete first batch of “CoderDojo”
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/slt-mobitel-stemup-educational-foundation-successfully-complete-first-batch-of-coderdojo/) · `en`
+
+Empowering youth with essential coding skills for the digital future, SLT-MOBITEL, the National ICT Solutions Provider, in collaboration with the STEMUP Educational Foundation and the National Library of Sri Lanka, has successfully completed the first batch of CoderDojo program at the Public Library premises in Colombo.
+
+This initiative, led by STEMUP Educational Foundation, powered by SLT-MOBITEL and strategically partnered with the National Library of Sri Lanka, underscores SLT-MOBITEL’s commitment to nurturing the next generation of innovators and tech-savvy leaders. The successful completion of the first batch of CoderDojo at the Public Library demonstrates the company’s dedication to providing equal opportunities for all students to acquire invaluable STEM education skills.
+
+...
+
+[Data](articles/81966f61.json)
+
+---
+
+### Profit-taking leads to decline in equity index
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/profit-taking-leads-to-decline-in-equity-index/) · `en`
+
+Profit takings were noted at the CSE yesterday despite the IMF approval for the next tranche following news reports came out signaling the imposition of higher taxes.Due to that both indices moved downwards. All Share Price Index down by 36.75 points while.S and.P SL 20 by 18.67 points. Turnover stoodat Rs 1.2 billion with three crossings.
+
+Those crossings were reported in JKH, which crossed 1.2 million.shares to the tune of Rs252 million and its share traded at Rs 203, Hayleys Fabrics 525000 shares crossed to the tune of Rs 23.3 million and its share price trades at Rs44.50 and T J.Lanka 500,000 shares crossed to the tune of Rs 20 million and its share price traded at Rs 4
+
+In the retail market too seven contributors to the market were Hayleys, Dipped Products, Hayleys Fabrics,JKH, Lankem Developments and JAT Holdings. During the day37.4 million share volumes changed hands in 9700 transaction.
+
+...
+
+[Data](articles/a00c38b7.json)
+
+---
 
 ### National responsibility to use IMF third tranche effectively – Karu
 
@@ -109,6 +153,22 @@ On Wednesday, Nawaratna announced he would temporarily step down from his positi
 [Data](articles/5a6cf710.json)
 
 [Extended Data](ext_articles/5a6cf710.ext.json)
+
+---
+
+### Clear Vision, Shared Mission: Pan Asia Bank and Rotary Club of Kelaniya illuminate elderly eye care in Matara region
+
+*2024-06-15 01:16:00* · [`islandlk`](http://island.lk/clear-vision-shared-mission-pan-asia-bank-and-rotary-club-of-kelaniya-illuminate-elderly-eye-care-in-matara-region/) · `en`
+
+As the “Truly Sri Lankan Bank,” Pan Asia Bank successfully concluded a joint project with the Kelaniya Rotary Club to fulfill a pressing need in the Matara area. Together, they started a large-scale Corporate Social Responsibility (CSR) project to open an eye clinic designed with senior citizens in mind.
+
+The program’s main objectives were to elevate the quality of life and overall wellbeing of senior citizens in Matara by providing them with the much-needed eye care services. The services provided ranged from eye examinations to prescriptions of eyeglasses, as well as the option of selecting frames and lenses.
+
+The project’s first day, which spanned two days, saw its inaugural day on April 6, 2024, at the Attorney General’s Office in Matara. Reputed ophthalmologists gave our clients advice and consultations, making sure they got the assistance and treatment they required.
+
+...
+
+[Data](articles/7eef57dc.json)
 
 ---
 
@@ -227,6 +287,20 @@ It is important to note that supporting these initiatives is the duty of Governm
 [Data](articles/d435808b.json)
 
 [Extended Data](ext_articles/d435808b.ext.json)
+
+---
+
+### Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalutara District
+
+*2024-06-15 01:11:00* · [`islandlk`](http://island.lk/cinnamon-bey-beruwala-pioneers-installation-of-first-ever-ocean-strainer-in-kalutara-district/) · `en`
+
+Cinnamon Bey Beruwala proudly announces the launch of a significant environmental initiative as part of the Clean Water Project by John Keells Holdings (JKH). Coinciding with the World Environment Day and World Ocean Day celebrations, the first ever ocean strainer was installed in the Beruwala canal, marking a pivotal step towards improving water quality and marine conservation in the Kaluthara district.
+
+With the collaborative efforts of the John Keells Foundation, MAS Holdings, the Beruwala Urban Council, and the National Waste Management Centre, the project was successfully implemented within a week of its initiation. This installation represents the initial phase of a broader effort to reduce marine pollution and protect coastal ecosystems. The ocean strainer will play a crucial role in filtering waste from the canal, preventing it from reaching the ocean and causing harm to marine life.
+
+...
+
+[Data](articles/a4122167.json)
 
 ---
 
@@ -2165,131 +2239,5 @@ Sling Mobility’s collaboration with Uber for food delivery services has demons
 [Data](articles/7d07f82e.json)
 
 [Extended Data](ext_articles/7d07f82e.ext.json)
-
----
-
-### Kenyan policeman shoots magistrate in court after ruling against wife
-
-*2024-06-14 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99871/kenyan-policeman-shoots-magistrate-in-court-after-ruling-against-wife) · `en`
-
-A senior Kenyan police officer has been shot dead after he opened fire at a magistrate in court in the capital, Nairobi.
-
-The chief inspector opened fire on Makadara Principal Magistrate Monica Kivuti shortly after she made a ruling in a case reportedly involving his wife.
-
-The officer is said to have been angered by the court’s decision to cancel her bail after she had absconded.
-
-The officer, identified as Samson Kipchirchir Kipruto, who is in charge of a police station in Londiani in western Kenya, then pulled out a gun and shot the magistrate, injuring her.
-
-Other officers in court responded immediately, with one of them shooting the offending policeman and killing him.
-
-In the process, three other officers were injured, a police report said.
-
-The magistrate and the injured officers are being treated in hospital.
-
-The judiciary said the magistrate had “cancelled the bond for an accused person who had jumped bond and had failed to offer satisfactory explanations for jumping bond”.
-
-...
-
-[Data](articles/d0d171ae.json)
-
-[Extended Data](ext_articles/d0d171ae.ext.json)
-
----
-
-### If you learn about E ියා ail salary
-
-*2024-06-14 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197744) · `si`
-
-Tesla shareholders approved a historic salary increase for CEO Elon Musk, who had advocated for higher compensation. This decision came during Tesla's annual summit in Texas, where Musk expressed his desire for a raise.
-
-🟩
-
-Tesla Company's stock owners agreed to the proposal to pay a record salary for Elon Meal.
-
-He was said to have been saying that his salary should be increased with months.
-
-He was speaking at the Tesla's headquarters at the time of the Annual Summit's Annual Summit in Texas.
-
-◼️
-
-[Data](articles/9fcd72b8.json)
-
-[Extended Data](ext_articles/9fcd72b8.ext.json)
-
----
-
-### Mahindananda says that Gunatilleke goes to law against Rajapakse
-
-*2024-06-14 11:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගුණතිලක-රාජපක්ෂට-එරෙහිව-නිතිය-හමුවට-යන-බව-මහින්දානන්ද-කියයි/11-410211) · `si`
-
-MP Gunathanda Aluthgamage plans to sue media outlets over reports that he was injured in an assault by Gunatilleke Rajapaksa, denying the allegations and advising his lawyer to take legal action. He insists no one has testified that he was attacked by Rajapaksa, and he will proceed with legal action regardless.
-
-🟩
-
-Kandy District Parliamentarian Parliamentarian MP Gunathanda Aluthgamage said that legal action will be taken against the media that he was injured.
-
-Mr. Mahindananda Aluthgamage was told by a special media briefing in Nawalapitiya, the 14th.
-
-"After Gunatilleke Rajapaksa recently assaulted him, he had been sentenced to the media that he was seriously injured in the attack on his base.
-
-I strongly deny that allegation, I advised my lawyer to take legal action against them.
-
-Mr. Gunatilleke Rajapaksa was in front of state officials in front of state officials, and I advised him not to act before government officials.
-
-He was subjected to an argument.
-
-The Jagath, Kalutara Districts, Polonnaruwa Districts, has been recorded by these people by the police.
-
-None of these people testify to the police that I was attacked by Mr. Gunatilake Rajapaksa, then the police had been investigated by the police.
-
-I am doing a need for someone else's need, I'm sorry, I will take legal action. "
-
-◼️
-
-[Data](articles/dd582f36.json)
-
-[Extended Data](ext_articles/dd582f36.ext.json)
-
----
-
-### Liquor schools that are closed for 16 days
-
-*2024-06-14 10:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-நாட்களுக்கு-மூடப்படும்-மதுபானசாலைகள்/175-338896) · `ta`
-
-All liquor stores in Kadirgamam will close from July 6 to July 22 ahead of the Azala Perahera event at the Ruhunu Kadirgama Maha Church.
-
-🟩
-
-It has been decided to close all liquor stores in Kadirgamam area for 16 days in front of the Azala Perahera of the Ruhunu Kadirgama Maha Church.
-
-Accordingly, the liquor shops will be closed from July 6 to July 22. Remble
-
-◼️
-
-[Data](articles/37a94ff6.json)
-
-[Extended Data](ext_articles/37a94ff6.ext.json)
-
----
-
-### Mahindananda's story about attack
-
-*2024-06-14 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197743) · `si`
-
-Mahindananda Aluthgamage, a parliamentarian, announced legal action against MP Gunatilleke Rajapaksa, accusing him of assault.
-
-🟩
-
-Parliamentarian Mahindananda Aluthgamage says that legal action will be taken against MP Gunatilleke Rajapaksa.
-
-The MP of Mahindananda Aluthgamage pointed out that he had accused him that he had assaulted him by Gunatilake Rajapaksa.
-
-The comments of MP Mahindananda Aluthgamage explained in this regard,
-
-◼️
-
-[Data](articles/93e46ffa.json)
-
-[Extended Data](ext_articles/93e46ffa.ext.json)
 
 ---

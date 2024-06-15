@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 16:34:31**
+As of **2024-06-15 16:51:19**
 
 ## Newspaper Stats
 
-*Scraped **30,509** Articles*
+*Scraped **30,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,147 @@ islandlk | 1,655
 economynextcom | 1,771
 dailyftlk | 1,862
 adalk | 2,626
-adaderanalk | 3,457
+adaderanalk | 3,459
 tamilmirrorlk | 3,568
 virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,931
+adaderanasinhalalk | 4,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,506 (100.0%) of 30,509 articles have been extended.
+30,509 (100.0%) of 30,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### වාහන ආනයන වැඩපිළිවෙල සැකසීමට කමිටුවක්
+### Committee appointed to formulate program for vehicle imports
+
+*2024-06-15 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99897/committee-appointed-to-formulate-program-for-vehicle-imports) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that a committee was appointed on Friday (14) to devise a program on how to carry out vehicle importation activities in the future.
+
+Speaking to the media today (15), Siyambalapitiya highlighted ongoing discussions with the International Monetary Fund (IMF), which has been guiding the country’s financial strategies.
+
+He mentioned that the government has submitted a roadmap to the IMF regarding the relaxation of vehicle import restrictions, recognizing the direct impact of such imports on the country’s foreign reserves.
+
+The relaxation of restrictions will begin with vehicles used for public transport, following a specific method outlined in the roadmap, according to the State Minister.
+
+...
+
+[Data](articles/f98b971b.json)
+
+---
+
+### පිළිකාවෙන් බේරුණු කේට්
+
+*2024-06-15 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197790) · `si`
+
+බ්‍රිතාන්‍යයේ වේල්ස් කුමරිය මාස පහකට පමණ පසු පළමුවරට මහජන උත්සවයක් සඳහා අද (15) එක් වූවාය.
+
+මීට මාස 5කට පමණ පෙර ඇය පිළිකාවක් හේතුවෙන් ශල්‍ය කර්මයකට මුහුණ දුන්නාය.
+
+චාල්ස් රජුගේ උපන් දිනය නිමිත්තෙන් පැවැත්වෙන "Trooping the Colour" නම් වාර්ෂිකව පැවැත්වෙන හමුදා පෙළපාලියක සිය දරුවන් තිදෙනා සමග අශ්ව රථයක කේට් කුමරිය ගමන් කළාය.
+
+◼️
+
+[Data](articles/79a75bc3.json)
+
+---
+
+### Israeli troops catapult fireball into Lebanon using weapon rarely used since 16th century
+
+*2024-06-15 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99895/israeli-troops-catapult-fireball-into-lebanon-using-weapon-rarely-used-since-16th-century) · `en`
+
+Israeli troops have used a medieval-style catapult to toss fireballs across the border into Lebanon, as fighting ramps up between Israel and the Iran-backed Islamist group Hezbollah.
+
+The trebuchet, a rotating arm with a sling attached to launch a projectile, has rarely been used since the 16th century.
+
+The Israel Defense Forces (IDF) said the catapult was “a local initiative” and had not “come into widespread use,” Israeli public broadcaster and CNN affiliate Kan reported Thursday.
+
+Kan said the trebuchet was probably used to burn shrubbery, making it easier for Israeli forces to identify militants attempting to reach the border. CNN has asked the IDF for comment.
+
+A video of the catapult in action was posted on social media on Wednesday. CNN could not verify when the footage was filmed but geolocated it to the Israeli-Lebanese border.
+
+...
+
+[Data](articles/a0059db1.json)
+
+---
+
+### Committee to prepare vehicle imports
 
 *2024-06-15 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197789) · `si`
 
-ඉදිරියේදී වාහන ආනයන කටයුතු සිදුකරන ආකාරය පිළිබඳ වැඩපිළිවෙල සැකසීම සඳහා කමිටුවක් පත්කළ බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+A committee has been formed under Dr. Ranjith Siyambalapitiya to manage vehicle imports in Sri Lanka, aiming to liberalize public transport vehicles and negotiate financial agreements with the IMF. This initiative directly impacts the country's foreign reserves and involves key stakeholders including the Ministry of Industries and various departments. The focus includes importing motorcycles, electric vehicles, and other luxury cars for public use, ensuring careful consideration of each aspect.
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ මෙරට මූල්‍ය කටයුතු සම්බන්ධයෙන් මඟපෙන්වන්නෙකු බවට පත්ව ඇති ජාත්‍යන්තර මුල්‍ය අරමුදල සමඟ බොහෝ මූල්‍යමය කාරණා පිලිබඳව සාකච්ඡා කොට එකඟතාවයන්ට පැමිණිම සිදුකරන බවයි.
+🟩
 
-ඒ අනුව වාහන ආනයනය යනු රටේ විදේශ සංචිත වලට සෘපුවම බලපාන කරුණක් බැවින් වාහන ආනයන සීමාවන් ලිහිල් කරන මාර්ග සිතියම, රජය ජාත්‍යන්තර මූල්‍ය වෙත ඉදිරිපත් කළ බවද අමාත්‍යවරයා එහිදී පවසා සිටියේය.
+Minister of State Dr. Ranjith Siyambalapitiya says that a committee has been appointed to prepare the program of conducting vehicle imports.
 
-එම මාර්ග සිතියමට අනුව පොදු ප්‍රවාහන සේවා සඳහා යොදාගන්නා වාහනවල සිට නිශ්චිත ක්‍රමවේදයක් යටතේ අනුපිළිවෙලකට ආනයන සීමා ලිහිල් කිරීම සිදු කිරීමට අපේක්ෂා කරන බව අමාත්‍යවරයා එහිදී පවසා සිටියේය.
+Speaking further, the Minister said that with the International Monetary Fund, who has become a guideline in Sri Lanka, will discuss and reach agreements on many financial matters.
+
+Accordingly, the importal imports of vehicles is a direct impact on the country's foreign reserves, the Minister said that the road map of vehicle imports were submitted to the international financial institution.
+
+The Minister said that according to the road map, the vehicle used for public transport services will be liberalized to a specific system.
+
+Importation of vehicles, the Ministry of Industrial Association, the Minister of Industries, Ministry of Industries, Department of Industries, Department of Motor Association, Department of Motor Association, Department of Industries, Department of Motor TrafficThe committee was appointed as all the influential groups enter.
 
 ...
 
 [Data](articles/0791d197.json)
 
+[Extended Data](ext_articles/0791d197.ext.json)
+
 ---
 
-### ඊශ්‍රායලයෙන් බිහිසුණු ප්‍රහාරයක්
+### A terrible attack from Israel
 
 *2024-06-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197788) · `si`
 
-දකුණු ලෙබනනයේ හඳුනාගත් ඉලක්ක වෙත ඊශ්‍රායල ප්‍රහාරක ජෙට් යානා සහ කාලතුවක්කු ප්‍රහාර එල්ලකළ බව ඊශ්‍රායල හමුදාව නිවේදනය කළේය.
+Israel and Hezbollah exchange attacks: Israeli jets strike South Lebanon, while missiles from Lebanon target Northern Israel. Casualties reported on both sides, with 80 deaths among Hezbollah fighters and 80 Israeli soldiers.
 
-සිකුරාදා උතුරු ඊශ්‍රායලය වෙත ලෙබනනයේ සිට මිසයිල ප්‍රහාර එල්ලකර තිබූ අතර ඊට ප්‍රතිචාර ලෙස ඊශ්‍රායලය විසින් මෙම ප්‍රතිප්‍රහාර එල්ලකර තිබුණි.
+🟩
 
-පසුගිය දින කිහිපය පුරා දෙපාර්ශ්වය එකිනෙකාට ප්‍රහාර එල්ල්කරගෙන තිබූ බව සඳහන් ය.
+The Israeli Army announced Israeli fighter jets and artillery on the South Lebanon.
 
-මෑත කාලයේ ඊශ්‍රායලය එල්ලකළ ප්‍රහාර හේතුවෙන් මේ දක්වා හිස්බුල්ලා සාමාජිකයින් 300ක් සහ ලෙබනන් සාමාන්‍ය වාසිය 80ක් පමණ මියගොස් ඇති අතර හිස්බුල්ලා ප්‍රහාර හේතුවෙන් ඊශ්‍රායල හමුදා භටයින් 18ක් සහ සාමාන්‍ය වැසියන් 10ක් මියගොස් තිබේ.
+No northern Israel had launched a missile attacked from Lebanon and the response to the response.
+
+The two sides have been attacked by each other.
+
+The number of hezbollah and 80 Hezbolnen's attacks have been killed and 80 Israeli troops have died due to the death attacks on the recent attacks.
 
 ◼️
 
 [Data](articles/7b7eead0.json)
 
+[Extended Data](ext_articles/7b7eead0.ext.json)
+
 ---
 
-### සුපිරි ගෝල රකින්නෙක් හදිසියේ ජීවිතක්ෂයට
+### Superbicketing person suddenly dies
 
 *2024-06-15 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197787) · `si`
 
-මොන්ටෙනෙග්‍රෝ ජාතික පාපන්දු කණ්ඩායමේ ගෝල රකින්නා ලෙස කටයුතු කළ Matija Sarkic හදිසියේ ජීවිතක්ෂයට පත්ව ඇති බව වාර්තා වෙයි.
+Matija Sarkic, goalkeeper for Montenegro's national team and Millwall in England, passed away unexpectedly. His last game for Montenegro was on June 5th. The Montenegrin Football Federation confirmed his sudden death today.
 
-එසේම එංගලන්තයේ මිල්වොල් පාපන්දු කණ්ඩායමේ ගෝල රකින්නා ලෙසද කටයුතු කළේ ඔහුයි.
+🟩
 
-ඔහු අවසන් වරට සිය ජාතික කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කළේ පසුගිය ජූනි 05 වනදා බෙල්ජියම සමග පැවති තරගයට යි.
+Matija Sarkic, who served as the goalkeeper of Montenegro National Football Team, has died suddenly.
 
-අද උදෑසන ඔහු හදිසියේ මියගිය බව මොන්ටෙනෙග්‍රෝ පාපන්දු සම්මේලනය නිවේදනය කළේය.
+He also served as the goalkeeper of Millol football team in England.
+
+He was last played for his national team on June 5.
+
+The Montenegrah Football Federation announced that he died suddenly this morning.
 
 ◼️
 
 [Data](articles/bd1dbee1.json)
+
+[Extended Data](ext_articles/bd1dbee1.ext.json)
 
 ---
 
@@ -2169,87 +2243,5 @@ The program, which started at a cost of Rs 40 crore in the government of goodwil
 [Data](articles/d1af8335.json)
 
 [Extended Data](ext_articles/d1af8335.ext.json)
-
----
-
-### Motorcyclist killed and killed a motorbike train
-
-*2024-06-14 16:52:06* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදියක්-දුම්රියේ-ගැටී-යතුරුපැදිකාරිය-මරුට/11-410214) · `si`
-
-A motorcyclist died after colliding with a train near Meetiyagoda while traveling from Galle to Rambukkana. The incident resulted in serious injuries to another person hospitalized. The victim, from Hikkaduwa, was identified post-accident.
-
-🟩
-
-Police say a motorcycle rose to a train traveling from Galle to Rambukkana on a fault in Meetiyagoda Police said that a motorcycle drown from Galle to Rambukkana.
-
-The police said that hospitalization was seriously injured in hospital injured in the accident. The deceased has been identified as a resident of Hikkaduwa.
-
-Her clumps have been the cause of this accident.
-
-◼️
-
-[Data](articles/cfb6adaa.json)
-
-[Extended Data](ext_articles/cfb6adaa.ext.json)
-
----
-
-### A warning of a famine
-
-*2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197760) · `si`
-
-Famine threatens 17.7 million in Zudh, with 25.6 million facing severe food crises. The UN warns of a potential famine within months, exacerbated by conflict and security risks. Despite the NMC government denying a famine, the UN faces challenges in assessing the situation due to security issues and communication barriers. The ongoing civil war in Sudan, particularly in the western Daduwur region, has displaced over 10 million, with the UN expressing concern over severe malnutrition affecting 3.6 million. The UN Security Council has passed a resolution calling for the removal of armed forces from the region, highlighting the urgency of the situation.
-
-🟩
-
-The United Nations Relief Organizations operating in the next few months, the United Nations Relief Organization (UN) proceedings will face a famine in the next few months.
-
-According to reports released last December, 17.7 million people in Zudh, that is, 37% of the population pee in food insecurity.
-
-But at least 25.6 million, 54% of the population is facing a serious food crisis.
-
-9 million people are reported to be in severe aid if there are no emergency.
-
-The NMC government says that there is no famine in the country.
-
-The proper evaluation of the famine of Sudaya is also also trouble.
-
-The Rome Center Protection Stage is a challenge that the information data is a challenge due to security risk, roadblock and telecommunications.
-
-However, they are to submit a new record in the situation of Sudha.
-
-The present civil war in Sudan began in April last year.
-
-In particular, the western Daduwur region spread racism and racism.
-
-...
-
-[Data](articles/806a826f.json)
-
-[Extended Data](ext_articles/806a826f.ext.json)
-
----
-
-### Sri Lanka's economy growth in the first quarter of this year
-
-*2024-06-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197759) · `si`
-
-In Q1 2024, Sri Lanka's GDP grew by 5.3%, reaching Rs. 3,161,963 million. Agriculture, industry, and services sectors saw increases of 1.1%, 11.8%, and 2.6% respectively.
-
-🟩
-
-In the first quarter of 2024, the growth of GDP growth is 5.3%.
-
-The Department of Census and Statistics have issued a statement.
-
-Accordingly, the first quarter of 2023 was Rs. 3,161,963 million in the first quarter of 2024.
-
-The economic activities of agriculture, industrial and services in the first quarter of 2024 have been increased by 1.1%, 11.8% and 2.6 respectively.
-
-◼️
-
-[Data](articles/8fe83a48.json)
-
-[Extended Data](ext_articles/8fe83a48.ext.json)
 
 ---

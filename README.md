@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 21:54:23**
+As of **2024-06-15 22:06:35**
 
 ## Newspaper Stats
 
-*Scraped **30,528** Articles*
+*Scraped **30,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,38 @@ dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,655
-economynextcom | 1,771
+economynextcom | 1,773
 dailyftlk | 1,863
 adalk | 2,628
 adaderanalk | 3,460
 tamilmirrorlk | 3,571
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,940
+adaderanasinhalalk | 4,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,528 (100.0%) of 30,528 articles have been extended.
+30,528 (100.0%) of 30,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### ඉන්දියාව සහ කැනඩාව අතර තරගය අත්හැර දමයි
+
+*2024-06-15 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197799) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දියාව සහ කැනඩාව අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+
+එමෙන්ම මේ වනවිට A කාණ්ඩයෙන් ඉන්දියාව සහ අමෙරිකාව සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබාගෙන ඇති අතර B කාණ්ඩයෙන් ඔස්ට්‍රේලියාව ද, C කාණ්ඩයෙන් බටහිර ඉන්දීය කොදෙව් සහ ඇෆ්ගනිස්තානය ද  D කාණ්ඩයෙන් දකුණු අප්‍රිකාව ද සුපිරි 8 තරග වටයට සුදුසුකම් ලබා සිටී.
+
+◼️
+
+[Data](articles/bae83e2c.json)
+
+---
 
 ### Venny who has committed to the Wayamba Theater
 
@@ -63,6 +77,26 @@ It is sad that no more than 10 years since 2012, the construction of the theater
 [Data](articles/3e8d593f.json)
 
 [Extended Data](ext_articles/3e8d593f.ext.json)
+
+---
+
+### Chitrasiri Committee presents draft constitution for Sri Lanka Cricket
+
+*2024-06-15 20:33:00* · [`economynextcom`](https://economynext.com/chitrasiri-committee-presents-draft-constitution-for-sri-lanka-cricket-168188/) · `en`
+
+ECONOMYNEXT – A draft constitution for Sri Lanka Cricket, the governing body for cricket in the island, prepared by a committee headed by retired Supreme Court judge K T Chitrasiri, was presented to President Ranil Wickremesinghe today (15).
+
+The Sri Lanka team were ignominiously knocked out of the Men’s T20 World Cup tournament this week, sparking renewed criticism of the team and the governing body.
+
+Last November, a cabinet sub-committee was appointed to address challenges faced by Sri Lanka Cricket and provide recommendations after consecutive losses became a hot topic in parliament.
+
+After parliament decided to remove the administrators of the sport, the International Cricket Council (ICC) Board suspended Sri Lanka Cricket’s membership.
+
+Based on the sub-committee’s recommendations in its report, the Cabinet then appointed an expert committee to draft a new constitution for Sri Lanka Cricket.
+
+...
+
+[Data](articles/7069fafa.json)
 
 ---
 
@@ -359,6 +393,28 @@ When the two arrested were produced before the Akkaraipattu Magistrate's Court o
 [Data](articles/8d0f0f36.json)
 
 [Extended Data](ext_articles/8d0f0f36.ext.json)
+
+---
+
+### Sri Lanka’s Cable Solutions in Rs605mn IPO
+
+*2024-06-15 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-in-rs605mn-ipo-168177/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cable Solutions Limited will make an initial public offering of ordinary voting shares on the Diri Savi Board of the Colombo Stock Exchange (CSE).
+
+The CSE had approved, in-principle, an application submitted by the company, for the listing of its ordinary voting shares by way of an offer for subscription and an offer for sale.
+
+For subscription, 14,666,600 shares would be offered at 7.50 rupees a share.
+
+For sale, 66,120,000 shares would be offered at 7.50 rupees a share.
+
+The opening of subscription list is July 23. Copies of the prospectus would be made available to trading participants on July 9. (Colombo/Jun15/2024)
+
+Sri Lanka’s ACL Cables wraps up acquisition of Cable Solutions
+
+◼️
+
+[Data](articles/c6039b20.json)
 
 ---
 
@@ -2227,79 +2283,5 @@ The suspension in G7 member countries and the suspension of Russian assets in th
 [Data](articles/7f88edf8.json)
 
 [Extended Data](ext_articles/7f88edf8.ext.json)
-
----
-
-### Abnormal behavior again from Bideen
-
-*2024-06-14 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197766) · `si`
-
-G7 leaders meet in Italy, including Ukrainian Pres. Zelensky, discussing a $50 billion loan for Ukraine using frozen Russian assets post-invasion. This move follows President Biden's odd behavior during the event, where parachutists carried national flags. The total value of suspended Russian assets across G7 nations and the EU exceeds $325 billion, potentially generating $3 billion annually.
-
-🟩
-
-A parachutemen who carry the national flags of member countries have been conducted in member countries to congratulate G7 Heads of Heads.
-
-US President Joor Beams added to the occasion have shown an unusual behavior again.
-
-Italian Prime Minister Georgia is back, foreign media reports the oldest media of President Baiden's elderly.
-
-The meeting of the G7 Head of the Government is currently in Bourgo Inyasia, Italy.
-
-The G7 group representative British, Canada, France, Germany, Italy, Japan, Japan and EU leaders.
-
-President Vlodimir Selenski, including Ukrainian President Vladimir Selenski, invited to provide US $ 50 billion loan to Ukraine
-
-They are about to give this amount using Russian assets in Gian countries.
-
-After the invasion of Russia in 2022, they were suspended to suspend the assets after the invasion of Ukraine.
-
-The suspension in G7 member countries and the suspension of Russian assets in the European Union have over US $ 325 billion.
-
-...
-
-[Data](articles/8ccacc5c.json)
-
-[Extended Data](ext_articles/8ccacc5c.ext.json)
-
----
-
-### Sri Lanka’s NPP notes five-point crisis for economic growth sans details
-
-*2024-06-14 20:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-notes-five-point-crisis-for-economic-growth-sans-details-168049/) · `en`
-
-ECONOMYNEXT — The leftist National People’s Power (NPP) has identified five crises that need resolving for Sri Lanka’s economy to progress, much of which emphasise a production economy targeting export growth though sparse on the detail on resource allocation.
-
-NPP spokesman and former parliamentarian Sunil Handunneththi speaking at an event in Mulaitivu on Thursday June 13 said Sri Lanka is grappling with firstly, a collapse of the production economy, second, a budget deficit, third, a balance of payment crisis which has, fourthly, created a debt crisis, and finally, a resultant gap between haves and have-nots.
-
-“We must first understand the crisis. We reocgnise five main crises that have the same impact irrespective of differences between the north and south.
-
-...
-
-[Data](articles/0ebd36a7.json)
-
-[Extended Data](ext_articles/0ebd36a7.ext.json)
-
----
-
-### S. Jaishankar is coming to Sri Lanka
-
-*2024-06-14 20:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-எஸ்-ஜெய்சங்கர்/175-338913) · `ta`
-
-Indian External Affairs Minister Dr. S. Jaishankar is set to visit Sri Lanka this month to enhance ties in renewable energy, tourism, and financial sectors. The trip aims to pave the way for Prime Minister Modi's future visit, focusing on strengthening bilateral relations.
-
-🟩
-
-Sri Lanka's Foreign Minister Ali Sabri has confirmed that Indian External Affairs Minister Dr. S. Jaishankar will come to Sri Lanka this month.
-
-The purpose of this visit is to review the existing cooperation in financial cooperation between the renewable energy, tourism and the central bank and the finance ministry.
-
-It is also said that it will also set up Prime Minister Modi's visit to Sri Lanka in the future. Remble
-
-◼️
-
-[Data](articles/070276e8.json)
-
-[Extended Data](ext_articles/070276e8.ext.json)
 
 ---

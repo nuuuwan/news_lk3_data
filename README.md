@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 18:23:55**
+As of **2024-06-15 18:35:12**
 
 ## Newspaper Stats
 
@@ -26,59 +26,77 @@ adaderanasinhalalk | 4,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,516 (100.0%) of 30,519 articles have been extended.
+30,519 (100.0%) of 30,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට පහසු ජයක්
+### Sri Lanka women's group beat Sri Lanka
 
 *2024-06-15 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197793) · `si`
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සහ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අතර අද (15) පැවති එක්දින ජාත්‍යන්තර තරගය කඩුලු 6කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+In a thrilling match, Sri Lanka's women's cricket team secured a victory against the West Indies women's team by 6 wickets. After winning the toss and choosing to bat first, the West Indies managed to score 195 runs in 197 overs. Sri Lanka's bowlers, Sugandika Kumari and Kavith Dilhari, were instrumental in this feat, each taking three wickets. In their chase, Sri Lanka reached the target of 196 runs in just 34 overs, losing only 4 wickets in the process.
 
-තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව කොදෙව් කාන්තා කණ්ඩායමට ලබා දුනි.
+🟩
 
-ඒ අනුව කොදෙව් කාන්තා කණ්ඩායම පන්දුවාර 47යි එක්පන්දුවක් තුළ සියලුදෙනා දැවී ලකුණු 195ක් ලබා ගත්තේය.
+Sri Lanka won the ODI between the West Indies women's group and the Sri Lanka women's group by 6 wickets.
 
-පන්දු යැවීමේදී සුගන්දිකා කුමාරි සහ කවිෂා දිල්හාරි කඩුලු 03 බැගින් දවාගත්තෝය.
+The Sri Lankan team won the toss and elected to bat first.
 
-ලකුණු 196ක ඉලක්කය හඹා ගිය ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 34යි එක් පන්දුවක් අවසානයේ කඩුලු 4ක් දැවී ජග්‍රහණය වාර්තා කළේය.
+Accordingly, West Indies women scored 195 runs for the loss of 197 overs.
+
+Sugandika Kumari and Kavith Dilhari took three wickets each.
+
+Chasing 196, Sri Lanka women scored 34 overs and the loss of 4 wickets in one ball.
 
 ◼️
 
 [Data](articles/0a2843e5.json)
 
+[Extended Data](ext_articles/0a2843e5.ext.json)
+
 ---
 
-### இலங்கையில் அறிமுகப்படுத்தப்படவுள்ள வாடகை வருமான வரி
+### Rental Income Tax to be introduced in Sri Lanka
 
 *2024-06-15 17:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அறிமுகப்படுத்தப்படவுள்ள-வாடகை-வருமான-வரி/175-338936) · `ta`
 
-2025ஆம் ஆண்டு ஏப்ரல் முதலாம் திகதி முதல் குடியிருப்புச் சொத்துக்களுக்கு விதிக்கப்படும் வாடகை வருமான வரியை சர்வதேச நாணய நிதியம் அறிமுகப்படுத்த தீர்மானித்துள்ளது.
+Sri Lanka will implement a rental income tax on residential properties starting April 1, 2025, aiming full rollout by 2026. The decision comes from the International Monetary Fund during its second review of Sri Lanka's loan facility program.
 
-2026ஆம் ஆண்டிற்குள் இந்த வரி முறையை முழுமையாக நடைமுறைப்படுத்த இலங்கைக்கு, இலக்கு வைத்துள்ளதாக சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
+🟩
 
-இலங்கையுடனான கடன் வசதி திட்டத்தின் இரண்டாவது மீளாய்வின் பின்னர் வெளியிடப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது. R
+The International Monetary Fund has decided to introduce a rental income tax on residential assets from April 1, 2025.
+
+The International Monetary Fund has said that Sri Lanka is aimed at fully implementing the tax system by 2026.
+
+This was stated in a statement released after a second review of the loan facility program with Sri Lanka. Remble
 
 ◼️
 
 [Data](articles/87f55087.json)
 
+[Extended Data](ext_articles/87f55087.ext.json)
+
 ---
 
-### கடற்கரையில்  உருகுலைந்த நிலையில் சடலம் மீட்பு
+### The corpse recovery at the beach
 
 *2024-06-15 17:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கரையில்-உருகுலைந்த-நிலையில்-சடலம்-மீட்பு/175-338935) · `ta`
 
-யாழ்ப்பாணம் - ஊர்காவற்றுறை, மடத்துவெளி கடற்கரை பகுதியில்  உருகுலைந்த நிலையில் நபர் ஒருவரின் சடலம் கரையொதுங்கியுள்ளது.
+A body found near Madathuveli, Jaffna-Kayts, was transported to Jaffna Teaching Hospital for autopsy after being discovered in a melted state by local police.
 
-ஊர்காவற்றுறை பொலிஸாரின் விசாரணைகளின் பின்னர் சடலம் பிரதே பரிசோதனைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
+
+The body of a person has been hit by a melting area on the Madathuveli coastal area of ​​Jaffna - Kayts.
+
+The body has been sent to the Jaffna Teaching Hospital for examination after investigations by the Kayts police.
 
 ◼️
 
 [Data](articles/dfdf0fae.json)
+
+[Extended Data](ext_articles/dfdf0fae.ext.json)
 
 ---
 

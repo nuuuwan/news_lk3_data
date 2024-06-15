@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 15:19:13**
+As of **2024-06-15 15:34:43**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,500 (100.0%) of 30,503 articles have been extended.
+30,503 (100.0%) of 30,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### චමෝදී ප්‍රබෝධාට මතු දෙරණින් ශිෂ්‍යත්වයක්
+### Chamo is a scholarship for Prabith
 
 *2024-06-15 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197785) · `si`
 
-දක්ෂතාවලින් පරිපූර්ණ ශ්‍රී ලංකාවේ තාරුණ්‍යට සවියක් වීමේ අරමුණින් දෙරණ මාධ්‍ය ජාලය ආරම්භ කළ  "මතු දෙරණ" ව්‍යාපෘතිය යටතේ, ශ්‍රී ලංකා නාමය ජාත්‍යන්තරයට ගෙන ගිය තවත් ක්‍රීඩිකාවකට අනුග්‍රාහක ශිෂ්‍යත්වක් පිරිනැමීම පසුගියදා සිදුකෙරුණි.
+Chamo, a 19-year-old cricketer, received a scholarship from Derana Media Network worth Rs. 25,000 per month under the "Maha Derana" project. She impressed during the Under 19 Triangular Cricket Tournament, scoring 52 runs in one match. This achievement highlights her potential for a bright future in cricket.
 
-එම ශිෂ්‍යත්වය පිරිනැමුණේ වයස අවුරුදු 19න් පහල කාන්තා ක්‍රිකට් කණ්ඩායම නියෝජනය කරන චමෝදී ප්‍රබෝධා ටය.
+🟩
 
-පසුගියදා මෙරටදී පැවති වයස අවුරුදු 19න් පහල කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියේදී පන්දුවෙන් දස්කම් දක්වමින් කාගෙත් අවධානය දිනා ගැනීමට ඇය සමත් වූවාය.
+A sponsored scholarship was presented to another player who was taken to the International Sri Lanka, another player who was taken to the international inhabited by the Derana Media Networking of the Derana.
 
-මොනරාගල දිස්ත්‍රික්කයේ කුඹුක්කන, පඤ්ඤානන්ද විද්‍යාලයේ ඉගෙනුම ලබන 15 හැවිරිදි චමෝදී ප්‍රබෝධා එංගලන්තය සමඟ පැවති තරගයේදී ලකුණු 42කට කඩුලු 5ක් දවා ගැනීම විශේෂත්වය කි.
+The scholarship was awarded Chamo in the 19-year-old cricket team.
 
-දීප්තිමත් අනාගතයක් හිමි චමෝදී ප්‍රබෝධාගේ ක්‍රීඩා දිවියට අත්වැලක් වීමේ අරමුණෙන් "මතු දෙරණ" ශිෂ්‍යත්ව ව්‍යාපෘතිය යටතේ ඇයගේ ක්‍රීඩා සහ පෝෂණ අවශ්‍යතා සපුරා ගැනීමට මසකට රුපියල් 25,000 බැගින් වූ මූල්‍යමය ශිෂ්‍යත්වයක් පිරිනැමීමට දෙරණ මාධ්‍ය ජාලය කටයුතු කළේය.
+She was able to attract the attention of the Triangular Cricket Tournament in the Under 19 years of age.
+
+Due to the 15-year-old chamokha, Panadhanda, 52 runs in the match with 42 runs.
+
+Chamho, a bright future, helped to help Prabith Derana "Scholarship Scholarship projects, the Derana Media Network of Rs. 25,000 per month under the" Maha Derana "scholarship project.
 
 ◼️
 
 [Data](articles/bcf5ddc8.json)
+
+[Extended Data](ext_articles/bcf5ddc8.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Minister of Foreign Affairs, President’s Counsel Ali Sabry, highlighted this d
 ...
 
 [Data](articles/ed570075.json)
+
+[Extended Data](ext_articles/ed570075.ext.json)
 
 ---
 
@@ -240,21 +248,27 @@ It will be held until August 15. Thus, traffic congestion is likely to occur in 
 
 ---
 
-### ක්‍රිකට් ආයතනයේ නව ව්‍යවස්ථා පනත් කෙටුම්පත ජනපතිට
+### President of SLC to President
 
 *2024-06-15 13:05:21* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ආයතනයේ-නව-ව්‍යවස්ථා-පනත්-කෙටුම්පත-ජනපතිට/9-410220) · `si`
 
-ජාතික පිරිමි හා කාන්තා කණ්ඩායම් ඇතුළු විවිධ මට්ටම්වල ක්‍රීඩකයන්ගේ පරිපාලනය, පුහුණුව හා සමස්ත යහපැවැත්ම පිළිබඳ යෝජනා කිහිපයක්.
+A bill proposing a new constitution for Sri Lanka Cricket was submitted to President Ranil Wickremesinghe, aiming to restructure SLC for better governance, promote equality, and improve cricket at all levels. The proposal includes suggestions for administrative changes, training, and alliances to enhance overall well-being.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සංයුතිය හා ව්‍යූහය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳවත් අවධානය.
+🟩
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සඳහා නව ව්‍යවස්ථාවක් කෙටුම්පත් කිරීමට පත්කළ විනිසුරු චිත්‍රසිරි කමිටුව විසින් සකස්කළ පනත් කෙටුම්පත අද (15) ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත බාර දෙනු ලැබීය.
+Several suggestions on the administration, training and allies of the entire well-being, including national male and female groups.
 
-කමිටුවේ සභාපති විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිරි මහතා විසින් පනත් කෙටුම්පත ජනාධිපතිවරයා වෙත භාර දුන් අතර කමිටුවේ සෙසු සාමාජිකයන් ද ඊට එක්ව සිටියහ.
+Attempting the restructuring of SLC composition and structure.
+
+The Bill, which was made to draft a new constitution to Sri Lanka Cricket, was handed over to President Ranil Wickremesinghe at the Presidential Secretariat today (15).
+
+Chairman of the Committee Retired Supreme Court Judge KT. Mr. Chithziri handed over the Bill to the President and other members of the committee were also present.
 
 ...
 
 [Data](articles/c0c9eace.json)
+
+[Extended Data](ext_articles/c0c9eace.ext.json)
 
 ---
 

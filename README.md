@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 14:53:09**
+As of **2024-06-15 15:04:11**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,499 (100.0%) of 30,500 articles have been extended.
+30,500 (100.0%) of 30,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### ලෝක ක්‍රිකට් පිටිය මවිත කළ අමෙරිකානු කණ්ඩායම
+### American team that was amazing world cricket field
 
 *2024-06-15 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197784) · `si`
 
-මෙවර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබා ගැනීමට සම-සත්කාරකත්වය දරන අමෙරිකාවට හැකිවිය.
+The U.S. cricket team made history by qualifying for the Super 8 stage of the T20 World Cup after defeating Ireland, marking their best performance in the tournament. This victory came as a surprise, especially since it led to Pakistan being eliminated from the competition early. The decision to cancel the match against Ireland due to rain ensured the U.S.'s progress.
 
-ඒ අයර්ලන්තය සමඟ ඊයේ (14) පැවති තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමත් සමඟය.
+🟩
 
-ඒ අනුව A කාණ්ඩයෙන් මෙවර තරගාවලියට පිවිසි පාකිස්තානයට මුලික වටයෙන්ම ඉවත්වීමට සිදුවිය.
+The United States was able to qualify for the matches of the 8 World Cups.
 
-විස්සයි විස්ස ලෝක කුසලාන ඉතිහාසයේ පාකිස්තානය පළමු වටයෙන්ම ඉවත්වූයේ පළමු වරටය. A කාණ්ඩයෙන් තරගවැදුණු පාකිස්තානයට අමතරව කැනඩාව සහ අයර්ලන්තයට ද එම අවස්ථාව අහිමි වී ගියා.
+It is with the race yesterday (14) with Ireland.
 
-අමෙරිකාවේ ෆ්ලොරිඩා හී ලෝඩර්හිල් ක්‍රීඩාංගණයේ පැවත්වීමට නියමිතව තිබු අමෙරිකා - අයර්ලන්ත තරගය වර්ෂාව සහ ක්‍රීඩාංගණය තෙත සහිත තත්ත්වය හේතුවෙන් අත්හැර දැමීමට විනිසුරුවරුන් තීරණය කළේය.
+Accordingly, Pakistan had to leave the initially to enter the tournament.
 
-එහිදි කණ්ඩායම් දෙකටම එක් ප්‍රසාද ලකුණ බැඟින් හිමි වුණ අතර ඒ අනුව සම සත්කාරකත්වය දරණ අමෙරිකාව සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබාගත්තේය.
+The first time Pakistan left the first round of Twenty20 World Cup history. In addition to Pakistan, Canada and Ireland lost the opportunity in addition to Pakistan.
 
-...
+The judges decided to abandon the Irish match that was scheduled to be held at the Laurehill Stadium in Florida, USA.
+
+The bonus sign cry into both groups, and the US qualified for the Super 8 of the United States.
+
+Accordingly, India and USA qualified for the match of India and Australia in Australia and South Africa have also qualified for the Super World West Indies and Afghanistan.
+
+◼️
 
 [Data](articles/91b9968e.json)
+
+[Extended Data](ext_articles/91b9968e.ext.json)
 
 ---
 

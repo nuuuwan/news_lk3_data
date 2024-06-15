@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 09:34:51**
+As of **2024-06-15 09:53:58**
 
 ## Newspaper Stats
 
-*Scraped **30,473** Articles*
+*Scraped **30,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,451
 tamilmirrorlk | 3,565
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,918
+adaderanasinhalalk | 4,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,472 (100.0%) of 30,473 articles have been extended.
+30,473 (100.0%) of 30,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### නාඳුනන සිරුරක් නිසා කැලඹීමක්
+
+*2024-06-15 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197777) · `si`
+
+කයිට්ස් මඩත්තවේලි ප්‍රදේශයේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් හමුව තිබේ.
+
+පොලීසිය පැවසුවේ ඊයේ (14) සවස කයිට්ස් පොලීසියට ලද තොරතුරක් මත අදාළ විමර්ශන කටයුතු ආරම්භ කළ බවය.
+
+මෘත ශරීරය සම්බන්ධයෙන් හදිසි මරණ පරීක්ෂණය සිදුකර ඇති අතර මෙතෙක් ඔහුගේ අනන්‍යතාවය තහවුරු කරගෙන නොමැත.
+
+මෙම පුද්ගලයා අවුරුදු 45ත් 50 අතර උස අඩි 05යි අඟල් 02 ක් පමණ වන අයෙක් බව පොලීසිය පවසයි.
+
+සිරුර යාපනය රෝහලේ තැන්පත් කර ඇති අතර කයිට්ස් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/6e612fa4.json)
+
+---
 
 ### Cyril Ramaphosa re-elected South African president
 
@@ -51,6 +71,8 @@ ANC secretary-general Fikile Mbalula called the coalition deal a “remarkable s
 ...
 
 [Data](articles/71d49015.json)
+
+[Extended Data](ext_articles/71d49015.ext.json)
 
 ---
 
@@ -2243,27 +2265,5 @@ The state-of-the-art plant began operations in March at a cost 1,521,256,438 rup
 [Data](articles/3623aaf3.json)
 
 [Extended Data](ext_articles/3623aaf3.ext.json)
-
----
-
-### Extension extending against Wijeyadasa
-
-*2024-06-14 13:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜேதாசவுக்கு-எதிராக-தடையுத்தரவு-நீடிப்பு/175-338905) · `ta`
-
-Judge Wijeyadasa Rajapaksa banned SLFP leader Mrs. Samari Weerasuriya, citing a petition by MPs including Duminda Dissanayake, Sarath Ekanayake, and Vijayadasa Rajapaksa. The court must submit objections and responses by July 18.
-
-🟩
-
-Judge Wijeyadasa Rajapaksa has ordered the ban on the Sri Lanka Freedom Party (SLFP) leader Mrs. Samari Weerasuriya on Friday (14).
-
-In a petition filed by MP Duminda Dissanayake, Sarath Ekanayake, Keerthi Udawatta and Vijayadasa Rajapaksa have been referred to as defendants.
-
-The magistrate has also ordered the court to submit the objections and responses against the ban order on July 18.
-
-◼️
-
-[Data](articles/fd9412d3.json)
-
-[Extended Data](ext_articles/fd9412d3.ext.json)
 
 ---

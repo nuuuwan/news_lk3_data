@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 15:34:43**
+As of **2024-06-15 15:53:16**
 
 ## Newspaper Stats
 
-*Scraped **30,503** Articles*
+*Scraped **30,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 1,862
 adalk | 2,626
 adaderanalk | 3,457
 tamilmirrorlk | 3,568
-virakesarilk | 4,684
+virakesarilk | 4,686
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,927
+adaderanasinhalalk | 4,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,503 (100.0%) of 30,503 articles have been extended.
+30,503 (100.0%) of 30,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### උකස් මධ්‍යස්ථානයේ කොල්ලය වැළකූ සේවිකාවගේ නුවණ
+
+*2024-06-15 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197786) · `si`
+
+මොරටුමුල්ල ප්‍රදේශයේ උකස් ආයතනයකට අද (15) උදෑසන යතුරුපැදියකින් පැමිණි දෙදෙනෙකු එය මංකොල්ලකෑමට උත්සාහ කර ඇතැයි පොලීසිය පවසයි.
+
+එම ආයතනයේ ආරක්ෂක නිලධාරියාව බියකර තවත් අයෙකු බෝතලයක් වැනි දෙයකින් එහි සේවිකාව බියගන්වා ඇති අතර එහිදී සේවිකාවන් විසින් පොලිස් ස්ථානවල දැනුම්දෙන සීනුව නාද කර තිබුණි.
+
+◼️
+
+[Data](articles/7487dc18.json)
+
+---
+
+### அடுத்த வாரம் இலங்கை வருகிறார் இந்திய வெளிவிவகார அமைச்சர்
+
+*2024-06-15 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186140) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர்  கலாநிதி எஸ்.ஜெய்சங்கர் உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு 20ஆம் திகதி இலங்கை வரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+அவர், இந்த வியஜயத்தின் போது இலங்கையில் இந்திய முதலீடுகள் மூலம் மேற்கொள்ளப்படும் அபிவிருத்தித் திட்டங்களை விரைவாக மீண்டும் ஆரம்பிப்பது தொடர்பில்  கவனம் செலுத்துவார் என தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/059dab7e.json)
+
+---
+
+### திருகோணமலை ஸாஹிரா கல்லூரியில் 70 மாணவர்களின் பெறுபெறுகளை இடைநிறுத்திய பரீட்சைகள் திணைக்களம் ; ஆளுநர் செந்தில் தொண்டமானிடம் முறைப்பாடளித்த மாணவர்கள்
+
+*2024-06-15 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186144) · `ta`
+
+திருகோணமலை ஸாஹிரா கல்லூரியின் 70 இற்கும் மேற்பட்ட மாணவர்களின் உயர்தர பெறுபேறுகள் பரீட்சைகள் திணைக்களத்தால் இடைநிறுத்தப்பட்ட விவகாரம் குறித்து கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானிடம் குறித்த மாணவர்கள் இன்று சனிக்கிழமை முறைப்பாடு செய்தனர்.
+
+பரீட்சைகள் திணைகளத்தின் விதிமுறைகளுக்கு அமைவாக  காதுகளை மறைத்து பர்தா அணிந்து பரீட்சை எழுத முடியாத நிலையில், இம்மாணவர்கள்  அவ்வாறு பரீட்சைகள் எழுதியதால் பெறுபேறுகள் இடைநிறுத்தப்பட்டதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. இதனால் தாம் எதிர்கொண்டுள்ள இக்கட்டான நிலைமை குறித்து ஆளுநரின் கவனத்துக்கு கொண்டவந்த மாணவர்கள், தமக்கு உரிய தீர்வை பெற்றுதர நடவடிக்கைகைள எடுக்குமாறும் கோரிக்கை விடுத்தனர்.
+
+மாணவர்களின் கோரிக்கைகளை ஏற்றுக்கொண்ட ஆளுநர் செந்தில் தொண்டமான், அவர்களுடைய பிரச்சினைகள் குறித்து பரீட்சைகள் திணைக்களத்துடன் கலந்துரையாடி உரிய தீர்வை பெற்றுத்தருவதாக மாணவர்களிடம் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/2bfc4ff0.json)
+
+---
 
 ### Chamo is a scholarship for Prabith
 
@@ -55,6 +99,34 @@ Chamho, a bright future, helped to help Prabith Derana "Scholarship Scholarship 
 [Data](articles/bcf5ddc8.json)
 
 [Extended Data](ext_articles/bcf5ddc8.ext.json)
+
+---
+
+### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
+
+*2024-06-15 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
+
+In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
+
+🟩
+
+Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
+
+The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
+
+The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
+
+Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
+
+The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
+
+The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
+
+◼️
+
+[Data](articles/43c470c5.json)
+
+[Extended Data](ext_articles/43c470c5.ext.json)
 
 ---
 
@@ -103,34 +175,6 @@ Accordingly, India and USA qualified for the match of India and Australia in Aus
 [Data](articles/91b9968e.json)
 
 [Extended Data](ext_articles/91b9968e.ext.json)
-
----
-
-### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
-
-*2024-06-15 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
-
-In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
-
-🟩
-
-Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
-
-The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
-
-The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
-
-Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
-
-The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
-
-The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
-
-◼️
-
-[Data](articles/43c470c5.json)
-
-[Extended Data](ext_articles/43c470c5.ext.json)
 
 ---
 
@@ -2207,83 +2251,5 @@ Colombo Chief Magistrate Thilina Gamage, has ordered that the vehicles be handed
 [Data](articles/66489074.json)
 
 [Extended Data](ext_articles/66489074.ext.json)
-
----
-
-### The music release of 'Lander' starring Vidarth
-
-*2024-06-14 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186077) · `ta`
-
-"Lander," a small-budget film directed by Shaji Salim, stars Vidarth as a police officer. The music, composed by S. Praveen, was launched by Pest Murugan, VP of the Actors Association, and features performances from Swetha Torathi, Vipin, Sahana, Pasupathi Raj, and Kajaraj. Produced by Badrinath and Sri Vishnu under M Cinema Productions, it promises a brisk screenplay and four songs, set to entertain audiences upon its release on the 21st of this month.
-
-🟩
-
-The music of 'Lander', which plays the role of a police officer, is the hero of the story of Vidarth, a small budget filmmaker's hero and the primary actor of the debut directors.
-
-The film crew and special guests attended the music launch were released by the Vice President of the Actors Association, Pest Murugan.
-
-Directed by director Shaji Salim, Vidarth, Swetha Torathi, Vipin, Sahana, Pasupathi Raj, Kajaraj, starring director Shaji Salim.
-
-The film has been recorded by Gnana Sounder. S.. Praveen has composed music. The film is being produced as Exan Entertainer and produced by producers Badrinath and Sri Vishnu on behalf of M Cinema Productions.
-
-The film, which will be released on the 21st of this month, will be released in the world.. Many leading celebrities of the Tamil film industry congratulated the film crew on the participation of the film.
-
-...
-
-[Data](articles/24be8f95.json)
-
-[Extended Data](ext_articles/24be8f95.ext.json)
-
----
-
-### Gold jewelery worth Rs 20 lakhs
-
-*2024-06-14 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186073) · `ta`
-
-A man broke into a woman's house in Kattankudi, robbing her of gold jewelry worth Rs 20 lakh. The incident occurred around 1 pm when the woman was alone, as her husband works abroad. The thief assaulted her before fleeing with the valuables. Neighbors found the woman injured and alerted the police, who are now investigating the case.
-
-🟩
-
-A man who entered the house of a lonely woman in Kattankudi area has robbed gold jewelery worth Rs 20 lakh.
-
-The incident took place today (14) at around 1 pm, police said.
-
-It is customary for the woman's husband to go abroad for work on the Kattankudy Meegavar Ilaga road, and the woman stays at the mother's house at night and stays at home in the morning.
-
-In the meantime, a man who had been lonely in the house at around 1 pm today at the time of the incident, has attacked the woman's head with an applause and robbed her neck and arms.
-
-Following this, neighbors have rescued the woman who was injured in the attack on a man who was robbed of jewelery in the area.
-
-A complaint has been lodged with the Kattankudi police and the police are conducting investigations.
-
-◼️
-
-[Data](articles/af69dbc0.json)
-
-[Extended Data](ext_articles/af69dbc0.ext.json)
-
----
-
-### Indian FM Jaishankar to visit Sri Lanka this month, to review agreed projects
-
-*2024-06-14 16:12:00* · [`economynextcom`](https://economynext.com/indian-fm-jaishankar-to-visit-sri-lanka-this-month-to-review-agreed-projects-168083/) · `en`
-
-ECONOMYNEXT – Indian External Affairs Minister S. Jaishankar will visit Sri Lanka this month to review ongoing projects between the two neighbours ahead of Prime Minister Narendra Modi’s visit, the island nation’s Foreign Minister said.
-
-Jaishankar’s visit was confirmed when President Ranil Wickremesinghe was in New Delhi last week at Modi’s oath taking as the third term prime minister.
-
-Sri Lanka’s Foreign Minister Ali Sabry said Modi’s invitation to Wickremesinghe shows an indication that India wants to work closely with the neighbours.
-
-“We want to build on that momentum,” Sabry told reporters at a media briefing in Colombo.
-
-“We feel that we want to continue to work with Indians in their investment area, people-to-people contact, tourism, and also connectivity like electricity as well as land and other connectivity areas of sea, air, and other modes of it.”
-
-“I can confirm that external affairs minister of India Dr. Jaishankar is expected to be in Colombo in one of these days in this month.”
-
-...
-
-[Data](articles/17f9676e.json)
-
-[Extended Data](ext_articles/17f9676e.ext.json)
 
 ---

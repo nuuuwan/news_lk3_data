@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 08:53:22**
+As of **2024-06-15 09:04:23**
 
 ## Newspaper Stats
 
-*Scraped **30,471** Articles*
+*Scraped **30,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ adaderanalk | 3,450
 tamilmirrorlk | 3,565
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,917
+adaderanasinhalalk | 4,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,470 (100.0%) of 30,471 articles have been extended.
+30,471 (100.0%) of 30,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### நீர்கொழும்பு கடலில் நேற்று நடந்தது என்ன?
+### දකුණු අප්‍රිකාවේ පාලන බලය නැවත් සිරිල් රාමපෝසා ට
+
+*2024-06-15 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197776) · `si`
+
+දකුණු අප්‍රිකානු ජාතික කොංග්‍රසය සහ විරුද්ධ පක්ෂ අතර ඇති වූ සුවිශේෂී සභාග ගිවිසුමකින් අනතුරුව එරට පාර්ලිමේන්තුව විසින් සිරිල් රාමපෝසා ජනාධිපතිවරයා ලෙස යළි තෝරාපත් කරගෙන තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ ජාතික සමගි නව රජය රාමපෝසාගේ පාලක අප්‍රිකානු ජාතික කොංග්‍රසය මධ්‍ය-දක්ෂිණාංශික ප්‍රජාතන්ත්‍රවාදී සන්ධානය සහ කුඩා පක්ෂ ඒකාබද්ධව මෙම සන්ධානය ගොඩනගා ඇති බවය.
+
+නව පාලනයේ බලය දරන්නේ කවුරුන්ද යන්න තහවුරු කිරීම සඳහා විමසීමට ජාතික සභාව ඡන්ද විමසීමක් පවත්වා ඇති බව සඳහන් වේ.
+
+පසුගිය මාසයේ පැවති මැතිවරණයේදී වසර 30කට පසු ප්‍රථම වරට පාර්ලිමේන්තු බහුතරය අහිමි වීමෙන් පසු දකුණු අප්‍රිකානු ජාතික කොංග්‍රසය හවුල් කරගන්නේ කවුරුන්ද යන්න පිළිබඳ සති ගණනාවක් පුරා පැවති සාකච්ඡාවලින් පසු මෙම තීරණයට එළඹ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+2018 දී ඇති වූ දැඩි බල අරගලයකින් පසු ජනාධිපති ජේකොබ් සූමා වෙනුවට සිරිල් රාමපෝසා බලයට පත් වූ අතර ඔහුගේ පක්ෂය සෑම විටම සියයට 50 ට වඩා වැඩි ඡන්ද ප්‍රතිශතයක් ලබා ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/28dee491.json)
+
+---
+
+### What happened yesterday in the Negombo Sea?
 
 *2024-06-15 08:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-நேற்று-நடந்தது-என்ன/175-338932) · `ta`
 
-நீர்கொழும்பு குடாபாடு மீனவர் துறைமுகத்திற்கு அருகில் நேற்று கடலில் நீராடச் சென்ற   மாணவர்கள்  இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+In Negombo Sea, two students from Vijayarathinam Hindu Central College drowned near Kudapadu fisherman's port. Yoganathan Nitish and Rajadurai Aravindan, both 17, lost their lives while five others perished in the incident.
 
-நீர்கொழும்பு விஜயரத்தினம் இந்து மத்திய கல்லூரியில்  கல்வி பயிலும்   மாணவர்களே இதில்  உயிரிழந்தவர்களாவர்.
+🟩
 
-நேற்று  ஐந்து மாணவர்கள் குடாப்பாடு   கடலில் நீராடச் சென்ற நிலையில், அவர்களில் இருவர் கடலில் மூழ்கியுள்ளனர்.
+Two students drowned in the sea yesterday near the Kudapadu fisherman's port of Negombo.
 
-ஏனையவர்கள் அந்த இருவரையும் காப்பாற்ற முயற்சி செய்துள்ளனர். இந்நிலையில் பிரதேசவாசிகள் கடும் முயற்சி செய்து மூவரை காப்பாற்றி உள்ள நிலையில் இருவர் கடலில் மூழ்கி உயிரிழந்துள்ளனர்.
+Students studying at Vijayarathinam Hindu Central College, Negombo are the victims.
 
-நீர்கொழும்பு  கடற்கரை தெருவை சேர்ந்த யோகநாதன் நிதிஷ் (17), அஸரப்பா வீதியை சேர்ந்த ராஜதுரை அரவிந்தன் (17) ஆகியோரே உயிரிழந்தவர்களாவர்.
+Yesterday, five students were drowned in the sea as they went to the sea.
+
+Others have tried to save the two. In this case, the residents of the area have been drowned in the sea as they have rescued the three.
+
+Yoganathan Nitish (17) from Negombo Coast Street and Rajadurai Aravindan (17) from Asarappa Road were the victims.
 
 ◼️
 
 [Data](articles/4d9b82c1.json)
+
+[Extended Data](ext_articles/4d9b82c1.ext.json)
 
 ---
 
@@ -2239,33 +2265,5 @@ S. Aksayan, who was selected for the medical department, died of water. The enti
 [Data](articles/057c26e3.json)
 
 [Extended Data](ext_articles/057c26e3.ext.json)
-
----
-
-### Medical department student death
-
-*2024-06-14 12:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவத்-துறை-மாணவன்-பரிதாப-மரணம்/175-338904) · `ta`
-
-Sivakaran Akshayan, a promising 20-year-old medical department student from Karadivu, tragically drowned in the Nilgiris river while visiting a temple with his family. Selected as one of the top students in the district for the medical field, his sudden death has deeply saddened the community. Further investigations are being conducted at Lakkalai Hospital.
-
-🟩
-
-Sivakaran Akshayan (20 years old) from Karadivu died tragically on Friday morning.
-
-Sivakaran is the only child of Jeevaranjani couple Akshayan. Akshayan is one of the two students who have been selected for the medical department at Vipulananda Central College, Karadivu.
-
-He was recently released in the G.C.E A/L 2023 (2024) Examination and was selected to the Medical Department in the 23rd place in the district.
-
-He went to the Murugan Temple with his family three days ago and died on Friday morning (14) when he drowned in the Nilgiris river in Pottuvil and Lakkalakalai.
-
-His body has been placed on the Lakkalai Hospital for further investigations and autopsy.
-
-S. Aksayan, who was selected for the medical department, died of water. The entire Karadivu region is mired in tragedy.
-
-◼️
-
-[Data](articles/30ff9e25.json)
-
-[Extended Data](ext_articles/30ff9e25.ext.json)
 
 ---

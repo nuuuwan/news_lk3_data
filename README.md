@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 11:19:13**
+As of **2024-06-15 11:34:44**
 
 ## Newspaper Stats
 
-*Scraped **30,479** Articles*
+*Scraped **30,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
-adalk | 2,623
-adaderanalk | 3,453
+adalk | 2,624
+adaderanalk | 3,454
 tamilmirrorlk | 3,566
 virakesarilk | 4,679
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,919
+adaderanasinhalalk | 4,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,479 (100.0%) of 30,479 articles have been extended.
+30,479 (100.0%) of 30,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### Unidentified body found in Kayts
+
+*2024-06-15 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99891/unidentified-body-found-in-kayts) · `en`
+
+The body of an unidentified individual has been discovered in the Madaththaveli area of Kayts.
+
+Police said that investigations were initiated after the Kayts Police received information about the incident last evening (14th).
+
+An autopsy has been carried out, but the identity of the deceased remains unknown.
+
+Police mentioned that the deceased is aged between 45 and 50 years and approximately 05 feet 02 inches tall.
+
+The body has been placed in Jaffna Hospital. Further investigations are being conducted by the Kayts Police.
+
+◼️
+
+[Data](articles/959bb3ad.json)
+
+---
+
+### රුමේෂ්ගෙන් ශ්‍රී ලංකාවට රන් පදක්කමක්
+
+*2024-06-15 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197778) · `si`
+
+දකුණු කොරියාවේ පැවැත්වෙන ආසියානු විසිකිරීමේ ශූරතාවලියේ පිරිමි හෙල්ල විසි කිරීමේ තරගයේ රන් පදක්කම ‍‍දිනා ගැනීමට ශ්‍රී ලංකාවේ රුමේෂ් තරංග සමත් විය.
+
+ඔහු එහිදී නව තරග වාර්තාවක් මෙන්ම නව ශ්‍රී ලංකා වාර්තාවක් ද පිහිටුවනු ලැබීය.
+
+රුමේෂ් පිරිමි හෙල්ල විසි කිරීම තරගයේ මීටර් 85.45 ක දක්ෂතාවයක් දක්වා තිබේ.
+
+◼️
+
+[Data](articles/98825915.json)
+
+---
 
 ### Rumesh Tharanga sets new Sri Lanka and meet record at Asian Throwing Championships
 
@@ -119,6 +155,22 @@ The body is placed at the Jaffna Hospital while Kayts police are conducting furt
 [Data](articles/6e612fa4.json)
 
 [Extended Data](ext_articles/6e612fa4.ext.json)
+
+---
+
+### හෙරොයින් මත්කුඩු කිලෝ 150ක් සමග බහුදින ධීවර යාත්‍රාවක් අල්ලයි
+
+*2024-06-15 09:06:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-මත්කුඩු-කිලෝ-150ක්-සමග-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-410218) · `si`
+
+නාවික හමුදාව විසින් ගැඹුරු මුහුදේ සිදු කල මෙහෙයුමකදී මත්ද්‍රව්‍ය ප්‍රවාහනය කල බවට සැක කෙරෙන මෙරට බහුදින ධීවර යාත්‍රාවක් අත්අඩංගුවට ගත් බව නාවික හමුදාව නිවේදනය කරයි.
+
+ශ්‍රී ලංකාවට දකුණු දෙසින් නාවික සැතපුම් 400 ක් පමණ දුර ( කිලෝමීටර් 740 ) ගැඹුරු මුහුදේ ඊයේ සවස් කාලයේදී මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
+
+මෙම යාත්‍රාව ගාල්ල වරායට රැගෙන ඒමට කටයුතු කර ඇති අතර එහි හෙරොයින් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 150 ක් පමණ තිබෙන බවට සැක කෙරෙන අතර, නාවික හමුදාව විසින් යාත්‍රාවේ අභ්‍යන්තර කොටස් පරීක්ෂා කරමින් පවතී.
+
+◼️
+
+[Data](articles/de9f91f7.json)
 
 ---
 
@@ -2199,75 +2251,5 @@ During the trial, the suspect had accepted the crime and warned him of a warning
 [Data](articles/5be9badc.json)
 
 [Extended Data](ext_articles/5be9badc.ext.json)
-
----
-
-### Warnings to Putin
-
-*2024-06-14 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197749) · `si`
-
-As Putin prepares to visit North Korea, the US and South Korea warn against strengthening ties between Russia and North Korea, fearing it could undermine UN Security Council resolutions.
-
-🟩
-
-International media reports that the Russian President Vladimir Putin is due to visit North Korea soon.
-
-Meanwhile, America and South Korea say that North Korea and Russia can also increase the proposals of the UN Security Council.
-
-US and South Korean parties have warned that northern Korea and Russia should not be promoted due to the Russian President's visit.
-
-◼️
-
-[Data](articles/31dbe053.json)
-
-[Extended Data](ext_articles/31dbe053.ext.json)
-
----
-
-### The Plan of Vehicle Submits to the IMF
-
-*2024-06-14 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197748) · `si`
-
-Sri Lanka has proposed easing vehicle import restrictions to the IMF, aiming to submit plans by Q3 2024. This includes commercial transport and other vehicles, tied to foreign reserve management and economic reforms.
-
-🟩
-
-State Minister Shehan Semasinghe says that the Sri Lankan authorities have submitted to the International Monetary Fund on the erection of vehicle import boundaries.
-
-Accordingly, vehicle import boundaries are proposed to be eased in several third and fourth quarter this year under several vehicles.
-
-In the third quarter of 2024, the government's proposals have been sent to the International Monetary Fund on the erection of vehicles belonging to commercial transport vehicles and other categories of vehicles this year.
-
-Finance Minister of State Shehan Semasinghe further stated that the implementation of the proposals presented to the IMF regarding the importation of vehicles has been proposed based on implementing foreign reserves and economic reforms.
-
-◼️
-
-[Data](articles/62007733.json)
-
-[Extended Data](ext_articles/62007733.ext.json)
-
----
-
-### Submission of 5 products to the Bribery Commission to be handed over to the Customs
-
-*2024-06-14 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197747) · `si`
-
-The Colombo Magistrate's Court ordered the handover of five luxury vehicles seized by the Bribery Commission to the Customs Department. This action followed investigations revealing a loss of Rs. 300 million at the Bribery Commission. The vehicles, implicated in import-related bribery, will now be under Sri Lanka Customs' control as per the court's directive.
-
-🟩
-
-The Colombo Magistrate's Court set up five luxury vehicles taken into custody by the Bribery Commission following the importation of misconceptions to the Department of Motor Traffic.
-
-Investigations were revealed at the Bribery Commission about Rs. 300 million and the Bribery Commission had lost Rs. 300 million.
-
-The Bribery Commission had acted in relation to the orders issued by the Court on the orders issued by the court.
-
-The vehicles of the Colombo Chief Magistrate Thilina Gamage was also ordered to be handed over to Sri Lanka Customs.
-
-◼️
-
-[Data](articles/01a0082d.json)
-
-[Extended Data](ext_articles/01a0082d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 11:53:57**
+As of **2024-06-15 12:06:01**
 
 ## Newspaper Stats
 
-*Scraped **30,482** Articles*
+*Scraped **30,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,655
-economynextcom | 1,769
+economynextcom | 1,771
 dailyftlk | 1,862
 adalk | 2,624
-adaderanalk | 3,454
+adaderanalk | 3,455
 tamilmirrorlk | 3,566
 virakesarilk | 4,679
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,920
+adaderanasinhalalk | 4,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,482 (100.0%) of 30,482 articles have been extended.
+30,483 (100.0%) of 30,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් නව ව්‍යවස්ථා කෙටුම්පත ජනාධිපතිට
+
+*2024-06-15 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197780) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නව ව්‍යවස්ථා කෙටුම්පත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත භාරදී තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සංයුතිය සහ ව්‍යුහය ප්‍රතිව්‍යුහගත කිරීමටත් ඉන් යෝජනා කර ඇති අතර එම වාර්තාව අද (15) ජනාධිපතිවරයාට භාරදුන්නේය.
+
+විශ්‍රාමික විනිසුරු කේ. ටී. චිත්‍රසිරි මහතා ප්‍රමුඛ කමිටුවක් මගින් එම නව ව්‍යවස්ථා කෙටුම්පත සැකසීය.
+
+◼️
+
+[Data](articles/58926468.json)
+
+---
+
+### New draft constitution for Sri Lanka Cricket handed over to President
+
+*2024-06-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99892/new-draft-constitution-for-sri-lanka-cricket-handed-over-to-president) · `en`
+
+The new draft constitution for the Sri Lanka Cricket Board has been handed over to President Ranil Wickremesinghe at the Presidential Secretariat today (15).
+
+The key recommendations of the draft included enhancing administration, training and player well-being across national men’s and women’s teams, along with restructuring the Sri Lanka Cricket Board, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/8a11610f.json)
+
+---
+
+### South Africa survives the thread
+
+*2024-06-15 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197779) · `si`
+
+In the Twenty20 World Cup, South Africa clinched victory against Nepal, scoring 115/7 in 20 overs while Nepal fell short with 114/10, securing South Africa's spot in the Super Pitch round.
+
+🟩
+
+The sight of the Twenty20 World Cup ended this morning.
+
+South Africa was able to win the match between Nepal and South Africa.
+
+South Africa scored 115 runs for the loss of 7 wickets in their 20 overs.
+
+The demons took three wickets for 21 runs.
+
+Chasing a target of 116, the Nepalese team scored only 114 runs off the 20 overs.
+
+Accordingly, South Africa qualified for the Super Pite round of all four matches.
+
+◼️
+
+[Data](articles/bf03daec.json)
+
+[Extended Data](ext_articles/bf03daec.ext.json)
+
+---
 
 ### Unidentified body found in Kayts
 
@@ -73,6 +131,24 @@ Rumesh's spear throwing up 85.45 meters in the match.
 [Data](articles/98825915.json)
 
 [Extended Data](ext_articles/98825915.ext.json)
+
+---
+
+### Sri Lanka beats key IMF program targets for March 2024 amid rupee stability
+
+*2024-06-15 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-beats-key-imf-program-targets-for-march-2024-amid-rupee-stability-168140/) · `en`
+
+ECONOMYNEXT – Sri Lanka has exceeded key quantitative targets set in an International Monetary Fund program for March 2024, based on preliminary data the Washington based agency said in a report.
+
+The March data are not performance criteria on which reviews are conducted but are indicative targets which shows the progress of the program and are a stepping stone for a September review based on June data.
+
+An indicative target for the primary balance (roughly overall deficit minus interest costs), was assessed at 316 billion rupees more than four times the 70 billion rupee target set in the program.
+
+Primary balance can be a big surplus if the interest bill is high and capital expenditure is cut and is a type of crisis management tool after a central bank triggers a currency crisis by cutting rates with inflationary liquidity tools.
+
+...
+
+[Data](articles/fc8984a6.json)
 
 ---
 
@@ -371,6 +447,24 @@ The President also stated that the best education system in South Asia will be c
 [Data](articles/53ae9263.json)
 
 [Extended Data](ext_articles/53ae9263.ext.json)
+
+---
+
+### Sri Lanka GDP grows 5.3-pct in first quarter of 2024 amid monetary stability
+
+*2024-06-15 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-5-3-pct-in-first-quarter-of-2024-amid-monetary-stability-168121/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross domestic product grew 5.3 percent in the first quarter of 2024 data from the state statistics office showed as the central bank continued to refrain from generating monetary instability.
+
+Instead of printing money to cut rates under ‘flexible inflation targeting’ and printing money to boost growth by taking into account ‘potential output’ as permitted by its new monetary law, the central bank ran deflationary policy and also allowed the rupee to appreciate.
+
+“The Sri Lanka economy experienced a more favorable economic condition[s] in the first quarter 2024, when compared to the first quarter in the year 2023,” the Department of Census and Statistics said.
+
+“The high inflation had prevailed in the first quarter of year 2023, gradually reduced to a lower level by the first quarter of 2024 and this low inflation incentivized the economy by providing inputs at [a] much lower price.
+
+...
+
+[Data](articles/3bf191c4.json)
 
 ---
 
@@ -2145,125 +2239,5 @@ Taking to ‘X’ (formerly Twitter), the US envoy said while recognizing that r
 [Data](articles/27d22be0.json)
 
 [Extended Data](ext_articles/27d22be0.ext.json)
-
----
-
-### Plantation Employers Federation Resolution to go to court against the decision of the salary council
-
-*2024-06-14 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186065) · `ta`
-
-The Sri Lanka Plantation Employers Federation opposes a 70% immediate salary hike for tea and rubber workers, citing lack of justification and potential harm to productivity and the industry's financial health. They plan to challenge this decision in court, arguing that such increases could double wages compared to Indian counterparts, significantly impacting Sri Lanka's competitive edge in global markets. The federation warns that this move could lead to financial instability, exacerbate existing debts, and threaten the sustainability of the tea and rubber industries.
-
-🟩
-
-The Sri Lanka Plantation Employers Federation has said that there is no choice but to protest the decision of the salary council that the salaries of tea and rubber industrial workers should be increased by 70 percent immediately without any basis.
-
-The Federation said that the resolution would not be accepted and that the appeal would be appealed to the Court of Appeal and the Supreme Court.
-
-In a media report sent by the Plantation Employers Federation, it further stated that this is not the case.
-
-The salary increases should be closely connected to the productivity of the business institutions to maintain the livelihood of workers' livelihood. The Sri Lanka Plantation Employers Federation has urged.
-
-In all the countries where tea produces, Sri Lanka is already struggling with the highest production cost, the most powerful and the lowest productivity.
-
-...
-
-[Data](articles/4124c58c.json)
-
-[Extended Data](ext_articles/4124c58c.ext.json)
-
----
-
-### Sri Lanka, China to hold 13th round of diplomatic consultations in Beijing
-
-*2024-06-14 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99877/sri-lanka-china-to-hold-13th-round-of-diplomatic-consultations-in-beijing) · `en`
-
-The Sri Lankan delegation, led by Secretary of Foreign Affairs, Aruni Wijewardana, is set to participate in the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on June 17 in Beijing.
-
-Wijewardana will co-chair the discussions with China’s Vice Minister of Foreign Affairs, Sun Weidong.
-
-The consultations aim to review progress and advance bilateral engagement in areas including political relations, economic cooperation, trade, investment, and defense.
-
-The Sri Lankan delegation will also include Ambassador-Designate in Beijing, Majintha Jayesinghe, and senior officials from the Ministry of Foreign Affairs and the Sri Lankan Embassy in China.
-
-According to Ministry of Foreign Affairs, the preceding 12th Round of Bilateral Political Consultations took place on May 30 in Colombo.
-
-◼️
-
-[Data](articles/82541ba8.json)
-
-[Extended Data](ext_articles/82541ba8.ext.json)
-
----
-
-### “Let's go to court against a 70% salary increase”
-
-*2024-06-14 14:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/70-சம்பள-அதிகரிப்பை-எதிர்த்து-நீதிமன்றம்-செல்வோம்/175-338908) · `ta`
-
-The Sri Lanka Plantation Association opposes a 70% salary hike for tea and rubber workers, citing concerns over productivity and global competitiveness. They plan to challenge this decision in court, arguing that such increases could harm the industry's viability and negatively impact Sri Lanka's position in the global tea market.
-
-🟩
-
-The Sri Lanka Plantation Association (PA) said that there is no choice but to oppose the decision of the Paying Council to increase the salaries of tea and rubber industrial workers by 70% without any extent.
-
-The Federation said that the resolution would not be accepted and that the appeal would be appealed to the Court of Appeal and the Supreme Court.
-
-The salary increase should be closely connected to the productivity of the businessmen to maintain the livelihood of workers' livelihoods. The Sri Lanka Plantation Employers Federation (PA) has urged.
-
-In all the countries where tea produces, Sri Lanka already has the most expensive production, the largest nomination and the lowest productivity.. In particular, the wages board of the newly announced tea industry has noted that the salaries of workers in the newly announced tea sector will have an impact on the production of Sri Lankan tea in the world market as they are more than double the salaries of workers in India.
-
-◼️
-
-[Data](articles/9bddaa55.json)
-
-[Extended Data](ext_articles/9bddaa55.ext.json)
-
----
-
-### Parliament
-
-*2024-06-14 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197751) · `si`
-
-The Parliament will convene from June 18 to 20, with specific sessions dedicated to various debates and question times. On June 18, discussions will focus on orders related to the State Land Ordinance and a motion at adjournment time. June 19 will see debates on the Casino Enterprise (Regulatory) Act and allocation for opposition questions. Finally, June 20 will feature debates on the Adjournment Bill and the National Commission for UNESCO, followed by government questions.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohanadera said that the Parliament will meet on June 18 to 20.
-
-The relevant Parliamentary proceedings have been decided at the Committee on Parliamentary Affairs Transport Affairs held on June 6.
-
-Accordingly, Parliament will meet on Tuesday, June 18 at 9.30 am. From 9.30 am. Time for 10:30 is reserved for questions looking for verbal answers.
-
-Then. From 10.30 am to 2:00 pm. 548/38, 2352/47, 2352/48, 2360/62 and 2360/62 and 2360/62, 2360/62 and 2360/62 and 2360/62 and 2360/62 and 2360/62 and 2360/62 published in the Gazette No. 2308/27The orders have been made to debate the orders posted by the Gazette No. 2373/14 under the Convention on the State Land Ordinance under the State Land Ordinance.
-
-Then pm pm. 5:00 pm. Motion at the Adjournment Time (Government) is due to be debated.
-
-...
-
-[Data](articles/54a1641a.json)
-
-[Extended Data](ext_articles/54a1641a.ext.json)
-
----
-
-### Punishment for a man who imported and sells illegal food in Jaffna
-
-*2024-06-14 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186058) · `ta`
-
-A businessman was fined Rs 12,000 for illegally importing and selling food items in Jaffna, including Thai food production goods, after admitting guilt during his trial.
-
-🟩
-
-A businessman has been sentenced to Rs 12,000 on charges of importing and selling food without proper permission.
-
-A person who imported food production products from Thailand without proper import permission and sold it to supermarkets in Jaffna by the Manipay Public Health Inspector on Thursday (13).
-
-During the trial, the suspect had accepted the crime and warned him of a warning of 12 thousand rupees.
-
-◼️
-
-[Data](articles/5be9badc.json)
-
-[Extended Data](ext_articles/5be9badc.ext.json)
 
 ---

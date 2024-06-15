@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 22:52:27**
+As of **2024-06-15 23:04:23**
 
 ## Newspaper Stats
 
-*Scraped **30,532** Articles*
+*Scraped **30,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,773
 dailyftlk | 1,863
-adalk | 2,628
+adalk | 2,629
 adaderanalk | 3,461
 tamilmirrorlk | 3,571
 virakesarilk | 4,687
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,532 (100.0%) of 30,532 articles have been extended.
+30,532 (100.0%) of 30,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -791,6 +791,20 @@ Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, 
 [Data](articles/c4a6acf0.json)
 
 [Extended Data](ext_articles/c4a6acf0.ext.json)
+
+---
+
+### පළමු කාර්තුවේදී සියයට 5.6ක වර්ධනයක්
+
+*2024-06-15 13:33:26* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-කාර්තුවේදී-සියයට-5-6ක-වර්ධනයක්/11-410223) · `si`
+
+2024 වසරේ පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකය සියයට 5.6කින් වර්ධනය වී ඇතැයි මහ බැංකුව පවසයි. 2023 පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකයේ හැකිලීම සියයට 10.7ක් විය.
+
+2023 පළමු කාර්තුවට සමගාමීව 2024 පළමු කාර්තුවේදි ශ්‍රී ලංකා ආර්ථිකයේ සේවා හා නිෂ්පාදන අංශයෙන්හි කැපී පෙනෙන වර්ධනය හේතුවෙන් ‌මෙසේ ආර්ථික වර්ධනය වේගවත් වී තිබේ.
+
+◼️
+
+[Data](articles/b046e229.json)
 
 ---
 
@@ -2265,23 +2279,5 @@ Six suspects arrested with over 100 kilograms of drugs have been taken to the po
 [Data](articles/7dd12fc3.json)
 
 [Extended Data](ext_articles/7dd12fc3.ext.json)
-
----
-
-### Boys drown in Negombo Sea
-
-*2024-06-14 20:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-மூழ்கி-சிறுவர்கள்-உயிரிழப்பு/175-338914) · `ta`
-
-Two boys, ages 14 and 17, drowned in Negombo Sea after being dumped there, according to local police.
-
-🟩
-
-Two boys aged 14 and 17, who were dumped in the Negombo Sea, were drowned, Negombo police said. Remble
-
-◼️
-
-[Data](articles/289180e1.json)
-
-[Extended Data](ext_articles/289180e1.ext.json)
 
 ---

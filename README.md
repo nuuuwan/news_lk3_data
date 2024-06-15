@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 08:20:39**
+As of **2024-06-15 08:34:41**
 
 ## Newspaper Stats
 
-*Scraped **30,467** Articles*
+*Scraped **30,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,655
 economynextcom | 1,769
 dailyftlk | 1,862
-adalk | 2,621
-adaderanalk | 3,449
-tamilmirrorlk | 3,563
+adalk | 2,622
+adaderanalk | 3,450
+tamilmirrorlk | 3,564
 virakesarilk | 4,678
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,917
@@ -26,25 +26,47 @@ adaderanasinhalalk | 4,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,466 (100.0%) of 30,467 articles have been extended.
+30,467 (100.0%) of 30,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### කොළඹ රියදුරන්ට දැනුම්දීමක්
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-06-15 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99887/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2c461b1d.json)
+
+---
+
+### Notice to Colombo drivers
 
 *2024-06-15 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197775) · `si`
 
-කොහුවල මංසන්ධියේ ඉදිවන ගුවන් පාලමේ ඉදිරි ඉදිකිරීම් කටයුතු හේතුවෙන් අද (15) සිට එම මාර්ගයේ වාහන ගමනාගමනය සීමා කිරීමට කටයුතු කරන බව පොලීසිය පවසයි.
+Traffic on the Kohuwala flyover is restricted due to repairs from July 15 to August 15. Use alternative routes to avoid congestion.
 
-මාස 02ක කාලයක් අදාළ මාර්ගයේ වාහන ගමනාගමනය මෙලෙස සීමාකරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියොජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා ප්‍රකාශ කාළේය.
+🟩
 
-"කොළඹ සිට පිළියන්දල දක්වා ගමන් කරන මාර්ගයේ කොහුවල මංසන්ධියේ ස්ථාපිත කරමින් පවතින ගුවන් පාලමේ අලුත්වැඩියා කටයුතු ආරම්භ කරමින් පවතිනවා. අගෝස්තු මස 15 වනදා දක්වා එම කටයුතු සිදුකරනවා. එමනිසා මාර්ග තදබදයක් ඇති වෙන්න පුළුවන් ඒ මංසන්ධිය අවට. ඒ නිසා විකල්ප මාර්ග භාවිත කරලා ගමන් පහසුව සලසා ගන්න. "
+The flyover of the flyover at Kohuwala is restricted to restrict traffic on the road today (15), police said.
+
+Police Media Spokesperson Deputy Inspector General Inspector General of Police (IGP) has once considered this restriction on the road.
+
+"The repair work of the flyover is being established at Kohuwala junction on the road to Colombo to Piliyandala. These activities are carried out until August 15. Therefore, there may be a traffic congestion around that intersection. Therefore, using alternate routes, provide travel convenience. "
 
 ◼️
 
 [Data](articles/97d65f05.json)
+
+[Extended Data](ext_articles/97d65f05.ext.json)
 
 ---
 
@@ -440,6 +462,24 @@ President Ranil Wickremesinghe this week met with SAARC Secretary General Golam 
 
 ---
 
+### கல்வித் தளம் ஜனாதிபதி தலைமையில் ஆரம்பம்
+
+*2024-06-15 01:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்-தளம்-ஜனாதிபதி-தலைமையில்-ஆரம்பம்/175-338930) · `ta`
+
+இலங்கை இளைஞர் சமூகத்துக்காக பொதுக் கற்றலுக்கான கல்வித் தளமான http://www.publiclearn.lk/ இனை உத்தியோகபூர்வமாக அறிமுகம் செய்யும் நிகழ்வு நேற்று முன்தினம் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நடைபெற்றது.
+
+Public Learn என்பது உலகின் முன்னணி பல்கலைக்கழகங்களில் இருந்து இலவச பாடநெறிகளை பயனர்களை வழிநடத்தும் ஒரு தளமாகும். இந்த தளமானது ரீஜண்ட் குளோபல் நிறுவனத்தால்  இயக்கப்படுவதோடு இலங்கையில் இதனை அறிமுகப்படுத்த இங்கிலாந்தில் உள்ள புலம்பெயர் இலங்கையர்களால் நிதியுதவி வழங்கப்பட்டுள்ளது.
+
+இலங்கை இளைஞர் சமூகத்தினருக்கான பொது கற்றல் தளத்தை (http://www.publiclearn.lk/) ஜனாதிபதி உத்தியோகபூர்வமாக ஆரம்பித்து வைத்தார்.
+
+இந்நிகழ்வில் உரையாற்றிய ஜனாதிபதி ரணில் விக்கிரமசிங்க, புதிய பொருளாதார மாற்றத்திற்காக இலங்கை டிஜிட்டல் மயமாக்கலுடன் வேகமாக முன்னேற வேண்டும் என்று தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/68822e65.json)
+
+---
+
 ### Veterinary policy framework for Sri Lanka takes shape
 
 *2024-06-15 01:09:35* · [`dailyftlk`](https://www.ft.lk/news/Veterinary-policy-framework-for-Sri-Lanka-takes-shape/56-763114) · `en`
@@ -693,6 +733,24 @@ In response to a question raised by a journalist regarding future steps for the 
 [Data](articles/9942f993.json)
 
 [Extended Data](ext_articles/9942f993.ext.json)
+
+---
+
+### දැනට සජිත්  එක -  රනිල් තුන
+
+*2024-06-14 21:13:51* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-සජිත්--එක----රනිල්-තුන/11-410216) · `si`
+
+ජනපති රනිල් වික්‍රමසිංහ මහතා එළබෙන ජූලි මාසයේ සමීක්ෂණයක් හරහා සිය ජනප්‍රියත්වය මැණ බලන බවත් එහිදීත් ඔහුට හිමි වනුයේ තුන්වන තැන නම් ජනපතිවරණය සදහා ඉදිරිපත් නොවනු ඇති බවත් පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+ඒ මහතා මේ බව සදහන් කර සිටියේ 2024.06.14 දින පිවිතුරු හෙළ උරුමය පක්ෂ කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. එහිදී වැඩි දුරටත් අදහස් දැක්වූ පිවිතුරු හෙළ උරුමයේ නායකයා මෙසේ අදහස් දැක්වීය.
+
+“රනිල් වික්‍රමසිංහ මැතිතුමා මැතිවරණයට ඉදිරිපත් නොවෙනවා නම් දේශපාලන කාර්යාලයක් විවෘත කරයි ද? රැස්වීම් පවත්වමින් රට වටේ යාවි ද? රටට දරා ගන්න බැරි සහන දෙන්න ඉදිරිපත් වේවි ද? කියලා සමහරු අපෙන් අහනවා.  ඒ නිසාම රනිල් මැතිතුමාගේ උපාය පැහැදිලි කිරීම අපේ වගකීමක් වෙනවා.
+
+එතුමා දැන් ඉන්නේ අපේක්ෂකයින් අතර තුන්වන තැන.  එතැනින් ඉදිරියට යන්න කළ හැකි හැම දෙයක්ම කරනවා.  ඉඩම් බෙදනවා. ගෙවල් බෙදනවා. වැටුප් වැඩි කරනවා.  සහන ලබා දෙනවා.  විපක්ෂයේ මන්ත්‍රිවරු දිනා ගන්න උත්සහ කරනවා.  රාජපක්ෂවරු ආණ්ඩුවෙන් යවා ගැනීමට උත්සාහ කරනවා.
+
+...
+
+[Data](articles/d10e1ec8.json)
 
 ---
 
@@ -2195,75 +2253,5 @@ Chung met State Minister of Finance Shehan Semasinghe in Washington at the IMF S
 [Data](articles/3de76bb3.json)
 
 [Extended Data](ext_articles/3de76bb3.ext.json)
-
----
-
-### Pregnancy without knowing her husband: shocked woman
-
-*2024-06-14 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனுக்கு-தெரியாமல்-கர்ப்பம்-அதிர்ச்சி-கொடுத்த-பெண்/175-338902) · `ta`
-
-A shocking incident occurred when Sujatha, from Kerala's Idukki district, gave birth alone and then lost her newborn due to drowning. She was hospitalized for severe bleeding, revealing the tragic circumstances of her baby's death.
-
-🟩
-
-There has been an incident that shocked her family, a woman who was pregnant without her husband and family.
-
-Sujatha, a woman from Thodupuzha Karimannur, Idukki district of Kerala, was born on the night of the 10th of last night.. Immediately after birth, the child drowned and murdered. Subsequently, Sujatha was admitted to the hospital due to extreme bleeding.
-
-Where he was treated. When doctors inquired about Sujatha, he said that the baby died after birth. Subsequently, the police carried out information about the incident.
-
-Where he was treated. When doctors inquired about Sujatha, he said that the baby died after birth. Subsequently, the police carried out information about the incident.
-
-◼️
-
-[Data](articles/ae7136ba.json)
-
-[Extended Data](ext_articles/ae7136ba.ext.json)
-
----
-
-### Sri Lanka to tax imaginary rents on houses under IMF deal
-
-*2024-06-14 12:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-tax-imaginary-rents-on-houses-under-imf-deal-168001/) · `en`
-
-ECONOMYNEXT – Sri Lanka will charge taxes on owner occupied and vacant residential houses on imputed or ‘imaginary’ rents from April 2025, under an International Monetary Fund deal after aggressive macroeconomic policy pushed the country into sovereign default.
-
-The imputed rents will be calculated based on a property price register. However there will be an exemption threshold, a report released by after
-
-A nationwide digital Sales Price and Rents Register (SPRR) is to be set up by March 2025, and accessible to the Department of Inland Revenue.
-
-“This digital SPRR would be the key resource for assessing property values and the imputed rental income tax,” the IMF report said.
-
-A database on property valuations that includes information such as assessed values, latest assessment date, and property type in all municipal councils by August 2024.
-
-...
-
-[Data](articles/14a8d377.json)
-
-[Extended Data](ext_articles/14a8d377.ext.json)
-
----
-
-### Grandpa's granddaughter killed in plowing machine
-
-*2024-06-14 12:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தாத்தா-செலுத்திய-உழவு-இயந்திரத்தில்-சிக்கி-பேத்தி-பலி/72-338899) · `ta`
-
-In a tragic accident, an 8-year-old girl was fatally injured when she fell from a plowing machine in the Poovarasankulam area, Mannar Murungan police division, around 7 pm on Thursday. The incident occurred while her grandfather, a local farmer, was operating the machine. The girl's body is now at the Mannar District General Hospital, and the police are investigating the case.
-
-🟩
-
-The 8 -year -old granddaughter of the grandfather was trapped in a plowing machine, which took place at around 7 pm on Thursday (13) at Poovarasankulam area of ​​the Mannar Murungan police division.
-
-A farmer in the Poovarasankulam area belonging to the Mannar Murungan police division was plowing through the plowing machine in his field.
-
-During this time, his 8 -year -old granddaughter, who was sitting in the Makkat area of ​​the plowing machine, suddenly fell down and died.
-
-The body of the girl has been placed at the Mannar District General Hospital. Murugan police are conducting further investigations.
-
-◼️
-
-[Data](articles/2aa968f6.json)
-
-[Extended Data](ext_articles/2aa968f6.ext.json)
 
 ---

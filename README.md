@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 14:34:28**
+As of **2024-06-15 14:53:09**
 
 ## Newspaper Stats
 
-*Scraped **30,499** Articles*
+*Scraped **30,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 3,456
 tamilmirrorlk | 3,568
 virakesarilk | 4,684
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,925
+adaderanasinhalalk | 4,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,499 (100.0%) of 30,499 articles have been extended.
+30,499 (100.0%) of 30,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### ලෝක ක්‍රිකට් පිටිය මවිත කළ අමෙරිකානු කණ්ඩායම
+
+*2024-06-15 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197784) · `si`
+
+මෙවර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබා ගැනීමට සම-සත්කාරකත්වය දරන අමෙරිකාවට හැකිවිය.
+
+ඒ අයර්ලන්තය සමඟ ඊයේ (14) පැවති තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමත් සමඟය.
+
+ඒ අනුව A කාණ්ඩයෙන් මෙවර තරගාවලියට පිවිසි පාකිස්තානයට මුලික වටයෙන්ම ඉවත්වීමට සිදුවිය.
+
+විස්සයි විස්ස ලෝක කුසලාන ඉතිහාසයේ පාකිස්තානය පළමු වටයෙන්ම ඉවත්වූයේ පළමු වරටය. A කාණ්ඩයෙන් තරගවැදුණු පාකිස්තානයට අමතරව කැනඩාව සහ අයර්ලන්තයට ද එම අවස්ථාව අහිමි වී ගියා.
+
+අමෙරිකාවේ ෆ්ලොරිඩා හී ලෝඩර්හිල් ක්‍රීඩාංගණයේ පැවත්වීමට නියමිතව තිබු අමෙරිකා - අයර්ලන්ත තරගය වර්ෂාව සහ ක්‍රීඩාංගණය තෙත සහිත තත්ත්වය හේතුවෙන් අත්හැර දැමීමට විනිසුරුවරුන් තීරණය කළේය.
+
+එහිදි කණ්ඩායම් දෙකටම එක් ප්‍රසාද ලකුණ බැඟින් හිමි වුණ අතර ඒ අනුව සම සත්කාරකත්වය දරණ අමෙරිකාව සුපිරි 8 දෙනාගේ තරග වටයට සුදුසුකම් ලබාගත්තේය.
+
+...
+
+[Data](articles/91b9968e.json)
+
+---
+
+### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
+
+*2024-06-15 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
+
+In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
+
+🟩
+
+Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
+
+The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
+
+The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
+
+Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
+
+The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
+
+The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
+
+◼️
+
+[Data](articles/43c470c5.json)
+
+[Extended Data](ext_articles/43c470c5.ext.json)
+
+---
 
 ### Indian Foreign Minister Jayawaru
 
@@ -69,34 +119,6 @@ Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, 
 [Data](articles/c4a6acf0.json)
 
 [Extended Data](ext_articles/c4a6acf0.ext.json)
-
----
-
-### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
-
-*2024-06-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
-
-In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
-
-🟩
-
-Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
-
-The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
-
-The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
-
-Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
-
-The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
-
-The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
-
-◼️
-
-[Data](articles/43c470c5.json)
-
-[Extended Data](ext_articles/43c470c5.ext.json)
 
 ---
 
@@ -2265,31 +2287,5 @@ It is a cowardly act that carried out these systematic attacks with the napasi t
 [Data](articles/e11e21e7.json)
 
 [Extended Data](ext_articles/e11e21e7.ext.json)
-
----
-
-### Sri Lanka stocks close down, Hayles Fabric, Dipped Products sees interest
-
-*2024-06-14 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayles-fabric-dipped-products-sees-interest-168080/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.40 percent, or 49.03 points, at 12,310; while the more liquid S&P SL20 Index closed down 0.68 percent, or 24.87 points, at 3,645.
-
-Turnover was 1.2 billion. A large part of this came from capital goods stocks (Rs467mn).
-
-Hayleys Fabric Plc saw the most volumes traded (Rs78mn) in the day. The share closed flat at 44.50.
-
-Dipped Products Plc also attracted interest (Rs74mn). The share closed up at 37.90.
-
-Top contributors to the index included John Keells Holdings Plc (up at 205.00) its subsidiary Asian Hotels and Properties Plc (up at 61.90), and Carson Cumberbatch Plc (up at 295.00).
-
-Some of the bigger banks saw positive interest: Sampath Bank Plc (up at 80.10) and DFCC Bank Plc (up at 78.10), while other banking stocks, including Commercial Bank of Ceylon Plc (down at 108.00) and Hatton National Bank Plc (down at 201.75), closed down or flat in the day.
-
-...
-
-[Data](articles/3c2dbe25.json)
-
-[Extended Data](ext_articles/3c2dbe25.ext.json)
 
 ---

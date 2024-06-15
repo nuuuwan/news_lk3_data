@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 03:52:48**
+As of **2024-06-16 04:04:44**
 
 ## Newspaper Stats
 
-*Scraped **30,536** Articles*
+*Scraped **30,537** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 278
+colombotelegraphcom | 279
 dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,536 (100.0%) of 30,536 articles have been extended.
+30,536 (100.0%) of 30,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,18 @@ Sri Lanka's Dilhani Legamke won the bronze medal in women's spear throwing compe
 [Data](articles/0d30b82f.json)
 
 [Extended Data](ext_articles/0d30b82f.ext.json)
+
+---
+
+### Israel Is Fast Becoming A Pariah Nation In World Politics
+
+*2024-06-15 22:17:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/israel-is-fast-becoming-a-pariah-nation-in-world-politics/) · `en`
+
+Netanyahu is continuing to prove himself as a war criminal. He celebrates the release of four hostages over the dead bodies of more than 275 civilians of which 75 children and 700 injured in Nuseirat early this month. Hot on the heels of this heinous crime, comes the US drafted ceasefire resolution approved by the Security Council this June. How long will it last? The bloodthirsty Netanyahu will no doubt violate the ceasefire and then blame it on Hamas as has been done in the past. In the eyes of the world, Hamas then becomes the bad boy. Will this technique work or has the world awakened to the despicable trickery of Zionism?
+
+...
+
+[Data](articles/a5178e4b.json)
 
 ---
 
@@ -2273,25 +2285,5 @@ The apprehended trawler has been subsequently escorted to the Galle harbor, acco
 [Data](articles/2db388a0.json)
 
 [Extended Data](ext_articles/2db388a0.ext.json)
-
----
-
-### “I might have to play cricket myself if this continues” - Sports Minister
-
-*2024-06-14 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99885/i-might-have-to-play-cricket-myself-if-this-continues-sports-minister) · `en`
-
-Minister of Sports Harin Fernando, while speaking to the media this afternoon (14), expressed his views regarding Sri Lankan team’s early elimination from the ICC T20 World Cup 2024.
-
-Accordingly, Fernando stated that continuous losing of matches in this manner has been an issue for several years and that a long-term solution is needed to solve the relevant issue.
-
-The Sports Minister further alleged that the Sri Lanka Cricket was already suspended and everything was ‘messed up’ when he took over the relevant ministry.
-
-In response to a question raised by a journalist regarding future steps for the development of cricket, Fernando jokingly said: “I hope to play cricket. You are asking what I can do as the Sports Minister to this issue? What can I do if they keep losing the matches? Then I will have to go and play cricket.”
-
-...
-
-[Data](articles/9942f993.json)
-
-[Extended Data](ext_articles/9942f993.ext.json)
 
 ---

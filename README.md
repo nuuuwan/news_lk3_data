@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 13:53:49**
+As of **2024-06-15 14:04:50**
 
 ## Newspaper Stats
 
-*Scraped **30,497** Articles*
+*Scraped **30,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,79 +16,129 @@ islandlk | 1,655
 economynextcom | 1,771
 dailyftlk | 1,862
 adalk | 2,625
-adaderanalk | 3,455
+adaderanalk | 3,456
 tamilmirrorlk | 3,568
 virakesarilk | 4,684
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,924
+adaderanasinhalalk | 4,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,491 (100.0%) of 30,497 articles have been extended.
+30,497 (100.0%) of 30,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
 
-### மயிலை வேட்டையாடி உண்ட வெளிநாட்டவர் உள்ளிட்ட வேடுவ சமூகத்தைச் சேர்ந்த 6 பேரைத் தேடி பொலிஸார் தேடுதல் வேட்டை
+### ඉන්දීය විදේශ ඇමති ජයශංකර් ලංකාව ට
+
+*2024-06-15 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197783) · `si`
+
+ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා නිල සංචාරයක් සඳහා මෙරටට පැමිණිමට නියමිතව ඇත.
+
+එළැඹෙන ජුනි 20 වනදා ඒ මහතා ශ්‍රී ලංකාවට පැමිණීමට නිමිත බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/dd2e33f6.json)
+
+---
+
+### Indian Foreign Minister Jaishankar to visit Sri Lanka next week
+
+*2024-06-15 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99893/indian-foreign-minister-jaishankar-to-visit-sri-lanka-next-week) · `en`
+
+The External Affairs Minister of India Dr. S. Jaishankar will arrive in Sri Lanka on an official visit on June 20, the Ministry of Foreign Affairs said.
+
+During a recent meeting with President Ranil Wickremesinghe in India, Dr. Jaishankar addressed the swift resumption of development projects initiated in Sri Lanka with Indian investments, which had been halted midway.
+
+He expressed his intent to visit Sri Lanka in the near future to oversee the progress of these activities. Minister Jaishankar assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and expedite the commencement of development projects funded by Indian investments.
+
+Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, to be established by the Indian government, which will attract numerous Indian investors and potentially investors from other countries.
+
+◼️
+
+[Data](articles/c4a6acf0.json)
+
+---
+
+### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
 
 *2024-06-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
 
-மாதுரு ஓயா தேசிய பூங்காவிற்குள் மயிலொன்றை வேட்டையாடி அதன் இறைச்சியை சமைத்து உட்கொண்ட வேடுவர் சமூகத்தைச் சேர்ந்த ஐவர் மற்றும் வெளிநாட்டவர் ஒருவர் தொடர்பில் பொலிஸார் தேடுதல் நடவடிக்கையினை முன்னெடுத்துள்ளனர்.
+In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
 
-கடந்த 2019 அல்லது 2020 ஆம் ஆண்டு நடந்த இந்தச் சம்பவம்  காணொளியாக பதிவு செய்யப்பட்டு ஒரு வருடத்திற்கு முன்பு சமூக ஊடகங்களில் பகிரப்பட்டு தற்போது வெளிச்சத்துக்கு வந்துள்ளது.
+🟩
 
-இந்த காணொளியை 80 இலட்சம் பேர் பார்வையிட்டுள்ளதோடு, பொது மக்கள் சம்பவம் குறித்து கருத்துக்களை வெளியிட்டதை தொடர்ந்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
 
-சம்பவம் குறித்து ஹெனானிகல வனவிலங்கு தள பாதுகாப்பு அதிகாரி டபிள்யூ.எம்.குமாரசிறி விஜேகோன் மஹியங்கனை நீதவான் நீதிமன்றத்திற்கு அறிவித்துள்ளார்.
+The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
 
-இலங்கையில் பாதுகாக்கப்பட்ட இனமாக அறிவிக்கப்பட்டுள்ள மயில், வில் மற்றும் அம்பு பயன்படுத்தப்பட்டு வேட்டையாடப்பட்டுள்ளது.
+The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
 
-அதிவாசிகளான வேடுவர் சமூகத்தின் பாரம்பரிய முறைப்படி வேட்டையாடப்பட்ட மயில் வறுக்கப்பட்டு தேனில் தோய்த்து உட்கொண்ட காட்சி காணொளியில் பதிவாகியுள்ளது.
+Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
+
+The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
+
+The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
 
 ◼️
 
 [Data](articles/43c470c5.json)
 
+[Extended Data](ext_articles/43c470c5.ext.json)
+
 ---
 
-### තරුණ කාන්තාවක ට වෙඩිතබා ලක්ෂ 20ක් කොල්ලකයි
+### Shortbacks for a young woman in a young woman
 
 *2024-06-15 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197782) · `si`
 
-කාත්තන්කුඩිය අහමඩ් පාර ප්‍රදේශයේ නිවසක සිටි කාන්තාවකට නාඳුනන පුද්ගලයෙකු විසින් වෙඩිතබා බියගන්වා මුදල් හා රන් භාණ්ඩ පැහැරගැනීමක් සිදුකර තිබේ.
+In Kattankudi, a woman was shot, robbed, and her home ransacked. She was hospitalized but later moved to Batticaloa Hospital. The suspects, including a man from East Ariyampathi, were arrested after a brief investigation.
 
-පොලීසිය පැවසුවේ සැකකරු විසින් අදාළ කාන්තාවට ගිනිඅවියෙන් සහ අතින් පහරදීමක්ද සිදුකර ඇති බවය.
+🟩
 
-පහරදීමෙන් තුවාල ලැබූ 32 හැවිරිදි එම කාන්තාව කාත්තන්කුඩිය රෝහලට ඇතුළු කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා මඩකලපුව රෝහලට මාරුකර යවා තිබේ.
+A woman in a house in Ahmed road area, Kattankudi, has been shot by an unknown person and abducted money and gold items.
 
-අදාළ සැකකරු විසින් කාන්තාවගේ බෑගයේ තිබූ රන් භාණ්ඩ හා රුපියල් ලක්ෂ 20ක මුදලක් කොල්ලකා පළාගොස් ඇති බව පොලීසිය පවසයි.
+Police said the suspect had been assaulted by firearrib and manual.
 
-මෙම කොල්ලකෑම සම්බන්ධයෙන් සිදුකළ මූලික විමර්ශනවලට අනුව ආරියම්පති නැගෙනහිර ප්‍රදේශයේ 43 හැවිරිද පුද්ගලයෙකු පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The woman was injured in the attack, the woman was admitted to the hospital and later transferred to the Batticaloa Hospital for further treatment.
+
+The suspect had fled the woman's bag and the lack of gold and Rs.
+
+According to the preliminary investigations into the robbery, the police have arrested 43 and a person in the East Ariyampathi.
 
 ◼️
 
 [Data](articles/22f59c4b.json)
 
+[Extended Data](ext_articles/22f59c4b.ext.json)
+
 ---
 
-### ரஷ்யா - உக்ரைன் மீதான யுத்தத்தை தொடர்ந்து முன்னெடுப்பதற்கு சீனா உதவுகின்றது – ஜி ஏழு நாடுகளின் தலைவர்கள் கடும் எச்சரிக்கை
+### Russia - China helps to carry out war on Ukraine
 
 *2024-06-15 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186126) · `ta`
 
-ரஷ்யா உக்ரைன் மீதான யுத்தத்தை தொடர்ந்து முன்னெடுப்பதற்கு சீனா உதவுகின்றது என ஜி ஏழு நாடுகளின் தலைவர்கள் குற்றம்சாட்டியுள்ளனர்.
+G7 leaders accuse China of aiding Russia in Ukraine war, issuing warnings against material support. Amidst EU efforts to assist Russia's military industry, the G7 condemns continued Russian support in Ukraine.
 
-மொஸ்கோவின் நடவடிக்கைகளிற்கு பொருள் உதவிகளை வழங்குபவர்களிற்கு எதிராக தடைகள் விதிக்கப்படும் என ஜிஏழு நாடுகளின் தலைவர்கள் எச்சரித்துள்ளனர்.
+🟩
 
-ரஷ்யாவின் இராணுவ தொழில்துறை வளாகத்திற்கு உதவுவது தொடர்பில் ஐரோப்பிய ஒன்றியம் கடும் நடவடிக்கைகளை  எடுக்கச்செய்வதற்கான முயற்சிகளில் அமெரிக்கா ஈடுபட்டுள்ளவேளையிலேயே  ஜி7 நாடுகளின் தலைவர்களின் இந்த கடும் எச்சரிக்கை வெளியாகியுள்ளது.
+Leaders of seven countries have accused China of helping Russia to continue the war on Ukraine.
 
-ரஷ்யாவின் பாதுகாப்பு தொழில்துறை வளாகத்திற்கான சீனாவின் தொடரும் ஆதரவு உக்ரைனில் அதன் சட்டவிரோத போக்கை ரஷ்யா தக்கவைப்பதற்கு உதவுகின்றது என ஜி7 தலைவர்கள் குற்றம்சாட்டியுள்ளனர்.
+Leaders of the GDA have warned that Moscow's activities will be imposed against those who provide material assistance.
+
+This strict warning of the leaders of the G7 countries has been issued while the EU is trying to take drastic measures to help Russia's military industrial complex.
+
+G7 leaders have accused Russia of retaining Russia's continuing support for Russia's security industrial complex in Ukraine.
 
 ◼️
 
 [Data](articles/59dd85ab.json)
+
+[Extended Data](ext_articles/59dd85ab.ext.json)
 
 ---
 
@@ -168,45 +218,61 @@ This includes recommendations on cricket training and administration at all leve
 
 ---
 
-### காத்தான்குடியில் பெண்ணை துப்பாக்கியால் தாக்கி கொள்ளையடித்த நபர் கைது
+### A man arrested for robbing a woman in Kattankudi
 
 *2024-06-15 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186113) · `ta`
 
-மட்டக்களப்பு, காத்தான்குடி  பகுதியில் பெண்ணை துப்பாக்கியால் தாக்கி  தங்க ஆபரணங்களை கொள்ளையிட்டுச் சென்ற நபர் 3 மணித்தியாலயங்களில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார்  தெரிவித்தனர்.
+A man was arrested within three hours of committing a robbery in Kattankudi, where he shot at a woman and stole gold jewelry worth Rs 20 lakh. The victim was hospitalized, and forensic investigations were ongoing.
 
-புதிய காத்தான்குடி பகுதியில் வீடொன்றினுள் புகுந்த நபரொருவர் ஆகாயத்தை நோக்கி துப்பாக்கி பிரயோகம் செய்து விட்டு பெண்ணொருவரின் தலையில் துப்பாக்கியால் தாக்கி 20 இலட்சம் ரூபா பெறுமதியான தங்க ஆபரணங்களை கொள்ளையடித்து தப்பி சென்றுள்ளார்.
+🟩
 
-இதனையடுத்து, அந்த பகுதியில் பெரும் பரபரப்பு ஏற்பட்ட நிலையில் படுகாயமடைந்த பெண்ணை அயலவர்கள் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+A man who fired a woman in Kattankudy in Batticaloa and robbed gold ornaments was arrested in 3 hours, police said.
 
-அத்துடன்,  காயமடைந்த பெண்ணின்  வீட்டில்  தடவியல் பொலிஸ் பிரிவினர் மேற்கொண்ட மேலதிக விசாரணைகளின் பெண்ணின் வீட்டிலிருந்து  துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளது.
+A man who entered a house in the New Kattankudy area, fired at the sky and fired a gunman on the head of a woman and robbed gold jewelery worth Rs 20 lakh.
 
-இந்நிலையில், சம்பவம் இடம்பெற்று 3 மணித்தியாலங்களில் கொள்ளையடித்த நபர் காத்தான்குடி பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+Following this, neighbors have been admitted to the Batticaloa Teaching Hospital in Batticaloa.
+
+In addition, further investigations conducted by the Forensic Police Division have recovered from the woman's house in the house of the injured woman.
+
+In this case, a man who robbed the incident in Kattankudi was arrested in 3 hours after the incident.
 
 ◼️
 
 [Data](articles/c58030c3.json)
 
+[Extended Data](ext_articles/c58030c3.ext.json)
+
 ---
 
-### செங்கடல் பகுதியில் மீண்டும் ஹெளத்தி கிளர்ச்சியாளர்களின்  தாக்குதல்கள் மீண்டும் அதிகரிப்பு- கிரேக்க கப்பல் மீது தாக்குதல்
+### Red Sea back on the Red Sea in the Red Sea
 
 *2024-06-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186124) · `ta`
 
-செங்கடல் பகுதியில் கிரேக்கத்திற்கு சொந்தமான வணிக கப்பல் மீது ஹெளத்தி கிளர்ச்சியாளர்கள் தாக்குதலை மேற்கொண்டுள்ளனர்.
+Haundi rebels attacked a Greek-owned vessel in the Red Sea, causing flooding near Hodaida, Yemen, disabling its mechanical room. The ship, carrying Filipino crew, was evacuated safely. Insurgents also targeted another vessel, Verbenea, damaging two more ships. They've used drones and missiles in the Red Sea since November, supported by the British security firm. The IMO's Secretary General expressed concern over the escalating situation.
 
-ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதலை தொடர்ந்து அந்த கப்பலில் இருந்தவர்கள் பாதுகாப்பாக வெளியேற்றப்பட்டனர் கப்பல் கைவிடப்பட்ட நிலையில் மிதப்பதாக தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-யேமன் துறைமுகமாக ஹொடெய்டாவிற்கு அருகில் இடம்பெற்ற தாக்குதல் காரணமாக கப்பலிற்குள் பெருமளவு நீர் புகுந்தது என தகவல்கள் வெளியாகியுள்ளன. இயந்திர அறை பயன்படுத்த முடியாதநிலைக்கு காணப்பட்டதால் கப்பலை செலுத்த முடியாத நிலையேற்பட்டது.
+Haundi rebels attack on Greek -owned business vessel in the Red Sea.
 
-டியுட்டர் என்ற  இந்த கப்பலின் பணியாளர்கள் பிலிப்பைன்சை சேர்ந்தவர்கள் என தகவல்கள் வெளியாகியுள்ளன.
+Following the attack of the insurgents, the ship was safely evacuated.
 
-ஹெளத்தி கிளர்ச்சியாளர்கள் இந்த கப்பல் மீதான தாக்குதலிற்கும் வேர்பெனா என்ற மற்றுமொரு கப்பல் மீதான தாக்குதலிற்கும் உரிமை கோரியுள்ளனர்.
+According to reports, a large number of water has been flooded by the attack near Hodaida as the port of Yemen.. The vessel was unable to pay because the mechanical room was unusable.
 
-அவர்களின் தாக்குதல் காரணமாக மேலும் இரு கப்பல்கள் சேதமடைந்துள்ளன அவர்களின் தாக்குதல் திறன் அதிகரித்துள்ளது என பிரிட்டனின் பாதுகாப்பு நிறுவனமொன்று தெரிவித்துள்ளது.
+It is reported that the servants of the ship, Duater, belonged to the Philippines.
 
-...
+Haithi insurgents have claimed the attack on the ship and the attack on another vessel called Verbenea.
+
+Two more ships have been damaged due to their attack and their attack capacity has increased, a British security firm said.
+
+In the Gaza War, Haundi insurgents have been using unmanned aircraft and missiles in the Red Sea since November to express their support for the Palestinians.
+
+The Secretary General of the International Maritime Organization said the situation could not be allowed to continue.
+
+◼️
 
 [Data](articles/280a0fe7.json)
+
+[Extended Data](ext_articles/280a0fe7.ext.json)
 
 ---
 
@@ -300,21 +366,27 @@ The body has been placed in Jaffna Hospital. Further investigations are being co
 
 ---
 
-### கிண்ணியாவில் யானை தாக்கி ஒருவர் பலி
+### Elephant attack in Kinniya
 
 *2024-06-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186118) · `ta`
 
-கிண்ணியா பிரதேச செயலாளர் பிரிவுக்குட்பட்ட வான்எல சுண்டியாற்று பகுதியில் நேற்று வெள்ளிக்கிழமை (14) இரவு யானை தாக்குதலுக்கு இலக்காகி ஒருவர் உயிரிழந்துள்ளார்.
+A 26-year-old man from Kinniya was killed by an elephant while visiting his father's farm. The incident occurred in the Vanla Chundiyiyadiyam area. His body was taken to Trincomalee General Hospital for an autopsy, and the Kinniya police are investigating.
 
-இவ்வாறு உயிர் இழந்தவர் கிண்ணியா இடிமனையைச் சேர்ந்த 26 வயதுடைய இளம் குடும்பஸ்தராவார்.
+🟩
 
-இளம் குடும்பஸ்தர் நேற்றைய தினம் இரவு தந்தையுடைய பண்ணைக்கு சென்ற வேலையில் அவரை மறைந்திருந்த யானை ஒன்று தாக்கியுள்ளது.
+An elephant attack was killed last Friday night (14) in the Vanla Chundiyiyadiyam area of ​​the Kinniya Divisional Secretariat Division.
 
-உயிரிழந்தவரின் சடலம் பிரேத ப‌ரிசோதனை‌க்காக திருகோணமலை பொது வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது. இச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கிண்ணியா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The deceased is a 26 -year -old young family member of the Kinniya Idima.
+
+An elephant hiding him was attacked by a young family member who went to his father's farm last night.
+
+The body of the deceased has been taken to the Trincomalee General Hospital for an autopsy. Kinniya police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/d503c0f4.json)
+
+[Extended Data](ext_articles/d503c0f4.ext.json)
 
 ---
 
@@ -2211,53 +2283,5 @@ Some of the bigger banks saw positive interest: Sampath Bank Plc (up at 80.10) a
 [Data](articles/3c2dbe25.json)
 
 [Extended Data](ext_articles/3c2dbe25.ext.json)
-
----
-
-### SLFP crisis - Order to hear the petition
-
-*2024-06-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197756) · `si`
-
-In a legal dispute involving the Sri Lanka Freedom Party (SLFP), a High Court of Appeal ordered a hearing for appeals against an SLFP chairman's injunction. The court, led by Judges Gihan Kulathunga and Frank Gunawardena, will consider a petition from Mr. Wijayadasa Rajapaksa. Despite this, the case is directed to proceed in the Colombo District Court, with the appearance petition scheduled for the 26th.
-
-🟩
-
-The Western Province General Appeal was taken to hear the appearance of the Appeals filed against the injunction issued by the Sri Lanka Freedom Party (SLFP) as the Chairman of the SLFP.
-
-The order was issued by a High Court of Appeal Gihan Kulathunga and Frank Gunawardena after considering a petition filed by Mr. Wijayadasa Rajapaksa.
-
-However, the panel of judges was ordered to continue the case in the Colombo District Court.
-
-The appearance petition was ordered to be summoned on the 26th.
-
-◼️
-
-[Data](articles/b5da07f7.json)
-
-[Extended Data](ext_articles/b5da07f7.ext.json)
-
----
-
-### Student who got the best results in the GCE Advanced Level Examination- Incident in Karadivu
-
-*2024-06-14 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186061) · `ta`
-
-A student from Karadivu, known for excelling in all subjects, especially science, tragically drowned in the Lakugala river during a family trip. His sudden demise has deeply affected the community, including his school, Karadivu Vipulananda Central College.
-
-🟩
-
-A student from Karadivu, Ampara, was drowned this morning (14).
-
-In the past days, he was touring with his family while he was trapped in the Lakugala river.
-
-He is a man of Karadivu Vipulananda Central College and shines in all fields. He had the best results in the science category in the recently released Education Public Level Examination.
-
-Due to his sudden death, the Karadivu area, Karadivu Vipulananda Central College community has been in a state of tragedy.
-
-◼️
-
-[Data](articles/075ee872.json)
-
-[Extended Data](ext_articles/075ee872.ext.json)
 
 ---

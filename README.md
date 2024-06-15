@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 08:34:41**
+As of **2024-06-15 08:53:22**
 
 ## Newspaper Stats
 
-*Scraped **30,470** Articles*
+*Scraped **30,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,622
 adaderanalk | 3,450
-tamilmirrorlk | 3,564
+tamilmirrorlk | 3,565
 virakesarilk | 4,678
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,917
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,467 (100.0%) of 30,470 articles have been extended.
+30,470 (100.0%) of 30,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### நீர்கொழும்பு கடலில் நேற்று நடந்தது என்ன?
+
+*2024-06-15 08:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-நேற்று-நடந்தது-என்ன/175-338932) · `ta`
+
+நீர்கொழும்பு குடாபாடு மீனவர் துறைமுகத்திற்கு அருகில் நேற்று கடலில் நீராடச் சென்ற   மாணவர்கள்  இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+
+நீர்கொழும்பு விஜயரத்தினம் இந்து மத்திய கல்லூரியில்  கல்வி பயிலும்   மாணவர்களே இதில்  உயிரிழந்தவர்களாவர்.
+
+நேற்று  ஐந்து மாணவர்கள் குடாப்பாடு   கடலில் நீராடச் சென்ற நிலையில், அவர்களில் இருவர் கடலில் மூழ்கியுள்ளனர்.
+
+ஏனையவர்கள் அந்த இருவரையும் காப்பாற்ற முயற்சி செய்துள்ளனர். இந்நிலையில் பிரதேசவாசிகள் கடும் முயற்சி செய்து மூவரை காப்பாற்றி உள்ள நிலையில் இருவர் கடலில் மூழ்கி உயிரிழந்துள்ளனர்.
+
+நீர்கொழும்பு  கடற்கரை தெருவை சேர்ந்த யோகநாதன் நிதிஷ் (17), அஸரப்பா வீதியை சேர்ந்த ராஜதுரை அரவிந்தன் (17) ஆகியோரே உயிரிழந்தவர்களாவர்.
+
+◼️
+
+[Data](articles/4d9b82c1.json)
+
+---
 
 ### Several spells of showers expected in parts of Sri Lanka
 
@@ -45,6 +65,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/2c461b1d.json)
+
+[Extended Data](ext_articles/2c461b1d.ext.json)
 
 ---
 
@@ -462,21 +484,27 @@ President Ranil Wickremesinghe this week met with SAARC Secretary General Golam 
 
 ---
 
-### கல்வித் தளம் ஜனாதிபதி தலைமையில் ஆரம்பம்
+### The educational site is headed by the President
 
 *2024-06-15 01:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்-தளம்-ஜனாதிபதி-தலைமையில்-ஆரம்பம்/175-338930) · `ta`
 
-இலங்கை இளைஞர் சமூகத்துக்காக பொதுக் கற்றலுக்கான கல்வித் தளமான http://www.publiclearn.lk/ இனை உத்தியோகபூர்வமாக அறிமுகம் செய்யும் நிகழ்வு நேற்று முன்தினம் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நடைபெற்றது.
+President Ranil Wickremesinghe launched Public Learn, a free textbook platform funded by Sri Lankan diaspora in the UK, aiming to digitize education for Sri Lankan youth.
 
-Public Learn என்பது உலகின் முன்னணி பல்கலைக்கழகங்களில் இருந்து இலவச பாடநெறிகளை பயனர்களை வழிநடத்தும் ஒரு தளமாகும். இந்த தளமானது ரீஜண்ட் குளோபல் நிறுவனத்தால்  இயக்கப்படுவதோடு இலங்கையில் இதனை அறிமுகப்படுத்த இங்கிலாந்தில் உள்ள புலம்பெயர் இலங்கையர்களால் நிதியுதவி வழங்கப்பட்டுள்ளது.
+🟩
 
-இலங்கை இளைஞர் சமூகத்தினருக்கான பொது கற்றல் தளத்தை (http://www.publiclearn.lk/) ஜனாதிபதி உத்தியோகபூர்வமாக ஆரம்பித்து வைத்தார்.
+The official introduction of the Public Learning Educational Site for the Sri Lankan Youth community, http://www.publiclearn.lk/, was held yesterday afternoon at the Presidential Office under the patronage of President Ranil Wickremesinghe.
 
-இந்நிகழ்வில் உரையாற்றிய ஜனாதிபதி ரணில் விக்கிரமசிங்க, புதிய பொருளாதார மாற்றத்திற்காக இலங்கை டிஜிட்டல் மயமாக்கலுடன் வேகமாக முன்னேற வேண்டும் என்று தெரிவித்தார். (a)
+Public Learn is a platform that leads users to free textbooks from the world's leading universities. The site is run by Region Global and has been funded by diaspora Sri Lankans in the UK to introduce it in Sri Lanka.
+
+The President officially launched the Public Learning System for the Sri Lankan Youth Community (http://www.publiclearn.lk/).
+
+Speaking at the event, President Ranil Wickremesinghe said Sri Lanka should advance with digitalization for new economic change.. (A)
 
 ◼️
 
 [Data](articles/68822e65.json)
+
+[Extended Data](ext_articles/68822e65.ext.json)
 
 ---
 
@@ -736,21 +764,27 @@ In response to a question raised by a journalist regarding future steps for the 
 
 ---
 
-### දැනට සජිත්  එක -  රනිල් තුන
+### Sajith is currently one - Ranil
 
 *2024-06-14 21:13:51* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-සජිත්--එක----රනිල්-තුන/11-410216) · `si`
 
-ජනපති රනිල් වික්‍රමසිංහ මහතා එළබෙන ජූලි මාසයේ සමීක්ෂණයක් හරහා සිය ජනප්‍රියත්වය මැණ බලන බවත් එහිදීත් ඔහුට හිමි වනුයේ තුන්වන තැන නම් ජනපතිවරණය සදහා ඉදිරිපත් නොවනු ඇති බවත් පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+Ranil Wickremesinghe plans to boost his popularity through a survey in July, addressing concerns about his candidacy. He faces criticism over his low voter turnout history but remains a contender, focusing on overcoming obstacles including land disputes and salary increases. His strategy includes appealing to Tamil and Muslim votes to counter the Rajapaksa influence, aiming to secure a significant position despite challenges.
 
-ඒ මහතා මේ බව සදහන් කර සිටියේ 2024.06.14 දින පිවිතුරු හෙළ උරුමය පක්ෂ කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. එහිදී වැඩි දුරටත් අදහස් දැක්වූ පිවිතුරු හෙළ උරුමයේ නායකයා මෙසේ අදහස් දැක්වීය.
+🟩
 
-“රනිල් වික්‍රමසිංහ මැතිතුමා මැතිවරණයට ඉදිරිපත් නොවෙනවා නම් දේශපාලන කාර්යාලයක් විවෘත කරයි ද? රැස්වීම් පවත්වමින් රට වටේ යාවි ද? රටට දරා ගන්න බැරි සහන දෙන්න ඉදිරිපත් වේවි ද? කියලා සමහරු අපෙන් අහනවා.  ඒ නිසාම රනිල් මැතිතුමාගේ උපාය පැහැදිලි කිරීම අපේ වගකීමක් වෙනවා.
+President Ranil Wickremesinghe said that he would seek to meet his popularity through a survey of a survey in July July and said that he would not be offered to the President.
 
-එතුමා දැන් ඉන්නේ අපේක්ෂකයින් අතර තුන්වන තැන.  එතැනින් ඉදිරියට යන්න කළ හැකි හැම දෙයක්ම කරනවා.  ඉඩම් බෙදනවා. ගෙවල් බෙදනවා. වැටුප් වැඩි කරනවා.  සහන ලබා දෙනවා.  විපක්ෂයේ මන්ත්‍රිවරු දිනා ගන්න උත්සහ කරනවා.  රාජපක්ෂවරු ආණ්ඩුවෙන් යවා ගැනීමට උත්සාහ කරනවා.
+He was speaking at a media briefing held at the JHU on 14.06.2013. The leader of the Plandani Hela Urumaya expressed his views.
+
+"If Ranil Wickremesinghe doesn't contest the election, will open a political office?Will you be held at the Kingdom by holding meetings?Will you come forward to give relief to the country?Some people ask us.That is why it is our responsibility to explain Ranil's strategy.
+
+He is now third among the candidates.There will be everything you can to move on.Land divides. The houses are divided. The salaries are increased.Relief is provided.The opposition is trying to win.The Rajapaksas are trying to send from the government.
 
 ...
 
 [Data](articles/d10e1ec8.json)
+
+[Extended Data](ext_articles/d10e1ec8.ext.json)
 
 ---
 
@@ -2233,25 +2267,5 @@ S. Aksayan, who was selected for the medical department, died of water. The enti
 [Data](articles/30ff9e25.json)
 
 [Extended Data](ext_articles/30ff9e25.ext.json)
-
----
-
-### US welcomes IMF approval of Sri Lanka’s second review
-
-*2024-06-14 12:50:00* · [`economynextcom`](https://economynext.com/us-welcomes-imf-approval-of-sri-lankas-second-review-168027/) · `en`
-
-ECONOMYNEXT — The United States has welcomed the International Monetary Fund (IMF)’s approval of the second review of Sri Lanka’s IMF programme which allows for the disbursement of 330 million US dollars.
-
-US Ambassador to Sri Lanka Julie Chung tweeted Friday June 14 that her government encourages Sri Lanka’s leaders to stay committed to measures needed to foster growth.
-
-“Recognising that reforms can be challenging, the United States continues to encourage Sri Lanka’s leaders to stay committed to take needed measures that ensure accountability, transparency, and representative governance, to foster investment and growth,” she said.
-
-Chung met State Minister of Finance Shehan Semasinghe in Washington at the IMF Spring Meeting in April where she said Sri Lanka had made “great progress”.
-
-...
-
-[Data](articles/3de76bb3.json)
-
-[Extended Data](ext_articles/3de76bb3.ext.json)
 
 ---

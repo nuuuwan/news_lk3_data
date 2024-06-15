@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 07:46:34**
+As of **2024-06-15 08:11:42**
 
 ## Newspaper Stats
 
-*Scraped **30,462** Articles*
+*Scraped **30,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 1,769
 dailyftlk | 1,862
 adalk | 2,621
 adaderanalk | 3,449
-tamilmirrorlk | 3,561
+tamilmirrorlk | 3,563
 virakesarilk | 4,678
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,914
+adaderanasinhalalk | 4,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,462 (100.0%) of 30,462 articles have been extended.
+30,466 (100.0%) of 30,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### Notification of a strike
+
+*2024-06-15 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197774) · `si`
+
+The Station Masters Association's strike has been temporarily halted until Tuesday due to positive discussions with the train's general superintendent and unresolved issues with the Cabinet and Ministry. The President hopes for a comprehensive solution soon.
+
+🟩
+
+The planned strike to commence the Station Masters Association has been temporarily suspended.
+
+The President of the Association Sumedha Somaratne said that it is temporarily suspended until the Tuesday (18).
+
+"In the discussion with the general superintendent of the train, we received positive answers to some part of our requests. However, it was a contradiction with the relevant authorities, as the Cabinet paper and the Ministry sent by the Ministry's letter from the Ministry and the letter from the Ministry who was admitted to the Department and the letter sent by the Department.. One fix is ​​Tuesday at the point of the Public Service Commission, given the promise of the approval and made the promise of. These are the problems that caused stock parts without solving the problems of the entire train service.. We hope we give an answer. "
+
+◼️
+
+[Data](articles/215c7419.json)
+
+[Extended Data](ext_articles/215c7419.ext.json)
+
+---
+
+### President to be revealed about next week
+
+*2024-06-15 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197773) · `si`
+
+Next week, Sri Lanka's President Ranil Wickremesinghe will reveal details of a crucial committee meeting aimed at resolving the country's financial crisis. He emphasized the importance of education, vowing to establish the region's best system despite economic challenges. The President highlighted recent allocations for education and expressed optimism about overcoming bankruptcy post-meeting. He also mentioned progress in negotiations with the International Monetary Fund and plans to reduce unemployment and increase income through a new program. Additionally, he stressed the integration of technology into education and called for a shift from traditional politics towards implementing necessary economic reforms for the country's future development.
+
+🟩
+
+President Ranil Wickremesinghe says that the committee is officially granted in Sri Lanka is held next week.
+
+He said that after that meeting, he was able to quit bankruptcy to Sri Lanka.
+
+The President made these comments participating at a function held at the Buddhist Girls' National School School of Chilatha.
+
+The President also stated that the best education system in South Asia will be created in the country.
+
+...
+
+[Data](articles/53ae9263.json)
+
+[Extended Data](ext_articles/53ae9263.ext.json)
+
+---
 
 ### Weather - Introduction to Fisheries and Marine Community
 
@@ -393,6 +439,54 @@ High-level officials from the Ministry of Agriculture and Plantation Industries,
 [Data](articles/b8159de1.json)
 
 [Extended Data](ext_articles/b8159de1.ext.json)
+
+---
+
+### It is necessary to maintain the telephone agreement
+
+*2024-06-15 00:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-பேணுவது-அவசியம்/175-338929) · `ta`
+
+The IMF emphasizes maintaining Sri Lanka's agreement, highlighting readiness to consider alternatives if feasible within a specific timeframe. Despite economic challenges, improvements in inflation, revenue collection, and foreign reserves stabilization are noted.
+
+🟩
+
+The International Monetary Fund has insisted that it is necessary to maintain the agreement that Sri Lanka has signed.
+
+Peter Brewar, Chief of the International Monetary Fund, said this at a media briefing held yesterday. As he further stated,
+
+We are ready to learn about observations and alternative proposals to achieve the process. However, they should be seen as possible and achieved within the period of time.
+
+Sri Lanka's current reforms have deteriorated to the earliest level of the economy. Managing directors applauded the strong operation of the authorities under the financial cooperation program.
+
+The economy has been recovered. Inflation is low. Revenue collection has improved. Said the country's foreign reserves stabilized. (A)
+
+◼️
+
+[Data](articles/16eaa042.json)
+
+[Extended Data](ext_articles/16eaa042.ext.json)
+
+---
+
+### Lack of anesthesia
+
+*2024-06-15 00:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயக்க-மருந்துக்கு-பற்றாக்குறை/175-338928) · `ta`
+
+Due to a shortage of anesthesia at Colombo National Hospital, surgeries had to be canceled. The Deputy Director General mentioned that the anesthetic supplies have arrived at the Colombo port and measures are being taken to distribute them.
+
+🟩
+
+It was announced yesterday that the lack of anesthesia at the Colombo National Hospital was forced to cancel surgery.
+
+Deputy Director General of the Medical Distribution Division of the Ministry of Health, Dr. G. Wijesuriya said,
+
+This anesthetic has been brought to the Colombo port. He said steps have been taken to distribute them. (A)
+
+◼️
+
+[Data](articles/2b00a7bf.json)
+
+[Extended Data](ext_articles/2b00a7bf.ext.json)
 
 ---
 
@@ -2175,91 +2269,5 @@ Police said that all three suspects are scheduled to be produced before the Maha
 [Data](articles/5dccf05a.json)
 
 [Extended Data](ext_articles/5dccf05a.ext.json)
-
----
-
-### 7 Pakistani & Iranian drug traffickers sentenced to life in prison
-
-*2024-06-14 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99873/7-pakistani-iranian-drug-traffickers-sentenced-to-life-in-prison) · `en`
-
-The Colombo High Court has sentenced seven Pakistani and Iranian nationals to life in prison after they were convicted of possession and trafficking heroin.
-
-This verdict was delivered by Colombo High Court Judge Adithya Patabendige when the relevant case was taken up before the court this morning (14).
-
-During an operation carried out by the Sri Lanka Navy in the 2022, the convicted Pakistani and Iranian nationals were apprehended while transporting 123 kg of heroin within Sri Lanka’s territorial waters.
-
-Later, the Attorney General filed indictments against the suspects before the Colombo High Court.
-
-The accused pleaded guilty to the charges when the case was taken up before the court today, and were subsequently sentenced to life in prison, Ada Derana reporter said.
-
-Additionally, the court ordered the convicted foreign nationals to be extradited to their respective countries in order to serve their sentences, in consideration of a request made by them.
-
-◼️
-
-[Data](articles/20a93864.json)
-
-[Extended Data](ext_articles/20a93864.ext.json)
-
----
-
-### Notice to Development Officers
-
-*2024-06-14 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197745) · `si`
-
-The Sri Lanka Institute of Development Administration announced that the cutting exams for Development Secretariat I, II, and III will take place on June 30, 2022. Applicants should have received their exam tickets; otherwise, they can download them from www.slida.lk.
-
-🟩
-
-The Sri Lanka Institute of Development Administration has issued a statement regarding the date of conducting the cutting examinations of the Development Secretariat I, II and 111.
-
-The examinations will be held on June 30, 202.
-
-The announcement states that the examination ticket has been sent to the applicants and that the candidates who have not received their ticket can be downloaded from www.slida.lk
-
-◼️
-
-[Data](articles/ff4179ea.json)
-
-[Extended Data](ext_articles/ff4179ea.ext.json)
-
----
-
-### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
-
-*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-bilateral-political-consultation-held-in-beijing-policies-reviewed-167992/) · `en`
-
-ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
-
-“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
-
-She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
-
-“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
-
-...
-
-[Data](articles/671c1ee5.json)
-
-[Extended Data](ext_articles/671c1ee5.ext.json)
-
----
-
-### Sri Lanka, China hold bilateral consultation in Beijing; policies to be reviewed
-
-*2024-06-14 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-china-hold-bilateral-consultation-in-beijing-policies-to-be-reviewed-167992/) · `en`
-
-ECONOMYNEXT – Annual bilateral political consultation meeting between top officials of Sri Lanka and China will be held in Beijing next week with the review of some bilateral policies , Sri Lanka’s Foreign Ministry said.
-
-“Secretary, Foreign Affairs, Aruni Wijewardana will lead Sri Lanka’s delegation to the 13th round of Diplomatic Consultations with the People’s Republic of China to be held on 17 June 2024 in Beijing,” the Foreign Ministry said in a statement.
-
-She will co-chair the Consultations with Sun Weidong, the vice Minister of Foreign Affairs of the People’s Republic of China, .
-
-“The discussions are expected to review progress in the areas of bilateral engagement including on political, economic, trade, investment and defence.”
-
-...
-
-[Data](articles/7951bcc2.json)
-
-[Extended Data](ext_articles/7951bcc2.ext.json)
 
 ---

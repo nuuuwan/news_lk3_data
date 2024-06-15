@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-15 21:19:14**
+As of **2024-06-15 21:34:54**
 
 ## Newspaper Stats
 
-*Scraped **30,527** Articles*
+*Scraped **30,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,460
 tamilmirrorlk | 3,571
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,939
+adaderanasinhalalk | 4,940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,527 (100.0%) of 30,527 articles have been extended.
+30,527 (100.0%) of 30,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-15 (Saturday)
+
+### බලය ඇත්තෝ  වයඹ රංග ශාලාව ට කළ වින්නැහිය
+
+*2024-06-15 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197798) · `si`
+
+අධික මුදලක් වැය කරමින් කොළඹ නෙළුම් පොකුණ රංග ශාලාවට පමණක් දෙවැනි වන ලෙස ඉදිකිරීම් කටයුතු ආරම්භ කරන ලද වයඹ ජනකලා කේන්ද්‍රයේ රංග ශාලාව මේ වනවිට මුළුමනින්ම පාහේ පරිහාණියට පත්ව තිබේ.
+
+කාලයක් මුළුල්ලේ කලාකරුවන් බිහිකළ ශ්‍රී ලංකාවේ කලාකරුවන්ගේ හදවත බඳු රංග ශාලාවකට අත්වී ඇති දුක්ඛිත ඉරණමක් පිළිබඳ "අද දෙරණ උකුස්සා" ට තොරතුරු අනාවරණ විය.
+
+කුරුණෑගල ජනකලා කේන්ද්‍ර පරිශ්‍රයේ පිහිටා ඇති අඩක් වැඩ නිමකළ එම රංග ශාලාව සොයා "අද දෙරණ උකුස්සා" ගවේෂණයක නිරත වූයේ ඒ අනුවය.
+
+සුන්දර ඇතුගල් පුරවරයේ පිහිටා තිබෙන වයඹ ජනකලා කේන්ද්‍රය ඉදිවන්නේ 2001 වසරේදීය.
+
+වයඹ පළාතේ දරුවන්ගේ කලා කුසලතා ඔප් නැංවීමේ අරමුණින් ආරම්භ කළ මෙම ජනකලා කේන්ද්‍රය එකල සතියේ සෑම දිනකම පාහේ කලා කටයුතුවලින් කාර්යබහුල වුණි.
+
+එසේම සංස්කෘතික මධ්‍යස්ථාන හා කෞතුගාකාරවලින්ද එම ජනකලා කේන්ද්‍රය සමන්විත විය.
+
+වයඹ පළාත් සභා ආණ්ඩුකාරවරයා විසින් පසු කලෙක එම භූමියේ රංග ශාලාවක් ඉදිකිරීමට යෝජනා කර එහි කටයුතු ආරම්භ කරන්නේද වේදිකා නාට්‍ය, ප්‍රසංග සඳහා එය යොදා ගැනීමේ අරමුණිනි.
+
+...
+
+[Data](articles/3e8d593f.json)
+
+---
 
 ### A new story about the stock of heroin trapped at the right sea
 
@@ -2267,35 +2291,5 @@ It is also said that it will also set up Prime Minister Modi's visit to Sri Lank
 [Data](articles/070276e8.json)
 
 [Extended Data](ext_articles/070276e8.ext.json)
-
----
-
-### Minister appointed to Minister of Sri Lanka
-
-*2024-06-14 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197765) · `si`
-
-Sri Lanka's cricket team made history by participating in the 20-20 World Cup for the first time. Despite losing to Bangladesh, the team's performance raised questions about the sport's future under the new Sports Minister, Harin Fernando. He emphasized the need for a long-term strategy to address issues plaguing the game.
-
-🟩
-
-The Sri Lanka team took place this year to leave the first 20-20 World Cup tournament for the first time in history.
-
-Minister Harin Fernando said that the deception of the match is a matter of years and is a long-term solution to resolve it.
-
-Q: What steps will be taken to take the cricket as the Sports Minister?
-
-"I hope to play cricket. The Minister of Sports is what I ask you. So what should I do to match Match?. Then I go to cricket. So you can't. A question that was drawn for these years. To solve, you need a long-term solution. This is forbidden when we take over. Everything's messed up and pickled "
-
-The Sri Lankan team took over the first time in the first 20-20 World Cup tournament for the first time in history.
-
-Bangladesh won the match by 25 runs against the Netherlands.
-
-The match was interrupted in the beginning of the Bangladesh and the Netherlands, but the match was blurred by the Sri Lankan team.
-
-...
-
-[Data](articles/d471b2ca.json)
-
-[Extended Data](ext_articles/d471b2ca.ext.json)
 
 ---

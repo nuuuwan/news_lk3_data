@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 13:53:40**
+As of **2024-06-16 14:05:11**
 
 ## Newspaper Stats
 
-*Scraped **30,598** Articles*
+*Scraped **30,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,101 @@ islandlk | 1,670
 economynextcom | 1,778
 dailyftlk | 1,863
 adalk | 2,637
-adaderanalk | 3,467
+adaderanalk | 3,468
 tamilmirrorlk | 3,581
-virakesarilk | 4,691
+virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,955
+adaderanasinhalalk | 4,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,597 (100.0%) of 30,598 articles have been extended.
+30,598 (100.0%) of 30,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### යුක්තියෙන් රැකියාත් ලබාදෙයි
+### අමෙරිකාවේ රන් කොල්ලයක්
+
+*2024-06-16 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197815) · `si`
+
+අමෙරිකාවේ කැලිෆෝනියා හි රන් භාණ්ඩ සාප්පුවකට ඇතුළු වූ පිරිසක් රන් භාණ්ඩ කොල්ලකන අයුරු විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+20 දෙනෙකු පමණ මෙම කොල්ලයට එක්වී ඇති අතර ඉන් සැකකරුවන් 5 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+විනාඩි 3ක පමණ කාලයක් තුළදී ඔවුන් හැකි තරම් රන් භාණ්ඩ සොරාගෙන පළා ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/9a4e265c.json)
+
+---
+
+### பிரசாரப் பொருளாகும் 13ஆவது திருத்தம்
+
+*2024-06-16 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186192) · `ta`
+
+“13 ஆவது திருத்தச்சட்டம் என்பது,  தமிழ் மக்களின் பிரச்சினைக்கான நிரந்தரத் தீர்வு அல்ல. இது இலங்கையின் அரசியலமைப்பின் ஒரு பகுதி.அதனை நடைமுறைப்படுத்துவதை தமிழ் மக்களின் பிரச்சினைக்கான ஒரு தீர்வாக காட்டுவதற்கு, பிரதான சிங்கள வேட்பாளர்கள் முற்படுகிறார்கள்”
+
+◼️
+
+[Data](articles/9aa9ada1.json)
+
+---
+
+### Railway guard falls from moving train, disrupting services on Main Line
+
+*2024-06-16 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99906/railway-guard-falls-from-moving-train-disrupting-services-on-main-line) · `en`
+
+Railway operations on the main line were disrupted today (16) as the chief railway guard of a train traveling from Colombo Fort to Trincomalee had fallen from the moving train in the Ganemulla area early this morning.
+
+The train, which had departed from Colombo Fort railway station at 5:45 a.m., has made a stop at Gampaha railway station to board passengers. However, the train driver had not received a signal from the chief guard to resume the journey, prompting a lengthy delay. It was later discovered that the chief railway guard was missing from his compartment in the train.
+
+Further investigation revealed that he had fallen from the train in the winding area near Hemamali Vidyalaya, between Ganemulla and Bulagahagoda railway stations. Sources from the Department of Railways stated that the guard had fallen onto the adjacent railway track.
+
+...
+
+[Data](articles/e72b462a.json)
+
+---
+
+### Gives jobs with justice
 
 *2024-06-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197814) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක "යුක්තිය" මෙහෙයුම යටතේ අත්අඩංගුවට ගත් මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් පුනුරුත්ථාපනය කිරීමේ "සුවසාර කැදැල්ල" වැඩසටහන පසුගියදා ආරම්භ වුණේ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ සංකල්පයකට අනුවය.
+The Navasara Kadase program, initiated by IGP Deshabandu Tennakoon, aims to provide justice and reduce crime rates. Parallelly, a rehabilitation program was launched. The initiative has led to a 23% decrease in criminal activities in Sri Lanka, with a significant impact on drug-related crimes, particularly in the Western Province. Tiran Alles attended the event, highlighting its importance.
 
-එම වැඩසටහනට සමගාමීව පුනුරුත්ථාපනය වූ පුද්ගලයන් සඳහා රැකියා ලබාදීමේ වැඩසටහනක් බත්තරමුල්ල "අපේ ගම " පරිශ්‍රයේදී  ඊයේ (15) පැවැත්වුණි.
+🟩
 
-එහිදී අදහස් දැක්වූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසා සිටියේ, යුක්තිය මෙහෙයුම ආරම්භ කිරීමත් සමඟ මෙරට තුළ අපරාධ ‍සියයට 23කින් අඩුවී ඇති බවය.
+The "Navasara Kadase 'program was the concept of IGP Deshabandu Tennakoon.
 
-"මත්ද්‍රව්‍ය බෙදාහැරීමේ ජාලය 90%ක් විනාශ කළා. මත්ද්‍රව්‍ය වැඩිම බස්නාහිර පළාතේ. නුගේගොඩ සහ ගල්කිස්ස මත්ද්‍රව්‍ය වැඩිම කොට්ඨාස. මේ ප්‍රදේශවල මත්ද්‍රව්‍ය සංස්කෘතියක් ඇතිවෙලා. යුක්තිය මෙහෙයුම නිසා 23%කින් අපරාධ අඩුවෙලා. 50%කින් අපරාධ අඩු කිරීම අපේක්ෂාවයි."
+In parallel to the program, a program for rehabilitated persons was held at the premises of the Battaramulla yesterday (15).
 
-එම අවස්ථාවට මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාද එක්වී සිටියේය.
+IGP Deshabandu Tennakoon said that with the commencement of justice operation, criminals have fell 23 percent in Sri Lanka.
+
+"Drug Delivery Network destroyed 90%. The largest of drugs in the Western Province. Nugegoda and Mount Lavinia. There is a drug culture in these areas. The crime is 23% due to justice operation. The prospect of crime by 50% is the prospect. "
+
+Tiran Alles was also present at the occasion.
 
 ◼️
 
 [Data](articles/f15ba403.json)
+
+[Extended Data](ext_articles/f15ba403.ext.json)
+
+---
+
+### புலனாய்வுத் தவறுகள் இனங்காணப்படுமா?
+
+*2024-06-16 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186189) · `ta`
+
+2019 ஏப்ரல் 21ஆம் திகதி நடத்தப்பட்ட குண்டுத் தாக்குதல் தொடர்பான முழுமையான புலனாய்வுத் தகவல் குறித்து, அரச புலனாய்வுச் சேவை (SIS), தேசிய புலனாய்வு பிரதானி (CNI) மற்றும் ஏனைய அதிகாரிகள் முன்னெடுத்த நடவடிக்கைகள் எவை? அதற்கு அமைவாக போதிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளனவா? என்பது குறித்து ஆராய்வதே இந்தக் குழுவின் நோக்கங்களாக வரையறுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/95ac1377.json)
 
 ---
 
@@ -97,6 +159,18 @@ Secretary of the National Construction Employees' Association Secretary Supun Ab
 [Data](articles/8b8eea62.json)
 
 [Extended Data](ext_articles/8b8eea62.ext.json)
+
+---
+
+### பாழாய் போன கட்சியும் 15 இலட்சம் வாக்குகளும்
+
+*2024-06-16 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186186) · `ta`
+
+"மைத்திரிபால சிறிசேன ஒரு முறைதான் ஜனாதிபதியாக இருந்தார். அதனால் மீண்டும் அவர் போட்டியிடுவதற்கு வாய்ப்பு இருக்கிறது. இந்த வாய்ப்பை அவர் பயன்படுத்திக்கொள்ளப் போவதாக கூறினார். இது உண்மையோ அல்லது பிரதான கட்சிகளை பேரம் பேசுவதற்காக அவிழ்த்துவிட்ட கதையோ தெரியாது..."
+
+◼️
+
+[Data](articles/c9bede69.json)
 
 ---
 
@@ -153,6 +227,30 @@ It was announced that Sri Lanka will likely introduce an imputed rental income t
 [Data](articles/b38709c4.json)
 
 [Extended Data](ext_articles/b38709c4.ext.json)
+
+---
+
+### 13 குறித்த வாக்குறுதிகளும் தடுமாற்றங்களும்
+
+*2024-06-16 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186177) · `ta`
+
+தமிழ் அரசு கட்சி பெரும்பாலும் சஜிப் பிரேமதாசவை ஆதரிக்கலாம் என்ற சூழலே காணப்படுகிறது. அதனை நோக்கித் தான் அந்தக் கட்சியை சுமந்திரன் போன்றவர்கள் நகர்த்திக் கொண்டிருக்கிறார்கள். பழசை மறப்போம் மன்னிப்போம் என்று கூறும் ஜே.வி.பி, அதற்கு என்ன பரிகாரத்தை தமிழ் மக்களுக்கு அளிக்கப் போகிறது? 13 ஆவது திருத்தச் சட்ட  அமுலாக்க விடயத்தில், ஐக்கிய மக்கள் சக்திக்குள்ளேயும் சரி, தேசிய மக்கள் சக்திக்குள்ளேயும் சரி, தெளிவான நிலைப்பாடு இல்லை.
+
+◼️
+
+[Data](articles/9bbd793a.json)
+
+---
+
+### இலங்கை மீது குவியும் கவனம்
+
+*2024-06-16 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186179) · `ta`
+
+“இந்திய பிரதமர் மோடியின் ஆகஸ்ட் மாத வருகைக்கு முன்னர், இலங்கையில் இந்தியாவின் திட்டங்களுக்கு உள்ள  தடங்கல்களை நீக்கி, அவரைக் கொண்டு வடக்கில் காற்றாலை திட்டங்களை ஆரம்பித்து வைக்கும் நோக்கம் புதுடில்லிக்கு இருக்கிறது”
+
+◼️
+
+[Data](articles/d6c807a7.json)
 
 ---
 
@@ -2169,185 +2267,5 @@ G7 leaders have accused Russia of retaining Russia's continuing support for Russ
 [Data](articles/59dd85ab.json)
 
 [Extended Data](ext_articles/59dd85ab.ext.json)
-
----
-
-### Special discussion in Russia on the 26th and 27
-
-*2024-06-15 13:21:05* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-26-හා-27-දා-රුසියාවේදී-විශේෂ-සාකච්ඡාවක්/11-410222) · `si`
-
-A special discussion in Russia on June 26 and 27 involves restoring Sri Lankan military members using Russian military personnel. Foreign Minister Ali Sabri plans to visit Russia to explore BRICS involvement in Sri Lanka. He expects Indian Foreign Minister visits soon, post-Prime Minister Narendra Modi's successful meeting with President Ranil Wickremesinghe. Sri Lanka has successfully completed the second IMF review, paving the way for the third installment. Debt restructuring is nearing completion, with potential MOUs for managing debt with foreign countries. A visit to Japan is planned to resume halted development projects, following an agreement with bilateral official creditors. Additionally, discussions are underway to rescue Sri Lankans in Myanmar.
-
-🟩
-
-Minister of External Affairs is to visit Russia to restore Sri Lankan military members who are using Sri Lankan military members using Russian military personnel.Said Sabri said.
-
-He has appointed a group of officers to study the Cabinet paper to decide whether the BRICS should take part in Sri Lanka.
-
-Foreign Minister Ali Sabri said this at a press conference held at the President's Media Center for
-
-President Ranil Wickremesinghe recently attended the Prime Minister Narendra Modi. We hope that the Indian Foreign Minister will visit Sri Lanka this month. It is believed that the visit of the Indian Prime Minister will soon come soon.
-
-...
-
-[Data](articles/253ea719.json)
-
-[Extended Data](ext_articles/253ea719.ext.json)
-
----
-
-### Free from bankruptcy next week
-
-*2024-06-15 13:16:20* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සතියේදි-බංකොලොත්-බවෙන්-නිදහස්/11-410221) · `si`
-
-President Ranil Wickremesinghe announced the creation of South Asia's best education system in the country, emphasizing the government's commitment to education despite financial challenges. He highlighted the importance of modernizing education and integrating new technologies. The President also discussed the government's efforts to revive the Madampe Economic Zone and develop it into a tourism, economic, and IT hub, alongside initiatives for agricultural modernization and the introduction of modern farming techniques.
-
-🟩
-
-President Ranil Wickremesinghe said that the best education system in South Asia will be created in the country.
-
-The President made this observation at a ceremony to introduce the first stage of the students to the students.
-
-The President emphasized that the government has taken measures to be allocated despite the difficult economic situation.
-
-The President also participated in observing new classrooms and joined the students.
-
-The President also offered gifts to the students of the school who was highly granted at the GCE A / L examination and presented a souvenir for President Ranil Wickremesinghe.
-
-The first phase of the new building was spent on the first phase of Rs. 450 million and the money was given by the government and parents.
-
-The President also stated that the construction of the building will be completed under the request of the students to complete the construction of the building.
-
-...
-
-[Data](articles/4c52a8a0.json)
-
-[Extended Data](ext_articles/4c52a8a0.ext.json)
-
----
-
-### Traffic along the main road was limited
-
-*2024-06-15 13:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-வீதியூடான-போக்குவரத்து-மட்டுப்படுத்தப்பட்டது/175-338934) · `ta`
-
-Starting today, traffic on the Kohuwala junction road will be restricted for two months due to bridge renovations between Colombo and Piliyandal. This project, expected to last until August 15, may cause congestion, prompting the use of alternative routes.
-
-🟩
-
-Traffic will be restricted on the Kohuwala junction road from today (15), police said.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that traffic on the road will be restricted for two months.
-
-The revision work of the bridge at Kohuwala junction on the road from Colombo to Piliyandal has begun.
-
-It will be held until August 15. Thus, traffic congestion is likely to occur in the area. Therefore, noted to use alternatives to facilitate the travel. Remble
-
-◼️
-
-[Data](articles/b6d5e73f.json)
-
-[Extended Data](ext_articles/b6d5e73f.ext.json)
-
----
-
-### President of SLC to President
-
-*2024-06-15 13:05:21* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ආයතනයේ-නව-ව්‍යවස්ථා-පනත්-කෙටුම්පත-ජනපතිට/9-410220) · `si`
-
-A bill proposing a new constitution for Sri Lanka Cricket was submitted to President Ranil Wickremesinghe, aiming to restructure SLC for better governance, promote equality, and improve cricket at all levels. The proposal includes suggestions for administrative changes, training, and alliances to enhance overall well-being.
-
-🟩
-
-Several suggestions on the administration, training and allies of the entire well-being, including national male and female groups.
-
-Attempting the restructuring of SLC composition and structure.
-
-The Bill, which was made to draft a new constitution to Sri Lanka Cricket, was handed over to President Ranil Wickremesinghe at the Presidential Secretariat today (15).
-
-Chairman of the Committee Retired Supreme Court Judge KT. Mr. Chithziri handed over the Bill to the President and other members of the committee were also present.
-
-...
-
-[Data](articles/c0c9eace.json)
-
-[Extended Data](ext_articles/c0c9eace.ext.json)
-
----
-
-### The latest tax coming to the rent homeowners
-
-*2024-06-15 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197781) · `si`
-
-The International Monetary Fund (IMF) proposes introducing a rental income tax for residential and vacant properties in Sri Lanka, aiming to boost government revenue. This tax will be based on tenants' ability to pay rather than property values. The IMF suggests setting up a local database with updated property estimates by August 2023, targeting full implementation by 2026.
-
-🟩
-
-The International Monetary Fund has proposed to introduce a revenue income tax of the residential and empty property in Sri Lanka.
-
-A newly detailed report on Sri Lanka's International Monetary Fund has been released on this.
-
-The IMF COUNTRY REPORT 24/161 Report was published following the second review of the International Monetary Fund for Sri Lanka.
-
-The International Monetary Fund points out that it is important to introduce such tax to increase government revenue.
-
-The report also states that Sri Lanka is targeting this tax system by 2026.
-
-An attribute revenue tax is a householder that a householder is hired, the income he or she can afford to be estimated and charged.
-
-This lease is based on the income where the tax is based, not on the value of the house.
-
-The International Monetary Fund points out that the database should be set up at local government level level and that the database should include an updated estimate of property in Sri Lanka.
-
-...
-
-[Data](articles/b73fb8fa.json)
-
-[Extended Data](ext_articles/b73fb8fa.ext.json)
-
----
-
-### New York of the Sri Lanka Cricket Board
-
-*2024-06-15 12:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-சபையின்-புதிய-யாப்பு/175-338933) · `ta`
-
-The Sri Lanka Cricket Board presented a new bill to President Ranil Wickremesinghe, focusing on cricket training, administration improvements, and the board's rehabilitation.
-
-🟩
-
-The new Bill of the Sri Lanka Cricket Board was handed over to President Ranil Wickremesinghe today (15) at the Presidential Office.
-
-This includes recommendations on cricket training and administration at all levels and the rehabilitation of the Cricket Board.
-
-◼️
-
-[Data](articles/c9845d52.json)
-
-[Extended Data](ext_articles/c9845d52.ext.json)
-
----
-
-### A man arrested for robbing a woman in Kattankudi
-
-*2024-06-15 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186113) · `ta`
-
-A man was arrested within three hours of committing a robbery in Kattankudi, where he shot at a woman and stole gold jewelry worth Rs 20 lakh. The victim was hospitalized, and forensic investigations were ongoing.
-
-🟩
-
-A man who fired a woman in Kattankudy in Batticaloa and robbed gold ornaments was arrested in 3 hours, police said.
-
-A man who entered a house in the New Kattankudy area, fired at the sky and fired a gunman on the head of a woman and robbed gold jewelery worth Rs 20 lakh.
-
-Following this, neighbors have been admitted to the Batticaloa Teaching Hospital in Batticaloa.
-
-In addition, further investigations conducted by the Forensic Police Division have recovered from the woman's house in the house of the injured woman.
-
-In this case, a man who robbed the incident in Kattankudi was arrested in 3 hours after the incident.
-
-◼️
-
-[Data](articles/c58030c3.json)
-
-[Extended Data](ext_articles/c58030c3.ext.json)
 
 ---

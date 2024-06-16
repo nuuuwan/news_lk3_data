@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 17:04:23**
+As of **2024-06-16 17:19:31**
 
 ## Newspaper Stats
 
-*Scraped **30,623** Articles*
+*Scraped **30,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,671
 economynextcom | 1,778
 dailyftlk | 1,863
-adalk | 2,643
-adaderanalk | 3,470
+adalk | 2,644
+adaderanalk | 3,471
 tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,618 (100.0%) of 30,623 articles have been extended.
+30,623 (100.0%) of 30,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### Russian forces kill Islamic State-linked hostage takers at detention centre
+
+*2024-06-16 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99911/russian-forces-kill-islamic-state-linked-hostage-takers-at-detention-centre) · `en`
+
+Russian special forces freed two prison guards and shot dead six inmates linked to the Islamic State militant group who had taken them hostage at a detention centre in the southern city of Rostov on Sunday, Russian media said.
+
+State media said that some of the men had been convicted of terrorism offences and were accused of affiliation with the Islamic State militant group, which claimed responsibility for a deadly attack on a Moscow concert hall in March.
+
+The six hostage takers, one of whom wore a headband with the flag used by the Islamic State that bears an Arabic inscription, knocked out window bars and climbed down several floors by rope before taking the guards hostage with a knife and fire axe.
+
+In video published by the 112 Telegram channel, one was shown brandishing a knife beside one of the bound guards in Rostov-on-Don. In negotiations with the authorities, they demanded free passage out of the prison.
+
+...
+
+[Data](articles/8caa6fcf.json)
+
+---
 
 ### Youth murdered during musical show in Kalutara
 
@@ -48,41 +66,55 @@ The woman who works at a garment factory had come to watch the musical show and 
 
 [Data](articles/448962fb.json)
 
+[Extended Data](ext_articles/448962fb.ext.json)
+
 ---
 
-### පාකිස්තානයේ පියෙකු දියණියව මහල්ලෙකුට විකුණයි
+### A father of Pakistan sells daughter to a man
 
 *2024-06-16 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197820) · `si`
 
-පාකිස්තානයේ 12 හැවිරිදි දැරියක් 72 හැවිරිදි පුද්ගලයෙකුට විවාහ කර දීමට යෑමේදී පොලීසිය මනමාලයාව අත්අඩංගුවට ගෙන තිබේ.
+In Pakistan, a father sold his 12-year-old daughter to a 72-year-old man, leading to her arrest during the wedding. The father fled but was later caught. This incident highlights ongoing child exploitation issues in the country.
 
-පොලීසිය පවසන්නේ දැරියගේ පියා විසින් ඇයව පාකිස්තාන මුදලින් ලක්ෂ 5ක මුදලකට අදාළ මහළු පුද්ගලයාට විකිණීමට කටයුතු කර ඇති බවය.
+🟩
 
-එහෙත් දැරියගේ පියා එම ස්ථානයෙන් පළා ගොස් ඇති අතර ඔහු සොයා පොලිස් පරීක්ෂණ ක්‍රියාත්මකය.
+The police have arrested the bride when he was married to Pakistan's 12-year-old girl to a 72-year-old girl.
 
-විදෙස් මාධ්‍ය පවසන්නේ පාකිස්තානයේ මෙවැනි සිද්ධීන් දිගින් දිගටම වාර්තා වන බවය.
+Police say that the girl's father had worked to sell her to the elderly person with a sum of Rs.
+
+However, the girl's father had fled the place and he found him in the police investigation.
+
+Foreign media states that such incidents have been continuously reported in Pakistan.
 
 ◼️
 
 [Data](articles/66c2f8df.json)
 
+[Extended Data](ext_articles/66c2f8df.ext.json)
+
 ---
 
-### අමෙරිකාවේ වෙඩිතැබීමක්
+### A shooting in America
 
 *2024-06-16 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197819) · `si`
 
-අමෙරිකාවේ මිචිගන්හි සිදුවූ වෙඩි තැබීමකින් පුද්ගලයින් 9 දෙනෙකු තුවාල ලබා තිබේ.
+In Michigan, nine people including two seriously injured children were shot near a park. The shooter used two guns from a nearby house, but the exact details remain unclear.
 
-තුවාල ලැබූ පිරිසට ළමයින් දෙදෙනෙකු ද අයත්වන අතර ඒ අතරින් අයෙකුගේ තත්ත්වය බරපතළ බව වාර්තා වෙයි.
+🟩
 
-උද්‍යානය අසල පිහිටි නිවසක සැඟව සිටියදී වෙඩික්කරුද වෙඩි තබාගෙන සියදිවි නසාගෙන ඇති බව වාර්තා වෙයි.
+Nine persons were injured in a shooting in Michigan in the United States.
 
-වෙඩික්කරු තුවක්කු දෙකක් භාවිතයෙන් වෙඩිතැබීම සිදුකළ බවට සිදුවීම ඇසින් දුටුවෙකු පවසා ඇතත් එය මෙතෙක් නිශ්චිතව අනාවරණ වී නොමැත.
+The injured people also belong to two children, one of them is serious.
+
+It is reported that shot of shooting while hiding in a house near the park.
+
+An eye has said that the shotgun was shooting using two guns, but it has not been specific.
 
 ◼️
 
 [Data](articles/2509e19d.json)
+
+[Extended Data](ext_articles/2509e19d.ext.json)
 
 ---
 
@@ -478,21 +510,29 @@ It was announced that Sri Lanka will likely introduce an imputed rental income t
 
 ---
 
-### අපරික්ෂාකාරි රියධාවනයෙන් ඝාතන 07ක් සිදුකළ රියදුරෙකුට චෝදනා 52ක් යටතේ වසර 17ක බරපතල වැඩ සහිත සිරදඩුවම
+### Seven injuries have been held in 52 years in 52 years of charge of 52 accusations
 
 *2024-06-16 12:35:55* · [`adalk`](https://www.ada.lk/breaking_news/අපරික්ෂාකාරි-රියධාවනයෙන්-ඝාතන-07ක්-සිදුකළ-රියදුරෙකුට-චෝදනා-52ක්-යටතේ-වසර-17ක-බරපතල-වැඩ-සහිත-සිරදඩුවම/11-410237) · `si`
 
-අපරික්ෂාකාරි ලෙස රිය ධාවනය කොට සිදුකළ අනතුරකදී ඝාතන 07ක් කිරීමට සෘජුවම දායක වූ රියදුරෙකුට දණ්ඩ නීති සංග්‍රහයේ වගන්ති 03ක් යටතේ  වසර 17ක බරපතල වැඩ ඇතුව සිරදඩුවමක් සහ රුපියල් 56800 දඩමුදලක ගෙවීමට පුත්තලම මහාධිකරණ විනිසුරු නදී අපරනා සුවන්දුරුගොඩ මහත්මිය 14දා තීන්දු කළාය.
+In a unique accident case, a man was sentenced to 17 years of hard labor and fined heavily for causing a fatal crash. This incident occurred when he lost control of a speeding bus from Colombo to Jaffna, resulting in several deaths. The court proceedings highlighted the severity of his charges, leading to a significant financial penalty and prison time.
 
-මෙසේ සිරදඩුවම් සහ දඩ මුදලක් ගෙවීමට නියම වූයේ පුත්තලම, පාලවිය පදිංචි මොහොමඩ් ගිෆ්රි මොහොමඩු වාහිල් නුමති 38 හැවිරිදි පුද්ගලයෙකුටය.
+🟩
 
-මෙම නඩු විභාගය වසර 07ක් පුරාවට පුත්තලම මහාධිකරණයේ විභාගය වූ අතර පුද්ගලයින් 36 දෙනෙකුගෙන් කටඋත්තර ලබාගනු ලැබීය.
+In the accident that was uniquely driven, he was sentenced to 17 years of serious work and to pay a direct rid of the pension Code on Tuesday.
 
-ඒ අනුව දණ්ඩ නීති සංග්‍රහයේ 298 වගන්තිය යටතේ 1සිට 07 දක්වා චෝදනා 07ට වසර 07ක සිර දඩුවම් සහ එක්වසරකට රුපියල් 5000 බැගින් රුපියල් 35000ක දඩයක්, 328 වගන්තිය යටතේ චෝදනා 18ට රුපියල් 100 බැගින් රුපියල් 1800ක්, 329 වගන්තිය යටතේ චෝදනා 20ක් සඳහා මාස 06 බැගින් වසර 10ක් සඳහා  සිරදඩුවම් සහ එක් වසරකට රුපියල් 1000 බැගින්  වූ රුපියල්  20000ක දඩමුදලක් විනිසුරුවරිය විසින් චූදිතයා හට නියම කරනු ලැබීය.
+Mohammed Gifdy Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohanu Mohaviro Carriel residents.
+
+The hearing was the examination of the Puttalam High Court for seven years and 36 people received statements from 36 people.
+
+Accordingly, under Article 32, Rs.And the judge was given the judge of the judge of Rs. 200,000 per year.
+
+Last 2017. 11. On the 6th, a heavy rapidly running bus from Colombo to Jaffna and the suspect was unable to control the speed in Mundalama.
 
 ...
 
 [Data](articles/b4493a0d.json)
+
+[Extended Data](ext_articles/b4493a0d.ext.json)
 
 ---
 
@@ -562,19 +602,29 @@ Accordingly, the Bentota Police had inspected the Bentota Police in the district
 
 ---
 
-### මියන්මාරයේ සයිබර් කඳවුරු තුළ තරුණයින් ලක්ෂයක් බලහත්කාරයෙන් රඳවාගෙන
+### In Myanmar's cyber bases, a hundred thousand young people
 
 *2024-06-16 12:17:42* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-කඳවුරු-තුළ-තරුණයින්-ලක්ෂයක්-බලහත්කාරයෙන්-රඳවාගෙන/11-410235) · `si`
 
-මියන්මාරයේ සයිබර් කදවුරු තුළ ලෝකයේ විවිධ රටවල තරුණ පුරවැසියන් ලක්ෂයකට අධික පිරිසක් බලහත්කාරයෙන් රදවා ගෙන සිටින බව තමන්ට මියන්මාර සංචාරයේ දී දැන ගැනීමට ලැබුණු බවත් ඒ අතුරින් 53,000 ක පිරිසක් චීන ජාතිකයන් වන බවත් විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා 06/15 දින සවස කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+In Myanmar, 53,000 young people were detained at Katunayake Airport on June 15th. Minister A Tharaka Balasuriya expressed confidence in Myanmar's cyber campaign, mentioning visits to Thailand and meetings with non-governmental organizations. He revealed that among the detainees, half were Chinese.
 
-ඒ මහතා එසේ පැවසූවේ  මියන්මාරයේ සහ තායිලන්තයේ සංචාරයක් නිම කර කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියදීය .
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ තාරක බාලසූරිය අමාත්‍යවරයා " අපිට යම්කිසි විශ්වාසයක් තියෙනවා , මියන්මාරයේ සයිබර් කදවුරු තුළ බලහත්කාරයෙන් රදවා ගෙන සිටින ශ්‍රී ලාංකිකයන් 49 දෙනා අතුරින් කීප දෙනෙකු ඉදිරියේ දී මුදා ගැනීමට හැකි වේ යැයි " ද පැවසීය .
+In Myanmar's cyber camp, 53,000 young citizens of the world have been forcibly detained and 53,000 of them at the Katunayake Airport on 6/15 pm on the evening of 6/15 pm on a Katunayake airportSaid.
 
-...
+He was speaking to Myanmar and Thailand.
+
+Speaking further Minister A Tharaka Balasuriya said: "We have faith in the cyber campaign of Myanmar's cyber campaign," he said.
+
+The Minister also visited Thailand in Thailand in Thailand and several non-government ministers and non-governmental organizations in the world, and more than 100,000 young citizens of this country and non-government citizens in Myanmar.He said he was able to disclose 53,000 of them were the Chinese and 53,000 of them were Chinese.
+
+Minister Tharaka Balasuriya from Bangkok, UL of Thailand at Thailand at Thailand from 345 pm, from Bangkok, UL.
+
+◼️
 
 [Data](articles/130ca53c.json)
+
+[Extended Data](ext_articles/130ca53c.ext.json)
 
 ---
 
@@ -593,6 +643,20 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 [Data](articles/69c6960f.json)
 
 [Extended Data](ext_articles/69c6960f.ext.json)
+
+---
+
+### ඉදිරියේ දී ශිෂ්‍යත්ව විභාගයේ වෙනසක්
+
+*2024-06-16 12:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියේ-දී-ශිෂ්‍යත්ව-විභාගයේ-වෙනසක්/11-410234) · `si`
+
+ලබන ජූලි මස මුල් සතියේ දී ගණිතය, රසායන විද්‍යාව , භෞතික විද්‍යාව, ජීවවිද්‍යාව, සිංහල, ඉංග්‍රීසි, දමිළ මාධ්‍යයන් හා තාක්ෂණවේදය මෙන්  ම විදේශ භාෂා යන විෂය ධාරාවල උපාධිධාරී ගුරු පත්වීම් 2500ක් පමණ ලබා දීමට අවශ්‍ය පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය. එම සියලු‍ උපාධිධාරීන් විභාගයකට පෙනී සිටීමෙන් අනතුරු ව සම්මුඛ පරීක්ෂණ සඳහා ද මේ වන විට පෙනී සිට ඇතැයි කී අමාත්‍යවරයා මෙමගින් දක්ෂ ම ගුරුවරුන් දරුවන්ට ලබා දීමට අපේක්ෂා කරන බව පැවසී ය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ නාත්තන්ඩිය ධම්මිස්සර විද්‍යාලයේ ඉදිකල නව තෙමහල් තාක්ෂණ ගොඩනැගල්ල සිසු අයිතියට පත් කිරීමේ උත්සවයේ ප්‍රධාන ආරාධිතයා ලෙස එක්වෙමිනි.2014 වර්ෂය වන තෙක් විද්‍යා, කලා, වාණිජ යන විෂය ධාරා තුනක් පැවති නමුත් තාක්ෂණ පීඨ ආරම්භ කිරීමත් සමග තාක්ෂණ විෂය ධාරා ආරම්භ කළ බවත් අද කලා විෂය ධාරාවන්ට වඩා අධික ඉල්ලු‍මක් පවතින්නේ වෘත්තීය ක්ෂේත්‍රය සමග  සෘජු ව ම සබැඳුණු තාක්ෂණ විෂය ධාරාවන්ට බවත් අමාත්‍යවරයා මෙහි දී ප්‍රකාශ කළේ ය.
+
+...
+
+[Data](articles/16f937f0.json)
 
 ---
 
@@ -2249,49 +2313,5 @@ When the two arrested were produced before the Akkaraipattu Magistrate's Court o
 [Data](articles/8d0f0f36.json)
 
 [Extended Data](ext_articles/8d0f0f36.ext.json)
-
----
-
-### Sri Lanka’s Cable Solutions in Rs605mn IPO
-
-*2024-06-15 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-in-rs605mn-ipo-168177/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cable Solutions Limited will make an initial public offering of ordinary voting shares on the Diri Savi Board of the Colombo Stock Exchange (CSE).
-
-The CSE had approved, in-principle, an application submitted by the company, for the listing of its ordinary voting shares by way of an offer for subscription and an offer for sale.
-
-For subscription, 14,666,600 shares would be offered at 7.50 rupees a share.
-
-For sale, 66,120,000 shares would be offered at 7.50 rupees a share.
-
-The opening of subscription list is July 23. Copies of the prospectus would be made available to trading participants on July 9. (Colombo/Jun15/2024)
-
-Sri Lanka’s ACL Cables wraps up acquisition of Cable Solutions
-
-◼️
-
-[Data](articles/c6039b20.json)
-
-[Extended Data](ext_articles/c6039b20.ext.json)
-
----
-
-### Committee appointed to formulate program for vehicle imports
-
-*2024-06-15 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99897/committee-appointed-to-formulate-program-for-vehicle-imports) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that a committee was appointed on Friday (14) to devise a program on how to carry out vehicle importation activities in the future.
-
-Speaking to the media today (15), Siyambalapitiya highlighted ongoing discussions with the International Monetary Fund (IMF), which has been guiding the country’s financial strategies.
-
-He mentioned that the government has submitted a roadmap to the IMF regarding the relaxation of vehicle import restrictions, recognizing the direct impact of such imports on the country’s foreign reserves.
-
-The relaxation of restrictions will begin with vehicles used for public transport, following a specific method outlined in the roadmap, according to the State Minister.
-
-...
-
-[Data](articles/f98b971b.json)
-
-[Extended Data](ext_articles/f98b971b.ext.json)
 
 ---

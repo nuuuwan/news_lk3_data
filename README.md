@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 10:53:21**
+As of **2024-06-16 11:05:20**
 
 ## Newspaper Stats
 
-*Scraped **30,567** Articles*
+*Scraped **30,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,63 @@ adaderanalk | 3,463
 tamilmirrorlk | 3,576
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,948
+adaderanasinhalalk | 4,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,564 (100.0%) of 30,567 articles have been extended.
+30,567 (100.0%) of 30,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### අපුර මිහින්තලය දුම්රිය මාර්ගය හෙට විවෘතයි
+### ප්‍රදේශ දෙකකින් හමුවූ මළසිරුරු
+
+*2024-06-16 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197807) · `si`
+
+ඊයේ (15) දහවල් කාලයේදී එම මළ සිරුර සොයාගත් බව පොලීසිය පවසයි.
+
+මෙම පුද්ලගයා මීට දින දෙකකට පෙර සිට අතුරුදන්ව සිට ඇති බවට පොලිස් විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+මේ අතර දෙල්වල පන්සල ආසන්නයේ ඇති ඇල්ලක සැකකටයුතු ලෙස මියගිය පිරිමි පුද්ගලයෙකුගේ සිරුරක් පොලීසිය විසින් සොයාගෙන ඇත.
+
+ඊයේ සවස් කාලයේදී එම මළ සිරුර සොයාගෙන තිබුණේ දෙල්වල පොලීසියට ලද තොරතුරකට අනුවය.
+
+එසේ මියගොස් ඇත්තේ, උඩදෙල්වල ප්‍රදේශයේ පදිංචිව සිටි 34 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරුට ස්ථිර පදිංචියක් නොමැති අතර කුලීවැඩ කරමින් ජීවත් වන පුද්ගලයෙකු බවට විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/483042d8.json)
+
+---
+
+### Amazing Mihintale railway line opens tomorrow
 
 *2024-06-16 10:19:59* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-මිහින්තලය-දුම්රිය-මාර්ගය-හෙට-විවෘතයි/11-410225) · `si`
 
-පොසොන් පොහොය නිමිති කරගෙන මිහින්තලය වෙත පැමිණෙන බැතිමතුන් වෙනුවෙන් ගාස්තු අය කිරීමකින් තොරව නොමිලේ  විශේෂ දුම්රිය සේවාවක් ආරම්භ කිරීමට කටයුතු කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Tomorrow marks the opening of the Mihintale railway line, offering free special trains for devotees during Poson Poya. Due to incomplete northern railway lines, only 400 special buses are available. Despite this, the Minister of Railways has approved free special trains for Mihintale pilgrims. Additionally, a special bus service will run from Mahawa to Anuradhapura and Colombo to Mahawa. The Minister of Transport, Bandula Gunawardena, will inaugurate the Anuradhapura-Mihintale railway line today.
 
-මේ වන විට උතුරු දුම්රිය මාර්ගයේ මහව – අනුරාධපුර ප්‍රදේශය අතර වැඩකටයුතු අවසන් වී නොමැති බැවින් මෙවර පොසොන් සමයට දුම්රිය සේවා යෙදවීමට නොහැකි වී ඇතිි බැවින්  ඒ  වෙනුවට විශේෂ බස්රථ පමණක් 400ක් අතිරේකව යෙදවීමට කටයුතු කරන බවයි.
+🟩
 
-කෙසේවෙතත්, අනුරාධපුර සිට මිහින්තලය දක්වා නව කෙටි දුර දුම්රිය මාර්ගයක් ඉදිකර ඇති බවත්, මිහින්තලය වන්දනා කිරීමට පැමිණෙන බැතිමතුන්ට ගාස්තු අය කිරීමකින් තොරව විශේෂ දුම්රියක් ධාවනය කිරීමට කටයුතු යොදන ලෙස දුම්රිය දෙපාර්තමේන්තුවට උපදෙස් දී ඇති බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+The Railway Department says that the Poson Poya has been opened to launch a free special train service without charge for devotees to the Mihintale.
 
-තවද කොළඹ,  සිට මහව දක්වා දුම්රියෙන් පැමිණෙන මගින් හට මහව දුම්රිය ස්ථානයේ සිට  අනුරාධපුර දක්වා ද විශේෂ බස් සේවාවක් ක්‍රියාත්මක වන බවද උසස් නිලධාරියකු පැවසීය.
+Since the northern railway line is not over, the Poson sector has not been able to deploy railway work, so they are not able to deploy only 400 special buses.
 
-...
+However, the Minister of Railways has advised the Department of Railways to run a special train without charge for the pilgrims of the Mihintale without charges.
+
+A special bus service will also be implemented from Mahawa Railway Station to Anuradhapura, from Colombo to Mahawa train.
+
+The railway line between the Anuradhapura and Mihintale and the opening of the railway line will be started by the Minister of Transport Bandula Gunawardena today (17).
+
+◼️
 
 [Data](articles/144afff0.json)
+
+[Extended Data](ext_articles/144afff0.ext.json)
 
 ---
 
@@ -63,6 +93,8 @@ However, he was pronounced dead on admission to the hospital.
 ◼️
 
 [Data](articles/bd59f68f.json)
+
+[Extended Data](ext_articles/bd59f68f.ext.json)
 
 ---
 
@@ -528,21 +560,27 @@ Sri Lanka's Dilhani Legamke won the bronze medal in women's spear throwing compe
 
 ---
 
-### දුම්රිය පාපුවරුවේ ගමන් කළ යුක්රේන තරුණිය බිංගෙයක හැපෙයි
+### Ukrainian girl traveled on the train
 
 *2024-06-15 22:20:49* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පාපුවරුවේ-ගමන්-කළ-යුක්රේන-තරුණිය-බිංගෙයක-හැපෙයි/11-410224) · `si`
 
-කොළඹ සිට බදුල්ල බලා අද 15  සවස ධවනය වෙමින් තිබූ උඩරට මැණිකේ දුම්රියේ පාපුවරුවේ ගමන් ගත් විසි තුන් හැවිරිදි යුක්රේන ජාතික තරුණියක් ඕහිය  පට්ටිපොළ අතර පිහිටි  බිංගෙයක හැපී දුම්රියෙන් බිම ඇද වැටී බරපතළ තුවාල ලබා  රෝහල් ගත කළ බව හපුතලේ පොලීසිය පවසයි.
+A 23-year-old Ukrainian girl was seriously injured in a train accident between Colombo and Badulla, Sri Lanka. She was rushed to the Diyatalawa Base Hospital. The incident occurred due to a fatal accident involving a foreign model of the Upcountry railway train near Haputale.
 
-ඕහිය - පට්ටිපොළ දුම්රිය ස්ථාන  දෙක අතර දහනම වැනි බිංගෙයේ හැපීමෙන් පසු මෙම තරුණිය  බිම ඇද වැටී බරපතල තුවාල ලබා ඇතැයි ද ඇය එම දුම්රියෙන්ම හපුතලේ දුම්රිය ස්ථානය වෙත රැගෙන විත් ගිලන් රථයකින් දියතලාව මූලික රෝහලට  රැගෙන ගොස් ඇතුළත් කළ බවද පොලිසිය පැවසීය.
+🟩
 
-මෙරට සංචාරයක පැමිණ  කොළඹ සිට පවුලේ ඥාතීන්  සමඟ ඇල්ල බලා ගමන්ගත්  විසිතුන් හැවිරිදි  යුක්රේන ජාතික තරුණියක් මෙසේ තුවාල ලබා රෝහල් ගත කර තිබේ.
+A twenty-three-year-old Ukrainian youth train from the train, a journey of the train in Colombo to Badulla, has been admitted to the ground.
 
-මීට සති දෙකකට පමණ පෙරද  උඩරට දුම්රිය මාර්ගයේ දුම්රියේ පාපුවරුවේ ගමන් ගත් විදේශික   පුද්ගලයෙකුට   මේ ආසන්න බිංගෙයක් අසල මාරක   අනතුරක්  සිදුවූ බවද හපුතලේ පොලීසිය පැවසීය.
+The girl had been severely wounded and he was taken to the Diyatalawa Base Hospital after the censorship between the two railway stations between the two railway stations.
+
+Twenty-third-year-old Ukrainian youth, who was traveling to the Sri Lankan visit to Sri Lanka, has been injured and hospitalized.
+
+A foreign pattern of the train of the Upcountry railway train was a fatal accident near the nearby person, Haputale Police said.
 
 ◼️
 
 [Data](articles/2df820a8.json)
+
+[Extended Data](ext_articles/2df820a8.ext.json)
 
 ---
 
@@ -2285,21 +2323,5 @@ Even though there exist certain codes, they are certainly not implemented in pra
 [Data](articles/4ac93072.json)
 
 [Extended Data](ext_articles/4ac93072.ext.json)
-
----
-
-### SLT-MOBITEL & STEMUP Educational Foundation successfully complete first batch of “CoderDojo”
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/slt-mobitel-stemup-educational-foundation-successfully-complete-first-batch-of-coderdojo/) · `en`
-
-Empowering youth with essential coding skills for the digital future, SLT-MOBITEL, the National ICT Solutions Provider, in collaboration with the STEMUP Educational Foundation and the National Library of Sri Lanka, has successfully completed the first batch of CoderDojo program at the Public Library premises in Colombo.
-
-This initiative, led by STEMUP Educational Foundation, powered by SLT-MOBITEL and strategically partnered with the National Library of Sri Lanka, underscores SLT-MOBITEL’s commitment to nurturing the next generation of innovators and tech-savvy leaders. The successful completion of the first batch of CoderDojo at the Public Library demonstrates the company’s dedication to providing equal opportunities for all students to acquire invaluable STEM education skills.
-
-...
-
-[Data](articles/81966f61.json)
-
-[Extended Data](ext_articles/81966f61.ext.json)
 
 ---

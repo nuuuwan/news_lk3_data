@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 08:53:38**
+As of **2024-06-16 09:04:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,945
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,557 (100.0%) of 30,558 articles have been extended.
+30,558 (100.0%) of 30,558 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 ◼️
 
 [Data](articles/8c708298.json)
+
+[Extended Data](ext_articles/8c708298.ext.json)
 
 ---
 

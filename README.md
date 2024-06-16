@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 08:22:18**
+As of **2024-06-16 08:34:49**
 
 ## Newspaper Stats
 
-*Scraped **30,555** Articles*
+*Scraped **30,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,461
-tamilmirrorlk | 3,573
+tamilmirrorlk | 3,574
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,944
+adaderanasinhalalk | 4,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,555 (100.0%) of 30,555 articles have been extended.
+30,555 (100.0%) of 30,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### දුම්රිය ධාවනයට බාධා
+
+*2024-06-16 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197803) · `si`
+
+ප්‍රධාන මාර්ගයේ සහ උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+
+අද (16) උදෑසන කොළඹ කොටුව සිට ත්‍රිකුණාමලය දක්වා ධාවනය වන දුම්රියේ ප්‍රධාන නියාමක මහතා දුම්රියෙන් ඉවතට විසිවී සිදුවූ අනතුරක් හේතුවෙන් එම දුම්රිය මේ වනවිට ගම්පහ දුම්රිය ස්ථානයේ නවත්වා ඇති බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනය ප්‍රමාද වන බව සඳහන්ය.
+
+ගනේමුල්ල - බුලුගහගොඩ යන දුම්රිය ස්ථාන අතර දී එම අනතුර සිදුව ඇති අතර අනතුරින් තුවාල ලැබූ දුම්රිය නියාමකවරයා රෝහල් ගතකර ඇති බව වාර්තා වෙයි.
+
+මේ අතර තලවකැලේ සහ වටගොඩ දුම්රිය ස්ථාන අතර දුම්රියක් පීලී පැනීම හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+කොළඹ කොටුවේ සිට නානුඔය දක්වා ධාවනය වූ දුම්රිය ඊයේ (15) රාත්‍රී එලෙස පිලී පැනීමට ලක්ව ඇති බව සඳහන්ය.
+
+ඒ අනුව කොළඹ කොටුව සිට - බදුල්ල බලා ධාවනය වන දුම්රිය හැටන් දුම්රිය ස්ථානය දක්වා සීමාකර ඇති අතර බදුල්ල සිට කොටුව බලා ධාවනය වන දුම්රිය නානුඔය දුම්රිය ස්ථානය දක්වා සීමා කර තිබේ.
+
+...
+
+[Data](articles/c99a0c09.json)
+
+---
 
 ### Calling the Kapa Committee to several institutions
 
@@ -237,6 +261,22 @@ He also said that he had been subjected to an intensive hearing on April 11 for 
 ---
 
 ### 2024-06-15 (Saturday)
+
+### இளநீர் ஏற்றுமதி வீழ்ச்சி
+
+*2024-06-15 23:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீர்-ஏற்றுமதி-வீழ்ச்சி/175-338955) · `ta`
+
+வெண்ணிற ஈ தாக்கத்தினால் இளநீர் செய்கைக்கு பாதிப்பு ஏற்பட்டுள்ளதாக தெங்கு அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+விவசாய அமைச்சர் மஹிந்த அமரவீரவின் தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போது இந்த விடயம் தொடர்பில் ஆராயப்பட்டுள்ளது.
+
+வெண்ணிற ஈ நோய்த் தாக்கத்தினால் இளநீர் ஏற்றுமதியில் 30 வீதம்  வீழ்ச்சி ஏற்பட்டுள்ளதாக இதன்போது சுட்டிக்காட்டப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e4c0d91f.json)
+
+---
 
 ### Gold to Sri Lanka at the Asian Throw Championships
 
@@ -2213,51 +2253,5 @@ People’s Bank Deputy General Manager – Banking Support Services Nipunika Wij
 [Data](articles/7a0e200f.json)
 
 [Extended Data](ext_articles/7a0e200f.ext.json)
-
----
-
-### President says Government fostering knowledge-empowered youth generation
-
-*2024-06-15 01:12:25* · [`dailyftlk`](https://www.ft.lk/news/President-says-Government-fostering-knowledge-empowered-youth-generation/56-763119) · `en`
-
-President Ranil Wickremesinghe this week emphasised the need to cultivate a generation of youth equipped with the knowledge and training necessary to meet future challenges.
-
-He also highlighted that an economic program aimed at generating substantial income for the youth of the country is currently being implemented.
-
-President Wickremesinghe shared these thoughts during a meeting with members of the National Youth Corps (NYC) at the Presidential Secretariat on Wednesday.
-
-During the event, NYC Director Brigadier Sujeewa Rathnayake presented a souvenir to President Wickremesinghe.
-
-“It has been 22 years since the Youth Corps was established. It was originally designed to align with the economic and social system of that era.
-
-However, the Youth Corps must evolve with the times. To ensure a prosperous future for our youth, we must also focus on improving their income opportunities. Necessary steps should be taken to adapt and transform the Youth Corps accordingly.
-
-...
-
-[Data](articles/403754d3.json)
-
-[Extended Data](ext_articles/403754d3.ext.json)
-
----
-
-### Siyambalapitiya says supplementary estimates will not result in new allocations
-
-*2024-06-15 01:11:52* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-says-supplementary-estimates-will-not-result-in-new-allocations/56-763118) · `en`
-
-Clarifies estimates only entail changes to subjects under which existing expenses are categorised
-
-State Minister of Finance Ranjith Siyambalapitiya said yesterday that the supplementary estimates presented by President Ranil Wickremesinghe, amounting to Rs. 8.75 billion, will not lead to any new financial allocations.
-
-Addressing the concerns regarding the supplementary estimates, he clarified that although supplementary estimates typically involve new recurrent or capital expenditures, this particular estimate does not impact the primary account or the budget deficit.
-
-Siyambalapitiya said the estimates only entail changes to subjects under which existing expenses are categorised.
-
-“The supplementary estimate is merely an adjustment in the allocation of funds within existing budgetary provisions. It does not entail an increase in overall spending or affect the fiscal balance,” Siyambalapitiya added.
-
-...
-
-[Data](articles/dd17c3af.json)
-
-[Extended Data](ext_articles/dd17c3af.ext.json)
 
 ---

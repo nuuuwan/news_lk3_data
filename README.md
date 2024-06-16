@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 11:19:33**
+As of **2024-06-16 11:34:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,568 (100.0%) of 30,577 articles have been extended.
+30,577 (100.0%) of 30,577 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,69 +48,105 @@ The Sri Lankan all-rounder further said: “We are very sorry that our hopes as 
 
 [Data](articles/d2bf2fa7.json)
 
+[Extended Data](ext_articles/d2bf2fa7.ext.json)
+
 ---
 
-### දේපොළ බද්ද වෙනුවටයි කුලී ආදායම් බද්ද ගෙනාවේ -  මහාචාර්ය වසන්ත අතුකෝරළ
+### Prof. Wasantha Athukorala replaces the property
 
 *2024-06-16 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197808) · `si`
 
-2025 වර්ෂය වනවිට දේපොළ බද්දක් රට තුළ ක්‍රියාත්මක කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් යෝජනා කරන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන විද්‍යා අධ්‍යන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා පවසයි.
+The IMF plans to introduce a real estate levy in the country in 2025, as announced by Prof. Wasantha Athukorala from the Department of Economics and Statistics. To expedite this, the government aims to impose a charged revenue income tax by April next year, addressing unforeseen circumstances.
 
-කෙසේවෙතත් ලබන වසරේ අප්‍රේල් මාසය වනවිට එම බද්ධ ක්‍රියාත්මක කිරීමට නම් මේ වනවිට සැලසුම් සකස් කළ යුතුව තිබුණ ද එය කර ගැනීමට නොහැකි තත්ත්වයක් හේතුවෙන් ආරෝපිත කුලී ආදායම් බද්ද පැනවීමට රජය කටයුතු කරමින් සිටින බව වසන්ත අතුකෝරළ මහතා පැවසීය.
+🟩
 
-දේපොළ බද්දක් රට තුළ ක්‍රියාත්මක වන්නේ නම් අයුතු ආකාරයේ මුදල් ඉපැයීම් සමබන්ධයෙන් වාර්තා වන බව මහාචාර්ය වසන්ත අතුකෝරළ මහතා වැඩිදුරටත් සඳහන් කළේය.
+The International Monetary Fund proposes to implement a real estate levy in the country in 2025, says Professor Wasantha Athukorala at the Department of Economics and Statistics.
+
+However, to implement the grafter by April next year, the government is planning to impose an charged revenue income tax due to a situation that cannot be done.
+
+Prof. Wasantha Athukorale added that if a real estate levy is running in the country, he added.
 
 ◼️
 
 [Data](articles/a011d579.json)
 
+[Extended Data](ext_articles/a011d579.ext.json)
+
 ---
 
-### கரப்பந்தாட்டத்தில் காடையர் குழு அட்டகாசம்
+### Katyar group at the garland
 
 *2024-06-16 10:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரப்பந்தாட்டத்தில்-காடையர்-குழு-அட்டகாசம்/175-338961) · `ta`
 
-கொடிகாமம் பொலிஸ் பிரிவுக்குட்பட்ட மீசாலை, தெருவாரத்தில் உள்ள விளையாட்டுக் கழத்தின் மைதானத்தில்  சனிக்கிழமை(15)  மாலை 5 மணியளவில் இவ் வாள்வெட்டுச் சம்பவம் பதிவாகியுள்ளது.
+A violent incident occurred at a sports club in Meesalai, where a 12-year-old boy was attacked by a group wielding swords and poles during a tournament. Four suspects, aged 17 to 18, were apprehended by locals and handed over to the Kodikamam police, who also recovered weapons used in the attack. The victims, including Sivakumar Rahulan, were treated at the Chavakachcheri Resource Hospital. Investigations are ongoing, with legal proceedings initiated in the Chavakachcheri court.
 
-இதன் போது சிவகுமார் ராகுலன் 25 வயதான இளைஞன் படுகாயங்களுக்கு உள்ளான நிலையில் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-சம்பவம் பற்றி மேலும் தெரிய வருவதாவது:- மீசாலை, தெருவாரத்தில் உள்ள கரப்பந்து விளையாட்டுக் கழகமொன்று, கரப்பந்து சுற்றுப் போட்டி நடாத்தி வருகிறது. இச் சுற்றுப் போட்டியின் இறுதிச் சுற்று சனிக்கிழமை(15)  மாலை 5 மணியளவில் இவ் வாள்வெட்டுச் சம்பவம் பதிவாகியுள்ளது 7:30 மணிக்கு ஆரம்பமாக இருந்தது.
+The sword was reported at 5 pm on Saturday (15) at the Ground of the Sports Club in Meesalai and Street.
 
-இந்நிலையில் மாலை 5 மணியளவில் 12 பேர் கொண்ட காடையர் கூட்டமொன்று மது போதையில் வாள் மற்றும் பொல்லுகளுடன் உட்புகுந்து அங்கு நின்றிருந்தவர்கள் மீதும் வீதியால் பயணித்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளனர்.
+Sivakumar Rahulan has been admitted to Chavakachcheri Resource Hospital after being injured.
 
-இதனை அவதானித்த ஊரவர்கள் மற்றும் விளையாட்டுக் கழக வீரர்கள் தாக்குதல் நடாத்திய காடையர் கூட்டத்தை சுற்றிவளைத்து, காடையர்களை நையப்புடைத்து நால்வரை மடக்கிப் பிடித்து கட்டி வைத்தனர்.
+The incident is also known:. The final round of the tournament was reported at 5 pm on Saturday (15) at 5 pm.
+
+At about 5 pm, a 12 -year -old quadruple crowd was attacked by those who were standing there with swords and poles.
+
+The townspeople and sports club soldiers surrounded the attacker and folded the queen and folded up to four.
+
+Others have escaped. Even after chasing them, the crowds escaped.
+
+Kodikamam police have arrested four quarters after the Kodikamam police were informed of the four men who had been caught by the townspeople.
+
+Kodikamam police said that the sword and a knife used for the attack were also recovered.
 
 ...
 
 [Data](articles/b6c2ed4a.json)
 
+[Extended Data](ext_articles/b6c2ed4a.ext.json)
+
 ---
 
-### ஆயர் இல்லத்தில் ஜனாதிபதியுடன் சந்திப்பு
+### Meeting with president at pastoral residence
 
 *2024-06-16 10:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயர்-இல்லத்தில்-ஜனாதிபதியுடன்-சந்திப்பு/175-338960) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க, மன்னார் மறை மாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கலாநிதி மேதகு இமானுவேல் பெர்னாண்டோ ஆகியோருக்கு இடையிலான சந்திப்பொன்று சற்று முன்னர் மன்னார் ஆயர் இல்லத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe met with Mannar Diocese Bishop, Dr. Emanuel Fernando, at the Mannar Bishop's residence.
+
+🟩
+
+A meeting between President Ranil Wickremesinghe and Mannar Hide District Bishop, Dr. Emanuel Fernando was held at the Mannar Bishop.
 
 ◼️
 
 [Data](articles/0d0fe6f3.json)
 
+[Extended Data](ext_articles/0d0fe6f3.ext.json)
+
 ---
 
-### එදා රනිල් වික්‍රමසිංහ මහතා සමග මතවාදී ගැටුම් තිබුණා
+### There were ideological conflicts with Ranil Wickremesinghe at that time
 
 *2024-06-16 10:32:03* · [`adalk`](https://www.ada.lk/breaking_news/එදා-රනිල්-වික්‍රමසිංහ-මහතා-සමග-මතවාදී-ගැටුම්-තිබුණා/11-410226) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මතය කඳවුරු දෙකක උවත්, ආර්ථික අර්බුදය අවසන් කර, රටේ  ආර්ථිකය ශක්තිමත්ව  යළි ගොඩ නැඟීමේ ගෞරව‍ය රනිල් වික්‍රමසිංහ මහතාට හිමිවන බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+Pavithra Wanniarachchi, Sri Lanka's Minister of Irrigation, Wildlife, and Forests, highlighted ideological differences with Ranil Wickremesinghe during a speech. She emphasized her commitment to rebuilding the economy and transforming the country into a fertile land. The minister spoke at a ceremony for rehabilitating an alternative road near Moraketiya, addressing the economic crisis and questioning political groups' memory of past wars. She attributed the current challenges partly to the pandemic and the loss of foreign exchange from fuel and drug imports.
 
-රනිල් වික්‍රමසිංහ මහතා සමඟ දේශපාලණික වශයෙන් මතවාදීව ගැටලු පැවති බවත්, එහෙත් වර්තමානයේ රටේ ආර්ථිකය නැවත ප්‍රකෘතිමත්  කිරීම සඳහා  ජාත්‍යන්තර වශයෙන්, විදේශ සංවිධාන සමඟ සම්බන්ධතා පවත්වමින් විශිෂ්ට නායකයෙකු ලෙස රට ගොඩ නැඟීමට ඔහු  දියත් කර තිබෙන වැඩපිළිවෙලට සහාය ලබාදී තිබෙන බව ද  වන්නිආරච්චි මහත්මිය කියා සිටියි.
+🟩
 
-රට ධාර්මික , සශ්‍රීක දේශයක් බවට පත්කිරීමේ වගකීම සියළු දෙනා ට පැවරී  ඇති බවත් අවධාරණය කරන පවිත්‍රා වන්නිආරච්චි මහත්මිය,  ඒ සඳහා  කුමන දේශපාලන කඳවුරක සිටියත් රට වෙනුවෙන්  එක මතයක සිට  වැඩ කළයුතු බව ද  සඳහන්  කරයි.
+Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi says that Ranil Wildlife and Forest Minister Pavithra Wanniarachchi says that Ranil Wildlife and Forestry Minister Pavithra Wanniarachchi said that he will be restored to rebuild the economic crisis in the Sri Lanka Ranil Wickremesinghe.
+
+He said that he has been launched to build the country as an excellent leader internationally, internationally, as an international leader in Sri Lanka, is a great leader in Sri Lanka, with Ranil Wickremesinghe.
+
+It is said that Mrs. Pavithra Wanniarachchi emphasizes that the country has been entrusted with the responsibility of making the country into a fertile land.
+
+The Minister was speaking at the ceremony of rehabilitation of alternative road near the Moraletiya Party to the Moraketiya Division.
+
+Speaking further Mr. Pavithra Wanniarachchi said that the economic crisis was created.
 
 ...
 
 [Data](articles/6021b48e.json)
+
+[Extended Data](ext_articles/6021b48e.ext.json)
 
 ---
 
@@ -142,15 +178,21 @@ The deceased has not been a permanent residence and is a person who lives in lea
 
 ---
 
-### மேற்குலகின் போர்ப்பணம் வெளிநாடுகளில் முதலீடு? : சைப்ரஸில் உக்ரேன் ஜெலன்ஸ்கியின் சூதாட்ட விடுதியா?
+### Investment in the West's warfare abroad?.
 
 *2024-06-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186174) · `ta`
 
-உக்ரேனிய ஜனாதிபதி விலோடிமிர் ஜெலன்ஸ்கிக்கு சொந்தமான பிலிம் ஹெரிடேஜ் இன்க் சைப்ரஸின் துருக்கிய ஆளும் பகுதியில் உள்ள வுனி பேலஸ் ஹோட்டல் மற்றும் காசினோவை வாங்கியதாக வேறுபல துருக்கிய ஊடகங்களும் தெரிவித்துள்ளன.
+Turkish media reports that the Vuni Palace Hotel and Cassino have been purchased by Film Heritage Inc Cyprus, a company linked to Ukrainian President Volodymyr Zelenskyy, in the Turkish-controlled area of Northern Cyprus.
+
+🟩
+
+Different Turkish media has reported that the Vuni Palace Hotel and Cassino have been bought in the Turkish ruling area of ​​Film Heritage Inc Cyprus, owned by Ukrainian President Vildimir Jelanx.
 
 ◼️
 
 [Data](articles/96b08c4e.json)
+
+[Extended Data](ext_articles/96b08c4e.ext.json)
 
 ---
 
@@ -180,21 +222,29 @@ The railway line between the Anuradhapura and Mihintale and the opening of the r
 
 ---
 
-### இலங்கையின் பொருளாதாரம் மீட்சிக்கான அறிகுறிகளைக் காண்பிக்கிறது - உலக வங்கி
+### Sri Lanka's economy shows signs of recovery - World Bank
 
 *2024-06-16 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186173) · `ta`
 
-இலங்கை இந்த ஆண்டு முன்வைத்த 2.2 சதவீத மிதமான பொருளாதார விரிவாக்கமானது மீட்சிக்கான அறிகுறிகளை காண்பித்துள்ளதாக உலக வங்கி தெரிவித்துள்ளது.
+Sri Lanka's economy is showing signs of recovery with a projected 2.2% growth in 2023, expected to reach 3% by 2026, driven by tourism revival and remittances. The World Bank highlights the importance of successful credit restructuring and structural reforms for sustained growth. Despite risks, the country is poised for economic advancement through enhanced exports and controlled inflation, improving the overall economic outlook.
 
-'உலகளாவிய பொருளாதார வாய்ப்புகள்’ என்ற தலைப்பில் உலக வங்கி வெளியிட்டுள்ள அறிக்கையிலேயே மேற்கண்டவாறு தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இலங்கையின் பொருளாதார வளர்ச்சியானது ஜனவரியில் இருந்து அவதானத்துக்கு உட்படுத்தப்பட்டது. ஜனவரி 2.2 சதவீதம் என்ற மிதமான பொருளாதார விரிவாக்கமானது 0.5 சதவீதம் அதிகரித்து, நேர்மறையான மாற்றத்தை வெளிப்படுத்தியுள்ளது. சுற்றுலா மற்றும் பணம் அனுப்புவதில் படிப்படியாக மீண்டு வருவதே இந்த முன்னேற்றத்துக்கு காரணமாக அமைந்துள்ளது. இந்த நிலைமையானது எதிர்வரும் ஆண்டுகளில் இலங்கை பொருளாதார ரீதியான தனது வளர்ச்சியை முன்னறிவிப்பதாக உள்ளது.
+The World Bank said the 2.2 percent mild economic expansion proposed by Sri Lanka this year showed signs of recovery.
 
-குறிப்பாக இலங்கை எதிர்வரும் 2026ஆம் ஆண்டளவில் 3 சதவீதமான பொருளாதார வளர்ச்சியைத் தொடும் என்று கணிப்பிடப்பட்டுள்ளது. எவ்வாறாயினும், இந்த நம்பிக்கையான கண்ணோட்டம் வெற்றிகரமான கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகள் மற்றும் கட்டமைப்பு சீர்திருத்தங்களை செயற்படுத்துவதைச் சார்ந்துள்ளது.
+The World Bank has issued a statement titled 'Global Economic Opportunities'.
+
+The economic growth of Sri Lanka has been observed since January. Moderate economic expansion of January 2.2 percent increased by 0.5 percent and revealed a positive change. This progress is due to the gradual recovery of tourism and money sending. This situation is predicting its economic growth in the coming years.
+
+It is predicted that Sri Lanka will touch 3 percent of the economic growth by 2026. However, this confident view of the successful credit restructuring depends on the negotiations and the implementation of structural reforms.
+
+Sri Lanka does not have setback conditions in achieving targets when committed efforts to offset the potential negative impact of the planned financial coordination efforts. The report identifies Sri Lanka as a risk to Sri Lanka than in the United States.
 
 ...
 
 [Data](articles/dc5fd0da.json)
+
+[Extended Data](ext_articles/dc5fd0da.ext.json)
 
 ---
 
@@ -236,21 +286,31 @@ Speaking to the media, Angelo Mathews said they were saddened by the delay in th
 
 ---
 
-### ரணில் - சஜித் இணைப்பு முயற்சி முழுமையாக முறிவடைந்தது : சிறுபான்மையினக் கட்சியின் தலைவர் தகவல்
+### Ranil - Sajith Link Attempts completely broken: Minority Party leader information
 
 *2024-06-16 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186170) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவையும், சஜித் பிரேமதாசவையும் இணைப்பதற்கு முன்னெடுக்கப்பட்ட முயற்சிகள் முழுமையாக முறிவடைந்துள்ளதாக சிறுபான்மையினக் கட்சியின் தலைவர் ஒருவர் தெரிவித்துள்ளார்.
+Negotiations between Sri Lanka's President Ranil Wickremesinghe and Sajith Premadasa for a political merger have failed due to lack of compromise. The minority party leader involved criticized both leaders' inability to make concessions, leading to the abandonment of the talks. Sajith Premadasa also expressed skepticism over Ranil Wickremesinghe's ability to reconcile with politically contrasting figures, highlighting challenges in forming alliances.
 
-குறித்த இணைப்பு முயற்சியில் முன்னெடுக்கப்பட்ட பேச்சுவார்த்தையில் சஜித் பிரேமதாச தரப்பில் பங்கேற்றிருந்த அவர் தன்னை முழுமையாக அடையாளப்படுத்துவதற்கு விரும்பாத நிலையில் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சியின் தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவையும் ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவையும் இணைத்து ஒரே அணியாக்குவதற்காக இருதரப்பிலும் உள்ள முக்கிய உறுப்பினர்களைக் கொண்ட குழுவினருக்கு இடையில் முன்னெடுக்கப்பட்டன.
+A minority party leader has said that the efforts of President Ranil Wickremesinghe and Sajith Premadasa have been completely broken.
 
-அதேபோன்று குறித்த பேச்சுவார்த்தையின்போது இருதரப்பிலும் மேற்கொள்ளப்பட வேண்டிய விட்டுக்கொடுப்புக்கள் மற்றும் எதிர்காலத் திட்டங்கள் சம்பந்தமாக உரையாடப்பட்டது.
+He was participating in the negotiations on the merger effort and said he did not want to completely identify himself.
+
+UNP leader Ranil Wickremesinghe and United People's Power Leader Sajith Premadasa were carried out among the main members of the two sides.
+
+Similarly, during the negotiations, the two sides were addressed on the concessions and future plans to be carried out.
+
+However, the leadership representing the two sides had to face the crisis in continuing talks as they were not prepared for compromises. This has resulted in a continuing effort to achieve compliance, causing the leadership of the leaders to continue the issue.. This has resulted in complexity of such talks.
+
+Therefore, it is useless to continue the negotiations. So that effort is now abandoned. ”
 
 ...
 
 [Data](articles/eb171460.json)
+
+[Extended Data](ext_articles/eb171460.ext.json)
 
 ---
 
@@ -306,19 +366,25 @@ The Navy Commander was speaking at the Galle Harbor at the Galle Harbor to monit
 
 ---
 
-### பிரதான வேட்பாளர்களுடன் தனித்தனியே பேச்சுவார்த்தை : சம்பந்தன் அறிவிப்பு
+### Talking separately with main candidates: Sambandan announcement
 
 *2024-06-16 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186169) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களுடன் தனித்தனியே பேச்சுவார்த்தையில் ஈடுபடவுள்ளதாக இலங்கை தமிழ் அரசுக் கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் வீரகேசரிக்கு வழங்கிய பிரத்தியேக செவ்வியில் தெரிவித்துள்ளார்.
+R. Sampanthan, a senior leader from the Sri Lanka Tamil State Party, plans to meet major presidential election contenders individually. He urges Ranil, Sajith, and Anura to clarify their stance on Tamil issues, emphasizing the need for transparency to guide future support decisions.
 
-அத்துடன், ரணில், சஜித், அநுர ஆகிய மூவரும் ஜனாதிபதி தேர்தலில் போட்டியிடப்போகின்றார்கள் என்றால் அவர்கள் தமிழ் மக்களின் பிரச்சினைகளுக்கான தீர்வாக எவ்விதமான விடயங்களையும் கருமங்களையும் முன்வைக்கப்போகின்றார்கள் என்பதை தமது விஞ்ஞாபனங்களில் வெளிப்படுத்த வேண்டும்.
+🟩
 
-அதன் பின்னர் எமது மக்களின் நிலைப்பாடுகளை புரிந்து நாம் யாரை ஆதரிப்பது என்பது குறித்து முடிவெடுப்போம் என்றும் அவர் குறிப்பிட்டார்.
+Senior leader of the Sri Lanka Tamil State Party and Trincomalee district parliamentarian R. Sampanthan Weerakesari said in a special speech that he would negotiate separately with the major candidates contesting the presidential election.
+
+Also, if Ranil, Sajith and Anura are going to contest the presidential election, they should reveal that they are going to present any issues and fondness to the solution to the problems of the Tamil people.
+
+Then we will understand the positions of our people and decide on whom we will support.
 
 ◼️
 
 [Data](articles/4dd48dee.json)
+
+[Extended Data](ext_articles/4dd48dee.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 13:04:32**
+As of **2024-06-16 13:19:01**
 
 ## Newspaper Stats
 
-*Scraped **30,594** Articles*
+*Scraped **30,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,670
 economynextcom | 1,778
 dailyftlk | 1,863
-adalk | 2,636
+adalk | 2,637
 adaderanalk | 3,467
 tamilmirrorlk | 3,581
 virakesarilk | 4,691
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,590 (100.0%) of 30,594 articles have been extended.
+30,594 (100.0%) of 30,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### මන්නාරමේදී උරුමය ඉඩම් ඔප්පු බෙදා දෙයි
+### Inheritance in the inheritance of land in Mannar
 
 *2024-06-16 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197810) · `si`
 
-"උරුමය " වැඩසටහන යටතේ මන්නාරම දිස්ත්‍රික්කයට ඉඩම් ඔප්පු 5,000ක් ලබාදීමට නියමිත අතර මේ වනවිට ඉඩම් ඔප්පු 442ක් ලබාදී අවසන් බව ජානාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+Under the Heritage program, 5,000 land deeds, including 442, will be distributed in Mannar district. This initiative was chaired by President Ranil Wickremesinghe, aiming to support land ownership in the region.
 
-"උරුමය " සින්නක්කර ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ මන්නාරම දිස්ත්‍රික් ජනතාවට සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය කිරීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මන්නාරම නගර ශාලා ශ්‍රවණාගාරයේ අද (16)  සිදු කෙරුණි.
+🟩
+
+Under the "Heritage" program, 5,000 land deeds to the Mannar district will be provided with 442 land deeds.
+
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe today (16) under the National Program of the Mannar District under the National Program for providing Rs.
 
 ◼️
 
 [Data](articles/3a5e3ae9.json)
+
+[Extended Data](ext_articles/3a5e3ae9.ext.json)
 
 ---
 
@@ -60,6 +66,8 @@ Wickremesinghe, since then, had to implement a raft of hard economic reforms com
 
 [Data](articles/296b16c8.json)
 
+[Extended Data](ext_articles/296b16c8.ext.json)
+
 ---
 
 ### Govt to introduce imputed rental income tax due to failure to implement property tax?
@@ -75,6 +83,26 @@ It was announced that Sri Lanka will likely introduce an imputed rental income t
 ...
 
 [Data](articles/b38709c4.json)
+
+[Extended Data](ext_articles/b38709c4.ext.json)
+
+---
+
+### බෙන්තොට පොලීසියේ සොරකමට පැමිණිල්ලක් අම්බලන්ගොඩ පොලිස් අධිකාරී කාර්‍යාලයට
+
+*2024-06-16 12:28:22* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-පොලීසියේ-සොරකමට-පැමිණිල්ලක්-අම්බලන්ගොඩ-පොලිස්-අධිකාරී-කාර්‍යාලයට/11-410236) · `si`
+
+නඩු භාණ්ඩයක් ලෙස බෙන්තොට පොලීසියේ තිබූ වල්ලාපට්ට ගහක කොටසක් අතුරුදන්ව ඇති බවට පැමිණිල්ලක් ලැබුණු බව අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී කාර්‍යාලය කියයි.
+
+මේ වල්ලාපට්ට ගස සම්බන්ධයෙන් බලපිටිය අධිකරණයේ දමා ඇති නඩුවේ පාර්ශකරුවකු වන ආර්.වී.පී.දිනූෂා නමැත්තිය විසින් මෙසේ සිය කාර්‍යාලයට මේ සම්බන්ධයෙන් පැමිණිළි කළ බව ද එම කාර්‍යාලය කියයි.
+
+කපා දමා තිබූ අඩි හතරහමාරක වට ප්‍රමාණයක් සහිත අඩි පහළවක් පමණ දිග මේ වල්ලාපට්ටා ගස එහි නියම අයිතිකරු අධිකරණයෙන් නියෝගයක් ලැබෙන තුරු බෙන්තොට පොලීසියේ තිබුණු බවත් දැනට සතියක පමණ කාලයක සිට එම ගසේ කොටසක් අතුරුදහන්වී ඇතැයි කියමින් පැමිණිළිකාරිය සහකාර පොලිස් අධිකාරීකාර්‍යාලයට පැමිණිළි කොට තිබේ.
+
+2023 වසරේ පෙබරවාරි මස 2 වැනිදා පැමිණිළිකාරිය වන තමා සිය ඉඩමේ තිබෙන මේ වල්ලාපට්ට ගස කපා දැමූ බවත් සිය ඉඩමට යාබදව පිහිටා ඇති විහාරස්ථානයේ හිමිනමක් සිය විහාරස්ථානයට මේ වල්ලාපට්ට ගස අයිති බව පවසමින් බෙන්තොට පොලීසියට පැමිණිලි කොට තිබෙන බවත් ඇය සිය පැමිණිල්ලේ සදහන් කොට තිබේ.
+
+...
+
+[Data](articles/8b34f833.json)
 
 ---
 
@@ -113,6 +141,8 @@ Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for sm
 ◼️
 
 [Data](articles/043fb2d4.json)
+
+[Extended Data](ext_articles/043fb2d4.ext.json)
 
 ---
 
@@ -2311,33 +2341,5 @@ To address the challenges faced by Sri Lanka Cricket and provide appropriate rec
 [Data](articles/8a11610f.json)
 
 [Extended Data](ext_articles/8a11610f.ext.json)
-
----
-
-### South Africa survives the thread
-
-*2024-06-15 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197779) · `si`
-
-In the Twenty20 World Cup, South Africa clinched victory against Nepal, scoring 115/7 in 20 overs while Nepal fell short with 114/10, securing South Africa's spot in the Super Pitch round.
-
-🟩
-
-The sight of the Twenty20 World Cup ended this morning.
-
-South Africa was able to win the match between Nepal and South Africa.
-
-South Africa scored 115 runs for the loss of 7 wickets in their 20 overs.
-
-The demons took three wickets for 21 runs.
-
-Chasing a target of 116, the Nepalese team scored only 114 runs off the 20 overs.
-
-Accordingly, South Africa qualified for the Super Pite round of all four matches.
-
-◼️
-
-[Data](articles/bf03daec.json)
-
-[Extended Data](ext_articles/bf03daec.ext.json)
 
 ---

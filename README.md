@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 12:19:24**
+As of **2024-06-16 12:34:44**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 4,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,578 (100.0%) of 30,587 articles have been extended.
+30,587 (100.0%) of 30,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### සංගීතයකදී  බිරිඳ සමග නර්ථනයේ යෙදුනැයි තරුණයෙකුගේ ගෙලකපා ඝාතනය කරලා
+### A young man's murdered was murdered to be danced with his wife in music
 
 *2024-06-16 11:50:42* · [`adalk`](https://www.ada.lk/breaking_news/සංගීතයකදී--බිරිඳ-සමග-නර්ථනයේ-යෙදුනැයි-තරුණයෙකුගේ-ගෙලකපා-ඝාතනය-කරලා/11-410232) · `si`
 
-සංගීත ප්‍රසංගයකදී තරුණයෙකුගේ ගෙලකපා  ඝාතනය කර ඇති බව කළුතර දකුණ පොලිසිය පවසයි . මෙසේ ඝාතනයට ලක්ව ඇත්තේ දොඩංගොඩ , ජන උදාන ගම්මානයේ පදිංචිව සිටී මෙනුර නිම්තර වනිගසේකර නමැති 20 හැවිරිදි තරුණයකු බව පොලිසිය කීය.
+In Kalutara, a 20-year-old man was killed during a concert. The suspect, recently jilted by his girlfriend, allegedly attacked the victim, a garment factory worker, with a sharp weapon. The victim was rushed to Nagoda Hospital but succumbed to his injuries. The police, led by Inspector Gayan Krishantha, are investigating the case and have recovered the murder weapon.
 
-සැකකරු ප්‍රදේශයේ තරුණියක සමග විවාහ වී සිට ඇති අතර, ඇය දින කිහිපයකට පෙර ඔහු අතහැර ගොස් වෙනම ජීවත්ව සිට ඇති බවද සදහන් වේ.  එම තරුණිය කළුතර ගමගොඩ ප්‍රදේශයේ පැවති සංගීත ප්‍රසංගයක් නැරඹීමට පැමිණ, ඇය සේවය කරන ඇඟලුම් කර්මාන්තශාලාවේ තරුණයෙකු සමග නර්තනයේදී සිට ඇති බවද පොලිසිය සදහන් කරයි.
+🟩
 
-එහිදී උරන වූ සැකකරු නර්තනයේ යෙදී සිට ඇති තරුණයාගේ ගෙල තියුණු ආයුධයකින් කපා ඇති බවද සදහන් වේ.
+Kalutara South Police say that a youth has been murdered in a concert. The victim was a resident of Dodangoda, Dodangoda, 20-year-old youth.
 
-ගෙලට බරපතළ තුවාල ලබා සිටි තරුණයා කළුතර නාගොඩ ශීක්ෂණ රෝහලට රැගෙන ගොස් ඇති අතර,  එහිදී මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සදහන් කරයි.
+The suspect has been married to a young woman area and that she left him a few days ago and had been alive.The girl arrives in a concert held in the Gamagoda area in Kalutara and she has been at dance with a young man who works in the garment factory.
 
-කළුතර කොට්ඨාශ අපරාධ ස්ථාන පරීක්ෂණාගර නිළධාරින්ද පරීක්ෂණ සිදුකරන ලදී . ඝාතනය සිදුකල සැකකරු අත්අඩංගුවට ගෙන ඒ සදහා යොදාගත් බව කියන තියුණු ආයුධයක්ද සොයාගත් බව පොලිසිය සදහන් කරයි.
+It is also mentioned that the youth from the danced suspect has been cut by a sharp weapon.
+
+Hospital sources said that the youth was taken to the Nagoda Hospital in Kalutara.
+
+Kalutara Division Criminal Places Officers were conducted. Police also recovered a sharp weapon that was arrested and used for this purpose.
+
+The Criminal Division of OIC, Inspector Gayan Krishantha, is under the patronage of the Criminal Division OIC Inspector Gayan Krishantha.
+
+The victim was a resident of Dodangoda, Dodangoda, 20-year-old youth.
 
 ...
 
 [Data](articles/ee06d629.json)
 
+[Extended Data](ext_articles/ee06d629.ext.json)
+
 ---
 
-### ரஜினியை சந்தித்தார் செந்தில் தொண்டமான்
+### Senthil Thondaman met Rajini
 
 *2024-06-16 11:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஜினியை-சந்தித்தார்-செந்தில்-தொண்டமான்/175-338964) · `ta`
 
-இந்தியாவிற்கு விஜயம் மேற்கொண்ட கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் விஜயவாடாவில் சூப்பர் ஸ்டார் ரஜினிகாந்தை சந்தித்தார்.
+Senthil Thondaman, Eastern Province Governor, met Rajinikanth in Vijayawada. Rajinikanth presented a commemorative item marking the 200th anniversary of the estate community in Sri Lanka during their meeting.
 
-அந்த சந்திப்பின் போது, இலங்கையில் உள்ள தோட்ட சமூகத்தின் 200வது ஆண்டுக்கான நினைவு முத்திரையை சூப்பர் ஸ்டார் ரஜினிகாந்துக்கு  வழங்கி வைத்தார்.
+🟩
+
+Eastern Province Governor Senthil Thondaman met superstar Rajinikanth at Vijayawada.
+
+During the meeting, superstar Rajinikanth presented the 200th anniversary of the estate community in Sri Lanka.
 
 ◼️
 
 [Data](articles/c600dbda.json)
+
+[Extended Data](ext_articles/c600dbda.ext.json)
 
 ---
 
@@ -142,45 +158,59 @@ The presidential and possible parliamentary elections are expected to take place
 
 [Data](articles/a647e227.json)
 
+[Extended Data](ext_articles/a647e227.ext.json)
+
 ---
 
-### மனைவியுடன் நடனமாடிய இளைஞன் படுகொலை
+### Massacre of young man danced with wife
 
 *2024-06-16 11:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியுடன்-நடனமாடிய-இளைஞன்-படுகொலை/175-338962) · `ta`
 
-இசை நிகழ்ச்சியின் போது இளைஞர் ஒருவர் கழுத்தை நெரித்து கொலை செய்யப்பட்டுள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்துள்ளனர்.
+A young businessman, Menura Nimdara, was strangled to death at a concert in Kalutara. The suspect, who recently divorced his wife, allegedly attacked him with a sharp weapon while he was dancing.
 
-தொடங்கொட, ஜன் உதான கிராமத்தைச் சேர்ந்த 20 வயதுடைய மெனுர நிம்தர வணிகசேகர என்ற இளைஞரே இவ்வாறு கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சந்தேக நபர் உள்ளூர் பெண்ணை திருமணம் செய்து கொண்டதாகவும், அவர் சில நாட்களுக்கு முன்பு அவரை விட்டு பிரிந்து தனியாக வசித்து வந்ததாகவும் கூறப்படுகிறது.
+Kalutara Southern Police said that a young man was strangled to death during the concert.
 
-களுத்துறை, கமகொட பிரதேசத்தில் இடம்பெற்ற இசை நிகழ்ச்சியை பார்வையிட வந்த குறித்த யுவதி, தான் பணிபுரிந்த ஆடை தொழிற்சாலையில் இளைஞர் ஒருவருடன் நடனமாடியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The 20 -year -old Menura Nimdara Businessman from Jan Udana village in Dhakkoda has been killed.
 
-அங்கு உயிரிழந்த சந்தேக நபர் கூரிய ஆயுதத்தால் நடனமாடிக்கொண்டிருந்த இளைஞனின் கழுத்தை அறுத்து கொன்றுள்ளதாக  தெரிவிக்கப்படுகின்றது.
+The suspect is said to have married a local woman and she left him a few days ago and lived alone.
+
+Police said that the woman who came to visit the concert in Kamagoda, Kalutara, had danced with a youth at a garment factory where she worked.
+
+It is reported that the suspect who died there was chopping on the neck of a young man who was dancing with a sharp weapon.
 
 ◼️
 
 [Data](articles/7a1ccb6e.json)
 
+[Extended Data](ext_articles/7a1ccb6e.ext.json)
+
 ---
 
-### දෙවන පෙළ ජේලර්  අයිස් සමඟ අත්අඩංගුවට
+### Second Level Jalar ice
 
 *2024-06-16 11:18:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවන-පෙළ-ජේලර්--අයිස්-සමඟ-අත්අඩංගුවට/11-410228) · `si`
 
-අයිස් මත්ද්‍රව්‍ය සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් දෙවන පෙල ජේලර්වරයෙකු අත්අඩංගුවට ගත් බව මොරටුව මූලස්ථාන පොලිසිය කියයි.
+A 26-year-old suspect, assigned to a plantation prison, was arrested in Moratuwa with 90mm of ice narcotics. The arrest was made under the instruction of Prasanna Brahmange, with Chief Inspector Nihal Pansis leading the investigation. The suspect will be produced before the Moratiya Magistrate's Court of Ahangama.
 
-අත්අඩංගුවට ගත් සැකකරු අගුණු කොළ පැලැස්ස බන්ධනාගාරයට අනුයුක්ත සේවය කරන්නෙකි.
+🟩
 
-සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව මොරටු වැල්ල මාදම්ගහවත්ත  නිවසක දී  අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 90 ක් සමඟ සැකකරු අත්අඩංගුවට ගෙන ඇත.
+The second Jirror was arrested in the Moratuwa Headquarters police said.
 
-අහංගම තිත්ත ගල්ල ගල ගාව හන්දියේ පදිංචි 26 හැවිරිදි  සැකකරු මොරටුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The suspect was assigned to the fierce leaves of the plant plantation prison.
 
-ගල්කිස්ස කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරියේ ප්‍රසන්න බ්‍රාහ්මණ මහතාගේ උපදෙස් මත  මොරටුව මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක නිහාල්  පැන්සිස් මහතා  පරීක්ෂණ පවත්වයි.
+The suspect was arrested in Moratuwa, Moratuwa, Moratuwa, was arrested with 90 mm of ice narcotics.
+
+The 26-year-old suspect is to be produced before the Moratiya Magistrate's Court of Ahangama.
+
+Moratuwa Headquarters Chief Inspector Nihal Pansis conducts investigations on the instructions of Prasanna Brahmange in charge of Mount Lavinia Divisional Secretary.
 
 ◼️
 
 [Data](articles/18d4f44a.json)
+
+[Extended Data](ext_articles/18d4f44a.ext.json)
 
 ---
 
@@ -226,21 +256,27 @@ Prof. Wasantha Athukorale added that if a real estate levy is running in the cou
 
 ---
 
-### සුනඛයා කඳුකර කොටියාගේ ගොදුරක් වෙයිද?
+### Would the dog become a victim of the mountain tiger?
 
 *2024-06-16 10:58:29* · [`adalk`](https://www.ada.lk/breaking_news/සුනඛයා-කඳුකර-කොටියාගේ-ගොදුරක්-වෙයිද-/11-410227) · `si`
 
-කඳුකර කොටියෙකු නිවසේ ඇති කරන ලද සුනඛයෙකු ගොදුරු කර ගැනීම සඳහා කොත්මලේ, නව තිස්පනේ, දොඹගස්තලාව ගම්මානයේ නිවසට පැමිණෙන අයුරු එම නිවසේ සවි කොට තිබු ආරක්ෂිත කැමරාවක සටහන්ව ඇති බවත්, මේ හේතුවෙන් තමන්  බියට පත්ව ඇතැයි එම ගම්මානයේ වැසියෝ පවසති.
+Villagers in Kotmale and surrounding areas are terrified due to frequent encounters with a mountain tiger, which has affected their daily lives and forced them indoors. The predator has been spotted near residential areas, particularly around the New Thirty Tipost region, causing significant fear among the community.
 
-නව තිස්පනේ, දොඹගස්තලාව ගම්මානය ඇතුළු ඒ ආශ්‍රිත ගම්මානවල සැරිසරණ කඳුකර කොටියන් නිසා සිය දෛනික කටයුතු සිදු කරගෙන යාමේදී ගම්වැසියන් බියට පත්ව ඇතැයිද  ඔවුහු කියති.
+🟩
 
-දොඹගස්තලාව ගම්මානය අවට පිහිටි රක්ෂිත කැළෑවන් තුළ වෙසෙන කඳුකර කොටියන් මෙසේ රාත්‍රී කාලයට ගම්මානයට පැමිණ සිය නිවාසවල සුරතලයට ඇති කරනු ලබන සුනඛයන් ගොදුරු කර ගැනීමට පුරුදුව ඇති බවත්, මේ හේතුවෙන් රාත්‍රී කාලයට නිවාසවලින් බැහැරව  යාම තම ජීවිතවලට පවා තර්ජනයක් එල්ල වී  ඇතැයි ගම්වැසියෝ සඳහන් කරති.
+As a result, the villagers say that they have frightened to the house in Kotmale, Kotmale, New Thirty Tipost, to prey to prey on a mountain dog.
 
-නව තිස්පනේ, දොඹගස්තලාව ගම්මානයේ පදිංචි සරත් මහතාගේ නිවසේ සවි කොට ඇති ආරක්ෂක කැමරා පද්ධතියේ මෙසේ කඳුකර කොටියෙකු නිවසේ ඇති කරන සුනඛයා ගොදුරු කර ගැනීමට පැමිණෙන අයුරු සටහන්ව තිබේ.
+They say the villagers have frightened their daily activities in the villages, including the New Thirty Thirty Thirapanene village.
+
+The villagers say that the mountains in the forest of the forest reserves have come to the night in the night of the forest of the forest reserves.
+
+The new Thirty-Thirty Thirty Thirty Thirty Thirty's residential camera's residential camera, the security camera tiger is a mountainooooooooooo.
 
 ◼️
 
 [Data](articles/61048091.json)
+
+[Extended Data](ext_articles/61048091.ext.json)
 
 ---
 
@@ -294,15 +330,21 @@ A meeting between President Ranil Wickremesinghe and Mannar Hide District Bishop
 
 ---
 
-### மன்னார் ஆயரை சந்தித்தார் ஜனாதிபதி
+### President meets Mannar
 
 *2024-06-16 10:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-ஆயரை-சந்தித்தார்-ஜனாதிபதி/175-338960) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க, மன்னார் மறை மாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கலாநிதி மேதகு இமானுவேல் பெர்னாண்டோ ஆகியோருக்கு இடையிலான சந்திப்பொன்று சற்று முன்னர் மன்னார் ஆயர் இல்லத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe met with Mannar District Bishop Emanuel Fernando at the Mannar Bishop's office, discussing undisclosed matters.
+
+🟩
+
+A meeting between President Ranil Wickremesinghe and Mannar District Bishop of the Mannar District Emanuel Fernando was held at the Mannar Bishop.
 
 ◼️
 
 [Data](articles/bed6134f.json)
+
+[Extended Data](ext_articles/bed6134f.ext.json)
 
 ---
 
@@ -659,6 +701,8 @@ Under the terms of the default or ‘debt suspension’, state agencies like the
 ...
 
 [Data](articles/803a4453.json)
+
+[Extended Data](ext_articles/803a4453.ext.json)
 
 ---
 
@@ -1019,6 +1063,8 @@ According to the latest IMF report car import controls may have led to revenue l
 ...
 
 [Data](articles/80922474.json)
+
+[Extended Data](ext_articles/80922474.ext.json)
 
 ---
 

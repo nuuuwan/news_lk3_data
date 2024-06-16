@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 14:34:50**
+As of **2024-06-16 14:53:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,607 (100.0%) of 30,608 articles have been extended.
+30,608 (100.0%) of 30,608 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -444,21 +444,31 @@ The train tracks were devoted to the Kandyan railway track by the Kandyan railwa
 
 ---
 
-### පොසොන් උත්සවයට අපුර යන්න අයට අපුර දිසාපතිගෙන් දැනුම් දීමක්
+### Angert from angel from the President of the Poson Festival
 
 *2024-06-16 11:40:07* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-අපුර-යන්න-අයට-අපුර-දිසාපතිගෙන්-දැනුම්-දීමක්/11-410230) · `si`
 
-මෙවර පොසොන් සතිය මෙම මස 18 වැනිදා දින සිට 24 දින දක්වා පැවැත්වෙන බවත් ඒ සඳහා බැති සිතින් අනුරාධපුරයට පැමිණෙන ලෙස සියලු බැතිමතුන්ගෙන් ඉල්ලා සිටින බව අනුරාධ දිස්ත්‍රික් ලේකම් හා පොසොන් කමිටුවේ සභාපති ජනක ජයසුන්දර මහතා පවසයි.
+The Poson Festival in Anuradha will take place from July 18th to 24th. It includes special religious programs, a unique Pirith ceremony, and enhanced transportation services. However, visitors are advised to follow safety protocols to preserve the sacred city's heritage.
 
-දිසාපතිවරයා මේ බව කියා සිටියේ ඊයේ (15දා) අනුරාධපුර  දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවති මාධ්‍ය හමුවකදීය. එහිදී වැඩි දුරටත් අදහස් දැක්වූ දිසාපතිවරයා මෙසේ පැවසීය.
+🟩
 
-"මෙම පොසොන් සතිය අනුරාධපුර නගරයේ ප්‍රධාන ජලාශ වලින් එකතු කර ගන්නා පැන් ජය ශ්‍රී  මහා බෝධීන් වහන්සේ අභියස වූ විශේෂ පාත්‍රයක තැන්පත් කිරීමෙන් අනතුරුව, සති පිරිත් දේශනාවෙන් ආරම්භ වනවා.
+Anuradha District Secretary and the Chairman of the Poson Committee Janaka Jayasundara said that the Generator of the Poson will be held from the 18th to 24th of this month.
 
-අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නායක හිමියන්ගේ ප්‍රධාන අනුශාසකත්වයෙන් අටමස්ථාන විහාරස්ථානවල විශේෂ ආගමික වැඩ සටහන් සංවිධානය කර තිබෙනවා. අටමස්ථානය, ඓතිහාසික මිහින්තලාව සහ තන්තිරිමලය පුදබිම් කේන්ද්‍ර කර ගනිමින් පොසොන් සතිය ක්‍රියාත්මක වෙනවා.
+The Government Agent said at a press conference held at the District Secretariat yesterday (15). He further said:
 
-...
+"This Poson week is deposited in a special bowl that is collected from the main reservoirs, the weekly Pirith.
+
+The Atamasthana has organized special religious programs at the Atamasthana Viharaya of Hemapura Chandua. The Poson Week operates at the Atamasthana, Historical Mihintawa and Tantirimale.
+
+According to the train, the railway line from Mahawa to Anuradhapura, the railway line has been implemented to Anuradhapura, a special bus service at the Poson week to Anuradhapura.
+
+In order to follow the sacred city of Anuradhapura sacred, and the city is not observing the advice given by the police when they followed the advice given by the police. "
+
+◼️
 
 [Data](articles/7eed55d7.json)
+
+[Extended Data](ext_articles/7eed55d7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 11:54:14**
+As of **2024-06-16 12:06:56**
 
 ## Newspaper Stats
 
-*Scraped **30,577** Articles*
+*Scraped **30,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,464
 tamilmirrorlk | 3,578
 virakesarilk | 4,691
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,950
+adaderanasinhalalk | 4,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,577 (100.0%) of 30,577 articles have been extended.
+30,577 (100.0%) of 30,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### සංගීත ප්‍රසංගයක් මැද තරුණයෙකුගේ ගෙල කපයි
+
+*2024-06-16 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197809) · `si`
+
+සංගීත ප්‍රසංගයකදී දෙපාර්ශ්වයක් අතර ඇතිවූ කතාබහක් දුරදිග යාමෙන් ගෙල කපා තරුණයෙකු ඝාතනය කර තිබේ.
+
+එලෙස ඝාතනය කර ඇත්තේ දොඩංගොඩ ජනඋදාන ගම්මානයේ පදිංචිව සිටි මෙනුර නිම්තර වනිගසේකර නමැති 20 හැවිරිදි තරුණයෙකි.
+
+සැකකරු ප්‍රදේශයේ තරුණියක සමග විවාහ වී සිට ඇති අතර, ඇය ඔහුව අත්හැර ගොස් වෙනම ජීවත්ව සිට ඇති බව වාර්තා වෙයි.
+
+ඇය කළුතර ගමගොඩ ප්‍රදේශයේ කුමුදු ක්‍රීඩාංගණයේ පැවැති සංගීත ප්‍රසංගයක් නැරඹීමට පැමිණ තිබුණි.
+
+එහිදී ඇය සේවය කරන ඇඟලුම් කර්මාන්තශාලාවේ තරුණයෙකු සමග නර්තනයේ යෙදී සිට ඇති බවද පොලීසිය සඳහන් කරයි.
+
+එම අවස්ථාවේදී උරන වූ සැකකරු නර්තනයේදී යෙදී සිට ඇති තරුණයාගේ ගෙල තියුණු ආයුධයකින් කපා ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/448c32a1.json)
+
+---
 
 ### HOW NOT TO RUN AN ELECTION (1956)
 
@@ -2345,27 +2367,5 @@ Police Media Spokesperson Deputy Inspector General Inspector General of Police (
 [Data](articles/97d65f05.json)
 
 [Extended Data](ext_articles/97d65f05.ext.json)
-
----
-
-### Notification of a strike
-
-*2024-06-15 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197774) · `si`
-
-The Station Masters Association's strike has been temporarily halted until Tuesday due to positive discussions with the train's general superintendent and unresolved issues with the Cabinet and Ministry. The President hopes for a comprehensive solution soon.
-
-🟩
-
-The planned strike to commence the Station Masters Association has been temporarily suspended.
-
-The President of the Association Sumedha Somaratne said that it is temporarily suspended until the Tuesday (18).
-
-"In the discussion with the general superintendent of the train, we received positive answers to some part of our requests. However, it was a contradiction with the relevant authorities, as the Cabinet paper and the Ministry sent by the Ministry's letter from the Ministry and the letter from the Ministry who was admitted to the Department and the letter sent by the Department.. One fix is ​​Tuesday at the point of the Public Service Commission, given the promise of the approval and made the promise of. These are the problems that caused stock parts without solving the problems of the entire train service.. We hope we give an answer. "
-
-◼️
-
-[Data](articles/215c7419.json)
-
-[Extended Data](ext_articles/215c7419.ext.json)
 
 ---

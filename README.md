@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 17:34:53**
+As of **2024-06-16 17:55:09**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,625 (100.0%) of 30,626 articles have been extended.
+30,626 (100.0%) of 30,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### පොලිස් වෙස්ගෙන සිදුකළ කොල්ලය
+### Police disguise loot
 
 *2024-06-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197821) · `si`
 
-පොලිස් නිලධාරීන් බවට පවසා මුදල් හා දේපොළ කොල්ලකෑ සැකකරුවෙකු මරදාන පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Maradana Police arrested a suspect after a robbery incident where two individuals were robbed of their mobile phone and wallet while riding a motorbike. The suspect was later found with drugs and was questioned about the robbery. The police also clarified that civilians can verify identities without needing to dress as officers.
 
-මරදාන පොලිස් වසමේ කැටවලමුල්ල හන්දිය ආසන්නයේදී ඉකුත් 14 වනදා මධ්‍යම රාත්‍රියේදී යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු ඔවුන් පොලිස් නිලධාරීන් බව පවසා මාර්ගයේ ගමන් කරමින් සිටි පුද්ගලයෙකු පරීක්ෂා කර ඔහු සතු රුපියල් ලක්ෂ 02කට ආසන්න වටිනා ජංගම දුරකථනයක් සහ මුදල් පසුම්බිය කොල්ලකා තිබුණි.
+🟩
 
-ඒවා අවශ්‍ය නම් රුපියල් 35,000ක මුදලක් රැගෙන මරදාන පොලීසියට පැමිණෙන ලෙස පවසා සැකකරුවන් පළාගිය බවද පැමිණිලිකරු පවසයි.
+The Maradana Police have arrested a suspect who had said the police and property.
 
-පසුව ඊයේ (15) දින මරදාන පොලීසිය විසින් මරදාන ෆොන්සේකා මාවත ප්‍රදේශයේදී මත්ද්‍රව්‍ය සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
+On the 14th of the month of Maradana Police Division, two persons who were traveling in a motorbike were traveling in a motorbike on the 14th night and had a mobile phone and the wallet of the purses.
 
-ඔහු පැමිණි යතුරුපැදිය ඉහත කොල්ලයට අදාළ යතුරුපැදිය බවට හෙළිවීමෙන් අනතුරුව ඒ පිළිබඳව දිගින් දිගටම පොලීසිය ප්‍රශ්න කර තිබුණි.
+The complainant said the suspects had fled the Maradana police who were taken to the Maradana Police, who had to come to the Maradana Police.
 
-ඒ අනුව සැකකරු කොල්ලකන ලද ජංගම දුරකථනය සැකකරුගේ නිවසේ තිබී සොයාගැනීමට පොලීසියට හැකිවිය.
+The Maradana police had arrested a suspect with the drug in the Fonseka Mawatha in Maradana yesterday (15).
 
-...
+After he had revealed the motorcycle he came to the robbery, the police had continuously questioned.
+
+Accordingly, the police were able to find the mobile phone to the suspect's house.
+
+Police say that the public has the right to verify the identity of individuals or property testing as police officers in civilian clothes, police officers.
+
+◼️
 
 [Data](articles/db6482ed.json)
+
+[Extended Data](ext_articles/db6482ed.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 11:05:20**
+As of **2024-06-16 11:19:33**
 
 ## Newspaper Stats
 
-*Scraped **30,568** Articles*
+*Scraped **30,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,142 @@ newsfirstlk | 363
 islandlk | 1,669
 economynextcom | 1,774
 dailyftlk | 1,863
-adalk | 2,631
-adaderanalk | 3,463
-tamilmirrorlk | 3,576
-virakesarilk | 4,687
+adalk | 2,632
+adaderanalk | 3,464
+tamilmirrorlk | 3,578
+virakesarilk | 4,691
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,949
+adaderanasinhalalk | 4,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,567 (100.0%) of 30,568 articles have been extended.
+30,568 (100.0%) of 30,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### ප්‍රදේශ දෙකකින් හමුවූ මළසිරුරු
+### Mathews apologises for Sri Lanka’s poor performance at T20 World Cup
+
+*2024-06-16 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99902/mathews-apologises-for-sri-lankas-poor-performance-at-t20-world-cup) · `en`
+
+Veteran Sri Lankan cricketer Angelo Mathews has apologized for the squad’s poor performance at the 2024 ICC Men’s T20 World Cup, acknowledging the team’s regret for disappointing the hopes of both the nation and the team.
+
+Speaking to the media, Mathews laid blame on the batters that let the team down in both of their matches of the tournament.
+
+The Sri Lankan all-rounder further said: “We are very sorry that our hopes as a team and the hopes of the country were dashed. We are very sorry. We apologize. We could not achieve what we set out to accomplish as a team.”
+
+“In both matches we played, it was our batsmen who failed. The bowlers and fielders performed very well and, despite the low scores, they put up a strong fight in both games. But unfortunately, we could not secure a win", he expressed.
+
+...
+
+[Data](articles/d2bf2fa7.json)
+
+---
+
+### දේපොළ බද්ද වෙනුවටයි කුලී ආදායම් බද්ද ගෙනාවේ -  මහාචාර්ය වසන්ත අතුකෝරළ
+
+*2024-06-16 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197808) · `si`
+
+2025 වර්ෂය වනවිට දේපොළ බද්දක් රට තුළ ක්‍රියාත්මක කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් යෝජනා කරන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන විද්‍යා අධ්‍යන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා පවසයි.
+
+කෙසේවෙතත් ලබන වසරේ අප්‍රේල් මාසය වනවිට එම බද්ධ ක්‍රියාත්මක කිරීමට නම් මේ වනවිට සැලසුම් සකස් කළ යුතුව තිබුණ ද එය කර ගැනීමට නොහැකි තත්ත්වයක් හේතුවෙන් ආරෝපිත කුලී ආදායම් බද්ද පැනවීමට රජය කටයුතු කරමින් සිටින බව වසන්ත අතුකෝරළ මහතා පැවසීය.
+
+දේපොළ බද්දක් රට තුළ ක්‍රියාත්මක වන්නේ නම් අයුතු ආකාරයේ මුදල් ඉපැයීම් සමබන්ධයෙන් වාර්තා වන බව මහාචාර්ය වසන්ත අතුකෝරළ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a011d579.json)
+
+---
+
+### கரப்பந்தாட்டத்தில் காடையர் குழு அட்டகாசம்
+
+*2024-06-16 10:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரப்பந்தாட்டத்தில்-காடையர்-குழு-அட்டகாசம்/175-338961) · `ta`
+
+கொடிகாமம் பொலிஸ் பிரிவுக்குட்பட்ட மீசாலை, தெருவாரத்தில் உள்ள விளையாட்டுக் கழத்தின் மைதானத்தில்  சனிக்கிழமை(15)  மாலை 5 மணியளவில் இவ் வாள்வெட்டுச் சம்பவம் பதிவாகியுள்ளது.
+
+இதன் போது சிவகுமார் ராகுலன் 25 வயதான இளைஞன் படுகாயங்களுக்கு உள்ளான நிலையில் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+சம்பவம் பற்றி மேலும் தெரிய வருவதாவது:- மீசாலை, தெருவாரத்தில் உள்ள கரப்பந்து விளையாட்டுக் கழகமொன்று, கரப்பந்து சுற்றுப் போட்டி நடாத்தி வருகிறது. இச் சுற்றுப் போட்டியின் இறுதிச் சுற்று சனிக்கிழமை(15)  மாலை 5 மணியளவில் இவ் வாள்வெட்டுச் சம்பவம் பதிவாகியுள்ளது 7:30 மணிக்கு ஆரம்பமாக இருந்தது.
+
+இந்நிலையில் மாலை 5 மணியளவில் 12 பேர் கொண்ட காடையர் கூட்டமொன்று மது போதையில் வாள் மற்றும் பொல்லுகளுடன் உட்புகுந்து அங்கு நின்றிருந்தவர்கள் மீதும் வீதியால் பயணித்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளனர்.
+
+இதனை அவதானித்த ஊரவர்கள் மற்றும் விளையாட்டுக் கழக வீரர்கள் தாக்குதல் நடாத்திய காடையர் கூட்டத்தை சுற்றிவளைத்து, காடையர்களை நையப்புடைத்து நால்வரை மடக்கிப் பிடித்து கட்டி வைத்தனர்.
+
+...
+
+[Data](articles/b6c2ed4a.json)
+
+---
+
+### ஆயர் இல்லத்தில் ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-06-16 10:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயர்-இல்லத்தில்-ஜனாதிபதியுடன்-சந்திப்பு/175-338960) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க, மன்னார் மறை மாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கலாநிதி மேதகு இமானுவேல் பெர்னாண்டோ ஆகியோருக்கு இடையிலான சந்திப்பொன்று சற்று முன்னர் மன்னார் ஆயர் இல்லத்தில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/0d0fe6f3.json)
+
+---
+
+### එදා රනිල් වික්‍රමසිංහ මහතා සමග මතවාදී ගැටුම් තිබුණා
+
+*2024-06-16 10:32:03* · [`adalk`](https://www.ada.lk/breaking_news/එදා-රනිල්-වික්‍රමසිංහ-මහතා-සමග-මතවාදී-ගැටුම්-තිබුණා/11-410226) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මතය කඳවුරු දෙකක උවත්, ආර්ථික අර්බුදය අවසන් කර, රටේ  ආර්ථිකය ශක්තිමත්ව  යළි ගොඩ නැඟීමේ ගෞරව‍ය රනිල් වික්‍රමසිංහ මහතාට හිමිවන බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+
+රනිල් වික්‍රමසිංහ මහතා සමඟ දේශපාලණික වශයෙන් මතවාදීව ගැටලු පැවති බවත්, එහෙත් වර්තමානයේ රටේ ආර්ථිකය නැවත ප්‍රකෘතිමත්  කිරීම සඳහා  ජාත්‍යන්තර වශයෙන්, විදේශ සංවිධාන සමඟ සම්බන්ධතා පවත්වමින් විශිෂ්ට නායකයෙකු ලෙස රට ගොඩ නැඟීමට ඔහු  දියත් කර තිබෙන වැඩපිළිවෙලට සහාය ලබාදී තිබෙන බව ද  වන්නිආරච්චි මහත්මිය කියා සිටියි.
+
+රට ධාර්මික , සශ්‍රීක දේශයක් බවට පත්කිරීමේ වගකීම සියළු දෙනා ට පැවරී  ඇති බවත් අවධාරණය කරන පවිත්‍රා වන්නිආරච්චි මහත්මිය,  ඒ සඳහා  කුමන දේශපාලන කඳවුරක සිටියත් රට වෙනුවෙන්  එක මතයක සිට  වැඩ කළයුතු බව ද  සඳහන්  කරයි.
+
+...
+
+[Data](articles/6021b48e.json)
+
+---
+
+### Bodies found in two areas
 
 *2024-06-16 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197807) · `si`
 
-ඊයේ (15) දහවල් කාලයේදී එම මළ සිරුර සොයාගත් බව පොලීසිය පවසයි.
+Yesterday, bodies were discovered in two locations: one near the Temple of Delwala, where a man was found dead under suspicious circumstances, and another found by the Delwala Police in the afternoon. The victim from Delwala, a 34-year-old Udadel resident, was not permanently residing there but lived on a lease.
 
-මෙම පුද්ලගයා මීට දින දෙකකට පෙර සිට අතුරුදන්ව සිට ඇති බවට පොලිස් විමර්ශනයේදී අනාවරණය වී තිබේ.
+🟩
 
-මේ අතර දෙල්වල පන්සල ආසන්නයේ ඇති ඇල්ලක සැකකටයුතු ලෙස මියගිය පිරිමි පුද්ගලයෙකුගේ සිරුරක් පොලීසිය විසින් සොයාගෙන ඇත.
+The body was found yesterday afternoon, police said.
 
-ඊයේ සවස් කාලයේදී එම මළ සිරුර සොයාගෙන තිබුණේ දෙල්වල පොලීසියට ලද තොරතුරකට අනුවය.
+Police investigations have revealed that the Pudinaya had gone missing in two days ago.
 
-එසේ මියගොස් ඇත්තේ, උඩදෙල්වල ප්‍රදේශයේ පදිංචිව සිටි 34 හැවිරිදි පුද්ගලයෙකි.
+Meanwhile, police found a body of a man who died of a suspicious centers near the Temple of Delwala.
 
-මරණකරුට ස්ථිර පදිංචියක් නොමැති අතර කුලීවැඩ කරමින් ජීවත් වන පුද්ගලයෙකු බවට විමර්ශනයේදී අනාවරණය වී තිබේ.
+In the evening last evening, the body was found according to information received by the Delwala Police.
+
+The deceased has been identified as a 34 year old resident of Udadel.
+
+The deceased has not been a permanent residence and is a person who lives in lease.
 
 ◼️
 
 [Data](articles/483042d8.json)
+
+[Extended Data](ext_articles/483042d8.ext.json)
+
+---
+
+### மேற்குலகின் போர்ப்பணம் வெளிநாடுகளில் முதலீடு? : சைப்ரஸில் உக்ரேன் ஜெலன்ஸ்கியின் சூதாட்ட விடுதியா?
+
+*2024-06-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186174) · `ta`
+
+உக்ரேனிய ஜனாதிபதி விலோடிமிர் ஜெலன்ஸ்கிக்கு சொந்தமான பிலிம் ஹெரிடேஜ் இன்க் சைப்ரஸின் துருக்கிய ஆளும் பகுதியில் உள்ள வுனி பேலஸ் ஹோட்டல் மற்றும் காசினோவை வாங்கியதாக வேறுபல துருக்கிய ஊடகங்களும் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/96b08c4e.json)
 
 ---
 
@@ -77,6 +177,24 @@ The railway line between the Anuradhapura and Mihintale and the opening of the r
 [Data](articles/144afff0.json)
 
 [Extended Data](ext_articles/144afff0.ext.json)
+
+---
+
+### இலங்கையின் பொருளாதாரம் மீட்சிக்கான அறிகுறிகளைக் காண்பிக்கிறது - உலக வங்கி
+
+*2024-06-16 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186173) · `ta`
+
+இலங்கை இந்த ஆண்டு முன்வைத்த 2.2 சதவீத மிதமான பொருளாதார விரிவாக்கமானது மீட்சிக்கான அறிகுறிகளை காண்பித்துள்ளதாக உலக வங்கி தெரிவித்துள்ளது.
+
+'உலகளாவிய பொருளாதார வாய்ப்புகள்’ என்ற தலைப்பில் உலக வங்கி வெளியிட்டுள்ள அறிக்கையிலேயே மேற்கண்டவாறு தெரிவிக்கப்பட்டுள்ளது.
+
+இலங்கையின் பொருளாதார வளர்ச்சியானது ஜனவரியில் இருந்து அவதானத்துக்கு உட்படுத்தப்பட்டது. ஜனவரி 2.2 சதவீதம் என்ற மிதமான பொருளாதார விரிவாக்கமானது 0.5 சதவீதம் அதிகரித்து, நேர்மறையான மாற்றத்தை வெளிப்படுத்தியுள்ளது. சுற்றுலா மற்றும் பணம் அனுப்புவதில் படிப்படியாக மீண்டு வருவதே இந்த முன்னேற்றத்துக்கு காரணமாக அமைந்துள்ளது. இந்த நிலைமையானது எதிர்வரும் ஆண்டுகளில் இலங்கை பொருளாதார ரீதியான தனது வளர்ச்சியை முன்னறிவிப்பதாக உள்ளது.
+
+குறிப்பாக இலங்கை எதிர்வரும் 2026ஆம் ஆண்டளவில் 3 சதவீதமான பொருளாதார வளர்ச்சியைத் தொடும் என்று கணிப்பிடப்பட்டுள்ளது. எவ்வாறாயினும், இந்த நம்பிக்கையான கண்ணோட்டம் வெற்றிகரமான கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகள் மற்றும் கட்டமைப்பு சீர்திருத்தங்களை செயற்படுத்துவதைச் சார்ந்துள்ளது.
+
+...
+
+[Data](articles/dc5fd0da.json)
 
 ---
 
@@ -115,6 +233,24 @@ Speaking to the media, Angelo Mathews said they were saddened by the delay in th
 [Data](articles/e7dc444f.json)
 
 [Extended Data](ext_articles/e7dc444f.ext.json)
+
+---
+
+### ரணில் - சஜித் இணைப்பு முயற்சி முழுமையாக முறிவடைந்தது : சிறுபான்மையினக் கட்சியின் தலைவர் தகவல்
+
+*2024-06-16 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186170) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவையும், சஜித் பிரேமதாசவையும் இணைப்பதற்கு முன்னெடுக்கப்பட்ட முயற்சிகள் முழுமையாக முறிவடைந்துள்ளதாக சிறுபான்மையினக் கட்சியின் தலைவர் ஒருவர் தெரிவித்துள்ளார்.
+
+குறித்த இணைப்பு முயற்சியில் முன்னெடுக்கப்பட்ட பேச்சுவார்த்தையில் சஜித் பிரேமதாச தரப்பில் பங்கேற்றிருந்த அவர் தன்னை முழுமையாக அடையாளப்படுத்துவதற்கு விரும்பாத நிலையில் மேற்கண்டவாறு தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவையும் ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவையும் இணைத்து ஒரே அணியாக்குவதற்காக இருதரப்பிலும் உள்ள முக்கிய உறுப்பினர்களைக் கொண்ட குழுவினருக்கு இடையில் முன்னெடுக்கப்பட்டன.
+
+அதேபோன்று குறித்த பேச்சுவார்த்தையின்போது இருதரப்பிலும் மேற்கொள்ளப்பட வேண்டிய விட்டுக்கொடுப்புக்கள் மற்றும் எதிர்காலத் திட்டங்கள் சம்பந்தமாக உரையாடப்பட்டது.
+
+...
+
+[Data](articles/eb171460.json)
 
 ---
 
@@ -167,6 +303,22 @@ The Navy Commander was speaking at the Galle Harbor at the Galle Harbor to monit
 [Data](articles/27a9102c.json)
 
 [Extended Data](ext_articles/27a9102c.ext.json)
+
+---
+
+### பிரதான வேட்பாளர்களுடன் தனித்தனியே பேச்சுவார்த்தை : சம்பந்தன் அறிவிப்பு
+
+*2024-06-16 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186169) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களுடன் தனித்தனியே பேச்சுவார்த்தையில் ஈடுபடவுள்ளதாக இலங்கை தமிழ் அரசுக் கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் வீரகேசரிக்கு வழங்கிய பிரத்தியேக செவ்வியில் தெரிவித்துள்ளார்.
+
+அத்துடன், ரணில், சஜித், அநுர ஆகிய மூவரும் ஜனாதிபதி தேர்தலில் போட்டியிடப்போகின்றார்கள் என்றால் அவர்கள் தமிழ் மக்களின் பிரச்சினைகளுக்கான தீர்வாக எவ்விதமான விடயங்களையும் கருமங்களையும் முன்வைக்கப்போகின்றார்கள் என்பதை தமது விஞ்ஞாபனங்களில் வெளிப்படுத்த வேண்டும்.
+
+அதன் பின்னர் எமது மக்களின் நிலைப்பாடுகளை புரிந்து நாம் யாரை ஆதரிப்பது என்பது குறித்து முடிவெடுப்போம் என்றும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/4dd48dee.json)
 
 ---
 
@@ -2157,171 +2309,5 @@ The President also stated that the best education system in South Asia will be c
 [Data](articles/53ae9263.json)
 
 [Extended Data](ext_articles/53ae9263.ext.json)
-
----
-
-### Sri Lanka GDP grows 5.3-pct in first quarter of 2024 amid monetary stability
-
-*2024-06-15 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-5-3-pct-in-first-quarter-of-2024-amid-monetary-stability-168121/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross domestic product grew 5.3 percent in the first quarter of 2024 data from the state statistics office showed as the central bank continued to refrain from generating monetary instability.
-
-Instead of printing money to cut rates under ‘flexible inflation targeting’ and printing money to boost growth by taking into account ‘potential output’ as permitted by its new monetary law, the central bank ran deflationary policy and also allowed the rupee to appreciate.
-
-“The Sri Lanka economy experienced a more favorable economic condition[s] in the first quarter 2024, when compared to the first quarter in the year 2023,” the Department of Census and Statistics said.
-
-“The high inflation had prevailed in the first quarter of year 2023, gradually reduced to a lower level by the first quarter of 2024 and this low inflation incentivized the economy by providing inputs at [a] much lower price.
-
-...
-
-[Data](articles/3bf191c4.json)
-
-[Extended Data](ext_articles/3bf191c4.ext.json)
-
----
-
-### Weather - Introduction to Fisheries and Marine Community
-
-*2024-06-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197772) · `si`
-
-The Met Department warns of strong winds (40-50 km/h) in Western, Sabaragamuwa, Northwestern, Central Hills, Trincomalee, Hambantota, and Moneragala districts. Showers expected in sea areas from Puttalam to Matara. Winds around the island may reach 60 km/h at times. Sea areas near Kankasanthurai to Mannar and Hambantota to Pottuvil could be rough. Fisheries and marine communities advised to stay alert.
-
-🟩
-
-The Met Department has announced several times in the Western, Sabaragamuwa and Northwestern provinces and in the Western, Sabaragamuwa and North Western Provinces.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
-
-Meanwhile, there will be showers in a few places in the sea areas off the coast extending from Puttalam to Matara through Matara.
-
-Winds are blown in the sea areas around the island and windster areas from Kankasanthurai to Mannar and from Hambantota to Pottuvil.. Is about (35-45).
-
-Winds of winds are at times.. It has been informed that it is up to 60.
-
-Winds from Batticaloa to Trincomalee via Kankasanthurai and from Puttalam to Hambantota via Hambantota via Hambantota.. Is about (25-35).
-
-Winds of winds are at times.. May increase to 50.
-
-The sea areas off the Kankesanthurai to Mannar and the coast extending from the coast to Pottuvil can be rough.
-
-...
-
-[Data](articles/2ec26987.json)
-
-[Extended Data](ext_articles/2ec26987.ext.json)
-
----
-
-### HOW NOT TO RUN AN ELECTION (1956)
-
-*2024-06-15 04:16:00* · [`islandlk`](http://island.lk/how-not-to-run-an-election-1956/) · `en`
-
-As a Returning Officer, I played only second fiddle to the Government Agent, who was actually in charge of the Parliamentary Elections at the district level. However I was given definite duties: first, for staffing the polling booths with government staff officers; second, for supervising the actual process of elections in the polling booths; and third, for counting the ballots once the voting was done.
-
-My first job was difficult because many Sinhalese officers in those days were reluctant to come so far to a Tamil-speaking district. This was long before the Tigers became the major political or military force in those districts. I was able to overcome this difficulty because some of my Sinhalese friends shared my interest in jungles and lagoons, and they were eager to come as polling officers to the Eastern Province. I had to officially get them to staff the polling booths; but unofficially, I had also to look after them and provide social activities for them.
-
-...
-
-[Data](articles/2b692f8a.json)
-
-[Extended Data](ext_articles/2b692f8a.ext.json)
-
----
-
-### Ye Olde Resthouses
-
-*2024-06-15 04:16:00* · [`islandlk`](http://island.lk/ye-olde-resthouses/) · `en`
-
-A couple of Sundays ago, Gamini Peiris of Moratuwa wrote a letter to the editor of the Sunday Island, about resthouses and noted: “I write this brief note hoping for a response from some readers.” Dr. R P Fernando from Epsom, UK, responded with his opinion titled Long ago British residents of Colombo also loved resthouses and went on to quote lawyer Brook Eliot in his book Real Ceylon. Having been to many of the old, real resthouses with siblings and in-laws given to traveling around, and a husband who was forever planning holidays, I decided to take up the invitation to reminisce.
-
-...
-
-[Data](articles/b49a841a.json)
-
-[Extended Data](ext_articles/b49a841a.ext.json)
-
----
-
-### British Merchants and Planters
-
-*2024-06-15 04:03:00* · [`islandlk`](http://island.lk/british-merchants-and-planters/) · `en`
-
-If it is now the end of the road for the agency houses (this article was first published March 1976), the event marks an important landmark in the Island’s history. It is a traumatic experience for those closely concerned, like the coffee crash in the middle of the last century when local banks were compelled to close down.
-
-Agency houses may be irrelevant in the present context and unless they have read the signs of the times ahead and sought other avenues, they too will be forced to put up their shutters. It is now fashionable to regard them as the principle instrument of exploitation adopted by the foreign capitalist. Their contribution to the development of the country is too easily forgotten. As Shakespeare’s Mark Antony said, “the evil that men do lives after them, the good is oft interred with their bones.”
-
-...
-
-[Data](articles/46906a5a.json)
-
-[Extended Data](ext_articles/46906a5a.ext.json)
-
----
-
-### CSE’s implementation of shortened settlement cycle for equity trades proves successful
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/cses-implementation-of-shortened-settlement-cycle-for-equity-trades-proves-successful/) · `en`
-
-The Colombo Stock Exchange’s (CSE) implementation of the shortened settlement cycle for equity trades has been executed seamlessly with the first settlement under the T+ 2 cycle taking place on 12th June 2024, marking a significant milestone in Sri Lankan Capital Market operations. Investors have experienced swift payment processing, receiving their funds within two days for the first time since the cycle reduction.
-
-Following collaborative efforts with the Securities and Exchange Commission of Sri Lanka (SEC) and industry stakeholders, the transition to a T+2 settlement cycle on June 10th, 2024, has yielded tangible results. Investors now benefit from expedited fund transfers and security exchanges, with transactions settling within a shorter timeframe.
-
-...
-
-[Data](articles/03fa8139.json)
-
-[Extended Data](ext_articles/03fa8139.ext.json)
-
----
-
-### Bank of Ceylon celebrates 43 years of banking excellence in the Maldives
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/bank-of-ceylon-celebrates-43-years-of-banking-excellence-in-the-maldives/) · `en`
-
-The Bank of Ceylon, one of the most esteemed financial institutions in the Maldives, commemorated its 43rd anniversary on May 28th 2024, marking over four decades of distinguished service and significant contributions to the economic development of the island nation.
-
-Established on May 7th 1981, and granted its banking license on January 26th 1982, the Bank of Ceylon has been a pillar of financial stability in the Maldives, earning a reputation for reliability, stability, and customer-centric service as one of the oldest and most respected banks operating in the country.
-
-...
-
-[Data](articles/0419dacb.json)
-
-[Extended Data](ext_articles/0419dacb.ext.json)
-
----
-
-### Sri Lanka’s largest advertising festival sees global creatives in Colombo
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/sri-lankas-largest-advertising-festival-sees-global-creatives-in-colombo/) · `en`
-
-Sri Lanka’s advertising industry experienced an unprecedented surge of inspiration as the Four A’s Advertising Festival took place on the 30th and 31st of May, welcoming over 650 participants. Hosted at the Taj Samudra, Colombo, the event featured 13 sessions & 5 workshops by global creative speakers, each bringing a wealth of expertise to the stage. Powered by Unilever Sri Lanka and globally connected by SriLankan Airlines, the event concluded with an Awards Night recognizing impactful work and a buzzing after-party.
-
-The festival provided a platform for groundbreaking ideas and set a new benchmark for creative training in Sri Lanka’s advertising industry. Creative and advertising leaders took the stage, offering insightful and introspective talks and thought-provoking panel discussions on bolstering creativity, the impact of tech, and more.
-
-Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalutara District
-
-...
-
-[Data](articles/3c5fff87.json)
-
-[Extended Data](ext_articles/3c5fff87.ext.json)
-
----
-
-### PRCA Country Rep calls for ethics and standards in Sri Lanka’s advertising and marketing industry
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/prca-country-rep-calls-for-ethics-and-standards-in-sri-lankas-advertising-and-marketing-industry/) · `en`
-
-Sri Lanka needs to put together a cohesive and comprehensive set of regulations and standards when it comes to advertising, marketing and communications and this should be done in consultation with various stakeholders in the industry, highlighted
-
-Thanzyl Thajudeen, the country representative of the Public Relations & Communications Association (PRCA), the world’s largest and influential PR body.
-
-Even though there exist certain codes, they are certainly not implemented in practice. And many of them stand in isolation such as those targeted at medicines, health and food sectors or other channels such as media, telco, or outdoor. The industry is lacking a unified framework, enabling opportunities for exploitation, many of which have contributed to social, economic and psychological dysfunctions.
-
-...
-
-[Data](articles/4ac93072.json)
-
-[Extended Data](ext_articles/4ac93072.ext.json)
 
 ---

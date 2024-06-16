@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 08:34:49**
+As of **2024-06-16 08:53:38**
 
 ## Newspaper Stats
 
-*Scraped **30,557** Articles*
+*Scraped **30,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,669
 economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
-adaderanalk | 3,461
+adaderanalk | 3,462
 tamilmirrorlk | 3,574
 virakesarilk | 4,687
 dailymirrorlk | 4,733
@@ -26,33 +26,55 @@ adaderanasinhalalk | 4,945
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,555 (100.0%) of 30,557 articles have been extended.
+30,557 (100.0%) of 30,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### දුම්රිය ධාවනයට බාධා
+### Several spells of showers expected in parts of the island
+
+*2024-06-16 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99900/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/8c708298.json)
+
+---
+
+### Train interrupts
 
 *2024-06-16 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197803) · `si`
 
-ප්‍රධාන මාර්ගයේ සහ උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+A train accident between Ganemulla and Bulugahagoda halted services from Colombo Fort to Trincomalee and other routes, causing delays. The Railway Department announced disruptions due to a demonstration and limited service changes, including bus exchanges.
 
-අද (16) උදෑසන කොළඹ කොටුව සිට ත්‍රිකුණාමලය දක්වා ධාවනය වන දුම්රියේ ප්‍රධාන නියාමක මහතා දුම්රියෙන් ඉවතට විසිවී සිදුවූ අනතුරක් හේතුවෙන් එම දුම්රිය මේ වනවිට ගම්පහ දුම්රිය ස්ථානයේ නවත්වා ඇති බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+🟩
 
-ඒ හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනය ප්‍රමාද වන බව සඳහන්ය.
+The train on the main road and the upcountry road has been disrupted.
 
-ගනේමුල්ල - බුලුගහගොඩ යන දුම්රිය ස්ථාන අතර දී එම අනතුර සිදුව ඇති අතර අනතුරින් තුවාල ලැබූ දුම්රිය නියාමකවරයා රෝහල් ගතකර ඇති බව වාර්තා වෙයි.
+The train, which was traveling from Colombo Fort to Trincomalee this morning, the train was stopped due to the train.
 
-මේ අතර තලවකැලේ සහ වටගොඩ දුම්රිය ස්ථාන අතර දුම්රියක් පීලී පැනීම හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+As a result, trains on the main road will be delayed.
 
-කොළඹ කොටුවේ සිට නානුඔය දක්වා ධාවනය වූ දුම්රිය ඊයේ (15) රාත්‍රී එලෙස පිලී පැනීමට ලක්ව ඇති බව සඳහන්ය.
+The accident had occurred between Ganemulla and Bulugahagoda railway stations and the injured railway stations have been admitted to hospital.
 
-ඒ අනුව කොළඹ කොටුව සිට - බදුල්ල බලා ධාවනය වන දුම්රිය හැටන් දුම්රිය ස්ථානය දක්වා සීමාකර ඇති අතර බදුල්ල සිට කොටුව බලා ධාවනය වන දුම්රිය නානුඔය දුම්රිය ස්ථානය දක්වා සීමා කර තිබේ.
+Meanwhile, the Railway Department says that due to the demonstration of train between Talawakele and Watagoda railway stations, the Railway Department said.
 
-...
+The train traveling from Colombo Fort to Nanu Oya has been fired yesterday (15).
+
+The train traveling from Colombo Fort to Badulla is restricted to Hatton Station and the train from Badulla to Fort has been restricted to the Nanu Oya Railway Station.
+
+The train department stated that the buses will be exchanged between the buses.
+
+◼️
 
 [Data](articles/c99a0c09.json)
+
+[Extended Data](ext_articles/c99a0c09.ext.json)
 
 ---
 
@@ -262,19 +284,25 @@ He also said that he had been subjected to an intensive hearing on April 11 for 
 
 ### 2024-06-15 (Saturday)
 
-### இளநீர் ஏற்றுமதி வீழ்ச்சி
+### Juvenile export drop
 
 *2024-06-15 23:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீர்-ஏற்றுமதி-வீழ்ச்சி/175-338955) · `ta`
 
-வெண்ணிற ஈ தாக்கத்தினால் இளநீர் செய்கைக்கு பாதிப்பு ஏற்பட்டுள்ளதாக தெங்கு அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+The Coconut Development Authority noted a decline in juvenile coconut exports due to white E. disease, highlighted during a meeting led by Agriculture Minister Mahinda Amaraweera. The issue of white E. infection was discussed, affecting coconut production.
 
-விவசாய அமைச்சர் மஹிந்த அமரவீரவின் தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போது இந்த விடயம் தொடர்பில் ஆராயப்பட்டுள்ளது.
+🟩
 
-வெண்ணிற ஈ நோய்த் தாக்கத்தினால் இளநீர் ஏற்றுமதியில் 30 வீதம்  வீழ்ச்சி ஏற்பட்டுள்ளதாக இதன்போது சுட்டிக்காட்டப்பட்டுள்ளது. (a)
+The Coconut Development Authority (CEB) has said that the impact of white E.
+
+The matter was discussed during a discussion chaired by Agriculture Minister Mahinda Amaraweera.
+
+It has been pointed out that the infection of the white E.. (A)
 
 ◼️
 
 [Data](articles/e4c0d91f.json)
+
+[Extended Data](ext_articles/e4c0d91f.ext.json)
 
 ---
 
@@ -2235,23 +2263,5 @@ This accolade underscores SDTI Campus’s exceptional contributions to entrepren
 [Data](articles/cdb2773b.json)
 
 [Extended Data](ext_articles/cdb2773b.ext.json)
-
----
-
-### People’s Bank selects winners for January to April in ‘People’s Remittance Vaasi Kotiyai 2024’ draw
-
-*2024-06-15 01:13:58* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-selects-winners-for-January-to-April-in-People-s-Remittance-Vaasi-Kotiyai-2024-draw/34-763120) · `en`
-
-People’s Bank’s ‘People’s Remittance Vaasi Kotiyai 2024’ draw to select the winners of Rs. 250,000 for the months of January, February, March, and April recently took place at the People’s Bank, Overseas Customer Services premises in Colombo 10.
-
-In addition, the weekly winners for the period from 1 January to 5 May were also drawn at the event, and will be gifted Rs. 100,000 each.
-
-People’s Bank Deputy General Manager – Banking Support Services Nipunika Wijayaratne, People’s Bank Deputy General Manager – Human Resources Manjula Dissanayake, People’s Bank Assistant General Manager – Commercial Credit Prasad Ariyawanse, People’s Bank Assistant General Manager – OCS Aruni Liyanagunawardena, People’s Bank Chief Manager – Audit S.M.D. Nandani, People’s Bank Senior Manager – OCS Thilini Perera, and Senior Tax Officer, Department of Revenue – Western Province S. Bulathsinghala participated in the event.
-
-...
-
-[Data](articles/7a0e200f.json)
-
-[Extended Data](ext_articles/7a0e200f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 10:34:52**
+As of **2024-06-16 10:53:21**
 
 ## Newspaper Stats
 
-*Scraped **30,563** Articles*
+*Scraped **30,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,669
 economynextcom | 1,774
 dailyftlk | 1,863
-adalk | 2,629
-adaderanalk | 3,462
-tamilmirrorlk | 3,575
+adalk | 2,631
+adaderanalk | 3,463
+tamilmirrorlk | 3,576
 virakesarilk | 4,687
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,948
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,563 (100.0%) of 30,563 articles have been extended.
+30,564 (100.0%) of 30,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### අපුර මිහින්තලය දුම්රිය මාර්ගය හෙට විවෘතයි
+
+*2024-06-16 10:19:59* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-මිහින්තලය-දුම්රිය-මාර්ගය-හෙට-විවෘතයි/11-410225) · `si`
+
+පොසොන් පොහොය නිමිති කරගෙන මිහින්තලය වෙත පැමිණෙන බැතිමතුන් වෙනුවෙන් ගාස්තු අය කිරීමකින් තොරව නොමිලේ  විශේෂ දුම්රිය සේවාවක් ආරම්භ කිරීමට කටයුතු කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+මේ වන විට උතුරු දුම්රිය මාර්ගයේ මහව – අනුරාධපුර ප්‍රදේශය අතර වැඩකටයුතු අවසන් වී නොමැති බැවින් මෙවර පොසොන් සමයට දුම්රිය සේවා යෙදවීමට නොහැකි වී ඇතිි බැවින්  ඒ  වෙනුවට විශේෂ බස්රථ පමණක් 400ක් අතිරේකව යෙදවීමට කටයුතු කරන බවයි.
+
+කෙසේවෙතත්, අනුරාධපුර සිට මිහින්තලය දක්වා නව කෙටි දුර දුම්රිය මාර්ගයක් ඉදිකර ඇති බවත්, මිහින්තලය වන්දනා කිරීමට පැමිණෙන බැතිමතුන්ට ගාස්තු අය කිරීමකින් තොරව විශේෂ දුම්රියක් ධාවනය කිරීමට කටයුතු යොදන ලෙස දුම්රිය දෙපාර්තමේන්තුවට උපදෙස් දී ඇති බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+තවද කොළඹ,  සිට මහව දක්වා දුම්රියෙන් පැමිණෙන මගින් හට මහව දුම්රිය ස්ථානයේ සිට  අනුරාධපුර දක්වා ද විශේෂ බස් සේවාවක් ක්‍රියාත්මක වන බවද උසස් නිලධාරියකු පැවසීය.
+
+...
+
+[Data](articles/144afff0.json)
+
+---
+
+### One person drowns in Paanama Beach
+
+*2024-06-16 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99901/-one-person-drowns-in-paanama-beach) · `en`
+
+Police stated that a person has drowned in while bathing in the sea area off Panama Beach yesterday (15).
+
+He had drowned while bathing in the sea while he was brought ashore by residents of the area and then rushed to the Paanama Hospital.
+
+However, he was pronounced dead on admission to the hospital.
+
+◼️
+
+[Data](articles/bd59f68f.json)
+
+---
 
 ### Sorry - Mathews
 
@@ -49,6 +83,34 @@ Speaking to the media, Angelo Mathews said they were saddened by the delay in th
 [Data](articles/e7dc444f.json)
 
 [Extended Data](ext_articles/e7dc444f.ext.json)
+
+---
+
+### Dikiri Menige, the bridge was blocked
+
+*2024-06-16 09:46:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டிக்கிரி-மெனிகே-பாலத்தில்-தடம்புரண்டது/76-338958) · `ta`
+
+A passenger train from Colombo to Nanuoya was halted when its engine and three carriages collided with a bridge near the 117th mile mark. The incident occurred on Saturday night, disrupting another train from Badulla to Colombo. Passengers were transported to Hatton and Nanuoya stations by SLTB buses. Railway staff began moving the damaged equipment off the tracks, with plans in place to accommodate affected passengers until repairs are complete.
+
+🟩
+
+The Nawalapitiya Railway Control Room said that the passenger train from Colombo Fort to Nanuoya was interrupted at the 117th mile river between the Talawakelle and Vadakoda stations.
+
+The engine of the running train and three Saturday (15) boxes crashed into the bridge near the 117th mile post at 9.30 pm.
+
+Dikiri Menige was interrupted on Saturday night (15) from Badulla to Colombo.
+
+Railway passengers were taken to Hatton and Nanuoya railway stations via buses belonging to the Sri Lanka Transport Board, the control room said.
+
+Employees of the Nawalapitiya and Badulla railway stations have already begun the work of loading the machine and three compartments on the railway track.
+
+The Railway Controller has announced that alternative arrangements have been made for the train passengers until the machine and three compartments are loaded on the rails.
+
+◼️
+
+[Data](articles/b26cfd05.json)
+
+[Extended Data](ext_articles/b26cfd05.ext.json)
 
 ---
 
@@ -463,6 +525,24 @@ Sri Lanka's Dilhani Legamke won the bronze medal in women's spear throwing compe
 [Data](articles/bcbf99b7.json)
 
 [Extended Data](ext_articles/bcbf99b7.ext.json)
+
+---
+
+### දුම්රිය පාපුවරුවේ ගමන් කළ යුක්රේන තරුණිය බිංගෙයක හැපෙයි
+
+*2024-06-15 22:20:49* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පාපුවරුවේ-ගමන්-කළ-යුක්රේන-තරුණිය-බිංගෙයක-හැපෙයි/11-410224) · `si`
+
+කොළඹ සිට බදුල්ල බලා අද 15  සවස ධවනය වෙමින් තිබූ උඩරට මැණිකේ දුම්රියේ පාපුවරුවේ ගමන් ගත් විසි තුන් හැවිරිදි යුක්රේන ජාතික තරුණියක් ඕහිය  පට්ටිපොළ අතර පිහිටි  බිංගෙයක හැපී දුම්රියෙන් බිම ඇද වැටී බරපතළ තුවාල ලබා  රෝහල් ගත කළ බව හපුතලේ පොලීසිය පවසයි.
+
+ඕහිය - පට්ටිපොළ දුම්රිය ස්ථාන  දෙක අතර දහනම වැනි බිංගෙයේ හැපීමෙන් පසු මෙම තරුණිය  බිම ඇද වැටී බරපතල තුවාල ලබා ඇතැයි ද ඇය එම දුම්රියෙන්ම හපුතලේ දුම්රිය ස්ථානය වෙත රැගෙන විත් ගිලන් රථයකින් දියතලාව මූලික රෝහලට  රැගෙන ගොස් ඇතුළත් කළ බවද පොලිසිය පැවසීය.
+
+මෙරට සංචාරයක පැමිණ  කොළඹ සිට පවුලේ ඥාතීන්  සමඟ ඇල්ල බලා ගමන්ගත්  විසිතුන් හැවිරිදි  යුක්රේන ජාතික තරුණියක් මෙසේ තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+මීට සති දෙකකට පමණ පෙරද  උඩරට දුම්රිය මාර්ගයේ දුම්රියේ පාපුවරුවේ ගමන් ගත් විදේශික   පුද්ගලයෙකුට   මේ ආසන්න බිංගෙයක් අසල මාරක   අනතුරක්  සිදුවූ බවද හපුතලේ පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/2df820a8.json)
 
 ---
 
@@ -2221,91 +2301,5 @@ This initiative, led by STEMUP Educational Foundation, powered by SLT-MOBITEL an
 [Data](articles/81966f61.json)
 
 [Extended Data](ext_articles/81966f61.ext.json)
-
----
-
-### Profit-taking leads to decline in equity index
-
-*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/profit-taking-leads-to-decline-in-equity-index/) · `en`
-
-Profit takings were noted at the CSE yesterday despite the IMF approval for the next tranche following news reports came out signaling the imposition of higher taxes.Due to that both indices moved downwards. All Share Price Index down by 36.75 points while.S and.P SL 20 by 18.67 points. Turnover stoodat Rs 1.2 billion with three crossings.
-
-Those crossings were reported in JKH, which crossed 1.2 million.shares to the tune of Rs252 million and its share traded at Rs 203, Hayleys Fabrics 525000 shares crossed to the tune of Rs 23.3 million and its share price trades at Rs44.50 and T J.Lanka 500,000 shares crossed to the tune of Rs 20 million and its share price traded at Rs 4
-
-In the retail market too seven contributors to the market were Hayleys, Dipped Products, Hayleys Fabrics,JKH, Lankem Developments and JAT Holdings. During the day37.4 million share volumes changed hands in 9700 transaction.
-
-...
-
-[Data](articles/a00c38b7.json)
-
-[Extended Data](ext_articles/a00c38b7.ext.json)
-
----
-
-### The best educational system in South Asia
-
-*2024-06-15 01:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசியாவின்-சிறந்த-கல்வி-முறை-உருவாக்கப்படும்/175-338931) · `ta`
-
-President Ranil Wickremesinghe visited the Buddhist Women's National School, where he was greeted by students and blessed at the Buddhist Vihara. He handed over a new building to the students and awarded GCE prizes to those who passed the Advanced Level Examination. The President emphasized the government's responsibility in national development and urged unity to achieve rapid progress.
-
-🟩
-
-President Ranil Wickremesinghe, who visited the Created Buddhist Women's National School yesterday afternoon, was welcomed by the students.
-
-The President, who had gone to the Buddhist Vihara, located on the school premises, had been blessed with blessings and handed over the new building to the students.
-
-GCE.. Prizes for college students who have passed the GCE Advanced Level Examination were awarded by the President and a souvenir to President Ranil Wickremesinghe.
-
-The President also stated that the construction of the building will be completed in two phases in accordance with the request of the students to complete the construction work of the building.
-
-President Ranil Wickremesinghe pointed out that the government is responsible for the development of the country and stressed that this is not the time of the abduction of slogans.
-
-...
-
-[Data](articles/87e3f8f9.json)
-
-[Extended Data](ext_articles/87e3f8f9.ext.json)
-
----
-
-### National responsibility to use IMF third tranche effectively – Karu
-
-*2024-06-15 01:18:56* · [`dailyftlk`](https://www.ft.lk/news/National-responsibility-to-use-IMF-third-tranche-effectively-Karu/56-763126) · `en`
-
-Former Speaker and the National Movement of Social Justice (NMSJ) Chairperson Karu Jayasuriya, yesterday emphasised the critical importance of effectively utilising the third tranche of the International Monetary Fund (IMF) bailout package.
-
-In a statement, Jayasuriya underscored that it is a national responsibility to ensure proper use of the funds. The IMF released the third tranche of $ 336 million from its $ 2.9 billion bailout package to Sri Lanka, while cautioning that the country’s economy remains vulnerable and that the path to debt sustainability is “knife-edged.”
-
-“Utilising the funds for the betterment of our country is a national responsibility. Given the sacrifices made by citizens during this challenging period, it is crucial to use every cent responsibly and effectively,” he said.
-
-Therefore Jyasuriya said that the authorities must firstly take steps to combat corruption and waste as stressed by the IMF on many occasions.
-
-...
-
-[Data](articles/10cc6b76.json)
-
-[Extended Data](ext_articles/10cc6b76.ext.json)
-
----
-
-### Govt. to repatriate ex-military personnel from Russia; facilitate stranded nationals in Myanmar: Foreign Minister
-
-*2024-06-15 01:17:57* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-repatriate-ex-military-personnel-from-Russia-facilitate-stranded-nationals-in-Myanmar-Foreign-Minister/56-763125) · `en`
-
-Says team of officials reviewing Cabinet paper regarding Sri Lanka’s potential membership in BRICS
-
-Reveals Indian Foreign Minister and Prime Minister are expected to visit SL by end of this month
-
-Says IMF second review is testament to efforts by SL on right economic path
-
-Asserts Japan indicated to resume suspended projects once repayments commence
-
-Foreign Affairs Minister Ali Sabry yesterday announced that a high-level delegation led by State Minister of Foreign Affairs Tharaka Balasuriya is scheduled to visit Russia on 26 and 27 June to arrange the repatriation of Sri Lankan ex-military personnel deployed in Russia for militia purposes.  The development follows discussions between Minister Sabry and Russian Foreign Minister Sergey Lavrov focused on resolving the issue of Sri Lankan ex-military personnel serving in the Russian army.
-
-...
-
-[Data](articles/ab65d068.json)
-
-[Extended Data](ext_articles/ab65d068.ext.json)
 
 ---

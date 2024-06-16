@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 17:19:31**
+As of **2024-06-16 17:34:53**
 
 ## Newspaper Stats
 
-*Scraped **30,625** Articles*
+*Scraped **30,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,471
 tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,961
+adaderanasinhalalk | 4,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,623 (100.0%) of 30,625 articles have been extended.
+30,625 (100.0%) of 30,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### පොලිස් වෙස්ගෙන සිදුකළ කොල්ලය
+
+*2024-06-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197821) · `si`
+
+පොලිස් නිලධාරීන් බවට පවසා මුදල් හා දේපොළ කොල්ලකෑ සැකකරුවෙකු මරදාන පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මරදාන පොලිස් වසමේ කැටවලමුල්ල හන්දිය ආසන්නයේදී ඉකුත් 14 වනදා මධ්‍යම රාත්‍රියේදී යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු ඔවුන් පොලිස් නිලධාරීන් බව පවසා මාර්ගයේ ගමන් කරමින් සිටි පුද්ගලයෙකු පරීක්ෂා කර ඔහු සතු රුපියල් ලක්ෂ 02කට ආසන්න වටිනා ජංගම දුරකථනයක් සහ මුදල් පසුම්බිය කොල්ලකා තිබුණි.
+
+ඒවා අවශ්‍ය නම් රුපියල් 35,000ක මුදලක් රැගෙන මරදාන පොලීසියට පැමිණෙන ලෙස පවසා සැකකරුවන් පළාගිය බවද පැමිණිලිකරු පවසයි.
+
+පසුව ඊයේ (15) දින මරදාන පොලීසිය විසින් මරදාන ෆොන්සේකා මාවත ප්‍රදේශයේදී මත්ද්‍රව්‍ය සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහු පැමිණි යතුරුපැදිය ඉහත කොල්ලයට අදාළ යතුරුපැදිය බවට හෙළිවීමෙන් අනතුරුව ඒ පිළිබඳව දිගින් දිගටම පොලීසිය ප්‍රශ්න කර තිබුණි.
+
+ඒ අනුව සැකකරු කොල්ලකන ලද ජංගම දුරකථනය සැකකරුගේ නිවසේ තිබී සොයාගැනීමට පොලීසියට හැකිවිය.
+
+...
+
+[Data](articles/db6482ed.json)
+
+---
 
 ### Russian forces kill Islamic State-linked hostage takers at detention centre
 
@@ -47,6 +69,8 @@ In video published by the 112 Telegram channel, one was shown brandishing a knif
 ...
 
 [Data](articles/8caa6fcf.json)
+
+[Extended Data](ext_articles/8caa6fcf.ext.json)
 
 ---
 
@@ -646,17 +670,25 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 
 ---
 
-### ඉදිරියේ දී ශිෂ්‍යත්ව විභාගයේ වෙනසක්
+### A change in the scholarship examination
 
 *2024-06-16 12:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියේ-දී-ශිෂ්‍යත්ව-විභාගයේ-වෙනසක්/11-410234) · `si`
 
-ලබන ජූලි මස මුල් සතියේ දී ගණිතය, රසායන විද්‍යාව , භෞතික විද්‍යාව, ජීවවිද්‍යාව, සිංහල, ඉංග්‍රීසි, දමිළ මාධ්‍යයන් හා තාක්ෂණවේදය මෙන්  ම විදේශ භාෂා යන විෂය ධාරාවල උපාධිධාරී ගුරු පත්වීම් 2500ක් පමණ ලබා දීමට අවශ්‍ය පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය. එම සියලු‍ උපාධිධාරීන් විභාගයකට පෙනී සිටීමෙන් අනතුරු ව සම්මුඛ පරීක්ෂණ සඳහා ද මේ වන විට පෙනී සිට ඇතැයි කී අමාත්‍යවරයා මෙමගින් දක්ෂ ම ගුරුවරුන් දරුවන්ට ලබා දීමට අපේක්ෂා කරන බව පැවසී ය.
+Dr. Susil Premajayantha announced plans to hire 2,500 graduate teachers across various fields starting January, emphasizing the need for technology-focused professionals. He highlighted the importance of teacher preparation and the upcoming educational reforms, including pilot projects set to begin in 2025. The Minister also mentioned the expectation for graduate teachers to lead schools from 2028, underlining the shift towards a more technologically advanced educational system.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ නාත්තන්ඩිය ධම්මිස්සර විද්‍යාලයේ ඉදිකල නව තෙමහල් තාක්ෂණ ගොඩනැගල්ල සිසු අයිතියට පත් කිරීමේ උත්සවයේ ප්‍රධාන ආරාධිතයා ලෙස එක්වෙමිනි.2014 වර්ෂය වන තෙක් විද්‍යා, කලා, වාණිජ යන විෂය ධාරා තුනක් පැවති නමුත් තාක්ෂණ පීඨ ආරම්භ කිරීමත් සමග තාක්ෂණ විෂය ධාරා ආරම්භ කළ බවත් අද කලා විෂය ධාරාවන්ට වඩා අධික ඉල්ලු‍මක් පවතින්නේ වෘත්තීය ක්ෂේත්‍රය සමග  සෘජු ව ම සබැඳුණු තාක්ෂණ විෂය ධාරාවන්ට බවත් අමාත්‍යවරයා මෙහි දී ප්‍රකාශ කළේ ය.
+🟩
+
+Minister of Education Dr. Susil Premajayantha said that steps will be taken to provide measures to provide 2500 graduate teacher's streams in the first week of January. The Minister said that all these graduates had been interviewed by the preaching interviews.
+
+The Minister was speaking to the President of the New Timmer, Arts, Commerce, and the technology subject to the Faculty of Technology, which was the Chief Guest at the event of the event of the event.The Minister said that there is a demand than the field streams, the technological stream with the professional field, is to the technology stream.
+
+The Minister said that both the main challenges of the Minister of Education and the following are the main challenges of the Minister of Education has been taken up with the assisted by the Minister of Education.
 
 ...
 
 [Data](articles/16f937f0.json)
+
+[Extended Data](ext_articles/16f937f0.ext.json)
 
 ---
 
@@ -2285,33 +2317,5 @@ His final Twenty Twenty World Cup will be recorded in the competition with Papua
 [Data](articles/761f0a83.json)
 
 [Extended Data](ext_articles/761f0a83.ext.json)
-
----
-
-### In the interpretation of the bribery irrigation department and his driver
-
-*2024-06-15 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186148) · `ta`
-
-The Bribery Commission arrested the Irrigation Department official and his driver after receiving a complaint about bribe demands. They were remanded until the 27th by the Magistrate's Court following their arrest at the irrigation office in Akkaraipattu.
-
-🟩
-
-The Irrigation Department and his motorist have been arrested by the Bribery Commission, which received Rs.
-
-In this case, the Magistrate's Court on Thursday (13) ordered that the two men be kept in remand till the 27th.
-
-A person has lodged a complaint with the Bribery Commission in Colombo that the Irrigation Department has sought bribes at the Department of Irrigation.
-
-Following this, the Bribery Commission officials were waiting at the irrigation office in Akkaraipattu last Wednesday (12).
-
-There, the person who lodged a complaint with the bribery demanded that he went with the driver of the engineer and paid Rs.During this time, bribery eradication officers in disguise were arrested by the driver of the driver and the engineer.
-
-When the two arrested were produced before the Akkaraipattu Magistrate's Court on Thursday, the magistrate ordered them to be remanded for 14 days until the 27th.
-
-◼️
-
-[Data](articles/8d0f0f36.json)
-
-[Extended Data](ext_articles/8d0f0f36.ext.json)
 
 ---

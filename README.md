@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 07:27:59**
+As of **2024-06-16 08:12:41**
 
 ## Newspaper Stats
 
-*Scraped **30,552** Articles*
+*Scraped **30,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,461
-tamilmirrorlk | 3,572
+tamilmirrorlk | 3,573
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,942
+adaderanasinhalalk | 4,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,544 (100.0%) of 30,552 articles have been extended.
+30,554 (100.0%) of 30,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### කෝපා කමිටුව හමුවට තවත් ආයතන කිහිපයකට කැඳවීම්
+
+*2024-06-16 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197802) · `si`
+
+රාජ්‍ය ආයතන කිහිපයක් ලබන සතියේ දී රජයේ ගිණුම් පිළිබඳ කාරක සභාව හෙවත් කෝපා කමිටුව වෙත කැඳවීමට නියමිතව තිබේ.
+
+කෝපා කමිටුව එළැඹෙන සතියේ දී දින තුනක් රැස්වීමට නියමිත බව වාර්තා වෙයි.
+
+ඒ අනුව අනිද්දා අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති අතර 19 වනදා කම්කරු දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති බව සඳහන්ය.
+
+මීට අමතරව එළැඹෙන 20 වනදා මහා භාරකාර දෙපාර්තමේන්තුවේ නිලධාරීන් කෝපා කමිටුව හමුවට කැඳවීමට නියමිතය.
+
+එම රාජ්‍ය ආයතනවල කළමනාකරණ කාර්යක්ෂමතාව සහ මූල්‍ය විනය පිළිබඳව මෙහිදී සොයාබැලීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/ff83d48b.json)
+
+---
+
+### Win England
+
+*2024-06-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197801) · `si`
+
+In the Wijenosalana tournament, England defeated Namibia by 41 runs amidst poor weather conditions. Batting first, England made 122 runs off 5 wickets. Namibia could only manage 84 runs, losing all their wickets.
+
+🟩
+
+The match was played between England and Namibia under the Wijenosalana tournament.
+
+England won the match by 41 runs in the inclement weather.
+
+Batting first, England scored 122 runs for the 5 wickets in their panidays.
+
+Accordingly, the Namibealogical Group was gathered at the Nammian group of 84 wickets.
+
+◼️
+
+[Data](articles/383c33db.json)
+
+[Extended Data](ext_articles/383c33db.ext.json)
+
+---
 
 ### Weather today
 
@@ -164,6 +208,28 @@ He said that there were around 100,000 ex-servicemen with arms training now in s
 
 ---
 
+### Call for Deepachelvan Inquiry
+
+*2024-06-16 00:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபச்செல்வன்-விசாரணைக்கு-அழைப்பு/175-338957) · `ta`
+
+The Terrorism Prevention Unit has requested a re-examination of writer Deepachelvan, who was previously summoned for an intense hearing on April 11 regarding his book launch event. The next hearing is scheduled for the 24th.
+
+🟩
+
+The Terrorism Prevention Unit has called for writer Deepachelvan to be re -examined.
+
+Deepachelvan said that the Terrorist Prevention Unit has been summoned to come up for hearing again on the 24th.
+
+He also said that he had been subjected to an intensive hearing on April 11 for conducting the book launch of the Eelam senior writer.. (A)
+
+◼️
+
+[Data](articles/8920972c.json)
+
+[Extended Data](ext_articles/8920972c.ext.json)
+
+---
+
 ### 2024-06-15 (Saturday)
 
 ### Gold to Sri Lanka at the Asian Throw Championships
@@ -285,6 +351,8 @@ Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military office
 ...
 
 [Data](articles/fb52118a.json)
+
+[Extended Data](ext_articles/fb52118a.ext.json)
 
 ---
 
@@ -1832,6 +1900,8 @@ My first job was difficult because many Sinhalese officers in those days were re
 
 [Data](articles/2b692f8a.json)
 
+[Extended Data](ext_articles/2b692f8a.ext.json)
+
 ---
 
 ### Ye Olde Resthouses
@@ -1843,6 +1913,8 @@ A couple of Sundays ago, Gamini Peiris of Moratuwa wrote a letter to the editor 
 ...
 
 [Data](articles/b49a841a.json)
+
+[Extended Data](ext_articles/b49a841a.ext.json)
 
 ---
 
@@ -1858,6 +1930,8 @@ Agency houses may be irrelevant in the present context and unless they have read
 
 [Data](articles/46906a5a.json)
 
+[Extended Data](ext_articles/46906a5a.ext.json)
+
 ---
 
 ### CSE’s implementation of shortened settlement cycle for equity trades proves successful
@@ -1871,6 +1945,8 @@ Following collaborative efforts with the Securities and Exchange Commission of S
 ...
 
 [Data](articles/03fa8139.json)
+
+[Extended Data](ext_articles/03fa8139.ext.json)
 
 ---
 
@@ -1904,6 +1980,8 @@ Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalu
 
 [Data](articles/3c5fff87.json)
 
+[Extended Data](ext_articles/3c5fff87.ext.json)
+
 ---
 
 ### PRCA Country Rep calls for ethics and standards in Sri Lanka’s advertising and marketing industry
@@ -1919,6 +1997,8 @@ Even though there exist certain codes, they are certainly not implemented in pra
 ...
 
 [Data](articles/4ac93072.json)
+
+[Extended Data](ext_articles/4ac93072.ext.json)
 
 ---
 
@@ -2173,61 +2253,5 @@ Siyambalapitiya said the estimates only entail changes to subjects under which e
 [Data](articles/dd17c3af.json)
 
 [Extended Data](ext_articles/dd17c3af.ext.json)
-
----
-
-### Public Service Commission approves new service constitution for Grama Niladhari Officers
-
-*2024-06-15 01:11:36* · [`dailyftlk`](https://www.ft.lk/news/Public-Service-Commission-approves-new-service-constitution-for-Grama-Niladhari-Officers/56-763117) · `en`
-
-State Minister for Home Affairs Ashoka Priyantha on Thursday announced that the Grama Niladhari Service Constitution has been approved by the Public Service Commission following the approval of the Cabinet Ministers.
-
-He also mentioned that the new constitution allows for necessary amendments.
-
-During the briefing to the media on “Collective Path to a Stable Country” at the Presidential Media Centre, State Minister Ashoka Priyantha said the following:
-
-The Government has recently undertaken several significant projects, such as “Urumaya” and “Aswasuma.” Additionally, many development projects that were halted last season have now resumed. Redevelopment efforts in both villages and towns are also underway through decentralised allocations.
-
-It is important to note that supporting these initiatives is the duty of Government officials. As we fulfil our responsibilities to the people, it is essential that everyone performs their duty.
-
-...
-
-[Data](articles/d435808b.json)
-
-[Extended Data](ext_articles/d435808b.ext.json)
-
----
-
-### Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalutara District
-
-*2024-06-15 01:11:00* · [`islandlk`](http://island.lk/cinnamon-bey-beruwala-pioneers-installation-of-first-ever-ocean-strainer-in-kalutara-district/) · `en`
-
-Cinnamon Bey Beruwala proudly announces the launch of a significant environmental initiative as part of the Clean Water Project by John Keells Holdings (JKH). Coinciding with the World Environment Day and World Ocean Day celebrations, the first ever ocean strainer was installed in the Beruwala canal, marking a pivotal step towards improving water quality and marine conservation in the Kaluthara district.
-
-With the collaborative efforts of the John Keells Foundation, MAS Holdings, the Beruwala Urban Council, and the National Waste Management Centre, the project was successfully implemented within a week of its initiation. This installation represents the initial phase of a broader effort to reduce marine pollution and protect coastal ecosystems. The ocean strainer will play a crucial role in filtering waste from the canal, preventing it from reaching the ocean and causing harm to marine life.
-
-...
-
-[Data](articles/a4122167.json)
-
-[Extended Data](ext_articles/a4122167.ext.json)
-
----
-
-### Discussion on “Sri Lanka’s economic security in 2024 – evaluating outlook and risks”
-
-*2024-06-15 01:10:46* · [`dailyftlk`](https://www.ft.lk/news/Discussion-on-Sri-Lanka-s-economic-security-in-2024-evaluating-outlook-and-risks/56-763116) · `en`
-
-The Institute of National Security Studies (INSS) organised a closed-door Round Table Discussion (RTD) on “Sri Lanka’s economic security in 2024 – evaluating the outlook and risks” recently at the Nandimithra Auditorium, Ministry of Defence. Defence Secretary General Kamal Gunaratne graced the event as the Chief Guest.
-
-INSS Overlooking Director General and Acting Director (Research) Colonel Nalin Herath warmly received the Chief Guest to the discussion.
-
-INSS, the premier think tank on national security established and functioning under the Ministry of Defence organised the RTD which brought together esteemed voices to deliberate on pressing thematic issues.
-
-...
-
-[Data](articles/fb042dc7.json)
-
-[Extended Data](ext_articles/fb042dc7.ext.json)
 
 ---

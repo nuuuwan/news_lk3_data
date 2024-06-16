@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 08:12:41**
+As of **2024-06-16 08:22:18**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,554 (100.0%) of 30,555 articles have been extended.
+30,555 (100.0%) of 30,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### කෝපා කමිටුව හමුවට තවත් ආයතන කිහිපයකට කැඳවීම්
+### Calling the Kapa Committee to several institutions
 
 *2024-06-16 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197802) · `si`
 
-රාජ්‍ය ආයතන කිහිපයක් ලබන සතියේ දී රජයේ ගිණුම් පිළිබඳ කාරක සභාව හෙවත් කෝපා කමිටුව වෙත කැඳවීමට නියමිතව තිබේ.
+Next week, several government institutions including the Department of Export Agriculture and the General Hospital department will be summoned by the Committee on Public Accounts (Kapa Committee) for assessments on management efficiency and financial discipline. The committee meets three times a week.
 
-කෝපා කමිටුව එළැඹෙන සතියේ දී දින තුනක් රැස්වීමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-ඒ අනුව අනිද්දා අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති අතර 19 වනදා කම්කරු දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති බව සඳහන්ය.
+Several government institutions will be called next week to the Committee Committee on Public Accounts or Kopy.
 
-මීට අමතරව එළැඹෙන 20 වනදා මහා භාරකාර දෙපාර්තමේන්තුවේ නිලධාරීන් කෝපා කමිටුව හමුවට කැඳවීමට නියමිතය.
+It is reported that the Kapa Committee is to meet three days in the week.
 
-එම රාජ්‍ය ආයතනවල කළමනාකරණ කාර්යක්ෂමතාව සහ මූල්‍ය විනය පිළිබඳව මෙහිදී සොයාබැලීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
+Accordingly, the officers of the Department of Export Agriculture have been called on the 19th.
+
+The officials of the General Hospital department will be summoned before the Kopya Committee.
+
+The management efficiency and financial discipline of these state institutions will be conducted by the Department of Parliament.
 
 ◼️
 
 [Data](articles/ff83d48b.json)
+
+[Extended Data](ext_articles/ff83d48b.ext.json)
 
 ---
 

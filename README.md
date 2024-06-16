@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 12:06:56**
+As of **2024-06-16 12:19:24**
 
 ## Newspaper Stats
 
-*Scraped **30,578** Articles*
+*Scraped **30,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 279
 dbsjeyarajcom | 282
 bbccomsinhala | 299
 newsfirstlk | 363
-islandlk | 1,669
-economynextcom | 1,774
+islandlk | 1,670
+economynextcom | 1,776
 dailyftlk | 1,863
-adalk | 2,632
+adalk | 2,635
 adaderanalk | 3,464
-tamilmirrorlk | 3,578
+tamilmirrorlk | 3,581
 virakesarilk | 4,691
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,951
@@ -26,47 +26,71 @@ adaderanasinhalalk | 4,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,577 (100.0%) of 30,578 articles have been extended.
+30,578 (100.0%) of 30,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### සංගීත ප්‍රසංගයක් මැද තරුණයෙකුගේ ගෙල කපයි
+### සංගීතයකදී  බිරිඳ සමග නර්ථනයේ යෙදුනැයි තරුණයෙකුගේ ගෙලකපා ඝාතනය කරලා
+
+*2024-06-16 11:50:42* · [`adalk`](https://www.ada.lk/breaking_news/සංගීතයකදී--බිරිඳ-සමග-නර්ථනයේ-යෙදුනැයි-තරුණයෙකුගේ-ගෙලකපා-ඝාතනය-කරලා/11-410232) · `si`
+
+සංගීත ප්‍රසංගයකදී තරුණයෙකුගේ ගෙලකපා  ඝාතනය කර ඇති බව කළුතර දකුණ පොලිසිය පවසයි . මෙසේ ඝාතනයට ලක්ව ඇත්තේ දොඩංගොඩ , ජන උදාන ගම්මානයේ පදිංචිව සිටී මෙනුර නිම්තර වනිගසේකර නමැති 20 හැවිරිදි තරුණයකු බව පොලිසිය කීය.
+
+සැකකරු ප්‍රදේශයේ තරුණියක සමග විවාහ වී සිට ඇති අතර, ඇය දින කිහිපයකට පෙර ඔහු අතහැර ගොස් වෙනම ජීවත්ව සිට ඇති බවද සදහන් වේ.  එම තරුණිය කළුතර ගමගොඩ ප්‍රදේශයේ පැවති සංගීත ප්‍රසංගයක් නැරඹීමට පැමිණ, ඇය සේවය කරන ඇඟලුම් කර්මාන්තශාලාවේ තරුණයෙකු සමග නර්තනයේදී සිට ඇති බවද පොලිසිය සදහන් කරයි.
+
+එහිදී උරන වූ සැකකරු නර්තනයේ යෙදී සිට ඇති තරුණයාගේ ගෙල තියුණු ආයුධයකින් කපා ඇති බවද සදහන් වේ.
+
+ගෙලට බරපතළ තුවාල ලබා සිටි තරුණයා කළුතර නාගොඩ ශීක්ෂණ රෝහලට රැගෙන ගොස් ඇති අතර,  එහිදී මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සදහන් කරයි.
+
+කළුතර කොට්ඨාශ අපරාධ ස්ථාන පරීක්ෂණාගර නිළධාරින්ද පරීක්ෂණ සිදුකරන ලදී . ඝාතනය සිදුකල සැකකරු අත්අඩංගුවට ගෙන ඒ සදහා යොදාගත් බව කියන තියුණු ආයුධයක්ද සොයාගත් බව පොලිසිය සදහන් කරයි.
+
+...
+
+[Data](articles/ee06d629.json)
+
+---
+
+### ரஜினியை சந்தித்தார் செந்தில் தொண்டமான்
+
+*2024-06-16 11:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஜினியை-சந்தித்தார்-செந்தில்-தொண்டமான்/175-338964) · `ta`
+
+இந்தியாவிற்கு விஜயம் மேற்கொண்ட கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் விஜயவாடாவில் சூப்பர் ஸ்டார் ரஜினிகாந்தை சந்தித்தார்.
+
+அந்த சந்திப்பின் போது, இலங்கையில் உள்ள தோட்ட சமூகத்தின் 200வது ஆண்டுக்கான நினைவு முத்திரையை சூப்பர் ஸ்டார் ரஜினிகாந்துக்கு  வழங்கி வைத்தார்.
+
+◼️
+
+[Data](articles/c600dbda.json)
+
+---
+
+### The neck of a young man in the middle of a concert
 
 *2024-06-16 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197809) · `si`
 
-සංගීත ප්‍රසංගයකදී දෙපාර්ශ්වයක් අතර ඇතිවූ කතාබහක් දුරදිග යාමෙන් ගෙල කපා තරුණයෙකු ඝාතනය කර තිබේ.
+In a tragic incident during a concert, a young man from Dodangoda was murdered. The suspect, his wife, attended the event but fled after the crime. Witnesses reported seeing her with a sharp object, which could have been used to cut the victim's necklace during a dance.
 
-එලෙස ඝාතනය කර ඇත්තේ දොඩංගොඩ ජනඋදාන ගම්මානයේ පදිංචිව සිටි මෙනුර නිම්තර වනිගසේකර නමැති 20 හැවිරිදි තරුණයෙකි.
+🟩
 
-සැකකරු ප්‍රදේශයේ තරුණියක සමග විවාහ වී සිට ඇති අතර, ඇය ඔහුව අත්හැර ගොස් වෙනම ජීවත්ව සිට ඇති බව වාර්තා වෙයි.
+A concert between two parties had been cut off from a large number of conversation between two parties in a concert.
 
-ඇය කළුතර ගමගොඩ ප්‍රදේශයේ කුමුදු ක්‍රීඩාංගණයේ පැවැති සංගීත ප්‍රසංගයක් නැරඹීමට පැමිණ තිබුණි.
+The murder of a resident of Dodangoda, a 20 year old resident of Dodangoda, Dodangoda.
 
-එහිදී ඇය සේවය කරන ඇඟලුම් කර්මාන්තශාලාවේ තරුණයෙකු සමග නර්තනයේ යෙදී සිට ඇති බවද පොලීසිය සඳහන් කරයි.
+The suspect had been married to a young woman in the area, and she had been abandoned and alive.
 
-එම අවස්ථාවේදී උරන වූ සැකකරු නර්තනයේදී යෙදී සිට ඇති තරුණයාගේ ගෙල තියුණු ආයුධයකින් කපා ඇති බව සඳහන් ය.
+She had visited a concert held at the Gamagoda, Kalutara.
+
+The garment factory she serves was danced with a young man in dancing.
+
+It is said that the necklace of the youth from the dance at the time was cut by a sharp instrument.
 
 ◼️
 
 [Data](articles/448c32a1.json)
 
----
-
-### HOW NOT TO RUN AN ELECTION (1956)
-
-*2024-06-16 11:29:00* · [`islandlk`](http://island.lk/how-not-to-run-an-election-1956/) · `en`
-
-As a Returning Officer, I played only second fiddle to the Government Agent, who was actually in charge of the Parliamentary Elections at the district level. However I was given definite duties: first, for staffing the polling booths with government staff officers; second, for supervising the actual process of elections in the polling booths; and third, for counting the ballots once the voting was done.
-
-My first job was difficult because many Sinhalese officers in those days were reluctant to come so far to a Tamil-speaking district. This was long before the Tigers became the major political or military force in those districts. I was able to overcome this difficulty because some of my Sinhalese friends shared my interest in jungles and lagoons, and they were eager to come as polling officers to the Eastern Province. I had to officially get them to staff the polling booths; but unofficially, I had also to look after them and provide social activities for them.
-
-...
-
-[Data](articles/2b692f8a.json)
-
-[Extended Data](ext_articles/2b692f8a.ext.json)
+[Extended Data](ext_articles/448c32a1.ext.json)
 
 ---
 
@@ -103,6 +127,60 @@ He said that there were around 100,000 ex-servicemen with arms training now in s
 [Data](articles/fbcd031f.json)
 
 [Extended Data](ext_articles/fbcd031f.ext.json)
+
+---
+
+### Sri Lanka – Thinking Outside Comfort Zones to Achieve Progress
+
+*2024-06-16 11:21:00* · [`islandlk`](http://island.lk/sri-lanka-thinking-outside-comfort-zones-to-achieve-progress/) · `en`
+
+A proposal by Milinda Moragoda, founder of the Pathfinder Foundation, to all presidential candidates and political parties
+
+The presidential and possible parliamentary elections are expected to take place later in 2024 and will be the most important set of elections in our post-Independence history. Sri Lanka can come out of the prevailing economic and political crises only if leaders and citizens are willing to recognize that the economy will have to grow by at least six percent per annum for the next 10 years, which is twice the growth rate projected by Sri Lankan authorities and international economists at the moment.
+
+...
+
+[Data](articles/a647e227.json)
+
+---
+
+### மனைவியுடன் நடனமாடிய இளைஞன் படுகொலை
+
+*2024-06-16 11:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியுடன்-நடனமாடிய-இளைஞன்-படுகொலை/175-338962) · `ta`
+
+இசை நிகழ்ச்சியின் போது இளைஞர் ஒருவர் கழுத்தை நெரித்து கொலை செய்யப்பட்டுள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்துள்ளனர்.
+
+தொடங்கொட, ஜன் உதான கிராமத்தைச் சேர்ந்த 20 வயதுடைய மெனுர நிம்தர வணிகசேகர என்ற இளைஞரே இவ்வாறு கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் உள்ளூர் பெண்ணை திருமணம் செய்து கொண்டதாகவும், அவர் சில நாட்களுக்கு முன்பு அவரை விட்டு பிரிந்து தனியாக வசித்து வந்ததாகவும் கூறப்படுகிறது.
+
+களுத்துறை, கமகொட பிரதேசத்தில் இடம்பெற்ற இசை நிகழ்ச்சியை பார்வையிட வந்த குறித்த யுவதி, தான் பணிபுரிந்த ஆடை தொழிற்சாலையில் இளைஞர் ஒருவருடன் நடனமாடியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அங்கு உயிரிழந்த சந்தேக நபர் கூரிய ஆயுதத்தால் நடனமாடிக்கொண்டிருந்த இளைஞனின் கழுத்தை அறுத்து கொன்றுள்ளதாக  தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/7a1ccb6e.json)
+
+---
+
+### දෙවන පෙළ ජේලර්  අයිස් සමඟ අත්අඩංගුවට
+
+*2024-06-16 11:18:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවන-පෙළ-ජේලර්--අයිස්-සමඟ-අත්අඩංගුවට/11-410228) · `si`
+
+අයිස් මත්ද්‍රව්‍ය සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් දෙවන පෙල ජේලර්වරයෙකු අත්අඩංගුවට ගත් බව මොරටුව මූලස්ථාන පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරු අගුණු කොළ පැලැස්ස බන්ධනාගාරයට අනුයුක්ත සේවය කරන්නෙකි.
+
+සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව මොරටු වැල්ල මාදම්ගහවත්ත  නිවසක දී  අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 90 ක් සමඟ සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+අහංගම තිත්ත ගල්ල ගල ගාව හන්දියේ පදිංචි 26 හැවිරිදි  සැකකරු මොරටුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+ගල්කිස්ස කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරියේ ප්‍රසන්න බ්‍රාහ්මණ මහතාගේ උපදෙස් මත  මොරටුව මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක නිහාල්  පැන්සිස් මහතා  පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/18d4f44a.json)
 
 ---
 
@@ -145,6 +223,24 @@ Prof. Wasantha Athukorale added that if a real estate levy is running in the cou
 [Data](articles/a011d579.json)
 
 [Extended Data](ext_articles/a011d579.ext.json)
+
+---
+
+### සුනඛයා කඳුකර කොටියාගේ ගොදුරක් වෙයිද?
+
+*2024-06-16 10:58:29* · [`adalk`](https://www.ada.lk/breaking_news/සුනඛයා-කඳුකර-කොටියාගේ-ගොදුරක්-වෙයිද-/11-410227) · `si`
+
+කඳුකර කොටියෙකු නිවසේ ඇති කරන ලද සුනඛයෙකු ගොදුරු කර ගැනීම සඳහා කොත්මලේ, නව තිස්පනේ, දොඹගස්තලාව ගම්මානයේ නිවසට පැමිණෙන අයුරු එම නිවසේ සවි කොට තිබු ආරක්ෂිත කැමරාවක සටහන්ව ඇති බවත්, මේ හේතුවෙන් තමන්  බියට පත්ව ඇතැයි එම ගම්මානයේ වැසියෝ පවසති.
+
+නව තිස්පනේ, දොඹගස්තලාව ගම්මානය ඇතුළු ඒ ආශ්‍රිත ගම්මානවල සැරිසරණ කඳුකර කොටියන් නිසා සිය දෛනික කටයුතු සිදු කරගෙන යාමේදී ගම්වැසියන් බියට පත්ව ඇතැයිද  ඔවුහු කියති.
+
+දොඹගස්තලාව ගම්මානය අවට පිහිටි රක්ෂිත කැළෑවන් තුළ වෙසෙන කඳුකර කොටියන් මෙසේ රාත්‍රී කාලයට ගම්මානයට පැමිණ සිය නිවාසවල සුරතලයට ඇති කරනු ලබන සුනඛයන් ගොදුරු කර ගැනීමට පුරුදුව ඇති බවත්, මේ හේතුවෙන් රාත්‍රී කාලයට නිවාසවලින් බැහැරව  යාම තම ජීවිතවලට පවා තර්ජනයක් එල්ල වී  ඇතැයි ගම්වැසියෝ සඳහන් කරති.
+
+නව තිස්පනේ, දොඹගස්තලාව ගම්මානයේ පදිංචි සරත් මහතාගේ නිවසේ සවි කොට ඇති ආරක්ෂක කැමරා පද්ධතියේ මෙසේ කඳුකර කොටියෙකු නිවසේ ඇති කරන සුනඛයා ගොදුරු කර ගැනීමට පැමිණෙන අයුරු සටහන්ව තිබේ.
+
+◼️
+
+[Data](articles/61048091.json)
 
 ---
 
@@ -195,6 +291,18 @@ A meeting between President Ranil Wickremesinghe and Mannar Hide District Bishop
 [Data](articles/0d0fe6f3.json)
 
 [Extended Data](ext_articles/0d0fe6f3.ext.json)
+
+---
+
+### மன்னார் ஆயரை சந்தித்தார் ஜனாதிபதி
+
+*2024-06-16 10:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-ஆயரை-சந்தித்தார்-ஜனாதிபதி/175-338960) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க, மன்னார் மறை மாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கலாநிதி மேதகு இமானுவேல் பெர்னாண்டோ ஆகியோருக்கு இடையிலான சந்திப்பொன்று சற்று முன்னர் மன்னார் ஆயர் இல்லத்தில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/bed6134f.json)
 
 ---
 
@@ -536,6 +644,24 @@ The train department stated that the buses will be exchanged between the buses.
 
 ---
 
+### Sri Lanka state airport agency swimming in cash after sovereign default
+
+*2024-06-16 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-airport-agency-swimming-in-cash-after-sovereign-default-168235/) · `en`
+
+ECONOMYNEXT – State-run  Airport and Aviation Services (Sri Lanka) Ltd is swimming in cash after a sovereign default halted debt repayments allowing it to post a profit of 29.7 billion rupees with 10.4 billion rupees in interest income, official data showed.
+
+In April 2022 Sri Lanka declared a sovereign default after printing large volumes of money over more than two years to enforce rate cuts and blowing the biggest hole in the balance of payments in the history of the island’s money printing central bank.
+
+Interest earnings of Airport and Aviation Services also shot up to 10.4 billion rupees in 2023 from 6.1 billion in 2022 and 3.3 billion rupees in 2021 before the sovereign default.
+
+Under the terms of the default or ‘debt suspension’, state agencies like the Airport and Aviation Services, and Sri Lanka Port Authority were also not required to service loans, even if they had the cash to repay loans.
+
+...
+
+[Data](articles/803a4453.json)
+
+---
+
 ### Calling the Kapa Committee to several institutions
 
 *2024-06-16 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197802) · `si`
@@ -873,6 +999,26 @@ According to the latest IMF report car import controls may have led to revenue l
 [Data](articles/3a0e5f6a.json)
 
 [Extended Data](ext_articles/3a0e5f6a.ext.json)
+
+---
+
+### Sri Lanka car import relaxing roadmap given to IMF: State Minister
+
+*2024-06-15 22:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-import-relaxing-roadmap-given-to-imf-state-minister-168200/) · `en`
+
+ECONOMYNEXT – Sri Lanka has submitted a roadmap on relaxing vehicle imports to the International Monetary Fund, State Minister of Finance Ranjith Siymabalapitiya said as the country recovers from the worst currency crises in the history of its central bank.
+
+The import relaxation will allow vehicles for public transport, goods transport, then motor cycles and cars use by private individuals and after that, luxury cars, Minister Siyambalapitiya said.
+
+Luxury cars however attract the highest taxes for each dollar spent on imports.
+
+Economic analysts have characterized vehicle import controls as a ‘cascading policy error’ that follows inflationary rate cuts, which then deprive taxes to the state and triggers more money printing and more forex shortages, requiring even higher corrective interest rates and a contraction of economic activities to save the rupee.
+
+According to the latest IMF report car import controls may have led to revenue losses of 0.7 to 0.9 percent of GDP.
+
+...
+
+[Data](articles/80922474.json)
 
 ---
 
@@ -2179,193 +2325,5 @@ So the 13th Amendment is not available. We need to study further to the 13th Ame
 [Data](articles/c3192611.json)
 
 [Extended Data](ext_articles/c3192611.ext.json)
-
----
-
-### Turning due to an unknown body
-
-*2024-06-15 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197777) · `si`
-
-A dead body was discovered in Kayts Madtivu, but the victim remains unidentified. The investigation began after a tip-off to the local police. The deceased, estimated to be between 5 and 6 feet tall, is currently at the Jaffna Hospital pending further inquiries by the Kayts police.
-
-🟩
-
-Kayts found a dead body of an unidentified man from Kayts Madtivu.
-
-Police said that the investigations were commenced on a tip off received by the Kayts Police yesterday (14).
-
-The death inspection of the body has been carried out and has not verified his identity so far.
-
-The man is about 5 feet to 5 feet height and about two feet height.
-
-The body is placed at the Jaffna Hospital while Kayts police are conducting further investigations.
-
-◼️
-
-[Data](articles/6e612fa4.json)
-
-[Extended Data](ext_articles/6e612fa4.ext.json)
-
----
-
-### Multiian fishing vessel arrested with 150 kilograms of heroin
-
-*2024-06-15 09:06:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-මත්කුඩු-කිලෝ-150ක්-සමග-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-410218) · `si`
-
-A Sri Lankan Navy arrest of a multi-day fishing vessel, suspected of drug trafficking, resulted in the seizure of 150 kg of heroin. The vessel was intercepted approximately 400 nautical miles off the coast, deep in the Indian Ocean, and brought to Galle Harbor for inspection.
-
-🟩
-
-The Navy announced that a multi-day fishing vessel suspected to transport drugs at a deep sea operation in a deep sea operation.
-
-Sri Lanka has arrested about 400 nautical miles (740 km) deep in the deep sea last evening.
-
-The vessel has been brought to the Galle Harbor and is suspected of 150 kilograms of narcotics and the Navy is inspected by the internal components of the vessel.
-
-◼️
-
-[Data](articles/de9f91f7.json)
-
-[Extended Data](ext_articles/de9f91f7.ext.json)
-
----
-
-### Cyril Ramaphosa re-elected South African president
-
-*2024-06-15 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99888/cyril-ramaphosa-re-elected-south-african-president) · `en`
-
-South Africa’s parliament has re-elected Cyril Ramaphosa as the country’s president following a landmark coalition deal between the governing African National Congress (ANC) and opposition parties.
-
-The new government of national unity combines Mr Ramaphosa’s ANC, the centre-right Democratic Alliance (DA) and smaller parties.
-
-In his victory speech, Mr Ramaphosa hailed the new coalition, and said voters expected the leaders to “to act and to work together for the good of everyone in our country”.
-
-The agreement was hashed out on a day of high political drama, which saw the National Assembly sitting late into the evening for votes to confirm who would hold power in the new administration.
-
-Earlier, a deal was struck following weeks of speculation about whom the ANC would partner with after losing its parliamentary majority for the first time in 30 years in last month’s elections.
-
-ANC secretary-general Fikile Mbalula called the coalition deal a “remarkable step”.
-
-...
-
-[Data](articles/71d49015.json)
-
-[Extended Data](ext_articles/71d49015.ext.json)
-
----
-
-### Unless Control in South Africa
-
-*2024-06-15 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197776) · `si`
-
-Cyril Ramaphosa has been re-elected as the leader of the South African Congress, with support from both the ruling African National Congress (ANC) and smaller parties. This comes after a period of political uncertainty and internal debates within the ANC. The move signifies a return to stability and continuity in leadership, following a challenging period marked by a loss of parliamentary majority for the first time in 30 years.
-
-🟩
-
-Cyril Ramalhoza has been re-elected by the Parliament of the South African Congress and opposition parties.
-
-The UPFA has built the National Unity of Ramapaza's ruling African UPFA and small parties jointly.
-
-It is said that the National Council has held a poll to consult the power of the new administration.
-
-The decision has been taken after discussions with the first time in the last month after the first loss of the Parliamentary majority after 30 years of loss of Parliament.
-
-After a strict force struggle in 2018, President Jacob Zumarasza came to power in power, and his party was always over 50 percent of votes.
-
-◼️
-
-[Data](articles/28dee491.json)
-
-[Extended Data](ext_articles/28dee491.ext.json)
-
----
-
-### What happened yesterday in the Negombo Sea?
-
-*2024-06-15 08:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-கடலில்-நேற்று-நடந்தது-என்ன/175-338932) · `ta`
-
-In Negombo Sea, two students from Vijayarathinam Hindu Central College drowned near Kudapadu fisherman's port. Yoganathan Nitish and Rajadurai Aravindan, both 17, lost their lives while five others perished in the incident.
-
-🟩
-
-Two students drowned in the sea yesterday near the Kudapadu fisherman's port of Negombo.
-
-Students studying at Vijayarathinam Hindu Central College, Negombo are the victims.
-
-Yesterday, five students were drowned in the sea as they went to the sea.
-
-Others have tried to save the two. In this case, the residents of the area have been drowned in the sea as they have rescued the three.
-
-Yoganathan Nitish (17) from Negombo Coast Street and Rajadurai Aravindan (17) from Asarappa Road were the victims.
-
-◼️
-
-[Data](articles/4d9b82c1.json)
-
-[Extended Data](ext_articles/4d9b82c1.ext.json)
-
----
-
-### Large-scale Romania employment reveals
-
-*2024-06-15 08:19:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-රුමේනියා-රැකියා-ජාවාරමක-තතු-හෙළිවෙයි/11-410217) · `si`
-
-A person accused of fraud in Romania has been arrested by Sri Lanka's Special Investigation Division for allegedly failing to fulfill job orders through Vicky International Solutions, despite having a valid job license. The agency faced 53 complaints from job seekers. The suspect was released after posting bail.
-
-🟩
-
-A person who has defrauded money in Romania has been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment 6/13.
-
-The Bureau has received 53 complaints that the owner of the Vicky International Solutions in Godagama, Matara.
-
-The relevant employ agency is a previously registered employment agency, and the validity period of the company's job license has been completed by 29 February.. Despite the valid job order to provide homathena jobs, they have not taken steps to direct the complainants for employment.
-
-Arrested in violating the license terms contained in the Bureau of Police to the Bureau for the examination to investigate the complaints.. The suspect was produced before the Matara Magistrate's Court today, and the Magistrate ordered the release of Rs. 500,000.
-
-...
-
-[Data](articles/5d8af54f.json)
-
-[Extended Data](ext_articles/5d8af54f.ext.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-06-15 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99887/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2c461b1d.json)
-
-[Extended Data](ext_articles/2c461b1d.ext.json)
-
----
-
-### Notice to Colombo drivers
-
-*2024-06-15 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197775) · `si`
-
-Traffic on the Kohuwala flyover is restricted due to repairs from July 15 to August 15. Use alternative routes to avoid congestion.
-
-🟩
-
-The flyover of the flyover at Kohuwala is restricted to restrict traffic on the road today (15), police said.
-
-Police Media Spokesperson Deputy Inspector General Inspector General of Police (IGP) has once considered this restriction on the road.
-
-"The repair work of the flyover is being established at Kohuwala junction on the road to Colombo to Piliyandala. These activities are carried out until August 15. Therefore, there may be a traffic congestion around that intersection. Therefore, using alternate routes, provide travel convenience. "
-
-◼️
-
-[Data](articles/97d65f05.json)
-
-[Extended Data](ext_articles/97d65f05.ext.json)
 
 ---

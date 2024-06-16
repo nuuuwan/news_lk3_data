@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 10:19:04**
+As of **2024-06-16 10:34:52**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,562 (100.0%) of 30,563 articles have been extended.
+30,563 (100.0%) of 30,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### අපිට සමාවෙන්න - මැතිව්ස්
+### Sorry - Mathews
 
 *2024-06-16 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197806) · `si`
 
-කණ්ඩායමක් වශයෙන් මුළු රටෙන්ම සමාව ඉල්ලන බව ශ්‍රී ලංකා කණ්ඩායමේ සුපිරි ක්‍රීඩක ඇන්ජලෝ මැතිව්ස් පවසයි.
+Angelo Mathews, representing Sri Lanka's Supermarket, expressed regret over the team's performance, stating they were disappointed by the delays and the dashed hopes of the nation. He acknowledged the strong bowling performances but noted their inability to capitalize effectively. The team faced significant challenges, especially after losing the first two matches, including a disrupted game against Nepal due to rain. They remain hopeful about their final match, aiming to turn things around.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් ඇන්ජලෝ මැතිව්ස් පවසා සිටියේ කණ්ඩායමේ බලාපොරොත්තු සහ රටේ බලාපොරොත්තු විනාශ වීම ගැන ඔවුන් කනගාටුවෙන් සිටින බවය.
+🟩
+
+Sri Lanka's Supermarket Angelo Mathews says he is apologized as a group.
+
+Speaking to the media, Angelo Mathews said they were saddened by the delay in the group expectations and the hopes of the country.
 
 ...
 
 [Data](articles/e7dc444f.json)
+
+[Extended Data](ext_articles/e7dc444f.ext.json)
 
 ---
 

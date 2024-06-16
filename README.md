@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 18:12:29**
+As of **2024-06-16 18:24:00**
 
 ## Newspaper Stats
 
-*Scraped **30,627** Articles*
+*Scraped **30,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,671
 economynextcom | 1,778
 dailyftlk | 1,863
 adalk | 2,645
-adaderanalk | 3,471
-tamilmirrorlk | 3,585
+adaderanalk | 3,472
+tamilmirrorlk | 3,586
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,962
+adaderanasinhalalk | 4,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,626 (100.0%) of 30,627 articles have been extended.
+30,627 (100.0%) of 30,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### மாணவன் மீது மாணவன் கத்திக்குத்து
+
+*2024-06-16 18:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவன்-மீது-மாணவன்-கத்திக்குத்து/76-338972) · `ta`
+
+கண்டியில் உள்ள முன்னணி பாடசாலையொன்றில் கல்வி கற்கும் மாணவர் ஒருவரை மற்றுமொரு மாணவன் கத்தியால் குத்தியதில் அவருக்கு பலத்த காயம் ஏற்பட்டுள்ளது. கண்டி அம்பிட்டியவிலே​யே இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+காயமடைந்தவர் கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அம்பிட்டிய, உடுவெல பிரதேசத்தில் வசிப்பவர்கள் இருவரும் பாடசாலையில் தரம் பதினொன்றில் கல்வி பயின்று வந்தனர்.
+
+சந்தேக நபர் கண்டி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். முன்விரோதம் காரணமாக கத்தியால் குத்தப்பட்டது விசாரணையில் தெரியவந்தது.
+
+◼️
+
+[Data](articles/964a8baf.json)
+
+---
+
+### ජනපති මන්නාරම රදගුරු හිමි හමු වෙති
+
+*2024-06-16 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197823) · `si`
+
+ජනපති සහ මන්නාරම රදගුරු ආචාර්ය ෆිඩෙල්ස් ලයනල් එම්මානුවෙල් ප්‍රනාන්දු හිමියන් අතර අද (16) හමුවක් සිදු කෙරුණි.
+
+එහිදී ආර්ථික අර්බුදය ඇතුළු කරුණු කිහිපයක් පිළිබඳව අවධානය යොමුවී තිබේ.
+
+රට ආර්ථික අර්බුදයෙන් මුදා ගැනීමට ජනාධිපතිවරයා කරන ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලිය මෙහිදී රදගුරු හිමියන් අගය කර තිබූ බවද ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එමෙන්ම මන්නාරමේ සිට පේදුරුතුඩුව සහ මුලතිව් පුනර්ජනනීය බලශක්ති කේන්ද්‍රස්ථානයක් ලෙස සංවර්ධන කිරීමේ සැලසුම් පිළිබඳවද මෙහිදී අවධානය යොමුවී තිබේ.
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ගොඩබිම් සම්බන්ධතාවයක් ඇති කිරීම සඳහා වන පූර්ව ශක්‍යතා අධ්‍යයනය මේ වනවිට සිදුකර අවසන් බවත් සම්පූර්ණ ශක්‍යතා අධ්‍යයනය ඉදිරියේදී සිදු කිරීමට නියමිත බවත් ජනාධිපතිවරයා මෙහිදී ප්‍රකාශ කළ බව ජනපති මාධ්‍ය අංශය වැඩිදුරටත් නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/620c95f6.json)
+
+---
+
+### Sri Lanka’s future will be determined by economic policies of next 5 years - President
+
+*2024-06-16 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99912/sri-lankas-future-will-be-determined-by-economic-policies-of-next-5-years-president) · `en`
+
+President Ranil Wickremesinghe states that Sri Lanka’s future will be determined by the economic policies implemented over the next five years, the President’s Media Division (PMD) reported.
+
+Wickremesinghe made this remark while addressing the Mannar District “Youth Conference” and the business community today (16), according to the PMD.
+
+◼️
+
+[Data](articles/672c2d48.json)
+
+---
+
+### චීනයට අධික වැසි
+
+*2024-06-16 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197822) · `si`
+
+දකුණු චීනයේ ප්‍රදේශ රැසකට බලපා ඇති අධික වැසි හේතුවෙන් ජල ගැලීම් ආපදා රැසක් වාර්තා වෙයි.
+
+එරට කාලගුණ අංශ පුරෝකථනය කරන්නේ ඉදිරි දිනවලත් අධික වැසි වාර්තාවිය හැකි බවය.
+
+චීනයේ දකුණු සහ නිරතදිග පෙදෙස්වලින් මෙලෙස දින කිහිපයක සිට අධික වැසි සහිත අයහපත් කාලගුණ තත්ත්වයක් වාර්තා වී තිබේ.
+
+ප්‍රදේශයේ ගංගා පිටාර මට්ටමට ළඟා වෙමින් පවතින පසුබිමක වැසි තත්ත්වය ඉදිරි දිනවලත් පවතිනු ඇතැයි එරට කාලගුණ බලධාරීන් පවසයි.
+
+දැනටමත් දකුණු දිග චීනයේ ඇතැම් පෙදෙස් ජලයෙන් යටවී ඇති අයුරු විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ජලගැලීම් ඇතුළු කාලගුණය ආශ්‍රිත අනතුරුවලින් චීනයේ ෆුජියැන් සහ ගුඇන්ෂී නගරවලට වැඩි බලපෑම් එල්ල වී තිබේ.
+
+එමෙන්ම ජලගැලීම් හේතුවෙන් එම කලාපයෙන් එක් පුද්ගල මරණයක්ද වාර්තා වී ඇතැයි සඳහන් ය.
+
+ආපදාවට ලක්වී සිටින පිරිස් ආරක්ෂිත ස්ථාන වෙත යොමු කිරීමටත් මුදා ගැනීමේ සේවකයින් පියවර ගෙන ඇත.
+
+දකුණු චීනයේ පළාත් රැසකටම ජල ගැලීම් සම්බන්ධයෙන් සිව්වන මට්ටමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/c6230cd8.json)
+
+---
 
 ### Police disguise loot
 
@@ -82,17 +160,23 @@ In video published by the 112 Telegram channel, one was shown brandishing a knif
 
 ---
 
-### මිලියන 3250ක් වටිනා මත්කුඩු තොගයක් අත්අඩංගුවට
+### 3250 million worth of drugs
 
 *2024-06-16 17:03:29* · [`adalk`](https://www.ada.lk/breaking_news/මිලියන-3250ක්-වටිනා-මත්කුඩු-තොගයක්-අත්අඩංගුවට/11-410240) · `si`
 
-බහුදින ධීවර යාත්‍රාවක සකස් කළ කුටීර තුළ සූක්ෂම ලෙස සඟවා ප්‍රවාහනය කරමින් තිබු රුපියල් මිලියන 3250 කට අධික වටිනාකමකින් යුත් හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 131යි ග්‍රෑම් 754 සමග පුද්ගලයින් 06දෙනෙකු දෙවුන්දර සිට දකුණු දෙසට නාවික සැතපුම්356 ක් පමණ  දුරින් වූ ගැඹුරු මුහුදේ තිරයේ දි අත්අඩංගුවට ගැනීමට නාවික හමුදාව සමත්වී තිබුණී. නාවුක සැතපුම් 356ක දුරකදී මෙම අත් අඩංගුවට ගැනීම සිදුවී ඇත.
+In a major drug bust, the Sri Lanka Navy intercepted a shipment of heroin valued at $32.5 million, seizing 131 kg of the substance near Dondra, 35 miles from Deva. The operation, led by the Sri Lanka Naval Ship Parakramabahu Thero, resulted in the arrest of six suspects aged 23 to 43, all residents of Dondra and Gandara. These individuals were later transferred to the Police Narcotics Bureau for further legal proceedings.
 
-ශ්‍රී ලංකා වෙරළාරක්ෂක දෙපාර්තමේන්තුවට ලද බුද්ධි තොරතුරකට අනුව ශ්‍රී ලංකා නාවික හමුදාව ශ්‍රී ලංකා නාවික නෞකා පරාක්‍රමබාහු නෞකාව යොදවා සිදුකල විශේෂ සෝදිසි මෙහෙයුමකදි මෙම මත්ද්‍රව්‍ය තොගය සමග සැකකරුවන් අත්අඩංගුවට ගෙන ඇත. මෙම මෙහෙයුම මඟින් අත්අඩංගුවට ගත් සැකරුවන් වයස අවුරුදු 23ත් 43ත් අත‍ර වන දෙවුන්දර සහ ගන්දර යන ප්‍රදේශයන්හි පදිංචිකරුවෝ වෙති. අත්අඩංගුවට ගත් හෙරොයින් මත්ද්‍රව්‍ය තොගය, හා  සැකකරුවන් හය දෙනා සහ බහුදින ධීවර යාත්‍රාව  ගාල්ල වරාය වෙත රැගෙන එනු ලැබිය. ඉදිරි නීතිමය කටයුතු සඳහා  සැකකරුවන් හය දෙනා සහ මත්ද්‍රව්‍ය තොගය පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය වෙත භාරදී ඇත.
+🟩
+
+Navy has scored 131 kilograms of heroin, with more than 131 grams of heroin, with more than 131 grams of heroin in Dondra, 35 miles from Deva.. The arrest had taken place in 356 naval miles.
+
+Intelligence to the Sri Lanka Coast Guard, the Sri Lanka Navy has arrested the suspects in a special search operation conducted by the Sri Lanka Naval Ship Parakramabahu Thero.. The suspects were residents of Dondra and Gandara areas where the operation was aged between 23 and 43 years old. Heroin arrested and taken to Galle Harbor, six suspects and six suspects and multi-day. The six suspects and the suspects have been handed over to the Police Narcotics Bureau for future legal matters.
 
 ◼️
 
 [Data](articles/37789d67.json)
+
+[Extended Data](ext_articles/37789d67.ext.json)
 
 ---
 
@@ -2221,97 +2305,5 @@ Watch the full story of that wonderful young man who brings Nudun Amaratne for A
 [Data](articles/33905e66.json)
 
 [Extended Data](ext_articles/33905e66.ext.json)
-
----
-
-### Sri Lanka women's group beat Sri Lanka
-
-*2024-06-15 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197793) · `si`
-
-In a thrilling match, Sri Lanka's women's cricket team secured a victory against the West Indies women's team by 6 wickets. After winning the toss and choosing to bat first, the West Indies managed to score 195 runs in 197 overs. Sri Lanka's bowlers, Sugandika Kumari and Kavith Dilhari, were instrumental in this feat, each taking three wickets. In their chase, Sri Lanka reached the target of 196 runs in just 34 overs, losing only 4 wickets in the process.
-
-🟩
-
-Sri Lanka won the ODI between the West Indies women's group and the Sri Lanka women's group by 6 wickets.
-
-The Sri Lankan team won the toss and elected to bat first.
-
-Accordingly, West Indies women scored 195 runs for the loss of 197 overs.
-
-Sugandika Kumari and Kavith Dilhari took three wickets each.
-
-Chasing 196, Sri Lanka women scored 34 overs and the loss of 4 wickets in one ball.
-
-◼️
-
-[Data](articles/0a2843e5.json)
-
-[Extended Data](ext_articles/0a2843e5.ext.json)
-
----
-
-### Rental Income Tax to be introduced in Sri Lanka
-
-*2024-06-15 17:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அறிமுகப்படுத்தப்படவுள்ள-வாடகை-வருமான-வரி/175-338936) · `ta`
-
-Sri Lanka will implement a rental income tax on residential properties starting April 1, 2025, aiming full rollout by 2026. The decision comes from the International Monetary Fund during its second review of Sri Lanka's loan facility program.
-
-🟩
-
-The International Monetary Fund has decided to introduce a rental income tax on residential assets from April 1, 2025.
-
-The International Monetary Fund has said that Sri Lanka is aimed at fully implementing the tax system by 2026.
-
-This was stated in a statement released after a second review of the loan facility program with Sri Lanka. Remble
-
-◼️
-
-[Data](articles/87f55087.json)
-
-[Extended Data](ext_articles/87f55087.ext.json)
-
----
-
-### The corpse recovery at the beach
-
-*2024-06-15 17:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கரையில்-உருகுலைந்த-நிலையில்-சடலம்-மீட்பு/175-338935) · `ta`
-
-A body found near Madathuveli, Jaffna-Kayts, was transported to Jaffna Teaching Hospital for autopsy after being discovered in a melted state by local police.
-
-🟩
-
-The body of a person has been hit by a melting area on the Madathuveli coastal area of ​​Jaffna - Kayts.
-
-The body has been sent to the Jaffna Teaching Hospital for examination after investigations by the Kayts police.
-
-◼️
-
-[Data](articles/dfdf0fae.json)
-
-[Extended Data](ext_articles/dfdf0fae.ext.json)
-
----
-
-### What is this MPOx?
-
-*2024-06-15 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197792) · `si`
-
-MPOx, a disease, caused the death of two individuals aged 37 and 38 in South Africa within 24 hours. Six cases have been identified in 2024.
-
-🟩
-
-Another person who has been infected with MPOx has died in South Africa.
-
-It is reported that the second person died in 24 hours of the disease.
-
-The two died were aged 37 and 38 years old.
-
-Six infected persons have been found in 2024, in 2024.
-
-◼️
-
-[Data](articles/2dbacb49.json)
-
-[Extended Data](ext_articles/2dbacb49.ext.json)
 
 ---

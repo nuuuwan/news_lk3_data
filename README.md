@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 07:27:59**
+As of **2024-06-16 07:48:43**
 
 ## Newspaper Stats
 
-*Scraped **30,552** Articles*
+*Scraped **30,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,461
-tamilmirrorlk | 3,572
+tamilmirrorlk | 3,573
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,942
+adaderanasinhalalk | 4,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,544 (100.0%) of 30,552 articles have been extended.
+30,544 (100.0%) of 30,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### එංගලන්තයට ජය
+
+*2024-06-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197801) · `si`
+
+20යි 20 ලෝකකුසලාන තරගාවලියේ B කාණ්ඩය යටතේ එංගලන්තය සහ නැමීබියාව අතර තරගය අද (16) පැවැත් වුණි.
+
+අයහපත් කාලගුණයෙන් බාධා එල්ල වූ එම තරගය DLS ක්‍රමවේදයට අනුව ලකුණු 41 කින් ජයගැනීමට එංගලන්ත කණ්ඩායම සමත්විය.
+
+එහිදී පළමුවෙන් පන්දුවට පහරදුන් එංගලන්ත කණ්ඩායම සිය පන්වාර 10 තුළදී කඩුලු 5කට ලකුණු 122ක් රැස් කළේය.
+
+ඒ අනුව, පිළිතුරු ඉනිම ක්‍රීඩාකළ නැමිබීයා කාණ්ඩායමට රැස්කර ගත හැකි වූයේ කඩුලු 03ක් දැවී ලකුණු 84ක් පමණි.
+
+◼️
+
+[Data](articles/383c33db.json)
+
+---
 
 ### Weather today
 
@@ -161,6 +179,22 @@ He said that there were around 100,000 ex-servicemen with arms training now in s
 [Data](articles/fbcd031f.json)
 
 [Extended Data](ext_articles/fbcd031f.ext.json)
+
+---
+
+### தீபச்செல்வன் விசாரணைக்கு அழைப்பு
+
+*2024-06-16 00:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபச்செல்வன்-விசாரணைக்கு-அழைப்பு/175-338957) · `ta`
+
+எழுத்தாளர் தீபச்செல்வனை மீண்டும் விசாரணைக்கு வருமாறு பயங்கரவாதத் தடுப்புப் பிரிவு எழுத்து மூலம் அழைப்பு விடுத்துள்ளது.
+
+எதிர்வரும் 24ஆம் திகதி மீண்டும் விசாரணைக்கு வருமாறு பயங்கரவாதத் தடுப்புப் பிரிவு அழைத்துள்ளது என்று  தீபச்செல்வன் தெரிவித்துள்ளார்.
+
+ஈழத்தின் மூத்த எழுத்தாளரின் புத்தக வெளியீட்டை நடத்தியமைக்காகக் கடந்த ஏப்ரல் 11ஆம் திகதி தீவிர விசாரணைக்குத் தான் உட்படுத்தப்பட்டிருந்த நிலையில் மீண்டும் இவ்வாறு விசாரணைக்கு அழைப்பு விடுக்கப்பட்டுள்ளது என்றும் அவர் கூறியுள்ளார். (a)
+
+◼️
+
+[Data](articles/8920972c.json)
 
 ---
 
@@ -2195,39 +2229,5 @@ It is important to note that supporting these initiatives is the duty of Governm
 [Data](articles/d435808b.json)
 
 [Extended Data](ext_articles/d435808b.ext.json)
-
----
-
-### Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalutara District
-
-*2024-06-15 01:11:00* · [`islandlk`](http://island.lk/cinnamon-bey-beruwala-pioneers-installation-of-first-ever-ocean-strainer-in-kalutara-district/) · `en`
-
-Cinnamon Bey Beruwala proudly announces the launch of a significant environmental initiative as part of the Clean Water Project by John Keells Holdings (JKH). Coinciding with the World Environment Day and World Ocean Day celebrations, the first ever ocean strainer was installed in the Beruwala canal, marking a pivotal step towards improving water quality and marine conservation in the Kaluthara district.
-
-With the collaborative efforts of the John Keells Foundation, MAS Holdings, the Beruwala Urban Council, and the National Waste Management Centre, the project was successfully implemented within a week of its initiation. This installation represents the initial phase of a broader effort to reduce marine pollution and protect coastal ecosystems. The ocean strainer will play a crucial role in filtering waste from the canal, preventing it from reaching the ocean and causing harm to marine life.
-
-...
-
-[Data](articles/a4122167.json)
-
-[Extended Data](ext_articles/a4122167.ext.json)
-
----
-
-### Discussion on “Sri Lanka’s economic security in 2024 – evaluating outlook and risks”
-
-*2024-06-15 01:10:46* · [`dailyftlk`](https://www.ft.lk/news/Discussion-on-Sri-Lanka-s-economic-security-in-2024-evaluating-outlook-and-risks/56-763116) · `en`
-
-The Institute of National Security Studies (INSS) organised a closed-door Round Table Discussion (RTD) on “Sri Lanka’s economic security in 2024 – evaluating the outlook and risks” recently at the Nandimithra Auditorium, Ministry of Defence. Defence Secretary General Kamal Gunaratne graced the event as the Chief Guest.
-
-INSS Overlooking Director General and Acting Director (Research) Colonel Nalin Herath warmly received the Chief Guest to the discussion.
-
-INSS, the premier think tank on national security established and functioning under the Ministry of Defence organised the RTD which brought together esteemed voices to deliberate on pressing thematic issues.
-
-...
-
-[Data](articles/fb042dc7.json)
-
-[Extended Data](ext_articles/fb042dc7.ext.json)
 
 ---

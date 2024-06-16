@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 15:04:21**
+As of **2024-06-16 15:19:19**
 
 ## Newspaper Stats
 
-*Scraped **30,609** Articles*
+*Scraped **30,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,60 @@ newsfirstlk | 363
 islandlk | 1,670
 economynextcom | 1,778
 dailyftlk | 1,863
-adalk | 2,640
+adalk | 2,641
 adaderanalk | 3,468
 tamilmirrorlk | 3,581
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,957
+adaderanasinhalalk | 4,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,608 (100.0%) of 30,609 articles have been extended.
+30,609 (100.0%) of 30,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### මතගැටුම් මැද කැනඩාව සහ ඉන්දියාව තීරණයක් ගනී
+### මුහුදු වෙරළක් කළු වෙයි
+
+*2024-06-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197817) · `si`
+
+සිංගප්පූරුවේ සැනටෝසා දූපත් වෙරළ තීරය කළු පැහැ වී තිබෙන අයුරු විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+වෙරළ තීරය පිරිසිදු කිරීම් කටයුතු ආරම්භ කර ඇති අතර ප්‍රදේශය තාවකාලිකව වසා දැමීමටත් බලධාරීන් පියවර ගත්තා.
+
+◼️
+
+[Data](articles/f99a4ac6.json)
+
+---
+
+### Canada and India make a decision in the middle of the disagreement
 
 *2024-06-16 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197816) · `si`
 
-කැනේඩියානු අග්‍රාමාත්‍ය ජස්ටින් ටෲඩෝ ඉන්දියාව සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් සිදු කර තිබේ.
+In the midst of a dispute, Canada and India reached a decision. Canadian PM Justin Trudeau issued a statement about India. Reports suggest discussions were held between the two nations' leaders, focusing on cooperation despite past tensions, particularly over a civil servant's murder in Canada.
 
-G7 සමුළුවට සමගාමීව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහ කැනේඩියානු අග්‍රාමාත්‍ය ජස්ටින් ටෲඩෝ අතර හමුවක් සිදුවී ඇත.
+🟩
 
-එහිදී දෙරටේ සම්බන්ධතා පිළිබඳ සාකච්ඡා කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Canadian Prime Minister Justin Trodedo has made a special statement regarding India.
 
-පසුව කැනේඩියානු අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇත්තේ ඉදිරි කාලවලදී එකට වැඩ කිරීමට දෙරට කැපවිය යුතු බවය.
+Indian Prime Minister Narendra Modi and Canadian Prime Minister Jarendra Modi and Canadian Prime Minister Jarendra Modi and Canadian Prime Minister Handked Among the G7.
 
-කැනඩාවේදී සිදුවූ සික් ජාතිකයෙකුගේ ඝාතනයක් පදනම් කර ගනිමින් දෙරට අතර අර්බුදයක් හටගෙන තිබුණි.
+Foreign media reports that the two countries have discussions discussed.
+
+Later, the Canadian Prime Minister said that the two countries should be dedicated to work together.
+
+There was a crisis between the two countries based on a murder of a civilized in Canada.
 
 ◼️
 
 [Data](articles/0e803597.json)
+
+[Extended Data](ext_articles/0e803597.ext.json)
 
 ---
 
@@ -225,6 +245,24 @@ Secretary of the National Construction Employees' Association Secretary Supun Ab
 [Data](articles/8b8eea62.json)
 
 [Extended Data](ext_articles/8b8eea62.ext.json)
+
+---
+
+### පොසොන් උත්සවයට අරමුදල් සොයා පිඩු සිඟා වඩින ලෝක රූ රැජිනක්ව සිට පැවිදි දිවියට පත් එලිසබත් සුජාතා භික්
+
+*2024-06-16 12:47:11* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-අරමුදල්-සොයා-පිඩු-සිඟා-වඩින-ලෝක-රූ-රැජිනක්ව-සිට-පැවිදි-දිවියට-පත්-එලිසබත්-සුජාතා-භික්/11-410238) · `si`
+
+රාජ්‍ය අනුග්‍රහය ලබා නොගෙන පවත්වන මෙවර පැවැත්වෙන 2332 වන පොසොන් පිංකම සඳහා ජනතාවගේ දායකත්වය ලබා ගැනීමට මිහින්තලේ නායක හිමියන්, ලෝක රූ රැජිනක්ව සිට පැවිදි දිවියට පත් එලිසබත් සුජාතා භික්‍ෂුණිය ඇතුළු මහා සංඝරත්නය පෙරේදා (15දා)  පිඬුසිඟා වැඩම කළහ.
+
+මෙවර පොසොන් උත්සවය සඳහා රාජ්‍ය අනුග්‍රහය නොලැබෙන බව පවසමින් ඊට අවශ්‍ය මූල්‍ය ප්‍රතිපාදන සොයා ගැනීම සඳහා ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවා හැංගුණවැවේ ධම්මරතන නායක හිමියන් ඇතුළු මහා සංඝරත්නය මෙලෙස  පිඩු සිඟා වැඩියහ.
+
+මෙම පිණ්ඩපාත චාරිකාව සඳහා එක් වූ ආචාර්ය එලිසබෙත් භික්ෂුණීය, පැවිදි දිවියට එළඹීමට පෙර වියට්නාමයේ රෑ රැජිණ ලෙස සිව් වතාවක් කිරුළු දරා , 2006 වසරේදී ලෝක රූ රැජින ලෙස  සිට පැවිදි දිවියට පත්ව අනතුරුව ජීවිතයේ යථාර්ථය අවබෝධ කරගෙන සියලු සම්පත් අතහැර පැවිදි දිවියට එක් වූහ.
+
+මෙහිදී අදහස් දැක්වූ එලිසෙබත් සුජාතා භික්‍ෂුණිය කියා සිටියේ මෙවර පොසොන් උත්සවය සඳහා තමන් ඇතුළු දූත පිරිස මිහින්තලයට වැඩම කළ බවය. තමන් ශ්‍රී ලංකාවට මෙන්ම මෙරට පුරවැසියන්ට වඩා කැමති බවත්, මෙවර පොසොන් උත්සවය සාර්ථක කර ගැනීම සඳහා නාහිමියන්ට උදව් උපකාර කරන බව කීහ.
+
+...
+
+[Data](articles/837a0676.json)
 
 ---
 
@@ -2269,55 +2307,5 @@ Minister of Foreign Affairs, President’s Counsel Ali Sabry, highlighted this d
 [Data](articles/ed570075.json)
 
 [Extended Data](ext_articles/ed570075.ext.json)
-
----
-
-### American team that was amazing world cricket field
-
-*2024-06-15 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197784) · `si`
-
-The U.S. cricket team made history by qualifying for the Super 8 stage of the T20 World Cup after defeating Ireland, marking their best performance in the tournament. This victory came as a surprise, especially since it led to Pakistan being eliminated from the competition early. The decision to cancel the match against Ireland due to rain ensured the U.S.'s progress.
-
-🟩
-
-The United States was able to qualify for the matches of the 8 World Cups.
-
-It is with the race yesterday (14) with Ireland.
-
-Accordingly, Pakistan had to leave the initially to enter the tournament.
-
-The first time Pakistan left the first round of Twenty20 World Cup history. In addition to Pakistan, Canada and Ireland lost the opportunity in addition to Pakistan.
-
-The judges decided to abandon the Irish match that was scheduled to be held at the Laurehill Stadium in Florida, USA.
-
-The bonus sign cry into both groups, and the US qualified for the Super 8 of the United States.
-
-Accordingly, India and USA qualified for the match of India and Australia in Australia and South Africa have also qualified for the Super World West Indies and Afghanistan.
-
-◼️
-
-[Data](articles/91b9968e.json)
-
-[Extended Data](ext_articles/91b9968e.ext.json)
-
----
-
-### Indian Foreign Minister Jayawaru
-
-*2024-06-15 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197783) · `si`
-
-Dr. S. Jayasankur, India's Foreign Minister, will visit Sri Lanka officially, originally scheduled for June 20.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jayasankur is due to arrive in Sri Lanka for an official visit.
-
-It is reported that he was to arrive in Sri Lanka on June 20.
-
-◼️
-
-[Data](articles/dd2e33f6.json)
-
-[Extended Data](ext_articles/dd2e33f6.ext.json)
 
 ---

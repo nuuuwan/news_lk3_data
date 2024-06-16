@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 11:34:53**
+As of **2024-06-16 11:54:14**
 
 ## Newspaper Stats
 
@@ -31,6 +31,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### HOW NOT TO RUN AN ELECTION (1956)
+
+*2024-06-16 11:29:00* · [`islandlk`](http://island.lk/how-not-to-run-an-election-1956/) · `en`
+
+As a Returning Officer, I played only second fiddle to the Government Agent, who was actually in charge of the Parliamentary Elections at the district level. However I was given definite duties: first, for staffing the polling booths with government staff officers; second, for supervising the actual process of elections in the polling booths; and third, for counting the ballots once the voting was done.
+
+My first job was difficult because many Sinhalese officers in those days were reluctant to come so far to a Tamil-speaking district. This was long before the Tigers became the major political or military force in those districts. I was able to overcome this difficulty because some of my Sinhalese friends shared my interest in jungles and lagoons, and they were eager to come as polling officers to the Eastern Province. I had to officially get them to staff the polling booths; but unofficially, I had also to look after them and provide social activities for them.
+
+...
+
+[Data](articles/2b692f8a.json)
+
+[Extended Data](ext_articles/2b692f8a.ext.json)
+
+---
+
+### On demeaning Anura Kumara Dissanayake
+
+*2024-06-16 11:27:00* · [`islandlk`](http://island.lk/on-demeaning-anura-kumara-dissanayake/) · `en`
+
+In Sri Lanka, Tamil politics took a dramatic turn this week when Sajith Premadasa and Anura Kumara Dissanayake visited members of the Tamil National Alliance. According to media reports, Premadasa has promised to implement the 13th Amendment, while Dissanayake has vowed to revisit issues like devolution and power sharing.
+
+This is not as shocking a development as one may assume; far more shocking developments have taken place in Sri Lankan politics. Nor should it surprise anyone it is taking place months before a presidential election, arguably the most crucial in recent years, is to be held.
+
+Both Premadasa and Dissanayake are veteran political stalwarts; both have been in active politics since the early 2000s. There is something cynical about the whole matter, but perhaps what is most cynical is that the TNA itself has accepted these visits and engaged with these delegations.
+
+...
+
+[Data](articles/3a270621.json)
+
+[Extended Data](ext_articles/3a270621.ext.json)
+
+---
+
+### Champika Ranawaka accuses ‘political underworld’ of thriving on narcotics
+
+*2024-06-16 11:26:00* · [`islandlk`](http://island.lk/champika-ranawaka-accuses-political-underworld-of-thriving-on-narcotics/) · `en`
+
+United Republican Front leader, Patali Champika Ranawaka, MP, says that Sri Lanka faces the danger of becoming a ‘narco-state’ if immediate action is not taken to stop the growth of what he describes as the ‘political underworld.’
+
+“There is a political underworld operating in this country in addition to the goon-run social underworld we are all aware of. This political underworld thrives on its nexus with drug cartels. It must be eliminated without further delay; otherwise, we will all suffer under a narco-state,” Ranawaka said during an interview with the Sunday Island on Thursday.
+
+He said that there were around 100,000 ex-servicemen with arms training now in society facing financial problems. “There are also 10,000 to 15,000 ex-LTTE cadres. They could be lured easily into criminal activity because of their financial problems.
+
+...
+
+[Data](articles/fbcd031f.json)
+
+[Extended Data](ext_articles/fbcd031f.ext.json)
+
+---
 
 ### Mathews apologises for Sri Lanka’s poor performance at T20 World Cup
 
@@ -637,42 +689,6 @@ This was much-needed exposure for him personally since part of the training was 
 [Data](articles/66ddbed0.json)
 
 [Extended Data](ext_articles/66ddbed0.ext.json)
-
----
-
-### On demeaning Anura Kumara Dissanayake
-
-*2024-06-16 00:53:00* · [`islandlk`](http://island.lk/on-demeaning-anura-kumara-dissanayake/) · `en`
-
-In Sri Lanka, Tamil politics took a dramatic turn this week when Sajith Premadasa and Anura Kumara Dissanayake visited members of the Tamil National Alliance. According to media reports, Premadasa has promised to implement the 13th Amendment, while Dissanayake has vowed to revisit issues like devolution and power sharing.
-
-This is not as shocking a development as one may assume; far more shocking developments have taken place in Sri Lankan politics. Nor should it surprise anyone it is taking place months before a presidential election, arguably the most crucial in recent years, is to be held.
-
-Both Premadasa and Dissanayake are veteran political stalwarts; both have been in active politics since the early 2000s. There is something cynical about the whole matter, but perhaps what is most cynical is that the TNA itself has accepted these visits and engaged with these delegations.
-
-...
-
-[Data](articles/3a270621.json)
-
-[Extended Data](ext_articles/3a270621.ext.json)
-
----
-
-### Champika Ranawaka accuses ‘political underworld’ of thriving on narcotics
-
-*2024-06-16 00:53:00* · [`islandlk`](http://island.lk/champika-ranawaka-accuses-political-underworld-of-thriving-on-narcotics/) · `en`
-
-United Republican Front leader, Patali Champika Ranawaka, MP, says that Sri Lanka faces the danger of becoming a ‘narco-state’ if immediate action is not taken to stop the growth of what he describes as the ‘political underworld.’
-
-“There is a political underworld operating in this country in addition to the goon-run social underworld we are all aware of. This political underworld thrives on its nexus with drug cartels. It must be eliminated without further delay; otherwise, we will all suffer under a narco-state,” Ranawaka said during an interview with the Sunday Island on Thursday.
-
-He said that there were around 100,000 ex-servicemen with arms training now in society facing financial problems. “There are also 10,000 to 15,000 ex-LTTE cadres. They could be lured easily into criminal activity because of their financial problems.
-
-...
-
-[Data](articles/fbcd031f.json)
-
-[Extended Data](ext_articles/fbcd031f.ext.json)
 
 ---
 
@@ -2351,29 +2367,5 @@ The President of the Association Sumedha Somaratne said that it is temporarily s
 [Data](articles/215c7419.json)
 
 [Extended Data](ext_articles/215c7419.ext.json)
-
----
-
-### President to be revealed about next week
-
-*2024-06-15 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197773) · `si`
-
-Next week, Sri Lanka's President Ranil Wickremesinghe will reveal details of a crucial committee meeting aimed at resolving the country's financial crisis. He emphasized the importance of education, vowing to establish the region's best system despite economic challenges. The President highlighted recent allocations for education and expressed optimism about overcoming bankruptcy post-meeting. He also mentioned progress in negotiations with the International Monetary Fund and plans to reduce unemployment and increase income through a new program. Additionally, he stressed the integration of technology into education and called for a shift from traditional politics towards implementing necessary economic reforms for the country's future development.
-
-🟩
-
-President Ranil Wickremesinghe says that the committee is officially granted in Sri Lanka is held next week.
-
-He said that after that meeting, he was able to quit bankruptcy to Sri Lanka.
-
-The President made these comments participating at a function held at the Buddhist Girls' National School School of Chilatha.
-
-The President also stated that the best education system in South Asia will be created in the country.
-
-...
-
-[Data](articles/53ae9263.json)
-
-[Extended Data](ext_articles/53ae9263.ext.json)
 
 ---

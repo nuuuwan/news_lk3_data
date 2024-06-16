@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 14:53:23**
+As of **2024-06-16 15:04:21**
 
 ## Newspaper Stats
 
-*Scraped **30,608** Articles*
+*Scraped **30,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,468
 tamilmirrorlk | 3,581
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,956
+adaderanasinhalalk | 4,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,608 (100.0%) of 30,608 articles have been extended.
+30,608 (100.0%) of 30,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### මතගැටුම් මැද කැනඩාව සහ ඉන්දියාව තීරණයක් ගනී
+
+*2024-06-16 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197816) · `si`
+
+කැනේඩියානු අග්‍රාමාත්‍ය ජස්ටින් ටෲඩෝ ඉන්දියාව සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් සිදු කර තිබේ.
+
+G7 සමුළුවට සමගාමීව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහ කැනේඩියානු අග්‍රාමාත්‍ය ජස්ටින් ටෲඩෝ අතර හමුවක් සිදුවී ඇත.
+
+එහිදී දෙරටේ සම්බන්ධතා පිළිබඳ සාකච්ඡා කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පසුව කැනේඩියානු අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇත්තේ ඉදිරි කාලවලදී එකට වැඩ කිරීමට දෙරට කැපවිය යුතු බවය.
+
+කැනඩාවේදී සිදුවූ සික් ජාතිකයෙකුගේ ඝාතනයක් පදනම් කර ගනිමින් දෙරට අතර අර්බුදයක් හටගෙන තිබුණි.
+
+◼️
+
+[Data](articles/0e803597.json)
+
+---
 
 ### Driving a driver who operated as an imperfection and seven murders in danger
 
@@ -2299,25 +2319,5 @@ It is reported that he was to arrive in Sri Lanka on June 20.
 [Data](articles/dd2e33f6.json)
 
 [Extended Data](ext_articles/dd2e33f6.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar to visit Sri Lanka next week
-
-*2024-06-15 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99893/indian-foreign-minister-jaishankar-to-visit-sri-lanka-next-week) · `en`
-
-The External Affairs Minister of India Dr. S. Jaishankar will arrive in Sri Lanka on an official visit on June 20, the Ministry of Foreign Affairs said.
-
-During a recent meeting with President Ranil Wickremesinghe in India, Dr. Jaishankar addressed the swift resumption of development projects initiated in Sri Lanka with Indian investments, which had been halted midway.
-
-He expressed his intent to visit Sri Lanka in the near future to oversee the progress of these activities. Minister Jaishankar assured that he would visit Sri Lanka soon to coordinate the Prime Minister’s visit and expedite the commencement of development projects funded by Indian investments.
-
-Minister Jaishankar has also noted plans for an industrial zone in Trincomalee, to be established by the Indian government, which will attract numerous Indian investors and potentially investors from other countries.
-
-◼️
-
-[Data](articles/c4a6acf0.json)
-
-[Extended Data](ext_articles/c4a6acf0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 05:37:17**
+As of **2024-06-16 06:02:59**
 
 ## Newspaper Stats
 
-*Scraped **30,537** Articles*
+*Scraped **30,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 279
 dbsjeyarajcom | 281
 bbccomsinhala | 298
 newsfirstlk | 363
-islandlk | 1,656
+islandlk | 1,669
 economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
@@ -26,9 +26,103 @@ adaderanasinhalalk | 4,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,537 (100.0%) of 30,537 articles have been extended.
+30,537 (100.0%) of 30,550 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-16 (Sunday)
+
+### SLT-MOBITEL Enterprise strengthens collaboration with MBSL to deliver cutting-edge connectivity solutions
+
+*2024-06-16 02:44:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-strengthens-collaboration-with-mbsl-to-deliver-cutting-edge-connectivity-solutions-2/) · `en`
+
+Committed to supporting customers’ evolving connectivity needs, SLT-MOBITEL Enterprise signed a bilateral agreement with the Merchant Bank of Sri Lanka & Finance PLC (MBSL), recently solidifying a new era of collaboration between the two organizations.
+
+The agreement was signed by Janaka Abeysinghe, CEO of SLT and Dammika Hapuhinna, CEO of MBSL at the MBSL Board Room, Colombo 03, in the presence of Lakmal Jayasinghe, Chief Business Officer – Enterprise Business of SLT-MOBITEL, and Thishan Gonagala, Asst. General Manager- IT of MBSL alongside officials representing SLT-MOBITEL and MBSL
+
+MBLS is a leading financial services provider in Sri Lanka with a rich history in the country and is recognized as a pioneer in trade finance and investment banking. The institution is one of Sri Lanka’s pioneering financial institutions, with an illustrious history spanning over 41 years.
+
+...
+
+[Data](articles/2e3cbf77.json)
+
+---
+
+### Ambassador in Jordan visits factory employing 1,100 Lankans
+
+*2024-06-16 02:44:00* · [`islandlk`](http://island.lk/ambassador-in-jordan-visits-factory-employing-1100-lankans/) · `en`
+
+Sri Lanka’s embassy in Jordan last week successfully concluded an outreach program in an apparel factory in Aqaba employing over 1,100 Lankans, located 325 km from Amman, with a view to easing difficulties employees may be facing, an embassy news release said.
+
+Ambassador Priyangika Wijegunasekara and her staff were welcomed to the GIA Apparel factory by its group operation manager, Saman N. Disanayakage, who offered 500 new employment opportunities for Sri Lankans in the upcoming projects, the release said.
+
+Addressing the gathering, the ambassador appreciated the importance of the role of the Sri Lankan workforce in the factory, not only in increasing Jordan’s exports but also in transferring knowledge and expertise to the Jordanian labour market. She also stressed the significant contribution made by them towards the Sri Lankan economy by transmitting foreign worker remittances to Sri Lanka.
+
+...
+
+[Data](articles/f4ae443d.json)
+
+---
+
+### Lanka Transformers links with Indian company
+
+*2024-06-16 01:42:00* · [`islandlk`](http://island.lk/lanka-transformers-links-with-indian-company/) · `en`
+
+In the dynamic landscape of the transformer industry, where innovation meets expertise, two industry giants, Lanka Transformers Ltd (LTL) and APAR Industries Ltd, have forged an alliance that promises to redefine standards and elevate benchmarks. This alliance comes as a culmination of rigorous evaluation and meticulous selection, with APAR clinching the bid to supply bulk volumes of Transformer Oils to Lanka Transformers Ltd., an LTL news release said.Established in 1980 as a joint venture between the Ceylon Electricity Board and Bonar Long of Scotland, Lanka Transformers Ltd has emerged as a beacon of excellence in transformer manufacturing.
+
+...
+
+[Data](articles/fbeceb4c.json)
+
+---
+
+### Pursuing an Engineering Degree in the UK
+
+*2024-06-16 01:02:00* · [`islandlk`](http://island.lk/pursuing-an-engineering-degree-in-the-uk/) · `en`
+
+(Excerpted from Simply Nahil, a biography of business leader and philanthropist Nahil Wijesuriya described on the book cover as a “Maverick with the Midas touch)
+
+During the period 1964-1967, in Nahil’s third year at Walkers (as a special apprentice), he firmly believed the Walkers engineering qualification was world-class, with the bonus of working in engineering workshops and going on board ships, which he enjoyed.
+
+This was much-needed exposure for him personally since part of the training was ‘onboard’ ship work which was very interesting. The apprentice used this opportunity to do a little bit of side business –buying cigarettes and scotch from the sailors on board at duty-free prices and selling them outside, which was a regular thing.
+
+...
+
+[Data](articles/66ddbed0.json)
+
+---
+
+### On demeaning Anura Kumara Dissanayake
+
+*2024-06-16 00:53:00* · [`islandlk`](http://island.lk/on-demeaning-anura-kumara-dissanayake/) · `en`
+
+In Sri Lanka, Tamil politics took a dramatic turn this week when Sajith Premadasa and Anura Kumara Dissanayake visited members of the Tamil National Alliance. According to media reports, Premadasa has promised to implement the 13th Amendment, while Dissanayake has vowed to revisit issues like devolution and power sharing.
+
+This is not as shocking a development as one may assume; far more shocking developments have taken place in Sri Lankan politics. Nor should it surprise anyone it is taking place months before a presidential election, arguably the most crucial in recent years, is to be held.
+
+Both Premadasa and Dissanayake are veteran political stalwarts; both have been in active politics since the early 2000s. There is something cynical about the whole matter, but perhaps what is most cynical is that the TNA itself has accepted these visits and engaged with these delegations.
+
+...
+
+[Data](articles/3a270621.json)
+
+---
+
+### Champika Ranawaka accuses ‘political underworld’ of thriving on narcotics
+
+*2024-06-16 00:53:00* · [`islandlk`](http://island.lk/champika-ranawaka-accuses-political-underworld-of-thriving-on-narcotics/) · `en`
+
+United Republican Front leader, Patali Champika Ranawaka, MP, says that Sri Lanka faces the danger of becoming a ‘narco-state’ if immediate action is not taken to stop the growth of what he describes as the ‘political underworld.’
+
+“There is a political underworld operating in this country in addition to the goon-run social underworld we are all aware of. This political underworld thrives on its nexus with drug cartels. It must be eliminated without further delay; otherwise, we will all suffer under a narco-state,” Ranawaka said during an interview with the Sunday Island on Thursday.
+
+He said that there were around 100,000 ex-servicemen with arms training now in society facing financial problems. “There are also 10,000 to 15,000 ex-LTTE cadres. They could be lured easily into criminal activity because of their financial problems.
+
+...
+
+[Data](articles/fbcd031f.json)
+
+---
 
 ### 2024-06-15 (Saturday)
 
@@ -1672,6 +1766,60 @@ The sea areas off the Kankesanthurai to Mannar and the coast extending from the 
 
 ---
 
+### HOW NOT TO RUN AN ELECTION (1956)
+
+*2024-06-15 04:16:00* · [`islandlk`](http://island.lk/how-not-to-run-an-election-1956/) · `en`
+
+As a Returning Officer, I played only second fiddle to the Government Agent, who was actually in charge of the Parliamentary Elections at the district level. However I was given definite duties: first, for staffing the polling booths with government staff officers; second, for supervising the actual process of elections in the polling booths; and third, for counting the ballots once the voting was done.
+
+My first job was difficult because many Sinhalese officers in those days were reluctant to come so far to a Tamil-speaking district. This was long before the Tigers became the major political or military force in those districts. I was able to overcome this difficulty because some of my Sinhalese friends shared my interest in jungles and lagoons, and they were eager to come as polling officers to the Eastern Province. I had to officially get them to staff the polling booths; but unofficially, I had also to look after them and provide social activities for them.
+
+...
+
+[Data](articles/2b692f8a.json)
+
+---
+
+### Ye Olde Resthouses
+
+*2024-06-15 04:16:00* · [`islandlk`](http://island.lk/ye-olde-resthouses/) · `en`
+
+A couple of Sundays ago, Gamini Peiris of Moratuwa wrote a letter to the editor of the Sunday Island, about resthouses and noted: “I write this brief note hoping for a response from some readers.” Dr. R P Fernando from Epsom, UK, responded with his opinion titled Long ago British residents of Colombo also loved resthouses and went on to quote lawyer Brook Eliot in his book Real Ceylon. Having been to many of the old, real resthouses with siblings and in-laws given to traveling around, and a husband who was forever planning holidays, I decided to take up the invitation to reminisce.
+
+...
+
+[Data](articles/b49a841a.json)
+
+---
+
+### British Merchants and Planters
+
+*2024-06-15 04:03:00* · [`islandlk`](http://island.lk/british-merchants-and-planters/) · `en`
+
+If it is now the end of the road for the agency houses (this article was first published March 1976), the event marks an important landmark in the Island’s history. It is a traumatic experience for those closely concerned, like the coffee crash in the middle of the last century when local banks were compelled to close down.
+
+Agency houses may be irrelevant in the present context and unless they have read the signs of the times ahead and sought other avenues, they too will be forced to put up their shutters. It is now fashionable to regard them as the principle instrument of exploitation adopted by the foreign capitalist. Their contribution to the development of the country is too easily forgotten. As Shakespeare’s Mark Antony said, “the evil that men do lives after them, the good is oft interred with their bones.”
+
+...
+
+[Data](articles/46906a5a.json)
+
+---
+
+### CSE’s implementation of shortened settlement cycle for equity trades proves successful
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/cses-implementation-of-shortened-settlement-cycle-for-equity-trades-proves-successful/) · `en`
+
+The Colombo Stock Exchange’s (CSE) implementation of the shortened settlement cycle for equity trades has been executed seamlessly with the first settlement under the T+ 2 cycle taking place on 12th June 2024, marking a significant milestone in Sri Lankan Capital Market operations. Investors have experienced swift payment processing, receiving their funds within two days for the first time since the cycle reduction.
+
+Following collaborative efforts with the Securities and Exchange Commission of Sri Lanka (SEC) and industry stakeholders, the transition to a T+2 settlement cycle on June 10th, 2024, has yielded tangible results. Investors now benefit from expedited fund transfers and security exchanges, with transactions settling within a shorter timeframe.
+
+...
+
+[Data](articles/03fa8139.json)
+
+---
+
 ### Bank of Ceylon celebrates 43 years of banking excellence in the Maldives
 
 *2024-06-15 01:43:00* · [`islandlk`](http://island.lk/bank-of-ceylon-celebrates-43-years-of-banking-excellence-in-the-maldives/) · `en`
@@ -1685,6 +1833,38 @@ Established on May 7th 1981, and granted its banking license on January 26th 198
 [Data](articles/0419dacb.json)
 
 [Extended Data](ext_articles/0419dacb.ext.json)
+
+---
+
+### Sri Lanka’s largest advertising festival sees global creatives in Colombo
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/sri-lankas-largest-advertising-festival-sees-global-creatives-in-colombo/) · `en`
+
+Sri Lanka’s advertising industry experienced an unprecedented surge of inspiration as the Four A’s Advertising Festival took place on the 30th and 31st of May, welcoming over 650 participants. Hosted at the Taj Samudra, Colombo, the event featured 13 sessions & 5 workshops by global creative speakers, each bringing a wealth of expertise to the stage. Powered by Unilever Sri Lanka and globally connected by SriLankan Airlines, the event concluded with an Awards Night recognizing impactful work and a buzzing after-party.
+
+The festival provided a platform for groundbreaking ideas and set a new benchmark for creative training in Sri Lanka’s advertising industry. Creative and advertising leaders took the stage, offering insightful and introspective talks and thought-provoking panel discussions on bolstering creativity, the impact of tech, and more.
+
+Cinnamon Bey Beruwala pioneers installation of first-ever Ocean Strainer in Kalutara District
+
+...
+
+[Data](articles/3c5fff87.json)
+
+---
+
+### PRCA Country Rep calls for ethics and standards in Sri Lanka’s advertising and marketing industry
+
+*2024-06-15 01:43:00* · [`islandlk`](http://island.lk/prca-country-rep-calls-for-ethics-and-standards-in-sri-lankas-advertising-and-marketing-industry/) · `en`
+
+Sri Lanka needs to put together a cohesive and comprehensive set of regulations and standards when it comes to advertising, marketing and communications and this should be done in consultation with various stakeholders in the industry, highlighted
+
+Thanzyl Thajudeen, the country representative of the Public Relations & Communications Association (PRCA), the world’s largest and influential PR body.
+
+Even though there exist certain codes, they are certainly not implemented in practice. And many of them stand in isolation such as those targeted at medicines, health and food sectors or other channels such as media, telco, or outdoor. The industry is lacking a unified framework, enabling opportunities for exploitation, many of which have contributed to social, economic and psychological dysfunctions.
+
+...
+
+[Data](articles/4ac93072.json)
 
 ---
 
@@ -2033,259 +2213,5 @@ Speaking at the event, President Ranil Wickremesinghe said Sri Lanka should adva
 [Data](articles/68822e65.json)
 
 [Extended Data](ext_articles/68822e65.ext.json)
-
----
-
-### Veterinary policy framework for Sri Lanka takes shape
-
-*2024-06-15 01:09:35* · [`dailyftlk`](https://www.ft.lk/news/Veterinary-policy-framework-for-Sri-Lanka-takes-shape/56-763114) · `en`
-
-Key initiative via joint effort of JICA Sri Lanka office and Department of Animal Production and Health
-
-Japan International Cooperation Agency (JICA) collaborated with the Department of Animal Production and Health to host a joint seminar and workshop for the formulation of the veterinary policy framework which will be laying the platform to guide holistic approach to livestock sector development in Sri Lanka.
-
-High-level officials from the Ministry of Agriculture and Plantation Industries, Central and Provincial Department of Animal Production and Health, private sector leaders, development partners active in livestock sector, and representative members of Sri Lanka Veterinary Association.
-
-...
-
-[Data](articles/b8159de1.json)
-
-[Extended Data](ext_articles/b8159de1.ext.json)
-
----
-
-### It is necessary to maintain the telephone agreement
-
-*2024-06-15 00:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-பேணுவது-அவசியம்/175-338929) · `ta`
-
-The IMF emphasizes maintaining Sri Lanka's agreement, highlighting readiness to consider alternatives if feasible within a specific timeframe. Despite economic challenges, improvements in inflation, revenue collection, and foreign reserves stabilization are noted.
-
-🟩
-
-The International Monetary Fund has insisted that it is necessary to maintain the agreement that Sri Lanka has signed.
-
-Peter Brewar, Chief of the International Monetary Fund, said this at a media briefing held yesterday. As he further stated,
-
-We are ready to learn about observations and alternative proposals to achieve the process. However, they should be seen as possible and achieved within the period of time.
-
-Sri Lanka's current reforms have deteriorated to the earliest level of the economy. Managing directors applauded the strong operation of the authorities under the financial cooperation program.
-
-The economy has been recovered. Inflation is low. Revenue collection has improved. Said the country's foreign reserves stabilized. (A)
-
-◼️
-
-[Data](articles/16eaa042.json)
-
-[Extended Data](ext_articles/16eaa042.ext.json)
-
----
-
-### Lack of anesthesia
-
-*2024-06-15 00:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயக்க-மருந்துக்கு-பற்றாக்குறை/175-338928) · `ta`
-
-Due to a shortage of anesthesia at Colombo National Hospital, surgeries had to be canceled. The Deputy Director General mentioned that the anesthetic supplies have arrived at the Colombo port and measures are being taken to distribute them.
-
-🟩
-
-It was announced yesterday that the lack of anesthesia at the Colombo National Hospital was forced to cancel surgery.
-
-Deputy Director General of the Medical Distribution Division of the Ministry of Health, Dr. G. Wijesuriya said,
-
-This anesthetic has been brought to the Colombo port. He said steps have been taken to distribute them. (A)
-
-◼️
-
-[Data](articles/2b00a7bf.json)
-
-[Extended Data](ext_articles/2b00a7bf.ext.json)
-
----
-
-### The telephone is ready to be the general candidate
-
-*2024-06-15 00:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுவேட்பாளராகக்-களமிறங்கத்-தயார்/175-338927) · `ta`
-
-Anandi Sasitharan, Secretary General of the Eelam Tamil Autonomy Association, announced his readiness to serve as a Tamil general candidate. He emphasized his commitment to representing the Eelam Tamils, highlighting his experience in international justice efforts post-2009. Sasitharan expressed his willingness to adapt to the necessary policies and support a stronger candidate if one emerges.
-
-🟩
-
-Anandi Sasitharan, Secretary General of the Eelam Tamil Autonomy Association, said that he is ready to field as a Tamil general candidate.
-
-He made this statement during a media briefing held at Vadamarachchi Media Home yesterday.As he further stated,
-
-It is my duty to bring to the attention of all who are concerned that I am ready to have a Tamil public field with the experience of training in the field with the experiences of participating in the journey of the International Justice, as the direct voice of the people affected by the ethnic cleansing war after 2009.
-
-It is my duty to inform the vast community that I am ready to transform me into a general representative of the Eelam Tamils ​​and that I am ready to be obliged to comply with the appropriate policy class.
-
-Moreover, I would like to point out that I am ready to support such a candidate if anyone who is more powerful than me has been able to establish it.. (A)
-
-◼️
-
-[Data](articles/832bde24.json)
-
-[Extended Data](ext_articles/832bde24.ext.json)
-
----
-
-### 2024-06-14 (Friday)
-
-### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
-
-*2024-06-14 23:40:14* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-s-leadership-qualities-Reply-to-Shantha-Jayarathne/4-763102) · `en`
-
-A reply to the write up published in the DFT on 4 June 2024 under the heading ‘Sajith Premadasa’s leadership qualities: A critique’ by Shantha Jayarathne (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa%E2%80%99s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.)
-
-The election fever is heating up in an unprecedented and virulent manner day in and day out despite the Presidential election being almost five months away and the Election Commission is still to announce the day to accept nominations.
-
-The political parties and political alliances are in a major strategic endeavour to overtake their rival political parties to ensure the victory at the polls. Many of them have no hesitation whatsoever to attack each other with hyperbolised comments and extremely vituperative, malicious and unfounded allegations more often than not, to score a few brownie points over their opponent.
-
-...
-
-[Data](articles/9a6a57f3.json)
-
-[Extended Data](ext_articles/9a6a57f3.ext.json)
-
----
-
-### ‘Sajith Premadasa’s leadership qualities’: Reply to Shantha Jayarathne
-
-*2024-06-14 23:40:14* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-Reply-to-Shantha-Jayarathne/14-763102) · `en`
-
-A reply to the write up published in the DFT on 4 June 2024 under the heading ‘Sajith Premadasa’s leadership qualities: A critique’ by Shantha Jayarathne (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa%E2%80%99s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.)
-
-The election fever is heating up in an unprecedented and virulent manner day in and day out despite the Presidential election being almost five months away and the Election Commission is still to announce the day to accept nominations.
-
-The political parties and political alliances are in a major strategic endeavour to overtake their rival political parties to ensure the victory at the polls. Many of them have no hesitation whatsoever to attack each other with hyperbolised comments and extremely vituperative, malicious and unfounded allegations more often than not, to score a few brownie points over their opponent.
-
-...
-
-[Data](articles/d9bb553e.json)
-
-[Extended Data](ext_articles/d9bb553e.ext.json)
-
----
-
-### A new constitution could be leveraged into transitional justice and economic development
-
-*2024-06-14 23:34:59* · [`dailyftlk`](https://www.ft.lk/columns/A-new-constitution-could-be-leveraged-into-transitional-justice-and-economic-development/4-763100) · `en`
-
-What we have witnessed in Sri Lanka is a massive concentration of power and often politicians have resorted to serving themselves or their cronies because concentration of power in one person is a dangerous weapon
-
-The judiciary holds its scales of justice evenly despite various attempts at stripping its powers. The legislature had made veiled threats aimed at the distinguished members of the Judiciary several times. Some learned Justices have been unceremoniously booted out from the office. The Standing Orders have not been properly adopted in compliance with the fundamental rights of the Constitution. A Constituent Assembly could look into all aspects of the Constitution and bring forth a new Constitution which will have the backing from the people of Sri Lanka. That can restore dignity to the people of Sri Lanka
-
-...
-
-[Data](articles/f81f8851.json)
-
-[Extended Data](ext_articles/f81f8851.ext.json)
-
----
-
-### Between two COPs: Key agenda items for the global climate negotiations for 2024
-
-*2024-06-14 23:31:39* · [`dailyftlk`](https://www.ft.lk/columns/Between-two-COPs-Key-agenda-items-for-the-global-climate-negotiations-for-2024/4-763099) · `en`
-
-SB60 brought together Parties to the UNFCCC and the Paris Agreement for two weeks of climate negotiations in Bonn, Germany
-
-From 3 to 13 June 2024, the 60th sessions of the Subsidiary Bodies (SB60) to the United Nations Framework Convention on Climate Change (UNFCCC) took place in Bonn, Germany. Like every year, these sessions mark the mid-point between two meetings of the Conference of the Parties (COP), the UNFCCC’s supreme decision-making body: in this case, COP28 in December 2023 and COP29 in November 2024. Accordingly, these mid-point negotiations play a key role to prepare for COP and lay the groundwork for decisions and outcomes at the end of the year based on the work of all Parties—including Sri Lanka—as well as non-Party stakeholders.
-
-...
-
-[Data](articles/ab023226.json)
-
-[Extended Data](ext_articles/ab023226.ext.json)
-
----
-
-### This committee does not accept ... - Catholic Church
-
-*2024-06-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197771) · `si`
-
-The Catholic Church criticizes the President's newly appointed committee for not implementing recommendations from a previous investigation into the Easter bombings. They demand a special officer or office to handle the case, questioning the impartiality of the current committee members. The church suggests involving the Attorney General and making parliamentary laws within three months to avoid further delays and ensure justice.
-
-🟩
-
-The Catholic Church emphasizes that the committee appointed by the President has not issued the committee appointed to investigate the pre-intelligence investigations on the Easter.
-
-At the Archbishop of Colombo, Syrippa Gamini demanded the President at a press conference held today (14) to be held in the attack, a special officer or an office in the attack.
-
-Pensioners High Court Judge to investigate the pre-intelligence incident on the Easter bombings. N. J. President Ranil Wickremesinghe recently appointed a committee chaired by Mrs. Alwis.
-
-Responding to the Catholic Church in a press conference held at the Archbishop's Medger today.
-
-...
-
-[Data](articles/45eceedf.json)
-
-[Extended Data](ext_articles/45eceedf.ext.json)
-
----
-
-### President prepare to send classes
-
-*2024-06-14 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197770) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of education in preparing for the 21st-century economy, highlighting the launch of the Public Learn Education Platform. He calls for MPs to understand this economic shift, suggesting educational classes could benefit them as well. The initiative aims to leverage digital technologies to enhance learning, focusing on a digital economy and intellectual development.
-
-🟩
-
-President Ranil Wickremesinghe says that the MPs should be held regarding the 21st century economy.
-
-The Public Learn Education Platform, or General Learning, was officially launched at the Presidential Secretariat yesterday (13).
-
-The Sri Lankan Diaspora is funded by the Sri Lankan Diaspora in the UK.
-
-...
-
-[Data](articles/b1f00476.json)
-
-[Extended Data](ext_articles/b1f00476.ext.json)
-
----
-
-### Large-scale Romania etc.
-
-*2024-06-14 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197769) · `si`
-
-In Sri Lanka, a person was arrested by the SLBFE's Special Investigation Division for allegedly cheating over Rs. 130 lakhs from 53 victims through an unlicensed employment agency in Godagama, Matara. The agency failed to provide promised jobs despite having a valid job license until February 29. The owner was arrested for violating the Bureau Act and later released on bail. The SLBFE advises potential foreign workers to verify job agencies' legitimacy and contact them via www.slbfe.lk or the 1989 hotline.
-
-🟩
-
-A person has been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The Bureau has received 53 complaints that the owner of the relevant institution in Godagama, Matara.
-
-According to the complaints, the amount of money that the suspect has been cheated is over Rs. 130 lakhs.
-
-The relevant employ agency is a previously registered employment agency, and the validity of the company's job license has been completed by February 29 without renewal of the company's job license.
-
-Despite the valid job order to provide homathena jobs, they have not taken steps to direct the complainants for employment.
-
-After the owner of the relevant employment to the Bureau of employment to the Bureau yesterday (13), the owner of the relevant employment was taken to the Bureau yesterday (13) and was arrested by violation of licenses in the Bureau Act.
-
-The suspect was produced before the Matara Magistrate's Court today on a personal bail of Rs.
-
-...
-
-[Data](articles/0af3cecb.json)
-
-[Extended Data](ext_articles/0af3cecb.ext.json)
-
----
-
-### Six arrested with 100kg of narcotics in fishing trawler
-
-*2024-06-14 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99886/six-arrested-with-100kg-of-narcotics-in-fishing-trawler) · `en`
-
-Six suspects in a multi-day fishing trawler have been arrested by Police Narcotics Bureau personnel along with over 100 kilograms of narcotics, the police said.
-
-The apprehended trawler has been subsequently escorted to the Galle harbor, according to police.
-
-◼️
-
-[Data](articles/2db388a0.json)
-
-[Extended Data](ext_articles/2db388a0.ext.json)
 
 ---

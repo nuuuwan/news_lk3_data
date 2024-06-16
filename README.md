@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 15:19:19**
+As of **2024-06-16 15:34:29**
 
 ## Newspaper Stats
 
-*Scraped **30,611** Articles*
+*Scraped **30,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,778
 dailyftlk | 1,863
 adalk | 2,641
 adaderanalk | 3,468
-tamilmirrorlk | 3,581
+tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,958
@@ -26,23 +26,49 @@ adaderanasinhalalk | 4,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,609 (100.0%) of 30,611 articles have been extended.
+30,611 (100.0%) of 30,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### මුහුදු වෙරළක් කළු වෙයි
+### A beach becomes black
 
 *2024-06-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197817) · `si`
 
-සිංගප්පූරුවේ සැනටෝසා දූපත් වෙරළ තීරය කළු පැහැ වී තිබෙන අයුරු විදෙස් මාධ්‍ය වාර්තා කරයි.
+The Shaantossa island coast near Singapore turned black due to coastal cleanings. Authorities covered the area temporarily.
 
-වෙරළ තීරය පිරිසිදු කිරීම් කටයුතු ආරම්භ කර ඇති අතර ප්‍රදේශය තාවකාලිකව වසා දැමීමටත් බලධාරීන් පියවර ගත්තා.
+🟩
+
+The Shaantossa island coast with Singapore is black.
+
+The coastal cleanings have begun and the authorities have taken steps to temporarily cover the area.
 
 ◼️
 
 [Data](articles/f99a4ac6.json)
+
+[Extended Data](ext_articles/f99a4ac6.ext.json)
+
+---
+
+### அம்பாறையில் கோபுரம் அமைப்பதில் முறுகல்
+
+*2024-06-16 14:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அம்பாறையில்-கோபுரம்-அமைப்பதில்-முறுகல்/74-338967) · `ta`
+
+சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட வீரமுனை கிராம  வீதி வரவேற்பு கோபுரம் அமைக்க  அடிக்கல் நாட்டும் நிகழ்வில் முறுகல் நிலை ஏற்பட்டுள்ளது.
+
+இச்சம்பவம்,   சனிக்கிழமை(15) முற்பகல் இடம்பெற்றுள்ளதுடன் குறித்த பணியினை ஆரம்பித்து வைக்க அடிக்கல் நட வருகை தந்த இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திர காந்தனுக்கு  நீதிமன்ற தடை உத்தரவு வழங்கப்பட்டுள்ளது.
+
+குறித்த நீதிமன்ற உத்தரவினை சம்மாந்துறை பொலிஸார் சம்பவ இடத்திற்கு சென்று வாசித்து காட்டியதுடன் அப்பகுதியில் இடம்பெறவிருந்த பதற்ற நிலைமையினை சீர் செய்தனர்.
+
+மேலும் கடந்த வெள்ளிக்கிழமை(14)  சம்மாந்துறை பொலிஸ் நிலையத்தில் வீரமுனை வரவேற்புக் கோபுரம் அமைப்பதற்கு எதிராக இரு  நபர்களினால் முறைப்பாடு ஒன்று  மேற்கொள்ளப்பட்டதற்கு அமைய இந்த நீதிமன்ற தடையுத்தரவு பெறப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+சம்மாந்துறை பொலிஸ் நிலைய பதில் பொறுப்பதிகாரி பிரதான பொலிஸ் பரிசோதகர் நௌபர்,   மன்றிக்கு சமர்ப்பித்த  அறிக்கையின் பிரகாரம்
+
+...
+
+[Data](articles/95200c8b.json)
 
 ---
 
@@ -248,21 +274,29 @@ Secretary of the National Construction Employees' Association Secretary Supun Ab
 
 ---
 
-### පොසොන් උත්සවයට අරමුදල් සොයා පිඩු සිඟා වඩින ලෝක රූ රැජිනක්ව සිට පැවිදි දිවියට පත් එලිසබත් සුජාතා භික්
+### Elizabath Sujatha, who is coming to the Poson Festival, is resorted to the world
 
 *2024-06-16 12:47:11* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-අරමුදල්-සොයා-පිඩු-සිඟා-වඩින-ලෝක-රූ-රැජිනක්ව-සිට-පැවිදි-දිවියට-පත්-එලිසබත්-සුජාතා-භික්/11-410238) · `si`
 
-රාජ්‍ය අනුග්‍රහය ලබා නොගෙන පවත්වන මෙවර පැවැත්වෙන 2332 වන පොසොන් පිංකම සඳහා ජනතාවගේ දායකත්වය ලබා ගැනීමට මිහින්තලේ නායක හිමියන්, ලෝක රූ රැජිනක්ව සිට පැවිදි දිවියට පත් එලිසබත් සුජාතා භික්‍ෂුණිය ඇතුළු මහා සංඝරත්නය පෙරේදා (15දා)  පිඬුසිඟා වැඩම කළහ.
+Elizabeth Sujatha, attending the Poson Festival, is celebrated globally. Leaders from Mihintale significantly contribute to the 2332 Poson Pinkama, sponsored by the same, with the Maha Sangha participating. Funds are allocated for the festival, including support for Dr. Elizabeth, the Vietnamese queen, who faced abandonment. Sujatha expresses her team's efforts for Mihintale's Poson Festival, aiming to assist both Sri Lanka's citizens and its monks. The event includes the Aloka Pooja, marking the start of the Poson Weeks, with the Mihindu Perahera in attendance.
 
-මෙවර පොසොන් උත්සවය සඳහා රාජ්‍ය අනුග්‍රහය නොලැබෙන බව පවසමින් ඊට අවශ්‍ය මූල්‍ය ප්‍රතිපාදන සොයා ගැනීම සඳහා ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවා හැංගුණවැවේ ධම්මරතන නායක හිමියන් ඇතුළු මහා සංඝරත්නය මෙලෙස  පිඩු සිඟා වැඩියහ.
+🟩
 
-මෙම පිණ්ඩපාත චාරිකාව සඳහා එක් වූ ආචාර්ය එලිසබෙත් භික්ෂුණීය, පැවිදි දිවියට එළඹීමට පෙර වියට්නාමයේ රෑ රැජිණ ලෙස සිව් වතාවක් කිරුළු දරා , 2006 වසරේදී ලෝක රූ රැජින ලෙස  සිට පැවිදි දිවියට පත්ව අනතුරුව ජීවිතයේ යථාර්ථය අවබෝධ කරගෙන සියලු සම්පත් අතහැර පැවිදි දිවියට එක් වූහ.
+The leaders of the Mihintale prevalently contributed to the 2332 Poson Pinkama, which is being sponsored by the 2332 Poson Pinkama this year, and the Maha Sangha and the Maha Sangha came to the ceremony.
 
-මෙහිදී අදහස් දැක්වූ එලිසෙබත් සුජාතා භික්‍ෂුණිය කියා සිටියේ මෙවර පොසොන් උත්සවය සඳහා තමන් ඇතුළු දූත පිරිස මිහින්තලයට වැඩම කළ බවය. තමන් ශ්‍රී ලංකාවට මෙන්ම මෙරට පුරවැසියන්ට වඩා කැමති බවත්, මෙවර පොසොන් උත්සවය සාර්ථක කර ගැනීම සඳහා නාහිමියන්ට උදව් උපකාර කරන බව කීහ.
+The Maha Sangha and the Maha Sangha, including Dhammaratana Leaders of the Historic Mihintala Rajamaha Viharaya, was also given the funds for the Poson Festival.
+
+Dr. Elizabeth for the monastery, Dr. Elizabeth for the monastery, the queen of Vietnam was crowned and was abducted in the Vietnam, and was abandoned by the world.
+
+Speaking at the meeting, Elizhebath Sujatha said he and other delegation had been working for Mihintale for this year's Poson Festival.. He said he would like to Sri Lanka as well as citizens of Sri Lanka and helps the monh to make this year's Poson festival.
+
+The historical Rajamaha Vihara Jayamaha Vihara Jayamaha Viharaya told the media by joining the Pandapanda Trip,
 
 ...
 
 [Data](articles/837a0676.json)
+
+[Extended Data](ext_articles/837a0676.ext.json)
 
 ---
 
@@ -1440,6 +1474,20 @@ He also said that he had been subjected to an intensive hearing on April 11 for 
 
 ---
 
+### விசேட பஸ் சேவை முன்னெடுப்பு
+
+*2024-06-16 00:01:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-பஸ்-சேவை-முன்னெடுப்பு/175-338956) · `ta`
+
+பொசன் பண்டிகையை முன்னிட்டு மஹவ ரயில் நிலையம் முதல் அனுராதபுரம் வரை விசேட பஸ் சேவையை முன்னெடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+ரயில் பாதை புனரமைப்பு பணிகள் காரணமாக மஹவ - அனுராதபுரத்திற்கிடையிலான ரயில் சேவை முன்னெடுக்கப்படாமையினால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/75a89139.json)
+
+---
+
 ### 2024-06-15 (Saturday)
 
 ### Juvenile export drop
@@ -1461,6 +1509,40 @@ It has been pointed out that the infection of the white E.. (A)
 [Data](articles/e4c0d91f.json)
 
 [Extended Data](ext_articles/e4c0d91f.ext.json)
+
+---
+
+### துப்பாக்கிச்சூடு நடத்திவிட்டு தப்பியோடியவர் கைது
+
+*2024-06-15 23:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூடு-நடத்திவிட்டு-தப்பியோடியவர்-கைது/175-338954) · `ta`
+
+மட்டக்களப்பு - காத்தான்குடியில் பெண் ஒருவர் மீது துப்பாக்கிச்சூடு நடத்தி தங்க நகைகள் மற்றும் பணத்தை கொள்ளையிட்டுச் சென்ற சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேற்படி பெண் தனது வீட்டில் இருந்த போது, அடையாளந்தெரியாத சந்தேகநபர் துப்பாக்கிச்சூட்டை மேற்கொண்டு, அவரிடமிருந்த தங்க நகைகள் மற்றும் 20 லட்சம் ரூபா பணத்தை கொள்ளையிட்டு தப்பியோடியுள்ளார்.
+
+32 வயதான பெண் ஒருவரே காயமடைந்தார் அவர் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+
+◼️
+
+[Data](articles/224973b9.json)
+
+---
+
+### மருந்து இன்மையால் நோயாளிகள் சிரமம்
+
+*2024-06-15 23:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-இன்மையால்-நோயாளிகள்-சிரமம்/175-338953) · `ta`
+
+மஹரகம அபேக்ஷா வைத்தியசாலையில் கீமோ சிகிச்சை முறைமைக்கு பயன்படுத்தப்படும் மருந்து இன்மையால் நோயாளிகள் பெரும் சிரமங்களை எதிர்கொண்டுள்ளனர்.
+
+அந்த மருந்தை சந்தையில் கொள்வனவு செய்வதாயின், சுமார் ஒரு லட்சம் ரூபா செலவாகுமென அரச மருந்தாளர் சங்கத்தின் தலைவர் துஷார ரணதேவ தெரிவித்துள்ளார்.
+
+ஜனாதிபதி நிதியம், நன்கொடைகள் மூலம் வழங்கப்படும் கீமோ சிகிச்சைக்கான மருந்துகள் போதுமானதாக இல்லையெனவும் அவர் தெரிவித்துள்ளார்.
+
+இந்நிலையில், நீண்டகாலமாக இந்த மருந்திற்கு நிலவும் தட்டுப்பாட்டினால் தாம் பெரிதும் பாதிக்கப்பட்டுள்ளதாக நோயாளர்கள் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/c8c370b9.json)
 
 ---
 
@@ -2213,99 +2295,5 @@ It is reported that during this amazement, he will focus on the resumption of de
 [Data](articles/059dab7e.json)
 
 [Extended Data](ext_articles/059dab7e.ext.json)
-
----
-
-### The Department of Examinations suspected of the results of 70 students at Zahira College, Trincomalee;Students who complained to Governor Senthil Thondaman
-
-*2024-06-15 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186144) · `ta`
-
-Zahira College, Trincomalee students complained to Governor Senthil Thondaman about their exam results being suspended due to not adhering to exam rules. The Department of Examinations confirmed the suspension. Governor Thondaman promised to address the issue with the department to find a solution.
-
-🟩
-
-Students lodged a complaint with the Governor of the Eastern Province Senthil Thondaman on Saturday regarding the suspension of the high -quality results of the Zahira College, Trincomalee.
-
-The Department of Examinations said that the results were suspended as they wrote the exams as they could not write the exams in accordance with the rules of the exams.. The students, who have been at the attention of the governor, have demanded that they take action to find a solution for them.
-
-Governor Senthil Thondaman accepted the demands of the students and assured the students that they would discuss their problems with the Department of Examinations and get a proper solution.
-
-◼️
-
-[Data](articles/2bfc4ff0.json)
-
-[Extended Data](ext_articles/2bfc4ff0.ext.json)
-
----
-
-### Chamo is a scholarship for Prabith
-
-*2024-06-15 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197785) · `si`
-
-Chamo, a 19-year-old cricketer, received a scholarship from Derana Media Network worth Rs. 25,000 per month under the "Maha Derana" project. She impressed during the Under 19 Triangular Cricket Tournament, scoring 52 runs in one match. This achievement highlights her potential for a bright future in cricket.
-
-🟩
-
-A sponsored scholarship was presented to another player who was taken to the International Sri Lanka, another player who was taken to the international inhabited by the Derana Media Networking of the Derana.
-
-The scholarship was awarded Chamo in the 19-year-old cricket team.
-
-She was able to attract the attention of the Triangular Cricket Tournament in the Under 19 years of age.
-
-Due to the 15-year-old chamokha, Panadhanda, 52 runs in the match with 42 runs.
-
-Chamho, a bright future, helped to help Prabith Derana "Scholarship Scholarship projects, the Derana Media Network of Rs. 25,000 per month under the" Maha Derana "scholarship project.
-
-◼️
-
-[Data](articles/bcf5ddc8.json)
-
-[Extended Data](ext_articles/bcf5ddc8.ext.json)
-
----
-
-### Police are searching for six people from the hunter, including a foreigner who hunted peacocks
-
-*2024-06-15 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186127) · `ta`
-
-In 2019 or 2020, a group of hunters, including a foreigner, killed a peacock in Sri Lanka's Madhuru Oya National Park and cooked it. The act was filmed and shared widely on social media, viewed by 80 million people. This led to public outcry and police investigations. The incident involved a five-member local community and was reported to the court by Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon. Peacocks are protected species in Sri Lanka, and this case highlighted the misuse of traditional hunting practices.
-
-🟩
-
-Police have carried out a search operation regarding a five -member community and a foreigner who hunted a peacock inside the Madhuru Oya National Park and cooked its meat.
-
-The incident, which took place in 2019 or 2020, has been recorded as a video of the video and has now been revealed on social media.
-
-The video has been watched by 80 million people and investigations have begun following the public's comment on the incident.
-
-Henanigala Wildlife Site Security Officer WM Kumarasiri Wijekon has informed the Magistrate's Court on the incident.
-
-The peacock, bow and arrow, have been used as a protected species in Sri Lanka.
-
-The highlights of the Veduwar community, the traditional system of the peacock, were soaked in honey and soaked in honey.
-
-◼️
-
-[Data](articles/43c470c5.json)
-
-[Extended Data](ext_articles/43c470c5.ext.json)
-
----
-
-### Russia to host high-level talks on repatriation of Sri Lankan military personnel
-
-*2024-06-15 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99894/russia-to-host-high-level-talks-on-repatriation-of-sri-lankan-military-personnel) · `en`
-
-A high level delegation headed by the State Minister of Foreign Affairs Tharaka Balasuriya is scheduled to visit Russia to arrange for the repatriation of Sri Lankan ex-military personnel deployed in Russia for military purposes and the related discussions will be held on June 26 and 27, said Minister of Foreign Affairs, President’s Counsel Ali Sabry.
-
-The Minister also noted that a team of officials has been tasked with reviewing the Cabinet paper submitted to decide on Sri Lanka’s potential membership in the BRICS organization. Their report is anticipated later this month.
-
-Minister of Foreign Affairs, President’s Counsel Ali Sabry, highlighted this during his participation in a Press conference at the Presidential Media Centre, focusing on the theme ‘Collective Path to a Stable Country’
-
-...
-
-[Data](articles/ed570075.json)
-
-[Extended Data](ext_articles/ed570075.ext.json)
 
 ---

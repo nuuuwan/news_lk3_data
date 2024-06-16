@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 13:34:34**
+As of **2024-06-16 13:53:40**
 
 ## Newspaper Stats
 
-*Scraped **30,597** Articles*
+*Scraped **30,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,83 @@ adaderanalk | 3,467
 tamilmirrorlk | 3,581
 virakesarilk | 4,691
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,954
+adaderanasinhalalk | 4,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,595 (100.0%) of 30,597 articles have been extended.
+30,597 (100.0%) of 30,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### ස්මාර්ට් ෆෝන් මිල දරා ගන්න පුළුවන් ද ?
+### යුක්තියෙන් රැකියාත් ලබාදෙයි
+
+*2024-06-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197814) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක "යුක්තිය" මෙහෙයුම යටතේ අත්අඩංගුවට ගත් මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් පුනුරුත්ථාපනය කිරීමේ "සුවසාර කැදැල්ල" වැඩසටහන පසුගියදා ආරම්භ වුණේ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ සංකල්පයකට අනුවය.
+
+එම වැඩසටහනට සමගාමීව පුනුරුත්ථාපනය වූ පුද්ගලයන් සඳහා රැකියා ලබාදීමේ වැඩසටහනක් බත්තරමුල්ල "අපේ ගම " පරිශ්‍රයේදී  ඊයේ (15) පැවැත්වුණි.
+
+එහිදී අදහස් දැක්වූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසා සිටියේ, යුක්තිය මෙහෙයුම ආරම්භ කිරීමත් සමඟ මෙරට තුළ අපරාධ ‍සියයට 23කින් අඩුවී ඇති බවය.
+
+"මත්ද්‍රව්‍ය බෙදාහැරීමේ ජාලය 90%ක් විනාශ කළා. මත්ද්‍රව්‍ය වැඩිම බස්නාහිර පළාතේ. නුගේගොඩ සහ ගල්කිස්ස මත්ද්‍රව්‍ය වැඩිම කොට්ඨාස. මේ ප්‍රදේශවල මත්ද්‍රව්‍ය සංස්කෘතියක් ඇතිවෙලා. යුක්තිය මෙහෙයුම නිසා 23%කින් අපරාධ අඩුවෙලා. 50%කින් අපරාධ අඩු කිරීම අපේක්ෂාවයි."
+
+එම අවස්ථාවට මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාද එක්වී සිටියේය.
+
+◼️
+
+[Data](articles/f15ba403.json)
+
+---
+
+### Can you be able to buy smartphones?
 
 *2024-06-16 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197812) · `si`
 
-ඉහළ දැමුණු මිල ගණන්වලට සාපේක්ෂව මෙතෙක් ජංගම දුරකථනවල මිල ගණන් පහත දමා නොමැති බවට සමස්ත ලංකා කොමියුනිකේෂන් හිමිකරුවන්ගේ සංගමය චෝදනා කරයි.
+The All Ceylon Communicine Owners Association claims that despite significant price hikes (up to 400%) for smartphones, sales have not decreased. The association's representative, Mr. Indrajith Perera, questions how consumers can afford such increases, especially considering the low-income bracket which makes up 35% of the population. He wonders if this 30% increase is manageable for them.
 
-වැඩිදුරටත් අදහස් දැක්වූ සමස්ත ලංකා කොමියුනිකේෂන් හිමිකරුවන්ගේ සංගමයේ සභාපති ඉන්ද්‍රජිත් පෙරේරා මහතා,
+🟩
 
-"ජංගම දුරකථනවල මිල වැඩිවීම ගත්තොත් 300%ත් 400%ත් අතර ප්‍රමාණයකින් වැඩි වුණා. පොඩි ජංගම දුරකථනයක ඉදලා හොඳ ස්මාර්ට් ජංගම දුරකථයක් දක්වා මේ වැඩිවීම සිදුවුණා. නමුත් දැන් අඩු වුණා කියලා කියනවා කට්ටිය. ඔව් අඩු වුණා යම් ප්‍රමාණයක්. නමුත් ප්‍රශ්නේ තියෙන්නේ... අඩු වුණ ප්‍රමාණය 30%ක 35%ක වගේ ප්‍රමාණයක්. 300%කින් 400%කින් වැඩි වුණ එකක් 35%කින් 30%කින් අඩු වුණාම එ්ක කොහෙමද දැනෙන්නේ ? ඒක කොහොමද පාරිභෝගිකයා දරා ගන්නේ ? ඒක දරා ගන්න පුළුවන් සතුටක්ද ? ප්‍රමාණයක්ද ? නෑ."
+The All Ceylon Communicine Owners Association alleges that the purchase of mobile phones has not been reduced compared to the increased prices.
+
+Speaking further, All Ceylon Communicine Owners Association Mr. Indrajith Perera said,
+
+"If the price of mobile phones is increased by 300% and 400%. This increment took place from a small mobile phone to a good smartphone. But the people say that. Yeah was down. But the problem is ... Low size is 35% of 30%. When a 300% increase by 300% of 400% of the increased by 30% when it is up to 30%?How's that a bare?Was it possible to bear it?A Size?not."
 
 ◼️
 
 [Data](articles/29fff93f.json)
 
+[Extended Data](ext_articles/29fff93f.ext.json)
+
 ---
 
-### ඉදිකිරීම් අමුද්‍රව්‍ය මිල ගණන් අඩු වෙයි
+### Construction raw materials reduce prices
 
 *2024-06-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197811) · `si`
 
-සිමෙන්ති, කම්බි ඇතුළු ඉදිකිරීම් අමුද්‍රව්‍යවල මිල ගණන් පහත වැටෙමින් පවතින බැවින් යළිත් වරක් ඉදිකිරීම් කටයුතු අරඹන ලෙස ජාතික ඉදිකිරීම් සේවක සංගමය ජනතාවගෙන් ඉල්ලා සිටී.
+The National Construction Employees Union urges the public to resume construction projects due to decreased prices of essential materials like cement and wire. This comes after a period of economic instability in Sri Lanka, where currency value and costs escalated. The union's secretary, Supun Abeysekara, highlights a positive turn with lower prices for cement, iron, and paint, along with reduced bank interest rates, making home building more affordable through loans.
 
-ශ්‍රී ලංකාව පසුගිය සමයේ මුහුණ දුන් ආර්ථික අර්බුදයත් සමග රුපියලේ අගය පහත වැටීම සහ තවත් කරුණු කිහිපයක් මුල් කරගනිමින් ඉදිකිරීම් ක්ෂේත්‍රයේ භාණ්ඩ සහ අමුද්‍රව්‍ය රැසක මිල ගණන් සීඝ්‍රයෙන්  ඉහළ ගොස් තිබුණි.
+🟩
 
-කෙසේ වෙතත්, ආර්ථිකය යළි ප්‍රකෘතිවීමත් සමග ඒවායේ මිල ගණන්වල අඩුවීමක් මේ වනවිට දක්නට ලැබෙන බව ජාතික ඉදිකිරීම් සේවක සංගමය සඳහන් කරයි.
+The National Construction Employees Union calls for the public to launched the construction work again as the prices of cement, wire and construction of construction.
 
-ඒ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ ජාතික ඉදිකිරීම් සේවක සංගමයේ ලේකම් සුපුන් අබේසේකර මහතා,
+With the economic crisis that Sri Lanka has faced the last season, the cost of the rupee and several other matters had increased rapidly.
 
-"පසුගිය කාලසීමාවේ ඉදිකිරීම් ක්ෂේත්‍රය සම්පූර්ණයෙන් වැටිලා තිබුණේ. අද වෙනෙකොට යම් ප්‍රකෘතිමත්වීමක් මේ ක්ෂේත්‍රයේ තියෙනවා. සිමෙන්ති, යකඩ, තීන්ත ඇතුළු අමුද්‍රව්‍යවල මිල ගණන් යම් මට්මකින් අඩුවෙලා තියෙනවා. සමස්තයක් විදිහට ගත්විට සතුටුවෙන්න පුළුවන් බැංකු පොලිය අඩුවෙලා තියෙනවා. අපි අදහස් කරනවා අපේ සේවාදායකයින්ට බැංකු ණයක් අරගෙන ගෙයක් හදාගන්න පුළුවන් වාතාවරණයක් යම් මට්ටමකට හැදිලා තියෙනවා කියලා."
+However, the National Construction Employees Union states that it is now a decrease in the prices of the economy with the return of the economy.
+
+Secretary of the National Construction Employees' Association Secretary Supun Abeysekara
+
+"The construction sector of the last time was completely fallen. Today there is another recovery in this field. Prices of cement, iron, paint have been reduced by some estimates. Overall, the bank's interest has been reduced. We mean that our clients have a bank loan and build a household. "
 
 ◼️
 
 [Data](articles/8b8eea62.json)
+
+[Extended Data](ext_articles/8b8eea62.ext.json)
 
 ---
 
@@ -2317,37 +2349,5 @@ In this case, a man who robbed the incident in Kattankudi was arrested in 3 hour
 [Data](articles/c58030c3.json)
 
 [Extended Data](ext_articles/c58030c3.ext.json)
-
----
-
-### Red Sea back on the Red Sea in the Red Sea
-
-*2024-06-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186124) · `ta`
-
-Haundi rebels attacked a Greek-owned vessel in the Red Sea, causing flooding near Hodaida, Yemen, disabling its mechanical room. The ship, carrying Filipino crew, was evacuated safely. Insurgents also targeted another vessel, Verbenea, damaging two more ships. They've used drones and missiles in the Red Sea since November, supported by the British security firm. The IMO's Secretary General expressed concern over the escalating situation.
-
-🟩
-
-Haundi rebels attack on Greek -owned business vessel in the Red Sea.
-
-Following the attack of the insurgents, the ship was safely evacuated.
-
-According to reports, a large number of water has been flooded by the attack near Hodaida as the port of Yemen.. The vessel was unable to pay because the mechanical room was unusable.
-
-It is reported that the servants of the ship, Duater, belonged to the Philippines.
-
-Haithi insurgents have claimed the attack on the ship and the attack on another vessel called Verbenea.
-
-Two more ships have been damaged due to their attack and their attack capacity has increased, a British security firm said.
-
-In the Gaza War, Haundi insurgents have been using unmanned aircraft and missiles in the Red Sea since November to express their support for the Palestinians.
-
-The Secretary General of the International Maritime Organization said the situation could not be allowed to continue.
-
-◼️
-
-[Data](articles/280a0fe7.json)
-
-[Extended Data](ext_articles/280a0fe7.ext.json)
 
 ---

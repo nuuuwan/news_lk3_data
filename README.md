@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 16:05:39**
+As of **2024-06-16 16:19:15**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,616 (100.0%) of 30,617 articles have been extended.
+30,617 (100.0%) of 30,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### පොලීසියේ ට්‍රැෆික් නිලධාරීන්ට ලැබෙන අලුත්ම ගාස්තුව මෙන්න
+### Here is the latest fee for the police traffic officials
 
 *2024-06-16 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197818) · `si`
 
-පොලිස් රථවාහන අංශවලට අනුයුක්තව රාජකාරී කරන නිලධාරීන්ට ගෙවනු ලබන ත්‍යාග මුදල් වැඩි කර ඇති බව පොලීසිය දැනුම්දෙයි.
+Police traffic division rewards have risen due to their efforts in challenging situations, ensuring public safety.
 
-මෙම පොලිස් නිලධාරීන් විවිධ දුෂ්කරතා මධ්‍යයේ ජනතාවගේ ජීවිත ආරක්ෂා කිරීමේ අරමුණින් කටයුතු කරන බවත් පොලීසිය පවසයි.
+🟩
 
-ඒ අනුව පොලිස් රථවාහන අංශවලට අනුයුක්තව රාජකාරී සිදුකරන නිලධාරීන්ට ගෙවනු ලබන ත්‍යාග මුදල් වැඩි කර මාසිකව ගෙවීමට තීරණය කර ඇත.
+The police are informed that the prizes paid to the police traffic divisions have been increased.
+
+Police officers are also working in the preservation of the people in the face of various difficulties.
+
+Accordingly, the prizes paid to the police traffic divisions have been increased to pay monthly.
 
 ◼️
 
 [Data](articles/7173244d.json)
+
+[Extended Data](ext_articles/7173244d.ext.json)
 
 ---
 

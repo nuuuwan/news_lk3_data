@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 15:34:29**
+As of **2024-06-16 15:53:38**
 
 ## Newspaper Stats
 
-*Scraped **30,615** Articles*
+*Scraped **30,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,670
 economynextcom | 1,778
 dailyftlk | 1,863
 adalk | 2,641
-adaderanalk | 3,468
+adaderanalk | 3,469
 tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,611 (100.0%) of 30,615 articles have been extended.
+30,615 (100.0%) of 30,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### Sri Lanka to conduct full feasibility study on land connection with India - President
+
+*2024-06-16 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99907/sri-lanka-to-conduct-full-feasibility-study-on-land-connection-with-india-president) · `en`
+
+President Ranil Wickremesinghe met with Most Rev. Dr. Fidelis Lionel Emmanuel Fernando, the Bishop of Mannar, Diocese of Mannar at the Mannar Bishops House today (16).
+
+The bishop of Mannar commended President Ranil Wickremesinghe for his economic reform efforts aimed at rescuing the country from its financial crisis. During their meeting, they also discussed future development plans for the Mannar district.
+
+Key topics included the development of Point Pedro and Mullaitivu as renewable energy hubs. Emphasis was placed on ensuring that these development activities are carried out in an environmentally friendly manner.
+
+During their discussion it was noted that negotiations are underway regarding the sale of surplus renewable energy to India. A feasibility study is currently being conducted on establishing a power line connection between Sri Lanka and India, with further discussions expected during the upcoming visit of the Indian Foreign Minister to Sri Lanka.
+
+...
+
+[Data](articles/87b4e466.json)
+
+---
 
 ### A beach becomes black
 
@@ -52,23 +70,31 @@ The coastal cleanings have begun and the authorities have taken steps to tempora
 
 ---
 
-### அம்பாறையில் கோபுரம் அமைப்பதில் முறுகல்
+### Clash in setting up tower in Amparai
 
 *2024-06-16 14:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அம்பாறையில்-கோபுரம்-அமைப்பதில்-முறுகல்/74-338967) · `ta`
 
-சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட வீரமுனை கிராம  வீதி வரவேற்பு கோபுரம் அமைக்க  அடிக்கல் நாட்டும் நிகழ்வில் முறுகல் நிலை ஏற்பட்டுள்ளது.
+A clash occurred during the foundation stone laying for a reception tower in Veeramunai, under the Samanthurai police division, involving the Minister of State Sivanesathurai Chandrakanthan. A court order was issued due to tensions, and complaints were made against the construction. The event was held despite concerns over public safety and traffic.
 
-இச்சம்பவம்,   சனிக்கிழமை(15) முற்பகல் இடம்பெற்றுள்ளதுடன் குறித்த பணியினை ஆரம்பித்து வைக்க அடிக்கல் நட வருகை தந்த இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திர காந்தனுக்கு  நீதிமன்ற தடை உத்தரவு வழங்கப்பட்டுள்ளது.
+🟩
 
-குறித்த நீதிமன்ற உத்தரவினை சம்மாந்துறை பொலிஸார் சம்பவ இடத்திற்கு சென்று வாசித்து காட்டியதுடன் அப்பகுதியில் இடம்பெறவிருந்த பதற்ற நிலைமையினை சீர் செய்தனர்.
+The foundation stone for the construction of the Veeramunai Village Road reception tower belonging to the Samanthurai police division
 
-மேலும் கடந்த வெள்ளிக்கிழமை(14)  சம்மாந்துறை பொலிஸ் நிலையத்தில் வீரமுனை வரவேற்புக் கோபுரம் அமைப்பதற்கு எதிராக இரு  நபர்களினால் முறைப்பாடு ஒன்று  மேற்கொள்ளப்பட்டதற்கு அமைய இந்த நீதிமன்ற தடையுத்தரவு பெறப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+The incident took place on Saturday (15) and the work of the Minister of State Sivanesathurai Chandra Kandan, who was on the lookout for the launch of the work, has been issued a court order.
 
-சம்மாந்துறை பொலிஸ் நிலைய பதில் பொறுப்பதிகாரி பிரதான பொலிஸ் பரிசோதகர் நௌபர்,   மன்றிக்கு சமர்ப்பித்த  அறிக்கையின் பிரகாரம்
+The court order went to the scene and read the scene and replied the tension in the area.
+
+It is also worth noting that the court has received a complaint by two persons against the construction of the Veeramunai reception tower at the Samanthurai police station last Friday.
+
+According to the report submitted to the Member of Police
+
+The Samanthurai Magistrate's Court has organized the foundation stone for the construction of a reception tower by the residents of Veeramunai on the road to Veeramunai at the Samanthurai Andiyadi Junction.
 
 ...
 
 [Data](articles/95200c8b.json)
+
+[Extended Data](ext_articles/95200c8b.ext.json)
 
 ---
 
@@ -1474,17 +1500,23 @@ He also said that he had been subjected to an intensive hearing on April 11 for 
 
 ---
 
-### விசேட பஸ் சேவை முன்னெடுப்பு
+### Special Bus Service initiative
 
 *2024-06-16 00:01:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-பஸ்-சேவை-முன்னெடுப்பு/175-338956) · `ta`
 
-பொசன் பண்டிகையை முன்னிட்டு மஹவ ரயில் நிலையம் முதல் அனுராதபுரம் வரை விசேட பஸ் சேவையை முன்னெடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+To address the lack of railway service between Mahawa and Anuradhapura during the Poson festival reconstruction, a special bus service will be launched from Mahawa Railway Station to Anuradhapura.
 
-ரயில் பாதை புனரமைப்பு பணிகள் காரணமாக மஹவ - அனுராதபுரத்திற்கிடையிலான ரயில் சேவை முன்னெடுக்கப்படாமையினால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. (a)
+🟩
+
+It has been decided to carry out a special bus service from the Mahawa Railway Station to Anuradhapura on the occasion of the Poson festival.
+
+This action has been taken due to the lack of a railway service between the Mahawa -Anuradhapura due to the reconstruction of the railway line.. (A)
 
 ◼️
 
 [Data](articles/75a89139.json)
+
+[Extended Data](ext_articles/75a89139.ext.json)
 
 ---
 
@@ -1512,37 +1544,49 @@ It has been pointed out that the infection of the white E.. (A)
 
 ---
 
-### துப்பாக்கிச்சூடு நடத்திவிட்டு தப்பியோடியவர் கைது
+### Arrested
 
 *2024-06-15 23:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூடு-நடத்திவிட்டு-தப்பியோடியவர்-கைது/175-338954) · `ta`
 
-மட்டக்களப்பு - காத்தான்குடியில் பெண் ஒருவர் மீது துப்பாக்கிச்சூடு நடத்தி தங்க நகைகள் மற்றும் பணத்தை கொள்ளையிட்டுச் சென்ற சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+In Batticaloa-Kattankudi, a suspect was arrested for allegedly shooting and robbing a woman in her home, taking jewelry and 20 lakh rupees. The victim, a 32-year-old woman, is hospitalized at the Batticaloa Teaching Hospital.
 
-மேற்படி பெண் தனது வீட்டில் இருந்த போது, அடையாளந்தெரியாத சந்தேகநபர் துப்பாக்கிச்சூட்டை மேற்கொண்டு, அவரிடமிருந்த தங்க நகைகள் மற்றும் 20 லட்சம் ரூபா பணத்தை கொள்ளையிட்டு தப்பியோடியுள்ளார்.
+🟩
 
-32 வயதான பெண் ஒருவரே காயமடைந்தார் அவர் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+A suspect has been arrested for allegedly robbing a woman in Batticaloa - Kattankudi.
+
+While the woman was in her home, the unidentified suspect fired at her and robbed her jewelery and 20 lakh rupees.
+
+A 32 -year -old woman was injured and she is receiving treatment at the Batticaloa Teaching Hospital.
 
 ◼️
 
 [Data](articles/224973b9.json)
 
+[Extended Data](ext_articles/224973b9.ext.json)
+
 ---
 
-### மருந்து இன்மையால் நோயாளிகள் சிரமம்
+### Difficulty in patients with lack of drug
 
 *2024-06-15 23:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-இன்மையால்-நோயாளிகள்-சிரமம்/175-338953) · `ta`
 
-மஹரகம அபேக்ஷா வைத்தியசாலையில் கீமோ சிகிச்சை முறைமைக்கு பயன்படுத்தப்படும் மருந்து இன்மையால் நோயாளிகள் பெரும் சிரமங்களை எதிர்கொண்டுள்ளனர்.
+Patients at Maharagama Abeksha Hospital face significant challenges due to the unavailability of essential chemotherapy drugs, costing around one lakh rupees each when bought privately. The situation worsens as funds from the presidential aid and donations fall short, leaving many patients severely impacted by the drug shortage.
 
-அந்த மருந்தை சந்தையில் கொள்வனவு செய்வதாயின், சுமார் ஒரு லட்சம் ரூபா செலவாகுமென அரச மருந்தாளர் சங்கத்தின் தலைவர் துஷார ரணதேவ தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி நிதியம், நன்கொடைகள் மூலம் வழங்கப்படும் கீமோ சிகிச்சைக்கான மருந்துகள் போதுமானதாக இல்லையெனவும் அவர் தெரிவித்துள்ளார்.
+Patients are facing great difficulties due to lack of medication used for the chemo treatment system at the Maharagama Abeksha Hospital.
 
-இந்நிலையில், நீண்டகாலமாக இந்த மருந்திற்கு நிலவும் தட்டுப்பாட்டினால் தாம் பெரிதும் பாதிக்கப்பட்டுள்ளதாக நோயாளர்கள் தெரிவித்துள்ளனர். (a)
+Dushara Ranadeva, president of the State Pharmacists Association, said that if the drug is purchased in the market, it will cost about one lakh rupees.
+
+He also said that the presidential fund and donations are not adequate for the treatment of chemo treatment.
+
+In this case, patients said they have been greatly affected by the shortage of this drug. (A)
 
 ◼️
 
 [Data](articles/c8c370b9.json)
+
+[Extended Data](ext_articles/c8c370b9.ext.json)
 
 ---
 
@@ -2275,25 +2319,5 @@ Another person's employee was intimidated by a bottle, and the employees were ri
 [Data](articles/7487dc18.json)
 
 [Extended Data](ext_articles/7487dc18.ext.json)
-
----
-
-### The Indian Foreign Minister is coming to Sri Lanka next week
-
-*2024-06-15 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186140) · `ta`
-
-Dr. S. Jaishankar, India's External Affairs Minister, visits Sri Lanka on the 20th, focusing on reviving development projects via Indian investments.
-
-🟩
-
-Indian External Affairs Minister Dr. S. Jaishankar has made an official visit to Sri Lanka on the 20th.
-
-It is reported that during this amazement, he will focus on the resumption of development projects in India through Indian investments in Sri Lanka.
-
-◼️
-
-[Data](articles/059dab7e.json)
-
-[Extended Data](ext_articles/059dab7e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 12:34:44**
+As of **2024-06-16 12:52:40**
 
 ## Newspaper Stats
 
-*Scraped **30,587** Articles*
+*Scraped **30,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,670
 economynextcom | 1,776
 dailyftlk | 1,863
-adalk | 2,635
-adaderanalk | 3,464
+adalk | 2,636
+adaderanalk | 3,466
 tamilmirrorlk | 3,581
 virakesarilk | 4,691
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,587 (100.0%) of 30,587 articles have been extended.
+30,587 (100.0%) of 30,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### President awards land deeds to people in Mannar under ‘Urumaya’ program
+
+*2024-06-16 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99904/-president-awards-land-deeds-to-people-in-mannar-under-urumaya-program) · `en`
+
+President Ranil Wickremesinghe has symbolically awarded 442 out of the allotted 5,000 land deeds to the people of Mannar district under the ‘Urumaya’ national program, the President’ Media Division (PMD) said.
+
+The programme was held at the Mannar Municipal Council Auditorium this morning (16).
+
+The ‘Urumaya’ national program is expected to grant 2 million freehold land deeds to people across the island.
+
+◼️
+
+[Data](articles/69c6960f.json)
+
+---
 
 ### A young man's murdered was murdered to be danced with his wife in music
 
@@ -62,6 +78,24 @@ The victim was a resident of Dodangoda, Dodangoda, 20-year-old youth.
 
 ---
 
+### ටිකිරි මැණිකේ වටගොඩ පාලමේදී පිලි පනියි
+
+*2024-06-16 11:47:11* · [`adalk`](https://www.ada.lk/breaking_news/ටිකිරි-මැණිකේ-වටගොඩ-පාලමේදී-පිලි-පනියි/11-410231) · `si`
+
+කොළඹ කොටුවේ  සිට නානුඔය බලා ධාවනය වෙමින් තිබු අංක 1023 දරණ ටිකිරි මැණිකේ සීඝ්‍රගාමි දුම්රිය තලවකැලේ සහ වටගොඩ දුම්රිය ස්ථාන අතර වටගොඩ  දුම්රිය පාලම මතදී පීලි පැනීමටකට ලක්වීමෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට අද (16) බාධා එල්ල වී පැවැතිණි.
+
+වටගොඩ දුම්රිය පාලම මතදී දුම්රියේ එන්ජීම සහිත කොටස මෙසේ පීලි පැනීමට ලක්වු බවත්, මේ හේතුවෙන් දුම්රිය මාර්ගයටද දැඩි අලාභ හානි  සිදුව තිබු බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
+
+මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය යතාතත්ත්වයට පත්වන තුරු කොළඹ කොටුවේ සිට ධාවනය වන දුම්රියන් හැටන් දුම්රිය ස්ථානය දක්වාත්, බදුල්ලේ සිට ධාවනය වන දුම්රියන් නානුඔය දුම්රිය ස්ථාන දක්වාත් ධාවනය කිරීමට පියවර ගෙන තිබිණි.
+
+මෙම පීලි පැනීමෙන් දුම්රිය මාර්ගයට සිදුව ඇති හානි හේතුවෙන් මාර්ගය සකස් කිරීමේ කටයුතු සඳහා වැඩි කාලයක් ගතවීමට ඉඩ ඇති බවත්, හැටන් සහ නානුඔය දුම්රිය ස්ථානවලට පැමිණෙන දුම්රිය මගීන් වෙනුවෙන්  බස් රථ මගින් ප්‍රවාහන පහසුකම් සලසාදීමට පියවර ගෙන තිබු බවද නාවලපිටිය දුම්රිය පාලක මැදිරියේ ප්‍රකාශකයෙකු පැවැසුහ.
+
+...
+
+[Data](articles/f252aaf8.json)
+
+---
+
 ### Senthil Thondaman met Rajini
 
 *2024-06-16 11:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஜினியை-சந்தித்தார்-செந்தில்-தொண்டமான்/175-338964) · `ta`
@@ -79,6 +113,24 @@ During the meeting, superstar Rajinikanth presented the 200th anniversary of the
 [Data](articles/c600dbda.json)
 
 [Extended Data](ext_articles/c600dbda.ext.json)
+
+---
+
+### Navy seizes narcotics worth over Rs. 9 billion so far in 2024
+
+*2024-06-16 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99903/navy-seizes-narcotics-worth-over-rs-9-billion-so-far-in-2024) · `en`
+
+The Sri Lanka Navy has reported that they have seized over 600 kg of heroin and crystal methamphetamine (‘Ice’) during the time elapsed this year.
+
+The Commander of Sri Lanka Navy, Vice Admiral Priyantha Perera further stated that the seized drugs, including heroin and ‘Ice’, are estimated to be valued at over Rs. 9,460 million.
+
+In a recent operation, the Sri Lanka Navy apprehended six suspects aboard a local multi-day fishing trawler carrying 131 kg of heroin, valued at over Rs. 3,250 million. The interception took place on June 14 on the high seas off Galle.
+
+The Navy Chief expressed these comments while joining an inspection of the relevant stock of drugs at the Galle Harbor.
+
+◼️
+
+[Data](articles/f2aa5956.json)
 
 ---
 
@@ -107,6 +159,22 @@ It is said that the necklace of the youth from the dance at the time was cut by 
 [Data](articles/448c32a1.json)
 
 [Extended Data](ext_articles/448c32a1.ext.json)
+
+---
+
+### HOW NOT TO RUN AN ELECTION (1956)
+
+*2024-06-16 11:29:00* · [`islandlk`](http://island.lk/how-not-to-run-an-election-1956/) · `en`
+
+As a Returning Officer, I played only second fiddle to the Government Agent, who was actually in charge of the Parliamentary Elections at the district level. However I was given definite duties: first, for staffing the polling booths with government staff officers; second, for supervising the actual process of elections in the polling booths; and third, for counting the ballots once the voting was done.
+
+My first job was difficult because many Sinhalese officers in those days were reluctant to come so far to a Tamil-speaking district. This was long before the Tigers became the major political or military force in those districts. I was able to overcome this difficulty because some of my Sinhalese friends shared my interest in jungles and lagoons, and they were eager to come as polling officers to the Eastern Province. I had to officially get them to staff the polling booths; but unofficially, I had also to look after them and provide social activities for them.
+
+...
+
+[Data](articles/2b692f8a.json)
+
+[Extended Data](ext_articles/2b692f8a.ext.json)
 
 ---
 
@@ -2281,95 +2349,5 @@ Primary balance can be a big surplus if the interest bill is high and capital ex
 [Data](articles/fc8984a6.json)
 
 [Extended Data](ext_articles/fc8984a6.ext.json)
-
----
-
-### Rumesh Tharanga sets new Sri Lanka and meet record at Asian Throwing Championships
-
-*2024-06-15 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99890/rumesh-tharanga-sets-new-sri-lanka-and-meet-record-at-asian-throwing-championships) · `en`
-
-Sri Lanka’s Rumesh Tharanga has renewed the meet record and Sri Lanka record in the Javelin Throw event after clinching the Gold Medal at the Asian Throwing Championships, a short while ago.
-
-Tharanga won gold at the Asian Throwing Championships with the new Sri Lanka record of 85.45m.
-
-The Asian Throwing Championships is being held in South Korea.
-
-◼️
-
-[Data](articles/82a6fc7c.json)
-
-[Extended Data](ext_articles/82a6fc7c.ext.json)
-
----
-
-### Railway strike temporarily called off
-
-*2024-06-15 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99889/railway-strike-temporarily-called-off) · `en`
-
-The Sri Lanka Railway Station Masters’ Union has decided to temporarily call off their planned strike action, with the suspension in effect until next Tuesday (18).
-
-This was announced by the President of the Railway Station Masters’ Union, Sumedha Somaratne.
-
-He explained that, “During the discussion with the General Manager of Railways, we received positive responses to some of our demands. However, they were unable to provide a specific answer regarding promotions and other issues.”
-
-He further elaborated that the Acting Minister participated in the discussions and identified a contradiction between the Cabinet paper sent by the department and the letter sent by the Ministry.
-
-“This discrepancy is the reason for the current problem,” Somaratne noted. He added that a correction has been approved and is promised to be addressed during the Public Service Commission meeting on Tuesday.
-
-...
-
-[Data](articles/3b13b31a.json)
-
-[Extended Data](ext_articles/3b13b31a.ext.json)
-
----
-
-### 6 arrested on the southern seas with 150 kg of narcotics
-
-*2024-06-15 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186106) · `ta`
-
-Six individuals were arrested by the Police Drug Prevention Unit after a naval operation intercepted a fishing boat carrying 150 kg of heroin in the South Sea. The boat was towed to Galle Harbor and impounded.
-
-🟩
-
-Six suspects have been arrested by the Police Drug Prevention Unit with 150 kg of narcotics in the fishing boat.
-
-A special roundup carried out by the Navy was seized yesterday (14) evening (14) in the South Sea.
-
-The drag boat was brought to the Galle Harbor and seized 150 kilograms of heroin.
-
-In this case, the police narcotics unit has arrested six people from the boat.
-
-◼️
-
-[Data](articles/ad797d4f.json)
-
-[Extended Data](ext_articles/ad797d4f.ext.json)
-
----
-
-### Mahinda Rajapaksa gave the people of the North
-
-*2024-06-15 09:23:56* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-ජනතාවට-නියම-නිදහස-දුන්නෙ-මහින්ද-රාජපක්ෂ/11-410219) · `si`
-
-Namal Rajapaksa mentioned that his father, Mahinda Rajapaksa, the 5th Executive President, aimed to strengthen ties between the North and the rest of Sri Lanka, emphasizing the importance of the 13th Amendment for provincial council representation. He highlighted the need for further study and understanding of the amendment to ensure it aligns with the people's wishes.
-
-🟩
-
-Namal Rajapaksa, the National Organizer of the Sri Lanka Civil Appointment, stated that he said this was the 5th Executive President Mahinda Rajapaksa, who was appointed to the North and the North and East.Namal Rajapaksa, Mr. Namal Rajapaksa,
-
-"I saw Sajith Premadasa go north and told the 13th Amendment to the North and North and the North and the North and the North and the North and the North and the North and the North and the North and the North
-
-Also, the Northern and the 13th Amendment to the North and Provincial Council representatives have been established to appoint the voting ownership of the North.
-
-The 13th Amendment is already in place.
-
-So the 13th Amendment is not available. We need to study further to the 13th Amendment to the 13th Amendment to the 13th Amendment.With the people's feelings "
-
-◼️
-
-[Data](articles/c3192611.json)
-
-[Extended Data](ext_articles/c3192611.ext.json)
 
 ---

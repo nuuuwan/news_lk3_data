@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 09:34:32**
+As of **2024-06-16 09:53:41**
 
 ## Newspaper Stats
 
-*Scraped **30,558** Articles*
+*Scraped **30,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,774
 dailyftlk | 1,863
 adalk | 2,629
 adaderanalk | 3,462
-tamilmirrorlk | 3,574
+tamilmirrorlk | 3,575
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,945
+adaderanasinhalalk | 4,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,558 (100.0%) of 30,558 articles have been extended.
+30,558 (100.0%) of 30,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### ගතවූ මාස 06ට මත්ද්‍රව්‍ය කිලෝ 600ට අධික තොගයක් නාවික හමුදා භාරයට
+
+*2024-06-16 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197805) · `si`
+
+මේ වසරේ ගතවූ කාලය තුළ මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 600කට අධික ප්‍රමාණයක් සිය භාරයට ගත් බව නාවික හමුදාව පවසයි.
+
+රුපියල් මිලියන 9,460කට අධික වටිනාකමකින් යුත් අයිස් සහ හෙරොයින් මත්ද්‍රව්‍ය එලෙස සිය භාරයට ගෙන ඇති බව නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා සඳහන් කළේය.
+
+බහුදින යාත්‍රාවක සූක්ෂම ලෙස සඟවා ප්‍රවාහනය කරමින් තිබූ රුපියල් මිලියන 3,250කට අධික වටිනාකමකින් යුත් හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 131ක ප්‍රමාණයක් සමග සැකකරුවන් 06 දෙනෙකු පෙරේදා (14) නාවික හමුදාව විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+එම මත්ද්‍රව්‍ය තොගය නිරීක්ෂණය කිරීමේ අවස්ථාවට ගාල්ල වරායේ දී එක්වෙමින් නාවික හමුදාපතිවරයා ඒ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/27a9102c.json)
+
+---
+
+### දියේ ගිලී පුද්ගලයෙක් මරුට
+
+*2024-06-16 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197804) · `si`
+
+පානම මුහුදු තීරයේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (15) සවස් කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, කල්මුණ ප්‍රදේශයේ පදිංචිව සිටි 34 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු පානම මුහුදු තීරයේ දිය නෑමට ගොස් සිටියේදී දියේ ගිලෙමින් සිට ඇත.
+
+එහිදී ප්‍රදේශවාසීන් විසින් ඔහුව ගොඩට ගෙන පානම රෝහලට ඇතුළු කිරීමේදී මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/787ba060.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -333,6 +371,28 @@ Sri Lanka's Dilhani Legamke won the bronze medal in women's spear throwing compe
 [Data](articles/0d30b82f.json)
 
 [Extended Data](ext_articles/0d30b82f.ext.json)
+
+---
+
+### ஆசிய ஈட்டி எறிதல் சாம்பியன்ஷிப்பில் இலங்கைக்கு தங்கம்
+
+*2024-06-15 23:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-ஈட்டி-எறிதல்-சாம்பியன்ஷிப்பில்-இலங்கைக்கு-தங்கம்/175-338951) · `ta`
+
+அது மாத்திரமன்றி, சுமேத ரணசிங்க மற்றும் தில்ஹானி லேகம் ஆகியோர் வெண்கலப்பதக்கம் வென்று தாயகத்திற்கு பெருமை ஈட்டிக் கொடுத்துள்ளனர்.
+
+இரண்டாவது தடவையாக நடத்தப்படும் ஆசிய எறிதல் சம்பியன்ஷிப் தொடருக்கான அனுசரணையை தென் கொரியா வழங்குகிறது.
+
+ஆடவருக்கான ஈட்டி எறிதல் போட்டியில் ருமேஷ் தரங்க 85.5 மீட்டருக்கு திறமையை வெளிப்படுத்தினார். இது இலங்கை சாதனையாகவும் போட்டி சாதனையாகவும் பதிவானது.
+
+எவ்வாறாயினும், 5 சென்டிமீட்டரால் அவர் ஒலிம்பிக் விழாவுக்கான வாய்ப்பை இழந்தார். ஒலிம்பிக் விழாவுக்கு தகுதி பெறுவதாயின், 85.50 மீற்றருக்கு திறமையை வெளிப்படுத்தியிருக்க வேண்டும்.
+
+இதேவேளை, இந்த போட்டியில் மற்றுமொரு இலங்கை வீரரான சுமேத ரணசிங்க வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 77.57 மீற்றருக்கு திறமையை வெளிப்படுத்தினார்.
+
+மகளிருக்கான ஈட்டி எறிதல் போட்டியில் இலங்கையின் தில்ஹானி லேகம்கே வெண்கலப்பதக்கம் வென்றார். போட்டியில் அவர் 57.94 மீற்றர் தூரத்திற்கு திறமையை வெளிப்படுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/bcbf99b7.json)
 
 ---
 
@@ -2215,55 +2275,5 @@ On Wednesday, Nawaratna announced he would temporarily step down from his positi
 [Data](articles/5a6cf710.json)
 
 [Extended Data](ext_articles/5a6cf710.ext.json)
-
----
-
-### Clear Vision, Shared Mission: Pan Asia Bank and Rotary Club of Kelaniya illuminate elderly eye care in Matara region
-
-*2024-06-15 01:16:00* · [`islandlk`](http://island.lk/clear-vision-shared-mission-pan-asia-bank-and-rotary-club-of-kelaniya-illuminate-elderly-eye-care-in-matara-region/) · `en`
-
-As the “Truly Sri Lankan Bank,” Pan Asia Bank successfully concluded a joint project with the Kelaniya Rotary Club to fulfill a pressing need in the Matara area. Together, they started a large-scale Corporate Social Responsibility (CSR) project to open an eye clinic designed with senior citizens in mind.
-
-The program’s main objectives were to elevate the quality of life and overall wellbeing of senior citizens in Matara by providing them with the much-needed eye care services. The services provided ranged from eye examinations to prescriptions of eyeglasses, as well as the option of selecting frames and lenses.
-
-The project’s first day, which spanned two days, saw its inaugural day on April 6, 2024, at the Attorney General’s Office in Matara. Reputed ophthalmologists gave our clients advice and consultations, making sure they got the assistance and treatment they required.
-
-...
-
-[Data](articles/7eef57dc.json)
-
-[Extended Data](ext_articles/7eef57dc.ext.json)
-
----
-
-### National Chamber of Exporters condemns MP Jeevan Thondaman’s actions
-
-*2024-06-15 01:15:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-condemns-MP-Jeevan-Thondaman-s-actions/34-763122) · `en`
-
-The National Chamber of Exporters of Sri Lanka (NCE) has called for a thorough investigation into the incident involving MP Jeevan Thondaman and his associates at Pedro Estate on 30 May, 2024. The NCE expressed deep concern over reports and social media videos showing unlawful and aggressive behaviour by MP Thondaman’s group.
-
-The footage, which has sparked widespread outrage, depicts a group forcibly entering the estate and engaging in acts of intimidation and arrogance. The NCE emphasised that such conduct is unacceptable and must be addressed by the President and other national leaders. The chamber stressed that trespassing on private property and using force is illegal, warranting immediate legal action.
-
-...
-
-[Data](articles/99f35266.json)
-
-[Extended Data](ext_articles/99f35266.ext.json)
-
----
-
-### SDTI Campus honoured with National Entrepreneur Excellence Presidential Award 2024
-
-*2024-06-15 01:14:50* · [`dailyftlk`](https://www.ft.lk/business/SDTI-Campus-honoured-with-National-Entrepreneur-Excellence-Presidential-Award-2024/34-763121) · `en`
-
-At a prestigious ceremony held at the Shangri-La Hotel in Colombo, the Skills Development and Training International (SDTI) Campus was conferred with the National Entrepreneur Excellence Presidential Award 2024.
-
-This accolade underscores SDTI Campus’s exceptional contributions to entrepreneurial education and innovation. SDTI Campus has been acclaimed as the Best University in South Asia, adding another recognition to its distinguished reputation. The institution has also achieved ISO 9001:2015 certification, reinforcing its commitment to quality education and operational excellence. In collaboration with the Ministry of Education’s Skill Development Fund, SDTI Campus offers a range of diploma and degree programs that the University Grants Commission approves. This strategic partnership aims to provide affordable education opportunities to both rural and urban youth across Sri Lanka and the Asian region youths with a skill in many marketable fields
-
-...
-
-[Data](articles/cdb2773b.json)
-
-[Extended Data](ext_articles/cdb2773b.ext.json)
 
 ---

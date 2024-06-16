@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 16:51:01**
+As of **2024-06-16 17:04:23**
 
 ## Newspaper Stats
 
-*Scraped **30,618** Articles*
+*Scraped **30,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,671
 economynextcom | 1,778
 dailyftlk | 1,863
-adalk | 2,641
-adaderanalk | 3,469
+adalk | 2,643
+adaderanalk | 3,470
 tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,959
+adaderanasinhalalk | 4,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,618 (100.0%) of 30,618 articles have been extended.
+30,618 (100.0%) of 30,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### Youth murdered during musical show in Kalutara
+
+*2024-06-16 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99910/youth-murdered-during-musical-show-in-kalutara) · `en`
+
+A 20-year-old youth has been murdered after his throat was slit following an argument between two parties at a musical show in Kalutara.
+
+The deceased, Menura Nimthara Wanigasekara, has been identified as a resident of the Dodangoda area, Ada Derana reporter said.
+
+The suspect, who committed the crime, reportedly attacked the 20-year-old after seeing him dancing with his estranged wife during the musical show.
+
+The woman who works at a garment factory had come to watch the musical show and was dancing with the young man, a coworker, when the suspect, in a fit of rage, had slit the victim’s throat with a sharp weapon.
+
+◼️
+
+[Data](articles/448962fb.json)
+
+---
+
+### පාකිස්තානයේ පියෙකු දියණියව මහල්ලෙකුට විකුණයි
+
+*2024-06-16 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197820) · `si`
+
+පාකිස්තානයේ 12 හැවිරිදි දැරියක් 72 හැවිරිදි පුද්ගලයෙකුට විවාහ කර දීමට යෑමේදී පොලීසිය මනමාලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ දැරියගේ පියා විසින් ඇයව පාකිස්තාන මුදලින් ලක්ෂ 5ක මුදලකට අදාළ මහළු පුද්ගලයාට විකිණීමට කටයුතු කර ඇති බවය.
+
+එහෙත් දැරියගේ පියා එම ස්ථානයෙන් පළා ගොස් ඇති අතර ඔහු සොයා පොලිස් පරීක්ෂණ ක්‍රියාත්මකය.
+
+විදෙස් මාධ්‍ය පවසන්නේ පාකිස්තානයේ මෙවැනි සිද්ධීන් දිගින් දිගටම වාර්තා වන බවය.
+
+◼️
+
+[Data](articles/66c2f8df.json)
+
+---
+
+### අමෙරිකාවේ වෙඩිතැබීමක්
+
+*2024-06-16 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197819) · `si`
+
+අමෙරිකාවේ මිචිගන්හි සිදුවූ වෙඩි තැබීමකින් පුද්ගලයින් 9 දෙනෙකු තුවාල ලබා තිබේ.
+
+තුවාල ලැබූ පිරිසට ළමයින් දෙදෙනෙකු ද අයත්වන අතර ඒ අතරින් අයෙකුගේ තත්ත්වය බරපතළ බව වාර්තා වෙයි.
+
+උද්‍යානය අසල පිහිටි නිවසක සැඟව සිටියදී වෙඩික්කරුද වෙඩි තබාගෙන සියදිවි නසාගෙන ඇති බව වාර්තා වෙයි.
+
+වෙඩික්කරු තුවක්කු දෙකක් භාවිතයෙන් වෙඩිතැබීම සිදුකළ බවට සිදුවීම ඇසින් දුටුවෙකු පවසා ඇතත් එය මෙතෙක් නිශ්චිතව අනාවරණ වී නොමැත.
+
+◼️
+
+[Data](articles/2509e19d.json)
+
+---
 
 ### Here is the latest fee for the police traffic officials
 
@@ -424,6 +478,24 @@ It was announced that Sri Lanka will likely introduce an imputed rental income t
 
 ---
 
+### අපරික්ෂාකාරි රියධාවනයෙන් ඝාතන 07ක් සිදුකළ රියදුරෙකුට චෝදනා 52ක් යටතේ වසර 17ක බරපතල වැඩ සහිත සිරදඩුවම
+
+*2024-06-16 12:35:55* · [`adalk`](https://www.ada.lk/breaking_news/අපරික්ෂාකාරි-රියධාවනයෙන්-ඝාතන-07ක්-සිදුකළ-රියදුරෙකුට-චෝදනා-52ක්-යටතේ-වසර-17ක-බරපතල-වැඩ-සහිත-සිරදඩුවම/11-410237) · `si`
+
+අපරික්ෂාකාරි ලෙස රිය ධාවනය කොට සිදුකළ අනතුරකදී ඝාතන 07ක් කිරීමට සෘජුවම දායක වූ රියදුරෙකුට දණ්ඩ නීති සංග්‍රහයේ වගන්ති 03ක් යටතේ  වසර 17ක බරපතල වැඩ ඇතුව සිරදඩුවමක් සහ රුපියල් 56800 දඩමුදලක ගෙවීමට පුත්තලම මහාධිකරණ විනිසුරු නදී අපරනා සුවන්දුරුගොඩ මහත්මිය 14දා තීන්දු කළාය.
+
+මෙසේ සිරදඩුවම් සහ දඩ මුදලක් ගෙවීමට නියම වූයේ පුත්තලම, පාලවිය පදිංචි මොහොමඩ් ගිෆ්රි මොහොමඩු වාහිල් නුමති 38 හැවිරිදි පුද්ගලයෙකුටය.
+
+මෙම නඩු විභාගය වසර 07ක් පුරාවට පුත්තලම මහාධිකරණයේ විභාගය වූ අතර පුද්ගලයින් 36 දෙනෙකුගෙන් කටඋත්තර ලබාගනු ලැබීය.
+
+ඒ අනුව දණ්ඩ නීති සංග්‍රහයේ 298 වගන්තිය යටතේ 1සිට 07 දක්වා චෝදනා 07ට වසර 07ක සිර දඩුවම් සහ එක්වසරකට රුපියල් 5000 බැගින් රුපියල් 35000ක දඩයක්, 328 වගන්තිය යටතේ චෝදනා 18ට රුපියල් 100 බැගින් රුපියල් 1800ක්, 329 වගන්තිය යටතේ චෝදනා 20ක් සඳහා මාස 06 බැගින් වසර 10ක් සඳහා  සිරදඩුවම් සහ එක් වසරකට රුපියල් 1000 බැගින්  වූ රුපියල්  20000ක දඩමුදලක් විනිසුරුවරිය විසින් චූදිතයා හට නියම කරනු ලැබීය.
+
+...
+
+[Data](articles/b4493a0d.json)
+
+---
+
 ### 13 promises and stumbling blocks
 
 *2024-06-16 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186177) · `ta`
@@ -487,6 +559,22 @@ Accordingly, the Bentota Police had inspected the Bentota Police in the district
 [Data](articles/8b34f833.json)
 
 [Extended Data](ext_articles/8b34f833.ext.json)
+
+---
+
+### මියන්මාරයේ සයිබර් කඳවුරු තුළ තරුණයින් ලක්ෂයක් බලහත්කාරයෙන් රඳවාගෙන
+
+*2024-06-16 12:17:42* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-කඳවුරු-තුළ-තරුණයින්-ලක්ෂයක්-බලහත්කාරයෙන්-රඳවාගෙන/11-410235) · `si`
+
+මියන්මාරයේ සයිබර් කදවුරු තුළ ලෝකයේ විවිධ රටවල තරුණ පුරවැසියන් ලක්ෂයකට අධික පිරිසක් බලහත්කාරයෙන් රදවා ගෙන සිටින බව තමන්ට මියන්මාර සංචාරයේ දී දැන ගැනීමට ලැබුණු බවත් ඒ අතුරින් 53,000 ක පිරිසක් චීන ජාතිකයන් වන බවත් විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා 06/15 දින සවස කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+
+ඒ මහතා එසේ පැවසූවේ  මියන්මාරයේ සහ තායිලන්තයේ සංචාරයක් නිම කර කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියදීය .
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ තාරක බාලසූරිය අමාත්‍යවරයා " අපිට යම්කිසි විශ්වාසයක් තියෙනවා , මියන්මාරයේ සයිබර් කදවුරු තුළ බලහත්කාරයෙන් රදවා ගෙන සිටින ශ්‍රී ලාංකිකයන් 49 දෙනා අතුරින් කීප දෙනෙකු ඉදිරියේ දී මුදා ගැනීමට හැකි වේ යැයි " ද පැවසීය .
+
+...
+
+[Data](articles/130ca53c.json)
 
 ---
 
@@ -2205,123 +2293,5 @@ The relaxation of restrictions will begin with vehicles used for public transpor
 [Data](articles/f98b971b.json)
 
 [Extended Data](ext_articles/f98b971b.ext.json)
-
----
-
-### Kate saved from cancer
-
-*2024-06-15 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197790) · `si`
-
-Kate, the Princess of Britain, celebrated her recovery from cancer surgery with her family at the Trooping the Color parade, marking five months since her treatment.
-
-🟩
-
-Princess of the British, Britain, was one of five months after a public ceremony today (15).
-
-About 5 months ago, she faced surgery due to cancer.
-
-The "Trooping the Color" of King Charles was a 'TROOPING THE COLOR', a military parade, a chariot march with her three children.
-
-◼️
-
-[Data](articles/79a75bc3.json)
-
-[Extended Data](ext_articles/79a75bc3.ext.json)
-
----
-
-### Israeli troops catapult fireball into Lebanon using weapon rarely used since 16th century
-
-*2024-06-15 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99895/israeli-troops-catapult-fireball-into-lebanon-using-weapon-rarely-used-since-16th-century) · `en`
-
-Israeli troops have used a medieval-style catapult to toss fireballs across the border into Lebanon, as fighting ramps up between Israel and the Iran-backed Islamist group Hezbollah.
-
-The trebuchet, a rotating arm with a sling attached to launch a projectile, has rarely been used since the 16th century.
-
-The Israel Defense Forces (IDF) said the catapult was “a local initiative” and had not “come into widespread use,” Israeli public broadcaster and CNN affiliate Kan reported Thursday.
-
-Kan said the trebuchet was probably used to burn shrubbery, making it easier for Israeli forces to identify militants attempting to reach the border. CNN has asked the IDF for comment.
-
-A video of the catapult in action was posted on social media on Wednesday. CNN could not verify when the footage was filmed but geolocated it to the Israeli-Lebanese border.
-
-...
-
-[Data](articles/a0059db1.json)
-
-[Extended Data](ext_articles/a0059db1.ext.json)
-
----
-
-### Committee to prepare vehicle imports
-
-*2024-06-15 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197789) · `si`
-
-A committee has been formed under Dr. Ranjith Siyambalapitiya to manage vehicle imports in Sri Lanka, aiming to liberalize public transport vehicles and negotiate financial agreements with the IMF. This initiative directly impacts the country's foreign reserves and involves key stakeholders including the Ministry of Industries and various departments. The focus includes importing motorcycles, electric vehicles, and other luxury cars for public use, ensuring careful consideration of each aspect.
-
-🟩
-
-Minister of State Dr. Ranjith Siyambalapitiya says that a committee has been appointed to prepare the program of conducting vehicle imports.
-
-Speaking further, the Minister said that with the International Monetary Fund, who has become a guideline in Sri Lanka, will discuss and reach agreements on many financial matters.
-
-Accordingly, the importal imports of vehicles is a direct impact on the country's foreign reserves, the Minister said that the road map of vehicle imports were submitted to the international financial institution.
-
-The Minister said that according to the road map, the vehicle used for public transport services will be liberalized to a specific system.
-
-Importation of vehicles, the Ministry of Industrial Association, the Minister of Industries, Ministry of Industries, Department of Industries, Department of Motor Association, Department of Motor Association, Department of Industries, Department of Motor TrafficThe committee was appointed as all the influential groups enter.
-
-...
-
-[Data](articles/0791d197.json)
-
-[Extended Data](ext_articles/0791d197.ext.json)
-
----
-
-### A terrible attack from Israel
-
-*2024-06-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197788) · `si`
-
-Israel and Hezbollah exchange attacks: Israeli jets strike South Lebanon, while missiles from Lebanon target Northern Israel. Casualties reported on both sides, with 80 deaths among Hezbollah fighters and 80 Israeli soldiers.
-
-🟩
-
-The Israeli Army announced Israeli fighter jets and artillery on the South Lebanon.
-
-No northern Israel had launched a missile attacked from Lebanon and the response to the response.
-
-The two sides have been attacked by each other.
-
-The number of hezbollah and 80 Hezbolnen's attacks have been killed and 80 Israeli troops have died due to the death attacks on the recent attacks.
-
-◼️
-
-[Data](articles/7b7eead0.json)
-
-[Extended Data](ext_articles/7b7eead0.ext.json)
-
----
-
-### Superbicketing person suddenly dies
-
-*2024-06-15 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197787) · `si`
-
-Matija Sarkic, goalkeeper for Montenegro's national team and Millwall in England, passed away unexpectedly. His last game for Montenegro was on June 5th. The Montenegrin Football Federation confirmed his sudden death today.
-
-🟩
-
-Matija Sarkic, who served as the goalkeeper of Montenegro National Football Team, has died suddenly.
-
-He also served as the goalkeeper of Millol football team in England.
-
-He was last played for his national team on June 5.
-
-The Montenegrah Football Federation announced that he died suddenly this morning.
-
-◼️
-
-[Data](articles/bd1dbee1.json)
-
-[Extended Data](ext_articles/bd1dbee1.ext.json)
 
 ---

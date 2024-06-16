@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 06:02:59**
+As of **2024-06-16 07:01:00**
 
 ## Newspaper Stats
 
-*Scraped **30,550** Articles*
+*Scraped **30,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,461
 tamilmirrorlk | 3,572
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,941
+adaderanasinhalalk | 4,942
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,537 (100.0%) of 30,550 articles have been extended.
+30,541 (100.0%) of 30,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### අද කාලගුණය
+
+*2024-06-16 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197800) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (16) වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බවය.
+
+මේ අතර පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  තැනින් තැන වැසි  ඇතිවේ.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශ වල සුළං නිරිත දිශාවෙන් හමා එන අතර ත්‍රිකුණාමලය සිට  කන්කසන්තුරය, මන්නාරම  හරහා  පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශවල  සුළඟේ වේගය පැ.කි.මී. (35-45) පමණ  වේ.
+
+ඉහත මුහුදු ප්‍රදේශවල  සුළඟේ වේගය  විටින් විට පැ.කි.මී. 60 දක්වා වැඩි විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+...
+
+[Data](articles/deb9f11d.json)
+
+---
 
 ### SLT-MOBITEL Enterprise strengthens collaboration with MBSL to deliver cutting-edge connectivity solutions
 
@@ -45,6 +65,8 @@ MBLS is a leading financial services provider in Sri Lanka with a rich history i
 ...
 
 [Data](articles/2e3cbf77.json)
+
+[Extended Data](ext_articles/2e3cbf77.ext.json)
 
 ---
 
@@ -62,6 +84,8 @@ Addressing the gathering, the ambassador appreciated the importance of the role 
 
 [Data](articles/f4ae443d.json)
 
+[Extended Data](ext_articles/f4ae443d.ext.json)
+
 ---
 
 ### Lanka Transformers links with Indian company
@@ -73,6 +97,8 @@ In the dynamic landscape of the transformer industry, where innovation meets exp
 ...
 
 [Data](articles/fbeceb4c.json)
+
+[Extended Data](ext_articles/fbeceb4c.ext.json)
 
 ---
 
@@ -89,6 +115,8 @@ This was much-needed exposure for him personally since part of the training was 
 ...
 
 [Data](articles/66ddbed0.json)
+
+[Extended Data](ext_articles/66ddbed0.ext.json)
 
 ---
 
@@ -2189,29 +2217,5 @@ President Ranil Wickremesinghe this week met with SAARC Secretary General Golam 
 [Data](articles/69a3f5ea.json)
 
 [Extended Data](ext_articles/69a3f5ea.ext.json)
-
----
-
-### The educational site is headed by the President
-
-*2024-06-15 01:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்-தளம்-ஜனாதிபதி-தலைமையில்-ஆரம்பம்/175-338930) · `ta`
-
-President Ranil Wickremesinghe launched Public Learn, a free textbook platform funded by Sri Lankan diaspora in the UK, aiming to digitize education for Sri Lankan youth.
-
-🟩
-
-The official introduction of the Public Learning Educational Site for the Sri Lankan Youth community, http://www.publiclearn.lk/, was held yesterday afternoon at the Presidential Office under the patronage of President Ranil Wickremesinghe.
-
-Public Learn is a platform that leads users to free textbooks from the world's leading universities. The site is run by Region Global and has been funded by diaspora Sri Lankans in the UK to introduce it in Sri Lanka.
-
-The President officially launched the Public Learning System for the Sri Lankan Youth Community (http://www.publiclearn.lk/).
-
-Speaking at the event, President Ranil Wickremesinghe said Sri Lanka should advance with digitalization for new economic change.. (A)
-
-◼️
-
-[Data](articles/68822e65.json)
-
-[Extended Data](ext_articles/68822e65.ext.json)
 
 ---

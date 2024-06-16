@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 15:53:38**
+As of **2024-06-16 16:05:39**
 
 ## Newspaper Stats
 
-*Scraped **30,616** Articles*
+*Scraped **30,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,469
 tamilmirrorlk | 3,585
 virakesarilk | 4,696
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,958
+adaderanasinhalalk | 4,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,615 (100.0%) of 30,616 articles have been extended.
+30,616 (100.0%) of 30,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### පොලීසියේ ට්‍රැෆික් නිලධාරීන්ට ලැබෙන අලුත්ම ගාස්තුව මෙන්න
+
+*2024-06-16 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197818) · `si`
+
+පොලිස් රථවාහන අංශවලට අනුයුක්තව රාජකාරී කරන නිලධාරීන්ට ගෙවනු ලබන ත්‍යාග මුදල් වැඩි කර ඇති බව පොලීසිය දැනුම්දෙයි.
+
+මෙම පොලිස් නිලධාරීන් විවිධ දුෂ්කරතා මධ්‍යයේ ජනතාවගේ ජීවිත ආරක්ෂා කිරීමේ අරමුණින් කටයුතු කරන බවත් පොලීසිය පවසයි.
+
+ඒ අනුව පොලිස් රථවාහන අංශවලට අනුයුක්තව රාජකාරී සිදුකරන නිලධාරීන්ට ගෙවනු ලබන ත්‍යාග මුදල් වැඩි කර මාසිකව ගෙවීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/7173244d.json)
+
+---
 
 ### Sri Lanka to conduct full feasibility study on land connection with India - President
 
@@ -47,6 +63,8 @@ During their discussion it was noted that negotiations are underway regarding th
 ...
 
 [Data](articles/87b4e466.json)
+
+[Extended Data](ext_articles/87b4e466.ext.json)
 
 ---
 
@@ -2299,25 +2317,5 @@ The Montenegrah Football Federation announced that he died suddenly this morning
 [Data](articles/bd1dbee1.json)
 
 [Extended Data](ext_articles/bd1dbee1.ext.json)
-
----
-
-### The pot of the mortgage center is discreet
-
-*2024-06-15 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197786) · `si`
-
-In Moratuwa, two individuals tried to rob a mortgage center today. They arrived on a motorcycle and threatened an employee with a bottle before fleeing. The staff quickly alerted the police.
-
-🟩
-
-Two people who had come from a motorbike in the Moratuwa area have attempted to rob it this morning.
-
-Another person's employee was intimidated by a bottle, and the employees were ringing in police stations.
-
-◼️
-
-[Data](articles/7487dc18.json)
-
-[Extended Data](ext_articles/7487dc18.ext.json)
 
 ---

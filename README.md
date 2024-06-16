@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 13:19:01**
+As of **2024-06-16 13:34:34**
 
 ## Newspaper Stats
 
-*Scraped **30,595** Articles*
+*Scraped **30,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,467
 tamilmirrorlk | 3,581
 virakesarilk | 4,691
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,952
+adaderanasinhalalk | 4,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,594 (100.0%) of 30,595 articles have been extended.
+30,595 (100.0%) of 30,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### ස්මාර්ට් ෆෝන් මිල දරා ගන්න පුළුවන් ද ?
+
+*2024-06-16 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197812) · `si`
+
+ඉහළ දැමුණු මිල ගණන්වලට සාපේක්ෂව මෙතෙක් ජංගම දුරකථනවල මිල ගණන් පහත දමා නොමැති බවට සමස්ත ලංකා කොමියුනිකේෂන් හිමිකරුවන්ගේ සංගමය චෝදනා කරයි.
+
+වැඩිදුරටත් අදහස් දැක්වූ සමස්ත ලංකා කොමියුනිකේෂන් හිමිකරුවන්ගේ සංගමයේ සභාපති ඉන්ද්‍රජිත් පෙරේරා මහතා,
+
+"ජංගම දුරකථනවල මිල වැඩිවීම ගත්තොත් 300%ත් 400%ත් අතර ප්‍රමාණයකින් වැඩි වුණා. පොඩි ජංගම දුරකථනයක ඉදලා හොඳ ස්මාර්ට් ජංගම දුරකථයක් දක්වා මේ වැඩිවීම සිදුවුණා. නමුත් දැන් අඩු වුණා කියලා කියනවා කට්ටිය. ඔව් අඩු වුණා යම් ප්‍රමාණයක්. නමුත් ප්‍රශ්නේ තියෙන්නේ... අඩු වුණ ප්‍රමාණය 30%ක 35%ක වගේ ප්‍රමාණයක්. 300%කින් 400%කින් වැඩි වුණ එකක් 35%කින් 30%කින් අඩු වුණාම එ්ක කොහෙමද දැනෙන්නේ ? ඒක කොහොමද පාරිභෝගිකයා දරා ගන්නේ ? ඒක දරා ගන්න පුළුවන් සතුටක්ද ? ප්‍රමාණයක්ද ? නෑ."
+
+◼️
+
+[Data](articles/29fff93f.json)
+
+---
+
+### ඉදිකිරීම් අමුද්‍රව්‍ය මිල ගණන් අඩු වෙයි
+
+*2024-06-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197811) · `si`
+
+සිමෙන්ති, කම්බි ඇතුළු ඉදිකිරීම් අමුද්‍රව්‍යවල මිල ගණන් පහත වැටෙමින් පවතින බැවින් යළිත් වරක් ඉදිකිරීම් කටයුතු අරඹන ලෙස ජාතික ඉදිකිරීම් සේවක සංගමය ජනතාවගෙන් ඉල්ලා සිටී.
+
+ශ්‍රී ලංකාව පසුගිය සමයේ මුහුණ දුන් ආර්ථික අර්බුදයත් සමග රුපියලේ අගය පහත වැටීම සහ තවත් කරුණු කිහිපයක් මුල් කරගනිමින් ඉදිකිරීම් ක්ෂේත්‍රයේ භාණ්ඩ සහ අමුද්‍රව්‍ය රැසක මිල ගණන් සීඝ්‍රයෙන්  ඉහළ ගොස් තිබුණි.
+
+කෙසේ වෙතත්, ආර්ථිකය යළි ප්‍රකෘතිවීමත් සමග ඒවායේ මිල ගණන්වල අඩුවීමක් මේ වනවිට දක්නට ලැබෙන බව ජාතික ඉදිකිරීම් සේවක සංගමය සඳහන් කරයි.
+
+ඒ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ ජාතික ඉදිකිරීම් සේවක සංගමයේ ලේකම් සුපුන් අබේසේකර මහතා,
+
+"පසුගිය කාලසීමාවේ ඉදිකිරීම් ක්ෂේත්‍රය සම්පූර්ණයෙන් වැටිලා තිබුණේ. අද වෙනෙකොට යම් ප්‍රකෘතිමත්වීමක් මේ ක්ෂේත්‍රයේ තියෙනවා. සිමෙන්ති, යකඩ, තීන්ත ඇතුළු අමුද්‍රව්‍යවල මිල ගණන් යම් මට්මකින් අඩුවෙලා තියෙනවා. සමස්තයක් විදිහට ගත්විට සතුටුවෙන්න පුළුවන් බැංකු පොලිය අඩුවෙලා තියෙනවා. අපි අදහස් කරනවා අපේ සේවාදායකයින්ට බැංකු ණයක් අරගෙන ගෙයක් හදාගන්න පුළුවන් වාතාවරණයක් යම් මට්ටමකට හැදිලා තියෙනවා කියලා."
+
+◼️
+
+[Data](articles/8b8eea62.json)
+
+---
 
 ### Inheritance in the inheritance of land in Mannar
 
@@ -88,21 +124,33 @@ It was announced that Sri Lanka will likely introduce an imputed rental income t
 
 ---
 
-### බෙන්තොට පොලීසියේ සොරකමට පැමිණිල්ලක් අම්බලන්ගොඩ පොලිස් අධිකාරී කාර්‍යාලයට
+### Theft of the Bentota Police Station
 
 *2024-06-16 12:28:22* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-පොලීසියේ-සොරකමට-පැමිණිල්ලක්-අම්බලන්ගොඩ-පොලිස්-අධිකාරී-කාර්‍යාලයට/11-410236) · `si`
 
-නඩු භාණ්ඩයක් ලෙස බෙන්තොට පොලීසියේ තිබූ වල්ලාපට්ට ගහක කොටසක් අතුරුදන්ව ඇති බවට පැමිණිල්ලක් ලැබුණු බව අම්බලන්ගොඩ සහකාර පොලිස් අධිකාරී කාර්‍යාලය කියයි.
+A complaint was filed regarding the theft of a Wallapatta tree from the Bentota Police station yard. The tree, valued for its spiritual significance, was reported missing by the caretaker. The Bentota Police investigated, finding evidence of cutting, but couldn't identify the thief. The case, under AR 473/3, was presented to the Balapitiya Magistrate's Court. Despite efforts, the owner of the stolen tree remains unidentified.
 
-මේ වල්ලාපට්ට ගස සම්බන්ධයෙන් බලපිටිය අධිකරණයේ දමා ඇති නඩුවේ පාර්ශකරුවකු වන ආර්.වී.පී.දිනූෂා නමැත්තිය විසින් මෙසේ සිය කාර්‍යාලයට මේ සම්බන්ධයෙන් පැමිණිළි කළ බව ද එම කාර්‍යාලය කියයි.
+🟩
 
-කපා දමා තිබූ අඩි හතරහමාරක වට ප්‍රමාණයක් සහිත අඩි පහළවක් පමණ දිග මේ වල්ලාපට්ටා ගස එහි නියම අයිතිකරු අධිකරණයෙන් නියෝගයක් ලැබෙන තුරු බෙන්තොට පොලීසියේ තිබුණු බවත් දැනට සතියක පමණ කාලයක සිට එම ගසේ කොටසක් අතුරුදහන්වී ඇතැයි කියමින් පැමිණිළිකාරිය සහකාර පොලිස් අධිකාරීකාර්‍යාලයට පැමිණිළි කොට තිබේ.
+A complaint has been lodged with the disappearance of a wallapatta tree in the Bentota Police as a case.
 
-2023 වසරේ පෙබරවාරි මස 2 වැනිදා පැමිණිළිකාරිය වන තමා සිය ඉඩමේ තිබෙන මේ වල්ලාපට්ට ගස කපා දැමූ බවත් සිය ඉඩමට යාබදව පිහිටා ඇති විහාරස්ථානයේ හිමිනමක් සිය විහාරස්ථානයට මේ වල්ලාපට්ට ගස අයිති බව පවසමින් බෙන්තොට පොලීසියට පැමිණිලි කොට තිබෙන බවත් ඇය සිය පැමිණිල්ලේ සදහන් කොට තිබේ.
+The partner, a partner in the courtyard of the Wallipatta tree, had complained to its office by this.
+
+The Wellapatta Police were present at the Bentota Police for about four and a half feet of cuttings, and the astroller had recently visited the Assistant Superintendent of Police.
+
+She has complained to the Bentota Police that the ghost of the land, which has been cut into the tree of his land on February 2, and was reported to his land.
+
+Accordingly, the Bentota Police have filed a case under the AR 473/3 Case No.
+
+The case has not been given the power to find the right owner in the Wallapatta and this case has been told to the Balapitiya Magistrate's Court.
+
+Accordingly, the Bentota Police had inspected the Bentota Police in the district Court and the police had reportedly found that a part of the Wallapatta tree had disappeared.
 
 ...
 
 [Data](articles/8b34f833.json)
+
+[Extended Data](ext_articles/8b34f833.ext.json)
 
 ---
 
@@ -2301,45 +2349,5 @@ The Secretary General of the International Maritime Organization said the situat
 [Data](articles/280a0fe7.json)
 
 [Extended Data](ext_articles/280a0fe7.ext.json)
-
----
-
-### SLC's new constitutional draft
-
-*2024-06-15 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197780) · `si`
-
-Sri Lanka Cricket's new constitution, drafted by retired judge K.T. Chitrasiri, aims to restructure its composition and structure. It has been submitted to President Ranil Wickremesinghe.
-
-🟩
-
-Sri Lanka Cricket's new constitution has been handed over to President Ranil Wickremesinghe.
-
-It has proposed to restructure the composition and structure of Sri Lanka Cricket and the report has been handed over to the President this day.
-
-Retired Judge K. T. The new constitution was formed by Mr. Chitrasiri.
-
-◼️
-
-[Data](articles/58926468.json)
-
-[Extended Data](ext_articles/58926468.ext.json)
-
----
-
-### New draft constitution for Sri Lanka Cricket handed over to President
-
-*2024-06-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99892/new-draft-constitution-for-sri-lanka-cricket-handed-over-to-president) · `en`
-
-The draft constitution, prepared by the Judge Chitrasiri Committee for the Sri Lanka Cricket Board, was presented to President Ranil Wickremesinghe at the Presidential Secretariat today (15).
-
-The draft was handed over to President Ranil Wickremesinghe by the Committee Chairman, retired Supreme Court Judge K.T. Chitrasiri, accompanied by other committee members.
-
-To address the challenges faced by Sri Lanka Cricket and provide appropriate recommendations, a Cabinet Sub-Committee was appointed on November 6, 2023. Chaired by Minister of Foreign Affairs and President’s Counsel Ali Sabry, the sub-committee included Minister of Power and Energy Kanchana Wijesekara, Minister of Labour and Foreign Employment Manusha Nanayakkara, and Minister of Public Security Tiran Alles. Following extensive discussions with stakeholders involved in cricket, the sub-committee presented its report to the Cabinet on January 8, 2024.
-
-...
-
-[Data](articles/8a11610f.json)
-
-[Extended Data](ext_articles/8a11610f.ext.json)
 
 ---

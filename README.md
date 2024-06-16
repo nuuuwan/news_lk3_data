@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 07:01:00**
+As of **2024-06-16 07:27:59**
 
 ## Newspaper Stats
 
-*Scraped **30,551** Articles*
+*Scraped **30,552** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 279
-dbsjeyarajcom | 281
+dbsjeyarajcom | 282
 bbccomsinhala | 298
 newsfirstlk | 363
 islandlk | 1,669
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,942
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,541 (100.0%) of 30,551 articles have been extended.
+30,544 (100.0%) of 30,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-06-16 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197800) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (16) වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today's forecast includes strong winds of 40-50 mph in the Western, Sabaragamuwa, and North Western provinces, as well as the Galle and Matara Districts. Showers are expected in sea areas from Puttalam to Matara. Wind speeds vary, reaching up to 60 mph in certain areas, with other regions experiencing 25-35 mph winds.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බවය.
+🟩
 
-මේ අතර පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  තැනින් තැන වැසි  ඇතිවේ.
+The Met Department forecasts the Western, Sabaragamuwa and North Western provinces and the Galle and Matara Districts.
 
-දිවයින වටා වන මුහුදු ප්‍රදේශ වල සුළං නිරිත දිශාවෙන් හමා එන අතර ත්‍රිකුණාමලය සිට  කන්කසන්තුරය, මන්නාරම  හරහා  පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශවල  සුළඟේ වේගය පැ.කි.මී. (35-45) පමණ  වේ.
+The department refers to the western slopes of the central hills, Trincomalee, Hambantota and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There may be 40-50 strong winds.
 
-ඉහත මුහුදු ප්‍රදේශවල  සුළඟේ වේගය  විටින් විට පැ.කි.මී. 60 දක්වා වැඩි විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Meanwhile, there will be showers at several places in the sea areas off the coast extending from Puttalam to Matara through Matara.
 
-...
+Winds of the sea areas around the island is the speed of the sea in Trincomalee to Puttalam via Kankesanthurai, Mannar and Hambantota to Pottuvil.. Is about (35-45).
+
+The speed of the wind in the above areas is at times.. The Department of Meteorology announces the increase to 60.
+
+The speed of the wedding in the rest of the sea is about 1st.. (25-35) and the speed of the sea in the sea areas off the coast extending from Puttalam to Hambantota via Hambantota from Colombo and Galle.. The Meteorology Department says that it is up to 50.
+
+◼️
 
 [Data](articles/deb9f11d.json)
+
+[Extended Data](ext_articles/deb9f11d.ext.json)
 
 ---
 
@@ -134,6 +142,8 @@ Both Premadasa and Dissanayake are veteran political stalwarts; both have been i
 
 [Data](articles/3a270621.json)
 
+[Extended Data](ext_articles/3a270621.ext.json)
+
 ---
 
 ### Champika Ranawaka accuses ‘political underworld’ of thriving on narcotics
@@ -149,6 +159,8 @@ He said that there were around 100,000 ex-servicemen with arms training now in s
 ...
 
 [Data](articles/fbcd031f.json)
+
+[Extended Data](ext_articles/fbcd031f.ext.json)
 
 ---
 
@@ -259,6 +271,20 @@ South Africa also qualifies to the match of India and the US in Group A to the c
 [Data](articles/bae83e2c.json)
 
 [Extended Data](ext_articles/bae83e2c.ext.json)
+
+---
+
+### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
+
+*2024-06-15 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84194) · `en`
+
+“And one man in his time plays many parts” ,stated  William Shakespeare in his play “As you like it”. The above  mentioned observation by the  Bard of Avon is quite appropriate in describing the life and work of Dr.Nissanka Wijeyeratne whose 100th birth anniversary was  celebrated on June 14.
+
+Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military officer ,scholar, poet,  Government Agent, Permanent secretary, ),Parliamentarian, Cabinet Minister, Ambassador and above all the Diyawadane Nilame of the  Sri Dalada Maligawa in a  productive life spanning eight decades. This article is to commemorate the birth centenary of this versatile,  multi-faceted personality who rendered yeoman service to his motherland.
+
+...
+
+[Data](articles/fb52118a.json)
 
 ---
 
@@ -2203,19 +2229,5 @@ INSS, the premier think tank on national security established and functioning un
 [Data](articles/fb042dc7.json)
 
 [Extended Data](ext_articles/fb042dc7.ext.json)
-
----
-
-### President meets SAARC Secretary General
-
-*2024-06-15 01:10:13* · [`dailyftlk`](https://www.ft.lk/news/President-meets-SAARC-Secretary-General/56-763115) · `en`
-
-President Ranil Wickremesinghe this week met with SAARC Secretary General Golam Sarwar in Colombo. The meeting focused on addressing issues related to various projects among SAARC countries, with the President urging impartial intervention from the Secretary General. The discussion also covered the country’s agricultural modernisation program and explored potential support from SAARC member nations. Additionally, the development of the SAARC Cultural Centre for Modern Art in Sri Lanka was a key topic of conversation. President’s Secretary Saman Ekanayake and a group of officials were present at the meeting.
-
-◼️
-
-[Data](articles/69a3f5ea.json)
-
-[Extended Data](ext_articles/69a3f5ea.ext.json)
 
 ---

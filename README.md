@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 12:52:40**
+As of **2024-06-16 13:04:32**
 
 ## Newspaper Stats
 
-*Scraped **30,590** Articles*
+*Scraped **30,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,70 @@ dbsjeyarajcom | 282
 bbccomsinhala | 299
 newsfirstlk | 363
 islandlk | 1,670
-economynextcom | 1,776
+economynextcom | 1,778
 dailyftlk | 1,863
 adalk | 2,636
-adaderanalk | 3,466
+adaderanalk | 3,467
 tamilmirrorlk | 3,581
 virakesarilk | 4,691
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,951
+adaderanasinhalalk | 4,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,587 (100.0%) of 30,590 articles have been extended.
+30,590 (100.0%) of 30,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### මන්නාරමේදී උරුමය ඉඩම් ඔප්පු බෙදා දෙයි
+
+*2024-06-16 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197810) · `si`
+
+"උරුමය " වැඩසටහන යටතේ මන්නාරම දිස්ත්‍රික්කයට ඉඩම් ඔප්පු 5,000ක් ලබාදීමට නියමිත අතර මේ වනවිට ඉඩම් ඔප්පු 442ක් ලබාදී අවසන් බව ජානාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+
+"උරුමය " සින්නක්කර ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ මන්නාරම දිස්ත්‍රික් ජනතාවට සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය කිරීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මන්නාරම නගර ශාලා ශ්‍රවණාගාරයේ අද (16)  සිදු කෙරුණි.
+
+◼️
+
+[Data](articles/3a5e3ae9.json)
+
+---
+
+### Explainer: Sri Lanka’s key political risks ahead of presidential election
+
+*2024-06-16 12:37:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-key-political-risks-ahead-of-presidential-election-168242/) · `en`
+
+ECONOMYNEXT – Sri Lanka will go for the island nation’s 8th presidential poll to elect a new leader for the next five years later this year between September 17 and October 16.
+
+The election comes two years after President Ranil Wickremesinghe was elected as the 8th leader of the country through the parliament in an unprecedented manner after his predecessor Gotabaya Rajapaksa fled the country fearing for his life in July 2022 amid mass protests across the country following an economic crisis.
+
+Wickremesinghe, since then, had to implement a raft of hard economic reforms committed to the International Monetary Fund (IMF) including tax hikes, and new laws to ensure the economic recovery under an IMF programme.
+
+...
+
+[Data](articles/296b16c8.json)
+
+---
+
+### Govt to introduce imputed rental income tax due to failure to implement property tax?
+
+*2024-06-16 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99905/govt-to-introduce-imputed-rental-income-tax-due-to-failure-to-implement-property-tax) · `en`
+
+Wasantha Athukorala, a professor in the Department of Economics and Statistics at the University of Peradeniya, alleges that the government is working to introduce an imputed rental income tax, as the government failed to prepare plans for the implementation of a property tax by April 2025, as proposed by the International Monetary Fund (IMF).
+
+Furthermore, Prof. Athukorala expressed that if a property tax is implemented in the country, all ill-gotten gains will be exposed.
+
+It was announced that Sri Lanka will likely introduce an imputed rental income tax, as part of the ongoing revenue mobilization efforts. The new tax comes as a substitute for the property tax, as the introduction of the property tax and the gift and inheritance tax by 2025 encountered delays, due to constitutional restrictions on sharing revenues between the central and local authorities and the lack of adequate information on property values.
+
+...
+
+[Data](articles/b38709c4.json)
+
+---
 
 ### President awards land deeds to people in Mannar under ‘Urumaya’ program
 
@@ -45,6 +91,28 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 ◼️
 
 [Data](articles/69c6960f.json)
+
+[Extended Data](ext_articles/69c6960f.ext.json)
+
+---
+
+### Sri Lanka coconut prices extend gains in June
+
+*2024-06-16 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-extend-gains-in-june-168261/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut process went up 1.5 percent to 77,314 percent for 1,000 nuts at an auction on June 13, data from the Coconut Development Authority shows.
+
+Coconut prices rose 20 percent over May at the weekly auction.
+
+The highest price was 86,200 for 1000 nuts at the June 13 auction, up from 82,700, while the lowest was 66,000 down from 67,000.
+
+A total of 844,787 coconuts were offered at the auction and 732,443 were sold.
+
+Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week to June 13.
+
+◼️
+
+[Data](articles/043fb2d4.json)
 
 ---
 
@@ -78,21 +146,29 @@ The victim was a resident of Dodangoda, Dodangoda, 20-year-old youth.
 
 ---
 
-### ටිකිරි මැණිකේ වටගොඩ පාලමේදී පිලි පනියි
+### Tikiri Manikkei
 
 *2024-06-16 11:47:11* · [`adalk`](https://www.ada.lk/breaking_news/ටිකිරි-මැණිකේ-වටගොඩ-පාලමේදී-පිලි-පනියි/11-410231) · `si`
 
-කොළඹ කොටුවේ  සිට නානුඔය බලා ධාවනය වෙමින් තිබු අංක 1023 දරණ ටිකිරි මැණිකේ සීඝ්‍රගාමි දුම්රිය තලවකැලේ සහ වටගොඩ දුම්රිය ස්ථාන අතර වටගොඩ  දුම්රිය පාලම මතදී පීලි පැනීමටකට ලක්වීමෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට අද (16) බාධා එල්ල වී පැවැතිණි.
+On 16th, the Tikiri Menika express train, running between Colombo Fort and Nanu Oya, was derailed near Watagoda due to damage to the railway bridge. This caused delays as trains from Colombo Fort to Hatton and from Badulla to Colombo Fort had to terminate at Nanu Oya. Passengers from Hatton and Nanuoya faced longer journeys due to the rerouting. The derailment occurred after maintenance work on the Kandyan railway tracks on the 13th.
 
-වටගොඩ දුම්රිය පාලම මතදී දුම්රියේ එන්ජීම සහිත කොටස මෙසේ පීලි පැනීමට ලක්වු බවත්, මේ හේතුවෙන් දුම්රිය මාර්ගයටද දැඩි අලාභ හානි  සිදුව තිබු බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
+🟩
 
-මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය යතාතත්ත්වයට පත්වන තුරු කොළඹ කොටුවේ සිට ධාවනය වන දුම්රියන් හැටන් දුම්රිය ස්ථානය දක්වාත්, බදුල්ලේ සිට ධාවනය වන දුම්රියන් නානුඔය දුම්රිය ස්ථාන දක්වාත් ධාවනය කිරීමට පියවර ගෙන තිබිණි.
+Talliri Menika express train on the Radnler of Talagoda and Watagoda, between 1023 runs from Colombo Fort to Nanu Oya, was derailed today (16).
 
-මෙම පීලි පැනීමෙන් දුම්රිය මාර්ගයට සිදුව ඇති හානි හේතුවෙන් මාර්ගය සකස් කිරීමේ කටයුතු සඳහා වැඩි කාලයක් ගතවීමට ඉඩ ඇති බවත්, හැටන් සහ නානුඔය දුම්රිය ස්ථානවලට පැමිණෙන දුම්රිය මගීන් වෙනුවෙන්  බස් රථ මගින් ප්‍රවාහන පහසුකම් සලසාදීමට පියවර ගෙන තිබු බවද නාවලපිටිය දුම්රිය පාලක මැදිරියේ ප්‍රකාශකයෙකු පැවැසුහ.
+The track of the train was derailed due to the railway bridge on the Watagoda Railway Bridge and the railway line was severely damaged.
 
-...
+As a result, trains travel from Colombo Fort to Hatton railway station and train from Badulla till the Colombo Fort had to run to Nanu Oya Railway Station.
+
+The railway station has taken a larger time and the road to the train passengers from Hatton and Nanuoya railway stations were conducting transport facilities.
+
+The train tracks were devoted to the Kandyan railway track by the Kandyan railway stations on the Kandyan Railway Stations on the 13th.
+
+◼️
 
 [Data](articles/f252aaf8.json)
+
+[Extended Data](ext_articles/f252aaf8.ext.json)
 
 ---
 
@@ -131,6 +207,8 @@ The Navy Chief expressed these comments while joining an inspection of the relev
 ◼️
 
 [Data](articles/f2aa5956.json)
+
+[Extended Data](ext_articles/f2aa5956.ext.json)
 
 ---
 
@@ -2261,93 +2339,5 @@ Accordingly, South Africa qualified for the Super Pite round of all four matches
 [Data](articles/bf03daec.json)
 
 [Extended Data](ext_articles/bf03daec.ext.json)
-
----
-
-### Unidentified body found in Kayts
-
-*2024-06-15 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99891/unidentified-body-found-in-kayts) · `en`
-
-The body of an unidentified individual has been discovered in the Madaththaveli area of Kayts.
-
-Police said that investigations were initiated after the Kayts Police received information about the incident last evening (14th).
-
-An autopsy has been carried out, but the identity of the deceased remains unknown.
-
-Police mentioned that the deceased is aged between 45 and 50 years and approximately 05 feet 02 inches tall.
-
-The body has been placed in Jaffna Hospital. Further investigations are being conducted by the Kayts Police.
-
-◼️
-
-[Data](articles/959bb3ad.json)
-
-[Extended Data](ext_articles/959bb3ad.ext.json)
-
----
-
-### Elephant attack in Kinniya
-
-*2024-06-15 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186118) · `ta`
-
-A 26-year-old man from Kinniya was killed by an elephant while visiting his father's farm. The incident occurred in the Vanla Chundiyiyadiyam area. His body was taken to Trincomalee General Hospital for an autopsy, and the Kinniya police are investigating.
-
-🟩
-
-An elephant attack was killed last Friday night (14) in the Vanla Chundiyiyadiyam area of ​​the Kinniya Divisional Secretariat Division.
-
-The deceased is a 26 -year -old young family member of the Kinniya Idima.
-
-An elephant hiding him was attacked by a young family member who went to his father's farm last night.
-
-The body of the deceased has been taken to the Trincomalee General Hospital for an autopsy. Kinniya police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/d503c0f4.json)
-
-[Extended Data](ext_articles/d503c0f4.ext.json)
-
----
-
-### Rumesh's gold medal
-
-*2024-06-15 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197778) · `si`
-
-Rumesh won a gold medal in the Asian Twenty Championship in South Korea, setting a new Sri Lankan record with his spear throw of 85.45 meters.
-
-🟩
-
-Rumesh wave was won the gold medal in the Asian Twentry Championship in South Korea.
-
-He was established and a new Sri Lankan record.
-
-Rumesh's spear throwing up 85.45 meters in the match.
-
-◼️
-
-[Data](articles/98825915.json)
-
-[Extended Data](ext_articles/98825915.ext.json)
-
----
-
-### Sri Lanka beats key IMF program targets for March 2024 amid rupee stability
-
-*2024-06-15 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-beats-key-imf-program-targets-for-march-2024-amid-rupee-stability-168140/) · `en`
-
-ECONOMYNEXT – Sri Lanka has exceeded key quantitative targets set in an International Monetary Fund program for March 2024, based on preliminary data the Washington based agency said in a report.
-
-The March data are not performance criteria on which reviews are conducted but are indicative targets which shows the progress of the program and are a stepping stone for a September review based on June data.
-
-An indicative target for the primary balance (roughly overall deficit minus interest costs), was assessed at 316 billion rupees more than four times the 70 billion rupee target set in the program.
-
-Primary balance can be a big surplus if the interest bill is high and capital expenditure is cut. It is a type of crisis management measure used by the IMF, after a central bank triggers a currency crisis by cutting rates with inflationary liquidity tools and goes it for help.
-
-...
-
-[Data](articles/fc8984a6.json)
-
-[Extended Data](ext_articles/fc8984a6.ext.json)
 
 ---

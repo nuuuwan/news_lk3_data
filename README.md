@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 10:05:04**
+As of **2024-06-16 10:19:04**
 
 ## Newspaper Stats
 
-*Scraped **30,562** Articles*
+*Scraped **30,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,462
 tamilmirrorlk | 3,575
 virakesarilk | 4,687
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,947
+adaderanasinhalalk | 4,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,561 (100.0%) of 30,562 articles have been extended.
+30,562 (100.0%) of 30,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
+
+### අපිට සමාවෙන්න - මැතිව්ස්
+
+*2024-06-16 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197806) · `si`
+
+කණ්ඩායමක් වශයෙන් මුළු රටෙන්ම සමාව ඉල්ලන බව ශ්‍රී ලංකා කණ්ඩායමේ සුපිරි ක්‍රීඩක ඇන්ජලෝ මැතිව්ස් පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් ඇන්ජලෝ මැතිව්ස් පවසා සිටියේ කණ්ඩායමේ බලාපොරොත්තු සහ රටේ බලාපොරොත්තු විනාශ වීම ගැන ඔවුන් කනගාටුවෙන් සිටින බවය.
+
+...
+
+[Data](articles/e7dc444f.json)
+
+---
 
 ### Navy hands over 600 kg of drugs at 6 months
 
@@ -208,29 +222,35 @@ The speed of the wedding in the rest of the sea is about 1st.. (25-35) and the s
 
 ---
 
-### ජාත්‍යන්තර ප්‍රේෂණ දිනය: දරුවන් වෙනුවෙන් දරුවන් අතහැර යන විදෙස් ශ්‍රමිකයින්ගේ මහන්සිය වතුරේ යයි ද?
+### International Remittance Date: Is the hard work of foreign workers who leave their children for their children?
 
 *2024-06-16 03:16:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c255w2nvy2do) · `si`
 
-ජාත්‍යන්තර ප්‍රේෂණ දිනය: දරුවන් වෙනුවෙන් දරුවන් අතහැර යන විදෙස් ශ්‍රමිකයින්ගේ මහන්සිය වතුරේ යයි ද?
+The text discusses the impact of international remittances, focusing on the case of Sri Lankan workers abroad. It highlights the personal story of Neela, a development officer turned foreign worker in Israel, aiming to improve her family's life financially. Despite missing her children and facing challenges, she sees her sacrifices as necessary for her family's future. The narrative underscores the significance of remittances for developing economies, citing examples from various countries. It also mentions the International Day of Family Remittances and its focus on digital remittances to reduce costs. The piece concludes with reflections on the need for skilled migration and the potential risks of human trafficking, emphasizing the importance of strategic planning and support for migrant workers.
 
-බාහිර උපාධියක් ලබාගෙන කුරුණෑගල ප්‍රදේශයේ ප්‍රාදේශීය ලේකම් කාර්යාලයක සංවර්ධන නිලධාරිනියක ලෙස සේවය කරමින් සිටි නීලා, මේ වන විට ඊශ්‍රායලයේ වැඩිහිටියන් රැක බලා ගන්නා තැනැත්තියක ලෙස සේවය කරයි.
+🟩
 
-ඇයට එම අවස්ථාව උදා වූයේ, රාජ්‍ය සේවකයින්ට වසර කිහිපයක් විදේශගත රැකියාවල නිරත වීම සඳහා රැකියාවෙන් නිදහස් කිරීමට ශ්‍රී ලංකා රජය ගත් තීරණය හේතුවෙනි.
+International Remittance Date: Is the hard work of foreign workers who leave their children for their children?
 
-නීලා යනු ඇයගේ සැබෑ නම නොව, ඇය හැඳින්වීම සඳහා භාවිත කෙරෙන ආරෝපිත නාමයක් බව සලකන්න.
+Celay, who has been serving as a Development Guard in Kurunegala, has been working as a development officer in Kurunegala area with a degree of an external degree.
 
-නීලා දරුවන් දෙදෙනෙකුගේ මවක වන අතර, ඇයගේ සැමියා සුළු ව්‍යාපාරයක් පවත්වාගෙන යයි.
+She was the decision of the Government of Sri Lanka to release public servants to work for several years.
 
-"මට සංවර්ධන නිලධාරිනියක් විදිහට හම්බ වුණේ පොඩි වැටුපක්. ගෙයක් හදා ගන්න, දරුවන්ට උගන්වන්න, වාහනයක් ගන්න මට ලොකු හීන තිබුණා. ඒත් රජයේ රැකියාවෙන් මට ඒවා ඉෂ්ට කර ගන්න අමාරු යි. ඒ නිසා මම තීරණය කළා අවුරුදු දෙකකට ඊශ්‍රායලයට එන්න," නීලා පැවසුවා ය.
+Note that Neela is not her real name, but that she is an charged name used for introducing.
 
-'වසර දෙකකදී ශ්‍රී ලාංකිකයින් ලක්ෂ 25ක් රට හැර ගිහින්; ඩොලර් මිලියන 10,000ක් ශ්‍රී ලංකාවට එවලා'
+A mother of two children is a mother of two children, and her husband runs a small business.
 
-නීලා පවසන පරිදි ඇයගේ සිහින මේ වන විට ටිකෙන් ටික ඉටු‌ වෙමින් පවතී.
+"I met a small salary as a development officer. To make a house, teach children, and I had a big diminishing to take a car. But the government job is hard to do them. So I decided to come to Israel for two years, "noble said.
+
+25 lakhs of Sri Lankans left the country in two years;10,000 million USA to Sri Lanka
+
+According to the Neela, her dreams are still being performed.
 
 ...
 
 [Data](articles/90a035c5.json)
+
+[Extended Data](ext_articles/90a035c5.ext.json)
 
 ---
 
@@ -2281,25 +2301,5 @@ Foreign Affairs Minister Ali Sabry yesterday announced that a high-level delegat
 [Data](articles/ab65d068.json)
 
 [Extended Data](ext_articles/ab65d068.ext.json)
-
----
-
-### Police seeks court order to repatriate ASP involved in Uddika’s self-orchestrated shooting
-
-*2024-06-15 01:16:47* · [`dailyftlk`](https://www.ft.lk/news/Police-seeks-court-order-to-repatriate-ASP-involved-in-Uddika-s-self-orchestrated-shooting/56-763124) · `en`
-
-An Assistant Superintendent of Police (ASP) believed to have helped former Sri Lanka Podujana Peramuna (SLPP) Anuradhapura district MP Uddika Premaratne to orchestrate a shooting against himself has fled Sri Lanka, according to the police.
-
-ASP Sanjeewa Mahanama who had supported the actor turned politician had been attached to the Police Transport Division and based in Anuradhapura at the time of the incident.
-
-It is believed the ASP had carried out the shooting on the instructions of Premaratne. According to reports, Mahanama had returned his service pistol to the police through a third party after fleeing the country on 12 June. Police Spokesperson DIG Nihal Thalduwa said Mahanama had not obtained necessary permission to leave the country.
-
-Police sources said they plan to seek a court order for Mahanama’s repatriation.
-
-...
-
-[Data](articles/1d75405e.json)
-
-[Extended Data](ext_articles/1d75405e.ext.json)
 
 ---

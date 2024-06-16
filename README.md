@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-16 18:24:00**
+As of **2024-06-16 18:35:18**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,627 (100.0%) of 30,631 articles have been extended.
+30,631 (100.0%) of 30,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-16 (Sunday)
 
-### மாணவன் மீது மாணவன் கத்திக்குத்து
+### The student screams on the student
 
 *2024-06-16 18:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவன்-மீது-மாணவன்-கத்திக்குத்து/76-338972) · `ta`
 
-கண்டியில் உள்ள முன்னணி பாடசாலையொன்றில் கல்வி கற்கும் மாணவர் ஒருவரை மற்றுமொரு மாணவன் கத்தியால் குத்தியதில் அவருக்கு பலத்த காயம் ஏற்பட்டுள்ளது. கண்டி அம்பிட்டியவிலே​யே இச்சம்பவம் இடம்பெற்றுள்ளது.
+A tragic incident occurred at a prominent school in Kandy, where a student was fatally stabbed by another from the same grade. The victim and perpetrator were both from Ampitiya, Uduuwela, and the motive behind the attack was prejudice. The suspect is in custody, and the injured have been hospitalized.
 
-காயமடைந்தவர் கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அம்பிட்டிய, உடுவெல பிரதேசத்தில் வசிப்பவர்கள் இருவரும் பாடசாலையில் தரம் பதினொன்றில் கல்வி பயின்று வந்தனர்.
+🟩
 
-சந்தேக நபர் கண்டி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். முன்விரோதம் காரணமாக கத்தியால் குத்தப்பட்டது விசாரணையில் தெரியவந்தது.
+Another student was stabbed to death at a leading school in Kandy. The event took place in Ampitiya, Kandy.
+
+The injured has been admitted to the Kandy National Hospital. Both residents of Ampitiya, Uduuwela area were studying in grade eleven at the school.
+
+The suspect has been arrested by Kandy police. The investigation revealed that the knife was stabbed due to prejudice.
 
 ◼️
 
 [Data](articles/964a8baf.json)
 
+[Extended Data](ext_articles/964a8baf.ext.json)
+
 ---
 
-### ජනපති මන්නාරම රදගුරු හිමි හමු වෙති
+### President is found Mannar Bishops
 
 *2024-06-16 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197823) · `si`
 
-ජනපති සහ මන්නාරම රදගුරු ආචාර්ය ෆිඩෙල්ස් ලයනල් එම්මානුවෙල් ප්‍රනාන්දු හිමියන් අතර අද (16) හමුවක් සිදු කෙරුණි.
+The President met with Mannar Bishop Dr. Fidelles Lionel Emmanuel Fernando, discussing the economic crisis and appreciating the President's economic reforms. They focused on developing Mannar as a renewable energy hub and mentioned ongoing pre-feasibility studies for connecting Sri Lanka and India, with future full feasibility studies planned.
 
-එහිදී ආර්ථික අර්බුදය ඇතුළු කරුණු කිහිපයක් පිළිබඳව අවධානය යොමුවී තිබේ.
+🟩
 
-රට ආර්ථික අර්බුදයෙන් මුදා ගැනීමට ජනාධිපතිවරයා කරන ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලිය මෙහිදී රදගුරු හිමියන් අගය කර තිබූ බවද ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The President and Mannar Bishop Dr. Fidelles Lionel Emmanuel Fernando met today (16).
 
-එමෙන්ම මන්නාරමේ සිට පේදුරුතුඩුව සහ මුලතිව් පුනර්ජනනීය බලශක්ති කේන්ද්‍රස්ථානයක් ලෙස සංවර්ධන කිරීමේ සැලසුම් පිළිබඳවද මෙහිදී අවධානය යොමුවී තිබේ.
+There are a number of things including the economic crisis.
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ගොඩබිම් සම්බන්ධතාවයක් ඇති කිරීම සඳහා වන පූර්ව ශක්‍යතා අධ්‍යයනය මේ වනවිට සිදුකර අවසන් බවත් සම්පූර්ණ ශක්‍යතා අධ්‍යයනය ඉදිරියේදී සිදු කිරීමට නියමිත බවත් ජනාධිපතිවරයා මෙහිදී ප්‍රකාශ කළ බව ජනපති මාධ්‍ය අංශය වැඩිදුරටත් නිවේදනය කරයි.
+The President's Republic of the President has appreciated the President's economic reform in the economic crisis.
+
+It also focuses on the plans for development as a renewable energy hub of Mannar as a renewable energy hub.
+
+The President further stated that the pre-feasibility study of the land connection between Sri Lanka and India are ends and the full feasibility study will be carried out in the future.
 
 ◼️
 
 [Data](articles/620c95f6.json)
+
+[Extended Data](ext_articles/620c95f6.ext.json)
 
 ---
 
@@ -80,33 +92,41 @@ Wickremesinghe made this remark while addressing the Mannar District “Youth Co
 
 [Data](articles/672c2d48.json)
 
+[Extended Data](ext_articles/672c2d48.ext.json)
+
 ---
 
-### චීනයට අධික වැසි
+### Heavy rains in China
 
 *2024-06-16 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197822) · `si`
 
-දකුණු චීනයේ ප්‍රදේශ රැසකට බලපා ඇති අධික වැසි හේතුවෙන් ජල ගැලීම් ආපදා රැසක් වාර්තා වෙයි.
+Heavy rains in southern China have caused widespread flooding and disaster reports. The situation is expected to worsen as more rain is forecasted. Floods have already submerged areas, affecting millions. Authorities have issued flood warnings and are evacuating residents to safe zones.
 
-එරට කාලගුණ අංශ පුරෝකථනය කරන්නේ ඉදිරි දිනවලත් අධික වැසි වාර්තාවිය හැකි බවය.
+🟩
 
-චීනයේ දකුණු සහ නිරතදිග පෙදෙස්වලින් මෙලෙස දින කිහිපයක සිට අධික වැසි සහිත අයහපත් කාලගුණ තත්ත්වයක් වාර්තා වී තිබේ.
+A large number of disasters have been reported due to heavy rains affected areas in southern China.
 
-ප්‍රදේශයේ ගංගා පිටාර මට්ටමට ළඟා වෙමින් පවතින පසුබිමක වැසි තත්ත්වය ඉදිරි දිනවලත් පවතිනු ඇතැයි එරට කාලගුණ බලධාරීන් පවසයි.
+The people of the country foretell heavy rains in the next day.
 
-දැනටමත් දකුණු දිග චීනයේ ඇතැම් පෙදෙස් ජලයෙන් යටවී ඇති අයුරු විදෙස් මාධ්‍ය වාර්තා කරයි.
+South and Jaffna's southern and engaged areas have been reported in a few days.
 
-ජලගැලීම් ඇතුළු කාලගුණය ආශ්‍රිත අනතුරුවලින් චීනයේ ෆුජියැන් සහ ගුඇන්ෂී නගරවලට වැඩි බලපෑම් එල්ල වී තිබේ.
+The rainy seat will remain in the coming setting to the river overflow of the area.
 
-එමෙන්ම ජලගැලීම් හේතුවෙන් එම කලාපයෙන් එක් පුද්ගල මරණයක්ද වාර්තා වී ඇතැයි සඳහන් ය.
+The southern China is already undermined in water.
 
-ආපදාවට ලක්වී සිටින පිරිස් ආරක්ෂිත ස්ථාන වෙත යොමු කිරීමටත් මුදා ගැනීමේ සේවකයින් පියවර ගෙන ඇත.
+China's floods, including floods, have been affected by Fugian and Guans in China.
 
-දකුණු චීනයේ පළාත් රැසකටම ජල ගැලීම් සම්බන්ධයෙන් සිව්වන මට්ටමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+It is also reported that the country has also been reported from the same region.
+
+The employees have taken steps to direct the victims to safety points.
+
+South China released the fourth level warnings on floods in southern China.
 
 ◼️
 
 [Data](articles/c6230cd8.json)
+
+[Extended Data](ext_articles/c6230cd8.ext.json)
 
 ---
 

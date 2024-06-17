@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 15:19:14**
+As of **2024-06-17 15:34:44**
 
 ## Newspaper Stats
 
-*Scraped **30,771** Articles*
+*Scraped **30,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 1,873
 adalk | 2,666
 adaderanalk | 3,488
 tamilmirrorlk | 3,610
-virakesarilk | 4,721
+virakesarilk | 4,728
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,988
+adaderanasinhalalk | 4,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,771 (100.0%) of 30,771 articles have been extended.
+30,771 (100.0%) of 30,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### ගාස්තු නැති විශේෂ දුම්රිය සේවාවක්
+
+*2024-06-17 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197850) · `si`
+
+පොසොන් පොහොය නිමිත්තෙන් මිහින්තලය වෙත පැමිණෙන බැතිමතුන් වෙනුවෙන් ගාස්තු අය කිරීමකින් තොරව ක්‍රියාත්මක වන විශේෂ දුම්රිය සේවාවක් අද (17) සිට ආරම්භ කිරීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+එමෙන්ම, කොළඹ සිට මහව දක්වා දුම්රියෙන් පැමිනෙන මගීන්ට මහව දුම්රිය ස්ථානයේ සිට අනුරාධපුර දක්වා ද විශේෂ බස් සේවාවක් ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇත.
+
+මේ වනවිට උතුරු දුම්රිය මාර්ගයේ මහව සහ අනුරාධපුර දුම්රිය ස්ථාන අතර ප්‍රදේශයේ ප්‍රතිසංස්කරණ කටයුතු අවසන් වී නොමැති බැවින් මෙවර පොසොන් පොහොය වෙනුවෙන් දුම්රිය යෙදවීමට නොහැකිවී තිබේ.
+
+එම නිසා බැතිමතුන්ගේ පහසුව වෙනුවෙන් මහව සහ අනුරාධපුර අතර බස් රථ පමණක් 400ක් අතිරේකව යෙදවීමට පියවර ගෙන තිබේ.
+
+මේ අතර අනුරාධපුරය හා මිහින්තලය අතර දුම්රිය මාර්ගය ප්‍රතිසංස්කරණය කිරිමෙන් අනතුරුව එය විවෘත කිරිම හා මංගල දුම්රිය ධාවනය අද පෙරවරුවේ ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අනුරාධපුර දුම්රිය ස්ථානයේ දී  සිදුකෙරුණි.
+
+ජාතික පොසොන් සතිය හෙට (18) සිට ආරම්භ වෙන අතර ඒ වෙනුවෙන් අටමස්ථානය කේන්ද්‍ර කරගනිමින් පිංකම් රැසක් සංවිධාන කර තිබේ.
+
+...
+
+[Data](articles/e1fed31a.json)
+
+---
 
 ### Israeli Prime Minister makes a strong decision
 
@@ -78,6 +100,82 @@ The Sri Lankan skipper further said: “We talked about our mistakes from both t
 
 ---
 
+### யாழ். அல்லைப்பிட்டி கடற்பரப்பில் மிதந்து வந்த மர்மப் பெட்டி
+
+*2024-06-17 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186266) · `ta`
+
+யாழ்ப்பாணத்தில் கடலில் அடித்து வரப்பட்டு , கரையொதுங்கிய மர்ம பெட்டி ஒன்றில் இருந்து தொலைத்தொடர்பு சாதனம் மீட்கப்பட்டுள்ளது.
+
+அல்லைப்பிட்டி கடற்பரப்பில் மிதந்து வந்த மர்ம பெட்டி ஒன்று நேற்று ஞாயிற்றுக்கிழமை (17) கரையொதுங்கியுள்ளது.
+
+அது தொடர்பில் ஊர்காவற்துறை பொலிஸாருக்கு அறிவிக்கப்பட்டதை அடுத்து , சம்பவ இடத்திற்கு சென்ற பொலிஸார் கரையொதுங்கிய பெட்டியை திறந்து பார்த்த வேளை அதனுள் தொலைத்தொடர்பு சாதனம் ஒன்று காணப்பட்டுள்ளது.
+
+அதனை மீட்டு பொலிஸ் நிலையம் எடுத்து சென்றுள்ள பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/337807e7.json)
+
+---
+
+### நாடளாவிய ரீதியில் சிறப்பாக நடைபெற்ற புனித ஹஜ் பெருநாள் தொழுகை
+
+*2024-06-17 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186258) · `ta`
+
+நாடளாவிய ரீதியில் பல்வேறு  இடங்களில் ஈதுல் அல்ஹா புனித ஹஜ் பெருநாள் தொழுகை இன்று திங்கட்கிழமை (17)  சிறப்பாக நடைபெற்றன.
+
+இலங்கை மேமன் சங்கம் வருடாந்தம் ஏற்பாடு செய்யும் பெருநாள் தொழுகை கொழும்பு காலி முகத்திடலில் நடைபெற்றது.
+
+காத்தான்குடி மாவட்டத்தின் பிரதான பெருநாள் தொழுகை  நகர சபை மைதானத்தில் நடைபெற்றது. அதில், சுமார் 5,000 திற்கும் அதிகமான ஆண்களும் பெண்களும் கலந்து கொண்டனர்.
+
+அஷ்ஷெய்க் எம்.ஏ.எம் .சிறார் பலாஹி பெருநாள் தொழுகையையும் குத்பாவையும் நடாத்தினார். பெருநாள் குத்பாவையொட்டி பொலிஸார் பாதுகாப்பு கடமையில் ஈடுபட்டனர்.
+
+மன்னார் மாவட்டத்திலும் மூர்வீதி ஜும்மா பள்ளிவாசலில் ஹஜ் பெருநாள் நிகழ்வுகள் சிறப்பாக மேற்கொள்ளப்பட்டுள்ளன.
+
+காலை 6.45 மணிக்கு பெண்களுக்கும் காலை 7.30 மணியளவில் ஆண்களுக்கும் பெருநாள் தொழுகை நடைபெற்றது. இவ் தொழுகை மூர்வீதி ஜும்மா பள்ளிவாசலின் மௌலவி எம்.அஸீம் தலைமையில் நடைபெற்றது.
+
+புத்தளம் மாவட்டத்தில் நோன்புப் பெருநாள் தொழுகை புத்தளம் கருப்புத்தரவை மைதானத்தில் நடைபெற்றது. குறித்த பெருநாள் தொழுகை இமாம் மின்ஹாஜ் அவர்களினால் நிகழ்த்தப்பட்து.
+
+...
+
+[Data](articles/9fef041a.json)
+
+---
+
+### கதிர்காம பாதை யாத்திரை : வீதி வழிப் பயணத்தை பிற்போட்டமை கவலையானது - இராவணண் சேவா அமைப்பு
+
+*2024-06-17 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186271) · `ta`
+
+கதிர்காம பாதை யாத்திரையின் போதான அதன் வீதி வழி பயணத்தை பிற்போட்டமை பெரும் கவலையளிக்கிறது என இராவணண் சேவா அமைப்பின் தலைவர் கே.செந்தூரன் தெரிவித்தார்.
+
+திருகோணமலையில் இன்று திங்கட்கிழமை (17) இடம் பெற்ற ஊடக சந்திப்பின் போதே இவ்வாறு தெரிவித்தார்.
+
+அவசரமாக சென்று யாத்திரைகளை நிறைவேற்ற முடியாது பக்தர்களின் வருகையை குறைக்கும் செயலாக இந்த நாட்கள் பிற்போடப்பட்டமை காணப்படுகிறது .
+
+பண்டைய காலம் தொடக்கம் மரபு ரீதியாக இது நடை பெறுகின்றது நேர்த்தி கடனுக்காக சிறுவர்கள் முதல் பெரியார்கள் ,கர்ப்பிணி தாய்மார்கள் என உகந்தை முதல் கதிர்காம யாத்திரைகளை சைவப்படி மேற்கொள்வது வழக்கம் ஆனால் தற்போது அடுத்த மாதம் 2ம் திகதி வரை பிற்போட்டிருப்பதும் குறுகிய காலத்தில் செய்வதென்பதும் தடுக்கும் செயலாக காணப்படுகிறது சிங்களவர்கள் தமிழர்கள் என பலரும் கதிர்காம யாத்திரையினை மேற்கொள்வது வழக்கம்.
+
+ஈழத்து சைவர்களின் வாழ்வியலில் ஒன்றாக காணப்படுகிறது. நடந்து சென்று நேர்த்தி கடனை நடந்து சென்று ஆண்மீகம் தொன்று தொட்டு நடந்து வருகிறது கடினமான பாதை காடுகள் ஊடாக செல்ல வேண்டும்.
+
+...
+
+[Data](articles/180bb066.json)
+
+---
+
+### கலதுர தோட்ட தாக்குதல் சம்பவத்திற்கு உரிய சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும் - ரூபன் பெருமாள்
+
+*2024-06-17 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186275) · `ta`
+
+இரத்தினபுரி, கிரியெல்ல பொலிஸ் பிரிவிற்குற்பட்ட கலதுர தோட்டத்தில், தொழில் புரியும் தோட்டத் தொழிலாளி வேலைக்கு சமூக மளிக்காமையால் குறித்த தோட்டத்தின் காவலாளியாக கடமை புரியும்  பெரும்பான்மையினத்தவர் தொலைபேசி மூலமாக குறித்த தோட்டத் தொழிலாளியின் கணவரை சாடியதுடன் நிறுத்தி விடாமல், அன்றைய தினம் மாலை வேலையில் அவரது தோட்ட குடியிருப்பு அமைந்துள்ள பிரதேசத்திற்கு குடிபோதையில் ஆயுதங்கள் சகிதம் இன்னும் சில பெரும்பான்மையின காடையர்களுடன் சென்று, குறித்த குடும்பத்தினரை தாக்கியது மட்டுமல்லாது, அந்த இடத்திலிருந்து அவரை இழுத்துச் சென்று தோட்டக் குடியிருப்புக்கு அப்பாற்பட்ட பிரதேசத்தில் வைத்து மேலும் தாக்கியுள்ளனர்.
+
+தாக்குதலுக்கு உள்ளான வீராசாமி ஜெகதீஸ்வரன் (வயது 44) தற்போது இரத்தினபுரி மாவட்ட வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார்.
+
+...
+
+[Data](articles/afdf92d0.json)
+
+---
+
 ### Prices of coconut oil up
 
 *2024-06-17 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197848) · `si`
@@ -101,6 +199,38 @@ The convener of the All Ceylon Traditional Coconut Oil Products, Buddhika De Sil
 [Data](articles/672d2031.json)
 
 [Extended Data](ext_articles/672d2031.ext.json)
+
+---
+
+### மின்னணு இயந்திரங்கள் எல்லாம் கருப்பு பெட்டிகள் - ராகுல் காந்தி
+
+*2024-06-17 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186272) · `ta`
+
+''இந்தியாவில் உள்ள வாக்குப்பதிவு மின்னணு இயந்திரங்கள் எல்லாம் ஒரு கருப்பு பெட்டி.  அவற்றை யாரும் ஆராய அனுமதிக்கப்படுவதில்லை'' என மக்களவை உறுப்பினரும், காங்கிரஸ் கட்சியின் முன்னாள் தலைவருமான ராகுல் காந்தி குற்றம்சாட்டியிருக்கிறார்.
+
+இந்தியாவில் பதினெட்டாவது மக்களவைக்கான தேர்தல் ஏழு கட்டங்களாக நடைபெற்று நிறைவடைந்தது. தேர்தலில் பதிவான வாக்குகளை எண்ணி முடிவுகளும் வெளியிடப்பட்டன. இதில் பாரதிய ஜனதா கட்சி தலைமையிலான தேசிய ஜனநாயக கூட்டணி பெரும்பான்மை பெற்று ஆட்சி அமைத்திருக்கிறது.‌ காங்கிரஸ் கட்சி  நூறு இடங்களில் வெற்றி பெற்று எதிர்க்கட்சியாக அமைந்திருக்கிறது.
+
+இந்நிலையில் காங்கிரஸ் கட்சியின் முன்னாள் தலைவரும், வயநாடு மற்றும் ரேபரேலி தொகுதியின் மக்களவை உறுப்பினருமான ராகுல் காந்தி சமூக ஊடகத்தில் மின்னணு இயந்திரங்களை பற்றி பதிவு ஒன்றை வெளியிட்டிருந்தார்.
+
+...
+
+[Data](articles/2c7b5ac5.json)
+
+---
+
+### சம்மாந்துறையில் வேகமாக பயணித்த மோட்டார் சைக்கிள் மோதியதில் வயோதிபரும் சிறுவனும் காயம்
+
+*2024-06-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186256) · `ta`
+
+சம்மாந்துறை பொலிஸ் வீதியில் இன்று திங்கட்கிழமை (17) காலை 10 மணியளவில் இடம்பெற்ற விபத்தில் வயோதிபர் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அவ் வீதியால் பயணித்த மோட்டார் சைக்கிள் துவிச்சக்கரவண்டியில் பயணித்த வயோதிபருடன் மோதி விபத்துக்குள்ளானதில் வயோதிபர் காயமடைந்து ஆபத்தான நிலையில் அவசர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இதேவேளை, வீட்டின் முன்னால் அமர்ந்து இருந்த சிறுவன் மீதும் அதே மோட்டார் சைக்கிள் மோதியதுடன், அச்சிறுவனும் காயமடைந்த நிலையில், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சம்பவ இடத்தில் இருந்த பொதுமக்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3575509d.json)
 
 ---
 
@@ -341,6 +471,22 @@ Maithripala Sirisena was the only 24-hour candidate for the country, the Gotabha
 [Data](articles/ecd3743b.json)
 
 [Extended Data](ext_articles/ecd3743b.ext.json)
+
+---
+
+### யாழில் 18 கிலோ கேரளா கஞ்சாவுடன் ஒருவர் கைது!
+
+*2024-06-17 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186269) · `ta`
+
+யாழ்ப்பாணத்தில் 18 கிலோ கேரளா கஞ்சாவுடன் நபர் ஒருவரை பொலிஸ் விசேட அதிரடி படையினர் ஞாயிற்றுக்கிழமை (16) கைது செய்துள்ளனர்.
+
+அல்லைப்பிட்டி பகுதியில் கேரளா கஞ்சா பதுக்கி வைக்கப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸ் விசேட அதிரடி படையினர் 18 கிலோ கஞ்சாவை மீட்டுள்ளனர்.
+
+கைதுசெய்யப்பட்ட நபரையும் மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக ஊர்காவற்துறை பொலிஸ் நிலையத்தில் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/1bceab2e.json)
 
 ---
 
@@ -2157,187 +2303,5 @@ The President also said that the Indian Foreign Minister will be discussing furt
 [Data](articles/e69013f0.json)
 
 [Extended Data](ext_articles/e69013f0.ext.json)
-
----
-
-### No need to hear the leg, half, three -quarters
-
-*2024-06-17 01:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்-அரை-முக்கால்-கேட்க-தேவையில்லை/175-338990) · `ta`
-
-Douglas Devananda discusses the 13th Amendment, highlighting its introduction as part of the Sri Lanka-India Agreement due to Tamil sacrifices. He criticizes the lack of implementation and the failure of Tamil parties to utilize opportunities for change. He emphasizes the importance of addressing issues proactively, drawing parallels with global conflicts like those in Palestine and Gaza.
-
-🟩
-
-Douglas Devananda, Secretary -General and Minister of the EPDP, said that we are not concerned with our welfare.
-
-He said this while commenting on the 13th Amendment at a media briefing held at his party office in Jaffna on Sunday (16).
-
-The main candidates who are contesting the upcoming presidential election have come to the Northern Province. You know what they have spoken and what other Tamil parties have heard.
-
-The Tamil party, in particular, has asked them, "Calvasi thariya, a half -tharami, three -quarters. But we don't have to ask.
-
-In fact, the 13th Amendment was introduced as the Sri Lanka-India Agreement Media due to the sacrifices of the Tamil people.
-
-When the correction is available, half the half, Kavasi, three -quarters. He said it was fully.
-
-India had also sent its forces at the time of implementing it. Thus, one side sent its forces and took action diplomatically.
-
-...
-
-[Data](articles/94be8dea.json)
-
-[Extended Data](ext_articles/94be8dea.ext.json)
-
----
-
-### 5,000 land bonds in Mannar
-
-*2024-06-17 01:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-5-000-நிலப்-பத்திரங்கள்-வழங்கி-வைப்பு/175-338989) · `ta`
-
-President Ranil Wickremesinghe announced a "Heritage" program in Mannar, aiming to boost property values and strengthen the economy by issuing 5,000 land certificates. He also distributed checks for fertilizers, agricultural insurance, and fishing equipment to aid farmers and fishermen post-Corona and economic crisis. Highlighting the issue of land ownership among 90,000 families in the north, he urged swift registration for 45,000 eligible families, promising action for the rest. The initiative, seen as revolutionary, offers free land rights, a first in Asia, and aims to empower landless families, especially those affected by the war and economic downturn.
-
-🟩
-
-President Ranil Wickremesinghe has said that through the 'Heritage' program, obtaining the land rights of the people can increase their property value.
-
-The president pointed out that the value of assets that had fallen due to the economic crisis and Corona infection had once again risen by the “heritage” program that is capable of strengthening the country's economy.
-
-President Ranil Wickremesinghe made this observation at the Mannar City Hall Auditorium on Sunday (16) at the National Program under the National Program for the people of Mannar district.
-
-Under this program, 5000 land certificates will be issued to the Mannar district under this program.
-
-The President also issued checks to the farmers of Mannar district to provide fertilizer money.
-
-Due to the past bad weather, agricultural insurance was provided to the destroyed agricultural crops in Mannar district and funds were provided for the purchase of fishing equipment to the area.
-
-...
-
-[Data](articles/64583ef3.json)
-
-[Extended Data](ext_articles/64583ef3.ext.json)
-
----
-
-### Sumanthiran says that Sivajilingam is accustomed to
-
-*2024-06-17 00:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவாஜிலிங்கத்துக்கு-பழக்கதோசம்-என்கிறார்-சுமந்திரன்/175-338988) · `ta`
-
-MA Sumanthiran, from the Tamil National Alliance (TNA), announced that their central committee hasn't backed any Tamil candidate for the presidency due to ongoing discussions and lack of clear election reports. The TNA plans to decide on a Tamil candidate soon and will engage in talks with potential candidates, including Ranil Wickremesinghe. They emphasize the importance of addressing power devolution issues, criticizing public declarations without concrete action. Despite reservations about the current constitutional proposals, they advocate for its implementation. The TNA stresses the significance of Tamil votes in a multi-candidate race and urges careful consideration in leveraging this opportunity.
-
-🟩
-
-Parliamentarian MA Sumanthiran said that the TNA's central committee has not taken decisions in support of the Tamil candidate in the presidential election.
-
-The Central Committee meeting of the Tamil National Party was held on Sunday (16). He further stated that,
-
-The candidates are still unaware of the election. Their election reports are still not revealed. We had decided to decide then.. In addition, we will make a timely decision on the Tamil general candidate.
-
-Two candidates who have declared themselves as candidates have come to the leadership of the TNA and held talks with us.. This is an early negotiation.We will continue to talk to such people. If Ranil Wickremesinghe declares himself as a candidate, we will talk to him.
-
-No results have been taken yet. But the candidates who have been shouting in public about the devolution of power have been contested and the 13th Amendment will be fully implemented.
-
-...
-
-[Data](articles/044a49c8.json)
-
-[Extended Data](ext_articles/044a49c8.ext.json)
-
----
-
-### Sri Lanka to end patrician tax free car permits under IMF deal?
-
-*2024-06-17 00:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-end-patrician-tax-free-car-permits-under-imf-deal-168339/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s car import relaxation will be linked to ending the practice of giving permits to special interest groups like civil servants, according to an International Monetary Fund program.
-
-Sri Lanka has provided an initial plan to remove vehicle imports by May 21 and has pledged to give a detailed one by June 15.
-
-“This finalized plan is tied to removing tax exemptions on imports of motor vehicles granted to specific groups including civil servants to curb any revenue leakages from the lifting of the restrictions,” the IMF program said.
-
-“In order to support the recovery, we will relax restrictions on vehicles used for commercial purposes by June 2024.”
-
-Sri Lanka gives tax slashed vehicles to state workers and completely tax-free vehicles to the elected ruling class.
-
-...
-
-[Data](articles/9862a269.json)
-
-[Extended Data](ext_articles/9862a269.ext.json)
-
----
-
-### Why Sri Lanka needs new leadership
-
-*2024-06-17 00:01:28* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-new-leadership/4-763140) · `en`
-
-Wickremesinghe’s track record suggests a pattern of governance that prioritises personal and political survival over genuine public service
-
-In the complex and turbulent political landscape of Sri Lanka, Ranil Wickremesinghe has emerged as a figure of significant controversy. Despite holding the office of Prime Minister six times and now serving as President, his tenure has been marked by a series of strategic manoeuvres that have often sidelined democratic principles and prioritised political expediency over national interest.
-
-Wickremesinghe’s political career is a study in resilience and opportunism, akin to a chameleon that changes its colours to blend with its surroundings. The leader of the United National Party (UNP), the oldest political party in Sri Lanka, he has managed to stay relevant through numerous political storms. However, his methods and motivations raise serious concerns.
-
-...
-
-[Data](articles/27eaccd7.json)
-
-[Extended Data](ext_articles/27eaccd7.ext.json)
-
----
-
-### 2024-06-16 (Sunday)
-
-### Critique on IMF’s second review under Extended Fund Facility
-
-*2024-06-16 23:57:42* · [`dailyftlk`](https://www.ft.lk/columns/Critique-on-IMF-s-second-review-under-Extended-Fund-Facility/4-763138) · `en`
-
-The IMF second review has not properly guided the Government to execute its first responsibility of ensuring macroeconomic stability and its continuing efficacy
-
-The IMF issued a Press Release No. 24/214 on 12 June completing the second review under the Extended Fund Facility for Sri Lanka.
-
-The economy is a system. The way we understand any system might be different. We understand the economy as a system having a cause-and-effect relationship. In such a system, as Buddhism preaches, nothing will happen without necessary conditions. When we look at the IMF second review, economic vulnerabilities just arise not knowing proper causes. Take the very first paragraph of IMF report. It says as follows:
-
-...
-
-[Data](articles/0addd9ec.json)
-
-[Extended Data](ext_articles/0addd9ec.ext.json)
-
----
-
-### Fly high – dream big
-
-*2024-06-16 23:55:15* · [`dailyftlk`](https://www.ft.lk/columns/Fly-high-dream-big/4-763137) · `en`
-
-Imposing such high-sounding targets to a set of ministers with such backgrounds sounds patently absurd and wildly illogical to say the least
-
-We are living in an era under a high-level focus by UN authorities on the creation of a global level roadmap, with an open data platform, to commit all nations towards a Sustainable Development Goal.
-
-This concept emerged with the Heads of State and High Representatives of Governments meeting at the United Nations Headquarters in New York from 25-27 September 2015 to celebrate its 70th anniversary, deciding on a new action program for a global Sustainable Development Goal (SDG).
-
-The declaration adopted at this forum incorporated inter-alia the following;
-
-...
-
-[Data](articles/8ec6b156.json)
-
-[Extended Data](ext_articles/8ec6b156.ext.json)
-
----
-
-### AKD’s NPP Must Win, But Where Is His Agenda & Platform?
-
-*2024-06-16 22:56:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-npp-must-win-but-where-is-his-agenda-platform/) · `en`
-
-Sri Lankans are finally ready to bid farewell to the three major parties. They are fed up with the old guard who have been cris crossing parties like leaches to remain in power, and eventually led our beloved homeland to financial ruin. It is widely believed and hoped that AKD will be elected to be our next President. I personally hope he will. Not so much know their agenda and policies but there is no other option.
-
-But like thousands more, I am confused why Anura Kumara Dissanayake has not revealed his platform. Sri Lankans are screaming for a wholesale system change. They expect AKD and his team to deliver.
-
-People are not expecting a change of face, but a change of the political structure that will create proper checks and balances, ensure independence of our criminal justice system, restore the rule of law and more.  With this in mind, here are my questions for AKD and his team
-
-...
-
-[Data](articles/0415d937.json)
-
-[Extended Data](ext_articles/0415d937.ext.json)
 
 ---

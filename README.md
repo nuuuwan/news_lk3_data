@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 17:04:28**
+As of **2024-06-17 17:19:20**
 
 ## Newspaper Stats
 
-*Scraped **30,791** Articles*
+*Scraped **30,794** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 282
 dbsjeyarajcom | 284
-bbccomsinhala | 300
+bbccomsinhala | 301
 newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,782
 dailyftlk | 1,873
-adalk | 2,668
+adalk | 2,669
 adaderanalk | 3,491
 tamilmirrorlk | 3,611
 virakesarilk | 4,731
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,991
+adaderanasinhalalk | 4,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,790 (100.0%) of 30,791 articles have been extended.
+30,791 (100.0%) of 30,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ In addition, Minister of Highways, Transport, and Mass Media, Bandula Gunawarden
 ...
 
 [Data](articles/ffffc8da.json)
+
+[Extended Data](ext_articles/ffffc8da.ext.json)
+
+---
+
+### ඉදිරි පැය 36 තුළ කාලගුණයේ වෙනසක්
+
+*2024-06-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197853) · `si`
+
+දිවයි‍නේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් ජූනි මස 19 වන දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව හා වයඔ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු , උතුරු - මැද  සහ වයඔ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ. කි. මී. 40-50ක පමණ තද සුළං ඇති විය හැකි බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ecc08f9f.json)
 
 ---
 
@@ -111,6 +129,24 @@ The Barber Assama, which has not been well-played in this year's tournament, has
 [Data](articles/f83f7ae7.json)
 
 [Extended Data](ext_articles/f83f7ae7.ext.json)
+
+---
+
+### සුපිරි රෙදිකඩේ බිද ලක්ෂ 26 නිමි ඇදුම් ඉස්සූ අඹුසැම් අත්අඩංගුවට
+
+*2024-06-17 15:55:10* · [`adalk`](https://www.ada.lk/breaking_news/සුපිරි-රෙදිකඩේ-බිද-ලක්ෂ-26-නිමි-ඇදුම්-ඉස්සූ-අඹුසැම්-අත්අඩංගුවට/11-410266) · `si`
+
+පානදුර නගරයේ සුපිරි රෙදිපිළි  වෙළඳ සැලක් කඩා  රුපියල් ලක්ෂ 26 ක් පමණ වටිනාකමකින් යුතු නිමි ඇදුම් සොරකම් කල  අඹුසැම් යුවලක්  අත්අඩංගුවට ගත් බව පානදුර කොට්ඨාස අපරාධ විමර්ශන ඒකකය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර ප්‍රදේශයේ පදිංචි 43 සහ 37 හැවිරිදි  අඹුසැම් යුවලක්  බව පොලිසිය කීය.
+
+සැකකරුවන් කාලයක පටන් සූක්ෂම ලෙස සුපිරි වෙළඳ සැලේ පිටුපස ජනේලයක් කඩා ඇතුළුව නිමි ඇදුම් සොරකම් කර ඇති බවද පොලිසිය කීය.
+
+ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක චන්න අමරසේකර මහතා ගේ ප්‍රධානත්වයෙන් පොලිස් පරීක්ෂක සුරංග රණවීර , සැරයන් ලාල් (18397), කොස්තාපල් වරුන්වන නාලක (76009) සහ දේවින්ද (102154) වැටලීමට එක්වූහ.
+
+◼️
+
+[Data](articles/4fbc1c93.json)
 
 ---
 
@@ -1536,6 +1572,20 @@ The scan uncovered a stock of suspicious parcels in a compartment sealed with fi
 
 ---
 
+### ශ්‍රී ලංකාවේ රුක් රෝපණය විද්‍යාත්මක ද? දේශපාලනික ද?
+
+*2024-06-17 10:29:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrrwpvy5r3o) · `si`
+
+ගෙවුණු දශක දෙක තුළ ශ්‍රී ලංකාවේ රුක් රෝපණ ව්‍යපෘති රැසක් ආරම්භ කරන තිබේ. ඒ සෑම ව්‍යාපෘතියකින්ම පාහේ පැළ මිලියනයක් හෝ ඊට වැඩි ප්‍රමාණයක් රෝපණය කිරීමට සැලසුම්කර තිබිණි. නමුත් ඒ ව්‍යාපෘති යටතේ රෝපණය කළ පැළ කොතරම් ප්‍රමාණයක් ඉතිරි වී තිබේද යන්න විමසා බැලීම වැදගත් ය.
+
+ශ්‍රී ලංකාවේ රුක් රෝපණ ව්‍යපෘතිවල ඉතිහාසය සලකා බැලීමේ දී ඒවා කොතරම් විද්‍යාත්මක ද නොඑසේ නම් දේශපාලනික ද යන්න ගැන මේ ලිපියෙන් අවදානය යොමු කෙරේ. කිනම් අරමුණකින් හෝ පැළ සිටිවීම යහපත් ක්‍රියාවකි. එහෙත් ඒ සඳහා තෝරා ගන්නා පැළ වර්ග කොතරම් දුරට අදාළ දේශගුණ තත්ත්වයට ගැලපෙන්නේ ද, ඒවා රැකබලා ගන්නේ කෙසේ ද යන්න සහ එම ව්‍යාප්ති මගින් සිටුවන ලද පැළ කොතරම් සංඛ්‍යාවක් ගස් බවට පත් වුයේ ද යන්න ගැන විමසා බැලිය යුතුය.
+
+...
+
+[Data](articles/52dfaffd.json)
+
+---
+
 ### Daddy and son arrested Chinese national opener
 
 *2024-06-17 09:59:44* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තයි-පුතයි-මගී-හුවමාරුව-මත-හැප්පූ-චීන-ජාතිකයා-අත්අඩංගුවට/11-410254) · `si`
@@ -2291,77 +2341,5 @@ The Eidul Alha can also be considered an occasion to admire humanity based on th
 [Data](articles/7181a9cf.json)
 
 [Extended Data](ext_articles/7181a9cf.ext.json)
-
----
-
-### Facilities for worshiping the Madhu Church without disturbing - President
-
-*2024-06-17 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186227) · `ta`
-
-President Ranil Wickremesinghe has pledged to enhance worship facilities at Madhu Church, ensuring unhindered access and addressing concerns raised by religious leaders. He directed military cleanup efforts along the Church Entrance Road and urged collaboration among various departments, including wildlife defense, road development, and police, to prepare for the upcoming church festival. The President also highlighted the importance of addressing climate change, promoting green energy, and boosting the economy through tourism, fishing, and renewable resources in the Mannar district.
-
-🟩
-
-President Ranil Wickremesinghe has promised to provide facilities for worship without hindrance.
-
-The President pointed out that the entrance to the sacred sites such as Madhu and the Sivanolipada mountain has been set up for those who are leading them and that it is impossible to arrest them.The President also announced the announcement to the President's Office immediately if the arrest of the worship of the Madhu Church was arrested.
-
-The President made this observation at the Special District Development Committee meeting held on Sunday (16) at the Mannar District Exchange.
-
-The President advised the military to clean up both sides of the Church Entrance Road for those who worship the Madhu Church, and instructed the military to do the work, and to contact the Mannar District Bishop for the work, the Department of Wildlife Defense Department, the Road Development Authority and the police.
-
-...
-
-[Data](articles/6cc9ee4c.json)
-
-[Extended Data](ext_articles/6cc9ee4c.ext.json)
-
----
-
-### Do not reverse any environmental law- the president
-
-*2024-06-17 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186226) · `ta`
-
-President Ranil Wickremesinghe has directed against reversing any environmental laws, emphasizing the renewal of existing ones and the introduction of a new Climate Change Act. The government is launching initiatives to boost the economy without harming the environment, aiming for a sustainable future. Efforts include tree planting campaigns, enhancing forest cover, and managing biodiversity. The Ministry of Environment is also focusing on controlling pollution, managing waste, and promoting environmental education and awareness.
-
-🟩
-
-Provincial Councils, Local Government and Environment Minister Janaka Wakambura said that President Ranil Wickremesinghe has issued a directive not to change any law enacted to protect the environment.
-
-The Minister of State also stated that the current environmental law will be renewed and the new Bill will be presented in Parliament with a climate change law.
-
-Speaking at a press conference held at the Presidential Media Center on Sunday (16), the provincial councils, local government and environment Minister Janaka Wakambura said this.
-
-The Minister of State also stated that an emergency program has been launched to contribute to the economy of the country, which is not harmful to the environment.
-
-...
-
-[Data](articles/a8030b2c.json)
-
-[Extended Data](ext_articles/a8030b2c.ext.json)
-
----
-
-### Bore. The body of a man is recovered on Thousand Mandapam Mandapam Road
-
-*2024-06-17 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186224) · `ta`
-
-A man's body was found near Thousand Mandapam Road, leading to police investigation. Suspected of attacking an elephant, his family had previously visited the Thousand Leg Mandapam Vairavar Temple.
-
-🟩
-
-The villagers have reported the body at the mouth of the Thousand Mandapam road and the police have subsequently visited the body and carried out further investigations.
-
-During the investigation, Pillaiyankutty Pulendran, father of 64 years of 64 children from Vellaveli Vivekanandapuram village.
-
-Wellaveli police said that he was suspected of attacking the elephant.
-
-Relatives have left the house last Friday evening and went to the Thousand Leg Mandapam Vairavar Temple.
-
-◼️
-
-[Data](articles/5d21c325.json)
-
-[Extended Data](ext_articles/5d21c325.ext.json)
 
 ---

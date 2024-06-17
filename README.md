@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 11:54:40**
+As of **2024-06-17 12:08:00**
 
 ## Newspaper Stats
 
-*Scraped **30,729** Articles*
+*Scraped **30,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 284
 bbccomsinhala | 299
 newsfirstlk | 363
 islandlk | 1,682
-economynextcom | 1,779
+economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,657
-adaderanalk | 3,480
-tamilmirrorlk | 3,601
+adalk | 2,658
+adaderanalk | 3,482
+tamilmirrorlk | 3,603
 virakesarilk | 4,716
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,980
@@ -26,11 +26,79 @@ adaderanasinhalalk | 4,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,714 (100.0%) of 30,729 articles have been extended.
+30,726 (100.0%) of 30,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### Sri Lankan economy bounces back as inflation dips; sharp industrial sector recovery
+
+*2024-06-17 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99923/sri-lankan-economy-bounces-back-as-inflation-dips-sharp-industrial-sector-recovery) · `en`
+
+Sri Lanka’s economy showed significant growth more than anticipated in the first quarter, marking a strong recovery from a severe foreign exchange crisis.
+
+While the 5.3% expansion in January-March marked an increase from the previous three months and was a huge improvement on the 10.7% contraction in the same quarter last year, the industrial sector has also indicated a sharp recovery with an expansion of 11.8% in the first quarter, according to State Minister of Finance Ranjith Siyambalapitiya.
+
+Siyambalapitiya said as a country with a negative economy of less than 12% recorded in the last quarter of 2022, the people who look at this situation with a positive eye will observe the economic journey of Sri Lanka with hope.
+
+Furthermore, the State Minister said the overall annual growth in 2024 will be around 2.2%, as per the forecasts of the Central Bank of Sri Lanka.
+
+...
+
+[Data](articles/091d3135.json)
+
+---
+
+### கலதுர தோட்ட தாக்குதல்: ரூபன் பெருமாள் அதிரடி
+
+*2024-06-17 11:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலதுர-தோட்ட-தாக்குதல்-ரூபன்-பெருமாள்-அதிரடி/76-339014) · `ta`
+
+இரத்தினபுரி, கிரியெல்ல பொலிஸ் பிரிவிற்குற்பட்ட கலதுர தோட்டத்தில், தொழில் புரியும் பெண் தொழிலாளியின் மீது மேற்கொள்ளப்பட்ட தாக்குதல் சம்பவம் தொடர்பில் உரிய விசாரணைகளை முன்னெடுத்து, சம்பந்தப்பட்ட நபர்களுக்கு எதிராக கடுமையான நடவடிக்கைகளை எடுக்கவேண்டுமென இலங்கை தொழிலாளர் காங்கிரஸின் அரசியல் அமைப்பாளர் ரூபன் பெருமாள் வலியுறுத்தியுள்ளார்.
+
+தாக்குதலுக்கு இலக்கான அந்த பெண் தொழிலாளி,  வேலைக்கு சமூகமளிக்காமையால் குறித்த தோட்டத்தின் காவலாளியாக கடமை புரியும்  பெரும்பான்மையினத்தவர் தொலைபேசி மூலமாக குறித்த தோட்டத் தொழிலாளியின் கணவனை திட்டியுள்ளார்.
+
+அத்துடன், அவரது தோட்ட குடியிருப்பு அமைந்துள்ள கோட்டப்பந்தா பிரதேசத்திற்கு குடிபோதையில் ஆயுதங்கள் சகிதம் இன்னும் சில பெரும்பான்மையின சென்று, குறித்த குடும்பத்தினரை தாக்கியது மட்டுமல்லாது, அந்த இடத்திலிருந்து அவரை இழுத்துச் சென்று தோட்டக் குடியிருப்புக்கு அப்பாற்பட்ட பிரதேசத்தில் வைத்து  தாக்கியுள்ளனர்.
+
+தாக்குதலுக்கு உள்ளான வீராசாமி ஜெகதீஸ்வரன் (வயது 44) தற்போது இரத்தினபுரி மாவட்ட வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார்.
+
+...
+
+[Data](articles/53b66fae.json)
+
+---
+
+### 2 சிறுமிகள் துஷ்பிரயோகம்: பிக்கு சிக்கினார்
+
+*2024-06-17 11:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-சிறுமிகள்-துஷ்பிரயோகம்-பிக்கு-சிக்கினார்/175-339013) · `ta`
+
+12 மற்றும் 13 வயதுகளையுடைய இரண்டு சிறுமிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், அப் பிரதேசத்தைச் சேர்ந்த பிக்கு ஒருவர் கைது செய்யப்பட்டுள்ளார். இந்த சம்பவம் தனமல்வில பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+தபால் மூலமாக கிடைத்த இரகசிய முறைப்பாட்டுக்கு அமைய​ மேற்கொள்ளப்பட்ட விசாரணைகளின் பின்னர், அவ்விரு சிறுமிகளையும், அவ்விரு சிறுமிகளின் தாய்மார்களையும் பொலிஸார் அழைத்து விசாரணைக்கு உட்படுத்தியதில் மேற்படி சம்பவம் அம்பலமானது.
+
+உடல் ரீதியான துஷ்பிரயோகம் மற்றும் மன உபாதைகளுக்கு உட்படுத்திய குற்றச்சாட்டிக் கைது செய்யப்பட்ட பிக்குவை, நீதிமன்றத்தில் திங்கட்கிழமை (17) ஆஜர்படுத்துவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/576c99e3.json)
+
+---
+
+### Fire breaks out at function hall in Maligawatta
+
+*2024-06-17 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99922/fire-breaks-out-at-function-hall-in-maligawatta) · `en`
+
+A fire has reportedly broken out at a function hall at Jayantha Weerasekara Mawatha in Maligawatta this morning (17).
+
+It is reported that the Fire Brigade has managed to douse the flames.
+
+Ada Derana reporter said that no individuals were injured in the incident and only property damage has been reported so far.
+
+◼️
+
+[Data](articles/d46628c9.json)
+
+---
 
 ### Youth arrested for stealing jewelery on 200 flights
 
@@ -433,6 +501,24 @@ The police said that about 131 kilos of heroin.
 [Data](articles/05cda43e.json)
 
 [Extended Data](ext_articles/05cda43e.ext.json)
+
+---
+
+### Sri Lanka central govt debt to to GDP down to 100-pct by March 2024
+
+*2024-06-17 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-govt-debt-to-to-gdp-down-to-100-pct-by-march-2024-168424/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central government debt has fallen to 100.56 percent of gross domestic product by March 2024, down from 104.49 percent, amid economic recovery and exchange rate stability, official data shows.
+
+Sri Lanka’s economy grew 8.4 percent nominally in the March 2024 quarter, taking the rolling GDP up to 28,249 billion rupees from 27,629 as the central bank provided monetary stability through deflationary policy, for economic agents to work and generate value.
+
+The central bank also allowed the rupee to appreciate to 301 by March from 323 in December amid deflationary policy.
+
+Rupee strengthening also reduces the rupee value of dollar debt. Lower prices from currency strength can also increase disposal incomes of the people boosting tax revenues and overall economic activity.
+
+...
+
+[Data](articles/d9aa9a33.json)
 
 ---
 
@@ -1282,6 +1368,26 @@ No results have been taken yet. But the candidates who have been shouting in pub
 
 ---
 
+### Sri Lanka to end patrician tax free car permits under IMF deal?
+
+*2024-06-17 00:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-end-patrician-tax-free-car-permits-under-imf-deal-168339/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s car import relaxation will be linked to ending the practice of giving permits to special interest groups like civil servants, according to an International Monetary Fund program.
+
+Sri Lanka has provided an initial plan to remove vehicle imports by May 21 and has pledged to give a detailed one by June 15.
+
+“This finalized plan is tied to removing tax exemptions on imports of motor vehicles granted to specific groups including civil servants to curb any revenue leakages from the lifting of the restrictions,” the IMF program said.
+
+“In order to support the recovery, we will relax restrictions on vehicles used for commercial purposes by June 2024.”
+
+Sri Lanka gives tax slashed vehicles to state workers and completely tax-free vehicles to the elected ruling class.
+
+...
+
+[Data](articles/9862a269.json)
+
+---
+
 ### Why Sri Lanka needs new leadership
 
 *2024-06-17 00:01:28* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-new-leadership/4-763140) · `en`
@@ -1606,6 +1712,20 @@ The President was speaking at the Mannar District "Youth Conference" and the bus
 
 ---
 
+### රජය මේ වසරේදී දේශීය වෙළඳපොළොන් රු.බි. 3380ක් ණය අරගෙන
+
+*2024-06-16 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-මේ-වසරේදී-දේශීය-වෙළඳපොළොන්-රු-බි--3380ක්-ණය-අරගෙන/11-410250) · `si`
+
+මෙම වසරේ ජනවාරි පළමු වැනිදා සිට මැයි මස 31 වැනිදා සිට දක්වා රජය විසින් රුපියල් බිලියන 3,380ක පමණ ණය දේශීය වෙළඳපොළෙන් ලබා ගෙන ඇති බව ජුනි මස 13 වැනිදා නිකුත් කරන ලද මහ බැංකු විශ්ලේෂණ වාර්තාවක් මගින් අනාවරණය වන බව පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාළ මහතා පෙරේදා (15දා) පැවසීය.
+
+මෙහි දී මාස 05 කදී භාණ්ඩාගාර බිල්පත්වලින් රුපියල් බිලියන 3085 ක් පමණ ද, භාණ්ඩාගාර බැඳුම්කරවලින් රුපියල් බිලියන 785 ක් පමණ මුදලක් ද, රජය විසින් ණය ලෙස ලබා ගෙන ඇත. 2024 ජනවාරි මාසයෙහි දී රුපියල් බිලියන 878 ක් ද, පෙබරවාරි මාසයේ දී රුපියල් බිලියන 661 ක් ද, මාර්තු මාසයේ දී රුපියල් බිලියන 843 ක් ලබා ගෙන ඇති අතර අප්‍රේල් සහ මැයි මාස 02 ක තුළදි රුපියල් බිලියන  720 ක් සහ රුපියල් බිලියන  779 ක්ද ණය මුදල් ලෙස ලබා ගෙන ඇත.
+
+...
+
+[Data](articles/da2eec5a.json)
+
+---
+
 ### To the coin to Pakistan
 
 *2024-06-16 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197826) · `si`
@@ -1840,37 +1960,53 @@ The Chinese government, one of these machines opens direct sources of income to 
 
 ---
 
-### පෙරහර මාර්ගය ප්‍රකාශ කර නැතත් මහනුවර හෝටල් කාමර රු. 50000ට අලෙවි වෙයි
+### Although the Perahera is not declared. Shops for 50000
 
 *2024-06-16 18:47:07* · [`adalk`](https://www.ada.lk/breaking_news/පෙරහර-මාර්ගය-ප්‍රකාශ-කර-නැතත්-මහනුවර-හෝටල්-කාමර-රු--50000ට-අලෙවි-වෙයි/11-410245) · `si`
 
-සෙංකඩගල ඓතිහාසික ඇසළ පෙරහර මංගල්‍යය පැවැත්වෙන දින වකවානු සහ ගමන් කරන මාර්ග මෙතෙක් නිල වශයෙන් ප්‍රකාශයට පත්කොට නොතිබියදී ඇතැම් සංචාරක නියෝජිත ආයතන පෙරහර මාර්ග වල ඇති සඳළුතල සහිත හෝටල් කාමර සහ පෙරහර ආසන ඉතා අධික මිල ගණන් වලට මාර්ග ගත ක්‍රමවේදය ඔස්සේ මේ වන විට අලෙවි වෙමින් පවතී.
+Perahera shops sell 50,000 sets of Lamin and traveling rooms, despite not being officially declared part of the Esala Perahera. Prices for hotel rooms near the Perahera route vary, but it's unclear if these are officially recognized.
 
-එක් සංචාරක නියෝජිත ආයතනයක දුරකථන අංකයකින් කළ විමසීමකදී පෙරහර මාර්ගයේ ඇති සඳළුතල සහිත හෝටල් කාමරයක මිල රුපියල් 45,000.00 ත් 50,000.00 අතර මිලක් වන බව ඇමතුම ලබාගත් කාන්තාවක පැවසීය.
+🟩
 
-පෙරහර ගමන් කරන මාර්ගද මෙතෙක් නිල වශයෙන් ප්‍රකාශයට පත් කොට නොතිබියදී පෙරහර යන ගමන් මාර්ග එම කාන්තාව දැන සිටීම විශ්මයජනකය.
+Sets of Lamin and Traveling Rooms, which have been officially declared on the historical Esala Perahera of Setsala Perahera, is not officially incurred on the occasion.
+
+In response to a telephone number from a telephone number, a hotel room on the Perahera road is priced between Rs.
+
+The lady is to know that the foregoing routes on the road to Perahera may not be officially officially.
 
 ◼️
 
 [Data](articles/de75b8ed.json)
 
+[Extended Data](ext_articles/de75b8ed.ext.json)
+
 ---
 
-### සජිත්ගෙන් මිහින්තලාවට රු. ලක්ෂ 10ක්
+### Sajith from Rs. Mihintawa. 10 lakhs
 
 *2024-06-16 18:36:04* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගෙන්-මිහින්තලාවට-රු--ලක්ෂ-10ක්/11-410243) · `si`
 
-මිහින්තලේ විහාරස්ථානයට පැමිණි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා  මිහින්තලේ නාහිමියන් විසින් ඉතා සුහදව පිළිගෙන මෙවර පොසොන් උත්සවය සඳහා අවධානය යොමු කිරීම පිළිබඳව ස්තුතිය පල කලහ.
+Opposition Leader Sajith Premadasa visited Mihintale Viharaya, where he was welcomed by the Mihintale Thero. They discussed various issues, including the removal of officers from the Armed Forces and Civil Defense Ministry, which Premadasa criticized along with Ranil Wickremesinghe, Bandara Tennakoon, and Kamal Gunaratne. Premadasa emphasized the importance of listening to elders and the need for the government to adhere to constitutional norms. He also mentioned his commitment to the rehabilitation of the Mihintale Sacred Shrine and highlighted the role of the opposition in ensuring electricity across the country.
 
-වැරදි පෙන්වා දෙමින් එය විවේචනය කරන විට රජය නෑසුණාසේ සිටින අවස්ථාවක, විපක්ෂ නායකවරයා විදියට  අප නගන චෝදනා විද දරා ගෙන එය නිවැරදි කර ගැනීම සඳහාත් සංඝ රත්නයේ අනුශාසනා වලට සවන් දීම අගය කරන බව උන්වහන්සේ පැවසූහ.
+🟩
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (16දා) ඓතිහාසික මිහින්තලය රජමහා විහාරාධිපති හා භාරකාර පූජ්‍ය වලවාහැංගුනවැවේ ධම්මරතන නාහිමිපාණන් වහන්සේ බැහැ දැකීම සඳහා මිහින්තලය රජමහා විහාරස්ථානයට පැමිණි පොසොන් උත්සවය සඳහා රුපියල් ලක්ෂ 10ක මූල්‍ය ආධාර  නාහිමිපාණන් වහන්සේ වෙත පිරිනමනු ලැබීය.
+Opposition Leader Sajith Premadasa, who returned to the Mihintale Viharaya, gratefully welcomed the welcomed by Mihintale Thero.
 
-මෙහිදී විපක්ෂ  නාහිමිපාණන් වහන්සේ  විසින් විහාරස්ථානයෙහි සංවර්ධන කටයුතු සඳහා යොදවා සිටි ත්‍රිවිධ හමුදාවේ නිලධාරීන් සහ සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවෙන් නිලධාරීන් ඉවත් කිරීම පිළිබඳව  රනිල් වික්‍රමසිංහ, ප්‍රමිත බණ්ඩාර තෙන්නකෝන් කමල් ගුණරත්න, ඇතුළු රජය දැඩි ලෙස විවේචනය කලහ.
+The Thera said that as the opposition leader is aware of the alleged opposition leader as the opposition leader when it is criticized by the mistakes, the Opposition Leader is appreciated to listen to the elders.
+
+Opposition Leader Sajith Premadasa, the chief incumbent of the historic Mihinna Ven.
+
+Ranil Wickremesinghe, Praise Bandara Tennakoon Kamal Gunaratne and other criticized the removal of officers from the Armed Forces and the Civil Defense Monary.
+
+The Opposition Leader joined the leader of the Leadership Thero to observe it in terms of a question that was a small kitchen in the Mihintale Raja Maha Viharaya.
+
+The Opposition Leader who is actually a state-centric to the country and that the government is actually a state-centriarized act and that it is unconstitutional.It is stated that.
 
 ...
 
 [Data](articles/c9ee7950.json)
+
+[Extended Data](ext_articles/c9ee7950.ext.json)
 
 ---
 
@@ -1920,21 +2056,33 @@ Meanwhile Qang said, from the beginning of the year to mid-May, the import secto
 
 [Data](articles/7af9a8a3.json)
 
+[Extended Data](ext_articles/7af9a8a3.ext.json)
+
 ---
 
-### හොරෙන් එංගලන්තයට යන්න ගිය තරුණියට වැඩ වරදියි
+### The girl who went to England to go to England
 
 *2024-06-16 18:23:28* · [`adalk`](https://www.ada.lk/breaking_news/හොරෙන්-එංගලන්තයට-යන්න-ගිය-තරුණියට-වැඩ-වරදියි/11-410242) · `si`
 
-කූඨ ලෙස සකස් කළ ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන එක්සත් රාජධානිය වෙත පළා යාමට තැත් කළ ශ්‍රී ලාංකික තරුණියක සහ ඇයට මෙම ගුවන් ගමන සදහා සහාය වෙමින් සිටි තැරැව්කරුවෙකු ද කටුනායක ගුවන් තොටුපොළේ දී 06/15 දින රාත්‍රී  ආගමන විගමන නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.ඇය ත්‍රිකුණාමලය ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තරුණියකි.
+A Sri Lankan woman, 24, and a 60-year-old man were arrested at Bandaranaike International Airport for attempting to flee to the UK via Qatar. The woman, accompanied by the man, was caught during document checks. Her passport and other documents were found to be fraudulent. Both are now under investigation.
 
-ඔවුන්  06/15 දින රාත්‍රී 08.25 ට දෝහා වෙත පිටත්ව යාමට නියමිත කටාර් ගුවන් සේවයේ කිව්.ආර්.- 655 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+🟩
 
-ඇය සියලුම ගුවන් සේවා නිශ්කාශන කටයුතු නිමා කර විගමන කටයුතු සදහා විගමන සේවා කවුළුව වෙත පැමිණ ගමන් බලපත්‍රය ඇතුළු අනෙකුත් ලියකියවිලි ඉදිරිපත් කර ඇති අතර එහිදී මෙම ගමන් බලපත්‍රයෙහි ඇති ජායාරූපය ඇයගේ නොවන බව නිරීක්ෂණය වීම නිසා ඇය ප්‍රධාන ආගමන විගමන නිලධාරීවරයා වෙත යොමු කර තිබේ.
+Sri Lankan young woman who used a batch of travel and a broker who was attempting to flee to the UK have been arrested by nightmmia on the Bandaranaike International Airport on the Bandaranaike International Airport on the Bandaranaike International Airport.A 24-year-old resident of the area.
+
+Qatar to leave Koha at 08.25 pm on 06.25 pm was said to the Katunayake airport to enter the 655.
+
+She has come to the Embassy Services Force and other documents, including the passport and other documents in this passport, have been sent to the Chief Immigration Officer.
+
+The officer has been handed over to the officers of her documents with her, which included the girl's information to a passport of the girl during the technical inspections carried out.
+
+A 60-year-old man residing in Manipaya, with this girl, was arrested by the Immigration and Emigration Officers after he was the man who was carrying the girl to the UK to the UK.Have been taken.
 
 ...
 
 [Data](articles/ff9eb885.json)
+
+[Extended Data](ext_articles/ff9eb885.ext.json)
 
 ---
 
@@ -2036,170 +2184,48 @@ South China released the fourth level warnings on floods in southern China.
 
 ---
 
-### ඉන්දියාව හා ලංකාව යා කරමින් ගොඩබීම් මාර්ගයක්
+### India and Sri Lanka operates a landing route
 
 *2024-06-16 17:32:49* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ලංකාව-යා-කරමින්-ගොඩබීම්-මාර්ගයක්/11-410241) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ මන්නාරම රදගුරු අති උතුම් ආචාර්ය ෆිඩෙල්ස් ලයනල් එමානුවෙල් ප්‍රනාන්දු හිමිපාණන් අතර හමුවක් අද (16) පෙරවරුවේ මන්නාරම රදගුරු නිල නිවසේ දි සිදු විය.
+India and Sri Lanka are exploring a landing route and discussing economic reforms, including making Mannar a renewable energy hub. The Indian Foreign Minister, Ranil Wickremesinghe, is involved in feasibility studies for selling excess renewable energy to India. Future plans include developing Mannar as a travel center and addressing fisheries issues, aiming for broader district development.
 
-රට ආර්ථික අර්බුදයෙන් මුදවා ගැනීමට ජනාධිපතිවරයා සිදු කරන ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලිය මෙහිදී අගය කළ මන්නාරම රදගුරු හිමියන් මන්නාරම දිස්ත්‍රික්කයේ ඉදිරි සංවර්ධන සැලසුම් පිළිබඳව ද ජනාධිපතිවරයා සමඟ සාකච්ඡා කළහ.
+🟩
 
-මන්නාරමේ සිට පේදුරුතුඩුව සහ මුලතිව් පුනර්ජනනීය බලශක්ති කේන්ද්‍රස්ථානයක් ලෙස සංවර්ධනය කිරීමේ සැලසුම් පිළිබඳව ද මෙහිදී සාකච්ඡා කෙරුණු අතර පරිසර හිතකාමී අයුරින් එම සංවර්ධන කටයුතු ක්‍රියාත්මක කිරීම පිළිබඳව ද අවධානය යොමු කෙරිණි.
+President Ranil Wickremesinghe and Mannar Bishop of Mannar Bishop is a meeting with Dr. Fidelles Lionel Emanuel Fernando this morning at the official residence of Mannar.
 
-අතිරික්ත පුනර්ජනනීය බලශක්තිය ඉන්දියාවට අළෙවි කිරීම සඳහා සාකච්ඡා කරමින් පවතින් බවත්, ශ්‍රී ලංකාව සහ ඉන්දියාව අතර විදුලි රැහැන් සම්බන්ධතාවයක් ඇති කිරීම පිළිබඳ මේ වන විට ශක්‍යතා අධ්‍යයනයක් සිදු කරමින් පවතින බවත් මෙහිදී සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දී සිදුවන ඉන්දීය විදේශ අමාත්‍යවරයාගේ ශ්‍රී ලංකා සංචාරයේ දී ඒ පිළිබඳ වැඩිදුරටත් සාකච්ඡා කිරීමට අපේක්ෂා කරන බව ද සඳහන් කළේය.
+The Mannar Bishop also also discussed the country's economic reforms in the Mannar District with the future development plans of the Mannar District.
+
+The plans were also discussed as a renewable energy hub of Mannar and a renewable energy hub.
+
+Indian Foreign Minister's visit to Indian Foreign Affairs Minister Ranil Wickremesinghe has been conducting a feasibility study regarding the sale of excessive renewable energy to India.He added that he was expected to discuss further about further discussions.
+
+The President also said that the pre-feasibility study to create a land relationship between Sri Lanka and India and the entire feasibility study will be carried out in the future.
+
+It also discussed the plans for developing the Mannar Tournament Center as a traveling center.
 
 ...
 
 [Data](articles/43caaa87.json)
 
+[Extended Data](ext_articles/43caaa87.ext.json)
+
 ---
 
-### அல்அக்ஸா பள்ளிவாசலை பாதுகாக்க மறுப்பு
+### Al -Aqsa refusal to protect the school
 
 *2024-06-16 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186210) · `ta`
 
-சவூதி அரேபியா ஒரு பிராந்திய அரசியல் சக்தியாக இருப்பதற்கு பதிலாக மிகக் குறுகியமட்ட இராஜதந்திரத்தையே பேணி வருகின்றது. இது புனித பள்ளிவாசல்கள் இரண்டினதும் பாதுகாவலர்கள் என்ற அந்த நாட்டின் அரச குடும்பத்தின் அரசியல், இராஜதந்திர தார்மிக அதிகாரத்தை குறைத்து மதிப்பிடுவதாகவே உள்ளது.
+Saudi Arabia's limited diplomatic influence underestimates its royal family's power as guardians of holy sites, despite refusing to protect schools.
+
+🟩
+
+Saudi Arabia maintains a very narrow diplomacy instead of being a regional political force. This is to underestimate the political and diplomatic powers of the country's royal family, which is the defenders of both holy schools.
 
 ◼️
 
 [Data](articles/6a64f42c.json)
 
----
-
-### Police disguise loot
-
-*2024-06-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197821) · `si`
-
-Maradana Police arrested a suspect after a robbery incident where two individuals were robbed of their mobile phone and wallet while riding a motorbike. The suspect was later found with drugs and was questioned about the robbery. The police also clarified that civilians can verify identities without needing to dress as officers.
-
-🟩
-
-The Maradana Police have arrested a suspect who had said the police and property.
-
-On the 14th of the month of Maradana Police Division, two persons who were traveling in a motorbike were traveling in a motorbike on the 14th night and had a mobile phone and the wallet of the purses.
-
-The complainant said the suspects had fled the Maradana police who were taken to the Maradana Police, who had to come to the Maradana Police.
-
-The Maradana police had arrested a suspect with the drug in the Fonseka Mawatha in Maradana yesterday (15).
-
-After he had revealed the motorcycle he came to the robbery, the police had continuously questioned.
-
-Accordingly, the police were able to find the mobile phone to the suspect's house.
-
-Police say that the public has the right to verify the identity of individuals or property testing as police officers in civilian clothes, police officers.
-
-◼️
-
-[Data](articles/db6482ed.json)
-
-[Extended Data](ext_articles/db6482ed.ext.json)
-
----
-
-### Russian forces kill Islamic State-linked hostage takers at detention centre
-
-*2024-06-16 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99911/russian-forces-kill-islamic-state-linked-hostage-takers-at-detention-centre) · `en`
-
-Russian special forces freed two prison guards and shot dead six inmates linked to the Islamic State militant group who had taken them hostage at a detention centre in the southern city of Rostov on Sunday, Russian media said.
-
-State media said that some of the men had been convicted of terrorism offences and were accused of affiliation with the Islamic State militant group, which claimed responsibility for a deadly attack on a Moscow concert hall in March.
-
-The six hostage takers, one of whom wore a headband with the flag used by the Islamic State that bears an Arabic inscription, knocked out window bars and climbed down several floors by rope before taking the guards hostage with a knife and fire axe.
-
-In video published by the 112 Telegram channel, one was shown brandishing a knife beside one of the bound guards in Rostov-on-Don. In negotiations with the authorities, they demanded free passage out of the prison.
-
-...
-
-[Data](articles/8caa6fcf.json)
-
-[Extended Data](ext_articles/8caa6fcf.ext.json)
-
----
-
-### 3250 million worth of drugs
-
-*2024-06-16 17:03:29* · [`adalk`](https://www.ada.lk/breaking_news/මිලියන-3250ක්-වටිනා-මත්කුඩු-තොගයක්-අත්අඩංගුවට/11-410240) · `si`
-
-In a major drug bust, the Sri Lanka Navy intercepted a shipment of heroin valued at $32.5 million, seizing 131 kg of the substance near Dondra, 35 miles from Deva. The operation, led by the Sri Lanka Naval Ship Parakramabahu Thero, resulted in the arrest of six suspects aged 23 to 43, all residents of Dondra and Gandara. These individuals were later transferred to the Police Narcotics Bureau for further legal proceedings.
-
-🟩
-
-Navy has scored 131 kilograms of heroin, with more than 131 grams of heroin, with more than 131 grams of heroin in Dondra, 35 miles from Deva.. The arrest had taken place in 356 naval miles.
-
-Intelligence to the Sri Lanka Coast Guard, the Sri Lanka Navy has arrested the suspects in a special search operation conducted by the Sri Lanka Naval Ship Parakramabahu Thero.. The suspects were residents of Dondra and Gandara areas where the operation was aged between 23 and 43 years old. Heroin arrested and taken to Galle Harbor, six suspects and six suspects and multi-day. The six suspects and the suspects have been handed over to the Police Narcotics Bureau for future legal matters.
-
-◼️
-
-[Data](articles/37789d67.json)
-
-[Extended Data](ext_articles/37789d67.ext.json)
-
----
-
-### காஸா போர் நிறுத்தம் ‘பிரசாரப்படுத்தப்படும் பாசாங்குகள்’
-
-*2024-06-16 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186204) · `ta`
-
-ஐ.நா.வில் தீர்மானம் நிறைவேற்றப்பட்டாலென்ன, ஜி-7 மாநாட்டில் அழுத்தம் கொடுக்கப்பட்டால் என்ன, நான் என் வேலையை செய்வேன் என்ற முனைப்பில் ஆயுத மோதல் தனது வேலையைக் காட்டிக்கொண்டு வருகிறது, போர் இயந்திரம்...
-
-◼️
-
-[Data](articles/0ab3d40b.json)
-
----
-
-### Youth murdered during musical show in Kalutara
-
-*2024-06-16 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99910/youth-murdered-during-musical-show-in-kalutara) · `en`
-
-A 20-year-old youth has been murdered after his throat was slit following an argument between two parties at a musical show in Kalutara.
-
-The deceased, Menura Nimthara Wanigasekara, has been identified as a resident of the Dodangoda area, Ada Derana reporter said.
-
-The suspect, who committed the crime, reportedly attacked the 20-year-old after seeing him dancing with his estranged wife during the musical show.
-
-The woman who works at a garment factory had come to watch the musical show and was dancing with the young man, a coworker, when the suspect, in a fit of rage, had slit the victim’s throat with a sharp weapon.
-
-◼️
-
-[Data](articles/448962fb.json)
-
-[Extended Data](ext_articles/448962fb.ext.json)
-
----
-
-### A father of Pakistan sells daughter to a man
-
-*2024-06-16 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197820) · `si`
-
-In Pakistan, a father sold his 12-year-old daughter to a 72-year-old man, leading to her arrest during the wedding. The father fled but was later caught. This incident highlights ongoing child exploitation issues in the country.
-
-🟩
-
-The police have arrested the bride when he was married to Pakistan's 12-year-old girl to a 72-year-old girl.
-
-Police say that the girl's father had worked to sell her to the elderly person with a sum of Rs.
-
-However, the girl's father had fled the place and he found him in the police investigation.
-
-Foreign media states that such incidents have been continuously reported in Pakistan.
-
-◼️
-
-[Data](articles/66c2f8df.json)
-
-[Extended Data](ext_articles/66c2f8df.ext.json)
-
----
-
-### சர்வதேச மனித உரிமையும் விநோதமானவர்களும்
-
-*2024-06-16 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/186207) · `ta`
-
-ரஷ்ய, உக்ரேனிய யுத்தம் ஆரம்பிப்பதற்கு முன்பாக உக்ரேன் மேலை நாடுகள் சார்பாக தனது நகர்வுகளை மேற்கொண்டபோது ரஷ்யா தனது பிரசாரத்தில் ஐரோப்பிய ஒன்றியத்துடன் உக்ரேன் இணைவது ஓரினச்சேர்க்கையை வரவேற்பது போன்றது என்ற பிரசாரத்தை மேற்கொண்டது....
-
-◼️
-
-[Data](articles/6e5f3337.json)
+[Extended Data](ext_articles/6a64f42c.ext.json)
 
 ---

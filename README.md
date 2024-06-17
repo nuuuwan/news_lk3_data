@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 04:20:06**
+As of **2024-06-18 04:34:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,849 (100.0%) of 30,850 articles have been extended.
+30,850 (100.0%) of 30,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,27 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 
 ---
 
-### ’பொருளாதாரத் தீர்வுகளை தேடவில்லை’
+### The telephone is not looking for economic solutions
 
 *2024-06-18 02:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்-தீர்வுகளை-தேடவில்லை/175-339057) · `ta`
 
-அடுத்த ஐந்து வருடங்களில் செயற்படுத்தப்படும் பொருளாதாரக் கொள்கைகளே இலங்கையின் எதிர்காலத்தைத் தீர்மானிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்க, அரசியல் தீர்வுகளைத் தேடும் இந்நாட்டு மக்கள் பொருளாதாரத் தீர்வுகள் குறித்து கவனம் செலுத்தவில்லை என்றார்.
+In a meeting with Sri Lanka's youth and traders, President Ranil Wickremesinghe emphasized the importance of economic policies over political solutions for the country's future. He highlighted the need for a new path towards employment opportunities and criticized frequent changes in economic policies. The President also discussed his submission of the Economic Reforms Bill and urged for its advancement, stating that economic stability is crucial for national progress.
 
-மன்னாரில் ஞாயிற்றுக்கிழமை (16) இடம்பெற்ற இளையோர் மற்றும் வர்த்தகர்களுடனான சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+🟩
 
-“சுபீட்சமான எதிர்காலத்திற்கான பயணம்” என்ற பெயரில் இளைஞர் அமைப்பு ஏற்பாடு ஏற்பாடு செய்த இந்நிகழ்வு, மன்னார் நகரசபை மண்டபத்தில் நடைபெற்றது. இங்கு, 2023/2024 உயர்தரப் பரீட்சைக்கு தெரிவான மாணவர்களுக்கு ஜனாதிபதியால் சான்றிதழ்களும் பரிசில்களும் வழங்கப்பட்டன. இந்நிகழ்வு வட மாகாண கல்வி அமைச்சினால் ஏற்பாடு செய்யப்பட்டிருந்தது.
+President Ranil Wickremesinghe said the economic policies implemented in the next five years would determine the future of Sri Lanka and said that the people of the country who are looking for political solutions are not focusing on economic solutions.
 
-இதன்போது இளைஞர் மத்தியில் சென்று அவர்களின் பிரச்சினைகளை கேட்டறிந்த ஜனாதிபதி, அவர்களின் கேள்விகளுக்கும் சாதகமான பதில்களை வழங்கினார்.
+President Ranil Wickremesinghe said this at a meeting with the youth and traders in Mannar on Sunday (16).
+
+The event was organized by the Youth Organization under the name of “Journalism for a prosperous future” at the Mannar Municipal Council Hall. Here, the president presented certificates and prizes to the students who were selected for the 2023/2024 GCE Advanced Level Examination. The event was organized by the Ministry of Education of the Northern Province.
+
+The President went to the youth and heard about their problems and gave their questions favorable to their questions.
 
 ...
 
 [Data](articles/2b9ca639.json)
+
+[Extended Data](ext_articles/2b9ca639.ext.json)
 
 ---
 

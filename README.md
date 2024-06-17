@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 14:34:42**
+As of **2024-06-17 14:53:31**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,766 (100.0%) of 30,767 articles have been extended.
+30,767 (100.0%) of 30,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### පොල්තෙල් බෝතලයක මිල ඉහළට
+### Prices of coconut oil up
 
 *2024-06-17 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197848) · `si`
 
-වෙළෙඳපොල තුළ පොල්තෙල් බෝතලයක මිල රුපියල් 150කින් පමණ ඉහළ ගොස් තිබේ.
+Coconut oil prices have risen by Rs. 150, allegedly due to hidden increases during the festive season. Consumers and wholesalers report the price hike. The All Ceylon Traditional Coconut Oil Products' convener calls for government intervention to stabilize prices.
 
-පාරම්පරික පොල්තෙල් හිමියන්ගේ සංගමය චෝදනා කරන්නේ, එළැඹෙන උත්සව සමය මුල්කරගෙන පොල්තෙල් ආනයනකරුවන් තොග සඟවාගෙන සිටීම තුළ මෙලෙස පොල්තෙල් මිල ඉහළ ගොස් ඇති බවය.
+🟩
 
-පරිභෝගිකයන් සහ තොග වෙළෙඳුන් පවසන්නේ පොල්තෙල් බෝතලයක මිල රුපියල් 150කින් පමණ ඉහළ ගොස් ඇති බවය.
+The price of a bottle of coconut oil increased by Rs. 150.
 
-මේ පිළිබඳ අදහස් දැක්වූ සමස්ත ලංකා පාරම්පරික පොල්තෙල් නිෂ්පාදකයන්ගේ සංගමයේ කැඳවුම්කරු, බුද්ධික ද සිල්වා මහතා පවසා සිටියේ, පොල්තෙල් ආනයනයකරුවන් හිතුමතේ තෙල් මිල තීරණය කර ඇති බවත් ඉදිරියේ දී තෙල් බෝතලයක මිල රුපියල් 1,000ක් දක්වා වැඩි වීමේ ප්‍රවණතාවයක් පවතින බවය.
+The traditional coconut oil ownership Association alleges that the coconut oil has increased in hiding the coconut oil importers based on the current festive season.
 
-"අද වෙද්දි මුදල් අමාත්‍යාංශය බදු ගහලා නෑ. වැවිලි කර්මාන්ත අමාත්‍යාංශය කිසිම පාලනයක් කරලා නෑ. පොල් සංවර්ධන අධිකාරියේ කිසිම ක්‍රියාත්මක වීමක් නෑ. අපි රජයෙන් වහාම ඉල්ලා සිටිනවා මේ මිල අඩු කිරීමට දේශීය කර්මානතකරුවන්ට අවශ්‍ය කරන අමුද්‍රව්‍ය ටික අපිට ආනයනය කරන්න අවස්ථාව ලබාදෙන්න."
+Consumers and wholesale dealers say that the price of a bottle of coconut oil has increased by Rs. 150.
+
+The convener of the All Ceylon Traditional Coconut Oil Products, Buddhika De Silva said that the oil price of oil has been decided to increase oil prices and increase the price of oil.
+
+"The Ministry of Finance has not been taxed today. The Ministry of Plantation Industries has not been controlled. There is no action at the Coconut Development Authority. We urge the government immediately to import the ingredients to local clothes to reduce this price. "
 
 ◼️
 
 [Data](articles/672d2031.json)
+
+[Extended Data](ext_articles/672d2031.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 04:04:39**
+As of **2024-06-18 04:20:06**
 
 ## Newspaper Stats
 
-*Scraped **30,849** Articles*
+*Scraped **30,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,619
+tamilmirrorlk | 3,620
 dailymirrorlk | 4,733
 virakesarilk | 4,748
 adaderanasinhalalk | 4,999
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,849 (100.0%) of 30,849 articles have been extended.
+30,849 (100.0%) of 30,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,24 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 [Data](articles/6e9b64a9.json)
 
 [Extended Data](ext_articles/6e9b64a9.ext.json)
+
+---
+
+### ’பொருளாதாரத் தீர்வுகளை தேடவில்லை’
+
+*2024-06-18 02:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்-தீர்வுகளை-தேடவில்லை/175-339057) · `ta`
+
+அடுத்த ஐந்து வருடங்களில் செயற்படுத்தப்படும் பொருளாதாரக் கொள்கைகளே இலங்கையின் எதிர்காலத்தைத் தீர்மானிக்கும் என ஜனாதிபதி ரணில் விக்ரமசிங்க, அரசியல் தீர்வுகளைத் தேடும் இந்நாட்டு மக்கள் பொருளாதாரத் தீர்வுகள் குறித்து கவனம் செலுத்தவில்லை என்றார்.
+
+மன்னாரில் ஞாயிற்றுக்கிழமை (16) இடம்பெற்ற இளையோர் மற்றும் வர்த்தகர்களுடனான சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+“சுபீட்சமான எதிர்காலத்திற்கான பயணம்” என்ற பெயரில் இளைஞர் அமைப்பு ஏற்பாடு ஏற்பாடு செய்த இந்நிகழ்வு, மன்னார் நகரசபை மண்டபத்தில் நடைபெற்றது. இங்கு, 2023/2024 உயர்தரப் பரீட்சைக்கு தெரிவான மாணவர்களுக்கு ஜனாதிபதியால் சான்றிதழ்களும் பரிசில்களும் வழங்கப்பட்டன. இந்நிகழ்வு வட மாகாண கல்வி அமைச்சினால் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+இதன்போது இளைஞர் மத்தியில் சென்று அவர்களின் பிரச்சினைகளை கேட்டறிந்த ஜனாதிபதி, அவர்களின் கேள்விகளுக்கும் சாதகமான பதில்களை வழங்கினார்.
+
+...
+
+[Data](articles/2b9ca639.json)
 
 ---
 
@@ -2421,31 +2439,5 @@ At the instructions of the Attorney General Deepal Kumara, Chief Inspector Gener
 [Data](articles/619d1428.json)
 
 [Extended Data](ext_articles/619d1428.ext.json)
-
----
-
-### A group of white van abducted a young man
-
-*2024-06-17 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197842) · `si`
-
-In Kalutara South, a young man was abducted from a white van by suspects, including a 24-year-old from Hynatiyanwewa. Investigations are ongoing after the victim filed a complaint. The suspects are expected to be arrested.
-
-🟩
-
-Kalutara South Police say investigations are conducted on a complaint that a black dress in a white van has been abducted.
-
-The suspects were a 24-year-old youth in Hynatiyanwewa, Kalutara.
-
-According to a complaint lodged by the abducted young man, investigations have commenced.
-
-The suspects have been identified as a white van, police said.
-
-The suspects have been identified and they have been abandoned and they will be arrested and will be arrested.
-
-◼️
-
-[Data](articles/e5917ecd.json)
-
-[Extended Data](ext_articles/e5917ecd.ext.json)
 
 ---

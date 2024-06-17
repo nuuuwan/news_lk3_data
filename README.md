@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 03:04:22**
+As of **2024-06-18 03:19:20**
 
 ## Newspaper Stats
 
@@ -26,85 +26,153 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,844 (100.0%) of 30,848 articles have been extended.
+30,848 (100.0%) of 30,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### 69 இலட்ச மக்களாணையை பலப்படுத்தும் வகையில் அனைவரும் ஒன்றிணைவோம் - சர்வஜன சக்தி பிரதிநிதிகள்
+### We will unite to strengthen 69 lakhs - universal power representatives
 
 *2024-06-18 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186319) · `ta`
 
-ராஜபக்ஷர்கள் மீதான நம்பிக்கையை ராஜபக்ஷர்களே இல்லாதொழித்துக் கொண்டார்கள். கோட்டபய ராஜபக்ஷவுக்கு 69 இலட்ச மக்களின் எதிர்பார்ப்புக்களைப் பாதுகாக்க வேண்டிய பொறுப்பு எமக்கு உண்டு. பஷில் ராஜபக்ஷவின் காட்டிக் கொடுப்பு வெற்றிப் பெற கூடாது. 69 இலட்ச மக்களாணையை பலப்படுத்தும் வகையில் அனைவரும் செவ்வாய்க்கிழமை (18) நுகேகொடயில் ஒன்றிணைய வேண்டும் என சர்வஜன சக்தியின் பிரதிநிதிகளான விமல் வீரவன்ச, உதய கம்மன்பில , திலித் ஜயவீர,சன்ன ஜயசுமன கிழக்கு மாகாண முன்னாள் ஆளுநர் அனுராதா யஹம்பத் ஆகியோர் கூட்டாக அழைப்பு விடுத்தனர்.
+Leaders call for unity among 69 million people to safeguard their interests and counteract political betrayals, emphasizing the importance of collective action over individual ambitions.
 
-கொழும்பில் உள்ள சர்வஜன சக்தி காரியாலயத்தில் திங்கட்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டனர்.
+🟩
 
-2019ஆம் ஆண்டு பெரும்பான்மையின் மக்கள் பாரிய எதிர்பார்ப்புக்கு மத்தியில் கோட்டபய ராஜபக்ஷ தலைமையில் ஆட்சிமாற்றத்தை ஏற்படுத்தினார்கள்.அரச தலைவர் 69 இலட்ச மக்களாணைக்கும், அபிலாசைகளுக்கும் முரணாகச் செயற்படும் போது மக்கள் போராட்டம் தீவிரமடைந்தது.
+The Rajapaksas abolished the confidence in the Rajapaksas. We have a responsibility to protect the expectations of 69 lakhs of people for Gotabhaya Rajapaksa. Rajapakse's betrayal should not be successful. Former Governor of the Eastern Province, Wimal Weerawansa, Udaya Kammanpila, Dilith Jayaweera and former Governor of the Eastern Province, Anuradha Yahambat, called for all the people to unite in Nugegoda on Tuesday (18) to strengthen the 69 million people.
+
+The above was stated during a media briefing held at the Sarvana Shakti Office in Colombo on Monday (17).
+
+Amidst the massive expectations of the majority of the majority, the Gotabhaya Rajapaksa led a coup.
+
+A party used the people's struggle against the government for their narrow political purpose.
+
+We cannot forget the political aspirations of the 69 lakh people because Gotabhaya Rajapaksa fled the 69 million people.
+
+It is not expected that the interim president Ranil Wickremesinghe will fulfill the aspirations of 69 lakhs of people.
 
 ...
 
 [Data](articles/6e9b64a9.json)
 
+[Extended Data](ext_articles/6e9b64a9.ext.json)
+
 ---
 
-### 2022- 2024 வரையான காலப்பகுதியே இந்நாட்டில் அதிகளவான சட்டங்கள் தயாரிக்கப்பட்ட வருடங்களாக வரலாற்றில் பதியப்படும் - எம்.என்.ரணசிங்க
+### From 2022 to 2024, the country will be enacted in history for years - MN Ranasinghe
 
 *2024-06-18 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186318) · `ta`
 
-இலங்கையில் அதிகளவில் சட்டம் தயாரிக்கப்பட்ட ஆண்டுகளாக 2022- 2024 வரையான காலப்பகுதி வரலாற்றில் பதியப்படுமென, நீதி, சிறைச்சாலை மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சின் செயலாளர் எம். என். ரணசிங்க தெரிவித்தார்.
+It seems like you've shared a comprehensive update on the legislative and judicial reforms undertaken by the Ministry of Justice, Prison Affairs, and Constitutional Reforms in Sri Lanka. These reforms encompass a wide range of initiatives aimed at enhancing the efficiency and effectiveness of the legal system, improving the judicial infrastructure, and promoting economic growth through legal reforms.
 
-2022 ஆம் ஆண்டு முதல் 59 சட்டச் சீர்திருத்தங்கள் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளதோடு, 7 சட்டமூலங்களும்  44 திருத்தச் சட்டங்களும்  எதிர்வரும் நாட்களில் நிறைவேற்றப்பட உள்ளதாகவும் அவர் மேலும் கூறினார்.
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (17) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
 
-ஒவ்வொரு அமைச்சுக்களினதும் சட்டங்களைத் தயாரிப்பதில் நீதி அமைச்சு பெரும் பங்காற்றுவதாகவும், 2022 ஆம் ஆண்டில் 273 சட்ட வரைவுகளும், 2023 ஆம் ஆண்டில் 299 சட்ட வரைவுகளும் மும்மொழிகளிலும் தயாரிக்கப்பட்டுள்ளதாகவும் அவர் சுட்டிக்காட்டினார்.
+The updates highlight significant achievements such as:
 
-நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சின் செயலாளர் எம். என். ரணசிங்க மேலும் கூறியதாவது:
+
+
+1. **Legislative Reforms**: 59 legal reforms passed in Parliament since 2022, with 7 more bills and 44 amendments expected to pass in the near future. This indicates a proactive approach towards updating the legal framework to meet contemporary challenges and opportunities.
+
+
+
+2. **Judicial Digitization**: Plans to digitize the judiciary to expedite case processing and create a more efficient legal system. This is crucial for reducing case backlog and improving access to justice.
+
+
+
+3. **Infrastructure Development**: Expansion of the High Court and Court of Appeal facilities, introduction of specialized courts (e.g., Business High Courts), and the establishment of new court complexes. These physical improvements are essential for handling increasing caseloads and providing better facilities for litigants and legal professionals.
+
+
+
+4. **Legal Aid and Victim Support**: Enhancements to the legal aid system and protections for victims and witnesses, reflecting a commitment to fairness and safety within the legal process.
+
+
+
+5. **Economic Growth Initiatives**: Linking legal reforms to economic development, such as establishing an investment court and facilitating foreign investment through improved dispute resolution mechanisms.
+
+
+
+6. **Reconciliation and Integration Efforts**: Acknowledging the importance of reconciliation and integration in post-conflict societies, with specific efforts mentioned towards these ends.
+
+
+
+This overview underscores the multifaceted approach of the Ministry in addressing both the immediate needs of the legal system and broader societal goals, including economic development and social cohesion. If you have specific questions about these reforms or need further details on any aspect, feel free to ask
+
+🟩
+
+The Secretary of the Ministry of Justice, Prison and the Constitutional Reforms, Mr. M.. My. Said Ranasinghe.
+
+He added that 59 legal reforms have been passed in Parliament since 2022 and 7 bills and 44 amendments will be passed in the coming days.
+
+He was speaking at a media briefing held at the Presidential Media Center today (17).
+
+He pointed out that the Ministry of Justice plays a major role in the preparation of the laws of each ministries, 273 law drafts in 2022 and 299 legislation in 2023.
+
+Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reforms. My. Ranasinghe added:
+
+“The Ministry of Justice, Prison Affairs and Constitutional Reforms have made great improvement over legal reforms over the past two years. This period is to be in history.
 
 ...
 
 [Data](articles/d20bb08d.json)
 
+[Extended Data](ext_articles/d20bb08d.ext.json)
+
 ---
 
-### பந்துவீச்சில் பேர்கசன் அபூர்வ சாதனை; நியூஸிலாந்து ஆறுதல் வெற்றியுடன் நாடு திரும்புகிறது
+### Rare record of bowling;New Zealand returns to country with consolation victory
 
 *2024-06-18 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186317) · `ta`
 
-ட்ரினிடாட், டரூபா ப்றயன் லாரா விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுக்கு வந்த சி குழுவுக்கான கடைசிக்கு முந்தைய ரி20 உலகக் கிண்ணப் போட்டியில் 7 விக்கெட்களால் நியூஸிலாந்து வெற்றிபெற்றது.
+In the final R20 World Cup match in Trinidad, New Zealand secured a consolation victory by 7 wickets after losing the Super 8 round. Loki Bergasan set a record by taking 3 wickets in 4 overs, surpassing Canada's Saad bin Zabar's previous record of 2 wickets. Meanwhile, Indonesia's Rohmalia Rohmalia holds the women's international T20 match record with 7 wickets in 3.2 overs. Papua New Guinea made 78 runs but lost all wickets, while New Zealand reached 79 runs despite losing 3 wickets.
 
-ஏற்கனவே சுப்பர் 8 சுற்று தகுதியை இழந்திருந்த நியூஸிலாந்துக்கு இந்த வெற்றியில் கிடைத்த ஆறுதலுடன் நாடு திரும்பவுள்ளது.
+🟩
 
-பந்துவீச்சாளர்களுக்கு சாதகமாக அமைந்த ஆடுகளத்தில் லொக்கி பேர்கசன் 4 ஓவர்கள் வீசி ஒரு ஓட்டமும் கொடுக்காமல் 3 விக்கெட்களை வீழ்த்தி வரலாறு படைத்தார்.
+New Zealand won by 7 wickets in the last R20 World Cup in Trinidad, Taruba Prayan Lara Stadium.
 
-இதன் மூலம் ஆடவருக்கான சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 4 ஓவர்களில் ஓட்டம் கொடுக்காமல் அதிக விக்கெட்களை வீழ்த்தியவர் என்ற  அபூர்வ   சாதனையை லொக்கி பேர்கசன் படைத்தார்.
+New Zealand, who has already lost the Super 8 round, will return to the country with the comfort of this victory.
 
-பனாமாவுக்கு எதிராக கூலிஜ் விளையாட்டரங்கில் 2021இல் கனேடிய பந்துவீச்சாளர் சாத் பின் ஸபார் பதிவு செய்த 4 ஓவர்களில் ஓட்டமின்றி 2 விக்கெட்கள் என்ற முந்தைய சாதனையை பேர்கசன் இன்று முறியடித்தார்.
+Loki Bargasan threw 4 overs on the pitch that favored the bowlers and took 3 wickets.
 
-எவ்வாறாயினும் இருபாலாருக்குமான சர்வதேச ரி20 போட்டியில் இந்தோனேசியாவின் ரொஹ்மாலியா ரொஹ்மாலியா உலக சாதனைமிகு பந்துவீச்சுப் பெறுதியை தன்னகத்தே கொண்டுள்ளார்.
+Loki Bergasan set a rare record of taking the highest wickets in 4 overs in the international T20 cricket match for the men.
+
+Bergasan broke the previous record of 2 wickets in 4 overs registered by Canadian bowler Saad bin Zabar in 2021 at the Gulij Stadium against Panama.
+
+However, Indonesia's Rohmalia Rohmalia has won the World Boss bowling in the international T20 match for both parties.
+
+She set a world record for the women's international T20 match against Mongolia last April, taking 7 wickets without giving 3.2 overs.
+
+Meanwhile, Trent Bolt R20 was answered from the World Cup cricket with today's match.
 
 ...
 
 [Data](articles/7f464ecf.json)
 
+[Extended Data](ext_articles/7f464ecf.ext.json)
+
 ---
 
-### ’வழக்கு தொடுத்ததால் பதவியைத் துறந்தேன்’
+### I left the post because of the case.
 
 *2024-06-18 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கு-தொடுத்ததால்-பதவியைத்-துறந்தேன்/175-339055) · `ta`
 
-வழக்குத் தாக்கல் செய்து தடை உத்தரவு பெற்றதால் தான் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவர் பதவியை இராஜினாமா செய்ததாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena resigned as SLFP leader due to personal reasons, emphasizing the importance of party unity for future elections. He highlighted Dr. Vijayadasa Rajapakse's appointment as chairman, indicating his focus on the party's best interests over personal considerations.
 
-காலி கரந்தெனிய பிரதேசத்தில் திங்கட்கிழமை (17) இடம்பெற்ற கூட்டமொன்றில் கலந்து கொண்டு உரையாற்றும் போதே முன்னாள் ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-பதவி விலகாமல் தொடர்ந்தால், கட்சியில் உள்ள எவரும் அடுத்த தேர்தல்களில் வாக்கு கேட்க முடியாது என தெரிவித்த சிறிசேன, தன்னை பற்றி சிந்திக்காமல், ஸ்ரீ லங்கா சுதந்திரக் கட்சி உறுப்பினர்களை நினைத்து தான் அந்த முடிவை எடுத்ததாக தெரிவித்தார்.  .
+Former President Maithripala Sirisena has said that he has resigned from the post of Sri Lanka Freedom Party (SLFP) leader because of the case.
 
-அரசாங்கத்திற்குச் சென்ற ஏனையவர்களில் பொருத்தமானவர் இல்லாத காரணத்தினால் தனக்குப் பின்னர் தலைவர் பதவிக்கு கலாநிதி விஜயதாச ராஜபக்ஷ நியமிக்கப்பட்டதாக அவர் கூறினார்.
+The former President said this while addressing a meeting held on Monday (17) in Galle Karandeniya.
+
+Sirisena said that if the party continues to resign, no one in the party can vote in the next elections and said that he had made the decision to think of the members of the Sri Lanka Freedom Party (SLFP) without thinking about himself..
+
+He said that Dr. Vijayadasa Rajapakse was appointed as the Chairman after he was not suitable for other people who went to the government.
 
 ◼️
 
 [Data](articles/f28fb7c4.json)
+
+[Extended Data](ext_articles/f28fb7c4.ext.json)
 
 ---
 

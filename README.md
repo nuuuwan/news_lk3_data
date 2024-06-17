@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 15:34:44**
+As of **2024-06-17 15:53:41**
 
 ## Newspaper Stats
 
-*Scraped **30,779** Articles*
+*Scraped **30,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
 adalk | 2,666
-adaderanalk | 3,488
+adaderanalk | 3,489
 tamilmirrorlk | 3,610
 virakesarilk | 4,728
 dailymirrorlk | 4,733
@@ -26,31 +26,61 @@ adaderanasinhalalk | 4,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,771 (100.0%) of 30,779 articles have been extended.
+30,779 (100.0%) of 30,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### ගාස්තු නැති විශේෂ දුම්රිය සේවාවක්
+### Price of coconut oil expected to continue to surge?
+
+*2024-06-17 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99930/price-of-coconut-oil-expected-to-continue-to-surge) · `en`
+
+The price of a bottle of coconut oil has rapidly increased in the market by around Rs.150.
+
+The All-Ceylon Traditional Coconut Oil Manufacturers’ Association alleges that this increase is due to coconut oil importers holding onto their stocks in anticipation of the upcoming festive season.
+
+The Convener of the association, Buddhika de Silva claimed that the coconut oil importers are arbitrarily raising prices and warned that prices could rise by up to Rs. 1,000 per bottle.
+
+He also criticized the government’s inaction stating that, “To date, the Ministry of Finance has not imposed taxes on coconut oil, the Ministry of Plantation Industry has not implemented regulations, and there has been no intervention from the Coconut Development Authority.”
+
+De Silva urged the government to allow the importation of essential raw materials for local industrialists, industrialists to help reduce coconut oil prices.
+
+◼️
+
+[Data](articles/063ada73.json)
+
+---
+
+### Special train service without fare
 
 *2024-06-17 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197850) · `si`
 
-පොසොන් පොහොය නිමිත්තෙන් මිහින්තලය වෙත පැමිණෙන බැතිමතුන් වෙනුවෙන් ගාස්තු අය කිරීමකින් තොරව ක්‍රියාත්මක වන විශේෂ දුම්රිය සේවාවක් අද (17) සිට ආරම්භ කිරීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+To accommodate devotees during Poson Poya, the Railway Department has initiated a special bus service from Colombo to Mahawa and Anuradhapura due to ongoing renovations. Additionally, 400 buses will run between Mahawa and Anuradhapura. The railway line between Anuradhapura and Mihintale has reopened post-reconstruction. The National Poson Week starts tomorrow, with numerous ceremonies planned, including traditional almsgiving events. This year's Poson Poya falls on the 21st, with preparations underway in Anuradhapura, Mihintale, and Tantirimale for the festival.
 
-එමෙන්ම, කොළඹ සිට මහව දක්වා දුම්රියෙන් පැමිනෙන මගීන්ට මහව දුම්රිය ස්ථානයේ සිට අනුරාධපුර දක්වා ද විශේෂ බස් සේවාවක් ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇත.
+🟩
 
-මේ වනවිට උතුරු දුම්රිය මාර්ගයේ මහව සහ අනුරාධපුර දුම්රිය ස්ථාන අතර ප්‍රදේශයේ ප්‍රතිසංස්කරණ කටයුතු අවසන් වී නොමැති බැවින් මෙවර පොසොන් පොහොය වෙනුවෙන් දුම්රිය යෙදවීමට නොහැකිවී තිබේ.
+The Railway Department has taken steps to commence a special train service to the Poson Poya to commence today (17).
 
-එම නිසා බැතිමතුන්ගේ පහසුව වෙනුවෙන් මහව සහ අනුරාධපුර අතර බස් රථ පමණක් 400ක් අතිරේකව යෙදවීමට පියවර ගෙන තිබේ.
+Measures have been taken to implement a special bus service from Colombo to Mahawa train from Colombo to Mahawa to Anuradhapura.
 
-මේ අතර අනුරාධපුරය හා මිහින්තලය අතර දුම්රිය මාර්ගය ප්‍රතිසංස්කරණය කිරිමෙන් අනතුරුව එය විවෘත කිරිම හා මංගල දුම්රිය ධාවනය අද පෙරවරුවේ ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අනුරාධපුර දුම්රිය ස්ථානයේ දී  සිදුකෙරුණි.
+Since the renovation work of the North Railway and Anuradhapura, the reconstruction of the North Railway Stations have not yet been completed, he cannot be deployed for the Poson Poya.
 
-ජාතික පොසොන් සතිය හෙට (18) සිට ආරම්භ වෙන අතර ඒ වෙනුවෙන් අටමස්ථානය කේන්ද්‍ර කරගනිමින් පිංකම් රැසක් සංවිධාන කර තිබේ.
+Therefore, steps have been taken to deploy only 400 buses between Mahawa and Anuradhapura for the convenience of devotees.
+
+Meanwhile, the opening of the railway line between the Anuradhapura and Mihintale rail after the reconstruction of the railway line, the Minister of Transport Bandula Gunawardena was launched today.
+
+The National Poson week begins tomorrow (18) and has organized a large number of ceremonies.
+
+This year's poson is on the 21st.
+
+Accordingly, the Ministry of Buddha Sasana has taken steps to publish Poson week from tomorrow.
 
 ...
 
 [Data](articles/e1fed31a.json)
+
+[Extended Data](ext_articles/e1fed31a.ext.json)
 
 ---
 
@@ -100,79 +130,113 @@ The Sri Lankan skipper further said: “We talked about our mistakes from both t
 
 ---
 
-### யாழ். அல்லைப்பிட்டி கடற்பரப்பில் மிதந்து வந்த மர்மப் பெட்டி
+### Yall. The mysterious box floating in the seas of Allaipiti
 
 *2024-06-17 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186266) · `ta`
 
-யாழ்ப்பாணத்தில் கடலில் அடித்து வரப்பட்டு , கரையொதுங்கிய மர்ம பெட்டி ஒன்றில் இருந்து தொலைத்தொடர்பு சாதனம் மீட்கப்பட்டுள்ளது.
+A mysterious box discovered floating in the Allaipiti seas near Jaffna was retrieved by local authorities after being washed ashore. Upon opening it, the contents were turned over to the police for further investigation.
 
-அல்லைப்பிட்டி கடற்பரப்பில் மிதந்து வந்த மர்ம பெட்டி ஒன்று நேற்று ஞாயிற்றுக்கிழமை (17) கரையொதுங்கியுள்ளது.
+🟩
 
-அது தொடர்பில் ஊர்காவற்துறை பொலிஸாருக்கு அறிவிக்கப்பட்டதை அடுத்து , சம்பவ இடத்திற்கு சென்ற பொலிஸார் கரையொதுங்கிய பெட்டியை திறந்து பார்த்த வேளை அதனுள் தொலைத்தொடர்பு சாதனம் ஒன்று காணப்பட்டுள்ளது.
+Telecommunication device has been recovered from a mysterious box that has been hit by a sea in Jaffna.
 
-அதனை மீட்டு பொலிஸ் நிலையம் எடுத்து சென்றுள்ள பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+A mysterious box floating on the Allaipiti seas was found on Sunday (17).
+
+Following the announcement to the Kayts police, the police went to the scene and opened the shore -based box.
+
+The police have taken further investigations to the police.
 
 ◼️
 
 [Data](articles/337807e7.json)
 
+[Extended Data](ext_articles/337807e7.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் சிறப்பாக நடைபெற்ற புனித ஹஜ் பெருநாள் தொழுகை
+### Holy Hajj Prayer
 
 *2024-06-17 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186258) · `ta`
 
-நாடளாவிய ரீதியில் பல்வேறு  இடங்களில் ஈதுல் அல்ஹா புனித ஹஜ் பெருநாள் தொழுகை இன்று திங்கட்கிழமை (17)  சிறப்பாக நடைபெற்றன.
+The Eidul Alha Holy Hajj Prayer took place across Sri Lanka, with significant gatherings in Colombo, Kattankudy, Mannar, Puttalam, Muttur, Semmannodai, Pattanichoor, Vavuniya, Kalmunai, and Ampara. Notable attendees included local politicians and religious scholars who led prayers and sermons, emphasizing unity and support for global causes like Palestine.
 
-இலங்கை மேமன் சங்கம் வருடாந்தம் ஏற்பாடு செய்யும் பெருநாள் தொழுகை கொழும்பு காலி முகத்திடலில் நடைபெற்றது.
+🟩
 
-காத்தான்குடி மாவட்டத்தின் பிரதான பெருநாள் தொழுகை  நகர சபை மைதானத்தில் நடைபெற்றது. அதில், சுமார் 5,000 திற்கும் அதிகமான ஆண்களும் பெண்களும் கலந்து கொண்டனர்.
+The Eidul Alha Holy Hajj Prayer was held on Monday (17) in various parts of the country.
 
-அஷ்ஷெய்க் எம்.ஏ.எம் .சிறார் பலாஹி பெருநாள் தொழுகையையும் குத்பாவையும் நடாத்தினார். பெருநாள் குத்பாவையொட்டி பொலிஸார் பாதுகாப்பு கடமையில் ஈடுபட்டனர்.
+The Sri Lanka Memon Association's annual prayer was held at the Galle Face of Colombo.
 
-மன்னார் மாவட்டத்திலும் மூர்வீதி ஜும்மா பள்ளிவாசலில் ஹஜ் பெருநாள் நிகழ்வுகள் சிறப்பாக மேற்கொள்ளப்பட்டுள்ளன.
+The main public prayer of Kattankudy district was held at the city council ground. It was attended by more than 5,000 men and women.
 
-காலை 6.45 மணிக்கு பெண்களுக்கும் காலை 7.30 மணியளவில் ஆண்களுக்கும் பெருநாள் தொழுகை நடைபெற்றது. இவ் தொழுகை மூர்வீதி ஜும்மா பள்ளிவாசலின் மௌலவி எம்.அஸீம் தலைமையில் நடைபெற்றது.
+Ashsheik MAM Siror Balahi conducted the great prayer and Qutba. The police were on duty at the Kutba.
 
-புத்தளம் மாவட்டத்தில் நோன்புப் பெருநாள் தொழுகை புத்தளம் கருப்புத்தரவை மைதானத்தில் நடைபெற்றது. குறித்த பெருநாள் தொழுகை இமாம் மின்ஹாஜ் அவர்களினால் நிகழ்த்தப்பட்து.
+Hajj events have been held in Mannar district in the Murvedi Jumma School.
+
+Women were praying for women at 6.45 am and men at 7.30 am. The prayer was held under the patronage of Moulavi M. Assem of the Murvidhi Jumma School.
+
+Fasting Prayer in Puttalam District. The great prayer was performed by Imam Minhaj.
+
+Hajj Prayer at Muttur Public Playground was held at 6.30 am. R. Imam Moulavi performed the prayer.
+
+The Hajj Prayer was organized by the Muttur -Alhasanah Social Development Center.
 
 ...
 
 [Data](articles/9fef041a.json)
 
+[Extended Data](ext_articles/9fef041a.ext.json)
+
 ---
 
-### கதிர்காம பாதை யாத்திரை : வீதி வழிப் பயணத்தை பிற்போட்டமை கவலையானது - இராவணண் சேவா அமைப்பு
+### Kadirgama Pilgrimage: Ravanan Seva System
 
 *2024-06-17 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186271) · `ta`
 
-கதிர்காம பாதை யாத்திரையின் போதான அதன் வீதி வழி பயணத்தை பிற்போட்டமை பெரும் கவலையளிக்கிறது என இராவணண் சேவா அமைப்பின் தலைவர் கே.செந்தூரன் தெரிவித்தார்.
+Kadirgama Pilgrimage faces challenges due to its difficult path, affecting the number of visitors. Ravanan Seva Organization President K. Senthuran expressed concerns about the decline in pilgrims. The tradition of pregnant women and mothers making the pilgrimage has shifted from being vegetarian to non-vegetarian among Sinhalese. The opening of a new route was expected to improve accessibility, but delays have led to disappointment among the anticipated tens of thousands of pilgrims.
 
-திருகோணமலையில் இன்று திங்கட்கிழமை (17) இடம் பெற்ற ஊடக சந்திப்பின் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-அவசரமாக சென்று யாத்திரைகளை நிறைவேற்ற முடியாது பக்தர்களின் வருகையை குறைக்கும் செயலாக இந்த நாட்கள் பிற்போடப்பட்டமை காணப்படுகிறது .
+Ravanan Seva Organization President K. Senthuran said that the Kadirgama route is a great concern for its street journey.
 
-பண்டைய காலம் தொடக்கம் மரபு ரீதியாக இது நடை பெறுகின்றது நேர்த்தி கடனுக்காக சிறுவர்கள் முதல் பெரியார்கள் ,கர்ப்பிணி தாய்மார்கள் என உகந்தை முதல் கதிர்காம யாத்திரைகளை சைவப்படி மேற்கொள்வது வழக்கம் ஆனால் தற்போது அடுத்த மாதம் 2ம் திகதி வரை பிற்போட்டிருப்பதும் குறுகிய காலத்தில் செய்வதென்பதும் தடுக்கும் செயலாக காணப்படுகிறது சிங்களவர்கள் தமிழர்கள் என பலரும் கதிர்காம யாத்திரையினை மேற்கொள்வது வழக்கம்.
+He made this statement during a media briefing held in Trincomalee today (17).
 
-ஈழத்து சைவர்களின் வாழ்வியலில் ஒன்றாக காணப்படுகிறது. நடந்து சென்று நேர்த்தி கடனை நடந்து சென்று ஆண்மீகம் தொன்று தொட்டு நடந்து வருகிறது கடினமான பாதை காடுகள் ஊடாக செல்ல வேண்டும்.
+These days have been seen as a reducing the arrival of pilgrims.
 
-...
+From ancient times to the beginning of ancient times, it is customary for children to be pregnant and pregnant mothers as a vegetarian, but now it is customary for the Sinhalese to make a pilgrimage.
+
+Eelam is found in the life of the Saivites. Walking and going on a loan and going to the masculinity.
+
+With the opening of this month on the 30th of this month, the days have been delayed.
+
+Tens of thousands of pilgrims are expressing their condemnation.
+
+◼️
 
 [Data](articles/180bb066.json)
 
+[Extended Data](ext_articles/180bb066.ext.json)
+
 ---
 
-### கலதுர தோட்ட தாக்குதல் சம்பவத்திற்கு உரிய சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும் - ரூபன் பெருமாள்
+### Legal action should be taken for the Kaladura plantation attack - Ruben Perumal
 
 *2024-06-17 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186275) · `ta`
 
-இரத்தினபுரி, கிரியெல்ல பொலிஸ் பிரிவிற்குற்பட்ட கலதுர தோட்டத்தில், தொழில் புரியும் தோட்டத் தொழிலாளி வேலைக்கு சமூக மளிக்காமையால் குறித்த தோட்டத்தின் காவலாளியாக கடமை புரியும்  பெரும்பான்மையினத்தவர் தொலைபேசி மூலமாக குறித்த தோட்டத் தொழிலாளியின் கணவரை சாடியதுடன் நிறுத்தி விடாமல், அன்றைய தினம் மாலை வேலையில் அவரது தோட்ட குடியிருப்பு அமைந்துள்ள பிரதேசத்திற்கு குடிபோதையில் ஆயுதங்கள் சகிதம் இன்னும் சில பெரும்பான்மையின காடையர்களுடன் சென்று, குறித்த குடும்பத்தினரை தாக்கியது மட்டுமல்லாது, அந்த இடத்திலிருந்து அவரை இழுத்துச் சென்று தோட்டக் குடியிருப்புக்கு அப்பாற்பட்ட பிரதேசத்தில் வைத்து மேலும் தாக்கியுள்ளனர்.
+Ruben Perumal calls for legal action after a violent attack on plantation workers at Kalatura estate, Ratnapura, where several were assaulted by unidentified individuals. The victims, including Veerasamy Jagadeeswaran, are treated at Ratnapura District Hospital. Despite arrests, there's no action from Kiriella Police Station. Jeevan Thondaman urges swift justice, highlighting political interference attempts in Nuwara Eliya district.
 
-தாக்குதலுக்கு உள்ளான வீராசாமி ஜெகதீஸ்வரன் (வயது 44) தற்போது இரத்தினபுரி மாவட்ட வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார்.
+🟩
+
+At the Kalatura estate in the Kiriella police division, Ratnapura, the majority of the garden worker who is responsible for the work of the estate worker is not stopped by the garden worker's husband, without stopping the husband of the plantation worker that evening.Not only did they attack the family, but they also dragged him from the place and attacked him in the area beyond the garden.
+
+Veerasamy Jagadeeswaran (44 years old), who was attacked, is currently receiving treatment at the Ratnapura District Hospital.
+
+However, following the arrest of the majority of the people who have been responsible for the incident, the officials of the Ceylon Police Station have not taken steps to arrest the Kriella Police Station, Jeevan Thondaman, the General Secretary and Minister of the Ceylon Workers Congress, has told him to take immediate action to take immediate action to take immediate action.Ruben Perumal, political organizer of the Ceylon Workers Congress, said.
 
 ...
 
 [Data](articles/afdf92d0.json)
+
+[Extended Data](ext_articles/afdf92d0.ext.json)
 
 ---
 
@@ -202,35 +266,49 @@ The convener of the All Ceylon Traditional Coconut Oil Products, Buddhika De Sil
 
 ---
 
-### மின்னணு இயந்திரங்கள் எல்லாம் கருப்பு பெட்டிகள் - ராகுல் காந்தி
+### Electronic machines are all black boxes - Rahul Gandhi
 
 *2024-06-17 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186272) · `ta`
 
-''இந்தியாவில் உள்ள வாக்குப்பதிவு மின்னணு இயந்திரங்கள் எல்லாம் ஒரு கருப்பு பெட்டி.  அவற்றை யாரும் ஆராய அனுமதிக்கப்படுவதில்லை'' என மக்களவை உறுப்பினரும், காங்கிரஸ் கட்சியின் முன்னாள் தலைவருமான ராகுல் காந்தி குற்றம்சாட்டியிருக்கிறார்.
+Rahul Gandhi criticized India's electronic voting system as opaque, stating no inspections are allowed, raising questions about electoral transparency during the 18th Lok Sabha elections where the BJP-led alliance maintained majority control.
 
-இந்தியாவில் பதினெட்டாவது மக்களவைக்கான தேர்தல் ஏழு கட்டங்களாக நடைபெற்று நிறைவடைந்தது. தேர்தலில் பதிவான வாக்குகளை எண்ணி முடிவுகளும் வெளியிடப்பட்டன. இதில் பாரதிய ஜனதா கட்சி தலைமையிலான தேசிய ஜனநாயக கூட்டணி பெரும்பான்மை பெற்று ஆட்சி அமைத்திருக்கிறது.‌ காங்கிரஸ் கட்சி  நூறு இடங்களில் வெற்றி பெற்று எதிர்க்கட்சியாக அமைந்திருக்கிறது.
+🟩
 
-இந்நிலையில் காங்கிரஸ் கட்சியின் முன்னாள் தலைவரும், வயநாடு மற்றும் ரேபரேலி தொகுதியின் மக்களவை உறுப்பினருமான ராகுல் காந்தி சமூக ஊடகத்தில் மின்னணு இயந்திரங்களை பற்றி பதிவு ஒன்றை வெளியிட்டிருந்தார்.
+“Voting electronic machines in India are all a black box.No one is allowed to investigate them. ”
 
-...
+The election for the eighteenth Lok Sabha in India was held in seven phases. The results were also released by counting the votes cast in the election. The Bharatiya Janata Party -led National Democratic Alliance has ruled the majority. The Congress party has won a hundred seats.
+
+In this backdrop, Rahul Gandhi, a former Congress leader and a member of the Wayanad and Rabareli constituency, published a record of electronic machinery on social media.
+
+In it, he said, “All the electronic voting machines in India are black box. No one is allowed to inspect them. Serious concerns about the transparency of our electoral practice are questionable. ”
+
+◼️
 
 [Data](articles/2c7b5ac5.json)
 
+[Extended Data](ext_articles/2c7b5ac5.ext.json)
+
 ---
 
-### சம்மாந்துறையில் வேகமாக பயணித்த மோட்டார் சைக்கிள் மோதியதில் வயோதிபரும் சிறுவனும் காயம்
+### An elderly man and boy injured when a motorcycle crashed into a fast -paced motorcycle
 
 *2024-06-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186256) · `ta`
 
-சம்மாந்துறை பொலிஸ் வீதியில் இன்று திங்கட்கிழமை (17) காலை 10 மணியளவில் இடம்பெற்ற விபத்தில் வயோதிபர் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In a tragic accident, an elderly man and a boy were seriously injured when a speeding motorcycle hit them separately on Samanthurai Police Road. The man was critically hurt and rushed to the emergency department, while the boy also suffered injuries and was hospitalized.
 
-அவ் வீதியால் பயணித்த மோட்டார் சைக்கிள் துவிச்சக்கரவண்டியில் பயணித்த வயோதிபருடன் மோதி விபத்துக்குள்ளானதில் வயோதிபர் காயமடைந்து ஆபத்தான நிலையில் அவசர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-இதேவேளை, வீட்டின் முன்னால் அமர்ந்து இருந்த சிறுவன் மீதும் அதே மோட்டார் சைக்கிள் மோதியதுடன், அச்சிறுவனும் காயமடைந்த நிலையில், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சம்பவ இடத்தில் இருந்த பொதுமக்கள் தெரிவித்தனர்.
+An elderly man was injured in an accident that occurred at around 10 am on Monday (17) at Samanthurai Police Road, police said.
+
+The elderly man was injured and admitted to the emergency department in critical condition after a motorcycle traveler collided with an elderly man.
+
+Meanwhile, the same motorcycle crashed into the boy who was sitting in front of the house and was admitted to the hospital after the company was injured.
 
 ◼️
 
 [Data](articles/3575509d.json)
+
+[Extended Data](ext_articles/3575509d.ext.json)
 
 ---
 
@@ -474,19 +552,25 @@ Maithripala Sirisena was the only 24-hour candidate for the country, the Gotabha
 
 ---
 
-### யாழில் 18 கிலோ கேரளா கஞ்சாவுடன் ஒருவர் கைது!
+### 18 kg Kerala cannabis in Jaffna
 
 *2024-06-17 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186269) · `ta`
 
-யாழ்ப்பாணத்தில் 18 கிலோ கேரளா கஞ்சாவுடன் நபர் ஒருவரை பொலிஸ் விசேட அதிரடி படையினர் ஞாயிற்றுக்கிழமை (16) கைது செய்துள்ளனர்.
+In Jaffna, police arrested a person with 18 kg of Kerala cannabis on Sunday. Acting on a tip-off, they found the stash in Allaipiti. The suspect and drugs were transferred to Kayts Police Station for further proceedings.
 
-அல்லைப்பிட்டி பகுதியில் கேரளா கஞ்சா பதுக்கி வைக்கப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸ் விசேட அதிரடி படையினர் 18 கிலோ கஞ்சாவை மீட்டுள்ளனர்.
+🟩
 
-கைதுசெய்யப்பட்ட நபரையும் மீட்கப்பட்ட கஞ்சாவையும் மேலதிக சட்ட நடவடிக்கைக்காக ஊர்காவற்துறை பொலிஸ் நிலையத்தில் ஒப்படைத்துள்ளனர்.
+Police Special Action Soldiers arrested a person with 18 kg Kerala cannabis in Jaffna on Sunday (16).
+
+Police Special Action Soldiers rushed to the scene on the basis of confidential information available to the Special Action Force (STF) that Kerala cannabis has been stored in the Allaipiti area.
+
+The arrested person and the recovered cannabis have been handed over to the Kayts Police Station for further legal action.
 
 ◼️
 
 [Data](articles/1bceab2e.json)
+
+[Extended Data](ext_articles/1bceab2e.ext.json)
 
 ---
 
@@ -2277,31 +2361,5 @@ Lands around the Nellikulam Mountain.. We cannot comment on the issue in court..
 [Data](articles/9f0ff8e4.json)
 
 [Extended Data](ext_articles/9f0ff8e4.ext.json)
-
----
-
-### Look at the problems of Mannar fishermen
-
-*2024-06-17 01:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-மீனவ-மக்களின்-பிரச்சினைகளை-பாருங்கள்/175-338991) · `ta`
-
-President Wickremesinghe meets Mannar Bishop to discuss district development, including renewable energy and tourism. They address environmental concerns and potential benefits like selling extra power to India and developing a pipeline connection. The Bishop highlights the need to address issues faced by Mannar fishermen.
-
-🟩
-
-President Ranil Wickremesinghe met the Mannar District Bishop of the Mannar District on Sunday (16) at the Mannar Synic House.
-
-The Mannar Bishop, who praised the economic reconstruction efforts to restore the country from the economic crisis, also discussed with the President on the Mannar District Development Program.
-
-The Mannar - Point Pedro and Mullaitivu Renewable Renewable Power Center was discussed.
-
-In addition, considering the safety of the environment, it was also advised to carry out those development projects. President Ranil Wickremesinghe said that the sale of additional power to India is being talked about and the possibility of building a pipeline connection between India and Sri Lanka is underway.
-
-The President also said that the Indian Foreign Minister will be discussing further during the coming days.
-
-...
-
-[Data](articles/e69013f0.json)
-
-[Extended Data](ext_articles/e69013f0.ext.json)
 
 ---

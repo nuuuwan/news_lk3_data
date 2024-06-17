@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 22:19:19**
+As of **2024-06-17 22:34:36**
 
 ## Newspaper Stats
 
-*Scraped **30,824** Articles*
+*Scraped **30,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,675
-adaderanalk | 3,493
+adaderanalk | 3,494
 tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
 virakesarilk | 4,743
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,823 (100.0%) of 30,824 articles have been extended.
+30,824 (100.0%) of 30,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### Record number of legal reforms in Sri Lanka’s history in last 2 years – Justice Secretary
+
+*2024-06-17 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99935/record-number-of-legal-reforms-in-sri-lankas-history-in-last-2-years-justice-secretary-) · `en`
+
+The Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reforms, Mr. M. N. Ranasinghe, stated that the period from 2022 to 2024 will be historically significant for the highest number of law reforms in Sri Lanka.
+
+He highlighted that since 2022, a total of 59 legal reforms have been passed in Parliament, with an additional 07 drafts and 44 legal amendments slated for future approval.
+
+Mr. Ranasinghe made these remarks during a press conference titled “Two Years of Progress and Advancement” at the Presidential Media Centre today (17).
+
+He emphasized the ministry’s pivotal role in drafting laws across various ministries. He noted that the Department of Legal Draftsman prepared 273 drafts in 2022 and 299 drafts in 2023, encompassing all three languages.
+
+Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reform, Mr. M. N. Ranasinghe further said:
+
+...
+
+[Data](articles/9a2642b8.json)
+
+---
 
 ### What Matthew said to the Fanin
 
@@ -160,21 +180,33 @@ President Ranil Wickremesinghe today conducted a program to provide deeds to 1,5
 
 ---
 
-### 2022 -2024 නීති නිසා ඉතිහාසගත වෙයි
+### 2022 -2024 Historical Rules
 
 *2024-06-17 20:01:59* · [`adalk`](https://www.ada.lk/breaking_news/2022--2024-නීති-නිසා-ඉතිහාසගත-වෙයි/11-410276) · `si`
 
-2022- 2024 මෙරට වැඩිම නීති ප්‍රතිසංස්කරණ ගණනක් සිදු කළ කාල වකවානුව ලෙස ඉතිහාසගත වන බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් එම්. එන්. රණසිංහ මහතා පැවසීය.
+Between 2022 and 2024, significant legislative reforms were undertaken in Sri Lanka, with 59 laws passed and 273 legal drafts prepared. The Ministry of Justice and Constitutional Reforms focused on digitizing the judicial system and increasing the efficiency of the courts, leading to quicker resolutions and a better investment climate. Additionally, efforts were made to recruit more judicial officers and establish new courts, including commercial and investment courts, to address specific dispute types.
 
-අධිකරණ අමාත්‍යාංශයේ විෂය පථයට අදාළව 2022 වර්ෂයේ සිට මේ දක්වා නීති ප්‍රතිසංස්කරණ 59ක් පාර්ලිමේන්තුවේ සම්මත කර ඇති අතර තවත් කෙටුම්පත් 07ක් සහ නීති සංශෝධන 44ක් ඉදිරියේදී සම්මත කර ගැනීමට නියමිත බවද ඒ මහතා සඳහන් කළේය.
+🟩
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් එම්. එන්. රණසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (17) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+2022- 2024 The Secretary to the Ministry of Justice and Constitutional Reforms have been made as his timely as a time when the highest number of legitives were carried out in the country.. N. He said, "Ranasinghe said.
 
-එසේම සෑම අමාත්‍යාංශයකම නීති කෙටුම්පත් කිරීම වෙනුවෙන් තම අමාත්‍යාංශය විශාල කාර්යභාරයක් ඉටු කරන බව පැවසූ ඒ මහතා 2022 වර්ෂයේදී 273ක් හා 2023 වර්ෂයේදී 299ක් ලෙස භාෂා ත්‍රිත්වයෙන්ම නීති කෙටුම්පත් දෙපාර්තමේන්තුව විසින් කෙටුම්පත් සකස් කර දී තිබෙන බවද සඳහන් කළේය.
+59 law reforms have been passed in parliament since 2022, with regard to the subject of the Ministry of Justice.
+
+Secretary to the Ministry of Justice, Prison and Constitutional Reforms. N. He was speaking at a press conference held at the press conference at the Presidential Media Center today (17) at the Presidential Media Center.
+
+He said that the Law Draftsmen were prepared by the Legal Draftsmen as 273 and 299 languages ​​in 2022 to draft the legal laws in each Ministry.
+
+Secretary to the Ministry of Justice, Prison and Constitutional Reforms. N. Mr. Ranasinghe said,
+
+The Ministry of Justice and Constitutional Reforms have made great strides during the last two years of law reform.
+
+Historically made his time as a time when the highest number of law reforms were carried out.
 
 ...
 
 [Data](articles/21111630.json)
+
+[Extended Data](ext_articles/21111630.ext.json)
 
 ---
 
@@ -2405,27 +2437,5 @@ Former leader Tillakaratne Dilshan, he has left for 80 cases in 80 matches.
 [Data](articles/c63d6d39.json)
 
 [Extended Data](ext_articles/c63d6d39.ext.json)
-
----
-
-### Singapore says dredger lost control and hit tanker causing oil spill
-
-*2024-06-17 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99919/singapore-says-dredger-lost-control-and-hit-tanker-causing-oil-spill) · `en`
-
-Singapore authorities said on Monday a dredger boat reported a sudden loss in engine and steering control that led it to hit a stationary cargo tanker, causing an oil spill that has blackened part of the city-island’s southern shores.
-
-The Netherlands-flagged dredger Vox Maxima struck the Singaporean fuel supply ship Marine Honor on Friday.
-
-It ruptured one of the cargo tanks on the Marine Honor, which leaked low-sulfur oil into the sea.
-
-Although the leak has been contained, tides washed the spilled oil that had been treated with dispersants further along the shoreline, including to the popular resort island of Sentosa.
-
-Singapore’s Maritime and Port Authority, in a joint statement with the National Environment Agency, the National Parks Board and Sentosa Development Corp, said the master and crew members of Vox Maxima are assisting in the ongoing investigations.
-
-...
-
-[Data](articles/53980af8.json)
-
-[Extended Data](ext_articles/53980af8.ext.json)
 
 ---

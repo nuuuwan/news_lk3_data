@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 14:53:31**
+As of **2024-06-17 15:04:35**
 
 ## Newspaper Stats
 
-*Scraped **30,767** Articles*
+*Scraped **30,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,664
-adaderanalk | 3,487
+adalk | 2,666
+adaderanalk | 3,488
 tamilmirrorlk | 3,610
 virakesarilk | 4,721
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,987
+adaderanasinhalalk | 4,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,767 (100.0%) of 30,767 articles have been extended.
+30,767 (100.0%) of 30,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### ඊශ්‍රායල අගමැති දැඩි තීරණයක් ගනී
+
+*2024-06-17 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197849) · `si`
+
+"යුද කැබිනෙට්ටුව" විසුරුවා හැරීමට ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු තීරණය කර තිබේ.
+
+එම කැබිනෙට්ටුවේ ප්‍රකට චරිතයක් වූ බෙනි ග්‍රාන්ට්ස් පසුගිය සතියේ ඉන් ඉවත් විය.
+
+ඒ යුද්ධයෙන් අනතුරුව ගාසා තීරය සම්බන්ධයෙන් ඇති වූ මත ගැටුමක් හේතුවෙනි.
+
+මේ අතර පසුගිය සති අන්තයේ දකුණු ගාසා තීරයේ සිදුවූ පිපිරීමකින් ඊශ්‍රායල සොල්දාදුවන් 8 දෙනෙක් මියගිය බව එරට ආරක්ෂක අංශ පවසයි.
+
+එය පසුගිය ජනවාරි මාසයෙන් පසු ඊශ්‍රායල හමුදාව මුහුණදුන් බරපතළ ම ප්‍රහාරය බව සඳහන් ය.
+
+◼️
+
+[Data](articles/6a63aad2.json)
+
+---
+
+### ‘We haven’t corrected our recurring mistakes yet’ – Wanindu
+
+*2024-06-17 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99928/we-havent-corrected-our-recurring-mistakes-yet-wanindu) · `en`
+
+As Sri Lanka bids farewell to the 2024 T20 World Cup, Captain Wanindu Hasaranga emphasized the importance of accountability in the face of defeat.
+
+Speaking to the media following their final match in the tournament, Hasaranga stated that although it is easy to blame the pitch or other factors after losing matches, players should adapt them as professional cricketers.
+
+“At first I should say that we are really sorry for our performance. As a team, we know the capabilities of our team, but unfortunately, we did not perform well in the first two matches. Though we won this match, it is too late to change the outcome now”, he expressed.
+
+The Sri Lankan skipper further said: “We talked about our mistakes from both the last World Cup and this tournament, but we haven’t corrected the mistakes yet.”
+
+...
+
+[Data](articles/600d0787.json)
+
+---
 
 ### Prices of coconut oil up
 
@@ -131,6 +169,22 @@ Addressing the people, the President said he was able to restore the economy of 
 [Data](articles/c0918c96.json)
 
 [Extended Data](ext_articles/c0918c96.ext.json)
+
+---
+
+### වසරකට පුරවැසියෙක් හය වතාවක් ප්‍රතිකාර ලබා ගැනීමට රෝහලට පැමිනේ
+
+*2024-06-17 13:40:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-පුරවැසියෙක්-හය-වතාවක්-ප්‍රතිකාර-ලබා-ගැනීමට-රෝහලට-පැමිනේ/11-410264) · `si`
+
+කලාපයේ රටවල් සමග සැසදීමේදී  වැඩිපුරම රෝහල් වලට සහ  බාහිර රෝගී අංශයට ප්‍රතිකාර සේවාවන් ලබා ගැනීමට පැමිනෙන්නේ මෙරට ජනතාව බවත්, මිලියන 55 ක් රජයේ රෝහල් වලින් ප්‍රතිකාර ලබා ගැනීමටත්, තවත් මිලියන 55 පෞද්ගලික අංශයෙන් ප්‍රතිකාර ලබා ගැනීමට පැමිණෙන බවත්, ‍එලෙස විශාල ලෙස ජනතාව රෝහල් වලට පැමිනීමෙන් පෙනී යන්නේ  මෙරට ක්‍රියාත්මක රෝග නිවාරණ අංශයේ සහ රෝහල් වල ලබා දෙන ප්‍රතිකාර වල යම් ගැටලු සහගත තත්ත්වයක් බවත්, එම නිසා සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහන් සහ  රෝගීන්ට රෝග ඇතිවීම වැළැක්වීමේ  වැඩසටහන්  ශක්තිමත් කල යුතු බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+
+ඒ මහතා මේබව අවධාරණය කර සිටියේ පසුගිය දින මාතලේ දිස්ත්‍රික් මහ රෝහලේ   රෝහලේ සිදුකරන ලද විශේෂ නිරීක්ෂණ චාරිකාවකින් අනතුරුව එම රෝහල් කාර්ය මණ්ඩලය සමග පැවති විශේෂ සාකච්ඡාමය අවස්ථාවේ අදහස් දක්වමින්ය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් සෞඛ්‍ය ලේකම්වරයා කියා සිටියේ එක පුරවැසියෙක් වසරකට හය වතාවක් ප්‍රතිකාර සේවාවන් සදහා රෝහල් වලට පැමිණෙන බව මෙරට සෞඛ්‍ය දත්ත පරිශීලනයේදී පෙනෙන ප්‍රධාන කරුණක් බවත්ය.
+
+...
+
+[Data](articles/44a977f5.json)
 
 ---
 
@@ -365,6 +419,22 @@ The National Water Supply and Drainage Board says that the damaged pipe to the L
 [Data](articles/c00b4730.json)
 
 [Extended Data](ext_articles/c00b4730.ext.json)
+
+---
+
+### කුසල් හා ධනංජය වගකීම් ඉටු කළා  - අසලංක දක්ෂතාව ඔප්පු කළා
+
+*2024-06-17 12:55:03* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-හා-ධනංජය-වගකීම්-ඉටු-කළා----අසලංක-දක්ෂතාව-ඔප්පු-කළා/11-410258) · `si`
+
+නෙදර්ල්න්තය සමග පැවැති තරගයේදී ශ්‍රී ලංකා කණ්ඩායමේ ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් හා තුන් ඉරියව් ක්‍රීඩක ධනංජයද සිල්වා තම වගකිම් ඉටු කළ බවත් චරිත් අසලංකද තම දක්ෂතාව ඔප්පු කළ බවත් ශ්‍රී ලංකා විස්සයි 20 නායක වනිඳු හසරංග පවසයි.
+
+එසේම පළමු තරග දෙකේ පරාජයෙන් පසුව ලැබූ මෙම ජයග්‍රහණය කණ්ඩායමට වැදගත් බවද ඔහු පැවැසීය. පළමු තරග දෙකේදී පළමු පන්දුවාර 6 තුළදි ශ්‍රි ලංකාවේ කඩුලු දෙක තුනක් බිඳී ගිය බවත් මෙම තරගයේදි එවැනි දෙයක් සිදු නොවුණ බවත් ඔහු පැවැසිය.
+
+ලකුණු 160ක් රැස් කළේ නම් එය ආරක්ෂා කර ගැනීමට ප්‍රමාණවත් පන්දු යැවිමේ අංශයක් ශ්‍රී ලංකාවට පවතින බවද ඔහු වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/e8d53728.json)
 
 ---
 
@@ -2245,87 +2315,5 @@ People are not expecting a change of face, but a change of the political structu
 [Data](articles/0415d937.json)
 
 [Extended Data](ext_articles/0415d937.ext.json)
-
----
-
-### My Red Comrade – A Hunted Woman, A Lost Man & The Dark Secrets Of A Nation On A Stormy Night
-
-*2024-06-16 22:39:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-red-comrade-a-hunted-woman-a-lost-man-the-dark-secrets-of-a-nation-on-a-stormy-night/) · `en`
-
-Sudath Mahaadivulwewa makes a spectacular return to filmmaking after an absence of nineteen years with his cinematic venture “My Red Comrade” which leaps off the popular neorealist mode, and into its own bold and innovative genre.
-
-...
-
-[Data](articles/e203d7b6.json)
-
-[Extended Data](ext_articles/e203d7b6.ext.json)
-
----
-
-### Mannar’s long-overdue development to be fast-tracked, says President
-
-*2024-06-16 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99915/mannars-long-overdue-development-to-be-fast-tracked-says-president) · `en`
-
-President Ranil Wickremesinghe announced that pilgrims to Madhu will be provided with all necessary facilities to engage in their pilgrimage activities without any hindrance.
-
-Addressing the Mannar District Development Committee meeting held today (16) at the Mannar District Secretariat, he emphasized that it is unfair to arrest and fine pilgrims on their way to sacred sites like Madhu Church and Sri Pada.
-
-He instructed that if pilgrims are arrested in the future, the President’s Office should be informed immediately.
-
-During the meeting, the President directed the Sri Lanka Army to clean and develop both sides of the existing Madhu Road for the convenience of the pilgrims visiting Madhu Church.
-
-He also coordinated with a representative of the Bishop of Mannar, the Department of Forest Conservation, the Road Development Authority, and the Sri Lanka Police to ensure these tasks are completed before the upcoming annual festival of the church of Our Lady of Madhu.
-
-...
-
-[Data](articles/f79aeb5c.json)
-
-[Extended Data](ext_articles/f79aeb5c.ext.json)
-
----
-
-### 2,300 graduate teacher appointments
-
-*2024-06-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197830) · `si`
-
-In early January, Sri Lanka's Minister of Education announced plans to appoint 2,300 graduate teachers, including those specializing in mathematics, chemistry, biology, languages (Sinhala, English, Tamil), and technology. The minister confirmed that all candidates had been interviewed, including himself. This move follows a delay in transitioning from traditional blackboards to smartboards, which occurred between August and September.
-
-🟩
-
-Minister of Education Susil Premajayantha says that steps will be taken to provide 2,300 graduate teacher appointments in the first week of January.
-
-The Minister said that all these graduates have been interviewed by the Minister, the Minister has also appeared for interviews.
-
-The appointment was made by a school in the Nathaniya School, as well as these appointments to graduates in mathematics, chemistry, biology, Sinhala, English, Tamil mediums and technologies.
-
-Minister Susil Premajayantha said Minister Susil Premajayantha said that the new Smartboard was not given a shift to the curtain from a blackboard screen at August-September.
-
-◼️
-
-[Data](articles/790575cb.json)
-
-[Extended Data](ext_articles/790575cb.ext.json)
-
----
-
-### Sri Lankan arrested for attempted murder of fellow countryman in Naples
-
-*2024-06-16 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99914/sri-lankan-arrested-for-attempted-murder-of-fellow-countryman-in-naples) · `en`
-
-A 41-year-old Sri Lankan man who was illegally residing in Italy has been arrested for attempted murder in Napoli by Italy’s Carabinieri Police after he allegedly stabbed a fellow countryman multiple times and caused severe injuries, Italian media reported.
-
-‘Il Mattino’ reports that the Carabinieri of the Centro company intervened on Via Francesco Saverio Correra following a report of an injured person last evening.
-
-The victim – a 44-year-old Sri Lankan – was struck multiple times, presumably with a bladed weapon, three of the wounds were large and severe: the base of the neck, chest, and right thigh.
-
-He was transferred to the Pellegrini hospital where he is still under observation, the report said.
-
-The investigations by the Carabinieri of the operational unit of the company concluded last night, resulting in the arrest of a 41-year-old homeless Sri Lankan who was already known to the authorities and was illegally residing in the country.
-
-...
-
-[Data](articles/ad4279cb.json)
-
-[Extended Data](ext_articles/ad4279cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 00:19:18**
+As of **2024-06-18 00:34:31**
 
 ## Newspaper Stats
 
-*Scraped **30,829** Articles*
+*Scraped **30,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 301
 newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,783
-dailyftlk | 1,873
+dailyftlk | 1,878
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,614
+tamilmirrorlk | 3,615
 dailymirrorlk | 4,733
 virakesarilk | 4,744
 adaderanasinhalalk | 4,999
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,829 (100.0%) of 30,829 articles have been extended.
+30,829 (100.0%) of 30,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### சகல பொருட்களினதும் விலை அதிகரிக்கும் என எச்சரிக்கை
+
+*2024-06-17 23:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சகல-பொருட்களினதும்-விலை-அதிகரிக்கும்-என-எச்சரிக்கை/175-339052) · `ta`
+
+எதிர்காலத்தில் இறக்குமதி செய்யப்படும் சகல பொருட்களினதும் விலை அதிகரிக்கக் கூடும் என அகில இலங்கை சிறு கைத்தொழில்துறை சங்கத்தின் தலைவர் நிலுக்ஷ குமார தெரிவித்துள்ளார்.
+
+கப்பல் கட்டண அதிகரிப்பு உள்ளிட்ட செலவினங்கள் காரணமாகவே இறக்குமதி செய்யப்படும் சகல பொருட்களினதும் விலையை அதிகரிக்க நேரிட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/a7f56cd7.json)
+
+---
 
 ### Former Bentota Ex-chairman remanded
 
@@ -202,6 +216,22 @@ Sri Lanka won by 83 runs in the match with the Netherlands. Or it would have ret
 
 ---
 
+### Thinking outside comfort zones to achieve progress
+
+*2024-06-17 20:35:20* · [`dailyftlk`](https://www.ft.lk/columns/Thinking-outside-comfort-zones-to-achieve-progress/4-763173) · `en`
+
+Citizens should demand that candidates and political parties participating in these elections present clearly articulated policy platforms that will enable the electorate to make an informed choice at the polls – Pic by Shehan Gunasekara
+
+A proposal by Pathfinder Foundation Founder Milinda Moragoda to all presidential candidates and political parties
+
+The Presidential and possible parliamentary elections are expected to take place later in 2024 and will be the most important set of elections in our post-Independence history. Sri Lanka can come out of the prevailing economic and political crises only if leaders and citizens are willing to recognise that the economy will have to grow by at least 6% per annum for the next 10 years, which is twice the growth rate projected by Sri Lankan authorities and international economists at the moment.
+
+...
+
+[Data](articles/a6673c3a.json)
+
+---
+
 ### Arrested by two police officers
 
 *2024-06-17 20:31:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பொலிஸ்-உத்தியோகத்தர்கள்-கைது/175-339036) · `ta`
@@ -228,6 +258,54 @@ Subsequently, two police officers suspected of helping the suspect to escape the
 
 ---
 
+### Remedies without solutions to crisis with multiple tragedies
+
+*2024-06-17 20:28:13* · [`dailyftlk`](https://www.ft.lk/columns/Remedies-without-solutions-to-crisis-with-multiple-tragedies/4-763172) · `en`
+
+We need to ask political leaders what their plans are to drastically reduce over one million pending court cases and heavy overcrowding of prisons in the context of a national economic bankruptcy
+
+Can a nation in bankruptcy pull itself out of this social doldrum, with a State apparatus that does not believe it has a responsibility towards the people who maintain them financially? Can a nation walk out of bankruptcy with political leaderships that have no serious thoughts about solving this social tragedy? They do not seem to know Sri Lanka’s bankruptcy is not just about external debts alone. No political leadership is heard belting out details on this social tragedy on their campaign platforms and in rallies as they do on fraud and corruption
+
+...
+
+[Data](articles/ce22eda6.json)
+
+---
+
+### Assessing the Economic Transformation Bill
+
+*2024-06-17 20:18:09* · [`dailyftlk`](https://www.ft.lk/columns/Assessing-the-Economic-Transformation-Bill/4-763171) · `en`
+
+Many are sceptical about the likelihood of targets being achieved
+
+Among the many bills emanating from the Legal Draftsman’s Department these days, the Economic Transformation Bill (ETB) appears to be one of the more significant. The President and Ministers are asking for it to be supported. It has attracted many critics. Splits have emerged within the Government coalition.
+
+Most critics spend a lot of effort attacking the first section which has a long list of targets to be achieved. Many are sceptical about the likelihood of targets being achieved. Some say they are nonsensical and contradictory. Others argue that the current legislators cannot bind future governments/legislatures.
+
+...
+
+[Data](articles/a94618ab.json)
+
+---
+
+### Want to change the ‘system’? If yes, then read this
+
+*2024-06-17 20:12:01* · [`dailyftlk`](https://www.ft.lk/columns/Want-to-change-the-system-If-yes-then-read-this/4-763170) · `en`
+
+Changing the purpose of a system changes the system profoundly, even if all the elements and interconnections remain as they are
+
+“If a revolution destroys a government, but the systematic patterns of thought that produced that government are left intact, then those patterns will repeat themselves…
+
+There’s so much talk about the system. And so little understanding.”
+
+As Sri Lanka gets ready for another Presidential election to choose the country’s leader for the next five years we are hearing the same slogans, “we need a system change”, “we need to change the system” again. But how do we do this, practically?
+
+...
+
+[Data](articles/944ae966.json)
+
+---
+
 ### Housing rights for 250,000 low income families in Colombo
 
 *2024-06-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197858) · `si`
@@ -247,6 +325,20 @@ President Ranil Wickremesinghe today conducted a program to provide deeds to 1,5
 [Data](articles/600970f0.json)
 
 [Extended Data](ext_articles/600970f0.ext.json)
+
+---
+
+### Exploring dynamic tax environment: Contemporary issue for SME
+
+*2024-06-17 20:02:17* · [`dailyftlk`](https://www.ft.lk/columns/Exploring-dynamic-tax-environment-Contemporary-issue-for-SME/4-763169) · `en`
+
+SMEs play a pivotal role in the economic development of the nation. Hence, priority should be provided to SMEs whenever new policies are articulated
+
+Tax is an important source of revenue stream of any economy as it contributes significantly to national revenue. Amounting to approximately 88% of total national revenue, tax revenue is then utilised by the Sri Lankan Government to settle ongoing national loans, recurrent expenditures, and capital expenditures. Tax systems in Sri Lanka have undergone significant changes since inception of the taxation policies. In late 2019, the tax revenue drastically dropped due to the new policies articulated by the Government. The situation worsened during the COVID pandemic in 2020 until recovery.
+
+...
+
+[Data](articles/ef0e98e3.json)
 
 ---
 
@@ -2301,153 +2393,5 @@ At the time, the man was reportedly trying to attack the policemen with a gasoli
 [Data](articles/aec5fc99.json)
 
 [Extended Data](ext_articles/aec5fc99.ext.json)
-
----
-
-### Sri Lanka has repeatedly appealed to Sri Lankans to provide silence on Sri Lankans fighting for Ukraine
-
-*2024-06-17 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186246) · `ta`
-
-Sri Lanka urges silence from citizens fighting in Ukraine, but receives no response. Despite requests for details, Ukraine remains quiet. The Foreign Ministry and government have contacted Turkey about this issue, with no reply. Efforts to free Sri Lankans in Russia are hindered as Russia claims they've signed a MoU to join its forces.
-
-🟩
-
-Ukraine is silent on Sri Lankans fighting with its army in the war against Russia.
-
-Although Sri Lanka has demanded details of Sri Lankans fighting for Ukraine, Ukraine is in silence, top sources said.
-
-Sources said that the Foreign Ministry and the Sri Lankan government for Turkey were fighting with Ukraine two weeks ago, but Ukraine did not respond.
-
-Top sources said that Sri Lanka had re -sent information a week ago to commemorate its previous request.
-
-Meanwhile, Ukraine has reportedly joined Sri Lankans in accordance with its country's law.
-
-Sources said that the Ministry of External Affairs has realized that the country involved in the war may be delayed.
-
-Meanwhile, Sri Lanka's efforts to release Sri Lankans fighting in Russia have also been affected.
-
-Russia insists that Sri Lankans have signed a Memorandum of Understanding when they join her forces.
-
-◼️
-
-[Data](articles/8ac8c3c8.json)
-
-[Extended Data](ext_articles/8ac8c3c8.ext.json)
-
----
-
-### Sri Lanka Championships
-
-*2024-06-17 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197841) · `si`
-
-Sri Lankan athletes clinched two bronze medals at the 3rd Asian Twenty Championship in South Korea, held on the 14th and 15th of Moonia. A 21-year-old from the Sri Lanka Air Force, participating in the spear throw, narrowly missed Olympic qualification by just 5 cm. Additionally, Dilhani Secretary and Sumedha Ranasinghe, representing the Sri Lanka Army, also secured bronze medals in throwing events. The team returned to Thailand early this morning via Thai Airlines.
-
-🟩
-
-Sri Lankan athletes who won the 3rd Asian Twentry Championship and won two bronze medals and two bronze medals from Sri Lanka.
-
-The tournament was held on the 14th and 15th of Moonia in South Korea.
-
-The 21-year-old Sri Lankan Air Force, who participated in the spear throw event, was elected to the Sri Lanka Air Force.
-
-The throwing distance was less than 5 cm to the olympic decoration level, and with this solutional, Rumesh wave of Rumesh has reached the 9th.
-
-In addition, Dilhani Secretary and Sumedha Ranasinghe, the Sri Lanka Army and Sumedha Ranasinghe, who participated in the tournament, won two bronze medals for the throwing events.
-
-They were all at Thailand at 12.10 am today at Thai Airlines.
-
-◼️
-
-[Data](articles/44a3d50c.json)
-
-[Extended Data](ext_articles/44a3d50c.ext.json)
-
----
-
-### Increase in the price of coconut oil
-
-*2024-06-17 10:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எண்ணெய்-விலை-அதிகரிப்பு/175-339006) · `ta`
-
-The price of coconut oil has risen by over 100 rupees per liter, reaching 550 rupees, according to the National Consumer Front. This increase is attributed to fluctuations in the currency exchange rate.
-
-🟩
-
-The price of a liter of coconut oil has been increased by more than 100 rupees. The National Consumer Front (NCF) said today (17).
-
-The cost of a liter of coconut oil is 180 and Rs.. ௨௦௦. Its chairman Asela Sampath says the increase in between the rupee has been increased.  ஒரு லீற்றர் தேங்காய் எண்ணெய்யின் தற்போதைய சில்லறை விலை ரூ. Is 550
-
-◼️
-
-[Data](articles/33dd81ae.json)
-
-[Extended Data](ext_articles/33dd81ae.ext.json)
-
----
-
-### Fire at a festive hall in Maligawatta
-
-*2024-06-17 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197840) · `si`
-
-A fire erupted in Maligawatta, causing damage but no casualties. Firefighters responded swiftly to control the situation.
-
-🟩
-
-A fire broke out at the Maligawatta, Gampiwatta, Gampiwatta, Maligawatta, Matale.
-
-It is reported that the fire brigade has come to the fire.
-
-No casualties have ever been reported so far, but the property has only been damaged, our correspondent said.
-
-◼️
-
-[Data](articles/96a3d847.json)
-
-[Extended Data](ext_articles/96a3d847.ext.json)
-
----
-
-### Indians who planned to kill Sikh separatist
-
-*2024-06-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186243) · `ta`
-
-Nikkil Gupta, arrested en route, allegedly plotted to assassinate Sikh separatist Gurbatwant Singh Pannu. The deceased, previously deported, had ties to Khalistan advocacy.
-
-🟩
-
-A person who was killed in the United States has been deported from the Secondary to the United States.
-
-It is alleged that Nikkil Gupta was planning to kill Gurbatwant Singh Banun, who voiced for Khalistan.
-
-Nikkil Gupta was arrested last week on his way to the Secondary.
-
-◼️
-
-[Data](articles/086c25cf.json)
-
-[Extended Data](ext_articles/086c25cf.ext.json)
-
----
-
-### Six fishermen arrested with 131kg of heroin off Galle remanded
-
-*2024-06-17 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99920/six-fishermen-arrested-with-131kg-of-heroin-off-galle-remanded-) · `en`
-
-The six fishermen, who were apprehended whole aboard a local multi-day fishing trawler carrying 131kg of heroin in the seas off Galle, have been ordered to be remanded until June 21.
-
-The Colombo Chief Magistrate has issued this order after the suspects were produced before the court on Sunday (16).
-
-In a recent operation, the Sri Lanka Navy apprehended six suspects aboard a local multi-day fishing trawler carrying 131 kg of heroin, estimated to be valued at over Rs. 3,250 million. The interception took place on June 14 on the high seas off Galle.
-
-During the initial inspection, security forces have not found anything suspicious. However, further investigation had revealed several areas of the boat were suspiciously made with fiber.
-
-Later on the night of June 14, the vessel was brought to Galle Port, where a detailed scan was conducted.
-
-The scan uncovered a stock of suspicious parcels in a compartment sealed with fiber in the front section of the boat, the navy said.
-
-...
-
-[Data](articles/527d2e01.json)
-
-[Extended Data](ext_articles/527d2e01.ext.json)
 
 ---

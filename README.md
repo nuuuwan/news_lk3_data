@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 19:19:16**
+As of **2024-06-17 19:34:47**
 
 ## Newspaper Stats
 
-*Scraped **30,809** Articles*
+*Scraped **30,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,672
-adaderanalk | 3,492
+adaderanalk | 3,493
 tamilmirrorlk | 3,612
 dailymirrorlk | 4,733
 virakesarilk | 4,738
-adaderanasinhalalk | 4,994
+adaderanasinhalalk | 4,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,809 (100.0%) of 30,809 articles have been extended.
+30,809 (100.0%) of 30,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### Ex-President Sirisena reveals reason he resigned as SLFP chairman
+
+*2024-06-17 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99934/ex-president-sirisena-reveals-reason-he-resigned-as-slfp-chairman) · `en`
+
+Former President Maithripala Sirisena says he resigned from his position as the Chairman of the Sri Lanka Freedom Party (SLFP) for the betterment of the party and its members.
+
+He went on to say that there is an ongoing ‘national conspiracy’ aimed at destroying the SLFP, and that he appointed Dr. Wijeyadasa Rajapakshe as the Acting Chairman of the party as there was no other person qualified to hold the position within the SLFP.
+
+Speaking to the media in Galle, Sirisena said: “If I did not resign from my post in the backdrop where a former President [Chandrika Bandaranaike Kumaratunga] filed a court case against me resulting in restraining orders, none of these organizers are able to contest in the election as the election commission does not accept such candidates. This is why I resigned.”
+
+...
+
+[Data](articles/853c35f8.json)
+
+---
+
+### වතුර නැති﻿කළ පිපිරීම - CCTV දර්ශන එළියට
+
+*2024-06-17 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197856) · `si`
+
+කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළය අද (17) අලුයම සිදුවු අනතුරකින් පුපුරා ගිය අතර එම අනතුර සිදුවන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් අප වෙත ලැබී තිබේ.
+
+අනතුරින් පසුව කොළඹ දිස්ත්‍රික්කයේ ප්‍රදේශ ගණනාවකට ජල සැපයුම අඩාල වුණි.
+
+එම නළය පුපුරා ගියේ හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී මෝටර් රථයක් අද අලුයම 2ට පමණ එහි ගැටී සිදුවූ අනතුරකින් ය.
+
+ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කළේ, ජල සැපයුම අද මධ්‍යම රාත්‍රිය වන විට යථාතත්ත්වයට පත්කිරීමට හැකිවනු ඇති බවය.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ අධික වේගයෙන් ධාවනය වී ඇති මෝටර් රථය ගොඩගම ප්‍රදේශයේදී මාර්ගයෙන් ඉවතට ධාවනය වී නළයේ ගැටී පෙරළී ගොස් ඇති බවය.
+
+අනතුර සමග යාබඳව පිහිටි විදුලි රැහැන් කණු දෙකක්ද ජල පහරේ වේගයට කඩාවැටෙනු දක්නට ලැබිණි.
+
+සිදුවූ ජල කාන්දුව නිසා කලටුවාවේ සිට අදාළ නළය ඔස්සේ සිදුකරන ජල සැපයුම නතර කිරීමට ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය අද උදෑසන පියවර ගත්තේය.
+
+ඒ අනුව ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවලට ජල සැපයුම අද අලුයම සිට අඩාල වුණි.
+
+...
+
+[Data](articles/a6f1a421.json)
+
+---
 
 ### Two persons arrested with wildfire
 
@@ -2373,53 +2415,5 @@ President Ranil Wickremesinghe said that the emotions of the equality and brothe
 [Data](articles/41ccbdf4.json)
 
 [Extended Data](ext_articles/41ccbdf4.ext.json)
-
----
-
-### Sri Lanka's powerful attack
-
-*2024-06-17 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197834) · `si`
-
-In the T20 World Cup finals at St. Lucia, Sri Lanka faced the Netherlands. Winning the toss, the Netherlands chose to field first. Despite this strategic move, Sri Lanka responded with a formidable batting performance, scoring 201 runs off all 20 overs.
-
-🟩
-
-The finals of the Twenty20 World Cup will be held at St. Lucia with the ENSI team.
-
-The Netherlands team won the toss and elected to attack the Sri Lankan team.
-
-Accordingly, Sri Lanka scored 201 201 2014 at the end of the 20 wickets.
-
-◼️
-
-[Data](articles/b1ec26c3.json)
-
-[Extended Data](ext_articles/b1ec26c3.ext.json)
-
----
-
-### Water cut stops again to several areas including Godagama
-
-*2024-06-17 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197833) · `si`
-
-Water supply halted in Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattegoda due to reservoir overflow caused by a car accident. Over 100,000 households affected; repairs underway after a tiger reportedly entered the pipeline system. Four injured in the incident.
-
-🟩
-
-The water supply has been suspended again to restore several areas due to the explosion of water from the Kalatuwawa reservoir.
-
-Accordingly, over 100,000 housing supplies for housing units will be suspended for over 100,000 housing units in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattegoda.
-
-This has been affected by a car hit the waterholder in the near area near the High Level road.
-
-It is said that a large tiger is thrown into the top of the pipeline of the water pipe, from April 17 (17), and the water rate has also damaged the road.
-
-Meanwhile, four were sunded and admitted to the Base Hospital.
-
-◼️
-
-[Data](articles/fee60c43.json)
-
-[Extended Data](ext_articles/fee60c43.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 03:19:20**
+As of **2024-06-18 03:34:46**
 
 ## Newspaper Stats
 
-*Scraped **30,848** Articles*
+*Scraped **30,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,618
+tamilmirrorlk | 3,619
 dailymirrorlk | 4,733
 virakesarilk | 4,748
 adaderanasinhalalk | 4,999
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,848 (100.0%) of 30,848 articles have been extended.
+30,848 (100.0%) of 30,849 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,6 +149,20 @@ Meanwhile, Trent Bolt R20 was answered from the World Cup cricket with today's m
 [Data](articles/7f464ecf.json)
 
 [Extended Data](ext_articles/7f464ecf.ext.json)
+
+---
+
+### ’ஜனாதிபதித் தேர்தலே முதலில் நடக்கும்’
+
+*2024-06-18 01:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலே-முதலில்-நடக்கும்/175-339056) · `ta`
+
+இங்கையின் அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலே நடத்தப்படல் வேண்டும். பாராளுமன்றத் தேர்தல் நடாத்துவதற்கு இன்னும் காலம் இருக்கின்றது. எனவே நாட்டினுடைய அரசியலமைப்புச் சட்டத்தின் பிரகாரம் முதலிலே ஜனாதிபதித் தேர்தல் நடாத்தப்பட வேண்டும் என்பதுதான் எங்களது எல்லேரினதும் எதிர்பார்ப்பாகவுள்ளது. அற்கான வேலைத்திட்டங்கள்தான் தற்போது முன்னெடுக்கப்படுகின்றது  என வர்த்தக இராஜாங்க அமைச்சர் சதாசிவம் வியாழேந்திரன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு களுவாஞ்சிகுடியில் ஞாயிற்றுக்கிழமை(16) நடைபெற்ற நிகழ்வொன்றில் கலந்து கொண்ட பின்னர் ஊடகவியலார்கள் கேட்ட கேள்விகளுக்குப் பதிலளிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்….
+
+...
+
+[Data](articles/f7b2dac6.json)
 
 ---
 
@@ -2425,39 +2439,5 @@ The suspects have been identified and they have been abandoned and they will be 
 [Data](articles/e5917ecd.json)
 
 [Extended Data](ext_articles/e5917ecd.ext.json)
-
----
-
-### Depression - boring - people run away from the news with relentless news - International study information
-
-*2024-06-17 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186262) · `ta`
-
-An international study found that many people are avoiding news, citing it as depressing, relentless, and boring. The Reuters Institute study showed a 29% increase in news avoidance since 2017, possibly linked to global conflicts like the Middle East-Ukraine war. Interestingly, during election periods, such as in the United States, there's a slight increase in news consumption. Despite this, overall engagement remains low, with 47% showing less interest compared to 63% in 2017. Nick Neemon highlighted the challenge in shaping public opinion through news amid widespread disinterest.
-
-🟩
-
-International study revealed that most people are getting away from news.
-
-The study said that the news was depressed, relentless and boring.
-
-Those who participated in the study have stated that they have refused from the news, according to the Reuters Institute of Oxford University.
-
-In 2017, 29 percent of the participants said they would avoid the news.
-
-Researchers have said that the people may have been abandoning news due to the Middle East Ukraine war.
-
-Those who carried out the survey have said that it is more likely to avoid messages that have never been previously unprecedented.
-
-In February this year, the results of the study of 94 -e 943 people from 47 countries have been revealed.
-
-The results of the study have been revealed as billions of people in many countries of the world are to vote.
-
-The study reveals that some countries, including the United States, have increased interest in news due to elections.
-
-...
-
-[Data](articles/81581d6e.json)
-
-[Extended Data](ext_articles/81581d6e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 22:34:36**
+As of **2024-06-17 22:52:46**
 
 ## Newspaper Stats
 
-*Scraped **30,825** Articles*
+*Scraped **30,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,675
-adaderanalk | 3,494
+adaderanalk | 3,495
 tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
 virakesarilk | 4,743
-adaderanasinhalalk | 4,998
+adaderanasinhalalk | 4,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,824 (100.0%) of 30,825 articles have been extended.
+30,825 (100.0%) of 30,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### බෙන්තොට හිටපු සභාපති රිමාන්ඩ්
+
+*2024-06-17 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197860) · `si`
+
+කෝට්ටේ මාදිවෙල ප්‍රදේශයේදී ව්‍යාපාරිකයෙකුට පහරදී පැහැර ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් බෙන්තොට ප්‍රාදේශීය සභාවේ හිටපු සභාපති ගයාන් සිරිමාන්න ජුනි 26 වනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ජීප් රථයකින් සහ මෝටර් රථයකින් පැමිණි පුද්ගලයින් 8 දෙනෙකු ඊයේ (16) කෝට්ටේ මාදිවෙල ප්‍රදේශයේදී මාර්ගය හරස්කර මෝටර් රථයකින් යමින් සිටි ව්‍යාපාරිකයෙකු පැහැරගෙන ගොස් තිබුණි.
+
+ඒ, එම ව්‍යාපාරිකයාගෙන් මිලදී ගත් ත්‍රීරෝද රථයක් කල්බදු අතපසු වූ රථයක් බවට අනාවරණය වීමෙන් හටගත් මතභේදයක් මුල්කරගනිමිනි.
+
+බෙන්තොට නිවසක රඳවාගෙන පහරදී, ත්‍රිරෝද රථය සඳහා ලබාගත් මුදල් යළි ලබාදෙන බවට ලිපියකට අත්සන් ගැනීමෙන් පසු ව්‍යාපාරිකයාව අද ඔහුගේ නිවස අසළට ගෙනැවිත් දමාගොස් තිබුණි.
+
+පොලිසිය පැවසුවේ, බෙන්තොට ප්‍රාදේශීය සභාවේ හිටපු සභාපති ගයාන් සිරිමාන්න නමැත්තා ඔහුගේ ජීප් රථයෙන් මෙම පැහැර ගැනීම සඳහා පැමිණ ඇති බව සීසීටීවී දර්ශන අනුව කළ විමර්ශනවලදී අනාවරණය වූ බවය.
+
+...
+
+[Data](articles/aa22912b.json)
+
+---
+
+### Eleven migrants dead, 64 missing after Mediterranean shipwrecks
+
+*2024-06-17 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99936/eleven-migrants-dead-64-missing-after-mediterranean-shipwrecks) · `en`
+
+(Reuters) - Eleven migrants died and 64 were missing on Monday after two shipwrecks off southern Italy, according to a German charity, the Italian coast guard and United Nations agencies.
+
+The German aid group RESQSHIP, which operates the Nadir rescue ship, said it picked up 51 people from a sinking wooden boat, including two who were unconscious, and found 10 bodies trapped in the lower deck of the vessel.
+
+“Our thoughts are with their families. We are angry and sad,” it wrote on X.
+
+RESQSHIP said the survivors were handed over to the Italian coast guard and taken ashore on Monday morning, while the Nadir was making its way to the island of Lampedusa, towing the wooden boat with the bodies of the deceased.
+
+The U.N. Refugee agency UNHCR, the International Organization for Migration (IOM) and U.N. children’s agency UNICEF said in a joint statement that the migrants intercepted by the German charity came from Syria, Egypt, Pakistan and Bangladesh.
+
+...
+
+[Data](articles/504ffb16.json)
+
+---
 
 ### Record number of legal reforms in Sri Lanka’s history in last 2 years – Justice Secretary
 
@@ -49,6 +89,8 @@ Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reform, 
 ...
 
 [Data](articles/9a2642b8.json)
+
+[Extended Data](ext_articles/9a2642b8.ext.json)
 
 ---
 
@@ -2393,49 +2435,5 @@ The Chinese national was arrested and arrested the vehicle.
 [Data](articles/cea60d3e.json)
 
 [Extended Data](ext_articles/cea60d3e.ext.json)
-
----
-
-### Increase in the price of coconut oil
-
-*2024-06-17 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186234) · `ta`
-
-Asela Sampath, leader of the National Consumer Front, announced a 100 rupee price hike for coconut oil, raising it from 450 to 550 rupees. This increase is attributed to higher import costs.
-
-🟩
-
-National Consumer Front leader Asela Sampath says the price of coconut oil has been increased by 100 rupees.
-
-Accordingly, the price of a coconut oil sold for 450 rupees has now been increased to 550 rupees.
-
-The National Consumer Front leader said that the increase in prices of imported coconut oil is due to the increase in prices.
-
-◼️
-
-[Data](articles/c5c8807b.json)
-
-[Extended Data](ext_articles/c5c8807b.ext.json)
-
----
-
-### Drive record of Views
-
-*2024-06-17 09:53:36* · [`adalk`](https://www.ada.lk/breaking_news/දසුන්ගෙන්-බිංදු-වාර්තාවක්/11-410253) · `si`
-
-Sri Lanka's cricketer Shanaka, formerly the team captain, faced the British player in a Twenty20 match, getting out on the first ball against the Netherlands. In the Vasai 20 International series, there have been 100 matches, with 11 ending without any wickets falling. Former captain Dilshan has been dismissed only once in his 80 matches.
-
-🟩
-
-Sri Lanka's former Sri Lanka captain Views Shanaka today joined the British player at Twenty20:30. Views in the match with the Netherlands were also buried with the first ball of the first ball.
-
-Accordingly, the Vasai 20 International matches have been played in 100 occasions, 11 occasions have left without marks.
-
-Former leader Tillakaratne Dilshan, he has left for 80 cases in 80 matches.
-
-◼️
-
-[Data](articles/c63d6d39.json)
-
-[Extended Data](ext_articles/c63d6d39.ext.json)
 
 ---

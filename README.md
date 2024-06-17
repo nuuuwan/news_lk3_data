@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 02:04:32**
+As of **2024-06-18 02:19:26**
 
 ## Newspaper Stats
 
-*Scraped **30,842** Articles*
+*Scraped **30,843** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 282
+colombotelegraphcom | 283
 dbsjeyarajcom | 284
 bbccomsinhala | 301
 newsfirstlk | 363
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,841 (100.0%) of 30,842 articles have been extended.
+30,842 (100.0%) of 30,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### ’தமிழ் பேசும் பொது வேட்பாளரே அவசியம்’
+### Tamil speaking general candidate is essential
 
 *2024-06-18 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பேசும்-பொது-வேட்பாளரே-அவசியம்/175-339053) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிறுத்தி நாட்டில் உள்ள தமிழ், முஸ்லிம், மலையக சிறுபான்மை சமூகங்களின் ஒட்டுமொத்த பிரதிநிதியாக தமிழ் பேசும் சிறுபான்மை பொது வேட்பாளர் ஒருவர் நிறுத்தப்பட வேண்டும் என்று  ஐக்கிய சமாதான கூட்டமைப்பின் தவிசாளர் பஷீர் சேகுதாவூத் தெரிவித்தார்.
+Basheer Segudaoud urges for a Tamil-speaking minority candidate to represent Tamil, Muslim, and Upcountry communities in Sri Lanka's presidential election, emphasizing the importance of unity among minorities to influence the outcome. He highlights the need for a candidate with strong ties to these communities, capable of securing support from Sinhala progressives and leading towards a more inclusive future.
 
-ஜனாதிபதித் தேர்தலில் பொதுவேட்பாளர் தொடர்பில், ஊடகங்களுக்கு திங்கட்கிழமை (17) அனுப்பிவைத்துள்ள ஊடக அறிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-வரவுள்ள ஜனாதிபதி தேர்தல் பேசுபொருளாக மாறியிருக்கின்றது. பெருந்தேசிய கட்சிகளின் உத்தேச வேட்பாளர்கள் வடக்கு, கிழக்கு, மலையகம் ஆகியவற்றுக்கு வந்து சிறுபான்மை சமூகங்களின் ஆதரவை கோரி நிற்கின்றனர்.
+United Peace Coalition Chairman Basheer Segudaoud said that a Tamil -speaking minority general candidate should be suspended as the overall representative of the Tamil, Muslim and Upcountry Minority Communities in the country.
 
-இத்தேர்தல் முன்னெப்பொழுதும் இருந்திராத அளவுக்கு மிக பிரமாண்டமான போட்டியாக விஷ்வரூபம் எடுக்க இருக்கின்றது. எந்தவொரு வேட்பாளரும் தனிபெரும்பான்மையுடன் வெற்றி பெறுவது என்பது கல்லில் நார் உரிப்பது போல கடினமாக இருக்கும்.
+He said this in a media statement issued to the media on Monday (17) regarding the general candidate in the presidential election.
 
-அதற்கும் அப்பால், எந்தவொரு வேட்பாளரும் 50 சதவீத வாக்குகளை பெற வேண்டுமாயின் உச்ச பட்ச பகீரத பிரயத்தனங்களை மேற்கொள்ள வேண்டி இருக்கும் என்றால் மிகையாகாது.
+The upcoming presidential election has become a speech. The proposed candidates of the Great Forces have come to the North, East and the hill country to seek the support of minority communities.
+
+Vishwaroopam is the biggest match that the election has not existed before. Winning any candidate with a uniqueness can be as difficult as fiber in the stone.
+
+Beyond that, it is no exaggeration if any candidate wants to get 50 percent of the votes.
+
+A president could not appear from minority communities in Sri Lanka. But who is the President?Minority communities can become a power that determines.
 
 ...
 
 [Data](articles/f663004d.json)
+
+[Extended Data](ext_articles/f663004d.ext.json)
 
 ---
 
@@ -435,6 +443,18 @@ Can a nation in bankruptcy pull itself out of this social doldrum, with a State 
 [Data](articles/ce22eda6.json)
 
 [Extended Data](ext_articles/ce22eda6.ext.json)
+
+---
+
+### Sajith Premadasa, Sinhala Jokers, Kallathonis & The 13th Amendment
+
+*2024-06-17 20:24:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sajith-premadasa-sinhala-jokers-kallathonis-the-13th-amendment/) · `en`
+
+Someone asked me; What have you to say about the adverse comments of some Sinhala politicians in the South about Sajith Premadasa  promising the Tamils in the North the full implementation of the 13th Amendment?
+
+...
+
+[Data](articles/833d3eb3.json)
 
 ---
 
@@ -2377,31 +2397,5 @@ Furthermore, the State Minister said the overall annual growth in 2024 will be a
 [Data](articles/091d3135.json)
 
 [Extended Data](ext_articles/091d3135.ext.json)
-
----
-
-### Kaladura plantation attack: Ruben Perumal Action
-
-*2024-06-17 11:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலதுர-தோட்ட-தாக்குதல்-ரூபன்-பெருமாள்-அதிரடி/76-339014) · `ta`
-
-Ruben Perumal, a political organizer, demands investigation into a plantation worker's attack at Kaladura estate, urging strong action against perpetrators. The victim, a woman worker, was assaulted after taunting her attacker's husband over the phone. Veerasamy Jagadeeswaran, 44, is hospitalized. Despite the attack being reported, no arrests have been made among the five suspects. This incident has been brought to the attention of Jeevan Thondaman, the general secretary and minister of the Ceylon Workers Congress, prompting Perumal to visit the scene and call for swift action.
-
-🟩
-
-Ruben Perumal, the political organizer of the Ceylon Workers Congress, has urged the Ceylon Workers' Congress to carry out appropriate investigations into the attack on a woman worker at the Kaladura estate in Ratnapura and take stern action against the persons involved.
-
-The female worker, who was attacked, has taunted the husband of the plantation worker by telephone, as the gardener is the guardian of the estate.
-
-In addition, the drunken arms to the Kottapanda area where his estate is located, and the majority of the majority, the family, not only attacked the family, but also dragged him away from the place and attacked him in the area beyond the plantation residence.
-
-Veerasamy Jagadeeswaran (44 years old), who was attacked, is currently receiving treatment at the Ratnapura District Hospital.
-
-However, so far, the police have not taken steps to arrest one of the five majority of the people who have been responsible for the incident.
-
-...
-
-[Data](articles/53b66fae.json)
-
-[Extended Data](ext_articles/53b66fae.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 00:50:29**
+As of **2024-06-18 01:04:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,833 (100.0%) of 30,835 articles have been extended.
+30,835 (100.0%) of 30,835 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -316,6 +316,8 @@ As Sri Lanka gets ready for another Presidential election to choose the countryâ
 
 [Data](articles/944ae966.json)
 
+[Extended Data](ext_articles/944ae966.ext.json)
+
 ---
 
 ### Housing rights for 250,000 low income families in Colombo
@@ -351,6 +353,8 @@ Tax is an important source of revenue stream of any economy as it contributes si
 ...
 
 [Data](articles/ef0e98e3.json)
+
+[Extended Data](ext_articles/ef0e98e3.ext.json)
 
 ---
 

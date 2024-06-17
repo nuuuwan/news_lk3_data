@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 21:34:48**
+As of **2024-06-17 21:54:05**
 
 ## Newspaper Stats
 
@@ -26,67 +26,89 @@ adaderanasinhalalk | 4,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,820 (100.0%) of 30,823 articles have been extended.
+30,823 (100.0%) of 30,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### තරග ජයග්‍රහනයෙන් පසු වනිඳු මාධ්‍යයට කී දේ
+### What Matthew said to the Fanin
 
 *2024-06-17 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197859) · `si`
 
-ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටය සඳහා සුදුසුකම් ලබාගැනීමට නොහැකි වීමේ සම්පූර්ණ වගකීම තමා ඇතුළු කණ්ඩායම භාරගන්නා බව ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංග පවසයි.
+Moentuwa Hasaranga, Sri Lanka's 20-team leader, accepts full responsibility for their performance in the World Cup. Despite being a strong team, they struggled in early matches, leading to their defeat. He emphasized the importance of adapting to different pitches, similar to how players from other countries do.
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ ශ්‍රී ලංකාව සහ නෙදර්ලන්තය අතර අද (17) පැවති තරගය ලකුණු 83කින් ජය ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+🟩
 
-එම තරගයෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+The Sri Lanka 20 team leader Moentuwa Hasaranga says he will take the full responsibility of the World Cup.
 
-"ඇත්තටම ගොඩක් කනගාටුයි මුලින්ම කියන්න ඕනේ. කණ්ඩායමක් විදිහට අපේ කණ්ඩායම කොච්චර හොඳ කණ්ඩායමක්ද කියලා. ඒත් අපේ අවාසනාවට අපේ ඒ ගේම් එක් මුල් තරගවලට ගෙනාවේ නෑ. මේ තරගය ජයග්‍රහණය කරනකොට අපි පරක්කු වැඩියි. ගිය ලෝක කුසලානෙත් මේ ලෝක කුසලානෙත් අපි අපේ අඩුපාඩු ගැන කථා කළා.  තවමත් අපි ඒවා හදාගෙන නැහැ. පරාජය වුණාම අපිට තණතීරුවලට සහ විවිධ දේවල්වලට කතන්දර කියන්න පුළුවන්. ප්‍රොෆෙෂනල් ක්‍රිකටස්ලා විදිහට අපිට හොඳ නැති දෙයක්. අනිත් රටේ ක්‍රීඩකයින් ක්‍රීඩා කරන්නෙත් ඒ තණතීරුවේ. ඒ නිසා අපිත් හැඩගැහෙන්න ඕනේ. කණ්ඩායමක් විදිහට සහ නායකයා විදිහට සම්පූර්ණ වගකීම මම ඇතුළු කණ්ඩායම භාරගන්නවා."
+Sri Lanka won the match between Sri Lanka and the Netherlands in the World Cup match today (17).
+
+Speaking to the media after the match, he said.
+
+"Really sorry to say first. As a group our team is how a good group. But our unfortunately, our games were not brought to one of the first matches. When we win this match, we're too late. We also spoke of our shortcomings in the World Cup.  තවමත් අපි ඒවා හදාගෙන නැහැ. When defeated, we can tell the pitchers and different things. As Professanal Cryction is something that is not good for us. The players in the other country play at that pitch. So we have to adapt too. I, including the full responsibility of as a group and the leader, I take the whole responsibility. "
 
 ◼️
 
 [Data](articles/cf50a18e.json)
 
+[Extended Data](ext_articles/cf50a18e.ext.json)
+
 ---
 
-### நாட்டின் பொருளாதார முன்னேற்றத்திற்குத் தேவையான வேலைத்திட்டத்தை ஜனாதிபதி வெற்றிகரமாக நடைமுறைப்படுத்தியுள்ளார் - இராஜாங்க அமைச்சர் அநூப பஸ்குவெல்
+### The President has successfully implemented the program for the country's economic improvement - State Minister Anuba Paswell
 
 *2024-06-17 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186314) · `ta`
 
-கொள்கைகளின் அடிப்படையிலேயே நாட்டை முன்னேற்ற முடியும். அவ்வாறன்றி தனிநபர்கள் அல்லது கட்சிகளினால் அதனைச் செய்ய முடியாதெனத் தெரிவிக்கும் சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அநூப பஸ்குவெல், நாட்டின் பொருளாதார முன்னேற்றத்திற்குத் தேவையான வேலைத்திட்டத்தை ஜனாதிபதி ரணில் விக்ரமசிங்க ஏற்கனவே வெற்றிகரமாக நடைமுறைப்படுத்தியுள்ளார் என்று தெரிவித்தார்.
+President Ranil Wickremesinghe has successfully launched an economic improvement program, offering 50% relief to small plantation owners and reducing interest rates to 12%. The government's reforms aim to address economic growth, inflation, and social welfare, emphasizing policy-based development over individual or party efforts. The introduction of an election cost law aims to curb corruption, highlighting the need for systemic changes rather than blaming the electoral system. The upcoming passage of a bill to establish a Commission for Women's Reinforcement marks a historic step towards gender equality.
 
-சிறுதேயிலைத் தோட்ட உரிமையாளர்களின் பிரச்சினைகளைத் தீர்ப்பதற்கு 50% நிவாரணம் வழங்க ஜனாதிபதி அனுமதியளித்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் இதனைத் தெரிவித்தார்.
+Can progress the country on the basis of policies. In addition, Social Empowerment Minister Anuba Baswel, who claims that individuals or parties cannot do it, said President Ranil Wickremesinghe has already successfully implemented the program for the economic improvement of the country.
 
-"நாட்டு மக்களின் போராட்டத்தில் வலியுறுத்தப்பட்ட சீர்திருத்தங்களை தற்போதைய அரசாங்கம் வெற்றிகரமாக மேற்கொண்டு வருகிறது. அதற்கு மத்தியில் நாட்டைப் பொறுப்பேற்க பலர் முன்வந்திருக்கிறார்கள். ஆனால் அவர்களிடத்தில் அதற்கான கொள்கைகள் எவையும் இல்லை. நாட்டில் பலரும் அரசாங்கத்தின் வேலைத்திட்டத்தினை ஏற்றுக்கொண்டுள்ளபோது, சிலர் மாத்திரம் அதற்குப் புறம்பாகச் செயற்படுகிறார்கள்.
+The Minister of State has noted that the President has allowed 50% relief to solve the problems of the small plantation owners.
+
+He was speaking at a press conference held at the Presidential Media Center on Monday (17).
+
+“The current government has successfully carried out the reforms that have been stressed in the struggle of the nation. In the meantime, many have come forward to take responsibility for the country. But they do not have any policies. When many people in the country accept the government's program, only a few acts beyond that.
 
 ...
 
 [Data](articles/d7995571.json)
 
+[Extended Data](ext_articles/d7995571.ext.json)
+
 ---
 
-### ஆடுகளங்களையோ, போட்டி அட்டவணையையோ குறைகூற - வனிந்து ஹசரங்க மறுக்கிறார்
+### To criticize the pitch or the competition table
 
 *2024-06-17 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186313) · `ta`
 
-இலங்கையில் தோல்விகளுக்கு அமெரிக்க ஆடுகளங்களையோ போட்டி அட்டவணையையோ இலங்கை அணித் தலைவர் வனிந்து ஹசரங்க குறைகூற மறுத்துள்ளார்.
+Wanindu Hazaranga, Sri Lanka's captain, refrained from criticizing the US pitches or scheduling after losses, emphasizing the team's responsibility to adapt their strategies. Despite early preparation and practice matches, the team struggled with quick adjustments to the US conditions, affecting their performance in the R20 World Cup. Hazaranga highlighted the importance of adapting to varying pitches within the US, attributing their losses partly to this challenge.
 
-'நாங்கள் விளையாடிய அதே ஆடுகளங்களில்தான் மற்றைய அணிகளும் விளையாடின. எங்களது விளையாட்டு வியூகங்களை மாற்றிக்கொள்வது எமது கடமை' என அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-ரி20 உலகக் கிண்ண போட்டி ஆரம்பமாவதற்கு சுமார் 10 தினங்களுக்கு முன்னர் இலங்கை அணி அமெரிக்கா சென்றடைந்தது. அத்துடன் அங்கு நெதர்லாந்து, அயர்லாந்து ஆகிய அணிகளுடன் இரண்டு பயிற்சிப் போட்டிகளில்  இலங்கை விளையாடியிருந்தது.
+Sri Lankan captain Wanindu Hazaranga has refused to criticize the US pitch or competition schedule for defeats in Sri Lanka.
 
-ஆனால், அமெரிக்காவில் கொடுக்கப்பட்ட ஆடுகளங்களுக்கு ஏற்ப தங்களை விரைவாக மாற்றிக்கொள்ள முடியாமல் போனதாக வனிந்து ஹசரங்க உணர்கிறார்.
+'The other teams played the same pitch we played. It is our duty to change our game strategies, ”he said.
 
-தென் ஆபிரிக்காவுக்கு எதிராக நியூயோர்க் நசவ் கவுன்டி விளையாட்டரங்கில் நடைபெற்ற போட்டியில் இலங்கை 77 ஓட்டங்களை மாத்தரமே பெற்றது.
+The Sri Lankan team reached the United States about 10 days before the start of the R20 World Cup. Sri Lanka also played two training matches with the Netherlands and Ireland.
 
-அதனைத் தொடர்ந்து பங்களாதேஷுக்கு எதிராக டல்லாஸில் நடைபெற்ற போட்டியில் இலங்கை 9 விக்கெட்களை இழந்து 124 ஓட்டங்களை எடுத்தது. ஆனால், டெத் ஓவர்களை வீசுவதற்கு முன்னணி பந்துவீச்சாளர்கள் இல்லாமல் போனதால் இலங்கை தோல்வியைத் தழுவியது.
+But Hazaranga feels that he is unable to quickly change themselves in accordance with the pitch given in the United States.
+
+Sri Lanka scored 77 runs at the New York Nasav County Stadium against South Africa.
+
+Sri Lanka then scored 124 runs for the loss of 9 wickets in Dallas in Dallas against Bangladesh. However, Sri Lanka lost due to the absence of leading bowlers to throw Death overs.
+
+Sri Lanka's Super 8 round dream was scattered when the game with Nepal was completely abandoned.
+
+Sri Lanka won by 83 runs in the match with the Netherlands. Or it would have returned to the country barefoot.
 
 ...
 
 [Data](articles/cafe43f1.json)
+
+[Extended Data](ext_articles/cafe43f1.ext.json)
 
 ---
 

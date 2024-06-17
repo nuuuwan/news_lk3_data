@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 12:08:00**
+As of **2024-06-17 12:19:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,726 (100.0%) of 30,736 articles have been extended.
+30,736 (100.0%) of 30,736 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,39 +48,55 @@ Furthermore, the State Minister said the overall annual growth in 2024 will be a
 
 [Data](articles/091d3135.json)
 
+[Extended Data](ext_articles/091d3135.ext.json)
+
 ---
 
-### கலதுர தோட்ட தாக்குதல்: ரூபன் பெருமாள் அதிரடி
+### Kaladura plantation attack: Ruben Perumal Action
 
 *2024-06-17 11:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கலதுர-தோட்ட-தாக்குதல்-ரூபன்-பெருமாள்-அதிரடி/76-339014) · `ta`
 
-இரத்தினபுரி, கிரியெல்ல பொலிஸ் பிரிவிற்குற்பட்ட கலதுர தோட்டத்தில், தொழில் புரியும் பெண் தொழிலாளியின் மீது மேற்கொள்ளப்பட்ட தாக்குதல் சம்பவம் தொடர்பில் உரிய விசாரணைகளை முன்னெடுத்து, சம்பந்தப்பட்ட நபர்களுக்கு எதிராக கடுமையான நடவடிக்கைகளை எடுக்கவேண்டுமென இலங்கை தொழிலாளர் காங்கிரஸின் அரசியல் அமைப்பாளர் ரூபன் பெருமாள் வலியுறுத்தியுள்ளார்.
+Ruben Perumal, a political organizer, demands investigation into a plantation worker's attack at Kaladura estate, urging strong action against perpetrators. The victim, a woman worker, was assaulted after taunting her attacker's husband over the phone. Veerasamy Jagadeeswaran, 44, is hospitalized. Despite the attack being reported, no arrests have been made among the five suspects. This incident has been brought to the attention of Jeevan Thondaman, the general secretary and minister of the Ceylon Workers Congress, prompting Perumal to visit the scene and call for swift action.
 
-தாக்குதலுக்கு இலக்கான அந்த பெண் தொழிலாளி,  வேலைக்கு சமூகமளிக்காமையால் குறித்த தோட்டத்தின் காவலாளியாக கடமை புரியும்  பெரும்பான்மையினத்தவர் தொலைபேசி மூலமாக குறித்த தோட்டத் தொழிலாளியின் கணவனை திட்டியுள்ளார்.
+🟩
 
-அத்துடன், அவரது தோட்ட குடியிருப்பு அமைந்துள்ள கோட்டப்பந்தா பிரதேசத்திற்கு குடிபோதையில் ஆயுதங்கள் சகிதம் இன்னும் சில பெரும்பான்மையின சென்று, குறித்த குடும்பத்தினரை தாக்கியது மட்டுமல்லாது, அந்த இடத்திலிருந்து அவரை இழுத்துச் சென்று தோட்டக் குடியிருப்புக்கு அப்பாற்பட்ட பிரதேசத்தில் வைத்து  தாக்கியுள்ளனர்.
+Ruben Perumal, the political organizer of the Ceylon Workers Congress, has urged the Ceylon Workers' Congress to carry out appropriate investigations into the attack on a woman worker at the Kaladura estate in Ratnapura and take stern action against the persons involved.
 
-தாக்குதலுக்கு உள்ளான வீராசாமி ஜெகதீஸ்வரன் (வயது 44) தற்போது இரத்தினபுரி மாவட்ட வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார்.
+The female worker, who was attacked, has taunted the husband of the plantation worker by telephone, as the gardener is the guardian of the estate.
+
+In addition, the drunken arms to the Kottapanda area where his estate is located, and the majority of the majority, the family, not only attacked the family, but also dragged him away from the place and attacked him in the area beyond the plantation residence.
+
+Veerasamy Jagadeeswaran (44 years old), who was attacked, is currently receiving treatment at the Ratnapura District Hospital.
+
+However, so far, the police have not taken steps to arrest one of the five majority of the people who have been responsible for the incident.
 
 ...
 
 [Data](articles/53b66fae.json)
 
+[Extended Data](ext_articles/53b66fae.ext.json)
+
 ---
 
-### 2 சிறுமிகள் துஷ்பிரயோகம்: பிக்கு சிக்கினார்
+### 2 Girls Abuse: Pikku caught up
 
 *2024-06-17 11:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-சிறுமிகள்-துஷ்பிரயோகம்-பிக்கு-சிக்கினார்/175-339013) · `ta`
 
-12 மற்றும் 13 வயதுகளையுடைய இரண்டு சிறுமிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், அப் பிரதேசத்தைச் சேர்ந்த பிக்கு ஒருவர் கைது செய்யப்பட்டுள்ளார். இந்த சம்பவம் தனமல்வில பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+Pikku, a 12-year-old girl from the Upper area, was arrested for sexually abusing two other girls, ages 12 and 13, in the Tanamalwila Police Division. The case came to light after the victims and their mothers were questioned by the police. Measures are being taken to present the case in court on Monday, where it's alleged Pikku also caused physical harm and depression.
 
-தபால் மூலமாக கிடைத்த இரகசிய முறைப்பாட்டுக்கு அமைய​ மேற்கொள்ளப்பட்ட விசாரணைகளின் பின்னர், அவ்விரு சிறுமிகளையும், அவ்விரு சிறுமிகளின் தாய்மார்களையும் பொலிஸார் அழைத்து விசாரணைக்கு உட்படுத்தியதில் மேற்படி சம்பவம் அம்பலமானது.
+🟩
 
-உடல் ரீதியான துஷ்பிரயோகம் மற்றும் மன உபாதைகளுக்கு உட்படுத்திய குற்றச்சாட்டிக் கைது செய்யப்பட்ட பிக்குவை, நீதிமன்றத்தில் திங்கட்கிழமை (17) ஆஜர்படுத்துவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A Pikku from Upper area has been arrested on charges of sexually abusing two girls aged 12 and 13 years.. The incident took place in the Tanamalwila Police Division.
+
+The incident was revealed when the police summoned the two girls and the mothers of the girls and the two girls.
+
+The police said that steps have been taken to appear in court on Monday (17), who was arrested for allegedly subjected to physical abuse and depression.
 
 ◼️
 
 [Data](articles/576c99e3.json)
+
+[Extended Data](ext_articles/576c99e3.ext.json)
 
 ---
 
@@ -97,6 +113,8 @@ Ada Derana reporter said that no individuals were injured in the incident and on
 ◼️
 
 [Data](articles/d46628c9.json)
+
+[Extended Data](ext_articles/d46628c9.ext.json)
 
 ---
 
@@ -519,6 +537,8 @@ Rupee strengthening also reduces the rupee value of dollar debt. Lower prices fr
 ...
 
 [Data](articles/d9aa9a33.json)
+
+[Extended Data](ext_articles/d9aa9a33.ext.json)
 
 ---
 
@@ -1386,6 +1406,8 @@ Sri Lanka gives tax slashed vehicles to state workers and completely tax-free ve
 
 [Data](articles/9862a269.json)
 
+[Extended Data](ext_articles/9862a269.ext.json)
+
 ---
 
 ### Why Sri Lanka needs new leadership
@@ -1712,17 +1734,25 @@ The President was speaking at the Mannar District "Youth Conference" and the bus
 
 ---
 
-### රජය මේ වසරේදී දේශීය වෙළඳපොළොන් රු.බි. 3380ක් ණය අරගෙන
+### The government this year's local market Rs. 3380 borrowings
 
 *2024-06-16 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-මේ-වසරේදී-දේශීය-වෙළඳපොළොන්-රු-බි--3380ක්-ණය-අරගෙන/11-410250) · `si`
 
-මෙම වසරේ ජනවාරි පළමු වැනිදා සිට මැයි මස 31 වැනිදා සිට දක්වා රජය විසින් රුපියල් බිලියන 3,380ක පමණ ණය දේශීය වෙළඳපොළෙන් ලබා ගෙන ඇති බව ජුනි මස 13 වැනිදා නිකුත් කරන ලද මහ බැංකු විශ්ලේෂණ වාර්තාවක් මගින් අනාවරණය වන බව පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාළ මහතා පෙරේදා (15දා) පැවසීය.
+In summary, the government borrowed Rs. 3380 crore locally in 2023, with significant amounts coming from Treasury Bills and Bonds. Prof. Wasantha Athukorala noted a high monthly average loan amount and substantial spending towards repaying existing debts.
 
-මෙහි දී මාස 05 කදී භාණ්ඩාගාර බිල්පත්වලින් රුපියල් බිලියන 3085 ක් පමණ ද, භාණ්ඩාගාර බැඳුම්කරවලින් රුපියල් බිලියන 785 ක් පමණ මුදලක් ද, රජය විසින් ණය ලෙස ලබා ගෙන ඇත. 2024 ජනවාරි මාසයෙහි දී රුපියල් බිලියන 878 ක් ද, පෙබරවාරි මාසයේ දී රුපියල් බිලියන 661 ක් ද, මාර්තු මාසයේ දී රුපියල් බිලියන 843 ක් ලබා ගෙන ඇති අතර අප්‍රේල් සහ මැයි මාස 02 ක තුළදි රුපියල් බිලියන  720 ක් සහ රුපියල් බිලියන  779 ක්ද ණය මුදල් ලෙස ලබා ගෙන ඇත.
+🟩
 
-...
+The government has obtained from the local analysis report on June 31 this year, the central bank analytical report on June 31st from May 31, the central bank analytical record of the University of Peradeniya has been senior.Prof. Wasantha Athukorala said on Monday (15).
+
+The Treasury bills have been obtained from Treasury Bills in 5 months and Rs. 785 billion from Treasury Bonds and the Government. 878 billion in January and Rs. 843 billion in February and Rs. 84 billion in March and Rs.Taken.
+
+The professor also revealed that the average loan received in a month was over Rs.. The Government's loan has also shown a large spending to repay the rest of the loans available to date.
+
+◼️
 
 [Data](articles/da2eec5a.json)
+
+[Extended Data](ext_articles/da2eec5a.ext.json)
 
 ---
 

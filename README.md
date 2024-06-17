@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 00:34:31**
+As of **2024-06-18 00:50:29**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,829 (100.0%) of 30,835 articles have been extended.
+30,833 (100.0%) of 30,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### சகல பொருட்களினதும் விலை அதிகரிக்கும் என எச்சரிக்கை
+### Warning that the price of all goods will increase
 
 *2024-06-17 23:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சகல-பொருட்களினதும்-விலை-அதிகரிக்கும்-என-எச்சரிக்கை/175-339052) · `ta`
 
-எதிர்காலத்தில் இறக்குமதி செய்யப்படும் சகல பொருட்களினதும் விலை அதிகரிக்கக் கூடும் என அகில இலங்கை சிறு கைத்தொழில்துறை சங்கத்தின் தலைவர் நிலுக்ஷ குமார தெரிவித்துள்ளார்.
+Nilaksha Kumara warns that future imports will be more expensive due to rising shipping tariffs and other costs, affecting all goods' prices.
 
-கப்பல் கட்டண அதிகரிப்பு உள்ளிட்ட செலவினங்கள் காரணமாகவே இறக்குமதி செய்யப்படும் சகல பொருட்களினதும் விலையை அதிகரிக்க நேரிட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். R
+🟩
+
+The President of the All Ceylon Small Industries Association, Nilaksha Kumara, said that the price of all the goods imported in the future would increase.
+
+He noted that the cost of all imported commodities has been increased due to costs including shipping tariffs.. Remble
 
 ◼️
 
 [Data](articles/a7f56cd7.json)
+
+[Extended Data](ext_articles/a7f56cd7.ext.json)
 
 ---
 
@@ -230,6 +236,8 @@ The Presidential and possible parliamentary elections are expected to take place
 
 [Data](articles/a6673c3a.json)
 
+[Extended Data](ext_articles/a6673c3a.ext.json)
+
 ---
 
 ### Arrested by two police officers
@@ -270,6 +278,8 @@ Can a nation in bankruptcy pull itself out of this social doldrum, with a State 
 
 [Data](articles/ce22eda6.json)
 
+[Extended Data](ext_articles/ce22eda6.ext.json)
+
 ---
 
 ### Assessing the Economic Transformation Bill
@@ -285,6 +295,8 @@ Most critics spend a lot of effort attacking the first section which has a long 
 ...
 
 [Data](articles/a94618ab.json)
+
+[Extended Data](ext_articles/a94618ab.ext.json)
 
 ---
 

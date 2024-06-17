@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 20:34:44**
+As of **2024-06-17 20:53:57**
 
 ## Newspaper Stats
 
-*Scraped **30,819** Articles*
+*Scraped **30,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,674
 adaderanalk | 3,493
-tamilmirrorlk | 3,613
+tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
 virakesarilk | 4,741
 adaderanasinhalalk | 4,997
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,817 (100.0%) of 30,819 articles have been extended.
+30,819 (100.0%) of 30,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### இரண்டு பொலிஸ் உத்தியோகத்தர்கள் கைது
+
+*2024-06-17 20:31:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பொலிஸ்-உத்தியோகத்தர்கள்-கைது/175-339036) · `ta`
+
+சிலாபம் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபரொருவர் தப்பிச் சென்ற சம்பவம் தொடர்பில் இரண்டு பொலிஸ் உத்தியோகத்தர்கள் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+சிலாபம் பொலிஸ் குற்றத் தடுப்பு பிரிவினரால் கடந்த 13 ஆம் திகதி மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் போது ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இதனையடுத்து, சந்தேக நபர் சிலாபம் பொலிஸ் நிலைய கூண்டில் தடுத்து வைக்கப்பட்டிருந்த நிலையில் நேற்று (16) ஞாயிற்றுக்கிழமை பிற்பகல் 12.30 மணியளவில் பொலிஸ் பாதுகாப்பிலிருந்து தப்பிச் சென்றுள்ளார்.
+
+சிலாபம் பிரதேசத்தைச் சேர்ந்த 29 வயதுடைய போதைப்பொருள் கடத்தல்காரரொருவரே இவ்வாறு தப்பிச் சென்றுள்ளார்.
+
+இதனையடுத்து, மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபர்  தப்பிச் செல்வதற்கு உதவி செய்ததாக சந்தேகிக்கப்படும்  இரண்டு பொலிஸ் உத்தியோகத்தர்கள் கைது செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/17063711.json)
+
+---
 
 ### Housing rights for 250,000 low income families in Colombo
 
@@ -150,21 +170,29 @@ Speaking to the media in Galle, Sirisena said: “If I did not resign from my po
 
 ---
 
-### බදු සුනාමියක් රටේ ජනතාවගේ කරමත පැටවෙලා
+### A tax tsunami is on the people's own
 
 *2024-06-17 19:01:44* · [`adalk`](https://www.ada.lk/breaking_news/බදු-සුනාමියක්-රටේ-ජනතාවගේ-කරමත-පැටවෙලා/11-410271) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල පවසන සියලු දේ සිදු කරන රූකඩ ආණ්ඩුවක් වර්තමානයේ පැවතීම නිසා බදු සුනාමියක් රටේ ජනතාවගේ කරමත පැටවී ඇති බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa criticized the current government for allegedly allowing a "puppet" administration influenced by the International Monetary Fund (IMF), leading to a "tax tsunami" affecting the people. He urged the government to negotiate better terms with the IMF for the benefit of the nation, emphasizing the importance of sovereignty and avoiding policies that worsen the populace's living conditions.
 
-කොළඹ කැස්බෑව, රත්තනපිටිය ආනන්ද නව ආදර්ශ විද්‍යාලයට 'සක්වළ' වැඩසටහනේ සුහුරු පන්ති කාමර ලබා දීමේ අවස්ථාවට ඊයේ(17දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Opposition Leader Sajith Premadasa said that a puppet government is currently being carried out by the International Monetary Fund.
 
-"මම අහන්න කැමතියි රජයෙන් අපිත් එකඟයි අයි.එම්.එෆ් එකත් සමග වැඩ කටයුතු කරන්න. ඒත් ඔබට වරමක් ලබා දීලා නෑ ඒ ගනුදෙනුව කිරීමේදී කියන කියන හැමදේටම දණ ගහන්න. තමන් දක්ෂ නම්, තමන් කාර්යශූර නම් තමන්ට හැකියාවක් තියෙන්න ඕනෑ අයි.එම්.එෆ් එකත් සමග රට වෙනුවෙන්, ජනතාව වෙනුවෙන් හොඳම ගිවිසුමකට ප්‍රවේශ වෙන්න. එහෙම දෙයක් සිදුවෙලා නෑ. කියන කියන පදයට, තාලෙට නටන රූකඩ පාලනයක් තමයි අද තියෙන්නේ.
+He was speaking at a ceremony at the 'Keewani New Summer' classrooms at Kesbewa, Ratnanepitiya, Colombo yesterday (17).
+
+The Opposition Leader Sajith Premadasa said so.
+
+"I'd like to hear from the government agree with the IMF. But you have not given you a privilege to kneel before that deal. If they are good, they must have the best agreement for the people with the IMF, if they were educated,. It's not happening. Today, there is a puppet administration in a nail.
+
+Tax Tsunami has been dispensated on the people today. There's nothing we have to do, do these calls the IMF. We did not aucate the sovereignty of our country. We did not sell anyone. If we go to a good standing in a good stand, we can think of the IMF and implement things that should be fulfilled on the side of the people.
 
 ...
 
 [Data](articles/62807e5d.json)
+
+[Extended Data](ext_articles/62807e5d.ext.json)
 
 ---
 
@@ -196,23 +224,31 @@ People should not give up for lies and identify the obvious facts and succeed in
 
 ---
 
-### ආර්ථිකය යහපත් වීමේ වාසිය සියලු දෙනාට ලැබිය යුතුයි
+### Everyone should receive the advantage of being the better
 
 *2024-06-17 18:52:16* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-යහපත්-වීමේ-වාසිය-සියලු-දෙනාට-ලැබිය-යුතුයි/11-410270) · `si`
 
-භූමියේ අයිතිය නොමැතිව රටට බත සපයා දෙන ගොවි ජනතාවට කෘතගුණ දැක්වීමට උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදිමේ වැඩසටහන මඟින් රජය කටයුතු කර තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced the government's initiative to grant land ownership and knowledge to citizens, aiming to acknowledge the nation's gratitude and stimulate economic growth. He emphasized the importance of recognizing the contributions of farmers and ensuring they have the means to improve their livelihoods. The program includes providing freehold land ownership, housing rights for low-income individuals, and modernizing agrarian services to boost rural economies.
 
-සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නන්ගර මැතිතමා නිදහස් අධ්‍යාපනය තුළින් දැනුම බෙදා දුන්නා සේම වත්මන් ආණ්ඩුව දැනුම සහ අයිතිය යන දෙකම ජනතාවට ලබා දීමට කටයුතු කරමින් සිටින බවද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “උරුමය” සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ සුදුසුකම්ලත් මහවැලි වලව කලාපයේ ජනපදිකයන් 45,253 ක් අතුරින් 1524 දෙනෙකු වෙත සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් අද (17) පෙරවරුවේ ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe said the government had taken measures to provide gratitude to the families who were grateful to the country without the land ownership of the country.
 
-මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව උරුමය සින්නකර ඉඩම් ඔප්පු ප්‍රදානයට එක් විය.
+CWW. Similarly, the present government is working to give people knowledge and ownership both as well as the current government is giving people knowledge and ownership.
 
-මෙම උත්සව සභාව ඇමතු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+President Ranil Wickremesinghe made this statement from the National Program of "inheritance" at the National Program of providing 20 lakhs at the National Program of the United States.
+
+President Ranil Wickremesinghe was figuratively inherited to the grant of land deeds.
+
+Minister Ranil Wickremesinghe further added:
+
+I have instructed to provide the ownership of land ownership within the next two months. The District Secretaries and Land Commissioner General, are planning to implement this land deeds. Ground level government officials can be obtained for this purpose. Such a program will enable us to implement this program efficiently.
 
 ...
 
 [Data](articles/8e43c0e3.json)
+
+[Extended Data](ext_articles/8e43c0e3.ext.json)
 
 ---
 
@@ -2381,27 +2417,5 @@ And to whom it is a friendly speech, a smooth talk, a confident talk, and the sp
 [Data](articles/e2027288.json)
 
 [Extended Data](ext_articles/e2027288.ext.json)
-
----
-
-### Explosion in the water pipe;Pause water supply in many areas
-
-*2024-06-17 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186233) · `ta`
-
-An explosion caused by a car crash into a water transport pipeline near the Kalatuwa Water Planting Center has led to a suspension of water supply in several areas including Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta, and Matagoda. The National Water Supply and Drainage Board will provide further updates.
-
-🟩
-
-The National Water Supply and Drainage Board said that water supply has been suspended until the re -notice of many areas has been suspended due to the explosion in the water transport pipeline from the Kalatuwa Water Planting Center.
-
-A car crashed into a pipe on Monday (17) this morning.
-
-According to the National Water Supply and Drainage Board, water supply has been suspended until the re -notice of the Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta and Matagoda.
-
-◼️
-
-[Data](articles/967b904e.json)
-
-[Extended Data](ext_articles/967b904e.ext.json)
 
 ---

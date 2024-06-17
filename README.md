@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 16:19:16**
+As of **2024-06-17 16:34:57**
 
 ## Newspaper Stats
 
-*Scraped **30,789** Articles*
+*Scraped **30,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,43 @@ adaderanalk | 3,490
 tamilmirrorlk | 3,611
 virakesarilk | 4,731
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,990
+adaderanasinhalalk | 4,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,786 (100.0%) of 30,789 articles have been extended.
+30,786 (100.0%) of 30,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
+### පුංචි සිඟිත්තිය මරු තුරුලට යැවූ පොල් ගෙඩිය
+
+*2024-06-17 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197852) · `si`
+
+ගලහ, නාරංහින්න ප්‍රදේශයේ දී පොල් ගෙඩියක් හිස මතට වැටීමෙන් සිදුවු අනතුරකින් කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ මාස 11ක් වයසැති කුඩා දැරියක් බව පොලීසිය සඳහන් කළේය.
+
+පියා දැරිය රැගෙන අසල්වැසි නිවසක් වෙත ගොස් යළි එමින් සිටිය දී නිවස ඉදිරිපිට තිබූ පොල්ගසක වියළි ගෙඩියක් පුංචි දැරියගේ හිසට වැටී අනතුර සිදුව තිබිණි.
+
+බරපතළ තුවාල ලැබු දැරිය දෙල්තොට රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා පේරාදෙණිය ශික්ෂණ රෝහල වෙත මාරු කර යවා තිබේ.
+
+◼️
+
+[Data](articles/06fef06c.json)
+
+---
+
 ### Netanyahu dissolves Israeli war cabinet, officials say
 
 *2024-06-17 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99931/netanyahu-dissolves-israeli-war-cabinet-officials-say) · `en`
 
-Israeli officials said Monday that Prime Minister Benjamin Netanyahu has dissolved the influential War Cabinet that was tasked with steering the war in Gaza.
+Israeli Prime Minister Benjamin Netanyahu dissolved the influential War Cabinet tasked with steering the war in Gaza, Israeli officials said Monday, a move that comes days after a key member of the body bolted the government over frustrations surrounding the Israeli leader’s handling of the war.
 
-The War Cabinet was dissolved following the departure from the government of Benny Gantz, an opposition lawmaker who had joined the coalition in the early days of the war. He had demanded that a small Cabinet be formed as a way to sideline far-right lawmakers in Netanyahu’s government. Gantz, Netanyahu and Defense Minister Yoav Gallant were its members and made key decisions together throughout the war.
-
-The officials, who spoke on condition of anonymity because they were not authorized to discuss the change with the media, said that going forward Netanyahu would hold smaller forums with some of his government members for sensitive issues.
+The move was widely expected following Benny Gantz’s departure earlier this month, which he said came after mounting frustrations over Netanyahu’s handling of the war. Gantz’s absence makes Netanyahu more dependent on his ultranationalist allies to govern and the dissolution of the War Cabinet underlines that shift is underway as Israel continues its eight-month-long war in Gaza.
 
 ...
 
@@ -2337,25 +2353,5 @@ Speaking at a press conference in Colombo, Wickramaratne emphasised the signific
 [Data](articles/5bc803bc.json)
 
 [Extended Data](ext_articles/5bc803bc.ext.json)
-
----
-
-### President meets Mannar Bishop; discuss Indo-Lanka land connectivity; energy exports
-
-*2024-06-17 01:34:06* · [`dailyftlk`](https://www.ft.lk/news/President-meets-Mannar-Bishop-discuss-Indo-Lanka-land-connectivity-energy-exports/56-763158) · `en`
-
-President Ranil Wickremesinghe yesterday met with Most Rev. Dr. Fidelis Lionel Emmanuel Fernando, the Bishop of Mannar, Diocese of Mannar at the Mannar Bishops House.
-
-The Bishop of Mannar commended President Ranil Wickremesinghe for his economic reform efforts aimed at rescuing the country from its financial crisis. During their meeting, they also discussed future development plans for the Mannar district.
-
-Key topics included the development of Point Pedro and Mullaitivu as renewable energy hubs. Emphasis was placed on ensuring that these development activities are carried out in an environmentally friendly manner.
-
-During their discussion it was noted that negotiations are underway regarding the sale of surplus renewable energy to India. A feasibility study is currently being conducted on establishing a power line connection between Sri Lanka and India, with further discussions expected during the upcoming visit of the Indian Foreign Minister to Sri Lanka.
-
-...
-
-[Data](articles/6c83d3c9.json)
-
-[Extended Data](ext_articles/6c83d3c9.ext.json)
 
 ---

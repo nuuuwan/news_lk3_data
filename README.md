@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 13:19:29**
+As of **2024-06-17 13:34:44**
 
 ## Newspaper Stats
 
-*Scraped **30,754** Articles*
+*Scraped **30,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,660
+adalk | 2,661
 adaderanalk | 3,485
 tamilmirrorlk | 3,607
 virakesarilk | 4,721
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,751 (100.0%) of 30,754 articles have been extended.
+30,754 (100.0%) of 30,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,53 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 
 [Data](articles/8aa717f7.json)
 
+[Extended Data](ext_articles/8aa717f7.ext.json)
+
 ---
 
-### ජල සැපයුම යථාතත්ත්වයට පත්කිරීම ගැන දැනුම්දීමක්
+### Notice of the recovery of water supply
 
 *2024-06-17 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197844) · `si`
 
-ලබුගම - කලටුවාව ජලාශයේ සිට මහරගම දක්වා ජලය ගෙනයන හානියට පත් නළය පිළිසකර කර ජල සැපයුම අද (17) මධ්‍යම රාත්‍රිය වනවිට ලබා දිය හැකි වනු ඇතැයි ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+The National Water Supply and Drainage Board announces repairs on the damaged pipe between the Labugama-Karutawa and Labugama-Kalatuwawa reservoirs, redirecting water to Maharagama.
+
+🟩
+
+The National Water Supply and Drainage Board says that the damaged pipe to the Labugama-Karutawa reservoir from the Labugama-Kalatuwawa reservoir will be remitted to the Maharagama.
 
 ◼️
 
 [Data](articles/c00b4730.json)
 
+[Extended Data](ext_articles/c00b4730.ext.json)
+
 ---
 
-### தேங்காய் விழுந்ததில் குழந்தை பலி
+### Child killed in coconut
 
 *2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-விழுந்ததில்-குழந்தை-பலி/76-339019) · `ta`
 
-தேங்காய் ஒன்று தலையில் விழுந்ததில் 11 மாத பெண் குழந்தை உயிரிழந்துள்ளதாக கலஹா பொலிஸார் தெரிவித்தனர். கலஹா, தெல்தோட்டை பிரதேசத்திலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+An 11-month-old girl, Lokeswaran Kiangshini, died after a coconut fell on her head in the Teldota area of Kalaha. Her family had taken her outside when the accident happened. Despite the risk to many young children living nearby, no precautions were taken against falling coconuts.
 
-கலஹா தெல்தோட்டை நாரன்ஹின்ன தோட்டத்தில் வசிக்கும் லோகேஸ்வரன் கியாங்ஷினி என்ற சிறுமியே துரதிஷ்டவசமாக உயிரிழந்துள்ளார்.
+🟩
 
-தந்தை சிறுமியை பக்கத்து வீட்டுக்கு அழைத்துச் சென்றுவிட்டு திரும்பி வந்து கொண்டிருந்தபோது, ​​வீட்டின் முன்புறம் முப்பது அடி தூரத்தில் இருந்த தென்னை மரத்தில் இருந்து காய்ந்த காய் ஒன்று அவள் தலையில் விழுந்தது.
+Kalaha police said 11 months old girl died when a coconut fell on her head. The incident took place in the Teldota area of ​​Kalaha.
 
-பின்னர் அதே சிறுமியை முச்சக்கர வண்டியில் தெல்தோட்டை பிரதேச வைத்தியசாலைக்கு அழைத்துச் சென்றுள்ளனர்.அந்த வைத்தியசாலையில் இருந்து சிறுமியின் நிலைமை மிகவும் மோசமாக இருந்ததால் பேராதனை போதனா வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர்.
+Unfortunately, a girl named Lokeswaran Kiangshini, who lives in the Naranhinna estate in the Kalaha, has died.
 
-இவர்கள் வசிக்கும் வரிசை வீடுகளுக்கு அருகாமையில் உள்ள தென்னை மரங்களில் இருந்தே தேங்காய் விழுந்ததாக விசாரணைகளை மேற்கொண்டு வரும் பொலிஸார் தெரிவித்துள்ளனர்.
+When her father took the girl to her neighborhood, she was returning and fell on her head from a coconut tree that was thirty feet in front of the house.
 
-இந்த வீடுகளில் மேலும் பல சிறு பிள்ளைகள் மற்றும் பலர் இருந்த போதும் இங்குள்ள அபாயம் தொடர்பில் அதிக கவனம் செலுத்தவில்லை எனவும் தெரியவந்துள்ளது.
+The same girl was then taken to the Teldottai Divisional Hospital in a three -wheeler.
+
+Investigations are being investigated by police said that coconuts fell from the coconut trees near the queue houses.
+
+It has also been revealed that these houses have many more small children and many others, but the danger is not paid.
 
 ◼️
 
 [Data](articles/1907da10.json)
+
+[Extended Data](ext_articles/1907da10.ext.json)
 
 ---
 
@@ -411,6 +425,26 @@ Ada Derana reporter said that no individuals were injured in the incident and on
 [Data](articles/d46628c9.json)
 
 [Extended Data](ext_articles/d46628c9.ext.json)
+
+---
+
+### ආසියානු විසි කිරිමේ තරගාවලියේදී ලංකාවට පදක්කම් තුනක්
+
+*2024-06-17 11:20:48* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-විසි-කිරිමේ-තරගාවලියේදී ලංකාවට-පදක්කම්-තුනක්/11-410255) · `si`
+
+03 වන ආසියානු විසි කිරීමේ ශූරතා තරගාවලියට ( 2024 Asian Throwing Championships ) ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වී රන් පදක්කමක් සහ ලෝකඩ පදක්කම් 02 ක් දිනා ගත් ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් 06/17 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+මෙම තරගාවලිය දකුණු කොරියාවේ මොක්පෝ ( Mokpo ) නුවර ඉකුත් 06/14 දින සිට 06/15 දින දක්වා ආසියානු රටවල් 20 ක පමණ ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+
+මෙම තරගාවලියේ දී හෙල්ල විසි කිරීමේ ඉසව්ව සදහා සහභාගී වූ 21 හැවිරිදි , ශ්‍රී ලංකා ගුවන් හමුදාව නියෝජනය කරන   රැමේෂ් තරංග මීටර් 85.45 ක විසි කරමින් ශ්‍රී ලංකා වාර්තාවක් මෙන්ම මෙම තරගාවලියේ වාර්තාවක් තබන්නට ද සමත් වී තිබුණි .
+
+මෙම විසි කිරීමේ දුර ඔලිම්පික් පරිසාදන මට්ටමට සෙන්ටි මීටර් 05 ක් අඩු වෙන් තිබූ අතර , මෙම විසි කිරීමත් සමග රුමේෂ් තරංග ලෝක ශ්‍රේණි ගත කිරීම් වල 09 වැනි ස්ථානය දක්වා ඉහළට පැමිණීමට සමත් වී තිබේ .
+
+මීට අමතරව මෙම තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා යුධ හමුදාවේ දිල්හානි ලේකම්ගේ සහ සුමේධ රණසිංහ ද හෙල්ල විසි කිරීමේ ඉසව් සදහා ලෝකඩ පදක්කම් 02 ක් දිනා ගැනීමට සමත් වී තිබුණි .
+
+...
+
+[Data](articles/a597d4ed.json)
 
 ---
 
@@ -2245,31 +2279,5 @@ He also said that over 100,000 people from many countries have been detained in 
 [Data](articles/55db7946.json)
 
 [Extended Data](ext_articles/55db7946.ext.json)
-
----
-
-### The girl who went out of the country is caught
-
-*2024-06-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197825) · `si`
-
-A Sri Lankan woman attempting to escape to the UK with a forged passport was detained at Katunayake airport. Assisted by a broker, she sought employment for decorative work but was intercepted due to discrepancies in her passport details. The case has been referred to Katunayake airport's criminal investigation unit.
-
-🟩
-
-A Sri Lankan young woman who attempted to flee to the UK through a fake passport has been arrested in Katunayake.
-
-She was also assisted with a broker who was assisted by the airport for this flight, said the airports.
-
-The suspect had come to the Employer Service Wetner for the complement of all the decorative activities and has been submitted to the Emigration Services Force and other documents in this passport.
-
-It has been revealed that the girl's license has been prepared for another woman's passport to another woman's passport.
-
-They have handed over the Katunayake airport criminal investigations.
-
-◼️
-
-[Data](articles/d4d3008f.json)
-
-[Extended Data](ext_articles/d4d3008f.ext.json)
 
 ---

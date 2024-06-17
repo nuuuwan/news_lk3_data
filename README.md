@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 23:19:07**
+As of **2024-06-17 23:34:58**
 
 ## Newspaper Stats
 
-*Scraped **30,828** Articles*
+*Scraped **30,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,676
 adaderanalk | 3,495
 tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
-virakesarilk | 4,743
+virakesarilk | 4,744
 adaderanasinhalalk | 4,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,827 (100.0%) of 30,828 articles have been extended.
+30,828 (100.0%) of 30,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,18 @@ Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reform, 
 [Data](articles/9a2642b8.json)
 
 [Extended Data](ext_articles/9a2642b8.ext.json)
+
+---
+
+### அகில இலங்கை கம்பன் கழகம் நடத்தும் கம்பன் விழா
+
+*2024-06-17 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186315) · `ta`
+
+வெள்ளவதை இராமகிருஸ்ண மிஷன் மண்டபத்தில் ஜூன் மாதம் 14,15.16,17 திகதிகளில் நடைபெற்று வரும் அகில இலங்கை கம்பன் கழகம் நடத்தும் கம்பன் விழா 2024 இன் இறுதி நாள் (17.06.2024) மாலை நிகழ்வில் டாக்டர் சண்முகம் ஸ்ரீ தரன் "கம்பகலாநிதி" விருதினையும், கலாநிதி மனோன்மணி சண்முகதாஸ் போராசிரியர் அ. ச. ஞானசம்பந்தன் விருதினையும்,வடமாகாணம் பிரதம செயலாளர் லச்சுமணன் இளங்கோவன் "கம்பவாணர்" அருணகிரி விருதினையும், தேர்தல் ஆணையம் முன்னால் தலைவர் மஹிந்த தேசப்பிரிய "வித்துவசிரோமணி பொன்னம்பலபிள்ளை விருதினையும், (ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ) ரவூப் ஹக்கீம் பா. உ" கம்பன் அடிப்பொடி"சா. கணேசன் விருதினையும் , கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் " மகா வித்துவான்" சி. கணேசையர் விருதினை பெற்றுக்கொண்ட போது பிடித்தபடத்தினையும் கலந்துகொண்டோரையும் காணலாம்.
+
+◼️
+
+[Data](articles/d36b5efa.json)
 
 ---
 
@@ -296,23 +308,33 @@ The suspects have identified this Chinese company through Facebook and later rel
 
 ---
 
-### මිහින්තලය සිට ත්‍රිකුණාමලයට නව දුම්රිය මාර්ගයක්
+### New railway line from Mihintale to Trincomalee
 
 *2024-06-17 19:35:41* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලය-සිට-ත්‍රිකුණාමලයට-නව-දුම්රිය-මාර්ගයක්/11-410274) · `si`
 
-අනුරාධපුර දිස්ත්‍රික්කයේ සංවර්ධන කටයුතු සඳහා මෙවර අයවැය මගින් රනිල් වික්‍රමසිංහ මහතා විසින් රුපියල් මිලියන 200ක් වෙන්කර ඇති බවත් මේ තුළින් ඉතිහාසයේ අනුරාධපුර රාජධානියේ කේන්ද්‍රීය සංවර්ධිත නගරය මෙන් ආර්ථික මර්මස්ථාන කේන්ද්‍රීය නගරයක් ලෙස අනුරාධපුරය සංවර්ධනය කිරීමට කටයුතු කරන බවත් ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Minister Runayake Wickremesinghe announced a new railway line from Mihintale to Trincomalee, aiming to boost trade between the North Central and Eastern provinces and Colombo. This initiative, part of a broader plan to upgrade the Northern Railway Line, includes establishing a bulk exchange center for agricultural products. The project, funded in part by an Indian loan, aims to improve connectivity and economic development, mirroring the prosperity of the ancient Anuradhapura kingdom.
 
-අමාත්‍යවරයා මේ බව කියා සිටියේ අනුරාධපුර සිට මිහින්තලේ දක්වා දුම්රිය ගමනාගමනය ආරම්භ කිරීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නායක හිමියන්ගේ ප්‍රධාන අනුශාසකත්වයෙන් මෙම දුම්රිය ගමනාගමනය ආරම්භ කෙරිණි.
+Runayake Wickremesinghe has allocated Rs.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මෙසේ කීය.
+The Minister was speaking at the opening of the train traffic from Anuradhapura to Mihintale.
 
-"විදේශීය රටවලින් කොළඹට ආනයනය කෙරෙනවා. භාණ්ඩ දුම්රිය මගින්අනුරාධපුරය හා මිහින්තලය ගබඩා සංකීර්ණ සඳහා ප්‍රවාහනය කොට, උතුරු මැද උතුරු සහ නැගෙනහිර පළාත්වල දිස්ත්‍රික්ක දහයකට බෙදා හැරීම හා එම පළාත්වල නිෂ්පාදනය කෙරෙන භාණ්ඩ කොළඹට ගෙන්වා අපනයනය කිරීමේ ප්‍රධාන මර්මස්ථානය බවට මිහින්තලය පරිවර්තනය කිරීම විසල් අනුරාධපුර වැඩසටහනේ අරමුණයි.
+The train commenced the main event of the Chief of Pallegama Hemanarathana Leaders of Pallegama.
+
+Speaking further Minister Bandula Gunawardena said.
+
+"Imported to Colombo from foreign countries. The objective of translating the Mihintale to the export of the North Central and Eastern provinces and the export of goods in the North Central and Eastern Provinces and the export of goods produced in these provinces will be translated into Colombo.
+
+The plan also includes the establishment of a bulk exchange center exchanged as consignment of farming products.
+
+Our aim is to develop the economic unurirate city like the central developed city of the Anuradhapura kingdom of Anuradhapura.
 
 ...
 
 [Data](articles/06b19ea9.json)
+
+[Extended Data](ext_articles/06b19ea9.ext.json)
 
 ---
 
@@ -2421,27 +2443,5 @@ The scan uncovered a stock of suspicious parcels in a compartment sealed with fi
 [Data](articles/527d2e01.json)
 
 [Extended Data](ext_articles/527d2e01.ext.json)
-
----
-
-### Is Sri Lanka's tree planted scientific?Is politically?
-
-*2024-06-17 10:29:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrrwpvy5r3o) · `si`
-
-Sri Lanka's tree planting initiatives, both nationally and internationally, aim to combat deforestation and restore ecosystems. Despite ambitious goals, the effectiveness varies, with concerns over the choice of species, care post-planting, and the sustainability of efforts beyond political cycles. Environmentalists stress the importance of selecting appropriate species for specific regions and ensuring adequate care and monitoring post-planting.
-
-🟩
-
-Sri Lankan tree planting projects have been launched in the past two decades. Almost every million plants were planned to plant. But it is important to look at how much planting plants planted under those projects.
-
-This article will focus on whether the history of the tree planting projects in Sri Lanka.. In what purpose or planting is a good act. But the seedlings chosen should be inquired about how much the plants have taken care of and how many plants have become trees.
-
-Although national programs are started to plant millions of plants, they seem to continue with a national plan. When the ruler is changing, new projects will be commenced in studying history that the project will end at the end of their rule. Tree is planted in a variety of objectives, such as reforestation, land decoration, and the soil wash.
-
-...
-
-[Data](articles/52dfaffd.json)
-
-[Extended Data](ext_articles/52dfaffd.ext.json)
 
 ---

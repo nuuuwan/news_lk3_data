@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 20:05:23**
+As of **2024-06-17 20:34:44**
 
 ## Newspaper Stats
 
-*Scraped **30,816** Articles*
+*Scraped **30,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,76 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
-adalk | 2,672
+adalk | 2,674
 adaderanalk | 3,493
 tamilmirrorlk | 3,613
 dailymirrorlk | 4,733
 virakesarilk | 4,741
-adaderanasinhalalk | 4,996
+adaderanasinhalalk | 4,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,815 (100.0%) of 30,816 articles have been extended.
+30,817 (100.0%) of 30,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### චීනයට නිරුවත විකුණූ ජාවාරම උකුස්සා ට කොටුවෙයි
+### Housing rights for 250,000 low income families in Colombo
+
+*2024-06-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197858) · `si`
+
+President Ranil Wickremesinghe plans to grant freehold ownership to 250,000 low-income families in Colombo within a month. This initiative follows his recent deed distribution to 1,524 colonists in the Mahaweli region. He emphasizes the importance of shared prosperity and addressing the needs of the general populace during challenging times.
+
+🟩
+
+President Ranil Wickremesinghe says he will take measures to provide freehold ownership of the low income families in Colombo in the coming month.
+
+The President was revealed at the Embilipitiya Mahaweli Stadium today (17).
+
+President Ranil Wickremesinghe today conducted a program to provide deeds to 1,524 colonists in the Mahaweli in Mahaweli under the patronage of President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/600970f0.json)
+
+[Extended Data](ext_articles/600970f0.ext.json)
+
+---
+
+### Sugarchandhi arrested for selling nakedness to China
 
 *2024-06-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197857) · `si`
 
-නීතියෙන් රිංගා වංචනික ක්‍රියා සිදුකරන්නන් හඹායන "අද දෙරණ" උකුස්සා ඒ සියල්ල රට හමුවේ අනාවරණ කරන්නේ එවැනි වංචනික, අනීතික ක්‍රියාවලින් මහජනයා ආරක්ෂා කරගැනීමටයි.
+Sugarchandhi was arrested for allegedly selling explicit content to China, endangering the nation's youth and children. The Ada Derana news outlet highlighted the incident to safeguard the public from such deceptive practices. The arrest follows revelations of a significant societal decline, with live sex scenes broadcasted online for profit. Four individuals, all under 30, were apprehended after being linked to a Chinese company via Facebook. They admitted to earning over Rs. 100,000 weekly from these activities. The police found numerous devices used for recording and viewing explicit material. This case underscores the importance of Ada Derana in combating future illicit acts.
 
-දැවැන්ත සමාජ පරිහානියකට තුඩු දෙන ජුගුප්සාජනක ජාවාරමක් අප රට හමුවේ අද අනාවරණ කරන්නේ මෙරට තරුණ ප්‍රජාව සහ දරුවන් මෙවැනි දෙයට පෙළඹවීම වැළැක්වීමේ අරමුණින්.
+🟩
 
-මේ ලිංගික දර්ශන සජීවීව අන්තර්ජාලය හරහා චීන සමාගමකට මුදාහැර මහා පරිමාණයෙන් මුදල් උපයන ජාවාරමක් ගැනය.
+The Ada Derana will be revealed to the country to protect the public by such fraudulent and invaluable acts.
 
-මේ පිළිබඳ හෝඩුවාව ලද වහාම මෙම ජාවාරම්කරුවන් සොයා "අද දෙරණ" උකුස්සා පිළියන්දල, බටකැත්තර කොන්ගහවත්ත ප්‍රදේශ බලා පිටත්වුණි.
+A giant social decline leading to our country today reveals today to prevent the youth and children of this country to prevent this.
 
-ඒ පිළියන්දල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දිනේෂ් අත්තරගම මහතා සහ එම පොලිසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සංජීව අලුත්ගෙදර මහතා ඇතුළු නිලධාරින් පිරිසක් ද සමඟින්.
+The sex scenes are lived live on the Internet and claim a racket to make money on a large scale.
 
-අප එම නිවසට ළඟාවන විටත් ඒ තුළ ලිංගික ක්‍රියාකාරකමක නිරතව සිටි යුවළක් සහ තවත් යුවළක් නීතියේ රැහැනට හසුකරගැනීමට "අද දෙරණ" උකුස්සා ඇතුළු කණ්ඩායමට හැකිවුණි.
+The traffickers were searching for the traffickers, "Derana," Derana, "departed to Derana, Batakethara, Batakuwa.
 
-ඔවුන් මීට වසර කිහිපයකට පෙර මෙම නිවස කුලී පදනමට ගෙන ඇත්තේ තමන් මාර්ගගත ක්‍රමය ඔස්සේ ව්‍යාපාර කරන බව ගෙහිමියාට පවසමිනි.
+A Piliyandala OIC Chief Inspector Dinesh Akuragama and OIC Chief Inspector General Inspector Sanjeewa Aluthgedara is also present.
+
+When we arrived at the house, we also had a couple and another couple in the law and capture another couple in the law.
+
+They had taken this house to the rented house a few years ago.
+
+But it really has happened that they had done various sexual activities into the home of various sexes and releasing their money online.
+
+The suspects have identified this Chinese company through Facebook and later released these scenes live.
 
 ...
 
 [Data](articles/1d640396.json)
+
+[Extended Data](ext_articles/1d640396.ext.json)
 
 ---
 
@@ -118,6 +150,24 @@ Speaking to the media in Galle, Sirisena said: “If I did not resign from my po
 
 ---
 
+### බදු සුනාමියක් රටේ ජනතාවගේ කරමත පැටවෙලා
+
+*2024-06-17 19:01:44* · [`adalk`](https://www.ada.lk/breaking_news/බදු-සුනාමියක්-රටේ-ජනතාවගේ-කරමත-පැටවෙලා/11-410271) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල පවසන සියලු දේ සිදු කරන රූකඩ ආණ්ඩුවක් වර්තමානයේ පැවතීම නිසා බදු සුනාමියක් රටේ ජනතාවගේ කරමත පැටවී ඇති බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+කොළඹ කැස්බෑව, රත්තනපිටිය ආනන්ද නව ආදර්ශ විද්‍යාලයට 'සක්වළ' වැඩසටහනේ සුහුරු පන්ති කාමර ලබා දීමේ අවස්ථාවට ඊයේ(17දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"මම අහන්න කැමතියි රජයෙන් අපිත් එකඟයි අයි.එම්.එෆ් එකත් සමග වැඩ කටයුතු කරන්න. ඒත් ඔබට වරමක් ලබා දීලා නෑ ඒ ගනුදෙනුව කිරීමේදී කියන කියන හැමදේටම දණ ගහන්න. තමන් දක්ෂ නම්, තමන් කාර්යශූර නම් තමන්ට හැකියාවක් තියෙන්න ඕනෑ අයි.එම්.එෆ් එකත් සමග රට වෙනුවෙන්, ජනතාව වෙනුවෙන් හොඳම ගිවිසුමකට ප්‍රවේශ වෙන්න. එහෙම දෙයක් සිදුවෙලා නෑ. කියන කියන පදයට, තාලෙට නටන රූකඩ පාලනයක් තමයි අද තියෙන්නේ.
+
+...
+
+[Data](articles/62807e5d.json)
+
+---
+
 ### Seaside production in Jaffna
 
 *2024-06-17 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186311) · `ta`
@@ -143,6 +193,26 @@ People should not give up for lies and identify the obvious facts and succeed in
 [Data](articles/c97c1f2b.json)
 
 [Extended Data](ext_articles/c97c1f2b.ext.json)
+
+---
+
+### ආර්ථිකය යහපත් වීමේ වාසිය සියලු දෙනාට ලැබිය යුතුයි
+
+*2024-06-17 18:52:16* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-යහපත්-වීමේ-වාසිය-සියලු-දෙනාට-ලැබිය-යුතුයි/11-410270) · `si`
+
+භූමියේ අයිතිය නොමැතිව රටට බත සපයා දෙන ගොවි ජනතාවට කෘතගුණ දැක්වීමට උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදිමේ වැඩසටහන මඟින් රජය කටයුතු කර තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නන්ගර මැතිතමා නිදහස් අධ්‍යාපනය තුළින් දැනුම බෙදා දුන්නා සේම වත්මන් ආණ්ඩුව දැනුම සහ අයිතිය යන දෙකම ජනතාවට ලබා දීමට කටයුතු කරමින් සිටින බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “උරුමය” සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ සුදුසුකම්ලත් මහවැලි වලව කලාපයේ ජනපදිකයන් 45,253 ක් අතුරින් 1524 දෙනෙකු වෙත සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් අද (17) පෙරවරුවේ ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
+
+මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව උරුමය සින්නකර ඉඩම් ඔප්පු ප්‍රදානයට එක් විය.
+
+මෙම උත්සව සභාව ඇමතු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+
+...
+
+[Data](articles/8e43c0e3.json)
 
 ---
 
@@ -2333,81 +2403,5 @@ According to the National Water Supply and Drainage Board, water supply has been
 [Data](articles/967b904e.json)
 
 [Extended Data](ext_articles/967b904e.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka by 83 runs
-
-*2024-06-17 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197838) · `si`
-
-Sri Lanka triumphed over the Netherlands in a World Cup match, winning by 83 runs. Batting first, Sri Lanka made 201/5 in 20 overs, with Kusal Mendis and Charith Asalanka contributing 46 runs each. The Netherlands were bowled out for 118 in 16.4 overs, Nuwan Thushara taking three key wickets.
-
-🟩
-
-Sri Lanka won the match between Sri Lanka and the Netherlands in the World Cup match today (17).
-
-Batting first Sri Lanka scored 201 201 2014 in 20 overs.
-
-Kusal Mendis and Charith scored 46 runs each.
-
-In reply, the Netherlands team scored 118 runs in 16.4 overs.
-
-Nuwan Thushara took three wickets in their bowling.
-
-◼️
-
-[Data](articles/c343c9fb.json)
-
-[Extended Data](ext_articles/c343c9fb.ext.json)
-
----
-
-### Young woman arrested at the airport trying to go to UK
-
-*2024-06-17 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UK-செல்ல-முயன்ற-இளம்-பெண்-விமான-நிலையத்தில்-கைது/175-339003) · `ta`
-
-A 24-year-old woman from Trincomalee was arrested at the airport for attempting to travel to the UK with a fake passport. The arrest came after officials discovered the photo on her passport did not match hers and that her details were on someone else's passport. A broker involved in the scheme was also detained. Both individuals are now under investigation by the Katunayake Airport Criminal Investigation Department.
-
-🟩
-
-A 24 -year -old woman from Trincomalee has been arrested at the airport for trying to travel to the United Kingdom using a fake passport.
-
-Airport Immigration and Emigration officials said that a broker who assisted the woman's journey was also arrested.
-
-After completing all the permit procedures, the suspect has gone to the Emigration Service and submitted passports and other documents.
-
-He has been sent to the Chief Immigration Officer as he found that the photo on the passport was not his.
-
-Following the technical testing, it was revealed that the woman's information was recorded on another woman's passport.
-
-Both arrested have been handed over to the Katunayake Airport Criminal Investigation Department officials. Remble
-
-◼️
-
-[Data](articles/df54eb2f.json)
-
-[Extended Data](ext_articles/df54eb2f.ext.json)
-
----
-
-### Decision taken on fishermen arrested in deep sea with heroin
-
-*2024-06-17 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197836) · `si`
-
-Six fishermen arrested off Sri Lanka's coast for possessing 131 kilograms of heroin were charged in court after being transported from a remote area.
-
-🟩
-
-The six fishermen who were arrested in the right sea were produced before courts while he was brought to Sri Lanka hidden in a multi-day fishing vessel.
-
-The police said that they were arrested on the 15th and was produced before the Colombo Chief Magistrate.
-
-The police said that about 131 kilos of heroin.
-
-◼️
-
-[Data](articles/05cda43e.json)
-
-[Extended Data](ext_articles/05cda43e.ext.json)
 
 ---

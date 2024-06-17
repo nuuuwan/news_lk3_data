@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 10:19:22**
+As of **2024-06-17 10:34:44**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 4,978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,651 (99.8%) of 30,720 articles have been extended.
+30,665 (99.8%) of 30,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### තාත්තයි පුතයි මගී හුවමාරුව මත හැප්පූ චීන ජාතිකයා අත්අඩංගුවට
+### Daddy and son arrested Chinese national opener
 
 *2024-06-17 09:59:44* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තයි-පුතයි-මගී-හුවමාරුව-මත-හැප්පූ-චීන-ජාතිකයා-අත්අඩංගුවට/11-410254) · `si`
 
-කළුතර නගරයේ පදික මාරුව මතින් පාර මාරුවෙමින් සිටි පිය පුතු යුවළක්  චීන ජාතිකයින් පිරිසක් ගමන් ගත් සුඛෝපභෝගී මෝටර් රථයක ගැටී පියා  මියගොස්, පුතා තුවාල ලබා ඇති බව කළුතර දකුණ පොලිසිය පවසයි.
+A Chinese national and his son were arrested after allegedly killing the father and injuring the son during a dispute over land in Kalutara, Sri Lanka. The victims lived on Nagoda Sayingararama Road, and the suspects were apprehended along with their vehicle.
 
-අනතුරෙන් මියගොස් ඇත්තේ කළුතර නාගොඩ සංදර්ශනාරාම පාරේ පදිංචිව සිටී වත්ත වඩුගේ සදුන් අරවින්ද නමැති (46) හැවිරිදි පුද්ගලයෙකු බව පොලිසිය කීය.
+🟩
 
-මෝටර් රථය පැදවූ චීන ජාතිකයා අත්අඩංගුවට ගෙන මෝටර් රථය පොලිස් භාරයට ගත් බව පොලිසිය සඳහන් කරයි.
+The father of the Kalutara South Police say that his father was killed and his son was injured and injured when a father-son couple was transferred with a predecessor shifting in Kalutara.
+
+The victim was a resident of the Nagoda Sayingararama Road, Kalutara, police said.
+
+The Chinese national was arrested and arrested the vehicle.
 
 ◼️
 
 [Data](articles/cea60d3e.json)
 
+[Extended Data](ext_articles/cea60d3e.ext.json)
+
 ---
 
-### தேங்காய் எண்ணெய் விலை அதிகரிப்பு
+### Increase in the price of coconut oil
 
 *2024-06-17 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186234) · `ta`
 
-தேங்காய் எண்ணெய் போத்தல் ஒன்றினது விலை 100 ரூபாவினால் அதிகரிக்கப்பட்டுள்ளதாக தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத் தெரிவித்துள்ளார்.
+Asela Sampath, leader of the National Consumer Front, announced a 100 rupee price hike for coconut oil, raising it from 450 to 550 rupees. This increase is attributed to higher import costs.
 
-இதன்படி, 450 ரூபாவாக விற்பனை செய்யப்பட்ட தேங்காய் எண்ணெய் போத்தல் ஒன்றின் விலை தற்போது 550 ரூபாவாக அதிகரிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும், இறக்குமதி செய்யப்படும் தேங்காய் எண்ணெயின் சுங்க வரி அதிகரிப்பே விலை அதிகரிப்புக்கு காரணம் என தேசிய நுகர்வோர் முன்னணியின் தலைவர் தெரிவித்துள்ளார்.
+National Consumer Front leader Asela Sampath says the price of coconut oil has been increased by 100 rupees.
+
+Accordingly, the price of a coconut oil sold for 450 rupees has now been increased to 550 rupees.
+
+The National Consumer Front leader said that the increase in prices of imported coconut oil is due to the increase in prices.
 
 ◼️
 
 [Data](articles/c5c8807b.json)
+
+[Extended Data](ext_articles/c5c8807b.ext.json)
 
 ---
 
@@ -82,109 +94,149 @@ Singapore’s Maritime and Port Authority, in a joint statement with the Nationa
 
 [Data](articles/53980af8.json)
 
+[Extended Data](ext_articles/53980af8.ext.json)
+
 ---
 
-### ගොඩගම, හෝමාගම, පන්නිපිටිය ඇතුළු ප්‍රදේශවල ජල සැපයුම ගැන දැනුම්දීමක්
+### Notice of water supply of water supply in Godagama, Homagama and Pannipitiya
 
 *2024-06-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197839) · `si`
 
-මෝටර් රථයක් ගැටීම හේතුවෙන් පුපුරා ගිය ජල නලය අද (17) පස්වරුව වනවිට සම්පූර්ණයෙන් යථාතත්ත්වයට පත්කිරීමට බලාපොරොත්තු වන බව ලබුගම, කලටුවාව ජලාශයේ මෙහෙයුම් කළමනාකරු පියල් රාජපක්ෂ මහතා පවසයි.
+Water supply issues in Godagama, Homagama, and Pannipitiya due to a burst water main. Expected restoration on April 17 after an explosion caused a significant water outage affecting over 100,000 homes. The incident occurred near the Godagama junction, disrupting water services since April 17.
 
-අම අනතුර හේතුවෙන් කලටුවාව ජලාශයේ සිට ජලය රැගෙන එන නලයක් පුපුරා ගිය අතර ඒ හේතුවෙන් ප්‍රදේශ කිහිපයකට යළි දැනුම් දෙනතුරු ජල සැපයුම අත්හිටුවනු ලැබීය.
+🟩
 
-ඒ අනුව ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තේගොඩ යන ප්‍රදේශ වල ලක්ෂයකට අධික නිවාස ඒකක සඳහා මෙලෙස ජල සැපයුමට බාධා එල්ල විය.
+The water tube that the exploded water tribun was expected to be fully restored today (17) at the Labugama, Labugama, Labugama.
 
-හයිලෙවල් මාර්ගයේ ගොඩගම මංසන්ධිය ආසන්න  ප්‍රදේශයක දී මෝටර් රථයක් එම ජල නලයේ වැදී අනතුරට ලක් වීම හේතුවෙන් මෙම තත්ත්වය උද්ගත වි තිබේ.
+Due to the address, a tribute to water was blown away from the Kartuwa reservoir and the water cut was suspended again.
 
-අද (17) අලුයම සිට අදාළ අනතුර සිදුවු ස්ථානයේ ජල නලයෙන් විශාල ජල කඳක් ඉහළට විසිරුණු අතර ජල පහරේ වේගය හේතුවෙන් එම ස්ථානය අසල තිබූ විදුලි කණුවක් ද මාර්ගයට කඩා වැටී තිබුණි.
+Accordingly, over 100,000 housing units were interrupted in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattegoda.
+
+This has been affected by a car in the near area near the psyillion the Godagama junction in the Godagama junction.
+
+A large number of water was scattered by the pipe of the accident, from April 17 (17) and due to the speed of the water and the water hit.
 
 ◼️
 
 [Data](articles/a9eb20df.json)
 
+[Extended Data](ext_articles/a9eb20df.ext.json)
+
 ---
 
-### නෙදර්ලන්තය පැරදූ ලංකාවට ලකුණු 83ක ජයක්
+### Sri Lanka wins 83 runs in Netherlands
 
 *2024-06-17 09:43:44* · [`adalk`](https://www.ada.lk/sports/නෙදර්ලන්තය-පැරදූ-ලංකාවට-ලකුණු-83ක-ජයක්/9-410252) · `si`
 
-ශ්‍රී ලංකාවේ ලෝක කුසලාන සංචාරය ජයග්‍රහණයකින් අවසන් කිරිමට ශ්‍රි ලංකාව අද සමත්විය. ඒ නෙදර්ලන්තය සමගින් පැවැති තරගය ලකුණු 83කින් ජය ගනිමිනි.
+In a thrilling finale, Sri Lanka clinched victory over the Netherlands in the World Cup, winning by 83 runs. They scored 201/6 in their innings, while the Netherlands could only manage 118 runs. Charith Asalanka, who scored 46 off just 21 balls, was named Man of the Match.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකු‍ණු 201/6 රැස්කළේය. පිළිතුරු ඉනිම ක්‍රිඩා කළ නෙදර්ලන්තයට රැස් කළ හැකිවූයේ ලකුණු 118ක් පමණි.
+🟩
 
-පන්දු 21කින් ලකුණු 46ක් හා පන්දු රැකීමේදි උඩ පන්දු දෙකක් රැක ගත් චරිත් අසලංක තරගයේ වීරයා ලෙස සම්මාන ලැබිය.
+Sri Lanka was able to end Sri Lanka's World Cup with a victory. That was won by 83 runs in the Netherlands.
+
+Sri Lanka scored 201/6 in the first place. Infantly, only 118 runs were able to scope the innings of the innings.
+
+Charith, who was 46 off 21 balls and two balls, were awarded the man of the match.
 
 ◼️
 
 [Data](articles/ac106ada.json)
 
+[Extended Data](ext_articles/ac106ada.ext.json)
+
 ---
 
-### රේස් ඔට්ටු පලක මුදල් සේප්පුව කඩා මුදල් සොරාගෙන
+### Surbed the money for a race betting
 
 *2024-06-17 09:43:26* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-ඔට්ටු-පලක-මුදල්-සේප්පුව-කඩා-මුදල්-සොරාගෙන/11-410251) · `si`
 
-කලුබෝවිල ප්‍රදේශයේ පවත්වාගන්න යනු ලබන රේස් ඔට්ටු පලක් බිද සේප්පුව කඩා මුදල් රුපියල් 213,800/= ක මුදලක් සොරාගන ගොස් ඇති බවට පැමිණිල්ලකට පරීක්ෂණයක් ආරම්භ කර ඇතැයි කොහුවල පොලීසිය පැවසීය.
+A complaint was filed about a race betting fruit stored in Kalubowila. The storage employee was questioned by Migahiyawa Police officers, including Chief Inspector Wasantha Pitigala and Senior Police OIC Mount Lavinia Divisional Police Inspector MD Nilangala, regarding the incident.
 
-මෙම සොරකම.පසුගිය 15 වන දින අලුයම 2.30 ත්,පෙරවරු 8.30 ත් අතර සිදුවී ඇතැයිද සොරා එම කාර්යාලය ඉදිරිපස දොරේ විදුරු බිදදමා ඇතුලුවී කාර්යාලයේ ගබඩා කාමරයේ තිබූ උදෑල්ලක් හා අලවංගුවක් ගෙන සේප්පුව කඩා එහි තිබූ මෙම මුදල් පැහැරගෙන ගොස් ඇති බව උදෑසන කාර්යාලයට පැමිණි සේවකයෙකු දැක පොලීසිය වෙත මෙම පැමිණිල්ල සිදුකරනු ලැබ ඇත.
+🟩
 
-සිද්ධිය පිළිබඳව වැඩිදුර විමර්ශන ගල්කිස්ස කොට්ඨාශ භාර ජේෂ්ඨ පොලිස්‌ අධිකාර ප්‍රශන්න බ්‍රාහ්මණගේ, සහකාර පොලිස්‌ අධිකාරී එම්.ඩී.ඩී.නිලංග යන මහතුන්ගේ අධීක්ෂණය මත කොහුවල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස්‌ පරීක්ෂක වසන්ත පිටිගල මහතා ඇතුලු අපරාධ අංශයේ නිලධාරීනවිසින් ආයතනය හා අවට සී . සී.ටී.වී.දර්ශණ උපයෝගි කරගෙන සිදුකරගෙන යනුද ලබයි .
+A complaint has launched a complaint lodged a complaint that a race betting fruit is being kept in Kalubowila area.
+
+The storage employee had taken place in the morning in the office of the office in the office of the office of the office of the office and the front door of the office, which had taken place in the office of the office.The complaint was carried out.
+
+Migays Police Objectives OIC Chief Inspector Wasantha Pitigala, including the Chief Inspector of Police (CMA), including the Chief Inspector of Police (CMA), including the Senior Police OIC of the Mount Lavinia Divisional Police Inspector MD Nilangala.. The use of CTV signs.
 
 ◼️
 
 [Data](articles/c9d89f94.json)
 
+[Extended Data](ext_articles/c9d89f94.ext.json)
+
 ---
 
-### இனப்படுகொலையாளிகள் மீது நம்பிக்கை வைக்க தமிழர்கள் தயார் இல்லை - அருட்தந்தை மா.சத்திவேல்
+### Tamils ​​are not prepared to rely on genocide - Blessed
 
 *2024-06-17 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186236) · `ta`
 
-இனப்படுகொலையாளிகள் மீது நம்பிக்கை வைக்க தமிழர்கள் தயார் இல்லை என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+Tamils are wary of relying on genocide, says Aruttandanda Ma Sathivel, coordinator of the National Organization for the release of political prisoners. As the country anticipates the presidential election, southern candidates are secretly courting northern voters, allegedly plotting against Tamil interests in the North and East. The statement urges Tamil nationalists to resist these efforts and highlights concerns about chauvinist parties influencing Tamil votes. It calls for recognition of Tamil self-determination by the international community and punishment for war crimes in the International Criminal Court. The text also criticizes politicians for exploiting Tamil issues for personal gain, emphasizing the importance of political integrity and the need to remove chauvinist elements from politics.
 
-நாடு ஜனாதிபதி தேர்தலை எதிர்நோக்கி கொண்டிருக்கையில் தெற்கின் வேட்பாளர்களாக அடையாளப்படுத்திக் கொண்டுள்ளோரில் பிரதானமானவர்களாக கருதப்படுவோர் தமது தேர்தல் களச் சந்தையை வடக்கிலும் விரித்து தமது முகவர்களோடு இரகசிய பேச்சு வார்த்தை நடத்துவதோடு திறந்த வெளியில் ஊடக சந்திப்புகள் நடாத்தி வடக்கு கிழக்கு தமிழ் மக்களை மதி மயங்கச் செய்யவும் வாக்கு சாவடிக்குள் அனுப்பவும் முயலுவதாக தோன்றுகிறது. இவர்களின் சதி வலைக்குள் சிக்க வேண்டாம் என தமிழ் தேச உணர்வாளர்களை கேட்டுக் கொள்கின்றோம்.
+🟩
 
-வடகிழக்கில் தமிழர்கள் மத்தியில் பேரினவாத கட்சிகளின் நேரடி முகவர்களாக செயற்படுவோரை மக்கள் அறிவர். தமிழர் தேசத்தில் தேசியத்தின் ஊற்று என்றும் தாமே சுயநிர்ணயத்தின் தோற்றுவாய் எனவும் பகிரங்கமாக மேடையமைத்து கொக்கரிக்கும் கூட்டம் தற்போது இனப்படுகொலையாளர்களுக்கு துணை முகவர்களாக பொதுவெளியில் செயற்பட தொடங்கி விட்டனர்.
+The Tamils ​​are not ready to rely on the genocide and the co -ordinator of the National Organization for the release of political prisoners, said Aruttandanda Ma Sathivel.
+
+While the country is looking forward to the presidential election, those who are considered to be the leading candidates of the South appear to be in the north of their electoral market, holding a secret talks with their agents and are trying to make the Tamil people in the North and East.. We urge the Tamil nationalists not to get into their plot.
+
+People know those who act as direct agents of chauvinist parties among Tamils ​​in the Northeast. In the Tamil nation, the crowd, which publicly plays the source of nationality and the origin of self -determination, has now begun to act in public as a companion for genocide.
+
+And to whom it is a friendly speech, a smooth talk, a confident talk, and the speech to continue?
 
 ...
 
 [Data](articles/e2027288.json)
 
+[Extended Data](ext_articles/e2027288.ext.json)
+
 ---
 
-### நீர் குழாயில் வெடிப்பு ; பல பகுதிகளில் நீர் விநியோகம் இடைநிறுத்தம்
+### Explosion in the water pipe;Pause water supply in many areas
 
 *2024-06-17 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186233) · `ta`
 
-கலட்டுவாவ நீர் சுத்திகரிப்பு நிலையத்தில் இருந்து மஹரகம பகுதிக்கு நீர் கொண்டு செல்லும்  குழாயில் வெடிப்பு ஏற்பட்டுள்ளதால் பல பிரதேசங்களில் மறு அறிவித்தல் வரை நீர் விநியோகம் இடைநிறுத்தப்பட்டுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+An explosion caused by a car crash into a water transport pipeline near the Kalatuwa Water Planting Center has led to a suspension of water supply in several areas including Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta, and Matagoda. The National Water Supply and Drainage Board will provide further updates.
 
-இன்று திங்கட்கிழமை (17) காலை கார் ஒன்று வீதியை விட்டு விலகி குழாய் மீது மோதியதில் குழாயில் பலத்த சேதம் ஏற்பட்டுள்ளது.
+🟩
 
-இதனால், கொடகம, ஹோமாகம, பன்னிபிட்டி, ருக்மல்கம, பெலன்வத்த, மத்தேகொடை ஆகிய பகுதிகளில் மறு அறிவித்தல் வரை நீர் விநியோகம் இடைநிறுத்தப்பட்டுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+The National Water Supply and Drainage Board said that water supply has been suspended until the re -notice of many areas has been suspended due to the explosion in the water transport pipeline from the Kalatuwa Water Planting Center.
+
+A car crashed into a pipe on Monday (17) this morning.
+
+According to the National Water Supply and Drainage Board, water supply has been suspended until the re -notice of the Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta and Matagoda.
 
 ◼️
 
 [Data](articles/967b904e.json)
 
+[Extended Data](ext_articles/967b904e.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 83ක ජයක්
+### Sri Lanka beat Sri Lanka by 83 runs
 
 *2024-06-17 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197838) · `si`
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ ශ්‍රී ලංකාව සහ නෙදර්ලන්තය අතර අද (17) පැවති තරගය ලකුණු 83කින් ජය ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Sri Lanka triumphed over the Netherlands in a World Cup match, winning by 83 runs. Batting first, Sri Lanka made 201/5 in 20 overs, with Kusal Mendis and Charith Asalanka contributing 46 runs each. The Netherlands were bowled out for 118 in 16.4 overs, Nuwan Thushara taking three key wickets.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 201ක් රැස්කළේය.
+🟩
 
-එහිදී කුසල් මෙන්ඩිස් සහ චරිත් අසලංක ලකුණු 46 බැගින් රැස් කළහ.
+Sri Lanka won the match between Sri Lanka and the Netherlands in the World Cup match today (17).
 
-අනතුරුව පිළිතුරු ඉනිම ක්‍රීඩාකළ නෙදර්ලන්ත කණ්ඩායම පන්දු ඕවර 16.4කදී සියලුදෙනා දැවී රැස්කළේ ලකුණු 118ක් පමණි.
+Batting first Sri Lanka scored 201 201 2014 in 20 overs.
 
-පන්දු යැවීමෙන් නුවන් තුෂාර කඩුලු 3ක් දවා ගත් අතර මතීෂ පතිරණ සහ වනිඳු හසරංග කඩුලු 2ක බැගින් දවා ගත්හ.
+Kusal Mendis and Charith scored 46 runs each.
+
+In reply, the Netherlands team scored 118 runs in 16.4 overs.
+
+Nuwan Thushara took three wickets in their bowling.
 
 ◼️
 
 [Data](articles/c343c9fb.json)
+
+[Extended Data](ext_articles/c343c9fb.ext.json)
 
 ---
 
@@ -216,55 +268,77 @@ Both arrested have been handed over to the Katunayake Airport Criminal Investiga
 
 ---
 
-### හෙරොයින් සමග ගැඹුරු මුහුදේදී අත්අඩංගුවට පත්වූ ධීවරයින් ගැන ගත් තීරණය
+### Decision taken on fishermen arrested in deep sea with heroin
 
 *2024-06-17 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197836) · `si`
 
-හෙරොයින් තොගයක් බහුදින ධීවර යාත්‍රාවක සඟවා මෙරටට රැගෙන එමින් සිටියදී දකුණු මුහුදේදී අත්අඩංගුවට ගත් ධීවරයින් 06 දෙනාව අධිකරණයට ඉදිරිපත්කර තිබේ.
+Six fishermen arrested off Sri Lanka's coast for possessing 131 kilograms of heroin were charged in court after being transported from a remote area.
 
-පොලීසිය පැවසුවේ 15 වනදා අත්අඩංගුවට ගැනුණු ඔවුන්ව 16 වනදා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ජූනි 21 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+🟩
 
-එම යාත්‍රාවේ හෙරොයින් කිලෝ 131ක් පමණ තිබූ බව පොලීසිය පැවසීය.
+The six fishermen who were arrested in the right sea were produced before courts while he was brought to Sri Lanka hidden in a multi-day fishing vessel.
+
+The police said that they were arrested on the 15th and was produced before the Colombo Chief Magistrate.
+
+The police said that about 131 kilos of heroin.
 
 ◼️
 
 [Data](articles/05cda43e.json)
 
+[Extended Data](ext_articles/05cda43e.ext.json)
+
 ---
 
-### பரிசோதனை முயற்சி ஒன்றை செய்து பார்க்கப் பொருத்தமான சூழல் நாட்டில் இல்லை : ஒரே தலைவர் ரணில் - பிரசன்ன ரணதுங்க
+### There is no appropriate environment in the country to make an experiment: only leader Ranil - Prasanna Ranatunga
 
 *2024-06-17 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186231) · `ta`
 
-ஜனாதிபதி தேர்தலில் பரிசோதனை முயற்சி ஒன்றை செய்து இன்னொரு தடவை கேட்டு சாப்பிடுவதா என்பதை மக்கள் தீர்மானிக்க  வேண்டும். நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்து சிக்கல்கள் உருவாகியுள்ள இவ்வேளையில் மேலும் பல சோதனைகளுக்குச் சென்று இன்னொரு தடவை  கேட்டு சாப்பிடுவதா என்பதை மக்கள் தீர்மானிக்க வேண்டும் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க வலியுறுத்துகின்றார்.
+Minister Prasanna Ranatunga highlights the urgency for citizens to decide on participating in further examinations amidst the country's economic downturn. Leaders from United People's Power and National People's Power indirectly endorse Ranil Wickremesinghe's continuation as president to navigate the economic crisis. Ranatunga expresses personal support for Wickremesinghe, citing his experience and international connections. He addresses concerns over political instability and the importance of choosing leaders based on the country's needs rather than personal preferences.
 
-தற்போதைய ஜனாதிபதியின் வேலைத்திட்டத்தை தொடர்வதன் மூலம் நாட்டை பொருளாதார நெருக்கடியில் இருந்து மீளச்செய்ய முடியும் எனவும், பரிசோதனை முயற்சி ஒன்றை செய்து பார்க்கப் பொருத்தமான சூழல் நாட்டில் இல்லை என்பதால் ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக பதவியில் அமர்த்துவதை தவிர வேறு வழியில்லை எனவும் ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்தியின் தலைவர்கள் மறைமுகமாக ஏற்றுக்கொண்டுள்ளனர்.
+🟩
 
-மினுவாங்கொடை பிரதேசத்தில் ஞாயிற்றுக்கிழமை (16) இடம்பெற்ற கூட்டத்தில் கலந்து கொண்டதன் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+People have to decide whether to make an examination attempt in the presidential election and ask for another time. Minister of Urban Development and Housing Prasanna Ranatunga urges people to decide whether to go to many more tests and eat another time, while the country's economy has collapsed.
+
+Leaders of the United People's Power and National People's Power have indirectly accepted that the country could be recovered from the economic crisis by continuing the current president's program and that there was no choice but to re -appoint Ranil Wickremesinghe as president.
+
+Responding to questions raised by journalists after attending a meeting held on Sunday (16) in Minuwangoda, the Minister said this.
+
+Answer - Yes, of course the election must be held. Constitutionally, the presidential election must be held this year.
+
+Question - Looks like there is no election.Is this a lie?
 
 ...
 
 [Data](articles/a3394dfe.json)
 
+[Extended Data](ext_articles/a3394dfe.ext.json)
+
 ---
 
-### மதன மோதகம் விற்பனை செய்த கடையொன்று சுற்றிவளைப்பு - இருவர் கைது!
+### A shop selling a religious conflict - two arrested
 
 *2024-06-17 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186230) · `ta`
 
-கண்டி, மெனிக்ஹின்ன பிரதேசத்தில் கடையொன்றில் மதன மோதகம் விற்பனை செய்யப்படுவதாக கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் 50,000 மதன மோதக உருண்டைகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+In Menikhinna, Kandy, a shop allegedly sold religious conflicts, leading to the arrest of two suspects worth 2 million rupees. The operation, directed by the Chief Inspector of the Criminal Investigation Division, targeted a black market dealing in religious artifacts, including items purchased by schoolchildren without proper recommendations.
 
-அதனடிப்படையில் நேற்று ஞாயிற்றுக்கிழமை (16) இருவரை பொலிஸார்  சந்தேகத்தின் பேரில் கைது செய்துள்ளனர்.
+🟩
 
-இந்த மதன மோதக உருண்டைகளின் பெறுமதி சுமார் 02 மில்லியன் ரூபா என பொலிஸார் தெரிவித்துள்ளனர்.
+A total of 50,000 religious conflicts have been discovered in a roundup of information received that a religious conflict was being sold at a shop in Menikhinna, Kandy.
 
-உள்ளூர் மருத்துவரின் சிபாரிசு இல்லாமல் மதன மோதகம் வாங்க முடியாத நிலையிலும் பாடசாலை  பிள்ளைகள்   கூட இங்கிருந்து மதன மோதக மாத்திரைகளை வாங்கிச் சென்றுள்ளனர் என  பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் பொலிஸார் சோதனையில் ஈடுபட்டுள்ளனர்.
+Accordingly, two men were arrested on Sunday (16) on suspicion.
 
-மெனிக்ஹின்ன பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் எம்.டி.சந்திரபாலவின் பணிப்புரைக்கமைய குற்றத்தடுப்பு பிரிவின் பிரதான பரிசோதகர் சிந்தக பண்டார உள்ளிட்ட குழுவினர் இந்த சுற்றிவளைப்பை மேற்கொண்டுள்ளனர்.
+The value of these conflicts rolls is about 2 million rupees, police said.
+
+Police are investigating the information received by the police that even though school children have been bought from here, even though they are unable to buy a religious conflict without the recommendation of the local doctor.
+
+The raid was carried out by the Chief Inspector of the Criminal Investigation Division, Chintaka Bandara, according to the direction of the Chief Inspector of the Menikhinna Police Station, MD Chandrapala.
 
 ◼️
 
 [Data](articles/abe5edd6.json)
+
+[Extended Data](ext_articles/abe5edd6.ext.json)
 
 ---
 
@@ -294,45 +368,57 @@ Meanwhile, two couples aged 22, 23, 26 and 27 are to be produced in court, polic
 
 ---
 
-### හජ් උත්සවය අදයි
+### Hajj festival is today
 
 *2024-06-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197835) · `si`
 
-ඉස්ලාම් ජනතාව මහත් හරසරින් සමරන හජ් උත්සවය අදට (17) යෙදී තිබේ.
+Today marks the Hajj festival, a significant event in Islam celebrated on the 17th. The Colombo Maha Church also made an announcement today, following last week's events. Known as Dul Hajj, it falls on the 10th day of Dul Hijjah, emphasizing unity and equality among believers. This festival, held in Saudi Arabia, is seen as a glorious opportunity for spiritual growth and fostering global peace.
 
-පසුගිය සතියේ නව සද බැලීමෙන් පසු කොළඹ මහ පල්ලිය නිවේදනය කළේ අද දිනයේ එම උත්සවය සැමරීමට කටයුතු කරන බවය.
+🟩
 
-ඉස්ලාමීය මාස ක්‍රමය අනුව දුල් හජ් මස දස වැනි දිනයේ දී පවත්වන උත්සවය මෙම නමින් හැදින්වේ.
+The Hajj festival of Islam has been played today (17).
 
-ඉස්ලාමීය බැතිමතුන් අනිවාර්යයෙන්ම ඉටුකළ යුතු ප්‍රධාන වගකීම් පහ අතරින් අවසන් වගකීම හජ් වන්දනාව වේ.
+The Colombo Maha Church was announced that the Colombo Maha Church was announced today after looking last week.
 
-ඇති නැති පරතරය සහ විවිධ භේද දුරලා සමානාත්මතාව, සහෝදරත්වය ඇති කිරීම හජ් උත්සවයේ ප්‍රධාන අරමුණය.
+According to the Islamic month, the Dul Hajj on the 10th day of Dul ​​Hajjay is known as the Tenn.
 
-සෞදි අරාබියේ මක්කම නුවර පැවැත්වෙන හජ් වන්දනාව හජ් උත්සවයේ උත්කර්ෂවත් අවස්ථාව ලෙස සැලකේ.
+The last responsibility of the five main responsibilities of the Islamic devotees will definitely the last responsibility.
 
-මේ අතර හජ් උත්සවය වෙනුවෙන් පණිවිඩයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසුවේ ආධ්‍යාත්මික හා ලෞකික වශයෙන් ජයග්‍රහණය ලැබීමට නම් මිනිසා ආත්මාර්ථයෙන් මිදී පරිත්‍යාගයෙන් සහ සහජීවනයෙන් දිවි ගෙවීමට හුරු පුරුදු විය යුතු බවය.
+The main objective of the Hajj festival is the main objective of the Hajj festival, the remote gap and different divisions.
 
-ලෝක වාසී සියලු මනුෂ්‍යයන්ගේ සමානාත්මතාවය සහ සහෝදරත්වය පිළිබඳ හැඟීම් ජනිත කරවන හජ් සැමරුම ලෝක සාමය උදෙසා ද මහඟු පණිවිඩයක් ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+The Hajj Paldeana Hajj festival of Saudi Arabia is considered the glorious opportunity of the Hajj festival.
+
+Meanwhile, President Ranil Wickremesinghe said that he had a message on behalf of the Hajj festival, President Ranil Wickremesinghe said that he should be familiar with self-saving and harmony.
+
+President Ranil Wickremesinghe said that the emotions of the equality and brotherhood of all men and brotherhood will be given a great message for world peace.
 
 ◼️
 
 [Data](articles/41ccbdf4.json)
 
+[Extended Data](ext_articles/41ccbdf4.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවෙන් ප්‍රබල ප්‍රහාරයක්
+### Sri Lanka's powerful attack
 
 *2024-06-17 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197834) · `si`
 
-විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන අවසන් තරගය නෙදර්ලන්ත කණ්ඩායම සමග සාන්ත ලුසියාහිදී මේ වන විට පැවැත්වේ.
+In the T20 World Cup finals at St. Lucia, Sri Lanka faced the Netherlands. Winning the toss, the Netherlands chose to field first. Despite this strategic move, Sri Lanka responded with a formidable batting performance, scoring 201 runs off all 20 overs.
 
-තරගයේ කාසියේ වාසිය දිනාගත් නෙදර්ලන්ත කණ්ඩායම පළමුව පහරදීමේ අවස්ථාව ශ්‍රි ලංකා කණ්ඩායමට ලබා දුනි.
+🟩
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම සිය පන්දුවාර 20 අවසානයේදී කඩුලු 06ක් දැවී ලකුණු 201 ක් ලබා ගත්තේය.
+The finals of the Twenty20 World Cup will be held at St. Lucia with the ENSI team.
+
+The Netherlands team won the toss and elected to attack the Sri Lankan team.
+
+Accordingly, Sri Lanka scored 201 201 2014 at the end of the 20 wickets.
 
 ◼️
 
 [Data](articles/b1ec26c3.json)
+
+[Extended Data](ext_articles/b1ec26c3.ext.json)
 
 ---
 

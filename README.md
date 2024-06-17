@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 01:52:22**
+As of **2024-06-18 02:04:32**
 
 ## Newspaper Stats
 
-*Scraped **30,841** Articles*
+*Scraped **30,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,615
+tamilmirrorlk | 3,616
 dailymirrorlk | 4,733
 virakesarilk | 4,745
 adaderanasinhalalk | 4,999
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,836 (100.0%) of 30,841 articles have been extended.
+30,841 (100.0%) of 30,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### ’தமிழ் பேசும் பொது வேட்பாளரே அவசியம்’
+
+*2024-06-18 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பேசும்-பொது-வேட்பாளரே-அவசியம்/175-339053) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிறுத்தி நாட்டில் உள்ள தமிழ், முஸ்லிம், மலையக சிறுபான்மை சமூகங்களின் ஒட்டுமொத்த பிரதிநிதியாக தமிழ் பேசும் சிறுபான்மை பொது வேட்பாளர் ஒருவர் நிறுத்தப்பட வேண்டும் என்று  ஐக்கிய சமாதான கூட்டமைப்பின் தவிசாளர் பஷீர் சேகுதாவூத் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலில் பொதுவேட்பாளர் தொடர்பில், ஊடகங்களுக்கு திங்கட்கிழமை (17) அனுப்பிவைத்துள்ள ஊடக அறிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+வரவுள்ள ஜனாதிபதி தேர்தல் பேசுபொருளாக மாறியிருக்கின்றது. பெருந்தேசிய கட்சிகளின் உத்தேச வேட்பாளர்கள் வடக்கு, கிழக்கு, மலையகம் ஆகியவற்றுக்கு வந்து சிறுபான்மை சமூகங்களின் ஆதரவை கோரி நிற்கின்றனர்.
+
+இத்தேர்தல் முன்னெப்பொழுதும் இருந்திராத அளவுக்கு மிக பிரமாண்டமான போட்டியாக விஷ்வரூபம் எடுக்க இருக்கின்றது. எந்தவொரு வேட்பாளரும் தனிபெரும்பான்மையுடன் வெற்றி பெறுவது என்பது கல்லில் நார் உரிப்பது போல கடினமாக இருக்கும்.
+
+அதற்கும் அப்பால், எந்தவொரு வேட்பாளரும் 50 சதவீத வாக்குகளை பெற வேண்டுமாயின் உச்ச பட்ச பகீரத பிரயத்தனங்களை மேற்கொள்ள வேண்டி இருக்கும் என்றால் மிகையாகாது.
+
+...
+
+[Data](articles/f663004d.json)
+
+---
 
 ### AG tenure expansion not within CC scope – G.L.
 
@@ -51,6 +71,8 @@ At a press conference, Peiris noted that while the Constitutional Council is set
 ...
 
 [Data](articles/014d5689.json)
+
+[Extended Data](ext_articles/014d5689.ext.json)
 
 ---
 
@@ -76,6 +98,8 @@ He said there is no option for the people of the country other than rallying aro
 
 [Data](articles/00cc0318.json)
 
+[Extended Data](ext_articles/00cc0318.ext.json)
+
 ---
 
 ### Sri Lanka hosts first International Wetland Park Association Conference
@@ -91,6 +115,8 @@ The forum, organised by the Sri Lanka Land Development Corporation (SLLDC) under
 ...
 
 [Data](articles/bd984c29.json)
+
+[Extended Data](ext_articles/bd984c29.ext.json)
 
 ---
 
@@ -110,6 +136,8 @@ The annual NPME Awards, organised by the Project Management Institute of Colombo
 
 [Data](articles/249a6973.json)
 
+[Extended Data](ext_articles/249a6973.ext.json)
+
 ---
 
 ### Eksath appointed to Boards of Palm Garden, Dolphin Hotels
@@ -125,6 +153,8 @@ With over three decades of experience, his leadership prowess and passion for nu
 ...
 
 [Data](articles/7babda6b.json)
+
+[Extended Data](ext_articles/7babda6b.ext.json)
 
 ---
 
@@ -2373,27 +2403,5 @@ However, so far, the police have not taken steps to arrest one of the five major
 [Data](articles/53b66fae.json)
 
 [Extended Data](ext_articles/53b66fae.ext.json)
-
----
-
-### 2 Girls Abuse: Pikku caught up
-
-*2024-06-17 11:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-சிறுமிகள்-துஷ்பிரயோகம்-பிக்கு-சிக்கினார்/175-339013) · `ta`
-
-Pikku, a 12-year-old girl from the Upper area, was arrested for sexually abusing two other girls, ages 12 and 13, in the Tanamalwila Police Division. The case came to light after the victims and their mothers were questioned by the police. Measures are being taken to present the case in court on Monday, where it's alleged Pikku also caused physical harm and depression.
-
-🟩
-
-A Pikku from Upper area has been arrested on charges of sexually abusing two girls aged 12 and 13 years.. The incident took place in the Tanamalwila Police Division.
-
-The incident was revealed when the police summoned the two girls and the mothers of the girls and the two girls.
-
-The police said that steps have been taken to appear in court on Monday (17), who was arrested for allegedly subjected to physical abuse and depression.
-
-◼️
-
-[Data](articles/576c99e3.json)
-
-[Extended Data](ext_articles/576c99e3.ext.json)
 
 ---

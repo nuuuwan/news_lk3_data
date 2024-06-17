@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 12:52:32**
+As of **2024-06-17 13:04:14**
 
 ## Newspaper Stats
 
-*Scraped **30,748** Articles*
+*Scraped **30,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
 adalk | 2,660
-adaderanalk | 3,483
-tamilmirrorlk | 3,604
+adaderanalk | 3,484
+tamilmirrorlk | 3,606
 virakesarilk | 4,721
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,982
@@ -26,87 +26,153 @@ adaderanasinhalalk | 4,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,743 (100.0%) of 30,748 articles have been extended.
+30,748 (100.0%) of 30,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### ඇඹිලිපිටියේදී බෙදූ උරුමය
+### தேங்காய் தலையில் விழுந்ததில் 11 மாத பெண் குழந்தை பலி
+
+*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-தலையில்-விழுந்ததில்-11-மாத-பெண்-குழந்தை-பலி/76-339019) · `ta`
+
+தேங்காய் ஒன்று தலையில் விழுந்ததில் 11 மாத பெண் குழந்தை உயிரிழந்துள்ளதாக கலஹா பொலிஸார் தெரிவித்தனர். கலஹா, தெல்தோட்டை பிரதேசத்திலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+கலஹா தெல்தோட்டை நாரன்ஹின்ன தோட்டத்தில் வசிக்கும் லோகேஸ்வரன் கியாங்ஷினி என்ற சிறுமியே துரதிஷ்டவசமாக உயிரிழந்துள்ளார்.
+
+தந்தை சிறுமியை பக்கத்து வீட்டுக்கு அழைத்துச் சென்றுவிட்டு திரும்பி வந்து கொண்டிருந்தபோது, ​​வீட்டின் முன்புறம் முப்பது அடி தூரத்தில் இருந்த தென்னை மரத்தில் இருந்து காய்ந்த காய் ஒன்று அவள் தலையில் விழுந்தது.
+
+பின்னர் அதே சிறுமியை முச்சக்கர வண்டியில் தெல்தோட்டை பிரதேச வைத்தியசாலைக்கு அழைத்துச் சென்றுள்ளனர்.அந்த வைத்தியசாலையில் இருந்து சிறுமியின் நிலைமை மிகவும் மோசமாக இருந்ததால் பேராதனை போதனா வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர்.
+
+இவர்கள் வசிக்கும் வரிசை வீடுகளுக்கு அருகாமையில் உள்ள தென்னை மரங்களில் இருந்தே தேங்காய் விழுந்ததாக விசாரணைகளை மேற்கொண்டு வரும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த வீடுகளில் மேலும் பல சிறு பிள்ளைகள் மற்றும் பலர் இருந்த போதும் இங்குள்ள அபாயம் தொடர்பில் அதிக கவனம் செலுத்தவில்லை எனவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/78337b68.json)
+
+---
+
+### President awards freehold land deeds to Mahaweli Walawa settlers
+
+*2024-06-17 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99925/president-awards-freehold-land-deeds-to-mahaweli-walawa-settlers-) · `en`
+
+President Ranil Wickremesinghe has distributed freehold deeds to 1,524 out of the 45,253 eligible Mahaweli Walawa settlers today (17), under the ‘Urumaya’ national program.
+
+The programme was held at the Ambilipitiya Mahaweli Office Stadium this morning (16) under the patronage of President Wickremesinghe, the President’s Media Division (PMD) said.
+
+The ‘Urumaya’ national program is expected to grant 2 million freehold land deeds to people across the island.
+
+◼️
+
+[Data](articles/14606f08.json)
+
+---
+
+### Distributed inheritance in Embilipitiya
 
 *2024-06-17 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197843) · `si`
 
-"උරුමය" සින්නක්කර ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ, සුදුසුකම්ලත් මහවැලි-වලව කලාපයේ ජනපදිකයන් 45,253 ක් අතුරින් 1,524 දෙනෙකු වෙත සින්නක්කර ඔප්පු ප්‍රදානය කිරීම අද (17) සිදුකළේය.
+In Embilipitiya, under President Ranil Wickremesinghe's patronage, deeds related to distributed inheritance were handed over to the Embilipitiya Mahaweli Stadium as part of a national program.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේදී එම ඔප්පු ප්‍රධානය සිදුකළ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+🟩
+
+Under the National Program for providing Rs.
+
+The deeds were handed over to the Embilipitiya Mahaweli Stadium in Embilipitiya under the patronage of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/829fe8d1.json)
 
+[Extended Data](ext_articles/829fe8d1.ext.json)
+
 ---
 
-### හැත්තෑවේ පියාට පහර දුන් දුවට පියවරුන්ගේ දිනයේ දුන් තීන්දුව
+### The verdict of the father of Father's Day to the daughter of the father
 
 *2024-06-17 12:31:38* · [`adalk`](https://www.ada.lk/breaking_news/හැත්තෑවේ-පියාට-පහර-දුන්-දුවට-පියවරුන්ගේ-දිනයේ-දුන්-තීන්දුව/11-410256) · `si`
 
-හැත්තෑ හැවිරිදි සිය පියාට පහරදුන් විසි නව හැවිරිදි දියණියක් සම්බන්ධයෙන් නාඋල පොලිසියට ලද පැමිණිල්ලකට අනුව එම කාන්තාව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කල විට නාඋල වැඩබලන මහේස්ත්‍රාත් ශ්‍යාමලි විජේරත්න මහත්මිය සැකකාරිය ලබන බදාදා19දා තෙක් රක්ෂිත බන්ධනාගාර ගතකිරිමට පසුගිය 16දා නියෝග කලාය.
+A man was arrested and remanded after assaulting his daughter's father. The incident led to a complaint filed by the victim's father, resulting in the suspect being taken into custody. Further investigation is ongoing under the direction of the Attorney General.
 
-මෙලෙස රක්ෂිත බන්ධනාගාර ගත වූයේ 29 හැවිරිදි කනුමුලයාය,අරංගල, ලිපිනයේ පදිංචිව සිටි තැනැත්තියක් බව නාඋල පොලිසිය කියයි.
+🟩
 
-සැකකාරියගේ පියා  සිද්ධිය සම්බන්ධයෙන් නාඋල පොලිසියට සිදුකල පැමිණිල්ලකට අනුව සැකකාරිය පොලිසිය විසින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබිනි.
+The suspect was remanded until the 16th of his father's complaint with a complaint lodged with a three-year-old daughter to the courts.
 
-පොලිසිය සිදුකරන ලද මුලික විමර්ෂන වල දි අනාවරණය වී ඇත්තේ අදාල සැකකාරිය පිරිමි පුද්ගලයෙකු සමග නිවසට පැමිණ රැදි සිටිමට උත්සහ කරද්දි ඊට විරුද්ද වී ඇති සිය පියාට සැකකාර කාන්තාව පහර දී ඇති බවයි.
+The time was remanded, the 29-year-old Ceylon, Arangala, a resident of the address, says Naula Police.
 
-නාඋල පොලිසියේ වැඩබලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක දීපාල් කුමාර මහතාගේ උපදෙස් පරිදි නාඋල පොලිසියේ නිලධාරිහු පිරිසක් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ෂන සිදුකරති.
+The suspect was arrested and produced before the court on a complaint lodged by the suspect's father in connection with the incident.
+
+The police have revealed that the suspect was trying to return to the house with a male, he had assaulted her father's suspect.
+
+At the instructions of the Attorney General Deepal Kumara, Chief Inspector General of Police, the Naula Police are investigating further investigations.
 
 ◼️
 
 [Data](articles/619d1428.json)
 
+[Extended Data](ext_articles/619d1428.ext.json)
+
 ---
 
-### සුදු වැන් රථයකින් පැමිණි පිරිසක් තරුණයෙක්ව පැහැරගෙන
+### A group of white van abducted a young man
 
 *2024-06-17 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197842) · `si`
 
-සුදු වැන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇඳගත් පිරිසක් තරුණයෙකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය පවසයි.
+In Kalutara South, a young man was abducted from a white van by suspects, including a 24-year-old from Hynatiyanwewa. Investigations are ongoing after the victim filed a complaint. The suspects are expected to be arrested.
 
-මෙසේ පැහැර ගෙන ගොස් ඇත්තේ කළුතර හීනටියංගල ප්‍රදේශයේ  24 හැවිරිදි තරුණයෙකු බව පොලිසිය කීය.
+🟩
 
-පැහැරගෙන ගොස් ඇති තරුණයාගේ මව විසින් කළ පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+Kalutara South Police say investigations are conducted on a complaint that a black dress in a white van has been abducted.
 
-සැකකරුවන් සුදු පැහැති වැන් රථයකින් පැමිණ හීනටියංගල දේවස්ථානය ආසන්නයේ දී එම තරුණයා ට පහරදී ඔහුව පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කල පරීක්ෂණවලදී හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කරයි.
+The suspects were a 24-year-old youth in Hynatiyanwewa, Kalutara.
 
-සැකකරුවන් හඳුනාගෙන ඇති බවත් ඔවුන් ප්‍රදේශය හැරගොස් සිටින බවත් ඔවුන්ව කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් කළුතර උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+According to a complaint lodged by the abducted young man, investigations have commenced.
+
+The suspects have been identified as a white van, police said.
+
+The suspects have been identified and they have been abandoned and they will be arrested and will be arrested.
 
 ◼️
 
 [Data](articles/e5917ecd.json)
 
+[Extended Data](ext_articles/e5917ecd.ext.json)
+
 ---
 
-### மனச்சோர்வை - சலிப்பை ஏற்படுத்தும்-  இடைவிடாத செய்திகளால்  மக்கள் செய்திகளில் இருந்து விலகி ஓடுகின்றனர் - சர்வதேச ஆய்வில் தகவல்
+### Depression - boring - people run away from the news with relentless news - International study information
 
 *2024-06-17 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186262) · `ta`
 
-அதிகளவு மக்கள் செய்திகளில் இருந்து விலகிச்செல்கின்றனர் - என்பது சர்வதேச ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+An international study found that many people are avoiding news, citing it as depressing, relentless, and boring. The Reuters Institute study showed a 29% increase in news avoidance since 2017, possibly linked to global conflicts like the Middle East-Ukraine war. Interestingly, during election periods, such as in the United States, there's a slight increase in news consumption. Despite this, overall engagement remains low, with 47% showing less interest compared to 63% in 2017. Nick Neemon highlighted the challenge in shaping public opinion through news amid widespread disinterest.
 
-செய்திகள் மனச்சோர்வை ஏற்படுத்துபவையாகவும் இடைவிடாதவையாகவும் சலிப்பை ஏற்படுத்துபவையாகவும் காணப்படுகின்றன என ஆய்வில் கலந்துகொண்டவர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-ஆய்வில் கலந்துகொண்டவர்களில் பத்தில் நால்வர்(39) தாங்கள் செய்திகளில் இருந்து விலகிச்செல்வதாக குறிப்பிட்டுள்ளனர் என ஒக்ஸ்போர்ட் பல்கலைகழகத்தின் ரொய்ட்டர் நிறுவகம் தெரிவித்துள்ளது.
+International study revealed that most people are getting away from news.
 
-2017 இல் இவ்வாறான ஆய்வொன்று இடம்பெற்றவேளை அதில் கலந்துகொண்டவர்களில் 29 வீதமானவர்கள் தாங்கள் செய்திகளை தவிர்ப்பதாக தெரிவித்திருந்தனர்.
+The study said that the news was depressed, relentless and boring.
 
-மத்திய கிழக்கு உக்ரைன் யுத்தம் காரணமாக மக்கள் செய்திகளை கைவிடும் நிலையேற்பட்டிருக்கலாம் என ஆய்வறிக்கையை மேற்கொண்டவர்கள் தெரிவித்துள்ளனர்.
+Those who participated in the study have stated that they have refused from the news, according to the Reuters Institute of Oxford University.
 
-முன்னர் ஒருபோதும் இல்லாத அளவிற்கு செய்திகளை தவிர்ப்பது அதிகமாக காணப்படுகின்றது என சர்வதே ஆய்வினை முன்னெடுத்தவர்கள் தெரிவித்துள்ளனர்.
+In 2017, 29 percent of the participants said they would avoid the news.
 
-இந்த வருடம் ஜனவரி பெப்ரவரி மாதங்களில் 47 நாடுகளை சேர்ந்த 94இ943 பேரிடம் நடத்தப்பட்ட ஆய்வு முடிவுகளே வெளியாகியுள்ளன.
+Researchers have said that the people may have been abandoning news due to the Middle East Ukraine war.
+
+Those who carried out the survey have said that it is more likely to avoid messages that have never been previously unprecedented.
+
+In February this year, the results of the study of 94 -e 943 people from 47 countries have been revealed.
+
+The results of the study have been revealed as billions of people in many countries of the world are to vote.
+
+The study reveals that some countries, including the United States, have increased interest in news due to elections.
 
 ...
 
 [Data](articles/81581d6e.json)
+
+[Extended Data](ext_articles/81581d6e.ext.json)
 
 ---
 
@@ -123,6 +189,24 @@ Issuing a clarification on certain speculations and misconceptions regarding the
 [Data](articles/e2662608.json)
 
 [Extended Data](ext_articles/e2662608.ext.json)
+
+---
+
+### “நானும் போட்டியிடுவேன்”
+
+*2024-06-17 12:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-போட்டியிடுவேன்/175-339016) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவில் 50% வீதமானவர்கள் தயாராக இருந்தால் ஜனாதிபதி தேர்தலில் போட்டியிடுவேன் என பாராளுமன்ற உறுப்பினரும் தொழிலதிபருமான தம்மிக்க பெரேரா தெரிவித்தார்.
+
+கட்சி தனக்கு பத்து நிபந்தனைகளை விதித்துள்ளதாகவும், அந்த நிபந்தனைகளின்படி தான் அனைத்து திட்டங்களையும் தயார் செய்ததாகவும் தெரிவித்துள்ளார்.
+
+அந்த பத்து நிபந்தனைகளுக்கு அமைவாக எவ்வாறு பாதுகாப்பை கட்டியெழுப்புவது மற்றும் பொருளாதாரத்தை எவ்வாறு கட்டியெழுப்புவது என்பது தொடர்பிலும் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+மேலும், "நான் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர். என்ன நடக்கிறது என்று பார்ப்போம். ஜனாதிபதித் தேர்தலுக்கு இன்னும் 115 நாட்களே உள்ளன." என அவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/67890370.json)
 
 ---
 
@@ -524,19 +608,25 @@ The National Consumer Front leader said that the increase in prices of imported 
 
 ---
 
-### දසුන්ගෙන් බිංදු වාර්තාවක්
+### Drive record of Views
 
 *2024-06-17 09:53:36* · [`adalk`](https://www.ada.lk/breaking_news/දසුන්ගෙන්-බිංදු-වාර්තාවක්/11-410253) · `si`
 
-විස්සයි 20 පිටියේදී ශ්‍රී ලංකා පිතිකරුවෙක් ලකුණු නොලබා (එනම් ලකුනු බිංදුවට) වැඩිම වාර ගණනක් දැවි ගිය ක්‍රීඩකයා ලෙස ශ්‍රී ලංකා හිටපු නායක දසුන් ශානක අද වාර්තා අතරට එක්විය. ඒ නෙදර්ලන්තය සමග පැවැති තරගයේදීද දසුන් ශානක තමන් මුහුණ දුන් පළමු පන්දුවෙන්ම දැවි යාමත් සමගිනි.
+Sri Lanka's cricketer Shanaka, formerly the team captain, faced the British player in a Twenty20 match, getting out on the first ball against the Netherlands. In the Vasai 20 International series, there have been 100 matches, with 11 ending without any wickets falling. Former captain Dilshan has been dismissed only once in his 80 matches.
 
-මේ අනුව දසුන් ක්‍රිඩා කර ඇති විස්සයි20 ජාත්‍යන්තර තරග 100දි ඔහු අවස්ථා 11ක් ලකුණු නොලබාම පිටියෙන් ඉවත්ව ගොස් තිබේ.
+🟩
 
-මිට පෙර එම වාර්තාවට හිමිකම් කිවේ හිටපු නායක තිලකරත්න ඩිල්ෂාන්ය ඔහු තරග 80කදී අවස්ථා 10ක් ලකුනු නොලබා පිටියෙන් ඉවත්ව ගොස් තිබේ.
+Sri Lanka's former Sri Lanka captain Views Shanaka today joined the British player at Twenty20:30. Views in the match with the Netherlands were also buried with the first ball of the first ball.
+
+Accordingly, the Vasai 20 International matches have been played in 100 occasions, 11 occasions have left without marks.
+
+Former leader Tillakaratne Dilshan, he has left for 80 cases in 80 matches.
 
 ◼️
 
 [Data](articles/c63d6d39.json)
+
+[Extended Data](ext_articles/c63d6d39.ext.json)
 
 ---
 
@@ -2167,73 +2257,5 @@ He has imposed various allegations against the Tamil Civil Organization, the "Ta
 [Data](articles/085d5750.json)
 
 [Extended Data](ext_articles/085d5750.ext.json)
-
----
-
-### Third National Hospital in Karapitiya
-
-*2024-06-16 19:07:04* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ලංකාවේ-තෙවැනි-ජාතික-රෝහල-කරයි/11-410248) · `si`
-
-The Third National Hospital in Sri Lanka, known as Karapitiya Hospital in Galle, was announced by Health Minister Ramesh Pathirana. Additionally, he mentioned plans to reform the Colombo General Hospital and the Eye Ward complex within two decades. The minister also discussed a pharmaceutical issue, stating that out of 850 drugs, only a few essential ones were available, while others were out of stock.
-
-🟩
-
-Minister of Health Minister Ramesh Pathirana stated that the third national hospital in Sri Lanka is named the Karapitiya Hospital in Galle.
-
-The Minister also said that the Colombo General Hospital and the Eye Ward complex will be reformed by the year after 20 years.
-
-Meanwhile, Minister Ramesh Pathirana further pointed out that the 850 pharmaceutical haul, except for several essential drugs, all living drugs are run.
-
-◼️
-
-[Data](articles/1d29ae7c.json)
-
-[Extended Data](ext_articles/1d29ae7c.ext.json)
-
----
-
-### Israel pauses military activity along southern Gaza road to facilitate aid
-
-*2024-06-16 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99913/israel-pauses-military-activity-along-southern-gaza-road-to-facilitate-aid) · `en`
-
-The Israeli military said on Sunday it would hold daily tactical pauses in military activity along a main road in southern Gaza to allow more aid to flow into the enclave, where international aid organisations have warned of a growing humanitarian crisis.
-
-Fighting in the city of Rafah, where Israel is targeting the remaining brigades of the militant Islamist Hamas movement, would continue, the military said.
-
-It said military activity would be paused from 0500 GMT until 1600 GMT daily until further notice along the road that leads from the Kerem Shalom Crossing to the Salah al-Din Road and then northwards.
-
-Despite growing international pressure for a ceasefire, an agreement to halt the fighting still appears distant, more than eight months since the start of the war in the Palestinian enclave.
-
-...
-
-[Data](articles/ce7ffef4.json)
-
-[Extended Data](ext_articles/ce7ffef4.ext.json)
-
----
-
-### 7157 artefacts are missing in 80 years
-
-*2024-06-16 19:02:39* · [`adalk`](https://www.ada.lk/breaking_news/වසර-80කදී-කෞතුක-භාණ්ඩ-7157ක්-අස්ථානගත-වෙලා/11-410247) · `si`
-
-In 80 years, from 1877 to 1957, 7157 artifacts belonging to Sri Lanka went missing. A 2023 audit highlighted government non-compliance with financial regulations regarding these losses, attributing them to departmental weaknesses and inadequate maintenance during officer transfers.
-
-🟩
-
-The National Audit Office stated that 7157 artifacts belonging to Sri Lanka has been lost in 07 years from 1877 to 1957.
-
-According to the review of the artifacts of May 2023, these michological goods are located in the year 1877 to 1957.
-
-The audit reveals that the government has not acted in accordance with the financial regulations regarding the misplace of this artifact.
-
-The audit revealed that the weaknesses of the department have caused the weaknesses of the department, which is not properly not maintained in the change of officers (other places transfer) to the custody of artifacts.
-
-It has been revealed that this information has been revealed by the Audit Report in the Task Report issued by the Department of National Museums 2023.
-
-◼️
-
-[Data](articles/8b43fb0f.json)
-
-[Extended Data](ext_articles/8b43fb0f.ext.json)
 
 ---

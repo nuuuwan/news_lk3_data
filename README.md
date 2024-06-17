@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 16:34:57**
+As of **2024-06-17 16:51:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,786 (100.0%) of 30,790 articles have been extended.
+30,790 (100.0%) of 30,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### පුංචි සිඟිත්තිය මරු තුරුලට යැවූ පොල් ගෙඩිය
+### Coconut oil sent to flour
 
 *2024-06-17 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197852) · `si`
 
-ගලහ, නාරංහින්න ප්‍රදේශයේ දී පොල් ගෙඩියක් හිස මතට වැටීමෙන් සිදුවු අනතුරකින් කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+In the Narangayanna area, an 11-month-old girl died after a falling coconut hit her. The incident occurred when her father was away, and she was playing near a dried coconut. She was rushed to the Peradeniya Teaching Hospital but succumbed to her injuries.
 
-එලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ මාස 11ක් වයසැති කුඩා දැරියක් බව පොලීසිය සඳහන් කළේය.
+🟩
 
-පියා දැරිය රැගෙන අසල්වැසි නිවසක් වෙත ගොස් යළි එමින් සිටිය දී නිවස ඉදිරිපිට තිබූ පොල්ගසක වියළි ගෙඩියක් පුංචි දැරියගේ හිසට වැටී අනතුර සිදුව තිබිණි.
+A small girl was killed in the fall of a coconut in the Narangayanna area.
 
-බරපතළ තුවාල ලැබු දැරිය දෙල්තොට රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා පේරාදෙණිය ශික්ෂණ රෝහල වෙත මාරු කර යවා තිබේ.
+The victim was a 11-month-old girl, police said.
+
+While the father had gone to a neighboring house and returned to a neighboring house, a dry bound of a coconut in front of the house had fallen into the head of the girl.
+
+The girl who was injured was admitted to the Peradeniya Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/06fef06c.json)
+
+[Extended Data](ext_articles/06fef06c.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ The move was widely expected following Benny Gantz’s departure earlier this mo
 ...
 
 [Data](articles/19ebb5ff.json)
+
+[Extended Data](ext_articles/19ebb5ff.ext.json)
 
 ---
 
@@ -724,17 +732,23 @@ The arrested person and the recovered cannabis have been handed over to the Kayt
 
 ---
 
-### ලංකාවේ විශාලම ‌සෙල්ලිපිය දින තුනක් තිස්සේ අඛණ්ඩව කියවා අවසන්
+### Sri Lanka's largest inscription has been read continuously for three days
 
 *2024-06-17 13:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-‌සෙල්ලිපිය-දින-තුනක්-තිස්සේ-අඛණ්ඩව-කියවා-අවසන්/11-410262) · `si`
 
-ඓතිහාසික දිඹුලාගල කඳුමුදුනින් හමුවූ ශ්‍රි ලංකාවේ විශාලතම සහ දුර්ලභ ගණයේ සෙල්ලිපිය, පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ විශේෂ කණ්ඩායමක් දින තුනක කාලයක් කඳු මුදුනේ දිවා රාත්‍රී ගත කරමින් කියවා අවසන් බව ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනාධිපති දිඹුලාගල රාහුලාලංකාර නාහිමියන් සඳහන් කළහ.
+Archaeologists in Sri Lanka have been reading the country's largest ancient inscription, located at Dimbulagala, non-stop for three days. This rare and significant find, believed to date back to the second century BCE, is expected to offer valuable insights into the history and culture of the region. The inscription, measuring 50 feet, is part of ongoing efforts to preserve and understand Sri Lanka's rich archaeological heritage.
 
-ශ්‍රි ජයවර්ධනපුර විශ්වවිද්‍යාලයේ, මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි, ශ්‍රී ලංකා භික්ෂු විශ්ව විද්‍යාලයේ පීඨාධිපති ,ගල්වැවේ විමලචන්ති හිමි,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛනාංශයේ සංවර්ධන නිලධාරී,කන්තලේ සුමිත්ත හිමි,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛනාංශයේ සහකාර අධ්‍යක්ෂක,බුද්ධි නාගොඩවිතාන,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශය පර්යේෂණ නිලධාරී තනුර දයානන්ද,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ සහකාර අධ්‍යක්ෂක,කෞශල්‍යා දිසානායක පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ පර්යේෂණ නිලධාරී,තුෂාරි සහම්පති, යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් කණ්ඩායමක් ඉකුත් 15 වෙනිදා සිට සෙල්ලිපිය කියවීම් කටයුතු ආරම්භ කර 17 වෙනිදා අළුයම් කාලය දක්වාම එම සෙල්ලිපිය කියවීමේ කටයුතු සිදුකළ බව රාහුලාලංකාර නාහිමියන් පැවසූහ.
+🟩
+
+The historic Dimbulagala Aranya Senanayake Thera said that the largest group of Sri Lanka, the historic and rare species of Dimbulagala, has been completed for three days on the historic Dimbulagala Tightening.
+
+Assistant Director of the Department of Archeology, Department of Archeology, Department of Archeology, Department of Archeology, University of Archeology, University of Archeology, the University of Archeology, the University of Archeology, the University of Archeology, University of Archeology of the University of Sri Lanka, University of Archeology. DocumentsAccording to the Rahulakara, Research Officer of the Archeology of the Department of Archeology, the Department of Archeology, commenced from the Department of Archeology, and the inscription was commenced since the 17th.
 
 ...
 
 [Data](articles/22c3cc7d.json)
+
+[Extended Data](ext_articles/22c3cc7d.ext.json)
 
 ---
 
@@ -1143,6 +1157,8 @@ A pre-feasibility study for a land connection between Sri Lanka and India has be
 ...
 
 [Data](articles/bae55694.json)
+
+[Extended Data](ext_articles/bae55694.ext.json)
 
 ---
 

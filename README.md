@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 12:19:19**
+As of **2024-06-17 12:34:31**
 
 ## Newspaper Stats
 
-*Scraped **30,736** Articles*
+*Scraped **30,743** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 282
 dbsjeyarajcom | 284
-bbccomsinhala | 299
+bbccomsinhala | 300
 newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
 adalk | 2,658
-adaderanalk | 3,482
-tamilmirrorlk | 3,603
-virakesarilk | 4,716
+adaderanalk | 3,483
+tamilmirrorlk | 3,604
+virakesarilk | 4,720
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,980
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,736 (100.0%) of 30,736 articles have been extended.
+30,736 (100.0%) of 30,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### Finance Ministry issues clarification on proposed imputed rental income tax
+
+*2024-06-17 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99924/finance-ministry-issues-clarification-on-proposed-imputed-rental-income-tax) · `en`
+
+Sri Lanka’s Ministry of Finance, Economic Stabilization and National Policies states that the recent publication of the International Monetary Fund (IMF) supported Extended Fund Facility (EFF) programme related documents make reference to a proposed property tax is to be implemented as an imputed rental income tax.
+
+Issuing a clarification on certain speculations and misconceptions regarding the relevant tax, the Finance Ministry said that one of the key reasons for Sri Lanka’s deep, complex and unprecedented economic crisis is the sharp decline in government tax revenue that led to high budget deficits and resultant escalation of public debt to unsustainable levels.
+
+...
+
+[Data](articles/e2662608.json)
+
+---
+
+### இன்னும் 115 நாட்கள் உள்ளன
+
+*2024-06-17 12:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-115-நாட்கள்-உள்ளன/175-339016) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவில் 50% வீதமானவர்கள் தயாராக இருந்தால் ஜனாதிபதி தேர்தலில் போட்டியிடுவேன் என பாராளுமன்ற உறுப்பினரும் தொழிலதிபருமான தம்மிக்க பெரேரா தெரிவித்தார்.
+
+கட்சி தனக்கு பத்து நிபந்தனைகளை விதித்துள்ளதாகவும், அந்த நிபந்தனைகளின்படி தான் அனைத்து திட்டங்களையும் தயார் செய்ததாகவும் தெரிவித்துள்ளார்.
+
+அந்த பத்து நிபந்தனைகளுக்கு அமைவாக எவ்வாறு பாதுகாப்பை கட்டியெழுப்புவது மற்றும் பொருளாதாரத்தை எவ்வாறு கட்டியெழுப்புவது என்பது தொடர்பிலும் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+மேலும், "நான் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர். என்ன நடக்கிறது என்று பார்ப்போம். ஜனாதிபதித் தேர்தலுக்கு இன்னும் 115 நாட்களே உள்ளன." என அவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ef383c6d.json)
+
+---
 
 ### Sri Lankan economy bounces back as inflation dips; sharp industrial sector recovery
 
@@ -100,6 +132,26 @@ The police said that steps have been taken to appear in court on Monday (17), wh
 
 ---
 
+### இத்தாலியில் இலங்கையர் மீது கொலை முயற்சி ; சட்டவிரோதமாக தங்கியிருந்த இலங்கையர் கைது
+
+*2024-06-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186248) · `ta`
+
+இத்தாலியில் இலங்கையர் ஒருவரைக் கொலை செய்ய முயற்சித்த சட்டவிரோதமாக தங்கியிருந்த இலங்கையர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இத்தாலியில் சட்டவிரோதமாக தங்கியிருந்த 41 வயதுடைய இலங்கையர் மற்றுமொரு இலங்கையரை பலமுறை கத்தியால் குத்தி பலத்த காயங்களை ஏற்படுத்தியுள்ளதாக இத்தாலியின் கராபினியேரி பொலிஸார் தெரிவித்துள்ளனர்.
+
+சனிக்கிழமை (15) மாலை ஒருவர்  காயமடைந்துள்ளதாக முறைப்பாடு செய்யப்பட்டதை தொடர்ந்து பொலிஸார் சம்பவ இடத்திற்கு சென்றுள்ளனர்.
+
+இதன்போது, 44 வயதுடைய இலங்கை பிரஜை ஒருவர் தாக்கப்பட்டு கழுத்து, மார்பு மற்றும் வலது தொடையில்  பலத்த காயங்களுடன் காணப்பட்டுள்ளார்.
+
+இச்சம்பவம் தொடர்பாக இத்தாலியில் சட்டவிரோதமாக  தங்கியிருந்த 41 வயதான இலங்கையர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/237533a5.json)
+
+---
+
 ### Fire breaks out at function hall in Maligawatta
 
 *2024-06-17 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99922/fire-breaks-out-at-function-hall-in-maligawatta) · `en`
@@ -148,6 +200,18 @@ Following this, he was arrested and confiscated a kilogram of jewelery from him.
 
 ---
 
+### கொழும்பு - மாளிகாவத்தையில் தீ விபத்து
+
+*2024-06-17 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186249) · `ta`
+
+கொழும்பு, மாளிகாவத்தை ஜயந்த வீரசேகர மாவத்தையில் கட்டிடம் ஒன்றில் இன்று திங்கட்கிழமை (17) காலை தீ விபத்து ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b0449953.json)
+
+---
+
 ### The man who tried to attack a puddle
 
 *2024-06-17 11:03:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/குட்டை-கோடாரியால்-தாக்க-முயன்றவர்-சுட்டு-கொலை/44-339010) · `ta`
@@ -167,6 +231,28 @@ At the time, the man was reportedly trying to attack the policemen with a gasoli
 [Data](articles/aec5fc99.json)
 
 [Extended Data](ext_articles/aec5fc99.ext.json)
+
+---
+
+### உக்ரைனிற்காக போரிடும் இலங்கையர்கள் குறித்து அந்த நாடு கடும் மௌனம் - விபரங்களை வழங்குமாறு இலங்கை தொடர்ச்சியாக வேண்டுகோள்
+
+*2024-06-17 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186246) · `ta`
+
+ரஸ்யாவிற்கு எதிரான போரில் தன்னுடைய இராணுவத்துடன் இணைந்து போரிடும் இலங்கையர்கள் குறித்து உக்ரைன் கடும் மௌனத்தை கடைப்பிடிக்கின்றது.
+
+உக்ரைனிற்காக போரிடும் இலங்கையர்கள் குறித்து இலங்கை விபரங்களை கோரியுள்ள போதிலும் உக்ரைன் இறுக்கமான மௌனத்தை கடைப்பிடிக்கின்றது என உயர் வட்டாரங்கள் தெரிவித்துள்ளன.
+
+வெளிவிவகார அமைச்சும் துருக்கிக்கான இலங்கை  அரசாங்கமும் உக்ரைனுடன் இணைந்து போரிடும்இலங்கையர்கள் குறித்த விபரங்களை இரண்டு வாரங்களிற்கு முன்னர் கோரியிருந்த போதிலும் உக்ரைன் எந்த பதிலையும் வழங்கவில்லை என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+இலங்கை தனது முன்னைய வேண்டுகோளை நினைவுபடுத்தி  ஒரு வாரத்திற்கு முன்னர் மீண்டும் தகவல் அனுப்பியிருந்ததாகவும் உயர் வட்டாரங்கள் தெரிவித்துள்ளன.
+
+இதேவேளை உக்ரைன் தனது நாட்டின் சட்டத்திற்கு ஏற்பஇலங்கையர்களை படையணியில் இணைத்துகொண்டுள்ளது என தெரிவிக்கும் தகவல்கள் வெளியாகியுள்ளன.
+
+யுத்தத்தில் ஈடுபட்டுள்ள நாடு  தகவல்களை வழங்குவது தாமதமாகலாம் என்ற யதார்தத்தை வெளிவிவகார அமைச்சு உணர்ந்துள்ளது என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/8ac8c3c8.json)
 
 ---
 
@@ -237,6 +323,22 @@ No casualties have ever been reported so far, but the property has only been dam
 [Data](articles/96a3d847.json)
 
 [Extended Data](ext_articles/96a3d847.ext.json)
+
+---
+
+### சீக்கிய பிரிவினைவாதியை கொலை செய்ய திட்டமிட்ட இந்தியர் - அமெரிக்காவிற்கு நாடு கடத்தியது செக்குடியரசு
+
+*2024-06-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186243) · `ta`
+
+அமெரிக்காவில் சீக்கிய பிரிவினைவாதியொருவரை கொலை செய்வதற்கு சதிதி;;ட்டம் தீட்டிய நபர் செக்குடியரசிலிருந்து அமெரிக்காவிற்கு நாடு கடத்தப்பட்டுள்ளார்.
+
+நிக்கில் குப்தாக காலிஸ்தானிற்காக குரல்கொடுத்த குர்பட்வன்ட் சிங் பனுன் என்பவரை கொலை செய்ய திட்டமிட்டார்  என குற்றம்சாட்டப்பட்டுள்ளது.
+
+செக்குடியரசிற்கு சென்றவேளை கடந்தவாரம் நிக்கில் குப்தா கைதுசெய்யப்பட்டார்.தான் அமெரிக்காவிற்கு நாடு கடத்தப்படவேண்டும் என்ற அவரது மனுவை நீதிமன்றமொன்று நிராகரித்திருந்தது.
+
+◼️
+
+[Data](articles/086c25cf.json)
 
 ---
 
@@ -721,6 +823,30 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 [Data](articles/e0aa98d1.json)
 
 [Extended Data](ext_articles/e0aa98d1.ext.json)
+
+---
+
+### T20 ලෝක කුසලානය 2024: 'අද තරගයේ ජයග්‍රහණය අපට වැදගත්’
+
+*2024-06-17 06:51:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp66r21x375o) · `si`
+
+විස්සයි 20 ලෝක කුසලාන තරගාවලියේ අද ( ජුනි 17 වැනිදා) පැවති තරගයෙන් නෙදර්ලන්ත කණ්ඩායම ලකුණු 83 කින් පරාජය කිරීමට ශ්‍රී ලංකාව සමත් විය.
+
+මෙම තරගය ජයග්‍රහණය කළද මෙවර විස්සයි 20 ලෝක කුසලාන තරගාවලියේ පළමු වටයෙන්ම ඉවත් වීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවූයේ සහභාගිවූ සෙසු සියලු තරග පරාජය වීම හේතුවෙනි.
+
+තරගය පැවැත්වුණේ බටහිර ඉන්දීය කොදෙව් දුපත් හී ඩැරන් සැමි ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ දීය.
+
+කාසියේ වාසිය දිනු නෙදර්ලන්ත කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කරන ලදී.
+
+ශ්‍රී ලංකා ඉනිමේ ආරම්භය සුබ නොවුයේ පළමු පන්දු වාරයේ දෙවැනි පන්දුවේදීම පැතුම් නිස්සංක විවියන් කින්ග්මා ගේ පන්දුවක් හමුවේ ලකුණු නොලබා දැවී යාම හේතුවෙනි.
+
+පැතුම් ගේ දැවී යාමෙන් පසුව පිටියට පැමිණි කමිදු මෙන්ඩිස් ශ්‍රී ලංකා ඉනිමේ දෙවැනි කඩුල්ල වෙනුවෙන් කුසල් මෙන්ඩිස් සමග එක්වෙමින් ලකුණු 39ක සබඳතාවයක් එක් කිරීමට සමත් විය.
+
+පන්දු 20 කදී ලකුණු 17ක් රැස් කර ගෙන සිටි කමිදු මෙන්ඩිස් පෝල් වැන් මේක්ක්‍රන් ගේ පන්දුවක් හමුවේ දැවී යන විට ශ්‍රී ලංකා ඉනිමේ ලකුණු පුවරුව දිස්වුයේ පන්දු වාර 5 යි පන්දු 2 කදී ලකුණු 39 කට කඩුලු දෙකක් ලෙසයි.
+
+...
+
+[Data](articles/a162df3b.json)
 
 ---
 
@@ -2087,175 +2213,5 @@ Meanwhile Qang said, from the beginning of the year to mid-May, the import secto
 [Data](articles/7af9a8a3.json)
 
 [Extended Data](ext_articles/7af9a8a3.ext.json)
-
----
-
-### The girl who went to England to go to England
-
-*2024-06-16 18:23:28* · [`adalk`](https://www.ada.lk/breaking_news/හොරෙන්-එංගලන්තයට-යන්න-ගිය-තරුණියට-වැඩ-වරදියි/11-410242) · `si`
-
-A Sri Lankan woman, 24, and a 60-year-old man were arrested at Bandaranaike International Airport for attempting to flee to the UK via Qatar. The woman, accompanied by the man, was caught during document checks. Her passport and other documents were found to be fraudulent. Both are now under investigation.
-
-🟩
-
-Sri Lankan young woman who used a batch of travel and a broker who was attempting to flee to the UK have been arrested by nightmmia on the Bandaranaike International Airport on the Bandaranaike International Airport on the Bandaranaike International Airport.A 24-year-old resident of the area.
-
-Qatar to leave Koha at 08.25 pm on 06.25 pm was said to the Katunayake airport to enter the 655.
-
-She has come to the Embassy Services Force and other documents, including the passport and other documents in this passport, have been sent to the Chief Immigration Officer.
-
-The officer has been handed over to the officers of her documents with her, which included the girl's information to a passport of the girl during the technical inspections carried out.
-
-A 60-year-old man residing in Manipaya, with this girl, was arrested by the Immigration and Emigration Officers after he was the man who was carrying the girl to the UK to the UK.Have been taken.
-
-...
-
-[Data](articles/ff9eb885.json)
-
-[Extended Data](ext_articles/ff9eb885.ext.json)
-
----
-
-### The student screams on the student
-
-*2024-06-16 18:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவன்-மீது-மாணவன்-கத்திக்குத்து/76-338972) · `ta`
-
-A tragic incident occurred at a prominent school in Kandy, where a student was fatally stabbed by another from the same grade. The victim and perpetrator were both from Ampitiya, Uduuwela, and the motive behind the attack was prejudice. The suspect is in custody, and the injured have been hospitalized.
-
-🟩
-
-Another student was stabbed to death at a leading school in Kandy. The event took place in Ampitiya, Kandy.
-
-The injured has been admitted to the Kandy National Hospital. Both residents of Ampitiya, Uduuwela area were studying in grade eleven at the school.
-
-The suspect has been arrested by Kandy police. The investigation revealed that the knife was stabbed due to prejudice.
-
-◼️
-
-[Data](articles/964a8baf.json)
-
-[Extended Data](ext_articles/964a8baf.ext.json)
-
----
-
-### President is found Mannar Bishops
-
-*2024-06-16 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197823) · `si`
-
-The President met with Mannar Bishop Dr. Fidelles Lionel Emmanuel Fernando, discussing the economic crisis and appreciating the President's economic reforms. They focused on developing Mannar as a renewable energy hub and mentioned ongoing pre-feasibility studies for connecting Sri Lanka and India, with future full feasibility studies planned.
-
-🟩
-
-The President and Mannar Bishop Dr. Fidelles Lionel Emmanuel Fernando met today (16).
-
-There are a number of things including the economic crisis.
-
-The President's Republic of the President has appreciated the President's economic reform in the economic crisis.
-
-It also focuses on the plans for development as a renewable energy hub of Mannar as a renewable energy hub.
-
-The President further stated that the pre-feasibility study of the land connection between Sri Lanka and India are ends and the full feasibility study will be carried out in the future.
-
-◼️
-
-[Data](articles/620c95f6.json)
-
-[Extended Data](ext_articles/620c95f6.ext.json)
-
----
-
-### Sri Lanka’s future will be determined by economic policies of next 5 years - President
-
-*2024-06-16 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99912/sri-lankas-future-will-be-determined-by-economic-policies-of-next-5-years-president) · `en`
-
-President Ranil Wickremesinghe states that Sri Lanka’s future will be determined by the economic policies implemented over the next five years, the President’s Media Division (PMD) reported.
-
-Wickremesinghe made this remark while addressing the Mannar District “Youth Conference” and the business community today (16), according to the PMD.
-
-◼️
-
-[Data](articles/672c2d48.json)
-
-[Extended Data](ext_articles/672c2d48.ext.json)
-
----
-
-### Heavy rains in China
-
-*2024-06-16 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197822) · `si`
-
-Heavy rains in southern China have caused widespread flooding and disaster reports. The situation is expected to worsen as more rain is forecasted. Floods have already submerged areas, affecting millions. Authorities have issued flood warnings and are evacuating residents to safe zones.
-
-🟩
-
-A large number of disasters have been reported due to heavy rains affected areas in southern China.
-
-The people of the country foretell heavy rains in the next day.
-
-South and Jaffna's southern and engaged areas have been reported in a few days.
-
-The rainy seat will remain in the coming setting to the river overflow of the area.
-
-The southern China is already undermined in water.
-
-China's floods, including floods, have been affected by Fugian and Guans in China.
-
-It is also reported that the country has also been reported from the same region.
-
-The employees have taken steps to direct the victims to safety points.
-
-South China released the fourth level warnings on floods in southern China.
-
-◼️
-
-[Data](articles/c6230cd8.json)
-
-[Extended Data](ext_articles/c6230cd8.ext.json)
-
----
-
-### India and Sri Lanka operates a landing route
-
-*2024-06-16 17:32:49* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ලංකාව-යා-කරමින්-ගොඩබීම්-මාර්ගයක්/11-410241) · `si`
-
-India and Sri Lanka are exploring a landing route and discussing economic reforms, including making Mannar a renewable energy hub. The Indian Foreign Minister, Ranil Wickremesinghe, is involved in feasibility studies for selling excess renewable energy to India. Future plans include developing Mannar as a travel center and addressing fisheries issues, aiming for broader district development.
-
-🟩
-
-President Ranil Wickremesinghe and Mannar Bishop of Mannar Bishop is a meeting with Dr. Fidelles Lionel Emanuel Fernando this morning at the official residence of Mannar.
-
-The Mannar Bishop also also discussed the country's economic reforms in the Mannar District with the future development plans of the Mannar District.
-
-The plans were also discussed as a renewable energy hub of Mannar and a renewable energy hub.
-
-Indian Foreign Minister's visit to Indian Foreign Affairs Minister Ranil Wickremesinghe has been conducting a feasibility study regarding the sale of excessive renewable energy to India.He added that he was expected to discuss further about further discussions.
-
-The President also said that the pre-feasibility study to create a land relationship between Sri Lanka and India and the entire feasibility study will be carried out in the future.
-
-It also discussed the plans for developing the Mannar Tournament Center as a traveling center.
-
-...
-
-[Data](articles/43caaa87.json)
-
-[Extended Data](ext_articles/43caaa87.ext.json)
-
----
-
-### Al -Aqsa refusal to protect the school
-
-*2024-06-16 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186210) · `ta`
-
-Saudi Arabia's limited diplomatic influence underestimates its royal family's power as guardians of holy sites, despite refusing to protect schools.
-
-🟩
-
-Saudi Arabia maintains a very narrow diplomacy instead of being a regional political force. This is to underestimate the political and diplomatic powers of the country's royal family, which is the defenders of both holy schools.
-
-◼️
-
-[Data](articles/6a64f42c.json)
-
-[Extended Data](ext_articles/6a64f42c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 17:34:58**
+As of **2024-06-17 17:55:25**
 
 ## Newspaper Stats
 
-*Scraped **30,801** Articles*
+*Scraped **30,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,99 +16,165 @@ islandlk | 1,682
 economynextcom | 1,782
 dailyftlk | 1,873
 adalk | 2,669
-adaderanalk | 3,491
+adaderanalk | 3,492
 tamilmirrorlk | 3,611
 dailymirrorlk | 4,733
-virakesarilk | 4,737
+virakesarilk | 4,738
 adaderanasinhalalk | 4,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,794 (100.0%) of 30,801 articles have been extended.
+30,801 (100.0%) of 30,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### அநுராதபுரம் மற்றும் மிஹிந்தலை புதிய ரயில் மார்க்கம்  திறப்பு
+### Rainy conditions expected to enhance in next few days
+
+*2024-06-17 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99933/rainy-conditions-expected-to-enhance-in-next-few-days) · `en`
+
+The prevailing rainy condition in the South-western part of the island is expected to somewhat enhance in the next few days from 19 June, the Meteorology Department says.
+
+The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala
+
+◼️
+
+[Data](articles/222d8b8a.json)
+
+---
+
+### ஜீ - 5 தளத்தில் வெளியாகி இருக்கும் நடிகை நிவேதா பெத்துராஜின் 'பருவு' தமிழ் இணைய தொடர்
+
+*2024-06-17 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186301) · `ta`
+
+தெலுங்கில் தயாரான 'பருவு' எனும் இணைய தொடர், ஜீ 5 டிஜிட்டல் தளத்தில் தமிழில் வெளியாகி இருக்கிறது.
+
+தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகை நிவேதா பெத்துராஜ் கதையின் நாயகியாக நடித்திருக்கும் 'பருவு' எனும் இணைய தொடர் தெலுங்கில் தயாராகி இருக்கிறது.
+
+இவருடன் நரேஷ் அகஸ்தியர், நாக பாபு, பிரணிதா பட்நாயக் உள்ளிட்ட பலர் நடித்துள்ளனர். சித்தார்த் நாயுடு மற்றும் வட்லபதி ராஜசேகர் ஆகியோர் இணைந்து இயக்கி இருக்கும் இந்த இணையத் தொடரை தயாரிப்பாளர் சுஷ்மிதா கொனிடேலா தயாரித்திருக்கிறார். இந்த இணையத் தொடருக்கு பவன் சதினேனி தலைமையேற்றிருக்கிறார்.
+
+ஜீ 5 டிஜிட்டல் தளத்தில் வெளியாகி உள்ள 'பருவு' இணையத் தொடர்- சாதிய ரீதியிலான ஆதிக்க வெறியர்களின் ஆணவ கொலைகளுக்கு பலியாகி விடுவோமோ..! என்ற அச்சத்தில் ஒரு சாதி மறுப்பு திருமணம் செய்து கொண்ட தம்பதியினர் தங்களது காதலையும், வாழ்க்கையையும் பாதுகாத்துக் கொள்ள போராடுகிறார்கள்.
+
+...
+
+[Data](articles/dc569995.json)
+
+---
+
+### The opening of the new train route in Anuradhapura and Mihintale
 
 *2024-06-17 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186288) · `ta`
 
-அநுராதபுரம் மற்றும் மிஹிந்தலை சந்தி வரையிலான புதிய, மேம்படுத்தப்பட்ட ரயில் மார்க்கம் இன்று திங்கட்கிழமை திறந்து வைக்கப்பட்டுள்ளதாக போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
+The new railway line connecting Anuradhapura and Mihintale was officially opened today, funded by an Indian loan. Transport Minister Bandula Gunawardena presided over the inauguration ceremony.
 
-இந்திய கடனுதவியின் கீழ் நிர்மாணிக்கப்பட்டுள்ள இந்த ரயில் மார்க்கத்தை போக்குவரத்து அமைச்சர் பந்துல குணவர்தன திறந்து வைத்துள்ளார்.
+🟩
+
+The new and upgraded railway line from Anuradhapura and Mihintale junction has been opened today, the Transport Ministry said.
+
+Transport Minister Bandula Gunawardena has inaugurated this railway line under Indian loan.
 
 ◼️
 
 [Data](articles/dd70e371.json)
 
+[Extended Data](ext_articles/dd70e371.ext.json)
+
 ---
 
-### අමෙරිකානු ඩොලරයේ ආධිපත්‍යයට තර්ජනයක් ?
+### A threat to the domination of American dollar?
 
 *2024-06-17 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197854) · `si`
 
-ලොව පුරා මහ බැංකු තමන්ගේ විදේශ මුදල් සංචිත සඳහා අමෙරිකානු ඩොලර් පමණක් නොව දැන් වෙනත් විකල්ප විනිමය භාවිත කිරීමටත් පෙළඹී සිටින බව ජාත්‍යන්තර මූල්‍ය අරමුදල ප්‍රකාශ කරයි.
+The IMF highlights a shift away from the dominance of the US dollar in global finance, noting a decrease in its use in foreign reserves over the last twenty years. It suggests that other currencies, including the Euro, Japanese Yen, and British Pound, along with emerging ones like the Australian Dollar and Chinese Yuan, are gaining recognition. Despite this diversification, the US dollar remains the strongest currency in the global economy.
 
-මෙම තත්ත්වය ජාත්‍යන්තර වශයෙන් අමෙරිකානු ඩොලරයේ ආධිපත්‍ය හීනවීමක් ලෙස හැඳින්විය හැකිය.
+🟩
 
-ජාත්‍යන්තර වශයෙන් වඩාත් පිළිගැනීමට ලක්වූ මුදල් වර්ග හතර ලෙස සැලකනු ලබන්නේ, අමෙරිකානු ඩොලර්, යුරෝ, ජපාන යෙන් සහ බ්‍රිතාන්‍යයේ ස්ටර්ලිං පවුම්ය.
+The International Monetary Fund (IMF) states that the central banks around the world are not only US $.
 
-පසුගිය දශක දෙක තුළ යුරෝ, යෙන් සහ ස්ටර්ලිං පවුම් විනිමයන්ට සාපේක්ෂව අමෙරිකානු ඩොලරය විදේශ සංචිත සඳහා යොදාගැනීමේ ප්‍රතිශතයේ අඩුවීමක් පෙන්නුම් කරයි.
+This situation is a domination of the US domination internationally.
 
-එමෙන්ම නව විකල්ප විනිමය ලෙසට ඔස්ට්‍රේලියානු ඩොලර්, කැනේඩියානු ඩොලර්, චීන යුවාන්, දකුණු කොරියානු වොන් සහ සිංගප්පුරු ඩොලර් වගේම ස්වීඩනය, නෝර්වේ වැනි නෝර්ඩික් රටවල මුදල් ද ලෝකයේ මහ බැංකු තම විදේශ සංචිතය ශක්තිමත් කිරීම සඳහා යොදාගැනීමට ඉහළ ගොස් ඇති බව ජාත්‍යන්තර මූල්‍ය අරමුදල පෙන්වා දෙයි.
+Four internationally most recognized currencies are considered, US dollar, euro, Japanese Yen and Sterling Pound.
 
-මෙලෙස සාම්ප්‍රදායික නොවන විනිමය විදේශ සංචිතවලට එක්වූවත් තවමත් ගෝලීය ආර්ථිකයේ වඩාත්ම ප්‍රබල විනිමය අමෙරිකානු ඩොලරය බව ජාත්‍යන්තර මූල්‍ය අරමුදල සඳහන් කරයි.
+For the past two decades, the US dollar decreases the percentage of using the US dollar to foreign reserves compared to exchanges of euros, Yen and Sterling.
+
+The International Monetary Fund points out that Australian dollar dollars, Chinese Yuan, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden and Norway.
+
+The International Monetary Fund states that even though it joined the unconventional exchange, even the most powerful exchange in the global economy is still the most powerful exchange in the global economy.
 
 ◼️
 
 [Data](articles/39876a43.json)
 
+[Extended Data](ext_articles/39876a43.ext.json)
+
 ---
 
-### 'வேற மாறி ஆபீஸ்- சீசன் 2'
+### 'Other variable office- season 2'
 
 *2024-06-17 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186287) · `ta`
 
-டிஜிட்டல் தளங்களில் வெளியாகும் நகைச்சுவை கலந்த இணைய தொடர்களுக்கு ரசிகர் மத்தியில் பெரும் வரவேற்பு உண்டு. அந்த வகையில் முன்னணி டிஜிட்டல் தளத்தில் வெளியாகி ரசிகர்களின் ஏகோபித்த வரவேற்பையும், ஆதரவையும் பெற்ற இணைய தொடர் 'வேற மாரி ஆபீஸ்'. இந்த இணையத் தொடரின் இரண்டாவது சீசன் தற்போது தொடங்கி இருக்கிறது. ஆஹா டிஜிட்டல் தளத்தில் வெளியாகவிருக்கும் இந்த 'வேற மாதிரி ஆபீஸ் சீசன் 2' இணைய தொடரின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+"Season 2 of 'Other Variable Office,' a comedy-mixed internet series, has been warmly welcomed by fans upon its release on Aha Digital. Directed by Jashwini and featuring a star-studded cast including RJ Vijay and Soundarya, the series explores the challenges faced by employees starting a new company, blending humor with personal life issues."
 
-இயக்குநர் ஜஷ்வினி இயக்கத்தில் உருவாகும் இந்த இணைய தொடரில் ஆர் ஜே விஜய், சௌந்தர்யா, நஞ்சுண்டான், லொள்ளு சபா மாறன், ஜனனி அசோக்குமார், ஜெயசீலன், ரவீனா உள்ளிட்ட பலர் நடிக்கிறார்கள். சத்யா ஒளிப்பதிவு செய்யும் இந்த இணையத் தொடருக்கு ராகவ் இசையமைக்கிறார். இதனை ஆஹா டிஜிட்டல் தளத்திற்காக கனா புரொடக்ஷன்ஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் சிவ‌காந்த் தயாரிக்கிறார்.
+🟩
+
+There is a huge welcome among the fan for the comedy -mixed internet series released on digital sites. The Internet series 'Mari Office' has been released on the leading digital site and received the unanimous welcome and support of the fans.. The second season of this web series is currently underway. The inauguration of the 'Other Model Office Season 2' web series on the Aha Digital site was held in Chennai.
+
+Directed by director Jashwini, the Internet series stars RJ Vijay, Soundarya, Nanjundan, Lalu Saba Maran, Janani Ashok Kumar, Jayaseelan, Raveena and many others.. Raghav composes music for this cinematography by Satya. It was produced by producer Sivakant on behalf of the Kana Productions Company for the Aha Digital site.
 
 ...
 
 [Data](articles/bd11ca1a.json)
 
+[Extended Data](ext_articles/bd11ca1a.ext.json)
+
 ---
 
-### கன்னட நடிகர் ஸ்ரீ முரளி வெளியிட்ட 'சௌகிதார்'
+### Kannada actor Sri Murali
 
 *2024-06-17 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186291) · `ta`
 
-கன்னட திரையுலகின் முன்னணி இளம் நட்சத்திர நடிகரான பிருத்வி அம்பர் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்திற்கு 'சௌகிதார்' என பெயரிடப்பட்டிருக்கிறது. இதற்கான அதிகாரப்பூர்வமான அறிவிப்பை கன்னடத்தின் முன்னணி நட்சத்திர நடிகரான ஸ்ரீ முரளி வெளியிட்டார்.
+Sri Murali announced Prithvi Amber as the lead in "Chaoukidar," directed by Chandrasekhar Pandiyappa and produced by Vidya Shekhar Entertainment. The film, also releasing in Tamil, Telugu, Malayalam, Kannada, and Hindi, follows the success trend of Kannada films in India.
 
-இயக்குநர் சந்திரசேகர் பாண்டியப்பா இயக்கத்தில் உருவாகும் 'சௌகிதார்' படத்தில் பிருத்வி அம்பர் கதையின் நாயகனாக நடிக்கிறார். சச்சின் பஸ்ரூர் இசையமைக்கும் இந்த திரைப்படத்தினை வித்யா சேகர் என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் கல்லஹள்ளி சந்திரசேகர் தயாரிக்கிறார். இந்தத் திரைப்படத்தில் பணியாற்றும் ஏனைய நடிகர் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விவரங்கள் அதிகாரப்பூர்வமாக விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. இந்தத் திரைப்படம் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளிலும் தயாராகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+🟩
 
-'கே ஜி எஃப்' படத்தின் பிரம்மாண்டமான வெற்றிக்குப் பிறகு கன்னடத்திலிருந்தும் பான் இந்திய திரைப்படங்கள் தயாராவது அதிகரித்து விட்டதாக தமிழ் திரையுலகினர் தெரிவிக்கிறார்கள்.
+Prithvi Amber, the leading young star of the Kannada film industry, is named 'Chaoukidar' starring the hero of the story. Sri Murali, the leading star actor of Kannada, made the official announcement.
+
+Prithvi Amber is playing the hero of the story of 'Chaukithar' directed by director Chandrasekhar Pandiyappa. The film is composed by Sachin Basrur on behalf of Vidya Shekhar Entertainment and producer Kalhalli Chandrasekhar. The details of other actor and technicians working in the film are expected to be officially released soon.. The film is also being produced in Tamil, Telugu, Malayalam, Kannada and Hindi, the film crew said.
+
+Tamil filmmakers say that Ban Indian films have increased from Kannada after the huge success of 'KG F'.
 
 ◼️
 
 [Data](articles/25d32780.json)
 
+[Extended Data](ext_articles/25d32780.ext.json)
+
 ---
 
-### 'பீனிக்ஸ்' படத்தின் மூலம் அறிமுகமாகும் நட்சத்திர வாரிசு
+### The star heir is introduced by the film 'Phoenix'
 
 *2024-06-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186296) · `ta`
 
-தமிழ் திரையுலகில் முன்னணி நட்சத்திர நடிகர்கள் தங்களது வாரிசுகளை நடிகர்களாக கலை உலகத்திற்கு அறிமுகப்படுத்துவது இயல்பு. அந்த வகையில் இந்த தலைமுறையின் முன்னணி நட்சத்திர நடிகரான 'மக்கள் செல்வன்' விஜய் சேதுபதியின் வாரிசான சூர்யா சேதுபதி, 'பீனிக்ஸ் - வீழான்' எனும் படத்தின் மூலம் கதையின் நாயகனாக அறிமுகமாகிறார்.
+"Phoenix - Vaan introduces Surya Sethupathi, son of Vijay Sethupathi, marking his acting debut alongside director Anal Government. The film, featuring a star-studded cast, is produced by Mrs. Rajalakshmi Anal. Shot and completed, it premiered with a teaser release on the director's birthday, showcasing Surya as a boxer in action-packed scenes. The teaser garnered widespread attention, hinting at high expectations for the film."
 
-சண்டை பயிற்சி இயக்குநரான அனல் அரசு திரைப்பட இயக்குநராக அறிமுகமாகி இருக்கும் திரைப்படம் 'பீனிக்ஸ்- வீழான்'.  இதில் சூர்யா சேதுபதி, வரலட்சுமி சரத்குமார், சம்பத், தேவதர்ஷினி, முத்துக்குமார், திலீபன், அஜய் கோஷ், ஹரிஷ் உத்தமன், அபி நட்சத்திரா, வர்ஷா, நவீன், நந்தா சரவணன், 'ஆடுகளம்' முருகதாஸ், 'ஆடுகளம்' நரேன், ஸ்ரீ ஜித் ரவி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். வேல்ராஜ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி எஸ் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ கே பிரேவ்மேன் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் திருமதி ராஜலக்ஷ்மி அனல் அரசு தயாரித்திருக்கிறார்.
+🟩
+
+It is the nature of the leading star actors in the Tamil film industry to introduce their successors to the art world. In this way, Surya Sethupathi, the successor of Vijay Sethupathi, the leading star actor of this generation, makes his debut as the hero of the story through the film 'Phoenix - Vaan'.
+
+Fighting Training Director Anal Government is making his debut as a film director.Surya Sethupathi, Varalakshmi Sarathkumar, Sampath, Devadarshini, Muthukumar, Dileepan, Ajay Ghosh, Harish Uthaman, Abhi Star, Varsha, Naveen, Nanda Saravanan. The film has been composed by Sam CS for the film.. The film is being produced as an exercise enterter and produced by Mrs. Rajalakshmi Anal on behalf of AK Braveman Pictures.
+
+The shooting of the film is completed and the post -shooting technical work is underway. In this case, the teaser of the film was released on the occasion of the birthday of director Anal government. Surya's father and leading star actor Vijay Sethupathi released the film.
 
 ...
 
 [Data](articles/7d90726b.json)
+
+[Extended Data](ext_articles/7d90726b.ext.json)
 
 ---
 
@@ -132,19 +198,25 @@ In addition, Minister of Highways, Transport, and Mass Media, Bandula Gunawarden
 
 ---
 
-### நீர் குழாயில் வெடிப்பு : நள்ளிரவுக்குள் நீர் விநியோகம் வழமைக்கு திரும்பும்
+### Explosion in water pipe: Water supply returns to normal by midnight
 
 *2024-06-17 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186297) · `ta`
 
-கலட்டுவாவ நீர் சுத்திகரிப்பு நிலையத்தில் இருந்து மஹரகம பகுதிக்கு நீர் கொண்டு செல்லும் குழாயில் வெடிப்பு ஏற்பட்டதால் ஹோமாகம புறநகர்ப் பகுதியின் பல பகுதிகளில் இடைநிறுத்தப்பட்ட நீர் விநியோகம் இன்று (17) நள்ளிரவுக்குள் வழமைக்கு திரும்பும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+Water supply disruptions in Homagama suburbs due to a pipe explosion from the Kalatuwa Water Plant have been resolved by midnight. The affected areas include Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta, and Matagoda.
 
-இன்று திங்கட்கிழமை (17) அதிகாலை ஹைலெவல் வீதியில் கொடகம சந்திக்கு அருகில் கார் ஒன்று வீதியை விட்டு விலகி இந்த குழாய் மீது மோதியதில் குழாயில் பலத்த சேதம் ஏற்பட்டது.
+🟩
 
-இதனால், கொடகம, ஹோமாகம, பன்னிபிட்டி, ருக்மல்கம, பெலன்வத்த, மத்தேகொடை ஆகிய பகுதிகளில் மறு அறிவித்தல் வரை நீர் விநியோகம் இடைநிறுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The National Water Supply and Drainage Board said that the water supply suspended in several parts of the Homagama suburbs will return to normal today (17) due to the explosion in the water -driven pipe from the Kalatuwa Water Planting Center.
+
+A car near the Kodagama junction on the Hylevel Road early this morning (17) was hit by a pipe.
+
+As a result, water supply has been suspended until the re -notice of the Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta and Matagoda areas.
 
 ◼️
 
 [Data](articles/71fb0f7e.json)
+
+[Extended Data](ext_articles/71fb0f7e.ext.json)
 
 ---
 
@@ -170,25 +242,33 @@ At times, in the western slopes of the central hills, Trincomalee, North - Medal
 
 ---
 
-### ஜப்பானில் பரவி வரும் ஆபத்தான பற்றீரியா நோய்த் தொற்று
+### Dangerous Patteria infection spreading in Japan
 
 *2024-06-17 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186292) · `ta`
 
-ஜப்பான் நாட்டில் கடந்த சில நாட்களாக அரிய வகை பற்றீரியா நோய் தொற்று பரவி வருகிறது. கடந்த 2 ஆம் திகதி இந்த மர்ம நோய், ஜப்பானை தாக்கிய விவரம் தெரிய வந்துள்ளது.
+A rare Streptococcal Toxic Shock Syndrome (STSS) outbreak in Japan has infected 977 people since its discovery on February 2nd, leading to 77 deaths between January and March. Symptoms include throat pain, leg pain, fever, and low blood pressure, potentially causing organ failure and death within 48 hours. Professor Ken Kikuchi warns of a potential 30% mortality rate and predicts up to 2,500 cases this year. He urges hand hygiene to prevent further spread, as the disease also increases in other countries.
 
-எஸ்.டி.எஸ்.எஸ். (STSS) எனப்படும் ஸ்டிரெப்டோகாக்கல் டாக்சிக் ஷாக் சிண்ட்ரோம்  என்ற இந்த வகை நோய் தொற்றால் இதுவரை மொத்தம் 977 பேருக்கு பாதிப்புகள் இருப்பது கண்டறியப்பட்டு உள்ளது. கடந்த ஆண்டு இந்த எண்ணிக்கை 941 ஆக இருந்தது.
+🟩
 
-ஜனவரி மற்றும் மார்ச் மாதங்களுக்கு இடையில் சுமார் 77 பேர் தொற்றுநோயால் உயிரிழந்துள்ளனர்.
+In Japan, a rare type of patteria has been spreading in the past few days. The mysterious disease on the 2nd of last month has been revealed.
 
-இந்த நோயானது, உடல் பகுதியை சாப்பிட கூடிய பற்றீரியாவால் ஏற்பட கூடியது. மனிதர்களை 48 மணிநேரத்தில் கொல்லும் சக்தி படைத்தது. இந்த நோயானது ஜப்பானில் பரவி வருகிறது.
+STSS. This type of infection, a streptococcal taxic shock syndrome (STSS), has been affected by a total of 977 people.. This number was 941 last year.
 
-இதன் பாதிப்பால், வீக்கம் மற்றும் தொண்டையில் வலி ஏற்படும். சில பேருக்கு, காலில் வலி, வீக்கம், காய்ச்சல் மற்றும் குறைந்த இரத்த அழுத்தம் உள்ளிட்ட அறிகுறிகள் விரைவாக ஏற்படும்.
+Between January and March, about 77 people died of infection.
 
-இதன்பின்னர், சுவாச பாதிப்பு, உடல் உறுப்புகள் செயலிழப்பு மற்றும் மரணம் ஆகியவை ஏற்படும் என்று எச்சரிக்கப்பட்டு உள்ளது.
+The disease is caused by the body of the body that can be eaten by the body. The power to kill humans in 48 hours. The disease is spreading in Japan.
+
+Its effect can cause swelling and pain in the throat. For some people, symptoms, including leg pain, swelling, fever and low blood pressure, occur rapidly.
+
+Subsequently, it has been warned that respiratory problems, organs will cause malfunction and death.
+
+According to Professor Ken Kikucci, the Infectious Disease of the University of Tokyo, a large number of casualties may occur in a large number of deaths.
 
 ...
 
 [Data](articles/bf899a44.json)
+
+[Extended Data](ext_articles/bf899a44.ext.json)
 
 ---
 
@@ -2309,35 +2389,5 @@ Until 1978, Sri Lanka’s economy was mainly agriculture-based. In the 1970s, in
 [Data](articles/d2a7c4a7.json)
 
 [Extended Data](ext_articles/d2a7c4a7.ext.json)
-
----
-
-### Adani wind farms in Mannar and procedural challenges in Swiss auction
-
-*2024-06-17 04:01:00* · [`islandlk`](http://island.lk/adani-wind-farms-in-mannar-and-procedural-challenges-in-swiss-auction/) · `en`
-
-India’s Adani Group, which has committed SL’s single largest FDI in the power sector by committing to invest over a billion dollars in setting up ~500MW wind projects in Mannar and Pooneryn region, is facing resistance from a lobby group. The reason is unclear, says Vinayak Maheswaran – an equity and economic analyst at an equity markets platform who was also a former analyst at Wells Fargo Advisors.
-
-“Initially they said the project harms the environment. This when the Environment Impact Assessment (EIA) was done by a renowned professor and the government promised to implement the suggestions made in it and by public to minimize environmental impact. Several other Renewable Energy Organizations, Climate Organizations, environment organisations like the National Environment Caucus, Youth for Renewable Energy Organization, Sri Lanka Blue Green Alliance too conducted their own studies and have decided to back the project.”
-
-...
-
-[Data](articles/26228d52.json)
-
-[Extended Data](ext_articles/26228d52.ext.json)
-
----
-
-### SANASA empowering undergraduates for career success
-
-*2024-06-17 04:01:00* · [`islandlk`](http://island.lk/sanasa-empowering-undergraduates-for-career-success/) · `en`
-
-An awareness program to develop knowledge and skills of young graduates to contribute proactively for development of the agricultural sector was conducted for the final year undergraduates of the Faculty of Agriculture, of the Wayamba University. The program took place on the 7th of June, 2024, at the Agricultural Research and Training Institute of Sri Lanka. This event was organized in conjunction with ‘SANASA Idiriye’ program (SANASA Forward) which was conceived by the founder of the SANASA group, Dr. P.A. Kiriwandeniya. Chancellor of Wayamba University, Director of SANASA Campus Prof. W. D. Lakshman and the Dean of Faculty of Agriculture Prof Jagath Edirisinghe also participated in the event along with other dignitaries.
-
-...
-
-[Data](articles/321b0cd1.json)
-
-[Extended Data](ext_articles/321b0cd1.ext.json)
 
 ---

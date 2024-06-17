@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 10:34:44**
+As of **2024-06-17 10:53:55**
 
 ## Newspaper Stats
 
-*Scraped **30,720** Articles*
+*Scraped **30,722** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 282
-dbsjeyarajcom | 282
+dbsjeyarajcom | 284
 bbccomsinhala | 299
 newsfirstlk | 363
 islandlk | 1,682
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,665 (99.8%) of 30,720 articles have been extended.
+30,675 (99.8%) of 30,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -422,23 +422,29 @@ Accordingly, Sri Lanka scored 201 201 2014 at the end of the 20 wickets.
 
 ---
 
-### ගොඩගම ඇතුළු ප්‍රදේශ කිහිපයකට නැවත දැනුම්දෙනතුරු ජල සැපයුම නවතී
+### Water cut stops again to several areas including Godagama
 
 *2024-06-17 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197833) · `si`
 
-කලටුවාව ජලාශයේ සිට ජලය රැගෙන එන නලයක් පුපුරා යාම හේතුවෙන් ප්‍රදේශ කිහිපයකට යළි දැනුම් දෙනතුරු ජල සැපයුම අත්හිටුවා තිබේ.
+Water supply halted in Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattegoda due to reservoir overflow caused by a car accident. Over 100,000 households affected; repairs underway after a tiger reportedly entered the pipeline system. Four injured in the incident.
 
-ඒ අනුව ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තේගොඩ යන ප්‍රදේශ වල ලක්ෂයකට අධික නිවාස ඒකක සඳහා මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
+🟩
 
-හයිලෙවල් මාර්ගයේ ගොඩගම මංසන්ධිය ආසන්න  ප්‍රදේශයක දී මෝටර් රථයක් ජල නලයේ වැදී අනතුරට ලක් වීම හේතුවෙන් මෙම තත්ත්වය උද්ගත වි තිබේ.
+The water supply has been suspended again to restore several areas due to the explosion of water from the Kalatuwawa reservoir.
 
-අද (17) අලුයම සිට අදාළ අනතුර සිදුවු ස්ථානයේ ජල නලයෙන් විශාල ජල කඳක් ඉහළට විසිකරමින් පවතින අතර ජලයේ වේගය හේතුවෙන් එම ස්ථානය අසල ඇති විදුලි කණුවක් ද මාර්ගයට කඩා වැටී ඇති බව ද සඳහන් වේ.
+Accordingly, over 100,000 housing supplies for housing units will be suspended for over 100,000 housing units in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattegoda.
 
-මේ අතර අනතුරට පත් මෝටර් රථයේ ගමන් කරමින් සිටි සිව් දෙනා සුළු තුවාල ලබා හෝමාගම මුලික රෝහලට ඇතුළු කර තිබේ.
+This has been affected by a car hit the waterholder in the near area near the High Level road.
+
+It is said that a large tiger is thrown into the top of the pipeline of the water pipe, from April 17 (17), and the water rate has also damaged the road.
+
+Meanwhile, four were sunded and admitted to the Base Hospital.
 
 ◼️
 
 [Data](articles/fee60c43.json)
+
+[Extended Data](ext_articles/fee60c43.ext.json)
 
 ---
 
@@ -458,6 +464,8 @@ A car had veered off the road and collided with the water transmission pipeline 
 
 [Data](articles/e0aa98d1.json)
 
+[Extended Data](ext_articles/e0aa98d1.ext.json)
+
 ---
 
 ### Hajj celebration delivers profound message for world peace - President
@@ -476,6 +484,8 @@ On this occasion, Muslims from around the globe gather at a single place of wors
 
 [Data](articles/529baa1c.json)
 
+[Extended Data](ext_articles/529baa1c.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of Sri Lanka
@@ -490,19 +500,27 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/a95e391d.json)
 
+[Extended Data](ext_articles/a95e391d.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-06-17 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197831) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers expected in Western, Sabaragamuwa, and North Western Provinces, including Galle, Matara, Kandy, and Nuwara Eliya districts. Strong winds forecasted for Trincomalee, Hambantota, and Moneragala districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+🟩
+
+Several spells of showers in the Western, Sabaragamuwa and North Western Provinces will occur in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. (40-50) Informed that there is about strong winds.
 
 ◼️
 
 [Data](articles/48f30979.json)
+
+[Extended Data](ext_articles/48f30979.ext.json)
 
 ---
 
@@ -515,6 +533,8 @@ Until 1978, Sri Lanka’s economy was mainly agriculture-based. In the 1970s, in
 ...
 
 [Data](articles/d2a7c4a7.json)
+
+[Extended Data](ext_articles/d2a7c4a7.ext.json)
 
 ---
 
@@ -636,75 +656,103 @@ The Bank of Ceylon has distributed 327 grants – a share of 21.1% of the total 
 
 ---
 
-### ஹஜ்ஜுப் பெருநாள்; ஜனாதிபதி வாழ்த்து
+### HajjubPresident
 
 *2024-06-17 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186225) · `ta`
 
-ஆன்மிக மற்றும் உலக வெற்றியை அடைய, மனிதன் சுயநலத்தை விட்டொழித்து, தியாகம் மற்றும் நல்லிணக்கத்துடன் வாழப் பழகிக் கொள்ள வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள ஹஜ் பெருநாள் வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+Ranil Wickremesinghe congratulates himself on achieving spiritual and worldly success through sacrifice and reconciliation, drawing parallels between his goals and the universal values celebrated during Hajj. He expresses hope that the spirit of unity and peace inherent in Hajj will inspire global harmony and peace.
 
-ஒவ்வொரு ஆண்டும் முஸ்லிம்கள் அந்த உன்னத நோக்கத்தின் அடிப்படையில் ஹஜ் பெருநாளைக் கொண்டாடுகிறார்கள்.
+🟩
 
-உலகம் முழுவதிலுமிருந்து முஸ்லிங்கள் அனைவரும் ஒரே நோக்கத்துடன் ஒரே புனிதத் தலத்தில் கூடி, மனிதகுலத்தின் எதிர்பார்ப்பான சமூகத்தின் ஒருமைப்பாட்டிற்காக இத்தினத்தில் பிரார்த்தனை செய்கிறார்கள்.
+President Ranil Wickremesinghe has congratulated President Ranil Wickremesinghe that he should be able to get rid of selfishness and live with sacrifice and reconciliation to achieve spiritual and worldly success.
 
-உலக மக்கள் அனைவருக்கும் சமத்துவம் மற்றும் சகோதரத்துவ உணர்வுகளை விதைக்கும் ஹஜ்  கொண்டாட்டம், உலக அமைதிக்கான சிறந்த செய்தியையும் தரும் என்பது எனது  எதிர்பார்ப்பாகும்.
+Every year, Muslims celebrate the Hajj based on that noble purpose.
 
-மனித குலத்தின் அபிலாஷைகளை வென்றெடுப்பதற்காக அனைவரும் ஒரே இலக்கில் ஒன்றுபடும் ஹஜ்ஜுப் பெருநாளை மகிழ்ச்சியுடன் கொண்டாடுவதற்கு இலங்கை மற்றும் உலக முஸ்லிம்கள் அனைவருக்கும் நல்வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன் என்றார்.
+All the Muslims from all over the world gather at the same holy place with the same purpose and pray at this time for the integrity of the expected society of mankind.
+
+It is my expectation that the Hajj celebration of sowing equality and fraternity to all the people of the world will give you the best news for world peace.
+
+"I would like to congratulate all Sri Lankan and the world Muslims to celebrate the Hajjub Majesty, which is united in the same goal to win the aspirations of mankind."
 
 ◼️
 
 [Data](articles/092fe656.json)
 
+[Extended Data](ext_articles/092fe656.ext.json)
+
 ---
 
-### எதிர்க்கட்சித் தலைவரின் ஹஜ் பெருநாள் வாழ்த்துச் செய்தி
+### Hajj greeting the Opposition Leader
 
 *2024-06-17 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186228) · `ta`
 
-உலகெங்கிலும் உள்ள முஸ்லிம்களின் மிக முக்கியமான கலாச்சார மற்றும் மதப் பண்டிகையாகக் கருதப்படும் ஈதுல் அல்ஹா பெருநாளை முன்னிட்டு தனது வாழ்த்துக்களை எதிர்க்கட்சித் தலைவர் சஜீத் பிரேமதாச தெரிவித்துள்ளார்.
+Sajeed Premadasa, the Opposition Leader, congratulates Eidul Alha, highlighting its significance in fostering unity and shared values across cultures and religions. He draws parallels between Eidul Alha and the Hajj pilgrimage, emphasizing their roles in reinforcing faith, promoting social harmony, and celebrating humanity's interconnectedness. Premadasa calls for unity in his country, urging all to celebrate Eidul Alha with brotherhood, regardless of race, religion, or status, as a step towards national progress.
 
-இத் தருணத்தில் அதன் முக்கிய விழுமியங்களைப் பற்றி நினைவில் கொள்வது சாலச்சிறந்தது என உணர்கின்றேன்.
+🟩
 
-வரலாற்றின் தொடக்கத்திலிருந்தே, மக்கள் பல்வேறு மத தியாகங்களுக்காக கூட்டாக கூடினர், அதில் தங்கள் சொந்த மதத்துடன் தொடர்புடைய மரபுகள் பாதுகாக்கப்பட்டு அவற்றுக்கிடையே தொடர்புகளை ஏற்படுத்திக் கொண்டனர்.  இஸ்லாத்தில் புனிய ஹஜ் யாத்திரையும் அவ்வாறானதொன்றாகும்.
+Opposition Leader Sajeed Premadasa has congratulated Eidul Alha, the most important cultural and religious festival of Muslims around the world.
 
-இஸ்லாத்தின் ஐந்து பெரும் கடமைகளில் ஐந்தாவது கடமையாகக் கருதப்படும் ஹஜ் யாத்திரை இறைவன் மீதான பக்தி மற்றும் நம்பிக்கையை மீண்டும் மீண்டும் உறுதிப்படுத்துவதாகும். அந்த நம்பிக்கையின் காரணமாக, உலகெங்கிலும் உள்ள மில்லியன் கணக்கான இஸ்லாமியர்கள் ஒரே நோக்கத்துடன் ஒரே நேரத்தில் புனித மக்காவில் ஒன்று கூடி, மனிதகுலத்தின் எதிர்பார்ப்பான  சகோதரத்துவ கூட்டு மதிப்பைப் போற்றுகிறார்கள்.
+At this moment I feel that it is better to remember its main values.
+
+From the beginning of history, people gathered together for various religious sacrifices, in which the traditions associated with their own religion were secured and made contact with them.Such is the same as the Hajj pilgrimage in Islam.
+
+The Haj pilgrimage, which is considered the fifth duty of Islam's five great duties, is to re -confirm the devotion and confidence in the Lord. Because of that belief, millions of Islamists around the world gather at the holy Makkah with the same purpose and appreciate the anticipated brotherhood of mankind.
+
+The Eidul Alha can also be considered an occasion to admire humanity based on the philosophy of Islam.It is an important and unique martyrdom that brings the glory of social harmony to the world.
 
 ...
 
 [Data](articles/7181a9cf.json)
 
+[Extended Data](ext_articles/7181a9cf.ext.json)
+
 ---
 
-### மடு தேவாலயத்தை இடையூறின்றி வழிபடுவதற்கான வசதிகள் ஏற்படுத்தப்படும் - ஜனாதிபதி
+### Facilities for worshiping the Madhu Church without disturbing - President
 
 *2024-06-17 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186227) · `ta`
 
-மன்னார் - மடு  தேவாலயத்திற்கு வருவோர் இடையூறின்றி வழிபாடுகளில் ஈடுபடுவாற்கான வசதிகள் ஏற்படுத்திக் கொடுக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe has pledged to enhance worship facilities at Madhu Church, ensuring unhindered access and addressing concerns raised by religious leaders. He directed military cleanup efforts along the Church Entrance Road and urged collaboration among various departments, including wildlife defense, road development, and police, to prepare for the upcoming church festival. The President also highlighted the importance of addressing climate change, promoting green energy, and boosting the economy through tourism, fishing, and renewable resources in the Mannar district.
 
-மடு மற்றும் சிவனொலிபாத மலை போன்ற புனித தளங்களுக்கான நுழைவு வீதிகள் அவற்றை வழிப்பட வருவோருக்காகவே அமைக்கப்பட்டுள்ளதாகவும், அவர்களை கைது செய்து தண்டப்பணம் அறவிடுவது நியாமற்றதெனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.  மடு தேவாலயத்தில் வழிபாட்டுக்காக வருவோர் கைது செய்யப்படும் பட்சத்தில் உடனடியாக அது குறித்து ஜனாதிபதி அலுவலகத்திற்கு அறிவிக்கும்படியும் ஜனாதிபதி இதன்போது அறிவித்தார்.
+🟩
 
-மன்னார் மாவட்டச் செலயகத்தில் ஞாயிற்றுக்கிழமை (16) நடைபெற்ற  விசேட மாவட்ட அபிவிருத்திக் குழு கூட்டத்திலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe has promised to provide facilities for worship without hindrance.
+
+The President pointed out that the entrance to the sacred sites such as Madhu and the Sivanolipada mountain has been set up for those who are leading them and that it is impossible to arrest them.The President also announced the announcement to the President's Office immediately if the arrest of the worship of the Madhu Church was arrested.
+
+The President made this observation at the Special District Development Committee meeting held on Sunday (16) at the Mannar District Exchange.
+
+The President advised the military to clean up both sides of the Church Entrance Road for those who worship the Madhu Church, and instructed the military to do the work, and to contact the Mannar District Bishop for the work, the Department of Wildlife Defense Department, the Road Development Authority and the police.
 
 ...
 
 [Data](articles/6cc9ee4c.json)
 
+[Extended Data](ext_articles/6cc9ee4c.ext.json)
+
 ---
 
-### எந்தவொரு சுற்றுச்சூழல் சட்டத்தையும் தலைகீழாக மாற்ற வேண்டாம் - ஜனாதிபதி
+### Do not reverse any environmental law- the president
 
 *2024-06-17 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186226) · `ta`
 
-சுற்றாடலைப் பாதுகாப்பதற்காக இயற்றப்பட்ட எந்தவொரு சட்டத்தையும் எக்காரணம் கொண்டும் மாற்றியமைக்க வேண்டாம் என ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளதாக மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கம்புர தெரிவித்தார்.
+President Ranil Wickremesinghe has directed against reversing any environmental laws, emphasizing the renewal of existing ones and the introduction of a new Climate Change Act. The government is launching initiatives to boost the economy without harming the environment, aiming for a sustainable future. Efforts include tree planting campaigns, enhancing forest cover, and managing biodiversity. The Ministry of Environment is also focusing on controlling pollution, managing waste, and promoting environmental education and awareness.
 
-தற்போதைய சுற்றாடல் சட்டம் புதுப்பிக்கப்பட்டு காலநிலை மாற்ற சட்டத்துடன் புதிய சட்டமூலமாக பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-'இரண்டு வருட முன்னேற்றம் மற்றும் எதிர்காலம்' என்ற தலைப்பில் ஞாயிற்றுக்கிழமை (16) ஜனாதிபதி ஊடக மையத்தில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் உரையாற்றும் போதே மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர்  ஜனக வக்கம்புர இதனைக் குறிப்பிட்டார்.
+Provincial Councils, Local Government and Environment Minister Janaka Wakambura said that President Ranil Wickremesinghe has issued a directive not to change any law enacted to protect the environment.
 
-சுற்றுச்சூழலுக்கு பாதிப்பில்லாத, நாட்டின் பொருளாதாரத்திற்கு பங்களிக்கும் வகையில் அவசர வேலைத்திட்டம் ஒன்று முன்னெடுக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State also stated that the current environmental law will be renewed and the new Bill will be presented in Parliament with a climate change law.
+
+Speaking at a press conference held at the Presidential Media Center on Sunday (16), the provincial councils, local government and environment Minister Janaka Wakambura said this.
+
+The Minister of State also stated that an emergency program has been launched to contribute to the economy of the country, which is not harmful to the environment.
 
 ...
 
 [Data](articles/a8030b2c.json)
+
+[Extended Data](ext_articles/a8030b2c.ext.json)
 
 ---
 
@@ -1038,6 +1086,22 @@ Due to the past bad weather, agricultural insurance was provided to the destroye
 
 ---
 
+### 
+
+*2024-06-17 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84206) · `en`
+
+Will  the current positions taken by Sajith Premadasa and Anura  Dissanayake Regarding the 13th Amendment  help bring about a positive change in the misconceptions among Sinhalese society about devolution of power.
+
+Although many amendments have been brought to the Sri Lankan Constitution during a period of more than four-and-a-half decades, which were detrimental to democratic governance, no major controversy has been raised against them.
+
+However, the 13th Amendment (13A), which has a relatively democratic dimension, has been in the Constitution for more than three-and-a-half decades but has been controversial for a long time.
+
+...
+
+[Data](articles/4111ec6a.json)
+
+---
+
 ### Sumanthiran says that Sivajilingam is accustomed to
 
 *2024-06-17 00:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவாஜிலிங்கத்துக்கு-பழக்கதோசம்-என்கிறார்-சுமந்திரன்/175-338988) · `ta`
@@ -1233,6 +1297,22 @@ The investigations by the Carabinieri of the operational unit of the company con
 ◼️
 
 [Data](articles/3b3e54e8.json)
+
+---
+
+### The proposal by President Ranil Wickremesinghe to grant a six months extension to Sri Lanka’s Attorney General has put the hapless holder of that office in the centre of a vicious political whirlwind
+
+*2024-06-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84201) · `en`
+
+The proposal by President Ranil Wickremesinghe to grant a six months service extension to Sri Lanka’s Attorney General has put the hapless holder of that office in the centre of a vicious political whirlwind that further damages the already badly battered public reputation of the chief law officer of the land.
+
+This must be said clearly and categorically. Absent that extension, the incumbent Attorney General will retire later this month. This controversial proposal has been placed with his customary aplomb by the President before the Constitutional Council (CC) sans any reflection on the grievous impact that this may have on constitutional propriety.
+
+That proposal is now being tossed like a red hot coal by the CC from one week to the next. All this hot air comes in the backdrop of a looming national poll (presidential or parliamentary as the case may be) and in the wake of the President’s favourites in the United National Party (UNP) declaring that polls should be postponed.
+
+...
+
+[Data](articles/d85252c9.json)
 
 ---
 
@@ -1951,51 +2031,5 @@ The Samanthurai Magistrate's Court has organized the foundation stone for the co
 [Data](articles/95200c8b.json)
 
 [Extended Data](ext_articles/95200c8b.ext.json)
-
----
-
-### Canada and India make a decision in the middle of the disagreement
-
-*2024-06-16 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197816) · `si`
-
-In the midst of a dispute, Canada and India reached a decision. Canadian PM Justin Trudeau issued a statement about India. Reports suggest discussions were held between the two nations' leaders, focusing on cooperation despite past tensions, particularly over a civil servant's murder in Canada.
-
-🟩
-
-Canadian Prime Minister Justin Trodedo has made a special statement regarding India.
-
-Indian Prime Minister Narendra Modi and Canadian Prime Minister Jarendra Modi and Canadian Prime Minister Jarendra Modi and Canadian Prime Minister Handked Among the G7.
-
-Foreign media reports that the two countries have discussions discussed.
-
-Later, the Canadian Prime Minister said that the two countries should be dedicated to work together.
-
-There was a crisis between the two countries based on a murder of a civilized in Canada.
-
-◼️
-
-[Data](articles/0e803597.json)
-
-[Extended Data](ext_articles/0e803597.ext.json)
-
----
-
-### Rare twin elephants born in Thailand ‘miracle’
-
-*2024-06-16 14:48:00* · [`islandlk`](http://island.lk/rare-twin-elephants-born-in-thailand-miracle/) · `en`
-
-An Asian elephant in central Thailand has given birth to a rare set of twins, in what caretakers have described as a miracle.
-
-The mother, 36-year-old Chamchuri, was not expected to deliver twins and when she gave birth to a male calf last Friday, staff at the Ayutthaya Elephant Palace and Royal Kraal, had thought the delivery was done.
-
-But while cleaning up the first calf and helping it stand on its feet, they heard a loud thud and realised that Chamchuri had given birth to a second calf, a female.
-
-The second birth sent the mother into a panic and caretakers had to restrain her to prevent her from stepping on the female calf. One caretaker was hurt in the melee.
-
-Dramatic footage on social media showed a crowd of caretakers – known locally as mahouts – frantically separating the female calf from the mother, with blood from the birth still visible on her hind legs.
-
-...
-
-[Data](articles/de6b2660.json)
 
 ---

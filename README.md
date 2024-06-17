@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 22:52:46**
+As of **2024-06-17 23:04:19**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,825 (100.0%) of 30,827 articles have been extended.
+30,827 (100.0%) of 30,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### බෙන්තොට හිටපු සභාපති රිමාන්ඩ්
+### Former Bentota Ex-chairman remanded
 
 *2024-06-17 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197860) · `si`
 
-කෝට්ටේ මාදිවෙල ප්‍රදේශයේදී ව්‍යාපාරිකයෙකුට පහරදී පැහැර ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් බෙන්තොට ප්‍රාදේශීය සභාවේ හිටපු සභාපති ගයාන් සිරිමාන්න ජුනි 26 වනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+The former Chairman of Bentota Pradeshiya Sabha has been remanded until June 26th. A businessman was abducted after crossing the street in Madiwela, Kotte, and later found near his home. The incident sparked controversy over a three-wheeler purchase. CCTV footage led to the identification of the suspect, who was presented to the Acting Magistrate Tissa Wijeratne in Nugegoda.
 
-ජීප් රථයකින් සහ මෝටර් රථයකින් පැමිණි පුද්ගලයින් 8 දෙනෙකු ඊයේ (16) කෝට්ටේ මාදිවෙල ප්‍රදේශයේදී මාර්ගය හරස්කර මෝටර් රථයකින් යමින් සිටි ව්‍යාපාරිකයෙකු පැහැරගෙන ගොස් තිබුණි.
+🟩
 
-ඒ, එම ව්‍යාපාරිකයාගෙන් මිලදී ගත් ත්‍රීරෝද රථයක් කල්බදු අතපසු වූ රථයක් බවට අනාවරණය වීමෙන් හටගත් මතභේදයක් මුල්කරගනිමිනි.
+The former Chairman of the Bentota Pradeshiya Sabha has been remanded until June 26.
 
-බෙන්තොට නිවසක රඳවාගෙන පහරදී, ත්‍රිරෝද රථය සඳහා ලබාගත් මුදල් යළි ලබාදෙන බවට ලිපියකට අත්සන් ගැනීමෙන් පසු ව්‍යාපාරිකයාව අද ඔහුගේ නිවස අසළට ගෙනැවිත් දමාගොස් තිබුණි.
+A businessman who was traveling from a car crossed the road from a jeep and car in Madiwela, Kotte had been abducted yesterday (16).
 
-පොලිසිය පැවසුවේ, බෙන්තොට ප්‍රාදේශීය සභාවේ හිටපු සභාපති ගයාන් සිරිමාන්න නමැත්තා ඔහුගේ ජීප් රථයෙන් මෙම පැහැර ගැනීම සඳහා පැමිණ ඇති බව සීසීටීවී දර්ශන අනුව කළ විමර්ශනවලදී අනාවරණය වූ බවය.
+It was based on the controversy by revealing a three-wheeler purchased from the businessman a lease.
 
-...
+After signing a letter to the three-wheeler and the money was being retained for the three-wheeler and returned to the three-wheeler, the businessman had been brought to his house today.
+
+Investigations were revealed in reviews from CCTV footage that the former Chairman of the Bentota Pradeshiya Sabha.
+
+The suspect was presented to the Acting Magistrate Tissa Wijeratne, Nugegoda.
+
+◼️
 
 [Data](articles/aa22912b.json)
+
+[Extended Data](ext_articles/aa22912b.ext.json)
 
 ---
 
@@ -69,6 +77,8 @@ The U.N. Refugee agency UNHCR, the International Organization for Migration (IOM
 ...
 
 [Data](articles/504ffb16.json)
+
+[Extended Data](ext_articles/504ffb16.ext.json)
 
 ---
 

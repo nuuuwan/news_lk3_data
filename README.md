@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 14:06:32**
+As of **2024-06-17 14:19:22**
 
 ## Newspaper Stats
 
-*Scraped **30,764** Articles*
+*Scraped **30,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,663
-adaderanalk | 3,486
+adalk | 2,664
+adaderanalk | 3,487
 tamilmirrorlk | 3,610
 virakesarilk | 4,721
 dailymirrorlk | 4,733
@@ -26,87 +26,145 @@ adaderanasinhalalk | 4,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,756 (100.0%) of 30,764 articles have been extended.
+30,764 (100.0%) of 30,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### ඉන්දියාවේ බිහිසුණු දුම්රිය අනතුරක් - 15ක් මරුට
+### සුදු වැන් රථයකින් පැමිණ තරුණයකු පැහැරගෙන ගිහින්
+
+*2024-06-17 13:46:47* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-වැන්-රථයකින්-පැමිණ-තරුණයකු-පැහැරගෙන-ගිහින්/11-410265) · `si`
+
+කළුතර හීනටියංගල දේවස්ථානය ආසන්නයේ දී සුදු වැන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇඳගත් පිරිසක් හීනටියංගල ප්‍රදේශයේ  24 හැවිරිදි තරුණයෙකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය කීයයි.
+
+සැකකරුවන්  එම තරුණයා ට පහරදී ඔහුව පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කල පරීක්ෂණවලදී හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කරයි. සැකකරුවන් හඳුනාගෙන ඇති බවත් ඔවුන් ප්‍රදේශය හැරගොස් සිටින බවත් ඔවුන්ව කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/dd126fea.json)
+
+---
+
+### India's terrifying train accident - 15 dead
 
 *2024-06-17 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197847) · `si`
 
-ඉන්දියාවේ බටහිර බෙංගාලයේ සිදුවූ දුම්රිය අනතුරකින් පුද්ගලයින් 15 දෙනෙක් මියගොස් 60 දෙනෙක් පමණ තුවාල ලබා තිබේ.
+In a tragic train accident in West Bengal, India, 15 died and over 60 were injured when two trains collided near Rangapani Railway Station. The incident occurred during passenger transport, causing significant damage and hospitalizing many.
 
-ඩාර්ජිලින්ග් දිස්ත්‍රික්කයේදී මෙලෙස අනතුරට ලක්ව ඇත්තේ මගී ප්‍රවාහන අධිවේගී දුම්රියක් සහ භාණ්ඩ ප්‍රවාහන දුම්රියක්.
+🟩
 
-අනතුරට ලක්වූ කන්චන්ජුන්ගා අධිවේගී දුම්රිය ඇසෑම් හි සිල්චාර් හි සිටි කොල්කටා බලා ධාවනය වෙමින් පැවතියේය.
+Fifteen persons were killed and 60 injured in a train accident in the west Bengal in India.
 
-රන්ගාපානී දුම්රිය ස්ථානය ආසන්නයේදී මගී ප්‍රවාහන දුම්රිය පසුපසින් පැමිණි භාණ්ඩ ප්‍රවාහන දුම්රිය එහි ගැටී අනතුර සිදුව තිබිණි.
+The injurition in the Dargelling district has been in danger of passenger transport and a transport train.
 
-අනතුරින් පසුව දුම්රිය දෙකම පීලිපැන ඇති අතර තුවාල ලැබූ පුද්ගලයින් 60කට වැඩි පිරිසක් රෝහල්ගත කිරීමට බලධාරීන් පියවර ගෙන තිබේ.
+The victim was running waiting for Kolkar in Sychatar, which was in danger.
+
+The train following the passenger transport train near the Rangapani Railway Station was collapsing.
+
+Both trains have been involved in the dealer and more than 60 injured persons have been hospitalized.
 
 ◼️
 
 [Data](articles/f20b24f4.json)
 
+[Extended Data](ext_articles/f20b24f4.ext.json)
+
 ---
 
-### රැකියා දෙන හැටි ජනපති කියයි
+### President says jobs
 
 *2024-06-17 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197846) · `si`
 
-මෙරට අනාගතය රඳාපවතින්නේ, ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරනු ලබන ආර්ථික ප්‍රතිපත්ති මත බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasized the importance of economic policies for the country's future during a conference in Mannar, where he discussed issues with the youth and met with the local business community. He highlighted his ability to revive the economy in two years and outlined government initiatives for Mannar district's development.
 
-මන්නාරම ප්‍රදේශයේ පැවති සමුළුවක් අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ, නිසි ආර්ථික සැලසුමකින් තොරව රට ඉදිරියට ගෙන යා නොහැකි බවය.
+🟩
 
-"දීප්තිමත් අනාගතයක් සඳහා වූ ගමනක්" මැයෙන් සංවිධාන කළ මන්නාරම දිස්ත්‍රික් තරුණ සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (16) පැවැත්විය.
+President Ranil Wickremesinghe says that the future of the country depends on economic policies implemented in the next five years.
 
-එහිදී ජනාධිපතිවරයා තරුණ තරුණියන් අතරට ගොස් ඔවුන්ගේ ගැටලු පිළිබඳ සාකච්ඡා කිරීමට කටයුතු කළේය.
+Addressing a conference in Mannar, the President added that the country could not be carried forward without a proper economic plan.
 
-රාජ්‍ය අමාත්‍ය කාදර් මස්තාන්, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සෙල්වම් අඩෙක්කලනාදන්, උතුරු පළාත් ආණ්ඩුකාර පී.එස්.එම්. චාර්ල්ස් යන මහත්ම මහත්මීන් සහ පළාතේ දේශපාලන නියෝජිතයන් ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+President Ranil Wickremesinghe, organized by President Ranil Wickremesinghe, was held yesterday (16) under the patronage of President Ranil Wickremesinghe.
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ මන්නාරම දිස්ත්‍රික් ව්‍යාපාරික ප්‍රජාව අතර හමුවක් ද මන්නාරමේ දී ඊයේ පැවැත්විය.
+The president went out among the youths and discuss their problems.
+
+State Minister Kader Masatan, Members of Parliament Selvam Adequilatean, Northern Province Governor PSM. The political representatives of the Charles and the province were present at the occasion.
+
+Meanwhile, a meeting between President Ranil Wickremesinghe and Mannar district business community also held yesterday.
+
+Addressing the people, the President said he was able to restore the economy of the country within two years and strengthening the country's economy.
 
 ...
 
 [Data](articles/c0918c96.json)
 
+[Extended Data](ext_articles/c0918c96.ext.json)
+
 ---
 
-### மாளிகாவத்தை மண்டபத்தில் தீ
+### Fire in the Maligawatte Hall
 
 *2024-06-17 13:40:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தை-மண்டபத்தில்-தீ/175-339024) · `ta`
 
-கொழும்பு, மாளிகாவத்தை ஜயந்த வீரசேகர மாவத்தையில் அமைந்துள்ள விழா மண்டபம் ஒன்றில் திங்கட்கிழமை (17) தீ பரவியுள்ளதாக மாளிகாவத்தை பொலிஸார் தெரிவித்தனர்.
+A fire broke out during a ceremony at a hall in Colombo, Maligawatte, but was quickly contained by two fire trucks without causing any injuries. The cause is believed to be related to the event itself.
 
-தீயணைப்பு படையின் இரண்டு தீயணைப்பு வாகனங்கள் வந்து தீயை முழுமையாக அணைத்ததாகவும், உயிர் சேதம் ஏதும் ஏற்படவில்லை என்றும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-விழா அரங்கில் ஏற்பட்ட மின்கசிவு காரணமாக தீ விபத்து ஏற்பட்டிருக்கலாம் என பொலிஸார் கருதுகின்றனர்.
+The Maligawatte police said that the fire had been spread at a ceremony hall in Jayantha Weerasekera Mawatha, Colombo, Maligawatte, Colombo.
+
+Two fire trucks of the fire brigade arrived and extinguished the fire and no casualties were caused, police said.
+
+Police believe that a fire may have been caused by a fire in the ceremony.
 
 ◼️
 
 [Data](articles/72f58338.json)
 
+[Extended Data](ext_articles/72f58338.ext.json)
+
 ---
 
-### කුලී ආදායම් බද්ද ගැන මුදල් අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry of Finance announced on rent income tax
 
 *2024-06-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197845) · `si`
 
-ආරෝපිත කුලී ආදායම් බද්ද ගැන පැහැදිලි කරමින් මුදල් අමාත්‍යංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Finance clarified the term "rent income tax," used in discussions about the Elapse Financial Facility and its collaboration with the IMF. This tax is aimed at stabilizing the economy and national policy, not targeting general income earners. The announcement aims to correct misconceptions surrounding this tax.
 
-එහි දැක්වෙන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහයෝගීතාව සහිතව ක්‍රියාත්මක වන විස්තීර්ණ මූල්‍ය පහසුකම වැඩසටහන සම්බන්ධව මෑත දී ප්‍රකාශයට පත්කළ ලියවිල්ලෙහි ‘ආරෝපිත කුලී ආදායම් බද්ද‘ ලෙස ක්‍රියාත්මක වීමට නියමිත, යෝජිත දේපොළ බද්ද පිළිබඳව දක්වා ඇති බවයි.
+🟩
 
-ඒ සම්බන්ධයෙන් විවිධ දුර්මත සමාජය තුළ ඇතිවී තිබෙන බව අදාළ නිවේදනයෙහි දැක්වෙයි.
+The Ministry of Finance has issued a statement explaining the charged rent income tax.
 
-එම බද්ද තුළින් අවධානය යොමුකර ඇත්තේ සාමාන්‍ය ආදායම් ලබන්නන් කෙරෙහි නොව, ඉහළ වත්කම් සහිත පුද්ගලයන් කෙරෙහි බවත් මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය නිකුත්කළ එම නිවේදනයෙහි සඳහන්  වෙයි.
+It states that the recent financial support of the Elapse Financial Facility in the International Monetary Fund's Collaboration with the proposed real estate tax, which is scheduled to be implemented, has been referred to as 'charged revenue tax'.
 
-ඒ සම්බන්ධයෙන් කරුණු පැහැදිලි කරමින් මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය විසින් නිකුත් කළ එම සම්පූර්ණ මාධ්‍ය නිවේදනය පහතින් දැක්වෙයි.
+The announcement states that there was a situation in various misconception.
+
+The tax focuses not on the general incomeors, not on the general incomeors, but in the announcement issued by the Ministry of Finance, Economic Stability and National Policy.
+
+Below is the full press release issued by the Ministry of Finance, Economic Stability and National Policy.
 
 ◼️
 
 [Data](articles/cd27578b.json)
+
+[Extended Data](ext_articles/cd27578b.ext.json)
+
+---
+
+### Railway collision in eastern India kills 15, injures several
+
+*2024-06-17 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99927/railway-collision-in-eastern-india-kills-15-injures-several) · `en`
+
+A freight train smashed into the rear of a stationary passenger train in India’s West Bengal state on Monday, killing at least 15 people and injuring dozens, police said, in an accident that railway authorities blamed on a disregarded signal.
+
+Media showed images of the pile-up, with containers from the goods train strewn nearby, and one carriage left nearly vertical after the accident, which comes just over a year after a signalling error caused one of India’s worst rail crashes.
+
+At least 15 bodies have been pulled from the mangled carriages, Abhishek Roy, a senior police official in the eastern state’s district of Darjeeling, the site of the accident, told Reuters.
+
+Nearly 30 people were injured and rescue teams from the police and national disaster response force were working with doctors and residents of the area to clear debris from the derailed carriages, Roy added.
+
+...
+
+[Data](articles/c0b5f8ce.json)
 
 ---
 
@@ -132,33 +190,51 @@ Authorities say ambulances and disaster teams have been sent to the site for res
 
 [Data](articles/f8096e33.json)
 
+[Extended Data](ext_articles/f8096e33.ext.json)
+
 ---
 
-### திருமண பந்தத்தில் இணைந்தார் தரிஜினி
+### Darijini joined the marriage bond
 
 *2024-06-17 13:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருமண-பந்தத்தில்-இணைந்தார்-தரிஜினி/175-339022) · `ta`
 
-இலங்கை வலைப்பந்து நட்சத்திர வீராங்கனை தரிஜினி சிவலிங்கம் திருமண பந்தத்தில் திங்கட்கிழமை (17) இணைந்துகொண்டார்.
+Sri Lankan celebrity Darijini Sivalingam married on Monday (17).
+
+🟩
+
+Sri Lankan network star Darijini Sivalingam joined the wedding on Monday (17).
 
 ◼️
 
 [Data](articles/e6a61eed.json)
 
+[Extended Data](ext_articles/e6a61eed.ext.json)
+
 ---
 
-### ඉදිරි ආණ්ඩුවක අගමැති පත්කරන්නේ පොහොට්ටුවෙන්
+### The prime minister is appointed by the pointer
 
 *2024-06-17 13:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ආණ්ඩුවක-අගමැති-පත්කරන්නේ-පොහොට්ටුවෙන්/11-410263) · `si`
 
-ඉදිරියේ පත් වන ආණ්ඩුවේ අගමැතිවරයා පත් කිරීම අනිවාර්යෙන්ම පොහොට්ටුවෙන් සිදු වන බව ශ්‍රී ලංකා පොදු ජන පෙරමුණු අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම් චන්ද්‍රසේන මහතා පැවසීය.
+SM Chandrasena, SLFP MP, stated at a public meeting in Eppawala that the next Prime Minister will be decided by the party, not the president. He emphasized the importance of internal discussions within the party to select the best candidate. The process involves evaluating potential candidates based on their merits and the party's needs.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර, එප්පාවල ප්‍රදේශයේ පැවති ජන හමුවකින් අනතුරුව මාධ්‍යය වෙත අදහස් දක්වමින්ය.
+🟩
 
-“අනුරාධපුර සල්ගාදු පිටියේ දැවැන්ත රැස්වීම් තියන්නේ අපි, මං දැක්කා සල්ගාදු පිටියේ හට් 03 ක් ගහලා, හට් 03 ක තමයි කට්ටිය හිටියේ, අපි හට් ගහන්නේ නෑ, වේදිකාව හදලා සම්පූර්ණම අපේ ජනතාව හිටගෙන ඉඳලා වාඩිවෙන්නෙත් නෑ, සමහර දවස් වලට වේදිකාවත් කඩාගෙන ඉස්සරහාට එනවා, ආරක්ෂක වැටවල් කඩාගෙන එනවා, මේ රැස්වීමේ එහෙම දෙයක් පෙන්න තිබුණේ නෑ, සල්ගාදු පිටියේ ඔය රැස්වීම අපිට අභියෝගයක් නෙමෙයි, ජනාධිපතිවරණය ප්‍රකාශයට පත් කරපු හැටියේ වෙනදා වගේම සල්ගාදු පිටිය පුරවන්න හයිය ශක්තිය අපිට තියෙනවා, ඔය රැස්වීම ඒ තරම් ලොකු දෙයක් හැටියට අපි සලකන්නේ නෑ.
+Common Fanishing Secretary (SLBF) MP SM Chandrasena said that the appointment of the Prime Minister of the government will take place from the pointer.
+
+He was speaking at a public meeting in Eppawala, Anuradhapura.
+
+"We have held massive meetings in the Anuradhapura Salgadu area and lay the platform and cast the platform and crashes into the platform, to some daysThere was no such thing in this meeting, but we have the strength to fill the gathering as a big deal.
+
+President to make a permanent statement, it is not a permanent statement, it has been the responsibility of the Elections and the Elections for the election commission.The Commission fulfills the responsibility.
+
+Maithripala Sirisena was the only 24-hour candidate for the country, the Gotabhaya as soon as the Gotabhaya asks for our presidential candidate.Similarly, two of the names of the presidential candidates formerly cast.
 
 ...
 
 [Data](articles/ecd3743b.json)
+
+[Extended Data](ext_articles/ecd3743b.ext.json)
 
 ---
 
@@ -192,21 +268,29 @@ The suspect is a 41 year old resident of Avissawella.The Director of the South D
 
 ---
 
-### ரயில்கள் மோதின: 15 பேர் உயிரிழப்பு
+### Trains collide: 15 people die
 
 *2024-06-17 13:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்கள்-மோதின-15-பேர்-உயிரிழப்பு/175-339021) · `ta`
 
-ஒரே தண்டவாளத்தில் பயணித்த ரயில்கள் மோதியதால், 15 பேர் உயிரிழந்தனர் 60 பேர் காயமடைந்தனர் சம்பவம் இந்தியாவில் இடம்பெற்றுள்ளது.
+In a tragic accident near Rangabhani Railway Station, Darjeeling, India, two trains collided, resulting in 15 deaths and over 60 injuries. The Kanjanjanga Express was halted due to a missing signal when it was rear-ended by a freight train. Three compartments of the express train were destroyed. Rescue efforts are ongoing, with railway officials and medical teams responding to the incident.
 
-மேற்குவங்க மாநிலம் டார்ஜிலிங் மாவட்டத்தில் ரங்காபாணி ரயில் நிலையம் உள்ளது. இந்த ரயில் நிலையத்தை நோக்கி கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயில் சென்று கொண்டிருந்தது. அப்போது சிக்னல் கிடைக்காததால், ரயில் நிறுத்தப்பட்டது.
+🟩
 
-அந்த நேரத்தில், கஞ்சன் ஜங்கா ரயில் நின்று கொண்டிருந்த அதே தண்டவாளத்தில் வேகமாக வந்த மற்றொரு சரக்கு ரயில் வந்துள்ளது. கண்ணிமைக்கும் நேரத்தில் இந்த சரக்கு ரயில் முன்னால் நின்றிருந்த கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயிலின் பின்புறத்தில் மோதியது.
+Trains on the same rails collided with 15 killed and 60 injured in India.
 
-இதில் கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயிலின் 3 ரயில் பெட்டிகள் பலத்த சேதமடைந்தன. இந்த பெட்டிகளில் இருந்த 15 பேர் உயிரிழந்துள்ளனர். 60-க்கும் மேற்பட்டோர் காயம் அடைந்துள்ளனர். காயம் அடைந்தவர்கள் மீட்கப்பட்டு சிகிச்சைக்காக மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+Rangabhani Railway Station in Darjeeling District of West Bengal. The Kanjanjanga Express train was heading towards the railway station. The train was stopped as the signal was not available.
 
-...
+At the time, another freight train arrived on the same railway where the Kanjan Janga train was standing. The freight train crashed into the back of the Kanjanjanga Express train.
+
+The 3 train compartments of the Kanjanjanga Express train were severely damaged. 15 people in these boxes have died. More than 60 people have been injured. The injured have been rescued and sent to the hospital for treatment.
+
+Central Railway Minister Aswini Vaishnav said the accident was a shock and alarm, saying, “Rescue operations are underway and the railway senior officials have rushed to the scene of the accident.. Help numbers have also been announced on the railway side
+
+◼️
 
 [Data](articles/575f8101.json)
+
+[Extended Data](ext_articles/575f8101.ext.json)
 
 ---
 
@@ -2225,55 +2309,5 @@ Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military office
 [Data](articles/fb52118a.json)
 
 [Extended Data](ext_articles/fb52118a.ext.json)
-
----
-
-### Nisanga Wijeratne with a multi -faceted and multi -faceted personality
-
-*2024-06-16 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186221) · `ta`
-
-It seems you've shared a detailed historical narrative focusing on the career and contributions of Nisanga Wijeratne, a significant figure in Sri Lanka's civil service and politics. This account spans several decades, highlighting his roles as a government agent, minister, and his involvement in pivotal moments during Sri Lanka's history.
-
-
-
-If you have specific questions or need further details on any aspect of Nisanga Wijeratne's life, the events described, or any other topic related to this narrative, please let me know how I can assist you further
-
-🟩
-
-"A man plays many roles in the time of life," said William Sakesbire in his "As You Like It).. His observation is very perfect to describe the life and work of Dr. Nisanga Wijeratne.
-
-The 100th birthday of Nisanga Parakrama Wijeratne, known as Nisanga, is on June 14. As a military officer, academic, poet, a government chancellor, a permanent secretary, a Member of Parliament, Cabinet Minister, Ambassador .... Above all, Wijeratne held many positions in his eight decades of life, which is beneficial to the Sridalada House.
-
-This article is written in front of her birth century, with a multi -faceted and multi -faceted power of the motherland.
-
-...
-
-[Data](articles/e444e7ec.json)
-
-[Extended Data](ext_articles/e444e7ec.ext.json)
-
----
-
-### Member of Parliament for Pohot goes to Sajith's team
-
-*2024-06-16 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197829) · `si`
-
-Sajith Premadasa, Opposition Leader, prioritizes time with Rajarata farmers over foreign travel, attending the Rajarata Farmers Janata Summit. The event, part of the Samaratic Force, highlights his commitment to local issues.
-
-🟩
-
-Opposition Leader Sajith Premadasa says he is spending time with Rajarata farmer than traveling in London or another country.
-
-He was speaking at the Rajarata Farmers Janata Summit of the Samaratic Force.
-
-The Rajarata Farmers Council Conference of the Rajarata Farmers in the Sritoonic Force was held at the Salgadu Stadium this afternoon.
-
-Anuradhapura District Parliamentarian KPS Indigenous from the Sri Lanka General Front. Mr. Kumarasiri joined the Capital Stage.
-
-◼️
-
-[Data](articles/3b3e54e8.json)
-
-[Extended Data](ext_articles/3b3e54e8.ext.json)
 
 ---

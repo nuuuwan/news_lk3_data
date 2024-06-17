@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 18:53:49**
+As of **2024-06-17 19:04:30**
 
 ## Newspaper Stats
 
-*Scraped **30,808** Articles*
+*Scraped **30,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
-adalk | 2,671
+adalk | 2,672
 adaderanalk | 3,492
 tamilmirrorlk | 3,612
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,808 (100.0%) of 30,808 articles have been extended.
+30,808 (100.0%) of 30,809 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,26 @@ Specialist Dr. Palitha Mahipala made these comments participating in the prevent
 [Data](articles/bfa45be8.json)
 
 [Extended Data](ext_articles/bfa45be8.ext.json)
+
+---
+
+### බාල වයස්කාර හිමිනමකට ලිංගික අපයෝජනයක් කළ චීවරධාරියෙකු අත්අඩංගුවට
+
+*2024-06-17 18:02:21* · [`adalk`](https://www.ada.lk/breaking_news/බාල-වයස්කාර-හිමිනමකට-ලිංගික-අපයෝජනයක්-කළ-චීවරධාරියෙකු-අත්අඩංගුවට/11-410267) · `si`
+
+අනුරාධපුර පිහිටි විහාරස්ථානයක වැඩ සිටි වයස අවුරුදු 13ක බාලවයස්කාර හිමි නමකට බරපතල ලිංගික අපයෝජනයක් සිදු කල චීවරධාරියෙකු ඊයේ (16දා) අත්අඩංගුවට ගත් බවත් , ඒ සම්බන්ධයෙන් තවත් චීවරධාරියෙකු අත්අඩංගුවට  ගැනීමට විමර්ශන ක්‍රියාත්මක බවද අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි
+
+ෙමෙම සිද්ධියට සම්බන්ධයෙන් මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ අනුරාධපුර නව නගරය ආසන්නයේ ඇති විහාරස්ථානයක වාසය කල  සිටි 22 හැවිරිදි  ධීවරධාරියකි.
+
+පැමිණිලි කාර  හිමිනම  වෙනත් විහාරයක  හතරවන වසරේ පිරිවෙන් අධ්‍යාපනය  ලබන අතර අවශ්‍යතාවයකට කලින් සිටි  විහාරස්ථානයට වැඩම කල  අවස්ථාවේදී සිද්ධියට මුහුණ පා ඇති  බව පොලිසිය කියයි.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් තවත් චීවරධාරියෙකු  අත්අඩංගුවට ගැනීම සඳහා විමර්ශන ක්‍රියාත්මක  බවද පොලිසිය වැඩි  දුරටත් සඳහන් කළේය.
+
+පැමිණිලි කාර බාලවයස්කාර හිමි නම, මේ වන විට අනුරාධපුර ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන බවද පොලිසිය වැඩි දුරටත් සදහන් කලේය. අත්අඩංගුවට ගත් චීවරධාරියා අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව සිටියහ.
+
+◼️
+
+[Data](articles/4506e437.json)
 
 ---
 
@@ -2395,29 +2415,5 @@ Meanwhile, four were sunded and admitted to the Base Hospital.
 [Data](articles/fee60c43.json)
 
 [Extended Data](ext_articles/fee60c43.ext.json)
-
----
-
-### Water supply to several areas disrupted due to damaged pipeline
-
-*2024-06-17 07:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99918/water-supply-to-several-areas-disrupted-due-to-damaged-pipeline-) · `en`
-
-The National Water Supply and Drainage Board (NWS&DB) says that the water supply in Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama and Mattegoda areas have been interrupted until further notice.
-
-The water supply to these areas has been interrupted due to a damage in the transmission pipeline from the Kalatuwawa Treatment Plant.
-
-According to reports, the water transmission pipeline from the Kalatuwawa Treatment Plant has burst at Godagama near the High-Level Road owing to a vehicular accident.
-
-A car had veered off the road and collided with the water transmission pipeline this morning (17) causing severe damage to the pipeline.
-
-Piyal Rajapaksa, the Operations Manager of the Kalatuwawa Reservoir in Labugama, has indicated that repairs are expected to be completed and the water supply restored by this evening.
-
-As a result of the incident, the water supply to over 100,000 housing units in the affected areas has been interrupted until further notice.
-
-◼️
-
-[Data](articles/e0aa98d1.json)
-
-[Extended Data](ext_articles/e0aa98d1.ext.json)
 
 ---

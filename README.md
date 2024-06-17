@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 18:13:26**
+As of **2024-06-17 18:25:18**
 
 ## Newspaper Stats
 
-*Scraped **30,804** Articles*
+*Scraped **30,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ dbsjeyarajcom | 284
 bbccomsinhala | 301
 newsfirstlk | 363
 islandlk | 1,682
-economynextcom | 1,782
+economynextcom | 1,783
 dailyftlk | 1,873
-adalk | 2,670
+adalk | 2,671
 adaderanalk | 3,492
 tamilmirrorlk | 3,611
 dailymirrorlk | 4,733
 virakesarilk | 4,738
-adaderanasinhalalk | 4,993
+adaderanasinhalalk | 4,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,803 (100.0%) of 30,804 articles have been extended.
+30,804 (100.0%) of 30,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### මෙරට ජනතාව ගැන සෞඛ්‍ය අංශයෙන් තක්සේරුවක්
+
+*2024-06-17 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197855) · `si`
+
+කලාපයේ රටවල් සමග සැසදීමේදී වැඩි වශයෙන් රෝහල් සහ බාහිර රෝගී අංශයෙන් ප්‍රතිකාර සේවාවන් ලබා ගැනීමට යොමුවන්නේ මෙරට ජනතාව බව සෞඛ්‍ය අමාත්‍යංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+
+එමෙන්ම මෙරට පුරවැසියෙකු වසරකට හය වතාවක් ප්‍රතිකාර ලබාගැනීමට රෝහල් වෙත පැමිණෙන බව සෞඛ්‍ය ලේකම්වරයා පෙන්වාදෙයි.
+
+මෙම තත්ත්වය තුළ රෝග නිවාරණය සම්බන්ධයෙන් ජනතාව තුළ අවබෝධයක් ඇති කළ යුතු බව මාතලේ සහ දඹුල්ල රෝහල් නිරීක්ෂණයට එක්වෙමින් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා එම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/bfa45be8.json)
+
+---
 
 ### Rainy conditions expected to enhance in next few days
 
@@ -305,6 +321,28 @@ The girl who was injured was admitted to the Peradeniya Teaching Hospital for fu
 [Data](articles/06fef06c.json)
 
 [Extended Data](ext_articles/06fef06c.ext.json)
+
+---
+
+### In Sri Lanka’s North, legal alcohol is too far away, Lion Brewery says
+
+*2024-06-17 16:15:00* · [`economynextcom`](https://economynext.com/in-sri-lankas-north-legal-alcohol-is-too-far-away-lion-brewery-says-168449/) · `en`
+
+ECONOMYNEXT – Legal alcohol is too far away for some customers to access in Sri Lanka’s North due to the lack of legal outlets, forcing them to consume illicit products, though new licenses issued recently have helped in other areas, according to an industry official.
+
+While the average distance to a legal alcohol outlet was 45 square kilometers, in the Northern district it was 167 square kilometers.
+
+“Clearly, this opens the door for informal activity as these distances are simply beyond reasonable,” Lion Brewery (Ceylon) PLC chief executive officer R H Meewakkala told shareholders in the annual report.
+
+Sri Lanka has recently issued more beer licenses which has improved sales of legal products, he said.
+
+“It is another lever which the Government should use to curb illicits by increasing access to legal products,” Meewakkala said.
+
+“The issuance of licenses in areas where poor licensed outlet penetration is prevalent has resulted in a positive direction.
+
+...
+
+[Data](articles/a5beff66.json)
 
 ---
 
@@ -1084,17 +1122,27 @@ Central Railway Minister Aswini Vaishnav said the accident was a shock and alarm
 
 ---
 
-### ඉන්දියාවේ අවසර නොලැබීමෙන් සලාමා සිසුවාගේ ලෝක වාර්තා සිහිනය බොඳ වෙයි
+### Salama is blurred by the World Records of the Study
 
 *2024-06-17 13:10:33* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-අවසර-නොලැබීමෙන්-සලාමා-සිසුවාගේ-ලෝක-වාර්තා-සිහිනය-බොඳ-වෙයි/11-410260) · `si`
 
-ඉන්දියාවේ ධනුස්කොඩි වරායේ සිට පෝක් සමුද්‍ර සන්ධිය හරහා ලංකාවේ තලෙයි මන්නාරමට පිහිනා ලෝක වාර්තාවක් තැබිමට ගිය ත්‍රිකුණාමලය සහිරා විද්‍යාලයේ 10 වසරේ ඉගෙනුම ලබන පහමි හසන් සලාමා සිසුවාට ඒ සදහා ඉන්දියානු රජයේ නිසි අවසරය අන්තිම මොහොතේ නොලැබිම නිසා තලෙයි මන්නාරමට ගිය පිරිසට ආපසු හැරි ඒමට සිදුවිය.
+Salama, a student from Sahara Vidyalaya, participated in a global event at the Port of Dunusukody, supervised by the Sri Lanka Water Sports Association and approved by both the Sri Lanka and Indian High Commissions. The event involved monitoring the port's activities, with Salama's father acting as a lifeguard. Despite a 45-kilometer journey from Mannar, Salama and her team successfully completed the mission, showcasing dedication and resilience.
 
-ශ්‍රී ලංකා ජල ක්‍රීඩා සංගමයේ අධීක්ෂණය යටතේ මේ සඳහා ශ්‍රී ලංකා ඉන්දියානු මහ කොමසාරිස් කාර්යාලයෙන් අවසරය ලබාගෙන තිබූ අතර ඒ අනුව ඉකුත්15 වෙනිදා බෝට්ටු මගින් ඉන්දියාවට යෑමට සූදානම්ව  සිටියදී ඉන්දීය බලධාරීන්ගේ අවසරය අත්හිටුවීම නිසා පිරිසට මේ තත්ත්වයට මුහුණ දීමට සිදුවිය .
+🟩
 
-...
+The Lowarm Saramayam, who was in the 10-year learning of the Government of Sahara Vidyalaya, was a global reporting from the Port of Dunusukody, from the Port of India to the Palk Strait.
+
+Under the supervision of the Sri Lanka Water Sports Association, the Sri Lanka High Commission had obtained permission from the Indian High Commission.
+
+A separate official group of students to monitor the world's report to the Port of Danuuscom, a lifeguard and the father of the student was ready to monitor the world's report.It was a distance of 45 kilomes to Mannar from Mannar and completed the disappointment.
+
+Joseph, a resident of the student, said that 40 lakhs were asked to promptly to prepare all the work from months training.
+
+◼️
 
 [Data](articles/28207219.json)
+
+[Extended Data](ext_articles/28207219.ext.json)
 
 ---
 
@@ -1117,6 +1165,26 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 [Data](articles/8aa717f7.json)
 
 [Extended Data](ext_articles/8aa717f7.ext.json)
+
+---
+
+### ශ්‍රි පාද මාර්ගය මෙන්ම මඩු මාර්ගය පවතින්නෙත් වන්දනාකරුවන්ට
+
+*2024-06-17 13:02:58* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-පාද-මාර්ගය-මෙන්ම-මඩු-මාර්ගය-පවතින්නෙත්-වන්දනාකරුවන්ට/11-410259) · `si`
+
+මඩු වන්දනාකරුවන්ට බාධාවකින් තොරව සිය වන්දනා කටයුතුවල නිරතවීමට අවශ්‍ය පහසුකම් සලසා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මඩු දේවස්ථානයට පැමිණෙන මාර්ගය සහ ශ්‍රී පාදයට පැමිණෙන මාර්ගය තිබෙන්නේ වන්දනාකරුවන් සඳහා බව පෙන්වා දුන් ජනාධිපතිවරයා එම වන්දනාකරුවන් අත්අඩංගුවට ගෙන දඩ නියම කිරීම සාධාරණ කටයුත්තක් ලෙස තමා නොදකින බවද සඳහන් කළේය.
+
+මඩු වන්දනාකරුවන් ඉදිරියේදී යළි අත්අඩංගුවට පත්වුවහොත් වහාම ඒ පිළිබඳ ජනාධිපති කාර්යාලය දැනුවත් කරන ලෙසද ජනාධිපතිවරයා මෙහිදී දැනුම් දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මන්නාරම දිස්ත්‍රික් ලේකම් කාර්යාලයේ ඊයේ (16) පැවති මන්නාරම දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමට එක්වෙමිනි.
+
+ප්‍රශ්න මතුව ඇත්නම් සියලුදෙනා එක්ව සාකච්ඡා කර ඒවාට විසඳුම් සෙවීමේ අවශ්‍යතාවය ද ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/8bb119f7.json)
 
 ---
 
@@ -2345,61 +2413,5 @@ Kusal Mendis and Dhananjaya de Silva added 45 runs for the third wicket.
 [Data](articles/a162df3b.json)
 
 [Extended Data](ext_articles/a162df3b.ext.json)
-
----
-
-### Hajj celebration delivers profound message for world peace - President
-
-*2024-06-17 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99917/hajj-celebration-delivers-profound-message-for-world-peace-president) · `en`
-
-The Hajj celebration fosters feelings of equality and brotherhood among all people, delivering a profound message for world peace, says President Ranil Wickremesinghe.
-
-In his message on the occasion of the Hajj festival, the President extended his heartfelt wishes to the entire Muslim community in Sri Lanka and around the world for a meaningful Hajj celebration, where everyone comes together to fulfill the aspirations of humanity.
-
-“To achieve spiritual and worldly success, individuals must abandon selfishness and embrace a life of sacrifice and harmony. Muslims celebrate the Hajj festival each year with this noble aim in mind.
-
-On this occasion, Muslims from around the globe gather at a single place of worship, united in purpose, to pray for communal values that embody the hope of humanity. The Hajj celebration fosters feelings of equality and brotherhood among all people, delivering a profound message for world peace.
-
-...
-
-[Data](articles/529baa1c.json)
-
-[Extended Data](ext_articles/529baa1c.ext.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-06-17 06:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99916/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts, it said.
-
-◼️
-
-[Data](articles/a95e391d.json)
-
-[Extended Data](ext_articles/a95e391d.ext.json)
-
----
-
-### Weather today
-
-*2024-06-17 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197831) · `si`
-
-Showers expected in Western, Sabaragamuwa, and North Western Provinces, including Galle, Matara, Kandy, and Nuwara Eliya districts. Strong winds forecasted for Trincomalee, Hambantota, and Moneragala districts.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and North Western Provinces will occur in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. (40-50) Informed that there is about strong winds.
-
-◼️
-
-[Data](articles/48f30979.json)
-
-[Extended Data](ext_articles/48f30979.ext.json)
 
 ---

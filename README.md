@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 16:51:25**
+As of **2024-06-17 17:04:28**
 
 ## Newspaper Stats
 
-*Scraped **30,790** Articles*
+*Scraped **30,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,682
 economynextcom | 1,782
 dailyftlk | 1,873
 adalk | 2,668
-adaderanalk | 3,490
+adaderanalk | 3,491
 tamilmirrorlk | 3,611
 virakesarilk | 4,731
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,790 (100.0%) of 30,790 articles have been extended.
+30,790 (100.0%) of 30,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### Special toll-free railway service for Poson week
+
+*2024-06-17 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99932/special-toll-free-railway-service-for-poson-week) · `en`
+
+Sri Lanka Railways has decided to implement a special railway service offering toll-free rides for a week starting from today (17) for passengers heading to Mihintale from Anuradhapura for Poson Poya Day.
+
+Moreover, necessary steps have been taken to implement a special bus service from Maho railway station to Anuradhapura for the railway passengers who come from Colombo to Maho.
+
+Due to the ongoing renovation activities along the Northern Railway track between Maho and Anuradhapura railway stations, no trains will be running from Maho to Anuradhapura during this period. Therefore, to accommodate pilgrims’ convenience, it has been decided to allocate around 400 additional buses to facilitate this.
+
+In addition, Minister of Highways, Transport, and Mass Media, Bandula Gunawardena inaugurated the renovated railway line in between Mihintale and Anuradhapura today (17).
+
+...
+
+[Data](articles/ffffc8da.json)
+
+---
 
 ### Coconut oil sent to flour
 
@@ -930,13 +948,13 @@ It has also been revealed that these houses have many small children and many ot
 
 *2024-06-17 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99925/president-awards-freehold-land-deeds-to-mahaweli-walawa-settlers-) · `en`
 
-President Ranil Wickremesinghe has distributed freehold deeds to 1,524 out of the 45,253 eligible Mahaweli Walawa settlers today (17), under the ‘Urumaya’ national program.
+President Ranil Wickremesinghe stated that through the “Urumaya” program, the government’s intent is to express gratitude to farmers who have supplied rice to the country despite not owning the land.
 
-The programme was held at the Ambilipitiya Mahaweli Office Stadium this morning (16) under the patronage of President Wickremesinghe, the President’s Media Division (PMD) said.
+He also emphasized that the current government aims to provide both knowledge and rights to the people, akin to how C.W.W. Kannangara promoted education through free schooling.
 
-The ‘Urumaya’ national program is expected to grant 2 million freehold land deeds to people across the island.
+President Wickremesinghe made these remarks at a ceremony held this morning (17) at the Embilipitiya Mahaweli Stadium. The event was for the awarding of freehold land deeds to 1,524 out of 45,253 eligible settlers in the Mahaweli Walawa region as part of the national “Urumaya” program to provide 02 million freehold land deeds. The President participated in the Urumaya ceremony and the symbolic distribution of land deeds.
 
-◼️
+...
 
 [Data](articles/14606f08.json)
 
@@ -2345,29 +2363,5 @@ Relatives have left the house last Friday evening and went to the Thousand Leg M
 [Data](articles/5d21c325.json)
 
 [Extended Data](ext_articles/5d21c325.ext.json)
-
----
-
-### SJB pledges to revive OMP and Office for Reparations
-
-*2024-06-17 01:35:19* · [`dailyftlk`](https://www.ft.lk/news/SJB-pledges-to-revive-OMP-and-Office-for-Reparations/56-763159) · `en`
-
-SJB MP Eran Wickramaratne emphasises crucial role of Northern opinions in achieving national unity
-
-Says SL’s target GDP growth exceeding 8%, contingent upon resolving social and political issues and achieving national unity
-
-Reveals SJB leader promised to North to hold provincial and LG polls
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne announced yesterday that a future SJB Government will revive the currently dormant Office on Missing Persons (OMP) and the Office for Reparations, as requested by politicians and residents of the North.
-
-Speaking at a press conference in Colombo, Wickramaratne emphasised the significance of ideas and opinions from the people of the North in building a unified Sri Lanka.
-
-“The opinions of the people in the North are crucial for fostering a unified Sri Lanka. Without achieving unity at the social and political levels, economic development will be unattainable. Political stability is essential for economic growth,” he said.
-
-...
-
-[Data](articles/5bc803bc.json)
-
-[Extended Data](ext_articles/5bc803bc.ext.json)
 
 ---

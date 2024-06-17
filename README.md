@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 17:19:20**
+As of **2024-06-17 17:34:58**
 
 ## Newspaper Stats
 
-*Scraped **30,794** Articles*
+*Scraped **30,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 1,873
 adalk | 2,669
 adaderanalk | 3,491
 tamilmirrorlk | 3,611
-virakesarilk | 4,731
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,992
+virakesarilk | 4,737
+adaderanasinhalalk | 4,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,791 (100.0%) of 30,794 articles have been extended.
+30,794 (100.0%) of 30,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### அநுராதபுரம் மற்றும் மிஹிந்தலை புதிய ரயில் மார்க்கம்  திறப்பு
+
+*2024-06-17 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186288) · `ta`
+
+அநுராதபுரம் மற்றும் மிஹிந்தலை சந்தி வரையிலான புதிய, மேம்படுத்தப்பட்ட ரயில் மார்க்கம் இன்று திங்கட்கிழமை திறந்து வைக்கப்பட்டுள்ளதாக போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
+
+இந்திய கடனுதவியின் கீழ் நிர்மாணிக்கப்பட்டுள்ள இந்த ரயில் மார்க்கத்தை போக்குவரத்து அமைச்சர் பந்துல குணவர்தன திறந்து வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/dd70e371.json)
+
+---
+
+### අමෙරිකානු ඩොලරයේ ආධිපත්‍යයට තර්ජනයක් ?
+
+*2024-06-17 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197854) · `si`
+
+ලොව පුරා මහ බැංකු තමන්ගේ විදේශ මුදල් සංචිත සඳහා අමෙරිකානු ඩොලර් පමණක් නොව දැන් වෙනත් විකල්ප විනිමය භාවිත කිරීමටත් පෙළඹී සිටින බව ජාත්‍යන්තර මූල්‍ය අරමුදල ප්‍රකාශ කරයි.
+
+මෙම තත්ත්වය ජාත්‍යන්තර වශයෙන් අමෙරිකානු ඩොලරයේ ආධිපත්‍ය හීනවීමක් ලෙස හැඳින්විය හැකිය.
+
+ජාත්‍යන්තර වශයෙන් වඩාත් පිළිගැනීමට ලක්වූ මුදල් වර්ග හතර ලෙස සැලකනු ලබන්නේ, අමෙරිකානු ඩොලර්, යුරෝ, ජපාන යෙන් සහ බ්‍රිතාන්‍යයේ ස්ටර්ලිං පවුම්ය.
+
+පසුගිය දශක දෙක තුළ යුරෝ, යෙන් සහ ස්ටර්ලිං පවුම් විනිමයන්ට සාපේක්ෂව අමෙරිකානු ඩොලරය විදේශ සංචිත සඳහා යොදාගැනීමේ ප්‍රතිශතයේ අඩුවීමක් පෙන්නුම් කරයි.
+
+එමෙන්ම නව විකල්ප විනිමය ලෙසට ඔස්ට්‍රේලියානු ඩොලර්, කැනේඩියානු ඩොලර්, චීන යුවාන්, දකුණු කොරියානු වොන් සහ සිංගප්පුරු ඩොලර් වගේම ස්වීඩනය, නෝර්වේ වැනි නෝර්ඩික් රටවල මුදල් ද ලෝකයේ මහ බැංකු තම විදේශ සංචිතය ශක්තිමත් කිරීම සඳහා යොදාගැනීමට ඉහළ ගොස් ඇති බව ජාත්‍යන්තර මූල්‍ය අරමුදල පෙන්වා දෙයි.
+
+මෙලෙස සාම්ප්‍රදායික නොවන විනිමය විදේශ සංචිතවලට එක්වූවත් තවමත් ගෝලීය ආර්ථිකයේ වඩාත්ම ප්‍රබල විනිමය අමෙරිකානු ඩොලරය බව ජාත්‍යන්තර මූල්‍ය අරමුදල සඳහන් කරයි.
+
+◼️
+
+[Data](articles/39876a43.json)
+
+---
+
+### 'வேற மாறி ஆபீஸ்- சீசன் 2'
+
+*2024-06-17 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186287) · `ta`
+
+டிஜிட்டல் தளங்களில் வெளியாகும் நகைச்சுவை கலந்த இணைய தொடர்களுக்கு ரசிகர் மத்தியில் பெரும் வரவேற்பு உண்டு. அந்த வகையில் முன்னணி டிஜிட்டல் தளத்தில் வெளியாகி ரசிகர்களின் ஏகோபித்த வரவேற்பையும், ஆதரவையும் பெற்ற இணைய தொடர் 'வேற மாரி ஆபீஸ்'. இந்த இணையத் தொடரின் இரண்டாவது சீசன் தற்போது தொடங்கி இருக்கிறது. ஆஹா டிஜிட்டல் தளத்தில் வெளியாகவிருக்கும் இந்த 'வேற மாதிரி ஆபீஸ் சீசன் 2' இணைய தொடரின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+இயக்குநர் ஜஷ்வினி இயக்கத்தில் உருவாகும் இந்த இணைய தொடரில் ஆர் ஜே விஜய், சௌந்தர்யா, நஞ்சுண்டான், லொள்ளு சபா மாறன், ஜனனி அசோக்குமார், ஜெயசீலன், ரவீனா உள்ளிட்ட பலர் நடிக்கிறார்கள். சத்யா ஒளிப்பதிவு செய்யும் இந்த இணையத் தொடருக்கு ராகவ் இசையமைக்கிறார். இதனை ஆஹா டிஜிட்டல் தளத்திற்காக கனா புரொடக்ஷன்ஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் சிவ‌காந்த் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/bd11ca1a.json)
+
+---
+
+### கன்னட நடிகர் ஸ்ரீ முரளி வெளியிட்ட 'சௌகிதார்'
+
+*2024-06-17 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186291) · `ta`
+
+கன்னட திரையுலகின் முன்னணி இளம் நட்சத்திர நடிகரான பிருத்வி அம்பர் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்திற்கு 'சௌகிதார்' என பெயரிடப்பட்டிருக்கிறது. இதற்கான அதிகாரப்பூர்வமான அறிவிப்பை கன்னடத்தின் முன்னணி நட்சத்திர நடிகரான ஸ்ரீ முரளி வெளியிட்டார்.
+
+இயக்குநர் சந்திரசேகர் பாண்டியப்பா இயக்கத்தில் உருவாகும் 'சௌகிதார்' படத்தில் பிருத்வி அம்பர் கதையின் நாயகனாக நடிக்கிறார். சச்சின் பஸ்ரூர் இசையமைக்கும் இந்த திரைப்படத்தினை வித்யா சேகர் என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் கல்லஹள்ளி சந்திரசேகர் தயாரிக்கிறார். இந்தத் திரைப்படத்தில் பணியாற்றும் ஏனைய நடிகர் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விவரங்கள் அதிகாரப்பூர்வமாக விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. இந்தத் திரைப்படம் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளிலும் தயாராகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+'கே ஜி எஃப்' படத்தின் பிரம்மாண்டமான வெற்றிக்குப் பிறகு கன்னடத்திலிருந்தும் பான் இந்திய திரைப்படங்கள் தயாராவது அதிகரித்து விட்டதாக தமிழ் திரையுலகினர் தெரிவிக்கிறார்கள்.
+
+◼️
+
+[Data](articles/25d32780.json)
+
+---
+
+### 'பீனிக்ஸ்' படத்தின் மூலம் அறிமுகமாகும் நட்சத்திர வாரிசு
+
+*2024-06-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186296) · `ta`
+
+தமிழ் திரையுலகில் முன்னணி நட்சத்திர நடிகர்கள் தங்களது வாரிசுகளை நடிகர்களாக கலை உலகத்திற்கு அறிமுகப்படுத்துவது இயல்பு. அந்த வகையில் இந்த தலைமுறையின் முன்னணி நட்சத்திர நடிகரான 'மக்கள் செல்வன்' விஜய் சேதுபதியின் வாரிசான சூர்யா சேதுபதி, 'பீனிக்ஸ் - வீழான்' எனும் படத்தின் மூலம் கதையின் நாயகனாக அறிமுகமாகிறார்.
+
+சண்டை பயிற்சி இயக்குநரான அனல் அரசு திரைப்பட இயக்குநராக அறிமுகமாகி இருக்கும் திரைப்படம் 'பீனிக்ஸ்- வீழான்'.  இதில் சூர்யா சேதுபதி, வரலட்சுமி சரத்குமார், சம்பத், தேவதர்ஷினி, முத்துக்குமார், திலீபன், அஜய் கோஷ், ஹரிஷ் உத்தமன், அபி நட்சத்திரா, வர்ஷா, நவீன், நந்தா சரவணன், 'ஆடுகளம்' முருகதாஸ், 'ஆடுகளம்' நரேன், ஸ்ரீ ஜித் ரவி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். வேல்ராஜ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி எஸ் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ கே பிரேவ்மேன் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் திருமதி ராஜலக்ஷ்மி அனல் அரசு தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/7d90726b.json)
+
+---
 
 ### Special toll-free railway service for Poson week
 
@@ -52,19 +132,63 @@ In addition, Minister of Highways, Transport, and Mass Media, Bandula Gunawarden
 
 ---
 
-### ඉදිරි පැය 36 තුළ කාලගුණයේ වෙනසක්
+### நீர் குழாயில் வெடிப்பு : நள்ளிரவுக்குள் நீர் விநியோகம் வழமைக்கு திரும்பும்
+
+*2024-06-17 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186297) · `ta`
+
+கலட்டுவாவ நீர் சுத்திகரிப்பு நிலையத்தில் இருந்து மஹரகம பகுதிக்கு நீர் கொண்டு செல்லும் குழாயில் வெடிப்பு ஏற்பட்டதால் ஹோமாகம புறநகர்ப் பகுதியின் பல பகுதிகளில் இடைநிறுத்தப்பட்ட நீர் விநியோகம் இன்று (17) நள்ளிரவுக்குள் வழமைக்கு திரும்பும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+இன்று திங்கட்கிழமை (17) அதிகாலை ஹைலெவல் வீதியில் கொடகம சந்திக்கு அருகில் கார் ஒன்று வீதியை விட்டு விலகி இந்த குழாய் மீது மோதியதில் குழாயில் பலத்த சேதம் ஏற்பட்டது.
+
+இதனால், கொடகம, ஹோமாகம, பன்னிபிட்டி, ருக்மல்கம, பெலன்வத்த, மத்தேகொடை ஆகிய பகுதிகளில் மறு அறிவித்தல் வரை நீர் விநியோகம் இடைநிறுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/71fb0f7e.json)
+
+---
+
+### A change of weather in the next 36 hours
 
 *2024-06-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197853) · `si`
 
-දිවයි‍නේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් ජූනි මස 19 වන දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department forecasts heavy rain and gusty winds (40-50 km/h) across the island's southwest region starting June 19. This includes closures in several areas including Western, Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, Trincomalee, North Central, and Moneragala districts.
 
-ඒ අනුව බස්නාහිර, සබරගමුව හා වයඔ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇති විය හැකිය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු , උතුරු - මැද  සහ වයඔ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ. කි. මී. 40-50ක පමණ තද සුළං ඇති විය හැකි බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+The Meteorology Department says that a rainy section of the island's southwest partition is expected to be expected in the next few days from June 19.
+
+Accordingly, several closes in the Western, Sabaragamuwa and Western provinces can also have several closed in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+At times, in the western slopes of the central hills, Trincomalee, North - Medalla and Wahara, Trincomalee and Moneragala Districts. Is. Mee. The Meteorological Department has informed that there is 40-50 strong winds.
 
 ◼️
 
 [Data](articles/ecc08f9f.json)
+
+[Extended Data](ext_articles/ecc08f9f.ext.json)
+
+---
+
+### ஜப்பானில் பரவி வரும் ஆபத்தான பற்றீரியா நோய்த் தொற்று
+
+*2024-06-17 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186292) · `ta`
+
+ஜப்பான் நாட்டில் கடந்த சில நாட்களாக அரிய வகை பற்றீரியா நோய் தொற்று பரவி வருகிறது. கடந்த 2 ஆம் திகதி இந்த மர்ம நோய், ஜப்பானை தாக்கிய விவரம் தெரிய வந்துள்ளது.
+
+எஸ்.டி.எஸ்.எஸ். (STSS) எனப்படும் ஸ்டிரெப்டோகாக்கல் டாக்சிக் ஷாக் சிண்ட்ரோம்  என்ற இந்த வகை நோய் தொற்றால் இதுவரை மொத்தம் 977 பேருக்கு பாதிப்புகள் இருப்பது கண்டறியப்பட்டு உள்ளது. கடந்த ஆண்டு இந்த எண்ணிக்கை 941 ஆக இருந்தது.
+
+ஜனவரி மற்றும் மார்ச் மாதங்களுக்கு இடையில் சுமார் 77 பேர் தொற்றுநோயால் உயிரிழந்துள்ளனர்.
+
+இந்த நோயானது, உடல் பகுதியை சாப்பிட கூடிய பற்றீரியாவால் ஏற்பட கூடியது. மனிதர்களை 48 மணிநேரத்தில் கொல்லும் சக்தி படைத்தது. இந்த நோயானது ஜப்பானில் பரவி வருகிறது.
+
+இதன் பாதிப்பால், வீக்கம் மற்றும் தொண்டையில் வலி ஏற்படும். சில பேருக்கு, காலில் வலி, வீக்கம், காய்ச்சல் மற்றும் குறைந்த இரத்த அழுத்தம் உள்ளிட்ட அறிகுறிகள் விரைவாக ஏற்படும்.
+
+இதன்பின்னர், சுவாச பாதிப்பு, உடல் உறுப்புகள் செயலிழப்பு மற்றும் மரணம் ஆகியவை ஏற்படும் என்று எச்சரிக்கப்பட்டு உள்ளது.
+
+...
+
+[Data](articles/bf899a44.json)
 
 ---
 
@@ -132,21 +256,27 @@ The Barber Assama, which has not been well-played in this year's tournament, has
 
 ---
 
-### සුපිරි රෙදිකඩේ බිද ලක්ෂ 26 නිමි ඇදුම් ඉස්සූ අඹුසැම් අත්අඩංගුවට
+### Superclass of Super Reddduals arrested
 
 *2024-06-17 15:55:10* · [`adalk`](https://www.ada.lk/breaking_news/සුපිරි-රෙදිකඩේ-බිද-ලක්ෂ-26-නිමි-ඇදුම්-ඉස්සූ-අඹුසැම්-අත්අඩංගුවට/11-410266) · `si`
 
-පානදුර නගරයේ සුපිරි රෙදිපිළි  වෙළඳ සැලක් කඩා  රුපියල් ලක්ෂ 26 ක් පමණ වටිනාකමකින් යුතු නිමි ඇදුම් සොරකම් කල  අඹුසැම් යුවලක්  අත්අඩංගුවට ගත් බව පානදුර කොට්ඨාස අපරාධ විමර්ශන ඒකකය පවසයි.
+Two individuals, aged 43 and 37, were arrested by the Panadura CID for stealing finished garments from a store and breaking its window. The duo confessed to the theft and the damage caused.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර ප්‍රදේශයේ පදිංචි 43 සහ 37 හැවිරිදි  අඹුසැම් යුවලක්  බව පොලිසිය කීය.
+🟩
 
-සැකකරුවන් කාලයක පටන් සූක්ෂම ලෙස සුපිරි වෙළඳ සැලේ පිටුපස ජනේලයක් කඩා ඇතුළුව නිමි ඇදුම් සොරකම් කර ඇති බවද පොලිසිය කීය.
+The Panadura Divisional Criminal Investigation Unit (CID) Unit said that a couple of the finished tables of the finished clothes of the Panadura town was arrested.
 
-ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක චන්න අමරසේකර මහතා ගේ ප්‍රධානත්වයෙන් පොලිස් පරීක්ෂක සුරංග රණවීර , සැරයන් ලාල් (18397), කොස්තාපල් වරුන්වන නාලක (76009) සහ දේවින්ද (102154) වැටලීමට එක්වූහ.
+The arrested were 43 and 37-year-old residents of Panadura.
+
+The former arrangements have been stolen, including the suspects, and broke the window behind the supermarket.
+
+OIC Chief Inspector Channa Amarasekera, Inspector Surana Ranaweera, joined the raid.
 
 ◼️
 
 [Data](articles/4fbc1c93.json)
+
+[Extended Data](ext_articles/4fbc1c93.ext.json)
 
 ---
 
@@ -1572,17 +1702,25 @@ The scan uncovered a stock of suspicious parcels in a compartment sealed with fi
 
 ---
 
-### ශ්‍රී ලංකාවේ රුක් රෝපණය විද්‍යාත්මක ද? දේශපාලනික ද?
+### Is Sri Lanka's tree planted scientific?Is politically?
 
 *2024-06-17 10:29:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrrwpvy5r3o) · `si`
 
-ගෙවුණු දශක දෙක තුළ ශ්‍රී ලංකාවේ රුක් රෝපණ ව්‍යපෘති රැසක් ආරම්භ කරන තිබේ. ඒ සෑම ව්‍යාපෘතියකින්ම පාහේ පැළ මිලියනයක් හෝ ඊට වැඩි ප්‍රමාණයක් රෝපණය කිරීමට සැලසුම්කර තිබිණි. නමුත් ඒ ව්‍යාපෘති යටතේ රෝපණය කළ පැළ කොතරම් ප්‍රමාණයක් ඉතිරි වී තිබේද යන්න විමසා බැලීම වැදගත් ය.
+Sri Lanka's tree planting initiatives, both nationally and internationally, aim to combat deforestation and restore ecosystems. Despite ambitious goals, the effectiveness varies, with concerns over the choice of species, care post-planting, and the sustainability of efforts beyond political cycles. Environmentalists stress the importance of selecting appropriate species for specific regions and ensuring adequate care and monitoring post-planting.
 
-ශ්‍රී ලංකාවේ රුක් රෝපණ ව්‍යපෘතිවල ඉතිහාසය සලකා බැලීමේ දී ඒවා කොතරම් විද්‍යාත්මක ද නොඑසේ නම් දේශපාලනික ද යන්න ගැන මේ ලිපියෙන් අවදානය යොමු කෙරේ. කිනම් අරමුණකින් හෝ පැළ සිටිවීම යහපත් ක්‍රියාවකි. එහෙත් ඒ සඳහා තෝරා ගන්නා පැළ වර්ග කොතරම් දුරට අදාළ දේශගුණ තත්ත්වයට ගැලපෙන්නේ ද, ඒවා රැකබලා ගන්නේ කෙසේ ද යන්න සහ එම ව්‍යාප්ති මගින් සිටුවන ලද පැළ කොතරම් සංඛ්‍යාවක් ගස් බවට පත් වුයේ ද යන්න ගැන විමසා බැලිය යුතුය.
+🟩
+
+Sri Lankan tree planting projects have been launched in the past two decades. Almost every million plants were planned to plant. But it is important to look at how much planting plants planted under those projects.
+
+This article will focus on whether the history of the tree planting projects in Sri Lanka.. In what purpose or planting is a good act. But the seedlings chosen should be inquired about how much the plants have taken care of and how many plants have become trees.
+
+Although national programs are started to plant millions of plants, they seem to continue with a national plan. When the ruler is changing, new projects will be commenced in studying history that the project will end at the end of their rule. Tree is planted in a variety of objectives, such as reforestation, land decoration, and the soil wash.
 
 ...
 
 [Data](articles/52dfaffd.json)
+
+[Extended Data](ext_articles/52dfaffd.ext.json)
 
 ---
 
@@ -2201,145 +2339,5 @@ An awareness program to develop knowledge and skills of young graduates to contr
 [Data](articles/321b0cd1.json)
 
 [Extended Data](ext_articles/321b0cd1.ext.json)
-
----
-
-### Pegasus Reef Wattala organising exclusive event for corporate participants
-
-*2024-06-17 04:01:00* · [`islandlk`](http://island.lk/pegasus-reef-wattala-organising-exclusive-event-for-corporate-participants/) · `en`
-
-Pledges to fill ‘Battle of the Reef’ with sportsmanship and fun
-
-Urges corporates to dedicate July 27 for the exhilarating break
-
-The highly anticipated “Battle of the Reef” Festival is set to make waves this July at the shores of the Pegasus Reef. This inaugural event promises an exhilarating celebration of athleticism, camaraderie, and entertainment, exclusively designed for corporate participants in Sri Lanka.
-
-On July 27, the pristine beaches of Pegasus Reef will come alive with the sounds of festive cheer and friendly competition, featuring competitive beach volleyball, tag rugby, and tug of war, along with a variety of fun-filled activities exclusively for corporate entities in Sri Lanka.
-
-...
-
-[Data](articles/6210f32f.json)
-
-[Extended Data](ext_articles/6210f32f.ext.json)
-
----
-
-### Cargills Bank Wattala relocated
-
-*2024-06-17 04:01:00* · [`islandlk`](http://island.lk/cargills-bank-wattala-relocated/) · `en`
-
-Cargills Bank – Wattala has been relocated to 182, Negombo Road, Wattala, with effect from 13th May 2024. The new location provides a modern facility and enhanced convenience for customers, including parking. The new location of Cargills Bank – Wattala was officially declared open on the 13th of May amidst a special opening ceremony. Top officials from Cargills Bank, including CEO, Senarath Bandara, along with staff and valued customers were present at the event.
-
-...
-
-[Data](articles/b85bd2c9.json)
-
-[Extended Data](ext_articles/b85bd2c9.ext.json)
-
----
-
-### Assetline Finance Badulla branch relocates to state-of-art building
-
-*2024-06-17 04:01:00* · [`islandlk`](http://island.lk/assetline-finance-badulla-branch-relocates-to-state-of-art-building/) · `en`
-
-Assetline Finance Limited (AFL) has relocated its Badulla branch to a new building at No.30, Race Course Road, Badulla. This move aims to offer improved services and better accessibility to its customers.
-
-At a simple ceremony attended by customers, government officials, AFL and David Pieris Group officials and other invitees, Mahesh de Silva, Chief Operating Officer of AFL, officially opened the new branch.
-
-The new location boasts enhanced amenities and a modern design, ensuring a more comfortable experience for customers. The Badulla area is home to many small and medium-scale tea growers and vegetable farmers, and AFL is dedicated to meeting their financial needs. AFL’s expanded portfolio includes automotive leasing and loans, business and working capital loans, fixed deposits, “Liya Diriya” designed for women empowerment, and Green Loans.
-
-...
-
-[Data](articles/e2b28c7d.json)
-
-[Extended Data](ext_articles/e2b28c7d.ext.json)
-
----
-
-### Ceylon Chamber commends board-level agreement on second IMF review
-
-*2024-06-17 03:43:00* · [`islandlk`](http://island.lk/ceylon-chamber-commends-board-level-agreement-on-second-imf-review/) · `en`
-
-The Ceylon Chamber of Commerce congratulates the Government of Sri Lanka for securing a board-level agreement on the second review of Sri Lanka’s Extended Fund Facility (EFF) with the International Monetary Fund (IMF).
-
-This agreement provides Sri Lanka with immediate access to approximately SDR 254 million (about USD 336 million) in financing. This significant development further supports Sri Lanka’s ongoing economic policies and reform agenda under the 48-month EFF arrangement.
-
-...
-
-[Data](articles/3bb25806.json)
-
-[Extended Data](ext_articles/3bb25806.ext.json)
-
----
-
-### RDB ranks first in providing most loans to women entrepreneurs under ADB’s We-Fi initiative
-
-*2024-06-17 03:42:00* · [`islandlk`](http://island.lk/rdb-ranks-first-in-providing-most-loans-to-women-entrepreneurs-under-adbs-we-fi-initiative/) · `en`
-
-Women Entrepreneurs Finance Initiative (We-Fi) is a programme of the Asian Development Bank (ADB) which enables an empowering business environment for women entrepreneurs in Sri Lanka, conducted in collaboration with 13 banks.
-
-The media was educated about this at a workshop related to We-Fi programme hosted by the ADB at the Courtyard by Marriott Colombo on 14 June 2024.
-
-The data at the workshop showed that in expanding access to finance, the Regional Development Bank (RDB) tops the list of We-Fi grants distribution with 482 grants- a share of 31% of the total grants- thus distributing US$ 1.07 million among women entrepreneurs.
-
-The Bank of Ceylon has distributed 327 grants – a share of 21.1% of the total grants – thus distributing US$ 1.23 million among women entrepreneurs. The People’s Bank was a distant third with 112 grants – a share of 7.2% of the total grants – thus distributing US$ 0.43 million among women-led MSMEs.
-
-...
-
-[Data](articles/5ff05f17.json)
-
-[Extended Data](ext_articles/5ff05f17.ext.json)
-
----
-
-### HajjubPresident
-
-*2024-06-17 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186225) · `ta`
-
-Ranil Wickremesinghe congratulates himself on achieving spiritual and worldly success through sacrifice and reconciliation, drawing parallels between his goals and the universal values celebrated during Hajj. He expresses hope that the spirit of unity and peace inherent in Hajj will inspire global harmony and peace.
-
-🟩
-
-President Ranil Wickremesinghe has congratulated President Ranil Wickremesinghe that he should be able to get rid of selfishness and live with sacrifice and reconciliation to achieve spiritual and worldly success.
-
-Every year, Muslims celebrate the Hajj based on that noble purpose.
-
-All the Muslims from all over the world gather at the same holy place with the same purpose and pray at this time for the integrity of the expected society of mankind.
-
-It is my expectation that the Hajj celebration of sowing equality and fraternity to all the people of the world will give you the best news for world peace.
-
-"I would like to congratulate all Sri Lankan and the world Muslims to celebrate the Hajjub Majesty, which is united in the same goal to win the aspirations of mankind."
-
-◼️
-
-[Data](articles/092fe656.json)
-
-[Extended Data](ext_articles/092fe656.ext.json)
-
----
-
-### Hajj greeting the Opposition Leader
-
-*2024-06-17 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186228) · `ta`
-
-Sajeed Premadasa, the Opposition Leader, congratulates Eidul Alha, highlighting its significance in fostering unity and shared values across cultures and religions. He draws parallels between Eidul Alha and the Hajj pilgrimage, emphasizing their roles in reinforcing faith, promoting social harmony, and celebrating humanity's interconnectedness. Premadasa calls for unity in his country, urging all to celebrate Eidul Alha with brotherhood, regardless of race, religion, or status, as a step towards national progress.
-
-🟩
-
-Opposition Leader Sajeed Premadasa has congratulated Eidul Alha, the most important cultural and religious festival of Muslims around the world.
-
-At this moment I feel that it is better to remember its main values.
-
-From the beginning of history, people gathered together for various religious sacrifices, in which the traditions associated with their own religion were secured and made contact with them.Such is the same as the Hajj pilgrimage in Islam.
-
-The Haj pilgrimage, which is considered the fifth duty of Islam's five great duties, is to re -confirm the devotion and confidence in the Lord. Because of that belief, millions of Islamists around the world gather at the holy Makkah with the same purpose and appreciate the anticipated brotherhood of mankind.
-
-The Eidul Alha can also be considered an occasion to admire humanity based on the philosophy of Islam.It is an important and unique martyrdom that brings the glory of social harmony to the world.
-
-...
-
-[Data](articles/7181a9cf.json)
-
-[Extended Data](ext_articles/7181a9cf.ext.json)
 
 ---

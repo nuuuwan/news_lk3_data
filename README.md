@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 03:34:46**
+As of **2024-06-18 03:52:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,848 (100.0%) of 30,849 articles have been extended.
+30,849 (100.0%) of 30,849 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,17 +152,25 @@ Meanwhile, Trent Bolt R20 was answered from the World Cup cricket with today's m
 
 ---
 
-### ’ஜனாதிபதித் தேர்தலே முதலில் நடக்கும்’
+### The first is the presidential election.
 
 *2024-06-18 01:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலே-முதலில்-நடக்கும்/175-339056) · `ta`
 
-இங்கையின் அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலே நடத்தப்படல் வேண்டும். பாராளுமன்றத் தேர்தல் நடாத்துவதற்கு இன்னும் காலம் இருக்கின்றது. எனவே நாட்டினுடைய அரசியலமைப்புச் சட்டத்தின் பிரகாரம் முதலிலே ஜனாதிபதித் தேர்தல் நடாத்தப்பட வேண்டும் என்பதுதான் எங்களது எல்லேரினதும் எதிர்பார்ப்பாகவுள்ளது. அற்கான வேலைத்திட்டங்கள்தான் தற்போது முன்னெடுக்கப்படுகின்றது  என வர்த்தக இராஜாங்க அமைச்சர் சதாசிவம் வியாழேந்திரன் தெரிவித்துள்ளார்.
+The presidential election must adhere to the country's constitution, and there's time for parliamentary elections too. Commerce Minister Sadasivam Judendran mentioned ongoing programs aimed at economic recovery, noting progress but cautioning that full recovery isn't achieved yet. Expectations are high for a fair presidential election process.
 
-மட்டக்களப்பு களுவாஞ்சிகுடியில் ஞாயிற்றுக்கிழமை(16) நடைபெற்ற நிகழ்வொன்றில் கலந்து கொண்ட பின்னர் ஊடகவியலார்கள் கேட்ட கேள்விகளுக்குப் பதிலளிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்….
+🟩
+
+The presidential election must be held in accordance with the Constitution.. There is still time to hold parliamentary elections. Therefore, the expectation of all of us is that the presidential election should be held in accordance with the constitution of the country.. Commerce Minister Sadasivam Judendran said that the programs are currently being carried out.
+
+He was responding to questions asked by journalists after attending an event in Kaluwanchikudi, Batticaloa on Sunday (16).. He further stated that….
+
+They are generally presented by the government, or the president's opinion is that they are generally presented by each person's personal opinions on elections. There is an environment where the president, the prime minister, or the ministers have not made official comments. But personal ideas are found in them. In any case, everyone is expecting a presidential election to be held.
 
 ...
 
 [Data](articles/f7b2dac6.json)
+
+[Extended Data](ext_articles/f7b2dac6.ext.json)
 
 ---
 

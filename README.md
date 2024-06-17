@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 22:07:14**
+As of **2024-06-17 22:19:19**
 
 ## Newspaper Stats
 
-*Scraped **30,823** Articles*
+*Scraped **30,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,783
 dailyftlk | 1,873
-adalk | 2,674
+adalk | 2,675
 adaderanalk | 3,493
 tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,823 (100.0%) of 30,823 articles have been extended.
+30,823 (100.0%) of 30,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,24 @@ President Ranil Wickremesinghe today conducted a program to provide deeds to 1,5
 [Data](articles/600970f0.json)
 
 [Extended Data](ext_articles/600970f0.ext.json)
+
+---
+
+### 2022 -2024 නීති නිසා ඉතිහාසගත වෙයි
+
+*2024-06-17 20:01:59* · [`adalk`](https://www.ada.lk/breaking_news/2022--2024-නීති-නිසා-ඉතිහාසගත-වෙයි/11-410276) · `si`
+
+2022- 2024 මෙරට වැඩිම නීති ප්‍රතිසංස්කරණ ගණනක් සිදු කළ කාල වකවානුව ලෙස ඉතිහාසගත වන බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් එම්. එන්. රණසිංහ මහතා පැවසීය.
+
+අධිකරණ අමාත්‍යාංශයේ විෂය පථයට අදාළව 2022 වර්ෂයේ සිට මේ දක්වා නීති ප්‍රතිසංස්කරණ 59ක් පාර්ලිමේන්තුවේ සම්මත කර ඇති අතර තවත් කෙටුම්පත් 07ක් සහ නීති සංශෝධන 44ක් ඉදිරියේදී සම්මත කර ගැනීමට නියමිත බවද ඒ මහතා සඳහන් කළේය.
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් එම්. එන්. රණසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (17) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එසේම සෑම අමාත්‍යාංශයකම නීති කෙටුම්පත් කිරීම වෙනුවෙන් තම අමාත්‍යාංශය විශාල කාර්යභාරයක් ඉටු කරන බව පැවසූ ඒ මහතා 2022 වර්ෂයේදී 273ක් හා 2023 වර්ෂයේදී 299ක් ලෙස භාෂා ත්‍රිත්වයෙන්ම නීති කෙටුම්පත් දෙපාර්තමේන්තුව විසින් කෙටුම්පත් සකස් කර දී තිබෙන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/21111630.json)
 
 ---
 
@@ -2409,31 +2427,5 @@ Singapore’s Maritime and Port Authority, in a joint statement with the Nationa
 [Data](articles/53980af8.json)
 
 [Extended Data](ext_articles/53980af8.ext.json)
-
----
-
-### Notice of water supply of water supply in Godagama, Homagama and Pannipitiya
-
-*2024-06-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197839) · `si`
-
-Water supply issues in Godagama, Homagama, and Pannipitiya due to a burst water main. Expected restoration on April 17 after an explosion caused a significant water outage affecting over 100,000 homes. The incident occurred near the Godagama junction, disrupting water services since April 17.
-
-🟩
-
-The water tube that the exploded water tribun was expected to be fully restored today (17) at the Labugama, Labugama, Labugama.
-
-Due to the address, a tribute to water was blown away from the Kartuwa reservoir and the water cut was suspended again.
-
-Accordingly, over 100,000 housing units were interrupted in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattegoda.
-
-This has been affected by a car in the near area near the psyillion the Godagama junction in the Godagama junction.
-
-A large number of water was scattered by the pipe of the accident, from April 17 (17) and due to the speed of the water and the water hit.
-
-◼️
-
-[Data](articles/a9eb20df.json)
-
-[Extended Data](ext_articles/a9eb20df.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 12:34:31**
+As of **2024-06-17 12:52:32**
 
 ## Newspaper Stats
 
-*Scraped **30,743** Articles*
+*Scraped **30,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,658
+adalk | 2,660
 adaderanalk | 3,483
 tamilmirrorlk | 3,604
-virakesarilk | 4,720
+virakesarilk | 4,721
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,980
+adaderanasinhalalk | 4,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,736 (100.0%) of 30,743 articles have been extended.
+30,743 (100.0%) of 30,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### ඇඹිලිපිටියේදී බෙදූ උරුමය
+
+*2024-06-17 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197843) · `si`
+
+"උරුමය" සින්නක්කර ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහන යටතේ, සුදුසුකම්ලත් මහවැලි-වලව කලාපයේ ජනපදිකයන් 45,253 ක් අතුරින් 1,524 දෙනෙකු වෙත සින්නක්කර ඔප්පු ප්‍රදානය කිරීම අද (17) සිදුකළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේදී එම ඔප්පු ප්‍රධානය සිදුකළ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/829fe8d1.json)
+
+---
+
+### හැත්තෑවේ පියාට පහර දුන් දුවට පියවරුන්ගේ දිනයේ දුන් තීන්දුව
+
+*2024-06-17 12:31:38* · [`adalk`](https://www.ada.lk/breaking_news/හැත්තෑවේ-පියාට-පහර-දුන්-දුවට-පියවරුන්ගේ-දිනයේ-දුන්-තීන්දුව/11-410256) · `si`
+
+හැත්තෑ හැවිරිදි සිය පියාට පහරදුන් විසි නව හැවිරිදි දියණියක් සම්බන්ධයෙන් නාඋල පොලිසියට ලද පැමිණිල්ලකට අනුව එම කාන්තාව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කල විට නාඋල වැඩබලන මහේස්ත්‍රාත් ශ්‍යාමලි විජේරත්න මහත්මිය සැකකාරිය ලබන බදාදා19දා තෙක් රක්ෂිත බන්ධනාගාර ගතකිරිමට පසුගිය 16දා නියෝග කලාය.
+
+මෙලෙස රක්ෂිත බන්ධනාගාර ගත වූයේ 29 හැවිරිදි කනුමුලයාය,අරංගල, ලිපිනයේ පදිංචිව සිටි තැනැත්තියක් බව නාඋල පොලිසිය කියයි.
+
+සැකකාරියගේ පියා  සිද්ධිය සම්බන්ධයෙන් නාඋල පොලිසියට සිදුකල පැමිණිල්ලකට අනුව සැකකාරිය පොලිසිය විසින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබිනි.
+
+පොලිසිය සිදුකරන ලද මුලික විමර්ෂන වල දි අනාවරණය වී ඇත්තේ අදාල සැකකාරිය පිරිමි පුද්ගලයෙකු සමග නිවසට පැමිණ රැදි සිටිමට උත්සහ කරද්දි ඊට විරුද්ද වී ඇති සිය පියාට සැකකාර කාන්තාව පහර දී ඇති බවයි.
+
+නාඋල පොලිසියේ වැඩබලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක දීපාල් කුමාර මහතාගේ උපදෙස් පරිදි නාඋල පොලිසියේ නිලධාරිහු පිරිසක් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ෂන සිදුකරති.
+
+◼️
+
+[Data](articles/619d1428.json)
+
+---
+
+### සුදු වැන් රථයකින් පැමිණි පිරිසක් තරුණයෙක්ව පැහැරගෙන
+
+*2024-06-17 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197842) · `si`
+
+සුදු වැන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇඳගත් පිරිසක් තරුණයෙකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය පවසයි.
+
+මෙසේ පැහැර ගෙන ගොස් ඇත්තේ කළුතර හීනටියංගල ප්‍රදේශයේ  24 හැවිරිදි තරුණයෙකු බව පොලිසිය කීය.
+
+පැහැරගෙන ගොස් ඇති තරුණයාගේ මව විසින් කළ පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+
+සැකකරුවන් සුදු පැහැති වැන් රථයකින් පැමිණ හීනටියංගල දේවස්ථානය ආසන්නයේ දී එම තරුණයා ට පහරදී ඔහුව පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කල පරීක්ෂණවලදී හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කරයි.
+
+සැකකරුවන් හඳුනාගෙන ඇති බවත් ඔවුන් ප්‍රදේශය හැරගොස් සිටින බවත් ඔවුන්ව කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් කළුතර උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/e5917ecd.json)
+
+---
+
+### மனச்சோர்வை - சலிப்பை ஏற்படுத்தும்-  இடைவிடாத செய்திகளால்  மக்கள் செய்திகளில் இருந்து விலகி ஓடுகின்றனர் - சர்வதேச ஆய்வில் தகவல்
+
+*2024-06-17 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186262) · `ta`
+
+அதிகளவு மக்கள் செய்திகளில் இருந்து விலகிச்செல்கின்றனர் - என்பது சர்வதேச ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+
+செய்திகள் மனச்சோர்வை ஏற்படுத்துபவையாகவும் இடைவிடாதவையாகவும் சலிப்பை ஏற்படுத்துபவையாகவும் காணப்படுகின்றன என ஆய்வில் கலந்துகொண்டவர்கள் தெரிவித்துள்ளனர்.
+
+ஆய்வில் கலந்துகொண்டவர்களில் பத்தில் நால்வர்(39) தாங்கள் செய்திகளில் இருந்து விலகிச்செல்வதாக குறிப்பிட்டுள்ளனர் என ஒக்ஸ்போர்ட் பல்கலைகழகத்தின் ரொய்ட்டர் நிறுவகம் தெரிவித்துள்ளது.
+
+2017 இல் இவ்வாறான ஆய்வொன்று இடம்பெற்றவேளை அதில் கலந்துகொண்டவர்களில் 29 வீதமானவர்கள் தாங்கள் செய்திகளை தவிர்ப்பதாக தெரிவித்திருந்தனர்.
+
+மத்திய கிழக்கு உக்ரைன் யுத்தம் காரணமாக மக்கள் செய்திகளை கைவிடும் நிலையேற்பட்டிருக்கலாம் என ஆய்வறிக்கையை மேற்கொண்டவர்கள் தெரிவித்துள்ளனர்.
+
+முன்னர் ஒருபோதும் இல்லாத அளவிற்கு செய்திகளை தவிர்ப்பது அதிகமாக காணப்படுகின்றது என சர்வதே ஆய்வினை முன்னெடுத்தவர்கள் தெரிவித்துள்ளனர்.
+
+இந்த வருடம் ஜனவரி பெப்ரவரி மாதங்களில் 47 நாடுகளை சேர்ந்த 94இ943 பேரிடம் நடத்தப்பட்ட ஆய்வு முடிவுகளே வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/81581d6e.json)
+
+---
 
 ### Finance Ministry issues clarification on proposed imputed rental income tax
 
@@ -44,23 +122,31 @@ Issuing a clarification on certain speculations and misconceptions regarding the
 
 [Data](articles/e2662608.json)
 
+[Extended Data](ext_articles/e2662608.ext.json)
+
 ---
 
-### இன்னும் 115 நாட்கள் உள்ளன
+### There are still 115 days
 
 *2024-06-17 12:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-115-நாட்கள்-உள்ளன/175-339016) · `ta`
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவில் 50% வீதமானவர்கள் தயாராக இருந்தால் ஜனாதிபதி தேர்தலில் போட்டியிடுவேன் என பாராளுமன்ற உறுப்பினரும் தொழிலதிபருமான தம்மிக்க பெரேரா தெரிவித்தார்.
+Dhammika Perera, a Member of Parliament and businessman, has announced his readiness to run for president if half of the Sri Lanka People's Alliance (PA) supports him. He outlined ten conditions for his candidacy, including economic and security strategies. With 115 days until the election, Perera remains undecided but is preparing for potential involvement.
 
-கட்சி தனக்கு பத்து நிபந்தனைகளை விதித்துள்ளதாகவும், அந்த நிபந்தனைகளின்படி தான் அனைத்து திட்டங்களையும் தயார் செய்ததாகவும் தெரிவித்துள்ளார்.
+🟩
 
-அந்த பத்து நிபந்தனைகளுக்கு அமைவாக எவ்வாறு பாதுகாப்பை கட்டியெழுப்புவது மற்றும் பொருளாதாரத்தை எவ்வாறு கட்டியெழுப்புவது என்பது தொடர்பிலும் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Member of Parliament and businessman Dhammika Perera said that if 50% of the Sri Lanka PA is ready, he will contest the presidential election.
 
-மேலும், "நான் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர். என்ன நடக்கிறது என்று பார்ப்போம். ஜனாதிபதித் தேர்தலுக்கு இன்னும் 115 நாட்களே உள்ளன." என அவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+He said the party had imposed ten conditions and that he had prepared all the plans under those conditions.
+
+He added that plans have been prepared on how to build security and how to build the economy in accordance with those ten conditions.
+
+Also, “I am a member of the Sri Lanka PA. Let's see what's going on. There are still 115 days for the presidential election, ”he said.
 
 ◼️
 
 [Data](articles/ef383c6d.json)
+
+[Extended Data](ext_articles/ef383c6d.ext.json)
 
 ---
 
@@ -132,23 +218,29 @@ The police said that steps have been taken to appear in court on Monday (17), wh
 
 ---
 
-### இத்தாலியில் இலங்கையர் மீது கொலை முயற்சி ; சட்டவிரோதமாக தங்கியிருந்த இலங்கையர் கைது
+### Murder attempt on Sri Lankans in Italy;Arrest of Sri Lankans who illegally stayed
 
 *2024-06-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186248) · `ta`
 
-இத்தாலியில் இலங்கையர் ஒருவரைக் கொலை செய்ய முயற்சித்த சட்டவிரோதமாக தங்கியிருந்த இலங்கையர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+A Sri Lankan man, 41, was arrested in Italy for illegal residency after allegedly stabbing another Sri Lankan, causing injuries to the neck, chest, and right thigh.
 
-இத்தாலியில் சட்டவிரோதமாக தங்கியிருந்த 41 வயதுடைய இலங்கையர் மற்றுமொரு இலங்கையரை பலமுறை கத்தியால் குத்தி பலத்த காயங்களை ஏற்படுத்தியுள்ளதாக இத்தாலியின் கராபினியேரி பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-சனிக்கிழமை (15) மாலை ஒருவர்  காயமடைந்துள்ளதாக முறைப்பாடு செய்யப்பட்டதை தொடர்ந்து பொலிஸார் சம்பவ இடத்திற்கு சென்றுள்ளனர்.
+The media has reported that a Sri Lankan has been arrested for illegally staying in Italy for attempting to kill a Sri Lankan.
 
-இதன்போது, 44 வயதுடைய இலங்கை பிரஜை ஒருவர் தாக்கப்பட்டு கழுத்து, மார்பு மற்றும் வலது தொடையில்  பலத்த காயங்களுடன் காணப்பட்டுள்ளார்.
+The 41 -year -old Sri Lankan, who was illegally staying in Italy, has repeatedly stabbed another Sri Lankans with a knife, said Karapinieri police in Italy.
 
-இச்சம்பவம் தொடர்பாக இத்தாலியில் சட்டவிரோதமாக  தங்கியிருந்த 41 வயதான இலங்கையர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+Police have gone to the scene following a complaint that a man was injured on Saturday evening.
+
+A 44 -year -old Sri Lankan citizen has been attacked and found in a neck, chest and right thigh.
+
+A 41 -year -old Sri Lankan man has been arrested for illegally staying in Italy in connection with the incident.
 
 ◼️
 
 [Data](articles/237533a5.json)
+
+[Extended Data](ext_articles/237533a5.ext.json)
 
 ---
 
@@ -200,15 +292,21 @@ Following this, he was arrested and confiscated a kilogram of jewelery from him.
 
 ---
 
-### கொழும்பு - மாளிகாவத்தையில் தீ விபத்து
+### Fire in Colombo -Maligawatta
 
 *2024-06-17 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186249) · `ta`
 
-கொழும்பு, மாளிகாவத்தை ஜயந்த வீரசேகர மாவத்தையில் கட்டிடம் ஒன்றில் இன்று திங்கட்கிழமை (17) காலை தீ விபத்து ஏற்பட்டுள்ளது.
+A fire erupted on Monday at a building in Maligawatta, Colombo, causing significant damage.
+
+🟩
+
+A fire broke out on Monday morning at a building at Jayantha Weerasekera Mawatha in Maligawatte, Colombo.
 
 ◼️
 
 [Data](articles/b0449953.json)
+
+[Extended Data](ext_articles/b0449953.ext.json)
 
 ---
 
@@ -234,25 +332,35 @@ At the time, the man was reportedly trying to attack the policemen with a gasoli
 
 ---
 
-### உக்ரைனிற்காக போரிடும் இலங்கையர்கள் குறித்து அந்த நாடு கடும் மௌனம் - விபரங்களை வழங்குமாறு இலங்கை தொடர்ச்சியாக வேண்டுகோள்
+### Sri Lanka has repeatedly appealed to Sri Lankans to provide silence on Sri Lankans fighting for Ukraine
 
 *2024-06-17 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186246) · `ta`
 
-ரஸ்யாவிற்கு எதிரான போரில் தன்னுடைய இராணுவத்துடன் இணைந்து போரிடும் இலங்கையர்கள் குறித்து உக்ரைன் கடும் மௌனத்தை கடைப்பிடிக்கின்றது.
+Sri Lanka urges silence from citizens fighting in Ukraine, but receives no response. Despite requests for details, Ukraine remains quiet. The Foreign Ministry and government have contacted Turkey about this issue, with no reply. Efforts to free Sri Lankans in Russia are hindered as Russia claims they've signed a MoU to join its forces.
 
-உக்ரைனிற்காக போரிடும் இலங்கையர்கள் குறித்து இலங்கை விபரங்களை கோரியுள்ள போதிலும் உக்ரைன் இறுக்கமான மௌனத்தை கடைப்பிடிக்கின்றது என உயர் வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
 
-வெளிவிவகார அமைச்சும் துருக்கிக்கான இலங்கை  அரசாங்கமும் உக்ரைனுடன் இணைந்து போரிடும்இலங்கையர்கள் குறித்த விபரங்களை இரண்டு வாரங்களிற்கு முன்னர் கோரியிருந்த போதிலும் உக்ரைன் எந்த பதிலையும் வழங்கவில்லை என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+Ukraine is silent on Sri Lankans fighting with its army in the war against Russia.
 
-இலங்கை தனது முன்னைய வேண்டுகோளை நினைவுபடுத்தி  ஒரு வாரத்திற்கு முன்னர் மீண்டும் தகவல் அனுப்பியிருந்ததாகவும் உயர் வட்டாரங்கள் தெரிவித்துள்ளன.
+Although Sri Lanka has demanded details of Sri Lankans fighting for Ukraine, Ukraine is in silence, top sources said.
 
-இதேவேளை உக்ரைன் தனது நாட்டின் சட்டத்திற்கு ஏற்பஇலங்கையர்களை படையணியில் இணைத்துகொண்டுள்ளது என தெரிவிக்கும் தகவல்கள் வெளியாகியுள்ளன.
+Sources said that the Foreign Ministry and the Sri Lankan government for Turkey were fighting with Ukraine two weeks ago, but Ukraine did not respond.
 
-யுத்தத்தில் ஈடுபட்டுள்ள நாடு  தகவல்களை வழங்குவது தாமதமாகலாம் என்ற யதார்தத்தை வெளிவிவகார அமைச்சு உணர்ந்துள்ளது என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+Top sources said that Sri Lanka had re -sent information a week ago to commemorate its previous request.
 
-...
+Meanwhile, Ukraine has reportedly joined Sri Lankans in accordance with its country's law.
+
+Sources said that the Ministry of External Affairs has realized that the country involved in the war may be delayed.
+
+Meanwhile, Sri Lanka's efforts to release Sri Lankans fighting in Russia have also been affected.
+
+Russia insists that Sri Lankans have signed a Memorandum of Understanding when they join her forces.
+
+◼️
 
 [Data](articles/8ac8c3c8.json)
+
+[Extended Data](ext_articles/8ac8c3c8.ext.json)
 
 ---
 
@@ -326,19 +434,25 @@ No casualties have ever been reported so far, but the property has only been dam
 
 ---
 
-### சீக்கிய பிரிவினைவாதியை கொலை செய்ய திட்டமிட்ட இந்தியர் - அமெரிக்காவிற்கு நாடு கடத்தியது செக்குடியரசு
+### Indians who planned to kill Sikh separatist
 
 *2024-06-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186243) · `ta`
 
-அமெரிக்காவில் சீக்கிய பிரிவினைவாதியொருவரை கொலை செய்வதற்கு சதிதி;;ட்டம் தீட்டிய நபர் செக்குடியரசிலிருந்து அமெரிக்காவிற்கு நாடு கடத்தப்பட்டுள்ளார்.
+Nikkil Gupta, arrested en route, allegedly plotted to assassinate Sikh separatist Gurbatwant Singh Pannu. The deceased, previously deported, had ties to Khalistan advocacy.
 
-நிக்கில் குப்தாக காலிஸ்தானிற்காக குரல்கொடுத்த குர்பட்வன்ட் சிங் பனுன் என்பவரை கொலை செய்ய திட்டமிட்டார்  என குற்றம்சாட்டப்பட்டுள்ளது.
+🟩
 
-செக்குடியரசிற்கு சென்றவேளை கடந்தவாரம் நிக்கில் குப்தா கைதுசெய்யப்பட்டார்.தான் அமெரிக்காவிற்கு நாடு கடத்தப்படவேண்டும் என்ற அவரது மனுவை நீதிமன்றமொன்று நிராகரித்திருந்தது.
+A person who was killed in the United States has been deported from the Secondary to the United States.
+
+It is alleged that Nikkil Gupta was planning to kill Gurbatwant Singh Banun, who voiced for Khalistan.
+
+Nikkil Gupta was arrested last week on his way to the Secondary.
 
 ◼️
 
 [Data](articles/086c25cf.json)
+
+[Extended Data](ext_articles/086c25cf.ext.json)
 
 ---
 
@@ -407,6 +521,22 @@ The National Consumer Front leader said that the increase in prices of imported 
 [Data](articles/c5c8807b.json)
 
 [Extended Data](ext_articles/c5c8807b.ext.json)
+
+---
+
+### දසුන්ගෙන් බිංදු වාර්තාවක්
+
+*2024-06-17 09:53:36* · [`adalk`](https://www.ada.lk/breaking_news/දසුන්ගෙන්-බිංදු-වාර්තාවක්/11-410253) · `si`
+
+විස්සයි 20 පිටියේදී ශ්‍රී ලංකා පිතිකරුවෙක් ලකුණු නොලබා (එනම් ලකුනු බිංදුවට) වැඩිම වාර ගණනක් දැවි ගිය ක්‍රීඩකයා ලෙස ශ්‍රී ලංකා හිටපු නායක දසුන් ශානක අද වාර්තා අතරට එක්විය. ඒ නෙදර්ලන්තය සමග පැවැති තරගයේදීද දසුන් ශානක තමන් මුහුණ දුන් පළමු පන්දුවෙන්ම දැවි යාමත් සමගිනි.
+
+මේ අනුව දසුන් ක්‍රිඩා කර ඇති විස්සයි20 ජාත්‍යන්තර තරග 100දි ඔහු අවස්ථා 11ක් ලකුණු නොලබාම පිටියෙන් ඉවත්ව ගොස් තිබේ.
+
+මිට පෙර එම වාර්තාවට හිමිකම් කිවේ හිටපු නායක තිලකරත්න ඩිල්ෂාන්ය ඔහු තරග 80කදී අවස්ථා 10ක් ලකුනු නොලබා පිටියෙන් ඉවත්ව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/c63d6d39.json)
 
 ---
 
@@ -826,27 +956,39 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 
 ---
 
-### T20 ලෝක කුසලානය 2024: 'අද තරගයේ ජයග්‍රහණය අපට වැදගත්’
+### T20 World Cup 2024: 'The winning of today is important to us'
 
 *2024-06-17 06:51:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp66r21x375o) · `si`
 
-විස්සයි 20 ලෝක කුසලාන තරගාවලියේ අද ( ජුනි 17 වැනිදා) පැවති තරගයෙන් නෙදර්ලන්ත කණ්ඩායම ලකුණු 83 කින් පරාජය කිරීමට ශ්‍රී ලංකාව සමත් විය.
+In the T20 World Cup 2024, Sri Lanka secured a crucial 83-run victory over the Netherlands, despite being eliminated from the tournament. The match highlighted strong performances from Sri Lankan players like Kusal Mendis and Dhananjaya de Silva, who contributed significantly to the team's total of 166 runs. Despite early losses, including a century from Vasun Shanaka, Sri Lanka managed to set a challenging target for the Netherlands, who struggled to reach 83 runs, losing all their wickets. This victory marked a turning point for Sri Lanka, emphasizing the importance of teamwork and individual contributions in overcoming challenges.
 
-මෙම තරගය ජයග්‍රහණය කළද මෙවර විස්සයි 20 ලෝක කුසලාන තරගාවලියේ පළමු වටයෙන්ම ඉවත් වීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවූයේ සහභාගිවූ සෙසු සියලු තරග පරාජය වීම හේතුවෙනි.
+🟩
 
-තරගය පැවැත්වුණේ බටහිර ඉන්දීය කොදෙව් දුපත් හී ඩැරන් සැමි ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ දීය.
+Sri Lanka beat the Netherlands by 83 runs in the match against the Twenty20 World Cup.
 
-කාසියේ වාසිය දිනු නෙදර්ලන්ත කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කරන ලදී.
+Despite the winning the match, the Sri Lankan team had to leave the first surface of the Twenty20 World Cup.
 
-ශ්‍රී ලංකා ඉනිමේ ආරම්භය සුබ නොවුයේ පළමු පන්දු වාරයේ දෙවැනි පන්දුවේදීම පැතුම් නිස්සංක විවියන් කින්ග්මා ගේ පන්දුවක් හමුවේ ලකුණු නොලබා දැවී යාම හේතුවෙනි.
+The match was held at the National Cricket Stadium in the West Indies' islands.
 
-පැතුම් ගේ දැවී යාමෙන් පසුව පිටියට පැමිණි කමිදු මෙන්ඩිස් ශ්‍රී ලංකා ඉනිමේ දෙවැනි කඩුල්ල වෙනුවෙන් කුසල් මෙන්ඩිස් සමග එක්වෙමින් ලකුණු 39ක සබඳතාවයක් එක් කිරීමට සමත් විය.
+The Netherlands team won the toss and invited the Sri Lankan team to bat first.
 
-පන්දු 20 කදී ලකුණු 17ක් රැස් කර ගෙන සිටි කමිදු මෙන්ඩිස් පෝල් වැන් මේක්ක්‍රන් ගේ පන්දුවක් හමුවේ දැවී යන විට ශ්‍රී ලංකා ඉනිමේ ලකුණු පුවරුව දිස්වුයේ පන්දු වාර 5 යි පන්දු 2 කදී ලකුණු 39 කට කඩුලු දෙකක් ලෙසයි.
+The second ball of the first ball of the Sri Lankan innings is the second ball of the first ball of the first ball of the second ball due to the loss of marks in Kings.
+
+Kusal Mendis joined the second wicket of Sri Lanka innings on the second wicket of Sri Lankan innings.
+
+Sri Lanka Innings Score was bowled out for a ball of 20 balls in 20 balls to 3 wickets for 39 balls.
+
+Sri Lanka scored 45 runs for the loss of two wickets in the six overs.
+
+Several relations between Sri Lankan batsmen were seen among the wickets in the match.
+
+Kusal Mendis and Dhananjaya de Silva added 45 runs for the third wicket.
 
 ...
 
 [Data](articles/a162df3b.json)
+
+[Extended Data](ext_articles/a162df3b.ext.json)
 
 ---
 
@@ -2093,125 +2235,5 @@ It has been revealed that this information has been revealed by the Audit Report
 [Data](articles/8b43fb0f.json)
 
 [Extended Data](ext_articles/8b43fb0f.ext.json)
-
----
-
-### Permanent employees from last Friday of Local Government
-
-*2024-06-16 18:52:37* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-අස්ථිර-සේවකයින්-ඉකුත්-සිකුරාදා-සිට-ස්ථිර-සේවකයින්/11-410246) · `si`
-
-Prime Minister Dinesh Gunawardena announced that precarious employees of Local Authorities have been made permanent since last Friday. This move aims to support low-income families by improving public egg production, creating rural entrepreneurs, and enhancing household self-sufficiency. The initiative is part of broader efforts to address the country's economic challenges, including misconceptions about its financial state and the need for sustainable economic growth and foreign exchange earnings.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that all the precarious employees of Local Authorities have been appointed as permanent employees from last Friday. The Prime Minister made this statement at the distribution of eggs care of the Kurunegala District Secretariat.
-
-The Chinese government, one of these machines opens direct sources of income to several families, and a number of families in the families of the families are available to several families.. Improvement of income earning roads, improve the public egg production of the country, create rural entrepreneurs, creating a self-sufficient garden at home level.
-
-...
-
-[Data](articles/0ece6470.json)
-
-[Extended Data](ext_articles/0ece6470.ext.json)
-
----
-
-### Although the Perahera is not declared. Shops for 50000
-
-*2024-06-16 18:47:07* · [`adalk`](https://www.ada.lk/breaking_news/පෙරහර-මාර්ගය-ප්‍රකාශ-කර-නැතත්-මහනුවර-හෝටල්-කාමර-රු--50000ට-අලෙවි-වෙයි/11-410245) · `si`
-
-Perahera shops sell 50,000 sets of Lamin and traveling rooms, despite not being officially declared part of the Esala Perahera. Prices for hotel rooms near the Perahera route vary, but it's unclear if these are officially recognized.
-
-🟩
-
-Sets of Lamin and Traveling Rooms, which have been officially declared on the historical Esala Perahera of Setsala Perahera, is not officially incurred on the occasion.
-
-In response to a telephone number from a telephone number, a hotel room on the Perahera road is priced between Rs.
-
-The lady is to know that the foregoing routes on the road to Perahera may not be officially officially.
-
-◼️
-
-[Data](articles/de75b8ed.json)
-
-[Extended Data](ext_articles/de75b8ed.ext.json)
-
----
-
-### Sajith from Rs. Mihintawa. 10 lakhs
-
-*2024-06-16 18:36:04* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගෙන්-මිහින්තලාවට-රු--ලක්ෂ-10ක්/11-410243) · `si`
-
-Opposition Leader Sajith Premadasa visited Mihintale Viharaya, where he was welcomed by the Mihintale Thero. They discussed various issues, including the removal of officers from the Armed Forces and Civil Defense Ministry, which Premadasa criticized along with Ranil Wickremesinghe, Bandara Tennakoon, and Kamal Gunaratne. Premadasa emphasized the importance of listening to elders and the need for the government to adhere to constitutional norms. He also mentioned his commitment to the rehabilitation of the Mihintale Sacred Shrine and highlighted the role of the opposition in ensuring electricity across the country.
-
-🟩
-
-Opposition Leader Sajith Premadasa, who returned to the Mihintale Viharaya, gratefully welcomed the welcomed by Mihintale Thero.
-
-The Thera said that as the opposition leader is aware of the alleged opposition leader as the opposition leader when it is criticized by the mistakes, the Opposition Leader is appreciated to listen to the elders.
-
-Opposition Leader Sajith Premadasa, the chief incumbent of the historic Mihinna Ven.
-
-Ranil Wickremesinghe, Praise Bandara Tennakoon Kamal Gunaratne and other criticized the removal of officers from the Armed Forces and the Civil Defense Monary.
-
-The Opposition Leader joined the leader of the Leadership Thero to observe it in terms of a question that was a small kitchen in the Mihintale Raja Maha Viharaya.
-
-The Opposition Leader who is actually a state-centric to the country and that the government is actually a state-centriarized act and that it is unconstitutional.It is stated that.
-
-...
-
-[Data](articles/c9ee7950.json)
-
-[Extended Data](ext_articles/c9ee7950.ext.json)
-
----
-
-### Investigations to identify the pistol in the shooting incident
-
-*2024-06-16 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197824) · `si`
-
-The Criminal Investigation Department (CID) has been tasked with identifying the pistol used in a shooting incident involving the car of former MP Udabbir Premaratne. The case, now under the jurisdiction of Anuradhapura Chief Magistrate Nalaka Sanjeewa Jayasuriya, involves two Assistant Superintendents of Police (ASPs) allegedly involved in an organized shooting plot. Following the magistrate's orders, the CID has been directed to expedite its investigation, which includes examining the firearm used by one of the ASPs from the Anuradhapura Police Department. The suspects have been apprehended and presented in court.
-
-🟩
-
-The Criminal Investigation Department has ordered the Criminal Investigation Department to refer to the Pistol used by the Assistant Superintendent of Police.
-
-The shooting case on the car of former MP Udabbir Premaratne is involved in the car.
-
-Anuradhapura Chief Magistrate and Additional District Judge Nalaka Sanjeewa Jayasuriya has ordered that the case was taken by the case yesterday (15).Investigation of the tasting examination, it is widespread.
-
-The Chief Magistrate has ordered the Criminal Investigation Department to promptly promptly after investigating the Criminal Investigations Department.
-
-The officials of the Criminal Investigation Department (CID) officials of the Criminal Investigation Department stated that the official Assistant Superintendent of Police (ASP) had been used by the Police Department in Anuradhapura.
-
-They have been revealed in court that the shooting is revealed in court that the two Assistant Superintendent of Police was planned in organized.
-
-...
-
-[Data](articles/e1abe9b0.json)
-
-[Extended Data](ext_articles/e1abe9b0.ext.json)
-
----
-
-### Vietnam selling SBV bills to stabilize the Dong, as Sri Lanka rupee also weakens
-
-*2024-06-16 18:31:00* · [`economynextcom`](https://economynext.com/vietnam-selling-sbv-bills-to-stabilize-the-dong-as-sri-lanka-rupee-also-weakens-168317/) · `en`
-
-ECONOMYNEXT – The State Bank of Vietnam (SBV) is selling its own bills and also selling dollars to absorb liquidity and stabilize its currency against the US dollar, Pham Chi Quang, Director General of the Monetary Policy Department has said.
-
-The Vietnam Dong has depreciated against the US dollar by about 5 percent since the beginning of 2024, compared to a 5.06 percent fall of the Taiwan New dollar, 6.31 percent of the Thai Bhat and 5.66 percent of the Korean Won and 10.87 of the Japanese Yen, he said.
-
-Rising US dollar rates and lower VND rates were also adding to the pressure he said.
-
-Vietnam recorded a balance of payments surplus in the December 2023 quarter. If the liquidity is not mopped up the money eventually turn into imports through the credit system.
-
-Meanwhile Qang said, from the beginning of the year to mid-May, the import sector has recovered strongly, estimated at 132.23 billion dollars, an increase of 19.7 billion over the same period in 2023.
-
-...
-
-[Data](articles/7af9a8a3.json)
-
-[Extended Data](ext_articles/7af9a8a3.ext.json)
 
 ---

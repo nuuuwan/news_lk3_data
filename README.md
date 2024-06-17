@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 17:55:25**
+As of **2024-06-17 18:13:26**
 
 ## Newspaper Stats
 
-*Scraped **30,803** Articles*
+*Scraped **30,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,782
 dailyftlk | 1,873
-adalk | 2,669
+adalk | 2,670
 adaderanalk | 3,492
 tamilmirrorlk | 3,611
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,801 (100.0%) of 30,803 articles have been extended.
+30,803 (100.0%) of 30,804 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,35 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/222d8b8a.json)
 
+[Extended Data](ext_articles/222d8b8a.ext.json)
+
 ---
 
-### ஜீ - 5 தளத்தில் வெளியாகி இருக்கும் நடிகை நிவேதா பெத்துராஜின் 'பருவு' தமிழ் இணைய தொடர்
+### Actress Nivetha Bethuraj's 'Muzu' Tamil Internet Series
 
 *2024-06-17 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186301) · `ta`
 
-தெலுங்கில் தயாரான 'பருவு' எனும் இணைய தொடர், ஜீ 5 டிஜிட்டல் தளத்தில் தமிழில் வெளியாகி இருக்கிறது.
+Nivetha Bethuraj stars in "Muzu," a Tamil adaptation of the Telugu series "Thusu," now available on G5 digital. The series explores a couple's fight against caste discrimination, highlighting the lengths one goes for love and respect. Featuring a cast including Naresh Agasthiyar, Naga Babu, and Pranitha Patnaik, it delves into the darker sides of humanity, sparking interest among fans.
 
-தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகை நிவேதா பெத்துராஜ் கதையின் நாயகியாக நடித்திருக்கும் 'பருவு' எனும் இணைய தொடர் தெலுங்கில் தயாராகி இருக்கிறது.
+🟩
 
-இவருடன் நரேஷ் அகஸ்தியர், நாக பாபு, பிரணிதா பட்நாயக் உள்ளிட்ட பலர் நடித்துள்ளனர். சித்தார்த் நாயுடு மற்றும் வட்லபதி ராஜசேகர் ஆகியோர் இணைந்து இயக்கி இருக்கும் இந்த இணையத் தொடரை தயாரிப்பாளர் சுஷ்மிதா கொனிடேலா தயாரித்திருக்கிறார். இந்த இணையத் தொடருக்கு பவன் சதினேனி தலைமையேற்றிருக்கிறார்.
+The Telugu series 'Thusu' has been released in Tamil on the G5 digital site.
 
-ஜீ 5 டிஜிட்டல் தளத்தில் வெளியாகி உள்ள 'பருவு' இணையத் தொடர்- சாதிய ரீதியிலான ஆதிக்க வெறியர்களின் ஆணவ கொலைகளுக்கு பலியாகி விடுவோமோ..! என்ற அச்சத்தில் ஒரு சாதி மறுப்பு திருமணம் செய்து கொண்ட தம்பதியினர் தங்களது காதலையும், வாழ்க்கையையும் பாதுகாத்துக் கொள்ள போராடுகிறார்கள்.
+Actress Nivetha Bethuraj, who has made his debut for Tamil fans, is ready to star in Telugu.
 
-...
+He is accompanied by Naresh Agasthiyar, Naga Babu, Pranitha Patnaik and many others. Sushmita Konitela has produced the internet series, which is co -directed by Siddharth Naidu and Vadlapati Rajasekar.. Pawan Sattineni has led this internet series.
+
+The 'Thuzhu' Internet Series on the G5 digital siteFearing that a caste denial is a couple who are struggling to protect their love and life.
+
+Has their struggle succeeded?Or not?The web series has revealed how far a person travels for love, affection, faith, and respect for respect, and the other side of human beings.. This has caused great excitement to see this among fans.
+
+Actress Nivetha Bethuraj is the heroine of the story and can be found free of the first chapter of the 'Muzu' web series on the G5 Digital site.
+
+◼️
 
 [Data](articles/dc569995.json)
+
+[Extended Data](ext_articles/dc569995.ext.json)
 
 ---
 
@@ -1069,6 +1081,20 @@ Central Railway Minister Aswini Vaishnav said the accident was a shock and alarm
 [Data](articles/575f8101.json)
 
 [Extended Data](ext_articles/575f8101.ext.json)
+
+---
+
+### ඉන්දියාවේ අවසර නොලැබීමෙන් සලාමා සිසුවාගේ ලෝක වාර්තා සිහිනය බොඳ වෙයි
+
+*2024-06-17 13:10:33* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-අවසර-නොලැබීමෙන්-සලාමා-සිසුවාගේ-ලෝක-වාර්තා-සිහිනය-බොඳ-වෙයි/11-410260) · `si`
+
+ඉන්දියාවේ ධනුස්කොඩි වරායේ සිට පෝක් සමුද්‍ර සන්ධිය හරහා ලංකාවේ තලෙයි මන්නාරමට පිහිනා ලෝක වාර්තාවක් තැබිමට ගිය ත්‍රිකුණාමලය සහිරා විද්‍යාලයේ 10 වසරේ ඉගෙනුම ලබන පහමි හසන් සලාමා සිසුවාට ඒ සදහා ඉන්දියානු රජයේ නිසි අවසරය අන්තිම මොහොතේ නොලැබිම නිසා තලෙයි මන්නාරමට ගිය පිරිසට ආපසු හැරි ඒමට සිදුවිය.
+
+ශ්‍රී ලංකා ජල ක්‍රීඩා සංගමයේ අධීක්ෂණය යටතේ මේ සඳහා ශ්‍රී ලංකා ඉන්දියානු මහ කොමසාරිස් කාර්යාලයෙන් අවසරය ලබාගෙන තිබූ අතර ඒ අනුව ඉකුත්15 වෙනිදා බෝට්ටු මගින් ඉන්දියාවට යෑමට සූදානම්ව  සිටියදී ඉන්දීය බලධාරීන්ගේ අවසරය අත්හිටුවීම නිසා පිරිසට මේ තත්ත්වයට මුහුණ දීමට සිදුවිය .
+
+...
+
+[Data](articles/28207219.json)
 
 ---
 
@@ -2375,19 +2401,5 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/48f30979.json)
 
 [Extended Data](ext_articles/48f30979.ext.json)
-
----
-
-### Road To Bankruptcy: The Role Of Foreign Currency Flows & Economic Vulnerabilities In Sri Lanka
-
-*2024-06-17 04:34:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/road-to-bankruptcy-the-role-of-foreign-currency-flows-economic-vulnerabilities-in-sri-lanka/) · `en`
-
-Until 1978, Sri Lanka’s economy was mainly agriculture-based. In the 1970s, industrialization began to grow due to government and bilateral investments. However, the economy faced high inflation and product shortages due to supply-side shocks from the OPEC oil embargo. Despite these challenges, Sri Lanka remained free of foreign debt in the early 1970s due to strict trade and capital controls and policies focused on production.
-
-...
-
-[Data](articles/d2a7c4a7.json)
-
-[Extended Data](ext_articles/d2a7c4a7.ext.json)
 
 ---

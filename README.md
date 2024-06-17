@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 15:04:35**
+As of **2024-06-17 15:19:14**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,988
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,767 (100.0%) of 30,771 articles have been extended.
+30,771 (100.0%) of 30,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### ඊශ්‍රායල අගමැති දැඩි තීරණයක් ගනී
+### Israeli Prime Minister makes a strong decision
 
 *2024-06-17 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197849) · `si`
 
-"යුද කැබිනෙට්ටුව" විසුරුවා හැරීමට ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු තීරණය කර තිබේ.
+Israeli PM Netanyahu dissolves "war cabinet" amid tensions. A key figure resigned last week, followed by clashes in Gaza. Eight Israeli soldiers died from an explosion in South Gaza, marking the first assault since January.
 
-එම කැබිනෙට්ටුවේ ප්‍රකට චරිතයක් වූ බෙනි ග්‍රාන්ට්ස් පසුගිය සතියේ ඉන් ඉවත් විය.
+🟩
 
-ඒ යුද්ධයෙන් අනතුරුව ගාසා තීරය සම්බන්ධයෙන් ඇති වූ මත ගැටුමක් හේතුවෙනි.
+Israeli Prime Minister Benjamin Netanyahu has decided to dissolve the "war cabinet".
 
-මේ අතර පසුගිය සති අන්තයේ දකුණු ගාසා තීරයේ සිදුවූ පිපිරීමකින් ඊශ්‍රායල සොල්දාදුවන් 8 දෙනෙක් මියගිය බව එරට ආරක්ෂක අංශ පවසයි.
+The known figure of that cabinet was quit last week.
 
-එය පසුගිය ජනවාරි මාසයෙන් පසු ඊශ්‍රායල හමුදාව මුහුණදුන් බරපතළ ම ප්‍රහාරය බව සඳහන් ය.
+After that war, a clash was caused by the Gaza.
+
+Meanwhile, 8 Israeli soldiers were killed following an explosion in South Gaza last weekend.
+
+It is said that after January last January, the Israeli army was assaulted.
 
 ◼️
 
 [Data](articles/6a63aad2.json)
+
+[Extended Data](ext_articles/6a63aad2.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ The Sri Lankan skipper further said: “We talked about our mistakes from both t
 ...
 
 [Data](articles/600d0787.json)
+
+[Extended Data](ext_articles/600d0787.ext.json)
 
 ---
 
@@ -172,19 +180,29 @@ Addressing the people, the President said he was able to restore the economy of 
 
 ---
 
-### වසරකට පුරවැසියෙක් හය වතාවක් ප්‍රතිකාර ලබා ගැනීමට රෝහලට පැමිනේ
+### A citizen to take treatment to treat six times a year
 
 *2024-06-17 13:40:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-පුරවැසියෙක්-හය-වතාවක්-ප්‍රතිකාර-ලබා-ගැනීමට-රෝහලට-පැමිනේ/11-410264) · `si`
 
-කලාපයේ රටවල් සමග සැසදීමේදී  වැඩිපුරම රෝහල් වලට සහ  බාහිර රෝගී අංශයට ප්‍රතිකාර සේවාවන් ලබා ගැනීමට පැමිනෙන්නේ මෙරට ජනතාව බවත්, මිලියන 55 ක් රජයේ රෝහල් වලින් ප්‍රතිකාර ලබා ගැනීමටත්, තවත් මිලියන 55 පෞද්ගලික අංශයෙන් ප්‍රතිකාර ලබා ගැනීමට පැමිණෙන බවත්, ‍එලෙස විශාල ලෙස ජනතාව රෝහල් වලට පැමිනීමෙන් පෙනී යන්නේ  මෙරට ක්‍රියාත්මක රෝග නිවාරණ අංශයේ සහ රෝහල් වල ලබා දෙන ප්‍රතිකාර වල යම් ගැටලු සහගත තත්ත්වයක් බවත්, එම නිසා සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහන් සහ  රෝගීන්ට රෝග ඇතිවීම වැළැක්වීමේ  වැඩසටහන්  ශක්තිමත් කල යුතු බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කරයි.
+Dr. Palitha Mahipala emphasized the importance of health promotion programs and disease prevention during his visit to the Matale District General Hospital. He highlighted the need for citizens to seek treatment six times a year and the significance of maintaining a health database. The Health Secretary discussed the allocation of funds for medical equipment and expressed hope for starting an Independence Council in hospitals to ensure quality care. Additionally, he mentioned the potential reduction in hospital visits if the outpatient sector is improved and committed to providing training for healthcare staff.
 
-ඒ මහතා මේබව අවධාරණය කර සිටියේ පසුගිය දින මාතලේ දිස්ත්‍රික් මහ රෝහලේ   රෝහලේ සිදුකරන ලද විශේෂ නිරීක්ෂණ චාරිකාවකින් අනතුරුව එම රෝහල් කාර්ය මණ්ඩලය සමග පැවති විශේෂ සාකච්ඡාමය අවස්ථාවේ අදහස් දක්වමින්ය.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් සෞඛ්‍ය ලේකම්වරයා කියා සිටියේ එක පුරවැසියෙක් වසරකට හය වතාවක් ප්‍රතිකාර සේවාවන් සදහා රෝහල් වලට පැමිණෙන බව මෙරට සෞඛ්‍ය දත්ත පරිශීලනයේදී පෙනෙන ප්‍රධාන කරුණක් බවත්ය.
+55 million people who are being treated in the country and the outstanding sector are being treated at the most hospitals and the outward diseases in the region.Dr. Palitha Mahipala stresses that health promotion programs and health promotion programs and patients should strengthen the prevention of diseases of disease.
+
+He was speaking at a special inspection tour of the hospital at the Matale District General Hospital recently.
+
+Speaking further, the Health Secretary said that one citizen is a key point in the health database that the health data will come to hospital six times a year.
+
+He pointed out that the patients who were responsible for the patient accounts of the patients during the global data, the hospital was to be attending hospitals and the hospital in Sri Lanka.
+
+In view of all, the disease is very important, and the quality assurance (quuality assurance) is necessary to strengthen the program of patient safty.
 
 ...
 
 [Data](articles/44a977f5.json)
+
+[Extended Data](ext_articles/44a977f5.ext.json)
 
 ---
 
@@ -422,19 +440,25 @@ The National Water Supply and Drainage Board says that the damaged pipe to the L
 
 ---
 
-### කුසල් හා ධනංජය වගකීම් ඉටු කළා  - අසලංක දක්ෂතාව ඔප්පු කළා
+### Kusal and Dananjaya have fulfilled responsibilities - proven blood
 
 *2024-06-17 12:55:03* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-හා-ධනංජය-වගකීම්-ඉටු-කළා----අසලංක-දක්ෂතාව-ඔප්පු-කළා/11-410258) · `si`
 
-නෙදර්ල්න්තය සමග පැවැති තරගයේදී ශ්‍රී ලංකා කණ්ඩායමේ ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් හා තුන් ඉරියව් ක්‍රීඩක ධනංජයද සිල්වා තම වගකිම් ඉටු කළ බවත් චරිත් අසලංකද තම දක්ෂතාව ඔප්පු කළ බවත් ශ්‍රී ලංකා විස්සයි 20 නායක වනිඳු හසරංග පවසයි.
+Kusal Mendis and Dananjaya Silva, key players from Sri Lanka's cricket team, showcased their talents against the Netherlands, securing a crucial win after initial losses. They managed to dismiss the Dutch team within the first six overs, highlighting Sri Lanka's strong bowling attack. This victory was significant for the team, demonstrating resilience and potential to bounce back from defeats.
 
-එසේම පළමු තරග දෙකේ පරාජයෙන් පසුව ලැබූ මෙම ජයග්‍රහණය කණ්ඩායමට වැදගත් බවද ඔහු පැවැසීය. පළමු තරග දෙකේදී පළමු පන්දුවාර 6 තුළදි ශ්‍රි ලංකාවේ කඩුලු දෙක තුනක් බිඳී ගිය බවත් මෙම තරගයේදි එවැනි දෙයක් සිදු නොවුණ බවත් ඔහු පැවැසිය.
+🟩
 
-ලකුණු 160ක් රැස් කළේ නම් එය ආරක්ෂා කර ගැනීමට ප්‍රමාණවත් පන්දු යැවිමේ අංශයක් ශ්‍රී ලංකාවට පවතින බවද ඔහු වැඩිදුරටත් පැවැසීය.
+Sri Lanka's founding batsman Kusal Mendis and Three Post-Player Dananjaya Silva had done their talent in the match with the Netherlant.
+
+He added that this victory was important to the team after the first two matches defeat.. He said that Sri Lanka had broken two three wickets in the first six overs.
+
+He added that if Sri Lanka has sufficient bowling sector is available to protect it.
 
 ◼️
 
 [Data](articles/e8d53728.json)
+
+[Extended Data](ext_articles/e8d53728.ext.json)
 
 ---
 

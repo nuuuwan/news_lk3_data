@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 11:19:20**
+As of **2024-06-17 11:34:43**
 
 ## Newspaper Stats
 
-*Scraped **30,727** Articles*
+*Scraped **30,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,779
 dailyftlk | 1,873
-adalk | 2,656
+adalk | 2,657
 adaderanalk | 3,480
-tamilmirrorlk | 3,600
+tamilmirrorlk | 3,601
 virakesarilk | 4,716
 dailymirrorlk | 4,733
 adaderanasinhalalk | 4,980
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,690 (99.9%) of 30,727 articles have been extended.
+30,690 (99.9%) of 30,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### 200 விமானங்களில்  நகை திருடிய இளைஞன் கைது
+
+*2024-06-17 11:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-விமானங்களில்-நகை-திருடிய-இளைஞன்-கைது/175-339012) · `ta`
+
+விமானங்களில் பயணிகளிடம் நகைகளை திருடினார் என்றக் குற்றச்சாட்டில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+புதுடெல்லியைச் சேர்ந்தவர் ராகேஷ் கபூர், ஐதராபாத்-புமடெல்லி, பெங்களூரு, மும்பை மற்றும் பிற நகரங்களுக்கு இடையே உள்ளூர் உள்நாட்டு விமானங்களில் அடிக்கடி பயணம் செய்தார்.
+
+விமானத்தில் பயணித்த பெண்களை அடையாளம் கண்டு, தன்னுடன் எடுத்துச் சென்ற தோள் பையை பெண் பயணிகளின் கைப்பைகளுக்கு அருகில் ராகேஷ் வைத்திருந்தார்.
+
+"பயணத்தின் போது, பெண்கள் கழிவறைக்குச் செல்லும்போதெல்லாம், ராகேஷ் அவர்களின் பைகளைத் திறந்து, நகைகள் உள்ளிட்ட விலையுயர்ந்த பொருட்களை திருடினார்.
+
+விமானங்களில் நடந்த திருட்டு குறித்து ஐதராபாத் விமான நிலைய பொலிஸார் தீவிர விசாரணை நடத்தினர். விமான நிலையத்தில் பொருத்தப்பட்டிருந்த கண்காணிப்பு கேமராக்களின் காட்சிகளை பொலிஸார் அவதானித்து, ராகேஷ் கபூரை அடையாளம் கண்டனர்.
+
+அவரை பிடித்து விசாரித்ததில் விமானங்களில் அவர் பயணிகளிடம் நகை, விலை உயர்ந்த பொருட்கள் திருடியது தெரியவந்தது.
+
+...
+
+[Data](articles/c5a359f3.json)
+
+---
 
 ### குட்டை கோடாரியால் தாக்க முயன்றவர் சுட்டு கொலை
 
@@ -561,6 +583,10 @@ The water supply to these areas has been interrupted due to a damage in the tran
 According to reports, the water transmission pipeline from the Kalatuwawa Treatment Plant has burst at Godagama near the High-Level Road owing to a vehicular accident.
 
 A car had veered off the road and collided with the water transmission pipeline this morning (17) causing severe damage to the pipeline.
+
+Piyal Rajapaksa, the Operations Manager of the Kalatuwawa Reservoir in Labugama, has indicated that repairs are expected to be completed and the water supply restored by this evening.
+
+As a result of the incident, the water supply to over 100,000 housing units in the affected areas has been interrupted until further notice.
 
 ◼️
 
@@ -1208,24 +1234,6 @@ Due to the past bad weather, agricultural insurance was provided to the destroye
 
 ---
 
-### 
-
-*2024-06-17 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84206) · `en`
-
-Will  the current positions taken by Sajith Premadasa and Anura  Dissanayake Regarding the 13th Amendment  help bring about a positive change in the misconceptions among Sinhalese society about devolution of power.
-
-Although many amendments have been brought to the Sri Lankan Constitution during a period of more than four-and-a-half decades, which were detrimental to democratic governance, no major controversy has been raised against them.
-
-However, the 13th Amendment (13A), which has a relatively democratic dimension, has been in the Constitution for more than three-and-a-half decades but has been controversial for a long time.
-
-...
-
-[Data](articles/4111ec6a.json)
-
-[Extended Data](ext_articles/4111ec6a.ext.json)
-
----
-
 ### Sumanthiran says that Sivajilingam is accustomed to
 
 *2024-06-17 00:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவாஜிலிங்கத்துக்கு-பழக்கதோசம்-என்கிறார்-சுமந்திரன்/175-338988) · `ta`
@@ -1396,6 +1404,22 @@ The investigations by the Carabinieri of the operational unit of the company con
 
 ---
 
+### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
+
+*2024-06-16 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84194) · `en`
+
+“And one man in his time plays many parts” ,stated  William Shakespeare in his play “As you like it”. The above  mentioned observation by the  Bard of Avon is quite appropriate in describing the life and work of Dr.Nissanka Wijeyeratne whose 100th birth anniversary was  celebrated on June 14.
+
+Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military officer ,scholar, poet,  Government Agent, Permanent secretary, ),Parliamentarian, Cabinet Minister, Ambassador and above all the Diyawadane Nilame of the  Sri Dalada Maligawa in a  productive life spanning eight decades. This article is to commemorate the birth centenary of this versatile,  multi-faceted personality who rendered yeoman service to his motherland.
+
+...
+
+[Data](articles/fb52118a.json)
+
+[Extended Data](ext_articles/fb52118a.ext.json)
+
+---
+
 ### பல்திறப்புலமையும் பன்முக ஆற்றலும் கொண்ட ஆளுமை நிசங்க விஜேரத்ன
 
 *2024-06-16 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186221) · `ta`
@@ -1427,6 +1451,24 @@ The investigations by the Carabinieri of the operational unit of the company con
 ◼️
 
 [Data](articles/3b3e54e8.json)
+
+---
+
+### Will  the current positions taken by Sajith Premadasa and Anura  Dissanayake Regarding the 13th Amendment  help bring about a positive change in the misconceptions among Sinhalese society about devolution of power?
+
+*2024-06-16 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84206) · `en`
+
+Although many amendments have been brought to the Sri Lankan Constitution during a period of more than four-and-a-half decades, which were detrimental to democratic governance, no major controversy has been raised against them.
+
+However, the 13th Amendment (13A), which has a relatively democratic dimension, has been in the Constitution for more than three-and-a-half decades but has been controversial for a long time.
+
+The 13A, introduced following the July 1987 Indo-Sri Lanka Peace Accord to introduce the system of Provincial Councils (PCs) has not been properly implemented by any government in office so far. Political controversies arise from time to time regarding that amendment. As the country looks ahead to the Presidential Election, there is another possibility of controversy raging regarding the 13A.
+
+...
+
+[Data](articles/4111ec6a.json)
+
+[Extended Data](ext_articles/4111ec6a.ext.json)
 
 ---
 
@@ -1507,6 +1549,26 @@ T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලි�
 ◼️
 
 [Data](articles/85ee1542.json)
+
+---
+
+### බිත්තරය 55යි, තක්කාලි කිලෝව 800යි බෝංචි කිලෝව 1000යි
+
+*2024-06-16 19:32:26* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරය-55යි--තක්කාලි-කිලෝව-800යි-බෝංචි-කිලෝව-1000යි/11-410249) · `si`
+
+බිත්තරයක සිල්ලර මිල යළිත් ඉහළ යමින් තිබෙන අතර ඇතැම් ප්‍රදේශවල බිත්තරයක සිල්ලර මිල රු. 55 ක් දක්වා ඉහළ ගොස් තිබේ. මේ වන විට ඇතැම් ප්‍රදේශවල බිත්තර හිඟයක්ද පවතී.
+
+තක්කාලි කිලෝවක සිල්ලර මිල රුපියල් 800 ක් දක්වාත් බෝංචි කිලෝවක මිල රු.1000 දක්වාත්  ලීක්ස්  හා කැරට් කිලෝවක සිල්ලර මිල රු. 600 ක් දක්වාත්  අමු මිරිස් කිලෝවක සිල්ලර මිල රු. 500 ක් දක්වාත් ඉහළ ගොස් ඇත.
+
+පොල් ගෙඩියක මිල ඇතැම් ප්‍රදේශවල රු. 140 දක්වා ඉහළ ගොස් තිබෙන අතර සාමාන්‍ය තත්ත්වයේ පොල් තෙල් බෝතලයක මිල රුපියල් 600 දක්වා ඉහළ ගොස් තිබේ.
+
+සම්බා සහල් කිලෝවක උපරිම සිල්ලර මිල රු. 230 ක් ලෙසට ප්‍රකාශයට පත් කර තිබුණත්  රු. 240-රු. 250  දක්වා ඉහළ ගොස් තිබේ. පොන්නි සම්බා රු. 290 කටත්,  රතු කිරි සහල් මිල රු. 300 -රු. 310 ක මිලකටත් අලෙවි කරමින් පවතී.
+
+නාඩු සහල්  රු 220ටත්, සුදු කැකුළු  රු 205 රතු කැකුළු සහල්  රු. 190 කටත් අලෙවි වෙමින් තිබෙන අතර විවිධ නම්වලින් සම්බා සහල් අලෙවි කරමින් පවතී. එහෙත් එම සහල් වර්ග සදහා කිසිදු පාලන මිලක් ප්‍රකාශයට පත් වී නොමැත.
+
+◼️
+
+[Data](articles/53e5afcf.json)
 
 ---
 
@@ -2011,53 +2073,5 @@ Foreign media states that such incidents have been continuously reported in Paki
 ◼️
 
 [Data](articles/6e5f3337.json)
-
----
-
-### A shooting in America
-
-*2024-06-16 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197819) · `si`
-
-In Michigan, nine people including two seriously injured children were shot near a park. The shooter used two guns from a nearby house, but the exact details remain unclear.
-
-🟩
-
-Nine persons were injured in a shooting in Michigan in the United States.
-
-The injured people also belong to two children, one of them is serious.
-
-It is reported that shot of shooting while hiding in a house near the park.
-
-An eye has said that the shotgun was shooting using two guns, but it has not been specific.
-
-◼️
-
-[Data](articles/2509e19d.json)
-
-[Extended Data](ext_articles/2509e19d.ext.json)
-
----
-
-### பலிக்கடா ஆகும் தமிழ் அரசுக் கட்சி
-
-*2024-06-16 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186195) · `ta`
-
-"தமிழ் பொது வேட்பாளர் விடயத்தை அவர் எதிர்க்கிறார். அதனை அனுமதிக்க முடியாது என்கிறார். அதனை தோற்கடிக்க வேண்டும் என்கிறார். விஷப்பரீட்சை என்கிறார். தாங்களே முடிவு எடுப்போம். தங்களுக்கே ஆணை இருக்கிறது என்கிறார். அதற்குப் பின்னர்,  சிவில் சமூகத்தை அவர் கருத்து கூறுமாறு ஏன் அழைக்க வேண்டும்...”
-
-◼️
-
-[Data](articles/a3285a03.json)
-
----
-
-### தமிழ் பொது வேட்பாளரால் தமிழர்களுக்கு என்ன பயன்? - வீரகேசரிக்கு வழங்கிய பிரத்தியேக செவ்வியில் சம்பந்தன் கேள்வி
-
-*2024-06-16 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186205) · `ta`
-
-"எங்­க­ளது உறு­தி­யான நிலைப்­பா­டு­களால் எது­வுமே நடை­பெ­ற­வில்லை என்று கூறி­விட முடி­யாது. பல­ வி­ட­யங்கள் நடை­பெற்­றி­ருக்­கின்­றன. எமது மக்­களின் அபி­லா­ஷை­களை பூர்த்தி செய்யும் அடிப்­படைக் கொள்­கையில் உறு­தி­யாக இருக்­கின்றோம். எமது மக்கள் விரும்­பாத ஒரு­ வி­ட­யத்­தினை நாம் ஏற்­றுக்­கொள்­ளப்­போ­வ­தில்லை. எம்மை நம்­பலாம்..." - சம்பந்தன்
-
-◼️
-
-[Data](articles/e895fc82.json)
 
 ---

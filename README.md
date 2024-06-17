@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 01:34:54**
+As of **2024-06-18 01:52:22**
 
 ## Newspaper Stats
 
-*Scraped **30,836** Articles*
+*Scraped **30,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 301
 newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,783
-dailyftlk | 1,878
+dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
 tamilmirrorlk | 3,615
@@ -26,9 +26,107 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,836 (100.0%) of 30,836 articles have been extended.
+30,836 (100.0%) of 30,841 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-18 (Tuesday)
+
+### AG tenure expansion not within CC scope – G.L.
+
+*2024-06-18 01:00:52* · [`dailyftlk`](https://www.ft.lk/news/AG-tenure-expansion-not-within-CC-scope-G-L/56-763198) · `en`
+
+MP Prof. G.L. Peiris highlights absence of any precedent for extending an Attorney General’s term
+
+Expresses concern that extending current AG’s term would prevent first female AG from being appointed
+
+Accuses Govt. of shifting responsibility to CC after failing to lay blame on Catholic Church for AG tenure extension
+
+Freedom People’s Congress MP Prof. G.L. Peiris claimed yesterday that extending the term of office of the Attorney General is not within the Constitutional Council’s purview.
+
+At a press conference, Peiris noted that while the Constitutional Council is set to meet today to decide on the matter, this decision is outside its jurisdiction.
+
+“This matter does not fall within the scope of the Constitutional Council. The Council lacks both the power and responsibility to address it,” the MP said.
+
+...
+
+[Data](articles/014d5689.json)
+
+---
+
+### Sarvajana Balaya to hold first political rally in Nugegoda today
+
+*2024-06-18 00:58:47* · [`dailyftlk`](https://www.ft.lk/news/Sarvajana-Balaya-to-hold-first-political-rally-in-Nugegoda-today/56-763197) · `en`
+
+Hints two additional parties may join their coalition during meeting
+
+Sarvajana Balaya is set to hold its inaugural political rally today in Nugegoda, aiming to reignite the support of the 6.9 million voters who previously backed a better future for the country. During the meeting, it is hinted that two additional parties may join their coalition.
+
+Holding a media briefing, Mawbima Janatha Party (MJP) leader Dilith Jayaweera expressed readiness to rekindle the enthusiasm of those voters.
+
+He stressed that none of the Sarvajana Balaya representatives were responsible for the downfall of the previous regime, attributing the failure to the Rajapaksa family’s inability to meet the people’s expectations.
+
+Jayaweera specifically blamed Basil Rajapaksa’s liberal ideologies for the regime’s collapse.
+
+“The 6.9 million voters symbolise those who love the country,” Jayaweera stated.
+
+He said there is no option for the people of the country other than rallying around Sarvajana Balaya.
+
+...
+
+[Data](articles/00cc0318.json)
+
+---
+
+### Sri Lanka hosts first International Wetland Park Association Conference
+
+*2024-06-18 00:56:13* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-hosts-first-International-Wetland-Park-Association-Conference/56-763196) · `en`
+
+Ramsa Regional Centre in East Asia Executive Director Suh Seung Oh presenting a commemorative gift to Prime Minister Dinesh Gunawardena
+
+Prime Minister Dinesh Gunawardena yesterday reaffirmed Sri Lanka’s commitment to environmental conservation and sustainable development during the inauguration of the first conference of the International Wetland Park Association for Australia, New Zealand and Asia.
+
+The forum, organised by the Sri Lanka Land Development Corporation (SLLDC) under the Urban Development and Housing Ministry’s auspices, brings together nearly 100 representatives from over 70 wetland parks across 15 countries, including Sri Lanka, South Korea, Mongolia, the Philippines, Jordan, Myanmar, New Zealand, Nepal, Japan, Australia, China, India, Pakistan, Taiwan and the United Kingdom.
+
+...
+
+[Data](articles/bd984c29.json)
+
+---
+
+### Hayleys Fentons wins Overall award and becomes most awarded corporate at NPMEA 2024
+
+*2024-06-18 00:33:42* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-wins-Overall-award-and-becomes-most-awarded-corporate-at-NPMEA-2024/34-763192) · `en`
+
+3 Gold Awards for Best Managed Projects in ‘Social Enterprise (Local and International), ‘Green Outcomes’, and ‘Infrastructure Development’
+
+1 Bronze Award for Best Managed Project in ‘Power and Energy Sector’
+
+Hayleys Fentons, with over a century of excellence in engineering and project management, won the highest number of awards, including the ‘Overall Best Managed Project of the Year’ title at the recent National Project Management Excellence Awards (NPME) Gala 2024.
+
+The annual NPME Awards, organised by the Project Management Institute of Colombo, Sri Lanka Chapter, recognise outstanding project management achievements by highlighting best-in-class projects from various sectors.
+
+...
+
+[Data](articles/249a6973.json)
+
+---
+
+### Eksath appointed to Boards of Palm Garden, Dolphin Hotels
+
+*2024-06-18 00:31:39* · [`dailyftlk`](https://www.ft.lk/business/Eksath-appointed-to-Boards-of-Palm-Garden-Dolphin-Hotels/34-763191) · `en`
+
+Top professional Eksath Wijeratne has been appointed as a Non-Executive Director on the Boards of Palm Garden Hotels PLC and Dolphin Hotels PLC with effect from 14 June.
+
+Eksath, is the dynamic Chief Executive Officer of Browns Hotels and Resorts under the LOLC group, which is one of the most diversified conglomerates in Sri Lanka, is a versatile hotelier with an impressive track record in the industry. He also serves as a Director of Excel World and the Director of Sun and Fun Resorts Ltd.
+
+With over three decades of experience, his leadership prowess and passion for nurturing talent position him as a driving force behind the continued success of the organisation.
+
+...
+
+[Data](articles/7babda6b.json)
+
+---
 
 ### 2024-06-17 (Monday)
 
@@ -2297,123 +2395,5 @@ The police said that steps have been taken to appear in court on Monday (17), wh
 [Data](articles/576c99e3.json)
 
 [Extended Data](ext_articles/576c99e3.ext.json)
-
----
-
-### Murder attempt on Sri Lankans in Italy;Arrest of Sri Lankans who illegally stayed
-
-*2024-06-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186248) · `ta`
-
-A Sri Lankan man, 41, was arrested in Italy for illegal residency after allegedly stabbing another Sri Lankan, causing injuries to the neck, chest, and right thigh.
-
-🟩
-
-The media has reported that a Sri Lankan has been arrested for illegally staying in Italy for attempting to kill a Sri Lankan.
-
-The 41 -year -old Sri Lankan, who was illegally staying in Italy, has repeatedly stabbed another Sri Lankans with a knife, said Karapinieri police in Italy.
-
-Police have gone to the scene following a complaint that a man was injured on Saturday evening.
-
-A 44 -year -old Sri Lankan citizen has been attacked and found in a neck, chest and right thigh.
-
-A 41 -year -old Sri Lankan man has been arrested for illegally staying in Italy in connection with the incident.
-
-◼️
-
-[Data](articles/237533a5.json)
-
-[Extended Data](ext_articles/237533a5.ext.json)
-
----
-
-### Fire breaks out at function hall in Maligawatta
-
-*2024-06-17 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99922/fire-breaks-out-at-function-hall-in-maligawatta) · `en`
-
-A fire has reportedly broken out at a function hall at Jayantha Weerasekara Mawatha in Maligawatta this morning (17).
-
-It is reported that the Fire Brigade has managed to douse the flames.
-
-Ada Derana reporter said that no individuals were injured in the incident and only property damage has been reported so far.
-
-◼️
-
-[Data](articles/d46628c9.json)
-
-[Extended Data](ext_articles/d46628c9.ext.json)
-
----
-
-### Sri Lanka three medals in Asian throwing tournament
-
-*2024-06-17 11:20:48* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-විසි-කිරිමේ-තරගාවලියේදී ලංකාවට-පදක්කම්-තුනක්/11-410255) · `si`
-
-Sri Lanka won three medals in the 2024 Asian throwing championships: a gold by a 21-year-old Sri Lankan Air Force member and two bronze medals by Dilhani Secretary and Sumedha Ranasinghe. The event took place in South Korea, with participants from 20 Asian countries.
-
-🟩
-
-Sri Lankan atrocities who participated in the 3rd Asian Testing Championship (2024 Asian throwing championships) arrived at the Bandaranaike International Airport on April 6.
-
-The tournament was held from the MoKPO (mokpo) in South Korea, with the participation of about 20 Asian countries from 15/15 to 6/15.
-
-In this tournament, the 21-year-old Sri Lankan Air Force, a 21-year-old Sri Lankan Air Force, was 45.45 meters and launched a record of this tournament.
-
-The throw distance was reduced to 5 centimeters to the olympic decorative level, and with the throw, Rumesh wave World series has reached the nineth.
-
-Dilhani Secretary and Sumedha Ranasinghe, the Sri Lanka Army and Sumedha Ranasinghe, who participated in the tournament won two bronze medals for the throwing events.
-
-...
-
-[Data](articles/a597d4ed.json)
-
-[Extended Data](ext_articles/a597d4ed.ext.json)
-
----
-
-### Youth arrested for stealing jewelery on 200 flights
-
-*2024-06-17 11:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-விமானங்களில்-நகை-திருடிய-இளைஞன்-கைது/175-339012) · `ta`
-
-A young man named Rakesh Kapoor, from New Delhi, has been arrested for stealing jewelry from passengers on over 200 flights across India within 100 days. He targeted women during flight trips, stealing from their bags while they were in the restroom. The Hyderabad airport police, after reviewing surveillance footage, identified Kapoor as the thief and found a kilogram of stolen jewelry in his possession. His accomplice, Dinesh, is still being sought.
-
-🟩
-
-A young man has been arrested for allegedly stealing jewelery on passengers on flights.
-
-Rakesh Kapoor, a native of New Delhi, frequently traveled on local domestic flights between Hyderabad-Bumadelle, Bangalore, Mumbai and other cities.
-
-Rakesh kept the shoulder bag that was identified by the women who had been passengers on the plane.
-
-“During the trip, when the women go to the toilet, Rakesh opened their bags and stole expensive items, including jewelery.
-
-Hyderabad airport police are conducting an intensive investigation into the theft of flights. Police observed footage of surveillance cameras mounted at the airport and identified Rakesh Kapoor.
-
-Upon inquiring, it was revealed that he had stolen jewelery and expensive items on the passengers.
-
-Following this, he was arrested and confiscated a kilogram of jewelery from him. They are searching for his partner Dinesh.
-
-...
-
-[Data](articles/c5a359f3.json)
-
-[Extended Data](ext_articles/c5a359f3.ext.json)
-
----
-
-### Fire in Colombo -Maligawatta
-
-*2024-06-17 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186249) · `ta`
-
-A fire erupted on Monday at a building in Maligawatta, Colombo, causing significant damage.
-
-🟩
-
-A fire broke out on Monday morning at a building at Jayantha Weerasekera Mawatha in Maligawatte, Colombo.
-
-◼️
-
-[Data](articles/b0449953.json)
-
-[Extended Data](ext_articles/b0449953.ext.json)
 
 ---

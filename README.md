@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 11:34:43**
+As of **2024-06-17 11:54:40**
 
 ## Newspaper Stats
 
@@ -26,67 +26,89 @@ adaderanasinhalalk | 4,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,690 (99.9%) of 30,729 articles have been extended.
+30,714 (100.0%) of 30,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### 200 விமானங்களில்  நகை திருடிய இளைஞன் கைது
+### Youth arrested for stealing jewelery on 200 flights
 
 *2024-06-17 11:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-விமானங்களில்-நகை-திருடிய-இளைஞன்-கைது/175-339012) · `ta`
 
-விமானங்களில் பயணிகளிடம் நகைகளை திருடினார் என்றக் குற்றச்சாட்டில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A young man named Rakesh Kapoor, from New Delhi, has been arrested for stealing jewelry from passengers on over 200 flights across India within 100 days. He targeted women during flight trips, stealing from their bags while they were in the restroom. The Hyderabad airport police, after reviewing surveillance footage, identified Kapoor as the thief and found a kilogram of stolen jewelry in his possession. His accomplice, Dinesh, is still being sought.
 
-புதுடெல்லியைச் சேர்ந்தவர் ராகேஷ் கபூர், ஐதராபாத்-புமடெல்லி, பெங்களூரு, மும்பை மற்றும் பிற நகரங்களுக்கு இடையே உள்ளூர் உள்நாட்டு விமானங்களில் அடிக்கடி பயணம் செய்தார்.
+🟩
 
-விமானத்தில் பயணித்த பெண்களை அடையாளம் கண்டு, தன்னுடன் எடுத்துச் சென்ற தோள் பையை பெண் பயணிகளின் கைப்பைகளுக்கு அருகில் ராகேஷ் வைத்திருந்தார்.
+A young man has been arrested for allegedly stealing jewelery on passengers on flights.
 
-"பயணத்தின் போது, பெண்கள் கழிவறைக்குச் செல்லும்போதெல்லாம், ராகேஷ் அவர்களின் பைகளைத் திறந்து, நகைகள் உள்ளிட்ட விலையுயர்ந்த பொருட்களை திருடினார்.
+Rakesh Kapoor, a native of New Delhi, frequently traveled on local domestic flights between Hyderabad-Bumadelle, Bangalore, Mumbai and other cities.
 
-விமானங்களில் நடந்த திருட்டு குறித்து ஐதராபாத் விமான நிலைய பொலிஸார் தீவிர விசாரணை நடத்தினர். விமான நிலையத்தில் பொருத்தப்பட்டிருந்த கண்காணிப்பு கேமராக்களின் காட்சிகளை பொலிஸார் அவதானித்து, ராகேஷ் கபூரை அடையாளம் கண்டனர்.
+Rakesh kept the shoulder bag that was identified by the women who had been passengers on the plane.
 
-அவரை பிடித்து விசாரித்ததில் விமானங்களில் அவர் பயணிகளிடம் நகை, விலை உயர்ந்த பொருட்கள் திருடியது தெரியவந்தது.
+“During the trip, when the women go to the toilet, Rakesh opened their bags and stole expensive items, including jewelery.
+
+Hyderabad airport police are conducting an intensive investigation into the theft of flights. Police observed footage of surveillance cameras mounted at the airport and identified Rakesh Kapoor.
+
+Upon inquiring, it was revealed that he had stolen jewelery and expensive items on the passengers.
+
+Following this, he was arrested and confiscated a kilogram of jewelery from him. They are searching for his partner Dinesh.
 
 ...
 
 [Data](articles/c5a359f3.json)
 
+[Extended Data](ext_articles/c5a359f3.ext.json)
+
 ---
 
-### குட்டை கோடாரியால் தாக்க முயன்றவர் சுட்டு கொலை
+### The man who tried to attack a puddle
 
 *2024-06-17 11:03:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/குட்டை-கோடாரியால்-தாக்க-முயன்றவர்-சுட்டு-கொலை/44-339010) · `ta`
 
-யூரோ கால்பந்து போட்டியுடன் இணைந்து, ஜேர்மனியின் ஹம்பர்க் நகரில் நடைபெற்ற பேரணியின் போது, ​​குட்டை கோடாரியால் தாக்குதல் நடத்த முயன்ற கலவரக்காரர் ஒருவர் பொலிஸாரால் சுட்டுக் கொல்லப்பட்டார்.
+During a Euro football tournament rally in Hamburg, a rioter armed with an axe and a gasoline bomb attempted to attack police, leading to his death after being shot in the legs and sprayed with pepper spray.
 
-அணிவகுப்பு பேரணி  ஹாம்பர்க் நகரின் மையத்தில் நடைபெற்றது. அப்போது கோடாரியுடன் வந்தவர் சண்டையிட்டதால், பொலிஸார் அவரை அடக்க முயன்றனர்.
+🟩
 
-அப்போது, ​​அந்த நபர் பொலிஸ் காரர்களை பெட்ரோல் குண்டால் தாக்க முயன்றதாக கூறப்படுகிறது. பின்னர் பொலிஸார் அவர் மீது மிளகு தெளித்து தாக்குதல் நடத்தினர். எனினும், அவர் வன்முறையில் ஈடுபட்டதால், பொலிஸார் அவரது காலில் சுட்டனர், என்றார். காயமடைந்த இளைஞன் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+A rioter was shot dead by police during a rally in Hamburg, Germany, in accordance with the euro football tournament.
+
+The parade rally was held at the center of Hamburg. As the man who came with the ax fought, the police tried to suppress him.
+
+At the time, the man was reportedly trying to attack the policemen with a gasoline bomb. Then the police attacked him with pepper spraying on him. However, as he was involved in violence, the police fired at his feet. The injured young man has been admitted to hospital.
 
 ◼️
 
 [Data](articles/aec5fc99.json)
 
+[Extended Data](ext_articles/aec5fc99.ext.json)
+
 ---
 
-### ආසියානු ශූරයින් දිවයිනට
+### Sri Lanka Championships
 
 *2024-06-17 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197841) · `si`
 
-03 වන ආසියානු විසිකිරීමේ ශූරතා තරගාවලියට ( 2024 Asian Throwing Championships)ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වී රන් පදක්කමක් සහ ලෝකඩ පදක්කම් 02ක් දිනා ගත් ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් අද (17) අලුයම කටුනායක ගුවන්තොටුපොළ වෙත පැමිණියහ.
+Sri Lankan athletes clinched two bronze medals at the 3rd Asian Twenty Championship in South Korea, held on the 14th and 15th of Moonia. A 21-year-old from the Sri Lanka Air Force, participating in the spear throw, narrowly missed Olympic qualification by just 5 cm. Additionally, Dilhani Secretary and Sumedha Ranasinghe, representing the Sri Lanka Army, also secured bronze medals in throwing events. The team returned to Thailand early this morning via Thai Airlines.
 
-මෙම තරගාවලිය දකුණු කොරියාවේ මොක්පෝ නුවර ඉකුත් 14 සහ 15 යන දෙදින තුළ ආසියානු රටවල් 20කගේ පමණ සහභාගීත්වයෙන් පැවැත්වුණි.
+🟩
 
-මෙම තරගාවලියේ දී හෙල්ල විසිකිරීමේ ඉසව්ව සඳහා සහභාගී වූ 21 හැවිරිදි, ශ්‍රී ලංකා ගුවන් හමුදාව නියෝජනය කරන රැමේෂ් තරංග මීටර් 85.45ක දුරක් හෙල්ල විසි කරමින් ශ්‍රී ලංකා වාර්තාවක් සහ තරගාවලි වාර්තාවක් තැබීමට සමත්වුණි.
+Sri Lankan athletes who won the 3rd Asian Twentry Championship and won two bronze medals and two bronze medals from Sri Lanka.
 
-මෙම විසිකිරීමේ දුර ඔලිම්පික් පරිසාදන මට්ටමට සෙන්ටිමීටර් 05ක් අඩුවෙන් තිබූ අතර, මෙම විසිකිරීමත් සමග රුමේෂ් තරංග ලෝක ශ්‍රේණිගත කිරීම්වල 09 වැනි ස්ථානය දක්වා ඉහළට පැමිණීමට සමත්ව තිබේ.
+The tournament was held on the 14th and 15th of Moonia in South Korea.
 
-මීට අමතරව මෙම තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා යුද හමුදාවේ දිල්හානි ලේකම්ගේ සහ සුමේධ රණසිංහ ද හෙල්ල විසි කිරීමේ ඉසව් සඳහා ලෝකඩ පදක්කම් 02ක් දිනාගැනීමට සමත් වී තිබිණි.
+The 21-year-old Sri Lankan Air Force, who participated in the spear throw event, was elected to the Sri Lanka Air Force.
 
-...
+The throwing distance was less than 5 cm to the olympic decoration level, and with this solutional, Rumesh wave of Rumesh has reached the 9th.
+
+In addition, Dilhani Secretary and Sumedha Ranasinghe, the Sri Lanka Army and Sumedha Ranasinghe, who participated in the tournament, won two bronze medals for the throwing events.
+
+They were all at Thailand at 12.10 am today at Thai Airlines.
+
+◼️
 
 [Data](articles/44a3d50c.json)
+
+[Extended Data](ext_articles/44a3d50c.ext.json)
 
 ---
 
@@ -1332,6 +1354,8 @@ People are not expecting a change of face, but a change of the political structu
 
 [Data](articles/0415d937.json)
 
+[Extended Data](ext_articles/0415d937.ext.json)
+
 ---
 
 ### My Red Comrade – A Hunted Woman, A Lost Man & The Dark Secrets Of A Nation On A Stormy Night
@@ -1343,6 +1367,8 @@ Sudath Mahaadivulwewa makes a spectacular return to filmmaking after an absence 
 ...
 
 [Data](articles/e203d7b6.json)
+
+[Extended Data](ext_articles/e203d7b6.ext.json)
 
 ---
 
@@ -1364,23 +1390,31 @@ He also coordinated with a representative of the Bishop of Mannar, the Departmen
 
 [Data](articles/f79aeb5c.json)
 
+[Extended Data](ext_articles/f79aeb5c.ext.json)
+
 ---
 
-### උපාධිධාරී ගුරු පත්වීම් 2,300ක්
+### 2,300 graduate teacher appointments
 
 *2024-06-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197830) · `si`
 
-ලබන ජූලි මස මුල් සතියේ දී උපාධිධාරී ගුරු පත්වීම් 2,300ක් ලබාදීමට අවශ්‍ය පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+In early January, Sri Lanka's Minister of Education announced plans to appoint 2,300 graduate teachers, including those specializing in mathematics, chemistry, biology, languages (Sinhala, English, Tamil), and technology. The minister confirmed that all candidates had been interviewed, including himself. This move follows a delay in transitioning from traditional blackboards to smartboards, which occurred between August and September.
 
-එම සියලු‍ උපාධිධාරීන් විභාගයකට පෙනී සිටීමෙන් අනතුරු ව සම්මුඛ පරීක්ෂණ සඳහා ද මේ වන විට පෙනී සිට ඇති බව අමාත්‍යවරයා පවසයි.
+🟩
 
-ගණිතය, රසායන විද්‍යාව, භෞතික විද්‍යාව, ජීව විද්‍යාව, සිංහල, ඉංග්‍රීසි, දමිළ මාධ්‍යයන් හා තාක්ෂණවේදය මෙන්ම විදේශ භාෂා යන විෂය ධාරාවල උපාධිධාරීන් සඳහා මෙම පත්වීම් ලබාදෙන බව නාත්තණ්ඩිය ප්‍රදේශයේ පාසලක පැවති උත්සවයකට එක්වෙමින් අමාත්‍යවරයා ප්‍රකාශ කළේය.
+Minister of Education Susil Premajayantha says that steps will be taken to provide 2,300 graduate teacher appointments in the first week of January.
 
-අධ්‍යාපන ඩිජිටල්කරණය යනු හුදු කළු ලෑල්ලෙන් සුහුරු තිරයට මාරුවීමක් පමණක් නොවන බව එහිදී සඳහන් කළ සුසිල් ප්‍රේමජයන්ත අමාත්‍යවරයා නවීනතම ‘ස්මාට්බෝඩ්‘ 2500ක් ලබන අගෝස්තු-සැප්තැම්බර් වන විට පාසල්වලට ලබාදීමට පියවර ගන්නා බව එහිදී වැඩිදුරටත් පැවසීය.
+The Minister said that all these graduates have been interviewed by the Minister, the Minister has also appeared for interviews.
+
+The appointment was made by a school in the Nathaniya School, as well as these appointments to graduates in mathematics, chemistry, biology, Sinhala, English, Tamil mediums and technologies.
+
+Minister Susil Premajayantha said Minister Susil Premajayantha said that the new Smartboard was not given a shift to the curtain from a blackboard screen at August-September.
 
 ◼️
 
 [Data](articles/790575cb.json)
+
+[Extended Data](ext_articles/790575cb.ext.json)
 
 ---
 
@@ -1402,6 +1436,8 @@ The investigations by the Carabinieri of the operational unit of the company con
 
 [Data](articles/ad4279cb.json)
 
+[Extended Data](ext_articles/ad4279cb.ext.json)
+
 ---
 
 ### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
@@ -1420,37 +1456,53 @@ Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military office
 
 ---
 
-### பல்திறப்புலமையும் பன்முக ஆற்றலும் கொண்ட ஆளுமை நிசங்க விஜேரத்ன
+### Nisanga Wijeratne with a multi -faceted and multi -faceted personality
 
 *2024-06-16 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186221) · `ta`
 
-" ஒரு மனிதன் தான் வாழும் காலத்தில் பல பாத்திரங்களை வகிக்கிறான்" என்று வில்லியம் சேக்ஸ்பியர் தனது " நீங்கள் விரும்பிய வண்ணம் " (As you like it ) என்ற நாடகத்தில் கூறினார். அவரது அந்த அவதானிப்பு கலாநிதி நிசங்க விஜேரத்னவின் வாழ்வையும் பணியையும் வர்ணிப்பதற்கு மிகவும் கச்சிதமாகப் பொருந்துகிறது.
+It seems you've shared a detailed historical narrative focusing on the career and contributions of Nisanga Wijeratne, a significant figure in Sri Lanka's civil service and politics. This account spans several decades, highlighting his roles as a government agent, minister, and his involvement in pivotal moments during Sri Lanka's history.
 
-நிசங்க என்று பிரபல்யமாக அறியப்பட்ட நிசங்க பராக்கிரம விஜேரத்னவின்  100 வது பிறந்ததினம் ஜூன் 14 ஆம் திகதியாகும். ஒரு இராணுவ அதிகாரியாக, கல்வியாளராக, கவிஞராக, அரசாங்க அதிபராக, நிரந்தர செயலாளராக, பாராளுமன்ற உறுப்பினராக, கபினெட் அமைச்சராக, தூதுவராக .... இவை எல்லாவற்றுக்கும் மேலாக ஸ்ரீதலதா மாளிகையின் தியவதன நிலாமையாக பயனுறுதியுடைய தனது  எட்டு தசாப்தகால வாழ்வில் விஜேரத்ன பல பதவிகளை வகித்தார்.
 
-தாய்நாட்டுக்கு பெருஞ்சேவையாற்றிய பல்திறப்புலமையும் பன்முக ஆற்றலும் கொண்ட அவரின் பிறந்ததின நூற்றாண்டை முன்னிட்டு இந்த கட்டுரை எழுதப்படுகிறது.
+
+If you have specific questions or need further details on any aspect of Nisanga Wijeratne's life, the events described, or any other topic related to this narrative, please let me know how I can assist you further
+
+🟩
+
+"A man plays many roles in the time of life," said William Sakesbire in his "As You Like It).. His observation is very perfect to describe the life and work of Dr. Nisanga Wijeratne.
+
+The 100th birthday of Nisanga Parakrama Wijeratne, known as Nisanga, is on June 14. As a military officer, academic, poet, a government chancellor, a permanent secretary, a Member of Parliament, Cabinet Minister, Ambassador .... Above all, Wijeratne held many positions in his eight decades of life, which is beneficial to the Sridalada House.
+
+This article is written in front of her birth century, with a multi -faceted and multi -faceted power of the motherland.
 
 ...
 
 [Data](articles/e444e7ec.json)
 
+[Extended Data](ext_articles/e444e7ec.ext.json)
+
 ---
 
-### පොහොට්ටුවේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් සජිත්ගේ පිලට යයි
+### Member of Parliament for Pohot goes to Sajith's team
 
 *2024-06-16 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197829) · `si`
 
-තමාට ලන්ඩන් නුවර හෝ වෙනත් රටක සංචාරය කිරීමට වඩා රජරට ගොවියා සමග කාලය ගතකිරීමට ලැබීම සතුටක් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa, Opposition Leader, prioritizes time with Rajarata farmers over foreign travel, attending the Rajarata Farmers Janata Summit. The event, part of the Samaratic Force, highlights his commitment to local issues.
 
-ඔහු මේ බව ප්‍රකාශ කළේ සමගි ජන බලවේගයේ රජරට ගොවි ජන සමුළුවට එක්වෙමිනි.
+🟩
 
-සමගි ජන බලවේගයේ රජරට ගොවි ජන සමුළුව අද (16) පස්වරුවේ අනුරාධපුර සල්ගාදු ක්‍රීඩාංගනයේදී පැවැත්වුණි.
+Opposition Leader Sajith Premadasa says he is spending time with Rajarata farmer than traveling in London or another country.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ස්වාධීන වූ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කේ.පී.එස්. කුමාරසිරි මහතා මෙහිදී සජබ වේදිකාවට එක්වුණි.
+He was speaking at the Rajarata Farmers Janata Summit of the Samaratic Force.
+
+The Rajarata Farmers Council Conference of the Rajarata Farmers in the Sritoonic Force was held at the Salgadu Stadium this afternoon.
+
+Anuradhapura District Parliamentarian KPS Indigenous from the Sri Lanka General Front. Mr. Kumarasiri joined the Capital Stage.
 
 ◼️
 
 [Data](articles/3b3e54e8.json)
+
+[Extended Data](ext_articles/3b3e54e8.ext.json)
 
 ---
 
@@ -1486,17 +1538,25 @@ That proposal is now being tossed like a red hot coal by the CC from one week to
 
 [Data](articles/d85252c9.json)
 
+[Extended Data](ext_articles/d85252c9.ext.json)
+
 ---
 
-### දුම්රිය හරස් මාර්ගයේ ආරක්ෂකයාට වනඅලි ප්‍රහාරයක්
+### Wanarian attack on the guard of railway crossing
 
 *2024-06-16 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197828) · `si`
 
-හබරණ පුවක්පිටිය ප්‍රදේශයේ දුම්රිය හරස් මාර්ගයක ආරක්ෂක සේවයේ නියුතුව සිටි පුද්ගලයෙකු වනඅලි පහරදීමකින් මියගොස් තිබේ.
+In Habarana, a railway worker was fatally attacked.
+
+🟩
+
+A person who was working in a railway crossing in the Habarana Puwakpitiya area has died after being attacked.
 
 ◼️
 
 [Data](articles/1a1284ce.json)
+
+[Extended Data](ext_articles/1a1284ce.ext.json)
 
 ---
 
@@ -1526,137 +1586,191 @@ Police have pointed out that the public has the right to confirm the identity by
 
 ---
 
-### ඉදිරි වසර 05 ශ්‍රී ලංකාවේ අනාගතය තීරණය කරයි - ජනපති
+### President decides the future of Sri Lanka next 5 years - President
 
 *2024-06-16 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197827) · `si`
 
-ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරනු ලබන ආර්ථික ප්‍රතිපත්ති මත ශ්‍රී ලංකාවේ අනාගතය තීරණය වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes that Sri Lanka's future hinges on its economic policies over the next five years, highlighting this during a Youth Conference in Mannar District on April 16th.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (16) මන්නාරම දිස්ත්‍රික් "තරුණ සමුළුව"  සහ ව්‍යාපාරික ප්‍රජාව අමතමිනි.
+🟩
+
+President Ranil Wickremesinghe says that the future of Sri Lanka is determined by the economic policies implemented in the next five years.
+
+The President was speaking at the Mannar District "Youth Conference" and the business community today (16).
 
 ◼️
 
 [Data](articles/a65605f0.json)
 
+[Extended Data](ext_articles/a65605f0.ext.json)
+
 ---
 
-### කාසියේ වාසිය පාකිස්තානයට
+### To the coin to Pakistan
 
 *2024-06-16 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197826) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අයර්ලන්තය සහ පාකිස්තානය අතර තරගය අද (16) පැවැත්වෙයි.
+Today, the T20 World Cup match between Ireland and Pakistan takes place.
+
+🟩
+
+The match between Ireland and Pakistan of the T20 World Cup will be held today (16).
 
 ◼️
 
 [Data](articles/85ee1542.json)
 
+[Extended Data](ext_articles/85ee1542.ext.json)
+
 ---
 
-### බිත්තරය 55යි, තක්කාලි කිලෝව 800යි බෝංචි කිලෝව 1000යි
+### The egg is 55, 800 kg of tomatoes, 1,000 kilos of beans
 
 *2024-06-16 19:32:26* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරය-55යි--තක්කාලි-කිලෝව-800යි-බෝංචි-කිලෝව-1000යි/11-410249) · `si`
 
-බිත්තරයක සිල්ලර මිල යළිත් ඉහළ යමින් තිබෙන අතර ඇතැම් ප්‍රදේශවල බිත්තරයක සිල්ලර මිල රු. 55 ක් දක්වා ඉහළ ගොස් තිබේ. මේ වන විට ඇතැම් ප්‍රදේශවල බිත්තර හිඟයක්ද පවතී.
+Egg prices have surged, reaching up to Rs. 55 in some regions due to shortages. Tomatoes now cost up to Rs. 600 per kg, while raw chillies are priced at Rs. 500/kg. A coconut and its oil have increased in price, as have several types of rice, with Samba rice costing up to Rs. 250/kg, Ponni Samba at Rs. 290/kg, and red milk rice at Rs. 310/kg. No price controls have been set for rice.
 
-තක්කාලි කිලෝවක සිල්ලර මිල රුපියල් 800 ක් දක්වාත් බෝංචි කිලෝවක මිල රු.1000 දක්වාත්  ලීක්ස්  හා කැරට් කිලෝවක සිල්ලර මිල රු. 600 ක් දක්වාත්  අමු මිරිස් කිලෝවක සිල්ලර මිල රු. 500 ක් දක්වාත් ඉහළ ගොස් ඇත.
+🟩
 
-පොල් ගෙඩියක මිල ඇතැම් ප්‍රදේශවල රු. 140 දක්වා ඉහළ ගොස් තිබෙන අතර සාමාන්‍ය තත්ත්වයේ පොල් තෙල් බෝතලයක මිල රුපියල් 600 දක්වා ඉහළ ගොස් තිබේ.
+Retail prices of an egg is rise again and in some areas retail Rs.. Up to 55 up to 55. There are also a shortage of eggs in some areas.
 
-සම්බා සහල් කිලෝවක උපරිම සිල්ලර මිල රු. 230 ක් ලෙසට ප්‍රකාශයට පත් කර තිබුණත්  රු. 240-රු. 250  දක්වා ඉහළ ගොස් තිබේ. පොන්නි සම්බා රු. 290 කටත්,  රතු කිරි සහල් මිල රු. 300 -රු. 310 ක මිලකටත් අලෙවි කරමින් පවතී.
+Retail price of a kilogram of tomatoes has been Rs.. Up to 600 and a kilogram of raw chillies is Rs.. Up to 500 to 500.
 
-නාඩු සහල්  රු 220ටත්, සුදු කැකුළු  රු 205 රතු කැකුළු සහල්  රු. 190 කටත් අලෙවි වෙමින් තිබෙන අතර විවිධ නම්වලින් සම්බා සහල් අලෙවි කරමින් පවතී. එහෙත් එම සහල් වර්ග සදහා කිසිදු පාලන මිලක් ප්‍රකාශයට පත් වී නොමැත.
+The price of a coconut is Rs.. The price of a bottle of coconut oil has risen to Rs. 600.
+
+Maximum retail price of a kilogram of Samba rice is Rs. 230, but Rs. 230. 240 - Rs. Up to 250. Ponni Sama Rs. 290, red milk rice prices for Rs. 300 - 300. The cost is being sold at a price of Rs. 310.
+
+Dadu rice costs Rs. 205 Red Kakuli Rice Rs. Sambal is being sold for 190 and sales Samba rice from various names. However, no control price has been published for rice.
 
 ◼️
 
 [Data](articles/53e5afcf.json)
 
+[Extended Data](ext_articles/53e5afcf.ext.json)
+
 ---
 
-### மியன்மாரிலுள்ள 49 இலங்கையர்களின் நிலை என்ன?
+### What is the status of 49 Sri Lankans in Myanmar?
 
 *2024-06-16 19:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரிலுள்ள-49-இலங்கையர்களின்-நிலை-என்ன/175-338973) · `ta`
 
-மியன்மாரில் இணைய குற்றச்செயல்கள் இடம்பெறும் பகுதியில் 49 இலங்கையர்கள் தடுத்து வைக்கப்பட்டுள்ளனர். அவர்களை விரைவில் மீட்க முடியும் என்ற நம்பிக்கை உள்ளதாகவும் இது தொடர்பான கலந்துரையாடல்கள் இடம்பெற்று வருவதாகவும் வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தெரிவித்துள்ளார்.
+49 Sri Lankans are detained in Myanmar for internet-related crimes. The External Affairs Minister hopes for their swift rescue as discussions are ongoing. Over 100,000 individuals from various countries face similar charges.
 
-மியன்மாருக்கான விஜயத்தை நிறைவு செய்து இலங்கைக்கு மீள திரும்பியதன் பின்னர் ஊடகங்களுக்கு கருத்துரைத்த போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-மியன்மாரில் இணைய குற்றச் செயல்கள் இடம்பெறும் பகுதியில் பல நாடுகளைச் சேர்ந்த சுமார் 100,000 இற்கும் அதிகமானோர் தடுத்து வைக்கப்பட்டுள்ளமை தமது மியன்மார் விஜயத்தின் போது தெரியவந்ததாகவும் அவர் குறிப்பிட்டார். R
+49 Sri Lankans detained in the area where Internet crimes are being held in Myanmar. External Affairs Minister Taraka Balasuriya has said that he is hopeful that they can be rescued soon and discusses are underway.
+
+He was speaking to the media after completing his visit to Myanmar and returning to Sri Lanka.
+
+He also said that over 100,000 people from many countries have been detained in the area of ​​internet crimes in Myanmar.. Remble
 
 ◼️
 
 [Data](articles/55db7946.json)
 
+[Extended Data](ext_articles/55db7946.ext.json)
+
 ---
 
-### රටින් පනින්න ගිය තරුණිය හසුවෙයි
+### The girl who went out of the country is caught
 
 *2024-06-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197825) · `si`
 
-ව්‍යාජ ගමන් බලපත්‍රයක් හරහා එක්සත් රාජධානිය වෙත පළා යෑමට තැත් කළ ශ්‍රී ලාංකික තරුණියක් කටුනායකදී අත්අඩංගුවට ගෙන තිබේ.
+A Sri Lankan woman attempting to escape to the UK with a forged passport was detained at Katunayake airport. Assisted by a broker, she sought employment for decorative work but was intercepted due to discrepancies in her passport details. The case has been referred to Katunayake airport's criminal investigation unit.
 
-ඇයට මෙම ගුවන් ගමන සඳහා සහාය වෙමින් සිටි තැරැව්කරුවෙකු ද එහිදී අත්අඩංගුවට ගුවන්තොටුපොළ ආගමන විගමන නිලධාරීන් පවසයි.
+🟩
 
-අදාළ සැකකාරිය සියලුම නිශ්කාසන කටයුතු නිමා කර විගමන කටයුතු සඳහා විගමන සේවා කවුළුව වෙත පැමිණ ගමන් බලපත්‍රය ඇතුළු අනෙකුත් ලියකියවිලි ඉදිරිපත් කර ඇති අතර එහිදී මෙම ගමන් බලපත්‍රයේ ඇති ජායාරූපය ඇයගේ නොවන බව නිරීක්ෂණය වීම නිසා ඇය ප්‍රධාන ආගමන විගමන නිලධාරීවරයා වෙත යොමු කර තිබුණි.
+A Sri Lankan young woman who attempted to flee to the UK through a fake passport has been arrested in Katunayake.
 
-පසුව සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම්වලදී වෙනත් කාන්තාවකගේ ගමන් බලපත්‍රයකට මෙම තරුණියගේ තොරතුරු ඇතුළත් කර ව්‍යාජ ලෙස මෙම ගුවන්ගමන් බලපත්‍රය සකස් කර ඇති බව හෙළිවී ඇත.
+She was also assisted with a broker who was assisted by the airport for this flight, said the airports.
 
-මොවුන් දෙදෙනා කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත භාරදී තිබේ.
+The suspect had come to the Employer Service Wetner for the complement of all the decorative activities and has been submitted to the Emigration Services Force and other documents in this passport.
+
+It has been revealed that the girl's license has been prepared for another woman's passport to another woman's passport.
+
+They have handed over the Katunayake airport criminal investigations.
 
 ◼️
 
 [Data](articles/d4d3008f.json)
 
+[Extended Data](ext_articles/d4d3008f.ext.json)
+
 ---
 
-### வவுனியா வடக்கில் மாற்றப்படும் குடிப்பரம்பல் - பாகம் 03
+### Drinking in the north of Vavuniya - Part 03
 
 *2024-06-16 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186208) · `ta`
 
-“உள்ளூராட்சி மன்றத்தின் ஆட்சி அதிகாரம் பறிபோகும் பரிதாப நிலை: வன்னி  மாவட்ட தமிழ் பேசும் பிரதிநிதித்துவத்துக்கும் ஆபத்து”
+In "Drinking in the North of Vavuniya - Part 03," the narrative focuses on the poor governance under the Indian Local Government, highlighting its impact on the community.
+
+🟩
+
+"The miserable state of the rule of the Local Government of India
 
 ◼️
 
 [Data](articles/eac14df5.json)
 
+[Extended Data](ext_articles/eac14df5.ext.json)
+
 ---
 
-### வலதுசாரி எழுச்சியை நோக்கி ஐரோப்பா கண்டம்?
+### The continent of Europe towards the right -wing rise?
 
 *2024-06-16 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186201) · `ta`
 
-‘இத்தாலியின் சகோதரர்கள் கட்சியின் தலைமையிலான ஐரோப்பியப் பழமைவாதிகள் மற்றும் சீர்திருத்தவாதிகள் கட்சி, பிரான்ஸைத் தளமாகக் கொண்ட ‘தேசியப் பேரணி கட்சியின் தலைமையிலான அடையளமும் ஜனநாயகமும் கட்சி, ஜேர்மனியைத் தளமாகக் கொண்ட ‘ஜேர்மனிக்கான மாற்று ஆகிய கட்சிகள் இந்த வெற்றியைப் பதிவு செய்துள்ளன.
+Europe sees a rise in right-wing politics, with Italy's conservative party leading, France's National Rally gaining influence, and Germany facing internal alternatives to its established parties.
+
+🟩
+
+The Italy's brothers -led European conservatives and reformers party, France -based National Rally Leadership, Democracy, and German -based alternatives to Germany -based Germany.
 
 ◼️
 
 [Data](articles/21b2e977.json)
 
+[Extended Data](ext_articles/21b2e977.ext.json)
+
 ---
 
-### தாயக நலன்சார் அரசியலா?    கொழும்பு நலன்சார் அரசியலா?
+### Is the homeland welfare politics?Colombo welfare politics?
 
 *2024-06-16 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186183) · `ta`
 
-தமிழ் சிவில் அமைப்புகளின் கூட்டிணைவான “தமிழ் மக்கள் பொதுச்சபை” மீது பல்வேறு குற்றச்சாட்டுக்களை சுமத்தியதுடன் கடுமையான எச்சரிக்கையும் விடுத்துள்ளார். கூட்டத்திற்கு முதலில் வருவதாக கூறிவிட்டு பின்னர் வரவில்லை. என்று கூறி பாசிசவாதிகளாக அடையாளப்படுத்தினார். அதுவுள்ளிட்ட பலவிடயங்களை அவர் வெளியிட்டார். இங்கு சுமந்திரன் கூறிய பல விடயங்கள் உண்மைக்குப்புறம்பானவை.
+The text discusses whether homeland welfare includes Colombo's welfare politics, mentioning allegations against the Tamil Civil Organization and the Tamil People's Council, labeled as fascists. It criticizes statements made by Sumanthiran, suggesting they are ill-informed.
+
+🟩
+
+He has imposed various allegations against the Tamil Civil Organization, the "Tamil People's Council". Did not come after saying that they first come to the meeting. He identified as fascists. He published many things. Many of the things Sumanthiran said here are illiterate.
 
 ◼️
 
 [Data](articles/085d5750.json)
 
+[Extended Data](ext_articles/085d5750.ext.json)
+
 ---
 
-### කරාපිටිය ලංකාවේ තෙවැනි ජාතික රෝහල කරයි
+### Third National Hospital in Karapitiya
 
 *2024-06-16 19:07:04* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ලංකාවේ-තෙවැනි-ජාතික-රෝහල-කරයි/11-410248) · `si`
 
-මෙරට තෙවැනි ජාතික රෝහල ලෙස එළඹෙන ජූලි මසදී ගාල්ල කරාපිටිය රෝහල නම් කරන බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා ප්‍රකාශ කළේය.
+The Third National Hospital in Sri Lanka, known as Karapitiya Hospital in Galle, was announced by Health Minister Ramesh Pathirana. Additionally, he mentioned plans to reform the Colombo General Hospital and the Eye Ward complex within two decades. The minister also discussed a pharmaceutical issue, stating that out of 850 drugs, only a few essential ones were available, while others were out of stock.
 
-එසේම වසර 20කට පසු කොළඹ මහ රෝහල සහ ඇස් වාට්ටු සංකීර්ණය මෙම වසර අවසන් වනවිට සම්පූර්ණයෙන් ප්‍රතිසංස්කරණය කිරීමට කටයුතු යොදා ඇති බවද අමාත්‍යවරයා පැවසීය.
+🟩
 
-මේ අතර පවතින ඖෂධ තොග සම්බන්ධයෙන් අදහස් දක්වමින් අමාත්‍ය රමේෂ් පතිරණ මහතා වැඩිදුරටත් පෙන්වා දුන්නේ  අත්‍යාවශ්‍ය ඖෂධ 850 අතුරින් ඖෂධ කිහිපයක් හැරුණු විට, සියලු ජිවිතාරක්ෂක ඖෂධ තොග හිඟයකින් තොරව පවත්වාගෙන යන බවයි.
+Minister of Health Minister Ramesh Pathirana stated that the third national hospital in Sri Lanka is named the Karapitiya Hospital in Galle.
+
+The Minister also said that the Colombo General Hospital and the Eye Ward complex will be reformed by the year after 20 years.
+
+Meanwhile, Minister Ramesh Pathirana further pointed out that the 850 pharmaceutical haul, except for several essential drugs, all living drugs are run.
 
 ◼️
 
 [Data](articles/1d29ae7c.json)
+
+[Extended Data](ext_articles/1d29ae7c.ext.json)
 
 ---
 
@@ -1676,39 +1790,53 @@ Despite growing international pressure for a ceasefire, an agreement to halt the
 
 [Data](articles/ce7ffef4.json)
 
+[Extended Data](ext_articles/ce7ffef4.ext.json)
+
 ---
 
-### වසර 80කදී කෞතුක භාණ්ඩ 7157ක් අස්ථානගත වෙලා
+### 7157 artefacts are missing in 80 years
 
 *2024-06-16 19:02:39* · [`adalk`](https://www.ada.lk/breaking_news/වසර-80කදී-කෞතුක-භාණ්ඩ-7157ක්-අස්ථානගත-වෙලා/11-410247) · `si`
 
-මෙරටට නිදහස ලැබීමටත් පෙර 1877 සිට 1957 වර්ෂය දක්වා ඉකුත් වසර 80 ක කාලය තුළ දී කෞතුක භාණ්ඩ වර්ග 07කට අයත් භාණ්ඩ 7157 ක් අස්ථාන ගත වී ඇති බව ජාතික විගණන කාර්යාලය මගින් ජුනි මස 14 වන දින වතම විගණන වාර්තාවක සඳහන්වේ.
+In 80 years, from 1877 to 1957, 7157 artifacts belonging to Sri Lanka went missing. A 2023 audit highlighted government non-compliance with financial regulations regarding these losses, attributing them to departmental weaknesses and inadequate maintenance during officer transfers.
 
-2023 මැයි මාසයට අදාළ ව සිදු කරනු ලැබූ කෞතුක භාණ්ඩ සමීක්ෂණ වාර්තාවට අනුව 1877 සිට 1957 වර්ෂය දක්වා කාලය තුළ දී මෙකී කෞතික භාණ්ඩ ස්ථාන ගත වී ඇති බව විගණනය මගින් අනාවරණය කොට ඇත.
+🟩
 
-මෙකී කෞතුක භාණ්ඩ අස්ථාන ගත වීම සම්බන්ධයෙන් මුදල් රෙගුලාසි ප්‍රකාරව රජය විසින් කටයුතු කර නොමැති බව විගණනය මගින් අනාවරණය කර ඇත.
+The National Audit Office stated that 7157 artifacts belonging to Sri Lanka has been lost in 07 years from 1877 to 1957.
 
-එමෙන් ම කෞතුක භාණ්ඩ භාරකාරීත්වය, ආරක්ෂා කිරීම සහ ඒවාට අදාළ ලිපි ගොනු විධිමත්ව  පවත්වා ගෙන නොගැනීම නිලධාරීන් වෙනස් වීමේ දී (වෙනත් ස්ථානවලට මාරු කිරීමේ දී) භාණ්ඩ භාකාරීත්වය නිසි පරිදි නොපැවරීම ආදී දෙපාර්තමේන්තුවේ අභ්‍යන්තර  පාලනයේ දුර්වලතා මේ සඳහා හේතු වී ඇති බව විගණනය මගින්  අනාවරණය වී ඇත.
+According to the review of the artifacts of May 2023, these michological goods are located in the year 1877 to 1957.
 
-මෙම තොරතුරු අනාවරණය වී ඇත්තේ  ජාතික කෞතුකාගාර දෙපාර්තමේන්තුව මගින් 2023 වර්ෂයට අදාළව නිකුත් කොට ඇති කාර්ය සාධක වාර්තාවේ ඇතුළත් කොට ඇති විගණන වාර්තාව මගින් බව අනාවරණය වී ඇත.
+The audit reveals that the government has not acted in accordance with the financial regulations regarding the misplace of this artifact.
+
+The audit revealed that the weaknesses of the department have caused the weaknesses of the department, which is not properly not maintained in the change of officers (other places transfer) to the custody of artifacts.
+
+It has been revealed that this information has been revealed by the Audit Report in the Task Report issued by the Department of National Museums 2023.
 
 ◼️
 
 [Data](articles/8b43fb0f.json)
 
+[Extended Data](ext_articles/8b43fb0f.ext.json)
+
 ---
 
-### පළාත් පාලන අස්ථිර සේවකයින් ඉකුත් සිකුරාදා සිට ස්ථිර සේවකයින්
+### Permanent employees from last Friday of Local Government
 
 *2024-06-16 18:52:37* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-අස්ථිර-සේවකයින්-ඉකුත්-සිකුරාදා-සිට-ස්ථිර-සේවකයින්/11-410246) · `si`
 
-පළාත් පාලන ආයතනවල සියලු අස්ථිර සේවකයින් ඉකුත් සිකුරාදා සිට ස්ථිර සේවකයින් ලෙස පත්කර ඇති බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවැසීය. අග්‍රාමාත්‍යවරයා මේ බව ප්‍රකාශ කළේ කුරුණෑගල දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවැති බිත්තර රැක්කවීමේ යන්ත්‍ර බෙදා දීමේ අවස්ථාවට එක්වෙමිණි.
+Prime Minister Dinesh Gunawardena announced that precarious employees of Local Authorities have been made permanent since last Friday. This move aims to support low-income families by improving public egg production, creating rural entrepreneurs, and enhancing household self-sufficiency. The initiative is part of broader efforts to address the country's economic challenges, including misconceptions about its financial state and the need for sustainable economic growth and foreign exchange earnings.
 
-චීන රජයෙන් ලද, මෙම  එක් යන්ත්‍රයක් මගින් පවුල් කිහිපයකට සෘජු ආදායම් මාර්ග විවෘත වන අතර එකී පවුල් ආශ්‍රීත ගම්මාන වල පවුල් රැසකට මෙමගින් වක්‍ර ප්‍රතිලාභ හිමිවේ. ආදායම් උපයන මාර්ග වැඩිදියුණු  කිරීම, පවුල්වල පෝෂණය වැඩි දියුණු කිරීම, රටේ පොදු බිත්තර නිෂ්පාදනය වැඩි දියුණු කිරීම, ගෘහ මට්ටමින් ස්වයංපෝෂිත ගෙවත්තක් නිර්මාණය කිරීම, ග්‍රාමීය ව්‍යවසායකයන් බිහි කිරීම මෙම වැඩසටහන මගින් අපේක්ෂිත අරමුණ වේ.
+🟩
+
+Prime Minister Dinesh Gunawardena said that all the precarious employees of Local Authorities have been appointed as permanent employees from last Friday. The Prime Minister made this statement at the distribution of eggs care of the Kurunegala District Secretariat.
+
+The Chinese government, one of these machines opens direct sources of income to several families, and a number of families in the families of the families are available to several families.. Improvement of income earning roads, improve the public egg production of the country, create rural entrepreneurs, creating a self-sufficient garden at home level.
 
 ...
 
 [Data](articles/0ece6470.json)
+
+[Extended Data](ext_articles/0ece6470.ext.json)
 
 ---
 

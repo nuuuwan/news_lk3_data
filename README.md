@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 10:53:55**
+As of **2024-06-17 11:06:41**
 
 ## Newspaper Stats
 
-*Scraped **30,722** Articles*
+*Scraped **30,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,682
 economynextcom | 1,779
 dailyftlk | 1,873
 adalk | 2,656
-adaderanalk | 3,479
-tamilmirrorlk | 3,598
+adaderanalk | 3,480
+tamilmirrorlk | 3,599
 virakesarilk | 4,716
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,978
+adaderanasinhalalk | 4,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,675 (99.8%) of 30,722 articles have been extended.
+30,684 (99.9%) of 30,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### தேங்காய் எண்ணெய் விலை அதிகரிப்பு
+
+*2024-06-17 10:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எண்ணெய்-விலை-அதிகரிப்பு/175-339006) · `ta`
+
+ஒரு லீற்றர் தேங்காய் எண்ணெய்யின் விலை 100 ரூபாவிற்கும் அதிகமாக அதிகரிக்கப்பட்டுள்ளது. என்று தேசிய நுகர்வோர் முன்னணி (NCF) இன்று (17)  தெரிவித்துள்ளது.
+
+ஒரு லீற்றர் தேங்காய் எண்ணையின் விலை 180 மற்றும் ரூ. 200. ரூபாய்க்கு இடையில் அதிகரிக்கப்பட்டுள்ளதாக அதன் தலைவர் அசேல சம்பத் தெரிவித்துள்ளார்.  ஒரு லீற்றர் தேங்காய் எண்ணெய்யின் தற்போதைய சில்லறை விலை ரூ. 550 ஆகும்
+
+◼️
+
+[Data](articles/33dd81ae.json)
+
+---
+
+### මාළිගාවත්තේ උත්සව ශාලාවක ගින්නක්
+
+*2024-06-17 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197840) · `si`
+
+අද (17) උදෑසන 10.10ට පමණ මාළිගාවත්ත ප්‍රදේශයේ ජයන්ත වීරසේකර මාවතේ උත්සව ශාලාවක ගින්නක් හට ගෙන තිබේ.
+
+ගිනි නිවන හමුදාවේ, රථ පැමිණ මේ වනවිට ගින්න පාලනය කර ඇති බව වාර්තා වේ.
+
+ජීවිත හානි කිසිවක් මෙතෙක් වාර්තා වී නොමැති අතර දේපොළ හානි පමණක් සිදුව ඇති බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/96a3d847.json)
+
+---
+
+### Six fishermen arrested with 131kg of heroin off Galle remanded
+
+*2024-06-17 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99920/six-fishermen-arrested-with-131kg-of-heroin-off-galle-remanded-) · `en`
+
+The six fishermen, who were apprehended whole aboard a local multi-day fishing trawler carrying 131kg of heroin in the seas off Galle, have been ordered to be remanded until June 21.
+
+The Colombo Chief Magistrate has issued this order after the suspects were produced before the court on Sunday (16).
+
+In a recent operation, the Sri Lanka Navy apprehended six suspects aboard a local multi-day fishing trawler carrying 131 kg of heroin, estimated to be valued at over Rs. 3,250 million. The interception took place on June 14 on the high seas off Galle.
+
+During the initial inspection, security forces have not found anything suspicious. However, further investigation had revealed several areas of the boat were suspiciously made with fiber.
+
+Later on the night of June 14, the vessel was brought to Galle Port, where a detailed scan was conducted.
+
+The scan uncovered a stock of suspicious parcels in a compartment sealed with fiber in the front section of the boat, the navy said.
+
+...
+
+[Data](articles/527d2e01.json)
+
+---
 
 ### Daddy and son arrested Chinese national opener
 
@@ -756,21 +808,27 @@ The Minister of State also stated that an emergency program has been launched to
 
 ---
 
-### மட்டு. விவேகானந்தபுரம் ஆயிரம்கால் மண்டப வீதியில் ஆண் ஒருவரின் சடலம் மீட்பு!
+### Bore. The body of a man is recovered on Thousand Mandapam Mandapam Road
 
 *2024-06-17 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186224) · `ta`
 
-ஆயிரம்கால் மண்டப வீதியில் உள்ள வாய்க்காலில் சடலம் இருப்பதைக் கிராமவாசிகள் கண்டு பொலிசாருக்கு தகவல் தெரிவித்துள்ளனர் அதனைத் தொடர்ந்து குறித்து இடத்திற்கு வருகை தந்த பொலிசார் சடலத்தை பார்வையிட்டு மேலதிக விசாரணைகளை முன்னெடுத்தனர்.
+A man's body was found near Thousand Mandapam Road, leading to police investigation. Suspected of attacking an elephant, his family had previously visited the Thousand Leg Mandapam Vairavar Temple.
 
-இந்த விசாரணையின் போது வெல்லாவெளி விவேகானந்தபுரம் கிராமத்தைச் சேர்ந்த 64 வயதுடைய 6 பிள்ளைகளின் தந்தையான பிள்ளையான்குட்டி புலேந்திரன் என அடையாளம் காணப்பட்டுள்ளது.
+🟩
 
-இவர் யானை தாக்கி இறந்திருக்கலாம் என சந்தேகிக்கப்படுவதாகவும் இதன்போது வெல்லாவெளி பொலிசார் தெரிவித்தனர்.
+The villagers have reported the body at the mouth of the Thousand Mandapam road and the police have subsequently visited the body and carried out further investigations.
 
-சம்பவம் தொடர்பில் தெரியவருவதாவது கடந்த வெள்ளிக்கிழமை மாலை வீட்டிலிருந்து புறப்பட்டு ஆயிரம் கால் மண்டப வைரவர் ஆலயத்திற்குச் சென்று வீடு திரும்பாத நிலையில் உறவினர்கள் அவரைத் தேடி வந்துள்ளனர் இந்த நிலையில் ஞாயிற்றுக்கிழமை (16) இவர் சடலமாக மீட்கப்பட்டுள்ளார்.
+During the investigation, Pillaiyankutty Pulendran, father of 64 years of 64 children from Vellaveli Vivekanandapuram village.
+
+Wellaveli police said that he was suspected of attacking the elephant.
+
+Relatives have left the house last Friday evening and went to the Thousand Leg Mandapam Vairavar Temple.
 
 ◼️
 
 [Data](articles/5d21c325.json)
+
+[Extended Data](ext_articles/5d21c325.ext.json)
 
 ---
 
@@ -794,6 +852,8 @@ Speaking at a press conference in Colombo, Wickramaratne emphasised the signific
 
 [Data](articles/5bc803bc.json)
 
+[Extended Data](ext_articles/5bc803bc.ext.json)
+
 ---
 
 ### President meets Mannar Bishop; discuss Indo-Lanka land connectivity; energy exports
@@ -811,6 +871,8 @@ During their discussion it was noted that negotiations are underway regarding th
 ...
 
 [Data](articles/6c83d3c9.json)
+
+[Extended Data](ext_articles/6c83d3c9.ext.json)
 
 ---
 
@@ -856,6 +918,8 @@ He argued that only by continuing Wickremesinghe’s program could the country b
 
 [Data](articles/cc3b04b2.json)
 
+[Extended Data](ext_articles/cc3b04b2.ext.json)
+
 ---
 
 ### AG moves to extradite Royal Park murder convict
@@ -874,6 +938,8 @@ He has issued specific instructions to each of them regarding the steps to be ta
 
 [Data](articles/ac2909ba.json)
 
+[Extended Data](ext_articles/ac2909ba.ext.json)
+
 ---
 
 ### JAT opens binder plant in Horana
@@ -889,6 +955,8 @@ The JAT Binder Plant represents a significant leap forward for JAT Holdings, ena
 ...
 
 [Data](articles/2400ca5f.json)
+
+[Extended Data](ext_articles/2400ca5f.ext.json)
 
 ---
 
@@ -929,6 +997,8 @@ The eagerly anticipated 11th annual CFA Society Sri Lanka Capital Market Awards 
 ...
 
 [Data](articles/302d84a3.json)
+
+[Extended Data](ext_articles/302d84a3.ext.json)
 
 ---
 
@@ -971,6 +1041,8 @@ The AI2AI Challenge will focus on inclusive growth, ensuring that the benefits o
 ...
 
 [Data](articles/3c9cb0bc.json)
+
+[Extended Data](ext_articles/3c9cb0bc.ext.json)
 
 ---
 
@@ -1099,6 +1171,8 @@ However, the 13th Amendment (13A), which has a relatively democratic dimension, 
 ...
 
 [Data](articles/4111ec6a.json)
+
+[Extended Data](ext_articles/4111ec6a.ext.json)
 
 ---
 
@@ -1963,73 +2037,5 @@ Accordingly, the prizes paid to the police traffic divisions have been increased
 [Data](articles/7173244d.json)
 
 [Extended Data](ext_articles/7173244d.ext.json)
-
----
-
-### Sri Lanka to conduct full feasibility study on land connection with India - President
-
-*2024-06-16 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99907/sri-lanka-to-conduct-full-feasibility-study-on-land-connection-with-india-president) · `en`
-
-President Ranil Wickremesinghe met with Most Rev. Dr. Fidelis Lionel Emmanuel Fernando, the Bishop of Mannar, Diocese of Mannar at the Mannar Bishops House today (16).
-
-The bishop of Mannar commended President Ranil Wickremesinghe for his economic reform efforts aimed at rescuing the country from its financial crisis. During their meeting, they also discussed future development plans for the Mannar district.
-
-Key topics included the development of Point Pedro and Mullaitivu as renewable energy hubs. Emphasis was placed on ensuring that these development activities are carried out in an environmentally friendly manner.
-
-During their discussion it was noted that negotiations are underway regarding the sale of surplus renewable energy to India. A feasibility study is currently being conducted on establishing a power line connection between Sri Lanka and India, with further discussions expected during the upcoming visit of the Indian Foreign Minister to Sri Lanka.
-
-...
-
-[Data](articles/87b4e466.json)
-
-[Extended Data](ext_articles/87b4e466.ext.json)
-
----
-
-### A beach becomes black
-
-*2024-06-16 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197817) · `si`
-
-The Shaantossa island coast near Singapore turned black due to coastal cleanings. Authorities covered the area temporarily.
-
-🟩
-
-The Shaantossa island coast with Singapore is black.
-
-The coastal cleanings have begun and the authorities have taken steps to temporarily cover the area.
-
-◼️
-
-[Data](articles/f99a4ac6.json)
-
-[Extended Data](ext_articles/f99a4ac6.ext.json)
-
----
-
-### Clash in setting up tower in Amparai
-
-*2024-06-16 14:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அம்பாறையில்-கோபுரம்-அமைப்பதில்-முறுகல்/74-338967) · `ta`
-
-A clash occurred during the foundation stone laying for a reception tower in Veeramunai, under the Samanthurai police division, involving the Minister of State Sivanesathurai Chandrakanthan. A court order was issued due to tensions, and complaints were made against the construction. The event was held despite concerns over public safety and traffic.
-
-🟩
-
-The foundation stone for the construction of the Veeramunai Village Road reception tower belonging to the Samanthurai police division
-
-The incident took place on Saturday (15) and the work of the Minister of State Sivanesathurai Chandra Kandan, who was on the lookout for the launch of the work, has been issued a court order.
-
-The court order went to the scene and read the scene and replied the tension in the area.
-
-It is also worth noting that the court has received a complaint by two persons against the construction of the Veeramunai reception tower at the Samanthurai police station last Friday.
-
-According to the report submitted to the Member of Police
-
-The Samanthurai Magistrate's Court has organized the foundation stone for the construction of a reception tower by the residents of Veeramunai on the road to Veeramunai at the Samanthurai Andiyadi Junction.
-
-...
-
-[Data](articles/95200c8b.json)
-
-[Extended Data](ext_articles/95200c8b.ext.json)
 
 ---

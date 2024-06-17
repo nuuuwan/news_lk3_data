@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 02:34:42**
+As of **2024-06-18 02:52:42**
 
 ## Newspaper Stats
 
-*Scraped **30,843** Articles*
+*Scraped **30,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,616
+tamilmirrorlk | 3,617
 dailymirrorlk | 4,733
 virakesarilk | 4,745
 adaderanasinhalalk | 4,999
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,843 (100.0%) of 30,843 articles have been extended.
+30,843 (100.0%) of 30,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### ’தாளத்துக்கு ஆடும் பொம்மை ஆட்சி’
+
+*2024-06-18 01:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாளத்துக்கு-ஆடும்-பொம்மை-ஆட்சி/175-339054) · `ta`
+
+இன்று சமூகத்தில் மீள முடியாத அழுத்தம் உருவெடுத்து மக்களை சிரமங்களை எதிர்கொண்டு வருகின்றனர். மக்கள் வறுமையில் வாடினாலும் வரிக்கு மேல் வரி விதிக்கும் வரி சுனாமி விதிப்பது நின்றபாடில்லை. சர்வதேச நாணய நிதியம் கூறியதாக வாடகை வீட்டிற்கும் வரி விதிக்கும் சூத்திரத்தை அரசாங்கம் உருவாக்கி வருவதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ குற்றஞ்சாட்டினார்.
+
+சர்வதேச நாணய நிதியம் சொல்வதை எல்லாம் செய்வதற்கு இந்த அரசாங்கத்திற்கு மக்கள் ஆணை வழங்கப்படவில்லை. அரசாங்கம் வினைதிறன் மிக்கதாக இருந்தால், மக்களுக்காக நல்லதோர் உடன்பாட்டை எட்டுவதற்கான வாய்ப்புகள் இருந்தும் அவ்வாறான எதுவும் நடக்கவில்லை. சர்வதேச நாணய நிதியத்தின் தாளத்திற்கு ஆடும் பொம்மை ஆட்சியே நாட்டில் உள்ளது. இந்த அரசாங்கம் வரி சுனாமியை மக்களின் தோள்களில் சுமத்தியுள்ளது என்றார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 243 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபாய் பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், கொழும்பு, கெஸ்பேவ, இரத்தினபிட்டிய ஆனந்த புதிய மாதிரி கல்லூரிக்கு வழங்கி வைக்கும் நிகழ்வு திங்கட்கிழமை (17) இடம்பெற்றது.
+
+...
+
+[Data](articles/f201661c.json)
+
+---
 
 ### Tamil speaking general candidate is essential
 
@@ -2379,25 +2395,5 @@ A pre-feasibility study for a land connection between Sri Lanka and India has be
 [Data](articles/bae55694.json)
 
 [Extended Data](ext_articles/bae55694.ext.json)
-
----
-
-### Sri Lankan economy bounces back as inflation dips; sharp industrial sector recovery
-
-*2024-06-17 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99923/sri-lankan-economy-bounces-back-as-inflation-dips-sharp-industrial-sector-recovery) · `en`
-
-Sri Lanka’s economy showed significant growth more than anticipated in the first quarter, marking a strong recovery from a severe foreign exchange crisis.
-
-While the 5.3% expansion in January-March marked an increase from the previous three months and was a huge improvement on the 10.7% contraction in the same quarter last year, the industrial sector has also indicated a sharp recovery with an expansion of 11.8% in the first quarter, according to State Minister of Finance Ranjith Siyambalapitiya.
-
-Siyambalapitiya said as a country with a negative economy of less than 12% recorded in the last quarter of 2022, the people who look at this situation with a positive eye will observe the economic journey of Sri Lanka with hope.
-
-Furthermore, the State Minister said the overall annual growth in 2024 will be around 2.2%, as per the forecasts of the Central Bank of Sri Lanka.
-
-...
-
-[Data](articles/091d3135.json)
-
-[Extended Data](ext_articles/091d3135.ext.json)
 
 ---

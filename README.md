@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 23:34:58**
+As of **2024-06-17 23:54:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,828 (100.0%) of 30,829 articles have been extended.
+30,829 (100.0%) of 30,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,15 +104,21 @@ Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reform, 
 
 ---
 
-### அகில இலங்கை கம்பன் கழகம் நடத்தும் கம்பன் விழா
+### All Ceylon Corporation Corporation
 
 *2024-06-17 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186315) · `ta`
 
-வெள்ளவதை இராமகிருஸ்ண மிஷன் மண்டபத்தில் ஜூன் மாதம் 14,15.16,17 திகதிகளில் நடைபெற்று வரும் அகில இலங்கை கம்பன் கழகம் நடத்தும் கம்பன் விழா 2024 இன் இறுதி நாள் (17.06.2024) மாலை நிகழ்வில் டாக்டர் சண்முகம் ஸ்ரீ தரன் "கம்பகலாநிதி" விருதினையும், கலாநிதி மனோன்மணி சண்முகதாஸ் போராசிரியர் அ. ச. ஞானசம்பந்தன் விருதினையும்,வடமாகாணம் பிரதம செயலாளர் லச்சுமணன் இளங்கோவன் "கம்பவாணர்" அருணகிரி விருதினையும், தேர்தல் ஆணையம் முன்னால் தலைவர் மஹிந்த தேசப்பிரிய "வித்துவசிரோமணி பொன்னம்பலபிள்ளை விருதினையும், (ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ) ரவூப் ஹக்கீம் பா. உ" கம்பன் அடிப்பொடி"சா. கணேசன் விருதினையும் , கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் " மகா வித்துவான்" சி. கணேசையர் விருதினை பெற்றுக்கொண்ட போது பிடித்தபடத்தினையும் கலந்துகொண்டோரையும் காணலாம்.
+The Dr. Shanmugam Sri Tharan "Kambagalanidhi" Award was presented at the Kampan Festival from June 14-17, 2024, at the Vellawattai Ramakrishna Mission Hall. Notable recipients included C. Rauf Hakeem Ba, president of the Sri Lanka Muslim Congress, and Senthil Thondaman, governor of the Eastern Province, who received the Ganesan Award. The event also featured "Kampan Adam" and highlighted the attendees during the Ganeshayar reception.
+
+🟩
+
+Dr. Shanmugam Sri Tharan "Kambagalanidhi" Award at the Vellawattai Ramakrishna Mission Hall on 14,15.16 and17 at the Kampan Festival (17.06.2024). C. Rauf Hakeem Ba (Sri Lanka Muslim Congress President), (Sri Lanka Muslim Congress President). U "Kampan Adam". Ganesan Award and Governor of the Eastern Province Senthil Thondaman "Maha Vidhuvan" C. You can see the favorite image and the attendees when the Ganeshayar is receiving the award.
 
 ◼️
 
 [Data](articles/d36b5efa.json)
+
+[Extended Data](ext_articles/d36b5efa.ext.json)
 
 ---
 

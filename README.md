@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 20:05:23**
+As of **2024-06-17 20:20:47**
 
 ## Newspaper Stats
 
-*Scraped **30,816** Articles*
+*Scraped **30,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,65 @@ adaderanalk | 3,493
 tamilmirrorlk | 3,613
 dailymirrorlk | 4,733
 virakesarilk | 4,741
-adaderanasinhalalk | 4,996
+adaderanasinhalalk | 4,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,815 (100.0%) of 30,816 articles have been extended.
+30,816 (100.0%) of 30,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### චීනයට නිරුවත විකුණූ ජාවාරම උකුස්සා ට කොටුවෙයි
+### කොළඹ අඩු ආදායම්ලාභීන් 250,000කට නිවාස අයිතිය
+
+*2024-06-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197858) · `si`
+
+එළැඹෙන මාසයේදී කොළඹ නගරයේ අඩු ආදායම්ලාභීන් 250,000කට ඔවුන් සිටින තට්ටු නිවාසවල සින්නක්කර අයිතිය ලබාදීමට තමා පියවර ගන්නා බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේ අද (17) පැවති උත්සවයේදී ජනාධිපතිවරයා මේ බව අනාවරණ කළේය.
+
+"උරුමය" සින්නකර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ ජාතික වැඩසටහනේ තවත් අදියරක් ලෙස මහවැලි වලව කලාපයේ ජනපදිකයින් 1,524 දෙනෙකුට ඔප්පු ලබාදීමේ වැඩසටනක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඇඹිලිපිටිය මහවැලි ක්‍රීඩාංගණයේදී අද පැවැත්වුණි.
+
+...
+
+[Data](articles/600970f0.json)
+
+---
+
+### Sugarchandhi arrested for selling nakedness to China
 
 *2024-06-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197857) · `si`
 
-නීතියෙන් රිංගා වංචනික ක්‍රියා සිදුකරන්නන් හඹායන "අද දෙරණ" උකුස්සා ඒ සියල්ල රට හමුවේ අනාවරණ කරන්නේ එවැනි වංචනික, අනීතික ක්‍රියාවලින් මහජනයා ආරක්ෂා කරගැනීමටයි.
+Sugarchandhi was arrested for allegedly selling explicit content to China, endangering the nation's youth and children. The Ada Derana news outlet highlighted the incident to safeguard the public from such deceptive practices. The arrest follows revelations of a significant societal decline, with live sex scenes broadcasted online for profit. Four individuals, all under 30, were apprehended after being linked to a Chinese company via Facebook. They admitted to earning over Rs. 100,000 weekly from these activities. The police found numerous devices used for recording and viewing explicit material. This case underscores the importance of Ada Derana in combating future illicit acts.
 
-දැවැන්ත සමාජ පරිහානියකට තුඩු දෙන ජුගුප්සාජනක ජාවාරමක් අප රට හමුවේ අද අනාවරණ කරන්නේ මෙරට තරුණ ප්‍රජාව සහ දරුවන් මෙවැනි දෙයට පෙළඹවීම වැළැක්වීමේ අරමුණින්.
+🟩
 
-මේ ලිංගික දර්ශන සජීවීව අන්තර්ජාලය හරහා චීන සමාගමකට මුදාහැර මහා පරිමාණයෙන් මුදල් උපයන ජාවාරමක් ගැනය.
+The Ada Derana will be revealed to the country to protect the public by such fraudulent and invaluable acts.
 
-මේ පිළිබඳ හෝඩුවාව ලද වහාම මෙම ජාවාරම්කරුවන් සොයා "අද දෙරණ" උකුස්සා පිළියන්දල, බටකැත්තර කොන්ගහවත්ත ප්‍රදේශ බලා පිටත්වුණි.
+A giant social decline leading to our country today reveals today to prevent the youth and children of this country to prevent this.
 
-ඒ පිළියන්දල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දිනේෂ් අත්තරගම මහතා සහ එම පොලිසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සංජීව අලුත්ගෙදර මහතා ඇතුළු නිලධාරින් පිරිසක් ද සමඟින්.
+The sex scenes are lived live on the Internet and claim a racket to make money on a large scale.
 
-අප එම නිවසට ළඟාවන විටත් ඒ තුළ ලිංගික ක්‍රියාකාරකමක නිරතව සිටි යුවළක් සහ තවත් යුවළක් නීතියේ රැහැනට හසුකරගැනීමට "අද දෙරණ" උකුස්සා ඇතුළු කණ්ඩායමට හැකිවුණි.
+The traffickers were searching for the traffickers, "Derana," Derana, "departed to Derana, Batakethara, Batakuwa.
 
-ඔවුන් මීට වසර කිහිපයකට පෙර මෙම නිවස කුලී පදනමට ගෙන ඇත්තේ තමන් මාර්ගගත ක්‍රමය ඔස්සේ ව්‍යාපාර කරන බව ගෙහිමියාට පවසමිනි.
+A Piliyandala OIC Chief Inspector Dinesh Akuragama and OIC Chief Inspector General Inspector Sanjeewa Aluthgedara is also present.
+
+When we arrived at the house, we also had a couple and another couple in the law and capture another couple in the law.
+
+They had taken this house to the rented house a few years ago.
+
+But it really has happened that they had done various sexual activities into the home of various sexes and releasing their money online.
+
+The suspects have identified this Chinese company through Facebook and later released these scenes live.
 
 ...
 
 [Data](articles/1d640396.json)
+
+[Extended Data](ext_articles/1d640396.ext.json)
 
 ---
 
@@ -2387,27 +2413,5 @@ Both arrested have been handed over to the Katunayake Airport Criminal Investiga
 [Data](articles/df54eb2f.json)
 
 [Extended Data](ext_articles/df54eb2f.ext.json)
-
----
-
-### Decision taken on fishermen arrested in deep sea with heroin
-
-*2024-06-17 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197836) · `si`
-
-Six fishermen arrested off Sri Lanka's coast for possessing 131 kilograms of heroin were charged in court after being transported from a remote area.
-
-🟩
-
-The six fishermen who were arrested in the right sea were produced before courts while he was brought to Sri Lanka hidden in a multi-day fishing vessel.
-
-The police said that they were arrested on the 15th and was produced before the Colombo Chief Magistrate.
-
-The police said that about 131 kilos of heroin.
-
-◼️
-
-[Data](articles/05cda43e.json)
-
-[Extended Data](ext_articles/05cda43e.ext.json)
 
 ---

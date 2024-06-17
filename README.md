@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 16:07:06**
+As of **2024-06-17 16:19:16**
 
 ## Newspaper Stats
 
-*Scraped **30,786** Articles*
+*Scraped **30,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 284
 bbccomsinhala | 300
 newsfirstlk | 363
 islandlk | 1,682
-economynextcom | 1,781
+economynextcom | 1,782
 dailyftlk | 1,873
-adalk | 2,667
-adaderanalk | 3,489
+adalk | 2,668
+adaderanalk | 3,490
 tamilmirrorlk | 3,611
 virakesarilk | 4,731
 dailymirrorlk | 4,733
@@ -26,59 +26,95 @@ adaderanasinhalalk | 4,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,780 (100.0%) of 30,786 articles have been extended.
+30,786 (100.0%) of 30,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### පාකිස්තාන කණ්ඩායමේ නායකත්වය ගැන තීරණයක් ?
+### Netanyahu dissolves Israeli war cabinet, officials say
+
+*2024-06-17 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99931/netanyahu-dissolves-israeli-war-cabinet-officials-say) · `en`
+
+Israeli officials said Monday that Prime Minister Benjamin Netanyahu has dissolved the influential War Cabinet that was tasked with steering the war in Gaza.
+
+The War Cabinet was dissolved following the departure from the government of Benny Gantz, an opposition lawmaker who had joined the coalition in the early days of the war. He had demanded that a small Cabinet be formed as a way to sideline far-right lawmakers in Netanyahu’s government. Gantz, Netanyahu and Defense Minister Yoav Gallant were its members and made key decisions together throughout the war.
+
+The officials, who spoke on condition of anonymity because they were not authorized to discuss the change with the media, said that going forward Netanyahu would hold smaller forums with some of his government members for sensitive issues.
+
+...
+
+[Data](articles/19ebb5ff.json)
+
+---
+
+### A Decision on the Leadership of Pakistan?
 
 *2024-06-17 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197851) · `si`
 
-තමා තවදුරටත් පාකිස්තාන කණ්ඩායමේ නායකත්වයේ කටයුතු කිරීම හෝ නොකිරීම පාකිස්තාන ක්‍රිකට් ආයතනය සතු තීරණයක් බව බාබර් අසාම් පවසයි.
+Barber Assam, a key figure in Pakistan's cricket team, suggests that the decision on leadership lies with the team itself rather than any single individual. He criticizes the current leadership, particularly during the 20-over matches, and hints at a need for change post-tournament review. Despite his own underperformance in this year's games, Assam emphasizes that the team's struggles are not solely due to one person's actions.
 
-පාකිස්තාන කණ්ඩායමට මෙවර පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ මූලික වටයෙන්ම ඉවත් වීමට සිදුවීමත් සමග කණ්ඩායම් නායකත්වය පිළිබඳව විවේචනාත්මක අදහස් පළ වී තිබුණි.
+🟩
 
-ඒ සම්බන්ධයෙන් මාධ්‍ය වෙත ප්‍රකාශයක් සිදුකරමින් පාකිස්තාන කණ්ඩායමේ නායක බාබර් අසාම් සඳහන් කර ඇත්තේ තරගාවලිය සමාලෝචනය කිරීමෙන් අනතුරුව ක්‍රිකට් ආයතනය විසින් ඒ සම්බන්ධයෙන් තීරණයක් ගනු ඇති බවය.
+Barber Assam says that he is a decision of the Pakistan's leadership or not to take the lead in the Pakistan.
 
-කණ්ඩායමක් ලෙස මෙවර තරගාවලියේ දී හොඳින් ක්‍රීඩා නොකළ බව ප්‍රකාශ කර ඇති බාබර් අසාම්, තරග පරාජය එක් පුද්ගලයෙකුගේ වරදක් නොවන බව ද පෙන්වා දී තිබේ.
+The Pakistan's group had been critical of the leading leadership with the core of the 20 overs.
+
+The Pakistanmale leader Barber Assam said that the Pakistan leader Barber Assam said that after reviewing the tournament.
+
+The Barber Assama, which has not been well-played in this year's tournament, has said that the deception of the deception is not the fault of one person.
 
 ◼️
 
 [Data](articles/f83f7ae7.json)
 
+[Extended Data](ext_articles/f83f7ae7.ext.json)
+
 ---
 
-### Factum Perspective: இலங்கையில் வளர்ச்சியை ஊக்குவிக்கும் சக்தியாக விளையாட்டு மற்றும் பொருளாதாரம்
+### Factum Perspective: Sports and Economics as a force to promote growth in Sri Lanka
 
 *2024-06-17 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186285) · `ta`
 
-ஆராயப்படாவிட்டாலும் அல்லது குறைவாக ஆராயப்பட்டிருந்தாலும் கூட, முதலீட்டாளர்கள் இலங்கையின் வளர்ச்சியை ஊக்குவிக்கும் முக்கிய வழிமுறைகளில் ஒன்று விளையாட்டாகும். தொழிற்துறையின் விரைவான உயர்வு மற்றும் அதன் வளர்ந்து வரும் பெறுமதி, விளையாட்டில் முதலீடு செய்வதன் முக்கிய நன்மைகளில் ஒன்றாகும்.
+Sri Lanka's growth can be significantly boosted by leveraging sports and economics. Major sports tournaments and expanded broadcasting rights have commercialized games, attracting investors. UNESCO highlights the strong link between sports participation and consistent development. Countries like China, Australia, and the U.S. have reaped benefits from investing in sports infrastructure and hosting international events, leading to economic booms, improved international reputation, and enhanced tourism. Sri Lanka, taking cues from successful cases like Singapore's Formula One race, could similarly benefit from hosting major sports events, provided proper planning and coordination are in place.
 
-பிரதான விளையாட்டு சுற்றுப் போட்டிகளின் வளர்ச்சி மற்றும் ஒளிபரப்பு உரிமைகளின் விரிவாக்கம் ஆகியவற்றின் விளைவாக விளையாட்டுகள் வணிகமயமாகிவிட்டதுடன், முதலீட்டாளர்களுக்கு அதிகமான வாய்ப்பு உள்ளன. இந்த ஆக்கம் இலங்கையின் விளையாட்டுத் துறையை மேம்படுத்த உதவும் முக்கிய உத்திகளை ஆராய்கிறது.
+🟩
+
+One of the key methods that promoted Sri Lanka's growth, even if it was not explored or less explored. The rapid rise of the industry and its growing value is one of the main benefits of investing in the game.
+
+Games have become commercialized as a result of the development of major sports tournaments and the expansion of broadcasting rights, and investors are more likely to. This aim of exploration of key strategies to help improve Sri Lanka's sports sector.
+
+UNESCO has said that global data continues to reveal the strong connection between the participation and the consistency development of the field.. The current research on the social income generated by the game shows that every US dollar invested in a growing game is created for a long time for $ 3 to 124. Nevertheless, the sports sector has still been used as a base of investment and is misunderstood.
 
 ...
 
 [Data](articles/211e13f3.json)
 
+[Extended Data](ext_articles/211e13f3.ext.json)
+
 ---
 
-### ’இறைச்சி அரிசி’ தயாரிப்பு
+### Product of Meat Meat Rice
 
 *2024-06-17 15:29:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இறைச்சி-அரிசி-தயாரிப்பு/57-339026) · `ta`
 
-தென் கொரியாவின் தலைநகர் சியோலில் உள்ள விஞ்ஞானிகள் குழு, மாட்டிறைச்சி செல்கள் கலந்த புதிய அரிசி வகையை உருவாக்கியுள்ளது.
+South Korean scientists in Seoul have developed beef cell-derived rice, promising a nutritious option for space missions and appealing to meat enthusiasts with its unique pink color and buttery aroma.
 
-எதிர்காலத்தில் பல இறைச்சி பிரியர்களுக்கு அவர்களின் புதிய வகை அரிசி ஓர் அற்புதமான உணவாக இருக்கும் என்று விஞ்ஞானிகள் கூறுகின்றனர்.
+🟩
 
-இந்த 'இறைச்சி அரிசி'யை எதிர்கால விண்வெளி நடவடிக்கைகளிலும், கிரக ஆய்வுகளிலும் எளிதில் தயாரிக்கக்கூடிய ஒரு வகையான சத்தான அரிசியாக அறிமுகப்படுத்துவார்கள் என்றும் விஞ்ஞானிகள் நம்புகின்றனர்.
+A group of scientists in South Korea's capital, Seoul, have created a variety of beef cells.
 
-இந்த புதிய வகை அரிசி இளஞ்சிவப்பு நிறத்தில் உள்ளது. இது வெண்ணெய் போன்ற வாசனை கொண்டுள்ளது.
+Scientists say their new type of rice will be a wonderful food for many meat lovers in the future.
+
+Scientists believe that this 'meat rice' will be introduced as a kind of nutritious rice that can be easily produced in future space and planetary studies.
+
+This new type of rice is pink. It has a scent of butter.
 
 ◼️
 
 [Data](articles/3e438ea4.json)
+
+[Extended Data](ext_articles/3e438ea4.ext.json)
 
 ---
 
@@ -104,17 +140,23 @@ De Silva urged the government to allow the importation of essential raw material
 
 ---
 
-### வெளிநாட்டில் வேலை பெற்றுத் தருவதாகக் கூறி பண மோசடி செய்த பெண் கைது
+### Woman arrested for allegedly defrauding work abroad
 
 *2024-06-17 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186282) · `ta`
 
-கத்தாரில் வேலை வாய்ப்புப் பெற்றுத் தருவதாக கூறி 40 இலட்சம் ரூபாய் பணத்தை மோசடி செய்த பெண்ணொருவர் கைது செய்யப்பட்டுள்ளாார்.
+A woman was arrested by Sri Lanka's Foreign Employment Bureau for allegedly defrauding money from workers seeking jobs abroad.
 
-இந்த பெண் இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் புலனாய்வுப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A woman has been arrested for allegedly defrauding Rs.
+
+The woman has been arrested by the Investigation Unit of the Sri Lanka Foreign Employment Bureau.
 
 ◼️
 
 [Data](articles/5e0bd21b.json)
+
+[Extended Data](ext_articles/5e0bd21b.ext.json)
 
 ---
 
@@ -176,21 +218,29 @@ It is said that after January last January, the Israeli army was assaulted.
 
 ---
 
-### முல்லைத்தீவு மாவட்டத்தில் தமிழர்களுடைய பூர்வீக காணிகள் அபகரிப்பு - ரவிகரன் குற்றச்சாட்டு
+### Native lands of Tamils ​​in Mullaitivu district
 
 *2024-06-17 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186265) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தில் மணலாறு என்ற இடம் வெலிஓயாவாக மாற்றம் செய்யப்பட்டு தமிழ் மக்களுடைய பூர்வீக காணிகளை அபகரித்து 4238 சிங்கள மக்களுக்கு வழங்கப்பட்டுள்ளது. ஆனால் 3389 தமிழ் குடும்பங்களுக்கு காணி இல்லை என முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+In Mullaitivu district, Tamil natives' lands have been transferred to Sinhalese, affecting 3389 Tamil families without land. The district, once 2415 sq. km., now faces land and housing issues post-LTTE silence. Despite 4238 Sinhalese families receiving land and housing, 47455 families struggle, with 12545 settled in Tamil areas, 6382 Muslims, and 121799 others. Irrigation ponds owned by Tamils have also been seized. Efforts by 28676 youths for land in 2022 remain unfulfilled.
 
-முல்லைத்தீவில் இன்றையதினம் திங்கட்கிழமை (17) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்.
+🟩
 
-வடமாகாணத்திலே 2415 சதுர கிலோமீட்டர் நிலப்பரப்புள்ள மாவட்டம் முல்லைத்தீவு மாவட்டம். கிட்டத்தட்ட 5 இலட்சத்தி தொண்ணூறாயிரம் ஏக்கர் நிலப்பரப்பை கொண்டதாக கணிக்கப்பட்டுள்ளது.
+Manalaru in the Mullaitivu district has been converted into Weloya and has taken over the native lands of the Tamil people and handed over to 4238 Sinhalese people.. But 3389 Tamil families have no land, former Northern Provincial Council member Durairasa Ravikaran said.
 
-ஏற்கனவே விடுதலைபுலிகள் மௌனிக்கப்பட்ட காலங்களிற்கு பின்னர் பூர்விகமான மணலாறு என்ற இடம் வெலிஓயாவாக மாற்றம் செய்து. 4238 சிங்கள  குடும்பங்களுக்கு காணிகள் வழங்கி வீட்டு வசதிகளும் ஏற்படுத்தி கொடுத்திருக்கிறார்கள். அரசாங்கம் தமிழ் மக்களுடைய பூர்வீக காணிகளை அபகரித்தே வழங்கியிருக்கிறார்கள்.
+He made this comment to the media after an event in Mullaitivu today (17).
+
+Mullaitivu District in the Northern Province 2415 sq. Km. It is predicted to have nearly 5 million ninety thousand acres.
+
+After the silence of the Liberation Tigers of Tamil Eelam (LTTE). 4238 Sinhalese families have provided land and provided housing facilities. The government has taken the native lands of the Tamil people.
+
+There are 47455 total families and 140931 population in Mullaitivu district. Of these, 12545 from 4557 settlement in the native places of Tamils, 6382 from 1675 families as Muslim people and 121799 from 41210 families.
 
 ...
 
 [Data](articles/67594df5.json)
+
+[Extended Data](ext_articles/67594df5.ext.json)
 
 ---
 
@@ -658,6 +708,20 @@ The arrested person and the recovered cannabis have been handed over to the Kayt
 
 ---
 
+### ලංකාවේ විශාලම ‌සෙල්ලිපිය දින තුනක් තිස්සේ අඛණ්ඩව කියවා අවසන්
+
+*2024-06-17 13:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-‌සෙල්ලිපිය-දින-තුනක්-තිස්සේ-අඛණ්ඩව-කියවා-අවසන්/11-410262) · `si`
+
+ඓතිහාසික දිඹුලාගල කඳුමුදුනින් හමුවූ ශ්‍රි ලංකාවේ විශාලතම සහ දුර්ලභ ගණයේ සෙල්ලිපිය, පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ විශේෂ කණ්ඩායමක් දින තුනක කාලයක් කඳු මුදුනේ දිවා රාත්‍රී ගත කරමින් කියවා අවසන් බව ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනාධිපති දිඹුලාගල රාහුලාලංකාර නාහිමියන් සඳහන් කළහ.
+
+ශ්‍රි ජයවර්ධනපුර විශ්වවිද්‍යාලයේ, මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි, ශ්‍රී ලංකා භික්ෂු විශ්ව විද්‍යාලයේ පීඨාධිපති ,ගල්වැවේ විමලචන්ති හිමි,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛනාංශයේ සංවර්ධන නිලධාරී,කන්තලේ සුමිත්ත හිමි,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛනාංශයේ සහකාර අධ්‍යක්ෂක,බුද්ධි නාගොඩවිතාන,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශය පර්යේෂණ නිලධාරී තනුර දයානන්ද,පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ සහකාර අධ්‍යක්ෂක,කෞශල්‍යා දිසානායක පුරාවිද්‍යා දෙපාර්තමේන්තුවේ අභිලේඛන අංශයේ පර්යේෂණ නිලධාරී,තුෂාරි සහම්පති, යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් කණ්ඩායමක් ඉකුත් 15 වෙනිදා සිට සෙල්ලිපිය කියවීම් කටයුතු ආරම්භ කර 17 වෙනිදා අළුයම් කාලය දක්වාම එම සෙල්ලිපිය කියවීමේ කටයුතු සිදුකළ බව රාහුලාලංකාර නාහිමියන් පැවසූහ.
+
+...
+
+[Data](articles/22c3cc7d.json)
+
+---
+
 ### Main suspect of the murder of Katukurunda in Kalutara
 
 *2024-06-17 13:16:34* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-කටුකුරුන්ද--ප්‍රදේශයේ-ඝාතන-සිද්ධියේ-ප්‍රධාන-සැකකරු-අල්ලයි/11-410261) · `si`
@@ -870,21 +934,29 @@ The deeds were handed over to the Embilipitiya Mahaweli Stadium in Embilipitiya 
 
 ---
 
-### ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරන ආර්ථික ප්‍රතිපත්තිය මත රටේ අනාගතය තීරණය වෙනවා
+### The future of the country depends on the economic policy implemented in the next five years
 
 *2024-06-17 12:32:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-05-තුළ-ක්‍රියාත්මක-කරන-ආර්ථික-ප්‍රතිපත්තිය-මත-රටේ-අනාගතය-තීරණය-වෙනවා/11-410257) · `si`
 
-ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරනු ලබන ආර්ථික ප්‍රතිපත්තිය මත ශ්‍රී ලංකාවේ අනාගතය තීරණය වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the critical role of economic policy in shaping Sri Lanka's future over the next five years. He highlighted the impact of the COVID-19 pandemic and economic crisis on employment opportunities, promising a new economic program to address these issues. The President stressed the importance of adapting economic policies to attract investors and stimulate growth, suggesting that continuity without change could hinder progress. He also noted the potential of the youth and business communities in driving the nation's development, urging them to actively participate in shaping the future.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මන්නාරම දිස්ත්‍රික් “තරුණ සමුළුවට” සහ ව්‍යාපාරික ප්‍රජාව සමඟ හමුවකට ඊයේ (16) එක් වෙමිනි.
+🟩
 
-මන්නාරම නගර ශාලාවේදී පැවති මන්නාරම දිස්ත්‍රික් “තරුණ සමුළුවට” ජනාධිපතිවරයා පළමුව එක් විය. “දීප්තිමත් අනාගතයක් සඳහා වූ ගමනක්” මැයෙන් මෙම තරුණ සමුළුව සංවිධාන කර තිබූ අතර 2023/2024 අපොස උසස් පෙළ විභාගය විශිෂ්ට ලෙස සමත් වූ සිසුන්ට සහතික පත් හා මුදල් ත්‍යාග පිරිනැමීම ද එහිදී ජනාධිපතිවරයා අතින් සිදු විය. උතුරු පළාත් අධ්‍යාපන අමාත්‍යාංශයේ මෙහෙයවිමෙන් එය සිදු කෙරිණි.
+President Ranil Wickremesinghe said that the future of Sri Lanka is determined by the economic policy implemented in the next five years.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී තරුණ තරුණියන් අතරට ගොස් ඔවුන්ගේ ප්‍රශ්න සෘජුව විමසා බැලීම ද විශේෂත්වයක් වූ අතර එහිදී ඉදිරිපත් කෙරුණු ප්‍රශ්නවලට සාධනීය පිළිතුරු ලබාදීමට ජනාධිපතිවරයා කටයුතු කළේය.
+The President was speaking at a meeting with the Youth Conference of Mannar District and the business community yesterday (16).
+
+President first joined the Mannar District Hall at the Mannar Town Hall. The youth conference was organized by a "journey for a bright future" and the President also presented certificates and cash prizes to students who passed the GCE Advanced Level Examination 2023/2024. It was carried out by the Ministry of Education of the Northern Province.
+
+President Ranil Wickremesinghe was also special to go to the youths and direct their problems directly.
+
+The President said that the Corona epidemic and the economic crisis had not been able to provide employment in the past four years and new economic program will be provided with new economic program.
 
 ...
 
 [Data](articles/75a8141f.json)
+
+[Extended Data](ext_articles/75a8141f.ext.json)
 
 ---
 
@@ -1035,6 +1107,26 @@ Also, “I am a member of the Sri Lanka PA. Let's see what's going on. There are
 [Data](articles/ef383c6d.json)
 
 [Extended Data](ext_articles/ef383c6d.ext.json)
+
+---
+
+### Sri Lanka President, Mannar Bishop discuss energy, land ties with India
+
+*2024-06-17 12:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-mannar-bishop-discuss-energy-land-ties-with-india-168439/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President and the Bishop of Mannar have discussed ongoing negotiations on the sale of surplus renewable energy to India, and land connectivity between the two countries.
+
+Ranil Wickremesinghe met with Rev Fidelis Lionel Emmanuel Fernando at the Mannar Bishop’s House over the weekend.
+
+“During their discussion it was noted that negotiations are underway regarding the sale of surplus renewable energy to India,” a statement by the Wickremesinghe’s media division said.
+
+A feasibility study is being conducted on establishing a power line connection between the two countries, with further discussions expected during the visit of the Indian Foreign Minister this week.
+
+A pre-feasibility study for a land connection between Sri Lanka and India has been completed, and a full feasibility study will be conducted in the near future, President Wickremesinghe said.
+
+...
+
+[Data](articles/bae55694.json)
 
 ---
 
@@ -2265,71 +2357,5 @@ During their discussion it was noted that negotiations are underway regarding th
 [Data](articles/6c83d3c9.json)
 
 [Extended Data](ext_articles/6c83d3c9.ext.json)
-
----
-
-### It is difficult to reduce the model
-
-*2024-06-17 01:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைப்பது-கடினம்/175-338997) · `ta`
-
-Despite global lubricant price drops, immediate fuel price reductions in Sri Lanka are challenging due to the country's reliance on imported and refined fuel, influenced by international market prices, particularly from Singapore. About 35% of Sri Lanka's fuel demand is met through imports. While the cost of lubricant oil has decreased significantly since last September, affecting overall fuel prices, the situation remains complex.
-
-🟩
-
-The Ministry of Power and Energy has said that despite the decline in lubricant prices in the world market, it is difficult to reduce the prices of fuels in the country immediately.
-
-According to the government -approved purchases, fuel prices should be carried out in Sri Lanka.
-
-The refined fuel is imported according to the Singapore Business Index. Accordingly, the secretary also stated that fuel supply should be supplied in Sri Lanka in accordance with the prices that are determined there.
-
-Sulakshana Jayawardena also said that about 35 per cent of the country's total demand is imported and refined, and that the prices of refined fuel in accordance with world market prices cannot be corrected.
-
-However, Professor Vasantha Attukorala of the Economics University of Peradeniya University said that the price of lubricant oil fell by 27 per cent compared to last September.
-
-...
-
-[Data](articles/9494fb1c.json)
-
-[Extended Data](ext_articles/9494fb1c.ext.json)
-
----
-
-### Ranil still in dilemma of contesting for Presidency claims Prasanna
-
-*2024-06-17 01:32:54* · [`dailyftlk`](https://www.ft.lk/news/Ranil-still-in-dilemma-of-contesting-for-Presidency-claims-Prasanna/56-763157) · `en`
-
-Urban Development and Housing Minister Prasanna Ranatunga yesterday said Ranil Wickremesinghe is in a dilemma with his decision to run for the upcoming Presidential poll.
-
-“People are waiting to see if Ranil Wickremesinghe will contest the Presidential election or not. If he decides to come forward, I believe he will garner widespread support,” he told journalists in Minuwangoda.
-
-Ranatunga however expressed strong support for Wickremesinghe’s potential candidacy in the upcoming Presidential election, citing that he is the most suitable leader to guide Sri Lanka through its current economic crisis.
-
-He argued that only by continuing Wickremesinghe’s program could the country be fully liberated from its economic woes.
-
-...
-
-[Data](articles/cc3b04b2.json)
-
-[Extended Data](ext_articles/cc3b04b2.ext.json)
-
----
-
-### AG moves to extradite Royal Park murder convict
-
-*2024-06-17 01:30:56* · [`dailyftlk`](https://www.ft.lk/news/AG-moves-to-extradite-Royal-Park-murder-convict/56-763156) · `en`
-
-Attorney General Sanjay Rajaratnam has instructed officials to take necessary measures to extradite Royal Park murder convict Jude Shramantha Jayamaha from Singapore.
-
-On 6 June, the Supreme Court annulled the presidential pardon granted by former President Maithripala Sirisena to Jayamaha, who was convicted for the murder of 19-year-old Yvonne Jonsson at the Royal Park apartments. The Apex Court held that the pardon had violated constitutional provisions.
-
-Accordingly, the Attorney General has now written to the President’s Secretary, the Secretary to the Minister of Public Security, the Inspector General of Police, the Secretary to the Ministry of Justice, the Commissioner-General of Prisons, and the Department of Immigration and Emigration.
-
-He has issued specific instructions to each of them regarding the steps to be taken to implement the Supreme Court’s decision that nullified the presidential pardon granted to Jayamaha.
-
-...
-
-[Data](articles/ac2909ba.json)
-
-[Extended Data](ext_articles/ac2909ba.ext.json)
 
 ---

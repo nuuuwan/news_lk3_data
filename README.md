@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 18:25:18**
+As of **2024-06-17 18:36:29**
 
 ## Newspaper Stats
 
-*Scraped **30,807** Articles*
+*Scraped **30,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,671
 adaderanalk | 3,492
-tamilmirrorlk | 3,611
+tamilmirrorlk | 3,612
 dailymirrorlk | 4,733
 virakesarilk | 4,738
 adaderanasinhalalk | 4,994
@@ -26,25 +26,51 @@ adaderanasinhalalk | 4,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,804 (100.0%) of 30,807 articles have been extended.
+30,807 (100.0%) of 30,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### මෙරට ජනතාව ගැන සෞඛ්‍ය අංශයෙන් තක්සේරුවක්
+### காட்டுக்கோழியுடன் சென்ற இருவர் கைது
+
+*2024-06-17 18:13:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுக்கோழியுடன்-சென்ற-இருவர்-கைது/175-339034) · `ta`
+
+பேருந்தில் இடித்து உயிரிழந்ததாக கூறி, இறந்த காட்டுப் பறவையை இரகசியமாக எடுத்துச் சென்ற குற்றத்திற்காக இலங்கை போக்குவரத்து சபையின்  சாரதியும் நடத்துனரும்,  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+முல்லைத்தீவிலிருந்து கொழும்பு நோக்கிச் சென்ற பேருந்து தப்போவ வனவிலங்கு சரணாலயத்தின் ஊடாகச் சென்று கொண்டிருந்த போதே பறவை, பஸ்ஸில் மீது மோதியதாக  தெரிவித்தனர்.
+
+கருவலகஸ்வெவவைச் சேர்ந்த வனவிலங்குப் பாதுகாவலர்கள், சரணாலயத்தின் ஊடாக வேறொரு பணிக்காக பயணித்தபோது, ​​நடத்துனர் மற்றும் சாரதி பறவையை பஸ்ஸில் ஏற்றிச் செல்வதை அவதானித்துள்ளனர்.
+
+சாலியபுர சோதனைச் சாவடியில் பேருந்தை சோதனையிட்ட போது, இறந்த பறவையை ஓட்டுநர் இருக்கைக்கு அடியில் அவர்கள் மறைத்து வைத்துள்ளனர்.
+
+ஒரு காட்டுப் பறவையைக் கொன்றதற்காகவும், அப்பறவையின் சடலத்தை ரகசியமாகக் கொண்டு சென்றதற்காக கைது செய்யப்பட்ட அவ்விருவரும்,   தலா 100,000, ரூபாய் பொலிஸ் பிணையில் விடுதலைச் செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a2490301.json)
+
+---
+
+### Health Sector assesses the people of Sri Lanka
 
 *2024-06-17 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197855) · `si`
 
-කලාපයේ රටවල් සමග සැසදීමේදී වැඩි වශයෙන් රෝහල් සහ බාහිර රෝගී අංශයෙන් ප්‍රතිකාර සේවාවන් ලබා ගැනීමට යොමුවන්නේ මෙරට ජනතාව බව සෞඛ්‍ය අමාත්‍යංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+Dr. Palitha Mahipala, the Health Secretary of Sri Lanka, highlighted the country's healthcare challenges, stating that citizens require hospitalization six times annually due to a lack of effective disease prevention and treatment programs. Despite having a robust public health system serving 55 million people and a parallel private sector, Sri Lanka faces high hospitalization rates, second only to countries with aging populations. Dr. Mahipala emphasized the need for stronger preventive care to reduce hospital admissions and improve overall health outcomes.
 
-එමෙන්ම මෙරට පුරවැසියෙකු වසරකට හය වතාවක් ප්‍රතිකාර ලබාගැනීමට රෝහල් වෙත පැමිණෙන බව සෞඛ්‍ය ලේකම්වරයා පෙන්වාදෙයි.
+🟩
 
-මෙම තත්ත්වය තුළ රෝග නිවාරණය සම්බන්ධයෙන් ජනතාව තුළ අවබෝධයක් ඇති කළ යුතු බව මාතලේ සහ දඹුල්ල රෝහල් නිරීක්ෂණයට එක්වෙමින් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා එම අදහස් පළ කළේය.
+Dr. Palitha Mahipala, the Ministry of Health, is the people of the Ministry of Health and the people of the Ministry of Health in the area and the people of the region.
+
+The Health Secretary has said that a citizen of Sri Lanka will be treated to hospital six times a year
+
+Specialist Dr. Palitha Mahipala made these comments participating in the prevention of the prevention of the prevention of the disease.
 
 ...
 
 [Data](articles/bfa45be8.json)
+
+[Extended Data](ext_articles/bfa45be8.ext.json)
 
 ---
 
@@ -343,6 +369,8 @@ Sri Lanka has recently issued more beer licenses which has improved sales of leg
 ...
 
 [Data](articles/a5beff66.json)
+
+[Extended Data](ext_articles/a5beff66.ext.json)
 
 ---
 
@@ -1168,23 +1196,31 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 
 ---
 
-### ශ්‍රි පාද මාර්ගය මෙන්ම මඩු මාර්ගය පවතින්නෙත් වන්දනාකරුවන්ට
+### The Sri Pada road and the pilgrims remain
 
 *2024-06-17 13:02:58* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-පාද-මාර්ගය-මෙන්ම-මඩු-මාර්ගය-පවතින්නෙත්-වන්දනාකරුවන්ට/11-410259) · `si`
 
-මඩු වන්දනාකරුවන්ට බාධාවකින් තොරව සිය වන්දනා කටයුතුවල නිරතවීමට අවශ්‍ය පහසුකම් සලසා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe addressed the Mannar District Development Committee, emphasizing the importance of uninterrupted pilgrimage routes and the need for infrastructure improvements, including the renovation of the Madhu Church and roads. He highlighted the potential for green energy production in the region, aiming to boost the economy through partnerships with India. Additionally, he discussed the restoration of development projects in Mannar, which suffered during a three-decade war, focusing on sectors like tourism, fisheries, and renewable power.
 
-මඩු දේවස්ථානයට පැමිණෙන මාර්ගය සහ ශ්‍රී පාදයට පැමිණෙන මාර්ගය තිබෙන්නේ වන්දනාකරුවන් සඳහා බව පෙන්වා දුන් ජනාධිපතිවරයා එම වන්දනාකරුවන් අත්අඩංගුවට ගෙන දඩ නියම කිරීම සාධාරණ කටයුත්තක් ලෙස තමා නොදකින බවද සඳහන් කළේය.
+🟩
 
-මඩු වන්දනාකරුවන් ඉදිරියේදී යළි අත්අඩංගුවට පත්වුවහොත් වහාම ඒ පිළිබඳ ජනාධිපති කාර්යාලය දැනුවත් කරන ලෙසද ජනාධිපතිවරයා මෙහිදී දැනුම් දුන්නේය.
+President Ranil Wickremesinghe said that the mother pilgrims would provide their facilities to engage in their pilgrimage without interruption.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මන්නාරම දිස්ත්‍රික් ලේකම් කාර්යාලයේ ඊයේ (16) පැවති මන්නාරම දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමට එක්වෙමිනි.
+He said the President said that the President had to come to the Madhu Church and the pilgrims coming to the Sri Pada is for pilgrims, he said he would not see the pilgrims.
 
-ප්‍රශ්න මතුව ඇත්නම් සියලුදෙනා එක්ව සාකච්ඡා කර ඒවාට විසඳුම් සෙවීමේ අවශ්‍යතාවය ද ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+The President also informed the President to inform the Presidential Secretariat immediately after his arrests were taken back to the future.
+
+President Ranil Wickremesinghe made this statement participating at the Mannar District Development Committee meeting held at the Mannar District Secretariat yesterday.
+
+The President also pointed out the need to discuss and addressing everyone if they had arisen.
+
+The President also instructed the Army to renovate the existing Madu Bishop Thero, the Department of Forest Department, Road Development Authority and the Sri Lanka Police.
 
 ...
 
 [Data](articles/8bb119f7.json)
+
+[Extended Data](ext_articles/8bb119f7.ext.json)
 
 ---
 
@@ -2377,41 +2413,5 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 [Data](articles/e0aa98d1.json)
 
 [Extended Data](ext_articles/e0aa98d1.ext.json)
-
----
-
-### T20 World Cup 2024: 'The winning of today is important to us'
-
-*2024-06-17 06:51:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp66r21x375o) · `si`
-
-In the T20 World Cup 2024, Sri Lanka secured a crucial 83-run victory over the Netherlands, despite being eliminated from the tournament. The match highlighted strong performances from Sri Lankan players like Kusal Mendis and Dhananjaya de Silva, who contributed significantly to the team's total of 166 runs. Despite early losses, including a century from Vasun Shanaka, Sri Lanka managed to set a challenging target for the Netherlands, who struggled to reach 83 runs, losing all their wickets. This victory marked a turning point for Sri Lanka, emphasizing the importance of teamwork and individual contributions in overcoming challenges.
-
-🟩
-
-Sri Lanka beat the Netherlands by 83 runs in the match against the Twenty20 World Cup.
-
-Despite the winning the match, the Sri Lankan team had to leave the first surface of the Twenty20 World Cup.
-
-The match was held at the National Cricket Stadium in the West Indies' islands.
-
-The Netherlands team won the toss and invited the Sri Lankan team to bat first.
-
-The second ball of the first ball of the Sri Lankan innings is the second ball of the first ball of the first ball of the second ball due to the loss of marks in Kings.
-
-Kusal Mendis joined the second wicket of Sri Lanka innings on the second wicket of Sri Lankan innings.
-
-Sri Lanka Innings Score was bowled out for a ball of 20 balls in 20 balls to 3 wickets for 39 balls.
-
-Sri Lanka scored 45 runs for the loss of two wickets in the six overs.
-
-Several relations between Sri Lankan batsmen were seen among the wickets in the match.
-
-Kusal Mendis and Dhananjaya de Silva added 45 runs for the third wicket.
-
-...
-
-[Data](articles/a162df3b.json)
-
-[Extended Data](ext_articles/a162df3b.ext.json)
 
 ---

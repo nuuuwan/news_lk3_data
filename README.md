@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 15:53:41**
+As of **2024-06-17 16:07:06**
 
 ## Newspaper Stats
 
-*Scraped **30,780** Articles*
+*Scraped **30,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,666
+adalk | 2,667
 adaderanalk | 3,489
-tamilmirrorlk | 3,610
-virakesarilk | 4,728
+tamilmirrorlk | 3,611
+virakesarilk | 4,731
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,989
+adaderanasinhalalk | 4,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,779 (100.0%) of 30,780 articles have been extended.
+30,780 (100.0%) of 30,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### පාකිස්තාන කණ්ඩායමේ නායකත්වය ගැන තීරණයක් ?
+
+*2024-06-17 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197851) · `si`
+
+තමා තවදුරටත් පාකිස්තාන කණ්ඩායමේ නායකත්වයේ කටයුතු කිරීම හෝ නොකිරීම පාකිස්තාන ක්‍රිකට් ආයතනය සතු තීරණයක් බව බාබර් අසාම් පවසයි.
+
+පාකිස්තාන කණ්ඩායමට මෙවර පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ මූලික වටයෙන්ම ඉවත් වීමට සිදුවීමත් සමග කණ්ඩායම් නායකත්වය පිළිබඳව විවේචනාත්මක අදහස් පළ වී තිබුණි.
+
+ඒ සම්බන්ධයෙන් මාධ්‍ය වෙත ප්‍රකාශයක් සිදුකරමින් පාකිස්තාන කණ්ඩායමේ නායක බාබර් අසාම් සඳහන් කර ඇත්තේ තරගාවලිය සමාලෝචනය කිරීමෙන් අනතුරුව ක්‍රිකට් ආයතනය විසින් ඒ සම්බන්ධයෙන් තීරණයක් ගනු ඇති බවය.
+
+කණ්ඩායමක් ලෙස මෙවර තරගාවලියේ දී හොඳින් ක්‍රීඩා නොකළ බව ප්‍රකාශ කර ඇති බාබර් අසාම්, තරග පරාජය එක් පුද්ගලයෙකුගේ වරදක් නොවන බව ද පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/f83f7ae7.json)
+
+---
+
+### Factum Perspective: இலங்கையில் வளர்ச்சியை ஊக்குவிக்கும் சக்தியாக விளையாட்டு மற்றும் பொருளாதாரம்
+
+*2024-06-17 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186285) · `ta`
+
+ஆராயப்படாவிட்டாலும் அல்லது குறைவாக ஆராயப்பட்டிருந்தாலும் கூட, முதலீட்டாளர்கள் இலங்கையின் வளர்ச்சியை ஊக்குவிக்கும் முக்கிய வழிமுறைகளில் ஒன்று விளையாட்டாகும். தொழிற்துறையின் விரைவான உயர்வு மற்றும் அதன் வளர்ந்து வரும் பெறுமதி, விளையாட்டில் முதலீடு செய்வதன் முக்கிய நன்மைகளில் ஒன்றாகும்.
+
+பிரதான விளையாட்டு சுற்றுப் போட்டிகளின் வளர்ச்சி மற்றும் ஒளிபரப்பு உரிமைகளின் விரிவாக்கம் ஆகியவற்றின் விளைவாக விளையாட்டுகள் வணிகமயமாகிவிட்டதுடன், முதலீட்டாளர்களுக்கு அதிகமான வாய்ப்பு உள்ளன. இந்த ஆக்கம் இலங்கையின் விளையாட்டுத் துறையை மேம்படுத்த உதவும் முக்கிய உத்திகளை ஆராய்கிறது.
+
+...
+
+[Data](articles/211e13f3.json)
+
+---
+
+### ’இறைச்சி அரிசி’ தயாரிப்பு
+
+*2024-06-17 15:29:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இறைச்சி-அரிசி-தயாரிப்பு/57-339026) · `ta`
+
+தென் கொரியாவின் தலைநகர் சியோலில் உள்ள விஞ்ஞானிகள் குழு, மாட்டிறைச்சி செல்கள் கலந்த புதிய அரிசி வகையை உருவாக்கியுள்ளது.
+
+எதிர்காலத்தில் பல இறைச்சி பிரியர்களுக்கு அவர்களின் புதிய வகை அரிசி ஓர் அற்புதமான உணவாக இருக்கும் என்று விஞ்ஞானிகள் கூறுகின்றனர்.
+
+இந்த 'இறைச்சி அரிசி'யை எதிர்கால விண்வெளி நடவடிக்கைகளிலும், கிரக ஆய்வுகளிலும் எளிதில் தயாரிக்கக்கூடிய ஒரு வகையான சத்தான அரிசியாக அறிமுகப்படுத்துவார்கள் என்றும் விஞ்ஞானிகள் நம்புகின்றனர்.
+
+இந்த புதிய வகை அரிசி இளஞ்சிவப்பு நிறத்தில் உள்ளது. இது வெண்ணெய் போன்ற வாசனை கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/3e438ea4.json)
+
+---
 
 ### Price of coconut oil expected to continue to surge?
 
@@ -49,6 +99,22 @@ De Silva urged the government to allow the importation of essential raw material
 ◼️
 
 [Data](articles/063ada73.json)
+
+[Extended Data](ext_articles/063ada73.ext.json)
+
+---
+
+### வெளிநாட்டில் வேலை பெற்றுத் தருவதாகக் கூறி பண மோசடி செய்த பெண் கைது
+
+*2024-06-17 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186282) · `ta`
+
+கத்தாரில் வேலை வாய்ப்புப் பெற்றுத் தருவதாக கூறி 40 இலட்சம் ரூபாய் பணத்தை மோசடி செய்த பெண்ணொருவர் கைது செய்யப்பட்டுள்ளாார்.
+
+இந்த பெண் இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் புலனாய்வுப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5e0bd21b.json)
 
 ---
 
@@ -107,6 +173,24 @@ It is said that after January last January, the Israeli army was assaulted.
 [Data](articles/6a63aad2.json)
 
 [Extended Data](ext_articles/6a63aad2.ext.json)
+
+---
+
+### முல்லைத்தீவு மாவட்டத்தில் தமிழர்களுடைய பூர்வீக காணிகள் அபகரிப்பு - ரவிகரன் குற்றச்சாட்டு
+
+*2024-06-17 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186265) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தில் மணலாறு என்ற இடம் வெலிஓயாவாக மாற்றம் செய்யப்பட்டு தமிழ் மக்களுடைய பூர்வீக காணிகளை அபகரித்து 4238 சிங்கள மக்களுக்கு வழங்கப்பட்டுள்ளது. ஆனால் 3389 தமிழ் குடும்பங்களுக்கு காணி இல்லை என முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+
+முல்லைத்தீவில் இன்றையதினம் திங்கட்கிழமை (17) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்.
+
+வடமாகாணத்திலே 2415 சதுர கிலோமீட்டர் நிலப்பரப்புள்ள மாவட்டம் முல்லைத்தீவு மாவட்டம். கிட்டத்தட்ட 5 இலட்சத்தி தொண்ணூறாயிரம் ஏக்கர் நிலப்பரப்பை கொண்டதாக கணிக்கப்பட்டுள்ளது.
+
+ஏற்கனவே விடுதலைபுலிகள் மௌனிக்கப்பட்ட காலங்களிற்கு பின்னர் பூர்விகமான மணலாறு என்ற இடம் வெலிஓயாவாக மாற்றம் செய்து. 4238 சிங்கள  குடும்பங்களுக்கு காணிகள் வழங்கி வீட்டு வசதிகளும் ஏற்படுத்தி கொடுத்திருக்கிறார்கள். அரசாங்கம் தமிழ் மக்களுடைய பூர்வீக காணிகளை அபகரித்தே வழங்கியிருக்கிறார்கள்.
+
+...
+
+[Data](articles/67594df5.json)
 
 ---
 
@@ -783,6 +867,24 @@ The deeds were handed over to the Embilipitiya Mahaweli Stadium in Embilipitiya 
 [Data](articles/829fe8d1.json)
 
 [Extended Data](ext_articles/829fe8d1.ext.json)
+
+---
+
+### ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරන ආර්ථික ප්‍රතිපත්තිය මත රටේ අනාගතය තීරණය වෙනවා
+
+*2024-06-17 12:32:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-05-තුළ-ක්‍රියාත්මක-කරන-ආර්ථික-ප්‍රතිපත්තිය-මත-රටේ-අනාගතය-තීරණය-වෙනවා/11-410257) · `si`
+
+ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරනු ලබන ආර්ථික ප්‍රතිපත්තිය මත ශ්‍රී ලංකාවේ අනාගතය තීරණය වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මන්නාරම දිස්ත්‍රික් “තරුණ සමුළුවට” සහ ව්‍යාපාරික ප්‍රජාව සමඟ හමුවකට ඊයේ (16) එක් වෙමිනි.
+
+මන්නාරම නගර ශාලාවේදී පැවති මන්නාරම දිස්ත්‍රික් “තරුණ සමුළුවට” ජනාධිපතිවරයා පළමුව එක් විය. “දීප්තිමත් අනාගතයක් සඳහා වූ ගමනක්” මැයෙන් මෙම තරුණ සමුළුව සංවිධාන කර තිබූ අතර 2023/2024 අපොස උසස් පෙළ විභාගය විශිෂ්ට ලෙස සමත් වූ සිසුන්ට සහතික පත් හා මුදල් ත්‍යාග පිරිනැමීම ද එහිදී ජනාධිපතිවරයා අතින් සිදු විය. උතුරු පළාත් අධ්‍යාපන අමාත්‍යාංශයේ මෙහෙයවිමෙන් එය සිදු කෙරිණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී තරුණ තරුණියන් අතරට ගොස් ඔවුන්ගේ ප්‍රශ්න සෘජුව විමසා බැලීම ද විශේෂත්වයක් වූ අතර එහිදී ඉදිරිපත් කෙරුණු ප්‍රශ්නවලට සාධනීය පිළිතුරු ලබාදීමට ජනාධිපතිවරයා කටයුතු කළේය.
+
+...
+
+[Data](articles/75a8141f.json)
 
 ---
 
@@ -2229,137 +2331,5 @@ He has issued specific instructions to each of them regarding the steps to be ta
 [Data](articles/ac2909ba.json)
 
 [Extended Data](ext_articles/ac2909ba.ext.json)
-
----
-
-### JAT opens binder plant in Horana
-
-*2024-06-17 01:27:48* · [`dailyftlk`](https://www.ft.lk/business/JAT-opens-binder-plant-in-Horana/34-763155) · `en`
-
-JAT Holdings PLC, recently celebrated a key milestone with the ceremonial opening of its state-of-the-art binder plant in Horana.
-
-The Company said the historic achievement marks the culmination of months of dedicated planning and construction, symbolising JAT’s unwavering commitment to innovation and operational excellence.
-
-The JAT Binder Plant represents a significant leap forward for JAT Holdings, enabling it to manufacture its own binders, the foundational component of wood coatings and emulsion paint. This strategic move positions JAT for greater backward vertical integration, optimising production efficiency, and ultimately delivering superior value to its customers.
-
-...
-
-[Data](articles/2400ca5f.json)
-
-[Extended Data](ext_articles/2400ca5f.ext.json)
-
----
-
-### Ranil Chairman: Sajith, Anura
-
-*2024-06-17 01:26:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலே-தலைவர்-சஜித்-அனுர-ஏற்றுள்ளனர்/175-338994) · `ta`
-
-Prasanna Ranatunga, Minister of Urban Development and Housing, urged citizens to choose between further testing and eating, highlighting the country's economic collapse. Leaders of the United People's Power and National People's Power indirectly supported continuing President Wickremesinghe's program to recover from the economic crisis, advocating for his reappointment. The minister emphasized the importance of holding elections constitutionally this year, addressing concerns over misinformation and political instability.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga urges people to decide whether to go to many more tests and eat another time, while the country's economy has collapsed.
-
-Leaders of the United People's Power and National People's Power have indirectly accepted that the country could be recovered from the economic crisis by continuing the current president's program and that there was no choice but to re -appoint Ranil Wickremesinghe as president.
-
-Responding to questions raised by journalists after attending a meeting held on Sunday (16) in Minuwangoda, the Minister said this.
-
-Answer - Yes, of course the election must be held. Constitutionally, the presidential election must be held this year.
-
-Question - Looks like there is no election.Is this a lie?
-
-...
-
-[Data](articles/3ef00b5c.json)
-
-[Extended Data](ext_articles/3ef00b5c.ext.json)
-
----
-
-### CFA Society Sri Lanka Capital Market Awards 2024 to raise awareness on public-private partnership potential
-
-*2024-06-17 01:25:30* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-Capital-Market-Awards-2024-to-raise-awareness-on-public-private-partnership-potential/34-763154) · `en`
-
-USAID Sri Lanka Energy Program Transaction Advisor and Competitive Procurement Specialist CFA Dhinali Peiris
-
-The eagerly anticipated 11th annual CFA Society Sri Lanka Capital Market Awards is scheduled to be held on Tuesday, 18 June 2024, at the Oak Room, Cinnamon Grand, Colombo. The CFA Society Sri Lanka Capital Market Awards has been a flagship event in the CFA Society Sri Lanka calendar since its inception in 2012 and is among the most sought-after accolades recognising and rewarding excellence in the local capital markets.
-
-...
-
-[Data](articles/302d84a3.json)
-
-[Extended Data](ext_articles/302d84a3.ext.json)
-
----
-
-### The general candidate can affect the telephone number
-
-*2024-06-17 01:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளர்-பாதிப்பை-ஏற்படுத்தும்/175-338993) · `ta`
-
-Efforts to stop a common candidate in the upcoming presidential election are underway, but Douglas Devananda, Secretary-General and Minister of the EPDP, believes these efforts will be futile for the Tamil people. He views this as an attempt to prolong the Tamil community's issues without addressing the root causes. Despite the lack of unity among them, he emphasizes the importance of relying on trusted leaders who have consistently communicated with the people.
-
-🟩
-
-Some people are talking about stopping the common candidate in the upcoming presidential election. It is also said that efforts are being made. I think it is not necessary to be a common candidate for me. Douglas Devananda, Secretary -General and Minister of the EPDP, said that the effort would not only be useless to the Tamil people.
-
-He said this during a media briefing held at his party headquarters in Jaffna on Sunday (16).. In this regard, he said ..
-
-In fact, I see this as an attempt to keep the problems of the Tamil people as long -standing problems.
-
-Although they are all tied together in a potato bundle, they are scattered like a rolling in every direction, as Prabhakaran is not in the absence of today.
-
-In this case, where is unity among them. What did you get for many years. Is it possible to control the destruction?Is there any improvement?In the absence of the election, they are talking about that again.
-
-...
-
-[Data](articles/b66d17a2.json)
-
-[Extended Data](ext_articles/b66d17a2.ext.json)
-
----
-
-### Mastercard Centre for Inclusive Growth and data.org launch ‘Artificial Intelligence to Accelerate Inclusion Challenge’
-
-*2024-06-17 01:19:37* · [`dailyftlk`](https://www.ft.lk/business/Mastercard-Centre-for-Inclusive-Growth-and-data-org-launch-Artificial-Intelligence-to-Accelerate-Inclusion-Challenge/34-763153) · `en`
-
-Global call issued for innovative AI solutions at inaugural accelerate conference
-
-The Mastercard Centre for Inclusive Growth and data.org last week launched the Artificial Intelligence to Accelerate Inclusion Challenge (AI2AI Challenge), a global call for AI solutions to accelerate inclusion and economic empowerment.
-
-The AI2AI Challenge will focus on inclusive growth, ensuring that the benefits of this rapidly advancing data technology extend to all segments of society. Organisations will be considered for their innovative AI solutions that have demonstrated success and are ready to scale with additional funding and technical assistance.
-
-...
-
-[Data](articles/3c9cb0bc.json)
-
-[Extended Data](ext_articles/3c9cb0bc.ext.json)
-
----
-
-### Magistrate
-
-*2024-06-17 01:16:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்லிக்குளம்-மலைக்கு-நீதவான்-களவிஜயம்/175-338992) · `ta`
-
-On June 15th, Muttur Magistrate Dasneem Bausan inspected the Nellikulam hill site after nine protesters, arrested by Sampur police on June 11th for disrupting activities affected by the hill's instability, were presented in court. The magistrate noted the impact on agriculture, transport, and livestock farming due to the hill's condition.
-
-🟩
-
-Muttur Magistrate Dasneem Bausan visited the Muttur-Senayoor Nellikkulam hill site on Saturday (15).
-
-Nine persons were arrested by the Sampur police on Tuesday (11) when they were protesting when they had been affected by the hill in the Nellikula hill area belonging to the Senayoor Grama Sevaka Division.
-
-They were arrested on suspicion and produced at the Muttur Magistrate's Court on Wednesday (12).
-
-The case was filed by Sampur police in Muttur court. The magistrate also said that he was visiting the scene on 15.06.2024. Muttur court judge Dasneem Bausan visited the spot.
-
-One of the villagers said that due to the hill breaking, the nearby agriculture, transport and livestock farming were affected.
-
-Lands around the Nellikulam Mountain.. We cannot comment on the issue in court.. "We hope that the Magistrate visited this place at present," he said.
-
-◼️
-
-[Data](articles/9f0ff8e4.json)
-
-[Extended Data](ext_articles/9f0ff8e4.ext.json)
 
 ---

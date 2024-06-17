@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 14:19:22**
+As of **2024-06-17 14:34:42**
 
 ## Newspaper Stats
 
-*Scraped **30,766** Articles*
+*Scraped **30,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,55 @@ adaderanalk | 3,487
 tamilmirrorlk | 3,610
 virakesarilk | 4,721
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,986
+adaderanasinhalalk | 4,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,764 (100.0%) of 30,766 articles have been extended.
+30,766 (100.0%) of 30,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### සුදු වැන් රථයකින් පැමිණ තරුණයකු පැහැරගෙන ගිහින්
+### පොල්තෙල් බෝතලයක මිල ඉහළට
+
+*2024-06-17 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197848) · `si`
+
+වෙළෙඳපොල තුළ පොල්තෙල් බෝතලයක මිල රුපියල් 150කින් පමණ ඉහළ ගොස් තිබේ.
+
+පාරම්පරික පොල්තෙල් හිමියන්ගේ සංගමය චෝදනා කරන්නේ, එළැඹෙන උත්සව සමය මුල්කරගෙන පොල්තෙල් ආනයනකරුවන් තොග සඟවාගෙන සිටීම තුළ මෙලෙස පොල්තෙල් මිල ඉහළ ගොස් ඇති බවය.
+
+පරිභෝගිකයන් සහ තොග වෙළෙඳුන් පවසන්නේ පොල්තෙල් බෝතලයක මිල රුපියල් 150කින් පමණ ඉහළ ගොස් ඇති බවය.
+
+මේ පිළිබඳ අදහස් දැක්වූ සමස්ත ලංකා පාරම්පරික පොල්තෙල් නිෂ්පාදකයන්ගේ සංගමයේ කැඳවුම්කරු, බුද්ධික ද සිල්වා මහතා පවසා සිටියේ, පොල්තෙල් ආනයනයකරුවන් හිතුමතේ තෙල් මිල තීරණය කර ඇති බවත් ඉදිරියේ දී තෙල් බෝතලයක මිල රුපියල් 1,000ක් දක්වා වැඩි වීමේ ප්‍රවණතාවයක් පවතින බවය.
+
+"අද වෙද්දි මුදල් අමාත්‍යාංශය බදු ගහලා නෑ. වැවිලි කර්මාන්ත අමාත්‍යාංශය කිසිම පාලනයක් කරලා නෑ. පොල් සංවර්ධන අධිකාරියේ කිසිම ක්‍රියාත්මක වීමක් නෑ. අපි රජයෙන් වහාම ඉල්ලා සිටිනවා මේ මිල අඩු කිරීමට දේශීය කර්මානතකරුවන්ට අවශ්‍ය කරන අමුද්‍රව්‍ය ටික අපිට ආනයනය කරන්න අවස්ථාව ලබාදෙන්න."
+
+◼️
+
+[Data](articles/672d2031.json)
+
+---
+
+### A young man came from a white van and abducted a young man
 
 *2024-06-17 13:46:47* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-වැන්-රථයකින්-පැමිණ-තරුණයකු-පැහැරගෙන-ගිහින්/11-410265) · `si`
 
-කළුතර හීනටියංගල දේවස්ථානය ආසන්නයේ දී සුදු වැන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇඳගත් පිරිසක් හීනටියංගල ප්‍රදේශයේ  24 හැවිරිදි තරුණයෙකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය කීයයි.
+Kalutara South Police are investigating a case where a young man was allegedly abducted by another from a white van near the Hynatiyanna Church. The suspects, who were later found, are expected to be arrested.
 
-සැකකරුවන්  එම තරුණයා ට පහරදී ඔහුව පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කල පරීක්ෂණවලදී හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කරයි. සැකකරුවන් හඳුනාගෙන ඇති බවත් ඔවුන් ප්‍රදේශය හැරගොස් සිටින බවත් ඔවුන්ව කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් පොලිසිය පවසයි.
+🟩
+
+The Kalutara South Police are conducting further investigations into a complaint that a black dress in a white van near the Hynatiyanna Church in Kalutara.
+
+Investigations have been identified in investigations that the suspects had been assaulted and abducted by the youth.. The suspects have been identified and they are resurrected to arrest them.
 
 ◼️
 
 [Data](articles/dd126fea.json)
+
+[Extended Data](ext_articles/dd126fea.ext.json)
 
 ---
 
@@ -165,6 +191,8 @@ Nearly 30 people were injured and rescue teams from the police and national disa
 ...
 
 [Data](articles/c0b5f8ce.json)
+
+[Extended Data](ext_articles/c0b5f8ce.ext.json)
 
 ---
 
@@ -2293,21 +2321,5 @@ The investigations by the Carabinieri of the operational unit of the company con
 [Data](articles/ad4279cb.json)
 
 [Extended Data](ext_articles/ad4279cb.ext.json)
-
----
-
-### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
-
-*2024-06-16 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84194) · `en`
-
-“And one man in his time plays many parts” ,stated  William Shakespeare in his play “As you like it”. The above  mentioned observation by the  Bard of Avon is quite appropriate in describing the life and work of Dr.Nissanka Wijeyeratne whose 100th birth anniversary was  celebrated on June 14.
-
-Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military officer ,scholar, poet,  Government Agent, Permanent secretary, ),Parliamentarian, Cabinet Minister, Ambassador and above all the Diyawadane Nilame of the  Sri Dalada Maligawa in a  productive life spanning eight decades. This article is to commemorate the birth centenary of this versatile,  multi-faceted personality who rendered yeoman service to his motherland.
-
-...
-
-[Data](articles/fb52118a.json)
-
-[Extended Data](ext_articles/fb52118a.ext.json)
 
 ---

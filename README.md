@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 13:04:14**
+As of **2024-06-17 13:19:29**
 
 ## Newspaper Stats
 
-*Scraped **30,751** Articles*
+*Scraped **30,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,57 @@ islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
 adalk | 2,660
-adaderanalk | 3,484
-tamilmirrorlk | 3,606
+adaderanalk | 3,485
+tamilmirrorlk | 3,607
 virakesarilk | 4,721
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,982
+adaderanasinhalalk | 4,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,748 (100.0%) of 30,751 articles have been extended.
+30,751 (100.0%) of 30,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### தேங்காய் தலையில் விழுந்ததில் 11 மாத பெண் குழந்தை பலி
+### Notice issued on disruption of water supply to several areas
 
-*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-தலையில்-விழுந்ததில்-11-மாத-பெண்-குழந்தை-பலி/76-339019) · `ta`
+*2024-06-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99926/notice-issued-on-disruption-of-water-supply-to-several-areas) · `en`
+
+The National Water Supply and Drainage Board (NWS&DB) says that water supply to Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama and Mattegoda areas will be restored by midnight today (17).
+
+The water supply in the aforesaid areas was interrupted until further notice, due to a damage in the transmission pipeline from the Kalatuwawa Treatment Plant.
+
+According to reports, the water transmission pipeline from the Kalatuwawa Treatment Plant has burst at Godagama near the High-Level Road owing to a vehicular accident.
+
+A car had veered off the road and collided with the water transmission pipeline this morning (17) causing severe damage to the pipeline.
+
+As a result of the incident, the water supply to over 100,000 housing units in the affected areas has been interrupted until further notice.
+
+◼️
+
+[Data](articles/8aa717f7.json)
+
+---
+
+### ජල සැපයුම යථාතත්ත්වයට පත්කිරීම ගැන දැනුම්දීමක්
+
+*2024-06-17 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197844) · `si`
+
+ලබුගම - කලටුවාව ජලාශයේ සිට මහරගම දක්වා ජලය ගෙනයන හානියට පත් නළය පිළිසකර කර ජල සැපයුම අද (17) මධ්‍යම රාත්‍රිය වනවිට ලබා දිය හැකි වනු ඇතැයි ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/c00b4730.json)
+
+---
+
+### தேங்காய் விழுந்ததில் குழந்தை பலி
+
+*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-விழுந்ததில்-குழந்தை-பலி/76-339019) · `ta`
 
 தேங்காய் ஒன்று தலையில் விழுந்ததில் 11 மாத பெண் குழந்தை உயிரிழந்துள்ளதாக கலஹா பொலிஸார் தெரிவித்தனர். கலஹா, தெல்தோட்டை பிரதேசத்திலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
 
@@ -50,7 +82,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/1907da10.json)
+
+---
+
+### 11 -month -old girl killed in coconut head
+
+*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-தலையில்-விழுந்ததில்-11-மாத-பெண்-குழந்தை-பலி/76-339019) · `ta`
+
+An 11-month-old girl, Lokeswaran Kiangshini, died after a coconut fell on her head in the Teldota area of Kalaha. Her father had taken her to a neighbor's house, where the accident occurred. Despite the presence of many young children in the vicinity, no precautions were taken against falling coconuts.
+
+🟩
+
+Kalaha police said 11 months old girl died when a coconut fell on her head. The incident took place in the Teldota area of ​​Kalaha.
+
+Unfortunately, a girl named Lokeswaran Kiangshini, who lives in the Naranhinna estate in the Kalaha, has died.
+
+When her father took the girl to the neighboring house, she fell on her head from a coconut tree that was thirty feet in front of the house.
+
+The same girl was then taken to the Teldottai Divisional Hospital in a three -wheeler.
+
+Investigations are being investigated by police said that coconuts fell from the coconut trees near the queue houses.
+
+It has also been revealed that these houses have many small children and many others, but the danger is not paid to the risk.
+
+◼️
+
 [Data](articles/78337b68.json)
+
+[Extended Data](ext_articles/78337b68.ext.json)
 
 ---
 
@@ -67,6 +127,8 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 ◼️
 
 [Data](articles/14606f08.json)
+
+[Extended Data](ext_articles/14606f08.ext.json)
 
 ---
 
@@ -192,21 +254,27 @@ Issuing a clarification on certain speculations and misconceptions regarding the
 
 ---
 
-### “நானும் போட்டியிடுவேன்”
+### “I will compete”
 
 *2024-06-17 12:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-போட்டியிடுவேன்/175-339016) · `ta`
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவில் 50% வீதமானவர்கள் தயாராக இருந்தால் ஜனாதிபதி தேர்தலில் போட்டியிடுவேன் என பாராளுமன்ற உறுப்பினரும் தொழிலதிபருமான தம்மிக்க பெரேரா தெரிவித்தார்.
+Dhammika Perera, a Member of Parliament and businessman, has announced his readiness to run for president if half of the Sri Lanka People's Alliance (PA) supports him. He meets ten conditions set by the party and has outlined strategies for security and economic growth. With 115 days until the election, Perera remains a potential candidate, expressing his commitment to the PA despite uncertainties.
 
-கட்சி தனக்கு பத்து நிபந்தனைகளை விதித்துள்ளதாகவும், அந்த நிபந்தனைகளின்படி தான் அனைத்து திட்டங்களையும் தயார் செய்ததாகவும் தெரிவித்துள்ளார்.
+🟩
 
-அந்த பத்து நிபந்தனைகளுக்கு அமைவாக எவ்வாறு பாதுகாப்பை கட்டியெழுப்புவது மற்றும் பொருளாதாரத்தை எவ்வாறு கட்டியெழுப்புவது என்பது தொடர்பிலும் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Member of Parliament and businessman Dhammika Perera said that if 50% of the Sri Lanka PA is ready, he will contest the presidential election.
 
-மேலும், "நான் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர். என்ன நடக்கிறது என்று பார்ப்போம். ஜனாதிபதித் தேர்தலுக்கு இன்னும் 115 நாட்களே உள்ளன." என அவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+He said the party had imposed ten conditions and that he had prepared all the plans under those conditions.
+
+He added that plans have been prepared on how to build security and how to build the economy in accordance with those ten conditions.
+
+Also, “I am a member of the Sri Lanka PA. Let's see what's going on. There are still 115 days for the presidential election, ”he said.
 
 ◼️
 
 [Data](articles/67890370.json)
+
+[Extended Data](ext_articles/67890370.ext.json)
 
 ---
 
@@ -2203,59 +2271,5 @@ They have handed over the Katunayake airport criminal investigations.
 [Data](articles/d4d3008f.json)
 
 [Extended Data](ext_articles/d4d3008f.ext.json)
-
----
-
-### Drinking in the north of Vavuniya - Part 03
-
-*2024-06-16 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186208) · `ta`
-
-In "Drinking in the North of Vavuniya - Part 03," the narrative focuses on the poor governance under the Indian Local Government, highlighting its impact on the community.
-
-🟩
-
-"The miserable state of the rule of the Local Government of India
-
-◼️
-
-[Data](articles/eac14df5.json)
-
-[Extended Data](ext_articles/eac14df5.ext.json)
-
----
-
-### The continent of Europe towards the right -wing rise?
-
-*2024-06-16 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186201) · `ta`
-
-Europe sees a rise in right-wing politics, with Italy's conservative party leading, France's National Rally gaining influence, and Germany facing internal alternatives to its established parties.
-
-🟩
-
-The Italy's brothers -led European conservatives and reformers party, France -based National Rally Leadership, Democracy, and German -based alternatives to Germany -based Germany.
-
-◼️
-
-[Data](articles/21b2e977.json)
-
-[Extended Data](ext_articles/21b2e977.ext.json)
-
----
-
-### Is the homeland welfare politics?Colombo welfare politics?
-
-*2024-06-16 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186183) · `ta`
-
-The text discusses whether homeland welfare includes Colombo's welfare politics, mentioning allegations against the Tamil Civil Organization and the Tamil People's Council, labeled as fascists. It criticizes statements made by Sumanthiran, suggesting they are ill-informed.
-
-🟩
-
-He has imposed various allegations against the Tamil Civil Organization, the "Tamil People's Council". Did not come after saying that they first come to the meeting. He identified as fascists. He published many things. Many of the things Sumanthiran said here are illiterate.
-
-◼️
-
-[Data](articles/085d5750.json)
-
-[Extended Data](ext_articles/085d5750.ext.json)
 
 ---

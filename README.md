@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 21:04:40**
+As of **2024-06-17 21:19:32**
 
 ## Newspaper Stats
 
-*Scraped **30,820** Articles*
+*Scraped **30,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,674
 adaderanalk | 3,493
 tamilmirrorlk | 3,614
 dailymirrorlk | 4,733
-virakesarilk | 4,741
+virakesarilk | 4,743
 adaderanasinhalalk | 4,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,820 (100.0%) of 30,820 articles have been extended.
+30,820 (100.0%) of 30,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### நாட்டின் பொருளாதார முன்னேற்றத்திற்குத் தேவையான வேலைத்திட்டத்தை ஜனாதிபதி வெற்றிகரமாக நடைமுறைப்படுத்தியுள்ளார் - இராஜாங்க அமைச்சர் அநூப பஸ்குவெல்
+
+*2024-06-17 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186314) · `ta`
+
+கொள்கைகளின் அடிப்படையிலேயே நாட்டை முன்னேற்ற முடியும். அவ்வாறன்றி தனிநபர்கள் அல்லது கட்சிகளினால் அதனைச் செய்ய முடியாதெனத் தெரிவிக்கும் சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அநூப பஸ்குவெல், நாட்டின் பொருளாதார முன்னேற்றத்திற்குத் தேவையான வேலைத்திட்டத்தை ஜனாதிபதி ரணில் விக்ரமசிங்க ஏற்கனவே வெற்றிகரமாக நடைமுறைப்படுத்தியுள்ளார் என்று தெரிவித்தார்.
+
+சிறுதேயிலைத் தோட்ட உரிமையாளர்களின் பிரச்சினைகளைத் தீர்ப்பதற்கு 50% நிவாரணம் வழங்க ஜனாதிபதி அனுமதியளித்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் இதனைத் தெரிவித்தார்.
+
+"நாட்டு மக்களின் போராட்டத்தில் வலியுறுத்தப்பட்ட சீர்திருத்தங்களை தற்போதைய அரசாங்கம் வெற்றிகரமாக மேற்கொண்டு வருகிறது. அதற்கு மத்தியில் நாட்டைப் பொறுப்பேற்க பலர் முன்வந்திருக்கிறார்கள். ஆனால் அவர்களிடத்தில் அதற்கான கொள்கைகள் எவையும் இல்லை. நாட்டில் பலரும் அரசாங்கத்தின் வேலைத்திட்டத்தினை ஏற்றுக்கொண்டுள்ளபோது, சிலர் மாத்திரம் அதற்குப் புறம்பாகச் செயற்படுகிறார்கள்.
+
+...
+
+[Data](articles/d7995571.json)
+
+---
+
+### ஆடுகளங்களையோ, போட்டி அட்டவணையையோ குறைகூற - வனிந்து ஹசரங்க மறுக்கிறார்
+
+*2024-06-17 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186313) · `ta`
+
+இலங்கையில் தோல்விகளுக்கு அமெரிக்க ஆடுகளங்களையோ போட்டி அட்டவணையையோ இலங்கை அணித் தலைவர் வனிந்து ஹசரங்க குறைகூற மறுத்துள்ளார்.
+
+'நாங்கள் விளையாடிய அதே ஆடுகளங்களில்தான் மற்றைய அணிகளும் விளையாடின. எங்களது விளையாட்டு வியூகங்களை மாற்றிக்கொள்வது எமது கடமை' என அவர் குறிப்பிட்டுள்ளார்.
+
+ரி20 உலகக் கிண்ண போட்டி ஆரம்பமாவதற்கு சுமார் 10 தினங்களுக்கு முன்னர் இலங்கை அணி அமெரிக்கா சென்றடைந்தது. அத்துடன் அங்கு நெதர்லாந்து, அயர்லாந்து ஆகிய அணிகளுடன் இரண்டு பயிற்சிப் போட்டிகளில்  இலங்கை விளையாடியிருந்தது.
+
+ஆனால், அமெரிக்காவில் கொடுக்கப்பட்ட ஆடுகளங்களுக்கு ஏற்ப தங்களை விரைவாக மாற்றிக்கொள்ள முடியாமல் போனதாக வனிந்து ஹசரங்க உணர்கிறார்.
+
+தென் ஆபிரிக்காவுக்கு எதிராக நியூயோர்க் நசவ் கவுன்டி விளையாட்டரங்கில் நடைபெற்ற போட்டியில் இலங்கை 77 ஓட்டங்களை மாத்தரமே பெற்றது.
+
+அதனைத் தொடர்ந்து பங்களாதேஷுக்கு எதிராக டல்லாஸில் நடைபெற்ற போட்டியில் இலங்கை 9 விக்கெட்களை இழந்து 124 ஓட்டங்களை எடுத்தது. ஆனால், டெத் ஓவர்களை வீசுவதற்கு முன்னணி பந்துவீச்சாளர்கள் இல்லாமல் போனதால் இலங்கை தோல்வியைத் தழுவியது.
+
+...
+
+[Data](articles/cafe43f1.json)
+
+---
 
 ### Arrested by two police officers
 
@@ -2377,51 +2417,5 @@ Charith, who was 46 off 21 balls and two balls, were awarded the man of the matc
 [Data](articles/ac106ada.json)
 
 [Extended Data](ext_articles/ac106ada.ext.json)
-
----
-
-### Surbed the money for a race betting
-
-*2024-06-17 09:43:26* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-ඔට්ටු-පලක-මුදල්-සේප්පුව-කඩා-මුදල්-සොරාගෙන/11-410251) · `si`
-
-A complaint was filed about a race betting fruit stored in Kalubowila. The storage employee was questioned by Migahiyawa Police officers, including Chief Inspector Wasantha Pitigala and Senior Police OIC Mount Lavinia Divisional Police Inspector MD Nilangala, regarding the incident.
-
-🟩
-
-A complaint has launched a complaint lodged a complaint that a race betting fruit is being kept in Kalubowila area.
-
-The storage employee had taken place in the morning in the office of the office in the office of the office of the office of the office and the front door of the office, which had taken place in the office of the office.The complaint was carried out.
-
-Migays Police Objectives OIC Chief Inspector Wasantha Pitigala, including the Chief Inspector of Police (CMA), including the Chief Inspector of Police (CMA), including the Senior Police OIC of the Mount Lavinia Divisional Police Inspector MD Nilangala.. The use of CTV signs.
-
-◼️
-
-[Data](articles/c9d89f94.json)
-
-[Extended Data](ext_articles/c9d89f94.ext.json)
-
----
-
-### Tamils ​​are not prepared to rely on genocide - Blessed
-
-*2024-06-17 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186236) · `ta`
-
-Tamils are wary of relying on genocide, says Aruttandanda Ma Sathivel, coordinator of the National Organization for the release of political prisoners. As the country anticipates the presidential election, southern candidates are secretly courting northern voters, allegedly plotting against Tamil interests in the North and East. The statement urges Tamil nationalists to resist these efforts and highlights concerns about chauvinist parties influencing Tamil votes. It calls for recognition of Tamil self-determination by the international community and punishment for war crimes in the International Criminal Court. The text also criticizes politicians for exploiting Tamil issues for personal gain, emphasizing the importance of political integrity and the need to remove chauvinist elements from politics.
-
-🟩
-
-The Tamils ​​are not ready to rely on the genocide and the co -ordinator of the National Organization for the release of political prisoners, said Aruttandanda Ma Sathivel.
-
-While the country is looking forward to the presidential election, those who are considered to be the leading candidates of the South appear to be in the north of their electoral market, holding a secret talks with their agents and are trying to make the Tamil people in the North and East.. We urge the Tamil nationalists not to get into their plot.
-
-People know those who act as direct agents of chauvinist parties among Tamils ​​in the Northeast. In the Tamil nation, the crowd, which publicly plays the source of nationality and the origin of self -determination, has now begun to act in public as a companion for genocide.
-
-And to whom it is a friendly speech, a smooth talk, a confident talk, and the speech to continue?
-
-...
-
-[Data](articles/e2027288.json)
-
-[Extended Data](ext_articles/e2027288.ext.json)
 
 ---

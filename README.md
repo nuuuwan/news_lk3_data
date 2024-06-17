@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 10:08:08**
+As of **2024-06-17 09:54:06**
 
 ## Newspaper Stats
 
@@ -26,63 +26,51 @@ adaderanasinhalalk | 4,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,643 (100.0%) of 30,657 articles have been extended.
+30,633 (99.9%) of 30,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### Young woman arrested at the airport trying to go to UK
+### UK செல்ல முயன்ற இளம் பெண் விமான நிலையத்தில் கைது
 
 *2024-06-17 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UK-செல்ல-முயன்ற-இளம்-பெண்-விமான-நிலையத்தில்-கைது/175-339003) · `ta`
 
-A 24-year-old woman from Trincomalee was arrested at the airport for attempting to travel to the UK with a fake passport. The arrest came after officials discovered the photo on her passport did not match hers and that her details were on someone else's passport. A broker involved in the scheme was also detained. Both individuals are now under investigation by the Katunayake Airport Criminal Investigation Department.
+போலி கடவுச்சீட்டைப் பயன்படுத்தி ஐக்கிய இராச்சியத்திற்கு செல்ல முயன்ற திருகோணமலை பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய பெண் ஒருவர் விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
 
-🟩
+குறித்த பெண்ணின் பயணத்திற்கு உதவிய தரகர் ஒருவரும் இதன்போது கைது செய்யப்பட்டுள்ளதாக விமான நிலைய குடிவரவு குடியகல்வு அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-A 24 -year -old woman from Trincomalee has been arrested at the airport for trying to travel to the United Kingdom using a fake passport.
+சந்தேகநபரான பெண் அனைத்து அனுமதி நடைமுறைகளையும் முடித்துவிட்டு குடியகல்வு சேவை கரும பீடத்திற்குச் சென்று கடவுச்சீட்டு மற்றும் பிற ஆவணங்களை சமர்ப்பித்துள்ளார்.
 
-Airport Immigration and Emigration officials said that a broker who assisted the woman's journey was also arrested.
+இதன்போது கடவுச்சீட்டில் உள்ள புகைப்படம் அவருடையது அல்ல என்பதைக் கண்டறிந்ததால், அவர் தலைமை குடிவரவு அதிகாரியிடம் அனுப்பி வைக்கப்பட்டுள்ளார்.
 
-After completing all the permit procedures, the suspect has gone to the Emigration Service and submitted passports and other documents.
+இதைத்தொடர்ந்து நடத்தப்பட்ட தொழில்நுட்ப சோதனையில், மற்றொரு பெண்ணின் கடவுச்சீட்டில் இந்த பெண்ணின் தகவல்கள் பதிவு செய்து போலியாக தயாரிக்கப்பட்டுள்ளமை தெரியவந்துள்ளது.
 
-He has been sent to the Chief Immigration Officer as he found that the photo on the passport was not his.
-
-Following the technical testing, it was revealed that the woman's information was recorded on another woman's passport.
-
-Both arrested have been handed over to the Katunayake Airport Criminal Investigation Department officials. Remble
+கைது செய்யப்பட்ட இருவரும் கட்டுநாயக்க விமான நிலைய குற்றப்புலனாய்வு திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர். R
 
 ◼️
 
 [Data](articles/df54eb2f.json)
 
-[Extended Data](ext_articles/df54eb2f.ext.json)
-
 ---
 
-### Sexual Live Sights Sold to China
+### சீனாவுக்கு விற்பனை செய்யப்படும் பாலியல் நேரலை காட்சிகள்
 
 *2024-06-17 08:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவுக்கு-விற்பனை-செய்யப்படும்-பாலியல்-நேரலை-காட்சிகள்/175-339002) · `ta`
 
-A large-scale fraud involving the sale of live sex scenes to a Chinese company has been uncovered by police. A young couple living in Piliyandala were arrested after renting a house there in March. Another couple was found participating in the sex scenes. Four individuals, aged 22, 23, 26, and 27, will be charged in court.
+பாலியல் காட்சிகளை நேரலையாக ஒளிபரப்பு செய்து சீன நிறுவனத்திற்கு விற்பனை செய்யும் பெரிய அளவிலான மோசடியை பொலிஸார் கண்டுபிடித்துள்ளனர்.
 
-🟩
+இச்சம்பவம் தொடர்பில் பிலியந்தலை பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் பிலியந்தலை படகெத்தர பிரதேசத்தில் வாடகை வீட்டில் வசித்து வந்த இளம் தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
 
-Police have discovered a large -scale fraud of selling sex scenes live and selling to a Chinese company.
+விசாரணையின் போது, முன்னர் ​​கொள்ளுப்பிட்டியில் வசித்த குறித்த தம்பதியினர் கடந்த மார்ச் மாதம் இந்த வீட்டை வாடகைக்கு எடுத்துள்ளதாக தெரியவந்துள்ளது.
 
-Based on information received by the Piliyandala police regarding the incident, a young couple who lived in a rented house in the Piliyandalai area has been arrested.
+மேலும், பொலிஸ் சோதனையின் போது, ​​மற்றொரு ஜோடி குறித்த வீட்டில் இருந்து, பாலியல் காட்சியில் நேரடியாக ஈடுபட்டது கண்டறியப்பட்டது.
 
-During the investigation, it was revealed that the couple had rented the house last March.
-
-Also, during the police raid, it was found that another couple was directly involved in the sex scene from the house.
-
-Meanwhile, two couples aged 22, 23, 26 and 27 are to be produced in court, police say they are to be produced in court.. Remble
+இதேவேளை, கைது செய்யப்பட்ட 22, 23, 26 மற்றும் 27 வயதுடைய இரு ஜோடிகளும் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளதாக பொலிஸார் குறிப்பிடுகின்றனர். R
 
 ◼️
 
 [Data](articles/c461e14c.json)
-
-[Extended Data](ext_articles/c461e14c.ext.json)
 
 ---
 
@@ -98,8 +86,6 @@ India’s Adani Group, which has committed SL’s single largest FDI in the powe
 
 [Data](articles/26228d52.json)
 
-[Extended Data](ext_articles/26228d52.ext.json)
-
 ---
 
 ### SANASA empowering undergraduates for career success
@@ -111,8 +97,6 @@ An awareness program to develop knowledge and skills of young graduates to contr
 ...
 
 [Data](articles/321b0cd1.json)
-
-[Extended Data](ext_articles/321b0cd1.ext.json)
 
 ---
 
@@ -132,8 +116,6 @@ On July 27, the pristine beaches of Pegasus Reef will come alive with the sounds
 
 [Data](articles/6210f32f.json)
 
-[Extended Data](ext_articles/6210f32f.ext.json)
-
 ---
 
 ### Cargills Bank Wattala relocated
@@ -145,8 +127,6 @@ Cargills Bank – Wattala has been relocated to 182, Negombo Road, Wattala, with
 ...
 
 [Data](articles/b85bd2c9.json)
-
-[Extended Data](ext_articles/b85bd2c9.ext.json)
 
 ---
 
@@ -164,8 +144,6 @@ The new location boasts enhanced amenities and a modern design, ensuring a more 
 
 [Data](articles/e2b28c7d.json)
 
-[Extended Data](ext_articles/e2b28c7d.ext.json)
-
 ---
 
 ### Ceylon Chamber commends board-level agreement on second IMF review
@@ -179,8 +157,6 @@ This agreement provides Sri Lanka with immediate access to approximately SDR 254
 ...
 
 [Data](articles/3bb25806.json)
-
-[Extended Data](ext_articles/3bb25806.ext.json)
 
 ---
 
@@ -200,33 +176,23 @@ The Bank of Ceylon has distributed 327 grants – a share of 21.1% of the total 
 
 [Data](articles/5ff05f17.json)
 
-[Extended Data](ext_articles/5ff05f17.ext.json)
-
 ---
 
-### It is difficult to reduce the model
+### ’குறைப்பது கடினம்’
 
 *2024-06-17 01:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைப்பது-கடினம்/175-338997) · `ta`
 
-Despite global lubricant price drops, immediate fuel price reductions in Sri Lanka are challenging due to the country's reliance on imported and refined fuel, influenced by international market prices, particularly from Singapore. About 35% of Sri Lanka's fuel demand is met through imports. While the cost of lubricant oil has decreased significantly since last September, affecting overall fuel prices, the situation remains complex.
+உலக சந்தையில் மசகு எண்ணெய் விலை குறைவடைந்துள்ள போதிலும், நாட்டில் எரிபொருட்களின் விலைகளை உடனடியாக குறைப்பது கடினமென மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
 
-🟩
+அரசாங்கத்தினால் அங்கீகரிக்கப்பட்ட கொள்வனவு நடவடிக்கைகளின் பிரகாரம், இலங்கையில் எரிபொருள் விலை குறைப்பு முறையாக மேற்கொள்ளப்பட வேண்டுமென அதன் செயலாளர் சுலக்‌ஷன ஜயவர்தன தெரிவித்துள்ளார்.
 
-The Ministry of Power and Energy has said that despite the decline in lubricant prices in the world market, it is difficult to reduce the prices of fuels in the country immediately.
+சிங்கப்பூர் வர்த்தகக் குறியீட்டின்படி சுத்திகரிக்கப்பட்ட எரிபொருள் நாட்டிற்கு இறக்குமதி செய்யப்படுகிறது. இதன்படி, அங்கு தீர்மானிக்கப்படும் விலைகளுக்கு அமைய இலங்கையில் எரிபொருள் விநியோகிக்கப்பட வேண்டுமெனவும் செயலாளர் குறிப்பிட்டுள்ளார்.
 
-According to the government -approved purchases, fuel prices should be carried out in Sri Lanka.
-
-The refined fuel is imported according to the Singapore Business Index. Accordingly, the secretary also stated that fuel supply should be supplied in Sri Lanka in accordance with the prices that are determined there.
-
-Sulakshana Jayawardena also said that about 35 per cent of the country's total demand is imported and refined, and that the prices of refined fuel in accordance with world market prices cannot be corrected.
-
-However, Professor Vasantha Attukorala of the Economics University of Peradeniya University said that the price of lubricant oil fell by 27 per cent compared to last September.
+நாட்டின் மொத்தத் தேவையில் சுமார் 35 சதவீதமான மசகு எண்ணெய் இறக்குமதி செய்யப்பட்டு சுத்திகரிக்கப்படுவதால், உலக சந்தை விலைகளுக்கு அமைவாக சுத்திகரிக்கப்பட்ட எரிபொருளின் விலைகளில் திருத்தம் மேற்கொள்ள முடியாதெனவும் சுலக்‌ஷன ஜயவர்தன கூறினார்.
 
 ...
 
 [Data](articles/9494fb1c.json)
-
-[Extended Data](ext_articles/9494fb1c.ext.json)
 
 ---
 

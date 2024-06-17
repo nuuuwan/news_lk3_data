@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 19:34:47**
+As of **2024-06-17 19:53:09**
 
 ## Newspaper Stats
 
-*Scraped **30,811** Articles*
+*Scraped **30,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,783
 dailyftlk | 1,873
 adalk | 2,672
 adaderanalk | 3,493
-tamilmirrorlk | 3,612
+tamilmirrorlk | 3,613
 dailymirrorlk | 4,733
-virakesarilk | 4,738
+virakesarilk | 4,741
 adaderanasinhalalk | 4,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,809 (100.0%) of 30,811 articles have been extended.
+30,811 (100.0%) of 30,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
+
+### பசறையில் வீதியை விட்டு விலகி மோட்டார் சைக்கிள் விபத்து; இருவர் பலத்த காயம்
+
+*2024-06-17 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186312) · `ta`
+
+லுணுகலை பசறை வீதியில் ஹொப்டன் 154 ஆவது மைல் கல்லுக்கு அருகில் மோட்டார் சைக்கிள் ஒன்று திங்கட்கிழமை (17) மாலை வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் இருவர் பலத்த காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக லுணுகலை பொலிஸார் தெரிவித்தனர்.
+
+49,50 வயதுடைய அசேலபுர பதுளை , ஹிந்தகொட பதுளை பகுதியை சேர்ந்த இருவரே இவ்வாறு காயமடைந்துள்ளனர்.
+
+லுணுகலையில் இருந்து பதுளை நோக்கி சென்று கொண்டிருந்த மோட்டார் சைக்கிள் ஒன்று லுணுகலை பொலிஸ் பிரிவிற்கு உட்பட்ட ஹொப்டன் 154 ஆவது மைல் கல்லுக்கு அருகில் வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் இருவர் பலத்த காயமடைந்த நிலையில் ஹொப்டன் பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் மேலதிக சிகிச்சைகளுக்காக பதுளை பொது வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சிகிச்சை பெற்று வருவதாக லுணுகலை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5126dd35.json)
+
+---
+
+### 19ஆம் திகதியிலிருந்து வானிலையில் மாற்றம்
+
+*2024-06-17 19:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19ஆம்-திகதியிலிருந்து-வானிலையில்-மாற்றம்/175-339035) · `ta`
+
+19ஆம் திகதியிலிருந்து அடுத்த சில நாட்களில் மழை நிலைமை சற்று அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/a2b268c2.json)
+
+---
 
 ### Ex-President Sirisena reveals reason he resigned as SLFP chairman
 
@@ -46,31 +78,61 @@ Speaking to the media in Galle, Sirisena said: “If I did not resign from my po
 
 [Data](articles/853c35f8.json)
 
+[Extended Data](ext_articles/853c35f8.ext.json)
+
 ---
 
-### වතුර නැති﻿කළ පිපිරීම - CCTV දර්ශන එළියට
+### யாழில் கடலட்டை உற்பத்தி அபரீதமான வளர்ச்சியை அடைந்துள்ளது - அமைச்சர் டக்ளஸ் தேவானந்தா
 
-*2024-06-17 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197856) · `si`
+*2024-06-17 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186311) · `ta`
 
-කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළය අද (17) අලුයම සිදුවු අනතුරකින් පුපුරා ගිය අතර එම අනතුර සිදුවන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් අප වෙත ලැබී තිබේ.
+வாய்ப்புக்களைச் சாதகமாகப் பயன்படுத்தி எமது மக்களை வலுப்படுத்த வேண்டும் என்ற எண்ணத்தின் வெளிப்பாடாகவே கடலட்டை உற்பத்தி அபரீதமான வளர்ச்சியை அடைந்துள்ளது என அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
 
-අනතුරින් පසුව කොළඹ දිස්ත්‍රික්කයේ ප්‍රදේශ ගණනාවකට ජල සැපයුම අඩාල වුණි.
+யாழ். மாவட்ட கடலட்டைப் பண்ணையாளர்களுடன் திங்கட்கிழமை (17) இடம்பெற்ற கலந்துரையாடலின் போதே மேற்கண்டவாறு தெரிவித்தார்.
 
-එම නළය පුපුරා ගියේ හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී මෝටර් රථයක් අද අලුයම 2ට පමණ එහි ගැටී සිදුවූ අනතුරකින් ය.
+யாழ் மாவட்டத்தில் சீனர்கள் கடலட்டை பண்ணை தொழிலில் ஈடுபடுவதாக நாடாளுமன்ற உறுப்பினர் அண்மையில் தெரிவித்த கருத்தைக் கோடிட்டுக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா, தற்போது கடலட்டை தொடர்பான தொழிலில் ஈடுபடுவதற்கு யாழ் மாவட்டத்தில் சீனர்கள் எவரும்  அனுமதிக்கப்படவில்லை.
 
-ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කළේ, ජල සැපයුම අද මධ්‍යම රාත්‍රිය වන විට යථාතත්ත්වයට පත්කිරීමට හැකිවනු ඇති බවය.
+நல்லாட்சியில் கடலட்டை குஞ்சு உற்பத்திக்காக  அனுமதிக்கப்பட்ட சீன நிறுவனமும்,  தற்போதை  நல்லாட்சி காலத்தில் வெளியேற்றப்பட்டுள்ளதுடன், நூறு வீதம் யாழ் மாவட்டத்தினை சேர்ந்தவர்களே யாழ்ப்பாணத்தில் ஈடுபட்டுள்ளனர்.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ අධික වේගයෙන් ධාවනය වී ඇති මෝටර් රථය ගොඩගම ප්‍රදේශයේදී මාර්ගයෙන් ඉවතට ධාවනය වී නළයේ ගැටී පෙරළී ගොස් ඇති බවය.
-
-අනතුර සමග යාබඳව පිහිටි විදුලි රැහැන් කණු දෙකක්ද ජල පහරේ වේගයට කඩාවැටෙනු දක්නට ලැබිණි.
-
-සිදුවූ ජල කාන්දුව නිසා කලටුවාවේ සිට අදාළ නළය ඔස්සේ සිදුකරන ජල සැපයුම නතර කිරීමට ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය අද උදෑසන පියවර ගත්තේය.
-
-ඒ අනුව ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවලට ජල සැපයුම අද අලුයම සිට අඩාල වුණි.
+சிறப்பான பொருளாதார நன்மைகளை வழங்கிவரும் கடலட்டை உற்பத்திகளை மேலும் விரிவாக்கம் செய்து முன்கொண்டு செல்வதற்கு, பண்ணையாளர்கள் நடைமுறை ரீதியாக உணர்ந்து கொண்ட சவால்களுக்கு தீர்வு கிடைக்க வழிவகை செய்யப்படும்.
 
 ...
 
+[Data](articles/c97c1f2b.json)
+
+---
+
+### The explosion that lost water - CCTV scenes out
+
+*2024-06-17 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197856) · `si`
+
+A major water pipeline near the Kalatuwawa Water Treatment Plant exploded, disrupting water supply to several areas in the Colombo district, including Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattragoda. The incident occurred early morning when a vehicle hit the pipe, causing it to burst. Two people were injured and taken to hospital. Authorities are working to restore water supply and investigate the cause.
+
+🟩
+
+The main tube carrying water from the Kalatuwawa Water Treatment Plant exploded today (17).
+
+The water supply was hampered with several areas in the Colombo district following the accident.
+
+The pipe was erupted in the Godagama area of ​​the Heylevel road around 2nd this morning.
+
+The National Water Supply and Drainage Board announced that the water supply would be able to restore the development of the water.
+
+The Ada Derana reporter said that the car was running out of the pipe and collided with the pipe.
+
+Two of the electrical wire pillars along the accident and collapsed on the water.
+
+The National Water Supply and Drainage Board took action to stop the water supply of water from theater from theater from the water leak.
+
+Accordingly, the water supply from Godagama, Homagama, Pannipitiya, Pelanwatta and Mattragoda were hampered from this morning.
+
+Meanwhile, two persons including the accident have been injured and rushed to the Homagama Hospital.
+
+◼️
+
 [Data](articles/a6f1a421.json)
+
+[Extended Data](ext_articles/a6f1a421.ext.json)
 
 ---
 
@@ -145,6 +207,18 @@ The police said that the name of the complaints are currently receiving treatmen
 [Data](articles/4506e437.json)
 
 [Extended Data](ext_articles/4506e437.ext.json)
+
+---
+
+### மோடியின் மூன்றாம் கட்ட ஆட்சியில் இந்திய - சீன உறவுகள்
+
+*2024-06-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186306) · `ta`
+
+"சீன நிதி மற்றும் மேம்பாட்டுக்கான தேசிய நிறுவனத்தின் அறிக்கையின்படி, பெயரளவிலான மொத்த உள்நாட்டு உற்பத்தியின் பங்காக மொத்த நிலுவையில் உள்ள நிதியல்லாத கடனை அளவிடும் மேக்ரோ லிவரேஜ் விகிதம், 2023 இல் 287.8 வீதமாக உயர்ந்துள்ளது. இது ஒரு வருடத்திற்கு முன்பு இருந்ததை விட 13.5 சதவீதம் அதிகமாகும் என குறிப்பிட்டுள்ளது. அதேசமயம் இந்தியாவின் விகிதம் அதே ஆண்டில் சீனாவுடன் ஒப்பிடுகையில் 18.7 சதவீதமாக குறைந்துள்ளது. இரு நாடுகளுமே வலுவான தேசியவாத நலன்களைக் கொண்டுள்ளன"
+
+◼️
+
+[Data](articles/0b73bee9.json)
 
 ---
 
@@ -2305,115 +2379,5 @@ Rupee strengthening also reduces the rupee value of dollar debt. Lower prices fr
 [Data](articles/d9aa9a33.json)
 
 [Extended Data](ext_articles/d9aa9a33.ext.json)
-
----
-
-### There is no appropriate environment in the country to make an experiment: only leader Ranil - Prasanna Ranatunga
-
-*2024-06-17 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186231) · `ta`
-
-Minister Prasanna Ranatunga highlights the urgency for citizens to decide on participating in further examinations amidst the country's economic downturn. Leaders from United People's Power and National People's Power indirectly endorse Ranil Wickremesinghe's continuation as president to navigate the economic crisis. Ranatunga expresses personal support for Wickremesinghe, citing his experience and international connections. He addresses concerns over political instability and the importance of choosing leaders based on the country's needs rather than personal preferences.
-
-🟩
-
-People have to decide whether to make an examination attempt in the presidential election and ask for another time. Minister of Urban Development and Housing Prasanna Ranatunga urges people to decide whether to go to many more tests and eat another time, while the country's economy has collapsed.
-
-Leaders of the United People's Power and National People's Power have indirectly accepted that the country could be recovered from the economic crisis by continuing the current president's program and that there was no choice but to re -appoint Ranil Wickremesinghe as president.
-
-Responding to questions raised by journalists after attending a meeting held on Sunday (16) in Minuwangoda, the Minister said this.
-
-Answer - Yes, of course the election must be held. Constitutionally, the presidential election must be held this year.
-
-Question - Looks like there is no election.Is this a lie?
-
-...
-
-[Data](articles/a3394dfe.json)
-
-[Extended Data](ext_articles/a3394dfe.ext.json)
-
----
-
-### A shop selling a religious conflict - two arrested
-
-*2024-06-17 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186230) · `ta`
-
-In Menikhinna, Kandy, a shop allegedly sold religious conflicts, leading to the arrest of two suspects worth 2 million rupees. The operation, directed by the Chief Inspector of the Criminal Investigation Division, targeted a black market dealing in religious artifacts, including items purchased by schoolchildren without proper recommendations.
-
-🟩
-
-A total of 50,000 religious conflicts have been discovered in a roundup of information received that a religious conflict was being sold at a shop in Menikhinna, Kandy.
-
-Accordingly, two men were arrested on Sunday (16) on suspicion.
-
-The value of these conflicts rolls is about 2 million rupees, police said.
-
-Police are investigating the information received by the police that even though school children have been bought from here, even though they are unable to buy a religious conflict without the recommendation of the local doctor.
-
-The raid was carried out by the Chief Inspector of the Criminal Investigation Division, Chintaka Bandara, according to the direction of the Chief Inspector of the Menikhinna Police Station, MD Chandrapala.
-
-◼️
-
-[Data](articles/abe5edd6.json)
-
-[Extended Data](ext_articles/abe5edd6.ext.json)
-
----
-
-### Sexual Live Sights Sold to China
-
-*2024-06-17 08:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவுக்கு-விற்பனை-செய்யப்படும்-பாலியல்-நேரலை-காட்சிகள்/175-339002) · `ta`
-
-A large-scale fraud involving the sale of live sex scenes to a Chinese company has been uncovered by police. A young couple living in Piliyandala were arrested after renting a house there in March. Another couple was found participating in the sex scenes. Four individuals, aged 22, 23, 26, and 27, will be charged in court.
-
-🟩
-
-Police have discovered a large -scale fraud of selling sex scenes live and selling to a Chinese company.
-
-Based on information received by the Piliyandala police regarding the incident, a young couple who lived in a rented house in the Piliyandalai area has been arrested.
-
-During the investigation, it was revealed that the couple had rented the house last March.
-
-Also, during the police raid, it was found that another couple was directly involved in the sex scene from the house.
-
-Meanwhile, two couples aged 22, 23, 26 and 27 are to be produced in court, police say they are to be produced in court.. Remble
-
-◼️
-
-[Data](articles/c461e14c.json)
-
-[Extended Data](ext_articles/c461e14c.ext.json)
-
----
-
-### Hajj festival is today
-
-*2024-06-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197835) · `si`
-
-Today marks the Hajj festival, a significant event in Islam celebrated on the 17th. The Colombo Maha Church also made an announcement today, following last week's events. Known as Dul Hajj, it falls on the 10th day of Dul Hijjah, emphasizing unity and equality among believers. This festival, held in Saudi Arabia, is seen as a glorious opportunity for spiritual growth and fostering global peace.
-
-🟩
-
-The Hajj festival of Islam has been played today (17).
-
-The Colombo Maha Church was announced that the Colombo Maha Church was announced today after looking last week.
-
-According to the Islamic month, the Dul Hajj on the 10th day of Dul ​​Hajjay is known as the Tenn.
-
-The last responsibility of the five main responsibilities of the Islamic devotees will definitely the last responsibility.
-
-The main objective of the Hajj festival is the main objective of the Hajj festival, the remote gap and different divisions.
-
-The Hajj Paldeana Hajj festival of Saudi Arabia is considered the glorious opportunity of the Hajj festival.
-
-Meanwhile, President Ranil Wickremesinghe said that he had a message on behalf of the Hajj festival, President Ranil Wickremesinghe said that he should be familiar with self-saving and harmony.
-
-President Ranil Wickremesinghe said that the emotions of the equality and brotherhood of all men and brotherhood will be given a great message for world peace.
-
-◼️
-
-[Data](articles/41ccbdf4.json)
-
-[Extended Data](ext_articles/41ccbdf4.ext.json)
 
 ---

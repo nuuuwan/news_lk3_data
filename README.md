@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-17 13:54:12**
+As of **2024-06-17 14:06:32**
 
 ## Newspaper Stats
 
-*Scraped **30,756** Articles*
+*Scraped **30,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,198 @@ newsfirstlk | 363
 islandlk | 1,682
 economynextcom | 1,781
 dailyftlk | 1,873
-adalk | 2,662
-adaderanalk | 3,485
-tamilmirrorlk | 3,607
+adalk | 2,663
+adaderanalk | 3,486
+tamilmirrorlk | 3,610
 virakesarilk | 4,721
 dailymirrorlk | 4,733
-adaderanasinhalalk | 4,983
+adaderanasinhalalk | 4,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,755 (100.0%) of 30,756 articles have been extended.
+30,756 (100.0%) of 30,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-17 (Monday)
 
-### කළුතර කටුකුරුන්ද  ප්‍රදේශයේ ඝාතන සිද්ධියේ ප්‍රධාන සැකකරු අල්ලයි
+### ඉන්දියාවේ බිහිසුණු දුම්රිය අනතුරක් - 15ක් මරුට
 
-*2024-06-17 13:16:34* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-කටුකුරුන්ද--ප්‍රදේශයේ-ඝාතන-සිද්ධියේ-ප්‍රධාන-සැකකරු-අල්ලයි/11-410261) · `si`
+*2024-06-17 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197847) · `si`
 
-කළුතර කටුකුරුන්ද  ප්‍රදේශයේ නිවසකට කඩා වැදි පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ ප්‍රධාන සැකකරු  මීගොඩ ගොඩගම නිවසක සැඟව සිටියදී අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ දිසාව අපරාධ කොට්ඨාසය කියයි.
+ඉන්දියාවේ බටහිර බෙංගාලයේ සිදුවූ දුම්රිය අනතුරකින් පුද්ගලයින් 15 දෙනෙක් මියගොස් 60 දෙනෙක් පමණ තුවාල ලබා තිබේ.
 
-එම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී අනාවරණය වූ තොරතුරු අනුව වෙඩි තැබීමට භාවිතා කරන ලද ටි 56 වර්ගයේ ගිනි අවියක් සහ එම සජීවී පතොරම් 15 ක් කළුතර පළාතොට සූසාන භූමියක සංවා තිබීයදි  සොයාගත් බව පොලිසිය සඳහන් කරයි.
+ඩාර්ජිලින්ග් දිස්ත්‍රික්කයේදී මෙලෙස අනතුරට ලක්ව ඇත්තේ මගී ප්‍රවාහන අධිවේගී දුම්රියක් සහ භාණ්ඩ ප්‍රවාහන දුම්රියක්.
 
-අත්අඩංගුවට ගත් එම සැකකරු විදේශ රටක සිට මෙරට සංවිධානාත්මක අපරාධ මෙහෙයුණු ලබන අපරාධකරුගේ සමීපතමයකු බවට අනාවරණය වී ඇතැයි පොලිසිය කියයි.
+අනතුරට ලක්වූ කන්චන්ජුන්ගා අධිවේගී දුම්රිය ඇසෑම් හි සිල්චාර් හි සිටි කොල්කටා බලා ධාවනය වෙමින් පැවතියේය.
 
-ඉකුත් මැයි  මස 20 වෙනිදින  රාත්‍රියේදී කළුතර දකුණ කටුකුරුන්ද දුම්රිය පොල පාරේ නිවසක සිය දරු තිදෙනා සමග රාත්‍රී ආහාර ගනිමින් සිටි අසුරුමුණි තස්මින් මදුවන්ත සිල්වා නොහොත් කලමුල්ලේ ටශි (38) යන අයට ටී56 ගිනි අවියකින් වෙඩි තබා ඝාතනය කර තිබිණි.
+රන්ගාපානී දුම්රිය ස්ථානය ආසන්නයේදී මගී ප්‍රවාහන දුම්රිය පසුපසින් පැමිණි භාණ්ඩ ප්‍රවාහන දුම්රිය එහි ගැටී අනතුර සිදුව තිබිණි.
 
-එම සිද්ධියෙන්  අනතුරුව සැකකරු   ඝාතනයට ලක්වූ පුද්ගලයාගේ සමීප ඥාතී ව්‍යාපාරිකයන්ට  මරණීය තර්ජනය කරමින් කප්පම් ඉල්ලීමේ සිද්ධීන් කීපයක් සම්බන්ධයෙන් පයාගල පොලිසිය වෙත එම ඥාතීන් විසින් පැමිණිලි කර තිබිණි.
+අනතුරින් පසුව දුම්රිය දෙකම පීලිපැන ඇති අතර තුවාල ලැබූ පුද්ගලයින් 60කට වැඩි පිරිසක් රෝහල්ගත කිරීමට බලධාරීන් පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/f20b24f4.json)
+
+---
+
+### රැකියා දෙන හැටි ජනපති කියයි
+
+*2024-06-17 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197846) · `si`
+
+මෙරට අනාගතය රඳාපවතින්නේ, ඉදිරි වසර 05 තුළ ක්‍රියාත්මක කරනු ලබන ආර්ථික ප්‍රතිපත්ති මත බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මන්නාරම ප්‍රදේශයේ පැවති සමුළුවක් අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ, නිසි ආර්ථික සැලසුමකින් තොරව රට ඉදිරියට ගෙන යා නොහැකි බවය.
+
+"දීප්තිමත් අනාගතයක් සඳහා වූ ගමනක්" මැයෙන් සංවිධාන කළ මන්නාරම දිස්ත්‍රික් තරුණ සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (16) පැවැත්විය.
+
+එහිදී ජනාධිපතිවරයා තරුණ තරුණියන් අතරට ගොස් ඔවුන්ගේ ගැටලු පිළිබඳ සාකච්ඡා කිරීමට කටයුතු කළේය.
+
+රාජ්‍ය අමාත්‍ය කාදර් මස්තාන්, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සෙල්වම් අඩෙක්කලනාදන්, උතුරු පළාත් ආණ්ඩුකාර පී.එස්.එම්. චාර්ල්ස් යන මහත්ම මහත්මීන් සහ පළාතේ දේශපාලන නියෝජිතයන් ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ මන්නාරම දිස්ත්‍රික් ව්‍යාපාරික ප්‍රජාව අතර හමුවක් ද මන්නාරමේ දී ඊයේ පැවැත්විය.
 
 ...
 
+[Data](articles/c0918c96.json)
+
+---
+
+### மாளிகாவத்தை மண்டபத்தில் தீ
+
+*2024-06-17 13:40:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தை-மண்டபத்தில்-தீ/175-339024) · `ta`
+
+கொழும்பு, மாளிகாவத்தை ஜயந்த வீரசேகர மாவத்தையில் அமைந்துள்ள விழா மண்டபம் ஒன்றில் திங்கட்கிழமை (17) தீ பரவியுள்ளதாக மாளிகாவத்தை பொலிஸார் தெரிவித்தனர்.
+
+தீயணைப்பு படையின் இரண்டு தீயணைப்பு வாகனங்கள் வந்து தீயை முழுமையாக அணைத்ததாகவும், உயிர் சேதம் ஏதும் ஏற்படவில்லை என்றும் பொலிஸார் தெரிவித்தனர்.
+
+விழா அரங்கில் ஏற்பட்ட மின்கசிவு காரணமாக தீ விபத்து ஏற்பட்டிருக்கலாம் என பொலிஸார் கருதுகின்றனர்.
+
+◼️
+
+[Data](articles/72f58338.json)
+
+---
+
+### කුලී ආදායම් බද්ද ගැන මුදල් අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-06-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197845) · `si`
+
+ආරෝපිත කුලී ආදායම් බද්ද ගැන පැහැදිලි කරමින් මුදල් අමාත්‍යංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහයෝගීතාව සහිතව ක්‍රියාත්මක වන විස්තීර්ණ මූල්‍ය පහසුකම වැඩසටහන සම්බන්ධව මෑත දී ප්‍රකාශයට පත්කළ ලියවිල්ලෙහි ‘ආරෝපිත කුලී ආදායම් බද්ද‘ ලෙස ක්‍රියාත්මක වීමට නියමිත, යෝජිත දේපොළ බද්ද පිළිබඳව දක්වා ඇති බවයි.
+
+ඒ සම්බන්ධයෙන් විවිධ දුර්මත සමාජය තුළ ඇතිවී තිබෙන බව අදාළ නිවේදනයෙහි දැක්වෙයි.
+
+එම බද්ද තුළින් අවධානය යොමුකර ඇත්තේ සාමාන්‍ය ආදායම් ලබන්නන් කෙරෙහි නොව, ඉහළ වත්කම් සහිත පුද්ගලයන් කෙරෙහි බවත් මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය නිකුත්කළ එම නිවේදනයෙහි සඳහන්  වෙයි.
+
+ඒ සම්බන්ධයෙන් කරුණු පැහැදිලි කරමින් මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය විසින් නිකුත් කළ එම සම්පූර්ණ මාධ්‍ය නිවේදනය පහතින් දැක්වෙයි.
+
+◼️
+
+[Data](articles/cd27578b.json)
+
+---
+
+### Eight killed, 25 injured in India train crash
+
+*2024-06-17 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99927/eight-killed-25-injured-in-india-train-crash) · `en`
+
+Eight people have died and around 25 have been injured in a train crash in the eastern Indian state of West Bengal.
+
+The accident occurred when a goods train hit a stationary passenger train, the Kanchenjungha Express, in the New Jalpaiguri area on Monday morning.
+
+Dramatic footage from the accident site showed one wagon of the express train suspended in the air.
+
+It’s not clear yet what led to the crash but authorities say a detailed investigation will be held.
+
+Authorities say ambulances and disaster teams have been sent to the site for rescue efforts.
+
+“We are trying to complete the rescue operation as soon as possible,” Railway official Sabyasachi De told reporters.
+
+“The preliminary information we have is that the Kanchenjungha Express was hit from the rear by a goods train,” he said, adding that the reason would only be confirmed after investigation.
+
+...
+
+[Data](articles/f8096e33.json)
+
+---
+
+### திருமண பந்தத்தில் இணைந்தார் தரிஜினி
+
+*2024-06-17 13:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருமண-பந்தத்தில்-இணைந்தார்-தரிஜினி/175-339022) · `ta`
+
+இலங்கை வலைப்பந்து நட்சத்திர வீராங்கனை தரிஜினி சிவலிங்கம் திருமண பந்தத்தில் திங்கட்கிழமை (17) இணைந்துகொண்டார்.
+
+◼️
+
+[Data](articles/e6a61eed.json)
+
+---
+
+### ඉදිරි ආණ්ඩුවක අගමැති පත්කරන්නේ පොහොට්ටුවෙන්
+
+*2024-06-17 13:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ආණ්ඩුවක-අගමැති-පත්කරන්නේ-පොහොට්ටුවෙන්/11-410263) · `si`
+
+ඉදිරියේ පත් වන ආණ්ඩුවේ අගමැතිවරයා පත් කිරීම අනිවාර්යෙන්ම පොහොට්ටුවෙන් සිදු වන බව ශ්‍රී ලංකා පොදු ජන පෙරමුණු අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම් චන්ද්‍රසේන මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර, එප්පාවල ප්‍රදේශයේ පැවති ජන හමුවකින් අනතුරුව මාධ්‍යය වෙත අදහස් දක්වමින්ය.
+
+“අනුරාධපුර සල්ගාදු පිටියේ දැවැන්ත රැස්වීම් තියන්නේ අපි, මං දැක්කා සල්ගාදු පිටියේ හට් 03 ක් ගහලා, හට් 03 ක තමයි කට්ටිය හිටියේ, අපි හට් ගහන්නේ නෑ, වේදිකාව හදලා සම්පූර්ණම අපේ ජනතාව හිටගෙන ඉඳලා වාඩිවෙන්නෙත් නෑ, සමහර දවස් වලට වේදිකාවත් කඩාගෙන ඉස්සරහාට එනවා, ආරක්ෂක වැටවල් කඩාගෙන එනවා, මේ රැස්වීමේ එහෙම දෙයක් පෙන්න තිබුණේ නෑ, සල්ගාදු පිටියේ ඔය රැස්වීම අපිට අභියෝගයක් නෙමෙයි, ජනාධිපතිවරණය ප්‍රකාශයට පත් කරපු හැටියේ වෙනදා වගේම සල්ගාදු පිටිය පුරවන්න හයිය ශක්තිය අපිට තියෙනවා, ඔය රැස්වීම ඒ තරම් ලොකු දෙයක් හැටියට අපි සලකන්නේ නෑ.
+
+...
+
+[Data](articles/ecd3743b.json)
+
+---
+
+### Main suspect of the murder of Katukurunda in Kalutara
+
+*2024-06-17 13:16:34* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-කටුකුරුන්ද--ප්‍රදේශයේ-ඝාතන-සිද්ධියේ-ප්‍රධාන-සැකකරු-අල්ලයි/11-410261) · `si`
+
+The main suspect in the murder of Katukurunda, Kalutara, was arrested in a pilogagama house. A Ti 56 Ti-type firearm and 15 rounds of ammunition were found. The suspect, a 41-year-old from Avissawella, is linked to organized crime. Tasami, 38, was killed at the Kalutara South Katukurunda Railway Station on May 20th. Relatives filed a complaint against the suspect and his associates. Investigations are led by Assistant Superintendent of Police Sumith Jayaratakara and Inspector Dyushth Weerasinghe.
+
+🟩
+
+The Central District of the Western Province says that the main suspect was arrested in a pilogagama house in the Katukurunda area in Kalutara.
+
+According to the information revealed, a Ti 56 Ti-type, which was used to shoot, and 15 of those live ammunition were found in Kalutara and 15.
+
+The suspect was revealed that the suspect is a close associate of organized crimes from a foreign country.
+
+On the 20th of May 20, the Kalutara South Katukurunda Railway Station, Tasami, was shot dead by Tasmulla, Tasami (38) in Kalutara.
+
+After that incident, the relatives had lodged a complaint with the payroll of the suspect's general relatives and relative businessmen.
+
+A police officer said that the motorcycle ride and aided in the murder had been arrested and remanded.
+
+The suspect is a 41 year old resident of Avissawella.The Director of the South District Assistant Superintendent of Police, Assistant Superintendent of Police Sumith Jayaratakara, Inspector Dyushth Weerasinghe is conducting investigations.
+
+◼️
+
 [Data](articles/d697e3f5.json)
+
+[Extended Data](ext_articles/d697e3f5.ext.json)
+
+---
+
+### ரயில்கள் மோதின: 15 பேர் உயிரிழப்பு
+
+*2024-06-17 13:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்கள்-மோதின-15-பேர்-உயிரிழப்பு/175-339021) · `ta`
+
+ஒரே தண்டவாளத்தில் பயணித்த ரயில்கள் மோதியதால், 15 பேர் உயிரிழந்தனர் 60 பேர் காயமடைந்தனர் சம்பவம் இந்தியாவில் இடம்பெற்றுள்ளது.
+
+மேற்குவங்க மாநிலம் டார்ஜிலிங் மாவட்டத்தில் ரங்காபாணி ரயில் நிலையம் உள்ளது. இந்த ரயில் நிலையத்தை நோக்கி கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயில் சென்று கொண்டிருந்தது. அப்போது சிக்னல் கிடைக்காததால், ரயில் நிறுத்தப்பட்டது.
+
+அந்த நேரத்தில், கஞ்சன் ஜங்கா ரயில் நின்று கொண்டிருந்த அதே தண்டவாளத்தில் வேகமாக வந்த மற்றொரு சரக்கு ரயில் வந்துள்ளது. கண்ணிமைக்கும் நேரத்தில் இந்த சரக்கு ரயில் முன்னால் நின்றிருந்த கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயிலின் பின்புறத்தில் மோதியது.
+
+இதில் கஞ்சன்ஜங்கா எக்ஸ்பிரஸ் ரயிலின் 3 ரயில் பெட்டிகள் பலத்த சேதமடைந்தன. இந்த பெட்டிகளில் இருந்த 15 பேர் உயிரிழந்துள்ளனர். 60-க்கும் மேற்பட்டோர் காயம் அடைந்துள்ளனர். காயம் அடைந்தவர்கள் மீட்கப்பட்டு சிகிச்சைக்காக மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/575f8101.json)
 
 ---
 
@@ -2117,171 +2275,5 @@ Anuradhapura District Parliamentarian KPS Indigenous from the Sri Lanka General 
 [Data](articles/3b3e54e8.json)
 
 [Extended Data](ext_articles/3b3e54e8.ext.json)
-
----
-
-### Will  the current positions taken by Sajith Premadasa and Anura  Dissanayake Regarding the 13th Amendment  help bring about a positive change in the misconceptions among Sinhalese society about devolution of power?
-
-*2024-06-16 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84206) · `en`
-
-Although many amendments have been brought to the Sri Lankan Constitution during a period of more than four-and-a-half decades, which were detrimental to democratic governance, no major controversy has been raised against them.
-
-However, the 13th Amendment (13A), which has a relatively democratic dimension, has been in the Constitution for more than three-and-a-half decades but has been controversial for a long time.
-
-The 13A, introduced following the July 1987 Indo-Sri Lanka Peace Accord to introduce the system of Provincial Councils (PCs) has not been properly implemented by any government in office so far. Political controversies arise from time to time regarding that amendment. As the country looks ahead to the Presidential Election, there is another possibility of controversy raging regarding the 13A.
-
-...
-
-[Data](articles/4111ec6a.json)
-
-[Extended Data](ext_articles/4111ec6a.ext.json)
-
----
-
-### The proposal by President Ranil Wickremesinghe to grant a six months extension to Sri Lanka’s Attorney General has put the hapless holder of that office in the centre of a vicious political whirlwind
-
-*2024-06-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84201) · `en`
-
-The proposal by President Ranil Wickremesinghe to grant a six months service extension to Sri Lanka’s Attorney General has put the hapless holder of that office in the centre of a vicious political whirlwind that further damages the already badly battered public reputation of the chief law officer of the land.
-
-This must be said clearly and categorically. Absent that extension, the incumbent Attorney General will retire later this month. This controversial proposal has been placed with his customary aplomb by the President before the Constitutional Council (CC) sans any reflection on the grievous impact that this may have on constitutional propriety.
-
-That proposal is now being tossed like a red hot coal by the CC from one week to the next. All this hot air comes in the backdrop of a looming national poll (presidential or parliamentary as the case may be) and in the wake of the President’s favourites in the United National Party (UNP) declaring that polls should be postponed.
-
-...
-
-[Data](articles/d85252c9.json)
-
-[Extended Data](ext_articles/d85252c9.ext.json)
-
----
-
-### Wanarian attack on the guard of railway crossing
-
-*2024-06-16 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197828) · `si`
-
-In Habarana, a railway worker was fatally attacked.
-
-🟩
-
-A person who was working in a railway crossing in the Habarana Puwakpitiya area has died after being attacked.
-
-◼️
-
-[Data](articles/1a1284ce.json)
-
-[Extended Data](ext_articles/1a1284ce.ext.json)
-
----
-
-### Fake police in Colombo;People are the ones who are
-
-*2024-06-16 20:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-போலி-பொலிஸ்-மக்களே-அவதானம்/175-338974) · `ta`
-
-In Colombo, two individuals were robbed by disguised police officers near Kedavalamulla junction. The victims, on a motorbike, lost a mobile phone and wallet containing Rs. 35,000. They later reported to the Maradana police station. A suspect, identified as Fonseka Mawatha, was arrested. The police advise the public to verify the identity of anyone claiming to be a civilian officer through official identification.
-
-🟩
-
-Two people on a motorbike on the 14th of last night, near the Kedavalamulla junction of the Maradana police division, have been robbed by the police officers and robbed a man who was on the road and robbed a mobile phone and wallet worth about Rs.
-
-The complainant said that if they were required, they had escaped with the money to come to the Maradana police station with 35,000 rupees.
-
-Following this, police have arrested a suspect in Maradana yesterday (15) in Maradana Fonseka Mawatha area.
-
-The police are continuing to investigate the motorcycle that he came up with the robbery.
-
-Police have pointed out that the public has the right to confirm the identity by their official identity card when searching for people or property claiming to be civilian police officers in civilian clothes.. Remble
-
-◼️
-
-[Data](articles/dc78f5bf.json)
-
-[Extended Data](ext_articles/dc78f5bf.ext.json)
-
----
-
-### President decides the future of Sri Lanka next 5 years - President
-
-*2024-06-16 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197827) · `si`
-
-President Ranil Wickremesinghe emphasizes that Sri Lanka's future hinges on its economic policies over the next five years, highlighting this during a Youth Conference in Mannar District on April 16th.
-
-🟩
-
-President Ranil Wickremesinghe says that the future of Sri Lanka is determined by the economic policies implemented in the next five years.
-
-The President was speaking at the Mannar District "Youth Conference" and the business community today (16).
-
-◼️
-
-[Data](articles/a65605f0.json)
-
-[Extended Data](ext_articles/a65605f0.ext.json)
-
----
-
-### The government this year's local market Rs. 3380 borrowings
-
-*2024-06-16 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-මේ-වසරේදී-දේශීය-වෙළඳපොළොන්-රු-බි--3380ක්-ණය-අරගෙන/11-410250) · `si`
-
-In summary, the government borrowed Rs. 3380 crore locally in 2023, with significant amounts coming from Treasury Bills and Bonds. Prof. Wasantha Athukorala noted a high monthly average loan amount and substantial spending towards repaying existing debts.
-
-🟩
-
-The government has obtained from the local analysis report on June 31 this year, the central bank analytical report on June 31st from May 31, the central bank analytical record of the University of Peradeniya has been senior.Prof. Wasantha Athukorala said on Monday (15).
-
-The Treasury bills have been obtained from Treasury Bills in 5 months and Rs. 785 billion from Treasury Bonds and the Government. 878 billion in January and Rs. 843 billion in February and Rs. 84 billion in March and Rs.Taken.
-
-The professor also revealed that the average loan received in a month was over Rs.. The Government's loan has also shown a large spending to repay the rest of the loans available to date.
-
-◼️
-
-[Data](articles/da2eec5a.json)
-
-[Extended Data](ext_articles/da2eec5a.ext.json)
-
----
-
-### To the coin to Pakistan
-
-*2024-06-16 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197826) · `si`
-
-Today, the T20 World Cup match between Ireland and Pakistan takes place.
-
-🟩
-
-The match between Ireland and Pakistan of the T20 World Cup will be held today (16).
-
-◼️
-
-[Data](articles/85ee1542.json)
-
-[Extended Data](ext_articles/85ee1542.ext.json)
-
----
-
-### The egg is 55, 800 kg of tomatoes, 1,000 kilos of beans
-
-*2024-06-16 19:32:26* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරය-55යි--තක්කාලි-කිලෝව-800යි-බෝංචි-කිලෝව-1000යි/11-410249) · `si`
-
-Egg prices have surged, reaching up to Rs. 55 in some regions due to shortages. Tomatoes now cost up to Rs. 600 per kg, while raw chillies are priced at Rs. 500/kg. A coconut and its oil have increased in price, as have several types of rice, with Samba rice costing up to Rs. 250/kg, Ponni Samba at Rs. 290/kg, and red milk rice at Rs. 310/kg. No price controls have been set for rice.
-
-🟩
-
-Retail prices of an egg is rise again and in some areas retail Rs.. Up to 55 up to 55. There are also a shortage of eggs in some areas.
-
-Retail price of a kilogram of tomatoes has been Rs.. Up to 600 and a kilogram of raw chillies is Rs.. Up to 500 to 500.
-
-The price of a coconut is Rs.. The price of a bottle of coconut oil has risen to Rs. 600.
-
-Maximum retail price of a kilogram of Samba rice is Rs. 230, but Rs. 230. 240 - Rs. Up to 250. Ponni Sama Rs. 290, red milk rice prices for Rs. 300 - 300. The cost is being sold at a price of Rs. 310.
-
-Dadu rice costs Rs. 205 Red Kakuli Rice Rs. Sambal is being sold for 190 and sales Samba rice from various names. However, no control price has been published for rice.
-
-◼️
-
-[Data](articles/53e5afcf.json)
-
-[Extended Data](ext_articles/53e5afcf.ext.json)
 
 ---

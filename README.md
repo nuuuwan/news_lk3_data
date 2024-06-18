@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 17:55:27**
+As of **2024-06-18 18:13:42**
 
 ## Newspaper Stats
 
-*Scraped **30,968** Articles*
+*Scraped **30,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,80 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,694
+adalk | 2,696
 adaderanalk | 3,511
-tamilmirrorlk | 3,635
+tamilmirrorlk | 3,636
 dailymirrorlk | 4,733
 virakesarilk | 4,767
-adaderanasinhalalk | 5,029
+adaderanasinhalalk | 5,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,967 (100.0%) of 30,968 articles have been extended.
+30,968 (100.0%) of 30,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### කැලයේ අතරමං වූ කුඩා දරුවෙක් සොයාගනී
+### බස් - බයික් අනතුරෙන් තරුණයෙක් මරුට
+
+*2024-06-18 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197892) · `si`
+
+බණ්ඩාරවෙල - බදුල්ල මාර්ගයේ දික්අරාව වංගුවේදි බදුල්ල සිට බණ්ඩාරවෙල දක්වා ගමන් කළ පුද්ගලික බස් රථයකට යතුරුපැදියක් ගැටීමෙන් අනතුරක් සිදුවිය.
+
+අප වාර්තාකරු පැවසුවේ බණ්ඩාරවෙල සිට වැල්ලවායට දෙසට ගමන් ගත් යතුරුපැදිය ලිස්සා ගොස් පැදිකරුගේ හිස බස් රථයේ පසුපස රෝදයට සිරවී ඔහු  ජීවිතක්ෂයට පත්වී ඇති බවයි.
+
+මියගිය තරුණයා අවුරුදු 19ක වැල්ලවාය ප්‍රදේශයේ අයෙක් බව හඳුනාගෙන තිබේ.
+
+◼️
+
+[Data](articles/c45ec475.json)
+
+---
+
+### A small child who is lost in the jungle
 
 *2024-06-18 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197891) · `si`
 
-ඩන්කන් වතුයායේ ඊයේ (17) රාත්‍රියේ අතුරුදන්ව සිටි සිව් හැවිරිදි පිරිමි දරුවා මෙලෙස අද (18) උදෑසන සොයාගෙන ඇති බව වාර්තා වෙයි.
+A young boy got lost in the jungle after a wedding ceremony at Norwood. He wandered off and fell into a drain, where he was found weak from hunger. The search involved local police and residents.
 
-නොර්වුඩ් පොලීසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක ප්‍රියංකර කොහොල්දෙණිය මහතා පැවසුවේ නල්ලතන්නිය ලක්ෂපාන ප්‍රදේශයේ පදිංචිව සිටි සිවනාදන් අභිලාෂ් නමැති දරුවා මෙලෙස සොයාගත් බවය.
+🟩
 
-එම දරුවා ඊයේ (17) සිය දෙමාපියන් සමග නොර්වුඩ් ප්‍රදේශයේ ඥාති නිවසක පැවැති විවාහ මංගල්‍ය උත්සවයකට පැමිණ ඇති අතර එහිදී දරුවා අසල තිබූ ලඳු කැලෑවට ඇතුළුවී තිබෙන බව මූලික විමර්ශනවලදී හෙළිවී ඇත.
+The four-year-old boy who was disappeared at Dunanka Estate last night, reports say.
 
-පසුව නැවත නිවසට පැමිණීමට මාර්ගය සොයා ගැනීමට නොහැකිවීමෙන් කැලය තුළ අතරමංවී තිබේ.
+Norwood Police OIC Inspector Priyankara Kohondankara said that Nallataniya resident of Sivanathan Amazish, Nallataniya, a resident of Laxapana.
 
-ඒ අනුව පොලීසිය සහ ප්‍රදේශවාසීන් එක්ක සෝදිසි කිරීම් සිදුකර තිබෙන අතර අද (18) උදෑසන ලඳු කැලෑවේ කාණුවක වැටී සිටියදී දරුවාව සොයාගෙන තිබුණි.
+The child had come to a wedding ceremony held at Norwood, Norwood yesterday (17), where the child had entered the coastal fortification.
 
-ආහාර නොමැතිවීම හේතුවෙන් දරුවා සොයාගත් අවස්ථාවේ ඔහු දුර්වලවී සිටි බවත් පොලීසිය පවසයි.
+Later, he is not able to find the way back home and lost in the jungle.
+
+Accordingly, the police and the residents have been inspected and the child was found while falling on a drain today.
+
+Police say that he was weak when the child was recovered due to lack of food.
 
 ◼️
 
 [Data](articles/a147a1c7.json)
+
+[Extended Data](ext_articles/a147a1c7.ext.json)
+
+---
+
+### முஸ்லிம்களிடம் மன்னிப்பு கேட்டார் ஜனாதிபதி
+
+*2024-06-18 17:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களிடம்-மன்னிப்பு-கேட்டார்-ஜனாதிபதி/175-339083) · `ta`
+
+கொரோனா  காலப்பகுதியில் உடல்களை தகனம் செய்ததன் மூலம்   முஸ்லிம் மக்களுக்கு பாரியளவில் மனம் புண்படும் நிலைமை ஏற்பட்டமை தொடர்பில் முஸ்லிம் மக்களிடம் மன்னிப்பு கோருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொரோனாவினால மரணித்தோரின் உடல்கள் தகனம் செய்யப்பட்டமை தொடர்பில், பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (18)  இடம்பெற்ற வாதப் பிரதிவாதத்தின் போதே இவ்வாறு தெரிவித்த ஜனாதிபதி மேலும் கூறுகையில்,
+
+இந்த நாட்டில் யாருக்கு வேண்டுமானாலும்  தங்களது உடலை  அடக்க வேண்டுமா தகனம்   வேண்டுமா என்பது தொடர்பில் தீர்மானிக்கும் உரிமை இருக்க வேண்டும். அதனால் மரணித்த நபர் ஒருவரின் சடலத்தை நல்லடக்கம் செய்தல், தகனம் செய்தல் அல்லது சடலத்தை வைத்திய பீடத்துக்கு வழங்குதல் தொடர்பான உரிமையை வழங்குதல் தொடர்பில் சட்டம்   விடயத்துக்கு பொறுப்பான அமைச்சரினால் கொண்டுவரப்படவுள்ளது.
+
+...
+
+[Data](articles/e8383737.json)
 
 ---
 
@@ -95,6 +133,22 @@ The Constitutional Council convened this evening at the Parliament building head
 [Data](articles/fef5a1b5.json)
 
 [Extended Data](ext_articles/fef5a1b5.ext.json)
+
+---
+
+### හෙද හෙදියන් නෙමැතිවීමෙන් දිසා රෝහලක් වැසීමේ අවදානමක
+
+*2024-06-18 16:51:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-හෙදියන්-නෙමැතිවීමෙන්-දිසා-රෝහලක්-වැසීමේ-අවදානමක/11-410292) · `si`
+
+මීරිගම දිසා රෝහලේ ප්‍රමාණවත් හෙද හෙදියන් නොමැති වීමෙන් රෝගීන්ට සේවා සැපයීමට නොහැකි තත්වයක් පත්ව ඇති බව ඒහි හෙද කාර්ය මණ්ඩලය පවසයි. මේ හේතුවෙන් පසුගිය දිනක ඔවුන් දවස පුරා ලෙඩ නිවාඩු දමා විරෝධතාවක නිරතවූහ. මින් රෝහල් දෛනික කටයුතුවලට බාධා සිදුවූ බව වාර්තා වෙයි.
+
+දිසා රෝහලක් ලෙස මෙහි සේවා කටයුතු පවත්වාගෙන යෑම සඳහා හෙද හෙදියන් 100ක පමණ අවශ්‍යතාවක් වුවත් දැනට සේවයේ නිරතව ඇත්තේ හෙද හෙදියන් 49ක් පමණක් බවත් සමස්ථ ලංකා හෙද සංගමයේ මීරිගම රෝහල් ප්‍රධාන සංවිධායක රුවන් අබේසිංහ මහතා පවසා සිටියි.
+
+වත්මන් සෞඛ්‍ය අමාත්‍යවරයා පසුගිය මාර්තු මාසයේදී රෝහලට පැමිණි අවස්ථාවේ මෙම ගැටළුව පිළිබඳ දැනුවත් කලද මේ දක්වා ඒ් සම්බන්ධ කිසිදු ප්‍රතිචාරයක් ලැබී නොමැතිබවද ඒ් මහතා තවදුරටත් පවසා සිටියේය.
+
+◼️
+
+[Data](articles/ce185ec3.json)
 
 ---
 
@@ -1091,6 +1145,22 @@ He said that this was a special statement in Parliament, the President wanted to
 [Data](articles/3e979100.json)
 
 [Extended Data](ext_articles/3e979100.ext.json)
+
+---
+
+### හෙට සිට ආයෙත් වැස්ස වැඩි වෙයි
+
+*2024-06-18 12:12:32* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-ආයෙත්-වැස්ස-වැඩි-වෙයි/11-410283) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින්‍ය වැසි තත්ත්වයේ තරමන වැඩිවීමක් හෙට (19) දින්‍ සිට ඉදිරි දින්‍ කිහිපයේදි බලාපොරොත්තු වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවත් බස්නාහිර හා සබරගමුව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ  හෝ රාත්‍රී කාලයේ ස්ථාන ස්ල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමෙන්තුව කියයි.
+
+◼️
+
+[Data](articles/016fc069.json)
 
 ---
 
@@ -2289,109 +2359,5 @@ New Zealand scored the bowled out for three wickets in 12 overs.
 [Data](articles/722d1532.json)
 
 [Extended Data](ext_articles/722d1532.ext.json)
-
----
-
-### Excessive increase in the rainy
-
-*2024-06-18 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197861) · `si`
-
-In the coming days, heavy rainfall is predicted across various regions including the Western, Sabaragamuwa, Northwestern provinces, and specific districts like Galle, Matara, Kandy, Nuwara Eliya, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala. Strong winds of 40-50 km/h are also expected.
-
-🟩
-
-The Meteorology Department says that a rainy section of the island is expected to be expected in the next few days from tomorrow (19).
-
-The department states that several showers may occur in the Western, Sabaragamuwa and Northwestern provinces and several times in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa Districts in Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology added that there were 40-50 strong winds.
-
-◼️
-
-[Data](articles/09524401.json)
-
-[Extended Data](ext_articles/09524401.ext.json)
-
----
-
-### Sri Lanka says imputed rental tax will not apply to all
-
-*2024-06-18 05:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-imputed-rental-tax-will-not-apply-to-all-168480/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s planned imputed rental tax will only apply to wealthier persons, according to a Finance Ministry statement.
-
-Wealth taxes, which have been implemented in a number of other countries, have had detrimental impacts on housing as well as other negative fallouts, partly due to the lack of cashflows to pay such taxes.
-
-“The envisaged property tax is in an advanced stage of design and therefore, it is premature to outline specific details of rates and thresholds,” the Finance Ministry said.
-
-“However, the focus of this tax is on high wealth individuals, and not on average income earners.
-
-“This objective will be achieved by a suitable tax-free threshold to ensure that the tax is targeted on very high value property or multiple properties that are owned by wealthy members of society.
-
-Most assets have been built out of earnings already taxed by the state. Taxes that penalize thrift in general tend to have negative consequences, critics say.
-
-...
-
-[Data](articles/a11db532.json)
-
-[Extended Data](ext_articles/a11db532.ext.json)
-
----
-
-### We will unite to strengthen 69 lakhs - universal power representatives
-
-*2024-06-18 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186319) · `ta`
-
-Leaders call for unity among 69 million people to safeguard their interests and counteract political betrayals, emphasizing the importance of collective action over individual ambitions.
-
-🟩
-
-The Rajapaksas abolished the confidence in the Rajapaksas. We have a responsibility to protect the expectations of 69 lakhs of people for Gotabhaya Rajapaksa. Rajapakse's betrayal should not be successful. Former Governor of the Eastern Province, Wimal Weerawansa, Udaya Kammanpila, Dilith Jayaweera and former Governor of the Eastern Province, Anuradha Yahambat, called for all the people to unite in Nugegoda on Tuesday (18) to strengthen the 69 million people.
-
-The above was stated during a media briefing held at the Sarvana Shakti Office in Colombo on Monday (17).
-
-Amidst the massive expectations of the majority of the majority, the Gotabhaya Rajapaksa led a coup.
-
-A party used the people's struggle against the government for their narrow political purpose.
-
-We cannot forget the political aspirations of the 69 lakh people because Gotabhaya Rajapaksa fled the 69 million people.
-
-It is not expected that the interim president Ranil Wickremesinghe will fulfill the aspirations of 69 lakhs of people.
-
-...
-
-[Data](articles/6e9b64a9.json)
-
-[Extended Data](ext_articles/6e9b64a9.ext.json)
-
----
-
-### Is the eldest is a privilege to attack young people?
-
-*2024-06-18 02:26:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clll75lm7e1o) · `si`
-
-Uma Aazi, a Sri Lankan performer, sparked controversy with comments about indigenous violence during her sister's wedding speech. Her remarks, focusing on the ongoing conflict and its impact on children, were widely shared and debated. Critics argue that her words could normalize violence, while supporters defend her right to speak freely. Dr. Thun Wickramanaya highlighted the need for understanding and addressing indigenous violence. The National Child Protection Authority emphasized that violence, including sibling aggression, is unacceptable and urged for peaceful resolution of conflicts. The discussion underscores the complexities of addressing violence within communities and the importance of responsible public discourse.
-
-🟩
-
-A new performer in Sri Lanka Uma Aazi, Uma Aazi, a talk at his sister's wedding, focused on a part of the indigenous violence.
-
-A part of her speech was published in social media, and many were diagnosed with her speech.
-
-"When I talk about I, I have a lot to talk to us, as the Israelite war. There is no difference today. Still fighting with me still. "
-
-"I don't want him to ask my father by asking him. I don't want him to raise anyone else. But I don't remember him loving with him. I donate the elephants. But it's just me. No other person, tell him one word, I don't want him to raise one finger. I will not let me be. "
-
-Dr. Thun Wickramanaya, the co-executor of the UPFA and childhood protection were commented on the 'Boundary Foundation Foundation'.
-
-"Justice of violence in Sri Lanka is better thank you better. Romanciples are more than words. Understand the indigenous violence among children, "she has shown.
-
-...
-
-[Data](articles/de0cc084.json)
-
-[Extended Data](ext_articles/de0cc084.ext.json)
 
 ---

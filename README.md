@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 03:34:30**
+As of **2024-06-19 03:52:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,37 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,009 (100.0%) of 31,010 articles have been extended.
+31,010 (100.0%) of 31,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ’ஜனாஸாக்களை எரித்த பாவத்தின் பங்காளி ரணில்’
+### Ranil's partner of sin burning Janasas
 
 *2024-06-19 01:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்களை-எரித்த-பாவத்தின்-பங்காளி-ரணில்/175-339102) · `ta`
 
-கொரோனா பெருந்தொற்றுத் தாக்கத்தில் உயிரிழந்த முஸ்லிம்களின்   ஜனாஸாக்களை தகனம்  செய்த கோட்டாபய ராஜபக்ஸ  மற்றும் பொதுஜன பெரமுன தலைமையிலான அரசாங்கத்தின் பாவத்தின் பங்காளியாக தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் மாறி விட்டதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹ்மான் தெரிவித்தார்.
+Mujibur Rahman criticizes President Ranil Wickremesinghe for aligning with the previous government's controversial policy of cremating Muslim COVID-19 victims against WHO guidelines. He mentions a parliamentary statement urging a committee to allow burial practices, which were ignored, leading to backlash from the Muslim community.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18)  விசேட கூற்றை முன்வைத்தே இவ்வாறு குற்றம் சாட்டிய அவர் மேலும் பேசுகையில்,
+🟩
 
-கொரோனா பெருந்தொற்றினால் உயிரிழந்தவர்களின் உடல்கள் தகனம் செய்யப்பட்டமை குறித்து ஜனாதிபதி பேசியிருந்தார்.துறைசார் நிபுணர்கள் வழங்கிய ஆலோசனைகளுக்கு அமையவே உடல்கள் தகனம் செய்யப்பட்டதாக ஜனாதிபதி கூறுகின்றார்
+United People's Power MP Mujibur Rahman said that the current President Ranil Wickremesinghe has become a partner of the sin of the Gotabhaya Rajapaksa -led government led by the PA, who cremated the Janasas of the Muslims who died in the influence of Corona.
 
-கொரோனாபெருந்தொற்றுத் தாக்கத்தில் உயிரிழந்த முஸ்லிம்களின்   ஜனாஸாக்களை தகனம்  செய்ய வேண்டாம்,சுகாதார அறிவுறுத்தலுக்கு அமைய  நல்லடக்கம் செய்யுங்கள் என்று அப்போதைய  ஜனாதிபதி கோட்டாபய  ராஜபக்ஸவிடம் பலமுறை வலியுறுத்தினோம்.இவ்விடயம் குறித்து ஆராய்வதற்கு தொழில்நுட்ப குழுவும்,துறைசார் நிபுணர்களின் குழுவும் நியமிக்கப்பட்டது.
+He further stated that he made a special claim in Parliament on Tuesday (18).
+
+The President had spoken about the cremation of the bodies of the casualties of the Corona.
+
+We repeatedly urged the then President Gotabhaya Rajapaksa not to cremate the Janasas of the Muslims who died in the impact of the Coronapper, and to make a good advice.
+
+Do not believe in these groups. Therefore, we reiterated the then President to appoint a committee comprising departmental experts.
+
+The committee submitted that the bodies could be buried in accordance with the security instructions proposed by the International Health Organization.
 
 ...
 
 [Data](articles/359340dc.json)
+
+[Extended Data](ext_articles/359340dc.ext.json)
 
 ---
 

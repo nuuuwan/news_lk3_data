@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 11:54:25**
+As of **2024-06-18 12:07:29**
 
 ## Newspaper Stats
 
-*Scraped **30,907** Articles*
+*Scraped **30,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,46 @@ dbsjeyarajcom | 285
 bbccomsinhala | 302
 newsfirstlk | 363
 islandlk | 1,693
-economynextcom | 1,783
+economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,682
 adaderanalk | 3,503
 tamilmirrorlk | 3,627
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,014
+adaderanasinhalalk | 5,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,904 (100.0%) of 30,907 articles have been extended.
+30,907 (100.0%) of 30,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### සුදුවෑන් රථයකින් තරුණයෙක් පැහැරගෙන
+
+*2024-06-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197877) · `si`
+
+සුදුවෑන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇදගත් පිරිසක් තරුණයකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය පවසයි.
+
+මෙසේ පැහැරගෙන ගොස් ඇත්තේ කළුතර හීනටියංගල ප්‍රදේශයේ පදිංචි රොෂාන් අෂාන් නමැති 24 හැවිරිදි තරුණයෙකු බව පොලීසිය සඳහන් කළේය.
+
+පැහැරගෙන ගොස් ඇති තරුණයාගේ මව විසින් කළ පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+
+සැකකරුවන් සුදුවෑන් රථයකින් පැමිණ හීනටියංගල දේවස්ථානය ආසන්නයේ දී තරුණයාව පහරදී පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කළ පරීක්ෂණවලදී අනාවරණය වූ බව පොලීසිය සඳහන් කරයි.
+
+සැකකරුවන් හඳුනාගෙන ඇති බවත් ප්‍රදේශය හැරගොස් සිටින ඔවුන් කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් කළුතර උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+කළුතර දකුණ  මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි අපරාධ අංශ ස්ථානාධිපති පොලිස් පරීක්ෂක ගයාන් ක්‍රිෂාන්ත මහතා ගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/06c4b353.json)
+
+---
 
 ### Lotus Road in Colombo blocked due to protest
 
@@ -45,6 +67,8 @@ The relevant protest march has been organized by the University Trade Union Join
 ◼️
 
 [Data](articles/73e0cd1b.json)
+
+[Extended Data](ext_articles/73e0cd1b.ext.json)
 
 ---
 
@@ -102,15 +126,37 @@ Promises will be made by candidates than the politicians representing their cons
 
 ---
 
-### ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+### President a special statement from President
 
 *2024-06-18 10:58:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-විශේෂ-ප්‍රකාශයක්/11-410278) · `si`
 
-ජනපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුව අමතමින් විශේෂ ප්‍රකාශයක් සිදුකරමින් පවතී.
+In his address to Parliament, President Ranil Wickremesinghe highlighted key issues facing Sri Lanka, emphasizing the need for unity and resilience amidst economic challenges.
+
+🟩
+
+President Ranil Wickremesinghe addressing the Parliament addressing the Parliament.
 
 ◼️
 
 [Data](articles/68b6e84b.json)
+
+[Extended Data](ext_articles/68b6e84b.ext.json)
+
+---
+
+### Sri Lanka telecommunications bill some clauses ruled unconstitutional by SC: Speaker
+
+*2024-06-18 10:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecommunications-bill-some-clauses-ruled-unconstitutional-by-sc-speaker-168488/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has found a number of clauses in a proposed amendment to the Telecom Telecommunications Amendment bill unconstitutional, speaker Mahinda Yapa Abeywardana said.
+
+“Clause No 8, proposed section 9A 2 of the bill is inconsistent with Article 12 1 of the constitution, however this  inconsistency shall cease if word ‘may’ will be replaced with word ‘shall’ as set out in the determination of the supreme court.”
+
+“Clause No 9 is inconsistent with Article 12 1 of the constitution and only can be passed with special majority required under paragraph 2 of the Article 84. However, the inconsistency shall cease if clause is amended as set out in the determination of the supreme court.
+
+...
+
+[Data](articles/a14736f9.json)
 
 ---
 
@@ -268,6 +314,58 @@ However, if the contentious clauses are amended, they can be passed with a simpl
 
 ---
 
+### Sri Lanka to exempt one house from imputed rent wealth tax: President
+
+*2024-06-18 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-exempt-one-house-from-imputed-rent-wealth-tax-president-168522/) · `en`
+
+ECONOMYNEXT  – Sri Lanka will exempt one house from a proposed wealth tax outlined in an International Monetary Fund program, President Ranil Wickremesinghe said.
+
+About 90 percent of the people’s houses are likely to be exempt from the proposed tax, he said.
+
+“[O]ne house will be exempt from this,” President Wickremesinghe told parliament Monday.
+
+“It is going to have a very high threshold and I do not think the vast majority of the people in this country should even be worried about their house
+
+The IMF program document however did not mention an exempt on one house, but did mention a threshold.
+
+Taxing houses and thrift in general could have detrimental effects on people’s well-being housing stock and their willingness to remain in the country without migrating, critics say.
+
+Related Sri Lanka to tax imaginary rents on houses under IMF deal
+
+The mechanism of imputed rents was used because rates on houses was assigned to provincial councils and courts could strike it down.
+
+...
+
+[Data](articles/c4c0bf51.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 304.30/55 to US dollar
+
+*2024-06-18 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-30-55-to-us-dollar-168481/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 304.30/55 to the US dollar on Tuesday, while bond yields were broadly stable, and stocks opened 0.02 percent up, dealers said.
+
+The rupee closed at 304.00/15 to the greenback on Friday, before the long weekend.
+
+In equities, Colombo’s All Share Price Index opened 2.06 points higher at 12,312 while the S&P SL20 of more liquid stocks opened down 0.07 percent or 2.63 points to 3,642.
+
+In the secondary market, yields were broadly stable, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.10/30, up from 10.05/30 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.05/30 percent, up from 11.05/20 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.80/85 percent.
+
+A bond maturing on 01.10.2032 was quoted at 11.95/12.10 percent, down from 12.00/10 percent.
+
+◼️
+
+[Data](articles/c224cee9.json)
+
+---
+
 ### Liquor bottles theft in three areas in the hill country
 
 *2024-06-18 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186326) · `ta`
@@ -393,6 +491,28 @@ Police Special Task Force officials have raided the Sri Jayewardenepura Army cam
 [Data](articles/4987db58.json)
 
 [Extended Data](ext_articles/4987db58.ext.json)
+
+---
+
+### Sri Lanka president apologises for forced cremations during Covid
+
+*2024-06-18 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-apologises-for-forced-cremations-during-covid-168490/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president has apologised for the government’s decision to enforce cremations during the Covid-19 pandemic.
+
+“This house would like to apologise for what happened,” Ranil Wickremesinghe said in parliament on Tuesday. “During this time there was a lot of pain, mainly felt by the Muslims, but also Hindus, Buddhists and Christians, I know who also like to bury.”
+
+He said that a committee appointed to look into the matter at the time recommended cremation, a decision which was upheld by the supreme court.
+
+“So the government had to follow that. There was no choice at that stage.”
+
+Sri Lanka would bring a law that would allow the right of burial, right of cremation or gifting one’s body to medical institutions.
+
+“In this country any person should have the right to determine whether he or she is buried, cremated or given to the medical faculty.”
+
+...
+
+[Data](articles/1f9916a5.json)
 
 ---
 
@@ -808,6 +928,26 @@ The Nochchiyagama Police have conducted an investigation and arrested the suspec
 
 ---
 
+### Sri Lanka female owned businesses face US$17bn financing gap: ADB country chief
+
+*2024-06-18 07:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-female-owned-businesses-face-us17bn-financing-gap-adb-country-chief-168477/) · `en`
+
+ECONOMYNEXT – About 20 percent of Sri Lanka’s micro small and medium enterprises (MSMEs) are run by women but they face a 17 billion dollar equivalent financing gap, Asian Development Bank’s Country Director Takafumi Kadono said.
+
+The 20 percent of businesses were providing a range of products and services across the country.
+
+“And while they represent such a significant portion, financing and policies have tended not to take into account the specific needs and different challenges they face in starting and growing their businesses,” Kadono told a forum in Colombo.
+
+“As a result, there is an estimate that a surprising 17 billion US dollar financing gap for women-owned MSMEs in Sri Lanka.
+
+“The gender gap in employment and entrepreneurship in Sri Lanka continues to affect women’s economic empowerment opportunities and their resilience to economic shocks.”
+
+...
+
+[Data](articles/af0ae1cb.json)
+
+---
+
 ### Repairs to the explosive tube completed
 
 *2024-06-18 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197864) · `si`
@@ -881,6 +1021,28 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/09524401.json)
 
 [Extended Data](ext_articles/09524401.ext.json)
+
+---
+
+### Sri Lanka says imputed rental tax will not apply to all
+
+*2024-06-18 05:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-imputed-rental-tax-will-not-apply-to-all-168480/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s planned imputed rental tax will only apply to wealthier persons, according to a Finance Ministry statement.
+
+Wealth taxes, which have been implemented in a number of other countries, have had detrimental impacts on housing as well as other negative fallouts, partly due to the lack of cashflows to pay such taxes.
+
+“The envisaged property tax is in an advanced stage of design and therefore, it is premature to outline specific details of rates and thresholds,” the Finance Ministry said.
+
+“However, the focus of this tax is on high wealth individuals, and not on average income earners.
+
+“This objective will be achieved by a suitable tax-free threshold to ensure that the tax is targeted on very high value property or multiple properties that are owned by wealthy members of society.
+
+Most assets have been built out of earnings already taxed by the state. Taxes that penalize thrift in general tend to have negative consequences, critics say.
+
+...
+
+[Data](articles/a11db532.json)
 
 ---
 
@@ -1992,19 +2154,29 @@ The Department of Meteorology has noted that strong winds are likely to be at sp
 
 ---
 
-### අද සිට වර්ජන රැල්ලක්
+### A wave of strikes from today
 
 *2024-06-17 19:28:23* · [`adalk`](https://www.ada.lk/breaking_news/අද-සිට-වර්ජන-රැල්ලක්/11-410273) · `si`
 
-වැටුප් ගැටලු ,දීමනා ගැටලු  හා උසස් වීම් ගැටලු මුල් කර ගනිමින් අද(18දා) සිට ඉදිරි කාලයේදී වර්ජන රැල්ලක් ඇති වන තත්ත්වයක් නිර්මාණය වී තිබේ.
+Strikes across various sectors including university academics, postal services, and railways have been initiated due to unresolved issues such as pay problems, promotions, and allowances. These actions are expected to continue, with specific demands for salary increases and better working conditions. The situation is complex, with multiple groups protesting and taking professional measures to address their grievances.
 
-මේ අනුව දුම්රිය ස්ථානාධිපතිවරුන්ට ඇති වී තිබෙන ගැටලුවලට අද (18දා) දිනයේදී විසඳුම් නොලැබුණහොත් වෘත්තීය ක්‍රියා මර්ග ආරම්භ කිරීමට දුමිරිය ස්ථානාධිපතිවරුන් සැලසුම් කර  ඇත. විශ්ව විද්‍යාල අනධ්‍යයන සේවකයන්ට ඇති වී තිබෙන  ගැටලුවලට අද දිනයේදී නිසි විසඳුම් නොලැබුණහොත් දැනට සිදුකරන වෘත්තීය ක්‍රියා මාර්ග දැඩි කිරීමට තීරණය කර තිබේ.
+🟩
 
-තැපැල් සේවකයන්ට ඇති වී තිබෙන ගැටලුවලට විසඳුම් ලබා දීම ප්‍රමාද කළ හොත් මේ මස 24 වැනි දින සිට වෘත්තීය ක්‍රියා මාර්ග ආරම්භ කිරීමට සැලසුම් කර තිබෙන අතර ග්‍රාමනිලධාරීන්ට ඇති වී තිබෙන ගැටලු විසඳීමට කටයුතු නොකළ හොත් 24 වැනි දින සිට වෘත්තීය ක්‍රියා මාර්ග ආරම්භ කිරීමේ තීන්දුව ගෙන තිබේ.
+A wave of strikes have been created between pay problems, allowances and promotion issues today (18).
+
+Accordingly, the problems that have been resolved today (18) will not be solved today (18).. If the problems of university non-academic problems are not resolved today, the trade measures are decided to raise.
+
+If it is delayed by the problems that have been made to the problems of postal workers, the professional measures have been initiated since the 24th of this month and the decision to start the problems of the Grama Niladhari.
+
+One day strike and protest protest will be planted on the 26th of this month demanding the solution to the problems of teachers.. A revision of the Service Minute for the Supplementary Medical Service has been unable to receive more than 1200 people from grade 1 to the high rank.
+
+The association states that it is planned to commence at the next week of hospital level due to delaying the problems of the problems.
 
 ...
 
 [Data](articles/adefe521.json)
+
+[Extended Data](ext_articles/adefe521.ext.json)
 
 ---
 
@@ -2167,165 +2339,5 @@ Meanwhile, two persons including the accident have been injured and rushed to th
 [Data](articles/a6f1a421.json)
 
 [Extended Data](ext_articles/a6f1a421.ext.json)
-
----
-
-### 69 Sprinklence for Expectation
-
-*2024-06-17 18:26:49* · [`adalk`](https://www.ada.lk/breaking_news/69-ලක්ෂයේ-බලාපොරොත්තු-බලගන්වන්න-ආයෙත්-නුගේගොඩ-රැළියක්/11-410269) · `si`
-
-A large gathering themed "69" involving 69,000 participants is scheduled for today at the Ananda Samarakoon Outdoor Theater. Key figures including Dilith Jayaweera, Wimal Weerawansa, Udaya Gammanpila, Professor Channa Jayasana Weerasinghe, Vasudeva Kumaratunga, Mangalawa Wanayakara, and Manayaku Kumaratunga will lead the event.
-
-🟩
-
-The rational power rally held at the theme of 69,000 people will be held today (18).
-
-Ananda Samarakoon Outdoor Theater has commenced at Ananda Samarakoon Outdoor Theater.
-
-Dilith Jayaweera and Wimal Weerawansa, Udaya Gammanpila, Professor Channa Jayasana Weerasinghe, Vasudeva Kumaratunga, Mangalawa Wanayakara, Manayaku Kumaratunga have been conducted by the executives.
-
-◼️
-
-[Data](articles/d8881d76.json)
-
-[Extended Data](ext_articles/d8881d76.ext.json)
-
----
-
-### Two persons arrested with wildfire
-
-*2024-06-17 18:13:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுக்கோழியுடன்-சென்ற-இருவர்-கைது/175-339034) · `ta`
-
-In Sri Lanka, the driver and conductor of a SLTB bus were arrested for allegedly taking a dead wild bird through the Tabova Wildlife Sanctuary. They were caught hiding the bird under the driver's seat during a checkpoint inspection. Released on bail after being accused of killing and transporting the wildlife illegally.
-
-🟩
-
-The driver and conductor of the Sri Lanka Transport Board (SLTB) has been arrested for allegedly taking the dead wild bird for allegedly demolishing the bus, police said.
-
-The bus from Mullaitivu to Colombo was traveling through the Tabova Wildlife Sanctuary.
-
-Wildlife guards from Karuwalakaswewa have observed the conductor and the driver of the bus when they traveled through the sanctuary.
-
-When the bus was checked at the Saliyapura checkpoint, they hid the dead bird under the driver's seat.
-
-The two men arrested for killing a wild bird and secretly carrying the body of the body have been released on police bail for Rs 100,000 each.
-
-◼️
-
-[Data](articles/a2490301.json)
-
-[Extended Data](ext_articles/a2490301.ext.json)
-
----
-
-### Health Sector assesses the people of Sri Lanka
-
-*2024-06-17 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197855) · `si`
-
-Dr. Palitha Mahipala, the Health Secretary of Sri Lanka, highlighted the country's healthcare challenges, stating that citizens require hospitalization six times annually due to a lack of effective disease prevention and treatment programs. Despite having a robust public health system serving 55 million people and a parallel private sector, Sri Lanka faces high hospitalization rates, second only to countries with aging populations. Dr. Mahipala emphasized the need for stronger preventive care to reduce hospital admissions and improve overall health outcomes.
-
-🟩
-
-Dr. Palitha Mahipala, the Ministry of Health, is the people of the Ministry of Health and the people of the Ministry of Health in the area and the people of the region.
-
-The Health Secretary has said that a citizen of Sri Lanka will be treated to hospital six times a year
-
-Specialist Dr. Palitha Mahipala made these comments participating in the prevention of the prevention of the prevention of the disease.
-
-...
-
-[Data](articles/bfa45be8.json)
-
-[Extended Data](ext_articles/bfa45be8.ext.json)
-
----
-
-### An monk arrested for sexually abused monks
-
-*2024-06-17 18:02:21* · [`adalk`](https://www.ada.lk/breaking_news/බාල-වයස්කාර-හිමිනමකට-ලිංගික-අපයෝජනයක්-කළ-චීවරධාරියෙකු-අත්අඩංගුවට/11-410267) · `si`
-
-A monk was arrested for allegedly sexually abusing a 13-year-old boy at a monastery in Anuradhapura. Another monk is also under investigation. The victim, now 22, was assaulted at a temple near Anuradhapura. The accused monk studies at a different temple. Both monks are from the Fourth of Viharaya. The victim is receiving treatment at Anuradhapura Teaching Hospital, and the arrested monk will appear before the Anuradhapura Magistrate.
-
-🟩
-
-Investigation Police say that a monk was arrested in a 13-year-old sexual abuse of a 13-year-old monastery in Anuradhapura and investigations into the arrest of another monk.
-
-The victim is a 22 year old fluid in the temple near the new city of Anuradhapura.
-
-The monk is studying in the Fourth of the Viharaya, another temple in the Fourth of Vihara.
-
-The police said that investigations into the arrest of another monk regarding the incident.
-
-The police said that the name of the complaints are currently receiving treatment at the Anuradhapura Teaching Hospital.. The arrested Buddhist was due to be produced before the Anuradhapura Magistrate.
-
-◼️
-
-[Data](articles/4506e437.json)
-
-[Extended Data](ext_articles/4506e437.ext.json)
-
----
-
-### Indian -Chinese relations in Modi's third phase
-
-*2024-06-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186306) · `ta`
-
-In Modi's third term, Indian-Chinese relations saw a significant shift. The Macro Laverage rate, indicating economic strength, rose to 287.8% in China, surpassing India's 18.7%. Despite nationalist interests, economic dynamics favor China over India.
-
-🟩
-
-“According to the National Institute for Chinese Financial Finance and Development, the Macro Laverage rate, which is a share of nominal gross domestic production, increased to 287.8 percent in 2023. It stated that it was 13.5 percent more than a year ago. Whereas India's rate declined to 18.7 per cent compared to China in the same year. Both countries have strong nationalist interests ”
-
-◼️
-
-[Data](articles/0b73bee9.json)
-
-[Extended Data](ext_articles/0b73bee9.ext.json)
-
----
-
-### Rainy conditions expected to enhance in next few days
-
-*2024-06-17 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99933/rainy-conditions-expected-to-enhance-in-next-few-days) · `en`
-
-The prevailing rainy condition in the South-western part of the island is expected to somewhat enhance in the next few days from 19 June, the Meteorology Department says.
-
-The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala
-
-◼️
-
-[Data](articles/222d8b8a.json)
-
-[Extended Data](ext_articles/222d8b8a.ext.json)
-
----
-
-### Actress Nivetha Bethuraj's 'Muzu' Tamil Internet Series
-
-*2024-06-17 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186301) · `ta`
-
-Nivetha Bethuraj stars in "Muzu," a Tamil adaptation of the Telugu series "Thusu," now available on G5 digital. The series explores a couple's fight against caste discrimination, highlighting the lengths one goes for love and respect. Featuring a cast including Naresh Agasthiyar, Naga Babu, and Pranitha Patnaik, it delves into the darker sides of humanity, sparking interest among fans.
-
-🟩
-
-The Telugu series 'Thusu' has been released in Tamil on the G5 digital site.
-
-Actress Nivetha Bethuraj, who has made his debut for Tamil fans, is ready to star in Telugu.
-
-He is accompanied by Naresh Agasthiyar, Naga Babu, Pranitha Patnaik and many others. Sushmita Konitela has produced the internet series, which is co -directed by Siddharth Naidu and Vadlapati Rajasekar.. Pawan Sattineni has led this internet series.
-
-The 'Thuzhu' Internet Series on the G5 digital siteFearing that a caste denial is a couple who are struggling to protect their love and life.
-
-Has their struggle succeeded?Or not?The web series has revealed how far a person travels for love, affection, faith, and respect for respect, and the other side of human beings.. This has caused great excitement to see this among fans.
-
-Actress Nivetha Bethuraj is the heroine of the story and can be found free of the first chapter of the 'Muzu' web series on the G5 Digital site.
-
-◼️
-
-[Data](articles/dc569995.json)
-
-[Extended Data](ext_articles/dc569995.ext.json)
 
 ---

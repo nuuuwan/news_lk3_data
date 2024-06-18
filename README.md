@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 05:37:34**
+As of **2024-06-18 06:00:55**
 
 ## Newspaper Stats
 
-*Scraped **30,850** Articles*
+*Scraped **30,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 283
 dbsjeyarajcom | 284
 bbccomsinhala | 301
 newsfirstlk | 363
-islandlk | 1,682
+islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,850 (100.0%) of 30,850 articles have been extended.
+30,850 (100.0%) of 30,861 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -322,6 +322,38 @@ He said there is no option for the people of the country other than rallying aro
 
 ---
 
+### Serendib Flour Mills’ premium range impresses at international culinary extravaganza in Malé
+
+*2024-06-18 00:58:00* · [`islandlk`](http://island.lk/serendib-flour-mills-premium-range-impresses-at-international-culinary-extravaganza-in-male/) · `en`
+
+Serendib Flour Mills (Pvt) Ltd, proudly showcased its commitment to quality and innovation at the 18th edition of the Hotel Asia 2024 Exhibition & International Culinary Challenge, connecting with industry leaders and potential customers in the Maldives’ thriving hospitality sector.
+
+The premier event was held recently, at the Dharubaaruge Exhibition Hall, Usfasgandu and the Maldives National University in Malé.
+
+Serendib Flour Mills exhibited its 7 Star Premium Bakers’ Flour and retail range, demonstrating the quality and versatility of its products. The company’s efforts were well-received, and representatives had the opportunity to engage with numerous culinary professionals from Maldivian resorts and hotels, as well as other industry stakeholders.
+
+Serendib Flour Mills’ participation illustrates its dedication to providing high-quality solutions and fostering strong relationships with partners and customers across the region.
+
+...
+
+[Data](articles/e995fa17.json)
+
+---
+
+### Janashakthi Life soars: Q1 Gross Written Premiums up 44%, Profit Before Tax grows 29%
+
+*2024-06-18 00:57:00* · [`islandlk`](http://island.lk/janashakthi-life-soars-q1-gross-written-premiums-up-44-profit-before-tax-grows-29/) · `en`
+
+Janashakthi Life, one of Sri Lanka’s leading life insurers, reported stellar financial results for the first quarter of 2024, solidifying the company’s position for continued growth and stability.
+
+Janashakthi Life’s Gross Written Premium (GWP) growth surged by an impressive 44% in Q1 2024 compared to Q1 2023. This significant increase reflects the company’s successful market expansion and its ability to attract new customers. Additionally, other operating revenue soared by 22%, driven by the success of diversified income streams and strategic investments.
+
+...
+
+[Data](articles/f25a40f4.json)
+
+---
+
 ### Sri Lanka hosts first International Wetland Park Association Conference
 
 *2024-06-18 00:56:13* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-hosts-first-International-Wetland-Park-Association-Conference/56-763196) · `en`
@@ -337,6 +369,74 @@ The forum, organised by the Sri Lanka Land Development Corporation (SLLDC) under
 [Data](articles/bd984c29.json)
 
 [Extended Data](ext_articles/bd984c29.ext.json)
+
+---
+
+### Next-Gen Manufacturing: Kingslake’s tech innovation elevates Modern Pack Lanka
+
+*2024-06-18 00:55:00* · [`islandlk`](http://island.lk/next-gen-manufacturing-kingslakes-tech-innovation-elevates-modern-pack-lanka/) · `en`
+
+Leading the charge in digitising Sri Lanka’s packaging industry, Modern Pack Lanka (Pvt) Ltd, achieved a milestone in its digital transformation with the implementation of the Infor Syteline ERP solution by Kingslake, Sri Lanka’s manufacturing solutions expert.
+
+Lahiru Wijeratne, CEO of Modern Pack Lanka, highlighted: “While the last three years posed multiple uncertainties for local companies, we were able to excel by implementing a lean culture with the Infor Syteline solution. Given Kingslake’s 30+ years’ expertise in the manufacturing industry, its team brought a wealth of knowledge that distinctively positioned them to understand and address our requirements effectively.”
+
+...
+
+[Data](articles/8843e3c1.json)
+
+---
+
+### ‘RPCs to continue to contest govt. imposed 70% wage hike in courts’
+
+*2024-06-18 00:52:00* · [`islandlk`](http://island.lk/rpcs-to-continue-to-contest-govt-imposed-70-wage-hike-in-courts/) · `en`
+
+The Planters’ Association of Ceylon (PA) confirmed that it has no option but to continue to oppose the sudden Wages Board decree to increase the fixed wage of tea and rubber sector workers by an unprecedented 70% on account of a lack of due process and unaffordability, with the matter being taken up for consideration before the Appeal Court and Supreme Court, a press release said.
+
+The release added: ‘The PA emphasizes that wages must be intrinsically linked to productivity to ensure the sustainability of businesses and the livelihoods of workers. Sri Lanka already grapples with the highest production costs, wages, and lowest productivity among all tea-growing nations. Notably, the newly gazetted wage is double that of India, creating significant cost disparities in the global market.
+
+...
+
+[Data](articles/09e29114.json)
+
+---
+
+### nVentures partners with DigiEcon Global Investment Summit to bring five leading international Venture Capital firms to Sri Lanka
+
+*2024-06-18 00:50:00* · [`islandlk`](http://island.lk/nventures-partners-with-digiecon-global-investment-summit-to-bring-five-leading-international-venture-capital-firms-to-sri-lanka/) · `en`
+
+nVentures Pte Ltd has partnered with the inaugural DigiEcon Global Investment Summit in 2024, organized by Sri Lanka’s Ministry of Technology. This initiative is part of the country’s far-reaching DigiEcon Sri Lanka 2030 economic strategy.
+
+A Venture Capital (VC) fund licensed under the Monetary Authority of Singapore, with a startup portfolio representing Sri Lanka, Bangladesh, India, Singapore and the UK, nVentures has helped secure the attendance of five leading global VCs to participate, and explore the local startup sector, at this Summit that will be held on June 25.
+
+...
+
+[Data](articles/c64a76eb.json)
+
+---
+
+### Minor Hotels debuts NH Collection in Sri Lanka with rebranding of Mövenpick Colombo
+
+*2024-06-18 00:41:00* · [`islandlk`](http://island.lk/minor-hotels-debuts-nh-collection-in-sri-lanka-with-rebranding-of-movenpick-colombo/) · `en`
+
+Minor Hotels, a leading hotel owner, operator, and investor with a portfolio of over 550 hotels and resorts in 56 countries, announced the rebranding and management of Mövenpick Colombo. This strategic move will see the property rebranded as NH Collection Colombo, marking the debut of the prestigious NH Collection brand in Sri Lanka.
+
+Located in the heart of Colombo, the hotel is ideally positioned to offer guests unparalleled access to the city’s vibrant business district, cultural attractions, and entertainment options. The partnership with Softlogic City Hotels (Pvt) Ltd to rebrand as NH Collection Colombo will bring a fresh, contemporary aesthetic and an enhanced level of service, setting a new benchmark for hospitality in Sri Lanka’s commercial capital. The hotel features 219 well-appointed rooms and luxury suites, each designed with contemporary decor and equipped with modern amenities, providing expansive views of the city and the Indian Ocean
+
+...
+
+[Data](articles/4670f512.json)
+
+---
+
+### The Gift of Life this Vesak: AIA Insurance brings clean water to Kimbulpatiyawa
+
+*2024-06-18 00:40:00* · [`islandlk`](http://island.lk/the-gift-of-life-this-vesak-aia-insurance-brings-clean-water-to-kimbulpatiyawa/) · `en`
+
+This Vesak, AIA Insurance, presented the greatest gift of life to the villagers of Kimbulpatiyawa, Anuradhapura which is clean and safe drinking water. Recognizing that clean water is the essence of life and a fundamental human necessity, AIA Insurance implemented a water purification system in this rural community. This significant initiative is part of their enduring commitment to help all Sri Lankans live healthier, longer, better lives.
+
+...
+
+[Data](articles/08a750d7.json)
 
 ---
 
@@ -2277,173 +2377,5 @@ The National Water Supply and Drainage Board says that the damaged pipe to the L
 [Data](articles/c00b4730.json)
 
 [Extended Data](ext_articles/c00b4730.ext.json)
-
----
-
-### Kusal and Dananjaya have fulfilled responsibilities - proven blood
-
-*2024-06-17 12:55:03* · [`adalk`](https://www.ada.lk/breaking_news/කුසල්-හා-ධනංජය-වගකීම්-ඉටු-කළා----අසලංක-දක්ෂතාව-ඔප්පු-කළා/11-410258) · `si`
-
-Kusal Mendis and Dananjaya Silva, key players from Sri Lanka's cricket team, showcased their talents against the Netherlands, securing a crucial win after initial losses. They managed to dismiss the Dutch team within the first six overs, highlighting Sri Lanka's strong bowling attack. This victory was significant for the team, demonstrating resilience and potential to bounce back from defeats.
-
-🟩
-
-Sri Lanka's founding batsman Kusal Mendis and Three Post-Player Dananjaya Silva had done their talent in the match with the Netherlant.
-
-He added that this victory was important to the team after the first two matches defeat.. He said that Sri Lanka had broken two three wickets in the first six overs.
-
-He added that if Sri Lanka has sufficient bowling sector is available to protect it.
-
-◼️
-
-[Data](articles/e8d53728.json)
-
-[Extended Data](ext_articles/e8d53728.ext.json)
-
----
-
-### Child killed in coconut
-
-*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-விழுந்ததில்-குழந்தை-பலி/76-339019) · `ta`
-
-An 11-month-old girl, Lokeswaran Kiangshini, died after a coconut fell on her head in the Teldota area of Kalaha. Her family had taken her outside when the accident happened. Despite the risk to many young children living nearby, no precautions were taken against falling coconuts.
-
-🟩
-
-Kalaha police said 11 months old girl died when a coconut fell on her head. The incident took place in the Teldota area of ​​Kalaha.
-
-Unfortunately, a girl named Lokeswaran Kiangshini, who lives in the Naranhinna estate in the Kalaha, has died.
-
-When her father took the girl to her neighborhood, she was returning and fell on her head from a coconut tree that was thirty feet in front of the house.
-
-The same girl was then taken to the Teldottai Divisional Hospital in a three -wheeler.
-
-Investigations are being investigated by police said that coconuts fell from the coconut trees near the queue houses.
-
-It has also been revealed that these houses have many more small children and many others, but the danger is not paid.
-
-◼️
-
-[Data](articles/1907da10.json)
-
-[Extended Data](ext_articles/1907da10.ext.json)
-
----
-
-### 11 -month -old girl killed in coconut head
-
-*2024-06-17 12:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேங்காய்-தலையில்-விழுந்ததில்-11-மாத-பெண்-குழந்தை-பலி/76-339019) · `ta`
-
-An 11-month-old girl, Lokeswaran Kiangshini, died after a coconut fell on her head in the Teldota area of Kalaha. Her father had taken her to a neighbor's house, where the accident occurred. Despite the presence of many young children in the vicinity, no precautions were taken against falling coconuts.
-
-🟩
-
-Kalaha police said 11 months old girl died when a coconut fell on her head. The incident took place in the Teldota area of ​​Kalaha.
-
-Unfortunately, a girl named Lokeswaran Kiangshini, who lives in the Naranhinna estate in the Kalaha, has died.
-
-When her father took the girl to the neighboring house, she fell on her head from a coconut tree that was thirty feet in front of the house.
-
-The same girl was then taken to the Teldottai Divisional Hospital in a three -wheeler.
-
-Investigations are being investigated by police said that coconuts fell from the coconut trees near the queue houses.
-
-It has also been revealed that these houses have many small children and many others, but the danger is not paid to the risk.
-
-◼️
-
-[Data](articles/78337b68.json)
-
-[Extended Data](ext_articles/78337b68.ext.json)
-
----
-
-### President awards freehold land deeds to Mahaweli Walawa settlers
-
-*2024-06-17 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99925/president-awards-freehold-land-deeds-to-mahaweli-walawa-settlers-) · `en`
-
-President Ranil Wickremesinghe stated that through the “Urumaya” program, the government’s intent is to express gratitude to farmers who have supplied rice to the country despite not owning the land.
-
-He also emphasized that the current government aims to provide both knowledge and rights to the people, akin to how C.W.W. Kannangara promoted education through free schooling.
-
-President Wickremesinghe made these remarks at a ceremony held this morning (17) at the Embilipitiya Mahaweli Stadium. The event was for the awarding of freehold land deeds to 1,524 out of 45,253 eligible settlers in the Mahaweli Walawa region as part of the national “Urumaya” program to provide 02 million freehold land deeds. The President participated in the Urumaya ceremony and the symbolic distribution of land deeds.
-
-...
-
-[Data](articles/14606f08.json)
-
-[Extended Data](ext_articles/14606f08.ext.json)
-
----
-
-### Distributed inheritance in Embilipitiya
-
-*2024-06-17 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197843) · `si`
-
-In Embilipitiya, under President Ranil Wickremesinghe's patronage, deeds related to distributed inheritance were handed over to the Embilipitiya Mahaweli Stadium as part of a national program.
-
-🟩
-
-Under the National Program for providing Rs.
-
-The deeds were handed over to the Embilipitiya Mahaweli Stadium in Embilipitiya under the patronage of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/829fe8d1.json)
-
-[Extended Data](ext_articles/829fe8d1.ext.json)
-
----
-
-### The future of the country depends on the economic policy implemented in the next five years
-
-*2024-06-17 12:32:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-05-තුළ-ක්‍රියාත්මක-කරන-ආර්ථික-ප්‍රතිපත්තිය-මත-රටේ-අනාගතය-තීරණය-වෙනවා/11-410257) · `si`
-
-President Ranil Wickremesinghe emphasized the critical role of economic policy in shaping Sri Lanka's future over the next five years. He highlighted the impact of the COVID-19 pandemic and economic crisis on employment opportunities, promising a new economic program to address these issues. The President stressed the importance of adapting economic policies to attract investors and stimulate growth, suggesting that continuity without change could hinder progress. He also noted the potential of the youth and business communities in driving the nation's development, urging them to actively participate in shaping the future.
-
-🟩
-
-President Ranil Wickremesinghe said that the future of Sri Lanka is determined by the economic policy implemented in the next five years.
-
-The President was speaking at a meeting with the Youth Conference of Mannar District and the business community yesterday (16).
-
-President first joined the Mannar District Hall at the Mannar Town Hall. The youth conference was organized by a "journey for a bright future" and the President also presented certificates and cash prizes to students who passed the GCE Advanced Level Examination 2023/2024. It was carried out by the Ministry of Education of the Northern Province.
-
-President Ranil Wickremesinghe was also special to go to the youths and direct their problems directly.
-
-The President said that the Corona epidemic and the economic crisis had not been able to provide employment in the past four years and new economic program will be provided with new economic program.
-
-...
-
-[Data](articles/75a8141f.json)
-
-[Extended Data](ext_articles/75a8141f.ext.json)
-
----
-
-### The verdict of the father of Father's Day to the daughter of the father
-
-*2024-06-17 12:31:38* · [`adalk`](https://www.ada.lk/breaking_news/හැත්තෑවේ-පියාට-පහර-දුන්-දුවට-පියවරුන්ගේ-දිනයේ-දුන්-තීන්දුව/11-410256) · `si`
-
-A man was arrested and remanded after assaulting his daughter's father. The incident led to a complaint filed by the victim's father, resulting in the suspect being taken into custody. Further investigation is ongoing under the direction of the Attorney General.
-
-🟩
-
-The suspect was remanded until the 16th of his father's complaint with a complaint lodged with a three-year-old daughter to the courts.
-
-The time was remanded, the 29-year-old Ceylon, Arangala, a resident of the address, says Naula Police.
-
-The suspect was arrested and produced before the court on a complaint lodged by the suspect's father in connection with the incident.
-
-The police have revealed that the suspect was trying to return to the house with a male, he had assaulted her father's suspect.
-
-At the instructions of the Attorney General Deepal Kumara, Chief Inspector General of Police, the Naula Police are investigating further investigations.
-
-◼️
-
-[Data](articles/619d1428.json)
-
-[Extended Data](ext_articles/619d1428.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 11:05:13**
+As of **2024-06-18 11:19:26**
 
 ## Newspaper Stats
 
-*Scraped **30,900** Articles*
+*Scraped **30,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 2,680
 adaderanalk | 3,502
 tamilmirrorlk | 3,626
 dailymirrorlk | 4,733
-virakesarilk | 4,754
+virakesarilk | 4,756
 adaderanasinhalalk | 5,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,890 (100.0%) of 30,900 articles have been extended.
+30,900 (100.0%) of 30,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### 13ஆவது திருத்தத்தில் அரசியல் பந்தாட்டம் ; ஆளுக்கொரு நிலைப்பாட்டிலிருக்கும் ஐக்கிய மக்கள் சக்தி எம்.பி.க்கள்
+
+*2024-06-18 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186336) · `ta`
+
+தேர்தல் அண்மிக்கும் காலங்களில் குறிப்பாக ஜனாதிபதித் தேர்தலுக்கான கால கட்டத்தில் தத்தமது தொகுதிகளை பிரதிநிதித்துவப்படுத்தும் அரசியல்வாதிகளை விட, வேட்பாளர்களால் வாக்குறுதிகள் அள்ளி இறைக்கப்படும்.
+
+◼️
+
+[Data](articles/5786ca2e.json)
+
+---
+
+### தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் சில பிரிவுகள் அரசியலமைப்புக்கு முரண் !
+
+*2024-06-18 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186340) · `ta`
+
+தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் சில பிரிவுகள் அரசியலமைப்புக்கு முரண் என உயர் நீதிமன்றம் அறிவித்துள்ளதாக சபாநாயகர் பாராளுமன்றத்துக்கு அறிவித்தார்.
+
+அத்துடன், சில சரத்துக்கள் விசேட பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டுமென உயர் நீதிமன்றம் தெரிவித்துள்ளதாகவும் சபாநாயகர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/40ea99a1.json)
+
+---
 
 ### Imputed rental income tax not intended for average-income earners: President
 
@@ -44,19 +70,27 @@ The President gave an assurance that the first property would be exempted from t
 
 [Data](articles/012db933.json)
 
+[Extended Data](ext_articles/012db933.ext.json)
+
 ---
 
-### வாடகை வரி விதிக்கப்படுவோர் குறித்து ஜனாதிபதியின் தெளிவுபடுத்தல் !
+### Clear the President's clarification on rental taxes!
 
 *2024-06-18 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186339) · `ta`
 
-முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe clarified that the proposed rent tax will exempt first-time homeowners and won't apply to ordinary incomes, targeting only high earners.
 
-அத்துடன் சாதாரண வருமானம் ஈட்டுபவர்களுக்கு இந்த வரி விதிக்கப்பட மாட்டாது என்றும், அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும் என்றும் தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said that those who earn the first property will be released from the proposed rent tax.
+
+He also said that the tax will not be levied for ordinary incomes and that the tax will be levied only for higher income.
 
 ◼️
 
 [Data](articles/806f7c2f.json)
+
+[Extended Data](ext_articles/806f7c2f.ext.json)
 
 ---
 
@@ -76,51 +110,65 @@ Additionally, a new regulatory program is being planned to control and stabilize
 
 [Data](articles/7b8dbed8.json)
 
+[Extended Data](ext_articles/7b8dbed8.ext.json)
+
 ---
 
-### සුනඛ සුරතලුන් වෙනුවෙන්ම වෙන් වූ ගුවන් සේවය
+### Aviation separated for dog pets
 
 *2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197875) · `si`
 
-අමෙරිකාවේ බාර්ක් එයාර් ගුවන් සේවය සුනඛ සුරතලුන් වෙනුවෙන්ම වෙන් වූ ගුවන් සේවයකි.
+Barc Airline, a US-based airline exclusively for dogs, initially served New York, Los Angeles, and London. It's now expanding to five more destinations: Paris, Chicago, San Francisco, Phoenix, and Miami. Dogs flying with Barc Air will enjoy perks like champagne and massages. Reservations for these new routes can be made via Dogsflyfirst.com.
 
-මෙතෙක් බාර්ක් එයාර් හි ගමනාන්ත නිව්යෝර්ක්, ලොස් ඇන්ජලීස් සහ ලන්ඩන් දක්වා සීමා වී තිබිණි.
+🟩
 
-එය ගමනාන්ත පහක් දක්වා පුළුල් කිරීමට බාර්ක් එයාර්ලයින් තීරණය කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+In the United States, Barke Airline is a separate airline for dog pets.
 
-ප්‍රංශයේ පැරීසිය, චිකාගෝ, සැන් ෆ්‍රැන්සිස්කෝ, ෆීනික්ස් සහ මියාමි නව ගමනාන්තයි.
+So far, the destination New York, Los Angeles and London so far was limited to the destination New York, Los Angeles and London.
 
-බාර්ක් එයාර් සමග ගුවන් සංචාරයේ යෙදෙන සුනඛ සුරතලුන්ට ෂැම්පේන් පානය කිරීමටත්, සම්බාහන අත්දැකීමක් ලබා ගැනීමටත් අවස්ථාව හිමි වේ.
+Foreign media reports that Barc Airline has decided to expand it up to five destinations.
 
-නව ගමනාන්ත වෙන් කර ගැනීම DogsFlyFirst.com වෙබ් අඩවිය හරහා සිදුකර ගත හැකිය.
+Paris, Chicago, San Francisco, Phoenix and Miami are new destinations.
+
+The air traveling dog palm with Barc Air can also have the opportunity to drink champagne and find a massage experience.
+
+Reservation of new destinations can be done through Dogsflyfirst.com.
 
 ◼️
 
 [Data](articles/6c2537e3.json)
 
+[Extended Data](ext_articles/6c2537e3.ext.json)
+
 ---
 
-### තර්ජනී යුග දිවියට
+### Threatening to death
 
 *2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197874) · `si`
 
-ආසියාවේ උසම දැල්පන්දු ක්‍රීඩිකාව වන ශ්‍රී ලංකාවේ තර්ජනි සිවලිංගම් ඊයේ (18) විවාහ දිවියට පිවිසියාය.
+Sri Lanka's tallest netball player, Ada Derana reports, got married recently. Known as the tallest player in Asia, she stood out at the last World Cup Netball Festival. Representing Sri Lanka in five Asian tournaments and four World Cups, she made history in 2019 as the oldest player at 40 in a World Cup match. Her participation in the 2023 World Cup was noted, highlighting her significant contributions to the sport.
 
-තර්ජනි අඩි 6යි අගල් 9ක් උස වන අතර, ඇය දැල්පන්දු පිටියේ උසම ක්‍රීඩිකාව ලෙස හැඳින්වේ.
+🟩
 
-තර්ජනී පසුගිය දැල්පන්දු ලෝක කුසලාන තරගාවලියෙන් පසු දැල්පන්දු පිටියට සමුදුන්නාය.
+Sri Lanka's tallest netball in Asia, Sri Lanka's marriage was married yesterday (18).
 
-ශ්‍රී ලංකාව වෙනුවෙන් දැල්පන්දු ලෝක කුසලාන තරගාවලි 4ක් නියෝජනය කිරීමට සමත්වු තර්ජනී ආසියානු දැල්පන්දු තරගාවලි 5ක දි ශ්‍රී ලංකාව නියෝජනය කළාය.
+The threat is 6 feet and 9 inches tall, and she is called the tallest player of the Netball field.
 
-2019 දැල්පන්දු ලෝක කුසලානයට සහභාගීවනවිට තර්ජනීට වයස අවුරුදු 40ක්වූ අතර දැල්පන්දු ලෝක කුසලාන තරගයක් වෙනුවෙන් ක්‍රීඩා කළ වයස්ගතම ක්‍රීඩිකාව බවට ඇය පත්වුණි.
+Threw away from the last Netball Festival of the World Cup.
 
-ඇගේ එම වාර්තාවම ඇය 2023 දැල්පන්දු ලෝක කුසලානයට සහභාගීවෙමින් බිඳ හෙළුවාය.
+Sri Lanka represented five Asian Netball Tournament to represent four Netball World Cup for Sri Lanka.
 
-ශ්‍රී ලංකාවේ දැල්පන්දු රැජින ලෙස සැලකෙන තර්ජනී සිවලිංගම්ගේ නව විවාහ ජීවිතයට අද දෙරණ අපෙන් උණුසුම් සුබ පැතුම්.
+At the Netball World Cup 2019, he was 40 years old to be the oldest sportsman who played a World Cup match.
+
+Her account was the participation of the 2023 Netball World Cup.
+
+Ada Derana greet us in Derana to the new wedding of Sivalingam, who is considered to be the Netball Quage of Sri Lanka
 
 ◼️
 
 [Data](articles/ec1df1fa.json)
+
+[Extended Data](ext_articles/ec1df1fa.ext.json)
 
 ---
 
@@ -144,23 +192,31 @@ However, if the contentious clauses are amended, they can be passed with a simpl
 
 ---
 
-### மலையகத்தில் மூன்று பிரதேசங்களில் மதுபான போத்தல்கள் திருட்டு
+### Liquor bottles theft in three areas in the hill country
 
 *2024-06-18 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186326) · `ta`
 
-மலையகத்தில் ஹட்டன், மஸ்கெலியா, கொட்டகலை ஆகிய பிரதேசங்களில் உள்ள மதுபானசாலைகளை உடைத்து மதுபான போத்தல்களை திருடிய பிரதான சந்தேக நபர் கைதுசெய்யப்பட்டுள்ளனர்.
+A suspect was arrested for stealing liquor bottles in Hatton, Maskeliya, and Kotagala. The arrest followed a joint operation by the Criminal Investigation Division and local police. The suspect, from Hatton's Aluthgama area, allegedly sold the stolen goods to two women also from Hatton. These accomplices were later apprehended. A total of 41 bottles were recovered from various locations. Further investigations are ongoing, and the suspects will be presented in court.
 
-ஹட்டன், மஸ்கெலியா, கொட்டகலை ஆகிய இடங்களில் அமைந்துள்ள மதுபானசாலைகளை உடைத்து மதுபான போத்தல்களை திருடிய பிரதான சந்தேகநபரை திம்புல, ஹட்டன் ஆகிய பொலிஸ் பிரிவில் உள்ள குற்றப்புலனாய்வு பிரிவின் அதிகாரிகள் மடக்கிப்பிடித்துள்ளனர்.
+🟩
 
-கொட்டக்கலை நகரில் உள்ள மதுபானசாலையொன்றை உடைத்து மதுபான போத்தல்களை திருடிய குற்றச்சாட்டில் ஹட்டன், அளுத்கம பிரதேசத்தைச் சேர்ந்த சந்தேகநபர் திம்புல பத்தனை பொலிஸாரினால் கைதுசெய்யப்பட்டுள்ளார்.
+The main suspect has been arrested for stealing liquor bottles in Hatton, Maskeliya and Kotagala areas.
 
-இது தொடர்பில் ஹட்டன் பொலிஸாருக்கு அறிவிக்கப்பட்டதையடுத்து, அட்டன் பொலிஸாரின் குற்றப்புலனாய்வு பிரிவினர் சி.சி.ரி.வி. காட்சிகள் ஊடாக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Officials of the Criminal Investigation Division in the Timbula and Hatton Police Division have stolen the main suspect who smashed liquor bottles in Hatton, Maskeliya and Kotagala.
 
-சந்தேகநபரிடமிருந்து மேற்கொள்ளப்பட்ட விசாரணையையடுத்து ஹட்டன் பொலிஸார் குறித்த மதுபானசாலைகளில் இருந்து திருடப்பட்டதாக 41 மதுபான போத்தல்களைக் கைப்பற்றியுள்ளனர்.
+The suspect from Hatton, Aluthgama area has been arrested by Dimbula Pathanam police on charges of stealing liquor bottles in Kotakkalai.
+
+Following the announcement of the Hatton Police, the Criminal Investigation Division of the Attan Police CCRV. Investigations have begun through the scenes.
+
+Following an investigation from the suspect, Hatton police have seized 41 liquor bottles of stealing from liquor stores.
+
+The suspect has been given the stolen liquor bottles to two women living in Hatton Aluthgama for sale, and the two suspects have been arrested with liquor bottles hidden in the house of the two suspects.
 
 ...
 
 [Data](articles/314893e6.json)
+
+[Extended Data](ext_articles/314893e6.ext.json)
 
 ---
 
@@ -206,25 +262,35 @@ Also, the four arrested fishermen have been fishing from Ramanathapuram.
 
 ---
 
-### மத்திய தரைக்கடலில் இரு படகுகள் விபத்து ; 11 அகதிகள் பலி ; 64 பேர் மாயம்
+### Two boats accident in the Mediterranean;11 refugees kill;64 people magic
 
 *2024-06-18 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186331) · `ta`
 
-தெற்கு இத்தாலியில் மத்தியத்தரைக்கடல் பகுதியில் இரண்டு படகுகள் விபத்துக்குள்ளாகியதில் பதினொரு அகதிகள் உயிரிழந்துள்ளதோடு, 64 பேர் காணாமல் போயுள்ளனர்.
+In a tragic incident in the Mediterranean Sea near Italy, two boats carrying refugees from countries like Syria, Egypt, Pakistan, Bangladesh, Iran, Iraq, and Libya collided, resulting in the deaths of 11 refugees and leaving 64 missing. The German charity, Italian Coast Guard, and UN Refugee Organizations confirmed the disaster. Survivors were rescued and taken ashore, while the search continues for the missing. This incident highlights the ongoing dangers faced by migrants attempting perilous sea crossings.
 
-இதனை, ஜேர்மன் தொண்டு நிறுவனம், இத்தாலிய கடலோர காவல்படை மற்றும் ஐக்கிய நாடுகள் சபையின் அகதிகள் அமைப்புகள் தெரிவித்துள்ளன.
+🟩
 
-ஜேர்மன் உதவிக் குழுவின் நாதிர் மீட்பு கப்பல் இத்தாலிய தீவான லம்பேடுசாவுக்குச் சென்று கொண்டிருந்தபோது அங்கு படகு ஒன்று விபத்துக்குள்ளாகி இருப்பது தெரியவந்துள்ளது.
+Eleven refugees have been killed and 64 missing after two boats crashed in the Mediterranean Sea in southern Italy.
 
-விபத்துக்குள்ளாகி மூழ்கி கொண்டிருந்த படகிலிருந்து 51 பேரை மீட்டதோடு, அதில் மயக்கமடைந்த இருவர் உட்பட  கப்பலின் கீழ் தளத்தில் 10 உடல்கள் சிக்கியிருந்ததாக ஜேர்மன் உதவிக் குழுவான RESQSHIP தெரிவித்துள்ளது.
+This was stated by the German charity, the Italian Coast Guard and the United Nations Refugee Organizations.
 
-உயிர் பிழைத்தவர்கள் இத்தாலிய கடலோர காவல்படையிடம் ஒப்படைக்கப்பட்டு திங்கட்கிழமை காலை கரைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+The German assistant group's Nathir Rescue ship was reportedly on the Italian island, Lambedza, and a boat was reported.
 
-அந்த படகில் சிரியா, எகிப்து, பாகிஸ்தான் மற்றும் பங்களாதேஷ் ஆகிய நாடுகளில் இருந்து அகதிகளை ஏற்றிக்கொண்டு லிபியாவில் இருந்து படகு சென்றுள்ளது.
+The German assistant group, Resqship, said that 10 bodies were trapped on the floor under the ship, including two men, who were drowned from the boat.
+
+The survivors were handed over to the Italian Coast Guard and taken to shore on Monday morning.
+
+The boat has been loaded with refugees from Syria, Egypt, Pakistan and Bangladesh and boarded the boat from Libya.
+
+Meanwhile, about 200 km east of Italy's Calabria. The second boat departed from Turkey (125 miles) has crashed.
+
+64 people from the boat disappeared and 11 people were rescued by the Italian Coast Guard and taken to shore.. In it, the body of a deceased woman.
 
 ...
 
 [Data](articles/7cd3bb23.json)
+
+[Extended Data](ext_articles/7cd3bb23.ext.json)
 
 ---
 
@@ -254,27 +320,35 @@ Police Special Task Force officials have raided the Sri Jayewardenepura Army cam
 
 ---
 
-### தொடர் போராட்டத்தில் ஈடுபடப்போவதாக கிராம உத்தியோகத்தர்கள் எச்சரிக்கை !
+### Grama Niladhari warns
 
 *2024-06-18 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186324) · `ta`
 
-எதிர்வரும் 24 ஆம் திகதி தமது கோரிக்கைகளுக்கு உரிய தீர்வு வழங்கப்படாவிட்டால் தொடர் வேலை நிறுத்தப்போராட்டத்தில் ஈடுபட நேரிடும் என கிராம உத்தியோகத்தர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+Grama Niladharis threaten indefinite strike from the 24th if their demands, including salary reorganization and essential service provisions like death certificates, aren't addressed. Nandana Ranasinghe plans to negotiate these issues with the government but warns of further strikes if talks fail.
 
-குறித்த விடயத்தை இலங்கை ஐக்கிய கிராம உத்தியோகத்தர்கள் சங்கத்தின் தலைவர் நந்தன ரணசிங்க (Nandana Ranasinghe) அறிவித்துள்ளார்.
+🟩
 
-அத்தோடு, எதிர்வரும் 24 ஆம் திகதி அதிபர் காரியாலயத்தில் தங்களது பிரச்சினைகள் குறித்து அரசாங்கத்துடன் பேச்சுவார்த்தை நடத்த உள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+Grama Niladharis have warned that if their demands are not given a solution on the 24th, they will go on a continuous strike.
 
-இந்த நிலையில், தற்பொழுது சட்டப்படி வேலை என்ற தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்பட்டு வருவதாகவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+Nandana Ranasinghe has announced the matter.
 
-சம்பளம் மற்றும் கொடுப்பனவு போன்றவற்றை மறுசீரமைத்தல் உள்ளிட்ட சில கோரிக்கைகளை கிராம உத்தியோகத்தர்கள் முன்வைத்துள்ளனர்.
+He also said that he would hold talks with the government on their issues at the Chancellor's office on the 24th.
 
-இதனடிப்படையில், நபர் ஒருவரின் மரணத்தின் போது வழங்கப்படும் ஆவணங்கள் போன்ற அத்தியாவசிய சேவைகளை வழங்கி வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+He pointed out that the trade union action is currently being carried out by legal work.
 
-எனினும், கிராம சேவை சான்றிதழ் வழங்குதல் உள்ளிட்ட ஏனைய நடவடிக்கைகளை மேற்கொள்வதில்லை என அவர் குறிப்பிட்டுள்ளார்.
+Grama Niladhari has made some demands, including reorganization of salary and allowance.
 
-...
+Accordingly, he said that he is providing essential services such as documents provided during the death of a person.
+
+However, he said that other measures, including the issuance of the Grama Niladhari Certificate, are not taken.
+
+Nandana Ranasinghe has warned that a series of strike will be carried out if the negotiations fail.
+
+◼️
 
 [Data](articles/23f1c51a.json)
+
+[Extended Data](ext_articles/23f1c51a.ext.json)
 
 ---
 
@@ -400,35 +474,47 @@ The department said that the three train engines were delayed due to the failure
 
 ---
 
-### 3 ரயில்களில் தொழில்நுட்பக்கோளாறு : ரயில் சேவை பாதிப்பு !
+### Technical disorder on 3 trains: Rail service impacts!
 
 *2024-06-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186322) · `ta`
 
-பிரதான ரயில் மார்க்கம் மற்றும்  சிலாபம் ரயில் மார்க்கத்தினூடன ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Due to technical issues affecting three trains, both the main railway and Chilaw services are disrupted, causing rail service impacts.
 
-3 ரயில்கள் தொழில்நுட்பக்கோளாறுக்குள்ளானமையால் பிரதான ரயில் மார்க்கம் மற்றும்  சிலாபம் ரயில் மார்க்கத்தினூடன ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+The Railway Department said that the main railway and Chilaw railway services have been affected.
+
+The Railway Department said that the main railway and Chilaw railway services have been affected due to 3 trains.
 
 ◼️
 
 [Data](articles/3a1e2ec1.json)
 
+[Extended Data](ext_articles/3a1e2ec1.ext.json)
+
 ---
 
-### வெளிநாட்டு கைத்துப்பாக்கிகளுடன் இருவர் கைது !
+### Two arrested with foreign handguns
 
 *2024-06-18 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186321) · `ta`
 
-வெளிநாட்டில் தயாரிக்கப்பட்ட இரண்டு கைத்துப்பாக்கிகள் மற்றும் இரண்டு மகசீன்களுடன் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+Two men, aged 45 and 55, were arrested by the Police STF for possessing foreign-made handguns and local firearms in Hangwella. One suspect had a foreign handgun, while the other had a locally made gun, both found in the same location. The suspects are now under investigation by Hangwella and Horana police.
 
-விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் அடிப்படையில்  ஹங்வெல்ல பிரதேசத்தில் உள்ள வீடொன்றில் மறைத்து வைக்கப்பட்டிருந்த வெளிநாட்டில் தயாரிக்கப்பட்ட கைத்துப்பாக்கியுடன் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-அத்தோடு, அதே  வீட்டில் உள்நாட்டில் தயாரிக்கப்பட்ட  துப்பாக்கியுடன் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police Special Task Force (STF) said that two men have been arrested with two handguns and two magazines manufactured abroad.
 
-கைதுசெய்யப்பட்ட சந்தேகநபர்கள்  45 மற்றும் 55 வயதுடையவர்கள் எனவும் மேலதிக விசாரணைகளுக்காக ஹங்வெல்ல மற்றும் ஹொரணை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+Based on information received by the Special Task Force, a suspect has been arrested with a handgun made abroad in a house in Hangwella area.
+
+In addition, police said that another suspect was arrested with a locally manufactured gun in the same house.
+
+The arrested suspects are aged 45 and 55 and have been handed over to the Hangwella and Horana police for further investigations.
 
 ◼️
 
 [Data](articles/96a76d19.json)
+
+[Extended Data](ext_articles/96a76d19.ext.json)
 
 ---
 
@@ -2261,47 +2347,5 @@ The shooting of the film is completed and the post -shooting technical work is u
 [Data](articles/7d90726b.json)
 
 [Extended Data](ext_articles/7d90726b.ext.json)
-
----
-
-### Special toll-free railway service for Poson week
-
-*2024-06-17 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99932/special-toll-free-railway-service-for-poson-week) · `en`
-
-Sri Lanka Railways has decided to implement a special railway service offering toll-free rides for a week starting from today (17) for passengers heading to Mihintale from Anuradhapura for Poson Poya Day.
-
-Moreover, necessary steps have been taken to implement a special bus service from Maho railway station to Anuradhapura for the railway passengers who come from Colombo to Maho.
-
-Due to the ongoing renovation activities along the Northern Railway track between Maho and Anuradhapura railway stations, no trains will be running from Maho to Anuradhapura during this period. Therefore, to accommodate pilgrims’ convenience, it has been decided to allocate around 400 additional buses to facilitate this.
-
-In addition, Minister of Highways, Transport, and Mass Media, Bandula Gunawardena inaugurated the renovated railway line in between Mihintale and Anuradhapura today (17).
-
-...
-
-[Data](articles/ffffc8da.json)
-
-[Extended Data](ext_articles/ffffc8da.ext.json)
-
----
-
-### Explosion in water pipe: Water supply returns to normal by midnight
-
-*2024-06-17 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186297) · `ta`
-
-Water supply disruptions in Homagama suburbs due to a pipe explosion from the Kalatuwa Water Plant have been resolved by midnight. The affected areas include Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta, and Matagoda.
-
-🟩
-
-The National Water Supply and Drainage Board said that the water supply suspended in several parts of the Homagama suburbs will return to normal today (17) due to the explosion in the water -driven pipe from the Kalatuwa Water Planting Center.
-
-A car near the Kodagama junction on the Hylevel Road early this morning (17) was hit by a pipe.
-
-As a result, water supply has been suspended until the re -notice of the Kodagama, Homagama, Pannipiti, Rukmalgama, Pelanwatta and Matagoda areas.
-
-◼️
-
-[Data](articles/71fb0f7e.json)
-
-[Extended Data](ext_articles/71fb0f7e.ext.json)
 
 ---

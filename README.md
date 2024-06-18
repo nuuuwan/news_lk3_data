@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 10:19:24**
+As of **2024-06-18 10:34:55**
 
 ## Newspaper Stats
 
-*Scraped **30,886** Articles*
+*Scraped **30,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
-adalk | 2,679
+adalk | 2,680
 adaderanalk | 3,499
-tamilmirrorlk | 3,625
+tamilmirrorlk | 3,626
 dailymirrorlk | 4,733
 virakesarilk | 4,748
 adaderanasinhalalk | 5,010
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,884 (100.0%) of 30,886 articles have been extended.
+30,886 (100.0%) of 30,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### தமிழக மீனவர்கள் 4 பேர் கைது
+
+*2024-06-18 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-4-பேர்-கைது/175-339064) · `ta`
+
+நெடுந்தீவு அருகே மீன் பிடித்துக் கொண்டிருந்த தமிழக மீனவர்கள் நான்கு பேரை இலங்கை கடற்படை திங்கட்கிழமை (17) கைது செய்துள்ளது. மீனவர்களை படகுகளுடன் சிறை பிடித்து இலங்கை கடற்படை முகாமில் வைத்து விசாரணை நடத்தி வருகிறது.
+
+மேலும், கைதான மீனவர்கள் 4 பேரும் இராமநாதபுரத்தில் இருந்து மீன் பிடிக்க சென்றவர்கள் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d00fe6b0.json)
+
+---
+
+### පිස්තෝල දෙකක් සමඟ දෙදෙනෙක්  අත්අඩංගුවට
+
+*2024-06-18 10:09:46* · [`adalk`](https://www.ada.lk/breaking_news/පිස්තෝල-දෙකක්-සමඟ-දෙදෙනෙක්--අත්අඩංගුවට/11-410277) · `si`
+
+විදේශ රටක නිෂ්පාදිත පිස්තෝල ගිනි අවි දෙකක්, මැගසින් දෙකක් සමග පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකා ජයවර්ධනපුර කඳවුර කියයි.
+
+හංවැල්ල පහළ හංවැල්ල   ප්‍රදේශයේ සිදුකළ වැටලීමේදී ව්‍යාපාරිකයෙකු සහ හොරණ ප්‍රදේශයේ සිදු කළ වැටලීමේදී ගරාජ හිමියෙකු අත්අඩංගුවට ගත් බව පොලිසිය සඳහන් කරයි.
+
+විශේෂ බලකා නිලධාරීන්ට ලද තොරතුරකට අනුව හංවැල්ල පහළ හංවැල්ල ප්‍රදේශයේ   නිවසක සඟවා තිබූ විදේශ රටක නිෂ්පාදිත පිස්තෝල ගිනිඅවි යක් සමග සැකකරු අත්අඩංගුවට ගෙන  සිදු කරන ලද ප්‍රශ්න කිරීමේදී අනාවරණ වූ තොරතුරු අනුව හොරණ පොලිස් වසමේ දබර මීවන පලාන ප්‍රදේශයේ නිවසක සඟවා තිබූ තවත් විදේශීය රටක නිෂ්පාදිත පිස්තෝල ගිනි අවියක් සමග  එම නිවසේදී තවත් සැකකරුවෙකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+සැකකරුවන්ට මෙම ගිනි අවි ලද ආකාරය සහ ඔවුන් මෙම ගිනි අවි අපරාධ සඳහා යොදා ගත්තා දැයි විමර්ශන සිදුකිරීම සඳහා     අත්අඩංගුවට ගත් වයස අවුරුදු 45 හා 55 අතර පසුවන සැකකරුවන් දෙදෙනා හංවැල්ල සහ හොරණ පොලිසි වලට වැඩිදුර විමර්ශන සඳහා භාරදී ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකා  ජයවර්ධනපුර හමුදා කඳවුරේ නිලධාරීන් වැටලීම සිදුකර ඇත .
+
+◼️
+
+[Data](articles/4987db58.json)
+
+---
 
 ### Parliamentary Council begins
 
@@ -1014,6 +1048,8 @@ This is an aspect of the change that has taken place in contrast to the politics
 
 [Data](articles/eea4103e.json)
 
+[Extended Data](ext_articles/eea4103e.ext.json)
+
 ---
 
 ### 2024-06-17 (Monday)
@@ -1568,23 +1604,31 @@ Speaking to the media in Galle, Sirisena said: “If I did not resign from my po
 
 ---
 
-### සරසවි අනධ්‍යන සේවකයන් අද කොළඹට
+### University non-academic workers today
 
 *2024-06-17 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්-අද-කොළඹට/11-410272) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයන්ට ඇති වී තිබෙන ගැටලු විසඳන ලෙස ඉල්ලා අද(18දා) කොළඹදී විරෝධතා ව්‍යාපාරයක් පවත්වන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක වෘත්තීය සමිති සඳහන් කරයි.
+Trade unions in Sri Lanka's universities plan a protest in Colombo today, demanding solutions to non-academic staff issues. The unions began a 48-day strike in Jaffna over unresolved problems, affecting non-academic workers' livelihoods. They demand pay raises similar to those granted to public servants in 2016, highlighting the disparity in treatment between academic and non-academic staff.
 
-මෙම විරෝධතාවය පැවැත්වීමෙන් පසු ඉදිරි වෘත්තීය ක්‍රියාමාර්ග තීරණය කිරීම සඳහා වෘත්තීය සමිති නියෝජිතයන් අද(18දා)  සවස රැස්වන බවද පෙන්වා දෙයි.
+🟩
 
-පවතින ගැටලු විසඳන ලෙස ඉල්ලා ආරම්භ කළ වැඩවර්ජනයට අදට (18දා) දින 48ක් ගත වී තිබෙන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක වෘත්තීය සමිති සඳහන් කරයි.
+University, university trade unions states that a protest campaign in Colombo will be held today (18th) demanding the solution of university non-academic issues.
 
-ගැටලුවලට විසඳුම් ලබා දීම ප්‍රමාද කරන නිසා එයට එරෙහිව පසුගිය 14 දින සිට විරෝධතා ව්‍යාපාර ආරම්භ කළ බවත් මේ අනුව විශ්වවිද්‍යාල මූලික කරගනිමින් 14වන දින දිවයින පුරා විරෝධතා පැවැත් වූ බවද එම සංගම් නියෝජිතයෝ පෙන්වා දෙති.
+The trade union representatives will meet today (18) to determine the future career action.
 
-එම ක්‍රියාමාර්ගයට අනුවත් ගැටලු විසඳීමට බලධාරීන් කටයුතු නොකළ නිසා සියලුම විශ්වවිද්‍යාලවල අනධ්‍යයන සේවකයන් අද (18දා) කොළඹට පැමිණි විරෝධතා ව්‍යාපාරයක් පැවැත්වීමට කටයුතු කරන බවද පෙන්වා දෙයි.
+According to the Jaffna, university union trade unions say that 48 days of the strike which was begun to address the problems.
 
-...
+The protesters indicate that the protests were established in the country on the 14th of the 14th of the 14th of the 14th due to the delay in solutions to problems.
+
+It also pointed out that the non-academic workers of non-academic workers in Colombo will hold a protest to Colombo today (18).
+
+Since the government employees have not yet been granted to public servants in 2016, there was no growth in order to increase the monthly hired allowance and demanding the increase in the monthly hike.
+
+◼️
 
 [Data](articles/a9c59752.json)
+
+[Extended Data](ext_articles/a9c59752.ext.json)
 
 ---
 
@@ -2299,57 +2343,5 @@ Accordingly, the Ministry of Buddha Sasana has taken steps to publish Poson week
 [Data](articles/e1fed31a.json)
 
 [Extended Data](ext_articles/e1fed31a.ext.json)
-
----
-
-### Israeli Prime Minister makes a strong decision
-
-*2024-06-17 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197849) · `si`
-
-Israeli PM Netanyahu dissolves "war cabinet" amid tensions. A key figure resigned last week, followed by clashes in Gaza. Eight Israeli soldiers died from an explosion in South Gaza, marking the first assault since January.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahu has decided to dissolve the "war cabinet".
-
-The known figure of that cabinet was quit last week.
-
-After that war, a clash was caused by the Gaza.
-
-Meanwhile, 8 Israeli soldiers were killed following an explosion in South Gaza last weekend.
-
-It is said that after January last January, the Israeli army was assaulted.
-
-◼️
-
-[Data](articles/6a63aad2.json)
-
-[Extended Data](ext_articles/6a63aad2.ext.json)
-
----
-
-### Native lands of Tamils ​​in Mullaitivu district
-
-*2024-06-17 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186265) · `ta`
-
-In Mullaitivu district, Tamil natives' lands have been transferred to Sinhalese, affecting 3389 Tamil families without land. The district, once 2415 sq. km., now faces land and housing issues post-LTTE silence. Despite 4238 Sinhalese families receiving land and housing, 47455 families struggle, with 12545 settled in Tamil areas, 6382 Muslims, and 121799 others. Irrigation ponds owned by Tamils have also been seized. Efforts by 28676 youths for land in 2022 remain unfulfilled.
-
-🟩
-
-Manalaru in the Mullaitivu district has been converted into Weloya and has taken over the native lands of the Tamil people and handed over to 4238 Sinhalese people.. But 3389 Tamil families have no land, former Northern Provincial Council member Durairasa Ravikaran said.
-
-He made this comment to the media after an event in Mullaitivu today (17).
-
-Mullaitivu District in the Northern Province 2415 sq. Km. It is predicted to have nearly 5 million ninety thousand acres.
-
-After the silence of the Liberation Tigers of Tamil Eelam (LTTE). 4238 Sinhalese families have provided land and provided housing facilities. The government has taken the native lands of the Tamil people.
-
-There are 47455 total families and 140931 population in Mullaitivu district. Of these, 12545 from 4557 settlement in the native places of Tamils, 6382 from 1675 families as Muslim people and 121799 from 41210 families.
-
-...
-
-[Data](articles/67594df5.json)
-
-[Extended Data](ext_articles/67594df5.ext.json)
 
 ---

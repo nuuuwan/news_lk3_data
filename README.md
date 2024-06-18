@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 14:34:48**
+As of **2024-06-18 14:53:27**
 
 ## Newspaper Stats
 
-*Scraped **30,933** Articles*
+*Scraped **30,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,687
+adalk | 2,688
 adaderanalk | 3,506
 tamilmirrorlk | 3,632
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,021
+adaderanasinhalalk | 5,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,933 (100.0%) of 30,933 articles have been extended.
+30,933 (100.0%) of 30,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### දෙවන එක්දින තරගයේ ජය ශ්‍රී ලංකාවට
+
+*2024-06-18 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197884) · `si`
+
+ශ්‍රී ලංකාව කාන්තා කණ්ඩායම සහ බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම අතර අද (18) පැවැති දෙවෙනි එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 05ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම පන්දුවාර 31ක් තුළ සියලුදෙනා දැවී ලබා ගත්තේ ලකුණු 92ක් පමණි.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකාව කාන්තා කණ්ඩායම පන්දුවාර 21යි පන්දු 2ක් තුළ කඩුලු 05ක් දැවී ලකුණු 93ක් ලබා ජයග්‍රහණය වාර්තා කිරීමට සමත් විය.
+
+◼️
+
+[Data](articles/b1e3f608.json)
+
+---
 
 ### Thailand passes landmark bill recognising marriage equality
 
@@ -211,6 +227,24 @@ The Founder of Namal Uyana, said he said, Wawest Rahula Thero,
 [Data](articles/dcdbf182.json)
 
 [Extended Data](ext_articles/dcdbf182.ext.json)
+
+---
+
+### වයෝවෘද කාන්තාවට දස වද දී නිවසේ දේපළ කොල්ලකාලා
+
+*2024-06-18 12:42:01* · [`adalk`](https://www.ada.lk/breaking_news/වයෝවෘද-කාන්තාවට-දස-වද-දී-නිවසේ-දේපළ-කොල්ලකාලා/11-410285) · `si`
+
+නාඳුනන පුද්ගලයින් දෙදෙනකු විසින් නිවසක හුදකලාවේ රැදී සිටි වයෝවෘද්ධ කාන්තාවකගේ දැත් දෙපා සහ මුඛය ලනුවලින් ගැටගසා ඇදක බැද නිවසේ තිබූ භාණ්ඩ සොරාගෙන  ගොස් ඇති බවට ලද පැම්ණිල්ලක් මත වාද්දුව පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+
+වාද්දුව බාලිකාව පාරේ පදිංචි 64 හැවිරිදි කාන්තාවක විසින් පෙරේදා (17) කළ පැමිණිල්ලක් මත මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+
+පැමිණිලිකාර කාන්තාව නිවසේ තනිව රැදී සිට ඇති අතර , පිහියක් රැගෙන ඇතුළුවූ නාඳුනන පුද්ගලයින් දෙදෙනෙකු ඇයව ලණුවලින් ගැට ගසා ඇදක  බැද නිවසේ තිබූ රූපවාහිනි යන්ත්‍රයක්, ජංගම දුරකථනයක් සහ මුදල් සොරාගෙන ගොස් ඇති බවට පැමිණිල්ලේ සඳහන්ව ඇතැයි පොලිසිය කීය.
+
+සැකකරුවන් විසින් කාන්තාවගේ ඇගිලි කිහිපයකට කැපුම් තුවාල සිදුකර ඇති අතර , ඇයගේ මුඛයටද තුවාල සිදුව තිබූ බැවින් රෝහල් ගතවීමට පොලිසිය විසින් උපදෙස් දී තිබේ.
+
+◼️
+
+[Data](articles/86486bc4.json)
 
 ---
 
@@ -2305,49 +2339,5 @@ Sri Lanka won by 83 runs in the match with the Netherlands. Or it would have ret
 [Data](articles/cafe43f1.json)
 
 [Extended Data](ext_articles/cafe43f1.ext.json)
-
----
-
-### Thinking outside comfort zones to achieve progress
-
-*2024-06-17 20:35:20* · [`dailyftlk`](https://www.ft.lk/columns/Thinking-outside-comfort-zones-to-achieve-progress/4-763173) · `en`
-
-Citizens should demand that candidates and political parties participating in these elections present clearly articulated policy platforms that will enable the electorate to make an informed choice at the polls – Pic by Shehan Gunasekara
-
-A proposal by Pathfinder Foundation Founder Milinda Moragoda to all presidential candidates and political parties
-
-The Presidential and possible parliamentary elections are expected to take place later in 2024 and will be the most important set of elections in our post-Independence history. Sri Lanka can come out of the prevailing economic and political crises only if leaders and citizens are willing to recognise that the economy will have to grow by at least 6% per annum for the next 10 years, which is twice the growth rate projected by Sri Lankan authorities and international economists at the moment.
-
-...
-
-[Data](articles/a6673c3a.json)
-
-[Extended Data](ext_articles/a6673c3a.ext.json)
-
----
-
-### Arrested by two police officers
-
-*2024-06-17 20:31:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பொலிஸ்-உத்தியோகத்தர்கள்-கைது/175-339036) · `ta`
-
-Two police officers were arrested after a suspect, detained for drug possession, escaped from the Chilaw Police Station. The suspect, a 29-year-old drug trafficker, was caught with heroin but managed to flee on January 16th. The officers are accused of aiding his escape.
-
-🟩
-
-Two police officers have been arrested in connection with the incident where a suspect who was detained at the Chilaw Police Station has been detained, police said.
-
-A suspect has been arrested with heroin drugs during a roundabout carried out by the Chilaw Police Crime Unit on the 13th.
-
-Subsequently, the suspect fled the police protection at around 12.30 pm on Sunday (16).
-
-A 29 -year -old drug trafficker from Chilaw area escaped.
-
-Subsequently, two police officers suspected of helping the suspect to escape the investigation.. Remble
-
-◼️
-
-[Data](articles/17063711.json)
-
-[Extended Data](ext_articles/17063711.ext.json)
 
 ---

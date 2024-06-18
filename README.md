@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 17:34:59**
+As of **2024-06-18 17:55:27**
 
 ## Newspaper Stats
 
-*Scraped **30,967** Articles*
+*Scraped **30,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,511
 tamilmirrorlk | 3,635
 dailymirrorlk | 4,733
 virakesarilk | 4,767
-adaderanasinhalalk | 5,028
+adaderanasinhalalk | 5,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,967 (100.0%) of 30,967 articles have been extended.
+30,967 (100.0%) of 30,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### කැලයේ අතරමං වූ කුඩා දරුවෙක් සොයාගනී
+
+*2024-06-18 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197891) · `si`
+
+ඩන්කන් වතුයායේ ඊයේ (17) රාත්‍රියේ අතුරුදන්ව සිටි සිව් හැවිරිදි පිරිමි දරුවා මෙලෙස අද (18) උදෑසන සොයාගෙන ඇති බව වාර්තා වෙයි.
+
+නොර්වුඩ් පොලීසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක ප්‍රියංකර කොහොල්දෙණිය මහතා පැවසුවේ නල්ලතන්නිය ලක්ෂපාන ප්‍රදේශයේ පදිංචිව සිටි සිවනාදන් අභිලාෂ් නමැති දරුවා මෙලෙස සොයාගත් බවය.
+
+එම දරුවා ඊයේ (17) සිය දෙමාපියන් සමග නොර්වුඩ් ප්‍රදේශයේ ඥාති නිවසක පැවැති විවාහ මංගල්‍ය උත්සවයකට පැමිණ ඇති අතර එහිදී දරුවා අසල තිබූ ලඳු කැලෑවට ඇතුළුවී තිබෙන බව මූලික විමර්ශනවලදී හෙළිවී ඇත.
+
+පසුව නැවත නිවසට පැමිණීමට මාර්ගය සොයා ගැනීමට නොහැකිවීමෙන් කැලය තුළ අතරමංවී තිබේ.
+
+ඒ අනුව පොලීසිය සහ ප්‍රදේශවාසීන් එක්ක සෝදිසි කිරීම් සිදුකර තිබෙන අතර අද (18) උදෑසන ලඳු කැලෑවේ කාණුවක වැටී සිටියදී දරුවාව සොයාගෙන තිබුණි.
+
+ආහාර නොමැතිවීම හේතුවෙන් දරුවා සොයාගත් අවස්ථාවේ ඔහු දුර්වලවී සිටි බවත් පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a147a1c7.json)
+
+---
 
 ### The constable shooting at the police barracks of Kahathuduwa police operator
 
@@ -2371,31 +2393,5 @@ Dr. Thun Wickramanaya, the co-executor of the UPFA and childhood protection were
 [Data](articles/de0cc084.json)
 
 [Extended Data](ext_articles/de0cc084.ext.json)
-
----
-
-### The country can improve on the basis of model policy
-
-*2024-06-18 02:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-அடிப்படையிலே-நாட்டை-முன்னேற்ற-முடியும்/175-339059) · `ta`
-
-The Minister of Social Empowerment emphasized that national progress hinges on effective policies, not individual or party efforts. She highlighted the government's successful reforms under President Ranil Wickremesinghe, attributing economic growth to his leadership. However, she cautioned that true development requires more comprehensive policies, as individuals and factions alone cannot significantly impact the nation's economy.
-
-🟩
-
-Can progress the country on the basis of policies. The Minister of Social Empowerment Anuba Basguel said that it could not be done by individuals or parties.
-
-He was speaking at a press conference held at the Presidential Media Center yesterday.. He further stated that
-
-The current government has successfully carried out reforms in the struggle of the people. In the meantime, many have come forward to take responsibility for the country. But they do not have any policies. When many people in the country accept the government's program, only a few acts beyond that.
-
-The fact is that the reforms brought by President Ranil Wickremesinghe have been successful. The government led by President Ranil Wickremesinghe is the foundation for economic progress and is implementing it without any problems.
-
-Can only build the country on the basis of more policies. Cannot do that by individuals or parties. Parts and individuals will change the economy of a country.
-
-...
-
-[Data](articles/f30c4a22.json)
-
-[Extended Data](ext_articles/f30c4a22.ext.json)
 
 ---

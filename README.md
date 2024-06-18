@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 03:19:31**
+As of **2024-06-19 03:34:30**
 
 ## Newspaper Stats
 
-*Scraped **31,009** Articles*
+*Scraped **31,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,792
 dailyftlk | 1,883
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,641
+tamilmirrorlk | 3,642
 dailymirrorlk | 4,733
 virakesarilk | 4,779
 adaderanasinhalalk | 5,036
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,009 (100.0%) of 31,009 articles have been extended.
+31,009 (100.0%) of 31,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### ’ஜனாஸாக்களை எரித்த பாவத்தின் பங்காளி ரணில்’
+
+*2024-06-19 01:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்களை-எரித்த-பாவத்தின்-பங்காளி-ரணில்/175-339102) · `ta`
+
+கொரோனா பெருந்தொற்றுத் தாக்கத்தில் உயிரிழந்த முஸ்லிம்களின்   ஜனாஸாக்களை தகனம்  செய்த கோட்டாபய ராஜபக்ஸ  மற்றும் பொதுஜன பெரமுன தலைமையிலான அரசாங்கத்தின் பாவத்தின் பங்காளியாக தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் மாறி விட்டதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹ்மான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18)  விசேட கூற்றை முன்வைத்தே இவ்வாறு குற்றம் சாட்டிய அவர் மேலும் பேசுகையில்,
+
+கொரோனா பெருந்தொற்றினால் உயிரிழந்தவர்களின் உடல்கள் தகனம் செய்யப்பட்டமை குறித்து ஜனாதிபதி பேசியிருந்தார்.துறைசார் நிபுணர்கள் வழங்கிய ஆலோசனைகளுக்கு அமையவே உடல்கள் தகனம் செய்யப்பட்டதாக ஜனாதிபதி கூறுகின்றார்
+
+கொரோனாபெருந்தொற்றுத் தாக்கத்தில் உயிரிழந்த முஸ்லிம்களின்   ஜனாஸாக்களை தகனம்  செய்ய வேண்டாம்,சுகாதார அறிவுறுத்தலுக்கு அமைய  நல்லடக்கம் செய்யுங்கள் என்று அப்போதைய  ஜனாதிபதி கோட்டாபய  ராஜபக்ஸவிடம் பலமுறை வலியுறுத்தினோம்.இவ்விடயம் குறித்து ஆராய்வதற்கு தொழில்நுட்ப குழுவும்,துறைசார் நிபுணர்களின் குழுவும் நியமிக்கப்பட்டது.
+
+...
+
+[Data](articles/359340dc.json)
+
+---
 
 ### Can't accept the gender equality judgment
 
@@ -2399,23 +2417,5 @@ President Ranil Wickremesinghe addressing the Parliament addressing the Parliame
 [Data](articles/68b6e84b.json)
 
 [Extended Data](ext_articles/68b6e84b.ext.json)
-
----
-
-### Sri Lanka telecommunications bill some clauses ruled unconstitutional by SC: Speaker
-
-*2024-06-18 10:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecommunications-bill-some-clauses-ruled-unconstitutional-by-sc-speaker-168488/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court has found a number of clauses in a proposed amendment to the Telecom Telecommunications Amendment bill unconstitutional, speaker Mahinda Yapa Abeywardana said.
-
-“Clause No 8, proposed section 9A 2 of the bill is inconsistent with Article 12 1 of the constitution, however this  inconsistency shall cease if word ‘may’ will be replaced with word ‘shall’ as set out in the determination of the supreme court.”
-
-“Clause No 9 is inconsistent with Article 12 1 of the constitution and only can be passed with special majority required under paragraph 2 of the Article 84. However, the inconsistency shall cease if clause is amended as set out in the determination of the supreme court.
-
-...
-
-[Data](articles/a14736f9.json)
-
-[Extended Data](ext_articles/a14736f9.ext.json)
 
 ---

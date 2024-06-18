@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 06:00:55**
+As of **2024-06-18 07:00:42**
 
 ## Newspaper Stats
 
-*Scraped **30,861** Articles*
+*Scraped **30,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,495
-tamilmirrorlk | 3,620
+tamilmirrorlk | 3,621
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 4,999
+adaderanasinhalalk | 5,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,850 (100.0%) of 30,861 articles have been extended.
+30,859 (100.0%) of 30,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### වැසි තත්ත්වයේ තරමක වැඩිවීමක්
+
+*2024-06-18 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197861) · `si`
+
+දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (19) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/09524401.json)
+
+---
 
 ### We will unite to strengthen 69 lakhs - universal power representatives
 
@@ -57,6 +75,22 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 [Data](articles/6e9b64a9.json)
 
 [Extended Data](ext_articles/6e9b64a9.ext.json)
+
+---
+
+### ’விவசாயிகளுக்கு நன்றி செலுத்தும் உறுமய’
+
+*2024-06-18 02:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-நன்றி-செலுத்தும்-உறுமய/175-339058) · `ta`
+
+காணி உறுதிகள் இல்லாமல் நாட்டு மக்களுக்கு சோறு தந்த விவசாய மக்களுக்கு நன்றி செலுத்தும் விதமாகவே அரசாங்கத்தினால் உறுமய வேலைத்திட்டம் முன்னெடுக்கப்படுவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+உறுமய தேசிய வேலைத்திட்டத்தின் கீழ், மகாவலி வளவ வலயத்தில் தெரிவு செய்யப்பட்ட 45 ஆயிரத்து 253 பேரில் 1,524 பேருக்கு, அம்பிலிபிட்டி மகாவலி விளையாட்டரங்கில் நேற்று நடைபெற்ற காணி உறுதி வழங்கும் நிகழ்விலேயே ஜனாதிபதி இதனை தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டை நாம் பொறுப்பேற்ற வேளையில் எரிபொருள், மருந்து, உணவுத் தட்டுப்பாடு காணப்பட்டது. 2022 – 2023 சிறுபோகத்தில் விளைச்சல் அதிகரித்தது. அதனால் கடவுள் செயலால் இதனைச் செய்ய முடியும் என்று நம்பினோம். விவசாயிகளே அதற்குப் பக்கலமாக நின்றனர். இப்போது விவசாயிகளுக்கான உரம் உள்ளிட்ட தேவைகளைப் பூர்த்தி செய்வதற்கான முன்னெடுப்புக்களை ஆரம்பித்துள்ளோம்.
+
+...
+
+[Data](articles/5d090d7a.json)
 
 ---
 
@@ -338,6 +372,8 @@ Serendib Flour Mills’ participation illustrates its dedication to providing hi
 
 [Data](articles/e995fa17.json)
 
+[Extended Data](ext_articles/e995fa17.ext.json)
+
 ---
 
 ### Janashakthi Life soars: Q1 Gross Written Premiums up 44%, Profit Before Tax grows 29%
@@ -351,6 +387,8 @@ Janashakthi Life’s Gross Written Premium (GWP) growth surged by an impressive 
 ...
 
 [Data](articles/f25a40f4.json)
+
+[Extended Data](ext_articles/f25a40f4.ext.json)
 
 ---
 
@@ -384,6 +422,8 @@ Lahiru Wijeratne, CEO of Modern Pack Lanka, highlighted: “While the last three
 
 [Data](articles/8843e3c1.json)
 
+[Extended Data](ext_articles/8843e3c1.ext.json)
+
 ---
 
 ### ‘RPCs to continue to contest govt. imposed 70% wage hike in courts’
@@ -397,6 +437,8 @@ The release added: ‘The PA emphasizes that wages must be intrinsically linked 
 ...
 
 [Data](articles/09e29114.json)
+
+[Extended Data](ext_articles/09e29114.ext.json)
 
 ---
 
@@ -412,6 +454,8 @@ A Venture Capital (VC) fund licensed under the Monetary Authority of Singapore, 
 
 [Data](articles/c64a76eb.json)
 
+[Extended Data](ext_articles/c64a76eb.ext.json)
+
 ---
 
 ### Minor Hotels debuts NH Collection in Sri Lanka with rebranding of Mövenpick Colombo
@@ -426,6 +470,8 @@ Located in the heart of Colombo, the hotel is ideally positioned to offer guests
 
 [Data](articles/4670f512.json)
 
+[Extended Data](ext_articles/4670f512.ext.json)
+
 ---
 
 ### The Gift of Life this Vesak: AIA Insurance brings clean water to Kimbulpatiyawa
@@ -437,6 +483,8 @@ This Vesak, AIA Insurance, presented the greatest gift of life to the villagers 
 ...
 
 [Data](articles/08a750d7.json)
+
+[Extended Data](ext_articles/08a750d7.ext.json)
 
 ---
 
@@ -2331,51 +2379,5 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 [Data](articles/8aa717f7.json)
 
 [Extended Data](ext_articles/8aa717f7.ext.json)
-
----
-
-### The Sri Pada road and the pilgrims remain
-
-*2024-06-17 13:02:58* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-පාද-මාර්ගය-මෙන්ම-මඩු-මාර්ගය-පවතින්නෙත්-වන්දනාකරුවන්ට/11-410259) · `si`
-
-President Ranil Wickremesinghe addressed the Mannar District Development Committee, emphasizing the importance of uninterrupted pilgrimage routes and the need for infrastructure improvements, including the renovation of the Madhu Church and roads. He highlighted the potential for green energy production in the region, aiming to boost the economy through partnerships with India. Additionally, he discussed the restoration of development projects in Mannar, which suffered during a three-decade war, focusing on sectors like tourism, fisheries, and renewable power.
-
-🟩
-
-President Ranil Wickremesinghe said that the mother pilgrims would provide their facilities to engage in their pilgrimage without interruption.
-
-He said the President said that the President had to come to the Madhu Church and the pilgrims coming to the Sri Pada is for pilgrims, he said he would not see the pilgrims.
-
-The President also informed the President to inform the Presidential Secretariat immediately after his arrests were taken back to the future.
-
-President Ranil Wickremesinghe made this statement participating at the Mannar District Development Committee meeting held at the Mannar District Secretariat yesterday.
-
-The President also pointed out the need to discuss and addressing everyone if they had arisen.
-
-The President also instructed the Army to renovate the existing Madu Bishop Thero, the Department of Forest Department, Road Development Authority and the Sri Lanka Police.
-
-...
-
-[Data](articles/8bb119f7.json)
-
-[Extended Data](ext_articles/8bb119f7.ext.json)
-
----
-
-### Notice of the recovery of water supply
-
-*2024-06-17 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197844) · `si`
-
-The National Water Supply and Drainage Board announces repairs on the damaged pipe between the Labugama-Karutawa and Labugama-Kalatuwawa reservoirs, redirecting water to Maharagama.
-
-🟩
-
-The National Water Supply and Drainage Board says that the damaged pipe to the Labugama-Karutawa reservoir from the Labugama-Kalatuwawa reservoir will be remitted to the Maharagama.
-
-◼️
-
-[Data](articles/c00b4730.json)
-
-[Extended Data](ext_articles/c00b4730.ext.json)
 
 ---

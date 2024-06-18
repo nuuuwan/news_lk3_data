@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 10:53:27**
+As of **2024-06-18 11:05:13**
 
 ## Newspaper Stats
 
-*Scraped **30,890** Articles*
+*Scraped **30,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,680
-adaderanalk | 3,500
+adaderanalk | 3,502
 tamilmirrorlk | 3,626
 dailymirrorlk | 4,733
-virakesarilk | 4,748
-adaderanasinhalalk | 5,011
+virakesarilk | 4,754
+adaderanasinhalalk | 5,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,888 (100.0%) of 30,890 articles have been extended.
+30,890 (100.0%) of 30,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### Imputed rental income tax not intended for average-income earners: President
+
+*2024-06-18 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99943/imputed-rental-income-tax-not-intended-for-average-income-earners-president-) · `en`
+
+Delivering a special statement in Parliament today (18), President Ranil Wickremesinghe commented on the introduction of the proposed imputed rental income tax.
+
+The President gave an assurance that the first property would be exempted from taxation, while also noting that it is intended to focus on high-net-worth individuals and not average-income earners, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/012db933.json)
+
+---
+
+### வாடகை வரி விதிக்கப்படுவோர் குறித்து ஜனாதிபதியின் தெளிவுபடுத்தல் !
+
+*2024-06-18 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186339) · `ta`
+
+முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அத்துடன் சாதாரண வருமானம் ஈட்டுபவர்களுக்கு இந்த வரி விதிக்கப்பட மாட்டாது என்றும், அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும் என்றும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/806f7c2f.json)
+
+---
+
+### No justification for coconut oil price hike, says Coconut Development Authority
+
+*2024-06-18 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99942/no-justification-for-coconut-oil-price-hike-says-coconut-development-authority) · `en`
+
+The Coconut Development Authority has stated that there is no valid reason for an increase in the price of coconut oil in the local market.
+
+Its chairman, Professor Roshan Perera emphasized that there has been no tax hike on imported coconut oil, which totaled 42,000 metric tonnes as of May this year, double the amount imported last year.
+
+Given the sufficient supply of coconut oil for domestic consumption, Prof. Perera asserted that any price increase is unjustifiable.
+
+Additionally, a new regulatory program is being planned to control and stabilize coconut oil prices in the market, he added.
+
+◼️
+
+[Data](articles/7b8dbed8.json)
+
+---
+
+### සුනඛ සුරතලුන් වෙනුවෙන්ම වෙන් වූ ගුවන් සේවය
+
+*2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197875) · `si`
+
+අමෙරිකාවේ බාර්ක් එයාර් ගුවන් සේවය සුනඛ සුරතලුන් වෙනුවෙන්ම වෙන් වූ ගුවන් සේවයකි.
+
+මෙතෙක් බාර්ක් එයාර් හි ගමනාන්ත නිව්යෝර්ක්, ලොස් ඇන්ජලීස් සහ ලන්ඩන් දක්වා සීමා වී තිබිණි.
+
+එය ගමනාන්ත පහක් දක්වා පුළුල් කිරීමට බාර්ක් එයාර්ලයින් තීරණය කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ප්‍රංශයේ පැරීසිය, චිකාගෝ, සැන් ෆ්‍රැන්සිස්කෝ, ෆීනික්ස් සහ මියාමි නව ගමනාන්තයි.
+
+බාර්ක් එයාර් සමග ගුවන් සංචාරයේ යෙදෙන සුනඛ සුරතලුන්ට ෂැම්පේන් පානය කිරීමටත්, සම්බාහන අත්දැකීමක් ලබා ගැනීමටත් අවස්ථාව හිමි වේ.
+
+නව ගමනාන්ත වෙන් කර ගැනීම DogsFlyFirst.com වෙබ් අඩවිය හරහා සිදුකර ගත හැකිය.
+
+◼️
+
+[Data](articles/6c2537e3.json)
+
+---
+
+### තර්ජනී යුග දිවියට
+
+*2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197874) · `si`
+
+ආසියාවේ උසම දැල්පන්දු ක්‍රීඩිකාව වන ශ්‍රී ලංකාවේ තර්ජනි සිවලිංගම් ඊයේ (18) විවාහ දිවියට පිවිසියාය.
+
+තර්ජනි අඩි 6යි අගල් 9ක් උස වන අතර, ඇය දැල්පන්දු පිටියේ උසම ක්‍රීඩිකාව ලෙස හැඳින්වේ.
+
+තර්ජනී පසුගිය දැල්පන්දු ලෝක කුසලාන තරගාවලියෙන් පසු දැල්පන්දු පිටියට සමුදුන්නාය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් දැල්පන්දු ලෝක කුසලාන තරගාවලි 4ක් නියෝජනය කිරීමට සමත්වු තර්ජනී ආසියානු දැල්පන්දු තරගාවලි 5ක දි ශ්‍රී ලංකාව නියෝජනය කළාය.
+
+2019 දැල්පන්දු ලෝක කුසලානයට සහභාගීවනවිට තර්ජනීට වයස අවුරුදු 40ක්වූ අතර දැල්පන්දු ලෝක කුසලාන තරගයක් වෙනුවෙන් ක්‍රීඩා කළ වයස්ගතම ක්‍රීඩිකාව බවට ඇය පත්වුණි.
+
+ඇගේ එම වාර්තාවම ඇය 2023 දැල්පන්දු ලෝක කුසලානයට සහභාගීවෙමින් බිඳ හෙළුවාය.
+
+ශ්‍රී ලංකාවේ දැල්පන්දු රැජින ලෙස සැලකෙන තර්ජනී සිවලිංගම්ගේ නව විවාහ ජීවිතයට අද දෙරණ අපෙන් උණුසුම් සුබ පැතුම්.
+
+◼️
+
+[Data](articles/ec1df1fa.json)
+
+---
 
 ### SC rules several clauses of Telecom Amendment Bill are unconstitutional
 
@@ -48,21 +140,49 @@ However, if the contentious clauses are amended, they can be passed with a simpl
 
 [Data](articles/cd119512.json)
 
+[Extended Data](ext_articles/cd119512.ext.json)
+
 ---
 
-### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පත ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව පාර්ලිමේන්තුවට
+### மலையகத்தில் மூன்று பிரதேசங்களில் மதுபான போத்தல்கள் திருட்டு
+
+*2024-06-18 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186326) · `ta`
+
+மலையகத்தில் ஹட்டன், மஸ்கெலியா, கொட்டகலை ஆகிய பிரதேசங்களில் உள்ள மதுபானசாலைகளை உடைத்து மதுபான போத்தல்களை திருடிய பிரதான சந்தேக நபர் கைதுசெய்யப்பட்டுள்ளனர்.
+
+ஹட்டன், மஸ்கெலியா, கொட்டகலை ஆகிய இடங்களில் அமைந்துள்ள மதுபானசாலைகளை உடைத்து மதுபான போத்தல்களை திருடிய பிரதான சந்தேகநபரை திம்புல, ஹட்டன் ஆகிய பொலிஸ் பிரிவில் உள்ள குற்றப்புலனாய்வு பிரிவின் அதிகாரிகள் மடக்கிப்பிடித்துள்ளனர்.
+
+கொட்டக்கலை நகரில் உள்ள மதுபானசாலையொன்றை உடைத்து மதுபான போத்தல்களை திருடிய குற்றச்சாட்டில் ஹட்டன், அளுத்கம பிரதேசத்தைச் சேர்ந்த சந்தேகநபர் திம்புல பத்தனை பொலிஸாரினால் கைதுசெய்யப்பட்டுள்ளார்.
+
+இது தொடர்பில் ஹட்டன் பொலிஸாருக்கு அறிவிக்கப்பட்டதையடுத்து, அட்டன் பொலிஸாரின் குற்றப்புலனாய்வு பிரிவினர் சி.சி.ரி.வி. காட்சிகள் ஊடாக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+சந்தேகநபரிடமிருந்து மேற்கொள்ளப்பட்ட விசாரணையையடுத்து ஹட்டன் பொலிஸார் குறித்த மதுபானசாலைகளில் இருந்து திருடப்பட்டதாக 41 மதுபான போத்தல்களைக் கைப்பற்றியுள்ளனர்.
+
+...
+
+[Data](articles/314893e6.json)
+
+---
+
+### Supreme Court verdict on the Telecommunications Amendment Bill
 
 *2024-06-18 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197873) · `si`
 
-විදුලි සංදේශ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණ තීන්දුව කථානායකවරයා විසින් අද (18) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+The Supreme Court found several clauses in the Telecommunications Amendment Bill unconstitutional, necessitating amendments. The court affirmed the majority of the bill's provisions but highlighted specific areas needing revision to align with constitutional standards.
 
-ඒ අනුව විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, ශ්‍රේෂ්ඨාධිකරණයෙන් පෙන්වා දී ඇති පරිදි සංශෝධනය කළ යුතු බවත් එම තීන්දුවේ සඳහන්ය.
+🟩
 
-එමෙන්ම එහි ඇතැම් වගන්ති විශේෂ බහුතරයකින් සම්මත කළ යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය දැනුම් දී ඇතැයි කථානායකවරයා මෙහිදී පැවසීය.
+The Speaker presented the Supreme Court verdict on the Supreme Court decision on the Telecommunication Bill.
+
+Accordingly, some clauses in the Telecommunications Amendment Bill are not in accordance with the Constitution and the Supreme Court should be amended as shown in the same decision.
+
+The Speaker said the Supreme Court has informed the majority of the clauses of its clauses.
 
 ◼️
 
 [Data](articles/d3271df2.json)
+
+[Extended Data](ext_articles/d3271df2.ext.json)
 
 ---
 
@@ -83,6 +203,28 @@ Also, the four arrested fishermen have been fishing from Ramanathapuram.
 [Data](articles/d00fe6b0.json)
 
 [Extended Data](ext_articles/d00fe6b0.ext.json)
+
+---
+
+### மத்திய தரைக்கடலில் இரு படகுகள் விபத்து ; 11 அகதிகள் பலி ; 64 பேர் மாயம்
+
+*2024-06-18 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186331) · `ta`
+
+தெற்கு இத்தாலியில் மத்தியத்தரைக்கடல் பகுதியில் இரண்டு படகுகள் விபத்துக்குள்ளாகியதில் பதினொரு அகதிகள் உயிரிழந்துள்ளதோடு, 64 பேர் காணாமல் போயுள்ளனர்.
+
+இதனை, ஜேர்மன் தொண்டு நிறுவனம், இத்தாலிய கடலோர காவல்படை மற்றும் ஐக்கிய நாடுகள் சபையின் அகதிகள் அமைப்புகள் தெரிவித்துள்ளன.
+
+ஜேர்மன் உதவிக் குழுவின் நாதிர் மீட்பு கப்பல் இத்தாலிய தீவான லம்பேடுசாவுக்குச் சென்று கொண்டிருந்தபோது அங்கு படகு ஒன்று விபத்துக்குள்ளாகி இருப்பது தெரியவந்துள்ளது.
+
+விபத்துக்குள்ளாகி மூழ்கி கொண்டிருந்த படகிலிருந்து 51 பேரை மீட்டதோடு, அதில் மயக்கமடைந்த இருவர் உட்பட  கப்பலின் கீழ் தளத்தில் 10 உடல்கள் சிக்கியிருந்ததாக ஜேர்மன் உதவிக் குழுவான RESQSHIP தெரிவித்துள்ளது.
+
+உயிர் பிழைத்தவர்கள் இத்தாலிய கடலோர காவல்படையிடம் ஒப்படைக்கப்பட்டு திங்கட்கிழமை காலை கரைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+அந்த படகில் சிரியா, எகிப்து, பாகிஸ்தான் மற்றும் பங்களாதேஷ் ஆகிய நாடுகளில் இருந்து அகதிகளை ஏற்றிக்கொண்டு லிபியாவில் இருந்து படகு சென்றுள்ளது.
+
+...
+
+[Data](articles/7cd3bb23.json)
 
 ---
 
@@ -109,6 +251,30 @@ Police Special Task Force officials have raided the Sri Jayewardenepura Army cam
 [Data](articles/4987db58.json)
 
 [Extended Data](ext_articles/4987db58.ext.json)
+
+---
+
+### தொடர் போராட்டத்தில் ஈடுபடப்போவதாக கிராம உத்தியோகத்தர்கள் எச்சரிக்கை !
+
+*2024-06-18 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186324) · `ta`
+
+எதிர்வரும் 24 ஆம் திகதி தமது கோரிக்கைகளுக்கு உரிய தீர்வு வழங்கப்படாவிட்டால் தொடர் வேலை நிறுத்தப்போராட்டத்தில் ஈடுபட நேரிடும் என கிராம உத்தியோகத்தர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+
+குறித்த விடயத்தை இலங்கை ஐக்கிய கிராம உத்தியோகத்தர்கள் சங்கத்தின் தலைவர் நந்தன ரணசிங்க (Nandana Ranasinghe) அறிவித்துள்ளார்.
+
+அத்தோடு, எதிர்வரும் 24 ஆம் திகதி அதிபர் காரியாலயத்தில் தங்களது பிரச்சினைகள் குறித்து அரசாங்கத்துடன் பேச்சுவார்த்தை நடத்த உள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+இந்த நிலையில், தற்பொழுது சட்டப்படி வேலை என்ற தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்பட்டு வருவதாகவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+
+சம்பளம் மற்றும் கொடுப்பனவு போன்றவற்றை மறுசீரமைத்தல் உள்ளிட்ட சில கோரிக்கைகளை கிராம உத்தியோகத்தர்கள் முன்வைத்துள்ளனர்.
+
+இதனடிப்படையில், நபர் ஒருவரின் மரணத்தின் போது வழங்கப்படும் ஆவணங்கள் போன்ற அத்தியாவசிய சேவைகளை வழங்கி வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+எனினும், கிராம சேவை சான்றிதழ் வழங்குதல் உள்ளிட்ட ஏனைய நடவடிக்கைகளை மேற்கொள்வதில்லை என அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/23f1c51a.json)
 
 ---
 
@@ -231,6 +397,38 @@ The department said that the three train engines were delayed due to the failure
 [Data](articles/0f51f7ff.json)
 
 [Extended Data](ext_articles/0f51f7ff.ext.json)
+
+---
+
+### 3 ரயில்களில் தொழில்நுட்பக்கோளாறு : ரயில் சேவை பாதிப்பு !
+
+*2024-06-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186322) · `ta`
+
+பிரதான ரயில் மார்க்கம் மற்றும்  சிலாபம் ரயில் மார்க்கத்தினூடன ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+3 ரயில்கள் தொழில்நுட்பக்கோளாறுக்குள்ளானமையால் பிரதான ரயில் மார்க்கம் மற்றும்  சிலாபம் ரயில் மார்க்கத்தினூடன ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3a1e2ec1.json)
+
+---
+
+### வெளிநாட்டு கைத்துப்பாக்கிகளுடன் இருவர் கைது !
+
+*2024-06-18 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186321) · `ta`
+
+வெளிநாட்டில் தயாரிக்கப்பட்ட இரண்டு கைத்துப்பாக்கிகள் மற்றும் இரண்டு மகசீன்களுடன் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+
+விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் அடிப்படையில்  ஹங்வெல்ல பிரதேசத்தில் உள்ள வீடொன்றில் மறைத்து வைக்கப்பட்டிருந்த வெளிநாட்டில் தயாரிக்கப்பட்ட கைத்துப்பாக்கியுடன் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+அத்தோடு, அதே  வீட்டில் உள்நாட்டில் தயாரிக்கப்பட்ட  துப்பாக்கியுடன் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைதுசெய்யப்பட்ட சந்தேகநபர்கள்  45 மற்றும் 55 வயதுடையவர்கள் எனவும் மேலதிக விசாரணைகளுக்காக ஹங்வெல்ல மற்றும் ஹொரணை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/96a76d19.json)
 
 ---
 
@@ -2105,237 +2303,5 @@ As a result, water supply has been suspended until the re -notice of the Kodagam
 [Data](articles/71fb0f7e.json)
 
 [Extended Data](ext_articles/71fb0f7e.ext.json)
-
----
-
-### A change of weather in the next 36 hours
-
-*2024-06-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197853) · `si`
-
-The Meteorology Department forecasts heavy rain and gusty winds (40-50 km/h) across the island's southwest region starting June 19. This includes closures in several areas including Western, Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, Trincomalee, North Central, and Moneragala districts.
-
-🟩
-
-The Meteorology Department says that a rainy section of the island's southwest partition is expected to be expected in the next few days from June 19.
-
-Accordingly, several closes in the Western, Sabaragamuwa and Western provinces can also have several closed in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-At times, in the western slopes of the central hills, Trincomalee, North - Medalla and Wahara, Trincomalee and Moneragala Districts. Is. Mee. The Meteorological Department has informed that there is 40-50 strong winds.
-
-◼️
-
-[Data](articles/ecc08f9f.json)
-
-[Extended Data](ext_articles/ecc08f9f.ext.json)
-
----
-
-### Dangerous Patteria infection spreading in Japan
-
-*2024-06-17 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186292) · `ta`
-
-A rare Streptococcal Toxic Shock Syndrome (STSS) outbreak in Japan has infected 977 people since its discovery on February 2nd, leading to 77 deaths between January and March. Symptoms include throat pain, leg pain, fever, and low blood pressure, potentially causing organ failure and death within 48 hours. Professor Ken Kikuchi warns of a potential 30% mortality rate and predicts up to 2,500 cases this year. He urges hand hygiene to prevent further spread, as the disease also increases in other countries.
-
-🟩
-
-In Japan, a rare type of patteria has been spreading in the past few days. The mysterious disease on the 2nd of last month has been revealed.
-
-STSS. This type of infection, a streptococcal taxic shock syndrome (STSS), has been affected by a total of 977 people.. This number was 941 last year.
-
-Between January and March, about 77 people died of infection.
-
-The disease is caused by the body of the body that can be eaten by the body. The power to kill humans in 48 hours. The disease is spreading in Japan.
-
-Its effect can cause swelling and pain in the throat. For some people, symptoms, including leg pain, swelling, fever and low blood pressure, occur rapidly.
-
-Subsequently, it has been warned that respiratory problems, organs will cause malfunction and death.
-
-According to Professor Ken Kikucci, the Infectious Disease of the University of Tokyo, a large number of casualties may occur in a large number of deaths.
-
-...
-
-[Data](articles/bf899a44.json)
-
-[Extended Data](ext_articles/bf899a44.ext.json)
-
----
-
-### Coconut oil sent to flour
-
-*2024-06-17 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197852) · `si`
-
-In the Narangayanna area, an 11-month-old girl died after a falling coconut hit her. The incident occurred when her father was away, and she was playing near a dried coconut. She was rushed to the Peradeniya Teaching Hospital but succumbed to her injuries.
-
-🟩
-
-A small girl was killed in the fall of a coconut in the Narangayanna area.
-
-The victim was a 11-month-old girl, police said.
-
-While the father had gone to a neighboring house and returned to a neighboring house, a dry bound of a coconut in front of the house had fallen into the head of the girl.
-
-The girl who was injured was admitted to the Peradeniya Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/06fef06c.json)
-
-[Extended Data](ext_articles/06fef06c.ext.json)
-
----
-
-### In Sri Lanka’s North, legal alcohol is too far away, Lion Brewery says
-
-*2024-06-17 16:15:00* · [`economynextcom`](https://economynext.com/in-sri-lankas-north-legal-alcohol-is-too-far-away-lion-brewery-says-168449/) · `en`
-
-ECONOMYNEXT – Legal alcohol is too far away for some customers to access in Sri Lanka’s North due to the lack of legal outlets, forcing them to consume illicit products, though new licenses issued recently have helped in other areas, according to an industry official.
-
-While the average distance to a legal alcohol outlet was 45 square kilometers, in the Northern district it was 167 square kilometers.
-
-“Clearly, this opens the door for informal activity as these distances are simply beyond reasonable,” Lion Brewery (Ceylon) PLC chief executive officer R H Meewakkala told shareholders in the annual report.
-
-Sri Lanka has recently issued more beer licenses which has improved sales of legal products, he said.
-
-“It is another lever which the Government should use to curb illicits by increasing access to legal products,” Meewakkala said.
-
-“The issuance of licenses in areas where poor licensed outlet penetration is prevalent has resulted in a positive direction.
-
-...
-
-[Data](articles/a5beff66.json)
-
-[Extended Data](ext_articles/a5beff66.ext.json)
-
----
-
-### Netanyahu dissolves Israeli war cabinet, officials say
-
-*2024-06-17 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99931/netanyahu-dissolves-israeli-war-cabinet-officials-say) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu dissolved the influential War Cabinet tasked with steering the war in Gaza, Israeli officials said Monday, a move that comes days after a key member of the body bolted the government over frustrations surrounding the Israeli leader’s handling of the war.
-
-The move was widely expected following Benny Gantz’s departure earlier this month, which he said came after mounting frustrations over Netanyahu’s handling of the war. Gantz’s absence makes Netanyahu more dependent on his ultranationalist allies to govern and the dissolution of the War Cabinet underlines that shift is underway as Israel continues its eight-month-long war in Gaza.
-
-...
-
-[Data](articles/19ebb5ff.json)
-
-[Extended Data](ext_articles/19ebb5ff.ext.json)
-
----
-
-### A Decision on the Leadership of Pakistan?
-
-*2024-06-17 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197851) · `si`
-
-Barber Assam, a key figure in Pakistan's cricket team, suggests that the decision on leadership lies with the team itself rather than any single individual. He criticizes the current leadership, particularly during the 20-over matches, and hints at a need for change post-tournament review. Despite his own underperformance in this year's games, Assam emphasizes that the team's struggles are not solely due to one person's actions.
-
-🟩
-
-Barber Assam says that he is a decision of the Pakistan's leadership or not to take the lead in the Pakistan.
-
-The Pakistan's group had been critical of the leading leadership with the core of the 20 overs.
-
-The Pakistanmale leader Barber Assam said that the Pakistan leader Barber Assam said that after reviewing the tournament.
-
-The Barber Assama, which has not been well-played in this year's tournament, has said that the deception of the deception is not the fault of one person.
-
-◼️
-
-[Data](articles/f83f7ae7.json)
-
-[Extended Data](ext_articles/f83f7ae7.ext.json)
-
----
-
-### Superclass of Super Reddduals arrested
-
-*2024-06-17 15:55:10* · [`adalk`](https://www.ada.lk/breaking_news/සුපිරි-රෙදිකඩේ-බිද-ලක්ෂ-26-නිමි-ඇදුම්-ඉස්සූ-අඹුසැම්-අත්අඩංගුවට/11-410266) · `si`
-
-Two individuals, aged 43 and 37, were arrested by the Panadura CID for stealing finished garments from a store and breaking its window. The duo confessed to the theft and the damage caused.
-
-🟩
-
-The Panadura Divisional Criminal Investigation Unit (CID) Unit said that a couple of the finished tables of the finished clothes of the Panadura town was arrested.
-
-The arrested were 43 and 37-year-old residents of Panadura.
-
-The former arrangements have been stolen, including the suspects, and broke the window behind the supermarket.
-
-OIC Chief Inspector Channa Amarasekera, Inspector Surana Ranaweera, joined the raid.
-
-◼️
-
-[Data](articles/4fbc1c93.json)
-
-[Extended Data](ext_articles/4fbc1c93.ext.json)
-
----
-
-### Factum Perspective: Sports and Economics as a force to promote growth in Sri Lanka
-
-*2024-06-17 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186285) · `ta`
-
-Sri Lanka's growth can be significantly boosted by leveraging sports and economics. Major sports tournaments and expanded broadcasting rights have commercialized games, attracting investors. UNESCO highlights the strong link between sports participation and consistent development. Countries like China, Australia, and the U.S. have reaped benefits from investing in sports infrastructure and hosting international events, leading to economic booms, improved international reputation, and enhanced tourism. Sri Lanka, taking cues from successful cases like Singapore's Formula One race, could similarly benefit from hosting major sports events, provided proper planning and coordination are in place.
-
-🟩
-
-One of the key methods that promoted Sri Lanka's growth, even if it was not explored or less explored. The rapid rise of the industry and its growing value is one of the main benefits of investing in the game.
-
-Games have become commercialized as a result of the development of major sports tournaments and the expansion of broadcasting rights, and investors are more likely to. This aim of exploration of key strategies to help improve Sri Lanka's sports sector.
-
-UNESCO has said that global data continues to reveal the strong connection between the participation and the consistency development of the field.. The current research on the social income generated by the game shows that every US dollar invested in a growing game is created for a long time for $ 3 to 124. Nevertheless, the sports sector has still been used as a base of investment and is misunderstood.
-
-...
-
-[Data](articles/211e13f3.json)
-
-[Extended Data](ext_articles/211e13f3.ext.json)
-
----
-
-### Product of Meat Meat Rice
-
-*2024-06-17 15:29:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இறைச்சி-அரிசி-தயாரிப்பு/57-339026) · `ta`
-
-South Korean scientists in Seoul have developed beef cell-derived rice, promising a nutritious option for space missions and appealing to meat enthusiasts with its unique pink color and buttery aroma.
-
-🟩
-
-A group of scientists in South Korea's capital, Seoul, have created a variety of beef cells.
-
-Scientists say their new type of rice will be a wonderful food for many meat lovers in the future.
-
-Scientists believe that this 'meat rice' will be introduced as a kind of nutritious rice that can be easily produced in future space and planetary studies.
-
-This new type of rice is pink. It has a scent of butter.
-
-◼️
-
-[Data](articles/3e438ea4.json)
-
-[Extended Data](ext_articles/3e438ea4.ext.json)
-
----
-
-### Price of coconut oil expected to continue to surge?
-
-*2024-06-17 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99930/price-of-coconut-oil-expected-to-continue-to-surge) · `en`
-
-The price of a bottle of coconut oil has rapidly increased in the market by around Rs.150.
-
-The All-Ceylon Traditional Coconut Oil Manufacturers’ Association alleges that this increase is due to coconut oil importers holding onto their stocks in anticipation of the upcoming festive season.
-
-The Convener of the association, Buddhika de Silva claimed that the coconut oil importers are arbitrarily raising prices and warned that prices could rise by up to Rs. 1,000 per bottle.
-
-He also criticized the government’s inaction stating that, “To date, the Ministry of Finance has not imposed taxes on coconut oil, the Ministry of Plantation Industry has not implemented regulations, and there has been no intervention from the Coconut Development Authority.”
-
-De Silva urged the government to allow the importation of essential raw materials for local industrialists, industrialists to help reduce coconut oil prices.
-
-◼️
-
-[Data](articles/063ada73.json)
-
-[Extended Data](ext_articles/063ada73.ext.json)
 
 ---

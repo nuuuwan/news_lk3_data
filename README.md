@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 07:24:25**
+As of **2024-06-18 07:47:12**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 5,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,863 (100.0%) of 30,865 articles have been extended.
+30,865 (100.0%) of 30,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### පිපිරුණු නළයේ අලුත්වැඩියා කටයුතු අවසන්
+### Repairs to the explosive tube completed
 
 *2024-06-18 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197864) · `si`
 
-කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළයේ අලුත්වැඩියා කටයුතු මේ වනවිට අවසන් කර තිබේ.
+Repairs at the Maharawa Water Treatment facility have concluded, restoring water supply after an eruption at Level 2 of the high-level tube. The National Water Supply and Drainage Board reports that while the immediate area's water was restored early this morning, distant regions may take a few more hours to regain service. Last night's incident caused significant water leakage and damage to adjacent electrical wiring, affecting water supply in several areas including Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattragoda.
 
-හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී ඊයේ (17) අලුයම 2ට පමණ මෝටර් රථයක් එහි ගැටීමෙන් නළය පුපුරා ගොස් තිබිණි.
+🟩
 
-මේ හේතුවෙන් කොළඹ දිස්ත්‍රික්කයේ ප්‍රදේශ ගණනාවකට ජල සැපයුම අඩාල වූ අතර නළයේ අලුත්වැඩියා කටයුතු අවසන් වීම හේතුවෙන් අද (18) අලුයම 2 පමණ සිට යළි ජල සැපයුම යථාතත්ත්වයට පත්කළ බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කරයි.
+Repairs to Mahawawa Water Treatment of the Maharawa Water Treatment has been completed.
 
-ඒ අනුව දුර ප්‍රදේශවලට ජල සැපයුම ඉදිරි පැය කිහිපය තුළ යථාතත්ත්වයට පත්වෙනු ඇතැයි ද එම දෙපාර්තමේන්තුව පැවසීය.
+The tube had erupted at the Elevel 2 of the High level yesterday (17).
 
-අනතුර හේතුවෙන් ජල නළය පුපුරා යෑමෙන් ඊයේ රාත්‍රියේ දැවැන්ත ජල කාන්දුවක් එම ස්ථානයේ සිදුව තිබූ අතර, යාබදව පිහිටි විදුලි රැහැන් කණු දෙකක්ද ජල පහරේ වේගයට කඩාවැටී තිබිණි.
+According to the National Water Supply and Drainage Board (NPA) said that the water supply was restored from around 2 am today due to the end of the pipe.
 
-සිදුවූ ජල කාන්දුව හේතුවෙන් ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවල ජල සැපයුමට බාධා එල්ලවුණි.
+Accordingly, the water supply to distant areas will be restored to the next few hours.
+
+Due to the accident, a massive water leak was at the site last night, and two adjoining electrical wiring had collapsed.
+
+The water supply of the water leak was disrupted in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattragoda areas.
 
 ◼️
 
 [Data](articles/1e04c1c2.json)
 
+[Extended Data](ext_articles/1e04c1c2.ext.json)
+
 ---
 
-### නවසීලන්තයට සුපිරි ජයක්
+### Super win to New Zealand
 
 *2024-06-18 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197863) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පැපුවානිව්ගිනියා කණ්ඩායම සමග පැවති තරගයෙන් කඩුලු 07ක ජයක් හිමිකර ගැනීමට නවසීලන්ත කණ්ඩායම ඊයේ (17) සමත් විය.
+New Zealand triumphed over Papuavania in a T20 World Cup match, winning by 7 wickets. Papuavania, batting first, made 78 runs in 19 overs before being bowled out. Lokiki Ferguson starred for New Zealand with three crucial wickets, as New Zealand reached the target in just 12 overs.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පැපුවානිව්ගිනියා කණ්ඩායම පන්දුවාර 19යි පන්දු 04ක් තුළ සියලුදෙනා දැවී ලකුණු 78ක් රැස්කළහ.
+🟩
 
-පන්දු යැවීමේ දී නවසීලන්ත කණ්ඩායමේ Lockie Ferguson සිය පන්දුවාර 04 තුළ කිසිදු ලකුණක් ලබා නොදී කඩුලු 03ක් බිඳ හෙළීමට සමත් විය.
+New Zealand won the match by 07 wickets in the match with the Papuavania group of 20 World Cup.
 
-පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි නවසීලන්ත කණ්ඩායම පන්දුවාර 12යි පන්දු 2ක් තුළ කඩුලු 03ක් පමණක් දැවී ජයග්‍රහණය වාර්තා කළේය.
+Batting first, Papuanevinia scored 78 runs for the loss of 19 overs.
+
+Lokiki Ferguson of New Zealand Ferguson, New Zealand, Loku Ferguson, was able to collapse to three wickets in their overs.
+
+New Zealand scored the bowled out for three wickets in 12 overs.
 
 ◼️
 
 [Data](articles/722d1532.json)
+
+[Extended Data](ext_articles/722d1532.ext.json)
 
 ---
 

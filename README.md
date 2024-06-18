@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 08:53:49**
+As of **2024-06-18 09:05:55**
 
 ## Newspaper Stats
 
-*Scraped **30,874** Articles*
+*Scraped **30,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,677
-adaderanalk | 3,496
-tamilmirrorlk | 3,622
+adaderanalk | 3,497
+tamilmirrorlk | 3,623
 dailymirrorlk | 4,733
 virakesarilk | 4,748
 adaderanasinhalalk | 5,007
@@ -26,11 +26,39 @@ adaderanasinhalalk | 5,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,874 (100.0%) of 30,874 articles have been extended.
+30,874 (100.0%) of 30,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### Trains delays on main and Chilaw lines due to three breakdowns
+
+*2024-06-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99939/trains-delays-on-main-and-chilaw-lines-due-to-three-breakdowns) · `en`
+
+The Railways Department has reported that significant train delays are expected on the main line and the Chilaw line due to the breakdown of three train engines.
+
+◼️
+
+[Data](articles/c482a09c.json)
+
+---
+
+### களனி கங்கையில் மிதந்த சடலம்
+
+*2024-06-18 08:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனி-கங்கையில்-மிதந்த-சடலம்/175-339060) · `ta`
+
+களனி கங்கையில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் ஒன்று நேற்று (17) மாலை கண்டு பிடிக்கப்பட்டுள்ளது.
+
+குறித்த சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும்,  உயிரிழந்தவர் 50 முதல் 60 வயதுக்கு இடைப்பட்டவர் எனவும் 05 அடி 06 அங்குலம் உயரம் கொண்டவர் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+சடலம் கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், பேலியகொட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/bad4bccc.json)
+
+---
 
 ### A discussion between non-academic workers and the University Grants Commission
 
@@ -2361,53 +2389,5 @@ Addressing the people, the President said he was able to restore the economy of 
 [Data](articles/c0918c96.json)
 
 [Extended Data](ext_articles/c0918c96.ext.json)
-
----
-
-### A citizen to take treatment to treat six times a year
-
-*2024-06-17 13:40:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-පුරවැසියෙක්-හය-වතාවක්-ප්‍රතිකාර-ලබා-ගැනීමට-රෝහලට-පැමිනේ/11-410264) · `si`
-
-Dr. Palitha Mahipala emphasized the importance of health promotion programs and disease prevention during his visit to the Matale District General Hospital. He highlighted the need for citizens to seek treatment six times a year and the significance of maintaining a health database. The Health Secretary discussed the allocation of funds for medical equipment and expressed hope for starting an Independence Council in hospitals to ensure quality care. Additionally, he mentioned the potential reduction in hospital visits if the outpatient sector is improved and committed to providing training for healthcare staff.
-
-🟩
-
-55 million people who are being treated in the country and the outstanding sector are being treated at the most hospitals and the outward diseases in the region.Dr. Palitha Mahipala stresses that health promotion programs and health promotion programs and patients should strengthen the prevention of diseases of disease.
-
-He was speaking at a special inspection tour of the hospital at the Matale District General Hospital recently.
-
-Speaking further, the Health Secretary said that one citizen is a key point in the health database that the health data will come to hospital six times a year.
-
-He pointed out that the patients who were responsible for the patient accounts of the patients during the global data, the hospital was to be attending hospitals and the hospital in Sri Lanka.
-
-In view of all, the disease is very important, and the quality assurance (quuality assurance) is necessary to strengthen the program of patient safty.
-
-...
-
-[Data](articles/44a977f5.json)
-
-[Extended Data](ext_articles/44a977f5.ext.json)
-
----
-
-### Fire in the Maligawatte Hall
-
-*2024-06-17 13:40:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தை-மண்டபத்தில்-தீ/175-339024) · `ta`
-
-A fire broke out during a ceremony at a hall in Colombo, Maligawatte, but was quickly contained by two fire trucks without causing any injuries. The cause is believed to be related to the event itself.
-
-🟩
-
-The Maligawatte police said that the fire had been spread at a ceremony hall in Jayantha Weerasekera Mawatha, Colombo, Maligawatte, Colombo.
-
-Two fire trucks of the fire brigade arrived and extinguished the fire and no casualties were caused, police said.
-
-Police believe that a fire may have been caused by a fire in the ceremony.
-
-◼️
-
-[Data](articles/72f58338.json)
-
-[Extended Data](ext_articles/72f58338.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 08:02:00**
+As of **2024-06-18 08:13:48**
 
 ## Newspaper Stats
 
-*Scraped **30,865** Articles*
+*Scraped **30,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
-adaderanalk | 3,495
+adaderanalk | 3,496
 tamilmirrorlk | 3,621
 dailymirrorlk | 4,733
 virakesarilk | 4,748
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,865 (100.0%) of 30,865 articles have been extended.
+30,865 (100.0%) of 30,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### Rainy weather conditions expected to enhance from tomorrow
+
+*2024-06-18 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99938/rainy-weather-conditions-expected-to-enhance-from-tomorrow) · `en`
+
+The prevailing rainy condition in the South-western part of the island is expected to somewhat enhance in the next few days from tomorrow (19), according to the Meteorology Department.
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it said.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/688f53d6.json)
+
+---
 
 ### Repairs to the explosive tube completed
 
@@ -2373,31 +2391,5 @@ The suspect is a 41 year old resident of Avissawella.The Director of the South D
 [Data](articles/d697e3f5.json)
 
 [Extended Data](ext_articles/d697e3f5.ext.json)
-
----
-
-### Trains collide: 15 people die
-
-*2024-06-17 13:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்கள்-மோதின-15-பேர்-உயிரிழப்பு/175-339021) · `ta`
-
-In a tragic accident near Rangabhani Railway Station, Darjeeling, India, two trains collided, resulting in 15 deaths and over 60 injuries. The Kanjanjanga Express was halted due to a missing signal when it was rear-ended by a freight train. Three compartments of the express train were destroyed. Rescue efforts are ongoing, with railway officials and medical teams responding to the incident.
-
-🟩
-
-Trains on the same rails collided with 15 killed and 60 injured in India.
-
-Rangabhani Railway Station in Darjeeling District of West Bengal. The Kanjanjanga Express train was heading towards the railway station. The train was stopped as the signal was not available.
-
-At the time, another freight train arrived on the same railway where the Kanjan Janga train was standing. The freight train crashed into the back of the Kanjanjanga Express train.
-
-The 3 train compartments of the Kanjanjanga Express train were severely damaged. 15 people in these boxes have died. More than 60 people have been injured. The injured have been rescued and sent to the hospital for treatment.
-
-Central Railway Minister Aswini Vaishnav said the accident was a shock and alarm, saying, “Rescue operations are underway and the railway senior officials have rushed to the scene of the accident.. Help numbers have also been announced on the railway side
-
-◼️
-
-[Data](articles/575f8101.json)
-
-[Extended Data](ext_articles/575f8101.ext.json)
 
 ---

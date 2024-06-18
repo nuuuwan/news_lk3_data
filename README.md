@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 09:34:45**
+As of **2024-06-18 09:53:48**
 
 ## Newspaper Stats
 
-*Scraped **30,878** Articles*
+*Scraped **30,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,117 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,678
-adaderanalk | 3,498
-tamilmirrorlk | 3,623
+adaderanalk | 3,499
+tamilmirrorlk | 3,625
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 5,007
+adaderanasinhalalk | 5,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,877 (100.0%) of 30,878 articles have been extended.
+30,878 (100.0%) of 30,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-18 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197872) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද පාර්ලිමේන්තුවේ දී වි‍ශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතව ඇත.
+
+පසුගිය වසර දෙකක කාලය තුළ ශ්‍රී ලංකාව ලබාගත් ප්‍රගතිය පිළිබඳව සහ රටේ වත්මන් ආර්ථික තත්ත්වය සම්බන්ධයෙන් මෙහිදී ජනාධිපතිවරයා පාර්ලිමේන්තුව දැනුවත් කිරීමට නියමිත බව වාර්තා වේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබාදුන් ණය පහසුකමේ තෙවන වාරිකය අනුමත කිරීම සම්බන්ධයෙන් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී අදහස් පළකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/5f3c087c.json)
+
+---
+
+### Water supply to several areas restored as damaged pipeline repaired
+
+*2024-06-18 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99940/water-supply-to-several-areas-restored-as-damaged-pipeline-repaired-) · `en`
+
+The National Water Supply and Drainage Board (NWS&DB) has announced that the water supply to Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama, and Mattegoda areas has been restored today (18).
+
+The water supply in these areas was interrupted due to damage to the transmission pipeline from the Kalatuwawa Treatment Plant.
+
+The NWS&DB states that due to this, the water supply to a number of areas in the Colombo District was disrupted and as the damaged pipeline has been repaired, the water supply was restored by around 2.00 a.m. today (18).
+
+Accordingly, the water board said that water supply to some remote areas will be restored in the next few hours.
+
+The disruption followed a car accident on Monday morning, which caused the vehicle to veer off the road and collide with the pipeline near Godagama, close to the High-Level Road.
+
+As a result of the incident, the water supply to over 100,000 housing units in the affected areas was interrupted.
+
+◼️
+
+[Data](articles/66bad6b5.json)
+
+---
+
+### தேங்காய் எண்ணெய் விலையை கட்டுப்படுத்த நடவடிக்கை
+
+*2024-06-18 09:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எண்ணெய்-விலையை-கட்டுப்படுத்த-நடவடிக்கை/175-339062) · `ta`
+
+சந்தையில் தேங்காய் எண்ணெயின் விலை அதிகரிப்பதற்கு நியாயமான காரணங்கள் எதுவும் இல்லை என தென்னை அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+இறக்குமதி செய்யப்படும் தேங்காய் எண்ணெய்க்கு வரி அதிகரிக்கப்படவில்லை என அதன் தலைவர் பேராசிரியர் ரொஷான் பெரேரா தெரிவித்துள்ளார்.
+
+இந்த ஆண்டு மே மாதம் வரை 42,000 மெட்ரிக் தொன் தேங்காய் எண்ணெய் இறக்குமதி செய்யப்பட்டுள்ளது, இது கடந்த ஆண்டை விட இரு மடங்கு அதிகமாகும்.
+
+நாட்டில் நுகர்வுக்கு போதுமான தேங்காய் எண்ணெய் உள்ளதால், தேங்காய் எண்ணெய் விலையை உயர்த்துவதற்கு எந்த வகையிலும் அனுமதி அளிக்க முடியாது என பேராசிரியர் ரொஷான் பெரேரா தெரிவித்துள்ளார்.
+
+இதேவேளை, சந்தையில் தேங்காய் எண்ணெயின் விலையை கட்டுப்படுத்தும் வகையில் புதிய ஒழுங்குமுறை வேலைத்திட்டம் ஒன்றை அமுல்படுத்த திட்டமிடப்பட்டுள்ளதாக தென்னை அபிவிருத்தி அதிகார சபையின் தலைவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/656586a8.json)
+
+---
+
+### කොදෙව්වන්ට විශිෂ්ට ජයක්
+
+*2024-06-18 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197871) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම අතර පැවති තරගය ලකුණු104කින් ජයගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+තරගයේ පළමුව පන්දුවට පහර දුන් බටහිර ඉන්දීය කොදෙව් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවි ලකුණු 218ක් රැස්කර ගත්තේය.
+
+මෙවර ලෝක කුසලානයේදී කණ්ඩායමක් රැස්කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙස මෙය වාර්තා අතරට එක්වුණි.
+
+ඒ අතර බටහිර ඉන්දීය කොදෙව් කණ්ඩායම ලෝක කුසලාන තරගාවලියක රැස්කළ වැඩිම ලකුණු සංඛ්‍යාවද මෙය වේ.
+
+එහිදි නිකොලස් පූරන් පන්දු 53කින් ලකුණු 98ක් රැස්කර ගැනීමට සමත්විය.
+
+පූරන් රැස්කළ ලකුණු 98 වාර්තා අතරට එක්වුණේ මෙවර ලෝක කුසලානයේදි ක්‍රීඩකයෙක් රැස්කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙසය.
+
+ලකුණු 219ක ඉලක්කයක් හඹාගිය ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 16යි පන්දු 02කදී රැස්කරගත හැකි වූයේ ලකුණු 114ක් පමණි.
+
+◼️
+
+[Data](articles/b7a39ade.json)
+
+---
+
+### இரண்டு வழித்தடங்களில் ரயில் சேவை தாமதம்
+
+*2024-06-18 09:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-வழித்தடங்களில்-ரயில்-சேவை-தாமதம்/175-339061) · `ta`
+
+பிரதான மற்றும் சிலாபம் ரயில் வழித்தடத்தில் முன்னெக்கப்படும் ரயில் சேவைகளில் தாமதம் ஏற்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+மூன்று ரயில் இன்ஜின்கள் செயலிழந்ததால் ரயில் சேவையில் தாமதம் ஏற்பட்டதாக திணைக்களம் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/0f51f7ff.json)
+
+---
 
 ### Train  delays on main and Chilaw lines due to three breakdowns
 
@@ -41,6 +137,8 @@ The Railways Department has reported that significant train delays are expected 
 ◼️
 
 [Data](articles/8d62c9a8.json)
+
+[Extended Data](ext_articles/8d62c9a8.ext.json)
 
 ---
 
@@ -55,6 +153,20 @@ The Railways Department has reported that significant train delays are expected 
 [Data](articles/c482a09c.json)
 
 [Extended Data](ext_articles/c482a09c.ext.json)
+
+---
+
+### මාර්ග දෙකක දුම්රිය ප්‍රමාදයක්
+
+*2024-06-18 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197870) · `si`
+
+ප්‍රධාන මාර්ගයේ සහ හලාවත මාර්ගයේ දුම්රිය ප්‍රමාදයන් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්මේන්තුව සඳහන් කරන්නේ, දුම්රිය එන්ජින් තුනක් ක්‍රියා විරහිත වීම හේතුවෙන් එලෙස දුම්රිය ප්‍රමාදයන් සිදුවන බවය.
+
+◼️
+
+[Data](articles/174339ed.json)
 
 ---
 
@@ -2231,149 +2343,5 @@ The Hajj Prayer was organized by the Muttur -Alhasanah Social Development Center
 [Data](articles/9fef041a.json)
 
 [Extended Data](ext_articles/9fef041a.ext.json)
-
----
-
-### Kadirgama Pilgrimage: Ravanan Seva System
-
-*2024-06-17 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186271) · `ta`
-
-Kadirgama Pilgrimage faces challenges due to its difficult path, affecting the number of visitors. Ravanan Seva Organization President K. Senthuran expressed concerns about the decline in pilgrims. The tradition of pregnant women and mothers making the pilgrimage has shifted from being vegetarian to non-vegetarian among Sinhalese. The opening of a new route was expected to improve accessibility, but delays have led to disappointment among the anticipated tens of thousands of pilgrims.
-
-🟩
-
-Ravanan Seva Organization President K. Senthuran said that the Kadirgama route is a great concern for its street journey.
-
-He made this statement during a media briefing held in Trincomalee today (17).
-
-These days have been seen as a reducing the arrival of pilgrims.
-
-From ancient times to the beginning of ancient times, it is customary for children to be pregnant and pregnant mothers as a vegetarian, but now it is customary for the Sinhalese to make a pilgrimage.
-
-Eelam is found in the life of the Saivites. Walking and going on a loan and going to the masculinity.
-
-With the opening of this month on the 30th of this month, the days have been delayed.
-
-Tens of thousands of pilgrims are expressing their condemnation.
-
-◼️
-
-[Data](articles/180bb066.json)
-
-[Extended Data](ext_articles/180bb066.ext.json)
-
----
-
-### Legal action should be taken for the Kaladura plantation attack - Ruben Perumal
-
-*2024-06-17 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186275) · `ta`
-
-Ruben Perumal calls for legal action after a violent attack on plantation workers at Kalatura estate, Ratnapura, where several were assaulted by unidentified individuals. The victims, including Veerasamy Jagadeeswaran, are treated at Ratnapura District Hospital. Despite arrests, there's no action from Kiriella Police Station. Jeevan Thondaman urges swift justice, highlighting political interference attempts in Nuwara Eliya district.
-
-🟩
-
-At the Kalatura estate in the Kiriella police division, Ratnapura, the majority of the garden worker who is responsible for the work of the estate worker is not stopped by the garden worker's husband, without stopping the husband of the plantation worker that evening.Not only did they attack the family, but they also dragged him from the place and attacked him in the area beyond the garden.
-
-Veerasamy Jagadeeswaran (44 years old), who was attacked, is currently receiving treatment at the Ratnapura District Hospital.
-
-However, following the arrest of the majority of the people who have been responsible for the incident, the officials of the Ceylon Police Station have not taken steps to arrest the Kriella Police Station, Jeevan Thondaman, the General Secretary and Minister of the Ceylon Workers Congress, has told him to take immediate action to take immediate action to take immediate action.Ruben Perumal, political organizer of the Ceylon Workers Congress, said.
-
-...
-
-[Data](articles/afdf92d0.json)
-
-[Extended Data](ext_articles/afdf92d0.ext.json)
-
----
-
-### Prices of coconut oil up
-
-*2024-06-17 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197848) · `si`
-
-Coconut oil prices have risen by Rs. 150, allegedly due to hidden increases during the festive season. Consumers and wholesalers report the price hike. The All Ceylon Traditional Coconut Oil Products' convener calls for government intervention to stabilize prices.
-
-🟩
-
-The price of a bottle of coconut oil increased by Rs. 150.
-
-The traditional coconut oil ownership Association alleges that the coconut oil has increased in hiding the coconut oil importers based on the current festive season.
-
-Consumers and wholesale dealers say that the price of a bottle of coconut oil has increased by Rs. 150.
-
-The convener of the All Ceylon Traditional Coconut Oil Products, Buddhika De Silva said that the oil price of oil has been decided to increase oil prices and increase the price of oil.
-
-"The Ministry of Finance has not been taxed today. The Ministry of Plantation Industries has not been controlled. There is no action at the Coconut Development Authority. We urge the government immediately to import the ingredients to local clothes to reduce this price. "
-
-◼️
-
-[Data](articles/672d2031.json)
-
-[Extended Data](ext_articles/672d2031.ext.json)
-
----
-
-### Electronic machines are all black boxes - Rahul Gandhi
-
-*2024-06-17 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186272) · `ta`
-
-Rahul Gandhi criticized India's electronic voting system as opaque, stating no inspections are allowed, raising questions about electoral transparency during the 18th Lok Sabha elections where the BJP-led alliance maintained majority control.
-
-🟩
-
-“Voting electronic machines in India are all a black box.No one is allowed to investigate them. ”
-
-The election for the eighteenth Lok Sabha in India was held in seven phases. The results were also released by counting the votes cast in the election. The Bharatiya Janata Party -led National Democratic Alliance has ruled the majority. The Congress party has won a hundred seats.
-
-In this backdrop, Rahul Gandhi, a former Congress leader and a member of the Wayanad and Rabareli constituency, published a record of electronic machinery on social media.
-
-In it, he said, “All the electronic voting machines in India are black box. No one is allowed to inspect them. Serious concerns about the transparency of our electoral practice are questionable. ”
-
-◼️
-
-[Data](articles/2c7b5ac5.json)
-
-[Extended Data](ext_articles/2c7b5ac5.ext.json)
-
----
-
-### An elderly man and boy injured when a motorcycle crashed into a fast -paced motorcycle
-
-*2024-06-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186256) · `ta`
-
-In a tragic accident, an elderly man and a boy were seriously injured when a speeding motorcycle hit them separately on Samanthurai Police Road. The man was critically hurt and rushed to the emergency department, while the boy also suffered injuries and was hospitalized.
-
-🟩
-
-An elderly man was injured in an accident that occurred at around 10 am on Monday (17) at Samanthurai Police Road, police said.
-
-The elderly man was injured and admitted to the emergency department in critical condition after a motorcycle traveler collided with an elderly man.
-
-Meanwhile, the same motorcycle crashed into the boy who was sitting in front of the house and was admitted to the hospital after the company was injured.
-
-◼️
-
-[Data](articles/3575509d.json)
-
-[Extended Data](ext_articles/3575509d.ext.json)
-
----
-
-### A young man came from a white van and abducted a young man
-
-*2024-06-17 13:46:47* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-වැන්-රථයකින්-පැමිණ-තරුණයකු-පැහැරගෙන-ගිහින්/11-410265) · `si`
-
-Kalutara South Police are investigating a case where a young man was allegedly abducted by another from a white van near the Hynatiyanna Church. The suspects, who were later found, are expected to be arrested.
-
-🟩
-
-The Kalutara South Police are conducting further investigations into a complaint that a black dress in a white van near the Hynatiyanna Church in Kalutara.
-
-Investigations have been identified in investigations that the suspects had been assaulted and abducted by the youth.. The suspects have been identified and they are resurrected to arrest them.
-
-◼️
-
-[Data](articles/dd126fea.json)
-
-[Extended Data](ext_articles/dd126fea.ext.json)
 
 ---

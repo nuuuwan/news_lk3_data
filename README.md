@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 02:04:26**
+As of **2024-06-19 02:19:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,65 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,006 (100.0%) of 31,007 articles have been extended.
+31,007 (100.0%) of 31,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### தீர்ப்புக்கு ஜனாதிபதி சவால் விடுகின்றார்
+### President challenges the verdict
 
 *2024-06-19 01:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்புக்கு-ஜனாதிபதி-சவால்-விடுகின்றார்/175-339099) · `ta`
 
-நீதிமன்றத் தீர்ப்புக்கு சவால் விடும் வகையில் ஜனாதிபதி கருத்து வெளியிடுவது தவறான முன்னுதாரணமாக அமைந்துவிடும் என்று பாராளுமன்ற உறுப்பினர் அதுரலியே ரதன தேரர் தெரிவித்தார்.
+The President expressed dissatisfaction with the High Court's verdict on women's rights, raising questions about whether his comments represent his personal stance or his role as the Executive President. This has sparked debate over the appropriateness of challenging court rulings and the need for clarity on the government's official position. The situation highlights the complexity of addressing gender rights in Sri Lanka, where Western standards may not fully apply, and raises questions about the necessity of a referendum or parliamentary term adjustments.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) ஜனாதிபதியின் உரை தொடர்பில் தனது கருத்தை வெளியிட்டு உரையாற்றும் போதே ரதன தேரர் இவ்வாறு கூறியுள்ளார்.
+🟩
 
-உயர்நீதிமன்றத்தினால் பெண்கள் உரிமைகள் தொடர்பில் வழங்கிய தீர்ப்பு குறித்து தான் மகிழ்ச்சியடையவில்லை என்று ஜனாதிபதி கூறியுள்ளார். ஜனாதிபதி தனி நபராக பாராளுமன்றத்திற்கு வந்தாலும் அவர் கூறுவது யாருடைய நிலைப்பாடு.
+Parliamentarian Athuraliye Ratana Thera said that the president's comment would be a wrong precedent to challenge the court ruling.
 
-அரசாங்கத்தின் நிலைப்பாடா? அல்லது நிறைவேற்று ஜனாதிபதி என்ற வகையில் அவரின் நிலைப்பாடா? உயர்நீதிமன்றத்தின் தீர்ப்பில் ஏதாவது தவறுகள் இருந்தால் அரசாங்க மற்றும் எதிர்க்கட்சிகளை அழைத்து நியாயமான விடயங்கள் தொடர்பில் உயர்நீதிமன்றத்தினால் வழங்கப்பட்ட தீர்ப்பு தொடர்பில் கருத்தை கூறி, அங்கு எடுக்கப்பட்ட கூட்டுத் தீர்மானத்திற்கமைய பாராளுமன்றத்தில் கூறியிருக்கலாம்.
+Ratan Thera was speaking on Tuesday (18) in Parliament on the President's speech.
+
+The President has said that he is not happy with the verdict on women's rights by the High Court. Whoever says that the president comes to Parliament as an individual.
+
+Is the government's position?Or is it his position as the Executive President?If there are any mistakes in the High Court's decision, the government and the opposition parties may have summoned the government and the opposition parties to comment on the verdict of the Supreme Court on the issue of legitimate issues.
+
+Is every way in the world in relation to gender rights. As a Buddhist country, we have accepted gender equal rights. However, in our country there is no other position as in the West regarding gender. In this case, it is complicated to criticize the president's judgments.
 
 ...
 
 [Data](articles/9c0ed120.json)
+
+[Extended Data](ext_articles/9c0ed120.ext.json)
+
+---
+
+### Police rescued the boy who lived in the forest one night;Territories of great shock
+
+*2024-06-19 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186409) · `ta`
+
+A four-year-old boy went missing from his home in the Laxapana estate and was found in the Dangal forest the next morning. The Norwood police conducted extensive searches throughout the night after being notified of the boy's disappearance. The boy, Sivadas Abhisan, was later admitted to Tikoya Hospital for examination as the police continue their investigation into the incident.
+
+🟩
+
+A four -year -old boy who was playing in the forest one night has caused a shock to the people of the area.
+
+Norwood police said that the boy was missing from the forest.
+
+A four -year -old boy from the Laxapana estate was found from the Dangal forest on Tuesday morning.
+
+The boy who was not coming home to the boys on Monday (17) evening, the Norwood police informed the Norwood police and were engaged in search operations all night.
+
+Sivadas Abhisan, a four -year -old boy, a child from the garden of the garden from the garden of the Dangal top section, has disappeared.
+
+In this case, the police and the public in the wilderness in the wilderness found the boy in the wilderness in the wilderness.
+
+The police have taken steps to admit to the Tikoya Hospital for the rescued boy to check and the boy's disappearance?Or is it any other reason?Police are investigating an intensive investigation.
+
+◼️
+
+[Data](articles/a83b1d41.json)
+
+[Extended Data](ext_articles/a83b1d41.ext.json)
 
 ---
 
@@ -135,36 +173,6 @@ Our correspondent stated that it was being issued.
 [Data](articles/0607f7f7.json)
 
 [Extended Data](ext_articles/0607f7f7.ext.json)
-
----
-
-### Police rescued the boy who lived in the forest one night;Territories of great shock
-
-*2024-06-18 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186409) · `ta`
-
-A four-year-old boy went missing from his home in the Laxapana estate and was found in the Dangal forest the next morning. The Norwood police conducted extensive searches throughout the night after being notified of the boy's disappearance. The boy, Sivadas Abhisan, was later admitted to Tikoya Hospital for examination as the police continue their investigation into the incident.
-
-🟩
-
-A four -year -old boy who was playing in the forest one night has caused a shock to the people of the area.
-
-Norwood police said that the boy was missing from the forest.
-
-A four -year -old boy from the Laxapana estate was found from the Dangal forest on Tuesday morning.
-
-The boy who was not coming home to the boys on Monday (17) evening, the Norwood police informed the Norwood police and were engaged in search operations all night.
-
-Sivadas Abhisan, a four -year -old boy, a child from the garden of the garden from the garden of the Dangal top section, has disappeared.
-
-In this case, the police and the public in the wilderness in the wilderness found the boy in the wilderness in the wilderness.
-
-The police have taken steps to admit to the Tikoya Hospital for the rescued boy to check and the boy's disappearance?Or is it any other reason?Police are investigating an intensive investigation.
-
-◼️
-
-[Data](articles/a83b1d41.json)
-
-[Extended Data](ext_articles/a83b1d41.ext.json)
 
 ---
 

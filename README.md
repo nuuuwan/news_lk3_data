@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 15:19:21**
+As of **2024-06-18 15:34:35**
 
 ## Newspaper Stats
 
-*Scraped **30,935** Articles*
+*Scraped **30,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,688
-adaderanalk | 3,506
-tamilmirrorlk | 3,632
+adaderanalk | 3,507
+tamilmirrorlk | 3,633
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,022
+adaderanasinhalalk | 5,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,935 (100.0%) of 30,935 articles have been extended.
+30,935 (100.0%) of 30,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### සර්වජන බලය පළමු ජන රැලිය ඇරඹෙයි
+
+*2024-06-18 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197886) · `si`
+
+සර්වජන බලය ජාතික ව්‍යාපාරයේ පළමු ජන රැලිය මේ වනවිට ආරම්භ වී තිබේ.
+
+69 ලක්ෂයක ජනතා බලාපොරොත්තු යළි බලගැන්වීම මැයෙන් ජන රැලිය පැවැත්වෙන්නේ නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංගපීඨයේදීය.
+
+පස්වරු 1.30ට ස්ථාන 5කින් ආරම්භ වූ පෙළපාලි නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංගපීඨයට පැමිණීමෙන් පසු ජන රැලිය ආරම්භ කිරීමට සැලසුම් කර තිබුණි.
+
+සර්වජන බලය එකමුතුවට අයත් දේශපාලන පක්ෂ සහ සංවිධාන 07, තවත් දේශපාලන බලවේග රැසක් ජනරැලියට එක්වනු ඇත.
+
+◼️
+
+[Data](articles/e0d12a7f.json)
+
+---
+
+### Damaged pipeline: Water supply to 85,000 housing units yet to be restored
+
+*2024-06-18 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99948/damaged-pipeline-water-supply-to-85000-housing-units-yet-to-be-restored) · `en`
+
+The National Water Supply and Drainage Board (NWS&DB) says that even though the damaged transmission pipeline from the Kalatuwawa Treatment Plant has been repaired, the water supply to around 85,000 housing units is yet to be restored.
+
+However, the water board said that the situation is likely to normalise by around 6.00 p.m. today (18).
+
+The water transmission pipeline supplying water from the Kalatuwawa Treatment Plant had been damaged at Godagama near the High-Level Road owing to a vehicular accident.
+
+A car had veered off the road and collided with the water transmission pipeline in the early hours of yesterday (17) causing severe damage to the pipeline.
+
+As a result of the incident, the water supply to over 100,000 housing units in the Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama and Mattegoda areas was interrupted since last morning.
+
+Repair work on the damaged pipeline was carried out last night and water board stated that it was restored at around 4.00 a.m. this morning (18).
+
+...
+
+[Data](articles/a597d27f.json)
+
+---
+
+### පූරාන් පිටිය දෙවනත් කරයි
+
+*2024-06-18 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197885) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියේ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ඇෆ්ගනිස්තානය අතර අද (18) නිමාවූ තරගය ලකුණු 104කින් ජය ගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+ශාන්ත ලුසියා හි "ග්‍රෝ අයිලේ" හි පැවති මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් කොදෙව් ක්‍රීඩකයෝ සිය පන්දු ඕවර 20දී කඩුලු 5ක් දැවී ලකුණු 218ක් රැස්කළහ.
+
+එහිදී නිකලස් පූරාන් ප්‍රවේගවත් පිතිහරඹයක නිරත වෙමින් පන්දු 53කදී ලකුණු 98ක් රැස්කළේය. ඊට 4 පහර 6ක් සහ 6 පහර 8ක් ඇතුළත් විය.
+
+ඊට පිළිතුරු ලෙස ඇෆ්ගනිස්තාන කණ්ඩායමට රැස්කර ගත හැකි වූයේ සියලු දෙනා දැවී ලකුණු 114ක් පමණි.
+
+මෙම ජයග්‍රහණයත් සමග C කාණ්ඩයේ තම තරග 4ම දිනා ගැනීමට සම සත්කාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+ඒ අනුව එම කාණ්ඩයෙන් බ ඉ කො කණ්ඩායම සහ ඇෆ්ගනිස්තානය සුපර් 8 වටයට සුදුසුකම් ලැබීය.
+
+◼️
+
+[Data](articles/697cdd99.json)
+
+---
 
 ### Sri Lanka wins second ODI
 
@@ -51,6 +113,22 @@ In reply, Sri Lanka won the win by 93 runs for the loss of 5 wickets in 5 overs.
 [Data](articles/b1e3f608.json)
 
 [Extended Data](ext_articles/b1e3f608.ext.json)
+
+---
+
+### மின் கட்டண  திருத்தம்: ஜூலை அறிவிக்கப்படும்
+
+*2024-06-18 14:20:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-ஜூலை-அறிவிக்கப்படும்/175-339077) · `ta`
+
+இந்த ஆண்டின் (2024) இரண்டாவது மின் கட்டண திருத்தம் ஜூலை 15 ஆம் திகதி அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ இன்று (18) தெரிவித்தார்.
+
+உத்தேச மின்சாரக் கட்டண திருத்தம் தொடர்பில் பொதுமக்களின் எழுத்துமூலமான கருத்துக்கள் ஜூலை 8ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் எனவும் வாய்மூலமான கருத்துக்கள் ஜூலை 9ஆம் திகதி நடைபெறும் எனவும் தலைவர் குறிப்பிட்டார்.
+
+இந்த கட்டண திருத்தத்தில் மின் கட்டணம் குறைக்கப்பட உள்ளது, அதன்படி குறைக்கப்பட்ட சதவீதங்கள் ஜூலை 15ம் திகதி அறிவிக்கப்படும்.
+
+◼️
+
+[Data](articles/961ebd10.json)
 
 ---
 
@@ -830,13 +908,13 @@ About 90 percent of the people’s houses are likely to be exempt from the propo
 
 “It is going to have a very high threshold and I do not think the vast majority of the people in this country should even be worried about their house
 
-The IMF program document however did not mention an exempt on one house, but did mention a threshold.
+The IMF program document however did not mention an exemption on one house, but did mention an exemption threshold.
 
-Taxing houses and thrift in general could have detrimental effects on people’s well-being housing stock and their willingness to remain in the country without migrating, critics say.
+Taxing houses and thrift in general could have detrimental effects on people’s well-being, housing stock and their willingness to remain in the country without migrating, critics say.
 
 Related Sri Lanka to tax imaginary rents on houses under IMF deal
 
-The mechanism of imputed rents was used because rates on houses was assigned to provincial councils and courts could strike it down.
+The mechanism of imputed rents was used because rates on houses were assigned to provincial councils and courts could strike it down.
 
 ...
 
@@ -2253,103 +2331,5 @@ Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reform, 
 [Data](articles/9a2642b8.json)
 
 [Extended Data](ext_articles/9a2642b8.ext.json)
-
----
-
-### All Ceylon Corporation Corporation
-
-*2024-06-17 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186315) · `ta`
-
-The Dr. Shanmugam Sri Tharan "Kambagalanidhi" Award was presented at the Kampan Festival from June 14-17, 2024, at the Vellawattai Ramakrishna Mission Hall. Notable recipients included C. Rauf Hakeem Ba, president of the Sri Lanka Muslim Congress, and Senthil Thondaman, governor of the Eastern Province, who received the Ganesan Award. The event also featured "Kampan Adam" and highlighted the attendees during the Ganeshayar reception.
-
-🟩
-
-Dr. Shanmugam Sri Tharan "Kambagalanidhi" Award at the Vellawattai Ramakrishna Mission Hall on 14,15.16 and17 at the Kampan Festival (17.06.2024). C. Rauf Hakeem Ba (Sri Lanka Muslim Congress President), (Sri Lanka Muslim Congress President). U "Kampan Adam". Ganesan Award and Governor of the Eastern Province Senthil Thondaman "Maha Vidhuvan" C. You can see the favorite image and the attendees when the Ganeshayar is receiving the award.
-
-◼️
-
-[Data](articles/d36b5efa.json)
-
-[Extended Data](ext_articles/d36b5efa.ext.json)
-
----
-
-### What Matthew said to the Fanin
-
-*2024-06-17 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197859) · `si`
-
-Moentuwa Hasaranga, Sri Lanka's 20-team leader, accepts full responsibility for their performance in the World Cup. Despite being a strong team, they struggled in early matches, leading to their defeat. He emphasized the importance of adapting to different pitches, similar to how players from other countries do.
-
-🟩
-
-The Sri Lanka 20 team leader Moentuwa Hasaranga says he will take the full responsibility of the World Cup.
-
-Sri Lanka won the match between Sri Lanka and the Netherlands in the World Cup match today (17).
-
-Speaking to the media after the match, he said.
-
-"Really sorry to say first. As a group our team is how a good group. But our unfortunately, our games were not brought to one of the first matches. When we win this match, we're too late. We also spoke of our shortcomings in the World Cup.  තවමත් අපි ඒවා හදාගෙන නැහැ. When defeated, we can tell the pitchers and different things. As Professanal Cryction is something that is not good for us. The players in the other country play at that pitch. So we have to adapt too. I, including the full responsibility of as a group and the leader, I take the whole responsibility. "
-
-◼️
-
-[Data](articles/cf50a18e.json)
-
-[Extended Data](ext_articles/cf50a18e.ext.json)
-
----
-
-### The President has successfully implemented the program for the country's economic improvement - State Minister Anuba Paswell
-
-*2024-06-17 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186314) · `ta`
-
-President Ranil Wickremesinghe has successfully launched an economic improvement program, offering 50% relief to small plantation owners and reducing interest rates to 12%. The government's reforms aim to address economic growth, inflation, and social welfare, emphasizing policy-based development over individual or party efforts. The introduction of an election cost law aims to curb corruption, highlighting the need for systemic changes rather than blaming the electoral system. The upcoming passage of a bill to establish a Commission for Women's Reinforcement marks a historic step towards gender equality.
-
-🟩
-
-Can progress the country on the basis of policies. In addition, Social Empowerment Minister Anuba Baswel, who claims that individuals or parties cannot do it, said President Ranil Wickremesinghe has already successfully implemented the program for the economic improvement of the country.
-
-The Minister of State has noted that the President has allowed 50% relief to solve the problems of the small plantation owners.
-
-He was speaking at a press conference held at the Presidential Media Center on Monday (17).
-
-“The current government has successfully carried out the reforms that have been stressed in the struggle of the nation. In the meantime, many have come forward to take responsibility for the country. But they do not have any policies. When many people in the country accept the government's program, only a few acts beyond that.
-
-...
-
-[Data](articles/d7995571.json)
-
-[Extended Data](ext_articles/d7995571.ext.json)
-
----
-
-### To criticize the pitch or the competition table
-
-*2024-06-17 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186313) · `ta`
-
-Wanindu Hazaranga, Sri Lanka's captain, refrained from criticizing the US pitches or scheduling after losses, emphasizing the team's responsibility to adapt their strategies. Despite early preparation and practice matches, the team struggled with quick adjustments to the US conditions, affecting their performance in the R20 World Cup. Hazaranga highlighted the importance of adapting to varying pitches within the US, attributing their losses partly to this challenge.
-
-🟩
-
-Sri Lankan captain Wanindu Hazaranga has refused to criticize the US pitch or competition schedule for defeats in Sri Lanka.
-
-'The other teams played the same pitch we played. It is our duty to change our game strategies, ”he said.
-
-The Sri Lankan team reached the United States about 10 days before the start of the R20 World Cup. Sri Lanka also played two training matches with the Netherlands and Ireland.
-
-But Hazaranga feels that he is unable to quickly change themselves in accordance with the pitch given in the United States.
-
-Sri Lanka scored 77 runs at the New York Nasav County Stadium against South Africa.
-
-Sri Lanka then scored 124 runs for the loss of 9 wickets in Dallas in Dallas against Bangladesh. However, Sri Lanka lost due to the absence of leading bowlers to throw Death overs.
-
-Sri Lanka's Super 8 round dream was scattered when the game with Nepal was completely abandoned.
-
-Sri Lanka won by 83 runs in the match with the Netherlands. Or it would have returned to the country barefoot.
-
-...
-
-[Data](articles/cafe43f1.json)
-
-[Extended Data](ext_articles/cafe43f1.ext.json)
 
 ---

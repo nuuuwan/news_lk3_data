@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 08:21:30**
+As of **2024-06-18 08:34:50**
 
 ## Newspaper Stats
 
-*Scraped **30,872** Articles*
+*Scraped **30,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,80 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
-adalk | 2,676
+adalk | 2,677
 adaderanalk | 3,496
 tamilmirrorlk | 3,622
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 5,006
+adaderanasinhalalk | 5,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,866 (100.0%) of 30,872 articles have been extended.
+30,872 (100.0%) of 30,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### පොල්තෙල් මිල නියාමනයට පොල් සංවර්ධන අධිකාරිය මැදිහත් වෙයි
+### අනධ්‍යයන සේවකයින් සහ විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව අතර සාකච්ඡාවක්
+
+*2024-06-18 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197869) · `si`
+
+සිය වැටුප් ගැටලුව සම්බන්ධයෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව සමඟ විශේෂ සාකච්ඡාවක් අද (18) දිනයේ පවත්වන බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
+
+◼️
+
+[Data](articles/d0a887d3.json)
+
+---
+
+### Coconut Development Authority interferes with price of coconut oil
 
 *2024-06-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197868) · `si`
 
-වෙළෙඳපොළ තුළ පොල්තෙල් මිල ඉහළ දැමීමට කිසිදු සාධාරණ හේතුවක් නොමැති බව පොල් සංවර්ධන අධිකාරිය පවසයි.
+The Coconut Development Authority plans to regulate coconut oil prices despite no tax hikes on imported oil. The chairman, Professor Roshan Perera, notes that local pricing doesn't influence imported coconut oil costs. This year, 42,000 metric tons were imported by May, but the exact reasons behind current market prices remain unclear.
 
-එහි සභාපති මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේ, ආනයනික පොල්තෙල් සඳහා කිසිදු බදු වැඩි කිරීමක් සිදුකර නොමැති බවය.
+🟩
 
-මේ වසරේ මැයි මාසය වන විට පොල්තෙල් මෙට්‍රික් ටොන් 42,000ක් ආනයනය කර ඇති අතර එය පසුගිය වසරට සාපේක්ෂව දෙගුණයක වැඩිවීමක් බව සඳහන්ය.
+There is no reasonable reason for coconut oil prices in the market.
 
-මෙරට පරිභෝජනය ස﻿ඳහා ප්‍රමාණවත් තරම් පොල්තෙල් රටතුළ පවතින බැවින් පොල්තෙල් මිල ඉහළ දැමීම කිසිලෙසකින් අනුමත කළ නොහැකි බව මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේය.
+The Chairman Professor Roshan Perera said that no tax increases had been made to the imported coconut oil.
 
-මේ අතර වෙළෙඳපොළේ පොල්තෙල් මිල පාලනය කිරීම සඳහා නව නියාමන වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව ද පොල් සංවර්ධන අධිකාරියේ සභාපති මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේය.
+The coconut oil was imported by 42,000 metric tons of coconut oil by May this year.
+
+Professor Roshan Perera said that the price of coconut oil cannot be approved by the country's prices as the coconut oil is in the country.
+
+Meanwhile, the Chairman of the Coconut Development Authority (Coconut Development Authority) has planned to implement a new regulatory program to control the price of coconut oil in the market.
 
 ◼️
 
 [Data](articles/121d227a.json)
 
+[Extended Data](ext_articles/121d227a.ext.json)
+
 ---
 
-### කැලණි ගඟේ නාඳුනන මළ සිරුරක්
+### Unidentified body found in Kelani River
 
 *2024-06-18 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197867) · `si`
 
-පෑලියගොඩ ප්‍රදේශයේ පුද්ගලික ආයතනයක් පිටුපස කැලණි ගඟේ තිබී නාඳුනන පිරිමි මළසිරුරක් හමුව තිබේ.
+An unidentified male body was discovered in the Kelani River near Peliyagoda. The victim remains unconfirmed, and his remains have been sent to the Colombo National Hospital morgue for examination. Investigations are ongoing by the Peliyagoda Police.
 
-මෙම පිරිමි පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර ඔහු වයස අවුරුදු 50ත් 60ත් අතර උස අඩි 05 අඟල් 06ක් බව පොලීසිය සඳහන් කරයි.
+🟩
 
-මෘත ශරීරය කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරයේ තැනපත් කර ඇති අතර පෑලියගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+An unidentified male bodies found in the Kelani River behind a private company in Peliyagoda.
+
+The identity of this male has not yet been confirmed, police said.
+
+The body has been transmitted at the Colombo National Hospital morgue and the Peliyagoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f057f8ba.json)
+
+[Extended Data](ext_articles/f057f8ba.ext.json)
 
 ---
 
@@ -88,45 +112,61 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 ---
 
-### ජනපති අද පාර්ලිමේන්තු එයි
+### President is parliament today
 
 *2024-06-18 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197866) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (18) පාර්ලිමේන්තුවේ දී වි‍ශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතව තිබේ.
+Today, President Ranil Wickremesinghe addresses Parliament, updating on Sri Lanka's progress and the current economic situation. He'll discuss the IMF's third debt installment and hold a party meeting. The Parliament convenes under the State Land Ordinance and the Traveling Practice Act, while the Constitutional Council meets with President Mahinda Yapa Abeywardena. The Attorney General, Sanjaya Rajaratnam, awaits a final decision on his service extension, previously recommended by Wickremesinghe.
 
-පසුගිය වසර දෙකක කාලය තුළ ශ්‍රී ලංකාව ලබාගත් ප්‍රගතිය පිළිබඳව සහ රටේ වත්මන් ආර්ථික තත්ත්වය සම්බන්ධයෙන් මෙහිදී ජනාධිපතිවරයා පාර්ලිමේන්තුව දැනුවත් කිරීමට නියමිත බව වාර්තා වේ.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබාදුන් ණය පහසුකමේ තෙවන වාරිකය අනුමත කිරීම සම්බන්ධයෙන් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී අදහස් පළකිරීමට නියමිතය.
+President Ranil Wickremesinghe is scheduled to make a special statement today (18).
 
-මේ අතර ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීම ද අද පෙරවරුවේ ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු සංකීර්ණයේ දී පැවැත්වීමට සැලසුම් කර තිබේ.
+It is reported that Sri Lanka's progress in Sri Lanka over the past two years and the President is to inform Parliament regarding the current economic situation in the country.
 
-මෙම සතිය තුළ පාර්ලිමේන්තු වැඩකටයුතු පිළිබදව මෙහිදී සාකච්ඡා කිරීමට නියමිත බව වාර්තා වේ.
+President Ranil Wickremesinghe is also expected to express the third installment of the debt facility of the IMF to Sri Lanka.
 
-මෙම සතිය සඳහා පාර්ලිමේන්තුව පෙරවරු 09.30ට රැස්වීමට නියමිත අතර අද දිනයේ සංචාරක කටයුතු පනත යටතේ ගැසට් පත්‍රයේ ප්‍රකාශයට පත්කර ඇති නියමයන් කිහිපයක්, රජයේ ඉඩම් ආඥා පනත යටතේ සහ ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත යටතේ නියෝග කිහිපයක් විවාදයට ගැනීමට නියමිතය.
+Meanwhile, the ruling party team meeting is scheduled to be held at the Parliamentary Complex by the President this morning.
+
+It is reported that this week is to be discussed this week.
+
+The Parliament will meet to meet this week at 9:30 am today under the State Land Ordinance and the Convention on Traveling Practice Act.
+
+Meanwhile, the Constitutional Council is also due to meet with the President Mahinda Yapa Abeywardena.
+
+It is reported that the Attorney General's Attorney General Sanjaya Rajaratnam is scheduled to take a final decision on the extension extension of the service extension.
 
 ...
 
 [Data](articles/f865750d.json)
 
+[Extended Data](ext_articles/f865750d.ext.json)
+
 ---
 
-### ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+### Murder suspect arrested
 
 *2024-06-18 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197865) · `si`
 
-නොච්චියාලම පොලිස් වසමේ සිදුකළ මනුෂ්‍ය ඝාතනයකට අවශ්‍යකර සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old from Rangerawa, Kokannawa, was arrested for murdering a 43-year-old man in a hospital dispute in Nochchiyagama, Koknajewa, Rannora, Kokannawa. The victim received treatment at Anuradhapura Hospital on the 14th before the police investigation led to the arrest.
 
-මෙලෙස අත්අඩංගුවට ගෙන තිබුණේ කොකුන්නෑව, රනෝරාව ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-පසුගිය 10 වනදා නොච්චියාගම, කොකුන්නෑව රනෝරාව ප්‍රදේශයේදී පුද්ගලික ආරවුලක් මත පහරදීමක් හේතුවෙන් 43 හැවිරිදි පුද්ගලයෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබුණි.
+A suspect has been arrested for the murder of the murder in the Noching Skin Police Division.
 
-එලෙස බරපතළ තුවාල ලැබූ පුද්ගලයා පසුගිය 14 වනදා අනුරාධපුර රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+The suspected was a 32 year old resident of Rangerawa, Kokannawa.
 
-ඒ සම්බන්ධයෙන් නොච්චියාගම පොලීසිය විසින් විමර්ශනයක් සිදුකර අදාළ සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+A 43-year-old man had been hospitalized due to a private dispute in Nochchiyagama, Koknajewa in the Rannora area in Kokannawa.
+
+The victim was treated at the Anuradhapura Hospital on the 14th.
+
+The Nochchiyagama Police have conducted an investigation and arrested the suspect.
 
 ◼️
 
 [Data](articles/d9ef7201.json)
+
+[Extended Data](ext_articles/d9ef7201.ext.json)
 
 ---
 
@@ -234,39 +274,57 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 
 ---
 
-### වැඩිමල්කම යනු බාලයන්ට පහර දීමට ලැබුණු වරමක් ද?
+### Is the eldest is a privilege to attack young people?
 
 *2024-06-18 02:26:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clll75lm7e1o) · `si`
 
-ශ්‍රී ලංකාවේ නවක රංගන ශිල්පිනියක වන උමා අසේනි සිය සොහොයුරියගේ විවාහ උත්සවයේදී කළ කතාවක් හේතුවෙන් ගෘහස්ත ප්‍රචණ්ඩත්වයේ වැඩි අවධානයක් යොමු නොවූ පැත්තක් පිළිබඳව සමාජ මාධ්‍ය හරහා අවධානයක් යොමු වී තිබිණි.
+Uma Aazi, a Sri Lankan performer, sparked controversy with comments about indigenous violence during her sister's wedding speech. Her remarks, focusing on the ongoing conflict and its impact on children, were widely shared and debated. Critics argue that her words could normalize violence, while supporters defend her right to speak freely. Dr. Thun Wickramanaya highlighted the need for understanding and addressing indigenous violence. The National Child Protection Authority emphasized that violence, including sibling aggression, is unacceptable and urged for peaceful resolution of conflicts. The discussion underscores the complexities of addressing violence within communities and the importance of responsible public discourse.
 
-ඇය කළ කතාවේ කොටසක් සමාජ මාධ්‍යවල පළ කර තිබුණු අතර, බොහෝ දෙනෙකු ඇයගේ කතාව උත්කර්ෂයට නංවමින් අදහස් පළ කර තිබෙනු දක්නට ලැබිණි.
+🟩
 
-"මායි නංගියි ගැන කතා කරනකොට අපිට කතා කරන්න තියෙන ගොඩක් දේවල් නිකං ඊශ්‍රායෙල් පලස්තීන යුද්ධෙ වගේ. අද කියල වෙනසක් නෑ. අදත් මාත් එක්ක රණ්ඩු වෙලා අඬල ඉන්නෙ."
+A new performer in Sri Lanka Uma Aazi, Uma Aazi, a talk at his sister's wedding, focused on a part of the indigenous violence.
 
-"මම කැමති නෑ අම්මගෙන් තාත්තාගෙන්වත් එයා වචනයක්වත් අහනවට. මම කැමති නෑ එයාට වෙන කවුරුවත් අතක්වත් උස්සනවට. හැබැයි මට එයා එක්ක ආදරණීය මතක නෑ. ගහනකොට පයිනුත් ගහල යන්නෙ මම‍‍‍. හැබැයි ඒ මම විතරයි. වෙන කිසි ම කෙනෙක්, එයාට එක වචනයක්වත් කියනවාට, එයාට එක ඇඟිල්ලක්වත් උස්සනවට මම කැමති නෑ. මම එහෙම වෙන්න දෙන්නෙත් නෑ‍."
+A part of her speech was published in social media, and many were diagnosed with her speech.
 
-ඉහත සඳහන් උධෘතය යොදමින් උමා අසේනිගේ කතාව සම්බන්ධයෙන් 'ළමා හිංසනයට තිත පදනමේ' සභාපති සහ ළමා ආරක්ෂක සන්ධානයේ සම කැඳවුම්කරු වෛද්‍ය තුෂ් වික්‍රමනායක සිය ෆේස්බුක් පිටුවෙහි අදහස් දක්වා තිබිණි.
+"When I talk about I, I have a lot to talk to us, as the Israelite war. There is no difference today. Still fighting with me still. "
+
+"I don't want him to ask my father by asking him. I don't want him to raise anyone else. But I don't remember him loving with him. I donate the elephants. But it's just me. No other person, tell him one word, I don't want him to raise one finger. I will not let me be. "
+
+Dr. Thun Wickramanaya, the co-executor of the UPFA and childhood protection were commented on the 'Boundary Foundation Foundation'.
+
+"Justice of violence in Sri Lanka is better thank you better. Romanciples are more than words. Understand the indigenous violence among children, "she has shown.
 
 ...
 
 [Data](articles/de0cc084.json)
 
+[Extended Data](ext_articles/de0cc084.ext.json)
+
 ---
 
-### ’கொள்கை அடிப்படையிலே நாட்டை முன்னேற்ற முடியும்’
+### The country can improve on the basis of model policy
 
 *2024-06-18 02:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-அடிப்படையிலே-நாட்டை-முன்னேற்ற-முடியும்/175-339059) · `ta`
 
-கொள்கைகளின் அடிப்படையிலேயே நாட்டை முன்னேற்ற முடியும். அவ்வாறன்றி தனிநபர்கள் அல்லது கட்சிகளினால் அதனைச் செய்ய முடியாது என்று சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அநூப பஸ்குவெல் தெரிவித்தார்.
+The Minister of Social Empowerment emphasized that national progress hinges on effective policies, not individual or party efforts. She highlighted the government's successful reforms under President Ranil Wickremesinghe, attributing economic growth to his leadership. However, she cautioned that true development requires more comprehensive policies, as individuals and factions alone cannot significantly impact the nation's economy.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் இதனைத்  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நாட்டு மக்களின் போராட்டத்தில் வலியுறுத்தப்பட்ட சீர்திருத்தங்களை தற்போதைய அரசாங்கம் வெற்றிகரமாக மேற்கொண்டு வருகிறது. அதற்கு மத்தியில் நாட்டைப் பொறுப்பேற்க பலர் முன்வந்திருக்கிறார்கள். ஆனால் அவர்களிடத்தில் அதற்கான கொள்கைகள் எவையும் இல்லை. நாட்டில் பலரும் அரசாங்கத்தின் வேலைத்திட்டத்தினை ஏற்றுக்கொண்டுள்ளபோது, சிலர் மாத்திரம் அதற்குப் புறம்பாகச் செயற்படுகிறார்கள்.
+Can progress the country on the basis of policies. The Minister of Social Empowerment Anuba Basguel said that it could not be done by individuals or parties.
+
+He was speaking at a press conference held at the Presidential Media Center yesterday.. He further stated that
+
+The current government has successfully carried out reforms in the struggle of the people. In the meantime, many have come forward to take responsibility for the country. But they do not have any policies. When many people in the country accept the government's program, only a few acts beyond that.
+
+The fact is that the reforms brought by President Ranil Wickremesinghe have been successful. The government led by President Ranil Wickremesinghe is the foundation for economic progress and is implementing it without any problems.
+
+Can only build the country on the basis of more policies. Cannot do that by individuals or parties. Parts and individuals will change the economy of a country.
 
 ...
 
 [Data](articles/f30c4a22.json)
+
+[Extended Data](ext_articles/f30c4a22.ext.json)
 
 ---
 
@@ -1123,6 +1181,24 @@ Historically made his time as a time when the highest number of law reforms were
 [Data](articles/21111630.json)
 
 [Extended Data](ext_articles/21111630.ext.json)
+
+---
+
+### Geo-Goviya නිසා රු.මි. 573ක් ඉතිරි වෙලා
+
+*2024-06-17 19:51:40* · [`adalk`](https://www.ada.lk/breaking_news/Geo-Goviya-නිසා-රු-මි--573ක්-ඉතිරි-වෙලා/11-410275) · `si`
+
+Geo-Goviya යෙදවුම ඔස්සේ ගොවීන් සතු සත්‍ය කුඹුරු ඉඩම් ප්‍රමාණය තහවුරු වීම හේතුවෙන් පසුගිය වසරේ සහනාධාර ලබා දීමේදී රුපියල් මිලියන 573ක් ඉතිරි කර ගැනීමට රජයට හැකිව තිබේ.
+
+ඒ අනුව අදාළ යෙදවුම මගින් කුඹුරු මැනීම නිවැරදිව සිදු කර ගැනීම හේතුවෙන් ගොවීන් සතු ඉඩම්වල සත්‍ය ප්‍රමාණය නිවැරදිව සටහන් කර ගැනීමට හැකි වී ඇති බවත්, ඔප්පුවල සඳහන් වන ඉඩම් ප්‍රමාණ බොහොමයක් පවතින ඉඩම් හා නොගැලපෙන බවට අනාවරණය වී ඇති බවත් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඒ අනුව වගා හානි වන්දි ලබා දීමේ දී මෙන්ම පොහොර සහනාධාර හා වෙනත් ආධාර ලබා දීමේ දී Geo- Goviya යෙදවුම මගින් සනාථ කර ඇති ඉඩම් ප්‍රමාණයට එම සහනාධාර ලබා දීමට කටයුතු කිරීම හේතුවෙන් අදාළ මුදල් ප්‍රමාණය ඉතිරි කර ගැනීමට හැකියාව ලැබී ඇත.
+
+ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් මේ වනවිට මෙරට සියලු කුඹුරු ඉඩම් Geo- Goviya යෙදවුම යොදාගනිමින් නිවැරදිව සිතියම් ගත කිරීම අරඹා තිබේ.  ඒ අනුව එම දෙපාර්තමේන්තුව විසින් මැනීම් කටයුතු  අවසන් කර ඇති කුඹුරු ඉඩම් ප්‍රමාණය හෙක්ටයාර් මිලියන 1.91ක් වන අතර ගොවීන් මිලියන 1.38ක් යෙදවුම මගින් ලියාපදිංචි වී ඇත.
+
+...
+
+[Data](articles/d374c6a9.json)
 
 ---
 
@@ -2319,51 +2395,5 @@ Police believe that a fire may have been caused by a fire in the ceremony.
 [Data](articles/72f58338.json)
 
 [Extended Data](ext_articles/72f58338.ext.json)
-
----
-
-### Ministry of Finance announced on rent income tax
-
-*2024-06-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197845) · `si`
-
-The Ministry of Finance clarified the term "rent income tax," used in discussions about the Elapse Financial Facility and its collaboration with the IMF. This tax is aimed at stabilizing the economy and national policy, not targeting general income earners. The announcement aims to correct misconceptions surrounding this tax.
-
-🟩
-
-The Ministry of Finance has issued a statement explaining the charged rent income tax.
-
-It states that the recent financial support of the Elapse Financial Facility in the International Monetary Fund's Collaboration with the proposed real estate tax, which is scheduled to be implemented, has been referred to as 'charged revenue tax'.
-
-The announcement states that there was a situation in various misconception.
-
-The tax focuses not on the general incomeors, not on the general incomeors, but in the announcement issued by the Ministry of Finance, Economic Stability and National Policy.
-
-Below is the full press release issued by the Ministry of Finance, Economic Stability and National Policy.
-
-◼️
-
-[Data](articles/cd27578b.json)
-
-[Extended Data](ext_articles/cd27578b.ext.json)
-
----
-
-### Railway collision in eastern India kills 15, injures several
-
-*2024-06-17 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99927/railway-collision-in-eastern-india-kills-15-injures-several) · `en`
-
-A freight train smashed into the rear of a stationary passenger train in India’s West Bengal state on Monday, killing at least 15 people and injuring dozens, police said, in an accident that railway authorities blamed on a disregarded signal.
-
-Media showed images of the pile-up, with containers from the goods train strewn nearby, and one carriage left nearly vertical after the accident, which comes just over a year after a signalling error caused one of India’s worst rail crashes.
-
-At least 15 bodies have been pulled from the mangled carriages, Abhishek Roy, a senior police official in the eastern state’s district of Darjeeling, the site of the accident, told Reuters.
-
-Nearly 30 people were injured and rescue teams from the police and national disaster response force were working with doctors and residents of the area to clear debris from the derailed carriages, Roy added.
-
-...
-
-[Data](articles/c0b5f8ce.json)
-
-[Extended Data](ext_articles/c0b5f8ce.ext.json)
 
 ---

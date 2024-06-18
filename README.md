@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 02:34:30**
+As of **2024-06-19 02:52:29**
 
 ## Newspaper Stats
 
-*Scraped **31,007** Articles*
+*Scraped **31,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,792
 dailyftlk | 1,883
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,639
+tamilmirrorlk | 3,640
 dailymirrorlk | 4,733
 virakesarilk | 4,779
 adaderanasinhalalk | 5,036
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,007 (100.0%) of 31,007 articles have been extended.
+31,007 (100.0%) of 31,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### ’சூழ்ச்சியை பேரவை தோற்கடித்து விட்டது’
+
+*2024-06-19 01:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழ்ச்சியை-பேரவை-தோற்கடித்து-விட்டது/175-339100) · `ta`
+
+சட்டமா அதிபர் சஞ்ஜய் ராஜரத்தினத்தை பிரதம நீதியரசராக நியமித்து தனக்கு ஏற்றாற் போல் சட்ட செயற்பாடுகளை முன்னெடுக்க மேற்கொண்ட அரசியல் சூழ்ச்சியை அரசியலமைப்பு பேரவை தோற்கடித்து விட்டதாக தயாசிறி ஜயசேகர எம்.பி. தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று செவ்வாய்க்கிழமை இடம்பெற்ற சுற்றுலாத்துறை ,காணி அமைச்சு மற்றும் விளையாட்டுத்துறை அமைச்சின் கட்டளைகள் மீதான ஒழுங்குவிதிகள்  மீதான விவாதத்தில் உரையாற்றும் போதே இவ்வாறு  பேசுகையில்,
+
+சட்டமா அதிபர் விவகாரத்தில் புதிய விடயங்கள் இடம்பெறுகின்றன.சுதந்திரத்தின் பின்னரான காலப்பகுதியில் பதவி வகித்த  சட்மா அதிபர்களின்  பதவிக்  காலம் ஒருபோதும் நீடிக்கப்படவில்லை.தற்போதைய சட்டமா அதிபரின் பதவி காலத்தை நீடிக்க அனுமதி வழங்குமாறு ஜனாதிபதி விடுத்த பரிந்துரையை இரண்டு முறை ஆராய்ந்து அரசியலமைப்பு பேரவை அந்த பரிந்துரையை நிராகரித்துள்ளது.
+
+...
+
+[Data](articles/67c889f6.json)
+
+---
 
 ### President challenges the verdict
 
@@ -2389,25 +2405,5 @@ The Speaker also said that the High Court has said that some strings should be p
 [Data](articles/40ea99a1.json)
 
 [Extended Data](ext_articles/40ea99a1.ext.json)
-
----
-
-### Imputed rental income tax not intended for average-income earners: President
-
-*2024-06-18 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99943/imputed-rental-income-tax-not-intended-for-average-income-earners-president-) · `en`
-
-Delivering a special statement to Parliament today (18), President Ranil Wickremesinghe said that the proposed Imputed Rental Income Tax will exempt a person’s first property.
-
-He emphasized that this tax is aimed at high net-income earners, not ordinary income earners, assuring that it will not affect those earning normal income.
-
-Raising a Point of Order under the Parliamentary Standing Orders, President Wickremesinghe further called for the appointment of a parliamentary select committee to review the Supreme Court’s decision on the Gender Equality Bill.
-
-He described the decision as perverse, noting that it challenges the rights of women and the protection of Buddhism.
-
-...
-
-[Data](articles/012db933.json)
-
-[Extended Data](ext_articles/012db933.ext.json)
 
 ---

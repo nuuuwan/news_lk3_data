@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 21:19:17**
+As of **2024-06-18 21:34:48**
 
 ## Newspaper Stats
 
-*Scraped **30,990** Articles*
+*Scraped **30,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,701
-adaderanalk | 3,512
+adalk | 2,702
+adaderanalk | 3,513
 tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,774
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,990 (100.0%) of 30,990 articles have been extended.
+30,990 (100.0%) of 30,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### Japan reports record spike in flesh-eating bacterial infections
+
+*2024-06-18 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99955/japan-reports-record-spike-in-flesh-eating-bacterial-infections) · `en`
+
+Japan has seen cases of Streptococcal Toxic Shock Syndrome (STSS) surpass 1,000 in 2024, the National Institute of Infectious Diseases (NIID) reported on June 18.
+
+As at June 9, the preliminary number of cases in the country since the beginning of this year reached 1,019, data from the NIID showed, marking a significant increase in the spread of this severe bacterial infection compared to previous years.
+
+STSS, also known as severe invasive streptococcal infection, is a sudden-onset disease primarily caused by “Group A Streptococcus”.
+
+Initial symptoms typically include sore throat, fever, loss of appetite, diarrhoea, vomiting, and other gastrointestinal issues, as well as septic symptoms like low blood pressure.
+
+If not treated promptly, it can lead to soft tissue damage, respiratory failure, liver failure, kidney failure, and multi-organ failure, with a mortality rate exceeding 30 per cent.
+
+...
+
+[Data](articles/5d688469.json)
+
+---
 
 ### The exegerage power empowers 69 point in Nugegoda
 
@@ -221,6 +241,22 @@ The dead youth has been identified as a 19 -year -old from Wellawaya.
 [Data](articles/e06cf99d.json)
 
 [Extended Data](ext_articles/e06cf99d.ext.json)
+
+---
+
+### අවුරුදු 5කදී පුද්ගලයන් 58 304ට ද්විත්ව පුරවැසිභාවය
+
+*2024-06-18 18:25:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-5කදී-පුද්ගලයන්-58-304ට-ද්විත්ව-පුරවැසිභාවය/11-410298) · `si`
+
+2015 වසරේ සිට 2020 වසර දක්වා කාලය තුළ පුද්ගලයින් 58,304 දෙනෙකුට ශ්‍රි ලංකාවේ ද්විත්ව පුරවැසි භාවය ලබාදි ඇති බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+
+එමෙන්ම මෙරට ද්විත්ව පුරවැසි භාවය ලබාගැනීම සඳහා 2015 සිට 2020 දක්වා කාලය තුළ පුද්ගලයින් 63,917 ක් ඉදිරිපත්ව ඇති බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරැණාතිලක මහතා  වාචික පිළිතුරැ අපේක්ෂාවෙන් ඊයේ (18දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම සඳහන් කළේය.
+
+"2015 වසරේ සිට 2020 දක්වා මෙරට ද්විත්ව පුරවැසි භාවය සඳහා ඉල්ලුම් කර ඇති සංඛ්‍යාවන් පිළිබඳව විමසා තිබෙනවා. 2015 වසරේදී 17,126 ක් ඉල්ලුම් කර තිබෙනවා. 2016 වසරේදී 14,802 ක් ඉල්ලූම් කර තිබෙනවා. 2017 වසරේදී 9549 ක් ඉල්ලුම් කර තිබෙනවා. 2018 වසරේදී 9,750 ක් අයදුම් කර තිබෙනවා. 2019 වසරේදී 8,702 ක්ද 2020 වසරේදී 3,988 ක්ද වශයෙන් ඉල්ලුම් කර තිබෙනවා. 2015 වසරේ සිට 2020 දක්වා අයදුම් කර ඇති මුළු සංඛාව 63,917 ක් වෙනවා.
+
+...
+
+[Data](articles/d4175adf.json)
 
 ---
 
@@ -2375,51 +2411,5 @@ Major General Dinesh Nanayakkara is the Commander Commander Commander of the Wan
 [Data](articles/049d437e.json)
 
 [Extended Data](ext_articles/049d437e.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-06-18 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197872) · `si`
-
-President Ranil Wickremesinghe will address Parliament, discussing Sri Lanka's progress, the economy, and the upcoming IMF debt facility installment.
-
-🟩
-
-President Ranil Wickremesinghe is scheduled to make a special statement in parliament today.
-
-It is reported that Sri Lanka's progress in Sri Lanka over the past two years and the President is to inform Parliament regarding the current economic situation in the country.
-
-President Ranil Wickremesinghe is also expected to express the third installment of the debt facility of the IMF to Sri Lanka.
-
-◼️
-
-[Data](articles/5f3c087c.json)
-
-[Extended Data](ext_articles/5f3c087c.ext.json)
-
----
-
-### Water supply to several areas restored as damaged pipeline repaired
-
-*2024-06-18 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99940/water-supply-to-several-areas-restored-as-damaged-pipeline-repaired-) · `en`
-
-The National Water Supply and Drainage Board (NWS&DB) has announced that the water supply to Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama, and Mattegoda areas has been restored today (18).
-
-The water supply in these areas was interrupted due to damage to the transmission pipeline from the Kalatuwawa Treatment Plant.
-
-The NWS&DB states that due to this, the water supply to a number of areas in the Colombo District was disrupted and as the damaged pipeline has been repaired, the water supply was restored by around 2.00 a.m. today (18).
-
-Accordingly, the water board said that water supply to some remote areas will be restored in the next few hours.
-
-The disruption followed a car accident on Monday morning, which caused the vehicle to veer off the road and collide with the pipeline near Godagama, close to the High-Level Road.
-
-As a result of the incident, the water supply to over 100,000 housing units in the affected areas was interrupted.
-
-◼️
-
-[Data](articles/66bad6b5.json)
-
-[Extended Data](ext_articles/66bad6b5.ext.json)
 
 ---

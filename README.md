@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 19:04:27**
+As of **2024-06-18 19:34:35**
 
 ## Newspaper Stats
 
-*Scraped **30,975** Articles*
+*Scraped **30,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,117 @@ islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,698
-adaderanalk | 3,511
+adaderanalk | 3,512
 tamilmirrorlk | 3,636
 dailymirrorlk | 4,733
-virakesarilk | 4,767
+virakesarilk | 4,774
 adaderanasinhalalk | 5,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,973 (100.0%) of 30,975 articles have been extended.
+30,982 (100.0%) of 30,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### අතුරුදන් සිව් හැවැරිදි දරුවා සොයා ගනියි
+### President tells Minister Wijeyadasa to quit?
+
+*2024-06-18 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99954/president-tells-minister-wijeyadasa-to-quit) · `en`
+
+The Senior Vice Chairman of the Sri Lanka Freedom Party (SLFP), Prof. Rohana Lakshman Piyadasa claimed that the President has pressured Justice Minister Wijeyadasa Rajapakshe, to resign from the government.
+
+He alleged that Minister Wijeyadasa Rajapakshe revealed this during a politburo meeting.
+
+◼️
+
+[Data](articles/1c19a76c.json)
+
+---
+
+### The four marginal child disappears
 
 *2024-06-18 18:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-සිව්-හැවැරිදි-දරුවා-සොයා-ගනියි/11-410299) · `si`
 
-නොර්වුඩ් පොලිස් වසමට අයත් ඩන්කන් වතුයායේදි (17) දින රාත්‍රියේ අතුරුදහන් වි සිටි සිව් හැවිරිදි පිරිමි දරුවා එම වතුයායේම ළදු කැළැවක සිටියදි (18) දින සොයාගත් බව නොර්වුඩ් පොලිසියේ ස්ථානාධිපති පොලිස් පරික්ෂක ප්‍රියංකර කොහොල්දෙණිය මහතා පැවසිය.
+A four-year-old boy found dead in Norwood, Norwood Police Division, was discovered near a wedding venue. The body was identified through initial examinations. The child's family has been notified, and the case is under investigation.
 
-මෙසේ අතුරුදහන් වි සිටියදි සොයාගනු ලැබුවේ නල්ලතන්නිය ලක්ෂපාන ප්‍රදේශයේ පදිංචිව සිටි සිවනාදන් අභිලාෂ් නැමති දරුවයි.
+🟩
 
-සිය දෙමව්පියන් සමග නොර්වුඩ් ඩන්කන් ප්‍රදේශයේ පිහිටි ඥාති නිවසක (17) දින පැවති විවාහ උත්සවයකට දරුවා පැමිණ ඇති බවත්, එම දරුවා (18) දින රාත්‍රියේ නිවසට ආසන්නයේ පිහිටි ළදු කැළැව වෙත ගොස් ඇති බවත්, පසුව ළදු කැළැව තුලදි දරුවාට ආපසු නිවසට ඒමට මාර්ගය සොයා ගැනිමට නොහැකිව ළදු කැළැව තුල අතරමංවි සිට ඇති බවට සිදු කරන ලද මුලික පරික්ෂණ වලදි අනාවරණය වි ඇති බව පොලිසිය කියා සිටියේ.
+Norwood Police OIC of Police Inspector Priyankara Kohondeniya said that the four-year-old boy discovered the estate on the Norwood Police Division (17).
+
+Sivanathan, a resident of the Nallathan, the Nallathaniya, was discovered.
+
+The child had come to a wedding ceremony in Norwood Duncan in Norwood Duncan.Police said that the basic experiments made during the closest corpses have been identified within the closed bulate.
+
+The child's parents and relatives of the child and relatives of the child have been informed of the child and relatives have been informed of the 119 police officers.
+
+The child's father said that the child was looking at the child's assistance with the support of the child after the afternoon of his child.
+
+The father of the missing child said that the Norwood police had not been able to look into the Norwood Police, he said.
+
+The child will be referred to the Judiciary Hospital for further investigations and providing the child's food and drink by the child.
+
+◼️
+
+[Data](articles/e9b576cc.json)
+
+[Extended Data](ext_articles/e9b576cc.ext.json)
+
+---
+
+### Motorcycle collision with bus
+
+*2024-06-18 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186406) · `ta`
+
+A tragic accident occurred on the Bandarawela-Badulla road where a motorcycle collided with a bus, resulting in the death of a 19-year-old from Wellawaya who was trapped under the motorcycle's rear wheel.
+
+🟩
+
+A motorcycle collided with a private bus traveling from Badulla to Bandarawela on the Bandarawela -Badulla road.
+
+A young man was killed when a driver was trapped in the back wheel of a motorcycle from Bandarala to Wellavai.
+
+The dead youth has been identified as a 19 -year -old from Wellawaya.
+
+◼️
+
+[Data](articles/e06cf99d.json)
+
+[Extended Data](ext_articles/e06cf99d.ext.json)
+
+---
+
+### Sri Lanka won the Women's ODI series again
+
+*2024-06-18 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186403) · `ta`
+
+Sri Lanka clinched the Women's ODI series against the West Indies with a 2-0 lead after winning the second match by 5 wickets. Key contributors included Samari Athapathu, Achini Kulasuriya, and Kavisha Dilhari for their bowling, and Vishmi Gunaratne for her batting, including a half-century. The West Indies were bowled out for 92 runs, with Rasada Williams leading their batting.
+
+🟩
+
+Sri Lanka won by 5 wickets in the 2nd Women's ODI match at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota against the West Indies on Tuesday (18).
+
+With this victory, Sri Lanka made a 3 -match women's international ODI series by 2 - 0.
+
+The accurate bowling of all -rounder, Samari Athapathu and Achini Kulasuriya, including Kavisha Dilhari's 4 wickets pile, and Vishmi Gunaratne's responsible batting led to the success of the Sri Lankan women's team.
+
+The West Indies women's team lost all wickets in 31 overs in the midst of the most population, scoring only 92 runs.
+
+Rasada Williams (24), Alia Alin (16), Ali Plecher (16) and Chedeen Nation (12) were the four double digits.
+
+Kavisha Dilhari took 4 wickets for 20 runs, Samari Attapattu 2 wickets for 8 runs while Achini Kulasuriya took 2 wickets for 16 runs.
+
+In response to 93 runs, the Sri Lankan women's team won by 5 wickets in 21.2 overs and scored 93 runs.
+
+The team's captain Samari Atapathu lost the match in the 3rd over.
 
 ...
 
-[Data](articles/e9b576cc.json)
+[Data](articles/ea4f8284.json)
+
+[Extended Data](ext_articles/ea4f8284.ext.json)
 
 ---
 
@@ -68,17 +150,23 @@ He said that Minister Wijayadasa Rajapaksa told the Politburo.
 
 ---
 
-### මහවට විශේෂ දුම්රිය ගමන්වාර කිහිපයක්
+### Several special trains to Mahaviya
 
 *2024-06-18 17:47:27* · [`adalk`](https://www.ada.lk/breaking_news/මහවට-විශේෂ-දුම්රිය-ගමන්වාර-කිහිපයක්/11-410294) · `si`
 
-2024 පොසොන් උත්සවය හේතුවෙන් මහව දුම්රිය ස්ථානය දක්වා විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ක්‍රියාත්මක කිරීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු කර තිබේ. උතුරු දුම්රිය මාර්ගයේ ඉදිකිරීම් කටයුතු හේතුවෙන් මේ වන විට එම මාර්ගයේ දුම්රිය ධාවනය මහව දුම්රිය ස්ථානය දක්වා පමණක් සීමා වී තිබේ.
+Due to the 2024 Poson Festival, the Railway Department has launched special trains to Mahawa, extending services beyond due to Northern Railway line construction. Pilgrims will also benefit from a special bus service from Mahawa to Anuradhapura and additional trains from Anuradhapura to Mihintale.
 
-දුම්රියෙන් මහවට ගමන් කිරීමෙන් අනතුරුව මහව සිට විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කරමින් වන්දනාකරුවන් අනුරාධපුරය දක්වා රැගෙන යාමට සැලසුම් කර තිබේ. මීට අමතරව අනුරාධපුරය සිට මිහින්තලය දක්වාද විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+🟩
+
+The Railway Department has implemented several special trains to the Mahawa Railway Station due to the 2024 Poson Festival. The train is not limited to Mahawa Railway Station due to the construction of the Northern Railway line.
+
+The pilgrims are scheduled to carry out a special bus service from the Mahawa to Anuradhapura after the train traveling to Mahawa.. In addition, several special trains will be implemented from Anuradhapura to Mihutinta.
 
 ◼️
 
 [Data](articles/5111979f.json)
+
+[Extended Data](ext_articles/5111979f.ext.json)
 
 ---
 
@@ -132,6 +220,28 @@ Police say that he was weak when the child was recovered due to lack of food.
 
 ---
 
+### Railway Chancellor Association
+
+*2024-06-18 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186384) · `ta`
+
+The Railway Principals Association plans a sudden union action due to unresolved promotion issues affecting them for over five years. However, after discussions with the Railway General Manager and Transport Minister, they've suspended this action pending approval from the Public Service Commission for their demands.
+
+🟩
+
+The Railway Principals Association has decided to engage in sudden union action as it has not been discussed today.
+
+Earlier, the union action was taken on the demand for a solution to the massive injustice of the railway principals in the promotion of more than five years.
+
+In this backdrop, the union has decided to suspend their trade union action after a discussion with Railway General Manager and Transport Minister Lasantha Alagiyawanna to obtain the permission of the Public Service Commission for its demands.
+
+◼️
+
+[Data](articles/d83c681d.json)
+
+[Extended Data](ext_articles/d83c681d.ext.json)
+
+---
+
 ### The president apologizes to Muslims
 
 *2024-06-18 17:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களிடம்-மன்னிப்பு-கேட்டார்-ஜனாதிபதி/175-339083) · `ta`
@@ -155,6 +265,108 @@ Similarly, I hope that everyone in this council will support the bill that will 
 [Data](articles/e8383737.json)
 
 [Extended Data](ext_articles/e8383737.ext.json)
+
+---
+
+### Prabhas - Diljit Alliance
+
+*2024-06-18 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186391) · `ta`
+
+Diljit Dosanjh, known globally for his music and dance, collaborated with Prabhas in the movie "Kalki." Their song "Bhairava Antam" became an instant hit, amassing over ten million views online. Directed by Nak Ashwin and featuring stars like Kamal Haasan and Deepika Padukone, the film is set to release in multiple languages on the 27th of this month. This alliance between Prabhas and Diljit has been praised for its potential to cater to both fans' desires and tastes, promising a successful musical collaboration.
+
+🟩
+
+Diljit Doshant, a native of Punjab, North Indian State, is popular not only in India but also worldwide.
+
+There are no fans of music fans for his voice and dance. He has sung a song in 'Kalki 2898kb' starring Prabhas Prabhas and has danced to the song with Prabhas.The song 'Bhairava Antam' has been visited by over ten million viewers within the short term of the Internet.
+
+Directed by director Nak Ashwin, Prabhas, Amithappachan, Kamal Haasan, Deepika Padukone, Disha Patani and many others are produced by Vaijayanthi Movies.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 27th of this month.
+
+The song, composed by composer Santosh Narayanan, has been written by songwriter Kumar, singer Diljit Dosand and Vijay Narayanan.
+
+In the video for this song.. Diljit Dosha's enchanting voice - this song with a magic dance, fans are cheering again.
+
+...
+
+[Data](articles/e08977c8.json)
+
+[Extended Data](ext_articles/e08977c8.ext.json)
+
+---
+
+### Ban Indian movie 'Rachel'
+
+*2024-06-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186394) · `ta`
+
+"Debutante director Anandini Bala's 'Rachel', starring Honey Rose, has released its teaser, raising expectations. The film features a mix of experienced and new actors, including Babu Raj, Kalabhavan Shahjoon, and Roshan Bashir. Shot in multiple languages, it's produced by Excise Entertainment and co-produced by Badusha Productions. Post-production is ongoing, with the full release anticipated soon."
+
+🟩
+
+The teaser of Malayalam actress Honey Rose has been released as the heroine of the film 'Rachel'.
+
+Honey Rose, Babu Raj, 'Kalabhavan' Shahjoon, Roshan Bashir, Radhika Radhakrishnan, Joji, Dinesh Prabhakar, Vandita Manoharan, directed by debutant director Anandini Bala.. Swarup Philip has composed the film for the film. The film is being produced as Glamor with Excise Entertainment and has co -produced the film on behalf of Badusha Productions Company.
+
+The shooting of the film is over and the post -shooting technical work is underway. In this case, the teaser of the film has been released. Actress Honey Rose appears to be sexy and Xson in the teaser has increased the expectation of the film for fans. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi.
+
+...
+
+[Data](articles/6caa07c5.json)
+
+[Extended Data](ext_articles/6caa07c5.ext.json)
+
+---
+
+### Arrested person for selling animals
+
+*2024-06-18 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186395) · `ta`
+
+A 54-year-old man from Varadivillu Bear was arrested for illegally selling animals with an unlicensed rifle. The arrest occurred during a roundup initiated by the Varnathivilu Police based on confidential information. The suspect was apprehended as he attempted to flee his home with a firearm. Authorities suspect involvement in wildlife poaching and fraud.
+
+🟩
+
+A man who has been involved in the sale of animals by illegal rifle without permit has been arrested by police with gun and shoes.
+
+A man was arrested during a round -up on Tuesday (18), according to a secret information available to the Varnathivilu Police for allegedly being illegally illegally without permission.
+
+The suspect was 54 years old from the Varadivillu Bear.
+
+Police say they suspect the suspect is involved in fraud of hunting and selling wild animals.
+
+When the police surrounded the suspect's house, he was arrested when he was trying to leave the house with a gun in his hand.
+
+On the directive of the incident of the Chief Inspector of Police, Sumuthu Senanayake, the Sub -Inspector of Police, Senaka Bandara, led by Van (70637) Rajapaksa, Rajapaksa, Saman (73384), Saman, Police Constables (76238), Sameera.
+
+Varnathivilu police said that steps have been taken to produce the arrested suspect and the seized gun and bullets.
+
+◼️
+
+[Data](articles/df4b99ab.json)
+
+[Extended Data](ext_articles/df4b99ab.ext.json)
+
+---
+
+### Kali Venkat's 'Donima' film teaser
+
+*2024-06-18 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186398) · `ta`
+
+The teaser for "Dhonima," featuring Kali Venkat, highlights his versatility as an actor, playing a character involved in cricket and a mercenary worker alongside his wife, all while addressing societal issues. The film, praised by Bharat on social media, includes a diverse cast and focuses on marginalized communities, produced by Sai Venkateswaran under L&T Productions.
+
+🟩
+
+The teaser of the film 'Dhonima' has been released as the hero of the story, the best character actor and the comedian who plays the role of actor Kali Venkat, the best diversity of the Tamil film industry.. Actor Bharat posted this on his social network and congratulated the film crew.
+
+Kali Venkat, Roshini Raj, Vivek Prasanna, Kannan Ponniah, Rajesh Sharma, B.. L. Thenappan, 'Kalki' Rajan and many others have played. EJ Johnson has composed the film, which has been recorded by Bhagiraj and Sajith Kumar.. The film is being prepared in the context of marginalized people and produced by producer Sai Venkateswaran on behalf of L&T Productions.
+
+The first look and teaser of the film has been released. In the teaser, the actor Kali Venkat is a serious stabbing on the cricket and his wife is a mercenary worker and the two are fighting for their standard address.
+
+◼️
+
+[Data](articles/5196d6db.json)
+
+[Extended Data](ext_articles/5196d6db.ext.json)
 
 ---
 
@@ -1588,11 +1800,15 @@ The Speaker also said that the High Court has said that some strings should be p
 
 *2024-06-18 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99943/imputed-rental-income-tax-not-intended-for-average-income-earners-president-) · `en`
 
-Delivering a special statement in Parliament today (18), President Ranil Wickremesinghe commented on the introduction of the proposed imputed rental income tax.
+Delivering a special statement to Parliament today (18), President Ranil Wickremesinghe said that the proposed Imputed Rental Income Tax will exempt a person’s first property.
 
-The President gave an assurance that the first property would be exempted from taxation, while also noting that it is intended to focus on high-net-worth individuals and not average-income earners, the President’s Media Division reported.
+He emphasized that this tax is aimed at high net-income earners, not ordinary income earners, assuring that it will not affect those earning normal income.
 
-◼️
+Raising a Point of Order under the Parliamentary Standing Orders, President Wickremesinghe further called for the appointment of a parliamentary select committee to review the Supreme Court’s decision on the Gender Equality Bill.
+
+He described the decision as perverse, noting that it challenges the rights of women and the protection of Buddhism.
+
+...
 
 [Data](articles/012db933.json)
 
@@ -2177,191 +2393,5 @@ The Railways Department has reported that significant train delays are expected 
 [Data](articles/c482a09c.json)
 
 [Extended Data](ext_articles/c482a09c.ext.json)
-
----
-
-### A delay in two roads
-
-*2024-06-18 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197870) · `si`
-
-Train delays on the main road and Chilaw road may occur due to three large ranches causing obstructions.
-
-🟩
-
-The train delays of the main road and Chilaw road can take place.
-
-The department states that the delays of the train will take place as a result of three lofty ranches.
-
-◼️
-
-[Data](articles/174339ed.json)
-
-[Extended Data](ext_articles/174339ed.ext.json)
-
----
-
-### Corpse floating in Kelani Ganga
-
-*2024-06-18 08:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனி-கங்கையில்-மிதந்த-சடலம்/175-339060) · `ta`
-
-An unidentified male corpse, aged 50-60, found in the Kelani Ganga. The body, 5'6" tall, is at Colombo National Hospital's funeral room pending identification. Beliyagoda police continue investigating.
-
-🟩
-
-The body of an unidentified man in the Kelani Ganga was found yesterday evening.
-
-The body has not yet been identified and the deceased is between the ages of 50 to 60 and is 05 feet 6 inches tall.
-
-The body is being kept in the funeral room of the Colombo National Hospital and the Beliyagoda police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/bad4bccc.json)
-
-[Extended Data](ext_articles/bad4bccc.ext.json)
-
----
-
-### A discussion between non-academic workers and the University Grants Commission
-
-*2024-06-18 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197869) · `si`
-
-Non-academic staff met with the University Grants Commission today to discuss wage issues.
-
-🟩
-
-A special discussion with the University Grants Commission regarding its wage issue is held today (18).
-
-◼️
-
-[Data](articles/d0a887d3.json)
-
-[Extended Data](ext_articles/d0a887d3.ext.json)
-
----
-
-### Coconut Development Authority interferes with price of coconut oil
-
-*2024-06-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197868) · `si`
-
-The Coconut Development Authority plans to regulate coconut oil prices despite no tax hikes on imported oil. The chairman, Professor Roshan Perera, notes that local pricing doesn't influence imported coconut oil costs. This year, 42,000 metric tons were imported by May, but the exact reasons behind current market prices remain unclear.
-
-🟩
-
-There is no reasonable reason for coconut oil prices in the market.
-
-The Chairman Professor Roshan Perera said that no tax increases had been made to the imported coconut oil.
-
-The coconut oil was imported by 42,000 metric tons of coconut oil by May this year.
-
-Professor Roshan Perera said that the price of coconut oil cannot be approved by the country's prices as the coconut oil is in the country.
-
-Meanwhile, the Chairman of the Coconut Development Authority (Coconut Development Authority) has planned to implement a new regulatory program to control the price of coconut oil in the market.
-
-◼️
-
-[Data](articles/121d227a.json)
-
-[Extended Data](ext_articles/121d227a.ext.json)
-
----
-
-### Unidentified body found in Kelani River
-
-*2024-06-18 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197867) · `si`
-
-An unidentified male body was discovered in the Kelani River near Peliyagoda. The victim remains unconfirmed, and his remains have been sent to the Colombo National Hospital morgue for examination. Investigations are ongoing by the Peliyagoda Police.
-
-🟩
-
-An unidentified male bodies found in the Kelani River behind a private company in Peliyagoda.
-
-The identity of this male has not yet been confirmed, police said.
-
-The body has been transmitted at the Colombo National Hospital morgue and the Peliyagoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f057f8ba.json)
-
-[Extended Data](ext_articles/f057f8ba.ext.json)
-
----
-
-### Rainy weather conditions expected to enhance from tomorrow
-
-*2024-06-18 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99938/rainy-weather-conditions-expected-to-enhance-from-tomorrow) · `en`
-
-The prevailing rainy condition in the South-western part of the island is expected to somewhat enhance in the next few days from tomorrow (19), according to the Meteorology Department.
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/688f53d6.json)
-
-[Extended Data](ext_articles/688f53d6.ext.json)
-
----
-
-### President is parliament today
-
-*2024-06-18 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197866) · `si`
-
-Today, President Ranil Wickremesinghe addresses Parliament, updating on Sri Lanka's progress and the current economic situation. He'll discuss the IMF's third debt installment and hold a party meeting. The Parliament convenes under the State Land Ordinance and the Traveling Practice Act, while the Constitutional Council meets with President Mahinda Yapa Abeywardena. The Attorney General, Sanjaya Rajaratnam, awaits a final decision on his service extension, previously recommended by Wickremesinghe.
-
-🟩
-
-President Ranil Wickremesinghe is scheduled to make a special statement today (18).
-
-It is reported that Sri Lanka's progress in Sri Lanka over the past two years and the President is to inform Parliament regarding the current economic situation in the country.
-
-President Ranil Wickremesinghe is also expected to express the third installment of the debt facility of the IMF to Sri Lanka.
-
-Meanwhile, the ruling party team meeting is scheduled to be held at the Parliamentary Complex by the President this morning.
-
-It is reported that this week is to be discussed this week.
-
-The Parliament will meet to meet this week at 9:30 am today under the State Land Ordinance and the Convention on Traveling Practice Act.
-
-Meanwhile, the Constitutional Council is also due to meet with the President Mahinda Yapa Abeywardena.
-
-It is reported that the Attorney General's Attorney General Sanjaya Rajaratnam is scheduled to take a final decision on the extension extension of the service extension.
-
-...
-
-[Data](articles/f865750d.json)
-
-[Extended Data](ext_articles/f865750d.ext.json)
-
----
-
-### Murder suspect arrested
-
-*2024-06-18 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197865) · `si`
-
-A 32-year-old from Rangerawa, Kokannawa, was arrested for murdering a 43-year-old man in a hospital dispute in Nochchiyagama, Koknajewa, Rannora, Kokannawa. The victim received treatment at Anuradhapura Hospital on the 14th before the police investigation led to the arrest.
-
-🟩
-
-A suspect has been arrested for the murder of the murder in the Noching Skin Police Division.
-
-The suspected was a 32 year old resident of Rangerawa, Kokannawa.
-
-A 43-year-old man had been hospitalized due to a private dispute in Nochchiyagama, Koknajewa in the Rannora area in Kokannawa.
-
-The victim was treated at the Anuradhapura Hospital on the 14th.
-
-The Nochchiyagama Police have conducted an investigation and arrested the suspect.
-
-◼️
-
-[Data](articles/d9ef7201.json)
-
-[Extended Data](ext_articles/d9ef7201.ext.json)
 
 ---

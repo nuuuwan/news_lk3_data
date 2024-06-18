@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 23:35:27**
+As of **2024-06-18 23:54:35**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,002 (100.0%) of 31,003 articles have been extended.
+31,003 (100.0%) of 31,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### அரசாங்கத்தில் இருந்து விலகுமாறு ஜனாதிபதி அறிவிப்பு?
+### President's announcement to quit government?
 
 *2024-06-18 23:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தில்-இருந்து-விலகுமாறு-ஜனாதிபதி-அறிவிப்பு/175-339098) · `ta`
 
-அமைச்சர் விஜயதாச ராஜபக்ஷவை அரசாங்கத்தில் இருந்து வெளியேறுமாறு ஜனாதிபதி அழுத்தம் கொடுத்துள்ளதாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவர் பேராசிரியர் ரோஹன லக்ஷ்மன் பியதாச தெரிவித்துள்ளார்.
+Professor Rohana Lakshman Piyadasa, Senior Vice President of the Sri Lanka Freedom Party, announced that President has pressured Minister Vijayadasa Rajapakse to resign from the government.
+
+🟩
+
+Senior Vice President of the Sri Lanka Freedom Party Professor Rohana Lakshman Piyadasa says the President has pressured Minister Vijayadasa Rajapakse to leave the government.
 
 ◼️
 
 [Data](articles/189ee3c9.json)
+
+[Extended Data](ext_articles/189ee3c9.ext.json)
 
 ---
 

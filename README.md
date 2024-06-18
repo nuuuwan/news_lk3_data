@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 07:00:42**
+As of **2024-06-18 07:24:25**
 
 ## Newspaper Stats
 
-*Scraped **30,863** Articles*
+*Scraped **30,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,79 @@ adaderanalk | 3,495
 tamilmirrorlk | 3,621
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 5,000
+adaderanasinhalalk | 5,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,859 (100.0%) of 30,863 articles have been extended.
+30,863 (100.0%) of 30,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### වැසි තත්ත්වයේ තරමක වැඩිවීමක්
+### පිපිරුණු නළයේ අලුත්වැඩියා කටයුතු අවසන්
+
+*2024-06-18 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197864) · `si`
+
+කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළයේ අලුත්වැඩියා කටයුතු මේ වනවිට අවසන් කර තිබේ.
+
+හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී ඊයේ (17) අලුයම 2ට පමණ මෝටර් රථයක් එහි ගැටීමෙන් නළය පුපුරා ගොස් තිබිණි.
+
+මේ හේතුවෙන් කොළඹ දිස්ත්‍රික්කයේ ප්‍රදේශ ගණනාවකට ජල සැපයුම අඩාල වූ අතර නළයේ අලුත්වැඩියා කටයුතු අවසන් වීම හේතුවෙන් අද (18) අලුයම 2 පමණ සිට යළි ජල සැපයුම යථාතත්ත්වයට පත්කළ බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කරයි.
+
+ඒ අනුව දුර ප්‍රදේශවලට ජල සැපයුම ඉදිරි පැය කිහිපය තුළ යථාතත්ත්වයට පත්වෙනු ඇතැයි ද එම දෙපාර්තමේන්තුව පැවසීය.
+
+අනතුර හේතුවෙන් ජල නළය පුපුරා යෑමෙන් ඊයේ රාත්‍රියේ දැවැන්ත ජල කාන්දුවක් එම ස්ථානයේ සිදුව තිබූ අතර, යාබදව පිහිටි විදුලි රැහැන් කණු දෙකක්ද ජල පහරේ වේගයට කඩාවැටී තිබිණි.
+
+සිදුවූ ජල කාන්දුව හේතුවෙන් ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවල ජල සැපයුමට බාධා එල්ලවුණි.
+
+◼️
+
+[Data](articles/1e04c1c2.json)
+
+---
+
+### නවසීලන්තයට සුපිරි ජයක්
+
+*2024-06-18 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197863) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පැපුවානිව්ගිනියා කණ්ඩායම සමග පැවති තරගයෙන් කඩුලු 07ක ජයක් හිමිකර ගැනීමට නවසීලන්ත කණ්ඩායම ඊයේ (17) සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පැපුවානිව්ගිනියා කණ්ඩායම පන්දුවාර 19යි පන්දු 04ක් තුළ සියලුදෙනා දැවී ලකුණු 78ක් රැස්කළහ.
+
+පන්දු යැවීමේ දී නවසීලන්ත කණ්ඩායමේ Lockie Ferguson සිය පන්දුවාර 04 තුළ කිසිදු ලකුණක් ලබා නොදී කඩුලු 03ක් බිඳ හෙළීමට සමත් විය.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි නවසීලන්ත කණ්ඩායම පන්දුවාර 12යි පන්දු 2ක් තුළ කඩුලු 03ක් පමණක් දැවී ජයග්‍රහණය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/722d1532.json)
+
+---
+
+### Excessive increase in the rainy
 
 *2024-06-18 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197861) · `si`
 
-දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (19) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+In the coming days, heavy rainfall is predicted across various regions including the Western, Sabaragamuwa, Northwestern provinces, and specific districts like Galle, Matara, Kandy, Nuwara Eliya, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala. Strong winds of 40-50 km/h are also expected.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Meteorology Department says that a rainy section of the island is expected to be expected in the next few days from tomorrow (19).
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+The department states that several showers may occur in the Western, Sabaragamuwa and Northwestern provinces and several times in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa Districts in Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology added that there were 40-50 strong winds.
 
 ◼️
 
 [Data](articles/09524401.json)
+
+[Extended Data](ext_articles/09524401.ext.json)
 
 ---
 
@@ -78,19 +124,27 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 
 ---
 
-### ’விவசாயிகளுக்கு நன்றி செலுத்தும் உறுமய’
+### Thanks to the farmers
 
 *2024-06-18 02:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-நன்றி-செலுத்தும்-உறுமய/175-339058) · `ta`
 
-காணி உறுதிகள் இல்லாமல் நாட்டு மக்களுக்கு சோறு தந்த விவசாய மக்களுக்கு நன்றி செலுத்தும் விதமாகவே அரசாங்கத்தினால் உறுமய வேலைத்திட்டம் முன்னெடுக்கப்படுவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe thanked farmers for their resilience during tough times, highlighting the government's Urumaya program aimed at supporting them. He mentioned the challenges faced upon taking office, including shortages of fuel, medicine, and food, but noted increased yields in 2022-2023. The president emphasized the importance of modernizing agriculture to combat rural poverty and urged farmers to partner in this initiative, promising funding from next year.
 
-உறுமய தேசிய வேலைத்திட்டத்தின் கீழ், மகாவலி வளவ வலயத்தில் தெரிவு செய்யப்பட்ட 45 ஆயிரத்து 253 பேரில் 1,524 பேருக்கு, அம்பிலிபிட்டி மகாவலி விளையாட்டரங்கில் நேற்று நடைபெற்ற காணி உறுதி வழங்கும் நிகழ்விலேயே ஜனாதிபதி இதனை தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நாட்டை நாம் பொறுப்பேற்ற வேளையில் எரிபொருள், மருந்து, உணவுத் தட்டுப்பாடு காணப்பட்டது. 2022 – 2023 சிறுபோகத்தில் விளைச்சல் அதிகரித்தது. அதனால் கடவுள் செயலால் இதனைச் செய்ய முடியும் என்று நம்பினோம். விவசாயிகளே அதற்குப் பக்கலமாக நின்றனர். இப்போது விவசாயிகளுக்கான உரம் உள்ளிட்ட தேவைகளைப் பூர்த்தி செய்வதற்கான முன்னெடுப்புக்களை ஆரம்பித்துள்ளோம்.
+President Ranil Wickremesinghe has said that the government is carrying out the Urumaya program to thank the farmers who have been tired of the people without land guarantees.
+
+The President made this observation at the Land Confirmation held at the Ambilipitiya Mahaweli Stadium yesterday for 1,524 of the 45 thousand 253 selected at the Mahaweli Resource Zone under the National Program.. As he further stated,
+
+When we took over the country, fuel, medicine, and food shortage was found. 2022 - 2023 Yields Increased. So we believed that God could do this by acting. Farmers stood there. Now we have initiated initiatives to meet the needs of the farmers, including fertilizer.
+
+The program we carry out for the farmers will not stand with this. Providing land is not just enough. To eradicate poverty in villages to establish agrarian revolution. That is why the agricultural modernization program is being carried out. Once the land rights, people can increase their income.
 
 ...
 
 [Data](articles/5d090d7a.json)
+
+[Extended Data](ext_articles/5d090d7a.ext.json)
 
 ---
 
@@ -2333,51 +2387,5 @@ Central Railway Minister Aswini Vaishnav said the accident was a shock and alarm
 [Data](articles/575f8101.json)
 
 [Extended Data](ext_articles/575f8101.ext.json)
-
----
-
-### Salama is blurred by the World Records of the Study
-
-*2024-06-17 13:10:33* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-අවසර-නොලැබීමෙන්-සලාමා-සිසුවාගේ-ලෝක-වාර්තා-සිහිනය-බොඳ-වෙයි/11-410260) · `si`
-
-Salama, a student from Sahara Vidyalaya, participated in a global event at the Port of Dunusukody, supervised by the Sri Lanka Water Sports Association and approved by both the Sri Lanka and Indian High Commissions. The event involved monitoring the port's activities, with Salama's father acting as a lifeguard. Despite a 45-kilometer journey from Mannar, Salama and her team successfully completed the mission, showcasing dedication and resilience.
-
-🟩
-
-The Lowarm Saramayam, who was in the 10-year learning of the Government of Sahara Vidyalaya, was a global reporting from the Port of Dunusukody, from the Port of India to the Palk Strait.
-
-Under the supervision of the Sri Lanka Water Sports Association, the Sri Lanka High Commission had obtained permission from the Indian High Commission.
-
-A separate official group of students to monitor the world's report to the Port of Danuuscom, a lifeguard and the father of the student was ready to monitor the world's report.It was a distance of 45 kilomes to Mannar from Mannar and completed the disappointment.
-
-Joseph, a resident of the student, said that 40 lakhs were asked to promptly to prepare all the work from months training.
-
-◼️
-
-[Data](articles/28207219.json)
-
-[Extended Data](ext_articles/28207219.ext.json)
-
----
-
-### Notice issued on disruption of water supply to several areas
-
-*2024-06-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99926/notice-issued-on-disruption-of-water-supply-to-several-areas) · `en`
-
-The National Water Supply and Drainage Board (NWS&DB) says that water supply to Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama and Mattegoda areas will be restored by midnight today (17).
-
-The water supply in the aforesaid areas was interrupted until further notice, due to a damage in the transmission pipeline from the Kalatuwawa Treatment Plant.
-
-According to reports, the water transmission pipeline from the Kalatuwawa Treatment Plant has burst at Godagama near the High-Level Road owing to a vehicular accident.
-
-A car had veered off the road and collided with the water transmission pipeline this morning (17) causing severe damage to the pipeline.
-
-As a result of the incident, the water supply to over 100,000 housing units in the affected areas has been interrupted until further notice.
-
-◼️
-
-[Data](articles/8aa717f7.json)
-
-[Extended Data](ext_articles/8aa717f7.ext.json)
 
 ---

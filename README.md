@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 11:34:55**
+As of **2024-06-18 11:54:25**
 
 ## Newspaper Stats
 
-*Scraped **30,904** Articles*
+*Scraped **30,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
-adalk | 2,680
-adaderanalk | 3,502
+adalk | 2,682
+adaderanalk | 3,503
 tamilmirrorlk | 3,627
 dailymirrorlk | 4,733
 virakesarilk | 4,756
@@ -26,33 +26,61 @@ adaderanasinhalalk | 5,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,902 (100.0%) of 30,904 articles have been extended.
+30,904 (100.0%) of 30,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### ලෝටස් පාර අවහිර වෙයි
+### Lotus Road in Colombo blocked due to protest
+
+*2024-06-18 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99944/lotus-road-in-colombo-blocked-due-to-protest) · `en`
+
+The Lotus Road in Colombo Fort has been blocked for traffic owing to a protest march by university non-academic staff, Ada Derana reporter said.
+
+Accordingly, it is reported that the road has been completely closed for vehicular movement resulting in severe traffic congestion in the area.
+
+The relevant protest march has been organized by the University Trade Union Joint Committee (UTUJC).
+
+◼️
+
+[Data](articles/73e0cd1b.json)
+
+---
+
+### Lotus gets blocked
 
 *2024-06-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197876) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ විරෝධතාවයක් හේතුවෙන් මේ වනවිට ලෝටස් පාර අවහිර වී තිබේ.
+"Lotus Road is closed due to protests from university non-academic staff."
+
+🟩
+
+Lotus Road has been blocked due to protest of university non-academic workers.
 
 ◼️
 
 [Data](articles/72241234.json)
 
+[Extended Data](ext_articles/72241234.ext.json)
+
 ---
 
-### அதிக வருமானம் ஈட்டுவோரிடமே வரி அறிவிடப்படும்
+### Taxes will be announced to those who earn higher income
 
 *2024-06-18 11:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வருமானம்-ஈட்டுவோரிடமே-வரி-அறிவிடப்படும்/175-339065) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் பாராளுமன்றத்தில் ஆற்றிய உரையில், முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர் என்றும், சாதாரண வருமானம் ஈட்டுபவர்களுக்கு அன்றி, அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும் என்றும் தெரிவித்தார்.
+In a Parliament speech, President Ranil Wickremesinghe announced that the first property will be exempted from a new rental tax. This tax targets high earners rather than ordinary income groups.
+
+🟩
+
+President Ranil Wickremesinghe, in a speech in Parliament, said that the first property will be released from the proposed rental tax and that the tax will be levied on those who earn more income, not the ordinary income.
 
 ◼️
 
 [Data](articles/dab0af14.json)
+
+[Extended Data](ext_articles/dab0af14.ext.json)
 
 ---
 
@@ -71,6 +99,18 @@ Promises will be made by candidates than the politicians representing their cons
 [Data](articles/5786ca2e.json)
 
 [Extended Data](ext_articles/5786ca2e.ext.json)
+
+---
+
+### ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+
+*2024-06-18 10:58:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-විශේෂ-ප්‍රකාශයක්/11-410278) · `si`
+
+ජනපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුව අමතමින් විශේෂ ප්‍රකාශයක් සිදුකරමින් පවතී.
+
+◼️
+
+[Data](articles/68b6e84b.json)
 
 ---
 
@@ -1952,6 +1992,22 @@ The Department of Meteorology has noted that strong winds are likely to be at sp
 
 ---
 
+### අද සිට වර්ජන රැල්ලක්
+
+*2024-06-17 19:28:23* · [`adalk`](https://www.ada.lk/breaking_news/අද-සිට-වර්ජන-රැල්ලක්/11-410273) · `si`
+
+වැටුප් ගැටලු ,දීමනා ගැටලු  හා උසස් වීම් ගැටලු මුල් කර ගනිමින් අද(18දා) සිට ඉදිරි කාලයේදී වර්ජන රැල්ලක් ඇති වන තත්ත්වයක් නිර්මාණය වී තිබේ.
+
+මේ අනුව දුම්රිය ස්ථානාධිපතිවරුන්ට ඇති වී තිබෙන ගැටලුවලට අද (18දා) දිනයේදී විසඳුම් නොලැබුණහොත් වෘත්තීය ක්‍රියා මර්ග ආරම්භ කිරීමට දුමිරිය ස්ථානාධිපතිවරුන් සැලසුම් කර  ඇත. විශ්ව විද්‍යාල අනධ්‍යයන සේවකයන්ට ඇති වී තිබෙන  ගැටලුවලට අද දිනයේදී නිසි විසඳුම් නොලැබුණහොත් දැනට සිදුකරන වෘත්තීය ක්‍රියා මාර්ග දැඩි කිරීමට තීරණය කර තිබේ.
+
+තැපැල් සේවකයන්ට ඇති වී තිබෙන ගැටලුවලට විසඳුම් ලබා දීම ප්‍රමාද කළ හොත් මේ මස 24 වැනි දින සිට වෘත්තීය ක්‍රියා මාර්ග ආරම්භ කිරීමට සැලසුම් කර තිබෙන අතර ග්‍රාමනිලධාරීන්ට ඇති වී තිබෙන ගැටලු විසඳීමට කටයුතු නොකළ හොත් 24 වැනි දින සිට වෘත්තීය ක්‍රියා මාර්ග ආරම්භ කිරීමේ තීන්දුව ගෙන තිබේ.
+
+...
+
+[Data](articles/adefe521.json)
+
+---
+
 ### Ex-President Sirisena reveals reason he resigned as SLFP chairman
 
 *2024-06-17 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99934/ex-president-sirisena-reveals-reason-he-resigned-as-slfp-chairman) · `en`
@@ -2271,73 +2327,5 @@ Actress Nivetha Bethuraj is the heroine of the story and can be found free of th
 [Data](articles/dc569995.json)
 
 [Extended Data](ext_articles/dc569995.ext.json)
-
----
-
-### The opening of the new train route in Anuradhapura and Mihintale
-
-*2024-06-17 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186288) · `ta`
-
-The new railway line connecting Anuradhapura and Mihintale was officially opened today, funded by an Indian loan. Transport Minister Bandula Gunawardena presided over the inauguration ceremony.
-
-🟩
-
-The new and upgraded railway line from Anuradhapura and Mihintale junction has been opened today, the Transport Ministry said.
-
-Transport Minister Bandula Gunawardena has inaugurated this railway line under Indian loan.
-
-◼️
-
-[Data](articles/dd70e371.json)
-
-[Extended Data](ext_articles/dd70e371.ext.json)
-
----
-
-### A threat to the domination of American dollar?
-
-*2024-06-17 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197854) · `si`
-
-The IMF highlights a shift away from the dominance of the US dollar in global finance, noting a decrease in its use in foreign reserves over the last twenty years. It suggests that other currencies, including the Euro, Japanese Yen, and British Pound, along with emerging ones like the Australian Dollar and Chinese Yuan, are gaining recognition. Despite this diversification, the US dollar remains the strongest currency in the global economy.
-
-🟩
-
-The International Monetary Fund (IMF) states that the central banks around the world are not only US $.
-
-This situation is a domination of the US domination internationally.
-
-Four internationally most recognized currencies are considered, US dollar, euro, Japanese Yen and Sterling Pound.
-
-For the past two decades, the US dollar decreases the percentage of using the US dollar to foreign reserves compared to exchanges of euros, Yen and Sterling.
-
-The International Monetary Fund points out that Australian dollar dollars, Chinese Yuan, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden, Sweden and Norway.
-
-The International Monetary Fund states that even though it joined the unconventional exchange, even the most powerful exchange in the global economy is still the most powerful exchange in the global economy.
-
-◼️
-
-[Data](articles/39876a43.json)
-
-[Extended Data](ext_articles/39876a43.ext.json)
-
----
-
-### 'Other variable office- season 2'
-
-*2024-06-17 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186287) · `ta`
-
-"Season 2 of 'Other Variable Office,' a comedy-mixed internet series, has been warmly welcomed by fans upon its release on Aha Digital. Directed by Jashwini and featuring a star-studded cast including RJ Vijay and Soundarya, the series explores the challenges faced by employees starting a new company, blending humor with personal life issues."
-
-🟩
-
-There is a huge welcome among the fan for the comedy -mixed internet series released on digital sites. The Internet series 'Mari Office' has been released on the leading digital site and received the unanimous welcome and support of the fans.. The second season of this web series is currently underway. The inauguration of the 'Other Model Office Season 2' web series on the Aha Digital site was held in Chennai.
-
-Directed by director Jashwini, the Internet series stars RJ Vijay, Soundarya, Nanjundan, Lalu Saba Maran, Janani Ashok Kumar, Jayaseelan, Raveena and many others.. Raghav composes music for this cinematography by Satya. It was produced by producer Sivakant on behalf of the Kana Productions Company for the Aha Digital site.
-
-...
-
-[Data](articles/bd11ca1a.json)
-
-[Extended Data](ext_articles/bd11ca1a.ext.json)
 
 ---

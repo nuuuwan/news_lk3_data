@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 23:19:16**
+As of **2024-06-18 23:35:27**
 
 ## Newspaper Stats
 
-*Scraped **31,002** Articles*
+*Scraped **31,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,637
+tamilmirrorlk | 3,638
 dailymirrorlk | 4,733
 virakesarilk | 4,779
 adaderanasinhalalk | 5,036
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,002 (100.0%) of 31,002 articles have been extended.
+31,002 (100.0%) of 31,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### அரசாங்கத்தில் இருந்து விலகுமாறு ஜனாதிபதி அறிவிப்பு?
+
+*2024-06-18 23:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தில்-இருந்து-விலகுமாறு-ஜனாதிபதி-அறிவிப்பு/175-339098) · `ta`
+
+அமைச்சர் விஜயதாச ராஜபக்ஷவை அரசாங்கத்தில் இருந்து வெளியேறுமாறு ஜனாதிபதி அழுத்தம் கொடுத்துள்ளதாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவர் பேராசிரியர் ரோஹன லக்ஷ்மன் பியதாச தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/189ee3c9.json)
+
+---
 
 ### President affirms govt’s unwavering commitment to advance women’s rights
 
@@ -2393,27 +2405,5 @@ Ada Derana greet us in Derana to the new wedding of Sivalingam, who is considere
 [Data](articles/ec1df1fa.json)
 
 [Extended Data](ext_articles/ec1df1fa.ext.json)
-
----
-
-### SC rules several clauses of Telecom Amendment Bill are unconstitutional
-
-*2024-06-18 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99941/sc-rules-several-clauses-of-telecom-amendment-bill-are-unconstitutional) · `en`
-
-The Speaker of Parliament to say announced the Supreme Court’s determination on the proposed ‘Sri Lanka Telecommunications (Amendment) Bill’.
-
-Accordingly, the Supreme Court has determined that several clauses of the Bill are inconsistent with the Constitution.
-
-As per the court’s ruling, these clauses will require a special majority in Parliament to be passed.
-
-However, if the contentious clauses are amended, they can be passed with a simple majority, it further states.
-
-SC Determination on Sri Lanka Telecommunication (Amendment) Bill by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/cd119512.json)
-
-[Extended Data](ext_articles/cd119512.ext.json)
 
 ---

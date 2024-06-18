@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 10:34:55**
+As of **2024-06-18 10:53:27**
 
 ## Newspaper Stats
 
-*Scraped **30,888** Articles*
+*Scraped **30,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,99 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,680
-adaderanalk | 3,499
+adaderanalk | 3,500
 tamilmirrorlk | 3,626
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 5,010
+adaderanasinhalalk | 5,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,886 (100.0%) of 30,888 articles have been extended.
+30,888 (100.0%) of 30,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### தமிழக மீனவர்கள் 4 பேர் கைது
+### SC rules several clauses of Telecom Amendment Bill are unconstitutional
+
+*2024-06-18 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99941/sc-rules-several-clauses-of-telecom-amendment-bill-are-unconstitutional) · `en`
+
+The Speaker of Parliament to say announced the Supreme Court’s determination on the proposed ‘Sri Lanka Telecommunications (Amendment) Bill’.
+
+Accordingly, the Supreme Court has determined that several clauses of the Bill are inconsistent with the Constitution.
+
+As per the court’s ruling, these clauses will require a special majority in Parliament to be passed.
+
+However, if the contentious clauses are amended, they can be passed with a simple majority, it further states.
+
+◼️
+
+[Data](articles/cd119512.json)
+
+---
+
+### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පත ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව පාර්ලිමේන්තුවට
+
+*2024-06-18 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197873) · `si`
+
+විදුලි සංදේශ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණ තීන්දුව කථානායකවරයා විසින් අද (18) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+ඒ අනුව විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, ශ්‍රේෂ්ඨාධිකරණයෙන් පෙන්වා දී ඇති පරිදි සංශෝධනය කළ යුතු බවත් එම තීන්දුවේ සඳහන්ය.
+
+එමෙන්ම එහි ඇතැම් වගන්ති විශේෂ බහුතරයකින් සම්මත කළ යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය දැනුම් දී ඇතැයි කථානායකවරයා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/d3271df2.json)
+
+---
+
+### 4 fishermen arrested
 
 *2024-06-18 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-4-பேர்-கைது/175-339064) · `ta`
 
-நெடுந்தீவு அருகே மீன் பிடித்துக் கொண்டிருந்த தமிழக மீனவர்கள் நான்கு பேரை இலங்கை கடற்படை திங்கட்கிழமை (17) கைது செய்துள்ளது. மீனவர்களை படகுகளுடன் சிறை பிடித்து இலங்கை கடற்படை முகாமில் வைத்து விசாரணை நடத்தி வருகிறது.
+Four Tamil Nadu fishermen were arrested by the Sri Lankan navy near Neduntivu while fishing. They are from Ramanathapuram and are being held for investigation at a naval camp.
 
-மேலும், கைதான மீனவர்கள் 4 பேரும் இராமநாதபுரத்தில் இருந்து மீன் பிடிக்க சென்றவர்கள் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+The Sri Lankan navy arrested four Tamil Nadu fishermen who were fishing near Neduntivu on Monday (17). The fishermen are being held with boats and are being investigated at the Sri Lankan navy camp.
+
+Also, the four arrested fishermen have been fishing from Ramanathapuram.
 
 ◼️
 
 [Data](articles/d00fe6b0.json)
 
+[Extended Data](ext_articles/d00fe6b0.ext.json)
+
 ---
 
-### පිස්තෝල දෙකක් සමඟ දෙදෙනෙක්  අත්අඩංගුවට
+### Two arrested with two pistols
 
 *2024-06-18 10:09:46* · [`adalk`](https://www.ada.lk/breaking_news/පිස්තෝල-දෙකක්-සමඟ-දෙදෙනෙක්--අත්අඩංගුවට/11-410277) · `si`
 
-විදේශ රටක නිෂ්පාදිත පිස්තෝල ගිනි අවි දෙකක්, මැගසින් දෙකක් සමග පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකා ජයවර්ධනපුර කඳවුර කියයි.
+Two individuals were arrested for possessing two foreign-made pistols. A garage owner from Hanwella was also detained after authorities discovered firearms in his possession. The suspects, aged 45 and 55, were later handed over to the Hanwella and Horana Police. Additionally, the Special Task Force raided the Sri Jayewardenepura Army camp.
 
-හංවැල්ල පහළ හංවැල්ල   ප්‍රදේශයේ සිදුකළ වැටලීමේදී ව්‍යාපාරිකයෙකු සහ හොරණ ප්‍රදේශයේ සිදු කළ වැටලීමේදී ගරාජ හිමියෙකු අත්අඩංගුවට ගත් බව පොලිසිය සඳහන් කරයි.
+🟩
 
-විශේෂ බලකා නිලධාරීන්ට ලද තොරතුරකට අනුව හංවැල්ල පහළ හංවැල්ල ප්‍රදේශයේ   නිවසක සඟවා තිබූ විදේශ රටක නිෂ්පාදිත පිස්තෝල ගිනිඅවි යක් සමග සැකකරු අත්අඩංගුවට ගෙන  සිදු කරන ලද ප්‍රශ්න කිරීමේදී අනාවරණ වූ තොරතුරු අනුව හොරණ පොලිස් වසමේ දබර මීවන පලාන ප්‍රදේශයේ නිවසක සඟවා තිබූ තවත් විදේශීය රටක නිෂ්පාදිත පිස්තෝල ගිනි අවියක් සමග  එම නිවසේදී තවත් සැකකරුවෙකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+Two persons have been arrested by two magazines, two magazines, two magazines manufactured in a foreign country.
 
-සැකකරුවන්ට මෙම ගිනි අවි ලද ආකාරය සහ ඔවුන් මෙම ගිනි අවි අපරාධ සඳහා යොදා ගත්තා දැයි විමර්ශන සිදුකිරීම සඳහා     අත්අඩංගුවට ගත් වයස අවුරුදු 45 හා 55 අතර පසුවන සැකකරුවන් දෙදෙනා හංවැල්ල සහ හොරණ පොලිසි වලට වැඩිදුර විමර්ශන සඳහා භාරදී ඇත.
+A garage owner was arrested in the fall of the Hanwella Hanwella area in Hanwella, police said.
 
-පොලිස් විශේෂ කාර්ය බළකා  ජයවර්ධනපුර හමුදා කඳවුරේ නිලධාරීන් වැටලීම සිදුකර ඇත .
+According to information received by the Special Former Officers with information received by the Special Forces Officials, the suspect was arrested in a foreign country manufactured in another foreign country that was uncovered in the Horana, a uncondition of a foreign country hidden in the Horana Police Division in the Horana Police Division.Another suspect was arrested at the residence, police said.
+
+The two 45 years old and 55 people who were arrested for the suspects were handed over to Hanwella and Horana Police.
+
+Police Special Task Force officials have raided the Sri Jayewardenepura Army camp.
 
 ◼️
 
 [Data](articles/4987db58.json)
+
+[Extended Data](ext_articles/4987db58.ext.json)
 
 ---
 
@@ -2291,57 +2337,5 @@ De Silva urged the government to allow the importation of essential raw material
 [Data](articles/063ada73.json)
 
 [Extended Data](ext_articles/063ada73.ext.json)
-
----
-
-### Woman arrested for allegedly defrauding work abroad
-
-*2024-06-17 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186282) · `ta`
-
-A woman was arrested by Sri Lanka's Foreign Employment Bureau for allegedly defrauding money from workers seeking jobs abroad.
-
-🟩
-
-A woman has been arrested for allegedly defrauding Rs.
-
-The woman has been arrested by the Investigation Unit of the Sri Lanka Foreign Employment Bureau.
-
-◼️
-
-[Data](articles/5e0bd21b.json)
-
-[Extended Data](ext_articles/5e0bd21b.ext.json)
-
----
-
-### Special train service without fare
-
-*2024-06-17 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197850) · `si`
-
-To accommodate devotees during Poson Poya, the Railway Department has initiated a special bus service from Colombo to Mahawa and Anuradhapura due to ongoing renovations. Additionally, 400 buses will run between Mahawa and Anuradhapura. The railway line between Anuradhapura and Mihintale has reopened post-reconstruction. The National Poson Week starts tomorrow, with numerous ceremonies planned, including traditional almsgiving events. This year's Poson Poya falls on the 21st, with preparations underway in Anuradhapura, Mihintale, and Tantirimale for the festival.
-
-🟩
-
-The Railway Department has taken steps to commence a special train service to the Poson Poya to commence today (17).
-
-Measures have been taken to implement a special bus service from Colombo to Mahawa train from Colombo to Mahawa to Anuradhapura.
-
-Since the renovation work of the North Railway and Anuradhapura, the reconstruction of the North Railway Stations have not yet been completed, he cannot be deployed for the Poson Poya.
-
-Therefore, steps have been taken to deploy only 400 buses between Mahawa and Anuradhapura for the convenience of devotees.
-
-Meanwhile, the opening of the railway line between the Anuradhapura and Mihintale rail after the reconstruction of the railway line, the Minister of Transport Bandula Gunawardena was launched today.
-
-The National Poson week begins tomorrow (18) and has organized a large number of ceremonies.
-
-This year's poson is on the 21st.
-
-Accordingly, the Ministry of Buddha Sasana has taken steps to publish Poson week from tomorrow.
-
-...
-
-[Data](articles/e1fed31a.json)
-
-[Extended Data](ext_articles/e1fed31a.ext.json)
 
 ---

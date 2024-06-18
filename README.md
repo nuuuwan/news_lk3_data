@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 17:19:21**
+As of **2024-06-18 17:34:59**
 
 ## Newspaper Stats
 
@@ -26,39 +26,53 @@ adaderanasinhalalk | 5,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,962 (100.0%) of 30,967 articles have been extended.
+30,967 (100.0%) of 30,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### කහතුඩුව පොලිසියේ දුරකතන ක්‍රියාකරුට  කොස්තාපල්වරයා පොලිස් බැරැක්කය තුළදී වෙඩි තියන්න හදල
+### The constable shooting at the police barracks of Kahathuduwa police operator
 
 *2024-06-18 16:54:17* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-පොලිසියේ-දුරකතන-ක්‍රියාකරුට--කොස්තාපල්වරයා-පොලිස්-බැරැක්කය-තුළදී-වෙඩි-තියන්න-හදල/11-410293) · `si`
 
-කහතුඩුව පොලිස් ස්ථානයේ ඊයේ  (17) දා රාත්‍රී රාජකාරි භාරව සිටි දුරකථන ක්‍රියාකරුට තනිකඩ භට නිවාසය තුළදී  පිස්තෝල ගිනි අවියකින් වෙඩිතැබීමට උත්සාහ කළ එදින උප සේවා රාජකාරී භාරව සිටි කොස්තාපල්වරයා පිස්තෝල ගිනි අවියද සමග අද(18) දා  අත්අඩංගුවට ගත් බව කහතුඩුව පොලිසිය පවසයි.
+A constable from Horonpembella, attached to Kahathuduwa police station, was arrested for allegedly attempting to shoot a telephone operator over a dispute. The incident occurred when the constable, who had come to report a death during his duty, engaged in a heated argument with the operator. Two other constables intervened, leading to the suspect's arrest. He will be produced before the Kesbewa court.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කහතුඩුව පොලිස් ස්ථානයට අනුයුක්තව සේවයේ නිරතව සිටි හොරන්පැල්ල ප්‍රදේශයේ පදිංචි පොලිස් කොස්තාපල් වරයකු  බව පොලීසිය කියයි.
+🟩
 
-මෙම නිලධාරියා අද අලුයම උපසේවා  රාජකාරියේ නිරතව සිටියදී පුද්ගලයෙකුගේ මරණයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීම සඳහා පුද්ගලයෙකු පැමිණ තිබේ.එම අවස්ථාවේදී උප සේවා භාරව සිටි මෙම නිලධාරියා රාජකාරි පුටුව මත නිදාගෙන සිටීම නිසා  ඔහු අවදි කිරීමට අවස්ථා කිහිපයකදී යාබදව රාජකාරියේ නිරතව සිටි දුරකථන ක්‍රියාකරු උත්සාහ කළත් එය ව්‍යාර්ථ වීම නිසා රාත්‍රී රාජකාරී භාරව සිටි  පොලිස් සැරයන් වරයකුට දන්වා තිබේ. පසුව එම නිලධාරියාද  පැමිණ උපසේවා නිලධාරියා අවදි කිරීමට උත්සාහ කලත් එය ව්‍යර්ථ වීම නිසා අදාල පැමිණිල්ල පොලිස් සැරයන් වරයා විසින් ලියා තබා සිද්ධිය සම්බන්ධයෙන් CIB සටහනක් තබා තිබේ.
+The telephone operator in charge of the sleeve in the Kahathuduwa police station at the Single-Firearm, the constable assigned to the bake was arrested on the day today (18).
+
+Police said that the police said that a police constable is a resident of Horonpembella, who was attached to Kahathuduwa police station.
+
+The officer had come to a complaint regarding the death of a person while sub-service was duty this morning.A police sergeant in charge of dinner has been informed. The officer also came and tried to wake up the sub-service officer, but the police sermon has lodged a CIB note on the incident.
+
+Later, a heated argument between the telephone operator and the suspect had been brought to the suspect and attempted to shoot the telephone operator in a bulk of the telephone operator.There have been two police constables who have arrase with the suspect, which was preparing to leave for the day duties at the time.
 
 ...
 
 [Data](articles/76a2c829.json)
 
+[Extended Data](ext_articles/76a2c829.ext.json)
+
 ---
 
-### சட்டமா அதிபருக்கு சேவை நீட்டிப்பு இல்லை
+### No service extension to the Attorney General
 
 *2024-06-18 16:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபருக்கு-சேவை-நீட்டிப்பு-இல்லை/175-339081) · `ta`
 
-சட்டமா அதிபரான ஜனாதிபதி சட்டத்தரணி  சஞ்சய் ராஜரத்தினத்திற்கு ஆறு மாத கால சேவையை நீடிக்குமாறு அரசியலமைப்பு பேரவைக்கு ஜனாதிபதி விடுத்திருந்த பரிந்துரை இன்று (18) நிராகரிக்கப்பட்டுள்ளது.
+The President's proposal to extend the Attorney General Sanjay Rajaratnam's term was denied by the Constituent Assembly. The decision came during a meeting led by Speaker Mahinda Yapa Abeywardena at the Constitutional Council.
 
-அரசியலமைப்பு பேரவை சபாநாயகர் மஹிந்தய யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற கட்டிடத் தொகுதியில் இன்று மாலை கூடியது.
+🟩
+
+The President's recommendation to the Constituent Assembly has been rejected today (18) to extend the six -month service to the Attorney General of the Attorney General Sanjay Rajaratnam.
+
+The Constitutional Council convened this evening at the Parliament building headed by Speaker Mahinda Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/fef5a1b5.json)
+
+[Extended Data](ext_articles/fef5a1b5.ext.json)
 
 ---
 
@@ -133,6 +147,8 @@ Representatives from seven political parties and organizations affiliated with �
 ◼️
 
 [Data](articles/02e1c1f7.json)
+
+[Extended Data](ext_articles/02e1c1f7.ext.json)
 
 ---
 
@@ -668,25 +684,33 @@ The Minister emphasized here that it is a result of the change in the changing w
 
 ---
 
-### සජබේ හා පොහොට්ටුව එක්ව මාලිමාව පරදයි
+### Sajoba and the Pohot beat composed
 
 *2024-06-18 13:25:23* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-හා-පොහොට්ටුව-එක්ව-මාලිමාව-පරදයි/11-410289) · `si`
 
-තලාතුඔය මාරස්සන විවිධ සේවා සමූපකාර සමිතිය සදහා නව අධ්‍යක්‍ෂ මණ්‌ඩලයක් තෝරා ගැනීම සදහා පසුගිය දාසයවන දින (16)  පැවති වන ජන්ද විමසීමේදී  ශ්‍රී ලංකා පොදු ජන පෙරමුණ විසින් ඉදිරිපත් කළ කණ්ඩායම ජයග්‍රහණය කරන ලදි.
+In a recent election held by the Sri Lanka Filling Front, the General Assembly of Sri Lanka selected a new board of directors for the Thalathuoya Maraza. Seven members were chosen from four candidates aged between 18 and 38. The voting process involved 94 eligible public representatives, all of whom cast their votes except one. Interestingly, the national population's team did not elect any member for the board, while the Society Force members, who were educated, supported the Sri Lanka Civil Appointment.
 
-එහිදී අධ්‍යක්‍ෂ මණ්‌ඩලය සඳහා සාමාජිකයින් හත් දෙනෙක් තෝරා ගත් අතර ඔවුන් හත් දෙනාම පොදු ජන පෙරමුණේ කණ්ඩායම විසින් තේරී පත්විය.
+🟩
 
-විවෘත කාණ්ඩය යටතේ අධ්‍යක්ෂ මණ්ඩලයට පත්වීම සඳහා දහදෙනෙකු හා වයස අවුරුදු දහඅට සහ තිස්පහ අතර කාණ්ඩය යටතේ අපේක්ෂකයෝ  හතරදෙනෙකු තරග වැදුනි.
+The group presented by the Sri Lanka Filling Front was won by the General Assembly of Sri Lanka (16) at the last 10 pm to select a new board of directors for the Thalathuoya Maraza.
 
-එහිදී විවෘත කාණ්ඩය යටතේ  තුසිත සමරකොන්  චන්ද කස්තුරිආරච්චි ටි.ජේ. ප්‍රියන්ත කුමාර  සද්ධාතිස්ස දසනායක  හා සමන් මහින්ද බණ්ඩාර යන අය තේරී පත්වූ අතර වයස අවුරුදු 18 ත් 35 ත් අතර කාණ්ඩයෙන් ධනංජය සේනානායක හා අමන්දා කරුණාතිලක යන අය තේරී පත්විය.
+Seven members were selected for the board of directors and seven members were elected by the team of the General Filling.
 
-මෙහිදී ඡන්දය පාවිච්චි කිරීම සඳහා මහ සභා නියෝජිතයින් අනූ හතර දෙනෙකු සුදුසුකම් ලබා තිබූ අතර අනූ තුන් දෙනෙකු ඡන්දය පාවිච්චි කිරීම සඳහා පැමිණ සිටියහ.
+Four candidates competed in the category between ten persons and Thirty-eight years and thirty-eight years.
 
-ජාතික ජනබලවේගය ද කණ්ඩායමක් ඉදිරිපත් කළ අතර ඔවුන් කිසිවෙකු හෝ අධ්‍යක්ෂ  මණ්ඩලය සදහා තේරී පත් නොවිනි.
+Thusitha Samarakan Chandra Kasthuriarachchi. Priyantha Kumara Saddhatissa Dasanayake and Samanjaya Senanayake and Amandah Karunathilaka were elected to the age of 18 to 35 years.
 
-...
+Ninety-four public representatives were eligible to vote and ninety-three were voted.
+
+The national population also presented a team and did not elected for anyone or the board of directors.
+
+Members of the Society Force were not uneducated and they voted for the victory of the Sri Lanka Civil Appointment.
+
+◼️
 
 [Data](articles/09efafb8.json)
+
+[Extended Data](ext_articles/09efafb8.ext.json)
 
 ---
 

@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 08:13:48**
+As of **2024-06-18 08:21:30**
 
 ## Newspaper Stats
 
-*Scraped **30,866** Articles*
+*Scraped **30,872** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
 dbsjeyarajcom | 284
-bbccomsinhala | 301
+bbccomsinhala | 302
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,676
 adaderanalk | 3,496
-tamilmirrorlk | 3,621
+tamilmirrorlk | 3,622
 dailymirrorlk | 4,733
 virakesarilk | 4,748
-adaderanasinhalalk | 5,002
+adaderanasinhalalk | 5,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,865 (100.0%) of 30,866 articles have been extended.
+30,866 (100.0%) of 30,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### පොල්තෙල් මිල නියාමනයට පොල් සංවර්ධන අධිකාරිය මැදිහත් වෙයි
+
+*2024-06-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197868) · `si`
+
+වෙළෙඳපොළ තුළ පොල්තෙල් මිල ඉහළ දැමීමට කිසිදු සාධාරණ හේතුවක් නොමැති බව පොල් සංවර්ධන අධිකාරිය පවසයි.
+
+එහි සභාපති මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේ, ආනයනික පොල්තෙල් සඳහා කිසිදු බදු වැඩි කිරීමක් සිදුකර නොමැති බවය.
+
+මේ වසරේ මැයි මාසය වන විට පොල්තෙල් මෙට්‍රික් ටොන් 42,000ක් ආනයනය කර ඇති අතර එය පසුගිය වසරට සාපේක්ෂව දෙගුණයක වැඩිවීමක් බව සඳහන්ය.
+
+මෙරට පරිභෝජනය ස﻿ඳහා ප්‍රමාණවත් තරම් පොල්තෙල් රටතුළ පවතින බැවින් පොල්තෙල් මිල ඉහළ දැමීම කිසිලෙසකින් අනුමත කළ නොහැකි බව මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේය.
+
+මේ අතර වෙළෙඳපොළේ පොල්තෙල් මිල පාලනය කිරීම සඳහා නව නියාමන වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව ද පොල් සංවර්ධන අධිකාරියේ සභාපති මහාචාර්ය රොෂාන් පෙරේරා මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/121d227a.json)
+
+---
+
+### කැලණි ගඟේ නාඳුනන මළ සිරුරක්
+
+*2024-06-18 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197867) · `si`
+
+පෑලියගොඩ ප්‍රදේශයේ පුද්ගලික ආයතනයක් පිටුපස කැලණි ගඟේ තිබී නාඳුනන පිරිමි මළසිරුරක් හමුව තිබේ.
+
+මෙම පිරිමි පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර ඔහු වයස අවුරුදු 50ත් 60ත් අතර උස අඩි 05 අඟල් 06ක් බව පොලීසිය සඳහන් කරයි.
+
+මෘත ශරීරය කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරයේ තැනපත් කර ඇති අතර පෑලියගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/f057f8ba.json)
+
+---
 
 ### Rainy weather conditions expected to enhance from tomorrow
 
@@ -47,6 +83,50 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 ◼️
 
 [Data](articles/688f53d6.json)
+
+[Extended Data](ext_articles/688f53d6.ext.json)
+
+---
+
+### ජනපති අද පාර්ලිමේන්තු එයි
+
+*2024-06-18 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197866) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (18) පාර්ලිමේන්තුවේ දී වි‍ශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතව තිබේ.
+
+පසුගිය වසර දෙකක කාලය තුළ ශ්‍රී ලංකාව ලබාගත් ප්‍රගතිය පිළිබඳව සහ රටේ වත්මන් ආර්ථික තත්ත්වය සම්බන්ධයෙන් මෙහිදී ජනාධිපතිවරයා පාර්ලිමේන්තුව දැනුවත් කිරීමට නියමිත බව වාර්තා වේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබාදුන් ණය පහසුකමේ තෙවන වාරිකය අනුමත කිරීම සම්බන්ධයෙන් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී අදහස් පළකිරීමට නියමිතය.
+
+මේ අතර ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීම ද අද පෙරවරුවේ ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු සංකීර්ණයේ දී පැවැත්වීමට සැලසුම් කර තිබේ.
+
+මෙම සතිය තුළ පාර්ලිමේන්තු වැඩකටයුතු පිළිබදව මෙහිදී සාකච්ඡා කිරීමට නියමිත බව වාර්තා වේ.
+
+මෙම සතිය සඳහා පාර්ලිමේන්තුව පෙරවරු 09.30ට රැස්වීමට නියමිත අතර අද දිනයේ සංචාරක කටයුතු පනත යටතේ ගැසට් පත්‍රයේ ප්‍රකාශයට පත්කර ඇති නියමයන් කිහිපයක්, රජයේ ඉඩම් ආඥා පනත යටතේ සහ ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත යටතේ නියෝග කිහිපයක් විවාදයට ගැනීමට නියමිතය.
+
+...
+
+[Data](articles/f865750d.json)
+
+---
+
+### ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-06-18 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197865) · `si`
+
+නොච්චියාලම පොලිස් වසමේ සිදුකළ මනුෂ්‍ය ඝාතනයකට අවශ්‍යකර සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන තිබුණේ කොකුන්නෑව, රනෝරාව ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+
+පසුගිය 10 වනදා නොච්චියාගම, කොකුන්නෑව රනෝරාව ප්‍රදේශයේදී පුද්ගලික ආරවුලක් මත පහරදීමක් හේතුවෙන් 43 හැවිරිදි පුද්ගලයෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබුණි.
+
+එලෙස බරපතළ තුවාල ලැබූ පුද්ගලයා පසුගිය 14 වනදා අනුරාධපුර රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+
+ඒ සම්බන්ධයෙන් නොච්චියාගම පොලීසිය විසින් විමර්ශනයක් සිදුකර අදාළ සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/d9ef7201.json)
 
 ---
 
@@ -151,6 +231,42 @@ It is not expected that the interim president Ranil Wickremesinghe will fulfill 
 [Data](articles/6e9b64a9.json)
 
 [Extended Data](ext_articles/6e9b64a9.ext.json)
+
+---
+
+### වැඩිමල්කම යනු බාලයන්ට පහර දීමට ලැබුණු වරමක් ද?
+
+*2024-06-18 02:26:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clll75lm7e1o) · `si`
+
+ශ්‍රී ලංකාවේ නවක රංගන ශිල්පිනියක වන උමා අසේනි සිය සොහොයුරියගේ විවාහ උත්සවයේදී කළ කතාවක් හේතුවෙන් ගෘහස්ත ප්‍රචණ්ඩත්වයේ වැඩි අවධානයක් යොමු නොවූ පැත්තක් පිළිබඳව සමාජ මාධ්‍ය හරහා අවධානයක් යොමු වී තිබිණි.
+
+ඇය කළ කතාවේ කොටසක් සමාජ මාධ්‍යවල පළ කර තිබුණු අතර, බොහෝ දෙනෙකු ඇයගේ කතාව උත්කර්ෂයට නංවමින් අදහස් පළ කර තිබෙනු දක්නට ලැබිණි.
+
+"මායි නංගියි ගැන කතා කරනකොට අපිට කතා කරන්න තියෙන ගොඩක් දේවල් නිකං ඊශ්‍රායෙල් පලස්තීන යුද්ධෙ වගේ. අද කියල වෙනසක් නෑ. අදත් මාත් එක්ක රණ්ඩු වෙලා අඬල ඉන්නෙ."
+
+"මම කැමති නෑ අම්මගෙන් තාත්තාගෙන්වත් එයා වචනයක්වත් අහනවට. මම කැමති නෑ එයාට වෙන කවුරුවත් අතක්වත් උස්සනවට. හැබැයි මට එයා එක්ක ආදරණීය මතක නෑ. ගහනකොට පයිනුත් ගහල යන්නෙ මම‍‍‍. හැබැයි ඒ මම විතරයි. වෙන කිසි ම කෙනෙක්, එයාට එක වචනයක්වත් කියනවාට, එයාට එක ඇඟිල්ලක්වත් උස්සනවට මම කැමති නෑ. මම එහෙම වෙන්න දෙන්නෙත් නෑ‍."
+
+ඉහත සඳහන් උධෘතය යොදමින් උමා අසේනිගේ කතාව සම්බන්ධයෙන් 'ළමා හිංසනයට තිත පදනමේ' සභාපති සහ ළමා ආරක්ෂක සන්ධානයේ සම කැඳවුම්කරු වෛද්‍ය තුෂ් වික්‍රමනායක සිය ෆේස්බුක් පිටුවෙහි අදහස් දක්වා තිබිණි.
+
+...
+
+[Data](articles/de0cc084.json)
+
+---
+
+### ’கொள்கை அடிப்படையிலே நாட்டை முன்னேற்ற முடியும்’
+
+*2024-06-18 02:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-அடிப்படையிலே-நாட்டை-முன்னேற்ற-முடியும்/175-339059) · `ta`
+
+கொள்கைகளின் அடிப்படையிலேயே நாட்டை முன்னேற்ற முடியும். அவ்வாறன்றி தனிநபர்கள் அல்லது கட்சிகளினால் அதனைச் செய்ய முடியாது என்று சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அநூப பஸ்குவெல் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் இதனைத்  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டு மக்களின் போராட்டத்தில் வலியுறுத்தப்பட்ட சீர்திருத்தங்களை தற்போதைய அரசாங்கம் வெற்றிகரமாக மேற்கொண்டு வருகிறது. அதற்கு மத்தியில் நாட்டைப் பொறுப்பேற்க பலர் முன்வந்திருக்கிறார்கள். ஆனால் அவர்களிடத்தில் அதற்கான கொள்கைகள் எவையும் இல்லை. நாட்டில் பலரும் அரசாங்கத்தின் வேலைத்திட்டத்தினை ஏற்றுக்கொண்டுள்ளபோது, சிலர் மாத்திரம் அதற்குப் புறம்பாகச் செயற்படுகிறார்கள்.
+
+...
+
+[Data](articles/f30c4a22.json)
 
 ---
 
@@ -2249,147 +2365,5 @@ Nearly 30 people were injured and rescue teams from the police and national disa
 [Data](articles/c0b5f8ce.json)
 
 [Extended Data](ext_articles/c0b5f8ce.ext.json)
-
----
-
-### Eight killed, 25 injured in India train crash
-
-*2024-06-17 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99927/eight-killed-25-injured-in-india-train-crash) · `en`
-
-Eight people have died and around 25 have been injured in a train crash in the eastern Indian state of West Bengal.
-
-The accident occurred when a goods train hit a stationary passenger train, the Kanchenjungha Express, in the New Jalpaiguri area on Monday morning.
-
-Dramatic footage from the accident site showed one wagon of the express train suspended in the air.
-
-It’s not clear yet what led to the crash but authorities say a detailed investigation will be held.
-
-Authorities say ambulances and disaster teams have been sent to the site for rescue efforts.
-
-“We are trying to complete the rescue operation as soon as possible,” Railway official Sabyasachi De told reporters.
-
-“The preliminary information we have is that the Kanchenjungha Express was hit from the rear by a goods train,” he said, adding that the reason would only be confirmed after investigation.
-
-...
-
-[Data](articles/f8096e33.json)
-
-[Extended Data](ext_articles/f8096e33.ext.json)
-
----
-
-### Darijini joined the marriage bond
-
-*2024-06-17 13:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருமண-பந்தத்தில்-இணைந்தார்-தரிஜினி/175-339022) · `ta`
-
-Sri Lankan celebrity Darijini Sivalingam married on Monday (17).
-
-🟩
-
-Sri Lankan network star Darijini Sivalingam joined the wedding on Monday (17).
-
-◼️
-
-[Data](articles/e6a61eed.json)
-
-[Extended Data](ext_articles/e6a61eed.ext.json)
-
----
-
-### The prime minister is appointed by the pointer
-
-*2024-06-17 13:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ආණ්ඩුවක-අගමැති-පත්කරන්නේ-පොහොට්ටුවෙන්/11-410263) · `si`
-
-SM Chandrasena, SLFP MP, stated at a public meeting in Eppawala that the next Prime Minister will be decided by the party, not the president. He emphasized the importance of internal discussions within the party to select the best candidate. The process involves evaluating potential candidates based on their merits and the party's needs.
-
-🟩
-
-Common Fanishing Secretary (SLBF) MP SM Chandrasena said that the appointment of the Prime Minister of the government will take place from the pointer.
-
-He was speaking at a public meeting in Eppawala, Anuradhapura.
-
-"We have held massive meetings in the Anuradhapura Salgadu area and lay the platform and cast the platform and crashes into the platform, to some daysThere was no such thing in this meeting, but we have the strength to fill the gathering as a big deal.
-
-President to make a permanent statement, it is not a permanent statement, it has been the responsibility of the Elections and the Elections for the election commission.The Commission fulfills the responsibility.
-
-Maithripala Sirisena was the only 24-hour candidate for the country, the Gotabhaya as soon as the Gotabhaya asks for our presidential candidate.Similarly, two of the names of the presidential candidates formerly cast.
-
-...
-
-[Data](articles/ecd3743b.json)
-
-[Extended Data](ext_articles/ecd3743b.ext.json)
-
----
-
-### 18 kg Kerala cannabis in Jaffna
-
-*2024-06-17 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186269) · `ta`
-
-In Jaffna, police arrested a person with 18 kg of Kerala cannabis on Sunday. Acting on a tip-off, they found the stash in Allaipiti. The suspect and drugs were transferred to Kayts Police Station for further proceedings.
-
-🟩
-
-Police Special Action Soldiers arrested a person with 18 kg Kerala cannabis in Jaffna on Sunday (16).
-
-Police Special Action Soldiers rushed to the scene on the basis of confidential information available to the Special Action Force (STF) that Kerala cannabis has been stored in the Allaipiti area.
-
-The arrested person and the recovered cannabis have been handed over to the Kayts Police Station for further legal action.
-
-◼️
-
-[Data](articles/1bceab2e.json)
-
-[Extended Data](ext_articles/1bceab2e.ext.json)
-
----
-
-### Sri Lanka's largest inscription has been read continuously for three days
-
-*2024-06-17 13:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-‌සෙල්ලිපිය-දින-තුනක්-තිස්සේ-අඛණ්ඩව-කියවා-අවසන්/11-410262) · `si`
-
-Archaeologists in Sri Lanka have been reading the country's largest ancient inscription, located at Dimbulagala, non-stop for three days. This rare and significant find, believed to date back to the second century BCE, is expected to offer valuable insights into the history and culture of the region. The inscription, measuring 50 feet, is part of ongoing efforts to preserve and understand Sri Lanka's rich archaeological heritage.
-
-🟩
-
-The historic Dimbulagala Aranya Senanayake Thera said that the largest group of Sri Lanka, the historic and rare species of Dimbulagala, has been completed for three days on the historic Dimbulagala Tightening.
-
-Assistant Director of the Department of Archeology, Department of Archeology, Department of Archeology, Department of Archeology, University of Archeology, University of Archeology, the University of Archeology, the University of Archeology, the University of Archeology, University of Archeology of the University of Sri Lanka, University of Archeology. DocumentsAccording to the Rahulakara, Research Officer of the Archeology of the Department of Archeology, the Department of Archeology, commenced from the Department of Archeology, and the inscription was commenced since the 17th.
-
-...
-
-[Data](articles/22c3cc7d.json)
-
-[Extended Data](ext_articles/22c3cc7d.ext.json)
-
----
-
-### Main suspect of the murder of Katukurunda in Kalutara
-
-*2024-06-17 13:16:34* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-කටුකුරුන්ද--ප්‍රදේශයේ-ඝාතන-සිද්ධියේ-ප්‍රධාන-සැකකරු-අල්ලයි/11-410261) · `si`
-
-The main suspect in the murder of Katukurunda, Kalutara, was arrested in a pilogagama house. A Ti 56 Ti-type firearm and 15 rounds of ammunition were found. The suspect, a 41-year-old from Avissawella, is linked to organized crime. Tasami, 38, was killed at the Kalutara South Katukurunda Railway Station on May 20th. Relatives filed a complaint against the suspect and his associates. Investigations are led by Assistant Superintendent of Police Sumith Jayaratakara and Inspector Dyushth Weerasinghe.
-
-🟩
-
-The Central District of the Western Province says that the main suspect was arrested in a pilogagama house in the Katukurunda area in Kalutara.
-
-According to the information revealed, a Ti 56 Ti-type, which was used to shoot, and 15 of those live ammunition were found in Kalutara and 15.
-
-The suspect was revealed that the suspect is a close associate of organized crimes from a foreign country.
-
-On the 20th of May 20, the Kalutara South Katukurunda Railway Station, Tasami, was shot dead by Tasmulla, Tasami (38) in Kalutara.
-
-After that incident, the relatives had lodged a complaint with the payroll of the suspect's general relatives and relative businessmen.
-
-A police officer said that the motorcycle ride and aided in the murder had been arrested and remanded.
-
-The suspect is a 41 year old resident of Avissawella.The Director of the South District Assistant Superintendent of Police, Assistant Superintendent of Police Sumith Jayaratakara, Inspector Dyushth Weerasinghe is conducting investigations.
-
-◼️
-
-[Data](articles/d697e3f5.json)
-
-[Extended Data](ext_articles/d697e3f5.ext.json)
 
 ---

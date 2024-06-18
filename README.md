@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 18:55:06**
+As of **2024-06-18 19:04:27**
 
 ## Newspaper Stats
 
-*Scraped **30,973** Articles*
+*Scraped **30,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,696
+adalk | 2,698
 adaderanalk | 3,511
 tamilmirrorlk | 3,636
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,031
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,973 (100.0%) of 30,973 articles have been extended.
+30,973 (100.0%) of 30,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### අතුරුදන් සිව් හැවැරිදි දරුවා සොයා ගනියි
+
+*2024-06-18 18:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-සිව්-හැවැරිදි-දරුවා-සොයා-ගනියි/11-410299) · `si`
+
+නොර්වුඩ් පොලිස් වසමට අයත් ඩන්කන් වතුයායේදි (17) දින රාත්‍රියේ අතුරුදහන් වි සිටි සිව් හැවිරිදි පිරිමි දරුවා එම වතුයායේම ළදු කැළැවක සිටියදි (18) දින සොයාගත් බව නොර්වුඩ් පොලිසියේ ස්ථානාධිපති පොලිස් පරික්ෂක ප්‍රියංකර කොහොල්දෙණිය මහතා පැවසිය.
+
+මෙසේ අතුරුදහන් වි සිටියදි සොයාගනු ලැබුවේ නල්ලතන්නිය ලක්ෂපාන ප්‍රදේශයේ පදිංචිව සිටි සිවනාදන් අභිලාෂ් නැමති දරුවයි.
+
+සිය දෙමව්පියන් සමග නොර්වුඩ් ඩන්කන් ප්‍රදේශයේ පිහිටි ඥාති නිවසක (17) දින පැවති විවාහ උත්සවයකට දරුවා පැමිණ ඇති බවත්, එම දරුවා (18) දින රාත්‍රියේ නිවසට ආසන්නයේ පිහිටි ළදු කැළැව වෙත ගොස් ඇති බවත්, පසුව ළදු කැළැව තුලදි දරුවාට ආපසු නිවසට ඒමට මාර්ගය සොයා ගැනිමට නොහැකිව ළදු කැළැව තුල අතරමංවි සිට ඇති බවට සිදු කරන ලද මුලික පරික්ෂණ වලදි අනාවරණය වි ඇති බව පොලිසිය කියා සිටියේ.
+
+...
+
+[Data](articles/e9b576cc.json)
+
+---
 
 ### President Mahinda Rajapaksa says to Wijayadasa
 
@@ -49,6 +65,20 @@ He said that Minister Wijayadasa Rajapaksa told the Politburo.
 [Data](articles/a29a302f.json)
 
 [Extended Data](ext_articles/a29a302f.ext.json)
+
+---
+
+### මහවට විශේෂ දුම්රිය ගමන්වාර කිහිපයක්
+
+*2024-06-18 17:47:27* · [`adalk`](https://www.ada.lk/breaking_news/මහවට-විශේෂ-දුම්රිය-ගමන්වාර-කිහිපයක්/11-410294) · `si`
+
+2024 පොසොන් උත්සවය හේතුවෙන් මහව දුම්රිය ස්ථානය දක්වා විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ක්‍රියාත්මක කිරීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු කර තිබේ. උතුරු දුම්රිය මාර්ගයේ ඉදිකිරීම් කටයුතු හේතුවෙන් මේ වන විට එම මාර්ගයේ දුම්රිය ධාවනය මහව දුම්රිය ස්ථානය දක්වා පමණක් සීමා වී තිබේ.
+
+දුම්රියෙන් මහවට ගමන් කිරීමෙන් අනතුරුව මහව සිට විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කරමින් වන්දනාකරුවන් අනුරාධපුරය දක්වා රැගෙන යාමට සැලසුම් කර තිබේ. මීට අමතරව අනුරාධපුරය සිට මිහින්තලය දක්වාද විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/5111979f.json)
 
 ---
 
@@ -2333,55 +2363,5 @@ The Nochchiyagama Police have conducted an investigation and arrested the suspec
 [Data](articles/d9ef7201.json)
 
 [Extended Data](ext_articles/d9ef7201.ext.json)
-
----
-
-### Sri Lanka female owned businesses face US$17bn financing gap: ADB country chief
-
-*2024-06-18 07:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-female-owned-businesses-face-us17bn-financing-gap-adb-country-chief-168477/) · `en`
-
-ECONOMYNEXT – About 20 percent of Sri Lanka’s micro small and medium enterprises (MSMEs) are run by women but they face a 17 billion dollar equivalent financing gap, Asian Development Bank’s Country Director Takafumi Kadono said.
-
-The 20 percent of businesses were providing a range of products and services across the country.
-
-“And while they represent such a significant portion, financing and policies have tended not to take into account the specific needs and different challenges they face in starting and growing their businesses,” Kadono told a forum in Colombo.
-
-“As a result, there is an estimate that a surprising 17 billion US dollar financing gap for women-owned MSMEs in Sri Lanka.
-
-“The gender gap in employment and entrepreneurship in Sri Lanka continues to affect women’s economic empowerment opportunities and their resilience to economic shocks.”
-
-...
-
-[Data](articles/af0ae1cb.json)
-
-[Extended Data](ext_articles/af0ae1cb.ext.json)
-
----
-
-### Repairs to the explosive tube completed
-
-*2024-06-18 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197864) · `si`
-
-Repairs at the Maharawa Water Treatment facility have concluded, restoring water supply after an eruption at Level 2 of the high-level tube. The National Water Supply and Drainage Board reports that while the immediate area's water was restored early this morning, distant regions may take a few more hours to regain service. Last night's incident caused significant water leakage and damage to adjacent electrical wiring, affecting water supply in several areas including Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattragoda.
-
-🟩
-
-Repairs to Mahawawa Water Treatment of the Maharawa Water Treatment has been completed.
-
-The tube had erupted at the Elevel 2 of the High level yesterday (17).
-
-According to the National Water Supply and Drainage Board (NPA) said that the water supply was restored from around 2 am today due to the end of the pipe.
-
-Accordingly, the water supply to distant areas will be restored to the next few hours.
-
-Due to the accident, a massive water leak was at the site last night, and two adjoining electrical wiring had collapsed.
-
-The water supply of the water leak was disrupted in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattragoda areas.
-
-◼️
-
-[Data](articles/1e04c1c2.json)
-
-[Extended Data](ext_articles/1e04c1c2.ext.json)
 
 ---

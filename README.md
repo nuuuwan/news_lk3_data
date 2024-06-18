@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 04:53:11**
+As of **2024-06-19 05:04:19**
 
 ## Newspaper Stats
 
-*Scraped **31,019** Articles*
+*Scraped **31,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,792
-dailyftlk | 1,890
+dailyftlk | 1,894
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,644
+tamilmirrorlk | 3,645
 dailymirrorlk | 4,733
 virakesarilk | 4,779
 adaderanasinhalalk | 5,036
@@ -26,11 +26,79 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,012 (100.0%) of 31,019 articles have been extended.
+31,019 (100.0%) of 31,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### MendisOne elevates standards of excellence with ISO 9001:2015 certification
+
+*2024-06-19 04:43:00* · [`dailyftlk`](https://www.ft.lk/business/MendisOne-elevates-standards-of-excellence-with-ISO-9001-2015-certification/34-763224) · `en`
+
+MendisOne Managing Director Rishantha Mendis (right) accepting the ISO certificate from SGS Lanka Business Manager and Head of Certifications
+
+MendisOne has announced the receipt of its ISO 9001:2015 Quality Management Certification by SGS Lanka Ltd., accredited by United Kingdom Accreditation Services (UKAS), underscoring its commitment to excellence and quality in its portfolio.
+
+This certification reflects the company’s dedication to maintaining robust quality management systems in line with international standards and instils confidence in its customers for the delivery of swift solutions to their diverse needs.
+
+MendisOne comprises of three versatile brands – Prudential Shipping, Premium Trading and Logistics, and Helanka Vacations, and stands as a beacon of unwavering dedication and unparalleled expertise in Sri Lanka’s business landscape.
+
+...
+
+[Data](articles/fc725120.json)
+
+---
+
+### Coconut Development Authority rejects price hike for coconut oil
+
+*2024-06-19 04:41:14* · [`dailyftlk`](https://www.ft.lk/business/Coconut-Development-Authority-rejects-price-hike-for-coconut-oil/34-763223) · `en`
+
+The Coconut Development Authority (CDA) announced yesterday that there is no justifiable reason for the recent spike in coconut oil prices in the market.
+
+CDA Chairman Prof. Roshan Perera citing an analysis of current market conditions, stated that there have been no recent tax increases on imported coconut oil.
+
+He revealed that as of May this year, 42,000 tons of coconut oil have been imported into Sri Lanka, marking a twofold increase compared to the previous year.
+
+“The significant increase in coconut oil imports ensures that there is sufficient supply to meet the country’s consumption needs. Therefore, any increase in the price of coconut oil is unjustifiable and unacceptable,” the Chairman said.
+
+The announcement follows public outcry and claims from various consumer and industry groups about the unfair rise in coconut oil prices, which has contributed to the soaring cost of living.
+
+...
+
+[Data](articles/aad1f3d8.json)
+
+---
+
+### Economist Talal Rafi appointed Policy Advisor to Opposition leader Sajith Premadasa
+
+*2024-06-19 04:39:58* · [`dailyftlk`](https://www.ft.lk/business/Economist-Talal-Rafi-appointed-Policy-Advisor-to-Opposition-leader-Sajith-Premadasa/34-763222) · `en`
+
+Opposition leader Sajith Premadasa has appointed Talal Rafi as his Policy Advisor.
+
+Rafi is an Economist and is an economic policy consultant to a multilateral development bank. He is a regular contributor for the International Monetary Fund’s expert forum on public finance. He is also a member of the expert network of the World Economic Forum. He was a member of the Deloitte Global Economist Network, and he is a visiting lecturer at the Centre for Banking Studies, Central Bank of Sri Lanka. He has also worked on projects by the World Bank, Asian Development Bank and USAID. His work has been published by the World Bank, International Monetary Fund, Asian Development Bank, World Economic Forum, Chatham House London, London School of Economics and Forbes.
+
+◼️
+
+[Data](articles/956c1f52.json)
+
+---
+
+### Business Forum in Brisbane – “Resilient and Rising: Leveraging Sri Lanka’s Potential”
+
+*2024-06-19 04:37:43* · [`dailyftlk`](https://www.ft.lk/business/Business-Forum-in-Brisbane-Resilient-and-Rising-Leveraging-Sri-Lanka-s-Potential/34-763221) · `en`
+
+At a time when Sri Lanka is exploring the means to support economic diversification, business innovation and promote inclusive and sustainable growth, Sri Lanka-Australia Chamber of Commerce and the Chartered Accountant Association of Sri Lanka (Australia Chapter Inc) with the collaboration of High Commission of Sri Lanka in Canberra organised a Business Forum “Resilient and Rising: Leveraging Sri Lanka’s Potential” on 6 June 2024 in Brisbane.
+
+The event aimed to bring together Australian business leaders, entrepreneurs and investors to explore and capitalise opportunities in Sri Lanka, focusing on economic resilience, investment prospects and strategic growth initiatives.
+
+While welcoming the guests, Sri Lanka Australia Chamber of Commerce President Kalum De Silva spoke about knowledge industries and sustainable manufacturing industries in Sri Lanka. He also highlighted the importance of geographical location and the investment climate of Sri Lanka.
+
+...
+
+[Data](articles/7678c8b6.json)
+
+---
 
 ### Adani Group acquires Penna Cement
 
@@ -43,6 +111,8 @@ Ambuja will acquire 100% shares of PCIL from its existing promoter group, P. Pra
 ...
 
 [Data](articles/ec41bf2e.json)
+
+[Extended Data](ext_articles/ec41bf2e.ext.json)
 
 ---
 
@@ -58,6 +128,8 @@ The speakers at this event were International Trade Office Chief Negotiator K.J.
 
 [Data](articles/5cb59910.json)
 
+[Extended Data](ext_articles/5cb59910.ext.json)
+
 ---
 
 ### Ceylon Chamber signs MoU with Southern Gujarat Chamber of Commerce and Industry
@@ -71,6 +143,8 @@ Established in 1940, SGCCI’s influence extends through its direct engagement w
 ...
 
 [Data](articles/3d9841ba.json)
+
+[Extended Data](ext_articles/3d9841ba.ext.json)
 
 ---
 
@@ -90,6 +164,8 @@ Secondly, there’s a large number of cases which have been given on the questio
 
 [Data](articles/daaba9b3.json)
 
+[Extended Data](ext_articles/daaba9b3.ext.json)
+
 ---
 
 ### Charitha calls out President’s misuse of legislative privileges in Parliament
@@ -106,6 +182,8 @@ Addressing Parliament, Herath emphasised that while the President becomes a memb
 
 [Data](articles/69031a0e.json)
 
+[Extended Data](ext_articles/69031a0e.ext.json)
+
 ---
 
 ### Thailand to become first Southeast Asian nation to legalise same-sex marriage
@@ -121,6 +199,8 @@ The result of the vote means that Thailand will become only the third place in A
 ◼️
 
 [Data](articles/c51d6e17.json)
+
+[Extended Data](ext_articles/c51d6e17.ext.json)
 
 ---
 
@@ -139,6 +219,28 @@ Wijewardane appreciated China’s assistance to Sri Lanka during challenging tim
 ...
 
 [Data](articles/4299d9b2.json)
+
+[Extended Data](ext_articles/4299d9b2.ext.json)
+
+---
+
+### ’உயர்நீதிமன்றை மூடிவிடலாம்’
+
+*2024-06-19 02:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்நீதிமன்றை-மூடிவிடலாம்/175-339105) · `ta`
+
+ஜனாதிபதி தந்திரமான முறையில் நீதிமன்றத்திற்கே சவால் விடும் செயற்பாடுகளில் ஈடுபடுகின்றார் என்ற குற்றஞ்சாட்டிய விமல் வீரவன்ச உயர் நீதிமன்றத் தீர்ப்புக்கே சவால் விட முடியுமென்றால் அவ்வாறான உயர்நீதிமன்றம் இருப்பதில் பலனில்லை என்றும், அவற்றை மூடிவிடலாம் என்றார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) ஜனாதிபதியின் உரை தொடர்பில் தனது கருத்தை வெளியிட்டு உரையாற்றும் போதே வீரவன்ச இவ்வாறு கூறியுள்ளார்.
+
+ஜனாதிபதி மிகவும் சூட்சுமமான முறையில் பந்து வீசுகின்றார். இதில் முதலாவது பந்து வீச்சாக பெண்களை வலுப்படுத்தும் சட்டமூலம் தொடர்பில் உயர்நீதிமன்றத்தினால் வழங்கப்பட்டுள்ள தீர்மானத்தை சவாலுக்கு உட்படுத்தும் வகையில் ஜனாதிபதியின் கருத்து உள்ளது. சூட்சும ஞானம் இருப்பதால் இதற்கு தந்திரம் என்று கூறலாம்.
+
+அடுத்ததாக கொவிட் காலத்தில் முஸ்லிம்களின் இறந்த உடலை புதைப்பது தொடர்பான சர்ச்சை விடயத்தை இரண்டாவது பந்தாக வீசினார்.
+
+அத்துடன் வாடகை வீடுகள் வரி தொடர்பான விடயத்தை மூன்றாவது பந்தாக வீசினார். இதில் முதலாவது பந்தான நீதிமன்றத்திற்கு சவால் விடுவது உள்ளது. தந்திரமாகவே மற்றைய பந்துகளை வீசியுள்ளார்.
+
+...
+
+[Data](articles/e1669e07.json)
 
 ---
 
@@ -2279,117 +2381,5 @@ The Department of Departments say that showers or thundershowers in the Ampara a
 [Data](articles/016fc069.json)
 
 [Extended Data](ext_articles/016fc069.ext.json)
-
----
-
-### Police attack the protesters
-
-*2024-06-18 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197878) · `si`
-
-In response to protests by unemployed graduates, police used water cannons at Paladuwa junction to disperse them.
-
-🟩
-
-Police have launched a water strike at the Paladuwa junction to dissolve protests from unemployed graduates.
-
-◼️
-
-[Data](articles/b4e37c90.json)
-
-[Extended Data](ext_articles/b4e37c90.ext.json)
-
----
-
-### New bacteria spreading in Japan: 1000 people vulnerable
-
-*2024-06-18 11:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-பரவும்-புது-பக்டீரியா-1000-பேர்-பாதிப்பு/50-339068) · `ta`
-
-A rare bacteria, Group A Streptococcus, causing severe infections including death within 48 hours, is spreading in Japan, affecting over 1,000 people. Symptoms range from throat pain to life-threatening conditions like organ failure. The infection spreads easily among close contacts and through shared food and drinks. Experts warn that without proper treatment, the number of cases could rise to 2,500, with a fatality rate of 30%.
-
-🟩
-
-Tokyo: The rare bacteria that eaters a meat known as 'Group A Streptococcus' is spreading in Japan. Doctors said that if the bacteria infection is not overlooked, there is a risk of death in two days.. 1,000 people have been affected by this bacteria.
-
-Group A streptococcus, a bacteria found in Japan in 1999. The Japanese infection Center said that this type of infection is easily affected by those who are close to the affected person and those who share food and drinks with them.
-
-This type of bacterial infection usually causes swelling and throat pain;Doctors say arthritis, inflammation, fever, low blood pressure, respiratory problems, organ failure and fatalities.
-
-At present, the number of victims of the bacterial infection in Japan is nearing 1,000, which is higher than last year, according to the National Infectious pathology Center.
-
-Regarding meat -eating bacteria, Professor of Infectious Pathology at the University of Tokyo Medical University said:
-
-...
-
-[Data](articles/90958566.json)
-
-[Extended Data](ext_articles/90958566.ext.json)
-
----
-
-### Putin goes to North Korea
-
-*2024-06-18 11:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வட-கொரியா-செல்கிறார்-புட்டின்/50-339067) · `ta`
-
-Russian President Vladimir Putin visits North Korea on June 18 for a two-day trip, strengthening ties with its "friendly" nation. This visit follows North Korean leader Kim Jong Un's previous trip to Russia. Putin attends a significant conference and signs crucial agreements during his stay, despite Russian government officials denying the trip.
-
-🟩
-
-Russian President Vladimirpudin on a two -day trip today (June 18). North Korea is Russia's friendly country. North Korea President Kimjong Un had already visited Russia.
-
-Russian President Vladimirpudin is on a two-day trip to North Korea today (June 18). North Korea President Kimjong meets. Putin participated in a major conference to be held there and signed on important documents.
-
-Russia's government administration refuses to do so reports Putin's North Korea trip.
-
-◼️
-
-[Data](articles/7674d7ae.json)
-
-[Extended Data](ext_articles/7674d7ae.ext.json)
-
----
-
-### A young man abducted in a white van
-
-*2024-06-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197877) · `si`
-
-In Kalutara South, a 24-year-old named Roshan Ashan was reportedly abducted by individuals dressed in black, who were seen in a white car near the Hydatiyangala Church. The police, led by OIC Inspector General Gayan Krishantha, are investigating the incident and are working to make arrests swiftly.
-
-🟩
-
-Kalutara South Police say investigations are being carried out on a complaint that a large number of black clothes had been abducted by a white clothes.
-
-According to the police, Roshan Ashan, a 24 year old resident of Hynatatiyangala, Kalutara, police said.
-
-According to a complaint lodged by the abducted young man, investigations have commenced.
-
-Investigations have revealed that the suspects have come from a white car and have been abducted near the Hydatiyangala Church.
-
-The suspects have been identified and they are working to arrest the area expeditiously.
-
-The Criminal Special Special (OIC) Inspector General of Police Gayan Krishantha is conducting further investigations.
-
-◼️
-
-[Data](articles/06c4b353.json)
-
-[Extended Data](ext_articles/06c4b353.ext.json)
-
----
-
-### Political betting in the 13th Amendment;United People's Power MPs
-
-*2024-06-18 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186336) · `ta`
-
-Candidates promise more than elected officials did before the recent election, notably during the presidential race. This trend is observed among United People's Power MPs discussing political betting related to the 13th Amendment.
-
-🟩
-
-Promises will be made by candidates than the politicians representing their constituencies in the recent election, especially during the presidential election.
-
-◼️
-
-[Data](articles/5786ca2e.json)
-
-[Extended Data](ext_articles/5786ca2e.ext.json)
 
 ---

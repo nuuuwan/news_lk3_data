@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 13:19:13**
+As of **2024-06-18 13:34:55**
 
 ## Newspaper Stats
 
@@ -26,49 +26,63 @@ adaderanasinhalalk | 5,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,922 (100.0%) of 30,926 articles have been extended.
+30,926 (100.0%) of 30,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### ඉන්දීය ධීවරයින්ට තහනම් වූ අපේ මුහුද
+### Our sea for banned with Indian fishermen
 
 *2024-06-18 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197881) · `si`
 
-මෙරට මුහුදු සීමාවේ අනවසර ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 180කට අධික සංඛ්‍යාවක් මේ වසරේ ගත වූ මාස කිහිපය තුළ අත්අඩංගුවට ගෙන තිබේ.
+In recent months, over 180 Indian fishermen have been detained, along with 24 fishing boats, primarily in the Jaffna sea area. This action was taken by authorities, leading to the vessels and their crews being transported to the Kankesanthurai port.
 
-ඒ අනුව ඉන්දීය ධීවරයින් 182 දෙනෙකු ගත වූ මාස කිහිපයක තුළ අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසීය.
+🟩
 
-එමෙන්ම ඔවුන් පැමිණි ධීවර යාත්‍රා 24ක් ද නාවික හමුදා භාරයට ගෙන ඇත.
+More than 180 Indian fishermen have been arrested in the past few months.
 
-අද (18) අලුයම යාපනය, ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමක් අතර තුරදී ද මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+According to the Navy, 182 Indian fishermen have been arrested for several months.
 
-එහිදී එම ධීවරයින් පැමිණි යාත්‍රාව ද නාවික හමුදා භාරයට ගෙන ඇති බව සඳහන්ය.
+Also, 24 fishing boats have been taken into custody.
 
-අත්අඩංගුවට ගත් ධීවර යාත්‍රාව සහ එහි ධීවරයින් කන්කසන්තුරය වරාය වෙත රැගෙන ආ අතර ඔවුන් ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+Four Indian fishermen have arrested four Indian fishermen during the sea area in Jaffna.
+
+The fishermen who came from the fishermen were also taken into custody.
+
+The fishermen vessel and its fishermen were brought to the port of the Kankesanthurai.
 
 ◼️
 
 [Data](articles/edfea55b.json)
 
+[Extended Data](ext_articles/edfea55b.ext.json)
+
 ---
 
-### රජරට බලා පොසොන් වන්දනාවේ බැතිමතුන්ට විශේෂ දැනුම්දීමක්
+### Special notice to pilgrims of Poson visited Rajarata
 
 *2024-06-18 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197880) · `si`
 
-පොසොන් පොහොය නිමිත්තෙන් රජරට බලා වන්දනාවේ පැමිණෙන බැතිමතුන් වෙත ජාතික නාමල් උයනේ නිර්මාතෘ, වනවාසී රාහුල හිමියන් විසින් විශේෂ ඉල්ලීමක් සිදුකර තිබේ.
+Wawest Rahula Thero, the founder of National Namal Uyana, appeals to pilgrims during Poson Poya in Rajarata, urging them to avoid plastic and engage in spiritual activities. He highlights the significance of Poson Poya, emphasizing environmental responsibility and the importance of Buddhism in Sri Lanka.
 
-අනුරාධපුරයේ අටමස්ථානය, මිහින්තලය වැනි  ප්‍රධාන විහාරස්ථාන පොසොන් පොහොය දිනට ජාති ආගම් භේදයකින් තොරව ලංකාවාසී සියලු ජනතාවගෙන් පිරී ඉතිරී යයි.
+🟩
 
-මෙලෙස වන්දනාවේ පැමිණෙන වන්දනාකරුවන් පොලිතීන් භාවිතයෙන් බැහැරව සිය ආගමිකවතාවත්හි නිරතවන ලෙස උන්වහන්සේ මෙහිදී බැතිමතුන්ගෙන් ඉල්ලා සිටී.
+The Founder of the National Namal Uyana, the Founder of the National Namal Uyana has made a special request to pilgrims visiting pilgrims in pilgrimage to Rajarata in view of the Poson Poya.
 
-එහි දී වැඩිදුරටත් අදහස් දැක්වූ නාමල් උයනේ නිර්මාතෘ, වනවාසී රාහුල හිමියන්,
+Sri Lanka is overflowing with all the people of the major temples, such as the Mahirhetra Poson Poya Day in Anuradhapura.
 
-...
+The pilgrims of the pilgrimage are urged to do not work out of their polythene.
+
+The Founder of Namal Uyana, said he said, Wawest Rahula Thero,
+
+"The Poson event is the main festival of this country. Mihindhe Maha Rahan brought the Buddhist philosophy to this country, the greatest Poson Poya Day. That day is the special day of Rajarata. I request a request at this time. All these people in this country are Buddhist, Catholic. Don't bring polythene. Come out of polythene and come to worship. It is not possible to set up committees with the assistance of the security forces under the patronage of the Chief Justice of Anuradhapura.. Poson Poya as a Program of the Spirit of People
+
+◼️
 
 [Data](articles/dcdbf182.json)
+
+[Extended Data](ext_articles/dcdbf182.ext.json)
 
 ---
 
@@ -111,6 +125,8 @@ Police used water cannons to disperse a group of unemployed graduates protesting
 ◼️
 
 [Data](articles/7ab6a424.json)
+
+[Extended Data](ext_articles/7ab6a424.ext.json)
 
 ---
 
@@ -274,19 +290,27 @@ From 1959 to 1975, 31 people were executed.42 people were executed from 1969 to 
 
 ---
 
-### ඩලස් හා දයාසිරිගේ කණ්ඩායම් සජිත් සමග එක්වෙන්න සාකච්ඡා
+### Discussion with Dullas and Dayasiri's team Sajith
 
 *2024-06-18 11:23:06* · [`adalk`](https://www.ada.lk/breaking_news/ඩලස්-හා-දයාසිරිගේ-කණ්ඩායම්-සජිත්-සමග-එක්වෙන්න-සාකච්ඡා/11-410281) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඩලස් අලහප්පෙරුම මහතාගේ කණ්ඩායම සහ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ කණ්ඩායම සමගි ජන බලවේගය සමග සන්ධාන ගතවීම සම්බන්ධයෙන් සාකච්ඡා පවත්වන බවත්, එම සාකච්ඡා සාර්ථක වනු ඇති බවට තමා විශ්වාස කරන බවත් එම පක්ෂයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා පැවසීය.
+Dullas Alahapperuma and Dayasiri Jayasekera's teams are engaging in reconciliation talks with the party's national organizer, Tissa Attanayake. Discussions involve various government sectors, aiming to alter existing controls without sharing power privileges. While some parts of the government are still in discussion post-presidential elections, it's believed that all efforts will be successful, including those involving UPFA and other MPs under Dullas Alahapperuma.
 
-ඊයේ(17දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The team of MP Dullas Alahapperuma and MP Dayasiri Jayasekera will hold talks with reconciliation and the party's national organizer MP Tissa Attanayake.
+
+Speaking to the media yesterday (17), he said this.
+
+Speaking further Mr. Tissa Attanayake said so.
+
+"Various parts are discussed with us. There are many parts of the government. We have already represented the government and discussing a few parties with them.Also, after the decisive occasion of the presidential election, another part of the government is still discussing another part of the government. We have said the same point. That is not to share our purpose privileges. Our goal should be alleged to change these existing control. There are many places to join that line. Special discussions are being exchanged, especially.
 
 ...
 
 [Data](articles/816d5e46.json)
+
+[Extended Data](ext_articles/816d5e46.ext.json)
 
 ---
 

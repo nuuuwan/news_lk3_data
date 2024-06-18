@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 20:05:12**
+As of **2024-06-18 20:19:15**
 
 ## Newspaper Stats
 
-*Scraped **30,984** Articles*
+*Scraped **30,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,699
 adaderanalk | 3,512
-tamilmirrorlk | 3,636
+tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,774
-adaderanasinhalalk | 5,031
+adaderanasinhalalk | 5,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,984 (100.0%) of 30,984 articles have been extended.
+30,984 (100.0%) of 30,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### මස් කන බැක්ටීරියාවක් නිසා ජපානය සලිත වෙයි
+
+*2024-06-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197894) · `si`
+
+මාංශ පේශි විනාශ කරන බැක්ටීරියාවක් මේ වන විට ජපානයේ සීග්‍රයෙන් පැතිරයන බව එරට සෞඛ්‍ය අංශ පවසයි.
+
+මෙම "මස් කන" බැක්ටීරියාව හේතුවෙන් මේ වනවිට විශාල පිරිසක් මරණයට පත්වී ඇති බව වාර්තා වෙයි.
+
+නමුත් මෙම රෝගී තත්ත්වය පැතිර යන හේතුව කුමක්ද යන්න සම්බන්ධයෙන් එරට සෞඛ්‍ය අංශ වික්ෂිප්ත වී සිටියි.
+
+2024 ජනවාරි සිට ජූනි මාසය ආරම්භ වනවිට එවැනි රෝගීන් 2,977ක් වාර්තා වී ඇති අතර ඉන් 77 දෙනෙක් මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/68016538.json)
+
+---
+
+### வாடகை வரி இவர்களிடம் இருந்து மட்டுமே அறவிடப்படும் - ஜனாதிபதி
+
+*2024-06-18 19:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாடகை-வரி-இவர்களிடம்-இருந்து-மட்டுமே-அறவிடப்படும்-ஜனாதிபதி/175-339085) · `ta`
+
+உத்தேச வாடகை வருமானச் சட்டம், அதிக வாடகை வருமானம் ஈட்டுவோருக்கு மாத்திரமானதாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+ஒவ்வொரு நபரினதும் முதல் சொத்து, இந்த வாடகை வரியிலிருந்து விடுவிக்கப்படும் அதேநேரம், சாதாரண வருமானம் ஈட்டும் மக்களிடத்தில் இந்த வரி அறவிடப்பட மாட்டாது என்றும் ஜனாதிபதி உறுதியளித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க, இன்று (18) பாராளுமன்றத்தில் ஆற்றிய விசேட உரையின்போதே இதனைத் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/0fe20661.json)
+
+---
 
 ### President tells Minister Wijeyadasa to quit?
 
@@ -2371,43 +2405,5 @@ The Railway Department said that the main railway and Chilaw railway services ha
 [Data](articles/3a1e2ec1.json)
 
 [Extended Data](ext_articles/3a1e2ec1.ext.json)
-
----
-
-### Two arrested with foreign handguns
-
-*2024-06-18 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186321) · `ta`
-
-Two men, aged 45 and 55, were arrested by the Police STF for possessing foreign-made handguns and local firearms in Hangwella. One suspect had a foreign handgun, while the other had a locally made gun, both found in the same location. The suspects are now under investigation by Hangwella and Horana police.
-
-🟩
-
-Police Special Task Force (STF) said that two men have been arrested with two handguns and two magazines manufactured abroad.
-
-Based on information received by the Special Task Force, a suspect has been arrested with a handgun made abroad in a house in Hangwella area.
-
-In addition, police said that another suspect was arrested with a locally manufactured gun in the same house.
-
-The arrested suspects are aged 45 and 55 and have been handed over to the Hangwella and Horana police for further investigations.
-
-◼️
-
-[Data](articles/96a76d19.json)
-
-[Extended Data](ext_articles/96a76d19.ext.json)
-
----
-
-### Train  delays on main and Chilaw lines due to three breakdowns
-
-*2024-06-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99939/train-delays-on-main-and-chilaw-lines-due-to-three-breakdowns) · `en`
-
-The Railways Department has reported that significant train delays are expected on the main line and the Chilaw line due to the breakdown of three train engines.
-
-◼️
-
-[Data](articles/8d62c9a8.json)
-
-[Extended Data](ext_articles/8d62c9a8.ext.json)
 
 ---

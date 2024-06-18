@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 12:07:29**
+As of **2024-06-18 12:19:20**
 
 ## Newspaper Stats
 
-*Scraped **30,914** Articles*
+*Scraped **30,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,80 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,682
+adalk | 2,684
 adaderanalk | 3,503
 tamilmirrorlk | 3,627
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,015
+adaderanasinhalalk | 5,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,907 (100.0%) of 30,914 articles have been extended.
+30,914 (100.0%) of 30,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### සුදුවෑන් රථයකින් තරුණයෙක් පැහැරගෙන
+### විරෝධතාකරුවන්ට පොලීසියෙන් ජල ප්‍රහාරයක්
+
+*2024-06-18 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197878) · `si`
+
+රැකියා විරහිත උපාධිධාරීන්ගේ විරෝධතාවයක් විසුරුවා හැරීමට පොල්දූව මංසන්ධියේ දී පොලීසියෙන් ජල ප්‍රහාරයක් එල්ල කර තිබේ.
+
+◼️
+
+[Data](articles/b4e37c90.json)
+
+---
+
+### A young man abducted in a white van
 
 *2024-06-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197877) · `si`
 
-සුදුවෑන් රථයකින් පැමිණි කළු පැහැති ඇඳුම් ඇදගත් පිරිසක් තරුණයකු පැහැරගෙන ගොස් ඇති බවට ලද පැමිණිල්ලක් මත පරීක්ෂණ සිදුකරන බව කළුතර දකුණ පොලීසිය පවසයි.
+In Kalutara South, a 24-year-old named Roshan Ashan was reportedly abducted by individuals dressed in black, who were seen in a white car near the Hydatiyangala Church. The police, led by OIC Inspector General Gayan Krishantha, are investigating the incident and are working to make arrests swiftly.
 
-මෙසේ පැහැරගෙන ගොස් ඇත්තේ කළුතර හීනටියංගල ප්‍රදේශයේ පදිංචි රොෂාන් අෂාන් නමැති 24 හැවිරිදි තරුණයෙකු බව පොලීසිය සඳහන් කළේය.
+🟩
 
-පැහැරගෙන ගොස් ඇති තරුණයාගේ මව විසින් කළ පැමිණිල්ලක් අනුව මෙසේ පරීක්ෂණ ආරම්භ කර තිබේ.
+Kalutara South Police say investigations are being carried out on a complaint that a large number of black clothes had been abducted by a white clothes.
 
-සැකකරුවන් සුදුවෑන් රථයකින් පැමිණ හීනටියංගල දේවස්ථානය ආසන්නයේ දී තරුණයාව පහරදී පැහැරගෙන ගොස් ඇති බවට මෙතෙක් කළ පරීක්ෂණවලදී අනාවරණය වූ බව පොලීසිය සඳහන් කරයි.
+According to the police, Roshan Ashan, a 24 year old resident of Hynatatiyangala, Kalutara, police said.
 
-සැකකරුවන් හඳුනාගෙන ඇති බවත් ප්‍රදේශය හැරගොස් සිටින ඔවුන් කඩිනමින් අත්අඩංගුවට ගැනීමට ක්‍රියාකරන බවත් කළුතර උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+According to a complaint lodged by the abducted young man, investigations have commenced.
 
-කළුතර දකුණ  මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි අපරාධ අංශ ස්ථානාධිපති පොලිස් පරීක්ෂක ගයාන් ක්‍රිෂාන්ත මහතා ගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+Investigations have revealed that the suspects have come from a white car and have been abducted near the Hydatiyangala Church.
+
+The suspects have been identified and they are working to arrest the area expeditiously.
+
+The Criminal Special Special (OIC) Inspector General of Police Gayan Krishantha is conducting further investigations.
 
 ◼️
 
 [Data](articles/06c4b353.json)
+
+[Extended Data](ext_articles/06c4b353.ext.json)
+
+---
+
+### අවුරුදු 04ක දරුවකු අතුරුදන්
+
+*2024-06-18 11:36:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-04ක-දරුවකු-අතුරුදන්/11-410282) · `si`
+
+නොවුඩ් පොලිස් වශමට අයත් ඩන්කන් ප්‍රදේශයේදි අවුරුදු 04ක පිරිමි දරුවකු ඊයේ (17) දින රාත්‍රියේදි අතුරුදහන්ව ඇති බවට එම දරුවාගේ දෙමාපියන් විසින් නොවුඩ් පොලිසිය වෙත පැමිනිලි කර ඇත.
+
+මෙම තත්වයන් පිලිබදව කරන ලද කරන ලද විමසිමකදි අදහස් දැක්වු නොවුඩ් පොලිසියේ නිලධාරියකු පවසන ලද්දේ නල්ලතන්නිය ලක්ෂපාන   ප්‍රදේශයේ පදිංචිකරුවකු වන සිවදාසන් අභිලාස් නැමති පිරිමි දරුවා එම දරුවාගේ දෙමාපියන් සමග නොර්වුඩ් ඩන්කන් ප්‍රදේශයේ ඥති නිවසක පැවති විවාහ උත්සවයකට පැමින ඇති බවත්ය.
+
+එසේ පැමිනි මෙම දරුවා ඊයේ (17) දින සවස සිට නිවස අසල සෙල්ලම් කරමින් සිට ඇති බවත් පසුව සොයා බලන විට මෙම දරුවා සොයා ගැනිමට නොහැකිවි ඇති බවත්ය.
+
+පසුව එම දරුවාගේ අතුරුදහන් විම පිලිබදව එම දරුවාගේ පියා වන සිවදාසන් වසන්තන් යන අය 119 හදිසි ඇමතුම් අංශයටද දැනුම්දි නොවුඩ් පොලිසියටද පැමින පැමිනිලි කර ඇති බවද එම නිලධාරියා පැවසිය.
+
+එම පැමිනිල්ල ලැබිමත් සමග එම සිද්දිය  පිලිබදව නොවුඩ් පොලිසිය පුලුල් පරික්ෂන ආරම්භ කර ඇති බවත්  අද (18) දින උදැසන වන විටත්එම දරුවා සොයා ගැනිමට නොහැකිවි ඇති බවද එම නිලධාරියා වැඩි දුරටත් පවසන ලදි.
+
+◼️
+
+[Data](articles/cdd613e4.json)
 
 ---
 
@@ -108,6 +146,24 @@ President Ranil Wickremesinghe, in a speech in Parliament, said that the first p
 
 ---
 
+### ඒ ගොල්ල බලයට ආවොත් ඔය  කොමිස් ගත්ත එවුන් ඔක්කොම හිරේ දානවා  මේ ගොල්ල ඔක්කොම බයයි
+
+*2024-06-18 11:00:41* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-ගොල්ල-බලයට-ආවොත්-ඔය--කොමිස්-ගත්ත-එවුන්-ඔක්කොම-හිරේ-දානවා--මේ-ගොල්ල-ඔක්කොම-බයයි/11-410279) · `si`
+
+මේ රටේ  ව්‍යවස්ථාව වර්ථමානයට, අනාගතයට ගැලපෙන ආකාරයට නැවත සංශෝධනය කළ යුතුයි
+
+මේ රට සංවර්ධනය කරන්න නම් මේ 225 වියදම් කරන අනවශ්‍යය වීයදම් සම්පූර්ණයෙන්ම අහෝසි කළ යුතුයි, කපා හැරිය යුතුයි.
+
+දේශපාලඥයෝ කරන්නේ මැතිවරණ කාළයට මිනිස්සු රවට්ටනවා මම ජනතාවගෙන් ඉල්ලනවා මේ සැරේ බත් බුලත් කණ එවුන් නම් රැවටෙන්න එපා
+
+නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් මේ බව ප්‍රකාශ කර සිටියේ අද (18) පෙරවරුවේ ජාතික නාමල් උයනේදී පැවැත් වූ මාධ්‍ය සාකච්ජාවකදීය.
+
+...
+
+[Data](articles/9c29dd4a.json)
+
+---
+
 ### Political betting in the 13th Amendment;United People's Power MPs
 
 *2024-06-18 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186336) · `ta`
@@ -157,6 +213,8 @@ ECONOMYNEXT – Sri Lanka’s Supreme Court has found a number of clauses in a p
 ...
 
 [Data](articles/a14736f9.json)
+
+[Extended Data](ext_articles/a14736f9.ext.json)
 
 ---
 
@@ -338,6 +396,8 @@ The mechanism of imputed rents was used because rates on houses was assigned to 
 
 [Data](articles/c4c0bf51.json)
 
+[Extended Data](ext_articles/c4c0bf51.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens weaker at 304.30/55 to US dollar
@@ -363,6 +423,8 @@ A bond maturing on 01.10.2032 was quoted at 11.95/12.10 percent, down from 12.00
 ◼️
 
 [Data](articles/c224cee9.json)
+
+[Extended Data](ext_articles/c224cee9.ext.json)
 
 ---
 
@@ -513,6 +575,8 @@ Sri Lanka would bring a law that would allow the right of burial, right of crema
 ...
 
 [Data](articles/1f9916a5.json)
+
+[Extended Data](ext_articles/1f9916a5.ext.json)
 
 ---
 
@@ -946,6 +1010,8 @@ The 20 percent of businesses were providing a range of products and services acr
 
 [Data](articles/af0ae1cb.json)
 
+[Extended Data](ext_articles/af0ae1cb.ext.json)
+
 ---
 
 ### Repairs to the explosive tube completed
@@ -1043,6 +1109,8 @@ Most assets have been built out of earnings already taxed by the state. Taxes th
 ...
 
 [Data](articles/a11db532.json)
+
+[Extended Data](ext_articles/a11db532.ext.json)
 
 ---
 
@@ -2249,95 +2317,5 @@ Tax Tsunami has been dispensated on the people today. There's nothing we have to
 [Data](articles/62807e5d.json)
 
 [Extended Data](ext_articles/62807e5d.ext.json)
-
----
-
-### Seaside production in Jaffna
-
-*2024-06-17 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186311) · `ta`
-
-Douglas Devananda highlighted the growth of seaweed production in Jaffna, emphasizing local engagement and resource utilization. He noted the shift from Chinese involvement to local control, aiming for economic benefits and self-sufficiency. The initiative encourages practical solutions to enhance seaweed farming, promoting resilience and success among the Tamil community.
-
-🟩
-
-Minister Douglas Devananda said that the production of seaweed has increased as a manifestation of the idea that we should take advantage of the opportunities and strengthen our people.
-
-Yall. He said this during a discussion held on Monday (17) with the district seas.
-
-Minister Douglas Devananda, who recently outlined the MP that the Chinese in the Jaffna district were engaged in sea farming, said that none of the Chinese in the Jaffna district are now allowed to engage in seaweed.
-
-The Chinese company, which was allowed for the production of seaweed in goodwill, has been evacuated in the present goodwill and one hundred percent of the Jaffna district is involved in Jaffna.
-
-In order to further expand the seas that offer better economic benefits, the farmers will be able to find a solution to the practical recognition challenges.
-
-People should not give up for lies and identify the obvious facts and succeed in the future. That is essential for the Tamil people.
-
-...
-
-[Data](articles/c97c1f2b.json)
-
-[Extended Data](ext_articles/c97c1f2b.ext.json)
-
----
-
-### Everyone should receive the advantage of being the better
-
-*2024-06-17 18:52:16* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-යහපත්-වීමේ-වාසිය-සියලු-දෙනාට-ලැබිය-යුතුයි/11-410270) · `si`
-
-President Ranil Wickremesinghe announced the government's initiative to grant land ownership and knowledge to citizens, aiming to acknowledge the nation's gratitude and stimulate economic growth. He emphasized the importance of recognizing the contributions of farmers and ensuring they have the means to improve their livelihoods. The program includes providing freehold land ownership, housing rights for low-income individuals, and modernizing agrarian services to boost rural economies.
-
-🟩
-
-President Ranil Wickremesinghe said the government had taken measures to provide gratitude to the families who were grateful to the country without the land ownership of the country.
-
-CWW. Similarly, the present government is working to give people knowledge and ownership both as well as the current government is giving people knowledge and ownership.
-
-President Ranil Wickremesinghe made this statement from the National Program of "inheritance" at the National Program of providing 20 lakhs at the National Program of the United States.
-
-President Ranil Wickremesinghe was figuratively inherited to the grant of land deeds.
-
-Minister Ranil Wickremesinghe further added:
-
-I have instructed to provide the ownership of land ownership within the next two months. The District Secretaries and Land Commissioner General, are planning to implement this land deeds. Ground level government officials can be obtained for this purpose. Such a program will enable us to implement this program efficiently.
-
-...
-
-[Data](articles/8e43c0e3.json)
-
-[Extended Data](ext_articles/8e43c0e3.ext.json)
-
----
-
-### The explosion that lost water - CCTV scenes out
-
-*2024-06-17 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197856) · `si`
-
-A major water pipeline near the Kalatuwawa Water Treatment Plant exploded, disrupting water supply to several areas in the Colombo district, including Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattragoda. The incident occurred early morning when a vehicle hit the pipe, causing it to burst. Two people were injured and taken to hospital. Authorities are working to restore water supply and investigate the cause.
-
-🟩
-
-The main tube carrying water from the Kalatuwawa Water Treatment Plant exploded today (17).
-
-The water supply was hampered with several areas in the Colombo district following the accident.
-
-The pipe was erupted in the Godagama area of ​​the Heylevel road around 2nd this morning.
-
-The National Water Supply and Drainage Board announced that the water supply would be able to restore the development of the water.
-
-The Ada Derana reporter said that the car was running out of the pipe and collided with the pipe.
-
-Two of the electrical wire pillars along the accident and collapsed on the water.
-
-The National Water Supply and Drainage Board took action to stop the water supply of water from theater from theater from the water leak.
-
-Accordingly, the water supply from Godagama, Homagama, Pannipitiya, Pelanwatta and Mattragoda were hampered from this morning.
-
-Meanwhile, two persons including the accident have been injured and rushed to the Homagama Hospital.
-
-◼️
-
-[Data](articles/a6f1a421.json)
-
-[Extended Data](ext_articles/a6f1a421.ext.json)
 
 ---

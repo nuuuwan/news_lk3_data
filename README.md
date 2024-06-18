@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 18:36:29**
+As of **2024-06-18 18:55:06**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,031
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,972 (100.0%) of 30,973 articles have been extended.
+30,973 (100.0%) of 30,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### විජයදාස ට ඉවත් වෙන්නැයි ජනපති පවසයි
+### President Mahinda Rajapaksa says to Wijayadasa
 
 *2024-06-18 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197893) · `si`
 
-අමාත්‍ය විජයදාස රාජපක්ෂ මහතාට ආණ්ඩුවෙන් ඉවත් වන ලෙස ජනාධිපතිවරයා බලපෑම් කර ඇතැයි ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා පැවසීය.
+President Mahinda Rajapaksa allegedly pressured Prof. Rohana Lakshman Piyadasa to resign from the government, according to reports relayed to the Politburo by Minister Wijayadasa Rajapaksa.
 
-ඔහු සඳහන් කළේ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා දේශපාලන මණ්ඩලයේදී ඒ බව සඳහන් කළ බවය.
+🟩
+
+Prof. Rohana Lakshman Piyadasa said that the President has pressurized the President to quit the government to leave the government.
+
+He said that Minister Wijayadasa Rajapaksa told the Politburo.
 
 ◼️
 
 [Data](articles/a29a302f.json)
+
+[Extended Data](ext_articles/a29a302f.ext.json)
 
 ---
 

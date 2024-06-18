@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 19:34:35**
+As of **2024-06-18 19:52:53**
 
 ## Newspaper Stats
 
-*Scraped **30,983** Articles*
+*Scraped **30,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,698
+adalk | 2,699
 adaderanalk | 3,512
 tamilmirrorlk | 3,636
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,031
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,982 (100.0%) of 30,983 articles have been extended.
+30,983 (100.0%) of 30,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,9 +40,13 @@ The Senior Vice Chairman of the Sri Lanka Freedom Party (SLFP), Prof. Rohana Lak
 
 He alleged that Minister Wijeyadasa Rajapakshe revealed this during a politburo meeting.
 
+However, when inquired by Ada Derana, Minister Rajapakshe said that the statement made by Prof. Rohana Lakshman Piyadasa is untrue.
+
 ◼️
 
 [Data](articles/1c19a76c.json)
+
+[Extended Data](ext_articles/1c19a76c.ext.json)
 
 ---
 
@@ -147,6 +151,26 @@ He said that Minister Wijayadasa Rajapaksa told the Politburo.
 [Data](articles/a29a302f.json)
 
 [Extended Data](ext_articles/a29a302f.ext.json)
+
+---
+
+### අම්මයි - දුවයි ජයටම කසිප්පු පෙරලා
+
+*2024-06-18 18:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අම්මයි---දුවයි-ජයටම-කසිප්පු-පෙරලා/11-410296) · `si`
+
+පේරාදෙණිය පොලිස් බල ප්‍රදේශයේ බෝවල ප්‍රදේශයේඝන කැලෑවක මවක සහ දියණියක විසින්මහා පරිමාණයෙන් පවත්වාගෙන ගියකසිප්පු පෙරීමේ ස්ථානයක් වැටලීමටමහනුවර කොට්ඨාශදූෂණ මර්දන අංශ නිලධාරීන්ට හැකිව තිබේ .
+
+ඊයේ (17දා) රාත්‍රියේ පොලිස් නිලධාරීන් විශාල පිරිසකගේ සහභාගිත්වයෙන් සිදු කරන ලද එම මෙහෙයුමේදීගෝඩා ලීටර් 1250ක් කසිප්පුස්ප්‍රීතුලිටර්200ක්කසිප්පු පෙරීමට උපයෝගී කරගන්නාලීටර් 500යේ බැරල්තඹ දඟර, ගෑස් සිලින්ඩර්,ගෑස් ලිප් ඇතුළුවිශාල භාණ්ඩ තොගයක් පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ .
+
+පොලිසිය විසින් අත්අඩංගුවට ගන්නා ලද 48 හැවිරිදි මව සහ 26 හැවිරිදිදියණිය මීට පෙරදීදඅවස්ථා ගණනාවකදීකසිප්පු කිරීමේ වරදට අත්අඩංගුවට ගෙන අධිකරණය මගින් දඬුවම් නියම වූතැනැත්තියන් බව පොලිසිය කියයි .
+
+බෝවල පයිනස් කැලෑවේ කිසිවෙකුටත් ළං විය නොහැකි ආකාරයේ දුෂ්කරබෑවුමකවිශාල ටැංකි වලදමාමෙම කසිප්පු කිරීමේ ස්ථානය පවත්වාගෙන ගොස් තිබේ .
+
+පොලිසියට ලද තොරතුරකට අනුවපොලිස් නිලධාරීන්දීර්ඝ වේලාවක් එහි රැක සිටසැකකාර මව සහ දියණිය ඇතුළු කිහිපදෙනෙකුඑහි පැමිණකසිප්පු පෙරීමේ කටයුතු ආරම්භ කළ අවස්ථාවේදීඔවුන් සියලු දෙනා අත්අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/de15677c.json)
 
 ---
 
@@ -2379,19 +2403,5 @@ The Railways Department has reported that significant train delays are expected 
 [Data](articles/8d62c9a8.json)
 
 [Extended Data](ext_articles/8d62c9a8.ext.json)
-
----
-
-### Trains delays on main and Chilaw lines due to three breakdowns
-
-*2024-06-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99939/trains-delays-on-main-and-chilaw-lines-due-to-three-breakdowns) · `en`
-
-The Railways Department has reported that significant train delays are expected on the main line and the Chilaw line due to the breakdown of three train engines.
-
-◼️
-
-[Data](articles/c482a09c.json)
-
-[Extended Data](ext_articles/c482a09c.ext.json)
 
 ---

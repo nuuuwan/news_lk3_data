@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 12:53:11**
+As of **2024-06-18 13:04:20**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,920 (100.0%) of 30,922 articles have been extended.
+30,922 (100.0%) of 30,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### විදේශ රැකියා පෙන්වා මුදල් වංචා කළ තවත් කතක් කොටුවෙයි
+### Another woman who has defrauded foreign employment
 
 *2024-06-18 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197879) · `si`
 
-මැදපෙරදිග රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ගම්පොළ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A woman in Gampola, Sri Lanka, was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment for allegedly defrauding job seekers by promising them employment in Qatar and Dubai but failing to provide the jobs. The bureau received several complaints about her actions. She was previously charged by the Gampola Police and later arrested after further investigation. The suspect was remanded until today, and the bureau advises job seekers to verify information through official channels.
 
-කටාර්, ඩුබායි ඇතුළු මැදපෙරදිග රැකියා ලබාදෙන බව පවසා ගම්පොළ ප්‍රදේශයේ කාන්තාවක් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 7ක් ලැබී තිබුණු අතර එම පැමිණිලිවලට අනුව මෙම කාන්තාව වංචා කර ඇති මුදල් ප්‍රමාණය රුපියල් ලක්ෂ 40ට අධික වේ.
+🟩
 
-මෙයට පෙර ද ගම්පොළ පොලීසිය මගින් ඇයට විරුද්ධව අධිකරණයේ නඩු පවරා ඇත.
+A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (Special Investigation Division) in the Gampola area.
 
-ගම්පොළ පොලීසියේද සහාය ඇතුව දැඩි පරිශ්‍රමයක් දැරීමෙන් අනතුරුව මෙම කාන්තාව අත්අඩංගුවට ගෙන ගම්පොළ පොලීසියේ රඳවා ප්‍රශ්න කිරීම් සිදුකරන බව ද විදේශ සේවා නියුක්ති කාර්යාංශය පැවසීය.
+The Bureau has received seven complaints that a woman in Gampola has been given jobs and has not provided jobs as promised, claiming that Qatar was provided with jobs including Qatar, Dubai.
 
-මෙම කාන්තාව අත්අඩංගුවට ගත් බව සැලවීමෙන් පසු මෙම කාන්තාවට මුදල් ලබා දුන් තවත් පුද්ගලයන් ගම්පොළ පොලීසියට පැමිණ පැමිණිලි කර තිබේ.
+Earlier, Gampola Police have filed a case against her in court.
 
-එම පැමිණිලි සම්බන්ධයෙන් කාර්යාංශයේ විශේෂ විමර්ශන අංශය ඉදිරියේදී විමර්ශනය කිරීමට නියමිතය.
+The Foreign Employment Bureau said that the woman was arrested and interrogated after the assistance of Gampola police station.
+
+Other persons who had been paid the woman after the arrest were taken into the Gampola police.
+
+The Bureau's Special Investigation Division is to be investigated in the future.
+
+The suspect was produced before the Gampola Magistrate's Court yesterday (17) and remanded until this day.
 
 ...
 
 [Data](articles/4f832bc1.json)
+
+[Extended Data](ext_articles/4f832bc1.ext.json)
 
 ---
 
@@ -232,19 +240,27 @@ Lotus Road has been blocked due to protest of university non-academic workers.
 
 ---
 
-### මැදපෙරදිග රැකියා පෙන්වා රු. ලක්ෂ 40ක් වංචා කළ සැකකාරියක් අල්ලයි
+### Point jobs in Middle East. A suspect arrested for defrauding Rs
 
 *2024-06-18 11:09:36* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-පෙන්වා-රු--ලක්ෂ-40ක්-වංචා-කළ සැකකාරියක්-අල්ලයි/11-410280) · `si`
 
-මැදපෙරදිග රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ජූනි මස 16 දින ගම්පොළ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A woman accused of fraudulently offering Middle Eastern jobs was arrested in Sri Lanka on June 16th. She faces charges after receiving seven complaints about job scams. The Gampola police assisted in her arrest and interrogation. The suspect was remanded until June 18th.
 
-කටාර්, ඩුබායි ඇතුළු මැදපෙරදිග රැකියා ලබාදෙන බව පවසා ගම්පොළ ප්‍රදේශයේදී පදිංචි වත්සලා චාරුනී දිසානායක නම් කාන්තාවක් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 7ක් ලැබී තිබුණු අතර එම පැමිණිලි වලට අනුව මෙම කාන්තාව වංචා කර ඇති මුදල් ප්‍රමාණය රුපියල් ලක්ෂ 40ට අධික වේ. මෙයට පෙර ගම්පොළ පොලිසිය මගින් ද ඇයට විරුද්ධව අධිකරණයේ නඩු පවරා ඇත.
+🟩
 
-ගම්පොළ පොලිසියේද සහය ඇතුව දැඩි පරිශ්‍රමයක් දැරීමෙන් අනතුරුව මෙම කාන්තාව අත්අඩංගුවට ගෙන ගම්පොළ පොලිසියේ රදවා ප්‍රශ්න කිරීම් සිදු කරන ලදී. මෙම කාන්තාව අත්අඩංගුවට ගත් බව සැලවීමෙන් පසු මෙම කාන්තාවට මුදල් ලබා දුන් තවත් පුද්ගලයන් ගම්පොළ පොලිසියට පැමිණ පැමිණිලි කර තිබේ. එම පැමිණිලි සම්බන්ධයෙන් කාර්යාංශයේ විශේෂ විමර්ශන අංශය ඉදිරියේදී විමර්ශනය කිරීමට නියමිතයි.
+A woman who was expelled from the Middle East jobs have been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment in the Gampola area on June 16th.
 
-...
+The Bureau Dissanayake has received seven complaints that a woman in the Gampola has provided jobs as an allotted jobs that Qatar and the Middle East were given jobs.. Prior to this, Gampola police have also filed a case against her.
+
+The woman arrested after the assistance of Gampola police station, the woman arrested and interrogated the Gampola police station. Other people who were funded by the woman after their arrest were taken to the Gampola police. The Special Investigation Division of the Bureau is to be investigated in the future.
+
+The suspect was produced before the Gampola Magistrate's Court yesterday (6/17) and remanded until the 6/18 today.
+
+◼️
 
 [Data](articles/c1ff1967.json)
+
+[Extended Data](ext_articles/c1ff1967.ext.json)
 
 ---
 

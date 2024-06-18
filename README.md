@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 21:04:22**
+As of **2024-06-18 21:19:17**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 5,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,988 (100.0%) of 30,990 articles have been extended.
+30,990 (100.0%) of 30,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### සර්වජන බලය 69 ලක්ෂය නුගේගොඩින් බලගන්වයි
+### The exegerage power empowers 69 point in Nugegoda
 
 *2024-06-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197896) · `si`
 
-69 ලක්ෂයේ ජනවරමට අමතන සර්වජන බලයේ පළමු ජන රැලිය අද (18) නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංගපීඨයේදී පැවැත්වුණි.
+A rally led by Ananda Samarakoon in Nugegoda aimed to empower 69 points, drawing attention to issues like the proposed Ranil Wickremesinghe Valley Bridge. Participants included MPs Udaya Gammanpila and Vasudeva Nanayakkara, along with entrepreneur Dilith Jayaweera. The event emphasized the need for Sri Lanka to transform into an entrepreneurial state, highlighting its significance beyond traditional politics.
 
-''69 ලක්ෂයක ජනතා බලාපොරොත්තු යළි බලගැන්වීම'' යන මැයෙන්  රැලිය අද පස්වරු 2ට ආරම්භ කෙරුණි.
+🟩
 
-ඊට සහභාගී වීම සඳහා සර්වජන බලය නියෝජනය කරන දේශපාලන පක්ෂ ස්ථාන 5ක සිට පාගමනින් නුගේගොඩට පැමිණ තිබුණි.
+Ananda Samarakoon was held at Ananda Samarakoon in the outdoor Theater, Nugegoda today (18).
 
-පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා ප්‍රමුඛ පිවිතුරු හෙළ උරුමය නුගේගොඩ තෙත් බිම් උද්‍යානයේ සිටත්, විමල් වීරවංශ මන්ත්‍රීවරයාගේ ජාතික නිදහස් පෙරමුණ කට්ටිය මංසන්ධියේ සිටත්, වාසුදේව නානායක්කාර මන්ත්‍රීවරයා නායකත්වය දරන ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ පාගොඩ පාරේ සිටත්, කොමියුනිස්ට් පක්ෂ නියෝජතයින් කොහුවල මංසන්ධියේ සිට පාගමනට එක්විය.
+The rally was opened at 2 pm today at the end of Sri Lanka '' '' ''65 people' hopes.
 
-ව්‍යවසායක දිලිත් ජයවීර මහතා නායකත්වය දරන මව්බිම ජනතා පක්ෂය ස්ටැන්ලි තිලකරත්න මාවතේ සිට පාගමනින් පැමිණ ජන රැලියට සම්බන්ධ වුණි.
+To participate in the meeting, the security parties representing the authentic power had reached Nugegoda.
 
-...
+Member of Parliamentarian Udaya Gammanpila, the Democratic Left Front of the National Freedom Left Front of the Nugegoda wetland, and MP Vasudeva Nanayakkara leads MP from Kohuwala junction from Kohuwala Junction.
+
+The People's Party (People's Party) led by entrepreneral Dilith Jayaweera, the People's Party, was married to the rally from Stanley Tillakaratne Mawatha.
+
+"When you build Ranil Wickremesinghe Valley Bridge, we cannot be silent. This country cannot fall this way. We are only different in this politics. This is not a traditional political meeting. This country should become an entrepreneurship state. There is no other way. "
+
+◼️
 
 [Data](articles/e20649e1.json)
 
+[Extended Data](ext_articles/e20649e1.ext.json)
+
 ---
 
-### ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත ගැන ජනපතිගේ මතය
+### President's opinion of gender equality bill
 
 *2024-06-18 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197895) · `si`
 
-ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත සම්බන්ධයෙන් අද (18) පාර්ලිමේන්තුවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදහස් පළ කිරීමෙන් පසුව උණුසුම් වාද විවාද ඇතිවුණි.
+President Ranil Wickremesinghe suggested forming a Select Committee to address concerns about the Gender Equality Bill, emphasizing its alignment with national policies and international commitments. He highlighted the importance of women's empowerment and clarified that the bill does not pertain to same-sex marriages.
 
-ජනපති - "ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ තීරණය ඔබ ප්‍රකාශයට පත්කළා නේද?"
+🟩
 
-ජනපති - "ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ මතය ?
+President Ranil Wickremesinghe was warmly arguing after commenting in parliament today (18) regarding the social equality bill.
 
-...
+President - "Did you publish the decision of the gender equality bill?"
+
+President - "Opposition of the Gelendy Equality Bill?
+
+President - "It was read by you. I need to refer to a ruled question. According to the 4th Amendment, this will violate the powers of this House. We must appoint a Select Committee on it. Since 2011, women empower women and a national policy on gender equality. These are the responsibilities of the government and agreements with the Sustainable Development Goals and women who have signed.. Some say these will allow Samarisi marriage and is a matter of it. This has nothing to do with. I recommend that we should appoint a Select Committee. Judges should not be called. We don't have that far. The majority of its members should be appointed by the Women's Political Board. "
+
+◼️
 
 [Data](articles/01451afb.json)
+
+[Extended Data](ext_articles/01451afb.ext.json)
 
 ---
 

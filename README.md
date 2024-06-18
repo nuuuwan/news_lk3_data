@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 09:05:55**
+As of **2024-06-18 09:19:18**
 
 ## Newspaper Stats
 
-*Scraped **30,876** Articles*
+*Scraped **30,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
-adalk | 2,677
+adalk | 2,678
 adaderanalk | 3,497
 tamilmirrorlk | 3,623
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,874 (100.0%) of 30,876 articles have been extended.
+30,876 (100.0%) of 30,877 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,21 +42,29 @@ The Railways Department has reported that significant train delays are expected 
 
 [Data](articles/c482a09c.json)
 
+[Extended Data](ext_articles/c482a09c.ext.json)
+
 ---
 
-### களனி கங்கையில் மிதந்த சடலம்
+### Corpse floating in Kelani Ganga
 
 *2024-06-18 08:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனி-கங்கையில்-மிதந்த-சடலம்/175-339060) · `ta`
 
-களனி கங்கையில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் ஒன்று நேற்று (17) மாலை கண்டு பிடிக்கப்பட்டுள்ளது.
+An unidentified male corpse, aged 50-60, found in the Kelani Ganga. The body, 5'6" tall, is at Colombo National Hospital's funeral room pending identification. Beliyagoda police continue investigating.
 
-குறித்த சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும்,  உயிரிழந்தவர் 50 முதல் 60 வயதுக்கு இடைப்பட்டவர் எனவும் 05 அடி 06 அங்குலம் உயரம் கொண்டவர் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-சடலம் கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், பேலியகொட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+The body of an unidentified man in the Kelani Ganga was found yesterday evening.
+
+The body has not yet been identified and the deceased is between the ages of 50 to 60 and is 05 feet 6 inches tall.
+
+The body is being kept in the funeral room of the Colombo National Hospital and the Beliyagoda police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/bad4bccc.json)
+
+[Extended Data](ext_articles/bad4bccc.ext.json)
 
 ---
 
@@ -1486,6 +1494,22 @@ Meanwhile, two persons including the accident have been injured and rushed to th
 
 ---
 
+### 69 ලක්ෂයේ බලාපොරොත්තු බලගන්වන්න ආයෙත් නුගේගොඩ රැළියක්
+
+*2024-06-17 18:26:49* · [`adalk`](https://www.ada.lk/breaking_news/69-ලක්ෂයේ-බලාපොරොත්තු-බලගන්වන්න-ආයෙත්-නුගේගොඩ-රැළියක්/11-410269) · `si`
+
+69 ලක්ෂක බලපොරොත්තු බලගන්වන තේමාව යටතේ පැවැත්වෙන සර්වජන බලය ජන රැලිය අද (18දා) නුගේගොඩ පැවැත්වීමට කටයුතු යොදා තිබේ.‍
+
+අද පස්වරු 02ට නුගේගොඩ ආනන්ද සමරකොන් එළිමහන් රංග පීඨයේදී එය ආරම්භ කිරීමට කටයුතු යොදා ඇත.
+
+මෙම අවස්ථාවට ව්‍යාපාරික  දිලිත් ජයවීර මෙන්ම විමල් වීරවංශ, උදය ගම්මන්පිල, මහාචාර්ය චන්න ජයසුමන, වීරසුමන වීරසිංහ, වාසුදේව නානායක්කාර, ගෙවිඳු කුමාරතුංග යන පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු සර්වජන බලය විධායක සභිකයන්ගේ සහභාගිත්වයෙන් මෙම ජන රැලිය පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+◼️
+
+[Data](articles/d8881d76.json)
+
+---
+
 ### Two persons arrested with wildfire
 
 *2024-06-17 18:13:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுக்கோழியுடன்-சென்ற-இருவர்-கைது/175-339034) · `ta`
@@ -2359,35 +2383,5 @@ Both trains have been involved in the dealer and more than 60 injured persons ha
 [Data](articles/f20b24f4.json)
 
 [Extended Data](ext_articles/f20b24f4.ext.json)
-
----
-
-### President says jobs
-
-*2024-06-17 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197846) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of economic policies for the country's future during a conference in Mannar, where he discussed issues with the youth and met with the local business community. He highlighted his ability to revive the economy in two years and outlined government initiatives for Mannar district's development.
-
-🟩
-
-President Ranil Wickremesinghe says that the future of the country depends on economic policies implemented in the next five years.
-
-Addressing a conference in Mannar, the President added that the country could not be carried forward without a proper economic plan.
-
-President Ranil Wickremesinghe, organized by President Ranil Wickremesinghe, was held yesterday (16) under the patronage of President Ranil Wickremesinghe.
-
-The president went out among the youths and discuss their problems.
-
-State Minister Kader Masatan, Members of Parliament Selvam Adequilatean, Northern Province Governor PSM. The political representatives of the Charles and the province were present at the occasion.
-
-Meanwhile, a meeting between President Ranil Wickremesinghe and Mannar district business community also held yesterday.
-
-Addressing the people, the President said he was able to restore the economy of the country within two years and strengthening the country's economy.
-
-...
-
-[Data](articles/c0918c96.json)
-
-[Extended Data](ext_articles/c0918c96.ext.json)
 
 ---

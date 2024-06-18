@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 13:34:55**
+As of **2024-06-18 13:54:17**
 
 ## Newspaper Stats
 
-*Scraped **30,926** Articles*
+*Scraped **30,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,686
 adaderanalk | 3,504
-tamilmirrorlk | 3,630
+tamilmirrorlk | 3,632
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,019
+adaderanasinhalalk | 5,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,926 (100.0%) of 30,926 articles have been extended.
+30,926 (100.0%) of 30,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### சிசுவுக்கு எமனான ‘சித்திரை’
+
+*2024-06-18 13:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசுவுக்கு-எமனான-சித்திரை/175-339075) · `ta`
+
+சித்திரையில் குழந்தை பிறந்ததால் குடும்பத்துக்கு ஆபத்து’ என சிலர் கூறியதால், பச்சிளம் குழந்தையை தண்ணீரில் மூழ்கடித்துக் கொன்றதாக குழந்தையின் தாத்தா கைது செய்யப்பட்டார்.
+
+அரியலூர் மாவட்டம் ஜெயங்கொண்டத்தை அடுத்த உட்கோட்டை கிராமம் வடக்கு வெள்ளாளர் தெருவைச் சேர்ந்த வீரமுத்து மகள் சங்கீதா(21). இவருக்கும், கும்பகோணத்தை அடுத்த சுந்தரபெருமாள்கோவில் கிராமத்தைச் சேர்ந்த பாலமுருகன்(29) என்பவருக்கும் ஓராண்டுக்கு முன்பு திருமணம் நடைபெற்றது.
+
+கடந்த சித்திரை மாதம் சங்கீதாவுக்கு ஆண் குழந்தை பிறந்ததால், தனது தந்தை வீட்டில் குழந்தையுடன் தங்கியிருந்தார்.
+
+இந்நிலையில், குளியலறையில் வாளி தண்ணீரில் சங்கீதாவின் குழந்தை துணியில் சுற்றப்பட்ட நிலையில் கடந்த 14-ம் திகதி அதிகாலை இறந்து கிடந்தது. தகவலறிந்த ஜெயங்கொண்டம் பொலிஸார் அங்கு சென்று குடும்பத்தினரிடம் விசாரணை நடத்தினர்.
+
+இந்நிலையில், குழந்தையை தண்ணீரில் மூழ்கடித்துக் கொன்றது, சங்கீதாவின் தந்தை வீரமுத்து என்பது தெரியவந்தது. இதையடுத்து அவரை பொலிஸார் கைது செய்தனர்.
+
+...
+
+[Data](articles/c3c01071.json)
+
+---
+
+### කොළඹ 85,000කට තවමත් වතුර නෑ
+
+*2024-06-18 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197882) · `si`
+
+කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළයේ අලුත්වැඩියා කටයුතු මේ වනවිට අවසන් කර තිබුණද ජල සැපයුම් ලක්ෂයෙන් 85,000කට පමණ තවදුරටත් ජලය නොලැබෙන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ප්‍රකාශ කළේය.
+
+නමුත් අද (18) පස්වරු 6 පමණ වන විට බොහෝ දුරට එය යථා තත්ත්වයට පත්විය හැකි බව එම මණ්ඩලය පවසයි.
+
+කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන සම්ප්‍රෙෂණ නළයේ, හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී මෝටර් රථයක් ගැටී ඊයේ (17) අලුයම අනතුරක් සිදුව තිබිණි.
+
+අනතුරින් පසු ජල නළය පුපුරා යෑමෙන් දැවැන්ත ජල කාන්දුවක් එම ස්ථානයේ ඇතිවිය.
+
+සිදුවූ ජල කාන්දුව නිසා කලටුවාවේ සිට අදාළ නළය ඔස්සේ සිදුකරන ජල සැපයුම නතර කර අලුත්වැඩියා කටයුතු ආරම්භ කිරීමට  ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ඊයේ උදෑසන පියවර ගනු ලැබීය.
+
+ඒ හේතුවෙන් ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවලට ජල සැපයුම අඩාළවුණි.
+
+අද අලුයම 4වන විට අලුත්වැඩියා කටයුතු අවසන් කෙරුණු බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
+
+...
+
+[Data](articles/3d4fd684.json)
+
+---
+
+### ஆர்ப்பாட்டக்காரர்கள் மீது  நீர்த்தாரை பிரயோகம்
+
+*2024-06-18 13:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டக்காரர்கள்-மீது-நீர்த்தாரை-பிரயோகம்/175-339074) · `ta`
+
+◼️
+
+[Data](articles/1c0ccf91.json)
+
+---
 
 ### Our sea for banned with Indian fishermen
 
@@ -2253,73 +2307,5 @@ As Sri Lanka gets ready for another Presidential election to choose the country�
 [Data](articles/944ae966.json)
 
 [Extended Data](ext_articles/944ae966.ext.json)
-
----
-
-### Housing rights for 250,000 low income families in Colombo
-
-*2024-06-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197858) · `si`
-
-President Ranil Wickremesinghe plans to grant freehold ownership to 250,000 low-income families in Colombo within a month. This initiative follows his recent deed distribution to 1,524 colonists in the Mahaweli region. He emphasizes the importance of shared prosperity and addressing the needs of the general populace during challenging times.
-
-🟩
-
-President Ranil Wickremesinghe says he will take measures to provide freehold ownership of the low income families in Colombo in the coming month.
-
-The President was revealed at the Embilipitiya Mahaweli Stadium today (17).
-
-President Ranil Wickremesinghe today conducted a program to provide deeds to 1,524 colonists in the Mahaweli in Mahaweli under the patronage of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/600970f0.json)
-
-[Extended Data](ext_articles/600970f0.ext.json)
-
----
-
-### Exploring dynamic tax environment: Contemporary issue for SME
-
-*2024-06-17 20:02:17* · [`dailyftlk`](https://www.ft.lk/columns/Exploring-dynamic-tax-environment-Contemporary-issue-for-SME/4-763169) · `en`
-
-SMEs play a pivotal role in the economic development of the nation. Hence, priority should be provided to SMEs whenever new policies are articulated
-
-Tax is an important source of revenue stream of any economy as it contributes significantly to national revenue. Amounting to approximately 88% of total national revenue, tax revenue is then utilised by the Sri Lankan Government to settle ongoing national loans, recurrent expenditures, and capital expenditures. Tax systems in Sri Lanka have undergone significant changes since inception of the taxation policies. In late 2019, the tax revenue drastically dropped due to the new policies articulated by the Government. The situation worsened during the COVID pandemic in 2020 until recovery.
-
-...
-
-[Data](articles/ef0e98e3.json)
-
-[Extended Data](ext_articles/ef0e98e3.ext.json)
-
----
-
-### 2022 -2024 Historical Rules
-
-*2024-06-17 20:01:59* · [`adalk`](https://www.ada.lk/breaking_news/2022--2024-නීති-නිසා-ඉතිහාසගත-වෙයි/11-410276) · `si`
-
-Between 2022 and 2024, significant legislative reforms were undertaken in Sri Lanka, with 59 laws passed and 273 legal drafts prepared. The Ministry of Justice and Constitutional Reforms focused on digitizing the judicial system and increasing the efficiency of the courts, leading to quicker resolutions and a better investment climate. Additionally, efforts were made to recruit more judicial officers and establish new courts, including commercial and investment courts, to address specific dispute types.
-
-🟩
-
-2022- 2024 The Secretary to the Ministry of Justice and Constitutional Reforms have been made as his timely as a time when the highest number of legitives were carried out in the country.. N. He said, "Ranasinghe said.
-
-59 law reforms have been passed in parliament since 2022, with regard to the subject of the Ministry of Justice.
-
-Secretary to the Ministry of Justice, Prison and Constitutional Reforms. N. He was speaking at a press conference held at the press conference at the Presidential Media Center today (17) at the Presidential Media Center.
-
-He said that the Law Draftsmen were prepared by the Legal Draftsmen as 273 and 299 languages ​​in 2022 to draft the legal laws in each Ministry.
-
-Secretary to the Ministry of Justice, Prison and Constitutional Reforms. N. Mr. Ranasinghe said,
-
-The Ministry of Justice and Constitutional Reforms have made great strides during the last two years of law reform.
-
-Historically made his time as a time when the highest number of law reforms were carried out.
-
-...
-
-[Data](articles/21111630.json)
-
-[Extended Data](ext_articles/21111630.ext.json)
 
 ---

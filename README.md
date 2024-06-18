@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 05:04:19**
+As of **2024-06-19 05:19:30**
 
 ## Newspaper Stats
 
-*Scraped **31,024** Articles*
+*Scraped **31,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,792
-dailyftlk | 1,894
+dailyftlk | 1,895
 adalk | 2,703
 adaderanalk | 3,515
 tamilmirrorlk | 3,645
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,019 (100.0%) of 31,024 articles have been extended.
+31,019 (100.0%) of 31,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### SriLankan Airlines: Navigating a new era through privatisation
+
+*2024-06-19 04:57:34* · [`dailyftlk`](https://www.ft.lk/opinion/SriLankan-Airlines-Navigating-a-new-era-through-privatisation/14-763231) · `en`
+
+The infusion of private capital and expertise presents a unique opportunity to address longstanding issues and set the airline on a path to sustainable growth
+
+The Sri Lankan Government is considering a transformative move by privatising SriLankan Airlines, the nation’s beleaguered flag carrier. If this strategic plan proceeds, it could potentially act as a catalyst for revitalising the airline, which has faced financial woes, operational inefficiencies, and competitive pressures for over a decade. This analytical piece explores the potential outcomes of privatisation, the possible benefits, and the strategic roadmap that could be implemented by new private management.
+
+...
+
+[Data](articles/f93f3ac9.json)
+
+---
 
 ### MendisOne elevates standards of excellence with ISO 9001:2015 certification
 
@@ -2359,27 +2373,5 @@ He said that this was a special statement in Parliament, the President wanted to
 [Data](articles/3e979100.json)
 
 [Extended Data](ext_articles/3e979100.ext.json)
-
----
-
-### Rain back tomorrow
-
-*2024-06-18 12:12:32* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-ආයෙත්-වැස්ස-වැඩි-වෙයි/11-410283) · `si`
-
-Expect heavy rain across the southwest island tomorrow, especially in the Western, Sabaragamuwa, and North Western provinces. Thundershowers also predicted in Ampara and Batticaloa districts.
-
-🟩
-
-The southwest part of the island is expected to be expecting a rainy industry at the next few days tomorrow (19).
-
-Thundershowers will occur in the Western, Sabaragamuwa and North Western provinces, and in some places in the Western and Sabaragamuwa Districts.. The department is expected to experience more than 75 times.
-
-The Department of Departments say that showers or thundershowers in the Ampara and Batticaloa districts of Ampara and Batticaloa districts can occur.
-
-◼️
-
-[Data](articles/016fc069.json)
-
-[Extended Data](ext_articles/016fc069.ext.json)
 
 ---

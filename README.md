@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 21:54:13**
+As of **2024-06-18 22:07:50**
 
 ## Newspaper Stats
 
-*Scraped **30,992** Articles*
+*Scraped **30,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,513
 tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,774
-adaderanasinhalalk | 5,034
+adaderanasinhalalk | 5,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,992 (100.0%) of 30,992 articles have been extended.
+30,992 (100.0%) of 30,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### පොලීසියේ ඉලක්කය වැරදී පාරේ ගිය ජනතාවටත් ජල ප්‍රහාර
+
+*2024-06-18 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197897) · `si`
+
+පොල්දූව මංසන්ධියෙන් පාර්ලිමේන්තු මාර්ගයට ඇතුළුවීමට උත්සාහ කළ රැකියා විරහිත උපාධාධාරීන්ගේ විරෝධතාවයට පොලීසිය අද (18) ජල සහ කඳුළු ගෑස් ප්‍රහාර එල්ල කළේය.
+
+"රැකියාව අයිතියක්" යන තේමාව යටතේ සියලු රැකියා විරහිත උපාධිධාරීන්ට වහා රැකියා ලබාදෙන ලෙස ඉල්ලමින් රැකියා විරහිත උපාධිධාරීන් බත්තරමුල්ල දියත උයන ඉදිරිපිට අද දහවල් මෙම විරෝධතාවයේ නිරත වුණි.
+
+ඔවුන් පෙන්වා දුන්නේ උපාධිධාරීන් 40,000ක් පමණ මෙරට රැකියා නොමැතිව සිටින බවය.
+
+කෙසේවෙතත්, විරෝධතාකරුවන් විසිර නොයෑම නිසා පොලීසිය ජල හා  කඳුළු ගෑස් ප්‍රහාර එල්ල කර තිබුණි.
+
+මාර්ගයේ ධාවනය කළ මෝටර් රථවලට හා භාණ්ඩ හා ලිපිද්‍රව්‍ය ප්‍රවාහන සේවා සපයන යතුරුපැදිවලට පවා එහිදී ජල ප්‍රහාර එල්ල විය.
+
+◼️
+
+[Data](articles/e4288df4.json)
+
+---
 
 ### Japan reports record spike in flesh-eating bacterial infections
 
@@ -2395,31 +2415,5 @@ Nandana Ranasinghe has warned that a series of strike will be carried out if the
 [Data](articles/23f1c51a.json)
 
 [Extended Data](ext_articles/23f1c51a.ext.json)
-
----
-
-### What are the military camps removed from the North and East?
-
-*2024-06-18 09:33:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy00dj5mk4do) · `si`
-
-In post-war Sri Lanka, significant military camps in the North and East have been decommissioned. Key among these are the Kilinochchi Defense Army Headquarters and Mullaitivu Security Forces Headquarters, transferred to the Jaffna Security Forces Headquarters. This move reflects broader efforts to return lands to civilians, with notable progress in the Northern Province, where 63,872.91 acres have been released, leaving 13.46% still under military control. In contrast, the Eastern Province lags behind, with only 28.30% of its land returned. Despite these advancements, concerns remain about the continued presence of security forces on civilian lands and the slow pace of compensation for displaced individuals.
-
-🟩
-
-The end of the war in Sri Lanka, 2024 years have passed since the year 2024. The northern and eastern politicians of the North and the East and the government politicians have been released to the first residents of the North and East. However, the procedure has been reduced to 15 years in the face of local and international demands, however, is currently underway.
-
-May 18: 15 years of war and reconciliation committee to hear from Mullivaik coast: 'The drama' is part of this to show this to Geneva
-
-Two major security arrangements have been removed from the Northern Province Headquarters in the Northern Province.
-
-Accordingly, Kilinochchi Defense Army Headquarters, Kilinochchi Defense Force Headquarters and the Headquarters of Kilinochchi Defense Forces Headquarters has been handed over to the Jaffna Security Forces Headquarters.
-
-Major General Dinesh Nanayakkara is the Commander Commander Commander of the Wanni Defense and the Commander Commander Commander of Jaffna.
-
-...
-
-[Data](articles/049d437e.json)
-
-[Extended Data](ext_articles/049d437e.ext.json)
 
 ---

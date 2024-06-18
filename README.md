@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 13:04:20**
+As of **2024-06-18 13:19:13**
 
 ## Newspaper Stats
 
-*Scraped **30,922** Articles*
+*Scraped **30,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,685
-adaderanalk | 3,503
+adalk | 2,686
+adaderanalk | 3,504
 tamilmirrorlk | 3,630
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,017
+adaderanasinhalalk | 5,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,922 (100.0%) of 30,922 articles have been extended.
+30,922 (100.0%) of 30,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### ඉන්දීය ධීවරයින්ට තහනම් වූ අපේ මුහුද
+
+*2024-06-18 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197881) · `si`
+
+මෙරට මුහුදු සීමාවේ අනවසර ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 180කට අධික සංඛ්‍යාවක් මේ වසරේ ගත වූ මාස කිහිපය තුළ අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ අනුව ඉන්දීය ධීවරයින් 182 දෙනෙකු ගත වූ මාස කිහිපයක තුළ අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසීය.
+
+එමෙන්ම ඔවුන් පැමිණි ධීවර යාත්‍රා 24ක් ද නාවික හමුදා භාරයට ගෙන ඇත.
+
+අද (18) අලුයම යාපනය, ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමක් අතර තුරදී ද මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී එම ධීවරයින් පැමිණි යාත්‍රාව ද නාවික හමුදා භාරයට ගෙන ඇති බව සඳහන්ය.
+
+අත්අඩංගුවට ගත් ධීවර යාත්‍රාව සහ එහි ධීවරයින් කන්කසන්තුරය වරාය වෙත රැගෙන ආ අතර ඔවුන් ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/edfea55b.json)
+
+---
+
+### රජරට බලා පොසොන් වන්දනාවේ බැතිමතුන්ට විශේෂ දැනුම්දීමක්
+
+*2024-06-18 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197880) · `si`
+
+පොසොන් පොහොය නිමිත්තෙන් රජරට බලා වන්දනාවේ පැමිණෙන බැතිමතුන් වෙත ජාතික නාමල් උයනේ නිර්මාතෘ, වනවාසී රාහුල හිමියන් විසින් විශේෂ ඉල්ලීමක් සිදුකර තිබේ.
+
+අනුරාධපුරයේ අටමස්ථානය, මිහින්තලය වැනි  ප්‍රධාන විහාරස්ථාන පොසොන් පොහොය දිනට ජාති ආගම් භේදයකින් තොරව ලංකාවාසී සියලු ජනතාවගෙන් පිරී ඉතිරී යයි.
+
+මෙලෙස වන්දනාවේ පැමිණෙන වන්දනාකරුවන් පොලිතීන් භාවිතයෙන් බැහැරව සිය ආගමිකවතාවත්හි නිරතවන ලෙස උන්වහන්සේ මෙහිදී බැතිමතුන්ගෙන් ඉල්ලා සිටී.
+
+එහි දී වැඩිදුරටත් අදහස් දැක්වූ නාමල් උයනේ නිර්මාතෘ, වනවාසී රාහුල හිමියන්,
+
+...
+
+[Data](articles/dcdbf182.json)
+
+---
 
 ### Another woman who has defrauded foreign employment
 
@@ -59,6 +99,18 @@ The suspect was produced before the Gampola Magistrate's Court yesterday (17) an
 [Data](articles/4f832bc1.json)
 
 [Extended Data](ext_articles/4f832bc1.ext.json)
+
+---
+
+### Police fire water cannons at protesting unemployed grads
+
+*2024-06-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99946/police-fire-water-cannons-at-protesting-unemployed-grads) · `en`
+
+Police used water cannons to disperse a group of unemployed graduates protesting near the Diyatha Uyana at the Parliament Road Junction.
+
+◼️
+
+[Data](articles/7ab6a424.json)
 
 ---
 
@@ -219,6 +271,22 @@ From 1959 to 1975, 31 people were executed.42 people were executed from 1969 to 
 [Data](articles/8df590cd.json)
 
 [Extended Data](ext_articles/8df590cd.ext.json)
+
+---
+
+### ඩලස් හා දයාසිරිගේ කණ්ඩායම් සජිත් සමග එක්වෙන්න සාකච්ඡා
+
+*2024-06-18 11:23:06* · [`adalk`](https://www.ada.lk/breaking_news/ඩලස්-හා-දයාසිරිගේ-කණ්ඩායම්-සජිත්-සමග-එක්වෙන්න-සාකච්ඡා/11-410281) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඩලස් අලහප්පෙරුම මහතාගේ කණ්ඩායම සහ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ කණ්ඩායම සමගි ජන බලවේගය සමග සන්ධාන ගතවීම සම්බන්ධයෙන් සාකච්ඡා පවත්වන බවත්, එම සාකච්ඡා සාර්ථක වනු ඇති බවට තමා විශ්වාස කරන බවත් එම පක්ෂයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා පැවසීය.
+
+ඊයේ(17දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/816d5e46.json)
 
 ---
 
@@ -2229,117 +2297,5 @@ Historically made his time as a time when the highest number of law reforms were
 [Data](articles/21111630.json)
 
 [Extended Data](ext_articles/21111630.ext.json)
-
----
-
-### Rs.. 573 left
-
-*2024-06-17 19:51:40* · [`adalk`](https://www.ada.lk/breaking_news/Geo-Goviya-නිසා-රු-මි--573ක්-ඉතිරි-වෙලා/11-410275) · `si`
-
-The government has successfully recovered the correct land ownership details from farmers, thanks to the Geo-Goviya app. This app, part of a broader initiative to modernize agriculture in Sri Lanka, aids in providing subsidies and other aid like fertilizer relief. The Department of Agrarian Development has completed mapping through this app, revealing 1.91 million hectares of land, with 1.38 million farmers registered.
-
-🟩
-
-The government has saved Rs.
-
-Accordingly, the applicant has accurately recovered the actual amount of land owned by the farmers and that most of the land quantified in the deed of the application, the number of land owned in the deed is uncovered.
-
-According to the Geo-Goviya deployment, the GEO-Goviya app confirmed by the Geo-Goviya application to provide subsidies confirmed by the GEO-goviya apparatus in order to pay the fertilizer relief and other assistance.
-
-The Department of Agrarian Development has already begun accurately mapping GEO-goviya app.  ඒ අනුව එම දෙපාර්තමේන්තුව විසින් මැනීම් කටයුතු  අවසන් කර ඇති කුඹුරු ඉඩම් ප්‍රමාණය හෙක්ටයාර් මිලියන 1.91ක් වන අතර ගොවීන් මිලියන 1.38ක් යෙදවුම මගින් ලියාපදිංචි වී ඇත.
-
-The Geo-Goviya app has been introduced under the program to introduce new technology for agriculture in Sri Lanka and the services provided to agriculture and the services provided by the Department of Agrarian Development.
-
-◼️
-
-[Data](articles/d374c6a9.json)
-
-[Extended Data](ext_articles/d374c6a9.ext.json)
-
----
-
-### Sugarchandhi arrested for selling nakedness to China
-
-*2024-06-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197857) · `si`
-
-Sugarchandhi was arrested for allegedly selling explicit content to China, endangering the nation's youth and children. The Ada Derana news outlet highlighted the incident to safeguard the public from such deceptive practices. The arrest follows revelations of a significant societal decline, with live sex scenes broadcasted online for profit. Four individuals, all under 30, were apprehended after being linked to a Chinese company via Facebook. They admitted to earning over Rs. 100,000 weekly from these activities. The police found numerous devices used for recording and viewing explicit material. This case underscores the importance of Ada Derana in combating future illicit acts.
-
-🟩
-
-The Ada Derana will be revealed to the country to protect the public by such fraudulent and invaluable acts.
-
-A giant social decline leading to our country today reveals today to prevent the youth and children of this country to prevent this.
-
-The sex scenes are lived live on the Internet and claim a racket to make money on a large scale.
-
-The traffickers were searching for the traffickers, "Derana," Derana, "departed to Derana, Batakethara, Batakuwa.
-
-A Piliyandala OIC Chief Inspector Dinesh Akuragama and OIC Chief Inspector General Inspector Sanjeewa Aluthgedara is also present.
-
-When we arrived at the house, we also had a couple and another couple in the law and capture another couple in the law.
-
-They had taken this house to the rented house a few years ago.
-
-But it really has happened that they had done various sexual activities into the home of various sexes and releasing their money online.
-
-The suspects have identified this Chinese company through Facebook and later released these scenes live.
-
-...
-
-[Data](articles/1d640396.json)
-
-[Extended Data](ext_articles/1d640396.ext.json)
-
----
-
-### New railway line from Mihintale to Trincomalee
-
-*2024-06-17 19:35:41* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලය-සිට-ත්‍රිකුණාමලයට-නව-දුම්රිය-මාර්ගයක්/11-410274) · `si`
-
-Minister Runayake Wickremesinghe announced a new railway line from Mihintale to Trincomalee, aiming to boost trade between the North Central and Eastern provinces and Colombo. This initiative, part of a broader plan to upgrade the Northern Railway Line, includes establishing a bulk exchange center for agricultural products. The project, funded in part by an Indian loan, aims to improve connectivity and economic development, mirroring the prosperity of the ancient Anuradhapura kingdom.
-
-🟩
-
-Runayake Wickremesinghe has allocated Rs.
-
-The Minister was speaking at the opening of the train traffic from Anuradhapura to Mihintale.
-
-The train commenced the main event of the Chief of Pallegama Hemanarathana Leaders of Pallegama.
-
-Speaking further Minister Bandula Gunawardena said.
-
-"Imported to Colombo from foreign countries. The objective of translating the Mihintale to the export of the North Central and Eastern provinces and the export of goods in the North Central and Eastern Provinces and the export of goods produced in these provinces will be translated into Colombo.
-
-The plan also includes the establishment of a bulk exchange center exchanged as consignment of farming products.
-
-Our aim is to develop the economic unurirate city like the central developed city of the Anuradhapura kingdom of Anuradhapura.
-
-...
-
-[Data](articles/06b19ea9.json)
-
-[Extended Data](ext_articles/06b19ea9.ext.json)
-
----
-
-### Motorcycle accidentTwo injury
-
-*2024-06-17 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186312) · `ta`
-
-In a motorcycle accident on Lunugala's Hoppon 154th Mile Street, two individuals aged 49 and 50 from Aselapura and Hindagoda Badulla were seriously injured. They were transported to the Badulla General Hospital after initial treatment at the Hoppon Divisional Hospital.
-
-🟩
-
-Lunugala police said that two people were admitted to hospital after being seriously injured when a motorcycle was left on the road on Monday evening (17) evening at the Hoppon 154th Mile Street on the Lunugalai Pasarai road.
-
-Two people from Aselapura and Hindagoda Badulla, aged 49,50, were injured.
-
-A motorcycle traveling from Lunugala to Badulla has been transferred to the Badulla General Hospital after being admitted to the Hoppon Divisional Hospital after being admitted to the Hoppon Divisional Hospital after he was seriously injured.
-
-◼️
-
-[Data](articles/5126dd35.json)
-
-[Extended Data](ext_articles/5126dd35.ext.json)
 
 ---

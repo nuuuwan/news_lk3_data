@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 16:06:26**
+As of **2024-06-18 16:19:23**
 
 ## Newspaper Stats
 
@@ -26,57 +26,71 @@ adaderanasinhalalk | 5,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,953 (100.0%) of 30,956 articles have been extended.
+30,956 (100.0%) of 30,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### ලොව වේගවත්ම T20 ශතකය වාර්තා කෙරෙයි
+### World's fastest T20 century records
 
 *2024-06-18 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197888) · `si`
 
-එස්ටෝනියා කණ්ඩායමේ සාහිල් චව්හාන් ලොව වේගවත්ම T20 ශතකය රැස්කළ ක්‍රීඩකයා බවට පත්විය.
+Estonia's cricket team set a new world record for the fastest T20 century, scoring it in just 27 balls against Cyprus. This surpassed Jan Nicol Loftie-Eaton's previous record of 33 balls, which stood for only four months. The match took place in Cyprus, where five Sri Lankan players represented the host team. Despite Cyprus' strong start with 191 runs in seven overs, Estonia secured victory with 194 runs in 13 overs.
 
-ඒ සයිප්‍රස් කණ්ඩායමට එරෙහිව පන්දු 27කදී සිය ශතකය වාර්තා කරමිනි.
+🟩
 
-මීට පෙර ලොව වේගවත්ම T20 ශතකය වාර්තා කර සිටියේ නැමීබියාවේ Jan-Nicol Loftie Eaton ය. ඔහු පන්දු 33කින් සිය ශතකය වාර්තා කළේය. ඔහුගේ ලෝක වාර්තාව පැවතියේ මාස 4ක් පමණි.
+The Estoniah group became the player who scored the fastest T20 century in the world.
 
-සයිප්‍රස් කණ්ඩායම සහ එස්ටෝනියාව අතර මෙම 20යි 20 තරගය ඊයේ (17) පැවැත්වුණේ සයිප්‍රසයේ Episkopi හීදීය.
+His centuries recorded in 27 balls against the Cyprus.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් සයිප්‍රස් කණ්ඩායම පන්දු ඕවර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 191ක් රැස් කළේය.
+Earlier, the fastest T20 century in the world reportedly jan-nicol loftie eatie. He scored his century in 33 balls. His world record was only for 4 months.
 
-සයිප්‍රසය වෙනුවෙන් ශ්‍රී ලාංකික ක්‍රීඩකයින් 5 දෙනෙක් ක්‍රීඩා කිරීම විශේෂත්වයකි.
+The 20 and 20 match between Cyprus team and Estonia were held yesterday (17) at Episkopi in Cyprus.
 
-බුද්ධික මහේෂ්, මංගල ගුණසේකර, චමල් සඳුන්, අකිල කලුගල සහ සචිත්‍ර පතිරණ එම ක්‍රීඩකයින් වෙයි.
+The cyprus scored 191 runs for the loss of 7 wickets in their seven wickets in their seven overs.
 
-ඊට පිළිතුරු ලෙස එස්ටෝනියා කණ්ඩායම පන්දු ඕවර 13කදී කඩුලු 4ක් දැවී ලකුණු 194ක් ලබාගනිමින් තරගය පහසුවෙන් ජයගත්තේය.
+Five Sri Lankan players play for Cyprus.
+
+Buddhika Mahesh, Mangala Gunasekara, Chamal Sandun, Akila Kalugala and Sachithra Pathirana are the players.
+
+In response, the Estonia won the match with 194 runs for the loss of 4 wickets in 13 overs.
 
 ◼️
 
 [Data](articles/41f3d84e.json)
 
+[Extended Data](ext_articles/41f3d84e.ext.json)
+
 ---
 
-### 2024 දෙවැනි විදුලි ගාස්තු සංශෝධනය පිළිබද මහජන අදහස් විමසීම
+### Public Commenting on Second Electricity tariff revision
 
 *2024-06-18 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197887) · `si`
 
-2009 අංක 20 දරන විදුලිබල පනතේ 30වන වගන්තියට අනුකූලව බෙදාහැරීම් බලපත‍්‍රලාභියා (ලංකා විදුලි බල මණ්ඩලය) විසින් 2024 වර්ෂය සදහා යෝජනා කර ඇති දෙවැනි විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන අදහස් ලබා ගැනීමට (මහජන උපදේශනය) ශ‍්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව තීරණය කර තිබේ.
+The Ceylon Electricity Board (CEB), as per the Electricity Act, seeks public opinion on its second electricity tariff revision through People's Counseling. The Public Utilities Commission allows public acceptance of the proposed tariffs until July 8, 2024, with a video conference scheduled for July 9, 2024. Final decisions will be announced on July 15, 2024.
 
-ලංකා විදුලි බල මණ්ඩලය විසින් ශ‍්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාවට ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව සමාලෝචනය කරමින් පවතින අතර ඊට අදාළ උපදේශන පත‍්‍රිකාව www.pucsl.gov.lk වෙබ් අඩවියට පිවිස පරිශිලනය කළ හැකිය.
+🟩
 
-යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජනතාවගේ ලිඛිත අදහස් හා යෝජනා 2024 ජූලි 08 වන දින දක්වා බාර ගන්නා බව මහජන උපයෝගිතා කොමිෂන් සභාව පවසයි.
+The Distributor Licensee (CEB) in accordance with Section 30 of the Electricity Act No. 20 of 2009 has been decided to obtain public opinion on the second electronic tariff revision (People's Counseling).
 
-මෙම ගාස්තු සංශෝධනය සම්බන්ධයෙන් වාචික අදහස් දැක්වීමේ අවස්ථාව 2024 ජූලි 09 වනදා පැවැත්වේ.
+The Ceylon Electricity Board (CEB) has reviewed the proposal proposal to the Public Utilities Commission to the Sri Lanka Public Utilities Commission.
 
-2002 අංක 35 දරන ශ‍්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභා පනතේ 17 වන වගන්තිය යටතේ කොමිෂන් සභාව වෙත පැවරී ඇති බලතල ප‍්‍රකාරව මෙම මහජන උපදේශනය පවත්වනු ලැබේ.
+The Public Utilities Commission states that the public will accept the proposed telecommunication tariffs until July 08, 2024.
 
-මහජන අදහස් විමසීම අවසන් වූ පසු, කොමිෂන් සභාව 2024 ජූලි 15 වනදා අවසාන තීරණය ප‍්‍රකාශයට පත් කිරීමට නියමිතය.
+Videological comments will be held on July 9, 2024.
+
+The public consultancy is conducted in accordance with the powers vested in the Commission under Section 17 of the Public Utilities Commission of Sri Lanka Utilities Commission Act No 35 of 2002.
+
+Upon completion of public views, the Commission will declare the final decision on July 15, 2024.
+
+Written ideas and suggestions in the proposed tariff revision can be submitted along the following address or following ways.
 
 ...
 
 [Data](articles/19d69ff1.json)
+
+[Extended Data](ext_articles/19d69ff1.ext.json)
 
 ---
 
@@ -1544,21 +1558,29 @@ Nandana Ranasinghe has warned that a series of strike will be carried out if the
 
 ---
 
-### උතුර සහ නැගෙනහිර පළාත් වලින් ඉවත් කළ හමුදා කඳවුරු මොනවා ද?
+### What are the military camps removed from the North and East?
 
 *2024-06-18 09:33:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy00dj5mk4do) · `si`
 
-ශ්‍රී ලංකාවේ පැවති යුද්ධය අවසන් වී 2024 වර්ෂයට වසර 15 ක් ගතව තිබේ. වසර ගණනාවක සිට උතුර සහ නැගෙනහිර ජනතාවගේ මෙන්ම උතුරේ දේශපාලනඥයින්ගේ ප්‍රමුඛ ඉල්ලීමක්ව පැවතියේ ආරක්ෂක අංශ සතුව ඇති උතුර සහ නැගෙනහිර  ජනතාවගේ ඉඩම් නැවත මුල් පදිංචිකරුවන්ට මුදා හැරීමය. කෙසේ වෙතත් දේශීය සහ ජාත්‍යන්තර ඉල්ලීම් හමුවේත් වසර 15 ක් පුරා අතිශය මන්දගාමීව පැවති මෙම ක්‍රියාදාමය හදිසි පිබිදීමකින් මේ වන විට සිදුවෙමින් ඇත.
+In post-war Sri Lanka, significant military camps in the North and East have been decommissioned. Key among these are the Kilinochchi Defense Army Headquarters and Mullaitivu Security Forces Headquarters, transferred to the Jaffna Security Forces Headquarters. This move reflects broader efforts to return lands to civilians, with notable progress in the Northern Province, where 63,872.91 acres have been released, leaving 13.46% still under military control. In contrast, the Eastern Province lags behind, with only 28.30% of its land returned. Despite these advancements, concerns remain about the continued presence of security forces on civilian lands and the slow pace of compensation for displaced individuals.
 
-මැයි 18: වසර 15ක් මුල්ලිවයික්කාල් වෙරළ තීරයෙන් ඇසෙන යුද්ධයේ අමිහිරි දෝංකාරයසත්‍ය හා ප්‍රතිසන්ධාන කමිටුව: ‘මේක ජිනීවාවලට පෙන්වන්න හදන නාටකයේ කොටසක්’
+🟩
 
-උතුරු පළාතේ පැවති ආරක්ෂක සේනා මූලස්ථාන අතුරින් ප්‍රධාන ආරක්ෂක සේනා මූලස්ථාන දෙකක් මේවන විට ඉවත් කර තිබේ.
+The end of the war in Sri Lanka, 2024 years have passed since the year 2024. The northern and eastern politicians of the North and the East and the government politicians have been released to the first residents of the North and East. However, the procedure has been reduced to 15 years in the face of local and international demands, however, is currently underway.
 
-ඒ අනුව කිලිනොච්චිය ආරක්ෂක සේනා මූලස්ථානය හා මුලතිව් ආරක්ෂක සේනා මූලස්ථානය යන නම් ඉවත් කර‍ කිලිනොච්චිය ආරක්ෂක සේනා මූලස්ථානය සතුව පැවති කඳවුරු කොටසක් යාපනය ආරක්ෂක සේනා මූලස්ථානය වෙත හා තවත් කොටසක් වන්නි ආරක්ෂක සේනා මූලස්ථානය  වෙත පවරා දී ඇත.
+May 18: 15 years of war and reconciliation committee to hear from Mullivaik coast: 'The drama' is part of this to show this to Geneva
+
+Two major security arrangements have been removed from the Northern Province Headquarters in the Northern Province.
+
+Accordingly, Kilinochchi Defense Army Headquarters, Kilinochchi Defense Force Headquarters and the Headquarters of Kilinochchi Defense Forces Headquarters has been handed over to the Jaffna Security Forces Headquarters.
+
+Major General Dinesh Nanayakkara is the Commander Commander Commander of the Wanni Defense and the Commander Commander Commander of Jaffna.
 
 ...
 
 [Data](articles/049d437e.json)
+
+[Extended Data](ext_articles/049d437e.ext.json)
 
 ---
 

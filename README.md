@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 17:04:24**
+As of **2024-06-18 17:19:21**
 
 ## Newspaper Stats
 
-*Scraped **30,962** Articles*
+*Scraped **30,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,692
-adaderanalk | 3,510
-tamilmirrorlk | 3,633
+adalk | 2,694
+adaderanalk | 3,511
+tamilmirrorlk | 3,635
 dailymirrorlk | 4,733
 virakesarilk | 4,767
 adaderanasinhalalk | 5,028
@@ -26,53 +26,113 @@ adaderanasinhalalk | 5,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,960 (100.0%) of 30,962 articles have been extended.
+30,962 (100.0%) of 30,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### නීතිපතිගේ කාලය දිගු කිරීමට ජනපති ගෙනආ යෝජනාව පරාජය වෙයි
+### කහතුඩුව පොලිසියේ දුරකතන ක්‍රියාකරුට  කොස්තාපල්වරයා පොලිස් බැරැක්කය තුළදී වෙඩි තියන්න හදල
+
+*2024-06-18 16:54:17* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-පොලිසියේ-දුරකතන-ක්‍රියාකරුට--කොස්තාපල්වරයා-පොලිස්-බැරැක්කය-තුළදී-වෙඩි-තියන්න-හදල/11-410293) · `si`
+
+කහතුඩුව පොලිස් ස්ථානයේ ඊයේ  (17) දා රාත්‍රී රාජකාරි භාරව සිටි දුරකථන ක්‍රියාකරුට තනිකඩ භට නිවාසය තුළදී  පිස්තෝල ගිනි අවියකින් වෙඩිතැබීමට උත්සාහ කළ එදින උප සේවා රාජකාරී භාරව සිටි කොස්තාපල්වරයා පිස්තෝල ගිනි අවියද සමග අද(18) දා  අත්අඩංගුවට ගත් බව කහතුඩුව පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කහතුඩුව පොලිස් ස්ථානයට අනුයුක්තව සේවයේ නිරතව සිටි හොරන්පැල්ල ප්‍රදේශයේ පදිංචි පොලිස් කොස්තාපල් වරයකු  බව පොලීසිය කියයි.
+
+මෙම නිලධාරියා අද අලුයම උපසේවා  රාජකාරියේ නිරතව සිටියදී පුද්ගලයෙකුගේ මරණයක් සම්බන්ධයෙන් පැමිණිල්ලක් ඉදිරිපත් කිරීම සඳහා පුද්ගලයෙකු පැමිණ තිබේ.එම අවස්ථාවේදී උප සේවා භාරව සිටි මෙම නිලධාරියා රාජකාරි පුටුව මත නිදාගෙන සිටීම නිසා  ඔහු අවදි කිරීමට අවස්ථා කිහිපයකදී යාබදව රාජකාරියේ නිරතව සිටි දුරකථන ක්‍රියාකරු උත්සාහ කළත් එය ව්‍යාර්ථ වීම නිසා රාත්‍රී රාජකාරී භාරව සිටි  පොලිස් සැරයන් වරයකුට දන්වා තිබේ. පසුව එම නිලධාරියාද  පැමිණ උපසේවා නිලධාරියා අවදි කිරීමට උත්සාහ කලත් එය ව්‍යර්ථ වීම නිසා අදාල පැමිණිල්ල පොලිස් සැරයන් වරයා විසින් ලියා තබා සිද්ධිය සම්බන්ධයෙන් CIB සටහනක් තබා තිබේ.
+
+...
+
+[Data](articles/76a2c829.json)
+
+---
+
+### சட்டமா அதிபருக்கு சேவை நீட்டிப்பு இல்லை
+
+*2024-06-18 16:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபருக்கு-சேவை-நீட்டிப்பு-இல்லை/175-339081) · `ta`
+
+சட்டமா அதிபரான ஜனாதிபதி சட்டத்தரணி  சஞ்சய் ராஜரத்தினத்திற்கு ஆறு மாத கால சேவையை நீடிக்குமாறு அரசியலமைப்பு பேரவைக்கு ஜனாதிபதி விடுத்திருந்த பரிந்துரை இன்று (18) நிராகரிக்கப்பட்டுள்ளது.
+
+அரசியலமைப்பு பேரவை சபாநாயகர் மஹிந்தய யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற கட்டிடத் தொகுதியில் இன்று மாலை கூடியது.
+
+◼️
+
+[Data](articles/fef5a1b5.json)
+
+---
+
+### President's resolution defeated to extend the time of the Attorney General
 
 *2024-06-18 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197890) · `si`
 
-නීතිපති සංජය රාජරත්නම් මහතාගේ සේවා කාලය දීර්ඝ කිරීමේ යෝජනාව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ දී ප්‍රතික්ෂේප වී තිබේ.
+The Constitutional Council rejected the President's proposal to extend Attorney General Sanjaya Rajaratnam's term. Despite discussions and a vote, only three members supported the extension, while five opposed it. The Attorney General's tenure ends this month.
 
-ඒ අනුව අද (18) පස්වරුවේ ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස් වුණි.
+🟩
 
-එහිදී ජනාධිපතිවරයාගේ නිර්දේශය දීර්ඝ ලෙස සාකච්ඡාවට ලක්වී ඇති අතර අවසන් තීරණයකට එළඹීම සඳහා ව්‍යවස්ථා සභාවේ සාමාජිකයින් අතර ඡන්දයක් ද පවත්වා ඇති බව සඳහන් ය.
+The proposal to extend the service of the Attorney General Sanjaya Rajaratnam has been rejected in the Constitutional Council.
 
-ඒ අනුව අදාළ නිර්දේශයට විපක්ෂව ඡන්ද 05ක් ලැබී ඇති අතර පක්ෂව ලැබී ඇත්තේ ඡන්ද 03ක් පමණි.
+Accordingly, the Constitutional Council met with Hon. Speaker Mahinda Yapa Abeywardena.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වත්මන් නීතිපති ජනාධිපති නීතීඥ සංජය රාජරත්නම් මහතාගේ ධුර කාලය මාස 6කින් දීර්ඝ කිරීමේ යෝජනාව පසුගියදා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට ඉදිරිපත් කළේය.
+The President's recommendation has been discussed at length and has held a vote between members of the Constitutional Council to reach a final decision.
 
-අවස්ථා දෙකක දී ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස් වූ අතර එම අවස්ථා දෙකෙහිම මේ සම්බන්ධයෙන් අවසන් තීරණයක් නොගෙන එය කල් දැමුණි.
+Accordingly, five votes were against the recommendation and only 3 votes were cast in favor.
 
-නීතිපති ජනාධිපති නීතීඥ සංජය රාජරත්නම් මහතාගේ සේවා කාලය මෙම මාසයෙන් අවසන් වීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe by President Ranil Wickremesinghe was presented to the Constitutional Council by the President's Counsel Sanjaya Rajaratnam by six months.
+
+The Constitutional Council met on two occasions, and in both cases, it was postponed.
+
+Attorney General Sanjaya Rajaratnam's service is due to end this month.
 
 ◼️
 
 [Data](articles/d71e870a.json)
 
+[Extended Data](ext_articles/d71e870a.ext.json)
+
 ---
 
-### කොහේවත් යන බර කරත්තයක් මගේ කරපිට තිබ්බා - හරීන්
+### There was a heavy cart that goes somewhere - Harin
 
 *2024-06-18 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197889) · `si`
 
-ක්‍රීඩා අමාත්‍යංශය යනු ක්‍රිකට් පමණක් නොවන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Harin Fernando, Sri Lanka's Sports Minister, emphasizes the Ministry's support for 73 sports beyond cricket. He criticizes a 90-year-old committee member, suggesting personal bias affects decisions. Despite criticism during cricket losses, he highlights the team's success in two out of three World Cup matches.
 
-ඔහු පවසන්නේ ක්‍රීඩා අමාත්‍යංශය ට ක්‍රීඩා 73ක් සම්බන්ධයෙන් කටයුතු තිබෙන බවයි.
+🟩
 
-අද (18) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් පැවසුවේ..."පසුගියදා රෙගුලාසියක් දැම්මා. එම රෙගුලාසිය අනූව විධායක කමිටුවක අවුරුදු 16ක් හිටියොත් එයාට සභාපති වෙන්න බෑ. මම දන්න තරමින් ශම්මි සිල්වා 16 ඉඳලත් ඉවරයි. ඊළඟට ඔහුට ඉල්ලන්න බෑ. මේ තියෙන්නේ පෞද්ගලික වෛරයක්."
+Sports Minister Harin Fernando says that the Ministry of Sports is not just cricket.
 
-ඔහු තවදුරටත් පැවසුවේ ක්‍රිකට් කණ්ඩායම පැරදෙන විට සියලුදෙනා ඇමතිවරයාට බනින බවයි.
+He says that the Ministry of Sports has taken steps to work 73 sports.
 
-"කොහේවත් යන බර කරත්තයක් මගේ කරපිට තිබ්බා. වර්ල්ඩ් කප් එකේ ගහපු මැච් 3න් 2ක් පැරදුනාම නිදාගෙන හිටිය අය නැවතත් නැගිටලා. භාරගත්ත ගමන් ටුවර් තුනම දින්නා. හොඳයි කිව්වේ නෑ. දිනන කොට ක්‍රීඩකයෝ...පරදින කොට ඇමතියා."
+Speaking in parliament today (18) ... "The recent regulations. Ninety-year-old committee of the executive committee, he can't be chairman. Shammi de Silva is emerging as far as I know. Next he can't ask for. This is a personal hatred. "
+
+He added that when the cricket team was raging, everyone would blame him.
+
+"There was a heavy cart, wherever. Two out of 3 match in World Cups, two people lost again. The winner of all three tours. Well not said. When winning the players ... the Minister defeated. "
 
 ◼️
 
 [Data](articles/217168e1.json)
+
+[Extended Data](ext_articles/217168e1.ext.json)
+
+---
+
+### ‘Sarvajana Balaya’ holds inaugural public rally in Nugegoda
+
+*2024-06-18 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99952/sarvajana-balaya-holds-inaugural-public-rally-in-nugegoda) · `en`
+
+The inaugural public rally of the “Sarvajana Balaya”, the new alliance formed by several opposition parties, has commenced in Nugegoda today (18).
+
+The public rally is being held at Ananda Samarakoon Open Air Theatre in Nugegoda under the theme of “repowering the aspirations of 6.9 million people”.
+
+The public rally commenced after the processions arriving from five different directions converged at the Ananda Samarakoon Open Air Theatre.
+
+Representatives from seven political parties and organizations affiliated with “Sarvajana Balaya” including the National Freedom Front (NFF), Mawbima Janatha Party (MJP), Pivithuru Hela Urumaya (PHU), the Communist Party of Sri Lanka, ‘Yuthukama’ organisation and the Independent MP’s Forum and other political groups are attending the public rally.
+
+◼️
+
+[Data](articles/02e1c1f7.json)
 
 ---
 
@@ -605,6 +665,28 @@ The Minister emphasized here that it is a result of the change in the changing w
 [Data](articles/051a7224.json)
 
 [Extended Data](ext_articles/051a7224.ext.json)
+
+---
+
+### සජබේ හා පොහොට්ටුව එක්ව මාලිමාව පරදයි
+
+*2024-06-18 13:25:23* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-හා-පොහොට්ටුව-එක්ව-මාලිමාව-පරදයි/11-410289) · `si`
+
+තලාතුඔය මාරස්සන විවිධ සේවා සමූපකාර සමිතිය සදහා නව අධ්‍යක්‍ෂ මණ්‌ඩලයක් තෝරා ගැනීම සදහා පසුගිය දාසයවන දින (16)  පැවති වන ජන්ද විමසීමේදී  ශ්‍රී ලංකා පොදු ජන පෙරමුණ විසින් ඉදිරිපත් කළ කණ්ඩායම ජයග්‍රහණය කරන ලදි.
+
+එහිදී අධ්‍යක්‍ෂ මණ්‌ඩලය සඳහා සාමාජිකයින් හත් දෙනෙක් තෝරා ගත් අතර ඔවුන් හත් දෙනාම පොදු ජන පෙරමුණේ කණ්ඩායම විසින් තේරී පත්විය.
+
+විවෘත කාණ්ඩය යටතේ අධ්‍යක්ෂ මණ්ඩලයට පත්වීම සඳහා දහදෙනෙකු හා වයස අවුරුදු දහඅට සහ තිස්පහ අතර කාණ්ඩය යටතේ අපේක්ෂකයෝ  හතරදෙනෙකු තරග වැදුනි.
+
+එහිදී විවෘත කාණ්ඩය යටතේ  තුසිත සමරකොන්  චන්ද කස්තුරිආරච්චි ටි.ජේ. ප්‍රියන්ත කුමාර  සද්ධාතිස්ස දසනායක  හා සමන් මහින්ද බණ්ඩාර යන අය තේරී පත්වූ අතර වයස අවුරුදු 18 ත් 35 ත් අතර කාණ්ඩයෙන් ධනංජය සේනානායක හා අමන්දා කරුණාතිලක යන අය තේරී පත්විය.
+
+මෙහිදී ඡන්දය පාවිච්චි කිරීම සඳහා මහ සභා නියෝජිතයින් අනූ හතර දෙනෙකු සුදුසුකම් ලබා තිබූ අතර අනූ තුන් දෙනෙකු ඡන්දය පාවිච්චි කිරීම සඳහා පැමිණ සිටියහ.
+
+ජාතික ජනබලවේගය ද කණ්ඩායමක් ඉදිරිපත් කළ අතර ඔවුන් කිසිවෙකු හෝ අධ්‍යක්ෂ  මණ්ඩලය සදහා තේරී පත් නොවිනි.
+
+...
+
+[Data](articles/09efafb8.json)
 
 ---
 
@@ -2291,145 +2373,5 @@ Can only build the country on the basis of more policies. Cannot do that by indi
 [Data](articles/f30c4a22.json)
 
 [Extended Data](ext_articles/f30c4a22.ext.json)
-
----
-
-### Thanks to the farmers
-
-*2024-06-18 02:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-நன்றி-செலுத்தும்-உறுமய/175-339058) · `ta`
-
-President Ranil Wickremesinghe thanked farmers for their resilience during tough times, highlighting the government's Urumaya program aimed at supporting them. He mentioned the challenges faced upon taking office, including shortages of fuel, medicine, and food, but noted increased yields in 2022-2023. The president emphasized the importance of modernizing agriculture to combat rural poverty and urged farmers to partner in this initiative, promising funding from next year.
-
-🟩
-
-President Ranil Wickremesinghe has said that the government is carrying out the Urumaya program to thank the farmers who have been tired of the people without land guarantees.
-
-The President made this observation at the Land Confirmation held at the Ambilipitiya Mahaweli Stadium yesterday for 1,524 of the 45 thousand 253 selected at the Mahaweli Resource Zone under the National Program.. As he further stated,
-
-When we took over the country, fuel, medicine, and food shortage was found. 2022 - 2023 Yields Increased. So we believed that God could do this by acting. Farmers stood there. Now we have initiated initiatives to meet the needs of the farmers, including fertilizer.
-
-The program we carry out for the farmers will not stand with this. Providing land is not just enough. To eradicate poverty in villages to establish agrarian revolution. That is why the agricultural modernization program is being carried out. Once the land rights, people can increase their income.
-
-...
-
-[Data](articles/5d090d7a.json)
-
-[Extended Data](ext_articles/5d090d7a.ext.json)
-
----
-
-### The telephone is not looking for economic solutions
-
-*2024-06-18 02:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்-தீர்வுகளை-தேடவில்லை/175-339057) · `ta`
-
-In a meeting with Sri Lanka's youth and traders, President Ranil Wickremesinghe emphasized the importance of economic policies over political solutions for the country's future. He highlighted the need for a new path towards employment opportunities and criticized frequent changes in economic policies. The President also discussed his submission of the Economic Reforms Bill and urged for its advancement, stating that economic stability is crucial for national progress.
-
-🟩
-
-President Ranil Wickremesinghe said the economic policies implemented in the next five years would determine the future of Sri Lanka and said that the people of the country who are looking for political solutions are not focusing on economic solutions.
-
-President Ranil Wickremesinghe said this at a meeting with the youth and traders in Mannar on Sunday (16).
-
-The event was organized by the Youth Organization under the name of “Journalism for a prosperous future” at the Mannar Municipal Council Hall. Here, the president presented certificates and prizes to the students who were selected for the 2023/2024 GCE Advanced Level Examination. The event was organized by the Ministry of Education of the Northern Province.
-
-The President went to the youth and heard about their problems and gave their questions favorable to their questions.
-
-...
-
-[Data](articles/2b9ca639.json)
-
-[Extended Data](ext_articles/2b9ca639.ext.json)
-
----
-
-### From 2022 to 2024, the country will be enacted in history for years - MN Ranasinghe
-
-*2024-06-18 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186318) · `ta`
-
-It seems like you've shared a comprehensive update on the legislative and judicial reforms undertaken by the Ministry of Justice, Prison Affairs, and Constitutional Reforms in Sri Lanka. These reforms encompass a wide range of initiatives aimed at enhancing the efficiency and effectiveness of the legal system, improving the judicial infrastructure, and promoting economic growth through legal reforms.
-
-
-
-The updates highlight significant achievements such as:
-
-
-
-1. **Legislative Reforms**: 59 legal reforms passed in Parliament since 2022, with 7 more bills and 44 amendments expected to pass in the near future. This indicates a proactive approach towards updating the legal framework to meet contemporary challenges and opportunities.
-
-
-
-2. **Judicial Digitization**: Plans to digitize the judiciary to expedite case processing and create a more efficient legal system. This is crucial for reducing case backlog and improving access to justice.
-
-
-
-3. **Infrastructure Development**: Expansion of the High Court and Court of Appeal facilities, introduction of specialized courts (e.g., Business High Courts), and the establishment of new court complexes. These physical improvements are essential for handling increasing caseloads and providing better facilities for litigants and legal professionals.
-
-
-
-4. **Legal Aid and Victim Support**: Enhancements to the legal aid system and protections for victims and witnesses, reflecting a commitment to fairness and safety within the legal process.
-
-
-
-5. **Economic Growth Initiatives**: Linking legal reforms to economic development, such as establishing an investment court and facilitating foreign investment through improved dispute resolution mechanisms.
-
-
-
-6. **Reconciliation and Integration Efforts**: Acknowledging the importance of reconciliation and integration in post-conflict societies, with specific efforts mentioned towards these ends.
-
-
-
-This overview underscores the multifaceted approach of the Ministry in addressing both the immediate needs of the legal system and broader societal goals, including economic development and social cohesion. If you have specific questions about these reforms or need further details on any aspect, feel free to ask
-
-🟩
-
-The Secretary of the Ministry of Justice, Prison and the Constitutional Reforms, Mr. M.. My. Said Ranasinghe.
-
-He added that 59 legal reforms have been passed in Parliament since 2022 and 7 bills and 44 amendments will be passed in the coming days.
-
-He was speaking at a media briefing held at the Presidential Media Center today (17).
-
-He pointed out that the Ministry of Justice plays a major role in the preparation of the laws of each ministries, 273 law drafts in 2022 and 299 legislation in 2023.
-
-Secretary to the Ministry of Justice, Prison Affairs and Constitutional Reforms. My. Ranasinghe added:
-
-“The Ministry of Justice, Prison Affairs and Constitutional Reforms have made great improvement over legal reforms over the past two years. This period is to be in history.
-
-...
-
-[Data](articles/d20bb08d.json)
-
-[Extended Data](ext_articles/d20bb08d.ext.json)
-
----
-
-### Rare record of bowling;New Zealand returns to country with consolation victory
-
-*2024-06-18 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186317) · `ta`
-
-In the final R20 World Cup match in Trinidad, New Zealand secured a consolation victory by 7 wickets after losing the Super 8 round. Loki Bergasan set a record by taking 3 wickets in 4 overs, surpassing Canada's Saad bin Zabar's previous record of 2 wickets. Meanwhile, Indonesia's Rohmalia Rohmalia holds the women's international T20 match record with 7 wickets in 3.2 overs. Papua New Guinea made 78 runs but lost all wickets, while New Zealand reached 79 runs despite losing 3 wickets.
-
-🟩
-
-New Zealand won by 7 wickets in the last R20 World Cup in Trinidad, Taruba Prayan Lara Stadium.
-
-New Zealand, who has already lost the Super 8 round, will return to the country with the comfort of this victory.
-
-Loki Bargasan threw 4 overs on the pitch that favored the bowlers and took 3 wickets.
-
-Loki Bergasan set a rare record of taking the highest wickets in 4 overs in the international T20 cricket match for the men.
-
-Bergasan broke the previous record of 2 wickets in 4 overs registered by Canadian bowler Saad bin Zabar in 2021 at the Gulij Stadium against Panama.
-
-However, Indonesia's Rohmalia Rohmalia has won the World Boss bowling in the international T20 match for both parties.
-
-She set a world record for the women's international T20 match against Mongolia last April, taking 7 wickets without giving 3.2 overs.
-
-Meanwhile, Trent Bolt R20 was answered from the World Cup cricket with today's match.
-
-...
-
-[Data](articles/7f464ecf.json)
-
-[Extended Data](ext_articles/7f464ecf.ext.json)
 
 ---

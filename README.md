@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 16:51:56**
+As of **2024-06-18 17:04:24**
 
 ## Newspaper Stats
 
-*Scraped **30,960** Articles*
+*Scraped **30,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adaderanalk | 3,510
 tamilmirrorlk | 3,633
 dailymirrorlk | 4,733
 virakesarilk | 4,767
-adaderanasinhalalk | 5,026
+adaderanasinhalalk | 5,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,956 (100.0%) of 30,960 articles have been extended.
+30,960 (100.0%) of 30,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### නීතිපතිගේ කාලය දිගු කිරීමට ජනපති ගෙනආ යෝජනාව පරාජය වෙයි
+
+*2024-06-18 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197890) · `si`
+
+නීතිපති සංජය රාජරත්නම් මහතාගේ සේවා කාලය දීර්ඝ කිරීමේ යෝජනාව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ දී ප්‍රතික්ෂේප වී තිබේ.
+
+ඒ අනුව අද (18) පස්වරුවේ ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස් වුණි.
+
+එහිදී ජනාධිපතිවරයාගේ නිර්දේශය දීර්ඝ ලෙස සාකච්ඡාවට ලක්වී ඇති අතර අවසන් තීරණයකට එළඹීම සඳහා ව්‍යවස්ථා සභාවේ සාමාජිකයින් අතර ඡන්දයක් ද පවත්වා ඇති බව සඳහන් ය.
+
+ඒ අනුව අදාළ නිර්දේශයට විපක්ෂව ඡන්ද 05ක් ලැබී ඇති අතර පක්ෂව ලැබී ඇත්තේ ඡන්ද 03ක් පමණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වත්මන් නීතිපති ජනාධිපති නීතීඥ සංජය රාජරත්නම් මහතාගේ ධුර කාලය මාස 6කින් දීර්ඝ කිරීමේ යෝජනාව පසුගියදා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට ඉදිරිපත් කළේය.
+
+අවස්ථා දෙකක දී ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස් වූ අතර එම අවස්ථා දෙකෙහිම මේ සම්බන්ධයෙන් අවසන් තීරණයක් නොගෙන එය කල් දැමුණි.
+
+නීතිපති ජනාධිපති නීතීඥ සංජය රාජරත්නම් මහතාගේ සේවා කාලය මෙම මාසයෙන් අවසන් වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/d71e870a.json)
+
+---
+
+### කොහේවත් යන බර කරත්තයක් මගේ කරපිට තිබ්බා - හරීන්
+
+*2024-06-18 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197889) · `si`
+
+ක්‍රීඩා අමාත්‍යංශය යනු ක්‍රිකට් පමණක් නොවන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ඔහු පවසන්නේ ක්‍රීඩා අමාත්‍යංශය ට ක්‍රීඩා 73ක් සම්බන්ධයෙන් කටයුතු තිබෙන බවයි.
+
+අද (18) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් පැවසුවේ..."පසුගියදා රෙගුලාසියක් දැම්මා. එම රෙගුලාසිය අනූව විධායක කමිටුවක අවුරුදු 16ක් හිටියොත් එයාට සභාපති වෙන්න බෑ. මම දන්න තරමින් ශම්මි සිල්වා 16 ඉඳලත් ඉවරයි. ඊළඟට ඔහුට ඉල්ලන්න බෑ. මේ තියෙන්නේ පෞද්ගලික වෛරයක්."
+
+ඔහු තවදුරටත් පැවසුවේ ක්‍රිකට් කණ්ඩායම පැරදෙන විට සියලුදෙනා ඇමතිවරයාට බනින බවයි.
+
+"කොහේවත් යන බර කරත්තයක් මගේ කරපිට තිබ්බා. වර්ල්ඩ් කප් එකේ ගහපු මැච් 3න් 2ක් පැරදුනාම නිදාගෙන හිටිය අය නැවතත් නැගිටලා. භාරගත්ත ගමන් ටුවර් තුනම දින්නා. හොඳයි කිව්වේ නෑ. දිනන කොට ක්‍රීඩකයෝ...පරදින කොට ඇමතියා."
+
+◼️
+
+[Data](articles/217168e1.json)
+
+---
 
 ### CC defeats President’s proposal to extend AG’s term
 
@@ -41,6 +85,8 @@ A proposal by President Ranil Wickremesinghe to extend the term of Attorney Gene
 ◼️
 
 [Data](articles/3c258e9a.json)
+
+[Extended Data](ext_articles/3c258e9a.ext.json)
 
 ---
 
@@ -59,6 +105,8 @@ As an extension of these efforts, the Northern Naval Command deployed Fast Attac
 ...
 
 [Data](articles/dc7cd750.json)
+
+[Extended Data](ext_articles/dc7cd750.ext.json)
 
 ---
 
@@ -79,6 +127,8 @@ He mentioned that “a second request came after the increase of the academic al
 ...
 
 [Data](articles/29085c16.json)
+
+[Extended Data](ext_articles/29085c16.ext.json)
 
 ---
 
@@ -688,17 +738,29 @@ Water cannons have been used against demonstrators as a crowd control measure, o
 
 ---
 
-### දිගටම ලෙඩ වන ගුරුවරුන් හැර දා දරුවන් වෙනත් දැනුම් මූලාශ්‍ර සොයා යනවා
+### Children will find other knowledge sources
 
 *2024-06-18 13:13:10* · [`adalk`](https://www.ada.lk/breaking_news/දිගටම-ලෙඩ-වන-ගුරුවරුන්-හැර-දා-දරුවන්-වෙනත්-දැනුම්-මූලාශ්‍ර-සොයා-යනවා/11-410288) · `si`
 
-එක ම සටන් පාඨයක දිගින් දිගට එල්බගෙන ලෙඩ නිවාඩු දමමින් වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට අන්තර්ජාලය වැනි වෙනත් දැනුම් මූලාශ්‍ර වෙත අවතීර්ණ වෙමින් හා එමගින් සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා  පැවසීය.
+Dr. Susil Premajayantha, Minister of Education, highlighted the importance of digitalizing schools to provide uniform educational resources to students nationwide. He emphasized the need for teachers to adapt to new knowledge and skills to effectively educate students in a rapidly changing world. The event was part of the Gothami Girls' School Poster Art Competition, where the Minister also stressed the significance of education in preparing children for future challenges.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා නෙස්ලේ ලංකා සමාගමේ අනුග්‍රහයෙන් කොළඹ ගෝතමී බාලිකා විද්‍යාලයේ දී පැවැති  සමස්ත ලංකා  පාසල් අපද්‍රව්‍ය කළමනාකරණ පාසල් පෝස්ටර් චිත්‍ර තරගයේ ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමිණි.මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ශීඝ්‍රයෙන් වෙනස් වෙමින් යන දැනුම් සමාජයේ නව ප්‍රවණතා පිළිබඳ යථා අවබෝධයකින් තොර ව සමාජයේ ඉදිරියට යා නොහැකි බවත් මේ බව ප්‍රධාන වශයෙන් ම ගුරුවරුන් හා වැඩිහිටියන් අවබෝධ කරගත යුතු ව ඇති බවත් ය.
+🟩
 
-...
+Minister of Education Dr. Susil Premajayantha said that the current students were engaged in the same slogan and lay on the sick and sick.
+
+The Minister made this observation at the Gothami Girls 'School Poster Art Competition at Gothami Girls' College, Colombo.It is not possible that these cannot be understood mainly, mainly teachers and adults.
+
+The Minister said that all school digitizes all schools and take into the same network to the children from one place from one place to one place.. Susil Premajayantha said that teachers should be effective in achieving the skills of the new knowledge and to meet the skills that students need to be determined and updating.
+
+The Minister emphasized here that it is useless to change the environment and the world without changes in the changing world and education.
+
+Bernard Staffon, Managing Director of Nestle Fernando, Nestle Fernando, Nestle Lanka, the Director of Nestle Lanka (Collective Affairs and Communications) were brought to Ruwan Welikala.
+
+◼️
 
 [Data](articles/cfee71d8.json)
+
+[Extended Data](ext_articles/cfee71d8.ext.json)
 
 ---
 
@@ -2369,51 +2431,5 @@ Meanwhile, Trent Bolt R20 was answered from the World Cup cricket with today's m
 [Data](articles/7f464ecf.json)
 
 [Extended Data](ext_articles/7f464ecf.ext.json)
-
----
-
-### The first is the presidential election.
-
-*2024-06-18 01:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலே-முதலில்-நடக்கும்/175-339056) · `ta`
-
-The presidential election must adhere to the country's constitution, and there's time for parliamentary elections too. Commerce Minister Sadasivam Judendran mentioned ongoing programs aimed at economic recovery, noting progress but cautioning that full recovery isn't achieved yet. Expectations are high for a fair presidential election process.
-
-🟩
-
-The presidential election must be held in accordance with the Constitution.. There is still time to hold parliamentary elections. Therefore, the expectation of all of us is that the presidential election should be held in accordance with the constitution of the country.. Commerce Minister Sadasivam Judendran said that the programs are currently being carried out.
-
-He was responding to questions asked by journalists after attending an event in Kaluwanchikudi, Batticaloa on Sunday (16).. He further stated that….
-
-They are generally presented by the government, or the president's opinion is that they are generally presented by each person's personal opinions on elections. There is an environment where the president, the prime minister, or the ministers have not made official comments. But personal ideas are found in them. In any case, everyone is expecting a presidential election to be held.
-
-...
-
-[Data](articles/f7b2dac6.json)
-
-[Extended Data](ext_articles/f7b2dac6.ext.json)
-
----
-
-### I left the post because of the case.
-
-*2024-06-18 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கு-தொடுத்ததால்-பதவியைத்-துறந்தேன்/175-339055) · `ta`
-
-Maithripala Sirisena resigned as SLFP leader due to personal reasons, emphasizing the importance of party unity for future elections. He highlighted Dr. Vijayadasa Rajapakse's appointment as chairman, indicating his focus on the party's best interests over personal considerations.
-
-🟩
-
-Former President Maithripala Sirisena has said that he has resigned from the post of Sri Lanka Freedom Party (SLFP) leader because of the case.
-
-The former President said this while addressing a meeting held on Monday (17) in Galle Karandeniya.
-
-Sirisena said that if the party continues to resign, no one in the party can vote in the next elections and said that he had made the decision to think of the members of the Sri Lanka Freedom Party (SLFP) without thinking about himself..
-
-He said that Dr. Vijayadasa Rajapakse was appointed as the Chairman after he was not suitable for other people who went to the government.
-
-◼️
-
-[Data](articles/f28fb7c4.json)
-
-[Extended Data](ext_articles/f28fb7c4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 16:34:34**
+As of **2024-06-18 16:51:56**
 
 ## Newspaper Stats
 
-*Scraped **30,956** Articles*
+*Scraped **30,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,691
-adaderanalk | 3,507
+adalk | 2,692
+adaderanalk | 3,510
 tamilmirrorlk | 3,633
 dailymirrorlk | 4,733
 virakesarilk | 4,767
@@ -26,11 +26,61 @@ adaderanasinhalalk | 5,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,956 (100.0%) of 30,956 articles have been extended.
+30,956 (100.0%) of 30,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### CC defeats President’s proposal to extend AG’s term
+
+*2024-06-18 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99951/cc-defeats-presidents-proposal-to-extend-ags-term) · `en`
+
+A proposal by President Ranil Wickremesinghe to extend the term of Attorney General Sanjay Rajaratnam by another six months has been defeated at the Constitutional Council meeting, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/3c258e9a.json)
+
+---
+
+### Four Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-06-18 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99950/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+Four Indian fishermen along with a trawler have been arrested by Sri Lanka Navy personnel during a special operation conducted to chase away Indian poaching trawlers from Sri Lankan waters off the Delft Island, Jaffna.
+
+The operation carried out in the wee hours of today (18) had led to the seizure of 01 Indian trawler and the apprehension of 04 Indian fishermen poaching in Sri Lankan waters, the Navy said.
+
+Sri Lanka Navy says it continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+As an extension of these efforts, the Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Delft Island.
+
+...
+
+[Data](articles/dc7cd750.json)
+
+---
+
+### Striking uni non-academic staff to hold talks with UGC
+
+*2024-06-18 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99949/striking-uni-non-academic-staff-to-hold-talks-with-ugc) · `en`
+
+A discussion is scheduled to be held today (18) between the University Grants Commission (UGC) and representatives of the University Trade Union Joint Committee (UTUJC) to address the latter’s wage issues.
+
+UTUJC co-chairman Dhammika S. Priyantha emphasized that the strike action, now in its 48th day, will continue until proper solutions are provided by the authorities.
+
+Underscoring the urgency of finding an immediate solution, Priyantha stated that if the UGC also fails to offer adequate solutions, the trade union action will persist.
+
+Education Minister Susil Premajayantha commented on the situation, noting that there had been an agreement to address the wage concerns of university non-academic staff next year.
+
+He mentioned that “a second request came after the increase of the academic allowance for non-academic staff.”
+
+...
+
+[Data](articles/29085c16.json)
+
+---
 
 ### World's fastest T20 century records
 
@@ -635,6 +685,20 @@ Water cannons have been used against demonstrators as a crowd control measure, o
 [Data](articles/1c0ccf91.json)
 
 [Extended Data](ext_articles/1c0ccf91.ext.json)
+
+---
+
+### දිගටම ලෙඩ වන ගුරුවරුන් හැර දා දරුවන් වෙනත් දැනුම් මූලාශ්‍ර සොයා යනවා
+
+*2024-06-18 13:13:10* · [`adalk`](https://www.ada.lk/breaking_news/දිගටම-ලෙඩ-වන-ගුරුවරුන්-හැර-දා-දරුවන්-වෙනත්-දැනුම්-මූලාශ්‍ර-සොයා-යනවා/11-410288) · `si`
+
+එක ම සටන් පාඨයක දිගින් දිගට එල්බගෙන ලෙඩ නිවාඩු දමමින් වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට අන්තර්ජාලය වැනි වෙනත් දැනුම් මූලාශ්‍ර වෙත අවතීර්ණ වෙමින් හා එමගින් සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා  පැවසීය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා නෙස්ලේ ලංකා සමාගමේ අනුග්‍රහයෙන් කොළඹ ගෝතමී බාලිකා විද්‍යාලයේ දී පැවැති  සමස්ත ලංකා  පාසල් අපද්‍රව්‍ය කළමනාකරණ පාසල් පෝස්ටර් චිත්‍ර තරගයේ ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමිණි.මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ශීඝ්‍රයෙන් වෙනස් වෙමින් යන දැනුම් සමාජයේ නව ප්‍රවණතා පිළිබඳ යථා අවබෝධයකින් තොර ව සමාජයේ ඉදිරියට යා නොහැකි බවත් මේ බව ප්‍රධාන වශයෙන් ම ගුරුවරුන් හා වැඩිහිටියන් අවබෝධ කරගත යුතු ව ඇති බවත් ය.
+
+...
+
+[Data](articles/cfee71d8.json)
 
 ---
 
@@ -2351,105 +2415,5 @@ He said that Dr. Vijayadasa Rajapakse was appointed as the Chairman after he was
 [Data](articles/f28fb7c4.json)
 
 [Extended Data](ext_articles/f28fb7c4.ext.json)
-
----
-
-### The toy rule that goes on the rhythm rhythm
-
-*2024-06-18 01:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாளத்துக்கு-ஆடும்-பொம்மை-ஆட்சி/175-339054) · `ta`
-
-Facing societal pressures and economic challenges, the government is criticized for its handling of taxes and adherence to IMF directives, leading to a perceived "tax tsunami" affecting citizens. Despite these issues, efforts like the Universal Information Technology Program, investing in smart classrooms, and the push for digital literacy and green education are highlighted as steps towards addressing national concerns and fostering growth.
-
-🟩
-
-Today, people are facing difficulties with irreversible pressure in society. Even though people are in poverty, the tax tsunami is not standing on the tax topic. Opposition leader Sajith Premadasa has accused the government of creating a formula for taxation and taxation of the International Monetary Fund.
-
-This government has not been ordered to do everything the IMF says. If the government is efficient, there is no such thing as the opportunity to reach a good agreement for the people. The country is the toy rule in the rhythm of the International Monetary Fund. He said the government has imposed a tax tsunami on the shoulders of the people.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs 1,177,000 lakhs was held on Monday (17).
-
-...
-
-[Data](articles/f201661c.json)
-
-[Extended Data](ext_articles/f201661c.ext.json)
-
----
-
-### Tamil speaking general candidate is essential
-
-*2024-06-18 01:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பேசும்-பொது-வேட்பாளரே-அவசியம்/175-339053) · `ta`
-
-Basheer Segudaoud urges for a Tamil-speaking minority candidate to represent Tamil, Muslim, and Upcountry communities in Sri Lanka's presidential election, emphasizing the importance of unity among minorities to influence the outcome. He highlights the need for a candidate with strong ties to these communities, capable of securing support from Sinhala progressives and leading towards a more inclusive future.
-
-🟩
-
-United Peace Coalition Chairman Basheer Segudaoud said that a Tamil -speaking minority general candidate should be suspended as the overall representative of the Tamil, Muslim and Upcountry Minority Communities in the country.
-
-He said this in a media statement issued to the media on Monday (17) regarding the general candidate in the presidential election.
-
-The upcoming presidential election has become a speech. The proposed candidates of the Great Forces have come to the North, East and the hill country to seek the support of minority communities.
-
-Vishwaroopam is the biggest match that the election has not existed before. Winning any candidate with a uniqueness can be as difficult as fiber in the stone.
-
-Beyond that, it is no exaggeration if any candidate wants to get 50 percent of the votes.
-
-A president could not appear from minority communities in Sri Lanka. But who is the President?Minority communities can become a power that determines.
-
-...
-
-[Data](articles/f663004d.json)
-
-[Extended Data](ext_articles/f663004d.ext.json)
-
----
-
-### AG tenure expansion not within CC scope – G.L.
-
-*2024-06-18 01:00:52* · [`dailyftlk`](https://www.ft.lk/news/AG-tenure-expansion-not-within-CC-scope-G-L/56-763198) · `en`
-
-MP Prof. G.L. Peiris highlights absence of any precedent for extending an Attorney General’s term
-
-Expresses concern that extending current AG’s term would prevent first female AG from being appointed
-
-Accuses Govt. of shifting responsibility to CC after failing to lay blame on Catholic Church for AG tenure extension
-
-Freedom People’s Congress MP Prof. G.L. Peiris claimed yesterday that extending the term of office of the Attorney General is not within the Constitutional Council’s purview.
-
-At a press conference, Peiris noted that while the Constitutional Council is set to meet today to decide on the matter, this decision is outside its jurisdiction.
-
-“This matter does not fall within the scope of the Constitutional Council. The Council lacks both the power and responsibility to address it,” the MP said.
-
-...
-
-[Data](articles/014d5689.json)
-
-[Extended Data](ext_articles/014d5689.ext.json)
-
----
-
-### Sarvajana Balaya to hold first political rally in Nugegoda today
-
-*2024-06-18 00:58:47* · [`dailyftlk`](https://www.ft.lk/news/Sarvajana-Balaya-to-hold-first-political-rally-in-Nugegoda-today/56-763197) · `en`
-
-Hints two additional parties may join their coalition during meeting
-
-Sarvajana Balaya is set to hold its inaugural political rally today in Nugegoda, aiming to reignite the support of the 6.9 million voters who previously backed a better future for the country. During the meeting, it is hinted that two additional parties may join their coalition.
-
-Holding a media briefing, Mawbima Janatha Party (MJP) leader Dilith Jayaweera expressed readiness to rekindle the enthusiasm of those voters.
-
-He stressed that none of the Sarvajana Balaya representatives were responsible for the downfall of the previous regime, attributing the failure to the Rajapaksa family’s inability to meet the people’s expectations.
-
-Jayaweera specifically blamed Basil Rajapaksa’s liberal ideologies for the regime’s collapse.
-
-“The 6.9 million voters symbolise those who love the country,” Jayaweera stated.
-
-He said there is no option for the people of the country other than rallying around Sarvajana Balaya.
-
-...
-
-[Data](articles/00cc0318.json)
-
-[Extended Data](ext_articles/00cc0318.ext.json)
 
 ---

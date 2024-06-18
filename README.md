@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 22:53:23**
+As of **2024-06-18 23:05:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,000 (100.0%) of 31,002 articles have been extended.
+31,002 (100.0%) of 31,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ President Ranil Wickremesinghe made these remarks during his address at the cere
 ...
 
 [Data](articles/5f8c5ceb.json)
+
+[Extended Data](ext_articles/5f8c5ceb.ext.json)
 
 ---
 
@@ -342,15 +344,25 @@ However, when inquired by Ada Derana, Minister Rajapakshe said that the statemen
 
 ---
 
-### යාපනය දිස්ත්‍රිකයේ චින ජාතිකයින්ට මුහුදු කුඩැල්ලන් වගා කිරිමට අවසර දෙන්නේ නෑ
+### People in Jaffna district not permit to cultivate seamalks
 
 *2024-06-18 18:43:11* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රිකයේ-චින-ජාතිකයින්ට-මුහුදු-කුඩැල්ලන්-වගා-කිරිමට-අවසර-දෙන්නේ-නෑ/11-410300) · `si`
 
-චින ප්‍රඡාවට යාපනය දිස්ත්‍රික්කයේ මුහුදු කුඩැල්ලන් වගා කිරිමට අවසර ලබා දි නොමැති බවත් යහපාලන සමයේ එක් චින සමාගමකට මුහුදු කුඩැල්ලන් අභිජනනය කිරිම සදහා අවසර ලබා දි තිබුනද. වර්ථමානයේදි එම ආයතනයේද බලපත්‍ර අවලංගු  කිරිමට තමා  අවශ්‍ය කටයුතු සිදු  කර ඇති බව ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා 2024/06/17 දින යාපනයේ දිස්ත්‍රිකයේ මුහුදු කුඩැල්ලන් වගා කරුවන් සමග පැවති සාකච්ඡාවකදි ප්‍රකාශ කර සිටියේය.
+In Jaffna, despite initial permission for Chinese companies to cultivate sea mines, the Fisheries Minister has revoked these permits due to concerns over good governance. The move aims to boost the local economy and ensure fair practices among farmers. The Minister emphasizes improving livelihoods and addressing issues related to false promises by politicians, urging transparency and accountability from the fisheries department.
+
+🟩
+
+Although the Chinese district has been granted permission to cultivate seamalls in Jaffna district, but in the good governance, one China has permitted permission to breed sea mine company. Fisheries Minister Douglas Devananda stated that he had done the necessary action to cancel the permits in the company at present.
+
+The Minister further said that steps are being taken to improve the economic status of the people of Jaffna and the growers of the growers of the growers.It was said that the people of the area had to take a large yield to get a large harvest.. The Minister said that sea smashing was largely improved, he does not need to release the false of the people of the people of the people of the people's betray politicians. The existing department should be understood and winning their lives.
+
+Later, the people were confident that the people of the people were following the lives of the people by the people, as the people were subjected to the elimination of the people.Did.
 
 ...
 
 [Data](articles/dc3caec3.json)
+
+[Extended Data](ext_articles/dc3caec3.ext.json)
 
 ---
 

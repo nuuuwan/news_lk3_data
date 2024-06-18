@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 18:13:42**
+As of **2024-06-18 18:25:05**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,968 (100.0%) of 30,972 articles have been extended.
+30,972 (100.0%) of 30,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### බස් - බයික් අනතුරෙන් තරුණයෙක් මරුට
+### Buses killed in bike accident
 
 *2024-06-18 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197892) · `si`
 
-බණ්ඩාරවෙල - බදුල්ල මාර්ගයේ දික්අරාව වංගුවේදි බදුල්ල සිට බණ්ඩාරවෙල දක්වා ගමන් කළ පුද්ගලික බස් රථයකට යතුරුපැදියක් ගැටීමෙන් අනතුරක් සිදුවිය.
+A motorcyclist, aged 19, died after colliding with a private bus traveling from Badulla to Bandarawela. The incident occurred when the motorcycle, heading towards Wellawaya, skidded and got trapped under the bus.
 
-අප වාර්තාකරු පැවසුවේ බණ්ඩාරවෙල සිට වැල්ලවායට දෙසට ගමන් ගත් යතුරුපැදිය ලිස්සා ගොස් පැදිකරුගේ හිස බස් රථයේ පසුපස රෝදයට සිරවී ඔහු  ජීවිතක්ෂයට පත්වී ඇති බවයි.
+🟩
 
-මියගිය තරුණයා අවුරුදු 19ක වැල්ලවාය ප්‍රදේශයේ අයෙක් බව හඳුනාගෙන තිබේ.
+Motorcyclist collided with a private bus from Badulla to Bandarawela
+
+Our correspondent said that the motorcycle headed towards the Wellawaya towards the Wellawaya, who slipped towards the Wellawaya, was imprisoned to the rear wheel of the bus.
+
+The deceased has been identified as a person in 19 years.
 
 ◼️
 
 [Data](articles/c45ec475.json)
+
+[Extended Data](ext_articles/c45ec475.ext.json)
 
 ---
 
@@ -76,19 +82,29 @@ Police say that he was weak when the child was recovered due to lack of food.
 
 ---
 
-### முஸ்லிம்களிடம் மன்னிப்பு கேட்டார் ஜனாதிபதி
+### The president apologizes to Muslims
 
 *2024-06-18 17:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களிடம்-மன்னிப்பு-கேட்டார்-ஜனாதிபதி/175-339083) · `ta`
 
-கொரோனா  காலப்பகுதியில் உடல்களை தகனம் செய்ததன் மூலம்   முஸ்லிம் மக்களுக்கு பாரியளவில் மனம் புண்படும் நிலைமை ஏற்பட்டமை தொடர்பில் முஸ்லிம் மக்களிடம் மன்னிப்பு கோருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe apologized to Muslims for cremating COVID-19 victims against their burial wishes. He promised to amend laws allowing individuals to choose their funeral rites, acknowledging the pain caused to Muslim communities.
 
-கொரோனாவினால மரணித்தோரின் உடல்கள் தகனம் செய்யப்பட்டமை தொடர்பில், பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (18)  இடம்பெற்ற வாதப் பிரதிவாதத்தின் போதே இவ்வாறு தெரிவித்த ஜனாதிபதி மேலும் கூறுகையில்,
+🟩
 
-இந்த நாட்டில் யாருக்கு வேண்டுமானாலும்  தங்களது உடலை  அடக்க வேண்டுமா தகனம்   வேண்டுமா என்பது தொடர்பில் தீர்மானிக்கும் உரிமை இருக்க வேண்டும். அதனால் மரணித்த நபர் ஒருவரின் சடலத்தை நல்லடக்கம் செய்தல், தகனம் செய்தல் அல்லது சடலத்தை வைத்திய பீடத்துக்கு வழங்குதல் தொடர்பான உரிமையை வழங்குதல் தொடர்பில் சட்டம்   விடயத்துக்கு பொறுப்பான அமைச்சரினால் கொண்டுவரப்படவுள்ளது.
+President Ranil Wickremesinghe has said that he apologizes to the Muslim people for cremating the bodies during the Corona period.
 
-...
+The President further stated that the bodies of Corona's death were cremated during a argument in Parliament on Tuesday (18).
+
+Anyone in this country should have the right to decide whether to suppress their body. Therefore, the Minister in charge of the law will be brought to the issuance of the body of the deceased person to the corpse, the cremation of the corpse, or the right to the pedestal of the corpse.
+
+The cremation of the bodies during the period of Corona was mainly hurt by the Muslim people. The Hindu willing to do good after death, though. Buddhist and Christian people are also. So we apologize to them for the matter.
+
+Similarly, I hope that everyone in this council will support the bill that will be submitted.
+
+◼️
 
 [Data](articles/e8383737.json)
+
+[Extended Data](ext_articles/e8383737.ext.json)
 
 ---
 
@@ -136,19 +152,25 @@ The Constitutional Council convened this evening at the Parliament building head
 
 ---
 
-### හෙද හෙදියන් නෙමැතිවීමෙන් දිසා රෝහලක් වැසීමේ අවදානමක
+### Nurses are at risk of closing a district hospital
 
 *2024-06-18 16:51:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-හෙදියන්-නෙමැතිවීමෙන්-දිසා-රෝහලක්-වැසීමේ-අවදානමක/11-410292) · `si`
 
-මීරිගම දිසා රෝහලේ ප්‍රමාණවත් හෙද හෙදියන් නොමැති වීමෙන් රෝගීන්ට සේවා සැපයීමට නොහැකි තත්වයක් පත්ව ඇති බව ඒහි හෙද කාර්ය මණ්ඩලය පවසයි. මේ හේතුවෙන් පසුගිය දිනක ඔවුන් දවස පුරා ලෙඩ නිවාඩු දමා විරෝධතාවක නිරතවූහ. මින් රෝහල් දෛනික කටයුතුවලට බාධා සිදුවූ බව වාර්තා වෙයි.
+Meerigama District Hospital faces closure risk due to insufficient nursing staff, with only 49 out of 100 registered nurses available for duty. This shortage disrupts daily operations and patient care, despite efforts from the All Ceylon Nursing Union. The Health Minister's visit in March did not resolve the staffing issues.
 
-දිසා රෝහලක් ලෙස මෙහි සේවා කටයුතු පවත්වාගෙන යෑම සඳහා හෙද හෙදියන් 100ක පමණ අවශ්‍යතාවක් වුවත් දැනට සේවයේ නිරතව ඇත්තේ හෙද හෙදියන් 49ක් පමණක් බවත් සමස්ථ ලංකා හෙද සංගමයේ මීරිගම රෝහල් ප්‍රධාන සංවිධායක රුවන් අබේසිංහ මහතා පවසා සිටියි.
+🟩
 
-වත්මන් සෞඛ්‍ය අමාත්‍යවරයා පසුගිය මාර්තු මාසයේදී රෝහලට පැමිණි අවස්ථාවේ මෙම ගැටළුව පිළිබඳ දැනුවත් කලද මේ දක්වා ඒ් සම්බන්ධ කිසිදු ප්‍රතිචාරයක් ලැබී නොමැතිබවද ඒ් මහතා තවදුරටත් පවසා සිටියේය.
+Nurse staff says that due to the absence of adequate nurses in the Meerigama District Hospital, the patients have been unable to provide services. Recently, they recently leave sick leave over the day. It is reported that hospitals have been disrupted for daily activities.
+
+Although there are about 100 nurses as a district hospital, there are about 49 nurses to maintain the service work, only 49 nurses are currently working in service, the All Ceylon Nursing Union, Mirigama Hospital, Ruwan Abeysinghe, Chief Whip of China Nursing Union Ruwan Abeysinghe said.
+
+When the Minister of Health visited the hospital last March, he had not received any response to the issue.
 
 ◼️
 
 [Data](articles/ce185ec3.json)
+
+[Extended Data](ext_articles/ce185ec3.ext.json)
 
 ---
 
@@ -1148,19 +1170,25 @@ He said that this was a special statement in Parliament, the President wanted to
 
 ---
 
-### හෙට සිට ආයෙත් වැස්ස වැඩි වෙයි
+### Rain back tomorrow
 
 *2024-06-18 12:12:32* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-ආයෙත්-වැස්ස-වැඩි-වෙයි/11-410283) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින්‍ය වැසි තත්ත්වයේ තරමන වැඩිවීමක් හෙට (19) දින්‍ සිට ඉදිරි දින්‍ කිහිපයේදි බලාපොරොත්තු වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Expect heavy rain across the southwest island tomorrow, especially in the Western, Sabaragamuwa, and North Western provinces. Thundershowers also predicted in Ampara and Batticaloa districts.
 
-ඒ අනුව බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවත් බස්නාහිර හා සබරගමුව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+🟩
 
-ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ  හෝ රාත්‍රී කාලයේ ස්ථාන ස්ල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමෙන්තුව කියයි.
+The southwest part of the island is expected to be expecting a rainy industry at the next few days tomorrow (19).
+
+Thundershowers will occur in the Western, Sabaragamuwa and North Western provinces, and in some places in the Western and Sabaragamuwa Districts.. The department is expected to experience more than 75 times.
+
+The Department of Departments say that showers or thundershowers in the Ampara and Batticaloa districts of Ampara and Batticaloa districts can occur.
 
 ◼️
 
 [Data](articles/016fc069.json)
+
+[Extended Data](ext_articles/016fc069.ext.json)
 
 ---
 

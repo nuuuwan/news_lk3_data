@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 18:25:05**
+As of **2024-06-18 18:36:29**
 
 ## Newspaper Stats
 
-*Scraped **30,972** Articles*
+*Scraped **30,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,511
 tamilmirrorlk | 3,636
 dailymirrorlk | 4,733
 virakesarilk | 4,767
-adaderanasinhalalk | 5,030
+adaderanasinhalalk | 5,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,972 (100.0%) of 30,972 articles have been extended.
+30,972 (100.0%) of 30,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### විජයදාස ට ඉවත් වෙන්නැයි ජනපති පවසයි
+
+*2024-06-18 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197893) · `si`
+
+අමාත්‍ය විජයදාස රාජපක්ෂ මහතාට ආණ්ඩුවෙන් ඉවත් වන ලෙස ජනාධිපතිවරයා බලපෑම් කර ඇතැයි ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා පැවසීය.
+
+ඔහු සඳහන් කළේ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා දේශපාලන මණ්ඩලයේදී ඒ බව සඳහන් කළ බවය.
+
+◼️
+
+[Data](articles/a29a302f.json)
+
+---
 
 ### Buses killed in bike accident
 
@@ -2363,29 +2377,5 @@ The water supply of the water leak was disrupted in Godagama, Homagama, Pannipit
 [Data](articles/1e04c1c2.json)
 
 [Extended Data](ext_articles/1e04c1c2.ext.json)
-
----
-
-### Super win to New Zealand
-
-*2024-06-18 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197863) · `si`
-
-New Zealand triumphed over Papuavania in a T20 World Cup match, winning by 7 wickets. Papuavania, batting first, made 78 runs in 19 overs before being bowled out. Lokiki Ferguson starred for New Zealand with three crucial wickets, as New Zealand reached the target in just 12 overs.
-
-🟩
-
-New Zealand won the match by 07 wickets in the match with the Papuavania group of 20 World Cup.
-
-Batting first, Papuanevinia scored 78 runs for the loss of 19 overs.
-
-Lokiki Ferguson of New Zealand Ferguson, New Zealand, Loku Ferguson, was able to collapse to three wickets in their overs.
-
-New Zealand scored the bowled out for three wickets in 12 overs.
-
-◼️
-
-[Data](articles/722d1532.json)
-
-[Extended Data](ext_articles/722d1532.ext.json)
 
 ---

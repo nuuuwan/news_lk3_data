@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 03:04:33**
+As of **2024-06-19 03:19:31**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,008 (100.0%) of 31,009 articles have been extended.
+31,009 (100.0%) of 31,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ’பாலின சமத்துவ தீர்ப்பை ஏற்க முடியாது’
+### Can't accept the gender equality judgment
 
 *2024-06-19 01:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலின-சமத்துவ-தீர்ப்பை-ஏற்க-முடியாது/175-339101) · `ta`
 
-பாலின சமத்துவச் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றம் வழங்கிய தீர்ப்பு, பெண்களின் உரிமைகளுக்கும் பௌத்த மதத்தின் பாதுகாப்பிற்கும் சவாலாகவும் பிரச்சினைக்குரியதாகவும் அமையலாம் என்பதால் இந்தச் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றம் வழங்கிய தீர்ப்பை ஏற்க முடியாது. எனவே அது குறித்து ஆராய பாராளுமன்ற தெரிவுக்குழுவொன்று நியமிக்கப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+The Supreme Court's rejection of the Gender Equality Bill raises concerns about women's rights and Buddhist safety. President Ranil Wickremesinghe suggests a parliamentary select committee to review the bill, highlighting constitutional and policy implications. The High Court's dismissal of certain bill sections, despite past judgments and amendments, underscores legal complexities and the need for careful consideration of women's rights and national policies.
 
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (18)  பாலின சமத்துவச் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றம் வழங்கிய வியாக்கியானத்தை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்த பின்னர் கருத்து வெளியிடுகையிலேயே இவ்வாறு தெரிவித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க மேலும் கூறுகையில்,
+🟩
+
+The Supreme Court's decision on the Gender Equality Bill can be challenging women's rights and the safety of Buddhism, as the Supreme Court cannot accept the verdict on the bill.. President Ranil Wickremesinghe said a parliamentary select committee should be appointed to investigate it.
+
+President Ranil Wickremesinghe further stated that Speaker Mahinda Yapa Abeywardena made this comment on the Supreme Court on Tuesday (18) in Parliament
+
+The Supreme Court's ruling exceeds the power of Parliament under Article 4 of the Constitution. The courts also question which national policy is referred to as the Gender Equality Bill. This refers to the National Policy of Gender Equality and Women's Power adopted in 2011. It is the duty of all governments to adopt international traditions on women's rights. This is also complied with the Sustainable Development Policies agreed to implement Sri Lanka
 
 ...
 
 [Data](articles/e6c1806c.json)
+
+[Extended Data](ext_articles/e6c1806c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 14:19:18**
+As of **2024-06-18 14:34:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,930 (100.0%) of 30,933 articles have been extended.
+30,933 (100.0%) of 30,933 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Thailand is already known for its vibrant LGBTQ+ culture and tolerance, making i
 ...
 
 [Data](articles/8ea8bb41.json)
+
+[Extended Data](ext_articles/8ea8bb41.ext.json)
 
 ---
 
@@ -268,19 +270,27 @@ Police used water cannons to disperse a group of unemployed graduates protesting
 
 [Data](articles/a7468786.json)
 
+[Extended Data](ext_articles/a7468786.ext.json)
+
 ---
 
-### යෝජිත කුලි ආදායම් බද්ද ගැන ජනපතිගෙන් පැහැදිලි කිරිමක්
+### President explanations about proposed Treasury Income Tax
 
 *2024-06-18 12:18:08* · [`adalk`](https://www.ada.lk/breaking_news/යෝජිත-කුලි-ආදායම්-බද්ද-ගැන-ජනපතිගෙන්-පැහැදිලි-කිරිමක්/11-410284) · `si`
 
-පුද්ගලයෙකු සතු පළමු දේපළ යෝජිත කුලී ආදායම් බද්දෙන් නිදහස් කෙරෙන බවත්, එසේම මෙම බද්ද සාමාන්‍ය ආදායම් ලබන්නන් වෙත නොව ඉහළ ශුද්ධ ආදයම් ලබන්නන් වෙත පැනවෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහා පාර්ලිමේන්තුවේදී පැවැසීය.
+In a parliamentary address, President Ranil Wickremesinghe announced plans for a revenue tax, emphasizing its release tax aspect. He also mentioned his intention to form a Select Committee to examine the Supreme Court's ruling on the gender-equality bill.
 
-පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් මේ බව සඳහන් කල ජනපතිවරයා ස්ත්‍රී පුරුෂ සමාජභාවය පිළිබඳ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණ තීරණය  අධ්‍යයනය කිරීම සඳහා තේරීම් කාරක සභාවක් පත් කිරීම අවශ්‍ය බවද පැවැසීය.
+🟩
+
+President Ranil Wickremesinghe said in parliament that the first property of the proposed revenue tax will be released tax on the proposed revenue tax.
+
+He said that this was a special statement in Parliament, the President wanted to appoint a Select Committee to study the Supreme Court decision on gender -s equality bill.
 
 ◼️
 
 [Data](articles/3e979100.json)
+
+[Extended Data](ext_articles/3e979100.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 11:19:26**
+As of **2024-06-18 11:34:55**
 
 ## Newspaper Stats
 
-*Scraped **30,902** Articles*
+*Scraped **30,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,80 @@ economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,680
 adaderanalk | 3,502
-tamilmirrorlk | 3,626
+tamilmirrorlk | 3,627
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,013
+adaderanasinhalalk | 5,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,900 (100.0%) of 30,902 articles have been extended.
+30,902 (100.0%) of 30,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### 13ஆவது திருத்தத்தில் அரசியல் பந்தாட்டம் ; ஆளுக்கொரு நிலைப்பாட்டிலிருக்கும் ஐக்கிய மக்கள் சக்தி எம்.பி.க்கள்
+### ලෝටස් පාර අවහිර වෙයි
+
+*2024-06-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197876) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ විරෝධතාවයක් හේතුවෙන් මේ වනවිට ලෝටස් පාර අවහිර වී තිබේ.
+
+◼️
+
+[Data](articles/72241234.json)
+
+---
+
+### அதிக வருமானம் ஈட்டுவோரிடமே வரி அறிவிடப்படும்
+
+*2024-06-18 11:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வருமானம்-ஈட்டுவோரிடமே-வரி-அறிவிடப்படும்/175-339065) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் பாராளுமன்றத்தில் ஆற்றிய உரையில், முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர் என்றும், சாதாரண வருமானம் ஈட்டுபவர்களுக்கு அன்றி, அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும் என்றும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/dab0af14.json)
+
+---
+
+### Political betting in the 13th Amendment;United People's Power MPs
 
 *2024-06-18 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186336) · `ta`
 
-தேர்தல் அண்மிக்கும் காலங்களில் குறிப்பாக ஜனாதிபதித் தேர்தலுக்கான கால கட்டத்தில் தத்தமது தொகுதிகளை பிரதிநிதித்துவப்படுத்தும் அரசியல்வாதிகளை விட, வேட்பாளர்களால் வாக்குறுதிகள் அள்ளி இறைக்கப்படும்.
+Candidates promise more than elected officials did before the recent election, notably during the presidential race. This trend is observed among United People's Power MPs discussing political betting related to the 13th Amendment.
+
+🟩
+
+Promises will be made by candidates than the politicians representing their constituencies in the recent election, especially during the presidential election.
 
 ◼️
 
 [Data](articles/5786ca2e.json)
 
+[Extended Data](ext_articles/5786ca2e.ext.json)
+
 ---
 
-### தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் சில பிரிவுகள் அரசியலமைப்புக்கு முரண் !
+### Some sections of the Telecommunication Amendment Bill are contrary to the Constitution!
 
 *2024-06-18 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186340) · `ta`
 
-தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் சில பிரிவுகள் அரசியலமைப்புக்கு முரண் என உயர் நீதிமன்றம் அறிவித்துள்ளதாக சபாநாயகர் பாராளுமன்றத்துக்கு அறிவித்தார்.
+The Supreme Court found parts of the Telecommunication Amendment Bill unconstitutional, while the High Court advised passing certain clauses with a special majority.
 
-அத்துடன், சில சரத்துக்கள் விசேட பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டுமென உயர் நீதிமன்றம் தெரிவித்துள்ளதாகவும் சபாநாயகர் தெரிவித்தார்.
+🟩
+
+The Speaker announced to Parliament that the Supreme Court had declared that some sections of the Telecommunication Amendment Bill were contrary to the constitution.
+
+The Speaker also said that the High Court has said that some strings should be passed with a special majority.
 
 ◼️
 
 [Data](articles/40ea99a1.json)
+
+[Extended Data](ext_articles/40ea99a1.ext.json)
 
 ---
 
@@ -2303,49 +2339,5 @@ Directed by director Jashwini, the Internet series stars RJ Vijay, Soundarya, Na
 [Data](articles/bd11ca1a.json)
 
 [Extended Data](ext_articles/bd11ca1a.ext.json)
-
----
-
-### Kannada actor Sri Murali
-
-*2024-06-17 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186291) · `ta`
-
-Sri Murali announced Prithvi Amber as the lead in "Chaoukidar," directed by Chandrasekhar Pandiyappa and produced by Vidya Shekhar Entertainment. The film, also releasing in Tamil, Telugu, Malayalam, Kannada, and Hindi, follows the success trend of Kannada films in India.
-
-🟩
-
-Prithvi Amber, the leading young star of the Kannada film industry, is named 'Chaoukidar' starring the hero of the story. Sri Murali, the leading star actor of Kannada, made the official announcement.
-
-Prithvi Amber is playing the hero of the story of 'Chaukithar' directed by director Chandrasekhar Pandiyappa. The film is composed by Sachin Basrur on behalf of Vidya Shekhar Entertainment and producer Kalhalli Chandrasekhar. The details of other actor and technicians working in the film are expected to be officially released soon.. The film is also being produced in Tamil, Telugu, Malayalam, Kannada and Hindi, the film crew said.
-
-Tamil filmmakers say that Ban Indian films have increased from Kannada after the huge success of 'KG F'.
-
-◼️
-
-[Data](articles/25d32780.json)
-
-[Extended Data](ext_articles/25d32780.ext.json)
-
----
-
-### The star heir is introduced by the film 'Phoenix'
-
-*2024-06-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186296) · `ta`
-
-"Phoenix - Vaan introduces Surya Sethupathi, son of Vijay Sethupathi, marking his acting debut alongside director Anal Government. The film, featuring a star-studded cast, is produced by Mrs. Rajalakshmi Anal. Shot and completed, it premiered with a teaser release on the director's birthday, showcasing Surya as a boxer in action-packed scenes. The teaser garnered widespread attention, hinting at high expectations for the film."
-
-🟩
-
-It is the nature of the leading star actors in the Tamil film industry to introduce their successors to the art world. In this way, Surya Sethupathi, the successor of Vijay Sethupathi, the leading star actor of this generation, makes his debut as the hero of the story through the film 'Phoenix - Vaan'.
-
-Fighting Training Director Anal Government is making his debut as a film director.Surya Sethupathi, Varalakshmi Sarathkumar, Sampath, Devadarshini, Muthukumar, Dileepan, Ajay Ghosh, Harish Uthaman, Abhi Star, Varsha, Naveen, Nanda Saravanan. The film has been composed by Sam CS for the film.. The film is being produced as an exercise enterter and produced by Mrs. Rajalakshmi Anal on behalf of AK Braveman Pictures.
-
-The shooting of the film is completed and the post -shooting technical work is underway. In this case, the teaser of the film was released on the occasion of the birthday of director Anal government. Surya's father and leading star actor Vijay Sethupathi released the film.
-
-...
-
-[Data](articles/7d90726b.json)
-
-[Extended Data](ext_articles/7d90726b.ext.json)
 
 ---

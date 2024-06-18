@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 12:35:16**
+As of **2024-06-18 12:53:11**
 
 ## Newspaper Stats
 
-*Scraped **30,920** Articles*
+*Scraped **30,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,684
+adalk | 2,685
 adaderanalk | 3,503
 tamilmirrorlk | 3,630
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,016
+adaderanasinhalalk | 5,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,917 (100.0%) of 30,920 articles have been extended.
+30,920 (100.0%) of 30,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### විදේශ රැකියා පෙන්වා මුදල් වංචා කළ තවත් කතක් කොටුවෙයි
+
+*2024-06-18 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197879) · `si`
+
+මැදපෙරදිග රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ගම්පොළ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+කටාර්, ඩුබායි ඇතුළු මැදපෙරදිග රැකියා ලබාදෙන බව පවසා ගම්පොළ ප්‍රදේශයේ කාන්තාවක් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 7ක් ලැබී තිබුණු අතර එම පැමිණිලිවලට අනුව මෙම කාන්තාව වංචා කර ඇති මුදල් ප්‍රමාණය රුපියල් ලක්ෂ 40ට අධික වේ.
+
+මෙයට පෙර ද ගම්පොළ පොලීසිය මගින් ඇයට විරුද්ධව අධිකරණයේ නඩු පවරා ඇත.
+
+ගම්පොළ පොලීසියේද සහාය ඇතුව දැඩි පරිශ්‍රමයක් දැරීමෙන් අනතුරුව මෙම කාන්තාව අත්අඩංගුවට ගෙන ගම්පොළ පොලීසියේ රඳවා ප්‍රශ්න කිරීම් සිදුකරන බව ද විදේශ සේවා නියුක්ති කාර්යාංශය පැවසීය.
+
+මෙම කාන්තාව අත්අඩංගුවට ගත් බව සැලවීමෙන් පසු මෙම කාන්තාවට මුදල් ලබා දුන් තවත් පුද්ගලයන් ගම්පොළ පොලීසියට පැමිණ පැමිණිලි කර තිබේ.
+
+එම පැමිණිලි සම්බන්ධයෙන් කාර්යාංශයේ විශේෂ විමර්ශන අංශය ඉදිරියේදී විමර්ශනය කිරීමට නියමිතය.
+
+...
+
+[Data](articles/4f832bc1.json)
+
+---
 
 ### Police attack the protesters
 
@@ -50,35 +72,51 @@ Police have launched a water strike at the Paladuwa junction to dissolve protest
 
 ---
 
-### ஜப்பானில் பரவும் புது பக்டீரியா: 1000 பேர் பாதிப்பு
+### New bacteria spreading in Japan: 1000 people vulnerable
 
 *2024-06-18 11:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-பரவும்-புது-பக்டீரியா-1000-பேர்-பாதிப்பு/50-339068) · `ta`
 
-டோக்கியோ:  'குரூப் ஏ ஸ்ட்ரெப்டோகாக்கஸ்' எனப்படும் இறைச்சியை உண்ணும் அரிதான பக்டீரியா ஜப்பானில் பரவி வருகிறது. இந்த பக்டீரியா தொற்றை கவனிக்காமல் விட்டால், இரண்டு நாட்களில் உயிரிழப்பு ஏற்படும் அபாயம் உள்ளதாக மருத்துவர்கள் தெரிவித்தனர். இந்த பக்டீரியாவினால் இதுவரையிலும் 1,000 பேர் பாதிக்கப்பட்டுள்ளனர்.
+A rare bacteria, Group A Streptococcus, causing severe infections including death within 48 hours, is spreading in Japan, affecting over 1,000 people. Symptoms range from throat pain to life-threatening conditions like organ failure. The infection spreads easily among close contacts and through shared food and drinks. Experts warn that without proper treatment, the number of cases could rise to 2,500, with a fatality rate of 30%.
 
-குரூப் ஏ ஸ்ட்ரெப்டோகாக்கஸ் எனும் பக்டீரியா 1999ல் ஜப்பானில் கண்டறியப்பட்டது. இந்த வகை தொற்று பாதிக்கப்பட்ட நபருடன் நெருங்கி பழகுபவர்களுக்கும், அவர்களுடன் உணவு மற்றும் பானங்களை பகிர்ந்து உண்பவர்களுக்கும் எளிதில் பாதிப்பு ஏற்படுவதாக ஜப்பான் தொற்று நோயியல் மையம் தெரிவித்துள்ளது.
+🟩
 
-இந்த வகை பக்டீரியா தொற்று பொதுவாக வீக்கம் மற்றும் தொண்டை வலியை ஏற்படுத்துகிறது; மூட்டு வலி, வீக்கம், காய்ச்சல், குறைந்த ரத்த அழுத்தம், சுவாசப் பிரச்னைகள், உறுப்பு செயலிழப்பு மற்றும் உயிரிழப்பு ஏற்படவும் வாய்ப்புள்ளதாக டாக்டர்கள் கூறுகின்றனர்.
+Tokyo: The rare bacteria that eaters a meat known as 'Group A Streptococcus' is spreading in Japan. Doctors said that if the bacteria infection is not overlooked, there is a risk of death in two days.. 1,000 people have been affected by this bacteria.
+
+Group A streptococcus, a bacteria found in Japan in 1999. The Japanese infection Center said that this type of infection is easily affected by those who are close to the affected person and those who share food and drinks with them.
+
+This type of bacterial infection usually causes swelling and throat pain;Doctors say arthritis, inflammation, fever, low blood pressure, respiratory problems, organ failure and fatalities.
+
+At present, the number of victims of the bacterial infection in Japan is nearing 1,000, which is higher than last year, according to the National Infectious pathology Center.
+
+Regarding meat -eating bacteria, Professor of Infectious Pathology at the University of Tokyo Medical University said:
 
 ...
 
 [Data](articles/90958566.json)
 
+[Extended Data](ext_articles/90958566.ext.json)
+
 ---
 
-### வட கொரியா செல்கிறார் புட்டின்
+### Putin goes to North Korea
 
 *2024-06-18 11:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வட-கொரியா-செல்கிறார்-புட்டின்/50-339067) · `ta`
 
-இரு நாள் பயணமாக ரஷ்ய ஜனாதிபதி விளாடிமிர்புடின், இன்று (ஜூன் 18) வடகொரியா செல்கிறார். ரஷ்யாவின் நட்புறவு நாடாக வட கொரியா உள்ளது. வட கொரியா ஜனாதிபதியான கிம்ஜோங் உன் ஏற்கனவே ரஷ்யாவிற்கு அரசு முறைப்பயணம் சென்றிருந்தார்.
+Russian President Vladimir Putin visits North Korea on June 18 for a two-day trip, strengthening ties with its "friendly" nation. This visit follows North Korean leader Kim Jong Un's previous trip to Russia. Putin attends a significant conference and signs crucial agreements during his stay, despite Russian government officials denying the trip.
 
-இந்நிலையில் இன்று (ஜூன்18-) ரஷ்ய ஜனாதிபதி விளாடிமிர்புடின் இரு நாள் பயணமாக வட கொரியா செல்கிறார். வடகொரியா ஜனாதிபதி கிம்ஜோங் உன் ஐ சந்தித்து பேசுகிறார். அங்கு நடைபெற உள்ள முக்கிய மாநாடு ஒன்றில் புட்டின் பங்கேற்று இருவரும் முக்கிய ஆவணங்களில் ஒப்பந்தம் மேற்கொள்கின்றனர் என செய்திகள் வெளியாகியுள்ளன.
+🟩
 
-இதனை மறுத்த ரஷ்யா அரசு நிர்வாகம் புட்டினின் வட கொரியா பயணம் நட்புறவு ரீதியான பயணம் தெரிவிக்கிறது.
+Russian President Vladimirpudin on a two -day trip today (June 18). North Korea is Russia's friendly country. North Korea President Kimjong Un had already visited Russia.
+
+Russian President Vladimirpudin is on a two-day trip to North Korea today (June 18). North Korea President Kimjong meets. Putin participated in a major conference to be held there and signed on important documents.
+
+Russia's government administration refuses to do so reports Putin's North Korea trip.
 
 ◼️
 
 [Data](articles/7674d7ae.json)
+
+[Extended Data](ext_articles/7674d7ae.ext.json)
 
 ---
 
@@ -154,19 +192,25 @@ The relevant protest march has been organized by the University Trade Union Join
 
 ---
 
-### இலங்கையில் 42 பேருக்கு தூக்கு
+### 42 people in Sri Lanka
 
 *2024-06-18 11:26:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-42-பேருக்கு-தூக்கு/175-339066) · `ta`
 
-இலங்கையில், கண்டி, போகம்பறை சிறைச்சாலையில் வைத்து 42 பேர் தூக்கிலிடப்பட்டுள்ளனர் என நீதி சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு, மறுசீரமைப்பு அமைச்சர் கலாநிதி விஜயதாஸ ராஜபக்ஸ பாராளுமன்றத்தில் இன்று (18) தெரிவித்தார்.
+Dr. Vijayadasa Rajapaksa announced in Parliament that 42 executions took place at Bogambara Prison between 1969 and 1976, with no executions since then.
 
-பாராளுமன்றத்தில் வாய்மூல விடைக்கான வினாக்கள் நேரத்தில், பாராளுமன்ற உறுப்பினர் புத்திக பத்திரண எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-1959 ஆம் ஆண்டு முதல் 1975 ஆம் ஆண்டு வரையிலும் 31 பேர் தூக்கிலிடப்பட்டுள்ளனர்.  1969 ஆம் ஆண்டு முதல் 1976ஆம் ஆண்டு வரையிலும் 42 பேர் தூக்கிலிடப்பட்டுள்ளனர். அதற்கு பின்னர் இலங்கையில் மரண தண்டனை அமுலில் இல்லை என்றார்.
+Minister of Justice, Dr. Vijayadasa Rajapaksa told Parliament today (18) that 42 persons have been executed at the Bogambara Prison in Kandy, Kandy, Kandy.
+
+In response to questions raised by MP Buddhika Pathirana at the time of the oral response in Parliament, he said this.
+
+From 1959 to 1975, 31 people were executed.42 people were executed from 1969 to 1976. He said the death penalty was not in effect after that.
 
 ◼️
 
 [Data](articles/8df590cd.json)
+
+[Extended Data](ext_articles/8df590cd.ext.json)
 
 ---
 
@@ -185,6 +229,22 @@ Lotus Road has been blocked due to protest of university non-academic workers.
 [Data](articles/72241234.json)
 
 [Extended Data](ext_articles/72241234.ext.json)
+
+---
+
+### මැදපෙරදිග රැකියා පෙන්වා රු. ලක්ෂ 40ක් වංචා කළ සැකකාරියක් අල්ලයි
+
+*2024-06-18 11:09:36* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-පෙන්වා-රු--ලක්ෂ-40ක්-වංචා-කළ සැකකාරියක්-අල්ලයි/11-410280) · `si`
+
+මැදපෙරදිග රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ජූනි මස 16 දින ගම්පොළ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+කටාර්, ඩුබායි ඇතුළු මැදපෙරදිග රැකියා ලබාදෙන බව පවසා ගම්පොළ ප්‍රදේශයේදී පදිංචි වත්සලා චාරුනී දිසානායක නම් කාන්තාවක් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියා ලබා නොදුන් බවට කාර්යාංශයට පැමිණිලි 7ක් ලැබී තිබුණු අතර එම පැමිණිලි වලට අනුව මෙම කාන්තාව වංචා කර ඇති මුදල් ප්‍රමාණය රුපියල් ලක්ෂ 40ට අධික වේ. මෙයට පෙර ගම්පොළ පොලිසිය මගින් ද ඇයට විරුද්ධව අධිකරණයේ නඩු පවරා ඇත.
+
+ගම්පොළ පොලිසියේද සහය ඇතුව දැඩි පරිශ්‍රමයක් දැරීමෙන් අනතුරුව මෙම කාන්තාව අත්අඩංගුවට ගෙන ගම්පොළ පොලිසියේ රදවා ප්‍රශ්න කිරීම් සිදු කරන ලදී. මෙම කාන්තාව අත්අඩංගුවට ගත් බව සැලවීමෙන් පසු මෙම කාන්තාවට මුදල් ලබා දුන් තවත් පුද්ගලයන් ගම්පොළ පොලිසියට පැමිණ පැමිණිලි කර තිබේ. එම පැමිණිලි සම්බන්ධයෙන් කාර්යාංශයේ විශේෂ විමර්ශන අංශය ඉදිරියේදී විමර්ශනය කිරීමට නියමිතයි.
+
+...
+
+[Data](articles/c1ff1967.json)
 
 ---
 
@@ -2265,53 +2325,5 @@ A motorcycle traveling from Lunugala to Badulla has been transferred to the Badu
 [Data](articles/5126dd35.json)
 
 [Extended Data](ext_articles/5126dd35.ext.json)
-
----
-
-### Change in the weather from the 19th
-
-*2024-06-17 19:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19ஆம்-திகதியிலிருந்து-வானிலையில்-மாற்றம்/175-339035) · `ta`
-
-From the 19th, expect increased rainfall, especially in the Western, Sabaragamuwa, North Western Provinces, and districts like Galle, Matara, Kandy, and Nuwara Eliya. Strong winds of 40-50 km/h are forecasted for certain areas including the Western slopes of the Central Highlands, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, and Moneragala districts.
-
-🟩
-
-The Department of Meteorology has predicted that the rainy situation is likely to increase slightly in the next few days from the 19th.
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology has noted that strong winds are likely to be at speeds of 40-50 km / h in the Western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/a2b268c2.json)
-
-[Extended Data](ext_articles/a2b268c2.ext.json)
-
----
-
-### A wave of strikes from today
-
-*2024-06-17 19:28:23* · [`adalk`](https://www.ada.lk/breaking_news/අද-සිට-වර්ජන-රැල්ලක්/11-410273) · `si`
-
-Strikes across various sectors including university academics, postal services, and railways have been initiated due to unresolved issues such as pay problems, promotions, and allowances. These actions are expected to continue, with specific demands for salary increases and better working conditions. The situation is complex, with multiple groups protesting and taking professional measures to address their grievances.
-
-🟩
-
-A wave of strikes have been created between pay problems, allowances and promotion issues today (18).
-
-Accordingly, the problems that have been resolved today (18) will not be solved today (18).. If the problems of university non-academic problems are not resolved today, the trade measures are decided to raise.
-
-If it is delayed by the problems that have been made to the problems of postal workers, the professional measures have been initiated since the 24th of this month and the decision to start the problems of the Grama Niladhari.
-
-One day strike and protest protest will be planted on the 26th of this month demanding the solution to the problems of teachers.. A revision of the Service Minute for the Supplementary Medical Service has been unable to receive more than 1200 people from grade 1 to the high rank.
-
-The association states that it is planned to commence at the next week of hospital level due to delaying the problems of the problems.
-
-...
-
-[Data](articles/adefe521.json)
-
-[Extended Data](ext_articles/adefe521.ext.json)
 
 ---

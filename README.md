@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 04:34:40**
+As of **2024-06-19 04:53:11**
 
 ## Newspaper Stats
 
-*Scraped **31,012** Articles*
+*Scraped **31,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,792
-dailyftlk | 1,883
+dailyftlk | 1,890
 adalk | 2,703
 adaderanalk | 3,515
 tamilmirrorlk | 3,644
@@ -26,25 +26,143 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,011 (100.0%) of 31,012 articles have been extended.
+31,012 (100.0%) of 31,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ஆதரவான எதிர்க்கட்சி எம்.பிகளுக்கு இலஞ்சம்
+### Adani Group acquires Penna Cement
+
+*2024-06-19 04:35:18* · [`dailyftlk`](https://www.ft.lk/business/Adani-Group-acquires-Penna-Cement/34-763220) · `en`
+
+Ambuja Cements Ltd., the cement and building material company of the diversified Adani Group, recently announced the signing of a binding agreement for the acquisition of Penna Cement Industries Ltd.
+
+Ambuja will acquire 100% shares of PCIL from its existing promoter group, P. Pratap Reddy and family. The acquisition will be fully funded through internal accruals.
+
+...
+
+[Data](articles/ec41bf2e.json)
+
+---
+
+### OPA forum says economy must become more export-oriented to benefit from FTAs
+
+*2024-06-19 04:31:12* · [`dailyftlk`](https://www.ft.lk/business/OPA-forum-says-economy-must-become-more-export-oriented-to-benefit-from-FTAs/34-763219) · `en`
+
+A seminar on the “Economic Impact of Free Trade Agreements” conducted recently by the Organisation of Professional Associations (OPA) revealed that while free trade agreements offered many advantages to Sri Lanka, the country’s economy needed to become more export-oriented in order to fully enjoy these benefits.
+
+The speakers at this event were International Trade Office Chief Negotiator K.J. Weerasinghe, Federation of Chambers Sri Lanka President Keerthi Gunawardana, and KIK Lanka Ltd. Chairman Lalith Kahatapitiya. The event was organised by the National Issues Committee and the Construction Industry Committee of the OPA, and was moderated by Bhanu Wijayaratne. It was attended by office bearers and members of the OPA, including OPA President Sarath Gamage, OPA President-Elect Sujeewa Lal Dahanayake, and OPA General Secretary Tisara de Silva.
+
+...
+
+[Data](articles/5cb59910.json)
+
+---
+
+### Ceylon Chamber signs MoU with Southern Gujarat Chamber of Commerce and Industry
+
+*2024-06-19 04:29:22* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-signs-MoU-with-Southern-Gujarat-Chamber-of-Commerce-and-Industry/34-763218) · `en`
+
+The Ceylon Chamber of Commerce recently signed a Memorandum of Understanding (MoU) with the Southern Gujarat Chamber of Commerce and Industry (SGCCI), paving the way for enhanced cooperation and growth between Sri Lanka and the dynamic business community of South Gujarat, India.
+
+Established in 1940, SGCCI’s influence extends through its direct engagement with over 12,000 members and indirect ties to more than 2,00,000 members via 150 associations, and it is a leading force in promoting trade, commerce, and industry in South Gujarat. The region’s commercial and economic centre Surat has risen to prominence as the global epicentre for diamond cutting and as India’s textile hub, and is ranked the world’s fourth fastest growing city with a GDP growth rate of 11.5%
+
+...
+
+[Data](articles/3d9841ba.json)
+
+---
+
+### President raises point of order in Parliament over SC ruling on Gender Equality Bill
+
+*2024-06-19 04:27:44* · [`dailyftlk`](https://www.ft.lk/news/President-raises-point-of-order-in-Parliament-over-SC-ruling-on-Gender-Equality-Bill/56-763217) · `en`
+
+President Ranil Wickremesinghe yesterday in Parliament raised a point of order that the Supreme Court determination on Gender Equality Bill violates the powers of the House and a Parliamentary select Committee must be appointed to look into the matter.
+
+“First and foremost the bill says, what the national policy on gender equality and empowerment of women is referred to in this bill. At the least it’s hard to find out. It’s not specific as there is no reference in the bill. There has been a national policy on women’s empowerment and gender equality since 2011. These are obligations of the Government under the Sustainable Development Goals 5 and a number of women’s conventions and agreements that we have signed.
+
+The Supreme Court cannot in any way go and make any ruling on this. Then they are contravening and coming into our area.
+
+Secondly, there’s a large number of cases which have been given on the question of equality and equality of women.
+
+...
+
+[Data](articles/daaba9b3.json)
+
+---
+
+### Charitha calls out President’s misuse of legislative privileges in Parliament
+
+*2024-06-19 04:26:31* · [`dailyftlk`](https://www.ft.lk/news/Charitha-calls-out-President-s-misuse-of-legislative-privileges-in-Parliament/56-763216) · `en`
+
+Freedom People’s Congress (FPC) member, MP Prof. Charitha Herath yesterday voiced strong opposition to President Ranil Wickremesinghe’s use of Parliamentary privilege to make statements in the House.
+
+Herath specifically criticised the President’s remarks in Parliament regarding the Supreme Court’s determination on the Gender Equality Bill.
+
+Addressing Parliament, Herath emphasised that while the President becomes a member of the House through a unique process, he is not part of the Legislature but rather the Executive. He argued that the President, as the leader of the Executive, should not comment on judicial determinations from within the Legislature, as it breaches established tradition. “The benefits accorded to the Legislature are being indirectly utilised by the Executive,” Herath asserted.
+
+...
+
+[Data](articles/69031a0e.json)
+
+---
+
+### Thailand to become first Southeast Asian nation to legalise same-sex marriage
+
+*2024-06-19 04:24:53* · [`dailyftlk`](https://www.ft.lk/news/Thailand-to-become-first-Southeast-Asian-nation-to-legalise-same-sex-marriage/56-763215) · `en`
+
+CNN – Thailand will become the first nation in Southeast Asia to legalise same-sex marriage after the Kingdom’s Senate approved a Marriage Equality Bill on Tuesday, with supporters calling it a “monumental step forward for LGBTQ+ rights.”
+
+The Senate voted overwhelmingly in favour of passing the bill following a final reading, with 130 senators voting in favour. Only four members opposed the bill. The bill still requires endorsement from the King before marriage equality can become a reality in Thailand, but this process is considered a formality. The law will then come into effect 120 days after it is published in the Royal Gazette.
+
+The result of the vote means that Thailand will become only the third place in Asia to allow for marriage equality after Taiwan legalised same-sex marriage in 2019 and Nepal in 2023.
+
+◼️
+
+[Data](articles/c51d6e17.json)
+
+---
+
+### Sri Lanka and China successfully conclude 13th round of diplomatic consultations in Beijing
+
+*2024-06-19 04:24:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-successfully-conclude-13thround-ofdiplomatic-consultations-in-Beijing/56-763214) · `en`
+
+Sri Lanka and China concluded the 13th round of diplomatic consultations on 17 June in Beijing.
+
+The consultations were led by Sri Lanka Foreign Affairs Secretary Aruni Wijewardane and People’s Republic of China Foreign Affairs Vice Minister Sun Weidong.
+
+The two sides reviewed bilateral cooperation in a wide range of areas including recent high-level visits, economic and trade enhancement, debt restructuring, people-to-people exchanges, tourism, as well as recent developments in multilateral fora.
+
+Wijewardane appreciated China’s assistance to Sri Lanka during challenging times and, in the context of the priority given by Sri Lanka to economic recovery and growth, identified potential avenues for further cooperation on green initiatives, agriculture modernisation, renewable energy, food security, investment promotion as well as enhancement of trade, tourism, and people-to-people contacts.
+
+...
+
+[Data](articles/4299d9b2.json)
+
+---
+
+### Bribery to support opposition MPs
 
 *2024-06-19 01:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவான-எதிர்க்கட்சி-எம்-பிகளுக்கு-இலஞ்சம்/175-339104) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களுக்கான பன்முகப்படுத்தப்பட்ட நிதியை அரசாங்கத்திற்கு ஆதரவாக செயற்படும் எதிர்க்கட்சியினருக்கு மாத்திரம் வழங்குவதானது இலஞ்சம் வழங்குவதற்கு சமமானது என்று எதிர்க்கட்சி பிரதம கொரடாவான ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் லக்‌ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+Opposition leader Lakshman Kiriella accuses the government of bribery towards certain opposition MPs, citing the allocation of funds as evidence. He questions the selective distribution, suggesting it undermines parliamentary diversity and implies favoritism towards specific parties.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) பன்முகப்படுத்தப்பட்ட நிதி தொடர்பில் சுயாதீன எதிரணி பாராளுமன்ற உறுப்பினரான தயாசிறி ஜயசேகரவினால் முன்வைக்கப்பட்ட கூற்றை தொடர்ந்து தனது கருத்தை முன்வைத்து உரையாற்றுகையிலேயே லக்‌ஷ்மன் கிரியெல்ல இவ்வாறு கூறினார்.
+🟩
 
-பன்முகப்படுத்தப்பட்ட நிதி கடந்த காலங்களாக எதிர்க்கட்சி உறுப்பினர்களுக்கு வழங்கப்படாது இருக்கின்றது. இது தொடர்பில் அடிக்கடி சுட்டிக்காட்டியுள்ளோம். ஆனால் இப்போது பட்டியலொன்று வந்துள்ளது. அதில் சில எம்.பிக்களுக்கு 100 மில்லியன் ரூபாய் வழங்கப்பட்டுள்ளது.
+United People's Power MP Lakshman Kiriella, the opposition chief minister, said that it is equivalent to bribing the opposition parties that only support the diversity of MPs in favor of the government.
+
+Lakshman Kiriella said this while addressing his views on the claim made by Independent Opposition Parliamentarian Dayasiri Jayasekara on diversity in Parliament on Tuesday (18).
+
+Diversity funds have not been given to opposition members in the past. We have often pointed out in this regard. But now the list has come. Some MPs have been paid 100 million rupees.
+
+This means that Faisal Qasim, Harris, Isad Rahman and Ali Sahir Maulana Akhiyar have been allocated 100 million rupees. 84 million rupees has been allocated to Rishad Bathiudin. It is not known why such care is given. Why is only one part of the opposition members?
 
 ...
 
 [Data](articles/4064e495.json)
+
+[Extended Data](ext_articles/4064e495.ext.json)
 
 ---
 
@@ -2273,155 +2391,5 @@ Promises will be made by candidates than the politicians representing their cons
 [Data](articles/5786ca2e.json)
 
 [Extended Data](ext_articles/5786ca2e.ext.json)
-
----
-
-### Four year old disappearance missing
-
-*2024-06-18 11:36:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-04ක-දරුවකු-අතුරුදන්/11-410282) · `si`
-
-A four-year-old boy disappeared from his home in Duncan on July 17th. His parents reported him missing to the Nedaka, and a search involving the local community and emergency services is underway. The boy was last seen playing outside his house.
-
-🟩
-
-The child's parents have complained to the Nedaka, a 4 year old boy in Duncan yesterday (17).
-
-An inquiry made by a resident of Lakstopana, Nallathaniya, a man named Savadaniya, a resident of Laxapana, had come to a wedding in Norwood Duncan with the parents.
-
-The child was playing near the house in the evening yesterday (17).
-
-The official said that the child's father Sivadase Wasanthan has passed the 119 emergency sector.
-
-The officer added that the Noard has found a widespread insurance with the complaint with the complaint and that the child is unable to find the child today (18).
-
-◼️
-
-[Data](articles/cdd613e4.json)
-
-[Extended Data](ext_articles/cdd613e4.ext.json)
-
----
-
-### Lotus Road in Colombo blocked due to protest
-
-*2024-06-18 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99944/lotus-road-in-colombo-blocked-due-to-protest) · `en`
-
-The Lotus Road in Colombo Fort has been blocked for traffic owing to a protest march by university non-academic staff, Ada Derana reporter said.
-
-Accordingly, it is reported that the road has been completely closed for vehicular movement resulting in severe traffic congestion in the area.
-
-The relevant protest march has been organized by the University Trade Union Joint Committee (UTUJC).
-
-◼️
-
-[Data](articles/73e0cd1b.json)
-
-[Extended Data](ext_articles/73e0cd1b.ext.json)
-
----
-
-### 42 people in Sri Lanka
-
-*2024-06-18 11:26:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-42-பேருக்கு-தூக்கு/175-339066) · `ta`
-
-Dr. Vijayadasa Rajapaksa announced in Parliament that 42 executions took place at Bogambara Prison between 1969 and 1976, with no executions since then.
-
-🟩
-
-Minister of Justice, Dr. Vijayadasa Rajapaksa told Parliament today (18) that 42 persons have been executed at the Bogambara Prison in Kandy, Kandy, Kandy.
-
-In response to questions raised by MP Buddhika Pathirana at the time of the oral response in Parliament, he said this.
-
-From 1959 to 1975, 31 people were executed.42 people were executed from 1969 to 1976. He said the death penalty was not in effect after that.
-
-◼️
-
-[Data](articles/8df590cd.json)
-
-[Extended Data](ext_articles/8df590cd.ext.json)
-
----
-
-### Discussion with Dullas and Dayasiri's team Sajith
-
-*2024-06-18 11:23:06* · [`adalk`](https://www.ada.lk/breaking_news/ඩලස්-හා-දයාසිරිගේ-කණ්ඩායම්-සජිත්-සමග-එක්වෙන්න-සාකච්ඡා/11-410281) · `si`
-
-Dullas Alahapperuma and Dayasiri Jayasekera's teams are engaging in reconciliation talks with the party's national organizer, Tissa Attanayake. Discussions involve various government sectors, aiming to alter existing controls without sharing power privileges. While some parts of the government are still in discussion post-presidential elections, it's believed that all efforts will be successful, including those involving UPFA and other MPs under Dullas Alahapperuma.
-
-🟩
-
-The team of MP Dullas Alahapperuma and MP Dayasiri Jayasekera will hold talks with reconciliation and the party's national organizer MP Tissa Attanayake.
-
-Speaking to the media yesterday (17), he said this.
-
-Speaking further Mr. Tissa Attanayake said so.
-
-"Various parts are discussed with us. There are many parts of the government. We have already represented the government and discussing a few parties with them.Also, after the decisive occasion of the presidential election, another part of the government is still discussing another part of the government. We have said the same point. That is not to share our purpose privileges. Our goal should be alleged to change these existing control. There are many places to join that line. Special discussions are being exchanged, especially.
-
-...
-
-[Data](articles/816d5e46.json)
-
-[Extended Data](ext_articles/816d5e46.ext.json)
-
----
-
-### Lotus gets blocked
-
-*2024-06-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197876) · `si`
-
-"Lotus Road is closed due to protests from university non-academic staff."
-
-🟩
-
-Lotus Road has been blocked due to protest of university non-academic workers.
-
-◼️
-
-[Data](articles/72241234.json)
-
-[Extended Data](ext_articles/72241234.ext.json)
-
----
-
-### Point jobs in Middle East. A suspect arrested for defrauding Rs
-
-*2024-06-18 11:09:36* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-පෙන්වා-රු--ලක්ෂ-40ක්-වංචා-කළ සැකකාරියක්-අල්ලයි/11-410280) · `si`
-
-A woman accused of fraudulently offering Middle Eastern jobs was arrested in Sri Lanka on June 16th. She faces charges after receiving seven complaints about job scams. The Gampola police assisted in her arrest and interrogation. The suspect was remanded until June 18th.
-
-🟩
-
-A woman who was expelled from the Middle East jobs have been arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment in the Gampola area on June 16th.
-
-The Bureau Dissanayake has received seven complaints that a woman in the Gampola has provided jobs as an allotted jobs that Qatar and the Middle East were given jobs.. Prior to this, Gampola police have also filed a case against her.
-
-The woman arrested after the assistance of Gampola police station, the woman arrested and interrogated the Gampola police station. Other people who were funded by the woman after their arrest were taken to the Gampola police. The Special Investigation Division of the Bureau is to be investigated in the future.
-
-The suspect was produced before the Gampola Magistrate's Court yesterday (6/17) and remanded until the 6/18 today.
-
-◼️
-
-[Data](articles/c1ff1967.json)
-
-[Extended Data](ext_articles/c1ff1967.ext.json)
-
----
-
-### Taxes will be announced to those who earn higher income
-
-*2024-06-18 11:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வருமானம்-ஈட்டுவோரிடமே-வரி-அறிவிடப்படும்/175-339065) · `ta`
-
-In a Parliament speech, President Ranil Wickremesinghe announced that the first property will be exempted from a new rental tax. This tax targets high earners rather than ordinary income groups.
-
-🟩
-
-President Ranil Wickremesinghe, in a speech in Parliament, said that the first property will be released from the proposed rental tax and that the tax will be levied on those who earn more income, not the ordinary income.
-
-◼️
-
-[Data](articles/dab0af14.json)
-
-[Extended Data](ext_articles/dab0af14.ext.json)
 
 ---

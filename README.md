@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 09:19:18**
+As of **2024-06-18 09:34:45**
 
 ## Newspaper Stats
 
-*Scraped **30,877** Articles*
+*Scraped **30,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
 adalk | 2,678
-adaderanalk | 3,497
+adaderanalk | 3,498
 tamilmirrorlk | 3,623
 dailymirrorlk | 4,733
 virakesarilk | 4,748
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,876 (100.0%) of 30,877 articles have been extended.
+30,877 (100.0%) of 30,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### Train  delays on main and Chilaw lines due to three breakdowns
+
+*2024-06-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99939/train-delays-on-main-and-chilaw-lines-due-to-three-breakdowns) · `en`
+
+The Railways Department has reported that significant train delays are expected on the main line and the Chilaw line due to the breakdown of three train engines.
+
+◼️
+
+[Data](articles/8d62c9a8.json)
+
+---
 
 ### Trains delays on main and Chilaw lines due to three breakdowns
 
@@ -1494,19 +1506,25 @@ Meanwhile, two persons including the accident have been injured and rushed to th
 
 ---
 
-### 69 ලක්ෂයේ බලාපොරොත්තු බලගන්වන්න ආයෙත් නුගේගොඩ රැළියක්
+### 69 Sprinklence for Expectation
 
 *2024-06-17 18:26:49* · [`adalk`](https://www.ada.lk/breaking_news/69-ලක්ෂයේ-බලාපොරොත්තු-බලගන්වන්න-ආයෙත්-නුගේගොඩ-රැළියක්/11-410269) · `si`
 
-69 ලක්ෂක බලපොරොත්තු බලගන්වන තේමාව යටතේ පැවැත්වෙන සර්වජන බලය ජන රැලිය අද (18දා) නුගේගොඩ පැවැත්වීමට කටයුතු යොදා තිබේ.‍
+A large gathering themed "69" involving 69,000 participants is scheduled for today at the Ananda Samarakoon Outdoor Theater. Key figures including Dilith Jayaweera, Wimal Weerawansa, Udaya Gammanpila, Professor Channa Jayasana Weerasinghe, Vasudeva Kumaratunga, Mangalawa Wanayakara, and Manayaku Kumaratunga will lead the event.
 
-අද පස්වරු 02ට නුගේගොඩ ආනන්ද සමරකොන් එළිමහන් රංග පීඨයේදී එය ආරම්භ කිරීමට කටයුතු යොදා ඇත.
+🟩
 
-මෙම අවස්ථාවට ව්‍යාපාරික  දිලිත් ජයවීර මෙන්ම විමල් වීරවංශ, උදය ගම්මන්පිල, මහාචාර්ය චන්න ජයසුමන, වීරසුමන වීරසිංහ, වාසුදේව නානායක්කාර, ගෙවිඳු කුමාරතුංග යන පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු සර්වජන බලය විධායක සභිකයන්ගේ සහභාගිත්වයෙන් මෙම ජන රැලිය පැවැත්වීමට කටයුතු යොදා තිබේ.
+The rational power rally held at the theme of 69,000 people will be held today (18).
+
+Ananda Samarakoon Outdoor Theater has commenced at Ananda Samarakoon Outdoor Theater.
+
+Dilith Jayaweera and Wimal Weerawansa, Udaya Gammanpila, Professor Channa Jayasana Weerasinghe, Vasudeva Kumaratunga, Mangalawa Wanayakara, Manayaku Kumaratunga have been conducted by the executives.
 
 ◼️
 
 [Data](articles/d8881d76.json)
+
+[Extended Data](ext_articles/d8881d76.ext.json)
 
 ---
 
@@ -2357,31 +2375,5 @@ Investigations have been identified in investigations that the suspects had been
 [Data](articles/dd126fea.json)
 
 [Extended Data](ext_articles/dd126fea.ext.json)
-
----
-
-### India's terrifying train accident - 15 dead
-
-*2024-06-17 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197847) · `si`
-
-In a tragic train accident in West Bengal, India, 15 died and over 60 were injured when two trains collided near Rangapani Railway Station. The incident occurred during passenger transport, causing significant damage and hospitalizing many.
-
-🟩
-
-Fifteen persons were killed and 60 injured in a train accident in the west Bengal in India.
-
-The injurition in the Dargelling district has been in danger of passenger transport and a transport train.
-
-The victim was running waiting for Kolkar in Sychatar, which was in danger.
-
-The train following the passenger transport train near the Rangapani Railway Station was collapsing.
-
-Both trains have been involved in the dealer and more than 60 injured persons have been hospitalized.
-
-◼️
-
-[Data](articles/f20b24f4.json)
-
-[Extended Data](ext_articles/f20b24f4.ext.json)
 
 ---

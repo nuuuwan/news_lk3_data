@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 23:54:35**
+As of **2024-06-19 00:07:06**
 
 ## Newspaper Stats
 
-*Scraped **31,003** Articles*
+*Scraped **31,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 285
 bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,693
-economynextcom | 1,789
+economynextcom | 1,792
 dailyftlk | 1,883
 adalk | 2,703
 adaderanalk | 3,515
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,003 (100.0%) of 31,003 articles have been extended.
+31,003 (100.0%) of 31,006 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -221,6 +221,26 @@ The People's Party (People's Party) led by entrepreneral Dilith Jayaweera, the P
 [Data](articles/e20649e1.json)
 
 [Extended Data](ext_articles/e20649e1.ext.json)
+
+---
+
+### Central banks expect to increase gold reserves after buying 1,037 tonnes in 2023: Survey
+
+*2024-06-18 20:36:00* · [`economynextcom`](https://economynext.com/central-banks-expect-to-increase-gold-reserves-after-buying-1037-tonnes-in-2023-survey-168623/) · `en`
+
+ECONOMYNEXT – About 29 percent of central banks in the world intended to increase their gold reserves in 2023, up from 24 percent in 2023 and just 8 percent in 2019, a survey by the World Gold Council showed.
+
+“The planned purchases are chiefly motivated by a desire to rebalance to a more preferred strategic level of gold holdings, domestic gold production, and financial market concerns including higher crisis risks and rising inflation,” the WGC said.
+
+About 81 percent of 70 central banks that responded to the survey expected global central bank holdings of gold to go up, from 71 percent in 2023.
+
+While in prior years, gold’s “historical position” was the top reason for central banks to hold gold, this factor dropped significantly to number five this year.
+
+This year, the top reason for central banks to hold gold is “long-term store of value / inflation hedge” (88%), followed by “performance during times of crisis” (82%), “effective portfolio diversifier” (75%) and “no default risk” (72%).
+
+...
+
+[Data](articles/5cb1f1fa.json)
 
 ---
 
@@ -457,6 +477,30 @@ Also, in 2015, Dual citizenship has been given to 16,184 of the applicants who h
 [Data](articles/d4175adf.json)
 
 [Extended Data](ext_articles/d4175adf.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.75/305.40 to US dollar
+
+*2024-06-18 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-75-305-40-to-us-dollar-168568/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.75/305.40 to the US dollar Tuesday, down from 304.15 to the US dollar Friday, dealer said, while some bond yields edged up.
+
+Sri Lanka’s rupee has weakened amid unsterilized excess liquidity from earlier dollar purchases.
+
+Excess liquidity fell from as high as 200 billion rupees, helped by some sales of maturing bills and also allowing some term contracts to run out.
+
+However the central bank has started to inject liquidity again below its policy rate to suppress interest rates.
+
+On Tuesday 30 billion rupees was printed overnight at an average yield of only 8.73 percent.
+
+Separately another 25 billion rupees was printed till June 25 at 8.09 percent to 9.05 percent, which was still below overnight the policy rate of 9.5 percent.
+
+Nobody has so far taken the central bank to court for printing money beyond overnight at rates lower than the overnight rate.
+
+...
+
+[Data](articles/2d26af71.json)
 
 ---
 
@@ -1516,6 +1560,24 @@ Thailand is already known for its vibrant LGBTQ+ culture and tolerance, making i
 
 ---
 
+### Sri Lanka’s Ceylon Chamber links up with Gujarat Chamber
+
+*2024-06-18 13:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-chamber-links-up-with-gujarat-chamber-168559/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce has signed an agreement with the Southern Gujarat Chamber of Commerce and Industry (SGCCI) to increase trade cooperation between India and Sri Lanka.
+
+The MOU was signed by CCC CEO Buwanekabahu Perera, SGCCI President Ramesh Vaghasia, in the presence of Dr Valsan Vethody, Consul General for Sri Lanka in Mumbai, India.
+
+“With the signing of the MoU, … the Ceylon Chamber of Commerce and SGCCI aim to facilitate trade between the two countries via initiatives such as trade fairs and delegations, business networking events, training programmes,” the Ceylon Chamber said in a statement.
+
+“This partnership will open doors for Sri Lankan businesses to explore opportunities in Surat’s dynamic market and enable the sharing of expertise and resources between the two regions.”
+
+...
+
+[Data](articles/acd31a7e.json)
+
+---
+
 ### A non-boycotting teachers
 
 *2024-06-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197883) · `si`
@@ -2333,83 +2395,5 @@ He also said that the tax will not be levied for ordinary incomes and that the t
 [Data](articles/806f7c2f.json)
 
 [Extended Data](ext_articles/806f7c2f.ext.json)
-
----
-
-### No justification for coconut oil price hike, says Coconut Development Authority
-
-*2024-06-18 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99942/no-justification-for-coconut-oil-price-hike-says-coconut-development-authority) · `en`
-
-The Coconut Development Authority has stated that there is no valid reason for an increase in the price of coconut oil in the local market.
-
-Its chairman, Professor Roshan Perera emphasized that there has been no tax hike on imported coconut oil, which totaled 42,000 metric tonnes as of May this year, double the amount imported last year.
-
-Given the sufficient supply of coconut oil for domestic consumption, Prof. Perera asserted that any price increase is unjustifiable.
-
-Additionally, a new regulatory program is being planned to control and stabilize coconut oil prices in the market, he added.
-
-◼️
-
-[Data](articles/7b8dbed8.json)
-
-[Extended Data](ext_articles/7b8dbed8.ext.json)
-
----
-
-### Aviation separated for dog pets
-
-*2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197875) · `si`
-
-Barc Airline, a US-based airline exclusively for dogs, initially served New York, Los Angeles, and London. It's now expanding to five more destinations: Paris, Chicago, San Francisco, Phoenix, and Miami. Dogs flying with Barc Air will enjoy perks like champagne and massages. Reservations for these new routes can be made via Dogsflyfirst.com.
-
-🟩
-
-In the United States, Barke Airline is a separate airline for dog pets.
-
-So far, the destination New York, Los Angeles and London so far was limited to the destination New York, Los Angeles and London.
-
-Foreign media reports that Barc Airline has decided to expand it up to five destinations.
-
-Paris, Chicago, San Francisco, Phoenix and Miami are new destinations.
-
-The air traveling dog palm with Barc Air can also have the opportunity to drink champagne and find a massage experience.
-
-Reservation of new destinations can be done through Dogsflyfirst.com.
-
-◼️
-
-[Data](articles/6c2537e3.json)
-
-[Extended Data](ext_articles/6c2537e3.ext.json)
-
----
-
-### Threatening to death
-
-*2024-06-18 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197874) · `si`
-
-Sri Lanka's tallest netball player, Ada Derana reports, got married recently. Known as the tallest player in Asia, she stood out at the last World Cup Netball Festival. Representing Sri Lanka in five Asian tournaments and four World Cups, she made history in 2019 as the oldest player at 40 in a World Cup match. Her participation in the 2023 World Cup was noted, highlighting her significant contributions to the sport.
-
-🟩
-
-Sri Lanka's tallest netball in Asia, Sri Lanka's marriage was married yesterday (18).
-
-The threat is 6 feet and 9 inches tall, and she is called the tallest player of the Netball field.
-
-Threw away from the last Netball Festival of the World Cup.
-
-Sri Lanka represented five Asian Netball Tournament to represent four Netball World Cup for Sri Lanka.
-
-At the Netball World Cup 2019, he was 40 years old to be the oldest sportsman who played a World Cup match.
-
-Her account was the participation of the 2023 Netball World Cup.
-
-Ada Derana greet us in Derana to the new wedding of Sivalingam, who is considered to be the Netball Quage of Sri Lanka
-
-◼️
-
-[Data](articles/ec1df1fa.json)
-
-[Extended Data](ext_articles/ec1df1fa.ext.json)
 
 ---

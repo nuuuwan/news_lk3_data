@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 12:19:20**
+As of **2024-06-18 12:35:16**
 
 ## Newspaper Stats
 
-*Scraped **30,917** Articles*
+*Scraped **30,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,684
 adaderanalk | 3,503
-tamilmirrorlk | 3,627
+tamilmirrorlk | 3,630
 dailymirrorlk | 4,733
 virakesarilk | 4,756
 adaderanasinhalalk | 5,016
@@ -26,21 +26,59 @@ adaderanasinhalalk | 5,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,914 (100.0%) of 30,917 articles have been extended.
+30,917 (100.0%) of 30,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### විරෝධතාකරුවන්ට පොලීසියෙන් ජල ප්‍රහාරයක්
+### Police attack the protesters
 
 *2024-06-18 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197878) · `si`
 
-රැකියා විරහිත උපාධිධාරීන්ගේ විරෝධතාවයක් විසුරුවා හැරීමට පොල්දූව මංසන්ධියේ දී පොලීසියෙන් ජල ප්‍රහාරයක් එල්ල කර තිබේ.
+In response to protests by unemployed graduates, police used water cannons at Paladuwa junction to disperse them.
+
+🟩
+
+Police have launched a water strike at the Paladuwa junction to dissolve protests from unemployed graduates.
 
 ◼️
 
 [Data](articles/b4e37c90.json)
+
+[Extended Data](ext_articles/b4e37c90.ext.json)
+
+---
+
+### ஜப்பானில் பரவும் புது பக்டீரியா: 1000 பேர் பாதிப்பு
+
+*2024-06-18 11:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-பரவும்-புது-பக்டீரியா-1000-பேர்-பாதிப்பு/50-339068) · `ta`
+
+டோக்கியோ:  'குரூப் ஏ ஸ்ட்ரெப்டோகாக்கஸ்' எனப்படும் இறைச்சியை உண்ணும் அரிதான பக்டீரியா ஜப்பானில் பரவி வருகிறது. இந்த பக்டீரியா தொற்றை கவனிக்காமல் விட்டால், இரண்டு நாட்களில் உயிரிழப்பு ஏற்படும் அபாயம் உள்ளதாக மருத்துவர்கள் தெரிவித்தனர். இந்த பக்டீரியாவினால் இதுவரையிலும் 1,000 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+குரூப் ஏ ஸ்ட்ரெப்டோகாக்கஸ் எனும் பக்டீரியா 1999ல் ஜப்பானில் கண்டறியப்பட்டது. இந்த வகை தொற்று பாதிக்கப்பட்ட நபருடன் நெருங்கி பழகுபவர்களுக்கும், அவர்களுடன் உணவு மற்றும் பானங்களை பகிர்ந்து உண்பவர்களுக்கும் எளிதில் பாதிப்பு ஏற்படுவதாக ஜப்பான் தொற்று நோயியல் மையம் தெரிவித்துள்ளது.
+
+இந்த வகை பக்டீரியா தொற்று பொதுவாக வீக்கம் மற்றும் தொண்டை வலியை ஏற்படுத்துகிறது; மூட்டு வலி, வீக்கம், காய்ச்சல், குறைந்த ரத்த அழுத்தம், சுவாசப் பிரச்னைகள், உறுப்பு செயலிழப்பு மற்றும் உயிரிழப்பு ஏற்படவும் வாய்ப்புள்ளதாக டாக்டர்கள் கூறுகின்றனர்.
+
+...
+
+[Data](articles/90958566.json)
+
+---
+
+### வட கொரியா செல்கிறார் புட்டின்
+
+*2024-06-18 11:52:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வட-கொரியா-செல்கிறார்-புட்டின்/50-339067) · `ta`
+
+இரு நாள் பயணமாக ரஷ்ய ஜனாதிபதி விளாடிமிர்புடின், இன்று (ஜூன் 18) வடகொரியா செல்கிறார். ரஷ்யாவின் நட்புறவு நாடாக வட கொரியா உள்ளது. வட கொரியா ஜனாதிபதியான கிம்ஜோங் உன் ஏற்கனவே ரஷ்யாவிற்கு அரசு முறைப்பயணம் சென்றிருந்தார்.
+
+இந்நிலையில் இன்று (ஜூன்18-) ரஷ்ய ஜனாதிபதி விளாடிமிர்புடின் இரு நாள் பயணமாக வட கொரியா செல்கிறார். வடகொரியா ஜனாதிபதி கிம்ஜோங் உன் ஐ சந்தித்து பேசுகிறார். அங்கு நடைபெற உள்ள முக்கிய மாநாடு ஒன்றில் புட்டின் பங்கேற்று இருவரும் முக்கிய ஆவணங்களில் ஒப்பந்தம் மேற்கொள்கின்றனர் என செய்திகள் வெளியாகியுள்ளன.
+
+இதனை மறுத்த ரஷ்யா அரசு நிர்வாகம் புட்டினின் வட கொரியா பயணம் நட்புறவு ரீதியான பயணம் தெரிவிக்கிறது.
+
+◼️
+
+[Data](articles/7674d7ae.json)
 
 ---
 
@@ -72,23 +110,29 @@ The Criminal Special Special (OIC) Inspector General of Police Gayan Krishantha 
 
 ---
 
-### අවුරුදු 04ක දරුවකු අතුරුදන්
+### Four year old disappearance missing
 
 *2024-06-18 11:36:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-04ක-දරුවකු-අතුරුදන්/11-410282) · `si`
 
-නොවුඩ් පොලිස් වශමට අයත් ඩන්කන් ප්‍රදේශයේදි අවුරුදු 04ක පිරිමි දරුවකු ඊයේ (17) දින රාත්‍රියේදි අතුරුදහන්ව ඇති බවට එම දරුවාගේ දෙමාපියන් විසින් නොවුඩ් පොලිසිය වෙත පැමිනිලි කර ඇත.
+A four-year-old boy disappeared from his home in Duncan on July 17th. His parents reported him missing to the Nedaka, and a search involving the local community and emergency services is underway. The boy was last seen playing outside his house.
 
-මෙම තත්වයන් පිලිබදව කරන ලද කරන ලද විමසිමකදි අදහස් දැක්වු නොවුඩ් පොලිසියේ නිලධාරියකු පවසන ලද්දේ නල්ලතන්නිය ලක්ෂපාන   ප්‍රදේශයේ පදිංචිකරුවකු වන සිවදාසන් අභිලාස් නැමති පිරිමි දරුවා එම දරුවාගේ දෙමාපියන් සමග නොර්වුඩ් ඩන්කන් ප්‍රදේශයේ ඥති නිවසක පැවති විවාහ උත්සවයකට පැමින ඇති බවත්ය.
+🟩
 
-එසේ පැමිනි මෙම දරුවා ඊයේ (17) දින සවස සිට නිවස අසල සෙල්ලම් කරමින් සිට ඇති බවත් පසුව සොයා බලන විට මෙම දරුවා සොයා ගැනිමට නොහැකිවි ඇති බවත්ය.
+The child's parents have complained to the Nedaka, a 4 year old boy in Duncan yesterday (17).
 
-පසුව එම දරුවාගේ අතුරුදහන් විම පිලිබදව එම දරුවාගේ පියා වන සිවදාසන් වසන්තන් යන අය 119 හදිසි ඇමතුම් අංශයටද දැනුම්දි නොවුඩ් පොලිසියටද පැමින පැමිනිලි කර ඇති බවද එම නිලධාරියා පැවසිය.
+An inquiry made by a resident of Lakstopana, Nallathaniya, a man named Savadaniya, a resident of Laxapana, had come to a wedding in Norwood Duncan with the parents.
 
-එම පැමිනිල්ල ලැබිමත් සමග එම සිද්දිය  පිලිබදව නොවුඩ් පොලිසිය පුලුල් පරික්ෂන ආරම්භ කර ඇති බවත්  අද (18) දින උදැසන වන විටත්එම දරුවා සොයා ගැනිමට නොහැකිවි ඇති බවද එම නිලධාරියා වැඩි දුරටත් පවසන ලදි.
+The child was playing near the house in the evening yesterday (17).
+
+The official said that the child's father Sivadase Wasanthan has passed the 119 emergency sector.
+
+The officer added that the Noard has found a widespread insurance with the complaint with the complaint and that the child is unable to find the child today (18).
 
 ◼️
 
 [Data](articles/cdd613e4.json)
+
+[Extended Data](ext_articles/cdd613e4.ext.json)
 
 ---
 
@@ -107,6 +151,22 @@ The relevant protest march has been organized by the University Trade Union Join
 [Data](articles/73e0cd1b.json)
 
 [Extended Data](ext_articles/73e0cd1b.ext.json)
+
+---
+
+### இலங்கையில் 42 பேருக்கு தூக்கு
+
+*2024-06-18 11:26:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-42-பேருக்கு-தூக்கு/175-339066) · `ta`
+
+இலங்கையில், கண்டி, போகம்பறை சிறைச்சாலையில் வைத்து 42 பேர் தூக்கிலிடப்பட்டுள்ளனர் என நீதி சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு, மறுசீரமைப்பு அமைச்சர் கலாநிதி விஜயதாஸ ராஜபக்ஸ பாராளுமன்றத்தில் இன்று (18) தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வாய்மூல விடைக்கான வினாக்கள் நேரத்தில், பாராளுமன்ற உறுப்பினர் புத்திக பத்திரண எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+1959 ஆம் ஆண்டு முதல் 1975 ஆம் ஆண்டு வரையிலும் 31 பேர் தூக்கிலிடப்பட்டுள்ளனர்.  1969 ஆம் ஆண்டு முதல் 1976ஆம் ஆண்டு வரையிலும் 42 பேர் தூக்கிலிடப்பட்டுள்ளனர். அதற்கு பின்னர் இலங்கையில் மரண தண்டனை அமுலில் இல்லை என்றார்.
+
+◼️
+
+[Data](articles/8df590cd.json)
 
 ---
 
@@ -146,21 +206,27 @@ President Ranil Wickremesinghe, in a speech in Parliament, said that the first p
 
 ---
 
-### ඒ ගොල්ල බලයට ආවොත් ඔය  කොමිස් ගත්ත එවුන් ඔක්කොම හිරේ දානවා  මේ ගොල්ල ඔක්කොම බයයි
+### If they come to power, all these commissions put all the commissions in prison
 
 *2024-06-18 11:00:41* · [`adalk`](https://www.ada.lk/breaking_news/ඒ-ගොල්ල-බලයට-ආවොත්-ඔය--කොමිස්-ගත්ත-එවුන්-ඔක්කොම-හිරේ-දානවා--මේ-ගොල්ල-ඔක්කොම-බයයි/11-410279) · `si`
 
-මේ රටේ  ව්‍යවස්ථාව වර්ථමානයට, අනාගතයට ගැලපෙන ආකාරයට නැවත සංශෝධනය කළ යුතුයි
+Wahuthi Rahula Thera criticizes politicians for exploiting voters with false promises during elections, urging a revision of the constitution to curb corruption and develop the nation. He advocates for eliminating perks like pensions for politicians, reducing national debt, and ensuring transparency in governance.
 
-මේ රට සංවර්ධනය කරන්න නම් මේ 225 වියදම් කරන අනවශ්‍යය වීයදම් සම්පූර්ණයෙන්ම අහෝසි කළ යුතුයි, කපා හැරිය යුතුයි.
+🟩
 
-දේශපාලඥයෝ කරන්නේ මැතිවරණ කාළයට මිනිස්සු රවට්ටනවා මම ජනතාවගෙන් ඉල්ලනවා මේ සැරේ බත් බුලත් කණ එවුන් නම් රැවටෙන්න එපා
+The constitution of this country must present a re-revise to the future
 
-නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් මේ බව ප්‍රකාශ කර සිටියේ අද (18) පෙරවරුවේ ජාතික නාමල් උයනේදී පැවැත් වූ මාධ්‍ය සාකච්ජාවකදීය.
+To develop this country, these 225 should be eliminated and cut off.
+
+Politicians do people demand people for election times I ask the people don't be deceived if rice betel ear
+
+The founder of Namal Uyana, Wahuthi Rahula Thera said this at a press conference held at the National Namal Uyana this morning.
 
 ...
 
 [Data](articles/9c29dd4a.json)
+
+[Extended Data](ext_articles/9c29dd4a.ext.json)
 
 ---
 
@@ -363,6 +429,8 @@ Accordingly, the Supreme Court has determined that several clauses of the Bill a
 As per the court’s ruling, these clauses will require a special majority in Parliament to be passed.
 
 However, if the contentious clauses are amended, they can be passed with a simple majority, it further states.
+
+SC Determination on Sri Lanka Telecommunication (Amendment) Bill by Adaderana Online on Scribd
 
 ◼️
 
@@ -2245,77 +2313,5 @@ The association states that it is planned to commence at the next week of hospit
 [Data](articles/adefe521.json)
 
 [Extended Data](ext_articles/adefe521.ext.json)
-
----
-
-### Ex-President Sirisena reveals reason he resigned as SLFP chairman
-
-*2024-06-17 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99934/ex-president-sirisena-reveals-reason-he-resigned-as-slfp-chairman) · `en`
-
-Former President Maithripala Sirisena says he resigned from his position as the Chairman of the Sri Lanka Freedom Party (SLFP) for the betterment of the party and its members.
-
-He went on to say that there is an ongoing ‘national conspiracy’ aimed at destroying the SLFP, and that he appointed Dr. Wijeyadasa Rajapakshe as the Acting Chairman of the party as there was no other person qualified to hold the position within the SLFP.
-
-Speaking to the media in Galle, Sirisena said: “If I did not resign from my post in the backdrop where a former President [Chandrika Bandaranaike Kumaratunga] filed a court case against me resulting in restraining orders, none of these organizers are able to contest in the election as the election commission does not accept such candidates. This is why I resigned.”
-
-...
-
-[Data](articles/853c35f8.json)
-
-[Extended Data](ext_articles/853c35f8.ext.json)
-
----
-
-### University non-academic workers today
-
-*2024-06-17 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්-අද-කොළඹට/11-410272) · `si`
-
-Trade unions in Sri Lanka's universities plan a protest in Colombo today, demanding solutions to non-academic staff issues. The unions began a 48-day strike in Jaffna over unresolved problems, affecting non-academic workers' livelihoods. They demand pay raises similar to those granted to public servants in 2016, highlighting the disparity in treatment between academic and non-academic staff.
-
-🟩
-
-University, university trade unions states that a protest campaign in Colombo will be held today (18th) demanding the solution of university non-academic issues.
-
-The trade union representatives will meet today (18) to determine the future career action.
-
-According to the Jaffna, university union trade unions say that 48 days of the strike which was begun to address the problems.
-
-The protesters indicate that the protests were established in the country on the 14th of the 14th of the 14th of the 14th due to the delay in solutions to problems.
-
-It also pointed out that the non-academic workers of non-academic workers in Colombo will hold a protest to Colombo today (18).
-
-Since the government employees have not yet been granted to public servants in 2016, there was no growth in order to increase the monthly hired allowance and demanding the increase in the monthly hike.
-
-◼️
-
-[Data](articles/a9c59752.json)
-
-[Extended Data](ext_articles/a9c59752.ext.json)
-
----
-
-### A tax tsunami is on the people's own
-
-*2024-06-17 19:01:44* · [`adalk`](https://www.ada.lk/breaking_news/බදු-සුනාමියක්-රටේ-ජනතාවගේ-කරමත-පැටවෙලා/11-410271) · `si`
-
-Opposition Leader Sajith Premadasa criticized the current government for allegedly allowing a "puppet" administration influenced by the International Monetary Fund (IMF), leading to a "tax tsunami" affecting the people. He urged the government to negotiate better terms with the IMF for the benefit of the nation, emphasizing the importance of sovereignty and avoiding policies that worsen the populace's living conditions.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that a puppet government is currently being carried out by the International Monetary Fund.
-
-He was speaking at a ceremony at the 'Keewani New Summer' classrooms at Kesbewa, Ratnanepitiya, Colombo yesterday (17).
-
-The Opposition Leader Sajith Premadasa said so.
-
-"I'd like to hear from the government agree with the IMF. But you have not given you a privilege to kneel before that deal. If they are good, they must have the best agreement for the people with the IMF, if they were educated,. It's not happening. Today, there is a puppet administration in a nail.
-
-Tax Tsunami has been dispensated on the people today. There's nothing we have to do, do these calls the IMF. We did not aucate the sovereignty of our country. We did not sell anyone. If we go to a good standing in a good stand, we can think of the IMF and implement things that should be fulfilled on the side of the people.
-
-...
-
-[Data](articles/62807e5d.json)
-
-[Extended Data](ext_articles/62807e5d.ext.json)
 
 ---

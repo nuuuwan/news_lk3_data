@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 13:54:17**
+As of **2024-06-18 14:06:30**
 
 ## Newspaper Stats
 
-*Scraped **30,929** Articles*
+*Scraped **30,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,504
 tamilmirrorlk | 3,632
 dailymirrorlk | 4,733
 virakesarilk | 4,756
-adaderanasinhalalk | 5,020
+adaderanasinhalalk | 5,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,926 (100.0%) of 30,929 articles have been extended.
+30,926 (100.0%) of 30,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### වර්ජනය කරන ගුරුවරුන්ට නොක්කාඩුවක්
+
+*2024-06-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197883) · `si`
+
+එක ම සටන් පාඨයක දිගින් දිගට එල්බගෙන ලෙඩ නිවාඩු දමමින් වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට අන්තර්ජාලය වැනි වෙනත් දැනුම් මූලාශ්‍ර වෙත අවතීර්ණ වෙමින් හා එමඟින් සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා  පැවසීය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා කොළඹ ගෝතමී බාලිකා විද්‍යාලයේ දී පැවැති සමස්ත ලංකා පාසල් අපද්‍රව්‍ය කළමනාකරණ පාසල් පෝස්ටර් චිත්‍ර තරගයේ ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමිණි.
+
+මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ශීඝ්‍රයෙන් වෙනස් වෙමින් යන දැනුම් සමාජයේ නව ප්‍රවණතා පිළිබඳ යථා අවබෝධයකින් තොර ව සමාජයේ ඉදිරියට යා නොහැකි බවත් මේ බව ප්‍රධාන වශයෙන් ම ගුරුවරුන් හා වැඩිහිටියන් අවබෝධ කරගත යුතු ව ඇති බවත් ය.
+
+සියලු‍ පාසල් ඩිජිටල්කරණය කර එක ම ජාලයකට ගතහොත් සමස්ත විෂය පාඩම් එක තැනක සිට දරුවන්ට ඉගැන්විය හැකි වනු ඇති බව ද අමාත්‍යවරයා සඳහන් කළේ ය.
+
+...
+
+[Data](articles/051a7224.json)
+
+---
 
 ### சிசுவுக்கு எமனான ‘சித்திரை’
 
@@ -2287,25 +2305,5 @@ Most critics spend a lot of effort attacking the first section which has a long 
 [Data](articles/a94618ab.json)
 
 [Extended Data](ext_articles/a94618ab.ext.json)
-
----
-
-### Want to change the ‘system’? If yes, then read this
-
-*2024-06-17 20:12:01* · [`dailyftlk`](https://www.ft.lk/columns/Want-to-change-the-system-If-yes-then-read-this/4-763170) · `en`
-
-Changing the purpose of a system changes the system profoundly, even if all the elements and interconnections remain as they are
-
-“If a revolution destroys a government, but the systematic patterns of thought that produced that government are left intact, then those patterns will repeat themselves…
-
-There’s so much talk about the system. And so little understanding.”
-
-As Sri Lanka gets ready for another Presidential election to choose the country’s leader for the next five years we are hearing the same slogans, “we need a system change”, “we need to change the system” again. But how do we do this, practically?
-
-...
-
-[Data](articles/944ae966.json)
-
-[Extended Data](ext_articles/944ae966.ext.json)
 
 ---

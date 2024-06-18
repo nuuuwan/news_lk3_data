@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 14:06:30**
+As of **2024-06-18 14:19:18**
 
 ## Newspaper Stats
 
-*Scraped **30,930** Articles*
+*Scraped **30,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,686
-adaderanalk | 3,504
+adalk | 2,687
+adaderanalk | 3,506
 tamilmirrorlk | 3,632
 dailymirrorlk | 4,733
 virakesarilk | 4,756
@@ -26,81 +26,135 @@ adaderanasinhalalk | 5,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,926 (100.0%) of 30,930 articles have been extended.
+30,930 (100.0%) of 30,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### වර්ජනය කරන ගුරුවරුන්ට නොක්කාඩුවක්
+### Thailand passes landmark bill recognising marriage equality
 
-*2024-06-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197883) · `si`
+*2024-06-18 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99947/-thailand-passes-landmark-bill-recognising-marriage-equality) · `en`
 
-එක ම සටන් පාඨයක දිගින් දිගට එල්බගෙන ලෙඩ නිවාඩු දමමින් වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට අන්තර්ජාලය වැනි වෙනත් දැනුම් මූලාශ්‍ර වෙත අවතීර්ණ වෙමින් හා එමඟින් සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා  පැවසීය.
+Thailand’s Senate passed the final reading of a marriage equality law on Tuesday, paving the way for the country to become the third territory in Asia to recognise same-sex couples after Nepal and Taiwan.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා කොළඹ ගෝතමී බාලිකා විද්‍යාලයේ දී පැවැති සමස්ත ලංකා පාසල් අපද්‍රව්‍ය කළමනාකරණ පාසල් පෝස්ටර් චිත්‍ර තරගයේ ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමිණි.
+The law gained the support of nearly all upper house lawmakers and will be sent to the palace for royal approval. The law will come into force 120 days after it is published in the royal gazette.
 
-මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ශීඝ්‍රයෙන් වෙනස් වෙමින් යන දැනුම් සමාජයේ නව ප්‍රවණතා පිළිබඳ යථා අවබෝධයකින් තොර ව සමාජයේ ඉදිරියට යා නොහැකි බවත් මේ බව ප්‍රධාන වශයෙන් ම ගුරුවරුන් හා වැඩිහිටියන් අවබෝධ කරගත යුතු ව ඇති බවත් ය.
+LGBTQ+ advocates called the move a “monumental step forward” as it would make Thailand the first country in Southeast Asia to enact marriage equality legislation.
 
-සියලු‍ පාසල් ඩිජිටල්කරණය කර එක ම ජාලයකට ගතහොත් සමස්ත විෂය පාඩම් එක තැනක සිට දරුවන්ට ඉගැන්විය හැකි වනු ඇති බව ද අමාත්‍යවරයා සඳහන් කළේ ය.
+Thailand is already known for its vibrant LGBTQ+ culture and tolerance, making it a popular destination for tourists.
+
+“This would underscore Thailand’s leadership in the region in promoting human rights and gender equality,” the Civil Society Commission of marriage equality, activists and LGBTI+ couples said.
 
 ...
 
-[Data](articles/051a7224.json)
+[Data](articles/8ea8bb41.json)
 
 ---
 
-### சிசுவுக்கு எமனான ‘சித்திரை’
+### A non-boycotting teachers
+
+*2024-06-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197883) · `si`
+
+At a school art competition, Education Minister Dr. Susil Premajayantha noted students' engagement but highlighted the need for digitalization and skill development in education to adapt to the evolving knowledge society. He stressed the importance of teachers acquiring new skills to meet student needs, indicating significant changes in education within a few years.
+
+🟩
+
+Minister of Education Dr. Susil Premajayantha said that the current students were engaged in the same slogan and lay down the sick and sick.
+
+The Minister made this observation at the Gift Granting School Poster Art Competition held at Gothami Girls' Vidyalaya in Colombo.
+
+The Minister further stated that this is not the key to the reality of the new trends of the changing knowledge society.
+
+The Minister said that the entire subject lessons would be taught to children from one place to digitalize all schools and taking into a network.
+
+Mr. Susil Premajayantha said that teachers should be effective in achieving the skills of the new knowledge and to meet the skills of the students.
+
+The Minister emphasized here that it is a result of the change in the changing world and education and that it is not more than a few more years.
+
+◼️
+
+[Data](articles/051a7224.json)
+
+[Extended Data](ext_articles/051a7224.ext.json)
+
+---
+
+### The fetus for the fetus
 
 *2024-06-18 13:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசுவுக்கு-எமனான-சித்திரை/175-339075) · `ta`
 
-சித்திரையில் குழந்தை பிறந்ததால் குடும்பத்துக்கு ஆபத்து’ என சிலர் கூறியதால், பச்சிளம் குழந்தையை தண்ணீரில் மூழ்கடித்துக் கொன்றதாக குழந்தையின் தாத்தா கைது செய்யப்பட்டார்.
+A grandfather was arrested for allegedly drowning his granddaughter, fearing the newborn would bring financial hardship and danger to the family. The incident occurred in a village near Ariyalur district, where the baby's body was found in a bathroom. The police investigation revealed the child was drowned, leading to the arrest.
 
-அரியலூர் மாவட்டம் ஜெயங்கொண்டத்தை அடுத்த உட்கோட்டை கிராமம் வடக்கு வெள்ளாளர் தெருவைச் சேர்ந்த வீரமுத்து மகள் சங்கீதா(21). இவருக்கும், கும்பகோணத்தை அடுத்த சுந்தரபெருமாள்கோவில் கிராமத்தைச் சேர்ந்த பாலமுருகன்(29) என்பவருக்கும் ஓராண்டுக்கு முன்பு திருமணம் நடைபெற்றது.
+🟩
 
-கடந்த சித்திரை மாதம் சங்கீதாவுக்கு ஆண் குழந்தை பிறந்ததால், தனது தந்தை வீட்டில் குழந்தையுடன் தங்கியிருந்தார்.
+The grandfather of the child was arrested for allegedly drowning the baby in the water, as some claimed that the family was a danger to the family.
 
-இந்நிலையில், குளியலறையில் வாளி தண்ணீரில் சங்கீதாவின் குழந்தை துணியில் சுற்றப்பட்ட நிலையில் கடந்த 14-ம் திகதி அதிகாலை இறந்து கிடந்தது. தகவலறிந்த ஜெயங்கொண்டம் பொலிஸார் அங்கு சென்று குடும்பத்தினரிடம் விசாரணை நடத்தினர்.
+Sangeetha, daughter of Veeramuthu from North Wellakar Street, Udkottai village next to Jayankondam in Ariyalur district. He and Balamurugan, 29, from Sundara Perumalkovil village next to Kumbakonam, got married a year ago.
 
-இந்நிலையில், குழந்தையை தண்ணீரில் மூழ்கடித்துக் கொன்றது, சங்கீதாவின் தந்தை வீரமுத்து என்பது தெரியவந்தது. இதையடுத்து அவரை பொலிஸார் கைது செய்தனர்.
+The last month of the month of the month of Sangita was born with her father's house with the child.
+
+In this case, Sangeetha's baby was found dead in the bathroom in the early hours of the morning.. Informed Jayankondam police went there and investigated the family.
+
+In this case, it was revealed that the child was drowned in the water. He was subsequently arrested by the police.
+
+The police said: Some people have told Veeramuthu that the birth of a child of the month of Chitta is not for both maternal and father -in -law, and that the life of the parents or grandfather will be at risk.
 
 ...
 
 [Data](articles/c3c01071.json)
 
+[Extended Data](ext_articles/c3c01071.ext.json)
+
 ---
 
-### කොළඹ 85,000කට තවමත් වතුර නෑ
+### Water cut in Colombo 85,000
 
 *2024-06-18 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197882) · `si`
 
-කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන නළයේ අලුත්වැඩියා කටයුතු මේ වනවිට අවසන් කර තිබුණද ජල සැපයුම් ලක්ෂයෙන් 85,000කට පමණ තවදුරටත් ජලය නොලැබෙන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ප්‍රකාශ කළේය.
+In Colombo 85,000, a water cut occurred due to a massive leak in the main pipe from Kalatuwawa Water Treatment to Maharagama. Repairs were completed around 4 am but affected areas like Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattigegoda still faced issues.
 
-නමුත් අද (18) පස්වරු 6 පමණ වන විට බොහෝ දුරට එය යථා තත්ත්වයට පත්විය හැකි බව එම මණ්ඩලය පවසයි.
+🟩
 
-කලටුවාව ජල පවිත්‍රාගාරයේ සිට මහරගම දක්වා ජලය ගෙනයන ප්‍රධාන සම්ප්‍රෙෂණ නළයේ, හයිලෙවල් මාර්ගයේ ගොඩගම ප්‍රදේශයේදී මෝටර් රථයක් ගැටී ඊයේ (17) අලුයම අනතුරක් සිදුව තිබිණි.
+The National Water Supply and Drainage Board stated that the repairs of the main pipe to Maharagama from the Kalatuwawa Water Treatment of Maharagama have been completed.
 
-අනතුරින් පසු ජල නළය පුපුරා යෑමෙන් දැවැන්ත ජල කාන්දුවක් එම ස්ථානයේ ඇතිවිය.
+However, it is largely about 6 pm today.
 
-සිදුවූ ජල කාන්දුව නිසා කලටුවාවේ සිට අදාළ නළය ඔස්සේ සිදුකරන ජල සැපයුම නතර කර අලුත්වැඩියා කටයුතු ආරම්භ කිරීමට  ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ඊයේ උදෑසන පියවර ගනු ලැබීය.
+From the main transmission tube carrying water from the Kalatuwawa Water Timber, the High level route was hit by the Hylpele road in the Godagama area.
 
-ඒ හේතුවෙන් ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත සහ මත්තෙගොඩ යන ප්‍රදේශවලට ජල සැපයුම අඩාළවුණි.
+A massive water leak was caused by the explosion of the pipe.
 
-අද අලුයම 4වන විට අලුත්වැඩියා කටයුතු අවසන් කෙරුණු බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
+The National Water Supply and Drainage Board yesterday took steps to stop the water supply of water from the Kalatuwawa to the water leak and commenced the renovation work.
 
-...
+As a result, water supply was favored by Godagama, Homagama, Pannipitiya, Pelanwatta and Mattigegoda.
+
+The National Water Supply and Drainage Board stated that the repair work was completed by 4am this morning.
+
+However, the people of many areas have no longer received water supply.
+
+As a result, the people have been difficult to do not work.
+
+◼️
 
 [Data](articles/3d4fd684.json)
 
+[Extended Data](ext_articles/3d4fd684.ext.json)
+
 ---
 
-### ஆர்ப்பாட்டக்காரர்கள் மீது  நீர்த்தாரை பிரயோகம்
+### The use of water on demonstrators
 
 *2024-06-18 13:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டக்காரர்கள்-மீது-நீர்த்தாரை-பிரயோகம்/175-339074) · `ta`
+
+Water cannons have been used against demonstrators as a crowd control measure, often criticized for causing physical harm and psychological distress.
+
+🟩
 
 ◼️
 
 [Data](articles/1c0ccf91.json)
+
+[Extended Data](ext_articles/1c0ccf91.ext.json)
 
 ---
 
@@ -199,6 +253,34 @@ Police used water cannons to disperse a group of unemployed graduates protesting
 [Data](articles/7ab6a424.json)
 
 [Extended Data](ext_articles/7ab6a424.ext.json)
+
+---
+
+### Tear gas and water cannons fired at protesting unemployed grads
+
+*2024-06-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99946/tear-gas-and-water-cannons-fired-at-protesting-unemployed-grads) · `en`
+
+UPDATE 13.35 p.m.: Police have once again fired tear gas and water cannons to disperse a group of unemployed graduates protesting near Diyatha Uyana at the Parliament Road Junction.
+
+Police used water cannons to disperse a group of unemployed graduates protesting near the Diyatha Uyana at the Parliament Road Junction.
+
+◼️
+
+[Data](articles/a7468786.json)
+
+---
+
+### යෝජිත කුලි ආදායම් බද්ද ගැන ජනපතිගෙන් පැහැදිලි කිරිමක්
+
+*2024-06-18 12:18:08* · [`adalk`](https://www.ada.lk/breaking_news/යෝජිත-කුලි-ආදායම්-බද්ද-ගැන-ජනපතිගෙන්-පැහැදිලි-කිරිමක්/11-410284) · `si`
+
+පුද්ගලයෙකු සතු පළමු දේපළ යෝජිත කුලී ආදායම් බද්දෙන් නිදහස් කෙරෙන බවත්, එසේම මෙම බද්ද සාමාන්‍ය ආදායම් ලබන්නන් වෙත නොව ඉහළ ශුද්ධ ආදයම් ලබන්නන් වෙත පැනවෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහා පාර්ලිමේන්තුවේදී පැවැසීය.
+
+පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් මේ බව සඳහන් කල ජනපතිවරයා ස්ත්‍රී පුරුෂ සමාජභාවය පිළිබඳ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණ තීරණය  අධ්‍යයනය කිරීම සඳහා තේරීම් කාරක සභාවක් පත් කිරීම අවශ්‍ය බවද පැවැසීය.
+
+◼️
+
+[Data](articles/3e979100.json)
 
 ---
 
@@ -2257,53 +2339,5 @@ Subsequently, two police officers suspected of helping the suspect to escape the
 [Data](articles/17063711.json)
 
 [Extended Data](ext_articles/17063711.ext.json)
-
----
-
-### Remedies without solutions to crisis with multiple tragedies
-
-*2024-06-17 20:28:13* · [`dailyftlk`](https://www.ft.lk/columns/Remedies-without-solutions-to-crisis-with-multiple-tragedies/4-763172) · `en`
-
-We need to ask political leaders what their plans are to drastically reduce over one million pending court cases and heavy overcrowding of prisons in the context of a national economic bankruptcy
-
-Can a nation in bankruptcy pull itself out of this social doldrum, with a State apparatus that does not believe it has a responsibility towards the people who maintain them financially? Can a nation walk out of bankruptcy with political leaderships that have no serious thoughts about solving this social tragedy? They do not seem to know Sri Lanka’s bankruptcy is not just about external debts alone. No political leadership is heard belting out details on this social tragedy on their campaign platforms and in rallies as they do on fraud and corruption
-
-...
-
-[Data](articles/ce22eda6.json)
-
-[Extended Data](ext_articles/ce22eda6.ext.json)
-
----
-
-### Sajith Premadasa, Sinhala Jokers, Kallathonis & The 13th Amendment
-
-*2024-06-17 20:24:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sajith-premadasa-sinhala-jokers-kallathonis-the-13th-amendment/) · `en`
-
-Someone asked me; What have you to say about the adverse comments of some Sinhala politicians in the South about Sajith Premadasa  promising the Tamils in the North the full implementation of the 13th Amendment?
-
-...
-
-[Data](articles/833d3eb3.json)
-
-[Extended Data](ext_articles/833d3eb3.ext.json)
-
----
-
-### Assessing the Economic Transformation Bill
-
-*2024-06-17 20:18:09* · [`dailyftlk`](https://www.ft.lk/columns/Assessing-the-Economic-Transformation-Bill/4-763171) · `en`
-
-Many are sceptical about the likelihood of targets being achieved
-
-Among the many bills emanating from the Legal Draftsman’s Department these days, the Economic Transformation Bill (ETB) appears to be one of the more significant. The President and Ministers are asking for it to be supported. It has attracted many critics. Splits have emerged within the Government coalition.
-
-Most critics spend a lot of effort attacking the first section which has a long list of targets to be achieved. Many are sceptical about the likelihood of targets being achieved. Some say they are nonsensical and contradictory. Others argue that the current legislators cannot bind future governments/legislatures.
-
-...
-
-[Data](articles/a94618ab.json)
-
-[Extended Data](ext_articles/a94618ab.ext.json)
 
 ---

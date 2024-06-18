@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 04:04:54**
+As of **2024-06-19 04:19:11**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,010 (100.0%) of 31,011 articles have been extended.
+31,011 (100.0%) of 31,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ஜனாஸாக்களை எரிக்க தீர்மானித்தவர் யார்?
+### Who decided to burn the Janasas?
 
 *2024-06-19 01:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்களை-எரிக்க-தீர்மானித்தவர்-யார்/175-339103) · `ta`
 
-முஸ்லிம்  இனத்துக்கு மாத்திரம் எதிராக இனவாதமாக திட்டமிட்டு, செயற்படும் வகையில், கொரோனா  தொற்றில் மரணித்தவர்களை எரிக்க வேண்டும் என தீர்மானம் மேற்கொண்டவர்கள் யார் என்பதை தேடிப்பார்த்து, அவர்களுக்கு எதிராக நடவடிக்கை எடுக்க வேண்டும் என ஜனாதிபதியிடம் எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச  வேண்டுகோள் விடுத்தார்.
+Opposition leader Sajith Premadasa criticized the government for appointing specialists to cremate COVID-19 victims, labeling it a discriminatory act against Muslims. He urged the president to prevent such decisions in the future, emphasizing the violation of fundamental rights and racial discrimination.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18)  ஜனாதிபதி ஆற்றிய விசேட உரையில், கொரோனா  தொற்றில் மரணித்தவர்களின் சடலங்களை எரிப்பதற்கு எடுத்த தீர்மானம் போன்று எதிர்காலத்தில் அவ்வாறான பிழையான தீர்மானங்களை தவிர்க்கும் வகையில் புதிய சட்டம் கொண்டுவர நடவடிக்கை எடுப்பதாக தெரிவித்த கருத்து தொடர்பிலேயே இவ்வாறு வேண்டுகோள்  அவர் மேலும் தெரிவிக்கையில்
+🟩
+
+Opposition Leader Sajith Premadasa appealed to the president to take action against them and take action against the Muslims, who have decided to burn those who have died in the Corona infection.
+
+In a special speech delivered by the President in Parliament on Tuesday (18), he added that the new legislation would take action to avoid such erroneous resolutions in the future, such as the decision to burn the bodies of the dead in the Corona infection.
+
+The government's appointment of a group of specialist experts to burn the bodies of the dead in the Corona is the worst communal act of targeting Muslims in political history.. The government's decision to burn as the World Health Organization said it could be buried in the coronary infection.
 
 ...
 
 [Data](articles/64cc1033.json)
+
+[Extended Data](ext_articles/64cc1033.ext.json)
 
 ---
 

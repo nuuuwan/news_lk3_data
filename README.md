@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 10:05:30**
+As of **2024-06-18 10:19:24**
 
 ## Newspaper Stats
 
-*Scraped **30,884** Articles*
+*Scraped **30,886** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
-dbsjeyarajcom | 284
+dbsjeyarajcom | 285
 bbccomsinhala | 302
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,783
 dailyftlk | 1,883
-adalk | 2,678
+adalk | 2,679
 adaderanalk | 3,499
 tamilmirrorlk | 3,625
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,884 (100.0%) of 30,884 articles have been extended.
+30,884 (100.0%) of 30,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -982,6 +982,40 @@ With over three decades of experience, his leadership prowess and passion for nu
 
 ---
 
+### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
+
+*2024-06-18 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84194) · `en`
+
+“And one man in his time plays many parts” ,stated  William Shakespeare in his play “As you like it”. The above  mentioned observation by the  Bard of Avon is quite appropriate in describing the life and work of Dr.Nissanka Wijeyeratne whose 100th birth anniversary was  celebrated on June 14.
+
+Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military officer ,scholar, poet,  Government Agent, Permanent secretary, ),Parliamentarian, Cabinet Minister, Ambassador and above all the Diyawadane Nilame of the  Sri Dalada Maligawa in a  productive life spanning eight decades. This article is to commemorate the birth centenary of this versatile,  multi-faceted personality who rendered yeoman service to his motherland.
+
+...
+
+[Data](articles/fb52118a.json)
+
+[Extended Data](ext_articles/fb52118a.ext.json)
+
+---
+
+### “The present time is opportune for a pledge to be taken together by the prospective candidates at the presidential election to support the implementation of the 13th Amendment and take forward the larger reconciliation process”- National Peace Council
+
+*2024-06-18 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84213) · `en`
+
+(Text of Media Release issued by the National Peace Council of Sri Lanka on 14 June 2024)
+
+Sri Lanka is witnessing a positive transformation of electoral politics in relation to its long standing ethnic conflict that commenced with the economic collapse of 2022. The notion that the country required a “system change” was promoted by the student-led protest movement that publicly eschewed racism and upheld the rights of equal citizenship in their slogans.
+
+In a manner inconceivable in the past, the three main candidates for the presidential election in October appear to be outbidding each other in support of the 13th Amendment to the constitution and devolution of power to the provinces.
+
+This is an aspect of the change that has taken place in contrast to the politics of the past when narrow ethnic nationalism was used to foment violence and harvest votes.
+
+...
+
+[Data](articles/eea4103e.json)
+
+---
+
 ### 2024-06-17 (Monday)
 
 ### Warning that the price of all goods will increase
@@ -1531,6 +1565,26 @@ Speaking to the media in Galle, Sirisena said: “If I did not resign from my po
 [Data](articles/853c35f8.json)
 
 [Extended Data](ext_articles/853c35f8.ext.json)
+
+---
+
+### සරසවි අනධ්‍යන සේවකයන් අද කොළඹට
+
+*2024-06-17 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්-අද-කොළඹට/11-410272) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයන්ට ඇති වී තිබෙන ගැටලු විසඳන ලෙස ඉල්ලා අද(18දා) කොළඹදී විරෝධතා ව්‍යාපාරයක් පවත්වන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක වෘත්තීය සමිති සඳහන් කරයි.
+
+මෙම විරෝධතාවය පැවැත්වීමෙන් පසු ඉදිරි වෘත්තීය ක්‍රියාමාර්ග තීරණය කිරීම සඳහා වෘත්තීය සමිති නියෝජිතයන් අද(18දා)  සවස රැස්වන බවද පෙන්වා දෙයි.
+
+පවතින ගැටලු විසඳන ලෙස ඉල්ලා ආරම්භ කළ වැඩවර්ජනයට අදට (18දා) දින 48ක් ගත වී තිබෙන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක වෘත්තීය සමිති සඳහන් කරයි.
+
+ගැටලුවලට විසඳුම් ලබා දීම ප්‍රමාද කරන නිසා එයට එරෙහිව පසුගිය 14 දින සිට විරෝධතා ව්‍යාපාර ආරම්භ කළ බවත් මේ අනුව විශ්වවිද්‍යාල මූලික කරගනිමින් 14වන දින දිවයින පුරා විරෝධතා පැවැත් වූ බවද එම සංගම් නියෝජිතයෝ පෙන්වා දෙති.
+
+එම ක්‍රියාමාර්ගයට අනුවත් ගැටලු විසඳීමට බලධාරීන් කටයුතු නොකළ නිසා සියලුම විශ්වවිද්‍යාලවල අනධ්‍යයන සේවකයන් අද (18දා) කොළඹට පැමිණි විරෝධතා ව්‍යාපාරයක් පැවැත්වීමට කටයුතු කරන බවද පෙන්වා දෙයි.
+
+...
+
+[Data](articles/a9c59752.json)
 
 ---
 
@@ -2297,83 +2351,5 @@ There are 47455 total families and 140931 population in Mullaitivu district. Of 
 [Data](articles/67594df5.json)
 
 [Extended Data](ext_articles/67594df5.ext.json)
-
----
-
-### ‘We haven’t corrected our recurring mistakes yet’ – Wanindu
-
-*2024-06-17 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99928/we-havent-corrected-our-recurring-mistakes-yet-wanindu) · `en`
-
-As Sri Lanka bids farewell to the 2024 T20 World Cup, Captain Wanindu Hasaranga emphasized the importance of accountability in the face of defeat.
-
-Speaking to the media following their final match in the tournament, Hasaranga stated that although it is easy to blame the pitch or other factors after losing matches, players should adapt them as professional cricketers.
-
-“At first I should say that we are really sorry for our performance. As a team, we know the capabilities of our team, but unfortunately, we did not perform well in the first two matches. Though we won this match, it is too late to change the outcome now”, he expressed.
-
-The Sri Lankan skipper further said: “We talked about our mistakes from both the last World Cup and this tournament, but we haven’t corrected the mistakes yet.”
-
-...
-
-[Data](articles/600d0787.json)
-
-[Extended Data](ext_articles/600d0787.ext.json)
-
----
-
-### Yall. The mysterious box floating in the seas of Allaipiti
-
-*2024-06-17 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186266) · `ta`
-
-A mysterious box discovered floating in the Allaipiti seas near Jaffna was retrieved by local authorities after being washed ashore. Upon opening it, the contents were turned over to the police for further investigation.
-
-🟩
-
-Telecommunication device has been recovered from a mysterious box that has been hit by a sea in Jaffna.
-
-A mysterious box floating on the Allaipiti seas was found on Sunday (17).
-
-Following the announcement to the Kayts police, the police went to the scene and opened the shore -based box.
-
-The police have taken further investigations to the police.
-
-◼️
-
-[Data](articles/337807e7.json)
-
-[Extended Data](ext_articles/337807e7.ext.json)
-
----
-
-### Holy Hajj Prayer
-
-*2024-06-17 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186258) · `ta`
-
-The Eidul Alha Holy Hajj Prayer took place across Sri Lanka, with significant gatherings in Colombo, Kattankudy, Mannar, Puttalam, Muttur, Semmannodai, Pattanichoor, Vavuniya, Kalmunai, and Ampara. Notable attendees included local politicians and religious scholars who led prayers and sermons, emphasizing unity and support for global causes like Palestine.
-
-🟩
-
-The Eidul Alha Holy Hajj Prayer was held on Monday (17) in various parts of the country.
-
-The Sri Lanka Memon Association's annual prayer was held at the Galle Face of Colombo.
-
-The main public prayer of Kattankudy district was held at the city council ground. It was attended by more than 5,000 men and women.
-
-Ashsheik MAM Siror Balahi conducted the great prayer and Qutba. The police were on duty at the Kutba.
-
-Hajj events have been held in Mannar district in the Murvedi Jumma School.
-
-Women were praying for women at 6.45 am and men at 7.30 am. The prayer was held under the patronage of Moulavi M. Assem of the Murvidhi Jumma School.
-
-Fasting Prayer in Puttalam District. The great prayer was performed by Imam Minhaj.
-
-Hajj Prayer at Muttur Public Playground was held at 6.30 am. R. Imam Moulavi performed the prayer.
-
-The Hajj Prayer was organized by the Muttur -Alhasanah Social Development Center.
-
-...
-
-[Data](articles/9fef041a.json)
-
-[Extended Data](ext_articles/9fef041a.ext.json)
 
 ---

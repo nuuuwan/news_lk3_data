@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 08:34:50**
+As of **2024-06-18 08:53:49**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,872 (100.0%) of 30,874 articles have been extended.
+30,874 (100.0%) of 30,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### අනධ්‍යයන සේවකයින් සහ විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව අතර සාකච්ඡාවක්
+### A discussion between non-academic workers and the University Grants Commission
 
 *2024-06-18 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197869) · `si`
 
-සිය වැටුප් ගැටලුව සම්බන්ධයෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව සමඟ විශේෂ සාකච්ඡාවක් අද (18) දිනයේ පවත්වන බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
+Non-academic staff met with the University Grants Commission today to discuss wage issues.
+
+🟩
+
+A special discussion with the University Grants Commission regarding its wage issue is held today (18).
 
 ◼️
 
 [Data](articles/d0a887d3.json)
+
+[Extended Data](ext_articles/d0a887d3.ext.json)
 
 ---
 
@@ -1184,21 +1190,29 @@ Historically made his time as a time when the highest number of law reforms were
 
 ---
 
-### Geo-Goviya නිසා රු.මි. 573ක් ඉතිරි වෙලා
+### Rs.. 573 left
 
 *2024-06-17 19:51:40* · [`adalk`](https://www.ada.lk/breaking_news/Geo-Goviya-නිසා-රු-මි--573ක්-ඉතිරි-වෙලා/11-410275) · `si`
 
-Geo-Goviya යෙදවුම ඔස්සේ ගොවීන් සතු සත්‍ය කුඹුරු ඉඩම් ප්‍රමාණය තහවුරු වීම හේතුවෙන් පසුගිය වසරේ සහනාධාර ලබා දීමේදී රුපියල් මිලියන 573ක් ඉතිරි කර ගැනීමට රජයට හැකිව තිබේ.
+The government has successfully recovered the correct land ownership details from farmers, thanks to the Geo-Goviya app. This app, part of a broader initiative to modernize agriculture in Sri Lanka, aids in providing subsidies and other aid like fertilizer relief. The Department of Agrarian Development has completed mapping through this app, revealing 1.91 million hectares of land, with 1.38 million farmers registered.
 
-ඒ අනුව අදාළ යෙදවුම මගින් කුඹුරු මැනීම නිවැරදිව සිදු කර ගැනීම හේතුවෙන් ගොවීන් සතු ඉඩම්වල සත්‍ය ප්‍රමාණය නිවැරදිව සටහන් කර ගැනීමට හැකි වී ඇති බවත්, ඔප්පුවල සඳහන් වන ඉඩම් ප්‍රමාණ බොහොමයක් පවතින ඉඩම් හා නොගැලපෙන බවට අනාවරණය වී ඇති බවත් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-ඒ අනුව වගා හානි වන්දි ලබා දීමේ දී මෙන්ම පොහොර සහනාධාර හා වෙනත් ආධාර ලබා දීමේ දී Geo- Goviya යෙදවුම මගින් සනාථ කර ඇති ඉඩම් ප්‍රමාණයට එම සහනාධාර ලබා දීමට කටයුතු කිරීම හේතුවෙන් අදාළ මුදල් ප්‍රමාණය ඉතිරි කර ගැනීමට හැකියාව ලැබී ඇත.
+The government has saved Rs.
 
-ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් මේ වනවිට මෙරට සියලු කුඹුරු ඉඩම් Geo- Goviya යෙදවුම යොදාගනිමින් නිවැරදිව සිතියම් ගත කිරීම අරඹා තිබේ.  ඒ අනුව එම දෙපාර්තමේන්තුව විසින් මැනීම් කටයුතු  අවසන් කර ඇති කුඹුරු ඉඩම් ප්‍රමාණය හෙක්ටයාර් මිලියන 1.91ක් වන අතර ගොවීන් මිලියන 1.38ක් යෙදවුම මගින් ලියාපදිංචි වී ඇත.
+Accordingly, the applicant has accurately recovered the actual amount of land owned by the farmers and that most of the land quantified in the deed of the application, the number of land owned in the deed is uncovered.
 
-...
+According to the Geo-Goviya deployment, the GEO-Goviya app confirmed by the Geo-Goviya application to provide subsidies confirmed by the GEO-goviya apparatus in order to pay the fertilizer relief and other assistance.
+
+The Department of Agrarian Development has already begun accurately mapping GEO-goviya app.  ඒ අනුව එම දෙපාර්තමේන්තුව විසින් මැනීම් කටයුතු  අවසන් කර ඇති කුඹුරු ඉඩම් ප්‍රමාණය හෙක්ටයාර් මිලියන 1.91ක් වන අතර ගොවීන් මිලියන 1.38ක් යෙදවුම මගින් ලියාපදිංචි වී ඇත.
+
+The Geo-Goviya app has been introduced under the program to introduce new technology for agriculture in Sri Lanka and the services provided to agriculture and the services provided by the Department of Agrarian Development.
+
+◼️
 
 [Data](articles/d374c6a9.json)
+
+[Extended Data](ext_articles/d374c6a9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 20:53:56**
+As of **2024-06-18 21:04:22**
 
 ## Newspaper Stats
 
-*Scraped **30,988** Articles*
+*Scraped **30,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,512
 tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,774
-adaderanasinhalalk | 5,032
+adaderanasinhalalk | 5,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,987 (100.0%) of 30,988 articles have been extended.
+30,988 (100.0%) of 30,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### සර්වජන බලය 69 ලක්ෂය නුගේගොඩින් බලගන්වයි
+
+*2024-06-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197896) · `si`
+
+69 ලක්ෂයේ ජනවරමට අමතන සර්වජන බලයේ පළමු ජන රැලිය අද (18) නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංගපීඨයේදී පැවැත්වුණි.
+
+''69 ලක්ෂයක ජනතා බලාපොරොත්තු යළි බලගැන්වීම'' යන මැයෙන්  රැලිය අද පස්වරු 2ට ආරම්භ කෙරුණි.
+
+ඊට සහභාගී වීම සඳහා සර්වජන බලය නියෝජනය කරන දේශපාලන පක්ෂ ස්ථාන 5ක සිට පාගමනින් නුගේගොඩට පැමිණ තිබුණි.
+
+පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා ප්‍රමුඛ පිවිතුරු හෙළ උරුමය නුගේගොඩ තෙත් බිම් උද්‍යානයේ සිටත්, විමල් වීරවංශ මන්ත්‍රීවරයාගේ ජාතික නිදහස් පෙරමුණ කට්ටිය මංසන්ධියේ සිටත්, වාසුදේව නානායක්කාර මන්ත්‍රීවරයා නායකත්වය දරන ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ පාගොඩ පාරේ සිටත්, කොමියුනිස්ට් පක්ෂ නියෝජතයින් කොහුවල මංසන්ධියේ සිට පාගමනට එක්විය.
+
+ව්‍යවසායක දිලිත් ජයවීර මහතා නායකත්වය දරන මව්බිම ජනතා පක්ෂය ස්ටැන්ලි තිලකරත්න මාවතේ සිට පාගමනින් පැමිණ ජන රැලියට සම්බන්ධ වුණි.
+
+...
+
+[Data](articles/e20649e1.json)
+
+---
+
+### ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත ගැන ජනපතිගේ මතය
+
+*2024-06-18 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197895) · `si`
+
+ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත සම්බන්ධයෙන් අද (18) පාර්ලිමේන්තුවේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදහස් පළ කිරීමෙන් පසුව උණුසුම් වාද විවාද ඇතිවුණි.
+
+ජනපති - "ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ තීරණය ඔබ ප්‍රකාශයට පත්කළා නේද?"
+
+ජනපති - "ස්ත්‍රී පුරුෂ සමානාත්මතා පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ මතය ?
+
+...
+
+[Data](articles/01451afb.json)
+
+---
 
 ### Japan is made because of a bacterium eating bacteria
 
@@ -204,21 +240,27 @@ The team's captain Samari Atapathu lost the match in the 3rd over.
 
 ---
 
-### චීනය සහ යුනෙස්කෝව ‘මහා ප්‍රාකාරය’ ශිෂ්‍යත්ව වැඩසටහනේ නව ගිවිසුම් සඳහා අත්සන් තබයි
+### China and UNESCO Signs for New Treaty Program
 
 *2024-06-18 18:08:12* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-සහ-යුනෙස්කෝව-‘මහා-ප්‍රාකාරය’-ශිෂ්‍යත්ව-වැඩසටහනේ-නව-ගිවිසුම්-සඳහා-අත්සන්-තබයි/11-410297) · `si`
 
-චීන අධ්‍යාපන අමාත්‍යාංශය සහ යුනෙස්කෝ සංවිධානය සම අනුග්‍රාහකත්වයෙන් ක්‍රියාවට නංවන ‘මහා ප්‍රාකාරය’ ශිෂ්‍යත්ව වැඩසටහනේ මීළඟ අදියර සඳහා ගිවිසුම් අත්සන් තැබේ.
+China and UNESCO have agreed to extend their educational collaboration through the 'Great Wings' Scholarship Program. The signing ceremony took place at UNESCO's Paris headquarters, highlighting the strong partnership between the two entities. This initiative, which began in 1994, offers scholarships to 75 students annually from developing nations, enabling them to study and conduct research in China for a year.
 
-චීන අධ්‍යාපන අමාත්‍ය Huai Jinpeng මහතා සහ යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Audrey Azoulay මහත්මිය ඊයේ (17) අදාළ ගිවිසුම යළි බලගැන්වීම සඳහා අත්සන් තැබූහ. ඒ,  ප්‍රංශයේ පැරිස් නුවර පිහිටි යුනෙස්කෝ සංවිධාන මූලස්ථානයේ දී ය.
+🟩
 
-Azoulay මහත්මිය චීනය සහ යුනෙස්කෝව අතර පවතින දිගුකාලීන සමීප සහයෝගිතාව එහිදී බෙහෙවින් අගය කළාය. ‘මහා ප්‍රාකාරය’ ශිෂ්‍යත්ව වැඩසටහන දෙරට අතර අධ්‍යාපනික සහයෝගිතාව සඳහා සාර්ථක උදාහරණයක් බව ද ඇය කියාසිටියාය.
+The next phase of the 'Great Wings' Scholarship Program will be signed by the Ministry of China and the UNESCO co-sponsorship.
 
-‘මහා ප්‍රාකාරය’ ශිෂ්‍යත්ව වැඩසටහන 1994 වසරේ දී ආරම්භ කෙරිණ. එමගින්, සංවර්ධනය වෙමින් පවතින රටවල තරුණ සිසුන් සහ විද්වතුන් 75 දෙනෙකුට චීනයට පැමිණ උපාධි අධ්‍යයන සහ පර්යේෂණ සඳහා අවස්ථාව සලසා දෙනු ලැබේ. මෙම ශිෂ්‍යත්ව පිරිනැමෙන්නේ වසරක කාලයක් සඳහා යි.
+Minister of China and Director General of UNESCO Signed Ms. Audrey Azoulay of the UNESCO.. It was at the UNESCO headquarters in Paris, France.
+
+Ms. Azoulay greatly appreciated the long-standing close cooperation between China and UNESCO. She also spoke that the 'Great Wall' scholarship program was a success for education cooperation between the two countries.
+
+The 'Great Wy Patarka' scholarship program commenced in 1994. It provides 75 youth students and scholars in developing countries come to China and allow graduation academic and research.. These scholarships are offered for a period of one year.
 
 ◼️
 
 [Data](articles/64b902a5.json)
+
+[Extended Data](ext_articles/64b902a5.ext.json)
 
 ---
 
@@ -2363,61 +2405,5 @@ As a result of the incident, the water supply to over 100,000 housing units in t
 [Data](articles/66bad6b5.json)
 
 [Extended Data](ext_articles/66bad6b5.ext.json)
-
----
-
-### Action to control the price of coconut oil
-
-*2024-06-18 09:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எண்ணெய்-விலையை-கட்டுப்படுத்த-நடவடிக்கை/175-339062) · `ta`
-
-The Coconut Development Authority denies unreasonable price hikes for coconut oil, attributing it to sufficient domestic supply and unchanged import taxes. Despite a doubling of imports since last year, enough oil is available to prevent price increases. A new regulatory program is being planned to further stabilize prices.
-
-🟩
-
-The Coconut Development Authority said there was no reasonable reasons for the increase in the price of coconut oil in the market.
-
-The tax on imported coconut oil has not been increased, its chairman Professor Roshan Perera said.
-
-Until May this year, 42,000 metric tonnes of coconut oil has been imported, which is twice as much as last year.
-
-Professor Roshan Perera said that due to sufficient coconut oil for consumption in the country, the price of coconut oil cannot be allowed to raise the price of coconut oil.
-
-Meanwhile, the Chairman of the Coconut Development Authority said that a new regulatory program is planned to curb the price of coconut oil in the market.
-
-◼️
-
-[Data](articles/656586a8.json)
-
-[Extended Data](ext_articles/656586a8.ext.json)
-
----
-
-### West Indies beat
-
-*2024-06-18 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197871) · `si`
-
-In a historic match during the World Cup, West Indies set a record with 218 runs in 20 overs, with Nicolas Puren scoring 98 runs. Chasing 219, Afghanistan made 114 runs in 16 overs, showcasing a high-scoring encounter.
-
-🟩
-
-West Indies and West Indies and the Afghan group of Afghanistan scored 104 runs in the World Cup.
-
-Batting first, the West Indies scored 218 runs for the loss of 5 wickets at the end of 20 overs.
-
-This was the highest number of runs in the World Cup.
-
-Meanwhile, this is the highest number of runs in the West Indies a World Cup.
-
-Nicolas Puren scored 98 runs off 53 balls.
-
-The pourne collected 98 runs for the score of 98 was the highest number of players at the World Cup.
-
-Chasing a 219 runs, the Afghan group scored 114 runs in 16 overs.
-
-◼️
-
-[Data](articles/b7a39ade.json)
-
-[Extended Data](ext_articles/b7a39ade.ext.json)
 
 ---

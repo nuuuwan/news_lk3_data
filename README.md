@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 22:34:48**
+As of **2024-06-18 22:53:23**
 
 ## Newspaper Stats
 
-*Scraped **31,000** Articles*
+*Scraped **31,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
-adalk | 2,702
-adaderanalk | 3,514
+adalk | 2,703
+adaderanalk | 3,515
 tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,779
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,998 (100.0%) of 31,000 articles have been extended.
+31,000 (100.0%) of 31,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
+
+### President affirms govt’s unwavering commitment to advance women’s rights
+
+*2024-06-18 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99957/president-affirms-govts-unwavering-commitment-to-advance-womens-rights) · `en`
+
+President Ranil Wickremesinghe has affirmed that all agreements with international women’s organizations mandate that women must have the same rights as men.
+
+He emphasized that the judiciary, executive, legislature, or any other institution cannot interfere with these activities.
+
+The President reiterated that the government’s goal is to ensure equal rights for women in the country and stressed his commitment to this objective.
+
+Furthermore, President Wickremesinghe made it clear that the government will not accept any decisions that could harm the existence of Buddhism.
+
+President Ranil Wickremesinghe made these remarks during his address at the ceremony held today (18) at the Sirikotha Party Headquarters, where letters of appointment were distributed to zonal organizers appointed under the United National Party’s new reorganization drive.
+
+“I am pleased to be part of today’s event marking the second phase of appointing new zonal organizers under the UNP’s reorganization drive.
+
+...
+
+[Data](articles/5f8c5ceb.json)
+
+---
 
 ### Sri Lanka’s Financial Intelligence Unit signs MoU with Bribery Commission
 
@@ -48,23 +70,31 @@ Mrs. K M A N Daulagala, Deputy Governor of the CBSL, a member of the AML/CFT Tas
 
 [Data](articles/75a10532.json)
 
+[Extended Data](ext_articles/75a10532.ext.json)
+
 ---
 
-### මුහුදේ පාවී කළුතර වෙරළට ආ දේ
+### The floss of the sea came to the Kalutara Beach
 
 *2024-06-18 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197898) · `si`
 
-කළුතර, කටුකුරුන්දේ පිහිටි ප්‍රසිද්ධ සංචාරක හෝටලයක් පිටුපස මුහුදු වෙරළට යම් වස්තුවක් පාවී පැමිණ තිබේ.
+A mysterious object found near a hotel on Kalutara Beach led to police investigation. The object, discovered in Katukurundara, was safely retrieved by Kalutara officers. Details are still emerging.
 
-කළුතර දකුණ පොලීසිය සඳහන් කළේ අදාළ උපාංගය සම්බන්ධයෙන් පරීක්ෂණ සිදුකරන බවය.
+🟩
 
-කළුතර කටුකුරුන්ද විශේෂ කාර්ය බළකා නිලධාරින් විසින් එහි රැඳීසිටි ජනතාව ඉවත්කර එම උපකරණය සුරක්ෂිතව පරීක්ෂණ කටයුතු සඳහා රැගෙන ගොස් තිබේ.
+There is an object to the beach behind a famous hotel in Kalutara, Katukurundara.
 
-අප වාර්තාකරු සඳහන් කළේ ඉන් යම් ආලෝකයක් නිකුත් කරමින් තිබෙන බවය.
+Kalutara South Police said that investigations are conducted into the relevant device.
+
+Katukurun alias officials have been removed by the officers of the Kalutara and carried out the instrument safely.
+
+Our correspondent stated that it was being issued.
 
 ◼️
 
 [Data](articles/0607f7f7.json)
+
+[Extended Data](ext_articles/0607f7f7.ext.json)
 
 ---
 
@@ -309,6 +339,18 @@ However, when inquired by Ada Derana, Minister Rajapakshe said that the statemen
 [Data](articles/1c19a76c.json)
 
 [Extended Data](ext_articles/1c19a76c.ext.json)
+
+---
+
+### යාපනය දිස්ත්‍රිකයේ චින ජාතිකයින්ට මුහුදු කුඩැල්ලන් වගා කිරිමට අවසර දෙන්නේ නෑ
+
+*2024-06-18 18:43:11* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රිකයේ-චින-ජාතිකයින්ට-මුහුදු-කුඩැල්ලන්-වගා-කිරිමට-අවසර-දෙන්නේ-නෑ/11-410300) · `si`
+
+චින ප්‍රඡාවට යාපනය දිස්ත්‍රික්කයේ මුහුදු කුඩැල්ලන් වගා කිරිමට අවසර ලබා දි නොමැති බවත් යහපාලන සමයේ එක් චින සමාගමකට මුහුදු කුඩැල්ලන් අභිජනනය කිරිම සදහා අවසර ලබා දි තිබුනද. වර්ථමානයේදි එම ආයතනයේද බලපත්‍ර අවලංගු  කිරිමට තමා  අවශ්‍ය කටයුතු සිදු  කර ඇති බව ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා 2024/06/17 දින යාපනයේ දිස්ත්‍රිකයේ මුහුදු කුඩැල්ලන් වගා කරුවන් සමග පැවති සාකච්ඡාවකදි ප්‍රකාශ කර සිටියේය.
+
+...
+
+[Data](articles/dc3caec3.json)
 
 ---
 
@@ -2361,61 +2403,5 @@ SC Determination on Sri Lanka Telecommunication (Amendment) Bill by Adaderana On
 [Data](articles/cd119512.json)
 
 [Extended Data](ext_articles/cd119512.ext.json)
-
----
-
-### Sri Lanka to exempt one house from imputed rent wealth tax: President
-
-*2024-06-18 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-exempt-one-house-from-imputed-rent-wealth-tax-president-168522/) · `en`
-
-ECONOMYNEXT  – Sri Lanka will exempt one house from a proposed wealth tax outlined in an International Monetary Fund program, President Ranil Wickremesinghe said.
-
-About 90 percent of the people’s houses are likely to be exempt from the proposed tax, he said.
-
-“[O]ne house will be exempt from this,” President Wickremesinghe told parliament Monday.
-
-“It is going to have a very high threshold and I do not think the vast majority of the people in this country should even be worried about their house
-
-The IMF program document however did not mention an exemption on one house, but did mention an exemption threshold.
-
-Taxing houses and thrift in general could have detrimental effects on people’s well-being, housing stock and their willingness to remain in the country without migrating, critics say.
-
-Related Sri Lanka to tax imaginary rents on houses under IMF deal
-
-The mechanism of imputed rents was used because rates on houses were assigned to provincial councils and courts could strike it down.
-
-...
-
-[Data](articles/c4c0bf51.json)
-
-[Extended Data](ext_articles/c4c0bf51.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 304.30/55 to US dollar
-
-*2024-06-18 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-30-55-to-us-dollar-168481/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 304.30/55 to the US dollar on Tuesday, while bond yields were broadly stable, and stocks opened 0.02 percent up, dealers said.
-
-The rupee closed at 304.00/15 to the greenback on Friday, before the long weekend.
-
-In equities, Colombo’s All Share Price Index opened 2.06 points higher at 12,312 while the S&P SL20 of more liquid stocks opened down 0.07 percent or 2.63 points to 3,642.
-
-In the secondary market, yields were broadly stable, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.10/30, up from 10.05/30 percent.
-
-A bond maturing on 01.07.2028 was quoted at 11.05/30 percent, up from 11.05/20 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.80/85 percent.
-
-A bond maturing on 01.10.2032 was quoted at 11.95/12.10 percent, down from 12.00/10 percent.
-
-◼️
-
-[Data](articles/c224cee9.json)
-
-[Extended Data](ext_articles/c224cee9.ext.json)
 
 ---

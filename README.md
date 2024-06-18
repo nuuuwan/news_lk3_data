@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 19:52:53**
+As of **2024-06-18 20:05:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,031
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,983 (100.0%) of 30,984 articles have been extended.
+30,984 (100.0%) of 30,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -154,23 +154,29 @@ He said that Minister Wijayadasa Rajapaksa told the Politburo.
 
 ---
 
-### අම්මයි - දුවයි ජයටම කසිප්පු පෙරලා
+### Mother and daughter Filmed the Kasippu
 
 *2024-06-18 18:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අම්මයි---දුවයි-ජයටම-කසිප්පු-පෙරලා/11-410296) · `si`
 
-පේරාදෙණිය පොලිස් බල ප්‍රදේශයේ බෝවල ප්‍රදේශයේඝන කැලෑවක මවක සහ දියණියක විසින්මහා පරිමාණයෙන් පවත්වාගෙන ගියකසිප්පු පෙරීමේ ස්ථානයක් වැටලීමටමහනුවර කොට්ඨාශදූෂණ මර්දන අංශ නිලධාරීන්ට හැකිව තිබේ .
+In Peradeniya, a police raid led to the arrest of a mother and her 26-year-old daughter, along with 16 other individuals, for allegedly producing 500 liters of illicit liquor known as "Kasippu." The operation targeted a facility believed to be involved in the production and distribution of this alcohol. The arrests were made possible through a coordinated effort involving a significant number of police officers, highlighting the seriousness with which authorities are treating this issue. Further investigations are being conducted to fully understand the extent of the operation and its implications.
 
-ඊයේ (17දා) රාත්‍රියේ පොලිස් නිලධාරීන් විශාල පිරිසකගේ සහභාගිත්වයෙන් සිදු කරන ලද එම මෙහෙයුමේදීගෝඩා ලීටර් 1250ක් කසිප්පුස්ප්‍රීතුලිටර්200ක්කසිප්පු පෙරීමට උපයෝගී කරගන්නාලීටර් 500යේ බැරල්තඹ දඟර, ගෑස් සිලින්ඩර්,ගෑස් ලිප් ඇතුළුවිශාල භාණ්ඩ තොගයක් පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ .
+🟩
 
-පොලිසිය විසින් අත්අඩංගුවට ගන්නා ලද 48 හැවිරිදි මව සහ 26 හැවිරිදිදියණිය මීට පෙරදීදඅවස්ථා ගණනාවකදීකසිප්පු කිරීමේ වරදට අත්අඩංගුවට ගෙන අධිකරණය මගින් දඬුවම් නියම වූතැනැත්තියන් බව පොලිසිය කියයි .
+The area has been able to raid a filw schedule of filtering in a scale of a woman in Bowalaya, Peradeniya police force.
 
-බෝවල පයිනස් කැලෑවේ කිසිවෙකුටත් ළං විය නොහැකි ආකාරයේ දුෂ්කරබෑවුමකවිශාල ටැංකි වලදමාමෙම කසිප්පු කිරීමේ ස්ථානය පවත්වාගෙන ගොස් තිබේ .
+The operation of a large number of police officers at night (17) was arrested by a large number of police officers in the operation of a large number of police officers in the operator at 500 liters of Kasippusprepture.
 
-පොලිසියට ලද තොරතුරකට අනුවපොලිස් නිලධාරීන්දීර්ඝ වේලාවක් එහි රැක සිටසැකකාර මව සහ දියණිය ඇතුළු කිහිපදෙනෙකුඑහි පැමිණකසිප්පු පෙරීමේ කටයුතු ආරම්භ කළ අවස්ථාවේදීඔවුන් සියලු දෙනා අත්අඩංගුවට ගෙන තිබේ .
+The 48-year-old mother and 26 year old mother of the police have been arrested in the previous number of Buddhist monks were taken into custody by the courts.
+
+The Kasippu of the Kasippu has been maintained in a difficult determination tanks that cannot be drawn near.
+
+According to the police, the police were arrested at the time of the operation of several persons including mother and daughter and several others, including mother and daughter and several others.
 
 ...
 
 [Data](articles/de15677c.json)
+
+[Extended Data](ext_articles/de15677c.ext.json)
 
 ---
 

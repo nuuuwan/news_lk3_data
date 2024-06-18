@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 21:34:48**
+As of **2024-06-18 21:54:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,990 (100.0%) of 30,992 articles have been extended.
+30,992 (100.0%) of 30,992 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ If not treated promptly, it can lead to soft tissue damage, respiratory failure,
 ...
 
 [Data](articles/5d688469.json)
+
+[Extended Data](ext_articles/5d688469.ext.json)
 
 ---
 
@@ -244,19 +246,27 @@ The dead youth has been identified as a 19 -year -old from Wellawaya.
 
 ---
 
-### අවුරුදු 5කදී පුද්ගලයන් 58 304ට ද්විත්ව පුරවැසිභාවය
+### Dual Citizenship at 58 304 people in 5 years
 
 *2024-06-18 18:25:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-5කදී-පුද්ගලයන්-58-304ට-ද්විත්ව-පුරවැසිභාවය/11-410298) · `si`
 
-2015 වසරේ සිට 2020 වසර දක්වා කාලය තුළ පුද්ගලයින් 58,304 දෙනෙකුට ශ්‍රි ලංකාවේ ද්විත්ව පුරවැසි භාවය ලබාදි ඇති බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+From 2015 to 2020, Sri Lanka granted dual citizenship to 58,304 individuals out of 63,917 applications received. The highest number of applications came in 2015 with 17,126, followed by 14,802 in 2016.
 
-එමෙන්ම මෙරට ද්විත්ව පුරවැසි භාවය ලබාගැනීම සඳහා 2015 සිට 2020 දක්වා කාලය තුළ පුද්ගලයින් 63,917 ක් ඉදිරිපත්ව ඇති බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරැණාතිලක මහතා  වාචික පිළිතුරැ අපේක්ෂාවෙන් ඊයේ (18දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-"2015 වසරේ සිට 2020 දක්වා මෙරට ද්විත්ව පුරවැසි භාවය සඳහා ඉල්ලුම් කර ඇති සංඛ්‍යාවන් පිළිබඳව විමසා තිබෙනවා. 2015 වසරේදී 17,126 ක් ඉල්ලුම් කර තිබෙනවා. 2016 වසරේදී 14,802 ක් ඉල්ලූම් කර තිබෙනවා. 2017 වසරේදී 9549 ක් ඉල්ලුම් කර තිබෙනවා. 2018 වසරේදී 9,750 ක් අයදුම් කර තිබෙනවා. 2019 වසරේදී 8,702 ක්ද 2020 වසරේදී 3,988 ක්ද වශයෙන් ඉල්ලුම් කර තිබෙනවා. 2015 වසරේ සිට 2020 දක්වා අයදුම් කර ඇති මුළු සංඛාව 63,917 ක් වෙනවා.
+According to the People's Defense Minister Tiran Alles said that 58,304 persons have been given dual citizenship in Sri Lanka from 2015 to 2020.
 
-...
+He further stated that 63,917 persons have been submitted in Parliament yesterday (18) in Parliament yesterday (18) as a result of 63,917 persons have been submitted to verbal answer.
+
+"Inquired about the numbers that have applied for dual citizenship in Sri Lanka until the year 2015 to 2020. 17,126 have applied for 2015. 14,802 have applied for 2016. 9549 has applied for the year 2017. 9,750 applied to 2018. 8,702 in 2019 and 3,988 in 2020. The total number of persons who have applied for 2020 from 2015 to 2020 is 63,917.
+
+Also, in 2015, Dual citizenship has been given to 16,184 of the applicants who have applied for.. 13,933 has been given in 2016. 8,881 has been issued in 2017. Also, 8,747 has been issued in 2018. 7,405 has been issued in 2019. 3154 has been issued in 2020. Accordingly, 58,3044 has been given to 58,30,304 to 2020. "
+
+◼️
 
 [Data](articles/d4175adf.json)
+
+[Extended Data](ext_articles/d4175adf.ext.json)
 
 ---
 

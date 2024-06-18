@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 00:07:06**
+As of **2024-06-19 00:19:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,003 (100.0%) of 31,006 articles have been extended.
+31,006 (100.0%) of 31,006 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -241,6 +241,8 @@ This year, the top reason for central banks to hold gold is “long-term store o
 ...
 
 [Data](articles/5cb1f1fa.json)
+
+[Extended Data](ext_articles/5cb1f1fa.ext.json)
 
 ---
 
@@ -501,6 +503,8 @@ Nobody has so far taken the central bank to court for printing money beyond over
 ...
 
 [Data](articles/2d26af71.json)
+
+[Extended Data](ext_articles/2d26af71.ext.json)
 
 ---
 
@@ -1575,6 +1579,8 @@ The MOU was signed by CCC CEO Buwanekabahu Perera, SGCCI President Ramesh Vaghas
 ...
 
 [Data](articles/acd31a7e.json)
+
+[Extended Data](ext_articles/acd31a7e.ext.json)
 
 ---
 

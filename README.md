@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-18 22:19:26**
+As of **2024-06-18 22:34:48**
 
 ## Newspaper Stats
 
-*Scraped **30,998** Articles*
+*Scraped **31,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,85 @@ islandlk | 1,693
 economynextcom | 1,789
 dailyftlk | 1,883
 adalk | 2,702
-adaderanalk | 3,513
+adaderanalk | 3,514
 tamilmirrorlk | 3,637
 dailymirrorlk | 4,733
 virakesarilk | 4,779
-adaderanasinhalalk | 5,035
+adaderanasinhalalk | 5,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-30,993 (100.0%) of 30,998 articles have been extended.
+30,998 (100.0%) of 31,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-18 (Tuesday)
 
-### ஒரு நாள் இரவு காட்டில் வாழ்ந்த சிறுவனை மீட்ட பொலிஸார் ; பெரும் அதிர்ச்சியை பிரதேசமக்கள்
+### Sri Lanka’s Financial Intelligence Unit signs MoU with Bribery Commission
 
-*2024-06-18 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186409) · `ta`
+*2024-06-18 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99956/sri-lankas-financial-intelligence-unit-signs-mou-with-bribery-commission) · `en`
 
-விளையாடிக்கொண்டிருந்த நான்கு வயது சிறுவன் ஒரு நாள் இரவு காட்டில் வாழ்ந்த சம்பவமொன்று பிரதேச மக்கள் மத்தியில் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+The Financial Intelligence Unit (FIU) of Sri Lanka has entered into a Memorandum of Understanding (MOU) with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) to exchange information relating to investigations and prosecutions of money laundering, bribery or corruption, and other related offences.
 
-குறித்த சிறுவன் காணாமல் போன நிலையில் காட்டுப்பகுதியிலிருந்து கண்டு பிடித்துள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்துள்ளனர்.
+Mr. Chethiya Goonasekera, PC, Commissioner of the CIABOC and Mr. Kanishka Wijeratne, Director General of the CIABOC signed the MOU on behalf of the CIABOC, and Dr. Subhani Keerthiratne, Director of the FIU signed the MOU on behalf of the FIU.
 
-லக்ஸபான தோட்டத்தைச் சேர்ந்த நான்கு வயதுடைய சிறுவனே டங்கல் காட்டுப்பகுதியிலிருந்து செவ்வாய்க்கிழமை (18) காலை கண்டுபிடிக்கப்பட்டுள்ளார்.
+The MOU signing was chaired by Dr. P Nandalal Weerasinghe, the Governor of the CBSL, in the capacity as the Chairman of the Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee.
 
-திங்கட்கிழமை (17) மாலை சிறுவர்களுடன் விளையாடிக்கொண்டிருந்த குறித்த சிறுவன் வீட்டிற்கு வராத நிலையில் பதற்றமடைந்த ஊர்மக்கள் நோர்வூட் பொலிஸாருக்கு அறிவித்ததுடன் இரவு முழுவதும் தேடுதல் நடவடிக்கையிலும் ஈடுபட்டுள்ளனர்.
-
-டங்கல் மேற் பிரிவில் திருமண நிகழ்வொன்றுக்கு லக்ஸபான தோட்டத்திலிருந்து வந்த உறவினர்களின் பிள்ளையான சிவதாஸ் அபிசான் என்ற நான்கு வயது சிறுவனே இவ்வாறு காணாமல் போயுள்ளான்.
+Mrs. K M A N Daulagala, Deputy Governor of the CBSL, a member of the AML/CFT Task Force, also attended the occasion.
 
 ...
 
+[Data](articles/75a10532.json)
+
+---
+
+### මුහුදේ පාවී කළුතර වෙරළට ආ දේ
+
+*2024-06-18 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197898) · `si`
+
+කළුතර, කටුකුරුන්දේ පිහිටි ප්‍රසිද්ධ සංචාරක හෝටලයක් පිටුපස මුහුදු වෙරළට යම් වස්තුවක් පාවී පැමිණ තිබේ.
+
+කළුතර දකුණ පොලීසිය සඳහන් කළේ අදාළ උපාංගය සම්බන්ධයෙන් පරීක්ෂණ සිදුකරන බවය.
+
+කළුතර කටුකුරුන්ද විශේෂ කාර්ය බළකා නිලධාරින් විසින් එහි රැඳීසිටි ජනතාව ඉවත්කර එම උපකරණය සුරක්ෂිතව පරීක්ෂණ කටයුතු සඳහා රැගෙන ගොස් තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ ඉන් යම් ආලෝකයක් නිකුත් කරමින් තිබෙන බවය.
+
+◼️
+
+[Data](articles/0607f7f7.json)
+
+---
+
+### Police rescued the boy who lived in the forest one night;Territories of great shock
+
+*2024-06-18 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186409) · `ta`
+
+A four-year-old boy went missing from his home in the Laxapana estate and was found in the Dangal forest the next morning. The Norwood police conducted extensive searches throughout the night after being notified of the boy's disappearance. The boy, Sivadas Abhisan, was later admitted to Tikoya Hospital for examination as the police continue their investigation into the incident.
+
+🟩
+
+A four -year -old boy who was playing in the forest one night has caused a shock to the people of the area.
+
+Norwood police said that the boy was missing from the forest.
+
+A four -year -old boy from the Laxapana estate was found from the Dangal forest on Tuesday morning.
+
+The boy who was not coming home to the boys on Monday (17) evening, the Norwood police informed the Norwood police and were engaged in search operations all night.
+
+Sivadas Abhisan, a four -year -old boy, a child from the garden of the garden from the garden of the Dangal top section, has disappeared.
+
+In this case, the police and the public in the wilderness in the wilderness found the boy in the wilderness in the wilderness.
+
+The police have taken steps to admit to the Tikoya Hospital for the rescued boy to check and the boy's disappearance?Or is it any other reason?Police are investigating an intensive investigation.
+
+◼️
+
 [Data](articles/a83b1d41.json)
+
+[Extended Data](ext_articles/a83b1d41.ext.json)
 
 ---
 
@@ -152,21 +198,29 @@ President - "It was read by you. I need to refer to a ruled question. According 
 
 ---
 
-### பௌத்த மதத்தின் இருப்புக்கு தீங்கு விளைவிக்கும் எந்தவொரு தீர்மானமும் ஏற்றுக்கொள்ளப்பட மாட்டாது - ஜனாதிபதி ரணில் விக்ரமசிங்க
+### Any resolution that is harmful to the existence of Buddhism will not be accepted - President Ranil Wickremesinghe
 
 *2024-06-18 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186408) · `ta`
 
-ஆண்களுக்கு நிகரான உரிமைகள் பெண்களுக்கும் இருக்க வேண்டும் எனபது சர்வதேச பெண்கள் அமைப்புகளின் அனைத்து உடன்படிக்கைகளிலும் உள்ளடங்கியுள்ளதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, நீதித்துறை, நிறைவேற்றுத்துறை, சட்டத்துறை அல்லது எந்தவொரு நிறுவனமும் அந்த நடவடிக்கைகளில் தலையிட முடியாது என்று வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized the importance of women's rights, aligning them with international standards, and vowed to protect Buddhism from any resolutions deemed harmful. He highlighted the government's commitment to gender equality and the inclusion of women in decision-making processes, while also ensuring the preservation of Buddhist values.
 
-ஆண்களுக்கு நிகரான உரிமைகளை பெண்களுக்கும் வழங்குவதே அரசாங்கத்தின் நோக்கமாகும் என்று தெரிவித்த ஜனாதிபதி, அதற்காக தாம் அர்ப்பணிப்புடன் இருப்பதாகவும் குறிப்பிட்டார்.
+🟩
 
-மேலும், பௌத்த மதத்தின் இருப்புக்கு பங்கம் விளைவிக்கும் எந்தவொரு தீர்மானத்தையும் அரசாங்கம் ஏற்றுக்கொள்ளாது எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe stressed that all the agreements of the international women's organizations are included in women's rights for women, and urged that the judiciary, the executive department, the law, or the company cannot interfere with the activities.
 
-ஐக்கிய தேசியக் கட்சியின் புதிய மறுசீரமைப்பின் கீழ் நியமிக்கப்பட்டுள்ள பிராந்திய அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு செவ்வாய்க்கிழமை (18) சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது. இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு குறிப்பிட்டுள்ளார்.
+The President said the government's aim was to give women the rights of men, and that he was dedicated to it.
+
+The President also pointed out that the government would not accept any resolution that contributes to the existence of Buddhism.
+
+The event was held on Tuesday (18) at the party headquarters to issue appointment letters to regional organizers appointed under the United National Party's new restructuring.. President Ranil Wickremesinghe said this while addressing the event.
+
+I am happy to attend the second phase of the event today issuing appointment letters to the new regional organizers appointed under the UNP Reconstruction Program.
 
 ...
 
 [Data](articles/b1d0797a.json)
+
+[Extended Data](ext_articles/b1d0797a.ext.json)
 
 ---
 
@@ -478,21 +532,35 @@ The deceased has been identified as a person in 19 years.
 
 ---
 
-### கல்வி சாரா ஊழியர்களின் பிரச்சினைகளுக்கு தீர்வுகாண எழுத்து மூலம் உறுதிமொழி    -    கல்வி அமைச்சர்
+### In writing to solve the problems of non -academic staff - Minister of Education
 
 *2024-06-18 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186388) · `ta`
 
-பல்கலைக்கழக கல்வி சாரா ஊழியர்களின் பிரச்சினைகளுக்கு தீர்வு காண்பது தொடர்பில் எழுத்து மூல உறுதிமொழியொன்று வழங்கப்படும். அது தொடர்பான பேச்சுவார்த்தையொன்று நேற்று பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுடன் இடம் பெற்றுள்ளது என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த  தெரிவித்தார்.
+Education Minister Susil Premajayantha announced plans to address issues faced by non-academic staff at universities, including a proposed 25% pay raise similar to that of academic staff. Due to budget constraints, solutions will be implemented starting January next year. Opposition to funding from university reserves was noted, alongside ongoing discussions and submissions to the Cabinet. A cabinet committee was formed recently, and negotiations with the University Grants Commission are underway to issue a written pledge addressing these concerns.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) காமினி வலேபொட எம்பி எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பல்கலைக்கழக கல்விசார் ஊழியர்களின் கொடுப்பனவில் 25 வீத அதிகரிப்பு வழங்கப்பட்டுள்ளது. அதற்கிணங்கவே தமக்கும் அந்த 25 வீத கொடுப்பனவினை வழங்க வேண்டும் என கல்வி சாரா ஊழியர்கள் கோரிக்கை விடுத்து வருகின்றனர்.
+A written source pledge will be issued regarding solving the problems of non -academic staff. Education Minister Susil Premajayantha said that a negotiations were held with the University Grants Commission yesterday.
 
-இந்த முறை வரவு செலவுத் திட்டத்தில் அதற்கான நிதியை ஒதுக்க முடியாதுள்ளதால் அடுத்து வரும் வரவு செலவு திட்டத்தின் மூலம் பல்கலைக்கழக கல்வி சாரா ஊழியர்களின் பிரச்சினைகளுக்கு தீர்வு கண்டு அடுத்த ஜனவரி முதல் அதனை நடைமுறைப்படுத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+He said this while responding to a question raised by Gamini Valaboda in Parliament on Tuesday (18).
+
+25 percent increase in the allowance of university academic staff. Accordingly, non -academic staff are demanding that they be paid that 25 percent allowance.
+
+Since the budget is unable to allocate funds in the budget, steps have been taken to resolve the problems of non -university employees through the next budget and implement it from January next year.
+
+Some are opposed to the funding of the universities from the universities's stockpile.
+
+I have held several talks on this issue and have submitted two Cabinet papers.
+
+The problem arises by another party when solving the problems of one party.
+
+A cabinet committee has been appointed a week ago.
 
 ...
 
 [Data](articles/641120ae.json)
+
+[Extended Data](ext_articles/641120ae.ext.json)
 
 ---
 
@@ -830,23 +898,31 @@ A proposal by President Ranil Wickremesinghe to extend the term of Attorney Gene
 
 ---
 
-### நாட்டில் 42 மரண தண்டனைகள் வழங்கப்பட்ட பதிவுகள் உள்ளன - நீதி அமைச்சர்
+### There are records of 42 death penalties in the country - Minister of Justice
 
 *2024-06-18 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186381) · `ta`
 
-1959 ஆம் ஆண்டிலிருந்து 1975 ஆம் ஆண்டு வரை நாட்டில் மரண தண்டனை நடைமுறையில் இருந்து வந்துள்ளது என்றாலும் 1976 ஆம் ஆண்டிலிருந்து நாட்டில் மரண தண்டனை நடைமுறைப்படுத்தப்படவில்லை என நீதியமைச்சர் விஜேதாச ராஜபக்ஷ்  தெரிவித்தார்.
+From 1959 to 1975, Sri Lanka had the death penalty, with 42 executions recorded between 1969 and 1976. It hasn't been used since 1976, leading to no death certificate applications in the last 46 years. Executions were carried out in the presence of a doctor, who prepared the death certificate.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) வாய்மூல விடைக்கான விடைக்கான கேள்வி நேரத்தில்  வேளையில் புத்திக பத்திரன எம்பி எழுப்பிய கேள்வியொன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-1959 ஆம் ஆண்டிலிருந்து 1975 ஆம் ஆண்டு வரையிலான காலத்தில் கண்டி போகம்பரை சிறைச்சாலையில் 31 நபர்களுக்கு தூக்குத்தண்டனை வழங்கப்பட்டுள்ளதுடன் அது சம்பந்தப்பட்ட ஆவணங்களில் பதிவு செய்யப்பட்டுள்ளதாக  தும்பர சிறைச்சாலை அதிகாரியினால் வெளியிடப்பட்டுள்ள அறிக்கையில் தெரிவிக்கப்படுகிறது.
+Justice Minister Wijeyadasa Rajapakse said that the death penalty in the country has been in effect from 1959 to 1975, but the death penalty in the country has not been implemented since 1976.
 
-சிறைச்சாலை தகவல்களின்படி  1969 ஆம் ஆண்டு முதல் 1976 ஆம் ஆண்டு வரை 42 பேர் மரணதண்டனைக்கு உட்படுத்தப்பட்டுள்ளனர்.
+He said this while responding to a question raised by MP at the time of the question of the answer to the oral answer in Parliament on Tuesday (18).
 
-அந்த வகையில் 1976 ஆம் ஆண்டுக்குப் பின்னர் நாட்டில் மரண தண்டனை நடைமுறைப்படுத்தப்படவில்லை. அதன்படி மரண சான்றிதழ்கள் சாதாரண நடைமுறையின் கீழேயே வழங்கப்பட்டுள்ளன.
+According to a statement issued by the Thumbara Prison Officer, 31 persons have been sentenced to 31 persons at the Bogambara Prison in Kandy from 1959 to 1975.
+
+According to prison reports, 42 people were executed from 1969 to 1976.
+
+The death penalty in the country has not been implemented since 1976. Accordingly, death certificates are issued under the normal procedure.
+
+Due to the lack of death penalty, no one in the country has submitted applications for the death certificate for 46 years.
 
 ...
 
 [Data](articles/1148016e.json)
+
+[Extended Data](ext_articles/1148016e.ext.json)
 
 ---
 
@@ -1032,19 +1108,31 @@ Repair work on the damaged pipeline was carried out last night and water board s
 
 ---
 
-### உயர் நீதிமன்ற தீர்ப்பை நிறைவேற்றுத்துறை விமர்சிப்பது தவறான எடுத்துக்காட்டு - அத்துரலியே ரத்ன தேரர்
+### Criticism of High Court ruling
 
 *2024-06-18 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186377) · `ta`
 
-உயர் நீதிமன்றத்தின் தீர்ப்பில் மகிழ்ச்சியடையவில்லை.ஆகவே இந்த தீர்ப்பு குறித்து பாராளுமன்றத்தின் ஊடாக விசேட கவனம் செலுத்த வேண்டும் என ஜனாதிபதி குறிப்பிட்டுள்ளமை அவரது தனிப்பட்ட நிலைப்பாடா அல்லது அமைச்சரவையின் நிலைப்பாடா? நீதிமன்ற தீர்ப்பை நிறைவேற்றுத்துறை விமர்சிப்பது தவறானதொரு எடுத்துக்காட்டாகும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் உறுப்பினர்  அத்துரலியே ரத்ன தேரர் தெரிவித்தார்.
+Athuraliye Ratna Thera criticized the High Court's ruling, stating it sets a wrong precedent. He emphasized the separation of powers among the judiciary, executive, and legislative branches, as per constitutional provisions. The Thera questioned whether the President's stance aligns with his personal views or those of the Cabinet, highlighting the need for clarity. He also touched upon the global perspective, where gender does not differentiate countries like Sri Lanka.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-சட்டத்துறை, நீதித்துறை, நிறைவேற்றுத்துறை உள்ளிட்ட மூன்று துறைகளின் அதிகாரங்களும் வேறுப்படுத்தப்பட்டுள்ளன. ஒரு துறையின் அதிகாரத்தில் பிறிதொரு துறை தலையிட கூடாது என்பது அரசியலமைப்பின் ஏற்பாடுகளில் தெளிவாக குறிப்பிடப்பட்டுள்ளன. அத்துடன் சட்டமூலம் குறித்து உயர்நீதிமன்றம் வழங்கும் வியாக்கியானத்தை பாராளுமன்ற விவாதத்துக்கு எடுத்துக் கொள்ள கூடாது என்று பாராளுமன்ற நிலையியல் கட்டளையில் குறிப்பிடப்பட்டுள்ளது.
+Is it not a joy in the ruling of the High Court.Athuraliye Ratna Thera, a member of the opposition who acts independently in Parliament, said that criticism of the court ruling is an wrong example.
 
-...
+He was speaking at a special speech during a session held in Parliament on Tuesday (18).
+
+The powers of the three sectors, including the law, the judiciary and the executive sector. The constitutional provisions are clearly noted that another sector should not interfere in the power of a sector. The Parliamentary Standing Order stated that the Supreme Court should not take up the parliamentary debate on the bill.
+
+The President has stated that he should pay special attention through Parliament. Is this his personal position or the position of the Cabinet?Criticism of the Supreme Court's decision is a wrong example.
+
+The Sri Lankan Buddhist country has no differences in the basis of a male and female.
+
+Those who know the world's activities are globally, beyond the male and female gender.
+
+◼️
 
 [Data](articles/5e881c5a.json)
+
+[Extended Data](ext_articles/5e881c5a.ext.json)
 
 ---
 
@@ -2329,55 +2417,5 @@ A bond maturing on 01.10.2032 was quoted at 11.95/12.10 percent, down from 12.00
 [Data](articles/c224cee9.json)
 
 [Extended Data](ext_articles/c224cee9.ext.json)
-
----
-
-### Liquor bottles theft in three areas in the hill country
-
-*2024-06-18 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186326) · `ta`
-
-A suspect was arrested for stealing liquor bottles in Hatton, Maskeliya, and Kotagala. The arrest followed a joint operation by the Criminal Investigation Division and local police. The suspect, from Hatton's Aluthgama area, allegedly sold the stolen goods to two women also from Hatton. These accomplices were later apprehended. A total of 41 bottles were recovered from various locations. Further investigations are ongoing, and the suspects will be presented in court.
-
-🟩
-
-The main suspect has been arrested for stealing liquor bottles in Hatton, Maskeliya and Kotagala areas.
-
-Officials of the Criminal Investigation Division in the Timbula and Hatton Police Division have stolen the main suspect who smashed liquor bottles in Hatton, Maskeliya and Kotagala.
-
-The suspect from Hatton, Aluthgama area has been arrested by Dimbula Pathanam police on charges of stealing liquor bottles in Kotakkalai.
-
-Following the announcement of the Hatton Police, the Criminal Investigation Division of the Attan Police CCRV. Investigations have begun through the scenes.
-
-Following an investigation from the suspect, Hatton police have seized 41 liquor bottles of stealing from liquor stores.
-
-The suspect has been given the stolen liquor bottles to two women living in Hatton Aluthgama for sale, and the two suspects have been arrested with liquor bottles hidden in the house of the two suspects.
-
-...
-
-[Data](articles/314893e6.json)
-
-[Extended Data](ext_articles/314893e6.ext.json)
-
----
-
-### Supreme Court verdict on the Telecommunications Amendment Bill
-
-*2024-06-18 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197873) · `si`
-
-The Supreme Court found several clauses in the Telecommunications Amendment Bill unconstitutional, necessitating amendments. The court affirmed the majority of the bill's provisions but highlighted specific areas needing revision to align with constitutional standards.
-
-🟩
-
-The Speaker presented the Supreme Court verdict on the Supreme Court decision on the Telecommunication Bill.
-
-Accordingly, some clauses in the Telecommunications Amendment Bill are not in accordance with the Constitution and the Supreme Court should be amended as shown in the same decision.
-
-The Speaker said the Supreme Court has informed the majority of the clauses of its clauses.
-
-◼️
-
-[Data](articles/d3271df2.json)
-
-[Extended Data](ext_articles/d3271df2.ext.json)
 
 ---

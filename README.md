@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 01:04:18**
+As of **2024-06-20 01:19:21**
 
 ## Newspaper Stats
 
@@ -26,55 +26,81 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,188 (100.0%) of 31,190 articles have been extended.
+31,190 (100.0%) of 31,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ஐக்கிய அமெரிக்காவின் சவாலுக்கு மத்தியில் 18 ஓட்டங்களால் வெற்றி பெற்றது தென் ஆபிரிக்கா
+### South Africa won by 18 runs in the midst of the United States challenge
 
 *2024-06-20 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186504) · `ta`
 
-தென் ஆபிரிக்காவுக்கும் ஐக்கிய அமெரிக்காவுக்கும் இடையில் அன்டிகுவா, நோர்த் சவுண்ட் சேர் விவியன் றிச்சர்ட்ஸ் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவடைந்த குழு 2க்கான சுப்பர் 8 சுற்று ரி20 உலகக் கிண்ணப் போட்டியில் தென் ஆபிரிக்கா 18 ஓட்டங்களால் வெற்றி பெற்றது.
+In the Super 8-round World Cup, South Africa defeated the United States by 18 runs in a thrilling match at the Antigua and North Sound Vivian Richards Stadium. Key contributors for South Africa included Quinton de Kock, Aiden Margram, and Kekiso Rabada, while the US was led by Andreis Caus's half-century. Despite losing early wickets, South Africa managed 194 runs in 20 overs, with De Kock scoring 74 runs. The US, despite a strong partnership from Andreas Gaus and Harmid Singh, could only manage 176 runs, falling short by 18 runs.
 
-குவின்டன் டி கொக், ஏய்டன் மார்க்ராம் ஆகியோரின் திறமையான துடுப்பாட்டங்களும் கெகிசோ ரபாடாவின் துல்லியமான பந்துவீச்சும் தென் ஆபிரிக்காவை வெற்றி அடையச் செய்தன.
+🟩
 
-எனினும் அமெரிக்காவின் ஆரம்பத் துடுப்பாட்ட வீரர் அண்ட்றீஸ் கௌஸ் அற்புதமாகத் துடுப்பெடுத்தாடி அரைச் சதம் குவித்து தென் ஆபிரிக்காவைப் பிரமிக்கச் செய்தார்.
+South Africa won by 18 runs in the Super 8 -round World Cup for the Group 2 at the Antigua and North Sound Sound Vivian Richards Stadium between South Africa and the United States.
 
-இந்தப் போட்டியில் ஐக்கிய அமெரிக்கா தோல்வி அடைந்த போதிலும்  கடைசி நேரத்தில்  தென் ஆபிரிக்காவுக்கு  சவால் விடுத்து பாராட்டைப் பெற்றது.
+Quinton de Kock and Aiden Margram's talented bowls and the accurate bowling of Kekiso Rabada won South Africa.
 
-இந்த வெற்றியுடன் சுப்பர் 8 சுற்றில் மிகவும் அவசியமான 2 புள்ளிகளை தென் ஆபிரிக்கா பெற்றுக்கொண்டது.
+However, US opener, Andreis Caus, scored a half -century and stunned South Africa.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட தென் ஆபிரிக்கா 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 194 ஓட்டங்களைக் குவித்தது.
+Although the United States lost the match, the last time South Africa was challenged.
+
+With this victory, South Africa scored 2 points in the Super 8 round.
+
+South Africa, who was first invited to bat in the upting match, scored 194 runs for the loss of 4 wickets in 20 overs.
+
+South Africa's beginning is not better. Initial player Reza Henx lost the match in 3rd over with 11 runs. (16 - 1 wig.)
+
+However, Quinton de Kock and team captain Aiden Margram were bowled out for 110 runs in 58 balls in the 2nd wicket.
+
+Quinton de Kock faced 40 balls and scored 74 runs with 7 pounds and 5 sixes.
+
+David Miller then returned to the first ball.
 
 ...
 
 [Data](articles/e9d1fbc8.json)
 
+[Extended Data](ext_articles/e9d1fbc8.ext.json)
+
 ---
 
 ### 2024-06-19 (Wednesday)
 
-### கணிசமான ஓட்டங்கள் குவிக்கப்பட்டு கடைசிவரை பரபரப்பை ஏற்படுத்திய போட்டியில் இந்தியா வெற்றி
+### India wins a match that caused substantial runs to the last
 
 *2024-06-19 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186503) · `ta`
 
-தென் ஆபிரிக்காவுக்கு எதிராக பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் புதன்கிழமை (19) கடைசிவரை மிகவும் பரப்பரப்பை ஏற்படுத்திய இரண்டாவது மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 4 ஓட்டங்களால் இந்தியா வெற்றிபெற்றது.
+In a thrilling second women's ODI match, India clinched victory over South Africa by 4 runs, extending their lead in the 3-match series to 2-0. The high-scoring game saw both teams hit four centuries, with India making 325/3 and South Africa 321/6. Key contributions came from Smrithi Mandhana, Hamanpreet Kaur, and Pooja Vastrakar for India, and Lara Goodall and Marizanne Kapp for South Africa.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடரை இப்போதைக்கு 2 - 0 என இந்தியா தனதாக்கிக்கொண்டது.
+🟩
 
-இரண்டு அணிகளிலும் தலா இருவராக 4 சதங்கள் குவிக்கப்பட்ட இப் போட்டியில் மொத்தமாக 646 ஓட்டங்கள் குவிக்கப்பட்டதுடன் கடைசி பந்திலேயே வெற்றி அணி தீர்மானிக்கப்பட்டது.
+Bangalore M against South Africa. India won by 4 runs in the second women's one -day international cricket match that made the most widely spread until the end of Wednesday (19).
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இந்திய மகளிர் அணி 50 ஓவர்களில் 3 விக்கெட்களை மாத்திரம் இழந்து 325 ஓட்டங்களைக் குவித்தது.
+With this victory, India has made the 3 -match women's international ODI series as 2 - 0.
 
-அதிரடியாகத் துடுப்பெடுத்தாடி அபார சதம் குவித்த ஆரம்ப வீராங்கனை ஸ்ம்ரித்தி மந்தனா, 2ஆவது விக்கெட்டில் தயாளன்  ஹேமலதாவுடன் 62 ஓட்டங்களையும் 3ஆவது விக்கெட்டில் அணித் தலைவி ஹாமன்ப்ரீத் கோருடன் சாதனைமிகு 171 ஓட்டங்களையும் பகிர்ந்தார்.
+The match was 4 centuries in each of the two teams and a total of 646 runs.
 
-தொடர்ந்து ஹாமன்ப்ரீத் கோர், ரிச்சா கோஷ் ஆகிய இருவரும் பிரிக்கப்படாத 4ஆவது விக்கெட்டில் 54 ஓட்டங்களைப் பகிர்ந்தனர்.
+The Indian women's team scored 325 runs for the loss of only 3 wickets in 50 overs.
+
+Smrithi Mandana, who scored a scarcity of the batsman, shared 62 runs with Dayalan Hemalatha in the 2nd wicket and the team shared 171 runs with team captain Hamanpreet Gora.
+
+Subsequently, Hamanpreet Gore and Richa Ghosh shared 54 runs in the 4th wicket.
+
+Hamanpreet Core did not play 103 and Richa Ghosh 25 runs.
+
+South Africa lost 6 wickets in 50 overs and lost 321 runs.
+
+The captain and the opening player, Lora Wulward, scored 135 runs with 12 pounds, 3 sixes, and 114 runs with Marsan Geb and 3 sixes.
 
 ...
 
 [Data](articles/4d369cb3.json)
+
+[Extended Data](ext_articles/4d369cb3.ext.json)
 
 ---
 

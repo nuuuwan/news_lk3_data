@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 05:04:27**
+As of **2024-06-20 05:19:32**
 
 ## Newspaper Stats
 
-*Scraped **31,214** Articles*
+*Scraped **31,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,804
-dailyftlk | 1,908
+dailyftlk | 1,909
 adalk | 2,723
 adaderanalk | 3,534
 tamilmirrorlk | 3,670
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,203 (100.0%) of 31,214 articles have been extended.
+31,214 (100.0%) of 31,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### President announces host of proposals to boost industrial sector expansion
+
+*2024-06-20 04:54:52* · [`dailyftlk`](https://www.ft.lk/business/President-announces-host-of-proposals-to-boost-industrial-sector-expansion/34-763261) · `en`
+
+Declares establishment of new development bank, Economic Commission to boost industrial growth at inauguration of ‘International Industry Expo 2024’
+
+Insists development of country cannot be achieved via constant litigation
+
+President Ranil Wickremesinghe yesterday announced a host of initiatives to empower small and medium entrepreneurs (SMEs) and boost the industry sector.
+
+Speaking at the inauguration of the first ‘International Industry Expo’ organised by the Industrial Development Board (IDB), the President announced the establishment of a new development bank with the opportunity to obtain loans at low interest rates aimed at providing financial support to industrialists in Sri Lanka.
+
+He also revealed plans to set up an Economic Commission to oversee these activities, along with the creation of a new institution called ‘Enterprise Sri Lanka’ to empower small and medium entrepreneurs.
+
+...
+
+[Data](articles/a6f28913.json)
+
+---
 
 ### Shivaan, Renuka appointed to Cold Stores Board
 
@@ -47,6 +67,8 @@ He also specialises in International Commercial Arbitration, where he has repres
 ...
 
 [Data](articles/df114f23.json)
+
+[Extended Data](ext_articles/df114f23.ext.json)
 
 ---
 
@@ -66,6 +88,8 @@ The event will bring together global investors and venture capitalists, entrepre
 
 [Data](articles/8305bd8d.json)
 
+[Extended Data](ext_articles/8305bd8d.ext.json)
+
 ---
 
 ### Commonwealth Chamber of Commerce Chief visits BOI
@@ -77,6 +101,8 @@ Commonwealth Chamber of Commerce Chairperson Julia Charlton on Monday met with t
 ◼️
 
 [Data](articles/33ee6e1b.json)
+
+[Extended Data](ext_articles/33ee6e1b.ext.json)
 
 ---
 
@@ -96,6 +122,8 @@ The forum’s core mission is to bridge the gap between key players in South Asi
 
 [Data](articles/37dba8f1.json)
 
+[Extended Data](ext_articles/37dba8f1.ext.json)
+
 ---
 
 ### FCCISL President invited to speak at MCCI MSME International Conference 2024
@@ -111,6 +139,8 @@ The conference, themed “Empowering MSMEs for Sustainable Development,” coinc
 ...
 
 [Data](articles/8e76a0b6.json)
+
+[Extended Data](ext_articles/8e76a0b6.ext.json)
 
 ---
 
@@ -130,6 +160,8 @@ Diwakara was arrested on 31 May 2023, after his YouTube channel ‘SL VLOG’ po
 
 [Data](articles/a5dd4cab.json)
 
+[Extended Data](ext_articles/a5dd4cab.ext.json)
+
 ---
 
 ### India’s External Affairs Minister in town today
@@ -146,6 +178,8 @@ Minister Jaishankar will be accompanied by senior officials of the External Affa
 
 [Data](articles/69e818bc.json)
 
+[Extended Data](ext_articles/69e818bc.ext.json)
+
 ---
 
 ### SLFP elects Nimal Siripala as Chairperson
@@ -159,6 +193,8 @@ Ports, Aviation and Shipping Minister Nimal Siripala de Silva, was initially app
 ...
 
 [Data](articles/af9a347e.json)
+
+[Extended Data](ext_articles/af9a347e.ext.json)
 
 ---
 
@@ -175,6 +211,8 @@ The Central Bank came under Parliamentary fire over the steep salary hike. In re
 ◼️
 
 [Data](articles/3c988fa3.json)
+
+[Extended Data](ext_articles/3c988fa3.ext.json)
 
 ---
 
@@ -611,6 +649,8 @@ Nathasha Edirisooriya, a stand-up comedian known for her sharp wit and incisive 
 ...
 
 [Data](articles/9d3b8cf9.json)
+
+[Extended Data](ext_articles/9d3b8cf9.ext.json)
 
 ---
 
@@ -2349,31 +2389,5 @@ The Fort Magistrate was released by the Court of Derana.
 [Data](articles/4db3b847.json)
 
 [Extended Data](ext_articles/4db3b847.ext.json)
-
----
-
-### Yall. I will pay attention to the request of the opposition leader on fishermen - Minister Douglas
-
-*2024-06-19 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186442) · `ta`
-
-Minister Douglas responds to the opposition leader's concerns about Jaffna district fishermen, stating no formal request has been received from them regarding land issues. He assures action will be taken based on the opposition leader's request. The minister also mentions a 500 million allocation for the Northern Province and upcoming aerial surveys, referencing a 2018 law involving the fisheries ministry and drag decks.
-
-🟩
-
-No one has requested the Jaffna district fishermen asking for the land department. However, Minister Douglas Devananda said that steps will be taken to focus on the demand of the opposition leader.
-
-In response to questions posed by Opposition Leader Sajith Premadasa in Parliament on Wednesday (19).
-
-Yall. I thank you for the concern of the Opposition Leader on District Fishermen. Your question was that the fishermen had heard a landing.
-
-The request related to it has not yet been issued to me. They had heard about the skyline. The President has allocated 500 million to the Northern Province this time. In that respect, the air work will begin next month.
-
-Meanwhile, the Law of Parliament was introduced in Parliament in 2018 regarding the drag deck and the Ministry of Fisheries was later in charge of it.
-
-...
-
-[Data](articles/7410b324.json)
-
-[Extended Data](ext_articles/7410b324.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 14:06:19**
+As of **2024-06-19 14:19:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,101 (100.0%) of 31,102 articles have been extended.
+31,102 (100.0%) of 31,102 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1120,31 +1120,41 @@ Meanwhile, if he said that he would not have been resolved in the attic trees in
 
 ---
 
-### T20 ලෝක කුසලානය: සුපිරි 8 වටයේ ඇරඹුම සහ මූලික වටයේ සුවිශේෂී සිද්ධි
+### T20 World Cup: Super 8 round begins and the preliminary cases of the preliminary round
 
 *2024-06-19 07:25:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c722gv800lgo) · `si`
 
-T20 ලෝක කුසලානය: සුපිරි 8 වටයේ ඇරඹුම සහ මූලික වටයේ සුවිශේෂී සිද්ධි
+The T20 World Cup's Super 8 round starts today, featuring the top 8 teams from the preliminary rounds. Matches are held across various locations including the West Indies, Barbados, and Saint Lucia. Notably, no batsman scored a century in the prelims, with Ramunallah leading in runs and Fidel Edwards in wickets. The tournament progresses towards its climax, with the final scheduled for June 29 in Sri Lanka.
 
-T20 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ සුපිරි කණ්ඩායම් 8 අතර තරග වටය අදින් (ජූනි 19) ඇරඹෙයි.
+🟩
 
-මෙවර සුපිරි කණ්ඩායම් 8 අතරට මීට පෙර පන්දු වාර 20 ක්‍රිකට් ලෝක කුසලානය දිනා ගත් කණ්ඩායම් 4ක් සුදුසුකම් ලබා සිටී.
+T20 World Cup: Super 8 round begins and the preliminary cases of the preliminary round
 
-මේ අතර, මීට පෙර ලෝක කුසලානය දිනූ ශ්‍රී ලංකාව සහ පකිස්ථානය මූලික වටයෙන් ම ඉවත්වීම විශේෂත්වයක් විය.
+Today, the tournament between the 8 best teams of the T20 World Cup tour will begin today (June 19).
 
-මූලික වටයේ ඒ ඒ  කාණ්ඩවලින් සුපිරි 8 වටයට පිවිසි කණ්ඩායම් මෙසේ ය.
+Four groups of 20 cricket World Cup have been eligible for the 8-ball cricket World Cup.
 
-සුපිරි 8 වටයේ තරග සියල්ල බටහිර ඉන්දීය කොදෙව් දූපත් වන ඇන්ටිගා හා බාබියුඩා, බාබඩෝස්, සේන්ට් ලුසියා සහ සේන්ට් වින්සන්ට් හා ග්‍රෙනාඩින්ස් යන දූපත්වල පිහිටි ක්‍රීඩාංගණවල පැවැත්වේ.
+In the meantime, Sri Lanka and Pakistan won the World Cup were the key to their dismissal.
 
-මෙම වටයේදී එක් කාණ්ඩයකට අයත් සියලු කණ්ඩායම් සෙසු සියලු කණ්ඩායම් සමග තරග කරයි.
+The teams of those categories were the round 8.
 
-ඒ අනුව, එක් කණ්ඩායමක් සුපිරි 8 වටයේදී තරග 3කට සහභාගි විය යුතු ය.
+The Super 8 matches will be held in the West Indies, Antiga and Babadi, Babados, Saint Lucia and Saint Vincet and the Grenadines.
 
-මූලික වටය අවසානයේදී වැඩි ම ලකුණු රැස් කර සිටින පිතිකරුවා ලෙස පෙරමුණ ගෙන සිටින්නේ, ඇෆ්ඝනිස්ථානයේ රමනුල්ලා ගුර්බාස් ය. ඔහු තරග 4කදී ලකුණු 167ක් රැස් කර තිබේ.
+In this round, all groups belonging to one category compete with all the other groups.
+
+Accordingly, one group should participate in three matches in the Super 8.
+
+At the end of the preliminary round, the batsman is the batsman, Ramunallers in Afghan, Gurbas. He scored 167 runs in 4 matches.
+
+West Indies Poorane scored 164 runs and Marcus Storine, 35 runs in the third place.
+
+At the bowling, the most wickets in the bowler were a bowler fistel and 12 wickets.
 
 ...
 
 [Data](articles/2c447159.json)
+
+[Extended Data](ext_articles/2c447159.ext.json)
 
 ---
 

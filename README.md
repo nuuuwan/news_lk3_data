@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 23:54:20**
+As of **2024-06-20 00:07:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,172 (99.9%) of 31,188 articles have been extended.
+31,182 (100.0%) of 31,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,17 +172,23 @@ The suspects have been released on police bail and have been sent to the Mediati
 
 ---
 
-### காத்தான்குடியில் இடம்பெற்ற விபத்தில் 5 பிள்ளைகளின் தந்தை பலி!
+### Father of 5 children killed in accident
 
 *2024-06-19 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186502) · `ta`
 
-மட்டக்களப்பு - காத்தான்குடி பொலிஸ் பிரிவு டீன் வீதி ஏ.எல் எஸ். மாவத்தை வீதியில் புதன்கிழமை (19) மாலை மோட்டார் சைக்கிள் வேகக் கட்டுப்பாட்டை இழந்து வீட்டோன்றின் மதிலில் மோதி விபத்துக்குள்ளானதில் சம்பவ இடத்திலேயே (43) வயதான நபர் உயிரிழந்துள்ளதாக காத்தான்குடி பொலிஸார் தெரிவிக்கின்றனர்.
+In Batticaloa, a 43-year-old father of 5 died instantly after his speeding motorcycle skidded out of control and crashed into a house near Abar Nagar.
 
-தாயாரைப் பார்ப்பதற்காக அப்றார் நகர், 4ம் குறுக்கு வீதியால் மோட்டார் சைக்கிளில் பயணித்த போது வேகக் கட்டுப்பாட்டை இழந்து அருகில் காணப்பட்ட வீடொன்றின் மதிலில் மோதியமையால் தலையில் பலத்த காயம் ஏற்பட்டு சம்பவ இடத்திலேயே  பரிதாபமாக குறித்த நபர் உயிரிழந்துள்ளார்.
+🟩
+
+Batticaloa - Kattankudy Police Division Dean Road ALS. Kattankudy police say that a man of 43 (43) died on the spot when a motorcycle lost control of a motorcycle on Wednesday evening (19) evening.
+
+Abar Nagar, who was traveling on a motorcycle by 4th cross road to see the mother, lost control of a speeding control and crashed into a nearby house.
 
 ◼️
 
 [Data](articles/fde68465.json)
+
+[Extended Data](ext_articles/fde68465.ext.json)
 
 ---
 
@@ -242,77 +248,105 @@ The visit will add momentum to connectivity projects and other mutually benefici
 
 ---
 
-### பெருமளவான கசிப்பு மற்றும் கோடாவுடன் ஒருவர் கைது!
+### One arrested with large quantities of leaks and Koda!
 
 *2024-06-19 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186501) · `ta`
 
-சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட சுன்னாகம் புகையிரத நிலையத்திற்கு அருகாமையில்  கசிப்பு உற்பத்தியில் ஈடுபட்டவேளை ஒருவர் 19ஆம் திகதி புதன்கிழமை கைது செய்யப்பட்டுள்ளார். அளவெட்டி பகுதியைச் சேர்ந்த 31 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A 31-year-old man was arrested in Chunnakam for producing and possessing large quantities of kota and leakage. Police raided his operation, confiscating equipment and recovering 2 million milliliters of kota and 6,000 milliliters of leakage. He will be brought before the Mallakam court for further proceedings.
 
-குறித்த நபர் கசிப்பு உற்பத்தியில் ஈடுபட்டுக்கொண்டு இருந்தவேளை சுன்னாகம் பொலிஸார் இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டனர். இதன்போது கசிப்பு உற்பத்திக்கு பயன்படுத்திய உபகரணங்களும் பறிமுதல் செய்யப்பட்டன.
+🟩
 
-இரண்டு இலட்சம் மில்லிலீட்டர் கோடா மற்றும் ஆறாயிரம் மில்லிலீட்டர் கசிப்பு என்பனவும் இதன்போது மீட்கப்பட்டன.
+A man was arrested on Wednesday, 19th while engaging in leakage production near the Chunnakam police division, near the Chunnakam railway station.. A 31 -year -old man from Alavetti has been arrested.
 
-மேலதிக விசாரணைகளின் பின்னர் குறித்த நபரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+While the person was engaged in leakage, the Chunnakam police carried out the raid. The equipment used for leakage production was also confiscated.
+
+Two million milliliters of kota and six thousand milliliters of leakage were also recovered.
+
+After further investigations, the police are taking steps to bring the person to the Mallakam court.
 
 ◼️
 
 [Data](articles/82394492.json)
 
+[Extended Data](ext_articles/82394492.ext.json)
+
 ---
 
-### வீழ்ச்சி அடைந்த நாட்டை மீண்டும் கட்டியெழுப்ப ஜனாதிபதியின் சரியான தலைமைத்துவம் பெரும் உதவியாக அமைந்தது - டீ.பி ஹேரத்
+### The exact leadership of the president was a great help to rebuild the falling country - DP Herath
 
 *2024-06-19 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186500) · `ta`
 
-அனைத்து அம்சங்களிலும் வீழ்ச்சியடைந்த நாட்டை மீளக் கட்டியெழுப்ப ஜனாதிபதி ரணில் விக்ரமசிங்கவின் சரியான தலைமைத்துவம் பெரும் உதவியாக அமைந்ததாக கால்நடை வளங்கள் அபிவிருத்தி இராஜாங்க அமைச்சர் டீ பி. ஹேரத் தெரிவித்தார்.
+Minister DP Herath praised President Ranil Wickremesinghe's leadership for aiding the country's recovery from its downfall. He emphasized the importance of supporting the government's relief plans to strengthen the economy, cautioning against actions that could reverse progress. Herath highlighted the government's commitment to restoring the nation under Wickremesinghe's guidance, including legislative reforms and anti-corruption measures, facilitated by international support. Despite challenges, he expressed optimism about the country's trajectory over the past two years, urging citizens to consider the implications of political decisions on national development.
 
-வலுவான பொருளாதாரத்தை உருவாக்குவதற்கு தற்போதைய அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுள்ள நிவாரணத் திட்டங்களை சீர்குலைத்து, அனுபவமற்ற தரப்பினரிடம் கையளித்து நாட்டை மீண்டும் பாதாளத்திற்கு கொண்டு செல்வதா என்பதை மக்கள் நன்கு சிந்தித்து தீர்மானிக்க வேண்டும் எனவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 19ஆம் திகதி புதன்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் டீ.பி ஹேரத் இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe's exact leadership has been a great help to rebuild the country that has fallen in all aspects, Minister of Livestock Development. Said Herath.
+
+The Minister of State pointed out that the people should consider and decide whether the country will be re -brought back to the underworld by disrupting the relief plans implemented by the current government to create a strong economy.
+
+State Minister DP Herath made this statement at a media briefing held at the Presidential Media Center on Wednesday the 19th.
+
+The Ministry was responsible for the implementation of the program to restore the country that has fallen in all sectors. While there was a shortage of food in the country, the responsibility of our ministry has been completely hidden. Under the right leadership of President Ranil Wickremesinghe, the Cabinet -led government has committed dedicated to the recovery of the country from the crisis.
 
 ...
 
 [Data](articles/b38fa0b8.json)
 
+[Extended Data](ext_articles/b38fa0b8.ext.json)
+
 ---
 
-### அமெரிக்காவில் கின்னஸ் சாதனை படைத்த தெருக்கூத்து
+### Guinness record in the United States
 
 *2024-06-19 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186487) · `ta`
 
-'வெங்காயம்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் சங்ககிரி ராஜ்குமார் ஒருங்கிணைப்பில் முந்நூறு கலைஞர்கள் பங்கு பற்றி நிகழ்த்திய தெருக்கூத்து நிகழ்ச்சி அமெரிக்காவில் அரங்கேறியது.
+Sankagiri Rajkumar, director of 'Venkayam', led a team of 300 artists in the U.S., setting a Guinness World Record for the largest performance of street theater, a traditional Tamil Nadu art form. This feat was celebrated during a three-day event in Chicago to commemorate the 50th anniversary of the Tamil Nadu Foundation. Despite facing challenges, the successful staging of the event and its recognition by the Guinness Achievement Research Committee underscored the potential of street theater to become a globally recognized art form.
 
-அதிக கலைஞர்கள் மேடை ஏறி நாட்டுப்புற கலைகளில் ஒன்றான தெருக்கூத்தினை நிகழ்த்தியதால் அது கின்னஸ் சாதனையாக  அங்கீகரிக்கப்பட்டு, கின்னஸ் சாதனை விருது வழங்கப்பட்டிருக்கிறது.
+🟩
 
-அமெரிக்காவில் உள்ள சிகாகோ நகரில் தமிழ்நாடு அறக்கட்டளை எனும் தன்னார்வத் தொண்டு நிறுவனத்தின் ஐம்பதாவது ஆண்டு விழாவை முன்னிட்டு மூன்று நாள் கலை நிகழ்ச்சிகள் நடைபெற்றது.
+Director Sankagiri Rajkumar, who directed the film 'Venkayam', performed a streetcar in the United States about the role of three hundred artists.
 
-இதில் தமிழகத்தின் பாரம்பரிய கலைகளில் ஒன்றான தெருக்கூத்து கலையை முந்நூறுக்கும் மேற்பட்ட கலைஞர்கள் ஒன்றிணைந்து மேடையில் நிகழ்த்தினார். இதனைக் காண வருகை தந்திருந்த ஆயிரக்கணக்கான பார்வையாளர்கள் கரவொலி எழுப்பி பாராட்டு தெரிவித்தனர்.
+The Guinness Book of Records has been awarded as the Guinness Book of Records, as most artists climbed the stage and performed the streetcar, one of the folk arts.
 
-இது தொடர்பாக தெருக்கூத்து கலைஞரும், திரைப்பட இயக்குநருமான சங்ககிரி ராஜ்குமார் பேசுகையில், '' தெருக்கூத்து கலையினை உலக அளவில் அனைத்து நிலைகளிலும் மேடையில் நிகழ்த்தப்படும் கலை வடிவமாக மாற்றி அமைக்க வேண்டும் என திட்டமிட்டேன்.
+Three -day art shows were held in Chicago, the United States, to mark the fifty -year anniversary of the Tamil Nadu Foundation.
+
+One of the traditional arts of Tamil Nadu, the streetcar art, united more than three hundred artists on stage.. Thousands of spectators who visited this were applauded and applauded.
+
+Speaking about this, Sankagiri Rajkumar, a streetcar artist and film director, said, “I planned to convert streetcar art into a form of art on all levels worldwide.
+
+For this purpose, we went to the United States and selected three hundred students who were interested in art, and gave them two months of training.
 
 ...
 
 [Data](articles/96a37fcd.json)
 
+[Extended Data](ext_articles/96a37fcd.ext.json)
+
 ---
 
-### பிரபுதேவா நடிக்கும் 'மூன் வாக்' பட டைட்டில் லுக் வெளியீடு
+### Prabhu Deva starrer 'Moon Walk'
 
 *2024-06-19 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186492) · `ta`
 
-'நடன புயல்' பிரபுதேவா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் புதிய திரைப்படத்திற்கு, 'மூன் வாக்' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+"Prabhu Deva stars in 'Moon Walk,' a dance-themed film directed by Manoj N., featuring Yogi Babu, Aju Varghese, and others. Anoop V Sailaja composed the music, while Manoj and Divya Manoj produced it. The film's unique title design has garnered fan interest."
 
-அறிமுக இயக்குநர் மனோஜ் என். எஸ். இயக்கத்தில் உருவாகி இருக்கும் மூன் வாக் எனும் திரைப்படத்தில் பிரபுதேவா, யோகி பாபு, அஜு வர்கீஸ், அர்ஜுன் அசோகன், ரெடின் கிங்ஸ்லி, சிங்கம் புலி, மொட்டை ராஜேந்திரன் உள்ளிட்ட பல நடித்திருக்கிறார்கள்.
+🟩
 
-அனூப் வி சைலஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.‌  இந்தத் திரைப்படத்தை தயாரிப்பாளர் மனோஜ் -திவ்யா மனோஜ்- பிரவீண் எலாக் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The new film, which plays the lead role as the hero of the 'Dance Storm', has been named 'Moon Walk' and has been released in its title.
 
-இந்தத் திரைப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்நிலையில் இப்படத்தின் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+Introducing Director Manoj N.. S.. Prabhu Deva, Yogi Babu, Aju Varghese, Arjun Asokan, Redin Kingsley, Lion Tiger, Motta Rajendran have starred in the film Moon Walk.
 
-'மூன் வாக்' என பெயரிடப்பட்டிருக்கும் இந்த டைட்டிலும், அதற்காக வடிவமைக்கப்பட்ட பின்னணி மற்றும் வண்ணம் வித்தியாசமாக‌ இருப்பதால் ரசிகர்களை வெகுவாக கவர்ந்திருக்கிறது.
+Anoop V Sailaja has recorded the film 'Music Storm' A.. R. The film has been produced by producer Manoj -Divya Manoj and Praveen Elak.
+
+The shooting of the film is nearing completion and the post -shooting technical work is underway.. In this case, the film has been released in the title of the film.
+
+The title, titled 'Moon Walk', is also very impressed with the fans as the background and color designed for it is different.
 
 ◼️
 
 [Data](articles/16caf299.json)
+
+[Extended Data](ext_articles/16caf299.ext.json)
 
 ---
 
@@ -748,55 +782,89 @@ In this case, the people of the area have requested the Department of Wildlife t
 
 ---
 
-### அரசியலமைப்பு பேரவை பொறுப்புடன் செயற்பட வேண்டும் -  நீதியமைச்சர் வலியுறுத்தல்
+### The Constitutional Council should act responsibly - Justice Minister
 
 *2024-06-19 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186477) · `ta`
 
-உயர்நீதிமன்றத்தின் தடையுத்தரவால் நீதியரசர்கள் ஓய்வுப் பெற்றதன் பின்னர் உயர்நீதிமன்றத்தை மூட வேண்டிய நிலைமை ஏற்படும்.
+Justice Minister Vijayadasa Rajapakse urges swift action from the Constituent Assembly to prevent a looming conflict between the legislative and judicial branches, highlighting the importance of resolving issues promptly to maintain democracy. He expresses concern over the potential closure of the High Court due to the Supreme Court's interim injunction on appointing new judges, emphasizing the need for the Constitutional Council to intervene and resolve the matter swiftly to avoid further complications.
 
-சட்டவாக்கத்துறைக்கும்,நீதித்துறைக்கும் இடையில் பாரிய முரண்பாடு தோற்றம் பெறுவதற்கு முன்னர் அரசியலமைப்பு பேரவை விசேட கவனம் செலுத்தி உறுதியான தீர்மானத்தை சாதகமான முறையின் எடுக்க வேண்டும் என நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ அரசியலமைப்பு பேரவையின் தலைவரான சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவிடம் வலியுறுத்தினார்.
+🟩
 
-நீதித்துறை புனிதமானது.முத்துறைகளின் செயற்பாடுகளினால் தான் நாட்டில் ஜனநாயகம் பாதுகாக்கப்பட்டுள்ளது.முத்துறைகளில் சட்டவாக்கத்துறைக்கு  பாரிய பொறுப்பு காணப்படுகிறது.அதற்கு அரசியலமைப்பின் ஊடாக சுயாதீனம் வழங்கப்பட்டுள்ளது.நீதிமன்றமும் சுயாதீனமாகவே செயற்படுகிறது.எவருக்கும் கட்டுப்படவில்லை.
+The ban on the High Court will result in the closure of the High Court after the judges retire.
+
+Justice Minister Vijayadasa Rajapakse, the Chairman of the Constituent Assembly, urged Speaker Mahinda Yapa Abeywardena, the head of the Constituent Assembly, that the Constituent Assembly should pay a firm resolution before the emergence of a massive conflict between the legislative sector and the judiciary.
+
+Democracy in the country is protected by the activities of the sectors.
+
+The people of the country are looking for their problems because they are not resolved by the Lord. The cases of all who go to the court are important to him.
+
+The Supreme Court has issued an interim injunction to the appointment of the High Court judges other than the Chief Justice.
+
+I agree with the fact that the current judges will close the High Court after the retirement of the current judges without issuing new appointments.
 
 ...
 
 [Data](articles/87f07db5.json)
 
+[Extended Data](ext_articles/87f07db5.ext.json)
+
 ---
 
-### மத்திய வங்கியின் உயர் அதிகாரிகள் உடன் பதவி விலக வேண்டும் : எதிர்க்கட்சிகளின் உறுப்பினர்கள் கடும் எதிர்ப்பு
+### Resignation with central bank's top officials: members of opposition parties
 
 *2024-06-19 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186449) · `ta`
 
-மத்திய வங்கியின் சேவையாளர்களின் சம்பளம் அதிகரிக்கப்பட்டதாக பாராளுமன்றத்தில் நாங்கள் முன்வைத்த குற்றச்சாட்டை ஜனாதிபதி நியமித்த துறைசார் குழு நிரூபித்துள்ளது.
+Opposition leaders criticize the Central Bank for increasing salaries amid national bankruptcy, calling for resignations. A presidential committee confirms the salary hike, sparking debate in Parliament. The Central Bank Act ensures its independence, allowing such decisions despite economic struggles and protests from the opposition.
 
-ஆகவே மத்திய வங்கியின் உயர் அதிகாரிகள் உடன் பதவி விலக வேண்டும் என எதிர்க்கட்சிகளின்  பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) இடம்பெற்ற அமர்வின் போது ஒழுங்கு பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The departmental committee appointed by the President has proved the allegation that the Central Bank's servants' salaries have been increased.
 
-நாடு வங்குரோத்து நிலையடைந்துள்ள போது மத்திய வங்கியின் சேவையாளர்களின் சம்பளம் 75 சதவீதத்தால் அதிகரிக்கப்பட்டுள்ளதை நாங்களே முதலில் வெளிப்படுத்தினோம்.அரசாங்கம் வானத்தை பார்த்துக் கொண்டிருந்தது.முறையற்ற வகையில் சம்பளம் அதிகரிக்கப்பட்டுள்ளது என்பதை சுட்டிக்காட்டினோம்.
+Lakshman Kiriella, the prime minister of the opposition parties, said that the central bank should resign with the top officials.
 
-நாட்டின் நிதி அதிகாரம் பாராளுமன்றத்துக்கு உண்டு.மத்திய வங்கியின் சம்பள அதிகரிப்பை  பாராளுமன்றமே அனுமதிக்க வேண்டும்.மத்திய வங்கியின் முறையற்ற செயற்பாடுகள்  வெளிப்பட்டுள்ளது.ஆகவே மத்திய வங்கியின் உயர் அதிகாரிகள் உடன் பதவி விலக வேண்டும்.
+He was speaking at the issue of order during the session held in Parliament on Wednesday (19).
+
+We first revealed that the Central Bank's salaries were increased by 75 per cent when the country was bankrupt. The government was watching the sky.
+
+Parliament has the financial power of the country. Parliament should allow the salary increase of the Central Bank.
+
+Opposition leader Sajith Premadasa, who was protesting, has increased the salaries of central bank officials as the country's service sector has been struggling.
+
+The Central Bank Act was enacted for the central bank to act independently without any political interference.
 
 ...
 
 [Data](articles/2521ed87.json)
 
+[Extended Data](ext_articles/2521ed87.ext.json)
+
 ---
 
-### மத்திய வங்கி சேவையாளர்களின் ஊழியர் சேமலாப நிதியத்தின் வட்டி அதிகரிப்பு உடன் திருத்தப்பட வேண்டும் - துறைசார் குழு பரிந்துரை
+### Central Bank Employees Employees' Provident Fund should be revised with an increase in interest - Departmental Committee recommendation
 
 *2024-06-19 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186436) · `ta`
 
-மத்திய வங்கியின் உயர் மற்றும் கீழ் நிலை சேவையாளர்களின் சம்பளம் ஏற்றுக்கொள்ளப்பட்ட கூட்டு ஒப்பந்தத்துக்கு அமைய ஒரே நிலையில் அதிகரித்துள்ளமை தவறாகும்.அத்துடன் மத்திய வங்கியின் சேவையாளர்களின் ஊழியர் சேமலாப நிதியத்துக்கான வட்டி வீதம் அதிகரிக்கப்பட்டுள்ளமை அவசியற்றது.
+A departmental committee recommends revising the Central Bank Employees' Provident Fund with higher interest rates due to increased salaries for both high and low-ranking employees, as per a joint agreement. The chairman of the State Finance Committee suggests focusing more on the country's economy during salary hikes. The committee's report, submitted to Parliament, highlights concerns over the timing and impact of the salary increases, causing significant controversy. Recommendations include suspending the latest salary increase and paying more attention to the national economy during such decisions.
 
-இதனை உடனடியாக திருத்தம் செய்ய வேண்டும்.நாட்டின் பொருளாதார நிலைமை குறித்து மத்திய வங்கி அதிக கவனம் செலுத்தியிருக்க வேண்டும் என   அரச நிதி தொடர்பான தெரிவுக்குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (19)  இடம்பெற்ற அமர்வின் போது மத்திய வங்கியின் சம்பள அதிகரிப்பு தொடர்பில் ஜனாதிபதியால் நியமிக்கப்பட்ட குழுவினர் சமர்ப்பித்துள்ள அறிக்கை தொடர்பில் அரச நிதி தொடர்பான தெரிவுக்குழுவின் அறிக்கையை சபைக்கு சமர்ப்பித்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The central bank's high and lower level servants' salaries have increased in the same position in accordance with the accepted joint agreement.
+
+Dr. Harsha de Silva, Chairman of the State Finance Committee, said that the Central Bank should have focused more on the economic situation of the country.
+
+Speaking to the House on Wednesday (19) in Parliament, the State Finance Committee's report on the report submitted by the President on the Central Bank's salary increase.
+
+The Central Bank's salary issue has caused massive controversy in social structure.. Arjuna Herath, Indrajit Kumaraswamy, Sudarma Karunaratne, Nihal Fonseka, Anushka Wijesinghe and KVC. Dilrukshi is the co -members of the group.
+
+The committee has submitted a report to the State Finance Committee, pointing out that it is not enough time to investigate them.
+
+The Central Bank Management Assistant and Office Assistants are involved in the quality of the public service sector.
 
 ...
 
 [Data](articles/bd83212e.json)
+
+[Extended Data](ext_articles/bd83212e.ext.json)
 
 ---
 
@@ -904,6 +972,8 @@ In 1960, the DFCC Bank was set up in 1960 and the NDB Bank in 1980, he said.
 
 [Data](articles/9e08cd8f.json)
 
+[Extended Data](ext_articles/9e08cd8f.ext.json)
+
 ---
 
 ### Sri Lanka Treasuries yields rise, 3-month up 50bp
@@ -927,6 +997,8 @@ Unsterilized liquidity also requires the currency to be defended to prevent a lo
 ...
 
 [Data](articles/a0d31c87.json)
+
+[Extended Data](ext_articles/a0d31c87.ext.json)
 
 ---
 

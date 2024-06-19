@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 21:35:21**
+As of **2024-06-19 21:54:00**
 
 ## Newspaper Stats
 
-*Scraped **31,164** Articles*
+*Scraped **31,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,532
 tamilmirrorlk | 3,663
 dailymirrorlk | 4,733
 virakesarilk | 4,808
-adaderanasinhalalk | 5,067
+adaderanasinhalalk | 5,068
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,164 (100.0%) of 31,164 articles have been extended.
+31,164 (100.0%) of 31,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### අමෙරිකාවට ලකුණු 195ක ඉලක්කයක්
+
+*2024-06-19 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197933) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අමෙරිකාව සහ දකුණු අප්‍රිකාව අතර තරගය අද (19) පැවැත්වෙයි.
+
+සුපිරි 08 වටයේ තරග ආරම්භ කරමින් පැවැත්වෙන පළමු තරගය මෙය වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට අමෙරිකාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකාව නියමිත පන්දුවාර 20 අවසානයේ කලුඩු 4ක් දැවී ලකුණු 194ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/ddf0eceb.json)
+
+---
 
 ### Beaten in the postal place
 
@@ -2379,27 +2397,5 @@ Meanwhile, the earthquake struck at around 11.01pm last night. Remble
 [Data](articles/b65c7c15.json)
 
 [Extended Data](ext_articles/b65c7c15.ext.json)
-
----
-
-### 7,700 kg of electronic waste in 11 districts
-
-*2024-06-19 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197906) · `si`
-
-In 11 districts, over 7,700 kg of electronic waste was collected as part of a recycling program initiated to address environmental concerns. Despite challenges like rainfall, this effort marks a significant achievement in waste management efforts coinciding with World Environment Day.
-
-🟩
-
-The CEA stated that the electronic waste collection of 11 districts has been able to collect over 7,700 kilograms of waste.
-
-The Deputy Director General of the Festival Festival, said that steps have been taken to meet the relevant electronic waste recycling program.
-
-"In parallel with the World Environment Day, waste collection carried out by the Central Environmental Data, 4 and 4 of the provinces, 97 districts, 11 districts. There came different obstacles with rainfall. We were able to add 7,777 kilograms of electronic waste. This is a victory on a particular area. "
-
-◼️
-
-[Data](articles/d41c78b5.json)
-
-[Extended Data](ext_articles/d41c78b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 12:19:16**
+As of **2024-06-19 12:34:40**
 
 ## Newspaper Stats
 
-*Scraped **31,087** Articles*
+*Scraped **31,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,132 @@ economynextcom | 1,796
 dailyftlk | 1,898
 adalk | 2,708
 adaderanalk | 3,522
-tamilmirrorlk | 3,652
+tamilmirrorlk | 3,657
 dailymirrorlk | 4,733
-virakesarilk | 4,787
+virakesarilk | 4,791
 adaderanasinhalalk | 5,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,086 (100.0%) of 31,087 articles have been extended.
+31,087 (100.0%) of 31,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### පොලිස්පති පත්කිරීම අභියෝගයට ලක්කරමින් පෙත්සම් අටක්
+### பிரித்தானிய தமிழர்களிற்கான கென்சவேர்ட்டிவ் கட்சியின் அர்ப்பணிப்பு மிகவும் உறுதியானது- நீதி உண்மை பொறுப்புக்கூறலை பிரிட்டன் தொடர்ந்தும் ஆதரிக்கின்றது - தமிழர்களிற்கான வீடியோ செய்தியில் டேவிட் கமரூன்
+
+*2024-06-19 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186433) · `ta`
+
+பிரித்தானிய தமிழர்களிற்கான கென்சவேர்ட்டிவ் கட்சியின் அர்ப்பணிப்பு மிகவும் உறுதியானது தளர்ச்சியற்றது என பிரிட்டனின் வெளிவிவகார அமைச்சர் டேவிட்கமரூன் தெரிவித்துள்ளார்.
+
+பிரிட்டனிற்கு தமிழ் சமூகத்தின் விலைமதிப்பற்ற பங்களிப்பை பாராட்டியுள்ள அவர் அனைவருக்கும் உண்மை நீதி மற்றும் பொறுப்புக்கூறலை ஆதரிப்பதாகவும் குறிப்பிட்டுள்ளார்.
+
+ஐக்கிய இராச்சியத்தின் பொதுதேர்தலிற்கு முன்னதாக வெளியிட்டுள்ள வீடியோவில் இதனை தெரிவித்துள்ள டேவிட்கமரூன் பிரிட்டனின் தமிழ் சமூகம் என்பது பெரும் வெற்றிக்கதை என குறிப்பி;ட்டுள்ளார்.
+
+எங்கள் நாட்டின் வாழ்க்கைக்கு நீங்கள் விலைமதிப்பற்ற பங்களிப்பை வழங்குகின்றீர்கள் என தெரிவித்துள்ள டேவிட்கமரூன் வர்த்தகம் முதல் கற்பித்த மருத்துவம்,உங்கள் உயிர்துடிப்புள்ள கலாச்சாரம் போன்றவற்றின் மூலம் நீங்கள் விலைமதிப்பற்ற பங்களிப்பை வழங்குகின்றீர்கள் எனவும் தெரிவித்துள்ளார்.
+
+எங்கள் தேசிய வாழ்வின் பல பகுதிகளிலும்  தமிழர்கள் முக்கிய பங்கினை வகிக்கிறீர்கள் எனவும் டேவிட் கமரூன் தனது வீடியோவில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/03b65dfc.json)
+
+---
+
+### ஜப்பானில் பரவும் தசை உண்ணும் பற்றீரியா தொடர்பில் அச்சம் கொள்ள தேவையில்லை - இலங்கை சுகாதார அதிகாரிகள்
+
+*2024-06-19 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186430) · `ta`
+
+ஜப்பான் முழுவதும் 'சதை உண்ணும் பற்றீரியா' என பொதுவாக அழைக்கப்படும் ஸ்ட்ரெப்டோகோக்கல் டொக்ஸிக் ஷொக் சிண்ட்ரோம்' (STSS - Streptococcal toxic shock syndrome) பரவி வருகிறது.
+
+இந்நிலையில், இந்த பற்றீரியா நோய்த்தொற்று தொடர்பில் பொது மக்கள் அச்சம் கொள்ள தேவையில்லை என இலங்கை சுகாதார அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இந்த எஸ்டிஎஸ்எஸ் என்ற தசை உண்ணும் பற்றீரியா நோய் தொற்றினால் இவ்வருடம் இதுவரை ஜப்பானில் 1,000 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+இது தொடர்பில் இலங்கையின் தொற்றுநோய் பிரிவு பணிப்பாளர் வைத்தியர் சமித்த கினிகே தெரிவித்துள்ளதாவது,
+
+எஸ்டிஎஸ்எஸ் என்பது ஒரு சிகிச்சையளிக்கக்கூடிய பற்றீரியா தொற்று என்பதை பொதுமக்கள் புரிந்து கொள்வது அவசியம்.
+
+ஸ்ட்ரெப்டோகாக்கஸ் டோக்சிக் ஷாக் சிண்ட்ரோம் (Streptococcal toxic shock syndrome) ஸ்ட்ரெப்டோகாக்கஸ் பற்றீரியாவின் சில விகாரங்களால் ஏற்படுகிறது. நோய் தொற்றுக்குள்ளாகியவர் உரிய நேரத்தில் சரியான சிகிச்சை இல்லை என்றால் உயிரிழப்பை ஏற்படுத்தும்.
+
+...
+
+[Data](articles/b21c95bb.json)
+
+---
+
+### முத்திரை விலையை அதிகரிக்க அனுமதி
+
+*2024-06-19 12:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முத்திரை-விலையை-அதிகரிக்க-அனுமதி/175-339129) · `ta`
+
+முத்திரை  ஒன்றின் குறைந்தபட்ச விலையை 100 ரூபாவாக அதிகரிப்பதற்கான அங்கீகாரம் மிக விரைவில் கிடைக்கப்பெறும் என வெகுஜன ஊடக அமைச்சின் செயலாளர் அனுஷ பெல்பிட தெரிவித்துள்ளார்.
+
+தற்போது கடிதம் அனுப்புவதற்கு முத்திரை ஒன்றின் குறைந்தபட்ச விலை ஐம்பது ரூபாவாக உள்ளதாகவும் தபால் திணைக்களத்தின் நட்டத்தை குறைக்கும் வகையில் முத்திரையின் விலையை அதிகரிக்க தீர்மானிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+அஞ்சல் துறைக்கு கடந்த 2023ஆம் ஆண்டில் மட்டும் 7,000 மில்லியன் இழப்பு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c1a69fb8.json)
+
+---
+
+### உறங்கியவரை எழுப்பியதால் கான்ஸ்டபிள் மீது துப்பாக்கி சூடு முயற்சி
+
+*2024-06-19 12:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறங்கியவரை-எழுப்பியதால்-கான்ஸ்டபிள்-மீது-துப்பாக்கி-சூடு-முயற்சி/175-339127) · `ta`
+
+பொலிஸ் கான்ஸ்டபிள் ஒருவர் மீது துப்பாக்கி சூடு நடாத்த முயற்சித்த சம்பவம் தொடர்பில் பொலிஸ் உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+
+கஹதுடுவ பொலிஸ் நிலையத்தில் பணிபுரியும் 23 வயதுடைய பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+முறைப்பாடு பதிவு செய்வதற்காக, இரண்டு பேர் புதன்கிழமை (19) காலை 5.40 மணியளவில் கஹதுடுவ பொலிஸ் நிலையத்தி்ற்கு வந்த போது கடமையில் இருந்த பொலிஸ் உத்தியோகத்தர் தூங்கிக் கொண்டிருந்துள்ளார் .
+
+அப்போது கான்ஸ்டபிள் ஒருவர் சென்று தூங்கிக்கொண்டிருந்த அதிகாரியை எழுப்பியுள்ளதுடன் , இதனால் கோபமடைந்த பொலிஸ் உத்தியோகத்தர் கான்ஸ்டபிளை தகாத வார்த்தையில் திட்டி துப்பாக்கி சூட்டு நடாத்த முற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+மேலும், இச் சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்து வருவதாக தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/96117975.json)
+
+---
+
+### Eight petitions to challenge the appointment of IGP
 
 *2024-06-19 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197915) · `si`
 
-පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීම අභියෝග කරමින් ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම් සලකා බැලීම සඳහා ජූලි මස 08 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (19) දින නියම කළේය.
+The Supreme Court convened to hear eight petitions challenging the appointment of the Inspector General of Police (IGP). These challenges were based on alleged violations of fundamental rights, as outlined in the petitions filed by various parties.
 
-අදාල පත් කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අටක් කැඳවීමෙන් අනතුරුව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+🟩
+
+The Supreme Court today (19) today, the Supreme Court today (19) was held today to be summoned by the IGP.
+
+The order issued the order after the appointment of the appointment challenged by challenging the fundamental rights petitions filed by the three-member Supreme Court.
 
 ◼️
 
 [Data](articles/6ec78493.json)
+
+[Extended Data](ext_articles/6ec78493.ext.json)
+
+---
+
+### தபால் முத்திரையின் விலையை அதிகரிக்க தீர்மானம்
+
+*2024-06-19 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186428) · `ta`
+
+தபால் முத்திரை ஒன்றின் விலையை 100 ரூபாவாக அதிகரிக்க முன்மொழியப்பட்டுள்ளதாக வெகுசன ஊடக அமைச்சின் செயலாளர் அனுஷ பெல்பிட்ட தெரிவித்துள்ளார்.
+
+2022 ஆம் ஆண்டு வரை 15 ரூபாயாக இருந்த முத்திரையின் விலை தற்போது 50 ரூபாவாக அதிகரிக்கப்பட்டுள்ளது.
+
+மேலும், அஞ்சல் திணைக்களம் தொடர்ச்சியாக நஷ்டம் அடைந்து வருவதனால் இந்த தீர்மானத்தை எடுத்துள்ளதாக தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/145462b8.json)
 
 ---
 
@@ -68,6 +168,26 @@ The President Ranil Wickremesinghe said that the 2024 International Industry Exh
 
 ---
 
+### ’சதை உண்ணும் பக்டீரியா’:  பீதி அடைய வேண்டாம்
+
+*2024-06-19 11:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதை-உண்ணும்-பக்டீரியா-பீதி-அடைய-வேண்டாம்/175-339125) · `ta`
+
+- ஆரம்ப அறிகுறிகளில் காய்ச்சல், குளிர், தசை வலி, குமட்டல் மற்றும் வாந்தி ஆகியவை அடங்கும்
+
+ஜப்பான் முழுவதும் 'சதை உண்ணும் பக்டீரியா' என பொதுவாக அழைக்கப்படும் ஸ்ட்ரெப்டோகாக்கல் நச்சு அதிர்ச்சி நோய்க்குறி (STSS) பரவுவது குறித்த அதிகரித்து  கவலைகள் அதிகரித்துவரும் நிலையில், பீதியடைய வேண்டாமென இலங்கை சுகாதார அதிகாரிகள் பொதுமக்களுக்கு உறுதியளித்துள்ளனர்.
+
+இந்த ஆண்டு இதுவரை ஜப்பானில் கிட்டத்தட்ட 1,000  பேர் பாதிக்கப்பட்டுள்ளமை பதிவாகியுள்ளன. இதனால்  பொதுமக்கள் அச்சமடைந்துள்ளனர்.
+
+இந்த நோய் கடுமையானதாக இருந்தாலும், இது ஒரு புதிய அல்லது அசாதாரணமான நிலை அல்ல என   இலங்கையின் தொற்றுநோய் பிரிவு பணிப்பாளர் டாக்டர் சமிதா கினிகே தெரிவித்துள்ளார்.
+
+"எஸ்.டி.எஸ்.எஸ் ஒரு சிகிச்சையளிக்கக்கூடிய பக்டீரியா தொற்று என்பதை பொதுமக்கள் புரிந்துகொள்வது முக்கியம்.    ஆபத்தான விளைவுகளுக்கு வழிவகுத்ததாக அறிக்கைகள் இருந்தாலும், இந்த நிகழ்வுகள் அரிதானவை" என்று டாக்டர் கினிகே உறுதியளித்தார்.
+
+...
+
+[Data](articles/fa98c23b.json)
+
+---
+
 ### President Ranil reveals plans to boost Sri Lanka’s industrial sector
 
 *2024-06-19 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99964/president-ranil-reveals-plans-to-boost-sri-lankas-industrial-sector) · `en`
@@ -85,6 +205,28 @@ He also said that the government is expected to reach an agreement with the Sri 
 [Data](articles/eb9216ec.json)
 
 [Extended Data](ext_articles/eb9216ec.ext.json)
+
+---
+
+### ஹெஸ்புல்லா அமைப்பிற்கு எதிராக முழுமையான யுத்தம் - இஸ்ரேல் கடும் எச்சரிக்கை
+
+*2024-06-19 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186429) · `ta`
+
+இஸ்ரேலின் இராணுவ சிவில் கட்டமைப்புகளை காண்பிக்கும் வீடியோக்களை ஹெஸ்புல்லா அமைப்பு வெளியிட்டுள்ளதை தொடர்ந்தே  இஸ்ரேல் இந்த எச்சரிக்கையை விடுத்துள்ளது.
+
+நாங்கள் ஹெஸ்புல்லா அமைப்பிற்கும் லெபானிற்கும் எதிரான விளையாட்டின் விதிமுறைகளை மாற்றும் தருணத்தை நெருங்கிக்கொண்டிருக்கின்றோம் என  இஸ்ரேலின் வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+ஹெஸ்புல்லா அமைப்பு தனது வீடியோவில் இஸ்ரேலின் ஹெய்பா நகரின் பொதுமக்கள் அதிகமாக வாழும் பகுதிகளை காண்பித்துள்ளது.வணிக வளாகங்கள் உயர்மாடிக்கட்டிடங்கள் போன்றவற்றையும் ஹெஸ்புல்லா அமைப்பு காண்பித்துள்ளது.இந்த நகரம் லெபான் எல்லையி;ல் தென்பகுதியில் உள்ளமை குறிப்பிடத்தக்கது.
+
+ஹெய்பா நகரில் உள்ள இஸ்ரேலின் இராணுவகட்டுமானங்களையும் ஹெஸ்புல்லா அமைப்பு தனது வீடியோவில் காண்பித்துள்ளது.
+
+ஹெய்பா நகரில் உள்ள இஸ்ரேலின் இராணுவகட்டுமானங்களையும் ஹெஸ்புல்லா அமைப்பு தனது வீடியோவில் காண்பித்துள்ளது.
+
+ஏவுகணை பாதுகாப்பு ஐயர்ன் டோம்கள் ஏவுகணைகள் வைக்கப்பட்டிருக்கும் பகுதிகள் ராடர் பகுதிகள் கடற்படை படகுகள் கப்பல்கள் போன்றவற்றையும் ஹெஸ்புல்லா அமைப்பு தனது வீடியோவில் காண்பித்துள்ளது.
+
+...
+
+[Data](articles/be7efd28.json)
 
 ---
 
@@ -135,6 +277,24 @@ They had come out of the General Passenger Terminal, but they had taken steps to
 [Data](articles/b4542f6e.json)
 
 [Extended Data](ext_articles/b4542f6e.ext.json)
+
+---
+
+### அதிரடி முடிவை எடுத்தார் மஹிந்த
+
+*2024-06-19 11:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-முடிவை-எடுத்தார்-மஹிந்த/175-339120) · `ta`
+
+பொதுஜன பெரமுனவின் தலைவரான முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ,  அரசியலுக்கு விடைபெறுவதற்கான வாய்ப்புகள் அதிகம் என நெருங்கிய வட்டாரங்கள் தெரிவிக்கின்றன.
+
+அதன்படி, அவர் எதிர்வரும் பாராளுமன்ற தேர்தலில் போட்டியிடாமல் இருக்க தயாராகி வருவதாக தகவல்கள் தெரிவிக்கின்றன.
+
+உடல்நிலை மற்றும் அரசியலில் ஈடுபடுவதற்காக நாடு முழுவதும் பயணம் செய்வதால் ஏற்படும் அசௌகரியங்கள் ஆகியவற்றின் அடிப்படையில் இந்த முடிவை எடுத்துள்ளார் என்றும் அறியமுடிகின்றது.
+
+எவ்வாறாயினும், எதிர்வரும் தேர்தலில் பொதுஜன பெரமுனவின் வெற்றிக்காக அவர் தொடர்ந்து பாடுபடுவார் என அந்த வட்டாரங்கள் மேலும் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/4afd38ab.json)
 
 ---
 
@@ -827,6 +987,20 @@ The earthquake was located in the Anuradhapura district at around 11.01 pm last 
 [Data](articles/548998df.json)
 
 [Extended Data](ext_articles/548998df.ext.json)
+
+---
+
+### வவுனியாவில் நிலநடுக்கம்
+
+*2024-06-19 07:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வவுனியாவில்-நிலநடுக்கம்/150-339108) · `ta`
+
+வவுனியாவில் இருந்து 23 கிலோமீற்றர் தொலைவில் நேற்றிரவு 2.3 ரிக்டர் அளவில் சிறிய நிலநடுக்கம் பதிவாகியுள்ளதாக புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகம் உறுதிப்படுத்தியுள்ளது.
+
+நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்ட பகுதி அனுராதபுரம் மாவட்டத்திற்கு உட்பட்டது. லேசான நில அதிர்வு காரணமாக எந்த சேதமும் ஏற்படவில்லை
+
+◼️
+
+[Data](articles/e5076d1a.json)
 
 ---
 
@@ -2063,231 +2237,5 @@ The Public Utilities Commission also provides an opportunity to comment on those
 [Data](articles/947c47ea.json)
 
 [Extended Data](ext_articles/947c47ea.ext.json)
-
----
-
-### People in Jaffna district not permit to cultivate seamalks
-
-*2024-06-18 18:43:11* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රිකයේ-චින-ජාතිකයින්ට-මුහුදු-කුඩැල්ලන්-වගා-කිරිමට-අවසර-දෙන්නේ-නෑ/11-410300) · `si`
-
-In Jaffna, despite initial permission for Chinese companies to cultivate sea mines, the Fisheries Minister has revoked these permits due to concerns over good governance. The move aims to boost the local economy and ensure fair practices among farmers. The Minister emphasizes improving livelihoods and addressing issues related to false promises by politicians, urging transparency and accountability from the fisheries department.
-
-🟩
-
-Although the Chinese district has been granted permission to cultivate seamalls in Jaffna district, but in the good governance, one China has permitted permission to breed sea mine company. Fisheries Minister Douglas Devananda stated that he had done the necessary action to cancel the permits in the company at present.
-
-The Minister further said that steps are being taken to improve the economic status of the people of Jaffna and the growers of the growers of the growers.It was said that the people of the area had to take a large yield to get a large harvest.. The Minister said that sea smashing was largely improved, he does not need to release the false of the people of the people of the people of the people's betray politicians. The existing department should be understood and winning their lives.
-
-Later, the people were confident that the people of the people were following the lives of the people by the people, as the people were subjected to the elimination of the people.Did.
-
-...
-
-[Data](articles/dc3caec3.json)
-
-[Extended Data](ext_articles/dc3caec3.ext.json)
-
----
-
-### The four marginal child disappears
-
-*2024-06-18 18:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-සිව්-හැවැරිදි-දරුවා-සොයා-ගනියි/11-410299) · `si`
-
-A four-year-old boy found dead in Norwood, Norwood Police Division, was discovered near a wedding venue. The body was identified through initial examinations. The child's family has been notified, and the case is under investigation.
-
-🟩
-
-Norwood Police OIC of Police Inspector Priyankara Kohondeniya said that the four-year-old boy discovered the estate on the Norwood Police Division (17).
-
-Sivanathan, a resident of the Nallathan, the Nallathaniya, was discovered.
-
-The child had come to a wedding ceremony in Norwood Duncan in Norwood Duncan.Police said that the basic experiments made during the closest corpses have been identified within the closed bulate.
-
-The child's parents and relatives of the child and relatives of the child have been informed of the child and relatives have been informed of the 119 police officers.
-
-The child's father said that the child was looking at the child's assistance with the support of the child after the afternoon of his child.
-
-The father of the missing child said that the Norwood police had not been able to look into the Norwood Police, he said.
-
-The child will be referred to the Judiciary Hospital for further investigations and providing the child's food and drink by the child.
-
-◼️
-
-[Data](articles/e9b576cc.json)
-
-[Extended Data](ext_articles/e9b576cc.ext.json)
-
----
-
-### Motorcycle collision with bus
-
-*2024-06-18 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186406) · `ta`
-
-A tragic accident occurred on the Bandarawela-Badulla road where a motorcycle collided with a bus, resulting in the death of a 19-year-old from Wellawaya who was trapped under the motorcycle's rear wheel.
-
-🟩
-
-A motorcycle collided with a private bus traveling from Badulla to Bandarawela on the Bandarawela -Badulla road.
-
-A young man was killed when a driver was trapped in the back wheel of a motorcycle from Bandarala to Wellavai.
-
-The dead youth has been identified as a 19 -year -old from Wellawaya.
-
-◼️
-
-[Data](articles/e06cf99d.json)
-
-[Extended Data](ext_articles/e06cf99d.ext.json)
-
----
-
-### Dual Citizenship at 58 304 people in 5 years
-
-*2024-06-18 18:25:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-5කදී-පුද්ගලයන්-58-304ට-ද්විත්ව-පුරවැසිභාවය/11-410298) · `si`
-
-From 2015 to 2020, Sri Lanka granted dual citizenship to 58,304 individuals out of 63,917 applications received. The highest number of applications came in 2015 with 17,126, followed by 14,802 in 2016.
-
-🟩
-
-According to the People's Defense Minister Tiran Alles said that 58,304 persons have been given dual citizenship in Sri Lanka from 2015 to 2020.
-
-He further stated that 63,917 persons have been submitted in Parliament yesterday (18) in Parliament yesterday (18) as a result of 63,917 persons have been submitted to verbal answer.
-
-"Inquired about the numbers that have applied for dual citizenship in Sri Lanka until the year 2015 to 2020. 17,126 have applied for 2015. 14,802 have applied for 2016. 9549 has applied for the year 2017. 9,750 applied to 2018. 8,702 in 2019 and 3,988 in 2020. The total number of persons who have applied for 2020 from 2015 to 2020 is 63,917.
-
-Also, in 2015, Dual citizenship has been given to 16,184 of the applicants who have applied for.. 13,933 has been given in 2016. 8,881 has been issued in 2017. Also, 8,747 has been issued in 2018. 7,405 has been issued in 2019. 3154 has been issued in 2020. Accordingly, 58,3044 has been given to 58,30,304 to 2020. "
-
-◼️
-
-[Data](articles/d4175adf.json)
-
-[Extended Data](ext_articles/d4175adf.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.75/305.40 to US dollar
-
-*2024-06-18 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-75-305-40-to-us-dollar-168568/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.75/305.40 to the US dollar Tuesday, down from 304.15 to the US dollar Friday, dealer said, while some bond yields edged up.
-
-Sri Lanka’s rupee has weakened amid unsterilized excess liquidity from earlier dollar purchases.
-
-Excess liquidity fell from as high as 200 billion rupees, helped by some sales of maturing bills and also allowing some term contracts to run out.
-
-However the central bank has started to inject liquidity again below its policy rate to suppress interest rates.
-
-On Tuesday 30 billion rupees was printed overnight at an average yield of only 8.73 percent.
-
-Separately another 25 billion rupees was printed till June 25 at 8.09 percent to 9.05 percent, which was still below overnight the policy rate of 9.5 percent.
-
-Nobody has so far taken the central bank to court for printing money beyond overnight at rates lower than the overnight rate.
-
-...
-
-[Data](articles/2d26af71.json)
-
-[Extended Data](ext_articles/2d26af71.ext.json)
-
----
-
-### Sri Lanka won the Women's ODI series again
-
-*2024-06-18 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186403) · `ta`
-
-Sri Lanka clinched the Women's ODI series against the West Indies with a 2-0 lead after winning the second match by 5 wickets. Key contributors included Samari Athapathu, Achini Kulasuriya, and Kavisha Dilhari for their bowling, and Vishmi Gunaratne for her batting, including a half-century. The West Indies were bowled out for 92 runs, with Rasada Williams leading their batting.
-
-🟩
-
-Sri Lanka won by 5 wickets in the 2nd Women's ODI match at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota against the West Indies on Tuesday (18).
-
-With this victory, Sri Lanka made a 3 -match women's international ODI series by 2 - 0.
-
-The accurate bowling of all -rounder, Samari Athapathu and Achini Kulasuriya, including Kavisha Dilhari's 4 wickets pile, and Vishmi Gunaratne's responsible batting led to the success of the Sri Lankan women's team.
-
-The West Indies women's team lost all wickets in 31 overs in the midst of the most population, scoring only 92 runs.
-
-Rasada Williams (24), Alia Alin (16), Ali Plecher (16) and Chedeen Nation (12) were the four double digits.
-
-Kavisha Dilhari took 4 wickets for 20 runs, Samari Attapattu 2 wickets for 8 runs while Achini Kulasuriya took 2 wickets for 16 runs.
-
-In response to 93 runs, the Sri Lankan women's team won by 5 wickets in 21.2 overs and scored 93 runs.
-
-The team's captain Samari Atapathu lost the match in the 3rd over.
-
-...
-
-[Data](articles/ea4f8284.json)
-
-[Extended Data](ext_articles/ea4f8284.ext.json)
-
----
-
-### China and UNESCO Signs for New Treaty Program
-
-*2024-06-18 18:08:12* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-සහ-යුනෙස්කෝව-‘මහා-ප්‍රාකාරය’-ශිෂ්‍යත්ව-වැඩසටහනේ-නව-ගිවිසුම්-සඳහා-අත්සන්-තබයි/11-410297) · `si`
-
-China and UNESCO have agreed to extend their educational collaboration through the 'Great Wings' Scholarship Program. The signing ceremony took place at UNESCO's Paris headquarters, highlighting the strong partnership between the two entities. This initiative, which began in 1994, offers scholarships to 75 students annually from developing nations, enabling them to study and conduct research in China for a year.
-
-🟩
-
-The next phase of the 'Great Wings' Scholarship Program will be signed by the Ministry of China and the UNESCO co-sponsorship.
-
-Minister of China and Director General of UNESCO Signed Ms. Audrey Azoulay of the UNESCO.. It was at the UNESCO headquarters in Paris, France.
-
-Ms. Azoulay greatly appreciated the long-standing close cooperation between China and UNESCO. She also spoke that the 'Great Wall' scholarship program was a success for education cooperation between the two countries.
-
-The 'Great Wy Patarka' scholarship program commenced in 1994. It provides 75 youth students and scholars in developing countries come to China and allow graduation academic and research.. These scholarships are offered for a period of one year.
-
-◼️
-
-[Data](articles/64b902a5.json)
-
-[Extended Data](ext_articles/64b902a5.ext.json)
-
----
-
-### President Mahinda Rajapaksa says to Wijayadasa
-
-*2024-06-18 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197893) · `si`
-
-President Mahinda Rajapaksa allegedly pressured Prof. Rohana Lakshman Piyadasa to resign from the government, according to reports relayed to the Politburo by Minister Wijayadasa Rajapaksa.
-
-🟩
-
-Prof. Rohana Lakshman Piyadasa said that the President has pressurized the President to quit the government to leave the government.
-
-He said that Minister Wijayadasa Rajapaksa told the Politburo.
-
-◼️
-
-[Data](articles/a29a302f.json)
-
-[Extended Data](ext_articles/a29a302f.ext.json)
-
----
-
-### Mother and daughter Filmed the Kasippu
-
-*2024-06-18 18:01:12* · [`adalk`](https://www.ada.lk/breaking_news/අම්මයි---දුවයි-ජයටම-කසිප්පු-පෙරලා/11-410296) · `si`
-
-In Peradeniya, a police raid led to the arrest of a mother and her 26-year-old daughter, along with 16 other individuals, for allegedly producing 500 liters of illicit liquor known as "Kasippu." The operation targeted a facility believed to be involved in the production and distribution of this alcohol. The arrests were made possible through a coordinated effort involving a significant number of police officers, highlighting the seriousness with which authorities are treating this issue. Further investigations are being conducted to fully understand the extent of the operation and its implications.
-
-🟩
-
-The area has been able to raid a filw schedule of filtering in a scale of a woman in Bowalaya, Peradeniya police force.
-
-The operation of a large number of police officers at night (17) was arrested by a large number of police officers in the operation of a large number of police officers in the operator at 500 liters of Kasippusprepture.
-
-The 48-year-old mother and 26 year old mother of the police have been arrested in the previous number of Buddhist monks were taken into custody by the courts.
-
-The Kasippu of the Kasippu has been maintained in a difficult determination tanks that cannot be drawn near.
-
-According to the police, the police were arrested at the time of the operation of several persons including mother and daughter and several others, including mother and daughter and several others.
-
-...
-
-[Data](articles/de15677c.json)
-
-[Extended Data](ext_articles/de15677c.ext.json)
 
 ---

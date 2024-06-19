@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 22:07:19**
+As of **2024-06-19 22:19:12**
 
 ## Newspaper Stats
 
-*Scraped **31,169** Articles*
+*Scraped **31,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,533
 tamilmirrorlk | 3,664
 dailymirrorlk | 4,733
 virakesarilk | 4,808
-adaderanasinhalalk | 5,068
+adaderanasinhalalk | 5,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,165 (100.0%) of 31,169 articles have been extended.
+31,169 (100.0%) of 31,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### රට සංවර්ධනය කිරීමේ සැලැස්ම පිළිබඳ අවබෝධතා ගිවිසුමට අත්සන් තබයි
+
+*2024-06-19 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197934) · `si`
+
+වසර 15කින් රට සංවර්ධනය කිරීම වෙනුවෙන් පිරිපුන් දේශයක් සංවිධානය සකස් කළ උපාය මාර්ගික සංවර්ධන සැලැස්ම පිළිබඳ අවබෝධතා ගිවිසුමට අද (19) දේශපාලන පක්ෂ නියෝජිතයන් ඇතුළු පිරිසක් අත්සන් තැබීය.
+
+එය නම් කර තිබුණේ "ශ්‍රී ලංකාව සංවර්ධනයේ සුසමාදර්ශී හැරවුම 2025" නමිනි.
+
+මෙම අවස්ථාවට මහජන නියෝජිතයින්, සිවිල් සහ බහුජන සංවිධාන නියෝජිතයින්, සමාජ ක්‍රියාකාරීන් සහ වෘත්තිකයින් ඇතුළු පිරිසක් එක්විය.
+
+මෙහිදී අදහස් දැක්වූ මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා සඳහන් කළේ,
+
+"රටේ ඇති විය හැකි අනාගතය පිළිබඳව මව්බිම ජනතා පක්ෂයට මනා දැනුමක් තිබෙනවා. ඒ නිසා තමයි අපි ඇවිත් කිව්වේ ලංකාවේ දේශපාලනයේ ආඛ්‍යානය වෙනස්විය යුතු බව. අනෙක් කරුණ තමයි... දියුණු වෙන රාජ්‍යයන් දියුණු වෙන්නේ සංකල්ප මත."
+
+◼️
+
+[Data](articles/8c79d134.json)
+
+---
 
 ### President says goal is to create a better future for children within next 5-10 years
 
@@ -48,25 +68,33 @@ He stated that the Aswasuma program was implemented to provide income support to
 
 [Data](articles/c691f163.json)
 
+[Extended Data](ext_articles/c691f163.ext.json)
+
 ---
 
-### சிறுமியை கர்ப்பமாக்கிய வர்த்தகர் கைது
+### Arrested by a trader who made the girl pregnant
 
 *2024-06-19 21:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-கர்ப்பமாக்கிய-வர்த்தகர்-கைது/76-339140) · `ta`
 
-நானுஓயா வாழமலை தோட்டத்தில் 15 வயது சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் பேரில் சந்தேகநபர் ஒருவர் நேற்று (18) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A 54-year-old trader was arrested for allegedly sexually assaulting a 15-year-old girl at his Nanuoya Vazhamalai estate shop. The victim's parents were hospitalized suddenly before the incident. The suspect is now in custody at the Nuwara Eliya District Magistrate's Court.
 
-இவ்வாறு கைது செய்யப்பட்டவர் அதே பகுதியைச் சேர்ந்த 54 வயதுடையவர் எனவும் பாதிக்கப்பட்ட சிறுமி நுவரெலியா மாவட்ட பொது வைத்தியசாலை அனுமதித்துள்ளதாகவும் நானுஓயா பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சந்தேகநபர் தனது வீட்டில் சிறிய வர்த்தக நிலையம் ஒன்று நடத்தி வருவதாகவும் சிறுமி வர்த்தக நிலையத்திற்கு வந்த போது அவரை அழைத்துச் சென்று பாலியல் பலாத்காரம் செய்துள்ளார் என ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+A suspect has been arrested by police yesterday (18) for allegedly sexually abusing a 15 -year -old girl at Nanuoya Vazhamalai estate.
 
-அத்துடன் குறித்த சிறுமியின் நிலை நீண்ட நாட்களாக பெற்றோர்களுக்குத் தெரியாது இருந்ததாகவும் கடந்த (17) ஆம் திகதி திடீர் சுகயீனம் காரணமாக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் இதனையடுத்து மாணவி கர்ப்பமடைந்துள்ளமை தெரியவந்துள்ளது.
+Nanuoya police said that the 54 -year -old from the same area has been admitted to the Nuwara Eliya District General Hospital.
 
-இந்த நிலையில் கைது சந்தேக நபரை இன்று (19) நுவரெலியா மாவட்ட நீதவான் நீதிமன்றில் ஆஜர்படுத்திய போது 14 நாட்களுக்கு விளக்கமறியலில் வைக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+Initial investigations revealed that the suspect was running a small business center at his home and had taken her to the shop when she arrived at the shop.
+
+Parents have long been admitted to the Nuwara Eliya District General Hospital due to a sudden illness on the last (17).
+
+The suspect has been ordered to be kept at the Nuwara Eliya District Magistrate's Court today (19).. Remble
 
 ◼️
 
 [Data](articles/ef7b3e66.json)
+
+[Extended Data](ext_articles/ef7b3e66.ext.json)
 
 ---
 
@@ -240,39 +268,55 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 
 ---
 
-### දරුවන්ට වඩාත් හොඳ රටක් නිර්මාණය කර දෙනවා
+### Children create a better country
 
 *2024-06-19 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-වඩාත්-හොඳ-රටක්-නිර්මාණය-කර-දෙනවා/11-410322) · `si`
 
-දැයේ දරුවන් වෙනුවෙන් ඉදිරි වසර 05-10 තුළ වඩා හොඳ රටක් නිර්මාණය කර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe aims to transform Sri Lanka into a better country for children within 5-10 years, focusing on education through scholarships and addressing the economic crisis. He announced a comprehensive scholarship program for students from Grade 1 to Grade 11, ensuring financial support for over 100,000 students nationwide. This initiative is part of a broader effort to alleviate the impact of the economic crisis, including providing legal ownership of land and housing rights, emphasizing the importance of education for the nation's future.
 
-ජනාධිපතිවරයා ලෙස මේ රටේ කිසිඳු දරුවෙකුට දුක් විඳිමට ඉඩ නොතබන බව තමා තීරණය කළ බවත්, වසර දෙකක් වැනි කෙටි කාලයක් තුළ ආර්ථික අර්බුදයෙන් රට ගොඩගැනීමට තමා කැපවුයේ ඒ වෙනුවෙන් බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය වෙනුවෙන් අරලියගහ මන්දිරයේ අද (19) පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe said that a better country would be created in the next 5-10 years for children.
 
-ජනතාවට ආදායමක් ලබාදීමට අස්වැසුම වැඩසටහන ක්‍රියාත්මක කළ බවත්, භූමියේ අයිතිය ලබාදීමට උරුමය වැඩසටහන ක්‍රියාත්මක කළ බවත් පැවසු ජනාධිපතිවරයා දරුවන්ට අධ්‍යාපනය ලබාදීම වෙනුවෙන් ජනාධිපති අධ්‍යාපන ශිෂ්‍යත්ව වැඩසටහන ආරම්භ කළ බවද සඳහන් කළේය.‍
+He also emphasized that he has decided to suffer the President as the President and that he has committed himself to suffer from the economic crisis in the economic crisis.
+
+President Ranil Wickremesinghe addressing the ceremony held at Temple Trees today (19) at Temple Trees.
+
+The President said that the inheritance program has been launched to educate the children to earn the people's ownership.
+
+6022 (2023) students who study the GCE (A / L) of the year (2023) students are selected and providing 100 students per child monthly Rs.. The relevant scholarships will be provided until the end of the children (A / L) from March 2024.
+
+According to President Ranil Wickremesinghe's concept, a scholarship program will be implemented for students who are studying from Grade 1 to Grade 11, covering 10,126 overall schools in the country.
 
 ...
 
 [Data](articles/f21f711d.json)
 
+[Extended Data](ext_articles/f21f711d.ext.json)
+
 ---
 
-### රට ගොඩනැඟීමට ජනාධිපතිගේ නායකත්වය මනා පිටිවහලක් වුණා
+### The president's leadership was a well-being of the president's leadership
 
 *2024-06-19 19:11:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමට-ජනාධිපතිගේ-නායකත්වය-මනා-පිටිවහලක්-වුණා/11-410321) · `si`
 
-සෑම අංශයකින්ම කඩාවැටුණු රට යළි ගොඩනැඟීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නිවැරදි නායකත්වය මනා පිටිවහලක් වූ බව පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා පැවසීය.
+B. Herath, the State Minister of Livestock Development, praised the current government's efforts under President Ranil Wickremesinghe to rebuild the country economically and combat corruption. He highlighted the importance of international support and the government's successful navigation through the economic challenges posed by the COVID-19 pandemic. Despite opposition attempts to hinder progress, the minister emphasized the need for unity to avoid returning to economic turmoil.
 
-ශක්තිමත් ආර්ථිකයක් ඇති කිරීම සඳහා වත්මන් රජය ක්‍රියාත්මක කර තිබෙන සහනදායී වැඩපිළිවෙළ අඩාල කර පළපුරුද්දක් නොමැති පාර්ශ්වයක් වෙත භාරදී රට නැවතත් අගාධයට ගෙන යනවා ද නැද්ද යන්න ජනතාව නිවැරදිව සිතා බලා තීරණය කළ යුතු බවද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (19) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Livestock Development, Minister of Livestock Development, was a good allotted leadership to rebuild the country in every aspect.. B. Herath said.
 
-සෑම අංශයකින්ම වැටී තිබූ රට යළි ගොඩගැනීමට අවශ්‍ය වැඩපිළිවෙළ ක්‍රියාත්මක කිරීම සඳහා අමාත්‍යාංශයක් ලෙස වගකීමෙන් යුතුව කටයුතු කළා. රටේ ආහාර හිඟයක් පැවති අවස්ථාවක අප අමාත්‍යංශය වගකීමෙන් කටයුතු කිරීම නිසා එම අවධානම මේ වන විට සම්පූර්ණයෙන්ම පහව ගොස් තිබෙනවා. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නිවැරදි නායකත්වයෙන් යුතුව අමාත්‍ය මණ්ඩලය ප්‍රමුඛ ආණ්ඩුව රට අර්බුදයෙන් ගොඩ ගැනීමට කැපවීමෙන් කටයුතු කළා.
+The State Minister pointed out that whether the present government has been implementing the concessionary program implemented by the present government to establish a strong economy, the people should be determined and determined whether or not the country is taken back to the abyss.
+
+State Minister of Livestock Development. B. Herath made this statement participating at a press conference held at the Presidential Media Center today (19).
+
+The Ministry was responsible for the implementation of the need to rebuild the country in every aspect.. Since the Ministry of Food shortage was due to a food deficit, the ministry has been completely removed by now.. The government led by President Ranil Wickremesinghe's right leadership was dedicated to the promotion of the country from the crisis.
 
 ...
 
 [Data](articles/7156ee77.json)
+
+[Extended Data](ext_articles/7156ee77.ext.json)
 
 ---
 
@@ -2353,29 +2397,5 @@ Strong winds are likely to blow up to 40-50 km / h from time to time in the west
 [Data](articles/0e6cd574.json)
 
 [Extended Data](ext_articles/0e6cd574.ext.json)
-
----
-
-### A motor vehicle traveling in the same family
-
-*2024-06-19 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197908) · `si`
-
-A car veered off the Hatton-Colombo road early this morning, rolling down the road after its engine was detached. The incident occurred around 5:15 am, causing significant damage but no injuries to the vehicle.
-
-🟩
-
-Hatton Police say that a motor vehicle has accidentally escaped from Horana to Nuwara Eliya.
-
-The accident occurred at the Hatton-Colombo main road morning at 5.15 am today.
-
-The motor was removed from the motor vehicle and rolled over the road due to the driver of the driver of the driver.
-
-No none of the motor vehicle has not been injured and the motor vehicle has damaged severe damage.
-
-◼️
-
-[Data](articles/c98b5b55.json)
-
-[Extended Data](ext_articles/c98b5b55.ext.json)
 
 ---

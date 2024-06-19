@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 11:06:51**
+As of **2024-06-19 11:19:14**
 
 ## Newspaper Stats
 
-*Scraped **31,070** Articles*
+*Scraped **31,072** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
 dbsjeyarajcom | 287
-bbccomsinhala | 303
+bbccomsinhala | 304
 newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,707
-adaderanalk | 3,519
+adaderanalk | 3,520
 tamilmirrorlk | 3,651
 dailymirrorlk | 4,733
 virakesarilk | 4,784
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,070 (100.0%) of 31,070 articles have been extended.
+31,070 (100.0%) of 31,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Over 7,700kg of electronic waste collected  from 11 districts
+
+*2024-06-19 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99962/over-7700kg-of-electronic-waste-collected-from-11-districts) · `en`
+
+The Central Environment Authority (CEA) says that the electronic waste collection initiatives conducted in 11 districts have led to the collection of more than 7,700 kg of electronic waste.
+
+CEA’s Acting Deputy Director General, Chathura Malwana stated that necessary steps have been taken to direct the relevant electronic waste to the recycling process.
+
+According to the CEA, their electronic waste collection initiatives, conducted across 97 centres in 11 districts covering 4 provinces on June 03 and 04, coinciding with the World Environment Day, have successfully collected approximately 7,777 kg of electronic waste despite challenges such as adverse weather.
+
+◼️
+
+[Data](articles/4817a933.json)
+
+---
 
 ### Price prices at a postage stamp?
 
@@ -623,6 +639,28 @@ The announcement follows public outcry and claims from various consumer and indu
 [Data](articles/aad1f3d8.json)
 
 [Extended Data](ext_articles/aad1f3d8.ext.json)
+
+---
+
+### රනිල් වික්‍රමසිංහ : ජනපතිවරයා ශ්‍රේෂ්ඨාධිකරණය විවේචනය කළේ ඇයි? 'යටි අරමුණක්' තිබේද?  වි‌ශ්ලේෂකයෝ කියන්නේ කුමක්ද?
+
+*2024-06-19 04:40:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl44xzdyzxdo) · `si`
+
+රනිල් වික්‍රමසිංහ : ජනපතිවරයා ශ්‍රේෂ්ඨාධිකරණය විවේචනය කළේ ඇයි? 'යටි අරමුණක්' තිබේද?  වි‌ශ්ලේෂකයෝ කියන්නේ කුමක්ද?
+
+ජනාධිපති රනිල් වික්‍රමසිංහ "ඡන්ද කල් දැමීම අරමුණු කර ගනිමින් ශ්‍රේෂ්ඨාධිකරණයේ මතය යටපත් කිරීමේ උත්සහයක නිරත වන බවට දේශපාලන විශ්ලේෂකයෝ පෙන්වා දෙති.
+
+ඔවුන් ඒ සම්බන්ධයෙන් වන නවතම උදාහරණය ලෙස පෙන්වා දෙන්නේ, ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාව පිළිබඳ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය දුන් තීරණය පිළිබඳව ජනාධිපතිවරයා අඟහරුවාදා (ජූනි 18) පාර්ලිමේන්තුවේදී කළ ප්‍රකාශය යි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයේ ඇතුළත් වූ කොටස් කිහිපයක සිංහල අදහස පහත දැක්වේ.
+
+"ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාව පිළිබඳ පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීරණය. එය ඔබ (කතානායක) විසින් කියවනු ලැබුවා. මට අවශ්‍ය වන්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 4 වන වගන්තිය යටතේ මෙම පාර්ලිමේන්තුවේ බලතල උල්ලංඝණය වන බවට රීති ප්‍රශ්නයක් මතු කිරීමට පමණයි. ඒ වගේ ම අපි ඒ සම්බන්ධයෙන් තේරීම් කාරක සභාවක් පත් කළ යුතු යි."
+
+"ශ්‍රේෂ්ඨාධිකරණයට කොහොමත් මේ ගැන තීන්දුවක් දෙන්න බැහැ. ඔවුන් නීතිවිරෝධීව අපේ පැත්තට එනවා."
+
+...
+
+[Data](articles/dd63606c.json)
 
 ---
 
@@ -2263,39 +2301,5 @@ He added that when the cricket team was raging, everyone would blame him.
 [Data](articles/217168e1.json)
 
 [Extended Data](ext_articles/217168e1.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ holds inaugural public rally in Nugegoda
-
-*2024-06-18 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99952/sarvajana-balaya-holds-inaugural-public-rally-in-nugegoda) · `en`
-
-The inaugural public rally of the “Sarvajana Balaya”, the new alliance formed by several opposition parties, has commenced in Nugegoda today (18).
-
-The public rally is being held at Ananda Samarakoon Open Air Theatre in Nugegoda under the theme of “repowering the aspirations of 6.9 million people”.
-
-The public rally commenced after the processions arriving from five different directions converged at the Ananda Samarakoon Open Air Theatre.
-
-Representatives from seven political parties and organizations affiliated with “Sarvajana Balaya” including the National Freedom Front (NFF), Mawbima Janatha Party (MJP), Pivithuru Hela Urumaya (PHU), the Communist Party of Sri Lanka, ‘Yuthukama’ organisation and the Independent MP’s Forum and other political groups are attending the public rally.
-
-◼️
-
-[Data](articles/02e1c1f7.json)
-
-[Extended Data](ext_articles/02e1c1f7.ext.json)
-
----
-
-### CC defeats President’s proposal to extend AG’s term
-
-*2024-06-18 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99951/cc-defeats-presidents-proposal-to-extend-ags-term) · `en`
-
-A proposal by President Ranil Wickremesinghe to extend the term of Attorney General Sanjay Rajaratnam by another six months has been defeated at the Constitutional Council meeting, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/3c258e9a.json)
-
-[Extended Data](ext_articles/3c258e9a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 16:34:47**
+As of **2024-06-19 16:52:12**
 
 ## Newspaper Stats
 
-*Scraped **31,129** Articles*
+*Scraped **31,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,51 @@ adaderanalk | 3,525
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,059
+adaderanasinhalalk | 5,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,128 (100.0%) of 31,129 articles have been extended.
+31,129 (100.0%) of 31,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ජපානයේ පැතිර යන මාරාන්තික බැක්ටීරියාව ගැන මෙරට සෞඛ්‍ය අංශවලින් දැනුම්දීමක්
+### කරුණා අම්මාන් ජනපතිට සහාය දෙන බව කියයි
+
+*2024-06-19 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197924) · `si`
+
+උතුරේ සහ නැගෙනහිර දෙමළ ජනතාව මෙවර සිය ඡන්දය භාවිත කරන්නේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් බව කරුණා අම්මාන් හෙවත් විනයාගමූර්ති මුරලිදරන් පවසයි.
+
+එක්සත් ජාතික පක්ෂයේ පානදුර කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+"ඊළඟ ධූර කාලයත් අපි ඔහුටම ලබාදිය යුතුයි. ඒ නිසා තමයි මමත් ඔහුට සහයෝගය දෙන්නේ. විශේෂයෙන්ම උතුරේ සහ නැගෙනහිර දෙමළ ජනතාව අනිවාර්යයෙන්ම ඔහුට තමයි ඡන්දය දෙන්න යන්නේ. ඒ ගැන කිසිම ප්‍රශ්නයක් නැහැ. සියලුදෙනාම ලෑස්තියි අතිගරු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදෙන්න. ඒ නිසා තමයි මමත් මගේ පක්ෂයත් ඔහුට සහයෝගය ලබාදෙන්නේ."
+
+◼️
+
+[Data](articles/ef51436b.json)
+
+---
+
+### Informs of the Deadly Bacteria in Japan
 
 *2024-06-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197923) · `si`
 
-ජපානයේ ව්‍යාප්ත වෙමින් පවතින දුර්ලභ බැක්ටීරියා ආසාදනය සම්බන්ධව මෙරට ජනතාව අනියත බියක් ඇති කරගැනීමට අවශ්‍ය නොවන බව සෞඛ්‍ය අමාත්‍යාංශයේ වසංගත රෝග විද්‍යා අංශයේ ප්‍රධානී විශේෂඥ වෛද්‍ය සමිත ගිනිගේ මහතා පවසයි.
+Japan reports an increase in certain bacteria, which can become resistant to antibiotics but doesn't pose a significant threat due to its rarity and limited impact on public health.
 
-"ඒක සාමන්‍ය ජනතාව අතර තියෙන බැක්ටීරියා තත්ත්වයක්. කලාතුරකින් එකේ ප්‍රතිඵලයක් සහ සංකූලතාවයක් විදිහට මාරාන්තික තත්ත්වයකට යන්න පුළුවන්. ජපානය වාර්තා කරලා තියෙන්නේ බැක්ටීරියා තත්ත්වයෙන් ඇතිවෙන සංකූලතා තත්ත්වයේ යම් වැඩිවීමක් මෑත කාලයේ නිරීක්ෂණය කළා කියලා. ඒ වගේම තමයි ප්‍රතිජීවක ඖෂධවලින් මේක වෙනස් කරන්නත් පුළුවන්. හැබැයි කලාතුරකින් ප්‍රතිජීවක ඖෂධවලට ප්‍රතිරෝධයක් දක්වන බැක්ටීරියා තියෙන්න පුළුවන්. එකේ මහා පැතිරීමක් සිද්ධවෙයි කියලවත්, අපේ රටට බලපෑමක් ඇතිවෙයි කියලවත් අනියත බියක් ඇති කර ගන්න අවශ්‍යතාවයක් නැහැ."
+🟩
+
+The Epidemiology Unit of the Ministry of Epidemiology, the Institute of Epidemiology Unit, said that the people of the Ministry of Health will not need to be unique.
+
+"It is a bacteria between the general public. Rarely result and a complication can go to a fatal situation. Japan has reportedly observed that some increase in the condition of bacteria. And that can change this from antibiotic drugs. But rarely there may be bacteria that resists antibiotics. There is no need to make an impact on the big spread, or that our country will be affected. "
 
 ◼️
 
 [Data](articles/c234ab94.json)
+
+[Extended Data](ext_articles/c234ab94.ext.json)
 
 ---
 
@@ -2297,31 +2319,5 @@ The first property earners will be released from the proposed rent line. He said
 [Data](articles/3c8ee6b9.json)
 
 [Extended Data](ext_articles/3c8ee6b9.ext.json)
-
----
-
-### The rights of men are equal to women
-
-*2024-06-19 02:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்களுக்கு-நிகரான-உரிமைகள்-பெண்களுக்கும்/175-339106) · `ta`
-
-President Ranil Wickremesinghe emphasized the government's commitment to gender equality, aiming to grant women the same rights as men. This stance was highlighted during an event at the Sirikotha Party headquarters, where appointment letters were issued to regional organizers under the United National Party's restructuring. Despite the Male and Female Equality Bill being debated in Parliament and a High Court ruling against equal rights for women, the President reassured that the government remains dedicated to achieving this goal, aligning with international standards and ensuring no institution can hinder this progress.
-
-🟩
-
-President Ranil Wickremesinghe said the government's aim was to give women the rights of men.
-
-The event was held at the party headquarters yesterday at the Sirikotha Party headquarters to issue appointment letters to regional organizers appointed under the new restructuring of the United National Party.
-
-The President said this while addressing the event.. As he further stated,
-
-I am happy to attend the second phase of the event today issuing appointment letters to the new regional organizers appointed under the UNP Reconstruction Program.
-
-The Male and Female Equality Bill discussed a long time in Parliament today. But women have no equal rights according to the High Court ruling. I told Parliament that the majority of women in the country's population cannot be considered as a decision against the parliament and the constitution of this country.
-
-...
-
-[Data](articles/36b4398b.json)
-
-[Extended Data](ext_articles/36b4398b.ext.json)
 
 ---

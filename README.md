@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 14:19:32**
+As of **2024-06-19 14:34:53**
 
 ## Newspaper Stats
 
-*Scraped **31,102** Articles*
+*Scraped **31,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adaderanalk | 3,523
 tamilmirrorlk | 3,657
 dailymirrorlk | 4,733
 virakesarilk | 4,792
-adaderanasinhalalk | 5,052
+adaderanasinhalalk | 5,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,102 (100.0%) of 31,102 articles have been extended.
+31,102 (100.0%) of 31,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### මහ බැංකු වැටුප ගැන ආ කමිටු වාර්තාව
+
+*2024-06-19 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197917) · `si`
+
+මහ බැංකු නිලධාරීන්ගේ වැටුප් වැඩි කරගැනීම සම්බන්ධයෙන් සොයා බැලීමට ජනාධිපතිවරයා පත්කළ කමිටුවේ වාර්තාව රජයේ මුදල් පිළිබඳ කාරක සභාව වෙත භාරදී තිබේ.
+
+එම වාර්තාව ලැබුණු බව එහි සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා අද පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+ඒ අනුව මෙලෙස වැටුප් වැඩිකර ගැනීමක් සිදුනොකළ යුතුව තිබු බවට අදාළ වාර්තාව මගින් පෙන්වා දී ඇතැයි ‍රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+◼️
+
+[Data](articles/87636092.json)
+
+---
+
+### නතාෂා සහ බෲනෝ නිදහස්
+
+*2024-06-19 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197916) · `si`
+
+අන්තර්ජාලය ඔස්සේ ආගමික සමගියට බාධා කිරීම සහ වෛරය වැපිරවීම යන චෝදනා එල්ලවූ නතාෂා එදිරිසූරිය සහ බෲනෝ දිවාකරට එරෙහිව ගොනු කර තිබූ නඩුවෙන් ඔවුන්ව නිදහස් කර තිබේ.
+
+කොටුව මහෙස්ත්‍රාත් අධිකරණය විසින් එලෙස නඩුවෙන් නිදහස් කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/4db3b847.json)
+
+---
 
 ### Sri Lanka’s Hela Apparel to raise Rs1.5bn in rights issue
 
@@ -2271,55 +2301,5 @@ President - "It was read by you. I need to refer to a ruled question. According 
 [Data](articles/01451afb.json)
 
 [Extended Data](ext_articles/01451afb.ext.json)
-
----
-
-### Any resolution that is harmful to the existence of Buddhism will not be accepted - President Ranil Wickremesinghe
-
-*2024-06-18 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186408) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of women's rights, aligning them with international standards, and vowed to protect Buddhism from any resolutions deemed harmful. He highlighted the government's commitment to gender equality and the inclusion of women in decision-making processes, while also ensuring the preservation of Buddhist values.
-
-🟩
-
-President Ranil Wickremesinghe stressed that all the agreements of the international women's organizations are included in women's rights for women, and urged that the judiciary, the executive department, the law, or the company cannot interfere with the activities.
-
-The President said the government's aim was to give women the rights of men, and that he was dedicated to it.
-
-The President also pointed out that the government would not accept any resolution that contributes to the existence of Buddhism.
-
-The event was held on Tuesday (18) at the party headquarters to issue appointment letters to regional organizers appointed under the United National Party's new restructuring.. President Ranil Wickremesinghe said this while addressing the event.
-
-I am happy to attend the second phase of the event today issuing appointment letters to the new regional organizers appointed under the UNP Reconstruction Program.
-
-...
-
-[Data](articles/b1d0797a.json)
-
-[Extended Data](ext_articles/b1d0797a.ext.json)
-
----
-
-### Japan is made because of a bacterium eating bacteria
-
-*2024-06-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197894) · `si`
-
-In Japan, a bacterium that attacks muscles is spreading, causing many deaths. From January to June, 2,977 cases were reported, with 77 fatalities. The health sector is actively addressing this issue.
-
-🟩
-
-A bacterium that destroys a muscle is now sidespread in Japan.
-
-It is reported that a large number of people have died due to bacterium bacteria.
-
-However, the health sector is widely wide regarding the spread of the disease.
-
-Since 2,977 such patients have been reported from January to June, 77 were killed.
-
-◼️
-
-[Data](articles/68016538.json)
-
-[Extended Data](ext_articles/68016538.ext.json)
 
 ---

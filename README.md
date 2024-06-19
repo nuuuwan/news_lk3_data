@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 21:54:00**
+As of **2024-06-19 22:07:19**
 
 ## Newspaper Stats
 
-*Scraped **31,165** Articles*
+*Scraped **31,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,798
 dailyftlk | 1,899
-adalk | 2,720
-adaderanalk | 3,532
-tamilmirrorlk | 3,663
+adalk | 2,722
+adaderanalk | 3,533
+tamilmirrorlk | 3,664
 dailymirrorlk | 4,733
 virakesarilk | 4,808
 adaderanasinhalalk | 5,068
@@ -26,27 +26,71 @@ adaderanasinhalalk | 5,068
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,164 (100.0%) of 31,165 articles have been extended.
+31,165 (100.0%) of 31,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### අමෙරිකාවට ලකුණු 195ක ඉලක්කයක්
+### President says goal is to create a better future for children within next 5-10 years
+
+*2024-06-19 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99976/-president-says-goal-is-to-create-a-better-future-for-children-within-next-5-10-years) · `en`
+
+President Ranil Wickremesinghe says that a better country will be created for the children of Sri Lanka within the next 5-10 years.
+
+The President emphasized his commitment to ensuring that no child in the country will suffer, highlighting his dedication to resolving the economic crisis within a short span of two years.
+
+President Wickremesinghe made these remarks while addressing the ceremony for the awarding of Presidential scholarships held today (19) at Temple Trees, the President Media Division said.
+
+He stated that the Aswasuma program was implemented to provide income support to the people, while the Urumaya program was implemented to secure land rights. Additionally, he highlighted the launch of the Presidential Education Scholarship Program, aimed at ensuring educational opportunities for children.
+
+...
+
+[Data](articles/c691f163.json)
+
+---
+
+### சிறுமியை கர்ப்பமாக்கிய வர்த்தகர் கைது
+
+*2024-06-19 21:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-கர்ப்பமாக்கிய-வர்த்தகர்-கைது/76-339140) · `ta`
+
+நானுஓயா வாழமலை தோட்டத்தில் 15 வயது சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் பேரில் சந்தேகநபர் ஒருவர் நேற்று (18) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்டவர் அதே பகுதியைச் சேர்ந்த 54 வயதுடையவர் எனவும் பாதிக்கப்பட்ட சிறுமி நுவரெலியா மாவட்ட பொது வைத்தியசாலை அனுமதித்துள்ளதாகவும் நானுஓயா பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர் தனது வீட்டில் சிறிய வர்த்தக நிலையம் ஒன்று நடத்தி வருவதாகவும் சிறுமி வர்த்தக நிலையத்திற்கு வந்த போது அவரை அழைத்துச் சென்று பாலியல் பலாத்காரம் செய்துள்ளார் என ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+அத்துடன் குறித்த சிறுமியின் நிலை நீண்ட நாட்களாக பெற்றோர்களுக்குத் தெரியாது இருந்ததாகவும் கடந்த (17) ஆம் திகதி திடீர் சுகயீனம் காரணமாக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் இதனையடுத்து மாணவி கர்ப்பமடைந்துள்ளமை தெரியவந்துள்ளது.
+
+இந்த நிலையில் கைது சந்தேக நபரை இன்று (19) நுவரெலியா மாவட்ட நீதவான் நீதிமன்றில் ஆஜர்படுத்திய போது 14 நாட்களுக்கு விளக்கமறியலில் வைக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ef7b3e66.json)
+
+---
+
+### A target of 195 in America
 
 *2024-06-19 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197933) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අමෙරිකාව සහ දකුණු අප්‍රිකාව අතර තරගය අද (19) පැවැත්වෙයි.
+In the World Cup match between the US and South Africa, South Africa made 194 runs losing 4 wickets in 20 overs after the US won the toss and chose to field.
 
-සුපිරි 08 වටයේ තරග ආරම්භ කරමින් පැවැත්වෙන පළමු තරගය මෙය වෙයි.
+🟩
 
-එහි කාසියේ වාසිය දිනාගැනීමට අමෙරිකාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු යැවීමටය.
+The United States and South Africa in the World Cup match today (19).
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකාව නියමිත පන්දුවාර 20 අවසානයේ කලුඩු 4ක් දැවී ලකුණු 194ක් රැස් කළේය.
+This is the first match of the Super 08 round competitions.
+
+The US was won to win the coin, and they decided to bowl first.
+
+Accordingly, South Africa scored 194 runs for the loss of 4 kills at the end of 20 overs.
 
 ◼️
 
 [Data](articles/ddf0eceb.json)
+
+[Extended Data](ext_articles/ddf0eceb.ext.json)
 
 ---
 
@@ -193,6 +237,42 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 [Data](articles/254daa3e.json)
 
 [Extended Data](ext_articles/254daa3e.ext.json)
+
+---
+
+### දරුවන්ට වඩාත් හොඳ රටක් නිර්මාණය කර දෙනවා
+
+*2024-06-19 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-වඩාත්-හොඳ-රටක්-නිර්මාණය-කර-දෙනවා/11-410322) · `si`
+
+දැයේ දරුවන් වෙනුවෙන් ඉදිරි වසර 05-10 තුළ වඩා හොඳ රටක් නිර්මාණය කර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා ලෙස මේ රටේ කිසිඳු දරුවෙකුට දුක් විඳිමට ඉඩ නොතබන බව තමා තීරණය කළ බවත්, වසර දෙකක් වැනි කෙටි කාලයක් තුළ ආර්ථික අර්බුදයෙන් රට ගොඩගැනීමට තමා කැපවුයේ ඒ වෙනුවෙන් බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය වෙනුවෙන් අරලියගහ මන්දිරයේ අද (19) පැවති උත්සවය අමතමිනි.
+
+ජනතාවට ආදායමක් ලබාදීමට අස්වැසුම වැඩසටහන ක්‍රියාත්මක කළ බවත්, භූමියේ අයිතිය ලබාදීමට උරුමය වැඩසටහන ක්‍රියාත්මක කළ බවත් පැවසු ජනාධිපතිවරයා දරුවන්ට අධ්‍යාපනය ලබාදීම වෙනුවෙන් ජනාධිපති අධ්‍යාපන ශිෂ්‍යත්ව වැඩසටහන ආරම්භ කළ බවද සඳහන් කළේය.‍
+
+...
+
+[Data](articles/f21f711d.json)
+
+---
+
+### රට ගොඩනැඟීමට ජනාධිපතිගේ නායකත්වය මනා පිටිවහලක් වුණා
+
+*2024-06-19 19:11:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමට-ජනාධිපතිගේ-නායකත්වය-මනා-පිටිවහලක්-වුණා/11-410321) · `si`
+
+සෑම අංශයකින්ම කඩාවැටුණු රට යළි ගොඩනැඟීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නිවැරදි නායකත්වය මනා පිටිවහලක් වූ බව පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා පැවසීය.
+
+ශක්තිමත් ආර්ථිකයක් ඇති කිරීම සඳහා වත්මන් රජය ක්‍රියාත්මක කර තිබෙන සහනදායී වැඩපිළිවෙළ අඩාල කර පළපුරුද්දක් නොමැති පාර්ශ්වයක් වෙත භාරදී රට නැවතත් අගාධයට ගෙන යනවා ද නැද්ද යන්න ජනතාව නිවැරදිව සිතා බලා තීරණය කළ යුතු බවද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (19) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+සෑම අංශයකින්ම වැටී තිබූ රට යළි ගොඩගැනීමට අවශ්‍ය වැඩපිළිවෙළ ක්‍රියාත්මක කිරීම සඳහා අමාත්‍යාංශයක් ලෙස වගකීමෙන් යුතුව කටයුතු කළා. රටේ ආහාර හිඟයක් පැවති අවස්ථාවක අප අමාත්‍යංශය වගකීමෙන් කටයුතු කිරීම නිසා එම අවධානම මේ වන විට සම්පූර්ණයෙන්ම පහව ගොස් තිබෙනවා. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නිවැරදි නායකත්වයෙන් යුතුව අමාත්‍ය මණ්ඩලය ප්‍රමුඛ ආණ්ඩුව රට අර්බුදයෙන් ගොඩ ගැනීමට කැපවීමෙන් කටයුතු කළා.
+
+...
+
+[Data](articles/7156ee77.json)
 
 ---
 
@@ -1652,7 +1732,9 @@ He made these comments during the opening ceremony of the International Industry
 
 He also said that the government is expected to reach an agreement with the Sri Lanka’s creditor nations within the next few weeks.
 
-◼️
+Wickremesinghe announced the establishment of a new development bank aimed at providing financial support to industrialists in Sri Lanka. This initiative will offer industrialists the opportunity to obtain loans at low interest rates.
+
+...
 
 [Data](articles/eb9216ec.json)
 
@@ -2295,107 +2377,5 @@ No none of the motor vehicle has not been injured and the motor vehicle has dama
 [Data](articles/c98b5b55.json)
 
 [Extended Data](ext_articles/c98b5b55.ext.json)
-
----
-
-### Natasha and Bruno acquitted Natasha and Bruno from claim to insult Buddhism
-
-*2024-06-19 09:08:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgee7z0e98zo) · `si`
-
-Natasha Ediruriya and Bruno Luckkee were acquitted by the Fort Magistrate's Court on charges of insulting Buddhism, based on statements made during a standard program. The Criminal Investigation Department's Cyber ​​Criminal Investigation Unit arrested Natasha Elepura, preparing to travel to Singapore, and later Bruno Parkkels. Both were released on bail, with Natasha being released on a personal bail of Rs. The case highlighted concerns over the misuse of laws and the need for legal education among authorities.
-
-🟩
-
-Natasha and Bruno acquitted Natasha and Bruno from claim to insult Buddhism
-
-The Fort Magistrate's Court today (on June 18) ordered the release of the owner of Bruno Luckkee.
-
-Natasha Ediruriya and Bruno was base for the statements that said they were conducted during a standard program, which was conducted in a standard program.
-
-The Criminal Investigation Department Cyber ​​Criminal Investigation Unit was arrested by Natasha elepura, who was preparing to travel to Singapore on May 28 last year.
-
-After calling the CID to record the CID, Bruno Parkkels were called on May 31, last year.
-
-Natasha Elderies and Bruno Day was filed by Natasha Ediruri and Bruno Day on charges of 'insulting Buddhism' and supporting it.
-
-Rev.
-
-The Young Journalists Association (IGP) was sent to the IGP not to submit a letter under the Convention on the Civil and Political Rights (CID).
-
-...
-
-[Data](articles/9127a90e.json)
-
-[Extended Data](ext_articles/9127a90e.ext.json)
-
----
-
-### Russian President visits North Korea
-
-*2024-06-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197907) · `si`
-
-In his first foreign trip post-election victory, Russian President Putin visited North Korea, meeting with leader Kim Jong Un. This marks Putin's second visit to North Korea in 24 years. The US expressed concern over the strengthening ties between Russia and North Korea, while Kremlin announced plans for a support agreement covering security matters.
-
-🟩
-
-This is the first foreign visit to the Russian President after the president's victory and Putin President is traveling in North Korea for 24 years.
-
-The Russian president had welcomed the Russian President and received the North Korean leader Kim Jon.
-
-The two heads of state have been found in Russia last September, according to foreign reports.
-
-US have said that he is worried about the relationship between Russia and North Korea.
-
-The Kremlyn has said that Russian President Vladimir Putin and Kim Jank are due to sign a support agreement, including a security issues.
-
-◼️
-
-[Data](articles/0648228d.json)
-
-[Extended Data](ext_articles/0648228d.ext.json)
-
----
-
-### Vavuniya - What is the position of the people?
-
-*2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ந்தது-வவுனியா-மக்களின்-நிலைப்பாடு-என்ன/175-339110) · `ta`
-
-In Vavuniya, residents experienced a 2.3 magnitude earthquake, causing shockwaves and rattling windows and doors. The quake occurred around 11:01 pm, leaving locals startled.
-
-🟩
-
-According to the Geological Survey, Land Survey and Mining Bureau, there were 2.3 magnitude earthquakes in several villages of Vavuniya and Madhavachi.
-
-People are shocked by the noise of the windows and doors in their homes for a few seconds.
-
-Meanwhile, the earthquake struck at around 11.01pm last night. Remble
-
-◼️
-
-[Data](articles/858ac272.json)
-
-[Extended Data](ext_articles/858ac272.ext.json)
-
----
-
-### Experience is new: Vavuniya people
-
-*2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-புதிது-வவுனியா-மக்கள்/175-339110) · `ta`
-
-Villages in Vavuniya and Madhavachi experienced a 2.3 magnitude earthquake, causing shock among residents due to the sudden noise from windows and doors. The quake occurred at 11.01 pm, adding to the surprise and concern of the locals.
-
-🟩
-
-According to the Geological Survey, Land Survey and Mining Bureau, there were 2.3 magnitude earthquakes in several villages of Vavuniya and Madhavachi.
-
-People are shocked by the noise of the windows and doors in their homes for a few seconds.
-
-Meanwhile, the earthquake struck at around 11.01pm last night. Remble
-
-◼️
-
-[Data](articles/b65c7c15.json)
-
-[Extended Data](ext_articles/b65c7c15.ext.json)
 
 ---

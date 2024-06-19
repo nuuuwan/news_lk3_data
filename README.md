@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 05:37:04**
+As of **2024-06-19 07:01:36**
 
 ## Newspaper Stats
 
-*Scraped **31,028** Articles*
+*Scraped **31,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ colombotelegraphcom | 283
 dbsjeyarajcom | 285
 bbccomsinhala | 303
 newsfirstlk | 363
-islandlk | 1,693
+islandlk | 1,694
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,645
+tamilmirrorlk | 3,646
 dailymirrorlk | 4,733
-virakesarilk | 4,779
+virakesarilk | 4,784
 adaderanasinhalalk | 5,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,025 (100.0%) of 31,028 articles have been extended.
+31,029 (100.0%) of 31,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Recently, the Financial Times columnist Gideon Rachman wrote a piece titled “A
 
 [Data](articles/acdc2914.json)
 
+[Extended Data](ext_articles/acdc2914.ext.json)
+
 ---
 
 ### Are we ready for the parate party to come to an end?
@@ -60,6 +62,8 @@ However, the GoSL and Central Bank directed banks to provide relief to industrie
 
 [Data](articles/43e55524.json)
 
+[Extended Data](ext_articles/43e55524.ext.json)
+
 ---
 
 ### Adani Wind Power Project: Making a curvy record straight needs more effort than quoting tweets
@@ -75,6 +79,8 @@ Adani would have thought Sri Lanka has no energy economists or power system engi
 ...
 
 [Data](articles/3763ee21.json)
+
+[Extended Data](ext_articles/3763ee21.ext.json)
 
 ---
 
@@ -291,6 +297,116 @@ Wijewardane appreciated China’s assistance to Sri Lanka during challenging tim
 [Data](articles/4299d9b2.json)
 
 [Extended Data](ext_articles/4299d9b2.ext.json)
+
+---
+
+### வேலையற்ற பட்டதாரிகளின் போராட்டம் : வீதியில் சென்ற வாகனங்கள் மீதும் இலக்கு தவறிய பொலிஸாரின் கண்ணீர் புகை குண்டு தாக்குதல்
+
+*2024-06-19 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186415) · `ta`
+
+பொல்துவ சந்தியிலிருந்து பாராளுமன்ற வீதிக்குள் நுழைய முற்பட்ட வேலையற்ற பட்டதாரிகளின் போராட்டம் செவ்வாய்க்கிழமை (18) இடம்பெற்றுள்ளது.
+
+குறித்த ஆர்ப்பாட்டத்தின் மீது பொலிஸார் நீர் மற்றும் கண்ணீர் புகை குண்டுகளை வீசி தாக்குதல் நடத்தியிருந்தனர்.
+
+சகல வேலையற்ற பட்டதாரிகளுக்கும் உடனடியாக  தொழில் வழங்குமாறு கோரி பத்தரமுல்லை தியத உயன முன்பாக செவ்வாய்க்கிழமை (18) பிற்பகல் வேலையற்ற பட்டதாரிகள் குழுவொன்று ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+ஆனால், போராட்டக்காரர்கள் கலைந்து செல்லாததால் பொலிஸார் கண்ணீர் புகை குண்டுகளை வீசி தாக்குதலை மேற்கொண்டனர்.
+
+இதன்போது, வீதியில் செல்லும் கார்கள் மற்றும் மோட்டார் சைக்கிள்கள் மீதும் நீர்த்தாரை தாக்குதல் மேற்கொள்ளப்பட்டிருந்தமை குறிப்பிடத்தக்து.
+
+◼️
+
+[Data](articles/5318da41.json)
+
+---
+
+### இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் தமிழ்த் தலைவர்களுடன் முக்கிய சந்திப்பு
+
+*2024-06-19 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186414) · `ta`
+
+இலங்கைக்கு எதிர்வரும் 20ஆம் விஜயம் மேற்கொள்ளும் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி.சுப்ரமணியம் ஜெய்சங்கர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, பிரதமர் தினேஷ் குணவர்த்தன, வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி ஆகியோரைச் சந்திக்கவுள்ளார்.
+
+அதனைத்தொடர்ந்து அவர் எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச, வடக்கு,கிழக்கு தமிழ்க் கட்சிகளின் தலைவர்களையும், மலையகக் கட்சிகளின் தலைவர்களையும் சந்திக்கவுள்ளார். அத்தோடு முஸ்லிம் கட்சிகளின் பிரதிநிதிகளையும் சந்திக்கவுள்ளார்.
+
+இந்திய பாராளுமன்றத் தேர்தல்கள் நிறைவடைந்ததன் பின்னர் மீண்டும் வெளிவிவாகார அமைச்சர் பதவியை ஏற்றுள்ள காலநிதி. சுப்ரமணியம் ஜெய்சங்கர் இலங்கைக்கு மேற்கொள்ளும் முதலாவது விஜயம் இதுவாகும்.
+
+இந்த விஜயத்தின் போது, இலங்கையில் இந்தியாவின் முதலீடுகள் மற்றும் இருதரப்பு உறவுகள் உட்பட பரஸ்பர ஒத்துழைப்புக்கள் தொடர்பில் கவனம் செலுத்தப்படவுள்ளதாக இந்திய வெளிவிவகார அமைச்சின் தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/b0d0cfb5.json)
+
+---
+
+### அதிக வருமானம் ஈட்டுவோருக்கே வாடகை வரி  விதிக்கப்படும் - ஜனாதிபதி சபையில் தெரிவிப்பு
+
+*2024-06-19 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186413) · `ta`
+
+முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர். சாதாரண வருமானம் ஈட்டுபவர்களுக்கு அன்றி, அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும். எனவே ஒரு வீடு உள்ள நீங்கள் பயப்பட வேண்டியதில்லை ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) உத்தேச வாடகை வரி தொடர்பில் விளக்கமளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நிதிப் பிரச்சினைகள் விவாதிக்கப்பட்டபோது நான் பாராளுமன்றத்தில் இல்லாததால், நிதியமைச்சர் என்ற முறையில், வாடகை வருமான வரி குறித்து பாராளுமன்றத்துக்குத் தெரிவிக்க விரும்புகிறேன்.
+
+இதில் மிக அதிக வருமான வரம்பு உள்ளது. நாட்டில் உள்ள 90வீத வீடுகளுக்கு இது பொருந்தாது.எனவே ஒரு வீடு உள்ள நீங்கள் பயப்பட வேண்டியதில்லை. உங்கள் வீடு பாதுகாப்பாக உள்ளது. இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் தங்கள் வீடுகளைப் பற்றி பயப்பட வேண்டியதில்லை
+
+ஆனால் நாம் செல்வ வரியை அமுல்படுத்த வேண்டும். ஐக்கிய மக்கள் சக்தி வருத்தப்படுவதை நான் அறிவேன். அவர்களுடன் இருக்கும் கோடீஸ்வரர்களை இந்த வரி பாதிக்கிறது என்பதுதான் காரணம் என்று நினைக்கிறேன்.
+
+...
+
+[Data](articles/3c8ee6b9.json)
+
+---
+
+### ’ஆண்களுக்கு நிகரான உரிமைகள் பெண்களுக்கும்’
+
+*2024-06-19 02:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்களுக்கு-நிகரான-உரிமைகள்-பெண்களுக்கும்/175-339106) · `ta`
+
+ஆண்களுக்கு நிகரான உரிமைகளை பெண்களுக்கும் வழங்குவதே அரசாங்கத்தின் நோக்கமாகும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் புதிய மறுசீரமைப்பின் கீழ் நியமிக்கப்பட்டுள்ள பிராந்திய அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு நேற்று சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது.
+
+இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஐக்கிய தேசியக் கட்சியின் மறுசீரமைப்பு வேலைத்திட்டத்தின் கீழ் நியமிக்கப்பட்ட புதிய பிராந்திய அமைப்பாளர்களுக்கான நியமனக் கடிதங்களை வழங்கும் இரண்டாம் கட்ட நிகழ்வில் இன்று கலந்துகொள்வதில் மகிழ்ச்சியடைகிறேன்.
+
+...
+
+[Data](articles/36b4398b.json)
+
+---
+
+### தெரிவுக்குழு அமைப்பதில் உடன்பாடு இல்லை; எதிர்க்கட்சித் தலைவர் சஜித் சபையில் தெரிவிப்பு
+
+*2024-06-19 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186412) · `ta`
+
+உயர் நீதிமன்றம் வழங்கிய முடிவுகளை ஆராய தெரிவுக் குழு நியமிப்பதில் எமக்கு உடன்பாடில்லை. குறைபாடுகள் இருப்பின் வேறு ஏற்றுக்கொள்ளத்தக்க சட்டரீதியான ஏற்பாடுகள் ஊடாக இந்தக் குறைபாடுகளை நிவர்த்தி செய்ய வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாலின சமத்துவம்  சட்டமூலம் தொடர்பிலான உயர் நீதிமன்றத்தின் வியாக்கியானதை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன செவ்வாய்க்கிழமை (18) சபைக்கு அறிவித்த பின்னர், அதுதொடர்பில்  ஜனாதிபதி தெரிவித்த கூற்று தொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+எமது நாட்டின் முத்தரப்பு ஜனநாயக கட்டமைப்பில், நிறைவேற்று அதிகாரி, சட்டவாக்கம் மற்றும் நீதித்துறை ஆகிய மூன்று நிறுவனங்களிலும் தடைகள் மற்றும் சமன்பாடுகள் முறையும், அதேபோல் இவற்றுக்கிடையே அதிகாரப் பகிர்வும் மேற்கொள்ளப்பட்டுள்ளன. உயர் நீதிமன்றம் வழங்கிய தீர்ப்பில் குறைபாடுகள் இருப்பின், தடைகள் மற்றும் சமன்பாடுகள் முறைக்கு பாதிப்பு ஏற்படாத வகையிலேயே இது திருத்தப்பட வேண்டும்
+
+...
+
+[Data](articles/db67f33e.json)
+
+---
+
+### கடல் நீரில் மூழ்கிய இளைஞன்; ஆபத்தான நிலையில் மீட்பு!
+
+*2024-06-19 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186411) · `ta`
+
+பாசிக்குடா கடலில் நீராடிய இளைஞன் ஒருவன் நீரில் மூழ்கிய நிலையில் காப்பாற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+காத்தான்குடி பகுதியைச் சேர்ந்த நண்பர்கள் செவ்வாய்க்கிழமை (18)  பாசிக்குடா கடலில் நீராடிக் கொண்டிருந்த போது 21 வயதுடைய இளைஞன் ஒருவர் நீரில் மூழ்கியுள்ளார்.
+
+நீரில் மூழ்கிய இளைஞனை பாசிக்குடா கடற்படையினர், பொலிஸார் ஆபத்தான நிலையில் மீட்டு வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+நீரில் மூழ்கிய இளைஞன் கூடுதலாக நீர் அருந்தியதில் மேலதிக சிகிச்சைக்காக மட்டக்களப்பு போதனா வைத்தியசாலைக்கு இடமாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b97ff441.json)
 
 ---
 
@@ -2235,157 +2351,5 @@ Bernard Staffon, Managing Director of Nestle Fernando, Nestle Fernando, Nestle L
 [Data](articles/cfee71d8.json)
 
 [Extended Data](ext_articles/cfee71d8.ext.json)
-
----
-
-### Principal arrested for a fatal accident
-
-*2024-06-18 13:09:20* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-රිය-අනතුරක්-කළ-විදුහල්පතිවරයෙක්-අල්ලයි/11-410287) · `si`
-
-A principal was arrested for a fatal accident on the Kandy-Kurunegala road near the Ughivawala Dharmaodaya Vihara. The incident occurred at the pavilion in front of this location. Further investigations are being conducted by the Katugastota Police under the guidance of Chief Inspector R. C. Ranaweera.
-
-🟩
-
-Katugastota Police say a scholarship of the Nugaswela Police say that a woman has been arrested in a car accident in the Kandy-Kurunegala road.
-
-The police said that the accident had occurred at the pavilion in front of the Ughivawala Dharmaodaya Vihara in the Kandy road.
-
-The Principal was to be produced before courts today (18), and Katugase OIC Chief Inspector R. C. OIC Inspector OIC Inspector Ranaweera and a police team is conducting further investigations on the instructions of Rajapaksa.
-
-◼️
-
-[Data](articles/a55c6fcc.json)
-
-[Extended Data](ext_articles/a55c6fcc.ext.json)
-
----
-
-### Application for appointing a member of the National Police Commission
-
-*2024-06-18 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186361) · `ta`
-
-Applications are sought for a National Police Commission member vacancy, per Article 155A of Sri Lanka's Constitution. Applicants must not be current or former Members of Parliament, Councils, Local Governments, State Officers, or Justice Officers. Applications must be submitted via the parliamentary website (www.parliament.lk) under the "DeBA" section for National Police Commission appointments. Completed applications should be posted by July 1, 2024, to the Constitutional Council's Secretary General at the Sri Lanka Parliament office in Kotte.
-
-🟩
-
-Applications are requested to fill the vacuum of a member of a member of the National Police Commission. As stated in the Article 155 A of the Constitution of the Democratic Socialist Republic of Sri Lanka, no one who is a member of Parliament, Member of the Council and a Local Government Authority will be a member of the National Police Commission.
-
-Moreover, before the appointment of a member of the Commission, no one who was a State Officer or Justice Officer in the State Service, before his appointment, should be taken from such positions, and is not eligible to further be appointed as a public officer or judicial officer.
-
-Accordingly, the application form must be prepared on the speedy connection of the appointment of members of the National Police Commission (DeBA) on the parliamentary website www.parliament.lk.
-
-...
-
-[Data](articles/c3ea1396.json)
-
-[Extended Data](ext_articles/c3ea1396.ext.json)
-
----
-
-### Our sea for banned with Indian fishermen
-
-*2024-06-18 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197881) · `si`
-
-In recent months, over 180 Indian fishermen have been detained, along with 24 fishing boats, primarily in the Jaffna sea area. This action was taken by authorities, leading to the vessels and their crews being transported to the Kankesanthurai port.
-
-🟩
-
-More than 180 Indian fishermen have been arrested in the past few months.
-
-According to the Navy, 182 Indian fishermen have been arrested for several months.
-
-Also, 24 fishing boats have been taken into custody.
-
-Four Indian fishermen have arrested four Indian fishermen during the sea area in Jaffna.
-
-The fishermen who came from the fishermen were also taken into custody.
-
-The fishermen vessel and its fishermen were brought to the port of the Kankesanthurai.
-
-◼️
-
-[Data](articles/edfea55b.json)
-
-[Extended Data](ext_articles/edfea55b.ext.json)
-
----
-
-### Special notice to pilgrims of Poson visited Rajarata
-
-*2024-06-18 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197880) · `si`
-
-Wawest Rahula Thero, the founder of National Namal Uyana, appeals to pilgrims during Poson Poya in Rajarata, urging them to avoid plastic and engage in spiritual activities. He highlights the significance of Poson Poya, emphasizing environmental responsibility and the importance of Buddhism in Sri Lanka.
-
-🟩
-
-The Founder of the National Namal Uyana, the Founder of the National Namal Uyana has made a special request to pilgrims visiting pilgrims in pilgrimage to Rajarata in view of the Poson Poya.
-
-Sri Lanka is overflowing with all the people of the major temples, such as the Mahirhetra Poson Poya Day in Anuradhapura.
-
-The pilgrims of the pilgrimage are urged to do not work out of their polythene.
-
-The Founder of Namal Uyana, said he said, Wawest Rahula Thero,
-
-"The Poson event is the main festival of this country. Mihindhe Maha Rahan brought the Buddhist philosophy to this country, the greatest Poson Poya Day. That day is the special day of Rajarata. I request a request at this time. All these people in this country are Buddhist, Catholic. Don't bring polythene. Come out of polythene and come to worship. It is not possible to set up committees with the assistance of the security forces under the patronage of the Chief Justice of Anuradhapura.. Poson Poya as a Program of the Spirit of People
-
-◼️
-
-[Data](articles/dcdbf182.json)
-
-[Extended Data](ext_articles/dcdbf182.ext.json)
-
----
-
-### Ten pathole of property in the house
-
-*2024-06-18 12:42:01* · [`adalk`](https://www.ada.lk/breaking_news/වයෝවෘද-කාන්තාවට-දස-වද-දී-නිවසේ-දේපළ-කොල්ලකාලා/11-410285) · `si`
-
-Wadduwa Police investigate theft of trees and money from a house. A 64-year-old woman was assaulted and robbed by two unknown individuals, who then took her to the hospital.
-
-🟩
-
-The Wadduwa Police are conducting further investigations on a pardon of the trees and mouths were stolen in the house and the mouths of a household.
-
-A 64-year-old woman resident of the Wadduwa Girl Road has been launched by a complaint by a 64-year-old woman.
-
-The complainant woman had been on the home, and two unidentified people have been tied up with a knife, police said.
-
-The suspects have been instructed to hospital and her mouth was injured and hospitalized has been admitted to hospital.
-
-◼️
-
-[Data](articles/86486bc4.json)
-
-[Extended Data](ext_articles/86486bc4.ext.json)
-
----
-
-### Another woman who has defrauded foreign employment
-
-*2024-06-18 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197879) · `si`
-
-A woman in Gampola, Sri Lanka, was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment for allegedly defrauding job seekers by promising them employment in Qatar and Dubai but failing to provide the jobs. The bureau received several complaints about her actions. She was previously charged by the Gampola Police and later arrested after further investigation. The suspect was remanded until today, and the bureau advises job seekers to verify information through official channels.
-
-🟩
-
-A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (Special Investigation Division) in the Gampola area.
-
-The Bureau has received seven complaints that a woman in Gampola has been given jobs and has not provided jobs as promised, claiming that Qatar was provided with jobs including Qatar, Dubai.
-
-Earlier, Gampola Police have filed a case against her in court.
-
-The Foreign Employment Bureau said that the woman was arrested and interrogated after the assistance of Gampola police station.
-
-Other persons who had been paid the woman after the arrest were taken into the Gampola police.
-
-The Bureau's Special Investigation Division is to be investigated in the future.
-
-The suspect was produced before the Gampola Magistrate's Court yesterday (17) and remanded until this day.
-
-...
-
-[Data](articles/4f832bc1.json)
-
-[Extended Data](ext_articles/4f832bc1.ext.json)
 
 ---

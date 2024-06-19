@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 02:34:35**
+As of **2024-06-20 02:53:21**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,190 (100.0%) of 31,192 articles have been extended.
+31,192 (100.0%) of 31,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ’இழுவை மடிவலை பயன்பாடு அதிகரிப்பு’
+### Model Traction Folding Increase Increase
 
 *2024-06-20 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழுவை-மடிவலை-பயன்பாடு-அதிகரிப்பு/175-339155) · `ta`
 
-மீன்பிடி நடவடிக்கையின் போது இழுவை மடிவலை பயன்பாட்டுக்கு தடை விதிக்கப்பட்டுள்ள போதும், யாழ். மாவட்டத்தில் சில இடங்களில் சட்டத்தை மீறி அந்த வலை பயன்படுத்தப்படுவதாக முறைப்பாடுகள் கிடைப்பதாகவும், இது தொடர்பில் கடற்றொழில் அமைச்சர் உரிய கவனம் செலுத்த வேண்டும் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்தார்.
+Opposition Leader Sajith Premadasa criticized the use of trawling nets in the Jaffna district, violating the Aquatic Resources Amendment Act. He urged the Fisheries Minister to address the issue, highlighting concerns raised during parliamentary discussions. The Fisheries Ministry had previously attempted to regulate trawling in other regions but faced criticism for its implementation.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19), கடற்றொழில் அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கோரிக்கை விடுத்துள்ளார்.
+🟩
 
-2017/11ஆம் இலக்க நீரியல்வள திருத்த சட்டத்தின் பிரகாரம் இழுவை மடிவலை தடை செய்யப்பட்டுள்ளது. நாட்டின் ஏனைய பகுதிகளில் இழுவை மடிவலை பாவனையை நிறுத்துவதற்கு கடற்றொழில் அமைச்சு நடவடிக்கை எடுத்துள்ள போதிலும் யாழ் மாவட்டத்தின் பல பகுதிகளில் அந்த இழுவை மடிவலை பயன்படுத்தப்படுவதாக முறைப்பாடுகள் கிடைத்துள்ளன.
+During fishing operations. Opposition Leader Sajith Premadasa has demanded that the web is being used in violation of the law in some parts of the district and that the Minister of Fisheries should pay attention to this.
+
+The Opposition Leader made this statement while addressing the Fisheries Minister in Parliament on Wednesday (19).
+
+According to the Aquatic Resources Amendment Act No. 2017,. Although the Fisheries Ministry has taken steps to halt the traditional use of the traditional areas in the other parts of the country, there have been complaints that the traction is being used in many parts of the Jaffna district.
+
+So will the Minister of Fisheries take action to prevent this?Why is the fisheries officials silent about the use of the drag.. If you have been allowed to do so, you have violated the Aquatic Resources Amendment Act No. 11, 2017. I expect a response from the minister.
 
 ...
 
 [Data](articles/95384dc2.json)
 
+[Extended Data](ext_articles/95384dc2.ext.json)
+
 ---
 
-### காட்டுப் பாதை திறக்கப்படும்
+### The wildfire will be opened
 
 *2024-06-20 01:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்-பாதை-திறக்கப்படும்/175-339154) · `ta`
 
-கதிர்காமத்துக்கான காட்டுப் பாதை எதிர்வரும் 30 ஆம் திகதி திறக்கப்படும். அதனைத் திறந்து வைக்க கிழக்கு ஆளுநர் செந்தில் தொண்டமான் வருகைதரவிருக்கிறார் என  அம்பாறை மாவட்ட அரசாங்க அதிபர் சிந்தக அபேவிக்ரம, தெரிவித்துள்ளார்.
+A wildfire opening ceremony for Kadirgamam, led by Eastern Governor Senthil Thondaman, is scheduled for the 30th of this month. This follows a demand from Hindu temple unions, represented by figures like E. Jeganathan, for the reopening of a forest road, which was addressed by Ampara District Government Agent Sindhaka Abeywickrama.
 
-தன்னைச் சந்தித்த ஆலையடிவேம்பு பிரதேச அனைத்து இந்து ஆலயங்களின் ஒன்றியத்தினரிடம் தெரிவித்தார்.  இச் சந்திப்பு அம்பாறை மாவட்ட செயலகத்தில் செவ்வாய்க்கிழமை (18)  நடைபெற்றது.
+🟩
 
-ஆலையடிவேம்பு பிரதேச அனைத்து இந்து ஆலயங்களின் ஒன்றிய தலைவர் மு.வடிவேல் செயலாளர் எஸா.செல்வானந்தன் பொருளாளர் இ.ஜெகநாதன்( குமார்) உள்ளிட்ட பிரதிநிதிகள் கலந்து கொண்டனர்.
+The wildfire for Kadirgamam will be opened on the 30th of this month. Eastern Governor Senthil Thondaman will visit it to open it, said Ampara District Government Agent Sindhaka Abeywickrama.
 
-அதன் போது குழுவினர் பத்து நாட்களுக்கு முன்னரே அதாவது 25 ஆம் திகதி காட்டுப் பாதை திறக்கப்பட வேண்டும் எனக் கோரிக்கை விடுத்தனர்.
+Alayadivembu met with him and told the union of all Hindu temples.The meeting was held at the Ampara District Secretariat on Tuesday (18).
 
-அதற்கு பதிலளித்த அரசாங்க அதிபர் சிந்தக அபேவிக்ரம,  மேற்படி காட்டுப்பாதை 30 ஆம் திகதி திறக்கப்படும் என்றார்.
+Representatives including Treasurer E. Jeganathan (Kumar), Treasurer of the Alayadivembu area, Union President of All Hindu Temple
+
+At the time, the group demanded that the forest road be opened ten days ago.
+
+Responding to this, Government Agent Sindhaka Abeywickrama said the wildfire would be opened on the 30th.
 
 ◼️
 
 [Data](articles/22a95899.json)
+
+[Extended Data](ext_articles/22a95899.ext.json)
 
 ---
 

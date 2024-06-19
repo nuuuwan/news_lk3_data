@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 09:19:18**
+As of **2024-06-19 09:34:45**
 
 ## Newspaper Stats
 
-*Scraped **31,057** Articles*
+*Scraped **31,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,705
 adaderanalk | 3,517
-tamilmirrorlk | 3,648
+tamilmirrorlk | 3,650
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,043
+adaderanasinhalalk | 5,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,057 (100.0%) of 31,057 articles have been extended.
+31,057 (100.0%) of 31,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### இன்று முதல் மழை அதிகரிக்கும் சாத்தியம்
+
+*2024-06-19 09:15:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்-சாத்தியம்/175-339111) · `ta`
+
+இன்று (19) முதல் அடுத்த சில நாட்களில் மழை நிலைமை சற்று அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும்.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில்  அதிகபட்சமாக 75 மி.மீ அளவில் மழை பெய்ய வாய்ப்பு உள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+
+◼️
+
+[Data](articles/0e6cd574.json)
+
+---
+
+### එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් බිහිසුණු අනතුරක
+
+*2024-06-19 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197908) · `si`
+
+හොරණ සිට නුවරඑළිය දක්වා එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදු වී ඇති බව හැටන් පොලීසිය පවසයි.
+
+අනතුර සිදු වී ඇත්තේ හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ හැටන් කුයිල්වත්ත ප්‍රදේශයේ අද (19) අලුයම 5.15ට පමණය.
+
+ධාවනය වෙමින් තිබු මොටර් රථයේ රියදුරුට නින්ද යාම හේතුවෙන් මොටර් රථය මාර්ගයෙන් ඉවතට පැන තේ වත්ත දෙසට පෙරළී අනතුර සිදුව ඇත.
+
+අනතුරෙන් මොටර් රථයේ ගමන් ගත් කිසිවෙකුටත් තුවාල සිදු වී නොමැති අතර, මොටර් රථයට දැඩි අලාභ හානි සිදු වී ඇති බව හැටන් පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/c98b5b55.json)
+
+---
+
+### රුසියානු ජනාධිපති උතුරු කොරියාවේ සංචාරයක
+
+*2024-06-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197907) · `si`
+
+විදෙස් වාර්තා සඳහන් කළේ, ජනාධිපතිවරණ ජයග්‍රහණයෙන් පසුව රුසියානු ජනාධිපතිවරයා සිදුකරන පළමු විදෙස් සංචාරය මෙය වන අතර පුටින් ජනාධිපතිවරයා වසර 24කට පසුව උතුරු කොරියාවේ සිදුකරන සංචාරය මෙය බවය.
+
+එරටට පැමිණි රුසියානු ජනාධිපතිවරයාව ගුවන්තොටුපොළ පැමිණ උතුරු කොරියානු නායක කිම් ජොන් උන් විසින් පිළිගෙන තිබේ.
+
+රාජ්‍ය නායකයන් දෙදෙනා අවසන් වරට පසුගිය සැප්තැම්බර් මාසයේදී රුසියාවේදී හමුවූ බව විදෙස් වාර්තා පවසයි.
+
+රුසියාව සහ උතුරු කොරියාව අතර පවතින සබඳතාව පිළිබඳව තමන් කනස්සල්ලට පත්ව සිටින බව අමෙරිකාව පවසා ඇති බව වාර්තා වේ.
+
+ක්‍රෙම්ලිනය පවසා ඇත්තේ, මිත්‍රශීලී රාජ්‍ය සංචාරයේදී රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් සහ කිම් ජොන් උන් අතර ආරක්ෂක ගැටලු ඇතුළු හවුල්කාරිත්ව ගිවිසුමක් අත්සන් කිරීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/0648228d.json)
+
+---
+
+### அதிர்ந்தது வவுனியா - மக்களின் நிலைப்பாடு என்ன?
+
+*2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ந்தது-வவுனியா-மக்களின்-நிலைப்பாடு-என்ன/175-339110) · `ta`
+
+வவுனியா மற்றும் மதவாச்சியின் பல கிராமங்களில் 2.3 ரிக்டர் அளவில் நில அதிர்வு ஏற்பட்டதாக புவிச்சரிதவியல், நில அளவை மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+
+இதனால் சேதங்கள் ஏதும் ஏற்படாத நிலையில் மக்கள்  தங்களது வீடுகளில் ஜன்னல்கள் கதவுகள் சில நொடிகள் பலத்த சத்தத்துடன் அதிர்ந்ததாக தெரிவிக்கின்றனர்.
+
+இதேவேளை, நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/858ac272.json)
+
+---
 
 ### 7,700 kg of electronic waste in 11 districts
 
@@ -2251,97 +2325,5 @@ The film crew explained the delay, saying, “We do not want to make any comprom
 [Data](articles/fcff644c.json)
 
 [Extended Data](ext_articles/fcff644c.ext.json)
-
----
-
-### Police use the reservoir to dissolve the demonstration!
-
-*2024-06-18 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186362) · `ta`
-
-To disperse a protest by unemployed graduates, police are using the reservoir at Poltuwa junction.
-
-🟩
-
-Police are using the reservoir at the Poltuwa junction to dissolve the demonstration of unemployed graduates.
-
-◼️
-
-[Data](articles/38dfa963.json)
-
-[Extended Data](ext_articles/38dfa963.ext.json)
-
----
-
-### Racism resolution targeting Muslim people - Opposition Leader
-
-*2024-06-18 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186380) · `ta`
-
-Opposition Leader Sajith Premadasa criticized the government for deciding to cremate COVID-19 victims, accusing it of targeting Muslims. He called this the worst racist act in political history, urging the President to address this violation of fundamental rights.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the government had decided to burn the bodies by targeting the Muslim people, while the World Health Organization had said that it would be able to resolve those who died in the Kovit.
-
-In a special speech delivered by the President in Parliament on Tuesday (18), he said in a statement that the new law would take action to avoid such erroneous resolutions in the future, just as the decision to burn the bodies of the dead in the Kovit.
-
-The move by the then government to oppose the bodies of the dead infection was the worst racist act of targeting Muslims in political history.
-
-The government's decision to burn as the World Health Organization said it could plant bodies that died in a kovit.
-
-...
-
-[Data](articles/6b076ac8.json)
-
-[Extended Data](ext_articles/6b076ac8.ext.json)
-
----
-
-### 'Rocket Driver' starring newcomer Vishwant movie first look release
-
-*2024-06-18 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186371) · `ta`
-
-"Rocket Driver," starring newcomer Vishwant, has released its first look. Directed by Sriram Anantha Shankar, it features Vishwant, Naga Vishal, Khadi Ramamurthy, Sunina, Jagan, and more. The film, produced by Anirudh Vallab under Stories by The Shore Company, is set to release in August after post-production."
-
-🟩
-
-The first look of the film 'Rocket Driver' has been released as the hero of the story Vishwant.
-
-Vishwant, Naga Vishal, Khadi Ramamurthy, Sunina, Jagan and many others have starred in the film 'Rocket Driver' directed by debutant Sriram Anantha Shankar.. The film, which has been recorded by Regimal Surya Thomas, has composed the film Kaushik Girish. The film is being produced by producer Anirudh Vallab on behalf of Stories by The Shore Company.
-
-Commenting on the film, the director said, “One of the laments of Otto driver who is self -examining himself as he has been disappointed with his mistakes.. He dreams of changing the world.
-
-Her dream can only be seen. In this case, he sees a roll model in the teens. At that moment a strange incident takes place. It ends in an accident. The story of the film is the unimaginable events. ”
-
-The shooting of the film is completed and the post -shooting technical work is underway. The film crew has said that the film is scheduled to be released in August.
-
-◼️
-
-[Data](articles/02c79766.json)
-
-[Extended Data](ext_articles/02c79766.ext.json)
-
----
-
-### Yall. Tomorrow's vigilante protest
-
-*2024-06-18 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186370) · `ta`
-
-Tomorrow, a protest will be held outside Jaffna's main bus station, condemning the threats against journalist Thambichurai Pradeepan. Despite ongoing police investigations into the arson attacks on his home, no arrests have been made. The Northern Provincial Journalists plan to protest against the attackers, calling for the arrest of the culprits and justice. They invite journalists, intellectuals, activists, politicians, and the public to join the fight.
-
-🟩
-
-A protest will be held in front of the Jaffna main bus station tomorrow (19), condemning the life threatening of Jaffna district journalist Thambichurai Pradeepan.
-
-None of the accused have been arrested by the police as the police have been conducting various investigations into the burning of the house and burning the property of the unidentified people who went to the house of the journalist Thambichurai Pradeepan at midnight on the 13th.
-
-Therefore, the Northern Provincial Journalists will launch a protest against the attack on the attack on the attackers, demanding the arrest of the culprits and the law.
-
-The Northern Provincial Journalists have called for all the journalists, intellectuals, social activists, politicians and the public to participate in the struggle.
-
-◼️
-
-[Data](articles/d6c9bfa1.json)
-
-[Extended Data](ext_articles/d6c9bfa1.ext.json)
 
 ---

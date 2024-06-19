@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 04:53:12**
+As of **2024-06-20 05:04:27**
 
 ## Newspaper Stats
 
-*Scraped **31,204** Articles*
+*Scraped **31,214** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 285
-dbsjeyarajcom | 287
+dbsjeyarajcom | 288
 bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,804
-dailyftlk | 1,899
+dailyftlk | 1,908
 adalk | 2,723
 adaderanalk | 3,534
 tamilmirrorlk | 3,670
@@ -26,83 +26,267 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,198 (100.0%) of 31,204 articles have been extended.
+31,203 (100.0%) of 31,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### பிள்ளைகளுக்கு உகந்த நாட்டை உருவாக்குவேன் - ஜனாதிபதி
+### Shivaan, Renuka appointed to Cold Stores Board
+
+*2024-06-20 04:53:06* · [`dailyftlk`](https://www.ft.lk/business/Shivaan-Renuka-appointed-to-Cold-Stores-Board/34-763260) · `en`
+
+Ceylon Cold Stores PLC has announced the appointment of Shivaan Kang-Isvaran and Renuka Fernando as Independent Non-Executive Directors.
+
+Shivaan Kanag-Isvaran is a Barrister-at-Law of the Lincoln’s Inn (2000), a Graduate in Law from the University of Warwick (1998) and holds a Masters in Law in International Business Law from the London School of Economic and Political Science (1999). He is an Attorney-at-Law of the Supreme Court of Sri Lanka (2002).
+
+He has an extensive practice on the civil side in both the original and appellate Courts and specialises in several areas of law including Constitutional law, Corporate Law, Intellectual Property Law, Banking and Finance Law, Telecommunication Law and Tax Law.
+
+He also specialises in International Commercial Arbitration, where he has represented clients both locally and internationally and has experience advising in connection with infrastructure and construction projects.
+
+...
+
+[Data](articles/df114f23.json)
+
+---
+
+### DigiEcon 2024 Investment Summit promises remarkable line-up of speakers from diverse industries
+
+*2024-06-20 04:50:44* · [`dailyftlk`](https://www.ft.lk/business/DigiEcon-2024-Investment-Summit-promises-remarkable-line-up-of-speakers-from-diverse-industries/34-763259) · `en`
+
+The DigiEcon 2024 Investment Summit, Sri Lanka’s premier technology and investment event organised by the Ministry of Technology and powered by Mastercard, is gearing up to host a remarkable line-up of speakers this year.
+
+The highly anticipated summit, scheduled for 25 June, promises to unlock invaluable insights and power strategic alliances that will provide a platform to redefine success in the digital economy.
+
+The Summit’s comprehensive agenda explores some of the most pressing issues and emerging trends shaping the digital economy, such as fintech, artificial intelligence, cybersecurity, and sustainable development among others.
+
+The event will bring together global investors and venture capitalists, entrepreneurs, policymakers, and thought leaders from across the globe to explore investment opportunities and forge collaborations within Sri Lanka’s burgeoning tech industry.
+
+...
+
+[Data](articles/8305bd8d.json)
+
+---
+
+### Commonwealth Chamber of Commerce Chief visits BOI
+
+*2024-06-20 04:49:15* · [`dailyftlk`](https://www.ft.lk/business/Commonwealth-Chamber-of-Commerce-Chief-visits-BOI/34-763258) · `en`
+
+Commonwealth Chamber of Commerce Chairperson Julia Charlton on Monday met with the Board of Investment Chairman Dinesh Weerakkody and officials as well as those of the Colombo Port City to explore potential investment opportunities and to organise a high level business delegation to Sri Lanka. Commonwealth and Enterprise Council Member Niro Cooke and Commonwealth Chamber of Commerce’s Lawyer Ankita Yadav participated in the meeting.
+
+◼️
+
+[Data](articles/33ee6e1b.json)
+
+---
+
+### Asia Logistics Forum 2024 in Colombo on 27 June
+
+*2024-06-20 04:48:09* · [`dailyftlk`](https://www.ft.lk/business/Asia-Logistics-Forum-2024-in-Colombo-on-27-June/34-763257) · `en`
+
+The Asia Logistics Forum (ALF) 2024 is set to take place on 27 June at the Cinnamon Grand Hotel in Colombo.
+
+ALF is supported by Gensoft as the Gold sponsor, Hayleys Advantis and Iconiq Capital as the Silver sponsors and Wijeya Newspapers as the exclusive print partner. This marquee event, organised by Iconiq Events in collaboration with Gensoft Ltd., promises to be a hub for industry leaders and innovators shaping the future of South Asian logistics.
+
+The inaugural ALF in 2018 drew over 200 delegates, fostering a vibrant space for knowledge sharing and collaboration. This year’s edition aims to replicate that success, attracting a similar number of participants eager to propel the logistics sector forward.
+
+The forum’s core mission is to bridge the gap between key players in South Asia’s logistics industry. By fostering knowledge exchange and collaboration, ALF aims to accelerate the growth and development of the sector, ultimately playing a pivotal role in regional economic progress.
+
+...
+
+[Data](articles/37dba8f1.json)
+
+---
+
+### FCCISL President invited to speak at MCCI MSME International Conference 2024
+
+*2024-06-20 04:47:51* · [`dailyftlk`](https://www.ft.lk/business/FCCISL-President-invited-to-speak-at-MCCI-MSME-International-Conference-2024/34-763256) · `en`
+
+Federation of Chambers of Commerce and Industry of Sri Lanka President Keerthi Gunawardane
+
+The Merchants’ Chamber of Commerce & Industry (MCCI), in collaboration with the Ministry of MSME, Government of India, has extended an invitation to Federation of Chambers of Commerce and Industry of Sri Lanka President Keerthi Gunawardane, to speak at the MCCI MSME International Conference 2024. This prestigious event will be held on 27 June at 10:30 a.m. at the Dhono Dhanyo Auditorium in Kolkata.
+
+The conference, themed “Empowering MSMEs for Sustainable Development,” coincides with World MSME Day, as designated by the United Nations General Assembly. This day celebrates the vital role of Micro, Small, and Medium Enterprises (MSMEs) and raises awareness of their substantial contributions to the global economy.
+
+...
+
+[Data](articles/8e76a0b6.json)
+
+---
+
+### Court clears Nathasha Edirisooriya and Bruno Diwakara of ICCPR Act charges
+
+*2024-06-20 04:45:18* · [`dailyftlk`](https://www.ft.lk/news/Court-clears-Nathasha-Edirisooriya-and-Bruno-Diwakara-of-ICCPR-Act-charges/56-763255) · `en`
+
+Stand up comedienne Nathasha Edirisooriya and SL VLOG Youtube channel owner Bruno Diwakara were released yesterday by the Fort Magistrates Court from the case filed against them under the International Covenant on Civil and Political Rights (ICCPR) Act.
+
+The Police arrested Edirisooriya on 28 May 2023 for allegedly making controversial statements on Buddhism during her segment at a stand-up comedy show in Colombo.
+
+She was detained by the Criminal Investigation Department (CID) at Bandaranaike International Airport (BIA) in Katunayake as she prepared to leave the country.
+
+Diwakara was arrested on 31 May 2023, after his YouTube channel ‘SL VLOG’ posted a viral video of Edirisooriya’s performance. Diwakara was interrogated for over eight hours before being taken into custody. He was released on bail by the court on 21 June, while Edirisooriya was granted bail on 5 July after filing a petition with the Colombo High Court.
+
+...
+
+[Data](articles/a5dd4cab.json)
+
+---
+
+### India’s External Affairs Minister in town today
+
+*2024-06-20 04:43:07* · [`dailyftlk`](https://www.ft.lk/news/India-s-External-Affairs-Minister-in-town-today/56-763254) · `en`
+
+The External Affairs Minister of India Dr. Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on 20 June 2024.
+
+During this visit, the External Affairs Minister of India is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Ali Sabry at the Foreign Affairs Ministry.
+
+Minister Jaishankar will be accompanied by senior officials of the External Affairs Ministry of India.
+
+◼️
+
+[Data](articles/69e818bc.json)
+
+---
+
+### SLFP elects Nimal Siripala as Chairperson
+
+*2024-06-20 04:41:23* · [`dailyftlk`](https://www.ft.lk/news/SLFP-elects-Nimal-Siripala-as-Chairperson/56-763253) · `en`
+
+The Sri Lanka Freedom Party (SLFP) Executive Committee yesterday unanimously elected Minister Nimal Siripala de Silva as the party’s Chairperson and MP Duminda Dissanayake as the SLFP General Secretary, marking a significant development in the party’s ongoing internal struggles.
+
+Ports, Aviation and Shipping Minister Nimal Siripala de Silva, was initially appointed as the SLFP Acting Chairman by a faction supporting him in April at a special politburo meeting held without the participation of SLFP leader Maithripala Sirisena. This meeting, held at the Sri Lanka Foundation Institute, was attended by former President Kumaratunga, who also secured an interim injunction preventing Sirisena from functioning as the SLFP Chairperson.
+
+...
+
+[Data](articles/af9a347e.json)
+
+---
+
+### CoPF receives Independent Remuneration Committee report on CBSL salary hike
+
+*2024-06-20 04:39:41* · [`dailyftlk`](https://www.ft.lk/news/CoPF-receives-Independent-Remuneration-Committee-report-on-CBSL-salary-hike/56-763252) · `en`
+
+The Committee on Public Finance (CoPF) Chairman and MP Dr. Harsha de Silva yesterday informed Parliament that the report of the Independent Remuneration Committee appointed by President Ranil Wickremesinghe to review the salary increase of officials at the Central Bank of Sri Lanka (CBSL) has been received.
+
+Addressing the House, he said that the report has pointed out that the salary increase of CBSL officials should not have been implemented.
+
+The Central Bank came under Parliamentary fire over the steep salary hike. In response to the mounting pressure from MPs and the CoPF, on 1 April President Wickremesinghe, in his capacity as the Finance Minister appointed an Independent Remuneration Committee to review the salary increase of the Central Bank officials. The Committee members include; Dinesh Stephen Weerakkody, Arjuna Herath, Dr. Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S. Wijesinha and Duminda Hulangamuwa.
+
+◼️
+
+[Data](articles/3c988fa3.json)
+
+---
+
+### I will create a country that will be for children - the president
 
 *2024-06-20 04:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186511) · `ta`
 
-ஜனாதிபதி என்ற வகையில் இந்த நாட்டில் எந்த ஒரு பிள்ளையும் பாதிக்கப்படக் கூடாது என தீர்மானித்துள்ளதாகவும், இரண்டு வருட குறுகிய காலத்தில் பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்பதற்காக தன்னை அர்ப்பணித்துள்ளதாகவும் ஜனாதிபதி வலியுறுத்தினார்.
+President Ranil Wickremesinghe announced a country dedicated to children, emphasizing economic recovery and educational support. The Presidential Scholarship Program aims to aid 60 students monthly with 6,000 rupees each, benefiting grades 1-11 across 10,126 schools. This initiative is part of broader efforts to restore the nation's economy, provide land rights, and ensure quality education for all children.
 
-ஜனாதிபதி புலமைப்பரிசில் வழங்கும் நிகழ்வு இன்று அலரி மாளிகையில் நடைபெற்றது. இந்த  நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-மக்களுக்கு வருமானம் வழங்குவதற்காக 'அஸ்வெசும' வேலைத்திட்டமும் காணி உரிமையை வழங்க உறுமய வேலைத்திட்டமும் அமுல்படுத்தப்பட்டதாக தெரிவித்த ஜனாதிபதி, பிள்ளைகளுக்கு கல்விஅறிவை வழங்குவதற்காக 'ஜனாதிபதி கல்வி புலமைப் பரிசில் திட்டம்' ஆரம்பிக்கப்பட்டதாகவும் குறிப்பிட்டார்.
+As a president, the President stressed that no child in this country should be affected and that he has dedicated himself to the restoration of the country from the economic crisis in two years.
 
-2022 ஆம் ஆண்டில் (2023), உயர் தரம் கற்கும் 60 மாணவர்களைத் தெரிவு செய்து 100 வலயங்கள் உள்ளடங்கும் வகையில் ஒரு மாணவருக்கு மாதாந்தம் 6 000 ரூபா வீதம்  6000 மாணவர்களுக்கு 02  வருடங்களுக்கு கல்வி உதவித்தொகை வழங்கப்படும்.
+The Presidential Scholarship event was held today at the Alari House. Speaking at the event, President Ranil Wickremesinghe said this.
+
+The President said that the 'Ashewasuma' program and the Urumaya program to provide land rights have been implemented to provide income to the people, and that the Presidential Education Scholarship Program has been launched to provide children with education.
+
+By 2022 (2023), 60 students will be selected and will be given a scholarship of 6,000 students per month for 6,000 rupees per month, including 100 zones.
+
+According to President Ranil Wickremesinghe's project, this scholarship program will be implemented for students who are studying from Grade 1 to Grade 11, including 10,126 schools nationwide.
 
 ...
 
 [Data](articles/f4e48663.json)
 
+[Extended Data](ext_articles/f4e48663.ext.json)
+
 ---
 
-### “கந்துகர தசகய” வின் கீழ் 9,622 மில்லியன் ரூபா செலவில் 97 பிரதேச செயலகப் பிரிவுகளில் 14,088 வேலைத் திட்டங்கள்
+### Under the "Kandukara Dasagaya", 14,088 programs in 97 Divisional Secretariat Divisions at a cost of Rs 9,622 million
 
 *2024-06-20 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186510) · `ta`
 
-யுத்தத்தினால் இடம்பெயர்ந்த மக்களின் வீட்டுத் தேவைகளில் 89% ஐ 2023 இறுதியில் பூர்த்தி செய்யப்பட்டுள்ளது. - நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் செயலாளர் டபிள்யூ. எஸ் சத்யானந்த
+It seems like you've shared a comprehensive update regarding various initiatives and achievements in the field of urban development, housing, and construction in Sri Lanka. This includes updates on housing projects for displaced individuals, financial allocations, the launch of the One Stop Unit for accelerated planning, payments to contractors, and numerous other development programs.
 
-கடந்த அரசாங்கங்களால் பூர்த்தி செய்யப்படாமல் இருந்த அனைத்து வீட்டுத் திட்டங்களின் பணிகளும் உடனடியாக முடிக்கப்படும் - தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் தலைவர் ரஜீவ் சூரியாராச்சி
 
-திட்டமிடல் மற்றும் முதலீட்டு அனுமதியை துரிதப்படுத்த ONE STOP UNIT ஆரம்பிக்கப்பட்டுள்ளது - நகர அபிவிருத்தி அதிகார சபையின் தலைவர் நிமேஷ் ஹேரத்
 
-ஒப்பந்ததாரர்களுக்கு வழங்கப்படவேண்டியிருந்த 200 பில்லியன் ரூபாவுக்கும் அதிகமான நிதி செலுத்தப்பட்டுள்ளது - நிர்மாணக் கைத்தொழில் அபிவிருத்தி அதிகார சபையின் தலைவர் ஆர். எச் ருவினிஸ்
+If you have any specific questions or need further clarification on any part of this information, please let me know how I can assist you further
+
+🟩
+
+89% of the home needs of the displaced people who have been displaced by the war have been completed by the end of 2023. - Secretary of the Ministry of Urban Development and Housing. S Satyananda
+
+All housing projects that have not been completed by the last governments will be completed immediately - the Chairman of the National Housing Development Authority Rajeev Suriyarachchi
+
+One Stop Unit has been launched to accelerate planning and investment permit - Nimesh Herath, Chairman of Urban Development Authority
+
+More than 200 billion rupees to be paid to contractors has been paid - the Chairman of the Construction Industry Development Authority R.. H. Ruvinis
+
+Under the Ten Special Integrated Rural Development Program of the "Kandukara Dasagaya", 14,088 programs have been launched in 97 Divisional Secretariats and the Ministry of Urban Development and Housing has been allocated Rs 9,622 million this year.. S Satyananda said.
 
 ...
 
 [Data](articles/0e26b216.json)
 
+[Extended Data](ext_articles/0e26b216.ext.json)
+
 ---
 
-### தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபா சம்பளத்தை பெற்றுக் கொடுக்க அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும் - ஜீவன் தொண்டமான்
+### Everyone should work together to pay a salary of 1700 rupees for plantation workers - Jeevan Thondaman
 
 *2024-06-20 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186509) · `ta`
 
-தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபா சம்பளத்தை பெற்றுக் கொடுக்க ஆளும், எதிர்க்கட்சி அனைவரும் ஒன்றிணைந்து நடவடிக்கை எடுக்க வேண்டும் என  அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman urges unity among political parties to ensure plantation workers receive a 1700 rupee salary, highlighting the need for action against companies withholding this wage. He criticizes the current salary, equivalent to just over seven dollars, as insufficient and calls for addressing injustices faced by workers, including improper arrests during union activities.
 
-1700 ரூபா சம்பளத்தை வழங்க வேண்டும் என அரசாங்கம் அறிவித்துள்ள போதும் தோட்டக் கம்பனிகள் இதுவரை அதனை வழங்க மறுத்து வருகின்றன. ஆளும் கட்சி, எதிர்க்கட்சி என்றில்லாமல் அனைவரும் இணைந்து தோட்டத் தொழிலாளர்களுக்கு அதனை பெற்றுக் கொடுக்க நடவடிக்கை எடுப்பது அவசியமாகும்.
+🟩
 
-1700 ரூபா சம்பளம் என்பது எந்த வகையிலும் தோட்டத் தொழிலாளர்களுக்கு போதுமானது என நான் கூறவில்லை. என்றாலும் அதையாவது பெற்றுக் கொடுக்க நடவடிக்கை எடுக்கப்பட வேண்டும். தற்போது வழங்கப்படும் ஆயிரம் ரூபா சம்பளம் 2020 ஆம் ஆண்டு நிர்ணயிக்கப்பட்டது. அது சுமார் ஏழு டொலர்கள் ஆகும். அந்த சம்பளமே இன்றும் வழங்கப்படுவது என்பது எத்தளவு அநீதியாகும்.
+Minister Jeevan Thondaman said that all the ruling and opposition parties should take action to pay a salary of 1700 rupees for plantation workers.
 
-அதேவேளை, அண்மையில் தோட்டம் ஒன்றில் தொழிலாளர்களுக்கு இழைக்கப்பட்ட அநீதியில்  தொழிலாளர்களின் சார்பாக நான் சம்பந்தப்பட்டுள்ள நிலையில், சில ஊடகங்கள் அந்த செய்தியை திரிபு படுத்தி வெளியிட்டுள்ளன. அந்தத் தவறு நிவர்த்தி செய்யப்பட வேண்டும்.
+The government has announced that the government has announced a salary of 1700 rupees, but the plantation companies have so far refused to provide it.. It is necessary to take steps to get it to the plantation workers, not the ruling party and the opposition.
 
-...
+I am not saying that the salary of 1700 rupees is sufficient for plantation workers in any way. Steps must be taken to get it, though. Currently a thousand rupees salary was fixed by 2020. That is about seven dollars. How unjust is that the salary is still paid today.
+
+At the same time, as I am involved in the injustice inflicted on workers in a recent garden, some media have released the news.. That mistake must be addressed.
+
+At the same time, the police do not have the authority to arrest workers to carry out union actions. In that way, the plantation management is being treated.
+
+◼️
 
 [Data](articles/fd9d189d.json)
 
+[Extended Data](ext_articles/fd9d189d.ext.json)
+
 ---
 
-### ஊடகவியலாளர் வீட்டின் மீது தாக்குதல் ; கைதான மூவரும் பிணையில் விடுதலை
+### Attack on journalist's house;The three arrested
 
 *2024-06-20 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186508) · `ta`
 
-யாழ்ப்பாணத்தின் ஊடகவியலாளர் வீட்டின் மீது தாக்குதல் மேற்கொண்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட மூவரையும் பிணையில் செல்ல நீதிமன்றம் அனுமதித்துள்ளது.
+Three individuals arrested for attacking journalist Thambichurai Pradeepan's home in Achchuveli, damaging vehicles and setting them on fire. They were granted bail by the court, and the damaged property will be returned to its owners under police supervision.
 
-அச்சுவேலி, பத்தமேனி காளி கோவில் பகுதியில் உள்ள ஊடகவியலாளர் தம்பித்துரை பிரதீபனின் வீட்டின் மீது கடந்த வியாழக்கிழமை அதிகாலை 12.15 மணியளவில்  இரண்டு மோட்டார் சைக்கிள்களில் வந்த ஜந்து பேர் கொண்ட வன்முறைக்கும்பல் தாக்குதல் நடத்தியது.
+🟩
 
-இதன்போது வீட்டிற்கு வெளியே இருந்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கரவண்டி உள்ளிட்ட வாகனங்கள் மற்றும் சொத்துக்கள் ஆயுதங்களால் தாக்கப்பட்டதுடன் தீ வைத்து கொளுத்தப்பட்டது.
+The court has allowed three persons arrested on charges of attacking Jaffna journalist's house.
 
-சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்து வந்த நிலையில் , நேற்றைய தினம் செவ்வாய்க்கிழமை மூவரை கைது செய்துள்ளனர்.
+At around 12.15 am on Thursday morning at around 12.15 am on the house of journalist Thambichurai Pradeepan in the Achchuveli, Pathamani Kali Temple area, a Jandu -based violent gang attacked.
 
-அச்சுவேலி, மாவிட்டபுரம் மற்றும் கிளிநொச்சி ஆகிய பகுதிகளை சேர்ந்த மூன்று இளைஞர்களையே பொலிஸார் கைது செய்து , அச்சுவேலி பொலிஸ் நிலையத்தில் தடுத்து வைத்து தீவிர விசாரணைகளை முன்னெடுத்த பின்னர் இன்றைய தினம் புதன்கிழமை மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்தி இருந்தனர்.
+Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
 
-...
+Police have arrested three people on Tuesday as they are carrying out investigations into the incident.
+
+Police arrested three youths from Achchuveli, Mavittapuram and Kilinochchi and detained them at the Achchuveli police station.
+
+Following the hearing of the court, the court has allowed the three suspects to go on bail.
+
+At the same time, the motorcycle and three -wheeler carried out at the house of the journalist have been allowed to hand over them to the owners after the police have been appointed.
+
+◼️
 
 [Data](articles/9b15a947.json)
+
+[Extended Data](ext_articles/9b15a947.ext.json)
 
 ---
 
@@ -178,21 +362,27 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 
 ---
 
-### ’கத்துக்குட்டிக்கு கதையே தெரியாது’
+### The story is not known to the story
 
 *2024-06-20 01:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்துக்குட்டிக்கு-கதையே-தெரியாது/175-339159) · `ta`
 
-பாராளுமன்ற நடைமுறைகள் எவை, அரசாங்க கட்டமைப்பு என்றால் என்ன என்பது பற்றி அறிவில்லாத அரசியல் கத்துக்குட்டிகளே பன்முகப்படுத்தப்பட்ட நிதியைக்கூட இலஞ்சம் எனக்கூறி கூவித்திரிகின்றன என்று கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலுகுமார் தெரிவித்தார்.
+Velukumar, a Kandy district parliamentarian, accuses unnamed individuals of bribery and ignorance about parliamentary procedures and government structures. He defends his use of diversified funds for public service, challenging critics to prove their allegations false. He emphasizes the importance of transparency and invites scrutiny under the Right to Information Act, asserting that only ignorant politicians would question the allocation of funds for development projects.
 
-கனவில்கூட ‘டீல்’ பற்றிய சிந்தனை இருப்பதாலேயே அத்தகையவர்கள் அடிக்கடி டீல் அரசியல் பற்றி பேசிவருகின்றனர் என்றும் குற்றஞ்சாட்டினார்.
+🟩
 
-கடந்த காலங்களிலும் பல குற்றச்சாட்டுகளை எனக்கு எதிராக முன்வைத்தனர். அவை போலியானவை என்பது உறுதியாகியுள்ளது. முடிந்தால் நிரூபித்துக்காட்டுமாறு மீண்டும் சவால் விடுத்துள்ளார்.
+Kandy district parliamentarian Velukumar said that bribes are also calling for a diversity of funds that are ignorant of what parliamentary procedures and what the government structure is.
 
-“பாராளுமன்ற உறுப்பினர்கள், மக்கள் பிரதிநிதிகளாவர். எனவே, மக்களுக்குரிய சேவைகளை முன்னெடுப்பதற்கு பாதீட்டில் (பட்ஜெட்டில்)  அவர்களுக்கு நிதி ஒதுக்கப்படும். இந்த பன்முகப்படுத்தப்பட்ட நிதியென்பது  பாராளுமன்ற உறுப்பினர் ஒருவருக்குரிய உரிமையாகும். அந்த உரிமையையே நாம் போராடி பெற்றுள்ளோம். எவரிடம் இருந்தும் தனிப்பட்ட ரீதியில் பணம் பெறவில்லை. பாதீட்டில் ஒதுக்கப்பட்ட நிதியையே பெற்றுள்ளோம் என்றார்.
+He accused them of talking about Deal politics because of the thought of the Deal.
+
+Have put forward many accusations against me in the past. Are certain that they are fake. He has once again challenged to prove if possible.
+
+“Members of Parliament and People's Representatives. Therefore, the funds will be allocated to them in the budget to carry out the services of the people. This diverse funding is the right of a Member of Parliament. We have fought that right. Not from anyone to get paid personally. We have received the funds allocated in the field.
 
 ...
 
 [Data](articles/d2a4237c.json)
+
+[Extended Data](ext_articles/d2a4237c.ext.json)
 
 ---
 
@@ -2185,239 +2375,5 @@ Meanwhile, the Law of Parliament was introduced in Parliament in 2018 regarding 
 [Data](articles/7410b324.json)
 
 [Extended Data](ext_articles/7410b324.ext.json)
-
----
-
-### Sri Lanka’s Hela Apparel to raise Rs1.5bn in rights issue
-
-*2024-06-19 13:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-to-raise-rs1-5bn-in-rights-issue-168713/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc is looking to raise 1.5 billion rupees through a rights issue to settle a sub-subsidiary’s debt.
-
-Hela will issue 319,365,227 ordinary voting shares at a proportion of 8 new for every 33 existing at 5.00 rupees each.
-
-“To be utilised for the purpose of making funds available to the sub-subsidiary of the Company to enable such entity to settle existing bank borrowings,” the company said in a stock exchange filing.
-
-The current stated capital of the company is 5,780,678,282.82 (constituting of moneys received by the company by the issue of 1,317,381,560 ordinary voting shares).
-
-“The Board of Directors considers the Rights Issue to be the first phase of the Company’s capital augmentation strategy to strengthen its balance sheet and position the Hela Group for profitable growth.”
-
-The structure and details of subsequent capital raises will be determined and announced by the Board of Directors at a later date, the company said.
-
-...
-
-[Data](articles/401ac42e.json)
-
-[Extended Data](ext_articles/401ac42e.ext.json)
-
----
-
-### Yall. Resolve the problems faced by district fishermen - request to Douglas
-
-*2024-06-19 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186447) · `ta`
-
-Sajith Premadasa urges resolution for Jaffna district fishermen issues, including inadequate anchoring facilities and environmental harm from drag net fishing, despite national bans. He calls for immediate action to protect their livelihoods and enforce fisheries laws.
-
-🟩
-
-Opposition Leader Sajith Premadasa has appealed to the House to resolve the problems faced by the fishermen of Jaffna district.
-
-Most of the fishermen are engaged in fishing at Valvetathurai, Jaffna.
-
-However, the anchoring facilities for fishing boats are not properly provided. In most cases, the depth of this place has been promised to provide fishing boats to anchor, but it has not been fulfilled to date. I urge you to take appropriate action in this regard.
-
-The amendment of the Fisheries and Aquatic Resources Act No. 11 of 2017 has been banned from fishing in the Sri Lankan waters.. This causes harmful conditions for fish resources and sea environment.
-
-Although efforts are being made to stop the drag lake in other parts of the country, it is being carried out in Jaffna. The Fisheries Department and the Department of Fisheries Supervisory have not been resolved.
-
-...
-
-[Data](articles/d717c9d1.json)
-
-[Extended Data](ext_articles/d717c9d1.ext.json)
-
----
-
-### Eight petitions challenging IGP’s appointment fixed for consideration
-
-*2024-06-19 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99966/eight-petitions-challenging-igps-appointment-fixed-for-consideration-) · `en`
-
-The Supreme Court today ordered for the fundamental rights (FR) petitions filed against the appointment of Deshabandu Tennakoon as the Inspector-General of Police (IGP) to be taken up for consideration on July 08, 2024.
-
-A three-member bench has issued this order after consideration of the eight petitions put forward by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
-
-The petitioners allege that Tennakoon had neglected his duties during his tenure as the Senior Deputy Inspector General of Police (SDIG) of the Western Province when the 2019 Easter attacks happened, and when a pre-mediated attack was launched on the ‘GotaGoGama’ protest site at the Galle Face Green where several protesters were brutally beaten.
-
-◼️
-
-[Data](articles/bd56b988.json)
-
-[Extended Data](ext_articles/bd56b988.ext.json)
-
----
-
-### Plan to establish a company in the name of "Enterprise Sri Lanka"
-
-*2024-06-19 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186443) · `ta`
-
-The Sri Lankan government plans to boost its industrial sector by launching a new company named "Enterprise Sri Lanka." This initiative, announced by President Ranil Wickremesinghe at the 2024 International Industry Exhibition, aims to strengthen the country's competitive digital economy through a new business bank and partnerships with other nations.
-
-🟩
-
-President Ranil Wickremesinghe said the government is planning to improve the country's industry by establishing a new company under the name of Enterprise Sri Lanka.
-
-President Ranil Wickremesinghe said this while addressing the opening ceremony of the 2024 International Industry Exhibition.
-
-He said the government is planning to enhance the country's industrial sector by establishing a new business bank and a new company in the name of "Enterprise Sri Lanka" to improve the competitive digital economy in the next few weeks with the lending countries.
-
-◼️
-
-[Data](articles/feebdd0d.json)
-
-[Extended Data](ext_articles/feebdd0d.ext.json)
-
----
-
-### People's Struggle Front - Starting New Political Movement
-
-*2024-06-19 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186441) · `ta`
-
-In response to the upcoming presidential election, the Arakalai protest group initiated the People's Struggle Front, a new political movement comprising alumni activists, social activists, journalists, and members from various political parties. Key figures include former Socialist Party organizer Lakiru Weerasekera, lawyer Nuwanbopage, journalist Dharindara, and representatives from left parties. The movement aims to address the current political crisis and introduce a new political system for Sri Lanka's future, as stated by Vasantha Mudikaya during a press conference.
-
-🟩
-
-Based on the upcoming presidential election, the Arakalai protest group has launched a new political movement called the People's Struggle Front.
-
-Alumni activists, social activists and journalists have started the popular struggle, including members of political parties.
-
-Former organizer of the Socialist Party of the Socialist Party of the Socialist Party between the All University Student Unions, Lakiru Weerasekera, the Arakalaya activist, Lawyer Nuwanbopage, the representatives of the Journalist Dharindara and the Left parties are part of this new political movement.
-
-Speaking at a press conference on the launching of this new political movement today, Vasantha Mudikaya Arakalaya struggle has been launched in the past.
-
-He said the present president had put the current system in crisis, saying that the demonstrators had not had any expected changes.
-
-Noting that the stability has not yet been established, the spring first life is facing severe crises.
-
-...
-
-[Data](articles/cae2484e.json)
-
-[Extended Data](ext_articles/cae2484e.ext.json)
-
----
-
-### Join Alliance: New UPFA with a large number of Goalface struggle
-
-*2024-06-19 12:38:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4nnw4rlvg5o) · `si`
-
-A new United People's Freedom Alliance (UPFA) is formed amidst widespread protests. Gotabhaya Rajapaksa resigns as President amid calls for systemic change. Ranil Wickremesinghe takes over, facing a national debt crisis. His leadership is questioned, especially regarding his handling of the economy and relations with the Supreme Court.
-
-🟩
-
-Join Alliance: New UPFA with a large number of Goalface struggle
-
-It contains nothing here. Play Video, "" Agent Video is not confidentially. The people need to take power. "" The Running Time 5,3805: 38 Video Heart, ". People have to take power. "
-
-Gotabhaya Rajapaksa has been removed from the post of President and said that the January 19 (June 19), a social activist said.
-
-'' The people of the country ask for a change of methods. Ranil Wickremesinghe came to power in the program that was dragged to the front of the crisis inside the crisis.. 2022 When Ranil Wickremesinghe came to power, the country was in debt $ 84 billion. 2024 Credit has been $ 100 billion. We invite the people with the crisis without being in the flame of the crisis, we will continue with a new political program. "He added.
-
-Natasha and Bruno acquitted Natasha and Bruno from claim to insult Buddhism
-
-Ranil Wickremesinghe: Why did the President criticize the Supreme Court?Is there a 'underlying purpose'?What is analysts?
-
-...
-
-[Data](articles/6ff65189.json)
-
-[Extended Data](ext_articles/6ff65189.ext.json)
-
----
-
-### Sri Lanka Railways asks squatters to register online
-
-*2024-06-19 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-asks-squatters-to-register-online-168680/) · `en`
-
-ECONOMYNEXT – Sri Lanka Railways has asked people living on land own by the Department to register online before July 15, in a move to legitimize them.
-
-“All unauthorized occupants who do not register by that date will be removed from railway premises.”
-
-Users of land owned by the Department and new applicants should register online at http://pms.railway.gov.lk.
-
-Squatters will be leased the land after an assessment, Minister of Transport and Highways and Mass Media Bandula Gunawardena said earlier this year.
-
-The Railways Department owns the largest amount of land in the country.
-
-“I have obtained cabinet approval to have the land and property occupied by squatters for over 10 years assessed, and then sign a lease agreement with them,” Gunawardena had said.
-
-“All squatters who have been there less than 10 years will be prosecuted. Land grabbing now is useless.” Gunawardena was speaking at the inauguration of the Assistant Commercial Superintendent’s office in Nawalapitiya.
-
-...
-
-[Data](articles/498ba9ed.json)
-
-[Extended Data](ext_articles/498ba9ed.ext.json)
-
----
-
-### The dedication of the Kenzavertiv Party for British Tamils ​​is very firm - Britain continues to support the fact that Justice Britain supports - David Cameron
-
-*2024-06-19 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186433) · `ta`
-
-The Kenzavertiv Party strongly supports British Tamils, highlighting their contributions to Britain and advocating for justice and accountability. David Cameron and Davidgamarun praise the Tamil community's impact and commitment, emphasizing support for their aspirations and the pursuit of truth and responsibility regarding past conflicts in Sri Lanka.
-
-🟩
-
-Britain's Foreign Minister Davidgamoon has said that the dedication of the Kensavardive Party for British Tamils ​​is very firm.
-
-He praised the precious contribution of the Tamil community to Britain and said he supported all the true justice and accountability.
-
-In a video released before the General Election of the United Kingdom, Davidgamarun referred to the Tamil community of Britain as a huge success.
-
-"You are making an invaluable contribution to the life of our country," he said.
-
-David Cameron said in his video that Tamils ​​play an important role in many parts of our national life.
-
-Davidgamarun, who referred to the success of our Tamil community as a role model for Britain, said, "We will always support your aspirations and the beliefs for the future."
-
-In his video, David Cameron also mentioned the crimes committed in Mullivaikkal 15 years ago.
-
-...
-
-[Data](articles/03b65dfc.json)
-
-[Extended Data](ext_articles/03b65dfc.ext.json)
-
----
-
-### There is no need to fear the spinal cord in Japan - Sri Lankan health officials
-
-*2024-06-19 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186430) · `ta`
-
-Sri Lankan health officials reassure that the public doesn't need to worry about Streptococcal Toxic Shock Syndrome (STSS), also known as 'flesh-eating disease', spreading in Japan. Despite affecting 1,000 people this year, STSS, caused by certain strains of streptococcus bacteria, can be treated effectively if caught early. Symptoms include fever, muscle pain, and nausea, progressing to low blood pressure, organ failure, and respiratory distress within 24-48 hours. The condition is more severe in people over 30, with a 30% mortality rate. Health authorities worldwide, including Sri Lanka, are monitoring the situation closely and advise immediate medical attention if symptoms arise.
-
-🟩
-
-Streptococcal Toxic Shock Syndrome is spreading throughout Japan, which is commonly known as 'flesh -eating flesh'.
-
-Sri Lankan health officials said that the general public does not need to be worried about the infection.
-
-STSS, a muscle -eating patteria, has been affected by 1,000 people in Japan this year.
-
-In this regard, the Director of the Infectious Division of Sri Lanka, Dr. Kinige said,
-
-It is important that the public understand that SDSS is a treatment that can be a treatment.
-
-Streptococcal Toxic Shock Syndrome is caused by some strain of streptococcus pantheria. If the infected person does not have proper treatment in a timely manner, it can cause death.
-
-Fever, muscle pain, nausea and vomiting are the first signs of this. Within 24 to 48 hours of this impact, low blood pressure, organ failure, heart rate, and shortness of breath.
-
-The death rate is 30 percent of the victims. People over 30 are more affected.
-
-...
-
-[Data](articles/b21c95bb.json)
-
-[Extended Data](ext_articles/b21c95bb.ext.json)
 
 ---

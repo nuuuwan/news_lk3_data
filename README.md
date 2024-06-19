@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 13:54:16**
+As of **2024-06-19 14:06:19**
 
 ## Newspaper Stats
 
-*Scraped **31,101** Articles*
+*Scraped **31,102** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
 dbsjeyarajcom | 287
-bbccomsinhala | 304
+bbccomsinhala | 305
 newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,100 (100.0%) of 31,101 articles have been extended.
+31,101 (100.0%) of 31,102 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc is looking to raise 1.5 billion rupees through a rights issue to settle a sub-subsidiary’s debt.
 
-Hela will issue 319,365,227 ordinary voting shares at a proportion 8 new for every 33 existing ordinary shares at 5.00 rupees each.
+Hela will issue 319,365,227 ordinary voting shares at a proportion of 8 new for every 33 existing at 5.00 rupees each.
 
 “To be utilised for the purpose of making funds available to the sub-subsidiary of the Company to enable such entity to settle existing bank borrowings,” the company said in a stock exchange filing.
 
@@ -51,6 +51,8 @@ The structure and details of subsequent capital raises will be determined and an
 ...
 
 [Data](articles/401ac42e.json)
+
+[Extended Data](ext_articles/401ac42e.ext.json)
 
 ---
 
@@ -1115,6 +1117,34 @@ Meanwhile, if he said that he would not have been resolved in the attic trees in
 [Data](articles/80344d1e.json)
 
 [Extended Data](ext_articles/80344d1e.ext.json)
+
+---
+
+### T20 ලෝක කුසලානය: සුපිරි 8 වටයේ ඇරඹුම සහ මූලික වටයේ සුවිශේෂී සිද්ධි
+
+*2024-06-19 07:25:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c722gv800lgo) · `si`
+
+T20 ලෝක කුසලානය: සුපිරි 8 වටයේ ඇරඹුම සහ මූලික වටයේ සුවිශේෂී සිද්ධි
+
+T20 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ සුපිරි කණ්ඩායම් 8 අතර තරග වටය අදින් (ජූනි 19) ඇරඹෙයි.
+
+මෙවර සුපිරි කණ්ඩායම් 8 අතරට මීට පෙර පන්දු වාර 20 ක්‍රිකට් ලෝක කුසලානය දිනා ගත් කණ්ඩායම් 4ක් සුදුසුකම් ලබා සිටී.
+
+මේ අතර, මීට පෙර ලෝක කුසලානය දිනූ ශ්‍රී ලංකාව සහ පකිස්ථානය මූලික වටයෙන් ම ඉවත්වීම විශේෂත්වයක් විය.
+
+මූලික වටයේ ඒ ඒ  කාණ්ඩවලින් සුපිරි 8 වටයට පිවිසි කණ්ඩායම් මෙසේ ය.
+
+සුපිරි 8 වටයේ තරග සියල්ල බටහිර ඉන්දීය කොදෙව් දූපත් වන ඇන්ටිගා හා බාබියුඩා, බාබඩෝස්, සේන්ට් ලුසියා සහ සේන්ට් වින්සන්ට් හා ග්‍රෙනාඩින්ස් යන දූපත්වල පිහිටි ක්‍රීඩාංගණවල පැවැත්වේ.
+
+මෙම වටයේදී එක් කාණ්ඩයකට අයත් සියලු කණ්ඩායම් සෙසු සියලු කණ්ඩායම් සමග තරග කරයි.
+
+ඒ අනුව, එක් කණ්ඩායමක් සුපිරි 8 වටයේදී තරග 3කට සහභාගි විය යුතු ය.
+
+මූලික වටය අවසානයේදී වැඩි ම ලකුණු රැස් කර සිටින පිතිකරුවා ලෙස පෙරමුණ ගෙන සිටින්නේ, ඇෆ්ඝනිස්ථානයේ රමනුල්ලා ගුර්බාස් ය. ඔහු තරග 4කදී ලකුණු 167ක් රැස් කර තිබේ.
+
+...
+
+[Data](articles/2c447159.json)
 
 ---
 
@@ -2281,29 +2311,5 @@ Since 2,977 such patients have been reported from January to June, 77 were kille
 [Data](articles/68016538.json)
 
 [Extended Data](ext_articles/68016538.ext.json)
-
----
-
-### 'Hand' is in our hands
-
-*2024-06-18 19:53:21* · [`adalk`](https://www.ada.lk/breaking_news/’අත’-තියෙන්නේ-අපේ-අතේයි/11-410304) · `si`
-
-Mahinda Amaraweera announced that the next UPFA leadership will be decided within the party, not by external alliances. The SLFP, now part of UPFA, will contribute significantly to this decision. A public rally on the 29th aims to gather support for the new leadership, emphasizing internal selection processes over external influences.
-
-🟩
-
-Minister Mahinda Amaraweera stated that the next UPFA is appointed by the UPFA's palm of the party.
-
-The next President said that the next President appoints the Sri Lanka Freedom Party (SLFP).
-
-"The SLFP has now in our hands. We legalized this party into our hands. Working pieces are now in our party. On the 29th of this month, we hold the second public rally in the New UPFA. Large supporters also attend then. And there may be no one to think.
-
-The next President is not appointed by our alliance, not the Alliance that has been appointed by our alliance in the future. I definitely the next step president is the Leadership we support ".
-
-◼️
-
-[Data](articles/fb8db03b.json)
-
-[Extended Data](ext_articles/fb8db03b.ext.json)
 
 ---

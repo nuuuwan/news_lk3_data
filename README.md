@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 14:54:09**
+As of **2024-06-19 15:06:08**
 
 ## Newspaper Stats
 
-*Scraped **31,108** Articles*
+*Scraped **31,110** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
 dbsjeyarajcom | 287
-bbccomsinhala | 305
+bbccomsinhala | 306
 newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
@@ -20,31 +20,55 @@ adaderanalk | 3,523
 tamilmirrorlk | 3,659
 dailymirrorlk | 4,733
 virakesarilk | 4,792
-adaderanasinhalalk | 5,054
+adaderanasinhalalk | 5,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,104 (100.0%) of 31,108 articles have been extended.
+31,108 (100.0%) of 31,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### நிர்வாக சபைக்கு எதிரான தடையுத்தரவு நீக்கம்
+### තවත් වාරණ නියෝගයක් නිකුත් නොකරයි
+
+*2024-06-19 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197918) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් අද (19) දින කැඳවා තිබෙන පක්ෂ විධායක සභා රැස්වීම වළක්වාලමින් වාරණ නියෝගයක් නිකුත් නොකිරීමට කොළඹ දිසා අධිකරණය නියෝග කළේය.
+
+ඒ අනුව විත්තිකරුවන්ට නොතීසි පමණක් නිකුත් කිරීමට තීරණය කළ අධිකරණය නඩුව නැවත ජුලි මස 03 වනදා කැඳවන ලෙසත් දැනුම්දුනි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ ආසන සංවිධායකවරයෙකු වන හෙක්ටර් බෙත්මගේ මහතා ඇතුළු පිරිසක් ගොනු කළ පැමිණිල්ලක් සලකාබැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/b1103920.json)
+
+---
+
+### Dismissal
 
 *2024-06-19 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-சபைக்கு-எதிரான-தடையுத்தரவு-நீக்கம்/175-339130) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் விசேட நிறைவேற்றுச் சபைக் கூட்டத்தை இன்று (19) பிற்பகல் 2.30க்கு கூட்டுவதைத் தடுக்கும் வகையில் இடைக்கால தடையுத்தரவை பிறப்பிக்குமாறு விடுக்கப்பட்ட கோரிக்கை நீதிமன்றத்தால் நிராகரிக்கப்பட்டுள்ளது.
+The court denied an injunction request to halt a Sri Lanka Freedom Party meeting, citing the legality of the executive council and actions of its leaders.
 
-அமைச்சர் நிமல் சிறிபால டி சில்வா மற்றும் துமிந்த திஸாநாயக்க ஆகியோருக்கு தடை உத்தரவு பிறப்பிக்குமாறு கட்சியின் மூன்று உறுப்பினர்களின் கோரிக்கையையே கொழும்பு மேலதிக மாவட்ட நீதவான் திருமதி சாமரி வீரசூரிய  நிராகரித்துள்ளார்.
+🟩
 
-கட்சியின் உப தலைவர் கீர்த்தி உடவத்த, மஹியங்கனை தொகுதி அமைப்பாளர் பி குணவர்தன மற்றும் கடுவெல தொகுதி அமைப்பாளர் ஹெக்டர் பெத்மகே ஆகியோரின் கோரிக்கையை நிராகரித்த மாவட்ட நீதவான், பிரதிவாதிகளுக்கு இடைக்கால தடையுத்தரவு அறிவித்தல் தொடர்பிலான  நோட்டீஸ் மாத்திரம் விநியோகித்தார்.
+The court has rejected a request to issue an interim injunction to prevent the Sri Lanka Freedom Party's Special Executive Committee meeting at 2.30 pm today.
 
-...
+Colombo Additional District Magistrate Mrs. Samari Weerasuriya has rejected the request of three members of the party to issue an injunction to Minister Nimal Siripala de Silva and Duminda Dissanayake.
+
+The District Magistrate, who rejected the request of the party's vice president Keerthi Udwatta, Mahiyanganaya constituency organizer B Gunawardena and Kaduwela constituency organizer Hector Bethmage, only issued notice on the interim injunction notice to the defendants.
+
+According to the constitution of the Sri Lanka Freedom Party, the petition filed by the President of the Sri Lanka Freedom Party (SLFP), Nimal Siripala de Silva and Duminda Dissanayake, were illegal and that the executive council was illegal.
+
+◼️
 
 [Data](articles/031d46a3.json)
+
+[Extended Data](ext_articles/031d46a3.ext.json)
 
 ---
 
@@ -270,23 +294,29 @@ In 2023 alone, the postal sector lost 7,000 million.
 
 ---
 
-### எழுப்பியவர் மீது சுட முயற்சி
+### Try to shoot on the raised person
 
 *2024-06-19 12:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுப்பியவர்-மீது-சுட-முயற்சி/175-339127) · `ta`
 
-பொலிஸ் கான்ஸ்டபிள் ஒருவர் மீது துப்பாக்கி சூடு நடாத்த முயற்சித்த சம்பவம் தொடர்பில் பொலிஸ் உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+A 23-year-old police officer from Kahaduduwa station was arrested after allegedly attempting to shoot a constable who woke him from sleep early Wednesday morning. Investigations are ongoing.
 
-கஹதுடுவ பொலிஸ் நிலையத்தில் பணிபுரியும் 23 வயதுடைய பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-முறைப்பாடு பதிவு செய்வதற்காக, இரண்டு பேர் புதன்கிழமை (19) காலை 5.40 மணியளவில் கஹதுடுவ பொலிஸ் நிலையத்தி்ற்கு வந்த போது கடமையில் இருந்த பொலிஸ் உத்தியோகத்தர் தூங்கிக் கொண்டிருந்துள்ளார் .
+A police officer has been arrested in connection with the incident of a police constable.
 
-அப்போது கான்ஸ்டபிள் ஒருவர் சென்று தூங்கிக்கொண்டிருந்த அதிகாரியை எழுப்பியுள்ளார். இதனால் ஆத்திரமடைந்த பொலிஸ் உத்தியோகத்தர் கான்ஸ்டபிளை தகாத வார்த்தையில் திட்டி துப்பாக்கிச் சூட்டு நடாத்த முற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+The 23 -year -old police officer who works at the Kahaduduwa police station has been arrested.
 
-மேலும், இச் சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்து வருவதாக தெரியவந்துள்ளது .
+The police officer on duty was sleeping when two persons arrived at the Kahaduduwa police station at 5.40 am on Wednesday (19).
+
+Then a constable went and woke up an officer who was asleep. The furious police officer has reportedly tried to shoot the constable.
+
+It is also reported that the police are conducting investigations into the incident.
 
 ◼️
 
 [Data](articles/8d0419be.json)
+
+[Extended Data](ext_articles/8d0419be.ext.json)
 
 ---
 
@@ -606,19 +636,25 @@ The other officer has taken a pistol firearm with a pistol-fire weapon who has b
 
 ---
 
-### ඉන්දීය විදේශ අමාත්‍යවරයා හෙට 20 ලංකාවට
+### Indian Foreign Minister to visit 24
 
 *2024-06-19 10:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-විදේශ-අමාත්‍යවරයා-හෙට-20-ලංකාවට/11-410310) · `si`
 
-නිල සංචාරයක් සඳහා ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා හෙට (20) දිවයිනට පැමිණිමට නියමිතව ඇත.
+Dr. S. Sahana, India's Foreign Minister, will visit Sri Lanka tomorrow to review bilateral projects ahead of PM Narendra Modi's trip. She'll meet with President Ranil Wickremesinghe and other officials including PM Dinesh Gunawardena.
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ ශ්‍රී ලංකා සංචාරයට පෙර, දෙරට අතර ක්‍රියාත්මක ව්‍යාපෘති සමාලෝචනය කිරීම සඳහා එම අමාත්‍ය වරයා දිවයිනට පැමිණෙන බව සඳහන් වෙයි.
+🟩
 
-මෙහිදී ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ , අග්‍රාමාත්‍ය දිනේශ් ගුණවර්ධන ඇතුළු පිරිසක් හමුවීමට නියමිත බව වාර්ථා වෙයි.
+Indian Foreign Minister Dr. S. Sahana for an official visit. Jayashankar is due to arrive in the island tomorrow (20).
+
+Prior to Indian Prime Minister Narendra Modi's visit to Sri Lanka, the Minister said that the Minister arrives in the island to review the projects between the two countries.
+
+Sri Lanka President Ranil Wickremesinghe is scheduled to meet with Prime Minister Dinesh Gunawardena and several others.
 
 ◼️
 
 [Data](articles/113a3956.json)
+
+[Extended Data](ext_articles/113a3956.ext.json)
 
 ---
 
@@ -772,17 +808,27 @@ Putin, making his first trip to North Korea in 24 years, said in comments that a
 
 ---
 
-### මිනි කූපර් මෝටර් රථයක් ත්‍රි රෝද රථයක අංකයක් යොදා ලියාපදිංචි කරලා
+### Mini Cooper car has been registered using a three-wheeler number
 
 *2024-06-19 10:01:59* · [`adalk`](https://www.ada.lk/breaking_news/මිනි-කූපර්-මෝටර්-රථයක්-ත්‍රි-රෝද-රථයක-අංකයක්-යොදා-ලියාපදිංචි-කරලා/11-410307) · `si`
 
-රේගු බදු නොගෙවා මෙරටට ගෙන්වු ‘මීනී කූපර්” වර්ගයේ මෝටර් රථයක් ත්‍රීරෝද රථයක අංකයක් යොදා ලියාපදිංචි කර රජයට පාඩු කළැයි චෝදනා කරමින් ඉඩම් කොමසාරිස් ජනරාල්වරයා ඇතුළු මෝටර් රථවාහන ලියාපදිංචි කිරීමේ දෙපාර්තමෙන්තුවේ නිලධාරීන් පිරිසකට එරෙහිව අල්ලස් කොමිසම පවරා ඇති නඩුව සම්බන්ධයෙන් ගන්නා ක්‍රියාමාර්ග ලබන ජුලි 29 වැනිදා දැනුම් දෙන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අල්ලස් කොමිසමට ඊයේ (18) දැනුම් දුන්නේය.
+A Mini Cooper was wrongly registered as a three-wheeler to evade taxes. This incident came to light when the Bribery Commission learned about it but decided not to inform the Land Commissioner's Department or the Bribery Department of Motor Traffic on July 29th. The High Court Judge Navasinghe advised the Bribery Commission to withdraw the indictment against several vehicle traffic officials and file new charges. However, after considering the Assistant Director's notice, the High Court restricted the judge. The Bribery Commission also discovered that the vehicle registration system had been manipulated, leading to legal issues. Several individuals, including Bandula Jayasinghe and others, were charged for their involvement in this scheme.
 
-ශ්‍රේෂ්ඨාධිකරණය දුන් නියෝගය පුළුල්ව අධ්‍යනය කර අධිචෝදනා පත්‍රය ඉල්ලා අස්කරගෙන විත්තිකරුවන්ට එරෙහිව නව චෝදනා පත්‍රයක් ගොනු කරන්නේද? නැද්ද? යන කරුණු ඉදිරියේදී මහාධිකරණයට දැනුම් දෙන බව අල්ලස් කොමිසමේ සහකාර අධ්‍යක්‍ෂක අනූෂා සම්මන්දප්පෙරුම මහත්මිය කළ දැනුම් දීමක් සළකා බැලීමෙන් අනතුරුව මහාධිකරණය විනිසුරුවරයා එලෙස  දැනුම් දුන්නේය.
+🟩
+
+The Bribery Department (Land Commissioner's Department), including the Land Commissioner General and the Bribery Department of Motor Traffic, will not be informed on July 29 against a group of other vehicle traffic officials.Colombo High Court Judge Navasinghe has informed the Bribery Commission yesterday.
+
+Widespread and withdraw the indictment and file a new charges against the accused by withdrawing the indictment of the Supreme Court.Not?After considering the notice by the Assistant Director of the Bribery Commission, the High Court inhibited the judge.
+
+The Assistant Director of the Bribery Assistant Anusha Sunawardena made it known as the legal loss of the vehicle registration of vehicles and registered with other vehicles by registering the vehicle tax on the vehicle tax.
+
+The Bribery Commission has stated that the Bribery Commission has been transferred while acting as a Russian Commissioner for the Department of Land Commissioner.
 
 ...
 
 [Data](articles/8366d393.json)
+
+[Extended Data](ext_articles/8366d393.ext.json)
 
 ---
 
@@ -1001,6 +1047,28 @@ No none of the motor vehicle has not been injured and the motor vehicle has dama
 [Data](articles/c98b5b55.json)
 
 [Extended Data](ext_articles/c98b5b55.ext.json)
+
+---
+
+### බුදු දහමට අපහාස කළ බවට කී චෝදනාවෙන් නටාෂා සහ බෲනෝ නිදොස් කොට නිදහස් කරයි
+
+*2024-06-19 09:08:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgee7z0e98zo) · `si`
+
+බුදු දහමට අපහාස කළ බවට කී චෝදනාවෙන් නටාෂා සහ බෲනෝ නිදොස් කොට නිදහස් කරයි
+
+බුදුදහමට අපහාසයක් වන ලෙස ප්‍රකාශයක් සිදු කළ බවට පවසමින් පවරා තිබු නඩුවෙන් ප්‍රහසන ශිල්පිනී නටාෂා එදිරිසූරිය සහ SL-Vlogs යූ ටියුබ් නාලිකාවේ හිමිකරු බෲනෝ දිවාකර නිදොස් කොට නිදහස් කිරීමට කොටුව මහේස්ත්‍රාත් අධිකරණය විසින් අද ( ජුනි මස 18 වෙනිදා) නියෝග කරන ලදී.
+
+නටාෂා එදිරිසුරිය සහ බෲනෝ දිවාකර අත්අඩංගුවට ගැනීමට මුලික වූයේ 'මෝඩාභිමානය' නමින් පවත්වනු ලැබූ ප්‍රහසන වැඩසටහනකදී සිදුකළ බවට පැවසූ ප්‍රකාශ සම්බන්ධව ය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සයිබර් අපරාධ විමර්ශන ඒකකය විසින් පසුගිය වසරේ මැයි මස 28 වෙනිදා සිංගප්පුරුව බලා යෑමට සුදානම්ව සිටි නටාෂා එදිරිසුරිය කටුනායක ගුවන් තොටුපොලේදී අත්අඩංගුවට ගනු ලැබිය.
+
+එමෙන්ම බෲනෝ දිවාකර ප්‍රකාශ සටහන් කර ගැනීම සඳහා CIDය වෙත කැඳවීමෙන් අනතුරුව පසුගිය වසරේ මැයි මස 31 වෙනිදා අත්අඩංගුවට ගන්නා ලදී.
+
+'බුදුදහමට අපහාසයක් කළ බවට' සහ එයට ආධාර අනුබල දීමේ චෝදනාව සම්බන්ධයෙන් නටාෂා එදිරිසුරියට සහ බෲනෝ දිවාකරට එරෙහිව සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ ජාත්‍යන්තර සම්මුති (ICCPR) පනත යටතේ චෝදනා ගොනු කරනු ලැබීය.
+
+...
+
+[Data](articles/9127a90e.json)
 
 ---
 
@@ -2233,55 +2301,5 @@ Mrs. K M A N Daulagala, Deputy Governor of the CBSL, a member of the AML/CFT Tas
 [Data](articles/75a10532.json)
 
 [Extended Data](ext_articles/75a10532.ext.json)
-
----
-
-### The floss of the sea came to the Kalutara Beach
-
-*2024-06-18 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197898) · `si`
-
-A mysterious object found near a hotel on Kalutara Beach led to police investigation. The object, discovered in Katukurundara, was safely retrieved by Kalutara officers. Details are still emerging.
-
-🟩
-
-There is an object to the beach behind a famous hotel in Kalutara, Katukurundara.
-
-Kalutara South Police said that investigations are conducted into the relevant device.
-
-Katukurun alias officials have been removed by the officers of the Kalutara and carried out the instrument safely.
-
-Our correspondent stated that it was being issued.
-
-◼️
-
-[Data](articles/0607f7f7.json)
-
-[Extended Data](ext_articles/0607f7f7.ext.json)
-
----
-
-### Water attacks on the people on the road to the people of the police targeted
-
-*2024-06-18 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197897) · `si`
-
-Unemployed graduates protested in Sri Lanka, demanding job opportunities, targeting the Prime Minister's route. Police responded with force, using tear gas and water cannons against the demonstrators. The protest highlighted the issue of around 40,000 jobless graduates in the country.
-
-🟩
-
-The police stabbed the police and tear gas to protest the protest of the unemployed graduates who attempted to enter the parliamentary road from the Prime Minister from the Prime Minister.
-
-Under the theme "Occupy" Under the theme, unemployed graduates were protesting this afternoon in front of Diyatha Uyana, Battaramulla.
-
-They pointed out that about 40,000 graduates are in Sri Lanka without jobs.
-
-However, the police had been attacked by water and tear gas due to the protesters.
-
-The water and cargo and goods and stationery motorbikes provided by the road have been attacked.
-
-◼️
-
-[Data](articles/e4288df4.json)
-
-[Extended Data](ext_articles/e4288df4.ext.json)
 
 ---

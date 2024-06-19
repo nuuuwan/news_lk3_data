@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 04:04:44**
+As of **2024-06-20 04:19:26**
 
 ## Newspaper Stats
 
-*Scraped **31,196** Articles*
+*Scraped **31,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 2,723
 adaderanalk | 3,534
 tamilmirrorlk | 3,669
 dailymirrorlk | 4,733
-virakesarilk | 4,821
+virakesarilk | 4,823
 adaderanasinhalalk | 5,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,195 (100.0%) of 31,196 articles have been extended.
+31,196 (100.0%) of 31,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### கல்முனை பிரதேச செயலக பிரச்சினைக்குத் தீர்வுகாண நடவடிக்கை எடுப்போம் - பிரதமர் தினேஷ்
+
+*2024-06-20 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186507) · `ta`
+
+கல்முனை பிரதேச செயலக பிரச்சினைக்குத் தீர்வுகாண நடவடிக்கை எடுத்து வருகிறோம். அந்த பிரச்சினையை நாங்கள் நிராகரிக்கவில்லை எனப் பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (19) எம்.பிக்களான செல்வராசா கஜேந்திரன் மற்றும்  சாணக்கியன் இராசமாணிக்கம் எழுப்பிய கேள்விக்குப் பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+கல்முனை பிரதேச செயலகம் தொடர்பில் தொடர்ந்து மூன்று மாதங்களாகப் போராட்டம் இடம்பெற்று வருகிறது. இது தொடர்பாக உங்களுடன் தொலைபேசியிலும் கதைத்தோம். உங்களது காரியாலயத்துக்கும் வந்து கலந்துரையாடி இருந்தோம். அம்பாறை மாவட்ட அரசாங்க அதிபர் அங்கு வந்து இதுதொடர்பாக பார்ப்பார் என நீங்கள் தெரிவித்தீர்கள். ஆனால் அம்பாறை மாவட்ட அரசாங்க அதிபர் இதுவரை அங்கு வந்து எந்த நடவடிக்கையும் எடுக்கவில்லை என்றார்.
+
+...
+
+[Data](articles/2c4e21b2.json)
+
+---
+
+### உயர் நீதிமன்றத்தின் தடையுத்தரவால் முத்துறைக்குள் நெருக்கடி - தயாசிறி ஜயசேகர
+
+*2024-06-20 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186506) · `ta`
+
+உயர் நீதிமன்றத்தின் இடைக்கால தடையுத்தரவால் அரசியலமைப்பு பேரவையின் அதிகாரமும், பிரதம நீதியரசரின் அதிகாரங்களும் சவாலுக்குட்படுத்தப்பட்டுள்ளன. ஆகவே விதிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவு தொடர்பில் ஆராய பாராளுமன்ற விசேட தெரிவுக்குழு ஒன்று அமைக்கப்பட வேண்டும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் உறுப்பினர் தயாசிறி ஜயசேகர சபாநாயகரிடம் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (19) இடம்பெற்ற அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு தெரிவித்தார்.
+
+நாட்டின் முத்துறைகளையும் நெருக்கடிக்குள்ளாக்கும் வகையில் உயர் நீதிமன்றம் வழங்கியுள்ள கட்டளையினால் பாராளுமன்ற உறுப்பினர்களின் சிறப்புரிமை மீறப்பட்டுள்ளது.
+
+மேல் நீதிமன்றத்தின் தலைவர் பந்துல கருணாரத்னவை உயர் நீதிமன்ற நீதியரசராக நியமிக்கும் பரிந்துரையை ஜனாதிபதி அரசியலமைப்பு பேரவைக்கு முன்வைத்திருந்தார்.இந்த பரிந்துரையை  அரசியலமைப்பு பேரவை நிராகரித்தது.இதனால் தனது அடிப்படை மீறப்பட்டுள்ளதாக நீதியரசர்  பந்துல கருணாரத்ன உயர்நீதிமன்றத்தில் அடிப்படை உரிமை மீறல் வழக்கு ஒன்றை தாக்கல் செய்திருந்தார்.
+
+...
+
+[Data](articles/901f1699.json)
+
+---
 
 ### The government moves us to fasting until death - Mohammed Kamil!
 
@@ -54,19 +88,31 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 
 ---
 
-### ’தொழிலாளர்களை கைது செய்ய முடியாது’
+### Can't arrest workers
 
 *2024-06-20 01:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களை-கைது-செய்ய-முடியாது/175-339158) · `ta`
 
-தொழிற்சங்க நடவடிக்கைகளை மேற்கொள்வதற்காக தொழிலாளர்களை கைது செய்யும் அதிகாரம் பொலிஸாருக்கு கிடையாது எனத்தெரிவித்த இலங்கை தொழிலாளர்காங்கிரஸ் தலைவரும் அமைச்சருமான  ஜீவன் தொண்டமான் ,தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபா சம்பளத்தை பெற்றுக் கொடுக்க அனைவரும் ஒன்றிணைந்து நடவடிக்கை எடுக்க வேண்டும் எனவும் அழைப்பு விடுத்தார்.
+Jeevan Thondaman, a Sri Lankan minister, argued that police cannot arrest workers for union activities. He urged for a minimum wage increase to 1700 rupees for plantation workers, criticizing companies for not complying despite government approval. He also addressed misinformation in media reports regarding worker injustices.
 
-1700 ரூபா சம்பளத்தை வழங்க வேண்டும் என அரசாங்கம் அறிவித்துள்ள போதும் தோட்டக் கம்பனிகள் இதுவரை அதனை வழங்க மறுத்து வருகின்றன என்பதை சபையில் சுட்டிக்காட்டிய அவர், ஆளும் கட்சி எதிர்க்கட்சி என்றில்லாமல் அனைவரும் இணைந்து தோட்டத் தொழிலாளர்களுக்கு அதனை பெற்றுக் கொடுக்க நடவடிக்கை எடுப்பது அவசியம் என்றும் அவர் சபையில் தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் நேற்று புதன்கிழமை விசேட கூற்றொன்றை முன்வைத்தே    இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில், .
+Jeevan Thondaman, the leader and minister of the Sri Lanka Workers Congress, who claimed that the police had no authority to arrest workers to carry out union actions, called for all to take action to pay a salary of 1700 rupees for plantation workers.
 
-...
+While the government has announced a salary of 1700 rupees, he said in the House that the plantation companies are so refusing to provide it, adding that the ruling party is not the opposition party.
+
+He added that a special statement was presented in Parliament yesterday.
+
+Although I am not saying that the salary of 1700 rupees is in any way enough for plantation workers, action should be taken to get it.. It is a great injustice that the salary is still about $ seven.
+
+At the same time, some media outlets have distorted the news on behalf of workers on the injustice inflicted on workers in a recent garden.That mistake must be made to address
+
+He said the police did not have the authority to arrest workers to carry out trade union activities.
+
+◼️
 
 [Data](articles/16cb69b6.json)
+
+[Extended Data](ext_articles/16cb69b6.ext.json)
 
 ---
 
@@ -2391,53 +2437,5 @@ The President Ranil Wickremesinghe said that the 2024 International Industry Exh
 [Data](articles/f7261810.json)
 
 [Extended Data](ext_articles/f7261810.ext.json)
-
----
-
-### Bacteria eating flesh: Don't panic
-
-*2024-06-19 11:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதை-உண்ணும்-பக்டீரியா-பீதி-அடைய-வேண்டாம்/175-339125) · `ta`
-
-STSS, dubbed 'flesh-eating bacteria,' causes severe symptoms like fever, muscle pain, and nausea. It's treatable with antibiotics. While cases are rising in Japan, health officials assure the public it's not new or rare. Early detection and treatment are crucial to prevent life-threatening complications.
-
-🟩
-
-- Initial symptoms include fever, cold, muscle pain, nausea and vomiting
-
-Sri Lankan health officials have assured the public that the spread of streptococcal toxic trauma syndrome (STSS), which is commonly known as 'flesh -eating bacteria' throughout Japan, is increasing as worries are increasing.
-
-Nearly 1,000 people have been reported in Japan so far this year. The public is scared.
-
-Although the disease is severe, it is not a new or unusual state, said Dr. Samitha Ginike, Director of the Infectious Division of Sri Lanka.
-
-“It is important that the public understands that STSS is a treated bacterial infection.    ஆபத்தான விளைவுகளுக்கு வழிவகுத்ததாக அறிக்கைகள் இருந்தாலும், இந்த நிகழ்வுகள் அரிதானவை" என்று டாக்டர் கினிகே உறுதியளித்தார்.
-
-...
-
-[Data](articles/fa98c23b.json)
-
-[Extended Data](ext_articles/fa98c23b.ext.json)
-
----
-
-### President Ranil reveals plans to boost Sri Lanka’s industrial sector
-
-*2024-06-19 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99964/president-ranil-reveals-plans-to-boost-sri-lankas-industrial-sector) · `en`
-
-President Ranil Wickremesinghe today announced forthcoming negotiations with creditor countries and also revealed plans to boost Sri Lanka’s industrial sector.
-
-He stated that these plans feature the creation of a new commercial bank, an economic commission and an institute called “Enterprise Sri Lanka” to promote a competitive and digitalized green economy, the PMD reported.
-
-He made these comments during the opening ceremony of the International Industry Exhibition, “Industry EXPO 2024,” which was inaugurated at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo today (19).
-
-He also said that the government is expected to reach an agreement with the Sri Lanka’s creditor nations within the next few weeks.
-
-Wickremesinghe announced the establishment of a new development bank aimed at providing financial support to industrialists in Sri Lanka. This initiative will offer industrialists the opportunity to obtain loans at low interest rates.
-
-...
-
-[Data](articles/eb9216ec.json)
-
-[Extended Data](ext_articles/eb9216ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 20:19:35**
+As of **2024-06-19 20:36:00**
 
 ## Newspaper Stats
 
-*Scraped **31,159** Articles*
+*Scraped **31,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,703
 economynextcom | 1,798
 dailyftlk | 1,899
 adalk | 2,719
-adaderanalk | 3,530
+adaderanalk | 3,531
 tamilmirrorlk | 3,663
 dailymirrorlk | 4,733
 virakesarilk | 4,808
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,158 (100.0%) of 31,159 articles have been extended.
+31,159 (100.0%) of 31,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Indian Foreign Minister to visit Sri Lanka tomorrow
+
+*2024-06-19 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99974/indian-foreign-minister-to-visit-sri-lanka-tomorrow) · `en`
+
+Indian External Affairs Minister Dr. S. Jaishankar is scheduled to pay an official visit to Sri Lanka on Thursday (20 June).
+
+During the visit, the Indian foreign minister will have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, the Indian High Commission in Colombo said.
+
+This will be Jaishankar’s first bilateral visit after the formation of new Government under Indian Prime Minister Shri Narendra Modi.
+
+"Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend."
+
+The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors, the statement said.
+
+◼️
+
+[Data](articles/33708335.json)
+
+---
 
 ### Erection
 
@@ -2355,29 +2375,5 @@ The Criminal Investigations Department (CID) was arrested and remanded after bei
 [Data](articles/651cdb32.json)
 
 [Extended Data](ext_articles/651cdb32.ext.json)
-
----
-
-### Sri Lanka manufacturing recovers strongly in May, financial services expand: PMI
-
-*2024-06-19 07:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-recovers-strongly-in-may-financial-services-expand-pmi-168638/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing recovered strongly showing in May 2024 from April festival holidays while services also continued to expand at a slower pace, a Purchasing Managers’ Index compiled by the central bank showed.
-
-The Manufacturing PMI index was 58.2 in May from below 50 in April.
-
-“All sub-indices, except for employment, rose above the neutral threshold during the month, resulting in an overall increase in the index value,” the statement said.
-
-“The increases in New Orders and Production sub-indices were mainly attributable to the manufacture of food and beverages sector.
-
-“Most of the respondents mentioned that the considerable increase in production activities was due to more working days prevailed in May compared to the previous month.”
-
-Expectations about the near future was also positive except for concerns about the global shipping amid unrest in the Middle East.
-
-...
-
-[Data](articles/bc379eb5.json)
-
-[Extended Data](ext_articles/bc379eb5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 19:35:08**
+As of **2024-06-19 19:52:47**
 
 ## Newspaper Stats
 
-*Scraped **31,156** Articles*
+*Scraped **31,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,703
 economynextcom | 1,798
 dailyftlk | 1,898
 adalk | 2,719
-adaderanalk | 3,529
+adaderanalk | 3,530
 tamilmirrorlk | 3,662
 dailymirrorlk | 4,733
 virakesarilk | 4,808
@@ -26,79 +26,135 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,144 (100.0%) of 31,156 articles have been extended.
+31,154 (100.0%) of 31,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### சுப்பர் 8இல்  நடப்பு சம்பியன் இங்கிலாந்து, வரவேற்பு நாடு மேற்கிந்தியத் தீவுகள் சந்திக்கின்றன
+### At least 550 pilgrims die from extreme heat during Hajj in Saudi Arabia
+
+*2024-06-19 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99973/at-least-550-pilgrims-die-from-extreme-heat-during-hajj-in-saudi-arabia) · `en`
+
+Diplomats on Wednesday said at least 550 pilgrims died during the hajj, underscoring the gruelling nature of the pilgrimage which again unfolded in scorching temperatures this year.
+
+At least 323 of those who died were Egyptians, most of them succumbing to heat-related illnesses, two Arab diplomats coordinating their countries’ responses told AFP.
+
+“All of them (the Egyptians) died because of heat” except for one who sustained fatal injuries during a minor crowd crush, one of the diplomats said, adding the total figure came from the hospital morgue in the Al-Muaisem neighbourhood of Mecca.
+
+At least 60 Jordanians also died, the diplomats said, up from an official tally of 41 given earlier on Tuesday by Amman.
+
+The new deaths bring the total reported so far by multiple countries to 577, according to an AFP tally.
+
+The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in Mecca, was 550.
+
+...
+
+[Data](articles/254daa3e.json)
+
+---
+
+### Super 8 on Super 8
 
 *2024-06-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186499) · `ta`
 
-நடப்பு சம்பியன் இங்கிலாந்தும் வரவேற்பு நாடான மேற்கிந்தியத் தீவுகளும் சென் லூசியா, க்ரொஸ் ஐலட் டெரன் சமி தேசிய கிரிக்கெட் விளையாட்டரங்கில் நாளை வியாழக்கிழமை (20) காலை (இலங்கை நேரப்படி) நடைபெறவுள்ள குழு 2க்கான ரி20 உலகக் கிண்ண சுப்பர் 8 சுற்றில் மோதவுள்ளன.
+In the upcoming cricket match at the Sammy National Cricket Stadium in St. Lucia, England, the reigning champions, face the West Indies, the hosts, in what promises to be a thrilling finale of the 9th T20 World Cup. England secured their spot in the Super 8 round after defeating Australia and overcoming challenges from Oman and Namibia. Meanwhile, the West Indies advanced smoothly through Group C, securing victories against Papua New Guinea, Uganda, New Zealand, and Afghanistan. Historical data favors the West Indies, leading 17-12 in past encounters and boasting a strong performance in previous World Cups. Despite England's talented lineup, including bowlers Jofra Archer and Adil Rashid, the West Indies' home advantage and impressive showings in this tournament suggest a favorable outcome for them.
 
-தலா இரண்டு தடவைகள் சம்பியன்களானதும் பலசாலிகளுமான இந்த இரண்டு அணிகளுக்கும் இடையிலான இப் போட்டி இப்போதைக்கு இந்த வருட உலகக் கிண்ணத்தில் மிகச் சிறந்த போட்டியாக அமையவுள்ளதுடன் கடைசிவரை விறுவிறுப்பை ஏற்படுத்தும் எனவும் எதிர்பார்க்கப்படுகிறது.
+🟩
 
-9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் பி குழுவில் இடம்பெற்ற இங்கிலாந்து தட்டுத்தடுமாறி சுப்பர் 8 சுற்றில் விளையாட தகுதிபெற்றது.
+The current champion England and the reception country, the West Indies, will clash in the West Indies, St. Lucia, Cross Island Terran Sammy National Cricket Stadium on Thursday morning (20).
 
-ஸ்கொட்லாந்துடனான போட்டி மழையினால் கைவிடப்பட்டதைத் தொடர்ந்து 2ஆவது போட்டியில் அவுஸ்திரேலியாவிடம் தோல்வி அடைந்ததால் இங்கிலாந்து சுப்பர் 8 சுற்றுக்கு செல்லுமா என்ற சந்தேகம் வலுக்கத் தொடங்கியது.
+The match between the two teams, which is two times each, is expected to be the best match in the World Cup this year and will be the last one.
 
-எனினும் பலம் குன்றிய ஓமானையும் நமிபியாவையும் நையப்புடைத்து வெற்றியீட்டி சுப்பர் 8 சுற்று தகுதியை இங்கலாந்து உறுதிசெய்துகொண்டது.
+In the 9th T20 World Cup chapter, England were eligible to play in the 8 round of the UK Tapping Super 8 round.
+
+Suspects of England Super 8 rounded began to strengthen the defeat of Australia in the 2nd match following the abandonment of the match with Scotland.
+
+However, the strength of the strong Oman and Namibia, the Super 8 -round qualification was confirmed.
+
+On the other hand, the West Indies in the C. Group have easily entered the Super 8 round by winning the Papua New Guinea, Uganda, New Zealand and Afghanistan in their four matches.
 
 ...
 
 [Data](articles/24092529.json)
 
+[Extended Data](ext_articles/24092529.ext.json)
+
 ---
 
-### ஆனைக் கோட்டையில் அகழ்வாராய்ச்சிப் பணிகள் ஆரம்பிக்கப்படவுள்ளன
+### Excavation work is to be started at the Fort
 
 *2024-06-19 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186497) · `ta`
 
-பெருங்கற்காலப் பண்பாட்டை விஞ்ஞானபூர்வமாக நிரூபிக்கக் கூடிய வகையிலான சான்றுகள் கிடைக்கப்பெறும் என நம்பப்படும் ஆனைக் கோட்டையில், 20ஆம் திகதி வியாழக்கிழமை அகழ்வாராய்ச்சிப் பணிகள் ஆரம்பிக்கப்படவுள்ளன.
+Excavation begins at Annie Fort on Thursday, aimed at uncovering significant cultural evidence from the Anaikottai area rich in Sri Lankan history. Noted archaeologists and heritage experts, including former university professors and current academics, will participate, marking the start of the project with an inauguration ceremony on the 20th at 9 am.
 
-இலங்கையின் பெருங்கற்கால பண்பாடுகள் நிறைந்ததாகக் கருதப்படும் ஆனைக்கோட்டையில் அடையாளம் காணப்பட்டுள்ள ஒரு பகுதியில் இந்த அகழ்வுப் பணிகள் முன்னெடுக்கப்படவுள்ளன.
+🟩
 
-யாழ். பல்கலைக்கழகத்தின் முன்னாள் பேராசிரியர்களான இரகுபதி மற்றும் இந்திரபாலா ஆகியோர் 1980ஆம் ஆண்டுகளில் முன்னெடுத்த அகழ்வாய்வு மற்றும் மேலாய்வுகளில் இது பெருங்கற்கால பண்பாடு என உறுதிப்படுத்தும் வகையில் சான்றுப் பொருட்கள் கிடைக்கப்பெற்றிருந்தன.
+Excavation work will be commenced on Thursday, the 20th, at the Annie Fort, which is believed that the evidence that can be scientifically proves to be scientifically.
 
-இந்த நிலையில் புலம்பெயர் நிதிப்பங்களிப்புடன் யாழ். பல்கலைக்கழக வாழ்நாள் பேராசிரியர் பரமு புஷ்பரட்ணம், தென்னிலங்கை தொல்லியல்துறை பேராசிரியர்கள், யாழ். பல்கலைக்கழக தொல்லியல்துறை விரிவுரையாளர்கள், தொல்லியல் பணிமனை அதிகாரிகள், யாழ்ப்பாண மரபுரிமை மையம் இந்த அகழ்வுகளில் பங்கெடுக்கவுள்ளனர்.
+The excavation work will be carried out in an area identified in the Anaikottai, which is considered full of Sri Lankan cultures.
 
-...
+Yall. Former professors of the university, Raghupati and Indrapala, have received evidence to ensure that this is a great culture in excavations and upliftment in the 1980s.
+
+In this case, Jaffna with migrant funds. University Lifetime Professor Paramu Pushparatnam, Professors of Archeology, South Sri Lanka, Jaffna. University Archaeological Lecturers, Archaeological Workshop Officers and Jaffna Heritage Center will participate in these excavations.
+
+The inaugural event will be held on Thursday 20th at 9 am, said Professor Paramu Pushparatnam, Chairman of the Jaffna Heritage Center.
+
+◼️
 
 [Data](articles/82653d2a.json)
 
+[Extended Data](ext_articles/82653d2a.ext.json)
+
 ---
 
-### පියුමිගේ බැංකු ගිණුම් 19ක් පිළිබඳ තොරතුරු හොයයි
+### Piyumi's bank accounts will be found
 
 *2024-06-19 18:33:20* · [`adalk`](https://www.ada.lk/breaking_news/පියුමිගේ-බැංකු-ගිණුම්-19ක්-පිළිබඳ-තොරතුරු-හොයයි/11-410317) · `si`
 
-නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ උපයා ගත්තේ යැයි කියන නිරූපණ ශිල්පි පියුමි හංසමාලීගේ බැංකු ගිණුම් 19ක් පිළිබඳ තොරතුරු රහස් පොලිසියට දීමට වාර්තා කැඳවීමට කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතා රාජ්‍ය බැංකු ඇතු`ථ බැංකු 08කට අද(19) නියම කළේය.
+Colombo Magistrate Manjula Ratnayake has directed the CID to submit reports on Piyumi Hansalay's bank accounts from 19 state banks. The CID, unable to liquidate assets including a Range Rover car, initiated an inquiry. The investigation focuses on how Piyumi amassed wealth and lived luxuriously. Sub Inspector Tharanga Lakmal mentioned potential irregularities in property acquisition and hinted at possible legal action. The magistrate also requested updates on the investigation's progress.
 
-හිටපු ජනපති ගෝඨාභය රාජපක්‍ෂ මහතා භාවිතා කර විකුණා ගැනීමට නොහැකිව තිබූ රුපියල් කෝටි 08ක් වටිනා ‘රේන්ජ් රෝවර්’ වර්ගයේ මෝටර් රථයක් මිලදී ගැනීම ඇතුළු මුදල් උපයා ගත් ආකාරය සම්බන්ධයෙන් විමර්ශනය කරන බව කියමින් රහස් පොලිසියේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ නිලධාරීන් කළ ඉල්ලීමක් පිළිගනිමින් මහේස්ත්‍රාත්වරයා බැංකු වල කළමණාකරුවන්ට එසේ නියම කළේය.
+🟩
 
-නිරූපණ ශිල්පි පියුමි හංසමාලී නමැත්තිය විසින් නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ උපයා ගත් බවට ‘මගෙන් රටට’ සංවිධානයේ සභාපති සංජය මහවත්ත මහතා කළ පැමිණිල්ලකට අනුව රහස් පොලිසියේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් සිද්ධියට අදාළ විමර්ශන ආරම්භ කර ඇත.
+Colombo Additional Magistrate Manjula Ratnayake has set to call for reports of 19 State Banking Piyumi Hansalay's bank accounts today (19).
+
+The secretariat area of ​​the CID accepts a request made by the CID, who was unable to sell the money and the 'Range Rover Car of Gotabhaya Rajapaksa to be sold using Rs.Specified.
+
+According to a complaint lodged by the CID, the CID's Urivacy Investigation Division has commenced the complaint with the complaint lodged by the 'Chairman' Assets Division in the case.
+
+The Chief Inspector Sampath Lakmal, Chief Inspector Sampath Lakmal, appearing on the progress of the investigation, appeared with the progress of the investigation.He said how to rich in such a short time, and how to live a luxury.
+
+Purchase of nearly Rs. Rs.Sub Inspector Tharanga Lakmal further stated that it will be expulted against her to earn property, including circulation of billions of crores.
 
 ...
 
 [Data](articles/4df998f6.json)
 
+[Extended Data](ext_articles/4df998f6.ext.json)
+
 ---
 
-### ධාතුසේන රජු කරවූ කලාවැවේ වානේ තිබුණු නිදහන් අරන් ගිහින්
+### Says on the Kaluwewa, King Dhatusena
 
 *2024-06-19 18:21:12* · [`adalk`](https://www.ada.lk/breaking_news/ධාතුසේන-රජු-කරවූ-කලාවැවේ-වානේ-තිබුණු-නිදහන්-අරන්-ගිහින්/11-410316) · `si`
 
-ධාතුසේන මහ රජතුමා විසින් ඉදි කරන බව කියන කලා වැවේ ප්‍රධාන වානේ ගලක තැන්පත් කොට තිබුණු  නිදන් වස්තු කිසියම් පිරිසක් යන්ත්‍ර සුත්‍ර උපයෝගී කරගෙන ගල විද කඩා දමා  රැගෙන ගොස් ඇතැයි මහවැලි අධිකාරිය 19 දින ඉපලෝගම පොලිසියට පැමිණිලි කොට තිබේ.
+The Mahaweli Authority filed a complaint against treasure hunters damaging historical sites, as per the Mahavamsa, near Kaluwewa. Residents were informed by the National Organizer of the Ceylon Agrarian Federation. Security personnel are managing the situation, and the case involves allegations of political and public official interference.
 
-කලා වැවේ ඉපැරණි වාන ආසන්නයේම අධි ආරක්‍ෂිත කලාපයේ මෙය සිදුව තිබේ , මෙම සිද්දිය  මහවැලියේ ඇතැම්  නිලධාරීන් පිරිසක්  මෙම සිද්ධිය යට පත් කර ගැනීම සඳහා දැඩි උත්සාහයක නිරතව සිටින බැවින් ප්‍රදේශවාසීන් මේ පිළිබඳව සමස්ත ලංකා ගොවිජන සම්මේලනයේ ජාතික සංවිධායක නාමල් කරුණාරත්න මහතාට දැනුවත් කොට නීතිය ක්‍රියාත්මක කිරීම සඳහා සහාය පතා තිබේ'
+🟩
 
-බෝවතැන්න ජලාශ භාරා ප්‍රධාන ඉංජිනේරු  බුද්ධික මහේෂ් නවරත්න  මහතාගෙන් විමසීමේදී කියා සිටියේ තමන්ට ද 19 දින උදෑසන මෙම සිද්ධිය පිළිබඳව දැන ගැනීමට හැකි වූ බවය , මෙම ක්‍රියාවලිය නිසා වැවේ වානට ද දැඩි බලපෑම් එල්ලවන නිසා වහාම නිලධාරීන් යොදවා පොලිසියට පැමිණිලි කරන ලෙස තමන් උපදෙස් දුන්නේ යැයි ඒ මහතා පැවසීය.
+The Mahaweli Authority has lodged a complaint with the Ipalogama police that a large number of treasure hunters had been demolished by the Mahavamsa.
+
+Residents of the All Ceylon Agrarian Federation of the All Ceylon Agrarian Federation of the Central Ceylon Agrarian Federation have been informed of the National Organizer of the Ceylon Agrarian Federation of the Central Calawa area near the incident.Have
+
+When contacted, Bowanna Reservoirs, Buddhika Mahesh Navaratne, he said that he was able to know about the 19th morning, he said he was instructed to complain to the police..
+
+Both of the Kala Wewa and the cattle have been removed from the same large number of lane and have taken the black stone formulas that have been dagged at the same stake.National Organizer of the All Ceylon Farmers Federation, Namal Karunaratne said.
 
 ...
 
 [Data](articles/d76b2714.json)
+
+[Extended Data](ext_articles/d76b2714.ext.json)
 
 ---
 
@@ -242,21 +298,27 @@ Duminda Dissanayake has been elected as the Secretary-General of SLFP.
 
 ---
 
-### மஸ்கெலியா நல்லத்தண்ணி நகரில் உலாவும் காட்டுப்பன்றிக் கூட்டம் ; அச்சத்தில் மக்கள்
+### Wild crowd browsing in Maskeliya Nallathani city;People in fear
 
 *2024-06-19 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186479) · `ta`
 
-மஸ்கெலியா, நல்லத்தண்ணி நகருக்கு அடிக்கடி வரும் காட்டுப்பன்றிக் கூட்டங்களால் ஏதேனும் ஆபத்து ஏற்படுமோ என அப்பகுதி மக்கள் அச்சத்தில் உள்ளனர்.
+Frequent wild boar sightings in Maskeliya and Nallathani worry residents, especially about student safety due to early morning school hours. Over 20 wild boars have been seen roaming streets and villages in search of food, leading locals to request wildlife officials to remove them.
 
-காட்டுப்பன்றிகள் சுற்றித்திரிவதால் அதிகாலையில் பாடசாலைக்குச் செல்லும் மாணவர்கள் அதிகளவில் ஆபத்துக்குள்ளாக நேரிடும் என மக்கள் அச்சம் வெளியிட்டுள்ளனர்.
+🟩
 
-20க்கும் மேற்பட்ட காட்டுப்பன்றிகள் கூட்டமாக உணவு தேடி வீதிகளிலும், கிராமங்களிலும் அடிக்கடி வந்து செல்வதாக அப்பகுதி மக்கள் சுட்டிக்காட்டியுள்ளனர்.
+The people of the area are worried that there will be any danger of wild boar gatherings frequently in the city of Maskeliya and Nallathani.
 
-இந்நிலையில், காட்டுப்பன்றிகளை அப்பகுதியிலிருந்து விரட்ட வனவிலங்கு பாதுகாப்பு திணைக்களத்திற்கு அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+People have expressed fears that students who go to school early in the morning will be more dangerous as wild boars are around.
+
+Residents of the area have pointed out that more than 20 wild boars come in the streets and villages in search of food.
+
+In this case, the people of the area have requested the Department of Wildlife to drive wild boars from the area.
 
 ◼️
 
 [Data](articles/8bbb791c.json)
+
+[Extended Data](ext_articles/8bbb791c.ext.json)
 
 ---
 
@@ -368,57 +430,81 @@ He was speaking at the opening ceremony of the Panadura office at the UNP.
 
 ---
 
-### திருகோணமலை சாஹிரா கல்லூரி மாணவர்களின் பரீட்சை பெறுபேறு சில தினங்களில் வெளியிடப்படும்  - கல்வி அமைச்சர்
+### The examination of the students of Zahira College, Trincomalee will be released in a few days - Minister of Education
 
 *2024-06-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186465) · `ta`
 
-திருகோணமலை சாஹிரா கல்லூரி மாணவர்களின் உயர்தர பரீட்சை பெறுபேறுகள் இன்னும் சில தினங்களில் வெளியிடப்படும். அது தொடர்பான நடவடிக்கைகளை பரீட்சை ஆணையாளர் நாயகம் முன்னெடுத்து வருகிறார் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+The Minister of Education announced that the GCE Advanced Level Examination results for Zahira College, Trincomalee, will be released soon. Despite initial expectations for quicker publication, the Commissioner General of Examinations is handling necessary procedures. This update came in response to queries from the Opposition Leader about delayed results and concerns over fairness.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய இடையீட்டு கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-திருகோணமலை சாஹிரா கல்லூரி மாணவிகள் 70பேரின் உயர்தர பரீட்சை பெறுபேறுகள் இடை நிறுத்தப்பட்டிருக்கிறது. பரீட்சை பெறுபேறுகள் ஒரு வாரகாலத்துக்குள் வெளியிட நடவடிக்கை எடுக்கப்படும் என இந்த சபையில் கடந்த இரண்டு வாரங்களுக்கு முன்னர் தெரிவித்திருந்தீர்கள். ஆனால் இதுவரை பெறுபேறுகள் வெளியிடப்படவில்லை. அதனால் அந்த மாணவிகளுக்கு அநீதி ஏற்படாமல் அவர்களின் பெறுபேறுகளை விரைவாக வெளியிட நடவடிக்கை எடுக்க வேண்டும் என்றார்.
+The GCE Advanced Level Examination of the Trincomalee Zahira College students will be released in a few days. Minister of Education Susil Premajayantha said that the Commissioner General of Examinations is carrying out the relevant measures.
 
-பரீட்சை மண்டபத்துக்குள் பர்தா அணிந்து வருவதாக இருந்தால்,  இரண்டு காதுகளும் தெரியும் வகையில் இருக்கவேண்டும். அதற்கு பல காரணங்கள் இருக்கின்றன.
+He was responding to the intermittent question raised by Opposition Leader Sajith Premadasa on Wednesday (19) in Parliament.
+
+Sahira College Students Trincomalee have been suspended for 70 high -end exam results. Two weeks ago, you said that the exam results will be released within a week.. But the results have not been released so far. He said that the students should not be injustice and take steps to release their results quickly.
+
+If the purdah is wearing inside the exam hall, both ears should be visible. There are many reasons for that.
+
+I don't report it in this place. There are also areas where these matters are taking place. I am not going to comment on that now.
 
 ...
 
 [Data](articles/99aa9483.json)
 
+[Extended Data](ext_articles/99aa9483.ext.json)
+
 ---
 
-### கருத்துசுதந்திரத்தை ஒடுக்குவதற்காக சட்டங்களை ஆயுதமாக்கும் கலாச்சாரத்தை  இலங்கை அதிகாரிகள் நிறுத்தவேண்டும்- நடாஷா விவகாரம் குறித்து மன்னிப்புச்சபை
+### Sri Lankan authorities should stop the culture of armeding laws to suppress the expression
 
 *2024-06-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186475) · `ta`
 
-கருத்துசுதந்திரத்தை ஒடுக்குவதற்காக சட்டங்களை ஆயுதமாக்கும் கலாச்சாரத்தை  இலங்கை அதிகாரிகள் நிறுத்தவேண்டும் என சர்வதேச  மன்னிப்புச்சபையின் தென்னாசிய பிரிவு வேண்டுகோள் விடுத்துள்ளது.
+Amnesty International urges Sri Lanka to halt the practice of enacting laws to stifle free speech. The organization supports the Colombo Fort Magistrate's Court decision to drop charges against a comedian accused of insulting Buddhism. It emphasizes that freedom of expression should encompass all ideas, even those deemed offensive. Authorities are called upon to revise policies to prevent unnecessary censorship and protect free speech.
 
-நகைச்சுவை நிகழ்ச்சியின் போது வெளியிட்ட கருத்துக்கள் பௌத்தமதத்தை அவமதிக்கும் விதத்தில் காணப்பட்டன என்ற குற்றச்சாட்டின் கீழ் நடாஷா எதிரிசூரியவிற்கு எதிராக தொடரப்பட்ட வழக்கிலிருந்து அவரை விடுதலை செய்வது என்ற கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தின் முடிவை நாங்கள் வரவேற்கின்றோம்.
+🟩
 
-கருத்துசுதந்திரத்திற்கான உரிமையானது ஆழமாக புண்படுத்தக்கூடிய கருத்துக்கள் உட்பட அனைத்து கருத்துக்களுக்கும் பொருந்தும் என்பதை நாங்கள் மீண்டும் வலியுறுத்துகின்றோம்.
+The Amnesty International Division has appealed to Sri Lankan authorities to stop the culture of armeding laws to suppress expression.
 
-வெறுப்பைபரப்புரை செய்வதற்கு எதிரான போராட்டத்தி;ற்காக உருவாக்கப்படும் அனைத்து கொள்கைகளும் நடைமுறைகளும் இறுக்கமான முறையில் உருவாக்கப்பட்டு பின்பற்றப்படுவதை இலங்கை அதிகாரிகள் உறுதி செய்யவேண்டும் இதன் மூலம் நியாயமற்ற கட்டுப்பாடுகள் கருத்துசுதந்திரத்தை முடக்கும் நடவடிக்கைகளை தவிர்க்கலாம்.
+We welcome the decision of the Colombo Fort Magistrate's Court to release him from the case against Natasha opponent on the allegation that the comments made during the comedy show were found to be insulting Buddhism.
+
+We reiterate that the right to conceptuality applies to all ideas, including deeply offended ideas.
+
+Sri Lankan authorities must ensure that all the policies and procedures developed for the struggle against the disgust, and the unreasonable restrictions can be avoided.
 
 ◼️
 
 [Data](articles/ab0cb5b0.json)
 
+[Extended Data](ext_articles/ab0cb5b0.ext.json)
+
 ---
 
-### தமிழ் மக்களின் கோரிக்கைகளை ஏற்றுக்கொள்ளாத சிங்கள தலைவர்களை தேர்தலில் புறக்கணிப்பது தமிழ் மக்களுக்கு உள்ள முக்கிய தெரிவு - சமூக செயற்பாட்டாளர் ராஜீவ்காந் கருத்து
+### Social activist Rajiv Khan comments to ignore the Sinhalese leaders who do not accept the demands of the Tamil people
 
 *2024-06-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186467) · `ta`
 
-இந்த தேர்தலில் எங்களிற்கு இருக்கின்ற ஒரு வழியாக மிக முக்கியமான வழியாக எங்களுடைய கோரிக்கைகளை ஏற்றுக்கொள்ளாத சிங்கள தலைவர்களை அவர்கள் கொண்டுவருகின்ற இந்த தேர்தலில் புறக்கணிக்கவேண்டும் என்ற சிந்தனை  காணப்படுகின்றது. என சமூக அரசியல் செயற்பாட்டாளர் ராஜ்குமார் ரஜீவ்காந் தெரிவித்துள்ளார்.
+Rajiv Khan urges voters to boycott Sinhalese leaders unresponsive to Tamil demands, emphasizing the importance of supporting parties committed to addressing Tamil ethnic issues. He highlights the need for political devolution, equal rights across religions, and accountability for past conflicts, expressing confidence in the Northeastern People's Struggle Cooperation Movement's ability to lead change.
 
-மக்கள் போராட்ட முன்னணி ஸ்தாபிக்கப்பட்டுள்ளமை குறித்த செய்தியாளர் மாநாட்டில் கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-மக்கள் போராட்ட முன்னணிக்கு  வடகிழக்கு மக்கள் போராட்ட  ஒத்துழைப்பு இயக்கத்தின் ஆதரவை நான் தெரிவித்துக்கொள்கின்றேன்.
+One of the most important ways in this election is the thought of ignoring the Sinhalese leaders who do not accept our demands.Social political activist Rajkumar Rajiv Khan said.
 
-மிக நீண்டகாலமாக 25 வருடங்களிற்கு மேலாக தமிழர்கள் தங்களின் தேசிய இனப்பிரச்சினைக்கான தீர்வுதொடர்பிலும்  தங்களிற்கு எதிராக தொடர்ந்துகொண்டிருக்கின்ற ஒடுக்குமுறைக்கு எதிராக தீர்வு  தொடர்பாகவும்  சிங்கள பேரினவாத அரசுகளோடு பேசி போராடி உயிர்களை இழந்து இறுதியாக ஒரு பெரும் விரக்திமனோநிலையை அடைந்துள்ளனர்.
+He was speaking at a press conference on the establishment of the leading of the people's struggle.
+
+I extend the support of the Northeastern People's Struggle Cooperation Movement to the People's Struggle Front.
+
+For a long time, the Tamils ​​have been in a state of despair, losing their lives and have finally lost their lives by talking to the Sinhalese chauvinist states, over 25 years of resolution of their national ethnic problem.
+
+One of the most important ways in this election is the thought of ignoring the election that they bring to the Sinhalese leaders who do not accept our demands.
+
+This is because many are preparing their political manifesto with the fact that the Northeastern people should be treated as a third -party ethnic group within the unity of the main political demands of the Tamil people.
 
 ...
 
 [Data](articles/b2095300.json)
+
+[Extended Data](ext_articles/b2095300.ext.json)
 
 ---
 
@@ -442,15 +528,25 @@ The Epidemiology Unit of the Ministry of Epidemiology, the Institute of Epidemio
 
 ---
 
-### முறைமை மாற்றத்துக்காக வருகின்ற வாய்ப்புக்கள்
+### Opportunities that come for system change
 
 *2024-06-19 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186469) · `ta`
 
-இரு வருடங்களுக்கு முன்னர் இலங்கை கண்ட அறகலய போராட்ட இயக்கத்தின் முக்கியமான ஒரு சுலோகமாக அமைந்த  'முறைமை மாற்றத்துக்கான" கோரிக்கை நிச்சயமாக பன்முகத்தன்மை கொண்டதாகும். திருடப்பட்ட சொத்துக்களை மீட்டுக்கொண்டு வருதல்,  முறைகேடுகளைச் செய்தவர்களை தண்டித்து ஊழலுக்கு ஒரு முடிவைக் கட்டுதல் உட்பட பல்வேறு விடயதானங்களை அது கொண்டிருந்தது.
+Despite progress in enacting laws and addressing corruption, challenges persist in recovering stolen assets, implementing new economic policies, and managing public expectations regarding elections and systemic changes. The government faces criticism for prioritizing economic stability over democratic processes, leading to concerns about transparency and accountability.
+
+🟩
+
+Two years ago. It contained a variety of issues, including reclaiming stolen assets, punishing those who committed abuse and making an end to corruption.
+
+The current reality is that the view of a new social order that has been a struggle is still far away. Although the new legislative government has enacted against the gains of crime, the stolen assets have not been recovered from home or abroad.President Ranil Wickremesinghe is still demanding compensation before suppressing the movement of the charity struggle before its final stages.. Government officials who receive the compensation applications say that the value of the Eelam is more than the value of the lost assets.
+
+The government under President Wickremesinghe has passed an unprecedented number of laws or reviews laws. Government leaders are proud to have passed about 75 new laws over the past two years.
 
 ...
 
 [Data](articles/c861be22.json)
+
+[Extended Data](ext_articles/c861be22.ext.json)
 
 ---
 
@@ -524,19 +620,25 @@ This is held today and tomorrow in front of the Commissioner of Motor Traffic.
 
 ---
 
-### பியூமி ஹன்சமாலியின் வங்கிக் கணக்குகள் தொடர்பில் சி.ஐ.டி. விசாரணை
+### CIT regarding Pumi Hansamali's bank accounts. Trial
 
 *2024-06-19 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186463) · `ta`
 
-திட்டமிட்ட குற்றச் செயல்கள் மூலம் சொத்துக்களை சம்பாதித்துள்ளார் என்ற குற்றச்சாட்டுக்கமைய நடிகையும், மொடல் அழகியுமான பியூமி ஹன்சமாலியின்  19 கணக்குகளின் பதிவுகளை பெறுவதற்கு மாளிகாகந்த நீதவான் மஞ்சுள திலகரத்ன குற்றப் புலனாய்வு திணைக்களத்திற்கு (சிஐடி) அனுமதி வழங்கியுள்ளார்.
+CIT has been authorized to investigate actress Pumi Hansamali's 19 bank accounts over allegations of asset accumulation through criminal activities. The probe focuses on the origins of funds used to purchase a Rang Rover and a Colombo property, valued at Rs 80 million and Rs 140 million respectively.
 
-80  மில்லியன் ரூபாய் பெறுமதியான  ரேஞ்ச் ரோவர் ரக வாகனம் மற்றும்  140 மில்லியன் ரூபாய் பெறுமதியான கொழும்பில் வீடு உள்ளிட்ட சொத்துக்களை திட்டமிட்ட குற்றச் செயல்கள் மூலம் பியூமி ஹன்சமாலி பெற்று வைத்துள்ளதாக குற்றம் சுமத்தப்பட்டுள்ள நிலையில் விசாரணை நடத்தப்பட்டு வருகிறது.
+🟩
 
-இந்நிலையில், பியூமி ஹன்சமாலியின் பல வங்கிக் கணக்குகளில் குறுகிய காலத்தில் வைப்பிலிப்பட்ட நிதியின் மூலத்தைக் கண்டுபிடிப்பதை நோக்கமாகக் விசாரணை முன்னெடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Magistrate Manjula Tilakaratne has granted permission to the Criminal Investigation Department (CIT) to obtain records of 19 accounts of 19 accounts of actress and brand -beautiful Pumi Hansamali on charges of making assets through systematic crimes.
+
+The investigation is underway as Pumi Hansamali has been accused of obtaining assets, including a Rang Rover vehicle worth Rs 80 million and a house in Colombo, worth Rs 140 million.
+
+In this case, the investigation is being carried out to find the source of the deposited fund in many bank accounts of Pumi Hansamali.
 
 ◼️
 
 [Data](articles/fcde30b4.json)
+
+[Extended Data](ext_articles/fcde30b4.ext.json)
 
 ---
 
@@ -2269,43 +2371,5 @@ Meanwhile, if he said that he would not have been resolved in the attic trees in
 [Data](articles/80344d1e.json)
 
 [Extended Data](ext_articles/80344d1e.ext.json)
-
----
-
-### T20 World Cup: Super 8 round begins and the preliminary cases of the preliminary round
-
-*2024-06-19 07:25:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c722gv800lgo) · `si`
-
-The T20 World Cup's Super 8 round starts today, featuring the top 8 teams from the preliminary rounds. Matches are held across various locations including the West Indies, Barbados, and Saint Lucia. Notably, no batsman scored a century in the prelims, with Ramunallah leading in runs and Fidel Edwards in wickets. The tournament progresses towards its climax, with the final scheduled for June 29 in Sri Lanka.
-
-🟩
-
-T20 World Cup: Super 8 round begins and the preliminary cases of the preliminary round
-
-Today, the tournament between the 8 best teams of the T20 World Cup tour will begin today (June 19).
-
-Four groups of 20 cricket World Cup have been eligible for the 8-ball cricket World Cup.
-
-In the meantime, Sri Lanka and Pakistan won the World Cup were the key to their dismissal.
-
-The teams of those categories were the round 8.
-
-The Super 8 matches will be held in the West Indies, Antiga and Babadi, Babados, Saint Lucia and Saint Vincet and the Grenadines.
-
-In this round, all groups belonging to one category compete with all the other groups.
-
-Accordingly, one group should participate in three matches in the Super 8.
-
-At the end of the preliminary round, the batsman is the batsman, Ramunallers in Afghan, Gurbas. He scored 167 runs in 4 matches.
-
-West Indies Poorane scored 164 runs and Marcus Storine, 35 runs in the third place.
-
-At the bowling, the most wickets in the bowler were a bowler fistel and 12 wickets.
-
-...
-
-[Data](articles/2c447159.json)
-
-[Extended Data](ext_articles/2c447159.ext.json)
 
 ---

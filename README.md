@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 10:53:17**
+As of **2024-06-19 11:06:51**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 5,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,067 (100.0%) of 31,070 articles have been extended.
+31,070 (100.0%) of 31,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### තැපැල් මුද්දරයක මිල ඉහළ ට?
+### Price prices at a postage stamp?
 
 *2024-06-19 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197911) · `si`
 
-තැපැල් මුද්දරයක මිල රුපියල් 100 දක්වා වැඩිකිරීමට යෝජනා කර තිබෙන බව ජනමාධ්‍ය අමාත්‍යංශයේ ලේකම් අනුෂ පැල්පිට මහතා පවසයි.
+The Secretary of the Ministry of Mass Media announced a plan to raise the price of a postage stamp to Rs. 15 due to financial losses suffered by the Postal Department.
 
-2022 වන තෙක් රුපියල් 15ක්ව පැවති මුද්දරයක මිල මේ වනවිට රුපියල් 50කි.
+🟩
 
-තැපැල් දෙපාර්තමේන්තුව දිගින් දිගටම පාඩු ලැබීම හේතුවෙන් මෙම තීරණය ගැනීමට සිදුවන බව ඔහු කීය.
+The Secretary to the Ministry of Mass Media was said to increase the price of a postage stamp up to Rs.
+
+The price of a stamp at a cost of Rs. 15 is Rs.
+
+He said that this decision would be taken due to the loss of the Postal Department.
 
 ◼️
 
 [Data](articles/5c2dfcf8.json)
 
+[Extended Data](ext_articles/5c2dfcf8.ext.json)
+
 ---
 
-### හොන්ඩා හා මිට්සුබිෂි එකමුතුවෙන් නව සමාගමක්
+### Honda and Mitsubhi was united
 
 *2024-06-19 10:21:09* · [`adalk`](https://www.ada.lk/breaking_news/හොන්ඩා-හා-මිට්සුබිෂි-එකමුතුවෙන්-නව-සමාගමක්/11-410309) · `si`
 
-නව විදුලි වාහන නිපදවිමේ අපේක්සාවෙන් ජපානයේ ප්‍රධාන වාහන නිෂ්පාදන සමාගම් ද්විත්වයක් වන හොන්ඩා සමාගම හා මිට්සුබිෂි සමාගම් ද්විත්වය එක්ව නව සමාගමක් ස්ථාපිත කිරීමට සැලසුම් කර තිබේ. මේ වසරේ ජුලි මාසයේදි ස්ථාපිත කිරීමට නියමිත එම සමාගමේ නාමය වශයෙන් ALTNA යන නම යොදාගෙන තිබේ.
+Honda and Mitsubishi are merging to form a new electric vehicle company named Alna, set to launch in July. The equity will be equally shared, aiming to tackle electric vehicle challenges together.
 
-නව සමාගමගේ කොටස් හිමිකාරිත්වයෙන් සියයට 50/50 හොන්ඩා හා මිට්සුබිෂි යන සමාගම් අතර සමව බෙදී යාමට නියමිය. විදුලි වාහන නිපදවිමේදී ඇතිවන අභියෝගවලට සාමූහිකව මුහුණ දීමේ අපේක්ෂාවෙන් ඔවුන් මෙසේ එක්ව කටයුතු කිරීමට තීරණය කර තිබේ.
+🟩
+
+The new electrical vehicles, honda company, is planning to establish a new company, which is two major vehicle vehicles, and two Mitsubishi companies. The name Alna is used as the name of the company that is to be established in July this year.
+
+Among the ownership of the new company's stock, the equity divided into equal division. They have decided to work together in the hopeline to collectively facing the challenges of electrical vehicles.
 
 ◼️
 
 [Data](articles/eeaf7428.json)
+
+[Extended Data](ext_articles/eeaf7428.ext.json)
 
 ---
 
@@ -1183,6 +1195,8 @@ Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military office
 ...
 
 [Data](articles/57da933a.json)
+
+[Extended Data](ext_articles/57da933a.ext.json)
 
 ---
 

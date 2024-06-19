@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 12:07:16**
+As of **2024-06-19 12:19:16**
 
 ## Newspaper Stats
 
-*Scraped **31,086** Articles*
+*Scraped **31,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adaderanalk | 3,522
 tamilmirrorlk | 3,652
 dailymirrorlk | 4,733
 virakesarilk | 4,787
-adaderanasinhalalk | 5,051
+adaderanasinhalalk | 5,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,085 (100.0%) of 31,086 articles have been extended.
+31,086 (100.0%) of 31,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ණයහිමි රටවල් සමග ගිවිසුම ලබන සතියේ - ජනපති
+### පොලිස්පති පත්කිරීම අභියෝගයට ලක්කරමින් පෙත්සම් අටක්
+
+*2024-06-19 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197915) · `si`
+
+පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීම අභියෝග කරමින් ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම් සලකා බැලීම සඳහා ජූලි මස 08 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (19) දින නියම කළේය.
+
+අදාල පත් කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අටක් කැඳවීමෙන් අනතුරුව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/6ec78493.json)
+
+---
+
+### Agreement with Borrower Countries next week - President
 
 *2024-06-19 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197914) · `si`
 
-ශ්‍රී ලංකාවට ණය ලබාදුන් රටවල් සමඟ ඉදිරි සති කිහිපය තුළ ගිවිසුමකට එළැඹීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announces upcoming agreements with lender countries, including plans for a new economic commission and initiatives like "Enterprise Sri Lanka" to foster a competitive, digitized green economy. He also mentions the 2024 International Industry Exhibition.
 
-අනතුරුව තරඟකාරී, ඩිජිටල්කරණය වූ හරිත ආර්ථිකයක් ප්‍රවර්ධනය කිරීම සඳහා නව වාණිජ බැංකුවක්, ආර්ථික කොමිෂන් සභාවක් සහ "එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා" නමින් නව ආයතනයක් පිහිටුවා මෙරට කර්මාන්ත ක්ෂේත්‍රය නංවාලීමට රජය සැලසුම් කර ඇති බවත් ඔහු පැවසීය.
+🟩
 
-2024 ජාත්‍යන්තර කර්මාන්ත ප්‍රදර්ශනය විවෘත කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ බව කීය.
+President Ranil Wickremesinghe says that the agreement is expected to enter the next few weeks with the countries lending to Sri Lanka.
+
+He said that a new commission bank, an Economic Commission, an Economic Commission, the Economic Commission and the "Enterprise Sri Lanka" has been planned to promote a competitive, digitized green economy.
+
+The President Ranil Wickremesinghe said that the 2024 International Industry Exhibition was held.
 
 ◼️
 
 [Data](articles/f7261810.json)
+
+[Extended Data](ext_articles/f7261810.ext.json)
 
 ---
 
@@ -143,6 +163,14 @@ The money was originally allocated for ‘strategic acquisitions in APAC and Eas
 *2024-06-19 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99963/nathasha-edirisooriya-and-bruno-divakara-released-from-case) · `en`
 
 Stand-up comedian Nathasha Edirisooriya and the owner of the ‘SL VLOG’ YouTube channel Bruno Divakara have been released by the Fort Magistrate’s Court from the case filed against them for allegedly making controversial statements on Buddhism.
+
+Edirisooriya was arrested on 28 May, 2023 after she found herself in hot water over certain remarks she had made, allegedly insulting Buddhism, Christianity and Islam during her segment at a stand-up comedy show hosted at a leading school in Colombo.
+
+She was arrested by the CID at the Bandaranaike International Airport (BIA) in Katunayake, while preparing to leave the country.
+
+Meanwhile, Bruno Divakara – the owner of the YouTube channel ‘SL VLOG’ where Nathasha’s viral video was posted – was also arrested on 31 May, 2023 after being grilled for over 08 hours over the controversial video.
+
+Divakara was released on bail by the court on 21 June while Edirisooriya was granted bail on 05 July after she filed a petition with the Colombo High Court.
 
 ◼️
 
@@ -2261,25 +2289,5 @@ According to the police, the police were arrested at the time of the operation o
 [Data](articles/de15677c.json)
 
 [Extended Data](ext_articles/de15677c.ext.json)
-
----
-
-### Several special trains to Mahaviya
-
-*2024-06-18 17:47:27* · [`adalk`](https://www.ada.lk/breaking_news/මහවට-විශේෂ-දුම්රිය-ගමන්වාර-කිහිපයක්/11-410294) · `si`
-
-Due to the 2024 Poson Festival, the Railway Department has launched special trains to Mahawa, extending services beyond due to Northern Railway line construction. Pilgrims will also benefit from a special bus service from Mahawa to Anuradhapura and additional trains from Anuradhapura to Mihintale.
-
-🟩
-
-The Railway Department has implemented several special trains to the Mahawa Railway Station due to the 2024 Poson Festival. The train is not limited to Mahawa Railway Station due to the construction of the Northern Railway line.
-
-The pilgrims are scheduled to carry out a special bus service from the Mahawa to Anuradhapura after the train traveling to Mahawa.. In addition, several special trains will be implemented from Anuradhapura to Mihutinta.
-
-◼️
-
-[Data](articles/5111979f.json)
-
-[Extended Data](ext_articles/5111979f.ext.json)
 
 ---

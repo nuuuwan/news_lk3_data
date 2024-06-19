@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 16:06:26**
+As of **2024-06-19 16:19:32**
 
 ## Newspaper Stats
 
-*Scraped **31,126** Articles*
+*Scraped **31,128** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 283
+colombotelegraphcom | 284
 dbsjeyarajcom | 287
 bbccomsinhala | 306
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 1,798
 dailyftlk | 1,898
 adalk | 2,714
 adaderanalk | 3,525
-tamilmirrorlk | 3,660
+tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
 adaderanasinhalalk | 5,058
@@ -26,25 +26,47 @@ adaderanasinhalalk | 5,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,123 (100.0%) of 31,126 articles have been extended.
+31,126 (100.0%) of 31,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### වාහන tune up දන්සලක්
+### முஸ்லிம் மாணவிகளின் பெறுபேறுகள் வரும்
+
+*2024-06-19 15:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவிகளின்-பெறுபேறுகள்-வரும்/175-339132) · `ta`
+
+திருகோணமலை சாஹிரா கல்லூரியின்  மாணவிகள் உயர்தரப் பரீட்சைக்கு தோற்றிய மண்டபத்தில் பரீட்சை மேற்பார்வையாளர் அதி கவனத்துடன் செயற்பட்டுள்ளதாக தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, இடைநிறுத்தப்பட்டுள்ள அந்த மாணவிகளின் பெறுபேறுகள் ஒரு சில தினங்களில் வெளியிடப்படும் என்றும் தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில்   புதன்கிழமை (19)  எதிர்க்கட்சித் தலைவர் முன்வைத்த கோரிக்கைக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்துள்ளார்.
+
+திருகோணமாலை சாஹிரா கல்லூரியின் உயர்தர பரீட்சை பெறுபேறு இன்னும் வெளியாகவில்லை. 70 மாணவிகளின் பெறுபேறுகள் இவ்வாறு வெளியிடப்படாது இருக்கின்றன. அவற்றை கூடிய விரைவில் வெளியிட நடவடிக்கை எடுக்க வேண்டும். கடந்த வாரத்தில் இதனை செய்வதாக கல்வி அமைச்சர் கூறினார். இது குறித்து விரைவான தீர்மானத்தை எடுக்க வேண்டும் என்றார்.
+
+...
+
+[Data](articles/141bc7f8.json)
+
+---
+
+### Vehicle Tune Up Dansala
 
 *2024-06-19 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197922) · `si`
 
-පොසොන් පොහොය නිමිත්තෙන් මෝටර් රථ ප්‍රවාහන කොමසාරිස් දෙපාර්තමේන්තුවෙන් වාහන සුසර කිරීමේ (tune up) දන්සැලක් අද (19) ආරම්භ කර තිබුණි.
+A vehicle tune-up event was launched by the Commissioner General of Motor Traffic in Sri Lanka, aiming to promote maintenance among owners of motorcycles and three-wheelers, who often neglect this due to financial constraints. The event, featuring local experts, runs today and tomorrow.
 
-අද සහ හෙට (20) නාරාහෙන්පිට මෝටර් රථ ප්‍රවාහන  කොමසාරිස් දෙපාර්තමේන්තුව ඉදිරිපිටදී මෙය පැවැත්වෙයි.
+🟩
 
-"මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ මහතා මෙම අවස්ථාවට එක්වෙමින් කියා සිටියේ, ශ්‍රී ලංකාවේ ඇති වාහනවලින් වැඩි ප්‍රමාණයක් ඇත්තේ යතුරුපැදි හා ත්‍රීරෝද රථ. ඔවුන්ගේ ආර්ථික තත්ත්වය අනුව ක්‍රමානුකූලව තම රථය සුසර කර ගැනීමට ඔවුන් උනන්දුවන්නේ නැහැ. එමගින් නිකුත් වන විෂ දුම පරිසරයට ඉතා හානි කරයි. ශ්‍රී ලංකාවේ සිටින ප්‍රවීණතම මෝටර් රථ අලුත්වැඩියා කරන්නන් යොදාගෙන මෙම වැඩසටහන සිදු කරනවා."
+The Commissioner General of Motor Traffic had commenced a vehicle tuning Dansala today (19).
+
+This is held today and tomorrow in front of the Commissioner of Motor Traffic.
+
+"Commissioner General of Motor Traffic Nishantha Anuruddha said the most vehicles in Sri Lanka have more motorbikes and three-wheelers in Sri Lanka. They do not interested in tuning their car with their economic status. It harm the poisonous poisonous. This program is carried out using the experts in Sri Lanka. "
 
 ◼️
 
 [Data](articles/242d129e.json)
+
+[Extended Data](ext_articles/242d129e.ext.json)
 
 ---
 
@@ -200,19 +222,25 @@ In this case, Natasha was released on bail on July 5 after filing a petition in 
 
 ---
 
-### වනිඳු පරාජයට හේතු කියයි
+### The reasons for the loss of the loss
 
 *2024-06-19 14:37:54* · [`adalk`](https://www.ada.lk/sports/වනිඳු-පරාජයට-හේතු-කියයි/9-410313) · `si`
 
-කණ්ඩායමේ ක්‍රීඩකයින් අතින් සිදු වූ වැරදි සහ ඔවුන් හරියට ක්‍රීඩා නොකළ නිසා  විස්සයි විස්ස ලෝක කුසලාක ක්‍රිකට් තරගාවලියෙන් ඉවත් වීමට සිදු වූ බවත් තමන් කණ්ඩායමේ නායකයා සහ ක්‍රීඩකයෙකු වශයෙන් ඒ පිළිබඳව කනගාටු වන බවත් වනිදු හසරංග අද (19දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී පැවසීය.
+The Sri Lanka T20 cricket team faced a setback when their departure from Katunayake Airport was delayed due to poor performance in batting and bowling during the match. The team captain expressed disappointment over the loss, emphasizing the need for better gameplay. Despite this hiccup, the team is scheduled to depart for Dubai early morning to continue their journey to the Emirates Airport.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ වනිදු හසරංග මෙසේ ද පැවසීය.  "ක්‍රීඩකයින් විදිහට අපි දන්නවා අපි අතින් සිදු වූ වැරදි මොනවාද කියලා . අපි ක්‍රීඩකයෝ වශයෙන් හොදින් ක්‍රීඩා නොකළ නිසා , පිතිකරණය , පන්දු රැකීම සහ පන්දු යැවීම කණ්ඩායමක් වශයෙන් හොදින් සිදු නොකළ නිසා මේ ආකාරයට පරාජය වැළද ගැනීමට සිදු වුණා"
+🟩
 
-ශ්‍රී ලංකා විස්සයි විස්ස ක්‍රිකට් කණ්ඩායම 06/19 දින උදෑසන 08.40 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+The Twenty Hazarele was to leave the Katunayake Airport today, and the Twenty-Twenty's captain of the Twenty-Twenty-player had to regret it.
+
+Ven and Hasaranga said:"As players we know what we have done. Because we did not play well as players, the batting, bowling, and bowling had to go to the defeat because they did not
+
+Sri Lanka T20 cricket team from Dubai to 08.40 am on 08.40 am on Dubai to Emirates Airport.
 
 ◼️
 
 [Data](articles/2f2ede30.json)
+
+[Extended Data](ext_articles/2f2ede30.ext.json)
 
 ---
 
@@ -258,21 +286,27 @@ When the cow went to build the cow last Sunday evening, the snake was tired. Nex
 
 ---
 
-### ලංකාවේ  පස්වනු අස්වනු නාස්තිය සියයට 15කින් පහළට
+### Fifth Harvest wastested by 15 percent
 
 *2024-06-19 14:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ--පස්වනු-අස්වනු-නාස්තිය-සියයට-15කින්-පහළට/11-410311) · `si`
 
-අස්වනු නෙලීමේ නව තාක්ෂණික ක්‍රම භාවිතය මෙන්ම ප්‍රවාහනයේ දී ප්ලාස්ටික් කූඩ යොදා ගැනීම හා ඇසුරුම් කිරීමේ දී හානි අවම වන අන්දමින් කටයුතු යෙදීම එළවළු හා පළතුරු පසු අස්වනු හානිය සියයට 25 දක්වා අඩුවී ඇතැයි කෘෂිකර්ම අමාත්‍යාංශය පවසයි.
+Post-harvest losses have significantly decreased across various crops, from 40% to as low as 15%, through improved harvesting techniques and plastic container transport.
 
-පළතුරු හා එළවළු වල පසු අස්වනු හානිය අවම කිරීම සඳහා නිර්දේශිත ක්‍රම භාවිතා නොකිරීම හේතුවෙන් පසු අස්වනු හානිය සියයට 40ක් තරම් ඉහළ මට්ටමක පැවැතියේය.
+🟩
 
-බෝංචි පසු අස්වනු හානිය සියයට 40 සිට 23දක්වාත්,බණ්ඩක්කා සියයට 40 සිට සියයට 28, වම්බටු සියයට 30 සිට 20, ගෝවා සියයට 43 සිට 20, කැරට් සියයට 30 සිට 22, මාළු මිරිස් සියයට 40 සිට 25, මෑකරල් සියයට 40 සිට 20, අමු මිරිස් සියයට 40 සිට 19, කරවිළ සියයට 25 සිට 24, තක්කාලි සියයට 29 සිට 15 දක්වාත් පහළ ගොස් තිබේ.
+The post-harvest losses have fallen to 25 percent, using the use of new techniques in harvesting and the use of plastic containers in transportation.
 
-පලතුරු අතරින් වැඩිම පසු අස්වනු නාස්තිය සිදුව ඇගි ගස්ලබු පසු අස්වනු හානිය සියයට 46 සිට සියයට 19 දක්වාත්, පේර සියයට 40 සිට සියයට 20 දක්වාත් අවම වී ඇතැයි අමාත්‍යාංශය කියයි.
+Post harvest losses were as high as 40 percent due to the not using recommended methods to reduce the post harvest losses in fruits and vegetables.
+
+Bean Post Harvest Damage from 40 to 23 percent, 30 percent from 30 percent, 30 percent to 22 percent, 40 percent of fish chillies, 40 percent, green chilliesAbout 25 to 19, 25 percent, tomatoes, have fell 29 to 15 percent.
+
+The post-harvest losses of the first yield of fruit has been reduced from 46 percent to 19 percent to 19 percent and 20 percent.
 
 ◼️
 
 [Data](articles/e9bb6876.json)
+
+[Extended Data](ext_articles/e9bb6876.ext.json)
 
 ---
 
@@ -1023,6 +1057,22 @@ In this case, Rahul Gandhi officially resigned from the Wayanad constituency MP 
 [Data](articles/17aea67a.json)
 
 [Extended Data](ext_articles/17aea67a.ext.json)
+
+---
+
+### A System Change
+
+*2024-06-19 10:28:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-system-change/) · `en`
+
+It was the principle slogan of the Aragalaya that there was a need for a System Change. The dominant theme and cry was for “Political Change” from the prevailing one, which after 75 years of operation, has failed. What then is the kind of change that was wanted? There may be many examples of changes that may occur to any who ponder this issue. The strident cry was “Chase out all 225.” Nothing could be clearer than that. The political establishment reacted with brutality. First, from “Temple Trees” and then from the newly installed Presidency, barely hours after Mr Wickremasinghe took over.
+
+Several institutions, conventions and practices demand critical review. Mere cosmetic changes will no longer suffice, and radical changes are emphatically needed. We describe ourselves as a “Democratic, Socialist Republic.” Are we so?
+
+Abraham Lincoln’s definition of Democracy as the “Rule of the people, by the people for the people,” I regarded as the bedrock of democracy.
+
+...
+
+[Data](articles/0c2aea29.json)
 
 ---
 
@@ -2271,57 +2321,5 @@ In the tripartite democratic structure of our country, all three institutions, t
 [Data](articles/db67f33e.json)
 
 [Extended Data](ext_articles/db67f33e.ext.json)
-
----
-
-### A young man drowned in the sea;Recovery in dangerous condition!
-
-*2024-06-19 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186411) · `ta`
-
-A 21-year-old man drowned in the Pasikuda Sea but was rescued and is now in critical condition at the Batticaloa Teaching Hospital.
-
-🟩
-
-Police said that a young man who was drowned in the Pasikuda Sea was rescued after being drowned.
-
-A 21 -year -old youth was drowned while friends from Kattankudi area were drowning in the Pasikuda Sea on Tuesday (18).
-
-The Pasikuda Navy has rescued the drowning youth and admitted to the Valaichenai Resource Hospital.
-
-The drowning youth has been transferred to the Batticaloa Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/b97ff441.json)
-
-[Extended Data](ext_articles/b97ff441.ext.json)
-
----
-
-### The telephone can close the High Court
-
-*2024-06-19 02:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்நீதிமன்றை-மூடிவிடலாம்/175-339105) · `ta`
-
-Wimal Weerawansa criticized the High Court's decision on strengthening women's rights, calling it a "trick" due to its complexity. He also questioned the court's effectiveness, suggesting it might be closed if it continues to make such decisions.
-
-🟩
-
-Wimal Weerawansa, who accused the president of being a tricky challenge to court, said that if the High Court could challenge the High Court, it was not worth it.
-
-Weerawansa said this while addressing the president's speech on Tuesday (18) in Parliament.
-
-The president is bowling in a very sophisticated manner. The President's opinion is challenging the resolution issued by the High Court regarding the Bill to strengthen women as the first bowling.. It can be said to be a trick because of sophistication.
-
-Next, he threw the controversy over the burial of the dead body of the Muslims during the Kovit period.
-
-As well as threw a third bet on tax related to rental houses. The first of these is to challenge the court. He tricks the other balls.
-
-Meanwhile. It is correct to strengthen biological women. But in that blanket it cannot allow the gender change business to accommodate. It is wrong to challenge the High Court resolution.
-
-...
-
-[Data](articles/e1669e07.json)
-
-[Extended Data](ext_articles/e1669e07.ext.json)
 
 ---

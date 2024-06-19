@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 13:04:46**
+As of **2024-06-19 13:19:14**
 
 ## Newspaper Stats
 
-*Scraped **31,098** Articles*
+*Scraped **31,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,797
 dailyftlk | 1,898
-adalk | 2,708
+adalk | 2,709
 adaderanalk | 3,522
 tamilmirrorlk | 3,657
 dailymirrorlk | 4,733
@@ -26,27 +26,37 @@ adaderanasinhalalk | 5,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,096 (100.0%) of 31,098 articles have been extended.
+31,098 (100.0%) of 31,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### மக்கள்  போராட்ட முன்னணி - புதிய அரசியல் இயக்கத்தினை ஆரம்பித்தனர் அரகலய போராட்டக்காரர்கள்
+### People's Struggle Front - Starting New Political Movement
 
 *2024-06-19 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186441) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலை அடிப்படையாக அரகலய போராட்ட குழுவினர் மக்கள் போராட்ட முன்னணி என்ற புதிய அரசியல் இயக்கத்தினை ஆரம்பித்துள்ளனர்.
+In response to the upcoming presidential election, the Arakalai protest group initiated the People's Struggle Front, a new political movement comprising alumni activists, social activists, journalists, and members from various political parties. Key figures include former Socialist Party organizer Lakiru Weerasekera, lawyer Nuwanbopage, journalist Dharindara, and representatives from left parties. The movement aims to address the current political crisis and introduce a new political system for Sri Lanka's future, as stated by Vasantha Mudikaya during a press conference.
 
-முன்னாள் மாணவ செயற்பாட்டாளர்கள் சமூக செயற்பாட்டாளர்கள் ஊடகவியலாளர்கள் அரசியல் கட்சிகளின் உறுப்பினர்களை உள்ளடக்கி  மக்கள் போராட்ட முன்னணி ஆரம்பிக்கப்பட்டுள்ளது.
+🟩
 
-அரகலய செயற்பாட்டாளர் லகிரு வீரசேகர அனைத்து பல்கலைகழக மாணவர் ஒன்றியங்களிற்கு இடையிலான முன்னாள் ஏற்பாட்டாளர் வசந்த முதலிகே முன்னணி சோசலிச கட்சியின் முக்கிய உறுப்பினர்கள் சட்டத்தரணி நுவான்போபகே  ஊடகவியலாளர் தரிந்து உடுவரகெதர மற்றும் இடதுசாரி கட்சிகளின்  பிரதிநிதிகள் இந்த புதிய அரசியல் இயக்கத்தில் அங்கம் வகிக்கின்றனர்.
+Based on the upcoming presidential election, the Arakalai protest group has launched a new political movement called the People's Struggle Front.
 
-இன்று இந்த புதிய அரசியல் இயக்கத்தினை ஆரம்பிப்பது குறித்த செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்துள்ள வசந்த முதலிகே அரகலய போராட்டம் கடந்த காலத்தில் அமைப்புமுறை மாற்றத்தை கோரியே முன்னெடுக்கப்பட்டது என தெரிவித்துள்ளார்.
+Alumni activists, social activists and journalists have started the popular struggle, including members of political parties.
+
+Former organizer of the Socialist Party of the Socialist Party of the Socialist Party between the All University Student Unions, Lakiru Weerasekera, the Arakalaya activist, Lawyer Nuwanbopage, the representatives of the Journalist Dharindara and the Left parties are part of this new political movement.
+
+Speaking at a press conference on the launching of this new political movement today, Vasantha Mudikaya Arakalaya struggle has been launched in the past.
+
+He said the present president had put the current system in crisis, saying that the demonstrators had not had any expected changes.
+
+Noting that the stability has not yet been established, the spring first life is facing severe crises.
 
 ...
 
 [Data](articles/cae2484e.json)
+
+[Extended Data](ext_articles/cae2484e.ext.json)
 
 ---
 
@@ -71,6 +81,8 @@ The Railways Department owns the largest amount of land in the country.
 ...
 
 [Data](articles/498ba9ed.json)
+
+[Extended Data](ext_articles/498ba9ed.ext.json)
 
 ---
 
@@ -669,6 +681,26 @@ Hatton police said that no one in the car was injured and the car was severely d
 [Data](articles/228b49a4.json)
 
 [Extended Data](ext_articles/228b49a4.ext.json)
+
+---
+
+### වව්නියාව සහ අවට ප්‍රදේශයන්ට භූකම්පනයක්
+
+*2024-06-19 09:46:49* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-සහ-අවට-ප්‍රදේශයන්ට-භූකම්පනයක්/11-410306) · `si`
+
+වව්නියව , කැබිතිගොල්ලෑව , හොරොව්පතාන සහ මැදවච්චිය ප්‍රදේශයන් වෙතට ඊයේ (18) රාත්‍රියේ භූ කම්පනයක් සිදුව ඇතැයි භූවිද්‍යා සමීක්ෂණ සහ පතල් කාර්යංශය පෙන්වා දෙයි.
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය සඳහන් කළේ, ඊයේ (18) රාත්‍රී 10.55 ත් 11.10 අතර කාලසීමාව තුළ මෙම භූකම්පනය සිදුව ඇති බවත් එය රික්ටර් මාපකයේ ඒකක 2.3 ලෙස එහි ප්‍රබලත්වය සටහන් වී ඇති බව භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය පැවසුවේය.
+
+එම කාර්යංශය සඳහන් කළේ, මෙම භූකම්පනය පල්ලකැලේ, මහකනදරාව සහ හක්මන යන භූකම්පන මධ්‍යස්ථානවල සටහන් ඇති බවටය.
+
+"රෑට නිදාගන්න යනකොට අපේ වහලම දෙදරන්න ගත්ත විනඩි 3 ක් විතර ඉස්සර යුද්දෙ කාලෙට බෝම්බයක් පිපුරුණහමත් මේ විදිහට තමයි වහලය දෙදරුවේ අපිට හිතගන්න බැරිවුන මොකද්ද මේ කියලා විනඩි 3 ක් විතර තමයි එහෙම තිබුනේ.
+
+අපි මේ පැත්තට භූ කම්පනයක් ගැන අහලවත් තිබුනේ නෑනේ ඉතිං නිදාගෙන ඉන්න කොට වහලය දෙදරන්න ගත්තා බල්ලෝ බිරුවා විනඩි කීපයක් තිබුනා උදේ තමයි දන්නේ භූකම්පනයක් කියලා." යනුවෙනි.
+
+◼️
+
+[Data](articles/54eff1e2.json)
 
 ---
 
@@ -2277,31 +2309,5 @@ I am glad to participate in the appointment letters to the new Zone Organizer fo
 [Data](articles/4a0c3de4.json)
 
 [Extended Data](ext_articles/4a0c3de4.ext.json)
-
----
-
-### World's cancer patients rises to 22 million in 2030
-
-*2024-06-18 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-පිළිකා-රෝගීන්ගේ-ප්‍රමාණය-වර්ෂ-2030දී-මිලියන-22-දක්වා-ඉහළ-යාමක්/11-410302) · `si`
-
-Cancer cases worldwide expected to rise to 22 million by 2030, according to the Kandy Cancer Association. Despite the increase, early detection and awareness can help control the disease. Oral cancer, often linked to smoking, is highlighted as a concern. Controlling alcohol and unhealthy food intake can minimize its spread. Additional resources have been allocated to combat cancer effectively.
-
-🟩
-
-According to the Kandy Cancer Association, Mrs. Manama Anthony of the Kandy Cancer Association (SLTD) is said to reach two million cancer.
-
-The doctor made this observation at a functioning campaign held at the Kandy District Secretariat yesterday by the Sri Lanka Cancer Association with regard to cancer and expansion control.
-
-The doctor added that although the size of the cancer patients grow, it can be controlled by awareness.
-
-The doctor said that the health units would be assumed that the death toll of 9.6 million rupees will be about 17 million in 2030 in the year 2018.. The doctor who pointed out that oral cancer is common among the male is a medical practice, the medical cancer develops due to smoking.. The doctor also said that the control of alcohol and other unfavorable foods could be minimized.
-
-Mrs. Anthony, said Mrs. Anthony, could be completely eliminated by identifying one of three cancers and to be controlled by identifying 1/3.Pointed out.
-
-...
-
-[Data](articles/5ef68ba9.json)
-
-[Extended Data](ext_articles/5ef68ba9.ext.json)
 
 ---

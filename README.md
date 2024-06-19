@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 08:53:33**
+As of **2024-06-19 09:05:01**
 
 ## Newspaper Stats
 
-*Scraped **31,056** Articles*
+*Scraped **31,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
-adalk | 2,704
+adalk | 2,705
 adaderanalk | 3,517
 tamilmirrorlk | 3,648
 dailymirrorlk | 4,733
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,055 (100.0%) of 31,056 articles have been extended.
+31,056 (100.0%) of 31,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### දිස්ත්‍රික්ක 11ක ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය කිලෝ 7,700ක්
+### 7,700 kg of electronic waste in 11 districts
 
 *2024-06-19 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197906) · `si`
 
-දිස්ත්‍රික්ක 11 ක් පුරා ක්‍රියාත්මක වූ ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය එකතු කිරීමේ වැඩසටහන මඟින් එම අපද්‍රව්‍ය කිලෝ ග්‍රෑම් 7,700කට අධික ප්‍රමාණයක් එක් රැස්කර ගැනීමට හැකි වූ බව මධ්‍යම පරිසර අධිකාරිය පවසයි.
+In 11 districts, over 7,700 kg of electronic waste was collected as part of a recycling program initiated to address environmental concerns. Despite challenges like rainfall, this effort marks a significant achievement in waste management efforts coinciding with World Environment Day.
 
-එහි වැඩබලන නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් චතුර මල්වැන්න මහතා සඳහන් කළේ, අදාළ ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය ප්‍රතිචක්‍රීකරණ වැඩසටහන යෙමු කිරීමට පියවර ගෙන ඇති බවය.
+🟩
 
-"ලෝක පරිසර දිනයට සමගාමීව මධ්‍යම පරිසර අධිකාරිය මඟින් සිදුකරනු ලැබූ අපද්‍රව්‍ය එකතු කිරීමේ පසුගිය 3 හා 4 යන දිනවල සිදුකරනු ලැබුවා පළාත් 4ක, දිස්ත්‍රික්ක 11ක මධ්‍යස්ථාන 97ක. එහිදී විවිධ බාධක පැමිණියා වර්ෂාපතනයත් එක්ක. මෙම මධ්‍යස්ථාන 97 අපිට හැකිවුණා ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය කිලෝග්‍රෑම් 7,777ක් එකතු කරගන්න. මේක එක්තරා විදියක ජයග්‍රහණයක්."
+The CEA stated that the electronic waste collection of 11 districts has been able to collect over 7,700 kilograms of waste.
+
+The Deputy Director General of the Festival Festival, said that steps have been taken to meet the relevant electronic waste recycling program.
+
+"In parallel with the World Environment Day, waste collection carried out by the Central Environmental Data, 4 and 4 of the provinces, 97 districts, 11 districts. There came different obstacles with rainfall. We were able to add 7,777 kilograms of electronic waste. This is a victory on a particular area. "
 
 ◼️
 
 [Data](articles/d41c78b5.json)
+
+[Extended Data](ext_articles/d41c78b5.ext.json)
 
 ---
 
@@ -1330,6 +1336,22 @@ However, when inquired by Ada Derana, Minister Rajapakshe said that the statemen
 
 ---
 
+### විදුලි ගාස්තු ගැන උපයෝගිතා කොමිෂමේ තීරණය ජුලි 15දා
+
+*2024-06-18 19:03:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-ගැන-උපයෝගිතා-කොමිෂමේ-තීරණය-ජුලි-15දා/11-410301) · `si`
+
+ලංකා විදුලි බල මන්ඩලය මගින් 2024 වසරේ සිදු කිරීමට යෝජිත දෙවන විදුලි ගාස්තු සංශෝධනයට අදාල අවසන් තීරණය  ඒ  පිළිබඳව මහජන අදහස් විමසීමෙන් පසුව ජූලි 15 දා ලබාදෙන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+
+මේ වන විට විදුලි බල මන්ඩලය මගින් ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව සමාලෝචනයට ලක්කරම්න් සිටින බව මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
+
+මෙම විදුලි ගාස්තු සංශෝධනය  පිළිබඳව උනන්දුවක් දක්වන්නන්ට අද සිට  ජුලි 08 දක්වා ලිඛිතව අදහස් දැක්විය හැකි බවත් වාචිකව දක්වන්නන්ට ජුලි 09 දා කොළඹ දී අදහස් දැක්වීමට අවස්ථාව සලසන බවත් මහජන උපයෝගීතා කොමිෂන් සභාව දැනුම් දෙයි .
+
+◼️
+
+[Data](articles/947c47ea.json)
+
+---
+
 ### People in Jaffna district not permit to cultivate seamalks
 
 *2024-06-18 18:43:11* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රිකයේ-චින-ජාතිකයින්ට-මුහුදු-කුඩැල්ලන්-වගා-කිරිමට-අවසර-දෙන්නේ-නෑ/11-410300) · `si`
@@ -2315,35 +2337,5 @@ The Northern Provincial Journalists have called for all the journalists, intelle
 [Data](articles/d6c9bfa1.json)
 
 [Extended Data](ext_articles/d6c9bfa1.ext.json)
-
----
-
-### China will have to face the consequences of strengthening Putin's war - NATO leader warning
-
-*2024-06-18 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186373) · `ta`
-
-NATO warns China over aiding Putin's war efforts, stating it must face consequences. Jens Stoltenberg highlights China's support for Russia, including microelectronics crucial for missile production. He suggests potential economic repercussions if China doesn't halt its involvement. The US recently sanctioned 20 Hong Kong-based firms.
-
-🟩
-
-NATO leader, who has accused China of strengthening the Ukrainian war of Russian President Vladimirputin, has said that China should enjoy the consequences of this.
-
-NATO president Jens Stoltenberg has said that China would have to experience the consequences if China did not stop the Russian president's war.
-
-He noted that China is working to satisfy the two sides, while Putinin is supporting the war, while trying to maintain ties with European colleagues.
-
-NATO leader said that NATO countries are investigating the obstacles that China supports Russia.
-
-Russia is providing Micro Electronic technologies to Russia, which is essential for Russia to produce its missiles, and Russia is making missiles to attack Ukraine.
-
-He said that if China does not stop its operations, NATO will have to think about the economic impact on China at some point.
-
-Last month, the US imposed sanctions against 20 companies from Hong Kong Kong Kong.
-
-◼️
-
-[Data](articles/a279b3db.json)
-
-[Extended Data](ext_articles/a279b3db.ext.json)
 
 ---

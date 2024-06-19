@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 03:53:13**
+As of **2024-06-20 04:04:44**
 
 ## Newspaper Stats
 
-*Scraped **31,195** Articles*
+*Scraped **31,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,804
 dailyftlk | 1,899
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,668
+tamilmirrorlk | 3,669
 dailymirrorlk | 4,733
 virakesarilk | 4,821
 adaderanasinhalalk | 5,069
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,195 (100.0%) of 31,195 articles have been extended.
+31,195 (100.0%) of 31,196 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 [Data](articles/27d00e76.json)
 
 [Extended Data](ext_articles/27d00e76.ext.json)
+
+---
+
+### ’தொழிலாளர்களை கைது செய்ய முடியாது’
+
+*2024-06-20 01:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களை-கைது-செய்ய-முடியாது/175-339158) · `ta`
+
+தொழிற்சங்க நடவடிக்கைகளை மேற்கொள்வதற்காக தொழிலாளர்களை கைது செய்யும் அதிகாரம் பொலிஸாருக்கு கிடையாது எனத்தெரிவித்த இலங்கை தொழிலாளர்காங்கிரஸ் தலைவரும் அமைச்சருமான  ஜீவன் தொண்டமான் ,தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபா சம்பளத்தை பெற்றுக் கொடுக்க அனைவரும் ஒன்றிணைந்து நடவடிக்கை எடுக்க வேண்டும் எனவும் அழைப்பு விடுத்தார்.
+
+1700 ரூபா சம்பளத்தை வழங்க வேண்டும் என அரசாங்கம் அறிவித்துள்ள போதும் தோட்டக் கம்பனிகள் இதுவரை அதனை வழங்க மறுத்து வருகின்றன என்பதை சபையில் சுட்டிக்காட்டிய அவர், ஆளும் கட்சி எதிர்க்கட்சி என்றில்லாமல் அனைவரும் இணைந்து தோட்டத் தொழிலாளர்களுக்கு அதனை பெற்றுக் கொடுக்க நடவடிக்கை எடுப்பது அவசியம் என்றும் அவர் சபையில் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று புதன்கிழமை விசேட கூற்றொன்றை முன்வைத்தே    இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில், .
+
+...
+
+[Data](articles/16cb69b6.json)
 
 ---
 
@@ -2423,35 +2439,5 @@ Wickremesinghe announced the establishment of a new development bank aimed at pr
 [Data](articles/eb9216ec.json)
 
 [Extended Data](ext_articles/eb9216ec.ext.json)
-
----
-
-### Complete War Against Hezbullah System - Israel
-
-*2024-06-19 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186429) · `ta`
-
-Israel warns Hezbollah over videos showing Israeli military sites, hinting at changing tactics. Hezbollah releases footage of Israeli cities and military installations, including missile deployment areas. Israel's Foreign Minister mentions pride in the Port of Haifa, operated by China, as tensions rise.
-
-🟩
-
-Israel has issued this warning following the Hesbullah organization's release of videos that show Israel's military civil structures.
-
-Israel's Foreign Minister said that we are approaching the moment when we change the rules of the game against Hesbullah and Leban.
-
-In its video, the Hesbullah organization shows the most populous areas of Israel's Heifa and the Hesbullah Organization.
-
-In its video, the Hesbullah organization also shows Israel's military statues in Heiba.
-
-In its video, the Hesbullah organization also shows Israel's military statues in Heiba.
-
-In its video, the Hesbullah organization also shows the areas where the missile security is the area where the missiles are laid out.
-
-Israeli's Foreign Minister has said that the Hesbullah organization has been proud of the port of Hezbullah that China has operated the Haiba port.
-
-◼️
-
-[Data](articles/be7efd28.json)
-
-[Extended Data](ext_articles/be7efd28.ext.json)
 
 ---

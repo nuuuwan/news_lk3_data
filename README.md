@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 10:19:34**
+As of **2024-06-19 10:34:52**
 
 ## Newspaper Stats
 
-*Scraped **31,066** Articles*
+*Scraped **31,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,706
 adaderanalk | 3,519
-tamilmirrorlk | 3,650
+tamilmirrorlk | 3,651
 dailymirrorlk | 4,733
 virakesarilk | 4,784
 adaderanasinhalalk | 5,047
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,047
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,064 (100.0%) of 31,066 articles have been extended.
+31,066 (100.0%) of 31,067 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Putin, making his first trip to North Korea in 24 years, said in comments that a
 ...
 
 [Data](articles/4a3faa71.json)
+
+[Extended Data](ext_articles/4a3faa71.ext.json)
 
 ---
 
@@ -211,6 +213,22 @@ Meanwhile, the earthquake struck at around 11.01pm last night. Remble
 [Data](articles/858ac272.json)
 
 [Extended Data](ext_articles/858ac272.ext.json)
+
+---
+
+### அனுபவம் புதிது:  வவுனியா மக்கள்
+
+*2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-புதிது-வவுனியா-மக்கள்/175-339110) · `ta`
+
+வவுனியா மற்றும் மதவாச்சியின் பல கிராமங்களில் 2.3 ரிக்டர் அளவில் நில அதிர்வு ஏற்பட்டதாக புவிச்சரிதவியல், நில அளவை மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+
+இதனால் சேதங்கள் ஏதும் ஏற்படாத நிலையில் மக்கள்  தங்களது வீடுகளில் ஜன்னல்கள் கதவுகள் சில நொடிகள் பலத்த சத்தத்துடன் அதிர்ந்ததாக தெரிவிக்கின்றனர்.
+
+இதேவேளை, நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/b65c7c15.json)
 
 ---
 
@@ -1500,19 +1518,29 @@ I am glad to participate in the appointment letters to the new Zone Organizer fo
 
 ---
 
-### ලොව පිළිකා රෝගීන්ගේ ප්‍රමාණය වර්ෂ 2030දී මිලියන 22 දක්වා ඉහළ යාමක්
+### World's cancer patients rises to 22 million in 2030
 
 *2024-06-18 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-පිළිකා-රෝගීන්ගේ-ප්‍රමාණය-වර්ෂ-2030දී-මිලියන-22-දක්වා-ඉහළ-යාමක්/11-410302) · `si`
 
-ජාත්‍යන්තර සෞඛ්‍ය අංශ අනුමාන කරන පරිදි මිලියන දහඅටක් වන ලොව පිළිකා රෝගීන්ගේ ප්‍රමාණය වර්ෂ 2030 වන විට මිලියන විසි දෙකක් පමණ දක්වා ඉහළ යනු ඇති බව ශ්‍රී ලංකා පිළිකා සංගමයේ මහනුවර ශාඛාවේ මනෝ වෛද්‍ය යෝගා ඇන්තනී මහත්මිය සඳහන් කළාය.
+Cancer cases worldwide expected to rise to 22 million by 2030, according to the Kandy Cancer Association. Despite the increase, early detection and awareness can help control the disease. Oral cancer, often linked to smoking, is highlighted as a concern. Controlling alcohol and unhealthy food intake can minimize its spread. Additional resources have been allocated to combat cancer effectively.
 
-පිළිකා රෝගය හා එහි ව්‍යාප්තිය පාලනය සම්බන්ධයෙන් ශ්‍රී ලංකා පිළිකා සංගමයේ මෙහෙයවීමෙන් මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඊයේ (18) පැවැති දැනුවත් කිරීමේ වැඩසටහනකට එක්වෙමින් වෛද්‍යවරිය මේ බව ප්‍රකාශ කළාය.
+🟩
 
-පිළිකා රෝගීන්ගේ ප්‍රමාණය එලෙසින් වර්ධනය වුවත් දැනුවත් භාවය තුළින් එය සැලකිය යුතු තත්ත්වයක් දක්වා පාලනය කර ගත හැකි යැයි ද වෛද්‍යවරිය  වැඩිදුරටත් සඳහන් කළාය.
+According to the Kandy Cancer Association, Mrs. Manama Anthony of the Kandy Cancer Association (SLTD) is said to reach two million cancer.
+
+The doctor made this observation at a functioning campaign held at the Kandy District Secretariat yesterday by the Sri Lanka Cancer Association with regard to cancer and expansion control.
+
+The doctor added that although the size of the cancer patients grow, it can be controlled by awareness.
+
+The doctor said that the health units would be assumed that the death toll of 9.6 million rupees will be about 17 million in 2030 in the year 2018.. The doctor who pointed out that oral cancer is common among the male is a medical practice, the medical cancer develops due to smoking.. The doctor also said that the control of alcohol and other unfavorable foods could be minimized.
+
+Mrs. Anthony, said Mrs. Anthony, could be completely eliminated by identifying one of three cancers and to be controlled by identifying 1/3.Pointed out.
 
 ...
 
 [Data](articles/5ef68ba9.json)
+
+[Extended Data](ext_articles/5ef68ba9.ext.json)
 
 ---
 
@@ -2289,35 +2317,5 @@ In response, the Estonia won the match with 194 runs for the loss of 4 wickets i
 [Data](articles/41f3d84e.json)
 
 [Extended Data](ext_articles/41f3d84e.ext.json)
-
----
-
-### Public Commenting on Second Electricity tariff revision
-
-*2024-06-18 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197887) · `si`
-
-The Ceylon Electricity Board (CEB), as per the Electricity Act, seeks public opinion on its second electricity tariff revision through People's Counseling. The Public Utilities Commission allows public acceptance of the proposed tariffs until July 8, 2024, with a video conference scheduled for July 9, 2024. Final decisions will be announced on July 15, 2024.
-
-🟩
-
-The Distributor Licensee (CEB) in accordance with Section 30 of the Electricity Act No. 20 of 2009 has been decided to obtain public opinion on the second electronic tariff revision (People's Counseling).
-
-The Ceylon Electricity Board (CEB) has reviewed the proposal proposal to the Public Utilities Commission to the Sri Lanka Public Utilities Commission.
-
-The Public Utilities Commission states that the public will accept the proposed telecommunication tariffs until July 08, 2024.
-
-Videological comments will be held on July 9, 2024.
-
-The public consultancy is conducted in accordance with the powers vested in the Commission under Section 17 of the Public Utilities Commission of Sri Lanka Utilities Commission Act No 35 of 2002.
-
-Upon completion of public views, the Commission will declare the final decision on July 15, 2024.
-
-Written ideas and suggestions in the proposed tariff revision can be submitted along the following address or following ways.
-
-...
-
-[Data](articles/19d69ff1.json)
-
-[Extended Data](ext_articles/19d69ff1.ext.json)
 
 ---

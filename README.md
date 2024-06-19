@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 18:13:42**
+As of **2024-06-19 18:25:59**
 
 ## Newspaper Stats
 
-*Scraped **31,140** Articles*
+*Scraped **31,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
 adalk | 2,716
-adaderanalk | 3,528
-tamilmirrorlk | 3,661
+adaderanalk | 3,529
+tamilmirrorlk | 3,662
 dailymirrorlk | 4,733
 virakesarilk | 4,799
 adaderanasinhalalk | 5,065
@@ -26,31 +26,71 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,139 (100.0%) of 31,140 articles have been extended.
+31,140 (100.0%) of 31,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### සිසු සැරිය බස් අනතුර ගැන තවත් තොරතුරු
+### Karuna Amman to back Ranil at presidential poll
+
+*2024-06-19 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99972/karuna-amman-to-back-ranil-at-presidential-poll) · `en`
+
+Leader of the Tamil United Freedom Front (TUFF), former MP Vinayagamoorthy Muralitharan alias ‘Karuna Amman’, says that both he and his party will support President Ranil Wickremesinghe at the upcoming Presidential Election.
+
+The former LTTE commander turned politician revealed this while speaking to reporters while attending the opening of United National Party (UNP) office in Panadura today (19).
+
+“We have to appreciate our President Ranil Wickremesinghe, because he only rebuilt the country.”
+
+“Everybody knows the history. The last President spoilt the whole sector, even the businesses and the people’s livelihood. Everything went down,” the former deputy minister said.
+
+He stated that only after UNP leader Wickremesinghe took over the Presidency has the situation improved in the country and things are turning for the better.
+
+“The next chance also we have to give to him. That’s why I’m also supporting him,” Karuna Amman declared.
+
+...
+
+[Data](articles/e9f521fa.json)
+
+---
+
+### பஸ் விபத்தில் 50 பேர் காயம்
+
+*2024-06-19 17:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-50-பேர்-காயம்/175-339135) · `ta`
+
+ரணால பகுதியில் வைத்து தனியார் பேருந்தொன்றும் சிசு செறிய பேருந்தொன்றும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் 50க்கும் மேற்பட்ட மாணவர்கள் காயமடைந்து ரணால மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தங்காலை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9c973b61.json)
+
+---
+
+### More information about the students' searround bus accident
 
 *2024-06-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197930) · `si`
 
-කොළඹ අවිස්සාවේල්ල ලෝලෙවල් මාර්ගයේ රනාල ප්‍රදේශයේදී බස් රථ දෙකක් මුහුණට මුහුණ ගැටීමෙන් අද (19) අනතුරක් සිදුවී තිබුණි.
+In Avissawella, a collision between two buses resulted in 27 schoolchildren being injured and taken to Navagamuwa District Hospital. The incident occurred in the Ranala area, involving a Labugama-Colombo Siyaiya bus and an Embilipitiya-Colombo passenger bus. Six individuals, including the conductor of the private bus, were treated at the hospital, with ongoing treatment for additional victims.
 
-එම අනතුරෙන් පාසල් දරුවන් 27 දෙනෙකු තුවාල ලබා නවගමුව දිසා රෝහලට ඇතුලත් කළ බව හංවැල්ල පොලීසියෙන් ලද නවතම තොරතුරුවල දැක්වෙයි.
+🟩
 
-පාසල් ළමුන් රැගෙන එමින් තිබූ ලබුගම - කොළඹ සිසු සැරිය බස් රථයක් සහ ඇඹිලිපිටිය - කොළඹ මගී ප්‍රවාහන බස් රථයක් මෙලෙස මුහුණට මුහුණ ගැටී අනතුර සිදුවී ඇත.
+There was an accident in the Ranala area in the Ranala area in Avissawella Lollywela area.
 
-පෞද්ගලික මගී ප්‍රවාහන බස් රථයේ කොන්දොස්තරවරයා බස් රථයක් ඉදිරිපස දොර අසල සිරවී සිටියදී ප්‍රදේශවාසීන් විසින් බේරාගෙන නවගමුව රෝහලට ඇතුලත් කර තිබේ.
+The latest information from the Hanwella police stated that 27 school children were injured and rushed to the Navagamuwa District Hospital.
 
-රෝහල්ගත කළ ළමුන් අතුරින් 21දෙනෙකු ප්‍රතිකාර ලබා රෝහලින් පිටව ගොස් ඇති බවත් තවත් පාසල් ළමුන් 06 දෙනෙකු නේවාසිකව ප්‍රතිකාර ලබන බවත් නවගමුව දිසා රෝහලේ ප්‍රකාශකයෙකු පැවසීය.
+A Labugama-Colombo Siyaiya bus and Embilipitiya - Colombo passenger bus had been collide.
 
-නවතා තිබූ ඇඹිලිපිටිය කොළඹ මගී බස් රථයේ සිසු සැරිය බස් රථය ගැටී ඇතැයි සිදුකළ මූලික විමර්ෂණයේදී අනාවරණය වූ බවත් අපරික්ෂාරී ලෙස රිය ධාවනය සහ අනතුරක් වළක්වා නොගැනීම යන චෝදනා යටතේ සිසු සැරිය බස් රථයේ රියදුරු සැකපිට අත්අඩංගුවට ගත් බවත් හංවැල්ල පොලීසිය පවසයි.
+The conductor of the private passenger bus was admitted to the Navagamuwa hospital while a bus was trapped near the front door.
+
+A spokesman for Navagamuwa District Hospital said six persons were treated in hospital and six more school children were receiving treatment.
+
+Hanwella Police say that the students of the Colombo passenger bus had collided with the accusation of the Colombo passenger bus.
 
 ◼️
 
 [Data](articles/f290bf29.json)
+
+[Extended Data](ext_articles/f290bf29.ext.json)
 
 ---
 
@@ -2307,39 +2347,5 @@ Rafi is an Economist and is an economic policy consultant to a multilateral deve
 [Data](articles/956c1f52.json)
 
 [Extended Data](ext_articles/956c1f52.ext.json)
-
----
-
-### Business Forum in Brisbane – “Resilient and Rising: Leveraging Sri Lanka’s Potential”
-
-*2024-06-19 04:37:43* · [`dailyftlk`](https://www.ft.lk/business/Business-Forum-in-Brisbane-Resilient-and-Rising-Leveraging-Sri-Lanka-s-Potential/34-763221) · `en`
-
-At a time when Sri Lanka is exploring the means to support economic diversification, business innovation and promote inclusive and sustainable growth, Sri Lanka-Australia Chamber of Commerce and the Chartered Accountant Association of Sri Lanka (Australia Chapter Inc) with the collaboration of High Commission of Sri Lanka in Canberra organised a Business Forum “Resilient and Rising: Leveraging Sri Lanka’s Potential” on 6 June 2024 in Brisbane.
-
-The event aimed to bring together Australian business leaders, entrepreneurs and investors to explore and capitalise opportunities in Sri Lanka, focusing on economic resilience, investment prospects and strategic growth initiatives.
-
-While welcoming the guests, Sri Lanka Australia Chamber of Commerce President Kalum De Silva spoke about knowledge industries and sustainable manufacturing industries in Sri Lanka. He also highlighted the importance of geographical location and the investment climate of Sri Lanka.
-
-...
-
-[Data](articles/7678c8b6.json)
-
-[Extended Data](ext_articles/7678c8b6.ext.json)
-
----
-
-### Adani Group acquires Penna Cement
-
-*2024-06-19 04:35:18* · [`dailyftlk`](https://www.ft.lk/business/Adani-Group-acquires-Penna-Cement/34-763220) · `en`
-
-Ambuja Cements Ltd., the cement and building material company of the diversified Adani Group, recently announced the signing of a binding agreement for the acquisition of Penna Cement Industries Ltd.
-
-Ambuja will acquire 100% shares of PCIL from its existing promoter group, P. Pratap Reddy and family. The acquisition will be fully funded through internal accruals.
-
-...
-
-[Data](articles/ec41bf2e.json)
-
-[Extended Data](ext_articles/ec41bf2e.ext.json)
 
 ---

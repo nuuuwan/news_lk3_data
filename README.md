@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 10:05:52**
+As of **2024-06-19 10:19:34**
 
 ## Newspaper Stats
 
-*Scraped **31,064** Articles*
+*Scraped **31,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
-adalk | 2,705
-adaderanalk | 3,518
+adalk | 2,706
+adaderanalk | 3,519
 tamilmirrorlk | 3,650
 dailymirrorlk | 4,733
 virakesarilk | 4,784
@@ -26,17 +26,33 @@ adaderanasinhalalk | 5,047
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,062 (100.0%) of 31,064 articles have been extended.
+31,064 (100.0%) of 31,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
+### Putin arrives in North Korea for first official visit in 24 years
+
+*2024-06-19 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99961/putin-arrives-in-north-korea-for-first-official-visit-in-24-years) · `en`
+
+Russian President Vladimir Putin arrived in North Korea early on Wednesday, after saying the two countries want to cooperate closely to overcome U.S.-led sanctions in the face of intensifying confrontations with Washington.
+
+Putin was met at Pyongyang’s airport by North Korean leader Kim Jong Un. They shook hands and embraced, and Kim later joined Putin in his car to personally guide him to Pyongyang’s Kumsusan State Guest House, North Korea’s official Korean Central News Agency said. The agency described their meeting as a historic event that demonstrates the “invincibility and durability” of the two nations’ friendship and unity.
+
+Putin, making his first trip to North Korea in 24 years, said in comments that appeared in its state media hours before he landed that he appreciates the country’s firm support of his military actions in Ukraine. The Kremlin launched a full-scale invasion of the neighboring country in 2022.
+
+...
+
+[Data](articles/4a3faa71.json)
+
+---
+
 ### Teachers to launch ‘sick leave’ trade union action
 
 *2024-06-19 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99960/teachers-to-launch-sick-leave-trade-union-action-) · `en`
 
-The Ceylon Teachers’ Union (CTU) says they have decided to engage in trade union actions by reporting sick on June 26.
+The Ceylon Teachers’ Union (CTU) says they have decided to engage in trade union action by reporting sick on June 26 (Wednesday).
 
 The CTU General Secretary, Joseph Stalin, stated that if their demands are not met as promised, the teachers will also withdraw from the Ordinary Level (O/L) exam paper marking activities.
 
@@ -49,6 +65,8 @@ UTUJC co-chairman Dhammika Priyantha emphasized that authorities will be given a
 ...
 
 [Data](articles/a2073474.json)
+
+[Extended Data](ext_articles/a2073474.ext.json)
 
 ---
 
@@ -68,27 +86,33 @@ The Parliamentary Council has started its session, focusing on legislative discu
 
 ---
 
-### ලෝකයේ වටිනාම සමාගම
+### The world's most valuable company
 
 *2024-06-19 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197909) · `si`
 
-ලෝකයේ වටිනාම සමාගම බවට Nvidia සමාගම පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+NVIDIA became the world's most valuable company after its stock surged 35% to $136 per share, surpassing Apple's value. This increase is attributed to the high demand for NVIDIA's AI-focused computer chips. The company's market cap reached $3.34 trillion, marking a significant milestone in the tech industry.
 
-එහි කොටස් වටිනාකම ඊයේ (18) ඉතිහාසයේ වැඩිම අගය වාර්තාකර තිබුණි.
+🟩
 
-එම සමාගමේ කොටසක වටිනාකම ඊයේ 3.5%කින් ඉහළගිය අතර එහි අගය දැක්වුණේ ඩොලර් 136ක් ලෙසට ය.
+NVIDIA has reportedly elected to the world's most valuable company.
 
-මේ මස ආරම්භයේදී Nvidia සමාගම, ඇපල් සමාගමේ වටිනාකම අභිබවා ගියේය.
+Its share value was recorded in history yesterday (18).
 
-කෘත්‍රීම බුද්ධිය භාවිත කෙරෙන මෙවලම් සඳහා අවශ්‍ය පරිගණක චිප් Nvidia සමාගම විසින් නිපදවනු ලබයි.
+The company's part of the company increased by 35% yesterday and the value was $ 136.
 
-එහි නිෂ්පාදන සඳහා ඇති ඉල්ලුම සීග්‍රයෙන් වැඩිවෙමින් පවතින බව වෙළෙඳපොළ වාර්තා පෙන්වා දෙයි.
+At the beginning of this month, NVIDIA surpassed the value of Apple.
 
-එම සමාගමේ වර්තමාන වටිනාකම සඳහන් වන්නේ ඩොලර් ට්‍රිලියන 3.34ක් ලෙසටයි.
+The necessary computer chip NVIDIA is manufactured by the computer Chip NVIDIA for artificial intelligence.
+
+The demand for its products is increasing rapidly.
+
+The current value of that company is mentioned 3.34 trillion.
 
 ◼️
 
 [Data](articles/5018740b.json)
+
+[Extended Data](ext_articles/5018740b.ext.json)
 
 ---
 
@@ -1476,6 +1500,22 @@ I am glad to participate in the appointment letters to the new Zone Organizer fo
 
 ---
 
+### ලොව පිළිකා රෝගීන්ගේ ප්‍රමාණය වර්ෂ 2030දී මිලියන 22 දක්වා ඉහළ යාමක්
+
+*2024-06-18 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-පිළිකා-රෝගීන්ගේ-ප්‍රමාණය-වර්ෂ-2030දී-මිලියන-22-දක්වා-ඉහළ-යාමක්/11-410302) · `si`
+
+ජාත්‍යන්තර සෞඛ්‍ය අංශ අනුමාන කරන පරිදි මිලියන දහඅටක් වන ලොව පිළිකා රෝගීන්ගේ ප්‍රමාණය වර්ෂ 2030 වන විට මිලියන විසි දෙකක් පමණ දක්වා ඉහළ යනු ඇති බව ශ්‍රී ලංකා පිළිකා සංගමයේ මහනුවර ශාඛාවේ මනෝ වෛද්‍ය යෝගා ඇන්තනී මහත්මිය සඳහන් කළාය.
+
+පිළිකා රෝගය හා එහි ව්‍යාප්තිය පාලනය සම්බන්ධයෙන් ශ්‍රී ලංකා පිළිකා සංගමයේ මෙහෙයවීමෙන් මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඊයේ (18) පැවැති දැනුවත් කිරීමේ වැඩසටහනකට එක්වෙමින් වෛද්‍යවරිය මේ බව ප්‍රකාශ කළාය.
+
+පිළිකා රෝගීන්ගේ ප්‍රමාණය එලෙසින් වර්ධනය වුවත් දැනුවත් භාවය තුළින් එය සැලකිය යුතු තත්ත්වයක් දක්වා පාලනය කර ගත හැකි යැයි ද වෛද්‍යවරිය  වැඩිදුරටත් සඳහන් කළාය.
+
+...
+
+[Data](articles/5ef68ba9.json)
+
+---
+
 ### President tells Minister Wijeyadasa to quit?
 
 *2024-06-18 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99954/president-tells-minister-wijeyadasa-to-quit) · `en`
@@ -2279,59 +2319,5 @@ Written ideas and suggestions in the proposed tariff revision can be submitted a
 [Data](articles/19d69ff1.json)
 
 [Extended Data](ext_articles/19d69ff1.ext.json)
-
----
-
-### The four-year-old boy who had discovered was the wilderness
-
-*2024-06-18 15:26:05* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදහන්වි-සිටි-සිව්-හැවිරිදි-පිරිමි-දරුවා-ළදු-කැළැවක-සිටියදි--සොයාගනී/11-410291) · `si`
-
-A four-year-old boy went missing from a wedding in Norwood, found dead in the Walawe river. The Norwood Police Inspector, Priyankara, confirmed the discovery. Initial investigations suggest the death occurred nearby. The child's family has been notified, and he will undergo further examinations at the Judiciary Hospital.
-
-🟩
-
-Norwood Police OIC of Police Inspector Priyankara, OIC of the Norwood Police, was discovered in the Walawe on the Norwood police division last night (17).
-
-Sivanathan, a resident of the Nallathan, the Nallathaniya, was discovered.
-
-The child had come to a wedding ceremony in Norwood Duncan in Norwood Duncan.Police said that the basic experiments made during the closest corpses have been identified within the closed bulate.
-
-The child's parents and relatives of the child and relatives of the child have been informed of the child and relatives have been informed of the 119 police officers.
-
-The child's father said that his child was playing in the yard last evening, with the support of the child, with the support of neighboring, and the child was launched.
-
-The father of the missing child said that the Norwood police had not been able to find the child.
-
-The child will be referred to the Judiciary Hospital for further investigations and providing the child's food and drink by the child.
-
-◼️
-
-[Data](articles/ce12c98a.json)
-
-[Extended Data](ext_articles/ce12c98a.ext.json)
-
----
-
-### The first rally begins the exangeration power
-
-*2024-06-18 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197886) · `si`
-
-The first rally of the National Movement has started, featuring Ananda Samarakoon's performance in an outdoor theater following his visit there. Seven political parties and organizations from the Universal Power Unity will participate, uniting various political forces.
-
-🟩
-
-The first rally in the National Movement has commenced.
-
-The rally, the rally of Ananda Samarakoon is also held in the outdoor theater.
-
-Ananda Samarakoon outdoors were initiated after the visit to Ananda Samarakoon outdoors, Nugegoda.
-
-The seven political parties and organizations belonging to the universal power unity will join the public for other political forces.
-
-◼️
-
-[Data](articles/e0d12a7f.json)
-
-[Extended Data](ext_articles/e0d12a7f.ext.json)
 
 ---

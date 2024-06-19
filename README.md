@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 17:35:19**
+As of **2024-06-19 17:55:31**
 
 ## Newspaper Stats
 
-*Scraped **31,136** Articles*
+*Scraped **31,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,82 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
-adalk | 2,715
-adaderanalk | 3,527
+adalk | 2,716
+adaderanalk | 3,528
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,063
+adaderanasinhalalk | 5,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,135 (100.0%) of 31,136 articles have been extended.
+31,136 (100.0%) of 31,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ශ්‍රීලනිපයේ නව සභාපති නිමල් සිරිපාල
+### සිසු සැරිය බස් අනතුර ගැන තවත් තොරතුරු
+
+*2024-06-19 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197929) · `si`
+
+කොළඹ අවිස්සාවේල්ල ලෝලෙවල් මාර්ගයේ රනාල ප්‍රදේශයේදී බස් රථ දෙකක් මුහුණට මුහුණ ගැටීමෙන් අද (19) අනතුරක් සිදුවී තිබුණි.
+
+එම අනතුරෙන් පාසල් දරුවන් 27 දෙනෙකු තුවාල ලබා නවගමුව දිසා රෝහලට ඇතුලත් කළ බව හංවැල්ල පොලීසියෙන් ලද නවතම තොරතුරුවල දැක්වෙයි.
+
+පාසල් ළමුන් රැගෙන එමින් තිබූ ලබුගම - කොළඹ සිසු සැරිය බස් රථයක් සහ ඇඹිලිපිටිය - කොළඹ මගී ප්‍රවාහන බස් රථයක් මෙලෙස මුහුණට මුහුණ ගැටී අනතුර සිදුවී ඇත.
+
+පෞද්ගලික මගී ප්‍රවාහන බස් රථයේ කොන්දොස්තරවරයා බස් රථයක් ඉදිරිපස දොර අසල සිරවී සිටියදී ප්‍රදේශවාසීන් විසින් බේරාගෙන නවගමුව රෝහලට ඇතුලත් කර තිබේ.
+
+රෝහල්ගත කළ ළමුන් අතුරින් 21දෙනෙකු ප්‍රතිකාර ලබා රෝහලින් පිටව ගොස් ඇති බවත් තවත් පාසල් ළමුන් 06 දෙනෙකු නේවාසිකව ප්‍රතිකාර ලබන බවත් නවගමුව දිසා රෝහලේ ප්‍රකාශකයෙකු පැවසීය.
+
+නවතා තිබූ ඇඹිලිපිටිය කොළඹ මගී බස් රථයේ සිසු සැරිය බස් රථය ගැටී ඇතැයි සිදුකළ මූලික විමර්ෂණයේදී අනාවරණය වූ බවත් අපරික්ෂාරී ලෙස රිය ධාවනය සහ අනතුරක් වළක්වා නොගැනීම යන චෝදනා යටතේ සිසු සැරිය බස් රථයේ රියදුරු සැකපිට අත්අඩංගුවට ගත් බවත් හංවැල්ල පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/704d5a84.json)
+
+---
+
+### Nimal Siripala elected Chairman of SLFP
+
+*2024-06-19 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99971/nimal-siripala-elected-chairman-of-slfp) · `en`
+
+Executive Committee of the Sri Lanka Freedom Party (SLFP) today unanimously elected Minister Nimal Siripala de Silva as the party’s Chairman and Duminda Dissanayake as the SLFP General Secretary.
+
+Minister of Ports, Aviation and Shipping Nimal Siripala de Silva had been appointed as the SLFP Acting Chairman by the party’s faction supporting him.
+
+This decision had been taken during the SLFP politburo meeting led by former President Chandrika Bandaranaike Kumaratunga, which was held on April 08 at the Sri Lanka Foundation Institute.
+
+Meanwhile MP Duminda Dissanayake had been appointed as the SLFP’s Acting General Secretary by the same faction during a politburo meeting on April 25.
+
+◼️
+
+[Data](articles/0bf7f527.json)
+
+---
+
+### Nimal Siripala, SLFP
 
 *2024-06-19 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197927) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපති ලෙස නිමල් සිරිපාල ද සිල්වා මහතා අද (19) පැවැති පක්ෂ විධායක සභා රැස්වීමේදී තේරී පත්වී තිබේ.
+Nimal Siripala de Silva, previously the acting chairman, has been elected as the new chairman of the Sri Lanka Freedom Party (SLFP). Duminda Dissanayake is now the Secretary-General.
 
-මීට පෙර ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා කටයුතු කළේය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම්වරයා ලෙස තේරී පත්වී ඇත්තේ දුමින්ද දිසානායක මහතාය.
+Nimal Siripala de Silva has been elected at the party executive council meeting held today as the new chairman of the Sri Lanka Freedom Party (SLFP).
+
+Minister Nimal Siripala de Silva was the acting chairman of the Sri Lanka Freedom Party (SLFP).
+
+Duminda Dissanayake has been elected as the Secretary-General of SLFP.
 
 ◼️
 
 [Data](articles/c01ed32b.json)
+
+[Extended Data](ext_articles/c01ed32b.ext.json)
 
 ---
 
@@ -441,6 +487,24 @@ According to the constitution of the Sri Lanka Freedom Party, the petition filed
 [Data](articles/031d46a3.json)
 
 [Extended Data](ext_articles/031d46a3.ext.json)
+
+---
+
+### පොසොන් පෝයට හොල්මන් මන්දිර තහනම් කරන්න
+
+*2024-06-19 14:30:12* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝයට-හොල්මන්-මන්දිර-තහනම්-කරන්න/11-410312) · `si`
+
+උතුම් පොසොන් පොහොයේ වැදගත්කම කෙලෙසන හොල්මන් මන්දිර ප්‍රදර්ශන වහා තහනම් කරන ලෙස බෞද්ධ කටයුතු පිළිබඳ කොමසාරිස් ජෙනරාල් ආර්.ඇම්.පී.රත්නායක මහතාගෙන්  ඉල්ලා  අස්ගිරි පාර්ශවයේ පුත්තලම් මහා දිසාවේ ප්‍රධාන සංඝ නායක කල්පිටිය ශාසනාරක්ෂක බල මණ්ඩලය ප්‍රධාන ලේඛකාධිකාරී ශාස්ත්‍රපති මිගෙට්ටුවත්තේ සුමිත්ත නාහිමියන් 2024.06.17 දාතමින්  ලිපියක් යොමුකොට තිබේ.
+
+මෙම ලිපියේ පිටපතක් උන්වහන්සේ විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට ද යොමුකොට ඇත.
+
+පොසොන් පෝයදා සිදුවූ මහින්දාගමනය නිසා ලංකාවේ සාමාජික, ආර්ථික, දේශපාලනික, හා සංස්කෘතික යනාදී විවිධ අංශයන්වලට බුදු දහමේ බලපෑමක් ලැබුණු බවත් මිහිඳු මහරහතන් වහන්සේ එදා අපේ රටේ ජනතාවට ඉදිරිපත් කළ සාමාජික, ආර්ථික, දේශපාලන, හා සංස්කෘතික හරයන් අපේ ජනතාවගේ ඇට, මස්, ලේ නහර තුළ අදටත් කාවදී තිබෙන බවත් උන්වහන්සේ ලිපිය මගින් දැනුම් දෙයි.
+
+එදා පටන් අපේ රජවරුන් මෙන්ම ජනතාවද බුදු දහම රැකගත්තේ දිවි දෙවැනි කොට බවත් පවසන මිගෙට්ටුවත්තේ සුමිත්ත හිමියෝ සමස්ත ලාංකිකයන්ට බුදු දහමේ බලපෑම ලැබීම නිසා ලක්වැසි සැමගේ ජීවිත ආලෝකමත් වූ බවද කියා සිටි.
+
+...
+
+[Data](articles/e48d4dc6.json)
 
 ---
 
@@ -2255,59 +2319,5 @@ The speakers at this event were International Trade Office Chief Negotiator K.J.
 [Data](articles/5cb59910.json)
 
 [Extended Data](ext_articles/5cb59910.ext.json)
-
----
-
-### Ceylon Chamber signs MoU with Southern Gujarat Chamber of Commerce and Industry
-
-*2024-06-19 04:29:22* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-signs-MoU-with-Southern-Gujarat-Chamber-of-Commerce-and-Industry/34-763218) · `en`
-
-The Ceylon Chamber of Commerce recently signed a Memorandum of Understanding (MoU) with the Southern Gujarat Chamber of Commerce and Industry (SGCCI), paving the way for enhanced cooperation and growth between Sri Lanka and the dynamic business community of South Gujarat, India.
-
-Established in 1940, SGCCI’s influence extends through its direct engagement with over 12,000 members and indirect ties to more than 2,00,000 members via 150 associations, and it is a leading force in promoting trade, commerce, and industry in South Gujarat. The region’s commercial and economic centre Surat has risen to prominence as the global epicentre for diamond cutting and as India’s textile hub, and is ranked the world’s fourth fastest growing city with a GDP growth rate of 11.5%
-
-...
-
-[Data](articles/3d9841ba.json)
-
-[Extended Data](ext_articles/3d9841ba.ext.json)
-
----
-
-### President raises point of order in Parliament over SC ruling on Gender Equality Bill
-
-*2024-06-19 04:27:44* · [`dailyftlk`](https://www.ft.lk/news/President-raises-point-of-order-in-Parliament-over-SC-ruling-on-Gender-Equality-Bill/56-763217) · `en`
-
-President Ranil Wickremesinghe yesterday in Parliament raised a point of order that the Supreme Court determination on Gender Equality Bill violates the powers of the House and a Parliamentary select Committee must be appointed to look into the matter.
-
-“First and foremost the bill says, what the national policy on gender equality and empowerment of women is referred to in this bill. At the least it’s hard to find out. It’s not specific as there is no reference in the bill. There has been a national policy on women’s empowerment and gender equality since 2011. These are obligations of the Government under the Sustainable Development Goals 5 and a number of women’s conventions and agreements that we have signed.
-
-The Supreme Court cannot in any way go and make any ruling on this. Then they are contravening and coming into our area.
-
-Secondly, there’s a large number of cases which have been given on the question of equality and equality of women.
-
-...
-
-[Data](articles/daaba9b3.json)
-
-[Extended Data](ext_articles/daaba9b3.ext.json)
-
----
-
-### Charitha calls out President’s misuse of legislative privileges in Parliament
-
-*2024-06-19 04:26:31* · [`dailyftlk`](https://www.ft.lk/news/Charitha-calls-out-President-s-misuse-of-legislative-privileges-in-Parliament/56-763216) · `en`
-
-Freedom People’s Congress (FPC) member, MP Prof. Charitha Herath yesterday voiced strong opposition to President Ranil Wickremesinghe’s use of Parliamentary privilege to make statements in the House.
-
-Herath specifically criticised the President’s remarks in Parliament regarding the Supreme Court’s determination on the Gender Equality Bill.
-
-Addressing Parliament, Herath emphasised that while the President becomes a member of the House through a unique process, he is not part of the Legislature but rather the Executive. He argued that the President, as the leader of the Executive, should not comment on judicial determinations from within the Legislature, as it breaches established tradition. “The benefits accorded to the Legislature are being indirectly utilised by the Executive,” Herath asserted.
-
-...
-
-[Data](articles/69031a0e.json)
-
-[Extended Data](ext_articles/69031a0e.ext.json)
 
 ---

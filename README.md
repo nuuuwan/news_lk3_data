@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 18:25:59**
+As of **2024-06-19 18:36:42**
 
 ## Newspaper Stats
 
-*Scraped **31,142** Articles*
+*Scraped **31,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
-adalk | 2,716
+adalk | 2,717
 adaderanalk | 3,529
 tamilmirrorlk | 3,662
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,140 (100.0%) of 31,142 articles have been extended.
+31,142 (100.0%) of 31,143 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,17 +52,25 @@ He stated that only after UNP leader Wickremesinghe took over the Presidency has
 
 [Data](articles/e9f521fa.json)
 
+[Extended Data](ext_articles/e9f521fa.ext.json)
+
 ---
 
-### பஸ் விபத்தில் 50 பேர் காயம்
+### 50 people injured in bus accident
 
 *2024-06-19 17:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-50-பேர்-காயம்/175-339135) · `ta`
 
-ரணால பகுதியில் வைத்து தனியார் பேருந்தொன்றும் சிசு செறிய பேருந்தொன்றும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் 50க்கும் மேற்பட்ட மாணவர்கள் காயமடைந்து ரணால மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தங்காலை பொலிஸார் தெரிவித்தனர்.
+In a tragic accident, over 50 students were hurt and taken to Ranala District Hospital when a private bus crashed head-on with another vehicle.
+
+🟩
+
+More than 50 students were injured and admitted to the Ranala District Hospital after a private bus and an infant bus collided head -on.
 
 ◼️
 
 [Data](articles/9c973b61.json)
+
+[Extended Data](ext_articles/9c973b61.ext.json)
 
 ---
 
@@ -485,6 +493,24 @@ The court issued a complaint with a complaint filed by Hector Bethmage, a Sri La
 [Data](articles/b1103920.json)
 
 [Extended Data](ext_articles/b1103920.ext.json)
+
+---
+
+### ක්‍රිකට් කණ්ඩායම හොර පාරින්ම දැඩි රැකවැල් මැද කටුනායකින් පිටව යයි
+
+*2024-06-19 14:42:36* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-හොර-පාරින්ම-දැඩි-රැකවැල්-මැද-කටුනායකින්-පිටව-යයි/9-410314) · `si`
+
+ශ්‍රී ලංකා විස්සයි විස්ස ක්‍රිකට් කණ්ඩායම 06/19 දින උදෑසන 08.40 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් වෙනදා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ , සාමාන්‍ය මගී පර්යන්තය ඔස්සේ පිටතට පැමිණිය ද , අද ඒ වෙනුවට මුදල් ගෙවා පහසුකම් සළසා ගත යුතු " සිල්ක් රූට් " පර්යන්තය ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට පැමිණීමට කටයුතු කර තිබුණි .
+
+එහිදී " සිල්ක් රූට් " පර්යන්තයේ පහසුකම් සදහා එක් අයෙකුට ඇමෙරිකානු ඩොලර් 50 ක මුදලක් අය කරන අතර එම මුදල් ගෙවා මෙම පහසුකම ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ලබා ගත් බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම වෙනුවෙන් කටුනායක ගුවන් තොටුපොළ තුළත් , ඉන් පිටත ප්‍රදේශයේත් විශේෂ , දැඩි ආරක්ෂාවක් යොදවා තිබුණි .
+
+◼️
+
+[Data](articles/cd163470.json)
 
 ---
 
@@ -2331,21 +2357,5 @@ Below is the Sinhala idea in several parts of the statement made by President Ra
 [Data](articles/dd63606c.json)
 
 [Extended Data](ext_articles/dd63606c.ext.json)
-
----
-
-### Economist Talal Rafi appointed Policy Advisor to Opposition leader Sajith Premadasa
-
-*2024-06-19 04:39:58* · [`dailyftlk`](https://www.ft.lk/business/Economist-Talal-Rafi-appointed-Policy-Advisor-to-Opposition-leader-Sajith-Premadasa/34-763222) · `en`
-
-Opposition leader Sajith Premadasa has appointed Talal Rafi as his Policy Advisor.
-
-Rafi is an Economist and is an economic policy consultant to a multilateral development bank. He is a regular contributor for the International Monetary Fund’s expert forum on public finance. He is also a member of the expert network of the World Economic Forum. He was a member of the Deloitte Global Economist Network, and he is a visiting lecturer at the Centre for Banking Studies, Central Bank of Sri Lanka. He has also worked on projects by the World Bank, Asian Development Bank and USAID. His work has been published by the World Bank, International Monetary Fund, Asian Development Bank, World Economic Forum, Chatham House London, London School of Economics and Forbes.
-
-◼️
-
-[Data](articles/956c1f52.json)
-
-[Extended Data](ext_articles/956c1f52.ext.json)
 
 ---

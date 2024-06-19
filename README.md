@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 09:34:45**
+As of **2024-06-19 09:53:52**
 
 ## Newspaper Stats
 
-*Scraped **31,061** Articles*
+*Scraped **31,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,27 @@ adaderanalk | 3,517
 tamilmirrorlk | 3,650
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,045
+adaderanasinhalalk | 5,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,057 (100.0%) of 31,061 articles have been extended.
+31,057 (100.0%) of 31,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-19 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197910) · `si`
+
+◼️
+
+[Data](articles/6ac27e75.json)
+
+---
 
 ### இன்று முதல் மழை அதிகரிக்கும் சாத்தியம்
 
@@ -2301,29 +2311,5 @@ Those who know the world's activities are globally, beyond the male and female g
 [Data](articles/5e881c5a.json)
 
 [Extended Data](ext_articles/5e881c5a.ext.json)
-
----
-
-### Released by the end of this year 'Pushpa 2'
-
-*2024-06-18 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186379) · `ta`
-
-"Pushpa 2," starring Allu Arjun, Rashmika Mandanna, and directed by Sukumar, originally set for August 15 release, is now scheduled for December 6 due to unfinished VF X scenes. The film, produced by Maithri Movie Makers and Sukumar Writings, will be released in five languages worldwide.
-
-🟩
-
-Allu Arjuna's film 'Pushpa 2', which is in great anticipation of fans, has announced a special photo of the film crew that the film will be released at the film palace on the sixth of December.
-
-Allu Arjun, Rashmika Mandana, Bhagat Basil and many others have starred in the upcoming film 'Pushpa 2 -Thi Rule' directed by director Sukumar.
-
-The film, which is being produced by Maithri Movie Makers and Sukumar Writings, is expected to be released on August 15.. But the work of the film has not been completed and the new release date has now been announced. The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 6th of December in the world.
-
-The film crew explained the delay, saying, “We do not want to make any compromise for the standard.. This is the delay in showing elegance and accuracy in the VF X scenes. ”
-
-...
-
-[Data](articles/fcff644c.json)
-
-[Extended Data](ext_articles/fcff644c.ext.json)
 
 ---

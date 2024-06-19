@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 03:19:05**
+As of **2024-06-20 03:34:55**
 
 ## Newspaper Stats
 
-*Scraped **31,194** Articles*
+*Scraped **31,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,804
 dailyftlk | 1,899
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,667
+tamilmirrorlk | 3,668
 dailymirrorlk | 4,733
 virakesarilk | 4,821
 adaderanasinhalalk | 5,069
@@ -26,25 +26,47 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,193 (100.0%) of 31,194 articles have been extended.
+31,194 (100.0%) of 31,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### அரசு எங்களை சாகும் வரையான உண்ணாவிரதத்துக்கு நகர்த்துகிறது - முகமது காமில்!
+### The government moves us to fasting until death - Mohammed Kamil!
 
 *2024-06-20 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186505) · `ta`
 
-நியாயமான மற்றும் எங்களுக்கு வழங்குவதாக அரசால் வாக்குறுதியளிக்கப்பட்ட பல்வேறு கோரிக்கைகளை நிவர்த்திக்குமாறு கோரி நாடு முழுவதிலுமுள்ள பல்கலைக்கழகங்களில் பணியாற்றும் ஊழியர்கள் கடந்த 50 நாட்களாகப் போராடிவரும் இன்றைய சூழலில் அரசும் சம்மந்தப்பட்ட நிருவாகிகளும் கண்ணை மூடிக்கொண்டிருப்பது எங்களை சாகும் வரையான உண்ணாவிரதத்துக்குள் தள்ள எத்தனிப்பது போன்று உள்ளதாகத் தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்கத்தின் செயலாளர் எம்.எம். முகமது காமில் தெரிவித்தார்.
+Employees at Southeastern University have been on a hunger strike for 50 days, demanding better conditions from the government. Led by union leaders including Mohammed Kamil, they argue that their fight is not for luxuries but for basic necessities amidst the country's economic hardships. Despite the impact on university operations, there's little concern shown by either the government or students.
 
-நாடு முழுவதிலும் உள்ள பல்கலைக்கழக கல்விசாரா ஊழியர்கள் கடந்த 50 நாட்களாக தாங்களது போராட்டங்களை பல்வேறு வியூகங்களை வகுத்து போராடி வரும் நிலையில் தென்கிழக்கு பல்கலைக்கழக கல்விசாரா ஊழியர்கள் இன்று 2024.06.19 ஆம் திகதி சுழற்சி முறையான உண்ணாவிரத போராட்டத்தையும் சத்தியாக்கிரக போராட்டத்தயும் பல்கலைக்கழக நுழைவாயிலில் ஆரம்பித்துள்ளனர்.
+🟩
 
-சுழற்சி முறையான உண்ணாவிரத போராட்டத்தில் முதற்கட்டமாக தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்க தலைவர் எம்.ரி.எம். தாஜுடீன் மற்றும் எஸ். றிபாயுத்தீன், எம்.எச்.எம். நாஸார் ஆகியோர் குதித்துள்ளனர்.
+Southeastern University Employees Union Secretary of the Southeastern University Association (M) MMSA Secretary MM MM MMA Secretary of the Southeastern University Employees Union MM MMA has been able to keep us in a hunger strike in today's environment, which has been fighting for the last 50 days that employees in universities across the country have been fighting for the various demands of the state promised to provide us.. Mohammed said Kamil.
+
+Southeastern University Non -academic staff have launched a formal hunger strike and Satyagraha struggle today, as university staff have been struggling for the past 50 days.
+
+Southeastern University Employees Union President MRM. Tajuddin and S. Ribayutheen, MHM. Nasar has jumped.
 
 ...
 
 [Data](articles/27d00e76.json)
+
+[Extended Data](ext_articles/27d00e76.ext.json)
+
+---
+
+### தீர்ப்பை ஏற்றுக்கொள்ளாமை ’ஆபத்தாக மாறலாம்’
+
+*2024-06-20 01:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஏற்றுக்கொள்ளாமை-ஆபத்தாக-மாறலாம்/175-339157) · `ta`
+
+தேர்தலை ஒத்தி வைத்து பதவிக்காலத்தை நீடிப்பதற்கு ஜனாதிபதி முயற்சிப்பதாக கூறப்படும் நிலையில், பாலியல் சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை ஜனாதிபதி ஏற்றுக்கொள்ளாமை எதிர்காலத்தில் ஆபத்தானதாக மாறலாம் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (19) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே சுமந்திரன் இவ்வாறு கூறினார்.
+
+நிகழ்நிலைக் காப்புச் சட்டம் நிறைவேற்றப்படும் போது நீதிமன்ற அறிவிப்புகளையும் தாண்டி எதிர்ப்புகளுக்கு மத்தியில் சாதாரண பெரும்பான்மையில் நிறைவேற்றப்பட்டது. அதனை தொடர்ந்து இரண்டாவது முறையாக பால்நிலை சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை பின்பற்றத் தேவையில்லை என்று கூறியுள்ளார். இதற்கு காரணம் என்ன? அதாவது கூடியவிரைவில் ஜனாதிபதியின் பதவிக்காலத்தை 6 வருடங்களாக அதிகரிக்க முயற்சிக்கின்றனர் என்றார்.
+
+...
+
+[Data](articles/9696812e.json)
 
 ---
 
@@ -2423,29 +2445,5 @@ Israeli's Foreign Minister has said that the Hesbullah organization has been pro
 [Data](articles/be7efd28.json)
 
 [Extended Data](ext_articles/be7efd28.ext.json)
-
----
-
-### Panel allows Sri Lanka central bank staff to get high salaries
-
-*2024-06-19 11:24:00* · [`economynextcom`](https://economynext.com/panel-allows-sri-lanka-central-bank-staff-to-get-high-salaries-168665/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank staff could continue to get high salaries for up to five years, and not three years as set out in a collective agreement, a committee that went into the matter after a public outcry has recommended, a legislator said.
-
-A panel that went into the salary hike that the central bank staff had paid themselves had criticized the salary hike and a defined benefit pension plan, but said changing it would lead to legal problems, Chairman of the Committee of Public Enterprises, Harsha de Silva said.
-
-The Committee had said it was wrong to apply the same salaries to office assistants and management assistants as senior officers in ‘mission critical’ roles.
-
-The office assistants and management assistants should be given the same salaries as the rest of the government.
-
-The panel has said that individuals should be given increments on a ‘meritocracy’.
-
-There was a recommendation that a human resources manager be appointed to carry out a study in 2025 and changes made.
-
-...
-
-[Data](articles/475641b0.json)
-
-[Extended Data](ext_articles/475641b0.ext.json)
 
 ---

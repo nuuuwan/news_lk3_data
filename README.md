@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 08:22:02**
+As of **2024-06-19 08:34:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,054 (100.0%) of 31,055 articles have been extended.
+31,055 (100.0%) of 31,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1268,25 +1268,31 @@ President Ranil Wickremesinghe made this statement during a special speech deliv
 
 ---
 
-### බුදු දහමේ පැවැත්මට හානි වන කිසිඳු තීරණයක් පිළි ගන්නේ නැහැ
+### No decision to be damaged in Buddhism
 
 *2024-06-18 19:23:52* · [`adalk`](https://www.ada.lk/breaking_news/බුදු-දහමේ-පැවැත්මට-හානි-වන-කිසිඳු-තීරණයක්-පිළි-ගන්නේ-නැහැ/11-410303) · `si`
 
-කාන්තාවන්ට පිරිමින්ට හා සමාන අයිතිවාසිකම් හිමි විය යුතු බව ජාත්‍යන්තර කාන්තා සංවිධානවල සියලු ගිවිසුම්වලද ඇතුළත් වන බව පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම කටයුතුවලට බාධා කිරීමට අධිකරණයට, විධායකයට, ව්‍යවස්ථාදායකයට හෝ කිසිඳු ආයතනයකට නොහැකි බව අවධාරණය කළේය.
+In a speech, President Ranil Wickremesinghe reaffirmed Sri Lanka's commitment to gender equality, aligning with international standards. He stressed that no decisions would harm Buddhism, emphasizing the government's dedication to ensuring women's rights, as outlined in various international agreements. Despite the Supreme Court's stance, he pledged to pursue equality, assuring that neither the judiciary nor any other institution could deter this objective.
 
-මෙරට කාන්තාවන්ට පිරිමින්ට හා සමාන අයිතිවාසිකම් ලබාදීම රජයේ අරමුණ බව පැවසු ජනාධිපතිවරයා ඒ වෙනුවෙන් තමන් කැපවී සිටින බවද අවධාරණය කළේය.
+🟩
 
-එසේම බුදු දහමේ පැවැත්මට හානි වන කිසිදු තීරණයක් රජය පිළි නොගන්නා බවද ජනාධිපතිවරයා අවධාරණය කළේය
+Founded that the organizations of international women's organizations included in all the agreements of international women's organizations that women should have the same rights as men should have the same rights.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ එක්සත් ජාතික පක්ෂ නව ප්‍රතිසංවිධානය යටතේ පත් කරන ලද කලාප සංවිධායකවරුන්ට පත්විම් ලිපි ප්‍රදානය වෙනුවෙන් අද (18) සිරිකොත පක්ෂ මූලස්ථානයේ පැවති උත්සවය අමතමිනි.
+The government's objective is to provide women with equal rights to women in Sri Lanka.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The President emphasized that the government does not accept any decision that will damage the survival of Buddhism.
 
-එක්සත් ජාතික පක්ෂය ප්‍රතිසංවිධාන වැඩපිළිවෙළ යටතේ පත් කෙරුණු නව කලාප සංවිධායකවරුන්ට පත්වීම් ලිපි ලබාදීමේ දෙවන අදියරට අද සහභාගිවීමට ලැබීම පිළිබඳ මම සතුටු වෙනවා.
+President Ranil Wickremesinghe addressing the event at Sirikotha today (18) this morning for the awarding letters to the appointment of the UNP organizations under the new reorganization of the UNP.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+I am glad to participate in the appointment letters to the new Zone Organizer for the new Zone Organizer for the New Zone Organizer for the New Zone Organizer.
 
 ...
 
 [Data](articles/4a0c3de4.json)
+
+[Extended Data](ext_articles/4a0c3de4.ext.json)
 
 ---
 

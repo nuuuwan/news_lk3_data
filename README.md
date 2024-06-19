@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 07:47:29**
+As of **2024-06-19 08:14:39**
 
 ## Newspaper Stats
 
-*Scraped **31,050** Articles*
+*Scraped **31,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,117 +16,217 @@ islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,703
-adaderanalk | 3,515
+adaderanalk | 3,517
 tamilmirrorlk | 3,648
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,040
+adaderanasinhalalk | 5,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,035 (100.0%) of 31,050 articles have been extended.
+31,049 (100.0%) of 31,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### ලබන 26 වනදා ගුරුවරු ලෙඩ වන බවට අනතුරු ඇඟවීමක්
+### ඉන්දීය විදේශ අමාත්‍යවරයා හෙට දිවයිනට
+
+*2024-06-19 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197905) · `si`
+
+නිල සංචාරයක් සඳහා ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා හෙට (20) දිවයිනට පැමිණීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/e3cfce91.json)
+
+---
+
+### Minor tremor reported in Vavuniya
+
+*2024-06-19 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99959/minor-tremor-reported-in-vavuniya) · `en`
+
+The Geological Survey and Mines Bureau (GSMB) stated that the minor tremor, measuring 2.3 on the on the Richter scale, had occurred between 10.55 p.m. and 11.10 p.m. last night (18).
+
+It is reported that the tremor was felt in areas including Vavuniya and Medawachchiya and that it had been recorded at the seismic stations at Pallekele, Mahakanadarawa and Hakmana.
+
+◼️
+
+[Data](articles/b0e8a71e.json)
+
+---
+
+### Rainy conditions expected to enhance from today
+
+*2024-06-19 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99958/rainy-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says the prevailing rainy condition in the South-western part of the island is expected to be somewhat enhanced in the next few days from today (19).
+
+Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/5d77f340.json)
+
+---
+
+### තාඹුගලගේ රහස් ප්‍රකාශය 24 වන දා ලබාදීමට අධිකරණ නියෝග
+
+*2024-06-19 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197904) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් තමන් සම්බන්ධයෙන් සිදුකරන විමර්ශනයට අදාළව රහසිගත ප්‍රකාශයක් ලබන 24 වන දා ලබාදීමට අධිකරණය විරංජිත් තාඹුගලට අධිකරණය නියෝග කර තිබේ.
+
+තමාට අධිකරණය හමුවේ රහසිගත ප්‍රකාශයක් කිරීමට අවශ්‍ය බවට විරංජිත් තාඹුගල සිය නීතිඥවරු මාර්ගයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ ඉල්ලීමක් කර තිබිණි.
+
+එම ඉල්ලීම සලකා බැලු මහෙස්ත්‍රාත් අධිකරණය මෙම නියෝගය ලබා දී ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+රුපියල් කෝටි 07කට ආසන්න මුදල් සාවද්‍ය පරිහරණය කිරීමක් සම්බන්ධයෙන් සිදුකෙරුණු විමර්ශනයකදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මොහු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු අතර පසුව ඇප මත මුදාහැරුණි.
+
+◼️
+
+[Data](articles/651cdb32.json)
+
+---
+
+### A warning that teachers are sick on the 26th
 
 *2024-06-19 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197903) · `si`
 
-ලබන 26 වන දා ලෙඩ නිවාඩු වාර්තා කරමින් වෘත්තිය ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කර ඇති බව ලංකා ගුරු සංගමය පවසයි.
+Teachers' union plans a sick day on the 26th due to unresolved salary issues. The General Secretary warns of consequences if demands aren't met. Negotiations ongoing with the University Grants Commission. Students' involvement unclear. Authorities given a week to address salaries.
 
-එහි ප්‍රධාන ලේකම් ජෝසප් ස්ටාර්ලින් මහතා පැවසුවේ, පොරොන්දු වූ පරිදි ඉල්ලීම් ලබාදීමට පියවර නොගතහොත් සාමාන්‍ය පෙළ ඇගයීම් කටයුතුවලින් ද ඉවත් වීමට සිදුවන බවය.
+🟩
 
-කෙසේ වෙතත් ආචාර්ය සුසිල් ප්‍රේමජයන්ත අමාත්‍යවරයා ඊයේ (18) පැවති උත්සවයකදී සඳහන් කළේ, වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බවය.
+The Ceylon Teachers Union states that the 26th has decided to report sick leave.
 
-මේ අතර සිය වැටුප් ගැටලුව සම්බන්ධයෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව සමග පැවති සාකච්ඡා සුබවාදී බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
+The General Secretary of the General Secretary Joseph Starlin said that he would have to leave the ordinary line rating, if he did not take demands as promised.
 
-එහි සම සභාපති ධම්මික ප්‍රියන්ත මහතා පැවසුවේ, වැටුප් ගැටලුවට නිසි විසඳුම් ලබාදීමට බලධාරීන්ට සතියක කාලයක් ලබාදෙන බවය.
+However, Dr. Susil Premajayantha held at a function held yesterday (18), but whether the current students have been involved in the trade union, the current students are not staying on it.
 
-මේ අතර අද දිනයේ සිට විශ්වවිද්‍යාල ඉදිරිපිට අට්ටාල ගසමින් සත්‍යග්‍රහ ව්‍යාපාරයක් ආරම්භ කරන බව ද පැවසු ඒ මහතා විසඳුම් නොලැබුණහොත් සත්‍යග්‍රහ ව්‍යාපාරය කොළඹට ගෙන එ්මට කටයුතු කරන බවය.
+Meanwhile, the Joint Communication Committee states that the negotiations with the University Grants Commission regarding its pay issue.
+
+The co-chairman Dhammika Priyantha said that the authorities will be given a week to resolve the salary problem.
+
+Meanwhile, if he said that he would not have been resolved in the attic trees in front of the universities.
 
 ◼️
 
 [Data](articles/80344d1e.json)
 
+[Extended Data](ext_articles/80344d1e.ext.json)
+
 ---
 
-### ගෝඨාභයගේ නිවස අසල උද්ඝෝෂණය ගැන බුද්ධි තොරතුරු ලැබී නෑ
+### Intelligence has not received information about the demonstration near Gotabhaya's house
 
 *2024-06-19 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197902) · `si`
 
-2022 වසරේ අරගලය පැවති සමයේ මිරිහානේ පිහිටි හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පෞද්ගලික නිවස අසල පැවති උද්ඝෝෂණ හා කලහකාරී සිද්ධීන් සම්බන්ධයෙන් ඊට පෙර බුද්ධි තොරතුරු ලැබී නොතිබූ බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර තිබේ.
+In 2022, during protests against former President Gotabhaya Rajapaksa, the Attorney General argued in the Supreme Court that the security forces had no prior intelligence about the demonstration near his residence. The case involved a group filing fundamental rights petitions against their arrests during these protests. Senior State Counsel Shaminda Wickrema detailed the events, including showing videos of the demonstration in court. However, due to issues raised, the hearing was postponed.
 
-එම උද්ඝෝෂණවලදී තමන්ම අත්අඩංගුවට ගැනීමට එරෙහිව අරගලකරුවන් පිරිසක් විසින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් ඊයේ (18)විභාගයට ගත් අවස්ථාවේදී  විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු යසන්ත කෝදාගොඩ මහතා මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මේ බව පැවසූ බව සඳහන්ය.
+🟩
 
-මෙම පෙත්සම් ඊයේ විජිත් මලල්ගොඩ සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගත් බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
+The Attorney General has stated in the Supreme Court that the protesters and aggressive incidents of former President Gotabhaya Rajapaksa at the time of the year 2022.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මුලින්ම අදාළ උද්ඝෝෂණය ආරම්භ වූ ආකාරය විස්තර කර තිබේ.
+Senior State Counsel Shaminda Wickrema said this was responding to a question raised by a group of fundamental rights petitions filed by a group of fundamental rights against the arrests of their own demonstrations.
+
+The petitions were taken to be heard before Vijith Malalgoda and Yasantha Kodagoda and Yasantha Kodagoda. Ada Derana said.
+
+Senior State Counsel Shaminda Wickrema appearing on behalf of the Attorney General and described how the demonstration began.
+
+The Bench Member Justice Judge Yasantha Kodagoda, who was a problem for the State Counsel, inquired about the demonstration before the agitation began.
+
+Responding to this, the senior government lawyer said that the security forces did not receive such intelligence information.
+
+The State Counsel then presented the videos in the open court of the demonstration.
 
 ...
 
 [Data](articles/5917de2f.json)
 
+[Extended Data](ext_articles/5917de2f.ext.json)
+
 ---
 
-### வவுனியாவில் நிலநடுக்கம்
+### Earthquake in Vavuniya
 
 *2024-06-19 07:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-நிலநடுக்கம்/175-339108) · `ta`
 
-- வவுனியாவில் இருந்து 23 கிலோமீற்றர் தொலைவில் நேற்றிரவு 2.3 ரிக்டர் அளவில் சிறிய நிலநடுக்கம் பதிவாகியுள்ளதாக புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகம் உறுதிப்படுத்தியுள்ளது.
+A minor earthquake of 2.3 magnitude occurred near Vavuniya, specifically in the Anuradhapura district, about 23 km away. It was recorded last night at approximately 11:01 pm.
 
-நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்ட பகுதி அனுராதபுரம் மாவட்டத்திற்கு உட்பட்டது.
+🟩
+
+- The Geological Survey and Mining Bureau confirmed that a small earthquake of 2.3 magnitude of the 2.3 magnitude of 23 km from Vavuniya was recorded last night.
+
+The earthquake was located in the Anuradhapura district at around 11.01 pm last night.
 
 ◼️
 
 [Data](articles/548998df.json)
 
+[Extended Data](ext_articles/548998df.ext.json)
+
 ---
 
-### අද සිට වැස්ස වැඩිවෙයි - ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+### Rain from today increases - Showers over 75mm
 
 *2024-06-19 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197901) · `si`
 
-දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් අද (19) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+Heavy rainfall exceeding 75mm is forecasted for the Western, Sabaragamuwa, North Western provinces, and certain districts including Kandy, Nuwara Eliya, Galle, and Matara. Additionally, showers or thundershowers are expected in the Eastern and Uva provinces, with potential gusty winds of 40-50 km/h in areas like Trincomalee, North, North Central, and North Western provinces near the western slopes of the central hills.
 
-බස්නාහිර, සබරගමුවසහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorology announced that a rainy section of the island is expected to be expected in the next few days from today (19).
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+Showers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්ක වලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur more than 75.
+
+Showers or thundershowers will occur at several places in the East and Uva provinces or even nights.
+
+At times, Trincomalee, North, North Central and North Western provinces are situated in the western slopes of the central hills.. There may be 40-50 strong winds.
 
 ◼️
 
 [Data](articles/b05aa47c.json)
 
+[Extended Data](ext_articles/b05aa47c.ext.json)
+
 ---
 
-### වව්නියාවේ භූකම්පනයක්
+### A Godmphmpath in Vavuniya
 
 *2024-06-19 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197899) · `si`
 
-භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය සඳහන් කළේ, ඊයේ (18) රාත්‍රී 10.55 ත් 11.10 අතර කාලසීමාව තුළ මෙම භූකම්පනය සිදුව ඇති බවය.
+An earthquake occurred in Vavuniya and nearby areas on March 18th, lasting from 10:55 am to 11:10 pm. Measured at a magnitude of 2.3 on the Richter scale, it was felt in Vavuniya, Medawachchiya, Pallakatale, Mahakarawa, and Hakmana. Residents described a strong shaking, loud noises, and fear, especially among children who were studying at the time.
 
-වව්නියාව, මැදවච්චිය ඇතුළු ප්‍රදේශවලට මෙම භූකම්පනය දැනී ඇති බව සඳහන්ය.
+🟩
 
-රික්ටර් මාපකයේ ඒකක 2.3 ලෙස එහි ප්‍රබලත්වය සටහන් වී ඇති බව භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය පැවසුවේය.
+The Geological Survey and Mines Bureau said that the earthquake was held in between 10.55 am to 11.10 pm yesterday (18).
 
-එම කාර්යංශය සඳහන් කළේ, මෙම භූකම්පනය පල්ලකැලේ, මහකනදරාව සහ හක්මන යන භූකම්පන මධ්‍යස්ථානවල සටහන් ඇති බවය.
+The earthquakes have been felt in Vavuniya and Medawachchiya.
 
-"ළමයි දෙන්නා පාඩම් කර කර හිටියේ. එතපාරම අමුතු සද්දයක් ආවා. මේසේ උඩ තිබුණ ඒවා හෙල්ලිලා ගියා. අපිට ඇත්තටම බය වුණා සෑහෙන්න. විනාඩි 3ක් වගේ තිබුණා."
+The Geological Survey and Mines Bureau said that the strength of the Richter Stephere was recorded as 2.3 units.
 
-"පොළොව යටින් මොකක්ද යනවා වගේ දැනුනේ. මහා විශාල ශබ්දයක් ආවා. නිදාගෙන හිටිය කාමරේ ජනේල් දෙදරුවා. ලොකු දෙදරීමක්..."
+The bunker stated that the earthquake is recorded at Pallakatale, Mahakarawa and Hakmana.
 
-"අපි නිදාගන්න ලෑස්තිවෙලා හිටියේ. එකපාරම අකුණු සැරක් වෙගේ සද්දයක් එක්ක ජනෙල් හෙල්ලුණා. පොළොවත් ගොඩක් හෙල්ලුණා. අපි හිතුවා ගල්කොරියක වගේ බ්ලාස්ට් එකක් කියලා."
+"The two children were studying. The strange sound of it came to. They were on the way. We were really scared. It was like 3 minutes. "
+
+"The earth felt like going under. A great noise came. The rooms were the sleeping room. A big role ... "
+
+"We were ready to sleep. Six of the lightning windows of lightning. Hells a lot of the earth. We thought that a blast like a quarry. "
 
 ◼️
 
 [Data](articles/5777600c.json)
+
+[Extended Data](ext_articles/5777600c.ext.json)
 
 ---
 
@@ -450,21 +550,27 @@ It is also expected that he will focus on the fields before the next presidentia
 
 ---
 
-### ஆயுர்வேத பட்டதாரிகளின் பயிற்சி ஆரம்பம்
+### Ayurvedic graduates are beginning training
 
 *2024-06-19 02:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுர்வேத-பட்டதாரிகளின்-பயிற்சி-ஆரம்பம்/175-339107) · `ta`
 
-நாட்டில் ஏற்பட்ட நெருக்கடி நிலை காரணமாக தடைப்பட்டிருந்த ஆயுர்வேத பட்டதாரிகளின் பயிற்சி மீண்டும் ஆரம்பிக்கப்பட்டுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+Training for Ayurvedic graduates, halted during national crises, has restarted. From June 3rd, 207 graduates began receiving vocational training, funded by the government, with plans to train 418 graduates at a cost of 320 million rupees. Registration for traditional medicine practitioners is open until June 30th.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சிசிர ஜயகொடி மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்.
+🟩
 
-சுதேச வைத்திய அமைச்சு என்ற வகையில் நாம் இதுவரை பெரும் வெற்றியைப் பெற்றுள்ளோம். கடந்த காலங்களில் ஏற்பட்ட பல்வேறு நெருக்கடிகள் காரணமாக பல்கலைக்கழகங்களில் இருந்து சித்தியடைந்த ஆயுர்வேத பட்டதாரிகளின் தொழிற்பயிற்சி தாமதமானது. அதன்படி, ஜூன் 3 ஆம் திகதி முதல் ஆயுர்வேத, சித்த மற்றும் யூனானி பட்டதாரிகள் 207 பேருக்கு 67,500 ரூபாய் மாதாந்தக் கொடுப்பனவுடன் பயிற்சி ஆரம்பிக்கப்பட்டுள்ளது.
+Indigenous Medical Minister Sisira Jayakody said the training of Ayurvedic graduates who had been blocked due to the crisis in the country have been resumed.
 
-மேலும் 153 பட்டதாரிகளுக்கான பயிற்சி ஆகஸ்ட் மாதம் 12 ஆம் திகதிக்குள் ஆரம்பிக்கப்படும். அதன்படி 418 பட்டதாரிகளுக்கு ஆயுர்வேத திணைக்களம் பயிற்சி அளித்து வருகிறது. இதற்காக அரசாங்கம் 320 மில்லியன் ரூபாயை செலவிடுகிறது.
+State Minister Sisira Jayakody said this at a media briefing held at the Presidential Media Center yesterday. As he said more.
+
+As the Ministry of Indigenous Medicine, we have achieved great success. Vocational training of Ayurvedic graduates from universities has been delayed due to various crises in the past. Accordingly, from June 3, 207 graduates of Ayurveda, Siddha and Unani graduates have started training with a monthly allowance of Rs 67,500.
+
+The training for 153 graduates will be launched by August 12th. Accordingly, the Ayurvedic Department is training 418 graduates. The government spends 320 million rupees for this.
 
 ...
 
 [Data](articles/6eadbd46.json)
+
+[Extended Data](ext_articles/6eadbd46.ext.json)
 
 ---
 
@@ -804,6 +910,8 @@ Swisstek Aluminium Limited, has been recognized for their outstanding managerial
 
 [Data](articles/0a0ab09c.json)
 
+[Extended Data](ext_articles/0a0ab09c.ext.json)
+
 ---
 
 ### Dipped Products unveils the worlds-first purpose built EVPRO glove for electric vehicle industry
@@ -820,6 +928,8 @@ Offering unmatched safety and mobility for electrical engineers, the EVPRO Glove
 
 [Data](articles/ff0f0f1c.json)
 
+[Extended Data](ext_articles/ff0f0f1c.ext.json)
+
 ---
 
 ### Advocata Institute celebrates eight years of advocacy
@@ -833,6 +943,8 @@ Advocata’s eighth-year anniversary coincided with the institute moving its off
 ...
 
 [Data](articles/ab243118.json)
+
+[Extended Data](ext_articles/ab243118.ext.json)
 
 ---
 
@@ -873,6 +985,8 @@ Due to political uncertainties market activities were dull coupled with the impa
 ...
 
 [Data](articles/30e9ce44.json)
+
+[Extended Data](ext_articles/30e9ce44.ext.json)
 
 ---
 
@@ -2221,95 +2335,5 @@ In reply, Sri Lanka won the win by 93 runs for the loss of 5 wickets in 5 overs.
 [Data](articles/b1e3f608.json)
 
 [Extended Data](ext_articles/b1e3f608.ext.json)
-
----
-
-### Colombo's accident still causes water
-
-*2024-06-18 14:22:22* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-අලුයම-මෝටර්-රථ-අනතුර-නිසා-කොළඹට-තවමත්-හරියට-වතුර-නෑ/11-410290) · `si`
-
-An accident in Colombo caused a water cut affecting areas like Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattagoda. The issue stems from a main pipe's failure in the Godagama area. Repairs began yesterday but are not fully resolved yet.
-
-🟩
-
-Although the accident occurred from the main flaw from the main flaw from the main tube that carries from the main tube that carries from the main pipe was terminated in the Godagama area yesterday (17), the damage to Maharagama has been completed in the Godagama area.The National Water Supply and Drainage Board stated that it is largely normal.
-
-Water cut in Godagama, Homagama, Pannipitiya, Pelanwatta and Mattagoda due to the stopping water supply along the tube. The National Water Supply and Drainage Board from yesterday's commencement was held yesterday morning to commence its repairs.
-
-◼️
-
-[Data](articles/cc5faa13.json)
-
-[Extended Data](ext_articles/cc5faa13.ext.json)
-
----
-
-### Electricity Payment Correction: July will be announced
-
-*2024-06-18 14:20:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-ஜூலை-அறிவிக்கப்படும்/175-339077) · `ta`
-
-The Public Utilities Commission plans to announce a revised electricity tariff on July 15, 2024, reducing payments. Comments on the proposal are due by July 8, with oral discussions on July 9.
-
-🟩
-
-Professor Manjula Fernando, Chairman of the Public Utilities Commission, said the second electricity tariff amendment would be announced on July 15 this year (2024).
-
-The chairman said that the public's written comments on the proposed power tariff revision will be accepted till July 8 and oral comments will be held on July 9.
-
-The payment of electricity tariffs will be reduced in this tariff, which will be announced on July 15.
-
-◼️
-
-[Data](articles/961ebd10.json)
-
-[Extended Data](ext_articles/961ebd10.ext.json)
-
----
-
-### Vikravandi by -election has no support - Tamil Nadu Victory Corporation announces
-
-*2024-06-18 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186368) · `ta`
-
-The Tamil Nadu Victory Corporation has stated that no party has support in the upcoming by-election for the Vikravandi Assembly constituency, scheduled for July 10th. This by-election sees competition from the DMK-Bamaka-Nam Tamil Party, while the AIADMK and Temuthika parties are absent. The corporation's general secretary, Pussy Anand, clarified that the Tamil Nadu Victory Corporation itself will not participate in the by-election, focusing instead on its broader goals and future elections.
-
-🟩
-
-The Tamil Nadu Victory Corporation has announced that "no party has no support in the by -election for the Vikravandi Assembly constituency."
-
-The by -election will be held on the 10th of July for the Vikravandi Assembly constituency. The DMK -Bamaka -Nam Tamil Party is contesting in this by -election. Candidates have been announced on behalf of this party. The AIADMK and Temuthika parties have ignored the by -election. In this case, who is supporting the party of the Tamil Nadu Victory Corporation?The question arose. In this case, the party's general secretary, Pussy Anand, has said in a statement that no party has supported the Assembly by -election for the Vikravandi constituency.
-
-“The Tamil Nadu Victory Council Chairman Vijay, in the first report on the party's opening announcement on the second of February, made it clear on the political position of our club.
-
-...
-
-[Data](articles/0c4d03d9.json)
-
-[Extended Data](ext_articles/0c4d03d9.ext.json)
-
----
-
-### Priyanka Gandhi is contesting in Wayanad constituency
-
-*2024-06-18 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186365) · `ta`
-
-Priyanka Gandhi, daughter of former Prime Minister Rajiv Gandhi, is set to contest from the Wayanad constituency for the Congress party. This decision comes after her brother, Rahul Gandhi, won the seat in the last Lok Sabha elections with a significant margin. Despite his victory, Rahul Gandhi faced questions about whether he would retain the seat or move to another constituency. The Congress leadership has now chosen Priyanka Gandhi to represent them in Wayanad, indicating a strong family presence in the region's politics.
-
-🟩
-
-"Priyanka Gandhi will contest for the Congress party in Wayanad constituency," said Mallikarjuna Karke.
-
-Rahul Gandhi contested on behalf of the Congress party in the End Lok Sabha elections in the Kerala State Wayanad constituency and Uttar Pradesh's Rabareli constituency. Won by three lakh votes in both constituencies. Following this, he raised the question of which constituency he would resign from Rabareli or Wayanad.
-
-Congress leader Mallikarjuna Kargay said, "In this case, met with journalists in New Delhi.
-
-Rahul Gandhi continues to be a member of the Lok Sabha. Rahul Gandhi won the love of the Congress party in Wayanad constituency. So we have decided to contest Priyanka Gandhi in that constituency. ”
-
-Speaking about this, Priyanka Gandhi said, “I have a very long relationship with Rabareli. It is impossible to break it. Me and brother Rahul and Rabareli and Wayanad will be with people. '' said.
-
-◼️
-
-[Data](articles/ce90673f.json)
-
-[Extended Data](ext_articles/ce90673f.ext.json)
 
 ---

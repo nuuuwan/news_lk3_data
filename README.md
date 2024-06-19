@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 22:53:10**
+As of **2024-06-19 23:04:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,170 (100.0%) of 31,172 articles have been extended.
+31,172 (100.0%) of 31,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Thanking the UN High Commissioner for Human Rights, Volker Türk for his recent 
 ...
 
 [Data](articles/a8821ab2.json)
+
+[Extended Data](ext_articles/a8821ab2.ext.json)
 
 ---
 
@@ -248,17 +250,25 @@ The visit will add momentum to connectivity projects and other mutually benefici
 
 ---
 
-### හිරුණිකාට එරෙහි නඩුවක තීන්දුවක් 28දා ප්‍රකාශයට
+### Decision in a case against Hirunika
 
 *2024-06-19 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහි-නඩුවක-තීන්දුවක්-28දා-ප්‍රකාශයට/11-410324) · `si`
 
-දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳ සැලක සේවය කළ තරුණයෙකු පැහැරගෙන ගොස් පහර දී සාපරාධී ලෙස බිය ගන්වන ලදැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට එරෙහිව පවරා ඇති නඩුවේ තීන්දුව ලබන 28 වැනිදා ප්‍රකාශයට පත් කිරීමට කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා අද (19දා) තීරණය කළේය.දීර්ඝ නඩු විභාගයකින් අනතුරුව නඩුවේ තීන්දුව ප්‍රකාශයට පත් කිරීමට විනිසුරුවරයා තීරණය කළේය.
+Colombo High Court Judge Amal Ranaraja declared the verdict in the case against former Parliamentarian Hirunika Premachandra on the 28th, finding eight security guards guilty of abducting and assaulting Amila Priyang Amarasinghe in December 2015. They were sentenced to 12 years in prison and fined Rs. 165,000 each. The victim was awarded Rs. 285,000 in compensation. Premachandra faced 29 charges but the outcome of her case was not specified.
 
-2015 වසරේ දෙසැම්බර් මස 21 වැනිදා හෝ ඊට ආසන්න දිනයක දෙමටගොඩදී අමිල ප්‍රියංග අමරසිංහ නමැත්තා අයුතු ලෙස සිරකිරීමේ අදහසින් පැහැරගැනීමට කුමන්ත්‍රණය කිරීම, අමරසිංහ නමැත්තා අයුතු ලෙස සිරකිරීම පොදු අරමුණ කරගත් නීතිවිරෝධී රැස්වීමක සාමාජිකයන් ලෙස කටයුතු කිරීම, එලෙස කටයුතු කරමින් ඔහු පැහැරගෙන යෑම, ඒ සඳහා ආධාර අනුබල දීම, සාපරාධී බලහත්කාරය පෑම, අඩන්තේට්ටම් කිරීම, සාපරාධී ලෙස බියගැන්වීම ඇතුළු චෝදනා 29ක් යටතේ නීතිපතිවරයා විසින් විත්තිකරුවන්ට එරෙහිව මෙම නඩුව පවරා ඇත.
+🟩
+
+Colombo High Court Judge Amal Ranaraja decided to declare the verdict in the case against former Parliamentarian Hirunika Premachandra on the 28th of this month.The judge decided to publish the verdict in the case.
+
+The abduction of the Amaralge Amaila Priyang Amarasinghe in December 21, 2015, to abduct Mr. Amila Priyang Amarasinghe in Dematagoda, to abduct and support assistanceThe case has been filed against the defendants under 29 charges against the accusations, including the criminal force, intimidation, criminal intimidation.
+
+The Attorney General has informed the court under 29 months of charges of the incident.Eight security guards have pleaded guilty and sentenced to 12 years in prison and fined Rs. 1,65,000 / -. The youth of Dematagoda, who was abducted, was also paid to pay compensation at Rs. 2,85,000 / -.
 
 ...
 
 [Data](articles/2065d108.json)
+
+[Extended Data](ext_articles/2065d108.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 20:36:00**
+As of **2024-06-19 20:53:36**
 
 ## Newspaper Stats
 
-*Scraped **31,160** Articles*
+*Scraped **31,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,798
 dailyftlk | 1,899
-adalk | 2,719
-adaderanalk | 3,531
+adalk | 2,720
+adaderanalk | 3,532
 tamilmirrorlk | 3,663
 dailymirrorlk | 4,733
 virakesarilk | 4,808
-adaderanasinhalalk | 5,065
+adaderanasinhalalk | 5,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,159 (100.0%) of 31,160 articles have been extended.
+31,160 (100.0%) of 31,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### පියුමි හංසමාලිගේ බැංකු ගිණුම් ගැන විමර්ශන
+
+*2024-06-19 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197931) · `si`
+
+ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලී මෙරට ප්‍රධාන පෙළේ බැංකු 08ක පවත්වාගෙන යන ගිණුම් 19ක වාර්තා කැඳවීමට කොළඹ අලුත්කඩේ අංක 04 මහෙස්ත්‍රාත් මංජුල තිලකරත්න මහතා නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට අවසර ලබාදුනි.
+
+ඒ ඇය සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි කියමින් ලද පැමිණිල්ලකට අනුව අධිකරණයට කළ කරුණු දැක්වීමකදීය.
+
+මගෙන් රටට සංවිධානයේ සභාපති සංජය මහවත්ත කළ පැමිණිල්ලක් අනුව මෙම විමර්ශනය ආරම්භ කර තිබේ.
+
+ඊට අදාළව ඊයේ දිනයේදී කොළඹ අලුත්කඩේ අංක 04ක අධිකරණයට එම කොට්ඨාසයේ ''සංවිධානාත්මක අපරාධ මගින් උපයා ගන්නා වත්කම් විමර්ශන ඒකකය'' කරුණු දක්වීය.
+
+එහිදී විමර්ශන නිලධාරීන් පැවසුවේ මෙරට ප්‍රධාන පෙළේ බැංකු 8ක ඇය ගිණුම් 19ක් පවත්වාගෙන යන බවය.
+
+ඒ අනුව අදාළ ගිණුම්වල වාර්තා කැඳවීමට අධිකරණය විමර්ශන නිලධාරීන්ට අවසර ලබාදුනි.
+
+එමෙන්ම හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ ජීප් රථය ඇය රුපියල් ලක්ෂ 780ක් වැය කර එය හිමි පුද්ගලයාගෙන් මිලදී ගෙන ඇති බවද විමර්ශන නිලධාරීන් අධිකරණය හමුවේ කරුණු වාර්තාකර තිබේ.
+
+...
+
+[Data](articles/c9fc6447.json)
+
+---
+
+### Indian Foreign Minister to visit Sri Lanka tomorrow
+
+*2024-06-19 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99975/indian-foreign-minister-to-visit-sri-lanka-tomorrow) · `en`
+
+Indian External Affairs Minister Dr. S. Jaishankar is scheduled to pay an official visit to Sri Lanka on Thursday (20 June).
+
+During the visit, the Indian foreign minister will have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, the Indian High Commission in Colombo said.
+
+This will be Jaishankar’s first bilateral visit after the formation of new Government under Indian Prime Minister Shri Narendra Modi.
+
+“Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend.”
+
+The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors, the statement said.
+
+◼️
+
+[Data](articles/16ad3aff.json)
+
+---
 
 ### Indian Foreign Minister to visit Sri Lanka tomorrow
 
@@ -49,6 +93,8 @@ The visit will add momentum to connectivity projects and other mutually benefici
 ◼️
 
 [Data](articles/33708335.json)
+
+[Extended Data](ext_articles/33708335.ext.json)
 
 ---
 
@@ -93,6 +139,24 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 [Data](articles/254daa3e.json)
 
 [Extended Data](ext_articles/254daa3e.ext.json)
+
+---
+
+### කර්මාන්තකරුවන්ට මූල්‍ය සහාය ලබාදීම සඳහා නව සංවර්ධන බැංකුවක්
+
+*2024-06-19 19:06:36* · [`adalk`](https://www.ada.lk/breaking_news/කර්මාන්තකරුවන්ට-මූල්‍ය-සහාය-ලබාදීම-සඳහා-නව-සංවර්ධන-බැංකුවක්/11-410320) · `si`
+
+මෙරට කර්මාන්තකරුවන්ට අවශ්‍ය මුල්‍ය සහාය ලබාදීම වෙනුවෙන් නව සංවර්ධන බැංකුවක් ආරම්භ කිරීමට අපේක්ෂා කරන බවත්, එමගින් කර්මාන්තකරුවන්ට අඩු පොලියට ණය ලබා ගැනීමට අවස්ථාව සැලසෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එම කටයුතු ඉදිරියට ගෙන යාම වෙනුවෙන් ආර්ථික කොමිෂමක් ඇති කරන අතර සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයන් ශක්තිමත් කිරීම වෙනුවෙන් “එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා” නමින් නව ආයතනයක් පිහිටුවන බවද ජනාධිපතිවරයා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ශ්‍රි ලංකාවේ ප්‍රථම වරට පැවැත්වෙන ඉන්ටනැෂනල් ඉන්ඩස්ට්‍රි එක්ස්පෝ 2024 (International Industry Expo 2024) ප්‍රදර්ශනය අද (19) පෙරවරුවේ විවෘත කරමිනි.
+
+කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් පරිදි කර්මාන්ත අමාත්‍යාංශයේ මෙහෙයවීමෙන්, කර්මාන්ත සංවර්ධන මණ්ඩලය විසින් සංවිධානය කළ මෙම ප්‍රදර්ශනය අද සිට ජූනි 23 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවැත්වේ.
+
+...
+
+[Data](articles/87540b31.json)
 
 ---
 
@@ -2313,67 +2377,5 @@ Indian Foreign Minister Dr. S. Sahana for an official visit. Jayashankar is due 
 [Data](articles/e3cfce91.json)
 
 [Extended Data](ext_articles/e3cfce91.ext.json)
-
----
-
-### Minor tremor reported in Vavuniya
-
-*2024-06-19 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99959/minor-tremor-reported-in-vavuniya) · `en`
-
-The Geological Survey and Mines Bureau (GSMB) stated that the minor tremor, measuring 2.3 on the on the Richter scale, had occurred between 10.55 p.m. and 11.10 p.m. last night (18).
-
-It is reported that the tremor was felt in areas including Vavuniya and Medawachchiya and that it had been recorded at the seismic stations at Pallekele, Mahakanadarawa and Hakmana.
-
-◼️
-
-[Data](articles/b0e8a71e.json)
-
-[Extended Data](ext_articles/b0e8a71e.ext.json)
-
----
-
-### Rainy conditions expected to enhance from today
-
-*2024-06-19 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99958/rainy-conditions-expected-to-enhance-from-today) · `en`
-
-The Meteorology Department says the prevailing rainy condition in the South-western part of the island is expected to be somewhat enhanced in the next few days from today (19).
-
-Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/5d77f340.json)
-
-[Extended Data](ext_articles/5d77f340.ext.json)
-
----
-
-### Court orders to give Umbagala's secret statement on the 24th
-
-*2024-06-19 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197904) · `si`
-
-The Colombo Magistrate's Court has ordered Birajith Ukage to submit a confidential statement on the 24th. This follows his arrest and remand by the CID for alleged misuse of funds exceeding Rs.
-
-🟩
-
-The Court has ordered the court on the 24th of this month.
-
-Birajith Ukage had asked the Colombo Magistrate's Court through his lawyers that he wanted to make a secret statement in court.
-
-The Magistrate's Court has issued the order, "the Ada Derana reporter said.
-
-The Criminal Investigations Department (CID) was arrested and remanded after being arrested and was remanded after being taken to court about a false use of more than Rs.
-
-◼️
-
-[Data](articles/651cdb32.json)
-
-[Extended Data](ext_articles/651cdb32.ext.json)
 
 ---

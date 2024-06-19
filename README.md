@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 17:19:11**
+As of **2024-06-19 17:35:19**
 
 ## Newspaper Stats
 
-*Scraped **31,135** Articles*
+*Scraped **31,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,527
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,062
+adaderanasinhalalk | 5,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,135 (100.0%) of 31,135 articles have been extended.
+31,135 (100.0%) of 31,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### ශ්‍රීලනිපයේ නව සභාපති නිමල් සිරිපාල
+
+*2024-06-19 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197927) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව සභාපති ලෙස නිමල් සිරිපාල ද සිල්වා මහතා අද (19) පැවැති පක්ෂ විධායක සභා රැස්වීමේදී තේරී පත්වී තිබේ.
+
+මීට පෙර ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා කටයුතු කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම්වරයා ලෙස තේරී පත්වී ඇත්තේ දුමින්ද දිසානායක මහතාය.
+
+◼️
+
+[Data](articles/c01ed32b.json)
+
+---
 
 ### Groups who receive relief tax on proposed rent income tax
 
@@ -2293,23 +2309,5 @@ Addressing Parliament, Herath emphasised that while the President becomes a memb
 [Data](articles/69031a0e.json)
 
 [Extended Data](ext_articles/69031a0e.ext.json)
-
----
-
-### Thailand to become first Southeast Asian nation to legalise same-sex marriage
-
-*2024-06-19 04:24:53* · [`dailyftlk`](https://www.ft.lk/news/Thailand-to-become-first-Southeast-Asian-nation-to-legalise-same-sex-marriage/56-763215) · `en`
-
-CNN – Thailand will become the first nation in Southeast Asia to legalise same-sex marriage after the Kingdom’s Senate approved a Marriage Equality Bill on Tuesday, with supporters calling it a “monumental step forward for LGBTQ+ rights.”
-
-The Senate voted overwhelmingly in favour of passing the bill following a final reading, with 130 senators voting in favour. Only four members opposed the bill. The bill still requires endorsement from the King before marriage equality can become a reality in Thailand, but this process is considered a formality. The law will then come into effect 120 days after it is published in the Royal Gazette.
-
-The result of the vote means that Thailand will become only the third place in Asia to allow for marriage equality after Taiwan legalised same-sex marriage in 2019 and Nepal in 2023.
-
-◼️
-
-[Data](articles/c51d6e17.json)
-
-[Extended Data](ext_articles/c51d6e17.ext.json)
 
 ---

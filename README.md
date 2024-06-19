@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 11:19:14**
+As of **2024-06-19 11:34:45**
 
 ## Newspaper Stats
 
-*Scraped **31,072** Articles*
+*Scraped **31,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
-adalk | 2,707
-adaderanalk | 3,520
-tamilmirrorlk | 3,651
+adalk | 2,708
+adaderanalk | 3,521
+tamilmirrorlk | 3,652
 dailymirrorlk | 4,733
-virakesarilk | 4,784
-adaderanasinhalalk | 5,048
+virakesarilk | 4,787
+adaderanasinhalalk | 5,049
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,070 (100.0%) of 31,072 articles have been extended.
+31,072 (100.0%) of 31,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Nathasha Edirisooriya and Bruno Divakara released from case
+
+*2024-06-19 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99963/nathasha-edirisooriya-and-bruno-divakara-released-from-case) · `en`
+
+Stand-up comedian Nathasha Edirisooriya and the owner of the ‘SL VLOG’ YouTube channel Bruno Divakara have been released by the Fort Magistrate’s Court from the case filed against them for allegedly making controversial statements on Buddhism.
+
+◼️
+
+[Data](articles/dc5c4747.json)
+
+---
+
+### පොලීසිය තුළ වෙන්න ගිය වෙඩි තැබීම නූලෙන් වැළකෙයි
+
+*2024-06-19 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197912) · `si`
+
+කහතුඩුව පොලීසියේ තනිකඩ භට නිවාසය තුළදී පොලිස් කොස්තාපල්වරයකුට වෙඩිතැබීමට තැත්කළ තවත් පොලිස් කොස්තාපල්වරයෙක් ව දැඩි පරිශ්‍රමයක් දරා අත්අඩංගුවට ගත් බව කහතුඩුව පොලීසිය පවසයි.
+
+සැකකරු සන්තකයේ තිබූ පිස්තෝල ගිනි අවියක් සහ ජීව උණ්ඩයක් ද පොලිස් භාරයට ගෙන තිබුණි.
+
+අනෙක් පොලිස් කොස්තාපල්වරයා 17 වනදා රාත්‍රී දුරකථන ක්‍රියාකරු ලෙස රාජකාරීයේ යෙදී සිට ඇති අතර පසුදින (18) අලුයම 5.40 ට පමණ පුද්ගලයන් දෙදෙනකු පැමිණිල්ලක් කිරීම සඳහා පොලිස් ස්ථානය තුළට පැමිණ තිබුණි.
+
+ඒ අවස්ථාවේ උප-සේවක ලෙස රාජකාරියේ යෙදී සිටි සැකකාර ආධුනික පොලිස් කොස්තාපල්වරයා උප-සේවක පුටුව මත නිදාගෙන සිට ඇතැයි පොලීසිය පවසයි.
+
+ඔහුව අවදි කිරීම සඳහා අනෙක් නිලධාරියා අවස්ථා කීපයකදීම කතා කර ඇතත් ඔහු අවදි නොවීම හේතුවෙන් හිසට පහරක් ගසා වතුරද වක්කර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+පසුව ඒ බව දුරකථන ක්‍රියාකරු විසින් රාත්‍රී රාජකාරිය භාරව සිටි පොලිස් සැරයන්වරයෙකුටද දැනුම් දීමෙන් අනතුරුව ඔහු විසින් අදාළ පුද්ගලයන් දෙදෙනාගේ පැමිණිල්ල ලියා  අදාළ සිද්ධිය සම්බන්ධයෙන් පොලිස් පොතේ සටහනක් ද තබා ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/0a589fb3.json)
+
+---
 
 ### Over 7,700kg of electronic waste collected  from 11 districts
 
@@ -45,6 +79,24 @@ According to the CEA, their electronic waste collection initiatives, conducted a
 ◼️
 
 [Data](articles/4817a933.json)
+
+[Extended Data](ext_articles/4817a933.ext.json)
+
+---
+
+### ராகுல் காந்தி   இராஜினாமா
+
+*2024-06-19 10:32:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராகுல்-காந்தி-இராஜினாமா/175-339115) · `ta`
+
+நடந்து முடிந்த பாராளுமன்ற மக்களவைத் தேர்தலில் காங்கிரஸ் கட்சி சார்பாக அக்கட்சியின் மூத்த தலைவர் ராகுல் காந்தி கேரள மாநிலம் வயநாடு மற்றும் உத்தரப்பிரதேச மாநிலம் ரேபரேலி ஆகிய இரு மக்களவை தொகுதிகளில் போட்டியிட்டு இரண்டிலுமே வெற்றியும் பெற்றார். தொடர்ந்து வயநாடு தொகுதியின் எம்.பி. பதவியை ராகுல் காந்தி இராஜினாமா செய்வதாக தகவல் வெளியாகியது.
+
+14 நாட்களில் இரண்டு தொகுதிகளில் ஒன்றை இராஜினாமா செய்ய வேண்டுமென்ற நிலை ராகுல் காந்திக்கு ஏற்பட்டுள்ளது. இதனையடுத்து, கட்சி நிர்வாகிகளுடன் நடைபெற்ற ஆலோசனைக் கூட்டத்திற்கு பிறகு ராகுல்காந்தி வயநாடு தொகுதி எம்.பி பதவியை இராஜினாமா செய்வது என்ற முடிவை கடந்த 17ஆம் திகதி அறிவித்தார். ராகுல்காந்தியின் முடிவை தொடர்ந்து வயநாடு தொகுதியில் பிரியங்கா காந்தி போட்டியிடுவார் என கட்சியின் தலைவர் மல்லிகார்ஜுன கார்கே அறிவித்தார்.
+
+இந்த நிலையில், வயநாடு தொகுதி எம்.பி பதவியை ராகுல் காந்தி நேற்று அதிகாரப்பூர்வமாக இராஜினாமா செய்தார். அவரது இராஜினாமா கடிதத்தை சபாநாயகர் ஏற்றுக்கொண்டதாக மக்களவை செயலகம் தெரிவித்துள்ளது.S
+
+◼️
+
+[Data](articles/17aea67a.json)
 
 ---
 
@@ -67,6 +119,24 @@ He said that this decision would be taken due to the loss of the Postal Departme
 [Data](articles/5c2dfcf8.json)
 
 [Extended Data](ext_articles/5c2dfcf8.ext.json)
+
+---
+
+### மத்திய சுற்றாடல் அதிகாரசபையின் ஏற்பாட்டில் நெய் சோறு தானம்
+
+*2024-06-19 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186419) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு மத்திய சுற்றாடல் அதிகாரசபையின் ஏற்பாட்டில் நெய் சோறு தானம் வழங்கப்படவுள்ளது.
+
+இலக்கம் 104, டென்சில் கொப்பேகடுவ மாவத்தை என்ற முகவரியில் அமைந்துள்ள மத்திய சுற்றாடல் அதிகாரசபையின் வளாகத்தில் இந்த நெய் சோறு தானம் இன்று நண்பகல் 12.00 மணி முதல் வழங்கப்படவுள்ளது.
+
+மத்திய சுற்றாடல் அதிகாரசபையின் தலைவர் வேணுர பெர்னாண்டோ மற்றும் பணிப்பாளர் நாயகம் பி.பி. ஹேமந்த ஜயசிங்க தலைமையில்  ஊழியர்களின் நிதி பங்களிப்புடன்  400 கிலோ கிராம் நெய் சோறு சுமார் 3,200 பேருக்கு வழங்குவதற்கு ஏற்பாடு செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+தான நிகழ்வில் பங்கு கொள்ளுமாறு பொது மக்களுக்கு மத்திய சுற்றாடல் அதிகாரசபையின் அழைப்பு விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/c4516327.json)
 
 ---
 
@@ -108,6 +178,40 @@ Putin, making his first trip to North Korea in 24 years, said in comments that a
 
 ---
 
+### பொசன் பௌர்ணமி தினத்தன்று மதுபானசாலைகளுக்கு பூட்டு
+
+*2024-06-19 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186422) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு 21ஆம் திகதி வெள்ளிக்கிழமை நாடு முழுவதும் அனைத்து மதுபானங்களின் விற்பனையும் தடை செய்யப்பட்டுள்ளதுடன், கலால் ஆணையாளர் நாயகத்தின் உத்தரவின் பேரில் தெரிவுசெய்யப்பட்ட புனித வலயங்களில் இரண்டு முதல் ஏழு நாட்கள் வரை மதுபானங்களை விற்பனை செய்ய தடைசெய்யப்பட்டுள்ளது.
+
+நாடு முழுவதும் வெள்ளிக்கிழமை அனைத்து மதுபானசாலைகளும் மூடப்படுவதோடு, தம்புள்ளை மற்றும் திஸ்ஸமஹாராம நகர சபைக்குட்பட்ட தெரிவுசெய்யப்பட்ட பொசன் பண்டிகை வலயங்கள்  21 ஆம் திகதி வெள்ளிக்கிழமை மற்றும்  22 ஆம் திகதி சனிக்கிழமை ஆகிய இரண்டு நாட்களுக்கு மூடப்படும் என கலால் திணைக்களத்தின் ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி தெரிவித்துள்ளார்.
+
+இதேவேளை, அனுராதபுரம் புனித நகரை உள்ளடக்கிய  மத்திய நுவரகம், கிழக்கு நுவரகம் மற்றும் மிஹிந்தலை ஆகிய பிரதேச செயலகங்கள் பிரிவுகளில் குறித்த காலப்பகுதியில்  ஏழு நாட்களுக்கு மதுபான விற்பனை தடைசெய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/dbd8824c.json)
+
+---
+
+### ஹட்டன்  குயில்வத்தை பகுதியில் கார் விபத்து !
+
+*2024-06-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186421) · `ta`
+
+ஹொரணையில் இருந்து நுவரெலியா நோக்கி பயணித்த குடும்பம் ஒன்று பயணித்த கார் வீதியை விட்டு விலகி விபத்துக்குள்ளானதாக ஹட்டன் பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹட்டன் - கொழும்பு பிரதான  வீதி, ஹட்டன்  குயில்வத்தை  பகுதியில்  இன்று  புதன்கிழமை (19) அதிகாலை 5.15 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+காரின் சாரதி உறங்கியமையினால் கார்  வீதியை  விட்டு விலகி விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்தில் காரில் பயணித்த எவருக்கும் காயங்கள் ஏற்படவில்லை எனவும், கார் பலத்த சேதமடைந்துள்ளதாகவும் ஹட்டன் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/228b49a4.json)
+
+---
+
 ### Teachers to launch ‘sick leave’ trade union action
 
 *2024-06-19 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99960/teachers-to-launch-sick-leave-trade-union-action-) · `en`
@@ -127,6 +231,24 @@ UTUJC co-chairman Dhammika Priyantha emphasized that authorities will be given a
 [Data](articles/a2073474.json)
 
 [Extended Data](ext_articles/a2073474.ext.json)
+
+---
+
+### කොස්තාපල්ට වෙඩි තියන්න ගිය කොස්තාපල් අල්ලයි
+
+*2024-06-19 09:39:40* · [`adalk`](https://www.ada.lk/breaking_news/කොස්තාපල්ට-වෙඩි-තියන්න-ගිය-කොස්තාපල්-අල්ලයි/11-410305) · `si`
+
+කහතුඩුව පොලිසියේ තනිකඩ බට නිවාසය තුළදී පොලිස් කොස්තාපල්වරයකුට වෙඩි තැබීමට  තැත් කළ තවත් පොලිස් කොස්තාපල්වරයෙකු දැඩි පරිශ්‍රමයක් දරා අත්අඩංගුවට ගත් බව කහතුඩුව පොලිසිය කියයි.සැකකරු සන්තකයේ තිබූ පිස්තෝල ගිනි අවියක් සහ ජීව උණ්ඩයක් ද පොලිස් භාරයට ගෙන ඇත
+
+18දා අලුයම 5.40 ට පමණ පුද්ගලයන් දෙදෙනකු පැමිණිල්ලක් කිරීම සඳහා පොලිස් ස්ථානය තුළට පැමිණ ඇති අතර ඒ අවස්ථාවේ උප සේවක ලෙස රාජකාරියේ යෙදී සිටි සැකකාර පොලිස් කොස්තාපල්වරයා උපසේවක පුටුව මත නිදාගෙන සිට ඇතැයි පොලිසිය කියයි
+
+ඔහුව අවදි කිරීම සඳහා අනෙක් නිලධාරියා අවස්ථා කීපයකදීම කතා කරා ඇතත් ඔහු අවදි නොවීම හේතුවෙන් හිසට පහරක් ගසා වතුරද වක්කර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+පසුව ඒ බව දුරකථන ක්‍රියාකරු විසින් රාත්‍රී රාජකාරිය භාරව සිටි පොලිස් සැරයන්වරයෙකුටද දැනුම් දීමෙන් අනතුරුව ඔහු විසින් අදාළ පුද්ගලයන් දෙදෙනාගේ පැමිණිල්ල ලියා  අදාල සිද්ධිය සම්බන්ධයෙන් පොලිස් පොතේ සටහනක් ද තබා ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+
+...
+
+[Data](articles/87a92ce1.json)
 
 ---
 
@@ -642,25 +764,33 @@ The announcement follows public outcry and claims from various consumer and indu
 
 ---
 
-### රනිල් වික්‍රමසිංහ : ජනපතිවරයා ශ්‍රේෂ්ඨාධිකරණය විවේචනය කළේ ඇයි? 'යටි අරමුණක්' තිබේද?  වි‌ශ්ලේෂකයෝ කියන්නේ කුමක්ද?
+### Ranil Wickremesinghe: Why did the President criticize the Supreme Court?Is there a 'underlying purpose'?What is analysts?
 
 *2024-06-19 04:40:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl44xzdyzxdo) · `si`
 
-රනිල් වික්‍රමසිංහ : ජනපතිවරයා ශ්‍රේෂ්ඨාධිකරණය විවේචනය කළේ ඇයි? 'යටි අරමුණක්' තිබේද?  වි‌ශ්ලේෂකයෝ කියන්නේ කුමක්ද?
+President Ranil Wickremesinghe criticized the Supreme Court's decision on the gender equality bill, questioning its legality and suggesting the appointment of a Select Committee. Analysts suggest his actions aim to undermine the court's independence, highlighting a power struggle between the executive and judiciary. Critics argue against challenging the judiciary, emphasizing its role in upholding justice and representing the people's sovereignty.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ "ඡන්ද කල් දැමීම අරමුණු කර ගනිමින් ශ්‍රේෂ්ඨාධිකරණයේ මතය යටපත් කිරීමේ උත්සහයක නිරත වන බවට දේශපාලන විශ්ලේෂකයෝ පෙන්වා දෙති.
+🟩
 
-ඔවුන් ඒ සම්බන්ධයෙන් වන නවතම උදාහරණය ලෙස පෙන්වා දෙන්නේ, ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාව පිළිබඳ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය දුන් තීරණය පිළිබඳව ජනාධිපතිවරයා අඟහරුවාදා (ජූනි 18) පාර්ලිමේන්තුවේදී කළ ප්‍රකාශය යි.
+Ranil Wickremesinghe: Why did the President criticize the Supreme Court?Is there a 'underlying purpose'?What is analysts?
 
-ජනාධිපති රනිල් වික්‍රමසිංහ පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයේ ඇතුළත් වූ කොටස් කිහිපයක සිංහල අදහස පහත දැක්වේ.
+Political analysts point out that President Ranil Wickremesinghe is trying to suppress the opinion of the Supreme Court.
 
-"ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාව පිළිබඳ පනත් කෙටුම්පත පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීරණය. එය ඔබ (කතානායක) විසින් කියවනු ලැබුවා. මට අවශ්‍ය වන්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 4 වන වගන්තිය යටතේ මෙම පාර්ලිමේන්තුවේ බලතල උල්ලංඝණය වන බවට රීති ප්‍රශ්නයක් මතු කිරීමට පමණයි. ඒ වගේ ම අපි ඒ සම්බන්ධයෙන් තේරීම් කාරක සභාවක් පත් කළ යුතු යි."
+The latest illustration shows the President's statement on Tuesday (June 18) regarding the decision of the Supreme Court's decision on the conclusion of the gender equality bill.
 
-"ශ්‍රේෂ්ඨාධිකරණයට කොහොමත් මේ ගැන තීන්දුවක් දෙන්න බැහැ. ඔවුන් නීතිවිරෝධීව අපේ පැත්තට එනවා."
+Below is the Sinhala idea in several parts of the statement made by President Ranil Wickremesinghe in Parliament.
+
+"The Supreme Court decision on the gender equality bill. It was read by you (Speaker). I need only to raise a question of a question that the powers of this Parliament will be violated under Section 4 of the Constitution.. Likewise, we must appoint a Select Committee on it. "
+
+"The Supreme Court cannot judge this anyway. They are illegally coming to our side. "
+
+"Supreme Court cannot judge a draft. They only advise them. "
 
 ...
 
 [Data](articles/dd63606c.json)
+
+[Extended Data](ext_articles/dd63606c.ext.json)
 
 ---
 
@@ -2127,179 +2257,5 @@ The shooting of the film is over and the post -shooting technical work is underw
 [Data](articles/6caa07c5.json)
 
 [Extended Data](ext_articles/6caa07c5.ext.json)
-
----
-
-### Arrested person for selling animals
-
-*2024-06-18 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186395) · `ta`
-
-A 54-year-old man from Varadivillu Bear was arrested for illegally selling animals with an unlicensed rifle. The arrest occurred during a roundup initiated by the Varnathivilu Police based on confidential information. The suspect was apprehended as he attempted to flee his home with a firearm. Authorities suspect involvement in wildlife poaching and fraud.
-
-🟩
-
-A man who has been involved in the sale of animals by illegal rifle without permit has been arrested by police with gun and shoes.
-
-A man was arrested during a round -up on Tuesday (18), according to a secret information available to the Varnathivilu Police for allegedly being illegally illegally without permission.
-
-The suspect was 54 years old from the Varadivillu Bear.
-
-Police say they suspect the suspect is involved in fraud of hunting and selling wild animals.
-
-When the police surrounded the suspect's house, he was arrested when he was trying to leave the house with a gun in his hand.
-
-On the directive of the incident of the Chief Inspector of Police, Sumuthu Senanayake, the Sub -Inspector of Police, Senaka Bandara, led by Van (70637) Rajapaksa, Rajapaksa, Saman (73384), Saman, Police Constables (76238), Sameera.
-
-Varnathivilu police said that steps have been taken to produce the arrested suspect and the seized gun and bullets.
-
-◼️
-
-[Data](articles/df4b99ab.json)
-
-[Extended Data](ext_articles/df4b99ab.ext.json)
-
----
-
-### Kali Venkat's 'Donima' film teaser
-
-*2024-06-18 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186398) · `ta`
-
-The teaser for "Dhonima," featuring Kali Venkat, highlights his versatility as an actor, playing a character involved in cricket and a mercenary worker alongside his wife, all while addressing societal issues. The film, praised by Bharat on social media, includes a diverse cast and focuses on marginalized communities, produced by Sai Venkateswaran under L&T Productions.
-
-🟩
-
-The teaser of the film 'Dhonima' has been released as the hero of the story, the best character actor and the comedian who plays the role of actor Kali Venkat, the best diversity of the Tamil film industry.. Actor Bharat posted this on his social network and congratulated the film crew.
-
-Kali Venkat, Roshini Raj, Vivek Prasanna, Kannan Ponniah, Rajesh Sharma, B.. L. Thenappan, 'Kalki' Rajan and many others have played. EJ Johnson has composed the film, which has been recorded by Bhagiraj and Sajith Kumar.. The film is being prepared in the context of marginalized people and produced by producer Sai Venkateswaran on behalf of L&T Productions.
-
-The first look and teaser of the film has been released. In the teaser, the actor Kali Venkat is a serious stabbing on the cricket and his wife is a mercenary worker and the two are fighting for their standard address.
-
-◼️
-
-[Data](articles/5196d6db.json)
-
-[Extended Data](ext_articles/5196d6db.ext.json)
-
----
-
-### The constable shooting at the police barracks of Kahathuduwa police operator
-
-*2024-06-18 16:54:17* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-පොලිසියේ-දුරකතන-ක්‍රියාකරුට--කොස්තාපල්වරයා-පොලිස්-බැරැක්කය-තුළදී-වෙඩි-තියන්න-හදල/11-410293) · `si`
-
-A constable from Horonpembella, attached to Kahathuduwa police station, was arrested for allegedly attempting to shoot a telephone operator over a dispute. The incident occurred when the constable, who had come to report a death during his duty, engaged in a heated argument with the operator. Two other constables intervened, leading to the suspect's arrest. He will be produced before the Kesbewa court.
-
-🟩
-
-The telephone operator in charge of the sleeve in the Kahathuduwa police station at the Single-Firearm, the constable assigned to the bake was arrested on the day today (18).
-
-Police said that the police said that a police constable is a resident of Horonpembella, who was attached to Kahathuduwa police station.
-
-The officer had come to a complaint regarding the death of a person while sub-service was duty this morning.A police sergeant in charge of dinner has been informed. The officer also came and tried to wake up the sub-service officer, but the police sermon has lodged a CIB note on the incident.
-
-Later, a heated argument between the telephone operator and the suspect had been brought to the suspect and attempted to shoot the telephone operator in a bulk of the telephone operator.There have been two police constables who have arrase with the suspect, which was preparing to leave for the day duties at the time.
-
-...
-
-[Data](articles/76a2c829.json)
-
-[Extended Data](ext_articles/76a2c829.ext.json)
-
----
-
-### No service extension to the Attorney General
-
-*2024-06-18 16:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபருக்கு-சேவை-நீட்டிப்பு-இல்லை/175-339081) · `ta`
-
-The President's proposal to extend the Attorney General Sanjay Rajaratnam's term was denied by the Constituent Assembly. The decision came during a meeting led by Speaker Mahinda Yapa Abeywardena at the Constitutional Council.
-
-🟩
-
-The President's recommendation to the Constituent Assembly has been rejected today (18) to extend the six -month service to the Attorney General of the Attorney General Sanjay Rajaratnam.
-
-The Constitutional Council convened this evening at the Parliament building headed by Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/fef5a1b5.json)
-
-[Extended Data](ext_articles/fef5a1b5.ext.json)
-
----
-
-### Nurses are at risk of closing a district hospital
-
-*2024-06-18 16:51:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-හෙදියන්-නෙමැතිවීමෙන්-දිසා-රෝහලක්-වැසීමේ-අවදානමක/11-410292) · `si`
-
-Meerigama District Hospital faces closure risk due to insufficient nursing staff, with only 49 out of 100 registered nurses available for duty. This shortage disrupts daily operations and patient care, despite efforts from the All Ceylon Nursing Union. The Health Minister's visit in March did not resolve the staffing issues.
-
-🟩
-
-Nurse staff says that due to the absence of adequate nurses in the Meerigama District Hospital, the patients have been unable to provide services. Recently, they recently leave sick leave over the day. It is reported that hospitals have been disrupted for daily activities.
-
-Although there are about 100 nurses as a district hospital, there are about 49 nurses to maintain the service work, only 49 nurses are currently working in service, the All Ceylon Nursing Union, Mirigama Hospital, Ruwan Abeysinghe, Chief Whip of China Nursing Union Ruwan Abeysinghe said.
-
-When the Minister of Health visited the hospital last March, he had not received any response to the issue.
-
-◼️
-
-[Data](articles/ce185ec3.json)
-
-[Extended Data](ext_articles/ce185ec3.ext.json)
-
----
-
-### President's resolution defeated to extend the time of the Attorney General
-
-*2024-06-18 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197890) · `si`
-
-The Constitutional Council rejected the President's proposal to extend Attorney General Sanjaya Rajaratnam's term. Despite discussions and a vote, only three members supported the extension, while five opposed it. The Attorney General's tenure ends this month.
-
-🟩
-
-The proposal to extend the service of the Attorney General Sanjaya Rajaratnam has been rejected in the Constitutional Council.
-
-Accordingly, the Constitutional Council met with Hon. Speaker Mahinda Yapa Abeywardena.
-
-The President's recommendation has been discussed at length and has held a vote between members of the Constitutional Council to reach a final decision.
-
-Accordingly, five votes were against the recommendation and only 3 votes were cast in favor.
-
-President Ranil Wickremesinghe by President Ranil Wickremesinghe was presented to the Constitutional Council by the President's Counsel Sanjaya Rajaratnam by six months.
-
-The Constitutional Council met on two occasions, and in both cases, it was postponed.
-
-Attorney General Sanjaya Rajaratnam's service is due to end this month.
-
-◼️
-
-[Data](articles/d71e870a.json)
-
-[Extended Data](ext_articles/d71e870a.ext.json)
-
----
-
-### There was a heavy cart that goes somewhere - Harin
-
-*2024-06-18 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197889) · `si`
-
-Harin Fernando, Sri Lanka's Sports Minister, emphasizes the Ministry's support for 73 sports beyond cricket. He criticizes a 90-year-old committee member, suggesting personal bias affects decisions. Despite criticism during cricket losses, he highlights the team's success in two out of three World Cup matches.
-
-🟩
-
-Sports Minister Harin Fernando says that the Ministry of Sports is not just cricket.
-
-He says that the Ministry of Sports has taken steps to work 73 sports.
-
-Speaking in parliament today (18) ... "The recent regulations. Ninety-year-old committee of the executive committee, he can't be chairman. Shammi de Silva is emerging as far as I know. Next he can't ask for. This is a personal hatred. "
-
-He added that when the cricket team was raging, everyone would blame him.
-
-"There was a heavy cart, wherever. Two out of 3 match in World Cups, two people lost again. The winner of all three tours. Well not said. When winning the players ... the Minister defeated. "
-
-◼️
-
-[Data](articles/217168e1.json)
-
-[Extended Data](ext_articles/217168e1.ext.json)
 
 ---

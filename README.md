@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 04:19:26**
+As of **2024-06-20 04:34:51**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,196 (100.0%) of 31,198 articles have been extended.
+31,198 (100.0%) of 31,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### கல்முனை பிரதேச செயலக பிரச்சினைக்குத் தீர்வுகாண நடவடிக்கை எடுப்போம் - பிரதமர் தினேஷ்
+### We will take action to address the issue of Kalmunai Divisional Secretariat - Prime Minister Dinesh
 
 *2024-06-20 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186507) · `ta`
 
-கல்முனை பிரதேச செயலக பிரச்சினைக்குத் தீர்வுகாண நடவடிக்கை எடுத்து வருகிறோம். அந்த பிரச்சினையை நாங்கள் நிராகரிக்கவில்லை எனப் பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+Prime Minister Dinesh Gunawardena assures no rejection of the Kalmunai Divisional Secretariat issue, addressing concerns raised by MPs. Despite previous discussions and promises from the Ampara District Government Agent, no action has been taken. An auditor is now involved, but administrative restructuring issues in court complicate matters. Further actions are planned through ministry discussions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) எம்.பிக்களான செல்வராசா கஜேந்திரன் மற்றும்  சாணக்கியன் இராசமாணிக்கம் எழுப்பிய கேள்விக்குப் பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-கல்முனை பிரதேச செயலகம் தொடர்பில் தொடர்ந்து மூன்று மாதங்களாகப் போராட்டம் இடம்பெற்று வருகிறது. இது தொடர்பாக உங்களுடன் தொலைபேசியிலும் கதைத்தோம். உங்களது காரியாலயத்துக்கும் வந்து கலந்துரையாடி இருந்தோம். அம்பாறை மாவட்ட அரசாங்க அதிபர் அங்கு வந்து இதுதொடர்பாக பார்ப்பார் என நீங்கள் தெரிவித்தீர்கள். ஆனால் அம்பாறை மாவட்ட அரசாங்க அதிபர் இதுவரை அங்கு வந்து எந்த நடவடிக்கையும் எடுக்கவில்லை என்றார்.
+We are taking steps to address the Kalmunai Divisional Secretariat issue. Prime Minister Dinesh Gunawardena said we did not reject the issue.
+
+He was responding to a question raised by MPs Selvarasa Gajendran and Chanakyan Rasamanikam on Wednesday (19) in Parliament.
+
+The Kalmunai Divisional Secretariat has been going on for three months. We also talked about this on the phone with you. We had come to your office and discussed. You said that the Ampara District Government Agent will come and see this. But the Ampara District Government Agent said he had not taken any action.
+
+We have provided the Ampara District Government Agent to look into the issue of Kalmunai Divisional Secretariat issue.. Accordingly, an auditor has taken steps to carry out the necessary steps with the public at the office.
 
 ...
 
 [Data](articles/2c4e21b2.json)
 
+[Extended Data](ext_articles/2c4e21b2.ext.json)
+
 ---
 
-### உயர் நீதிமன்றத்தின் தடையுத்தரவால் முத்துறைக்குள் நெருக்கடி - தயாசிறி ஜயசேகர
+### Crisis in Muttur
 
 *2024-06-20 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186506) · `ta`
 
-உயர் நீதிமன்றத்தின் இடைக்கால தடையுத்தரவால் அரசியலமைப்பு பேரவையின் அதிகாரமும், பிரதம நீதியரசரின் அதிகாரங்களும் சவாலுக்குட்படுத்தப்பட்டுள்ளன. ஆகவே விதிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவு தொடர்பில் ஆராய பாராளுமன்ற விசேட தெரிவுக்குழு ஒன்று அமைக்கப்பட வேண்டும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் உறுப்பினர் தயாசிறி ஜயசேகர சபாநாயகரிடம் வலியுறுத்தினார்.
+In Muttur, a crisis arises as the Constitutional Council and Chief Justice's powers face challenges due to a Supreme Court interim injunction. Opposition MP Dayasiri Jayasekera calls for a Parliamentary Special Select Committee to probe this, highlighting violations of parliamentary privileges and delays affecting fundamental rights. Political party contradictions also impact judges in the Colombo district.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) இடம்பெற்ற அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டின் முத்துறைகளையும் நெருக்கடிக்குள்ளாக்கும் வகையில் உயர் நீதிமன்றம் வழங்கியுள்ள கட்டளையினால் பாராளுமன்ற உறுப்பினர்களின் சிறப்புரிமை மீறப்பட்டுள்ளது.
+The power of the Constitutional Council and the powers of the Chief Justice have been challenged by the interim injunction of the Supreme Court. Therefore, Dayasiri Jayasekera, a member of the independent opposition in Parliament, urged the Speaker of Parliament to set up a Parliamentary Special Select Committee to investigate the interim injunction.
 
-மேல் நீதிமன்றத்தின் தலைவர் பந்துல கருணாரத்னவை உயர் நீதிமன்ற நீதியரசராக நியமிக்கும் பரிந்துரையை ஜனாதிபதி அரசியலமைப்பு பேரவைக்கு முன்வைத்திருந்தார்.இந்த பரிந்துரையை  அரசியலமைப்பு பேரவை நிராகரித்தது.இதனால் தனது அடிப்படை மீறப்பட்டுள்ளதாக நீதியரசர்  பந்துல கருணாரத்ன உயர்நீதிமன்றத்தில் அடிப்படை உரிமை மீறல் வழக்கு ஒன்றை தாக்கல் செய்திருந்தார்.
+He said this while addressing the issue of privilege violation during a session held in Parliament on Wednesday (19).
+
+The privilege of parliamentarians has been violated by the Supreme Court's order to cover the country's mulch.
+
+The President had made the recommendation of the Supreme Court's appointment to the High Court Judge of the Supreme Court.
+
+The High Court has confirmed the case and issued an interim injunction to make new appointments from the Supreme Court, except the Chief Justice of the High Court.
 
 ...
 
 [Data](articles/901f1699.json)
+
+[Extended Data](ext_articles/901f1699.ext.json)
 
 ---
 

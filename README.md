@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 09:05:01**
+As of **2024-06-19 09:19:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,056 (100.0%) of 31,057 articles have been extended.
+31,057 (100.0%) of 31,057 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1336,19 +1336,25 @@ However, when inquired by Ada Derana, Minister Rajapakshe said that the statemen
 
 ---
 
-### විදුලි ගාස්තු ගැන උපයෝගිතා කොමිෂමේ තීරණය ජුලි 15දා
+### Total Commission on electricity tariffs on July 15
 
 *2024-06-18 19:03:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-ගැන-උපයෝගිතා-කොමිෂමේ-තීරණය-ජුලි-15දා/11-410301) · `si`
 
-ලංකා විදුලි බල මන්ඩලය මගින් 2024 වසරේ සිදු කිරීමට යෝජිත දෙවන විදුලි ගාස්තු සංශෝධනයට අදාල අවසන් තීරණය  ඒ  පිළිබඳව මහජන අදහස් විමසීමෙන් පසුව ජූලි 15 දා ලබාදෙන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+The Public Utilities Commission of Sri Lanka announced on July 15 that it had received public feedback on the proposed second electrification tariff revision by the Ceylon Electricity Board. The commission invites further comments on this matter until July, providing an opportunity for interested parties to voice their opinions.
 
-මේ වන විට විදුලි බල මන්ඩලය මගින් ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව සමාලෝචනයට ලක්කරම්න් සිටින බව මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
+🟩
 
-මෙම විදුලි ගාස්තු සංශෝධනය  පිළිබඳව උනන්දුවක් දක්වන්නන්ට අද සිට  ජුලි 08 දක්වා ලිඛිතව අදහස් දැක්විය හැකි බවත් වාචිකව දක්වන්නන්ට ජුලි 09 දා කොළඹ දී අදහස් දැක්වීමට අවස්ථාව සලසන බවත් මහජන උපයෝගීතා කොමිෂන් සභාව දැනුම් දෙයි .
+The final decision on the proposed second electrification tariff revision of the Ceylon Electricity Board has been given public views on July 15, "says the Public Utilities Commission of Sri Lanka.
+
+The Public Utilities Commission states that the amendment of electricity tariff has been reviewed by the electricity tariff.
+
+The Public Utilities Commission also provides an opportunity to comment on those interested in the telecommunication revision from today to July.
 
 ◼️
 
 [Data](articles/947c47ea.json)
+
+[Extended Data](ext_articles/947c47ea.ext.json)
 
 ---
 

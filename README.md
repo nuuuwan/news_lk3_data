@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 03:34:55**
+As of **2024-06-20 03:53:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,194 (100.0%) of 31,195 articles have been extended.
+31,195 (100.0%) of 31,195 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,27 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 
 ---
 
-### தீர்ப்பை ஏற்றுக்கொள்ளாமை ’ஆபத்தாக மாறலாம்’
+### Acceptance of judgment can become a danger
 
 *2024-06-20 01:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஏற்றுக்கொள்ளாமை-ஆபத்தாக-மாறலாம்/175-339157) · `ta`
 
-தேர்தலை ஒத்தி வைத்து பதவிக்காலத்தை நீடிப்பதற்கு ஜனாதிபதி முயற்சிப்பதாக கூறப்படும் நிலையில், பாலியல் சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை ஜனாதிபதி ஏற்றுக்கொள்ளாமை எதிர்காலத்தில் ஆபத்தானதாக மாறலாம் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+MA Sumanthiran warns that ignoring the Supreme Court's decision on the Sexual Equality Bill sets a dangerous precedent, especially when the government aims to extend the presidential term. He highlights the potential misuse of power and the erosion of judicial independence, urging caution and adherence to constitutional principles.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே சுமந்திரன் இவ்வாறு கூறினார்.
+🟩
 
-நிகழ்நிலைக் காப்புச் சட்டம் நிறைவேற்றப்படும் போது நீதிமன்ற அறிவிப்புகளையும் தாண்டி எதிர்ப்புகளுக்கு மத்தியில் சாதாரண பெரும்பான்மையில் நிறைவேற்றப்பட்டது. அதனை தொடர்ந்து இரண்டாவது முறையாக பால்நிலை சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை பின்பற்றத் தேவையில்லை என்று கூறியுள்ளார். இதற்கு காரணம் என்ன? அதாவது கூடியவிரைவில் ஜனாதிபதியின் பதவிக்காலத்தை 6 வருடங்களாக அதிகரிக்க முயற்சிக்கின்றனர் என்றார்.
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the president's failure to accept the Supreme Court's decision on the Sexual Equality Bill could be dangerous in the future, as the president is trying to extend the term of the election.
+
+Sumanthiran said this while addressing a special statement in Parliament on Wednesday (19).
+
+When the Ceremony Act was passed. He has said that the second time does not require the Supreme Court's decision on the Bill of Equality Equality.. What is the reason for this?That is, they are trying to increase the president's term in 6 years.
+
+If the High Court runs to go to the referendum in addition to the two -thirds majority, it will not do it with only a two -thirds majority.. MPs plan to bribe. This is due to the lack of value to the High Court's decision on the Bill on Sexual Equality. This is a dangerous precedent. We should be very carefully, including the Speaker.
 
 ...
 
 [Data](articles/9696812e.json)
+
+[Extended Data](ext_articles/9696812e.ext.json)
 
 ---
 

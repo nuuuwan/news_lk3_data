@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 22:19:12**
+As of **2024-06-19 22:34:37**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,169 (100.0%) of 31,170 articles have been extended.
+31,170 (100.0%) of 31,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### රට සංවර්ධනය කිරීමේ සැලැස්ම පිළිබඳ අවබෝධතා ගිවිසුමට අත්සන් තබයි
+### MoU signs the MoU of the Plan to develop
 
 *2024-06-19 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197934) · `si`
 
-වසර 15කින් රට සංවර්ධනය කිරීම වෙනුවෙන් පිරිපුන් දේශයක් සංවිධානය සකස් කළ උපාය මාර්ගික සංවර්ධන සැලැස්ම පිළිබඳ අවබෝධතා ගිවිසුමට අද (19) දේශපාලන පක්ෂ නියෝජිතයන් ඇතුළු පිරිසක් අත්සන් තැබීය.
+Representatives from various sectors signed a strategic development plan for Sri Lanka's growth over 15 years, titled "Sri Lanka: The Solely Turned Developed 2025". The event included discussions on changing Sri Lanka's narrative and adopting advanced concepts from developing nations.
 
-එය නම් කර තිබුණේ "ශ්‍රී ලංකාව සංවර්ධනයේ සුසමාදර්ශී හැරවුම 2025" නමිනි.
+🟩
 
-මෙම අවස්ථාවට මහජන නියෝජිතයින්, සිවිල් සහ බහුජන සංවිධාන නියෝජිතයින්, සමාජ ක්‍රියාකාරීන් සහ වෘත්තිකයින් ඇතුළු පිරිසක් එක්විය.
+Understanding agreements on Strategic Development Plan for the development of the country in 15 years have been signed today (19).
 
-මෙහිදී අදහස් දැක්වූ මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා සඳහන් කළේ,
+It was named "Sri Lanka is the Singly Turn Developed 2025".
 
-"රටේ ඇති විය හැකි අනාගතය පිළිබඳව මව්බිම ජනතා පක්ෂයට මනා දැනුමක් තිබෙනවා. ඒ නිසා තමයි අපි ඇවිත් කිව්වේ ලංකාවේ දේශපාලනයේ ආඛ්‍යානය වෙනස්විය යුතු බව. අනෙක් කරුණ තමයි... දියුණු වෙන රාජ්‍යයන් දියුණු වෙන්නේ සංකල්ප මත."
+The event was attended by representatives, civil and mass organizations, social activists and professionals.
+
+Speaking at the meeting, the motherland People's Party Leader Dilith Jayaweera stated
+
+"The Motherland People's Party's knowledge of the future of the country. That's why we came and told that the narrative of Sri Lanka should change. The other thing is,. Developing states are improving on the concepts. "
 
 ◼️
 
 [Data](articles/8c79d134.json)
+
+[Extended Data](ext_articles/8c79d134.ext.json)
 
 ---
 

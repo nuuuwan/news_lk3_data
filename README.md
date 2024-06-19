@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 00:07:11**
+As of **2024-06-20 00:19:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,182 (100.0%) of 31,188 articles have been extended.
+31,188 (100.0%) of 31,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1016,6 +1016,8 @@ A bond maturing on 15.09.2029 closed at 11.95/12.35 percent, up from 11.80/90 pe
 
 [Data](articles/bb4c07ce.json)
 
+[Extended Data](ext_articles/bb4c07ce.ext.json)
+
 ---
 
 ### Karuna Amman says to support the President
@@ -1090,23 +1092,31 @@ Sri Lankan authorities must ensure that all the policies and procedures develope
 
 ---
 
-### 11. 3 பில்லியன் டொலர் வெளிநாட்டு வேலை வாய்ப்பில் ஈடுபட்டுள்ளோரிடமிருந்து அந்நிய செலாவணியாக கிடைத்துள்ளது - மனுஷ
+### ௧௧. $ 3 billion is foreign exchange from those who are engaged in foreign employment - man
 
 *2024-06-19 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186471) · `ta`
 
-2023 ஆம் ஆண்டில்  வெளிநாடுகளுக்கு வேலை வாய்ப்புக்காக 2 இலட்சத்து 89 ஆயிரத்து 287 பேர்  சென்றுள்ளனர். அவர்கள்  5970 மில்லியன் அமெரிக்க டொலர்களை நாட்டுக்கு அனுப்பியுள்ளனர் என தொழில், வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார  தெரிவித்தார்.
+In 2023, 289,287 Sri Lankans sought overseas employment, sending $5.97 billion back home. This figure includes government-assisted placements in countries like South Korea, Japan, and Israel, as well as private agency arrangements in Saudi Arabia, Kuwait, and others. Despite political challenges, remittances from foreign employment reached $11.3 billion since the current administration began, highlighting the significant economic contribution of migrant workers.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) வாய்மூல விடைக்கான வினாக்கள் நேரத்தில் ரத்னசேகர எம்.பி எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-வெளிநாட்டு வேலை வாய்ப்பு பணியகத்தின் ஊடாக தென்கொரியா, ஜப்பான், இஸ்ரேல் ஆகிய நாடுகளுக்கு  அரசாங்கத்தின் ஊடாக தொழிலுக்கு இலங்கையர்கள் அனுப்பப்பட்டுள்ளனர்.
+In 2023, 2 lakhs 89 thousand 287 people went for employment overseas. They have sent US $ 5970 million to the country, said the Minister of Industry and Foreign Placement, Manusha Nanayakkara.
 
-அத்துடன் வெளிநாட்டு வேலை வாய்ப்பு தனியார் முகவர் நிறுவனத்தின் மூலம் சவூதி அரேபியா, குவைத், ஜோர்தான்,சிங்கப்பூர், ஜப்பான், ஐக்கிய ராஜ்ஜியம், சைப்பிரஸ், மலேசியா, மாலை தீவு, தென்கொரியா, ருமேனியா சேர்பியா உள்ளிட்ட நாடுகளுக்கும் இலங்கையர்கள் அனுப்பப்பட்டுள்ளனர்.
+The Minister said this while responding to a question raised by Ratnasekara MP at the time of the oral response in Parliament on Wednesday (19).
 
-அந்த வகையில் 2023 ஆம் ஆண்டில் தென்கொரியாவுக்கு 6377 பேரும் ஜப்பானுக்கு 601பேரும் இஸ்ரேலுக்கு 828 என  7806 பேர் அரசாங்கத்தின் மூலம் அனுப்பப்பட்டுள்ளனர்.
+Sri Lankans have been sent to South Korea, Japan and Israel through the Foreign Employment Bureau.
+
+Sri Lankans have been sent to Saudi Arabia, Kuwait, Jordan, Singapore, Japan, United Kingdom, Cyprus, Malaysia, Evening Island, South Korea and Romania Serbia through foreign employment private agency.
+
+In 2023, 6377 to South Korea, 601 to Japan, 828 to Israel, 7806 were sent by the government.
+
+Saudi Arabia has been informed by 663 people by foreign employment private agency in 2023. The number of people who went to foreign employment without the intervention of the government that year was 2 lakhs 89 thousand 287.
 
 ...
 
 [Data](articles/4550de31.json)
+
+[Extended Data](ext_articles/4550de31.ext.json)
 
 ---
 
@@ -1159,6 +1169,8 @@ Top contributors to the index included Bukit Darah Plc (up at 399.75), hSenid Bu
 ...
 
 [Data](articles/b5d6bb5b.json)
+
+[Extended Data](ext_articles/b5d6bb5b.ext.json)
 
 ---
 
@@ -1316,6 +1328,8 @@ Members of Parliament, Provincial Councils or any local authority are not eligib
 
 [Data](articles/a7330cce.json)
 
+[Extended Data](ext_articles/a7330cce.ext.json)
+
 ---
 
 ### Indian External Affairs Minister S. Jaishankar is coming to Sri Lanka tomorrow
@@ -1384,21 +1398,33 @@ The full announcement issued by the Commission of Bribery or Corruption Commissi
 
 ---
 
-### பாலின சமத்துவ சட்டமூலத்திற்கு ஆதரவளிக்கும் ஆண் பாராளுமன்ற உறுப்பினர்கள்  பெண்களாகவும் பெண் உறுப்பினர்கள் ஆண்களாகவும் மாறத் தயார் -விமல்
+### Male MPs who support the Gender Equality Bill are ready to become women and female members
 
 *2024-06-19 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186461) · `ta`
 
-பாலின சமத்துவ சட்டமூலம் பாலின சிகிச்சை மாற்று வியாபாரத்தை  ஊக்குவிப்பதை நோக்கமாக கொண்டுள்ளது. இந்த சட்டமூலத்துக்கு ஆதரவாக வாக்களிக்கும் ஆண் பாராளுமன்ற உறுப்பினர்கள் பெண்களாகவும், பெண் உறுப்பினர்கள் ஆண்களாகவும் மாற்றமடைவதற்கு தயார் என்றே கருத முடியும். பாலின சமத்துவம் தொடர்பில் மேற்குலம் எமக்கு பாடம் கற்பிக்க வேண்டிய தேவை கிடையாது என பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்.
+Male MPs backing the Gender Equality Bill could face gender conversion, as the bill promotes alternative business practices. MP Wimal Weerawansa criticized Western teachings on gender equality, stating opposition isn't against women's equality but against including alternative genders in legal provisions aimed at female equality. He highlighted the cultural differences between East and West regarding gender issues, mentioning transgender references in Buddhist texts. The Supreme Court advised against equating women's equality with alternative genders, suggesting the bill might cause unnecessary problems by forcing male and female MPs to switch roles.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19) இடம்பெற்ற  அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பாலின சமத்துவம் தொடர்பில் உயர்நீதிமன்றம் வழங்கிய வியாக்கியானத்தை எதிர்க்க வேண்டிய அவசியம் கிடையாது.அரசியலமைப்புக்கு அமையவே நீதிமன்றம் தொழில்நுட்ப ரீதியில் ஆராய்ந்து தீர்ப்பளித்துள்ளது.
+Gender Equality Bill aims to promote the alternative business. The male MPs who vote in favor of the Bill can be considered to be women and female members are ready to be converted into men. Parliamentarian Wimal Weerawansa said that the West does not need to teach a lesson on gender equality.
 
-பெண் சமத்துவத்துக்கும்,   மாற்று பாலினத்தவர்களுக்கும் நாங்கள் எதிர்ப்பு தெரிவிக்கவில்லை.பெண் சமத்துவம் என்று குறிப்பிட்டுக் கொண்டு  தயாரிக்கப்பட்டுள்ள சட்ட ஏற்பாடுகளுக்குள் மாற்று பாலினத்தவர்களை உள்ளடக்குவதையே நாங்கள் எதிர்க்கிறோம்.
+He was speaking at a special statement during a session held in Parliament on Wednesday (19).
+
+There is no need to oppose the Supreme Court on gender equality.
+
+We do not oppose women's equality and alternative gender. We oppose the inclusion of alternative gender within the legal provisions prepared as female equality.
+
+Gender change is seen as modern culture in the West. Children are asked for admission to gender in primary schools in the West.
+
+If you want the male child to be a female and the female child.. Let the West keep their culture there.
+
+Transgender people are mentioned in Buddhist doctrines.
 
 ...
 
 [Data](articles/5d19a08d.json)
+
+[Extended Data](ext_articles/5d19a08d.ext.json)
 
 ---
 
@@ -1643,6 +1669,8 @@ Sri Lanka's cricket icon Muttiah Muralitharan, now an entrepreneur post-retireme
 ...
 
 [Data](articles/f7eac85c.json)
+
+[Extended Data](ext_articles/f7eac85c.ext.json)
 
 ---
 

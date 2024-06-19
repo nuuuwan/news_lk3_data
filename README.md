@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 05:19:30**
+As of **2024-06-19 05:37:04**
 
 ## Newspaper Stats
 
-*Scraped **31,025** Articles*
+*Scraped **31,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,693
 economynextcom | 1,792
-dailyftlk | 1,895
+dailyftlk | 1,898
 adalk | 2,703
 adaderanalk | 3,515
 tamilmirrorlk | 3,645
@@ -26,11 +26,57 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,019 (100.0%) of 31,025 articles have been extended.
+31,025 (100.0%) of 31,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### The West and the rest: Is there another way of mapping the global divide?
+
+*2024-06-19 05:12:55* · [`dailyftlk`](https://www.ft.lk/columns/The-West-and-the-rest-Is-there-another-way-of-mapping-the-global-divide/4-763234) · `en`
+
+With Israel’s ongoing genocidal assault on Gaza, there is indeed an even more pervasive sense that foreign policy can no longer be separated from domestic politics, as Western protestors have made clear
+
+Recently, the Financial Times columnist Gideon Rachman wrote a piece titled “America Breaks Global Rules as It Defends the Free World.” He argued that the collective West must revamp the way it understands its project, not as an attempt to defend a ‘rules-based’ international order but rather the ‘free world’. The distinction is telling.
+
+...
+
+[Data](articles/acdc2914.json)
+
+---
+
+### Are we ready for the parate party to come to an end?
+
+*2024-06-19 05:09:16* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-ready-for-the-parate-party-to-come-to-an-end/4-763233) · `en`
+
+This is a kind reminder for us in the industry to start getting ready now itself, and start negotiating with banks
+
+We know very well that for the last four years the construction industry has been suffering due to delayed/non-payments, stoppage of projects, high interest rates, etc. So, many of us perished. Banks and contractors became enemies, with banks making extreme decisions such as seizing assets, with no relief. Parate became a very attractive idea for us.
+
+However, the GoSL and Central Bank directed banks to provide relief to industries like construction, leisure and agriculture and become flexible. So banks established separate units specifically for restructuring non-performing loans (NPL) because banks were also suffering from abnormal NPLs, which threatened their stability. Thus under the Central Bank guidance, many banks made case-by-case analyses and restructured NPLs.
+
+...
+
+[Data](articles/43e55524.json)
+
+---
+
+### Adani Wind Power Project: Making a curvy record straight needs more effort than quoting tweets
+
+*2024-06-19 05:05:23* · [`dailyftlk`](https://www.ft.lk/columns/Adani-Wind-Power-Project-Making-a-curvy-record-straight-needs-more-effort-than-quoting-tweets/4-763232) · `en`
+
+Sri Lanka being called upon by Adani to pay about $ 1,200 million extra over the next 20 years, requires more explanation than quoting tweets
+
+I write with reference to the article in Daily FT of 7 June 2024, titled “Adani sets the record straight” (https://www.ft.lk/front-page/Adani-sets-record-straight-on-wind-power-project-in-Sri-Lanka/44-762766).
+
+Adani would have thought Sri Lanka has no energy economists or power system engineers, or would have wrongly assumed that all Sri Lankan professionals were as mediocre as the politicians or the handful of administrators and engineers in the power sector and its two regulatory institutions they directly deal with.
+
+...
+
+[Data](articles/3763ee21.json)
+
+---
 
 ### SriLankan Airlines: Navigating a new era through privatisation
 
@@ -43,6 +89,8 @@ The Sri Lankan Government is considering a transformative move by privatising Sr
 ...
 
 [Data](articles/f93f3ac9.json)
+
+[Extended Data](ext_articles/f93f3ac9.ext.json)
 
 ---
 
@@ -61,6 +109,8 @@ MendisOne comprises of three versatile brands – Prudential Shipping, Premium T
 ...
 
 [Data](articles/fc725120.json)
+
+[Extended Data](ext_articles/fc725120.ext.json)
 
 ---
 
@@ -82,6 +132,8 @@ The announcement follows public outcry and claims from various consumer and indu
 
 [Data](articles/aad1f3d8.json)
 
+[Extended Data](ext_articles/aad1f3d8.ext.json)
+
 ---
 
 ### Economist Talal Rafi appointed Policy Advisor to Opposition leader Sajith Premadasa
@@ -95,6 +147,8 @@ Rafi is an Economist and is an economic policy consultant to a multilateral deve
 ◼️
 
 [Data](articles/956c1f52.json)
+
+[Extended Data](ext_articles/956c1f52.ext.json)
 
 ---
 
@@ -111,6 +165,8 @@ While welcoming the guests, Sri Lanka Australia Chamber of Commerce President Ka
 ...
 
 [Data](articles/7678c8b6.json)
+
+[Extended Data](ext_articles/7678c8b6.ext.json)
 
 ---
 
@@ -238,23 +294,31 @@ Wijewardane appreciated China’s assistance to Sri Lanka during challenging tim
 
 ---
 
-### ’உயர்நீதிமன்றை மூடிவிடலாம்’
+### The telephone can close the High Court
 
 *2024-06-19 02:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்நீதிமன்றை-மூடிவிடலாம்/175-339105) · `ta`
 
-ஜனாதிபதி தந்திரமான முறையில் நீதிமன்றத்திற்கே சவால் விடும் செயற்பாடுகளில் ஈடுபடுகின்றார் என்ற குற்றஞ்சாட்டிய விமல் வீரவன்ச உயர் நீதிமன்றத் தீர்ப்புக்கே சவால் விட முடியுமென்றால் அவ்வாறான உயர்நீதிமன்றம் இருப்பதில் பலனில்லை என்றும், அவற்றை மூடிவிடலாம் என்றார்.
+Wimal Weerawansa criticized the High Court's decision on strengthening women's rights, calling it a "trick" due to its complexity. He also questioned the court's effectiveness, suggesting it might be closed if it continues to make such decisions.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) ஜனாதிபதியின் உரை தொடர்பில் தனது கருத்தை வெளியிட்டு உரையாற்றும் போதே வீரவன்ச இவ்வாறு கூறியுள்ளார்.
+🟩
 
-ஜனாதிபதி மிகவும் சூட்சுமமான முறையில் பந்து வீசுகின்றார். இதில் முதலாவது பந்து வீச்சாக பெண்களை வலுப்படுத்தும் சட்டமூலம் தொடர்பில் உயர்நீதிமன்றத்தினால் வழங்கப்பட்டுள்ள தீர்மானத்தை சவாலுக்கு உட்படுத்தும் வகையில் ஜனாதிபதியின் கருத்து உள்ளது. சூட்சும ஞானம் இருப்பதால் இதற்கு தந்திரம் என்று கூறலாம்.
+Wimal Weerawansa, who accused the president of being a tricky challenge to court, said that if the High Court could challenge the High Court, it was not worth it.
 
-அடுத்ததாக கொவிட் காலத்தில் முஸ்லிம்களின் இறந்த உடலை புதைப்பது தொடர்பான சர்ச்சை விடயத்தை இரண்டாவது பந்தாக வீசினார்.
+Weerawansa said this while addressing the president's speech on Tuesday (18) in Parliament.
 
-அத்துடன் வாடகை வீடுகள் வரி தொடர்பான விடயத்தை மூன்றாவது பந்தாக வீசினார். இதில் முதலாவது பந்தான நீதிமன்றத்திற்கு சவால் விடுவது உள்ளது. தந்திரமாகவே மற்றைய பந்துகளை வீசியுள்ளார்.
+The president is bowling in a very sophisticated manner. The President's opinion is challenging the resolution issued by the High Court regarding the Bill to strengthen women as the first bowling.. It can be said to be a trick because of sophistication.
+
+Next, he threw the controversy over the burial of the dead body of the Muslims during the Kovit period.
+
+As well as threw a third bet on tax related to rental houses. The first of these is to challenge the court. He tricks the other balls.
+
+Meanwhile. It is correct to strengthen biological women. But in that blanket it cannot allow the gender change business to accommodate. It is wrong to challenge the High Court resolution.
 
 ...
 
 [Data](articles/e1669e07.json)
+
+[Extended Data](ext_articles/e1669e07.ext.json)
 
 ---
 
@@ -2323,55 +2387,5 @@ The suspect was produced before the Gampola Magistrate's Court yesterday (17) an
 [Data](articles/4f832bc1.json)
 
 [Extended Data](ext_articles/4f832bc1.ext.json)
-
----
-
-### Police fire water cannons at protesting unemployed grads
-
-*2024-06-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99946/police-fire-water-cannons-at-protesting-unemployed-grads) · `en`
-
-Police used water cannons to disperse a group of unemployed graduates protesting near the Diyatha Uyana at the Parliament Road Junction.
-
-◼️
-
-[Data](articles/7ab6a424.json)
-
-[Extended Data](ext_articles/7ab6a424.ext.json)
-
----
-
-### Tear gas and water cannons fired at protesting unemployed grads
-
-*2024-06-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99946/tear-gas-and-water-cannons-fired-at-protesting-unemployed-grads) · `en`
-
-UPDATE (01.35 p.m.) : Police have once again fired tear gas and water cannons to disperse a group of unemployed graduates protesting near Diyatha Uyana at the Parliament Road Junction.
-
-Police used water cannons to disperse a group of unemployed graduates protesting near the Diyatha Uyana at the Parliament Road Junction.
-
-◼️
-
-[Data](articles/a7468786.json)
-
-[Extended Data](ext_articles/a7468786.ext.json)
-
----
-
-### President explanations about proposed Treasury Income Tax
-
-*2024-06-18 12:18:08* · [`adalk`](https://www.ada.lk/breaking_news/යෝජිත-කුලි-ආදායම්-බද්ද-ගැන-ජනපතිගෙන්-පැහැදිලි-කිරිමක්/11-410284) · `si`
-
-In a parliamentary address, President Ranil Wickremesinghe announced plans for a revenue tax, emphasizing its release tax aspect. He also mentioned his intention to form a Select Committee to examine the Supreme Court's ruling on the gender-equality bill.
-
-🟩
-
-President Ranil Wickremesinghe said in parliament that the first property of the proposed revenue tax will be released tax on the proposed revenue tax.
-
-He said that this was a special statement in Parliament, the President wanted to appoint a Select Committee to study the Supreme Court decision on gender -s equality bill.
-
-◼️
-
-[Data](articles/3e979100.json)
-
-[Extended Data](ext_articles/3e979100.ext.json)
 
 ---

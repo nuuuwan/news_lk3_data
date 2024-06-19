@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 05:37:04**
+As of **2024-06-19 06:21:26**
 
 ## Newspaper Stats
 
-*Scraped **31,028** Articles*
+*Scraped **31,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 283
 dbsjeyarajcom | 285
 bbccomsinhala | 303
 newsfirstlk | 363
-islandlk | 1,693
+islandlk | 1,694
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,703
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,025 (100.0%) of 31,028 articles have been extended.
+31,028 (100.0%) of 31,029 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Recently, the Financial Times columnist Gideon Rachman wrote a piece titled “A
 
 [Data](articles/acdc2914.json)
 
+[Extended Data](ext_articles/acdc2914.ext.json)
+
 ---
 
 ### Are we ready for the parate party to come to an end?
@@ -60,6 +62,8 @@ However, the GoSL and Central Bank directed banks to provide relief to industrie
 
 [Data](articles/43e55524.json)
 
+[Extended Data](ext_articles/43e55524.ext.json)
+
 ---
 
 ### Adani Wind Power Project: Making a curvy record straight needs more effort than quoting tweets
@@ -75,6 +79,8 @@ Adani would have thought Sri Lanka has no energy economists or power system engi
 ...
 
 [Data](articles/3763ee21.json)
+
+[Extended Data](ext_articles/3763ee21.ext.json)
 
 ---
 

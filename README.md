@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 16:19:32**
+As of **2024-06-19 16:34:47**
 
 ## Newspaper Stats
 
-*Scraped **31,128** Articles*
+*Scraped **31,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,53 @@ adaderanalk | 3,525
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,058
+adaderanasinhalalk | 5,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,126 (100.0%) of 31,128 articles have been extended.
+31,128 (100.0%) of 31,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### முஸ்லிம் மாணவிகளின் பெறுபேறுகள் வரும்
+### ජපානයේ පැතිර යන මාරාන්තික බැක්ටීරියාව ගැන මෙරට සෞඛ්‍ය අංශවලින් දැනුම්දීමක්
+
+*2024-06-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197923) · `si`
+
+ජපානයේ ව්‍යාප්ත වෙමින් පවතින දුර්ලභ බැක්ටීරියා ආසාදනය සම්බන්ධව මෙරට ජනතාව අනියත බියක් ඇති කරගැනීමට අවශ්‍ය නොවන බව සෞඛ්‍ය අමාත්‍යාංශයේ වසංගත රෝග විද්‍යා අංශයේ ප්‍රධානී විශේෂඥ වෛද්‍ය සමිත ගිනිගේ මහතා පවසයි.
+
+"ඒක සාමන්‍ය ජනතාව අතර තියෙන බැක්ටීරියා තත්ත්වයක්. කලාතුරකින් එකේ ප්‍රතිඵලයක් සහ සංකූලතාවයක් විදිහට මාරාන්තික තත්ත්වයකට යන්න පුළුවන්. ජපානය වාර්තා කරලා තියෙන්නේ බැක්ටීරියා තත්ත්වයෙන් ඇතිවෙන සංකූලතා තත්ත්වයේ යම් වැඩිවීමක් මෑත කාලයේ නිරීක්ෂණය කළා කියලා. ඒ වගේම තමයි ප්‍රතිජීවක ඖෂධවලින් මේක වෙනස් කරන්නත් පුළුවන්. හැබැයි කලාතුරකින් ප්‍රතිජීවක ඖෂධවලට ප්‍රතිරෝධයක් දක්වන බැක්ටීරියා තියෙන්න පුළුවන්. එකේ මහා පැතිරීමක් සිද්ධවෙයි කියලවත්, අපේ රටට බලපෑමක් ඇතිවෙයි කියලවත් අනියත බියක් ඇති කර ගන්න අවශ්‍යතාවයක් නැහැ."
+
+◼️
+
+[Data](articles/c234ab94.json)
+
+---
+
+### The results of Muslim students will come
 
 *2024-06-19 15:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவிகளின்-பெறுபேறுகள்-வரும்/175-339132) · `ta`
 
-திருகோணமலை சாஹிரா கல்லூரியின்  மாணவிகள் உயர்தரப் பரீட்சைக்கு தோற்றிய மண்டபத்தில் பரீட்சை மேற்பார்வையாளர் அதி கவனத்துடன் செயற்பட்டுள்ளதாக தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, இடைநிறுத்தப்பட்டுள்ள அந்த மாணவிகளின் பெறுபேறுகள் ஒரு சில தினங்களில் வெளியிடப்படும் என்றும் தெரிவித்துள்ளார்.
+Education Minister Susil Premajayantha announced that the results for suspended students and the remaining 70 students from the Trincomalee GCE Advanced Level Examination would be released soon. He responded to a parliamentary inquiry, noting that decisions were made swiftly to address any issues affecting the results.
 
-பாராளுமன்றத்தில்   புதன்கிழமை (19)  எதிர்க்கட்சித் தலைவர் முன்வைத்த கோரிக்கைக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-திருகோணமாலை சாஹிரா கல்லூரியின் உயர்தர பரீட்சை பெறுபேறு இன்னும் வெளியாகவில்லை. 70 மாணவிகளின் பெறுபேறுகள் இவ்வாறு வெளியிடப்படாது இருக்கின்றன. அவற்றை கூடிய விரைவில் வெளியிட நடவடிக்கை எடுக்க வேண்டும். கடந்த வாரத்தில் இதனை செய்வதாக கல்வி அமைச்சர் கூறினார். இது குறித்து விரைவான தீர்மானத்தை எடுக்க வேண்டும் என்றார்.
+Education Minister Susil Premajayantha said the results of the students who had been suspended would be released in a few days.
 
-...
+In response to a request made by the Opposition Leader in Parliament on Wednesday (19), the Minister of Education said this.
+
+The GCE Advanced Level Examination of Trincomalee has not yet been released. The results of 70 students are not released. Should take steps to publish them as soon as possible. The Minister of Education said that this was done last week. He said he should make a quick decision.
+
+If the exam is wearing when the exam comes into the hall, the ear must be worn. There are reasons for that. Are not going to be exposed to them. There are places that do so. But that did not happen at the time. Someone is a supervisor acted carefully. However, no problem has been for those students' results. Steps will now be taken to publish those results.  பரீட்சைகள் ஆணையாளர் அவற்றை எதிர்வரும் நாட்களில் வெளியிட நடவடிக்கை எடுப்பார் என்றார்.
+
+◼️
 
 [Data](articles/141bc7f8.json)
+
+[Extended Data](ext_articles/141bc7f8.ext.json)
 
 ---
 
@@ -1073,6 +1095,8 @@ Abraham Lincoln’s definition of Democracy as the “Rule of the people, by the
 ...
 
 [Data](articles/0c2aea29.json)
+
+[Extended Data](ext_articles/0c2aea29.ext.json)
 
 ---
 
@@ -2299,27 +2323,5 @@ The Male and Female Equality Bill discussed a long time in Parliament today. But
 [Data](articles/36b4398b.json)
 
 [Extended Data](ext_articles/36b4398b.ext.json)
-
----
-
-### There is no agreement in setting up the Select Committee;Opposition Leader Sajith
-
-*2024-06-19 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186412) · `ta`
-
-Disagreement over forming a Select Committee to probe High Court rulings was expressed by Opposition Leader Sajith Premadasa. He suggested addressing issues through alternative legal means rather than appointing such committees. This comes after Speaker Mahinda Yapa Abeywardena commented on the Gender Equality Bill in the Supreme Court, highlighting concerns about the balance of power among the executive, legislative, and judicial branches.
-
-🟩
-
-We do not agree with the appointment of the Select Committee to investigate the decisions given by the High Court. Opposition Leader Sajith Premadasa said that if there are disadvantages, other acceptable legal arrangements should be addressed by these shortcomings.
-
-Speaker Mahinda Yapa Abeywardena on Tuesday (18) of the Supreme Court on the Gender Equality Bill made this comment on the statement made by the President on Tuesday (18).
-
-In the tripartite democratic structure of our country, all three institutions, the Executive Officer, the Law and the Justice Department, have been restricted and the sharing of power among them.. If there are defects in the Supreme Court's ruling, this should be amended in a manner that does not affect obstacles and equations
-
-...
-
-[Data](articles/db67f33e.json)
-
-[Extended Data](ext_articles/db67f33e.ext.json)
 
 ---

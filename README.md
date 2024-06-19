@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 20:04:45**
+As of **2024-06-19 20:19:35**
 
 ## Newspaper Stats
 
-*Scraped **31,158** Articles*
+*Scraped **31,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,798
-dailyftlk | 1,898
+dailyftlk | 1,899
 adalk | 2,719
 adaderanalk | 3,530
 tamilmirrorlk | 3,663
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,157 (100.0%) of 31,158 articles have been extended.
+31,158 (100.0%) of 31,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### மைத்திரிக்கு எதிரான தடை நீடிப்பு
+### Erection
 
 *2024-06-19 19:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீடிப்பு/175-339138) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவை எதிர்வரும் ஆகஸ்ட் மாதம் முதலாம் திகதி வரை நீடித்து கொழும்பு மாவட்ட நீதிமன்றம் இன்று (19) உத்தரவிட்டுள்ளது.
+The Colombo District Court banned Maithripala Sirisena from leading SLFP after a petition by Chandrika Bandaranaike Kumaratunga.
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் மைத்திரிபால சிறிசேனவுக்கு எதிராக தாக்கல் செய்யப்பட்ட மனு இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+🟩
+
+The Colombo District Court today (19) ordered the ban issued to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party (SLFP).
+
+The order was issued when a petition filed against Maithripala Sirisena was taken up today by former President Chandrika Bandaranaike Kumaratunga.. Remble
 
 ◼️
 
 [Data](articles/599559de.json)
+
+[Extended Data](ext_articles/599559de.ext.json)
 
 ---
 

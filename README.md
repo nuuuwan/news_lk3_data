@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 11:34:45**
+As of **2024-06-19 11:54:23**
 
 ## Newspaper Stats
 
-*Scraped **31,079** Articles*
+*Scraped **31,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,102 @@ dbsjeyarajcom | 287
 bbccomsinhala | 304
 newsfirstlk | 363
 islandlk | 1,702
-economynextcom | 1,792
+economynextcom | 1,796
 dailyftlk | 1,898
 adalk | 2,708
-adaderanalk | 3,521
+adaderanalk | 3,522
 tamilmirrorlk | 3,652
 dailymirrorlk | 4,733
 virakesarilk | 4,787
-adaderanasinhalalk | 5,049
+adaderanasinhalalk | 5,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,072 (100.0%) of 31,079 articles have been extended.
+31,079 (100.0%) of 31,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### President Ranil reveals plans to boost Sri Lanka’s industrial sector
+
+*2024-06-19 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99964/president-ranil-reveals-plans-to-boost-sri-lankas-industrial-sector) · `en`
+
+President Ranil Wickremesinghe today announced forthcoming negotiations with creditor countries and also revealed plans to boost Sri Lanka’s industrial sector.
+
+He stated that these plans feature the creation of a new commercial bank, an economic commission and an institute called “Enterprise Sri Lanka” to promote a competitive and digitalized green economy, the PMD reported.
+
+He made these comments during the opening ceremony of the International Industry Exhibition, “Industry EXPO 2024,” which was inaugurated at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo today (19).
+
+He also said that the government is expected to reach an agreement with the Sri Lanka’s creditor nations within the next few weeks.
+
+◼️
+
+[Data](articles/eb9216ec.json)
+
+---
+
+### Panel allows Sri Lanka central bank staff to get high salaries
+
+*2024-06-19 11:24:00* · [`economynextcom`](https://economynext.com/panel-allows-sri-lanka-central-bank-staff-to-get-high-salaries-168665/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank staff could continue to get high salaries for up to five years, and not three years as set out in a collective agreement, a committee that went into the matter after a public outcry has recommended, a legislator said.
+
+A panel that went into the salary hike that the central bank staff had paid themselves had criticized the salary hike and a defined benefit pension plan, but said changing it would lead to legal problems, Chairman of the Committee of Public Enterprises, Harsha de Silva said.
+
+The Committee had said it was wrong to apply the same salaries to office assistants and management assistants as senior officers in ‘mission critical’ roles.
+
+The office assistants and management assistants should be given the same salaries as the rest of the government.
+
+The panel has said that individuals should be given increments on a ‘meritocracy’.
+
+There was a recommendation that a human resources manager be appointed to carry out a study in 2025 and changes made.
+
+...
+
+[Data](articles/475641b0.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායම පැමිණෙයි
+
+*2024-06-19 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197913) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (19) උදෑසන මෙරටට පැමිණියේය.
+
+එහිදී මාධ්‍ය අමතමින් ශ්‍රී ලංකා T20 ක්‍රිකට් කණ්ඩායමේ නායක වනිඳු හසරංග පැවසුවේ ක්‍රීඩකයින් හරියට ක්‍රීඩා නොකළ නිසා මෙම විස්සයි විස්ස ක්‍රිකට් තරගාවලියෙන් ඉවත් වීමට සිදු වූ බවයි.
+
+තමන් කණ්ඩායමේ නායකයා සහ ක්‍රීඩකයෙකු වශයෙන් ඒ පිළිබඳව කනගාටු වන බව හසරංග පැවසීය .
+
+"ක්‍රීඩකයින් විදියට අපි දන්නවා අපි අතින් සිදුවූ වැරදි මොනවාද කියලා. අපි ක්‍රීඩකයෝ වශයෙන් හොදින් ක්‍රීඩා නොකළ නිසා පිතිකරණය, පන්දු රැකීම සහ පන්දු යැවීම කණ්ඩායමක් වශයෙන් හොදින් කළේ නෑ.."  හෙතෙම පැවසීය.
+
+ඔවුන් වෙනදා සාමාන්‍ය මගී පර්යන්තය ඔස්සේ පිටතට පැමිණිය ද අද මුදල් ගෙවා පහසුකම් සලසා ගත යුතු "සිල්ක් රූට්" පර්යන්තය ඔස්සේ ගුවන්තොටුපොළෙන් පිටතට පැමිණීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/b4542f6e.json)
+
+---
+
+### Sri Lanka hSenid to use IPO funds for market development
+
+*2024-06-19 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-hsenid-to-use-ipo-funds-for-market-development-168654/) · `en`
+
+ECONOMYNEXT – Sri Lanka-based tech company hSenid Business Solutions will reallocate 350 million rupees raised through an initial public offering for acquisitions in APAC and East African regions, for market development instead.
+
+Subject to obtaining the approval of shareholders by special resolution, “the Board of Directors proposes to utilize such sum for suitable market development activities during the current financial year ending March 31, 2025,” hSenid said in a stock exchange filing.
+
+The money was originally allocated for ‘strategic acquisitions in APAC and East African regions’.
+
+“The Board of Directors noted that the investments made by the Company into product and market development activities since the IPO, as highlighted under Objectives 1 and 2 in Section 5.6 of the Prospectus, are beginning to yield good results for the Company.”
+
+...
+
+[Data](articles/2713ce0d.json)
+
+---
 
 ### Nathasha Edirisooriya and Bruno Divakara released from case
 
@@ -42,27 +120,41 @@ Stand-up comedian Nathasha Edirisooriya and the owner of the ‘SL VLOG’ YouTu
 
 [Data](articles/dc5c4747.json)
 
+[Extended Data](ext_articles/dc5c4747.ext.json)
+
 ---
 
-### පොලීසිය තුළ වෙන්න ගිය වෙඩි තැබීම නූලෙන් වැළකෙයි
+### The shooting in the police prevent the thread
 
 *2024-06-19 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197912) · `si`
 
-කහතුඩුව පොලීසියේ තනිකඩ භට නිවාසය තුළදී පොලිස් කොස්තාපල්වරයකුට වෙඩිතැබීමට තැත්කළ තවත් පොලිස් කොස්තාපල්වරයෙක් ව දැඩි පරිශ්‍රමයක් දරා අත්අඩංගුවට ගත් බව කහතුඩුව පොලීසිය පවසයි.
+In a police incident in Kahathuduwa, an officer tried to shoot another, leading to the seizure of a pistol and a live bullet from the suspect, an amateur constable who was asleep on duty. The shooter, a night telephone operator, had previously complained about the suspect's behavior but did not wake him up. Investigations continue.
 
-සැකකරු සන්තකයේ තිබූ පිස්තෝල ගිනි අවියක් සහ ජීව උණ්ඩයක් ද පොලිස් භාරයට ගෙන තිබුණි.
+🟩
 
-අනෙක් පොලිස් කොස්තාපල්වරයා 17 වනදා රාත්‍රී දුරකථන ක්‍රියාකරු ලෙස රාජකාරීයේ යෙදී සිට ඇති අතර පසුදින (18) අලුයම 5.40 ට පමණ පුද්ගලයන් දෙදෙනකු පැමිණිල්ලක් කිරීම සඳහා පොලිස් ස්ථානය තුළට පැමිණ තිබුණි.
+Another police constable attempting to shoot at the Kahathuduwa policeman in the Kahathuduwa Police said that another police constable attempted to shoot at a police constable.
 
-ඒ අවස්ථාවේ උප-සේවක ලෙස රාජකාරියේ යෙදී සිටි සැකකාර ආධුනික පොලිස් කොස්තාපල්වරයා උප-සේවක පුටුව මත නිදාගෙන සිට ඇතැයි පොලීසිය පවසයි.
+Police also seized a pistol firearm and a living bullet in possession of the suspect.
 
-ඔහුව අවදි කිරීම සඳහා අනෙක් නිලධාරියා අවස්ථා කීපයකදීම කතා කර ඇතත් ඔහු අවදි නොවීම හේතුවෙන් හිසට පහරක් ගසා වතුරද වක්කර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The other police constable had been working as the night telephone operator.
 
-පසුව ඒ බව දුරකථන ක්‍රියාකරු විසින් රාත්‍රී රාජකාරිය භාරව සිටි පොලිස් සැරයන්වරයෙකුටද දැනුම් දීමෙන් අනතුරුව ඔහු විසින් අදාළ පුද්ගලයන් දෙදෙනාගේ පැමිණිල්ල ලියා  අදාළ සිද්ධිය සම්බන්ධයෙන් පොලිස් පොතේ සටහනක් ද තබා ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+The suspect's amateur police constable on duty as a sub-worker has been sleeping on the sub-worker chair, police said.
+
+Police investigations have revealed that the other officer had spoken to a few occasions, but he had not woke up.
+
+The telephone operator was also informed by the telephone operator by the telephone operator, he had lodged a complaint and a note in the police book.
+
+The constable and the suspected a bus was then served in this regard.
+
+The telephone operator had left his stay, police said.
+
+The other officer has taken a pistol firearm with a pistol-fire weapon who has brought a police sergeant who has brought to the arms.
 
 ...
 
 [Data](articles/0a589fb3.json)
+
+[Extended Data](ext_articles/0a589fb3.ext.json)
 
 ---
 
@@ -84,19 +176,25 @@ According to the CEA, their electronic waste collection initiatives, conducted a
 
 ---
 
-### ராகுல் காந்தி   இராஜினாமா
+### Rahul Gandhi resigns
 
 *2024-06-19 10:32:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராகுல்-காந்தி-இராஜினாமா/175-339115) · `ta`
 
-நடந்து முடிந்த பாராளுமன்ற மக்களவைத் தேர்தலில் காங்கிரஸ் கட்சி சார்பாக அக்கட்சியின் மூத்த தலைவர் ராகுல் காந்தி கேரள மாநிலம் வயநாடு மற்றும் உத்தரப்பிரதேச மாநிலம் ரேபரேலி ஆகிய இரு மக்களவை தொகுதிகளில் போட்டியிட்டு இரண்டிலுமே வெற்றியும் பெற்றார். தொடர்ந்து வயநாடு தொகுதியின் எம்.பி. பதவியை ராகுல் காந்தி இராஜினாமா செய்வதாக தகவல் வெளியாகியது.
+Rahul Gandhi, a senior party leader, won two Lok Sabha seats but resigned as MP for Wayanad after a party executive meeting. He must resign from one seat within 14 days. Following his decision, Priyanka Gandhi will contest the Wayanad seat.
 
-14 நாட்களில் இரண்டு தொகுதிகளில் ஒன்றை இராஜினாமா செய்ய வேண்டுமென்ற நிலை ராகுல் காந்திக்கு ஏற்பட்டுள்ளது. இதனையடுத்து, கட்சி நிர்வாகிகளுடன் நடைபெற்ற ஆலோசனைக் கூட்டத்திற்கு பிறகு ராகுல்காந்தி வயநாடு தொகுதி எம்.பி பதவியை இராஜினாமா செய்வது என்ற முடிவை கடந்த 17ஆம் திகதி அறிவித்தார். ராகுல்காந்தியின் முடிவை தொடர்ந்து வயநாடு தொகுதியில் பிரியங்கா காந்தி போட்டியிடுவார் என கட்சியின் தலைவர் மல்லிகார்ஜுன கார்கே அறிவித்தார்.
+🟩
 
-இந்த நிலையில், வயநாடு தொகுதி எம்.பி பதவியை ராகுல் காந்தி நேற்று அதிகாரப்பூர்வமாக இராஜினாமா செய்தார். அவரது இராஜினாமா கடிதத்தை சபாநாயகர் ஏற்றுக்கொண்டதாக மக்களவை செயலகம் தெரிவித்துள்ளது.S
+Senior Leader of the party, Rahul Gandhi, won the two Lok Sabha seats in the Lok Sabha seats in Kerala, Wayanad and Uttar Pradesh's Rabareli constituency in the ongoing parliamentary Lok Sabha elections.. MP of Wayanad constituency. It is reported that Rahul Gandhi is resigning from the post.
+
+Rahul Gandhi has to resign one of two constituencies in 14 days. Subsequently, after a consultative meeting with party executives, Rahul Gandhi announced the resignation of the Wayanad constituency MP on the 17th.. Party leader Mallikarjuna Karke has announced that Priyanka Gandhi will contest the Wayanad constituency following Rahul Gandhi's decision.
+
+In this case, Rahul Gandhi officially resigned from the Wayanad constituency MP yesterday. The Lok Sabha Secretariat said the Speaker had accepted his resignation letter.
 
 ◼️
 
 [Data](articles/17aea67a.json)
+
+[Extended Data](ext_articles/17aea67a.ext.json)
 
 ---
 
@@ -122,21 +220,27 @@ He said that this decision would be taken due to the loss of the Postal Departme
 
 ---
 
-### மத்திய சுற்றாடல் அதிகாரசபையின் ஏற்பாட்டில் நெய் சோறு தானம்
+### Ghee Rice Donation under the arrangement of the Central Environmental Authority
 
 *2024-06-19 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186419) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு மத்திய சுற்றாடல் அதிகாரசபையின் ஏற்பாட்டில் நெய் சோறு தானம் வழங்கப்படவுள்ளது.
+On Poson Pournami Day, the Central Environmental Authority (CEA) will donate 400 kg of ghee rice at its headquarters, thanks to a financial contribution from Hemantha Jayasinghe. The CEA Chairman and Director General invite the public to join this event.
 
-இலக்கம் 104, டென்சில் கொப்பேகடுவ மாவத்தை என்ற முகவரியில் அமைந்துள்ள மத்திய சுற்றாடல் அதிகாரசபையின் வளாகத்தில் இந்த நெய் சோறு தானம் இன்று நண்பகல் 12.00 மணி முதல் வழங்கப்படவுள்ளது.
+🟩
 
-மத்திய சுற்றாடல் அதிகாரசபையின் தலைவர் வேணுர பெர்னாண்டோ மற்றும் பணிப்பாளர் நாயகம் பி.பி. ஹேமந்த ஜயசிங்க தலைமையில்  ஊழியர்களின் நிதி பங்களிப்புடன்  400 கிலோ கிராம் நெய் சோறு சுமார் 3,200 பேருக்கு வழங்குவதற்கு ஏற்பாடு செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+The donation of ghee will be donated by the Central Environmental Authority on the eve of Poson Pournami Day.
 
-தான நிகழ்வில் பங்கு கொள்ளுமாறு பொது மக்களுக்கு மத்திய சுற்றாடல் அதிகாரசபையின் அழைப்பு விடுத்துள்ளது.
+The ghee will be donated at the Central Environmental Authority premises at No. 104, Tenzil Kopkaduwa Mawatha.
+
+Central Environmental Authority Chairman Venura Fernando and Director General PP. Arrangements have been made to provide 400 kg of ghee rice with the financial contribution of Hemantha Jayasinghe, led by Hemantha Jayasinghe.
+
+The Central Environmental Authority has called on the public to participate in the event.
 
 ◼️
 
 [Data](articles/c4516327.json)
+
+[Extended Data](ext_articles/c4516327.ext.json)
 
 ---
 
@@ -160,6 +264,30 @@ Among the ownership of the new company's stock, the equity divided into equal di
 
 ---
 
+### Sri Lanka rupee opens weaker at 305.00/50 to US dollar
+
+*2024-06-19 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-00-50-to-us-dollar-168652/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.00/50 to the US dollar on Wednesday, while bond yields were up, and stocks opened 0.03 percent up, dealers said.
+
+The rupee closed at 304.75/305.40 to the greenback on Tuesday.
+
+In equities, Colombo’s All Share Price Index opened 0.03 points higher at 12,263 while the S&P SL20 of more liquid stocks opened up at 0.20 percent or 7.22 points to 3,629.
+
+A bond maturing on 15.12.2026 was quoted at 10.25/45, up from 10.10/30 percent.
+
+The indicative figure for a bond maturing on 15.09.2027 was 10.60/80 percent, up from 10.57/60 percent.
+
+The indicative figure for a bond maturing on 01.07.2028 was 11.15/40 percent, up from 11.15/65 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, up from 11.80/90. (Colombo/Jun19/2024)
+
+◼️
+
+[Data](articles/a9ab107b.json)
+
+---
+
 ### Putin arrives in North Korea for first official visit in 24 years
 
 *2024-06-19 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99961/putin-arrives-in-north-korea-for-first-official-visit-in-24-years) · `en`
@@ -178,37 +306,51 @@ Putin, making his first trip to North Korea in 24 years, said in comments that a
 
 ---
 
-### பொசன் பௌர்ணமி தினத்தன்று மதுபானசாலைகளுக்கு பூட்டு
+### Lock for liquor stores on Poson Pournami Day
 
 *2024-06-19 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186422) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு 21ஆம் திகதி வெள்ளிக்கிழமை நாடு முழுவதும் அனைத்து மதுபானங்களின் விற்பனையும் தடை செய்யப்பட்டுள்ளதுடன், கலால் ஆணையாளர் நாயகத்தின் உத்தரவின் பேரில் தெரிவுசெய்யப்பட்ட புனித வலயங்களில் இரண்டு முதல் ஏழு நாட்கள் வரை மதுபானங்களை விற்பனை செய்ய தடைசெய்யப்பட்டுள்ளது.
+Liquor sales nationwide are prohibited on Poson Pournami Day, with additional closures in specific holy zones and areas including Dambulla, Tissamaharama, Central Nuwarakam, East Nuwarakam, and Mihintale. Violators face legal action.
 
-நாடு முழுவதும் வெள்ளிக்கிழமை அனைத்து மதுபானசாலைகளும் மூடப்படுவதோடு, தம்புள்ளை மற்றும் திஸ்ஸமஹாராம நகர சபைக்குட்பட்ட தெரிவுசெய்யப்பட்ட பொசன் பண்டிகை வலயங்கள்  21 ஆம் திகதி வெள்ளிக்கிழமை மற்றும்  22 ஆம் திகதி சனிக்கிழமை ஆகிய இரண்டு நாட்களுக்கு மூடப்படும் என கலால் திணைக்களத்தின் ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை, அனுராதபுரம் புனித நகரை உள்ளடக்கிய  மத்திய நுவரகம், கிழக்கு நுவரகம் மற்றும் மிஹிந்தலை ஆகிய பிரதேச செயலகங்கள் பிரிவுகளில் குறித்த காலப்பகுதியில்  ஏழு நாட்களுக்கு மதுபான விற்பனை தடைசெய்யப்பட்டுள்ளது.
+The sale of all liquor across the country on Friday, the 21st of this month, has been banned on the 21st of this month and is banned from the sale of liquor to the holy zones selected on the orders of the Commissioner General of Excise for two to seven days.
 
-...
+All liquor stores across the country will be closed on Friday and the Poson festivals selected from the Dambulla and Tissamaharama Urban Council will be closed on Friday 21st and Saturday 22nd Saturday, said Commissioner General of the Department of Excise MJ Gunasiri.
+
+Meanwhile, liquor sales have been banned for seven days in the Divisional Secretariats of Central Nuwarakam, East Nuwarakam and Mihintale, which includes the Holy City of Anuradhapura.
+
+The Commissioner General said that all licensed liquor stores, bars and liquor will be ordered to close during this period and stern action will be taken against those who violate the Excise Act.
+
+◼️
 
 [Data](articles/dbd8824c.json)
 
+[Extended Data](ext_articles/dbd8824c.ext.json)
+
 ---
 
-### ஹட்டன்  குயில்வத்தை பகுதியில் கார் விபத்து !
+### Car accident in Hatton Guilvatte area
 
 *2024-06-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186421) · `ta`
 
-ஹொரணையில் இருந்து நுவரெலியா நோக்கி பயணித்த குடும்பம் ஒன்று பயணித்த கார் வீதியை விட்டு விலகி விபத்துக்குள்ளானதாக ஹட்டன் பொலிஸார் தெரிவித்துள்ளனர்.
+A family traveling from Horana to Nuwara Eliya had a severe car crash near Hatton Guilvatte at 5:15 am on Wednesday. The accident happened on the Hatton-Colombo main road due to the driver falling asleep. Thankfully, all occupants were uninjured but the car suffered significant damage.
 
-ஹட்டன் - கொழும்பு பிரதான  வீதி, ஹட்டன்  குயில்வத்தை  பகுதியில்  இன்று  புதன்கிழமை (19) அதிகாலை 5.15 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-காரின் சாரதி உறங்கியமையினால் கார்  வீதியை  விட்டு விலகி விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Hatton police said that a family traveler traveling from Horana to Nuwara Eliya crashed off the car.
 
-இந்த விபத்தில் காரில் பயணித்த எவருக்கும் காயங்கள் ஏற்படவில்லை எனவும், கார் பலத்த சேதமடைந்துள்ளதாகவும் ஹட்டன் பொலிஸார் தெரிவித்துள்ளனர்.
+The accident occurred at 5.15 am on Wednesday (19) at the Hatton -Colombo main road, Hatton Guilvatte.
+
+The driver of the car was sleeping on the road, police said.
+
+Hatton police said that no one in the car was injured and the car was severely damaged.
 
 ◼️
 
 [Data](articles/228b49a4.json)
+
+[Extended Data](ext_articles/228b49a4.ext.json)
 
 ---
 
@@ -234,21 +376,29 @@ UTUJC co-chairman Dhammika Priyantha emphasized that authorities will be given a
 
 ---
 
-### කොස්තාපල්ට වෙඩි තියන්න ගිය කොස්තාපල් අල්ලයි
+### Constable arrested for shooting constable
 
 *2024-06-19 09:39:40* · [`adalk`](https://www.ada.lk/breaking_news/කොස්තාපල්ට-වෙඩි-තියන්න-ගිය-කොස්තාපල්-අල්ලයි/11-410305) · `si`
 
-කහතුඩුව පොලිසියේ තනිකඩ බට නිවාසය තුළදී පොලිස් කොස්තාපල්වරයකුට වෙඩි තැබීමට  තැත් කළ තවත් පොලිස් කොස්තාපල්වරයෙකු දැඩි පරිශ්‍රමයක් දරා අත්අඩංගුවට ගත් බව කහතුඩුව පොලිසිය කියයි.සැකකරු සන්තකයේ තිබූ පිස්තෝල ගිනි අවියක් සහ ජීව උණ්ඩයක් ද පොලිස් භාරයට ගෙන ඇත
+A police constable was arrested after allegedly attempting to shoot another constable at Kahathuduwa station. The incident occurred while the victim was sleeping on duty. Investigations show the suspect had previous altercations but was not previously reported. The firearm used is now in police custody, and the suspect will face charges at the Kesbewa Magistrate's Court.
 
-18දා අලුයම 5.40 ට පමණ පුද්ගලයන් දෙදෙනකු පැමිණිල්ලක් කිරීම සඳහා පොලිස් ස්ථානය තුළට පැමිණ ඇති අතර ඒ අවස්ථාවේ උප සේවක ලෙස රාජකාරියේ යෙදී සිටි සැකකාර පොලිස් කොස්තාපල්වරයා උපසේවක පුටුව මත නිදාගෙන සිට ඇතැයි පොලිසිය කියයි
+🟩
 
-ඔහුව අවදි කිරීම සඳහා අනෙක් නිලධාරියා අවස්ථා කීපයකදීම කතා කරා ඇතත් ඔහු අවදි නොවීම හේතුවෙන් හිසට පහරක් ගසා වතුරද වක්කර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+Kahatuduwa police say another police constable attempted to shoot a police constable at Kahathuduwa police station, Kahatuduwa police said.
 
-පසුව ඒ බව දුරකථන ක්‍රියාකරු විසින් රාත්‍රී රාජකාරිය භාරව සිටි පොලිස් සැරයන්වරයෙකුටද දැනුම් දීමෙන් අනතුරුව ඔහු විසින් අදාළ පුද්ගලයන් දෙදෙනාගේ පැමිණිල්ල ලියා  අදාල සිද්ධිය සම්බන්ධයෙන් පොලිස් පොතේ සටහනක් ද තබා ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+The police constable who was on duty as a sub-worker has been asleep on the post-employee's chair.
+
+Police investigations have revealed that the other officer had spoken to a few occasions, but he had a blow to a blow, but he was not woke up.
+
+He was later informed by the telephone operator by the telephone operator at night.
+
+The telephone and the suspects have been carried out between the telephone and the suspected constable. The telephone operator had left his home, police said.
 
 ...
 
 [Data](articles/87a92ce1.json)
+
+[Extended Data](ext_articles/87a92ce1.ext.json)
 
 ---
 
@@ -517,6 +667,28 @@ The Criminal Investigations Department (CID) was arrested and remanded after bei
 [Data](articles/651cdb32.json)
 
 [Extended Data](ext_articles/651cdb32.ext.json)
+
+---
+
+### Sri Lanka manufacturing recovers strongly in May, financial services expand: PMI
+
+*2024-06-19 07:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-recovers-strongly-in-may-financial-services-expand-pmi-168638/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing recovered strongly showing in May 2024 from April festival holidays while services also continued to expand at a slower pace, a Purchasing Managers’ Index compiled by the central bank showed.
+
+The Manufacturing PMI index was 58.2 in May from below 50 in April.
+
+“All sub-indices, except for employment, rose above the neutral threshold during the month, resulting in an overall increase in the index value,” the statement said.
+
+“The increases in New Orders and Production sub-indices were mainly attributable to the manufacture of food and beverages sector.
+
+“Most of the respondents mentioned that the considerable increase in production activities was due to more working days prevailed in May compared to the previous month.”
+
+Expectations about the near future was also positive except for concerns about the global shipping amid unrest in the Middle East.
+
+...
+
+[Data](articles/bc379eb5.json)
 
 ---
 
@@ -2099,163 +2271,5 @@ The deceased has been identified as a person in 19 years.
 [Data](articles/c45ec475.json)
 
 [Extended Data](ext_articles/c45ec475.ext.json)
-
----
-
-### In writing to solve the problems of non -academic staff - Minister of Education
-
-*2024-06-18 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186388) · `ta`
-
-Education Minister Susil Premajayantha announced plans to address issues faced by non-academic staff at universities, including a proposed 25% pay raise similar to that of academic staff. Due to budget constraints, solutions will be implemented starting January next year. Opposition to funding from university reserves was noted, alongside ongoing discussions and submissions to the Cabinet. A cabinet committee was formed recently, and negotiations with the University Grants Commission are underway to issue a written pledge addressing these concerns.
-
-🟩
-
-A written source pledge will be issued regarding solving the problems of non -academic staff. Education Minister Susil Premajayantha said that a negotiations were held with the University Grants Commission yesterday.
-
-He said this while responding to a question raised by Gamini Valaboda in Parliament on Tuesday (18).
-
-25 percent increase in the allowance of university academic staff. Accordingly, non -academic staff are demanding that they be paid that 25 percent allowance.
-
-Since the budget is unable to allocate funds in the budget, steps have been taken to resolve the problems of non -university employees through the next budget and implement it from January next year.
-
-Some are opposed to the funding of the universities from the universities's stockpile.
-
-I have held several talks on this issue and have submitted two Cabinet papers.
-
-The problem arises by another party when solving the problems of one party.
-
-A cabinet committee has been appointed a week ago.
-
-...
-
-[Data](articles/641120ae.json)
-
-[Extended Data](ext_articles/641120ae.ext.json)
-
----
-
-### A small child who is lost in the jungle
-
-*2024-06-18 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197891) · `si`
-
-A young boy got lost in the jungle after a wedding ceremony at Norwood. He wandered off and fell into a drain, where he was found weak from hunger. The search involved local police and residents.
-
-🟩
-
-The four-year-old boy who was disappeared at Dunanka Estate last night, reports say.
-
-Norwood Police OIC Inspector Priyankara Kohondankara said that Nallataniya resident of Sivanathan Amazish, Nallataniya, a resident of Laxapana.
-
-The child had come to a wedding ceremony held at Norwood, Norwood yesterday (17), where the child had entered the coastal fortification.
-
-Later, he is not able to find the way back home and lost in the jungle.
-
-Accordingly, the police and the residents have been inspected and the child was found while falling on a drain today.
-
-Police say that he was weak when the child was recovered due to lack of food.
-
-◼️
-
-[Data](articles/a147a1c7.json)
-
-[Extended Data](ext_articles/a147a1c7.ext.json)
-
----
-
-### Railway Chancellor Association
-
-*2024-06-18 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186384) · `ta`
-
-The Railway Principals Association plans a sudden union action due to unresolved promotion issues affecting them for over five years. However, after discussions with the Railway General Manager and Transport Minister, they've suspended this action pending approval from the Public Service Commission for their demands.
-
-🟩
-
-The Railway Principals Association has decided to engage in sudden union action as it has not been discussed today.
-
-Earlier, the union action was taken on the demand for a solution to the massive injustice of the railway principals in the promotion of more than five years.
-
-In this backdrop, the union has decided to suspend their trade union action after a discussion with Railway General Manager and Transport Minister Lasantha Alagiyawanna to obtain the permission of the Public Service Commission for its demands.
-
-◼️
-
-[Data](articles/d83c681d.json)
-
-[Extended Data](ext_articles/d83c681d.ext.json)
-
----
-
-### The president apologizes to Muslims
-
-*2024-06-18 17:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களிடம்-மன்னிப்பு-கேட்டார்-ஜனாதிபதி/175-339083) · `ta`
-
-President Ranil Wickremesinghe apologized to Muslims for cremating COVID-19 victims against their burial wishes. He promised to amend laws allowing individuals to choose their funeral rites, acknowledging the pain caused to Muslim communities.
-
-🟩
-
-President Ranil Wickremesinghe has said that he apologizes to the Muslim people for cremating the bodies during the Corona period.
-
-The President further stated that the bodies of Corona's death were cremated during a argument in Parliament on Tuesday (18).
-
-Anyone in this country should have the right to decide whether to suppress their body. Therefore, the Minister in charge of the law will be brought to the issuance of the body of the deceased person to the corpse, the cremation of the corpse, or the right to the pedestal of the corpse.
-
-The cremation of the bodies during the period of Corona was mainly hurt by the Muslim people. The Hindu willing to do good after death, though. Buddhist and Christian people are also. So we apologize to them for the matter.
-
-Similarly, I hope that everyone in this council will support the bill that will be submitted.
-
-◼️
-
-[Data](articles/e8383737.json)
-
-[Extended Data](ext_articles/e8383737.ext.json)
-
----
-
-### Prabhas - Diljit Alliance
-
-*2024-06-18 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186391) · `ta`
-
-Diljit Dosanjh, known globally for his music and dance, collaborated with Prabhas in the movie "Kalki." Their song "Bhairava Antam" became an instant hit, amassing over ten million views online. Directed by Nak Ashwin and featuring stars like Kamal Haasan and Deepika Padukone, the film is set to release in multiple languages on the 27th of this month. This alliance between Prabhas and Diljit has been praised for its potential to cater to both fans' desires and tastes, promising a successful musical collaboration.
-
-🟩
-
-Diljit Doshant, a native of Punjab, North Indian State, is popular not only in India but also worldwide.
-
-There are no fans of music fans for his voice and dance. He has sung a song in 'Kalki 2898kb' starring Prabhas Prabhas and has danced to the song with Prabhas.The song 'Bhairava Antam' has been visited by over ten million viewers within the short term of the Internet.
-
-Directed by director Nak Ashwin, Prabhas, Amithappachan, Kamal Haasan, Deepika Padukone, Disha Patani and many others are produced by Vaijayanthi Movies.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 27th of this month.
-
-The song, composed by composer Santosh Narayanan, has been written by songwriter Kumar, singer Diljit Dosand and Vijay Narayanan.
-
-In the video for this song.. Diljit Dosha's enchanting voice - this song with a magic dance, fans are cheering again.
-
-...
-
-[Data](articles/e08977c8.json)
-
-[Extended Data](ext_articles/e08977c8.ext.json)
-
----
-
-### Ban Indian movie 'Rachel'
-
-*2024-06-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186394) · `ta`
-
-"Debutante director Anandini Bala's 'Rachel', starring Honey Rose, has released its teaser, raising expectations. The film features a mix of experienced and new actors, including Babu Raj, Kalabhavan Shahjoon, and Roshan Bashir. Shot in multiple languages, it's produced by Excise Entertainment and co-produced by Badusha Productions. Post-production is ongoing, with the full release anticipated soon."
-
-🟩
-
-The teaser of Malayalam actress Honey Rose has been released as the heroine of the film 'Rachel'.
-
-Honey Rose, Babu Raj, 'Kalabhavan' Shahjoon, Roshan Bashir, Radhika Radhakrishnan, Joji, Dinesh Prabhakar, Vandita Manoharan, directed by debutant director Anandini Bala.. Swarup Philip has composed the film for the film. The film is being produced as Glamor with Excise Entertainment and has co -produced the film on behalf of Badusha Productions Company.
-
-The shooting of the film is over and the post -shooting technical work is underway. In this case, the teaser of the film has been released. Actress Honey Rose appears to be sexy and Xson in the teaser has increased the expectation of the film for fans. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-...
-
-[Data](articles/6caa07c5.json)
-
-[Extended Data](ext_articles/6caa07c5.ext.json)
 
 ---

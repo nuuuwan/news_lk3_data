@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 12:52:18**
+As of **2024-06-19 13:04:46**
 
 ## Newspaper Stats
 
-*Scraped **31,096** Articles*
+*Scraped **31,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 287
 bbccomsinhala | 304
 newsfirstlk | 363
 islandlk | 1,702
-economynextcom | 1,796
+economynextcom | 1,797
 dailyftlk | 1,898
 adalk | 2,708
 adaderanalk | 3,522
 tamilmirrorlk | 3,657
 dailymirrorlk | 4,733
-virakesarilk | 4,791
+virakesarilk | 4,792
 adaderanasinhalalk | 5,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,096 (100.0%) of 31,096 articles have been extended.
+31,096 (100.0%) of 31,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### மக்கள்  போராட்ட முன்னணி - புதிய அரசியல் இயக்கத்தினை ஆரம்பித்தனர் அரகலய போராட்டக்காரர்கள்
+
+*2024-06-19 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186441) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலை அடிப்படையாக அரகலய போராட்ட குழுவினர் மக்கள் போராட்ட முன்னணி என்ற புதிய அரசியல் இயக்கத்தினை ஆரம்பித்துள்ளனர்.
+
+முன்னாள் மாணவ செயற்பாட்டாளர்கள் சமூக செயற்பாட்டாளர்கள் ஊடகவியலாளர்கள் அரசியல் கட்சிகளின் உறுப்பினர்களை உள்ளடக்கி  மக்கள் போராட்ட முன்னணி ஆரம்பிக்கப்பட்டுள்ளது.
+
+அரகலய செயற்பாட்டாளர் லகிரு வீரசேகர அனைத்து பல்கலைகழக மாணவர் ஒன்றியங்களிற்கு இடையிலான முன்னாள் ஏற்பாட்டாளர் வசந்த முதலிகே முன்னணி சோசலிச கட்சியின் முக்கிய உறுப்பினர்கள் சட்டத்தரணி நுவான்போபகே  ஊடகவியலாளர் தரிந்து உடுவரகெதர மற்றும் இடதுசாரி கட்சிகளின்  பிரதிநிதிகள் இந்த புதிய அரசியல் இயக்கத்தில் அங்கம் வகிக்கின்றனர்.
+
+இன்று இந்த புதிய அரசியல் இயக்கத்தினை ஆரம்பிப்பது குறித்த செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்துள்ள வசந்த முதலிகே அரகலய போராட்டம் கடந்த காலத்தில் அமைப்புமுறை மாற்றத்தை கோரியே முன்னெடுக்கப்பட்டது என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/cae2484e.json)
+
+---
+
+### Sri Lanka Railways asks squatters to register online
+
+*2024-06-19 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-asks-squatters-to-register-online-168680/) · `en`
+
+ECONOMYNEXT – Sri Lanka Railways has asked people living on land own by the Department to register online before July 15, in a move to legitimize them.
+
+“All unauthorized occupants who do not register by that date will be removed from railway premises.”
+
+Users of land owned by the Department and new applicants should register online at http://pms.railway.gov.lk.
+
+Squatters will be leased the land after an assessment, Minister of Transport and Highways and Mass Media Bandula Gunawardena said earlier this year.
+
+The Railways Department owns the largest amount of land in the country.
+
+“I have obtained cabinet approval to have the land and property occupied by squatters for over 10 years assessed, and then sign a lease agreement with them,” Gunawardena had said.
+
+“All squatters who have been there less than 10 years will be prosecuted. Land grabbing now is useless.” Gunawardena was speaking at the inauguration of the Assistant Commercial Superintendent’s office in Nawalapitiya.
+
+...
+
+[Data](articles/498ba9ed.json)
+
+---
 
 ### The dedication of the Kenzavertiv Party for British Tamils ​​is very firm - Britain continues to support the fact that Justice Britain supports - David Cameron
 
@@ -2261,45 +2303,5 @@ Mrs. Anthony, said Mrs. Anthony, could be completely eliminated by identifying o
 [Data](articles/5ef68ba9.json)
 
 [Extended Data](ext_articles/5ef68ba9.ext.json)
-
----
-
-### President tells Minister Wijeyadasa to quit?
-
-*2024-06-18 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99954/president-tells-minister-wijeyadasa-to-quit) · `en`
-
-The Senior Vice Chairman of the Sri Lanka Freedom Party (SLFP), Prof. Rohana Lakshman Piyadasa claimed that the President has pressured Justice Minister Wijeyadasa Rajapakshe, to resign from the government.
-
-He alleged that Minister Wijeyadasa Rajapakshe revealed this during a politburo meeting.
-
-However, when inquired by Ada Derana, Minister Rajapakshe said that the statement made by Prof. Rohana Lakshman Piyadasa is untrue.
-
-◼️
-
-[Data](articles/1c19a76c.json)
-
-[Extended Data](ext_articles/1c19a76c.ext.json)
-
----
-
-### Total Commission on electricity tariffs on July 15
-
-*2024-06-18 19:03:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-ගැන-උපයෝගිතා-කොමිෂමේ-තීරණය-ජුලි-15දා/11-410301) · `si`
-
-The Public Utilities Commission of Sri Lanka announced on July 15 that it had received public feedback on the proposed second electrification tariff revision by the Ceylon Electricity Board. The commission invites further comments on this matter until July, providing an opportunity for interested parties to voice their opinions.
-
-🟩
-
-The final decision on the proposed second electrification tariff revision of the Ceylon Electricity Board has been given public views on July 15, "says the Public Utilities Commission of Sri Lanka.
-
-The Public Utilities Commission states that the amendment of electricity tariff has been reviewed by the electricity tariff.
-
-The Public Utilities Commission also provides an opportunity to comment on those interested in the telecommunication revision from today to July.
-
-◼️
-
-[Data](articles/947c47ea.json)
-
-[Extended Data](ext_articles/947c47ea.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 09:53:52**
+As of **2024-06-19 10:05:52**
 
 ## Newspaper Stats
 
-*Scraped **31,062** Articles*
+*Scraped **31,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,103 +16,177 @@ islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,705
-adaderanalk | 3,517
+adaderanalk | 3,518
 tamilmirrorlk | 3,650
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,046
+adaderanasinhalalk | 5,047
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,057 (100.0%) of 31,062 articles have been extended.
+31,062 (100.0%) of 31,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Teachers to launch ‘sick leave’ trade union action
+
+*2024-06-19 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99960/teachers-to-launch-sick-leave-trade-union-action-) · `en`
+
+The Ceylon Teachers’ Union (CTU) says they have decided to engage in trade union actions by reporting sick on June 26.
+
+The CTU General Secretary, Joseph Stalin, stated that if their demands are not met as promised, the teachers will also withdraw from the Ordinary Level (O/L) exam paper marking activities.
+
+However, Minister of Education Susil Premajayantha, speaking at a ceremony held yesterday (18), stated that students today are fulfilling their academic needs despite the trade union actions of the teachers.
+
+Meanwhile, the University Trade Union Joint Committee (UTUJC) stated that the discussions held with the University Grants Commission (UGC) regarding their wage issues were positive.
+
+UTUJC co-chairman Dhammika Priyantha emphasized that authorities will be given a week to provide necessary solutions to the wage disparities.
+
+...
+
+[Data](articles/a2073474.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-06-19 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197910) · `si`
+
+The Parliamentary Council has started its session, focusing on legislative discussions and policy decisions.
+
+🟩
 
 ◼️
 
 [Data](articles/6ac27e75.json)
 
+[Extended Data](ext_articles/6ac27e75.ext.json)
+
 ---
 
-### இன்று முதல் மழை அதிகரிக்கும் சாத்தியம்
+### ලෝකයේ වටිනාම සමාගම
+
+*2024-06-19 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197909) · `si`
+
+ලෝකයේ වටිනාම සමාගම බවට Nvidia සමාගම පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එහි කොටස් වටිනාකම ඊයේ (18) ඉතිහාසයේ වැඩිම අගය වාර්තාකර තිබුණි.
+
+එම සමාගමේ කොටසක වටිනාකම ඊයේ 3.5%කින් ඉහළගිය අතර එහි අගය දැක්වුණේ ඩොලර් 136ක් ලෙසට ය.
+
+මේ මස ආරම්භයේදී Nvidia සමාගම, ඇපල් සමාගමේ වටිනාකම අභිබවා ගියේය.
+
+කෘත්‍රීම බුද්ධිය භාවිත කෙරෙන මෙවලම් සඳහා අවශ්‍ය පරිගණක චිප් Nvidia සමාගම විසින් නිපදවනු ලබයි.
+
+එහි නිෂ්පාදන සඳහා ඇති ඉල්ලුම සීග්‍රයෙන් වැඩිවෙමින් පවතින බව වෙළෙඳපොළ වාර්තා පෙන්වා දෙයි.
+
+එම සමාගමේ වර්තමාන වටිනාකම සඳහන් වන්නේ ඩොලර් ට්‍රිලියන 3.34ක් ලෙසටයි.
+
+◼️
+
+[Data](articles/5018740b.json)
+
+---
+
+### It is possible to increase the rain from today
 
 *2024-06-19 09:15:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்-சாத்தியம்/175-339111) · `ta`
 
-இன்று (19) முதல் அடுத்த சில நாட்களில் மழை நிலைமை சற்று அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology predicts increased rainfall starting today, especially in the Western, Sabaragamuwa, North Western Provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Maximum rainfall could reach 75mm in some areas. Thundershowers or thunderstorms are expected in the Eastern and Uva provinces during evenings or nights. Strong winds up to 40-50 km/h may occur in certain regions.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும்.
+🟩
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில்  அதிகபட்சமாக 75 மி.மீ அளவில் மழை பெய்ய வாய்ப்பு உள்ளது.
+The Department of Meteorology has predicted that the rainy situation is likely to increase slightly in the next few days from today (19).
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+Rainfall is likely to experience a maximum of 75 mm in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+In the Eastern and Uva provinces, some places in the evening or night are likely to experience thundershowers or thunderstorms.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/0e6cd574.json)
 
+[Extended Data](ext_articles/0e6cd574.ext.json)
+
 ---
 
-### එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් බිහිසුණු අනතුරක
+### A motor vehicle traveling in the same family
 
 *2024-06-19 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197908) · `si`
 
-හොරණ සිට නුවරඑළිය දක්වා එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදු වී ඇති බව හැටන් පොලීසිය පවසයි.
+A car veered off the Hatton-Colombo road early this morning, rolling down the road after its engine was detached. The incident occurred around 5:15 am, causing significant damage but no injuries to the vehicle.
 
-අනතුර සිදු වී ඇත්තේ හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ හැටන් කුයිල්වත්ත ප්‍රදේශයේ අද (19) අලුයම 5.15ට පමණය.
+🟩
 
-ධාවනය වෙමින් තිබු මොටර් රථයේ රියදුරුට නින්ද යාම හේතුවෙන් මොටර් රථය මාර්ගයෙන් ඉවතට පැන තේ වත්ත දෙසට පෙරළී අනතුර සිදුව ඇත.
+Hatton Police say that a motor vehicle has accidentally escaped from Horana to Nuwara Eliya.
 
-අනතුරෙන් මොටර් රථයේ ගමන් ගත් කිසිවෙකුටත් තුවාල සිදු වී නොමැති අතර, මොටර් රථයට දැඩි අලාභ හානි සිදු වී ඇති බව හැටන් පොලීසිය පැවසීය.
+The accident occurred at the Hatton-Colombo main road morning at 5.15 am today.
+
+The motor was removed from the motor vehicle and rolled over the road due to the driver of the driver of the driver.
+
+No none of the motor vehicle has not been injured and the motor vehicle has damaged severe damage.
 
 ◼️
 
 [Data](articles/c98b5b55.json)
 
+[Extended Data](ext_articles/c98b5b55.ext.json)
+
 ---
 
-### රුසියානු ජනාධිපති උතුරු කොරියාවේ සංචාරයක
+### Russian President visits North Korea
 
 *2024-06-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197907) · `si`
 
-විදෙස් වාර්තා සඳහන් කළේ, ජනාධිපතිවරණ ජයග්‍රහණයෙන් පසුව රුසියානු ජනාධිපතිවරයා සිදුකරන පළමු විදෙස් සංචාරය මෙය වන අතර පුටින් ජනාධිපතිවරයා වසර 24කට පසුව උතුරු කොරියාවේ සිදුකරන සංචාරය මෙය බවය.
+In his first foreign trip post-election victory, Russian President Putin visited North Korea, meeting with leader Kim Jong Un. This marks Putin's second visit to North Korea in 24 years. The US expressed concern over the strengthening ties between Russia and North Korea, while Kremlin announced plans for a support agreement covering security matters.
 
-එරටට පැමිණි රුසියානු ජනාධිපතිවරයාව ගුවන්තොටුපොළ පැමිණ උතුරු කොරියානු නායක කිම් ජොන් උන් විසින් පිළිගෙන තිබේ.
+🟩
 
-රාජ්‍ය නායකයන් දෙදෙනා අවසන් වරට පසුගිය සැප්තැම්බර් මාසයේදී රුසියාවේදී හමුවූ බව විදෙස් වාර්තා පවසයි.
+This is the first foreign visit to the Russian President after the president's victory and Putin President is traveling in North Korea for 24 years.
 
-රුසියාව සහ උතුරු කොරියාව අතර පවතින සබඳතාව පිළිබඳව තමන් කනස්සල්ලට පත්ව සිටින බව අමෙරිකාව පවසා ඇති බව වාර්තා වේ.
+The Russian president had welcomed the Russian President and received the North Korean leader Kim Jon.
 
-ක්‍රෙම්ලිනය පවසා ඇත්තේ, මිත්‍රශීලී රාජ්‍ය සංචාරයේදී රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් සහ කිම් ජොන් උන් අතර ආරක්ෂක ගැටලු ඇතුළු හවුල්කාරිත්ව ගිවිසුමක් අත්සන් කිරීමට නියමිත බවය.
+The two heads of state have been found in Russia last September, according to foreign reports.
+
+US have said that he is worried about the relationship between Russia and North Korea.
+
+The Kremlyn has said that Russian President Vladimir Putin and Kim Jank are due to sign a support agreement, including a security issues.
 
 ◼️
 
 [Data](articles/0648228d.json)
 
+[Extended Data](ext_articles/0648228d.ext.json)
+
 ---
 
-### அதிர்ந்தது வவுனியா - மக்களின் நிலைப்பாடு என்ன?
+### Vavuniya - What is the position of the people?
 
 *2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ந்தது-வவுனியா-மக்களின்-நிலைப்பாடு-என்ன/175-339110) · `ta`
 
-வவுனியா மற்றும் மதவாச்சியின் பல கிராமங்களில் 2.3 ரிக்டர் அளவில் நில அதிர்வு ஏற்பட்டதாக புவிச்சரிதவியல், நில அளவை மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+In Vavuniya, residents experienced a 2.3 magnitude earthquake, causing shockwaves and rattling windows and doors. The quake occurred around 11:01 pm, leaving locals startled.
 
-இதனால் சேதங்கள் ஏதும் ஏற்படாத நிலையில் மக்கள்  தங்களது வீடுகளில் ஜன்னல்கள் கதவுகள் சில நொடிகள் பலத்த சத்தத்துடன் அதிர்ந்ததாக தெரிவிக்கின்றனர்.
+🟩
 
-இதேவேளை, நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டமை குறிப்பிடத்தக்கது. R
+According to the Geological Survey, Land Survey and Mining Bureau, there were 2.3 magnitude earthquakes in several villages of Vavuniya and Madhavachi.
+
+People are shocked by the noise of the windows and doors in their homes for a few seconds.
+
+Meanwhile, the earthquake struck at around 11.01pm last night. Remble
 
 ◼️
 
 [Data](articles/858ac272.json)
+
+[Extended Data](ext_articles/858ac272.ext.json)
 
 ---
 
@@ -2259,57 +2333,5 @@ The seven political parties and organizations belonging to the universal power u
 [Data](articles/e0d12a7f.json)
 
 [Extended Data](ext_articles/e0d12a7f.ext.json)
-
----
-
-### Damaged pipeline: Water supply to 85,000 housing units yet to be restored
-
-*2024-06-18 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99948/damaged-pipeline-water-supply-to-85000-housing-units-yet-to-be-restored) · `en`
-
-The National Water Supply and Drainage Board (NWS&DB) says that even though the damaged transmission pipeline from the Kalatuwawa Treatment Plant has been repaired, the water supply to around 85,000 housing units is yet to be restored.
-
-However, the water board said that the situation is likely to normalise by around 6.00 p.m. today (18).
-
-The water transmission pipeline supplying water from the Kalatuwawa Treatment Plant had been damaged at Godagama near the High-Level Road owing to a vehicular accident.
-
-A car had veered off the road and collided with the water transmission pipeline in the early hours of yesterday (17) causing severe damage to the pipeline.
-
-As a result of the incident, the water supply to over 100,000 housing units in the Godagama, Homagama, Pannipitiya, Pelanwatta, Rukmalgama and Mattegoda areas was interrupted since last morning.
-
-Repair work on the damaged pipeline was carried out last night and water board stated that it was restored at around 4.00 a.m. this morning (18).
-
-...
-
-[Data](articles/a597d27f.json)
-
-[Extended Data](ext_articles/a597d27f.ext.json)
-
----
-
-### Criticism of High Court ruling
-
-*2024-06-18 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186377) · `ta`
-
-Athuraliye Ratna Thera criticized the High Court's ruling, stating it sets a wrong precedent. He emphasized the separation of powers among the judiciary, executive, and legislative branches, as per constitutional provisions. The Thera questioned whether the President's stance aligns with his personal views or those of the Cabinet, highlighting the need for clarity. He also touched upon the global perspective, where gender does not differentiate countries like Sri Lanka.
-
-🟩
-
-Is it not a joy in the ruling of the High Court.Athuraliye Ratna Thera, a member of the opposition who acts independently in Parliament, said that criticism of the court ruling is an wrong example.
-
-He was speaking at a special speech during a session held in Parliament on Tuesday (18).
-
-The powers of the three sectors, including the law, the judiciary and the executive sector. The constitutional provisions are clearly noted that another sector should not interfere in the power of a sector. The Parliamentary Standing Order stated that the Supreme Court should not take up the parliamentary debate on the bill.
-
-The President has stated that he should pay special attention through Parliament. Is this his personal position or the position of the Cabinet?Criticism of the Supreme Court's decision is a wrong example.
-
-The Sri Lankan Buddhist country has no differences in the basis of a male and female.
-
-Those who know the world's activities are globally, beyond the male and female gender.
-
-◼️
-
-[Data](articles/5e881c5a.json)
-
-[Extended Data](ext_articles/5e881c5a.ext.json)
 
 ---

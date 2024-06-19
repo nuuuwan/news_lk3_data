@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 08:34:39**
+As of **2024-06-19 08:53:33**
 
 ## Newspaper Stats
 
-*Scraped **31,055** Articles*
+*Scraped **31,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,517
 tamilmirrorlk | 3,648
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,042
+adaderanasinhalalk | 5,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,055 (100.0%) of 31,055 articles have been extended.
+31,055 (100.0%) of 31,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### දිස්ත්‍රික්ක 11ක ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය කිලෝ 7,700ක්
+
+*2024-06-19 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197906) · `si`
+
+දිස්ත්‍රික්ක 11 ක් පුරා ක්‍රියාත්මක වූ ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය එකතු කිරීමේ වැඩසටහන මඟින් එම අපද්‍රව්‍ය කිලෝ ග්‍රෑම් 7,700කට අධික ප්‍රමාණයක් එක් රැස්කර ගැනීමට හැකි වූ බව මධ්‍යම පරිසර අධිකාරිය පවසයි.
+
+එහි වැඩබලන නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් චතුර මල්වැන්න මහතා සඳහන් කළේ, අදාළ ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය ප්‍රතිචක්‍රීකරණ වැඩසටහන යෙමු කිරීමට පියවර ගෙන ඇති බවය.
+
+"ලෝක පරිසර දිනයට සමගාමීව මධ්‍යම පරිසර අධිකාරිය මඟින් සිදුකරනු ලැබූ අපද්‍රව්‍ය එකතු කිරීමේ පසුගිය 3 හා 4 යන දිනවල සිදුකරනු ලැබුවා පළාත් 4ක, දිස්ත්‍රික්ක 11ක මධ්‍යස්ථාන 97ක. එහිදී විවිධ බාධක පැමිණියා වර්ෂාපතනයත් එක්ක. මෙම මධ්‍යස්ථාන 97 අපිට හැකිවුණා ඉලෙක්ට්‍රොනික අපද්‍රව්‍ය කිලෝග්‍රෑම් 7,777ක් එකතු කරගන්න. මේක එක්තරා විදියක ජයග්‍රහණයක්."
+
+◼️
+
+[Data](articles/d41c78b5.json)
+
+---
 
 ### Indian Foreign Minister to visit Sri Lanka
 
@@ -2329,33 +2345,5 @@ Last month, the US imposed sanctions against 20 companies from Hong Kong Kong Ko
 [Data](articles/a279b3db.json)
 
 [Extended Data](ext_articles/a279b3db.ext.json)
-
----
-
-### Poaran Ground makes
-
-*2024-06-18 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197885) · `si`
-
-In the World Cup match, West Indies defeated Afghanistan with Nicholas Pooran scoring 98 runs off 53 balls, contributing significantly to the West Indies' total of 218/5. Afghanistan managed only 114 runs in response, securing the West Indies' fourth win in their group and qualifying both teams for the Super 8 stage.
-
-🟩
-
-West Indies and Afghanistan won the match between the West Indies and Afghanistan of the World Cup.
-
-The West Indies scored 218 runs for the loss of 5 wickets in the loss of 5 wickets at the loss of 5 wickets.
-
-Nicholas Poran won the velocity and scored 98 runs off 53 balls. It included 6 hits and 6 hits.
-
-In response, the Afghanistan was only 114 runs.
-
-West Indies won the West Indies to win 4 of its category with this victory.
-
-Accordingly, the group and Afghanistan were eligible for the Super 8.
-
-◼️
-
-[Data](articles/697cdd99.json)
-
-[Extended Data](ext_articles/697cdd99.ext.json)
 
 ---

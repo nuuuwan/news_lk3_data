@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 11:54:23**
+As of **2024-06-19 12:07:16**
 
 ## Newspaper Stats
 
-*Scraped **31,085** Articles*
+*Scraped **31,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,522
 tamilmirrorlk | 3,652
 dailymirrorlk | 4,733
 virakesarilk | 4,787
-adaderanasinhalalk | 5,050
+adaderanasinhalalk | 5,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,079 (100.0%) of 31,085 articles have been extended.
+31,085 (100.0%) of 31,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### ණයහිමි රටවල් සමග ගිවිසුම ලබන සතියේ - ජනපති
+
+*2024-06-19 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197914) · `si`
+
+ශ්‍රී ලංකාවට ණය ලබාදුන් රටවල් සමඟ ඉදිරි සති කිහිපය තුළ ගිවිසුමකට එළැඹීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+අනතුරුව තරඟකාරී, ඩිජිටල්කරණය වූ හරිත ආර්ථිකයක් ප්‍රවර්ධනය කිරීම සඳහා නව වාණිජ බැංකුවක්, ආර්ථික කොමිෂන් සභාවක් සහ "එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා" නමින් නව ආයතනයක් පිහිටුවා මෙරට කර්මාන්ත ක්ෂේත්‍රය නංවාලීමට රජය සැලසුම් කර ඇති බවත් ඔහු පැවසීය.
+
+2024 ජාත්‍යන්තර කර්මාන්ත ප්‍රදර්ශනය විවෘත කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ බව කීය.
+
+◼️
+
+[Data](articles/f7261810.json)
+
+---
 
 ### President Ranil reveals plans to boost Sri Lanka’s industrial sector
 
@@ -47,6 +63,8 @@ He also said that the government is expected to reach an agreement with the Sri 
 ◼️
 
 [Data](articles/eb9216ec.json)
+
+[Extended Data](ext_articles/eb9216ec.ext.json)
 
 ---
 
@@ -70,25 +88,33 @@ There was a recommendation that a human resources manager be appointed to carry 
 
 [Data](articles/475641b0.json)
 
+[Extended Data](ext_articles/475641b0.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායම පැමිණෙයි
+### Sri Lankan team arrives
 
 *2024-06-19 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197913) · `si`
 
-20යි 20 ලෝක කුසලාන තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (19) උදෑසන මෙරටට පැමිණියේය.
+The Sri Lanka Cricket Team returned home after being eliminated from the T20 World Cup. Captain Dasun Shanaka expressed regret over their performance, acknowledging shortcomings in batting and bowling. They initially exited through the General Passenger Terminal before moving to the "silk route" terminal for departure.
 
-එහිදී මාධ්‍ය අමතමින් ශ්‍රී ලංකා T20 ක්‍රිකට් කණ්ඩායමේ නායක වනිඳු හසරංග පැවසුවේ ක්‍රීඩකයින් හරියට ක්‍රීඩා නොකළ නිසා මෙම විස්සයි විස්ස ක්‍රිකට් තරගාවලියෙන් ඉවත් වීමට සිදු වූ බවයි.
+🟩
 
-තමන් කණ්ඩායමේ නායකයා සහ ක්‍රීඩකයෙකු වශයෙන් ඒ පිළිබඳව කනගාටු වන බව හසරංග පැවසීය .
+The Sri Lanka Cricket Team Sri Lanka arrived in Sri Lanka this morning (19) this morning.
 
-"ක්‍රීඩකයින් විදියට අපි දන්නවා අපි අතින් සිදුවූ වැරදි මොනවාද කියලා. අපි ක්‍රීඩකයෝ වශයෙන් හොදින් ක්‍රීඩා නොකළ නිසා පිතිකරණය, පන්දු රැකීම සහ පන්දු යැවීම කණ්ඩායමක් වශයෙන් හොදින් කළේ නෑ.."  හෙතෙම පැවසීය.
+Speaking at the media, the Sri Lanka T20 captain of Sri Lanka T20 cricket team said that the Twenty20 cricket had had to leave the tournament.
 
-ඔවුන් වෙනදා සාමාන්‍ය මගී පර්යන්තය ඔස්සේ පිටතට පැමිණිය ද අද මුදල් ගෙවා පහසුකම් සලසා ගත යුතු "සිල්ක් රූට්" පර්යන්තය ඔස්සේ ගුවන්තොටුපොළෙන් පිටතට පැමිණීමට කටයුතු කර තිබුණි.
+Mr. Hasaranga said he regret the leader and player.
+
+"As players, we know what our mistakes have happened. Because we did not play well as players, the batting, bowling and bowling was not well done as a group. "He said.
+
+They had come out of the General Passenger Terminal, but they had taken steps to come out of the airport through the "silk root" terminal that should be paid today.
 
 ◼️
 
 [Data](articles/b4542f6e.json)
+
+[Extended Data](ext_articles/b4542f6e.ext.json)
 
 ---
 
@@ -107,6 +133,8 @@ The money was originally allocated for ‘strategic acquisitions in APAC and Eas
 ...
 
 [Data](articles/2713ce0d.json)
+
+[Extended Data](ext_articles/2713ce0d.ext.json)
 
 ---
 
@@ -285,6 +313,8 @@ A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, up from 11.80/9
 ◼️
 
 [Data](articles/a9ab107b.json)
+
+[Extended Data](ext_articles/a9ab107b.ext.json)
 
 ---
 
@@ -689,6 +719,8 @@ Expectations about the near future was also positive except for concerns about t
 ...
 
 [Data](articles/bc379eb5.json)
+
+[Extended Data](ext_articles/bc379eb5.ext.json)
 
 ---
 
@@ -2249,27 +2281,5 @@ The pilgrims are scheduled to carry out a special bus service from the Mahawa to
 [Data](articles/5111979f.json)
 
 [Extended Data](ext_articles/5111979f.ext.json)
-
----
-
-### Buses killed in bike accident
-
-*2024-06-18 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197892) · `si`
-
-A motorcyclist, aged 19, died after colliding with a private bus traveling from Badulla to Bandarawela. The incident occurred when the motorcycle, heading towards Wellawaya, skidded and got trapped under the bus.
-
-🟩
-
-Motorcyclist collided with a private bus from Badulla to Bandarawela
-
-Our correspondent said that the motorcycle headed towards the Wellawaya towards the Wellawaya, who slipped towards the Wellawaya, was imprisoned to the rear wheel of the bus.
-
-The deceased has been identified as a person in 19 years.
-
-◼️
-
-[Data](articles/c45ec475.json)
-
-[Extended Data](ext_articles/c45ec475.ext.json)
 
 ---

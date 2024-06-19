@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 13:19:14**
+As of **2024-06-19 13:35:07**
 
 ## Newspaper Stats
 
-*Scraped **31,099** Articles*
+*Scraped **31,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,702
 economynextcom | 1,797
 dailyftlk | 1,898
 adalk | 2,709
-adaderanalk | 3,522
+adaderanalk | 3,523
 tamilmirrorlk | 3,657
 dailymirrorlk | 4,733
 virakesarilk | 4,792
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,098 (100.0%) of 31,099 articles have been extended.
+31,099 (100.0%) of 31,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Eight petitions challenging IGP’s appointment fixed for consideration
+
+*2024-06-19 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99966/eight-petitions-challenging-igps-appointment-fixed-for-consideration-) · `en`
+
+The Supreme Court today ordered for the fundamental rights (FR) petitions filed against the appointment of Deshabandu Tennakoon as the Inspector-General of Police (IGP) to be taken up for consideration on July 08, 2024.
+
+A three-member bench has issued this order after consideration of the eight petitions put forward by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
+
+The petitioners allege that Tennakoon had neglected his duties during his tenure as the Senior Deputy Inspector General of Police (SDIG) of the Western Province when the 2019 Easter attacks happened, and when a pre-mediated attack was launched on the ‘GotaGoGama’ protest site at the Galle Face Green where several protesters were brutally beaten.
+
+◼️
+
+[Data](articles/bd56b988.json)
+
+---
 
 ### People's Struggle Front - Starting New Political Movement
 
@@ -684,23 +700,29 @@ Hatton police said that no one in the car was injured and the car was severely d
 
 ---
 
-### වව්නියාව සහ අවට ප්‍රදේශයන්ට භූකම්පනයක්
+### A topography for Vavuniya and the surrounding areas
 
 *2024-06-19 09:46:49* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-සහ-අවට-ප්‍රදේශයන්ට-භූකම්පනයක්/11-410306) · `si`
 
-වව්නියව , කැබිතිගොල්ලෑව , හොරොව්පතාන සහ මැදවච්චිය ප්‍රදේශයන් වෙතට ඊයේ (18) රාත්‍රියේ භූ කම්පනයක් සිදුව ඇතැයි භූවිද්‍යා සමීක්ෂණ සහ පතල් කාර්යංශය පෙන්වා දෙයි.
+The Geological Survey and Mines Bureau reported an earthquake in Sri Lanka, occurring between 10:55 and 11:10 PM on April 18th, felt in Kebithigollewa, Horowpathana, Medawachchiya, Pallakatale, Mahakarawa, and Hakmana. Residents described strong shaking, with roofs creaking as if bending under weight.
 
-භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය සඳහන් කළේ, ඊයේ (18) රාත්‍රී 10.55 ත් 11.10 අතර කාලසීමාව තුළ මෙම භූකම්පනය සිදුව ඇති බවත් එය රික්ටර් මාපකයේ ඒකක 2.3 ලෙස එහි ප්‍රබලත්වය සටහන් වී ඇති බව භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය පැවසුවේය.
+🟩
 
-එම කාර්යංශය සඳහන් කළේ, මෙම භූකම්පනය පල්ලකැලේ, මහකනදරාව සහ හක්මන යන භූකම්පන මධ්‍යස්ථානවල සටහන් ඇති බවටය.
+Geology Survey and Mines Bureau said that the earth bureau was held last night at Kebithigollewa, Horowpathana and Medawachchiya.
 
-"රෑට නිදාගන්න යනකොට අපේ වහලම දෙදරන්න ගත්ත විනඩි 3 ක් විතර ඉස්සර යුද්දෙ කාලෙට බෝම්බයක් පිපුරුණහමත් මේ විදිහට තමයි වහලය දෙදරුවේ අපිට හිතගන්න බැරිවුන මොකද්ද මේ කියලා විනඩි 3 ක් විතර තමයි එහෙම තිබුනේ.
+The Geological Survey and Mines Bureau said that the earthquake had occurred during the period between 10.55 and 11.10 pm yesterday (18), the Geological Survey and Mines Bureau.
 
-අපි මේ පැත්තට භූ කම්පනයක් ගැන අහලවත් තිබුනේ නෑනේ ඉතිං නිදාගෙන ඉන්න කොට වහලය දෙදරන්න ගත්තා බල්ලෝ බිරුවා විනඩි කීපයක් තිබුනා උදේ තමයි දන්නේ භූකම්පනයක් කියලා." යනුවෙනි.
+The bunks said that the earthquake is notes in Pallakatale, Mahakarawa and Hakmana.
+
+"When we were going to bed at night, the roof of our roof was about 3 windies, it was about 3 windies.
+
+We didn't even ask about an earthquake on earth when he was sleeping, the roof was a few winters. ".
 
 ◼️
 
 [Data](articles/54eff1e2.json)
+
+[Extended Data](ext_articles/54eff1e2.ext.json)
 
 ---
 
@@ -2281,33 +2303,5 @@ President Ranil Wickremesinghe made this statement during a special speech deliv
 [Data](articles/0fe20661.json)
 
 [Extended Data](ext_articles/0fe20661.ext.json)
-
----
-
-### No decision to be damaged in Buddhism
-
-*2024-06-18 19:23:52* · [`adalk`](https://www.ada.lk/breaking_news/බුදු-දහමේ-පැවැත්මට-හානි-වන-කිසිඳු-තීරණයක්-පිළි-ගන්නේ-නැහැ/11-410303) · `si`
-
-In a speech, President Ranil Wickremesinghe reaffirmed Sri Lanka's commitment to gender equality, aligning with international standards. He stressed that no decisions would harm Buddhism, emphasizing the government's dedication to ensuring women's rights, as outlined in various international agreements. Despite the Supreme Court's stance, he pledged to pursue equality, assuring that neither the judiciary nor any other institution could deter this objective.
-
-🟩
-
-Founded that the organizations of international women's organizations included in all the agreements of international women's organizations that women should have the same rights as men should have the same rights.
-
-The government's objective is to provide women with equal rights to women in Sri Lanka.
-
-The President emphasized that the government does not accept any decision that will damage the survival of Buddhism.
-
-President Ranil Wickremesinghe addressing the event at Sirikotha today (18) this morning for the awarding letters to the appointment of the UNP organizations under the new reorganization of the UNP.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-I am glad to participate in the appointment letters to the new Zone Organizer for the new Zone Organizer for the New Zone Organizer for the New Zone Organizer.
-
-...
-
-[Data](articles/4a0c3de4.json)
-
-[Extended Data](ext_articles/4a0c3de4.ext.json)
 
 ---

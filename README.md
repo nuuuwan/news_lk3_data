@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 15:53:39**
+As of **2024-06-19 16:06:26**
 
 ## Newspaper Stats
 
-*Scraped **31,123** Articles*
+*Scraped **31,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
-adalk | 2,712
+adalk | 2,714
 adaderanalk | 3,525
 tamilmirrorlk | 3,660
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,057
+adaderanasinhalalk | 5,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,123 (100.0%) of 31,123 articles have been extended.
+31,123 (100.0%) of 31,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### වාහන tune up දන්සලක්
+
+*2024-06-19 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197922) · `si`
+
+පොසොන් පොහොය නිමිත්තෙන් මෝටර් රථ ප්‍රවාහන කොමසාරිස් දෙපාර්තමේන්තුවෙන් වාහන සුසර කිරීමේ (tune up) දන්සැලක් අද (19) ආරම්භ කර තිබුණි.
+
+අද සහ හෙට (20) නාරාහෙන්පිට මෝටර් රථ ප්‍රවාහන  කොමසාරිස් දෙපාර්තමේන්තුව ඉදිරිපිටදී මෙය පැවැත්වෙයි.
+
+"මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ මහතා මෙම අවස්ථාවට එක්වෙමින් කියා සිටියේ, ශ්‍රී ලංකාවේ ඇති වාහනවලින් වැඩි ප්‍රමාණයක් ඇත්තේ යතුරුපැදි හා ත්‍රීරෝද රථ. ඔවුන්ගේ ආර්ථික තත්ත්වය අනුව ක්‍රමානුකූලව තම රථය සුසර කර ගැනීමට ඔවුන් උනන්දුවන්නේ නැහැ. එමගින් නිකුත් වන විෂ දුම පරිසරයට ඉතා හානි කරයි. ශ්‍රී ලංකාවේ සිටින ප්‍රවීණතම මෝටර් රථ අලුත්වැඩියා කරන්නන් යොදාගෙන මෙම වැඩසටහන සිදු කරනවා."
+
+◼️
+
+[Data](articles/242d129e.json)
+
+---
 
 ### Several students injured as school bus collides head-on with private bus
 
@@ -184,6 +200,22 @@ In this case, Natasha was released on bail on July 5 after filing a petition in 
 
 ---
 
+### වනිඳු පරාජයට හේතු කියයි
+
+*2024-06-19 14:37:54* · [`adalk`](https://www.ada.lk/sports/වනිඳු-පරාජයට-හේතු-කියයි/9-410313) · `si`
+
+කණ්ඩායමේ ක්‍රීඩකයින් අතින් සිදු වූ වැරදි සහ ඔවුන් හරියට ක්‍රීඩා නොකළ නිසා  විස්සයි විස්ස ලෝක කුසලාක ක්‍රිකට් තරගාවලියෙන් ඉවත් වීමට සිදු වූ බවත් තමන් කණ්ඩායමේ නායකයා සහ ක්‍රීඩකයෙකු වශයෙන් ඒ පිළිබඳව කනගාටු වන බවත් වනිදු හසරංග අද (19දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ වනිදු හසරංග මෙසේ ද පැවසීය.  "ක්‍රීඩකයින් විදිහට අපි දන්නවා අපි අතින් සිදු වූ වැරදි මොනවාද කියලා . අපි ක්‍රීඩකයෝ වශයෙන් හොදින් ක්‍රීඩා නොකළ නිසා , පිතිකරණය , පන්දු රැකීම සහ පන්දු යැවීම කණ්ඩායමක් වශයෙන් හොදින් සිදු නොකළ නිසා මේ ආකාරයට පරාජය වැළද ගැනීමට සිදු වුණා"
+
+ශ්‍රී ලංකා විස්සයි විස්ස ක්‍රිකට් කණ්ඩායම 06/19 දින උදෑසන 08.40 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+◼️
+
+[Data](articles/2f2ede30.json)
+
+---
+
 ### Dismissal
 
 *2024-06-19 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-சபைக்கு-எதிரான-தடையுத்தரவு-நீக்கம்/175-339130) · `ta`
@@ -223,6 +255,24 @@ When the cow went to build the cow last Sunday evening, the snake was tired. Nex
 [Data](articles/8e7af9f7.json)
 
 [Extended Data](ext_articles/8e7af9f7.ext.json)
+
+---
+
+### ලංකාවේ  පස්වනු අස්වනු නාස්තිය සියයට 15කින් පහළට
+
+*2024-06-19 14:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ--පස්වනු-අස්වනු-නාස්තිය-සියයට-15කින්-පහළට/11-410311) · `si`
+
+අස්වනු නෙලීමේ නව තාක්ෂණික ක්‍රම භාවිතය මෙන්ම ප්‍රවාහනයේ දී ප්ලාස්ටික් කූඩ යොදා ගැනීම හා ඇසුරුම් කිරීමේ දී හානි අවම වන අන්දමින් කටයුතු යෙදීම එළවළු හා පළතුරු පසු අස්වනු හානිය සියයට 25 දක්වා අඩුවී ඇතැයි කෘෂිකර්ම අමාත්‍යාංශය පවසයි.
+
+පළතුරු හා එළවළු වල පසු අස්වනු හානිය අවම කිරීම සඳහා නිර්දේශිත ක්‍රම භාවිතා නොකිරීම හේතුවෙන් පසු අස්වනු හානිය සියයට 40ක් තරම් ඉහළ මට්ටමක පැවැතියේය.
+
+බෝංචි පසු අස්වනු හානිය සියයට 40 සිට 23දක්වාත්,බණ්ඩක්කා සියයට 40 සිට සියයට 28, වම්බටු සියයට 30 සිට 20, ගෝවා සියයට 43 සිට 20, කැරට් සියයට 30 සිට 22, මාළු මිරිස් සියයට 40 සිට 25, මෑකරල් සියයට 40 සිට 20, අමු මිරිස් සියයට 40 සිට 19, කරවිළ සියයට 25 සිට 24, තක්කාලි සියයට 29 සිට 15 දක්වාත් පහළ ගොස් තිබේ.
+
+පලතුරු අතරින් වැඩිම පසු අස්වනු නාස්තිය සිදුව ඇගි ගස්ලබු පසු අස්වනු හානිය සියයට 46 සිට සියයට 19 දක්වාත්, පේර සියයට 40 සිට සියයට 20 දක්වාත් අවම වී ඇතැයි අමාත්‍යාංශය කියයි.
+
+◼️
+
+[Data](articles/e9bb6876.json)
 
 ---
 
@@ -2273,79 +2323,5 @@ Meanwhile. It is correct to strengthen biological women. But in that blanket it 
 [Data](articles/e1669e07.json)
 
 [Extended Data](ext_articles/e1669e07.ext.json)
-
----
-
-### Bribery to support opposition MPs
-
-*2024-06-19 01:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவான-எதிர்க்கட்சி-எம்-பிகளுக்கு-இலஞ்சம்/175-339104) · `ta`
-
-Opposition leader Lakshman Kiriella accuses the government of bribery towards certain opposition MPs, citing the allocation of funds as evidence. He questions the selective distribution, suggesting it undermines parliamentary diversity and implies favoritism towards specific parties.
-
-🟩
-
-United People's Power MP Lakshman Kiriella, the opposition chief minister, said that it is equivalent to bribing the opposition parties that only support the diversity of MPs in favor of the government.
-
-Lakshman Kiriella said this while addressing his views on the claim made by Independent Opposition Parliamentarian Dayasiri Jayasekara on diversity in Parliament on Tuesday (18).
-
-Diversity funds have not been given to opposition members in the past. We have often pointed out in this regard. But now the list has come. Some MPs have been paid 100 million rupees.
-
-This means that Faisal Qasim, Harris, Isad Rahman and Ali Sahir Maulana Akhiyar have been allocated 100 million rupees. 84 million rupees has been allocated to Rishad Bathiudin. It is not known why such care is given. Why is only one part of the opposition members?
-
-...
-
-[Data](articles/4064e495.json)
-
-[Extended Data](ext_articles/4064e495.ext.json)
-
----
-
-### Who decided to burn the Janasas?
-
-*2024-06-19 01:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்களை-எரிக்க-தீர்மானித்தவர்-யார்/175-339103) · `ta`
-
-Opposition leader Sajith Premadasa criticized the government for appointing specialists to cremate COVID-19 victims, labeling it a discriminatory act against Muslims. He urged the president to prevent such decisions in the future, emphasizing the violation of fundamental rights and racial discrimination.
-
-🟩
-
-Opposition Leader Sajith Premadasa appealed to the president to take action against them and take action against the Muslims, who have decided to burn those who have died in the Corona infection.
-
-In a special speech delivered by the President in Parliament on Tuesday (18), he added that the new legislation would take action to avoid such erroneous resolutions in the future, such as the decision to burn the bodies of the dead in the Corona infection.
-
-The government's appointment of a group of specialist experts to burn the bodies of the dead in the Corona is the worst communal act of targeting Muslims in political history.. The government's decision to burn as the World Health Organization said it could be buried in the coronary infection.
-
-...
-
-[Data](articles/64cc1033.json)
-
-[Extended Data](ext_articles/64cc1033.ext.json)
-
----
-
-### Ranil's partner of sin burning Janasas
-
-*2024-06-19 01:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்களை-எரித்த-பாவத்தின்-பங்காளி-ரணில்/175-339102) · `ta`
-
-Mujibur Rahman criticizes President Ranil Wickremesinghe for aligning with the previous government's controversial policy of cremating Muslim COVID-19 victims against WHO guidelines. He mentions a parliamentary statement urging a committee to allow burial practices, which were ignored, leading to backlash from the Muslim community.
-
-🟩
-
-United People's Power MP Mujibur Rahman said that the current President Ranil Wickremesinghe has become a partner of the sin of the Gotabhaya Rajapaksa -led government led by the PA, who cremated the Janasas of the Muslims who died in the influence of Corona.
-
-He further stated that he made a special claim in Parliament on Tuesday (18).
-
-The President had spoken about the cremation of the bodies of the casualties of the Corona.
-
-We repeatedly urged the then President Gotabhaya Rajapaksa not to cremate the Janasas of the Muslims who died in the impact of the Coronapper, and to make a good advice.
-
-Do not believe in these groups. Therefore, we reiterated the then President to appoint a committee comprising departmental experts.
-
-The committee submitted that the bodies could be buried in accordance with the security instructions proposed by the International Health Organization.
-
-...
-
-[Data](articles/359340dc.json)
-
-[Extended Data](ext_articles/359340dc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 22:34:37**
+As of **2024-06-19 22:53:10**
 
 ## Newspaper Stats
 
-*Scraped **31,170** Articles*
+*Scraped **31,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,798
 dailyftlk | 1,899
-adalk | 2,722
-adaderanalk | 3,533
+adalk | 2,723
+adaderanalk | 3,534
 tamilmirrorlk | 3,664
 dailymirrorlk | 4,733
 virakesarilk | 4,808
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,170 (100.0%) of 31,170 articles have been extended.
+31,170 (100.0%) of 31,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Sri Lanka urged to safeguard judicial independence and transparency of legal institutions
+
+*2024-06-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99977/sri-lanka-urged-to-safeguard-judicial-independence-and-transparency-of-legal-institutions) · `en`
+
+The Core Group on Sri Lanka at the UN Human Rights Council (UNHRC) today urged the government to ensure that transitional justice mechanisms are independent, inclusive, impartial, transparent, and that they meet the expectations of affected communities.
+
+The Sri Lanka Core Group statement at the UNHRC in Geneva was delivered by the UK’s Human Rights Ambassador, Rita French on behalf of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom and the United States.
+
+Thanking the UN High Commissioner for Human Rights, Volker Türk for his recent report on accountability for enforced disappearances in Sri Lanka, the Core Group claimed it highlights longstanding impunity for human rights violations.
+
+“We call on the government to engage with its recommendations to address the suffering caused by enforced disappearances and its impact on all communities.”
+
+...
+
+[Data](articles/a8821ab2.json)
+
+---
 
 ### MoU signs the MoU of the Plan to develop
 
@@ -227,6 +245,20 @@ The visit will add momentum to connectivity projects and other mutually benefici
 [Data](articles/33708335.json)
 
 [Extended Data](ext_articles/33708335.ext.json)
+
+---
+
+### හිරුණිකාට එරෙහි නඩුවක තීන්දුවක් 28දා ප්‍රකාශයට
+
+*2024-06-19 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහි-නඩුවක-තීන්දුවක්-28දා-ප්‍රකාශයට/11-410324) · `si`
+
+දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳ සැලක සේවය කළ තරුණයෙකු පැහැරගෙන ගොස් පහර දී සාපරාධී ලෙස බිය ගන්වන ලදැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට එරෙහිව පවරා ඇති නඩුවේ තීන්දුව ලබන 28 වැනිදා ප්‍රකාශයට පත් කිරීමට කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා අද (19දා) තීරණය කළේය.දීර්ඝ නඩු විභාගයකින් අනතුරුව නඩුවේ තීන්දුව ප්‍රකාශයට පත් කිරීමට විනිසුරුවරයා තීරණය කළේය.
+
+2015 වසරේ දෙසැම්බර් මස 21 වැනිදා හෝ ඊට ආසන්න දිනයක දෙමටගොඩදී අමිල ප්‍රියංග අමරසිංහ නමැත්තා අයුතු ලෙස සිරකිරීමේ අදහසින් පැහැරගැනීමට කුමන්ත්‍රණය කිරීම, අමරසිංහ නමැත්තා අයුතු ලෙස සිරකිරීම පොදු අරමුණ කරගත් නීතිවිරෝධී රැස්වීමක සාමාජිකයන් ලෙස කටයුතු කිරීම, එලෙස කටයුතු කරමින් ඔහු පැහැරගෙන යෑම, ඒ සඳහා ආධාර අනුබල දීම, සාපරාධී බලහත්කාරය පෑම, අඩන්තේට්ටම් කිරීම, සාපරාධී ලෙස බියගැන්වීම ඇතුළු චෝදනා 29ක් යටතේ නීතිපතිවරයා විසින් විත්තිකරුවන්ට එරෙහිව මෙම නඩුව පවරා ඇත.
+
+...
+
+[Data](articles/2065d108.json)
 
 ---
 
@@ -2347,61 +2379,5 @@ The Parliamentary Council has started its session, focusing on legislative discu
 [Data](articles/6ac27e75.json)
 
 [Extended Data](ext_articles/6ac27e75.ext.json)
-
----
-
-### The world's most valuable company
-
-*2024-06-19 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197909) · `si`
-
-NVIDIA became the world's most valuable company after its stock surged 35% to $136 per share, surpassing Apple's value. This increase is attributed to the high demand for NVIDIA's AI-focused computer chips. The company's market cap reached $3.34 trillion, marking a significant milestone in the tech industry.
-
-🟩
-
-NVIDIA has reportedly elected to the world's most valuable company.
-
-Its share value was recorded in history yesterday (18).
-
-The company's part of the company increased by 35% yesterday and the value was $ 136.
-
-At the beginning of this month, NVIDIA surpassed the value of Apple.
-
-The necessary computer chip NVIDIA is manufactured by the computer Chip NVIDIA for artificial intelligence.
-
-The demand for its products is increasing rapidly.
-
-The current value of that company is mentioned 3.34 trillion.
-
-◼️
-
-[Data](articles/5018740b.json)
-
-[Extended Data](ext_articles/5018740b.ext.json)
-
----
-
-### It is possible to increase the rain from today
-
-*2024-06-19 09:15:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்-சாத்தியம்/175-339111) · `ta`
-
-The Department of Meteorology predicts increased rainfall starting today, especially in the Western, Sabaragamuwa, North Western Provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Maximum rainfall could reach 75mm in some areas. Thundershowers or thunderstorms are expected in the Eastern and Uva provinces during evenings or nights. Strong winds up to 40-50 km/h may occur in certain regions.
-
-🟩
-
-The Department of Meteorology has predicted that the rainy situation is likely to increase slightly in the next few days from today (19).
-
-Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Rainfall is likely to experience a maximum of 75 mm in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the Eastern and Uva provinces, some places in the evening or night are likely to experience thundershowers or thunderstorms.
-
-Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/0e6cd574.json)
-
-[Extended Data](ext_articles/0e6cd574.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 21:04:25**
+As of **2024-06-19 21:19:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,163 (100.0%) of 31,164 articles have been extended.
+31,164 (100.0%) of 31,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### තැපැල් ස්ථානයේ සිදුකළ ගුටි කෙළිය
+### Beaten in the postal place
 
 *2024-06-19 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197932) · `si`
 
-පානදුර තැපැල් ස්ථානාධිපතිවරයාට පහරදීමේ සිද්ධියක්  සම්බන්ධයෙන් එම තැපැල් කාර්යාලයේ සේවකයින් පස්දෙනෙකු  අද (19) අත්අඩංගුවට ගත් බව පානදුර දකුණ පොලීසිය පවසයි.
+Five post office employees were arrested for attacking their Paradura Post Master, based on a complaint from the Post Master's OIC, following a work-related dispute. They've been released on bail and referred to the Mediation Board.
 
-තැපැල් ස්ථානාධිපතිවරයා සහ පහරදීමට සම්බන්ධ පුද්ගලයන් කරන ලද පැමිණිලි මත එම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-පසුගියදා පැවැත්වූ වැඩවර්ජනයේදී සේවකයින් රාජකාරියට වාර්තා කිරීම සම්බන්ධයෙන් ඇතිවූ කතාබහක් මුල්කර ගනිමින් එම පහරදීම සිදුකර ඇති බවත් පොලීසිය පැවසීය.
+Five employees of the post office have been arrested today about five employees of the post office regarding the attack on the Paradura Post Master.
 
-සැකකරුවන් පොලිස් ඇපමත මුදාහැර ඇති අතර ඔවුන් සමථ මණ්ඩලය වෙත යොමුකළ බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+The suspects have been arrested on complaints made by the Post Master's OIC.
+
+The attack was carried out based on a conversation on duty in the recent strike, police said.
+
+The suspects have been released on police bail and have been sent to the Mediation Board, a senior police officer said.
 
 ◼️
 
 [Data](articles/79d3156f.json)
+
+[Extended Data](ext_articles/79d3156f.ext.json)
 
 ---
 

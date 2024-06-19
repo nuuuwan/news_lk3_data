@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 07:24:54**
+As of **2024-06-19 07:47:29**
 
 ## Newspaper Stats
 
-*Scraped **31,038** Articles*
+*Scraped **31,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ colombotelegraphcom | 283
 dbsjeyarajcom | 286
 bbccomsinhala | 303
 newsfirstlk | 363
-islandlk | 1,694
+islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
 adalk | 2,703
 adaderanalk | 3,515
-tamilmirrorlk | 3,646
+tamilmirrorlk | 3,648
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,038
+adaderanasinhalalk | 5,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,035 (100.0%) of 31,038 articles have been extended.
+31,035 (100.0%) of 31,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### ලබන 26 වනදා ගුරුවරු ලෙඩ වන බවට අනතුරු ඇඟවීමක්
+
+*2024-06-19 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197903) · `si`
+
+ලබන 26 වන දා ලෙඩ නිවාඩු වාර්තා කරමින් වෘත්තිය ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කර ඇති බව ලංකා ගුරු සංගමය පවසයි.
+
+එහි ප්‍රධාන ලේකම් ජෝසප් ස්ටාර්ලින් මහතා පැවසුවේ, පොරොන්දු වූ පරිදි ඉල්ලීම් ලබාදීමට පියවර නොගතහොත් සාමාන්‍ය පෙළ ඇගයීම් කටයුතුවලින් ද ඉවත් වීමට සිදුවන බවය.
+
+කෙසේ වෙතත් ආචාර්ය සුසිල් ප්‍රේමජයන්ත අමාත්‍යවරයා ඊයේ (18) පැවති උත්සවයකදී සඳහන් කළේ, වෘත්තීය ක්‍රියාමාර්ගවල ගුරුවරුන් නිරත වී සිටියත් වත්මන් සිසු පරපුර ඒ මත රැඳී නොසිට සිය අධ්‍යාපන අවශ්‍යතා සපුරාගනිමින් සිටින බවය.
+
+මේ අතර සිය වැටුප් ගැටලුව සම්බන්ධයෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව සමග පැවති සාකච්ඡා සුබවාදී බව විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුව පවසයි.
+
+එහි සම සභාපති ධම්මික ප්‍රියන්ත මහතා පැවසුවේ, වැටුප් ගැටලුවට නිසි විසඳුම් ලබාදීමට බලධාරීන්ට සතියක කාලයක් ලබාදෙන බවය.
+
+මේ අතර අද දිනයේ සිට විශ්වවිද්‍යාල ඉදිරිපිට අට්ටාල ගසමින් සත්‍යග්‍රහ ව්‍යාපාරයක් ආරම්භ කරන බව ද පැවසු ඒ මහතා විසඳුම් නොලැබුණහොත් සත්‍යග්‍රහ ව්‍යාපාරය කොළඹට ගෙන එ්මට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/80344d1e.json)
+
+---
+
+### ගෝඨාභයගේ නිවස අසල උද්ඝෝෂණය ගැන බුද්ධි තොරතුරු ලැබී නෑ
+
+*2024-06-19 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197902) · `si`
+
+2022 වසරේ අරගලය පැවති සමයේ මිරිහානේ පිහිටි හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පෞද්ගලික නිවස අසල පැවති උද්ඝෝෂණ හා කලහකාරී සිද්ධීන් සම්බන්ධයෙන් ඊට පෙර බුද්ධි තොරතුරු ලැබී නොතිබූ බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර තිබේ.
+
+එම උද්ඝෝෂණවලදී තමන්ම අත්අඩංගුවට ගැනීමට එරෙහිව අරගලකරුවන් පිරිසක් විසින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් ඊයේ (18)විභාගයට ගත් අවස්ථාවේදී  විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු යසන්ත කෝදාගොඩ මහතා මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මේ බව පැවසූ බව සඳහන්ය.
+
+මෙම පෙත්සම් ඊයේ විජිත් මලල්ගොඩ සහ යසන්ත කෝදාගොඩ යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගත් බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මුලින්ම අදාළ උද්ඝෝෂණය ආරම්භ වූ ආකාරය විස්තර කර තිබේ.
+
+...
+
+[Data](articles/5917de2f.json)
+
+---
+
+### வவுனியாவில் நிலநடுக்கம்
+
+*2024-06-19 07:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-நிலநடுக்கம்/175-339108) · `ta`
+
+- வவுனியாவில் இருந்து 23 கிலோமீற்றர் தொலைவில் நேற்றிரவு 2.3 ரிக்டர் அளவில் சிறிய நிலநடுக்கம் பதிவாகியுள்ளதாக புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகம் உறுதிப்படுத்தியுள்ளது.
+
+நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்ட பகுதி அனுராதபுரம் மாவட்டத்திற்கு உட்பட்டது.
+
+◼️
+
+[Data](articles/548998df.json)
+
+---
 
 ### අද සිට වැස්ස වැඩිවෙයි - ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
 
@@ -396,6 +450,24 @@ It is also expected that he will focus on the fields before the next presidentia
 
 ---
 
+### ஆயுர்வேத பட்டதாரிகளின் பயிற்சி ஆரம்பம்
+
+*2024-06-19 02:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுர்வேத-பட்டதாரிகளின்-பயிற்சி-ஆரம்பம்/175-339107) · `ta`
+
+நாட்டில் ஏற்பட்ட நெருக்கடி நிலை காரணமாக தடைப்பட்டிருந்த ஆயுர்வேத பட்டதாரிகளின் பயிற்சி மீண்டும் ஆரம்பிக்கப்பட்டுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சிசிர ஜயகொடி மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்.
+
+சுதேச வைத்திய அமைச்சு என்ற வகையில் நாம் இதுவரை பெரும் வெற்றியைப் பெற்றுள்ளோம். கடந்த காலங்களில் ஏற்பட்ட பல்வேறு நெருக்கடிகள் காரணமாக பல்கலைக்கழகங்களில் இருந்து சித்தியடைந்த ஆயுர்வேத பட்டதாரிகளின் தொழிற்பயிற்சி தாமதமானது. அதன்படி, ஜூன் 3 ஆம் திகதி முதல் ஆயுர்வேத, சித்த மற்றும் யூனானி பட்டதாரிகள் 207 பேருக்கு 67,500 ரூபாய் மாதாந்தக் கொடுப்பனவுடன் பயிற்சி ஆரம்பிக்கப்பட்டுள்ளது.
+
+மேலும் 153 பட்டதாரிகளுக்கான பயிற்சி ஆகஸ்ட் மாதம் 12 ஆம் திகதிக்குள் ஆரம்பிக்கப்படும். அதன்படி 418 பட்டதாரிகளுக்கு ஆயுர்வேத திணைக்களம் பயிற்சி அளித்து வருகிறது. இதற்காக அரசாங்கம் 320 மில்லியன் ரூபாயை செலவிடுகிறது.
+
+...
+
+[Data](articles/6eadbd46.json)
+
+---
+
 ### Tax tax on high income earners
 
 *2024-06-19 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186413) · `ta`
@@ -722,6 +794,48 @@ Senior Vice President of the Sri Lanka Freedom Party Professor Rohana Lakshman P
 
 ---
 
+### Swisstek Aluminium honored for Leadership Excellence at “Companies with Great Managers 2023” awards
+
+*2024-06-18 22:34:00* · [`islandlk`](http://island.lk/swisstek-aluminium-honored-for-leadership-excellence-at-companies-with-great-managers-2023-awards/) · `en`
+
+Swisstek Aluminium Limited, has been recognized for their outstanding managerial and leadership excellence at the “Companies With Great Managers 2023” awards organized by the Colombo Leadership Academy for Leadership Excellence. The “Companies with Great Managers Awards” is renowned for setting the benchmark for measuring managerial and leadership effectiveness and five of Swisstek Aluminium’s managers were duly honored at the prestigious event.
+
+...
+
+[Data](articles/0a0ab09c.json)
+
+---
+
+### Dipped Products unveils the worlds-first purpose built EVPRO glove for electric vehicle industry
+
+*2024-06-18 22:33:00* · [`islandlk`](http://island.lk/dipped-products-unveils-the-worlds-first-purpose-built-evpro-glove-for-electric-vehicle-industry/) · `en`
+
+R&D Drives Innovations for Niche Premium Export Markets at Hayleys Group Hand Protection Sector
+
+Dipped Products PLC (DPL), a global leader in sustainable, premium glove manufacturing and member of the Hayleys Group, announced the launch of the EVPRO Glove – the first ever product specifically engineered to meet the unique hand protection requirements of Electric Vehicle (EV) professionals.
+
+Offering unmatched safety and mobility for electrical engineers, the EVPRO Glove provides crucial protection against electric shock during the handling and maintenance of electrical vehicles.
+
+...
+
+[Data](articles/ff0f0f1c.json)
+
+---
+
+### Advocata Institute celebrates eight years of advocacy
+
+*2024-06-18 22:30:00* · [`islandlk`](http://island.lk/advocata-institute-celebrates-eight-years-of-advocacy/) · `en`
+
+The Advocata Institute marks its eighth anniversary, celebrating years of impactful advocacy for economic freedom and policy reform in Sri Lanka. Founded in 2016, Advocata has become a beacon for evidence-based policy research and reform initiatives.
+
+Advocata’s eighth-year anniversary coincided with the institute moving its office to a new location to accommodate its growing staff strength especially in the discipline of economic research which is a key for formulating evidence-based policies.
+
+...
+
+[Data](articles/ab243118.json)
+
+---
+
 ### President affirms govt’s unwavering commitment to advance women’s rights
 
 *2024-06-18 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99957/president-affirms-govts-unwavering-commitment-to-advance-womens-rights) · `en`
@@ -743,6 +857,22 @@ President Ranil Wickremesinghe made these remarks during his address at the cere
 [Data](articles/5f8c5ceb.json)
 
 [Extended Data](ext_articles/5f8c5ceb.ext.json)
+
+---
+
+### IMF tax recommendations bring bourse down low
+
+*2024-06-18 22:23:00* · [`islandlk`](http://island.lk/imf-tax-recommendations-bring-bourse-down-low/) · `en`
+
+CSE activities were down yesterday due to new taxes having been recommended by the IMF, which would likely come into force after the November budget. Besides, negotiations with private creditors on the debt restructuring exercise are yet to commence, market analysts said.
+
+However, the government expects to sign a Memorandum of Understanding with bilateral creditors on the debt restructuring exercise during the course of June as part of the IMF recommendations.
+
+Due to political uncertainties market activities were dull coupled with the impact of short trading days this month. Amid those developments both indices moved downwards. The All Share Price Index went down by 50.25 points while S and P SL20 declined by 24.6 points. Turnover stood at Rs 1.85 billion with four crossings.
+
+...
+
+[Data](articles/30e9ce44.json)
 
 ---
 
@@ -2181,219 +2311,5 @@ Speaking about this, Priyanka Gandhi said, “I have a very long relationship wi
 [Data](articles/ce90673f.json)
 
 [Extended Data](ext_articles/ce90673f.ext.json)
-
----
-
-### Thailand passes landmark bill recognising marriage equality
-
-*2024-06-18 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99947/-thailand-passes-landmark-bill-recognising-marriage-equality) · `en`
-
-Thailand’s Senate passed the final reading of a marriage equality law on Tuesday, paving the way for the country to become the third territory in Asia to recognise same-sex couples after Nepal and Taiwan.
-
-The law gained the support of nearly all upper house lawmakers and will be sent to the palace for royal approval. The law will come into force 120 days after it is published in the royal gazette.
-
-LGBTQ+ advocates called the move a “monumental step forward” as it would make Thailand the first country in Southeast Asia to enact marriage equality legislation.
-
-Thailand is already known for its vibrant LGBTQ+ culture and tolerance, making it a popular destination for tourists.
-
-“This would underscore Thailand’s leadership in the region in promoting human rights and gender equality,” the Civil Society Commission of marriage equality, activists and LGBTI+ couples said.
-
-...
-
-[Data](articles/8ea8bb41.json)
-
-[Extended Data](ext_articles/8ea8bb41.ext.json)
-
----
-
-### Sri Lanka’s Ceylon Chamber links up with Gujarat Chamber
-
-*2024-06-18 13:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-chamber-links-up-with-gujarat-chamber-168559/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has signed an agreement with the Southern Gujarat Chamber of Commerce and Industry (SGCCI) to increase trade cooperation between India and Sri Lanka.
-
-The MOU was signed by CCC CEO Buwanekabahu Perera, SGCCI President Ramesh Vaghasia, in the presence of Dr Valsan Vethody, Consul General for Sri Lanka in Mumbai, India.
-
-“With the signing of the MoU, … the Ceylon Chamber of Commerce and SGCCI aim to facilitate trade between the two countries via initiatives such as trade fairs and delegations, business networking events, training programmes,” the Ceylon Chamber said in a statement.
-
-“This partnership will open doors for Sri Lankan businesses to explore opportunities in Surat’s dynamic market and enable the sharing of expertise and resources between the two regions.”
-
-...
-
-[Data](articles/acd31a7e.json)
-
-[Extended Data](ext_articles/acd31a7e.ext.json)
-
----
-
-### A non-boycotting teachers
-
-*2024-06-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197883) · `si`
-
-At a school art competition, Education Minister Dr. Susil Premajayantha noted students' engagement but highlighted the need for digitalization and skill development in education to adapt to the evolving knowledge society. He stressed the importance of teachers acquiring new skills to meet student needs, indicating significant changes in education within a few years.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha said that the current students were engaged in the same slogan and lay down the sick and sick.
-
-The Minister made this observation at the Gift Granting School Poster Art Competition held at Gothami Girls' Vidyalaya in Colombo.
-
-The Minister further stated that this is not the key to the reality of the new trends of the changing knowledge society.
-
-The Minister said that the entire subject lessons would be taught to children from one place to digitalize all schools and taking into a network.
-
-Mr. Susil Premajayantha said that teachers should be effective in achieving the skills of the new knowledge and to meet the skills of the students.
-
-The Minister emphasized here that it is a result of the change in the changing world and education and that it is not more than a few more years.
-
-◼️
-
-[Data](articles/051a7224.json)
-
-[Extended Data](ext_articles/051a7224.ext.json)
-
----
-
-### Sajoba and the Pohot beat composed
-
-*2024-06-18 13:25:23* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-හා-පොහොට්ටුව-එක්ව-මාලිමාව-පරදයි/11-410289) · `si`
-
-In a recent election held by the Sri Lanka Filling Front, the General Assembly of Sri Lanka selected a new board of directors for the Thalathuoya Maraza. Seven members were chosen from four candidates aged between 18 and 38. The voting process involved 94 eligible public representatives, all of whom cast their votes except one. Interestingly, the national population's team did not elect any member for the board, while the Society Force members, who were educated, supported the Sri Lanka Civil Appointment.
-
-🟩
-
-The group presented by the Sri Lanka Filling Front was won by the General Assembly of Sri Lanka (16) at the last 10 pm to select a new board of directors for the Thalathuoya Maraza.
-
-Seven members were selected for the board of directors and seven members were elected by the team of the General Filling.
-
-Four candidates competed in the category between ten persons and Thirty-eight years and thirty-eight years.
-
-Thusitha Samarakan Chandra Kasthuriarachchi. Priyantha Kumara Saddhatissa Dasanayake and Samanjaya Senanayake and Amandah Karunathilaka were elected to the age of 18 to 35 years.
-
-Ninety-four public representatives were eligible to vote and ninety-three were voted.
-
-The national population also presented a team and did not elected for anyone or the board of directors.
-
-Members of the Society Force were not uneducated and they voted for the victory of the Sri Lanka Civil Appointment.
-
-◼️
-
-[Data](articles/09efafb8.json)
-
-[Extended Data](ext_articles/09efafb8.ext.json)
-
----
-
-### Shiva worship amidst surveillance of police investigators at Kurundurmalai
-
-*2024-06-18 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186363) · `ta`
-
-A Shiva worship ceremony took place under police and military surveillance at the Kurundurmalai Adivasivan Iyanar Temple in Mullaitivu, attended by several dignitaries and local officials.
-
-🟩
-
-Shiva worship was held on Tuesday (18) amidst the surveillance of police and military investigators at the Kurundurmalai Adivasivan Iyanar Temple.
-
-Adisivan Iyanar Temple, located in the Kurundurmalai area in the village of Kumazhunai, Mullaitivu. Many people, including the temple administrators, were engaged in the worship of Lord Shiva at 10 am today.
-
-Former Northern Provincial Council Member Durairasa Ravikaran, former Northern Provincial Agriculture Minister Kandaya Sivanesan, Democratic Tamil National Alliance (TNA) Mullaitivu District Coordinator Gnan Udson, Karaduraipattu Pradeshiya Sabha member E. Jegadheesan and many other policemen were present at the witchcraft.
-
-◼️
-
-[Data](articles/2bb9fa58.json)
-
-[Extended Data](ext_articles/2bb9fa58.ext.json)
-
----
-
-### The fetus for the fetus
-
-*2024-06-18 13:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசுவுக்கு-எமனான-சித்திரை/175-339075) · `ta`
-
-A grandfather was arrested for allegedly drowning his granddaughter, fearing the newborn would bring financial hardship and danger to the family. The incident occurred in a village near Ariyalur district, where the baby's body was found in a bathroom. The police investigation revealed the child was drowned, leading to the arrest.
-
-🟩
-
-The grandfather of the child was arrested for allegedly drowning the baby in the water, as some claimed that the family was a danger to the family.
-
-Sangeetha, daughter of Veeramuthu from North Wellakar Street, Udkottai village next to Jayankondam in Ariyalur district. He and Balamurugan, 29, from Sundara Perumalkovil village next to Kumbakonam, got married a year ago.
-
-The last month of the month of the month of Sangita was born with her father's house with the child.
-
-In this case, Sangeetha's baby was found dead in the bathroom in the early hours of the morning.. Informed Jayankondam police went there and investigated the family.
-
-In this case, it was revealed that the child was drowned in the water. He was subsequently arrested by the police.
-
-The police said: Some people have told Veeramuthu that the birth of a child of the month of Chitta is not for both maternal and father -in -law, and that the life of the parents or grandfather will be at risk.
-
-...
-
-[Data](articles/c3c01071.json)
-
-[Extended Data](ext_articles/c3c01071.ext.json)
-
----
-
-### Water cut in Colombo 85,000
-
-*2024-06-18 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197882) · `si`
-
-In Colombo 85,000, a water cut occurred due to a massive leak in the main pipe from Kalatuwawa Water Treatment to Maharagama. Repairs were completed around 4 am but affected areas like Godagama, Homagama, Pannipitiya, Pelanwatta, and Mattigegoda still faced issues.
-
-🟩
-
-The National Water Supply and Drainage Board stated that the repairs of the main pipe to Maharagama from the Kalatuwawa Water Treatment of Maharagama have been completed.
-
-However, it is largely about 6 pm today.
-
-From the main transmission tube carrying water from the Kalatuwawa Water Timber, the High level route was hit by the Hylpele road in the Godagama area.
-
-A massive water leak was caused by the explosion of the pipe.
-
-The National Water Supply and Drainage Board yesterday took steps to stop the water supply of water from the Kalatuwawa to the water leak and commenced the renovation work.
-
-As a result, water supply was favored by Godagama, Homagama, Pannipitiya, Pelanwatta and Mattigegoda.
-
-The National Water Supply and Drainage Board stated that the repair work was completed by 4am this morning.
-
-However, the people of many areas have no longer received water supply.
-
-As a result, the people have been difficult to do not work.
-
-◼️
-
-[Data](articles/3d4fd684.json)
-
-[Extended Data](ext_articles/3d4fd684.ext.json)
-
----
-
-### Fire on Australian flight with 67 people: landing in New Zealand
-
-*2024-06-18 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186358) · `ta`
-
-A Virgin Australia flight from Queenstown, NZ, encountered an engine fire mid-air but managed a safe landing in Invercargill due to its design allowing it to land on one engine. Passengers reported seeing flames and hearing a loud noise, likely caused by a bird strike, as per the CEO of Queenstown Airport. Bird strikes are common, affecting about 4 flights out of every 10,000 in New Zealand.
-
-🟩
-
-An Australian -owned Virgin Australian plane departed in New Zealand after its engine caught fire.
-
-The Virgin Australian flight of Boeing 737-800 departed from Queenstown, New Zealand on Monday evening (17).
-
-Following this, the plane was safely landed safely at the airport in Invarkarkar, about 150 kilometers south of Queenstown.
-
-Travelers said they had seen flames coming from a machine and heard a loud noise.
-
-Glen Sowri, chief executive of Queenstown Airport, said that a bird was caught in the air machine.
-
-Planes are designed to suit the machine and land using only a machine.
-
-The country's Air Transport Regulatory Agency said on its website that 4 flights were attacked by birds during the New Zealand airports every 10,000 flights.
-
-◼️
-
-[Data](articles/e690b46c.json)
-
-[Extended Data](ext_articles/e690b46c.ext.json)
 
 ---

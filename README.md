@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 14:34:53**
+As of **2024-06-19 14:54:09**
 
 ## Newspaper Stats
 
-*Scraped **31,104** Articles*
+*Scraped **31,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
-adalk | 2,709
+adalk | 2,711
 adaderanalk | 3,523
-tamilmirrorlk | 3,657
+tamilmirrorlk | 3,659
 dailymirrorlk | 4,733
 virakesarilk | 4,792
 adaderanasinhalalk | 5,054
@@ -26,39 +26,67 @@ adaderanasinhalalk | 5,054
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,102 (100.0%) of 31,104 articles have been extended.
+31,104 (100.0%) of 31,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### මහ බැංකු වැටුප ගැන ආ කමිටු වාර්තාව
+### நிர்வாக சபைக்கு எதிரான தடையுத்தரவு நீக்கம்
+
+*2024-06-19 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-சபைக்கு-எதிரான-தடையுத்தரவு-நீக்கம்/175-339130) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் விசேட நிறைவேற்றுச் சபைக் கூட்டத்தை இன்று (19) பிற்பகல் 2.30க்கு கூட்டுவதைத் தடுக்கும் வகையில் இடைக்கால தடையுத்தரவை பிறப்பிக்குமாறு விடுக்கப்பட்ட கோரிக்கை நீதிமன்றத்தால் நிராகரிக்கப்பட்டுள்ளது.
+
+அமைச்சர் நிமல் சிறிபால டி சில்வா மற்றும் துமிந்த திஸாநாயக்க ஆகியோருக்கு தடை உத்தரவு பிறப்பிக்குமாறு கட்சியின் மூன்று உறுப்பினர்களின் கோரிக்கையையே கொழும்பு மேலதிக மாவட்ட நீதவான் திருமதி சாமரி வீரசூரிய  நிராகரித்துள்ளார்.
+
+கட்சியின் உப தலைவர் கீர்த்தி உடவத்த, மஹியங்கனை தொகுதி அமைப்பாளர் பி குணவர்தன மற்றும் கடுவெல தொகுதி அமைப்பாளர் ஹெக்டர் பெத்மகே ஆகியோரின் கோரிக்கையை நிராகரித்த மாவட்ட நீதவான், பிரதிவாதிகளுக்கு இடைக்கால தடையுத்தரவு அறிவித்தல் தொடர்பிலான  நோட்டீஸ் மாத்திரம் விநியோகித்தார்.
+
+...
+
+[Data](articles/031d46a3.json)
+
+---
+
+### Report of the Central Bank
 
 *2024-06-19 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197917) · `si`
 
-මහ බැංකු නිලධාරීන්ගේ වැටුප් වැඩි කරගැනීම සම්බන්ධයෙන් සොයා බැලීමට ජනාධිපතිවරයා පත්කළ කමිටුවේ වාර්තාව රජයේ මුදල් පිළිබඳ කාරක සභාව වෙත භාරදී තිබේ.
+The Central Bank salary investigation report, submitted to the Finance Committee, recommends increasing salaries. Dr. Harsha de Silva, the committee chairman, disclosed this to parliament.
 
-එම වාර්තාව ලැබුණු බව එහි සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා අද පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+🟩
 
-ඒ අනුව මෙලෙස වැටුප් වැඩිකර ගැනීමක් සිදුනොකළ යුතුව තිබු බවට අදාළ වාර්තාව මගින් පෙන්වා දී ඇතැයි ‍රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+The Government of the Committee appointed to investigate the salaries of the Central Bank has been handed over to the Committee on the Committee on Finance.
+
+Chairman of the report Dr. Harsha de Silva informed parliament today.
+
+According to the Chairman of the Committee on Public Finance, Dr. Harsha de Silva, said that the report had to increase the salary increase.
 
 ◼️
 
 [Data](articles/87636092.json)
 
+[Extended Data](ext_articles/87636092.ext.json)
+
 ---
 
-### නතාෂා සහ බෲනෝ නිදහස්
+### Natasha and Bruno released
 
 *2024-06-19 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197916) · `si`
 
-අන්තර්ජාලය ඔස්සේ ආගමික සමගියට බාධා කිරීම සහ වෛරය වැපිරවීම යන චෝදනා එල්ලවූ නතාෂා එදිරිසූරිය සහ බෲනෝ දිවාකරට එරෙහිව ගොනු කර තිබූ නඩුවෙන් ඔවුන්ව නිදහස් කර තිබේ.
+Natasha Edisuriya and Bruno, charged with disrupting religious harmony, have been acquitted by the Derana Court's Fort Magistrate.
 
-කොටුව මහෙස්ත්‍රාත් අධිකරණය විසින් එලෙස නඩුවෙන් නිදහස් කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
+
+Natasha Edisuriya and Bruno, who were accused of interrupting religious unity and hatred, has been released from the case filed against the alias.
+
+The Fort Magistrate was released by the Court of Derana.
 
 ◼️
 
 [Data](articles/4db3b847.json)
+
+[Extended Data](ext_articles/4db3b847.ext.json)
 
 ---
 
@@ -239,6 +267,26 @@ In 2023 alone, the postal sector lost 7,000 million.
 [Data](articles/c1a69fb8.json)
 
 [Extended Data](ext_articles/c1a69fb8.ext.json)
+
+---
+
+### எழுப்பியவர் மீது சுட முயற்சி
+
+*2024-06-19 12:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுப்பியவர்-மீது-சுட-முயற்சி/175-339127) · `ta`
+
+பொலிஸ் கான்ஸ்டபிள் ஒருவர் மீது துப்பாக்கி சூடு நடாத்த முயற்சித்த சம்பவம் தொடர்பில் பொலிஸ் உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+
+கஹதுடுவ பொலிஸ் நிலையத்தில் பணிபுரியும் 23 வயதுடைய பொலிஸ் உத்தியோகத்தர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+முறைப்பாடு பதிவு செய்வதற்காக, இரண்டு பேர் புதன்கிழமை (19) காலை 5.40 மணியளவில் கஹதுடுவ பொலிஸ் நிலையத்தி்ற்கு வந்த போது கடமையில் இருந்த பொலிஸ் உத்தியோகத்தர் தூங்கிக் கொண்டிருந்துள்ளார் .
+
+அப்போது கான்ஸ்டபிள் ஒருவர் சென்று தூங்கிக்கொண்டிருந்த அதிகாரியை எழுப்பியுள்ளார். இதனால் ஆத்திரமடைந்த பொலிஸ் உத்தியோகத்தர் கான்ஸ்டபிளை தகாத வார்த்தையில் திட்டி துப்பாக்கிச் சூட்டு நடாத்த முற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+மேலும், இச் சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்து வருவதாக தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/8d0419be.json)
 
 ---
 
@@ -558,6 +606,22 @@ The other officer has taken a pistol firearm with a pistol-fire weapon who has b
 
 ---
 
+### ඉන්දීය විදේශ අමාත්‍යවරයා හෙට 20 ලංකාවට
+
+*2024-06-19 10:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-විදේශ-අමාත්‍යවරයා-හෙට-20-ලංකාවට/11-410310) · `si`
+
+නිල සංචාරයක් සඳහා ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා හෙට (20) දිවයිනට පැමිණිමට නියමිතව ඇත.
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ ශ්‍රී ලංකා සංචාරයට පෙර, දෙරට අතර ක්‍රියාත්මක ව්‍යාපෘති සමාලෝචනය කිරීම සඳහා එම අමාත්‍ය වරයා දිවයිනට පැමිණෙන බව සඳහන් වෙයි.
+
+මෙහිදී ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ , අග්‍රාමාත්‍ය දිනේශ් ගුණවර්ධන ඇතුළු පිරිසක් හමුවීමට නියමිත බව වාර්ථා වෙයි.
+
+◼️
+
+[Data](articles/113a3956.json)
+
+---
+
 ### Over 7,700kg of electronic waste collected  from 11 districts
 
 *2024-06-19 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99962/over-7700kg-of-electronic-waste-collected-from-11-districts) · `en`
@@ -705,6 +769,20 @@ Putin, making his first trip to North Korea in 24 years, said in comments that a
 [Data](articles/4a3faa71.json)
 
 [Extended Data](ext_articles/4a3faa71.ext.json)
+
+---
+
+### මිනි කූපර් මෝටර් රථයක් ත්‍රි රෝද රථයක අංකයක් යොදා ලියාපදිංචි කරලා
+
+*2024-06-19 10:01:59* · [`adalk`](https://www.ada.lk/breaking_news/මිනි-කූපර්-මෝටර්-රථයක්-ත්‍රි-රෝද-රථයක-අංකයක්-යොදා-ලියාපදිංචි-කරලා/11-410307) · `si`
+
+රේගු බදු නොගෙවා මෙරටට ගෙන්වු ‘මීනී කූපර්” වර්ගයේ මෝටර් රථයක් ත්‍රීරෝද රථයක අංකයක් යොදා ලියාපදිංචි කර රජයට පාඩු කළැයි චෝදනා කරමින් ඉඩම් කොමසාරිස් ජනරාල්වරයා ඇතුළු මෝටර් රථවාහන ලියාපදිංචි කිරීමේ දෙපාර්තමෙන්තුවේ නිලධාරීන් පිරිසකට එරෙහිව අල්ලස් කොමිසම පවරා ඇති නඩුව සම්බන්ධයෙන් ගන්නා ක්‍රියාමාර්ග ලබන ජුලි 29 වැනිදා දැනුම් දෙන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අල්ලස් කොමිසමට ඊයේ (18) දැනුම් දුන්නේය.
+
+ශ්‍රේෂ්ඨාධිකරණය දුන් නියෝගය පුළුල්ව අධ්‍යනය කර අධිචෝදනා පත්‍රය ඉල්ලා අස්කරගෙන විත්තිකරුවන්ට එරෙහිව නව චෝදනා පත්‍රයක් ගොනු කරන්නේද? නැද්ද? යන කරුණු ඉදිරියේදී මහාධිකරණයට දැනුම් දෙන බව අල්ලස් කොමිසමේ සහකාර අධ්‍යක්‍ෂක අනූෂා සම්මන්දප්පෙරුම මහත්මිය කළ දැනුම් දීමක් සළකා බැලීමෙන් අනතුරුව මහාධිකරණය විනිසුරුවරයා එලෙස  දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/8366d393.json)
 
 ---
 
@@ -2205,101 +2283,5 @@ The water and cargo and goods and stationery motorbikes provided by the road hav
 [Data](articles/e4288df4.json)
 
 [Extended Data](ext_articles/e4288df4.ext.json)
-
----
-
-### Japan reports record spike in flesh-eating bacterial infections
-
-*2024-06-18 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99955/japan-reports-record-spike-in-flesh-eating-bacterial-infections) · `en`
-
-Japan has seen cases of Streptococcal Toxic Shock Syndrome (STSS) surpass 1,000 in 2024, the National Institute of Infectious Diseases (NIID) reported on June 18.
-
-As at June 9, the preliminary number of cases in the country since the beginning of this year reached 1,019, data from the NIID showed, marking a significant increase in the spread of this severe bacterial infection compared to previous years.
-
-STSS, also known as severe invasive streptococcal infection, is a sudden-onset disease primarily caused by “Group A Streptococcus”.
-
-Initial symptoms typically include sore throat, fever, loss of appetite, diarrhoea, vomiting, and other gastrointestinal issues, as well as septic symptoms like low blood pressure.
-
-If not treated promptly, it can lead to soft tissue damage, respiratory failure, liver failure, kidney failure, and multi-organ failure, with a mortality rate exceeding 30 per cent.
-
-...
-
-[Data](articles/5d688469.json)
-
-[Extended Data](ext_articles/5d688469.ext.json)
-
----
-
-### The exegerage power empowers 69 point in Nugegoda
-
-*2024-06-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197896) · `si`
-
-A rally led by Ananda Samarakoon in Nugegoda aimed to empower 69 points, drawing attention to issues like the proposed Ranil Wickremesinghe Valley Bridge. Participants included MPs Udaya Gammanpila and Vasudeva Nanayakkara, along with entrepreneur Dilith Jayaweera. The event emphasized the need for Sri Lanka to transform into an entrepreneurial state, highlighting its significance beyond traditional politics.
-
-🟩
-
-Ananda Samarakoon was held at Ananda Samarakoon in the outdoor Theater, Nugegoda today (18).
-
-The rally was opened at 2 pm today at the end of Sri Lanka '' '' ''65 people' hopes.
-
-To participate in the meeting, the security parties representing the authentic power had reached Nugegoda.
-
-Member of Parliamentarian Udaya Gammanpila, the Democratic Left Front of the National Freedom Left Front of the Nugegoda wetland, and MP Vasudeva Nanayakkara leads MP from Kohuwala junction from Kohuwala Junction.
-
-The People's Party (People's Party) led by entrepreneral Dilith Jayaweera, the People's Party, was married to the rally from Stanley Tillakaratne Mawatha.
-
-"When you build Ranil Wickremesinghe Valley Bridge, we cannot be silent. This country cannot fall this way. We are only different in this politics. This is not a traditional political meeting. This country should become an entrepreneurship state. There is no other way. "
-
-◼️
-
-[Data](articles/e20649e1.json)
-
-[Extended Data](ext_articles/e20649e1.ext.json)
-
----
-
-### Central banks expect to increase gold reserves after buying 1,037 tonnes in 2023: Survey
-
-*2024-06-18 20:36:00* · [`economynextcom`](https://economynext.com/central-banks-expect-to-increase-gold-reserves-after-buying-1037-tonnes-in-2023-survey-168623/) · `en`
-
-ECONOMYNEXT – About 29 percent of central banks in the world intended to increase their gold reserves in 2023, up from 24 percent in 2023 and just 8 percent in 2019, a survey by the World Gold Council showed.
-
-“The planned purchases are chiefly motivated by a desire to rebalance to a more preferred strategic level of gold holdings, domestic gold production, and financial market concerns including higher crisis risks and rising inflation,” the WGC said.
-
-About 81 percent of 70 central banks that responded to the survey expected global central bank holdings of gold to go up, from 71 percent in 2023.
-
-While in prior years, gold’s “historical position” was the top reason for central banks to hold gold, this factor dropped significantly to number five this year.
-
-This year, the top reason for central banks to hold gold is “long-term store of value / inflation hedge” (88%), followed by “performance during times of crisis” (82%), “effective portfolio diversifier” (75%) and “no default risk” (72%).
-
-...
-
-[Data](articles/5cb1f1fa.json)
-
-[Extended Data](ext_articles/5cb1f1fa.ext.json)
-
----
-
-### President's opinion of gender equality bill
-
-*2024-06-18 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197895) · `si`
-
-President Ranil Wickremesinghe suggested forming a Select Committee to address concerns about the Gender Equality Bill, emphasizing its alignment with national policies and international commitments. He highlighted the importance of women's empowerment and clarified that the bill does not pertain to same-sex marriages.
-
-🟩
-
-President Ranil Wickremesinghe was warmly arguing after commenting in parliament today (18) regarding the social equality bill.
-
-President - "Did you publish the decision of the gender equality bill?"
-
-President - "Opposition of the Gelendy Equality Bill?
-
-President - "It was read by you. I need to refer to a ruled question. According to the 4th Amendment, this will violate the powers of this House. We must appoint a Select Committee on it. Since 2011, women empower women and a national policy on gender equality. These are the responsibilities of the government and agreements with the Sustainable Development Goals and women who have signed.. Some say these will allow Samarisi marriage and is a matter of it. This has nothing to do with. I recommend that we should appoint a Select Committee. Judges should not be called. We don't have that far. The majority of its members should be appointed by the Women's Political Board. "
-
-◼️
-
-[Data](articles/01451afb.json)
-
-[Extended Data](ext_articles/01451afb.ext.json)
 
 ---

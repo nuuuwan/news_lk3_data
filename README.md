@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 15:34:50**
+As of **2024-06-19 15:53:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,118 (100.0%) of 31,123 articles have been extended.
+31,123 (100.0%) of 31,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,51 +46,71 @@ Police said the injured passengers have been admitted to the Nawagamuwa Hospital
 
 [Data](articles/a4ec2e1f.json)
 
+[Extended Data](ext_articles/a4ec2e1f.ext.json)
+
 ---
 
-### කෙහෙළියට තවත් ලෙඩක්
+### More sickness to the Keheliya
 
 *2024-06-19 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197920) · `si`
 
-දැනට රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ට එරෙහිව ලැබුණු පැමිණිල්ලක් මත විමර්ශනයක් ආරම්භ කළ බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
+An investigation has begun against former Health Minister Keheliya Rambukwella, who was recently remanded. The probe follows a complaint alleging misuse of two ministry vehicles during his tenure.
 
-ඔහු අමාත්‍යවරයා වශයෙන් කටයුතු කරමින් සිටි සමයේ එම අමාත්‍යංශය මගින් නිකුත්කර තිබූ නිල රථ දෙකක් ඔහුට අමාත්‍ය ධුරය අහිමිවීමෙන් පසුව ඒවා නැවත භාර නොදී අවභාවිත කරන බවට සිවිල් පුරවැසියෙක් කරන ලද පැමිණිල්ලක් මත එම විමර්ශනය ආරම්භ කර තිබේ.
+🟩
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව නිකුත්කළ සම්පූර්ණ නිවේදනය පහතින් දැක්වෙයි....
+A investigation has been launched on a complaint against former Health Minister Keheliya Rambukwella has already been remanded.
+
+The investigation has commenced on a complaint made by a civil citizen by a civil citizen that two official vehicles were issued by the Ministry during his dealings as the Minister.
+
+The full announcement issued by the Commission of Bribery or Corruption Commission states ....
 
 ◼️
 
 [Data](articles/493da22a.json)
 
+[Extended Data](ext_articles/493da22a.ext.json)
+
 ---
 
-### රනාලේ අනතුරකින් පාසල් ළමුන් රැසක් රෝහල්ගත කෙරේ
+### School children were hospitalized following gold
 
 *2024-06-19 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197919) · `si`
 
-පෞද්ගලික බස් රථයක් සහ සිසු සැරිය බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් කඩුවෙල රනාල ප්‍රදේශයේදී අද (19) අනතුරක් සිදුවී තිබේ.
+In Kaduwela Randala, a collision between a private bus carrying students from Colombo to Dembatalawa and another bus in Embilipitiya resulted in schoolchildren being hospitalized.
 
-කොළඹ සිට ලඹුගමුව දක්වා සිසුන් ප්‍රවාහනය කළ සිසු සැරියක් සහ ඇඹිලිපිටියේ සිටි කොළඹ බලා ධාවනය වූ පෞද්ගලික බස් රථයක් මෙලෙස මුහුණට මුහුණ ගැටී ඇත.
+🟩
+
+A private bus and a student searcher and a student searcher conflicted in the Kaduwela Randala area.
+
+A private bus, which was transporting students from Colombo to Dembagala, a private bus traveling in Embilipitiya was collided with the face.
 
 ◼️
 
 [Data](articles/71441639.json)
 
+[Extended Data](ext_articles/71441639.ext.json)
+
 ---
 
-### பாலினத்தை மாற்ற விரும்பும் எம்.பிக்கள்
+### MPs who want to change the gender
 
 *2024-06-19 15:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலினத்தை-மாற்ற-விரும்பும்-எம்-பிக்கள்/175-339131) · `ta`
 
-பாலின சமத்துவ சட்டமூலம் பாலின சிகிச்சை மாற்று வியாபாரத்தை  ஊக்குவிப்பதால் இந்த சட்டமூலத்துக்கு ஆதரவாக  வாக்களிக்கும் ஆண் எம்.பி.க்கள்  பெண்களாகவும்,பெண் எம்.பி.க்கள் ஆண்களாகவும் மாற்றமடைவதற்கு  விரும்புகின்றார்கள் என்றே   கருதப்படுமென தேசிய சுதந்திர முன்னணியின்  தலைவரும்,  சுயாதீன எதிரணி எம்.பி.யுமான பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்.
+Wimal Weerawansa criticized male MPs supporting the Gender Equality Bill, suggesting they'd be perceived as converting to women. He argued against including non-binary genders in legal provisions aimed at female equality, emphasizing no need to oppose gender equality principles but opposing its current formulation.
 
-பாராளுமன்றத்தில் புதன்கிழமை (19)  பாலின சமத்துவ சட்டமூலம் தொடர்பில் சபையில் ஏற்பட்ட வாதப் பிரதிவாதத்தின் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-பாலின சமத்துவம் தொடர்பில் உயர்நீதிமன்றம் வழங்கிய வியாக்கியானத்தை எதிர்க்க வேண்டிய அவசியம் கிடையாது.அரசியலமைப்புக்கு அமையவே நீதிமன்றம் தொழில்நுட்ப ரீதியில் ஆராய்ந்து தீர்ப்பளித்துள்ளது. பெண் சமத்துவம் என்று குறிப்பிட்டுக் கொண்டு  தயாரிக்கப்பட்டுள்ள சட்ட ஏற்பாடுகளுக்குள் மாற்று பாலினத்தவர்களை உள்ளடக்குவதையே நாங்கள் எதிர்க்கிறோம் என்றார்.
+Member of the National Freedom Front and Independent Opposition MP, Wimal Weerawansa, said that male MPs who voted in favor of the Bill would be thought to be converted into women and female MPs.
+
+He further stated that during the argument in the House on Wednesday (19) in Parliament, the Gender Equality Bill
+
+There is no need to oppose the Supreme Court on gender equality.. "We oppose the inclusion of alternative gender within the legal provisions prepared as female equality."
 
 ◼️
 
 [Data](articles/ea922838.json)
+
+[Extended Data](ext_articles/ea922838.ext.json)
 
 ---
 
@@ -1048,21 +1068,29 @@ A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, up from 11.80/9
 
 ---
 
-### ආයුර්වේද උපාධිධාරීන්ගේ සීමාවාසික පුහුණුවීම් යළි ඇරඹෙයි
+### Internship of Ayurvedic graduates resume
 
 *2024-06-19 10:06:54* · [`adalk`](https://www.ada.lk/breaking_news/ආයුර්වේද-උපාධිධාරීන්ගේ-සීමාවාසික-පුහුණුවීම්-යළි-ඇරඹෙයි/11-410308) · `si`
 
-රටේ පැවති අර්බුදකාරී තත්ත්වය හේතුවෙන් ආයුර්වේද උපාධිධාරීන්ගේ ඇනහිට තිබූ සීමාවාසික පුහුණුවීම් යළි ආරම්භ කළ බව දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය සිසිර ජයකොඩි මහතා පැවසීය.
+In response to national crises, the internship program for Ayurvedic graduates was resumed, with the State Minister highlighting its launch with financial support. The initiative aims to train 418 graduates, costing the government Rs. 320 million, and is part of efforts to expand indigenous medicine practices in the country. Despite challenges, including criticism from trade unions and calls for educational reforms similar to those in Japan and Australia, the government remains committed to supporting Ayurvedic education and practice.
 
-ඒ අනුව මාසයකට රුපියල් 67,500ක ගෙවීමක් සහිතව ආයුර්වේද උපාධිධාරීන් සඳහා වන සීමාවාසීක පුහුණුව ආරම්භ කළ බවත්, ඊට රජය රුපියල් මිලියන 320ක් වැය කරන බවත් රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය සිසිර ජයකොඩි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Due to the crisis in the country, the internship of the Ayurvedic graduates had restarted the internship of the Ayurvedic graduates.
 
-"දේශීය වෛද්‍ය අමාත්‍යාංශය විදිහට මේ වන විට අප විශාල ජයග්‍රහණයක් ලබා තිබෙනවා. ඉකුත් කාලයේ පැවති විවිධ අර්බුද හේතුවෙන් විශ්වවිද්‍යාලවලින් සමත් වූ ආයුර්වේද උපාධිධාරීන්ගේ සීමාවාසික පුහුණුවීම් ප්‍රමාද වී තිබුණා. ඒ අනුව ජුනි මාසයේ 03 වනදා සිට ආයුර්වේද සිද්ධ යුනානි උපාධිධාරීන් 207ක් සඳහා රුපියල් 67,500ක මාසික ගෙවීමක් සහිතව සීමාවාසික පුහුණුව ආරම්භ කළා.
+The State Minister pointed out that the internship training for ayurvedic graduates was launched a month with Rs.
+
+Indigenous Medicine, Sisira Jayakody said this at a press conference held at the press conference at the Presidential Media Center.
+
+"We have achieved a huge victory as the Ministry of Indigenous Medicine. The internships of Ayurvedic graduates who passed from various crises were delayed. Accordingly, Ayurvedic training was started with a monthly payment of Rs.
+
+Also, another 153 graduates will also commence training on August 12th by August 12. Accordingly, the Department of Ayurveda provides training for 418 graduates. The government spends Rs. 320 million.
 
 ...
 
 [Data](articles/e537d027.json)
+
+[Extended Data](ext_articles/e537d027.ext.json)
 
 ---
 

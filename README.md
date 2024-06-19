@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 16:52:12**
+As of **2024-06-19 17:04:24**
 
 ## Newspaper Stats
 
-*Scraped **31,130** Articles*
+*Scraped **31,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,110 @@ newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,798
 dailyftlk | 1,898
-adalk | 2,714
-adaderanalk | 3,525
+adalk | 2,715
+adaderanalk | 3,527
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,060
+adaderanasinhalalk | 5,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,129 (100.0%) of 31,130 articles have been extended.
+31,130 (100.0%) of 31,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### කරුණා අම්මාන් ජනපතිට සහාය දෙන බව කියයි
+### යෝජිත කුලී ආදායම් බද්දෙන් සහන ලැබෙන කණ්ඩායම්
+
+*2024-06-19 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197926) · `si`
+
+යෝජිත කුලී ආදායම් බද්ද මගින් මෙරට ජනතාවගෙන් 90%කට සිදු වන්නේ හිතකර බලපෑමක් බව මුදල් රාජ්‍ය අමාත්‍ය, ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එම බද්දට යටත් වන්නේ 10%ක් තරම් වන ඉහළ ධනවතුන් පමණක් බවද ඔහු පැවසීය.
+
+එබැවින් සාමාන්‍ය ජනතාව මෙම බද්ද සම්බන්ධයෙන් අනියත බියක් ඇති කරගත යුතු නැති බව අමාත්‍යවරයා අවධාරණය කරයි.
+
+කැසිනෝ ශාලා සඳහා සිදු කළ බදු සංශෝධනවලට අදාළ නියෝග පිළිබඳ විවාදයට එක්වෙමින් අමාත්‍යවරයා අද (19) පාර්ලිමේන්තුවේදී මේ බව පැවසීය. බද්දට යටත් වන 10%ක තරම් පිරිසගෙන් අය කර ගන්නා බදු සෙසු 90%ක් වන ජනතාවගේ අවශ්‍යතා සඳහා වැය කරන බවද අමාත්‍යවරයා පෙන්වා දෙයි.
+
+...
+
+[Data](articles/17b624f1.json)
+
+---
+
+### Bribery Commission launches probe into another complaint against Keheliya
+
+*2024-06-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99970/bribery-commission-launches-probe-into-another-complaint-against-keheliya) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says that it has initiated an investigation following a complaint received against former Minister of Health Keheliya Rambukwella, who is currently in remand custody.
+
+The investigation has been launched following a complaint filed by a civilian alleging that two vehicles belonging to the ministry provided to him during his tenure as the Health Minister have not been returned after he resigned from the ministerial position and have been misused.
+
+◼️
+
+[Data](articles/5bfd4738.json)
+
+---
+
+### Court refuses interim order against SLFP’s ExCo meeting
+
+*2024-06-19 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99969/court-refuses-interim-order-against-slfps-exco-meeting) · `en`
+
+The Colombo District Court has refused to grant an interim order preventing the SLFP Executive Committee chaired by the Acting Chairman of the Sri Lanka Freedom Party (SLFP), Nimal Siripala de Silva from holding a meeting this afternoon (19).
+
+Accordingly, the court decided to only issue notices to the defendants in the petition and decided that the case would be called again on July 03.
+
+The court issued this order after considering a petition submitted by an electoral organizer of SLFP, Hector Bethmage, seeking a court order preventing the SLFP Executive Committee meeting from being held.
+
+◼️
+
+[Data](articles/c7ced629.json)
+
+---
+
+### වතු සමාගම්වල පෙත්සම සලකා බැලීමට දින නියම කෙරේ
+
+*2024-06-19 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197925) · `si`
+
+වතු සේවකයින්ගේ වැටුප් වැඩිකරමින් ඉකුත්දා කම්කරු අමාත්‍යවරයා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට අභියාචනාධිකරණය දී ඇති තීන්දුවට එරෙහිව වතු සමාගම් විසින් ගොනුකර තිබූ අභියාචනා පෙත්සමක් සලකා බැලීම සඳහා මේ මස 27 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+ආගරපතන වැවිලි සමාගම ඇතුළු සමාගම් 21 ක් විසින් මෙම අභියාචනය ඉදිරිපත් කර තිබුණි.
+
+පෙත්සම්කාර සමාගම් කියා සිටින්නේ වතුකම්කරුවන්ගේ වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් ඉකුත්දා  ගැසට් නිවේදනයක් නිකුත් කළ බවයි.
+
+එම ගැසට් නිවේදනය බලරහිත කරන ලෙස ඉල්ලා තමන් අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකළ බවත් එය විභාගයට ගැනීමට තීන්දු කළ අභියාචනාධිකරණය අදාළ ගැසට් නිවේදනය ක්‍රියාත්මකවීම අත්හිටුවීමේ අතුරු තහනම් නියෝගයන් නිකුත් නොකිරීම තීරණය කළ බවත් පෙත්සම්රුවෝ සඳහන් කරති.
+
+එම තීරණය නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා වතු සමාගම් විසින් මෙම අභියාචනා පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනුකර තිබේ.
+
+◼️
+
+[Data](articles/6b6f10c4.json)
+
+---
+
+### Karuna Amman says to support the President
 
 *2024-06-19 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197924) · `si`
 
-උතුරේ සහ නැගෙනහිර දෙමළ ජනතාව මෙවර සිය ඡන්දය භාවිත කරන්නේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් බව කරුණා අම්මාන් හෙවත් විනයාගමූර්ති මුරලිදරන් පවසයි.
+Karuna Amman, supporting President Ranil Wickremesinghe, mentions that Tamils in the North and East will vote for him. He emphasizes unity and support during the UNP's Panadura office launch.
 
-එක්සත් ජාතික පක්ෂයේ පානදුර කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ඔහු මේ බව පැවසීය.
+🟩
 
-"ඊළඟ ධූර කාලයත් අපි ඔහුටම ලබාදිය යුතුයි. ඒ නිසා තමයි මමත් ඔහුට සහයෝගය දෙන්නේ. විශේෂයෙන්ම උතුරේ සහ නැගෙනහිර දෙමළ ජනතාව අනිවාර්යයෙන්ම ඔහුට තමයි ඡන්දය දෙන්න යන්නේ. ඒ ගැන කිසිම ප්‍රශ්නයක් නැහැ. සියලුදෙනාම ලෑස්තියි අතිගරු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදෙන්න. ඒ නිසා තමයි මමත් මගේ පක්ෂයත් ඔහුට සහයෝගය ලබාදෙන්නේ."
+Karuna Amman, or Vinayagamoorthy Muralitharan says that Tamils ​​in the North and East have voted for President Ranil Wickremesinghe.
+
+He was speaking at the opening ceremony of the Panadura office at the UNP.
+
+"We should also give us the next term. That is why I also support him. Tamil people in the North and East are definitely going to vote for him. There is no problem with that. All are ready to support His Excellency the President Ranil Wickremesinghe. That is why my party also supports him. "
 
 ◼️
 
 [Data](articles/ef51436b.json)
+
+[Extended Data](ext_articles/ef51436b.ext.json)
 
 ---
 
@@ -89,6 +163,22 @@ If the exam is wearing when the exam comes into the hall, the ear must be worn. 
 [Data](articles/141bc7f8.json)
 
 [Extended Data](ext_articles/141bc7f8.ext.json)
+
+---
+
+### විදේශ රැකියා වංචාවකට හසුවෙන්න කලින් මෙය කියවන්න ..... කෝටි 6කට අධික මුදලක් නැවත අයකර දී තිබෙනවා
+
+*2024-06-19 15:52:09* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-වංචාවකට-හසුවෙන්න-කලින්-මෙය-කියවන්න-------කෝටි-6කට-අධික-මුදලක්-නැවත-අයකර-දී-තිබෙනවා/11-410315) · `si`
+
+විදේශ රැකියා සදහා ශ්‍රි ලාංකිකයින් යොමුවීමේ වැඩි ප්‍රවණතාවයක් මේ දිනවල පවතින අතර, ඒ සමගම විදේශ රැකියා සම්බන්ධයෙන් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයට ලැබෙන පැමිණිලිවලද වර්ධනයක් පෙන්නුම් කරන බැවින්, කාර්යාංශයේ විශේෂ විමර්ශන අංශය විසින් සිය විමර්ශන කටයුතු පුළුල් කිරීමට පියවර ගෙන තිබේ.
+
+කාර්යාංශයේ බත්තරමුල්ල පිහිටි ප්‍රධාන කාර්යාලයට අමතරව, හාලිඇල, රත්නපුර, තංගල්ල, කුරුණෑගල හා මහනුවර යන පළාත් කාර්යාලවලින්ද විදේශ රැකියා වංචා සම්බන්ධ පැමිණිලි භාරගැනීම සිදුකරයි.
+
+ඒ අනුව, කාර්යාංශයේ විශේෂ විමර්ශන අංශයට 2024 ජනවාරි සිට 2024 ජූනි 18 දක්වා ගතවූ කාලය තුළ විදේශ රැකියා සම්බන්ධයෙන් පැමිණිලි 2155ක් ලැබී ඇති අතර, ඉන් පැමිණිලි 1051 ක් සඳහා අධිකරණයේ නඩු පැවරීමට පියවර ගෙන තිබේ. එසේම නීතිවිරෝධි රැකියා නියෝජිතායතන 11ක් වැටලීම් කිරීමටද විමර්ශන නිළධාරීන් පියවර ගෙන ඇති අතර, වංචාකරුවන් 65 දෙනෙකුද මෙම කාලසීමාව තුළදී විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී. එසේ අත්අඩංගුවට ගත් පිරිස අතරට, විදේශ රැකියා වංචාවල නිරත වූ බලපත්‍රලාභී රැකියා නියෝජිතායතනවල හිමිකරුවන් 8 දෙනෙකුද අයත් වේ.
+
+...
+
+[Data](articles/dbddaeff.json)
 
 ---
 
@@ -2195,129 +2285,5 @@ The result of the vote means that Thailand will become only the third place in A
 [Data](articles/c51d6e17.json)
 
 [Extended Data](ext_articles/c51d6e17.ext.json)
-
----
-
-### Sri Lanka and China successfully conclude 13th round of diplomatic consultations in Beijing
-
-*2024-06-19 04:24:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-successfully-conclude-13thround-ofdiplomatic-consultations-in-Beijing/56-763214) · `en`
-
-Sri Lanka and China concluded the 13th round of diplomatic consultations on 17 June in Beijing.
-
-The consultations were led by Sri Lanka Foreign Affairs Secretary Aruni Wijewardane and People’s Republic of China Foreign Affairs Vice Minister Sun Weidong.
-
-The two sides reviewed bilateral cooperation in a wide range of areas including recent high-level visits, economic and trade enhancement, debt restructuring, people-to-people exchanges, tourism, as well as recent developments in multilateral fora.
-
-Wijewardane appreciated China’s assistance to Sri Lanka during challenging times and, in the context of the priority given by Sri Lanka to economic recovery and growth, identified potential avenues for further cooperation on green initiatives, agriculture modernisation, renewable energy, food security, investment promotion as well as enhancement of trade, tourism, and people-to-people contacts.
-
-...
-
-[Data](articles/4299d9b2.json)
-
-[Extended Data](ext_articles/4299d9b2.ext.json)
-
----
-
-### Unemployed Graduates Struggle
-
-*2024-06-19 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186415) · `ta`
-
-Unemployed graduates protested in Battaramulla on Tuesday, demanding jobs. Police responded with tear gas and water cannons, also targeting vehicles on the road.
-
-🟩
-
-The struggle of unemployed graduates who sought to enter the parliament road from the Poltuwa junction took place on Tuesday (18).
-
-Police attacked water and tear gas bombs on the demonstration.
-
-A group of unemployed graduates staged a demonstration on Tuesday afternoon before Battaramulla demanding employment to all unemployed graduates.
-
-However, the police threw tear gas bombs and attacked the protesters.
-
-It is noteworthy that the reservoir was also attacked by cars and motorcycles on the road.
-
-◼️
-
-[Data](articles/5318da41.json)
-
-[Extended Data](ext_articles/5318da41.ext.json)
-
----
-
-### Indian External Affairs Minister Jaishankar meets with Tamil leaders
-
-*2024-06-19 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186414) · `ta`
-
-Dr. Subramaniam Jaishankar, India's External Affairs Minister, visits Sri Lanka post-elections, meeting key political figures including President Ranil Wickremesinghe, PM Dinesh Gunawardena, and opposition leader Sajith Premadasa. He also engages with Tamil, upcountry, and Muslim party leaders, focusing on enhancing India's investments and bilateral ties in Sri Lanka ahead of Sri Lanka's upcoming presidential election.
-
-🟩
-
-Indian External Affairs Minister Dr. Subramaniam Jaishankar will meet with President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and External Affairs Minister Ali Sabri.
-
-He will then meet opposition leader Sajith Premadasa, the leaders of the North and East Tamil parties and the leaders of the upcountry parties.. He will also meet representatives of Muslim parties.
-
-After the end of the Indian parliamentary elections. This is the first visit to Subramaniam Jaishankar to Sri Lanka.
-
-During the visit, the Indian Foreign Ministry reports that mutual cooperation will be focused on India's investments and bilateral relations in Sri Lanka.
-
-It is also expected that he will focus on the fields before the next presidential election in Sri Lanka.
-
-◼️
-
-[Data](articles/b0d0cfb5.json)
-
-[Extended Data](ext_articles/b0d0cfb5.ext.json)
-
----
-
-### Ayurvedic graduates are beginning training
-
-*2024-06-19 02:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுர்வேத-பட்டதாரிகளின்-பயிற்சி-ஆரம்பம்/175-339107) · `ta`
-
-Training for Ayurvedic graduates, halted during national crises, has restarted. From June 3rd, 207 graduates began receiving vocational training, funded by the government, with plans to train 418 graduates at a cost of 320 million rupees. Registration for traditional medicine practitioners is open until June 30th.
-
-🟩
-
-Indigenous Medical Minister Sisira Jayakody said the training of Ayurvedic graduates who had been blocked due to the crisis in the country have been resumed.
-
-State Minister Sisira Jayakody said this at a media briefing held at the Presidential Media Center yesterday. As he said more.
-
-As the Ministry of Indigenous Medicine, we have achieved great success. Vocational training of Ayurvedic graduates from universities has been delayed due to various crises in the past. Accordingly, from June 3, 207 graduates of Ayurveda, Siddha and Unani graduates have started training with a monthly allowance of Rs 67,500.
-
-The training for 153 graduates will be launched by August 12th. Accordingly, the Ayurvedic Department is training 418 graduates. The government spends 320 million rupees for this.
-
-...
-
-[Data](articles/6eadbd46.json)
-
-[Extended Data](ext_articles/6eadbd46.ext.json)
-
----
-
-### Tax tax on high income earners
-
-*2024-06-19 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186413) · `ta`
-
-President Ranil Wickremesinghe announced a proposed rental tax targeting high-income individuals, excluding 90% of homeowners from its scope. He assured that this measure does not threaten the safety of homes for the majority. The focus is on wealthier individuals, including billionaires, indicating a targeted approach rather than a broad impact on ordinary income earners.
-
-🟩
-
-The first property earners will be released from the proposed rent line. This tax will be levied on those who earn more income. So you do not have to be afraid in a house, President Ranil Wickremesinghe said.
-
-He said this in a briefing on the proposed rental tax on Tuesday (18) in Parliament.
-
-As I am not in Parliament when the financial issues were discussed, I would like to inform parliament about the rental income tax.
-
-There is a very high income limit. This is not applicable to 90 percent homes in the country. So you don't have to be afraid in a house. Your home is safe. Most people in this country don't have to be afraid of their homes
-
-But we have to implement the wealth line. I know that united people's power is upset. I think the reason is that this line affects the billionaires with them.
-
-The first property earners will be released from the proposed rent line. He said the tax would be levied on those who earn more income, not ordinary income.
-
-◼️
-
-[Data](articles/3c8ee6b9.json)
-
-[Extended Data](ext_articles/3c8ee6b9.ext.json)
 
 ---

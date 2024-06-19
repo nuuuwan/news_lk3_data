@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 19:52:47**
+As of **2024-06-19 20:04:45**
 
 ## Newspaper Stats
 
-*Scraped **31,157** Articles*
+*Scraped **31,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,798
 dailyftlk | 1,898
 adalk | 2,719
 adaderanalk | 3,530
-tamilmirrorlk | 3,662
+tamilmirrorlk | 3,663
 dailymirrorlk | 4,733
 virakesarilk | 4,808
 adaderanasinhalalk | 5,065
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,154 (100.0%) of 31,157 articles have been extended.
+31,157 (100.0%) of 31,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### மைத்திரிக்கு எதிரான தடை நீடிப்பு
+
+*2024-06-19 19:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீடிப்பு/175-339138) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவை எதிர்வரும் ஆகஸ்ட் மாதம் முதலாம் திகதி வரை நீடித்து கொழும்பு மாவட்ட நீதிமன்றம் இன்று (19) உத்தரவிட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் மைத்திரிபால சிறிசேனவுக்கு எதிராக தாக்கல் செய்யப்பட்ட மனு இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/599559de.json)
+
+---
 
 ### At least 550 pilgrims die from extreme heat during Hajj in Saudi Arabia
 
@@ -51,6 +65,8 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 ...
 
 [Data](articles/254daa3e.json)
+
+[Extended Data](ext_articles/254daa3e.ext.json)
 
 ---
 
@@ -642,23 +658,29 @@ In this case, the investigation is being carried out to find the source of the d
 
 ---
 
-### நாளை இலங்கை வருகிறார் இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்ஷங்கர்
+### Indian External Affairs Minister S. Jaishankar is coming to Sri Lanka tomorrow
 
 *2024-06-19 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186464) · `ta`
 
-இந்திய வெளியுறவுத்துறை அமைச்சர் எஸ்.ஜெய்ஷங்கர் நாளை 20 ஆம் திகதி இலங்கைக்கான உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொள்ளவுள்ளதாக கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+Indian Foreign Minister S. Jaishankar visits Sri Lanka tomorrow, marking his first bilateral trip under PM Modi's government. The visit aims to strengthen ties between the two countries, focusing on mutual benefits through cooperation in various sectors.
 
-இந்த விஜயத்தின்போது வெளிவிவகார அமைச்சர் ஜெய்சங்கர், இருதரப்பு பங்குடைமையின் பரந்தளவான விடயங்கள் குறித்து இலங்கை தலைமைத்துவத்துடன் சந்திப்புகளை மேற்கொள்ளவுள்ளார்.
+🟩
 
-இந்தியப் பிரதமர் மோடியின் புதிய அரசாங்கத்தின்கீழ் வெளிவிவகார அமைச்சர் மேற்கொள்ளும் முதலாவது இருதரப்பு விஜயம் இதுவாகும்.
+Indian Foreign Minister S. Jaishankar will make an official visit to Sri Lanka tomorrow, said the Indian High Commission in Colombo.
 
-இந்தியாவின் அயல்நாடுகளுக்கு முன்னுரிமை கொள்கையினை மீள வலியுறுத்தும் இந்த விஜயமானது, கடல்மார்க்கமாக மிகவும் நெருக்கமான அயல் நாடாகவும் காலங்காலமாக நல்லுறவைக்கொண்ட நண்பனாகவும் உள்ள இலங்கைக்கு இந்தியாவினது தொடர்ச்சியான அர்ப்பணிப்பினை சுட்டிக்காட்டுகின்றது.
+During the visit, Foreign Minister Jaishankar will hold meetings with the leadership of Sri Lanka on a wide range of bilateral issues.
 
-அத்துடன், இணைப்புத் திட்டங்கள் மற்றும் பல்வேறு துறைகளிலும் பரஸ்பர நன்மையளிக்கும் ஏனைய ஒத்துழைப்புகள் ஆகியவற்றுக்கும் இந்த விஜயம் மேலும் உத்வேகமளிக்கும்.
+This is the first bilateral visit to the Foreign Minister under the new government of Indian Prime Minister Modi.
+
+This visit, which urges India's foreign policy to renegotiate the principle of priority, points out the continued dedication of India to Sri Lanka, a very close foreign country and a long -awaited friend.
+
+The visit will further inspire the merger projects and other cooperation that will benefit mutual benefits in various sectors.
 
 ◼️
 
 [Data](articles/7b956c1f.json)
+
+[Extended Data](ext_articles/7b956c1f.ext.json)
 
 ---
 
@@ -1188,23 +1210,31 @@ Noting that the stability has not yet been established, the spring first life is
 
 ---
 
-### ජන අරගල සන්ධානය : 'ගෝල්ෆේස් අරගලකරුවන්' රැසක් සමග දේශපාලන කරලියට එන නව සන්ධානය
+### Join Alliance: New UPFA with a large number of Goalface struggle
 
 *2024-06-19 12:38:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4nnw4rlvg5o) · `si`
 
-ජන අරගල සන්ධානය : 'ගෝල්ෆේස් අරගලකරුවන්' රැසක් සමග දේශපාලන කරලියට එන නව සන්ධානය
+A new United People's Freedom Alliance (UPFA) is formed amidst widespread protests. Gotabhaya Rajapaksa resigns as President amid calls for systemic change. Ranil Wickremesinghe takes over, facing a national debt crisis. His leadership is questioned, especially regarding his handling of the economy and relations with the Supreme Court.
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "''නියෝජිත ප්‍රජාතන්ත්‍රවාදය තවදුරත් විශ්වාස නෑ. ජනතාවට බලය ගන්න ඕනා.''", ධාවන කාලය 5,3805:38වීඩියෝ ශීර්ෂ වැකිය, ''නියෝජිත ප්‍රජාතන්ත්‍රවාදය තවදුරත් විශ්වාස නෑ. ජනතාවට බලය ගන්න ඕනා.''
+🟩
 
-ගෝඨාභය රාජපක්ෂ ජනාධිපති ධූරයෙන් ඉවත් කර  'ගෝල්ෆේස් අරගලකරුවන්' අපේක්ෂා කළ සමාජයේ ක්‍රම වෙනසක් දක්වා රට මෙහෙයවීමට ජන අරගල සන්ධානය නමින් නව දේශපාලන සන්ධානයක් ගොඩනගන බව සමාජ ක්‍රියාකරුවෙකු වන වසන්ත මුදලිගේ අද (ජුනි 19) කොළඹ දී පැවසුවේය.
+Join Alliance: New UPFA with a large number of Goalface struggle
 
-''ක්‍රම වෙනසක් රටේ මිනිස්සු ඉල්ලුවේ. රනිල් වික්‍රමසිංහ බලයට පත්වෙලා කළේ මේ තියෙන ක්‍රමය ඇතුළේ අර්බුදයේ පතුළට ඇදගෙන යන වැඩපිළිවල තමයි ක්‍රියාත්මක කළේ. 2022 රනිල් වික්‍රමසිංහ බලයට එනවිට රටේ ණය තිබුණේ ඩොලර් බිලියන 84යි. 2024 ණය ඩොලර් බිලියන 100ක් වෙලා. අපි ජනතාවට ආරාධනය කරනවා අර්බුදය අස්සේ ගිනිකන වැටිලා ඉන්නේ නැතුව අපි නව දේශපාලන වැඩපිලිවලක් එක්ක ඉදිරියට යමු.'' යනුවෙන් ඔහු වැඩිදුරටත් කියා සිටියේය.
+It contains nothing here. Play Video, "" Agent Video is not confidentially. The people need to take power. "" The Running Time 5,3805: 38 Video Heart, ". People have to take power. "
 
-බුදු දහමට අපහාස කළ බවට කී චෝදනාවෙන් නටාෂා සහ බෲනෝ නිදොස් කොට නිදහස් කරයි
+Gotabhaya Rajapaksa has been removed from the post of President and said that the January 19 (June 19), a social activist said.
+
+'' The people of the country ask for a change of methods. Ranil Wickremesinghe came to power in the program that was dragged to the front of the crisis inside the crisis.. 2022 When Ranil Wickremesinghe came to power, the country was in debt $ 84 billion. 2024 Credit has been $ 100 billion. We invite the people with the crisis without being in the flame of the crisis, we will continue with a new political program. "He added.
+
+Natasha and Bruno acquitted Natasha and Bruno from claim to insult Buddhism
+
+Ranil Wickremesinghe: Why did the President criticize the Supreme Court?Is there a 'underlying purpose'?What is analysts?
 
 ...
 
 [Data](articles/6ff65189.json)
+
+[Extended Data](ext_articles/6ff65189.ext.json)
 
 ---
 
@@ -2343,33 +2373,5 @@ Expectations about the near future was also positive except for concerns about t
 [Data](articles/bc379eb5.json)
 
 [Extended Data](ext_articles/bc379eb5.ext.json)
-
----
-
-### A warning that teachers are sick on the 26th
-
-*2024-06-19 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197903) · `si`
-
-Teachers' union plans a sick day on the 26th due to unresolved salary issues. The General Secretary warns of consequences if demands aren't met. Negotiations ongoing with the University Grants Commission. Students' involvement unclear. Authorities given a week to address salaries.
-
-🟩
-
-The Ceylon Teachers Union states that the 26th has decided to report sick leave.
-
-The General Secretary of the General Secretary Joseph Starlin said that he would have to leave the ordinary line rating, if he did not take demands as promised.
-
-However, Dr. Susil Premajayantha held at a function held yesterday (18), but whether the current students have been involved in the trade union, the current students are not staying on it.
-
-Meanwhile, the Joint Communication Committee states that the negotiations with the University Grants Commission regarding its pay issue.
-
-The co-chairman Dhammika Priyantha said that the authorities will be given a week to resolve the salary problem.
-
-Meanwhile, if he said that he would not have been resolved in the attic trees in front of the universities.
-
-◼️
-
-[Data](articles/80344d1e.json)
-
-[Extended Data](ext_articles/80344d1e.ext.json)
 
 ---

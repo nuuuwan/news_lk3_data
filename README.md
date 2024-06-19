@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 17:04:24**
+As of **2024-06-19 17:19:11**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,130 (100.0%) of 31,135 articles have been extended.
+31,135 (100.0%) of 31,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### යෝජිත කුලී ආදායම් බද්දෙන් සහන ලැබෙන කණ්ඩායම්
+### Groups who receive relief tax on proposed rent income tax
 
 *2024-06-19 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197926) · `si`
 
-යෝජිත කුලී ආදායම් බද්ද මගින් මෙරට ජනතාවගෙන් 90%කට සිදු වන්නේ හිතකර බලපෑමක් බව මුදල් රාජ්‍ය අමාත්‍ය, ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Dr. Ranjith Siyambalapitiya announced a proposed 10% increase in tax for wealthier individuals, emphasizing it won't affect the general public. He discussed the tax revision during a debate on casino amendments, highlighting that 10% of collected taxes would benefit all citizens. The Minister noted the government's decision to allocate 60% of casino revenues to state funds, contrasting it with the previous practice of generating only Rs. 50 million annually. This move aims to boost government revenue and discourage certain businesses, making Sri Lanka one of the top countries in global casino taxation.
 
-එම බද්දට යටත් වන්නේ 10%ක් තරම් වන ඉහළ ධනවතුන් පමණක් බවද ඔහු පැවසීය.
+🟩
 
-එබැවින් සාමාන්‍ය ජනතාව මෙම බද්ද සම්බන්ධයෙන් අනියත බියක් ඇති කරගත යුතු නැති බව අමාත්‍යවරයා අවධාරණය කරයි.
+State Minister Dr. Ranjith Siyambalapitiya, State Minister of Government, Hon.
 
-කැසිනෝ ශාලා සඳහා සිදු කළ බදු සංශෝධනවලට අදාළ නියෝග පිළිබඳ විවාදයට එක්වෙමින් අමාත්‍යවරයා අද (19) පාර්ලිමේන්තුවේදී මේ බව පැවසීය. බද්දට යටත් වන 10%ක තරම් පිරිසගෙන් අය කර ගන්නා බදු සෙසු 90%ක් වන ජනතාවගේ අවශ්‍යතා සඳහා වැය කරන බවද අමාත්‍යවරයා පෙන්වා දෙයි.
+He also said that the tax is only 10% higher wealthy.
+
+The Minister emphasizes that the general public should not be inactive fear of this tax.
+
+He was speaking at the debate on the orders regarding the tax revision to the casino amendments today (19). The Minister pointed out that the taxes charged from 10% of the taxes will be spent on the needs of the total number of people.
+
+Meanwhile, the Minister said that the casinos are due in the case of casinos under the present administration. Accordingly, the government has passed 60% of the turnover of a casino to the government revenue. The Minister pointed out that the previous casino halls were only revenue to the annual renewal of Rs. 50 million in casinos.
 
 ...
 
 [Data](articles/17b624f1.json)
+
+[Extended Data](ext_articles/17b624f1.ext.json)
 
 ---
 
@@ -61,6 +69,8 @@ The investigation has been launched following a complaint filed by a civilian al
 ◼️
 
 [Data](articles/5bfd4738.json)
+
+[Extended Data](ext_articles/5bfd4738.ext.json)
 
 ---
 
@@ -78,25 +88,33 @@ The court issued this order after considering a petition submitted by an elector
 
 [Data](articles/c7ced629.json)
 
+[Extended Data](ext_articles/c7ced629.ext.json)
+
 ---
 
-### වතු සමාගම්වල පෙත්සම සලකා බැලීමට දින නියම කෙරේ
+### The date is specified to consider the petition of estate companies
 
 *2024-06-19 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197925) · `si`
 
-වතු සේවකයින්ගේ වැටුප් වැඩිකරමින් ඉකුත්දා කම්කරු අමාත්‍යවරයා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට අභියාචනාධිකරණය දී ඇති තීන්දුවට එරෙහිව වතු සමාගම් විසින් ගොනුකර තිබූ අභියාචනා පෙත්සමක් සලකා බැලීම සඳහා මේ මස 27 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+The Supreme Court has scheduled a hearing for an appeal by 21 estate companies, including Agarapathana Plantation Limited, against a Labor Tribunal ruling. The companies argue that a gazette notification issued by the Minister of Labor is illegal and should not be used as grounds for the tribunal's decision. They also mention a red petition filed by the Court of Appeal regarding this matter.
 
-ආගරපතන වැවිලි සමාගම ඇතුළු සමාගම් 21 ක් විසින් මෙම අභියාචනය ඉදිරිපත් කර තිබුණි.
+🟩
 
-පෙත්සම්කාර සමාගම් කියා සිටින්නේ වතුකම්කරුවන්ගේ වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් ඉකුත්දා  ගැසට් නිවේදනයක් නිකුත් කළ බවයි.
+The Supreme Court has set the summit of a appeal filed by estate companies against the verdict of the Assembly Appeal issued by the Assembly Appeal issued by the Labor Companies.
 
-එම ගැසට් නිවේදනය බලරහිත කරන ලෙස ඉල්ලා තමන් අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකළ බවත් එය විභාගයට ගැනීමට තීන්දු කළ අභියාචනාධිකරණය අදාළ ගැසට් නිවේදනය ක්‍රියාත්මකවීම අත්හිටුවීමේ අතුරු තහනම් නියෝගයන් නිකුත් නොකිරීම තීරණය කළ බවත් පෙත්සම්රුවෝ සඳහන් කරති.
+The appeal was presented by 21 companies including Agarapathana Plantation Limited.
 
-එම තීරණය නීතිවිරෝධී බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා වතු සමාගම් විසින් මෙම අභියාචනා පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනුකර තිබේ.
+The petitioners claim that the Minister of Labor has issued a gazette yesterday.
+
+The petitioners states that the Court of Appeal has filed a red petition in the Court of Appeal to the use of the gazette notification.
+
+The appearance companies have filed the petition before the Supreme Court as the Supreme Court is asked to give a decision that will be illegal.
 
 ◼️
 
 [Data](articles/6b6f10c4.json)
+
+[Extended Data](ext_articles/6b6f10c4.ext.json)
 
 ---
 
@@ -166,19 +184,27 @@ If the exam is wearing when the exam comes into the hall, the ear must be worn. 
 
 ---
 
-### විදේශ රැකියා වංචාවකට හසුවෙන්න කලින් මෙය කියවන්න ..... කෝටි 6කට අධික මුදලක් නැවත අයකර දී තිබෙනවා
+### Read this before the foreign employment fraud is caught ..... Over 6 million has been recovered
 
 *2024-06-19 15:52:09* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-වංචාවකට-හසුවෙන්න-කලින්-මෙය-කියවන්න-------කෝටි-6කට-අධික-මුදලක්-නැවත-අයකර-දී-තිබෙනවා/11-410315) · `si`
 
-විදේශ රැකියා සදහා ශ්‍රි ලාංකිකයින් යොමුවීමේ වැඩි ප්‍රවණතාවයක් මේ දිනවල පවතින අතර, ඒ සමගම විදේශ රැකියා සම්බන්ධයෙන් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයට ලැබෙන පැමිණිලිවලද වර්ධනයක් පෙන්නුම් කරන බැවින්, කාර්යාංශයේ විශේෂ විමර්ශන අංශය විසින් සිය විමර්ශන කටයුතු පුළුල් කිරීමට පියවර ගෙන තිබේ.
+Sri Lanka's SLBFI recovers over 6 million from foreign employment fraud, with 2155 complaints investigated since January 18, 2024. 1051 cases are prosecuted, leading to arrests including 8 owners of licensed agencies involved in fraud. The bureau advises against unauthorized agencies and encourages reporting through www.slbfe.lk or 1989 hotline.
 
-කාර්යාංශයේ බත්තරමුල්ල පිහිටි ප්‍රධාන කාර්යාලයට අමතරව, හාලිඇල, රත්නපුර, තංගල්ල, කුරුණෑගල හා මහනුවර යන පළාත් කාර්යාලවලින්ද විදේශ රැකියා වංචා සම්බන්ධ පැමිණිලි භාරගැනීම සිදුකරයි.
+🟩
 
-ඒ අනුව, කාර්යාංශයේ විශේෂ විමර්ශන අංශයට 2024 ජනවාරි සිට 2024 ජූනි 18 දක්වා ගතවූ කාලය තුළ විදේශ රැකියා සම්බන්ධයෙන් පැමිණිලි 2155ක් ලැබී ඇති අතර, ඉන් පැමිණිලි 1051 ක් සඳහා අධිකරණයේ නඩු පැවරීමට පියවර ගෙන තිබේ. එසේම නීතිවිරෝධි රැකියා නියෝජිතායතන 11ක් වැටලීම් කිරීමටද විමර්ශන නිළධාරීන් පියවර ගෙන ඇති අතර, වංචාකරුවන් 65 දෙනෙකුද මෙම කාලසීමාව තුළදී විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී. එසේ අත්අඩංගුවට ගත් පිරිස අතරට, විදේශ රැකියා වංචාවල නිරත වූ බලපත්‍රලාභී රැකියා නියෝජිතායතනවල හිමිකරුවන් 8 දෙනෙකුද අයත් වේ.
+There is a greater tendency for Sri Lankans to foreign employment and the SLBFI is a growth of the Faculty of the LKR and the FUTA regarding foreign employment.
+
+In addition to the head office in Battaramulla, Battaramulla, Battaramulla, in Battaramulla, Ratnapura, Tangalle, Kandy and Kandy provincial offices will be accepted.
+
+Accordingly, the Special Investigation Division of the Bureau has received 2155 complaints regarding foreign employment from January 18, 2024, and 1051 complaints have been taken to prosecute 1051 complaints. Investigilator Officers have also taken steps to raid 11 illegal employment agencies, and 65 frauds were arrested by the Investigation Officers during this period. Among the arrested were 8 owners of licensed employment agencies involved in foreign employment fraud.
+
+The Bureau of the Bureau has also been able to recover Rs.
 
 ...
 
 [Data](articles/dbddaeff.json)
+
+[Extended Data](ext_articles/dbddaeff.ext.json)
 
 ---
 

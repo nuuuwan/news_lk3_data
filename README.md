@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 17:55:31**
+As of **2024-06-19 18:13:42**
 
 ## Newspaper Stats
 
-*Scraped **31,139** Articles*
+*Scraped **31,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,528
 tamilmirrorlk | 3,661
 dailymirrorlk | 4,733
 virakesarilk | 4,799
-adaderanasinhalalk | 5,064
+adaderanasinhalalk | 5,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,136 (100.0%) of 31,139 articles have been extended.
+31,139 (100.0%) of 31,140 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### සිසු සැරිය බස් අනතුර ගැන තවත් තොරතුරු
 
-*2024-06-19 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197929) · `si`
+*2024-06-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197930) · `si`
 
 කොළඹ අවිස්සාවේල්ල ලෝලෙවල් මාර්ගයේ රනාල ප්‍රදේශයේදී බස් රථ දෙකක් මුහුණට මුහුණ ගැටීමෙන් අද (19) අනතුරක් සිදුවී තිබුණි.
 
@@ -50,7 +50,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/f290bf29.json)
+
+---
+
+### More information about the students' searround bus accident
+
+*2024-06-19 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197929) · `si`
+
+In Avissawella, a collision between two buses resulted in 27 schoolchildren being injured and transported to Navagamuwa District Hospital. The incident occurred in the Ranala area, involving a Labugama-Colombo Siyaiya bus and an Embilipitiya-Colombo passenger bus. Six individuals, including the conductor of the private bus, received treatment at the hospital, with ongoing care for additional students involved in the accident.
+
+🟩
+
+There was an accident in the Ranala area in the Ranala area in Avissawella Lollywela area.
+
+The latest information from the Hanwella police stated that 27 school children were injured and rushed to the Navagamuwa District Hospital.
+
+A Labugama-Colombo Siyaiya bus and Embilipitiya - Colombo passenger bus had been collide.
+
+The conductor of the private passenger bus was admitted to the Navagamuwa hospital while a bus was trapped near the front door.
+
+A spokesman for Navagamuwa District Hospital said six persons were treated in hospital and six more school children were receiving treatment.
+
+Hanwella Police say that the students of the Colombo passenger bus had collided with the accusation of the Colombo passenger bus.
+
+◼️
+
 [Data](articles/704d5a84.json)
+
+[Extended Data](ext_articles/704d5a84.ext.json)
 
 ---
 
@@ -69,6 +97,8 @@ Meanwhile MP Duminda Dissanayake had been appointed as the SLFP’s Acting Gener
 ◼️
 
 [Data](articles/0bf7f527.json)
+
+[Extended Data](ext_articles/0bf7f527.ext.json)
 
 ---
 
@@ -490,21 +520,29 @@ According to the constitution of the Sri Lanka Freedom Party, the petition filed
 
 ---
 
-### පොසොන් පෝයට හොල්මන් මන්දිර තහනම් කරන්න
+### Ban the gesture of the Poson Point
 
 *2024-06-19 14:30:12* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝයට-හොල්මන්-මන්දිර-තහනම්-කරන්න/11-410312) · `si`
 
-උතුම් පොසොන් පොහොයේ වැදගත්කම කෙලෙසන හොල්මන් මන්දිර ප්‍රදර්ශන වහා තහනම් කරන ලෙස බෞද්ධ කටයුතු පිළිබඳ කොමසාරිස් ජෙනරාල් ආර්.ඇම්.පී.රත්නායක මහතාගෙන්  ඉල්ලා  අස්ගිරි පාර්ශවයේ පුත්තලම් මහා දිසාවේ ප්‍රධාන සංඝ නායක කල්පිටිය ශාසනාරක්ෂක බල මණ්ඩලය ප්‍රධාන ලේඛකාධිකාරී ශාස්ත්‍රපති මිගෙට්ටුවත්තේ සුමිත්ත නාහිමියන් 2024.06.17 දාතමින්  ලිපියක් යොමුකොට තිබේ.
+The Kalpitiya Sasanarakshaka PS headship has banned the "Poson Point" gesture, leading to concerns among Buddhists in Sri Lanka. This action has sparked debates about its impact on the country's economy, politics, and culture. The headship has sought intervention from the Chief Registrar of Buddhist Monitor and the IGP, highlighting the need to address issues related to the misuse of religious symbols. The move aims to prevent negative influences and ensure the proper use of religious practices, emphasizing the importance of maintaining harmony and respect for Buddhism in Sri Lanka.
 
-මෙම ලිපියේ පිටපතක් උන්වහන්සේ විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට ද යොමුකොට ඇත.
+🟩
 
-පොසොන් පෝයදා සිදුවූ මහින්දාගමනය නිසා ලංකාවේ සාමාජික, ආර්ථික, දේශපාලනික, හා සංස්කෘතික යනාදී විවිධ අංශයන්වලට බුදු දහමේ බලපෑමක් ලැබුණු බවත් මිහිඳු මහරහතන් වහන්සේ එදා අපේ රටේ ජනතාවට ඉදිරිපත් කළ සාමාජික, ආර්ථික, දේශපාලන, හා සංස්කෘතික හරයන් අපේ ජනතාවගේ ඇට, මස්, ලේ නහර තුළ අදටත් කාවදී තිබෙන බවත් උන්වහන්සේ ලිපිය මගින් දැනුම් දෙයි.
+Kalpitiya Sasanarakshaka PS headship of the Puttalam Maha Sasanarakshaka Mirithmawatta, the Migmettta, the Migmettta, the Migmettta, the Migderabha, the Migmeththa, the Migderabha, the Migmetththa, the Migmeththa, the Migaytai, led to the Chief Registrar of Buddhist Monitor.Available.
 
-එදා පටන් අපේ රජවරුන් මෙන්ම ජනතාවද බුදු දහම රැකගත්තේ දිවි දෙවැනි කොට බවත් පවසන මිගෙට්ටුවත්තේ සුමිත්ත හිමියෝ සමස්ත ලාංකිකයන්ට බුදු දහමේ බලපෑම ලැබීම නිසා ලක්වැසි සැමගේ ජීවිත ආලෝකමත් වූ බවද කියා සිටි.
+He has also referred to a copy of this letter to the IGP Deshabandu Tennakoon.
+
+The Mihindu Hangu has an impact on the people of the country, economic, political, and cultural rage that the Geibriya, political, political, and cultural rage presented to the people of the Poson Poya in Sri Lanka.He is informed that he has been informed.
+
+Miggettu Sumitta Thero is the impact of Buddhism to the entire Sri Lankans since then, the people of the Alliance was the impact of Buddhism to the entire Sri Lankans.
+
+He said that he had planned to be planned by the conversation of the temples of some temples in some temples in the country, which introduces such a nobles, such as a vision.
 
 ...
 
 [Data](articles/e48d4dc6.json)
+
+[Extended Data](ext_articles/e48d4dc6.ext.json)
 
 ---
 
@@ -2303,21 +2341,5 @@ Ambuja will acquire 100% shares of PCIL from its existing promoter group, P. Pra
 [Data](articles/ec41bf2e.json)
 
 [Extended Data](ext_articles/ec41bf2e.ext.json)
-
----
-
-### OPA forum says economy must become more export-oriented to benefit from FTAs
-
-*2024-06-19 04:31:12* · [`dailyftlk`](https://www.ft.lk/business/OPA-forum-says-economy-must-become-more-export-oriented-to-benefit-from-FTAs/34-763219) · `en`
-
-A seminar on the “Economic Impact of Free Trade Agreements” conducted recently by the Organisation of Professional Associations (OPA) revealed that while free trade agreements offered many advantages to Sri Lanka, the country’s economy needed to become more export-oriented in order to fully enjoy these benefits.
-
-The speakers at this event were International Trade Office Chief Negotiator K.J. Weerasinghe, Federation of Chambers Sri Lanka President Keerthi Gunawardana, and KIK Lanka Ltd. Chairman Lalith Kahatapitiya. The event was organised by the National Issues Committee and the Construction Industry Committee of the OPA, and was moderated by Bhanu Wijayaratne. It was attended by office bearers and members of the OPA, including OPA President Sarath Gamage, OPA President-Elect Sujeewa Lal Dahanayake, and OPA General Secretary Tisara de Silva.
-
-...
-
-[Data](articles/5cb59910.json)
-
-[Extended Data](ext_articles/5cb59910.ext.json)
 
 ---

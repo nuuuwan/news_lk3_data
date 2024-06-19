@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 13:35:07**
+As of **2024-06-19 13:54:16**
 
 ## Newspaper Stats
 
-*Scraped **31,100** Articles*
+*Scraped **31,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 287
 bbccomsinhala | 304
 newsfirstlk | 363
 islandlk | 1,702
-economynextcom | 1,797
+economynextcom | 1,798
 dailyftlk | 1,898
 adalk | 2,709
 adaderanalk | 3,523
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,099 (100.0%) of 31,100 articles have been extended.
+31,100 (100.0%) of 31,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### Sri Lanka’s Hela Apparel to raise Rs1.5bn in rights issue
+
+*2024-06-19 13:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-to-raise-rs1-5bn-in-rights-issue-168713/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc is looking to raise 1.5 billion rupees through a rights issue to settle a sub-subsidiary’s debt.
+
+Hela will issue 319,365,227 ordinary voting shares at a proportion 8 new for every 33 existing ordinary shares at 5.00 rupees each.
+
+“To be utilised for the purpose of making funds available to the sub-subsidiary of the Company to enable such entity to settle existing bank borrowings,” the company said in a stock exchange filing.
+
+The current stated capital of the company is 5,780,678,282.82 (constituting of moneys received by the company by the issue of 1,317,381,560 ordinary voting shares).
+
+“The Board of Directors considers the Rights Issue to be the first phase of the Company’s capital augmentation strategy to strengthen its balance sheet and position the Hela Group for profitable growth.”
+
+The structure and details of subsequent capital raises will be determined and announced by the Board of Directors at a later date, the company said.
+
+...
+
+[Data](articles/401ac42e.json)
+
+---
 
 ### Eight petitions challenging IGP’s appointment fixed for consideration
 
@@ -45,6 +67,8 @@ The petitioners allege that Tennakoon had neglected his duties during his tenure
 ◼️
 
 [Data](articles/bd56b988.json)
+
+[Extended Data](ext_articles/bd56b988.ext.json)
 
 ---
 
@@ -2281,27 +2305,5 @@ The next President is not appointed by our alliance, not the Alliance that has b
 [Data](articles/fb8db03b.json)
 
 [Extended Data](ext_articles/fb8db03b.ext.json)
-
----
-
-### The rent tax will only be charged from them - the President
-
-*2024-06-18 19:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாடகை-வரி-இவர்களிடம்-இருந்து-மட்டுமே-அறவிடப்படும்-ஜனாதிபதி/175-339085) · `ta`
-
-President Ranil Wickremesinghe announced a rental income law targeting high earners, exempting the first property of each individual from rent tax and excluding ordinary income. This proposal was shared in a parliamentary address on 18th.
-
-🟩
-
-President Ranil Wickremesinghe said the proposed rental income law was the highest rental earners.
-
-The President promised that the first property of each person is released from the rental tax, while the tax will not be charged to the ordinary income.
-
-President Ranil Wickremesinghe made this statement during a special speech delivered in Parliament today (18). Remble
-
-◼️
-
-[Data](articles/0fe20661.json)
-
-[Extended Data](ext_articles/0fe20661.ext.json)
 
 ---

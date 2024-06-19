@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 10:34:52**
+As of **2024-06-19 10:53:17**
 
 ## Newspaper Stats
 
-*Scraped **31,067** Articles*
+*Scraped **31,070** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
-dbsjeyarajcom | 286
+dbsjeyarajcom | 287
 bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,702
 economynextcom | 1,792
 dailyftlk | 1,898
-adalk | 2,706
+adalk | 2,707
 adaderanalk | 3,519
 tamilmirrorlk | 3,651
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,047
+adaderanasinhalalk | 5,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,066 (100.0%) of 31,067 articles have been extended.
+31,067 (100.0%) of 31,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### තැපැල් මුද්දරයක මිල ඉහළ ට?
+
+*2024-06-19 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197911) · `si`
+
+තැපැල් මුද්දරයක මිල රුපියල් 100 දක්වා වැඩිකිරීමට යෝජනා කර තිබෙන බව ජනමාධ්‍ය අමාත්‍යංශයේ ලේකම් අනුෂ පැල්පිට මහතා පවසයි.
+
+2022 වන තෙක් රුපියල් 15ක්ව පැවති මුද්දරයක මිල මේ වනවිට රුපියල් 50කි.
+
+තැපැල් දෙපාර්තමේන්තුව දිගින් දිගටම පාඩු ලැබීම හේතුවෙන් මෙම තීරණය ගැනීමට සිදුවන බව ඔහු කීය.
+
+◼️
+
+[Data](articles/5c2dfcf8.json)
+
+---
+
+### හොන්ඩා හා මිට්සුබිෂි එකමුතුවෙන් නව සමාගමක්
+
+*2024-06-19 10:21:09* · [`adalk`](https://www.ada.lk/breaking_news/හොන්ඩා-හා-මිට්සුබිෂි-එකමුතුවෙන්-නව-සමාගමක්/11-410309) · `si`
+
+නව විදුලි වාහන නිපදවිමේ අපේක්සාවෙන් ජපානයේ ප්‍රධාන වාහන නිෂ්පාදන සමාගම් ද්විත්වයක් වන හොන්ඩා සමාගම හා මිට්සුබිෂි සමාගම් ද්විත්වය එක්ව නව සමාගමක් ස්ථාපිත කිරීමට සැලසුම් කර තිබේ. මේ වසරේ ජුලි මාසයේදි ස්ථාපිත කිරීමට නියමිත එම සමාගමේ නාමය වශයෙන් ALTNA යන නම යොදාගෙන තිබේ.
+
+නව සමාගමගේ කොටස් හිමිකාරිත්වයෙන් සියයට 50/50 හොන්ඩා හා මිට්සුබිෂි යන සමාගම් අතර සමව බෙදී යාමට නියමිය. විදුලි වාහන නිපදවිමේදී ඇතිවන අභියෝගවලට සාමූහිකව මුහුණ දීමේ අපේක්ෂාවෙන් ඔවුන් මෙසේ එක්ව කටයුතු කිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/eeaf7428.json)
+
+---
 
 ### Putin arrives in North Korea for first official visit in 24 years
 
@@ -216,19 +246,25 @@ Meanwhile, the earthquake struck at around 11.01pm last night. Remble
 
 ---
 
-### அனுபவம் புதிது:  வவுனியா மக்கள்
+### Experience is new: Vavuniya people
 
 *2024-06-19 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-புதிது-வவுனியா-மக்கள்/175-339110) · `ta`
 
-வவுனியா மற்றும் மதவாச்சியின் பல கிராமங்களில் 2.3 ரிக்டர் அளவில் நில அதிர்வு ஏற்பட்டதாக புவிச்சரிதவியல், நில அளவை மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+Villages in Vavuniya and Madhavachi experienced a 2.3 magnitude earthquake, causing shock among residents due to the sudden noise from windows and doors. The quake occurred at 11.01 pm, adding to the surprise and concern of the locals.
 
-இதனால் சேதங்கள் ஏதும் ஏற்படாத நிலையில் மக்கள்  தங்களது வீடுகளில் ஜன்னல்கள் கதவுகள் சில நொடிகள் பலத்த சத்தத்துடன் அதிர்ந்ததாக தெரிவிக்கின்றனர்.
+🟩
 
-இதேவேளை, நேற்று இரவு 11.01 மணியளவில் இந்த நிலநடுக்கம் ஏற்பட்டமை குறிப்பிடத்தக்கது. R
+According to the Geological Survey, Land Survey and Mining Bureau, there were 2.3 magnitude earthquakes in several villages of Vavuniya and Madhavachi.
+
+People are shocked by the noise of the windows and doors in their homes for a few seconds.
+
+Meanwhile, the earthquake struck at around 11.01pm last night. Remble
 
 ◼️
 
 [Data](articles/b65c7c15.json)
+
+[Extended Data](ext_articles/b65c7c15.ext.json)
 
 ---
 
@@ -1115,6 +1151,38 @@ The police have taken steps to admit to the Tikoya Hospital for the rescued boy 
 [Data](articles/a83b1d41.json)
 
 [Extended Data](ext_articles/a83b1d41.ext.json)
+
+---
+
+### Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.
+
+*2024-06-19 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84194) · `en`
+
+“And one man in his time plays many parts” ,stated  William Shakespeare in his play “As you like it”. The above  mentioned observation by the  Bard of Avon is quite appropriate in describing the life and work of Dr.Nissanka Wijeyeratne whose 100th birth anniversary was  celebrated on June 14.
+
+Nissanka Parakrama Wijeyeratne known popularly as Nissanka was a military officer ,scholar, poet,  Government Agent, Permanent secretary, ),Parliamentarian, Cabinet Minister, Ambassador and above all the Diyawadane Nilame of the  Sri Dalada Maligawa in a  productive life spanning eight decades. This article is to commemorate the birth centenary of this versatile,  multi-faceted personality who rendered yeoman service to his motherland.
+
+...
+
+[Data](articles/fb52118a.json)
+
+[Extended Data](ext_articles/fb52118a.ext.json)
+
+---
+
+### 1961ம் ஆண்டு தமிழர் சத்தியாக்கிரகப் போராட்ட காலத்தில் அன்றைய யாழ்ப்பாண அரசாங்க அதிபர் நிசங்க விஜெயரத்ன‌வின் அனுபவங்கள்
+
+*2024-06-19 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84217) · `en`
+
+” ஒரு மனிதன் தான் வாழும் காலத்தில் பல பாத்திரங்களை வகிக்கிறான்” என்று வில்லியம் சேக்ஸ்பியர் தனது ” நீங்கள் விரும்பிய வண்ணம் ” (As you like it ) என்ற நாடகத்தில் கூறினார். அவரது அந்த அவதானிப்பு கலாநிதி நிசங்க விஜேரத்னவின் வாழ்வையும் பணியையும் வர்ணிப்பதற்கு மிகவும் கச்சிதமாகப் பொருந்துகிறது.
+
+நிசங்க என்று பிரபல்யமாக அறியப்பட்ட நிசங்க பராக்கிரம விஜேரத்னவின்  100 வது பிறந்ததினம் ஜூன் 14 ஆம் திகதியாகும். ஒரு இராணுவ அதிகாரியாக, கல்வியாளராக, கவிஞராக, அரசாங்க அதிபராக, நிரந்தர செயலாளராக, பாராளுமன்ற உறுப்பினராக, கபினெட் அமைச்சராக, தூதுவராக …. இவை எல்லாவற்றுக்கும் மேலாக ஸ்ரீதலதா மாளிகையின் தியவதன நிலாமையாக பயனுறுதியுடைய தனது  எட்டு தசாப்தகால வாழ்வில் விஜேரத்ன பல பதவிகளை வகித்தார்.
+
+தாய்நாட்டுக்கு பெருஞ்சேவையாற்றிய பல்திறப்புலமையும் பன்முக ஆற்றலும் கொண்ட அவரின் பிறந்ததின நூற்றாண்டை முன்னிட்டு இந்த கட்டுரை எழுதப்படுகிறது.
+
+...
+
+[Data](articles/57da933a.json)
 
 ---
 
@@ -2215,107 +2283,5 @@ A proposal by President Ranil Wickremesinghe to extend the term of Attorney Gene
 [Data](articles/3c258e9a.json)
 
 [Extended Data](ext_articles/3c258e9a.ext.json)
-
----
-
-### There are records of 42 death penalties in the country - Minister of Justice
-
-*2024-06-18 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186381) · `ta`
-
-From 1959 to 1975, Sri Lanka had the death penalty, with 42 executions recorded between 1969 and 1976. It hasn't been used since 1976, leading to no death certificate applications in the last 46 years. Executions were carried out in the presence of a doctor, who prepared the death certificate.
-
-🟩
-
-Justice Minister Wijeyadasa Rajapakse said that the death penalty in the country has been in effect from 1959 to 1975, but the death penalty in the country has not been implemented since 1976.
-
-He said this while responding to a question raised by MP at the time of the question of the answer to the oral answer in Parliament on Tuesday (18).
-
-According to a statement issued by the Thumbara Prison Officer, 31 persons have been sentenced to 31 persons at the Bogambara Prison in Kandy from 1959 to 1975.
-
-According to prison reports, 42 people were executed from 1969 to 1976.
-
-The death penalty in the country has not been implemented since 1976. Accordingly, death certificates are issued under the normal procedure.
-
-Due to the lack of death penalty, no one in the country has submitted applications for the death certificate for 46 years.
-
-...
-
-[Data](articles/1148016e.json)
-
-[Extended Data](ext_articles/1148016e.ext.json)
-
----
-
-### Four Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-06-18 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99950/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-Four Indian fishermen along with a trawler have been arrested by Sri Lanka Navy personnel during a special operation conducted to chase away Indian poaching trawlers from Sri Lankan waters off the Delft Island, Jaffna.
-
-The operation carried out in the wee hours of today (18) had led to the seizure of 01 Indian trawler and the apprehension of 04 Indian fishermen poaching in Sri Lankan waters, the Navy said.
-
-Sri Lanka Navy says it continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
-
-As an extension of these efforts, the Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Delft Island.
-
-...
-
-[Data](articles/dc7cd750.json)
-
-[Extended Data](ext_articles/dc7cd750.ext.json)
-
----
-
-### Striking uni non-academic staff to hold talks with UGC
-
-*2024-06-18 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99949/striking-uni-non-academic-staff-to-hold-talks-with-ugc) · `en`
-
-A discussion is scheduled to be held today (18) between the University Grants Commission (UGC) and representatives of the University Trade Union Joint Committee (UTUJC) to address the latter’s wage issues.
-
-UTUJC co-chairman Dhammika S. Priyantha emphasized that the strike action, now in its 48th day, will continue until proper solutions are provided by the authorities.
-
-Underscoring the urgency of finding an immediate solution, Priyantha stated that if the UGC also fails to offer adequate solutions, the trade union action will persist.
-
-Education Minister Susil Premajayantha commented on the situation, noting that there had been an agreement to address the wage concerns of university non-academic staff next year.
-
-He mentioned that “a second request came after the increase of the academic allowance for non-academic staff.”
-
-...
-
-[Data](articles/29085c16.json)
-
-[Extended Data](ext_articles/29085c16.ext.json)
-
----
-
-### World's fastest T20 century records
-
-*2024-06-18 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197888) · `si`
-
-Estonia's cricket team set a new world record for the fastest T20 century, scoring it in just 27 balls against Cyprus. This surpassed Jan Nicol Loftie-Eaton's previous record of 33 balls, which stood for only four months. The match took place in Cyprus, where five Sri Lankan players represented the host team. Despite Cyprus' strong start with 191 runs in seven overs, Estonia secured victory with 194 runs in 13 overs.
-
-🟩
-
-The Estoniah group became the player who scored the fastest T20 century in the world.
-
-His centuries recorded in 27 balls against the Cyprus.
-
-Earlier, the fastest T20 century in the world reportedly jan-nicol loftie eatie. He scored his century in 33 balls. His world record was only for 4 months.
-
-The 20 and 20 match between Cyprus team and Estonia were held yesterday (17) at Episkopi in Cyprus.
-
-The cyprus scored 191 runs for the loss of 7 wickets in their seven wickets in their seven overs.
-
-Five Sri Lankan players play for Cyprus.
-
-Buddhika Mahesh, Mangala Gunasekara, Chamal Sandun, Akila Kalugala and Sachithra Pathirana are the players.
-
-In response, the Estonia won the match with 194 runs for the loss of 4 wickets in 13 overs.
-
-◼️
-
-[Data](articles/41f3d84e.json)
-
-[Extended Data](ext_articles/41f3d84e.ext.json)
 
 ---

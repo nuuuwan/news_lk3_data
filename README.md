@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 20:53:36**
+As of **2024-06-19 21:04:25**
 
 ## Newspaper Stats
 
-*Scraped **31,163** Articles*
+*Scraped **31,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,67 @@ adaderanalk | 3,532
 tamilmirrorlk | 3,663
 dailymirrorlk | 4,733
 virakesarilk | 4,808
-adaderanasinhalalk | 5,066
+adaderanasinhalalk | 5,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,160 (100.0%) of 31,163 articles have been extended.
+31,163 (100.0%) of 31,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
 
-### පියුමි හංසමාලිගේ බැංකු ගිණුම් ගැන විමර්ශන
+### තැපැල් ස්ථානයේ සිදුකළ ගුටි කෙළිය
+
+*2024-06-19 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197932) · `si`
+
+පානදුර තැපැල් ස්ථානාධිපතිවරයාට පහරදීමේ සිද්ධියක්  සම්බන්ධයෙන් එම තැපැල් කාර්යාලයේ සේවකයින් පස්දෙනෙකු  අද (19) අත්අඩංගුවට ගත් බව පානදුර දකුණ පොලීසිය පවසයි.
+
+තැපැල් ස්ථානාධිපතිවරයා සහ පහරදීමට සම්බන්ධ පුද්ගලයන් කරන ලද පැමිණිලි මත එම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගියදා පැවැත්වූ වැඩවර්ජනයේදී සේවකයින් රාජකාරියට වාර්තා කිරීම සම්බන්ධයෙන් ඇතිවූ කතාබහක් මුල්කර ගනිමින් එම පහරදීම සිදුකර ඇති බවත් පොලීසිය පැවසීය.
+
+සැකකරුවන් පොලිස් ඇපමත මුදාහැර ඇති අතර ඔවුන් සමථ මණ්ඩලය වෙත යොමුකළ බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/79d3156f.json)
+
+---
+
+### Investigations into Piyumi Hansalai's bank accounts
 
 *2024-06-19 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197931) · `si`
 
-ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලී මෙරට ප්‍රධාන පෙළේ බැංකු 08ක පවත්වාගෙන යන ගිණුම් 19ක වාර්තා කැඳවීමට කොළඹ අලුත්කඩේ අංක 04 මහෙස්ත්‍රාත් මංජුල තිලකරත්න මහතා නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට අවසර ලබාදුනි.
+The Illegal Asset Investigation Division is probing Piyumi Hansalai's bank accounts, linked to 8 of Sri Lanka's top 19 banks, following a complaint by the Organization's President, Sanjaya Chairman. The investigation, authorized by the Court of Justice, involves allegations of financial irregularities, including spending by former President Gotabhaya Rajapaksa and investments in a luxury property. The probe focuses on activities spanning 2020 and 2023, with her coating manufacturing company identified as a primary source of income.
 
-ඒ ඇය සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි කියමින් ලද පැමිණිල්ලකට අනුව අධිකරණයට කළ කරුණු දැක්වීමකදීය.
+🟩
 
-මගෙන් රටට සංවිධානයේ සභාපති සංජය මහවත්ත කළ පැමිණිල්ලක් අනුව මෙම විමර්ශනය ආරම්භ කර තිබේ.
+Colombo Maglakara No 4 Magulakara No 4 Magulakara, Section No. 04 of the 19-leading banks in the country, has been issued to the Illegal Asset Investigation Division.
 
-ඊට අදාළව ඊයේ දිනයේදී කොළඹ අලුත්කඩේ අංක 04ක අධිකරණයට එම කොට්ඨාසයේ ''සංවිධානාත්මක අපරාධ මගින් උපයා ගන්නා වත්කම් විමර්ශන ඒකකය'' කරුණු දක්වීය.
+According to a complaint lodged in court, she had earned billions of rupees.
 
-එහිදී විමර්ශන නිලධාරීන් පැවසුවේ මෙරට ප්‍රධාන පෙළේ බැංකු 8ක ඇය ගිණුම් 19ක් පවත්වාගෙන යන බවය.
+The investigation has commenced following a complaint lodged by the President of the Organization Sanjaya Chairman.
 
-ඒ අනුව අදාළ ගිණුම්වල වාර්තා කැඳවීමට අධිකරණය විමර්ශන නිලධාරීන්ට අවසර ලබාදුනි.
+The 'Assets' (Asset Investigation Unit of Organization) '' Assets 'Asset Unit'
 
-එමෙන්ම හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ ජීප් රථය ඇය රුපියල් ලක්ෂ 780ක් වැය කර එය හිමි පුද්ගලයාගෙන් මිලදී ගෙන ඇති බවද විමර්ශන නිලධාරීන් අධිකරණය හමුවේ කරුණු වාර්තාකර තිබේ.
+Investigations officers said that 8 of the country's leading banks were running 19 accounts.
+
+Accordingly, the Court of Justice granted permission to investigate the reports of the accounts.
+
+The Investigation Officers have also been purchased from the court that she had spent former President Gotabhaya Rajapaksa.
+
+The Investigation Officers have also bought a house from a luxury housing complex in Ward Place, Colombo 7.
+
+They also said that she had paid the money during the year 20 and 2023.
 
 ...
 
 [Data](articles/c9fc6447.json)
+
+[Extended Data](ext_articles/c9fc6447.ext.json)
 
 ---
 
@@ -73,6 +101,8 @@ The visit will add momentum to connectivity projects and other mutually benefici
 ◼️
 
 [Data](articles/16ad3aff.json)
+
+[Extended Data](ext_articles/16ad3aff.ext.json)
 
 ---
 
@@ -142,21 +172,27 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 
 ---
 
-### කර්මාන්තකරුවන්ට මූල්‍ය සහාය ලබාදීම සඳහා නව සංවර්ධන බැංකුවක්
+### New development bank to support industrialists
 
 *2024-06-19 19:06:36* · [`adalk`](https://www.ada.lk/breaking_news/කර්මාන්තකරුවන්ට-මූල්‍ය-සහාය-ලබාදීම-සඳහා-නව-සංවර්ධන-බැංකුවක්/11-410320) · `si`
 
-මෙරට කර්මාන්තකරුවන්ට අවශ්‍ය මුල්‍ය සහාය ලබාදීම වෙනුවෙන් නව සංවර්ධන බැංකුවක් ආරම්භ කිරීමට අපේක්ෂා කරන බවත්, එමගින් කර්මාන්තකරුවන්ට අඩු පොලියට ණය ලබා ගැනීමට අවස්ථාව සැලසෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka's President Ranil Wickremesinghe announced the establishment of a new development bank aimed at supporting the nation's industrial sector, particularly small and medium-sized enterprises. This initiative is part of the "Enterprise Sri Lanka" scheme, unveiled during the International Industry Expo 2024. The expo, organized by the Ministry of Industry and Health, showcases over 1,000 local and international businesses across 1307 stalls, including a dedicated Green Industrial Zone. The event emphasizes green industrialization and aims to foster economic growth through innovation and collaboration.
 
-එම කටයුතු ඉදිරියට ගෙන යාම වෙනුවෙන් ආර්ථික කොමිෂමක් ඇති කරන අතර සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයන් ශක්තිමත් කිරීම වෙනුවෙන් “එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා” නමින් නව ආයතනයක් පිහිටුවන බවද ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ශ්‍රි ලංකාවේ ප්‍රථම වරට පැවැත්වෙන ඉන්ටනැෂනල් ඉන්ඩස්ට්‍රි එක්ස්පෝ 2024 (International Industry Expo 2024) ප්‍රදර්ශනය අද (19) පෙරවරුවේ විවෘත කරමිනි.
+President Ranil Wickremesinghe said that a new development bank is expected to open a new development bank to the Sri Lankan industry.
 
-කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් පරිදි කර්මාන්ත අමාත්‍යාංශයේ මෙහෙයවීමෙන්, කර්මාන්ත සංවර්ධන මණ්ඩලය විසින් සංවිධානය කළ මෙම ප්‍රදර්ශනය අද සිට ජූනි 23 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවැත්වේ.
+The President said that a new institution is established in the "Enterprise Sri Lanka" to strengthen small and medium scale entrepreneurs.
+
+President Ranil Wickremesinghe said this was stated by the first International International Industryi Expo 2024 (INTERNATIONAL Industry Expo 2024) Exhibition was opened today (19th).
+
+The exhibition organized by the Ministry of Industry and Health, the Industry Ministry of Industry and Industry Development will be held from today to June to June 23 at the Bandaranaike Memorial International Conference Hall.
 
 ...
 
 [Data](articles/87540b31.json)
+
+[Extended Data](ext_articles/87540b31.ext.json)
 
 ---
 
@@ -2359,23 +2395,5 @@ The Deputy Director General of the Festival Festival, said that steps have been 
 [Data](articles/d41c78b5.json)
 
 [Extended Data](ext_articles/d41c78b5.ext.json)
-
----
-
-### Indian Foreign Minister to visit Sri Lanka
-
-*2024-06-19 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197905) · `si`
-
-Dr. S. Sahana, India's Foreign Minister, will visit Sri Lanka tomorrow for official talks.
-
-🟩
-
-Indian Foreign Minister Dr. S. Sahana for an official visit. Jayashankar is due to arrive in Sri Lanka tomorrow (20).
-
-◼️
-
-[Data](articles/e3cfce91.json)
-
-[Extended Data](ext_articles/e3cfce91.ext.json)
 
 ---

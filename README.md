@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-19 07:01:36**
+As of **2024-06-19 07:24:54**
 
 ## Newspaper Stats
 
-*Scraped **31,035** Articles*
+*Scraped **31,038** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 283
-dbsjeyarajcom | 285
+dbsjeyarajcom | 286
 bbccomsinhala | 303
 newsfirstlk | 363
 islandlk | 1,694
@@ -20,17 +20,61 @@ adaderanalk | 3,515
 tamilmirrorlk | 3,646
 dailymirrorlk | 4,733
 virakesarilk | 4,784
-adaderanasinhalalk | 5,036
+adaderanasinhalalk | 5,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,029 (100.0%) of 31,035 articles have been extended.
+31,035 (100.0%) of 31,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-19 (Wednesday)
+
+### අද සිට වැස්ස වැඩිවෙයි - ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+
+*2024-06-19 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197901) · `si`
+
+දිවයිනේ නිරිතදිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් අද (19) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+
+බස්නාහිර, සබරගමුවසහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්ක වලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/b05aa47c.json)
+
+---
+
+### වව්නියාවේ භූකම්පනයක්
+
+*2024-06-19 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197899) · `si`
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය සඳහන් කළේ, ඊයේ (18) රාත්‍රී 10.55 ත් 11.10 අතර කාලසීමාව තුළ මෙම භූකම්පනය සිදුව ඇති බවය.
+
+වව්නියාව, මැදවච්චිය ඇතුළු ප්‍රදේශවලට මෙම භූකම්පනය දැනී ඇති බව සඳහන්ය.
+
+රික්ටර් මාපකයේ ඒකක 2.3 ලෙස එහි ප්‍රබලත්වය සටහන් වී ඇති බව භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යංශය පැවසුවේය.
+
+එම කාර්යංශය සඳහන් කළේ, මෙම භූකම්පනය පල්ලකැලේ, මහකනදරාව සහ හක්මන යන භූකම්පන මධ්‍යස්ථානවල සටහන් ඇති බවය.
+
+"ළමයි දෙන්නා පාඩම් කර කර හිටියේ. එතපාරම අමුතු සද්දයක් ආවා. මේසේ උඩ තිබුණ ඒවා හෙල්ලිලා ගියා. අපිට ඇත්තටම බය වුණා සෑහෙන්න. විනාඩි 3ක් වගේ තිබුණා."
+
+"පොළොව යටින් මොකක්ද යනවා වගේ දැනුනේ. මහා විශාල ශබ්දයක් ආවා. නිදාගෙන හිටිය කාමරේ ජනේල් දෙදරුවා. ලොකු දෙදරීමක්..."
+
+"අපි නිදාගන්න ලෑස්තිවෙලා හිටියේ. එකපාරම අකුණු සැරක් වෙගේ සද්දයක් එක්ක ජනෙල් හෙල්ලුණා. පොළොවත් ගොඩක් හෙල්ලුණා. අපි හිතුවා ගල්කොරියක වගේ බ්ලාස්ට් එකක් කියලා."
+
+◼️
+
+[Data](articles/5777600c.json)
+
+---
 
 ### The West and the rest: Is there another way of mapping the global divide?
 
@@ -300,113 +344,155 @@ Wijewardane appreciated China’s assistance to Sri Lanka during challenging tim
 
 ---
 
-### வேலையற்ற பட்டதாரிகளின் போராட்டம் : வீதியில் சென்ற வாகனங்கள் மீதும் இலக்கு தவறிய பொலிஸாரின் கண்ணீர் புகை குண்டு தாக்குதல்
+### Unemployed Graduates Struggle
 
 *2024-06-19 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186415) · `ta`
 
-பொல்துவ சந்தியிலிருந்து பாராளுமன்ற வீதிக்குள் நுழைய முற்பட்ட வேலையற்ற பட்டதாரிகளின் போராட்டம் செவ்வாய்க்கிழமை (18) இடம்பெற்றுள்ளது.
+Unemployed graduates protested in Battaramulla on Tuesday, demanding jobs. Police responded with tear gas and water cannons, also targeting vehicles on the road.
 
-குறித்த ஆர்ப்பாட்டத்தின் மீது பொலிஸார் நீர் மற்றும் கண்ணீர் புகை குண்டுகளை வீசி தாக்குதல் நடத்தியிருந்தனர்.
+🟩
 
-சகல வேலையற்ற பட்டதாரிகளுக்கும் உடனடியாக  தொழில் வழங்குமாறு கோரி பத்தரமுல்லை தியத உயன முன்பாக செவ்வாய்க்கிழமை (18) பிற்பகல் வேலையற்ற பட்டதாரிகள் குழுவொன்று ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+The struggle of unemployed graduates who sought to enter the parliament road from the Poltuwa junction took place on Tuesday (18).
 
-ஆனால், போராட்டக்காரர்கள் கலைந்து செல்லாததால் பொலிஸார் கண்ணீர் புகை குண்டுகளை வீசி தாக்குதலை மேற்கொண்டனர்.
+Police attacked water and tear gas bombs on the demonstration.
 
-இதன்போது, வீதியில் செல்லும் கார்கள் மற்றும் மோட்டார் சைக்கிள்கள் மீதும் நீர்த்தாரை தாக்குதல் மேற்கொள்ளப்பட்டிருந்தமை குறிப்பிடத்தக்து.
+A group of unemployed graduates staged a demonstration on Tuesday afternoon before Battaramulla demanding employment to all unemployed graduates.
+
+However, the police threw tear gas bombs and attacked the protesters.
+
+It is noteworthy that the reservoir was also attacked by cars and motorcycles on the road.
 
 ◼️
 
 [Data](articles/5318da41.json)
 
+[Extended Data](ext_articles/5318da41.ext.json)
+
 ---
 
-### இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் தமிழ்த் தலைவர்களுடன் முக்கிய சந்திப்பு
+### Indian External Affairs Minister Jaishankar meets with Tamil leaders
 
 *2024-06-19 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186414) · `ta`
 
-இலங்கைக்கு எதிர்வரும் 20ஆம் விஜயம் மேற்கொள்ளும் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி.சுப்ரமணியம் ஜெய்சங்கர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, பிரதமர் தினேஷ் குணவர்த்தன, வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி ஆகியோரைச் சந்திக்கவுள்ளார்.
+Dr. Subramaniam Jaishankar, India's External Affairs Minister, visits Sri Lanka post-elections, meeting key political figures including President Ranil Wickremesinghe, PM Dinesh Gunawardena, and opposition leader Sajith Premadasa. He also engages with Tamil, upcountry, and Muslim party leaders, focusing on enhancing India's investments and bilateral ties in Sri Lanka ahead of Sri Lanka's upcoming presidential election.
 
-அதனைத்தொடர்ந்து அவர் எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச, வடக்கு,கிழக்கு தமிழ்க் கட்சிகளின் தலைவர்களையும், மலையகக் கட்சிகளின் தலைவர்களையும் சந்திக்கவுள்ளார். அத்தோடு முஸ்லிம் கட்சிகளின் பிரதிநிதிகளையும் சந்திக்கவுள்ளார்.
+🟩
 
-இந்திய பாராளுமன்றத் தேர்தல்கள் நிறைவடைந்ததன் பின்னர் மீண்டும் வெளிவிவாகார அமைச்சர் பதவியை ஏற்றுள்ள காலநிதி. சுப்ரமணியம் ஜெய்சங்கர் இலங்கைக்கு மேற்கொள்ளும் முதலாவது விஜயம் இதுவாகும்.
+Indian External Affairs Minister Dr. Subramaniam Jaishankar will meet with President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and External Affairs Minister Ali Sabri.
 
-இந்த விஜயத்தின் போது, இலங்கையில் இந்தியாவின் முதலீடுகள் மற்றும் இருதரப்பு உறவுகள் உட்பட பரஸ்பர ஒத்துழைப்புக்கள் தொடர்பில் கவனம் செலுத்தப்படவுள்ளதாக இந்திய வெளிவிவகார அமைச்சின் தகவல்கள் தெரிவிக்கின்றன.
+He will then meet opposition leader Sajith Premadasa, the leaders of the North and East Tamil parties and the leaders of the upcountry parties.. He will also meet representatives of Muslim parties.
 
-...
+After the end of the Indian parliamentary elections. This is the first visit to Subramaniam Jaishankar to Sri Lanka.
+
+During the visit, the Indian Foreign Ministry reports that mutual cooperation will be focused on India's investments and bilateral relations in Sri Lanka.
+
+It is also expected that he will focus on the fields before the next presidential election in Sri Lanka.
+
+◼️
 
 [Data](articles/b0d0cfb5.json)
 
+[Extended Data](ext_articles/b0d0cfb5.ext.json)
+
 ---
 
-### அதிக வருமானம் ஈட்டுவோருக்கே வாடகை வரி  விதிக்கப்படும் - ஜனாதிபதி சபையில் தெரிவிப்பு
+### Tax tax on high income earners
 
 *2024-06-19 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186413) · `ta`
 
-முதலாவது சொத்துக்கு வருமானம் ஈட்டுவோர் உத்தேச வாடகை வரியில் இருந்து விடுவிக்கப்படுவர். சாதாரண வருமானம் ஈட்டுபவர்களுக்கு அன்றி, அதிக வருமானம் ஈட்டுவோருக்கே இந்த வரி விதிக்கப்படும். எனவே ஒரு வீடு உள்ள நீங்கள் பயப்பட வேண்டியதில்லை ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a proposed rental tax targeting high-income individuals, excluding 90% of homeowners from its scope. He assured that this measure does not threaten the safety of homes for the majority. The focus is on wealthier individuals, including billionaires, indicating a targeted approach rather than a broad impact on ordinary income earners.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (18) உத்தேச வாடகை வரி தொடர்பில் விளக்கமளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நிதிப் பிரச்சினைகள் விவாதிக்கப்பட்டபோது நான் பாராளுமன்றத்தில் இல்லாததால், நிதியமைச்சர் என்ற முறையில், வாடகை வருமான வரி குறித்து பாராளுமன்றத்துக்குத் தெரிவிக்க விரும்புகிறேன்.
+The first property earners will be released from the proposed rent line. This tax will be levied on those who earn more income. So you do not have to be afraid in a house, President Ranil Wickremesinghe said.
 
-இதில் மிக அதிக வருமான வரம்பு உள்ளது. நாட்டில் உள்ள 90வீத வீடுகளுக்கு இது பொருந்தாது.எனவே ஒரு வீடு உள்ள நீங்கள் பயப்பட வேண்டியதில்லை. உங்கள் வீடு பாதுகாப்பாக உள்ளது. இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் தங்கள் வீடுகளைப் பற்றி பயப்பட வேண்டியதில்லை
+He said this in a briefing on the proposed rental tax on Tuesday (18) in Parliament.
 
-ஆனால் நாம் செல்வ வரியை அமுல்படுத்த வேண்டும். ஐக்கிய மக்கள் சக்தி வருத்தப்படுவதை நான் அறிவேன். அவர்களுடன் இருக்கும் கோடீஸ்வரர்களை இந்த வரி பாதிக்கிறது என்பதுதான் காரணம் என்று நினைக்கிறேன்.
+As I am not in Parliament when the financial issues were discussed, I would like to inform parliament about the rental income tax.
 
-...
+There is a very high income limit. This is not applicable to 90 percent homes in the country. So you don't have to be afraid in a house. Your home is safe. Most people in this country don't have to be afraid of their homes
+
+But we have to implement the wealth line. I know that united people's power is upset. I think the reason is that this line affects the billionaires with them.
+
+The first property earners will be released from the proposed rent line. He said the tax would be levied on those who earn more income, not ordinary income.
+
+◼️
 
 [Data](articles/3c8ee6b9.json)
 
+[Extended Data](ext_articles/3c8ee6b9.ext.json)
+
 ---
 
-### ’ஆண்களுக்கு நிகரான உரிமைகள் பெண்களுக்கும்’
+### The rights of men are equal to women
 
 *2024-06-19 02:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்களுக்கு-நிகரான-உரிமைகள்-பெண்களுக்கும்/175-339106) · `ta`
 
-ஆண்களுக்கு நிகரான உரிமைகளை பெண்களுக்கும் வழங்குவதே அரசாங்கத்தின் நோக்கமாகும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the government's commitment to gender equality, aiming to grant women the same rights as men. This stance was highlighted during an event at the Sirikotha Party headquarters, where appointment letters were issued to regional organizers under the United National Party's restructuring. Despite the Male and Female Equality Bill being debated in Parliament and a High Court ruling against equal rights for women, the President reassured that the government remains dedicated to achieving this goal, aligning with international standards and ensuring no institution can hinder this progress.
 
-ஐக்கிய தேசியக் கட்சியின் புதிய மறுசீரமைப்பின் கீழ் நியமிக்கப்பட்டுள்ள பிராந்திய அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு நேற்று சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது.
+🟩
 
-இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+President Ranil Wickremesinghe said the government's aim was to give women the rights of men.
 
-ஐக்கிய தேசியக் கட்சியின் மறுசீரமைப்பு வேலைத்திட்டத்தின் கீழ் நியமிக்கப்பட்ட புதிய பிராந்திய அமைப்பாளர்களுக்கான நியமனக் கடிதங்களை வழங்கும் இரண்டாம் கட்ட நிகழ்வில் இன்று கலந்துகொள்வதில் மகிழ்ச்சியடைகிறேன்.
+The event was held at the party headquarters yesterday at the Sirikotha Party headquarters to issue appointment letters to regional organizers appointed under the new restructuring of the United National Party.
+
+The President said this while addressing the event.. As he further stated,
+
+I am happy to attend the second phase of the event today issuing appointment letters to the new regional organizers appointed under the UNP Reconstruction Program.
+
+The Male and Female Equality Bill discussed a long time in Parliament today. But women have no equal rights according to the High Court ruling. I told Parliament that the majority of women in the country's population cannot be considered as a decision against the parliament and the constitution of this country.
 
 ...
 
 [Data](articles/36b4398b.json)
 
+[Extended Data](ext_articles/36b4398b.ext.json)
+
 ---
 
-### தெரிவுக்குழு அமைப்பதில் உடன்பாடு இல்லை; எதிர்க்கட்சித் தலைவர் சஜித் சபையில் தெரிவிப்பு
+### There is no agreement in setting up the Select Committee;Opposition Leader Sajith
 
 *2024-06-19 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186412) · `ta`
 
-உயர் நீதிமன்றம் வழங்கிய முடிவுகளை ஆராய தெரிவுக் குழு நியமிப்பதில் எமக்கு உடன்பாடில்லை. குறைபாடுகள் இருப்பின் வேறு ஏற்றுக்கொள்ளத்தக்க சட்டரீதியான ஏற்பாடுகள் ஊடாக இந்தக் குறைபாடுகளை நிவர்த்தி செய்ய வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Disagreement over forming a Select Committee to probe High Court rulings was expressed by Opposition Leader Sajith Premadasa. He suggested addressing issues through alternative legal means rather than appointing such committees. This comes after Speaker Mahinda Yapa Abeywardena commented on the Gender Equality Bill in the Supreme Court, highlighting concerns about the balance of power among the executive, legislative, and judicial branches.
 
-பாலின சமத்துவம்  சட்டமூலம் தொடர்பிலான உயர் நீதிமன்றத்தின் வியாக்கியானதை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன செவ்வாய்க்கிழமை (18) சபைக்கு அறிவித்த பின்னர், அதுதொடர்பில்  ஜனாதிபதி தெரிவித்த கூற்று தொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-எமது நாட்டின் முத்தரப்பு ஜனநாயக கட்டமைப்பில், நிறைவேற்று அதிகாரி, சட்டவாக்கம் மற்றும் நீதித்துறை ஆகிய மூன்று நிறுவனங்களிலும் தடைகள் மற்றும் சமன்பாடுகள் முறையும், அதேபோல் இவற்றுக்கிடையே அதிகாரப் பகிர்வும் மேற்கொள்ளப்பட்டுள்ளன. உயர் நீதிமன்றம் வழங்கிய தீர்ப்பில் குறைபாடுகள் இருப்பின், தடைகள் மற்றும் சமன்பாடுகள் முறைக்கு பாதிப்பு ஏற்படாத வகையிலேயே இது திருத்தப்பட வேண்டும்
+We do not agree with the appointment of the Select Committee to investigate the decisions given by the High Court. Opposition Leader Sajith Premadasa said that if there are disadvantages, other acceptable legal arrangements should be addressed by these shortcomings.
+
+Speaker Mahinda Yapa Abeywardena on Tuesday (18) of the Supreme Court on the Gender Equality Bill made this comment on the statement made by the President on Tuesday (18).
+
+In the tripartite democratic structure of our country, all three institutions, the Executive Officer, the Law and the Justice Department, have been restricted and the sharing of power among them.. If there are defects in the Supreme Court's ruling, this should be amended in a manner that does not affect obstacles and equations
 
 ...
 
 [Data](articles/db67f33e.json)
 
+[Extended Data](ext_articles/db67f33e.ext.json)
+
 ---
 
-### கடல் நீரில் மூழ்கிய இளைஞன்; ஆபத்தான நிலையில் மீட்பு!
+### A young man drowned in the sea;Recovery in dangerous condition!
 
 *2024-06-19 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186411) · `ta`
 
-பாசிக்குடா கடலில் நீராடிய இளைஞன் ஒருவன் நீரில் மூழ்கிய நிலையில் காப்பாற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 21-year-old man drowned in the Pasikuda Sea but was rescued and is now in critical condition at the Batticaloa Teaching Hospital.
 
-காத்தான்குடி பகுதியைச் சேர்ந்த நண்பர்கள் செவ்வாய்க்கிழமை (18)  பாசிக்குடா கடலில் நீராடிக் கொண்டிருந்த போது 21 வயதுடைய இளைஞன் ஒருவர் நீரில் மூழ்கியுள்ளார்.
+🟩
 
-நீரில் மூழ்கிய இளைஞனை பாசிக்குடா கடற்படையினர், பொலிஸார் ஆபத்தான நிலையில் மீட்டு வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+Police said that a young man who was drowned in the Pasikuda Sea was rescued after being drowned.
 
-நீரில் மூழ்கிய இளைஞன் கூடுதலாக நீர் அருந்தியதில் மேலதிக சிகிச்சைக்காக மட்டக்களப்பு போதனா வைத்தியசாலைக்கு இடமாற்றப்பட்டுள்ளார்.
+A 21 -year -old youth was drowned while friends from Kattankudi area were drowning in the Pasikuda Sea on Tuesday (18).
+
+The Pasikuda Navy has rescued the drowning youth and admitted to the Valaichenai Resource Hospital.
+
+The drowning youth has been transferred to the Batticaloa Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/b97ff441.json)
+
+[Extended Data](ext_articles/b97ff441.ext.json)
 
 ---
 
@@ -2309,47 +2395,5 @@ The country's Air Transport Regulatory Agency said on its website that 4 flights
 [Data](articles/e690b46c.json)
 
 [Extended Data](ext_articles/e690b46c.ext.json)
-
----
-
-### The use of water on demonstrators
-
-*2024-06-18 13:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டக்காரர்கள்-மீது-நீர்த்தாரை-பிரயோகம்/175-339074) · `ta`
-
-Water cannons have been used against demonstrators as a crowd control measure, often criticized for causing physical harm and psychological distress.
-
-🟩
-
-◼️
-
-[Data](articles/1c0ccf91.json)
-
-[Extended Data](ext_articles/1c0ccf91.ext.json)
-
----
-
-### Children will find other knowledge sources
-
-*2024-06-18 13:13:10* · [`adalk`](https://www.ada.lk/breaking_news/දිගටම-ලෙඩ-වන-ගුරුවරුන්-හැර-දා-දරුවන්-වෙනත්-දැනුම්-මූලාශ්‍ර-සොයා-යනවා/11-410288) · `si`
-
-Dr. Susil Premajayantha, Minister of Education, highlighted the importance of digitalizing schools to provide uniform educational resources to students nationwide. He emphasized the need for teachers to adapt to new knowledge and skills to effectively educate students in a rapidly changing world. The event was part of the Gothami Girls' School Poster Art Competition, where the Minister also stressed the significance of education in preparing children for future challenges.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha said that the current students were engaged in the same slogan and lay on the sick and sick.
-
-The Minister made this observation at the Gothami Girls 'School Poster Art Competition at Gothami Girls' College, Colombo.It is not possible that these cannot be understood mainly, mainly teachers and adults.
-
-The Minister said that all school digitizes all schools and take into the same network to the children from one place from one place to one place.. Susil Premajayantha said that teachers should be effective in achieving the skills of the new knowledge and to meet the skills that students need to be determined and updating.
-
-The Minister emphasized here that it is useless to change the environment and the world without changes in the changing world and education.
-
-Bernard Staffon, Managing Director of Nestle Fernando, Nestle Fernando, Nestle Lanka, the Director of Nestle Lanka (Collective Affairs and Communications) were brought to Ruwan Welikala.
-
-◼️
-
-[Data](articles/cfee71d8.json)
-
-[Extended Data](ext_articles/cfee71d8.ext.json)
 
 ---

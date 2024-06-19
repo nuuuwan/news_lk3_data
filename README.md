@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 02:19:29**
+As of **2024-06-20 02:34:35**
 
 ## Newspaper Stats
 
-*Scraped **31,190** Articles*
+*Scraped **31,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,804
 dailyftlk | 1,899
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,664
+tamilmirrorlk | 3,666
 dailymirrorlk | 4,733
 virakesarilk | 4,820
 adaderanasinhalalk | 5,069
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,190 (100.0%) of 31,190 articles have been extended.
+31,190 (100.0%) of 31,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### ’இழுவை மடிவலை பயன்பாடு அதிகரிப்பு’
+
+*2024-06-20 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழுவை-மடிவலை-பயன்பாடு-அதிகரிப்பு/175-339155) · `ta`
+
+மீன்பிடி நடவடிக்கையின் போது இழுவை மடிவலை பயன்பாட்டுக்கு தடை விதிக்கப்பட்டுள்ள போதும், யாழ். மாவட்டத்தில் சில இடங்களில் சட்டத்தை மீறி அந்த வலை பயன்படுத்தப்படுவதாக முறைப்பாடுகள் கிடைப்பதாகவும், இது தொடர்பில் கடற்றொழில் அமைச்சர் உரிய கவனம் செலுத்த வேண்டும் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (19), கடற்றொழில் அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கோரிக்கை விடுத்துள்ளார்.
+
+2017/11ஆம் இலக்க நீரியல்வள திருத்த சட்டத்தின் பிரகாரம் இழுவை மடிவலை தடை செய்யப்பட்டுள்ளது. நாட்டின் ஏனைய பகுதிகளில் இழுவை மடிவலை பாவனையை நிறுத்துவதற்கு கடற்றொழில் அமைச்சு நடவடிக்கை எடுத்துள்ள போதிலும் யாழ் மாவட்டத்தின் பல பகுதிகளில் அந்த இழுவை மடிவலை பயன்படுத்தப்படுவதாக முறைப்பாடுகள் கிடைத்துள்ளன.
+
+...
+
+[Data](articles/95384dc2.json)
+
+---
+
+### காட்டுப் பாதை திறக்கப்படும்
+
+*2024-06-20 01:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்-பாதை-திறக்கப்படும்/175-339154) · `ta`
+
+கதிர்காமத்துக்கான காட்டுப் பாதை எதிர்வரும் 30 ஆம் திகதி திறக்கப்படும். அதனைத் திறந்து வைக்க கிழக்கு ஆளுநர் செந்தில் தொண்டமான் வருகைதரவிருக்கிறார் என  அம்பாறை மாவட்ட அரசாங்க அதிபர் சிந்தக அபேவிக்ரம, தெரிவித்துள்ளார்.
+
+தன்னைச் சந்தித்த ஆலையடிவேம்பு பிரதேச அனைத்து இந்து ஆலயங்களின் ஒன்றியத்தினரிடம் தெரிவித்தார்.  இச் சந்திப்பு அம்பாறை மாவட்ட செயலகத்தில் செவ்வாய்க்கிழமை (18)  நடைபெற்றது.
+
+ஆலையடிவேம்பு பிரதேச அனைத்து இந்து ஆலயங்களின் ஒன்றிய தலைவர் மு.வடிவேல் செயலாளர் எஸா.செல்வானந்தன் பொருளாளர் இ.ஜெகநாதன்( குமார்) உள்ளிட்ட பிரதிநிதிகள் கலந்து கொண்டனர்.
+
+அதன் போது குழுவினர் பத்து நாட்களுக்கு முன்னரே அதாவது 25 ஆம் திகதி காட்டுப் பாதை திறக்கப்பட வேண்டும் எனக் கோரிக்கை விடுத்தனர்.
+
+அதற்கு பதிலளித்த அரசாங்க அதிபர் சிந்தக அபேவிக்ரம,  மேற்படி காட்டுப்பாதை 30 ஆம் திகதி திறக்கப்படும் என்றார்.
+
+◼️
+
+[Data](articles/22a95899.json)
+
+---
 
 ### South Africa won by 18 runs in the midst of the United States challenge
 
@@ -2409,47 +2445,5 @@ However, sources added that he will continue to strive for the victory of the PA
 [Data](articles/4afd38ab.json)
 
 [Extended Data](ext_articles/4afd38ab.ext.json)
-
----
-
-### Sri Lanka hSenid to use IPO funds for market development
-
-*2024-06-19 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-hsenid-to-use-ipo-funds-for-market-development-168654/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based tech company hSenid Business Solutions will reallocate 350 million rupees raised through an initial public offering for acquisitions in APAC and East African regions, for market development instead.
-
-Subject to obtaining the approval of shareholders by special resolution, “the Board of Directors proposes to utilize such sum for suitable market development activities during the current financial year ending March 31, 2025,” hSenid said in a stock exchange filing.
-
-The money was originally allocated for ‘strategic acquisitions in APAC and East African regions’.
-
-“The Board of Directors noted that the investments made by the Company into product and market development activities since the IPO, as highlighted under Objectives 1 and 2 in Section 5.6 of the Prospectus, are beginning to yield good results for the Company.”
-
-...
-
-[Data](articles/2713ce0d.json)
-
-[Extended Data](ext_articles/2713ce0d.ext.json)
-
----
-
-### Nathasha Edirisooriya and Bruno Divakara released from case
-
-*2024-06-19 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99963/nathasha-edirisooriya-and-bruno-divakara-released-from-case) · `en`
-
-Stand-up comedian Nathasha Edirisooriya and the owner of the ‘SL VLOG’ YouTube channel Bruno Divakara have been released by the Fort Magistrate’s Court from the case filed against them for allegedly making controversial statements on Buddhism.
-
-Edirisooriya was arrested on 28 May, 2023 after she found herself in hot water over certain remarks she had made, allegedly insulting Buddhism, Christianity and Islam during her segment at a stand-up comedy show hosted at a leading school in Colombo.
-
-She was arrested by the CID at the Bandaranaike International Airport (BIA) in Katunayake, while preparing to leave the country.
-
-Meanwhile, Bruno Divakara – the owner of the YouTube channel ‘SL VLOG’ where Nathasha’s viral video was posted – was also arrested on 31 May, 2023 after being grilled for over 08 hours over the controversial video.
-
-Divakara was released on bail by the court on 21 June while Edirisooriya was granted bail on 05 July after she filed a petition with the Colombo High Court.
-
-◼️
-
-[Data](articles/dc5c4747.json)
-
-[Extended Data](ext_articles/dc5c4747.ext.json)
 
 ---

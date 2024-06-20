@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 11:04:23**
+As of **2024-06-20 11:19:52**
 
 ## Newspaper Stats
 
-*Scraped **31,270** Articles*
+*Scraped **31,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,914
 adalk | 2,729
-adaderanalk | 3,538
+adaderanalk | 3,539
 tamilmirrorlk | 3,677
 dailymirrorlk | 4,733
-virakesarilk | 4,834
+virakesarilk | 4,835
 adaderanasinhalalk | 5,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,266 (100.0%) of 31,270 articles have been extended.
+31,266 (100.0%) of 31,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Transparency and int’l cooperation key to debt management - Semasinghe
+
+*2024-06-20 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99983/transparency-and-intl-cooperation-key-to-debt-management-semasinghe) · `en`
+
+State Minister of Finance Shehan Semasinghe states that Sri Lanka’s experience demonstrates that effective debt management is not just about managing numbers but also about building robust institutions and capacities.
+
+Semasinghe made this remark while speaking on “The Role of Debt Management in Navigating Crises” at the 14th Debt Management Facility (DMF) Stakeholders’ Forum held in Livingstone, Zambia.
+
+Posting on ‘X’, the Finance State Minister said that he shared the experiences of Sri Lanka which can provide valuable lessons for others and explored the critical elements of capacity building and sound institutional practices in managing debt, particularly in the context of economic challenges.
+
+Furthermore, he has stated during the forum that this journey underscores the importance of transparent, accountable governance and the need for international support and cooperation in times of crisis.
+
+...
+
+[Data](articles/59130168.json)
+
+---
+
+### அநுராதபுரத்திற்கு விசேட பஸ், ரயில் சேவைகள்
+
+*2024-06-20 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186533) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு அநுராதபுரத்திற்கு வருகை தரும் பக்தர்களுக்காக இன்று (20) முதல் விசேட பஸ் மற்றும் ரயில் சேவைகள் அமுல்படுத்தப்பட்டுள்ளன.
+
+நாட்டின் பல்வேறு பகுதிகளிலிருந்து அநுராதபுரத்திற்கு வரும் பக்தர்களின் போக்குவரத்தை இலகுபடுத்தும் வகையில் பஸ் மற்றும் ரயில் சேவைகள் அமுல்படுத்தப்பட்டுள்ளதாக  ரயில் திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே. இந்திபொலகே மற்றும் இலங்கை போக்குவரத்து சபையின் தலைவர் லலித் டி அல்விஸ் ஆகியோர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a8a2ee14.json)
+
+---
 
 ### රත්නපුර මහාධිකරණ නඩුවක විභාගය අත්හිටුවන ලෙස අභියාචනාධිකරණයෙන් අතුරු නියෝගයක්
 
@@ -75,6 +107,34 @@ Prime Minister Dinesh Gunawardena, Opposition Leader Sajith Premadasa, External 
 [Data](articles/fe97078b.json)
 
 [Extended Data](ext_articles/fe97078b.ext.json)
+
+---
+
+### Excessive women's damage
+
+*2024-06-20 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186517) · `ta`
+
+In Sri Lanka, leptospirosis, primarily affecting women, has seen a rise, especially among those in agriculture, livestock, and gem mining sectors. Last year, it affected 9,000; this year, 5,000. Mainly reported in Ratnapura, Kegalle, Galle, Kalutara, Moneragala, and Kurunegala, it's spread via bacteria from infected rat urine or feces entering the human body through wounds, mouth, etc., exacerbated by heavy rains. Symptoms include muscle pain, jaundice, and breathing issues, potentially leading to severe outcomes like organ failure without early treatment. Prevention involves good hygiene, avoiding contaminated water, and managing waste properly, alongside raising awareness among high-risk groups.
+
+🟩
+
+Health officials have recognized that leptospirosis in Sri Lanka has been affected by the higher women.
+
+The fever is suffering from men who are involved in agriculture, livestock and gem excavation industries.
+
+9000 people were affected by the fever last year. So far this year, 5,000 people have been affected.
+
+The victims are mostly from Ratnapura, Kegalle, Galle, Kalutara, Moneragala and Kurunegala.
+
+Leptospirosis is spread by some kind of bacteria. Bacteria that spreads mice is living in the kidney of the affected mice. The urine of the rat, in the stool this bacteria exit. When we consume water or foods mixed with the rat, the fever can occur.
+
+If we trample the rat's waste, the bacteria will go into the body through the wounds, abrasions, dry areas, mouth, nose, and private areas.
+
+...
+
+[Data](articles/6840b01a.json)
+
+[Extended Data](ext_articles/6840b01a.ext.json)
 
 ---
 
@@ -141,34 +201,6 @@ They observed the swamp surrounding the Talangama Lake. They also focused on the
 ...
 
 [Data](articles/8d9f3cf3.json)
-
----
-
-### Excessive women's damage
-
-*2024-06-20 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186517) · `ta`
-
-In Sri Lanka, leptospirosis, primarily affecting women, has seen a rise, especially among those in agriculture, livestock, and gem mining sectors. Last year, it affected 9,000; this year, 5,000. Mainly reported in Ratnapura, Kegalle, Galle, Kalutara, Moneragala, and Kurunegala, it's spread via bacteria from infected rat urine or feces entering the human body through wounds, mouth, etc., exacerbated by heavy rains. Symptoms include muscle pain, jaundice, and breathing issues, potentially leading to severe outcomes like organ failure without early treatment. Prevention involves good hygiene, avoiding contaminated water, and managing waste properly, alongside raising awareness among high-risk groups.
-
-🟩
-
-Health officials have recognized that leptospirosis in Sri Lanka has been affected by the higher women.
-
-The fever is suffering from men who are involved in agriculture, livestock and gem excavation industries.
-
-9000 people were affected by the fever last year. So far this year, 5,000 people have been affected.
-
-The victims are mostly from Ratnapura, Kegalle, Galle, Kalutara, Moneragala and Kurunegala.
-
-Leptospirosis is spread by some kind of bacteria. Bacteria that spreads mice is living in the kidney of the affected mice. The urine of the rat, in the stool this bacteria exit. When we consume water or foods mixed with the rat, the fever can occur.
-
-If we trample the rat's waste, the bacteria will go into the body through the wounds, abrasions, dry areas, mouth, nose, and private areas.
-
-...
-
-[Data](articles/6840b01a.json)
-
-[Extended Data](ext_articles/6840b01a.ext.json)
 
 ---
 
@@ -2255,51 +2287,5 @@ He stated that only after UNP leader Wickremesinghe took over the Presidency has
 [Data](articles/e9f521fa.json)
 
 [Extended Data](ext_articles/e9f521fa.ext.json)
-
----
-
-### 50 people injured in bus accident
-
-*2024-06-19 17:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-50-பேர்-காயம்/175-339135) · `ta`
-
-In a tragic accident, over 50 students were hurt and taken to Ranala District Hospital when a private bus crashed head-on with another vehicle.
-
-🟩
-
-More than 50 students were injured and admitted to the Ranala District Hospital after a private bus and an infant bus collided head -on.
-
-◼️
-
-[Data](articles/9c973b61.json)
-
-[Extended Data](ext_articles/9c973b61.ext.json)
-
----
-
-### More information about the students' searround bus accident
-
-*2024-06-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197930) · `si`
-
-In Avissawella, a collision between two buses resulted in 27 schoolchildren being injured and taken to Navagamuwa District Hospital. The incident occurred in the Ranala area, involving a Labugama-Colombo Siyaiya bus and an Embilipitiya-Colombo passenger bus. Six individuals, including the conductor of the private bus, were treated at the hospital, with ongoing treatment for additional victims.
-
-🟩
-
-There was an accident in the Ranala area in the Ranala area in Avissawella Lollywela area.
-
-The latest information from the Hanwella police stated that 27 school children were injured and rushed to the Navagamuwa District Hospital.
-
-A Labugama-Colombo Siyaiya bus and Embilipitiya - Colombo passenger bus had been collide.
-
-The conductor of the private passenger bus was admitted to the Navagamuwa hospital while a bus was trapped near the front door.
-
-A spokesman for Navagamuwa District Hospital said six persons were treated in hospital and six more school children were receiving treatment.
-
-Hanwella Police say that the students of the Colombo passenger bus had collided with the accusation of the Colombo passenger bus.
-
-◼️
-
-[Data](articles/f290bf29.json)
-
-[Extended Data](ext_articles/f290bf29.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 07:46:29**
+As of **2024-06-20 08:12:09**
 
 ## Newspaper Stats
 
-*Scraped **31,237** Articles*
+*Scraped **31,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,913
-adalk | 2,723
+adalk | 2,724
 adaderanalk | 3,534
 tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
@@ -26,69 +26,91 @@ adaderanasinhalalk | 5,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,220 (99.9%) of 31,237 articles have been extended.
+31,237 (100.0%) of 31,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### පොසොන් වන්දනාවේ යන බැතිමතුන්ට විශේෂ බස් සහ දුම්රිය සේවාවක්
+### Special buses and train services to pilgrims in Poson
 
 *2024-06-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197938) · `si`
 
-පොසොන් පොහොය වෙනුවෙන් අනුරාධපුරය පූජා නගරය වන්දනාමාන කිරීමට පැමිණෙන සැදැහැවතුන් සඳහා අද (20) සිට විශේෂ බස් සහ දුම්රිය සේවා ක්‍රියාත්මක කර තිබේ.
+Since 2020, special bus and train services have been introduced for pilgrims traveling to Poson Poya, facilitating easier access to the Poson Pooja celebrations.
+
+🟩
+
+Special buses and train services have been implemented since (20), to the Posson Poya to worship the Posson Pooja.
 
 ◼️
 
 [Data](articles/94ba6acf.json)
 
+[Extended Data](ext_articles/94ba6acf.ext.json)
+
 ---
 
-### දකුණු අප්‍රිකාවට සුපිරි ජයක්
+### Superssed to South Africa
 
 *2024-06-20 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197937) · `si`
 
-පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටය ආරම්භ කරමින් පැවති පළමු තරගයෙන් ලකුණු 18ක ජයක් වාර්තා කිරීමට දකුණු අප්‍රිකාව සමත් වුණි.
+In the first match of the Super series in South Africa, South Africa defeated Sri Lanka by 18 runs. The U.S., who chose to field after winning the toss, struggled against South Africa's batting lineup. Quinton de Kock and Aiden Markram led the charge with 110 runs for the second wicket. De Kock also contributed with 74 runs. Despite a strong start, the U.S. could only manage 176 runs in reply, losing six wickets. This victory marked South Africa's first win in the Super series, played at the Richards Stadium.
 
-එම තරගයේ කාසියේ වාසිය දිනු අමෙරිකාව පළමුව පන්දු රැකීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පිටියට පිවිසි දකුණු අප්‍රිකානු කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 16කදී දැවි ගියේය.
+South Africa beat Sri Lanka by 18 runs in the first match of the first 8 overs.
 
-නමුත් දෙවන කඩුල්ල වෙනුවෙන් ලකුණු 110ක සබඳතාවක් ගොඩනැගීමට ක්වන්ටන් ඩී කොක් සහ ඒඩන් මාක්‍රම් සමත්වුණි.
+The United States won the toss and elected to bowl the toss.
 
-ඩිකොක් මෙම තරගාවලියේ රැස්කළ පළමු අර්ධ ශතකය රැස්කරමින් ලකුණු 74ක් වාර්තා කළේය.
+Accordingly, the first wicket of the South African team was burned in 16 runs.
 
-ඒඩන් මාක්‍රම් ලකුණු 46ක් රැස්කළ අතර හෙන්රිච් ක්ලාසන් ලකුණු 36යි.
+However, Queton D Cook and Anden Mcroram scored 110 runs for the second wicket.
 
-ඒ අනුව දකුණු අප්‍රිකාව නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 4ක් දැවී ලකුණු 194ක් රැස්කළේය.
+Dicke, Dicke, scored 74 runs in the event.
 
-ලකුණු 195ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි අමෙරිකා කණ්ඩායමේ පළමු කඩුලු 5 ලකුණු 76ක් තුළදි දැවී ගියේය.
+Aden Markram scored 46 runs while Henryich Clash scored 36 runs.
 
-6 වන කඩුල්ලට ලකුණු 91ක සබඳතාවයක් ගොඩ නැගීමට හාමිත් සිං සහ ඇන්ඩ්‍රිස් ගෝස් සමත්වුවද ජයග්‍රහණය සඳහා එය ප්‍රමාණවත් නොවීය.
+Accordingly, South Africa scored 194 runs for the loss of 4 wickets in their allotted 20 overs.
 
-ඒ අනුව නියමිත පන්දුවාර 20 අවසානයේදී අමෙරිකාව කඩුලු 6ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 176කි.
+The first five wickets in the United States were bowled out for a target of 195 runs.
 
-...
+The 6th wicket scored 91 runs in a score of a score of 91 runs, but it was not sufficient for victory.
+
+Accordingly, the US score of 176 runs for the loss of 6 wickets in the end of the 20 overs.
+
+South Africa were able to report the first winner of 8 Supers.
+
+The match between the United States and South Africa was held at the Richards Stadium.
+
+◼️
 
 [Data](articles/05946f8d.json)
 
+[Extended Data](ext_articles/05946f8d.ext.json)
+
 ---
 
-### අලුත්ම කාලගුණ නිවේදනය
+### The latest weather notification
 
 *2024-06-20 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197935) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති හැකිය.
+Heavy showers expected in Western, Sabaragamuwa, North Western provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Possible heavy rains exceeding 75mm in some areas. Showers also forecasted for Eastern and Uva provinces, with strong winds in central hill slopes, Trincomalee, Hambantota, and Moneragala districts.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+Department of Meteorological Department in some places in the Western and Sabaragamuwa Province and in some places in Galle and Matara districts. Heavy rains can occur at more than 75.
+
+Showers or thundershowers will occur at a few night or night in the Eastern and Uva provinces.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
 
 ◼️
 
 [Data](articles/69e310af.json)
+
+[Extended Data](ext_articles/69e310af.ext.json)
 
 ---
 
@@ -526,37 +548,51 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 
 ---
 
-### ’பிள்ளைகளுக்கு உகந்த நாட்டை உருவாக்குவேன்’
+### I will create a country that is ideal for children
 
 *2024-06-20 01:34:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளுக்கு-உகந்த-நாட்டை-உருவாக்குவேன்/175-339161) · `ta`
 
-ஜனாதிபதி என்ற வகையில் இந்த நாட்டில் எந்த ஒரு பிள்ளையும் பாதிக்கப்படக் கூடாது என தீர்மானித்துள்ளோம் எனவும் இரண்டு வருட குறுகிய காலத்தில் பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்பதற்காக என்னை அர்ப்பணித்துள்ளேன் என்றும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+In a speech at the Presidential Scholarship event, President Ranil Wickremesinghe pledged to uplift the nation's economy within two years, ensuring no child suffers due to the crisis. He announced 6,000 high-quality learner scholarships, marking a shift from hardship to prosperity aimed at making the country the best for children within five to ten years.
 
-ஜனாதிபதி புலமைப்பரிசில் வழங்கும் நிகழ்வு நேற்று அலரி மாளிகையில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இந்நாட்டுப் பிள்ளைகளுக்கு இன்று மிகவும் மகிழ்ச்சியான நாள். முதலில், இந்த உதவித்தொகை பெறுவதற்கு உங்கள் அனைவருக்கும் வாழ்த்துக்களைத் தெரிவித்துக் கொள்கிறேன். இத்திட்டத்தின் கீழ் ஒரு லட்சம் உதவித்தொகை வழங்கப்படும். உயர்தரம் கற்கும் மாணவர்களுக்கு 6,000 ரூபாய் உதவித்தொகையும் வழங்கப்படுகிறது. இந்த புலமைப்பரிசில்களை வழங்க ஜனாதிபதி நிதியத்தில் இருந்து 04 பில்லியன் ரூபாவை ஒதுக்கியுள்ளோம்.
+President Ranil Wickremesinghe said that we have decided that no child in this country should be affected as a president and that I have dedicated me to recover the country from the economic crisis in two years.
+
+The Presidential Scholarship event was held yesterday at the Alari House. The President said this while addressing the event.As he further stated,
+
+Today is a very happy day for the children of this country. First, I would like to congratulate all of you for receiving this scholarship. One lakh scholarship will be provided under the scheme. 6,000 scholarships for high -quality learners. We have allocated Rs.
+
+The last 3 years have been the hardest time for all of us. We all suffered. There was no food. Students have no transportation facility to go to school. Now that is not the situation. As the President, the children of this country have decided not to allow you to suffer. Accordingly, a program to restore this country was implemented.
 
 ...
 
 [Data](articles/f4798802.json)
 
+[Extended Data](ext_articles/f4798802.ext.json)
+
 ---
 
-### ’கைத்தொழிலுக்கு நிதியுதவி வழங்க புதிய அபிவிருத்தி வங்கி’
+### New Development Bank to provide financial assistance to the industry
 
 *2024-06-20 01:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொழிலுக்கு-நிதியுதவி-வழங்க-புதிய-அபிவிருத்தி-வங்கி/175-339160) · `ta`
 
-இலங்கையில் தொழில்துறையினருக்கு நிதியுதவி வழங்க புதிய அபிவிருத்தி வங்கியொன்று ஸ்தாபிக்கப்பட உள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe announced the creation of a new development bank to support the nation's industry during the International Industrial Expo-2024 opening. Minister Ramesh Pathirana is leading efforts to revitalize the country's industrial sector, marking the largest exhibition in Sri Lanka. Despite past financial challenges, the government aims to renegotiate terms with private creditors within weeks, paving the way for economic recovery and loan repayment by 2042.
 
-இலங்கையில் முதன்முறையாக ஒழுங்கு செய்யப்பட்டுள்ள இன்டர்நெசல் இன்டஸ்ரியல் எக்ஸ்போ- 2024 (சர்வதேச கைத்தொழில் கண்காட்சி) நேற்று முன்தினம் ஆரம்பமானது. இந்தக் கண்காட்சியைத் திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இந்நாட்டின் கைத்தொழில் துறையின் அபிவிருத்தி தொடர்பில் அமைச்சர் ரமேஷ் பத்திரன விசேட கவனம் செலுத்தி செயற்பட்டு வருகின்றார். அதன் ஒரு கட்டமாக இந்த தொழில் கண்காட்சியைக் குறிப்பிடலாம். இது நாட்டிலே நடத்தப்படும் மிகப்பெரிய கண்காட்சியாகும்.
+President Ranil Wickremesinghe said a new development bank would be established to provide financial assistance to industry in Sri Lanka.
 
-கடந்த காலத்தில் நமது நாடு வங்குரோத்தடைந்த நாடாக மாறியிருந்தது. ஆனால் அடுத்த சில வாரங்களில் நாம் வங்குரோத்தடைந்த நாடு என்ற அவப்பெயரில் இருந்து முற்றிலும் விடுபடுவோம். இது தொடர்பான ஒப்பந்தமும் அடுத்த சில வாரங்களில் எட்டப்பட உள்ளது. இதன்மூலம், தனியார் கடனாளிகளுடன் பேச்சுவார்த்தை நடத்துவது எளிதாகிறது. எனவே இந்த பணியை இரண்டு ஆண்டுகளில் மேற்கொள்வோம்.
+The International Interesial Expo- 2024 (International Industry Exhibition) commenced yesterday in Sri Lanka. The President said this while addressing the opening of the exhibition. As he further stated,
+
+Minister Ramesh Pathirana is paying special attention to the development of the country's industry.. It can be referred to this professional exhibition as part of its. This is the largest exhibition in the country.
+
+In the past, our country has become a bankrupt country. But in the next few weeks we will be completely free from the name we are bankrupt. The contract related to this is to be reached in the next few weeks. This makes it easier to negotiate with private creditors. So we will carry out this task in two years.
 
 ...
 
 [Data](articles/4ea38763.json)
+
+[Extended Data](ext_articles/4ea38763.ext.json)
 
 ---
 
@@ -912,6 +948,8 @@ You will need 01 teaspoon of tomato juice and a few drops of aloe vera gel
 
 [Data](articles/f8ab87d9.json)
 
+[Extended Data](ext_articles/f8ab87d9.ext.json)
+
 ---
 
 ### Arrested by a trader who made the girl pregnant
@@ -952,6 +990,8 @@ The event was graced by the presence of key representatives from Trafalgar, inc
 
 [Data](articles/635927e4.json)
 
+[Extended Data](ext_articles/635927e4.ext.json)
+
 ---
 
 ### Union Assurance launches Leader Conference 2024
@@ -963,6 +1003,8 @@ Union Assurance held its inaugural Leader Conference 2024 at the Epitome Hotel, 
 ...
 
 [Data](articles/211e4695.json)
+
+[Extended Data](ext_articles/211e4695.ext.json)
 
 ---
 
@@ -1002,6 +1044,8 @@ The increases in New Orders and Production sub-indices were mainly attributable 
 
 [Data](articles/5e78f803.json)
 
+[Extended Data](ext_articles/5e78f803.ext.json)
+
 ---
 
 ### Clarification of Wealth Tax matters gives bourse a boost
@@ -1016,6 +1060,8 @@ But later the market showed some recovery due to certain tax specialists highlig
 
 [Data](articles/8883d051.json)
 
+[Extended Data](ext_articles/8883d051.ext.json)
+
 ---
 
 ### Sri Lanka Tourism hosts travel agents for Buddhist Pilgrim Tours
@@ -1029,6 +1075,8 @@ The delegation’s visit kicked off with a comprehensive networking session desi
 ...
 
 [Data](articles/b9b69b29.json)
+
+[Extended Data](ext_articles/b9b69b29.ext.json)
 
 ---
 
@@ -1256,6 +1304,28 @@ The visit will add momentum to connectivity projects and other mutually benefici
 
 ---
 
+### Nimal, Independent Party Chairman. Secretary, Duminda
+
+*2024-06-19 19:55:20* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-සභාපති-නිමල්--ලේකම්-දුමින්ද/11-410325) · `si`
+
+Nimal Siripala de Silva, former acting chairman, is now the Chairman of the Sri Lanka Freedom Party (SLFP), with Duminda Dissanayake appointed as Secretary. This change occurred during an executive council meeting called by Nimal Siripala de Silva.
+
+🟩
+
+Sri Lanka Siripala de Silva and Duminda Dissanayake appointed as the Chairman of the Sri Lanka Freedom Party (SLFP) has been appointed as the Secretary to the party yesterday (19).
+
+Minister Nimal Siripala de Silva was the acting chairman of the SLFP until yesterday.
+
+Duminda Dissanayake, acting Secretary General of the Sri Lanka Freedom Party, has decided to appoint Dissinda as the Secretary General of the party.The Executive Council Meeting was summoned by Minister Nimal Siripala de Silva.
+
+◼️
+
+[Data](articles/b10ed0c3.json)
+
+[Extended Data](ext_articles/b10ed0c3.ext.json)
+
+---
+
 ### Decision in a case against Hirunika
 
 *2024-06-19 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහි-නඩුවක-තීන්දුවක්-28දා-ප්‍රකාශයට/11-410324) · `si`
@@ -1467,6 +1537,8 @@ Organized by the Industrial Development Board under the guidance of the Ministry
 ...
 
 [Data](articles/771c5746.json)
+
+[Extended Data](ext_articles/771c5746.ext.json)
 
 ---
 
@@ -2275,27 +2347,5 @@ Police said the injured passengers have been admitted to the Nawagamuwa Hospital
 [Data](articles/a4ec2e1f.json)
 
 [Extended Data](ext_articles/a4ec2e1f.ext.json)
-
----
-
-### More sickness to the Keheliya
-
-*2024-06-19 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197920) · `si`
-
-An investigation has begun against former Health Minister Keheliya Rambukwella, who was recently remanded. The probe follows a complaint alleging misuse of two ministry vehicles during his tenure.
-
-🟩
-
-A investigation has been launched on a complaint against former Health Minister Keheliya Rambukwella has already been remanded.
-
-The investigation has commenced on a complaint made by a civil citizen by a civil citizen that two official vehicles were issued by the Ministry during his dealings as the Minister.
-
-The full announcement issued by the Commission of Bribery or Corruption Commission states ....
-
-◼️
-
-[Data](articles/493da22a.json)
-
-[Extended Data](ext_articles/493da22a.ext.json)
 
 ---

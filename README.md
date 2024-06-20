@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 05:19:32**
+As of **2024-06-20 05:37:05**
 
 ## Newspaper Stats
 
-*Scraped **31,215** Articles*
+*Scraped **31,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,703
 economynextcom | 1,804
-dailyftlk | 1,909
+dailyftlk | 1,910
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,670
+tamilmirrorlk | 3,671
 dailymirrorlk | 4,733
 virakesarilk | 4,827
 adaderanasinhalalk | 5,069
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,214 (100.0%) of 31,215 articles have been extended.
+31,215 (100.0%) of 31,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Responding to Shantha Jayaratne’s bogus claims
+
+*2024-06-20 05:17:09* · [`dailyftlk`](https://www.ft.lk/opinion/Responding-to-Shantha-Jayaratne-s-bogus-claims/14-763272) · `en`
+
+Following is a response to an article written by Shantha Jayarathne under the title “From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies” (https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) which was published on 10 June 2024.
+
+...
+
+[Data](articles/2b4b68a3.json)
+
+---
 
 ### President announces host of proposals to boost industrial sector expansion
 
@@ -49,6 +61,8 @@ He also revealed plans to set up an Economic Commission to oversee these activit
 ...
 
 [Data](articles/a6f28913.json)
+
+[Extended Data](ext_articles/a6f28913.ext.json)
 
 ---
 
@@ -473,6 +487,22 @@ If the High Court runs to go to the referendum in addition to the two -thirds ma
 [Data](articles/9696812e.json)
 
 [Extended Data](ext_articles/9696812e.ext.json)
+
+---
+
+### தீர்ப்பை ஏற்றுக்கொள்ளாமை ’ஆபத்தாக மாறலாம்’
+
+*2024-06-20 01:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தீர்ப்பை-ஏற்றுக்கொள்ளாமை-ஆபத்தாக-மாறலாம்/150-339157) · `ta`
+
+தேர்தலை ஒத்தி வைத்து பதவிக்காலத்தை நீடிப்பதற்கு ஜனாதிபதி முயற்சிப்பதாக கூறப்படும் நிலையில், பாலியல் சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை ஜனாதிபதி ஏற்றுக்கொள்ளாமை எதிர்காலத்தில் ஆபத்தானதாக மாறலாம் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (19) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே சுமந்திரன் இவ்வாறு கூறினார்.
+
+நிகழ்நிலைக் காப்புச் சட்டம் நிறைவேற்றப்படும் போது நீதிமன்ற அறிவிப்புகளையும் தாண்டி எதிர்ப்புகளுக்கு மத்தியில் சாதாரண பெரும்பான்மையில் நிறைவேற்றப்பட்டது. அதனை தொடர்ந்து இரண்டாவது முறையாக பால்நிலை சமத்துவம் தொடர்பான சட்டமூலம் குறித்த உயர்நீதிமன்றத்தின் தீர்ப்பை பின்பற்றத் தேவையில்லை என்று கூறியுள்ளார். இதற்கு காரணம் என்ன? அதாவது கூடியவிரைவில் ஜனாதிபதியின் பதவிக்காலத்தை 6 வருடங்களாக அதிகரிக்க முயற்சிக்கின்றனர் என்றார்.
+
+...
+
+[Data](articles/ea092d0e.json)
 
 ---
 
@@ -2341,53 +2371,5 @@ According to the Chairman of the Committee on Public Finance, Dr. Harsha de Silv
 [Data](articles/87636092.json)
 
 [Extended Data](ext_articles/87636092.ext.json)
-
----
-
-### Water Fowzer Police Station;The people of Karainagar are not drinking water
-
-*2024-06-19 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186450) · `ta`
-
-Karainagar residents face water crisis due to police detaining a water bowser en route to Jaffna. The vehicle, owned by Karainagar Pradeshiya Sabha, was stopped by Manipay police investigating an accident involving another vehicle. This has severely limited water supply in the area, prompting calls for the police to release the detained vehicle promptly.
-
-🟩
-
-The people of Karainagar are not drinking water as the police have detained the water bouquet in Jaffna.
-
-The water bowser belonging to the Karainagar Pradeshiya Sabha was coming to Jaffna a few days ago with a three -wheeler in the Kalundai area.
-
-The Manipay police, who were investigating the incident, took two of the accident vehicles and arrested the police station.
-
-The driver of the arrested driver has been detained at the police station.
-
-So the water supply to the Karainagar area has been limited, and the people of the area are not drinking water.
-
-Therefore, the police have been asked to take action to release the vehicle soon and release the vehicle.
-
-◼️
-
-[Data](articles/1d720874.json)
-
-[Extended Data](ext_articles/1d720874.ext.json)
-
----
-
-### Natasha and Bruno released
-
-*2024-06-19 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197916) · `si`
-
-Natasha Edisuriya and Bruno, charged with disrupting religious harmony, have been acquitted by the Derana Court's Fort Magistrate.
-
-🟩
-
-Natasha Edisuriya and Bruno, who were accused of interrupting religious unity and hatred, has been released from the case filed against the alias.
-
-The Fort Magistrate was released by the Court of Derana.
-
-◼️
-
-[Data](articles/4db3b847.json)
-
-[Extended Data](ext_articles/4db3b847.ext.json)
 
 ---

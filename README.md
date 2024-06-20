@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 08:53:54**
+As of **2024-06-20 09:04:54**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 5,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,242 (100.0%) of 31,244 articles have been extended.
+31,244 (100.0%) of 31,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ශ්‍රී ලංකාව සම්බන්ධයෙන් මානව හිමිකම් කවුන්සිලයට තවත් වාර්තාවක්
+### Another report to Human Rights Council on Sri Lanka
 
 *2024-06-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197940) · `si`
 
-අමෙරිකාව, බ්‍රිතාන්‍යය, කැනඩාව, මලාවි, මොන්ටිනිග්‍රෝ සහ උතුරු මැසිඩෝනියාව යන රටවල් සමූහය විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් වාර්තාවක් එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයට ඉදිරිපත් කර තිබේ.
+The US, UK, Canada, Malawi, Montenegro, and North Macedonia have submitted a report to the UN Human Rights Council on Sri Lanka, highlighting human rights abuses and forced disappearances. They commend the council's High Commissioner for addressing these issues and note the Sri Lankan government's request to implement recommended actions. The report also addresses concerns over internet censorship and calls for the release of individuals held in high-security zones in Jaffna. Additionally, these countries are conducting joint investigations into arbitrary arrests during the 56th session of the council.
 
-එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 56 වන සැසිවාරයට සමගාමීව ඊයේ (19) දිනයේ එම වාර්තාව ඉදිරිපත් කර ඇති බව සඳහන්ය.
+🟩
 
-එමඟින් ශ්‍රී ලංකාවේ මානව හිමිකම් උල්ලංඝණය කිරීම් පිළිබඳව සහ බලහත්කාරයෙන් අතුරුදහන් කිරීම් සම්බන්ධයෙන් වගවීම පිළිබඳව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ මහකොමසාරිස්වරයාගේ වාර්තාවට ස්තූතිය පළ කර තිබේ.
+The United States, Britain, Canada, Malawi, Montenegro and Northern Macedonia Group have submitted a report on Sri Lanka to the UN Human Rights Council.
 
-මහකොමසාරිස්වරයා විසින් ඉදිරිපත් කර ඇති නිර්දේශ ක්‍රියාත්මක කරන ලෙස ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කරන බව අදාළ රටවල් සමූහය සිය වාර්තාව මඟින් දැනුම් දී ඇත.
+The report was presented in parallel to the 56th session of the UN Human Rights Council.
 
-ත්‍රස්තවාදය මර්දනය කිරීම සහ අන්තර්ජාල ආරක්ෂාව සම්බන්ධයෙන් හඳුන්වාදෙන නව නීති සකස් කළ යුත්තේ සැමගේ ප්‍රකාශනයේ නිදහස මෙන්ම මානව හිමිකම් ආරක්ෂ වන ආකාරයෙන් බව එම වාර්තාවේ සඳහන්ය.
+It thanked the United Nations Human Rights Council High Commissioner to the United Nations Human Rights Council for the human rights violations of Sri Lanka and forcibly disappearances.
+
+The group has informed the group that the Government of Sri Lanka requests the implementation of the recommendations made by the High Commissioner.
+
+The report states that the repression of terrorism and the introduction of internet security is a form of freedom of the publication of everyone as well as human rights.
+
+They have been told to release their lives on the release of land release of the land of high security lands in Jaffna.
 
 ...
 
 [Data](articles/cffe3e9a.json)
+
+[Extended Data](ext_articles/cffe3e9a.ext.json)
 
 ---
 
@@ -219,6 +227,8 @@ Following is a response to an article written by Shantha Jayarathne under the ti
 ...
 
 [Data](articles/2b2f77c3.json)
+
+[Extended Data](ext_articles/2b2f77c3.ext.json)
 
 ---
 

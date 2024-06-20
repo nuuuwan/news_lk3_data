@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 16:34:36**
+As of **2024-06-20 16:51:24**
 
 ## Newspaper Stats
 
@@ -26,51 +26,65 @@ adaderanasinhalalk | 5,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,332 (100.0%) of 31,334 articles have been extended.
+31,334 (100.0%) of 31,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### එන්නත් වර්ග 08ක් ගැන ප්‍රශ්නය අභියාචනාධිකරණයට
+### Question at the Court of Appeal
 
 *2024-06-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197959) · `si`
 
-විධිමත් පරීක්ෂණයකට යටත් නොකොට මෙරට පුද්ගලික සමාගමක් විසින් නිෂ්පාදනය කරන ලද එන්නත් වර්ග 08ක් ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගෙන ඇති තීරණය බලරහිත කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සමක් වැඩිදුර විභාගය සඳහා ලබන මස 23 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+The Sri Lanka Pharmaceutical Authority faces scrutiny from the Court of Appeal over allegations that the National Drug Regulatory Authority approved drugs without proper investigation, potentially endangering public health. Petitioners, including social activists, argue for a mandatory six-month review period before drug registration. The case will proceed to a hearing on the 23rd of next month, where the court will decide on the petitioners' request for a deportation order to release a vaccine to the market.
 
-සමාජ ක්‍රියාකාරිකයින් දෙදෙනකු වන ප්‍රණීතා එන්. වර්ණකුලසූරිය සහ  දෙව්ෂාන් පී. බුද්දරගේ යන අය විසින් මෙම පෙත්සම ඉදිරිපත්කර තිබේ.
+🟩
 
-මෙම පෙත්සම අද (21) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The Court of Appeal was set to the Sri Lanka Pharmaceutical Authority for further examination without submission to a formal inspection.
 
-එහිදී පෙත්සම්කාර පාර්ශවයේ නීතිඥවරයා කියා සිටියේ ප්‍රශ්නගත අදාළ එන්නත් තවදුරටත් නිෂ්පාදනය වෙමින් පවතින බවත් එම නිසා මෙම පෙත්සම කඩිනමින් විභාගයට ගෙන ඒ සම්බන්ධයෙන් තීන්දුවක් ලබාදෙන ලෙසත් ය.
+Praneee, two social activists, N. Warnakulasuriya and DaysShaman. The petition was presented by the Buddha.
 
-එහෙත් වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරු සඳහන් කළේ අදාළ ඖෂධය පිළිබඳව කිසිදු පැමිණිල්ලක් ලැබී නොමැති බවය.
+The petition was called before the Court of Appeal, Judge Nissanka Bandula Karunaratne today (21).
 
-ඉන් අනතුරුව අදාළ පෙත්සම් පිළිබඳ වැඩිදුර විභාගය ලබන මස 23 වනදා කැඳවන ලෙසත් අධිකරණය නියම කළේය.
+The Attorney at the petitioner said the petition was further produced and the petition would be promoted to the hearing.
 
-පෙත්සම්රුවන් කියා සිටින්නේ ඖෂධයක් වෙළෙඳපොළට මුදා හැරීම සඳහා ලියාපදිංචි කිරීමට පෙර  එය මාස හයක පරීක්ෂණ කාලයකට යටත් කෙරෙන බවය.
+But the lawyers representing the respondents stated that no complaints have been received about the drug.
+
+The court ordered further hearing on the petitions will be called on the 23rd of next month.
+
+The petitioners claim that before registering a drug to the market, it will be subject to a six-month investigation period.
+
+But the petitioners showed that the National Drug Regulatory Authority could be harmful to public health by registering eight varieties used by the respondents and anesthetic.
 
 ...
 
 [Data](articles/dd664aea.json)
 
+[Extended Data](ext_articles/dd664aea.ext.json)
+
 ---
 
-### පාකිස්තානයේ ලැප්ටොප් පරිගණකයක් පිපිරී දරුවන් දෙදෙනෙක් මරුට
+### Two children killed in Pakistan laptops
 
 *2024-06-20 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197958) · `si`
 
-නිවසක් තුළ ලැප්ටොප් පරිගණකයක් පුපුරා යාමෙන් සිදුවූ  අනතුරකින් දරුවන් දෙදෙනෙකු මියයෑමේ පුවතක් පාකිස්තානයෙන් වාර්තා විය.
+In Pakistan, two children aged 3 and 9 died in a house fire, while another child was injured. The cause was overheating from 80 laptop and phone batteries stored there.
 
-එරට මාධ්‍ය වාර්තා කරන්නේ කාන්තාවන් දෙදෙනෙකු සහ වයස අවුරුදු 03ත් 09ත් අතර ළමුන් 05 දෙනෙකු ඇතුළු තුවාල ලැබූ පුද්ගලයින් 09 දෙනෙකු රෝහලගත කර තිබූ බවය.
+🟩
 
-අනතුරින් 06 හැවිරිදි ගැහැණු දරුවෙකු සහ 09 හැවිරිදි පිරිමි ළමයෙකු මිය ගිය බව රෝහල තහවුරු කර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+The news of two children was reported from Pakistan in an accident that erupted in a house in a house.
 
-ලැප්ටොප් සහ ජංගම දුරකථනවල ඇති දෝෂ සහිත බැටරි අධික ලෙස රත්වී ගිනි ගැනීමකට ලක්විය හැකි අතර ඇතැම් අවස්ථාවලදී
+The media reports that two women, including two women and the ages of 3 and 9, were hospitalized.
+
+Foreign media reports that a 6-year-old girl and 9-year-old boy died in the accident.
+
+Eighty batteries in laptops and cell phones can be burned and at times
 
 ◼️
 
 [Data](articles/4ea1e07a.json)
+
+[Extended Data](ext_articles/4ea1e07a.ext.json)
 
 ---
 

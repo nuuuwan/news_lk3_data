@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 16:51:24**
+As of **2024-06-20 17:04:26**
 
 ## Newspaper Stats
 
-*Scraped **31,334** Articles*
+*Scraped **31,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 291
 bbccomsinhala | 308
 newsfirstlk | 363
-islandlk | 1,715
+islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,735
+adalk | 2,736
 adaderanalk | 3,548
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,334 (100.0%) of 31,334 articles have been extended.
+31,334 (100.0%) of 31,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### බුදු දහමට අපහාස කළැයි චෝදනා ලැබූ නතාෂා සහ බෘෘනෝ නිදහස්
+
+*2024-06-20 16:19:44* · [`adalk`](https://www.ada.lk/breaking_news/බුදු-දහමට-අපහාස-කළැයි-චෝදනා-ලැබූ-නතාෂා-සහ-බෘෘනෝ-නිදහස්/11-410338) · `si`
+
+බුද්ධාගම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ කළැයි ප්‍රහසන ශිලිපිනි නතාෂා එදිරිසූරිය සහ බෲනෝ දිවාකරට එරෙහි පවරා තිබූ නඩුවෙන්  ඔවුන් නිදහස් කිරීමට කොළඹ කොටුව මහේස්ත්‍රාත් කෝසල සේනාධීර මහතා ඊයේ(19දා) නියෝග කළේය.
+
+බුද්ධාගමට අපහාසාත්මක වන අයුරින් වෛරී ප්‍රකාශ ඉදිරිපත් කිරීම යන චෝදනාව යටතේ මොවුන්ට එරෙහිව නඩු පවරා තිබූ අතර එම චෝදනා යටතේ සැකකරුවන්ට එරෙහිව නඩුව ඉදිරියට පවත්වාගෙන යාමට ප්‍රමාණවත්  සාක්ෂි නොමැති බවට නීතිපතිවරයා විසින් උපදෙස් ලබා දී ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීහු කරුණු දක්වමින් අධිකරණයට දන්වා සිටියහ.එම කරුණු දැක්වීම සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම නියෝගය ලබා දුන්නේය.
+
+2023 අප්‍රේල් 01 වැනිදා පැවැති වැඩසටහනක දී නාතාෂා එදිරිසූරිය යන අය කළ ප්‍රකාශය බෲනෝ දිවාකර යන අය විසින් අන්තර්ජාලයට මුදා හැර ඇත. එම ක්‍රියාවෙන් ආගම් අතර පවතින් සංහිඳියාව බිඳ වැටෙන ආකාරයට සහ බෞද්ධ ධර්මයට අපහාසයක් සිදුකර ඇති බව පෙන්වා දෙමින් සිංහල බෞද්ධ සංවිධානය විසින් මෙම පැමිණිල්ල සිදු කර තිබුණි.
+
+◼️
+
+[Data](articles/8e9e28b1.json)
+
+---
 
 ### Question at the Court of Appeal
 
@@ -2331,25 +2347,5 @@ Commonwealth Chamber of Commerce Chairperson Julia Charlton on Monday met with t
 [Data](articles/33ee6e1b.json)
 
 [Extended Data](ext_articles/33ee6e1b.ext.json)
-
----
-
-### Asia Logistics Forum 2024 in Colombo on 27 June
-
-*2024-06-20 04:48:09* · [`dailyftlk`](https://www.ft.lk/business/Asia-Logistics-Forum-2024-in-Colombo-on-27-June/34-763257) · `en`
-
-The Asia Logistics Forum (ALF) 2024 is set to take place on 27 June at the Cinnamon Grand Hotel in Colombo.
-
-ALF is supported by Gensoft as the Gold sponsor, Hayleys Advantis and Iconiq Capital as the Silver sponsors and Wijeya Newspapers as the exclusive print partner. This marquee event, organised by Iconiq Events in collaboration with Gensoft Ltd., promises to be a hub for industry leaders and innovators shaping the future of South Asian logistics.
-
-The inaugural ALF in 2018 drew over 200 delegates, fostering a vibrant space for knowledge sharing and collaboration. This year’s edition aims to replicate that success, attracting a similar number of participants eager to propel the logistics sector forward.
-
-The forum’s core mission is to bridge the gap between key players in South Asia’s logistics industry. By fostering knowledge exchange and collaboration, ALF aims to accelerate the growth and development of the sector, ultimately playing a pivotal role in regional economic progress.
-
-...
-
-[Data](articles/37dba8f1.json)
-
-[Extended Data](ext_articles/37dba8f1.ext.json)
 
 ---

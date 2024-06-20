@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 22:08:24**
+As of **2024-06-20 22:19:31**
 
 ## Newspaper Stats
 
-*Scraped **31,371** Articles*
+*Scraped **31,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adaderanalk | 3,553
 tamilmirrorlk | 3,687
 dailymirrorlk | 4,733
 virakesarilk | 4,863
-adaderanasinhalalk | 5,101
+adaderanasinhalalk | 5,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,370 (100.0%) of 31,371 articles have been extended.
+31,371 (100.0%) of 31,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### ජෙයිශංකර් යයි
+
+*2024-06-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197971) · `si`
+
+ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා සිය එක්දින ශ්‍රී ලංකා සංචාරය නිමා කර අද (20) පස්වරුවේ කටුනායක ගුවන්තොටුපොළින් ඉන්දියාව බලා පිටත්ව ගිය ගොස් තිබේ.
+
+◼️
+
+[Data](articles/c101a242.json)
+
+---
+
+### ඇෆ්ගනිස්තානයට ලකුණු 182ක ඉලක්කයක්
+
+*2024-06-20 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197970) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ ඇෆ්ගනිස්තානය සහ ඉන්දියාව අතර තරගය අද (20) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ඉන්දියාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහර දීමටය.
+
+ඒ අනුව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 181ක් රැස් කර‍ගැනීමට ඉන්දියාව සමත් විය.
+
+◼️
+
+[Data](articles/fe175acc.json)
+
+---
+
+### ජනාධිපතිවරණය ට මොකද වෙන්නේ ?
+
+*2024-06-20 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197969) · `si`
+
+සැප්තැම්බර් 20 සහ ඔක්තෝබර් 16 අතර කාලසීමාව තුළදී අනිවාර්යයෙන්ම ජනාධිපතිවරණය පැවැත්විය යුතු බව මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා ප්‍රකාශ කරයි.
+
+VIEW මැතිවරණ  නිරීක්ෂණ සංවිධානයේ මාධ්‍ය හමුවට ජ්‍යෙෂ්ඨ පුරවැසියෙකු ලෙස එක්වෙමින් ඒ මහතා මෙම අදහස් පළ කර සිටියේය.
+
+එහිදී ඔහු වැඩිදුරටත් කියා සිටියේ  දිව්‍ය ලෝකය ඔළුවට කඩන් වැටුණත් ජනාධිපතිවරණය කල්දැමීමට බැරි බවය.
+
+"මැතිවරණ නීති බලාත්මකව තිබෙන කාලයේදී බෙදාදීම් සිදුකිරීම වැරදියි. දේශපාලන පක්ෂවලට වාසි සහගත කිසිදු දෙයක් කිරීම වැරදියි. මෙවැනි බෙදාහරින තැන්වලදී කොමිෂන් සභාව සහ නිරීක්ෂණ සංවිධාන ඉස්සර වගේ බැනර් එකක් ගැසිය යුතුයි.."
+
+◼️
+
+[Data](articles/c58a3238.json)
+
+---
 
 ### Dearer Dearer Maha Surrounded by Ruwanweli Maha Perera
 
@@ -170,19 +216,29 @@ Catholic organizations, from the top businesses in the world, from different org
 
 ---
 
-### දකුණු පළාතේ වෙඩික්කරු සුද්දා අත්අඩංගුවට
+### Southern Province shooter Suddha arrested
 
 *2024-06-20 19:10:15* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාතේ-වෙඩික්කරු-සුද්දා-අත්අඩංගුවට/11-410345) · `si`
 
-දකුණු  පළාතේ මිනිස් ඝාතන දෙකක්  සිදුකර තවත් ඝාතන දෙකක්  කිරීමට මුදල් ලබාගෙන අර අදිමින්  සිටි  සංවිධානාත්මක අපරාධ කල්ලි  සාමාජිකයකු වන ඊස්රාවාරි ප්‍රදීප් කුමාර නොහොත් සුද්දා යන සැකකරු අත්අඩංගුවට ගත් බව  මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි.
+Suddha, linked to two murders in the Southern Province, was arrested by a combined team from the Murder and Organized Crime Investigation units. The arrest followed the discovery of unlicensed firearms and ammunition, including seven.90mm revolver bullets and five 9mm pistol bullets. The suspect, previously hiding in Aragastota, was also connected to a shooting death on April 10th and another assassination in the Ambalangoda area. He was later produced before the Balapitiya Magistrate's Court for further inquiries.
 
-එම සැකකරු සන්තකයේ තිබී බලපත්‍ර නොමැති විදේශීය රටක නිෂ්පාදිත රිවෝල්වර වර්ගයේ ගිනි අවියක් ,0.38  වර්ගයේ ජීව උණ්ඩ 5 ක් 9 එම් එම් වර්ගයේ ජීව උණ්ඩ 7 ක් මෙන්ම හොරයින් මත්කුඩු මිලිග්‍රෑම් 10100 ක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ බුද්ධි හා ආවේශන අංශයේ නිලධාරියකු හට පුද්ගලික ඔත්තුකරුවකු ගෙන් ලද තොරතුරකට අනුව සිදුකළ දීර්ඝ විමර්ශනයකින් අනතුරුව  උප පොලිස් පරීක්ෂක එම් ටි.අයි සම්පත් මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් අහුන්ගල්ල බලපිටිය කොස්ගොඩ හික්කඩුව හා අම්බලන්ගොඩ යන ප්‍රදේශවල දින කීපයක් ආවේෂණ රාජකාරිවල යෙදී සිට  වතුගෙදර අරගහතොට පොකුණු පාර නිවසක සැඟව සිටියදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+The suspects were arrested by the murder and organized criminal criminal criminal investigation, saying that the suspects were arrested by the murders, or organized criminal group, who had taken about two human murders in the Southern Province.
+
+A revolvers manufactured in a foreign country without licenses have been taken into custody by 7 m book of 90-type live bullets, as well as 5 mm of 9 m kindle bullets.
+
+Sub Inspector Mistara, including an Investigation Unit of the Investigation Division of the Murassian and Organization Investigation Division, a group of other officers including a private spy of an organized criminal investigation.Police say he was arrested while hiding in a house in Aragastota.
+
+Police said that the killing of a person was shot dead by a pistol firearm on the 10th of April, police said in the 10th of April.
+
+The suspect was also interrogated by a man named at the Ambalangoda area and the assassination of a man in the Ambalangoda area in the Next day.
 
 ...
 
 [Data](articles/f142f1f9.json)
+
+[Extended Data](ext_articles/f142f1f9.ext.json)
 
 ---
 
@@ -2313,75 +2369,5 @@ They observed the swamp surrounding the Talangama Lake. They also focused on the
 [Data](articles/97039f67.json)
 
 [Extended Data](ext_articles/97039f67.ext.json)
-
----
-
-### The man has come to life as it goes on the post mortem examination
-
-*2024-06-20 10:21:16* · [`adalk`](https://www.ada.lk/breaking_news/පශ්චාත්-මරණ-පරීක්ෂණය-සිදුකිරීමට-යද්දී-මිනියට-පණ-ඇවිත්/11-410330) · `si`
-
-In a mysterious death case investigated by Madurankuliya Police, a man revived during a post-mortem exam. The deceased, a local landowner, was found unresponsive but later regained consciousness in the hospital. Preliminary investigations suggest foul play, leading to a formal inquiry. The victim's family and funeral arrangements remain unknown, prompting government intervention.
-
-🟩
-
-The owner of the land had come to the Madurankuliya Police on the preliminary investigation into the Madurankuliya Police have been identified in a preliminary investigation into the incident.
-
-The complaint was conducted in a local church in Puttalam District. A landman of the Madurankuliya area in the Madurankuliya, the Chairman, has been serving as a watchman in the area.
-
-Accordingly, the flies have been closed and there is no doubt about the death.
-
-The ICTA, the former Chairman has said this is mysterious death and is a formal inquiry into the event of a post mortem.
-
-The land owner also stated that there is no more details of relatives and that the final functions of the death and the victims have been revealed that the funeral intervene is done by the end of the government.
-
-The OIC was then announced by the OIC, police officers were deployed before a post mortem to investigate the corporation.
-
-...
-
-[Data](articles/8d9f3cf3.json)
-
-[Extended Data](ext_articles/8d9f3cf3.ext.json)
-
----
-
-### Miracle figure
-
-*2024-06-20 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186524) · `ta`
-
-A miraculous blue figure appeared in the sky over Mullaitivu on two consecutive Tuesdays, captivating locals with its continuous presence.
-
-🟩
-
-The miraculous figure in the Mullaitivu Air surface appeared on two Tuesday (18).
-
-In the Mullaitivu district on Tuesday night in the Mullaitivu district, a form of blue in the sky was continuously blue.
-
-◼️
-
-[Data](articles/4fe78311.json)
-
-[Extended Data](ext_articles/4fe78311.ext.json)
-
----
-
-### Jaishankar arrived in Sri Lanka
-
-*2024-06-20 10:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-வந்தடைந்தார்-ஜெய்சங்கர்/175-339166) · `ta`
-
-Indian Foreign Minister Jaishankar visited Sri Lanka today, marking his first trip since Modi became PM. This comes ahead of Modi's planned official visit to Sri Lanka.
-
-🟩
-
-Indian Foreign Minister. Jaishankar arrived in Sri Lanka this morning (20).
-
-This is the first visit to Sri Lanka after Modi took office as Prime Minister of India.
-
-Indian Prime Minister Narendra Modi plans to make an official visit to Sri Lanka soon. Remble
-
-◼️
-
-[Data](articles/da7e0bc0.json)
-
-[Extended Data](ext_articles/da7e0bc0.ext.json)
 
 ---

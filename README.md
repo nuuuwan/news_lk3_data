@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 17:55:55**
+As of **2024-06-20 18:13:10**
 
 ## Newspaper Stats
 
-*Scraped **31,344** Articles*
+*Scraped **31,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,96 @@ adalk | 2,739
 adaderanalk | 3,550
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
-virakesarilk | 4,854
+virakesarilk | 4,859
 adaderanasinhalalk | 5,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,338 (100.0%) of 31,344 articles have been extended.
+31,344 (100.0%) of 31,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පතට ගෙනආ සංශෝධනවලට ඡන්දයක්
+### Voting for revision to the Empowerment Bill
 
 *2024-06-20 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197963) · `si`
 
-කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමට ගෙනආ සංශෝධන සම්බන්ධයෙන් අද (20) පාර්ලිමේන්තුවේදී ඡන්දයක් පැවැත්වුණි.
+In Parliament, a vote on amendments to the Women's Empowerment Bill took place, with five MPs voting in favor and fourteen against. The amendments, proposed by Mr. Manju Kumaratunga, were rejected by the Deputy Speaker, informing Parliament of the decision made by MP Manuel Kumaratunga.
 
-ඒ පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධන සම්බන්ධයෙනි.
+🟩
 
-ඒ් අනුව පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධනවලට පක්ෂව ඡන්ද 05ක් සහ විරුද්ධව ඡන්ද 14ක් හිමිවිය.
+The Empowerment of Women's Empowerment Bill held a vote in Parliament today regarding the amendments to read the amendment today (20).
 
-අනතුරුව නියෝජ්‍ය කථානායකවරයා පාර්ලිමේන්තුවට දැනුම්දුන්නේ පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධන වැඩි ඡන්ද 09කින් ප්‍රතික්ෂේප වූ බවය.
+This is the contents of the amendment by Mr. Manju Kumaratunga.
+
+Accordingly, Five votes were in favor of the amendments and 14 votes against the amendments.
+
+The Deputy Speaker immediately informed Parliament that the amendments were rejected by the amendments by MP Manual Kumaratunga.
 
 ◼️
 
 [Data](articles/c01ea369.json)
 
+[Extended Data](ext_articles/c01ea369.ext.json)
+
 ---
 
-### ගිනි තැබූ පනත් කෙටුම්පත
+### Bill laid on fire
 
 *2024-06-20 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197962) · `si`
 
-ස්ත්‍රී පුරුෂ සමාජභාවී සමානාත්මතා පනත් කෙටුම්පතට විරෝධය පළකරමින් කථානායකවරයාට ලිපියක් භාරදීම බලංගොඩ කස්සප හිමි පොල්දූව මංසන්ධියට පැමිණියහ.
+Protesters led by Geaswewa Kassolagoda blocked the Balangoda junction against a gender equality bill. They marched to Parliament, handing over an official who arrived there.
 
-පසුව උන් වහන්සේ පාර්ලිමේන්තුව දක්වා පාගමනින් වැඩමකළ අතර පාර්ලිමේන්තු ගේට්ටුවට පැමිණි නිලධාරියෙක් එම ලිපිය භාරගත්තේය.
+🟩
+
+The Geaswewa Kassolagoda came to the junction of the Balangoda, protesting the gender equality bill.
+
+Later, he was marked with march to Parliament and an official who had come to Parliament was handed over to the letter.
 
 ◼️
 
 [Data](articles/37520edb.json)
 
+[Extended Data](ext_articles/37520edb.ext.json)
+
 ---
 
-### සහන් පුතා එක්ක මූහුදු ගිය ධීවරයින් ගහගෙන අයෙකු මරුට අනෙක් අයට තුවාල
+### One killed in fishermen who went with the son of the son
 
 *2024-06-20 17:13:39* · [`adalk`](https://www.ada.lk/breaking_news/සහන්-පුතා-එක්ක-මූහුදු-ගිය-ධීවරයින්-ගහගෙන-අයෙකු-මරුට-අනෙක්-අයට-තුවාල/11-410339) · `si`
 
-බේරුවල ධීවර වරායේ සිට සහන් පුතා 7 බහුදින ධීවර යාත්‍රාවෙන් මුහුදු ගිය ධීවරයින් පිරිසක් අතර සිදුවූ ආරවුලක් හේතුවෙන් එක් අයෙකු මියගොස් අනෙක් පිරිස තුවාල ලබා ඇති බව බේරුවල ධීවර පරීක්ෂක කාර්යාල ආරංචි මාර්ග සදහන් කරයි.
+A fisherman was killed, and others were injured in a dispute at Beruwala Fisheries Harbor involving the son of Sahan. The victim, from Magalkanda, was retrieved 180 sea miles away. Investigations are ongoing based on a complaint lodged by the vessel owner.
 
-මෙසේ මියගොස්  ඇත්තේ මග්ගොන, මාගල්කන්ද , රොක්කලන්ඩ් වත්ත ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු බව සදහන් වේ.
+🟩
 
-මියගොස් ඇති පුද්ගලයාගේ මෘතදේහය  බේරුවල ධීවර වරායෙන් මුහුදු සැතපුම් 180 ක් පමණ ඈත සිට බේරුවල ධීවර වරායට එකී බහු දින යාත්‍රාවෙන් රැගෙන එම්න් සිටින බව වාර්තාවේ .
+According to Beruwala Fisheries Inspector Office, the other person had been killed and others were injured in a dispute between the Sahan son in Beruwala Fisheries Harbor.
 
-බේරුවල රේගුව පාරේ පදිංචි  යාත්‍රාවේ හිමිකරු විසින් කල  පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කර ඇති බව සදහන් වේ.
+The victim is a resident of Magalkanda, Magalkanda, Majalkanda, Rockkaland Watta.
+
+The deceased is that the body of the deceased has been taken from the Beruwala Fisheries Harbor from 180 sea miles from the Beruwala Fisheries Harbor.
+
+It is said that investigations have been launched on a complaint by the owner of the vessel of the Beruwala Customs Road.
 
 ◼️
 
 [Data](articles/613d2b65.json)
+
+[Extended Data](ext_articles/613d2b65.ext.json)
+
+---
+
+### வெற்றிமாறன் - விமல் - போஸ் வெங்கட் கூட்டணியில் தயாராகி இருக்கும் 'சார்'
+
+*2024-06-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186583) · `ta`
+
+தமிழ் திரையுலகில் சந்தை மதிப்பு கொண்டிருக்கும் நட்சத்திர நடிகர்களில் ஒருவரான விமல் கதையின் நாயகனாக நடித்திருக்கும் 'சார்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான கார்த்தி மற்றும் முன்னணி இயக்குநரான கார்த்திக் சுப்புராஜ் ஆகியோர் தங்களது சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/03724250.json)
 
 ---
 
@@ -126,23 +156,79 @@ Dr. Dabarera also stated that most of the time individuals who do not seek immed
 
 ---
 
-### ඉන්දීය විදේශ අමාත්‍යවරයා අගමැති දිනේෂ් හමුවෙයි
+### மலையாள ரசிகர்களையும் கவர்ந்த 'மகாராஜா'
 
-*2024-06-20 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197960) · `si`
+*2024-06-20 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186580) · `ta`
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය සුබ්‍රමනියම් ජෙයිශංකර් මහතා අද (20) අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා හමුවිය.
+''மக்கள் செல்வன் விஜய் சேதுபதி நடிப்பில் வெளியான 'மகாராஜா' திரைப்படம் தமிழ் ரசிகர்களை மட்டுமல்லாமல் மலையாளம், தெலுங்கு என வேற்று மொழி திரைப்பட ரசிகர்களையும் கவர்ந்துள்ளது'' என படக் குழுவினர் உற்சாகத்துடன் தெரிவித்தனர்.
 
-භාරතීය ජනතා පක්ෂයේ නායකත්වයෙන් යුත් ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයේ මැතිවරණ ජයග්‍රහණය පිළිබඳව අග්‍රාමාත්‍යවරයා ඔහුට සුබ පැතූ අතර සමීප ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කිරීම සඳහා එක්ව කටයුතු කිරීමට ශ්‍රී ලංකාවේ කැපවීම සහතික කළේය.
+இயக்குநர் நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி கடந்த வாரம் படமாளிகையில் வெளியான திரைப்படம் 'மகாராஜா'. 'மக்கள் செல்வன்' விஜய் சேதுபதியின் திரையுலக பயணத்தில் ஐம்பதாவது படமாக தயாரான 'மகாராஜா'- விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியை பெற்றிருக்கிறது. இதனால் மகிழ்ச்சியடைந்த படக்குழுவினர் படத்தை வெற்றி பெறச் செய்த ரசிகர்களுக்கும், ஊடகத்தினருக்கும் நன்றி தெரிவிக்கும் வகையில் விழா ஒன்றினை சென்னையில் ஒருங்கிணைத்தனர்.
 
-කොවිඩ් වසංගතයෙන් සහ ආර්ථික අර්බුදයෙන් පසු මෑත දුෂ්කර කාලවලදී ලබාදුන් සහාය වෙනුවෙන් අග්‍රාමාත්‍යවරයා ඉන්දියාවට ස්තූති කළේය.
-
-ශ්‍රී ලංකාව වැනි අසල්වැසියන් ඉන්දියාවට අතිශයින් වැදගත් බවත් ඉන්දියාව තුළ ශ්‍රී ලංකාව කෙරෙහි ඉමහත් හොඳ හිතක් පවතින බවත් ඉන්දීය විදේශ අමාත්‍යවරයා පැවසීය.
-
-ඉන්දීය රජය ‟අසල්වැසියා පළමුව″ යන  ප්‍රතිපත්තිය යළි තහවුරු කරන බවත් තම සංචාරයේ ප්‍රධාන අරමුණ ශ්‍රී ලංකාව සිය සමීපතම සමුද්‍රීය අසල්වැසියා සහ  මිතුරා ලෙස ඉන්දියාවේ අඛණ්ඩව කැපවීම අවධාරණය කිරීම බවත් ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා අවධාරණය කළේය.
+அந்த நிகழ்வில் படக் குழுவினருடன் படத்தை பட மாளிகையில் வெளியிட்ட விநியோகஸ்தர்கள் உள்ளிட்ட பலரும் பங்குபற்றினர்.
 
 ...
 
+[Data](articles/c0d2d688.json)
+
+---
+
+### Indian Foreign Minister meets Prime Minister Dinesh
+
+*2024-06-20 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197960) · `si`
+
+Dr. Subramaniam Jeeshankar, India's Foreign Minister, met with Sri Lanka's Prime Minister Dinesh today, emphasizing India's commitment to strengthening bilateral ties and thanking India for its support during the Covid epidemic and economic crisis. They discussed investment, development projects, and mutual cooperation across various sectors.
+
+🟩
+
+Indian Foreign Minister Dr. Subramaniam Jeeshankar met at Temple Trees today (20).
+
+The Prime Minister congratulated the National Democratic Alliance with the leadership of the Bharatiya Janata Party, and ensured Sri Lanka's commitment to further strengthen bilateral relations.
+
+The Prime Minister thanked India for the assistance of the prospective timing of the Covid Epidemic and the economic crisis.
+
+The Indian Foreign Minister said that neighbors such as Sri Lanka are very important to India and that India is very good in India.
+
+The Indian Foreign Minister emphasized that the Government of India is the policy of the neighbor first.
+
+The Prime Minister and Indian Minister discussed Indian Investment, Development Projects, Connection projects and mutually favorable cooperation in various fields.
+
+◼️
+
 [Data](articles/902150bc.json)
+
+[Extended Data](ext_articles/902150bc.ext.json)
+
+---
+
+### நடிகர் நவீன் சந்திரா நடிக்கும் 'லெவன்' படத்தின் டீசர் வெளியீடு
+
+*2024-06-20 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186577) · `ta`
+
+தெலுங்கு மற்றும் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் நவீன் சந்திரா கதையின் நாயகனாக கம்பீரமான காவல்துறை அதிகாரி வேடத்தில் நடித்திருக்கும் 'லெவன்' எனும் திரைப்படத்தின் டீஸர் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் லோகேஷ் அஜில்ஸ் இயக்கத்தில் உருவாகி இருக்கும் 'லெவன்' எனும் திரைப்படத்தில் நவீன் சந்திரா, ரியா ஹரி,  சஷாங்க், அபிராமி, திலீபன், ரித்விகா, 'ஆடுகளம்' நரேன், ரவிவர்மா, அர்ஜய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் அசோகன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். கிரைம் திரில்லர் ஜேனரிலான இந்தத் திரைப்படத்தை ஏ ஆர் என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் அஜ்மல் கான் மற்றும் ரியா ஹரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/940f7519.json)
+
+---
+
+### பொசன் பௌர்ணமி தினத்தை முன்னிட்டு கைதிகளை பார்வையிட அனுமதி
+
+*2024-06-20 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186579) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு  இரண்டு நாட்களுக்கு சிறைக்கைதிகளை அவர்களின் உறவினர்கள் பார்வையிட அனுமதிக்க தீர்மானித்துள்ளதாக சிறைச்சாலைகள் ஆணையாளரும் பேச்சாளருமான காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+இதன்போது,  கைதிகளின் உறவினர்கள் கைதிகளுக்கு உணவு மற்றும் இனிப்பு பொதிகளை கொண்டு செல்ல அனுமதிக்கப்படுவார்கள்.
+
+சிறைச்சாலை விதிகள் மற்றும் ஒழுங்குமுறைகளுக்கு ஏற்ப, முறையான சுகாதார மற்றும் பாதுகாப்பு நடைமுறைகளின்படி பார்வையாளர்கள் வர வேண்டும் என்று ஆணையர் தெரிவித்துள்ளார்.
+
+நாட்டிலுள்ள அனைத்து சிறைச்சாலைகளிலும் இந்த நடவடிக்கைகளை மேற்கொள்வதற்கான வசதிகள் ஏற்படுத்தப்பட்டுள்ளன என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/3e1df7bb.json)
 
 ---
 
@@ -221,6 +307,22 @@ Eighty batteries in laptops and cell phones can be burned and at times
 [Data](articles/4ea1e07a.json)
 
 [Extended Data](ext_articles/4ea1e07a.ext.json)
+
+---
+
+### பிரதமர் தினேஸ் குணவர்த்தனவை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் !
+
+*2024-06-20 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186575) · `ta`
+
+உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் இன்று வியாழக்கிழமை (20) பிரதமர் தினேஸ் குணவர்த்தனவை சந்தித்தார்.
+
+அபிவிருத்தி மற்றும் தொடர்புகளுக்கான முன்னெடுப்புகள் ஊடாக இந்தியாவின் வலுவான ஆதரவு மீண்டும் உறுதிப்படுத்தப்பட்டது.
+
+எமது அபிவிருத்தி உதவிகள் மற்றும் ஆளுமை விருத்தி செயற்திட்டங்கள் ஊடாக இலங்கை மக்களின் அபிலாஷைகள் நிறைவேற்றப்படுமென நாம் நம்புகின்றோம் என பதவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a58e91e4.json)
 
 ---
 
@@ -728,19 +830,25 @@ The Buddhists integrate the Navigation of the Navalness in Anuradhapura, includi
 
 ---
 
-### දේශපාලනය තුළත් කාන්තා නියෝජනය වැඩි වූවා නම් දූෂණ වංචා අවම වෙනවා
+### If women's representation has increased, corruption fraud is minimal
 
 *2024-06-20 14:01:17* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනය-තුළත්-කාන්තා-නියෝජනය-වැඩි-වූවා-නම්-දූෂණ-වංචා-අවම-වෙනවා/11-410335) · `si`
 
-කලා විද්‍යා වාණිජ  යන ප්‍රධාන විෂය ධාරා තුනට අමතර ව 2014 වර්ෂයේ දී පමණ පාසල් විෂය මාලාවට අලු‍තෙන් එක් වූ තාක්ෂණ විෂය ධාරාව යටතට ගැනෙන ජෛව තාක්ෂණය, ඉංජිනේරු තාක්ෂණය හා තොරතුරු තාක්ෂණය යන උපවිෂයන් හැදෑරීමට ශිෂ්‍ය ප්‍රජාව අතර මහත් උද්‍යෝගයක් පවතින බවත් ඒ අතර සිසුවියන් ඊට වැඩි උනන්දුවක් දැක්වීමේ ප්‍රවණතාවක් දැකිය හැකි බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමයන්ත මහතා පැවසී ය.
+In 2014, the Minister of Education highlighted the importance of increasing women's representation in Sri Lanka, linking it to reduced corruption and fraud. He noted the enthusiasm for new technologies among students and the potential of the advanced curriculum to empower women. The event, attended by various international and local figures, emphasized the significance of gender equality and the role of education in achieving societal progress.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ශ්‍රී ලාංකික කාන්තාවන් සවිබල ගැන්වීමේ අරමුණින් සිලෝන් විමෙන් සංවිධානය ඉදිරියේ දී මෙරට ක්‍රියාත්මක කිරීමට සංවිධානය කර ඇති ව්‍යාපෘති පිළිබඳ දැනුම්වත් කිරීමේ වැඩසටහනකට සහභාගී වෙමිනි. අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් කොළඹ හිල්ටන් හෝටලයේ පැවති මෙම වැඩසටහනේ දී සන්නාම තානාපතිවරුන් සඳහා පත්වීම් ලිපි ප්‍රදානය කිරීම ද සිදු විය.
+🟩
 
-මෙම අවස්ථාවට එම සංවිධානයේ ජාත්‍යන්තර නියෝජිත මෙල්කි පෙරේරා, එම සංවිධානයේ කැනඩා, ඔස්ටේ්‍රලියා, එංගලන්ත, ප්‍රංශ, ඉතාලි නියෝජිතයන් ද මෙම අවස්ථාවට එක් විය. විශේෂඥ වෛද්‍යවරුන්, විශ්ව විද්‍යාල උපකුලපතිවරුන්,ව්‍යාපාරිකයින්, මාධ්‍යවේදීන්, ආචාර්යවරුන්, මෙම අවස්ථාවට එක්වීම ද විශේෂත්වයකි.
+In 2014, the student community is enthusiastic to study the new technology, Engineering Technology and Information Technology Advanced Technology Curriculum in 2014 at the year 2014.Minister of Education Dr. Susil Susil Susil Susil Paranantha said that a trend is likely to be seen.
+
+The Minister made this observation at a meeting of projects that have been organized to implement the country's projects in the future to empower Sri Lankan women.. The program was presented to brand ambassadors at the Hilton Colombo under the patronage of the Minister.
+
+International Agency Melki Perera, Canada, Australia, England, French, England, French, Italian representatives were also present. It is noteworthy that specialist doctors, university vice chancellors, businessmen, journalists, lecturers, joining the event.
 
 ...
 
 [Data](articles/eff7f717.json)
+
+[Extended Data](ext_articles/eff7f717.ext.json)
 
 ---
 
@@ -762,21 +870,27 @@ Major General Roitharare, who represents the Chief of Army, has been appointed a
 
 ---
 
-### වැවක ඉදිකළ සිළුමිණ සෑය
+### Silumina Seaya built by a tank
 
 *2024-06-20 13:52:54* · [`adalk`](https://www.ada.lk/breaking_news/වැවක-ඉදිකළ-සිළුමිණ-සෑය/11-410333) · `si`
 
-පොසොන් උත්සවය වෙනුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට වෙනුවෙන්, එප්පාවල, කැලේසියඹලෑව වැවෙහි දිය මත ඉදි කළ අසිරිමත් සිළුමිණි සෑය බෝට්ටුවෙන් ගොස්  වන්දනා මාන කිරීමට අද(20) පස්වරුවේ සිට 23 වැනි දින දක්වා අවස්ථාව ඇත.
+Silumina Seaya, a structure near Anuradhapura, is part of a pilgrimage route that includes visits to tanks like Kalezembawa and Eppawala. The journey involves navigating through historical sites and religious landmarks, showcasing the rich cultural heritage of the region.
 
-එප්පාවල, ඇඳගල කැලේ සියඹලෑව ශ්‍රී ආනන්දෝදය මහා පිරිවෙනෙහි සුදර්ශනාරාමයේ විහාරාධිකාරී කැලේසියඹලෑව නන්ද හිමියන්ගේ ආශිර්වාද මත එම විහාරස්ථානයේ ශීෂ්‍ය භික්ෂූ නේවාසිකාගාරය ඉදි කර ගැනීමට මුල්‍ය ආධාර ලබා ගැනීමේ අරමුණද පෙර දැරිව, විහාරස්ථ දායක සභාව හා ප්‍රදේශයේ තරුණ ප්‍රජාව එක්ව කැලේසියඹලෑව වැව කේන්ද්‍ර කර ගනිමින් මෙම සිළුමිණ සෑය ඉදි කරමින් පවති.
+🟩
 
-පොසොන් උත්වසය වෙනුවෙන් අනුරාධපුරය ඇතුළු පූජනීය ස්ථාන වැඳ පුදා ගැනීමට පැමිණෙන ජනතාව වෙනුවෙන් දිය මත ඉදි කළ මෙම සෑයද වන්දනා මාන කිරීමට අවස්ථාව උදා කර දීමට නියමිතය.
+Pilgrimage to the Poson Festival for the pilgrims visiting Anuradhapura for the pilgrimage of the Kalezembawa tank to go through the Kleasmba structure of the Kalezambawa tank to go to the boat and the pilgrimage to the 23rd to the junction.
 
-වැව් බැම්ම මත සිට මීටර 800 ක් පමණ දුර ගෙවා වැවේ කෙළවර යකඩ බට 400 ක් පමණ යොදා ඉදි කළ පාදමක් මත, මෙම චෛත්‍යය අනුරුව ඉදි කර ඇත.එම ස්ථානයට බෝට්ටුවෙන් ගමන් කර, සෑය වන්දනා කර නැවත පැමිණිමට බැතිමතුන්ට අවස්ථාව සලසා ඇත.
+Eppawala and Kale Siyambalawa Maha Pirivena in Sudhajularama Maha PirivenaLasts.
+
+The form of this form of stupid for the people who come to the hostility of the people, Anuradhapura and the people who come to worship places, Anuradhapura will be pilgrimage.
+
+This stage has been built on a base of about 400 irons paid from the tank bund.
 
 ◼️
 
 [Data](articles/3d4f835c.json)
+
+[Extended Data](ext_articles/3d4f835c.ext.json)
 
 ---
 
@@ -2243,127 +2357,5 @@ The Representative of the Auditor General’s office questioned how officers who
 [Data](articles/a9372227.json)
 
 [Extended Data](ext_articles/a9372227.ext.json)
-
----
-
-### Special buses and train services to pilgrims in Poson
-
-*2024-06-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197938) · `si`
-
-Since 2020, special bus and train services have been introduced for pilgrims traveling to Poson Poya, facilitating easier access to the Poson Pooja celebrations.
-
-🟩
-
-Special buses and train services have been implemented since (20), to the Posson Poya to worship the Posson Pooja.
-
-◼️
-
-[Data](articles/94ba6acf.json)
-
-[Extended Data](ext_articles/94ba6acf.ext.json)
-
----
-
-### Superssed to South Africa
-
-*2024-06-20 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197937) · `si`
-
-In the first match of the Super series in South Africa, South Africa defeated Sri Lanka by 18 runs. The U.S., who chose to field after winning the toss, struggled against South Africa's batting lineup. Quinton de Kock and Aiden Markram led the charge with 110 runs for the second wicket. De Kock also contributed with 74 runs. Despite a strong start, the U.S. could only manage 176 runs in reply, losing six wickets. This victory marked South Africa's first win in the Super series, played at the Richards Stadium.
-
-🟩
-
-South Africa beat Sri Lanka by 18 runs in the first match of the first 8 overs.
-
-The United States won the toss and elected to bowl the toss.
-
-Accordingly, the first wicket of the South African team was burned in 16 runs.
-
-However, Queton D Cook and Anden Mcroram scored 110 runs for the second wicket.
-
-Dicke, Dicke, scored 74 runs in the event.
-
-Aden Markram scored 46 runs while Henryich Clash scored 36 runs.
-
-Accordingly, South Africa scored 194 runs for the loss of 4 wickets in their allotted 20 overs.
-
-The first five wickets in the United States were bowled out for a target of 195 runs.
-
-The 6th wicket scored 91 runs in a score of a score of 91 runs, but it was not sufficient for victory.
-
-Accordingly, the US score of 176 runs for the loss of 6 wickets in the end of the 20 overs.
-
-South Africa were able to report the first winner of 8 Supers.
-
-The match between the United States and South Africa was held at the Richards Stadium.
-
-◼️
-
-[Data](articles/05946f8d.json)
-
-[Extended Data](ext_articles/05946f8d.ext.json)
-
----
-
-### The latest weather notification
-
-*2024-06-20 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197935) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa, North Western provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Possible heavy rains exceeding 75mm in some areas. Showers also forecasted for Eastern and Uva provinces, with strong winds in central hill slopes, Trincomalee, Hambantota, and Moneragala districts.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Department of Meteorological Department in some places in the Western and Sabaragamuwa Province and in some places in Galle and Matara districts. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at a few night or night in the Eastern and Uva provinces.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
-
-◼️
-
-[Data](articles/69e310af.json)
-
-[Extended Data](ext_articles/69e310af.ext.json)
-
----
-
-### Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, ahead of polls
-
-*2024-06-20 05:38:00* · [`economynextcom`](https://economynext.com/indian-fm-jaishankar-in-sri-lanka-to-discuss-partnerships-amid-project-delays-ahead-of-polls-168843/) · `en`
-
-ECONOMYNEXT – India’s External Affairs Minister S. Jaishankar will pay a one-day official visit to Colombo on Thursday (20) and meet Sri Lankan leaders to discuss “wide-ranging issues of the partnership”, India said, amid delays of some key Indian projects ahead of a presidential poll in Sri Lanka.
-
-Though Sri Lankan government has claimed that Jaishankar’s visit was a precursor to Indian Prime Minister Narendra Modi who formed the new government last week, the External Affairs Ministry of India did not mention anything on Modi’s visit.
-
-The visit will be Jaishankar’s first bilateral visit after the formation under the new government.
-
-“Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend,” the Indian External Affairs Ministry said in a statement.
-
-“The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors.”
-
-...
-
-[Data](articles/d4a79dcc.json)
-
-[Extended Data](ext_articles/d4a79dcc.ext.json)
-
----
-
-### World Bank says 80% of global population will experience slower growth than in pre-COVID decade
-
-*2024-06-20 05:34:56* · [`dailyftlk`](https://www.ft.lk/opinion/World-Bank-says-80-of-global-population-will-experience-slower-growth-than-in-pre-COVID-decade/14-763275) · `en`
-
-Latest Global Economic Prospects report acknowledges global growth stabilising for first time in three years
-
-The global economy is expected to stabilise for the first time in three years in 2024—but at a level that is weak by recent historical standards, according to the World Bank’s latest Global Economic Prospects report released on Thursday.
-
-Global growth is projected to hold steady at 2.6% in 2024 before edging up to an average of 2.7% in 2025-26. That is well below the 3.1% average in the decade before COVID-19. The forecast implies that over the course of 2024-26 countries that collectively account for more than 80% of the world’s population and global GDP would still be growing more slowly than they did in the decade before COVID-19.
-
-...
-
-[Data](articles/830a07d8.json)
-
-[Extended Data](ext_articles/830a07d8.ext.json)
 
 ---

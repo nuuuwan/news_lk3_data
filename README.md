@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 22:52:21**
+As of **2024-06-20 23:04:31**
 
 ## Newspaper Stats
 
-*Scraped **31,379** Articles*
+*Scraped **31,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,555
 tamilmirrorlk | 3,690
 dailymirrorlk | 4,733
 virakesarilk | 4,863
-adaderanasinhalalk | 5,104
+adaderanasinhalalk | 5,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,378 (100.0%) of 31,379 articles have been extended.
+31,379 (100.0%) of 31,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### කරණීයමෙත්ත සූත්‍රයත් විකෘති කරයි
+
+*2024-06-20 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197972) · `si`
+
+කරණීයමෙත්ත සූත්‍රය විකෘති කර සමාජ මාධ්‍යට මුදාහැර ඇති පුද්ගලයින් කවුරුන්දැයි සොයාබලා අවශ්‍ය නීතිමය පියවර ගැනීමට උපදෙස් ලබාදී ඇති බව බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා පවසයි.
+
+අමාත්‍යවරයා වැඩිදුරටත් අදහස් දක්වමින් පැවසුවේ, එවැනි දර්ශන ඇතුළත් වීඩියෝ එකිනෙකා අතරේ හුවමාරු කිරීමෙන් වැළකී සිටින ලෙසය.
+
+◼️
+
+[Data](articles/2dff9bf3.json)
+
+---
 
 ### India and Sri Lanka discuss initiatives to enhance energy connectivity
 
@@ -47,6 +61,8 @@ Additionally, plans were unveiled for the Sampur Solar Power Plant to commence c
 ...
 
 [Data](articles/fd70f254.json)
+
+[Extended Data](ext_articles/fd70f254.ext.json)
 
 ---
 
@@ -2345,25 +2361,5 @@ Their own rice plant will ensure stable quality and lower costs. Polish riced wi
 [Data](articles/8d099dd7.json)
 
 [Extended Data](ext_articles/8d099dd7.ext.json)
-
----
-
-### Special bus and train services to Anuradhapura
-
-*2024-06-20 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186533) · `ta`
-
-Special bus and train services started today for pilgrims heading to Anuradhapura ahead of Poson Pournami Day, as announced by the Deputy General Manager of the Railway Department and the Chairman of the Sri Lanka Transport Board, Lalith de Alwis.
-
-🟩
-
-Special buses and train services have been implemented from today (20) for pilgrims visiting Anuradhapura on the eve of Poson Pournami Day.
-
-Deputy General Manager of the Railway Department. Hindi and Sri Lanka Transport Board Chairman Lalith de Alwis said.
-
-◼️
-
-[Data](articles/a8a2ee14.json)
-
-[Extended Data](ext_articles/a8a2ee14.ext.json)
 
 ---

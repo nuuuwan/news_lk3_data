@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 03:53:03**
+As of **2024-06-21 04:04:49**
 
 ## Newspaper Stats
 
-*Scraped **31,407** Articles*
+*Scraped **31,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 310
 newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,819
-dailyftlk | 1,917
+dailyftlk | 1,927
 adalk | 2,745
 adaderanalk | 3,555
 tamilmirrorlk | 3,691
@@ -26,11 +26,191 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,407 (100.0%) of 31,407 articles have been extended.
+31,407 (100.0%) of 31,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Indo-Sri Lanka joint development projects on energy and infrastructure gain momentum
+
+*2024-06-21 03:30:31* · [`dailyftlk`](https://www.ft.lk/news/Indo-Sri-Lanka-joint-development-projects-on-energy-and-infrastructure-gain-momentum/56-763335) · `en`
+
+President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar
+
+Sampur solar power plant construction set to kickoff in July
+
+India assures support to boost liquid milk and fertiliser industries
+
+In a significant diplomatic exchange, President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar yesterday led bilateral discussions at the President’s House yesterday, with joint energy projects taking centre stage.
+
+The meeting between the President and Dr. Jaishankar focused on various initiatives aimed at enhancing energy connectivity and developing the renewable energy sector between the two countries.
+
+Key topics included plans for an LNG supply, a proposed petroleum pipeline linking India and Sri Lanka, and advancing oil and gas exploration projects. Notably, it was announced that the construction of the Sampur solar power plant is set to commence in July 2024.
+
+...
+
+[Data](articles/7b49bea0.json)
+
+---
+
+### Bakeer Markar calls for accountability over breach of his Parliamentary privileges
+
+*2024-06-21 03:28:44* · [`dailyftlk`](https://www.ft.lk/news/Bakeer-Markar-calls-for-accountability-over-breach-of-his-Parliamentary-privileges/56-763334) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar in an address to Parliament yesterday highlighted significant breaches of his Parliamentary privileges, as revealed in a recent report by the Committee on Parliamentary Ethics and Privileges.
+
+He noted that the report found that a Private Members Bill submitted by him on youth representation, was eventually passed as a proposal put forward by ruling party MP Premanath C. Dolawatta.
+
+Citing the Parliamentary Privileges Committee report, Bakeer Markar pointed out numerous irregularities in the bill’s submission process to the Parliamentary Drafting Office and the Attorney General’s Department.
+
+“It is evident that this unfairness resulted from a deliberate failure to adhere to established procedures for bills presented by individual members,” Bakeer Markar said. He urged MPs to review specific sections of the report that highlight these injustices.
+
+...
+
+[Data](articles/082b94d2.json)
+
+---
+
+### Visiting External Affairs Minister of India Dr. S. Jaishankar holds talks with Foreign Minister Ali Sabry
+
+*2024-06-21 03:26:56* · [`dailyftlk`](https://www.ft.lk/news/Visiting-External-Affairs-Minister-of-India-Dr-S-Jaishankar-holds-talks-with-Foreign-Minister-Ali-Sabry/56-763333) · `en`
+
+External Affairs Minister of India Dr. Subrahmanyam Jaishankar and Foreign Minister M.U.M. Ali Sabry
+
+External Affairs Minister of India Dr. Subrahmanyam Jaishankar who was on a one-day official visit to Sri Lanka met with his Sri Lankan counterpart, Foreign Minister M.U.M. Ali Sabry for bilateral talks at the Ministry of Foreign Affairs yesterday afternoon.
+
+This was Dr. Jaishankar’s first bilateral visit after being reappointed to the high office following the recent general elections in India.
+
+The bilateral discussions at the Foreign Ministry centred on a range of issues of mutual interest including in the areas of economic and development cooperation, cooperation in regional and multilateral fora as well as cooperation between the Foreign Ministries of the two countries among others.
+
+...
+
+[Data](articles/6056801e.json)
+
+---
+
+### Former Galle Mayor Lionel Premasiri joins SJB
+
+*2024-06-21 03:25:13* · [`dailyftlk`](https://www.ft.lk/news/Former-Galle-Mayor-Lionel-Premasiri-joins-SJB/56-763332) · `en`
+
+Former Galle District Member of Parliament and Deputy Minister Lionel Premasiri officially joined the Samagi Jana Balawegaya (SJB) this week, pledging his support to opposition leader Sajith Premadasa.
+
+Premasiri, a lawyer by profession and an alumnus of Galle Mahinda Vidyalaya, began his political career with the Sri Lanka Freedom Party (SLFP), where he was appointed as the Mayor of Galle. He later crossed over to the United National Party (UNP), securing re-election as Mayor.
+
+In 2004, Premasiri was elected to Parliament representing the Galle district under the UNP banner. Due to political disagreements, he switched allegiance to the United People’s Freedom Alliance (UPFA) and served as the Deputy Minister of Social Services and Social Welfare from 2007 to 2010. Additionally, he has also served as Canada’s Deputy High Commissioner.
+
+◼️
+
+[Data](articles/d4760f76.json)
+
+---
+
+### ‘Youth Aruna’ conference to celebrate 200 years of plantation community arrival in Sri Lanka
+
+*2024-06-21 03:22:50* · [`dailyftlk`](https://www.ft.lk/news/Youth-Aruna-conference-to-celebrate-200-years-of-plantation-community-arrival-in-Sri-Lanka/56-763331) · `en`
+
+Summit aims to engage young people in meaningful discussions, activities related to plantation community’s history and future on 22 June in Kandy
+
+Water Supply and Plantation Infrastructure Development Ministry has announced plans to hold a youth conference as part of the national program commemorating the 200th anniversary of the plantation community’s arrival in Sri Lanka.
+
+The summit, titled ‘Youth Aruna’ aims to engage young people in meaningful discussions and activities related to the plantation community’s history and future. The conference is scheduled for 22 June, at the Sri Lanka Institute of Information Technology (SLIIT) in Kandy. Water Supply and Estate Infrastructure Development Ministry is leading the conference, in collaboration with the University of Peradeniya, SLIIT, university students and AIESEC voluntary organisations. The National Chamber of Commerce of Sri Lanka (NCCSL) has also agreed to host a job fair concurrently with the conference.
+
+...
+
+[Data](articles/07bbd539.json)
+
+---
+
+### Colombo International Film Festival to boost Sri Lanka’s cinema and tourism industries
+
+*2024-06-21 03:21:28* · [`dailyftlk`](https://www.ft.lk/business/Colombo-International-Film-Festival-to-boost-Sri-Lanka-s-cinema-and-tourism-industries/34-763330) · `en`
+
+Cabinet approves to host festival from 8-14 July with support from National Film Corporation, Sri Lanka Tourism Development Authority
+
+Minister Bandula Gunawardena says initiative aims to popularise global cinematography in SL by reviving local film industry and making destination an attractive tourist hub in South Asia
+
+Festival to feature over 34 award-winning films from Iran, France, India, South Korea, China, Japan, Germany
+
+In a bid to rejuvenate the Sri Lankan film industry whilst positioning the country as a major tourist hub in South Asia, the Government has decided to host the Colombo International Film Festival.
+
+Organised under the sponsorship of the National Film Corporation (NFC) and the Sri Lanka Tourism Development Authority (SLTDA), the film festival is set to take place from 8-14 July in Colombo.
+
+...
+
+[Data](articles/f7fbd081.json)
+
+---
+
+### Sri Lanka and Saudi Arabia to ink MoU to boost direct investments
+
+*2024-06-21 03:20:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Saudi-Arabia-to-ink-MoU-to-boost-direct-investments/34-763329) · `en`
+
+Sri Lanka and the Kingdom of Saudi Arabia will enter into a Memorandum of Understanding (MoU) aimed at attracting direct investment and enhancing the investment environment in both countries.
+
+The agreement seeks to promote policy and legal reforms, provide advanced and integrated infrastructure facilities and streamline processes to foster a more investor-friendly climate.
+
+“Both sides reached an agreement during the special meeting of the World Economic Forum, held in Riyadh, Saudi Arabia attended by Foreign Affairs Minister Ali Sabry in April,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
+
+Speaking at the weekly post-Cabinet meeting media briefing he disclosed that the agreement was reached when the Minister attended the World Economic Forum in Riyadh from 28-29 April.
+
+...
+
+[Data](articles/2dfca277.json)
+
+---
+
+### Financial Intelligence Unit inks MoU with Bahrain counterpart
+
+*2024-06-21 03:19:47* · [`dailyftlk`](https://www.ft.lk/business/Financial-Intelligence-Unit-inks-MoU-with-Bahrain-counterpart/34-763328) · `en`
+
+FIU-Sri Lanka Director Dr. Subhani Keerthiratne (right) and FINC-Bahrain Chief Executive Shaikha May Bint Mohamed Bin Khalifa Al Khalifa signing the MoU on behalf of the respective institutions
+
+The Financial Intelligence Unit of Sri Lanka (FIU-Sri Lanka) entered into a Memorandum of Understanding (MoU) with the Financial Intelligence National Centre of the Kingdom of Bahrain (FINC-Bahrain).
+
+With the signing of this MoU, the FIU-Sri Lanka has entered into MoUs with 45 foreign counterparts for sharing of information for intelligence purposes.
+
+FIU-Sri Lanka Director Dr. Subhani Keerthiratne and FINC-Bahrain Chief Executive Shaikha May Bint Mohamed Bin Khalifa Al Khalifa signed the MoU on behalf of the respective institutions.
+
+The MoU was signed on 4 June, at the 30th Plenary of the Egmont Group, held in Paris, France to exchange financial intelligence related to money laundering (ML) and associated predicate offences, and in relation to terrorist financing (TF) offence.
+
+...
+
+[Data](articles/c4d8cd27.json)
+
+---
+
+### SAIL at International Industry Expo 2024
+
+*2024-06-21 03:17:53* · [`dailyftlk`](https://www.ft.lk/business/SAIL-at-International-Industry-Expo-2024/34-763327) · `en`
+
+Sri Lanka’s premier fragrance and flavour provider, Soap and Allied Industries Ltd. (SAIL), is showcasing its range of fragrances and products at the ‘Industry 2024’ exhibition at the BMICH organised by the Industrial Development Board of the Ministry of Industries.
+
+Sri Lanka’s first international industry exhibition, Industry 2024, was officially inaugurated by President Ranil Wickremesinghe on Wednesday. The exhibition features over 1,000 stalls and will run until 23 June from 8:30 a.m. to 9 p.m.
+
+Participating in this exhibition provides a platform for local industries to showcase their products and services, demonstrating SAIL’s commitment to uplifting local industry in alignment with the Ministry of Industries framework.
+
+...
+
+[Data](articles/7ee658cf.json)
+
+---
+
+### SLT-Mobitel Home Telephone offers unlimited calls
+
+*2024-06-21 03:16:27* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-Home-Telephone-offers-unlimited-calls/34-763326) · `en`
+
+Reinforcing leadership in fixed line voice services, SLT-Mobitel has unveiled an unlimited voice calling package tailored specially for families and small businesses.
+
+SLT-Mobitel recognises that customers rely on SLT-Mobitel’s fixed line services for clear, uninterrupted voice communication. The Unlimited Voice Package caters to this need comprehensively by removing all limitations on calling while providing the expected superior quality and reliability of its fixed line network
+
+SLT-Mobitel understands that the home phone is often a shared family resource. A key highlight is the package’s family-friendly approach, enabling the entire household to enjoy unlimited calling without restrictions. The package therefore embraces this reality enabling all family members and other customers who use a fixed line unlimited calls at an affordable price.
+
+...
+
+[Data](articles/da1d7aad.json)
+
+---
 
 ### Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024
 
@@ -2129,227 +2309,5 @@ Major General Roitharare, who represents the Chief of Army, has been appointed a
 [Data](articles/8ff65731.json)
 
 [Extended Data](ext_articles/8ff65731.ext.json)
-
----
-
-### Silumina Seaya built by a tank
-
-*2024-06-20 13:52:54* · [`adalk`](https://www.ada.lk/breaking_news/වැවක-ඉදිකළ-සිළුමිණ-සෑය/11-410333) · `si`
-
-Silumina Seaya, a structure near Anuradhapura, is part of a pilgrimage route that includes visits to tanks like Kalezembawa and Eppawala. The journey involves navigating through historical sites and religious landmarks, showcasing the rich cultural heritage of the region.
-
-🟩
-
-Pilgrimage to the Poson Festival for the pilgrims visiting Anuradhapura for the pilgrimage of the Kalezembawa tank to go through the Kleasmba structure of the Kalezambawa tank to go to the boat and the pilgrimage to the 23rd to the junction.
-
-Eppawala and Kale Siyambalawa Maha Pirivena in Sudhajularama Maha PirivenaLasts.
-
-The form of this form of stupid for the people who come to the hostility of the people, Anuradhapura and the people who come to worship places, Anuradhapura will be pilgrimage.
-
-This stage has been built on a base of about 400 irons paid from the tank bund.
-
-◼️
-
-[Data](articles/3d4f835c.json)
-
-[Extended Data](ext_articles/3d4f835c.ext.json)
-
----
-
-### 5,000 fever patients in the past 6 months
-
-*2024-06-20 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197953) · `si`
-
-In the last six months, Sri Lanka saw 5,000 cases of fever, according to the Epidemiology Unit.
-
-🟩
-
-The Epidemiology Unit says that 5,000 fever patients were reported in Sri Lanka only during the last six months of the year.
-
-◼️
-
-[Data](articles/984406eb.json)
-
-[Extended Data](ext_articles/984406eb.ext.json)
-
----
-
-### Navy operates to prevent floods
-
-*2024-06-20 13:33:33* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-තත්වය-වලක්වන්න-නාවික-හමුදාවෙන්-මෙහෙයුමක්/11-410332) · `si`
-
-In response to heavy rainfall, the Navy assists in clearing drains in the Gintota area to prevent flooding. The Irrigation Plant and Immediate Response Team, supported by the Irrigation Department, successfully complete the task.
-
-🟩
-
-The Navy contributes constantly to remove the waste removal of waste in the Gintota area.
-
-Due to heavy rainfall in the Gin River, the river of the Gin River, which is removed to the river and flu sweetener, stuck in the narrow bridge and drain the water in the narrow bridge.Due to the blocking, lowlands are gradually flooding.
-
-The Irrigation Plant and Instant Responsibility of the Irrigation Department (IMP) has been deployed to be removed, with the assistance of the Irrigation Department (IR) with the assistance of the Irrigation Department.The work was done.
-
-◼️
-
-[Data](articles/1f797a5b.json)
-
-[Extended Data](ext_articles/1f797a5b.ext.json)
-
----
-
-### If one country is attacked, the other country should immediately provide military aid - compliance between Russia and North Korea
-
-*2024-06-20 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186555) · `ta`
-
-Russia and North Korea have agreed to provide mutual military support if either is attacked, marking a significant pact signed during a high-level visit. This deal aims to revive Cold War-era security commitments and bolster North Korea's ties with a UN Security Council member, enhancing its international standing.
-
-🟩
-
-Russia and North Korea have signed an agreement to provide immediate military assistance if the other country is attacked.
-
-Leaders of the two countries have signed the agreement during the North Korean visit to Russian President Vladimir Putin.
-
-CNN said it was the most important of the agreements signed between the two countries over the past several years.
-
-CNN also said the deal was an attempt to re -bring about the Mutual Security Pledge of the Cold War in 1961.
-
-Moreover, the agreement has strengthened the North Korean president's relations with the country with veto power in the United Nations Security Council.
-
-The agreement stated that if a country in two countries face military action, the other country should immediately provide military assistance and other assistance.
-
-◼️
-
-[Data](articles/ee5998bc.json)
-
-[Extended Data](ext_articles/ee5998bc.ext.json)
-
----
-
-### Tension in the North East of Sri Lanka
-
-*2024-06-20 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186550) · `ta`
-
-The UN Human Rights Council, during its 56th session, urged for judicial independence in Sri Lanka, highlighting concerns over forced disappearances and human rights abuses. The UK's Human Rights Ambassador, Rita Franch, praised a report exposing such abuses and called for implementing UN recommendations to address these issues. She also mentioned a new bill, including an anti-terrorism law, must align with Sri Lanka's human rights commitments. The international community, including Canada, Malawi, Monaco, Madagascar, the UK, and the US, expressed concern over tensions in Sri Lanka's northeast, emphasizing the need for transparency and addressing the needs of affected individuals.
-
-🟩
-
-The United Nations Human Rights Council (UNHRC) has appealed to the United Nations Human Rights Council to protect the independence of the judiciary in Sri Lanka.
-
-In the 56 session of the United Nations Human Rights Council, Canada Malawi Mondinegro Vadamasatonia United Kingdom and the United States made this request.
-
-The United Kingdom's Human Rights Ambassador Rita Franch has issued the statement.
-
-He thanked your report on the forcible disappearance of Sri Lanka, who revealed that those involved in human rights violations in Sri Lanka have long been able to exclude the clutches of the punishment.
-
-"We are urging the United Nations Human Rights Commissioner's Office to implement the recommendations of the United Nations Human Rights Commissioner's Office to find a solution to the tragedies caused by the disappearance of all communities and the impacts of all communities," he said.
-
-...
-
-[Data](articles/81eff24f.json)
-
-[Extended Data](ext_articles/81eff24f.ext.json)
-
----
-
-### Army is appointed new Staff
-
-*2024-06-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197952) · `si`
-
-Major General Rohiti Aluvihare named Chief of Army Staff.
-
-🟩
-
-Major General Rohiti Aluvihare has been appointed as the Chief of Army Staff.
-
-◼️
-
-[Data](articles/4bc0169b.json)
-
-[Extended Data](ext_articles/4bc0169b.ext.json)
-
----
-
-### New Chief of Staff of Sri Lanka Army appointed
-
-*2024-06-20 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99989/new-chief-of-staff-of-sri-lanka-army-appointed) · `en`
-
-Major General Rohitha Aluvihare of the Vijayabahu Infantry Regiment has been appointed as the new Chief of Staff of the Sri Lanka Army, effective from 20 June 2024, by the Commander of the Army.
-
-Major General S. R. B. Aluvihare of the Vijayabahu Infantry Regiment had previously served as the Chief of Staff at the Office of the Chief of Defence Staff (OCDS) before being appointed as the General Officer Commanding of 11 Division, Pallekele.
-
-He had also served as Adjutant General of the Sri Lanka Army, Colonel of the Regiment of Vijayabahu Infantry Regiment and as the 18th Commander of Security Force (Central).
-
-◼️
-
-[Data](articles/f9ce2872.json)
-
-[Extended Data](ext_articles/f9ce2872.ext.json)
-
----
-
-### Government attempts to provide India's data structure to India - Wimal
-
-*2024-06-20 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186546) · `ta`
-
-Opposition MP Wimal Weerawansa criticizes the government for not revealing the true agenda behind Indian Foreign Minister Dr. Jaishankar's visit to Sri Lanka, suspected to involve signing 10-12 projects, including a Special Identity Card initiative. He urges transparency regarding agreements and the involvement of the Adani Group.
-
-🟩
-
-Wimal Weerawansa, a member of the opposition who acts independently in Parliament, said that the government should make public the real aim of the Indian Foreign Minister's visit.
-
-He was speaking at a special statement during a session held in Parliament on Thursday (20).
-
-Indian Foreign Minister Dr. Jaishankar visits the country today. Why is this visit to the hour. It is known that Sri Lanka is under pressure to sign 10 to 12 projects, including the Special Identity Card to be launched by the Department of Registration.
-
-Indian Prime Minister Narendra Modi is expected to visit Sri Lanka in August.
-
-In this case, what is the purpose of the Indian Foreign Minister?He said the government should notify the council of the reality of the accepted agreement.
-
-...
-
-[Data](articles/c7b1e351.json)
-
-[Extended Data](ext_articles/c7b1e351.ext.json)
-
----
-
-### Sri Lanka ready to sign bilateral debt restructure deals: Minister
-
-*2024-06-20 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-ready-to-sign-bilateral-debt-restructure-deals-minister-168913/) · `en`
-
-ECONOMYNEXT – Discussions on restructuring bilateral debt has concluded and Sri Lanka is ready to sign agreements, Cabinet spokesman Minister Bandula Gunawardana said.
-
-Once the agreements are signed, halted loan funded projects can resume, he said.
-
-Sri Lanka has bilateral debt with Paris Club creditors, India and China.
-
-Project including the airport, highways and digital television can resume after the agreements are singed, he said.
-
-◼️
-
-[Data](articles/f0de8bec.json)
-
-[Extended Data](ext_articles/f0de8bec.ext.json)
-
----
-
-### President Ranil and FM Jaishankar jointly unveil key India-funded projects in Sri Lanka
-
-*2024-06-20 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99988/president-ranil-and-fm-jaishankar-jointly-unveil-key-india-funded-projects-in-sri-lanka) · `en`
-
-Three milestones in Indo-Sri Lanka relations were achieved during the visit of Indian External Affairs Minister Dr. S. Jaishankar to Sri Lanka, the President’s Media Division (PMD) said.
-
-President Ranil Wickremesinghe and the visiting Indian External Affairs Minister have jointly unveiled the virtual plaque for 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project.
-
-Meanwhile, 24 houses in each model village in Colombo and Trincomalee were also handed over virtually, the PMD reported.
-
-Meanwhile, the Indian Foreign Minister and the Sri Lankan President also unveiled the virtual plaque to mark the formal commissioning of the “Maritime Rescue Coordination Centre (MRCC)” in Sri Lanka under a USD 06 million grant from India.
-
-This includes a centre at Navy Headquarters in Colombo, a sub-centre in Hambantota and unmanned installations at Galle, Arugambay, Batticaloa, Trincomalee, Kallarawa, Point Pedro and Mollikulam, according to the PMD.
-
-...
-
-[Data](articles/b8396af7.json)
-
-[Extended Data](ext_articles/b8396af7.ext.json)
 
 ---

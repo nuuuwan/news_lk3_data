@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 12:34:46**
+As of **2024-06-20 12:52:20**
 
 ## Newspaper Stats
 
-*Scraped **31,291** Articles*
+*Scraped **31,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,730
-adaderanalk | 3,542
+adaderanalk | 3,543
 tamilmirrorlk | 3,678
 dailymirrorlk | 4,733
 virakesarilk | 4,839
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,290 (100.0%) of 31,291 articles have been extended.
+31,291 (100.0%) of 31,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Canada lists Iran’s Revolutionary Guards as a terrorist group
+
+*2024-06-20 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99987/canada-lists-irans-revolutionary-guards-as-a-terrorist-group) · `en`
+
+Canada has listed Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation, after years of pressure from opposition legislators and some members of the Iranian diaspora.
+
+Announcing the decision on Wednesday, Public Safety Minister Dominic LeBlanc called it a “significant tool in fighting global terrorism”.
+
+The move will mean that thousands of senior Iranian government officials, including top IRGC officials, will be barred from entering Canada.
+
+Iran’s foreign ministry spokesman, quoted by Iran’s Fars news agency, has condemned what he described as the “unwise and unconventional” step.
+
+The IRGC is a major military, political and economic force in Iran, with close ties to the Supreme Leader, Ayatollah Ali Khamenei.
+
+It is estimated to have more than 190,000 active personnel with its own ground forces, navy and air force that oversee Iran’s strategic weapons.
+
+...
+
+[Data](articles/85ac23cc.json)
+
+---
 
 ### Jaishankar met the president
 
@@ -50,25 +72,33 @@ Indian Foreign Minister Dr S. Jaysankar, who arrived in Sri Lanka on an official
 
 ---
 
-### එළවළු ලොරියක් බවුසරයක ගැටී සිදු වූ  අනතුරකින් දෙනෙකුට තුවාල,  ලොරි රථයේ සහයකට  බලපතලයි
+### Lorry will be injured in the terms of the lorry
 
 *2024-06-20 12:02:49* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-ලොරියක්-බවුසරයක-ගැටී-සිදු-වූ--අනතුරකින්-දෙනෙකුට-තුවාල---ලොරි-රථයේ-සහයකට--බලපතලයි/11-410331) · `si`
 
-මහනුවර - යාපනය ඒ 9 මාර්ගයේ දී එළවළු  තොගයක් ප්‍රවාහනය කරමින් තිබූ  ලොරි රථයක් සහ ඉන්ධන බවුසරයක්  එකිනෙක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනෙකු රෝහල් ගත කර ඇති බවත් එක් අයෙකුගේ  තත්ත්වය බර පතල බව මිහින්තලේ පොලිසිය පවසයි.
+A lorry driver and a resident of the Jaffna area were injured in an accident involving a lorry and a fuel bowl near Kandy around 3:00 am. The incident occurred when the lorry, traveling from Jaffna to the Dambulla Economic Center, collided with a stationary fuel bowl. Both victims were hospitalized, and the cause of the accident is believed to be the lorry driver falling asleep at the wheel. Further investigations are being conducted by the Motor Traffic Division under the guidance of Mihintale Police OIC Chief Inspector Ranjith Chandrasiri.
 
-එම මාර්ගයේ,  මිහින්තලය - පලුගස්වැව ප්‍රදේශයේදී අද (20) අලුයම 3.00 ට පමණ අනතුර සිදුව ඇති තිබේ.
+🟩
 
-අනතුරින් මෙලෙස රෝහල ගත කර ඇත්තේ,  එළවළු ලොරියේ ගමන් ගත් රියදුරු සහ ලොරි සහායකයා වන බව පොලිසිය කියයි.
+One person was hospitalized by a lorry and a fuel bowl in Kandy and a fuel bowl was hospitalized and one person was involved in the situation.
 
-තුවාල ලැබු ලොරි රථ රියදුරා සහ රිය සහයක  යාපනය ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය පවසයි.
+The accident occurred at around 3.00 am in the Mihintale-Palugaswewa area.
 
-එළවළු ලොරි රථය , යාපනය ප්‍රදේශයේ සිට දඹුල්ල ආර්ථික මධ්‍යස්ථානය වෙත එළවළු තොගයක්  ප්‍රවාහනය කරමින් තිබියදී  මාර්ගයේ නවතා තිබූ ඉන්ධන බවුසරයක  පිටු පස ගැටීමෙන්  එළවළු ලොරි රථය මාර්ගය හරහා පෙරලි  ගොස් මෙම අනතුර සිදුව ඇති බව පොලිසිය සදහන් කලේය.
+The hospital has been spent in the accident and the lorry helper, police said.
 
-එළවළු ලොරි රථයේ රියදුරුට නින්ද යාම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට සැක කරන බව අනතුර සම්බන්ධයෙන්  පරීක්ෂණ සිදු කරන පොලිසිය කියයි.
+The police said that the injured lorry driver and residents of the Jaffna area were residents of the Jaffna area.
 
-...
+The police said that the accident had taken place through the road to the pages of a fuel bowl, which was parked from the Jaffna area to the Dambulla Economic Center.
+
+Police say that the accident had been suspected to be sleeping due to the driver of the vegetable lorry.
+
+The Motor Traffic Division conducts further investigations on the instructions of Mihintale Police OIC Chief Inspector Ranjith Chandrasiri.
+
+◼️
 
 [Data](articles/f6f94044.json)
+
+[Extended Data](ext_articles/f6f94044.ext.json)
 
 ---
 
@@ -2275,29 +2305,5 @@ After further investigations, the police are taking steps to bring the person to
 [Data](articles/82394492.json)
 
 [Extended Data](ext_articles/82394492.ext.json)
-
----
-
-### The exact leadership of the president was a great help to rebuild the falling country - DP Herath
-
-*2024-06-19 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186500) · `ta`
-
-Minister DP Herath praised President Ranil Wickremesinghe's leadership for aiding the country's recovery from its downfall. He emphasized the importance of supporting the government's relief plans to strengthen the economy, cautioning against actions that could reverse progress. Herath highlighted the government's commitment to restoring the nation under Wickremesinghe's guidance, including legislative reforms and anti-corruption measures, facilitated by international support. Despite challenges, he expressed optimism about the country's trajectory over the past two years, urging citizens to consider the implications of political decisions on national development.
-
-🟩
-
-President Ranil Wickremesinghe's exact leadership has been a great help to rebuild the country that has fallen in all aspects, Minister of Livestock Development. Said Herath.
-
-The Minister of State pointed out that the people should consider and decide whether the country will be re -brought back to the underworld by disrupting the relief plans implemented by the current government to create a strong economy.
-
-State Minister DP Herath made this statement at a media briefing held at the Presidential Media Center on Wednesday the 19th.
-
-The Ministry was responsible for the implementation of the program to restore the country that has fallen in all sectors. While there was a shortage of food in the country, the responsibility of our ministry has been completely hidden. Under the right leadership of President Ranil Wickremesinghe, the Cabinet -led government has committed dedicated to the recovery of the country from the crisis.
-
-...
-
-[Data](articles/b38fa0b8.json)
-
-[Extended Data](ext_articles/b38fa0b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 08:34:56**
+As of **2024-06-20 08:53:54**
 
 ## Newspaper Stats
 
-*Scraped **31,242** Articles*
+*Scraped **31,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,41 +14,67 @@ bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,804
-dailyftlk | 1,913
+dailyftlk | 1,914
 adalk | 2,724
 adaderanalk | 3,534
 tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,073
+adaderanasinhalalk | 5,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,241 (100.0%) of 31,242 articles have been extended.
+31,242 (100.0%) of 31,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත බන්ධනාගාර නිලධාරීන්ට වැඩ වරදින ලකුණු
+### ශ්‍රී ලංකාව සම්බන්ධයෙන් මානව හිමිකම් කවුන්සිලයට තවත් වාර්තාවක්
+
+*2024-06-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197940) · `si`
+
+අමෙරිකාව, බ්‍රිතාන්‍යය, කැනඩාව, මලාවි, මොන්ටිනිග්‍රෝ සහ උතුරු මැසිඩෝනියාව යන රටවල් සමූහය විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් වාර්තාවක් එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයට ඉදිරිපත් කර තිබේ.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 56 වන සැසිවාරයට සමගාමීව ඊයේ (19) දිනයේ එම වාර්තාව ඉදිරිපත් කර ඇති බව සඳහන්ය.
+
+එමඟින් ශ්‍රී ලංකාවේ මානව හිමිකම් උල්ලංඝණය කිරීම් පිළිබඳව සහ බලහත්කාරයෙන් අතුරුදහන් කිරීම් සම්බන්ධයෙන් වගවීම පිළිබඳව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ මහකොමසාරිස්වරයාගේ වාර්තාවට ස්තූතිය පළ කර තිබේ.
+
+මහකොමසාරිස්වරයා විසින් ඉදිරිපත් කර ඇති නිර්දේශ ක්‍රියාත්මක කරන ලෙස ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කරන බව අදාළ රටවල් සමූහය සිය වාර්තාව මඟින් දැනුම් දී ඇත.
+
+ත්‍රස්තවාදය මර්දනය කිරීම සහ අන්තර්ජාල ආරක්ෂාව සම්බන්ධයෙන් හඳුන්වාදෙන නව නීති සකස් කළ යුත්තේ සැමගේ ප්‍රකාශනයේ නිදහස මෙන්ම මානව හිමිකම් ආරක්ෂ වන ආකාරයෙන් බව එම වාර්තාවේ සඳහන්ය.
+
+...
+
+[Data](articles/cffe3e9a.json)
+
+---
+
+### Prison officials engaged in union action points
 
 *2024-06-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197939) · `si`
 
-වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන නිලධාරීන්ට එරෙහිව දැඩි විනය පියවර ගන්නා බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+Prison officials face disciplinary action for engaging in trade unions, lacking legal rights to do so according to Commissioner Gamini B Dissanayake. Measures will be taken against those involved, including addressing intimidation within the ranks.
 
-එහි මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා සඳහන් කළේ, බන්ධනාගාර නිලධාරීන්ට වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරතවීමට කිසිදු නීත්‍යානුකූල අයිතියක් නොමැති බවය.
+🟩
 
-එවැනි ක්‍රියාමාර්ග ගන්නා නිලධාරීන් සම්බන්ධයෙන් දැඩි නීත්‍යානුකුඅල පියවර ගන්නා බව ද ගාමිණි බී .දිසානායක මහතා සඳහන් කළේය.
+The Prison Department says that severe disciplinary action will be taken against the officers engaged in the trade union action.
 
-මේ අතර පසුගියදා වෘත්තීය ක්‍රියාමාර්ගවල නිරතව සිටි බන්ධනාගාර නිලධාරීන් සම්බන්ධයෙන් ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ද බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා මෙහිදී අදහස් පළ කළේය.
+Its spokesman, Commissioner of Prisons Gamini B Dissanayake said that the prison officials have no legal right to engage in trade union action.
 
-"ඉතා සුළු නිලධාරීන් පිරිසක් අනෙක් අයව බියවද්දා ගෙන ඇති බව අපිට වාර්තා වුණා. කොළඹ මහෙස්ත්‍රාත්වරයා නියෝගයක් කළා විනයානුකූලව කටයුතු කරන්න කියලා. ජ්‍යේෂ්ඨ නිලධාරියෙක් යොදවලා ඒ ගැන විනයානුකූලව කටයුතු කරනවා. ඉදිරියේ දී අධිකරණයට මේ ගැන වාර්තා කරන්න බලාපොරොත්තු වෙනවා."
+Gamini B. Dissanayake said that he will take measures of such measures.
+
+Meanwhile, Prisons Commissioner Gamini B Dissanayake made these measures regarding the procedures involved in the trade union officials recently.
+
+"We have reported that a few minorities have intimidated others. The Colombo Magistrate ordered to be disciplined. A senior officer of the official is acting as disciplinary. The court expects to report this in the future. "
 
 ◼️
 
 [Data](articles/d0362912.json)
+
+[Extended Data](ext_articles/d0362912.ext.json)
 
 ---
 
@@ -181,6 +207,18 @@ Taxation needs to be looked at from a different perspective and models of taxati
 [Data](articles/16f9f97a.json)
 
 [Extended Data](ext_articles/16f9f97a.ext.json)
+
+---
+
+### Responding to Shantha Jayaratne’s bogus claims
+
+*2024-06-20 05:17:09* · [`dailyftlk`](https://www.ft.lk/columns/Responding-to-Shantha-Jayaratne-s-bogus-claims/4-763272) · `en`
+
+Following is a response to an article written by Shantha Jayarathne under the title “From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies” (https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) which was published on 10 June 2024.
+
+...
+
+[Data](articles/2b2f77c3.json)
 
 ---
 
@@ -2299,55 +2337,5 @@ In this case, the investigation is being carried out to find the source of the d
 [Data](articles/fcde30b4.json)
 
 [Extended Data](ext_articles/fcde30b4.ext.json)
-
----
-
-### Sri Lanka calls applications for National Police Commission vacancy
-
-*2024-06-19 15:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-applications-for-national-police-commission-vacancy-168753/) · `en`
-
-ECONOMYNEXT – Sri Lanka has called for applications to fill a vacancy in the National Police Commission.
-
-The commission consists of 7 members of which two members are yet to be appointed, according to its webpage.
-
-The parliament issued a statement calling for applications this week.
-
-Applications should be sent to ‘Secretary-General to the Constitutional Council, Constitutional Council – Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte’ on or before July 1 by registered post, or by email to constitutionalcouncil@parliament.lk.
-
-‘Appointment of Members to the NPC’ should be on the top left-hand corner of the envelope, or as the subject of the email.
-
-Members of Parliament, Provincial Councils or any local authority are not eligible to apply for the member post.
-
-...
-
-[Data](articles/a7330cce.json)
-
-[Extended Data](ext_articles/a7330cce.ext.json)
-
----
-
-### Indian External Affairs Minister S. Jaishankar is coming to Sri Lanka tomorrow
-
-*2024-06-19 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186464) · `ta`
-
-Indian Foreign Minister S. Jaishankar visits Sri Lanka tomorrow, marking his first bilateral trip under PM Modi's government. The visit aims to strengthen ties between the two countries, focusing on mutual benefits through cooperation in various sectors.
-
-🟩
-
-Indian Foreign Minister S. Jaishankar will make an official visit to Sri Lanka tomorrow, said the Indian High Commission in Colombo.
-
-During the visit, Foreign Minister Jaishankar will hold meetings with the leadership of Sri Lanka on a wide range of bilateral issues.
-
-This is the first bilateral visit to the Foreign Minister under the new government of Indian Prime Minister Modi.
-
-This visit, which urges India's foreign policy to renegotiate the principle of priority, points out the continued dedication of India to Sri Lanka, a very close foreign country and a long -awaited friend.
-
-The visit will further inspire the merger projects and other cooperation that will benefit mutual benefits in various sectors.
-
-◼️
-
-[Data](articles/7b956c1f.json)
-
-[Extended Data](ext_articles/7b956c1f.ext.json)
 
 ---

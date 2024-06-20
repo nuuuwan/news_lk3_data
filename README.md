@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 15:04:25**
+As of **2024-06-20 15:19:40**
 
 ## Newspaper Stats
 
-*Scraped **31,315** Articles*
+*Scraped **31,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,545
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,851
-adaderanasinhalalk | 5,088
+adaderanasinhalalk | 5,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,315 (100.0%) of 31,315 articles have been extended.
+31,315 (100.0%) of 31,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### පළමු ශ්‍රේණියට ළමුන් ඇතුළු කිරීම ගැන ආ කැබිනට් යෝජනාව
+
+*2024-06-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197955) · `si`
+
+පළමු ශ්‍රේණියට ළමුන් ඇතුළු කිරීම ගැන දැනට ඇති චක්‍රලේඛ සංශෝධනය කිරීමට අධ්‍යාපන අමාත්‍යවරයා කැබිනට් මණ්ඩලයට යෝජනා කර තිබේ.
+
+අධ්‍යාපනයේ සම සාධාරණ ප්‍රවේශ අවස්ථා තහවුරු වන පරිදි විනිවිදභාවයෙන් සහ අක්‍රමිකතා අවම වන පරිදි පසුගිය වසරවල ලද අත්දැකීම් පදනම් කරගෙන එම සංශෝධන කිරීමට නියමිතය.
+
+එකී සංශෝධිත අනුව 2025 වසර සඳහා සහ ඉන් ඉදිරියට පළමු ශ්‍රේණියට ළමුන් ඇතුළු කර ගැනීමට අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත්කළ යෝජනාව ට අනුමැතිය ලැබුණි.
+
+◼️
+
+[Data](articles/7e67ab53.json)
+
+---
 
 ### A fire in a house in Netastal estate
 
@@ -2301,27 +2317,5 @@ If the High Court runs to go to the referendum in addition to the two -thirds ma
 [Data](articles/ea092d0e.json)
 
 [Extended Data](ext_articles/ea092d0e.ext.json)
-
----
-
-### Buddhist places in the North and East for trading
-
-*2024-06-20 01:16:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பௌத்த-இடங்கள்-வர்த்தகத்துக்கு/175-339156) · `ta`
-
-Athuraliye Ratana Thera questioned in Parliament about reports suggesting Buddhist sites in the North and East might lease land to businesses for communal benefits. He queried the government's decision-making process regarding these leases, highlighting concerns over potential misuse of archaeological sites and wildlife protection areas for political gains.
-
-🟩
-
-Independent Opposition Parliamentarian Athuraliye Ratana Thera questioned whether there were reports in the Cabinet on the basis of this that Buddhist places in the North and East were planning to provide communal corporations to business institutions in the future.
-
-Ratan Thera, who questioned the Ministry of Forest Protection and Wildlife in Parliament on Wednesday (19).
-
-Buddhist places in the North and East have been informed by the Thera and the people that traders will be given to traders on the basis of a future political purpose on the basis of communal political purposes.. Has the government has decided to give the North and East to companies in the Cabinet?Otherwise, does anyone act automatically without making decisions there?Can the Minister only decide on archaeological seats?
-
-...
-
-[Data](articles/a7c44c0c.json)
-
-[Extended Data](ext_articles/a7c44c0c.ext.json)
 
 ---

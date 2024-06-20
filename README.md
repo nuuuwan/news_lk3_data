@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 17:04:26**
+As of **2024-06-20 17:35:14**
 
 ## Newspaper Stats
 
-*Scraped **31,336** Articles*
+*Scraped **31,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,736
-adaderanalk | 3,548
+adaderanalk | 3,550
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,854
@@ -26,25 +26,75 @@ adaderanasinhalalk | 5,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,334 (100.0%) of 31,336 articles have been extended.
+31,338 (100.0%) of 31,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### බුදු දහමට අපහාස කළැයි චෝදනා ලැබූ නතාෂා සහ බෘෘනෝ නිදහස්
+### One killed in mid-sea clash among crew of fishing boat
+
+*2024-06-20 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99994/one-killed-in-mid-sea-clash-among-crew-of-fishing-boat) · `en`
+
+One person has been killed during a clash involving six fishermen after an argument had escalated while they were at sea onboard a multiday fishing trawler off Beruwala.
+
+Sources within the Fisheries Inspectorate in Beruwala told Ada Derana that the remaining fishermen have also sustained injuries following the incident which had occurred onboard the trawler named “Sahan Putha”.
+
+Police have launched investigations into the incident based on a complaint made by the owner of the fishing trawler in question.
+
+Meanwhile, it was reported that the body of the deceased individual is being brought to the Beruwala Fisheries Harbour onboard the same trawler.
+
+The deceased person has been identified as M.K. Upul Chandana, a resident of Rockland Watta area in Maggona, according to police.
+
+◼️
+
+[Data](articles/79ceb67d.json)
+
+[Extended Data](ext_articles/79ceb67d.ext.json)
+
+---
+
+### Sri Lanka reports over 5,000 Leptospirosis cases so far in 2024
+
+*2024-06-20 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99993/sri-lanka-reports-over-5000-leptospirosis-cases-so-far-in-2024) · `en`
+
+The Epidemiology Unit of the Ministry of Health says that 5,000 Leptospirosis cases have been reported within the first six months of the year.
+
+Health officials advise the public to promptly seek medical advice if they experience a fever or exhibit symptoms related to rat fever.
+
+The bacteria responsible for this disease is mainly found in rat urine and it has also been detected in the feces and urine of cattle, dogs and pigs.
+
+Commenting on this regard, Consultant Epidemiologist Dr. Thushani Dabarera stated that around 100 fatalities are reported annually due to rat fever.
+
+Dr. Dabarera also stated that most of the time individuals who do not seek immediate treatment succumb to this disease. However, she emphasised that medicines are available for rat fever and that the disease can be effectively cured.
+
+...
+
+[Data](articles/c0607233.json)
+
+[Extended Data](ext_articles/c0607233.ext.json)
+
+---
+
+### Natasha and Barreo released to insult Buddhism to Buddhism
 
 *2024-06-20 16:19:44* · [`adalk`](https://www.ada.lk/breaking_news/බුදු-දහමට-අපහාස-කළැයි-චෝදනා-ලැබූ-නතාෂා-සහ-බෘෘනෝ-නිදහස්/11-410338) · `si`
 
-බුද්ධාගම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ කළැයි ප්‍රහසන ශිලිපිනි නතාෂා එදිරිසූරිය සහ බෲනෝ දිවාකරට එරෙහි පවරා තිබූ නඩුවෙන්  ඔවුන් නිදහස් කිරීමට කොළඹ කොටුව මහේස්ත්‍රාත් කෝසල සේනාධීර මහතා ඊයේ(19දා) නියෝග කළේය.
+Natasha and Barreo's controversial statement about Buddhism, which allegedly insults the religion, was released online. Following a complaint, Fort Magistrate Kosala Senadheera ordered its release despite the Attorney General's advice due to lack of sufficient evidence to proceed against the suspects. This incident occurred after Natasha Edirisuriya's declaration on April 1, 2023, sparked concerns about the collapse of Buddhism.
 
-බුද්ධාගමට අපහාසාත්මක වන අයුරින් වෛරී ප්‍රකාශ ඉදිරිපත් කිරීම යන චෝදනාව යටතේ මොවුන්ට එරෙහිව නඩු පවරා තිබූ අතර එම චෝදනා යටතේ සැකකරුවන්ට එරෙහිව නඩුව ඉදිරියට පවත්වාගෙන යාමට ප්‍රමාණවත්  සාක්ෂි නොමැති බවට නීතිපතිවරයා විසින් උපදෙස් ලබා දී ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීහු කරුණු දක්වමින් අධිකරණයට දන්වා සිටියහ.එම කරුණු දැක්වීම සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම නියෝගය ලබා දුන්නේය.
+🟩
 
-2023 අප්‍රේල් 01 වැනිදා පැවැති වැඩසටහනක දී නාතාෂා එදිරිසූරිය යන අය කළ ප්‍රකාශය බෲනෝ දිවාකර යන අය විසින් අන්තර්ජාලයට මුදා හැර ඇත. එම ක්‍රියාවෙන් ආගම් අතර පවතින් සංහිඳියාව බිඳ වැටෙන ආකාරයට සහ බෞද්ධ ධර්මයට අපහාසයක් සිදුකර ඇති බව පෙන්වා දෙමින් සිංහල බෞද්ධ සංවිධානය විසින් මෙම පැමිණිල්ල සිදු කර තිබුණි.
+Fort Magistrate Kosala Senadheera yesterday (19) ordered the release of the controversial statement of Buddhism.
+
+The Attorney General was instructed by the Attorney General that there was inspired by the Attorney General that there was insufficient evidence to promote the case against the suspects under the allegations.The Magistrate gave this order.
+
+Declaration of Narraha Edirisuriya on April 1, 2023, was released on the Internet by the Chairperson of Narraha Edirisuriya. The complaint had lodged a complaint with the Sinhala Buddhist Organization, pointing out that the act of religion is collapsing and insulted by Buddhism.
 
 ◼️
 
 [Data](articles/8e9e28b1.json)
+
+[Extended Data](ext_articles/8e9e28b1.ext.json)
 
 ---
 
@@ -2313,39 +2363,5 @@ He also specialises in International Commercial Arbitration, where he has repres
 [Data](articles/df114f23.json)
 
 [Extended Data](ext_articles/df114f23.ext.json)
-
----
-
-### DigiEcon 2024 Investment Summit promises remarkable line-up of speakers from diverse industries
-
-*2024-06-20 04:50:44* · [`dailyftlk`](https://www.ft.lk/business/DigiEcon-2024-Investment-Summit-promises-remarkable-line-up-of-speakers-from-diverse-industries/34-763259) · `en`
-
-The DigiEcon 2024 Investment Summit, Sri Lanka’s premier technology and investment event organised by the Ministry of Technology and powered by Mastercard, is gearing up to host a remarkable line-up of speakers this year.
-
-The highly anticipated summit, scheduled for 25 June, promises to unlock invaluable insights and power strategic alliances that will provide a platform to redefine success in the digital economy.
-
-The Summit’s comprehensive agenda explores some of the most pressing issues and emerging trends shaping the digital economy, such as fintech, artificial intelligence, cybersecurity, and sustainable development among others.
-
-The event will bring together global investors and venture capitalists, entrepreneurs, policymakers, and thought leaders from across the globe to explore investment opportunities and forge collaborations within Sri Lanka’s burgeoning tech industry.
-
-...
-
-[Data](articles/8305bd8d.json)
-
-[Extended Data](ext_articles/8305bd8d.ext.json)
-
----
-
-### Commonwealth Chamber of Commerce Chief visits BOI
-
-*2024-06-20 04:49:15* · [`dailyftlk`](https://www.ft.lk/business/Commonwealth-Chamber-of-Commerce-Chief-visits-BOI/34-763258) · `en`
-
-Commonwealth Chamber of Commerce Chairperson Julia Charlton on Monday met with the Board of Investment Chairman Dinesh Weerakkody and officials as well as those of the Colombo Port City to explore potential investment opportunities and to organise a high level business delegation to Sri Lanka. Commonwealth and Enterprise Council Member Niro Cooke and Commonwealth Chamber of Commerce’s Lawyer Ankita Yadav participated in the meeting.
-
-◼️
-
-[Data](articles/33ee6e1b.json)
-
-[Extended Data](ext_articles/33ee6e1b.ext.json)
 
 ---

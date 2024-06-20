@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 12:52:20**
+As of **2024-06-20 13:04:31**
 
 ## Newspaper Stats
 
-*Scraped **31,292** Articles*
+*Scraped **31,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,730
-adaderanalk | 3,543
-tamilmirrorlk | 3,678
+adalk | 2,731
+adaderanalk | 3,544
+tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,839
 adaderanasinhalalk | 5,084
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,291 (100.0%) of 31,292 articles have been extended.
+31,292 (100.0%) of 31,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### President Ranil and FM Jaishankar jointly unveil key India-funded projects in Sri Lanka
+
+*2024-06-20 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99988/president-ranil-and-fm-jaishankar-jointly-unveil-key-india-funded-projects-in-sri-lanka) · `en`
+
+Three milestones in Indo-Sri Lanka relations were achieved during the visit of Indian External Affairs Minister Dr. S. Jaishankar to Sri Lanka, the President’s Media Division (PMD) said.
+
+President Ranil Wickremesinghe and the visiting Indian External Affairs Minister have jointly unveiled the virtual plaque for 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project.
+
+Meanwhile, 24 houses in each model village in Colombo and Trincomalee were also handed over virtually, the PMD reported.
+
+Meanwhile, the Indian Foreign Minister and the Sri Lankan President also unveiled the virtual plaque to mark the formal commissioning of the “Maritime Rescue Coordination Centre (MRCC)” in Sri Lanka under a USD 06 million grant from India.
+
+This includes a centre at Navy Headquarters in Colombo, a sub-centre in Hambantota and unmanned installations at Galle, Arugambay, Batticaloa, Trincomalee, Kallarawa, Point Pedro and Mollikulam, according to the PMD.
+
+...
+
+[Data](articles/b8396af7.json)
+
+---
+
+### தருஷி கருணாரத்ன, கலிங்க குமார நாடு திரும்பினர்
+
+*2024-06-20 12:44:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தருஷி-கருணாரத்ன-கலிங்க-குமார-நாடு-திரும்பினர்/44-339176) · `ta`
+
+ஸ்பெயினில் நடைபெற்ற சர்வதேச   தடகளப் போட்டியில் பங்கேற்று இலங்கை ஓட்ட வீராங்கனை தருஷி கருணாரத்ன வெள்ளிப் பதக்கமும், கலிங்க குமார வெண்கலப் பதக்கமும் பெற்று   கட்டுநாயக்க விமான நிலையத்தை இன்று (20) காலை வந்தடைந்தனர்.  இந்தப் போட்டி ஸ்பெயினில்  "பில்பாவோ"வில் நடைபெற்றது.
+
+600 மீற்றர் ஓட்டப் போட்டியில் கலந்து கொண்ட தருஷி கருணாரத்ன இந்தப் போட்டியை 01.24.84 நிமிடங்களில் நிறைவு செய்து வெள்ளிப் பதக்கத்தை வென்றார்.
+
+ஆசியாவில் இந்த நிகழ்வுக்காக பதிவு செய்யப்பட்ட சிறந்த நேரம் இதுவாகும், இந்த வெற்றியின் மூலம் தருஷி கருணாரத்ன உலக தரவரிசையில் 45வது இடத்தை அடைந்துள்ளார்.
+
+உலக தரவரிசையில் 48வது இடம் வரையில் தருஷி கருணாரத்னவுக்கு ஒலிம்பிக் போட்டிகளில் பங்குபற்றுவதற்கான வாய்ப்பு கிடைத்துள்ளதாகவும் இதன் மூலம் தருஷி கருணாரத்ன ஒலிம்பிக் தகுதி நிலையை சித்தியடைந்துள்ளதாக இலங்கை தடகள நிறுவனத்தின் செயலாளர்  சமன் குமார   தெரிவித்தார்.
+
+...
+
+[Data](articles/f7da6a7b.json)
+
+---
 
 ### Canada lists Iran’s Revolutionary Guards as a terrorist group
 
@@ -51,6 +89,28 @@ It is estimated to have more than 190,000 active personnel with its own ground f
 ...
 
 [Data](articles/85ac23cc.json)
+
+[Extended Data](ext_articles/85ac23cc.ext.json)
+
+---
+
+### பாரிய விபத்து ; ஒருவரின் நிலை கவலைக்கிடம்
+
+*2024-06-20 12:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்து-ஒருவரின்-நிலை-கவலைக்கிடம்/175-339173) · `ta`
+
+கண்டி - யாழ்ப்பாணம் ஏ9 வீதியில் மரக்கறி ஏற்றிச் சென்ற லொறியொன்று எரிபொருள் பவுசருடன் மோதி விபத்துக்குள்ளானதில், இருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதாகவும் அதில் ஒருவரின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும் மிஹிந்தலை பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்து மிஹிந்தலை - பலுகஸ்வெவ பிரதேசத்தில் வைத்து வியாழக்கிழமை (20) அதிகாலை 3.00 மணியளவில் இடம்பெற்றுள்ளது.
+
+மரக்கறி லொறியின் சாரதியும் , உதவியாளருமே காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் .
+
+மரக்கறி லொறி யாழ்ப்பாணம் பகுதியில் இருந்து தம்புள்ளை பொருளாதார மத்திய நிலையத்திற்கு மரக்கறிகளை ஏற்றிச் சென்ற போது வீதியில் நிறுத்தி வைக்கப்பட்டிருந்த எரிபொருள் பவுசரின் பின்புறம் மோதி வீதியின் குறுக்கே கவிழ்ந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மரக்கறி லொறியின் சாரதிக்கு ஏற்பட்ட தூக்க கலக்கமே இவ் விபத்துக்கு காரணம் என விபத்து தொடர்பில் விசாரணைகளை மேற்கொண்ட பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/086b2929.json)
 
 ---
 
@@ -2225,85 +2285,5 @@ Abar Nagar, who was traveling on a motorcycle by 4th cross road to see the mothe
 [Data](articles/fde68465.json)
 
 [Extended Data](ext_articles/fde68465.ext.json)
-
----
-
-### Investigations into Piyumi Hansalai's bank accounts
-
-*2024-06-19 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197931) · `si`
-
-The Illegal Asset Investigation Division is probing Piyumi Hansalai's bank accounts, linked to 8 of Sri Lanka's top 19 banks, following a complaint by the Organization's President, Sanjaya Chairman. The investigation, authorized by the Court of Justice, involves allegations of financial irregularities, including spending by former President Gotabhaya Rajapaksa and investments in a luxury property. The probe focuses on activities spanning 2020 and 2023, with her coating manufacturing company identified as a primary source of income.
-
-🟩
-
-Colombo Maglakara No 4 Magulakara No 4 Magulakara, Section No. 04 of the 19-leading banks in the country, has been issued to the Illegal Asset Investigation Division.
-
-According to a complaint lodged in court, she had earned billions of rupees.
-
-The investigation has commenced following a complaint lodged by the President of the Organization Sanjaya Chairman.
-
-The 'Assets' (Asset Investigation Unit of Organization) '' Assets 'Asset Unit'
-
-Investigations officers said that 8 of the country's leading banks were running 19 accounts.
-
-Accordingly, the Court of Justice granted permission to investigate the reports of the accounts.
-
-The Investigation Officers have also been purchased from the court that she had spent former President Gotabhaya Rajapaksa.
-
-The Investigation Officers have also bought a house from a luxury housing complex in Ward Place, Colombo 7.
-
-They also said that she had paid the money during the year 20 and 2023.
-
-...
-
-[Data](articles/c9fc6447.json)
-
-[Extended Data](ext_articles/c9fc6447.ext.json)
-
----
-
-### Indian Foreign Minister to visit Sri Lanka tomorrow
-
-*2024-06-19 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99975/indian-foreign-minister-to-visit-sri-lanka-tomorrow) · `en`
-
-Indian External Affairs Minister Dr. S. Jaishankar is scheduled to pay an official visit to Sri Lanka on Thursday (20 June).
-
-During the visit, the Indian foreign minister will have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, the Indian High Commission in Colombo said.
-
-This will be Jaishankar’s first bilateral visit after the formation of new Government under Indian Prime Minister Shri Narendra Modi.
-
-“Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend.”
-
-The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors, the statement said.
-
-◼️
-
-[Data](articles/16ad3aff.json)
-
-[Extended Data](ext_articles/16ad3aff.ext.json)
-
----
-
-### One arrested with large quantities of leaks and Koda!
-
-*2024-06-19 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186501) · `ta`
-
-A 31-year-old man was arrested in Chunnakam for producing and possessing large quantities of kota and leakage. Police raided his operation, confiscating equipment and recovering 2 million milliliters of kota and 6,000 milliliters of leakage. He will be brought before the Mallakam court for further proceedings.
-
-🟩
-
-A man was arrested on Wednesday, 19th while engaging in leakage production near the Chunnakam police division, near the Chunnakam railway station.. A 31 -year -old man from Alavetti has been arrested.
-
-While the person was engaged in leakage, the Chunnakam police carried out the raid. The equipment used for leakage production was also confiscated.
-
-Two million milliliters of kota and six thousand milliliters of leakage were also recovered.
-
-After further investigations, the police are taking steps to bring the person to the Mallakam court.
-
-◼️
-
-[Data](articles/82394492.json)
-
-[Extended Data](ext_articles/82394492.ext.json)
 
 ---

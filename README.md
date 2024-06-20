@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 03:19:16**
+As of **2024-06-21 03:34:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,406 (100.0%) of 31,407 articles have been extended.
+31,407 (100.0%) of 31,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The global challenge of climate change is deeply interconnected with other globa
 ...
 
 [Data](articles/1a831d44.json)
+
+[Extended Data](ext_articles/1a831d44.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 14:19:22**
+As of **2024-06-20 14:34:52**
 
 ## Newspaper Stats
 
-*Scraped **31,308** Articles*
+*Scraped **31,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 3,545
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,847
-adaderanasinhalalk | 5,087
+adaderanasinhalalk | 5,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,307 (100.0%) of 31,308 articles have been extended.
+31,308 (100.0%) of 31,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### මහ මඟ අසරණ වූ සුනඛයින්ගේ කුස පුරවන අත්තම්මා
+
+*2024-06-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197954) · `si`
+
+වර්තමානයේ පවතින තරගකාරී ලෝකය තුළ කරුණාව යනු බොහෝවිට සමාජය තුළ අර්ථය හීන වී ගිය වචනයකි.
+
+එවැනි වටපිටාවක සැබෑ කරුණාව සහ මෛත්‍රීය සතුන් අතරේ පතුරුවන සුන්දර හදවතක් පිළිබඳ මේ කතාව අපට අසන්න ලැබුණේ බණ්ඩාරගම ප්‍රදේශයෙනි.
+
+මේ ලෝකේ ජීවත්වන අප රැකියාවක් කරන්නේ ඉන් ලැබෙන ආදායමෙන් මූලික අවශ්‍යතා සපුරාගැනීමයි.
+
+මනුෂ්‍යයින් වන අප එලෙස රැකියාවක් සිදුකර ලබාගන්නා ආදායමෙන් කුසගින්න නිවා ගැනුන ද , එසේ කිරීමට නොහැකිව මහමඟ දිවි ගෙවනා තිරිසන් සතුන්ට කාගේ සරණක්ද?
+
+ඒ නිසාම එකී උතුම් පිංකම වෙනුවෙන් තමන්ගේ දෛනික ජීවිතය කැප කරන සුන්දර අත්තම්මා කෙනෙකු පිළිබඳ කතාවක් අපට වාර්තා වූයේ බණ්ඩාරගම ප්‍රදේශයෙනි.
+
+මේ වනවිට සිය දිවි ගමනේ 78 වන විය පසුකරමින් සිටින ඉන්ද්‍රානි පෙරේරා නම් වූ ඇය දෛනිකව බණ්ඩාරගම නගරයේ සිටින සුනඛයින් රැසකගේ කුස පුරවයි.
+
+ඒ තමන්ගේ ගෙවත්තේ තැඹිලි, පොල් සහ කෙසෙල් කැන් විකුණා ලබන ආදායමෙනි.
+
+එමෙන්ම මේ සත්ක්‍රියාව සඳහා ප්‍රදේශයේ දානශිලී මිනිසුන් කිහිපදෙනෙකුගේ සහයත් ඉන්ද්‍රානි මහත්මියට ලැබෙන බව ඇය පැවසුවාය.
+
+...
+
+[Data](articles/7b80f5ea.json)
+
+---
 
 ### 5,000 fever patients in the past 6 months
 
@@ -126,7 +152,7 @@ Major General Rohiti Aluvihare has been appointed as the Chief of Army Staff.
 
 *2024-06-20 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99989/new-chief-of-staff-of-sri-lanka-army-appointed) · `en`
 
-Major General Rohitha Aluvihare has been appointed as the Chief of Staff of the Sri Lanka Army.
+Major General Rohitha Aluvihare of the Vijayabahu Infantry Regiment has been appointed as the new Chief of Staff of the Sri Lanka Army, effective from 20 June 2024, by the Commander of the Army.
 
 Major General S. R. B. Aluvihare of the Vijayabahu Infantry Regiment had previously served as the Chief of Staff at the Office of the Chief of Defence Staff (OCDS) before being appointed as the General Officer Commanding of 11 Division, Pallekele.
 
@@ -135,6 +161,8 @@ He had also served as Adjutant General of the Sri Lanka Army, Colonel of the Reg
 ◼️
 
 [Data](articles/f9ce2872.json)
+
+[Extended Data](ext_articles/f9ce2872.ext.json)
 
 ---
 
@@ -2305,19 +2333,5 @@ Thanking the UN High Commissioner for Human Rights, Volker Türk for his recent 
 [Data](articles/a8821ab2.json)
 
 [Extended Data](ext_articles/a8821ab2.ext.json)
-
----
-
-### A Call For Justice: Natasha Edirisooriya’s Duty To Pursue A Fundamental Rights Case
-
-*2024-06-19 22:07:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-call-for-justice-natasha-edirisooriyas-duty-to-pursue-a-fundamental-rights-case/) · `en`
-
-Nathasha Edirisooriya, a stand-up comedian known for her sharp wit and incisive commentary, found herself at the center of a legal maelstrom when she was unjustly arrested and detained. The arrest, based on allegations of making comments detrimental to religious harmony, not only led to her imprisonment but also tarnished her reputation. However, recent judicial decisions especially of the high court have revealed the baselessness of these charges, raising significant questions about the infringement of her fundamental rights. One can strongly argue that Nathasha Edirisooriya has a duty to pursue a fundamental rights case to address the grave injustice she endured and to prevent similar miscarriages of justice in the future.
-
-...
-
-[Data](articles/9d3b8cf9.json)
-
-[Extended Data](ext_articles/9d3b8cf9.ext.json)
 
 ---

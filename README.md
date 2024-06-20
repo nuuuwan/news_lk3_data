@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 23:04:31**
+As of **2024-06-20 23:19:30**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,379 (100.0%) of 31,380 articles have been extended.
+31,380 (100.0%) of 31,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### කරණීයමෙත්ත සූත්‍රයත් විකෘති කරයි
+### The Karanaimetttttttttttttttttttttttt also distorts
 
 *2024-06-20 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197972) · `si`
 
-කරණීයමෙත්ත සූත්‍රය විකෘති කර සමාජ මාධ්‍යට මුදාහැර ඇති පුද්ගලයින් කවුරුන්දැයි සොයාබලා අවශ්‍ය නීතිමය පියවර ගැනීමට උපදෙස් ලබාදී ඇති බව බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා පවසයි.
+Vidan Wickramanayaka, Minister of Buddha Sasana and Cultural Affairs, mentioned that the Karanaimetttu distorts certain visions, as stated by Vidura Wickramanayaka.
 
-අමාත්‍යවරයා වැඩිදුරටත් අදහස් දක්වමින් පැවසුවේ, එවැනි දර්ශන ඇතුළත් වීඩියෝ එකිනෙකා අතරේ හුවමාරු කිරීමෙන් වැළකී සිටින ලෙසය.
+🟩
+
+Minister of Buddha Sasana and Cultural Affairs Vidan Wickramanayaka says that the Karanaimetttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttu Vidura Wickramanayaka said.
+
+The Minister further stated that such visions include such visions among one another.
 
 ◼️
 
 [Data](articles/2dff9bf3.json)
+
+[Extended Data](ext_articles/2dff9bf3.ext.json)
 
 ---
 

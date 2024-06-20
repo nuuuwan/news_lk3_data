@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 23:35:35**
+As of **2024-06-20 23:54:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,380 (100.0%) of 31,388 articles have been extended.
+31,388 (100.0%) of 31,388 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,31 +204,49 @@ He further stated that the Divine world collapses, but the presidential election
 
 ---
 
-### இந்திய வம்சாவளித் தமிழ் தலைவர்களை ஒன்றாக சந்தித்த இந்திய வெளியுறவு அமைச்சர்
+### Indian Foreign Minister met Tamil leaders together
 
 *2024-06-20 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186605) · `ta`
 
-இந்திய வம்சாவளித் தமிழர்கள் தொடர்பாக இலங்கை - இந்திய வளர்ச்சிக் கூட்டாண்மை மற்றும் கூடுதல் ஒத்துழைப்பு குறித்து வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்ஷங்கர் மற்றும் இந்திய வம்சாவளி தமிழ் தலைவர்களுக்கிடையிலான சந்திப்பின் போது அவதானம் செலுத்தப்பட்டுள்ளது. உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்ஷங்கர் நேற்று வியாழக்கிழமை இலங்கை வந்திருந்த நிலையிலேயே இந்த சந்திப்பு இடம்பெற்றிருந்தது.
+Indian Foreign Minister S. Jaishankar met Tamil leaders in Sri Lanka, focusing on development projects and support for Indian-origin Tamils. Discussions included the Sri Lankan-Indian Development Corporation, housing projects, and temple development post-elections.
 
-இதில் தமிழ் முற்போக்கு கூட்டணியின் சார்பில் அதன் பிரதி தலைவர் வே.இராதாகிருஸ்ணன், பாராளுமன்ற உறுப்பினர்களான வேலுகுமார் மற்றும் உதயகுமார் ஆகியோரும், இலங்கை தொழிலாளர் காங்ரஸ் சார்பில் அதன் தலைவரும் கிழக்கு மாகாண ஆளுனருமான செந்தில் தொண்டமான், இ.தொ.கா. பொதுச் செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் மற்றும் பாராளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஸ்வரன் ஆகியோரும் கலந்து கொண்டிருந்தனர். மேலும் கல்வி இராஜங்க அமைச்சர் அறவிந்த குமார் மற்றும் ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் வடிவேல் சுரேஸ் ஆகியோரும் இந்த சந்திப்பில் கலந்து கொண்டிருந்தனர்.
+🟩
+
+Foreign Affairs Minister S. Jaishankar and Indian origin Tamil leaders have been paid attention to the Sri Lankan -Indian Development Corporation and additional cooperation on the Tamils ​​of Indian origin.. The meeting was held on Thursday as Indian Foreign Minister Dr. S. Jaishankar arrived in Sri Lanka on Thursday.
+
+On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan, Members of Parliament Velukumar and Udayakumar, its leader and the Governor of the Eastern Province, Senthil Thondaman and the Governor of the Eastern Province on behalf of the Ceylon Workers Congress. General Secretary and Minister Jeevan Thondaman and Member of Parliament Maruthapandi Rameswaran were also present.. The Minister of State for Education, Aravinda Kumar and Vadivel Suarez, the president's senior adviser, were also present at the meeting.
 
 ...
 
 [Data](articles/e4e17ee3.json)
 
+[Extended Data](ext_articles/e4e17ee3.ext.json)
+
 ---
 
-### இந்திய - இலங்கை கூட்டு அபிவிருத்தி திட்டங்களை துரிதப்படுத்துவதில் கவனம்! ஜனாதிபதியுடனான சந்திப்பில் பல விடங்கள் குறித்து ஆராய்ந்தார் ஜெய்சங்கர்
+### Focus on accelerating India -Sri Lanka Joint Development Plans!Jaishankar examined many things in the meeting with the president
 
 *2024-06-20 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186604) · `ta`
 
-இந்திய - இலங்கை கூட்டு அபிவிருத்தி திட்டங்களை துரிதப்படுத்துவதில் கவனம் செலுத்துவது குறித்தும்  எரிசக்தித் துறையில் ஒத்துழைப்பை அதிகரிக்க முன்னுரிமையளிப்பது குறித்தும் சம்பூர் சூரிய மின் உற்பத்தி நிலையத்தின் நிர்மாணப் பணிகள் ஜூலை மாதம் ஆரம்பிப்பது குறித்தும் இலங்கையில் பால் உற்பத்தித் துறை மற்றும் உர உற்பத்தியை மேம்படுத்த இந்தியாவின் ஆதரவு குறித்தும் இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான எரிசக்தித் துறை தொடர்பான கூட்டுத் திட்டங்களை துரிதப்படுத்துவது குறித்தும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான சந்திப்பில் இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கர் கவனம் செலுத்தினார்.
+India and Sri Lanka have accelerated joint development plans focusing on energy, renewable resources, and infrastructure. Key points from the meeting include the launch of the Sampur Solar Power Plant in July 2024, support for Sri Lanka's energy schemes, and discussions on promoting milk production and expanding ports. Additionally, digitalization efforts, such as introducing a unique digital ID card for Sri Lanka, were mentioned.
 
-இலங்கைக்கு உத்தியோகபூர்வ பயணம் மேற்கொண்டுள்ள இந்திய வெளியுறவுத் துறை அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர், கொழும்பு கோட்டையிலுள்ள ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்தார். இந்தச் சந்திப்பில் இடம்பெற்ற இருதரப்புக் கலந்துரையாடலில் இந்த விடயங்கள் விரிவாக ஆராயப்பட்டன.
+🟩
+
+The Sampur Solar Power Plant will commence in July, and the support of India and the support of India and Sri Lanka's Energy Schemes on India and IndiaIndian External Affairs Minister S. Jaishankar focused at the meeting with Wickremesinghe.
+
+Indian Foreign Minister Dr. S.. Jaishankar meets President Ranil Wickremesinghe at the President's House in Colombo Fort. These issues were extensively examined during the bilateral discussion held at the meeting.
+
+Special attention was paid to the development of the Energy Connection and the Development of the Renewable Energy Department, the distribution of LNG, the fuel supply pipeline, fuel and gas inspection projects set up between the two countries.
+
+The construction of the Sampur Solar Power Plant is scheduled to commence in July 2024.
+
+In order to promote milk production in Sri Lanka, the focus was on the efficiency and fertilizer production projects implemented with the support of the Government of India.
 
 ...
 
 [Data](articles/145fc6ea.json)
+
+[Extended Data](ext_articles/145fc6ea.ext.json)
 
 ---
 
@@ -260,19 +278,25 @@ It is noteworthy that the person who lost the wallet is the Chaturanga Kumara, w
 
 ---
 
-### வெளிவிவகார அமைச்சர் அலி சப்ரியை சந்தித்தார் ஜெய்சங்கர்
+### Jaishankar meets Foreign Minister Ali Sabri
 
 *2024-06-20 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186603) · `ta`
 
-இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கர் வெளிவிவகார அமைச்சர் அலி சப்ரி உள்ளிட்ட குழுவிரை சந்தித்து கலந்துரையாடியுள்ளார்.
+During his visit to Sri Lanka, Indian External Affairs Minister S. Jaishankar met with his counterpart, Ali Sabri. They discussed skills development, future collaborations, and high-profile cooperation in BIMSTEC, IRA, and U.
 
-திறன் மேம்பாடு மற்றும் இரு நாடுகளுக்கு இடையிலான எதிர்கால செயற்பாடுகள் குறித்து கலந்துரையாடினார்.
+🟩
 
-குறிப்பாக BIMSTEC, IORA மற்றும் UN ஆகியவற்றில் அதிக பலதரப்பு ஒத்துழைப்பின் முன்னோக்குகள் குறித்தும் இதன்போது கருத்துக்கள் பரிமாறப்பட்டன.
+Indian External Affairs Minister S. Jaishankar, who is on an official visit to Sri Lanka, has met with External Affairs Minister Ali Sabri.
+
+He discussed skills development and future activities between the two countries.
+
+Comments were also exchanged on the perspectives of high -profile cooperation in BIMSTEC, IRA and U.
 
 ◼️
 
 [Data](articles/c7eb0219.json)
+
+[Extended Data](ext_articles/c7eb0219.ext.json)
 
 ---
 
@@ -308,85 +332,121 @@ Special buses and train services will be in operation for the devotees to the Po
 
 ---
 
-### உயர்கல்விக்கான வட்டியில்லா கடன் செலுத்தும் நடவடிக்கை இன்னும் இடம்பெறாமல் இருப்பது தொடர்பில் நடவடிக்கை எடுக்கவும் -  எதிர்க்கட்சித் தலைவர்
+### Take action regarding the lack of interest -free loan action for higher education - Leader of the Opposition
 
 *2024-06-20 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186559) · `ta`
 
-அரச பல்கலைக்கழகங்களுக்குத் தகுதியற்ற மாணவர்களுக்கு உயர்கல்விக்கான வட்டியில்லா கல்விக் கடன் வசதித் திட்டத்தின் கீழ் தனியார் பல்கலைக்கழகங்கள் மூலம் பட்டங்களைப் பெறுவது தொடர்பான வர்த்தமானி இதுவரை வெளியிடப்படவில்லை. கல்வி அமைச்சர் உத்தரவு பிறப்பித்துள்ளபோதும் அரச வங்கிகள் அதனை இன்னும் நநடைமுறைப்படுத்தால் இருக்கிறது. இதுதொடர்பாக அரசாங்கம் விரைவாக நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The Leader of the Opposition criticizes the government for delaying the release of a gazette on interest-free loans for higher education through private universities, affecting students' registrations. Despite the Education Minister's directive, state banks haven't acted swiftly. The opposition urges immediate action to prevent further delays impacting students' futures.
 
-2020, 2021, 2022 ஆகிய கல்வியாண்டுகளுக்கு, அரச பல்கலைக்கழகங்களுக்குத் தகுதியற்ற மாணவர்களுக்கு உயர்கல்விக்கான வட்டியில்லா கல்விக் கடன் வசதித் திட்டத்தின் கீழ் தனியார் பல்கலைக்கழகங்கள் மூலம் பட்டங்களைப் பெறுவது தொடர்பான வர்த்தமானி இதுவரை வெளியிடப்படவில்லை. கடந்த டிசம்பரில் வெளியாகும் என கூறப்பட்டு வந்த நிலையில், வெளியிடுவதில் தாமதம் ஏற்பட்டதால், வட்டியில்லா கடனுதவியின் கீழ் பட்டப் படிப்பை எதிர்பார்க்கும் மாணவர்கள் அந்தப் பட்டப் படிப்புகளுக்கு பதிவு செய்ய முடியாத நிலை ஏற்பட்டுள்ளது.
+🟩
+
+Gazette on getting titles through private universities under the interest free education credit facility for students who are not eligible for state universities have not yet been released.. Even though the Minister of Education has issued a directive, state banks are still in the process. Opposition leader Sajith Premadasa said the government should take immediate action in this regard.
+
+For the academic years of 2020, 2021 and 2022, the Gazette of Private Universities under the Interest Free Education Credit Scheme for Students who are not eligible for state universities have not yet been released.. As it was reported to be released last December, there was a delay in publishing and students who were looking for a degree under interest -free loan were unable to register for the degree.
 
 ...
 
 [Data](articles/bf684941.json)
 
+[Extended Data](ext_articles/bf684941.ext.json)
+
 ---
 
-### அரச ,தனியார் நிறுவனங்களின் உயர் பதவிகளுக்கு பெண்கள் நியமிக்கப்பட வேண்டும் - வே.இராதாகிருஷ்ணன்
+### Women should be appointed to high positions of public and private institutions - V Irathakrishnan
 
 *2024-06-20 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186563) · `ta`
 
-மொத்த சனத்தொகையில் 52 சதவீதம் பெண்கள் வாழ்கின்ற நிலையில் 12 பெண் பிரதிநிதிகள் மாத்திரம் பாராளுமன்றத்தை பிரதிநிதித்துவம் செய்வது கவலைக்குரியது.அரச மற்றும் தனியார் நிறுவனங்களில் உயர் பதவிகளுக்கு பெண்களை நியமிக்க வேண்டும்.பாராளுமன்றம் அதற்கு சிறந்த எடுத்துக்காட்டு என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  வே.இராதாகிருஷ்ணன் தெரிவித்தார்.
+V Irathakrishnan emphasizes the need for more women in leadership roles across public and private sectors, highlighting the underrepresentation of women in parliament despite making up half of the population. He calls for the inclusion of women in key decision-making bodies like the Sri Lanka National Commission Bill for UNESCO, noting the challenges faced by women in various sectors, especially during economic hardships.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (20)  இடம்பெற்ற  பெண்களின் வலுவூட்டல் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-யுனேஸ்கோவிற்கான இலங்கை தேசிய ஆணைக்குழு  சட்டமூலம் தொடர்பில் கல்வி சார் துறைசார் மேற்பார்வை குழுவின் அறிக்கையை சமர்ப்பித்துள்ளோம்.இந்த ஆணைக்குழுவுக்குள் கலாசார நிதியம்,வனஜீராசிகள் மற்றும் வனபாதுகாப்பு திணைக்களம் உள்ளிட்ட அரச நிறுவனங்கள் உள்ளடக்கப்பட வேண்டும்.அத்துடன் ஆணைக்குவின் கூட்ட நடப்பெண் 09 ஆக காணப்பட வேண்டும் என்று பரிந்துரைத்துள்ளோம்.எமது பரிந்துரைகளை கல்வி அமைச்சு ஏற்றுக்கொண்டுள்ளது.
+It is worrying that only 12 female representatives are representing parliament, with 52 per cent of women living in the total population. The appointment of women in state and private institutions should be appointed as a good example of the Parliament.
+
+He was speaking at a debate on the women's reinforcement bill held in Parliament on Thursday (20).
+
+We have submitted the report of the Department of Education Department of the Department of Education on the Sri Lanka National Commission Bill for the UNESCO. The Commission should include state institutions including the Cultural Fund, Wildlife and the Department of Wildlife and the Department of Education.
+
+Women's reinforcement Bill is spoken. In the social structure, women are resistant to many problems.
+
+There are only 12 female representatives in Parliament. Fifty years ago, there was less representation. There was no major change. In the present state and private high positions, women should be given priority.
 
 ...
 
 [Data](articles/909b1690.json)
 
+[Extended Data](ext_articles/909b1690.ext.json)
+
 ---
 
-### இலங்கையில் சதுப்பு  நில மையமாக தியசரு பூங்கா அறிவிப்பு
+### The Tiazaru Park announces as a marshland center in Sri Lanka
 
 *2024-06-20 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186567) · `ta`
 
-தியசரு பூங்கா இலங்கையில் சதுப்பு நில மையங்களின் கேந்திர ஈரநில மையமாக அறிவிக்கப்பட்டுள்ளது. தியசரு பூங்காவின் 10 வது ஆண்டு நிறைவை முன்னிட்டு இன்று வியாழக்கிழமை (20) இடம்பெற்ற வைபவத்தில் ரம்சா பிராந்திய நிலையத்திற்கும் தியசரு பூங்காவிற்கும் இடையில் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+Tiazaru Park, Sri Lanka's mangrove center, celebrated its 10th anniversary with a MoU signing between the Ramza Regional Station and international partners. The park, established in 2014, hosts diverse flora and fauna, including rare bird species and endangered mammals. It's part of efforts to protect and reuse aquatic ecosystems, showcasing Sri Lanka's commitment to environmental conservation.
+
+🟩
+
+The Tiazaru Park has been declared as the center of mangrove centers in Sri Lanka. A Memorandum of Understanding (MoU) was signed between the Ramza Regional Station and the Thezaru Park at a ceremony held on Thursday (20) in honor of the 10th anniversary of the Thezaru Park.
 
 இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தின் தலைவர் ரியர் அட்மிரல் பொறியியலாளர் ஹிரான் பாலசூரிய, இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தின் இணைப் பணிப்பாளர் பொறியியலாளர் ஸ்ரீமதி சேனாதீர, ரம்சா பிராந்திய மையத்தின் நிறைவேற்றுப் பணிப்பாளர் சூ ஷேங் ஹோ மற்றும் வைல்ட்  பவுல்ட் மற்றும் சதுப்பு நில அமைப்பின் சர்வதேச உறவுகளின் முகாமையாளர் கிறிஸ் ரோஸ்டன் ஆகியோர் இந்த தியசரு பூங்கா புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டனர்.
 
-இந்த புரிந்துணர்வு ஒப்பந்தம் இந்த நாட்களில் பத்தரமுல்ல தியசரு பூங்காவில் நடைபெறும் WLI Asia Oceania மாநாட்டுடன் இணைந்து கைச்சாத்திடப்பட்டது.
+This Memorandum of Understanding (MoU) was signed in partnership with the WLI Asia Oceania Conference held at the Battaramulla Tiyasaru Park these days.
 
-WLI Asia Oceania மாநாட்டில் கலந்து கொண்ட வெளிநாட்டு சதுப்பு நில பிரதிநிதிகள் தியசரு பூங்காவின் 10 ஆண்டு கொண்டாட்டத்தில் பங்கேற்றனர்.
+Representatives of foreign swamp who attended the WLI Asia Oceania conference participated in the 10 -year celebration of the Thiyasaru Park.
 
 ...
 
 [Data](articles/dd627fd1.json)
 
+[Extended Data](ext_articles/dd627fd1.ext.json)
+
 ---
 
-### சர்வதேச நாணய நிதியத்துடனான உடன்படிக்கையை மாற்றியமைக்க அதன் பிரதானி இணக்கம் தெரிவித்திருந்தார் - எதிர்க்கட்சித் தலைவர்
+### Its chief has agreed to change the agreement with the International Monetary Fund - Opposition Leader
 
 *2024-06-20 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/186572) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மாற்ற முடியாது என்று ஜனாதிபதி கூறுகிறார்.ஆனால் சர்வதேச நாணய நிதியத்தின் பிரதானி பீட்டர் ப்ரூவருடன்  ஐக்கிய மக்கள் சக்தி கலந்துரையாடிய போது சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மீளாய்வு செய்வதற்கு கூட அவர் இணக்கம் தெரிவித்தார்  என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa has agreed to review the IMF agreement after discussions with its chief, Peter Brewar. There's controversy over rental income tax, with the President stating financial data will be submitted based on tax policy. The President claims the IMF cannot alter the agreement, contradicting Brewar's statement that amendments are possible. Premadasa urges digitizing tax admin, including those outside the tax net, and criticizes the government's handling of taxes under IMF pressure.
 
-வாடகை வருமான வரி குறித்து சமூகத்தில் பெரும் சர்ச்சை எழுந்துள்ளது. இந்நாட்டில் வரிக் கொள்கையின் அடிப்படையில் நிதி தரவுகள் மற்றும் தகவல்களை சமர்ப்பிப்பதாக ஜனாதிபதி கூறியுள்ள போதிலும், இந்த சொத்து வரி அல்லது வேறு வரிகளை அதிகரிக்கும் போது தயாரிக்க வேண்டிய தொழில்நுட்ப ஒத்துழைப்பு அறிக்கை இன்னும் சபைக்கு சமர்ப்பிக்கப்படவில்லை.
+🟩
 
-சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மாற்ற முடியாது என்று ஜனாதிபதி கூறுகிறார். ஆனால் சர்வதேச நாணய நிதியத்தின் பிரதானி பீட்டர் ப்ரூவரின் கருத்துப்படி, சூழ்நிலைகளுக்கு ஏற்ப ஒப்பந்தத்தில் திருத்தம் செய்ய முடியும். ஐக்கிய மக்கள் சக்தி கலந்துரையாடிய போது சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மீளாய்வு செய்வதற்கு கூட பீட்டர் ப்ரூவர் இணக்கம் தெரிவித்தார்
+Opposition leader Sajith Premadasa said he even agreed to review the IMF's agreement when the United People's Power had discussed with Peter Brewar, the chief of the International Monetary Fund.
+
+There has been great controversy in the community over rental income tax. Although the President has said that the president has said that it will submit financial data and information based on tax policy, the technical cooperation report to be prepared when this property tax or other tax is increased.
+
+The President says that the International Monetary Fund cannot change the agreement. But according to Peter Bruver, the chief of the International Monetary Fund, the contract can be corrected according to the circumstances. Peter Brover also agreed to review the International Monetary Fund Agreement during the United People's Power Discussion
 
 ...
 
 [Data](articles/9946f3ab.json)
 
+[Extended Data](ext_articles/9946f3ab.ext.json)
+
 ---
 
-### ஜப்பானில் பரவிவரும் பக்டீரியா தொற்று  நாட்டிற்குள் உள்வரும் ஆபத்து கிடையாது - சுகாதார இராஜாங்க அமைச்சர்
+### There is no inconvenience within the bacterial infection spreading in Japan - Minister of Health
 
 *2024-06-20 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186584) · `ta`
 
-மனித சதையை உண்ணும் ‘ஸ்ட்ரேப்டொகோகல் டொக்சிக் சொக் சின்ட்ரோம்’என்ற நோயை உருவாக்கும் பக்டீரியா நாட்டிற்குள் உள்வரும் ஆபத்து கிடையாது என சுகாதார இராஜாங்க அமைச்சர் விசேட மருத்துவ நிபுணர் சீதா அரம்பேபொல தெரிவித்தார்.
+Japan's health minister assures no inconvenience from a bacterial infection spreading rapidly. The minister addresses concerns about its impact on neighboring countries like Sri Lanka, emphasizing control measures and awareness among officials at entry points.
 
-48 மணி நேரத்துக்குள் மரணம் ஏற்படு ஒருவகை பக்டீரியா நோய் தொற்று ஜப்பானில் பரவி வரும் நிலையில், அது தொடர்பான பாதிப்புகள் இலங்கைக்கு ஏற்படுமா? என  நேற்று பாராளுமன்றத்தில் சமன்பிரிய ஹேரத்  எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இராஜாங்க அமைச்சர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-கொவிட் வைரஸ் போன்று அல்லாது இந்த பக்டீரியா பரவுவதை கட்டுப்படுத்த முடியும். கொவிட் வைரசாக உருவெடுத்ததாலேயே அதனைக் கட்டுப்படுத்த முடியாத நிலை காணப்பட்டது.
+The Minister of Health, Sita Arambola, said that there is no inconvenience within the bacterial country that develops the disease, "Stropococcal Toxic Sok Syndram".
 
-ஜப்பானில் மேற்படி பக்டீரியா நாட்டுக்குள் உள்வரும் நிலை காணப்படாவிட்டாலும் வெளிநாட்டவர்கள் நாட்டிற்குள் பிரவேசிக்கும் கட்டுநாயக்க விமான நிலையம் உள்ளிட்ட முக்கிய இடங்களில் பணிபுரியும் உத்தியோகத்தர்களுக்கு அது தொடர்பில் தெளிவூட்டப்பட்டிருக்கிறது.
+With a bacterial infection spreading in Japan within 48 hours, will Sri Lanka be affected?The Minister of State was responding to a question raised by the Samanapriya Herath in Parliament yesterday.
 
-...
+This bacteria can control the spread of this bacterial. It was impossible to control it because it was a virus.
+
+Although the bacteria in Japan are not infected in the country, it has been made clear to officers working in key areas, including Katunayake Airport, where foreigners enter the country.
+
+It has been reported that it can be controlled by drugs as it has become a bacteria but also a bacteria, and countries including Japan are engaged in controlling it.
+
+◼️
 
 [Data](articles/281263dd.json)
+
+[Extended Data](ext_articles/281263dd.ext.json)
 
 ---
 

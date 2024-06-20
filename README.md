@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 18:13:10**
+As of **2024-06-20 18:24:45**
 
 ## Newspaper Stats
 
-*Scraped **31,349** Articles*
+*Scraped **31,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,739
-adaderanalk | 3,550
+adaderanalk | 3,551
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,859
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,344 (100.0%) of 31,349 articles have been extended.
+31,349 (100.0%) of 31,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Heatwave kills nearly 200 homeless people in India’s capital, group says
+
+*2024-06-20 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99995/heatwave-kills-nearly-200-homeless-people-in-indias-capital-group-says) · `en`
+
+The heatwave gripping northern India has killed nearly 200 homeless people in New Delhi over the last week, a group dedicated to helping the homeless said on Thursday, as the country grapples with record high summer temperatures.
+
+As many as 52 bodies were brought to hospitals in the past two days, the Times of India reported on Thursday, adding that most of them were poor people who lived and worked in the open.
+
+A total of 192 homeless people died in New Delhi between June 11 and June 19, according to government figures shared by non-profit organisation Centre for Holistic Development, higher than in previous years.
+
+“The poorest bear the cost of such climate change. Most of these people live below flyovers and out in the open and have no protection against the heat. These are mostly heatwave deaths,” Sunil Kumar Aledia, who runs CHD, told Reuters.
+
+...
+
+[Data](articles/fdc9cbea.json)
+
+---
 
 ### Voting for revision to the Empowerment Bill
 
@@ -100,15 +118,23 @@ It is said that investigations have been launched on a complaint by the owner of
 
 ---
 
-### வெற்றிமாறன் - விமல் - போஸ் வெங்கட் கூட்டணியில் தயாராகி இருக்கும் 'சார்'
+### Vijayamaran - Wimal - Bose Venkat is ready for 'sir'
 
 *2024-06-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186583) · `ta`
 
-தமிழ் திரையுலகில் சந்தை மதிப்பு கொண்டிருக்கும் நட்சத்திர நடிகர்களில் ஒருவரான விமல் கதையின் நாயகனாக நடித்திருக்கும் 'சார்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான கார்த்தி மற்றும் முன்னணி இயக்குநரான கார்த்திக் சுப்புராஜ் ஆகியோர் தங்களது சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+The teaser for "Sir," a Tamil film led by Karthi and directed by Bose Venkat, showcases a teacher's struggle against a village's dominant caste attempting to destroy his school. The film, also featuring Vimal, Sayadevi Kannan, and others, explores the life of a government school educator. Initially titled "Mao C," it pays homage to the late Tamil scholar Ma. The teaser includes a powerful quote from Socrates, heightening anticipation for its release.
+
+🟩
+
+The teaser of the movie 'Sir', which plays the hero of the story of one of the star actors in the Tamil film industry, has been released.. Karthi, the leading star actor of the Tamil film industry, and Karthik Subburaj, the leading director of the film, posted it on their social networking site and congratulated the film crew.
+
+Directed by director and star actor Bose Venkat, directed by 'Kanni Madam', 'Sir' starring Vimal, Sayadevi Kannan, Siraj S, Saravanan, Rama, Jayapalan and many others.. Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris.Producer SS Pictures of the film, which is ready to focus on the life of a teacher working in a government school.. Has produced Siraj. The film is being presented by director and producer Vijayamaran on behalf of Gross Root Film Company.
 
 ...
 
 [Data](articles/03724250.json)
+
+[Extended Data](ext_articles/03724250.ext.json)
 
 ---
 
@@ -156,19 +182,27 @@ Dr. Dabarera also stated that most of the time individuals who do not seek immed
 
 ---
 
-### மலையாள ரசிகர்களையும் கவர்ந்த 'மகாராஜா'
+### 'Maharaja' attracted Malayalam fans
 
 *2024-06-20 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186580) · `ta`
 
-''மக்கள் செல்வன் விஜய் சேதுபதி நடிப்பில் வெளியான 'மகாராஜா' திரைப்படம் தமிழ் ரசிகர்களை மட்டுமல்லாமல் மலையாளம், தெலுங்கு என வேற்று மொழி திரைப்பட ரசிகர்களையும் கவர்ந்துள்ளது'' என படக் குழுவினர் உற்சாகத்துடன் தெரிவித்தனர்.
+"Maharaja," starring Vijay Sethupathi, has garnered attention from Tamil, Malayalam, Telugu, and other language audiences. Directed by Nithilan Saminathan, the film's success led to a celebration in Chennai, where Vinod Sagar praised Malayalam fans for their support. Vijay Sethupathi expressed gratitude for the film's success, attributing it to the director's vision and the audience's reception.
 
-இயக்குநர் நித்திலன் சாமிநாதன் இயக்கத்தில் உருவாகி கடந்த வாரம் படமாளிகையில் வெளியான திரைப்படம் 'மகாராஜா'. 'மக்கள் செல்வன்' விஜய் சேதுபதியின் திரையுலக பயணத்தில் ஐம்பதாவது படமாக தயாரான 'மகாராஜா'- விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியை பெற்றிருக்கிறது. இதனால் மகிழ்ச்சியடைந்த படக்குழுவினர் படத்தை வெற்றி பெறச் செய்த ரசிகர்களுக்கும், ஊடகத்தினருக்கும் நன்றி தெரிவிக்கும் வகையில் விழா ஒன்றினை சென்னையில் ஒருங்கிணைத்தனர்.
+🟩
 
-அந்த நிகழ்வில் படக் குழுவினருடன் படத்தை பட மாளிகையில் வெளியிட்ட விநியோகஸ்தர்கள் உள்ளிட்ட பலரும் பங்குபற்றினர்.
+"Maharaja 'starring Nam Selvan Vijay Sethupathi has attracted not only Tamil fans but also Malayalam and Telugu and other language film fans," the film crew said.
+
+Directed by Director Nithilan Saminathan. 'Maharaja', which is ready for the fifth film in Vijay Sethupathi's film 'Selvan'. The film crew, who was delighted, coordinated a ceremony in Chennai to thank the fans and the media who made the film a success.
+
+The event was attended by many, including distributors who released the film at the film House.
+
+Speaking at the event, Vinod Sagar, a growing characterist and a digital site world's super star, said,. Malayalam fans celebrate Vijay Sethupathi's performance as 'Maharaja'. Thank you to the fans and the media who made the film a huge hit. ”
 
 ...
 
 [Data](articles/c0d2d688.json)
+
+[Extended Data](ext_articles/c0d2d688.ext.json)
 
 ---
 
@@ -200,35 +234,49 @@ The Prime Minister and Indian Minister discussed Indian Investment, Development 
 
 ---
 
-### நடிகர் நவீன் சந்திரா நடிக்கும் 'லெவன்' படத்தின் டீசர் வெளியீடு
+### Actor Naveen Chandra's teaser release of 'Eleven'
 
 *2024-06-20 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186577) · `ta`
 
-தெலுங்கு மற்றும் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் நவீன் சந்திரா கதையின் நாயகனாக கம்பீரமான காவல்துறை அதிகாரி வேடத்தில் நடித்திருக்கும் 'லெவன்' எனும் திரைப்படத்தின் டீஸர் வெளியிடப்பட்டிருக்கிறது.
+Naveen Chandra stars in 'Eleven,' playing a meticulous police officer investigating murders. The teaser, showcasing his character Ranjit Kumar, has garnered attention for its suspenseful narrative. Directed by Lokesh Ajil, the film also features Riya Hari, Sashank, Abirami, and others. With cinematography by Karthik Asokan and music by Iman, the movie is produced by Ajmal Khan and Riya Hari under AR Entertainment. Post-production is ongoing after filming completion.
 
-அறிமுக இயக்குநர் லோகேஷ் அஜில்ஸ் இயக்கத்தில் உருவாகி இருக்கும் 'லெவன்' எனும் திரைப்படத்தில் நவீன் சந்திரா, ரியா ஹரி,  சஷாங்க், அபிராமி, திலீபன், ரித்விகா, 'ஆடுகளம்' நரேன், ரவிவர்மா, அர்ஜய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் அசோகன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். கிரைம் திரில்லர் ஜேனரிலான இந்தத் திரைப்படத்தை ஏ ஆர் என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் அஜ்மல் கான் மற்றும் ரியா ஹரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-...
+The teaser of the film 'Eleven', which is playing the role of a magnificent police officer, has been released as the hero of the story of actor Naveen Chandra, who made his debut for Telugu and Tamil fans.
+
+Naveen Chandra, Riya Hari, Sashank, Abirami, Dileepan, Rithvika, 'Aadulam' Narain, Ravivarma, Arjay, starring debut director Lokesh Ajils. Karthik Asokan has recorded the cinematography. Iman has composed the music. The film was co -produced by producers Ajmal Khan and Riya Hari on behalf of AR Entertainment film company.
+
+The shooting of the film is complete and the post -shooting technical work is underway.. In this case, the teaser of the film has been released. Naveen Chandra appears to be the hero of the story in the role of Ranjit Kumar, a police officer who is well investigated in murder cases.. The teaser has attracted a lot of fans as he has been briskly shifting to a challenging murder case.
+
+◼️
 
 [Data](articles/940f7519.json)
 
+[Extended Data](ext_articles/940f7519.ext.json)
+
 ---
 
-### பொசன் பௌர்ணமி தினத்தை முன்னிட்டு கைதிகளை பார்வையிட அனுமதி
+### Allow the prisoners to visit the Poson Full Moon Day
 
 *2024-06-20 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186579) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு  இரண்டு நாட்களுக்கு சிறைக்கைதிகளை அவர்களின் உறவினர்கள் பார்வையிட அனுமதிக்க தீர்மானித்துள்ளதாக சிறைச்சாலைகள் ஆணையாளரும் பேச்சாளருமான காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
+Prisoners' relatives can visit two days before Poson Full Moon Day, bringing food and sweets. Visitors must follow health and safety protocols. All prisons are equipped for this.
 
-இதன்போது,  கைதிகளின் உறவினர்கள் கைதிகளுக்கு உணவு மற்றும் இனிப்பு பொதிகளை கொண்டு செல்ல அனுமதிக்கப்படுவார்கள்.
+🟩
 
-சிறைச்சாலை விதிகள் மற்றும் ஒழுங்குமுறைகளுக்கு ஏற்ப, முறையான சுகாதார மற்றும் பாதுகாப்பு நடைமுறைகளின்படி பார்வையாளர்கள் வர வேண்டும் என்று ஆணையர் தெரிவித்துள்ளார்.
+Prison Commissioner and Spokesperson Gamini P. Dissanayake says that the prisoners have decided to allow their relatives to visit two days ahead of Poson Full Moon Day.
 
-நாட்டிலுள்ள அனைத்து சிறைச்சாலைகளிலும் இந்த நடவடிக்கைகளை மேற்கொள்வதற்கான வசதிகள் ஏற்படுத்தப்பட்டுள்ளன என குறிப்பிட்டுள்ளார்.
+In the meantime, relatives of the inmates will be allowed to carry food and sweet packages to the prisoners.
+
+The Commissioner said that visitors should come in accordance with proper health and safety procedures in accordance with prisons and regulations.
+
+He said that all the prisons in the country have been provided with facilities to carry out these activities.
 
 ◼️
 
 [Data](articles/3e1df7bb.json)
+
+[Extended Data](ext_articles/3e1df7bb.ext.json)
 
 ---
 
@@ -310,19 +358,25 @@ Eighty batteries in laptops and cell phones can be burned and at times
 
 ---
 
-### பிரதமர் தினேஸ் குணவர்த்தனவை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் !
+### Indian Foreign Minister Jaishankar meets Prime Minister Dinesh Gunawardena
 
 *2024-06-20 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186575) · `ta`
 
-உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் இன்று வியாழக்கிழமை (20) பிரதமர் தினேஸ் குணவர்த்தனவை சந்தித்தார்.
+Indian Foreign Minister S. Jaishankar met Sri Lanka's PM Dinesh Gunawardena, reaffirming India's support through development initiatives and projects aimed at fulfilling Sri Lanka's aspirations.
 
-அபிவிருத்தி மற்றும் தொடர்புகளுக்கான முன்னெடுப்புகள் ஊடாக இந்தியாவின் வலுவான ஆதரவு மீண்டும் உறுதிப்படுத்தப்பட்டது.
+🟩
 
-எமது அபிவிருத்தி உதவிகள் மற்றும் ஆளுமை விருத்தி செயற்திட்டங்கள் ஊடாக இலங்கை மக்களின் அபிலாஷைகள் நிறைவேற்றப்படுமென நாம் நம்புகின்றோம் என பதவிட்டுள்ளார்.
+Indian External Affairs Minister S.. Jaishankar met Prime Minister Dinesh Gunawardena on Thursday (20).
+
+India's strong support was re -confirmed through the initiatives for development and contacts.
+
+We hope that the aspirations of the Sri Lankan people will be fulfilled through our development assistance and personality development projects.
 
 ◼️
 
 [Data](articles/a58e91e4.json)
+
+[Extended Data](ext_articles/a58e91e4.ext.json)
 
 ---
 
@@ -2335,27 +2389,5 @@ Meanwhile, Prisons Commissioner Gamini B Dissanayake made these measures regardi
 [Data](articles/d0362912.json)
 
 [Extended Data](ext_articles/d0362912.ext.json)
-
----
-
-### Sri Lanka expressway cashiers stealing 10 to 20-pct of toll revenue: official
-
-*2024-06-20 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-expressway-cashiers-stealing-10-to-20-pct-of-toll-revenue-official-168845/) · `en`
-
-ECONOMYNEXT – Cashiers at Sri Lanka’s expressways are estimated to be stealing up to 20 percent of fees Secretary to the Highways Ranjith Subasinghe told the parliament’s Committee on Public Enterprises.
-
-Members of the committee said highway tolls of the Road Development Authority had surged on the day when the military had operated the booths during a strike by cashiers, raising questions about the collections on other days.
-
-“Based on the day the Army operated the toll booths, there is a minimum of 10 to 20 percent revenue leakage,” Rubasinghe told the COPE according to the broadcast recording of proceedings.
-
-An RDA official said 19 cashiers have so far been identified but there were not enough cashiers to run the toll booths so they have not been interdicted.
-
-The Representative of the Auditor General’s office questioned how officers who have been found to have committed fraud remain in the public service.
-
-...
-
-[Data](articles/a9372227.json)
-
-[Extended Data](ext_articles/a9372227.ext.json)
 
 ---

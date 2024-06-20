@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 04:04:49**
+As of **2024-06-21 04:34:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,407 (100.0%) of 31,417 articles have been extended.
+31,417 (100.0%) of 31,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Key topics included plans for an LNG supply, a proposed petroleum pipeline linki
 
 [Data](articles/7b49bea0.json)
 
+[Extended Data](ext_articles/7b49bea0.ext.json)
+
 ---
 
 ### Bakeer Markar calls for accountability over breach of his Parliamentary privileges
@@ -69,6 +71,8 @@ Citing the Parliamentary Privileges Committee report, Bakeer Markar pointed out 
 ...
 
 [Data](articles/082b94d2.json)
+
+[Extended Data](ext_articles/082b94d2.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ The bilateral discussions at the Foreign Ministry centred on a range of issues o
 
 [Data](articles/6056801e.json)
 
+[Extended Data](ext_articles/6056801e.ext.json)
+
 ---
 
 ### Former Galle Mayor Lionel Premasiri joins SJB
@@ -104,6 +110,8 @@ In 2004, Premasiri was elected to Parliament representing the Galle district und
 
 [Data](articles/d4760f76.json)
 
+[Extended Data](ext_articles/d4760f76.ext.json)
+
 ---
 
 ### ‘Youth Aruna’ conference to celebrate 200 years of plantation community arrival in Sri Lanka
@@ -119,6 +127,8 @@ The summit, titled ‘Youth Aruna’ aims to engage young people in meaningful d
 ...
 
 [Data](articles/07bbd539.json)
+
+[Extended Data](ext_articles/07bbd539.ext.json)
 
 ---
 
@@ -140,6 +150,8 @@ Organised under the sponsorship of the National Film Corporation (NFC) and the S
 
 [Data](articles/f7fbd081.json)
 
+[Extended Data](ext_articles/f7fbd081.ext.json)
+
 ---
 
 ### Sri Lanka and Saudi Arabia to ink MoU to boost direct investments
@@ -157,6 +169,8 @@ Speaking at the weekly post-Cabinet meeting media briefing he disclosed that the
 ...
 
 [Data](articles/2dfca277.json)
+
+[Extended Data](ext_articles/2dfca277.ext.json)
 
 ---
 
@@ -178,6 +192,8 @@ The MoU was signed on 4 June, at the 30th Plenary of the Egmont Group, held in P
 
 [Data](articles/c4d8cd27.json)
 
+[Extended Data](ext_articles/c4d8cd27.ext.json)
+
 ---
 
 ### SAIL at International Industry Expo 2024
@@ -194,6 +210,8 @@ Participating in this exhibition provides a platform for local industries to sho
 
 [Data](articles/7ee658cf.json)
 
+[Extended Data](ext_articles/7ee658cf.ext.json)
+
 ---
 
 ### SLT-Mobitel Home Telephone offers unlimited calls
@@ -209,6 +227,8 @@ SLT-Mobitel understands that the home phone is often a shared family resource. A
 ...
 
 [Data](articles/da1d7aad.json)
+
+[Extended Data](ext_articles/da1d7aad.ext.json)
 
 ---
 

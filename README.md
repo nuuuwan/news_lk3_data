@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 10:19:28**
+As of **2024-06-20 10:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,256** Articles*
+*Scraped **31,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,76 @@ economynextcom | 1,804
 dailyftlk | 1,914
 adalk | 2,727
 adaderanalk | 3,537
-tamilmirrorlk | 3,675
+tamilmirrorlk | 3,676
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,078
+adaderanasinhalalk | 5,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,255 (100.0%) of 31,256 articles have been extended.
+31,256 (100.0%) of 31,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ඉන්දීය විදේශ ඇමති දිවයිනට
+### சற்றுமுன் இலங்கை வந்தார் இந்திய வெளிவிவகார அமைச்சர்
+
+*2024-06-20 10:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-இலங்கை-வந்தார்-இந்திய-வெளிவிவகார-அமைச்சர்/175-339166) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இன்று (20) காலை இலங்கை வந்தடைந்தார்.
+
+இந்திய பிரதமராக மோடி பதவியேற்ற பின் இந்திய இராஜதந்திரி ஒருவர் இலங்கைக்கு மேற்கொள்ளும் முதலாவது விஜயமாக இதுவாகும்.
+
+இந்தியப் பிரதமர் நரேந்திர மோடியும் விரைவில் இலங்கைக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொள்ளத் திட்டமிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/ec4b25f6.json)
+
+---
+
+### ජීවිතය පරදුවට තබා අනතුරක් වැළැක්වූ අභීත තරුණයා
+
+*2024-06-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197945) · `si`
+
+සියඹලාණ්ඩුව නගරයේ දී ලොරි රථයක රියදුරා විසින් එම ලොරි රථයේ අත් තිරිංග
+
+රියදුරු බැස ගොස් සුළු මොහොතකින් එම ලොරි රථය මාර්ගයේ ධාවනය වී ඇති අතර එම අවස්ථාවේ දී සියඹලාණ්ඩුව නගරයේ කාර්ය බහුල අවස්ථාවක් ද විය.
+
+රියදුරු නොමැතිව ධාවනය වන එම ලොරි රථය දුටු අසල වෙළෙඳසැළක සිටි තරුණයෙක් වහාම ක්‍රියාත්මක වී දිවගොස් ධාවනය වන ලොරි රථයට ඇතුළු වි ලොරි රථය නවතා ගැනීමට කටයුතු කර ඇත.
+
+එම නිසා සිදු වන්නට ගිය විශාල අනතුර වැළකී ඇති අතර මෙම සිදුවීම අසල සවිකර තිබූ ආරක්ෂිත කැමරාවක සටහන් වී තිබිණි.
+
+◼️
+
+[Data](articles/b89eade4.json)
+
+---
+
+### Indian Foreign Minister to visit Sri Lanka
 
 *2024-06-20 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197944) · `si`
 
-ඉන්දීය විදේශ අමාත්‍ය එස්. ජෙයිශංකර් මහතා අද (20) උදෑසන දිවයිනට පැමිණියේය.
+Indian Foreign Minister S. Jaishankar's visit to Sri Lanka, amid a political crisis, aims to assess bilateral projects ahead of PM Modi's trip. The visit is seen as politically significant due to ongoing uncertainty over Sri Lanka's presidential election.
 
-ඉන්දීය විදේශ අමාත්‍යවරයාගේ මෙරට සංචාරය දේශපාලනික වශයෙන් ඉතා වැදගත් සංචාරයක් වනු ඇති බව දේශපාලන විචාරකයින් පවසයි.
+🟩
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ මෙරට සංචාරයට පෙර දෙරට අතර ක්‍රියාත්මක ව්‍යාපෘති සමාලෝචනය කිරීම සඳහා ඉන්දීය විදේශ අමාත්‍යවරයා දිවයිනට පැමිණ ඇතැයි වාර්තා වේ.
+Indian Foreign Minister S. Jiasankar arrived in the island this morning.
 
-කෙසේවෙතත් ශ්‍රී ලංකාව තුළ ද මේ වන විට දේශපාලනික අර්බුදයක් මතුව ඇති අතර ජනාධිපතිවරණය පැවැත්වීම සම්බන්ධයෙන් මේ වනතෙක් අවසන් තීරණයක් ගෙන නොමැති බව සඳහන්ය.
+Political commentators say that Indian Foreign Minister's visit to Sri Lanka will be a political visit.
+
+Indian Foreign Minister has arrived in the island to review the projects between the two countries before the visit of Indian Prime Minister Narendra Modi.
+
+However, in Sri Lanka, there is a political crisis, and has not taken a final decision regarding the presidential election.
 
 ◼️
 
 [Data](articles/534d12a6.json)
+
+[Extended Data](ext_articles/534d12a6.ext.json)
 
 ---
 
@@ -2271,49 +2311,5 @@ In 1960, the DFCC Bank was set up in 1960 and the NDB Bank in 1980, he said.
 [Data](articles/9e08cd8f.json)
 
 [Extended Data](ext_articles/9e08cd8f.ext.json)
-
----
-
-### Sri Lanka Treasuries yields rise, 3-month up 50bp
-
-*2024-06-19 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-rise-3-month-up-50bp-168761/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields rose across maturities at Wednesday’s auction, with all 230 billion rupees offered volume sold.
-
-The three-month yield rose 50 basis points to 9.39 percent, with 91.6 billion rupees of bills sold after offering 25 billion.
-
-The six-month yield rose 51 basis points to 9.81 percent, with 95.03 billion rupees raised after offering 90 billion.
-
-The 12-month yield rose 36 basis points to 9.90 percent with 43.3 billion rupees of bills after offering 65 billion.
-
-Sri Lanka’s interest rates eased amid a build-up of excess liquidity from dollar purchases.
-
-Unsterilized liquidity, leads to a faster fall in rates than if the liquidity was mopped up to lock in reserves.
-
-Unsterilized liquidity also requires the currency to be defended to prevent a loss of credibility of the exchange rate through a so-called ‘flexible’ exchange rate, and mild panic among importers who will cover early, instead of using informal suppliers’ credit.
-
-...
-
-[Data](articles/a0d31c87.json)
-
-[Extended Data](ext_articles/a0d31c87.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 305.40/55 to US dollar
-
-*2024-06-19 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-40-55-to-us-dollar-168809/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.40/55 to the US dollar on Wednesday, down from 304.75/305.40 to the US dollar Tuesday, dealers said, while some bond yields edged up.
-
-A bond maturing on 15.12.2026 closed at 10.35/75 percent, up from 10.10/30 percent Tuesday.
-
-A bond maturing on 15.09.2029 closed at 11.95/12.35 percent, up from 11.80/90 percent.
-
-◼️
-
-[Data](articles/bb4c07ce.json)
-
-[Extended Data](ext_articles/bb4c07ce.ext.json)
 
 ---

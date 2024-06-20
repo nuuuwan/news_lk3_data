@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 01:04:30**
+As of **2024-06-21 01:19:27**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,399 (100.0%) of 31,400 articles have been extended.
+31,400 (100.0%) of 31,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### இந்தியா சென்றார் ஜெய்சங்கர்
+### Jaishankar went to India
 
 *2024-06-20 23:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-சென்றார்-ஜெய்சங்கர்/175-339209) · `ta`
 
-ஒரு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கை வந்த இந்திய வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் இன்று மாலை மீண்டும் நாடு திரும்பினார்.
+Indian Foreign Minister Jaishankar concluded a one-day official visit to Sri Lanka today, returning from Katunayake airport.
 
-இன்று (20) மாலை கட்டுநாயக்க விமான நிலையத்தில் இருந்து இந்தியா திரும்பியமை குறிப்பிடத்தக்கது. R
+🟩
+
+Indian Foreign Minister Jaishankar returned to Sri Lanka this evening after a one -day official visit.
+
+India returned from Katunayake airport this evening (20). Remble
 
 ◼️
 
 [Data](articles/98a0e25b.json)
+
+[Extended Data](ext_articles/98a0e25b.ext.json)
 
 ---
 

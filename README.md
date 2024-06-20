@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 17:35:14**
+As of **2024-06-20 17:55:55**
 
 ## Newspaper Stats
 
-*Scraped **31,338** Articles*
+*Scraped **31,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,736
+adalk | 2,739
 adaderanalk | 3,550
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,854
-adaderanasinhalalk | 5,093
+adaderanasinhalalk | 5,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,338 (100.0%) of 31,338 articles have been extended.
+31,338 (100.0%) of 31,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පතට ගෙනආ සංශෝධනවලට ඡන්දයක්
+
+*2024-06-20 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197963) · `si`
+
+කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමට ගෙනආ සංශෝධන සම්බන්ධයෙන් අද (20) පාර්ලිමේන්තුවේදී ඡන්දයක් පැවැත්වුණි.
+
+ඒ පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධන සම්බන්ධයෙනි.
+
+ඒ් අනුව පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධනවලට පක්ෂව ඡන්ද 05ක් සහ විරුද්ධව ඡන්ද 14ක් හිමිවිය.
+
+අනතුරුව නියෝජ්‍ය කථානායකවරයා පාර්ලිමේන්තුවට දැනුම්දුන්නේ පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග මහතා විසින් ගෙනආ සංශෝධන වැඩි ඡන්ද 09කින් ප්‍රතික්ෂේප වූ බවය.
+
+◼️
+
+[Data](articles/c01ea369.json)
+
+---
+
+### ගිනි තැබූ පනත් කෙටුම්පත
+
+*2024-06-20 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197962) · `si`
+
+ස්ත්‍රී පුරුෂ සමාජභාවී සමානාත්මතා පනත් කෙටුම්පතට විරෝධය පළකරමින් කථානායකවරයාට ලිපියක් භාරදීම බලංගොඩ කස්සප හිමි පොල්දූව මංසන්ධියට පැමිණියහ.
+
+පසුව උන් වහන්සේ පාර්ලිමේන්තුව දක්වා පාගමනින් වැඩමකළ අතර පාර්ලිමේන්තු ගේට්ටුවට පැමිණි නිලධාරියෙක් එම ලිපිය භාරගත්තේය.
+
+◼️
+
+[Data](articles/37520edb.json)
+
+---
+
+### සහන් පුතා එක්ක මූහුදු ගිය ධීවරයින් ගහගෙන අයෙකු මරුට අනෙක් අයට තුවාල
+
+*2024-06-20 17:13:39* · [`adalk`](https://www.ada.lk/breaking_news/සහන්-පුතා-එක්ක-මූහුදු-ගිය-ධීවරයින්-ගහගෙන-අයෙකු-මරුට-අනෙක්-අයට-තුවාල/11-410339) · `si`
+
+බේරුවල ධීවර වරායේ සිට සහන් පුතා 7 බහුදින ධීවර යාත්‍රාවෙන් මුහුදු ගිය ධීවරයින් පිරිසක් අතර සිදුවූ ආරවුලක් හේතුවෙන් එක් අයෙකු මියගොස් අනෙක් පිරිස තුවාල ලබා ඇති බව බේරුවල ධීවර පරීක්ෂක කාර්යාල ආරංචි මාර්ග සදහන් කරයි.
+
+මෙසේ මියගොස්  ඇත්තේ මග්ගොන, මාගල්කන්ද , රොක්කලන්ඩ් වත්ත ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු බව සදහන් වේ.
+
+මියගොස් ඇති පුද්ගලයාගේ මෘතදේහය  බේරුවල ධීවර වරායෙන් මුහුදු සැතපුම් 180 ක් පමණ ඈත සිට බේරුවල ධීවර වරායට එකී බහු දින යාත්‍රාවෙන් රැගෙන එම්න් සිටින බව වාර්තාවේ .
+
+බේරුවල රේගුව පාරේ පදිංචි  යාත්‍රාවේ හිමිකරු විසින් කල  පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කර ඇති බව සදහන් වේ.
+
+◼️
+
+[Data](articles/613d2b65.json)
+
+---
 
 ### One killed in mid-sea clash among crew of fishing boat
 
@@ -73,6 +123,26 @@ Dr. Dabarera also stated that most of the time individuals who do not seek immed
 [Data](articles/c0607233.json)
 
 [Extended Data](ext_articles/c0607233.ext.json)
+
+---
+
+### ඉන්දීය විදේශ අමාත්‍යවරයා අගමැති දිනේෂ් හමුවෙයි
+
+*2024-06-20 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197960) · `si`
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය සුබ්‍රමනියම් ජෙයිශංකර් මහතා අද (20) අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා හමුවිය.
+
+භාරතීය ජනතා පක්ෂයේ නායකත්වයෙන් යුත් ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයේ මැතිවරණ ජයග්‍රහණය පිළිබඳව අග්‍රාමාත්‍යවරයා ඔහුට සුබ පැතූ අතර සමීප ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කිරීම සඳහා එක්ව කටයුතු කිරීමට ශ්‍රී ලංකාවේ කැපවීම සහතික කළේය.
+
+කොවිඩ් වසංගතයෙන් සහ ආර්ථික අර්බුදයෙන් පසු මෑත දුෂ්කර කාලවලදී ලබාදුන් සහාය වෙනුවෙන් අග්‍රාමාත්‍යවරයා ඉන්දියාවට ස්තූති කළේය.
+
+ශ්‍රී ලංකාව වැනි අසල්වැසියන් ඉන්දියාවට අතිශයින් වැදගත් බවත් ඉන්දියාව තුළ ශ්‍රී ලංකාව කෙරෙහි ඉමහත් හොඳ හිතක් පවතින බවත් ඉන්දීය විදේශ අමාත්‍යවරයා පැවසීය.
+
+ඉන්දීය රජය ‟අසල්වැසියා පළමුව″ යන  ප්‍රතිපත්තිය යළි තහවුරු කරන බවත් තම සංචාරයේ ප්‍රධාන අරමුණ ශ්‍රී ලංකාව සිය සමීපතම සමුද්‍රීය අසල්වැසියා සහ  මිතුරා ලෙස ඉන්දියාවේ අඛණ්ඩව කැපවීම අවධාරණය කිරීම බවත් ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/902150bc.json)
 
 ---
 
@@ -658,6 +728,22 @@ The Buddhists integrate the Navigation of the Navalness in Anuradhapura, includi
 
 ---
 
+### දේශපාලනය තුළත් කාන්තා නියෝජනය වැඩි වූවා නම් දූෂණ වංචා අවම වෙනවා
+
+*2024-06-20 14:01:17* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනය-තුළත්-කාන්තා-නියෝජනය-වැඩි-වූවා-නම්-දූෂණ-වංචා-අවම-වෙනවා/11-410335) · `si`
+
+කලා විද්‍යා වාණිජ  යන ප්‍රධාන විෂය ධාරා තුනට අමතර ව 2014 වර්ෂයේ දී පමණ පාසල් විෂය මාලාවට අලු‍තෙන් එක් වූ තාක්ෂණ විෂය ධාරාව යටතට ගැනෙන ජෛව තාක්ෂණය, ඉංජිනේරු තාක්ෂණය හා තොරතුරු තාක්ෂණය යන උපවිෂයන් හැදෑරීමට ශිෂ්‍ය ප්‍රජාව අතර මහත් උද්‍යෝගයක් පවතින බවත් ඒ අතර සිසුවියන් ඊට වැඩි උනන්දුවක් දැක්වීමේ ප්‍රවණතාවක් දැකිය හැකි බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමයන්ත මහතා පැවසී ය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ශ්‍රී ලාංකික කාන්තාවන් සවිබල ගැන්වීමේ අරමුණින් සිලෝන් විමෙන් සංවිධානය ඉදිරියේ දී මෙරට ක්‍රියාත්මක කිරීමට සංවිධානය කර ඇති ව්‍යාපෘති පිළිබඳ දැනුම්වත් කිරීමේ වැඩසටහනකට සහභාගී වෙමිනි. අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් කොළඹ හිල්ටන් හෝටලයේ පැවති මෙම වැඩසටහනේ දී සන්නාම තානාපතිවරුන් සඳහා පත්වීම් ලිපි ප්‍රදානය කිරීම ද සිදු විය.
+
+මෙම අවස්ථාවට එම සංවිධානයේ ජාත්‍යන්තර නියෝජිත මෙල්කි පෙරේරා, එම සංවිධානයේ කැනඩා, ඔස්ටේ්‍රලියා, එංගලන්ත, ප්‍රංශ, ඉතාලි නියෝජිතයන් ද මෙම අවස්ථාවට එක් විය. විශේෂඥ වෛද්‍යවරුන්, විශ්ව විද්‍යාල උපකුලපතිවරුන්,ව්‍යාපාරිකයින්, මාධ්‍යවේදීන්, ආචාර්යවරුන්, මෙම අවස්ථාවට එක්වීම ද විශේෂත්වයකි.
+
+...
+
+[Data](articles/eff7f717.json)
+
+---
+
 ### Army appoints new Staff Head
 
 *2024-06-20 13:55:30* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවට-නව-මාණ්ඩලික-ප්‍රධානීවරයෙක්-පත්-කරයි/11-410334) · `si`
@@ -673,6 +759,24 @@ Major General Roitharare, who represents the Chief of Army, has been appointed a
 [Data](articles/8ff65731.json)
 
 [Extended Data](ext_articles/8ff65731.ext.json)
+
+---
+
+### වැවක ඉදිකළ සිළුමිණ සෑය
+
+*2024-06-20 13:52:54* · [`adalk`](https://www.ada.lk/breaking_news/වැවක-ඉදිකළ-සිළුමිණ-සෑය/11-410333) · `si`
+
+පොසොන් උත්සවය වෙනුවෙන් අනුරාධපුරයට පැමිණෙන බැතිමතුන්ට වෙනුවෙන්, එප්පාවල, කැලේසියඹලෑව වැවෙහි දිය මත ඉදි කළ අසිරිමත් සිළුමිණි සෑය බෝට්ටුවෙන් ගොස්  වන්දනා මාන කිරීමට අද(20) පස්වරුවේ සිට 23 වැනි දින දක්වා අවස්ථාව ඇත.
+
+එප්පාවල, ඇඳගල කැලේ සියඹලෑව ශ්‍රී ආනන්දෝදය මහා පිරිවෙනෙහි සුදර්ශනාරාමයේ විහාරාධිකාරී කැලේසියඹලෑව නන්ද හිමියන්ගේ ආශිර්වාද මත එම විහාරස්ථානයේ ශීෂ්‍ය භික්ෂූ නේවාසිකාගාරය ඉදි කර ගැනීමට මුල්‍ය ආධාර ලබා ගැනීමේ අරමුණද පෙර දැරිව, විහාරස්ථ දායක සභාව හා ප්‍රදේශයේ තරුණ ප්‍රජාව එක්ව කැලේසියඹලෑව වැව කේන්ද්‍ර කර ගනිමින් මෙම සිළුමිණ සෑය ඉදි කරමින් පවති.
+
+පොසොන් උත්වසය වෙනුවෙන් අනුරාධපුරය ඇතුළු පූජනීය ස්ථාන වැඳ පුදා ගැනීමට පැමිණෙන ජනතාව වෙනුවෙන් දිය මත ඉදි කළ මෙම සෑයද වන්දනා මාන කිරීමට අවස්ථාව උදා කර දීමට නියමිතය.
+
+වැව් බැම්ම මත සිට මීටර 800 ක් පමණ දුර ගෙවා වැවේ කෙළවර යකඩ බට 400 ක් පමණ යොදා ඉදි කළ පාදමක් මත, මෙම චෛත්‍යය අනුරුව ඉදි කර ඇත.එම ස්ථානයට බෝට්ටුවෙන් ගමන් කර, සෑය වන්දනා කර නැවත පැමිණිමට බැතිමතුන්ට අවස්ථාව සලසා ඇත.
+
+◼️
+
+[Data](articles/3d4f835c.json)
 
 ---
 
@@ -2261,107 +2365,5 @@ Global growth is projected to hold steady at 2.6% in 2024 before edging up to an
 [Data](articles/830a07d8.json)
 
 [Extended Data](ext_articles/830a07d8.ext.json)
-
----
-
-### Taxation should be an investment people are making for current and future wellbeing
-
-*2024-06-20 05:34:22* · [`dailyftlk`](https://www.ft.lk/columns/Taxation-should-be-an-investment-people-are-making-for-current-and-future-wellbeing/4-763274) · `en`
-
-Taxation should be looked at as part of a social contract between a Government and the people who pay tax
-
-Taxation needs to be looked at from a different perspective and models of taxation need to be examined. Taxation should be looked at as part of a social contract between a government and the people who pay tax. It is part of a partnership between the government and the public and it must give a sense of ownership to the public that their money is being used judiciously for their benefit. Besides this, they must have a belief that their taxes are investments, not just expenses, and that they will have a return on their investment. Better hospitals, better schools and universities, better roads, better transport and more affordable energy costs are some returns they should be able to expect with their taxes.
-
-...
-
-[Data](articles/f8eb0a61.json)
-
-[Extended Data](ext_articles/f8eb0a61.ext.json)
-
----
-
-### Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’
-
-*2024-06-20 05:29:51* · [`dailyftlk`](https://www.ft.lk/columns/Indo-Lanka-unification-13A-term-extension-and-a-pioneering-intellectual-of-nonalignment/4-763273) · `en`
-
-“Blessed is the nation which in its moment of greatest challenge and peril can produce a moral and intellectual leadership that has the vision and the courage to overcome both. Human history has been gloriously enriched by the examples of nations, much younger and smaller, which have confronted far more awesome challenges only to produce that sort of inspiring leadership. Examples abound of peoples, with nothing of the splendour of the heritage that we so proudly possess—and so ceaselessly and clamorously proclaim—who have faced their own hours of maximum danger by summoning to their cause unsuspected reserves of self-confidence, intelligence and fortitude. But we seem determined to remain captives to the past and make ourselves hostage to an uncertain future.”
-
-– Mervyn de Silva, The Roots of Violence, Crisis Commentaries, 2001, p80.
-
-...
-
-[Data](articles/16f9f97a.json)
-
-[Extended Data](ext_articles/16f9f97a.ext.json)
-
----
-
-### Responding to Shantha Jayaratne’s bogus claims
-
-*2024-06-20 05:17:09* · [`dailyftlk`](https://www.ft.lk/columns/Responding-to-Shantha-Jayaratne-s-bogus-claims/4-763272) · `en`
-
-Following is a response to an article written by Shantha Jayarathne under the title “From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies” (https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) which was published on 10 June 2024.
-
-...
-
-[Data](articles/2b2f77c3.json)
-
-[Extended Data](ext_articles/2b2f77c3.ext.json)
-
----
-
-### Responding to Shantha Jayaratne’s bogus claims
-
-*2024-06-20 05:17:09* · [`dailyftlk`](https://www.ft.lk/opinion/Responding-to-Shantha-Jayaratne-s-bogus-claims/14-763272) · `en`
-
-Following is a response to an article written by Shantha Jayarathne under the title “From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies” (https://www.ft.lk/columns/From-crisis-architects-to-change-makers-Rethinking-Ranil-Wickremesinghe-s-economic-policies/4-762858) which was published on 10 June 2024.
-
-...
-
-[Data](articles/2b4b68a3.json)
-
-[Extended Data](ext_articles/2b4b68a3.ext.json)
-
----
-
-### President announces host of proposals to boost industrial sector expansion
-
-*2024-06-20 04:54:52* · [`dailyftlk`](https://www.ft.lk/business/President-announces-host-of-proposals-to-boost-industrial-sector-expansion/34-763261) · `en`
-
-Declares establishment of new development bank, Economic Commission to boost industrial growth at inauguration of ‘International Industry Expo 2024’
-
-Insists development of country cannot be achieved via constant litigation
-
-President Ranil Wickremesinghe yesterday announced a host of initiatives to empower small and medium entrepreneurs (SMEs) and boost the industry sector.
-
-Speaking at the inauguration of the first ‘International Industry Expo’ organised by the Industrial Development Board (IDB), the President announced the establishment of a new development bank with the opportunity to obtain loans at low interest rates aimed at providing financial support to industrialists in Sri Lanka.
-
-He also revealed plans to set up an Economic Commission to oversee these activities, along with the creation of a new institution called ‘Enterprise Sri Lanka’ to empower small and medium entrepreneurs.
-
-...
-
-[Data](articles/a6f28913.json)
-
-[Extended Data](ext_articles/a6f28913.ext.json)
-
----
-
-### Shivaan, Renuka appointed to Cold Stores Board
-
-*2024-06-20 04:53:06* · [`dailyftlk`](https://www.ft.lk/business/Shivaan-Renuka-appointed-to-Cold-Stores-Board/34-763260) · `en`
-
-Ceylon Cold Stores PLC has announced the appointment of Shivaan Kang-Isvaran and Renuka Fernando as Independent Non-Executive Directors.
-
-Shivaan Kanag-Isvaran is a Barrister-at-Law of the Lincoln’s Inn (2000), a Graduate in Law from the University of Warwick (1998) and holds a Masters in Law in International Business Law from the London School of Economic and Political Science (1999). He is an Attorney-at-Law of the Supreme Court of Sri Lanka (2002).
-
-He has an extensive practice on the civil side in both the original and appellate Courts and specialises in several areas of law including Constitutional law, Corporate Law, Intellectual Property Law, Banking and Finance Law, Telecommunication Law and Tax Law.
-
-He also specialises in International Commercial Arbitration, where he has represented clients both locally and internationally and has experience advising in connection with infrastructure and construction projects.
-
-...
-
-[Data](articles/df114f23.json)
-
-[Extended Data](ext_articles/df114f23.ext.json)
 
 ---

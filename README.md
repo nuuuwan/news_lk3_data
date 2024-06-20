@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 00:51:43**
+As of **2024-06-21 01:04:30**
 
 ## Newspaper Stats
 
-*Scraped **31,399** Articles*
+*Scraped **31,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,819
 dailyftlk | 1,914
 adalk | 2,745
 adaderanalk | 3,555
-tamilmirrorlk | 3,690
+tamilmirrorlk | 3,691
 dailymirrorlk | 4,733
 virakesarilk | 4,872
 adaderanasinhalalk | 5,106
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,399 (100.0%) of 31,399 articles have been extended.
+31,399 (100.0%) of 31,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### இந்தியா சென்றார் ஜெய்சங்கர்
+
+*2024-06-20 23:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-சென்றார்-ஜெய்சங்கர்/175-339209) · `ta`
+
+ஒரு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கை வந்த இந்திய வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் இன்று மாலை மீண்டும் நாடு திரும்பினார்.
+
+இன்று (20) மாலை கட்டுநாயக்க விமான நிலையத்தில் இருந்து இந்தியா திரும்பியமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/98a0e25b.json)
+
+---
 
 ### India beat India
 
@@ -2339,31 +2353,5 @@ It is estimated to have more than 190,000 active personnel with its own ground f
 [Data](articles/85ac23cc.json)
 
 [Extended Data](ext_articles/85ac23cc.ext.json)
-
----
-
-### Massive accident;Personation
-
-*2024-06-20 12:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்து-ஒருவரின்-நிலை-கவலைக்கிடம்/175-339173) · `ta`
-
-In a tragic accident near Mihintale, two individuals were hurt when a vegetable-laden lorry collided with a stationary fuel bowser on the A9 road early Thursday morning. The driver and assistant of the lorry were hospitalized. Police are probing the incident.
-
-🟩
-
-Mihintale police said that two persons were injured when a lorry carrying a vegetable pussy on the A9 road in Kandy - Jaffna was injured and one of them was admitted to the hospital.
-
-The accident occurred at Mihintale - Palukaswewa area at around 3.00 am on Thursday (20).
-
-The driver and assistant of the vegetable lorry have been admitted to the hospital with injuries.
-
-Police said that the lorry from the Jaffna area to the Dambulla Economic Center crashed into the rear of the fuel bowser parked on the road and crashed across the road.
-
-Police are investigating the accident that the accident caused the driver of the vegetable lorry.
-
-◼️
-
-[Data](articles/086b2929.json)
-
-[Extended Data](ext_articles/086b2929.ext.json)
 
 ---

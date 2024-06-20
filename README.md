@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 19:04:47**
+As of **2024-06-20 19:19:24**
 
 ## Newspaper Stats
 
-*Scraped **31,356** Articles*
+*Scraped **31,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,740
+adalk | 2,742
 adaderanalk | 3,552
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,861
-adaderanasinhalalk | 5,097
+adaderanasinhalalk | 5,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,356 (100.0%) of 31,356 articles have been extended.
+31,356 (100.0%) of 31,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### කාන්තාවන් සවිබල ගැන්වීමේ පනත සම්මතයි
+
+*2024-06-20 18:43:19* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-සවිබල-ගැන්වීමේ-පනත-සම්මතයි/11-410343) · `si`
+
+කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත අද (20) පාර්ලි‍මේන්තුවේදී සංශෝධන සහිතව සම්මත විය.
+
+2024 මැයි මස 7 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද මෙම පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය පසුගිය ජූනි 4 වැනිදා පවත්වා කල්තබන ලද අතර විවාදය අද දෙවැනි දිනටත් පැවැත්විණි.
+
+මෙරට කාන්තාවන් සවිබල ගැන්වීම අරමුණු කරගත්  මෙම පනත් කෙටුම්පත මගින්   කාන්තාවන් පිළිබඳ ජාතික කොමිනේ සභාවක් ස්ථාපිත කිරීම සදහා විධිවිධාන සපයා ඇත. එසේම කාන්තාවන්ගේ අභිවෘද්ධිය සහ සවිබල ගැන්වීම පිළිබඳ ශ්‍රී ලංකා ජාතික ප්‍රතිපත්තිය සකස් කිරීම සහ ක්‍රියාත්මක කිරීම, කාන්තා අයිතිවාසිකම් ආරක්ෂා කිරීම සඳහා යාන්ත්‍රණ ස්ථාපිත කිරීම සහ එකී අයිතිවාසිකම් උල්ලංඝනය කිරීමට එරෙහිව නඩු පැවරීම ඇතුළු  ඊට ආනුෂංගික කරුණු සඳහා ද විධිවිධාන මෙම නව පනත මගින් ලබා දී ඇත
+
+පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය, ළමුන්, කාන්තාවන් හා ස්ත්‍රී-පුරුෂ භාවය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව සහ කාන්තා ළමා කටයුතු හා සමාජ සවිබල ගැන්වීම අමාත්‍යාංශයේ සාමූහික ප්‍රයත්නයක ප්‍රතිඵලයක් ලෙස මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සිදුවිය.
+
+...
+
+[Data](articles/046de1c1.json)
+
+---
+
+### කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කරයි
+
+*2024-06-20 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197965) · `si`
+
+කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත අද (20) පාර්ලිමේන්තුවේදී තුන්වන වර කියවා සංශෝධන සහිතව සම්මත කර ගත්තේය.
+
+◼️
+
+[Data](articles/a7019a2f.json)
+
+---
 
 ### The Women's Reinforcement Bill is fulfilled with amendments
 
@@ -58,9 +88,13 @@ Following this, the opposition members of the Opposition, Geeta Kumarasinghe, ex
 
 *2024-06-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99996/womens-empowerment-bill-passed-with-amendments) · `en`
 
-The Women’s Empowerment Bill was passed in Parliament with amendments, a short while ago, during its third reading.
+The Women’s Empowerment Bill was passed in Parliament with amendments, a short while ago, following its third reading.
 
 This was announced to the House by the Deputy Speaker of the Parliament Ajith Rajapakshe.
+
+The Women’s Empowerment Act proposes essential provisions to legally empower women, including the establishment of a dedicated commission for their implementation.
+
+President Ranil Wickremesinghe had previously stated that this bill comes with the government’s commitment to protecting women’s rights enacting laws against violence and ensuring equal opportunities for women in workplace promotions and transfers. Additionally, he stated that the bill will prioritize the safety of women within their homes.
 
 ◼️
 
@@ -113,6 +147,26 @@ Police have arrested three people on suspicion that alcohol was sold.
 [Data](articles/e640d8ac.json)
 
 [Extended Data](ext_articles/e640d8ac.ext.json)
+
+---
+
+### ඉන්දීය විදේශ ඇමති ජනපති හමු වෙයි
+
+*2024-06-20 18:16:14* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-විදේශ-ඇමති-ජනපති-හමු-වෙයි/11-410340) · `si`
+
+දිවයිනට පැමිණ සිටින ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර නිල හමුව අද (20) පෙරවරුවේ කොටුව ජනාධිපති මන්දිරයේ දී සිදු විය.
+
+ඉන්දියාවේ නව රජය පත්වීමෙන් පසුව එරට රාජ්‍ය තාන්ත්‍රිකයෙකු මෙරට සිදුකරන පළමු සංචාරය සනිටුහන් කරමින් ඉන්දීය විදේශ අමාත්‍යවරයා ශ්‍රී ලංකාවේ නිල සංචාරයකට එක්ව සිටියි.
+
+ජනාධිපති මන්දිරය වෙත පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා විසින් පිළිගනු ලැබීය.
+
+අනතුරුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය විදේශ අමාත්‍යවරයා අතර නිල හමුව සිදුවූ අතර දෙරට අතර ක්‍රියාත්මක සංවර්ධන ව්‍යාපෘති සමාලෝචනය කිරීමේ ද්විපාර්ශ්වික සාකච්ඡා ඉන් අනතුරුව ආරම්භ කෙරිණි.
+
+මේ අතර ඉන්දු – ශ්‍රී ලංකා සබඳතාවන්හි නව සන්ධිස්ථානයක් සනිටුහන් කරමින් සිදුකෙරුණු ව්‍යාපෘති 03 ක් ජනතා අයිතියට පවරාදීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතාගේ සහභාගිත්වයෙන් සිදු විය.
+
+...
+
+[Data](articles/399c2cad.json)
 
 ---
 
@@ -2325,71 +2379,5 @@ The Parliamentary Council has started its session, focusing on legislative discu
 [Data](articles/ff91b251.json)
 
 [Extended Data](ext_articles/ff91b251.ext.json)
-
----
-
-### Prison officers warned against engaging in trade union action
-
-*2024-06-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99981/prison-officers-warned-against-engaging-in-trade-union-action) · `en`
-
-The Prisons Department has warned that strict disciplinary measures will be taken against officers who engage in trade union actions.
-
-Prisons Commissioner (Operation/Intelligence) and Spokesman Gamini B. Dissanayake emphasized that prison officers have no legal right to participate in any trade union actions.
-
-Dissanayake also warned that legal action would be pursued against any officers who engage in such activities.
-
-Regarding the recent trade union action by certain prison officers, Dissanayake noted, “It was reported to us that a very small group of officers had intimidated others into joining them. The Colombo Magistrate has ordered that disciplinary action be taken. A senior officer will be assigned, and appropriate measures will be implemented. We intend to report facts to the court on this in the future.”
-
-◼️
-
-[Data](articles/bd55a410.json)
-
-[Extended Data](ext_articles/bd55a410.ext.json)
-
----
-
-### Win England
-
-*2024-06-20 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197942) · `si`
-
-In the 20th World Cup Super 8, England triumphed over the West Indies. The West Indies made 180 runs losing 4 wickets. England responded strongly, scoring 181 runs in 17.2 overs to secure victory.
-
-🟩
-
-England beat England to be able to win the 20th World Cup Super 8 "Super 8".
-
-The West Indies scored 180 runs for the loss of 4 wickets for the loss of 4 wickets.
-
-In response, England team scored 181 runs for winning 17.2 overs.
-
-◼️
-
-[Data](articles/b2200588.json)
-
-[Extended Data](ext_articles/b2200588.ext.json)
-
----
-
-### Suspicion
-
-*2024-06-20 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186514) · `ta`
-
-Controversy surrounds the release of land in the Mannar District Vidal Island Natural Sanctuary, with debates over its use for a maritime park or for a private farm. Critics argue against granting permission due to environmental concerns and the impact on fishing activities. The release of 400 acres, initially planned to be 1000 acres, sparked fears among fishermen about the loss of valuable fishing grounds. The process lacks transparency, with the gazette notification in Sinhala lacking detailed information. The District Coordinating Committee decided against leasing the land to local or foreign companies. The Ministry of Fisheries defended the move, emphasizing the importance of the area for fish breeding. However, locals demand more protection for their livelihoods and the environment.
-
-🟩
-
-A special gazette notification was issued on May 6 last year that the Mannar District Vidal Island Natural Sanctuary will be completed in accordance with the authority given to the Minister of Wildlife and Forest Resources Pavithra Devi Wanniyarachchi.
-
-Various controversies have arisen over the release of the land in the Vidal Island area as the Gazette Notification has been announced that the land belonging to the Forest Department has been released to maritime park/maritime.
-
-In particular, there were various arguments over the release of the land during the Mannar District Development Committee meeting held last week.
-
-In the name of development, he said that the maritime park, which was destroyed by the natural continental forests and preventing fishing activities, could not be granted permission.
-
-...
-
-[Data](articles/85a3d4ba.json)
-
-[Extended Data](ext_articles/85a3d4ba.ext.json)
 
 ---

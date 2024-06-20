@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 12:07:18**
+As of **2024-06-20 12:19:34**
 
 ## Newspaper Stats
 
-*Scraped **31,286** Articles*
+*Scraped **31,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,729
-adaderanalk | 3,541
-tamilmirrorlk | 3,677
+adaderanalk | 3,542
+tamilmirrorlk | 3,678
 dailymirrorlk | 4,733
 virakesarilk | 4,839
-adaderanasinhalalk | 5,082
+adaderanasinhalalk | 5,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,285 (100.0%) of 31,286 articles have been extended.
+31,286 (100.0%) of 31,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### ஜனாதிபதியை சந்தித்தார் ஜெய்சங்கர்
+
+*2024-06-20 12:06:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜெய்சங்கர்/175-339172) · `ta`
+
+உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு இலங்கை வந்துள்ள இந்திய வெளியுறவுத் துறை அமைச்சர் டொக்டர் எஸ்.ஜெய்சங்கர்,   ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்தார்
+
+◼️
+
+[Data](articles/27732051.json)
+
+---
+
+### World Bank announces new Country Director for Sri Lanka
+
+*2024-06-20 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99986/world-bank-announces-new-country-director-for-sri-lanka) · `en`
+
+The World Bank has announced Mr. David Sislen as the World Bank’s new Country Director for Maldives, Nepal, and Sri Lanka, effective from July 01, 2024.
+
+Mr. Sislen succeeds Mr. Faris Hadad-Zervos, who will be taking on a new World Bank assignment. Mr. Sislen, a dual national of the US and Italy, joined the Bank in 2001 as an Economist in the Urban Cluster Unit and has since held various operational and managerial positions in different regions.
+
+His most recent assignment is as Practice Manager for Urban, Disaster Risk Management, and Land in the Latin America and Caribbean Region, based in Washington DC.
+
+“I am looking forward to my new role and meeting with all our stakeholders and partners soon,” said Mr. Sislen. “My key priority will be to lead the strategic dialogue to shape and implement operational engagements in line with the Bank’s focus on speed, scale, and impact, working closely with the government, development partners, and diverse stakeholders”, the World Bank added.
+
+...
+
+[Data](articles/593062b1.json)
+
+---
+
+### කලා වැවට පැන්න නිධන් හොරු
+
+*2024-06-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197950) · `si`
+
+ධාතුසේන රජතුමා විසින් කරවන බවට සැලකෙන කලා වැවේ ප්‍රධාන වානේ ගලක  තැන්පත් කොට තිබුණු නිධන් වස්තු කිසියම් පිරිසක් සොරා ගෙන ඇතැයි ඉපලෝගම පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
+
+යන්ත්‍ර සූත්‍ර උපයෝගී කරගනිමින් ගල විද අදාළ නිධන් වස්තු රැගෙන ගොස් ඇතැයි අනාවරණය වී ඇත.
+
+කලා වැවේ ඉපැරණි වාන ආසන්නයේ ම අධි ආරක්ෂිත කලාපයේ මෙම සොරකම සිදුව තිබේ.
+
+මෙම සොරකම මහවැලියේ ඇතැම් නිලධාරීන් විසින් යටපත් කිරීමට උත්සාහ ගන්නා බවට ප්‍රදේශවාසීන් චෝදනා එල්ල කරති.
+
+බෝවතැන්න ජලාශ භාරා ප්‍රධාන ඉංජිනේරු බුද්ධික මහේෂ් නවරත්න මහතාගෙන් අප කළ විමසීමේදී කියා සිටියේ, තමන්ට ද ඊයේ (19) උදෑසන මෙම සිදුවීම පිළිබඳව දැන ගැනීමට හැකි වූ බවත්, මේ හේතුවෙන් වැවේ වානට ද දැඩි බලපෑම් එල්ලවන නිසා වහාම නිලධාරීන් යොදවා පොලීසියට පැමිණිලි කරන ලෙස තමන් උපදෙස් දුන් බවත් ඒ මහතා පැවසීය.
+
+කලා වැව මහවැලි අධිකාරියෙන් පාලනය වන ස්ථානයක් වූ නමුත් මෙහි ආරක්ෂිතය කලාපයේ බෝට්ටු සවාරි සඳහා පෞද්ගලික අයෙකුට අවසර ලබාදී ඇති බව ද වාර්තා වේ.
+
+...
+
+[Data](articles/b3c72da9.json)
+
+---
+
+### ඉරාන විප්ලවීය හමුදාවට කැනඩාවෙන් තහනමක්
+
+*2024-06-20 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197949) · `si`
+
+ඉරානයේ ප්‍රබලතම හමුදා ඛාණ්ඩය ලෙස සැලකෙන "ඉරාන විප්ලවීය හමුදාව" ත්‍රස්තවාදී කණ්ඩායමක් ලෙස නම් කිරීමට කැනඩාව පියවර ගෙන ඇත.
+
+කැනඩා විරුද්ධ පක්ෂයේ සහ ඉරාන ඩයස්පෝරාවේ බලපෑම් මත මෙම තීරණය ගෙන ඇතැයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඉරානයේ සිටින කැනඩා වැසියන් සහ රාජ්‍ය තාන්ත්‍රිකයන් ඉවත්කර ගැනීමෙන් මෙම තීරණය ගෙන ඇතැයි වැඩිදුරටත් සඳහන් වෙයි.
+
+ඒ හේතුවෙන් ඉරාන රජයේ උසස් නිලධාරීන් ට සහ ඉරාන විප්ලවීය හමුදාවේ ඉහළ නිලධාරීන් ට කැනඩාවේ සංචාරය කිරීමට අවස්ථාව නොලැබෙයි.
+
+ඉරානයේ යුද, දේශපාලන සහ ආර්ථික ක්ෂේත්‍රයන් සඳහා ඉරාන විප්ලවීය හමුදාව දැඩි ලෙස මැදිහත් වෙයි.
+
+◼️
+
+[Data](articles/c4e9e2e5.json)
+
+---
 
 ### Indian Foreign Minister calls on President Ranil
 
@@ -43,6 +115,8 @@ Dr. S. Jaishankar is currently engaged in a one-on-one meeting with President Wi
 ◼️
 
 [Data](articles/651ae550.json)
+
+[Extended Data](ext_articles/651ae550.ext.json)
 
 ---
 
@@ -2207,97 +2281,5 @@ For this purpose, we went to the United States and selected three hundred studen
 [Data](articles/96a37fcd.json)
 
 [Extended Data](ext_articles/96a37fcd.ext.json)
-
----
-
-### Prabhu Deva starrer 'Moon Walk'
-
-*2024-06-19 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186492) · `ta`
-
-"Prabhu Deva stars in 'Moon Walk,' a dance-themed film directed by Manoj N., featuring Yogi Babu, Aju Varghese, and others. Anoop V Sailaja composed the music, while Manoj and Divya Manoj produced it. The film's unique title design has garnered fan interest."
-
-🟩
-
-The new film, which plays the lead role as the hero of the 'Dance Storm', has been named 'Moon Walk' and has been released in its title.
-
-Introducing Director Manoj N.. S.. Prabhu Deva, Yogi Babu, Aju Varghese, Arjun Asokan, Redin Kingsley, Lion Tiger, Motta Rajendran have starred in the film Moon Walk.
-
-Anoop V Sailaja has recorded the film 'Music Storm' A.. R. The film has been produced by producer Manoj -Divya Manoj and Praveen Elak.
-
-The shooting of the film is nearing completion and the post -shooting technical work is underway.. In this case, the film has been released in the title of the film.
-
-The title, titled 'Moon Walk', is also very impressed with the fans as the background and color designed for it is different.
-
-◼️
-
-[Data](articles/16caf299.json)
-
-[Extended Data](ext_articles/16caf299.ext.json)
-
----
-
-### Indian Foreign Minister to visit Sri Lanka tomorrow
-
-*2024-06-19 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99974/indian-foreign-minister-to-visit-sri-lanka-tomorrow) · `en`
-
-Indian External Affairs Minister Dr. S. Jaishankar is scheduled to pay an official visit to Sri Lanka on Thursday (20 June).
-
-During the visit, the Indian foreign minister will have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, the Indian High Commission in Colombo said.
-
-This will be Jaishankar’s first bilateral visit after the formation of new Government under Indian Prime Minister Shri Narendra Modi.
-
-"Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend."
-
-The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors, the statement said.
-
-◼️
-
-[Data](articles/33708335.json)
-
-[Extended Data](ext_articles/33708335.ext.json)
-
----
-
-### Using an unusual rate of unusual ratio in translation
-
-*2024-06-19 20:04:04* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලර්-ණය-රුපියලට-පරිවර්තනයේදී අසාමාන්‍ය-අනුපාතයක්-යොදාගෙන/11-410326) · `si`
-
-In 2023, an unusual exchange rate was used to convert a foreign loan into local currency, resulting in a payment of over $332.704 million. This decision led to an excessive expenditure of approximately $53.7 million in local currency, indicating a potential financial misconduct.
-
-🟩
-
-Amendments to the local cash in repayment of US $ 332,704 US $ 332,704 US $ 1st of the year 2023, the average audit of US $ 1 was used as an unusual forex rate of Rs.The office said at a new audit report issued by the office on Monday (18).
-
-This information contains information on the audit report issued by the Department of Foreign Resources regarding the Department of Foreign Resources.The audit report states that this audit ratio has been used in converting this foreign loan as per government financial statements into local rupees. Accordingly, US $ 332.704 has been spent to convert US $ 332.704 million to convert US $ 332.704 million to the local currency.
-
-The rupee has paid for US $ 1 at the maximum of Rs.. Sri Lankan Rupees cost 332,704 under the forex rate of $ 38 million.  ඒ අනුව අදාළ විදේශීය ණය මුදල ගෙවීමට ඩොලර් මිලදී ගැනීම සඳහා රුපියල් මිලියන 53.7 ක මුදලක්  වැඩිපුර වැයකොට  මූල්‍ය අපරාධයක් සිදු කොට ඇති බවට විගණනයට පෙනී ඇත.
-
-◼️
-
-[Data](articles/7d1fd067.json)
-
-[Extended Data](ext_articles/7d1fd067.ext.json)
-
----
-
-### Nimal, Independent Party Chairman. Secretary, Duminda
-
-*2024-06-19 19:55:20* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-සභාපති-නිමල්--ලේකම්-දුමින්ද/11-410325) · `si`
-
-Nimal Siripala de Silva, former acting chairman, is now the Chairman of the Sri Lanka Freedom Party (SLFP), with Duminda Dissanayake appointed as Secretary. This change occurred during an executive council meeting called by Nimal Siripala de Silva.
-
-🟩
-
-Sri Lanka Siripala de Silva and Duminda Dissanayake appointed as the Chairman of the Sri Lanka Freedom Party (SLFP) has been appointed as the Secretary to the party yesterday (19).
-
-Minister Nimal Siripala de Silva was the acting chairman of the SLFP until yesterday.
-
-Duminda Dissanayake, acting Secretary General of the Sri Lanka Freedom Party, has decided to appoint Dissinda as the Secretary General of the party.The Executive Council Meeting was summoned by Minister Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/b10ed0c3.json)
-
-[Extended Data](ext_articles/b10ed0c3.ext.json)
 
 ---

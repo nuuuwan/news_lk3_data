@@ -1,52 +1,100 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 18:36:51**
+As of **2024-06-20 18:53:42**
 
 ## Newspaper Stats
 
-*Scraped **31,352** Articles*
+*Scraped **31,356** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 285
 dbsjeyarajcom | 291
-bbccomsinhala | 308
+bbccomsinhala | 309
 newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,740
-adaderanalk | 3,551
+adaderanalk | 3,552
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
-virakesarilk | 4,859
+virakesarilk | 4,861
 adaderanasinhalalk | 5,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,350 (100.0%) of 31,352 articles have been extended.
+31,352 (100.0%) of 31,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### මත්පැන් විෂවී ඉන්දියාවේ 68ක් රෝහලේ - 29ක් මරුට
+### பெண்கள் வலுவூட்டல் சட்டமூலம் திருத்தங்களுடன் நிறைவேற்றம்
+
+*2024-06-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186597) · `ta`
+
+பெண்கள் வலுவூட்டல் சட்டமூலம் திருத்தங்களுடன் நிறைவேற்றப்பட்டது.எதிரணியின் சுயாதீன உறுப்பினர்களான விமல் வீரவன்ச,கெவிந்து குமாரதுங்க, சந்திம வீரக்கொடி ஆகியோர் சட்டமூலத்தின் ஒருசில ஏற்பாடுகளுக்கு திருத்தங்களை முன்வைத்தனர்.ஆளும் தரப்பினர் உறுப்பினர் சரத் வீரசேகர திருத்தங்களுக்கு ஆதரவாகவே வாக்களித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (20) இடம்பெற்ற  பெண்கள் வலுவூட்டல் சட்டமூலம்  இரண்டாம் வாசிப்புக்காக விவாதத்துக்காக எடுத்துக் கொள்ளப்பட்டது. இந்த சட்டமூலம் பெண்களை மாத்திரம் வரையறுத்ததாக அமைய வேண்டும் என்ற திருத்தத்தை முன்வைத்தார்.இந்த திருத்தம் மீதான விவாதம் இடம்பெற்றது. இதன்போது இந்த திருத்தத்துக்கு ஆதரவாக 05 வாக்குகளும், எதிராக 13 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 09 மேலதிக வாக்குகளினால் கெவிந்து குமாரதுங்க முன்வைத்த திருத்தம் நிராகரிக்கப்பட்டது.
+
+...
+
+[Data](articles/63d48fb7.json)
+
+---
+
+### Women’s Empowerment Bill passed with amendments
+
+*2024-06-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99996/womens-empowerment-bill-passed-with-amendments) · `en`
+
+The Women’s Empowerment Bill was passed in Parliament with amendments, a short while ago, during its third reading.
+
+This was announced to the House by the Deputy Speaker of the Parliament Ajith Rajapakshe.
+
+◼️
+
+[Data](articles/53f5095f.json)
+
+---
+
+### பெண் வலுவூட்டல் சட்டமூலம் : பெண் என்பதற்கான வரைவிலக்கணம் வழங்கப்படவில்லை - சரத் வீரசேகர குற்றச்சாட்டு
+
+*2024-06-20 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186595) · `ta`
+
+கலாச்சாரம் ஊடாக நாட்டை ஆக்கிரமிக்கும் முயற்சிகள் புதிய சட்டமூலங்கள் ஊடாக முன்னெடுக்கப்படுகிறது. பெண்கள் வலுவூட்டல் சட்டமூலம் நாட்டின் அரசியலமைப்புக்கும், கலாச்சாரத்துக்கும் முரணானது. பெண் என்பது யார் என்பதற்கு போதுமான வரைவிலக்கணம்  சட்டமூலத்தில் குறிப்பிடப்படவில்லை  என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வை குழுவின் தலைவர்  சரத் வீரசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (20) நடைபெற்ற பெண்கள் வலுவூட்டல் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/aab80aa1.json)
+
+---
+
+### Alcohol poisoning 68 hospitalized after 3 terrorists killed
 
 *2024-06-20 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197964) · `si`
 
-මත්පැන් විෂ වීමෙන් ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්තයේ පුද්ගලයින් 29 දෙනෙක් මියගොස් තිබේ.
+In Tamil Nadu, India, 30 died and 68 were hospitalized due to alcohol poisoning in the Kallakurichchi district. Victims suffered abdominal pain and eye closure issues. Three suspects are under arrest for allegedly selling the poisoned alcohol.
 
-කල්ලකුරිචි දිස්ත්‍රික්කයේ සිදුවූ මෙම සිද්ධියේදී තවත් පුද්ගලයින් 68 දෙනෙක් පමණ රෝගී වී රෝහල්ගත කර ඇති බව සඳහන් ය.
+🟩
 
-මියගිය සහ රෝගී වූ පිරිස උදරයේ ඇතිවූ දැඩි වේදනාවකින් පීඩාවට පත්වී සිටි බවත් ඇස් විවෘත කිරීමට පවා නොහැකිව වේදනාවෙන් පසුව ඇති බවත් වාර්තා වෙයි.
+Thirty people in the Tamil Nadu State of India have died of alcohol poisoning.
 
-මත්පැන් අලෙවි කළ බවට සැකය මත පොලීසිය පුද්ගලයින් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබුණි.
+About 68 more people were hospitalized in the incident in the Kallakurichchi district.
+
+It is reported that the dead and sick people have been suffering from the abdomen and that they cannot even open their eyes.
+
+Police have arrested three people on suspicion that alcohol was sold.
 
 ◼️
 
 [Data](articles/e640d8ac.json)
+
+[Extended Data](ext_articles/e640d8ac.ext.json)
 
 ---
 
@@ -792,17 +840,23 @@ The case has been postponed till July 4, the Muttur court has responded to the M
 
 ---
 
-### මාර්තු 15ට පසුව ඩොලරයට ඉහළම අගය වාර්තා වෙයි
+### The highest value is reported to the dollar after March 15
 
 *2024-06-20 14:23:37* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-15ට-පසුව-ඩොලරයට-ඉහළම-අගය-වාර්තා-වෙයි/11-410337) · `si`
 
-මේ වසරේ මාර්තු 15දාට පසුව ඩොලරයේ වැඩිම විකුණුම් අගය අද (20දා) වාර්ා විය.
+Today, it was reported that the highest dollar sales value post-March 15 this year reached Rs. 310.05, while the purchase price stood at Rs. 300.63 per dollar.
 
-ඒ අද දිනයේදි ඩොලරයේ විකුණු අගය රු. 310.05ක් ලෙස වාර්තාවීමත් සමගිනි. මහ බැංකුව නිකුත් කළ විනිමය අනුපාත අගයන් අනුව ඩොලරයක ගැණුම් මිල අද දිනයේදී රුපියල් 300.63ක් ලෙස දැක්විය.
+🟩
+
+The highest sales value of the dollar after March 15 this year was reported today (20).
+
+The value of the dollar is Rs.. As reported as 310.05. The dollar's purchase price is Rs. 300.63 per dollar.
 
 ◼️
 
 [Data](articles/ae3756bf.json)
+
+[Extended Data](ext_articles/ae3756bf.ext.json)
 
 ---
 
@@ -1267,6 +1321,28 @@ On the orders of Senior Police Superintendent (SSP) Malin Ajantha Perera, on the
 [Data](articles/7e7b55af.json)
 
 [Extended Data](ext_articles/7e7b55af.ext.json)
+
+---
+
+### වෘත්තීය සමිති ක්‍රියාමාර්ගයකට ගිය බන්ධනාගාර නිලධාරීන්ට මොකද වෙන්නේ ?
+
+*2024-06-20 12:28:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5114gl3jneo) · `si`
+
+අධිකරණ කටයුතු  පැහැර හැරීම හෝ බන්ධනාගාර ආයතනවල පරිපාලන කටයුතුවලට බාධා කිරීමට කටයුතු කරන නිලධාරීන්ට විරුද්ධව දැඩි විනය හා නීතියානුකූලව පියවර ගැනීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+බන්ධනාගාර කොමසාරිස්, මාධ්‍ය ප්‍රකාශක ගාමිණි බී. දිසානායක බීබීසී සිංහල සේවයට අදහස් දක්වමින් පැවසුවේ බන්ධනාගාර නිලධාරීන්ට වෘත්තීය ක්‍රියාමාර්ගවල නිරතවීමට නෛතික බලයක් නොමැති බව ය.
+
+කෙසේ වුවත් වැටුප් වැඩිවීමක් ඉල්ලා බන්ධනාගාර නිලධාරින් පිරිසක් පසුගිය මැයි 20 සහ 21 යන දිනවල වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වූහ.
+
+අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මාධ්‍ය හමුවකදී අදහස් දක්වමින්  පැවසුවේ බන්ධානාගාර නිලධාරීන්ට කලක සිට යම් අසාධාරණයක් සිදුව ඇති බව ය.
+
+‘අපි පිළිගන්නවා බන්ධනාගාර දෙපාර්තමේන්තුවේ නිලධාරීන්ට කාලයක පටන් යම් ආසාධාරණයක් සිද්ධ වෙලා තියෙනවා.’
+
+‘ඒ අනුව අපි මේ ප්‍රශ්නය නොසලකා හැරලා හෝ යටපත් කිරීමක් කරලා නැහැ. අපිත් පිළිගන්නවා ඒ අයට සාධාරණයක් ඉෂ්ඨ වෙන්න ඕන කියලා.’
+
+...
+
+[Data](articles/cc609190.json)
 
 ---
 
@@ -2289,85 +2365,5 @@ In the name of development, he said that the maritime park, which was destroyed 
 [Data](articles/85a3d4ba.json)
 
 [Extended Data](ext_articles/85a3d4ba.ext.json)
-
----
-
-### Tamil Nadu CM urges Centre for release of fishermen from Sri Lankan custody
-
-*2024-06-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99980/-tamil-nadu-cm-urges-centre-for-release-of-fishermen-from-sri-lankan-custody) · `en`
-
-Tamil Nadu Chief Minister M K Stalin has made an earnest appeal to the central government of India, urging them to negotiate with Sri Lanka for the release of Indian fishermen and their impounded boats.
-
-In a letter addressed to Indian External Affairs Minister S Jaishankar, Stalin highlighted the recent capture of four Indian fishermen by the Sri Lankan Navy and stressed that such actions jeopardize the livelihoods of fishermen and create anxiety within coastal communities.
-
-Stalin pointed out that currently, 15 Indian fishermen and 162 fishing boats are still detained by Sri Lankan authorities and requested immediate intervention through diplomatic means for their release.
-
-◼️
-
-[Data](articles/5b7d5eea.json)
-
-[Extended Data](ext_articles/5b7d5eea.ext.json)
-
----
-
-### President says children will not suffer again
-
-*2024-06-20 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197941) · `si`
-
-President Ranil Wickremesinghe vows to build a better future for children within five years, ensuring they won't endure hardships again.
-
-🟩
-
-President Ranil Wickremesinghe says that a better country will be created in the next 5-0 years for children.
-
-◼️
-
-[Data](articles/89a998b2.json)
-
-[Extended Data](ext_articles/89a998b2.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-20 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99979/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowrs will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c5254778.json)
-
-[Extended Data](ext_articles/c5254778.ext.json)
-
----
-
-### Yall. Conflict between two groups in Nedundi;One death!
-
-*2024-06-20 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186513) · `ta`
-
-A clash between two groups in Jaffna's Neduntivu resulted in one fatality. The victim's body was taken to Nedundevu Hospital, and local police are investigating.
-
-🟩
-
-One person was killed in a clash between two groups on Thursday (20) in the Jaffna Neduntivu area.
-
-One person was killed in a clash between the two groups this morning following the incident in which two groups broke out between two groups in the Jaffna Neduntivu area last night.
-
-The body of the deceased has been handed over to the Nedundevu Hospital and the Nedundevu police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/eb25c1e7.json)
-
-[Extended Data](ext_articles/eb25c1e7.ext.json)
 
 ---

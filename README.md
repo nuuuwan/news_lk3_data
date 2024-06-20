@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 09:19:34**
+As of **2024-06-20 09:34:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,244 (100.0%) of 31,246 articles have been extended.
+31,246 (100.0%) of 31,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/c5254778.json)
+
+[Extended Data](ext_articles/c5254778.ext.json)
 
 ---
 
@@ -1584,19 +1586,27 @@ On the other hand, the West Indies in the C. Group have easily entered the Super
 
 ---
 
-### කෙහෙළියගෙන් නිවාස කුලී මාස හතරකින් ලැබී නෑ
+### Keheliya has not received four months
 
 *2024-06-19 18:47:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගෙන්-නිවාස-කුලී-මාස-හතරකින්-ලැබී-නෑ/11-410318) · `si`
 
-මධ්‍යම පළාත් සභාව සතු නිවසක තාවකාලිකව පදිංචි වී සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් එම නිවස සඳහා අයවිය යුතු මුදල් මන්ත්‍රී පඩියෙන් කපා ගැනීමට අවසර ඉල්ලා ලිපියක් යොමු කොට දින 19 ක්ගතවී ඇතත්ඒ සඳහා මෙතෙක්ඔහුගෙන් නිසි ප්‍රතිචාර ලැබී නොමැති බව මධ්‍යම පළාත් ප්‍රධාන අමාත්‍යාංශය කියයි.
+Keheliya Rambukwella, a former minister, has occupied a temporary residence provided by the Central Provincial Council but has only served for 19 days. The council has requested reimbursement for four months' rent since his suspension in February.
 
-අරගල සමයේදී කෙහෙළිය රඹුක්වැල්ල මහතාගේ නිවසගිනි තබා විනාශ කිරීමෙන් පසුඒ මහතාට තාවකාලිකව රැඳී සිටීම සඳහා කුලී පදනම මත මහනුවර මලබාර් වීදියේ පිහිටි මධ්‍යමය පළාත් මහ අමාත්‍ය නිල නිවස ලබා දී තිබේ.
+🟩
 
-එසේ ලබා දී ඇත්තේ ඔහුගේ මාසික වැටුපෙන්10% ක මුදලක් අය කර ගැනීමේ ගිවිසුමක් මත බව පවසන මධ්‍යම පළාත් ප්‍රධාන අමාත්‍යාංශය රඹුක්වැල්ල මහතා සෞඛ්‍ය අමාත්‍ය ධුරයේ සහ පරිසර අමාත්‍ය ධූරයේ සිටි කාලය තුළදී එම අමාත්‍යාංශ ලේකම්වරුන්ගේ මාර්ගයෙන් අදාළ මුදල් මධ්‍යම පළාත් සභාවට අය වී ඇතත් මේ වන විට එම මුදල් ලැබීම නතර වී ඇති බව ප්‍රධාන අමාත්‍යාංශයේ  ඉහළ නිලධාරියකු පැවසීය.
+Former Minister Keheliya Rambukwella, who has been settled in a house of the Central Provincial Council, has ever reached the post of 19 days, says the Central Province Chief Ministry.
 
-...
+The Central Province Chief Minister of the Malabar Street has been provided with the rented out of the Mahabar Street at Mahabar Street, Kandy temporarily to remain temporarily in the struggle.
+
+The Chief Ministry of the Central Province is the Minister of Health Rambukwella, Chief Secretary of the Central Province and the Ministry of Environmental Minister Rambukwella says that the Ceylon Minister of Health and the Ministry of Environment has been charged with the Central Provincial Council.A senior official of the Chief Ministry said he had stopped.
+
+The Chief Minister of the Central Province has made a written request from the Chief Secretary of the Central Province to recover the money for four months after the former Minister has been suspended in February.
+
+◼️
 
 [Data](articles/2fb8e190.json)
+
+[Extended Data](ext_articles/2fb8e190.ext.json)
 
 ---
 

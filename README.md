@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 13:54:02**
+As of **2024-06-20 14:05:55**
 
 ## Newspaper Stats
 
-*Scraped **31,306** Articles*
+*Scraped **31,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,81 @@ adaderanalk | 3,544
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,847
-adaderanasinhalalk | 5,086
+adaderanasinhalalk | 5,087
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,298 (100.0%) of 31,306 articles have been extended.
+31,306 (100.0%) of 31,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ஒரு நாடு தாக்கப்பட்டால் மற்றைய நாடு உடனடியாக இராணுவ உதவியை வழங்க வேண்டும் - ரஷ்யாவிற்கும் வடகொரியாவிற்கும் இடையில் இணக்கப்பாடு- ஒப்பந்தம் கைச்சாத்தானது
+### වසරේ ගතවූ මාස 6 තුළ මී උණ රෝගීන් 5,000ක්
+
+*2024-06-20 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197953) · `si`
+
+වසරේ ගතවූ මාස 6 තුළ පමණක් මී උණ රෝගීන් 5,000ක් මෙරටින් වාර්තා වී ඇති බව වසංගත රෝග විද්‍යා අංශය පවසයි.
+
+◼️
+
+[Data](articles/984406eb.json)
+
+---
+
+### If one country is attacked, the other country should immediately provide military aid - compliance between Russia and North Korea
 
 *2024-06-20 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186555) · `ta`
 
-ரஷ்யாவும் வடகொரியாவும் பரஸ்பரம் ஒருநாடு தாக்கப்பட்டால் மற்றைய நாடு உடனடி இராணுவ உதவியை  உடனடியாக வழங்குவதற்கான உடன்படிக்கையில் கைச்சாத்திட்டுள்ளன.
+Russia and North Korea have agreed to provide mutual military support if either is attacked, marking a significant pact signed during a high-level visit. This deal aims to revive Cold War-era security commitments and bolster North Korea's ties with a UN Security Council member, enhancing its international standing.
 
-ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினின் வடகொரிய விஜயத்தின்போது இரு நாடுகளின் தலைவர்களும் இந்த உடன்படிக்கையில் கைச்சாத்திட்டுள்ளனர்.
+🟩
 
-இரண்டு நாடுகளிற்கும் இடையில் கடந்த பல வருடங்களாக கைச்சாத்திடப்பட்ட உடன்படிக்கைகளில் இதுவே மிக முக்கியமானது என சிஎன்என் தெரிவித்துள்ளது.
+Russia and North Korea have signed an agreement to provide immediate military assistance if the other country is attacked.
 
-மேலும் இந்த உடன்படிக்கை பனிப்போர்காலத்தின் 1961ம் ஆண்டு பரஸ்பர பாதுகாப்பு உறுதிமொழிக்கு மீண்டும் உயிர்கொடுக்கும் முயற்சி என சிஎன்என் தெரிவித்துள்ளது.
+Leaders of the two countries have signed the agreement during the North Korean visit to Russian President Vladimir Putin.
 
-மேலும் இந்த உடன்படிக்கை ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் வீட்டோ அதிகாரத்தை கொண்டுள்ள நாட்டுடன் வடகொரிய ஜனாதிபதியின் உறவுகளை வலுப்படுத்தியுள்ளது.
+CNN said it was the most important of the agreements signed between the two countries over the past several years.
 
-இரண்டு நாடுகளில் ஒரு நாடு இராணுவரீதியான நடவடிக்கையை எதிர்கொண்டால் மற்றைய நாடு உடனடியாக இராணுவ உதவியையும் ஏனைய உதவிகளையும் வழங்கவேண்டும் என உடன்படிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+CNN also said the deal was an attempt to re -bring about the Mutual Security Pledge of the Cold War in 1961.
+
+Moreover, the agreement has strengthened the North Korean president's relations with the country with veto power in the United Nations Security Council.
+
+The agreement stated that if a country in two countries face military action, the other country should immediately provide military assistance and other assistance.
 
 ◼️
 
 [Data](articles/ee5998bc.json)
 
+[Extended Data](ext_articles/ee5998bc.ext.json)
+
 ---
 
-### இலங்கையின் வடக்குகிழக்கு பகுதிகளில் காணிகளை அபகரிக்கும்  நடவடிக்கைகளால்  பதற்ற நிலை- ஜெனீவாவில் இணை அனுசரணை நாடுகள் கவலை
+### Tension in the North East of Sri Lanka
 
 *2024-06-20 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186550) · `ta`
 
-இலங்கையில் நீதித்துறையின் சுதந்திரத்தை பாதுகாக்கவேண்டும் என ஐக்கிய நாடுகள் மனித உரிமை பேரவையில் இலங்கை தொடர்பான தீர்மானத்திற்கு இணைஅனுசரணை வழங்கிய நாடுகள் வேண்டுகோள் விடுத்துள்ளன.
+The UN Human Rights Council, during its 56th session, urged for judicial independence in Sri Lanka, highlighting concerns over forced disappearances and human rights abuses. The UK's Human Rights Ambassador, Rita Franch, praised a report exposing such abuses and called for implementing UN recommendations to address these issues. She also mentioned a new bill, including an anti-terrorism law, must align with Sri Lanka's human rights commitments. The international community, including Canada, Malawi, Monaco, Madagascar, the UK, and the US, expressed concern over tensions in Sri Lanka's northeast, emphasizing the need for transparency and addressing the needs of affected individuals.
 
-ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் 56 அமர்வில் கனடா மலாவி மொன்டிநீக்ரோ வடமசடோனியா ஐக்கிய இராச்சியம் அமெரிக்கா ஆகிய நாடுகள் இந்த வேண்டுகோளை விடுத்துள்ளன.
+🟩
 
-ஐக்கிய இராச்சியத்தின் மனித உரிமை தூதுவர் ரிட்டா பிரென்ஞ் இந்த அறிக்கையை வெளியிட்டுள்ளார்.
+The United Nations Human Rights Council (UNHRC) has appealed to the United Nations Human Rights Council to protect the independence of the judiciary in Sri Lanka.
 
-இலங்கையில் மனித உரிமை மீறல்களில் ஈடுபட்டவர்கள் தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்படுதல் மிக நீண்டகாலமாக காணப்படுவதை வெளிப்படுத்திய இலங்கையின் பலவந்தமாக காணாமல்போதல் குறித்த உங்கள் அறிக்கைக்கு நன்றி என அவர் தெரிவித்துள்ளார்.
+In the 56 session of the United Nations Human Rights Council, Canada Malawi Mondinegro Vadamasatonia United Kingdom and the United States made this request.
 
-பலவந்தமாக காணாமல்போகச்செய்யப்பட்டதால் ஏற்பட்ட துயரங்களிற்கும் அதனால் அனைத்து சமூகங்களிற்கும் ஏற்பட்ட பாதிப்புகளிற்கும் தீர்வை காண்பதற்காக ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் அறிக்கையில் காணப்படும் பரிந்துரைகளை நடைமுறைப்படுத்துமாறு நாங்கள் கேட்டுக்கொள்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+The United Kingdom's Human Rights Ambassador Rita Franch has issued the statement.
+
+He thanked your report on the forcible disappearance of Sri Lanka, who revealed that those involved in human rights violations in Sri Lanka have long been able to exclude the clutches of the punishment.
+
+"We are urging the United Nations Human Rights Commissioner's Office to implement the recommendations of the United Nations Human Rights Commissioner's Office to find a solution to the tragedies caused by the disappearance of all communities and the impacts of all communities," he said.
 
 ...
 
 [Data](articles/81eff24f.json)
+
+[Extended Data](ext_articles/81eff24f.ext.json)
 
 ---
 
@@ -140,37 +164,51 @@ In addition, Kalinga Kumara, who participated in the men's 400m race in the comp
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186548) · `ta`
 
-இன்று வியாழக்கிழமை (ஜூன் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 300.6388 ஆகவும் கொள்வனவு விலை ரூபா 310.0538 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On June 20, the US dollar sold for 300.6388 and bought back for 310.0538.
+
+🟩
+
+The US dollar sales price was 300.6388 and the purchase price was 310.0538 on Thursday (June 20).
 
 ◼️
 
 [Data](articles/2c39cfbe.json)
 
+[Extended Data](ext_articles/2c39cfbe.ext.json)
+
 ---
 
-### ஜனாதிபதியை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் !
+### Indian Foreign Minister Jaishankar meets President
 
 *2024-06-20 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186543) · `ta`
 
-உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் சற்றுமுன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்தார்.
+During his visit, Indian Foreign Minister S. Jaishankar and Sri Lankan President Ranil Wickremesinghe virtually launched 130 houses under the Indian Housing Scheme in various districts and handed over 24 more in Colombo and Trincomalee. They also unveiled a souvenir crystal marking the opening of a $6 million Maritime Recovery Coordination Center across several locations in Sri Lanka.
 
-இந்திய  வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கரின் இலங்கை விஜயத்தின் போது, இந்திய - இலங்கை உறவுகளில் மூன்று மைல்கற்கள் எட்டப்பட்டன.
+🟩
 
-இந்திய வீடமைப்புத் திட்டத்தின் கீழ் கண்டி, நுவரெலியா, மாத்தளை ஆகிய மாவட்டங்களில் 106 வீடுகளுக்கான நினைவுப் படிகங்களை ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் கலாநிதி ஜெய்சங்கர் ஆகியோர் கூட்டாக மெய்நிகர் ஊடாக திறந்துவைத்தனர்.
+Indian External Affairs Minister S.. Jaishankar met President Ranil Wickremesinghe.
 
-அத்துடன், கொழும்பு, திருகோணமலை ஆகிய நகரங்களிலுள்ள மாதிரிக் கிராமங்களிலுள்ள 24 வீடுகள் மெய்நிகர் ஊடாக பயனாளிகளிடம் கையளிக்கப்பட்டன.
+Indian Foreign Minister. During Jaishankar's visit to Sri Lanka, three milestones were reached in the Indo -Sri Lankan relations.
 
-இதேவேளை, 6 மில்லியன் டொலர் இந்திய நிதியுதவியுடன் இலங்கையில் கடல்சார் மீட்பு ஒருங்கிணைப்பு மையத்தை (MRCC) உத்தியோகபூர்வமாக ஆரம்பிப்பதைக் குறிக்கும் நினைவுப் படிகம் மெய்நிகர் ஊடாக திறந்துவைக்கப்பட்டது.
+Under the Indian Housing Scheme, President Ranil Wickremesinghe and Dr. Jaishankar jointly opened the memorial crystals for 106 houses in the districts of Kandy, Nuwara Eliya and Matale via Virtual.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் இந்திய வெளியுறவுத்துறை அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் ஆகியோர் இணைந்து இதனைத் திறந்துவைத்தனர்.
+In addition, 24 houses in sample villages in Colombo and Trincomalee have been handed over to the beneficiaries through virtuals.
 
-...
+Meanwhile, a souvenir crystal referring to the official launch of the Maritime Recovery Coordination Center (MRCC) in Sri Lanka with $ 6 million has been opened through virtual.
+
+President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Jaishankar opened it together.
+
+This includes a center at the Naval Headquarters in Colombo, a sub -center in Hambantota, Galle, nearby, Batticaloa, Trincomalee, Kallar, Point Pedro and Mallikulam.
+
+◼️
 
 [Data](articles/e3a63dde.json)
+
+[Extended Data](ext_articles/e3a63dde.ext.json)
 
 ---
 
@@ -196,33 +234,47 @@ This coordinating center also includes people of Colombo Naval Headquarters, Gal
 
 ---
 
-### திருகோணமலையில் அனுமதியற்ற வீதியோர கடைகளை அகற்றுவதற்கு நடவடிக்கை ..!
+### Action to remove unauthorized street shops in Trincomalee ..!
 
 *2024-06-20 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186544) · `ta`
 
-திருகோணமலை நகரசபை எல்லை மற்றும் பிரதேச சபைக்கு உட்பட்ட அனுமதியற்ற வீதி ஓரங்களில் காணப்படும் கடைகளை அகற்றி தருமாறு திருகோணமலை அநுராதபுர சந்தி பொதுச் சந்தை வியாபாரிகள், மரக்கறி பொதுச் சந்தை வியாபாரிகள் மற்றும் பேருந்து தரிப்பிட வியாபாரிகள் கவன ஈர்ப்பு ஆர்ப்பாட்டத்தை திருகோணமலை பேருந்து நிலையத்திற்கு முன்னாலும் ,  திருகோணமலை நகரசபை வளாகத்திற்கு முன்பாகவும் நேற்று புதன்கிழமை  (19) காலை  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Trincomalee Municipal Council and Pradeshiya Sabha met to discuss removing unauthorized street shops. A committee will be formed to handle this issue.
 
-இது தொடர்பாக உப்புவெளி பிரதேச சபை செயலாளர், உப்புவெளி காவல் நிலைய பொருப்பதிகாரி, தலைமை காவல் நிலைய போக்குவரத்து உத்தியோகத்தர் மற்றும் திருகோணமலை  நகரசபை செயலாளர் உள்ளடங்களாக வியாபாரிகள் 15 பேர்களுடன் கலந்துரையாடல் புதன்கிழமை திருகோணமலை நகரசபையில் இடம் பெற்றது.
+🟩
 
-கலந்துரையாடலில் அனுமதியற்ற வீதிக் கடைகளை அகற்றுவதற்கு தீர்மானிக்கப்பட்டதுடன் இதற்காக தனியான குழு ஒன்றினை அமைப்பதெனவும் முடிவு செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+The Trincomalee Municipal Council border and the Pradeshiya Sabha were staged in front of the Trincomalee Municipal Council on Wednesday morning at the Trincomalee Municipal Council and the Trincomalee Municipal Council premises on Wednesday morning at the Trincomalee Bus Stand and the Trincomalee Municipal Council.
+
+The meeting was held on Wednesday at the Trincomalee Municipal Council, including the Secretary of the Uppuweli Pradeshiya Sabha, the Uppuveli Police Station, Chief Police Transport Officer and the Secretary of the Trincomalee Municipal Council.
+
+It was decided to remove unauthorized road shops during the discussion and decided to set up a separate committee for this purpose.
 
 ◼️
 
 [Data](articles/a30647e3.json)
 
+[Extended Data](ext_articles/a30647e3.ext.json)
+
 ---
 
-### வவுனியாவில் சட்டவிரோதமாக வெட்டப்பட மரக்குற்றிகள் மீட்பு - ஒருவர் கைது
+### Recovery of illegal cuttings in Vavuniya - one arrested
 
 *2024-06-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186542) · `ta`
 
-வவுனியா மகாறம்பைக்குளம் பகுதியில் விற்பனைக்காக சட்டவிரோதமாக வெட்டப்பட்ட மரக்குற்றிகள் வவுனியா மாவட்ட குற்றத்தடுப்பு பிரிவினரால் (DCDB) இன்று வியாழக்கிழமை (20) காலை மீட்கப்பட்டுள்ளதுடன், அதேபகுதியைச் சேர்ந்த 30 வயதுடைய சந்தேக நபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
+In Vavuniya, a 30-year-old suspect was arrested by the District Crime Branch for illegal logging, recovering timber worth over Rs. 20 lakh. The suspect will face charges in court post-investigation.
 
-மீட்கப்பட்ட மரக்குற்றிகள் சுமார் 20 இலட்சம் ரூபாய்க்கும் மேற்பட்ட பெறுமதியானது என பொலிஸார் தெரிவிக்கின்றனர். இதேவேளை, சந்தேக நபர் வவுனியா பொலிஸாரிடம் ஒப்படைக்கப்பட்டு விசாரணைகளின் பின்னர் நீதிமன்றில் முன்னிலைப்படுத்தவுள்ளார்.
+🟩
 
-...
+A 30 -year -old suspect from the same area has been rescued by the Vavuniya District Crime Branch (DCDB) on Thursday morning (20).
+
+The rescued timber is worth more than Rs. 20 lakh, police said. Meanwhile, the suspect has been handed over to the Vavuniya police and will be produced before the court after investigations.
+
+On the orders of Senior Police Superintendent (SSP) Malin Ajantha Perera, on the orders of the Vavuniya Deputy Inspector General of Police (DIG), the Senior Police Inspector of Police, Gajendran44736, the police constables 78448, 34712 Herath, 28752 Sanath, 20569 Kumara, Namal Rum also arrestedSignificantly.
+
+◼️
 
 [Data](articles/7e7b55af.json)
+
+[Extended Data](ext_articles/7e7b55af.ext.json)
 
 ---
 
@@ -344,33 +396,45 @@ His most recent assignment is as Practice Manager for Urban, Disaster Risk Manag
 
 ---
 
-### யாழில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட நபர் கைது!
+### A man arrested for illegal liquor production in Jaffna
 
 *2024-06-20 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186537) · `ta`
 
-யாழ்ப்பாணத்தில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட நபர் ஒருவர் புதன்கிழமை (19)  கைது செய்யப்பட்டுள்ளார்.
+In Jaffna, a 31-year-old man was arrested for producing illegal liquor. The police raided a house in Chunnakam, seizing 200 liters of kota and 6 liters of illicit alcohol, along with equipment used for its production.
 
-சுன்னாகம் பகுதியில் உள்ள வீடொன்றில் சட்டவிரோத மதுபான உற்பத்தி இடம்பெறுவதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், குறித்த வீட்டை பொலிஸார் சுற்றி வளைத்த வேளை, 200 லீட்டர் கோடா மற்றும் 06 லீட்டர் சட்டவிரோத மதுபானம் மற்றும் சட்டவிரோத மதுபான உற்பத்திக்கு பயன்படுத்திய உபகரணங்கள் ஆகியவற்றை கைப்பற்றியுள்ளனர்.
+🟩
 
-அத்துடன் , குறித்த வீட்டில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட அளவெட்டி பகுதியை சேர்ந்த 31 வயதான நபர் ஒருவரையும் பொலிஸார் கைது செய்துள்ளனர்.
+A man has been arrested on Wednesday (19) in Jaffna.
+
+Based on confidential information available to the police that the police are making illegal liquor production in a house in the Chunnakam area, the police have seized the house, 200 liters of kota and 6 liters of illegal liquor and the use of illegal liquor production.
+
+Police have also arrested a 31 -year -old man from Alavetti, who was involved in illegal liquor production in the house.
 
 ◼️
 
 [Data](articles/fa3f69ec.json)
 
+[Extended Data](ext_articles/fa3f69ec.ext.json)
+
 ---
 
-### 24 மணி நேரத்தில் 161  பேருக்கு டெங்கு
+### Dengue for 161 in 24 hours
 
 *2024-06-20 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186540) · `ta`
 
-நாட்டில் கடந்த 24 மணி நேரத்தில் 161 டெங்கு நோயாளர்கள் பதிவாகியுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+In the past 24 hours, 161 new dengue cases were reported, bringing the total for the last 20 days to 2,044. This follows the record high of 2,647 cases reported in May.
 
-நாட்டில் கடந்த 20 நாட்களில் 2,044 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர். இதேவேளை, மே மாதத்தில் 2,647 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+🟩
+
+The National Dengue Control Division has reported that 161 dengue patients have been reported in the last 24 hours.
+
+2,044 dengue patients have been reported in the last 20 days in the country. Meanwhile, 2,647 dengue patients were reported in May.
 
 ◼️
 
 [Data](articles/f9e8e231.json)
+
+[Extended Data](ext_articles/f9e8e231.ext.json)
 
 ---
 
@@ -2253,25 +2317,5 @@ Speaking at the meeting, the motherland People's Party Leader Dilith Jayaweera s
 [Data](articles/8c79d134.json)
 
 [Extended Data](ext_articles/8c79d134.ext.json)
-
----
-
-### President says goal is to create a better future for children within next 5-10 years
-
-*2024-06-19 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99976/-president-says-goal-is-to-create-a-better-future-for-children-within-next-5-10-years) · `en`
-
-President Ranil Wickremesinghe says that a better country will be created for the children of Sri Lanka within the next 5-10 years.
-
-The President emphasized his commitment to ensuring that no child in the country will suffer, highlighting his dedication to resolving the economic crisis within a short span of two years.
-
-President Wickremesinghe made these remarks while addressing the ceremony for the awarding of Presidential scholarships held today (19) at Temple Trees, the President Media Division said.
-
-He stated that the Aswasuma program was implemented to provide income support to the people, while the Urumaya program was implemented to secure land rights. Additionally, he highlighted the launch of the Presidential Education Scholarship Program, aimed at ensuring educational opportunities for children.
-
-...
-
-[Data](articles/c691f163.json)
-
-[Extended Data](ext_articles/c691f163.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 14:05:55**
+As of **2024-06-20 14:19:22**
 
 ## Newspaper Stats
 
-*Scraped **31,307** Articles*
+*Scraped **31,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,731
-adaderanalk | 3,544
+adaderanalk | 3,545
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,847
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,087
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,306 (100.0%) of 31,307 articles have been extended.
+31,307 (100.0%) of 31,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### වසරේ ගතවූ මාස 6 තුළ මී උණ රෝගීන් 5,000ක්
+### 5,000 fever patients in the past 6 months
 
 *2024-06-20 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197953) · `si`
 
-වසරේ ගතවූ මාස 6 තුළ පමණක් මී උණ රෝගීන් 5,000ක් මෙරටින් වාර්තා වී ඇති බව වසංගත රෝග විද්‍යා අංශය පවසයි.
+In the last six months, Sri Lanka saw 5,000 cases of fever, according to the Epidemiology Unit.
+
+🟩
+
+The Epidemiology Unit says that 5,000 fever patients were reported in Sri Lanka only during the last six months of the year.
 
 ◼️
 
 [Data](articles/984406eb.json)
+
+[Extended Data](ext_articles/984406eb.ext.json)
 
 ---
 
@@ -113,6 +119,22 @@ Major General Rohiti Aluvihare has been appointed as the Chief of Army Staff.
 [Data](articles/4bc0169b.json)
 
 [Extended Data](ext_articles/4bc0169b.ext.json)
+
+---
+
+### New Chief of Staff of Sri Lanka Army appointed
+
+*2024-06-20 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99989/new-chief-of-staff-of-sri-lanka-army-appointed) · `en`
+
+Major General Rohitha Aluvihare has been appointed as the Chief of Staff of the Sri Lanka Army.
+
+Major General S. R. B. Aluvihare of the Vijayabahu Infantry Regiment had previously served as the Chief of Staff at the Office of the Chief of Defence Staff (OCDS) before being appointed as the General Officer Commanding of 11 Division, Pallekele.
+
+He had also served as Adjutant General of the Sri Lanka Army, Colonel of the Regiment of Vijayabahu Infantry Regiment and as the 18th Commander of Security Force (Central).
+
+◼️
+
+[Data](articles/f9ce2872.json)
 
 ---
 
@@ -527,6 +549,12 @@ He said that such incidents not only disrupt the livelihood of the fishermen, bu
 The visiting Indian External Affairs Minister Dr. S. Jaishankar has called on President Ranil Wickremesinghe at the President’s House a short while ago.
 
 Dr. S. Jaishankar is currently engaged in a one-on-one meeting with President Wickremesinghe, the President’s Media Division (PMD) said.
+
+Jaishankar arrived in Sri Lanka on an official visit this morning and was welcomed at the Bandaranaike International Airport (BIA) in Katunayake by Sri Lanka’s Minister of State for Foreign Affairs Tharaka Balasuriya and the Governor of Eastern Province Senthil Thondaman.
+
+During the visit, the Indian foreign minister is scheduled to have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, according to the Indian High Commission in Colombo.
+
+This is Jaishankar’s first bilateral visit after the formation of the new Government under Indian Prime Minister Shri Narendra Modi.
 
 ◼️
 
@@ -2291,31 +2319,5 @@ Nathasha Edirisooriya, a stand-up comedian known for her sharp wit and incisive 
 [Data](articles/9d3b8cf9.json)
 
 [Extended Data](ext_articles/9d3b8cf9.ext.json)
-
----
-
-### MoU signs the MoU of the Plan to develop
-
-*2024-06-19 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197934) · `si`
-
-Representatives from various sectors signed a strategic development plan for Sri Lanka's growth over 15 years, titled "Sri Lanka: The Solely Turned Developed 2025". The event included discussions on changing Sri Lanka's narrative and adopting advanced concepts from developing nations.
-
-🟩
-
-Understanding agreements on Strategic Development Plan for the development of the country in 15 years have been signed today (19).
-
-It was named "Sri Lanka is the Singly Turn Developed 2025".
-
-The event was attended by representatives, civil and mass organizations, social activists and professionals.
-
-Speaking at the meeting, the motherland People's Party Leader Dilith Jayaweera stated
-
-"The Motherland People's Party's knowledge of the future of the country. That's why we came and told that the narrative of Sri Lanka should change. The other thing is,. Developing states are improving on the concepts. "
-
-◼️
-
-[Data](articles/8c79d134.json)
-
-[Extended Data](ext_articles/8c79d134.ext.json)
 
 ---

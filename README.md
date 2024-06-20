@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 18:24:45**
+As of **2024-06-20 18:36:51**
 
 ## Newspaper Stats
 
-*Scraped **31,350** Articles*
+*Scraped **31,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,739
+adalk | 2,740
 adaderanalk | 3,551
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,859
-adaderanasinhalalk | 5,096
+adaderanasinhalalk | 5,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,349 (100.0%) of 31,350 articles have been extended.
+31,350 (100.0%) of 31,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### මත්පැන් විෂවී ඉන්දියාවේ 68ක් රෝහලේ - 29ක් මරුට
+
+*2024-06-20 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197964) · `si`
+
+මත්පැන් විෂ වීමෙන් ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්තයේ පුද්ගලයින් 29 දෙනෙක් මියගොස් තිබේ.
+
+කල්ලකුරිචි දිස්ත්‍රික්කයේ සිදුවූ මෙම සිද්ධියේදී තවත් පුද්ගලයින් 68 දෙනෙක් පමණ රෝගී වී රෝහල්ගත කර ඇති බව සඳහන් ය.
+
+මියගිය සහ රෝගී වූ පිරිස උදරයේ ඇතිවූ දැඩි වේදනාවකින් පීඩාවට පත්වී සිටි බවත් ඇස් විවෘත කිරීමට පවා නොහැකිව වේදනාවෙන් පසුව ඇති බවත් වාර්තා වෙයි.
+
+මත්පැන් අලෙවි කළ බවට සැකය මත පොලීසිය පුද්ගලයින් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/e640d8ac.json)
+
+---
 
 ### Heatwave kills nearly 200 homeless people in India’s capital, group says
 
@@ -47,6 +65,8 @@ A total of 192 homeless people died in New Delhi between June 11 and June 19, ac
 ...
 
 [Data](articles/fdc9cbea.json)
+
+[Extended Data](ext_articles/fdc9cbea.ext.json)
 
 ---
 
@@ -769,6 +789,20 @@ The case has been postponed till July 4, the Muttur court has responded to the M
 [Data](articles/fe4c78ee.json)
 
 [Extended Data](ext_articles/fe4c78ee.ext.json)
+
+---
+
+### මාර්තු 15ට පසුව ඩොලරයට ඉහළම අගය වාර්තා වෙයි
+
+*2024-06-20 14:23:37* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-15ට-පසුව-ඩොලරයට-ඉහළම-අගය-වාර්තා-වෙයි/11-410337) · `si`
+
+මේ වසරේ මාර්තු 15දාට පසුව ඩොලරයේ වැඩිම විකුණුම් අගය අද (20දා) වාර්ා විය.
+
+ඒ අද දිනයේදි ඩොලරයේ විකුණු අගය රු. 310.05ක් ලෙස වාර්තාවීමත් සමගිනි. මහ බැංකුව නිකුත් කළ විනිමය අනුපාත අගයන් අනුව ඩොලරයක ගැණුම් මිල අද දිනයේදී රුපියල් 300.63ක් ලෙස දැක්විය.
+
+◼️
+
+[Data](articles/ae3756bf.json)
 
 ---
 
@@ -2335,59 +2369,5 @@ The body of the deceased has been handed over to the Nedundevu Hospital and the 
 [Data](articles/eb25c1e7.json)
 
 [Extended Data](ext_articles/eb25c1e7.ext.json)
-
----
-
-### Another report to Human Rights Council on Sri Lanka
-
-*2024-06-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197940) · `si`
-
-The US, UK, Canada, Malawi, Montenegro, and North Macedonia have submitted a report to the UN Human Rights Council on Sri Lanka, highlighting human rights abuses and forced disappearances. They commend the council's High Commissioner for addressing these issues and note the Sri Lankan government's request to implement recommended actions. The report also addresses concerns over internet censorship and calls for the release of individuals held in high-security zones in Jaffna. Additionally, these countries are conducting joint investigations into arbitrary arrests during the 56th session of the council.
-
-🟩
-
-The United States, Britain, Canada, Malawi, Montenegro and Northern Macedonia Group have submitted a report on Sri Lanka to the UN Human Rights Council.
-
-The report was presented in parallel to the 56th session of the UN Human Rights Council.
-
-It thanked the United Nations Human Rights Council High Commissioner to the United Nations Human Rights Council for the human rights violations of Sri Lanka and forcibly disappearances.
-
-The group has informed the group that the Government of Sri Lanka requests the implementation of the recommendations made by the High Commissioner.
-
-The report states that the repression of terrorism and the introduction of internet security is a form of freedom of the publication of everyone as well as human rights.
-
-They have been told to release their lives on the release of land release of the land of high security lands in Jaffna.
-
-...
-
-[Data](articles/cffe3e9a.json)
-
-[Extended Data](ext_articles/cffe3e9a.ext.json)
-
----
-
-### Prison officials engaged in union action points
-
-*2024-06-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197939) · `si`
-
-Prison officials face disciplinary action for engaging in trade unions, lacking legal rights to do so according to Commissioner Gamini B Dissanayake. Measures will be taken against those involved, including addressing intimidation within the ranks.
-
-🟩
-
-The Prison Department says that severe disciplinary action will be taken against the officers engaged in the trade union action.
-
-Its spokesman, Commissioner of Prisons Gamini B Dissanayake said that the prison officials have no legal right to engage in trade union action.
-
-Gamini B. Dissanayake said that he will take measures of such measures.
-
-Meanwhile, Prisons Commissioner Gamini B Dissanayake made these measures regarding the procedures involved in the trade union officials recently.
-
-"We have reported that a few minorities have intimidated others. The Colombo Magistrate ordered to be disciplined. A senior officer of the official is acting as disciplinary. The court expects to report this in the future. "
-
-◼️
-
-[Data](articles/d0362912.json)
-
-[Extended Data](ext_articles/d0362912.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 02:34:57**
+As of **2024-06-21 02:53:25**
 
 ## Newspaper Stats
 
-*Scraped **31,404** Articles*
+*Scraped **31,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 310
 newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,819
-dailyftlk | 1,914
+dailyftlk | 1,916
 adalk | 2,745
 adaderanalk | 3,555
 tamilmirrorlk | 3,691
@@ -26,71 +26,121 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,400 (100.0%) of 31,404 articles have been extended.
+31,404 (100.0%) of 31,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### அவுஸ்திரேலியா - பங்களாதேஷ் அணிகள் மோதும் சுப்பர் 8 போட்டி
+### RW’s ETB and NPP’s ST
+
+*2024-06-21 02:29:33* · [`dailyftlk`](https://www.ft.lk/columns/RW-s-ETB-and-NPP-s-ST/4-763315) · `en`
+
+RW’s Economic Transformation Bill (ETB) passed in Parliament aims to reach an economic growth target of 5% by 2027 and 8% thereafter for 15 years. ETB has been hailed as an ambitious yet achievable agenda for promoting sustainable development, enhancing productivity, social progress, and creating equal opportunities for all citizens. These objectives are expected to be achieved through a series of institutions such as the Economic Commission of Sri Lanka, Investment Zones, Office of International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and Trade.
+
+...
+
+[Data](articles/ac0119fa.json)
+
+---
+
+### Unifying the country via macroeconomic fundamentals to resolve economic crisis soon
+
+*2024-06-21 02:25:18* · [`dailyftlk`](https://www.ft.lk/opinion/Unifying-the-country-via-macroeconomic-fundamentals-to-resolve-economic-crisis-soon/14-763314) · `en`
+
+If we want to increase capital formation and consumption allocation on a continuous basis, the only thing we have to do is expand the entrepreneurial base and entrepreneurial activity
+
+...
+
+[Data](articles/d033570a.json)
+
+---
+
+### Australia - Bangladesh teams clash
 
 *2024-06-21 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186608) · `ta`
 
-மூவகை சர்வதேச கிரிக்கெட் போட்டிககளில் ஐசிசி வெற்றிக் கிண்ணங்களை தொடர்ச்சியாக சுவீகரித்த முதலாவது நாடு என்ற பெருமையை தனதாக்கிக்கொள்ளும் குறிக்கோளுடன் அவுஸ்திரேலியா, குழு 1க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியை எதிர்கொள்ளவுள்ளது.
+Australia, aiming to become the first to win the ICC trophy in the T20 World Cup, faces Bangladesh in its opening Super 8 match. Australia, champions in the ICC World Test Championships and 50 World Cup, dominates Bangladesh, having won all previous encounters in the T20 format. The match takes place today at the Antigua, North Sound Sr. Vivian Richards Stadium. Despite Bangladesh's early victory against the Netherlands and loss to South Africa, Australia remains favored due to its strong batting lineup, including centuries from players like David Warner and Travis Head, and excellent bowling performance led by Adam Zampa and Macass Stoinis.
 
-ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பிலும் அதனைத் தொடர்ந்து ஐசிசி 50 ஓவர் உலகக் கிண்ணப் போட்டியிலும் அவுஸ்திரேலியா கடந்த வருடம் சம்பியன் பட்டங்களை சூடியிருந்தது.
+🟩
 
-குழு 1இல் 3 ஆசிய நாடுகளுடன் மோதவுள்ள அவுஸ்திரேலியா தனது முதலாவது சுப்பர் 8 போட்டியில் பங்களாதேஷை சந்திக்கிறது.
+Australia will face the Super 8 R20 World Cup for Australia and Group 1 with the aim of becoming the first country to win the ICC winning bowls in the three -day international cricket tournament.
 
-இந்தப் போட்டி அன்டிகுவா, நோர்த் சவுண்ட் சேர் விவியன் றிச்சர்ட்ஸ் விளையாட்டரங்கில் இன்று வெள்ளிக்கிழமை (21) காலை நடைபெறவுள்ளது.
+Australia made champion titles last year in the ICC World Test Championships and the ICC 50 World Cup.
 
-இந்த இரண்டு அணிகளும் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டிகளில் சந்தித்துக்கொண்ட 5 சந்தர்ப்பங்களிலும் அவுஸ்திரலியா இலகுவாக வெற்றி பெற்றிருந்தது.
+Australia meets Bangladesh in its first Super 8 match, which will clash with 3 Asian countries in Group 1.
 
-சர்வதேச ரி20 அரங்கிலும் அவுஸ்திரேலியா 6 - 4 என்ற  ஆட்டங்கள் அடிப்படையில் முன்னிலையில் இருக்கிறது.
+The tournament will be held this morning at the Antigua, North Sound Sr. Vivian Richards Stadium.
+
+Australia has easily won the five occasions that the two teams have met in the T20 World Cup.
+
+Australia is in the international T20s and is based on Australia 6 - 4.
+
+In the first round of this year's R20 World Cup, Australia were easily won by Oman, England, Namibia and Scotland in their four matches.
+
+Bangladesh won the starting match in the T team and lost to South Africa in the next match.. However, in the last two matches, the Netherlands and Nepal advanced to Super 8.
 
 ...
 
 [Data](articles/7132e1eb.json)
 
+[Extended Data](ext_articles/7132e1eb.ext.json)
+
 ---
 
-### நெடுந்தீவு இளைஞர் கொலைச் சம்பவத்துடன் தொடர்புடைய  சந்தேக நபர்கள் நால்வரில் ஒருவர் கைது!
+### One of the four suspects arrested in connection with the murder of a youth
 
 *2024-06-21 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186607) · `ta`
 
-நெடுந்தீவு இளைஞர் கொலைச் சம்பவத்துடன் தொடர்புடைய நால்வரை பொலிசார் தேடி வருகின்ற நிலையில் ஒரு சந்தேக நபர் காயங்களுடன் கைது செய்யப்பட்டுள்ளார்.
+A suspect, injured, was arrested among four linked to a youth's murder. He's hospitalized in Jaffna Teaching Hospital. Police hunt the remaining three, including one directly involved in the killing.
 
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட சந்தேக நபரும் சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டார்.
+🟩
 
-இக்கொலையுடன் சம்பந்தப்பட்ட நான்கு சந்தேக நபர்களில் ஒருவர் கைது செய்யப்பட்ட நிலையில் ஏனைய மூன்று சந்தேக நபர்களையும் தேடி கைது செய்யும் முயற்சியில் பொலிசார் ஈடுபட்டுள்ளனர்
+A suspect has been arrested with injuries as police are searching for four people in connection with the murder of a youth.
+
+The suspect was also sent to the Jaffna Teaching Hospital for treatment.
+
+The police are trying to arrest the other three suspects, with one of the four suspects involved in the murder.
 
 ◼️
 
 [Data](articles/2b0a4895.json)
 
+[Extended Data](ext_articles/2b0a4895.ext.json)
+
 ---
 
-### சூரியகுமார், பும்ரா அபார ஆற்றல்கள்; ஆப்கனை 47 ஓட்டங்களால் வென்றது இந்தியா
+### Suriyakumar, Bumrah Abara Power;India won Afghan by 47 runs
 
 *2024-06-21 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186606) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுக்கு வந்த குழு 1க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் 47 ஓட்டங்களால் இந்தியா மிக இலகுவாக  வெற்றிபெற்றது.
+In the Super 8 T20 World Cup Group 1 final at Barbados' Kensington Oval Stadium, India triumphed over Afghanistan by 47 runs. Suryakumar Yadav's second consecutive century and Jasprit Bumrah's bowling prowess were key to India's win. India scored 181/8 in 20 overs, with Suryakumar Yadav contributing 53 runs and Hardik Pandya 32. Afghanistan was restricted to 134/10, with Rashid Khan taking 3/28 and Bumrah 3/7.
 
-சூரியகுமார் யாதவ் குவித்த தொடர்ச்சியான இரண்டாவது அரைச் சதம், ஜஸ்ப்ரிட் பும்ரா உட்பட பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சு என்பன இந்தியாவின் வெற்றியை இலகுவாக்கின.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இந்தியா 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 181 ஓட்டங்களைப் பெற்றது.
+India won by 47 runs in the Super 8 T20 World Cup for the Group 1, which came to an end at the Barbados and Brijdown Kensington Oval Stadium against Afghanistan.
 
-ரோஹித் ஷர்மா (8) முதலில் ஆட்டம் இழந்த பின்னர் ரிஷாப் பான்டுடன் 2ஆவது விக்கெட்டில் விராத் கோஹ்லி 43 ஓட்டங்களைப் பகிர்ந்தார்.
+The second semi -century consecutive seventh consecutive consecrations by Suriyakumar Yadav and the control of bowlers, including Jasprit Bumrah, made India's victory.
 
-இந்த வருட உலகக் கிண்ணத்தில் முதல் 3 போட்டிகளில் துடுப்பாட்டத்தில் பிரகாசிக்கத் தவறிய விராத் கோஹ்லி இந்தப் போட்டியில் 24 பந்துகளில் 24 ஓட்டங்களைப் பெற்றார்.
+India won the first match and scored 181 runs for the loss of 8 wickets in 20 overs.
 
-அவரைத் தொடர்ந்து ஷிவம் டுபே 10 ஓட்டங்களை மாத்திரம் பெற்றார். (90- 4 விக்.)
+Rohit Sharma (8) Virat Kohli shared 43 runs in the 2nd wicket with Rishabh Banta after the first player.
 
-இந் நிலையில் சூரியகுமார் யாதவ், ஹார்திக் பாண்டியா ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 60 ஓட்டங்களைப் பகிர்ந்து அணிக்கு தெம்பூட்டினர்.
+Virat Kohli, who failed to shine in the first three matches in the World Cup this year, scored 24 runs off 24 balls.
+
+Shivam Dubey scored only 10 runs. (90- 4 wig.)
+
+Suriyakumar Yadav and Hardik Pandya both shared 60 runs in the 5th wicket.
+
+Suriyakumar Yadav scored 53 runs with 5 pounds, 3 sixes, Hardik Pandya 32 and 32 with 2 sixes.
+
+In the bowling, Rashid Khan took 3 wickets for 28 runs while Basalhak Baruchi took 3 wickets for 33 runs.
 
 ...
 
 [Data](articles/a1143e0e.json)
+
+[Extended Data](ext_articles/a1143e0e.ext.json)
 
 ---
 
@@ -538,17 +588,25 @@ Representatives of foreign swamp who attended the WLI Asia Oceania conference pa
 
 ---
 
-### கோத்தாபய  அரசாங்கத்தில் இடை நிறுத்தப்பட்ட வீட்டமைப்புத் திட்டங்களை மீண்டும் ஆரம்பியுங்கள் -    சஜித் சபையில்
+### Resume the Housing Plans suspended in the Gotabhaya government - in the Sajith Sabha
 
 *2024-06-20 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186570) · `ta`
 
-அரசியல் பழிவாங்கும் நோக்கில் நல்லாட்சி அரசாங்கத்தில் முன்னெடுக்கப்பட்ட பல வீட்டுத்திட்டங்கள் இடைநிறுத்தப்பட்டுள்ளன. இதுதொடர்பாக கவனம் செலுத்தி இதனால் பாதிக்கப்பட்டுள்ள பயனாளிகளுக்கு நீதியை பெற்றுக்கொடுக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+In the Sajith Sabha, it was highlighted that numerous housing projects initiated during the Gotabhaya Rajapaksa administration were suspended, allegedly as political retaliation. This decision impacted thousands of families, many of whom had ceased receiving aid from India. Opposition Leader Sajith Premadasa called for the government to address this issue, ensuring justice for those affected and facilitating the completion of their homes. The President recently approved funds for these projects, expressing confidence in their implementation under the United People's Power Government.
 
-2019 ஜனாதிபதித் தேர்தலுக்குப் பிறகு, எமது நாட்டில் முன்னெடுக்கப்பட்டு வந்த ஏராளமான வீட்டுத் திட்டங்கள் ஒரே நேரத்தில் இடை நிறுத்தப்பட்டன. இதன்கீழ் இலட்சக்கணக்கில் வீடுகள் நிர்மாணிக்க வழங்கப்பட்ட நிலுவைத் தவணை கூட இடை நிறுத்தப்பட்டுள்ளன. இதனால் இலட்சக்கணக்கான மக்கள் இடம்பெயர்ந்துள்ளனர். இந்த வீடமைப்புத் திட்டங்களால் பயனடைந்தவர்களுக்கு இந்தியாவில் இருந்து பெறப்படும் உதவிகள் கூட நிறுத்தப்பட்டுள்ளது .
+🟩
+
+Several housing projects in the government of goodwill have been suspended for political revenge. Opposition Leader Sajith Premadasa said the government should take action to provide justice to the beneficiaries affected by this.
+
+After the 2019 presidential election, a large number of housing projects being carried out in our country were suspended simultaneously. Thousands of hundreds of thousands of houses have been suspended. Thus the displaced millions of people have been displaced. Those who have benefited from these housing projects have even stopped assistance from India.
+
+This was carried out as a political revenge when Gotabhaya Rajapakse became president. Even the people of the North East have informed me about this. I urge the government to focus on this, as there is a large number of people who are not able to get the rest of the installment and to complete the houses.
 
 ...
 
 [Data](articles/e898e315.json)
+
+[Extended Data](ext_articles/e898e315.ext.json)
 
 ---
 
@@ -2299,45 +2357,5 @@ In addition, Kalinga Kumara, who participated in the men's 400m race in the comp
 [Data](articles/f7da6a7b.json)
 
 [Extended Data](ext_articles/f7da6a7b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186548) · `ta`
-
-On June 20, the US dollar sold for 300.6388 and bought back for 310.0538.
-
-🟩
-
-The US dollar sales price was 300.6388 and the purchase price was 310.0538 on Thursday (June 20).
-
-◼️
-
-[Data](articles/2c39cfbe.json)
-
-[Extended Data](ext_articles/2c39cfbe.ext.json)
-
----
-
-### Marine rescue coordinating center for Sri Lanka
-
-*2024-06-20 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197951) · `si`
-
-Sri Lanka's Marine Rescue Coordinating Center, funded by India, was inaugurated today with President Ranil Wickremesinghe and Indian officials present. The center, involving personnel from various naval headquarters across the country, aims to enhance maritime safety and rescue operations.
-
-🟩
-
-The official rescue coordinating center in Sri Lanka (MRCC) was established today (20) under an Indian grant.
-
-President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Mr. Jeeashnhar exposed the digital commemorative plaque.
-
-This coordinating center also includes people of Colombo Naval Headquarters, Galle, Arugambay, Batticaloa, Kallra, Kalura, Point Pedro and Molliculam.
-
-◼️
-
-[Data](articles/1d8a46a8.json)
-
-[Extended Data](ext_articles/1d8a46a8.ext.json)
 
 ---

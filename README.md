@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 02:53:25**
+As of **2024-06-21 03:04:16**
 
 ## Newspaper Stats
 
-*Scraped **31,406** Articles*
+*Scraped **31,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 310
 newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,819
-dailyftlk | 1,916
+dailyftlk | 1,917
 adalk | 2,745
 adaderanalk | 3,555
 tamilmirrorlk | 3,691
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,404 (100.0%) of 31,406 articles have been extended.
+31,406 (100.0%) of 31,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024
+
+*2024-06-21 02:38:48* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-the-polycrisis-Linkages-and-synergies-between-Rio-Conventions-in-2024/4-763317) · `en`
+
+In 2024, all three Rio Conventions are convening to address their respective aspects of the global polycrisis
+
+The global challenge of climate change is deeply interconnected with other global crises and issues. Biodiversity and ecosystem loss as well as land degradation due to desertification and drought are all part of the overall “polycrisis” facing humanity in the 21st Century. In particular, vulnerable developing countries such as Sri Lanka are exposed to serious and intertwined threats to critical sectors such as agriculture, tourism, or the coastal zone.
+
+...
+
+[Data](articles/1a831d44.json)
+
+---
 
 ### RW’s ETB and NPP’s ST
 
@@ -41,6 +55,8 @@ RW’s Economic Transformation Bill (ETB) passed in Parliament aims to reach an 
 ...
 
 [Data](articles/ac0119fa.json)
+
+[Extended Data](ext_articles/ac0119fa.ext.json)
 
 ---
 
@@ -53,6 +69,8 @@ If we want to increase capital formation and consumption allocation on a continu
 ...
 
 [Data](articles/d033570a.json)
+
+[Extended Data](ext_articles/d033570a.ext.json)
 
 ---
 
@@ -2331,31 +2349,5 @@ This includes a centre at Navy Headquarters in Colombo, a sub-centre in Hambanto
 [Data](articles/b8396af7.json)
 
 [Extended Data](ext_articles/b8396af7.ext.json)
-
----
-
-### Tarushi Karunaratne and Kalinga Kumara returned to the country
-
-*2024-06-20 12:44:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தருஷி-கருணாரத்ன-கலிங்க-குமார-நாடு-திரும்பினர்/44-339176) · `ta`
-
-Tarushi Karunaratne won a silver medal in the 600m race at the International Athletics Championships in Spain, achieving the fastest time in Asia and ranking 45th globally. Kalinga Kumara secured a bronze medal in the men's 400m race, placing him 53rd in the world rankings. Both athletes arrived at the Katunayake airport and will compete in upcoming tournaments, potentially enhancing their world rankings.
-
-🟩
-
-Tarushi Karunaratne, who participated in the International Athletics Championships in Spain, received a silver medal and Kalinga Kumara Bronze Medal and arrived at the Katunayake airport this morning (20).  இந்தப் போட்டி ஸ்பெயினில்  "பில்பாவோ"வில் நடைபெற்றது.
-
-Tarushi Karunaratne, who participated in the 600m race, completed the match in 01.24.84 minutes and won the silver medal.
-
-This is the best time registered for this event in Asia, with this victory Tarushi Karunaratne is ranked 45th in the World Ranking.
-
-Tarushi Karunaratne has had the opportunity to participate in the Olympic Games up to 48th in the world rankings and this has passed the status of Tarushi Karunaratne.
-
-In addition, Kalinga Kumara, who participated in the men's 400m race in the competition, completed the competition in 45.91 seconds and won the bronze medal..  இந்த வெற்றியின் மூலம் கலிங்க குமார உலக தரவரிசையில் 53வது இடத்தை எட்டியுள்ளார்.
-
-...
-
-[Data](articles/f7da6a7b.json)
-
-[Extended Data](ext_articles/f7da6a7b.ext.json)
 
 ---

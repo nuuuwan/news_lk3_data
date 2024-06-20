@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 13:19:09**
+As of **2024-06-20 13:35:07**
 
 ## Newspaper Stats
 
-*Scraped **31,297** Articles*
+*Scraped **31,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,544
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
 virakesarilk | 4,839
-adaderanasinhalalk | 5,085
+adaderanasinhalalk | 5,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,296 (100.0%) of 31,297 articles have been extended.
+31,297 (100.0%) of 31,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### යුද හමුදා නව මාණ්ඩලික ප්‍රධානී පත් කෙරේ
+
+*2024-06-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197952) · `si`
+
+යුද හමුදා මාණ්ඩලික ප්‍රධානී ධුරය සඳහා මේජර් ජෙනරාල් රෝහිත අලුවිහාරේ මහතාව පත්කර තිබේ.
+
+◼️
+
+[Data](articles/4bc0169b.json)
+
+---
 
 ### President Ranil and FM Jaishankar jointly unveil key India-funded projects in Sri Lanka
 
@@ -80,19 +92,25 @@ In addition, Kalinga Kumara, who participated in the men's 400m race in the comp
 
 ---
 
-### ශ්‍රී ලංකාවට සමුද්‍රීය ගලවා ගැනීමේ සම්බන්ධීකරණ මධ්‍යස්ථානයක්
+### Marine rescue coordinating center for Sri Lanka
 
 *2024-06-20 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197951) · `si`
 
-ඩොලර් මිලියන 6ක ඉන්දීය ප්‍රදානයක් යටතේ ස්ථාපිත ශ්‍රී ලංකාවේ සමුද්‍රීය ගලවා ගැනීමේ සම්බන්ධීකරණ මධ්‍යස්ථානය (MRCC) නිල වශයෙන් ආරම්භ කිරීම අද (20) සිදු කළේය.
+Sri Lanka's Marine Rescue Coordinating Center, funded by India, was inaugurated today with President Ranil Wickremesinghe and Indian officials present. The center, involving personnel from various naval headquarters across the country, aims to enhance maritime safety and rescue operations.
 
-එය සනිටුහන් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා එක්ව ඊට අදාළ ඩිජිටල් සමරු ඵලකය නිරාවරණය කළහ.
+🟩
 
-මෙම සම්බන්ධිකරණ මධ්‍යස්ථානයට කොළඹ නාවික හමුදා මූලස්ථානයේ මධ්‍යස්ථානයක්, හම්බන්තොට උප මධ්‍යස්ථානයක් ඇතුළුව ගාල්ල, ආරුගම්බේ, මඩකලපුව, ත්‍රිකුණාමලය, කල්ලරාව, පේදුරුතුඩුව සහ මොල්ලිකුලම් යන ප්‍රදේශ ආශ්‍රිත මිනිසුන් රහිත සවිකිරීම් ද ඇතුළත් වේ.
+The official rescue coordinating center in Sri Lanka (MRCC) was established today (20) under an Indian grant.
+
+President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Mr. Jeeashnhar exposed the digital commemorative plaque.
+
+This coordinating center also includes people of Colombo Naval Headquarters, Galle, Arugambay, Batticaloa, Kallra, Kalura, Point Pedro and Molliculam.
 
 ◼️
 
 [Data](articles/1d8a46a8.json)
+
+[Extended Data](ext_articles/1d8a46a8.ext.json)
 
 ---
 
@@ -2273,29 +2291,5 @@ The delegation’s visit kicked off with a comprehensive networking session desi
 [Data](articles/b9b69b29.json)
 
 [Extended Data](ext_articles/b9b69b29.ext.json)
-
----
-
-### Beaten in the postal place
-
-*2024-06-19 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197932) · `si`
-
-Five post office employees were arrested for attacking their Paradura Post Master, based on a complaint from the Post Master's OIC, following a work-related dispute. They've been released on bail and referred to the Mediation Board.
-
-🟩
-
-Five employees of the post office have been arrested today about five employees of the post office regarding the attack on the Paradura Post Master.
-
-The suspects have been arrested on complaints made by the Post Master's OIC.
-
-The attack was carried out based on a conversation on duty in the recent strike, police said.
-
-The suspects have been released on police bail and have been sent to the Mediation Board, a senior police officer said.
-
-◼️
-
-[Data](articles/79d3156f.json)
-
-[Extended Data](ext_articles/79d3156f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 13:35:07**
+As of **2024-06-20 13:54:02**
 
 ## Newspaper Stats
 
-*Scraped **31,298** Articles*
+*Scraped **31,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,76 @@ adalk | 2,731
 adaderanalk | 3,544
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
-virakesarilk | 4,839
+virakesarilk | 4,847
 adaderanasinhalalk | 5,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,297 (100.0%) of 31,298 articles have been extended.
+31,298 (100.0%) of 31,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### යුද හමුදා නව මාණ්ඩලික ප්‍රධානී පත් කෙරේ
+### ஒரு நாடு தாக்கப்பட்டால் மற்றைய நாடு உடனடியாக இராணுவ உதவியை வழங்க வேண்டும் - ரஷ்யாவிற்கும் வடகொரியாவிற்கும் இடையில் இணக்கப்பாடு- ஒப்பந்தம் கைச்சாத்தானது
+
+*2024-06-20 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186555) · `ta`
+
+ரஷ்யாவும் வடகொரியாவும் பரஸ்பரம் ஒருநாடு தாக்கப்பட்டால் மற்றைய நாடு உடனடி இராணுவ உதவியை  உடனடியாக வழங்குவதற்கான உடன்படிக்கையில் கைச்சாத்திட்டுள்ளன.
+
+ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினின் வடகொரிய விஜயத்தின்போது இரு நாடுகளின் தலைவர்களும் இந்த உடன்படிக்கையில் கைச்சாத்திட்டுள்ளனர்.
+
+இரண்டு நாடுகளிற்கும் இடையில் கடந்த பல வருடங்களாக கைச்சாத்திடப்பட்ட உடன்படிக்கைகளில் இதுவே மிக முக்கியமானது என சிஎன்என் தெரிவித்துள்ளது.
+
+மேலும் இந்த உடன்படிக்கை பனிப்போர்காலத்தின் 1961ம் ஆண்டு பரஸ்பர பாதுகாப்பு உறுதிமொழிக்கு மீண்டும் உயிர்கொடுக்கும் முயற்சி என சிஎன்என் தெரிவித்துள்ளது.
+
+மேலும் இந்த உடன்படிக்கை ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் வீட்டோ அதிகாரத்தை கொண்டுள்ள நாட்டுடன் வடகொரிய ஜனாதிபதியின் உறவுகளை வலுப்படுத்தியுள்ளது.
+
+இரண்டு நாடுகளில் ஒரு நாடு இராணுவரீதியான நடவடிக்கையை எதிர்கொண்டால் மற்றைய நாடு உடனடியாக இராணுவ உதவியையும் ஏனைய உதவிகளையும் வழங்கவேண்டும் என உடன்படிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ee5998bc.json)
+
+---
+
+### இலங்கையின் வடக்குகிழக்கு பகுதிகளில் காணிகளை அபகரிக்கும்  நடவடிக்கைகளால்  பதற்ற நிலை- ஜெனீவாவில் இணை அனுசரணை நாடுகள் கவலை
+
+*2024-06-20 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186550) · `ta`
+
+இலங்கையில் நீதித்துறையின் சுதந்திரத்தை பாதுகாக்கவேண்டும் என ஐக்கிய நாடுகள் மனித உரிமை பேரவையில் இலங்கை தொடர்பான தீர்மானத்திற்கு இணைஅனுசரணை வழங்கிய நாடுகள் வேண்டுகோள் விடுத்துள்ளன.
+
+ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் 56 அமர்வில் கனடா மலாவி மொன்டிநீக்ரோ வடமசடோனியா ஐக்கிய இராச்சியம் அமெரிக்கா ஆகிய நாடுகள் இந்த வேண்டுகோளை விடுத்துள்ளன.
+
+ஐக்கிய இராச்சியத்தின் மனித உரிமை தூதுவர் ரிட்டா பிரென்ஞ் இந்த அறிக்கையை வெளியிட்டுள்ளார்.
+
+இலங்கையில் மனித உரிமை மீறல்களில் ஈடுபட்டவர்கள் தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்படுதல் மிக நீண்டகாலமாக காணப்படுவதை வெளிப்படுத்திய இலங்கையின் பலவந்தமாக காணாமல்போதல் குறித்த உங்கள் அறிக்கைக்கு நன்றி என அவர் தெரிவித்துள்ளார்.
+
+பலவந்தமாக காணாமல்போகச்செய்யப்பட்டதால் ஏற்பட்ட துயரங்களிற்கும் அதனால் அனைத்து சமூகங்களிற்கும் ஏற்பட்ட பாதிப்புகளிற்கும் தீர்வை காண்பதற்காக ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் அறிக்கையில் காணப்படும் பரிந்துரைகளை நடைமுறைப்படுத்துமாறு நாங்கள் கேட்டுக்கொள்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/81eff24f.json)
+
+---
+
+### Army is appointed new Staff
 
 *2024-06-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197952) · `si`
 
-යුද හමුදා මාණ්ඩලික ප්‍රධානී ධුරය සඳහා මේජර් ජෙනරාල් රෝහිත අලුවිහාරේ මහතාව පත්කර තිබේ.
+Major General Rohiti Aluvihare named Chief of Army Staff.
+
+🟩
+
+Major General Rohiti Aluvihare has been appointed as the Chief of Army Staff.
 
 ◼️
 
 [Data](articles/4bc0169b.json)
+
+[Extended Data](ext_articles/4bc0169b.ext.json)
 
 ---
 
@@ -92,6 +140,40 @@ In addition, Kalinga Kumara, who participated in the men's 400m race in the comp
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186548) · `ta`
+
+இன்று வியாழக்கிழமை (ஜூன் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 300.6388 ஆகவும் கொள்வனவு விலை ரூபா 310.0538 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2c39cfbe.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் !
+
+*2024-06-20 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186543) · `ta`
+
+உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இலங்கைக்கு வருகை தந்துள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் சற்றுமுன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்தார்.
+
+இந்திய  வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கரின் இலங்கை விஜயத்தின் போது, இந்திய - இலங்கை உறவுகளில் மூன்று மைல்கற்கள் எட்டப்பட்டன.
+
+இந்திய வீடமைப்புத் திட்டத்தின் கீழ் கண்டி, நுவரெலியா, மாத்தளை ஆகிய மாவட்டங்களில் 106 வீடுகளுக்கான நினைவுப் படிகங்களை ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் கலாநிதி ஜெய்சங்கர் ஆகியோர் கூட்டாக மெய்நிகர் ஊடாக திறந்துவைத்தனர்.
+
+அத்துடன், கொழும்பு, திருகோணமலை ஆகிய நகரங்களிலுள்ள மாதிரிக் கிராமங்களிலுள்ள 24 வீடுகள் மெய்நிகர் ஊடாக பயனாளிகளிடம் கையளிக்கப்பட்டன.
+
+இதேவேளை, 6 மில்லியன் டொலர் இந்திய நிதியுதவியுடன் இலங்கையில் கடல்சார் மீட்பு ஒருங்கிணைப்பு மையத்தை (MRCC) உத்தியோகபூர்வமாக ஆரம்பிப்பதைக் குறிக்கும் நினைவுப் படிகம் மெய்நிகர் ஊடாக திறந்துவைக்கப்பட்டது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் இந்திய வெளியுறவுத்துறை அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் ஆகியோர் இணைந்து இதனைத் திறந்துவைத்தனர்.
+
+...
+
+[Data](articles/e3a63dde.json)
+
+---
+
 ### Marine rescue coordinating center for Sri Lanka
 
 *2024-06-20 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197951) · `si`
@@ -111,6 +193,36 @@ This coordinating center also includes people of Colombo Naval Headquarters, Gal
 [Data](articles/1d8a46a8.json)
 
 [Extended Data](ext_articles/1d8a46a8.ext.json)
+
+---
+
+### திருகோணமலையில் அனுமதியற்ற வீதியோர கடைகளை அகற்றுவதற்கு நடவடிக்கை ..!
+
+*2024-06-20 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186544) · `ta`
+
+திருகோணமலை நகரசபை எல்லை மற்றும் பிரதேச சபைக்கு உட்பட்ட அனுமதியற்ற வீதி ஓரங்களில் காணப்படும் கடைகளை அகற்றி தருமாறு திருகோணமலை அநுராதபுர சந்தி பொதுச் சந்தை வியாபாரிகள், மரக்கறி பொதுச் சந்தை வியாபாரிகள் மற்றும் பேருந்து தரிப்பிட வியாபாரிகள் கவன ஈர்ப்பு ஆர்ப்பாட்டத்தை திருகோணமலை பேருந்து நிலையத்திற்கு முன்னாலும் ,  திருகோணமலை நகரசபை வளாகத்திற்கு முன்பாகவும் நேற்று புதன்கிழமை  (19) காலை  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+இது தொடர்பாக உப்புவெளி பிரதேச சபை செயலாளர், உப்புவெளி காவல் நிலைய பொருப்பதிகாரி, தலைமை காவல் நிலைய போக்குவரத்து உத்தியோகத்தர் மற்றும் திருகோணமலை  நகரசபை செயலாளர் உள்ளடங்களாக வியாபாரிகள் 15 பேர்களுடன் கலந்துரையாடல் புதன்கிழமை திருகோணமலை நகரசபையில் இடம் பெற்றது.
+
+கலந்துரையாடலில் அனுமதியற்ற வீதிக் கடைகளை அகற்றுவதற்கு தீர்மானிக்கப்பட்டதுடன் இதற்காக தனியான குழு ஒன்றினை அமைப்பதெனவும் முடிவு செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a30647e3.json)
+
+---
+
+### வவுனியாவில் சட்டவிரோதமாக வெட்டப்பட மரக்குற்றிகள் மீட்பு - ஒருவர் கைது
+
+*2024-06-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186542) · `ta`
+
+வவுனியா மகாறம்பைக்குளம் பகுதியில் விற்பனைக்காக சட்டவிரோதமாக வெட்டப்பட்ட மரக்குற்றிகள் வவுனியா மாவட்ட குற்றத்தடுப்பு பிரிவினரால் (DCDB) இன்று வியாழக்கிழமை (20) காலை மீட்கப்பட்டுள்ளதுடன், அதேபகுதியைச் சேர்ந்த 30 வயதுடைய சந்தேக நபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
+
+மீட்கப்பட்ட மரக்குற்றிகள் சுமார் 20 இலட்சம் ரூபாய்க்கும் மேற்பட்ட பெறுமதியானது என பொலிஸார் தெரிவிக்கின்றனர். இதேவேளை, சந்தேக நபர் வவுனியா பொலிஸாரிடம் ஒப்படைக்கப்பட்டு விசாரணைகளின் பின்னர் நீதிமன்றில் முன்னிலைப்படுத்தவுள்ளார்.
+
+...
+
+[Data](articles/7e7b55af.json)
 
 ---
 
@@ -232,6 +344,36 @@ His most recent assignment is as Practice Manager for Urban, Disaster Risk Manag
 
 ---
 
+### யாழில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட நபர் கைது!
+
+*2024-06-20 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186537) · `ta`
+
+யாழ்ப்பாணத்தில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட நபர் ஒருவர் புதன்கிழமை (19)  கைது செய்யப்பட்டுள்ளார்.
+
+சுன்னாகம் பகுதியில் உள்ள வீடொன்றில் சட்டவிரோத மதுபான உற்பத்தி இடம்பெறுவதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், குறித்த வீட்டை பொலிஸார் சுற்றி வளைத்த வேளை, 200 லீட்டர் கோடா மற்றும் 06 லீட்டர் சட்டவிரோத மதுபானம் மற்றும் சட்டவிரோத மதுபான உற்பத்திக்கு பயன்படுத்திய உபகரணங்கள் ஆகியவற்றை கைப்பற்றியுள்ளனர்.
+
+அத்துடன் , குறித்த வீட்டில் சட்டவிரோத மதுபான உற்பத்தியில் ஈடுபட்ட அளவெட்டி பகுதியை சேர்ந்த 31 வயதான நபர் ஒருவரையும் பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/fa3f69ec.json)
+
+---
+
+### 24 மணி நேரத்தில் 161  பேருக்கு டெங்கு
+
+*2024-06-20 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186540) · `ta`
+
+நாட்டில் கடந்த 24 மணி நேரத்தில் 161 டெங்கு நோயாளர்கள் பதிவாகியுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+நாட்டில் கடந்த 20 நாட்களில் 2,044 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர். இதேவேளை, மே மாதத்தில் 2,647 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+
+◼️
+
+[Data](articles/f9e8e231.json)
+
+---
+
 ### Treasures of the arts lake
 
 *2024-06-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197950) · `si`
@@ -287,6 +429,30 @@ Iranian revolutionary army for war, political and economic sectors of Iran are s
 [Data](articles/c4e9e2e5.json)
 
 [Extended Data](ext_articles/c4e9e2e5.ext.json)
+
+---
+
+### Tamil Nadu fishermen arrested again;Stalin's outrage;Letter to Jaishankar
+
+*2024-06-20 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186536) · `ta`
+
+MK Stalin, Tamil Nadu's CM, wrote to India's FM Jaishankar, seeking the release of four fishermen arrested by the Sri Lankan navy. He highlighted the impact on their livelihoods and called for urgent action to free them and their boats. Currently, 15 fishermen and 162 boats are held by Sri Lanka, prompting the request for their immediate release.
+
+🟩
+
+Tamil Nadu Chief Minister Stalin has written to Indian Foreign Minister Jaishankar demanding action to release the fishermen arrested by the Sri Lankan navy.
+
+Chief Minister MK Stalin has written to Union Foreign Minister S Jaishankar, urging the central government to take immediate steps to release the four fishermen from Tamil Nadu who were arrested by the Sri Lankan navy yesterday.
+
+The letter was arrested by the Sri Lankan navy on 18-6-2024 by the Sri Lankan navy and their fishing boats were arrested by the Sri Lankan navy on 18-6-2024.
+
+He said that such incidents not only disrupt the livelihood of the fishermen, but also create fear and uncertainty among the fishermen.
+
+...
+
+[Data](articles/9b1fc743.json)
+
+[Extended Data](ext_articles/9b1fc743.ext.json)
 
 ---
 
@@ -349,30 +515,6 @@ He said that if the bill was implemented, there would be a cultural legal chaos 
 [Data](articles/1f6ff8b8.json)
 
 [Extended Data](ext_articles/1f6ff8b8.ext.json)
-
----
-
-### Tamil Nadu fishermen arrested again;Stalin's outrage;Letter to Jaishankar
-
-*2024-06-20 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186536) · `ta`
-
-MK Stalin, Tamil Nadu's CM, wrote to India's FM Jaishankar, seeking the release of four fishermen arrested by the Sri Lankan navy. He highlighted the impact on their livelihoods and called for urgent action to free them and their boats. Currently, 15 fishermen and 162 boats are held by Sri Lanka, prompting the request for their immediate release.
-
-🟩
-
-Tamil Nadu Chief Minister Stalin has written to Indian Foreign Minister Jaishankar demanding action to release the fishermen arrested by the Sri Lankan navy.
-
-Chief Minister MK Stalin has written to Union Foreign Minister S Jaishankar, urging the central government to take immediate steps to release the four fishermen from Tamil Nadu who were arrested by the Sri Lankan navy yesterday.
-
-The letter was arrested by the Sri Lankan navy on 18-6-2024 by the Sri Lankan navy and their fishing boats were arrested by the Sri Lankan navy on 18-6-2024.
-
-He said that such incidents not only disrupt the livelihood of the fishermen, but also create fear and uncertainty among the fishermen.
-
-...
-
-[Data](articles/9b1fc743.json)
-
-[Extended Data](ext_articles/9b1fc743.ext.json)
 
 ---
 
@@ -2131,165 +2273,5 @@ He stated that the Aswasuma program was implemented to provide income support to
 [Data](articles/c691f163.json)
 
 [Extended Data](ext_articles/c691f163.ext.json)
-
----
-
-### Another round of tomatoes…
-
-*2024-06-19 21:53:00* · [`islandlk`](http://island.lk/another-round-of-tomatoes/) · `en`
-
-My Beauty Tips with Tomato, last week, had some very good comments coming my way, via Messenger and WhatsApp, and quite a few readers wanted me, if possible, to do the needful, this week, too, with tomato.
-
-I love going out of my way to oblige my readers and…yes, it’s tomato this week, as well.
-
-You will need 01-02 tablespoons of tomato juice and 01 tablespoon of sugar
-
-Mix the sugar and tomato juice to form a paste and apply it to your face and wait for 10 minutes.
-
-Rinse with lukewarm water and pat your skin dry and apply a moisturizer.
-
-This face pack will leave your skin soft, nourished, and moisturized for a long time.
-
-You will need the juice of half a tomato and 01 teaspoon of virgin olive oil
-
-Mix the olive oil and tomato juice thoroughly and apply this mixture to your face and neck.
-
-This face mask will help you achieve a radiant complexion and healthy skin.
-
-You will need 01 teaspoon of tomato juice and a few drops of aloe vera gel
-
-...
-
-[Data](articles/f8ab87d9.json)
-
-[Extended Data](ext_articles/f8ab87d9.ext.json)
-
----
-
-### Arrested by a trader who made the girl pregnant
-
-*2024-06-19 21:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-கர்ப்பமாக்கிய-வர்த்தகர்-கைது/76-339140) · `ta`
-
-A 54-year-old trader was arrested for allegedly sexually assaulting a 15-year-old girl at his Nanuoya Vazhamalai estate shop. The victim's parents were hospitalized suddenly before the incident. The suspect is now in custody at the Nuwara Eliya District Magistrate's Court.
-
-🟩
-
-A suspect has been arrested by police yesterday (18) for allegedly sexually abusing a 15 -year -old girl at Nanuoya Vazhamalai estate.
-
-Nanuoya police said that the 54 -year -old from the same area has been admitted to the Nuwara Eliya District General Hospital.
-
-Initial investigations revealed that the suspect was running a small business center at his home and had taken her to the shop when she arrived at the shop.
-
-Parents have long been admitted to the Nuwara Eliya District General Hospital due to a sudden illness on the last (17).
-
-The suspect has been ordered to be kept at the Nuwara Eliya District Magistrate's Court today (19).. Remble
-
-◼️
-
-[Data](articles/ef7b3e66.json)
-
-[Extended Data](ext_articles/ef7b3e66.ext.json)
-
----
-
-### Gabo Travels in partnership with Trafalgar Tours hosts an evening of celebration
-
-*2024-06-19 21:39:00* · [`islandlk`](http://island.lk/gabo-travels-in-partnership-with-trafalgar-tours-hosts-an-evening-of-celebration/) · `en`
-
-Gabo Travels, in partnership with Trafalgar, recently hosted an exclusive event to celebrate and appreciate their long-standing clientele at the prestigious Kingsbury Hotel. The event, titled ‘The Big Travel Show,’ was organized to introduce new travel destinations and tours by Trafalgar. The event featured a variety of activities, including live music and a dinner buffet, ensuring an unforgettable experience for all attendees.
-
-The event was graced by the presence of key representatives from Trafalgar, including Mae Cheah, Managing Director, Asia, TTC Tour Brands and Wong Tsui Shan, Regional Director of Sales, Asia, TTC Tour Brands. Their presence added significant value to the occasion, symbolising solidarity and strength between Gabo Travels and Trafalgar.
-
-...
-
-[Data](articles/635927e4.json)
-
-[Extended Data](ext_articles/635927e4.ext.json)
-
----
-
-### Union Assurance launches Leader Conference 2024
-
-*2024-06-19 21:37:00* · [`islandlk`](http://island.lk/union-assurance-launches-leader-conference-2024/) · `en`
-
-Union Assurance held its inaugural Leader Conference 2024 at the Epitome Hotel, Kurunegala. This event brought together over 250 participants, including Union Assurance Agency leadership and sales leaders across its extensive branch network, marking a milestone in the Company’s commitment to leadership development and excellence.
-
-...
-
-[Data](articles/211e4695.json)
-
-[Extended Data](ext_articles/211e4695.ext.json)
-
----
-
-### A target of 195 in America
-
-*2024-06-19 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197933) · `si`
-
-In the World Cup match between the US and South Africa, South Africa made 194 runs losing 4 wickets in 20 overs after the US won the toss and chose to field.
-
-🟩
-
-The United States and South Africa in the World Cup match today (19).
-
-This is the first match of the Super 08 round competitions.
-
-The US was won to win the coin, and they decided to bowl first.
-
-Accordingly, South Africa scored 194 runs for the loss of 4 kills at the end of 20 overs.
-
-◼️
-
-[Data](articles/ddf0eceb.json)
-
-[Extended Data](ext_articles/ddf0eceb.ext.json)
-
----
-
-### Purchasing Managers’ Indices indicate improvements in both Manufacturing and Services activities in May 2024
-
-*2024-06-19 21:34:00* · [`islandlk`](http://island.lk/purchasing-managers-indices-indicate-improvements-in-both-manufacturing-and-services-activities-in-may-2024/) · `en`
-
-Sri Lanka Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 58.2 in May 2024, indicating an expansion in manufacturing activities. All sub-indices, except for employment, rose above the neutral threshold during the month, resulting in an overall increase in the index value.
-
-The increases in New Orders and Production sub-indices were mainly attributable to the manufacture of food & beverages sector. Most of the respondents mentioned that the considerable increase in production activities was due to more working days prevailed in May compared to the previous month. Moreover, Stock of Purchases increased considerably during the month, in line with the increase in New Orders and Production. Meanwhile, Suppliers’ Delivery Time further lengthened in May.
-
-...
-
-[Data](articles/5e78f803.json)
-
-[Extended Data](ext_articles/5e78f803.ext.json)
-
----
-
-### Clarification of Wealth Tax matters gives bourse a boost
-
-*2024-06-19 21:33:00* · [`islandlk`](http://island.lk/clarification-of-wealth-tax-matters-gives-bourse-a-boost/) · `en`
-
-The stock market got off on a positive trend yesterday but later turned negative when President Ranil Wickremesinghe mentioned a new wealth tax, which was wrongly grasped by investors.
-
-But later the market showed some recovery due to certain tax specialists highlighting that only 10 percent of the households are to be taxed, market analysts said. Amid those developments both indices moved upwards. The All Share Price Index went down by 16.82 points while S and P SL20 index declined by 9 points.
-
-...
-
-[Data](articles/8883d051.json)
-
-[Extended Data](ext_articles/8883d051.ext.json)
-
----
-
-### Sri Lanka Tourism hosts travel agents for Buddhist Pilgrim Tours
-
-*2024-06-19 21:33:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-hosts-travel-agents-for-buddhist-pilgrim-tours/) · `en`
-
-In a bid to boost pilgrim tourism, Sri Lanka Tourism invited prominent outbound travel agents and ten leading Buddhist media influencers from India to participate in an exclusive B2B networking session and immersive cultural experience during the Vesak celebrations. The event commenced on the 22nd of May 2024 at the Hotel Ramada Colombo, aiming to strengthen ties between local and international travel agents and to showcase the spiritual and cultural richness of Sri Lanka.
-
-The delegation’s visit kicked off with a comprehensive networking session designed to foster collaboration and enhance the network between Sri Lankan travel agencies and their counterparts. This initiative is a strategic move to promote pilgrim tours, highlighting Sri Lanka as a premier destination for Buddhist travelers.
-
-...
-
-[Data](articles/b9b69b29.json)
-
-[Extended Data](ext_articles/b9b69b29.ext.json)
 
 ---

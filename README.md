@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 18:53:42**
+As of **2024-06-20 19:04:47**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,352 (100.0%) of 31,356 articles have been extended.
+31,356 (100.0%) of 31,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### பெண்கள் வலுவூட்டல் சட்டமூலம் திருத்தங்களுடன் நிறைவேற்றம்
+### The Women's Reinforcement Bill is fulfilled with amendments
 
 *2024-06-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186597) · `ta`
 
-பெண்கள் வலுவூட்டல் சட்டமூலம் திருத்தங்களுடன் நிறைவேற்றப்பட்டது.எதிரணியின் சுயாதீன உறுப்பினர்களான விமல் வீரவன்ச,கெவிந்து குமாரதுங்க, சந்திம வீரக்கொடி ஆகியோர் சட்டமூலத்தின் ஒருசில ஏற்பாடுகளுக்கு திருத்தங்களை முன்வைத்தனர்.ஆளும் தரப்பினர் உறுப்பினர் சரத் வீரசேகர திருத்தங்களுக்கு ஆதரவாகவே வாக்களித்தார்.
+The Women's Reinforcement Bill, amended by Wimal Weerawansa, Kevindu Kumaratunga, and Chandima Weerakkodi, faced opposition but ultimately passed after debate and rejection of certain amendments. Despite criticism from the Supreme Court and strong opposition from Geeta Kumarasinghe, the amendments were accepted, highlighting a complex legislative process aimed at benefiting women.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (20) இடம்பெற்ற  பெண்கள் வலுவூட்டல் சட்டமூலம்  இரண்டாம் வாசிப்புக்காக விவாதத்துக்காக எடுத்துக் கொள்ளப்பட்டது. இந்த சட்டமூலம் பெண்களை மாத்திரம் வரையறுத்ததாக அமைய வேண்டும் என்ற திருத்தத்தை முன்வைத்தார்.இந்த திருத்தம் மீதான விவாதம் இடம்பெற்றது. இதன்போது இந்த திருத்தத்துக்கு ஆதரவாக 05 வாக்குகளும், எதிராக 13 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 09 மேலதிக வாக்குகளினால் கெவிந்து குமாரதுங்க முன்வைத்த திருத்தம் நிராகரிக்கப்பட்டது.
+🟩
+
+The women's reinforcement bill was passed with amendments. Wimal Weerawansa, Kevindu Kumaratunga and Chandima Weerakkodi made amendments to some arrangements of the Bill.
+
+The Women's Reinforcement Bill, which was held in Parliament on Thursday (20), was taken for debate for a second reading. The Bill was amendment to the amendment that only women defined.. The amendment to the amendment was rejected by 5 votes and 13 votes against the amendment.
+
+Following this, the opposition members of the Opposition, Geeta Kumarasinghe, expressed strong opposition to the comments of the Minister of Women and Child Affairs, Geeta Kumarasinghe, that the opposition's independent member Chandima Weerakkody would not accept the amendment to the appointment of members of the Commission to be established through the Act.
 
 ...
 
 [Data](articles/63d48fb7.json)
+
+[Extended Data](ext_articles/63d48fb7.ext.json)
 
 ---
 
@@ -58,19 +66,29 @@ This was announced to the House by the Deputy Speaker of the Parliament Ajith Ra
 
 [Data](articles/53f5095f.json)
 
+[Extended Data](ext_articles/53f5095f.ext.json)
+
 ---
 
-### பெண் வலுவூட்டல் சட்டமூலம் : பெண் என்பதற்கான வரைவிலக்கணம் வழங்கப்படவில்லை - சரத் வீரசேகர குற்றச்சாட்டு
+### Female Reinforcement Bill: No definition for female - Sarath Weerasekera charges
 
 *2024-06-20 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186595) · `ta`
 
-கலாச்சாரம் ஊடாக நாட்டை ஆக்கிரமிக்கும் முயற்சிகள் புதிய சட்டமூலங்கள் ஊடாக முன்னெடுக்கப்படுகிறது. பெண்கள் வலுவூட்டல் சட்டமூலம் நாட்டின் அரசியலமைப்புக்கும், கலாச்சாரத்துக்கும் முரணானது. பெண் என்பது யார் என்பதற்கு போதுமான வரைவிலக்கணம்  சட்டமூலத்தில் குறிப்பிடப்படவில்லை  என தேசிய பாதுகாப்பு தொடர்பான துறைசார் மேற்பார்வை குழுவின் தலைவர்  சரத் வீரசேகர தெரிவித்தார்.
+Sarath Weerasekera criticizes the Women's Reinforcement Bill for lacking clear definitions of "female," arguing it contradicts Sri Lanka's Constitution and culture. He highlights issues with the bill during a parliamentary debate, questioning its alignment with the country's laws and cultural norms.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (20) நடைபெற்ற பெண்கள் வலுவூட்டல் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
+
+Attempts to occupy the country through culture are carried out through new bills. The Women's Reinforcement Bill is contrary to the country's Constitution and Culture. Sarath Weerasekera, chairman of the National Security Department's Supervisory Committee, said that there was not sufficient definitions in the Bill.
+
+He said this while addressing the debate on the Women's Empowerment Bill held in Parliament on Thursday (20).
+
+We have presented a number of complications regarding the women's reinforcement bill, but they are not submitted to the council by the relevant parties. Who is the female in this bill?The formal definition is not mentioned. The woman who is identified as a woman can only be given the status of the woman. The woman cannot be considered a woman who is born and transformed into a woman through medical care. Therefore, the definition of a woman in the bill is not clearly mentioned.
 
 ...
 
 [Data](articles/aab80aa1.json)
+
+[Extended Data](ext_articles/aab80aa1.ext.json)
 
 ---
 
@@ -1324,25 +1342,33 @@ On the orders of Senior Police Superintendent (SSP) Malin Ajantha Perera, on the
 
 ---
 
-### වෘත්තීය සමිති ක්‍රියාමාර්ගයකට ගිය බන්ධනාගාර නිලධාරීන්ට මොකද වෙන්නේ ?
+### What happens to the prison officials who went to the trade union action?
 
 *2024-06-20 12:28:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5114gl3jneo) · `si`
 
-අධිකරණ කටයුතු  පැහැර හැරීම හෝ බන්ධනාගාර ආයතනවල පරිපාලන කටයුතුවලට බාධා කිරීමට කටයුතු කරන නිලධාරීන්ට විරුද්ධව දැඩි විනය හා නීතියානුකූලව පියවර ගැනීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+Prison officials faced disciplinary actions after engaging in a trade union action for a salary increase, despite being told they lacked legal authority to do so. The Ministry of Justice acknowledged their concerns but emphasized the illegality of such actions, promising a review of their salaries. The Commissioner General of Prisons was ordered to court, and investigations into unauthorized activities were initiated.
 
-බන්ධනාගාර කොමසාරිස්, මාධ්‍ය ප්‍රකාශක ගාමිණි බී. දිසානායක බීබීසී සිංහල සේවයට අදහස් දක්වමින් පැවසුවේ බන්ධනාගාර නිලධාරීන්ට වෘත්තීය ක්‍රියාමාර්ගවල නිරතවීමට නෛතික බලයක් නොමැති බව ය.
+🟩
 
-කෙසේ වුවත් වැටුප් වැඩිවීමක් ඉල්ලා බන්ධනාගාර නිලධාරින් පිරිසක් පසුගිය මැයි 20 සහ 21 යන දිනවල වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වූහ.
+The Prisons Department has decided to take serious discipline and legislation against the officers who dominate judicial work or interfere with the administrative activities of prison.
 
-අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මාධ්‍ය හමුවකදී අදහස් දක්වමින්  පැවසුවේ බන්ධානාගාර නිලධාරීන්ට කලක සිට යම් අසාධාරණයක් සිදුව ඇති බව ය.
+Prisons Commissioner, Media Spokesman Gamini B. Dissanayake comments into the Sinhala service, said that there was no legal power to engage in trade union action.
 
-‘අපි පිළිගන්නවා බන්ධනාගාර දෙපාර්තමේන්තුවේ නිලධාරීන්ට කාලයක පටන් යම් ආසාධාරණයක් සිද්ධ වෙලා තියෙනවා.’
+However, a group of prison officials went on a trade union action on May 20 and 21 asking for a salary increase.
 
-‘ඒ අනුව අපි මේ ප්‍රශ්නය නොසලකා හැරලා හෝ යටපත් කිරීමක් කරලා නැහැ. අපිත් පිළිගන්නවා ඒ අයට සාධාරණයක් ඉෂ්ඨ වෙන්න ඕන කියලා.’
+Minister of Justice Wijedasa Rajapakse spoke at a press conference, said that the babies had some injustice to the babies.
+
+"We have acknowledged the officers of the Department of Prisons since time.
+
+'We have not ignored or suppress this question. We also admit that they have to be justified. '
+
+"At the end, I asked the Cabinet Memorandum until the gifts provided to each gradient allowances to be offered a monthly allowance of Rs. 15,000."The Minister of Justice said at the press conference. '
 
 ...
 
 [Data](articles/cc609190.json)
+
+[Extended Data](ext_articles/cc609190.ext.json)
 
 ---
 

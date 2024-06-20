@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 22:34:45**
+As of **2024-06-20 22:52:21**
 
 ## Newspaper Stats
 
-*Scraped **31,378** Articles*
+*Scraped **31,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,745
-adaderanalk | 3,554
+adaderanalk | 3,555
 tamilmirrorlk | 3,690
 dailymirrorlk | 4,733
 virakesarilk | 4,863
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,374 (100.0%) of 31,378 articles have been extended.
+31,378 (100.0%) of 31,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### India and Sri Lanka discuss initiatives to enhance energy connectivity
+
+*2024-06-20 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99999/india-and-sri-lanka-discuss-initiatives-to-enhance-energy-connectivity) · `en`
+
+In a significant diplomatic exchange, President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar led bilateral discussions at the President’s House today (20). The joint energy projects between India and Sri Lanka took centre stage during these discussions.
+
+Following the official meeting between President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar, they delved into various initiatives aimed at enhancing energy connectivity and developing the renewable energy sector.
+
+Significant attention was given to plans for an LNG supply, a proposed petroleum pipeline linking the two countries, and advancing oil and gas exploration projects. Additionally, it was announced that construction of the Sampur Solar Power Plant is set to commence in July 2024.
+
+Additionally, plans were unveiled for the Sampur Solar Power Plant to commence construction in July 2024.
+
+...
+
+[Data](articles/fd70f254.json)
+
+---
 
 ### At least 36 die in India after drinking tainted liquor
 
@@ -49,6 +67,8 @@ Police arrested four people over the sale of illicit liquor and seized 200 litre
 ...
 
 [Data](articles/6954d694.json)
+
+[Extended Data](ext_articles/6954d694.ext.json)
 
 ---
 
@@ -70,19 +90,25 @@ Indian Foreign Minister Dr. S. Jiasankar has come to India at Katunayake airport
 
 ---
 
-### 8 மாதங்களாக கணவனை காணவில்லை - மனைவி முறைப்பாடு
+### Missing husband for 8 months - wife complaint
 
 *2024-06-20 21:54:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களாக-கணவனை-காணவில்லை-மனைவி-முறைப்பாடு/175-339201) · `ta`
 
-கொழும்பு – புளூமெண்டல் பகுதியைச் சேர்ந்த 58 வயதான மன்னர் மன்னன் என்ற நபர் கடந்த ஆண்டு ஒக்டோபர் மாதம் 25ம் திகதி முதல் 8 மாதங்களாக காணவில்லை என அவரது மனைவி ராணி மன்னர் தெரிவிக்கின்றார்.
+Rani King, wife of the missing 58-year-old king from Colombo-Bloomland, reported her husband's disappearance after leaving her sister's house on October 25 last year. The case was filed at Blumental Police Station. Any information about the missing man should be directed to Rani King.
 
-கடந்த ஆண்டு ஒக்டோபர் மாதம் 25ம் திகதி தன்னை தனது சகோதரியின் வீட்டில் விட்டு சென்றதை அடுத்தே, தனது கணவர் காணாமல் போனதாக அவரது மனைவி புளூமெண்டல் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+🟩
 
-இந்த நபர் தொடர்பான தகவல்களை அறிந்தால், தமக்கு அறிவிக்குமாறும் காணாமல் போனவரின் மனைவி கேட்டுக் கொண்டுள்ளார். R
+The 58 -year -old king of the Colombo - Bloomland area has been missing for 8 months since October 25 last year, according to his wife Rani King.
+
+His wife has lodged a complaint at the Blumental Police Station that her husband disappeared after she left her sister's house on October 25 last year.
+
+If you know the information about this person, the wife of the missing is also asked to notify him. Remble
 
 ◼️
 
 [Data](articles/ca86ca05.json)
+
+[Extended Data](ext_articles/ca86ca05.ext.json)
 
 ---
 
@@ -108,19 +134,27 @@ India scored 181 runs for the loss of 08 wickets at the end of 20 overs.
 
 ---
 
-### எஸ்.ஜெய்சங்கர் - சஜித் சந்திப்பு
+### S. Jaishankar - Sajith Meeting
 
 *2024-06-20 21:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-சஜித்-சந்திப்பு/175-339195) · `ta`
 
-இந்திய வெளிவிவகார எஸ்.ஜெய்சங்கர் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோருக்கு இடையிலான விசேட சந்திப்பொன்று இன்று கொழும்பில் இடம்பெற்றது.
+A meeting between Indian External Affairs Minister S. Jaishankar and Sri Lanka's Opposition Leader Sajith Premadasa in Colombo highlighted strengthening ties and mutual appreciation. Premadasa thanked India for support, especially in housing projects and ambulance services, and expressed hope for continued cooperation. He also discussed aspirations for smart education policies in Sri Lanka, aligning with India's influence. The Indian PM, Narendra Modi, praised Premadasa's role in fostering closer India-Sri Lanka relations.
 
-எதிர்கட்சித் தலைவர் சஜித் பிரேமதாச, அண்டைய நாடான இந்தியாவிடம் இருந்து கிடைத்த உதவிகள் மற்றும் ஒத்தாசைகளுக்கு நன்றி தெரிவித்ததுடன், இரு நாடுகளுக்கும் இடையே பல நூற்றாண்டுகளாக நிலவிவரும் நட்புறவு, ஐக்கிய மக்கள் சக்தி அரசாங்கத்திலும் அவ்வாறே பேணப்படும் என்றும் இந்திய வெளிவிவகார அமைச்சரிடம் தெரிவித்தார்.
+🟩
 
-இலங்கையின் வீடமைப்புத் திட்டங்களுக்கும், சுவசெரிய அம்புலன்ஸ் சேவைக்கும் இந்திய அரசாங்கம் வழங்கிய பங்களிப்பை என்றும் மறக்க முடியாது என்று எதிர்க்கட்சித் தலைவர் இங்கு தெரிவித்தார். இந்திய அரசாங்கத்தின் கல்விக் கொள்கை தொடர்பில் கருத்து தெரிவித்த எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, இந்தியாவைப் போன்று இலங்கையிலும் ஸ்மார்ட் கல்வியையும், புதிய உலகிற்கு ஏற்ற கல்விக் கொள்கையையும் உருவாக்குவதே தமது நோக்கமாகும் என்றும் தெரிவித்தார்.
+A special meeting between Indian External Affairs S. Jayshankar and Opposition Leader Sajith Premadasa took place in Colombo today.
+
+Opposition Leader Sajith Premadasa thanked the Indian Foreign Minister of India, thanks to the aid and assistance received from the neighboring country, and that the friendship between the two countries and the United People's Power government will be maintained in the same way.
+
+The Opposition Leader said that the Indian government's contribution to Sri Lanka's housing projects and the Swaseriya Ambulance Service could not be forgotten.. Commenting on the educational policy of the Indian government, Opposition Leader Sajith Premadasa said his aim was to create smart education in Sri Lanka and the new world -related education policy.
+
+Opposition Leader Sajith Premadasa said he would congratulate Narendra Modi, who once again appointed Indian Prime Minister.
 
 ...
 
 [Data](articles/0a79e3b9.json)
+
+[Extended Data](ext_articles/0a79e3b9.ext.json)
 
 ---
 
@@ -148,25 +182,31 @@ He further stated that the Divine world collapses, but the presidential election
 
 ---
 
-### கண்டெடுத்த லட்சுமியை உரியவரிடம் ஒப்படைத்த இளைஞன்
+### The young man who handed over Lakshmi to the right person
 
 *2024-06-20 21:12:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கண்டெடுத்த-லட்சுமியை-உரியவரிடம்-ஒப்படைத்த-இளைஞன்/73-339193) · `ta`
 
-பிபிலை பகுதியைச் சேர்ந்த இளைஞனின் பணப்பையை கண்டெடுத்த தோப்பூர் நபர் அதை உரியவரிடம் ஒப்படைத்துள்ளார்.
+A wallet found by Anas Nizamuddin in Toppur was returned to its owner, Chaturanga Kumara from Bibil, after being posted on social media due to lack of phone numbers. The handover was facilitated by the Toppur Masjidul Balah Jumma School President, Jesakir (Salim), on Thursday morning.
 
-தோப்பூர் பிரதேசத்தைச் சேர்ந்த அனஸ் நிஜாமுதீன் என்பவர் கிண்ணியாவிற்கு செல்லும் போது வீதியில் கிடந்த பணப்பை ஒன்றை கடந்த 19 ஆம் திகதி கண்டெடுத்திருந்தார்.
+🟩
 
-இதில் அவரை தொடர்பு கொள்வதற்கான எதுவித தொலைபேசி இலக்கங்களும் இருக்கவில்லை. அப்பையில் அவரது ஆவணங்கள் இருந்தமையால் அதனை ஆதாரமாக வைத்து பணப்பையை கண்டெடுத்த நபர் சமூக வளைத்தளங்களில் உரியவருக்கு தகவல் சேரும்படியாக பதிவொன்றை இட்டிருந்தார்.
+The person who found the wallet of the young man from the Bibil area has handed it to the appropriate person.
 
-இந்த பதிவினை பணப்பையை தொலைத்த நபர் பார்வையிட்டு உரிய நபரை தொடர்பு கொண்டு தனது பணப் பையை இன்று வியாழக்கிழமை (20) காலை பெற்றுக் கொண்டதோடு கண்டெடுத்து உதவிய நிஜாமுதீனுக்கு நன்றிகளை தெரிவித்தார்.
+Anas Nizamuddin, a native of Toppur, found a wallet lying on the street on the 19th when he was on his way to Kinniya.
 
-தோப்பூர் மஸ்ஜிதுல் பலாஹ் ஜும்ஆ பள்ளிவாசல் தலைவர் ஜெஸாகிர் (சலீம்) ஊடாக குறித்த பணப்பையும், ஆவணங்களும் ஒப்படைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+There are no telephone numbers to contact him. Since his documents were in the pan, the person who found the wallet had been posted on the social network to report to the person in social networks.
 
-பணப்பையை தொலைத்த நபர் பிபிலைப் பகுதியைச் சேர்ந்த செனைவிரத்ன முதியன்சலாகே சதுரங்க குமார என்பது குறிப்பிடத்தக்கது.  R
+The person who lost the wallet visited and contacted the appropriate person and received his cash bag on Thursday morning (20) and thanked Nizamuddin.
+
+It is noteworthy that the wallet and documents were handed over through the Toppur Masjidul Balah Jumma School President Jesakir (Salim).
+
+It is noteworthy that the person who lost the wallet is the Chaturanga Kumara, who is the elder of the Bibil area.R
 
 ◼️
 
 [Data](articles/e08b7d1e.json)
+
+[Extended Data](ext_articles/e08b7d1e.ext.json)
 
 ---
 
@@ -2325,35 +2365,5 @@ Deputy General Manager of the Railway Department. Hindi and Sri Lanka Transport 
 [Data](articles/a8a2ee14.json)
 
 [Extended Data](ext_articles/a8a2ee14.ext.json)
-
----
-
-### Court of Appeal suspended to be suspended in Ratnapura High Court
-
-*2024-06-20 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197946) · `si`
-
-The Court of Appeal in Sri Lanka temporarily halted proceedings in the Ratnapura High Court due to concerns over legal violations during a case related to an assault incident in Godakawela. This decision was made by a panel including Sampath Abeykoon and P. Kumaran Ratnam, based on arguments from attorney Hafil Faris representing the petitioner. Faris argued that the prosecution was unlawful and that the court should reconsider its initial ruling.
-
-🟩
-
-Court of Appeal has been identified as a sign of the Sri Lanka High Court in the Ratnapura High Court against the assault in Godakawela in Ratnapura, Ratnapura.Released.
-
-Sampath Abeykoon and P. The decision of the Court of Appeal consisting of Kumaran Ratnam has issued this interim order.
-
-Attorneys-at-Law Hafil Faris appeared in behalf of the petitioner, he was speaking to the courts and told the defendants' indictments on the time of the end of the situation.
-
-The lawyer said that he was then prosecuted in 2019.
-
-According to the courtyard of the court when the case was taken up before the Ratnapura High Court, it was contrary to the law and the prosecution was contrary to the law.
-
-Attorney Hufel Faris pointed out that the judge had decided to reject the preliminary objections.
-
-Accordingly, the defendants have presented the judiciary before the Court of Appeal to decide that the decision is contrary to the law.
-
-◼️
-
-[Data](articles/cefb6b69.json)
-
-[Extended Data](ext_articles/cefb6b69.ext.json)
 
 ---

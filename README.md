@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 12:19:34**
+As of **2024-06-20 12:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,290** Articles*
+*Scraped **31,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,729
+adalk | 2,730
 adaderanalk | 3,542
 tamilmirrorlk | 3,678
 dailymirrorlk | 4,733
@@ -26,21 +26,49 @@ adaderanasinhalalk | 5,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,286 (100.0%) of 31,290 articles have been extended.
+31,290 (100.0%) of 31,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ஜனாதிபதியை சந்தித்தார் ஜெய்சங்கர்
+### Jaishankar met the president
 
 *2024-06-20 12:06:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜெய்சங்கர்/175-339172) · `ta`
 
-உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு இலங்கை வந்துள்ள இந்திய வெளியுறவுத் துறை அமைச்சர் டொக்டர் எஸ்.ஜெய்சங்கர்,   ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்தார்
+Dr. S. Jaishankar, India's Foreign Minister, visited Sri Lanka and had a meeting with President Ranil Wickremesinghe at the Presidential Palace.
+
+🟩
+
+Indian Foreign Minister Dr S. Jaysankar, who arrived in Sri Lanka on an official visit to Sri Lanka, met President Ranil Wickremesinghe at the President's House.
 
 ◼️
 
 [Data](articles/27732051.json)
+
+[Extended Data](ext_articles/27732051.ext.json)
+
+---
+
+### එළවළු ලොරියක් බවුසරයක ගැටී සිදු වූ  අනතුරකින් දෙනෙකුට තුවාල,  ලොරි රථයේ සහයකට  බලපතලයි
+
+*2024-06-20 12:02:49* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-ලොරියක්-බවුසරයක-ගැටී-සිදු-වූ--අනතුරකින්-දෙනෙකුට-තුවාල---ලොරි-රථයේ-සහයකට--බලපතලයි/11-410331) · `si`
+
+මහනුවර - යාපනය ඒ 9 මාර්ගයේ දී එළවළු  තොගයක් ප්‍රවාහනය කරමින් තිබූ  ලොරි රථයක් සහ ඉන්ධන බවුසරයක්  එකිනෙක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනෙකු රෝහල් ගත කර ඇති බවත් එක් අයෙකුගේ  තත්ත්වය බර පතල බව මිහින්තලේ පොලිසිය පවසයි.
+
+එම මාර්ගයේ,  මිහින්තලය - පලුගස්වැව ප්‍රදේශයේදී අද (20) අලුයම 3.00 ට පමණ අනතුර සිදුව ඇති තිබේ.
+
+අනතුරින් මෙලෙස රෝහල ගත කර ඇත්තේ,  එළවළු ලොරියේ ගමන් ගත් රියදුරු සහ ලොරි සහායකයා වන බව පොලිසිය කියයි.
+
+තුවාල ලැබු ලොරි රථ රියදුරා සහ රිය සහයක  යාපනය ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය පවසයි.
+
+එළවළු ලොරි රථය , යාපනය ප්‍රදේශයේ සිට දඹුල්ල ආර්ථික මධ්‍යස්ථානය වෙත එළවළු තොගයක්  ප්‍රවාහනය කරමින් තිබියදී  මාර්ගයේ නවතා තිබූ ඉන්ධන බවුසරයක  පිටු පස ගැටීමෙන්  එළවළු ලොරි රථය මාර්ගය හරහා පෙරලි  ගොස් මෙම අනතුර සිදුව ඇති බව පොලිසිය සදහන් කලේය.
+
+එළවළු ලොරි රථයේ රියදුරුට නින්ද යාම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට සැක කරන බව අනතුර සම්බන්ධයෙන්  පරීක්ෂණ සිදු කරන පොලිසිය කියයි.
+
+...
+
+[Data](articles/f6f94044.json)
 
 ---
 
@@ -60,47 +88,65 @@ His most recent assignment is as Practice Manager for Urban, Disaster Risk Manag
 
 [Data](articles/593062b1.json)
 
+[Extended Data](ext_articles/593062b1.ext.json)
+
 ---
 
-### කලා වැවට පැන්න නිධන් හොරු
+### Treasures of the arts lake
 
 *2024-06-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197950) · `si`
 
-ධාතුසේන රජතුමා විසින් කරවන බවට සැලකෙන කලා වැවේ ප්‍රධාන වානේ ගලක  තැන්පත් කොට තිබුණු නිධන් වස්තු කිසියම් පිරිසක් සොරා ගෙන ඇතැයි ඉපලෝගම පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
+In a case involving alleged treasure hunting at Kala Wewa, Ipalogama Police filed a complaint. The operation involved machinery to extract stones, sparking accusations of theft and attempts to conceal it. Residents and the National Organizer of All Ceylon Farmers' Federation, Namal Karunaratne, were implicated. Despite Kala Wewa being a controlled area, unauthorized individuals were allowed entry, raising concerns over security and permissions.
 
-යන්ත්‍ර සූත්‍ර උපයෝගී කරගනිමින් ගල විද අදාළ නිධන් වස්තු රැගෙන ගොස් ඇතැයි අනාවරණය වී ඇත.
+🟩
 
-කලා වැවේ ඉපැරණි වාන ආසන්නයේ ම අධි ආරක්ෂිත කලාපයේ මෙම සොරකම සිදුව තිබේ.
+Ipalogama Police have lodged a complaint with the treasure hunting of a major steel in the Kala Wewa, which is considered by King Dhatusena.
 
-මෙම සොරකම මහවැලියේ ඇතැම් නිලධාරීන් විසින් යටපත් කිරීමට උත්සාහ ගන්නා බවට ප්‍රදේශවාසීන් චෝදනා එල්ල කරති.
+It has been revealed that the stone prices have been taken using the machinery.
 
-බෝවතැන්න ජලාශ භාරා ප්‍රධාන ඉංජිනේරු බුද්ධික මහේෂ් නවරත්න මහතාගෙන් අප කළ විමසීමේදී කියා සිටියේ, තමන්ට ද ඊයේ (19) උදෑසන මෙම සිදුවීම පිළිබඳව දැන ගැනීමට හැකි වූ බවත්, මේ හේතුවෙන් වැවේ වානට ද දැඩි බලපෑම් එල්ලවන නිසා වහාම නිලධාරීන් යොදවා පොලීසියට පැමිණිලි කරන ලෙස තමන් උපදෙස් දුන් බවත් ඒ මහතා පැවසීය.
+Theft has taken place near the ancient vendors of the Kala Wewa.
 
-කලා වැව මහවැලි අධිකාරියෙන් පාලනය වන ස්ථානයක් වූ නමුත් මෙහි ආරක්ෂිතය කලාපයේ බෝට්ටු සවාරි සඳහා පෞද්ගලික අයෙකුට අවසර ලබාදී ඇති බව ද වාර්තා වේ.
+Residents accused of trying to suppress this theft in the Mahaweli.
 
-...
+When contacted, we asked the Bowethena Reservoir, Buddhika Mahesh Navaratne, he was instructed to hear about the incident yesterday morning and he instructed the police to complain to the police.He said he was.
+
+It is also reported that the Kala Wewa is a place of control but has been given permission to person with the security zone.
+
+National Organizer of All Ceylon Farmers' Federation Namal Karunaratne has been accused of carrying the treasure hunting in high-security areas.Does.
+
+And who gave permission to lamp the night?The government cannot attend the place without any permission without permission from the wildlife territory.
+
+◼️
 
 [Data](articles/b3c72da9.json)
 
+[Extended Data](ext_articles/b3c72da9.ext.json)
+
 ---
 
-### ඉරාන විප්ලවීය හමුදාවට කැනඩාවෙන් තහනමක්
+### Iranian revolutionary ban on Canada
 
 *2024-06-20 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197949) · `si`
 
-ඉරානයේ ප්‍රබලතම හමුදා ඛාණ්ඩය ලෙස සැලකෙන "ඉරාන විප්ලවීය හමුදාව" ත්‍රස්තවාදී කණ්ඩායමක් ලෙස නම් කිරීමට කැනඩාව පියවර ගෙන ඇත.
+Canada designated as a terrorist group by Iran due to its powerful military influence, impacting relations between the two countries. This move was influenced by Canada's opposition party and Iranian diaspora, leading to a ban on Iranian government and revolutionary officials visiting Canada. The Iranian revolutionary army significantly intervenes in Iran's war, political, and economic sectors.
 
-කැනඩා විරුද්ධ පක්ෂයේ සහ ඉරාන ඩයස්පෝරාවේ බලපෑම් මත මෙම තීරණය ගෙන ඇතැයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ඉරානයේ සිටින කැනඩා වැසියන් සහ රාජ්‍ය තාන්ත්‍රිකයන් ඉවත්කර ගැනීමෙන් මෙම තීරණය ගෙන ඇතැයි වැඩිදුරටත් සඳහන් වෙයි.
+Canada has taken steps to be named as a terrorist group, which is considered the most powerful army group of Iran.
 
-ඒ හේතුවෙන් ඉරාන රජයේ උසස් නිලධාරීන් ට සහ ඉරාන විප්ලවීය හමුදාවේ ඉහළ නිලධාරීන් ට කැනඩාවේ සංචාරය කිරීමට අවස්ථාව නොලැබෙයි.
+Foreign media reports that the decision has been taken over the impact of Canada opposition party and Iranian diaspora.
 
-ඉරානයේ යුද, දේශපාලන සහ ආර්ථික ක්ෂේත්‍රයන් සඳහා ඉරාන විප්ලවීය හමුදාව දැඩි ලෙස මැදිහත් වෙයි.
+The decision has been taken by the removal of Canadian inhabitants and diplomats in Iran.
+
+As a result, the Iranian government government officials and the top officials of Iranian revolutionary are not allowed to visit Canada.
+
+Iranian revolutionary army for war, political and economic sectors of Iran are strongly intervened.
 
 ◼️
 
 [Data](articles/c4e9e2e5.json)
+
+[Extended Data](ext_articles/c4e9e2e5.ext.json)
 
 ---
 
@@ -2253,33 +2299,5 @@ The Ministry was responsible for the implementation of the program to restore th
 [Data](articles/b38fa0b8.json)
 
 [Extended Data](ext_articles/b38fa0b8.ext.json)
-
----
-
-### Guinness record in the United States
-
-*2024-06-19 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186487) · `ta`
-
-Sankagiri Rajkumar, director of 'Venkayam', led a team of 300 artists in the U.S., setting a Guinness World Record for the largest performance of street theater, a traditional Tamil Nadu art form. This feat was celebrated during a three-day event in Chicago to commemorate the 50th anniversary of the Tamil Nadu Foundation. Despite facing challenges, the successful staging of the event and its recognition by the Guinness Achievement Research Committee underscored the potential of street theater to become a globally recognized art form.
-
-🟩
-
-Director Sankagiri Rajkumar, who directed the film 'Venkayam', performed a streetcar in the United States about the role of three hundred artists.
-
-The Guinness Book of Records has been awarded as the Guinness Book of Records, as most artists climbed the stage and performed the streetcar, one of the folk arts.
-
-Three -day art shows were held in Chicago, the United States, to mark the fifty -year anniversary of the Tamil Nadu Foundation.
-
-One of the traditional arts of Tamil Nadu, the streetcar art, united more than three hundred artists on stage.. Thousands of spectators who visited this were applauded and applauded.
-
-Speaking about this, Sankagiri Rajkumar, a streetcar artist and film director, said, “I planned to convert streetcar art into a form of art on all levels worldwide.
-
-For this purpose, we went to the United States and selected three hundred students who were interested in art, and gave them two months of training.
-
-...
-
-[Data](articles/96a37fcd.json)
-
-[Extended Data](ext_articles/96a37fcd.ext.json)
 
 ---

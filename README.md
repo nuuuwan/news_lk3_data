@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 15:19:40**
+As of **2024-06-20 15:34:39**
 
 ## Newspaper Stats
 
-*Scraped **31,316** Articles*
+*Scraped **31,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,733
 adaderanalk | 3,545
-tamilmirrorlk | 3,680
+tamilmirrorlk | 3,683
 dailymirrorlk | 4,733
 virakesarilk | 4,851
 adaderanasinhalalk | 5,089
@@ -26,25 +26,69 @@ adaderanasinhalalk | 5,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,315 (100.0%) of 31,316 articles have been extended.
+31,316 (100.0%) of 31,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### පළමු ශ්‍රේණියට ළමුන් ඇතුළු කිරීම ගැන ආ කැබිනට් යෝජනාව
+### சாக்லேட்டில் செத்த எலி
+
+*2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
+
+சாக்லேட் சிரப்பில் செத்த எலி கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. சாக்லேட் சிரப்பில் செத்த எலி கிடக்கும் வீடியோ சமூக வலைதளங்களில் பெரும் வைரலாகி வருகிறது.
+
+கடந்த இரண்டு வாரங்களில் இதுபோன்று நடக்கும் மூன்றாவது சம்பவம் இதுவாகும். அண்மையில் மும்பை மலாட் பகுதியை சேர்ந்த மருத்துவர் ஒருவர் ஆன்லைன் மூலம் பட்டர்ஸ்காட்ச் கோன் ஐஸ்கிரீம் ஆர்டர் செய்துள்ளார். ஐஸ் கிரீம்மை ஆசையோடு சாப்பிட்டபோது அதில் நகத்துடன் மனித விரல் ஒன்று இருந்ததைக் கண்டு அதிர்ச்சி அடைந்தார்.
+
+இதுதொடர்பாக போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். இதனிடையே நொய்டாவை சேர்ந்த தீபா என்பவர் தனது 5 வயது மகனுக்கு மில்க் ஷேக் செய்வதற்காக ஐஸ் கிரீம் ஆர்டர் செய்தார். இதில் பூரான் ஒன்று இறந்து கிடந்ததைக் கண்டு பதறிப்போனார்.
+
+இதுகுறித்து உணவு பாதுகாப்புத்துறை அதிகாரிகள் விசாரணை நடத்தி வருகின்றனர். மேலும் மாட்டு இறைச்சியில் செத்துப்போன பல்லி ஒன்று கிடந்தது. இந்நிலையில் தற்போது பல்லி ஒன்று சாக்லேட் சிரப்பில் கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/4075e56b.json)
+
+---
+
+### Cabinet suggestion of inserting children to first grade
 
 *2024-06-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197955) · `si`
 
-පළමු ශ්‍රේණියට ළමුන් ඇතුළු කිරීම ගැන දැනට ඇති චක්‍රලේඛ සංශෝධනය කිරීමට අධ්‍යාපන අමාත්‍යවරයා කැබිනට් මණ්ඩලයට යෝජනා කර තිබේ.
+The Minister of Education proposes amending first-grade admission policies to improve fairness and reduce irregularities, drawing from last year's experiences.
 
-අධ්‍යාපනයේ සම සාධාරණ ප්‍රවේශ අවස්ථා තහවුරු වන පරිදි විනිවිදභාවයෙන් සහ අක්‍රමිකතා අවම වන පරිදි පසුගිය වසරවල ලද අත්දැකීම් පදනම් කරගෙන එම සංශෝධන කිරීමට නියමිතය.
+🟩
 
-එකී සංශෝධිත අනුව 2025 වසර සඳහා සහ ඉන් ඉදිරියට පළමු ශ්‍රේණියට ළමුන් ඇතුළු කර ගැනීමට අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත්කළ යෝජනාව ට අනුමැතිය ලැබුණි.
+The Minister of Education has proposed to the Cabinet to amend the current circulars on the first grade first grade.
+
+The amendment will be made based on the experiences of the past year to minimize the equal access and irregularities to ensure the skin of education.
+
+The proposal made by Hon.
 
 ◼️
 
 [Data](articles/7e67ab53.json)
+
+[Extended Data](ext_articles/7e67ab53.ext.json)
+
+---
+
+### சாரதி இன்றி ஓடிய ஓட்டோ: நால்வருக்கு காயம்
+
+*2024-06-20 15:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-இன்றி-ஓடிய-ஓட்டோ-நால்வருக்கு-காயம்/76-339181) · `ta`
+
+முச்சக்கரவண்டி ஒன்று 30 அடி பள்ளத்தில் வீழ்ந்ததில் மூன்று பெண்கள் உட்பட நால்வர் காயமடைந்து மீகஹகிவுல மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+பதுளை மஹியங்கனை பிரதான வீதியின் மீகஹகிவுல பிரதேசத்தில் இன்று (20) பிற்பகல் இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+
+மீகஹகிவுல நகரிலிருந்து பொல்கஹராவ கிராமத்தை நோக்கிச் சென்ற இந்த முச்சக்கரவண்டியின் சாரதி ஏதோ தேவைக்காக முச்சக்கரவண்டியை கடையொன்றுக்கு அருகில் நிறுத்திவிட்டு அதிலிருந்து இறங்கி சென்றுவிட்டார்.
+
+அதேநேரம் முச்சக்கரவண்டி சாரதியின்றி ஐம்பது அடிகள் முன்னால் சென்று,  முன்னால் இருந்த 30 அடி பள்ளத்தில் உருண்டு விழுந்து விபத்துக்கு உள்ளானது.
+
+மெகஹகிவுல நகரில் வியாழக்கிழமை (20) இடம்பெற்ற மாற்றுத்திறனாளிகள் சந்திப்பில் கலந்து கொள்வதற்காக வீட்டுக்குச் சென்று கொண்டிருந்த மாற்றுத்திறனாளிகள் இருவர் காயமடைந்தவர்களில் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/f76551f3.json)
 
 ---
 
@@ -133,6 +177,22 @@ The greatest heart to be innocent for innocent animals.
 [Data](articles/7b80f5ea.json)
 
 [Extended Data](ext_articles/7b80f5ea.ext.json)
+
+---
+
+### நெல்லிக்குளம் மலை உடைப்பு: வழக்கு ஒத்திவைப்பு
+
+*2024-06-20 14:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்லிக்குளம்-மலை-உடைப்பு-வழக்கு-ஒத்திவைப்பு/175-339179) · `ta`
+
+மூதூர் கிழக்கு சேனையூர் கிராம சேவகர் பிரிவுக்குட்பட்ட நெல்லிக்குளம் மலை பிரதேசத்தில் மலை உடைப்பதால் தமக்கு பாதிப்புள்ளதாக எதிர்ப்புத் தெரிவித்தவர்கள், கைது செய்யப்பட்டு பிணையில் விடுதலைச்செய்யப்பட்டனர்.
+
+கல்மலை உடைக்கும் போது எதிர்ப்பு தெரிவித்த 10 பொதுமக்கள் செவ்வாய்க்கிழமை (11) அன்று சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டு மூதூர் நீதிவான் நீதிமன்றில் 12 ஆம் திகதி ஆஜர்படுத்தியதை அடுத்து, அவர்கள் அனைவரும் சொந்தப் பிணையில் விடுவிக்கப்பட்டனர்.
+
+அதனை தொடர்ந்து  மூதூர் நீதிவான் நீதிமன்ற நீதவான் தஸ்னீம் பௌசான், ஸ்தலத்துக்கு  சனிக்கிழமை (15)   விஜயம் செய்து  பார்வையிட்டார்.  இந்நிலையில், குறித்த வழக்கு மூதூர் நீதிமன்றில் நீதிமன்ற பதில் நீதவான் முன்னிலையில் வியாழக்கிழமை (20)  விசாரனைக்கு எடுத்துக்கொள்ளப்பட்டது
+
+...
+
+[Data](articles/55bbadc2.json)
 
 ---
 
@@ -2241,81 +2301,5 @@ Have put forward many accusations against me in the past. Are certain that they 
 [Data](articles/d2a4237c.json)
 
 [Extended Data](ext_articles/d2a4237c.ext.json)
-
----
-
-### Can't arrest workers
-
-*2024-06-20 01:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களை-கைது-செய்ய-முடியாது/175-339158) · `ta`
-
-Jeevan Thondaman, a Sri Lankan minister, argued that police cannot arrest workers for union activities. He urged for a minimum wage increase to 1700 rupees for plantation workers, criticizing companies for not complying despite government approval. He also addressed misinformation in media reports regarding worker injustices.
-
-🟩
-
-Jeevan Thondaman, the leader and minister of the Sri Lanka Workers Congress, who claimed that the police had no authority to arrest workers to carry out union actions, called for all to take action to pay a salary of 1700 rupees for plantation workers.
-
-While the government has announced a salary of 1700 rupees, he said in the House that the plantation companies are so refusing to provide it, adding that the ruling party is not the opposition party.
-
-He added that a special statement was presented in Parliament yesterday.
-
-Although I am not saying that the salary of 1700 rupees is in any way enough for plantation workers, action should be taken to get it.. It is a great injustice that the salary is still about $ seven.
-
-At the same time, some media outlets have distorted the news on behalf of workers on the injustice inflicted on workers in a recent garden.That mistake must be made to address
-
-He said the police did not have the authority to arrest workers to carry out trade union activities.
-
-◼️
-
-[Data](articles/16cb69b6.json)
-
-[Extended Data](ext_articles/16cb69b6.ext.json)
-
----
-
-### Acceptance of judgment can become a danger
-
-*2024-06-20 01:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஏற்றுக்கொள்ளாமை-ஆபத்தாக-மாறலாம்/175-339157) · `ta`
-
-MA Sumanthiran warns that ignoring the Supreme Court's decision on the Sexual Equality Bill sets a dangerous precedent, especially when the government aims to extend the presidential term. He highlights the potential misuse of power and the erosion of judicial independence, urging caution and adherence to constitutional principles.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the president's failure to accept the Supreme Court's decision on the Sexual Equality Bill could be dangerous in the future, as the president is trying to extend the term of the election.
-
-Sumanthiran said this while addressing a special statement in Parliament on Wednesday (19).
-
-When the Ceremony Act was passed. He has said that the second time does not require the Supreme Court's decision on the Bill of Equality Equality.. What is the reason for this?That is, they are trying to increase the president's term in 6 years.
-
-If the High Court runs to go to the referendum in addition to the two -thirds majority, it will not do it with only a two -thirds majority.. MPs plan to bribe. This is due to the lack of value to the High Court's decision on the Bill on Sexual Equality. This is a dangerous precedent. We should be very carefully, including the Speaker.
-
-...
-
-[Data](articles/9696812e.json)
-
-[Extended Data](ext_articles/9696812e.ext.json)
-
----
-
-### Acceptance of judgment can become a danger
-
-*2024-06-20 01:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தீர்ப்பை-ஏற்றுக்கொள்ளாமை-ஆபத்தாக-மாறலாம்/150-339157) · `ta`
-
-MA Sumanthiran warns that ignoring the Supreme Court's decision on the Sexual Equality Bill sets a dangerous precedent, especially if it's done to extend the presidential term. He emphasizes the importance of both branches adhering to their constitutional roles without interference, cautioning against any action that undermines judicial independence.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the president's failure to accept the Supreme Court's decision on the Sexual Equality Bill could be dangerous in the future, as the president is trying to extend the term of the election.
-
-Sumanthiran said this while addressing a special statement in Parliament on Wednesday (19).
-
-When the Ceremony Act was passed. He has said that the second time does not require the Supreme Court's decision on the Bill of Equality Equality.. What is the reason for this?That is, they are trying to increase the president's term in 6 years.
-
-If the High Court runs to go to the referendum in addition to the two -thirds majority, it will not do it with only a two -thirds majority.. MPs plan to bribe. This is due to the lack of value to the High Court's decision on the Bill of Sexual Equality. This is a dangerous precedent. We should be very carefully, including the Speaker.
-
-...
-
-[Data](articles/ea092d0e.json)
-
-[Extended Data](ext_articles/ea092d0e.ext.json)
 
 ---

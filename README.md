@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 19:52:44**
+As of **2024-06-20 20:06:30**
 
 ## Newspaper Stats
 
-*Scraped **31,361** Articles*
+*Scraped **31,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,742
 adaderanalk | 3,552
-tamilmirrorlk | 3,686
+tamilmirrorlk | 3,687
 dailymirrorlk | 4,733
 virakesarilk | 4,861
 adaderanasinhalalk | 5,099
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,099
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,361 (100.0%) of 31,361 articles have been extended.
+31,361 (100.0%) of 31,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### மஹிந்தவை சந்தித்தார் ஜெய்சங்கர்
+
+*2024-06-20 19:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ஜெய்சங்கர்/175-339192) · `ta`
+
+இலங்கைக்கு விஜயம் செய்துள்ள இந்திய வெளியுறவு அமைச்சர் எஸ். ஜெய்சங்கர் இன்று முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவை சந்தித்தார்.
+
+“இந்தியா இலங்கை இடையிலான இருதரப்பு ஒத்துழைப்பின் தற்போதைய முன்னேற்றம் குறித்து கலந்துரையாடப்பட்டது. அவரது தொடர்ச்சியான ஆதரவுக்காக எமது பாராட்டுகள்” என்றும் ஜெய்சங்கர் தமது பதிவில் கூறியுள்ளார். R
+
+◼️
+
+[Data](articles/e31971fc.json)
+
+---
 
 ### Maithri says Kadinal owners have received
 
@@ -2385,29 +2399,5 @@ Further investigations into the murder are being carried out by the Nedundevu po
 [Data](articles/3f173783.json)
 
 [Extended Data](ext_articles/3f173783.ext.json)
-
----
-
-### Someone who was burnt to fire his house
-
-*2024-06-20 09:43:59* · [`adalk`](https://www.ada.lk/breaking_news/සිය-නිවසට-ගිනි-තබාගෙන-තමනුත්-අලුවී-නිවසත්-අලු-කළ-අයෙක්/11-410329) · `si`
-
-A mason from Elpitiya died after being set on fire due to a family dispute. The incident occurred on Aalpitiya Road, and an autopsy was scheduled at Elpitiya Base Hospital.
-
-🟩
-
-Elpitiya Police said that a resident of the Aalpitiya Road, Talawa.
-
-The victim is a fort eight-year-old mason, a resident of Alitpitiya Road, Elpitiya Hospital.
-
-Police say he was burnt to fire and died on fire and died on fire and died on fire that he had burned down due to a family dispute.
-
-His autopsy was scheduled to be held at the Elpitiya Base Hospital today (20).
-
-◼️
-
-[Data](articles/29b0493a.json)
-
-[Extended Data](ext_articles/29b0493a.ext.json)
 
 ---

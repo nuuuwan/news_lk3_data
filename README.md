@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 16:05:57**
+As of **2024-06-20 16:19:27**
 
 ## Newspaper Stats
 
-*Scraped **31,327** Articles*
+*Scraped **31,332** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 285
 dbsjeyarajcom | 291
-bbccomsinhala | 307
+bbccomsinhala | 308
 newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,734
+adalk | 2,735
 adaderanalk | 3,548
-tamilmirrorlk | 3,683
+tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,854
-adaderanasinhalalk | 5,090
+adaderanasinhalalk | 5,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,323 (100.0%) of 31,327 articles have been extended.
+31,327 (100.0%) of 31,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### පොලීසියට සුනඛයෙක් උසි ගැන්වූ සැකකරු වෙඩි කයි
+
+*2024-06-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197957) · `si`
+
+පොලිස් නිලධාරීන් වෙත පුද්ගලයෙකු විසින් නිවසේ සිටි සුනඛයෙකු උසි ගැන්වීමෙන් එම සුනඛයාගේ සපා කෑමට ලක්වූ පොලිස් නිලධාරියෙකු රෝහල්ගත කර තිබේ.
+
+නීතීවිරෝධී මත්පැන් නිෂ්පාදනය කරන නිවසක් පිළිබඳ ලද තොරතුරකට අනුව වැල්ලම්පිටිය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් මීතොටමුල්ල වඩුගොඩවත්ත ප්‍රදේශය වෙත ඊයේ (19) දහවල් පිටත්ව ගොස් තිබුණි.
+
+එහිදී අදාළ ස්ථානය පිළිබඳ තොරතුරු අනාවරණය කරගැනීමෙන් අනතුරුව එම නිවස පරීක්ෂා කිරීමට යාමේදී නිවෙස්හිමියා විසින් නිලධාරීන්ට විරෝධය දක්වා තිබේ.
+
+නිවස තුළට පොලීසියට ඇතුළුවීමට ඉඩ නොදීමට ඔහු කටයුතු කර තිබෙන අතර වැටලීම සඳහා පැමිණි පොලිස් නිලධාරියෙකුට පහරදීමක් ද සිදුකර ඇත.
+
+එහිදී සැකකරුගේ පුත්‍රයාද එම ස්ථානයට පැමිණ පොලිස් නිලධාරීන්ට පහරදීමට උත්සාහ කර ඇති අතර නිවසේ සුනඛයාවද ලිහා දැමීමට ඔවුන් කටයුතු කර තිබුණි.
+
+එම අවස්ථාවේදී තත්ත්වය පාලනය කිරීම සඳහා පොලිස් සැරයන්වරයෙකු සිය රාජකාරී ගිනි අවියෙන් වෙඩි තැබීමක් සිදුකර තිබෙන අතර එහිදී සිද්ධියේ ප්‍රධාන සැකකරුගේ දකුණු පාදයේ යටිපතුලට වෙඩිවැදී ඇත.
+
+පසුව තුවාල ලැබූ සැකකරු සහ ඔහුගේ පුත්‍රයාව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/da203c61.json)
+
+---
+
+### Indian Foreign Minister Jaishankar meets President
+
+*2024-06-20 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186543) · `ta`
+
+During his visit, Indian Foreign Minister S. Jaishankar and Sri Lankan President Ranil Wickremesinghe virtually launched 130 houses under the Indian Housing Scheme in various districts and handed over 24 more in Colombo and Trincomalee. They also unveiled a souvenir crystal marking the opening of a $6 million Maritime Recovery Coordination Center across several locations in Sri Lanka.
+
+🟩
+
+Indian External Affairs Minister S.. Jaishankar met President Ranil Wickremesinghe.
+
+Indian Foreign Minister. During Jaishankar's visit to Sri Lanka, three milestones were reached in the Indo -Sri Lankan relations.
+
+Under the Indian Housing Scheme, President Ranil Wickremesinghe and Dr. Jaishankar jointly opened the memorial crystals for 106 houses in the districts of Kandy, Nuwara Eliya and Matale via Virtual.
+
+In addition, 24 houses in sample villages in Colombo and Trincomalee have been handed over to the beneficiaries through virtuals.
+
+Meanwhile, a souvenir crystal referring to the official launch of the Maritime Recovery Coordination Center (MRCC) in Sri Lanka with $ 6 million has been opened through virtual.
+
+President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Jaishankar opened it together.
+
+This includes a center at the Naval Headquarters in Colombo, a sub -center in Hambantota, Galle, nearby, Batticaloa, Trincomalee, Kallar, Point Pedro and Mallikulam.
+
+◼️
+
+[Data](articles/e3a63dde.json)
+
+[Extended Data](ext_articles/e3a63dde.ext.json)
+
+---
 
 ### Neighbours like Sri Lanka are extremely important to India, Jaishankar tells PM
 
@@ -47,6 +101,8 @@ Minister Jaishankar said neighbours like Sri Lanka are extremely important to In
 ...
 
 [Data](articles/29607ddf.json)
+
+[Extended Data](ext_articles/29607ddf.ext.json)
 
 ---
 
@@ -66,6 +122,32 @@ The Cabinet of Ministers also approved the admission of children to the Grade 01
 
 [Data](articles/d59557bb.json)
 
+[Extended Data](ext_articles/d59557bb.ext.json)
+
+---
+
+### மக்கா வீதிகளில் பரவிக் கிடக்கும் சடலங்களால் பரபரப்பு
+
+*2024-06-20 15:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மக்கா-வீதிகளில்-பரவிக்-கிடக்கும்-சடலங்களால்-பரபரப்பு/50-339184) · `ta`
+
+இஸ்லாமிய மக்கள் தங்கள் வாழ்வியல் கடமைகளில் முக்கியமானதாக கருதப்படும் புனித ஹஜ் யாத்திரைக்காக ஆண்டுதோறும் மத்திய கிழக்கு நாடான சவூதி அரேபியாவில் உள்ள மக்கா மற்றும் மதினா செல்வது வழக்கம்.
+
+சவூதியில் வழக்கத்தைவிட இந்தாண்டு அதிகளவில் வெப்பம் பதிவாகி வருகிறது. இதனால் அந்நாட்டு மக்கள் கடும் அவதிக்குள்ளாகி வருகின்றனர்.
+
+இந்நிலையில், ஹஜ் பயணம் மேற்கொண்டுள்ளவர்கள், குடைகளை பிடித்தபடி, தண்ணீர் அருந்தியபடி தங்கள் யாத்திரையை மேற்கொண்டுள்ளனர்.
+
+மக்காவில் அல் ஹராம் பகுதியில் கடுமையான வெப்பம் நிலவியதாக கூறப்படுகிறது. இதனால் பலர் உயிரிழந்து வருகின்றனர்.
+
+தற்போது இறந்தவர்களின் எண்ணிக்கை 922ஆக அதிகரித்துள்ளது. அவர்களில் எகிப்தை சேர்ந்தவர் 600 என்றும் இந்தியர்கள் 80 என்றும் கூறப்பட்டுள்ளது. இதனால் வீதியெங்கும் சடலங்கள் கிடப்பதாக கூறப்படுகின்றது.
+
+இறந்தவர்கள் சடலங்கள் மக்காவுக்கு அருகில் உள்ள அல் – மொயிசம் மருத்துவமனையில் வைக்கப்பட்டுள்ளன.
+
+மேலும், 250 பேர் சுயநினைவு இன்றி மருத்துவமனைகளில் சிகிச்சை பெற்று வருவதாகவும் இதனால் உயிரிழப்புகள் அதிகரிக்கும் என்றும் அஞ்சப்படுகிறது.
+
+...
+
+[Data](articles/bd678064.json)
+
 ---
 
 ### Cabinet greenlights procurement of pre-printed Polycarbonate cards for NIC printing
@@ -82,25 +164,33 @@ Furthermore, approval was granted at the same meeting of the Cabinet of Minister
 
 [Data](articles/0740fae0.json)
 
+[Extended Data](ext_articles/0740fae0.ext.json)
+
 ---
 
-### මුහුද මැද ගැටුමකින් ධීවරයෙක් මරුට
+### Fisherman killed in clashes
 
 *2024-06-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197956) · `si`
 
-බේරුවල ධීවර වරායෙන් මුහුදු ගිය සහන් පුතා බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හයදෙනෙක් අතර ඇතිවූ ආරවුලකින් එක් අයෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+A fisherman died in a clash involving six others at Beruwala Fisheries Harbor. The incident also left fisheries inspector offices injured. The victim, identified as Chandana Upul from the Rocklanda Watta area, was from a vessel docked at Beruwala Rathiya Road.
 
-මුහුද මැදදී මෙම ගැටුම හටගෙන තිබෙන අතර බේරුවල ධීවර පරීක්ෂක කාර්යාල ආරංචි මාර්ග සඳහන් කරන්නේ යාත්‍රාවේ සිටින අනෙක් පිරිස ද තුවාල ලබා ඇති බවය.
+🟩
 
-බේරුවල රේගුව පාරේ පදිංචි සුමනසිරි ප්‍රනාන්දු නමැති යාත්‍රාවේ හිමිකරු විසින් මෙම සිද්ධිය සම්බන්ධයෙන් බේරුවල පොලීසියට කළ පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කර තිබුණි.
+One person has been killed in a dispute between six fishermen in the Beruwala Fisheries Harbor.
 
-මියගොස් ඇති පුද්ගලයාගේ මෘතදේහය බේරුවල ධීවර වරායේ සිට මුහුදු සැතපුම් 180ක් පමණ ඈත සිට අදාළ යාත්‍රාවෙන්ම බේරුවල ධීවර වරායට පැමිණෙමින් සිටින බවද වාර්තා වෙයි.
+According to sources from the sea, Beruwala Fisheries Inspector Offices were also injured in the vessel.
 
-ගැටුමෙන් මියගොස් ඇත්තේ මග්ගොන, මාගල්කන්ද, රොක්ලන්ඩ් වත්ත ප්‍රදේශයේ පදිංචිව සිටි එම්. කේ. චන්දන උපුල් නමැති පුද්ගලයෙකු බව පොලීසිය පවසයි.
+The owner of the vessel of the vessel of the Beruwala Rathiya Road, Beruwala, was investigated by a complaint lodged by the Beruwala Police.
+
+The deceased is that the body of the deceased is coming from Beruwala Fisheries Harbor from 180 sea miles from the Beruwala Fisheries Harbor.
+
+The deceased has been identified as Magalkanda, Margalkanda, Margalkanda, Rocklanda Watta area.. K. Police say that Chandana Upul, a man, a person.
 
 ◼️
 
 [Data](articles/db108700.json)
+
+[Extended Data](ext_articles/db108700.ext.json)
 
 ---
 
@@ -145,6 +235,26 @@ A huge solar eclipse that surprised the whole world took place on the same date 
 [Data](articles/fb7b1734.json)
 
 [Extended Data](ext_articles/fb7b1734.ext.json)
+
+---
+
+### சொக்லேட்டில் செத்த எலி
+
+*2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
+
+சொக்லேட் சிரப்பில் செத்த எலி கிடக்கும் வீடியோ ஒன்று சமூக வலைத்தளங்களில் வெளியாகி பெரும் வைரலாகி வருகிறது.
+
+அண்மையில் மும்பை மலாட் பகுதியைச் சேர்ந்த மருத்துவர் ஒருவர் ஒன்லைன் மூலம் பட்டர்ஸ்காட்ச் கோன் ஐஸ்கிரீம் ஓர்டர் செய்துள்ளார். ஐஸ் கிரீம்மை ஆசையோடு உட்கொண்டபோது அதில் நகத்துடன் மனித விரல் ஒன்று இருந்ததைக் கண்டு அதிர்ச்சி அடைந்துள்ளார்.
+
+இதனிடையே நொய்டாவை சேர்ந்த தீபா என்பவர் தனது 5 வயது மகனுக்கு மில்க் ஷேக் செய்வதற்காக ஐஸ்கிரீம் ஓர்டர் செய்துள்ளார். இதில் பூரான் ஒன்று இறந்து கிடந்ததைக் கண்டு பதறிப்போயுள்ளார்.
+
+இந்நிலையில், தற்போது பல்லி ஒன்று சொக்லேட் சிரப்பில் கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+அந்த சிரப்பை தனது குடும்பத்தை சேர்ந்த 3 பேர் உட்கொண்டதாகவும், அதன் பின்னரே அதில் எலி இறந்து கிடப்பது தெரியவந்தது என்றும் உட்கொண்டவரில் ஒருவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/28fdeb4b.json)
 
 ---
 
@@ -371,6 +481,26 @@ He has served as the Deputy General of the Sri Lankan Army, the Colonel Commande
 [Data](articles/6a8a09bb.json)
 
 [Extended Data](ext_articles/6a8a09bb.ext.json)
+
+---
+
+### අටමස්ථානාධිපති හිමියන්ගෙන් ඉල්ලීමක්
+
+*2024-06-20 14:08:14* · [`adalk`](https://www.ada.lk/breaking_news/අටමස්ථානාධිපති-හිමියන්ගෙන්-ඉල්ලීමක්/11-410336) · `si`
+
+අනුබුදු මිහිඳු මහරහතන් වහන්සේගේ මෙරට වැඩම කිරීම සිහිපත් කරමින් මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සැලකීමත් උන්වහන්සේගේ ගුණ අනුස්මරණය කිරීමත් ශ්‍රද්ධාවෙන් සහ භක්තියෙන් යුක්තව අනුරාධපුරයට පැමිණ  කටයුතු කල යුතු බව අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් පැවසූහ.
+
+පොසොන් උත්සවය සම්බන්ධයෙන්  අදහස් දැක්වූ  අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන  නායක හිමිපාණන් වැඩි දුරටත් මෙසේද පැවසුහ.
+
+"මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සලකන පොසොන් සතිය වෙනුවෙන් ආමිස සහ ප්‍රතිපත්ති පූජාවන්ට මුල් තැන දෙමින් ආගමික වතාවත්වල යෙදෙන ලෙස සියලු බැතිමතුන්ගෙන් ඉල්ලා සිටිනවා.
+
+මෙවර ජාතික පොසොන් පුණ්‍ය මහෝත්සවය මහත් උත්කර්ෂවත් අන්දමින් පැවැත්වීමට ජාතික පොසොන් උත්සව කමිටුව විසින් කටයුතු සූදානම් කර තිබෙනවා.
+
+අනුබුදු මිහිඳු මහරහතන් වහන්සේගේ මෙරට වැඩම කිරීම සිහිපත් කරමින් මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සැලකීමත් උන්වහන්සේගේ ගුණ අනුස්මරණය කිරීමත් ශ්‍රද්ධාවෙන් සහ භක්තියෙන් යුක්තව කටයුතු කළ යුතුයි.
+
+...
+
+[Data](articles/a5d7a802.json)
 
 ---
 
@@ -611,36 +741,6 @@ The US dollar sales price was 300.6388 and the purchase price was 310.0538 on Th
 [Data](articles/2c39cfbe.json)
 
 [Extended Data](ext_articles/2c39cfbe.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar meets President
-
-*2024-06-20 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186543) · `ta`
-
-During his visit, Indian Foreign Minister S. Jaishankar and Sri Lankan President Ranil Wickremesinghe virtually launched 130 houses under the Indian Housing Scheme in various districts and handed over 24 more in Colombo and Trincomalee. They also unveiled a souvenir crystal marking the opening of a $6 million Maritime Recovery Coordination Center across several locations in Sri Lanka.
-
-🟩
-
-Indian External Affairs Minister S.. Jaishankar met President Ranil Wickremesinghe.
-
-Indian Foreign Minister. During Jaishankar's visit to Sri Lanka, three milestones were reached in the Indo -Sri Lankan relations.
-
-Under the Indian Housing Scheme, President Ranil Wickremesinghe and Dr. Jaishankar jointly opened the memorial crystals for 106 houses in the districts of Kandy, Nuwara Eliya and Matale via Virtual.
-
-In addition, 24 houses in sample villages in Colombo and Trincomalee have been handed over to the beneficiaries through virtuals.
-
-Meanwhile, a souvenir crystal referring to the official launch of the Maritime Recovery Coordination Center (MRCC) in Sri Lanka with $ 6 million has been opened through virtual.
-
-President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Jaishankar opened it together.
-
-This includes a center at the Naval Headquarters in Colombo, a sub -center in Hambantota, Galle, nearby, Batticaloa, Trincomalee, Kallar, Point Pedro and Mallikulam.
-
-◼️
-
-[Data](articles/e3a63dde.json)
-
-[Extended Data](ext_articles/e3a63dde.ext.json)
 
 ---
 
@@ -1470,6 +1570,32 @@ As a result, the large casualties that took place was avoided and a safe camera 
 
 ---
 
+### පළමු නවකතාවෙන් ම ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකකට පාත්‍ර වූ ශ්‍රී ලාංකික ලේඛකයා
+
+*2024-06-20 09:59:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22ymj4327o) · `si`
+
+පළමු නවකතාවෙන් ම ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකකට පාත්‍ර වූ ශ්‍රී ලාංකික ලේඛකයා
+
+ශ්‍රී ලාංකික තරුණ ලේඛකයෙකුට ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකක් හිමි වී තිබේ.
+
+එම සම්මාන අතරින් එකක් වන්නේ, ඇමෙරිකාවේ මුද්‍රණය කෙරුණු විද්‍යා ප්‍රබන්ධ අතරින් 2023 වසරේ හොඳ ම විද්‍යා ප්‍රබන්ධ නවකතාවට හිමි නෙබියුලා (Nebula) සම්මානය යි.
+
+මෙහි සුවිශේෂත්වය වන්නේ, එම ලේඛකයා විසින් ප්‍රකාශයට පත් කරන ලද සිය පළමු විද්‍යා ප්‍රබන්ධ නවකතාවට මෙම සම්මානය හිමි වීම ය.
+
+දෙවැන්න, ලේඛකයෙකුගේ පළමු මනඃකල්පිත (fantasy) නවකතාව වෙනුවෙන් පිරිනැමෙන ක්‍රෝෆෝඩ් (Crawford) සම්මානය යි.
+
+ඇමෙරිකාවේ ගෞරවයට පාත්‍ර වූ මෙම සම්මාන දෙක ම හිමි වී ඇත්තේ, 2023 වසරේදී ප්‍රකාශයට පත් කරන ලද ශ්‍රී ලාංකික ලේඛකයෙකු වන වජ්‍ර චන්ද්‍රසේකරගේ The Saint of Bright Doors කෘතියට ය.
+
+The Saint of Bright Doors යනු ශ්‍රී ලාංකික ලේඛකයෙකු වන වජ්‍ර චන්ද්‍රසේකර විසින් රචනා කරන ලද මනඃකල්පිත නවකතාවකි.
+
+අද්භූත "දීප්තිමත් දොරවල්" සහිත ප්‍රබන්ධිත නගරයක, ප්‍රමුඛ පෙළේ ආධ්‍යාත්මික නායකයෙකු ඝාතනය කිරීමට කුඩා කාලයේ සිට ම පුහුණු වූ මිනිසෙකුගේ කතාව නවකතාවට වස්තු විෂය වී තිබේ.
+
+...
+
+[Data](articles/fb9c5128.json)
+
+---
+
 ### Mahanayaka of Malwathu Asgiri Udaya Maha Vihara to take action to ban drugs
 
 *2024-06-20 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186515) · `ta`
@@ -2167,113 +2293,5 @@ Diwakara was arrested on 31 May 2023, after his YouTube channel ‘SL VLOG’ po
 [Data](articles/a5dd4cab.json)
 
 [Extended Data](ext_articles/a5dd4cab.ext.json)
-
----
-
-### India’s External Affairs Minister in town today
-
-*2024-06-20 04:43:07* · [`dailyftlk`](https://www.ft.lk/news/India-s-External-Affairs-Minister-in-town-today/56-763254) · `en`
-
-The External Affairs Minister of India Dr. Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on 20 June 2024.
-
-During this visit, the External Affairs Minister of India is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Ali Sabry at the Foreign Affairs Ministry.
-
-Minister Jaishankar will be accompanied by senior officials of the External Affairs Ministry of India.
-
-◼️
-
-[Data](articles/69e818bc.json)
-
-[Extended Data](ext_articles/69e818bc.ext.json)
-
----
-
-### SLFP elects Nimal Siripala as Chairperson
-
-*2024-06-20 04:41:23* · [`dailyftlk`](https://www.ft.lk/news/SLFP-elects-Nimal-Siripala-as-Chairperson/56-763253) · `en`
-
-The Sri Lanka Freedom Party (SLFP) Executive Committee yesterday unanimously elected Minister Nimal Siripala de Silva as the party’s Chairperson and MP Duminda Dissanayake as the SLFP General Secretary, marking a significant development in the party’s ongoing internal struggles.
-
-Ports, Aviation and Shipping Minister Nimal Siripala de Silva, was initially appointed as the SLFP Acting Chairman by a faction supporting him in April at a special politburo meeting held without the participation of SLFP leader Maithripala Sirisena. This meeting, held at the Sri Lanka Foundation Institute, was attended by former President Kumaratunga, who also secured an interim injunction preventing Sirisena from functioning as the SLFP Chairperson.
-
-...
-
-[Data](articles/af9a347e.json)
-
-[Extended Data](ext_articles/af9a347e.ext.json)
-
----
-
-### CoPF receives Independent Remuneration Committee report on CBSL salary hike
-
-*2024-06-20 04:39:41* · [`dailyftlk`](https://www.ft.lk/news/CoPF-receives-Independent-Remuneration-Committee-report-on-CBSL-salary-hike/56-763252) · `en`
-
-The Committee on Public Finance (CoPF) Chairman and MP Dr. Harsha de Silva yesterday informed Parliament that the report of the Independent Remuneration Committee appointed by President Ranil Wickremesinghe to review the salary increase of officials at the Central Bank of Sri Lanka (CBSL) has been received.
-
-Addressing the House, he said that the report has pointed out that the salary increase of CBSL officials should not have been implemented.
-
-The Central Bank came under Parliamentary fire over the steep salary hike. In response to the mounting pressure from MPs and the CoPF, on 1 April President Wickremesinghe, in his capacity as the Finance Minister appointed an Independent Remuneration Committee to review the salary increase of the Central Bank officials. The Committee members include; Dinesh Stephen Weerakkody, Arjuna Herath, Dr. Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S. Wijesinha and Duminda Hulangamuwa.
-
-◼️
-
-[Data](articles/3c988fa3.json)
-
-[Extended Data](ext_articles/3c988fa3.ext.json)
-
----
-
-### I will create a country that will be for children - the president
-
-*2024-06-20 04:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186511) · `ta`
-
-President Ranil Wickremesinghe announced a country dedicated to children, emphasizing economic recovery and educational support. The Presidential Scholarship Program aims to aid 60 students monthly with 6,000 rupees each, benefiting grades 1-11 across 10,126 schools. This initiative is part of broader efforts to restore the nation's economy, provide land rights, and ensure quality education for all children.
-
-🟩
-
-As a president, the President stressed that no child in this country should be affected and that he has dedicated himself to the restoration of the country from the economic crisis in two years.
-
-The Presidential Scholarship event was held today at the Alari House. Speaking at the event, President Ranil Wickremesinghe said this.
-
-The President said that the 'Ashewasuma' program and the Urumaya program to provide land rights have been implemented to provide income to the people, and that the Presidential Education Scholarship Program has been launched to provide children with education.
-
-By 2022 (2023), 60 students will be selected and will be given a scholarship of 6,000 students per month for 6,000 rupees per month, including 100 zones.
-
-According to President Ranil Wickremesinghe's project, this scholarship program will be implemented for students who are studying from Grade 1 to Grade 11, including 10,126 schools nationwide.
-
-...
-
-[Data](articles/f4e48663.json)
-
-[Extended Data](ext_articles/f4e48663.ext.json)
-
----
-
-### Under the "Kandukara Dasagaya", 14,088 programs in 97 Divisional Secretariat Divisions at a cost of Rs 9,622 million
-
-*2024-06-20 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186510) · `ta`
-
-It seems like you've shared a comprehensive update regarding various initiatives and achievements in the field of urban development, housing, and construction in Sri Lanka. This includes updates on housing projects for displaced individuals, financial allocations, the launch of the One Stop Unit for accelerated planning, payments to contractors, and numerous other development programs.
-
-
-
-If you have any specific questions or need further clarification on any part of this information, please let me know how I can assist you further
-
-🟩
-
-89% of the home needs of the displaced people who have been displaced by the war have been completed by the end of 2023. - Secretary of the Ministry of Urban Development and Housing. S Satyananda
-
-All housing projects that have not been completed by the last governments will be completed immediately - the Chairman of the National Housing Development Authority Rajeev Suriyarachchi
-
-One Stop Unit has been launched to accelerate planning and investment permit - Nimesh Herath, Chairman of Urban Development Authority
-
-More than 200 billion rupees to be paid to contractors has been paid - the Chairman of the Construction Industry Development Authority R.. H. Ruvinis
-
-Under the Ten Special Integrated Rural Development Program of the "Kandukara Dasagaya", 14,088 programs have been launched in 97 Divisional Secretariats and the Ministry of Urban Development and Housing has been allocated Rs 9,622 million this year.. S Satyananda said.
-
-...
-
-[Data](articles/0e26b216.json)
-
-[Extended Data](ext_articles/0e26b216.ext.json)
 
 ---

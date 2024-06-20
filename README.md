@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 20:53:42**
+As of **2024-06-20 21:04:37**
 
 ## Newspaper Stats
 
-*Scraped **31,367** Articles*
+*Scraped **31,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,743
-adaderanalk | 3,552
+adalk | 2,744
+adaderanalk | 3,553
 tamilmirrorlk | 3,687
 dailymirrorlk | 4,733
 virakesarilk | 4,863
-adaderanasinhalalk | 5,100
+adaderanasinhalalk | 5,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,366 (100.0%) of 31,367 articles have been extended.
+31,367 (100.0%) of 31,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### දෙරණාභිවන්දනා හෙට අනුරාධපුර රුවන්වැලි මහා සෑ පුදබිමේදී
+
+*2024-06-20 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197968) · `si`
+
+"දෙරණාභිවන්දනා පොසොන් නමස්කාරය'' හෙට (21) දවස පුරා අනුරාධපුර රුවන්වැලි මහා සෑ පුදබිමේ සිට සජීවීව ඔබ වෙත ගෙන ඒම සඳහා මේ වනවිට සියල්ල සූදානම් කර තිබේ.
+
+සීල සමාදානය හා බුද්ධ පූජාව සමගින් පෝදා වැඩසටහන ආරම්භ වන්නේ හෙට උදෑසන 5.45 ටය.
+
+ධර්ම දේශනා, ධර්ම සාකච්ඡා කාව්‍ය විශාරද පූජ්‍ය දීගල පියදස්සි හිමියන්ගේ වැඩමවීමෙන් සිදුකරන ආශිර්වාද බෝධි පූජාව ඇතුළු ආගමික වැඩසටහන් රැසක් හෙට දවස පුරා සජීවීව ටී.වී. දෙරණින් සහ එෆ්.එම්. දෙරණින් ගෙන ඒමට සූදානම් කර තිබේ.
+
+මේ අතර පොලීසිය පැවසුවේ පොසොන් සැමරුම නිමිත්තෙන් අනුරාධපුර නගරය කේන්ද්‍ර කරගනිමින් විශේෂ ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක බවය.
+
+පොසොන් පොහොය නිමිත්තෙන් පොලිස් නිලධාරීන් 20,000ක් රාජකාරි සඳහා යෙදවීමට කටයුතු කරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා ප්‍රකාශ කළේය.
+
+පොලිස් ජීවිතාරක්ෂක නිලධාරීන් 400කට වැඩි පිරිසක් ද අනුරාධපුර ප්‍රදේශයේ රාජකාරි සඳහා යොදවා තිබේ.
+
+අනුරාධපුර පූජා භූමිය ඇතුළු දිවයින පුරා වෙහෙර විහාරස්ථාන 11,100කට ආසන්න ප්‍රමාණයක විවිධ ආගමික වතාවත් සංවිධාන කර තිබේ.
+
+...
+
+[Data](articles/8d701c9a.json)
+
+---
 
 ### Jaishankar met Mahinda
 
@@ -69,6 +93,24 @@ The match between Afghanistan and India, India won the advantage of the coin.
 [Data](articles/5373be10.json)
 
 [Extended Data](ext_articles/5373be10.ext.json)
+
+---
+
+### Maithripala accuses Cardinal Ranjith over funds received to support Easter attack victims
+
+*2024-06-20 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99997/maithripala-accuses-cardinal-ranjith-over-funds-received-to-support-easter-attack-victims) · `en`
+
+Former President Maithripala Sirisena alleges that the Archbishop of Colombo Cardinal Malcolm Ranjith has not distributed any of the funds or financial aid received to assist the victims of the Easter Sunday terror attacks.
+
+Speaking to the media in Polonnaruwa today (20), the former President claimed that most of the court cases against him were filed under the influence of Cardinal Ranjith.
+
+“I have set a Guinness World Record with over four hundred court cases against me. These cases were filed as instructed by the Cardinal…one case for the deceased, another for the injured…asking to pay compensation”, Sirisena charged.
+
+“During my tenure as the President, I clearly compensated each and every one.”
+
+...
+
+[Data](articles/a1b69cc4.json)
 
 ---
 
@@ -229,6 +271,20 @@ Following this, the opposition members of the Opposition, Geeta Kumarasinghe, ex
 [Data](articles/63d48fb7.json)
 
 [Extended Data](ext_articles/63d48fb7.ext.json)
+
+---
+
+### කෘතිම බුද්ධිය යොදාගෙන කරණීය මෙත්ත සූත්‍රය විකෘති කරලා
+
+*2024-06-20 18:33:16* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-යොදාගෙන-කරණීය-මෙත්ත-සූත්‍රය-විකෘති-කරලා/11-410342) · `si`
+
+කෘතීම බුද්ධි තාක්ෂණය යොදා ගනිමින් සකස් කර ඇති බවට පෙනී යන වීඩියෝවක් මගින් කරණීය මෙත්ත සූත්‍ර විකෘති කර ෆේස්බුක් හා ටික්ටොක් සමාජ මාධ්‍ය හරහා ප්‍රචාරය වන බවට විවිධ පාර්ශ්ව මගින් බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය වෙත හා බෞද්ධ කටයුතු පිළිබඳ දෙපාර්තමේන්තුව වෙත ලැබී ඇතැයි  අමාත්‍යාංශ ලේකම් පී. හේරත් මහතා පවසයි.
+
+අදාළ වීඩියෝව පිළිබඳව සොයා බලා එම වීඩියෝව සමාජ මාධ්‍ය හරහා ප්‍රචාරය කරන්නනට එරෙහිව නීතිය ක්‍රියාත්මක කිරීමට හා එම ප්‍රචාරණයක් වැළැක්වීමට අවශ්‍ය පියවර ගන්නා ලෙස ඉල්ලා සිටිමින් පොලිස් පරිගණක අපරාධ විමර්ශන කොට්ඨාසය වෙත හා විදුලි සංදේශ නියාමන කොමිෂන් සභාව වෙත බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් විසින් අද දින පැමිණිල්ලක් ඉදිරිපත් කර ඇති බවද ලේකම්වරයා වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/66bb6e9b.json)
 
 ---
 
@@ -2317,87 +2373,5 @@ Indian Prime Minister Narendra Modi plans to make an official visit to Sri Lanka
 [Data](articles/ec4b25f6.json)
 
 [Extended Data](ext_articles/ec4b25f6.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 305.50/90 to US dollar
-
-*2024-06-20 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-50-90-to-us-dollar-168870/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.50/90 to the US dollar on Thursday, while bond yields were steady, and stocks opened 0.14 percent up, dealers said.
-
-The rupee closed at 304.75/305.40 to the greenback on Wednesday.
-
-In equities, Colombo’s All Share Price Index opened 17.06 points higher at 12,243 while the S&P SL20 of more liquid stocks opened up at 0.28 percent or 10.25 points to 3,614.
-
-In the secondary market, yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.35/60, down from 10.35/75 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, from 11.95/12.35 percent. (Colombo/Jun20/2024)
-
-◼️
-
-[Data](articles/6d4ce73b.json)
-
-[Extended Data](ext_articles/6d4ce73b.ext.json)
-
----
-
-### The brave young man who risked his life in danger
-
-*2024-06-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197945) · `si`
-
-In Siyambalanduwa, a young man from a nearby shop saw a runaway lorry and bravely stopped it, preventing potential disaster and ensuring safety.
-
-🟩
-
-The driver of a lorry in Siyambalanduwa by the driver of a lorry
-
-The driver went down and the lorry was on the road and was a busy opportunity in Siyambalanduwa at the time.
-
-A young man who was in a nearby shop who was running without the driver, has taken immediate action and stopped the lorry, which was running into the lorry.
-
-As a result, the large casualties that took place was avoided and a safe camera was mounted near the incident.
-
-◼️
-
-[Data](articles/b89eade4.json)
-
-[Extended Data](ext_articles/b89eade4.ext.json)
-
----
-
-### Sri Lankan writer who was present at the first novel
-
-*2024-06-20 09:59:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22ymj4327o) · `si`
-
-Vajra Chandrasekara, a Sri Lankan writer, made history by receiving two prestigious U.S. awards for her debut novels. Her first novel, "The Saint of Bright Doors," won the Nebula Award for Best Science Fiction and the Crawford Award for Best Fantasy, both in 2023. This achievement marks her as the first Sri Lankan recipient of these honors. Chandrasekara's works explore themes of divine revolutionaries and societal struggles, blending mythology with contemporary issues. Her second novel, "Rakesfall," continues to establish her as a significant voice in speculative fiction.
-
-🟩
-
-Sri Lankan writer who was present at the first novel
-
-A Sri Lankan youth has received two Honoria Awards in the United States.
-
-One of those awards is the Nebeila (Nebeila (Nebeuula) award for the best science fiction of the year printing in America.
-
-The unique is to receive this award for its first science fiction novel, published by the writer.
-
-Second, a writer's first fantasy (fantasty) novel is awarded the Crawford Award.
-
-The number of honored USA, the Sri Lankan writer, a Sri Lankan writer, announced in 2023, is to the SAINT of BRIGHT DOORS, a Sri Lankan writer.
-
-The SAINT of BRIGHT DOORS is a fantasy novel composed by a Sri Lankan writer, Vajra Chandrasekara.
-
-A man who trained from a child who was trained from a child who was a leading spiritual leader with mysterious doors "has become the novel.
-
-This novel is "creating a powerful thugging between divine revolutionaries and the worldwriters against worldly struggles."
-
-...
-
-[Data](articles/fb9c5128.json)
-
-[Extended Data](ext_articles/fb9c5128.ext.json)
 
 ---

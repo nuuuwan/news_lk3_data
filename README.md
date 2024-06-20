@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 06:20:12**
+As of **2024-06-20 06:59:55**
 
 ## Newspaper Stats
 
-*Scraped **31,217** Articles*
+*Scraped **31,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 288
 bbccomsinhala | 307
 newsfirstlk | 363
-islandlk | 1,703
+islandlk | 1,715
 economynextcom | 1,804
-dailyftlk | 1,910
+dailyftlk | 1,913
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,671
+tamilmirrorlk | 3,672
 dailymirrorlk | 4,733
 virakesarilk | 4,827
 adaderanasinhalalk | 5,069
@@ -26,11 +26,55 @@ adaderanasinhalalk | 5,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,217 (100.0%) of 31,217 articles have been extended.
+31,217 (99.9%) of 31,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### World Bank says 80% of global population will experience slower growth than in pre-COVID decade
+
+*2024-06-20 05:34:56* · [`dailyftlk`](https://www.ft.lk/opinion/World-Bank-says-80-of-global-population-will-experience-slower-growth-than-in-pre-COVID-decade/14-763275) · `en`
+
+Latest Global Economic Prospects report acknowledges global growth stabilising for first time in three years
+
+The global economy is expected to stabilise for the first time in three years in 2024—but at a level that is weak by recent historical standards, according to the World Bank’s latest Global Economic Prospects report released on Thursday.
+
+Global growth is projected to hold steady at 2.6% in 2024 before edging up to an average of 2.7% in 2025-26. That is well below the 3.1% average in the decade before COVID-19. The forecast implies that over the course of 2024-26 countries that collectively account for more than 80% of the world’s population and global GDP would still be growing more slowly than they did in the decade before COVID-19.
+
+...
+
+[Data](articles/830a07d8.json)
+
+---
+
+### Taxation should be an investment people are making for current and future wellbeing
+
+*2024-06-20 05:34:22* · [`dailyftlk`](https://www.ft.lk/columns/Taxation-should-be-an-investment-people-are-making-for-current-and-future-wellbeing/4-763274) · `en`
+
+Taxation should be looked at as part of a social contract between a Government and the people who pay tax
+
+Taxation needs to be looked at from a different perspective and models of taxation need to be examined. Taxation should be looked at as part of a social contract between a government and the people who pay tax. It is part of a partnership between the government and the public and it must give a sense of ownership to the public that their money is being used judiciously for their benefit. Besides this, they must have a belief that their taxes are investments, not just expenses, and that they will have a return on their investment. Better hospitals, better schools and universities, better roads, better transport and more affordable energy costs are some returns they should be able to expect with their taxes.
+
+...
+
+[Data](articles/f8eb0a61.json)
+
+---
+
+### Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’
+
+*2024-06-20 05:29:51* · [`dailyftlk`](https://www.ft.lk/columns/Indo-Lanka-unification-13A-term-extension-and-a-pioneering-intellectual-of-nonalignment/4-763273) · `en`
+
+“Blessed is the nation which in its moment of greatest challenge and peril can produce a moral and intellectual leadership that has the vision and the courage to overcome both. Human history has been gloriously enriched by the examples of nations, much younger and smaller, which have confronted far more awesome challenges only to produce that sort of inspiring leadership. Examples abound of peoples, with nothing of the splendour of the heritage that we so proudly possess—and so ceaselessly and clamorously proclaim—who have faced their own hours of maximum danger by summoning to their cause unsuspected reserves of self-confidence, intelligence and fortitude. But we seem determined to remain captives to the past and make ourselves hostage to an uncertain future.”
+
+– Mervyn de Silva, The Roots of Violence, Crisis Commentaries, 2001, p80.
+
+...
+
+[Data](articles/16f9f97a.json)
+
+---
 
 ### Responding to Shantha Jayaratne’s bogus claims
 
@@ -416,6 +460,24 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 
 ---
 
+### ’கைத்தொழிலுக்கு நிதியுதவி வழங்க புதிய அபிவிருத்தி வங்கி’
+
+*2024-06-20 01:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொழிலுக்கு-நிதியுதவி-வழங்க-புதிய-அபிவிருத்தி-வங்கி/175-339160) · `ta`
+
+இலங்கையில் தொழில்துறையினருக்கு நிதியுதவி வழங்க புதிய அபிவிருத்தி வங்கியொன்று ஸ்தாபிக்கப்பட உள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+இலங்கையில் முதன்முறையாக ஒழுங்கு செய்யப்பட்டுள்ள இன்டர்நெசல் இன்டஸ்ரியல் எக்ஸ்போ- 2024 (சர்வதேச கைத்தொழில் கண்காட்சி) நேற்று முன்தினம் ஆரம்பமானது. இந்தக் கண்காட்சியைத் திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+இந்நாட்டின் கைத்தொழில் துறையின் அபிவிருத்தி தொடர்பில் அமைச்சர் ரமேஷ் பத்திரன விசேட கவனம் செலுத்தி செயற்பட்டு வருகின்றார். அதன் ஒரு கட்டமாக இந்த தொழில் கண்காட்சியைக் குறிப்பிடலாம். இது நாட்டிலே நடத்தப்படும் மிகப்பெரிய கண்காட்சியாகும்.
+
+கடந்த காலத்தில் நமது நாடு வங்குரோத்தடைந்த நாடாக மாறியிருந்தது. ஆனால் அடுத்த சில வாரங்களில் நாம் வங்குரோத்தடைந்த நாடு என்ற அவப்பெயரில் இருந்து முற்றிலும் விடுபடுவோம். இது தொடர்பான ஒப்பந்தமும் அடுத்த சில வாரங்களில் எட்டப்பட உள்ளது. இதன்மூலம், தனியார் கடனாளிகளுடன் பேச்சுவார்த்தை நடத்துவது எளிதாகிறது. எனவே இந்த பணியை இரண்டு ஆண்டுகளில் மேற்கொள்வோம்.
+
+...
+
+[Data](articles/4ea38763.json)
+
+---
+
 ### The story is not known to the story
 
 *2024-06-20 01:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்துக்குட்டிக்கு-கதையே-தெரியாது/175-339159) · `ta`
@@ -740,6 +802,36 @@ He stated that the Aswasuma program was implemented to provide income support to
 
 ---
 
+### Another round of tomatoes…
+
+*2024-06-19 21:53:00* · [`islandlk`](http://island.lk/another-round-of-tomatoes/) · `en`
+
+My Beauty Tips with Tomato, last week, had some very good comments coming my way, via Messenger and WhatsApp, and quite a few readers wanted me, if possible, to do the needful, this week, too, with tomato.
+
+I love going out of my way to oblige my readers and…yes, it’s tomato this week, as well.
+
+You will need 01-02 tablespoons of tomato juice and 01 tablespoon of sugar
+
+Mix the sugar and tomato juice to form a paste and apply it to your face and wait for 10 minutes.
+
+Rinse with lukewarm water and pat your skin dry and apply a moisturizer.
+
+This face pack will leave your skin soft, nourished, and moisturized for a long time.
+
+You will need the juice of half a tomato and 01 teaspoon of virgin olive oil
+
+Mix the olive oil and tomato juice thoroughly and apply this mixture to your face and neck.
+
+This face mask will help you achieve a radiant complexion and healthy skin.
+
+You will need 01 teaspoon of tomato juice and a few drops of aloe vera gel
+
+...
+
+[Data](articles/f8ab87d9.json)
+
+---
+
 ### Arrested by a trader who made the girl pregnant
 
 *2024-06-19 21:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-கர்ப்பமாக்கிய-வர்த்தகர்-கைது/76-339140) · `ta`
@@ -766,6 +858,32 @@ The suspect has been ordered to be kept at the Nuwara Eliya District Magistrate'
 
 ---
 
+### Gabo Travels in partnership with Trafalgar Tours hosts an evening of celebration
+
+*2024-06-19 21:39:00* · [`islandlk`](http://island.lk/gabo-travels-in-partnership-with-trafalgar-tours-hosts-an-evening-of-celebration/) · `en`
+
+Gabo Travels, in partnership with Trafalgar, recently hosted an exclusive event to celebrate and appreciate their long-standing clientele at the prestigious Kingsbury Hotel. The event, titled ‘The Big Travel Show,’ was organized to introduce new travel destinations and tours by Trafalgar. The event featured a variety of activities, including live music and a dinner buffet, ensuring an unforgettable experience for all attendees.
+
+The event was graced by the presence of key representatives from Trafalgar, including Mae Cheah, Managing Director, Asia, TTC Tour Brands and Wong Tsui Shan, Regional Director of Sales, Asia, TTC Tour Brands. Their presence added significant value to the occasion, symbolising solidarity and strength between Gabo Travels and Trafalgar.
+
+...
+
+[Data](articles/635927e4.json)
+
+---
+
+### Union Assurance launches Leader Conference 2024
+
+*2024-06-19 21:37:00* · [`islandlk`](http://island.lk/union-assurance-launches-leader-conference-2024/) · `en`
+
+Union Assurance held its inaugural Leader Conference 2024 at the Epitome Hotel, Kurunegala. This event brought together over 250 participants, including Union Assurance Agency leadership and sales leaders across its extensive branch network, marking a milestone in the Company’s commitment to leadership development and excellence.
+
+...
+
+[Data](articles/211e4695.json)
+
+---
+
 ### A target of 195 in America
 
 *2024-06-19 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197933) · `si`
@@ -787,6 +905,48 @@ Accordingly, South Africa scored 194 runs for the loss of 4 kills at the end of 
 [Data](articles/ddf0eceb.json)
 
 [Extended Data](ext_articles/ddf0eceb.ext.json)
+
+---
+
+### Purchasing Managers’ Indices indicate improvements in both Manufacturing and Services activities in May 2024
+
+*2024-06-19 21:34:00* · [`islandlk`](http://island.lk/purchasing-managers-indices-indicate-improvements-in-both-manufacturing-and-services-activities-in-may-2024/) · `en`
+
+Sri Lanka Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 58.2 in May 2024, indicating an expansion in manufacturing activities. All sub-indices, except for employment, rose above the neutral threshold during the month, resulting in an overall increase in the index value.
+
+The increases in New Orders and Production sub-indices were mainly attributable to the manufacture of food & beverages sector. Most of the respondents mentioned that the considerable increase in production activities was due to more working days prevailed in May compared to the previous month. Moreover, Stock of Purchases increased considerably during the month, in line with the increase in New Orders and Production. Meanwhile, Suppliers’ Delivery Time further lengthened in May.
+
+...
+
+[Data](articles/5e78f803.json)
+
+---
+
+### Clarification of Wealth Tax matters gives bourse a boost
+
+*2024-06-19 21:33:00* · [`islandlk`](http://island.lk/clarification-of-wealth-tax-matters-gives-bourse-a-boost/) · `en`
+
+The stock market got off on a positive trend yesterday but later turned negative when President Ranil Wickremesinghe mentioned a new wealth tax, which was wrongly grasped by investors.
+
+But later the market showed some recovery due to certain tax specialists highlighting that only 10 percent of the households are to be taxed, market analysts said. Amid those developments both indices moved upwards. The All Share Price Index went down by 16.82 points while S and P SL20 index declined by 9 points.
+
+...
+
+[Data](articles/8883d051.json)
+
+---
+
+### Sri Lanka Tourism hosts travel agents for Buddhist Pilgrim Tours
+
+*2024-06-19 21:33:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-hosts-travel-agents-for-buddhist-pilgrim-tours/) · `en`
+
+In a bid to boost pilgrim tourism, Sri Lanka Tourism invited prominent outbound travel agents and ten leading Buddhist media influencers from India to participate in an exclusive B2B networking session and immersive cultural experience during the Vesak celebrations. The event commenced on the 22nd of May 2024 at the Hotel Ramada Colombo, aiming to strengthen ties between local and international travel agents and to showcase the spiritual and cultural richness of Sri Lanka.
+
+The delegation’s visit kicked off with a comprehensive networking session designed to foster collaboration and enhance the network between Sri Lankan travel agencies and their counterparts. This initiative is a strategic move to promote pilgrim tours, highlighting Sri Lanka as a premier destination for Buddhist travelers.
+
+...
+
+[Data](articles/b9b69b29.json)
 
 ---
 
@@ -1207,6 +1367,24 @@ The inaugural event will be held on Thursday 20th at 9 am, said Professor Paramu
 [Data](articles/82653d2a.json)
 
 [Extended Data](ext_articles/82653d2a.ext.json)
+
+---
+
+### A new institutional framework to enhance Sri Lanka’s industrial sector
+
+*2024-06-19 18:35:00* · [`islandlk`](http://island.lk/a-new-institutional-framework-to-enhance-sri-lankas-industrial-sector/) · `en`
+
+President Ranil Wickremesinghe announced the establishment of a new development bank aimed at providing financial support to industrialists in Sri Lanka. This initiative will offer industrialists the opportunity to obtain loans at low interest rates.
+
+Additionally, the President revealed plans to set up an Economic Commission to oversee these activities. A new institution, “Enterprise Sri Lanka,” will also be created to empower small and medium-sized entrepreneurs.
+
+President Ranil Wickremesinghe made this announcement during the inauguration of the International Industry Expo 2024, the first event of its kind in Sri Lanka.
+
+Organized by the Industrial Development Board under the guidance of the Ministry of Industry, and with the support of Industries and Health Minister Dr. Ramesh Pathirana, the exhibition will run from today until June 23 at the Sirimavo Bandaranaike International Conference Hall.
+
+...
+
+[Data](articles/771c5746.json)
 
 ---
 
@@ -2131,255 +2309,5 @@ The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakk
 [Data](articles/1db90677.json)
 
 [Extended Data](ext_articles/1db90677.ext.json)
-
----
-
-### Another injunction is not issued
-
-*2024-06-19 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197918) · `si`
-
-The Colombo District Court ordered the SLFP's acting chairman to continue in his role without issuing another injunction. The court issued a notice to the defendants, requiring them to appear again on July 3, following a complaint filed by Hector Bethmage, an SLFP organizer.
-
-🟩
-
-The Colombo District Court ordered the party's acting chairman of the SLFP as the Acting Chairman of the SLFP.
-
-Accordingly, the court decided to issue only notice to the defendants and was informed to be summoned again on July 3.
-
-The court issued a complaint with a complaint filed by Hector Bethmage, a Sri Lanka Freedom Party (SLFP) organizer.
-
-◼️
-
-[Data](articles/b1103920.json)
-
-[Extended Data](ext_articles/b1103920.ext.json)
-
----
-
-### Cricket team leaves Katunayake with severe care
-
-*2024-06-19 14:42:36* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-හොර-පාරින්ම-දැඩි-රැකවැල්-මැද-කටුනායකින්-පිටව-යයි/9-410314) · `si`
-
-The Sri Lanka T20 cricket team left Katunayake for Dubai, departing from the "Silk Root" terminal due to special arrangements made for them. The team was stationed at Katunayake airport, utilizing facilities provided by Silk Root, before their departure.
-
-🟩
-
-Sri Lanka T20 cricket team from Dubai to 08.40 am on 08.40 am on Dubai to Emirates Airport.
-
-They came to the Katunayake airport and came out of the general passenger terminal, but today they had to come out of the airport through the "Silk Root" terminal.
-
-The operating officer in charge of the airport that the facility was purchased for the facilities of the Silk Root peripheral and the Sri Lanka Cricket team has obtained this facility.
-
-The Sri Lankan cricket team has been deployed in the Katunayake airport and outside the area.
-
-◼️
-
-[Data](articles/cd163470.json)
-
-[Extended Data](ext_articles/cd163470.ext.json)
-
----
-
-### Natasha Edisuriya and Bruno Divakara are released from the case
-
-*2024-06-19 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186444) · `ta`
-
-Natasha Ekasuriya, a stand-up comedian, and Bruno Divakara, owner of the SL Vlog Model YouTube Channel, were both released from a contempt of Buddhism case. Natasha was arrested at a comedy event in Colombo but later released on bail. Bruno was also arrested and then released on bail before Natasha.
-
-🟩
-
-Standup Comedian Natasha Ekasuriya and the owner of the SL Vlog Model YouTube Channel have been released from the case of contempt of Buddhism.
-
-Natasha was arrested by the Criminal Investigation Department (CID) at the Katunayake airport on May 28 last year at a comedy event at a leading school in Colombo.
-
-SL-Vlog owner Bruno Divagara was arrested on May 31 in connection with the incident.
-
-Following this, Bruno Divagara was released on bail on June 21 last year, as the two had been extended.
-
-In this case, Natasha was released on bail on July 5 after filing a petition in the Colombo High Court.
-
-◼️
-
-[Data](articles/dc7f0eaf.json)
-
-[Extended Data](ext_articles/dc7f0eaf.ext.json)
-
----
-
-### The reasons for the loss of the loss
-
-*2024-06-19 14:37:54* · [`adalk`](https://www.ada.lk/sports/වනිඳු-පරාජයට-හේතු-කියයි/9-410313) · `si`
-
-The Sri Lanka T20 cricket team faced a setback when their departure from Katunayake Airport was delayed due to poor performance in batting and bowling during the match. The team captain expressed disappointment over the loss, emphasizing the need for better gameplay. Despite this hiccup, the team is scheduled to depart for Dubai early morning to continue their journey to the Emirates Airport.
-
-🟩
-
-The Twenty Hazarele was to leave the Katunayake Airport today, and the Twenty-Twenty's captain of the Twenty-Twenty-player had to regret it.
-
-Ven and Hasaranga said:"As players we know what we have done. Because we did not play well as players, the batting, bowling, and bowling had to go to the defeat because they did not
-
-Sri Lanka T20 cricket team from Dubai to 08.40 am on 08.40 am on Dubai to Emirates Airport.
-
-◼️
-
-[Data](articles/2f2ede30.json)
-
-[Extended Data](ext_articles/2f2ede30.ext.json)
-
----
-
-### Dismissal
-
-*2024-06-19 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-சபைக்கு-எதிரான-தடையுத்தரவு-நீக்கம்/175-339130) · `ta`
-
-The court denied an injunction request to halt a Sri Lanka Freedom Party meeting, citing the legality of the executive council and actions of its leaders.
-
-🟩
-
-The court has rejected a request to issue an interim injunction to prevent the Sri Lanka Freedom Party's Special Executive Committee meeting at 2.30 pm today.
-
-Colombo Additional District Magistrate Mrs. Samari Weerasuriya has rejected the request of three members of the party to issue an injunction to Minister Nimal Siripala de Silva and Duminda Dissanayake.
-
-The District Magistrate, who rejected the request of the party's vice president Keerthi Udwatta, Mahiyanganaya constituency organizer B Gunawardena and Kaduwela constituency organizer Hector Bethmage, only issued notice on the interim injunction notice to the defendants.
-
-According to the constitution of the Sri Lanka Freedom Party, the petition filed by the President of the Sri Lanka Freedom Party (SLFP), Nimal Siripala de Silva and Duminda Dissanayake, were illegal and that the executive council was illegal.
-
-◼️
-
-[Data](articles/031d46a3.json)
-
-[Extended Data](ext_articles/031d46a3.ext.json)
-
----
-
-### Ban the gesture of the Poson Point
-
-*2024-06-19 14:30:12* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝයට-හොල්මන්-මන්දිර-තහනම්-කරන්න/11-410312) · `si`
-
-The Kalpitiya Sasanarakshaka PS headship has banned the "Poson Point" gesture, leading to concerns among Buddhists in Sri Lanka. This action has sparked debates about its impact on the country's economy, politics, and culture. The headship has sought intervention from the Chief Registrar of Buddhist Monitor and the IGP, highlighting the need to address issues related to the misuse of religious symbols. The move aims to prevent negative influences and ensure the proper use of religious practices, emphasizing the importance of maintaining harmony and respect for Buddhism in Sri Lanka.
-
-🟩
-
-Kalpitiya Sasanarakshaka PS headship of the Puttalam Maha Sasanarakshaka Mirithmawatta, the Migmettta, the Migmettta, the Migmettta, the Migderabha, the Migmeththa, the Migderabha, the Migmetththa, the Migmeththa, the Migaytai, led to the Chief Registrar of Buddhist Monitor.Available.
-
-He has also referred to a copy of this letter to the IGP Deshabandu Tennakoon.
-
-The Mihindu Hangu has an impact on the people of the country, economic, political, and cultural rage that the Geibriya, political, political, and cultural rage presented to the people of the Poson Poya in Sri Lanka.He is informed that he has been informed.
-
-Miggettu Sumitta Thero is the impact of Buddhism to the entire Sri Lankans since then, the people of the Alliance was the impact of Buddhism to the entire Sri Lankans.
-
-He said that he had planned to be planned by the conversation of the temples of some temples in some temples in the country, which introduces such a nobles, such as a vision.
-
-...
-
-[Data](articles/e48d4dc6.json)
-
-[Extended Data](ext_articles/e48d4dc6.ext.json)
-
----
-
-### A snake dies in Jaffna
-
-*2024-06-19 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186459) · `ta`
-
-In Jaffna, a snake passed away on Tuesday after seeking treatment at the Teaching Hospital, succumbing to exhaustion next to a cow during its construction work on Sunday evening.
-
-🟩
-
-When the cow went to build the cow last Sunday evening, the snake was tired. Next to it is Jaffna. He died on Tuesday (18) after being admitted to the Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/8e7af9f7.json)
-
-[Extended Data](ext_articles/8e7af9f7.ext.json)
-
----
-
-### Sri Lanka cricketer to invest in candy, drinks factory in India
-
-*2024-06-19 14:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-cricketer-to-invest-in-candy-drinks-factory-in-india-168732/) · `en`
-
-ECONOMYNEXT – Former Sri Lankan cricketer and businessman Muttiah Muralitharan is to invest 1,400 crore Indian rupees to set up a beverage and confectionery unit in Badanaguppe, Karnataka, the state’s Minister for Commerce said.
-
-“A Rs. 1,000 crore manufacturing facility is currently under development in Chamarajanagar district, with plans to escalate investment to Rs. 1,400 crore. He remains committed to continuing operations in Dharwad,” Indian state minister M B Patil said on his X (twitter) page after meeting Muralitharan.
-
-“Today’s meeting focused on coordination, with department officials actively facilitating necessary support. Present were Shri. Selvakumar, Principal Secretary of Industries, and Commissioner Smt. Gunjan Krishna.”
-
-Sri Lanka's cricket icon Muttiah Muralitharan, now an entrepreneur post-retirement has established a soft drink manufacturing plant in his homeland and has now selected our state for expansion.
-
-...
-
-[Data](articles/f7eac85c.json)
-
-[Extended Data](ext_articles/f7eac85c.ext.json)
-
----
-
-### Fifth Harvest wastested by 15 percent
-
-*2024-06-19 14:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ--පස්වනු-අස්වනු-නාස්තිය-සියයට-15කින්-පහළට/11-410311) · `si`
-
-Post-harvest losses have significantly decreased across various crops, from 40% to as low as 15%, through improved harvesting techniques and plastic container transport.
-
-🟩
-
-The post-harvest losses have fallen to 25 percent, using the use of new techniques in harvesting and the use of plastic containers in transportation.
-
-Post harvest losses were as high as 40 percent due to the not using recommended methods to reduce the post harvest losses in fruits and vegetables.
-
-Bean Post Harvest Damage from 40 to 23 percent, 30 percent from 30 percent, 30 percent to 22 percent, 40 percent of fish chillies, 40 percent, green chilliesAbout 25 to 19, 25 percent, tomatoes, have fell 29 to 15 percent.
-
-The post-harvest losses of the first yield of fruit has been reduced from 46 percent to 19 percent to 19 percent and 20 percent.
-
-◼️
-
-[Data](articles/e9bb6876.json)
-
-[Extended Data](ext_articles/e9bb6876.ext.json)
-
----
-
-### Parents protest against the appointment of the Chancellor of Mullivaikkal East AIADMK school
-
-*2024-06-19 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186453) · `ta`
-
-Parents protested outside Mullivaikkal East AIADMK school due to the lack of a principal for the past 8 months, affecting 57 students' education. The protest led to discussions involving the police, school staff, and zonal education officials but no immediate resolution.
-
-🟩
-
-Parents staged a protest at around 7 am today (19) in front of the school gate to appoint a school principal for the learning activities of Mullivaikkal East AIADMK school students.
-
-Mullaitivu Mullivaikkal East Government has been running for the last 8 months without the Chancellor. There are 57 students learning in this school. Parents were involved in the protest by the parents of the school, saying that the education of the students would be affected and that the students were not getting properly, and that no action had been taken to appeal to the Zonal Education Workshop.
-
-Subsequently, the Mullaitivu police, who visited the scene, discussed with their parents and sent teachers on the street to the school.. Subsequently, a discussion between the parents and the police was held on the issue.
-
-...
-
-[Data](articles/090da2a7.json)
-
-[Extended Data](ext_articles/090da2a7.ext.json)
-
----
-
-### Report of the Central Bank
-
-*2024-06-19 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197917) · `si`
-
-The Central Bank salary investigation report, submitted to the Finance Committee, recommends increasing salaries. Dr. Harsha de Silva, the committee chairman, disclosed this to parliament.
-
-🟩
-
-The Government of the Committee appointed to investigate the salaries of the Central Bank has been handed over to the Committee on the Committee on Finance.
-
-Chairman of the report Dr. Harsha de Silva informed parliament today.
-
-According to the Chairman of the Committee on Public Finance, Dr. Harsha de Silva, said that the report had to increase the salary increase.
-
-◼️
-
-[Data](articles/87636092.json)
-
-[Extended Data](ext_articles/87636092.ext.json)
 
 ---

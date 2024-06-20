@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 15:53:21**
+As of **2024-06-20 16:05:57**
 
 ## Newspaper Stats
 
-*Scraped **31,323** Articles*
+*Scraped **31,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,135 @@ islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,734
-adaderanalk | 3,545
+adaderanalk | 3,548
 tamilmirrorlk | 3,683
 dailymirrorlk | 4,733
 virakesarilk | 4,854
-adaderanasinhalalk | 5,089
+adaderanasinhalalk | 5,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,319 (100.0%) of 31,323 articles have been extended.
+31,323 (100.0%) of 31,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### மனைவியை தீ மூட்டி எரித்து படுகொலை செய்த கணவனுக்கு மரண தண்டனை
+### Neighbours like Sri Lanka are extremely important to India, Jaishankar tells PM
+
+*2024-06-20 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99992/neighbours-like-sri-lanka-are-extremely-important-to-india-jaishankar-tells-pm) · `en`
+
+Indian Minister of External Affairs, Dr. S. Jaishankar called on Prime Minister Dinesh Gunawardena at Temple Trees in Colombo today (June 20).
+
+The Prime Minister congratulated Dr. Jaishankar on the election victory of the BJP-led National Democratic Alliance and reassured Sri Lanka’s commitment to work together to further strengthen close bilateral relations.
+
+He thanked India for the assistance given at recent difficult times after Covid-19 pandemic and the economic crisis, the Prime Minister’s Media Division said.
+
+Minister Jaishankar said neighbours like Sri Lanka are extremely important to India and there is tremendous goodwill for Sri Lanka in India. He said the Indian government reaffirms the ‘Neighbourhood First Policy’ and the main purpose of his visit is to underline India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend, the statement added.
+
+...
+
+[Data](articles/29607ddf.json)
+
+---
+
+### Circular on admission of children to Grade 01 to be amended
+
+*2024-06-20 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99991/circular-on-admission-of-children-to-grade-01-to-be-amended) · `en`
+
+The Cabinet of Ministers has approved proposal to amend the current circular related to the admission of children to the Grade 01 classes of government schools.
+
+Cabinet Spokesman, Minister Bandula Gunawardena stated that the admission of children to the first grade of schools is done transparently and in a manner that minimizes irregularities, in order to ensure equal access to education consistent with the circular issued by the Ministry of Education.
+
+Accordingly, the Cabinet of Ministers granted approval to the proposal presented by Minister of Education Susil Premajayantha to amend the current circular instructions based on the experience gained in the past years.
+
+The Cabinet of Ministers also approved the admission of children to the Grade 01 classes for the year 2025 and following years according to the revised circular.
+
+◼️
+
+[Data](articles/d59557bb.json)
+
+---
+
+### Cabinet greenlights procurement of pre-printed Polycarbonate cards for NIC printing
+
+*2024-06-20 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99990/-cabinet-greenlights-procurement-of-pre-printed-polycarbonate-cards-for-nic-printing) · `en`
+
+The Cabinet of Ministers has granted approval for the procurement of 2.3 million pre-printed Polycarbonate cards for printing National Identity Cards (NICs).
+
+Earlier on 05 May 2024, the Cabinet of Ministers decided to cancel the procurement considering recommendations of the procurement committee implemented for purchase of 05 million pre - printed Polycarbonate cards required for printing identity cards for the Department of Registration of Persons and the recommendations of the procurement appeal boards in the regards.
+
+Furthermore, approval was granted at the same meeting of the Cabinet of Ministers to obtain only the essential quantity of pre- printed Polycarbonate cards from the previous supplier until an appropriate supplier is selected followed by implementation of a new procurement, so that undisturbed execution of the process of issuing national identity cards can be carried out.
+
+...
+
+[Data](articles/0740fae0.json)
+
+---
+
+### මුහුද මැද ගැටුමකින් ධීවරයෙක් මරුට
+
+*2024-06-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197956) · `si`
+
+බේරුවල ධීවර වරායෙන් මුහුදු ගිය සහන් පුතා බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හයදෙනෙක් අතර ඇතිවූ ආරවුලකින් එක් අයෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+
+මුහුද මැදදී මෙම ගැටුම හටගෙන තිබෙන අතර බේරුවල ධීවර පරීක්ෂක කාර්යාල ආරංචි මාර්ග සඳහන් කරන්නේ යාත්‍රාවේ සිටින අනෙක් පිරිස ද තුවාල ලබා ඇති බවය.
+
+බේරුවල රේගුව පාරේ පදිංචි සුමනසිරි ප්‍රනාන්දු නමැති යාත්‍රාවේ හිමිකරු විසින් මෙම සිද්ධිය සම්බන්ධයෙන් බේරුවල පොලීසියට කළ පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කර තිබුණි.
+
+මියගොස් ඇති පුද්ගලයාගේ මෘතදේහය බේරුවල ධීවර වරායේ සිට මුහුදු සැතපුම් 180ක් පමණ ඈත සිට අදාළ යාත්‍රාවෙන්ම බේරුවල ධීවර වරායට පැමිණෙමින් සිටින බවද වාර්තා වෙයි.
+
+ගැටුමෙන් මියගොස් ඇත්තේ මග්ගොන, මාගල්කන්ද, රොක්ලන්ඩ් වත්ත ප්‍රදේශයේ පදිංචිව සිටි එම්. කේ. චන්දන උපුල් නමැති පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/db108700.json)
+
+---
+
+### Husband death sentenced to death
 
 *2024-06-20 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186571) · `ta`
 
-யாழ்ப்பாணத்தில் மனைவியை தீ மூட்டி எரித்து படுகொலை செய்த கணவனுக்கு யாழ். மேல் நீதிமன்றம் மரண தண்டனை விதித்துள்ளது.
+A man in Jaffna, Sri Lanka, was sentenced to death by the Supreme Court for burning his wife to death in 2015. After initial investigations by the Manipay police, the case was brought to the Supreme Court by the Attorney General in 2019. The verdict was delivered recently, finding the defendant guilty and imposing the death sentence.
 
-கடந்த 2015ஆம் ஆண்டு ஜூன் மாதம் 20ஆம் திகதி மானிப்பாய் காக்கை தீவு பகுதியில் குடும்ப பெண்ணொருவர் தீக்காயங்களுக்கு உள்ளான நிலையில் உயிரிழந்துள்ளார்.
+🟩
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த மானிப்பாய் பொலிஸார் கணவனை கைது செய்து யாழ். நீதாவன் நீதிமன்றில் முற்படுத்தினர்.
+Jaffna husband who burned his wife in Jaffna. The Supreme Court has sentenced the death penalty.
 
-நீதவான் நீதிமன்றில் சுருக்கமுறையற்ற விசாரணைகள் முன்னெடுக்கப்பட்டு, 2019ஆம் ஆண்டு யாழ். மேல் நீதிமன்றில் சட்டமா அதிபரினால் குற்றப்பகிர்வு பத்திரம் தாக்கல் செய்யப்பட்ட நிலையில் வழக்கு விசாரணைகள் முன்னெடுக்கப்பட்டது.
+On June 20, 2015, a family woman died in a fire in the Manipay Kakai Island area.
 
-தீர்ப்புக்காக நேற்றைய தினம் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, படுகொலை செய்யப்பட்ட பெண்ணின் கணவனை மன்று குற்றவாளியாக கண்டு, மரண தண்டனை விதிக்கப்பட்டது.
+Manipay police arrested her husband. The magazine sought to court.
+
+Incorrect inquiries are being carried out in the Magistrate's Court and Jaffna in 2019. The case was filed by the Attorney General in the Supreme Court as the indictment was filed.
+
+When the case was taken up yesterday for the verdict, the murdered woman was found guilty and sentenced to death.
 
 ◼️
 
 [Data](articles/ecbeda94.json)
 
+[Extended Data](ext_articles/ecbeda94.ext.json)
+
 ---
 
-### வரலாற்றில் இன்று : 1955 - "பூரண சூரிய கிரகணம் : சிகிரியாவின் அதிர்ஷ்டம்!"
+### Today in History: 1955 - "Complete Solar Eclipse: Sigiriya's luck!"
 
 *2024-06-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186566) · `ta`
 
-முழு உலகத்தையும் வியப்பில் ஆழ்த்திய ஒரு மிகப் பெரிய சூரிய கிரகணம் 1955ஆம் ஆண்டு இதே திகதியில் (ஜூன் 20) இடம்பெற்றது.
+On June 20, 1955, the world was captivated by a total solar eclipse, marking a significant event in history.
+
+🟩
+
+A huge solar eclipse that surprised the whole world took place on the same date (June 20) in 1955.
 
 ◼️
 
 [Data](articles/fb7b1734.json)
+
+[Extended Data](ext_articles/fb7b1734.ext.json)
 
 ---
 
@@ -110,17 +194,23 @@ The proposal made by Hon.
 
 ---
 
-### கள்ளக்குறிச்சி கள்ளச்சாராய வணிகர்கள் - திமுக நிர்வாகிகள் தொடர்பு குறித்து விசாரணை வேண்டும் - பாமக தலைவர் அன்புமணி வலியுறுத்தல்
+### Kallakurichi counterfeit businessmen - DMK executives should investigate
 
 *2024-06-20 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186568) · `ta`
 
-கள்ளக்குறிச்சி மாவட்டத்தில் கள்ளச்சாராயம் அருந்தி உயிரிழந்தவர்களின் எண்ணிக்கை முப்பத்தைந்தாக உயர்ந்திருக்கிறது. கள்ளச்சாராயம் அருந்தி மக்கள் உயிரிழந்திருப்பது அதிர்ச்சியளிக்கிறது. மேலும் இவ்விவகாரத்தில் கள்ளச்சாராய வணிகர்களுக்கும், திமுக நிர்வாகிகளுக்கும் உள்ள தொடர்பு குறித்து விசாரணை நடத்தப்படவேண்டும் என்று பாமக தலைவர் அன்புமணி ராமதாஸ் வலியுறுத்தியுள்ளார்.
+In Kallakurichi, 35 deaths due to illicit liquor highlight a failure to curb counterfeit alcohol sales. DMK executive Anbumani Ramadas calls for an investigation into the party's involvement. The incident echoes a similar tragedy in 2022, where over 30 died from bootlegged liquor, prompting criticism of the Tamil Nadu government's handling. The district collector and several officials have been dismissed, but the focus shifts to the DMK's alleged support for the counterfeit trade, demanding further action against those implicated.
 
-“கள்ளக்குறிச்சி மாவட்டம் கருணாபுரம் பகுதியில் கள்ளச்சாராயம் குடித்து உயிரிழந்தவர்களின் எண்ணிக்கை 35 ஆக உயர்ந்திருக்கிறது. 50-க்கும் மேற்பட்டோர் பல்வேறு மருத்துவமனைகளில் மருத்துவ சிகிச்சைப் பெற்று வருகின்றனர்.  உயிரிழப்புகளின் எண்ணிக்கை நிமிடத்திற்கு  நிமிடம் அதிகரித்து வருகிறது. கள்ளச்சாராயத்திற்கு இவ்வளவு பேர் உயிரிழந்திருப்பது அதிர்ச்சியளிக்கிறது. கள்ளச்சாராயத்தைக் கட்டுப்படுத்துவதில் தமிழக அரசும், காவல்துறையும் முற்றிலுமாக தோல்வியடைந்து விட்டன என்பதையே இது காட்டுகிறது.
+🟩
+
+The number of casualties in Kallakurichi district has risen to thirty -five. It is shocking that people have died of illicit liquor. In this regard, the leader of the party, Anbumani Ramadas, has urged the investigation into the connection between the DMK executives and the DMK executives.
+
+“The death toll from the Karunapuram area of ​​Kallakurichi district has risen to 35. More than 50 people are receiving medical treatment in various hospitals.The number of casualties is increasing in minute by minute. It is shocking that so many people have died for counterfeit money. This shows that the Tamil Nadu government and the police have completely failed to control the counterfeit money.
 
 ...
 
 [Data](articles/e1060c66.json)
+
+[Extended Data](ext_articles/e1060c66.ext.json)
 
 ---
 
@@ -284,15 +374,21 @@ He has served as the Deputy General of the Sri Lankan Army, the Colonel Commande
 
 ---
 
-### යුද හමුදාවට නව මාණ්ඩලික ප්‍රධානීවරයෙක් පත් කරයි
+### Army appoints new Staff Head
 
 *2024-06-20 13:55:30* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවට-නව-මාණ්ඩලික-ප්‍රධානීවරයෙක්-පත්-කරයි/11-410334) · `si`
 
-යුද හමුදා නව මාණ්ඩලික ප්‍රධානී වශයෙන්  විජයබා රෙජිමේන්තුව නියෝජනය කරන මේජර් ජනරාල් රෝහිත අළුවිහාරේ මහතා පත්කර තිබේ.
+Major General Roitharare, representing the Chief of Army, has been named the new Chief of Parliament.
+
+🟩
+
+Major General Roitharare, who represents the Chief of Army, has been appointed as the Chief of Parliament.
 
 ◼️
 
 [Data](articles/8ff65731.json)
+
+[Extended Data](ext_articles/8ff65731.ext.json)
 
 ---
 
@@ -2179,111 +2275,5 @@ Under the Ten Special Integrated Rural Development Program of the "Kandukara Das
 [Data](articles/0e26b216.json)
 
 [Extended Data](ext_articles/0e26b216.ext.json)
-
----
-
-### Everyone should work together to pay a salary of 1700 rupees for plantation workers - Jeevan Thondaman
-
-*2024-06-20 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186509) · `ta`
-
-Jeevan Thondaman urges unity among political parties to ensure plantation workers receive a 1700 rupee salary, highlighting the need for action against companies withholding this wage. He criticizes the current salary, equivalent to just over seven dollars, as insufficient and calls for addressing injustices faced by workers, including improper arrests during union activities.
-
-🟩
-
-Minister Jeevan Thondaman said that all the ruling and opposition parties should take action to pay a salary of 1700 rupees for plantation workers.
-
-The government has announced that the government has announced a salary of 1700 rupees, but the plantation companies have so far refused to provide it.. It is necessary to take steps to get it to the plantation workers, not the ruling party and the opposition.
-
-I am not saying that the salary of 1700 rupees is sufficient for plantation workers in any way. Steps must be taken to get it, though. Currently a thousand rupees salary was fixed by 2020. That is about seven dollars. How unjust is that the salary is still paid today.
-
-At the same time, as I am involved in the injustice inflicted on workers in a recent garden, some media have released the news.. That mistake must be addressed.
-
-At the same time, the police do not have the authority to arrest workers to carry out union actions. In that way, the plantation management is being treated.
-
-◼️
-
-[Data](articles/fd9d189d.json)
-
-[Extended Data](ext_articles/fd9d189d.ext.json)
-
----
-
-### Attack on journalist's house;The three arrested
-
-*2024-06-20 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186508) · `ta`
-
-Three individuals arrested for attacking journalist Thambichurai Pradeepan's home in Achchuveli, damaging vehicles and setting them on fire. They were granted bail by the court, and the damaged property will be returned to its owners under police supervision.
-
-🟩
-
-The court has allowed three persons arrested on charges of attacking Jaffna journalist's house.
-
-At around 12.15 am on Thursday morning at around 12.15 am on the house of journalist Thambichurai Pradeepan in the Achchuveli, Pathamani Kali Temple area, a Jandu -based violent gang attacked.
-
-Vehicles and property including motorcycle and three -wheeler outside the house were attacked and set on fire.
-
-Police have arrested three people on Tuesday as they are carrying out investigations into the incident.
-
-Police arrested three youths from Achchuveli, Mavittapuram and Kilinochchi and detained them at the Achchuveli police station.
-
-Following the hearing of the court, the court has allowed the three suspects to go on bail.
-
-At the same time, the motorcycle and three -wheeler carried out at the house of the journalist have been allowed to hand over them to the owners after the police have been appointed.
-
-◼️
-
-[Data](articles/9b15a947.json)
-
-[Extended Data](ext_articles/9b15a947.ext.json)
-
----
-
-### We will take action to address the issue of Kalmunai Divisional Secretariat - Prime Minister Dinesh
-
-*2024-06-20 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186507) · `ta`
-
-Prime Minister Dinesh Gunawardena assures no rejection of the Kalmunai Divisional Secretariat issue, addressing concerns raised by MPs. Despite previous discussions and promises from the Ampara District Government Agent, no action has been taken. An auditor is now involved, but administrative restructuring issues in court complicate matters. Further actions are planned through ministry discussions.
-
-🟩
-
-We are taking steps to address the Kalmunai Divisional Secretariat issue. Prime Minister Dinesh Gunawardena said we did not reject the issue.
-
-He was responding to a question raised by MPs Selvarasa Gajendran and Chanakyan Rasamanikam on Wednesday (19) in Parliament.
-
-The Kalmunai Divisional Secretariat has been going on for three months. We also talked about this on the phone with you. We had come to your office and discussed. You said that the Ampara District Government Agent will come and see this. But the Ampara District Government Agent said he had not taken any action.
-
-We have provided the Ampara District Government Agent to look into the issue of Kalmunai Divisional Secretariat issue.. Accordingly, an auditor has taken steps to carry out the necessary steps with the public at the office.
-
-...
-
-[Data](articles/2c4e21b2.json)
-
-[Extended Data](ext_articles/2c4e21b2.ext.json)
-
----
-
-### Crisis in Muttur
-
-*2024-06-20 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186506) · `ta`
-
-In Muttur, a crisis arises as the Constitutional Council and Chief Justice's powers face challenges due to a Supreme Court interim injunction. Opposition MP Dayasiri Jayasekera calls for a Parliamentary Special Select Committee to probe this, highlighting violations of parliamentary privileges and delays affecting fundamental rights. Political party contradictions also impact judges in the Colombo district.
-
-🟩
-
-The power of the Constitutional Council and the powers of the Chief Justice have been challenged by the interim injunction of the Supreme Court. Therefore, Dayasiri Jayasekera, a member of the independent opposition in Parliament, urged the Speaker of Parliament to set up a Parliamentary Special Select Committee to investigate the interim injunction.
-
-He said this while addressing the issue of privilege violation during a session held in Parliament on Wednesday (19).
-
-The privilege of parliamentarians has been violated by the Supreme Court's order to cover the country's mulch.
-
-The President had made the recommendation of the Supreme Court's appointment to the High Court Judge of the Supreme Court.
-
-The High Court has confirmed the case and issued an interim injunction to make new appointments from the Supreme Court, except the Chief Justice of the High Court.
-
-...
-
-[Data](articles/901f1699.json)
-
-[Extended Data](ext_articles/901f1699.ext.json)
 
 ---

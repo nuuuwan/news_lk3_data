@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 19:52:44**
+As of **2024-06-20 20:19:24**
 
 ## Newspaper Stats
 
-*Scraped **31,361** Articles*
+*Scraped **31,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,742
+adalk | 2,743
 adaderanalk | 3,552
-tamilmirrorlk | 3,686
+tamilmirrorlk | 3,687
 dailymirrorlk | 4,733
-virakesarilk | 4,861
-adaderanasinhalalk | 5,099
+virakesarilk | 4,863
+adaderanasinhalalk | 5,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,361 (100.0%) of 31,361 articles have been extended.
+31,362 (100.0%) of 31,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Jaishankar met Mahinda
+
+*2024-06-20 19:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ஜெய்சங்கர்/175-339192) · `ta`
+
+Indian FM Jaishankar met ex-President Mahinda Rajapaksa, discussing bilateral cooperation and congratulating him on his support.
+
+🟩
+
+Indian Foreign Minister S.. Jaishankar met former President Mahinda Rajapaksa today.
+
+“India discussed the current progress of bilateral cooperation between Sri Lanka. Our congratulations for his continued support, ”Jaishankar said in his post. Remble
+
+◼️
+
+[Data](articles/e31971fc.json)
+
+[Extended Data](ext_articles/e31971fc.ext.json)
+
+---
+
+### කාසියේ වාසිය ඉන්දියාව ට
+
+*2024-06-20 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197967) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ තවත් තරගයක් අද (20) පැවැත්වෙයි.
+
+ඇෆ්ගනිස්තානය සහ ඉන්දියාව අතර තරගය මෙලෙස අද පැවැත්වෙන අතර එහි කාසියේ වාසිය දිනා ගැනීමට ඉන්දියාව සමත් විය.
+
+◼️
+
+[Data](articles/5373be10.json)
+
+---
+
+### சஜித் உள்ளிட்ட எதிர்க்கட்சி பிரதிநிதிகளை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர்
+
+*2024-06-20 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186602) · `ta`
+
+இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ உள்ளிட்ட எதிர்க்கட்சிகளின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ, ஜி.எல். பீரிஸ், எரான் விக்கிரமரத்ன, நிரோசன் பெரேரா, பழனி திகாம்பரம், ரவூப் ஹக்கீம் மற்றும் இராதாகிருஷ்ணன் ஆகியோர் கலந்துகொண்டனர்.
+
+இந்திய - இலங்கை உறவை வலுப்படுத்துவது குறித்தும் ஆதற்கு ஆதரவளிப்பது குறித்தும் இதன்போது ஆழமாக கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/0e29b040.json)
+
+---
 
 ### Maithri says Kadinal owners have received
 
@@ -79,6 +129,22 @@ MK Santana Upul, a man from Makkonna, Magalkanda and Rogland Watte, died in the 
 [Data](articles/f76f65c5.json)
 
 [Extended Data](ext_articles/f76f65c5.ext.json)
+
+---
+
+### வடக்கு, கிழக்கைச் சேர்ந்த தமிழ்த் தலைவர்களை ஒருமித்து சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர்!
+
+*2024-06-20 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186601) · `ta`
+
+வடக்கு மற்றும் கிழக்கு மாகாணங்களைச் சேர்ந்த 8 தமிழ் அரசியல் தலைவர்கள்  ஒருமித்து சந்தித்து கலந்துரையாடினார் இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர்.
+
+இச் சந்திப்பில் சாணக்கியன், எம்.ஏ. சுமந்திரன், சிறிதரன், செல்வம் அடைக்கலநாதன், தர்மலிங்கம் சித்தார்த்தன், சி.வி.விக்கினேஸ்வரன் மற்றும் செல்வராஜா கஜேந்திரன் ஆகியோர் கலந்துகொண்டனர்.
+
+சந்திப்பில் ஈடுபட்ட தலைவர்கள் பிரதிநிதித்துவப்படுத்தும் மாகாணங்களின் அபிவிருத்தி மற்றும் அதிகாரப்பகிர்வு குறித்த விடயங்கள் தொடர்பாக கலந்துரையாடப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b148aff5.json)
 
 ---
 
@@ -187,6 +253,24 @@ We have presented a number of complications regarding the women's reinforcement 
 [Data](articles/aab80aa1.json)
 
 [Extended Data](ext_articles/aab80aa1.ext.json)
+
+---
+
+### ඉන්දීය විදෙස් ඇමති කොළඹට එද්දී ඉන්දීය යුද නැවක් ත්‍රිකුණාමලයට
+
+*2024-06-20 18:19:57* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-විදෙස්-ඇමති-කොළඹට-එද්දී-ඉන්දීය-යුද-නැවක්-ත්‍රිකුණාමලයට/10-410341) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් INS ‘KAMORTA’ නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 ජුනි 20) උදෑසන ත්‍රිකුණාමලය වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස ත්‍රිකුණාමලය වරායට පැමිණි INS ‘KAMORTA’ නෞකාව දිගින් මීටර් 109.2 ක් හා නැව් මුළුව 390 ක ගෙන් සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස කපිතාන් Shiraz Huzain Azad කටයුතු කරනු ලබයි.
+
+‘INS ‘KAMORTA’ නෞකාවේ අණදෙන නිලධාරී කපිතාන් Shiraz Huzain Azad සහ නැගෙනහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් කාංචන බානගොඩ අතර නිල හමුවක් අද දින (2024 ජුනි 20) නැගෙනහිර නාවික විධාන මූලස්ථානයේදී පැවැත්වුනු අතර, නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+එමෙන්ම, ‘INS ‘KAMORTA’ නෞකාවේ මෙහෙයුම් ක්‍රියාකාරීත්වය නිරීක්ෂණය කිරීම සඳහා පාසල් සිසුන් හට අවස්ථාව හිමි වන අතර, ජාත්‍යන්තර යෝගා දිනය වෙනුවෙන් සම්බන්ධීකරණ වැඩසටහනක් පැවැත්වීමට සහ වෙරළ පිරිසිදු කිරීමේ වැඩසටහනක් පැවැත්වීමටද නියමිතව ඇත.
+
+...
+
+[Data](articles/4dae38e4.json)
 
 ---
 
@@ -2287,127 +2371,5 @@ This novel is "creating a powerful thugging between divine revolutionaries and t
 [Data](articles/fb9c5128.json)
 
 [Extended Data](ext_articles/fb9c5128.ext.json)
-
----
-
-### Mahanayaka of Malwathu Asgiri Udaya Maha Vihara to take action to ban drugs
-
-*2024-06-20 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186515) · `ta`
-
-The Mahanayaka of Malwathu Asgiri Udaya Maha Vihara has urged the President to ban drugs and limit alcohol sales to prevent societal decay and promote moral values, emphasizing the importance of holistic national development.
-
-🟩
-
-The Mahanayaka of the Malwathu Asgiri Udaya Maha Vihara has sent a letter to the President of the Malwathu Asgiri Udaya Maha Vihara to take necessary steps to completely ban harmful activities that sacrifice future generations.
-
-Dean of the Malwathu and Asgiriya Vihara have jointly sent a letter to the president to take necessary steps to completely ban the harmful habits that are sacrificed to the future generations.
-
-In a letter to the president, the President also stated that the move should be stopped before such disorders, considering the social degradation caused by the permits to open new liquor stores.
-
-In a letter sent to the President with the signature of Sri Siddhartha Sumangala Thera, the Dean of the Malwattu Vihara and the Dean of the Asgiri Faculty Varakagoda Sri Gnanaradana Thera.
-
-...
-
-[Data](articles/f6f18c42.json)
-
-[Extended Data](ext_articles/f6f18c42.ext.json)
-
----
-
-### Indian Foreign Minister to visit Sri Lanka
-
-*2024-06-20 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197944) · `si`
-
-Indian Foreign Minister S. Jaishankar's visit to Sri Lanka, amid a political crisis, aims to assess bilateral projects ahead of PM Modi's trip. The visit is seen as politically significant due to ongoing uncertainty over Sri Lanka's presidential election.
-
-🟩
-
-Indian Foreign Minister S. Jiasankar arrived in the island this morning.
-
-Political commentators say that Indian Foreign Minister's visit to Sri Lanka will be a political visit.
-
-Indian Foreign Minister has arrived in the island to review the projects between the two countries before the visit of Indian Prime Minister Narendra Modi.
-
-However, in Sri Lanka, there is a political crisis, and has not taken a final decision regarding the presidential election.
-
-◼️
-
-[Data](articles/534d12a6.json)
-
-[Extended Data](ext_articles/534d12a6.ext.json)
-
----
-
-### Sri Lanka’s Brazil envoy initiates sister city link between Colombo and Rio
-
-*2024-06-20 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-brazil-envoy-initiates-sister-city-link-between-colombo-and-rio-168863/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambassador to Brazil has had discussions with the Municipal Council of Rio de Janeiro on a sister city project with Colombo, the embassy said.
-
-Ambassador Sumit Dassanayake had met acting Vice President of the Permanent Committee on International Relations of the Municipal Council of Rio de Janeiro, Councilor Eliseu Kessler and the Secretary of the Civil House of the Municipal Secretariat Lucas Padiha.
-
-“The Acting Chair of the Permanent Committee on International Relations assured to submit a proposal for Sister City Project, expeditiously, and get the approval from the Municipal Council of Rio de Janeiro in the month of August 2024,” the embassy said in a statement.
-
-This is the first visit by a Sri Lankan envoy to Rio Municipal Council.
-
-“With this visit, relations between Sri Lanka and Rio de Janeiro will take a new direction.”
-
-Dassanayake said areas of cooperation which could be further elevated between Sri Lanka and Brazil would be trade, tourism and investments.
-
-...
-
-[Data](articles/baf2068c.json)
-
-[Extended Data](ext_articles/baf2068c.ext.json)
-
----
-
-### Young man beaten murder
-
-*2024-06-20 09:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இளைஞன்-அடித்துக்கொலை-இருவர்-தலைமறைவு/71-339165) · `ta`
-
-In Jaffna's Neduntivu, a 23-year-old was murdered by Samakin Devaraj Arulraj, allegedly due to personal conflict. Two suspects are at large, with police actively seeking their arrest. Investigations continue.
-
-🟩
-
-A youth has been assaulted and murdered in the seventh region of Jaffna - Neduntivu.
-
-The 23 -year -old has been murdered by Samakin Devaraj Arulraj.
-
-It is reported that the two men were killed last night due to the prejudice of the two.
-
-Police said that two suspects suspected of the murder have been in hiding and steps have been taken to arrest them.
-
-Further investigations into the murder are being carried out by the Nedundevu police. Remble
-
-◼️
-
-[Data](articles/3f173783.json)
-
-[Extended Data](ext_articles/3f173783.ext.json)
-
----
-
-### Someone who was burnt to fire his house
-
-*2024-06-20 09:43:59* · [`adalk`](https://www.ada.lk/breaking_news/සිය-නිවසට-ගිනි-තබාගෙන-තමනුත්-අලුවී-නිවසත්-අලු-කළ-අයෙක්/11-410329) · `si`
-
-A mason from Elpitiya died after being set on fire due to a family dispute. The incident occurred on Aalpitiya Road, and an autopsy was scheduled at Elpitiya Base Hospital.
-
-🟩
-
-Elpitiya Police said that a resident of the Aalpitiya Road, Talawa.
-
-The victim is a fort eight-year-old mason, a resident of Alitpitiya Road, Elpitiya Hospital.
-
-Police say he was burnt to fire and died on fire and died on fire and died on fire that he had burned down due to a family dispute.
-
-His autopsy was scheduled to be held at the Elpitiya Base Hospital today (20).
-
-◼️
-
-[Data](articles/29b0493a.json)
-
-[Extended Data](ext_articles/29b0493a.ext.json)
 
 ---

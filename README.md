@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 09:04:54**
+As of **2024-06-20 09:19:34**
 
 ## Newspaper Stats
 
-*Scraped **31,244** Articles*
+*Scraped **31,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,914
-adalk | 2,724
-adaderanalk | 3,534
+adalk | 2,725
+adaderanalk | 3,535
 tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
 virakesarilk | 4,827
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,244 (100.0%) of 31,244 articles have been extended.
+31,244 (100.0%) of 31,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-20 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99979/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowrs will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c5254778.json)
+
+---
 
 ### Another report to Human Rights Council on Sri Lanka
 
@@ -1564,6 +1584,22 @@ On the other hand, the West Indies in the C. Group have easily entered the Super
 
 ---
 
+### කෙහෙළියගෙන් නිවාස කුලී මාස හතරකින් ලැබී නෑ
+
+*2024-06-19 18:47:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගෙන්-නිවාස-කුලී-මාස-හතරකින්-ලැබී-නෑ/11-410318) · `si`
+
+මධ්‍යම පළාත් සභාව සතු නිවසක තාවකාලිකව පදිංචි වී සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් එම නිවස සඳහා අයවිය යුතු මුදල් මන්ත්‍රී පඩියෙන් කපා ගැනීමට අවසර ඉල්ලා ලිපියක් යොමු කොට දින 19 ක්ගතවී ඇතත්ඒ සඳහා මෙතෙක්ඔහුගෙන් නිසි ප්‍රතිචාර ලැබී නොමැති බව මධ්‍යම පළාත් ප්‍රධාන අමාත්‍යාංශය කියයි.
+
+අරගල සමයේදී කෙහෙළිය රඹුක්වැල්ල මහතාගේ නිවසගිනි තබා විනාශ කිරීමෙන් පසුඒ මහතාට තාවකාලිකව රැඳී සිටීම සඳහා කුලී පදනම මත මහනුවර මලබාර් වීදියේ පිහිටි මධ්‍යමය පළාත් මහ අමාත්‍ය නිල නිවස ලබා දී තිබේ.
+
+එසේ ලබා දී ඇත්තේ ඔහුගේ මාසික වැටුපෙන්10% ක මුදලක් අය කර ගැනීමේ ගිවිසුමක් මත බව පවසන මධ්‍යම පළාත් ප්‍රධාන අමාත්‍යාංශය රඹුක්වැල්ල මහතා සෞඛ්‍ය අමාත්‍ය ධුරයේ සහ පරිසර අමාත්‍ය ධූරයේ සිටි කාලය තුළදී එම අමාත්‍යාංශ ලේකම්වරුන්ගේ මාර්ගයෙන් අදාළ මුදල් මධ්‍යම පළාත් සභාවට අය වී ඇතත් මේ වන විට එම මුදල් ලැබීම නතර වී ඇති බව ප්‍රධාන අමාත්‍යාංශයේ  ඉහළ නිලධාරියකු පැවසීය.
+
+...
+
+[Data](articles/2fb8e190.json)
+
+---
+
 ### Excavation work is to be started at the Fort
 
 *2024-06-19 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186497) · `ta`
@@ -2303,49 +2339,5 @@ The Bureau of the Bureau has also been able to recover Rs.
 [Data](articles/dbddaeff.json)
 
 [Extended Data](ext_articles/dbddaeff.ext.json)
-
----
-
-### Vehicle Tune Up Dansala
-
-*2024-06-19 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197922) · `si`
-
-A vehicle tune-up event was launched by the Commissioner General of Motor Traffic in Sri Lanka, aiming to promote maintenance among owners of motorcycles and three-wheelers, who often neglect this due to financial constraints. The event, featuring local experts, runs today and tomorrow.
-
-🟩
-
-The Commissioner General of Motor Traffic had commenced a vehicle tuning Dansala today (19).
-
-This is held today and tomorrow in front of the Commissioner of Motor Traffic.
-
-"Commissioner General of Motor Traffic Nishantha Anuruddha said the most vehicles in Sri Lanka have more motorbikes and three-wheelers in Sri Lanka. They do not interested in tuning their car with their economic status. It harm the poisonous poisonous. This program is carried out using the experts in Sri Lanka. "
-
-◼️
-
-[Data](articles/242d129e.json)
-
-[Extended Data](ext_articles/242d129e.ext.json)
-
----
-
-### CIT regarding Pumi Hansamali's bank accounts. Trial
-
-*2024-06-19 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186463) · `ta`
-
-CIT has been authorized to investigate actress Pumi Hansamali's 19 bank accounts over allegations of asset accumulation through criminal activities. The probe focuses on the origins of funds used to purchase a Rang Rover and a Colombo property, valued at Rs 80 million and Rs 140 million respectively.
-
-🟩
-
-Magistrate Manjula Tilakaratne has granted permission to the Criminal Investigation Department (CIT) to obtain records of 19 accounts of 19 accounts of actress and brand -beautiful Pumi Hansamali on charges of making assets through systematic crimes.
-
-The investigation is underway as Pumi Hansamali has been accused of obtaining assets, including a Rang Rover vehicle worth Rs 80 million and a house in Colombo, worth Rs 140 million.
-
-In this case, the investigation is being carried out to find the source of the deposited fund in many bank accounts of Pumi Hansamali.
-
-◼️
-
-[Data](articles/fcde30b4.json)
-
-[Extended Data](ext_articles/fcde30b4.ext.json)
 
 ---

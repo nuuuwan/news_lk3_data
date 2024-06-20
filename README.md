@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 11:19:52**
+As of **2024-06-20 11:34:53**
 
 ## Newspaper Stats
 
-*Scraped **31,272** Articles*
+*Scraped **31,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,914
 adalk | 2,729
-adaderanalk | 3,539
+adaderanalk | 3,540
 tamilmirrorlk | 3,677
 dailymirrorlk | 4,733
 virakesarilk | 4,835
-adaderanasinhalalk | 5,080
+adaderanasinhalalk | 5,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,266 (100.0%) of 31,272 articles have been extended.
+31,272 (100.0%) of 31,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### President’s comments threaten entire judicial system and rule of law – BASL
+
+*2024-06-20 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99984/presidents-comments-threaten-entire-judicial-system-and-rule-of-law-basl) · `en`
+
+The Bar Association of Sri Lanka (BASL) has reiterated its unwavering commitment to upholding the Rule of Law and safeguarding the independence of the judiciary, while addressing recent remarks made by President Ranil Wickremesinghe in Parliament regarding the Supreme Court’s ruling on the ‘Gender Equality Bill’.
+
+In a statement issued on Wednesday (19), the BASL emphasized that the Supreme Court has executed its constitutional duty by evaluating the bill’s alignment with supreme law of the land.
+
+“While individuals have the right to agree or disagree, neither the legislature nor the executive should criticize the Court for performing its duty to the people,” the BASL stressed.
+
+...
+
+[Data](articles/5798b9c3.json)
+
+---
+
+### බන්ධනාගාර දෙපාර්තමේන්තුවෙන් විශේෂ දැනුම්දීමක්
+
+*2024-06-20 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197947) · `si`
+
+හෙට (21) යෙදී ඇති පොසොන් පොහෝ දිනය නිමිත්තෙන් බන්ධනාගාරගත රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් (Open Visit) බන්ධනාගාර දෙපාර්තමේන්තුව විසින් සලසා දී ඇත.
+
+ඒ අනුව හෙට දින තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපාරක්ෂක ද්‍රව්‍ය එක් රැඳවියෙකුට ප්‍රමාණවත් වන පරිදි ලබාදීමට අවස්ථාව ලබාදී ඇති අතර, සියලු සෞඛ්‍ය මාර්ගෝපදේශයන්ට අනුකූලව එම අමුත්තන් පෙන්වීමේ කටයුතු දිවයිනේ සියලුම බන්ධනාගාර තුළ සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/f2b695b2.json)
+
+---
 
 ### Transparency and int’l cooperation key to debt management - Semasinghe
 
@@ -48,37 +78,57 @@ Furthermore, he has stated during the forum that this journey underscores the im
 
 [Data](articles/59130168.json)
 
+[Extended Data](ext_articles/59130168.ext.json)
+
 ---
 
-### அநுராதபுரத்திற்கு விசேட பஸ், ரயில் சேவைகள்
+### Special bus and train services to Anuradhapura
 
 *2024-06-20 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186533) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு அநுராதபுரத்திற்கு வருகை தரும் பக்தர்களுக்காக இன்று (20) முதல் விசேட பஸ் மற்றும் ரயில் சேவைகள் அமுல்படுத்தப்பட்டுள்ளன.
+Special bus and train services started today for pilgrims heading to Anuradhapura ahead of Poson Pournami Day, as announced by the Deputy General Manager of the Railway Department and the Chairman of the Sri Lanka Transport Board, Lalith de Alwis.
 
-நாட்டின் பல்வேறு பகுதிகளிலிருந்து அநுராதபுரத்திற்கு வரும் பக்தர்களின் போக்குவரத்தை இலகுபடுத்தும் வகையில் பஸ் மற்றும் ரயில் சேவைகள் அமுல்படுத்தப்பட்டுள்ளதாக  ரயில் திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே. இந்திபொலகே மற்றும் இலங்கை போக்குவரத்து சபையின் தலைவர் லலித் டி அல்விஸ் ஆகியோர் தெரிவித்துள்ளனர்.
+🟩
+
+Special buses and train services have been implemented from today (20) for pilgrims visiting Anuradhapura on the eve of Poson Pournami Day.
+
+Deputy General Manager of the Railway Department. Hindi and Sri Lanka Transport Board Chairman Lalith de Alwis said.
 
 ◼️
 
 [Data](articles/a8a2ee14.json)
 
+[Extended Data](ext_articles/a8a2ee14.ext.json)
+
 ---
 
-### රත්නපුර මහාධිකරණ නඩුවක විභාගය අත්හිටුවන ලෙස අභියාචනාධිකරණයෙන් අතුරු නියෝගයක්
+### Court of Appeal suspended to be suspended in Ratnapura High Court
 
 *2024-06-20 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197946) · `si`
 
-2000 වසරේ මහ මැතිවරණය පැවති සමයේ රත්නපුර ගොඩකවෙල ප්‍රදේශයේදී එක්සත් ජාතික පාක්ෂිකයින් පිරිසකට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් මේ වනවිට මියගොස් සිටින ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු අමාත්‍ය රංජිත් සොයිසා ඇතුළු විත්තිකරුවන් පිරිසකට එරෙහිව රත්නපුර මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුවක විභාගය වහාම අත්හිටුවන ලෙස දන්වා අභියාචනාධිකරණය ඊයේ (19) අතුරු නියෝගයක් නිකුත් කළේය.
+The Court of Appeal in Sri Lanka temporarily halted proceedings in the Ratnapura High Court due to concerns over legal violations during a case related to an assault incident in Godakawela. This decision was made by a panel including Sampath Abeykoon and P. Kumaran Ratnam, based on arguments from attorney Hafil Faris representing the petitioner. Faris argued that the prosecution was unlawful and that the court should reconsider its initial ruling.
 
-එම නඩුවේ විත්තිකරුවන් පිරිසක් ගොනුකර ඇති ප්‍රතිශෝධන පෙත්සමක් සලකා බැලීමෙන් අනතුරුව සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් මෙම අතුරු නියෝගය නිකුත් කළේය.
+🟩
 
-පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥ හෆිල් ෆාරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධිය සම්බන්ධයෙන් විත්තිකරුවන්ට එරෙහිව නීතිපතිවරයා විසින් ඉකුත් යහපාලන රජය සමයේ අධිචෝදනා පත්‍ර ගොනුකළ බවත් ඉන්පසුව එය ඉවත් කරගත් බවත් දන්වා සිටියේය.
+Court of Appeal has been identified as a sign of the Sri Lanka High Court in the Ratnapura High Court against the assault in Godakawela in Ratnapura, Ratnapura.Released.
 
-පසුව 2019 වසරේ යළි නඩු පැවරීමට කටයුතු කළ බවද නීතිඥවරයා කියා සිටියේය.
+Sampath Abeykoon and P. The decision of the Court of Appeal consisting of Kumaran Ratnam has issued this interim order.
 
-...
+Attorneys-at-Law Hafil Faris appeared in behalf of the petitioner, he was speaking to the courts and told the defendants' indictments on the time of the end of the situation.
+
+The lawyer said that he was then prosecuted in 2019.
+
+According to the courtyard of the court when the case was taken up before the Ratnapura High Court, it was contrary to the law and the prosecution was contrary to the law.
+
+Attorney Hufel Faris pointed out that the judge had decided to reject the preliminary objections.
+
+Accordingly, the defendants have presented the judiciary before the Court of Appeal to decide that the decision is contrary to the law.
+
+◼️
 
 [Data](articles/cefb6b69.json)
+
+[Extended Data](ext_articles/cefb6b69.ext.json)
 
 ---
 
@@ -156,6 +206,8 @@ This is Jaishankar’s first bilateral visit after the formation of the new Gove
 
 [Data](articles/8ddd977d.json)
 
+[Extended Data](ext_articles/8ddd977d.ext.json)
+
 ---
 
 ### Management is necessary to protect and manage the need for urban marshlands - International swamp park representatives
@@ -186,21 +238,31 @@ They observed the swamp surrounding the Talangama Lake. They also focused on the
 
 ---
 
-### පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමට යද්දී මිනියට පණ ඇවිත්
+### The man has come to life as it goes on the post mortem examination
 
 *2024-06-20 10:21:16* · [`adalk`](https://www.ada.lk/breaking_news/පශ්චාත්-මරණ-පරීක්ෂණය-සිදුකිරීමට-යද්දී-මිනියට-පණ-ඇවිත්/11-410330) · `si`
 
-මදුරන්කුලිය ප්‍රදේශයේ ඉඩමක සේවය කළ මුරකරුවෙකු මරණයට පත්වී ඇතිබවට එම ඉඩමේ අයිතිකරු විසින් ඉකුත් 17දා මදුරන්කුලිය පොලීසියට සිදුකළ පැමිණිල්ලකදී පොලීසිය මෙම මෘතශරීරය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණයක් සිදුකිරීමට කළ මූලික පරීක්ෂණයකදී එම පුද්ගලයාට ජීවය ඇති බවට හදුනාගත් පොලීසිය ප්‍රතිකාර සඳහා  වහා රෝහල්ගත කර ඇත.
+In a mysterious death case investigated by Madurankuliya Police, a man revived during a post-mortem exam. The deceased, a local landowner, was found unresponsive but later regained consciousness in the hospital. Preliminary investigations suggest foul play, leading to a formal inquiry. The victim's family and funeral arrangements remain unknown, prompting government intervention.
 
-මෙම පැමිණිල්ල සිදුකර ඇත්තේ පුත්තලම දිස්ත්‍රික්කයේ පිහිටි ප්‍රාදේශීය  සභාවක හිටපු සභාපති වරයෙකි. මෙම සභාපති වරයාට හිමි මදුරන්කුලිය ප්‍රදේශයේ ඉඩමක් මුරකරුවෙකු දීරඝ කාලයක සිට සේවය කරඇති අතර ඉකුත් 17දා  පොලීසියට මෙම මුරකරු ඔහු සිටින මුරමඩුව තුළම මරණයට පත්ව ඇතිබවට පොලීසියට පැමිණිලි කර ඇත.
+🟩
 
-ඒ අනුව මෘතශරීරයට මැස්සෝ වසා ඇති බවත් මෙම මරණය සම්බන්ධයෙන් කිසිවෙකුත් සැක නැති බවත් පවසා ඇත.
+The owner of the land had come to the Madurankuliya Police on the preliminary investigation into the Madurankuliya Police have been identified in a preliminary investigation into the incident.
 
-මෙහිදී පොලිස්ථානාධිපතිවරයා විසින් හිටපු සභාපතිවරයා විසින් පවසා ඇත්තේ මෙය අභිරහස් මරණයක් බවත් මෘත ශරිරීරය සම්බන්ධයෙන් විධිමත් ස්ථානීය පරීක්ෂණයක් සිදුකර පශ්චාත් මරණ පරීක්ෂණයක් සිදුකළ යුතු බවයි.
+The complaint was conducted in a local church in Puttalam District. A landman of the Madurankuliya area in the Madurankuliya, the Chairman, has been serving as a watchman in the area.
+
+Accordingly, the flies have been closed and there is no doubt about the death.
+
+The ICTA, the former Chairman has said this is mysterious death and is a formal inquiry into the event of a post mortem.
+
+The land owner also stated that there is no more details of relatives and that the final functions of the death and the victims have been revealed that the funeral intervene is done by the end of the government.
+
+The OIC was then announced by the OIC, police officers were deployed before a post mortem to investigate the corporation.
 
 ...
 
 [Data](articles/8d9f3cf3.json)
+
+[Extended Data](ext_articles/8d9f3cf3.ext.json)
 
 ---
 
@@ -1916,17 +1978,25 @@ The visit will add momentum to connectivity projects and other mutually benefici
 
 ---
 
-### ඩොලර් ණය රුපියලට පරිවර්තනයේදී අසාමාන්‍ය අනුපාතයක් යොදාගෙන
+### Using an unusual rate of unusual ratio in translation
 
 *2024-06-19 20:04:04* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලර්-ණය-රුපියලට-පරිවර්තනයේදී අසාමාන්‍ය-අනුපාතයක්-යොදාගෙන/11-410326) · `si`
 
-රජය විසින් ලබා ගෙන තිබූ ඇමරිකානු ඩොලර් 332,704 ක විදේශීය ණය මුදලක් ආපසු ගෙවනු ලැබීමේ දී එම ණය මුදල දේශීය මුදල් බවට පරිවර්තනය කිරීම සඳහා 2023 වර්ෂයේ මාර්තු මස 01 වැනි දා ඇමරිකානු ඩොලර් 01 ක් රුපියල් 524.60 ක් ලෙස අසාමාන්‍ය විදේශ විනිමය අනුපාතයක් යොදා ගෙන ඇති බව ජාතික විගණන කාර්යාලය මගින් පෙරේදා(18දා) නිකුත්කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+In 2023, an unusual exchange rate was used to convert a foreign loan into local currency, resulting in a payment of over $332.704 million. This decision led to an excessive expenditure of approximately $53.7 million in local currency, indicating a potential financial misconduct.
 
-විදේශීය සම්පත් දෙපාර්තමේන්තුව සම්බන්ධයෙන් 2023 වර්ෂයට අදාළව නිකුත් කොට ඇති කාර්ය සාධක වාර්තාවක ඇතුළත් ව ඇති විගණන වාර්තාවේ මෙම තොරතුරු අන්තර්ගතව ඇත.  රජයේ මූල්‍ය ප්‍රකාශන අනුව ආපසු ගෙවනු ලැබූ මෙම විදේශීය ණය මුදල දේශීය රුපියල් බවට පරිවර්තනය කිරීමේ දී අසාමාන්‍ය විදේශ විනිමය  අනුපාතයක් යොදා ගෙන ඇති බව නිරීක්ෂණය වන බවද එම විගණන වාර්තාවේ සඳහන් වේ. ඒ අනුව ඇමරිකානු ඩොලර් එකක් රුපියල් 524.60 ක විදේශීය විනිමය අනුපාතය යටතේ ඇමරිකානු ඩොලර් 332.704 ක මුදල දේශීය මුදල් බවට පරිවර්තනය කිරීම සඳහා ශ්‍රී ලංකා රුපියල් දාහත්කෝටි හතලිස් පන් ලක්ෂ තිස් හය දහස් පන්සීය දහඅටක වැය කොට තිබුණි.
+🟩
 
-...
+Amendments to the local cash in repayment of US $ 332,704 US $ 332,704 US $ 1st of the year 2023, the average audit of US $ 1 was used as an unusual forex rate of Rs.The office said at a new audit report issued by the office on Monday (18).
+
+This information contains information on the audit report issued by the Department of Foreign Resources regarding the Department of Foreign Resources.The audit report states that this audit ratio has been used in converting this foreign loan as per government financial statements into local rupees. Accordingly, US $ 332.704 has been spent to convert US $ 332.704 million to convert US $ 332.704 million to the local currency.
+
+The rupee has paid for US $ 1 at the maximum of Rs.. Sri Lankan Rupees cost 332,704 under the forex rate of $ 38 million.  ඒ අනුව අදාළ විදේශීය ණය මුදල ගෙවීමට ඩොලර් මිලදී ගැනීම සඳහා රුපියල් මිලියන 53.7 ක මුදලක්  වැඩිපුර වැයකොට  මූල්‍ය අපරාධයක් සිදු කොට ඇති බවට විගණනයට පෙනී ඇත.
+
+◼️
 
 [Data](articles/7d1fd067.json)
+
+[Extended Data](ext_articles/7d1fd067.ext.json)
 
 ---
 
@@ -2239,53 +2309,5 @@ Purchase of nearly Rs. Rs.Sub Inspector Tharanga Lakmal further stated that it w
 [Data](articles/4df998f6.json)
 
 [Extended Data](ext_articles/4df998f6.ext.json)
-
----
-
-### Says on the Kaluwewa, King Dhatusena
-
-*2024-06-19 18:21:12* · [`adalk`](https://www.ada.lk/breaking_news/ධාතුසේන-රජු-කරවූ-කලාවැවේ-වානේ-තිබුණු-නිදහන්-අරන්-ගිහින්/11-410316) · `si`
-
-The Mahaweli Authority filed a complaint against treasure hunters damaging historical sites, as per the Mahavamsa, near Kaluwewa. Residents were informed by the National Organizer of the Ceylon Agrarian Federation. Security personnel are managing the situation, and the case involves allegations of political and public official interference.
-
-🟩
-
-The Mahaweli Authority has lodged a complaint with the Ipalogama police that a large number of treasure hunters had been demolished by the Mahavamsa.
-
-Residents of the All Ceylon Agrarian Federation of the All Ceylon Agrarian Federation of the Central Ceylon Agrarian Federation have been informed of the National Organizer of the Ceylon Agrarian Federation of the Central Calawa area near the incident.Have
-
-When contacted, Bowanna Reservoirs, Buddhika Mahesh Navaratne, he said that he was able to know about the 19th morning, he said he was instructed to complain to the police..
-
-Both of the Kala Wewa and the cattle have been removed from the same large number of lane and have taken the black stone formulas that have been dagged at the same stake.National Organizer of the All Ceylon Farmers Federation, Namal Karunaratne said.
-
-...
-
-[Data](articles/d76b2714.json)
-
-[Extended Data](ext_articles/d76b2714.ext.json)
-
----
-
-### Karuna Amman to back Ranil at presidential poll
-
-*2024-06-19 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99972/karuna-amman-to-back-ranil-at-presidential-poll) · `en`
-
-Leader of the Tamil United Freedom Front (TUFF), former MP Vinayagamoorthy Muralitharan alias ‘Karuna Amman’, says that both he and his party will support President Ranil Wickremesinghe at the upcoming Presidential Election.
-
-The former LTTE commander turned politician revealed this while speaking to reporters while attending the opening of United National Party (UNP) office in Panadura today (19).
-
-“We have to appreciate our President Ranil Wickremesinghe, because he only rebuilt the country.”
-
-“Everybody knows the history. The last President spoilt the whole sector, even the businesses and the people’s livelihood. Everything went down,” the former deputy minister said.
-
-He stated that only after UNP leader Wickremesinghe took over the Presidency has the situation improved in the country and things are turning for the better.
-
-“The next chance also we have to give to him. That’s why I’m also supporting him,” Karuna Amman declared.
-
-...
-
-[Data](articles/e9f521fa.json)
-
-[Extended Data](ext_articles/e9f521fa.ext.json)
 
 ---

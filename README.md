@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 02:19:59**
+As of **2024-06-21 02:34:57**
 
 ## Newspaper Stats
 
-*Scraped **31,400** Articles*
+*Scraped **31,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,80 @@ adalk | 2,745
 adaderanalk | 3,555
 tamilmirrorlk | 3,691
 dailymirrorlk | 4,733
-virakesarilk | 4,872
+virakesarilk | 4,876
 adaderanasinhalalk | 5,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,400 (100.0%) of 31,400 articles have been extended.
+31,400 (100.0%) of 31,404 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-21 (Friday)
+
+### அவுஸ்திரேலியா - பங்களாதேஷ் அணிகள் மோதும் சுப்பர் 8 போட்டி
+
+*2024-06-21 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186608) · `ta`
+
+மூவகை சர்வதேச கிரிக்கெட் போட்டிககளில் ஐசிசி வெற்றிக் கிண்ணங்களை தொடர்ச்சியாக சுவீகரித்த முதலாவது நாடு என்ற பெருமையை தனதாக்கிக்கொள்ளும் குறிக்கோளுடன் அவுஸ்திரேலியா, குழு 1க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியை எதிர்கொள்ளவுள்ளது.
+
+ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பிலும் அதனைத் தொடர்ந்து ஐசிசி 50 ஓவர் உலகக் கிண்ணப் போட்டியிலும் அவுஸ்திரேலியா கடந்த வருடம் சம்பியன் பட்டங்களை சூடியிருந்தது.
+
+குழு 1இல் 3 ஆசிய நாடுகளுடன் மோதவுள்ள அவுஸ்திரேலியா தனது முதலாவது சுப்பர் 8 போட்டியில் பங்களாதேஷை சந்திக்கிறது.
+
+இந்தப் போட்டி அன்டிகுவா, நோர்த் சவுண்ட் சேர் விவியன் றிச்சர்ட்ஸ் விளையாட்டரங்கில் இன்று வெள்ளிக்கிழமை (21) காலை நடைபெறவுள்ளது.
+
+இந்த இரண்டு அணிகளும் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டிகளில் சந்தித்துக்கொண்ட 5 சந்தர்ப்பங்களிலும் அவுஸ்திரலியா இலகுவாக வெற்றி பெற்றிருந்தது.
+
+சர்வதேச ரி20 அரங்கிலும் அவுஸ்திரேலியா 6 - 4 என்ற  ஆட்டங்கள் அடிப்படையில் முன்னிலையில் இருக்கிறது.
+
+...
+
+[Data](articles/7132e1eb.json)
+
+---
+
+### நெடுந்தீவு இளைஞர் கொலைச் சம்பவத்துடன் தொடர்புடைய  சந்தேக நபர்கள் நால்வரில் ஒருவர் கைது!
+
+*2024-06-21 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186607) · `ta`
+
+நெடுந்தீவு இளைஞர் கொலைச் சம்பவத்துடன் தொடர்புடைய நால்வரை பொலிசார் தேடி வருகின்ற நிலையில் ஒரு சந்தேக நபர் காயங்களுடன் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட சந்தேக நபரும் சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டார்.
+
+இக்கொலையுடன் சம்பந்தப்பட்ட நான்கு சந்தேக நபர்களில் ஒருவர் கைது செய்யப்பட்ட நிலையில் ஏனைய மூன்று சந்தேக நபர்களையும் தேடி கைது செய்யும் முயற்சியில் பொலிசார் ஈடுபட்டுள்ளனர்
+
+◼️
+
+[Data](articles/2b0a4895.json)
+
+---
+
+### சூரியகுமார், பும்ரா அபார ஆற்றல்கள்; ஆப்கனை 47 ஓட்டங்களால் வென்றது இந்தியா
+
+*2024-06-21 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186606) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் நிறைவுக்கு வந்த குழு 1க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் 47 ஓட்டங்களால் இந்தியா மிக இலகுவாக  வெற்றிபெற்றது.
+
+சூரியகுமார் யாதவ் குவித்த தொடர்ச்சியான இரண்டாவது அரைச் சதம், ஜஸ்ப்ரிட் பும்ரா உட்பட பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சு என்பன இந்தியாவின் வெற்றியை இலகுவாக்கின.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இந்தியா 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 181 ஓட்டங்களைப் பெற்றது.
+
+ரோஹித் ஷர்மா (8) முதலில் ஆட்டம் இழந்த பின்னர் ரிஷாப் பான்டுடன் 2ஆவது விக்கெட்டில் விராத் கோஹ்லி 43 ஓட்டங்களைப் பகிர்ந்தார்.
+
+இந்த வருட உலகக் கிண்ணத்தில் முதல் 3 போட்டிகளில் துடுப்பாட்டத்தில் பிரகாசிக்கத் தவறிய விராத் கோஹ்லி இந்தப் போட்டியில் 24 பந்துகளில் 24 ஓட்டங்களைப் பெற்றார்.
+
+அவரைத் தொடர்ந்து ஷிவம் டுபே 10 ஓட்டங்களை மாத்திரம் பெற்றார். (90- 4 விக்.)
+
+இந் நிலையில் சூரியகுமார் யாதவ், ஹார்திக் பாண்டியா ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 60 ஓட்டங்களைப் பகிர்ந்து அணிக்கு தெம்பூட்டினர்.
+
+...
+
+[Data](articles/a1143e0e.json)
+
+---
 
 ### 2024-06-20 (Thursday)
 
@@ -471,6 +535,20 @@ Representatives of foreign swamp who attended the WLI Asia Oceania conference pa
 [Data](articles/dd627fd1.json)
 
 [Extended Data](ext_articles/dd627fd1.ext.json)
+
+---
+
+### கோத்தாபய  அரசாங்கத்தில் இடை நிறுத்தப்பட்ட வீட்டமைப்புத் திட்டங்களை மீண்டும் ஆரம்பியுங்கள் -    சஜித் சபையில்
+
+*2024-06-20 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186570) · `ta`
+
+அரசியல் பழிவாங்கும் நோக்கில் நல்லாட்சி அரசாங்கத்தில் முன்னெடுக்கப்பட்ட பல வீட்டுத்திட்டங்கள் இடைநிறுத்தப்பட்டுள்ளன. இதுதொடர்பாக கவனம் செலுத்தி இதனால் பாதிக்கப்பட்டுள்ள பயனாளிகளுக்கு நீதியை பெற்றுக்கொடுக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+2019 ஜனாதிபதித் தேர்தலுக்குப் பிறகு, எமது நாட்டில் முன்னெடுக்கப்பட்டு வந்த ஏராளமான வீட்டுத் திட்டங்கள் ஒரே நேரத்தில் இடை நிறுத்தப்பட்டன. இதன்கீழ் இலட்சக்கணக்கில் வீடுகள் நிர்மாணிக்க வழங்கப்பட்ட நிலுவைத் தவணை கூட இடை நிறுத்தப்பட்டுள்ளன. இதனால் இலட்சக்கணக்கான மக்கள் இடம்பெயர்ந்துள்ளனர். இந்த வீடமைப்புத் திட்டங்களால் பயனடைந்தவர்களுக்கு இந்தியாவில் இருந்து பெறப்படும் உதவிகள் கூட நிறுத்தப்பட்டுள்ளது .
+
+...
+
+[Data](articles/e898e315.json)
 
 ---
 
@@ -2261,103 +2339,5 @@ This coordinating center also includes people of Colombo Naval Headquarters, Gal
 [Data](articles/1d8a46a8.json)
 
 [Extended Data](ext_articles/1d8a46a8.ext.json)
-
----
-
-### Action to remove unauthorized street shops in Trincomalee ..!
-
-*2024-06-20 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186544) · `ta`
-
-Trincomalee Municipal Council and Pradeshiya Sabha met to discuss removing unauthorized street shops. A committee will be formed to handle this issue.
-
-🟩
-
-The Trincomalee Municipal Council border and the Pradeshiya Sabha were staged in front of the Trincomalee Municipal Council on Wednesday morning at the Trincomalee Municipal Council and the Trincomalee Municipal Council premises on Wednesday morning at the Trincomalee Bus Stand and the Trincomalee Municipal Council.
-
-The meeting was held on Wednesday at the Trincomalee Municipal Council, including the Secretary of the Uppuweli Pradeshiya Sabha, the Uppuveli Police Station, Chief Police Transport Officer and the Secretary of the Trincomalee Municipal Council.
-
-It was decided to remove unauthorized road shops during the discussion and decided to set up a separate committee for this purpose.
-
-◼️
-
-[Data](articles/a30647e3.json)
-
-[Extended Data](ext_articles/a30647e3.ext.json)
-
----
-
-### Recovery of illegal cuttings in Vavuniya - one arrested
-
-*2024-06-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186542) · `ta`
-
-In Vavuniya, a 30-year-old suspect was arrested by the District Crime Branch for illegal logging, recovering timber worth over Rs. 20 lakh. The suspect will face charges in court post-investigation.
-
-🟩
-
-A 30 -year -old suspect from the same area has been rescued by the Vavuniya District Crime Branch (DCDB) on Thursday morning (20).
-
-The rescued timber is worth more than Rs. 20 lakh, police said. Meanwhile, the suspect has been handed over to the Vavuniya police and will be produced before the court after investigations.
-
-On the orders of Senior Police Superintendent (SSP) Malin Ajantha Perera, on the orders of the Vavuniya Deputy Inspector General of Police (DIG), the Senior Police Inspector of Police, Gajendran44736, the police constables 78448, 34712 Herath, 28752 Sanath, 20569 Kumara, Namal Rum also arrestedSignificantly.
-
-◼️
-
-[Data](articles/7e7b55af.json)
-
-[Extended Data](ext_articles/7e7b55af.ext.json)
-
----
-
-### What happens to the prison officials who went to the trade union action?
-
-*2024-06-20 12:28:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5114gl3jneo) · `si`
-
-Prison officials faced disciplinary actions after engaging in a trade union action for a salary increase, despite being told they lacked legal authority to do so. The Ministry of Justice acknowledged their concerns but emphasized the illegality of such actions, promising a review of their salaries. The Commissioner General of Prisons was ordered to court, and investigations into unauthorized activities were initiated.
-
-🟩
-
-The Prisons Department has decided to take serious discipline and legislation against the officers who dominate judicial work or interfere with the administrative activities of prison.
-
-Prisons Commissioner, Media Spokesman Gamini B. Dissanayake comments into the Sinhala service, said that there was no legal power to engage in trade union action.
-
-However, a group of prison officials went on a trade union action on May 20 and 21 asking for a salary increase.
-
-Minister of Justice Wijedasa Rajapakse spoke at a press conference, said that the babies had some injustice to the babies.
-
-"We have acknowledged the officers of the Department of Prisons since time.
-
-'We have not ignored or suppress this question. We also admit that they have to be justified. '
-
-"At the end, I asked the Cabinet Memorandum until the gifts provided to each gradient allowances to be offered a monthly allowance of Rs. 15,000."The Minister of Justice said at the press conference. '
-
-...
-
-[Data](articles/cc609190.json)
-
-[Extended Data](ext_articles/cc609190.ext.json)
-
----
-
-### Canada lists Iran’s Revolutionary Guards as a terrorist group
-
-*2024-06-20 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99987/canada-lists-irans-revolutionary-guards-as-a-terrorist-group) · `en`
-
-Canada has listed Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation, after years of pressure from opposition legislators and some members of the Iranian diaspora.
-
-Announcing the decision on Wednesday, Public Safety Minister Dominic LeBlanc called it a “significant tool in fighting global terrorism”.
-
-The move will mean that thousands of senior Iranian government officials, including top IRGC officials, will be barred from entering Canada.
-
-Iran’s foreign ministry spokesman, quoted by Iran’s Fars news agency, has condemned what he described as the “unwise and unconventional” step.
-
-The IRGC is a major military, political and economic force in Iran, with close ties to the Supreme Leader, Ayatollah Ali Khamenei.
-
-It is estimated to have more than 190,000 active personnel with its own ground forces, navy and air force that oversee Iran’s strategic weapons.
-
-...
-
-[Data](articles/85ac23cc.json)
-
-[Extended Data](ext_articles/85ac23cc.ext.json)
 
 ---

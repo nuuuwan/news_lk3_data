@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 23:54:26**
+As of **2024-06-21 00:06:21**
 
 ## Newspaper Stats
 
-*Scraped **31,388** Articles*
+*Scraped **31,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,46 @@ dbsjeyarajcom | 291
 bbccomsinhala | 310
 newsfirstlk | 363
 islandlk | 1,716
-economynextcom | 1,810
+economynextcom | 1,819
 dailyftlk | 1,914
 adalk | 2,745
 adaderanalk | 3,555
 tamilmirrorlk | 3,690
 dailymirrorlk | 4,733
-virakesarilk | 4,871
-adaderanasinhalalk | 5,105
+virakesarilk | 4,872
+adaderanasinhalalk | 5,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,388 (100.0%) of 31,388 articles have been extended.
+31,388 (100.0%) of 31,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### ඉන්දියාවට සුපිරි ජයක්
+
+*2024-06-20 23:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197973) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියේ ඉන්දියාව සහ ඇෆ්ගනිස්තානය අතර පැවති සුපර් 8 වටයේ තරගයෙන් ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත්විය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 8ක් දැවී ලකුණු 181ක් රැස්කළේය.
+
+එහිදී සූර්ය කුමාර් යාදව් ලකුණු 53ක් රැස්කළේ පන්දු 28කට මුහුණ දෙමිනි.
+
+පන්දු යැවීමෙන් ෆසල්හක් ෆරූකි සහ රෂීඩ් ඛාන් කඩුලු 3 බැගින් දවාගත්හ.
+
+නමුත් පිළිතුරු ඉනිම ක්‍රීඩා කළ ඇෆ්ගනිස්තාන කණ්ඩායම රැස්කළේ ලකුණු 134ක්
+
+ඒ අනුව තරගය ලකුණු 47කින් ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/0c126e77.json)
+
+---
 
 ### The Karanaimetttttttttttttttttttttttt also distorts
 
@@ -332,6 +354,28 @@ Special buses and train services will be in operation for the devotees to the Po
 
 ---
 
+### Sri Lanka car permit tax losses Rs14bn in two years of partial disclosure
+
+*2024-06-20 20:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-permit-tax-losses-rs14bn-in-two-years-of-partial-disclosure-168953/) · `en`
+
+ECONOMYNEXT – Sri Lanka has lost 14.3 billion rupees in taxes from car permits given to public servants, including doctors, military officers, central bankers, finance ministry and tax officials, in 2019 and 2020 information disclosed by the finance ministry shows.
+
+Inclusive of some 2021 tax losses when imports were banned for the rest of the year, 14.4 billion rupees of foregone revenue from a waived luxury tax is shown.
+
+The list only shows waivers of a so-called ‘luxury tax’ imposed on larger vehicles above a certain value and size.
+
+The list does not show other vehicles imported under car permits such as double cabs or cars below a certain size.
+
+The list also does not seem to include tax free cars imported by politicians.
+
+In 2019, Sri Lanka has lost 8.3 billion rupees from the luxury tax on car permits and in 2019 the loss 5.92 billion rupees.
+
+...
+
+[Data](articles/ae4927ec.json)
+
+---
+
 ### Take action regarding the lack of interest -free loan action for higher education - Leader of the Opposition
 
 *2024-06-20 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186559) · `ta`
@@ -424,6 +468,24 @@ The President says that the International Monetary Fund cannot change the agreem
 
 ---
 
+### தனியார் பல்கலைக்கழக மாணவர்களுக்கான வங்கிக் கடனை விரைவில் பெற்றுக்கொடுக்க நடவடிக்கை  -   கல்வி அமைச்சர்
+
+*2024-06-20 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186574) · `ta`
+
+தனியார் பல்கலைக்கழக மாணவர்களுக்கான வங்கிக் கடன் வழங்குவதற்கு தேவையான ஆலாேசனைகளை அரச வங்கிகளுக்கு வழங்கி இருக்கிறோம். என்றாலும் அதில் ஏற்பட்டுள்ள தாமதத்தை நிவர்த்தி செய்வதற்கு விரைவில் நடவடிக்கை எடுக்கப்படும். அது தொடர்பில் இலங்கை வங்கியின் தலைவர் மற்றும் முகாமையாளருடன் தனிப்பட்ட ரீதியிலும் பேச்சுவார்த்தை நடத்தியுள்ளேன் என கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த  தெரிவித்தார்.
+
+தனியார் பல்கலைக்கழகங்களுக்கு அனுமதிக்கப்படும் மாணவர்களுக்கு வழங்கப்படும் வங்கிக் கடன் கடும் தாமதத்திற்கு உள்ளாகியுள்ளமை தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு  குறிப்பிட்டார்.
+
+அரச பல்கலைக்கழகங்களுக்குத் தகுதியற்ற மாணவர்களுக்கு உயர்கல்விக்கான வட்டியில்லா கல்விக் கடன் வருடம் தோறும் இவ்வாறு 4000 தனியார் பல்கலைக்கழக மாணவர்களுக்கு பெற்றுக் கொடுக்கப்படுகிறது.
+
+தொடர்ந்து இந்த கடன் வழங்கப்பட்டு வரும் நிலையில் ஏழாவது மாணவர் குழுவுக்கு கடன் வழங்குவதில் தாமதம் ஏற்பட்டுள்ளது. எட்டாவது மாணவர் குழுவுக்கு இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அந்தக் கடனை வழங்குகின்றன.
+
+...
+
+[Data](articles/3e9a7284.json)
+
+---
+
 ### There is no inconvenience within the bacterial infection spreading in Japan - Minister of Health
 
 *2024-06-20 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186584) · `ta`
@@ -447,6 +509,24 @@ It has been reported that it can be controlled by drugs as it has become a bacte
 [Data](articles/281263dd.json)
 
 [Extended Data](ext_articles/281263dd.ext.json)
+
+---
+
+### Construction of Sampur solar power plant to begin mid-July
+
+*2024-06-20 19:54:00* · [`economynextcom`](https://economynext.com/construction-of-sampur-solar-power-plant-to-begin-mid-july-168938/) · `en`
+
+ECONOMYNEXT – Joint energy projects between India and Sri Lanka, including the Sampur solar power plant due to begin next month, took centre stage during bilateral discussions between president Ranil Wickremesinghe and visiting Indian External Affairs Minister S Jaishankar on Thursday.
+
+Wickremesinghe and Jaishankar discussed initiatives aimed at enhancing energy connectivity and developing the renewable energy sector, a statement by his media division said.
+
+“Significant attention was given to plans for an LNG supply, a proposed petroleum pipeline linking the two countries, and advancing oil and gas exploration projects. Additionally, it was announced that construction of the Sampur Solar Power Plant is set to commence in July 2024.”
+
+The visit comes amid delays in key Indian projects including land, oil and gas pipe, and grid connectivity deals, Adani’s wind power plant deals which are facing a legal battle, and port and investment zone projects in the Eastern port district of Trincomalee.
+
+...
+
+[Data](articles/66ba944c.json)
 
 ---
 
@@ -924,6 +1004,26 @@ It is said that investigations have been launched on a complaint by the owner of
 
 ---
 
+### Sri Lanka shares debt management experience at global forum
+
+*2024-06-20 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-debt-management-experience-at-global-forum-168935/) · `en`
+
+ECONOMYNEXT – Sri Lanka has shared its experiences at a forum on debt management to “provide lessons for others”, State Minister of Finance Shehan Semasinghe has said.
+
+Semasinghe spoke on “The Role of Debt Management in Navigating Crises” at the 14th Debt Management Facility (DMF) Stakeholders’ Forum, in Livingstone, Zambia.
+
+“I shared the experiences of Sri Lanka which can provide valuable lessons for others and explored the critical elements of capacity building and sound institutional practices in managing debt, particularly in the context of economic challenges,” Semasinghe said on X (twitter).
+
+“Sri Lanka’s experience demonstrates that effective debt management is not just about managing numbers but also about building robust institutions and capacities.”
+
+The journey underscores the importance of transparent, accountable governance and the need for international support and cooperation in times of crisis, he said.
+
+...
+
+[Data](articles/28eb6f39.json)
+
+---
+
 ### Vijayamaran - Wimal - Bose Venkat is ready for 'sir'
 
 *2024-06-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186583) · `ta`
@@ -963,6 +1063,22 @@ The deceased person has been identified as M.K. Upul Chandana, a resident of Roc
 [Data](articles/79ceb67d.json)
 
 [Extended Data](ext_articles/79ceb67d.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 305.10/30 to US dollar
+
+*2024-06-20 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-305-10-30-to-us-dollar-168929/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger ahead of the long weekend at 305.10/30 to the US dollar on Thursday, up from 305.40/55 to the US dollar Wednesday, dealers said, while some bond yields edged up.
+
+A bond maturing on 15.12.2026 closed at 10.45/80 percent, up from 10.35/75 percent.
+
+A bond maturing on 15.09.2029 closed at 12.00/15 percent, up from 11.95/12.35 percent.
+
+◼️
+
+[Data](articles/b485b52c.json)
 
 ---
 
@@ -1183,6 +1299,28 @@ We hope that the aspirations of the Sri Lankan people will be fulfilled through 
 [Data](articles/a58e91e4.json)
 
 [Extended Data](ext_articles/a58e91e4.ext.json)
+
+---
+
+### Sri Lanka stocks close up, JKH trade pushes turnover
+
+*2024-06-20 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-trade-pushes-turnover-168924/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.19 percent, or 23.11 points, at 12,249; while the more liquid S&P SL20 Index closed up 0.15 percent, or 5.33 points, at 3,610.
+
+Turnover was 2 billion. Nearly half of this (Rs980mn) came from a crossing on John Keells Holdings Plc. The share closed down at 202.00.
+
+“There were several crossings today which pushed turnover,” market participants said.
+
+“Institutions and high net-worth activity drove the market, while the retail investors we feel are still about uncertain and adopting a wait-and-see approach.”
+
+Melstacorp Plc was among the companies that saw active volumes (Rs194mn) in the day. The share closed up at 87.10.
+
+...
+
+[Data](articles/4dd2da9d.json)
 
 ---
 
@@ -1528,6 +1666,28 @@ Police say two persons who were on their way home were among the injured to atte
 
 ---
 
+### Sri Lanka, India launch maritime rescue coordination centre
+
+*2024-06-20 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-launch-maritime-rescue-coordination-centre-168921/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe and visiting Indian External Affairs Minister S Jaishankar marked the formal commissioning of a Maritime Rescue Coordination Centre in the island nation on Thursday.
+
+The MRCC was constructed with a 6 million dollar grant from India.
+
+It includes a centre at Navy headquarters in Colombo, a sub-centre in Hambantota and unmanned installations at Galle, Arugambay, Batticaloa, Trincomalee, Kallarawa, Point Pedro and Mollikulam.
+
+Wickremesinghe and Jaishankar also launched, virtually, 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project. 24 houses in each model village were handed over.
+
+Jaishankar called on President Ranil Wickremesinghe at the President’s House earlier in the day for a one-on-one meeting, the president’s media division said.
+
+Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, ahead of polls
+
+...
+
+[Data](articles/e537dda0.json)
+
+---
+
 ### A fire in a house in Netastal estate
 
 *2024-06-20 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186552) · `ta`
@@ -1657,6 +1817,24 @@ When the case was taken up for hearing, both sides were present.. The case was a
 [Data](articles/55bbadc2.json)
 
 [Extended Data](ext_articles/55bbadc2.ext.json)
+
+---
+
+### Sri Lanka, Saudi Arabia to cooperate in promoting direct investment
+
+*2024-06-20 14:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-saudi-arabia-to-cooperate-in-promoting-direct-investment-168916/) · `en`
+
+ECONOMYNEXT – Sri Lanka and the Kingdom of Saudi Arabia will sign a memorandum of understanding for cooperation in promoting direct investment, Cabinet spokesman minister Bandula Gunawardena said.
+
+“Both sides reached an agreement,” during the special meeting of the World Economic Forum held in Riyadh, Saudi Arabia, Gunawardena told reporters on Thursday.
+
+The agreement “aims to attract direct investment to the country and improve the investment environment of both countries through policy and legal reforms, provision of advanced and integrated infrastructure, process redesign, etc.”
+
+Sri Lanka lagged behind regional nations in attracting foreign direct investment, the minister said. “Compared to Singapore which last year attracted FDIs of 140 billion dollars, India 70 billion dollars, Vietnam 28 billion dollars, and Thailand 20 billion dollars, Sri Lanka only attracted 1 billion dollars.”
+
+...
+
+[Data](articles/7eedf595.json)
 
 ---
 
@@ -1930,6 +2108,24 @@ In this case, what is the purpose of the Indian Foreign Minister?He said the gov
 
 ---
 
+### Sri Lanka ready to sign bilateral debt restructure deals: Minister
+
+*2024-06-20 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-ready-to-sign-bilateral-debt-restructure-deals-minister-168913/) · `en`
+
+ECONOMYNEXT – Discussions on restructuring bilateral debt has concluded and Sri Lanka is ready to sign agreements, Cabinet spokesman Minister Bandula Gunawardana said.
+
+Once the agreements are signed, halted loan funded projects can resume, he said.
+
+Sri Lanka has bilateral debt with Paris Club creditors, India and China.
+
+Project including the airport, highways and digital television can resume after the agreements are singed, he said.
+
+◼️
+
+[Data](articles/f0de8bec.json)
+
+---
+
 ### President Ranil and FM Jaishankar jointly unveil key India-funded projects in Sri Lanka
 
 *2024-06-20 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99988/president-ranil-and-fm-jaishankar-jointly-unveil-key-india-funded-projects-in-sri-lanka) · `en`
@@ -2139,237 +2335,5 @@ Police are investigating the accident that the accident caused the driver of the
 [Data](articles/086b2929.json)
 
 [Extended Data](ext_articles/086b2929.ext.json)
-
----
-
-### Jaishankar met the president
-
-*2024-06-20 12:06:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜெய்சங்கர்/175-339172) · `ta`
-
-Dr. S. Jaishankar, India's Foreign Minister, visited Sri Lanka and had a meeting with President Ranil Wickremesinghe at the Presidential Palace.
-
-🟩
-
-Indian Foreign Minister Dr S. Jaysankar, who arrived in Sri Lanka on an official visit to Sri Lanka, met President Ranil Wickremesinghe at the President's House.
-
-◼️
-
-[Data](articles/27732051.json)
-
-[Extended Data](ext_articles/27732051.ext.json)
-
----
-
-### Lorry will be injured in the terms of the lorry
-
-*2024-06-20 12:02:49* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-ලොරියක්-බවුසරයක-ගැටී-සිදු-වූ--අනතුරකින්-දෙනෙකුට-තුවාල---ලොරි-රථයේ-සහයකට--බලපතලයි/11-410331) · `si`
-
-A lorry driver and a resident of the Jaffna area were injured in an accident involving a lorry and a fuel bowl near Kandy around 3:00 am. The incident occurred when the lorry, traveling from Jaffna to the Dambulla Economic Center, collided with a stationary fuel bowl. Both victims were hospitalized, and the cause of the accident is believed to be the lorry driver falling asleep at the wheel. Further investigations are being conducted by the Motor Traffic Division under the guidance of Mihintale Police OIC Chief Inspector Ranjith Chandrasiri.
-
-🟩
-
-One person was hospitalized by a lorry and a fuel bowl in Kandy and a fuel bowl was hospitalized and one person was involved in the situation.
-
-The accident occurred at around 3.00 am in the Mihintale-Palugaswewa area.
-
-The hospital has been spent in the accident and the lorry helper, police said.
-
-The police said that the injured lorry driver and residents of the Jaffna area were residents of the Jaffna area.
-
-The police said that the accident had taken place through the road to the pages of a fuel bowl, which was parked from the Jaffna area to the Dambulla Economic Center.
-
-Police say that the accident had been suspected to be sleeping due to the driver of the vegetable lorry.
-
-The Motor Traffic Division conducts further investigations on the instructions of Mihintale Police OIC Chief Inspector Ranjith Chandrasiri.
-
-◼️
-
-[Data](articles/f6f94044.json)
-
-[Extended Data](ext_articles/f6f94044.ext.json)
-
----
-
-### World Bank announces new Country Director for Sri Lanka
-
-*2024-06-20 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99986/world-bank-announces-new-country-director-for-sri-lanka) · `en`
-
-The World Bank has announced Mr. David Sislen as the World Bank’s new Country Director for Maldives, Nepal, and Sri Lanka, effective from July 01, 2024.
-
-Mr. Sislen succeeds Mr. Faris Hadad-Zervos, who will be taking on a new World Bank assignment. Mr. Sislen, a dual national of the US and Italy, joined the Bank in 2001 as an Economist in the Urban Cluster Unit and has since held various operational and managerial positions in different regions.
-
-His most recent assignment is as Practice Manager for Urban, Disaster Risk Management, and Land in the Latin America and Caribbean Region, based in Washington DC.
-
-“I am looking forward to my new role and meeting with all our stakeholders and partners soon,” said Mr. Sislen. “My key priority will be to lead the strategic dialogue to shape and implement operational engagements in line with the Bank’s focus on speed, scale, and impact, working closely with the government, development partners, and diverse stakeholders”, the World Bank added.
-
-...
-
-[Data](articles/593062b1.json)
-
-[Extended Data](ext_articles/593062b1.ext.json)
-
----
-
-### A man arrested for illegal liquor production in Jaffna
-
-*2024-06-20 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186537) · `ta`
-
-In Jaffna, a 31-year-old man was arrested for producing illegal liquor. The police raided a house in Chunnakam, seizing 200 liters of kota and 6 liters of illicit alcohol, along with equipment used for its production.
-
-🟩
-
-A man has been arrested on Wednesday (19) in Jaffna.
-
-Based on confidential information available to the police that the police are making illegal liquor production in a house in the Chunnakam area, the police have seized the house, 200 liters of kota and 6 liters of illegal liquor and the use of illegal liquor production.
-
-Police have also arrested a 31 -year -old man from Alavetti, who was involved in illegal liquor production in the house.
-
-◼️
-
-[Data](articles/fa3f69ec.json)
-
-[Extended Data](ext_articles/fa3f69ec.ext.json)
-
----
-
-### Dengue for 161 in 24 hours
-
-*2024-06-20 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186540) · `ta`
-
-In the past 24 hours, 161 new dengue cases were reported, bringing the total for the last 20 days to 2,044. This follows the record high of 2,647 cases reported in May.
-
-🟩
-
-The National Dengue Control Division has reported that 161 dengue patients have been reported in the last 24 hours.
-
-2,044 dengue patients have been reported in the last 20 days in the country. Meanwhile, 2,647 dengue patients were reported in May.
-
-◼️
-
-[Data](articles/f9e8e231.json)
-
-[Extended Data](ext_articles/f9e8e231.ext.json)
-
----
-
-### Treasures of the arts lake
-
-*2024-06-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197950) · `si`
-
-In a case involving alleged treasure hunting at Kala Wewa, Ipalogama Police filed a complaint. The operation involved machinery to extract stones, sparking accusations of theft and attempts to conceal it. Residents and the National Organizer of All Ceylon Farmers' Federation, Namal Karunaratne, were implicated. Despite Kala Wewa being a controlled area, unauthorized individuals were allowed entry, raising concerns over security and permissions.
-
-🟩
-
-Ipalogama Police have lodged a complaint with the treasure hunting of a major steel in the Kala Wewa, which is considered by King Dhatusena.
-
-It has been revealed that the stone prices have been taken using the machinery.
-
-Theft has taken place near the ancient vendors of the Kala Wewa.
-
-Residents accused of trying to suppress this theft in the Mahaweli.
-
-When contacted, we asked the Bowethena Reservoir, Buddhika Mahesh Navaratne, he was instructed to hear about the incident yesterday morning and he instructed the police to complain to the police.He said he was.
-
-It is also reported that the Kala Wewa is a place of control but has been given permission to person with the security zone.
-
-National Organizer of All Ceylon Farmers' Federation Namal Karunaratne has been accused of carrying the treasure hunting in high-security areas.Does.
-
-And who gave permission to lamp the night?The government cannot attend the place without any permission without permission from the wildlife territory.
-
-◼️
-
-[Data](articles/b3c72da9.json)
-
-[Extended Data](ext_articles/b3c72da9.ext.json)
-
----
-
-### Iranian revolutionary ban on Canada
-
-*2024-06-20 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197949) · `si`
-
-Canada designated as a terrorist group by Iran due to its powerful military influence, impacting relations between the two countries. This move was influenced by Canada's opposition party and Iranian diaspora, leading to a ban on Iranian government and revolutionary officials visiting Canada. The Iranian revolutionary army significantly intervenes in Iran's war, political, and economic sectors.
-
-🟩
-
-Canada has taken steps to be named as a terrorist group, which is considered the most powerful army group of Iran.
-
-Foreign media reports that the decision has been taken over the impact of Canada opposition party and Iranian diaspora.
-
-The decision has been taken by the removal of Canadian inhabitants and diplomats in Iran.
-
-As a result, the Iranian government government officials and the top officials of Iranian revolutionary are not allowed to visit Canada.
-
-Iranian revolutionary army for war, political and economic sectors of Iran are strongly intervened.
-
-◼️
-
-[Data](articles/c4e9e2e5.json)
-
-[Extended Data](ext_articles/c4e9e2e5.ext.json)
-
----
-
-### Tamil Nadu fishermen arrested again;Stalin's outrage;Letter to Jaishankar
-
-*2024-06-20 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186536) · `ta`
-
-MK Stalin, Tamil Nadu's CM, wrote to India's FM Jaishankar, seeking the release of four fishermen arrested by the Sri Lankan navy. He highlighted the impact on their livelihoods and called for urgent action to free them and their boats. Currently, 15 fishermen and 162 boats are held by Sri Lanka, prompting the request for their immediate release.
-
-🟩
-
-Tamil Nadu Chief Minister Stalin has written to Indian Foreign Minister Jaishankar demanding action to release the fishermen arrested by the Sri Lankan navy.
-
-Chief Minister MK Stalin has written to Union Foreign Minister S Jaishankar, urging the central government to take immediate steps to release the four fishermen from Tamil Nadu who were arrested by the Sri Lankan navy yesterday.
-
-The letter was arrested by the Sri Lankan navy on 18-6-2024 by the Sri Lankan navy and their fishing boats were arrested by the Sri Lankan navy on 18-6-2024.
-
-He said that such incidents not only disrupt the livelihood of the fishermen, but also create fear and uncertainty among the fishermen.
-
-...
-
-[Data](articles/9b1fc743.json)
-
-[Extended Data](ext_articles/9b1fc743.ext.json)
-
----
-
-### Indian Foreign Minister calls on President Ranil
-
-*2024-06-20 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99985/indian-foreign-minister-calls-on-president-ranil) · `en`
-
-The visiting Indian External Affairs Minister Dr. S. Jaishankar has called on President Ranil Wickremesinghe at the President’s House a short while ago.
-
-Dr. S. Jaishankar is currently engaged in a one-on-one meeting with President Wickremesinghe, the President’s Media Division (PMD) said.
-
-Jaishankar arrived in Sri Lanka on an official visit this morning and was welcomed at the Bandaranaike International Airport (BIA) in Katunayake by Sri Lanka’s Minister of State for Foreign Affairs Tharaka Balasuriya and the Governor of Eastern Province Senthil Thondaman.
-
-During the visit, the Indian foreign minister is scheduled to have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, according to the Indian High Commission in Colombo.
-
-This is Jaishankar’s first bilateral visit after the formation of the new Government under Indian Prime Minister Shri Narendra Modi.
-
-◼️
-
-[Data](articles/651ae550.json)
-
-[Extended Data](ext_articles/651ae550.ext.json)
-
----
-
-### Indian Foreign Minister meets President
-
-*2024-06-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197948) · `si`
-
-Dr. S. Story, India's Foreign Minister, recently had a meeting with President Ranil Wickremesinghe.
-
-🟩
-
-Indian Foreign Minister Dr. S. Story. President Ranil Wickremesinghe has met President Ranil Wickremesinghe shortly ago.
-
-◼️
-
-[Data](articles/188572d1.json)
-
-[Extended Data](ext_articles/188572d1.ext.json)
 
 ---

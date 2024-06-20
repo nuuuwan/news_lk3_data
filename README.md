@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 16:19:27**
+As of **2024-06-20 16:34:36**
 
 ## Newspaper Stats
 
-*Scraped **31,332** Articles*
+*Scraped **31,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,91 @@ adaderanalk | 3,548
 tamilmirrorlk | 3,685
 dailymirrorlk | 4,733
 virakesarilk | 4,854
-adaderanasinhalalk | 5,091
+adaderanasinhalalk | 5,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,327 (100.0%) of 31,332 articles have been extended.
+31,332 (100.0%) of 31,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### පොලීසියට සුනඛයෙක් උසි ගැන්වූ සැකකරු වෙඩි කයි
+### එන්නත් වර්ග 08ක් ගැන ප්‍රශ්නය අභියාචනාධිකරණයට
 
-*2024-06-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197957) · `si`
+*2024-06-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197959) · `si`
 
-පොලිස් නිලධාරීන් වෙත පුද්ගලයෙකු විසින් නිවසේ සිටි සුනඛයෙකු උසි ගැන්වීමෙන් එම සුනඛයාගේ සපා කෑමට ලක්වූ පොලිස් නිලධාරියෙකු රෝහල්ගත කර තිබේ.
+විධිමත් පරීක්ෂණයකට යටත් නොකොට මෙරට පුද්ගලික සමාගමක් විසින් නිෂ්පාදනය කරන ලද එන්නත් වර්ග 08ක් ලියාපදිංචි කිරීමට ජාතික ඖෂධ නියාමන අධිකාරිය ගෙන ඇති තීරණය බලරහිත කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සමක් වැඩිදුර විභාගය සඳහා ලබන මස 23 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
 
-නීතීවිරෝධී මත්පැන් නිෂ්පාදනය කරන නිවසක් පිළිබඳ ලද තොරතුරකට අනුව වැල්ලම්පිටිය පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් මීතොටමුල්ල වඩුගොඩවත්ත ප්‍රදේශය වෙත ඊයේ (19) දහවල් පිටත්ව ගොස් තිබුණි.
+සමාජ ක්‍රියාකාරිකයින් දෙදෙනකු වන ප්‍රණීතා එන්. වර්ණකුලසූරිය සහ  දෙව්ෂාන් පී. බුද්දරගේ යන අය විසින් මෙම පෙත්සම ඉදිරිපත්කර තිබේ.
 
-එහිදී අදාළ ස්ථානය පිළිබඳ තොරතුරු අනාවරණය කරගැනීමෙන් අනතුරුව එම නිවස පරීක්ෂා කිරීමට යාමේදී නිවෙස්හිමියා විසින් නිලධාරීන්ට විරෝධය දක්වා තිබේ.
+මෙම පෙත්සම අද (21) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ඉදිරියේ කැඳවනු ලැබීය.
 
-නිවස තුළට පොලීසියට ඇතුළුවීමට ඉඩ නොදීමට ඔහු කටයුතු කර තිබෙන අතර වැටලීම සඳහා පැමිණි පොලිස් නිලධාරියෙකුට පහරදීමක් ද සිදුකර ඇත.
+එහිදී පෙත්සම්කාර පාර්ශවයේ නීතිඥවරයා කියා සිටියේ ප්‍රශ්නගත අදාළ එන්නත් තවදුරටත් නිෂ්පාදනය වෙමින් පවතින බවත් එම නිසා මෙම පෙත්සම කඩිනමින් විභාගයට ගෙන ඒ සම්බන්ධයෙන් තීන්දුවක් ලබාදෙන ලෙසත් ය.
 
-එහිදී සැකකරුගේ පුත්‍රයාද එම ස්ථානයට පැමිණ පොලිස් නිලධාරීන්ට පහරදීමට උත්සාහ කර ඇති අතර නිවසේ සුනඛයාවද ලිහා දැමීමට ඔවුන් කටයුතු කර තිබුණි.
+එහෙත් වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරු සඳහන් කළේ අදාළ ඖෂධය පිළිබඳව කිසිදු පැමිණිල්ලක් ලැබී නොමැති බවය.
 
-එම අවස්ථාවේදී තත්ත්වය පාලනය කිරීම සඳහා පොලිස් සැරයන්වරයෙකු සිය රාජකාරී ගිනි අවියෙන් වෙඩි තැබීමක් සිදුකර තිබෙන අතර එහිදී සිද්ධියේ ප්‍රධාන සැකකරුගේ දකුණු පාදයේ යටිපතුලට වෙඩිවැදී ඇත.
+ඉන් අනතුරුව අදාළ පෙත්සම් පිළිබඳ වැඩිදුර විභාගය ලබන මස 23 වනදා කැඳවන ලෙසත් අධිකරණය නියම කළේය.
 
-පසුව තුවාල ලැබූ සැකකරු සහ ඔහුගේ පුත්‍රයාව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+පෙත්සම්රුවන් කියා සිටින්නේ ඖෂධයක් වෙළෙඳපොළට මුදා හැරීම සඳහා ලියාපදිංචි කිරීමට පෙර  එය මාස හයක පරීක්ෂණ කාලයකට යටත් කෙරෙන බවය.
 
 ...
 
+[Data](articles/dd664aea.json)
+
+---
+
+### පාකිස්තානයේ ලැප්ටොප් පරිගණකයක් පිපිරී දරුවන් දෙදෙනෙක් මරුට
+
+*2024-06-20 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197958) · `si`
+
+නිවසක් තුළ ලැප්ටොප් පරිගණකයක් පුපුරා යාමෙන් සිදුවූ  අනතුරකින් දරුවන් දෙදෙනෙකු මියයෑමේ පුවතක් පාකිස්තානයෙන් වාර්තා විය.
+
+එරට මාධ්‍ය වාර්තා කරන්නේ කාන්තාවන් දෙදෙනෙකු සහ වයස අවුරුදු 03ත් 09ත් අතර ළමුන් 05 දෙනෙකු ඇතුළු තුවාල ලැබූ පුද්ගලයින් 09 දෙනෙකු රෝහලගත කර තිබූ බවය.
+
+අනතුරින් 06 හැවිරිදි ගැහැණු දරුවෙකු සහ 09 හැවිරිදි පිරිමි ළමයෙකු මිය ගිය බව රෝහල තහවුරු කර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ලැප්ටොප් සහ ජංගම දුරකථනවල ඇති දෝෂ සහිත බැටරි අධික ලෙස රත්වී ගිනි ගැනීමකට ලක්විය හැකි අතර ඇතැම් අවස්ථාවලදී
+
+◼️
+
+[Data](articles/4ea1e07a.json)
+
+---
+
+### The suspect was the mutilator of police
+
+*2024-06-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197957) · `si`
+
+In a police operation against an illicit liquor den, a suspect and his son attacked officers, injuring one seriously. The suspect's son tried to assault more officers but was restrained. Both father and son were arrested and hospitalized, while the injured officer was treated at the Colombo National Hospital.
+
+🟩
+
+A police officer had been admitted to the police by an increase in a dog by a person in the house by a person.
+
+According to information received regarding a illegal liquor house, a team of officers of the Wellampitiya Police had left the Wellampitiya Police Station yesterday (19th).
+
+After revealing the location, the home has objected to the officials.
+
+He has not allowed the police to enter the house and has assaulted a police officer who had come to raid.
+
+The suspect's son was also attempted to attack the police officers and they were able to unite the house.
+
+A police sergeant had shooting his duties in order to control the situation and has been shot to the bottom of the right foot of the event.
+
+The suspect and his son was arrested by the police.
+
+The police said that the suspect and the police sergeant was admitted to the Colombo National Hospital for treatment.
+
+The two suspects were produced before the Aluthkade Magistrate's Court today.
+
+◼️
+
 [Data](articles/da203c61.json)
+
+[Extended Data](ext_articles/da203c61.ext.json)
 
 ---
 
@@ -126,27 +178,35 @@ The Cabinet of Ministers also approved the admission of children to the Grade 01
 
 ---
 
-### மக்கா வீதிகளில் பரவிக் கிடக்கும் சடலங்களால் பரபரப்பு
+### The bodies that are spreading on the streets of Makkah
 
 *2024-06-20 15:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மக்கா-வீதிகளில்-பரவிக்-கிடக்கும்-சடலங்களால்-பரபரப்பு/50-339184) · `ta`
 
-இஸ்லாமிய மக்கள் தங்கள் வாழ்வியல் கடமைகளில் முக்கியமானதாக கருதப்படும் புனித ஹஜ் யாத்திரைக்காக ஆண்டுதோறும் மத்திய கிழக்கு நாடான சவூதி அரேபியாவில் உள்ள மக்கா மற்றும் மதினா செல்வது வழக்கம்.
+The annual Hajj pilgrimage in Saudi Arabia's Makkah faced unprecedented heat this year, leading to numerous fatalities. Over 900 people died, including 600 Indians, with bodies seen across the city. The intense heat, combined with inadequate food, water, and shelter, exacerbated the situation. The Saudi government is providing support to those affected, but the crisis underscores the urgent need for improved safety measures during such events.
 
-சவூதியில் வழக்கத்தைவிட இந்தாண்டு அதிகளவில் வெப்பம் பதிவாகி வருகிறது. இதனால் அந்நாட்டு மக்கள் கடும் அவதிக்குள்ளாகி வருகின்றனர்.
+🟩
 
-இந்நிலையில், ஹஜ் பயணம் மேற்கொண்டுள்ளவர்கள், குடைகளை பிடித்தபடி, தண்ணீர் அருந்தியபடி தங்கள் யாத்திரையை மேற்கொண்டுள்ளனர்.
+It is customary for the Islamic people to visit the Middle East in Saudi Arabia annually for the Holy Haj Pilgrimage, which is considered important in their biological duties.
 
-மக்காவில் அல் ஹராம் பகுதியில் கடுமையான வெப்பம் நிலவியதாக கூறப்படுகிறது. இதனால் பலர் உயிரிழந்து வருகின்றனர்.
+This year is more heat recorded in Saudi. As a result, the people of the country are suffering.
 
-தற்போது இறந்தவர்களின் எண்ணிக்கை 922ஆக அதிகரித்துள்ளது. அவர்களில் எகிப்தை சேர்ந்தவர் 600 என்றும் இந்தியர்கள் 80 என்றும் கூறப்பட்டுள்ளது. இதனால் வீதியெங்கும் சடலங்கள் கிடப்பதாக கூறப்படுகின்றது.
+In this case, the Hajj pilgrims have taken their pilgrimage to catching umbrellas and drinking water.
 
-இறந்தவர்கள் சடலங்கள் மக்காவுக்கு அருகில் உள்ள அல் – மொயிசம் மருத்துவமனையில் வைக்கப்பட்டுள்ளன.
+Al -Haram area in Makkah is said to have had severe heat. This has caused many to die.
 
-மேலும், 250 பேர் சுயநினைவு இன்றி மருத்துவமனைகளில் சிகிச்சை பெற்று வருவதாகவும் இதனால் உயிரிழப்புகள் அதிகரிக்கும் என்றும் அஞ்சப்படுகிறது.
+Currently the number of deaths has increased to 922. Among them is said to be 600 and 80 Indians. It is said that there are bodies all over the streets.
+
+The bodies of the deceased have been placed at the Al -Moism Hospital near Makkah.
+
+In addition, it is feared that 250 people are being treated in hospitals without self -consciousness.
+
+The Saudi government provides facilities to the people who are formally taking a visa for the Hajj pilgrimage.
 
 ...
 
 [Data](articles/bd678064.json)
+
+[Extended Data](ext_articles/bd678064.ext.json)
 
 ---
 
@@ -238,23 +298,29 @@ A huge solar eclipse that surprised the whole world took place on the same date 
 
 ---
 
-### சொக்லேட்டில் செத்த எலி
+### Chetta rat in chocolate
 
 *2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
 
-சொக்லேட் சிரப்பில் செத்த எலி கிடக்கும் வீடியோ ஒன்று சமூக வலைத்தளங்களில் வெளியாகி பெரும் வைரலாகி வருகிறது.
+A viral video shows a dead rat in chocolate, shocking consumers. A Mumbai doctor found a human finger in Butterskatch Connemoil after ordering online. Meanwhile, a Noida resident discovered a lizard in her child's ice cream, causing concern. This incident follows another where a family found a dead rat in their syrup, highlighting serious food safety issues.
 
-அண்மையில் மும்பை மலாட் பகுதியைச் சேர்ந்த மருத்துவர் ஒருவர் ஒன்லைன் மூலம் பட்டர்ஸ்காட்ச் கோன் ஐஸ்கிரீம் ஓர்டர் செய்துள்ளார். ஐஸ் கிரீம்மை ஆசையோடு உட்கொண்டபோது அதில் நகத்துடன் மனித விரல் ஒன்று இருந்ததைக் கண்டு அதிர்ச்சி அடைந்துள்ளார்.
+🟩
 
-இதனிடையே நொய்டாவை சேர்ந்த தீபா என்பவர் தனது 5 வயது மகனுக்கு மில்க் ஷேக் செய்வதற்காக ஐஸ்கிரீம் ஓர்டர் செய்துள்ளார். இதில் பூரான் ஒன்று இறந்து கிடந்ததைக் கண்டு பதறிப்போயுள்ளார்.
+A video of a dead rat in Chocolate is becoming a great viral on social media.
 
-இந்நிலையில், தற்போது பல்லி ஒன்று சொக்லேட் சிரப்பில் கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+Recently, a doctor from Mumbai Malad area has ordered the Butterskatch Connemoil by ONLINE. He was shocked to find that there was a human finger with a nail when he was eagerly desire.
 
-அந்த சிரப்பை தனது குடும்பத்தை சேர்ந்த 3 பேர் உட்கொண்டதாகவும், அதன் பின்னரே அதில் எலி இறந்து கிடப்பது தெரியவந்தது என்றும் உட்கொண்டவரில் ஒருவர் தெரிவித்துள்ளார்.
+Meanwhile, Deepa, a native of Noida, has ordered an ice cream for his 5 -year -old son to milch. In this, Poran is worried that he is dead.
+
+In this case, the incident in which a lizard is currently lying in a chocolate syndrome has come as a shock.
+
+One of the people said that three members of his family had consumed the syrup and that the rat was found dead.
 
 ◼️
 
 [Data](articles/28fdeb4b.json)
+
+[Extended Data](ext_articles/28fdeb4b.ext.json)
 
 ---
 
@@ -484,23 +550,31 @@ He has served as the Deputy General of the Sri Lankan Army, the Colonel Commande
 
 ---
 
-### අටමස්ථානාධිපති හිමියන්ගෙන් ඉල්ලීමක්
+### Request from the Atamasthanadhi Thero
 
 *2024-06-20 14:08:14* · [`adalk`](https://www.ada.lk/breaking_news/අටමස්ථානාධිපති-හිමියන්ගෙන්-ඉල්ලීමක්/11-410336) · `si`
 
-අනුබුදු මිහිඳු මහරහතන් වහන්සේගේ මෙරට වැඩම කිරීම සිහිපත් කරමින් මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සැලකීමත් උන්වහන්සේගේ ගුණ අනුස්මරණය කිරීමත් ශ්‍රද්ධාවෙන් සහ භක්තියෙන් යුක්තව අනුරාධපුරයට පැමිණ  කටයුතු කල යුතු බව අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් පැවසූහ.
+Ven. Pallegama Gnanarathana Thera, commenting on the Poson Festival, emphasized the importance of gratitude towards Mihindu. He urged devotees to participate in the National Poson Festival organized by this year's committee. Highlighting the significance of Mihindu and the Arahant, he encouraged Buddhists to visit Anuradhapura and Mihintale for spiritual enrichment.
 
-පොසොන් උත්සවය සම්බන්ධයෙන්  අදහස් දැක්වූ  අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන  නායක හිමිපාණන් වැඩි දුරටත් මෙසේද පැවසුහ.
+🟩
 
-"මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සලකන පොසොන් සතිය වෙනුවෙන් ආමිස සහ ප්‍රතිපත්ති පූජාවන්ට මුල් තැන දෙමින් ආගමික වතාවත්වල යෙදෙන ලෙස සියලු බැතිමතුන්ගෙන් ඉල්ලා සිටිනවා.
+The Atatatamadha Hemaratne, Ven. Pallegama, the Atamasthanadhi Ven.
 
-මෙවර ජාතික පොසොන් පුණ්‍ය මහෝත්සවය මහත් උත්කර්ෂවත් අන්දමින් පැවැත්වීමට ජාතික පොසොන් උත්සව කමිටුව විසින් කටයුතු සූදානම් කර තිබෙනවා.
+Commenting on the Poson Festival, the Atamasthana The Hemanarathana Thera further said:
 
-අනුබුදු මිහිඳු මහරහතන් වහන්සේගේ මෙරට වැඩම කිරීම සිහිපත් කරමින් මිහිඳු මහරහතන් වහන්සේට කෘතගුණ සැලකීමත් උන්වහන්සේගේ ගුණ අනුස්මරණය කිරීමත් ශ්‍රද්ධාවෙන් සහ භක්තියෙන් යුක්තව කටයුතු කළ යුතුයි.
+"Publumerants who focus on Mihindu considers the same intenance of gratitude to the week of Pozon and requested all devotees.
 
-...
+This year's Poson Committee has arranged for the National Poson Festival Ceremony this year.
+
+Miiiwin and the summit of thera to the Arahant and theravation of the Sri Lankan service of the Sri Lankan service should be comparable and commemorating.
+
+The Buddhists integrate the Navigation of the Navalness in Anuradhapura, including Mihintale. Devotees attending Anuradhapura for this purpose. "
+
+◼️
 
 [Data](articles/a5d7a802.json)
+
+[Extended Data](ext_articles/a5d7a802.ext.json)
 
 ---
 
@@ -1570,29 +1644,37 @@ As a result, the large casualties that took place was avoided and a safe camera 
 
 ---
 
-### පළමු නවකතාවෙන් ම ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකකට පාත්‍ර වූ ශ්‍රී ලාංකික ලේඛකයා
+### Sri Lankan writer who was present at the first novel
 
 *2024-06-20 09:59:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv22ymj4327o) · `si`
 
-පළමු නවකතාවෙන් ම ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකකට පාත්‍ර වූ ශ්‍රී ලාංකික ලේඛකයා
+Vajra Chandrasekara, a Sri Lankan writer, made history by receiving two prestigious U.S. awards for her debut novels. Her first novel, "The Saint of Bright Doors," won the Nebula Award for Best Science Fiction and the Crawford Award for Best Fantasy, both in 2023. This achievement marks her as the first Sri Lankan recipient of these honors. Chandrasekara's works explore themes of divine revolutionaries and societal struggles, blending mythology with contemporary issues. Her second novel, "Rakesfall," continues to establish her as a significant voice in speculative fiction.
 
-ශ්‍රී ලාංකික තරුණ ලේඛකයෙකුට ඇමෙරිකාවේ ගෞරවණීය සම්මාන දෙකක් හිමි වී තිබේ.
+🟩
 
-එම සම්මාන අතරින් එකක් වන්නේ, ඇමෙරිකාවේ මුද්‍රණය කෙරුණු විද්‍යා ප්‍රබන්ධ අතරින් 2023 වසරේ හොඳ ම විද්‍යා ප්‍රබන්ධ නවකතාවට හිමි නෙබියුලා (Nebula) සම්මානය යි.
+Sri Lankan writer who was present at the first novel
 
-මෙහි සුවිශේෂත්වය වන්නේ, එම ලේඛකයා විසින් ප්‍රකාශයට පත් කරන ලද සිය පළමු විද්‍යා ප්‍රබන්ධ නවකතාවට මෙම සම්මානය හිමි වීම ය.
+A Sri Lankan youth has received two Honoria Awards in the United States.
 
-දෙවැන්න, ලේඛකයෙකුගේ පළමු මනඃකල්පිත (fantasy) නවකතාව වෙනුවෙන් පිරිනැමෙන ක්‍රෝෆෝඩ් (Crawford) සම්මානය යි.
+One of those awards is the Nebeila (Nebeila (Nebeuula) award for the best science fiction of the year printing in America.
 
-ඇමෙරිකාවේ ගෞරවයට පාත්‍ර වූ මෙම සම්මාන දෙක ම හිමි වී ඇත්තේ, 2023 වසරේදී ප්‍රකාශයට පත් කරන ලද ශ්‍රී ලාංකික ලේඛකයෙකු වන වජ්‍ර චන්ද්‍රසේකරගේ The Saint of Bright Doors කෘතියට ය.
+The unique is to receive this award for its first science fiction novel, published by the writer.
 
-The Saint of Bright Doors යනු ශ්‍රී ලාංකික ලේඛකයෙකු වන වජ්‍ර චන්ද්‍රසේකර විසින් රචනා කරන ලද මනඃකල්පිත නවකතාවකි.
+Second, a writer's first fantasy (fantasty) novel is awarded the Crawford Award.
 
-අද්භූත "දීප්තිමත් දොරවල්" සහිත ප්‍රබන්ධිත නගරයක, ප්‍රමුඛ පෙළේ ආධ්‍යාත්මික නායකයෙකු ඝාතනය කිරීමට කුඩා කාලයේ සිට ම පුහුණු වූ මිනිසෙකුගේ කතාව නවකතාවට වස්තු විෂය වී තිබේ.
+The number of honored USA, the Sri Lankan writer, a Sri Lankan writer, announced in 2023, is to the SAINT of BRIGHT DOORS, a Sri Lankan writer.
+
+The SAINT of BRIGHT DOORS is a fantasy novel composed by a Sri Lankan writer, Vajra Chandrasekara.
+
+A man who trained from a child who was trained from a child who was a leading spiritual leader with mysterious doors "has become the novel.
+
+This novel is "creating a powerful thugging between divine revolutionaries and the worldwriters against worldly struggles."
 
 ...
 
 [Data](articles/fb9c5128.json)
+
+[Extended Data](ext_articles/fb9c5128.ext.json)
 
 ---
 
@@ -2255,43 +2337,5 @@ The forum’s core mission is to bridge the gap between key players in South Asi
 [Data](articles/37dba8f1.json)
 
 [Extended Data](ext_articles/37dba8f1.ext.json)
-
----
-
-### FCCISL President invited to speak at MCCI MSME International Conference 2024
-
-*2024-06-20 04:47:51* · [`dailyftlk`](https://www.ft.lk/business/FCCISL-President-invited-to-speak-at-MCCI-MSME-International-Conference-2024/34-763256) · `en`
-
-Federation of Chambers of Commerce and Industry of Sri Lanka President Keerthi Gunawardane
-
-The Merchants’ Chamber of Commerce & Industry (MCCI), in collaboration with the Ministry of MSME, Government of India, has extended an invitation to Federation of Chambers of Commerce and Industry of Sri Lanka President Keerthi Gunawardane, to speak at the MCCI MSME International Conference 2024. This prestigious event will be held on 27 June at 10:30 a.m. at the Dhono Dhanyo Auditorium in Kolkata.
-
-The conference, themed “Empowering MSMEs for Sustainable Development,” coincides with World MSME Day, as designated by the United Nations General Assembly. This day celebrates the vital role of Micro, Small, and Medium Enterprises (MSMEs) and raises awareness of their substantial contributions to the global economy.
-
-...
-
-[Data](articles/8e76a0b6.json)
-
-[Extended Data](ext_articles/8e76a0b6.ext.json)
-
----
-
-### Court clears Nathasha Edirisooriya and Bruno Diwakara of ICCPR Act charges
-
-*2024-06-20 04:45:18* · [`dailyftlk`](https://www.ft.lk/news/Court-clears-Nathasha-Edirisooriya-and-Bruno-Diwakara-of-ICCPR-Act-charges/56-763255) · `en`
-
-Stand up comedienne Nathasha Edirisooriya and SL VLOG Youtube channel owner Bruno Diwakara were released yesterday by the Fort Magistrates Court from the case filed against them under the International Covenant on Civil and Political Rights (ICCPR) Act.
-
-The Police arrested Edirisooriya on 28 May 2023 for allegedly making controversial statements on Buddhism during her segment at a stand-up comedy show in Colombo.
-
-She was detained by the Criminal Investigation Department (CID) at Bandaranaike International Airport (BIA) in Katunayake as she prepared to leave the country.
-
-Diwakara was arrested on 31 May 2023, after his YouTube channel ‘SL VLOG’ posted a viral video of Edirisooriya’s performance. Diwakara was interrogated for over eight hours before being taken into custody. He was released on bail by the court on 21 June, while Edirisooriya was granted bail on 5 July after filing a petition with the Colombo High Court.
-
-...
-
-[Data](articles/a5dd4cab.json)
-
-[Extended Data](ext_articles/a5dd4cab.ext.json)
 
 ---

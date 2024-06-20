@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 14:34:52**
+As of **2024-06-20 14:54:03**
 
 ## Newspaper Stats
 
-*Scraped **31,309** Articles*
+*Scraped **31,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,110 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,731
+adalk | 2,733
 adaderanalk | 3,545
 tamilmirrorlk | 3,680
 dailymirrorlk | 4,733
-virakesarilk | 4,847
+virakesarilk | 4,851
 adaderanasinhalalk | 5,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,308 (100.0%) of 31,309 articles have been extended.
+31,309 (100.0%) of 31,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### මහ මඟ අසරණ වූ සුනඛයින්ගේ කුස පුරවන අත්තම්මා
+### அக்கரப்பத்தனை நெதஸ்டல் தோட்ட குடியிருப்பில் வீடொன்றில் தீ விபத்து
 
-*2024-06-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197954) · `si`
+*2024-06-20 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186552) · `ta`
 
-වර්තමානයේ පවතින තරගකාරී ලෝකය තුළ කරුණාව යනු බොහෝවිට සමාජය තුළ අර්ථය හීන වී ගිය වචනයකි.
+ஹட்டன், அக்கரப்பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட கிலாஸ்கோ தோட்டப்பிரிவான நெதஸ்டல் தோட்டத்தில் இன்று வியாழக்கிழமை (20) அதிகாலை ஏற்பட்ட திடீர் தீ விபத்து இடம்பெற்றுள்ளது.
 
-එවැනි වටපිටාවක සැබෑ කරුණාව සහ මෛත්‍රීය සතුන් අතරේ පතුරුවන සුන්දර හදවතක් පිළිබඳ මේ කතාව අපට අසන්න ලැබුණේ බණ්ඩාරගම ප්‍රදේශයෙනි.
+இந்த சம்பவத்தில் 20 வீடுகள் கொண்ட தொடர் குடியிருப்பு தொகுதியில் வீடு ஒன்று முற்றாக எரிந்து நாசமாகியுள்ளதுடன், பாதிக்கப்பட்ட இந்த வீட்டில் வசித்து வந்த குழந்தை பிறந்து சில நாட்களான தாய் உட்பட ஐவர் நிர்கதிக்கு ஆளாகியுள்ளனர்.
 
-මේ ලෝකේ ජීවත්වන අප රැකියාවක් කරන්නේ ඉන් ලැබෙන ආදායමෙන් මූලික අවශ්‍යතා සපුරාගැනීමයි.
+அதேநேரம் இந்த தீ பிடிப்பு சம்பவத்தை அறிந்த அயலவர்கள், தோட்ட பொதுமக்கள் ஏனைய வீடுகளுக்கு தீ பரவாமல் அதிரடி நடவடிக்கையில் ஈடுப்பட்டதால் பாரிய பாதிப்பு தவிர்க்கப்பட்டுள்ளது.
 
-මනුෂ්‍යයින් වන අප එලෙස රැකියාවක් සිදුකර ලබාගන්නා ආදායමෙන් කුසගින්න නිවා ගැනුන ද , එසේ කිරීමට නොහැකිව මහමඟ දිවි ගෙවනා තිරිසන් සතුන්ට කාගේ සරණක්ද?
+மேலும், இந்த தீ விபத்து சம்பவத்தில் பாதிக்கப்பட்டு நிர்கதிக்கு ஆளாகியுள்ள ஐவர் கொண்ட குடும்பத்தினரை தோட்டத்தில் தற்காலிகமாக உறவினர் வீடு ஒன்றில் தங்கவைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
 
-ඒ නිසාම එකී උතුම් පිංකම වෙනුවෙන් තමන්ගේ දෛනික ජීවිතය කැප කරන සුන්දර අත්තම්මා කෙනෙකු පිළිබඳ කතාවක් අපට වාර්තා වූයේ බණ්ඩාරගම ප්‍රදේශයෙනි.
+அத்துடன், இந்த தீ விபத்துக்கான காரணம் கண்டறியப்படாத நிலையில் இது தொடர்பான விசாரணைகளை அக்கரப்பத்தனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
 
-මේ වනවිට සිය දිවි ගමනේ 78 වන විය පසුකරමින් සිටින ඉන්ද්‍රානි පෙරේරා නම් වූ ඇය දෛනිකව බණ්ඩාරගම නගරයේ සිටින සුනඛයින් රැසකගේ කුස පුරවයි.
+◼️
 
-ඒ තමන්ගේ ගෙවත්තේ තැඹිලි, පොල් සහ කෙසෙල් කැන් විකුණා ලබන ආදායමෙනි.
+[Data](articles/c5404da9.json)
 
-එමෙන්ම මේ සත්ක්‍රියාව සඳහා ප්‍රදේශයේ දානශිලී මිනිසුන් කිහිපදෙනෙකුගේ සහයත් ඉන්ද්‍රානි මහත්මියට ලැබෙන බව ඇය පැවසුවාය.
+---
+
+### சேனையூர் நெல்லிக்குளம் மலை உடைப்பு விவகார வழக்கு ஒத்திவைப்பு
+
+*2024-06-20 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186564) · `ta`
+
+மூதூர் கிழக்கு சேனையூர் கிராம சேவகர் பிரிவுக்குட்பட்ட நெல்லிக்குள மலை பிரதேசத்தில் மலை உடைப்பதால் தமக்கு பாதிப்புள்ளதாக கல்மலை உடைக்கும் போது எதிர்ப்பு தெரிவித்த 10 பொதுமக்கள் 11 ஆம் திகதி  சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டு 12 ஆம் திகதி மூதூர் நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து அவர்கள் அனைவரும் சொந்தப் பிணையில் விடுவிக்கப்பட்டிருந்தார்கள்.
+
+இதனை தொடர்ந்து  சம்பவ இடத்திற்கு மூதூர் நீதிவான் நீதிமன்ற நீதிபதி தஸ்னீம் பௌசான்  15 ஆம் திகதி விஜயம் செய்து பார்வையிட்டதுடன், குறித்த வழக்கானது இன்று வியாழக்கிழமை (20) மூதூர் நீதிமன்றில் நீதிமன்ற பதில் நீதவான் முன்னிலையில் விசாரனைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இது தொடர்பான வழக்கை மூதூர் நீதிமன்றில் சம்பூர் பொலிஸார் முன்னர் தாக்கல் செய்திருந்தனர். குறித்த வழக்கில் இரு தரப்பினரும் இன்றைய தினம்  ஆஜராகியிருந்தனர். கைது செய்யப்பட்டு சொந்த  பிணையில் விடுவிக்கப்பட்ட 10 நபர்களுக்கும் சார்பாக சட்டத்தரணிகளான பு.முகுந்தன், நா.மோகன், சிரேஷ்ட சட்டத்தரணி தங்கமுத்து ஜயசிங்கம் ஆகியவர்கள் ஆஜராகியிருந்தனர்.
 
 ...
 
+[Data](articles/fe4c78ee.json)
+
+---
+
+### Granny who fills the womb of the direction helpless
+
+*2024-06-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197954) · `si`
+
+In Bandaragama, 78-year-old Indrani Perera selflessly feeds several stray dogs daily with the earnings from selling fruits like oranges, coconuts, and bananas. Her kindness inspires locals, including children named Bola, Rosy, Red, and Red, teaching them valuable lessons about compassion towards animals. This story highlights the importance of empathy and care in our competitive world.
+
+🟩
+
+Kindness in the current competitive world is often a word that means in society.
+
+This story was heard from Bandaragama.
+
+We live in the world and work with the basic needs of the income.
+
+Whose refugee will be able to stop the hunger of income we have done and do so?
+
+That is why we have a story about a beautiful grandchildren who dedicated their daily life for the noble pition, from Bandaragama.
+
+Indrani Perera, who is now 78 and passed his life, fill the womb of several dogs in Bandaragama daily.
+
+It is with the revenue that sells orange, coconut and banana canes.
+
+She also said that Indrani receives the support of several persons in the area for this program.
+
+When he heard her voice every day, the Bandaragama day of Humans, Bola, Rosy, Red and Red, come to her as children.
+
+It is a lesson of real humanity to put a dog in the road and puts a dog on the road when they are old enough to put on the pet.
+
+The greatest heart to be innocent for innocent animals.
+
+◼️
+
 [Data](articles/7b80f5ea.json)
+
+[Extended Data](ext_articles/7b80f5ea.ext.json)
+
+---
+
+### புதிய இராணுவ பதவி நிலை பிரதானி நியமனம்
+
+*2024-06-20 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186562) · `ta`
+
+இலங்கை இராணுவத்தின் புதிய இராணுவ பதவி நிலை பிரதானியாக மேஜர் ஜெனரல் ரோஹித அலுவிஹார நியமிக்கப்பட்டுள்ளார்.
+
+விஜயபாகு காலாட்படை படைப்பிரிவைச் சேர்ந்த மேஜர் ஜெனரல் எஸ்.ஆர்.பி. அலுவிஹார, பல்லேகலை 11 ஆவது படைப் பிரிவின் கட்டளைத் தளபதியாக நியமிக்கப்படுவதற்கு முன்னர் பாதுகாப்புப் படைகளின் பிரதானியின் (OCDS) அலுவலகத்தில் தலைமைத் தளபதியாக பணியாற்றியுள்ளார்.
+
+அவர் இலங்கை இராணுவத்தின் துணை ஜெனரலாகவும், விஜயபாகு காலாட்படை படைப்பிரிவின் படைப்பிரிவின் கர்னல் தளபதியாகவும், பாதுகாப்புப் படையின் (மத்திய) 18வது தளபதியாகவும் பணியாற்றியுள்ளார்.
+
+◼️
+
+[Data](articles/6a8a09bb.json)
 
 ---
 
@@ -73,6 +137,22 @@ The Epidemiology Unit says that 5,000 fever patients were reported in Sri Lanka 
 [Data](articles/984406eb.json)
 
 [Extended Data](ext_articles/984406eb.ext.json)
+
+---
+
+### ගංවතුර තත්වය වලක්වන්න නාවික හමුදාවෙන් මෙහෙයුමක්
+
+*2024-06-20 13:33:33* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-තත්වය-වලක්වන්න-නාවික-හමුදාවෙන්-මෙහෙයුමක්/11-410332) · `si`
+
+ගිංතොට ප්‍රදේශයෙන් මුහුදට ගලා බසින ගිං ග‍ඟෙහි වක්වැල්ල ප්‍රදේශයේ ඇති පටු පාලම තුල අධික වර්ෂාවත් සමඟ ගසාගෙන එනු ලබන අපද්‍රව්‍ය සිරවී සිදුවන අවහිරතා ඉවත් කිරීම සඳහා නාවික හමුදාව නිරන්තර දායකත්වය සපයන අතර, එලෙස සිදුකල තවත් අපද්‍රව්‍ය ඉවත් කිරීමේ මෙහෙයුමක් පසුගියදා ක්‍රියාත්මක කෙරිණි.
+
+ගිං ග‍ඟෙහි ජල පෝෂක ප්‍රදේශ වෙත ඇදහැලෙන අධික වර්ෂාපතනය හේතුවෙන් ගිං ග‍ඟේ ජල මට්ටම ඉහල යාමත් සමඟ ගංඟා ආශ්‍රිත ප්‍රදේශයට නොසැලකිලිමත් ලෙස බැහැර කරනු ලබන කැලි කසළ, කපා දමන ලද ගස් සහ උණ පඳුරු සැඩ ජල පහරට හසුව ගසාගෙන විත් මෙම පටු පාලම තුළ සිරවී ජලය ක්‍රමවත්ව බැස යාම අවහිරවීම හේතුවෙන් ගිං ගඟ දෙපස පහත් බිම් ජලයෙන් යටවී ක්‍රමයෙන් ගංවතුර තත්වයක් ඇතිවේ.
+
+මේ සම්බන්ධයෙන් නිරන්තර අවදානයෙන් සිටින නාවික හමුදාව දකුණු නාවික විධානයට අයත් ශ්‍රී ලංකා නාවික නෞකා දක්‍ෂිණ ආයතනයට අනුයුක්ත කිමිදුම් අංශයේ සහ ක්‍ෂණික ප්‍රතිචාර මුදවා ගැනීම් සහන බලඝණයේ නාවික පුද්ගලයින් කණ්ඩායමක් යොදවා වාරිමාර්ග දෙපාර්තමේන්තුවේ ද සහය ඇතිව සිරවූ එම අපද්‍රව්‍ය ඉවත්කර, ජලය ක්‍රමවත්ව බැස යාමට හැකි වන පරිදි සකස් කිරීමට කටයුතු කෙරිණි.
+
+◼️
+
+[Data](articles/1f797a5b.json)
 
 ---
 
@@ -163,6 +243,26 @@ He had also served as Adjutant General of the Sri Lanka Army, Colonel of the Reg
 [Data](articles/f9ce2872.json)
 
 [Extended Data](ext_articles/f9ce2872.ext.json)
+
+---
+
+### ஆட்பதிவு திணைக்கள தரவுக் கட்டமைப்பை இந்தியாவுக்கு வழங்க அரசாங்கம் முயற்சி - விமல்
+
+*2024-06-20 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186546) · `ta`
+
+இந்திய வெளிவிவகாரத்துறை அமைச்சரின் விஜயத்தின் உண்மை நோக்கமென்ன என்பதை அரசாங்கம் பகிரங்கப்படுத்த வேண்டும் என பாராளுமன்றத்தில் சுயாதீனமாக செயற்படும் எதிரணியின் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (20)  இடம்பெற்ற அமர்வின் போது விசேட கூற்றை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இந்திய வெளிவிவகாரத்துறை அமைச்சர் கலாநிதி ஜெய்சங்கர் இன்று  நாட்டுக்கு வருகை தந்துள்ளார். மணித்தியால அளவில் இந்த விஜயம் ஏன் அமைய வேண்டும். ஆட்பதிவு திணைக்களம் அறிமுகப்படுத்தவுள்ள விசேட அடையாள அட்டை உட்பட 10 முதல் 12 வரையிலான செயற்திட்டங்களை கைச்சாத்திடுவதற்கு இலங்கைக்கு அழுத்தம் பிரயோகிக்கப்படுவதாக அறிய முடிகிறது.
+
+எதிர்வரும் ஆகஸ்ட் மாதம் இந்திய பிரதமர் நரேந்திர மோடி இலங்கைக்கு விஜயம் மேற்கொள்ளவுள்ளதாக குறிப்பிடப்படுகிறது.
+
+இவ்வாறான நிலையில் இந்திய வெளியுறவு அமைச்சரின் துரித விஜயத்தின் நோக்கம் என்ன ? ஏற்றுக்கொள்ளப்பட்ட உடன்படிக்கைகளின் உண்மைத்தன்மை என்ன என்பதை அரசாங்கம் சபைக்கு அறிவிக்க வேண்டும் என்றார்.
+
+...
+
+[Data](articles/c7b1e351.json)
 
 ---
 
@@ -2191,147 +2291,5 @@ Buddhist places in the North and East have been informed by the Thera and the pe
 [Data](articles/a7c44c0c.json)
 
 [Extended Data](ext_articles/a7c44c0c.ext.json)
-
----
-
-### Model Traction Folding Increase Increase
-
-*2024-06-20 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழுவை-மடிவலை-பயன்பாடு-அதிகரிப்பு/175-339155) · `ta`
-
-Opposition Leader Sajith Premadasa criticized the use of trawling nets in the Jaffna district, violating the Aquatic Resources Amendment Act. He urged the Fisheries Minister to address the issue, highlighting concerns raised during parliamentary discussions. The Fisheries Ministry had previously attempted to regulate trawling in other regions but faced criticism for its implementation.
-
-🟩
-
-During fishing operations. Opposition Leader Sajith Premadasa has demanded that the web is being used in violation of the law in some parts of the district and that the Minister of Fisheries should pay attention to this.
-
-The Opposition Leader made this statement while addressing the Fisheries Minister in Parliament on Wednesday (19).
-
-According to the Aquatic Resources Amendment Act No. 2017,. Although the Fisheries Ministry has taken steps to halt the traditional use of the traditional areas in the other parts of the country, there have been complaints that the traction is being used in many parts of the Jaffna district.
-
-So will the Minister of Fisheries take action to prevent this?Why is the fisheries officials silent about the use of the drag.. If you have been allowed to do so, you have violated the Aquatic Resources Amendment Act No. 11, 2017. I expect a response from the minister.
-
-...
-
-[Data](articles/95384dc2.json)
-
-[Extended Data](ext_articles/95384dc2.ext.json)
-
----
-
-### The wildfire will be opened
-
-*2024-06-20 01:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்-பாதை-திறக்கப்படும்/175-339154) · `ta`
-
-A wildfire opening ceremony for Kadirgamam, led by Eastern Governor Senthil Thondaman, is scheduled for the 30th of this month. This follows a demand from Hindu temple unions, represented by figures like E. Jeganathan, for the reopening of a forest road, which was addressed by Ampara District Government Agent Sindhaka Abeywickrama.
-
-🟩
-
-The wildfire for Kadirgamam will be opened on the 30th of this month. Eastern Governor Senthil Thondaman will visit it to open it, said Ampara District Government Agent Sindhaka Abeywickrama.
-
-Alayadivembu met with him and told the union of all Hindu temples.The meeting was held at the Ampara District Secretariat on Tuesday (18).
-
-Representatives including Treasurer E. Jeganathan (Kumar), Treasurer of the Alayadivembu area, Union President of All Hindu Temple
-
-At the time, the group demanded that the forest road be opened ten days ago.
-
-Responding to this, Government Agent Sindhaka Abeywickrama said the wildfire would be opened on the 30th.
-
-◼️
-
-[Data](articles/22a95899.json)
-
-[Extended Data](ext_articles/22a95899.ext.json)
-
----
-
-### South Africa won by 18 runs in the midst of the United States challenge
-
-*2024-06-20 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186504) · `ta`
-
-In the Super 8-round World Cup, South Africa defeated the United States by 18 runs in a thrilling match at the Antigua and North Sound Vivian Richards Stadium. Key contributors for South Africa included Quinton de Kock, Aiden Margram, and Kekiso Rabada, while the US was led by Andreis Caus's half-century. Despite losing early wickets, South Africa managed 194 runs in 20 overs, with De Kock scoring 74 runs. The US, despite a strong partnership from Andreas Gaus and Harmid Singh, could only manage 176 runs, falling short by 18 runs.
-
-🟩
-
-South Africa won by 18 runs in the Super 8 -round World Cup for the Group 2 at the Antigua and North Sound Sound Vivian Richards Stadium between South Africa and the United States.
-
-Quinton de Kock and Aiden Margram's talented bowls and the accurate bowling of Kekiso Rabada won South Africa.
-
-However, US opener, Andreis Caus, scored a half -century and stunned South Africa.
-
-Although the United States lost the match, the last time South Africa was challenged.
-
-With this victory, South Africa scored 2 points in the Super 8 round.
-
-South Africa, who was first invited to bat in the upting match, scored 194 runs for the loss of 4 wickets in 20 overs.
-
-South Africa's beginning is not better. Initial player Reza Henx lost the match in 3rd over with 11 runs. (16 - 1 wig.)
-
-However, Quinton de Kock and team captain Aiden Margram were bowled out for 110 runs in 58 balls in the 2nd wicket.
-
-Quinton de Kock faced 40 balls and scored 74 runs with 7 pounds and 5 sixes.
-
-David Miller then returned to the first ball.
-
-...
-
-[Data](articles/e9d1fbc8.json)
-
-[Extended Data](ext_articles/e9d1fbc8.ext.json)
-
----
-
-### 2024-06-19 (Wednesday)
-
-### India wins a match that caused substantial runs to the last
-
-*2024-06-19 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186503) · `ta`
-
-In a thrilling second women's ODI match, India clinched victory over South Africa by 4 runs, extending their lead in the 3-match series to 2-0. The high-scoring game saw both teams hit four centuries, with India making 325/3 and South Africa 321/6. Key contributions came from Smrithi Mandhana, Hamanpreet Kaur, and Pooja Vastrakar for India, and Lara Goodall and Marizanne Kapp for South Africa.
-
-🟩
-
-Bangalore M against South Africa. India won by 4 runs in the second women's one -day international cricket match that made the most widely spread until the end of Wednesday (19).
-
-With this victory, India has made the 3 -match women's international ODI series as 2 - 0.
-
-The match was 4 centuries in each of the two teams and a total of 646 runs.
-
-The Indian women's team scored 325 runs for the loss of only 3 wickets in 50 overs.
-
-Smrithi Mandana, who scored a scarcity of the batsman, shared 62 runs with Dayalan Hemalatha in the 2nd wicket and the team shared 171 runs with team captain Hamanpreet Gora.
-
-Subsequently, Hamanpreet Gore and Richa Ghosh shared 54 runs in the 4th wicket.
-
-Hamanpreet Core did not play 103 and Richa Ghosh 25 runs.
-
-South Africa lost 6 wickets in 50 overs and lost 321 runs.
-
-The captain and the opening player, Lora Wulward, scored 135 runs with 12 pounds, 3 sixes, and 114 runs with Marsan Geb and 3 sixes.
-
-...
-
-[Data](articles/4d369cb3.json)
-
-[Extended Data](ext_articles/4d369cb3.ext.json)
-
----
-
-### Sri Lanka urged to safeguard judicial independence and transparency of legal institutions
-
-*2024-06-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99977/sri-lanka-urged-to-safeguard-judicial-independence-and-transparency-of-legal-institutions) · `en`
-
-The Core Group on Sri Lanka at the UN Human Rights Council (UNHRC) today urged the government to ensure that transitional justice mechanisms are independent, inclusive, impartial, transparent, and that they meet the expectations of affected communities.
-
-The Sri Lanka Core Group statement at the UNHRC in Geneva was delivered by the UK’s Human Rights Ambassador, Rita French on behalf of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom and the United States.
-
-Thanking the UN High Commissioner for Human Rights, Volker Türk for his recent report on accountability for enforced disappearances in Sri Lanka, the Core Group claimed it highlights longstanding impunity for human rights violations.
-
-“We call on the government to engage with its recommendations to address the suffering caused by enforced disappearances and its impact on all communities.”
-
-...
-
-[Data](articles/a8821ab2.json)
-
-[Extended Data](ext_articles/a8821ab2.ext.json)
 
 ---

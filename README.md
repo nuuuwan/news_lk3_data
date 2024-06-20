@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 11:34:53**
+As of **2024-06-20 11:54:35**
 
 ## Newspaper Stats
 
-*Scraped **31,274** Articles*
+*Scraped **31,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,92 @@ dbsjeyarajcom | 291
 bbccomsinhala | 307
 newsfirstlk | 363
 islandlk | 1,715
-economynextcom | 1,804
+economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,729
 adaderanalk | 3,540
 tamilmirrorlk | 3,677
 dailymirrorlk | 4,733
-virakesarilk | 4,835
-adaderanasinhalalk | 5,081
+virakesarilk | 4,839
+adaderanasinhalalk | 5,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,272 (100.0%) of 31,274 articles have been extended.
+31,274 (100.0%) of 31,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### ඉන්දීය විදේශ ඇමති ජනපති හමුවෙයි
+
+*2024-06-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197948) · `si`
+
+අද (20) උදෑසන දිවයිනට පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා මීට සුළු වේලාවකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව මුණගැසී තිබේ.
+
+◼️
+
+[Data](articles/188572d1.json)
+
+---
+
+### எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் சட்ட மூலத்தினால் உள்ளுர் கலாச்சாரத்திற்கு ஆபத்து- அகில இலங்கை பௌத்தகாங்கிரஸ்
+
+*2024-06-20 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186539) · `ta`
+
+எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் சட்ட மூலத்தினால் உள்ளுர் கலாச்சாரத்திற்கு ஆபத்து ஏற்படலாம் என அகில இலங்கை பௌத்தகாங்கிரஸ் எச்சரித்துள்ளது.
+
+நாடாளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள  பெண்களை வலுப்படுத்தும் சட்டமூலத்தையும் பாலின சமத்துவ சட்டமூலத்தையும்  கடுமையாக விமர்சித்துள்ள அகில இலங்கை பௌத்த காங்கிரஸ் இந்த சட்டமூலம் எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் உள்நாட்டு கலாச்சாரம் நெறிமுறைகள் விழுமியங்களை சமரசம் செய்யும் என தெரிவித்துள்ளது.
+
+மேற்குலகில் கூட பிள்ளைகள் பால் மாற்றத்தில் ஈடுபடுவதை பெற்றோர்கள் ஏற்றுக்கொள்ளவில்லை என என அகில இலங்கை பௌத்தகாங்கிரஸின் தலைவர் சந்திரா நிமல் வகிஸ்ட தெரிவித்துள்ளார்.
+
+இலங்கை ஒரு குடும்ப அடிப்படையிலான தாய்வழி சமூகம் என தெரிவித்துள்ள அவர் இந்த சட்டமூலங்கள் இலங்கையின் நெறிமுறைகள் மற்றும் விழுமியங்களை நிச்சயம் சமரசம் செய்யும் எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/1f6ff8b8.json)
+
+---
+
+### மீண்டும் தமிழக மீனவர்கள் கைது ; ஸ்டாலின் சீற்றம் ; ஜெய்சங்கருக்கு கடிதம்
+
+*2024-06-20 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186536) · `ta`
+
+இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ள மீனவர்களை விடுவிக்க நடவடிக்கை எடுக்க வேண்டும் என்று இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கருக்கு தமிழ்நாட்டு முதல்வர் ஸ்டாலின் கடிதம் எழுதியுள்ளார்.
+
+இலங்கைக் கடற்படையினரால் நேற்று (18) கைது செய்யப்பட்டுள்ள தமிழ்நாட்டைச் சேர்ந்த நான்கு மீனவர்களை உடனடியாக விடுவிக்க மத்திய அரசு உரிய நடவடிக்கைகளை மேற்கொள்ள வேண்டுமென வலியுறுத்தி முதல்வர் மு.க.ஸ்டாலின் மத்திய வெளிவிவகார அமைச்சர் அமைச்சர் எஸ்.ஜெய்சங்கருக்கு கடிதம் எழுதியுள்ளார்.
+
+அந்த கடிதத்தில் புதுக்கோட்டை மாவட்டம், கோட்டைப்பட்டினம் மீன்பிடித் துறைமுகத்திலிருந்து IND-TN-08-MM-05 என்ற பதிவு எண் கொண்ட விசைப்படகில் மீன்பிடிக்கச் சென்ற தமிழ்நாட்டைச் சேர்ந்த நான்கு மீனவர்கள் இலங்கைக் கடற்படையினரால் 18-6-2024 அன்று கைது செய்யப்பட்டு, அவர்களது மீன்பிடி படகுகளும் கைப்பற்றப்பட்டுள்ளன.
+
+இத்தகைய சம்பவங்கள் மீனவர்களின் வாழ்வாதாரத்தை சீர்குலைப்பதோடு மட்டுமல்லாமல், மீனவ சமுதாயத்தினரிடையே அச்ச உணர்வையும், நிச்சயமற்ற தன்மையையும் ஏற்படுத்துவதாகவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9b1fc743.json)
+
+---
+
+### சட்டவிரோத மரங்கள் வெட்டப்படுவதை தடுக்க 'டிரோன்' பயன்படுத்தப்படும் -  நிஷாந்த எதிரிசிங்க !
+
+*2024-06-20 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186528) · `ta`
+
+இலங்கையின் வன அமைப்பில் சட்டவிரோத மரங்கள் வெட்டப்படுவதைத் தடுப்பதற்காக 'டிரோன்' தொழில்நுட்பம் பயன்படுத்தப்படும் என வன பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் நிஷாந்த எதிரிசிங்க தெரிவித்துள்ளார்.
+
+'ட்ரோன்' தொழில்நுட்ப கண்காணிப்பு மூலம் பெறப்படும் தரவுகள் மூலம் அடையாளம் காணப் படுபவர்களுக்கு எதிராக சட்டத்தை கடுமையாக அமுல்படுத்தப்படும் என்றும் அவர் கூறினார்.
+
+கண்டியில் உள்ள உடவத்தை வனப்பகுதியை துவிச்சக்கர வண்டியில் பார்வையிடும் வாய்ப்பை உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கு வழங்கும் வேலைத்திட்டத்தின் அங்குரார்ப்பண நிகழ்வில் கலந்துகொண்டு பணிப்பாளர் நாயகம் இதனைத் தெரிவித்தார்.
+
+இந்த நாட்டில்  29%  சதவீதமாக ஆக குறைந்துள்ளது அடர்ந்த  வனத்தை அதனை   32% சதவீதமாக உயர்த்த திட்டமிடப் பட்டுள்ளதாகவும் அதற்கான .பல வேலைத் திட்டங்கள் செயல்படுத்தப்பட்டு வருவதாகவும் அவர் வலியுறுத்தினார்.
+
+மேலும், வன நிலத்தை அனுமதியின்றி கையகப்படுத்துவதை தடுக்க நவீன தொழில்நுட்பத்தை அதிகபட்சமாக பயன்படுத்த எதிர்பார்க்கப்படுவதாகவும் அவர் கூறினார்.
+
+...
+
+[Data](articles/f12b0c2e.json)
+
+---
 
 ### President’s comments threaten entire judicial system and rule of law – BASL
 
@@ -46,19 +114,63 @@ In a statement issued on Wednesday (19), the BASL emphasized that the Supreme Co
 
 [Data](articles/5798b9c3.json)
 
+[Extended Data](ext_articles/5798b9c3.ext.json)
+
 ---
 
-### බන්ධනාගාර දෙපාර්තමේන්තුවෙන් විශේෂ දැනුම්දීමක්
+### Special notice from the Department of Prisons
 
 *2024-06-20 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197947) · `si`
 
-හෙට (21) යෙදී ඇති පොසොන් පොහෝ දිනය නිමිත්තෙන් බන්ධනාගාරගත රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් (Open Visit) බන්ධනාගාර දෙපාර්තමේන්තුව විසින් සලසා දී ඇත.
+The Department of Prisons' Open Visit Department has announced that items like food and sanitation supplies brought by visitors will now be distributed among inmates, ensuring adherence to health guidelines.
 
-ඒ අනුව හෙට දින තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපාරක්ෂක ද්‍රව්‍ය එක් රැඳවියෙකුට ප්‍රමාණවත් වන පරිදි ලබාදීමට අවස්ථාව ලබාදී ඇති අතර, සියලු සෞඛ්‍ය මාර්ගෝපදේශයන්ට අනුකූලව එම අමුත්තන් පෙන්වීමේ කටයුතු දිවයිනේ සියලුම බන්ධනාගාර තුළ සිදු කිරීමට නියමිතය.
+🟩
+
+The Open Visit Department (Open Visit Department) has provided an opening occasion for the JICA.
+
+Accordingly, the food and sanitation substances brought by relatives of the inmates will be given to one inmate to be adequate in accordance with all health guidelines in accordance with all health guidelines.
 
 ◼️
 
 [Data](articles/f2b695b2.json)
+
+[Extended Data](ext_articles/f2b695b2.ext.json)
+
+---
+
+### Sri Lanka’s UB Finance rights issue ovesubscribed
+
+*2024-06-20 11:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ub-finance-rights-issue-ovesubscribed-168882/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s UB Finance Company Ltd, a licensed non-bank lender, said its rights issue has been oversubscribed.
+
+The company announced in March it would issue up to 423,798,049 ordinary voting shares at 2 ordinary voting shares for every 13 ordinary voting shares at 0.60 a share.
+
+“We confirm that UB Finance PLC received applications for 500,728,992 shares on the above Rights Issue. Accordingly, the Rights Issue has been oversubscribed,” UB Finance said in a stock exchange filing.
+
+“The company expects to use the proceeds from the rights issue to expand the loans and advances portfolio,” it said earlier.
+
+Colombo-based Union Bank owns a majority of UB Finance’s voting stock. The current stated capital of the entity is Rs 3,071,482,247.
+
+The share was trading up at 0.80 on Thursday. (Colombo/Jun20/2024)
+
+◼️
+
+[Data](articles/5d2448d7.json)
+
+---
+
+### உரிய தீர்வு கிடைக்காமையால் பேராதனை பல்கலைக்கழக கல்விசாரா ஊழியர்ககள் சத்தியாக்கிரக போராட்டத்தில்
+
+*2024-06-20 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186530) · `ta`
+
+பேராதனை பல்கலைக்கழக கல்விசாரா ஊழியர்கள்  சம்பள முரண்பாடுகள் உள்ளிட்ட  பல்வேறு பிரச்சினைகள் முன்வைத்து முன்னெடுக்கப்படுகின்ற பணிப்புறக்கணிப்பு போராட்டத்திற்கு 50 நாட்களாகியும் சாதகமான தீர்வுகள் வழங்கப்படாமைக்கு எதிர்ப்பு தெரிவித்து பேராதனை பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பு நேற்று புதன்கிழமை (19) முதல் தொடர் சத்தியாக்கிரக போராட்டத்தை ஆரம்பித்துள்ளது.
+
+கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதியை அடுத்துள்ள கலஹா சந்தியில் இந்த சத்தியாக்கிரகத்தை ஆரம்பித்து வைத்த பேராதனை பல்கலைக்கழக தொழிறசங்க பேரவையின் தலைவர் பிரியந்த வீரசூரிய, தமது பிரச்சினைகளுக்கு தீர்வு கிடைக்கும் வரை சத்தியாகிரகத்தில் ஈடுபடவுள்ளதாக தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6ffc1792.json)
 
 ---
 
@@ -79,6 +191,28 @@ Furthermore, he has stated during the forum that this journey underscores the im
 [Data](articles/59130168.json)
 
 [Extended Data](ext_articles/59130168.ext.json)
+
+---
+
+### Maharaja Foods from Sri Lanka seeks Rs125nm for expansion
+
+*2024-06-20 10:53:00* · [`economynextcom`](https://economynext.com/maharaja-foods-from-sri-lanka-seeks-rs125nm-for-expansion-168876/) · `en`
+
+ECONOMYNEXT – Maharaja Foods, a company that was founded by a family from Sri Lanka’s north is seeking 125 million rupees to expand its processed ethnic foods, the bulk of which is exported to countries with South Asian expat communities.
+
+The company will use 26.5 million rupees for a raw rice plant and 17.5 million for a rice polishing plant. Another 6 million rupees will go to purchase machinery for a gingelly oil processing plant.
+
+Another 30 million will go for working capital, 25 million to expand a warehouse. About 20 million will go to settle borrowings.
+
+The company is part of GTV group which has logistics and a retailing. The group has been headed by Thavamalar Guganathan from 2016 when her husband who founded the firm passed away.
+
+Vithyanath Guganathan, Managing Director said the recipes for the products were given by his mother.
+
+Their own rice plant will ensure stable quality and lower costs. Polish riced will be a new product.
+
+...
+
+[Data](articles/8d099dd7.json)
 
 ---
 
@@ -330,6 +464,28 @@ Indian Prime Minister Narendra Modi plans to make an official visit to Sri Lanka
 
 ---
 
+### Sri Lanka rupee opens weaker at 305.50/90 to US dollar
+
+*2024-06-20 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-50-90-to-us-dollar-168870/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.50/90 to the US dollar on Thursday, while bond yields were steady, and stocks opened 0.14 percent up, dealers said.
+
+The rupee closed at 304.75/305.40 to the greenback on Wednesday.
+
+In equities, Colombo’s All Share Price Index opened 17.06 points higher at 12,243 while the S&P SL20 of more liquid stocks opened up at 0.28 percent or 10.25 points to 3,614.
+
+In the secondary market, yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.35/60, down from 10.35/75 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, from 11.95/12.35 percent. (Colombo/Jun20/2024)
+
+◼️
+
+[Data](articles/6d4ce73b.json)
+
+---
+
 ### The brave young man who risked his life in danger
 
 *2024-06-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197945) · `si`
@@ -399,6 +555,28 @@ However, in Sri Lanka, there is a political crisis, and has not taken a final de
 [Data](articles/534d12a6.json)
 
 [Extended Data](ext_articles/534d12a6.ext.json)
+
+---
+
+### Sri Lanka’s Brazil envoy initiates sister city link between Colombo and Rio
+
+*2024-06-20 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-brazil-envoy-initiates-sister-city-link-between-colombo-and-rio-168863/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ambassador to Brazil has had discussions with the Municipal Council of Rio de Janeiro on a sister city project with Colombo, the embassy said.
+
+Ambassador Sumit Dassanayake had met acting Vice President of the Permanent Committee on International Relations of the Municipal Council of Rio de Janeiro, Councilor Eliseu Kessler and the Secretary of the Civil House of the Municipal Secretariat Lucas Padiha.
+
+“The Acting Chair of the Permanent Committee on International Relations assured to submit a proposal for Sister City Project, expeditiously, and get the approval from the Municipal Council of Rio de Janeiro in the month of August 2024,” the embassy said in a statement.
+
+This is the first visit by a Sri Lankan envoy to Rio Municipal Council.
+
+“With this visit, relations between Sri Lanka and Rio de Janeiro will take a new direction.”
+
+Dassanayake said areas of cooperation which could be further elevated between Sri Lanka and Brazil would be trade, tourism and investments.
+
+...
+
+[Data](articles/baf2068c.json)
 
 ---
 
@@ -692,6 +870,26 @@ Meanwhile, Prisons Commissioner Gamini B Dissanayake made these measures regardi
 
 ---
 
+### Sri Lanka expressway cashiers stealing 10 to 20-pct of toll revenue: official
+
+*2024-06-20 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-expressway-cashiers-stealing-10-to-20-pct-of-toll-revenue-official-168845/) · `en`
+
+ECONOMYNEXT – Cashiers at Sri Lanka’s expressways are estimated to be stealing up to 20 percent of fees Secretary to the Highways Ranjith Subasinghe told the parliament’s Committee on Public Enterprises.
+
+Members of the committee said highway tolls of the Road Development Authority had surged on the day when the military had operated the booths during a strike by cashiers, raising questions about the collections on other days.
+
+“Based on the day the Army operated the toll booths, there is a minimum of 10 to 20 percent revenue leakage,” Rubasinghe told the COPE according to the broadcast recording of proceedings.
+
+An RDA official said 19 cashiers have so far been identified but there were not enough cashiers to run the toll booths so they have not been interdicted.
+
+The Representative of the Auditor General’s office questioned how officers who have been found to have committed fraud remain in the public service.
+
+...
+
+[Data](articles/a9372227.json)
+
+---
+
 ### Special buses and train services to pilgrims in Poson
 
 *2024-06-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197938) · `si`
@@ -771,6 +969,26 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/69e310af.json)
 
 [Extended Data](ext_articles/69e310af.ext.json)
+
+---
+
+### Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, ahead of polls
+
+*2024-06-20 05:38:00* · [`economynextcom`](https://economynext.com/indian-fm-jaishankar-in-sri-lanka-to-discuss-partnerships-amid-project-delays-ahead-of-polls-168843/) · `en`
+
+ECONOMYNEXT – India’s External Affairs Minister S. Jaishankar will pay a one-day official visit to Colombo on Thursday (20) and meet Sri Lankan leaders to discuss “wide-ranging issues of the partnership”, India said, amid delays of some key Indian projects ahead of a presidential poll in Sri Lanka.
+
+Though Sri Lankan government has claimed that Jaishankar’s visit was a precursor to Indian Prime Minister Narendra Modi who formed the new government last week, the External Affairs Ministry of India did not mention anything on Modi’s visit.
+
+The visit will be Jaishankar’s first bilateral visit after the formation under the new government.
+
+“Reaffirming India’s Neighbourhood First Policy, the visit underlines India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend,” the Indian External Affairs Ministry said in a statement.
+
+“The visit will add momentum to connectivity projects and other mutually beneficial cooperation across sectors.”
+
+...
+
+[Data](articles/d4a79dcc.json)
 
 ---
 
@@ -2041,273 +2259,5 @@ The Attorney General has informed the court under 29 months of charges of the in
 [Data](articles/2065d108.json)
 
 [Extended Data](ext_articles/2065d108.ext.json)
-
----
-
-### Erection
-
-*2024-06-19 19:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீடிப்பு/175-339138) · `ta`
-
-The Colombo District Court banned Maithripala Sirisena from leading SLFP after a petition by Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-The Colombo District Court today (19) ordered the ban issued to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party (SLFP).
-
-The order was issued when a petition filed against Maithripala Sirisena was taken up today by former President Chandrika Bandaranaike Kumaratunga.. Remble
-
-◼️
-
-[Data](articles/599559de.json)
-
-[Extended Data](ext_articles/599559de.ext.json)
-
----
-
-### At least 550 pilgrims die from extreme heat during Hajj in Saudi Arabia
-
-*2024-06-19 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99973/at-least-550-pilgrims-die-from-extreme-heat-during-hajj-in-saudi-arabia) · `en`
-
-Diplomats on Wednesday said at least 550 pilgrims died during the hajj, underscoring the gruelling nature of the pilgrimage which again unfolded in scorching temperatures this year.
-
-At least 323 of those who died were Egyptians, most of them succumbing to heat-related illnesses, two Arab diplomats coordinating their countries’ responses told AFP.
-
-“All of them (the Egyptians) died because of heat” except for one who sustained fatal injuries during a minor crowd crush, one of the diplomats said, adding the total figure came from the hospital morgue in the Al-Muaisem neighbourhood of Mecca.
-
-At least 60 Jordanians also died, the diplomats said, up from an official tally of 41 given earlier on Tuesday by Amman.
-
-The new deaths bring the total reported so far by multiple countries to 577, according to an AFP tally.
-
-The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in Mecca, was 550.
-
-...
-
-[Data](articles/254daa3e.json)
-
-[Extended Data](ext_articles/254daa3e.ext.json)
-
----
-
-### Harves of the narang cultivated in the area of ​​eye disease
-
-*2024-06-19 19:22:30* · [`adalk`](https://www.ada.lk/breaking_news/අක්ෂි-රෝගයෙන්-පෙළෙන-හාමුදුරුවෝ-වගා-කළ-නාරං-වගාවේ-අස්වැන්න-හොරු-කඩලා/11-410323) · `si`
-
-Hapuwala Wimalananda, a Buddhist monk in Nawalapitiya, harvested 17 kg of medicinal herbs traditionally used for eye diseases. Despite his own severe eye condition, he followed agricultural recommendations to cultivate these plants.
-
-🟩
-
-Heads of Thirty Cultivation of the eyes and the harvest of the rubbish treasures of the eyes of the eyes have been demolished by the Hapuwala Wimalanandra of the Buddhist Center in Nawalapitiya, Happal Ownership.
-
-He said that he had taken about seventeen kilo of narrow cultivation in the temples of the country.
-
-Wannalnaanda Thero said that he had been suffering from a severe category of eye disease, which is suffering from a nervous disease.
-
-However, although the eyes are invisible, he has carried out vegetables, fruits, fruits, the recommendation of the Department of Agriculture.
-
-◼️
-
-[Data](articles/a63993d9.json)
-
-[Extended Data](ext_articles/a63993d9.ext.json)
-
----
-
-### Children create a better country
-
-*2024-06-19 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-වඩාත්-හොඳ-රටක්-නිර්මාණය-කර-දෙනවා/11-410322) · `si`
-
-President Ranil Wickremesinghe aims to transform Sri Lanka into a better country for children within 5-10 years, focusing on education through scholarships and addressing the economic crisis. He announced a comprehensive scholarship program for students from Grade 1 to Grade 11, ensuring financial support for over 100,000 students nationwide. This initiative is part of a broader effort to alleviate the impact of the economic crisis, including providing legal ownership of land and housing rights, emphasizing the importance of education for the nation's future.
-
-🟩
-
-President Ranil Wickremesinghe said that a better country would be created in the next 5-10 years for children.
-
-He also emphasized that he has decided to suffer the President as the President and that he has committed himself to suffer from the economic crisis in the economic crisis.
-
-President Ranil Wickremesinghe addressing the ceremony held at Temple Trees today (19) at Temple Trees.
-
-The President said that the inheritance program has been launched to educate the children to earn the people's ownership.
-
-6022 (2023) students who study the GCE (A / L) of the year (2023) students are selected and providing 100 students per child monthly Rs.. The relevant scholarships will be provided until the end of the children (A / L) from March 2024.
-
-According to President Ranil Wickremesinghe's concept, a scholarship program will be implemented for students who are studying from Grade 1 to Grade 11, covering 10,126 overall schools in the country.
-
-...
-
-[Data](articles/f21f711d.json)
-
-[Extended Data](ext_articles/f21f711d.ext.json)
-
----
-
-### The president's leadership was a well-being of the president's leadership
-
-*2024-06-19 19:11:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමට-ජනාධිපතිගේ-නායකත්වය-මනා-පිටිවහලක්-වුණා/11-410321) · `si`
-
-B. Herath, the State Minister of Livestock Development, praised the current government's efforts under President Ranil Wickremesinghe to rebuild the country economically and combat corruption. He highlighted the importance of international support and the government's successful navigation through the economic challenges posed by the COVID-19 pandemic. Despite opposition attempts to hinder progress, the minister emphasized the need for unity to avoid returning to economic turmoil.
-
-🟩
-
-Minister of Livestock Development, Minister of Livestock Development, was a good allotted leadership to rebuild the country in every aspect.. B. Herath said.
-
-The State Minister pointed out that whether the present government has been implementing the concessionary program implemented by the present government to establish a strong economy, the people should be determined and determined whether or not the country is taken back to the abyss.
-
-State Minister of Livestock Development. B. Herath made this statement participating at a press conference held at the Presidential Media Center today (19).
-
-The Ministry was responsible for the implementation of the need to rebuild the country in every aspect.. Since the Ministry of Food shortage was due to a food deficit, the ministry has been completely removed by now.. The government led by President Ranil Wickremesinghe's right leadership was dedicated to the promotion of the country from the crisis.
-
-...
-
-[Data](articles/7156ee77.json)
-
-[Extended Data](ext_articles/7156ee77.ext.json)
-
----
-
-### New development bank to support industrialists
-
-*2024-06-19 19:06:36* · [`adalk`](https://www.ada.lk/breaking_news/කර්මාන්තකරුවන්ට-මූල්‍ය-සහාය-ලබාදීම-සඳහා-නව-සංවර්ධන-බැංකුවක්/11-410320) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe announced the establishment of a new development bank aimed at supporting the nation's industrial sector, particularly small and medium-sized enterprises. This initiative is part of the "Enterprise Sri Lanka" scheme, unveiled during the International Industry Expo 2024. The expo, organized by the Ministry of Industry and Health, showcases over 1,000 local and international businesses across 1307 stalls, including a dedicated Green Industrial Zone. The event emphasizes green industrialization and aims to foster economic growth through innovation and collaboration.
-
-🟩
-
-President Ranil Wickremesinghe said that a new development bank is expected to open a new development bank to the Sri Lankan industry.
-
-The President said that a new institution is established in the "Enterprise Sri Lanka" to strengthen small and medium scale entrepreneurs.
-
-President Ranil Wickremesinghe said this was stated by the first International International Industryi Expo 2024 (INTERNATIONAL Industry Expo 2024) Exhibition was opened today (19th).
-
-The exhibition organized by the Ministry of Industry and Health, the Industry Ministry of Industry and Industry Development will be held from today to June to June 23 at the Bandaranaike Memorial International Conference Hall.
-
-...
-
-[Data](articles/87540b31.json)
-
-[Extended Data](ext_articles/87540b31.ext.json)
-
----
-
-### Super 8 on Super 8
-
-*2024-06-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186499) · `ta`
-
-In the upcoming cricket match at the Sammy National Cricket Stadium in St. Lucia, England, the reigning champions, face the West Indies, the hosts, in what promises to be a thrilling finale of the 9th T20 World Cup. England secured their spot in the Super 8 round after defeating Australia and overcoming challenges from Oman and Namibia. Meanwhile, the West Indies advanced smoothly through Group C, securing victories against Papua New Guinea, Uganda, New Zealand, and Afghanistan. Historical data favors the West Indies, leading 17-12 in past encounters and boasting a strong performance in previous World Cups. Despite England's talented lineup, including bowlers Jofra Archer and Adil Rashid, the West Indies' home advantage and impressive showings in this tournament suggest a favorable outcome for them.
-
-🟩
-
-The current champion England and the reception country, the West Indies, will clash in the West Indies, St. Lucia, Cross Island Terran Sammy National Cricket Stadium on Thursday morning (20).
-
-The match between the two teams, which is two times each, is expected to be the best match in the World Cup this year and will be the last one.
-
-In the 9th T20 World Cup chapter, England were eligible to play in the 8 round of the UK Tapping Super 8 round.
-
-Suspects of England Super 8 rounded began to strengthen the defeat of Australia in the 2nd match following the abandonment of the match with Scotland.
-
-However, the strength of the strong Oman and Namibia, the Super 8 -round qualification was confirmed.
-
-On the other hand, the West Indies in the C. Group have easily entered the Super 8 round by winning the Papua New Guinea, Uganda, New Zealand and Afghanistan in their four matches.
-
-...
-
-[Data](articles/24092529.json)
-
-[Extended Data](ext_articles/24092529.ext.json)
-
----
-
-### Keheliya has not received four months
-
-*2024-06-19 18:47:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගෙන්-නිවාස-කුලී-මාස-හතරකින්-ලැබී-නෑ/11-410318) · `si`
-
-Keheliya Rambukwella, a former minister, has occupied a temporary residence provided by the Central Provincial Council but has only served for 19 days. The council has requested reimbursement for four months' rent since his suspension in February.
-
-🟩
-
-Former Minister Keheliya Rambukwella, who has been settled in a house of the Central Provincial Council, has ever reached the post of 19 days, says the Central Province Chief Ministry.
-
-The Central Province Chief Minister of the Malabar Street has been provided with the rented out of the Mahabar Street at Mahabar Street, Kandy temporarily to remain temporarily in the struggle.
-
-The Chief Ministry of the Central Province is the Minister of Health Rambukwella, Chief Secretary of the Central Province and the Ministry of Environmental Minister Rambukwella says that the Ceylon Minister of Health and the Ministry of Environment has been charged with the Central Provincial Council.A senior official of the Chief Ministry said he had stopped.
-
-The Chief Minister of the Central Province has made a written request from the Chief Secretary of the Central Province to recover the money for four months after the former Minister has been suspended in February.
-
-◼️
-
-[Data](articles/2fb8e190.json)
-
-[Extended Data](ext_articles/2fb8e190.ext.json)
-
----
-
-### Excavation work is to be started at the Fort
-
-*2024-06-19 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186497) · `ta`
-
-Excavation begins at Annie Fort on Thursday, aimed at uncovering significant cultural evidence from the Anaikottai area rich in Sri Lankan history. Noted archaeologists and heritage experts, including former university professors and current academics, will participate, marking the start of the project with an inauguration ceremony on the 20th at 9 am.
-
-🟩
-
-Excavation work will be commenced on Thursday, the 20th, at the Annie Fort, which is believed that the evidence that can be scientifically proves to be scientifically.
-
-The excavation work will be carried out in an area identified in the Anaikottai, which is considered full of Sri Lankan cultures.
-
-Yall. Former professors of the university, Raghupati and Indrapala, have received evidence to ensure that this is a great culture in excavations and upliftment in the 1980s.
-
-In this case, Jaffna with migrant funds. University Lifetime Professor Paramu Pushparatnam, Professors of Archeology, South Sri Lanka, Jaffna. University Archaeological Lecturers, Archaeological Workshop Officers and Jaffna Heritage Center will participate in these excavations.
-
-The inaugural event will be held on Thursday 20th at 9 am, said Professor Paramu Pushparatnam, Chairman of the Jaffna Heritage Center.
-
-◼️
-
-[Data](articles/82653d2a.json)
-
-[Extended Data](ext_articles/82653d2a.ext.json)
-
----
-
-### A new institutional framework to enhance Sri Lanka’s industrial sector
-
-*2024-06-19 18:35:00* · [`islandlk`](http://island.lk/a-new-institutional-framework-to-enhance-sri-lankas-industrial-sector/) · `en`
-
-President Ranil Wickremesinghe announced the establishment of a new development bank aimed at providing financial support to industrialists in Sri Lanka. This initiative will offer industrialists the opportunity to obtain loans at low interest rates.
-
-Additionally, the President revealed plans to set up an Economic Commission to oversee these activities. A new institution, “Enterprise Sri Lanka,” will also be created to empower small and medium-sized entrepreneurs.
-
-President Ranil Wickremesinghe made this announcement during the inauguration of the International Industry Expo 2024, the first event of its kind in Sri Lanka.
-
-Organized by the Industrial Development Board under the guidance of the Ministry of Industry, and with the support of Industries and Health Minister Dr. Ramesh Pathirana, the exhibition will run from today until June 23 at the Sirimavo Bandaranaike International Conference Hall.
-
-...
-
-[Data](articles/771c5746.json)
-
-[Extended Data](ext_articles/771c5746.ext.json)
-
----
-
-### Piyumi's bank accounts will be found
-
-*2024-06-19 18:33:20* · [`adalk`](https://www.ada.lk/breaking_news/පියුමිගේ-බැංකු-ගිණුම්-19ක්-පිළිබඳ-තොරතුරු-හොයයි/11-410317) · `si`
-
-Colombo Magistrate Manjula Ratnayake has directed the CID to submit reports on Piyumi Hansalay's bank accounts from 19 state banks. The CID, unable to liquidate assets including a Range Rover car, initiated an inquiry. The investigation focuses on how Piyumi amassed wealth and lived luxuriously. Sub Inspector Tharanga Lakmal mentioned potential irregularities in property acquisition and hinted at possible legal action. The magistrate also requested updates on the investigation's progress.
-
-🟩
-
-Colombo Additional Magistrate Manjula Ratnayake has set to call for reports of 19 State Banking Piyumi Hansalay's bank accounts today (19).
-
-The secretariat area of ​​the CID accepts a request made by the CID, who was unable to sell the money and the 'Range Rover Car of Gotabhaya Rajapaksa to be sold using Rs.Specified.
-
-According to a complaint lodged by the CID, the CID's Urivacy Investigation Division has commenced the complaint with the complaint lodged by the 'Chairman' Assets Division in the case.
-
-The Chief Inspector Sampath Lakmal, Chief Inspector Sampath Lakmal, appearing on the progress of the investigation, appeared with the progress of the investigation.He said how to rich in such a short time, and how to live a luxury.
-
-Purchase of nearly Rs. Rs.Sub Inspector Tharanga Lakmal further stated that it will be expulted against her to earn property, including circulation of billions of crores.
-
-...
-
-[Data](articles/4df998f6.json)
-
-[Extended Data](ext_articles/4df998f6.ext.json)
 
 ---

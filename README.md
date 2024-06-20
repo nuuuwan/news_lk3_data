@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 11:54:35**
+As of **2024-06-20 12:07:18**
 
 ## Newspaper Stats
 
-*Scraped **31,285** Articles*
+*Scraped **31,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,729
-adaderanalk | 3,540
+adaderanalk | 3,541
 tamilmirrorlk | 3,677
 dailymirrorlk | 4,733
 virakesarilk | 4,839
@@ -26,77 +26,121 @@ adaderanasinhalalk | 5,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,274 (100.0%) of 31,285 articles have been extended.
+31,285 (100.0%) of 31,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ඉන්දීය විදේශ ඇමති ජනපති හමුවෙයි
+### Indian Foreign Minister calls on President Ranil
+
+*2024-06-20 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99985/indian-foreign-minister-calls-on-president-ranil) · `en`
+
+The visiting Indian External Affairs Minister Dr. S. Jaishankar has called on President Ranil Wickremesinghe at the President’s House a short while ago.
+
+Dr. S. Jaishankar is currently engaged in a one-on-one meeting with President Wickremesinghe, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/651ae550.json)
+
+---
+
+### Indian Foreign Minister meets President
 
 *2024-06-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197948) · `si`
 
-අද (20) උදෑසන දිවයිනට පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා මීට සුළු වේලාවකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව මුණගැසී තිබේ.
+Dr. S. Story, India's Foreign Minister, recently had a meeting with President Ranil Wickremesinghe.
+
+🟩
+
+Indian Foreign Minister Dr. S. Story. President Ranil Wickremesinghe has met President Ranil Wickremesinghe shortly ago.
 
 ◼️
 
 [Data](articles/188572d1.json)
 
+[Extended Data](ext_articles/188572d1.ext.json)
+
 ---
 
-### எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் சட்ட மூலத்தினால் உள்ளுர் கலாச்சாரத்திற்கு ஆபத்து- அகில இலங்கை பௌத்தகாங்கிரஸ்
+### The LGBDC community;The All Ceylon Buddhist Contains Danger of Local Culture
 
 *2024-06-20 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186539) · `ta`
 
-எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் சட்ட மூலத்தினால் உள்ளுர் கலாச்சாரத்திற்கு ஆபத்து ஏற்படலாம் என அகில இலங்கை பௌத்தகாங்கிரஸ் எச்சரித்துள்ளது.
+The All Ceylon Buddhist Congress warns that bills promoting gender equality and LGBTQ+ rights could harm Sri Lanka's culture and ethics, fearing it might lead to "cultural legal chaos" and the imposition of foreign values. The organization argues against separate laws for different sexual orientations, emphasizing the importance of preserving traditional family values in the country.
 
-நாடாளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள  பெண்களை வலுப்படுத்தும் சட்டமூலத்தையும் பாலின சமத்துவ சட்டமூலத்தையும்  கடுமையாக விமர்சித்துள்ள அகில இலங்கை பௌத்த காங்கிரஸ் இந்த சட்டமூலம் எல்ஜிபிடிகியு சமூகத்தினரையும்; பால்புதுமையினரின் உரிமைகளையும் ஊக்குவிக்கும் உள்நாட்டு கலாச்சாரம் நெறிமுறைகள் விழுமியங்களை சமரசம் செய்யும் என தெரிவித்துள்ளது.
+🟩
 
-மேற்குலகில் கூட பிள்ளைகள் பால் மாற்றத்தில் ஈடுபடுவதை பெற்றோர்கள் ஏற்றுக்கொள்ளவில்லை என என அகில இலங்கை பௌத்தகாங்கிரஸின் தலைவர் சந்திரா நிமல் வகிஸ்ட தெரிவித்துள்ளார்.
+The LGBDC community;The All Ceylon Bougans have warned that the legal source that promotes the rights of milkmen can endanger local culture.
 
-இலங்கை ஒரு குடும்ப அடிப்படையிலான தாய்வழி சமூகம் என தெரிவித்துள்ள அவர் இந்த சட்டமூலங்கள் இலங்கையின் நெறிமுறைகள் மற்றும் விழுமியங்களை நிச்சயம் சமரசம் செய்யும் எனவும் தெரிவித்துள்ளார்.
+The All Ceylon Buddhist Congress, which has strongly criticized the Bill and the Gender Equality Bill that strengthens the women presented in parliament, this bill is the LGPDC community;The domestic culture, which promotes the rights of the dairy, will compromise the values ​​of the values.
 
-...
+All Ceylon Buddhist President Chandra Nimal Waistist said that parents did not accept the change of milk in the West.
+
+He said that Sri Lanka is a family -based maternal community and that these bills will definitely compromise the ethics and values ​​of Sri Lanka.
+
+He said that there are people with different sexuals and not to bring in separate laws on their behalf.
+
+He said that if the bill was implemented, there would be a cultural legal chaos and that the President of Sri Lanka should not try to impose foreign views on us.
+
+◼️
 
 [Data](articles/1f6ff8b8.json)
 
+[Extended Data](ext_articles/1f6ff8b8.ext.json)
+
 ---
 
-### மீண்டும் தமிழக மீனவர்கள் கைது ; ஸ்டாலின் சீற்றம் ; ஜெய்சங்கருக்கு கடிதம்
+### Tamil Nadu fishermen arrested again;Stalin's outrage;Letter to Jaishankar
 
 *2024-06-20 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186536) · `ta`
 
-இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ள மீனவர்களை விடுவிக்க நடவடிக்கை எடுக்க வேண்டும் என்று இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கருக்கு தமிழ்நாட்டு முதல்வர் ஸ்டாலின் கடிதம் எழுதியுள்ளார்.
+MK Stalin, Tamil Nadu's CM, wrote to India's FM Jaishankar, seeking the release of four fishermen arrested by the Sri Lankan navy. He highlighted the impact on their livelihoods and called for urgent action to free them and their boats. Currently, 15 fishermen and 162 boats are held by Sri Lanka, prompting the request for their immediate release.
 
-இலங்கைக் கடற்படையினரால் நேற்று (18) கைது செய்யப்பட்டுள்ள தமிழ்நாட்டைச் சேர்ந்த நான்கு மீனவர்களை உடனடியாக விடுவிக்க மத்திய அரசு உரிய நடவடிக்கைகளை மேற்கொள்ள வேண்டுமென வலியுறுத்தி முதல்வர் மு.க.ஸ்டாலின் மத்திய வெளிவிவகார அமைச்சர் அமைச்சர் எஸ்.ஜெய்சங்கருக்கு கடிதம் எழுதியுள்ளார்.
+🟩
 
-அந்த கடிதத்தில் புதுக்கோட்டை மாவட்டம், கோட்டைப்பட்டினம் மீன்பிடித் துறைமுகத்திலிருந்து IND-TN-08-MM-05 என்ற பதிவு எண் கொண்ட விசைப்படகில் மீன்பிடிக்கச் சென்ற தமிழ்நாட்டைச் சேர்ந்த நான்கு மீனவர்கள் இலங்கைக் கடற்படையினரால் 18-6-2024 அன்று கைது செய்யப்பட்டு, அவர்களது மீன்பிடி படகுகளும் கைப்பற்றப்பட்டுள்ளன.
+Tamil Nadu Chief Minister Stalin has written to Indian Foreign Minister Jaishankar demanding action to release the fishermen arrested by the Sri Lankan navy.
 
-இத்தகைய சம்பவங்கள் மீனவர்களின் வாழ்வாதாரத்தை சீர்குலைப்பதோடு மட்டுமல்லாமல், மீனவ சமுதாயத்தினரிடையே அச்ச உணர்வையும், நிச்சயமற்ற தன்மையையும் ஏற்படுத்துவதாகவும் தெரிவித்துள்ளார்.
+Chief Minister MK Stalin has written to Union Foreign Minister S Jaishankar, urging the central government to take immediate steps to release the four fishermen from Tamil Nadu who were arrested by the Sri Lankan navy yesterday.
+
+The letter was arrested by the Sri Lankan navy on 18-6-2024 by the Sri Lankan navy and their fishing boats were arrested by the Sri Lankan navy on 18-6-2024.
+
+He said that such incidents not only disrupt the livelihood of the fishermen, but also create fear and uncertainty among the fishermen.
 
 ...
 
 [Data](articles/9b1fc743.json)
 
+[Extended Data](ext_articles/9b1fc743.ext.json)
+
 ---
 
-### சட்டவிரோத மரங்கள் வெட்டப்படுவதை தடுக்க 'டிரோன்' பயன்படுத்தப்படும் -  நிஷாந்த எதிரிசிங்க !
+### 'Drone' used to prevent the cutting of illegal trees - Nishantha enemy!
 
 *2024-06-20 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186528) · `ta`
 
-இலங்கையின் வன அமைப்பில் சட்டவிரோத மரங்கள் வெட்டப்படுவதைத் தடுப்பதற்காக 'டிரோன்' தொழில்நுட்பம் பயன்படுத்தப்படும் என வன பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் நிஷாந்த எதிரிசிங்க தெரிவித்துள்ளார்.
+Nishantha Etisinghe, the Director General of Sri Lanka's Forest Protection Department, announced the use of drone technology to combat illegal tree felling. He emphasized strict enforcement against violators caught through drone surveillance. This initiative was unveiled during the launch of a program allowing domestic and international tourists to visit the Udawatte forest in Kandy. The plan includes increasing forest density to 32%, implementing various conservation programs, and utilizing modern technology to deter unauthorized land acquisition. Additionally, efforts are underway to educate the public on preventing wildfires, which have caused significant harm to forests across several districts, including Kandy.
 
-'ட்ரோன்' தொழில்நுட்ப கண்காணிப்பு மூலம் பெறப்படும் தரவுகள் மூலம் அடையாளம் காணப் படுபவர்களுக்கு எதிராக சட்டத்தை கடுமையாக அமுல்படுத்தப்படும் என்றும் அவர் கூறினார்.
+🟩
 
-கண்டியில் உள்ள உடவத்தை வனப்பகுதியை துவிச்சக்கர வண்டியில் பார்வையிடும் வாய்ப்பை உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கு வழங்கும் வேலைத்திட்டத்தின் அங்குரார்ப்பண நிகழ்வில் கலந்துகொண்டு பணிப்பாளர் நாயகம் இதனைத் தெரிவித்தார்.
+The Director General of the Forest Protection Department, Nishantha Etisinghe, said that 'drone' technology will be used to prevent illegal trees in the forest system of Sri Lanka.
 
-இந்த நாட்டில்  29%  சதவீதமாக ஆக குறைந்துள்ளது அடர்ந்த  வனத்தை அதனை   32% சதவீதமாக உயர்த்த திட்டமிடப் பட்டுள்ளதாகவும் அதற்கான .பல வேலைத் திட்டங்கள் செயல்படுத்தப்பட்டு வருவதாகவும் அவர் வலியுறுத்தினார்.
+He said the law would be strictly implemented against those who identified the data obtained by the 'drone' technical surveillance.
 
-மேலும், வன நிலத்தை அனுமதியின்றி கையகப்படுத்துவதை தடுக்க நவீன தொழில்நுட்பத்தை அதிகபட்சமாக பயன்படுத்த எதிர்பார்க்கப்படுவதாகவும் அவர் கூறினார்.
+The Director General said this at the inauguration ceremony of the program of giving domestic and foreign tourists to visit the Udawatte forest in Kandy.
+
+He stressed that the dense forest was planned to be increased to 32% and that many programs were being implemented by 29%.
+
+He also said that the maximum use of modern technology is expected to be used to prevent the acquisition of forest land without permission.
+
+Steps have been taken to raise awareness about the public to prevent the wildfire in many districts, including Kandy, and that the forest system is causing serious damage.
 
 ...
 
 [Data](articles/f12b0c2e.json)
+
+[Extended Data](ext_articles/f12b0c2e.ext.json)
 
 ---
 
@@ -158,19 +202,27 @@ The share was trading up at 0.80 on Thursday. (Colombo/Jun20/2024)
 
 [Data](articles/5d2448d7.json)
 
+[Extended Data](ext_articles/5d2448d7.ext.json)
+
 ---
 
-### உரிய தீர்வு கிடைக்காமையால் பேராதனை பல்கலைக்கழக கல்விசாரா ஊழியர்ககள் சத்தியாக்கிரக போராட்டத்தில்
+### In the Satyagraha struggle for non -academic staff of Peradeniya University
 
 *2024-06-20 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186530) · `ta`
 
-பேராதனை பல்கலைக்கழக கல்விசாரா ஊழியர்கள்  சம்பள முரண்பாடுகள் உள்ளிட்ட  பல்வேறு பிரச்சினைகள் முன்வைத்து முன்னெடுக்கப்படுகின்ற பணிப்புறக்கணிப்பு போராட்டத்திற்கு 50 நாட்களாகியும் சாதகமான தீர்வுகள் வழங்கப்படாமைக்கு எதிர்ப்பு தெரிவித்து பேராதனை பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பு நேற்று புதன்கிழமை (19) முதல் தொடர் சத்தியாக்கிரக போராட்டத்தை ஆரம்பித்துள்ளது.
+Peradeniya University's non-academic staff launched satyagraha protests over unresolved issues like salaries. Led by Priyantha Weerasuriya, the strikes began at Kalaha junction, aiming to continue until grievances are addressed.
 
-கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதியை அடுத்துள்ள கலஹா சந்தியில் இந்த சத்தியாக்கிரகத்தை ஆரம்பித்து வைத்த பேராதனை பல்கலைக்கழக தொழிறசங்க பேரவையின் தலைவர் பிரியந்த வீரசூரிய, தமது பிரச்சினைகளுக்கு தீர்வு கிடைக்கும் வரை சத்தியாகிரகத்தில் ஈடுபடவுள்ளதாக தெரிவித்தார்.
+🟩
+
+The Peradeniya University Trade Union Federation has launched a series of satyagraha protests since Wednesday (19) in protest of the lack of favorable solutions for the workforce struggle, which is being carried out on various issues, including salary conflicts of the Peradeniya University.
+
+Priyantha Weerasuriya, president of the Peradeniya University Labor Council, who started the Satyagraha at the Kalaha junction near Colombo to Kandy, said that he would engage in Satyagraha until his problems were solved.
 
 ◼️
 
 [Data](articles/6ffc1792.json)
+
+[Extended Data](ext_articles/6ffc1792.ext.json)
 
 ---
 
@@ -213,6 +265,8 @@ Their own rice plant will ensure stable quality and lower costs. Polish riced wi
 ...
 
 [Data](articles/8d099dd7.json)
+
+[Extended Data](ext_articles/8d099dd7.ext.json)
 
 ---
 
@@ -484,6 +538,8 @@ A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, from 11.95/12.35 p
 
 [Data](articles/6d4ce73b.json)
 
+[Extended Data](ext_articles/6d4ce73b.ext.json)
+
 ---
 
 ### The brave young man who risked his life in danger
@@ -577,6 +633,8 @@ Dassanayake said areas of cooperation which could be further elevated between Sr
 ...
 
 [Data](articles/baf2068c.json)
+
+[Extended Data](ext_articles/baf2068c.ext.json)
 
 ---
 
@@ -888,6 +946,8 @@ The Representative of the Auditor General’s office questioned how officers who
 
 [Data](articles/a9372227.json)
 
+[Extended Data](ext_articles/a9372227.ext.json)
+
 ---
 
 ### Special buses and train services to pilgrims in Poson
@@ -989,6 +1049,8 @@ The visit will be Jaishankar’s first bilateral visit after the formation under
 ...
 
 [Data](articles/d4a79dcc.json)
+
+[Extended Data](ext_articles/d4a79dcc.ext.json)
 
 ---
 
@@ -2237,27 +2299,5 @@ Duminda Dissanayake, acting Secretary General of the Sri Lanka Freedom Party, ha
 [Data](articles/b10ed0c3.json)
 
 [Extended Data](ext_articles/b10ed0c3.ext.json)
-
----
-
-### Decision in a case against Hirunika
-
-*2024-06-19 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-එරෙහි-නඩුවක-තීන්දුවක්-28දා-ප්‍රකාශයට/11-410324) · `si`
-
-Colombo High Court Judge Amal Ranaraja declared the verdict in the case against former Parliamentarian Hirunika Premachandra on the 28th, finding eight security guards guilty of abducting and assaulting Amila Priyang Amarasinghe in December 2015. They were sentenced to 12 years in prison and fined Rs. 165,000 each. The victim was awarded Rs. 285,000 in compensation. Premachandra faced 29 charges but the outcome of her case was not specified.
-
-🟩
-
-Colombo High Court Judge Amal Ranaraja decided to declare the verdict in the case against former Parliamentarian Hirunika Premachandra on the 28th of this month.The judge decided to publish the verdict in the case.
-
-The abduction of the Amaralge Amaila Priyang Amarasinghe in December 21, 2015, to abduct Mr. Amila Priyang Amarasinghe in Dematagoda, to abduct and support assistanceThe case has been filed against the defendants under 29 charges against the accusations, including the criminal force, intimidation, criminal intimidation.
-
-The Attorney General has informed the court under 29 months of charges of the incident.Eight security guards have pleaded guilty and sentenced to 12 years in prison and fined Rs. 1,65,000 / -. The youth of Dematagoda, who was abducted, was also paid to pay compensation at Rs. 2,85,000 / -.
-
-...
-
-[Data](articles/2065d108.json)
-
-[Extended Data](ext_articles/2065d108.ext.json)
 
 ---

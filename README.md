@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 07:22:00**
+As of **2024-06-20 07:46:29**
 
 ## Newspaper Stats
 
-*Scraped **31,235** Articles*
+*Scraped **31,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ economynextcom | 1,804
 dailyftlk | 1,913
 adalk | 2,723
 adaderanalk | 3,534
-tamilmirrorlk | 3,672
+tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,071
+adaderanasinhalalk | 5,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,220 (100.0%) of 31,235 articles have been extended.
+31,220 (99.9%) of 31,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### පොසොන් වන්දනාවේ යන බැතිමතුන්ට විශේෂ බස් සහ දුම්රිය සේවාවක්
+
+*2024-06-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197938) · `si`
+
+පොසොන් පොහොය වෙනුවෙන් අනුරාධපුරය පූජා නගරය වන්දනාමාන කිරීමට පැමිණෙන සැදැහැවතුන් සඳහා අද (20) සිට විශේෂ බස් සහ දුම්රිය සේවා ක්‍රියාත්මක කර තිබේ.
+
+◼️
+
+[Data](articles/94ba6acf.json)
+
+---
 
 ### දකුණු අප්‍රිකාවට සුපිරි ජයක්
 
@@ -44,7 +56,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 නමුත් දෙවන කඩුල්ල වෙනුවෙන් ලකුණු 110ක සබඳතාවක් ගොඩනැගීමට ක්වන්ටන් ඩී කොක් සහ ඒඩන් මාක්‍රම් සමත්වුණි.
 
-ඩිකොක් මෙම තරග වාරයේ රැස්කරන පළමු අර්ධ ශතකය රැස්කරමින් ලකුණු 74ක් වාර්තා කළේය.
+ඩිකොක් මෙම තරගාවලියේ රැස්කළ පළමු අර්ධ ශතකය රැස්කරමින් ලකුණු 74ක් වාර්තා කළේය.
 
 ඒඩන් මාක්‍රම් ලකුණු 46ක් රැස්කළ අතර හෙන්රිච් ක්ලාසන් ලකුණු 36යි.
 
@@ -52,9 +64,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ලකුණු 195ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි අමෙරිකා කණ්ඩායමේ පළමු කඩුලු 5 ලකුණු 76ක් තුළදි දැවී ගියේය.
 
-6 වන කඩුල්ලට ලකුණු 91ක සබඳතාක් ගොඩ නැගීමට හාමිත් සිං සහ ඇන්ඩ්‍රිස් ගෝස් සමත්වුණත් ජයග්‍රහණය සඳහා එය ප්‍රමාණවත් නොවීය.
+6 වන කඩුල්ලට ලකුණු 91ක සබඳතාවයක් ගොඩ නැගීමට හාමිත් සිං සහ ඇන්ඩ්‍රිස් ගෝස් සමත්වුවද ජයග්‍රහණය සඳහා එය ප්‍රමාණවත් නොවීය.
 
-ඒ අනුව නියමිත පන්දුවාර 20 අවාසනයේදී අමෙරිකාව කඩුලු 6ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 176කි.
+ඒ අනුව නියමිත පන්දුවාර 20 අවසානයේදී අමෙරිකාව කඩුලු 6ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 176කි.
 
 ...
 
@@ -511,6 +523,22 @@ Southeastern University Employees Union President MRM. Tajuddin and S. Ribayuthe
 [Data](articles/27d00e76.json)
 
 [Extended Data](ext_articles/27d00e76.ext.json)
+
+---
+
+### ’பிள்ளைகளுக்கு உகந்த நாட்டை உருவாக்குவேன்’
+
+*2024-06-20 01:34:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளுக்கு-உகந்த-நாட்டை-உருவாக்குவேன்/175-339161) · `ta`
+
+ஜனாதிபதி என்ற வகையில் இந்த நாட்டில் எந்த ஒரு பிள்ளையும் பாதிக்கப்படக் கூடாது என தீர்மானித்துள்ளோம் எனவும் இரண்டு வருட குறுகிய காலத்தில் பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்பதற்காக என்னை அர்ப்பணித்துள்ளேன் என்றும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி புலமைப்பரிசில் வழங்கும் நிகழ்வு நேற்று அலரி மாளிகையில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+இந்நாட்டுப் பிள்ளைகளுக்கு இன்று மிகவும் மகிழ்ச்சியான நாள். முதலில், இந்த உதவித்தொகை பெறுவதற்கு உங்கள் அனைவருக்கும் வாழ்த்துக்களைத் தெரிவித்துக் கொள்கிறேன். இத்திட்டத்தின் கீழ் ஒரு லட்சம் உதவித்தொகை வழங்கப்படும். உயர்தரம் கற்கும் மாணவர்களுக்கு 6,000 ரூபாய் உதவித்தொகையும் வழங்கப்படுகிறது. இந்த புலமைப்பரிசில்களை வழங்க ஜனாதிபதி நிதியத்தில் இருந்து 04 பில்லியன் ரூபாவை ஒதுக்கியுள்ளோம்.
+
+...
+
+[Data](articles/f4798802.json)
 
 ---
 
@@ -2269,55 +2297,5 @@ The full announcement issued by the Commission of Bribery or Corruption Commissi
 [Data](articles/493da22a.json)
 
 [Extended Data](ext_articles/493da22a.ext.json)
-
----
-
-### Male MPs who support the Gender Equality Bill are ready to become women and female members
-
-*2024-06-19 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186461) · `ta`
-
-Male MPs backing the Gender Equality Bill could face gender conversion, as the bill promotes alternative business practices. MP Wimal Weerawansa criticized Western teachings on gender equality, stating opposition isn't against women's equality but against including alternative genders in legal provisions aimed at female equality. He highlighted the cultural differences between East and West regarding gender issues, mentioning transgender references in Buddhist texts. The Supreme Court advised against equating women's equality with alternative genders, suggesting the bill might cause unnecessary problems by forcing male and female MPs to switch roles.
-
-🟩
-
-Gender Equality Bill aims to promote the alternative business. The male MPs who vote in favor of the Bill can be considered to be women and female members are ready to be converted into men. Parliamentarian Wimal Weerawansa said that the West does not need to teach a lesson on gender equality.
-
-He was speaking at a special statement during a session held in Parliament on Wednesday (19).
-
-There is no need to oppose the Supreme Court on gender equality.
-
-We do not oppose women's equality and alternative gender. We oppose the inclusion of alternative gender within the legal provisions prepared as female equality.
-
-Gender change is seen as modern culture in the West. Children are asked for admission to gender in primary schools in the West.
-
-If you want the male child to be a female and the female child.. Let the West keep their culture there.
-
-Transgender people are mentioned in Buddhist doctrines.
-
-...
-
-[Data](articles/5d19a08d.json)
-
-[Extended Data](ext_articles/5d19a08d.ext.json)
-
----
-
-### School children were hospitalized following gold
-
-*2024-06-19 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197919) · `si`
-
-In Kaduwela Randala, a collision between a private bus carrying students from Colombo to Dembatalawa and another bus in Embilipitiya resulted in schoolchildren being hospitalized.
-
-🟩
-
-A private bus and a student searcher and a student searcher conflicted in the Kaduwela Randala area.
-
-A private bus, which was transporting students from Colombo to Dembagala, a private bus traveling in Embilipitiya was collided with the face.
-
-◼️
-
-[Data](articles/71441639.json)
-
-[Extended Data](ext_articles/71441639.ext.json)
 
 ---

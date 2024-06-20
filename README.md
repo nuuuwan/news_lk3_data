@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 15:34:39**
+As of **2024-06-20 15:53:21**
 
 ## Newspaper Stats
 
-*Scraped **31,319** Articles*
+*Scraped **31,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,76 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,810
 dailyftlk | 1,914
-adalk | 2,733
+adalk | 2,734
 adaderanalk | 3,545
 tamilmirrorlk | 3,683
 dailymirrorlk | 4,733
-virakesarilk | 4,851
+virakesarilk | 4,854
 adaderanasinhalalk | 5,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,316 (100.0%) of 31,319 articles have been extended.
+31,319 (100.0%) of 31,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### சாக்லேட்டில் செத்த எலி
+### மனைவியை தீ மூட்டி எரித்து படுகொலை செய்த கணவனுக்கு மரண தண்டனை
+
+*2024-06-20 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186571) · `ta`
+
+யாழ்ப்பாணத்தில் மனைவியை தீ மூட்டி எரித்து படுகொலை செய்த கணவனுக்கு யாழ். மேல் நீதிமன்றம் மரண தண்டனை விதித்துள்ளது.
+
+கடந்த 2015ஆம் ஆண்டு ஜூன் மாதம் 20ஆம் திகதி மானிப்பாய் காக்கை தீவு பகுதியில் குடும்ப பெண்ணொருவர் தீக்காயங்களுக்கு உள்ளான நிலையில் உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த மானிப்பாய் பொலிஸார் கணவனை கைது செய்து யாழ். நீதாவன் நீதிமன்றில் முற்படுத்தினர்.
+
+நீதவான் நீதிமன்றில் சுருக்கமுறையற்ற விசாரணைகள் முன்னெடுக்கப்பட்டு, 2019ஆம் ஆண்டு யாழ். மேல் நீதிமன்றில் சட்டமா அதிபரினால் குற்றப்பகிர்வு பத்திரம் தாக்கல் செய்யப்பட்ட நிலையில் வழக்கு விசாரணைகள் முன்னெடுக்கப்பட்டது.
+
+தீர்ப்புக்காக நேற்றைய தினம் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, படுகொலை செய்யப்பட்ட பெண்ணின் கணவனை மன்று குற்றவாளியாக கண்டு, மரண தண்டனை விதிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/ecbeda94.json)
+
+---
+
+### வரலாற்றில் இன்று : 1955 - "பூரண சூரிய கிரகணம் : சிகிரியாவின் அதிர்ஷ்டம்!"
+
+*2024-06-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186566) · `ta`
+
+முழு உலகத்தையும் வியப்பில் ஆழ்த்திய ஒரு மிகப் பெரிய சூரிய கிரகணம் 1955ஆம் ஆண்டு இதே திகதியில் (ஜூன் 20) இடம்பெற்றது.
+
+◼️
+
+[Data](articles/fb7b1734.json)
+
+---
+
+### Chetta rat in chocolate
 
 *2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
 
-சாக்லேட் சிரப்பில் செத்த எலி கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. சாக்லேட் சிரப்பில் செத்த எலி கிடக்கும் வீடியோ சமூக வலைதளங்களில் பெரும் வைரலாகி வருகிறது.
+Recent incidents of dead animals found in food products, including a rat in chocolate and a human finger in ice cream, have caused widespread shock and disgust. These cases, part of a troubling trend occurring over the past two weeks, have gone viral on social media. Authorities are investigating, highlighting serious concerns about food safety and quality control.
 
-கடந்த இரண்டு வாரங்களில் இதுபோன்று நடக்கும் மூன்றாவது சம்பவம் இதுவாகும். அண்மையில் மும்பை மலாட் பகுதியை சேர்ந்த மருத்துவர் ஒருவர் ஆன்லைன் மூலம் பட்டர்ஸ்காட்ச் கோன் ஐஸ்கிரீம் ஆர்டர் செய்துள்ளார். ஐஸ் கிரீம்மை ஆசையோடு சாப்பிட்டபோது அதில் நகத்துடன் மனித விரல் ஒன்று இருந்ததைக் கண்டு அதிர்ச்சி அடைந்தார்.
+🟩
 
-இதுதொடர்பாக போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். இதனிடையே நொய்டாவை சேர்ந்த தீபா என்பவர் தனது 5 வயது மகனுக்கு மில்க் ஷேக் செய்வதற்காக ஐஸ் கிரீம் ஆர்டர் செய்தார். இதில் பூரான் ஒன்று இறந்து கிடந்ததைக் கண்டு பதறிப்போனார்.
+The incident of a dead rat in the chocolate syndrome has caused great shock. The video of the dead rat in chocolate is becoming a huge viral on social networks.
 
-இதுகுறித்து உணவு பாதுகாப்புத்துறை அதிகாரிகள் விசாரணை நடத்தி வருகின்றனர். மேலும் மாட்டு இறைச்சியில் செத்துப்போன பல்லி ஒன்று கிடந்தது. இந்நிலையில் தற்போது பல்லி ஒன்று சாக்லேட் சிரப்பில் கிடந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+This is the third incident like this in the last two weeks. Recently a doctor from Mumbai Malat has ordered the butterskatch cone ice cream on online. He was shocked to find that there was a human finger with a nail when he ate the ice cream.
+
+Police have registered a case and are investigating. Meanwhile, Deepa from Noida ordered an ice cream for her 5 -year -old son to make a milkshake. In this, Puran was worried about the death.
+
+Food safety officials are investigating this. There was also a dead lizard in cow meat. In this case, the incident in which a lizard is currently lying in a chocolate syndrome has come as a shock.
 
 ...
 
 [Data](articles/4075e56b.json)
+
+[Extended Data](ext_articles/4075e56b.ext.json)
 
 ---
 
@@ -72,23 +110,43 @@ The proposal made by Hon.
 
 ---
 
-### சாரதி இன்றி ஓடிய ஓட்டோ: நால்வருக்கு காயம்
+### கள்ளக்குறிச்சி கள்ளச்சாராய வணிகர்கள் - திமுக நிர்வாகிகள் தொடர்பு குறித்து விசாரணை வேண்டும் - பாமக தலைவர் அன்புமணி வலியுறுத்தல்
+
+*2024-06-20 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186568) · `ta`
+
+கள்ளக்குறிச்சி மாவட்டத்தில் கள்ளச்சாராயம் அருந்தி உயிரிழந்தவர்களின் எண்ணிக்கை முப்பத்தைந்தாக உயர்ந்திருக்கிறது. கள்ளச்சாராயம் அருந்தி மக்கள் உயிரிழந்திருப்பது அதிர்ச்சியளிக்கிறது. மேலும் இவ்விவகாரத்தில் கள்ளச்சாராய வணிகர்களுக்கும், திமுக நிர்வாகிகளுக்கும் உள்ள தொடர்பு குறித்து விசாரணை நடத்தப்படவேண்டும் என்று பாமக தலைவர் அன்புமணி ராமதாஸ் வலியுறுத்தியுள்ளார்.
+
+“கள்ளக்குறிச்சி மாவட்டம் கருணாபுரம் பகுதியில் கள்ளச்சாராயம் குடித்து உயிரிழந்தவர்களின் எண்ணிக்கை 35 ஆக உயர்ந்திருக்கிறது. 50-க்கும் மேற்பட்டோர் பல்வேறு மருத்துவமனைகளில் மருத்துவ சிகிச்சைப் பெற்று வருகின்றனர்.  உயிரிழப்புகளின் எண்ணிக்கை நிமிடத்திற்கு  நிமிடம் அதிகரித்து வருகிறது. கள்ளச்சாராயத்திற்கு இவ்வளவு பேர் உயிரிழந்திருப்பது அதிர்ச்சியளிக்கிறது. கள்ளச்சாராயத்தைக் கட்டுப்படுத்துவதில் தமிழக அரசும், காவல்துறையும் முற்றிலுமாக தோல்வியடைந்து விட்டன என்பதையே இது காட்டுகிறது.
+
+...
+
+[Data](articles/e1060c66.json)
+
+---
+
+### Otto ran without driver: Four people hurt
 
 *2024-06-20 15:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-இன்றி-ஓடிய-ஓட்டோ-நால்வருக்கு-காயம்/76-339181) · `ta`
 
-முச்சக்கரவண்டி ஒன்று 30 அடி பள்ளத்தில் வீழ்ந்ததில் மூன்று பெண்கள் உட்பட நால்வர் காயமடைந்து மீகஹகிவுல மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident, four women were injured when a three-wheeler ran unattended into a 30-foot ditch on the Mahiyanganaya main road in Badulla. The driver had parked the vehicle near a shop before it rolled forward and plunged into the ditch. Two of the victims were en route to a meeting. All were taken to the Meegahagivula District Hospital.
 
-பதுளை மஹியங்கனை பிரதான வீதியின் மீகஹகிவுல பிரதேசத்தில் இன்று (20) பிற்பகல் இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+🟩
 
-மீகஹகிவுல நகரிலிருந்து பொல்கஹராவ கிராமத்தை நோக்கிச் சென்ற இந்த முச்சக்கரவண்டியின் சாரதி ஏதோ தேவைக்காக முச்சக்கரவண்டியை கடையொன்றுக்கு அருகில் நிறுத்திவிட்டு அதிலிருந்து இறங்கி சென்றுவிட்டார்.
+Four women, including three women, were injured in a 30 -foot ditch and were admitted to the Meegahagivula District Hospital, police said.
 
-அதேநேரம் முச்சக்கரவண்டி சாரதியின்றி ஐம்பது அடிகள் முன்னால் சென்று,  முன்னால் இருந்த 30 அடி பள்ளத்தில் உருண்டு விழுந்து விபத்துக்கு உள்ளானது.
+The event took place this afternoon at the Meegahagivula area of ​​Mahiyanganaya main road in Badulla.
 
-மெகஹகிவுல நகரில் வியாழக்கிழமை (20) இடம்பெற்ற மாற்றுத்திறனாளிகள் சந்திப்பில் கலந்து கொள்வதற்காக வீட்டுக்குச் சென்று கொண்டிருந்த மாற்றுத்திறனாளிகள் இருவர் காயமடைந்தவர்களில் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The driver of the three -wheeler, who was traveling from Meegahagivula to Polgaharawa, parked the three -wheeler near a shop and got down.
+
+At the same time, the three -wheeler went fifty feet in front of the 30 -foot ditch and crashed.
+
+Police say two persons who were on their way home were among the injured to attend the meeting held on Thursday (20) in Meghagivula.
 
 ◼️
 
 [Data](articles/f76551f3.json)
+
+[Extended Data](ext_articles/f76551f3.ext.json)
 
 ---
 
@@ -180,19 +238,27 @@ The greatest heart to be innocent for innocent animals.
 
 ---
 
-### நெல்லிக்குளம் மலை உடைப்பு: வழக்கு ஒத்திவைப்பு
+### Nellikkulam Mountain Breakdown: Case Postponement
 
 *2024-06-20 14:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்லிக்குளம்-மலை-உடைப்பு-வழக்கு-ஒத்திவைப்பு/175-339179) · `ta`
 
-மூதூர் கிழக்கு சேனையூர் கிராம சேவகர் பிரிவுக்குட்பட்ட நெல்லிக்குளம் மலை பிரதேசத்தில் மலை உடைப்பதால் தமக்கு பாதிப்புள்ளதாக எதிர்ப்புத் தெரிவித்தவர்கள், கைது செய்யப்பட்டு பிணையில் விடுதலைச்செய்யப்பட்டனர்.
+Protesters from the Nellikkulam Hills area, arrested after a dispute over land ownership, had their case postponed until July 4th.
 
-கல்மலை உடைக்கும் போது எதிர்ப்பு தெரிவித்த 10 பொதுமக்கள் செவ்வாய்க்கிழமை (11) அன்று சம்பூர் பொலிஸாரினால் கைது செய்யப்பட்டு மூதூர் நீதிவான் நீதிமன்றில் 12 ஆம் திகதி ஆஜர்படுத்தியதை அடுத்து, அவர்கள் அனைவரும் சொந்தப் பிணையில் விடுவிக்கப்பட்டனர்.
+🟩
 
-அதனை தொடர்ந்து  மூதூர் நீதிவான் நீதிமன்ற நீதவான் தஸ்னீம் பௌசான், ஸ்தலத்துக்கு  சனிக்கிழமை (15)   விஜயம் செய்து  பார்வையிட்டார்.  இந்நிலையில், குறித்த வழக்கு மூதூர் நீதிமன்றில் நீதிமன்ற பதில் நீதவான் முன்னிலையில் வியாழக்கிழமை (20)  விசாரனைக்கு எடுத்துக்கொள்ளப்பட்டது
+Those who protested that they were affected by the hill in the Nellikkulam Hills area belonging to the Muttur East Senayoor Grama Niladhari Division, arrested and released on bail.
 
-...
+The 10 civilians who protested during the breakup of Kalmalai were arrested by the Sampur police on Tuesday (11) and produced at the Muttur Magistrate's Court on the 12th.
+
+Following this, Muttur Magistrate Dasneem Bausan visited the site on Saturday (15).In this case, the case was taken up for hearing on Thursday (20) in the presence of the Magistrate's Court in Muttur court.
+
+When the case was taken up for hearing, both sides were present.. The case was adjourned to July 4.
+
+◼️
 
 [Data](articles/55bbadc2.json)
+
+[Extended Data](ext_articles/55bbadc2.ext.json)
 
 ---
 
@@ -215,6 +281,18 @@ He has served as the Deputy General of the Sri Lankan Army, the Colonel Commande
 [Data](articles/6a8a09bb.json)
 
 [Extended Data](ext_articles/6a8a09bb.ext.json)
+
+---
+
+### යුද හමුදාවට නව මාණ්ඩලික ප්‍රධානීවරයෙක් පත් කරයි
+
+*2024-06-20 13:55:30* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවට-නව-මාණ්ඩලික-ප්‍රධානීවරයෙක්-පත්-කරයි/11-410334) · `si`
+
+යුද හමුදා නව මාණ්ඩලික ප්‍රධානී වශයෙන්  විජයබා රෙජිමේන්තුව නියෝජනය කරන මේජර් ජනරාල් රෝහිත අළුවිහාරේ මහතා පත්කර තිබේ.
+
+◼️
+
+[Data](articles/8ff65731.json)
 
 ---
 
@@ -2207,99 +2285,5 @@ The High Court has confirmed the case and issued an interim injunction to make n
 [Data](articles/901f1699.json)
 
 [Extended Data](ext_articles/901f1699.ext.json)
-
----
-
-### The government moves us to fasting until death - Mohammed Kamil!
-
-*2024-06-20 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186505) · `ta`
-
-Employees at Southeastern University have been on a hunger strike for 50 days, demanding better conditions from the government. Led by union leaders including Mohammed Kamil, they argue that their fight is not for luxuries but for basic necessities amidst the country's economic hardships. Despite the impact on university operations, there's little concern shown by either the government or students.
-
-🟩
-
-Southeastern University Employees Union Secretary of the Southeastern University Association (M) MMSA Secretary MM MM MMA Secretary of the Southeastern University Employees Union MM MMA has been able to keep us in a hunger strike in today's environment, which has been fighting for the last 50 days that employees in universities across the country have been fighting for the various demands of the state promised to provide us.. Mohammed said Kamil.
-
-Southeastern University Non -academic staff have launched a formal hunger strike and Satyagraha struggle today, as university staff have been struggling for the past 50 days.
-
-Southeastern University Employees Union President MRM. Tajuddin and S. Ribayutheen, MHM. Nasar has jumped.
-
-...
-
-[Data](articles/27d00e76.json)
-
-[Extended Data](ext_articles/27d00e76.ext.json)
-
----
-
-### I will create a country that is ideal for children
-
-*2024-06-20 01:34:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளுக்கு-உகந்த-நாட்டை-உருவாக்குவேன்/175-339161) · `ta`
-
-In a speech at the Presidential Scholarship event, President Ranil Wickremesinghe pledged to uplift the nation's economy within two years, ensuring no child suffers due to the crisis. He announced 6,000 high-quality learner scholarships, marking a shift from hardship to prosperity aimed at making the country the best for children within five to ten years.
-
-🟩
-
-President Ranil Wickremesinghe said that we have decided that no child in this country should be affected as a president and that I have dedicated me to recover the country from the economic crisis in two years.
-
-The Presidential Scholarship event was held yesterday at the Alari House. The President said this while addressing the event.As he further stated,
-
-Today is a very happy day for the children of this country. First, I would like to congratulate all of you for receiving this scholarship. One lakh scholarship will be provided under the scheme. 6,000 scholarships for high -quality learners. We have allocated Rs.
-
-The last 3 years have been the hardest time for all of us. We all suffered. There was no food. Students have no transportation facility to go to school. Now that is not the situation. As the President, the children of this country have decided not to allow you to suffer. Accordingly, a program to restore this country was implemented.
-
-...
-
-[Data](articles/f4798802.json)
-
-[Extended Data](ext_articles/f4798802.ext.json)
-
----
-
-### New Development Bank to provide financial assistance to the industry
-
-*2024-06-20 01:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொழிலுக்கு-நிதியுதவி-வழங்க-புதிய-அபிவிருத்தி-வங்கி/175-339160) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe announced the creation of a new development bank to support the nation's industry during the International Industrial Expo-2024 opening. Minister Ramesh Pathirana is leading efforts to revitalize the country's industrial sector, marking the largest exhibition in Sri Lanka. Despite past financial challenges, the government aims to renegotiate terms with private creditors within weeks, paving the way for economic recovery and loan repayment by 2042.
-
-🟩
-
-President Ranil Wickremesinghe said a new development bank would be established to provide financial assistance to industry in Sri Lanka.
-
-The International Interesial Expo- 2024 (International Industry Exhibition) commenced yesterday in Sri Lanka. The President said this while addressing the opening of the exhibition. As he further stated,
-
-Minister Ramesh Pathirana is paying special attention to the development of the country's industry.. It can be referred to this professional exhibition as part of its. This is the largest exhibition in the country.
-
-In the past, our country has become a bankrupt country. But in the next few weeks we will be completely free from the name we are bankrupt. The contract related to this is to be reached in the next few weeks. This makes it easier to negotiate with private creditors. So we will carry out this task in two years.
-
-...
-
-[Data](articles/4ea38763.json)
-
-[Extended Data](ext_articles/4ea38763.ext.json)
-
----
-
-### The story is not known to the story
-
-*2024-06-20 01:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்துக்குட்டிக்கு-கதையே-தெரியாது/175-339159) · `ta`
-
-Velukumar, a Kandy district parliamentarian, accuses unnamed individuals of bribery and ignorance about parliamentary procedures and government structures. He defends his use of diversified funds for public service, challenging critics to prove their allegations false. He emphasizes the importance of transparency and invites scrutiny under the Right to Information Act, asserting that only ignorant politicians would question the allocation of funds for development projects.
-
-🟩
-
-Kandy district parliamentarian Velukumar said that bribes are also calling for a diversity of funds that are ignorant of what parliamentary procedures and what the government structure is.
-
-He accused them of talking about Deal politics because of the thought of the Deal.
-
-Have put forward many accusations against me in the past. Are certain that they are fake. He has once again challenged to prove if possible.
-
-“Members of Parliament and People's Representatives. Therefore, the funds will be allocated to them in the budget to carry out the services of the people. This diverse funding is the right of a Member of Parliament. We have fought that right. Not from anyone to get paid personally. We have received the funds allocated in the field.
-
-...
-
-[Data](articles/d2a4237c.json)
-
-[Extended Data](ext_articles/d2a4237c.ext.json)
 
 ---

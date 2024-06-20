@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 09:53:49**
+As of **2024-06-20 10:05:02**
 
 ## Newspaper Stats
 
-*Scraped **31,251** Articles*
+*Scraped **31,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,914
-adalk | 2,725
+adalk | 2,727
 adaderanalk | 3,537
-tamilmirrorlk | 3,673
+tamilmirrorlk | 3,675
 dailymirrorlk | 4,733
 virakesarilk | 4,827
 adaderanasinhalalk | 5,077
@@ -26,19 +26,81 @@ adaderanasinhalalk | 5,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,246 (100.0%) of 31,251 articles have been extended.
+31,251 (100.0%) of 31,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### இளைஞன் அடித்துக்கொலை - இருவர் தலைமறைவு
+
+*2024-06-20 09:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இளைஞன்-அடித்துக்கொலை-இருவர்-தலைமறைவு/71-339165) · `ta`
+
+யாழ்ப்பாணம் - நெடுந்தீவு ஏழாம் வட்டார பகுதியில் இளைஞர் ஒருவர் கூரிய ஆயுதங்களால் தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
+
+நெடுந்தீவு 07 வட்டாரத்தைச் சமக்கீன் தேவராஜ் அருள்ராஜ் என்ற 23 வயதானவரே கொலை செய்யப்பட்டுள்ளார்.
+
+இருவருக்கிடையே காணப்பட்ட முற்பகை காரணமாக நேற்றைய தினம் இரவு மது போதையில் வாய்த்தர்க்கம் ஏற்பட்டு, அதன் பின்னர் குறித்த  கொலை இடம்பெற்றதாகவும் தெரிவிக்கப்படுகிறது.
+
+கொலையுடன் தொடர்புடையவர்கள் என சந்தேகிக்கப்படும் இருவர்  தலைமறைவாகியுள்ளதாகவும் அவர்களை கைது செய்வதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+கொலைச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை நெடுந்தீவு பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/3f173783.json)
+
+---
+
+### සිය නිවසට ගිනි තබාගෙන තමනුත් අලුවී නිවසත් අලු කළ අයෙක්
+
+*2024-06-20 09:43:59* · [`adalk`](https://www.ada.lk/breaking_news/සිය-නිවසට-ගිනි-තබාගෙන-තමනුත්-අලුවී-නිවසත්-අලු-කළ-අයෙක්/11-410329) · `si`
+
+ඇල්පිටිය  අලිකෑහේන පාර, තලාව පදේශයේ පදිංචි පුද්ගලයකු නිවසට ගිණි තබා ඔහුත් එම ගින්නෙන් පිළිස්සී   අද(20) අලුයම්කාලයදේ මරුමුවට පත්වී ඇතැයි ඇල්පිටිය පොලීසිය කියයි.
+
+මෙසේ මරුමුවට පත්වී ඇත්තේ ඇල්පිටිය අලිකෑහේන පාර තලාව පදිංචි සුජිත් සමන්ත දිසානායක නමැති හතලිස් අට හැවිරිදි පෙදරේරුවෙකි.
+
+නිවසේ ඇතිවූ පවුල් ආරවුලක් හේතුවෙන් අධික ලෙස බීමත්ව සිටි ගෙහිමියා  ගෙට ගිනි තබාගෙන ඔහුද ගින්නට හසුවී පිලිස්සී මිය ගොස් ඇති බවත් නිවස ගිනි ගන්නා අවස්ථාවේදී එහි ඔහු හැර කිසිවෙකුත් සිට නැති බවත් පොලීසිය කියයි.
+
+ඔහුගේ මරණ පරීක්ෂණය අද (20) ඇල්පිටිය මූලික රෝහලේදී පැවැත්වීමට නියමිතව තිබිණ.
+
+◼️
+
+[Data](articles/29b0493a.json)
+
+---
+
+### காலநிலை தொடர்பான முன்னறிவிப்பு
+
+*2024-06-20 09:40:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-தொடர்பான-முன்னறிவிப்பு/175-339164) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களில் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+
+◼️
+
+[Data](articles/adce8cac.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-06-20 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197943) · `si`
+
+The Parliamentary Council has started its session, focusing on legislative discussions and policy decisions.
+
+🟩
 
 ◼️
 
 [Data](articles/ff91b251.json)
+
+[Extended Data](ext_articles/ff91b251.ext.json)
 
 ---
 
@@ -58,21 +120,29 @@ Regarding the recent trade union action by certain prison officers, Dissanayake 
 
 [Data](articles/bd55a410.json)
 
+[Extended Data](ext_articles/bd55a410.ext.json)
+
 ---
 
-### එංගලන්තයට ජය
+### Win England
 
 *2024-06-20 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197942) · `si`
 
-එංගලන්තය සහ සම-සත්කාරක බටහිර ඉන්දීය කොදෙව් අතර පැවති 20යි 20 ලෝක කුසලාන තරගාවලියේ "සුපර් 8" තරගයෙන් පහසු ජයක් වාර්තා කිරීමට එංගලන්තය සමත් විය.
+In the 20th World Cup Super 8, England triumphed over the West Indies. The West Indies made 180 runs losing 4 wickets. England responded strongly, scoring 181 runs in 17.2 overs to secure victory.
 
-ශාන්ත ලුසියා හි පැවති එම තරගයෙන් පළමුව පන්දුවට පහරදුන් කොදෙව්වෝ සිය ඉනිම සඳහා කඩුලු 4ක් දැවී ලකුණු 180ක් රැස් කළේය.
+🟩
 
-ඊට පිළිතුරු ලෙස එංගලන්ත කණ්ඩායම පන්දු ඕවර 17.2කදී ජයග්‍රහණය සඳහා අවශ්‍ය ලකුණු 181 රැස්කළේය.
+England beat England to be able to win the 20th World Cup Super 8 "Super 8".
+
+The West Indies scored 180 runs for the loss of 4 wickets for the loss of 4 wickets.
+
+In response, England team scored 181 runs for winning 17.2 overs.
 
 ◼️
 
 [Data](articles/b2200588.json)
+
+[Extended Data](ext_articles/b2200588.ext.json)
 
 ---
 
@@ -90,17 +160,25 @@ Stalin pointed out that currently, 15 Indian fishermen and 162 fishing boats are
 
 [Data](articles/5b7d5eea.json)
 
+[Extended Data](ext_articles/5b7d5eea.ext.json)
+
 ---
 
-### දරුවන්ට යළි දුක් විඳීමට නොදෙන බව ජනපති කියයි
+### President says children will not suffer again
 
 *2024-06-20 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197941) · `si`
 
-දරුවන් වෙනුවෙන් ඉදිරි වසර 5 - 10 තුළ වඩා හොඳ රටක් නිර්මාණය කර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe vows to build a better future for children within five years, ensuring they won't endure hardships again.
+
+🟩
+
+President Ranil Wickremesinghe says that a better country will be created in the next 5-0 years for children.
 
 ◼️
 
 [Data](articles/89a998b2.json)
+
+[Extended Data](ext_articles/89a998b2.ext.json)
 
 ---
 
@@ -1554,6 +1632,24 @@ The diplomats said the total at the morgue in Al-Muaisem, one of the biggest in 
 
 ---
 
+### අක්ෂි රෝගයෙන් පෙළෙන හාමුදුරුවෝ වගා කළ නාරං වගාවේ අස්වැන්න හොරු කඩලා
+
+*2024-06-19 19:22:30* · [`adalk`](https://www.ada.lk/breaking_news/අක්ෂි-රෝගයෙන්-පෙළෙන-හාමුදුරුවෝ-වගා-කළ-නාරං-වගාවේ-අස්වැන්න-හොරු-කඩලා/11-410323) · `si`
+
+දෑස් අන්ධභාවයෙන් යුත් තමන් වහන්සේ දුක් මහන්සි වී වගා කරන ලද නාරං වගාවේ අස්වැන්න සොරුන් විසින් කඩා ගෙන ගොස් ඇතැයි නාවලපිටිය, නව තිස්පනේ, හුණුගල්ඔය, රජවත්ත ශ්‍රී ඥානෝදය බෞද්ධ මධ්‍යස්ථානයේ විහාරාධිකාරී පුජ්‍ය හපුවල විමලානන්ද හිමියන් පවසයි.
+
+තමන් වහන්සේ පන්සල් භූමියේ වගා කොට තිබු නාරං වගාවේ අස්වැන්න කිලෝ හැත්තෑවක් පමණ ප්‍රමාණයත් මෙසේ සොරුන් විසින් රැගෙන ගොස් ඇති බවත්, මේ වනවිට වෙළෙඳපොළේ  නාරං කිලෝවක් රුපියල් හයසියයක පමණ මුදලකට අළෙවි වන බවද උන් වහන්සේ කීය.
+
+තමා වසර 20ක පමණ කාලයක සිට දරුණු ගණයේ අක්ෂි රෝගයකින් පෙළෙන බවත්, එය ස්නායු දුර්වලවීමකින් හට ගන්නා විරල  ගණයේ අක්ෂි ආබාධයක් බවත්, මෙතෙක් ස්ථීර ප්‍රතිකාරයක් ඊට නොමැති බව වෛද්‍යවරුන්ගේ මතය වී ඇතැයි  බවත් විමලානන්ද හිමියන් පැවැසීය.
+
+දෑස් නොපෙනුනත් තමන් වහන්සේ පන්සල් භූමියේ එළවළු, පළතුරු වැනි වගාවන් සිදු කොට ඇති බවත්, කෘෂිකර්ම දෙපාර්තුමේන්තුවේ නිර්දේශීත නාරං වගාවක් පන්සල් භූමියේ සිදු කරගෙන යන බවත්, එම නාරං වගාවේ අස්වැන්න මෙසේ සොරුන් රැගෙන ගොස් ඇති බවද  විමලානන්ද හිමියන් වැඩිදුරටත් කීය.
+
+◼️
+
+[Data](articles/a63993d9.json)
+
+---
+
 ### Children create a better country
 
 *2024-06-19 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-වඩාත්-හොඳ-රටක්-නිර්මාණය-කර-දෙනවා/11-410322) · `si`
@@ -2199,111 +2295,5 @@ He was speaking at the opening ceremony of the Panadura office at the UNP.
 [Data](articles/ef51436b.json)
 
 [Extended Data](ext_articles/ef51436b.ext.json)
-
----
-
-### The examination of the students of Zahira College, Trincomalee will be released in a few days - Minister of Education
-
-*2024-06-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186465) · `ta`
-
-The Minister of Education announced that the GCE Advanced Level Examination results for Zahira College, Trincomalee, will be released soon. Despite initial expectations for quicker publication, the Commissioner General of Examinations is handling necessary procedures. This update came in response to queries from the Opposition Leader about delayed results and concerns over fairness.
-
-🟩
-
-The GCE Advanced Level Examination of the Trincomalee Zahira College students will be released in a few days. Minister of Education Susil Premajayantha said that the Commissioner General of Examinations is carrying out the relevant measures.
-
-He was responding to the intermittent question raised by Opposition Leader Sajith Premadasa on Wednesday (19) in Parliament.
-
-Sahira College Students Trincomalee have been suspended for 70 high -end exam results. Two weeks ago, you said that the exam results will be released within a week.. But the results have not been released so far. He said that the students should not be injustice and take steps to release their results quickly.
-
-If the purdah is wearing inside the exam hall, both ears should be visible. There are many reasons for that.
-
-I don't report it in this place. There are also areas where these matters are taking place. I am not going to comment on that now.
-
-...
-
-[Data](articles/99aa9483.json)
-
-[Extended Data](ext_articles/99aa9483.ext.json)
-
----
-
-### Sri Lankan authorities should stop the culture of armeding laws to suppress the expression
-
-*2024-06-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186475) · `ta`
-
-Amnesty International urges Sri Lanka to halt the practice of enacting laws to stifle free speech. The organization supports the Colombo Fort Magistrate's Court decision to drop charges against a comedian accused of insulting Buddhism. It emphasizes that freedom of expression should encompass all ideas, even those deemed offensive. Authorities are called upon to revise policies to prevent unnecessary censorship and protect free speech.
-
-🟩
-
-The Amnesty International Division has appealed to Sri Lankan authorities to stop the culture of armeding laws to suppress expression.
-
-We welcome the decision of the Colombo Fort Magistrate's Court to release him from the case against Natasha opponent on the allegation that the comments made during the comedy show were found to be insulting Buddhism.
-
-We reiterate that the right to conceptuality applies to all ideas, including deeply offended ideas.
-
-Sri Lankan authorities must ensure that all the policies and procedures developed for the struggle against the disgust, and the unreasonable restrictions can be avoided.
-
-◼️
-
-[Data](articles/ab0cb5b0.json)
-
-[Extended Data](ext_articles/ab0cb5b0.ext.json)
-
----
-
-### ௧௧. $ 3 billion is foreign exchange from those who are engaged in foreign employment - man
-
-*2024-06-19 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186471) · `ta`
-
-In 2023, 289,287 Sri Lankans sought overseas employment, sending $5.97 billion back home. This figure includes government-assisted placements in countries like South Korea, Japan, and Israel, as well as private agency arrangements in Saudi Arabia, Kuwait, and others. Despite political challenges, remittances from foreign employment reached $11.3 billion since the current administration began, highlighting the significant economic contribution of migrant workers.
-
-🟩
-
-In 2023, 2 lakhs 89 thousand 287 people went for employment overseas. They have sent US $ 5970 million to the country, said the Minister of Industry and Foreign Placement, Manusha Nanayakkara.
-
-The Minister said this while responding to a question raised by Ratnasekara MP at the time of the oral response in Parliament on Wednesday (19).
-
-Sri Lankans have been sent to South Korea, Japan and Israel through the Foreign Employment Bureau.
-
-Sri Lankans have been sent to Saudi Arabia, Kuwait, Jordan, Singapore, Japan, United Kingdom, Cyprus, Malaysia, Evening Island, South Korea and Romania Serbia through foreign employment private agency.
-
-In 2023, 6377 to South Korea, 601 to Japan, 828 to Israel, 7806 were sent by the government.
-
-Saudi Arabia has been informed by 663 people by foreign employment private agency in 2023. The number of people who went to foreign employment without the intervention of the government that year was 2 lakhs 89 thousand 287.
-
-...
-
-[Data](articles/4550de31.json)
-
-[Extended Data](ext_articles/4550de31.ext.json)
-
----
-
-### Social activist Rajiv Khan comments to ignore the Sinhalese leaders who do not accept the demands of the Tamil people
-
-*2024-06-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186467) · `ta`
-
-Rajiv Khan urges voters to boycott Sinhalese leaders unresponsive to Tamil demands, emphasizing the importance of supporting parties committed to addressing Tamil ethnic issues. He highlights the need for political devolution, equal rights across religions, and accountability for past conflicts, expressing confidence in the Northeastern People's Struggle Cooperation Movement's ability to lead change.
-
-🟩
-
-One of the most important ways in this election is the thought of ignoring the Sinhalese leaders who do not accept our demands.Social political activist Rajkumar Rajiv Khan said.
-
-He was speaking at a press conference on the establishment of the leading of the people's struggle.
-
-I extend the support of the Northeastern People's Struggle Cooperation Movement to the People's Struggle Front.
-
-For a long time, the Tamils ​​have been in a state of despair, losing their lives and have finally lost their lives by talking to the Sinhalese chauvinist states, over 25 years of resolution of their national ethnic problem.
-
-One of the most important ways in this election is the thought of ignoring the election that they bring to the Sinhalese leaders who do not accept our demands.
-
-This is because many are preparing their political manifesto with the fact that the Northeastern people should be treated as a third -party ethnic group within the unity of the main political demands of the Tamil people.
-
-...
-
-[Data](articles/b2095300.json)
-
-[Extended Data](ext_articles/b2095300.ext.json)
 
 ---

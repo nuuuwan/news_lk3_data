@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 08:20:35**
+As of **2024-06-20 08:34:56**
 
 ## Newspaper Stats
 
-*Scraped **31,241** Articles*
+*Scraped **31,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,534
 tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,072
+adaderanasinhalalk | 5,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,238 (100.0%) of 31,241 articles have been extended.
+31,241 (100.0%) of 31,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත බන්ධනාගාර නිලධාරීන්ට වැඩ වරදින ලකුණු
+
+*2024-06-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197939) · `si`
+
+වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන නිලධාරීන්ට එරෙහිව දැඩි විනය පියවර ගන්නා බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+
+එහි මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා සඳහන් කළේ, බන්ධනාගාර නිලධාරීන්ට වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරතවීමට කිසිදු නීත්‍යානුකූල අයිතියක් නොමැති බවය.
+
+එවැනි ක්‍රියාමාර්ග ගන්නා නිලධාරීන් සම්බන්ධයෙන් දැඩි නීත්‍යානුකුඅල පියවර ගන්නා බව ද ගාමිණි බී .දිසානායක මහතා සඳහන් කළේය.
+
+මේ අතර පසුගියදා වෘත්තීය ක්‍රියාමාර්ගවල නිරතව සිටි බන්ධනාගාර නිලධාරීන් සම්බන්ධයෙන් ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ද බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා මෙහිදී අදහස් පළ කළේය.
+
+"ඉතා සුළු නිලධාරීන් පිරිසක් අනෙක් අයව බියවද්දා ගෙන ඇති බව අපිට වාර්තා වුණා. කොළඹ මහෙස්ත්‍රාත්වරයා නියෝගයක් කළා විනයානුකූලව කටයුතු කරන්න කියලා. ජ්‍යේෂ්ඨ නිලධාරියෙක් යොදවලා ඒ ගැන විනයානුකූලව කටයුතු කරනවා. ඉදිරියේ දී අධිකරණයට මේ ගැන වාර්තා කරන්න බලාපොරොත්තු වෙනවා."
+
+◼️
+
+[Data](articles/d0362912.json)
+
+---
 
 ### Special buses and train services to pilgrims in Poson
 
@@ -2329,23 +2349,5 @@ The visit will further inspire the merger projects and other cooperation that wi
 [Data](articles/7b956c1f.json)
 
 [Extended Data](ext_articles/7b956c1f.ext.json)
-
----
-
-### Several students injured as school bus collides head-on with private bus
-
-*2024-06-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99968/several-students-injured-as-school-bus-collides-head-on-with-private-bus) · `en`
-
-Around 20 school children have reportedly been wounded and hospitalised following a head-on collision involving a “Sisu Seriya” school bus and a private bus at Ranala in Kaduwela.
-
-The “Sisu Seriya” bus, transporting a group of school children from Colombo to Labugamuwa, has collided with a private passenger transport bus plying from Embilipitiya to Colombo this afternoon (19).
-
-Police said the injured passengers have been admitted to the Nawagamuwa Hospital.
-
-◼️
-
-[Data](articles/a4ec2e1f.json)
-
-[Extended Data](ext_articles/a4ec2e1f.ext.json)
 
 ---

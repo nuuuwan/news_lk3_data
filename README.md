@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 10:34:46**
+As of **2024-06-20 10:52:56**
 
 ## Newspaper Stats
 
-*Scraped **31,258** Articles*
+*Scraped **31,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,98 @@ economynextcom | 1,804
 dailyftlk | 1,914
 adalk | 2,727
 adaderanalk | 3,537
-tamilmirrorlk | 3,676
+tamilmirrorlk | 3,677
 dailymirrorlk | 4,733
-virakesarilk | 4,827
+virakesarilk | 4,834
 adaderanasinhalalk | 5,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,256 (100.0%) of 31,258 articles have been extended.
+31,258 (100.0%) of 31,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### சற்றுமுன் இலங்கை வந்தார் இந்திய வெளிவிவகார அமைச்சர்
+### இலங்கை வந்தார் இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்ஷங்கர்
 
-*2024-06-20 10:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-இலங்கை-வந்தார்-இந்திய-வெளிவிவகார-அமைச்சர்/175-339166) · `ta`
+*2024-06-20 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/186518) · `ta`
+
+இந்த விஜயத்தின்போது வெளிவிவகார அமைச்சர் எஸ். ஜெய்ஷங்கர், இருதரப்பு பங்குடைமையின் பரந்தளவான விடயங்கள் குறித்து இலங்கை தலைமைத்துவத்துடன் சந்திப்புகளை மேற்கொள்ளவுள்ளார்.
+
+இந்தியப் பிரதமர் மோடியின் புதிய அரசாங்கத்தின்கீழ் வெளிவிவகார அமைச்சர் மேற்கொள்ளும் முதலாவது இருதரப்பு விஜயம் இதுவாகும்.
+
+இந்தியாவின் அயல்நாடுகளுக்கு முன்னுரிமை கொள்கையினை மீள வலியுறுத்தும் இந்த விஜயமானது, கடல்மார்க்கமாக மிகவும் நெருக்கமான அயல் நாடாகவும் காலங்காலமாக நல்லுறவைக்கொண்ட நண்பனாகவும் உள்ள இலங்கைக்கு இந்தியாவினது தொடர்ச்சியான அர்ப்பணிப்பினை சுட்டிக்காட்டுகின்றது.
+
+அத்துடன், இணைப்புத் திட்டங்கள் மற்றும் பல்வேறு துறைகளிலும் பரஸ்பர நன்மையளிக்கும் ஏனைய ஒத்துழைப்புகள் ஆகியவற்றுக்கும் இந்த விஜயம் மேலும் உத்வேகமளிக்கும்.
+
+இந்தியப் பிரதமர் நரேந்திர மோடியின் விசேட செய்தியுடன் இலங்கை வந்துள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ் . ஜெய்சங்கர், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்திக்கவுள்ளார்.
+
+...
+
+[Data](articles/fe97078b.json)
+
+---
+
+### நகர்ப்புற சதுப்பு நிலங்களின் தேவை பாதுகாக்கப்பட்டு நிர்வகிக்கப்பட முகாமைத்துவம் அவசியம் - சர்வதேச சதுப்பு நில பூங்கா பிரதிநிதிகள்
+
+*2024-06-20 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186520) · `ta`
+
+சர்வதேச சதுப்பு நில பூங்காவின் பிரதிநிதிகள் நகர்ப்புற சதுப்பு நிலங்களின் தேவை பாதுகாக்கப்பட்டு நிர்வகிக்கப்பட முகாமைத்துவம் செய்யப்பட வேண்டும் என்று சுட்டிக்காட்டுகின்றனர்.
+
+பத்தரமுல்லையில் உள்ள வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்று வரும் சர்வதேச சதுப்பு நிலங்கள் ஒன்றியத்தின் முதலாவது அவுஸ்திரேலிய நியூசிலாந்து மற்றும் ஆசிய மாநாட்டில் அவர்கள் இதனை வலியுறுத்தினர்.
+
+சுற்றுச்சூழல் சுற்றுலாவை மேம்படுத்தும் நோக்கில் இந்த மாநாடு ஏற்பாடு செய்யப்பட்டுள்ளது. நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழ் உள்ள காணி அபிவிருத்திக் கூட்டுத்தாபனத்தினால் இது நடத்தப்படுகிறது.
+
+உலகெங்கிலும் உள்ள 15 நாடுகளில் இருந்து கிட்டத்தட்ட 100 சதுப்பு நில பூங்கா பிரதிநிதிகள் மாநாட்டில் கலந்து கொண்டனர். இந்தக் குழுவும் இன்று காலை தலங்கமவைச் சுற்றிப் பறவைகள் கண்காணிப்புச் சுற்றுலாவில் இணைந்து கொண்டது.
+
+உலகின் முதல் நகர்ப்புற சதுப்பு நில பெருநகரமான கொழும்பின் சதுப்பு நிலங்களை தற்போது சதுப்பு நில பிரதிநிதிகள் கண்காணித்து வருகின்றனர்.
+
+...
+
+[Data](articles/97039f67.json)
+
+---
+
+### எலிக்காய்ச்சலினால் அதிகளவு பெண்கள் பாதிப்பு
+
+*2024-06-20 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186517) · `ta`
+
+இலங்கையில் லெப்டோஸ்பிரோசிஸ் (Leptospirosis) எனப்படும் எலிக்காய்ச்சலினால் அதிகளவு பெண்கள் பாதிக்கப்படுவதாக சுகாதார அதிகாரிகள் அடையாளம் கண்டுள்ளனர்.
+
+விவசாயம், கால்நடை வளர்ப்பு மற்றும் இரத்தினக் கல் அகழ்வு போன்ற தொழில்களில் ஈடுப்படும் ஆண்களை எலிக்காய்ச்சல் பீடிக்கின்றது.
+
+இந்தக் காய்ச்சலினால் கடந்த ஆண்டு 9000 பேர் பாதிக்கபட்டிருந்தனர். இவ் ஆண்டு இதுவரை 5,000  பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+பாதிக்கப்பட்டவர்கள் பெரும்பாலும் இரத்தினபுரி, கேகாலை, காலி, களுத்துறை, மொனராகலை மற்றும் குருநாகல் போன்ற பிரதேசங்களைச் சேர்ந்தவர்களாவர்.
+
+எலிக்காய்ச்சல் ( Leptospirosis) என்பது ஒருவகை பக்டீரியாவின் மூலம் பரவுகிறது. எலிக்காய்ச்சலைப் பரப்பும் பக்டீரியாவானது, பாதிக்கப்பட்ட எலியின் சிறுநீரகத்தில் வாழ்ந்து கொண்டிருக்கும். எலியின் சிறுநீர், மலத்தில் இந்த பக்டீரியா வெளியேறும். எலியின் கழிவுகள் கலந்த தண்ணீர் அல்லது உணவை நாம் உட்கொள்ளும்போது எலிக்காய்ச்சல் ஏற்படும்.
+
+...
+
+[Data](articles/6840b01a.json)
+
+---
+
+### முல்லைத்தீவு வான் பரப்பில் அதிர்ச்சியை ஏற்படுத்திய அதிசய உருவம்
+
+*2024-06-20 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186524) · `ta`
+
+முல்லைத்தீவு வான் பரப்பில் அதிசய உருவம் இரண்டு செவ்வாய்க்கிழமை (18) தோன்றியிருந்ததையடுத்து மக்கள் மத்தியில் அதிர்ச்சியை  ஏற்படுத்தியுள்ளது.
+
+தற்பொழுது நிலவி வரும் சீரற்ற காலநிலையினையடுத்து  முல்லைத்தீவு  மாவட்டத்தில்  செவ்வாய்க்கிழமை இரவு வேளை  வானில்  தொடர்ச்சியாக நீல நிறமாக  ஒரு உருவம் ஔிர்ந்து கொண்டிருக்க அதனை  சுற்றி  வேறு நிற ஔி உருவம்  விட்டு விட்டு ஔிர்ந்து  கொண்டிருந்தது.
+
+◼️
+
+[Data](articles/4fe78311.json)
+
+---
+
+### இலங்கையை வந்தடைந்தார் ஜெய்சங்கர்
+
+*2024-06-20 10:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-வந்தடைந்தார்-ஜெய்சங்கர்/175-339166) · `ta`
 
 இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இன்று (20) காலை இலங்கை வந்தடைந்தார்.
 
@@ -44,25 +118,71 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/ec4b25f6.json)
+[Data](articles/da7e0bc0.json)
 
 ---
 
-### ජීවිතය පරදුවට තබා අනතුරක් වැළැක්වූ අභීත තරුණයා
+### The Indian Foreign Minister came to Sri Lanka shortly
+
+*2024-06-20 10:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-இலங்கை-வந்தார்-இந்திய-வெளிவிவகார-அமைச்சர்/175-339166) · `ta`
+
+Jaishankar's visit marks his first trip to Sri Lanka since Modi became India's PM, paving the way for Modi's upcoming official visit.
+
+🟩
+
+Indian Foreign Minister. Jaishankar arrived in Sri Lanka this morning (20).
+
+This is the first visit to Sri Lanka after Modi took office as Prime Minister of India.
+
+Indian Prime Minister Narendra Modi plans to make an official visit to Sri Lanka soon. Remble
+
+◼️
+
+[Data](articles/ec4b25f6.json)
+
+[Extended Data](ext_articles/ec4b25f6.ext.json)
+
+---
+
+### The brave young man who risked his life in danger
 
 *2024-06-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197945) · `si`
 
-සියඹලාණ්ඩුව නගරයේ දී ලොරි රථයක රියදුරා විසින් එම ලොරි රථයේ අත් තිරිංග
+In Siyambalanduwa, a young man from a nearby shop saw a runaway lorry and bravely stopped it, preventing potential disaster and ensuring safety.
 
-රියදුරු බැස ගොස් සුළු මොහොතකින් එම ලොරි රථය මාර්ගයේ ධාවනය වී ඇති අතර එම අවස්ථාවේ දී සියඹලාණ්ඩුව නගරයේ කාර්ය බහුල අවස්ථාවක් ද විය.
+🟩
 
-රියදුරු නොමැතිව ධාවනය වන එම ලොරි රථය දුටු අසල වෙළෙඳසැළක සිටි තරුණයෙක් වහාම ක්‍රියාත්මක වී දිවගොස් ධාවනය වන ලොරි රථයට ඇතුළු වි ලොරි රථය නවතා ගැනීමට කටයුතු කර ඇත.
+The driver of a lorry in Siyambalanduwa by the driver of a lorry
 
-එම නිසා සිදු වන්නට ගිය විශාල අනතුර වැළකී ඇති අතර මෙම සිදුවීම අසල සවිකර තිබූ ආරක්ෂිත කැමරාවක සටහන් වී තිබිණි.
+The driver went down and the lorry was on the road and was a busy opportunity in Siyambalanduwa at the time.
+
+A young man who was in a nearby shop who was running without the driver, has taken immediate action and stopped the lorry, which was running into the lorry.
+
+As a result, the large casualties that took place was avoided and a safe camera was mounted near the incident.
 
 ◼️
 
 [Data](articles/b89eade4.json)
+
+[Extended Data](ext_articles/b89eade4.ext.json)
+
+---
+
+### போதைப்பொருளை தடை செய்ய  நடவடிக்கை எடுக்குமாறு மல்வத்து அஸ்கிரி உபய மகா விகாரையின் மகாநாயக்கர் ஜனாதிபதிக்கு கடிதம்
+
+*2024-06-20 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/186515) · `ta`
+
+எதிர்கால சந்ததியினரை  போதைப்பொருளுக்கு தியாகம் செய்யும் தீங்கான செயற்பாடுகளை முற்றாக தடை செய்ய தேவையான நடவடிக்கைகளை எடுக்குமாறு மல்வத்து அஸ்கிரி உபய மகா விகாரையின் மகாநாயக்கர் சுவாமிந்திர தெனம ஜனாதிபதிக்கு கடிதம் ஒன்றை அனுப்பியுள்ளார்.
+
+எதிர்கால  சந்ததியினரை  போதை போன்ற விஷமருந்துகளுக்கு பலியாக்கும் தீங்கான பழக்க வழக்கங்களை முற்றாக தடை செய்ய தேவையான நடவடிக்கைகளை எடுக்குமாறு  மல்வத்து மற்றும்  அஸ்கிரிய விஹாரைகளின் பீடாதிபதிகள்  கூட்டாக  ஜனாதிபதிக்கு கடிதம் ஒன்றை அனுப்பியுள்ளனர்.
+
+புதிய மதுபானக் கடைகளைத் திறப்பதற்கு அனுமதிப்பத்திரம் வழங்கப்படுவதால் ஏற்படும் சமூகச் சீரழிவைக் கருத்தில் கொண்டு, அவ்வாறான  சீர்கேடுகள்  ஏற்படுவதற்கு முன்னர் இந்த நடவடிக்கையை நிறுத்த வேண்டும் எனவும் ஜனாதிபதிக்கு அவர்கள் அனுப்பியுள்ள கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+மல்வத்து விகாரையின்  பீடாதிபதி   ஸ்ரீ சித்தார்த்த சுமங்கல தேரர் மற்றும்  அஸ்கிரி பீடத்தின்  பீடாதிபதி  வரக்காகொட  ஸ்ரீ ஞானரதன தேரர்  ஆகியோரின் கையொப்பத்துடன் ஜனாதிபதிக்கு அனுப்பப்பட்டுள்ள கடிதத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது.
+
+...
+
+[Data](articles/f6f18c42.json)
 
 ---
 
@@ -222,6 +342,24 @@ In response, England team scored 181 runs for winning 17.2 overs.
 
 ---
 
+### சந்தேகத்தை ஏற்படுத்தியுள்ள விடத்தல் தீவு கண்டல் தாவர காணி விடுவிப்பு : வலுக்கும் எதிர்ப்பு
+
+*2024-06-20 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186514) · `ta`
+
+வனஜீவராசிகள் மற்றும் வன வளங்கள் அமைச்சர் பவித்ரா தேவி வன்னியாராச்சிக்கு வழங்கப்பட்ட அதிகாரத்துக்கு அமைய   மன்னார் மாவட்டம் விடத்தல் தீவு இயற்கை சரணாலயம் என குறிப்பிடப்பட்ட பகுதி நிறைவுக்கு வருவதாக கடந்த மே மாதம் 6 ஆம் திகதி  விசேட வர்த்தமானி அறிவித்தல் ஒன்று வெளியிடப்பட்டிருந்தது.
+
+இவ்வாறு விடத்தல் தீவு பகுதியில் வனவள திணைக்களத்திற்கு சொந்தமான காணிகள்  கடல்சார் பூங்கா/கடல் வேளண்மைக்கு  விடுவிக்கப்படுவதாக வர்த்தமானி அறிவிப்பின் ஊடாக அறிவிக்கப்பட்டிருந்த நிலையில் குறித்த காணி விடுவிப்பு தொடர்பில் பல்வேறு சர்ச்சைகள் எழுந்துள்ளது.
+
+குறிப்பாக, கடந்த வாரம் இடம் பெற்ற மன்னார் மாவட்ட அபிவிருத்தி குழு கூட்டத்தின் போது குறித்த காணி விடுவிக்கப்பட்டமை தொடர்பில் பல்வேறு வாதப்பிரதிவாதங்கள் இடம்பெற்றன.
+
+அபிவிருத்தி என்ற பெயரில் இயற்கையான கண்டல் காடுகளை அழித்து மீன்பிடி நடவடிக்கைகளை தடுத்து அமைக்கப்படும் கடல்சார் பூங்காவிற்கு அனுமதி வழங்க முடியாது என தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/85a3d4ba.json)
+
+---
+
 ### Tamil Nadu CM urges Centre for release of fishermen from Sri Lankan custody
 
 *2024-06-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99980/-tamil-nadu-cm-urges-centre-for-release-of-fishermen-from-sri-lankan-custody) · `en`
@@ -277,6 +415,22 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/c5254778.json)
 
 [Extended Data](ext_articles/c5254778.ext.json)
+
+---
+
+### யாழ். நெடுந்தீவில் இரு குழுக்களுக்கு இடையே மோதல் ; ஒருவர் உயிரிழப்பு!
+
+*2024-06-20 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186513) · `ta`
+
+யாழ்ப்பாணம் நெடுந்தீவு பகுதியில் இன்று வியாழக்கிழமை (20) இரு குழுக்களுக்கு இடையே ஏற்பட்ட மோதலில்  ஒருவர் உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணம் நெடுந்தீவு பகுதியில் நேற்று இரவு இரு குழுக்களுக்கு இடையே தாய்த்தர்க்கம் ஏற்பட்டு குறித்த சம்பவத்தை தொடர்ந்து இரு குழுக்களுக்கு இடையே    இன்றையதினம் அதிகாலை  ஒரு மணியளவில் ஏற்பட்ட மோதலில்  ஒருவர் உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவரின் சடலம் நெடுந்தீவு வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளதுடன் சம்பவம் தொடர்பில் நெடுந்தீவு பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/eb25c1e7.json)
 
 ---
 
@@ -2117,199 +2271,5 @@ In this case, the people of the area have requested the Department of Wildlife t
 [Data](articles/8bbb791c.json)
 
 [Extended Data](ext_articles/8bbb791c.ext.json)
-
----
-
-### The Constitutional Council should act responsibly - Justice Minister
-
-*2024-06-19 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186477) · `ta`
-
-Justice Minister Vijayadasa Rajapakse urges swift action from the Constituent Assembly to prevent a looming conflict between the legislative and judicial branches, highlighting the importance of resolving issues promptly to maintain democracy. He expresses concern over the potential closure of the High Court due to the Supreme Court's interim injunction on appointing new judges, emphasizing the need for the Constitutional Council to intervene and resolve the matter swiftly to avoid further complications.
-
-🟩
-
-The ban on the High Court will result in the closure of the High Court after the judges retire.
-
-Justice Minister Vijayadasa Rajapakse, the Chairman of the Constituent Assembly, urged Speaker Mahinda Yapa Abeywardena, the head of the Constituent Assembly, that the Constituent Assembly should pay a firm resolution before the emergence of a massive conflict between the legislative sector and the judiciary.
-
-Democracy in the country is protected by the activities of the sectors.
-
-The people of the country are looking for their problems because they are not resolved by the Lord. The cases of all who go to the court are important to him.
-
-The Supreme Court has issued an interim injunction to the appointment of the High Court judges other than the Chief Justice.
-
-I agree with the fact that the current judges will close the High Court after the retirement of the current judges without issuing new appointments.
-
-...
-
-[Data](articles/87f07db5.json)
-
-[Extended Data](ext_articles/87f07db5.ext.json)
-
----
-
-### Resignation with central bank's top officials: members of opposition parties
-
-*2024-06-19 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186449) · `ta`
-
-Opposition leaders criticize the Central Bank for increasing salaries amid national bankruptcy, calling for resignations. A presidential committee confirms the salary hike, sparking debate in Parliament. The Central Bank Act ensures its independence, allowing such decisions despite economic struggles and protests from the opposition.
-
-🟩
-
-The departmental committee appointed by the President has proved the allegation that the Central Bank's servants' salaries have been increased.
-
-Lakshman Kiriella, the prime minister of the opposition parties, said that the central bank should resign with the top officials.
-
-He was speaking at the issue of order during the session held in Parliament on Wednesday (19).
-
-We first revealed that the Central Bank's salaries were increased by 75 per cent when the country was bankrupt. The government was watching the sky.
-
-Parliament has the financial power of the country. Parliament should allow the salary increase of the Central Bank.
-
-Opposition leader Sajith Premadasa, who was protesting, has increased the salaries of central bank officials as the country's service sector has been struggling.
-
-The Central Bank Act was enacted for the central bank to act independently without any political interference.
-
-...
-
-[Data](articles/2521ed87.json)
-
-[Extended Data](ext_articles/2521ed87.ext.json)
-
----
-
-### Central Bank Employees Employees' Provident Fund should be revised with an increase in interest - Departmental Committee recommendation
-
-*2024-06-19 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186436) · `ta`
-
-A departmental committee recommends revising the Central Bank Employees' Provident Fund with higher interest rates due to increased salaries for both high and low-ranking employees, as per a joint agreement. The chairman of the State Finance Committee suggests focusing more on the country's economy during salary hikes. The committee's report, submitted to Parliament, highlights concerns over the timing and impact of the salary increases, causing significant controversy. Recommendations include suspending the latest salary increase and paying more attention to the national economy during such decisions.
-
-🟩
-
-The central bank's high and lower level servants' salaries have increased in the same position in accordance with the accepted joint agreement.
-
-Dr. Harsha de Silva, Chairman of the State Finance Committee, said that the Central Bank should have focused more on the economic situation of the country.
-
-Speaking to the House on Wednesday (19) in Parliament, the State Finance Committee's report on the report submitted by the President on the Central Bank's salary increase.
-
-The Central Bank's salary issue has caused massive controversy in social structure.. Arjuna Herath, Indrajit Kumaraswamy, Sudarma Karunaratne, Nihal Fonseka, Anushka Wijesinghe and KVC. Dilrukshi is the co -members of the group.
-
-The committee has submitted a report to the State Finance Committee, pointing out that it is not enough time to investigate them.
-
-The Central Bank Management Assistant and Office Assistants are involved in the quality of the public service sector.
-
-...
-
-[Data](articles/bd83212e.json)
-
-[Extended Data](ext_articles/bd83212e.ext.json)
-
----
-
-### Groups who receive relief tax on proposed rent income tax
-
-*2024-06-19 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197926) · `si`
-
-Dr. Ranjith Siyambalapitiya announced a proposed 10% increase in tax for wealthier individuals, emphasizing it won't affect the general public. He discussed the tax revision during a debate on casino amendments, highlighting that 10% of collected taxes would benefit all citizens. The Minister noted the government's decision to allocate 60% of casino revenues to state funds, contrasting it with the previous practice of generating only Rs. 50 million annually. This move aims to boost government revenue and discourage certain businesses, making Sri Lanka one of the top countries in global casino taxation.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya, State Minister of Government, Hon.
-
-He also said that the tax is only 10% higher wealthy.
-
-The Minister emphasizes that the general public should not be inactive fear of this tax.
-
-He was speaking at the debate on the orders regarding the tax revision to the casino amendments today (19). The Minister pointed out that the taxes charged from 10% of the taxes will be spent on the needs of the total number of people.
-
-Meanwhile, the Minister said that the casinos are due in the case of casinos under the present administration. Accordingly, the government has passed 60% of the turnover of a casino to the government revenue. The Minister pointed out that the previous casino halls were only revenue to the annual renewal of Rs. 50 million in casinos.
-
-...
-
-[Data](articles/17b624f1.json)
-
-[Extended Data](ext_articles/17b624f1.ext.json)
-
----
-
-### Bribery Commission launches probe into another complaint against Keheliya
-
-*2024-06-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99970/bribery-commission-launches-probe-into-another-complaint-against-keheliya) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says that it has initiated an investigation following a complaint received against former Minister of Health Keheliya Rambukwella, who is currently in remand custody.
-
-The investigation has been launched following a complaint filed by a civilian alleging that two vehicles belonging to the ministry provided to him during his tenure as the Health Minister have not been returned after he resigned from the ministerial position and have been misused.
-
-◼️
-
-[Data](articles/5bfd4738.json)
-
-[Extended Data](ext_articles/5bfd4738.ext.json)
-
----
-
-### Court refuses interim order against SLFP’s ExCo meeting
-
-*2024-06-19 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99969/court-refuses-interim-order-against-slfps-exco-meeting) · `en`
-
-The Colombo District Court has refused to grant an interim order preventing the SLFP Executive Committee chaired by the Acting Chairman of the Sri Lanka Freedom Party (SLFP), Nimal Siripala de Silva from holding a meeting this afternoon (19).
-
-Accordingly, the court decided to only issue notices to the defendants in the petition and decided that the case would be called again on July 03.
-
-The court issued this order after considering a petition submitted by an electoral organizer of SLFP, Hector Bethmage, seeking a court order preventing the SLFP Executive Committee meeting from being held.
-
-◼️
-
-[Data](articles/c7ced629.json)
-
-[Extended Data](ext_articles/c7ced629.ext.json)
-
----
-
-### The date is specified to consider the petition of estate companies
-
-*2024-06-19 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197925) · `si`
-
-The Supreme Court has scheduled a hearing for an appeal by 21 estate companies, including Agarapathana Plantation Limited, against a Labor Tribunal ruling. The companies argue that a gazette notification issued by the Minister of Labor is illegal and should not be used as grounds for the tribunal's decision. They also mention a red petition filed by the Court of Appeal regarding this matter.
-
-🟩
-
-The Supreme Court has set the summit of a appeal filed by estate companies against the verdict of the Assembly Appeal issued by the Assembly Appeal issued by the Labor Companies.
-
-The appeal was presented by 21 companies including Agarapathana Plantation Limited.
-
-The petitioners claim that the Minister of Labor has issued a gazette yesterday.
-
-The petitioners states that the Court of Appeal has filed a red petition in the Court of Appeal to the use of the gazette notification.
-
-The appearance companies have filed the petition before the Supreme Court as the Supreme Court is asked to give a decision that will be illegal.
-
-◼️
-
-[Data](articles/6b6f10c4.json)
-
-[Extended Data](ext_articles/6b6f10c4.ext.json)
-
----
-
-### Sri Lanka mulling development bank to give low interest credit: President
-
-*2024-06-19 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulling-development-bank-to-give-low-interest-credit-president-168760/) · `en`
-
-ECONOMYNEXT – Sri Lanka is mulling a new development bank to give low interest loans, President Ranil Wickremesinge has said, with the country having suffering high volatility in interest rates as inflationary rate cuts de-stabilize the external sector.
-
-President Wickremesinghe said the government was committed to helping industries build competitive capabilities.
-
-“We are currently exploring the establishment of a development bank to facilitate the required funding for this initiative. This new bank aims to maintain low interest rates,” President Ranil Wickremesinghe was quoted as saying at an International Industry Expo 2024.
-
-In 1960, the DFCC Bank was set up in 1960 and the NDB Bank in 1980, he said.
-
-“Post-privatization, both banks have evolved into major commercial entities in our country,” President Wickremesinghe said.
-
-...
-
-[Data](articles/9e08cd8f.json)
-
-[Extended Data](ext_articles/9e08cd8f.ext.json)
 
 ---

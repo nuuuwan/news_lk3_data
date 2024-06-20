@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 00:06:21**
+As of **2024-06-21 00:19:23**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,388 (100.0%) of 31,399 articles have been extended.
+31,399 (100.0%) of 31,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ඉන්දියාවට සුපිරි ජයක්
+### India beat India
 
 *2024-06-20 23:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197973) · `si`
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ ඉන්දියාව සහ ඇෆ්ගනිස්තානය අතර පැවති සුපර් 8 වටයේ තරගයෙන් ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත්විය.
+In a thrilling World Cup match, India outperformed both India and Afghanistan teams. Batting first, India made 181 runs losing 8 wickets, with Solar Kumar Yadu contributing 53 runs off 28 balls. Afghanistan's reply was halted at 134 runs, leading to India's victory by 47 runs.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 8ක් දැවී ලකුණු 181ක් රැස්කළේය.
+🟩
 
-එහිදී සූර්ය කුමාර් යාදව් ලකුණු 53ක් රැස්කළේ පන්දු 28කට මුහුණ දෙමිනි.
+India won the World Cup match against India and Afghanistan.
 
-පන්දු යැවීමෙන් ෆසල්හක් ෆරූකි සහ රෂීඩ් ඛාන් කඩුලු 3 බැගින් දවාගත්හ.
+Batting first India scored 181 runs for the loss of 8 wickets.
 
-නමුත් පිළිතුරු ඉනිම ක්‍රීඩා කළ ඇෆ්ගනිස්තාන කණ්ඩායම රැස්කළේ ලකුණු 134ක්
+Solar Kumar Yadu scored 53 runs in 28 balls.
 
-ඒ අනුව තරගය ලකුණු 47කින් ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+Fazelhek Farchy and Rashid Khan took three wickets each.
+
+But in reply, Afghanistan scored 134 runs
+
+Accordingly, India won the match by 47 runs.
 
 ◼️
 
 [Data](articles/0c126e77.json)
+
+[Extended Data](ext_articles/0c126e77.ext.json)
 
 ---
 
@@ -374,6 +380,8 @@ In 2019, Sri Lanka has lost 8.3 billion rupees from the luxury tax on car permit
 
 [Data](articles/ae4927ec.json)
 
+[Extended Data](ext_articles/ae4927ec.ext.json)
+
 ---
 
 ### Take action regarding the lack of interest -free loan action for higher education - Leader of the Opposition
@@ -468,21 +476,29 @@ The President says that the International Monetary Fund cannot change the agreem
 
 ---
 
-### தனியார் பல்கலைக்கழக மாணவர்களுக்கான வங்கிக் கடனை விரைவில் பெற்றுக்கொடுக்க நடவடிக்கை  -   கல்வி அமைச்சர்
+### Steps to get bank loans for private university students soon - Minister of Education
 
 *2024-06-20 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186574) · `ta`
 
-தனியார் பல்கலைக்கழக மாணவர்களுக்கான வங்கிக் கடன் வழங்குவதற்கு தேவையான ஆலாேசனைகளை அரச வங்கிகளுக்கு வழங்கி இருக்கிறோம். என்றாலும் அதில் ஏற்பட்டுள்ள தாமதத்தை நிவர்த்தி செய்வதற்கு விரைவில் நடவடிக்கை எடுக்கப்படும். அது தொடர்பில் இலங்கை வங்கியின் தலைவர் மற்றும் முகாமையாளருடன் தனிப்பட்ட ரீதியிலும் பேச்சுவார்த்தை நடத்தியுள்ளேன் என கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த  தெரிவித்தார்.
+The Minister of Education announced measures to expedite bank loans for private university students, addressing delays through negotiations with the Bank of Ceylon. Loans are allocated annually to 4,000 students, but there was a delay affecting the seventh batch, now resolved for the eighth. The Minister emphasized the importance of these loans, stating his readiness to intervene if necessary, and highlighted the need to review stringent banking conditions that hinder loan accessibility.
 
-தனியார் பல்கலைக்கழகங்களுக்கு அனுமதிக்கப்படும் மாணவர்களுக்கு வழங்கப்படும் வங்கிக் கடன் கடும் தாமதத்திற்கு உள்ளாகியுள்ளமை தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு  குறிப்பிட்டார்.
+🟩
 
-அரச பல்கலைக்கழகங்களுக்குத் தகுதியற்ற மாணவர்களுக்கு உயர்கல்விக்கான வட்டியில்லா கல்விக் கடன் வருடம் தோறும் இவ்வாறு 4000 தனியார் பல்கலைக்கழக மாணவர்களுக்கு பெற்றுக் கொடுக்கப்படுகிறது.
+We have provided state banks to provide bank loans to private university students. However, action will be taken to address the delay in it. Minister of Education Susil Prema Jayantha said that I have held a personal negotiation with the Chairman and Manager of the Bank of Ceylon in this regard.
 
-தொடர்ந்து இந்த கடன் வழங்கப்பட்டு வரும் நிலையில் ஏழாவது மாணவர் குழுவுக்கு கடன் வழங்குவதில் தாமதம் ஏற்பட்டுள்ளது. எட்டாவது மாணவர் குழுவுக்கு இலங்கை வங்கி மற்றும் மக்கள் வங்கி ஆகியன அந்தக் கடனை வழங்குகின்றன.
+Responding to a question raised by opposition leader Sajith Premadasa, the bank loan issued to students admitted to private universities has been severely delayed.
+
+Students who are not eligible for state universities are given to 4000 private university students annually.
+
+There has been a delay in lending to the seventh student group as this loan continues. The Bank of Ceylon and the People's Bank offer the loan to the eighth student group.
+
+There is no problem in the central bank. However, the Bank of Ceylon is delaying it.I had a personal discussion with the manager of the bank for the past two days ago. I have also discussed it with the new chairman of the bank.
 
 ...
 
 [Data](articles/3e9a7284.json)
+
+[Extended Data](ext_articles/3e9a7284.ext.json)
 
 ---
 
@@ -527,6 +543,8 @@ The visit comes amid delays in key Indian projects including land, oil and gas p
 ...
 
 [Data](articles/66ba944c.json)
+
+[Extended Data](ext_articles/66ba944c.ext.json)
 
 ---
 
@@ -1022,6 +1040,8 @@ The journey underscores the importance of transparent, accountable governance an
 
 [Data](articles/28eb6f39.json)
 
+[Extended Data](ext_articles/28eb6f39.ext.json)
+
 ---
 
 ### Vijayamaran - Wimal - Bose Venkat is ready for 'sir'
@@ -1079,6 +1099,8 @@ A bond maturing on 15.09.2029 closed at 12.00/15 percent, up from 11.95/12.35 pe
 ◼️
 
 [Data](articles/b485b52c.json)
+
+[Extended Data](ext_articles/b485b52c.ext.json)
 
 ---
 
@@ -1321,6 +1343,8 @@ Melstacorp Plc was among the companies that saw active volumes (Rs194mn) in the 
 ...
 
 [Data](articles/4dd2da9d.json)
+
+[Extended Data](ext_articles/4dd2da9d.ext.json)
 
 ---
 
@@ -1686,6 +1710,8 @@ Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, a
 
 [Data](articles/e537dda0.json)
 
+[Extended Data](ext_articles/e537dda0.ext.json)
+
 ---
 
 ### A fire in a house in Netastal estate
@@ -1835,6 +1861,8 @@ Sri Lanka lagged behind regional nations in attracting foreign direct investment
 ...
 
 [Data](articles/7eedf595.json)
+
+[Extended Data](ext_articles/7eedf595.ext.json)
 
 ---
 
@@ -2123,6 +2151,8 @@ Project including the airport, highways and digital television can resume after 
 ◼️
 
 [Data](articles/f0de8bec.json)
+
+[Extended Data](ext_articles/f0de8bec.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 21:04:37**
+As of **2024-06-20 21:19:09**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 5,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,367 (100.0%) of 31,370 articles have been extended.
+31,370 (100.0%) of 31,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### දෙරණාභිවන්දනා හෙට අනුරාධපුර රුවන්වැලි මහා සෑ පුදබිමේදී
+### Dearer Dearer Maha Surrounded by Ruwanweli Maha Perera
 
 *2024-06-20 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197968) · `si`
 
-"දෙරණාභිවන්දනා පොසොන් නමස්කාරය'' හෙට (21) දවස පුරා අනුරාධපුර රුවන්වැලි මහා සෑ පුදබිමේ සිට සජීවීව ඔබ වෙත ගෙන ඒම සඳහා මේ වනවිට සියල්ල සූදානම් කර තිබේ.
+Poson Poya celebrations in Anuradhapura feature live performances, Buddha Pooja starting at 5:45 am, and various religious programs. Security is tight with 20,000 police officers and 400 police lifeguards deployed. Special transport services are available, but the Mahawa Railway Station is closed for renovations. Nearly 11,100 temples across Sri Lanka are participating, along with 145 Dansals and 322 pandals nationwide.
 
-සීල සමාදානය හා බුද්ධ පූජාව සමගින් පෝදා වැඩසටහන ආරම්භ වන්නේ හෙට උදෑසන 5.45 ටය.
+🟩
 
-ධර්ම දේශනා, ධර්ම සාකච්ඡා කාව්‍ය විශාරද පූජ්‍ය දීගල පියදස්සි හිමියන්ගේ වැඩමවීමෙන් සිදුකරන ආශිර්වාද බෝධි පූජාව ඇතුළු ආගමික වැඩසටහන් රැසක් හෙට දවස පුරා සජීවීව ටී.වී. දෙරණින් සහ එෆ්.එම්. දෙරණින් ගෙන ඒමට සූදානම් කර තිබේ.
+"Deransonandana Poson 'Past Worship All Tomorrow has been prepared to bring live in the Ruwanweli Maha Maha Maha Prashana in Anuradhapura throughout the day.
 
-මේ අතර පොලීසිය පැවසුවේ පොසොන් සැමරුම නිමිත්තෙන් අනුරාධපුර නගරය කේන්ද්‍ර කරගනිමින් විශේෂ ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක බවය.
+The Canada Peace and Buddha Pooja begin with Buddha Pooja and starts at 5.45 am tomorrow morning.
 
-පොසොන් පොහොය නිමිත්තෙන් පොලිස් නිලධාරීන් 20,000ක් රාජකාරි සඳහා යෙදවීමට කටයුතු කරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා ප්‍රකාශ කළේය.
+Several religious programs including Dharma Preaching and Dhamma Discussion Poetuwa Piyadasy. Dearan and FM. Have been prepared to bring abduce.
 
-පොලිස් ජීවිතාරක්ෂක නිලධාරීන් 400කට වැඩි පිරිසක් ද අනුරාධපුර ප්‍රදේශයේ රාජකාරි සඳහා යොදවා තිබේ.
+Meanwhile, the police said that a special security program is being implemented in Anuradhapura to mark the Poson Celebration.
 
-අනුරාධපුර පූජා භූමිය ඇතුළු දිවයින පුරා වෙහෙර විහාරස්ථාන 11,100කට ආසන්න ප්‍රමාණයක විවිධ ආගමික වතාවත් සංවිධාන කර තිබේ.
+Police Media Spokesperson DIG's DIG, Spokesman Nihal Talduuwa, said that 20,000 police officers will be deployed for the Poson Poya.
+
+More than 400 police-lifestictors have also been deployed for duties in Anuradhapura.
+
+Nearly 11,100 temples throughout the island, including the sacred area of ​​Anuradhapura has organized various religious activities.
+
+Special buses and train services will be in operation for the devotees to the Poson Poya in today's sacred city.
 
 ...
 
 [Data](articles/8d701c9a.json)
+
+[Extended Data](ext_articles/8d701c9a.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ Speaking to the media in Polonnaruwa today (20), the former President claimed th
 ...
 
 [Data](articles/a1b69cc4.json)
+
+[Extended Data](ext_articles/a1b69cc4.ext.json)
 
 ---
 
@@ -274,17 +284,23 @@ Following this, the opposition members of the Opposition, Geeta Kumarasinghe, ex
 
 ---
 
-### කෘතිම බුද්ධිය යොදාගෙන කරණීය මෙත්ත සූත්‍රය විකෘති කරලා
+### The artificially intelligence is distorted by artificial intelligence
 
 *2024-06-20 18:33:16* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-යොදාගෙන-කරණීය-මෙත්ත-සූත්‍රය-විකෘති-කරලා/11-410342) · `si`
 
-කෘතීම බුද්ධි තාක්ෂණය යොදා ගනිමින් සකස් කර ඇති බවට පෙනී යන වීඩියෝවක් මගින් කරණීය මෙත්ත සූත්‍ර විකෘති කර ෆේස්බුක් හා ටික්ටොක් සමාජ මාධ්‍ය හරහා ප්‍රචාරය වන බවට විවිධ පාර්ශ්ව මගින් බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය වෙත හා බෞද්ධ කටයුතු පිළිබඳ දෙපාර්තමේන්තුව වෙත ලැබී ඇතැයි  අමාත්‍යාංශ ලේකම් පී. හේරත් මහතා පවසයි.
+The Secretary of the Ministry of Buddha Self, Religious, and Cultural Affairs has filed a complaint against social media platforms for spreading misinformation about artificial intelligence. The complaint was made to the Buddhist Affairs Department, the Police Criminal Investigation Division, and the Telecommunication Regulatory Commission, seeking action to prevent such content from being disseminated.
 
-අදාළ වීඩියෝව පිළිබඳව සොයා බලා එම වීඩියෝව සමාජ මාධ්‍ය හරහා ප්‍රචාරය කරන්නනට එරෙහිව නීතිය ක්‍රියාත්මක කිරීමට හා එම ප්‍රචාරණයක් වැළැක්වීමට අවශ්‍ය පියවර ගන්නා ලෙස ඉල්ලා සිටිමින් පොලිස් පරිගණක අපරාධ විමර්ශන කොට්ඨාසය වෙත හා විදුලි සංදේශ නියාමන කොමිෂන් සභාව වෙත බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් විසින් අද දින පැමිණිල්ලක් ඉදිරිපත් කර ඇති බවද ලේකම්වරයා වැඩිදුරටත් පවසයි.
+🟩
+
+Secretary to the Ministry of Buddha Self, Religious and Cultural Affairs has been reported to the Department of Buddhism and the Buddhist Affairs of Buddhist Affairs to promote artificial intelligence.. Herath says.
+
+The video has lodged a complaint with the Commissioner General of Buddhist Affairs to the Police Criminal Investigation Division and the Telecommunication Regulatory Commission (Telecommunication Regulatory Commission) to seek action against the social media and preventing the document against the social media.The Secretary added that he added.
 
 ◼️
 
 [Data](articles/66bb6e9b.json)
+
+[Extended Data](ext_articles/66bb6e9b.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 20:19:24**
+As of **2024-06-20 20:34:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,362 (100.0%) of 31,366 articles have been extended.
+31,366 (100.0%) of 31,366 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,33 +52,45 @@ Indian Foreign Minister S.. Jaishankar met former President Mahinda Rajapaksa to
 
 ---
 
-### කාසියේ වාසිය ඉන්දියාව ට
+### India to benefit the coin
 
 *2024-06-20 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197967) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ තවත් තරගයක් අද (20) පැවැත්වෙයි.
+In today's T20 World Cup match, India beat Afghanistan and won the toss.
 
-ඇෆ්ගනිස්තානය සහ ඉන්දියාව අතර තරගය මෙලෙස අද පැවැත්වෙන අතර එහි කාසියේ වාසිය දිනා ගැනීමට ඉන්දියාව සමත් විය.
+🟩
+
+Another match in the T20 World Cup was held today (20).
+
+The match between Afghanistan and India, India won the advantage of the coin.
 
 ◼️
 
 [Data](articles/5373be10.json)
 
+[Extended Data](ext_articles/5373be10.ext.json)
+
 ---
 
-### சஜித் உள்ளிட்ட எதிர்க்கட்சி பிரதிநிதிகளை சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர்
+### Indian External Affairs Minister Jaishankar meets opposition representatives including Sajith
 
 *2024-06-20 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186602) · `ta`
 
-இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ உள்ளிட்ட எதிர்க்கட்சிகளின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியுள்ளார்.
+Indian External Affairs Minister S. Jaishankar, during his visit to Sri Lanka, held discussions with opposition leaders including Sajith Premadasa to bolster bilateral ties. The meeting covered various aspects of enhancing the Indo-Sri Lanka relationship.
 
-இந்த சந்திப்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ, ஜி.எல். பீரிஸ், எரான் விக்கிரமரத்ன, நிரோசன் பெரேரா, பழனி திகாம்பரம், ரவூப் ஹக்கீம் மற்றும் இராதாகிருஷ்ணன் ஆகியோர் கலந்துகொண்டனர்.
+🟩
 
-இந்திய - இலங்கை உறவை வலுப்படுத்துவது குறித்தும் ஆதற்கு ஆதரவளிப்பது குறித்தும் இதன்போது ஆழமாக கலந்துரையாடப்பட்டது.
+Indian External Affairs Minister S. Jaishankar, who is on an official visit to Sri Lanka, has met with representatives of opposition parties including Opposition Leader Sajith Premadasa.
+
+Opposition Leader Sajith Premadasa, GL. Peiris, Eran Wickremaratne, Nirosan Perera, Palani Thikambaram, Rauf Hakeem and Radhakrishnan were also present.
+
+It was a deep discussion on strengthening the Indo -Sri Lanka relationship and supporting support.
 
 ◼️
 
 [Data](articles/0e29b040.json)
+
+[Extended Data](ext_articles/0e29b040.ext.json)
 
 ---
 
@@ -132,19 +144,25 @@ MK Santana Upul, a man from Makkonna, Magalkanda and Rogland Watte, died in the 
 
 ---
 
-### வடக்கு, கிழக்கைச் சேர்ந்த தமிழ்த் தலைவர்களை ஒருமித்து சந்தித்தார் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர்!
+### Indian Foreign Minister Jaishankar meets Tamil leaders from the North and East
 
 *2024-06-20 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186601) · `ta`
 
-வடக்கு மற்றும் கிழக்கு மாகாணங்களைச் சேர்ந்த 8 தமிழ் அரசியல் தலைவர்கள்  ஒருமித்து சந்தித்து கலந்துரையாடினார் இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர்.
+Indian Foreign Minister Jaishankar met with eight Tamil political leaders from the Northern and Eastern Provinces to discuss development and power devolution. Participants included notable figures like Chanakyan, MA. Sumanthiran, and others, focusing on provincial representation.
 
-இச் சந்திப்பில் சாணக்கியன், எம்.ஏ. சுமந்திரன், சிறிதரன், செல்வம் அடைக்கலநாதன், தர்மலிங்கம் சித்தார்த்தன், சி.வி.விக்கினேஸ்வரன் மற்றும் செல்வராஜா கஜேந்திரன் ஆகியோர் கலந்துகொண்டனர்.
+🟩
 
-சந்திப்பில் ஈடுபட்ட தலைவர்கள் பிரதிநிதித்துவப்படுத்தும் மாகாணங்களின் அபிவிருத்தி மற்றும் அதிகாரப்பகிர்வு குறித்த விடயங்கள் தொடர்பாக கலந்துரையாடப்பட்டமை குறிப்பிடத்தக்கது.
+Eight Tamil political leaders from the Northern and Eastern Provinces met. Jaishankar.
+
+At this meeting, Chanakyan, MA. Sumanthiran, Sridharan, Selvam Adakkalanathan, Dharmalingam Siddharthan, CV Vigneswaran and Selvarajah Gajendran were also present.
+
+It is noteworthy that the leaders involved in the meeting were discussed on the development and devolution of power representing the provinces.
 
 ◼️
 
 [Data](articles/b148aff5.json)
+
+[Extended Data](ext_articles/b148aff5.ext.json)
 
 ---
 
@@ -256,21 +274,31 @@ We have presented a number of complications regarding the women's reinforcement 
 
 ---
 
-### ඉන්දීය විදෙස් ඇමති කොළඹට එද්දී ඉන්දීය යුද නැවක් ත්‍රිකුණාමලයට
+### Indian arrest minister arrives in Colombo
 
 *2024-06-20 18:19:57* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-විදෙස්-ඇමති-කොළඹට-එද්දී-ඉන්දීය-යුද-නැවක්-ත්‍රිකුණාමලයට/10-410341) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් INS ‘KAMORTA’ නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 ජුනි 20) උදෑසන ත්‍රිකුණාමලය වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+The Indian Navy's ship, Kamorta, docked at Trincomalee Harbor, Sri Lanka, on June 20, 2023, marking its recognition by the Sri Lanka Navy. The visit includes interactions with the Eastern Naval Commands and activities like monitoring the ship's operations and celebrating International Yoga Day. Indian Foreign Minister S. Jayasankar also visited Colombo on the same day for official talks.
 
-මෙලෙස ත්‍රිකුණාමලය වරායට පැමිණි INS ‘KAMORTA’ නෞකාව දිගින් මීටර් 109.2 ක් හා නැව් මුළුව 390 ක ගෙන් සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස කපිතාන් Shiraz Huzain Azad කටයුතු කරනු ලබයි.
+🟩
 
-‘INS ‘KAMORTA’ නෞකාවේ අණදෙන නිලධාරී කපිතාන් Shiraz Huzain Azad සහ නැගෙනහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් කාංචන බානගොඩ අතර නිල හමුවක් අද දින (2024 ජුනි 20) නැගෙනහිර නාවික විධාන මූලස්ථානයේදී පැවැත්වුනු අතර, නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+The Indian Navy's ship arrived at the Trincomalee Harbor on the Trincomalee harbor today (June 20, 23), and the Sri Lanka Navy was recognized by the Sri Lanka Navy.
 
-එමෙන්ම, ‘INS ‘KAMORTA’ නෞකාවේ මෙහෙයුම් ක්‍රියාකාරීත්වය නිරීක්ෂණය කිරීම සඳහා පාසල් සිසුන් හට අවස්ථාව හිමි වන අතර, ජාත්‍යන්තර යෝගා දිනය වෙනුවෙන් සම්බන්ධීකරණ වැඩසටහනක් පැවැත්වීමට සහ වෙරළ පිරිසිදු කිරීමේ වැඩසටහනක් පැවැත්වීමටද නියමිතව ඇත.
+The Kamorta ship arrived at the Trincomalee harbor, which is a 109.2 meters and 390 meters and the shipwreck.
 
-...
+Commanding Officer of the Commanding Officer of the Commanding Officer of the Commanding Officer of the Kamarta 'Ins' ​​Commander was held at the Eastern Naval Commands in the Eastern Naval Opportunity Headquarters.The visit is also scheduled to visit several areas.
+
+School children will be able to monitor the operational functionality of the 'IN KAMORTA' operational functionality and a coordinating program for the International Yoga Day will be held.
+
+He is due to leave the island on 23rd June 2024, a Sri Lanka Navy ship with a Sri Lankan naval ship with a Sri Lankan naval ship.
+
+Meanwhile Indian Foreign Minister S. Jayasankara also visited Colombo today for an official visit.
+
+◼️
 
 [Data](articles/4dae38e4.json)
+
+[Extended Data](ext_articles/4dae38e4.ext.json)
 
 ---
 

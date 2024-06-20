@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 09:34:44**
+As of **2024-06-20 09:53:49**
 
 ## Newspaper Stats
 
-*Scraped **31,246** Articles*
+*Scraped **31,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 1,715
 economynextcom | 1,804
 dailyftlk | 1,914
 adalk | 2,725
-adaderanalk | 3,535
+adaderanalk | 3,537
 tamilmirrorlk | 3,673
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,074
+adaderanasinhalalk | 5,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,246 (100.0%) of 31,246 articles have been extended.
+31,246 (100.0%) of 31,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-20 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197943) · `si`
+
+◼️
+
+[Data](articles/ff91b251.json)
+
+---
+
+### Prison officers warned against engaging in trade union action
+
+*2024-06-20 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99981/prison-officers-warned-against-engaging-in-trade-union-action) · `en`
+
+The Prisons Department has warned that strict disciplinary measures will be taken against officers who engage in trade union actions.
+
+Prisons Commissioner (Operation/Intelligence) and Spokesman Gamini B. Dissanayake emphasized that prison officers have no legal right to participate in any trade union actions.
+
+Dissanayake also warned that legal action would be pursued against any officers who engage in such activities.
+
+Regarding the recent trade union action by certain prison officers, Dissanayake noted, “It was reported to us that a very small group of officers had intimidated others into joining them. The Colombo Magistrate has ordered that disciplinary action be taken. A senior officer will be assigned, and appropriate measures will be implemented. We intend to report facts to the court on this in the future.”
+
+◼️
+
+[Data](articles/bd55a410.json)
+
+---
+
+### එංගලන්තයට ජය
+
+*2024-06-20 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197942) · `si`
+
+එංගලන්තය සහ සම-සත්කාරක බටහිර ඉන්දීය කොදෙව් අතර පැවති 20යි 20 ලෝක කුසලාන තරගාවලියේ "සුපර් 8" තරගයෙන් පහසු ජයක් වාර්තා කිරීමට එංගලන්තය සමත් විය.
+
+ශාන්ත ලුසියා හි පැවති එම තරගයෙන් පළමුව පන්දුවට පහරදුන් කොදෙව්වෝ සිය ඉනිම සඳහා කඩුලු 4ක් දැවී ලකුණු 180ක් රැස් කළේය.
+
+ඊට පිළිතුරු ලෙස එංගලන්ත කණ්ඩායම පන්දු ඕවර 17.2කදී ජයග්‍රහණය සඳහා අවශ්‍ය ලකුණු 181 රැස්කළේය.
+
+◼️
+
+[Data](articles/b2200588.json)
+
+---
+
+### Tamil Nadu CM urges Centre for release of fishermen from Sri Lankan custody
+
+*2024-06-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99980/-tamil-nadu-cm-urges-centre-for-release-of-fishermen-from-sri-lankan-custody) · `en`
+
+Tamil Nadu Chief Minister M K Stalin has made an earnest appeal to the central government of India, urging them to negotiate with Sri Lanka for the release of Indian fishermen and their impounded boats.
+
+In a letter addressed to Indian External Affairs Minister S Jaishankar, Stalin highlighted the recent capture of four Indian fishermen by the Sri Lankan Navy and stressed that such actions jeopardize the livelihoods of fishermen and create anxiety within coastal communities.
+
+Stalin pointed out that currently, 15 Indian fishermen and 162 fishing boats are still detained by Sri Lankan authorities and requested immediate intervention through diplomatic means for their release.
+
+◼️
+
+[Data](articles/5b7d5eea.json)
+
+---
+
+### දරුවන්ට යළි දුක් විඳීමට නොදෙන බව ජනපති කියයි
+
+*2024-06-20 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197941) · `si`
+
+දරුවන් වෙනුවෙන් ඉදිරි වසර 5 - 10 තුළ වඩා හොඳ රටක් නිර්මාණය කර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/89a998b2.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -2233,121 +2305,5 @@ This is because many are preparing their political manifesto with the fact that 
 [Data](articles/b2095300.json)
 
 [Extended Data](ext_articles/b2095300.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover Rs2.7bn
-
-*2024-06-19 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-rs2-7bn-168756/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.28 percent, or 34.63 points, at 12,225; while the more liquid S&P SL20 Index closed down 0.47 percent, or 17.18 points, at 3,604.
-
-Turnover was 2.7 billion. A large part of this came from consumer durables and apparel industry stocks (Rs1.3bn).
-
-Ambeon Capital Plc saw the most volumes change hands (Rs1.3mn) in the day. The share closed up at 14.40.
-
-Access Engineering Plc saw interest (up at 24.40), as did Melstacorp Plc (down at 87.00).
-
-Hela Apparel, which announced a rights issue of 1.5 billion to settle debt of a sub-subsidiary, closed down at 5.90.
-
-Top contributors to the index included Bukit Darah Plc (up at 399.75), hSenid Business Solutions Plc (up at 13.00) which announced a reallocation of its IPO monies, and Dipped Products Plc (up at 38.90).
-
-...
-
-[Data](articles/b5d6bb5b.json)
-
-[Extended Data](ext_articles/b5d6bb5b.ext.json)
-
----
-
-### Informs of the Deadly Bacteria in Japan
-
-*2024-06-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197923) · `si`
-
-Japan reports an increase in certain bacteria, which can become resistant to antibiotics but doesn't pose a significant threat due to its rarity and limited impact on public health.
-
-🟩
-
-The Epidemiology Unit of the Ministry of Epidemiology, the Institute of Epidemiology Unit, said that the people of the Ministry of Health will not need to be unique.
-
-"It is a bacteria between the general public. Rarely result and a complication can go to a fatal situation. Japan has reportedly observed that some increase in the condition of bacteria. And that can change this from antibiotic drugs. But rarely there may be bacteria that resists antibiotics. There is no need to make an impact on the big spread, or that our country will be affected. "
-
-◼️
-
-[Data](articles/c234ab94.json)
-
-[Extended Data](ext_articles/c234ab94.ext.json)
-
----
-
-### Opportunities that come for system change
-
-*2024-06-19 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186469) · `ta`
-
-Despite progress in enacting laws and addressing corruption, challenges persist in recovering stolen assets, implementing new economic policies, and managing public expectations regarding elections and systemic changes. The government faces criticism for prioritizing economic stability over democratic processes, leading to concerns about transparency and accountability.
-
-🟩
-
-Two years ago. It contained a variety of issues, including reclaiming stolen assets, punishing those who committed abuse and making an end to corruption.
-
-The current reality is that the view of a new social order that has been a struggle is still far away. Although the new legislative government has enacted against the gains of crime, the stolen assets have not been recovered from home or abroad.President Ranil Wickremesinghe is still demanding compensation before suppressing the movement of the charity struggle before its final stages.. Government officials who receive the compensation applications say that the value of the Eelam is more than the value of the lost assets.
-
-The government under President Wickremesinghe has passed an unprecedented number of laws or reviews laws. Government leaders are proud to have passed about 75 new laws over the past two years.
-
-...
-
-[Data](articles/c861be22.json)
-
-[Extended Data](ext_articles/c861be22.ext.json)
-
----
-
-### The results of Muslim students will come
-
-*2024-06-19 15:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவிகளின்-பெறுபேறுகள்-வரும்/175-339132) · `ta`
-
-Education Minister Susil Premajayantha announced that the results for suspended students and the remaining 70 students from the Trincomalee GCE Advanced Level Examination would be released soon. He responded to a parliamentary inquiry, noting that decisions were made swiftly to address any issues affecting the results.
-
-🟩
-
-Education Minister Susil Premajayantha said the results of the students who had been suspended would be released in a few days.
-
-In response to a request made by the Opposition Leader in Parliament on Wednesday (19), the Minister of Education said this.
-
-The GCE Advanced Level Examination of Trincomalee has not yet been released. The results of 70 students are not released. Should take steps to publish them as soon as possible. The Minister of Education said that this was done last week. He said he should make a quick decision.
-
-If the exam is wearing when the exam comes into the hall, the ear must be worn. There are reasons for that. Are not going to be exposed to them. There are places that do so. But that did not happen at the time. Someone is a supervisor acted carefully. However, no problem has been for those students' results. Steps will now be taken to publish those results.  பரீட்சைகள் ஆணையாளர் அவற்றை எதிர்வரும் நாட்களில் வெளியிட நடவடிக்கை எடுப்பார் என்றார்.
-
-◼️
-
-[Data](articles/141bc7f8.json)
-
-[Extended Data](ext_articles/141bc7f8.ext.json)
-
----
-
-### Read this before the foreign employment fraud is caught ..... Over 6 million has been recovered
-
-*2024-06-19 15:52:09* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-වංචාවකට-හසුවෙන්න-කලින්-මෙය-කියවන්න-------කෝටි-6කට-අධික-මුදලක්-නැවත-අයකර-දී-තිබෙනවා/11-410315) · `si`
-
-Sri Lanka's SLBFI recovers over 6 million from foreign employment fraud, with 2155 complaints investigated since January 18, 2024. 1051 cases are prosecuted, leading to arrests including 8 owners of licensed agencies involved in fraud. The bureau advises against unauthorized agencies and encourages reporting through www.slbfe.lk or 1989 hotline.
-
-🟩
-
-There is a greater tendency for Sri Lankans to foreign employment and the SLBFI is a growth of the Faculty of the LKR and the FUTA regarding foreign employment.
-
-In addition to the head office in Battaramulla, Battaramulla, Battaramulla, in Battaramulla, Ratnapura, Tangalle, Kandy and Kandy provincial offices will be accepted.
-
-Accordingly, the Special Investigation Division of the Bureau has received 2155 complaints regarding foreign employment from January 18, 2024, and 1051 complaints have been taken to prosecute 1051 complaints. Investigilator Officers have also taken steps to raid 11 illegal employment agencies, and 65 frauds were arrested by the Investigation Officers during this period. Among the arrested were 8 owners of licensed employment agencies involved in foreign employment fraud.
-
-The Bureau of the Bureau has also been able to recover Rs.
-
-...
-
-[Data](articles/dbddaeff.json)
-
-[Extended Data](ext_articles/dbddaeff.ext.json)
 
 ---

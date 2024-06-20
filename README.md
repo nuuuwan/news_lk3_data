@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 22:19:31**
+As of **2024-06-20 22:34:45**
 
 ## Newspaper Stats
 
-*Scraped **31,374** Articles*
+*Scraped **31,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,716
 economynextcom | 1,810
 dailyftlk | 1,914
 adalk | 2,745
-adaderanalk | 3,553
-tamilmirrorlk | 3,687
+adaderanalk | 3,554
+tamilmirrorlk | 3,690
 dailymirrorlk | 4,733
 virakesarilk | 4,863
 adaderanasinhalalk | 5,104
@@ -26,55 +26,147 @@ adaderanasinhalalk | 5,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,371 (100.0%) of 31,374 articles have been extended.
+31,374 (100.0%) of 31,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
 
-### ජෙයිශංකර් යයි
+### At least 36 die in India after drinking tainted liquor
+
+*2024-06-20 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99998/at-least-36-die-in-india-after-drinking-tainted-liquor) · `en`
+
+At least 36 people died and more than 60 were being treated in hospitals after consuming tainted liquor in the southern Indian state of Tamil Nadu, a government spokesperson said on Thursday.
+
+Since Wednesday over 100 people, suffering from vomiting, stomach ache and diarrhoea, have needed hospital treatment in the Kallakurichi district, 250 km (150 miles) by road from the state capital Chennai, the spokesperson said.
+
+The state government said it had taken disciplinary action against at least 10 officials, including the district’s chief administrator and its police chief.
+
+“I was shocked and saddened to hear the news ... Action has also been taken against the officials who failed to prevent it,” Tamil Nadu Chief Minister M.K. Stalin said in a post on X.
+
+Police arrested four people over the sale of illicit liquor and seized 200 litres of the methanol-mixed alcoholic drink, the state government said.
+
+...
+
+[Data](articles/6954d694.json)
+
+---
+
+### The Jeezing goes
 
 *2024-06-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197971) · `si`
 
-ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා සිය එක්දින ශ්‍රී ලංකා සංචාරය නිමා කර අද (20) පස්වරුවේ කටුනායක ගුවන්තොටුපොළින් ඉන්දියාව බලා පිටත්ව ගිය ගොස් තිබේ.
+Dr. S. Jaishankar, Indian Foreign Minister, returned to India from Sri Lanka via Katunayake airport, concluding his one-day trip.
+
+🟩
+
+Indian Foreign Minister Dr. S. Jiasankar has come to India at Katunayake airports today after the end of his one-day visit to Sri Lanka.
 
 ◼️
 
 [Data](articles/c101a242.json)
 
+[Extended Data](ext_articles/c101a242.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානයට ලකුණු 182ක ඉලක්කයක්
+### 8 மாதங்களாக கணவனை காணவில்லை - மனைவி முறைப்பாடு
+
+*2024-06-20 21:54:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களாக-கணவனை-காணவில்லை-மனைவி-முறைப்பாடு/175-339201) · `ta`
+
+கொழும்பு – புளூமெண்டல் பகுதியைச் சேர்ந்த 58 வயதான மன்னர் மன்னன் என்ற நபர் கடந்த ஆண்டு ஒக்டோபர் மாதம் 25ம் திகதி முதல் 8 மாதங்களாக காணவில்லை என அவரது மனைவி ராணி மன்னர் தெரிவிக்கின்றார்.
+
+கடந்த ஆண்டு ஒக்டோபர் மாதம் 25ம் திகதி தன்னை தனது சகோதரியின் வீட்டில் விட்டு சென்றதை அடுத்தே, தனது கணவர் காணாமல் போனதாக அவரது மனைவி புளூமெண்டல் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+
+இந்த நபர் தொடர்பான தகவல்களை அறிந்தால், தமக்கு அறிவிக்குமாறும் காணாமல் போனவரின் மனைவி கேட்டுக் கொண்டுள்ளார். R
+
+◼️
+
+[Data](articles/ca86ca05.json)
+
+---
+
+### A target of 182 runs to Afghanistan
 
 *2024-06-20 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197970) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ ඇෆ්ගනිස්තානය සහ ඉන්දියාව අතර තරගය අද (20) පැවැත්වෙයි.
+In today's World Cup match against Afghanistan, India batted first after winning the toss. They scored 181 runs in 20 overs, losing 8 wickets.
 
-එහි කාසියේ වාසිය දිනාගැනීමට ඉන්දියාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහර දීමටය.
+🟩
 
-ඒ අනුව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 181ක් රැස් කර‍ගැනීමට ඉන්දියාව සමත් විය.
+The match between Afghanistan and India will be held today (20) in the World Cup.
+
+India was able to gain advantage of its coin and they decided to bat first.
+
+India scored 181 runs for the loss of 08 wickets at the end of 20 overs.
 
 ◼️
 
 [Data](articles/fe175acc.json)
 
+[Extended Data](ext_articles/fe175acc.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ට මොකද වෙන්නේ ?
+### எஸ்.ஜெய்சங்கர் - சஜித் சந்திப்பு
+
+*2024-06-20 21:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-சஜித்-சந்திப்பு/175-339195) · `ta`
+
+இந்திய வெளிவிவகார எஸ்.ஜெய்சங்கர் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோருக்கு இடையிலான விசேட சந்திப்பொன்று இன்று கொழும்பில் இடம்பெற்றது.
+
+எதிர்கட்சித் தலைவர் சஜித் பிரேமதாச, அண்டைய நாடான இந்தியாவிடம் இருந்து கிடைத்த உதவிகள் மற்றும் ஒத்தாசைகளுக்கு நன்றி தெரிவித்ததுடன், இரு நாடுகளுக்கும் இடையே பல நூற்றாண்டுகளாக நிலவிவரும் நட்புறவு, ஐக்கிய மக்கள் சக்தி அரசாங்கத்திலும் அவ்வாறே பேணப்படும் என்றும் இந்திய வெளிவிவகார அமைச்சரிடம் தெரிவித்தார்.
+
+இலங்கையின் வீடமைப்புத் திட்டங்களுக்கும், சுவசெரிய அம்புலன்ஸ் சேவைக்கும் இந்திய அரசாங்கம் வழங்கிய பங்களிப்பை என்றும் மறக்க முடியாது என்று எதிர்க்கட்சித் தலைவர் இங்கு தெரிவித்தார். இந்திய அரசாங்கத்தின் கல்விக் கொள்கை தொடர்பில் கருத்து தெரிவித்த எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, இந்தியாவைப் போன்று இலங்கையிலும் ஸ்மார்ட் கல்வியையும், புதிய உலகிற்கு ஏற்ற கல்விக் கொள்கையையும் உருவாக்குவதே தமது நோக்கமாகும் என்றும் தெரிவித்தார்.
+
+...
+
+[Data](articles/0a79e3b9.json)
+
+---
+
+### What happens to the presidential election?
 
 *2024-06-20 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197969) · `si`
 
-සැප්තැම්බර් 20 සහ ඔක්තෝබර් 16 අතර කාලසීමාව තුළදී අනිවාර්යයෙන්ම ජනාධිපතිවරණය පැවැත්විය යුතු බව මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා ප්‍රකාශ කරයි.
+Mahinda Deshapriya urges for the Presidential Election to occur between September 20 and October 16, emphasizing its importance despite challenges. He criticizes any actions benefiting political parties during this process, advocating for transparency and fairness.
 
-VIEW මැතිවරණ  නිරීක්ෂණ සංවිධානයේ මාධ්‍ය හමුවට ජ්‍යෙෂ්ඨ පුරවැසියෙකු ලෙස එක්වෙමින් ඒ මහතා මෙම අදහස් පළ කර සිටියේය.
+🟩
 
-එහිදී ඔහු වැඩිදුරටත් කියා සිටියේ  දිව්‍ය ලෝකය ඔළුවට කඩන් වැටුණත් ජනාධිපතිවරණය කල්දැමීමට බැරි බවය.
+Former Chairman Mahinda Deshapriya says the Presidential Election should be held within the period between September 20 and October 16.
 
-"මැතිවරණ නීති බලාත්මකව තිබෙන කාලයේදී බෙදාදීම් සිදුකිරීම වැරදියි. දේශපාලන පක්ෂවලට වාසි සහගත කිසිදු දෙයක් කිරීම වැරදියි. මෙවැනි බෙදාහරින තැන්වලදී කොමිෂන් සභාව සහ නිරීක්ෂණ සංවිධාන ඉස්සර වගේ බැනර් එකක් ගැසිය යුතුයි.."
+He was speaking at a media briefing of the View Election Monitoring Organization as a senior citizen.
+
+He further stated that the Divine world collapses, but the presidential election cannot be postponed.
+
+"It is wrong to distribute the time of election laws. It is wrong to do anything that is advantageous for political parties. In these distribution, you must make a banner like the Commission and the observation organizations.
 
 ◼️
 
 [Data](articles/c58a3238.json)
+
+[Extended Data](ext_articles/c58a3238.ext.json)
+
+---
+
+### கண்டெடுத்த லட்சுமியை உரியவரிடம் ஒப்படைத்த இளைஞன்
+
+*2024-06-20 21:12:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கண்டெடுத்த-லட்சுமியை-உரியவரிடம்-ஒப்படைத்த-இளைஞன்/73-339193) · `ta`
+
+பிபிலை பகுதியைச் சேர்ந்த இளைஞனின் பணப்பையை கண்டெடுத்த தோப்பூர் நபர் அதை உரியவரிடம் ஒப்படைத்துள்ளார்.
+
+தோப்பூர் பிரதேசத்தைச் சேர்ந்த அனஸ் நிஜாமுதீன் என்பவர் கிண்ணியாவிற்கு செல்லும் போது வீதியில் கிடந்த பணப்பை ஒன்றை கடந்த 19 ஆம் திகதி கண்டெடுத்திருந்தார்.
+
+இதில் அவரை தொடர்பு கொள்வதற்கான எதுவித தொலைபேசி இலக்கங்களும் இருக்கவில்லை. அப்பையில் அவரது ஆவணங்கள் இருந்தமையால் அதனை ஆதாரமாக வைத்து பணப்பையை கண்டெடுத்த நபர் சமூக வளைத்தளங்களில் உரியவருக்கு தகவல் சேரும்படியாக பதிவொன்றை இட்டிருந்தார்.
+
+இந்த பதிவினை பணப்பையை தொலைத்த நபர் பார்வையிட்டு உரிய நபரை தொடர்பு கொண்டு தனது பணப் பையை இன்று வியாழக்கிழமை (20) காலை பெற்றுக் கொண்டதோடு கண்டெடுத்து உதவிய நிஜாமுதீனுக்கு நன்றிகளை தெரிவித்தார்.
+
+தோப்பூர் மஸ்ஜிதுல் பலாஹ் ஜும்ஆ பள்ளிவாசல் தலைவர் ஜெஸாகிர் (சலீம்) ஊடாக குறித்த பணப்பையும், ஆவணங்களும் ஒப்படைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+பணப்பையை தொலைத்த நபர் பிபிலைப் பகுதியைச் சேர்ந்த செனைவிரத்ன முதியன்சலாகே சதுரங்க குமார என்பது குறிப்பிடத்தக்கது.  R
+
+◼️
+
+[Data](articles/e08b7d1e.json)
 
 ---
 
@@ -2263,111 +2355,5 @@ Accordingly, the defendants have presented the judiciary before the Court of App
 [Data](articles/cefb6b69.json)
 
 [Extended Data](ext_articles/cefb6b69.ext.json)
-
----
-
-### Indian Foreign Minister. Jaishankar
-
-*2024-06-20 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/186518) · `ta`
-
-Indian Foreign Minister S. Jaishankar visits Sri Lanka, marking the first bilateral engagement under PM Modi's new government. The visit aims to strengthen ties, focusing on mutual benefits across various sectors. Key discussions include housing projects funded by India, energy pipelines, industrial zones, and agricultural modernization. Jaishankar will meet Sri Lankan leaders including President Ranil Wickremesinghe and opposition figures, emphasizing India's continued support and commitment to Sri Lanka.
-
-🟩
-
-Minister of External Affairs S.. Jaishankar will hold meetings with the leadership of Sri Lanka on a wide range of bilateral issues.
-
-This is the first bilateral visit to the Foreign Minister under the new government of Indian Prime Minister Modi.
-
-The visit, which urges India's foreign policy to renegotiate the priority policy, points out the continued dedication of Sri Lanka to Sri Lanka, which is a very close foreign country and a long -awaited friend.
-
-The visit will further inspire the merger projects and other cooperation that will benefit mutual benefits in various sectors.
-
-Indian External Affairs Minister S.. Jaishankar will meet President Ranil Wickremesinghe.
-
-Prime Minister Dinesh Gunawardena, Opposition Leader Sajith Premadasa, External Affairs Minister Ali Sabri, Minister Jeevan Thondaman, representatives of the Tamil Progressive Alliance, Sri Lanka Tamil National Alliance (TNA) and Democratic Tamil National Alliance will also meet representatives of Tamil parties.
-
-...
-
-[Data](articles/fe97078b.json)
-
-[Extended Data](ext_articles/fe97078b.ext.json)
-
----
-
-### Excessive women's damage
-
-*2024-06-20 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/186517) · `ta`
-
-In Sri Lanka, leptospirosis, primarily affecting women, has seen a rise, especially among those in agriculture, livestock, and gem mining sectors. Last year, it affected 9,000; this year, 5,000. Mainly reported in Ratnapura, Kegalle, Galle, Kalutara, Moneragala, and Kurunegala, it's spread via bacteria from infected rat urine or feces entering the human body through wounds, mouth, etc., exacerbated by heavy rains. Symptoms include muscle pain, jaundice, and breathing issues, potentially leading to severe outcomes like organ failure without early treatment. Prevention involves good hygiene, avoiding contaminated water, and managing waste properly, alongside raising awareness among high-risk groups.
-
-🟩
-
-Health officials have recognized that leptospirosis in Sri Lanka has been affected by the higher women.
-
-The fever is suffering from men who are involved in agriculture, livestock and gem excavation industries.
-
-9000 people were affected by the fever last year. So far this year, 5,000 people have been affected.
-
-The victims are mostly from Ratnapura, Kegalle, Galle, Kalutara, Moneragala and Kurunegala.
-
-Leptospirosis is spread by some kind of bacteria. Bacteria that spreads mice is living in the kidney of the affected mice. The urine of the rat, in the stool this bacteria exit. When we consume water or foods mixed with the rat, the fever can occur.
-
-If we trample the rat's waste, the bacteria will go into the body through the wounds, abrasions, dry areas, mouth, nose, and private areas.
-
-...
-
-[Data](articles/6840b01a.json)
-
-[Extended Data](ext_articles/6840b01a.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar arrives in Sri Lanka
-
-*2024-06-20 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99982/indian-foreign-minister-jaishankar-arrives-in-sri-lanka) · `en`
-
-Indian External Affairs Minister Dr. S. Jaishankar has arrived in Sri Lanka on an official visit, a short while ago.
-
-He was welcomed at the Bandaranaike International Airport (BIA) in Katunayake by Sri Lanka’s Minister of State for Foreign Affairs Tharaka Balasuriya and the Governor of Eastern Province Senthil Thondaman.
-
-“Look forward to my meetings with the leadership. Sri Lanka is central to our Neighborhood First and SAGAR policies,” Jaishankar posted on ‘X’ following his arrival in the island.
-
-During the visit, the Indian foreign minister is scheduled to have meetings with the leadership of Sri Lanka on wide-ranging issues of the partnership, the Indian High Commission in Colombo said.
-
-This is Jaishankar’s first bilateral visit after the formation of the new Government under Indian Prime Minister Shri Narendra Modi.
-
-...
-
-[Data](articles/8ddd977d.json)
-
-[Extended Data](ext_articles/8ddd977d.ext.json)
-
----
-
-### Management is necessary to protect and manage the need for urban marshlands - International swamp park representatives
-
-*2024-06-20 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186520) · `ta`
-
-At the first Australian New Zealand and Asian conference of the International Marsh Lands Union in Battaramulla, representatives highlighted the importance of managing urban marshlands for environmental tourism. Organized by the Land Development Corporation, the event saw participation from nearly 100 delegates from 15 countries, focusing on protecting areas like Colombo's swamps and promoting sustainable practices.
-
-🟩
-
-Representatives of the International March Park point to the management of the need for urban marshlands to be managed.
-
-They emphasized this at the first Australian New Zealand and Asian conference of the International Mark Lands Union at the Voters Age Hotel in Battaramulla.
-
-The conference is organized to promote environmental tourism. It is conducted by the Land Development Corporation under the Ministry of Urban Development and Housing.
-
-Almost 100 swamp park representatives from 15 countries around the world attended the conference. The group also joined the birds surveillance around Talangamavai this morning.
-
-Representatives of Colombo are currently monitoring the swamps of Colombo, the world's first urban swamp.
-
-They observed the swamp surrounding the Talangama Lake. They also focused on the behavior of the related birds and the measures taken to protect the area.
-
-...
-
-[Data](articles/97039f67.json)
-
-[Extended Data](ext_articles/97039f67.ext.json)
 
 ---

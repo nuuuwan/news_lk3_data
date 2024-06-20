@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-20 06:59:55**
+As of **2024-06-20 07:22:00**
 
 ## Newspaper Stats
 
-*Scraped **31,233** Articles*
+*Scraped **31,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ adaderanalk | 3,534
 tamilmirrorlk | 3,672
 dailymirrorlk | 4,733
 virakesarilk | 4,827
-adaderanasinhalalk | 5,069
+adaderanasinhalalk | 5,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,217 (99.9%) of 31,233 articles have been extended.
+31,220 (100.0%) of 31,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-20 (Thursday)
+
+### දකුණු අප්‍රිකාවට සුපිරි ජයක්
+
+*2024-06-20 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197937) · `si`
+
+පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටය ආරම්භ කරමින් පැවති පළමු තරගයෙන් ලකුණු 18ක ජයක් වාර්තා කිරීමට දකුණු අප්‍රිකාව සමත් වුණි.
+
+එම තරගයේ කාසියේ වාසිය දිනු අමෙරිකාව පළමුව පන්දු රැකීමට තීරණය කළේය.
+
+ඒ අනුව පිටියට පිවිසි දකුණු අප්‍රිකානු කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 16කදී දැවි ගියේය.
+
+නමුත් දෙවන කඩුල්ල වෙනුවෙන් ලකුණු 110ක සබඳතාවක් ගොඩනැගීමට ක්වන්ටන් ඩී කොක් සහ ඒඩන් මාක්‍රම් සමත්වුණි.
+
+ඩිකොක් මෙම තරග වාරයේ රැස්කරන පළමු අර්ධ ශතකය රැස්කරමින් ලකුණු 74ක් වාර්තා කළේය.
+
+ඒඩන් මාක්‍රම් ලකුණු 46ක් රැස්කළ අතර හෙන්රිච් ක්ලාසන් ලකුණු 36යි.
+
+ඒ අනුව දකුණු අප්‍රිකාව නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 4ක් දැවී ලකුණු 194ක් රැස්කළේය.
+
+ලකුණු 195ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි අමෙරිකා කණ්ඩායමේ පළමු කඩුලු 5 ලකුණු 76ක් තුළදි දැවී ගියේය.
+
+6 වන කඩුල්ලට ලකුණු 91ක සබඳතාක් ගොඩ නැගීමට හාමිත් සිං සහ ඇන්ඩ්‍රිස් ගෝස් සමත්වුණත් ජයග්‍රහණය සඳහා එය ප්‍රමාණවත් නොවීය.
+
+ඒ අනුව නියමිත පන්දුවාර 20 අවාසනයේදී අමෙරිකාව කඩුලු 6ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 176කි.
+
+...
+
+[Data](articles/05946f8d.json)
+
+---
+
+### අලුත්ම කාලගුණ නිවේදනය
+
+*2024-06-20 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197935) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+◼️
+
+[Data](articles/69e310af.json)
+
+---
 
 ### World Bank says 80% of global population will experience slower growth than in pre-COVID decade
 
@@ -46,6 +94,8 @@ Global growth is projected to hold steady at 2.6% in 2024 before edging up to an
 
 [Data](articles/830a07d8.json)
 
+[Extended Data](ext_articles/830a07d8.ext.json)
+
 ---
 
 ### Taxation should be an investment people are making for current and future wellbeing
@@ -60,6 +110,8 @@ Taxation needs to be looked at from a different perspective and models of taxati
 
 [Data](articles/f8eb0a61.json)
 
+[Extended Data](ext_articles/f8eb0a61.ext.json)
+
 ---
 
 ### Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’
@@ -73,6 +125,8 @@ Taxation needs to be looked at from a different perspective and models of taxati
 ...
 
 [Data](articles/16f9f97a.json)
+
+[Extended Data](ext_articles/16f9f97a.ext.json)
 
 ---
 
@@ -2265,49 +2319,5 @@ A private bus, which was transporting students from Colombo to Dembagala, a priv
 [Data](articles/71441639.json)
 
 [Extended Data](ext_articles/71441639.ext.json)
-
----
-
-### MPs who want to change the gender
-
-*2024-06-19 15:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலினத்தை-மாற்ற-விரும்பும்-எம்-பிக்கள்/175-339131) · `ta`
-
-Wimal Weerawansa criticized male MPs supporting the Gender Equality Bill, suggesting they'd be perceived as converting to women. He argued against including non-binary genders in legal provisions aimed at female equality, emphasizing no need to oppose gender equality principles but opposing its current formulation.
-
-🟩
-
-Member of the National Freedom Front and Independent Opposition MP, Wimal Weerawansa, said that male MPs who voted in favor of the Bill would be thought to be converted into women and female MPs.
-
-He further stated that during the argument in the House on Wednesday (19) in Parliament, the Gender Equality Bill
-
-There is no need to oppose the Supreme Court on gender equality.. "We oppose the inclusion of alternative gender within the legal provisions prepared as female equality."
-
-◼️
-
-[Data](articles/ea922838.json)
-
-[Extended Data](ext_articles/ea922838.ext.json)
-
----
-
-### Committee report on CBSL salary hikes submitted to COPF
-
-*2024-06-19 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99967/committee-report-on-cbsl-salary-hikes-submitted-to-copf) · `en`
-
-The report of the committee appointed by President Ranil Wickremesinghe to review the salary increase of officials of the Central Bank of Sri Lanka (CBSL) has been handed over to the Committee on Public Finance (COPF).
-
-Chairman of the Committee on Public Finance, Dr. Harsha de Silva, informed the Parliament today that he has received the relevant report.
-
-Accordingly, he stated that the report has pointed out that the salary increase of CBSL officials should not have been implemented.
-
-On April 01, President Wickremesinghe, in his capacity as the Minister of Finance, appointed an Independent Remuneration Committee to review the salary increase of the Central Bank officials.
-
-The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakkody, Mr Arjuna Herath, Dr Indrajit Coomaraswamy, Mrs Sudharma Karunarathne, Mr Anthony Nihal Fonseka, Mr Anushka S Wijesinha and Mr Duminda Hulangamuwa.
-
-...
-
-[Data](articles/1db90677.json)
-
-[Extended Data](ext_articles/1db90677.ext.json)
 
 ---

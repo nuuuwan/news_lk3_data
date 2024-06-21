@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 09:19:09**
+As of **2024-06-21 09:35:18**
 
 ## Newspaper Stats
 
-*Scraped **31,445** Articles*
+*Scraped **31,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,729
-economynextcom | 1,819
+economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,748
 adaderanalk | 3,558
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,441 (100.0%) of 31,445 articles have been extended.
+31,445 (100.0%) of 31,446 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Senior Additional Secretary, Mrs. Chandra Herath, shared these views during a pr
 ...
 
 [Data](articles/1ae76b76.json)
+
+[Extended Data](ext_articles/1ae76b76.ext.json)
 
 ---
 
@@ -159,6 +161,22 @@ Accordingly, Australia's target was 141 runs for the winning match.
 [Data](articles/e322b6bb.json)
 
 [Extended Data](ext_articles/e322b6bb.ext.json)
+
+---
+
+### Indian FM meets Sri Lanka political leaders; focuses on committed deals
+
+*2024-06-21 07:30:00* · [`economynextcom`](https://economynext.com/indian-fm-meets-sri-lanka-political-leaders-focuses-on-committed-deals-168970/) · `en`
+
+ECONOMYNEXT – Indian External Affairs Minister (EAM) S. Jaishankar met President Ranil Wickremesinghe and a range of political leaders during his visit to Sri Lanka, focusing on commitments made by Sri Lanka to India, including land and energy pipeline connectivity.
+
+Sri Lanka has committed to renewable energy deals for the Indian Adani group, Trincomalee port development, an investment zone around the port, a bridge between the island nation’s Northern Mannar and South India’s Rameshwaram, a power grid, and an oil and gas pipeline between the two nations.
+
+Though most of the committed projects have been discussed and some already signed, they face delays amid public protests, court cases on environmental concerns, anti-Indian sentiments triggered by high prices of renewable projects, local politicians as well as perceived Chinese influence, analysts say.
+
+...
+
+[Data](articles/a2032068.json)
 
 ---
 
@@ -1140,19 +1158,27 @@ For the academic years of 2020, 2021 and 2022, the Gazette of Private Universiti
 
 ---
 
-### මිහින්තලේට ආරක්ෂාව ප්‍රමාණවත් නෑ
+### Security for Safety to Mihintale is not sufficient
 
 *2024-06-20 20:06:48* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලේට-ආරක්ෂාව-ප්‍රමාණවත්-නෑ/11-410351) · `si`
 
-2332 වැනි පොසොන් උත්සවය සඳහා මෙවර මිහින්තලා පුදබිමට ලබා දී ඇති ආරක්ෂාව පිළිබඳව කිසිසේත්ම සෑහීමකට පත්වීමට නොහැකි බව මිහින්තලේ රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන  හිමියෝ  අවධාරණය කරති.
+The text highlights concerns over inadequate security measures at Mihintale, a sacred site, suggesting the government should ensure safety for visitors. It criticizes the lack of responsibility from the Department of Archaeology and the Civil Defense Force regarding the vast acreage of the site. The mention of the Poson Festival in Pandapandapa and the misuse of relics and vehicles at Mihintale further underscores the issues of poor management and potential desecration of the site.
 
-පූජා භූමියට පැමිණෙන බැතිමතුන්ට යම් සිරීමක්වත් හෝ සිදු වුවහොත් එහි වගකීම සම්පූර්ණයෙන් ම රජය භාරගත යුතු බවත්, එසේ වගකීම බාර නොගත්තත්  අනාගතයේදී ඒ සඳහා පිළිතුරු දිය යුතු බවත් එහිමියෝ අවධාරණය කරති.රටේ ජනතාවට  විපත් සිදුවූවත්, පාලකයන්ට වගේ වගක් නැති බවත්, දේශපාලකයන් දළදා මාළිගාව, රුවන්වැලි සෑය හා ජය ශ්‍රී  මහා බෝධීන් වහන්සේ අබියසට ගොස් ඒ පවිත්‍ර භූමි අපවිත්‍ර කරන බවත් එහිමියෝ පැවසූහ
+🟩
 
-අක්කර විශාල ප්‍රමාණයක් තිබෙන මිහින්තලා පුණ්‍ය භූමිය පුරාවිද්‍යා දෙපාර්තමේන්තුව හෝ සිවිල් ආරක්ෂක බලකායේ නිලධාරීන්වත් පිරිසුදු නොකරන බවත්, ඒ සඳහා  පහළ නිලධාරීන් වගකිව යුතු නැති බවත්,  ඉහළ මට්ටමේ සිටින පාලකයන් ඊට වගකිව යුතු බවත් උන් වහන්සේ අවධාරණය කරති.
+Ven.
 
-...
+If the people who come to the sacred area, the government should accept the responsibility of the country, but whether there is no reasoned to the country, the Dalada Maligawa, Ruwanweli Palace.And they said that the Jaya Sri Maha Bodhi was contaminated by these pure land
+
+He emphasizes that there is a large number of acres, the Department of Archeology or the officials of the Civil Defense Force is not responsible for that.
+
+The Poson Festival is also organized in Pandapandapa and organizes the use of the used car and the relics of the Mihindu Thera stupid styles.
+
+◼️
 
 [Data](articles/2c50cfb4.json)
+
+[Extended Data](ext_articles/2c50cfb4.ext.json)
 
 ---
 
@@ -1250,19 +1276,29 @@ The President says that the International Monetary Fund cannot change the agreem
 
 ---
 
-### අද ලියාපදිංචි දන්සල් 4600ක්
+### 4600 dieselines registered today
 
 *2024-06-20 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/අද-ලියාපදිංචි-දන්සල්-4600ක්/11-410350) · `si`
 
-පොසෙන් පොහොය දිනය මූලික කර ගනිමින් අද(21දා) විහාරස්ථාන 11100ක විවිධ ආගමික උත්සව සංවිධානය කර තිබෙන අතර පොසොන් කලාප 322ක් දිවයින පුරා පැවැත් වේ.
+Today, 4,600 deaths were reported, and 11,100 temples hosted religious ceremonies for the Posen Poya Day, involving 21,100 temples overall. 296 individuals were selected, and 4,600 Dansals were registered. 20,000 police officers and 27,000 citizens from police committees ensured security, with army officials assisting 400 special police authorities. Over 400 security personnel guarded water sources and vehicle safety. Public urged to maintain environmental cleanliness during the festival.
 
-තොරන් 296ක් හා දන්සල් 4600ක් පැවැත් වීමට ලියා පදිංචි වී තිබේ.  පොසෙන් දිනය මූලික කර ගනිමින්  දිවයින පුරා පැවැත්වෙන ආගමික උත්සව, තොරන් හා පොසොන් කලාපවල ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් 20.000ක් යොදවා සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+🟩
 
-ආරක්ෂක කටයුතු සඳහා පොලිස්  ප්‍රජා කමිටු නියෝජනය කරන පුරවැසියන් 27000ක් සම්බන්ධ වීමට නියමිතය. පොලිස් විශේෂකාර්ය බලකා නිලධාරීන් 400ක් පමණද, ආරක්ෂක කටයුතුවල  අවශ්‍යතාව අනුව යුද හමුදා නිලධාරීන්ද යොදා ගැනීමට නියමිතව තිබේ.
+A number of religious ceremonies of 11100 temple are organized by 11100 temples today (21100 temples) based on the Posen Poya Day.
+
+296 selected selected and 4600 Dansal registered.The Police Media Division states that 20.000 police officers have been deployed in the country's religious ceremonies and poson zones across the country.
+
+27000 citizens representing police committees for security purposes. Army officials are to be used by about 400 police special authorities and the need for safety activities.
+
+More than 400 policemen, security personnel have been deployed to protect their security at the water sources and they have been deployed to protect their safety.. When stopping vehicles, the vehicles are not parked but also to take care of the safety of the vehicles.
+
+If you have a traffic connection, 02522222191 or a person who came to a person may be able to support the 0252222122 to speak to the Anuradhapura area.
 
 ...
 
 [Data](articles/b71a6286.json)
+
+[Extended Data](ext_articles/b71a6286.ext.json)
 
 ---
 
@@ -1338,19 +1374,27 @@ The visit comes amid delays in key Indian projects including land, oil and gas p
 
 ---
 
-### මේ වසරේදී විදෙස් රැකියා අක්‍රමිකතා ගැන පැමිණිලි 2155ක්
+### 2155 complaints regarding foreign employment irregularities this year
 
 *2024-06-20 19:46:08* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදෙස්-රැකියා-අක්‍රමිකතා-ගැන-පැමිණිලි-2155ක්/11-410347) · `si`
 
-2024 වසරේ ජනවාරි මාසයේ පළමු වැනිදා සිට ජුනි මස 18 වැනිදා දක්වා විදේශ රැකියා ලබාදීමේදී සිදුව ඇති අක්‍රමිකතා සම්බන්ධයෙන් පැමිණිලි 2155ක් විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ වංචා විමර්ශන අංශය වෙත ලැබී ඇති බවත්, එයින් පැමිණිලි 1051ක් සඳහා අධිකරණයේ මේ වනවිටද නඩු පවරා ඇති බවත් විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+In the first half of 2023, the Foreign Employment Bureau received 2155 complaints about foreign employment irregularities, with 1051 cases filed in court. There's a growing trend of Sri Lankans seeking overseas work. The Fraud Investigation Division arrested 65 individuals involved in fraud. Measures were taken to provide compensation amounting to six hundred thousand rupees. The Bureau advises potential employees to verify the legitimacy of institutions offering foreign employment before proceeding.
 
-විදේශ රැකියා සඳහා ශ්‍රී ලාංකික ශ්‍රමිකයන්ගේ යොමු වීමේ වැඩි ප්‍රවණතාවක් මේ දිනවල පෙන්නුම් කරන බවත්, එයට සමගාමීව ලැබෙන පැමිණිලි සංඛ්‍යාවේද වැඩි වීමක් පෙන්නුම් කරන බවත් එම කාර්යාංශය පවසයි.නීතිවිරෝධි අන්දමින් පවත්වාගෙන ගිය විදේශ රැකියා ආයතන 11 ක් වැටලීමට පියවර ගෙන ඇත. වංචා කරුවන් 65දෙනෙකු අත්අඩංගුවට ගැනීමටද වංචා විමර්ශන අංශය පියවර ගෙන තිබේ.
+🟩
 
-2024 මුල් පස් මාසයෙහි කාර්යාංශයට ලැබුණු පැමිණිලි අනුව වින්දිතයන් සඳහා රු. හය කෝටි පනස් එක් ලක්ෂ තුන් දහස් හයසිය විසි හයක වන්දි මුදල් ලබාදීමට පියවර ගෙන ඇති බව විදේශ සේවා නියුක්ති කාර්යාංශය වැඩිදුරටත් පවසයි.
+The Foreign Employment Bureau has received 2155 complaints regarding the malpractices of the Foreign Employment in January to June 18, 1051 complaints have been filed in court..
 
-...
+The Bureau has shown that there is a greater trend of Sri Lankan workers for foreign employment.. The Fraud Investigation Division has also taken steps to arrest 65 cheater.
+
+2024 According to the Bureau of the first five months of Rs.. Steps have been taken to provide the six hundred thousand Rs.
+
+The Bureau is also requested for foreign employment to examine the institution registered institute before a foreign employment has been given a foreign employment.
+
+◼️
 
 [Data](articles/0ff3d6d2.json)
+
+[Extended Data](ext_articles/0ff3d6d2.ext.json)
 
 ---
 
@@ -2239,25 +2283,5 @@ This includes a center at the Naval Headquarters in Colombo, a sub -center in Ha
 [Data](articles/e3a63dde.json)
 
 [Extended Data](ext_articles/e3a63dde.ext.json)
-
----
-
-### Neighbours like Sri Lanka are extremely important to India, Jaishankar tells PM
-
-*2024-06-20 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99992/neighbours-like-sri-lanka-are-extremely-important-to-india-jaishankar-tells-pm) · `en`
-
-Indian Minister of External Affairs, Dr. S. Jaishankar called on Prime Minister Dinesh Gunawardena at Temple Trees in Colombo today (June 20).
-
-The Prime Minister congratulated Dr. Jaishankar on the election victory of the BJP-led National Democratic Alliance and reassured Sri Lanka’s commitment to work together to further strengthen close bilateral relations.
-
-He thanked India for the assistance given at recent difficult times after Covid-19 pandemic and the economic crisis, the Prime Minister’s Media Division said.
-
-Minister Jaishankar said neighbours like Sri Lanka are extremely important to India and there is tremendous goodwill for Sri Lanka in India. He said the Indian government reaffirms the ‘Neighbourhood First Policy’ and the main purpose of his visit is to underline India’s continued commitment to Sri Lanka as its closest maritime neighbour and time tested friend, the statement added.
-
-...
-
-[Data](articles/29607ddf.json)
-
-[Extended Data](ext_articles/29607ddf.ext.json)
 
 ---

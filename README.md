@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 17:55:38**
+As of **2024-06-21 18:12:49**
 
 ## Newspaper Stats
 
-*Scraped **31,493** Articles*
+*Scraped **31,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,753
 adaderanalk | 3,565
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
-virakesarilk | 4,887
+virakesarilk | 4,888
 adaderanasinhalalk | 5,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,492 (100.0%) of 31,493 articles have been extended.
+31,493 (100.0%) of 31,494 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,8 @@ Chasing the formidable target of 275 Sri Lankan women, Chedean Nation of West In
 ...
 
 [Data](articles/ba228b98.json)
+
+[Extended Data](ext_articles/ba228b98.ext.json)
 
 ---
 
@@ -157,6 +159,24 @@ The customer investigations have revealed that the security officer had tried to
 [Data](articles/bc8dacff.json)
 
 [Extended Data](ext_articles/bc8dacff.ext.json)
+
+---
+
+### மன்னார்   பிரதான பாலத்தடியில் உள்ள சோதனைச் சாவடி அகற்றப்பட்டது.
+
+*2024-06-21 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186643) · `ta`
+
+மன்னார் மாவட்டத்தில் நீண்டகாலமாக மக்களை அசௌகரியத்திற்கு உள்ளாக்கிய பிரதான சோதனை சாவடி மற்றும் வீதி தடைகள் இன்று வெள்ளிக்கிழமை (21) அகற்றப்பட்டுள்ளதுடன் சோதனை நடவடிக்கைகளும் நிறுத்தப்பட்டுள்ளது.
+
+பல வருடங்களாக குறித்த சோதனை சாவடியை அகற்றுமாறும் குறித்த சோதனை சாவடியினால் மக்கள் பல்வேறு அசௌகரியங்களுக்கு முகங்கொடுப்பதாக மன்னார் மாவட்ட பொது அமைப்புக்கள்,சிவில் செயற்பாட்டாளர்கள் பாராளுமன்ற உறுப்பினர்கள் போராட்டங்களை முன்னெடுத்த துடன்,சம்பந்தப்பட்ட அரச அதிகாரிகளுக்கு சோதனை சாவடியை அகற்றுவதற்கான கோரிக்கையை கடிதங்களாகவும் மகஜர்களாகவும் வழங்கியிருந்தனர்.
+
+இந்த நிலையி, அண்மையில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் இடம்பெற்ற விசேட ஒருங்கிணைப்பு குழு கூட்டத்தில் மன்னார் மாவட்ட பாராளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் குறித்த சோதனை சாவடியை அகற்றி தருமாறு நேரடி கோரிக்கை முன்வைக்கப்பட்டது.
+
+இந்த நிலையில்  ஜனாதிபதியின் ஆலோசனைக்கு அமைவாக இன்றைய தினம் குறித்த பாலப் பகுதியில் காணப்பட்ட வீதி தடைகள் அகற்றப்பட்டுள்ளது டன்  சோதனை நடவடிக்கைகளும் நிறுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d65399d8.json)
 
 ---
 
@@ -2283,27 +2303,5 @@ This was carried out as a political revenge when Gotabhaya Rajapakse became pres
 [Data](articles/e898e315.json)
 
 [Extended Data](ext_articles/e898e315.ext.json)
-
----
-
-### Its chief has agreed to change the agreement with the International Monetary Fund - Opposition Leader
-
-*2024-06-20 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/186572) · `ta`
-
-Opposition leader Sajith Premadasa has agreed to review the IMF agreement after discussions with its chief, Peter Brewar. There's controversy over rental income tax, with the President stating financial data will be submitted based on tax policy. The President claims the IMF cannot alter the agreement, contradicting Brewar's statement that amendments are possible. Premadasa urges digitizing tax admin, including those outside the tax net, and criticizes the government's handling of taxes under IMF pressure.
-
-🟩
-
-Opposition leader Sajith Premadasa said he even agreed to review the IMF's agreement when the United People's Power had discussed with Peter Brewar, the chief of the International Monetary Fund.
-
-There has been great controversy in the community over rental income tax. Although the President has said that the president has said that it will submit financial data and information based on tax policy, the technical cooperation report to be prepared when this property tax or other tax is increased.
-
-The President says that the International Monetary Fund cannot change the agreement. But according to Peter Bruver, the chief of the International Monetary Fund, the contract can be corrected according to the circumstances. Peter Brover also agreed to review the International Monetary Fund Agreement during the United People's Power Discussion
-
-...
-
-[Data](articles/9946f3ab.json)
-
-[Extended Data](ext_articles/9946f3ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 08:12:28**
+As of **2024-06-21 08:20:46**
 
 ## Newspaper Stats
 
-*Scraped **31,435** Articles*
+*Scraped **31,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,819
 dailyftlk | 1,927
 adalk | 2,745
 adaderanalk | 3,555
-tamilmirrorlk | 3,692
+tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
 adaderanasinhalalk | 5,110
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,435 (100.0%) of 31,435 articles have been extended.
+31,435 (100.0%) of 31,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -521,6 +521,24 @@ The police are trying to arrest the other three suspects, with one of the four s
 [Data](articles/2b0a4895.json)
 
 [Extended Data](ext_articles/2b0a4895.ext.json)
+
+---
+
+### ’உறுமய’ திட்டத்தை விரைவுபடுத்த நடமாடும் சேவை
+
+*2024-06-21 00:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-விரைவுபடுத்த-நடமாடும்-சேவை/175-339211) · `ta`
+
+நாட்டில் 20 லட்சம் பேருக்கு காணி உறுதிகளை வழங்குவதற்கான 'உறுமய' தேசிய வேலைத்திட்டத்தினை துரிதப்படுத்தும் வகையில், இம்மாதம் 26 – 30 ஆம் திகதி வரையில் நாடளாவிய ரீதியில் நடமாடும் சேவையொன்றை நடத்த ஜனாதிபதி அலுவலகம் தீர்மானித்துள்ளது.
+
+அதன்படி காணி உறுதிகளை வழங்குவதற்கான சகல துறைசார் அதிகாரிகளையும் கிராமங்களுக்கு அனுப்பி அவர்கள் ஊடாக விரைவாக காணி உறுதிகளை பெற்றுக்கொடுக்க எதிர்பார்த்துள்ளோம் என ஜனாதிபதியின் மேலதிகச் செயலாளர் சந்திரா ஹேரத் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே ஜனாதிபதியின் மேலதிகச் செயலாளர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+“உறுமய திட்டத்தின் கீழ் பெருமளவான காணி உறுதிகள் வழங்கப்பட்டுள்ளன. இந்த வேலைத்திட்டத்ததை விரைவுபடுத்தும் நோக்கில் நடமாடும் சேவையொன்றையும் நடத்த தீர்மானிக்கப்பட்டுள்ளது. அதன்படி இம்மாதம் 26 – 30 திகதி வரையில் இந்த நடமாடும் சேவை நாடளாவிய ரீதியில் முன்னெடுக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/5beabf03.json)
 
 ---
 
@@ -2259,25 +2277,5 @@ The proposal made by Hon.
 [Data](articles/7e67ab53.json)
 
 [Extended Data](ext_articles/7e67ab53.ext.json)
-
----
-
-### Kallakurichi counterfeit businessmen - DMK executives should investigate
-
-*2024-06-20 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186568) · `ta`
-
-In Kallakurichi, 35 deaths due to illicit liquor highlight a failure to curb counterfeit alcohol sales. DMK executive Anbumani Ramadas calls for an investigation into the party's involvement. The incident echoes a similar tragedy in 2022, where over 30 died from bootlegged liquor, prompting criticism of the Tamil Nadu government's handling. The district collector and several officials have been dismissed, but the focus shifts to the DMK's alleged support for the counterfeit trade, demanding further action against those implicated.
-
-🟩
-
-The number of casualties in Kallakurichi district has risen to thirty -five. It is shocking that people have died of illicit liquor. In this regard, the leader of the party, Anbumani Ramadas, has urged the investigation into the connection between the DMK executives and the DMK executives.
-
-“The death toll from the Karunapuram area of ​​Kallakurichi district has risen to 35. More than 50 people are receiving medical treatment in various hospitals.The number of casualties is increasing in minute by minute. It is shocking that so many people have died for counterfeit money. This shows that the Tamil Nadu government and the police have completely failed to control the counterfeit money.
-
-...
-
-[Data](articles/e1060c66.json)
-
-[Extended Data](ext_articles/e1060c66.ext.json)
 
 ---

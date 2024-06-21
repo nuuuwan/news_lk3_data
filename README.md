@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 18:53:43**
+As of **2024-06-21 19:04:16**
 
 ## Newspaper Stats
 
-*Scraped **31,495** Articles*
+*Scraped **31,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,565
+adaderanalk | 3,566
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
-virakesarilk | 4,888
-adaderanasinhalalk | 5,127
+virakesarilk | 4,889
+adaderanasinhalalk | 5,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,495 (100.0%) of 31,495 articles have been extended.
+31,495 (100.0%) of 31,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Major power cut hits Bosnia, Albania, Montenegro and Croatia’s coast
+
+*2024-06-21 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100010/major-power-cut-hits-bosnia-albania-montenegro-and-croatias-coast) · `en`
+
+A major power blackout hit Montenegro, Bosnia, Albania and most of Croatia’s Adriatic coast on Friday, officials said, disrupting businesses, shutting down traffic lights and leaving people sweltering in the middle of a heatwave.
+
+Power operators in the four countries said they were investigating what caused the failure. Albania’s Top Channel TV cited unnamed sources saying an interconnector had failed in Montenegro, though there was no official confirmation.
+
+In Bosnia, there was no power in the capital Sarajevo and the cities of Banja Luka and Mostar, Reuters reporters said. Local media reported a blackout across the country.
+
+Traffic ground to a halt in the Croatian coastal city of Split after traffic lights failed, state TV HRT reported. Ambulance sirens rang out cross the city, it added.
+
+Croatia’s HEP power utility said that the outage in parts of the country had been caused by “an international disturbance that affected several countries,” without going into further detail.
+
+...
+
+[Data](articles/9f7d6991.json)
+
+---
+
+### සියලුදෙනා සහාය නොදැක්වුවහොත් රට යළි අර්බුදයකට පත්වන බව ජනපති කියයි
+
+*2024-06-21 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197999) · `si`
+
+නව ආර්ථික පරිවර්තනයක් තුළින් ශ්‍රී ලංකාව ගොඩනැගීමට රජය ඉදිරිපත් කර ඇති වැඩපිළිවෙළ සමඟ සියලුදෙනා එක්විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඖෂධ, ඉන්ධන සහ පොහොර සපයා ගත නොහැකිව දුක්විඳී අතීතය කිසිවෙකු අමතක නොකළ යුතු අතර මතු පරපුරට එවන් අඳුරු අත්දැකීමකට ඉඩ නොතැබිය යුතු බව ජනාධිපතිවරයා සඳහන් කරයි.
+
+සමස්ත ලංකා පෞද්ගලික ඖෂධ ශාලා හිමියන්ගේ සංගමයේ 09 වන සම්මේලනයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව කියා සිටියේය.
+
+...
+
+[Data](articles/fd4a9682.json)
+
+---
+
+### சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த இலங்கை உறுதிபூண்டுள்ளது - ஜனாதிபதி
+
+*2024-06-21 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186657) · `ta`
+
+சதுப்பு நிலங்களைப் பாதுகாப்பதில் கவனம் செலுத்துவதன் மூலம் சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த இலங்கை அர்ப்பணிப்புடன் இருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+காலநிலை மாற்றத்தை எதிர்கொள்வது மற்றும் சுற்றாடல் பாதுகாப்பு ஆகியவற்றுக்காக வெளிநாட்டு நிதிக்காக காத்திருப்பதில் பயனில்லை என சுட்டிக்காட்டிய ஜனாதிபதி, வெப்பமண்டல நாடுகள் சுற்றாடல் தொடர்பான வர்த்தகத் திட்டங்களில் கவனம் செலுத்தி தமக்குத் தேவையான நிதியை பெற்றுக்கொள்ள செயற்பட வேண்டும் என்றும் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (20) பத்தரமுல்லை வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்ற ‘WLI Asia Oceania Conference 2024’ நிறைவு விழாவில் கலந்தகொண்டு இதனைக் குறிப்பிட்டார்.
+
+சதுப்பு நிலங்களின் பாதுகாப்பு மற்றும் நிலைபேறான முகாமைத்துவம் மற்றும் ஒத்துழைப்பை மேம்படுத்தும் நோக்கில், வீடமைப்பு அமைச்சின் கீழ் உள்ள இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தினால் முதன்முறையாக ஏற்பாடு செய்யப்பட்ட இந்த மாநாடு ஜூன் 17 முதல் 21 வரை பத்தரமுல்லை தியசரு பூங்காவில் நடைபெற்றது.
+
+...
+
+[Data](articles/7a578baf.json)
+
+---
 
 ### State Minister for tax recovery
 
@@ -2237,79 +2291,5 @@ For the academic years of 2020, 2021 and 2022, the Gazette of Private Universiti
 [Data](articles/bf684941.json)
 
 [Extended Data](ext_articles/bf684941.ext.json)
-
----
-
-### Security for Safety to Mihintale is not sufficient
-
-*2024-06-20 20:06:48* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලේට-ආරක්ෂාව-ප්‍රමාණවත්-නෑ/11-410351) · `si`
-
-The text highlights concerns over inadequate security measures at Mihintale, a sacred site, suggesting the government should ensure safety for visitors. It criticizes the lack of responsibility from the Department of Archaeology and the Civil Defense Force regarding the vast acreage of the site. The mention of the Poson Festival in Pandapandapa and the misuse of relics and vehicles at Mihintale further underscores the issues of poor management and potential desecration of the site.
-
-🟩
-
-Ven.
-
-If the people who come to the sacred area, the government should accept the responsibility of the country, but whether there is no reasoned to the country, the Dalada Maligawa, Ruwanweli Palace.And they said that the Jaya Sri Maha Bodhi was contaminated by these pure land
-
-He emphasizes that there is a large number of acres, the Department of Archeology or the officials of the Civil Defense Force is not responsible for that.
-
-The Poson Festival is also organized in Pandapandapa and organizes the use of the used car and the relics of the Mihindu Thera stupid styles.
-
-◼️
-
-[Data](articles/2c50cfb4.json)
-
-[Extended Data](ext_articles/2c50cfb4.ext.json)
-
----
-
-### Women should be appointed to high positions of public and private institutions - V Irathakrishnan
-
-*2024-06-20 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186563) · `ta`
-
-V Irathakrishnan emphasizes the need for more women in leadership roles across public and private sectors, highlighting the underrepresentation of women in parliament despite making up half of the population. He calls for the inclusion of women in key decision-making bodies like the Sri Lanka National Commission Bill for UNESCO, noting the challenges faced by women in various sectors, especially during economic hardships.
-
-🟩
-
-It is worrying that only 12 female representatives are representing parliament, with 52 per cent of women living in the total population. The appointment of women in state and private institutions should be appointed as a good example of the Parliament.
-
-He was speaking at a debate on the women's reinforcement bill held in Parliament on Thursday (20).
-
-We have submitted the report of the Department of Education Department of the Department of Education on the Sri Lanka National Commission Bill for the UNESCO. The Commission should include state institutions including the Cultural Fund, Wildlife and the Department of Wildlife and the Department of Education.
-
-Women's reinforcement Bill is spoken. In the social structure, women are resistant to many problems.
-
-There are only 12 female representatives in Parliament. Fifty years ago, there was less representation. There was no major change. In the present state and private high positions, women should be given priority.
-
-...
-
-[Data](articles/909b1690.json)
-
-[Extended Data](ext_articles/909b1690.ext.json)
-
----
-
-### The Tiazaru Park announces as a marshland center in Sri Lanka
-
-*2024-06-20 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186567) · `ta`
-
-Tiazaru Park, Sri Lanka's mangrove center, celebrated its 10th anniversary with a MoU signing between the Ramza Regional Station and international partners. The park, established in 2014, hosts diverse flora and fauna, including rare bird species and endangered mammals. It's part of efforts to protect and reuse aquatic ecosystems, showcasing Sri Lanka's commitment to environmental conservation.
-
-🟩
-
-The Tiazaru Park has been declared as the center of mangrove centers in Sri Lanka. A Memorandum of Understanding (MoU) was signed between the Ramza Regional Station and the Thezaru Park at a ceremony held on Thursday (20) in honor of the 10th anniversary of the Thezaru Park.
-
-இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தின் தலைவர் ரியர் அட்மிரல் பொறியியலாளர் ஹிரான் பாலசூரிய, இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தின் இணைப் பணிப்பாளர் பொறியியலாளர் ஸ்ரீமதி சேனாதீர, ரம்சா பிராந்திய மையத்தின் நிறைவேற்றுப் பணிப்பாளர் சூ ஷேங் ஹோ மற்றும் வைல்ட்  பவுல்ட் மற்றும் சதுப்பு நில அமைப்பின் சர்வதேச உறவுகளின் முகாமையாளர் கிறிஸ் ரோஸ்டன் ஆகியோர் இந்த தியசரு பூங்கா புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டனர்.
-
-This Memorandum of Understanding (MoU) was signed in partnership with the WLI Asia Oceania Conference held at the Battaramulla Tiyasaru Park these days.
-
-Representatives of foreign swamp who attended the WLI Asia Oceania conference participated in the 10 -year celebration of the Thiyasaru Park.
-
-...
-
-[Data](articles/dd627fd1.json)
-
-[Extended Data](ext_articles/dd627fd1.ext.json)
 
 ---

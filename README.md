@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 17:19:09**
+As of **2024-06-21 17:34:51**
 
 ## Newspaper Stats
 
-*Scraped **31,491** Articles*
+*Scraped **31,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,65 @@ adaderanalk | 3,564
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,887
-adaderanasinhalalk | 5,125
+adaderanasinhalalk | 5,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,490 (100.0%) of 31,491 articles have been extended.
+31,491 (100.0%) of 31,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### தங்க பிஸ்கட்டுகளுடன் விமான நிலைய பாதுகாப்பு அதிகாரி கைது
+### රතු මුහුදේ දී නෞකාවකට හූති මිසයිල ප්‍රහාරයක්
+
+*2024-06-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197997) · `si`
+
+ගල් අඟුරු ප්‍රවාහන ග්‍රීක නෞකාවකට රතු මුහුදේදී හූති මිසයිල ප්‍රහාරයක් එල්ලවන අයුරු දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ප්‍රහාරය එල්ල වී තිබුණේ යේමනයේ හුදෙයිදා වරායට ඔබ්බෙන් වූ මුහුදේදීය.
+
+මීට සතියකට පමණ පෙර එල්ල වූ ප්‍රහාරයෙන්, නෞකාව මේ වනවිට සම්පූර්ණයෙන් ගිලී ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ප්‍රහාරය එල්ලවන අවස්ථාවේ දි එහි කාර්යමණ්ඩල සේවකයින් විසි දෙදෙනෙකු පමණ සිට තිබූ අතර ඔවුන් සියලුදෙනා පිලිපීන ජාතිකයින් බව සඳහන් වේ.
+
+සෙසු පිරිස ගුවන් මඟින් මුදාගැනීමට අමෙරිකානු නාවික හමුදාව පියවර ගෙන තිබුණි.
+
+පසුගිය වසරේ නොවැම්බර් මාසයේදී යේමනයේ හූති සංවිධානය රතුමුහුදේ වාණිජ නෞකා ඉලක්ක කරමින් ප්‍රහාර එල්ල කිරීම ආරම්භ කළේ පලස්තීනයට සහාය දැක්වීමක් වශයෙනි.
+
+ඉරානයේ සහාය ලබන හූති සංවිධානය පවසන්නේ ඔවුන් ඊශ්‍රායල බලා යන නෞකා ඉලක්ක කරන බවය.
+
+◼️
+
+[Data](articles/4e4d53c6.json)
+
+---
+
+### Airport security officer arrested with gold biscuits
 
 *2024-06-21 16:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகளுடன்-விமான-நிலைய-பாதுகாப்பு-அதிகாரி-கைது/175-339221) · `ta`
 
-சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டுவரப்பட்ட சுமார் 4 கோடியே 80 இலட்சம் ரூபா பெறுமதியான தங்க பிஸ்கட்டுகளை எடுத்துச் செல்ல முயன்ற விமான நிலைய பாதுகாப்பு அதிகாரி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A Sri Lankan airport security officer was arrested for smuggling 2 kg of gold biscuits worth 4 crores 80 lakhs. The gold was hidden in his rectum during a flight. A 40-year-old from Hakmana, he served as an officer for 15 years before attempting to smuggle the gold out of the airport for 60 thousand rupees.
 
-இன்று (21) காலை விமானத்தில் வந்த நபர் ஒருவர் 18 தங்க பிஸ்கட்டுகளை புலம்பெயர்ந்த விமான பயணிகள் முனையத்தின் மலசலகூடத்தில் வைத்து குறித்த அதிகாரியிடம் கொடுத்துள்ள நிலையில், அவர் அவற்றை தனது ஆடையில் மறைத்துக்கொண்டு  கட்டுநாயக்க விமான நிலையத்தில் இருந்து வெளியேற முயன்றதாக குறிப்பிடப்படுகின்றது.
+🟩
 
-இதன்போது, சுங்க போதைப்பொருள் கட்டுப்பாட்டு பிரிவின் அதிகாரிகளினால் அவர் கைது செய்யப்பட்டுள்ளதுடன், சந்தேகநபரிடம் இருந்து மீட்கப்பட்ட தங்க பிஸ்கட்டுகள் 02 கிலோ 86 கிராம் எடையுடையது என தெரிவிக்கப்பட்டுள்ளது.
+An airport security officer has been arrested for attempting to carry gold biscuits worth about 4 crores 80 lakhs illegally brought to Sri Lanka.
 
-கைது செய்யப்பட்டவர் 15 வருடங்களாக விமான நிலைய பாதுகாப்பு உத்தியோகத்தராக கடமையாற்றிய 40 வயதுடைய ஹக்மன பிரதேசத்தை சேர்ந்தவர் என தெரிவிக்கப்படுகிறது.
+It is reported that a person on board a flight this morning has given 18 gold biscuits to the officer in the rectum of the migrant passenger terminal.
 
-...
+He has been arrested by officials of the Customs Drug Control Unit and the gold biscuits recovered from the suspect weigh 2 kg of 86 g.
+
+The arrested person is said to be from Hakmana, a 40 -year -old, who has been serving as airport security officer for 15 years.
+
+Initial investigations by the Customs Division revealed that the security officer had tried to take the gold biscuits for 60 thousand rupees from the airport.. Remble
+
+◼️
 
 [Data](articles/7cd88726.json)
+
+[Extended Data](ext_articles/7cd88726.ext.json)
 
 ---
 
@@ -2275,31 +2307,5 @@ If you have a traffic connection, 02522222191 or a person who came to a person m
 [Data](articles/b71a6286.json)
 
 [Extended Data](ext_articles/b71a6286.ext.json)
-
----
-
-### Steps to get bank loans for private university students soon - Minister of Education
-
-*2024-06-20 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186574) · `ta`
-
-The Minister of Education announced measures to expedite bank loans for private university students, addressing delays through negotiations with the Bank of Ceylon. Loans are allocated annually to 4,000 students, but there was a delay affecting the seventh batch, now resolved for the eighth. The Minister emphasized the importance of these loans, stating his readiness to intervene if necessary, and highlighted the need to review stringent banking conditions that hinder loan accessibility.
-
-🟩
-
-We have provided state banks to provide bank loans to private university students. However, action will be taken to address the delay in it. Minister of Education Susil Prema Jayantha said that I have held a personal negotiation with the Chairman and Manager of the Bank of Ceylon in this regard.
-
-Responding to a question raised by opposition leader Sajith Premadasa, the bank loan issued to students admitted to private universities has been severely delayed.
-
-Students who are not eligible for state universities are given to 4000 private university students annually.
-
-There has been a delay in lending to the seventh student group as this loan continues. The Bank of Ceylon and the People's Bank offer the loan to the eighth student group.
-
-There is no problem in the central bank. However, the Bank of Ceylon is delaying it.I had a personal discussion with the manager of the bank for the past two days ago. I have also discussed it with the new chairman of the bank.
-
-...
-
-[Data](articles/3e9a7284.json)
-
-[Extended Data](ext_articles/3e9a7284.ext.json)
 
 ---

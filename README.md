@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 23:54:14**
+As of **2024-06-22 00:06:38**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,514 (100.0%) of 31,515 articles have been extended.
+31,515 (100.0%) of 31,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### දකුණු අප්‍රිකාවට ජය
+### South Africa wins
 
 *2024-06-21 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198006) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපර් 08 වටයේ එංගලන්තය සහ දකුණු අප්‍රිකාව අතර තරගය අද (21) පැවැත්වුණි.
+South Africa triumphed over England in the Twenty20 World Cup match today, winning by 7 runs. The South Africans scored 163 runs in 6 overs before being bowled out, while England made 156 runs in their 20 overs.
 
-එම තරගය ලකුණු 7කින් ජයග්‍රහණය කිරීමට දකුණු අප්‍රිකාණු කණ්ඩායම සමත්විය.
+🟩
 
-එංගලන්ත නායක ජොස් බට්ලර් ගේ ආරාධනය අනූව පළමුව පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 163ක් රැස්කළේය.
+The match between the Super 08, England and South Africa, was held today (21) in the Twenty20 World Cup.
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ එංගලන්ත කණ්ඩායම පන්දු වාර 20 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 156යි.
+South African team won the match by 7 runs.
+
+South Africa scored 163 runs for the loss of six wickets in the loss of 6 overs.
+
+In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
 
 ◼️
 
 [Data](articles/6c266452.json)
+
+[Extended Data](ext_articles/6c266452.ext.json)
 
 ---
 

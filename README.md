@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 12:07:40**
+As of **2024-06-21 12:19:25**
 
 ## Newspaper Stats
 
-*Scraped **31,463** Articles*
+*Scraped **31,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,730
 economynextcom | 1,820
 dailyftlk | 1,927
-adalk | 2,750
+adalk | 2,751
 adaderanalk | 3,561
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,461 (100.0%) of 31,463 articles have been extended.
+31,463 (100.0%) of 31,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -134,25 +134,33 @@ During this meeting three milestones in Indo-Sri Lanka relations were achieved a
 
 [Data](articles/2a1edc88.json)
 
+[Extended Data](ext_articles/2a1edc88.ext.json)
+
 ---
 
-### நடுக்கடலில் மீனவர்களிடையே மோதல் : ஒருவர் பலி
+### Fishermen clash in Mediterranean: One killed
 
 *2024-06-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186619) · `ta`
 
-பேருவளையில் இருந்து இழுவை படகில் மீன்பிடிக்கச் சென்ற ஆறு மீனவர்களுக்கிடையில் நடுக்கடலில் ஏற்பட்ட மோதலில் ஒருவர் உயிரிழந்துள்ளார்.
+In a clash involving six fishermen off Beruwala, one, identified as Upul Chandana, was killed. Others suffered injuries. The police are investigating after receiving a complaint from the boat owner.
 
-மகொன, மாகல்கந்த பகுதியைச் சேர்ந்த எம்.கே. உபுல் சந்தன என்ற நபரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இந்த மோதல் சம்பவத்தில் ஏனைய மீனவர்களும் காயங்களுக்குள்ளாகி உள்ளதாக பேருவளை கடற்றொழில் பரிசோதகர் அலுவலக வட்டாரங்கள் தெரிவித்துள்ளன.
+One person was killed in a clash between six fishermen who were fishing in a drag boat from Beruwala.
 
-சம்பவம் தொடர்பில் படகின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+MK from Magona, Magalkanda area. Police said the man named Upul Chandana died.
 
-இதேவேளை, உயிரிழந்தவரின் சடலம் அதே படகில் பேருவளை மீன்பிடி துறைமுகத்திற்கு எடுத்துவரப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Other fishermen have been injured in the incident, sources in Beruwala Fisheries Inspector's office said.
+
+Police have launched investigations on the complaint lodged by the boat owner regarding the incident.
+
+Meanwhile, the body of the deceased has been brought to the Beruwala fishing harbor in the same boat.
 
 ◼️
 
 [Data](articles/2c1d8e12.json)
+
+[Extended Data](ext_articles/2c1d8e12.ext.json)
 
 ---
 
@@ -1676,6 +1684,10 @@ There is no problem in the central bank. However, the Bank of Ceylon is delaying
 
 *2024-06-20 19:58:04* · [`adalk`](https://www.ada.lk/breaking_news/පරීක්ෂාවකින්-තොරව-වෙළඳපොළට-නිකුත්-කළ-එන්නත්-අටක්-තවමත්-වෙළඳපොලේ/11-410349) · `si`
 
+Eight vaccines approved for use without thorough inspections pose risks. Attorney Neil St. Sirimanna represents petitioners against the National Drug Regulatory Authority, seeking compensation for damages. The case highlights concerns over vaccine safety and regulatory oversight.
+
+🟩
+
 An eight-use vaccines issued to the market without proper inspection revealed that there were still eight vaccines and the vaccine market.
 
 Attorney-at-Law Neil St. Sirimanna convened the petitions filed by the National Drug Regulatory Inspection after a period of three months after a checking for the people..Aebage Chairman Judge Nissanka Bandula Karunaratne was considered by the writ petition.
@@ -1867,6 +1879,22 @@ It was a deep discussion on strengthening the Indo -Sri Lanka relationship and s
 [Data](articles/0e29b040.json)
 
 [Extended Data](ext_articles/0e29b040.ext.json)
+
+---
+
+### තෙල් සංස්ථාවට රුපියල් මිලියන 3,416 අලාභයක්
+
+*2024-06-20 19:15:49* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-සංස්ථාවට-රුපියල්-මිලියන-3-416-අලාභයක්/11-410346) · `si`
+
+ශ්‍රී ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ අළෙවි අංශය විසින් පිරවුම්හල් හිමියන් වෙත අදාළ චක්‍රලේකය නිකුත් කිරීමට වසර 08ක කට වඩා කාලයක් හිතාමතා ප්‍රමාද කිරීම හේතුවෙන් 2014 - 2022 කාලය තුළ සංස්ථාවට රුපියල් මිලියන. 3,416 ක අලාභයක් සිදුකර ඇති බවත්, ඒ අනුව මහා පරිමාණ වංචාවක් සංස්ථාව වෙත සිදු කිරීම සම්බන්ධයෙන් අළෙවි අංශය වගකිව යුතු බවත් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ 2022 වර්ෂයේ විගණකාධිපති වාර්තාව හා වර්තමාන කාර්යසාධනය පිළිබඳ පරික්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගරු රෝහිත අබේගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (19) රැස්වූ අවස්ථාවේදී මේ පිළිබඳව සාකච්ඡා කරන කෙරිණි.
+
+සංස්ථාවේ නිලධාරීන් මෙවන් වංචා සිදු කිරීම පිළිබඳව කෝප් කමිටු සාමාජික මන්ත්‍රීවරුන් විසින් සිය අප්‍රසාදය පළ කරන ලදී. තවද, මෙම වංචා සඳහා සංස්ථාවේ අභ්‍යන්තර නිලධාරින් පැහැදිලිවම වගකිව යුතු බව පෙන්වා දුන් කාරක සභාව ඒ සම්බන්ධයෙන් සංස්ථාව ගෙන ඇති ක්‍රියාමාර්ගයන් පිළිබඳව ද පැමිණ සිටි නිලධාරීන්ගෙන් විමසන ලදී.
+
+...
+
+[Data](articles/d566576c.json)
 
 ---
 
@@ -2235,29 +2263,5 @@ Later, he was marked with march to Parliament and an official who had come to Pa
 [Data](articles/37520edb.json)
 
 [Extended Data](ext_articles/37520edb.ext.json)
-
----
-
-### One killed in fishermen who went with the son of the son
-
-*2024-06-20 17:13:39* · [`adalk`](https://www.ada.lk/breaking_news/සහන්-පුතා-එක්ක-මූහුදු-ගිය-ධීවරයින්-ගහගෙන-අයෙකු-මරුට-අනෙක්-අයට-තුවාල/11-410339) · `si`
-
-A fisherman was killed, and others were injured in a dispute at Beruwala Fisheries Harbor involving the son of Sahan. The victim, from Magalkanda, was retrieved 180 sea miles away. Investigations are ongoing based on a complaint lodged by the vessel owner.
-
-🟩
-
-According to Beruwala Fisheries Inspector Office, the other person had been killed and others were injured in a dispute between the Sahan son in Beruwala Fisheries Harbor.
-
-The victim is a resident of Magalkanda, Magalkanda, Majalkanda, Rockkaland Watta.
-
-The deceased is that the body of the deceased has been taken from the Beruwala Fisheries Harbor from 180 sea miles from the Beruwala Fisheries Harbor.
-
-It is said that investigations have been launched on a complaint by the owner of the vessel of the Beruwala Customs Road.
-
-◼️
-
-[Data](articles/613d2b65.json)
-
-[Extended Data](ext_articles/613d2b65.ext.json)
 
 ---

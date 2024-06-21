@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 21:06:31**
+As of **2024-06-21 21:19:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,504 (100.0%) of 31,505 articles have been extended.
+31,505 (100.0%) of 31,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ A batch of 23 senior Sri Lankan police officers are currently in New Delhi on a 
 ...
 
 [Data](articles/97562ec0.json)
+
+[Extended Data](ext_articles/97562ec0.ext.json)
 
 ---
 

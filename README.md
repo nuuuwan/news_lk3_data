@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 12:52:30**
+As of **2024-06-21 13:04:37**
 
 ## Newspaper Stats
 
-*Scraped **31,466** Articles*
+*Scraped **31,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 2,751
 adaderanalk | 3,562
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
-virakesarilk | 4,880
-adaderanasinhalalk | 5,117
+virakesarilk | 4,881
+adaderanasinhalalk | 5,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,466 (100.0%) of 31,466 articles have been extended.
+31,466 (100.0%) of 31,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### පොසොන් නිමිත්තෙන් රැඳවියන් පිරිසකට සමාව
+
+*2024-06-21 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197986) · `si`
+
+පොසොන් පොහොය නිමිත්තෙන් බන්ධනාගාර රැඳවූවන් පිරිසක් සඳහා විශේෂ රාජ්‍ය සමාවක් හිමිවී තිබේ.
+
+ජනාධිපතිවරයාට ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් ලැබී ඇති බලතල ප්‍රකාරව මෙම පියවර ගෙන ඇති බව බන්ධනාගාර දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ අනුව සුළු වැරදි සඳහා බන්ධනාගාරගත වූ රැඳවූවන් 289 දෙනෙකු සඳහා අද (21) දිනයේ විශේෂ රාජ්‍ය සමාව ලබාදී ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණී බී. දිසානායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/effdfbd3.json)
+
+---
+
+### யாழில் தீக்காயங்களுடன் சடலம் மீட்பு
+
+*2024-06-21 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186632) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி கிழக்கு, வத்திராயன் பகுதியைச் சேர்ந்த குடும்பஸ்தர் ஒருவர் தீக்காயங்களுடன், பொதுமக்களால் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+குறித்த நபர் நேற்று வியாழக்கிழமை (20) இரவு வத்திராயன் பகுதியில் உள்ள தனது வீட்டில் தனியாக உறங்கியுள்ளார்.
+
+இதன்போது, தீக்காயங்களுக்குள்ளான நிலையில் வீட்டில் இருந்து வெளியே ஓடிவந்த வேளை பொதுமக்களால் மீட்கப்பட்டு மருதங்கேணி வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+சம்பவத்திற்கான காரணம் தெரியவராத போதும் முன்பகை காரணமாக பெற்றோல் குண்டு வீசி தாக்குதல் நடத்தப்பட்டு இருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/17c26a22.json)
+
+---
 
 ### 289 prisoners pardoned for Poson Poya
 
@@ -2229,51 +2263,5 @@ Police have arrested three people on suspicion that alcohol was sold.
 [Data](articles/e640d8ac.json)
 
 [Extended Data](ext_articles/e640d8ac.ext.json)
-
----
-
-### Indian Foreign Minister Meets President
-
-*2024-06-20 18:16:14* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-විදේශ-ඇමති-ජනපති-හමු-වෙයි/11-410340) · `si`
-
-Indian Foreign Minister Dr. S. Jayasankar met with Sri Lankan President Ranil Wickremesinghe in Colombo, marking her first visit post India's new government formation. They discussed bilateral relations, including development projects and housing initiatives, and unveiled a digital plaque for 106 houses under the Indian Housing Project.
-
-🟩
-
-Indian External Affairs Minister Dr. S. Summary. The official meeting between Jayasankur and President Ranil Wickremesinghe was held today (20th) at the Fort.
-
-After the appointment of the new government in India, the Indian Foreign Minister has joined the official visit to Sri Lanka by marking the first visit to Sri Lanka.
-
-Indian Foreign Minister Dr. S. Sahana arrived at President's House. Jayasankara was welcomed by Senior Presidential Advisor and Presidential Staff Head of the Presidential Staff.
-
-President Ranil Wickremesinghe and the Indian Foreign Minister had commenced the bilateral talks to review the development projects implemented between the two countries.
-
-Meanwhile, President Ranil Wickremesinghe and Indian Foreign Minister Dr. S. S. Sannil Wickremesinghe and Indian External Affairs Minister Dr. S. Sahana 3 projects. Mr. Jayasankara was held with the participation.
-
-...
-
-[Data](articles/399c2cad.json)
-
-[Extended Data](ext_articles/399c2cad.ext.json)
-
----
-
-### Heatwave kills nearly 200 homeless people in India’s capital, group says
-
-*2024-06-20 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99995/heatwave-kills-nearly-200-homeless-people-in-indias-capital-group-says) · `en`
-
-The heatwave gripping northern India has killed nearly 200 homeless people in New Delhi over the last week, a group dedicated to helping the homeless said on Thursday, as the country grapples with record high summer temperatures.
-
-As many as 52 bodies were brought to hospitals in the past two days, the Times of India reported on Thursday, adding that most of them were poor people who lived and worked in the open.
-
-A total of 192 homeless people died in New Delhi between June 11 and June 19, according to government figures shared by non-profit organisation Centre for Holistic Development, higher than in previous years.
-
-“The poorest bear the cost of such climate change. Most of these people live below flyovers and out in the open and have no protection against the heat. These are mostly heatwave deaths,” Sunil Kumar Aledia, who runs CHD, told Reuters.
-
-...
-
-[Data](articles/fdc9cbea.json)
-
-[Extended Data](ext_articles/fdc9cbea.ext.json)
 
 ---

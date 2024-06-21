@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 07:46:40**
+As of **2024-06-21 08:12:28**
 
 ## Newspaper Stats
 
-*Scraped **31,433** Articles*
+*Scraped **31,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 3,555
 tamilmirrorlk | 3,692
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,108
+adaderanasinhalalk | 5,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,433 (100.0%) of 31,433 articles have been extended.
+31,435 (100.0%) of 31,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### A target of 141 runs in Bangladesh
+
+*2024-06-21 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197977) · `si`
+
+In the T20 World Cup, Bangladesh made 140/8 against Australia, setting them a target of 141 to win.
+
+🟩
+
+Bangladesh scored 140 runs for the loss of 08 wickets at the end of the eight wickets in the T20 World Cup.
+
+Accordingly, Australia's target was 141 runs for the winning match.
+
+◼️
+
+[Data](articles/e322b6bb.json)
+
+[Extended Data](ext_articles/e322b6bb.ext.json)
+
+---
+
+### The Greater Poson Poya - Derachananda Poson Worship begins
+
+*2024-06-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197976) · `si`
+
+Today marks the significant Poson Poya Day, celebrated in honor of the Buddha's first visit to Sri Lanka. The event includes various rituals such as the Derachananda Poson Worship, living Bodhi Pooja, and the Janatha Pilgrimage. President Ranil Wickremesinghe emphasized the importance of adopting the principles of Buddhism for development and peace, while Opposition Leader Sajith Premadasa highlighted the need to establish the teachings of the Supreme Buddha nationwide. The day also features the sacrifice at Ruwanwelisaya in Anuradhapura and the opening of the pilgrimage site at Nittambuwa from 6:30 am.
+
+🟩
+
+The Greatest Poson Poya Day has been played today by the Sri Lankan rice.
+
+It is in Buddhist history that the Pullchiatha, the Pooneryan and the Porcel Buddhist Buddhist Buddha, with the central Hathara, the Hathiranthra and the Sumana Tunnel is the Buddha's pure.
+
+The Poson Poya Day is today when he heard the King of Devanam Piyatissa.
+
+Meanwhile, the President has issued a pockethoo day message, the President is asked to build a developmental, social and economic issues that have been established by Mihindu.
+
+President Ranil Wickremesinghe further says that the Miwil Wickremesinghe has said that our example must be made a model to the adoption of the Chullable Stuppathi Sutta.
+
+Meanwhile, Opposition Leader Sajith Premadasa pointed out a Poson Poyaway message, said the Supreme Buddha's preached should be established in the country.
+
+The "Derakandana" will bring us to the sacrifice of Ruwanweli Maha Pharaoh in Anuradhapura today.
+
+...
+
+[Data](articles/e595a20e.json)
+
+[Extended Data](ext_articles/e595a20e.ext.json)
+
+---
 
 ### Bangladesh - Australia match begins
 
@@ -2229,55 +2279,5 @@ The number of casualties in Kallakurichi district has risen to thirty -five. It 
 [Data](articles/e1060c66.json)
 
 [Extended Data](ext_articles/e1060c66.ext.json)
-
----
-
-### Otto ran without driver: Four people hurt
-
-*2024-06-20 15:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-இன்றி-ஓடிய-ஓட்டோ-நால்வருக்கு-காயம்/76-339181) · `ta`
-
-In a tragic accident, four women were injured when a three-wheeler ran unattended into a 30-foot ditch on the Mahiyanganaya main road in Badulla. The driver had parked the vehicle near a shop before it rolled forward and plunged into the ditch. Two of the victims were en route to a meeting. All were taken to the Meegahagivula District Hospital.
-
-🟩
-
-Four women, including three women, were injured in a 30 -foot ditch and were admitted to the Meegahagivula District Hospital, police said.
-
-The event took place this afternoon at the Meegahagivula area of ​​Mahiyanganaya main road in Badulla.
-
-The driver of the three -wheeler, who was traveling from Meegahagivula to Polgaharawa, parked the three -wheeler near a shop and got down.
-
-At the same time, the three -wheeler went fifty feet in front of the 30 -foot ditch and crashed.
-
-Police say two persons who were on their way home were among the injured to attend the meeting held on Thursday (20) in Meghagivula.
-
-◼️
-
-[Data](articles/f76551f3.json)
-
-[Extended Data](ext_articles/f76551f3.ext.json)
-
----
-
-### Sri Lanka, India launch maritime rescue coordination centre
-
-*2024-06-20 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-launch-maritime-rescue-coordination-centre-168921/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe and visiting Indian External Affairs Minister S Jaishankar marked the formal commissioning of a Maritime Rescue Coordination Centre in the island nation on Thursday.
-
-The MRCC was constructed with a 6 million dollar grant from India.
-
-It includes a centre at Navy headquarters in Colombo, a sub-centre in Hambantota and unmanned installations at Galle, Arugambay, Batticaloa, Trincomalee, Kallarawa, Point Pedro and Mollikulam.
-
-Wickremesinghe and Jaishankar also launched, virtually, 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project. 24 houses in each model village were handed over.
-
-Jaishankar called on President Ranil Wickremesinghe at the President’s House earlier in the day for a one-on-one meeting, the president’s media division said.
-
-Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, ahead of polls
-
-...
-
-[Data](articles/e537dda0.json)
-
-[Extended Data](ext_articles/e537dda0.ext.json)
 
 ---

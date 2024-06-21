@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 05:59:54**
+As of **2024-06-21 07:00:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,417 (100.0%) of 31,430 articles have been extended.
+31,420 (100.0%) of 31,430 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ SLT-MOBITEL understands that the home phone is often a shared family resource. A
 
 [Data](articles/67528804.json)
 
+[Extended Data](ext_articles/67528804.ext.json)
+
 ---
 
 ### Remembering Mervyn de Silva on his 25th Death Anniversary
@@ -58,6 +60,8 @@ I make no apologies for repeating what I have written before on my editor, my gu
 
 [Data](articles/a78d259d.json)
 
+[Extended Data](ext_articles/a78d259d.ext.json)
+
 ---
 
 ### Rahul Gandhi – Next PM of India?
@@ -71,6 +75,8 @@ Suddenly, President Emmanuel Macron has dissolved parliament and declared that F
 ...
 
 [Data](articles/e66fc81e.json)
+
+[Extended Data](ext_articles/e66fc81e.ext.json)
 
 ---
 

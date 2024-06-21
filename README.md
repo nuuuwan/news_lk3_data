@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 10:34:47**
+As of **2024-06-21 10:53:13**
 
 ## Newspaper Stats
 
-*Scraped **31,451** Articles*
+*Scraped **31,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,66 @@ adalk | 2,748
 adaderanalk | 3,559
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
-virakesarilk | 4,876
+virakesarilk | 4,878
 adaderanasinhalalk | 5,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,449 (100.0%) of 31,451 articles have been extended.
+31,451 (100.0%) of 31,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### ඔස්ට්‍රේලියාවට ජය
+### Australia wins
 
 *2024-06-21 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197983) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඔස්ට්‍රේලියාව අතර අද (21) පැවැති තරගය DLS method අනුව ලකුණු 28කින් ජයගැනීමට ඔස්ට්‍රේලියාව සමත්විය.
+Australia triumphed over Bangladesh in a World Cup match, securing victory with 28 runs. Bangladesh made 140 runs losing 8 wickets. Australia achieved the target of 141 runs, starting strongly despite losing early wickets. Pat Cummins shone as the second bowler, while Brett Lee represented Australia in this T20 international contest.
 
-ඔස්ට්‍රේලියාවේ ආරාධනයෙන් තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 140ක් රැස් කළේය.
+🟩
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඔස්ට්‍රේලියාවට හිමිවූ ඉලක්කය ලකුණු 141කි.
+Australia wins 28 runs in Bangladesh and Australia in Bangladesh and Australia in the World Cup.
 
-පිළිතුරු ඉනිම ඇරඹූ ඔස්ට්‍රේලියාව පන්දුවාර 11යි පන්දු 02ක් අවසානයේ කඩුලු 02ක් දැවී ලකුණු 100ක් ලබා සිටියදී තරගයට වර්ෂාවෙන් බාධා එල්ල වුණි.
+Bangladesh scored 140 runs for the loss of 08 wickets at the end of the eight wickets.
 
-මේ අතර මෙම තරගයේදී ඔස්ට්‍රේලියාව වෙනුවෙන් විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී පිට පිට කඩුලු ත්‍රිත්වයක් (හැට්ට්‍රික්) ලබාගත් දෙවැනි පන්දු යවන්නා බවට පැට් කමින්ස් අද (21) පත්විය.
+Accordingly, Australia's target was 141 runs for the winning match.
 
-මීට පෙර ඔස්ට්‍රේලියාව වෙනුවෙන් T20 ජාත්‍යන්තර තරගයකදී කඩුලු ත්‍රිත්වයක් දවාගෙන සිටියේ බ්‍රෙට් ලී ය.
+In reply, Australia started the race at the end of 100 wickets at the end of 11 overs.
+
+Meanwhile, PAT KUMS has been attached to the second bowler to Australia in the Twenty Twenty Twenty Twenty Twenty Twenty20.
+
+In a T20 international competition, Brett wood was held for Australia.
 
 ◼️
 
 [Data](articles/f4d921c8.json)
 
+[Extended Data](ext_articles/f4d921c8.ext.json)
+
 ---
 
-### විදුලි රැහැන් කණුවක් ඇඟට වැටී පුද්ගලයෙක් මරුට
+### Man dies after falling into a power line
 
 *2024-06-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197982) · `si`
 
-ඊයේ (20) දහවල් මෙම අනතුර සිදුවී ඇත්තේ හඟුරන්කෙත පොලිස් වසමේ මැදගම ප්‍රදේශයේදී ය.
+A 23-year-old man died after falling into a power line in the Medagama area, Hanguranketha. The incident happened when he was working as a power staker near a lorry carrying a ventilator for the Sri Lanka Electricity Board.
 
-ශ්‍රී ලංකා විදුලිබල මණ්ඩලයට අයත් ලොරි රථයකින් විදුලි රැහැන් කණු රැගෙනවිත් ලොරි රථයෙන් ඉවතට ගනිමින් සිටියදී විදුලි රැහැන් කණුවක් සේවකයෙකුගේ ඇඟ මතට වැටීමෙන් මෙම මරණය සිදුවී ඇත.
+🟩
 
-මියගොස් ඇත්තේ 23 හැවිරිදි අඹගමුව උඩබුලත්ගම පදිංචි කොන්ත්‍රාත් පදනම මත විදුලිබල මණ්ඩලයේ සේවය කළ පුද්ගලයෙකි.
+The accident had taken place in the Medagama area in Hanguranketha yesterday afternoon.
+
+The death has occurred when a power staker was a ventilator at the lorry with a lorry from a lorry belonging to the Sri Lanka Electricity Board.
+
+The deceased has been identified as a 23 year old man who served on contract basis at Udabulathgama, a resident basis.
 
 ◼️
 
 [Data](articles/8d371fd5.json)
+
+[Extended Data](ext_articles/8d371fd5.ext.json)
 
 ---
 
@@ -89,6 +101,22 @@ The Committee directed the Corporation to submit a detailed report within seven 
 [Data](articles/a7dd8540.json)
 
 [Extended Data](ext_articles/a7dd8540.ext.json)
+
+---
+
+### பாதாள உலக கும்பலைச் சேர்ந்த ஒருவர் வெளிநாட்டு துப்பாக்கியுடன் கைது!
+
+*2024-06-21 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186615) · `ta`
+
+தென் மாகாணத்தில் இரண்டு கொலைகளை செய்து, மேலும் இரண்டு கொலைகளை செய்வதற்கு பணம் பெற்றுக்கொள்ள முயற்சித்த பாதாள உலக கும்பலைச் சேர்ந்த சந்தேக நபரொருவர் நேற்று (20) கைது செய்யப்பட்டுள்ளதாக குற்றப்புலனாய்வுப் பிரிவு தெரிவித்துள்ளது.
+
+குற்றப்புலனாய்வுப்  பிரிவின் அதிகாரி ஒருவருக்குக்  கிடைத்த தகவலின் அடிப்படையில் பொலிஸ் குழுவினால் பல்வேறு பிரதேசங்களில் மேற்கொண்ட சுற்றிவளைப்பு நடவடிக்கைகளின் போது சந்தேக நபர் அம்பலாங்கொடை, வத்துகெதர பகுதியில் உள்ள வீடொன்றில் வைத்து கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சந்தேகநபரிடமிருந்து வெளிநாட்டில் தயாரிக்கப்பட்ட  அனுமதி பத்திரம் அற்ற ரிவோல்வர் வகை துப்பாக்கி ,12 தோட்டாக்கள் மற்றும் 10 கிராம் 100 மில்லி கிராம் ஹெரோயின் போதைப்பொருள்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/d2f9a3f3.json)
 
 ---
 
@@ -145,6 +173,26 @@ The Central Bank and Labor Office have also been instructed to conduct a joint m
 [Data](articles/c46bc440.json)
 
 [Extended Data](ext_articles/c46bc440.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலின் பின்னர் எந்த அரசாங்கம் பொறுப்பேற்றாலும் இந்தியாவின் நிதி உதவியுடனான திட்டங்கள் தொடரவேண்டும் - இலங்கை சந்திப்புகளில் வலியுறுத்தினார் ஜெய்சங்கர்
+
+*2024-06-21 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186614) · `ta`
+
+இலங்கையில் தேர்தல்களின் பின்னர் புதிய அரசாங்கம் பொறுப்பை ஏற்றாலும் இந்தியாவின் நிதி உதவியுடன் முன்னெடுக்கப்படும் திட்டங்கள் தடையின்றி முன்னெடுக்கப்படவேண்டும் என இந்திய வெளிவிவகார அமைச்சர் எஸ் ஜெய்சங்கர் வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கை தேர்தல்களை எதிர்கொண்டுள்ள நிலையில் நேற்றைய தனது இலங்கை விஜயத்தின் போது மீள்சக்தி திட்டங்கள் போன்ற இந்தியாவின் நிதி உதவியுடன் முன்னெடுக்கப்படும் அபிவிருத்தி திட்டங்கள் தடையின்றி முன்னெடுக்கப்படுவது அவசியம் என்பதை ஜெய்சங்கர் வலியுறுத்தியுள்ளார்.
+
+ஜெய்சங்கர் அவரது சந்திப்புகளின் போது சூரிய சக்தி திட்டங்கள் இந்தியா இலங்கைக்கு இடையே முன்மொழியப்பட்ட பெட்ரோலிய குழாய் திட்டம் போன்றவை குறித்து விசேடமாக குறிப்பிட்டுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலின் பின்னர் எந்த அரசாங்கம் பொறுப்பேற்றாலும் இந்தியாவின் நிதி உதவியுடனான திட்டங்கள் தொடரவேண்டும் என ஜெய்சங்கர் வலியுறுத்தியுள்ளார்.
+
+மீண்டும் இந்திய வெளிவிவகார அமைச்சராக பதவியேற்ற பின்னர் முதல் விஜயத்தை இலங்கைக்கு மேற்கொண்டுள்ளமை குறித்து மகிழ்ச்சியடைவதாக ஜெய்சங்கர் எதிர்கட்சி தலைவரை சந்தித்தவேளை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/59885c6a.json)
 
 ---
 
@@ -2211,61 +2259,5 @@ Declaration of Narraha Edirisuriya on April 1, 2023, was released on the Interne
 [Data](articles/8e9e28b1.json)
 
 [Extended Data](ext_articles/8e9e28b1.ext.json)
-
----
-
-### Shipping industry groups call for action after Houthis sink second vessel
-
-*2024-06-20 16:18:00* · [`islandlk`](http://island.lk/shipping-industry-groups-call-for-action-after-houthis-sink-second-vessel/) · `en`
-
-Leading shipping industry groups have called for action to halt Houthi attacks on vessels in the Red Sea after the sinking of a second ship.
-
-The organisations condemned the incidents as a violation of freedom of navigation and said in a joint statement on Wednesday that they target “innocent seafarers”.
-
-“This is an unacceptable situation, and these attacks must stop now,” read the statement from groups including the World Shipping Council, European Community Shipowners’ Associations and Asian Shipowners’ Association.
-
-“We call for States with influence in the region to safeguard our innocent seafarers and for the swift de-escalation of the situation in the Red Sea.”
-
-Yemen’s Houthi armed group has been launching attacks on shipping lanes in the region since November in what it says is an effort to support Palestinians and pressure Israel to end its war on Gaza.
-
-In response, the United States and its allies have attacked Houthi targets in Yemen since January.
-
-...
-
-[Data](articles/44d0283a.json)
-
-[Extended Data](ext_articles/44d0283a.ext.json)
-
----
-
-### Question at the Court of Appeal
-
-*2024-06-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197959) · `si`
-
-The Sri Lanka Pharmaceutical Authority faces scrutiny from the Court of Appeal over allegations that the National Drug Regulatory Authority approved drugs without proper investigation, potentially endangering public health. Petitioners, including social activists, argue for a mandatory six-month review period before drug registration. The case will proceed to a hearing on the 23rd of next month, where the court will decide on the petitioners' request for a deportation order to release a vaccine to the market.
-
-🟩
-
-The Court of Appeal was set to the Sri Lanka Pharmaceutical Authority for further examination without submission to a formal inspection.
-
-Praneee, two social activists, N. Warnakulasuriya and DaysShaman. The petition was presented by the Buddha.
-
-The petition was called before the Court of Appeal, Judge Nissanka Bandula Karunaratne today (21).
-
-The Attorney at the petitioner said the petition was further produced and the petition would be promoted to the hearing.
-
-But the lawyers representing the respondents stated that no complaints have been received about the drug.
-
-The court ordered further hearing on the petitions will be called on the 23rd of next month.
-
-The petitioners claim that before registering a drug to the market, it will be subject to a six-month investigation period.
-
-But the petitioners showed that the National Drug Regulatory Authority could be harmful to public health by registering eight varieties used by the respondents and anesthetic.
-
-...
-
-[Data](articles/dd664aea.json)
-
-[Extended Data](ext_articles/dd664aea.ext.json)
 
 ---

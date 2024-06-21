@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 19:04:16**
+As of **2024-06-21 19:23:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,495 (100.0%) of 31,498 articles have been extended.
+31,498 (100.0%) of 31,498 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,53 @@ Croatia’s HEP power utility said that the outage in parts of the country had b
 
 [Data](articles/9f7d6991.json)
 
+[Extended Data](ext_articles/9f7d6991.ext.json)
+
 ---
 
-### සියලුදෙනා සහාය නොදැක්වුවහොත් රට යළි අර්බුදයකට පත්වන බව ජනපති කියයි
+### President will resume the country if everyone is supported
 
 *2024-06-21 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197999) · `si`
 
-නව ආර්ථික පරිවර්තනයක් තුළින් ශ්‍රී ලංකාව ගොඩනැගීමට රජය ඉදිරිපත් කර ඇති වැඩපිළිවෙළ සමඟ සියලුදෙනා එක්විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe urges unity and support for the government's economic recovery plan for Sri Lanka, emphasizing the importance of learning from past mistakes and addressing current challenges like drug shortages, fuel, and fertilizer issues. He highlights the role of private pharmacists during crises and calls for collective effort to navigate financial difficulties and secure foreign exchange for essential imports. The President also mentions discussions with the IMF and potential agreements with China and other entities to stabilize the economy and move towards a new economic path.
 
-ඖෂධ, ඉන්ධන සහ පොහොර සපයා ගත නොහැකිව දුක්විඳී අතීතය කිසිවෙකු අමතක නොකළ යුතු අතර මතු පරපුරට එවන් අඳුරු අත්දැකීමකට ඉඩ නොතැබිය යුතු බව ජනාධිපතිවරයා සඳහන් කරයි.
+🟩
 
-සමස්ත ලංකා පෞද්ගලික ඖෂධ ශාලා හිමියන්ගේ සංගමයේ 09 වන සම්මේලනයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව කියා සිටියේය.
+President Ranil Wickremesinghe says that all should be joined by the government's program to build Sri Lanka through a new economic translation.
+
+The President said that the past should not be forgotten and the future should not be allowed to suffer drugs, fuel and fertilizers.
+
+President Ranil Wickremesinghe was speaking at the 9th conference of the All Ceylon Private Pharmacents Association.
 
 ...
 
 [Data](articles/fd4a9682.json)
 
+[Extended Data](ext_articles/fd4a9682.ext.json)
+
 ---
 
-### சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த இலங்கை உறுதிபூண்டுள்ளது - ஜனாதிபதி
+### Sri Lanka is committed to improve the environmental tourism - President
 
 *2024-06-21 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186657) · `ta`
 
-சதுப்பு நிலங்களைப் பாதுகாப்பதில் கவனம் செலுத்துவதன் மூலம் சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த இலங்கை அர்ப்பணிப்புடன் இருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Sri Lanka aims to enhance its environmental tourism by focusing on swamp conservation, as highlighted by President Ranil Wickremesinghe. He emphasized the importance of domestic funding for climate and environmental initiatives rather than relying on foreign aid. The country is planning to transform over 1000 acres of swamp in the Southern Province into a tourist destination, alongside creating a Tourist Zone near Horton Place. Additionally, Sri Lanka is considering establishing Asia's first international climate change university to promote climate change education and research.
 
-காலநிலை மாற்றத்தை எதிர்கொள்வது மற்றும் சுற்றாடல் பாதுகாப்பு ஆகியவற்றுக்காக வெளிநாட்டு நிதிக்காக காத்திருப்பதில் பயனில்லை என சுட்டிக்காட்டிய ஜனாதிபதி, வெப்பமண்டல நாடுகள் சுற்றாடல் தொடர்பான வர்த்தகத் திட்டங்களில் கவனம் செலுத்தி தமக்குத் தேவையான நிதியை பெற்றுக்கொள்ள செயற்பட வேண்டும் என்றும் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (20) பத்தரமுல்லை வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்ற ‘WLI Asia Oceania Conference 2024’ நிறைவு விழாவில் கலந்தகொண்டு இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said Sri Lanka is committed to improving the environmental tourism industry by focusing on the protection of swamps.
 
-சதுப்பு நிலங்களின் பாதுகாப்பு மற்றும் நிலைபேறான முகாமைத்துவம் மற்றும் ஒத்துழைப்பை மேம்படுத்தும் நோக்கில், வீடமைப்பு அமைச்சின் கீழ் உள்ள இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தினால் முதன்முறையாக ஏற்பாடு செய்யப்பட்ட இந்த மாநாடு ஜூன் 17 முதல் 21 வரை பத்தரமுல்லை தியசரு பூங்காவில் நடைபெற்றது.
+The President pointed out that it was not worth the foreign fund for foreign funds for climate change and environmental protection, adding that the tropical countries should focus on environmental trade projects and get the necessary funds.
+
+President Ranil Wickremesinghe said this at the closing ceremony of the WLI Asia Asia Asia Oceania Conference 2024 at the Voters Age Hotel at Battaramulla yesterday (20).
+
+The conference, organized by the Sri Lanka Land Development Corporation under the Ministry of Housing, was held at the Tiyasaru Park, Pattaramulla from June 17 to 21 to improve the safety and sustainable management and cooperation of swamps.
 
 ...
 
 [Data](articles/7a578baf.json)
+
+[Extended Data](ext_articles/7a578baf.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 10:19:23**
+As of **2024-06-21 10:34:47**
 
 ## Newspaper Stats
 
-*Scraped **31,449** Articles*
+*Scraped **31,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 3,559
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,114
+adaderanasinhalalk | 5,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,449 (100.0%) of 31,449 articles have been extended.
+31,449 (100.0%) of 31,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### ඔස්ට්‍රේලියාවට ජය
+
+*2024-06-21 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197983) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඔස්ට්‍රේලියාව අතර අද (21) පැවැති තරගය DLS method අනුව ලකුණු 28කින් ජයගැනීමට ඔස්ට්‍රේලියාව සමත්විය.
+
+ඔස්ට්‍රේලියාවේ ආරාධනයෙන් තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 140ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඔස්ට්‍රේලියාවට හිමිවූ ඉලක්කය ලකුණු 141කි.
+
+පිළිතුරු ඉනිම ඇරඹූ ඔස්ට්‍රේලියාව පන්දුවාර 11යි පන්දු 02ක් අවසානයේ කඩුලු 02ක් දැවී ලකුණු 100ක් ලබා සිටියදී තරගයට වර්ෂාවෙන් බාධා එල්ල වුණි.
+
+මේ අතර මෙම තරගයේදී ඔස්ට්‍රේලියාව වෙනුවෙන් විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී පිට පිට කඩුලු ත්‍රිත්වයක් (හැට්ට්‍රික්) ලබාගත් දෙවැනි පන්දු යවන්නා බවට පැට් කමින්ස් අද (21) පත්විය.
+
+මීට පෙර ඔස්ට්‍රේලියාව වෙනුවෙන් T20 ජාත්‍යන්තර තරගයකදී කඩුලු ත්‍රිත්වයක් දවාගෙන සිටියේ බ්‍රෙට් ලී ය.
+
+◼️
+
+[Data](articles/f4d921c8.json)
+
+---
+
+### විදුලි රැහැන් කණුවක් ඇඟට වැටී පුද්ගලයෙක් මරුට
+
+*2024-06-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197982) · `si`
+
+ඊයේ (20) දහවල් මෙම අනතුර සිදුවී ඇත්තේ හඟුරන්කෙත පොලිස් වසමේ මැදගම ප්‍රදේශයේදී ය.
+
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලයට අයත් ලොරි රථයකින් විදුලි රැහැන් කණු රැගෙනවිත් ලොරි රථයෙන් ඉවතට ගනිමින් සිටියදී විදුලි රැහැන් කණුවක් සේවකයෙකුගේ ඇඟ මතට වැටීමෙන් මෙම මරණය සිදුවී ඇත.
+
+මියගොස් ඇත්තේ 23 හැවිරිදි අඹගමුව උඩබුලත්ගම පදිංචි කොන්ත්‍රාත් පදනම මත විදුලිබල මණ්ඩලයේ සේවය කළ පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/8d371fd5.json)
+
+---
 
 ### COPE uncovers major irregularities in Ceylon Petroleum Corporation
 
@@ -2229,51 +2267,5 @@ But the petitioners showed that the National Drug Regulatory Authority could be 
 [Data](articles/dd664aea.json)
 
 [Extended Data](ext_articles/dd664aea.ext.json)
-
----
-
-### Two children killed in Pakistan laptops
-
-*2024-06-20 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197958) · `si`
-
-In Pakistan, two children aged 3 and 9 died in a house fire, while another child was injured. The cause was overheating from 80 laptop and phone batteries stored there.
-
-🟩
-
-The news of two children was reported from Pakistan in an accident that erupted in a house in a house.
-
-The media reports that two women, including two women and the ages of 3 and 9, were hospitalized.
-
-Foreign media reports that a 6-year-old girl and 9-year-old boy died in the accident.
-
-Eighty batteries in laptops and cell phones can be burned and at times
-
-◼️
-
-[Data](articles/4ea1e07a.json)
-
-[Extended Data](ext_articles/4ea1e07a.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar meets Prime Minister Dinesh Gunawardena
-
-*2024-06-20 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186575) · `ta`
-
-Indian Foreign Minister S. Jaishankar met Sri Lanka's PM Dinesh Gunawardena, reaffirming India's support through development initiatives and projects aimed at fulfilling Sri Lanka's aspirations.
-
-🟩
-
-Indian External Affairs Minister S.. Jaishankar met Prime Minister Dinesh Gunawardena on Thursday (20).
-
-India's strong support was re -confirmed through the initiatives for development and contacts.
-
-We hope that the aspirations of the Sri Lankan people will be fulfilled through our development assistance and personality development projects.
-
-◼️
-
-[Data](articles/a58e91e4.json)
-
-[Extended Data](ext_articles/a58e91e4.ext.json)
 
 ---

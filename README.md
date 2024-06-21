@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 19:23:32**
+As of **2024-06-21 19:34:55**
 
 ## Newspaper Stats
 
-*Scraped **31,498** Articles*
+*Scraped **31,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,566
+adaderanalk | 3,567
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,889
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,498 (100.0%) of 31,498 articles have been extended.
+31,498 (100.0%) of 31,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Govt. to rebuild or compensate houses damaged by bad weather - Sagala
+
+*2024-06-21 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100011/govt-to-rebuild-or-compensate-houses-damaged-by-bad-weather-sagala) · `en`
+
+Senior Advisor to the President on National Security and Chief of Staff to the President Sagala Ratnayaka, announced that President Ranil Wickremesinghe has directed take the necessary measures to either rebuild or provide compensation, subject to a maximum limit, for houses that were completely damaged by the recent adverse weather conditions.
+
+Sagala Ratnayaka also stated that measures will be implemented to assess the damage and provide compensation, subject to a specified maximum limit, for the repair of partially damaged houses.
+
+Ratnayaka shared these views during a discussion held at the Presidential Secretariat yesterday (20), concerning the rebuilding of houses fully and partially damaged by recent adverse weather conditions.
+
+...
+
+[Data](articles/72978035.json)
+
+---
 
 ### Major power cut hits Bosnia, Albania, Montenegro and Croatia’s coast
 
@@ -2285,25 +2301,5 @@ The main discussion of this project was held at the Galle District Secretariat, 
 [Data](articles/5c060267.json)
 
 [Extended Data](ext_articles/5c060267.ext.json)
-
----
-
-### Take action regarding the lack of interest -free loan action for higher education - Leader of the Opposition
-
-*2024-06-20 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186559) · `ta`
-
-The Leader of the Opposition criticizes the government for delaying the release of a gazette on interest-free loans for higher education through private universities, affecting students' registrations. Despite the Education Minister's directive, state banks haven't acted swiftly. The opposition urges immediate action to prevent further delays impacting students' futures.
-
-🟩
-
-Gazette on getting titles through private universities under the interest free education credit facility for students who are not eligible for state universities have not yet been released.. Even though the Minister of Education has issued a directive, state banks are still in the process. Opposition leader Sajith Premadasa said the government should take immediate action in this regard.
-
-For the academic years of 2020, 2021 and 2022, the Gazette of Private Universities under the Interest Free Education Credit Scheme for Students who are not eligible for state universities have not yet been released.. As it was reported to be released last December, there was a delay in publishing and students who were looking for a degree under interest -free loan were unable to register for the degree.
-
-...
-
-[Data](articles/bf684941.json)
-
-[Extended Data](ext_articles/bf684941.ext.json)
 
 ---

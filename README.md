@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 17:04:40**
+As of **2024-06-21 17:19:09**
 
 ## Newspaper Stats
 
-*Scraped **31,490** Articles*
+*Scraped **31,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
 adaderanalk | 3,564
-tamilmirrorlk | 3,698
+tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,887
 adaderanasinhalalk | 5,125
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,490 (100.0%) of 31,490 articles have been extended.
+31,490 (100.0%) of 31,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### தங்க பிஸ்கட்டுகளுடன் விமான நிலைய பாதுகாப்பு அதிகாரி கைது
+
+*2024-06-21 16:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகளுடன்-விமான-நிலைய-பாதுகாப்பு-அதிகாரி-கைது/175-339221) · `ta`
+
+சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டுவரப்பட்ட சுமார் 4 கோடியே 80 இலட்சம் ரூபா பெறுமதியான தங்க பிஸ்கட்டுகளை எடுத்துச் செல்ல முயன்ற விமான நிலைய பாதுகாப்பு அதிகாரி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இன்று (21) காலை விமானத்தில் வந்த நபர் ஒருவர் 18 தங்க பிஸ்கட்டுகளை புலம்பெயர்ந்த விமான பயணிகள் முனையத்தின் மலசலகூடத்தில் வைத்து குறித்த அதிகாரியிடம் கொடுத்துள்ள நிலையில், அவர் அவற்றை தனது ஆடையில் மறைத்துக்கொண்டு  கட்டுநாயக்க விமான நிலையத்தில் இருந்து வெளியேற முயன்றதாக குறிப்பிடப்படுகின்றது.
+
+இதன்போது, சுங்க போதைப்பொருள் கட்டுப்பாட்டு பிரிவின் அதிகாரிகளினால் அவர் கைது செய்யப்பட்டுள்ளதுடன், சந்தேகநபரிடம் இருந்து மீட்கப்பட்ட தங்க பிஸ்கட்டுகள் 02 கிலோ 86 கிராம் எடையுடையது என தெரிவிக்கப்பட்டுள்ளது.
+
+கைது செய்யப்பட்டவர் 15 வருடங்களாக விமான நிலைய பாதுகாப்பு உத்தியோகத்தராக கடமையாற்றிய 40 வயதுடைய ஹக்மன பிரதேசத்தை சேர்ந்தவர் என தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/7cd88726.json)
+
+---
 
 ### Sri Lanka women win
 
@@ -2283,29 +2301,5 @@ There is no problem in the central bank. However, the Bank of Ceylon is delaying
 [Data](articles/3e9a7284.json)
 
 [Extended Data](ext_articles/3e9a7284.ext.json)
-
----
-
-### Eight vaccines issued in the market still in the market without checking
-
-*2024-06-20 19:58:04* · [`adalk`](https://www.ada.lk/breaking_news/පරීක්ෂාවකින්-තොරව-වෙළඳපොළට-නිකුත්-කළ-එන්නත්-අටක්-තවමත්-වෙළඳපොලේ/11-410349) · `si`
-
-Eight vaccines approved for use without thorough inspections pose risks. Attorney Neil St. Sirimanna represents petitioners against the National Drug Regulatory Authority, seeking compensation for damages. The case highlights concerns over vaccine safety and regulatory oversight.
-
-🟩
-
-An eight-use vaccines issued to the market without proper inspection revealed that there were still eight vaccines and the vaccine market.
-
-Attorney-at-Law Neil St. Sirimanna convened the petitions filed by the National Drug Regulatory Inspection after a period of three months after a checking for the people..Aebage Chairman Judge Nissanka Bandula Karunaratne was considered by the writ petition.
-
-Club activists, Pinaya Warnakulasuriya and Ashan P. National Drug Regulatory Authority has named the National Drug Regulatory Authority as respondents filed by Buddharaw.The petitioners have requested that they have been damaged and issued a performing order.
-
-Attorney-at-Law Neil St. Sirimanna, who is said to have been damaged by the petition, the pharmaceutical production that the people have been severely damaged in the market.As a situation should arise, the petition was asked to call quickly.
-
-...
-
-[Data](articles/6ab6e42a.json)
-
-[Extended Data](ext_articles/6ab6e42a.ext.json)
 
 ---

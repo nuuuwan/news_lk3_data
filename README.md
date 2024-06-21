@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 18:36:08**
+As of **2024-06-21 18:53:43**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,494 (100.0%) of 31,495 articles have been extended.
+31,495 (100.0%) of 31,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### හිඟ බදු අයකර ගැනීම ගැන රාජ්‍ය ඇමතිගෙන් ප්‍රකාශයක්
+### State Minister for tax recovery
 
 *2024-06-21 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197998) · `si`
 
-රාජ්‍ය ආයතනවලින් අයකර ගත යුතු හිඟ බදු ප්‍රමාණයක් තවදුරටත් පවතින බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya addresses ongoing tax recovery efforts, noting a deficit due to government institutions. He assures steps are being taken to recover arrears, highlighting the government's legal authority to enforce tax laws and collect taxes owed.
 
-රාජ්‍ය අමාත්‍යවරයා පැවසුවේ, එම හිඟ බදු අයකර ගැනීමට අවශ්‍ය සෑම පියවරක්ම ඉදිරියේ දී ගන්නා බවය.
+🟩
 
-"ලෝකයේ අඩුම රාජ්‍ය ආදායම තිබිලත් දැන් යම් තැනකට ඇවිල්ලා රට කරගෙන යනවා. විපක්ෂය දැන් කියන්න උත්සාහ කරනවා මේ අයකර ගන්න තියෙන දේවල් අයකර ගන්නේ නැතුව අලුත් දේවල් කරන්න හදනවා අපි හිටියා නම් ඔහොම නෑ කියන්නනේ ඔය උත්සාහය. ඕක සරල තර්කයක්. රජය හැටියට පැහැදිලිවම කියන්න ඕනේ ඔව් හිඟ බදු ප්‍රමාණයක් තියෙනවා. පළවෙනි එක අපේ රටේ බදු නීතියේ තියෙන අභියාචන අයිතිය. ඒක ලෝකයේම තියෙනවා. රජය විසින් බද්දක් ගෙවන්න කිව්වහම නීතිය ඉදිරියේ ගිහින් අභියාචනා කරන්න රජය කිව්වට අපිට මේක ගෙවන්න බෑ කියලා අධිකරණයෙන් අධිකරණයට යන්න සමස්ත ජනතාවට අයිතියක් තියෙනවා. ඒ තුළ තියෙන ඒවා තමා මෙතැන වැඩිපුර තියෙන්නේ. දෙවැනි එක රජයේ ආයතන ගෙවන්න තියෙන බදු. මම කියන්න ඕනේ හිඟ බදු අයකර ගැනීමට රජයට  තියෙන සියලු බලතල මේ යුගයේ තරම් ක්‍රියාත්මක කරපු යුගයක් තවත් නෑ."
+State Minister Ranjith Siyambalapitiya says that there is still a deficit deficit due to government institutions.
+
+The State Minister said that every step required to recover the arrears is taken in the future.
+
+"The world is the lowest state income in the world and now comes to a place now. The opposition now is trying to say that we are trying to do new things to do what is being recovered.. It's a simple argument. As the government, you need to say yes. The first one is the right to the preaching law of our country. It's in the world. The government has the right to go to court that the government said to the government to procept a tax in the law when he told the law to go before the law.. They are in it. Taxes payable to pay the second government institutions. I still don't say that all the powers of the government have more than the age of this period. "
 
 ◼️
 
 [Data](articles/573ea072.json)
+
+[Extended Data](ext_articles/573ea072.ext.json)
 
 ---
 

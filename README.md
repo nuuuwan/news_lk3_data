@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 07:46:40**
+As of **2024-06-21 08:00:27**
 
 ## Newspaper Stats
 
-*Scraped **31,433** Articles*
+*Scraped **31,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 3,555
 tamilmirrorlk | 3,692
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,108
+adaderanasinhalalk | 5,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,433 (100.0%) of 31,433 articles have been extended.
+31,433 (100.0%) of 31,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### බංග්ලාදේශයෙන් ලකුණු 141ක ඉලක්කයක්
+
+*2024-06-21 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197977) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඔස්ට්‍රේලියාව අතර අද (21) පැවැත්වෙන තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 140ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඔස්ට්‍රේලියාවට හිමිවූ ඉලක්කය ලකුණු 141කි.
+
+◼️
+
+[Data](articles/e322b6bb.json)
+
+---
+
+### උතුම් පොසොන් පොහොය අද - දෙරණාභිවන්දනා පොසොන් නමස්කාරය ඇරඹෙයි
+
+*2024-06-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197976) · `si`
+
+මෙරටට බුදදහම දායාද කරමින් අනුබුදු මිහිඳු හිමිගේ ලංකා ගමනය සිදුවූ උතුම් පොසොන් පුර පසළොස්වක පොහොය දිනය අදට යෙදී තිබේ.
+
+මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ ඉට්ඨිය, උත්ථිය, සම්බල, බද්දසාල යන රහතන් වහන්සේලාත් සුමන සාමණේරයන් වහන්සේත් භණ්ඩුක උපාසකක් බුදුරජාණන් වහන්සේගේ නිර්මල බුදුදහම රැගෙන මිහින්තලා පව්වට වැඩම කරවීම අද වැනි පොසොන් පුර පසළොස්වක පෙහොය දිනක සිදුවූ බව බෞද්ධ ඉතිහාසයේ සඳහන් වෙයි.
+
+දේවානම් පියතිස්ස රජු ඇතුළු පිරිස චුල්ලහත්ථි පදෝපම සූත්‍රය අසා තෙරුවන් සරණ යාම සිදු වූයේද අද වැනි පොසොන් පොහොය දිනකය.
+
+මේ අතර පොසොන් පොහෝ දින පණිවුඩයක් නිකුත් කරමින් ජනාධිපතිවරයා පෙන්වා දෙන්නේ මිහිඳු මහරහතන් වහන්සේ විසින් අනු දැන වදාළ ධර්ම මාර්ගය මෙරට පත්වී ඇති දේශපාලන, සමාජ හා ආර්ථික ගැටළු නිරාකරණය කර ගනිමින් දියුණු රටක් ගොඩනැඟීමට ඉවහල් කරගන්නා ලෙස සියලු දෙනාගෙන් ඉල්ලා සිටින බවය.
+
+...
+
+[Data](articles/e595a20e.json)
+
+---
 
 ### Bangladesh - Australia match begins
 
@@ -2229,55 +2261,5 @@ The number of casualties in Kallakurichi district has risen to thirty -five. It 
 [Data](articles/e1060c66.json)
 
 [Extended Data](ext_articles/e1060c66.ext.json)
-
----
-
-### Otto ran without driver: Four people hurt
-
-*2024-06-20 15:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-இன்றி-ஓடிய-ஓட்டோ-நால்வருக்கு-காயம்/76-339181) · `ta`
-
-In a tragic accident, four women were injured when a three-wheeler ran unattended into a 30-foot ditch on the Mahiyanganaya main road in Badulla. The driver had parked the vehicle near a shop before it rolled forward and plunged into the ditch. Two of the victims were en route to a meeting. All were taken to the Meegahagivula District Hospital.
-
-🟩
-
-Four women, including three women, were injured in a 30 -foot ditch and were admitted to the Meegahagivula District Hospital, police said.
-
-The event took place this afternoon at the Meegahagivula area of ​​Mahiyanganaya main road in Badulla.
-
-The driver of the three -wheeler, who was traveling from Meegahagivula to Polgaharawa, parked the three -wheeler near a shop and got down.
-
-At the same time, the three -wheeler went fifty feet in front of the 30 -foot ditch and crashed.
-
-Police say two persons who were on their way home were among the injured to attend the meeting held on Thursday (20) in Meghagivula.
-
-◼️
-
-[Data](articles/f76551f3.json)
-
-[Extended Data](ext_articles/f76551f3.ext.json)
-
----
-
-### Sri Lanka, India launch maritime rescue coordination centre
-
-*2024-06-20 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-launch-maritime-rescue-coordination-centre-168921/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe and visiting Indian External Affairs Minister S Jaishankar marked the formal commissioning of a Maritime Rescue Coordination Centre in the island nation on Thursday.
-
-The MRCC was constructed with a 6 million dollar grant from India.
-
-It includes a centre at Navy headquarters in Colombo, a sub-centre in Hambantota and unmanned installations at Galle, Arugambay, Batticaloa, Trincomalee, Kallarawa, Point Pedro and Mollikulam.
-
-Wickremesinghe and Jaishankar also launched, virtually, 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project. 24 houses in each model village were handed over.
-
-Jaishankar called on President Ranil Wickremesinghe at the President’s House earlier in the day for a one-on-one meeting, the president’s media division said.
-
-Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, ahead of polls
-
-...
-
-[Data](articles/e537dda0.json)
-
-[Extended Data](ext_articles/e537dda0.ext.json)
 
 ---

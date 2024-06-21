@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 17:34:51**
+As of **2024-06-21 17:55:38**
 
 ## Newspaper Stats
 
-*Scraped **31,492** Articles*
+*Scraped **31,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,564
+adaderanalk | 3,565
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,887
@@ -26,33 +26,57 @@ adaderanasinhalalk | 5,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,491 (100.0%) of 31,492 articles have been extended.
+31,492 (100.0%) of 31,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### රතු මුහුදේ දී නෞකාවකට හූති මිසයිල ප්‍රහාරයක්
+### At the Red Sea, a calendar is a hary missile attack
 
 *2024-06-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197997) · `si`
 
-ගල් අඟුරු ප්‍රවාහන ග්‍රීක නෞකාවකට රතු මුහුදේදී හූති මිසයිල ප්‍රහාරයක් එල්ලවන අයුරු දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A Greek coal ship was attacked near the Red Sea port of Solidays, causing it to sink. The incident occurred about a week ago and involved Filipino crew members, who were rescued by the US Navy. Meanwhile, Yemen's Houthis, backed by Iran, have been targeting Israel, including its ships, since November last year.
 
-ප්‍රහාරය එල්ල වී තිබුණේ යේමනයේ හුදෙයිදා වරායට ඔබ්බෙන් වූ මුහුදේදීය.
+🟩
 
-මීට සතියකට පමණ පෙර එල්ල වූ ප්‍රහාරයෙන්, නෞකාව මේ වනවිට සම්පූර්ණයෙන් ගිලී ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports a video of a coal transport greek ship
 
-ප්‍රහාරය එල්ලවන අවස්ථාවේ දි එහි කාර්යමණ්ඩල සේවකයින් විසි දෙදෙනෙකු පමණ සිට තිබූ අතර ඔවුන් සියලුදෙනා පිලිපීන ජාතිකයින් බව සඳහන් වේ.
+The attack was hit by the sea from the Port of Solidays.
 
-සෙසු පිරිස ගුවන් මඟින් මුදාගැනීමට අමෙරිකානු නාවික හමුදාව පියවර ගෙන තිබුණි.
+Foreign media reports that the ship has completely drowned in the attack, about a week ago.
 
-පසුගිය වසරේ නොවැම්බර් මාසයේදී යේමනයේ හූති සංවිධානය රතුමුහුදේ වාණිජ නෞකා ඉලක්ක කරමින් ප්‍රහාර එල්ල කිරීම ආරම්භ කළේ පලස්තීනයට සහාය දැක්වීමක් වශයෙනි.
+The attack was about twenty two staff members and they all say that they were all filipino.
 
-ඉරානයේ සහාය ලබන හූති සංවිධානය පවසන්නේ ඔවුන් ඊශ්‍රායල බලා යන නෞකා ඉලක්ක කරන බවය.
+The US Navy had taken steps to redeem the rest by air.
+
+In November last year, Yemen's Hoouti, Yemen's Hoouti, began attacking Palestine.
+
+Iran Assistant Hoothi ​​says that they will target Israeli ships.
 
 ◼️
 
 [Data](articles/4e4d53c6.json)
+
+[Extended Data](ext_articles/4e4d53c6.ext.json)
+
+---
+
+### Sri Lanka Women dominate West Indies with clean sweep
+
+*2024-06-21 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100009/sri-lanka-women-dominate-west-indies-with-clean-sweep) · `en`
+
+In a stellar display of dominance, the Sri Lanka women’s cricket team completed a clean sweep of the ODI series against the West Indies, clinching a decisive 3-0 victory as they won the third and the final match by 160 runs.
+
+The triumphant final match, held today (21) at the Mahinda Rajapaksa International Cricket Stadium, Hambantota, sealing their supremacy in the series and marking a historic high point for the team.
+
+Batting first, Sri Lanka scored a record 275 total at the end of 50 overs, for the fall of 6 wickets. Veteran Chamari Athapaththu delivered an impressive knock of 91 runs, in partnership with Nilakshi de Silva’s 63. Anushka Sanjeewani hit 55 in 46 deliveries.
+
+Chasing the formidable target of 275 Sri Lankan women, Chedean Nation of West Indies hit 46, while Aaliyah Alleyne smashed 27. However, the West Indies were all out for 115 at the end of 34.5 overs.
+
+...
+
+[Data](articles/ba228b98.json)
 
 ---
 
@@ -2281,31 +2305,5 @@ The President says that the International Monetary Fund cannot change the agreem
 [Data](articles/9946f3ab.json)
 
 [Extended Data](ext_articles/9946f3ab.ext.json)
-
----
-
-### 4600 dieselines registered today
-
-*2024-06-20 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/අද-ලියාපදිංචි-දන්සල්-4600ක්/11-410350) · `si`
-
-Today, 4,600 deaths were reported, and 11,100 temples hosted religious ceremonies for the Posen Poya Day, involving 21,100 temples overall. 296 individuals were selected, and 4,600 Dansals were registered. 20,000 police officers and 27,000 citizens from police committees ensured security, with army officials assisting 400 special police authorities. Over 400 security personnel guarded water sources and vehicle safety. Public urged to maintain environmental cleanliness during the festival.
-
-🟩
-
-A number of religious ceremonies of 11100 temple are organized by 11100 temples today (21100 temples) based on the Posen Poya Day.
-
-296 selected selected and 4600 Dansal registered.The Police Media Division states that 20.000 police officers have been deployed in the country's religious ceremonies and poson zones across the country.
-
-27000 citizens representing police committees for security purposes. Army officials are to be used by about 400 police special authorities and the need for safety activities.
-
-More than 400 policemen, security personnel have been deployed to protect their security at the water sources and they have been deployed to protect their safety.. When stopping vehicles, the vehicles are not parked but also to take care of the safety of the vehicles.
-
-If you have a traffic connection, 02522222191 or a person who came to a person may be able to support the 0252222122 to speak to the Anuradhapura area.
-
-...
-
-[Data](articles/b71a6286.json)
-
-[Extended Data](ext_articles/b71a6286.ext.json)
 
 ---

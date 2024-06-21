@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 12:35:43**
+As of **2024-06-21 12:52:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,464 (100.0%) of 31,466 articles have been extended.
+31,466 (100.0%) of 31,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,33 @@ Among the pardoned prisoners were 19 detained in Welikada Prison, 30 in Mahara P
 
 [Data](articles/c234564a.json)
 
+[Extended Data](ext_articles/c234564a.ext.json)
+
 ---
 
-### உயர்தரப் பரீட்சை விண்ணப்பத்திற்கான கால அவகாசம் குறித்து வெளியான முக்கிய அறிவிப்பு
+### The main announcement on the term of the Advanced Level Examination Application
 
 *2024-06-21 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186625) · `ta`
 
-2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர உயர்தர பரீட்சைக்கான விண்ணப்பங்களை விண்ணப்பிப்பதற்கான கால அவகாசத்திற்கான திகதியை  பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+The deadline for applying to the GCE A/L examination for 2024 is July 10th. Applications must be submitted through the official websites doenets.lk or onlineExams.gov.lk/eic, or via the 'Doe' mobile app. State and state-approved private school applicants need approval from their school headmaster before submitting. The Department of Examinations has stated that this deadline will not be extended.
 
-அதன்படி, ஜூலை 10 ஆம் திகதி வரை விண்ணப்பிக்க முடியும் என பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி. அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+🟩
 
-விண்ணப்பதாரர்கள் பரீட்சைத் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான www.doenets.lk அல்லது www.onlineexams.gov.lk/eic மற்றும் உத்தியோகபூர்வ கையடக்கத்தொலைபேசி செயலியான 'DoE' இனை பயன்படுத்தி விண்ணப்பிக்கலாம்.
+The Department of Examinations has announced the date for the deadline for applying applications for the GCE A / L examination for 2024.
 
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் விண்ணப்பதாரிகள் அந்தந்த பாடசாலை தலைமையாசிரியரிடம் அனுமதி பெற்ற பின்னரே விண்ணப்பங்களை சமர்ப்பிக்க வேண்டும் என கேட்டுக்கொள்ளப்பட்டுள்ளது.
+Accordingly, the Commissioner General of Examinations HJMC can apply until July 10. Amit Jayasundara said.
 
-எக்காரணம் கொண்டும் விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் நீடிக்கப்படமாட்டாது என பரீட்சைத் திணைக்களம் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Applicants can apply for the official website of the Department of Examination www.doenets.lk or www.onlineExams.gov.lk/eic and the official mobile phone processor 'Doe'.
+
+Applicants of state and state -approved private schools have been asked to submit the applications only after the approved of the respective school headmaster.
+
+It is noteworthy that the Department of Examinations has announced that the deadline for accepting applications will not be extended.
 
 ◼️
 
 [Data](articles/505d4d44.json)
+
+[Extended Data](ext_articles/505d4d44.ext.json)
 
 ---
 

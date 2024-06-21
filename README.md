@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 14:53:22**
+As of **2024-06-21 15:04:26**
 
 ## Newspaper Stats
 
-*Scraped **31,475** Articles*
+*Scraped **31,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,822
 dailyftlk | 1,927
 adalk | 2,751
 adaderanalk | 3,563
-tamilmirrorlk | 3,696
+tamilmirrorlk | 3,698
 dailymirrorlk | 4,733
 virakesarilk | 4,882
 adaderanasinhalalk | 5,121
@@ -26,27 +26,65 @@ adaderanasinhalalk | 5,121
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,473 (100.0%) of 31,475 articles have been extended.
+31,475 (100.0%) of 31,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### ප්‍රදේශ කිහිපයකට මි. මී 100 ඉක්මවූ වැසි
+### ஹோமாகம நகரில் விசித்திரமான தன்சல்
+
+*2024-06-21 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகம-நகரில்-விசித்திரமான-தன்சல்/175-339219) · `ta`
+
+பொசன் போய தினத்தை முன்னிட்டு இன்று நாடாளாவிய ரீதியில் உணவு உள்ளிட்ட பல்வேறு தன்சல்கள் வழங்கப்படு வரும் நிலையில் ஹோமாகம நகரில் வாசனை திரவிய தன்சல் ஒன்று வழங்கப்பட்டுள்ளது.
+
+அந்த நகரில் உள்ள இரண்டு வர்த்தக நிறுவனங்கள் ஒன்றிணைந்து இன்று (21) காலை வாசனை திரவிய தன்சல் ஒன்றை ஏற்பாடு செய்திருந்தன. R
+
+◼️
+
+[Data](articles/6452c1aa.json)
+
+---
+
+### டிஜிட்டல் மயமாகும் ஊழியர் சேமலாப நிதியத் தரவுகள்
+
+*2024-06-21 14:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாகும்-ஊழியர்-சேமலாப-நிதியத்-தரவுகள்/175-339218) · `ta`
+
+மத்திய வங்கியும் தொழிலாளர் திணைக்களமும் இணைந்து ஊழியர் சேமலாப நிதி உள்ளிட்ட தரவுகளைப் பெறக்கூடிய டிஜிட்டல் தரவு அமைப்பைத் தயாரிக்குமாறு அரசாங்கக் கணக்குக் குழு அறிவுறுத்தியுள்ளது.
+
+தொழிலாளர் திணைக்களத்தின் 2021 மற்றும் 2022ஆம் ஆண்டுகளுக்கான கணக்காய்வாளர் நாயகத்தின் அறிக்கை மற்றும் தற்போதைய செயற்பாடுகளை ஆராய்வதற்காக அரசாங்கக் கணக்குக் குழு, பாராளுமன்றத்தில் இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தலைமையில் கூடிய போதே இது குறித்து விவாதிக்கப்பட்டுள்ளது.
+
+தொழிலாளர் திணைக்களத்தில் முதலாளிகளைப் பதிவு செய்த பின்னர், குறித்த ஊழியர் சேமலாப நிதி, மத்திய வங்கிக்கு வழங்கப்படுவதாகவும், மத்திய வங்கி ஒவ்வொரு 6 மாதங்களுக்கும் தொழிலாளர் திணைக்களத்திற்கு கொடுப்பனவுகள் பற்றிய தரவுகளை வழங்குவதாகவும் அதிகாரிகள் சுட்டிக்காட்டினர்.
+
+எனினும் ஒவ்வொரு 6 மாதங்களுக்கும் தரவுகளைப் பெறுவதற்குப் பதிலாக, தொடர்ந்து புதுப்பிக்கக்கூடிய ஒரு அமைப்பை தொழிலாளர் திணைக்களம் கொண்டிருக்க வேண்டும் என்று குழு சுட்டிக்காட்டியுள்ளது.
+
+◼️
+
+[Data](articles/32de67ad.json)
+
+---
+
+### A few areas. Showers over 100 mees
 
 *2024-06-21 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197992) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ඉක්මවූ වැසි ඇති විය හැකිය.
+Heavy rainfall exceeding 100mm was reported in the Western, Sabaragamuwa, and some districts including Kandy, Nuwara Eliya, Galle, and Matara. The Department of Meteorology issued a warning for these regions. Additionally, there were light showers in Matale and Anuradhapura, with potential for strong winds in the northern parts of the central hills, as well as in Trincomalee, Hambantota, and Moneragala.
 
-අද (21) දහවල් නිවේදනයක් නිකුත් කරමින් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවය.
+🟩
 
-මාතලේ සහ අනුරාධපුර දිස්ත්‍රික්කවල ද සිහින් වැසි වාර කිහිපයක් ඇති වේ.
+In the Western and Sabaragamuwa provinces, the Kandy and Nuwara Eliya districts may have had over 100 mm.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු. උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති විය හැකියි.
+The Department of Meteorology announced a statement today (21) in the Western, Sabaragamuwa, Galle and Matara districts, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Slein showers in Matale and Anuradhapura districts.
+
+North in the western slopes of the central hills, North. At times, Trincomalee, Hambantota and Moneragala can have strong winds in the North Central and North Western Provinces.
 
 ◼️
 
 [Data](articles/2dc1b22f.json)
+
+[Extended Data](ext_articles/2dc1b22f.ext.json)
 
 ---
 
@@ -185,6 +223,8 @@ Repaying foreign debt or collecting foreign reserves requires interest rate to b
 ...
 
 [Data](articles/805f6871.json)
+
+[Extended Data](ext_articles/805f6871.ext.json)
 
 ---
 
@@ -2251,49 +2291,5 @@ It is noteworthy that the leaders involved in the meeting were discussed on the 
 [Data](articles/b148aff5.json)
 
 [Extended Data](ext_articles/b148aff5.ext.json)
-
----
-
-### Women's Empowerment Act passed
-
-*2024-06-20 18:43:19* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-සවිබල-ගැන්වීමේ-පනත-සම්මතයි/11-410343) · `si`
-
-The Women's Empowerment Act was passed in parliament on June 4, 2024, establishing a National Commission for Women and amending the National Policy of Women and Empowerment. It also includes provisions for a Sectoral Oversight Committee on Women and Children.
-
-🟩
-
-Empowerment Bill today (20) was passed in parliament today.
-
-The bill was presented to Parliament on May 20, 2024, held on June 4th and was held on June 4th.
-
-The Bill has provided provisions to establish a National Commission of Women to empower women. Also, the National Policy of Sri Lanka and the National Policy of Women and Empowerment of Women
-
-The Sectoral Oversight Committee on Member of Parliament and the Sectoral Oversight Committee on Members of Parliament, Children, Women and Women's Collectue
-
-Meanwhile, the National Commission of Sri Lanka (Second Reading) was passed today with amendments after the debate today. The Bill was presented to the Assembly for the establishment of a National Commission for the establishment of a National Commission for the United Nations Educational, Scientific and Cultural Organization (UNESCO).
-
-◼️
-
-[Data](articles/046de1c1.json)
-
-[Extended Data](ext_articles/046de1c1.ext.json)
-
----
-
-### The Empowerment of Women passes with amendments
-
-*2024-06-20 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197965) · `si`
-
-The "Empowerment of Women" bill was amended and passed in Parliament today, marking significant progress towards gender equality.
-
-🟩
-
-The Empowerment of Women's Empowerment Bill today (20) and passed amendments in Parliament today.
-
-◼️
-
-[Data](articles/a7019a2f.json)
-
-[Extended Data](ext_articles/a7019a2f.ext.json)
 
 ---

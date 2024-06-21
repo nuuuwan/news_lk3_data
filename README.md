@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 13:19:27**
+As of **2024-06-21 13:35:30**
 
 ## Newspaper Stats
 
-*Scraped **31,469** Articles*
+*Scraped **31,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,730
-economynextcom | 1,820
+economynextcom | 1,821
 dailyftlk | 1,927
 adalk | 2,751
 adaderanalk | 3,562
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,468 (100.0%) of 31,469 articles have been extended.
+31,469 (100.0%) of 31,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### ඉන්දියාව ඉදිරියටත් ශ්‍රී ලංකාවේ විශ්වාසදායි මිතුරෙකු - ජෙයිශංකර්
+### India is also a trusted friend in Sri Lanka - Jeeashid
 
 *2024-06-21 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197987) · `si`
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා සිය එක්දින සංචාරය නිමාකර ඊයේ (20) පස්වරුවේ දිවයිනෙන් පිටත්ව ගියේය.
+Dr. S. Jaishankar, India's Foreign Minister, visited Sri Lanka, marking his first trip there since taking office. He met with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, discussing ways to bolster bilateral ties. The visit included meetings with opposition leader Sajith Premadasa and representatives from Tamil parties, emphasizing India's commitment to being a reliable ally to Sri Lanka.
 
-සංචාරය පිළිබඳ සිය එක්ස් ගිණුමේ සටහනක් තබමින් ඔහු සඳහන් කර තිබුණේ තමාගේ නව ධුර කාලයේ පළමු ශ්‍රී ලංකා සංචාරය ඉතාමත් ඵලදායී ව නිමා කළ බවය.
+🟩
 
-එක් දින සංචාරයක් සඳහා ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා ඊයේ මෙරටට පැමිණියේය.
+Indian Foreign Minister Dr. S. Mr. Jeeasankar left his ODI last yesterday (20) afternoon.
 
-පළමුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුණගැසුණු ඉන්දීය විදේශ අමාත්‍යවරයා ඉන් අනතුරුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා හමුවී සාකච්ඡාවල නිරත වුණි.
+He said that he had a note of the visit and the first visit to Sri Lanka was very effective in the new four-term tour.
 
-එමෙන්ම දෙරටේ විදේශ අමාත්‍යවරුන් අතර හමුවක් ද පැවති අතර එහිදී විදේශ අමාත්‍ය අලි සබ්‍රි මහතා ශක්තිමත් ද්විපාර්ශ්වික සබඳතා තවදුරටත් වැඩිදියුණු කිරීමට එකඟවී තිබේ.
+Indian External Affairs Minister Dr. S. Sahana for one day tour. Mr. Jeeasankar arrived in Sri Lanka yesterday.
 
-ඉන්දීය විදේශ අමාත්‍යවරයා සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අතර හමුව පැවැත් වුණේ ඉන් අනතුරුවය.
+The Indian Foreign Minister of India, who first met President Ranil Wickremesinghe, followed Prime Minister Dinesh Gunawardena.
 
-මෙරට දෙමළ පක්ෂ නියෝජිතයින් ද ඊයේ පස්වරුවේ ඉන්දීය විදේශ අමාත්‍යවරයා මුණගැසුණු අතර එම අවස්ථාවට ආණ්ඩුව නියෝජනය කරන අමාත්‍යවරු සහ විපක්ෂය නියෝජනය කර මන්ත්‍රීවරු පිරිසක් එක්විය.
+The two foreign ministers met with foreign ministers and Foreign Minister Ali Sabri has agreed to further strengthen bilateral relations.
 
-...
+The Indian Foreign Minister and Opposition Leader Sajith Premadasa were then held.
+
+The Tamil parties representatives met the Indian Foreign Minister yesterday afternoon and a group of MPs representing the government participated in the event.
+
+He stated that he had a note on the visit, that he was fully ended in the first visit to Sri Lanka.
+
+He added that the Indian will continue as a reliable friend in Sri Lanka.
+
+◼️
 
 [Data](articles/50b5886d.json)
+
+[Extended Data](ext_articles/50b5886d.ext.json)
 
 ---
 

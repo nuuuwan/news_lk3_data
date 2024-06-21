@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 08:20:46**
+As of **2024-06-21 08:35:37**
 
 ## Newspaper Stats
 
-*Scraped **31,436** Articles*
+*Scraped **31,437** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 285
 dbsjeyarajcom | 291
-bbccomsinhala | 310
+bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,729
 economynextcom | 1,819
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,435 (100.0%) of 31,436 articles have been extended.
+31,436 (100.0%) of 31,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -470,6 +470,28 @@ If we want to increase capital formation and consumption allocation on a continu
 
 ---
 
+### මිහිඳු මහ රහතන් වහන්සේගේ ලංකාගමනය සනාථ කරන 'ගලේ කෙටූ සාක්ෂිය'
+
+*2024-06-21 02:10:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511jd8kkzjo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, රජගල පුරාවිද්‍යා ස්මාරක 700ක් පමණ හමුවී ඇති අතර ශිලා ලේඛන 80ක් පමණ සොයාගෙන තිබේ.
+
+මිහිඳු මහ රහතන් වහන්සේගේ ලංකාගමනය සනාථ කරන 'ගලේ කෙටූ සාක්ෂිය'
+
+අම්පාර, රජගල ආරාම සංකීර්ණයෙන් සොයාගෙන ඇති ශිලා ලේඛනය මිහිඳු මහ රහතන් වසන්සේගේ ලංකාගමනය සනාථ කරන පැරණිම පුරාවිද්‍යාත්මක සාක්ෂිය බව පුරාවිද්‍යාඥයෝ පවසති.
+
+''අදින් අවුරුදු 2200කට කලින්, මූල බ්‍රාහ්මීය අක්ෂරයෙන් රජගල ලියන ලද ගිරි ලිපියක සඳහන් වෙනවා මේ ලංකාධීපයේ සමෘධිය සඳහා වැඩම කළ ඉට්ඪිය තෙරුන්ගේ සහ මිහිඳු තෙරුන්ගේ ධාතු තැන්පත් කළ දාගැබයි කියලා'' යනුවෙන්  ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ, ඉතිහාසය සහ පුරාවිද්‍යා අධ්‍යන අංශයේ මහාචාර්ය  කරුණාසේන හෙට්ටිආරච්චි BBC සිංහල සේවයට පැවසුවේය.
+
+ගිරිකූලතිස්ස පබ්බත ලෙස අතීතයේ දී හඳුන්වන ලද මේ ආරාම සංකීර්ණය සද්ධාතිස්ස රජුගේ පුත්‍ර ලජ්ජිතිස්ස කුමරු විසින් ඉදිකළ බව ඉතිහාසයේ සඳහන් වේ.
+
+රජගල වර්ග මීටර් 1085ක ප්‍රදේශයක පුරාවිද්‍යා ස්මාරක 700ක් පමණ හමුවී ඇති අතර ශිලා ලේඛන 80ක් පමණ සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/6443f16a.json)
+
+---
+
 ### Australia - Bangladesh teams clash
 
 *2024-06-21 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186608) · `ta`
@@ -524,21 +546,29 @@ The police are trying to arrest the other three suspects, with one of the four s
 
 ---
 
-### ’உறுமய’ திட்டத்தை விரைவுபடுத்த நடமாடும் சேவை
+### Mobile Service to expedite the telecommunication program
 
 *2024-06-21 00:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-விரைவுபடுத்த-நடமாடும்-சேவை/175-339211) · `ta`
 
-நாட்டில் 20 லட்சம் பேருக்கு காணி உறுதிகளை வழங்குவதற்கான 'உறுமய' தேசிய வேலைத்திட்டத்தினை துரிதப்படுத்தும் வகையில், இம்மாதம் 26 – 30 ஆம் திகதி வரையில் நாடளாவிய ரீதியில் நடமாடும் சேவையொன்றை நடத்த ஜனாதிபதி அலுவலகம் தீர்மானித்துள்ளது.
+The President's Office is launching a nationwide mobile service from April 26th to 30th to accelerate the 'Urumaya' National Program, aiming to provide land guarantees to 20 lakh people across the country. Departmental officials will visit villages to issue these guarantees. The initiative follows the issuance of numerous land guarantees under the project, emphasizing the importance of handing over old assurances or permits to authorities during the service.
 
-அதன்படி காணி உறுதிகளை வழங்குவதற்கான சகல துறைசார் அதிகாரிகளையும் கிராமங்களுக்கு அனுப்பி அவர்கள் ஊடாக விரைவாக காணி உறுதிகளை பெற்றுக்கொடுக்க எதிர்பார்த்துள்ளோம் என ஜனாதிபதியின் மேலதிகச் செயலாளர் சந்திரா ஹேரத் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே ஜனாதிபதியின் மேலதிகச் செயலாளர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+The President's Office has decided to conduct a nationwide service from 26th to 30th of this month to expedite the 'Urumaya' National Program to provide land guarantees to 20 lakh people in the country.
 
-“உறுமய திட்டத்தின் கீழ் பெருமளவான காணி உறுதிகள் வழங்கப்பட்டுள்ளன. இந்த வேலைத்திட்டத்ததை விரைவுபடுத்தும் நோக்கில் நடமாடும் சேவையொன்றையும் நடத்த தீர்மானிக்கப்பட்டுள்ளது. அதன்படி இம்மாதம் 26 – 30 திகதி வரையில் இந்த நடமாடும் சேவை நாடளாவிய ரீதியில் முன்னெடுக்கப்படவுள்ளது.
+According to the President's Additional Secretary Chandra Herath, we are looking forward to sending all the departmental officials to the villages to provide land guarantees.
 
-...
+The President of the President said at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+“A large number of land guarantees have been issued under the Urumaya Project. It has been decided to conduct a mobile service to expedite this program. Accordingly, the mobile service will be carried out nationwide from 26th to 30th of this month.
+
+All officials will participate in the mobile service to provide land guarantees to the people. He said that those who come to ensure that their old assurance or permits should be handed over to the authorities only. (A)
+
+◼️
 
 [Data](articles/5beabf03.json)
+
+[Extended Data](ext_articles/5beabf03.ext.json)
 
 ---
 
@@ -2255,27 +2285,5 @@ Food safety officials are investigating this. There was also a dead lizard in co
 [Data](articles/4075e56b.json)
 
 [Extended Data](ext_articles/4075e56b.ext.json)
-
----
-
-### Cabinet suggestion of inserting children to first grade
-
-*2024-06-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197955) · `si`
-
-The Minister of Education proposes amending first-grade admission policies to improve fairness and reduce irregularities, drawing from last year's experiences.
-
-🟩
-
-The Minister of Education has proposed to the Cabinet to amend the current circulars on the first grade first grade.
-
-The amendment will be made based on the experiences of the past year to minimize the equal access and irregularities to ensure the skin of education.
-
-The proposal made by Hon.
-
-◼️
-
-[Data](articles/7e67ab53.json)
-
-[Extended Data](ext_articles/7e67ab53.ext.json)
 
 ---

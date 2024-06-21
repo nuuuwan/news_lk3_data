@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 18:24:33**
+As of **2024-06-21 18:36:08**
 
 ## Newspaper Stats
 
-*Scraped **31,494** Articles*
+*Scraped **31,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,565
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,888
-adaderanasinhalalk | 5,126
+adaderanasinhalalk | 5,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,494 (100.0%) of 31,494 articles have been extended.
+31,494 (100.0%) of 31,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### හිඟ බදු අයකර ගැනීම ගැන රාජ්‍ය ඇමතිගෙන් ප්‍රකාශයක්
+
+*2024-06-21 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197998) · `si`
+
+රාජ්‍ය ආයතනවලින් අයකර ගත යුතු හිඟ බදු ප්‍රමාණයක් තවදුරටත් පවතින බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා පැවසුවේ, එම හිඟ බදු අයකර ගැනීමට අවශ්‍ය සෑම පියවරක්ම ඉදිරියේ දී ගන්නා බවය.
+
+"ලෝකයේ අඩුම රාජ්‍ය ආදායම තිබිලත් දැන් යම් තැනකට ඇවිල්ලා රට කරගෙන යනවා. විපක්ෂය දැන් කියන්න උත්සාහ කරනවා මේ අයකර ගන්න තියෙන දේවල් අයකර ගන්නේ නැතුව අලුත් දේවල් කරන්න හදනවා අපි හිටියා නම් ඔහොම නෑ කියන්නනේ ඔය උත්සාහය. ඕක සරල තර්කයක්. රජය හැටියට පැහැදිලිවම කියන්න ඕනේ ඔව් හිඟ බදු ප්‍රමාණයක් තියෙනවා. පළවෙනි එක අපේ රටේ බදු නීතියේ තියෙන අභියාචන අයිතිය. ඒක ලෝකයේම තියෙනවා. රජය විසින් බද්දක් ගෙවන්න කිව්වහම නීතිය ඉදිරියේ ගිහින් අභියාචනා කරන්න රජය කිව්වට අපිට මේක ගෙවන්න බෑ කියලා අධිකරණයෙන් අධිකරණයට යන්න සමස්ත ජනතාවට අයිතියක් තියෙනවා. ඒ තුළ තියෙන ඒවා තමා මෙතැන වැඩිපුර තියෙන්නේ. දෙවැනි එක රජයේ ආයතන ගෙවන්න තියෙන බදු. මම කියන්න ඕනේ හිඟ බදු අයකර ගැනීමට රජයට  තියෙන සියලු බලතල මේ යුගයේ තරම් ක්‍රියාත්මක කරපු යුගයක් තවත් නෑ."
+
+◼️
+
+[Data](articles/573ea072.json)
+
+---
 
 ### At the Red Sea, a calendar is a hary missile attack
 
@@ -2289,27 +2305,5 @@ Representatives of foreign swamp who attended the WLI Asia Oceania conference pa
 [Data](articles/dd627fd1.json)
 
 [Extended Data](ext_articles/dd627fd1.ext.json)
-
----
-
-### Resume the Housing Plans suspended in the Gotabhaya government - in the Sajith Sabha
-
-*2024-06-20 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186570) · `ta`
-
-In the Sajith Sabha, it was highlighted that numerous housing projects initiated during the Gotabhaya Rajapaksa administration were suspended, allegedly as political retaliation. This decision impacted thousands of families, many of whom had ceased receiving aid from India. Opposition Leader Sajith Premadasa called for the government to address this issue, ensuring justice for those affected and facilitating the completion of their homes. The President recently approved funds for these projects, expressing confidence in their implementation under the United People's Power Government.
-
-🟩
-
-Several housing projects in the government of goodwill have been suspended for political revenge. Opposition Leader Sajith Premadasa said the government should take action to provide justice to the beneficiaries affected by this.
-
-After the 2019 presidential election, a large number of housing projects being carried out in our country were suspended simultaneously. Thousands of hundreds of thousands of houses have been suspended. Thus the displaced millions of people have been displaced. Those who have benefited from these housing projects have even stopped assistance from India.
-
-This was carried out as a political revenge when Gotabhaya Rajapakse became president. Even the people of the North East have informed me about this. I urge the government to focus on this, as there is a large number of people who are not able to get the rest of the installment and to complete the houses.
-
-...
-
-[Data](articles/e898e315.json)
-
-[Extended Data](ext_articles/e898e315.ext.json)
 
 ---

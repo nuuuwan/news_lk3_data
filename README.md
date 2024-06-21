@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 05:37:02**
+As of **2024-06-21 05:59:54**
 
 ## Newspaper Stats
 
-*Scraped **31,417** Articles*
+*Scraped **31,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 291
 bbccomsinhala | 310
 newsfirstlk | 363
-islandlk | 1,716
+islandlk | 1,729
 economynextcom | 1,819
 dailyftlk | 1,927
 adalk | 2,745
@@ -26,11 +26,53 @@ adaderanasinhalalk | 5,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,417 (100.0%) of 31,417 articles have been extended.
+31,417 (100.0%) of 31,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### SLT-MOBITEL Home Telephone offers unlimited calls for entire family
+
+*2024-06-21 03:59:00* · [`islandlk`](http://island.lk/slt-mobitel-home-telephone-offers-unlimited-calls-for-entire-family/) · `en`
+
+Reinforcing leadership in fixed line voice services, SLT-MOBITEL, the National ICT Solutions Provider, has unveiled an unlimited voice calling package tailored specially for families and small businesses.SLT-MOBITEL recognises that customers rely on SLT-MOBITEL’s fixed line services for clear, uninterrupted voice communication. The Unlimited Voice Package caters to this need comprehensively by removing all limitations on calling while providing the expected superior quality and reliability of its fixed line network
+
+SLT-MOBITEL understands that the home phone is often a shared family resource. A key highlight is the package’s family-friendly approach, enabling the entire household to enjoy unlimited calling without restrictions. The package therefore embraces this reality enabling all family members and other customers who use a fixed line unlimited calls at an affordable price.
+
+...
+
+[Data](articles/67528804.json)
+
+---
+
+### Remembering Mervyn de Silva on his 25th Death Anniversary
+
+*2024-06-21 03:51:00* · [`islandlk`](http://island.lk/remembering-mervyn-de-silva-on-his-25th-death-anniversary/) · `en`
+
+When Mervyn de Silva left us on 22nd June 1999, it was not just the twentieth century that was drawing to a close. In retrospect one could sense, and now we know, that with his passing, an era in the literary history of Sri Lanka had ended. Because he was the last of a golden age of journalism, an illustrious tradition of English journalism in Sri Lanka that gave us H. A. J. Hulugalle, Jayantha Padmanabha, Tarzie Vittachi and Denzil Peiris. They were brilliant editors who provided us with not just world-class newspapers; they were also erudite men who helped build a Ceylonese literati that any society can be proud of.
+
+I make no apologies for repeating what I have written before on my editor, my guru, my role model and my friend Mervyn de Silva, because all of it remains just as valid as it did a quarter of a century ago. The defining attributes of Mervyn and their importance bear repetition and deserve considered reflection.
+
+...
+
+[Data](articles/a78d259d.json)
+
+---
+
+### Rahul Gandhi – Next PM of India?
+
+*2024-06-21 03:50:00* · [`islandlk`](http://island.lk/rahul-gandhi-next-pm-of-india/) · `en`
+
+Continuing from last year proceeds election politics. Two moves this week by the President of Sri Lanka have caused waves in Parliament and among citizens of this land. But Cassandra will not comment.
+
+Suddenly, President Emmanuel Macron has dissolved parliament and declared that France will hold its elections on 30 June and 7 July, just a few weeks before the Paris Olympics. The announcement from the Elysee Palace came soon after the EU elections were over. Macron said he had heard the message for holding elections. “France needs a clear majority in serenity and harmony,” he said, adding that he could not resign himself to the far-right’s progress everywhere in the continent. He will continue as Prez since he has barely completed two years of his five-year tenure. It was seven years before change in 2002 to five years and only two consecutive terms are allowed.
+
+...
+
+[Data](articles/e66fc81e.json)
+
+---
 
 ### Indo-Sri Lanka joint development projects on energy and infrastructure gain momentum
 
@@ -232,6 +274,34 @@ SLT-Mobitel understands that the home phone is often a shared family resource. A
 
 ---
 
+### Stigmata’s ‘Summer Storm’, a head-banging success at Taphouse by RNR
+
+*2024-06-21 02:46:00* · [`islandlk`](http://island.lk/stigmatas-summer-storm-a-head-banging-success-at-taphouse-by-rnr/) · `en`
+
+Sri Lankan heavy metal pioneers Stigmata kicked off the ‘summer’ season with a high-octane performance together with fellow metal bands Encender and Trishira at ‘Summer Storm’ held at the Taphouse by RnR, Colombo recently.
+
+While filling the Taphouse is no easy task, Summer Storm was fully packed with a diverse audience from different ages, ethnicities and backgrounds brought together by their love for metal music. Once again, Stigmata delivered a mind-blowing performance and included several iconic tracks from all their previous albums, Hollow Dreams, Silent Chaos, Serpentine, Psalms of Conscious Martyrdom, The Ascetic Paradox. The band also thrilled the audience with a taste of new music from their fifth album which is due to be released later this year. The brand new mystical emotive single ‘The Absurd’ was a highlight.
+
+...
+
+[Data](articles/aafd1954.json)
+
+---
+
+### ProMate gives used exercise books a second life to aid visually impaired students’ education
+
+*2024-06-21 02:44:00* · [`islandlk`](http://island.lk/promate-gives-used-exercise-books-a-second-life-to-aid-visually-impaired-students-education/) · `en`
+
+Leading stationery manufacturer ProMate Sri Lanka participated in an impactful book collection drive recently to help visually impaired students pursue their studies, engage in communication, and interact with the world. ProMate is a product of one of the most famed and oldest pioneer book publishers in Sri Lanka, Ratna Publishers.
+
+Due to rapid inflation and rising costs, the price of school supplies has also increased by a staggering 300%. This has exacerbated existing challenges for students, especially schools for the blind across the country faced with sourcing the necessary paper for their students.
+
+...
+
+[Data](articles/e8160691.json)
+
+---
+
 ### Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024
 
 *2024-06-21 02:38:48* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-the-polycrisis-Linkages-and-synergies-between-Rio-Conventions-in-2024/4-763317) · `en`
@@ -245,6 +315,22 @@ The global challenge of climate change is deeply interconnected with other globa
 [Data](articles/1a831d44.json)
 
 [Extended Data](ext_articles/1a831d44.ext.json)
+
+---
+
+### Nestlé Lanka fosters positive behavioural change towards responsible waste management in future generations
+
+*2024-06-21 02:37:00* · [`islandlk`](http://island.lk/nestle-lanka-fosters-positive-behavioural-change-towards-responsible-waste-management-in-future-generations/) · `en`
+
+Conducts the All-Island Schools Art Competition in collaboration with the Ministry of Education and Central Environmental Authority
+
+Nestlé Lanka’s All-Island Schools Art Competition named ‘මිහි මව රකින්නට තිළි තුඩක් මවන රූ රටා’ (Preserving Mother Earth through the Expression of Art) concluded last week, awarding the winners of the Junior and Senior categories.
+
+This competition was organized in celebration of World Environment Day together with the Ministry of Education and Central Environmental Authority (CEA) as an extension of the School Waste Management Programme, an initiative which helps create awareness on responsible waste disposal in the future generation of Sri Lanka. The programme reached approximately 400,000 students in over 800 schools around the country this year. The art competition also received a striking 80,000 entries from students representing schools across the island.
+
+...
+
+[Data](articles/56ce0aec.json)
 
 ---
 
@@ -1622,6 +1708,28 @@ Declaration of Narraha Edirisuriya on April 1, 2023, was released on the Interne
 
 ---
 
+### Shipping industry groups call for action after Houthis sink second vessel
+
+*2024-06-20 16:18:00* · [`islandlk`](http://island.lk/shipping-industry-groups-call-for-action-after-houthis-sink-second-vessel/) · `en`
+
+Leading shipping industry groups have called for action to halt Houthi attacks on vessels in the Red Sea after the sinking of a second ship.
+
+The organisations condemned the incidents as a violation of freedom of navigation and said in a joint statement on Wednesday that they target “innocent seafarers”.
+
+“This is an unacceptable situation, and these attacks must stop now,” read the statement from groups including the World Shipping Council, European Community Shipowners’ Associations and Asian Shipowners’ Association.
+
+“We call for States with influence in the region to safeguard our innocent seafarers and for the swift de-escalation of the situation in the Red Sea.”
+
+Yemen’s Houthi armed group has been launching attacks on shipping lanes in the region since November in what it says is an effort to support Palestinians and pressure Israel to end its war on Gaza.
+
+In response, the United States and its allies have attacked Houthi targets in Yemen since January.
+
+...
+
+[Data](articles/44d0283a.json)
+
+---
+
 ### Question at the Court of Appeal
 
 *2024-06-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197959) · `si`
@@ -2157,177 +2265,5 @@ The value of the dollar is Rs.. As reported as 310.05. The dollar's purchase pri
 [Data](articles/ae3756bf.json)
 
 [Extended Data](ext_articles/ae3756bf.ext.json)
-
----
-
-### Granny who fills the womb of the direction helpless
-
-*2024-06-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197954) · `si`
-
-In Bandaragama, 78-year-old Indrani Perera selflessly feeds several stray dogs daily with the earnings from selling fruits like oranges, coconuts, and bananas. Her kindness inspires locals, including children named Bola, Rosy, Red, and Red, teaching them valuable lessons about compassion towards animals. This story highlights the importance of empathy and care in our competitive world.
-
-🟩
-
-Kindness in the current competitive world is often a word that means in society.
-
-This story was heard from Bandaragama.
-
-We live in the world and work with the basic needs of the income.
-
-Whose refugee will be able to stop the hunger of income we have done and do so?
-
-That is why we have a story about a beautiful grandchildren who dedicated their daily life for the noble pition, from Bandaragama.
-
-Indrani Perera, who is now 78 and passed his life, fill the womb of several dogs in Bandaragama daily.
-
-It is with the revenue that sells orange, coconut and banana canes.
-
-She also said that Indrani receives the support of several persons in the area for this program.
-
-When he heard her voice every day, the Bandaragama day of Humans, Bola, Rosy, Red and Red, come to her as children.
-
-It is a lesson of real humanity to put a dog in the road and puts a dog on the road when they are old enough to put on the pet.
-
-The greatest heart to be innocent for innocent animals.
-
-◼️
-
-[Data](articles/7b80f5ea.json)
-
-[Extended Data](ext_articles/7b80f5ea.ext.json)
-
----
-
-### Nellikkulam Mountain Breakdown: Case Postponement
-
-*2024-06-20 14:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்லிக்குளம்-மலை-உடைப்பு-வழக்கு-ஒத்திவைப்பு/175-339179) · `ta`
-
-Protesters from the Nellikkulam Hills area, arrested after a dispute over land ownership, had their case postponed until July 4th.
-
-🟩
-
-Those who protested that they were affected by the hill in the Nellikkulam Hills area belonging to the Muttur East Senayoor Grama Niladhari Division, arrested and released on bail.
-
-The 10 civilians who protested during the breakup of Kalmalai were arrested by the Sampur police on Tuesday (11) and produced at the Muttur Magistrate's Court on the 12th.
-
-Following this, Muttur Magistrate Dasneem Bausan visited the site on Saturday (15).In this case, the case was taken up for hearing on Thursday (20) in the presence of the Magistrate's Court in Muttur court.
-
-When the case was taken up for hearing, both sides were present.. The case was adjourned to July 4.
-
-◼️
-
-[Data](articles/55bbadc2.json)
-
-[Extended Data](ext_articles/55bbadc2.ext.json)
-
----
-
-### Sri Lanka, Saudi Arabia to cooperate in promoting direct investment
-
-*2024-06-20 14:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-saudi-arabia-to-cooperate-in-promoting-direct-investment-168916/) · `en`
-
-ECONOMYNEXT – Sri Lanka and the Kingdom of Saudi Arabia will sign a memorandum of understanding for cooperation in promoting direct investment, Cabinet spokesman minister Bandula Gunawardena said.
-
-“Both sides reached an agreement,” during the special meeting of the World Economic Forum held in Riyadh, Saudi Arabia, Gunawardena told reporters on Thursday.
-
-The agreement “aims to attract direct investment to the country and improve the investment environment of both countries through policy and legal reforms, provision of advanced and integrated infrastructure, process redesign, etc.”
-
-Sri Lanka lagged behind regional nations in attracting foreign direct investment, the minister said. “Compared to Singapore which last year attracted FDIs of 140 billion dollars, India 70 billion dollars, Vietnam 28 billion dollars, and Thailand 20 billion dollars, Sri Lanka only attracted 1 billion dollars.”
-
-...
-
-[Data](articles/7eedf595.json)
-
-[Extended Data](ext_articles/7eedf595.ext.json)
-
----
-
-### Appointment of new military post chief
-
-*2024-06-20 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186562) · `ta`
-
-Major General Rohitha Aluvihara, previously the Chief Commander of the Security Forces (OCDS), has been appointed to lead the Sri Lankan military. His roles include serving as the Deputy General of the Sri Lankan Army, Colonel Commander of the Infantry Brigade, and the 18th Commander of the Security Forces (Central).
-
-🟩
-
-Major General Rohitha Aluvihara has been appointed as the new military position of the Sri Lankan military.
-
-Major General SRP of Vijayabahu Infantry Brigade. Aluvihara has served as the Chief Commander of the Chief of the Security Forces (OCDS) before the appointment of the Commander of the 11th Brigade of Pallekel.
-
-He has served as the Deputy General of the Sri Lankan Army, the Colonel Commander of the Corporation of the Infantry Brigade and the 18th Commander of the Security Forces (Central).
-
-◼️
-
-[Data](articles/6a8a09bb.json)
-
-[Extended Data](ext_articles/6a8a09bb.ext.json)
-
----
-
-### Request from the Atamasthanadhi Thero
-
-*2024-06-20 14:08:14* · [`adalk`](https://www.ada.lk/breaking_news/අටමස්ථානාධිපති-හිමියන්ගෙන්-ඉල්ලීමක්/11-410336) · `si`
-
-Ven. Pallegama Gnanarathana Thera, commenting on the Poson Festival, emphasized the importance of gratitude towards Mihindu. He urged devotees to participate in the National Poson Festival organized by this year's committee. Highlighting the significance of Mihindu and the Arahant, he encouraged Buddhists to visit Anuradhapura and Mihintale for spiritual enrichment.
-
-🟩
-
-The Atatatamadha Hemaratne, Ven. Pallegama, the Atamasthanadhi Ven.
-
-Commenting on the Poson Festival, the Atamasthana The Hemanarathana Thera further said:
-
-"Publumerants who focus on Mihindu considers the same intenance of gratitude to the week of Pozon and requested all devotees.
-
-This year's Poson Committee has arranged for the National Poson Festival Ceremony this year.
-
-Miiiwin and the summit of thera to the Arahant and theravation of the Sri Lankan service of the Sri Lankan service should be comparable and commemorating.
-
-The Buddhists integrate the Navigation of the Navalness in Anuradhapura, including Mihintale. Devotees attending Anuradhapura for this purpose. "
-
-◼️
-
-[Data](articles/a5d7a802.json)
-
-[Extended Data](ext_articles/a5d7a802.ext.json)
-
----
-
-### If women's representation has increased, corruption fraud is minimal
-
-*2024-06-20 14:01:17* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනය-තුළත්-කාන්තා-නියෝජනය-වැඩි-වූවා-නම්-දූෂණ-වංචා-අවම-වෙනවා/11-410335) · `si`
-
-In 2014, the Minister of Education highlighted the importance of increasing women's representation in Sri Lanka, linking it to reduced corruption and fraud. He noted the enthusiasm for new technologies among students and the potential of the advanced curriculum to empower women. The event, attended by various international and local figures, emphasized the significance of gender equality and the role of education in achieving societal progress.
-
-🟩
-
-In 2014, the student community is enthusiastic to study the new technology, Engineering Technology and Information Technology Advanced Technology Curriculum in 2014 at the year 2014.Minister of Education Dr. Susil Susil Susil Susil Paranantha said that a trend is likely to be seen.
-
-The Minister made this observation at a meeting of projects that have been organized to implement the country's projects in the future to empower Sri Lankan women.. The program was presented to brand ambassadors at the Hilton Colombo under the patronage of the Minister.
-
-International Agency Melki Perera, Canada, Australia, England, French, England, French, Italian representatives were also present. It is noteworthy that specialist doctors, university vice chancellors, businessmen, journalists, lecturers, joining the event.
-
-...
-
-[Data](articles/eff7f717.json)
-
-[Extended Data](ext_articles/eff7f717.ext.json)
-
----
-
-### Army appoints new Staff Head
-
-*2024-06-20 13:55:30* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවට-නව-මාණ්ඩලික-ප්‍රධානීවරයෙක්-පත්-කරයි/11-410334) · `si`
-
-Major General Roitharare, representing the Chief of Army, has been named the new Chief of Parliament.
-
-🟩
-
-Major General Roitharare, who represents the Chief of Army, has been appointed as the Chief of Parliament.
-
-◼️
-
-[Data](articles/8ff65731.json)
-
-[Extended Data](ext_articles/8ff65731.ext.json)
 
 ---

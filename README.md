@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 20:35:47**
+As of **2024-06-21 20:54:33**
 
 ## Newspaper Stats
 
-*Scraped **31,503** Articles*
+*Scraped **31,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,79 @@ adaderanalk | 3,567
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,890
-adaderanasinhalalk | 5,131
+adaderanasinhalalk | 5,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,501 (100.0%) of 31,503 articles have been extended.
+31,503 (100.0%) of 31,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### 10ක් රෝහලට යැවූ ජෙලිෆිෂ්
+### කෝටි 18ක මහල් නිවසක් දන්දුන් බුද්ධ පුත්‍රයෙක්
+
+*2024-06-21 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198003) · `si`
+
+බුද්ධ කාලීනව භාරතයේ විසූ ජීවක වෙදදුරු ගිලනුන්ට උපස්ථාන කරමින් සමාජය සුවපත් කිරීමට කැප වූ ආකාරය අප ඉතිහාසය තුළ අසා තිබේ.
+
+එවැනි වෙදදුරෙකු නොවුන ද, ගිලනුන්ට උපස්ථාන කිරීම උදෙසා උතුම් වූ මෙහෙවරක් සිදුකරන බුද්ධ පුත්‍රයෙකු පිළිබඳ කතාවක් මේ උතුම් පෝ දිනයේ අපට අසන්නට ලැබුණි.
+
+ඒ නිසාම මිනිසුන් තමන්ට නිරෝගි දිවියක් උරුම කරගැනීමට බොහෝ සෙයින් කැපවී කටයුතු කරයි.
+
+ඒ අතරේ ඉතාම සුළු පිරිසක් අනෙකාට නිරෝගි දිවි පෙවෙතක් උරුම කරදීමට තමන් සතු දෑ කැපකරමින් වෙහෙසී කටයුතු කරයි.
+
+මේ එවැනි පරාර්ථකාමි සිතුවිල්ලක් ඔස්සේ බිහිවූ මාබොටුවන ශ්‍රී පියරතන නාහිමි සුව සෙවණයි.
+
+බාහිරින් මෙන්ම අභ්‍යන්තරයෙන්ද මෙම ගොඩනැගිල්ලේ තරු පන්තියේ හෝටලයක පෙනුම සහ පහසුකම් තිබුණද මෙය සැබවින්ද ගිලනුන්ට උපස්ථාන කිරීම වෙනුවෙන් බිහිකළ ආයතනයකි.
+
+ගාල්ල කරාපිටිය ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ගැනීමට පැමිණෙන පිළිකා රෝගීන්ට, වකුගඩු රෝගීන්ට සහ හදවත් රෝගීන්ට එම රෝගයට ප්‍රතිකාර ලබාගන්නා කාලය තුළ නවාතැන් පහසුකම් හා ආහාරපාන නොමිලේ සැපයීම මේ ඔස්සේ සිදු වේ.
+
+...
+
+[Data](articles/852b39ca.json)
+
+---
+
+### 10 jellyfish who sent to the hospital
 
 *2024-06-21 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198002) · `si`
 
-ජෙලිෆිෂ් මත්ස්‍ය විශේෂය ශරීරයේ ගෑවීමෙන් සමෙහි ඇති වූ ආසාත්මිකතාවයක් හේතුවෙන් පානදුර මුහුදේ දියනාමින් සිටි දස දෙනෙකු රෝහල්ගත කළ බව පොලීසිය පවසයි.
+Ten people were hospitalized after experiencing severe allergic reactions to jellyfish stings, particularly from species like the red and bluebottle jellyfish. They were treated at the Panadura Base Hospital.
 
-මෙම මත්ස්‍ය විශේෂය ශරීරයේ ගැවුණු ස්ථානයන්හි රතුපැහැ ගැන්වීම, කැසීම් සහ වේදනාවක් දැනීම වැනි රෝග ලක්ෂණ මතුව තිබේ.
+🟩
 
-පොලීසිය පැවසුවේ මෙම පිරිස ප්‍රතිකාර සඳහා පානදුර මූලික රෝහලට යොමුකල බවය.
+Ten patients were hospitalized due to the allergic of the jellyfish fish by the allergic of the body, police said.
+
+This species has emerged, such as red and educating in the body.
+
+Police said that they were referred to the Panadura Base Hospital for treatment.
 
 ◼️
 
 [Data](articles/357360d6.json)
 
+[Extended Data](ext_articles/357360d6.ext.json)
+
 ---
 
-### 25 இந்து பெருஞ்சமய அமைப்புகள், மன்றங்கள் ஒருங்கினைந்து நடாத்திய நிகழ்வு
+### 25 Hindu Great Organizations and Forums
 
 *2024-06-21 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
 
-இந்து சமய கலாசார அலுவல்கள் திணைக்களத்தின் அனுசரணையில் ஸ்ரீ லஸ்ரீ ஆறுமுகநாவலர் சபை ஏற்பாட்டில் 25 இந்து பெருஞ்சமய அமைப்புகள், மன்றங்கள் ஒருங்கினைந்து நடாத்திய நிகழ்வு பம்பலப்பிட்டி இந்துக் கல்லூரி முதன்மை மண்டபத்தில் நடைபெற்றது அங்கு வருகைதந்த பேருராதீன இருபத்தைந்தாம் குரு மகா சந்நிதானப் பெருமானார், கயிலைப்புனிதர், முதுமுனைவர் தருப்பெருந் சாந்தலிங்க மருதாசல அடிகளாரை வரவேற்று வைபவத்தில் அவரை வாழ்த்தி ஆசீர்வாதம் பெறுவதையும் காணலாம்.
+The Sri Lasree Arumugar Sabha, organized by the Department of Hindu Cultural Affairs, showcases Hindu culture at the Bambalapitiya Hindu College Primary Hall.
+
+🟩
+
+The Sri Lasree Arumugar Sabha organized by the Department of Hindu Cultural Affairs, held at the Bambalapitiya Hindu College Primary Hall You can also see.
 
 ◼️
 
 [Data](articles/e0505a65.json)
+
+[Extended Data](ext_articles/e0505a65.ext.json)
 
 ---
 
@@ -2255,33 +2291,5 @@ In order to promote milk production in Sri Lanka, the focus was on the efficienc
 [Data](articles/145fc6ea.json)
 
 [Extended Data](ext_articles/145fc6ea.ext.json)
-
----
-
-### The young man who handed over Lakshmi to the right person
-
-*2024-06-20 21:12:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கண்டெடுத்த-லட்சுமியை-உரியவரிடம்-ஒப்படைத்த-இளைஞன்/73-339193) · `ta`
-
-A wallet found by Anas Nizamuddin in Toppur was returned to its owner, Chaturanga Kumara from Bibil, after being posted on social media due to lack of phone numbers. The handover was facilitated by the Toppur Masjidul Balah Jumma School President, Jesakir (Salim), on Thursday morning.
-
-🟩
-
-The person who found the wallet of the young man from the Bibil area has handed it to the appropriate person.
-
-Anas Nizamuddin, a native of Toppur, found a wallet lying on the street on the 19th when he was on his way to Kinniya.
-
-There are no telephone numbers to contact him. Since his documents were in the pan, the person who found the wallet had been posted on the social network to report to the person in social networks.
-
-The person who lost the wallet visited and contacted the appropriate person and received his cash bag on Thursday morning (20) and thanked Nizamuddin.
-
-It is noteworthy that the wallet and documents were handed over through the Toppur Masjidul Balah Jumma School President Jesakir (Salim).
-
-It is noteworthy that the person who lost the wallet is the Chaturanga Kumara, who is the elder of the Bibil area.R
-
-◼️
-
-[Data](articles/e08b7d1e.json)
-
-[Extended Data](ext_articles/e08b7d1e.ext.json)
 
 ---

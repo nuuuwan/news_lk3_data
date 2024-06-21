@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 16:34:32**
+As of **2024-06-21 16:51:17**
 
 ## Newspaper Stats
 
-*Scraped **31,486** Articles*
+*Scraped **31,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,56 +13,148 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,730
-economynextcom | 1,822
+economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
 adaderanalk | 3,564
 tamilmirrorlk | 3,698
 dailymirrorlk | 4,733
 virakesarilk | 4,887
-adaderanasinhalalk | 5,122
+adaderanasinhalalk | 5,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,479 (100.0%) of 31,486 articles have been extended.
+31,486 (100.0%) of 31,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### අයහපත් කාලගුණයෙන් හානි වූ නිවාස වෙනුවෙන් වන්දි ලබාදීමට ජනපතිගෙන් උපදෙස්
+### ශ්‍රී ලංකා කාන්තා පිලට විශිෂ්ට ජයක්
+
+*2024-06-21 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197996) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සහ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අතර තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගය ලකුණු 161කින් ජයග්‍රහණය කිරීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම සමත්වුණි.
+
+තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායමේ ආරාධනයෙන් ශ්‍රී ලංකා ක්‍රීඩිකාවන් පළමුවට පන්දුවට පහරදීම සඳහා පිටියට පිවිසි අතර නියමිත පන්දුවාර 50 තුළ කඩුලු 06ක් දැවී ඔවුන් ලබාගත් ලකුණු සංඛ්‍යාව 275කි.
+
+එම ඉනිම වෙනුවෙන් ශ්‍රී ලංකා කණ්ඩායමේ නායිකා චමරි අතපත්තු ලකුණු 91ක් රැස්කිරීමට සමත් වුණි.
+
+නිලක්ෂිකා සිල්වා ලකුණු 63ක් සහ අනුෂ්කා සංජීවනී ලකුණු 55ක් ලබා ගත්තාය.
+
+ඉන් අනතුරුව පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායමට පන්දුවාර 34 පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී රැස්කර ගත හැකි වුයේ ලකුණු 115ක් පමණි.
+
+තරගාවලිය තුනට බිංදුවක් ලෙස ශ්‍රී ලංකා කාන්තා කණ්ඩායම ජයගැනීම සුවිශේෂ වේ.
+
+◼️
+
+[Data](articles/ad4de4db.json)
+
+---
+
+### රන් බිස්කට් තොගයක් සමග ගුවන් තොටුපොළේ ආරක්ෂක නිලධාරියෙක් අත්අඩංගුවට
+
+*2024-06-21 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197995) · `si`
+
+නීතීවිරෝධී ලෙස මෙරටට ගෙන ආ රුපියල් හාර කෝටි අසූ ලක්ෂයක් පමණ වටිනා රන් බිස්කට් තොගයක් ගුවන් තොටුපොළෙන් රැගෙන යාමට උත්සහ කළ ගුවන් තොටුපොළ ආරක්ෂක අංශ නිලධාරීවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අද (21) අලුයම ගුවන් මඟින් පැමිණි පුද්ගලයෙකු විසින් සංක්‍රමණික ගුවන් මගී පර්යන්තයේ වැසිකිළියක් තුළ දී රන් බිස්කට් 18ක් අදාළ නිලධාරියා වෙත ලබාදී ඇති අතර ඔහු ඒවා සිය ඇඳුමේ සඟවාගෙන කටුනායක ගුවන් තොටුපොළෙන් පිටව යාමට උත්සහ දරා ඇති බව සඳහන්ය.
+
+එහිදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් ඔහු අත්අඩංගුවට ගෙන ඇති අතර සැකකරු සතුව තිබී සොයාගත් රන් බිස්කට් තොගය කිලෝ ග්‍රෑම් 02යි ග්‍රෑම් 86ක බරකින් යුතු වන බව සඳහන්ය.
+
+වසර 15ක සේවා කාලයක් ගුවන් තොටුපොළ ආරක්ෂක නිලධාරීවරයෙකු ලෙස සේවය කළ අයෙකු වන මොහු 40 හැවිරිදි හක්මණ ප්‍රදේශයේ පදිංචිකරුවෙකු බව වාර්තා වේ.
+
+රුපියල් 60,000ක මුදලක් ලබාදීමේ පොරොන්දුව මත මෙම ආරක්ෂක නිලධාරීවරයා අදාළ රන් බිස්කට් තොගය ගුවන් තොටුපළෙන් ඉවතට ගෙනයාමට උත්සහ කර ඇති බව රේගුව සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/bc8dacff.json)
+
+---
+
+### ශාරුක් වාර්තා අතරට
+
+*2024-06-21 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197994) · `si`
+
+ෆෝර්බ්ස් සඟරාවේ නවතම වාර්තා අනුව ඉන්දීය සුපිරි නළු ශාරුක් ඛාන් ඉන්දියාවේ ධනවත්ම නළුවා බවට පත්ව තිබේ.
+
+එක් චිත්‍රපටයක් වෙනුවෙන් ඉන්දීය රුපියල් කෝටි 150 ඉක්මවූ මුදලක් අය කරන ශාරුක්ගේ සම්පූර්ණ දළ වත්කම ඉන්දීය රුපියල් කෝටි 6,300කි.
+
+ෆෝර්බ්ස් සඟරාවේ ධනවත්ම ඉන්දීය නළුවන් අතරට අමීර් ඛාන්, අක්ෂේ කුමාර් සහ සල්මාන් ඛාන් ද අයත් වන අතර දකුණු ඉන්දීය නළුවන් කිහිපදෙනෙක්ද ඇතුළත්ව සිටී.
+
+◼️
+
+[Data](articles/9b491d58.json)
+
+---
+
+### Boosting Sri Lanka female employment can counter ageing population, migration
+
+*2024-06-21 16:00:00* · [`economynextcom`](https://economynext.com/boosting-sri-lanka-female-employment-can-counter-ageing-population-migration-168897/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s female employment lags Asian peers and clearing barriers to their work could be an important economic driver in the context of an ageing population and migration, Deputy Treasury Secretary R M P Rathnayake said.
+
+Sri Lanka’s female labor force participation was estimated at 29.4 percent, according to the latest survey, compared to men’s participation which is at 67.4 percent.
+
+However, many women also go abroad to countries with better monetary regimes and send back remittances.
+
+“If you compare the participation of the labor force with other regional countries, such as Indonesia, Malaysia, Vietnam and Singapore, they are very ahead of Sri Lanka,” Rathnayake said.
+
+“In Indonesia it’s 53% and Malaysia 52%, Vietnam 68%. So, it’s very high. And Singapore 62%.”
+
+Making it easier for females to work could also boost economic growth.
+
+...
+
+[Data](articles/ae9ae491.json)
+
+---
+
+### President instructs compensation to compensate for houses damaged due to inclement weather
 
 *2024-06-21 15:51:28* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්-හානි-වූ-නිවාස-වෙනුවෙන්-වන්දි-ලබාදීමට-ජනපතිගෙන්-උපදෙස්/11-410354) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පූර්ණ වශයෙන් හානි වූ නිවාස වෙනුවෙන් උපරිම සීමාවකට යටත්ව වන්දි මුදලක් ලබාදීමට හෝ එම නිවාස නැවත ඉදිකර දීමට පියවර ගන්නා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් උපදෙස් ලබා දුන් බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා පැවසීය.
+President Wickremesinghe ordered compensation for homes damaged by bad weather, with a focus on repair or regeneration. The Presidential Staff Head, Sagala Ratnayake, confirmed this decision, emphasizing efforts to aid both fully and partially damaged properties. Discussions included setting a maximum compensation limit for repairs or renovations, aiming to support affected individuals effectively.
 
-එසේම අර්ධ වශයෙන් හානි වූ නිවාස නැවත අලුත්වැඩියා කර ගැනීම සඳහා ද සිදුවී ඇති හානිය තක්සේරු කර යම් උපරිම සීමාවකට යටත්ව වන්දි මුදලක් ලබාදීමට පියවර ගන්නා බව ද සාගල රත්නායක මහතා සඳහන් කළේය.
+🟩
 
-සාගල රත්නායක මහතා මෙම අදහස් පළ කළේ පසුගිය දිනවල පැවති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පූර්ණ හා අර්ධ වශයෙන් හානි වූ නිවාස නැවත ඉදිකිරීම සම්බන්ධයෙන් ඊයේ (20) ජනාධිපති ලේකම් කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+President Ranil Wickremesinghe said that President Ranil Wickremesinghe was instructed by President Ranil Wickremesinghe and Presidential Staff Head of the President Sagala Ratnayake said President Ranil Wickremesinghe has instructed to pay compensation to be compensated or taken to regenerate these houses due to inclement weather.
 
-පසුගිය දිනවල රටේ විවිධ ප්‍රදේශවලට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ තද සුළං, ගංවතුර හා පස්කඳු කඩාවැටීම් වැනි ස්වභාවික ආපදාවන් නිසා හානි වූ නිවාස නැවත ඉදිකර දීම හෝ උපරිම සීමාවකට යටත්ව සුදුසු වන්දි මුදලක් ලබා දීම සම්බන්ධව මෙහිදී දිර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+He also said that steps will be taken to pay the damage to repairing partially damaged houses and will be paid to a maximum limit.
+
+Mr. Sagala Ratnayake made these comments participating at the discussion held at the Presidential Secretariat yesterday (20) regarding the reconstruction of full and partially damaged houses due to adverse weather conditions.
+
+Recently discussions with the natural disasters caused by natural disasters, such as strong winds, floods and five crimes, such as strong winds, floods and five crimes, such as natural disasters, such as natural disasters, such as the inclement weather conditions.
 
 ...
 
 [Data](articles/9e735af4.json)
 
+[Extended Data](ext_articles/9e735af4.ext.json)
+
 ---
 
-### மன்னாரில் கட்டாக்காலி மிருகங்களுக்கு உணவு தானம் வழங்கப்பட்டது
+### Food donated to Kattakali animals in Mannar
 
 *2024-06-21 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186645) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு மன்னாரில் கட்டாக்காலி மிருகங்களுக்கு உணவு தானம் வழங்கப்பட்டுள்ளது.
+On Poson Pournami Day, various animal welfare groups in Mannar donated food to local wildlife including dogs, donkeys, monkeys, cats, and crows. The Animals Humanitarian Management Association, along with other organizations like Wet of Beicher, Hard Meal, Million Wives, Bridging Lanka, and Hendro Animal Rescue, ensured a feast of vegetables and rice for these animals.
 
-மன்னாரில் நாய்கள், கழுதைகள், குரங்குகள், பூனைகள் மற்றும் காகங்களுக்கு மரக்கறிகள், சோறு வழங்கப்பட்டுள்ளது.
+🟩
 
-விலங்குகள் மனிதநேய முகாமைத்துவ சங்கத்துடன் வெட் ஒப் பியுச்சர், வன் மீல், மில்லியன் வைவ்ஸ், பிரிட்ஜிங் லங்கா மற்றும் ஹென்ட்ரோ அனிமல் ரெஸ்க்யூ ஆகிய அமைப்புகளும் இணைந்து இந்த தானம் வழங்கும் நிகழ்வை நடத்தியுள்ளன.
+Food donated to Kattakali animals in Mannar on the eve of Poson Pournami Day.
+
+In Mannar, dogs, donkeys, monkeys, cats and crows are provided with vegetables and rice.
+
+The Animals Humanitarian Management Association, Wet of Beicher, Hard Meal, Million Wives, Bridging Lanka and Hendro Animal Rescue, have organized the donation event.
 
 ◼️
 
 [Data](articles/7b5515fb.json)
+
+[Extended Data](ext_articles/7b5515fb.ext.json)
 
 ---
 
@@ -176,35 +268,49 @@ North in the western slopes of the central hills, North. At times, Trincomalee, 
 
 ---
 
-### இந்திய - இலங்கை சர்வதேச கடல் எல்லையை ஆய்வு செய்த மத்திய பாதுகாப்புத் துறை இணை அமைச்சர் சஞ்சீவ் சீத்
+### Union Defense Minister Sanjeev Seet
 
 *2024-06-21 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186631) · `ta`
 
-இராமநாதபுரம் மாவட்டம் இராமேஸ்வரத்தை அடுத்து தனுஷ்கோடி அரிச்சல் முனையில் நடைபெற்ற யோகா நிகழ்ச்சியில் கலந்துகொண்ட மத்திய பாதுகாப்பு துறை இணை அமைச்சர் சஞ்சீவ் சீத் இந்திய இலங்கை சர்வதேச கடல் எல்லை பகுதியில் செய்யப்பட்டுள்ள பாதுகாப்பு நடவடிக்கை குறித்து ஆய்வு செய்ததுடன், இந்திய எல்லையில் உள்ள தேசிய கொடிக்கு மரியாதை செலுத்தினார்.
+Union Defense Minister Sanjeev Seet visited Dhanushkodi Ariyalchal post-Ramanathapuram district, inspecting security at the Sri Lankan International Maritime border and participating in a yoga event organized by the Central Defense Department. He also honored the national flag on the Indian border, toured the INS Holy Naval Base, and engaged with security officials regarding surveillance.
 
-அதன் ஒரு பகுதியாக ராமநாதபுரம் மாவட்டம் தனுஷ்கோடி அரிச்சல் முனை பகுதியில் மத்திய பாதுகாப்புத் துறை சார்பில் யோகா பயிற்சி இன்று  நடைபெற்றது.
+🟩
 
-இந்த நிகழ்வில்  கலந்து கொள்வதற்காக நேற்று வியாழக்கிழமை  (20) சிறிய ரக ராணுவ விமான மூலம் ஐ.என்.எஸ் பருந்து கடற்படை தளத்திற்கு வந்த மத்திய பாதுகாப்புத்துறை இணை அமைச்சர் சஞ்சீவ் சீத் இந்திய கடற்படை  மற்றும் கடலோர கடற்படை காவல் படை முகாம் களை ஆய்வு செய்த பின்னர் ராமேஸ்வரம் கடல் பகுதியை ஆய்வு செய்ததுடன், பாதுகாப்பு ஏற்பாடுகள் மற்றும்  கண்காணிப்பு பணிகள் குறித்து பாதுகாப்பு துறை அதிகாரிகளிடம்  கேட்டறிந்தார்.
+Union Defense Minister Sanjeev Seet, who attended a yoga event at Dhanushkodi Ariyalchal in the aftermath of Ramanathapuram district, inspected the security measures in the Sri Lankan International Maritime border and paid homage to the national flag on the Indian border.
+
+As part of this, the Yoga training was held today on behalf of the Central Defense Department in Dhanushkodi Ariyalukkal area in Ramanathapuram district.
+
+Union Defense Minister Sanjeev Seet Sidiv Sidiv Sidiv Sidiv Sidi, who arrived at the INS Holy Naval Base on Thursday (20) to attend the event, inspected the Rameshwaram Sea and security arrangements and security arrangements and security arrangements and security arrangements.He asked the security department officials about surveillance.
+
+The Union Minister of State for Rameshwaram Ramanathaswamy this morning, the Union Minister of State for Dhanushkodi, then participated in the Yoga Day on the Yoga Day held at the beach of Dhanushkodi.
 
 ...
 
 [Data](articles/03cd046f.json)
 
+[Extended Data](ext_articles/03cd046f.ext.json)
+
 ---
 
-### பிறரின் கையடக்கத் தொலைபேசி சிம் அட்டைகளை பயன்படுத்தி பண மோசடி ; சந்தேகநபருக்கு விளக்கமறியல்
+### Cash fraud using other mobile phone SIM cards;Explanatory
 
 *2024-06-21 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186630) · `ta`
 
-பிறரின் கையடக்க தொலைபேசி சிம் அட்டைகளை பயன்படுத்தி இலட்சக்கணக்கில் பண மோசடி செய்த சந்தேக நபரை ஜூலை 4 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் உத்தரவிட்டுள்ளார்.
+A suspect accused of cash fraud using others' mobile SIM cards was remanded until July 4th by Colombo Chief Magistrate Thilina Kamage. The magistrate ordered the Criminal Investigation Department to file charges against the suspect, identified as Hatton, after his production before the Criminal Investigation Unit.
 
-சந்தேக நபரான ஹட்டனைச் சேர்ந்தவர், குற்றப் புலனாய்வுப் பிரிவின் சைபர் குற்றவியல் கண்காணிப்புப் பிரிவினரால் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட பின்னர் கொழும்பு பிரதான நீதவான் திலின கமகே விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
+🟩
 
-சந்தேக நபரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட பிரதம நீதவான் திலின கமகே, வழக்கு விசாரணைகளை ஜூலை 4ஆம் திகதி நீதிமன்றத்தில் தாக்கல் செய்யுமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு உத்தரவிட்டார்.
+The Colombo Chief Magistrate has ordered the suspect to be remanded until July 4, using the mobile phone SIM cards of others.
+
+Colombo Chief Magistrate Thilina Kamage ordered the interrogation of the suspect, Hatton, after being produced before the Criminal Investigation Unit of the Criminal Investigation Division.
+
+Chief Magistrate Thilina Kamage ordered the Criminal Investigation Department to file a case in court on July 4.
 
 ◼️
 
 [Data](articles/40faf5fc.json)
+
+[Extended Data](ext_articles/40faf5fc.ext.json)
 
 ---
 
@@ -230,21 +336,29 @@ Initial investigations conducted by Sri Lanka Customs have revealed that the arr
 
 ---
 
-### யாழ். கல்லுண்டாய் பகுதி மக்கள் கோரிக்கையை முன்வைத்து போராட்டம்!
+### Yall. Kalundai area people protest
 
 *2024-06-21 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186634) · `ta`
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து இன்று வெள்ளிக்கிழமை (21) யாழ்ப்பாணம், கல்லுண்டாய் பகுதி மக்கள் அவர்களது குடியேற்ற திட்டத்திற்கு அருகாமையில் கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+Residents of Jaffna and Kalundai protested on Friday against a building project funded by a German woman, affecting both areas. The project, approved by the Chandilipayi Divisional Secretary, primarily benefits one division, causing discontent among locals. A Samurdhi officer's involvement has added to the confusion, with accusations of favoritism and neglecting the needs of both communities. Protesters demand unity between the two divisions.
 
-கல்லூண்டாய் குடியேற்றத்திட்ட பகுதியில் ஜே/135, ஜே/136 என இரண்டு கிராம சேவகர் பிரிவுகள் உள்ளன. ஆனால் மொத்தமாக 88 குடும்பங்கள் தான் வசிக்கின்றன. ஜ/135 கிராம சேவகர் பிரிவில் சுமார் 27 குடும்பங்கள் தான் உள்ளன. ஏனையோர் ஜ/136 கிராம சேவகர் பிரிவில் தான் உள்ளனர்.
+🟩
 
-இரண்டு கிராமங்களையும் பிரிப்பதற்கு, சண்டிலிப்பாய் பிரதேச செயலரின் அனுமதியுடன், ஜேர்மனியை சேர்ந்த பெண் ஒருவரின் நிதியில் கட்டடம் ஒன்று கட்டப்படுகிறது. இந்த கட்டடம் ஜே/135 பகுதியைச் சார்ந்ததாகவே உள்ளது. இதனால் ஜ/136 பகுதி மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+The people of Jaffna and Kalundai have launched a protest campaign near their settlement program on Friday (21).
 
-இந்த கட்டடம் யாருக்காக, எந்த நோக்கத்திற்காக, எந்த நிர்வாகத்தின் கீழ் கட்டப்படுகின்றது என்ற எதுவும் எமக்கு தெரியாது. இதுகுறித்து கிராம சேவகரை கேட்டபோது, அது சம்பந்தமான எந்தவொரு உத்தியோகபூர்வ தகவலும் தனக்கு வழங்கப்படவில்லை என கூறுகிறார் என்றனர்.
+There are two Grama Niladhari Divisions, J/135 and J/136. But the total of 88 families live in. There are about 27 families in the J/135 Grama Niladhari Division. Others are in the Grama Niladhari Division.
+
+To divide the two villages, with the permission of the Chandilipayi Divisional Secretary, a German woman's fund is being built. This building is dependent on J/135. This has affected the people of J/136.
+
+For whom this building is, for what purpose, we know nothing of which management is built. When asked about this, he said that he had not been given any official information about it.
+
+Samurdhi officer intervening and causing confusion. We are in confusion as Grama Sevakara Samurdhi Officer. We were also happy with the people of two parts. But a Samurdhi officer divides the two people and causes trouble.
 
 ...
 
 [Data](articles/9c01f809.json)
+
+[Extended Data](ext_articles/9c01f809.ext.json)
 
 ---
 
@@ -272,21 +386,27 @@ It is suspected that the cause of the incident may not be unknown.
 
 ---
 
-### 280 கைதிகளுக்கு பொதுமன்னிப்பு
+### Amnesty for 280 prisoners
 
 *2024-06-21 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186635) · `ta`
 
-பொசன் பௌர்ணமி தினத்தை முன்னிட்டு 289 கைதிகள் ஜனாதிபதி விசேட பொது மன்னிப்பின் கீழ் இன்று வெள்ளிக்கிழமை (21) விடுதலை செய்யப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+On Poson Pournami Day, 289 prisoners were pardoned under the President's Special Amnesty, including 283 males and 6 females from various prisons across the country.
 
-வெலிக்கடை சிறைச்சாலையில் 19 கைதிகளும், மஹர சிறைச்சாலையில் 30 கைதிகளும், வாரியபொல சிறைச்சாலையில் 30 கைதிகளும், களுத்துறை சிறைச்சாலையில் இருந்து 28 கைதிகளும் உள்ளடங்களாக நாடு முழுவதும் உள்ள சிறைச்சாலைகளில் உள்ள  289 கைதிகள் விடுவிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அதன்படி, 283 ஆண் கைதிகளும் ஆறு பெண் கைதிகளும் ஜனாதிபதியின் மன்னிப்பைப் பெற்றுள்ளனர்.
+The Prisons Department said that 289 prisoners have been released on Friday (21) under the President's Special Amnesty amnesty on the occasion of Poson Pournami Day.
 
-அரசியலமைப்பின் 34ஆவது பிரிவிற்கு அமைய, ஜனாதிபதிக்கு வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைய இவ்விசேட பொது மன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் குறிப்பிட்டுள்ளது.
+The Department of Prisons has said that 19 prisoners in the Welikada Prison, 30 prisoners in Mahara Prison, 30 inmates in Wariyapola Prison and 28 prisoners from Kalutara Prison have been released.
+
+Accordingly, 283 male prisoners and six female prisoners have obtained the president's pardon.
+
+The Department of Prisons has stated that the Public amnesty has been granted in accordance with Article 34 of the Constitution and the powers granted to the President.
 
 ◼️
 
 [Data](articles/acfdab07.json)
+
+[Extended Data](ext_articles/acfdab07.ext.json)
 
 ---
 
@@ -1932,19 +2052,27 @@ In 2019, Sri Lanka has lost 8.3 billion rupees from the luxury tax on car permit
 
 ---
 
-### දකුණේ අස්වැන්න දුම්රියෙන් කොළඹට ගේන්න යයි
+### Southern host yield from train to Colombo
 
 *2024-06-20 20:07:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-අස්වැන්න-දුම්රියෙන්-කොළඹට-ගේන්න-යයි/11-410352) · `si`
 
-දුම්රිය මගින් බෙලිඅත්තේ සිට මරදාන දක්වා කෘෂි භාණ්ඩ ප්‍රවාහනය කිරීමේ විශේෂ වැඩසටහනක් ආරම්භ කිරිමට සැලසුම්කොට ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railways Department plans a pilot project starting June 29th to transport agricultural goods from Beliathe to Maradana via train. This initiative aims to help farmers sell their produce at fair prices by reducing transportation costs. The project was discussed at the Galle District Secretariat, involving officials from various districts.
 
-නියමු ව්‍යාපෘතියක් ලෙස මෙය ක්‍රියාත්මක කිරීමට සැලසුම්කොට ඇති අතර ජුනි මස 29 වැනි බෙලිඅත්ත සිට මරදාන දක්වා දුම්රිය මගින් කෘෂි භාණ්ඩ ප්‍රවාහනය කිරිමේ වැඩසටහන ආරම්භ කෙරේ.මෙහිදී ලෝක බැංකු ආධාර යටතේ දුම්රිය මගින් කෘෂි භාණ්ඩ ප්‍රවාහන කිරීමේ ක්‍රමවේද‍යක් සකස් කිරීමට සැලසුම්කොට ඇති අතර, Online app එකක් මගින් සහ දුරකථන hotline භාවිතයෙන් කෘෂි ප්‍රවාහන පහසුකම් සඳහා දුම්රිය වෙන් කර ගැනීමේ අවස්ථාව හිමිවේ.
+🟩
 
-මෙකී ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමෙන් ගොවීන්ගේ කෘෂි නිෂ්පාදන සාධාරණ මිලකට අලෙවි කරගැනීමට හැකිවීම, පසු අස්වනු හානිය අවම කර ගැනීම ,දුම්රිය ප්‍රවාහන ගාස්තු අවම වීම හා කෘෂි නිෂ්පාදන අතරමැදියන් විසින් සුරාගෙන කෑම අවම කරගැනීමට හැකිවන බව දුම්රිය දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+The Railways Department says that the train is planning to open a special program to transport agricultural goods from Beliathe to Maradana.
 
-...
+It is planned to be implemented as a pilot project and the transportation program of the train is scheduled to prepare an agricultural commodity method in June 29th.Using phone hotline, agro transport facilities will be reserved for agro transport facilities.
+
+The Railway Department states that it is possible to sell the agricultural products of the farmers at a reasonable price, reducing the farmers' agricultural products at a reasonable price, reduce the submerged transportation fees and reducing the agricultural products.
+
+The main discussion of this project was held at the Galle District Secretariat, Director General of the Ministry of Transport and Highways.A group of officials including Hambantota and Matara District Secretaries were present.
+
+◼️
 
 [Data](articles/5c060267.json)
+
+[Extended Data](ext_articles/5c060267.ext.json)
 
 ---
 
@@ -2159,101 +2287,5 @@ Attorney-at-Law Neil St. Sirimanna, who is said to have been damaged by the peti
 [Data](articles/6ab6e42a.json)
 
 [Extended Data](ext_articles/6ab6e42a.ext.json)
-
----
-
-### There is no inconvenience within the bacterial infection spreading in Japan - Minister of Health
-
-*2024-06-20 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186584) · `ta`
-
-Japan's health minister assures no inconvenience from a bacterial infection spreading rapidly. The minister addresses concerns about its impact on neighboring countries like Sri Lanka, emphasizing control measures and awareness among officials at entry points.
-
-🟩
-
-The Minister of Health, Sita Arambola, said that there is no inconvenience within the bacterial country that develops the disease, "Stropococcal Toxic Sok Syndram".
-
-With a bacterial infection spreading in Japan within 48 hours, will Sri Lanka be affected?The Minister of State was responding to a question raised by the Samanapriya Herath in Parliament yesterday.
-
-This bacteria can control the spread of this bacterial. It was impossible to control it because it was a virus.
-
-Although the bacteria in Japan are not infected in the country, it has been made clear to officers working in key areas, including Katunayake Airport, where foreigners enter the country.
-
-It has been reported that it can be controlled by drugs as it has become a bacteria but also a bacteria, and countries including Japan are engaged in controlling it.
-
-◼️
-
-[Data](articles/281263dd.json)
-
-[Extended Data](ext_articles/281263dd.ext.json)
-
----
-
-### Construction of Sampur solar power plant to begin mid-July
-
-*2024-06-20 19:54:00* · [`economynextcom`](https://economynext.com/construction-of-sampur-solar-power-plant-to-begin-mid-july-168938/) · `en`
-
-ECONOMYNEXT – Joint energy projects between India and Sri Lanka, including the Sampur solar power plant due to begin next month, took centre stage during bilateral discussions between president Ranil Wickremesinghe and visiting Indian External Affairs Minister S Jaishankar on Thursday.
-
-Wickremesinghe and Jaishankar discussed initiatives aimed at enhancing energy connectivity and developing the renewable energy sector, a statement by his media division said.
-
-“Significant attention was given to plans for an LNG supply, a proposed petroleum pipeline linking the two countries, and advancing oil and gas exploration projects. Additionally, it was announced that construction of the Sampur Solar Power Plant is set to commence in July 2024.”
-
-The visit comes amid delays in key Indian projects including land, oil and gas pipe, and grid connectivity deals, Adani’s wind power plant deals which are facing a legal battle, and port and investment zone projects in the Eastern port district of Trincomalee.
-
-...
-
-[Data](articles/66ba944c.json)
-
-[Extended Data](ext_articles/66ba944c.ext.json)
-
----
-
-### In 2050, the elders population in Sri Lanka exceeds 27 percent
-
-*2024-06-20 19:49:27* · [`adalk`](https://www.ada.lk/breaking_news/2050දී-ලංකාවේ-වැඩිහිටි-ජනගහණය-සියයට-27-ඉක්මවයි/11-410348) · `si`
-
-By 2050, Sri Lanka's elder population will exceed 27%, up from 27.6% adults in 2000, reflecting global trends. The Ministry of Health has initiated a pilot project, starting in 2022, aimed at enhancing the quality of life for seniors, focusing on the Colombo and Badulla districts.
-
-🟩
-
-The adult population of Sri Lanka is estimated to be 27.6% by 200 in 2000, according to data reports.
-
-Accordingly, these reports further stated that the world's elderly population is in relation to the rapid growth of the world.
-
-Speaking on the matter, the Secretary to the Ministry of Health, specialist medical Palitha Maheepala said that it was imperative to prepare a strong program for the elderly and older people.
-
-He further stated that the Ministry of Health, the Ministry of Health and the Ministry of Health and Children's Affairs, has recently launched a pilot project.
-
-The project is to provide a quality adult life for adult and older, and a three-year project, which was launched in 2022. Accordingly, the pilot projects have been carried out in the Colombo District in the Colombo District and the Badulla District of the Uva Province.
-
-◼️
-
-[Data](articles/70ad6aec.json)
-
-[Extended Data](ext_articles/70ad6aec.ext.json)
-
----
-
-### 2155 complaints regarding foreign employment irregularities this year
-
-*2024-06-20 19:46:08* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදෙස්-රැකියා-අක්‍රමිකතා-ගැන-පැමිණිලි-2155ක්/11-410347) · `si`
-
-In the first half of 2023, the Foreign Employment Bureau received 2155 complaints about foreign employment irregularities, with 1051 cases filed in court. There's a growing trend of Sri Lankans seeking overseas work. The Fraud Investigation Division arrested 65 individuals involved in fraud. Measures were taken to provide compensation amounting to six hundred thousand rupees. The Bureau advises potential employees to verify the legitimacy of institutions offering foreign employment before proceeding.
-
-🟩
-
-The Foreign Employment Bureau has received 2155 complaints regarding the malpractices of the Foreign Employment in January to June 18, 1051 complaints have been filed in court..
-
-The Bureau has shown that there is a greater trend of Sri Lankan workers for foreign employment.. The Fraud Investigation Division has also taken steps to arrest 65 cheater.
-
-2024 According to the Bureau of the first five months of Rs.. Steps have been taken to provide the six hundred thousand Rs.
-
-The Bureau is also requested for foreign employment to examine the institution registered institute before a foreign employment has been given a foreign employment.
-
-◼️
-
-[Data](articles/0ff3d6d2.json)
-
-[Extended Data](ext_articles/0ff3d6d2.ext.json)
 
 ---

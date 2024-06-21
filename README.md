@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 21:53:55**
+As of **2024-06-21 22:19:15**
 
 ## Newspaper Stats
 
-*Scraped **31,505** Articles*
+*Scraped **31,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 2,753
 adaderanalk | 3,568
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
-virakesarilk | 4,890
-adaderanasinhalalk | 5,132
+virakesarilk | 4,892
+adaderanasinhalalk | 5,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,505 (100.0%) of 31,505 articles have been extended.
+31,509 (100.0%) of 31,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### West Indies - Super 8 Competition
+
+*2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186662) · `ta`
+
+The Super 8 Tournament features the West Indies, US, UK, and South Africa, with the West Indies aiming to secure a spot in the semis despite losing to England. The US, having never faced the West Indies in an international T20 match before, is expected to put up a strong fight, especially considering their top six players. Meanwhile, India's chances are diminished after Pakistan's unexpected victory over them.
+
+🟩
+
+The Super 8 Tournament for the West Indies, the United States and the United States, will be held tomorrow morning at Barjdown Kensington Oval Playrang.
+
+The UK and South Africa, which have lost their first Super 8 matches, will try to get the first winning points of the West Indies and the United States, respectively.
+
+The West Indies, which won all competitions in the C. Group, started with a Super 8 round defeat of the West Indies. The West Indies, which lost to England, will only be able to enter the semi -finals only if the two teams - the United States and South Africa are in the next two matches.
+
+Meanwhile, India is not expected to win tomorrow's match after Pakistan has completely unexpectedly won the A group of India.. It is not surprising, however, that the United States shocked.
+
+However, it is not known whether or not King will play in the match against England.
+
+...
+
+[Data](articles/61a40f6f.json)
+
+[Extended Data](ext_articles/61a40f6f.ext.json)
+
+---
+
+### The goal of England
+
+*2024-06-21 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198005) · `si`
+
+In the T20 World Cup, England faces South Africa in the Super 08 match. South Africa made 163 runs losing 6 wickets in 6 overs.
+
+🟩
+
+The match between the Super 08, England and South Africa, will be played between the Twenty20 World Cup.
+
+South Africa scored 163 runs for the loss of six wickets in the loss of 6 overs.
+
+◼️
+
+[Data](articles/306115e5.json)
+
+[Extended Data](ext_articles/306115e5.ext.json)
+
+---
+
+### Rajitha commends President
+
+*2024-06-21 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198004) · `si`
+
+Rajitha praises President Ranil Wickremesinghe for handling Sri Lanka's financial crisis effectively, making it the fastest nation to declare bankruptcy. He criticizes opposition parties and emphasizes the importance of unity and decisive action in overcoming economic challenges.
+
+🟩
+
+Sri Lanka is the only country in which the bankruptcy is the only country in the shortest period of time.
+
+He further stated that the government is overcome during the crisis of the crisis of the President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/9b24cbb7.json)
+
+[Extended Data](ext_articles/9b24cbb7.ext.json)
+
+---
 
 ### Sri Lanka Police officers in India for specially-designed training course
 
@@ -106,7 +172,7 @@ Police said that they were referred to the Panadura Base Hospital for treatment.
 
 ### 25 Hindu Great Organizations and Forums
 
-*2024-06-21 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
+*2024-06-21 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
 
 The Sri Lasree Arumugar Sabha, organized by the Department of Hindu Cultural Affairs, showcases Hindu culture at the Bambalapitiya Hindu College Primary Hall.
 
@@ -119,6 +185,32 @@ The Sri Lasree Arumugar Sabha organized by the Department of Hindu Cultural Affa
 [Data](articles/e0505a65.json)
 
 [Extended Data](ext_articles/e0505a65.ext.json)
+
+---
+
+### People's Demonstration Struggle in front of the Nedundevu police station
+
+*2024-06-21 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186661) · `ta`
+
+Protesters gathered outside Nedundevu police station demanding justice for a murdered youth. The victim, from Neduntivu's seventh region, was found dead from beating. His body was released post-autopsy and funeralized near the police station. A suspect was arrested and treated at Jaffna's Teaching Hospital. Protesters later marched with the casket.
+
+🟩
+
+People were involved in a protest in front of the Nedundevu police station in order to seek justice for the murdered youth in the Neduntivu area.
+
+In the early hours of this morning, a youth from the seventh region of Nedundevu was found dead after being beaten.
+
+The body was handed over to his relatives on Thursday (20) after the autopsy, and the funeral took place on Friday (21) at his residence and then carried the body of the body on the shoulders of the Nedundevu police station.
+
+A suspect in connection with the murder of a youth on Thursday (20) was already arrested on Thursday (20) and was receiving treatment at the Teaching Hospital in Jaffna.
+
+Subsequently, the dispersed people were buried in the body of the murdered young man.
+
+◼️
+
+[Data](articles/823f5b24.json)
+
+[Extended Data](ext_articles/823f5b24.ext.json)
 
 ---
 
@@ -2201,95 +2293,5 @@ If you know the information about this person, the wife of the missing is also a
 [Data](articles/ca86ca05.json)
 
 [Extended Data](ext_articles/ca86ca05.ext.json)
-
----
-
-### A target of 182 runs to Afghanistan
-
-*2024-06-20 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197970) · `si`
-
-In today's World Cup match against Afghanistan, India batted first after winning the toss. They scored 181 runs in 20 overs, losing 8 wickets.
-
-🟩
-
-The match between Afghanistan and India will be held today (20) in the World Cup.
-
-India was able to gain advantage of its coin and they decided to bat first.
-
-India scored 181 runs for the loss of 08 wickets at the end of 20 overs.
-
-◼️
-
-[Data](articles/fe175acc.json)
-
-[Extended Data](ext_articles/fe175acc.ext.json)
-
----
-
-### S. Jaishankar - Sajith Meeting
-
-*2024-06-20 21:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-சஜித்-சந்திப்பு/175-339195) · `ta`
-
-A meeting between Indian External Affairs Minister S. Jaishankar and Sri Lanka's Opposition Leader Sajith Premadasa in Colombo highlighted strengthening ties and mutual appreciation. Premadasa thanked India for support, especially in housing projects and ambulance services, and expressed hope for continued cooperation. He also discussed aspirations for smart education policies in Sri Lanka, aligning with India's influence. The Indian PM, Narendra Modi, praised Premadasa's role in fostering closer India-Sri Lanka relations.
-
-🟩
-
-A special meeting between Indian External Affairs S. Jayshankar and Opposition Leader Sajith Premadasa took place in Colombo today.
-
-Opposition Leader Sajith Premadasa thanked the Indian Foreign Minister of India, thanks to the aid and assistance received from the neighboring country, and that the friendship between the two countries and the United People's Power government will be maintained in the same way.
-
-The Opposition Leader said that the Indian government's contribution to Sri Lanka's housing projects and the Swaseriya Ambulance Service could not be forgotten.. Commenting on the educational policy of the Indian government, Opposition Leader Sajith Premadasa said his aim was to create smart education in Sri Lanka and the new world -related education policy.
-
-Opposition Leader Sajith Premadasa said he would congratulate Narendra Modi, who once again appointed Indian Prime Minister.
-
-...
-
-[Data](articles/0a79e3b9.json)
-
-[Extended Data](ext_articles/0a79e3b9.ext.json)
-
----
-
-### What happens to the presidential election?
-
-*2024-06-20 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197969) · `si`
-
-Mahinda Deshapriya urges for the Presidential Election to occur between September 20 and October 16, emphasizing its importance despite challenges. He criticizes any actions benefiting political parties during this process, advocating for transparency and fairness.
-
-🟩
-
-Former Chairman Mahinda Deshapriya says the Presidential Election should be held within the period between September 20 and October 16.
-
-He was speaking at a media briefing of the View Election Monitoring Organization as a senior citizen.
-
-He further stated that the Divine world collapses, but the presidential election cannot be postponed.
-
-"It is wrong to distribute the time of election laws. It is wrong to do anything that is advantageous for political parties. In these distribution, you must make a banner like the Commission and the observation organizations.
-
-◼️
-
-[Data](articles/c58a3238.json)
-
-[Extended Data](ext_articles/c58a3238.ext.json)
-
----
-
-### Indian Foreign Minister met Tamil leaders together
-
-*2024-06-20 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186605) · `ta`
-
-Indian Foreign Minister S. Jaishankar met Tamil leaders in Sri Lanka, focusing on development projects and support for Indian-origin Tamils. Discussions included the Sri Lankan-Indian Development Corporation, housing projects, and temple development post-elections.
-
-🟩
-
-Foreign Affairs Minister S. Jaishankar and Indian origin Tamil leaders have been paid attention to the Sri Lankan -Indian Development Corporation and additional cooperation on the Tamils ​​of Indian origin.. The meeting was held on Thursday as Indian Foreign Minister Dr. S. Jaishankar arrived in Sri Lanka on Thursday.
-
-On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan, Members of Parliament Velukumar and Udayakumar, its leader and the Governor of the Eastern Province, Senthil Thondaman and the Governor of the Eastern Province on behalf of the Ceylon Workers Congress. General Secretary and Minister Jeevan Thondaman and Member of Parliament Maruthapandi Rameswaran were also present.. The Minister of State for Education, Aravinda Kumar and Vadivel Suarez, the president's senior adviser, were also present at the meeting.
-
-...
-
-[Data](articles/e4e17ee3.json)
-
-[Extended Data](ext_articles/e4e17ee3.ext.json)
 
 ---

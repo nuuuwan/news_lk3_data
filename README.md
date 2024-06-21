@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 13:35:30**
+As of **2024-06-21 13:54:12**
 
 ## Newspaper Stats
 
-*Scraped **31,470** Articles*
+*Scraped **31,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 2,751
 adaderanalk | 3,562
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
-virakesarilk | 4,881
-adaderanasinhalalk | 5,119
+virakesarilk | 4,882
+adaderanasinhalalk | 5,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,469 (100.0%) of 31,470 articles have been extended.
+31,470 (100.0%) of 31,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### ව්‍යාපාරිකයන්ගේ සිම් කාඩ් හරහා කෝටි ගණන් මුදල් ඉස්සූ අයෙක් රිමාන්ඩ්
+
+*2024-06-21 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197989) · `si`
+
+දුරකථන සමාගම්වලින් ලබාගත් සිම්පත් අවභාවිත කර ධනවත් ව්‍යාපාරිකයන් පිරිසකගේ බැංකු ගිණුම්වලින් රුපියල් කෝටි 2කට අධික මුදලක් වංචා සහගතව ලබාගත් බව කියන පුද්ගලයෙකු ජුලි 04වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඇඹිලිපිටිය ප්‍රදේශයේ දුරකථන අලෙවි නියෝජිතයෙකු වන මෝහන් දයාලන් නැමැත්තෙකු පරිගණක ආවේක්ෂණ බුද්ධි ඒකකය මගින් මෙලෙස අත්අඩංගුවට ගනු ලැබීය.
+
+සැකකරු ඊයේ (20) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරමින් විමර්ශන නිලධාරීන් සඳහන් කළේ, හැටන් ප්‍රදේශයේ පදිංචිකරුවකු වන සැකකරු ඇඹිලිපිටිය ප්‍රදේශයේ දුරකථන අලෙවිසැලක් පවත්වාගෙන ගොස් ඇති බවය.
+
+ඊට පැමිණෙන ධනවත් ව්‍යාපාරිකයන් ඇතුළු බොහෝ පිරිසක් දුරකථන අලුත්වැඩියා කරගැනීම, සිම්පත් ලබාගැනීම වැනි සේවා රැසක් ඔහුගෙන් ඉටුකරගෙන ඇති බව එම ඒකකය අධිකරණයට දැනුම්දුනි.
+
+ඔහුගෙන් සේවාවන් ලබා ගැනීමට පැමිණෙන පුද්ගලයන් අතර සිටින ධනවත් ව්‍යාපාරිකයන් හඳුනාගෙන ඇති සැකකරු එම ව්‍යාපාරිකයන්ගේ සිම්පත්වල කුමක් හෝ දෝෂයක් ඔවුන්ට පෙන්වා එම සිම්පත් ඔහු භාරයට ගෙන එහි දත්ත සොරාගෙන ඇති බව විමර්ශන නිලධාරීන් පැවසීය.
+
+...
+
+[Data](articles/89f46359.json)
+
+---
+
+### ஹமாஸ் அமைப்பை முற்றாக அழிக்க முடியாது -இஸ்ரேலின் இராணுவபேச்சாளர் கருத்து
+
+*2024-06-21 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186637) · `ta`
+
+ஹமாஸ் இயக்கத்தினை முற்றாக அழிக்க முடியாது என இஸ்ரேல் இராணுவத்தின் உயர் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+ஹமாசினை அழிக்கலாம் அதனை காணாமல்போகச்செய்யலாம் என்ற எண்ணம் காணப்படுகின்றது ஆனால் இது மக்களின் கண்ணில் மண்ணை தூவுவது போன்றது என அவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேலின் பாதுகாப்பு அமைச்சரவை ஹமாசினை எவ்வாறு அழிப்பது என தீர்மானித்துள்ளது என குறிப்பிட்டுள்ள பெஞ்சமின் நெட்டன்யாகு அலுவகம்  காசா யுத்தத்தின் நோக்கமாக இஸ்ரேல் இதனை கருதுவதாகவும் தெரிவித்துள்ளது.
+
+இஸ்ரேலிய இராணுவம் இது குறித்து அர்ப்பணிப்புடன் உள்ளது என பெஞ்சமின் நெட்டன்யாகு அலுவலகம் தெரிவித்துள்ளது.
+
+இதேவேளை பின்னர் கருத்து தெரிவித்துள்ள இஸ்ரேலிய பாதுகாப்பு படையினர் தாங்கள் ஹமாசினை அழிப்பது குறித்து அர்ப்பணிப்புடன் உள்ளதாகவும் பேச்சாளர் ஹமாஸ் என்ற கொள்கை குறித்தே தெரிவித்தார் எனவும் குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/2407d212.json)
+
+---
 
 ### India is also a trusted friend in Sri Lanka - Jeeashid
 
@@ -2235,55 +2275,5 @@ President Ranil Wickremesinghe had previously stated that this bill comes with t
 [Data](articles/53f5095f.json)
 
 [Extended Data](ext_articles/53f5095f.ext.json)
-
----
-
-### Female Reinforcement Bill: No definition for female - Sarath Weerasekera charges
-
-*2024-06-20 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186595) · `ta`
-
-Sarath Weerasekera criticizes the Women's Reinforcement Bill for lacking clear definitions of "female," arguing it contradicts Sri Lanka's Constitution and culture. He highlights issues with the bill during a parliamentary debate, questioning its alignment with the country's laws and cultural norms.
-
-🟩
-
-Attempts to occupy the country through culture are carried out through new bills. The Women's Reinforcement Bill is contrary to the country's Constitution and Culture. Sarath Weerasekera, chairman of the National Security Department's Supervisory Committee, said that there was not sufficient definitions in the Bill.
-
-He said this while addressing the debate on the Women's Empowerment Bill held in Parliament on Thursday (20).
-
-We have presented a number of complications regarding the women's reinforcement bill, but they are not submitted to the council by the relevant parties. Who is the female in this bill?The formal definition is not mentioned. The woman who is identified as a woman can only be given the status of the woman. The woman cannot be considered a woman who is born and transformed into a woman through medical care. Therefore, the definition of a woman in the bill is not clearly mentioned.
-
-...
-
-[Data](articles/aab80aa1.json)
-
-[Extended Data](ext_articles/aab80aa1.ext.json)
-
----
-
-### Indian arrest minister arrives in Colombo
-
-*2024-06-20 18:19:57* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-විදෙස්-ඇමති-කොළඹට-එද්දී-ඉන්දීය-යුද-නැවක්-ත්‍රිකුණාමලයට/10-410341) · `si`
-
-The Indian Navy's ship, Kamorta, docked at Trincomalee Harbor, Sri Lanka, on June 20, 2023, marking its recognition by the Sri Lanka Navy. The visit includes interactions with the Eastern Naval Commands and activities like monitoring the ship's operations and celebrating International Yoga Day. Indian Foreign Minister S. Jayasankar also visited Colombo on the same day for official talks.
-
-🟩
-
-The Indian Navy's ship arrived at the Trincomalee Harbor on the Trincomalee harbor today (June 20, 23), and the Sri Lanka Navy was recognized by the Sri Lanka Navy.
-
-The Kamorta ship arrived at the Trincomalee harbor, which is a 109.2 meters and 390 meters and the shipwreck.
-
-Commanding Officer of the Commanding Officer of the Commanding Officer of the Commanding Officer of the Kamarta 'Ins' ​​Commander was held at the Eastern Naval Commands in the Eastern Naval Opportunity Headquarters.The visit is also scheduled to visit several areas.
-
-School children will be able to monitor the operational functionality of the 'IN KAMORTA' operational functionality and a coordinating program for the International Yoga Day will be held.
-
-He is due to leave the island on 23rd June 2024, a Sri Lanka Navy ship with a Sri Lankan naval ship with a Sri Lankan naval ship.
-
-Meanwhile Indian Foreign Minister S. Jayasankara also visited Colombo today for an official visit.
-
-◼️
-
-[Data](articles/4dae38e4.json)
-
-[Extended Data](ext_articles/4dae38e4.ext.json)
 
 ---

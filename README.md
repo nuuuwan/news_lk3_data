@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 07:22:37**
+As of **2024-06-21 07:46:40**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,426 (100.0%) of 31,433 articles have been extended.
+31,433 (100.0%) of 31,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### බංග්ලාදේශ - ඔස්ට්‍රේලියා තරගය ඇරඹෙයි
+### Bangladesh - Australia match begins
 
 *2024-06-21 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197975) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඔස්ට්‍රේලියාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+In the World Cup, Australia chose to bowl first after winning the toss against Bangladesh.
 
-එහි කාසියේ වාසිය දිනූ ඔස්ට්‍රේලියාව පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+🟩
+
+The match between the Australia cricket team will be played between the Australians in the World Cup.
+
+Australia decided to bowl first won the toss.
 
 ◼️
 
 [Data](articles/9b1fa988.json)
 
+[Extended Data](ext_articles/9b1fa988.ext.json)
+
 ---
 
-### අදත් සැරෙන් සැරේ වැසි
+### Short heavy showers today
 
 *2024-06-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197974) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) දිනයේ විටින්විට වැසි ඇතිවිය හැකිය.
+Heavy showers expected today across Western, Sabaragamuwa, North Western provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, with potential rainfall exceeding 75mm in some areas. The Department of Meteorology warns of strong winds affecting the North, North Central, and North Western provinces, along with Trincomalee, Hambantota, and Monaragala districts, posing risks to over 40,000 people.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+Showers will occur at times in the Western, Sabaragamuwa and North Western provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ඌව පළාතේත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+The Department of Meteorology issues a latest announcement.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts are mm mm.. Heavy rains can occur more than 75.
+
+Showers or thundershowers will occur at several places in the Uva province and Ampara and Batticaloa Districts.
+
+Steps in the North, North, North-central and North Western and North Western and North Western Provinces, Trincomalee, Hambantota and Monaragala Districts. Strong winds can also cause over 40,000.
 
 ◼️
 
 [Data](articles/e0f98faf.json)
+
+[Extended Data](ext_articles/e0f98faf.ext.json)
 
 ---
 
@@ -462,21 +474,27 @@ The police are trying to arrest the other three suspects, with one of the four s
 
 ---
 
-### மலையக தலைவர்களுடன் ஜெய்சங்கர் சந்திப்பு
+### Jaishankar meets with mountain leaders
 
 *2024-06-21 00:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-ஜெய்சங்கர்-சந்திப்பு/175-339210) · `ta`
 
-இந்திய வம்சாவளித் தமிழர்கள் தொடர்பாக இலங்கை - இந்திய வளர்ச்சிக் கூட்டாண்மை மற்றும் கூடுதல் ஒத்துழைப்பு குறித்து வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் மற்றும் இந்திய வம்சாவளி தமிழ் தலைவர்களுக்கிடையிலான சந்திப்பின் போது அவதானம் செலுத்தப்பட்டுள்ளது.
+Dr. S. Jaishankar met with Tamil leaders from India in Sri Lanka to discuss the Sri Lankan-Indian Development Corporation and further aid for Tamil Indians. The meeting included representatives from the Tamil Progressive Alliance, Ceylon Workers Congress, and government officials like the Education Minister and President's advisor. They discussed strengthening ties and resolving issues in Sri Lanka, with a focus on support for Tamil communities.
 
-உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் நேற்று  இலங்கை வந்திருந்த நிலையிலேயே இந்த சந்திப்பு இடம்பெற்றிருந்தது.
+🟩
 
-இதில் தமிழ் முற்போக்கு கூட்டணியின் சார்பில் அதன் பிரதி தலைவர் வே.இராதாகிருஸ்ணன், பாராளுமன்ற உறுப்பினர்களான வேலுகுமார் மற்றும் உதயகுமார் ஆகியோரும், இலங்கை தொழிலாளர் காங்ரஸ் சார்பில் அதன் தலைவரும் கிழக்கு மாகாண ஆளுனருமான செந்தில் தொண்டமான், இ.தொ.கா. பொதுச் செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் மற்றும் பாராளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஸ்வரன் ஆகியோரும் கலந்து கொண்டிருந்தனர்.
+During the meeting between the Minister of External Affairs, Dr. S. Jaysankar and the Tamil leaders of the Indian origin, on the Sri Lankan -Indian Development Corporation and additional cooperation on the Tamils ​​of Indian origin.
 
-மேலும், கல்வி இராஜங்க அமைச்சர் அரவிந்த குமார் மற்றும் ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் வடிவேல் சுரேஸ் ஆகியோரும் இந்த சந்திப்பில் கலந்து கொண்டிருந்தனர்.
+The meeting was held when Indian Foreign Minister Dr. S. Jaishankar arrived in Sri Lanka yesterday after an official visit.
+
+On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan, Members of Parliament Velukumar and Udayakumar, its leader and the Governor of the Eastern Province, Senthil Thondaman and the Governor of the Eastern Province on behalf of the Ceylon Workers Congress. General Secretary and Minister Jeevan Thondaman and Member of Parliament Maruthapandi Rameswaran were also present.
+
+In addition, Education Minister Aravinda Kumar and President's senior adviser Vadivel Suarez were also present at the meeting.
 
 ...
 
 [Data](articles/84db0b37.json)
+
+[Extended Data](ext_articles/84db0b37.ext.json)
 
 ---
 

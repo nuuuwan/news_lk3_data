@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 23:04:49**
+As of **2024-06-21 23:19:26**
 
 ## Newspaper Stats
 
-*Scraped **31,510** Articles*
+*Scraped **31,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,569
-tamilmirrorlk | 3,699
+adaderanalk | 3,570
+tamilmirrorlk | 3,700
 dailymirrorlk | 4,733
 virakesarilk | 4,892
 adaderanasinhalalk | 5,134
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,509 (100.0%) of 31,510 articles have been extended.
+31,510 (100.0%) of 31,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Two from Sri Lanka arrested trying to illegally enter India
+
+*2024-06-21 22:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100014/two-from-sri-lanka-arrested-trying-to-illegally-enter-india) · `en`
+
+India’s Marine Police on Friday detained two Sri Lankans who had allegedly sneaked into Indian waters in a fibre boat. They were taken into custody for interrogation, Indian media reported.
+
+The Hindu, quoting sources in the police department, reported that the two identified themselves as Julius (23) and Jude Antony (32) and claimed to be from Sri Lanka.
+
+They spoke in Tamil and said that they hailed from Kalpitiya in Sri Lanka. Central agencies were also interrogating independently the two suspects, it said.
+
+The fibre boat was thoroughly searched upon and a police officer said that the surveillance duty personnel spotted the boat approaching towards Mandapam and intercepted them.
+
+◼️
+
+[Data](articles/562a9b22.json)
+
+---
+
+### தந்திரிமலை பொசன் பூஜை நிகழ்வுகளை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+
+*2024-06-21 22:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தந்திரிமலை-பொசன்-பூஜை-நிகழ்வுகளை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-339235) · `ta`
+
+பொசான் பௌர்ணமியை முன்னிட்டு 21 ஆவது தடவையாக விஜய நியூஸ்பேப்பர் கம்பனி லிமிடெட் ஏற்பாடு செய்துள்ள வரலாற்று சிறப்புமிக்க தந்திரிமலை ரஜமஹா விகாரையின் பூஜை நிகழ்வுகளை ஜனாதிபதி ரணில் விக்ரமசிங்க ஆரம்பித்து வைத்தார்.
+
+இன்று பிற்பகல்  தந்திரிமலை ரஜமஹா விகாரைக்குச் சென்ற ஜனாதிபதியை, வடக்கு,  கிழக்கு மாகாணங்களின் உப பிரதான சங்கநாயக, தந்திரிமலை ரஜமஹா விகாரிபதி வண, தந்திரிமலை சந்தரதன  தேரரைச் சந்தித்து நலம் விசாரித்ததன் பின்னர் சிறு கலந்துரையாடலில் ஈடுபட்டார்.
+
+அதனைத் தொடர்ந்து   ஜனாதிபதி சமய வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதங்களைப் பெற்றுக்கொண்டார். அதன் பின்னர் தீபங்கள் ஏற்றி வைத்து தந்திரிமலை  பூஜை நிகழ்வுகள்  ஜனாதிபதியினால் ஆரம்பித்து வைக்கப்பட்டது.
+
+இதேவேளை, பொசான் பௌர்ணமியை முன்னிட்டு வரலாற்று சிறப்பு மிக்க தந்திரிமலை புனித பூமிக்கு வருகை தந்திருந்தவர்களை  ஜனாதிபதி நேரில் சென்று சந்தித்ததுடன் அவர்களிடம் தகவல் கேட்டறிந்துகொண்டதுடன் சிநேகபூர்வ உரையாடலிலும் ஈடுபட்டார். R
+
+◼️
+
+[Data](articles/5acda1a5.json)
+
+---
 
 ### Negotiations underway with China to finalize arrangements on debt repayment – President
 
@@ -49,6 +85,8 @@ Additionally, discussions are on-going with both Paris Club and non-Paris Club m
 ...
 
 [Data](articles/30d78fe5.json)
+
+[Extended Data](ext_articles/30d78fe5.ext.json)
 
 ---
 
@@ -2251,45 +2289,5 @@ Additionally, plans were unveiled for the Sampur Solar Power Plant to commence c
 [Data](articles/fd70f254.json)
 
 [Extended Data](ext_articles/fd70f254.ext.json)
-
----
-
-### At least 36 die in India after drinking tainted liquor
-
-*2024-06-20 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99998/at-least-36-die-in-india-after-drinking-tainted-liquor) · `en`
-
-At least 36 people died and more than 60 were being treated in hospitals after consuming tainted liquor in the southern Indian state of Tamil Nadu, a government spokesperson said on Thursday.
-
-Since Wednesday over 100 people, suffering from vomiting, stomach ache and diarrhoea, have needed hospital treatment in the Kallakurichi district, 250 km (150 miles) by road from the state capital Chennai, the spokesperson said.
-
-The state government said it had taken disciplinary action against at least 10 officials, including the district’s chief administrator and its police chief.
-
-“I was shocked and saddened to hear the news ... Action has also been taken against the officials who failed to prevent it,” Tamil Nadu Chief Minister M.K. Stalin said in a post on X.
-
-Police arrested four people over the sale of illicit liquor and seized 200 litres of the methanol-mixed alcoholic drink, the state government said.
-
-...
-
-[Data](articles/6954d694.json)
-
-[Extended Data](ext_articles/6954d694.ext.json)
-
----
-
-### The Jeezing goes
-
-*2024-06-20 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197971) · `si`
-
-Dr. S. Jaishankar, Indian Foreign Minister, returned to India from Sri Lanka via Katunayake airport, concluding his one-day trip.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jiasankar has come to India at Katunayake airports today after the end of his one-day visit to Sri Lanka.
-
-◼️
-
-[Data](articles/c101a242.json)
-
-[Extended Data](ext_articles/c101a242.ext.json)
 
 ---

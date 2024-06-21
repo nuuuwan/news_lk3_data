@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 12:19:25**
+As of **2024-06-21 12:35:43**
 
 ## Newspaper Stats
 
-*Scraped **31,464** Articles*
+*Scraped **31,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,730
 economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,751
-adaderanalk | 3,561
+adaderanalk | 3,562
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
-virakesarilk | 4,879
+virakesarilk | 4,880
 adaderanasinhalalk | 5,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,463 (100.0%) of 31,464 articles have been extended.
+31,464 (100.0%) of 31,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### 289 prisoners pardoned for Poson Poya
+
+*2024-06-21 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100006/289-prisoners-pardoned-for-poson-poya) · `en`
+
+The Department of Prisons has released 289 inmates from prisons across the island today (June 21) under a special state pardon granted by President Ranil Wickremesinghe in view of Poson Poya Day.
+
+Prisons Spokesman Gamini B. Dissanayake stated that accordingly, 263 male inmates and 06 female inmates serving time for minor offences were granted a state pardon, in accordance with Article 34 of the Constitution of Sri Lanka.
+
+Among the pardoned prisoners were 19 detained in Welikada Prison, 30 in Mahara Prison, 30 in Wariyapola Prison and 28 inmates in Kalutara Prison, according to the Department of Prisons.
+
+◼️
+
+[Data](articles/c234564a.json)
+
+---
+
+### உயர்தரப் பரீட்சை விண்ணப்பத்திற்கான கால அவகாசம் குறித்து வெளியான முக்கிய அறிவிப்பு
+
+*2024-06-21 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186625) · `ta`
+
+2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர உயர்தர பரீட்சைக்கான விண்ணப்பங்களை விண்ணப்பிப்பதற்கான கால அவகாசத்திற்கான திகதியை  பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+அதன்படி, ஜூலை 10 ஆம் திகதி வரை விண்ணப்பிக்க முடியும் என பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி. அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+விண்ணப்பதாரர்கள் பரீட்சைத் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான www.doenets.lk அல்லது www.onlineexams.gov.lk/eic மற்றும் உத்தியோகபூர்வ கையடக்கத்தொலைபேசி செயலியான 'DoE' இனை பயன்படுத்தி விண்ணப்பிக்கலாம்.
+
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் விண்ணப்பதாரிகள் அந்தந்த பாடசாலை தலைமையாசிரியரிடம் அனுமதி பெற்ற பின்னரே விண்ணப்பங்களை சமர்ப்பிக்க வேண்டும் என கேட்டுக்கொள்ளப்பட்டுள்ளது.
+
+எக்காரணம் கொண்டும் விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் நீடிக்கப்படமாட்டாது என பரீட்சைத் திணைக்களம் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/505d4d44.json)
+
+---
 
 ### The main notice issued to high -quality students
 
@@ -1882,19 +1918,31 @@ It was a deep discussion on strengthening the Indo -Sri Lanka relationship and s
 
 ---
 
-### තෙල් සංස්ථාවට රුපියල් මිලියන 3,416 අලාභයක්
+### 3,416 million to the Ceylon Petroleum Corporation
 
 *2024-06-20 19:15:49* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-සංස්ථාවට-රුපියල්-මිලියන-3-416-අලාභයක්/11-410346) · `si`
 
-ශ්‍රී ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ අළෙවි අංශය විසින් පිරවුම්හල් හිමියන් වෙත අදාළ චක්‍රලේකය නිකුත් කිරීමට වසර 08ක කට වඩා කාලයක් හිතාමතා ප්‍රමාද කිරීම හේතුවෙන් 2014 - 2022 කාලය තුළ සංස්ථාවට රුපියල් මිලියන. 3,416 ක අලාභයක් සිදුකර ඇති බවත්, ඒ අනුව මහා පරිමාණ වංචාවක් සංස්ථාව වෙත සිදු කිරීම සම්බන්ධයෙන් අළෙවි අංශය වගකිව යුතු බවත් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+The Committee on Public Enterprises (COPE) criticized the Ceylon Petroleum Corporation (CPC) for financial irregularities, including a loss of Rs. 3,416 million and additional fuel costs of Rs. 31,021.07 million due to commissions. The committee demanded a detailed report on fraudsters and financial mismanagement, to be submitted within two weeks to the Criminal Investigation Department.
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ 2022 වර්ෂයේ විගණකාධිපති වාර්තාව හා වර්තමාන කාර්යසාධනය පිළිබඳ පරික්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගරු රෝහිත අබේගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (19) රැස්වූ අවස්ථාවේදී මේ පිළිබඳව සාකච්ඡා කරන කෙරිණි.
+🟩
 
-සංස්ථාවේ නිලධාරීන් මෙවන් වංචා සිදු කිරීම පිළිබඳව කෝප් කමිටු සාමාජික මන්ත්‍රීවරුන් විසින් සිය අප්‍රසාදය පළ කරන ලදී. තවද, මෙම වංචා සඳහා සංස්ථාවේ අභ්‍යන්තර නිලධාරින් පැහැදිලිවම වගකිව යුතු බව පෙන්වා දුන් කාරක සභාව ඒ සම්බන්ධයෙන් සංස්ථාව ගෙන ඇති ක්‍රියාමාර්ගයන් පිළිබඳව ද පැමිණ සිටි නිලධාරීන්ගෙන් විමසන ලදී.
+Rs.. The section of the Committee on the Commonwealth section revealed that a loss of Rs.
+
+The Committee on Public Enterprises (CPC) was discussed when the Auditor General's Report and the current performance of the Ceylon Petroleum Corporation (CPC).
+
+COPE member MPs were displeased with the corporation officials on the fraud. The committee, who has clearly responsible for the fraud, inquired from the officers who had taken action regarding the corporation of the corporation.
+
+The COPE, the COPE was also recommended to submit a report to the Committee within seven days of the names of the persons involved in the fraud.
+
+It was also revealed that the separaments had to pay an additional cost for fuel to fuel Rs. 31,021.07 million as commissions.
+
+It was further revealed that the customer has paid a sum of Rs.
 
 ...
 
 [Data](articles/d566576c.json)
+
+[Extended Data](ext_articles/d566576c.ext.json)
 
 ---
 
@@ -2219,49 +2267,5 @@ A total of 192 homeless people died in New Delhi between June 11 and June 19, ac
 [Data](articles/fdc9cbea.json)
 
 [Extended Data](ext_articles/fdc9cbea.ext.json)
-
----
-
-### Voting for revision to the Empowerment Bill
-
-*2024-06-20 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197963) · `si`
-
-In Parliament, a vote on amendments to the Women's Empowerment Bill took place, with five MPs voting in favor and fourteen against. The amendments, proposed by Mr. Manju Kumaratunga, were rejected by the Deputy Speaker, informing Parliament of the decision made by MP Manuel Kumaratunga.
-
-🟩
-
-The Empowerment of Women's Empowerment Bill held a vote in Parliament today regarding the amendments to read the amendment today (20).
-
-This is the contents of the amendment by Mr. Manju Kumaratunga.
-
-Accordingly, Five votes were in favor of the amendments and 14 votes against the amendments.
-
-The Deputy Speaker immediately informed Parliament that the amendments were rejected by the amendments by MP Manual Kumaratunga.
-
-◼️
-
-[Data](articles/c01ea369.json)
-
-[Extended Data](ext_articles/c01ea369.ext.json)
-
----
-
-### Bill laid on fire
-
-*2024-06-20 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197962) · `si`
-
-Protesters led by Geaswewa Kassolagoda blocked the Balangoda junction against a gender equality bill. They marched to Parliament, handing over an official who arrived there.
-
-🟩
-
-The Geaswewa Kassolagoda came to the junction of the Balangoda, protesting the gender equality bill.
-
-Later, he was marked with march to Parliament and an official who had come to Parliament was handed over to the letter.
-
-◼️
-
-[Data](articles/37520edb.json)
-
-[Extended Data](ext_articles/37520edb.ext.json)
 
 ---

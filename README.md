@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 16:19:10**
+As of **2024-06-21 16:34:32**
 
 ## Newspaper Stats
 
-*Scraped **31,479** Articles*
+*Scraped **31,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,730
 economynextcom | 1,822
 dailyftlk | 1,927
-adalk | 2,751
+adalk | 2,753
 adaderanalk | 3,564
 tamilmirrorlk | 3,698
 dailymirrorlk | 4,733
-virakesarilk | 4,882
+virakesarilk | 4,887
 adaderanasinhalalk | 5,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,479 (100.0%) of 31,479 articles have been extended.
+31,479 (100.0%) of 31,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### අයහපත් කාලගුණයෙන් හානි වූ නිවාස වෙනුවෙන් වන්දි ලබාදීමට ජනපතිගෙන් උපදෙස්
+
+*2024-06-21 15:51:28* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්-හානි-වූ-නිවාස-වෙනුවෙන්-වන්දි-ලබාදීමට-ජනපතිගෙන්-උපදෙස්/11-410354) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පූර්ණ වශයෙන් හානි වූ නිවාස වෙනුවෙන් උපරිම සීමාවකට යටත්ව වන්දි මුදලක් ලබාදීමට හෝ එම නිවාස නැවත ඉදිකර දීමට පියවර ගන්නා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් උපදෙස් ලබා දුන් බව ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා පැවසීය.
+
+එසේම අර්ධ වශයෙන් හානි වූ නිවාස නැවත අලුත්වැඩියා කර ගැනීම සඳහා ද සිදුවී ඇති හානිය තක්සේරු කර යම් උපරිම සීමාවකට යටත්ව වන්දි මුදලක් ලබාදීමට පියවර ගන්නා බව ද සාගල රත්නායක මහතා සඳහන් කළේය.
+
+සාගල රත්නායක මහතා මෙම අදහස් පළ කළේ පසුගිය දිනවල පැවති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පූර්ණ හා අර්ධ වශයෙන් හානි වූ නිවාස නැවත ඉදිකිරීම සම්බන්ධයෙන් ඊයේ (20) ජනාධිපති ලේකම් කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+
+පසුගිය දිනවල රටේ විවිධ ප්‍රදේශවලට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ තද සුළං, ගංවතුර හා පස්කඳු කඩාවැටීම් වැනි ස්වභාවික ආපදාවන් නිසා හානි වූ නිවාස නැවත ඉදිකර දීම හෝ උපරිම සීමාවකට යටත්ව සුදුසු වන්දි මුදලක් ලබා දීම සම්බන්ධව මෙහිදී දිර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/9e735af4.json)
+
+---
+
+### மன்னாரில் கட்டாக்காலி மிருகங்களுக்கு உணவு தானம் வழங்கப்பட்டது
+
+*2024-06-21 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186645) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு மன்னாரில் கட்டாக்காலி மிருகங்களுக்கு உணவு தானம் வழங்கப்பட்டுள்ளது.
+
+மன்னாரில் நாய்கள், கழுதைகள், குரங்குகள், பூனைகள் மற்றும் காகங்களுக்கு மரக்கறிகள், சோறு வழங்கப்பட்டுள்ளது.
+
+விலங்குகள் மனிதநேய முகாமைத்துவ சங்கத்துடன் வெட் ஒப் பியுச்சர், வன் மீல், மில்லியன் வைவ்ஸ், பிரிட்ஜிங் லங்கா மற்றும் ஹென்ட்ரோ அனிமல் ரெஸ்க்யூ ஆகிய அமைப்புகளும் இணைந்து இந்த தானம் வழங்கும் நிகழ்வை நடத்தியுள்ளன.
+
+◼️
+
+[Data](articles/7b5515fb.json)
+
+---
 
 ### Archbishop replies to Maithri's statement
 
@@ -142,6 +176,38 @@ North in the western slopes of the central hills, North. At times, Trincomalee, 
 
 ---
 
+### இந்திய - இலங்கை சர்வதேச கடல் எல்லையை ஆய்வு செய்த மத்திய பாதுகாப்புத் துறை இணை அமைச்சர் சஞ்சீவ் சீத்
+
+*2024-06-21 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186631) · `ta`
+
+இராமநாதபுரம் மாவட்டம் இராமேஸ்வரத்தை அடுத்து தனுஷ்கோடி அரிச்சல் முனையில் நடைபெற்ற யோகா நிகழ்ச்சியில் கலந்துகொண்ட மத்திய பாதுகாப்பு துறை இணை அமைச்சர் சஞ்சீவ் சீத் இந்திய இலங்கை சர்வதேச கடல் எல்லை பகுதியில் செய்யப்பட்டுள்ள பாதுகாப்பு நடவடிக்கை குறித்து ஆய்வு செய்ததுடன், இந்திய எல்லையில் உள்ள தேசிய கொடிக்கு மரியாதை செலுத்தினார்.
+
+அதன் ஒரு பகுதியாக ராமநாதபுரம் மாவட்டம் தனுஷ்கோடி அரிச்சல் முனை பகுதியில் மத்திய பாதுகாப்புத் துறை சார்பில் யோகா பயிற்சி இன்று  நடைபெற்றது.
+
+இந்த நிகழ்வில்  கலந்து கொள்வதற்காக நேற்று வியாழக்கிழமை  (20) சிறிய ரக ராணுவ விமான மூலம் ஐ.என்.எஸ் பருந்து கடற்படை தளத்திற்கு வந்த மத்திய பாதுகாப்புத்துறை இணை அமைச்சர் சஞ்சீவ் சீத் இந்திய கடற்படை  மற்றும் கடலோர கடற்படை காவல் படை முகாம் களை ஆய்வு செய்த பின்னர் ராமேஸ்வரம் கடல் பகுதியை ஆய்வு செய்ததுடன், பாதுகாப்பு ஏற்பாடுகள் மற்றும்  கண்காணிப்பு பணிகள் குறித்து பாதுகாப்பு துறை அதிகாரிகளிடம்  கேட்டறிந்தார்.
+
+...
+
+[Data](articles/03cd046f.json)
+
+---
+
+### பிறரின் கையடக்கத் தொலைபேசி சிம் அட்டைகளை பயன்படுத்தி பண மோசடி ; சந்தேகநபருக்கு விளக்கமறியல்
+
+*2024-06-21 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186630) · `ta`
+
+பிறரின் கையடக்க தொலைபேசி சிம் அட்டைகளை பயன்படுத்தி இலட்சக்கணக்கில் பண மோசடி செய்த சந்தேக நபரை ஜூலை 4 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் உத்தரவிட்டுள்ளார்.
+
+சந்தேக நபரான ஹட்டனைச் சேர்ந்தவர், குற்றப் புலனாய்வுப் பிரிவின் சைபர் குற்றவியல் கண்காணிப்புப் பிரிவினரால் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட பின்னர் கொழும்பு பிரதான நீதவான் திலின கமகே விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
+
+சந்தேக நபரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட பிரதம நீதவான் திலின கமகே, வழக்கு விசாரணைகளை ஜூலை 4ஆம் திகதி நீதிமன்றத்தில் தாக்கல் செய்யுமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/40faf5fc.json)
+
+---
+
 ### Airport security officer arrested with gold biscuits worth Rs. 48 mn at BIA
 
 *2024-06-21 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100007/airport-security-officer-arrested-with-gold-biscuits-worth-rs-48-mn-at-bia) · `en`
@@ -161,6 +227,66 @@ Initial investigations conducted by Sri Lanka Customs have revealed that the arr
 [Data](articles/66043879.json)
 
 [Extended Data](ext_articles/66043879.ext.json)
+
+---
+
+### யாழ். கல்லுண்டாய் பகுதி மக்கள் கோரிக்கையை முன்வைத்து போராட்டம்!
+
+*2024-06-21 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186634) · `ta`
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து இன்று வெள்ளிக்கிழமை (21) யாழ்ப்பாணம், கல்லுண்டாய் பகுதி மக்கள் அவர்களது குடியேற்ற திட்டத்திற்கு அருகாமையில் கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+
+கல்லூண்டாய் குடியேற்றத்திட்ட பகுதியில் ஜே/135, ஜே/136 என இரண்டு கிராம சேவகர் பிரிவுகள் உள்ளன. ஆனால் மொத்தமாக 88 குடும்பங்கள் தான் வசிக்கின்றன. ஜ/135 கிராம சேவகர் பிரிவில் சுமார் 27 குடும்பங்கள் தான் உள்ளன. ஏனையோர் ஜ/136 கிராம சேவகர் பிரிவில் தான் உள்ளனர்.
+
+இரண்டு கிராமங்களையும் பிரிப்பதற்கு, சண்டிலிப்பாய் பிரதேச செயலரின் அனுமதியுடன், ஜேர்மனியை சேர்ந்த பெண் ஒருவரின் நிதியில் கட்டடம் ஒன்று கட்டப்படுகிறது. இந்த கட்டடம் ஜே/135 பகுதியைச் சார்ந்ததாகவே உள்ளது. இதனால் ஜ/136 பகுதி மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+
+இந்த கட்டடம் யாருக்காக, எந்த நோக்கத்திற்காக, எந்த நிர்வாகத்தின் கீழ் கட்டப்படுகின்றது என்ற எதுவும் எமக்கு தெரியாது. இதுகுறித்து கிராம சேவகரை கேட்டபோது, அது சம்பந்தமான எந்தவொரு உத்தியோகபூர்வ தகவலும் தனக்கு வழங்கப்படவில்லை என கூறுகிறார் என்றனர்.
+
+...
+
+[Data](articles/9c01f809.json)
+
+---
+
+### Correct Recovery with Burns in Jaffna
+
+*2024-06-21 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186632) · `ta`
+
+A man from Vadamarachchi East suffered burns while sleeping alone at home. Rescued by locals, he was first taken to Maruthankani Hospital and then transferred to Jaffna Teaching Hospital for further treatment. The cause remains unknown.
+
+🟩
+
+A family member from Vadamarachchi East, Vadamarachchi East, Vadamarachchi has been rescued by the public with burns and has been admitted to hospital.
+
+The man was sleeping alone at his home in Vatrayan area last Thursday night.
+
+During this time, he was rescued by the public and was admitted to the Maruthankani Hospital when he was running out of his home and was transferred to the Jaffna Teaching Hospital for further treatment.
+
+It is suspected that the cause of the incident may not be unknown.
+
+◼️
+
+[Data](articles/17c26a22.json)
+
+[Extended Data](ext_articles/17c26a22.ext.json)
+
+---
+
+### 280 கைதிகளுக்கு பொதுமன்னிப்பு
+
+*2024-06-21 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186635) · `ta`
+
+பொசன் பௌர்ணமி தினத்தை முன்னிட்டு 289 கைதிகள் ஜனாதிபதி விசேட பொது மன்னிப்பின் கீழ் இன்று வெள்ளிக்கிழமை (21) விடுதலை செய்யப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+வெலிக்கடை சிறைச்சாலையில் 19 கைதிகளும், மஹர சிறைச்சாலையில் 30 கைதிகளும், வாரியபொல சிறைச்சாலையில் 30 கைதிகளும், களுத்துறை சிறைச்சாலையில் இருந்து 28 கைதிகளும் உள்ளடங்களாக நாடு முழுவதும் உள்ள சிறைச்சாலைகளில் உள்ள  289 கைதிகள் விடுவிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, 283 ஆண் கைதிகளும் ஆறு பெண் கைதிகளும் ஜனாதிபதியின் மன்னிப்பைப் பெற்றுள்ளனர்.
+
+அரசியலமைப்பின் 34ஆவது பிரிவிற்கு அமைய, ஜனாதிபதிக்கு வழங்கப்பட்டுள்ள அதிகாரங்களுக்கு அமைய இவ்விசேட பொது மன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/acfdab07.json)
 
 ---
 
@@ -301,30 +427,6 @@ Accordingly, 289 detained holders who have been imprisoned for minor mistakes ha
 [Data](articles/effdfbd3.json)
 
 [Extended Data](ext_articles/effdfbd3.ext.json)
-
----
-
-### Correct Recovery with Burns in Jaffna
-
-*2024-06-21 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186632) · `ta`
-
-A man from Vadamarachchi East suffered burns while sleeping alone at home. Rescued by locals, he was first taken to Maruthankani Hospital and then transferred to Jaffna Teaching Hospital for further treatment. The cause remains unknown.
-
-🟩
-
-A family member from Vadamarachchi East, Vadamarachchi East, Vadamarachchi has been rescued by the public with burns and has been admitted to hospital.
-
-The man was sleeping alone at his home in Vatrayan area last Thursday night.
-
-During this time, he was rescued by the public and was admitted to the Maruthankani Hospital when he was running out of his home and was transferred to the Jaffna Teaching Hospital for further treatment.
-
-It is suspected that the cause of the incident may not be unknown.
-
-◼️
-
-[Data](articles/17c26a22.json)
-
-[Extended Data](ext_articles/17c26a22.ext.json)
 
 ---
 
@@ -1830,6 +1932,22 @@ In 2019, Sri Lanka has lost 8.3 billion rupees from the luxury tax on car permit
 
 ---
 
+### දකුණේ අස්වැන්න දුම්රියෙන් කොළඹට ගේන්න යයි
+
+*2024-06-20 20:07:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-අස්වැන්න-දුම්රියෙන්-කොළඹට-ගේන්න-යයි/11-410352) · `si`
+
+දුම්රිය මගින් බෙලිඅත්තේ සිට මරදාන දක්වා කෘෂි භාණ්ඩ ප්‍රවාහනය කිරීමේ විශේෂ වැඩසටහනක් ආරම්භ කිරිමට සැලසුම්කොට ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+නියමු ව්‍යාපෘතියක් ලෙස මෙය ක්‍රියාත්මක කිරීමට සැලසුම්කොට ඇති අතර ජුනි මස 29 වැනි බෙලිඅත්ත සිට මරදාන දක්වා දුම්රිය මගින් කෘෂි භාණ්ඩ ප්‍රවාහනය කිරිමේ වැඩසටහන ආරම්භ කෙරේ.මෙහිදී ලෝක බැංකු ආධාර යටතේ දුම්රිය මගින් කෘෂි භාණ්ඩ ප්‍රවාහන කිරීමේ ක්‍රමවේද‍යක් සකස් කිරීමට සැලසුම්කොට ඇති අතර, Online app එකක් මගින් සහ දුරකථන hotline භාවිතයෙන් කෘෂි ප්‍රවාහන පහසුකම් සඳහා දුම්රිය වෙන් කර ගැනීමේ අවස්ථාව හිමිවේ.
+
+මෙකී ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමෙන් ගොවීන්ගේ කෘෂි නිෂ්පාදන සාධාරණ මිලකට අලෙවි කරගැනීමට හැකිවීම, පසු අස්වනු හානිය අවම කර ගැනීම ,දුම්රිය ප්‍රවාහන ගාස්තු අවම වීම හා කෘෂි නිෂ්පාදන අතරමැදියන් විසින් සුරාගෙන කෑම අවම කරගැනීමට හැකිවන බව දුම්රිය දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+...
+
+[Data](articles/5c060267.json)
+
+---
+
 ### Take action regarding the lack of interest -free loan action for higher education - Leader of the Opposition
 
 *2024-06-20 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186559) · `ta`
@@ -2137,165 +2255,5 @@ The Bureau is also requested for foreign employment to examine the institution r
 [Data](articles/0ff3d6d2.json)
 
 [Extended Data](ext_articles/0ff3d6d2.ext.json)
-
----
-
-### Jaishankar met Mahinda
-
-*2024-06-20 19:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ஜெய்சங்கர்/175-339192) · `ta`
-
-Indian FM Jaishankar met ex-President Mahinda Rajapaksa, discussing bilateral cooperation and congratulating him on his support.
-
-🟩
-
-Indian Foreign Minister S.. Jaishankar met former President Mahinda Rajapaksa today.
-
-“India discussed the current progress of bilateral cooperation between Sri Lanka. Our congratulations for his continued support, ”Jaishankar said in his post. Remble
-
-◼️
-
-[Data](articles/e31971fc.json)
-
-[Extended Data](ext_articles/e31971fc.ext.json)
-
----
-
-### India to benefit the coin
-
-*2024-06-20 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197967) · `si`
-
-In today's T20 World Cup match, India beat Afghanistan and won the toss.
-
-🟩
-
-Another match in the T20 World Cup was held today (20).
-
-The match between Afghanistan and India, India won the advantage of the coin.
-
-◼️
-
-[Data](articles/5373be10.json)
-
-[Extended Data](ext_articles/5373be10.ext.json)
-
----
-
-### Maithripala accuses Cardinal Ranjith over funds received to support Easter attack victims
-
-*2024-06-20 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99997/maithripala-accuses-cardinal-ranjith-over-funds-received-to-support-easter-attack-victims) · `en`
-
-Former President Maithripala Sirisena alleges that the Archbishop of Colombo Cardinal Malcolm Ranjith has not distributed any of the funds or financial aid received to assist the victims of the Easter Sunday terror attacks.
-
-Speaking to the media in Polonnaruwa today (20), the former President claimed that most of the court cases against him were filed under the influence of Cardinal Ranjith.
-
-“I have set a Guinness World Record with over four hundred court cases against me. These cases were filed as instructed by the Cardinal…one case for the deceased, another for the injured…asking to pay compensation”, Sirisena charged.
-
-“During my tenure as the President, I clearly compensated each and every one.”
-
-...
-
-[Data](articles/a1b69cc4.json)
-
-[Extended Data](ext_articles/a1b69cc4.ext.json)
-
----
-
-### Indian External Affairs Minister Jaishankar meets opposition representatives including Sajith
-
-*2024-06-20 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186602) · `ta`
-
-Indian External Affairs Minister S. Jaishankar, during his visit to Sri Lanka, held discussions with opposition leaders including Sajith Premadasa to bolster bilateral ties. The meeting covered various aspects of enhancing the Indo-Sri Lanka relationship.
-
-🟩
-
-Indian External Affairs Minister S. Jaishankar, who is on an official visit to Sri Lanka, has met with representatives of opposition parties including Opposition Leader Sajith Premadasa.
-
-Opposition Leader Sajith Premadasa, GL. Peiris, Eran Wickremaratne, Nirosan Perera, Palani Thikambaram, Rauf Hakeem and Radhakrishnan were also present.
-
-It was a deep discussion on strengthening the Indo -Sri Lanka relationship and supporting support.
-
-◼️
-
-[Data](articles/0e29b040.json)
-
-[Extended Data](ext_articles/0e29b040.ext.json)
-
----
-
-### 3,416 million to the Ceylon Petroleum Corporation
-
-*2024-06-20 19:15:49* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-සංස්ථාවට-රුපියල්-මිලියන-3-416-අලාභයක්/11-410346) · `si`
-
-The Committee on Public Enterprises (COPE) criticized the Ceylon Petroleum Corporation (CPC) for financial irregularities, including a loss of Rs. 3,416 million and additional fuel costs of Rs. 31,021.07 million due to commissions. The committee demanded a detailed report on fraudsters and financial mismanagement, to be submitted within two weeks to the Criminal Investigation Department.
-
-🟩
-
-Rs.. The section of the Committee on the Commonwealth section revealed that a loss of Rs.
-
-The Committee on Public Enterprises (CPC) was discussed when the Auditor General's Report and the current performance of the Ceylon Petroleum Corporation (CPC).
-
-COPE member MPs were displeased with the corporation officials on the fraud. The committee, who has clearly responsible for the fraud, inquired from the officers who had taken action regarding the corporation of the corporation.
-
-The COPE, the COPE was also recommended to submit a report to the Committee within seven days of the names of the persons involved in the fraud.
-
-It was also revealed that the separaments had to pay an additional cost for fuel to fuel Rs. 31,021.07 million as commissions.
-
-It was further revealed that the customer has paid a sum of Rs.
-
-...
-
-[Data](articles/d566576c.json)
-
-[Extended Data](ext_articles/d566576c.ext.json)
-
----
-
-### Maithri says Kadinal owners have received
-
-*2024-06-20 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197966) · `si`
-
-Maithri urges Cardinal to clarify funds post-Passover attack, highlighting compensation efforts amidst controversy.
-
-🟩
-
-Former President Maithripala Sirisena says that the Cardinal owned Cardinal should make a clear statement regarding the money received after the Passover attack.
-
-Speaking to the media in the Polonnaruwa area, he said that he was compensated by everyone who was suffering from the Passover attack.
-
-"I have gone to Guinness Book because there are 400 cases. 400 km of charge of Cardinal Thera. One of the case for the dead of the dead is one of the baths. To pay for compensation. But I had clearly paid compensation for all of the President. "
-
-Catholic organizations, from the top businesses in the world, from different organizations in the world, and Cardinal gave money after the Passover attack. If you submit Kidinal, please, please cardinal will say what happened.. A list. Here's the money I received ... As well as I gave. No five penny gave to victims. I have leased the money from the government and sued me to compensate. "
-
-◼️
-
-[Data](articles/7afa964a.json)
-
-[Extended Data](ext_articles/7afa964a.ext.json)
-
----
-
-### Southern Province shooter Suddha arrested
-
-*2024-06-20 19:10:15* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාතේ-වෙඩික්කරු-සුද්දා-අත්අඩංගුවට/11-410345) · `si`
-
-Suddha, linked to two murders in the Southern Province, was arrested by a combined team from the Murder and Organized Crime Investigation units. The arrest followed the discovery of unlicensed firearms and ammunition, including seven.90mm revolver bullets and five 9mm pistol bullets. The suspect, previously hiding in Aragastota, was also connected to a shooting death on April 10th and another assassination in the Ambalangoda area. He was later produced before the Balapitiya Magistrate's Court for further inquiries.
-
-🟩
-
-The suspects were arrested by the murder and organized criminal criminal criminal investigation, saying that the suspects were arrested by the murders, or organized criminal group, who had taken about two human murders in the Southern Province.
-
-A revolvers manufactured in a foreign country without licenses have been taken into custody by 7 m book of 90-type live bullets, as well as 5 mm of 9 m kindle bullets.
-
-Sub Inspector Mistara, including an Investigation Unit of the Investigation Division of the Murassian and Organization Investigation Division, a group of other officers including a private spy of an organized criminal investigation.Police say he was arrested while hiding in a house in Aragastota.
-
-Police said that the killing of a person was shot dead by a pistol firearm on the 10th of April, police said in the 10th of April.
-
-The suspect was also interrogated by a man named at the Ambalangoda area and the assassination of a man in the Ambalangoda area in the Next day.
-
-...
-
-[Data](articles/f142f1f9.json)
-
-[Extended Data](ext_articles/f142f1f9.ext.json)
 
 ---

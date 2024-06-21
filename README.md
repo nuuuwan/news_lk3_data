@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 20:19:23**
+As of **2024-06-21 20:35:47**
 
 ## Newspaper Stats
 
-*Scraped **31,501** Articles*
+*Scraped **31,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 2,753
 adaderanalk | 3,567
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
-virakesarilk | 4,889
-adaderanasinhalalk | 5,130
+virakesarilk | 4,890
+adaderanasinhalalk | 5,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,501 (100.0%) of 31,501 articles have been extended.
+31,501 (100.0%) of 31,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### 10ක් රෝහලට යැවූ ජෙලිෆිෂ්
+
+*2024-06-21 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198002) · `si`
+
+ජෙලිෆිෂ් මත්ස්‍ය විශේෂය ශරීරයේ ගෑවීමෙන් සමෙහි ඇති වූ ආසාත්මිකතාවයක් හේතුවෙන් පානදුර මුහුදේ දියනාමින් සිටි දස දෙනෙකු රෝහල්ගත කළ බව පොලීසිය පවසයි.
+
+මෙම මත්ස්‍ය විශේෂය ශරීරයේ ගැවුණු ස්ථානයන්හි රතුපැහැ ගැන්වීම, කැසීම් සහ වේදනාවක් දැනීම වැනි රෝග ලක්ෂණ මතුව තිබේ.
+
+පොලීසිය පැවසුවේ මෙම පිරිස ප්‍රතිකාර සඳහා පානදුර මූලික රෝහලට යොමුකල බවය.
+
+◼️
+
+[Data](articles/357360d6.json)
+
+---
+
+### 25 இந்து பெருஞ்சமய அமைப்புகள், மன்றங்கள் ஒருங்கினைந்து நடாத்திய நிகழ்வு
+
+*2024-06-21 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
+
+இந்து சமய கலாசார அலுவல்கள் திணைக்களத்தின் அனுசரணையில் ஸ்ரீ லஸ்ரீ ஆறுமுகநாவலர் சபை ஏற்பாட்டில் 25 இந்து பெருஞ்சமய அமைப்புகள், மன்றங்கள் ஒருங்கினைந்து நடாத்திய நிகழ்வு பம்பலப்பிட்டி இந்துக் கல்லூரி முதன்மை மண்டபத்தில் நடைபெற்றது அங்கு வருகைதந்த பேருராதீன இருபத்தைந்தாம் குரு மகா சந்நிதானப் பெருமானார், கயிலைப்புனிதர், முதுமுனைவர் தருப்பெருந் சாந்தலிங்க மருதாசல அடிகளாரை வரவேற்று வைபவத்தில் அவரை வாழ்த்தி ஆசீர்வாதம் பெறுவதையும் காணலாம்.
+
+◼️
+
+[Data](articles/e0505a65.json)
+
+---
 
 ### A fisherman killed in the middle of the sea
 
@@ -2255,59 +2283,5 @@ It is noteworthy that the person who lost the wallet is the Chaturanga Kumara, w
 [Data](articles/e08b7d1e.json)
 
 [Extended Data](ext_articles/e08b7d1e.ext.json)
-
----
-
-### Jaishankar meets Foreign Minister Ali Sabri
-
-*2024-06-20 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186603) · `ta`
-
-During his visit to Sri Lanka, Indian External Affairs Minister S. Jaishankar met with his counterpart, Ali Sabri. They discussed skills development, future collaborations, and high-profile cooperation in BIMSTEC, IRA, and U.
-
-🟩
-
-Indian External Affairs Minister S. Jaishankar, who is on an official visit to Sri Lanka, has met with External Affairs Minister Ali Sabri.
-
-He discussed skills development and future activities between the two countries.
-
-Comments were also exchanged on the perspectives of high -profile cooperation in BIMSTEC, IRA and U.
-
-◼️
-
-[Data](articles/c7eb0219.json)
-
-[Extended Data](ext_articles/c7eb0219.ext.json)
-
----
-
-### Dearer Dearer Maha Surrounded by Ruwanweli Maha Perera
-
-*2024-06-20 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197968) · `si`
-
-Poson Poya celebrations in Anuradhapura feature live performances, Buddha Pooja starting at 5:45 am, and various religious programs. Security is tight with 20,000 police officers and 400 police lifeguards deployed. Special transport services are available, but the Mahawa Railway Station is closed for renovations. Nearly 11,100 temples across Sri Lanka are participating, along with 145 Dansals and 322 pandals nationwide.
-
-🟩
-
-"Deransonandana Poson 'Past Worship All Tomorrow has been prepared to bring live in the Ruwanweli Maha Maha Maha Prashana in Anuradhapura throughout the day.
-
-The Canada Peace and Buddha Pooja begin with Buddha Pooja and starts at 5.45 am tomorrow morning.
-
-Several religious programs including Dharma Preaching and Dhamma Discussion Poetuwa Piyadasy. Dearan and FM. Have been prepared to bring abduce.
-
-Meanwhile, the police said that a special security program is being implemented in Anuradhapura to mark the Poson Celebration.
-
-Police Media Spokesperson DIG's DIG, Spokesman Nihal Talduuwa, said that 20,000 police officers will be deployed for the Poson Poya.
-
-More than 400 police-lifestictors have also been deployed for duties in Anuradhapura.
-
-Nearly 11,100 temples throughout the island, including the sacred area of ​​Anuradhapura has organized various religious activities.
-
-Special buses and train services will be in operation for the devotees to the Poson Poya in today's sacred city.
-
-...
-
-[Data](articles/8d701c9a.json)
-
-[Extended Data](ext_articles/8d701c9a.ext.json)
 
 ---

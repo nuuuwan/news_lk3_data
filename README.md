@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 09:53:50**
+As of **2024-06-21 10:05:43**
 
 ## Newspaper Stats
 
-*Scraped **31,447** Articles*
+*Scraped **31,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,87 @@ islandlk | 1,729
 economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,748
-adaderanalk | 3,558
+adaderanalk | 3,559
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,113
+adaderanasinhalalk | 5,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,446 (100.0%) of 31,447 articles have been extended.
+31,447 (100.0%) of 31,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### EPF වෙනුවෙන් ඩිජිටල් දත්ත පද්ධතියක්
+### COPE uncovers major irregularities in Ceylon Petroleum Corporation
+
+*2024-06-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100003/cope-uncovers-major-irregularities-in-ceylon-petroleum-corporation) · `en`
+
+The Committee on Public Enterprises (COPE) has uncovered significant financial irregularities within the Ceylon Petroleum Corporation (CPC), resulting in a loss of Rs. 3,416 million from 2014 to 2022.
+
+This was attributed to internal dishonesty and a delay of 8 years and 8 months in issuing critical circulars to filling station owners by the Corporation’s marketing department.
+
+COPE has expressed strong displeasure and insisted on holding the responsible officials accountable.
+
+The issue came to light during a recent COPE meeting chaired by MP Rohitha Abeygunawardena to review the Auditor General’s 2022 report and the current status of the corporation, the Communications Dept. Of Parliament said in a press release.
+
+The Committee directed the Corporation to submit a detailed report within seven working days, listing the names of those involved in the fraud and the measures taken to address the issue.
+
+...
+
+[Data](articles/a7dd8540.json)
+
+---
+
+### ජනපති සහ ඉන්දීය විදේශ ඇමති අතර සාකච්ඡාවේ තවත් තොරතුරු
+
+*2024-06-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197981) · `si`
+
+ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා සිය එක්දින සංචාරය නිමා කර ඊයේ (20) පස්වරුවේ දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+
+මෙරට සංචාරයේ නිරතවූ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර කොටුව ජනාධිපති මන්දිරයේ පැවති නිල හමුවෙන් අනතුරුව ද්විපාර්ශ්වික සාකච්ඡාවල ද නිරතවී තිබුණි.
+
+බලශක්ති ක්ෂේත්‍රයට අදාළව ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ක්‍රියාත්මක ඒකාබද්ධ ව්‍යාපෘති කඩිනම් කර ජනතාවට එහි ප්‍රතිලාභ උදාකරදීම පිළිබඳව අවධානය යොමුවී ඇති බව සඳහන් ය.
+
+බලශක්ති සම්බන්ධතාව සහ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ සංවර්ධනය, දෙරට අතර ඉදිකිරීමට යෝජිත ඛනිජතෙල් නළ මාර්ගය සහ තෙල් හා ගෑස් ගවේෂණ ව්‍යාපෘති පිළිබඳව ද මෙහිදී විශේෂ අවධානය යොමුවී තිබේ.
+
+සාම්පූර් සූර්ය විදුලි බලාගාරයේ ඉදිකිරීම් ලබන මාසයේ ආරම්භ කිරීමට සැලසුම් කර ඇති බවට එහිදී සාකච්ඡා වී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+...
+
+[Data](articles/2b761bf4.json)
+
+---
+
+### A digital database for EPF
 
 *2024-06-21 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197980) · `si`
 
-මහ බැංකුව සහ කම්කරු දෙපාර්තමේන්තුව ඒකාබද්ධව සේවක අර්ථසාධක අරමුල් ගෙවීම් ඇතුළු දත්ත ලබාගත හැකි ඩිජිටල් දත්ත පද්ධතියක් සකස් කරන ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී කම්කරු අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු නිලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+The Ministry of Labor, led by its Secretary, is tasked with creating a digital database for the Central Bank and the Department of Labor. This initiative aims to streamline the process of provident fund payments from the Central Bank to the Department of Labor, which currently occurs biannually post-registration. The project emphasizes the need for a continuously updated system to ensure efficiency and protect workers' interests. A joint meeting between the Central Bank and Labor Office is planned to further discuss this digital transformation, focusing on utilizing government financial provisions effectively without compromising the quality of the database. Approximately 15,000 cases related to provident fund management highlight the urgency and scale of the task.
 
-කම්කරු දෙපාර්තමේන්තුවේ 2021 සහ 2022 වසරවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය විමර්ශනය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාව පාර්ලිමේන්තුවේදී රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ අවස්ථාවේදී මේ පිළිබඳව සාකච්ඡා වී තිබුණි.
+🟩
 
-කම්කරු දෙපාර්තමේන්තුවේ සේවා යෝජකයන් ලියාපදිංචි වීමෙන් පසු අදාළ අර්ථසාධක අරමුදල් මහ බැංකුවට ගෙවීම් සිදු කරන බවත් මහ බැංකුවෙන් සෑම මාස 6කට වරක් ගෙවීම් පිළිබඳව දත්ත කම්කරු දෙපාර්තමේන්තුවට ලබාදෙන බවත් නිලධාරීන් පෙන්වාදී තිබේ.
+The Secretary to the Ministry of Labor and officials have instructed the Secretary to the Ministry of Labor Secretary to formulate a digital database of the Central Bank and the Department of Labor.
 
-මෙහිදී කාරක සභාව පෙන්වාදී ඇත්තේ මාස 6කට වරක් දත්ත ලබාගැනීම වෙනුවට මේ සම්බන්ධයෙන් නිරන්තර යාවත්කාලීන විය හැකි පද්ධතියක් කම්කරු දෙපාර්තමේන්තුව සතුවිය යුතු බවය.
+The Auditor General's records and the present performance of the Department of Labor and the present performance of the Auditor General's Report and the present performance of the Government Lasantha Alagiyawanna was held under the patronage of State Minister Lasantha Alagiyawanna.
 
-ජනතාවගේ ආරක්ෂාව සඳහා එය අත්‍යවශ්‍ය බවත් කාරක සභාව විසින් අවධාරණය කර තිබේ.
+The Central Bank has shown that the relevant provident funds will be paid to the Department of Labor every 6 months after the registration of employers in the Department of Labor.
+
+The Committee was shown that the Department of Labor must have a constant updated system instead of obtaining data every six months.
+
+The Committee has emphasized that it is necessary for the protection of the people.
+
+The Central Bank and Labor Office have also been instructed to conduct a joint meeting to discuss the matter.
 
 ...
 
 [Data](articles/c46bc440.json)
+
+[Extended Data](ext_articles/c46bc440.ext.json)
 
 ---
 
@@ -2217,63 +2265,5 @@ We hope that the aspirations of the Sri Lankan people will be fulfilled through 
 [Data](articles/a58e91e4.json)
 
 [Extended Data](ext_articles/a58e91e4.ext.json)
-
----
-
-### Sri Lanka stocks close up, JKH trade pushes turnover
-
-*2024-06-20 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-trade-pushes-turnover-168924/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.19 percent, or 23.11 points, at 12,249; while the more liquid S&P SL20 Index closed up 0.15 percent, or 5.33 points, at 3,610.
-
-Turnover was 2 billion. Nearly half of this (Rs980mn) came from a crossing on John Keells Holdings Plc. The share closed down at 202.00.
-
-“There were several crossings today which pushed turnover,” market participants said.
-
-“Institutions and high net-worth activity drove the market, while the retail investors we feel are still about uncertain and adopting a wait-and-see approach.”
-
-Melstacorp Plc was among the companies that saw active volumes (Rs194mn) in the day. The share closed up at 87.10.
-
-...
-
-[Data](articles/4dd2da9d.json)
-
-[Extended Data](ext_articles/4dd2da9d.ext.json)
-
----
-
-### The suspect was the mutilator of police
-
-*2024-06-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197957) · `si`
-
-In a police operation against an illicit liquor den, a suspect and his son attacked officers, injuring one seriously. The suspect's son tried to assault more officers but was restrained. Both father and son were arrested and hospitalized, while the injured officer was treated at the Colombo National Hospital.
-
-🟩
-
-A police officer had been admitted to the police by an increase in a dog by a person in the house by a person.
-
-According to information received regarding a illegal liquor house, a team of officers of the Wellampitiya Police had left the Wellampitiya Police Station yesterday (19th).
-
-After revealing the location, the home has objected to the officials.
-
-He has not allowed the police to enter the house and has assaulted a police officer who had come to raid.
-
-The suspect's son was also attempted to attack the police officers and they were able to unite the house.
-
-A police sergeant had shooting his duties in order to control the situation and has been shot to the bottom of the right foot of the event.
-
-The suspect and his son was arrested by the police.
-
-The police said that the suspect and the police sergeant was admitted to the Colombo National Hospital for treatment.
-
-The two suspects were produced before the Aluthkade Magistrate's Court today.
-
-◼️
-
-[Data](articles/da203c61.json)
-
-[Extended Data](ext_articles/da203c61.ext.json)
 
 ---

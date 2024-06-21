@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 11:05:01**
+As of **2024-06-21 11:19:29**
 
 ## Newspaper Stats
 
-*Scraped **31,454** Articles*
+*Scraped **31,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
-islandlk | 1,729
+islandlk | 1,730
 economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,749
-adaderanalk | 3,559
+adaderanalk | 3,560
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,878
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,453 (100.0%) of 31,454 articles have been extended.
+31,454 (100.0%) of 31,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Hajj death toll tops 1,000 after extreme heat: report
+
+*2024-06-21 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100004/hajj-death-toll-tops-1000-after-extreme-heat-report) · `en`
+
+The death toll from this year’s hajj has exceeded 1,000, an AFP tally said Thursday, more than half unregistered worshippers who performed the pilgrimage in extreme heat in Saudi Arabia.
+
+The new deaths reported Thursday included 58 from Egypt, according to an Arab diplomat who provided a breakdown showing that of 658 Egyptians who died, 630 were unregistered pilgrims.
+
+Around 10 countries have reported 1,081 deaths during the pilgrimage, one of the five pillars of Islam which all Muslims with the means must complete at least once.
+
+The hajj, whose timing is determined by the lunar Islamic calendar, fell again this year during the oven-like Saudi summer.
+
+The national meteorological centre reported a high of 51.8 degrees Celsius (125 Fahrenheit) this week at the Grand Mosque in Mecca.
+
+A Saudi study published last month said temperatures in the area are rising 0.4 degrees Celsius each decade.
+
+...
+
+[Data](articles/7f8ff626.json)
+
+---
 
 ### Australia wins
 
@@ -745,6 +767,22 @@ This competition was organized in celebration of World Environment Day together 
 [Data](articles/56ce0aec.json)
 
 [Extended Data](ext_articles/56ce0aec.ext.json)
+
+---
+
+### Bourse hits positive trend following minister’s reference to govt.-creditors MoU
+
+*2024-06-21 02:30:00* · [`islandlk`](http://island.lk/bourse-hits-positive-trend-following-ministers-reference-to-govt-creditors-mou/) · `en`
+
+The stock market got into a positive trend yesterday after Minister Bandula Gunawardena’s statement to the media that negotiations with external creditors have come to a conclusion and that a MoU is to be signed with those creditors soon, market analysts said.
+
+Apart from that, the stock market was dominated by institutional buyers due to crossings while more than 50 percent of the turnover came from JKH. Consequently, banking sector counters performed well during the day.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 23 points while S and P SL-20 rose by 11 points. Turnover stood at Rs 2.07 billion with eight crossings.
+
+...
+
+[Data](articles/f4fd5245.json)
 
 ---
 
@@ -1552,21 +1590,29 @@ The visit comes amid delays in key Indian projects including land, oil and gas p
 
 ---
 
-### 2050දී ලංකාවේ වැඩිහිටි ජනගහණය සියයට 27 ඉක්මවයි
+### In 2050, the elders population in Sri Lanka exceeds 27 percent
 
 *2024-06-20 19:49:27* · [`adalk`](https://www.ada.lk/breaking_news/2050දී-ලංකාවේ-වැඩිහිටි-ජනගහණය-සියයට-27-ඉක්මවයි/11-410348) · `si`
 
-2000 වර්ෂයේ දී 9.3% ක් වූ ශ්‍රී ලංකාවේ වැඩිහිටි ජනගහනය 2050 වනවිට 27.6% ක් වන බවට ඇස්තමේන්තු කර ඇතැයි ජාතික වැඩිහිටි මහ ලේකම් කාර්යාලය දත්ත වාර්තා සඳහන් කරයි.
+By 2050, Sri Lanka's elder population will exceed 27%, up from 27.6% adults in 2000, reflecting global trends. The Ministry of Health has initiated a pilot project, starting in 2022, aimed at enhancing the quality of life for seniors, focusing on the Colombo and Badulla districts.
 
-ඒ අනුව එම වාර්තා වැඩිදුරටත් ප්‍රකාශ කර සිටින්නේ ලොව වැඩිහිටි ජනගහනය ශීඝ්‍රයෙන් වර්ධනය වීමට සාපේක්ෂව මෙරට වැඩිහිටි ජනගහනයද  එපරිදිම වර්ධනය වන බවයි.
+🟩
 
-මේ පිළිබඳ අදහස් දක්වමින් සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කර සිටියේ  වැඩිහිටි හා වියපත් ජනතාව වෙනුවෙන් ශක්තිමත් වැඩ පිළිවෙළක් සකස් කිරීම වර්තමානයේ අත්‍යාවශ්‍ය කරුණක් බවට පත්වී ඇති බවයි.
+The adult population of Sri Lanka is estimated to be 27.6% by 200 in 2000, according to data reports.
 
-ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ වැඩිහිටි හා වියපත් වූවන්ගේ සෞඛ්‍ය අවශ්‍යතා ඉටු කිරිම හා ආදර්ශ ලබාදීම පිළිබඳව සෞඛ්‍ය අමාත්‍යාංශය, මෙරට JICA කාර්යාලය මගින් මෙහෙයවන ව්‍යාපෘතිය සහ කාන්තා හා ළමා කටයුතු අමාත්‍යාංශයේ සමාජ සේවා දෙපාර්තමේන්තුව ඒකාබද්ධව නියමු ව්‍යාපෘතියක් පසුගිය කාලයෙහි දියත් කර ඇති බවයි.
+Accordingly, these reports further stated that the world's elderly population is in relation to the rapid growth of the world.
 
-...
+Speaking on the matter, the Secretary to the Ministry of Health, specialist medical Palitha Maheepala said that it was imperative to prepare a strong program for the elderly and older people.
+
+He further stated that the Ministry of Health, the Ministry of Health and the Ministry of Health and Children's Affairs, has recently launched a pilot project.
+
+The project is to provide a quality adult life for adult and older, and a three-year project, which was launched in 2022. Accordingly, the pilot projects have been carried out in the Colombo District in the Colombo District and the Badulla District of the Uva Province.
+
+◼️
 
 [Data](articles/70ad6aec.json)
+
+[Extended Data](ext_articles/70ad6aec.ext.json)
 
 ---
 
@@ -2221,51 +2267,5 @@ The Prime Minister and Indian Minister discussed Indian Investment, Development 
 [Data](articles/902150bc.json)
 
 [Extended Data](ext_articles/902150bc.ext.json)
-
----
-
-### Actor Naveen Chandra's teaser release of 'Eleven'
-
-*2024-06-20 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186577) · `ta`
-
-Naveen Chandra stars in 'Eleven,' playing a meticulous police officer investigating murders. The teaser, showcasing his character Ranjit Kumar, has garnered attention for its suspenseful narrative. Directed by Lokesh Ajil, the film also features Riya Hari, Sashank, Abirami, and others. With cinematography by Karthik Asokan and music by Iman, the movie is produced by Ajmal Khan and Riya Hari under AR Entertainment. Post-production is ongoing after filming completion.
-
-🟩
-
-The teaser of the film 'Eleven', which is playing the role of a magnificent police officer, has been released as the hero of the story of actor Naveen Chandra, who made his debut for Telugu and Tamil fans.
-
-Naveen Chandra, Riya Hari, Sashank, Abirami, Dileepan, Rithvika, 'Aadulam' Narain, Ravivarma, Arjay, starring debut director Lokesh Ajils. Karthik Asokan has recorded the cinematography. Iman has composed the music. The film was co -produced by producers Ajmal Khan and Riya Hari on behalf of AR Entertainment film company.
-
-The shooting of the film is complete and the post -shooting technical work is underway.. In this case, the teaser of the film has been released. Naveen Chandra appears to be the hero of the story in the role of Ranjit Kumar, a police officer who is well investigated in murder cases.. The teaser has attracted a lot of fans as he has been briskly shifting to a challenging murder case.
-
-◼️
-
-[Data](articles/940f7519.json)
-
-[Extended Data](ext_articles/940f7519.ext.json)
-
----
-
-### Allow the prisoners to visit the Poson Full Moon Day
-
-*2024-06-20 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186579) · `ta`
-
-Prisoners' relatives can visit two days before Poson Full Moon Day, bringing food and sweets. Visitors must follow health and safety protocols. All prisons are equipped for this.
-
-🟩
-
-Prison Commissioner and Spokesperson Gamini P. Dissanayake says that the prisoners have decided to allow their relatives to visit two days ahead of Poson Full Moon Day.
-
-In the meantime, relatives of the inmates will be allowed to carry food and sweet packages to the prisoners.
-
-The Commissioner said that visitors should come in accordance with proper health and safety procedures in accordance with prisons and regulations.
-
-He said that all the prisons in the country have been provided with facilities to carry out these activities.
-
-◼️
-
-[Data](articles/3e1df7bb.json)
-
-[Extended Data](ext_articles/3e1df7bb.ext.json)
 
 ---

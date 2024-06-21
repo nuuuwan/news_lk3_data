@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 15:20:07**
+As of **2024-06-21 15:34:56**
 
 ## Newspaper Stats
 
-*Scraped **31,478** Articles*
+*Scraped **31,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,564
 tamilmirrorlk | 3,698
 dailymirrorlk | 4,733
 virakesarilk | 4,882
-adaderanasinhalalk | 5,121
+adaderanasinhalalk | 5,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,477 (100.0%) of 31,478 articles have been extended.
+31,478 (100.0%) of 31,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### මෛත්‍රීගේ ප්‍රකාශයට අගරදගුරු පදවියෙන් පිළිතුරු
+
+*2024-06-21 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197993) · `si`
+
+පාස්කු ප්‍රහාරයේ වින්දිතයින් වෙනුවෙන් විවිධ පාර්ශ්වවලින් කාදිනල් හිමියන්ට ලැබුණු ආධාර මුදලින් රුපියල් මිලියන 500ක් පමණ මුදලක් මේ වනවිට වින්දිතයින් වෙනුවෙන් වියදම් කර ඇති බව කොළඹ අගරදගුරු පදවි ජන සන්නිවේදන අධ්‍යක්ෂ ගරු ජූඩ් ක්‍රිෂාන්ත පියතුමා පවසයි.
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ඊයේ (20) සිදුකළ ප්‍රකාශයට පිළිතුරු ලබාදෙමින් උන්වහන්සේ මේ බව සඳහන් කළේය.
+
+"මෛත්‍රීපාල සිරිසේන මහතා අද වනවිට දේශපාලන අතින් ඉතාමත් බංකොළොත්භාවයකට පත්වුණු පුද්ගලයෙක්. එතුමාගේ බංකොළොත්භාවය වහ ගැනීමට මෙවැනි බොරු ප්‍රචාර මාධ්‍ය ඉදිරියේ කියන්නේ. ඇත්තටම කාදිනල් හිමිට ලැබුණු මුදලින් මිලියන 500කට වැඩි මුදලක් මේ වනවිටත් වින්දිතයින් වෙනුවෙන් කොළඹ කතෝලික සභාවේ අගරදගුරු හිමිපාණන් යටතේ තියෙන සහන සේවා ආයතනයක් වන සෙත්සරණ ආයතනය විසින් වියදම් කරලා තියෙනවා. ක්‍රිස්තුන් වහන්සේ ඉගැන්වීමක් තියෙනවා දකුණු අතින් දෙන දේ වමතට නොදැනෙන් දෙන්න ඕනේ කියලා. ඒ නිසා තමයි කතෝලික සභාවෙන් කරන දේවල් මාධ්‍ය හමුවේ ප්‍රචාරය නොකර බොහෝම රහසිගතව සිදුකරන්නේ."
+
+◼️
+
+[Data](articles/516a4d45.json)
+
+---
 
 ### Maithripala’s attempting to mask own ‘political bankruptcy’– Catholic Church responds to ex-President
 
@@ -47,6 +63,8 @@ National Catholic Mass Communications Director, Rev. Fr. Jude Krishantha charged
 ...
 
 [Data](articles/9e0448f9.json)
+
+[Extended Data](ext_articles/9e0448f9.ext.json)
 
 ---
 
@@ -2273,31 +2291,5 @@ The suspect was also interrogated by a man named at the Ambalangoda area and the
 [Data](articles/f142f1f9.json)
 
 [Extended Data](ext_articles/f142f1f9.ext.json)
-
----
-
-### Conflict in the Mediterranean;Death
-
-*2024-06-20 19:08:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுக்கடலில்-மோதல்-ஒருவர்-மரணம்/175-339191) · `ta`
-
-A fatal clash involving six fishermen aboard the Sahan Buddha, departing from Beruwala, resulted in one death and injuries. The incident was reported near the Beruwala fishing harbor, and investigations are ongoing.
-
-🟩
-
-It is reported that one person has died in a clash between six fishermen traveling in a long -time fishing boat, Sahan Buddha, who went to sea from the Beruwala fishing harbor.
-
-Others in the boat were injured, according to the Fisheries Inspector's Office.
-
-Investigations have been carried out in accordance with a complaint lodged by the owner of a boat named Sumanasiri Fernando, a resident of Beruwala Customs Road.
-
-It is reported that the body of the deceased is about 180 nautical miles from the Beruwala fishing harbor in the same boat.
-
-MK Santana Upul, a man from Makkonna, Magalkanda and Rogland Watte, died in the clash, police say. Remble
-
-◼️
-
-[Data](articles/f76f65c5.json)
-
-[Extended Data](ext_articles/f76f65c5.ext.json)
 
 ---

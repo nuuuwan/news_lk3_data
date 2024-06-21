@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 22:08:41**
+As of **2024-06-21 21:53:55**
 
 ## Newspaper Stats
 
-*Scraped **31,509** Articles*
+*Scraped **31,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,18 @@ adalk | 2,753
 adaderanalk | 3,568
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
-virakesarilk | 4,892
-adaderanasinhalalk | 5,134
+virakesarilk | 4,890
+adaderanasinhalalk | 5,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,505 (100.0%) of 31,509 articles have been extended.
+31,505 (100.0%) of 31,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
-
-### இணை வரவேற்பு நாடுகள் மேற்கிந்தியத் தீவுகள் - ஐக்கிய அமெரிக்கா மோதும் சுப்பர் 8 போட்டி
-
-*2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186662) · `ta`
-
-ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண 9ஆவது அத்தியாயத்தின் இணை வரவேற்பு நாடுகளான மேற்கிந்தியத் தீவுகளும் ஐக்கிய அமெரிக்காவும் மோதும் குழு 2க்கான சுப்பர் 8 போட்டி பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்ரங்கில் நாளைக் காலை நடைபெறவுள்ளது.
-
-தத்தமது முதலாவது சுப்பர் 8 போட்டிகளில் முறையே இங்கிலாந்திடமும் தென் ஆபிரிக்காவிடமும் தோல்வி அடைந்த மேற்கிந்தியத் தீவுகளும் ஐக்கிய அமெரிக்காவும் முதலாவது வெற்றிப் புள்ளிகளைப் பெறுவதற்கு கடுமமையாக முயற்சிக்கவுள்ளன.
-
-சி குழுவில் சகல போட்டிகளிலும் வெற்றிபெற்ற மேற்கிந்தியத் தீவுகளின் சுப்பர் 8 சுற்று தோல்வியுடன் ஆரம்பமானது. இங்கிலாந்திடம் தோல்வி அடைந்த மேற்கிந்தியத் தீவுகள் அடுத்த இரண்டு போட்டிகளிலும் ஐக்கிய அமெரிக்கா, தென் ஆபிரிக்கா ஆகிய இரண்டு அணிகளையும் சிறந்த நிகர ஓட்ட வேகத்துடன் வென்றால் மாத்திரமே அரை இறுதிக்குள் நுழைவதற்கான வாய்ப்பு உருவாகும்.
-
-...
-
-[Data](articles/61a40f6f.json)
-
----
-
-### එංගලන්තයට ලැබුණු ඉලක්කය
-
-*2024-06-21 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198005) · `si`
-
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපර් 08 වටයේ එංගලන්තය සහ දකුණු අප්‍රිකාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
-
-එංගලන්ත නායක ජොස් බට්ලර් ගේ ආරාධනය අනූව පළමුව පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 163ක් රැස්කළේය.
-
-◼️
-
-[Data](articles/306115e5.json)
-
----
-
-### රාජිතගෙන් ජනපතිට පැසසුම්
-
-*2024-06-21 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198004) · `si`
-
-බංකොලොත් වීමෙන් පසු කෙටිම කාලයක් තුළ ඉන් මිදුණු එකම රට ශ්‍රී ලංකාව බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න මහතා පවසයි.
-
-ඔහු වැඩිදුරටත් කියා සිටියේ, වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ අර්බුදය සමයේ ආණ්ඩුව භාරගත් නිසා අද වන විට රට අර්බුදයෙන් ගැලවී ඇති බවය.
-
-...
-
-[Data](articles/9b24cbb7.json)
-
----
 
 ### Sri Lanka Police officers in India for specially-designed training course
 
@@ -150,7 +106,7 @@ Police said that they were referred to the Panadura Base Hospital for treatment.
 
 ### 25 Hindu Great Organizations and Forums
 
-*2024-06-21 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
+*2024-06-21 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
 
 The Sri Lasree Arumugar Sabha, organized by the Department of Hindu Cultural Affairs, showcases Hindu culture at the Bambalapitiya Hindu College Primary Hall.
 
@@ -163,24 +119,6 @@ The Sri Lasree Arumugar Sabha organized by the Department of Hindu Cultural Affa
 [Data](articles/e0505a65.json)
 
 [Extended Data](ext_articles/e0505a65.ext.json)
-
----
-
-### நெடுந்தீவில் கொலை செய்யப்பட்ட இளைஞருக்கு நீதி வேண்டி நெடுந்தீவு பொலிஸ் நிலையம் முன் மக்கள் கவனயீர்ப்பு போராட்டம்
-
-*2024-06-21 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186661) · `ta`
-
-நெடுந்தீவு பகுதியில் கொலை செய்யப்பட்ட இளைஞருக்கு நீதி வேண்டி நெடுந்தீவு பொலிஸ் நிலையம் முன் மக்கள் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
-
-நேற்றைய தினம் அதிகாலை நெடுந்தீவு ஏழாம் வட்டாரத்தைச் சேர்ந்த இளைஞர் ஒருவர் அடித்து கொலை செய்யப்பட்ட நிலையில் சடலமாக மீட்கப்பட்டார்.
-
-பிரேதப் பரிசோதனையின் பின் வியாழக்கிழமை (20) இரவு சடலம் உறவினர்களிடம் கையளிக்கப்பட்ட நிலையில்  வெள்ளிக்கிழமை (21) இறுதி கிரிகைகள் அவரது இல்லத்தில் நடைபெற்று அதன் பின்னர்  நல்லடக்கத்திற்காக சேமக்காலைககு எடுத்துச் செல்லும் போது மக்கள் சடலத்தையும் தோள்களில் சுமந்தவாறு நெடுந்தீவு பொலிஸ் நிலையம் முன்பாக  கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
-
-வியாழக்கிழமை (20)  நடைபெற்ற இளைஞர் கொலையுடன் சம்பந்தப்பட்ட சந்தேக நபர் ஒருவர் ஏற்கனவே வியாழக்கிழமை (20) கைது செய்யப்பட்டு யாழ்ப்பாணம் போதனா வைத்திய சாலையில் சிகிச்சை பெற்று வருகின்ற நிலையில்  இக்கொலையுடன் சம்பந்தப்பட்ட ஏனைய மூவரையும்  விரைவாகக் கைது செய்யுமாறு  கோரி நெடுந்தீவு மக்கள் சடலத்துடன் சென்று நெடுந்தீவு பொலிஸ்  நிலையத்தை முற்றுகையிட்டு  போராட்டத்தில் ஈடுபட்டனர்.
-
-...
-
-[Data](articles/823f5b24.json)
 
 ---
 
@@ -2263,5 +2201,95 @@ If you know the information about this person, the wife of the missing is also a
 [Data](articles/ca86ca05.json)
 
 [Extended Data](ext_articles/ca86ca05.ext.json)
+
+---
+
+### A target of 182 runs to Afghanistan
+
+*2024-06-20 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197970) · `si`
+
+In today's World Cup match against Afghanistan, India batted first after winning the toss. They scored 181 runs in 20 overs, losing 8 wickets.
+
+🟩
+
+The match between Afghanistan and India will be held today (20) in the World Cup.
+
+India was able to gain advantage of its coin and they decided to bat first.
+
+India scored 181 runs for the loss of 08 wickets at the end of 20 overs.
+
+◼️
+
+[Data](articles/fe175acc.json)
+
+[Extended Data](ext_articles/fe175acc.ext.json)
+
+---
+
+### S. Jaishankar - Sajith Meeting
+
+*2024-06-20 21:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-சஜித்-சந்திப்பு/175-339195) · `ta`
+
+A meeting between Indian External Affairs Minister S. Jaishankar and Sri Lanka's Opposition Leader Sajith Premadasa in Colombo highlighted strengthening ties and mutual appreciation. Premadasa thanked India for support, especially in housing projects and ambulance services, and expressed hope for continued cooperation. He also discussed aspirations for smart education policies in Sri Lanka, aligning with India's influence. The Indian PM, Narendra Modi, praised Premadasa's role in fostering closer India-Sri Lanka relations.
+
+🟩
+
+A special meeting between Indian External Affairs S. Jayshankar and Opposition Leader Sajith Premadasa took place in Colombo today.
+
+Opposition Leader Sajith Premadasa thanked the Indian Foreign Minister of India, thanks to the aid and assistance received from the neighboring country, and that the friendship between the two countries and the United People's Power government will be maintained in the same way.
+
+The Opposition Leader said that the Indian government's contribution to Sri Lanka's housing projects and the Swaseriya Ambulance Service could not be forgotten.. Commenting on the educational policy of the Indian government, Opposition Leader Sajith Premadasa said his aim was to create smart education in Sri Lanka and the new world -related education policy.
+
+Opposition Leader Sajith Premadasa said he would congratulate Narendra Modi, who once again appointed Indian Prime Minister.
+
+...
+
+[Data](articles/0a79e3b9.json)
+
+[Extended Data](ext_articles/0a79e3b9.ext.json)
+
+---
+
+### What happens to the presidential election?
+
+*2024-06-20 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197969) · `si`
+
+Mahinda Deshapriya urges for the Presidential Election to occur between September 20 and October 16, emphasizing its importance despite challenges. He criticizes any actions benefiting political parties during this process, advocating for transparency and fairness.
+
+🟩
+
+Former Chairman Mahinda Deshapriya says the Presidential Election should be held within the period between September 20 and October 16.
+
+He was speaking at a media briefing of the View Election Monitoring Organization as a senior citizen.
+
+He further stated that the Divine world collapses, but the presidential election cannot be postponed.
+
+"It is wrong to distribute the time of election laws. It is wrong to do anything that is advantageous for political parties. In these distribution, you must make a banner like the Commission and the observation organizations.
+
+◼️
+
+[Data](articles/c58a3238.json)
+
+[Extended Data](ext_articles/c58a3238.ext.json)
+
+---
+
+### Indian Foreign Minister met Tamil leaders together
+
+*2024-06-20 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186605) · `ta`
+
+Indian Foreign Minister S. Jaishankar met Tamil leaders in Sri Lanka, focusing on development projects and support for Indian-origin Tamils. Discussions included the Sri Lankan-Indian Development Corporation, housing projects, and temple development post-elections.
+
+🟩
+
+Foreign Affairs Minister S. Jaishankar and Indian origin Tamil leaders have been paid attention to the Sri Lankan -Indian Development Corporation and additional cooperation on the Tamils ​​of Indian origin.. The meeting was held on Thursday as Indian Foreign Minister Dr. S. Jaishankar arrived in Sri Lanka on Thursday.
+
+On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan, Members of Parliament Velukumar and Udayakumar, its leader and the Governor of the Eastern Province, Senthil Thondaman and the Governor of the Eastern Province on behalf of the Ceylon Workers Congress. General Secretary and Minister Jeevan Thondaman and Member of Parliament Maruthapandi Rameswaran were also present.. The Minister of State for Education, Aravinda Kumar and Vadivel Suarez, the president's senior adviser, were also present at the meeting.
+
+...
+
+[Data](articles/e4e17ee3.json)
+
+[Extended Data](ext_articles/e4e17ee3.ext.json)
 
 ---

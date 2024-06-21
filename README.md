@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 13:54:12**
+As of **2024-06-21 14:05:52**
 
 ## Newspaper Stats
 
@@ -26,49 +26,67 @@ adaderanasinhalalk | 5,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,470 (100.0%) of 31,472 articles have been extended.
+31,472 (100.0%) of 31,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### ව්‍යාපාරිකයන්ගේ සිම් කාඩ් හරහා කෝටි ගණන් මුදල් ඉස්සූ අයෙක් රිමාන්ඩ්
+### One was remanded by businessmen by businessmen through the SIM card
 
 *2024-06-21 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197989) · `si`
 
-දුරකථන සමාගම්වලින් ලබාගත් සිම්පත් අවභාවිත කර ධනවත් ව්‍යාපාරිකයන් පිරිසකගේ බැංකු ගිණුම්වලින් රුපියල් කෝටි 2කට අධික මුදලක් වංචා සහගතව ලබාගත් බව කියන පුද්ගලයෙකු ජුලි 04වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+A suspect linked to phone fraud targeting wealthy businessmen was arrested by the Computer Switez Intelligence Unit in Embilipitiya. The individual allegedly stole business data, including bank account details, and advised victims to switch SIM cards. Investigations revealed fraudulent activities amounting to over Rs. 210 lakhs. The suspect was remanded until July 4, facing charges in the Colombo Chief Magistrate's Court.
 
-ඇඹිලිපිටිය ප්‍රදේශයේ දුරකථන අලෙවි නියෝජිතයෙකු වන මෝහන් දයාලන් නැමැත්තෙකු පරිගණක ආවේක්ෂණ බුද්ධි ඒකකය මගින් මෙලෙස අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-සැකකරු ඊයේ (20) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරමින් විමර්ශන නිලධාරීන් සඳහන් කළේ, හැටන් ප්‍රදේශයේ පදිංචිකරුවකු වන සැකකරු ඇඹිලිපිටිය ප්‍රදේශයේ දුරකථන අලෙවිසැලක් පවත්වාගෙන ගොස් ඇති බවය.
+A person who is said to be released from telephone companies to July 4 on July 4.
 
-ඊට පැමිණෙන ධනවත් ව්‍යාපාරිකයන් ඇතුළු බොහෝ පිරිසක් දුරකථන අලුත්වැඩියා කරගැනීම, සිම්පත් ලබාගැනීම වැනි සේවා රැසක් ඔහුගෙන් ඉටුකරගෙන ඇති බව එම ඒකකය අධිකරණයට දැනුම්දුනි.
+The Computer Switzer Intelligence Unit, a telephone dealers in Embilipitiya, was arrested by the Computer Switness Intelligence Unit.
 
-ඔහුගෙන් සේවාවන් ලබා ගැනීමට පැමිණෙන පුද්ගලයන් අතර සිටින ධනවත් ව්‍යාපාරිකයන් හඳුනාගෙන ඇති සැකකරු එම ව්‍යාපාරිකයන්ගේ සිම්පත්වල කුමක් හෝ දෝෂයක් ඔවුන්ට පෙන්වා එම සිම්පත් ඔහු භාරයට ගෙන එහි දත්ත සොරාගෙන ඇති බව විමර්ශන නිලධාරීන් පැවසීය.
+The suspect was produced before the Colombo Chief Magistrate's Court yesterday (20).
+
+The unit has informed the court that many people, including wealthy businessmen, have been fulfilled, have been fulfilled, such as to obtain phone renovation and cash.
+
+Investigations have said that the suspect identified the wealthy businessmen who come to obtain the services from him to obtain the services of him, the investigators have taken them in the larvae of the business.
+
+The suspect has then informed the businessmen to obtain new SIMs instead of these SIMs.
+
+The suspect, which stole the data of businesses in businesses, has been confidential to the bank accounts of those business accounts and received more than Rs. 210 lakhs.
 
 ...
 
 [Data](articles/89f46359.json)
 
+[Extended Data](ext_articles/89f46359.ext.json)
+
 ---
 
-### ஹமாஸ் அமைப்பை முற்றாக அழிக்க முடியாது -இஸ்ரேலின் இராணுவபேச்சாளர் கருத்து
+### Hamas cannot be completely destroyed -Israel's military spokesman's opinion
 
 *2024-06-21 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186637) · `ta`
 
-ஹமாஸ் இயக்கத்தினை முற்றாக அழிக்க முடியாது என இஸ்ரேல் இராணுவத்தின் உயர் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+An Israeli military spokesperson stated that completely destroying Hamas is impossible, likening such efforts to "sprinkling soil in the eyes." Despite this, Israel remains committed to eliminating Hamas as part of its strategy in the Gaza War, according to the Benjamin Netanyahu Office. This stance has sparked internal disputes, highlighted by differing statements from Israeli security forces and the prime minister's office.
 
-ஹமாசினை அழிக்கலாம் அதனை காணாமல்போகச்செய்யலாம் என்ற எண்ணம் காணப்படுகின்றது ஆனால் இது மக்களின் கண்ணில் மண்ணை தூவுவது போன்றது என அவர் தெரிவித்துள்ளார்.
+🟩
 
-இஸ்ரேலின் பாதுகாப்பு அமைச்சரவை ஹமாசினை எவ்வாறு அழிப்பது என தீர்மானித்துள்ளது என குறிப்பிட்டுள்ள பெஞ்சமின் நெட்டன்யாகு அலுவகம்  காசா யுத்தத்தின் நோக்கமாக இஸ்ரேல் இதனை கருதுவதாகவும் தெரிவித்துள்ளது.
+A top official of the Israeli army has said that the Hamas movement cannot be completely destroyed.
 
-இஸ்ரேலிய இராணுவம் இது குறித்து அர்ப்பணிப்புடன் உள்ளது என பெஞ்சமின் நெட்டன்யாகு அலுவலகம் தெரிவித்துள்ளது.
+He said the idea that Hamasin could be destroyed and disappeared, but it is like sprinkling soil in the eyes of the people.
 
-இதேவேளை பின்னர் கருத்து தெரிவித்துள்ள இஸ்ரேலிய பாதுகாப்பு படையினர் தாங்கள் ஹமாசினை அழிப்பது குறித்து அர்ப்பணிப்புடன் உள்ளதாகவும் பேச்சாளர் ஹமாஸ் என்ற கொள்கை குறித்தே தெரிவித்தார் எனவும் குறிப்பிட்டுள்ளது.
+The Benjamin Netanyaku Office, which has decided how to destroy Israel's security cabinet Hamasin, has said that Israel considers this as a purpose of the Gaza War.
 
-...
+The Israeli military is dedicated to this, the Benjamin Netanyaku Office said.
+
+Meanwhile, Israeli security forces have later stated that they are dedicated to the destruction of Hamasin and that spokesman Hamas has said.
+
+Although the Israeli military has commented on the controversy caused by the military speaker, CNN has said that his comments have revealed the intensification of disagreements between the Israeli prime minister and the army.
+
+◼️
 
 [Data](articles/2407d212.json)
+
+[Extended Data](ext_articles/2407d212.ext.json)
 
 ---
 

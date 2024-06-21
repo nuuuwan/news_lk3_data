@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 10:05:43**
+As of **2024-06-21 10:19:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,447 (100.0%) of 31,449 articles have been extended.
+31,449 (100.0%) of 31,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,35 @@ The Committee directed the Corporation to submit a detailed report within seven 
 
 [Data](articles/a7dd8540.json)
 
+[Extended Data](ext_articles/a7dd8540.ext.json)
+
 ---
 
-### ජනපති සහ ඉන්දීය විදේශ ඇමති අතර සාකච්ඡාවේ තවත් තොරතුරු
+### More information in the discussion between President and Indian Foreign Minister
 
 *2024-06-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197981) · `si`
 
-ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය එස්. ජෙයිශංකර් මහතා සිය එක්දින සංචාරය නිමා කර ඊයේ (20) පස්වරුවේ දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+Dr. S. Jeyashankar concluded a one-day visit to Sri Lanka, focusing on enhancing Indo-Sri Lanka cooperation, especially in the energy sector. Discussions included progress on the Petroleum Phiros Road, Oil & Gas Exploration, and the upcoming Sampur Solar Power Plant. The development of airports and attention to the 13th Amendment were also highlighted, addressing concerns of the Tamil community.
 
-මෙරට සංචාරයේ නිරතවූ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර කොටුව ජනාධිපති මන්දිරයේ පැවති නිල හමුවෙන් අනතුරුව ද්විපාර්ශ්වික සාකච්ඡාවල ද නිරතවී තිබුණි.
+🟩
 
-බලශක්ති ක්ෂේත්‍රයට අදාළව ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ක්‍රියාත්මක ඒකාබද්ධ ව්‍යාපෘති කඩිනම් කර ජනතාවට එහි ප්‍රතිලාභ උදාකරදීම පිළිබඳව අවධානය යොමුවී ඇති බව සඳහන් ය.
+Indian Foreign Minister Dr. S. Jeyashnar had left the island yesterday after the end of his one day tour.
 
-බලශක්ති සම්බන්ධතාව සහ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ සංවර්ධනය, දෙරට අතර ඉදිකිරීමට යෝජිත ඛනිජතෙල් නළ මාර්ගය සහ තෙල් හා ගෑස් ගවේෂණ ව්‍යාපෘති පිළිබඳව ද මෙහිදී විශේෂ අවධානය යොමුවී තිබේ.
+The Indian External Affairs Minister and President Ranil Wickremesinghe were also engaged in bilateral discussions following the official meeting held at the President's House.
 
-සාම්පූර් සූර්ය විදුලි බලාගාරයේ ඉදිකිරීම් ලබන මාසයේ ආරම්භ කිරීමට සැලසුම් කර ඇති බවට එහිදී සාකච්ඡා වී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+It is said that intensify combined projects between India and Sri Lanka in relation to the energy sector said that the people had focused on the benefit of the people.
+
+Special attention has been paid to the construction of the Petroleum Phiros Road and Oil and Gas Exploration projects.
+
+It has been discussed that the construction of the Sampur Solar Power Plant is planning to commence next month, the Presidential Media Unit said.
+
+The Jaffna Airport and the Bandaranaike International Airport Development Project and the Blunkayaka International Airport Development Project in Sri Lanka and implemented as a preliminary step in Sri Lanka as a preliminary step in Sri Lanka are also exchanged.
 
 ...
 
 [Data](articles/2b761bf4.json)
+
+[Extended Data](ext_articles/2b761bf4.ext.json)
 
 ---
 

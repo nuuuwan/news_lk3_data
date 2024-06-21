@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 19:52:35**
+As of **2024-06-21 20:05:09**
 
 ## Newspaper Stats
 
-*Scraped **31,499** Articles*
+*Scraped **31,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,567
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,889
-adaderanasinhalalk | 5,128
+adaderanasinhalalk | 5,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,499 (100.0%) of 31,499 articles have been extended.
+31,499 (100.0%) of 31,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### මුහුද මැදදී ධීවරයෙකු ව ඝාතනය කෙරේ
+
+*2024-06-21 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198001) · `si`
+
+බේරුවල ධීවර වරායේ සිට බහුදින ධීවර යාත්‍රාකින් මුහුදු ගිය ධීවරයින් පිරිසක් අතර සිටි අයෙක් එහි සිටි තවත් ධීවරයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+නින්දේදී කකුලක් පෑගීමේ සිද්ධියක් හේතුවෙන් ඇති වූ බහින්බස්වීමකින් පසු මෙම ඝාතනය සිදුව ඇති බව පොලීසිය පැවසුවේය.
+
+අනතුරුව සෙසු ධීවරයන් පිරිස, ඝාතනය සිදුකළ ධීවරයා ගැටගසා ගොඩබිමට රැගෙනවිත් තිබේ.
+
+'සහන් පුතා' නම් බහුදින ධීවර යාත්‍රව පසුගිය පසුගිය 09 වැනිදා දියඹට ගොස් ඇත්තේ ධීවරයින් පස් දෙනෙකු ද සමගිනි.
+
+මුහුදු සැතපුම් 180ක් පමණ ගැඹුරු මුහුදේදී නිදාගෙන සිටි එක් ධීවරයෙකුගේ කකුල තවත් ධීවරයෙකුට සිදු වූ අත්වැරදීමකින් පෑගී තිබේ.
+
+එම අවස්ථාවේදී නිදාගෙන සිටි ධීවරයා නැගිට අසල වූ තියුණු ආයුධයකින් කකුල පාගන ලද ධීවරයාගේ උදරයට පහරදී ඇති බව පොලීසිය සඳහන් කළේය.
+
+එහිදී අදාළ ධීවරයා මියගොස් ඇති අතර පහරදුන් ධීවරයාගෙන් සෙසු පිරිස සිදුවීම පිළිබඳව විමසා තිබේ.
+
+සෙසු පිරිසට ද ඔහු එම අවස්ථාවේදී තර්ජනය කර ඇත්තේ පහර දෙන බව පවසමිනි.
+
+එම අවස්ථාවේදී අදාළ පිරිස එක්ව ඝාතනය සිදුකරන ලද ධීවරයා අල්ලා ගැටගසා ගොඩබිමට අද දිනයේදී ගෙන එනු ලැබීය.
+
+...
+
+[Data](articles/0159d05f.json)
+
+---
+
+### කාසියේ වාසිය එංගලන්තයට
+
+*2024-06-21 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198000) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපර් 08 වටයේ තවත් තීරණාත්මක තරගයක් අද (21) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/a49924aa.json)
+
+---
 
 ### Govt. to rebuild or compensate houses damaged by bad weather - Sagala
 
@@ -2255,53 +2295,5 @@ Special buses and train services will be in operation for the devotees to the Po
 [Data](articles/8d701c9a.json)
 
 [Extended Data](ext_articles/8d701c9a.ext.json)
-
----
-
-### Sri Lanka car permit tax losses Rs14bn in two years of partial disclosure
-
-*2024-06-20 20:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-permit-tax-losses-rs14bn-in-two-years-of-partial-disclosure-168953/) · `en`
-
-ECONOMYNEXT – Sri Lanka has lost 14.3 billion rupees in taxes from car permits given to public servants, including doctors, military officers, central bankers, finance ministry and tax officials, in 2019 and 2020 information disclosed by the finance ministry shows.
-
-Inclusive of some 2021 tax losses when imports were banned for the rest of the year, 14.4 billion rupees of foregone revenue from a waived luxury tax is shown.
-
-The list only shows waivers of a so-called ‘luxury tax’ imposed on larger vehicles above a certain value and size.
-
-The list does not show other vehicles imported under car permits such as double cabs or cars below a certain size.
-
-The list also does not seem to include tax free cars imported by politicians.
-
-In 2019, Sri Lanka has lost 8.3 billion rupees from the luxury tax on car permits and in 2019 the loss 5.92 billion rupees.
-
-...
-
-[Data](articles/ae4927ec.json)
-
-[Extended Data](ext_articles/ae4927ec.ext.json)
-
----
-
-### Southern host yield from train to Colombo
-
-*2024-06-20 20:07:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-අස්වැන්න-දුම්රියෙන්-කොළඹට-ගේන්න-යයි/11-410352) · `si`
-
-The Railways Department plans a pilot project starting June 29th to transport agricultural goods from Beliathe to Maradana via train. This initiative aims to help farmers sell their produce at fair prices by reducing transportation costs. The project was discussed at the Galle District Secretariat, involving officials from various districts.
-
-🟩
-
-The Railways Department says that the train is planning to open a special program to transport agricultural goods from Beliathe to Maradana.
-
-It is planned to be implemented as a pilot project and the transportation program of the train is scheduled to prepare an agricultural commodity method in June 29th.Using phone hotline, agro transport facilities will be reserved for agro transport facilities.
-
-The Railway Department states that it is possible to sell the agricultural products of the farmers at a reasonable price, reducing the farmers' agricultural products at a reasonable price, reduce the submerged transportation fees and reducing the agricultural products.
-
-The main discussion of this project was held at the Galle District Secretariat, Director General of the Ministry of Transport and Highways.A group of officials including Hambantota and Matara District Secretaries were present.
-
-◼️
-
-[Data](articles/5c060267.json)
-
-[Extended Data](ext_articles/5c060267.ext.json)
 
 ---

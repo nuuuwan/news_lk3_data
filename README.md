@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 11:54:29**
+As of **2024-06-21 12:07:40**
 
 ## Newspaper Stats
 
-*Scraped **31,461** Articles*
+*Scraped **31,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,41 @@ islandlk | 1,730
 economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,750
-adaderanalk | 3,560
+adaderanalk | 3,561
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
-virakesarilk | 4,878
+virakesarilk | 4,879
 adaderanasinhalalk | 5,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,459 (100.0%) of 31,461 articles have been extended.
+31,461 (100.0%) of 31,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### உயர்தர மாணவர்களுக்கு விடுக்கப்பட்ட முக்கிய அறிவிப்பு
+### The main notice issued to high -quality students
 
 *2024-06-21 11:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-மாணவர்களுக்கு-விடுக்கப்பட்ட-முக்கிய-அறிவிப்பு/175-339217) · `ta`
 
-2024ஆம் ஆண்டு உயர்தரப் பரீட்சைக்கான விண்ணப்பங்களை ஜூன் 10ஆம் திகதிக்கு முன்னதாக சமர்ப்பிக்குமாறும் கால எல்லை நீடிக்கப்பட மாட்டாது என்பதால் அதற்கு முன்னதாக விண்ணப்பங்களை சமர்ப்பிக்குமாறும் பரீட்சைத் திணைக்களம் பரீட்சார்த்திகளை கோரியுள்ளது.
+High-quality students must apply for the 2024 exams via the official website or mobile app by June 10. Government and approved private school students need school principal approval. No extensions will be granted beyond this deadline.
 
-ஜூன் 10ஆம் திகதி வரை இணையம் மூலமான விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படுவதுடன் அரசாங்க மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மாணவர்கள் தங்கள் பாடசாலை அதிபர் மூலமாக விண்ணப்பங்களை அனுப்ப வேண்டும் எனவும் பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
+🟩
 
-பரீட்சைத் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளம் ஊடாகவும், கைத்தொலைபேசி மூலமாகவும் விண்ணப்பங்களை அனுப்ப முடியும் எனவும், இது தொடர்பான மேலதிக தகவல்களை திணைக்களத்தின் நேரடி தொலைபேசி இலக்கமான 1911 அல்லது பொது தொலைபேசி இலக்கங்களில் பெற்றுக்கொள்ள முடியும் எனவும் பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். R
+The Department of Examinations has requested the Examinations to submit applications for the 2024 examinations before June 10 and submit applications before the time limit will not be extended.
+
+The Department of Examinations has announced that the Internet applications will be accepted till June 10 and students of government and state -approved private schools should send applications through their school principal.
+
+The Commissioner General of Examinations Amit Jayasundera said that applications can be sent through the official website of the Examination and the mobile phone.. Remble
 
 ◼️
 
 [Data](articles/4e2b1f13.json)
+
+[Extended Data](ext_articles/4e2b1f13.ext.json)
 
 ---
 
@@ -109,6 +115,44 @@ It is noteworthy that the prisoners left the prison for gratitude after worshipi
 [Data](articles/90a04e32.json)
 
 [Extended Data](ext_articles/90a04e32.ext.json)
+
+---
+
+### India will always be a reliable friend and ‘dependable partner’ for Sri Lanka: Jaishankar
+
+*2024-06-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100005/india-will-always-be-a-reliable-friend-and-dependable-partner-for-sri-lanka-jaishankar) · `en`
+
+The Minister of External Affairs of India Dr. S. Jaishankar while concluding his official visit to Sri Lanka on Thursday (20) said that India will always be a reliable friend and a ‘dependable partner’ for Sri Lanka.
+
+Posting on ‘X’, Dr. S. Jaishankar noted: “Concluded a productive visit to Sri Lanka, my first in this new term. We will always be a reliable friend and a dependable partner for our Sri Lankan friends.”
+
+The Indian External Minister, who arrived on the island on Thursday morning, called on President Ranil Wickremesinghe and engaged in a one-on-one meeting.
+
+During this meeting three milestones in Indo-Sri Lanka relations were achieved as President Wickremesinghe and the visiting Indian External Affairs Minister jointly unveiled the virtual plaque for 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project. Meanwhile, 24 houses in each model village in Colombo and Trincomalee were also handed over virtually.
+
+...
+
+[Data](articles/2a1edc88.json)
+
+---
+
+### நடுக்கடலில் மீனவர்களிடையே மோதல் : ஒருவர் பலி
+
+*2024-06-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186619) · `ta`
+
+பேருவளையில் இருந்து இழுவை படகில் மீன்பிடிக்கச் சென்ற ஆறு மீனவர்களுக்கிடையில் நடுக்கடலில் ஏற்பட்ட மோதலில் ஒருவர் உயிரிழந்துள்ளார்.
+
+மகொன, மாகல்கந்த பகுதியைச் சேர்ந்த எம்.கே. உபுல் சந்தன என்ற நபரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த மோதல் சம்பவத்தில் ஏனைய மீனவர்களும் காயங்களுக்குள்ளாகி உள்ளதாக பேருவளை கடற்றொழில் பரிசோதகர் அலுவலக வட்டாரங்கள் தெரிவித்துள்ளன.
+
+சம்பவம் தொடர்பில் படகின் உரிமையாளர் செய்த முறைப்பாட்டின் அடிப்படையில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+இதேவேளை, உயிரிழந்தவரின் சடலம் அதே படகில் பேருவளை மீன்பிடி துறைமுகத்திற்கு எடுத்துவரப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2c1d8e12.json)
 
 ---
 
@@ -1628,17 +1672,23 @@ There is no problem in the central bank. However, the Bank of Ceylon is delaying
 
 ---
 
-### පරීක්ෂාවකින් තොරව වෙළඳපොළට නිකුත් කළ එන්නත් අටක් තවමත් වෙළඳපොලේ
+### Eight vaccines issued in the market still in the market without checking
 
 *2024-06-20 19:58:04* · [`adalk`](https://www.ada.lk/breaking_news/පරීක්ෂාවකින්-තොරව-වෙළඳපොළට-නිකුත්-කළ-එන්නත්-අටක්-තවමත්-වෙළඳපොලේ/11-410349) · `si`
 
-නිසි පරීක්ෂාවකින් තොරව වෙළෙඳපොළට නිකුත් කරනු ලැබූ නිර්වින්දන සහ මොළය ආශ්‍රිත රෝග සඳහා භාවිතයට ගනු ලබන එන්නත් 08ක් තවමත් නිෂ්පාදනය කරන බවත්, එම එන්නත් වෙළෙඳ පොළේ ඇති බවත් අභියාචනාධිකරණයේදී ඊයේ (20දා) අනාවරණය විය.
+An eight-use vaccines issued to the market without proper inspection revealed that there were still eight vaccines and the vaccine market.
 
-ජාතික ඖෂධ නියාමන අධිකාරිය මාස 06ක කාලයක් පුරා කරනු ලබන පරීක්ෂාවකින් පසුව නිකුත් කළ යුතු එන්නත් මාස 02ක කාලයක පරීක්ෂාවකින් පසු නිකුත් කිරීමෙන් ජනතාවට මහත් හානි වී ඇතැයි කියමින් ගොනු කර ඇති පෙත්සම් කැඳවූ අවස්ථාවේදී පෙත්සම්කාර සමාජ ක්‍රියාකාරිකයින් වෙනුවෙන් පෙනී සිටි නීතිඥ නීල් ශාන්ත සිරිමාන්න මහතා මේ බව අනාවරණය කළේය.අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා හමුවේ මෙම රිට් පෙත්සම සලකා බැලිණ.
+Attorney-at-Law Neil St. Sirimanna convened the petitions filed by the National Drug Regulatory Inspection after a period of three months after a checking for the people..Aebage Chairman Judge Nissanka Bandula Karunaratne was considered by the writ petition.
+
+Club activists, Pinaya Warnakulasuriya and Ashan P. National Drug Regulatory Authority has named the National Drug Regulatory Authority as respondents filed by Buddharaw.The petitioners have requested that they have been damaged and issued a performing order.
+
+Attorney-at-Law Neil St. Sirimanna, who is said to have been damaged by the petition, the pharmaceutical production that the people have been severely damaged in the market.As a situation should arise, the petition was asked to call quickly.
 
 ...
 
 [Data](articles/6ab6e42a.json)
+
+[Extended Data](ext_articles/6ab6e42a.ext.json)
 
 ---
 
@@ -2209,47 +2259,5 @@ It is said that investigations have been launched on a complaint by the owner of
 [Data](articles/613d2b65.json)
 
 [Extended Data](ext_articles/613d2b65.ext.json)
-
----
-
-### Sri Lanka shares debt management experience at global forum
-
-*2024-06-20 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-debt-management-experience-at-global-forum-168935/) · `en`
-
-ECONOMYNEXT – Sri Lanka has shared its experiences at a forum on debt management to “provide lessons for others”, State Minister of Finance Shehan Semasinghe has said.
-
-Semasinghe spoke on “The Role of Debt Management in Navigating Crises” at the 14th Debt Management Facility (DMF) Stakeholders’ Forum, in Livingstone, Zambia.
-
-“I shared the experiences of Sri Lanka which can provide valuable lessons for others and explored the critical elements of capacity building and sound institutional practices in managing debt, particularly in the context of economic challenges,” Semasinghe said on X (twitter).
-
-“Sri Lanka’s experience demonstrates that effective debt management is not just about managing numbers but also about building robust institutions and capacities.”
-
-The journey underscores the importance of transparent, accountable governance and the need for international support and cooperation in times of crisis, he said.
-
-...
-
-[Data](articles/28eb6f39.json)
-
-[Extended Data](ext_articles/28eb6f39.ext.json)
-
----
-
-### Vijayamaran - Wimal - Bose Venkat is ready for 'sir'
-
-*2024-06-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186583) · `ta`
-
-The teaser for "Sir," a Tamil film led by Karthi and directed by Bose Venkat, showcases a teacher's struggle against a village's dominant caste attempting to destroy his school. The film, also featuring Vimal, Sayadevi Kannan, and others, explores the life of a government school educator. Initially titled "Mao C," it pays homage to the late Tamil scholar Ma. The teaser includes a powerful quote from Socrates, heightening anticipation for its release.
-
-🟩
-
-The teaser of the movie 'Sir', which plays the hero of the story of one of the star actors in the Tamil film industry, has been released.. Karthi, the leading star actor of the Tamil film industry, and Karthik Subburaj, the leading director of the film, posted it on their social networking site and congratulated the film crew.
-
-Directed by director and star actor Bose Venkat, directed by 'Kanni Madam', 'Sir' starring Vimal, Sayadevi Kannan, Siraj S, Saravanan, Rama, Jayapalan and many others.. Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris.Producer SS Pictures of the film, which is ready to focus on the life of a teacher working in a government school.. Has produced Siraj. The film is being presented by director and producer Vijayamaran on behalf of Gross Root Film Company.
-
-...
-
-[Data](articles/03724250.json)
-
-[Extended Data](ext_articles/03724250.ext.json)
 
 ---

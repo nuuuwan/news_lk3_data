@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 09:35:18**
+As of **2024-06-21 09:53:50**
 
 ## Newspaper Stats
 
-*Scraped **31,446** Articles*
+*Scraped **31,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,558
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,112
+adaderanasinhalalk | 5,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,445 (100.0%) of 31,446 articles have been extended.
+31,446 (100.0%) of 31,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### EPF වෙනුවෙන් ඩිජිටල් දත්ත පද්ධතියක්
+
+*2024-06-21 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197980) · `si`
+
+මහ බැංකුව සහ කම්කරු දෙපාර්තමේන්තුව ඒකාබද්ධව සේවක අර්ථසාධක අරමුල් ගෙවීම් ඇතුළු දත්ත ලබාගත හැකි ඩිජිටල් දත්ත පද්ධතියක් සකස් කරන ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී කම්කරු අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු නිලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+
+කම්කරු දෙපාර්තමේන්තුවේ 2021 සහ 2022 වසරවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය විමර්ශනය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාව පාර්ලිමේන්තුවේදී රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ අවස්ථාවේදී මේ පිළිබඳව සාකච්ඡා වී තිබුණි.
+
+කම්කරු දෙපාර්තමේන්තුවේ සේවා යෝජකයන් ලියාපදිංචි වීමෙන් පසු අදාළ අර්ථසාධක අරමුදල් මහ බැංකුවට ගෙවීම් සිදු කරන බවත් මහ බැංකුවෙන් සෑම මාස 6කට වරක් ගෙවීම් පිළිබඳව දත්ත කම්කරු දෙපාර්තමේන්තුවට ලබාදෙන බවත් නිලධාරීන් පෙන්වාදී තිබේ.
+
+මෙහිදී කාරක සභාව පෙන්වාදී ඇත්තේ මාස 6කට වරක් දත්ත ලබාගැනීම වෙනුවට මේ සම්බන්ධයෙන් නිරන්තර යාවත්කාලීන විය හැකි පද්ධතියක් කම්කරු දෙපාර්තමේන්තුව සතුවිය යුතු බවය.
+
+ජනතාවගේ ආරක්ෂාව සඳහා එය අත්‍යවශ්‍ය බවත් කාරක සභාව විසින් අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/c46bc440.json)
+
+---
 
 ### Mobile initiative to streamline ‘Urumaya’ freehold land deed distribution
 
@@ -177,6 +197,8 @@ Though most of the committed projects have been discussed and some already signe
 ...
 
 [Data](articles/a2032068.json)
+
+[Extended Data](ext_articles/a2032068.ext.json)
 
 ---
 
@@ -2253,35 +2275,5 @@ The two suspects were produced before the Aluthkade Magistrate's Court today.
 [Data](articles/da203c61.json)
 
 [Extended Data](ext_articles/da203c61.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar meets President
-
-*2024-06-20 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186543) · `ta`
-
-During his visit, Indian Foreign Minister S. Jaishankar and Sri Lankan President Ranil Wickremesinghe virtually launched 130 houses under the Indian Housing Scheme in various districts and handed over 24 more in Colombo and Trincomalee. They also unveiled a souvenir crystal marking the opening of a $6 million Maritime Recovery Coordination Center across several locations in Sri Lanka.
-
-🟩
-
-Indian External Affairs Minister S.. Jaishankar met President Ranil Wickremesinghe.
-
-Indian Foreign Minister. During Jaishankar's visit to Sri Lanka, three milestones were reached in the Indo -Sri Lankan relations.
-
-Under the Indian Housing Scheme, President Ranil Wickremesinghe and Dr. Jaishankar jointly opened the memorial crystals for 106 houses in the districts of Kandy, Nuwara Eliya and Matale via Virtual.
-
-In addition, 24 houses in sample villages in Colombo and Trincomalee have been handed over to the beneficiaries through virtuals.
-
-Meanwhile, a souvenir crystal referring to the official launch of the Maritime Recovery Coordination Center (MRCC) in Sri Lanka with $ 6 million has been opened through virtual.
-
-President Ranil Wickremesinghe and Indian Foreign Minister Dr. S.. Jaishankar opened it together.
-
-This includes a center at the Naval Headquarters in Colombo, a sub -center in Hambantota, Galle, nearby, Batticaloa, Trincomalee, Kallar, Point Pedro and Mallikulam.
-
-◼️
-
-[Data](articles/e3a63dde.json)
-
-[Extended Data](ext_articles/e3a63dde.ext.json)
 
 ---

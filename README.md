@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 20:54:33**
+As of **2024-06-21 21:06:31**
 
 ## Newspaper Stats
 
-*Scraped **31,504** Articles*
+*Scraped **31,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,567
+adaderanalk | 3,568
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,890
@@ -26,33 +26,57 @@ adaderanasinhalalk | 5,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,503 (100.0%) of 31,504 articles have been extended.
+31,504 (100.0%) of 31,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### කෝටි 18ක මහල් නිවසක් දන්දුන් බුද්ධ පුත්‍රයෙක්
+### Sri Lanka Police officers in India for specially-designed training course
+
+*2024-06-21 20:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100012/sri-lanka-police-officers-in-india-for-specially-designed-training-course) · `en`
+
+A batch of 23 senior Sri Lankan police officers are currently in New Delhi on a specially-designed two-week training course that started on June 18, the Indian High Commission in Colombo said on Friday.
+
+“At the request of the Sri Lanka Police, the High Commission of India has been facilitating tailor-made capacity building training courses for the personnel of the Sri Lankan Police at the premier police training institutions viz. Central Detective Training Institute (CDTI), Jaipur; CDTI, Hyderabad; CDTI, Kolkata and National Security Guard (NSG), Manesar, in India,” the mission said in a press release.
+
+...
+
+[Data](articles/97562ec0.json)
+
+---
+
+### Dandu Buddha's son for Donu
 
 *2024-06-21 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198003) · `si`
 
-බුද්ධ කාලීනව භාරතයේ විසූ ජීවක වෙදදුරු ගිලනුන්ට උපස්ථාන කරමින් සමාජය සුවපත් කිරීමට කැප වූ ආකාරය අප ඉතිහාසය තුළ අසා තිබේ.
+Dandu Buddha's son, known as Donu, inspired a commitment to promoting health and well-being. Despite not being a painter, his legacy lives on through the efforts of Mabotuwana Sri Piyaratana Nayaka, who founded a charitable organization offering free accommodation and meals to cancer patients and others needing medical care at the Kidney Teaching Hospital in Galle. This initiative, funded by donations, began in 2017 and extends its services to anyone recommended by doctors, regardless of their location. The organization also runs a school on-site, showcasing the broader impact of its philanthropic efforts.
 
-එවැනි වෙදදුරෙකු නොවුන ද, ගිලනුන්ට උපස්ථාන කිරීම උදෙසා උතුම් වූ මෙහෙවරක් සිදුකරන බුද්ධ පුත්‍රයෙකු පිළිබඳ කතාවක් මේ උතුම් පෝ දිනයේ අපට අසන්නට ලැබුණි.
+🟩
 
-ඒ නිසාම මිනිසුන් තමන්ට නිරෝගි දිවියක් උරුම කරගැනීමට බොහෝ සෙයින් කැපවී කටයුතු කරයි.
+We have heard in history that Buddhaliya-lifted living organizational should be committed to healing the club.
 
-ඒ අතරේ ඉතාම සුළු පිරිසක් අනෙකාට නිරෝගි දිවි පෙවෙතක් උරුම කරදීමට තමන් සතු දෑ කැපකරමින් වෙහෙසී කටයුතු කරයි.
+Although not such a painter, we heard a story about a Buddha's son, which is a great service to the mites.
 
-මේ එවැනි පරාර්ථකාමි සිතුවිල්ලක් ඔස්සේ බිහිවූ මාබොටුවන ශ්‍රී පියරතන නාහිමි සුව සෙවණයි.
+That is why people are greatly committed to inherited a healthy life.
 
-බාහිරින් මෙන්ම අභ්‍යන්තරයෙන්ද මෙම ගොඩනැගිල්ලේ තරු පන්තියේ හෝටලයක පෙනුම සහ පහසුකම් තිබුණද මෙය සැබවින්ද ගිලනුන්ට උපස්ථාන කිරීම වෙනුවෙන් බිහිකළ ආයතනයකි.
+In the meantime, a very few people are working hard to dedicate themselves to the other of a healthy life.
 
-ගාල්ල කරාපිටිය ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ගැනීමට පැමිණෙන පිළිකා රෝගීන්ට, වකුගඩු රෝගීන්ට සහ හදවත් රෝගීන්ට එම රෝගයට ප්‍රතිකාර ලබාගන්නා කාලය තුළ නවාතැන් පහසුකම් හා ආහාරපාන නොමිලේ සැපයීම මේ ඔස්සේ සිදු වේ.
+Mabotuwana Sri Piyaratu Sri Piyaratana Nayaka was found in this altruistic thought.
+
+In external and internal hotel in the building, this is a company that has created a person withdrawn to the skewns.
+
+It takes free supply of accommodation and food free of charge to the cancer patients, the kidney and hearts who visit the Kidney Teaching Hospital in Galle Teaching Hospital.
+
+The healing sewna to the concept of Kalifornia, the Chief Sanganayake of the California, has been built in 2017, spending about Rs.
+
+He has felt a few who were close to the United States.
 
 ...
 
 [Data](articles/852b39ca.json)
+
+[Extended Data](ext_articles/852b39ca.ext.json)
 
 ---
 
@@ -2265,31 +2289,5 @@ On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan,
 [Data](articles/e4e17ee3.json)
 
 [Extended Data](ext_articles/e4e17ee3.ext.json)
-
----
-
-### Focus on accelerating India -Sri Lanka Joint Development Plans!Jaishankar examined many things in the meeting with the president
-
-*2024-06-20 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186604) · `ta`
-
-India and Sri Lanka have accelerated joint development plans focusing on energy, renewable resources, and infrastructure. Key points from the meeting include the launch of the Sampur Solar Power Plant in July 2024, support for Sri Lanka's energy schemes, and discussions on promoting milk production and expanding ports. Additionally, digitalization efforts, such as introducing a unique digital ID card for Sri Lanka, were mentioned.
-
-🟩
-
-The Sampur Solar Power Plant will commence in July, and the support of India and the support of India and Sri Lanka's Energy Schemes on India and IndiaIndian External Affairs Minister S. Jaishankar focused at the meeting with Wickremesinghe.
-
-Indian Foreign Minister Dr. S.. Jaishankar meets President Ranil Wickremesinghe at the President's House in Colombo Fort. These issues were extensively examined during the bilateral discussion held at the meeting.
-
-Special attention was paid to the development of the Energy Connection and the Development of the Renewable Energy Department, the distribution of LNG, the fuel supply pipeline, fuel and gas inspection projects set up between the two countries.
-
-The construction of the Sampur Solar Power Plant is scheduled to commence in July 2024.
-
-In order to promote milk production in Sri Lanka, the focus was on the efficiency and fertilizer production projects implemented with the support of the Government of India.
-
-...
-
-[Data](articles/145fc6ea.json)
-
-[Extended Data](ext_articles/145fc6ea.ext.json)
 
 ---

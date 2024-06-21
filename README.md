@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 08:35:37**
+As of **2024-06-21 08:53:41**
 
 ## Newspaper Stats
 
-*Scraped **31,437** Articles*
+*Scraped **31,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 1,729
 economynextcom | 1,819
 dailyftlk | 1,927
 adalk | 2,745
-adaderanalk | 3,555
+adaderanalk | 3,557
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,110
+adaderanasinhalalk | 5,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,436 (100.0%) of 31,437 articles have been extended.
+31,437 (100.0%) of 31,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### කමින්ස් වාර්තා පොත් අතරට
+
+*2024-06-21 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197979) · `si`
+
+ඔස්ට්‍රේලියාව වෙනුවෙන් විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී පිට පිට කඩුලු ත්‍රිත්වයක් ලබාගත් දෙවැනි පන්දු යවන්නා බවට පැට් කමින්ස් අද (21) පත්විය.
+
+ඒ බංග්ලාදේශය ට එරෙහිව මේ වනවිට පැවැත්වෙන T20 ලෝක කුසලාන තරගාවලියේ Super 8 වටයේ තරගයේදී ලබාගත් කඩුලු ත්‍රිත්වයත් සමගිනි.
+
+ඔහු බංග්ලාදේශ ඉනිමේ 18 වැනි ඕවරයේ අවසන් පන්දු දෙකේදී සහ 20 වැනි ඕවරයේ පළමු පන්දුවේදී එම කඩුලු දවාගත්තේය.
+
+මීට පෙර ඔස්ට්‍රේලියාව වෙනුවෙන් T20 ජාත්‍යන්තර තරගය කදී කඩුලු ත්‍රිත්වයක් දවාගෙන සිටින්නේ බ්‍රෙට් ලී ය.
+
+◼️
+
+[Data](articles/01543bd0.json)
+
+---
+
+### China to keep supporting Sri Lanka on debt sustainability - spokesman
+
+*2024-06-21 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100001/china-to-keep-supporting-sri-lanka-on-debt-sustainability-spokesman) · `en`
+
+China will keep supporting Sri Lanka to achieve debt sustainability as it has always been doing to help the country’s socioeconomic development, said a Chinese Foreign Ministry spokesman in Beijing.
+
+Lin Jian, the spokesman, made the remarks at a regular press conference in response to a media question about the recent diplomatic consultations between China and Sri Lanka in the Chinese capital.
+
+“On the 13th round of China-Sri Lanka diplomatic consultations, China has released a readout, which you may refer to. What I can tell you is that the Chinese side has been providing assistance to Sri Lanka’s socioeconomic development to the best of our capability.”
+
+“We stand ready to continue to work with relevant countries and international financial institutions to support Sri Lanka’s debt sustainability,” he said.
+
+◼️
+
+[Data](articles/69f37fd7.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-21 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100000/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/39fa942b.json)
+
+---
+
+### ඉන්ධන ලබාගැනීමට ඔබ වැඩිපුර ගෙවන මුදල
+
+*2024-06-21 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197978) · `si`
+
+ඉන්ධන බෙදුම්කරුවන්ට රුපියල් මිලියන 31,021ක පමණ මුදලක් වැඩිපුර කොමිස් ලෙස ගෙවීම හේතුවෙන් මහජනතාවට ඉන්ධන සඳහා අතිරේක පිරිවැයක් දැරීමට සිදුවී ඇති බව අනාවරණය වී තිබේ.
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ 2022 වර්ෂයේ විගණකාධිපති වාර්තාව හා වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හමුවට කැදවූ අවස්ථාවේදී මෙම කරුණු අනාවරණය වී ඇති බව සඳහන් ය.
+
+නිලධාරීන් විසින් සිදුකර ඇති මෙම ගෙවීම හේතුවෙන් මේ වනවිට පාරිභෝගිකයා විසින් ඔක්ටේන් 92 පෙට්‍රල් ලීටරයකට සඳහා රුපියල් 5යි ශත 85ක්ද, ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක් සඳහා රුපියල් 7යි ශත 50ක්ද, ඔටෝ ඩීසල් ලීටරයක් සඳහා රුපියල් 5යි ශත 88ක් සහ සුපර් ඩීසල් ලීටරයක් සඳහා රුපියල් 6යි ශත 96ක මුදලක් වැඩිපුර ගෙවීමට සිදුවී ඇති බව මෙහිදී හෙළිවී තිබේ.
+
+...
+
+[Data](articles/e5bd83a3.json)
+
+---
 
 ### A target of 141 runs in Bangladesh
 
@@ -470,25 +540,31 @@ If we want to increase capital formation and consumption allocation on a continu
 
 ---
 
-### මිහිඳු මහ රහතන් වහන්සේගේ ලංකාගමනය සනාථ කරන 'ගලේ කෙටූ සාක්ෂිය'
+### 'Royal' hostage proof of Sri Lanka Maharaathan
 
 *2024-06-21 02:10:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511jd8kkzjo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, රජගල පුරාවිද්‍යා ස්මාරක 700ක් පමණ හමුවී ඇති අතර ශිලා ලේඛන 80ක් පමණ සොයාගෙන තිබේ.
+Archaeologists discovered over 700 ancient structures and around 80 inscriptions in a 1085 square meter area near the Rajarata Manawaya Complex in Ampara, marking it as the earliest archaeological evidence of King Mihindu Maha Raja. This site, including the Rajarata Manawaya Complex and the Rajagala Monastery, dates back to the era of King Mihindu Maha Raja, according to Professor Karunasena Hettiarachchi from the Sri Jayewardenepura University. The findings are significant as they provide insights into the history of the region, particularly the reign of King Mihindu Maha Raja.
 
-මිහිඳු මහ රහතන් වහන්සේගේ ලංකාගමනය සනාථ කරන 'ගලේ කෙටූ සාක්ෂිය'
+🟩
 
-අම්පාර, රජගල ආරාම සංකීර්ණයෙන් සොයාගෙන ඇති ශිලා ලේඛනය මිහිඳු මහ රහතන් වසන්සේගේ ලංකාගමනය සනාථ කරන පැරණිම පුරාවිද්‍යාත්මක සාක්ෂිය බව පුරාවිද්‍යාඥයෝ පවසති.
+There were none of 700 of the Four Health Head, Rajagala, Rajagala, and about 80 inscriptions were found.
 
-''අදින් අවුරුදු 2200කට කලින්, මූල බ්‍රාහ්මීය අක්ෂරයෙන් රජගල ලියන ලද ගිරි ලිපියක සඳහන් වෙනවා මේ ලංකාධීපයේ සමෘධිය සඳහා වැඩම කළ ඉට්ඪිය තෙරුන්ගේ සහ මිහිඳු තෙරුන්ගේ ධාතු තැන්පත් කළ දාගැබයි කියලා'' යනුවෙන්  ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ, ඉතිහාසය සහ පුරාවිද්‍යා අධ්‍යන අංශයේ මහාචාර්ය  කරුණාසේන හෙට්ටිආරච්චි BBC සිංහල සේවයට පැවසුවේය.
+'Royal' hostage proof of Sri Lanka Maharaathan
 
-ගිරිකූලතිස්ස පබ්බත ලෙස අතීතයේ දී හඳුන්වන ලද මේ ආරාම සංකීර්ණය සද්ධාතිස්ස රජුගේ පුත්‍ර ලජ්ජිතිස්ස කුමරු විසින් ඉදිකළ බව ඉතිහාසයේ සඳහන් වේ.
+Archaeologists say that the inseling list of the Rajirich Manary Complex in Ampara, Rajagala monastery is the oldest archaeological evidence of Mihindu Maha Rathnathan.
 
-රජගල වර්ග මීටර් 1085ක ප්‍රදේශයක පුරාවිද්‍යා ස්මාරක 700ක් පමණ හමුවී ඇති අතර ශිලා ලේඛන 80ක් පමණ සොයාගෙන තිබේ.
+Professor Karunasena Hettiarachchi, the relics of the Sri Jayewardenepura, and the Archaeological Department of Sri Jayewardenura, is the relics of the Sri Jayewardeapura University, which has been relics for the properties of the Sri Jayewardenepura.He told the service.
+
+History states that Pubbatissa is known as the state of Pubbatha has been built by Prince Saddhatissa's son.
+
+About 700 archaeological monuments have been found in a 1085 square meter area and about 80 inscriptions have been found.
 
 ◼️
 
 [Data](articles/6443f16a.json)
+
+[Extended Data](ext_articles/6443f16a.ext.json)
 
 ---
 
@@ -2191,99 +2267,5 @@ The deceased has been identified as Magalkanda, Margalkanda, Margalkanda, Rockla
 [Data](articles/db108700.json)
 
 [Extended Data](ext_articles/db108700.ext.json)
-
----
-
-### Husband death sentenced to death
-
-*2024-06-20 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186571) · `ta`
-
-A man in Jaffna, Sri Lanka, was sentenced to death by the Supreme Court for burning his wife to death in 2015. After initial investigations by the Manipay police, the case was brought to the Supreme Court by the Attorney General in 2019. The verdict was delivered recently, finding the defendant guilty and imposing the death sentence.
-
-🟩
-
-Jaffna husband who burned his wife in Jaffna. The Supreme Court has sentenced the death penalty.
-
-On June 20, 2015, a family woman died in a fire in the Manipay Kakai Island area.
-
-Manipay police arrested her husband. The magazine sought to court.
-
-Incorrect inquiries are being carried out in the Magistrate's Court and Jaffna in 2019. The case was filed by the Attorney General in the Supreme Court as the indictment was filed.
-
-When the case was taken up yesterday for the verdict, the murdered woman was found guilty and sentenced to death.
-
-◼️
-
-[Data](articles/ecbeda94.json)
-
-[Extended Data](ext_articles/ecbeda94.ext.json)
-
----
-
-### Today in History: 1955 - "Complete Solar Eclipse: Sigiriya's luck!"
-
-*2024-06-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186566) · `ta`
-
-On June 20, 1955, the world was captivated by a total solar eclipse, marking a significant event in history.
-
-🟩
-
-A huge solar eclipse that surprised the whole world took place on the same date (June 20) in 1955.
-
-◼️
-
-[Data](articles/fb7b1734.json)
-
-[Extended Data](ext_articles/fb7b1734.ext.json)
-
----
-
-### Chetta rat in chocolate
-
-*2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
-
-A viral video shows a dead rat in chocolate, shocking consumers. A Mumbai doctor found a human finger in Butterskatch Connemoil after ordering online. Meanwhile, a Noida resident discovered a lizard in her child's ice cream, causing concern. This incident follows another where a family found a dead rat in their syrup, highlighting serious food safety issues.
-
-🟩
-
-A video of a dead rat in Chocolate is becoming a great viral on social media.
-
-Recently, a doctor from Mumbai Malad area has ordered the Butterskatch Connemoil by ONLINE. He was shocked to find that there was a human finger with a nail when he was eagerly desire.
-
-Meanwhile, Deepa, a native of Noida, has ordered an ice cream for his 5 -year -old son to milch. In this, Poran is worried that he is dead.
-
-In this case, the incident in which a lizard is currently lying in a chocolate syndrome has come as a shock.
-
-One of the people said that three members of his family had consumed the syrup and that the rat was found dead.
-
-◼️
-
-[Data](articles/28fdeb4b.json)
-
-[Extended Data](ext_articles/28fdeb4b.ext.json)
-
----
-
-### Chetta rat in chocolate
-
-*2024-06-20 15:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாக்லேட்டில்-செத்த-எலி/175-339182) · `ta`
-
-Recent incidents of dead animals found in food products, including a rat in chocolate and a human finger in ice cream, have caused widespread shock and disgust. These cases, part of a troubling trend occurring over the past two weeks, have gone viral on social media. Authorities are investigating, highlighting serious concerns about food safety and quality control.
-
-🟩
-
-The incident of a dead rat in the chocolate syndrome has caused great shock. The video of the dead rat in chocolate is becoming a huge viral on social networks.
-
-This is the third incident like this in the last two weeks. Recently a doctor from Mumbai Malat has ordered the butterskatch cone ice cream on online. He was shocked to find that there was a human finger with a nail when he ate the ice cream.
-
-Police have registered a case and are investigating. Meanwhile, Deepa from Noida ordered an ice cream for her 5 -year -old son to make a milkshake. In this, Puran was worried about the death.
-
-Food safety officials are investigating this. There was also a dead lizard in cow meat. In this case, the incident in which a lizard is currently lying in a chocolate syndrome has come as a shock.
-
-...
-
-[Data](articles/4075e56b.json)
-
-[Extended Data](ext_articles/4075e56b.ext.json)
 
 ---

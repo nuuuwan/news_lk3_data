@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 14:05:52**
+As of **2024-06-21 14:19:18**
 
 ## Newspaper Stats
 
-*Scraped **31,472** Articles*
+*Scraped **31,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,821
 dailyftlk | 1,927
 adalk | 2,751
-adaderanalk | 3,562
+adaderanalk | 3,563
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
 virakesarilk | 4,882
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,472 (100.0%) of 31,472 articles have been extended.
+31,472 (100.0%) of 31,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Airport security officer arrested with gold biscuits worth Rs. 48 mn at BIA
+
+*2024-06-21 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100007/airport-security-officer-arrested-with-gold-biscuits-worth-rs-48-mn-at-bia) · `en`
+
+The Narcotics Control Unit of Sri Lanka Customs has apprehended an officer of the airport security division while attempting to smuggle 18 gold biscuits worth around Rs. 48 million out of the Bandaranaike International Airport (BIA) in Katunayake.
+
+The arrested airport security officer is a 40-year-old resident of Hakmana, Matara, who has been in service for around 15 years, Ada Derana reporter said.
+
+The individual, who had just completed his night shift, was arrested with a stash of golden biscuits hidden in his trouser pockets. He has reportedly received the gold biscuits from a passenger inside the bathroom of the arrival terminal.
+
+The suspect was apprehended as he was trying to leave the airport premises.
+
+Initial investigations conducted by Sri Lanka Customs have revealed that the arrested security officer had been promises a sum of Rs. 60,000 to get the gold biscuits out of the airport premises.
+
+...
+
+[Data](articles/66043879.json)
+
+---
 
 ### One was remanded by businessmen by businessmen through the SIM card
 
@@ -2273,25 +2293,5 @@ The video has lodged a complaint with the Commissioner General of Buddhist Affai
 [Data](articles/66bb6e9b.json)
 
 [Extended Data](ext_articles/66bb6e9b.ext.json)
-
----
-
-### Women’s Empowerment Bill passed with amendments
-
-*2024-06-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99996/womens-empowerment-bill-passed-with-amendments) · `en`
-
-The Women’s Empowerment Bill was passed in Parliament with amendments, a short while ago, following its third reading.
-
-This was announced to the House by the Deputy Speaker of the Parliament Ajith Rajapakshe.
-
-The Women’s Empowerment Act proposes essential provisions to legally empower women, including the establishment of a dedicated commission for their implementation.
-
-President Ranil Wickremesinghe had previously stated that this bill comes with the government’s commitment to protecting women’s rights enacting laws against violence and ensuring equal opportunities for women in workplace promotions and transfers. Additionally, he stated that the bill will prioritize the safety of women within their homes.
-
-◼️
-
-[Data](articles/53f5095f.json)
-
-[Extended Data](ext_articles/53f5095f.ext.json)
 
 ---

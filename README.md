@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 23:34:59**
+As of **2024-06-21 23:54:14**
 
 ## Newspaper Stats
 
-*Scraped **31,514** Articles*
+*Scraped **31,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,570
 tamilmirrorlk | 3,700
 dailymirrorlk | 4,733
 virakesarilk | 4,894
-adaderanasinhalalk | 5,134
+adaderanasinhalalk | 5,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,512 (100.0%) of 31,514 articles have been extended.
+31,514 (100.0%) of 31,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### දකුණු අප්‍රිකාවට ජය
+
+*2024-06-21 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198006) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපර් 08 වටයේ එංගලන්තය සහ දකුණු අප්‍රිකාව අතර තරගය අද (21) පැවැත්වුණි.
+
+එම තරගය ලකුණු 7කින් ජයග්‍රහණය කිරීමට දකුණු අප්‍රිකාණු කණ්ඩායම සමත්විය.
+
+එංගලන්ත නායක ජොස් බට්ලර් ගේ ආරාධනය අනූව පළමුව පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 163ක් රැස්කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ එංගලන්ත කණ්ඩායම පන්දු වාර 20 අවසානයේ කඩුලු 6ක් දැවී ලකුණු 156යි.
+
+◼️
+
+[Data](articles/6c266452.json)
+
+---
 
 ### Two from Sri Lanka arrested trying to illegally enter India
 
@@ -98,37 +116,51 @@ Additionally, discussions are on-going with both Paris Club and non-Paris Club m
 
 ---
 
-### மதநிந்தனை குற்றச்சாட்டில் சுற்றுலாப்பயணி பொதுமக்களால் தாக்கப்பட்டு கொலை – மீண்டும் பாக்கிஸ்தானில்
+### Tourist travelers attacked by civilians on religious accusations - again in Pakistan
 
 *2024-06-21 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186663) · `ta`
 
-மதநிந்தனை செய்தார் என்ற குற்றச்சாட்டில்  ஒருவர் பொதுமக்களால் தாக்கி கொலை செய்யப்பட்ட சம்பவம் மீண்டும் பாக்கிஸ்தானில் இடம்பெற்றுள்ளது.
+In Pakistan, a tourist was attacked and killed by locals in Matyan, Swat district, over alleged religious offenses. The victim was dragged from a police station and set on fire. Despite being rescued by police, mosque members initiated the assault.
 
-ஸ்வட் மாவட்டத்தின் மட்யன் நகரத்தில்சுற்றுலாப்பயணியை பொலிஸ்நிலையத்திலிருந்து இழுத்துவந்த கும்பல் அவரை தாக்கி கொலை செய்துள்ளது.
+🟩
 
-குறிப்பிட்ட நபர் தீமூட்டி எரிக்கப்பட்டார் என்பதை காவல்துறையினர் உறுதி செய்துள்ளனர்  என பிபிசி தெரிவித்துள்ளது.
+The incident in which a person was assaulted by civilians on charges of committing a religious man has again taken place in Pakistan.
 
-ஸ்வட் பள்ளத்தாக்கிற்கு சென்றிருந்த சுற்றுலாப்பயணியை தாங்கள் காப்பாற்றிய போதிலும் மசூதியை சேர்ந்தவர்கள் அவரை தாக்குமாறு பொதுமக்களை தூண்டினார்கள் என பொலிஸார் தெரிவித்துள்ளனர்.
+A gang who had dragged the traveler from the police station in the city of Matyan, Swat district, attacked and killed him.
+
+The BBC said the police had confirmed that the particular person was burnt.
+
+Police said that the mosque members were provoked to attack him, even though they rescued the tourist who had gone to the Swat Valley.
 
 ◼️
 
 [Data](articles/98f46ddf.json)
 
+[Extended Data](ext_articles/98f46ddf.ext.json)
+
 ---
 
-### வங்குராேத்திலிருந்து நாடடை மீட்க அரசாங்கம் அனைத்து விதமான நடவடிக்கைகளையும் முன்னெடுத்து வருகிறது - சாகல
+### The government is carrying out all measures to restore the country from Bankura - Sagala
 
 *2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186647) · `ta`
 
-நாடு வங்குராேத்து நிலையில் இருந்து மிக குறுகிய காலத்தில் மீளக்கூடிய நிலை இருக்கிறது. அதற்கு தேவையான நடவடிக்கைகளை அரசாங்கம் முன்னெடுத்து வருகிறது. அதனைத் தொடர்ந்து மக்களின் வாழ்வாதார போராட்டத்துக்கு தீர்வுகாண நடவடிக்கை எடுப்போம் என ஜனாதிபதியின் சிரேஷ்ட ஆலாேசகர் சாகல ரத்நாயக்க தெரிவித்தார்.
+The government is implementing measures to prevent the country from bankruptcy, led by Sagala Ratnayake. Economic recovery efforts focus on resolving the people's livelihood struggles and securing essential goods like cooking gas and medicines. Steps include consulting lenders for credit restructuring to stabilize the economy.
 
-மகரகம அபேக்ஷா வைத்தியசாலையில் நிர்மாணிக்கப்பட்டு வரும் நான்கு மாடி சிறுவர் வைத்தியசாலையின் நிர்மாணப் பணிகளை தன்கிழமை (19) பார்வையிட்ட பின்னர் அங்கு ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதார ரீதியில் நாங்கள் வீழ்ச்சியடைந்தோம். அதனால் எமது நாடு வங்குராேத்து நிலைக்கு தள்ளப்பட்டது. என்றாலும் இந்த வங்குராேத்து நிலை மிக குறுகிய காலத்தில் நிறைவுக்கு வரும்.  வங்குராேத்து நிலை நிறைவுக்கு வந்தால் எமது பொருளாதார அபிவிருத்திக்கு தேவையான உதவிகளை எங்களுக்கு பெற்றுக்கொள்ள முடியுமாகிறது.
+Country is in a very short time from bankruptcy. The government is carrying out the necessary steps. Following this, the President's Senior Alalesakar Sagala Ratnayake said that steps will be taken to resolve the people's livelihood struggle.
+
+He was speaking to the media after visiting the four -storey children's hospital at Maharagama Abeksha Hospital on the construction of the hospital on 19.
+
+Economicly we have fallen. So that our country was forced to stand up to the bank. However, this bankruptcy will come to an end in a very short time.If the bankruptcy is over, we can get the necessary assistance for our economic development.
+
+We are currently in stability. The gas that existed two years ago was not a sequence for cooking gas. No drug shortage. All the essential items needed for the people are currently in the country. Not yet without problems, though.
 
 ...
 
 [Data](articles/4986fcaf.json)
+
+[Extended Data](ext_articles/4986fcaf.ext.json)
 
 ---
 
@@ -2263,33 +2295,5 @@ India returned from Katunayake airport this evening (20). Remble
 [Data](articles/98a0e25b.json)
 
 [Extended Data](ext_articles/98a0e25b.ext.json)
-
----
-
-### India beat India
-
-*2024-06-20 23:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197973) · `si`
-
-In a thrilling World Cup match, India outperformed both India and Afghanistan teams. Batting first, India made 181 runs losing 8 wickets, with Solar Kumar Yadu contributing 53 runs off 28 balls. Afghanistan's reply was halted at 134 runs, leading to India's victory by 47 runs.
-
-🟩
-
-India won the World Cup match against India and Afghanistan.
-
-Batting first India scored 181 runs for the loss of 8 wickets.
-
-Solar Kumar Yadu scored 53 runs in 28 balls.
-
-Fazelhek Farchy and Rashid Khan took three wickets each.
-
-But in reply, Afghanistan scored 134 runs
-
-Accordingly, India won the match by 47 runs.
-
-◼️
-
-[Data](articles/0c126e77.json)
-
-[Extended Data](ext_articles/0c126e77.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 20:05:09**
+As of **2024-06-21 20:19:23**
 
 ## Newspaper Stats
 
@@ -26,49 +26,63 @@ adaderanasinhalalk | 5,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,499 (100.0%) of 31,501 articles have been extended.
+31,501 (100.0%) of 31,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### මුහුද මැදදී ධීවරයෙකු ව ඝාතනය කෙරේ
+### A fisherman killed in the middle of the sea
 
 *2024-06-21 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198001) · `si`
 
-බේරුවල ධීවර වරායේ සිට බහුදින ධීවර යාත්‍රාකින් මුහුදු ගිය ධීවරයින් පිරිසක් අතර සිටි අයෙක් එහි සිටි තවත් ධීවරයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A fisherman was killed during a voyage, stabbed with a sharp object after an argument broke out. The incident occurred when one fisherman accidentally stepped on another while asleep. The victim, identified as 49-year-old Upul Shantha Fernando from Beruwala, succumbed to his injuries. The suspect, who turned himself in, claimed the killing was a result of immediate anger over the mishap.
 
-නින්දේදී කකුලක් පෑගීමේ සිද්ධියක් හේතුවෙන් ඇති වූ බහින්බස්වීමකින් පසු මෙම ඝාතනය සිදුව ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-අනතුරුව සෙසු ධීවරයන් පිරිස, ඝාතනය සිදුකළ ධීවරයා ගැටගසා ගොඩබිමට රැගෙනවිත් තිබේ.
+One of the fishermen among a group of fishermen who were sealed from the Beruwala Fisheries Harbor to a multi-year-old fishing vessels have been attacked with a sharp object.
 
-'සහන් පුතා' නම් බහුදින ධීවර යාත්‍රව පසුගිය පසුගිය 09 වැනිදා දියඹට ගොස් ඇත්තේ ධීවරයින් පස් දෙනෙකු ද සමගිනි.
+The murder had taken place after an argument caused by an argument caused by an incident caused in sleep.
 
-මුහුදු සැතපුම් 180ක් පමණ ගැඹුරු මුහුදේදී නිදාගෙන සිටි එක් ධීවරයෙකුගේ කකුල තවත් ධීවරයෙකුට සිදු වූ අත්වැරදීමකින් පෑගී තිබේ.
+The fishermen were then killed and the fishermen were killed.
 
-එම අවස්ථාවේදී නිදාගෙන සිටි ධීවරයා නැගිට අසල වූ තියුණු ආයුධයකින් කකුල පාගන ලද ධීවරයාගේ උදරයට පහරදී ඇති බව පොලීසිය සඳහන් කළේය.
+According to the 'Sahan Son' multi-day fishing vessels, 'had gone to Diyamba with five fishermen.
 
-එහිදී අදාළ ධීවරයා මියගොස් ඇති අතර පහරදුන් ධීවරයාගෙන් සෙසු පිරිස සිදුවීම පිළිබඳව විමසා තිබේ.
+One fisherman who was sleeping at the deep sea with about 180 sea miles trampled by a mistake.
 
-සෙසු පිරිසට ද ඔහු එම අවස්ථාවේදී තර්ජනය කර ඇත්තේ පහර දෙන බව පවසමිනි.
+Police said that the fisherman was abroad who had been sleeping on the fisherman and the fisherman who had been nearing a sharp object.
 
-එම අවස්ථාවේදී අදාළ පිරිස එක්ව ඝාතනය සිදුකරන ලද ධීවරයා අල්ලා ගැටගසා ගොඩබිමට අද දිනයේදී ගෙන එනු ලැබීය.
+The fisherman has died and the rest of the fisherman had been inquired about the incident.
+
+He also threatened him to attack him.
+
+At that time, the group joined the murdered fisherman today.
+
+The murder took place yesterday and the vessel came to the land today.
 
 ...
 
 [Data](articles/0159d05f.json)
 
+[Extended Data](ext_articles/0159d05f.ext.json)
+
 ---
 
-### කාසියේ වාසිය එංගලන්තයට
+### Toss in the coin to England
 
 *2024-06-21 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198000) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපර් 08 වටයේ තවත් තීරණාත්මක තරගයක් අද (21) පැවැත්වෙයි.
+In today's Twenty20 World Cup, England faces another crucial match. The outcome could significantly impact the tournament's progress.
+
+🟩
+
+Another decisive match in the Twenty20 World Cup will be held today (21st).
 
 ◼️
 
 [Data](articles/a49924aa.json)
+
+[Extended Data](ext_articles/a49924aa.ext.json)
 
 ---
 

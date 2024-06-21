@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 08:53:41**
+As of **2024-06-21 09:05:44**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,437 (100.0%) of 31,441 articles have been extended.
+31,441 (100.0%) of 31,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### කමින්ස් වාර්තා පොත් අතරට
+### Among the Karminz Reports
 
 *2024-06-21 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197979) · `si`
 
-ඔස්ට්‍රේලියාව වෙනුවෙන් විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී පිට පිට කඩුලු ත්‍රිත්වයක් ලබාගත් දෙවැනි පන්දු යවන්නා බවට පැට් කමින්ස් අද (21) පත්විය.
+Pat Kinsce was elected to travel to Australia for the T20 World Cup, where he contributed significantly in the match against Bangladesh, taking crucial wickets in the final overs.
 
-ඒ බංග්ලාදේශය ට එරෙහිව මේ වනවිට පැවැත්වෙන T20 ලෝක කුසලාන තරගාවලියේ Super 8 වටයේ තරගයේදී ලබාගත් කඩුලු ත්‍රිත්වයත් සමගිනි.
+🟩
 
-ඔහු බංග්ලාදේශ ඉනිමේ 18 වැනි ඕවරයේ අවසන් පන්දු දෙකේදී සහ 20 වැනි ඕවරයේ පළමු පන්දුවේදී එම කඩුලු දවාගත්තේය.
+Pat Kinsce was elected today (21) to receive a wicket trip to Australia for Australia.
 
-මීට පෙර ඔස්ට්‍රේලියාව වෙනුවෙන් T20 ජාත්‍යන්තර තරගය කදී කඩුලු ත්‍රිත්වයක් දවාගෙන සිටින්නේ බ්‍රෙට් ලී ය.
+The T20 World Cup match against Bangladesh is currently being held in the World Cup.
+
+He took over the last two bowlers of the 18th Owel of the Bangladesh innings and in the first ball of the 20th Overseas.
+
+Previously, the T20 was a three-wicket triple in the T20 international competition for Australia.
 
 ◼️
 
 [Data](articles/01543bd0.json)
+
+[Extended Data](ext_articles/01543bd0.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ Lin Jian, the spokesman, made the remarks at a regular press conference in respo
 
 [Data](articles/69f37fd7.json)
 
+[Extended Data](ext_articles/69f37fd7.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the country
@@ -84,21 +92,35 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/39fa942b.json)
 
+[Extended Data](ext_articles/39fa942b.ext.json)
+
 ---
 
-### ඉන්ධන ලබාගැනීමට ඔබ වැඩිපුර ගෙවන මුදල
+### The amount you pay more to get fuel
 
 *2024-06-21 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197978) · `si`
 
-ඉන්ධන බෙදුම්කරුවන්ට රුපියල් මිලියන 31,021ක පමණ මුදලක් වැඩිපුර කොමිස් ලෙස ගෙවීම හේතුවෙන් මහජනතාවට ඉන්ධන සඳහා අතිරේක පිරිවැයක් දැරීමට සිදුවී ඇති බව අනාවරණය වී තිබේ.
+The public was overcharged Rs. 31,021 million for fuel due to corruption within the Ceylon Petroleum Corporation, as highlighted in the Auditor General's Report. The issue came to light during a Committee on Public Enterprises meeting. Officers involved in the fraudulent activities have been identified, and the committee has demanded a detailed report and the names of those implicated within seven days.
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ 2022 වර්ෂයේ විගණකාධිපති වාර්තාව හා වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීම සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හමුවට කැදවූ අවස්ථාවේදී මෙම කරුණු අනාවරණය වී ඇති බව සඳහන් ය.
+🟩
 
-නිලධාරීන් විසින් සිදුකර ඇති මෙම ගෙවීම හේතුවෙන් මේ වනවිට පාරිභෝගිකයා විසින් ඔක්ටේන් 92 පෙට්‍රල් ලීටරයකට සඳහා රුපියල් 5යි ශත 85ක්ද, ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක් සඳහා රුපියල් 7යි ශත 50ක්ද, ඔටෝ ඩීසල් ලීටරයක් සඳහා රුපියල් 5යි ශත 88ක් සහ සුපර් ඩීසල් ලීටරයක් සඳහා රුපියල් 6යි ශත 96ක මුදලක් වැඩිපුර ගෙවීමට සිදුවී ඇති බව මෙහිදී හෙළිවී තිබේ.
+It has been revealed that the public had to be added to fuel more than Rs. 31,021 million as a result of Rs. 31,021 million.
 
-...
+These issues were revealed when the Auditor General's Report and the Ceylon Petroleum Corporation were summoned to the Committee on Public Enterprises and the present performance.
+
+The payment has been made by the officers, a sum of Rs.It has been revealed that the payment has been to pay.
+
+Rs.The marketing sector is responsible for the section of the respective section and revealed at the Committee on Public Enterprises.
+
+The COPE member MPs have expressed their displeasure by the COPE member members of the corporation to commit suicide.
+
+Accordingly, the COPE committee has also recommended to submit the names of persons involved in the fraud and submit a report in the Corporation within seven days.
+
+◼️
 
 [Data](articles/e5bd83a3.json)
+
+[Extended Data](ext_articles/e5bd83a3.ext.json)
 
 ---
 

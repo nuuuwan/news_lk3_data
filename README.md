@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 07:00:20**
+As of **2024-06-21 07:22:37**
 
 ## Newspaper Stats
 
-*Scraped **31,430** Articles*
+*Scraped **31,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 1,819
 dailyftlk | 1,927
 adalk | 2,745
 adaderanalk | 3,555
-tamilmirrorlk | 3,691
+tamilmirrorlk | 3,692
 dailymirrorlk | 4,733
 virakesarilk | 4,876
-adaderanasinhalalk | 5,106
+adaderanasinhalalk | 5,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,420 (100.0%) of 31,430 articles have been extended.
+31,426 (100.0%) of 31,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### බංග්ලාදේශ - ඔස්ට්‍රේලියා තරගය ඇරඹෙයි
+
+*2024-06-21 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197975) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඔස්ට්‍රේලියාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනූ ඔස්ට්‍රේලියාව පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/9b1fa988.json)
+
+---
+
+### අදත් සැරෙන් සැරේ වැසි
+
+*2024-06-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197974) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) දිනයේ විටින්විට වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+ඌව පළාතේත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/e0f98faf.json)
+
+---
 
 ### SLT-MOBITEL Home Telephone offers unlimited calls for entire family
 
@@ -292,6 +326,8 @@ While filling the Taphouse is no easy task, Summer Storm was fully packed with a
 
 [Data](articles/aafd1954.json)
 
+[Extended Data](ext_articles/aafd1954.ext.json)
+
 ---
 
 ### ProMate gives used exercise books a second life to aid visually impaired students’ education
@@ -305,6 +341,8 @@ Due to rapid inflation and rising costs, the price of school supplies has also i
 ...
 
 [Data](articles/e8160691.json)
+
+[Extended Data](ext_articles/e8160691.ext.json)
 
 ---
 
@@ -337,6 +375,8 @@ This competition was organized in celebration of World Environment Day together 
 ...
 
 [Data](articles/56ce0aec.json)
+
+[Extended Data](ext_articles/56ce0aec.ext.json)
 
 ---
 
@@ -419,6 +459,24 @@ The police are trying to arrest the other three suspects, with one of the four s
 [Data](articles/2b0a4895.json)
 
 [Extended Data](ext_articles/2b0a4895.ext.json)
+
+---
+
+### மலையக தலைவர்களுடன் ஜெய்சங்கர் சந்திப்பு
+
+*2024-06-21 00:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-ஜெய்சங்கர்-சந்திப்பு/175-339210) · `ta`
+
+இந்திய வம்சாவளித் தமிழர்கள் தொடர்பாக இலங்கை - இந்திய வளர்ச்சிக் கூட்டாண்மை மற்றும் கூடுதல் ஒத்துழைப்பு குறித்து வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் மற்றும் இந்திய வம்சாவளி தமிழ் தலைவர்களுக்கிடையிலான சந்திப்பின் போது அவதானம் செலுத்தப்பட்டுள்ளது.
+
+உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் நேற்று  இலங்கை வந்திருந்த நிலையிலேயே இந்த சந்திப்பு இடம்பெற்றிருந்தது.
+
+இதில் தமிழ் முற்போக்கு கூட்டணியின் சார்பில் அதன் பிரதி தலைவர் வே.இராதாகிருஸ்ணன், பாராளுமன்ற உறுப்பினர்களான வேலுகுமார் மற்றும் உதயகுமார் ஆகியோரும், இலங்கை தொழிலாளர் காங்ரஸ் சார்பில் அதன் தலைவரும் கிழக்கு மாகாண ஆளுனருமான செந்தில் தொண்டமான், இ.தொ.கா. பொதுச் செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் மற்றும் பாராளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஸ்வரன் ஆகியோரும் கலந்து கொண்டிருந்தனர்.
+
+மேலும், கல்வி இராஜங்க அமைச்சர் அரவிந்த குமார் மற்றும் ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் வடிவேல் சுரேஸ் ஆகியோரும் இந்த சந்திப்பில் கலந்து கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/84db0b37.json)
 
 ---
 
@@ -1734,6 +1792,8 @@ In response, the United States and its allies have attacked Houthi targets in Ye
 
 [Data](articles/44d0283a.json)
 
+[Extended Data](ext_articles/44d0283a.ext.json)
+
 ---
 
 ### Question at the Court of Appeal
@@ -2201,75 +2261,5 @@ Indian FM Jaishankar in Sri Lanka to discuss partnerships amid project delays, a
 [Data](articles/e537dda0.json)
 
 [Extended Data](ext_articles/e537dda0.ext.json)
-
----
-
-### A fire in a house in Netastal estate
-
-*2024-06-20 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186552) · `ta`
-
-A fire devastated one house among 20 in the Netastal estate, Kilasco, Hatton and Akkaraipattana, causing significant damage and displacing residents, including a newborn's family. Neighbors and plantation workers helped contain the blaze, allowing others to temporarily shelter with relatives. The police are investigating the cause.
-
-🟩
-
-A fire broke out at the Netastal estate in the Kilasco estate in the Hatton and Akkaraipattana police division this morning.
-
-In the incident, a house of 20 houses has been completely destroyed and five people have been subjected to a few days after the birth of a child who lived in the victim.
-
-At the same time, neighbors and plantation civilians, aware of the fire, have been affected by the fire to spread the fire to other houses.
-
-In addition, steps have been taken to temporarily stay in a relative's house in the garden.
-
-In addition, the police are conducting investigations into the cause of the fire.
-
-◼️
-
-[Data](articles/c5404da9.json)
-
-[Extended Data](ext_articles/c5404da9.ext.json)
-
----
-
-### Senayoor Nellikkulam Hill
-
-*2024-06-20 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186564) · `ta`
-
-In the Muttur East Senayoor Grama Niladhari Division, 10 civilians protested due to issues related to the Nellikkula hill. Following their protest, a magistrate visited the site, and a case was filed and heard in court. The defendants' attorneys attended, and the case was postponed until July 4.
-
-🟩
-
-The 10 civilians who protested when they were affected by the hill in the Nellikkula hill area belonging to the Muttur East Senayoor Grama Niladhari Division.
-
-Following the incident, Muttur Magistrate's Court Judge Dasneem Fouusan visited the site on the 15th and the case was taken up for hearing before the Muttur court on Thursday (20).
-
-Sampur police had previously filed a case in Muttur court. The two sides were present today. Attorneys P Mukundan, Na Mohan and Senior Attorney Thangamuthu Jayasingham were present on behalf of the 10 persons who were arrested and released on their own.
-
-The case has been postponed till July 4, the Muttur court has responded to the Magistrate's Court.
-
-◼️
-
-[Data](articles/fe4c78ee.json)
-
-[Extended Data](ext_articles/fe4c78ee.ext.json)
-
----
-
-### The highest value is reported to the dollar after March 15
-
-*2024-06-20 14:23:37* · [`adalk`](https://www.ada.lk/breaking_news/මාර්තු-15ට-පසුව-ඩොලරයට-ඉහළම-අගය-වාර්තා-වෙයි/11-410337) · `si`
-
-Today, it was reported that the highest dollar sales value post-March 15 this year reached Rs. 310.05, while the purchase price stood at Rs. 300.63 per dollar.
-
-🟩
-
-The highest sales value of the dollar after March 15 this year was reported today (20).
-
-The value of the dollar is Rs.. As reported as 310.05. The dollar's purchase price is Rs. 300.63 per dollar.
-
-◼️
-
-[Data](articles/ae3756bf.json)
-
-[Extended Data](ext_articles/ae3756bf.ext.json)
 
 ---

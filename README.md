@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 09:05:44**
+As of **2024-06-21 09:19:09**
 
 ## Newspaper Stats
 
-*Scraped **31,441** Articles*
+*Scraped **31,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,729
 economynextcom | 1,819
 dailyftlk | 1,927
-adalk | 2,745
-adaderanalk | 3,557
+adalk | 2,748
+adaderanalk | 3,558
 tamilmirrorlk | 3,693
 dailymirrorlk | 4,733
 virakesarilk | 4,876
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,441 (100.0%) of 31,441 articles have been extended.
+31,441 (100.0%) of 31,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Mobile initiative to streamline ‘Urumaya’ freehold land deed distribution
+
+*2024-06-21 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100002/mobile-initiative-to-streamline-urumaya-freehold-land-deed-distribution) · `en`
+
+The Urumaya National Operations Secretariat has organized a mobile initiative across the country from the 26th to the 30th of this month in order to expedite the “Urumaya” national program, which aims to provide 02 million freehold land deeds.
+
+Senior Additional Secretary to the President, Mrs. Chandra Herath, stated that government officials responsible for issuing freehold deeds will visit villages to gather information from residents and expedite the issuance of the freehold deeds.
+
+Senior Additional Secretary, Mrs. Chandra Herath, shared these views during a press conference held Thursday (20) at the Presidential Media Centre.
+
+“Large numbers of land deeds have been distributed around the country under the “Urumaya” freehold land deeds program. This initiative is actively on-going across the country, with plans to accelerate its progress through a mobile service. The mobile program is scheduled to be implemented island wide from 26th to 30th of this month.
+
+...
+
+[Data](articles/1ae76b76.json)
+
+---
 
 ### Among the Karminz Reports
 
@@ -1122,6 +1140,22 @@ For the academic years of 2020, 2021 and 2022, the Gazette of Private Universiti
 
 ---
 
+### මිහින්තලේට ආරක්ෂාව ප්‍රමාණවත් නෑ
+
+*2024-06-20 20:06:48* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලේට-ආරක්ෂාව-ප්‍රමාණවත්-නෑ/11-410351) · `si`
+
+2332 වැනි පොසොන් උත්සවය සඳහා මෙවර මිහින්තලා පුදබිමට ලබා දී ඇති ආරක්ෂාව පිළිබඳව කිසිසේත්ම සෑහීමකට පත්වීමට නොහැකි බව මිහින්තලේ රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන  හිමියෝ  අවධාරණය කරති.
+
+පූජා භූමියට පැමිණෙන බැතිමතුන්ට යම් සිරීමක්වත් හෝ සිදු වුවහොත් එහි වගකීම සම්පූර්ණයෙන් ම රජය භාරගත යුතු බවත්, එසේ වගකීම බාර නොගත්තත්  අනාගතයේදී ඒ සඳහා පිළිතුරු දිය යුතු බවත් එහිමියෝ අවධාරණය කරති.රටේ ජනතාවට  විපත් සිදුවූවත්, පාලකයන්ට වගේ වගක් නැති බවත්, දේශපාලකයන් දළදා මාළිගාව, රුවන්වැලි සෑය හා ජය ශ්‍රී  මහා බෝධීන් වහන්සේ අබියසට ගොස් ඒ පවිත්‍ර භූමි අපවිත්‍ර කරන බවත් එහිමියෝ පැවසූහ
+
+අක්කර විශාල ප්‍රමාණයක් තිබෙන මිහින්තලා පුණ්‍ය භූමිය පුරාවිද්‍යා දෙපාර්තමේන්තුව හෝ සිවිල් ආරක්ෂක බලකායේ නිලධාරීන්වත් පිරිසුදු නොකරන බවත්, ඒ සඳහා  පහළ නිලධාරීන් වගකිව යුතු නැති බවත්,  ඉහළ මට්ටමේ සිටින පාලකයන් ඊට වගකිව යුතු බවත් උන් වහන්සේ අවධාරණය කරති.
+
+...
+
+[Data](articles/2c50cfb4.json)
+
+---
+
 ### Women should be appointed to high positions of public and private institutions - V Irathakrishnan
 
 *2024-06-20 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186563) · `ta`
@@ -1216,6 +1250,22 @@ The President says that the International Monetary Fund cannot change the agreem
 
 ---
 
+### අද ලියාපදිංචි දන්සල් 4600ක්
+
+*2024-06-20 20:01:25* · [`adalk`](https://www.ada.lk/breaking_news/අද-ලියාපදිංචි-දන්සල්-4600ක්/11-410350) · `si`
+
+පොසෙන් පොහොය දිනය මූලික කර ගනිමින් අද(21දා) විහාරස්ථාන 11100ක විවිධ ආගමික උත්සව සංවිධානය කර තිබෙන අතර පොසොන් කලාප 322ක් දිවයින පුරා පැවැත් වේ.
+
+තොරන් 296ක් හා දන්සල් 4600ක් පැවැත් වීමට ලියා පදිංචි වී තිබේ.  පොසෙන් දිනය මූලික කර ගනිමින්  දිවයින පුරා පැවැත්වෙන ආගමික උත්සව, තොරන් හා පොසොන් කලාපවල ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් 20.000ක් යොදවා සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+
+ආරක්ෂක කටයුතු සඳහා පොලිස්  ප්‍රජා කමිටු නියෝජනය කරන පුරවැසියන් 27000ක් සම්බන්ධ වීමට නියමිතය. පොලිස් විශේෂකාර්ය බලකා නිලධාරීන් 400ක් පමණද, ආරක්ෂක කටයුතුවල  අවශ්‍යතාව අනුව යුද හමුදා නිලධාරීන්ද යොදා ගැනීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/b71a6286.json)
+
+---
+
 ### Steps to get bank loans for private university students soon - Minister of Education
 
 *2024-06-20 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/186574) · `ta`
@@ -1285,6 +1335,22 @@ The visit comes amid delays in key Indian projects including land, oil and gas p
 [Data](articles/66ba944c.json)
 
 [Extended Data](ext_articles/66ba944c.ext.json)
+
+---
+
+### මේ වසරේදී විදෙස් රැකියා අක්‍රමිකතා ගැන පැමිණිලි 2155ක්
+
+*2024-06-20 19:46:08* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදෙස්-රැකියා-අක්‍රමිකතා-ගැන-පැමිණිලි-2155ක්/11-410347) · `si`
+
+2024 වසරේ ජනවාරි මාසයේ පළමු වැනිදා සිට ජුනි මස 18 වැනිදා දක්වා විදේශ රැකියා ලබාදීමේදී සිදුව ඇති අක්‍රමිකතා සම්බන්ධයෙන් පැමිණිලි 2155ක් විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ වංචා විමර්ශන අංශය වෙත ලැබී ඇති බවත්, එයින් පැමිණිලි 1051ක් සඳහා අධිකරණයේ මේ වනවිටද නඩු පවරා ඇති බවත් විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+විදේශ රැකියා සඳහා ශ්‍රී ලාංකික ශ්‍රමිකයන්ගේ යොමු වීමේ වැඩි ප්‍රවණතාවක් මේ දිනවල පෙන්නුම් කරන බවත්, එයට සමගාමීව ලැබෙන පැමිණිලි සංඛ්‍යාවේද වැඩි වීමක් පෙන්නුම් කරන බවත් එම කාර්යාංශය පවසයි.නීතිවිරෝධි අන්දමින් පවත්වාගෙන ගිය විදේශ රැකියා ආයතන 11 ක් වැටලීමට පියවර ගෙන ඇත. වංචා කරුවන් 65දෙනෙකු අත්අඩංගුවට ගැනීමටද වංචා විමර්ශන අංශය පියවර ගෙන තිබේ.
+
+2024 මුල් පස් මාසයෙහි කාර්යාංශයට ලැබුණු පැමිණිලි අනුව වින්දිතයන් සඳහා රු. හය කෝටි පනස් එක් ලක්ෂ තුන් දහස් හයසිය විසි හයක වන්දි මුදල් ලබාදීමට පියවර ගෙන ඇති බව විදේශ සේවා නියුක්ති කාර්යාංශය වැඩිදුරටත් පවසයි.
+
+...
+
+[Data](articles/0ff3d6d2.json)
 
 ---
 
@@ -2193,101 +2259,5 @@ Minister Jaishankar said neighbours like Sri Lanka are extremely important to In
 [Data](articles/29607ddf.json)
 
 [Extended Data](ext_articles/29607ddf.ext.json)
-
----
-
-### Circular on admission of children to Grade 01 to be amended
-
-*2024-06-20 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99991/circular-on-admission-of-children-to-grade-01-to-be-amended) · `en`
-
-The Cabinet of Ministers has approved proposal to amend the current circular related to the admission of children to the Grade 01 classes of government schools.
-
-Cabinet Spokesman, Minister Bandula Gunawardena stated that the admission of children to the first grade of schools is done transparently and in a manner that minimizes irregularities, in order to ensure equal access to education consistent with the circular issued by the Ministry of Education.
-
-Accordingly, the Cabinet of Ministers granted approval to the proposal presented by Minister of Education Susil Premajayantha to amend the current circular instructions based on the experience gained in the past years.
-
-The Cabinet of Ministers also approved the admission of children to the Grade 01 classes for the year 2025 and following years according to the revised circular.
-
-◼️
-
-[Data](articles/d59557bb.json)
-
-[Extended Data](ext_articles/d59557bb.ext.json)
-
----
-
-### The bodies that are spreading on the streets of Makkah
-
-*2024-06-20 15:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மக்கா-வீதிகளில்-பரவிக்-கிடக்கும்-சடலங்களால்-பரபரப்பு/50-339184) · `ta`
-
-The annual Hajj pilgrimage in Saudi Arabia's Makkah faced unprecedented heat this year, leading to numerous fatalities. Over 900 people died, including 600 Indians, with bodies seen across the city. The intense heat, combined with inadequate food, water, and shelter, exacerbated the situation. The Saudi government is providing support to those affected, but the crisis underscores the urgent need for improved safety measures during such events.
-
-🟩
-
-It is customary for the Islamic people to visit the Middle East in Saudi Arabia annually for the Holy Haj Pilgrimage, which is considered important in their biological duties.
-
-This year is more heat recorded in Saudi. As a result, the people of the country are suffering.
-
-In this case, the Hajj pilgrims have taken their pilgrimage to catching umbrellas and drinking water.
-
-Al -Haram area in Makkah is said to have had severe heat. This has caused many to die.
-
-Currently the number of deaths has increased to 922. Among them is said to be 600 and 80 Indians. It is said that there are bodies all over the streets.
-
-The bodies of the deceased have been placed at the Al -Moism Hospital near Makkah.
-
-In addition, it is feared that 250 people are being treated in hospitals without self -consciousness.
-
-The Saudi government provides facilities to the people who are formally taking a visa for the Hajj pilgrimage.
-
-...
-
-[Data](articles/bd678064.json)
-
-[Extended Data](ext_articles/bd678064.ext.json)
-
----
-
-### Cabinet greenlights procurement of pre-printed Polycarbonate cards for NIC printing
-
-*2024-06-20 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99990/-cabinet-greenlights-procurement-of-pre-printed-polycarbonate-cards-for-nic-printing) · `en`
-
-The Cabinet of Ministers has granted approval for the procurement of 2.3 million pre-printed Polycarbonate cards for printing National Identity Cards (NICs).
-
-Earlier on 05 May 2024, the Cabinet of Ministers decided to cancel the procurement considering recommendations of the procurement committee implemented for purchase of 05 million pre - printed Polycarbonate cards required for printing identity cards for the Department of Registration of Persons and the recommendations of the procurement appeal boards in the regards.
-
-Furthermore, approval was granted at the same meeting of the Cabinet of Ministers to obtain only the essential quantity of pre- printed Polycarbonate cards from the previous supplier until an appropriate supplier is selected followed by implementation of a new procurement, so that undisturbed execution of the process of issuing national identity cards can be carried out.
-
-...
-
-[Data](articles/0740fae0.json)
-
-[Extended Data](ext_articles/0740fae0.ext.json)
-
----
-
-### Fisherman killed in clashes
-
-*2024-06-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197956) · `si`
-
-A fisherman died in a clash involving six others at Beruwala Fisheries Harbor. The incident also left fisheries inspector offices injured. The victim, identified as Chandana Upul from the Rocklanda Watta area, was from a vessel docked at Beruwala Rathiya Road.
-
-🟩
-
-One person has been killed in a dispute between six fishermen in the Beruwala Fisheries Harbor.
-
-According to sources from the sea, Beruwala Fisheries Inspector Offices were also injured in the vessel.
-
-The owner of the vessel of the vessel of the Beruwala Rathiya Road, Beruwala, was investigated by a complaint lodged by the Beruwala Police.
-
-The deceased is that the body of the deceased is coming from Beruwala Fisheries Harbor from 180 sea miles from the Beruwala Fisheries Harbor.
-
-The deceased has been identified as Magalkanda, Margalkanda, Margalkanda, Rocklanda Watta area.. K. Police say that Chandana Upul, a man, a person.
-
-◼️
-
-[Data](articles/db108700.json)
-
-[Extended Data](ext_articles/db108700.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 22:53:33**
+As of **2024-06-21 23:04:49**
 
 ## Newspaper Stats
 
-*Scraped **31,509** Articles*
+*Scraped **31,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,568
+adaderanalk | 3,569
 tamilmirrorlk | 3,699
 dailymirrorlk | 4,733
 virakesarilk | 4,892
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,509 (100.0%) of 31,509 articles have been extended.
+31,509 (100.0%) of 31,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### Negotiations underway with China to finalize arrangements on debt repayment – President
+
+*2024-06-21 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100013/negotiations-underway-with-china-to-finalize-arrangements-on-debt-repayment-president) · `en`
+
+President Ranil Wickremesinghe emphasized the imperative of not forgetting the hardships endured in the past due to shortages of essential resources such as medicines, fuel and fertilizers critical for the country.
+
+He called upon all citizens to unite behind the government’s initiative aimed at fostering a new economic transformation in Sri Lanka, ensuring that future generations do not have to face similar challenges.
+
+He stated that the government concluded the second round of discussions with the IMF Board of Directors last week received confirmation that the program guiding Sri Lanka is on the right track.
+
+“Consequently, we have been granted an extension to repay our debts. Currently, negotiations are underway with China to finalize these arrangements.”
+
+Additionally, discussions are on-going with both Paris Club and non-Paris Club member countries, as well as with official creditors’ committees, to reach agreements, he said.
+
+...
+
+[Data](articles/30d78fe5.json)
+
+---
 
 ### West Indies - Super 8 Competition
 
@@ -2271,27 +2291,5 @@ Indian Foreign Minister Dr. S. Jiasankar has come to India at Katunayake airport
 [Data](articles/c101a242.json)
 
 [Extended Data](ext_articles/c101a242.ext.json)
-
----
-
-### Missing husband for 8 months - wife complaint
-
-*2024-06-20 21:54:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களாக-கணவனை-காணவில்லை-மனைவி-முறைப்பாடு/175-339201) · `ta`
-
-Rani King, wife of the missing 58-year-old king from Colombo-Bloomland, reported her husband's disappearance after leaving her sister's house on October 25 last year. The case was filed at Blumental Police Station. Any information about the missing man should be directed to Rani King.
-
-🟩
-
-The 58 -year -old king of the Colombo - Bloomland area has been missing for 8 months since October 25 last year, according to his wife Rani King.
-
-His wife has lodged a complaint at the Blumental Police Station that her husband disappeared after she left her sister's house on October 25 last year.
-
-If you know the information about this person, the wife of the missing is also asked to notify him. Remble
-
-◼️
-
-[Data](articles/ca86ca05.json)
-
-[Extended Data](ext_articles/ca86ca05.ext.json)
 
 ---

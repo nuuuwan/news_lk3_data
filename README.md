@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 15:04:26**
+As of **2024-06-21 15:20:07**
 
 ## Newspaper Stats
 
-*Scraped **31,477** Articles*
+*Scraped **31,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,730
 economynextcom | 1,822
 dailyftlk | 1,927
 adalk | 2,751
-adaderanalk | 3,563
+adaderanalk | 3,564
 tamilmirrorlk | 3,698
 dailymirrorlk | 4,733
 virakesarilk | 4,882
@@ -26,41 +26,71 @@ adaderanasinhalalk | 5,121
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,475 (100.0%) of 31,477 articles have been extended.
+31,477 (100.0%) of 31,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
 
-### ஹோமாகம நகரில் விசித்திரமான தன்சல்
+### Maithripala’s attempting to mask own ‘political bankruptcy’– Catholic Church responds to ex-President
+
+*2024-06-21 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100008/maithripalas-attempting-to-mask-own-political-bankruptcy-catholic-church-responds-to-ex-president) · `en`
+
+Responding to the allegations levelled by former President Maithripala Sirisena, a Spokesman for the Catholic Church on Friday said that the Archbishop of Colombo Cardinal Malcolm Ranjith has distributed over Rs. 500 million of financial aid received to assist the victims of the Easter Sunday attacks.
+
+National Catholic Mass Communications Director, Rev. Fr. Jude Krishantha charged that the former President is making up such stories in front of the media in order to cover up his own ‘political bankruptcy’.
+
+“Mr. Maithripala Sirisena is ‘politically bankrupt’ as of today. So, he makes all these false statements in front of media to cover up his ‘political bankruptcy’”, he said.
+
+“In fact, His Eminence the Cardinal has distributed over Rs. 500 million for these victims [of the Easter attacks]…The ‘Seth Sarana Caritas’, a welfare organization maintained under Cardinal Ranjith has spent the funds for the victims.”
+
+...
+
+[Data](articles/9e0448f9.json)
+
+---
+
+### Strange Tanzal in Homagama City
 
 *2024-06-21 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகம-நகரில்-விசித்திரமான-தன்சல்/175-339219) · `ta`
 
-பொசன் போய தினத்தை முன்னிட்டு இன்று நாடாளாவிய ரீதியில் உணவு உள்ளிட்ட பல்வேறு தன்சல்கள் வழங்கப்படு வரும் நிலையில் ஹோமாகம நகரில் வாசனை திரவிய தன்சல் ஒன்று வழங்கப்பட்டுள்ளது.
+In Homagama City, two businesses hosted a unique event called "Tanzal" featuring a variety of foods and perfumes. This innovative gathering took place on March 21st, offering attendees a delightful mix of culinary and aromatic experiences.
 
-அந்த நகரில் உள்ள இரண்டு வர்த்தக நிறுவனங்கள் ஒன்றிணைந்து இன்று (21) காலை வாசனை திரவிய தன்சல் ஒன்றை ஏற்பாடு செய்திருந்தன. R
+🟩
+
+A variety of tanasal has been provided in Homagama, with various foods, including food, today.
+
+Two businesses in the city had come together and organized a perfume tanzal this morning (21). Remble
 
 ◼️
 
 [Data](articles/6452c1aa.json)
 
+[Extended Data](ext_articles/6452c1aa.ext.json)
+
 ---
 
-### டிஜிட்டல் மயமாகும் ஊழியர் சேமலாப நிதியத் தரவுகள்
+### Digital Employee Provident Fund Data
 
 *2024-06-21 14:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாகும்-ஊழியர்-சேமலாப-நிதியத்-தரவுகள்/175-339218) · `ta`
 
-மத்திய வங்கியும் தொழிலாளர் திணைக்களமும் இணைந்து ஊழியர் சேமலாப நிதி உள்ளிட்ட தரவுகளைப் பெறக்கூடிய டிஜிட்டல் தரவு அமைப்பைத் தயாரிக்குமாறு அரசாங்கக் கணக்குக் குழு அறிவுறுத்தியுள்ளது.
+The Government Accounts Committee recommended creating a digital system for collecting Employee Provident Fund data, involving the Central Bank and Labor Department. This system aims to streamline data collection, initially planned biannually but now suggested to be more frequent, to ensure transparency and efficiency.
 
-தொழிலாளர் திணைக்களத்தின் 2021 மற்றும் 2022ஆம் ஆண்டுகளுக்கான கணக்காய்வாளர் நாயகத்தின் அறிக்கை மற்றும் தற்போதைய செயற்பாடுகளை ஆராய்வதற்காக அரசாங்கக் கணக்குக் குழு, பாராளுமன்றத்தில் இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தலைமையில் கூடிய போதே இது குறித்து விவாதிக்கப்பட்டுள்ளது.
+🟩
 
-தொழிலாளர் திணைக்களத்தில் முதலாளிகளைப் பதிவு செய்த பின்னர், குறித்த ஊழியர் சேமலாப நிதி, மத்திய வங்கிக்கு வழங்கப்படுவதாகவும், மத்திய வங்கி ஒவ்வொரு 6 மாதங்களுக்கும் தொழிலாளர் திணைக்களத்திற்கு கொடுப்பனவுகள் பற்றிய தரவுகளை வழங்குவதாகவும் அதிகாரிகள் சுட்டிக்காட்டினர்.
+The Government Accounts Committee has advised the Central Bank and the Labor Department to prepare a digital data system that can obtain data, including the Employees Provident Fund.
 
-எனினும் ஒவ்வொரு 6 மாதங்களுக்கும் தரவுகளைப் பெறுவதற்குப் பதிலாக, தொடர்ந்து புதுப்பிக்கக்கூடிய ஒரு அமைப்பை தொழிலாளர் திணைக்களம் கொண்டிருக்க வேண்டும் என்று குழு சுட்டிக்காட்டியுள்ளது.
+The Government Accounting Committee, to investigate the report of the Auditor General for 2021 and 2022 of the Department of Labor, was discussed when the Minister of State for Parliament Lasantha Alagiyawana was headed by Minister of State Lasantha Alagiyawanna.
+
+Officials pointed out that after registering employers at the Department of Labor, the Employees Provident Fund will be awarded to the Central Bank and that the Central Bank will provide data on allowances to the Labor Department every 6 months.
+
+However, instead of obtaining data every 6 months, the Committee has indicated that the Department of Labor should have a regular update.
 
 ◼️
 
 [Data](articles/32de67ad.json)
+
+[Extended Data](ext_articles/32de67ad.ext.json)
 
 ---
 
@@ -2269,27 +2299,5 @@ MK Santana Upul, a man from Makkonna, Magalkanda and Rogland Watte, died in the 
 [Data](articles/f76f65c5.json)
 
 [Extended Data](ext_articles/f76f65c5.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar meets Tamil leaders from the North and East
-
-*2024-06-20 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186601) · `ta`
-
-Indian Foreign Minister Jaishankar met with eight Tamil political leaders from the Northern and Eastern Provinces to discuss development and power devolution. Participants included notable figures like Chanakyan, MA. Sumanthiran, and others, focusing on provincial representation.
-
-🟩
-
-Eight Tamil political leaders from the Northern and Eastern Provinces met. Jaishankar.
-
-At this meeting, Chanakyan, MA. Sumanthiran, Sridharan, Selvam Adakkalanathan, Dharmalingam Siddharthan, CV Vigneswaran and Selvarajah Gajendran were also present.
-
-It is noteworthy that the leaders involved in the meeting were discussed on the development and devolution of power representing the provinces.
-
-◼️
-
-[Data](articles/b148aff5.json)
-
-[Extended Data](ext_articles/b148aff5.ext.json)
 
 ---

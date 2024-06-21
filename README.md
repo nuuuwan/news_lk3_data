@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 14:34:57**
+As of **2024-06-21 14:53:22**
 
 ## Newspaper Stats
 
-*Scraped **31,473** Articles*
+*Scraped **31,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,730
-economynextcom | 1,821
+economynextcom | 1,822
 dailyftlk | 1,927
 adalk | 2,751
 adaderanalk | 3,563
 tamilmirrorlk | 3,696
 dailymirrorlk | 4,733
 virakesarilk | 4,882
-adaderanasinhalalk | 5,120
+adaderanasinhalalk | 5,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,473 (100.0%) of 31,473 articles have been extended.
+31,473 (100.0%) of 31,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### ප්‍රදේශ කිහිපයකට මි. මී 100 ඉක්මවූ වැසි
+
+*2024-06-21 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197992) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ඉක්මවූ වැසි ඇති විය හැකිය.
+
+අද (21) දහවල් නිවේදනයක් නිකුත් කරමින් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවය.
+
+මාතලේ සහ අනුරාධපුර දිස්ත්‍රික්කවල ද සිහින් වැසි වාර කිහිපයක් ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු. උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති විය හැකියි.
+
+◼️
+
+[Data](articles/2dc1b22f.json)
+
+---
 
 ### Airport security officer arrested with gold biscuits worth Rs. 48 mn at BIA
 
@@ -143,6 +161,30 @@ He added that the Indian will continue as a reliable friend in Sri Lanka.
 [Data](articles/50b5886d.json)
 
 [Extended Data](ext_articles/50b5886d.ext.json)
+
+---
+
+### Sri Lanka repays US$225mn to Reserve Bank of India in first quarter
+
+*2024-06-21 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-us225mn-to-reserve-bank-of-india-in-first-quarter-168998/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has repaid 225 million US dollars to the Reserve Bank of India in the first quarter of 2024, on top of earlier repayments, official data shows.
+
+In October 2023 the Sri Lanka gave a Treasury guarantee to cover a 2,601.43 million dollar credit from RBI to Sri Lanka’s central bank.
+
+Sri Lanka’s got deferred payments due to India via the Asian Clearing Union during the worst currency crisis triggered by rate cuts since the creation of the central bank.
+
+According to official data the outstanding debt due to the Reserve Bank of India fell to 2,226.43 million US dollars by end March 2024 from 2,451.43 million dollars in December.
+
+From October the central bank had repaid 375 million dollars to India.
+
+Sri Lanka has repaid debt and also collected reserves by avoiding precipitate rate cuts.
+
+Repaying foreign debt or collecting foreign reserves requires interest rate to be kept a little higher to crowd out domestic credit and investments.
+
+...
+
+[Data](articles/805f6871.json)
 
 ---
 
@@ -2253,47 +2295,5 @@ The Empowerment of Women's Empowerment Bill today (20) and passed amendments in 
 [Data](articles/a7019a2f.json)
 
 [Extended Data](ext_articles/a7019a2f.ext.json)
-
----
-
-### The Women's Reinforcement Bill is fulfilled with amendments
-
-*2024-06-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186597) · `ta`
-
-The Women's Reinforcement Bill, amended by Wimal Weerawansa, Kevindu Kumaratunga, and Chandima Weerakkodi, faced opposition but ultimately passed after debate and rejection of certain amendments. Despite criticism from the Supreme Court and strong opposition from Geeta Kumarasinghe, the amendments were accepted, highlighting a complex legislative process aimed at benefiting women.
-
-🟩
-
-The women's reinforcement bill was passed with amendments. Wimal Weerawansa, Kevindu Kumaratunga and Chandima Weerakkodi made amendments to some arrangements of the Bill.
-
-The Women's Reinforcement Bill, which was held in Parliament on Thursday (20), was taken for debate for a second reading. The Bill was amendment to the amendment that only women defined.. The amendment to the amendment was rejected by 5 votes and 13 votes against the amendment.
-
-Following this, the opposition members of the Opposition, Geeta Kumarasinghe, expressed strong opposition to the comments of the Minister of Women and Child Affairs, Geeta Kumarasinghe, that the opposition's independent member Chandima Weerakkody would not accept the amendment to the appointment of members of the Commission to be established through the Act.
-
-...
-
-[Data](articles/63d48fb7.json)
-
-[Extended Data](ext_articles/63d48fb7.ext.json)
-
----
-
-### The artificially intelligence is distorted by artificial intelligence
-
-*2024-06-20 18:33:16* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බුද්ධිය-යොදාගෙන-කරණීය-මෙත්ත-සූත්‍රය-විකෘති-කරලා/11-410342) · `si`
-
-The Secretary of the Ministry of Buddha Self, Religious, and Cultural Affairs has filed a complaint against social media platforms for spreading misinformation about artificial intelligence. The complaint was made to the Buddhist Affairs Department, the Police Criminal Investigation Division, and the Telecommunication Regulatory Commission, seeking action to prevent such content from being disseminated.
-
-🟩
-
-Secretary to the Ministry of Buddha Self, Religious and Cultural Affairs has been reported to the Department of Buddhism and the Buddhist Affairs of Buddhist Affairs to promote artificial intelligence.. Herath says.
-
-The video has lodged a complaint with the Commissioner General of Buddhist Affairs to the Police Criminal Investigation Division and the Telecommunication Regulatory Commission (Telecommunication Regulatory Commission) to seek action against the social media and preventing the document against the social media.The Secretary added that he added.
-
-◼️
-
-[Data](articles/66bb6e9b.json)
-
-[Extended Data](ext_articles/66bb6e9b.ext.json)
 
 ---

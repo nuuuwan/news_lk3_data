@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 23:19:26**
+As of **2024-06-21 23:34:59**
 
 ## Newspaper Stats
 
-*Scraped **31,512** Articles*
+*Scraped **31,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,753
 adaderanalk | 3,570
 tamilmirrorlk | 3,700
 dailymirrorlk | 4,733
-virakesarilk | 4,892
+virakesarilk | 4,894
 adaderanasinhalalk | 5,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,510 (100.0%) of 31,512 articles have been extended.
+31,512 (100.0%) of 31,514 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ The fibre boat was thoroughly searched upon and a police officer said that the s
 
 [Data](articles/562a9b22.json)
 
+[Extended Data](ext_articles/562a9b22.ext.json)
+
 ---
 
-### தந்திரிமலை பொசன் பூஜை நிகழ்வுகளை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+### The President launched the Tantrimalai Poson Pooja event
 
 *2024-06-21 22:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தந்திரிமலை-பொசன்-பூஜை-நிகழ்வுகளை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-339235) · `ta`
 
-பொசான் பௌர்ணமியை முன்னிட்டு 21 ஆவது தடவையாக விஜய நியூஸ்பேப்பர் கம்பனி லிமிடெட் ஏற்பாடு செய்துள்ள வரலாற்று சிறப்புமிக்க தந்திரிமலை ரஜமஹா விகாரையின் பூஜை நிகழ்வுகளை ஜனாதிபதி ரணில் விக்ரமசிங்க ஆரம்பித்து வைத்தார்.
+President Ranil Wickremesinghe inaugurated the 21st Tantrimalai Poson Pooja event at the historic Tandrimalai Rajamaha Viharaya, organized by Vijaya Newspaper Company Limited. He engaged in discussions with local leaders and participated in religious rituals, emphasizing the importance of unity and respect for cultural heritage.
 
-இன்று பிற்பகல்  தந்திரிமலை ரஜமஹா விகாரைக்குச் சென்ற ஜனாதிபதியை, வடக்கு,  கிழக்கு மாகாணங்களின் உப பிரதான சங்கநாயக, தந்திரிமலை ரஜமஹா விகாரிபதி வண, தந்திரிமலை சந்தரதன  தேரரைச் சந்தித்து நலம் விசாரித்ததன் பின்னர் சிறு கலந்துரையாடலில் ஈடுபட்டார்.
+🟩
 
-அதனைத் தொடர்ந்து   ஜனாதிபதி சமய வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதங்களைப் பெற்றுக்கொண்டார். அதன் பின்னர் தீபங்கள் ஏற்றி வைத்து தந்திரிமலை  பூஜை நிகழ்வுகள்  ஜனாதிபதியினால் ஆரம்பித்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe inaugurated the pooja events of the historic Tandrimalai Rajamaha Viharaya, organized by Vijaya Newspaper Company Limited for the 21st time in front of Posan Pournami.
 
-இதேவேளை, பொசான் பௌர்ணமியை முன்னிட்டு வரலாற்று சிறப்பு மிக்க தந்திரிமலை புனித பூமிக்கு வருகை தந்திருந்தவர்களை  ஜனாதிபதி நேரில் சென்று சந்தித்ததுடன் அவர்களிடம் தகவல் கேட்டறிந்துகொண்டதுடன் சிநேகபூர்வ உரையாடலிலும் ஈடுபட்டார். R
+The President, who visited the Tandrimalai Rajamaha Vihara this afternoon, engaged in a minor discussion after meeting with the Deputy Chief Society of the Northern and Eastern Provinces, Tandrimalai Rajamaha Vikripathi Van, Tandrimalai Chandaradana Thera.
+
+The president then engaged in religious rituals and received the blessings. Subsequently, the Tantrimalai Pooja events were launched by the President.
+
+Meanwhile, the President visited the Holy Earth in front of the Posan Pournami and asked them to visit the Holy Earth and heard them in a friendly conversation.. Remble
 
 ◼️
 
 [Data](articles/5acda1a5.json)
+
+[Extended Data](ext_articles/5acda1a5.ext.json)
 
 ---
 
@@ -87,6 +95,40 @@ Additionally, discussions are on-going with both Paris Club and non-Paris Club m
 [Data](articles/30d78fe5.json)
 
 [Extended Data](ext_articles/30d78fe5.ext.json)
+
+---
+
+### மதநிந்தனை குற்றச்சாட்டில் சுற்றுலாப்பயணி பொதுமக்களால் தாக்கப்பட்டு கொலை – மீண்டும் பாக்கிஸ்தானில்
+
+*2024-06-21 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186663) · `ta`
+
+மதநிந்தனை செய்தார் என்ற குற்றச்சாட்டில்  ஒருவர் பொதுமக்களால் தாக்கி கொலை செய்யப்பட்ட சம்பவம் மீண்டும் பாக்கிஸ்தானில் இடம்பெற்றுள்ளது.
+
+ஸ்வட் மாவட்டத்தின் மட்யன் நகரத்தில்சுற்றுலாப்பயணியை பொலிஸ்நிலையத்திலிருந்து இழுத்துவந்த கும்பல் அவரை தாக்கி கொலை செய்துள்ளது.
+
+குறிப்பிட்ட நபர் தீமூட்டி எரிக்கப்பட்டார் என்பதை காவல்துறையினர் உறுதி செய்துள்ளனர்  என பிபிசி தெரிவித்துள்ளது.
+
+ஸ்வட் பள்ளத்தாக்கிற்கு சென்றிருந்த சுற்றுலாப்பயணியை தாங்கள் காப்பாற்றிய போதிலும் மசூதியை சேர்ந்தவர்கள் அவரை தாக்குமாறு பொதுமக்களை தூண்டினார்கள் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/98f46ddf.json)
+
+---
+
+### வங்குராேத்திலிருந்து நாடடை மீட்க அரசாங்கம் அனைத்து விதமான நடவடிக்கைகளையும் முன்னெடுத்து வருகிறது - சாகல
+
+*2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186647) · `ta`
+
+நாடு வங்குராேத்து நிலையில் இருந்து மிக குறுகிய காலத்தில் மீளக்கூடிய நிலை இருக்கிறது. அதற்கு தேவையான நடவடிக்கைகளை அரசாங்கம் முன்னெடுத்து வருகிறது. அதனைத் தொடர்ந்து மக்களின் வாழ்வாதார போராட்டத்துக்கு தீர்வுகாண நடவடிக்கை எடுப்போம் என ஜனாதிபதியின் சிரேஷ்ட ஆலாேசகர் சாகல ரத்நாயக்க தெரிவித்தார்.
+
+மகரகம அபேக்ஷா வைத்தியசாலையில் நிர்மாணிக்கப்பட்டு வரும் நான்கு மாடி சிறுவர் வைத்தியசாலையின் நிர்மாணப் பணிகளை தன்கிழமை (19) பார்வையிட்ட பின்னர் அங்கு ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+பொருளாதார ரீதியில் நாங்கள் வீழ்ச்சியடைந்தோம். அதனால் எமது நாடு வங்குராேத்து நிலைக்கு தள்ளப்பட்டது. என்றாலும் இந்த வங்குராேத்து நிலை மிக குறுகிய காலத்தில் நிறைவுக்கு வரும்.  வங்குராேத்து நிலை நிறைவுக்கு வந்தால் எமது பொருளாதார அபிவிருத்திக்கு தேவையான உதவிகளை எங்களுக்கு பெற்றுக்கொள்ள முடியுமாகிறது.
+
+...
+
+[Data](articles/4986fcaf.json)
 
 ---
 
@@ -2249,45 +2291,5 @@ Accordingly, India won the match by 47 runs.
 [Data](articles/0c126e77.json)
 
 [Extended Data](ext_articles/0c126e77.ext.json)
-
----
-
-### The Karanaimetttttttttttttttttttttttt also distorts
-
-*2024-06-20 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197972) · `si`
-
-Vidan Wickramanayaka, Minister of Buddha Sasana and Cultural Affairs, mentioned that the Karanaimetttu distorts certain visions, as stated by Vidura Wickramanayaka.
-
-🟩
-
-Minister of Buddha Sasana and Cultural Affairs Vidan Wickramanayaka says that the Karanaimetttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttu Vidura Wickramanayaka said.
-
-The Minister further stated that such visions include such visions among one another.
-
-◼️
-
-[Data](articles/2dff9bf3.json)
-
-[Extended Data](ext_articles/2dff9bf3.ext.json)
-
----
-
-### India and Sri Lanka discuss initiatives to enhance energy connectivity
-
-*2024-06-20 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99999/india-and-sri-lanka-discuss-initiatives-to-enhance-energy-connectivity) · `en`
-
-In a significant diplomatic exchange, President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar led bilateral discussions at the President’s House today (20). The joint energy projects between India and Sri Lanka took centre stage during these discussions.
-
-Following the official meeting between President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar, they delved into various initiatives aimed at enhancing energy connectivity and developing the renewable energy sector.
-
-Significant attention was given to plans for an LNG supply, a proposed petroleum pipeline linking the two countries, and advancing oil and gas exploration projects. Additionally, it was announced that construction of the Sampur Solar Power Plant is set to commence in July 2024.
-
-Additionally, plans were unveiled for the Sampur Solar Power Plant to commence construction in July 2024.
-
-...
-
-[Data](articles/fd70f254.json)
-
-[Extended Data](ext_articles/fd70f254.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-21 11:19:29**
+As of **2024-06-21 11:34:50**
 
 ## Newspaper Stats
 
-*Scraped **31,456** Articles*
+*Scraped **31,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 1,820
 dailyftlk | 1,927
 adalk | 2,749
 adaderanalk | 3,560
-tamilmirrorlk | 3,693
+tamilmirrorlk | 3,695
 dailymirrorlk | 4,733
 virakesarilk | 4,878
-adaderanasinhalalk | 5,116
+adaderanasinhalalk | 5,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,454 (100.0%) of 31,456 articles have been extended.
+31,456 (100.0%) of 31,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-21 (Friday)
+
+### இந்திய அரசாங்கத்திற்கு அமைச்சர் ஜீவன் நன்றி தெரிவிப்பு
+
+*2024-06-21 11:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்திய-அரசாங்கத்திற்கு-அமைச்சர்-ஜீவன்-நன்றி-தெரிவிப்பு/76-339216) · `ta`
+
+இந்திய அரசாங்கத்தின் நிதி உதவி ஊடாக மலையக பெருந்தோட்ட பிரதேசங்களில் நிர்மாணிக்கப்பட்டு முழுமைப்படுத்தப்பட்டுள்ள 106 தனி வீடுகளுக்கான நினைவு படிகங்களை ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் இலங்கைக்கு விஜயம் மேற்கொண்டிருந்த இந்திய வெளிவிவகார அமைச்சர் கலாநிதி ஜெய்சங்கர் ஆகியோர் திறந்து வைத்தனர்.
+
+ஜனாதிபதி மாளிகையில் இடம் பெற்ற இந்த நிகழ்வில்  நுவரெலியா, கண்டி, மாத்தளை ஆகிய மாவட்டங்களில் முழுமைப்படுத்தப்பட்ட 106 வீடுகளுக்கான நினைவுப் படிகங்களை இவர்கள் கூட்டாக மெய்நிகர்(Virtual) ஊடாக திறப்பு விழா செய்து வைத்தனர்.
+
+இந்த நிகழ்வில் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் கலந்து கொண்டு மலையக மக்களுக்கான தேவைப்பாடுகளை எங்ளுடைய வேண்டுகோளுக்கினங்க நிறைவேற்றிவரும் இந்திய அரசாங்கத்திற்கு நன்றிகளையும்  தெரிவித்துக் கொண்டார். R
+
+◼️
+
+[Data](articles/fe8a1090.json)
+
+---
+
+### සුවඳ විලවුන් දන්සලක්
+
+*2024-06-21 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197985) · `si`
+
+හෝමාගම නගරයේ ව්‍යාපාරික ආයතන දෙකක් එක්වී පොසොන් පොහොය නිමිත්තෙන් සුවඳ විලවුන් දන්සලක් සංවිධානය කර තිබුණි.
+
+◼️
+
+[Data](articles/36389bbe.json)
+
+---
+
+### மட்டக்களப்பில் 7 கைதிகளுக்கு பொது மன்னிப்பு
+
+*2024-06-21 11:13:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-7-கைதிகளுக்கு-பொது-மன்னிப்பு/73-339215) · `ta`
+
+போயா தினத்தையொட்டி   ஜனாதிபதியின் பொது மன்னிப்பின் கீழ் மட்டக்களப்பு சிறைச்சாலையிலிருந்து 7 கைதிகளுக்கு பொது மன்னிப்பு வழங்கப்பட்டு அவர்கள் இன்று காலை விடுதலை செய்யப்பட்டதாக மட்டக்களப்பு சிறைச்சாலை அத்தியாச்சகர் என். பிரபாகரன் தெரிவித்தார்
+
+சிறு குற்றம், தண்டப்பணம் செலுத்த முடியாதவர்கள் இவ்வாறு பொது மன்னிப்பு அடிப்படையில் விடுதலை செய்யப்பட்டதாக அவர் மேலும் தெரிவித்தார்
+
+சிறைச்சாலை அத்தியட்சகர் என். பிரபாகரன் தலைமையில் இடம்பெற்ற கைதிகள் விடுதலை நிகழ்வில் சிறைச்சாலை நலன்புரிச்சங்க அதிகாரிகள், சிறைச்சாலை உத்தியோகத்தர்கள் என பலரும் கலந்து கொண்டனர்
+
+சிறைச்சாலை அதிகாரிகளை வணங்கிய பின் நன்றி தெரிவித்து கைதிகள் சிறைச்சாலையில் இருந்து வெளியேறியமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/90a04e32.json)
+
+---
 
 ### Hajj death toll tops 1,000 after extreme heat: report
 
@@ -51,6 +97,8 @@ A Saudi study published last month said temperatures in the area are rising 0.4 
 ...
 
 [Data](articles/7f8ff626.json)
+
+[Extended Data](ext_articles/7f8ff626.ext.json)
 
 ---
 
@@ -783,6 +831,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/f4fd5245.json)
+
+[Extended Data](ext_articles/f4fd5245.ext.json)
 
 ---
 
@@ -2193,79 +2243,5 @@ A bond maturing on 15.09.2029 closed at 12.00/15 percent, up from 11.95/12.35 pe
 [Data](articles/b485b52c.json)
 
 [Extended Data](ext_articles/b485b52c.ext.json)
-
----
-
-### Sri Lanka reports over 5,000 Leptospirosis cases so far in 2024
-
-*2024-06-20 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99993/sri-lanka-reports-over-5000-leptospirosis-cases-so-far-in-2024) · `en`
-
-The Epidemiology Unit of the Ministry of Health says that 5,000 Leptospirosis cases have been reported within the first six months of the year.
-
-Health officials advise the public to promptly seek medical advice if they experience a fever or exhibit symptoms related to rat fever.
-
-The bacteria responsible for this disease is mainly found in rat urine and it has also been detected in the feces and urine of cattle, dogs and pigs.
-
-Commenting on this regard, Consultant Epidemiologist Dr. Thushani Dabarera stated that around 100 fatalities are reported annually due to rat fever.
-
-Dr. Dabarera also stated that most of the time individuals who do not seek immediate treatment succumb to this disease. However, she emphasised that medicines are available for rat fever and that the disease can be effectively cured.
-
-...
-
-[Data](articles/c0607233.json)
-
-[Extended Data](ext_articles/c0607233.ext.json)
-
----
-
-### 'Maharaja' attracted Malayalam fans
-
-*2024-06-20 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186580) · `ta`
-
-"Maharaja," starring Vijay Sethupathi, has garnered attention from Tamil, Malayalam, Telugu, and other language audiences. Directed by Nithilan Saminathan, the film's success led to a celebration in Chennai, where Vinod Sagar praised Malayalam fans for their support. Vijay Sethupathi expressed gratitude for the film's success, attributing it to the director's vision and the audience's reception.
-
-🟩
-
-"Maharaja 'starring Nam Selvan Vijay Sethupathi has attracted not only Tamil fans but also Malayalam and Telugu and other language film fans," the film crew said.
-
-Directed by Director Nithilan Saminathan. 'Maharaja', which is ready for the fifth film in Vijay Sethupathi's film 'Selvan'. The film crew, who was delighted, coordinated a ceremony in Chennai to thank the fans and the media who made the film a success.
-
-The event was attended by many, including distributors who released the film at the film House.
-
-Speaking at the event, Vinod Sagar, a growing characterist and a digital site world's super star, said,. Malayalam fans celebrate Vijay Sethupathi's performance as 'Maharaja'. Thank you to the fans and the media who made the film a huge hit. ”
-
-...
-
-[Data](articles/c0d2d688.json)
-
-[Extended Data](ext_articles/c0d2d688.ext.json)
-
----
-
-### Indian Foreign Minister meets Prime Minister Dinesh
-
-*2024-06-20 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197960) · `si`
-
-Dr. Subramaniam Jeeshankar, India's Foreign Minister, met with Sri Lanka's Prime Minister Dinesh today, emphasizing India's commitment to strengthening bilateral ties and thanking India for its support during the Covid epidemic and economic crisis. They discussed investment, development projects, and mutual cooperation across various sectors.
-
-🟩
-
-Indian Foreign Minister Dr. Subramaniam Jeeshankar met at Temple Trees today (20).
-
-The Prime Minister congratulated the National Democratic Alliance with the leadership of the Bharatiya Janata Party, and ensured Sri Lanka's commitment to further strengthen bilateral relations.
-
-The Prime Minister thanked India for the assistance of the prospective timing of the Covid Epidemic and the economic crisis.
-
-The Indian Foreign Minister said that neighbors such as Sri Lanka are very important to India and that India is very good in India.
-
-The Indian Foreign Minister emphasized that the Government of India is the policy of the neighbor first.
-
-The Prime Minister and Indian Minister discussed Indian Investment, Development Projects, Connection projects and mutually favorable cooperation in various fields.
-
-◼️
-
-[Data](articles/902150bc.json)
-
-[Extended Data](ext_articles/902150bc.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 16:34:59**
+As of **2024-06-22 16:50:31**
 
 ## Newspaper Stats
 
-*Scraped **31,582** Articles*
+*Scraped **31,584** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 285
+colombotelegraphcom | 286
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
@@ -20,17 +20,35 @@ adaderanalk | 3,581
 tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,152
+adaderanasinhalalk | 5,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,582 (100.0%) of 31,582 articles have been extended.
+31,582 (100.0%) of 31,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### බසවක්කුලම වැවේ දියනෑමට ගිය තරුණයා දියේ ගිලෙයි
+
+*2024-06-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198025) · `si`
+
+අනුරාධපුර, බසවක්කුලම වැවේ දිය නෑමට ගොස් දියේ ගිලී අනතුරට ලක් වු පුද්ගලයෙකු පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් මුදා ගෙන තිබේ.
+
+පොසොන් උත්සවය වෙනුවෙන් විශේෂ රාජකාරී සඳහා යොදවා තිබු අනුරාධපුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ සිව් දෙනෙකුගෙන් යුතු නිලධාරීන් කණ්ඩායමක් විසින් අදාළ පුද්ගලයා මුදාගෙන ඇති බව පොලීසිය පැවසීය.
+
+එලෙස අනතුරට ලක්ව තිබු‍ණේ 19 හැවිරිදි බුස්ස, දොළුකන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+දිය නෑමට සුදුසු ස්ථාන ලෙස නම්කර ඇති ස්ථානවලින් පමණක් දිය නෑම සිදුකරන ලෙස ජනතාවට දැනුම් දෙන පොලිස් මුලස්ථානය පවසන්නේ එම ස්ථානවල රාජකාරී සඳහා අනුයුක්ත කර ඇති පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් ලබාදෙන උපදෙස් මත කටයුතු කිරීමට පියවර ගත යුතු බවය.
+
+◼️
+
+[Data](articles/05479cd5.json)
+
+---
 
 ### Sheikh Hasina on an official visit to India
 
@@ -759,6 +777,18 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 [Data](articles/35de9d59.json)
 
 [Extended Data](ext_articles/35de9d59.ext.json)
+
+---
+
+### Executive Must Cease Intimidating & Undermining The Independence Of The Judiciary: Lawyers’ Collective
+
+*2024-06-22 10:53:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/executive-must-cease-intimidating-undermining-the-independence-of-the-judiciary-lawyers-collective/) · `en`
+
+On 18th June 2024 President Ranil Wickremesinghe, speaking in Parliament, criticizing the recent Supreme Court determination on the Gender Equality Bill referred to the court as having engaged in ‘judicial cannibalism’. The President went on to say that Parliament ‘could not agree with the Supreme Court ruling’ and that he while he doesn’t propose to summon judges before parliament, he proposes the appointment a Parliamentary Select Committee to review the determination. Previously, the President also demanded the appointment of a parliamentary Select Committee to investigate the workings of the Constitutional Council when it did not approve his nominee to the Supreme Court.
+
+...
+
+[Data](articles/d6fb3a0c.json)
 
 ---
 
@@ -2319,49 +2349,5 @@ National Catholic Mass Communications Director, Rev. Fr. Jude Krishantha charged
 [Data](articles/9e0448f9.json)
 
 [Extended Data](ext_articles/9e0448f9.ext.json)
-
----
-
-### Strange Tanzal in Homagama City
-
-*2024-06-21 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகம-நகரில்-விசித்திரமான-தன்சல்/175-339219) · `ta`
-
-In Homagama City, two businesses hosted a unique event called "Tanzal" featuring a variety of foods and perfumes. This innovative gathering took place on March 21st, offering attendees a delightful mix of culinary and aromatic experiences.
-
-🟩
-
-A variety of tanasal has been provided in Homagama, with various foods, including food, today.
-
-Two businesses in the city had come together and organized a perfume tanzal this morning (21). Remble
-
-◼️
-
-[Data](articles/6452c1aa.json)
-
-[Extended Data](ext_articles/6452c1aa.ext.json)
-
----
-
-### Digital Employee Provident Fund Data
-
-*2024-06-21 14:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாகும்-ஊழியர்-சேமலாப-நிதியத்-தரவுகள்/175-339218) · `ta`
-
-The Government Accounts Committee recommended creating a digital system for collecting Employee Provident Fund data, involving the Central Bank and Labor Department. This system aims to streamline data collection, initially planned biannually but now suggested to be more frequent, to ensure transparency and efficiency.
-
-🟩
-
-The Government Accounts Committee has advised the Central Bank and the Labor Department to prepare a digital data system that can obtain data, including the Employees Provident Fund.
-
-The Government Accounting Committee, to investigate the report of the Auditor General for 2021 and 2022 of the Department of Labor, was discussed when the Minister of State for Parliament Lasantha Alagiyawana was headed by Minister of State Lasantha Alagiyawanna.
-
-Officials pointed out that after registering employers at the Department of Labor, the Employees Provident Fund will be awarded to the Central Bank and that the Central Bank will provide data on allowances to the Labor Department every 6 months.
-
-However, instead of obtaining data every 6 months, the Committee has indicated that the Department of Labor should have a regular update.
-
-◼️
-
-[Data](articles/32de67ad.json)
-
-[Extended Data](ext_articles/32de67ad.ext.json)
 
 ---

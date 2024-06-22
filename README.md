@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 08:34:37**
+As of **2024-06-22 08:53:55**
 
 ## Newspaper Stats
 
-*Scraped **31,537** Articles*
+*Scraped **31,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adaderanalk | 3,570
 tamilmirrorlk | 3,702
 dailymirrorlk | 4,733
 virakesarilk | 4,902
-adaderanasinhalalk | 5,137
+adaderanasinhalalk | 5,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,537 (100.0%) of 31,537 articles have been extended.
+31,537 (100.0%) of 31,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### තෙත්බිම් සංරක්ෂණය ගැන ජනපති කළ කතාව
+
+*2024-06-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198011) · `si`
+
+තෙත්බිම් සංරක්ෂණය කෙරෙහි අවධානය යොමු කරමින් පාරිසරික සංචාරක ව්‍යාපාරය ප්‍රවර්ධනයට ශ්‍රී ලංකාව කැපවී සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පවසන්නේ දේශගුණික විපර්යාසවලට මුහුණ දිමේදි සහ පරිසර සංරක්ෂණයේදී බාහිරින් අරමුදල් ලැබෙන තුරු බලා සිටිමෙන් ඵලක් නොවන බවය.
+
+පරිසරය හා බැඳුණු වාණිජ ව්‍යාපෘති කෙරෙහි අවධානය යොමු කරමින් තමන්ට අවශ්‍ය අරමුදල් තමන්ම සොයා ගැනීමට නිවර්තන කලාපීය රටවල් කටයුතු කළ යුතු බවද ඔහු පෙන්වා දෙයි.
+
+අන්තර්ජාතික තෙත්බිම් එකමුතුවේ පළමු වැනි ආසියානු සහ ඕෂනියා සබැඳි සමුළුවේ සමාප්ති උත්සවයට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකශ කළේය.
+
+සංවර්ධනය සහ ජනගහණයේ ව්‍යාප්තිය සමඟ අද රට පුරා තෙත්බිම් අහිමි වෙමින් පැවතිම හේතුවෙන් එය සංරක්ෂණය කර ගැනිමට කඩිනම් අවධානය යොමු කළ යුතු බව ජනාධිපතිවරයා පවසයි.
+
+මෙම වැඩපිළිවලට සමගාමීව දකුණු පළාතේ තෙත්බිම් අක්කර 1,000 කට වඩා වැඩි ප්‍රදේශයක් සංචාරක ආකර්ෂණීය ප්‍රදේශයක් ලෙස සංවර්ධනය කිරීමට සැලසුම් කර ඇති බව සඳහන් වේ.
+
+...
+
+[Data](articles/be4ca942.json)
+
+---
+
+### මහ මුහුද මැද සිදුකළ ඝාතනයේ තවත් තොරතුරු හෙළිවෙයි
+
+*2024-06-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198009) · `si`
+
+බේරුවල ධීවර වරායේ සිට මුහුදු ගොස් සිටිය දී බහුදින ධීවර යාත්‍රාවක සිදු වූ ඝාතනය සම්බන්ධයෙන් පොලීසිය වැඩිදුර තොරතුරු වාර්තා කර තිබේ.
+
+මෙම  බහුදින ධීවර යාත්‍රාව මුහුදු ගොස් ඇත්තේ පසු ගිය 9 වනදා දහවල් කාලයේදීය.
+
+එහි සිටි එක් ධීවරයෙකු විසින් තවත් ධීවරයෙකුට තියුණු ආයුධයකින් පහර දී ඝාතනය කර සෙසු පිරිසට ද පහර දී ඇති බවට යාත්‍රාවේ ස්කීපර්වරයා කළ දැනුම් දීමක් මත හිමිකරු විසින් පසුගිය 20 වනදා මේ සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+
+අදාළ යාත්‍රාව ඊයේ (21) බේරුවල වරායට පැමිණ ඇති අතර එහිදී සැකකරු අත්අඩංගුවට ගෙන පොලිස් ආරක්ෂාව යටතේ නාගොඩ රෝහලේ ප්‍රතිකාර ලබමින් සිටි.
+
+මෙම ධීවර යාත්‍රාවේ මියගිය ධීවරයාට අමතරව පැදවුම්කරු, සැකකරු සහ තවත් ධීවරයින් දෙදෙනෙකු සිට ඇත.
+
+පොලීසිය පැවසුවේ මසුන් ඇල්ලීමේ නිරතව සිටියදී ඇති වූ ගැටුමක් මත සැකකාර ධීවරයා විසින් පිහියකින් මෙම පහර දීම සිදුකර ඇති බවය.
+
+මෙම පහරදීම සිදුවන විට අදාළ යාත්‍රාව මුහුදු සැතපුම් 180ක් පමණ ගැඹුරු මුහුදේ තිබූ බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/7f058766.json)
+
+---
 
 ### Notice on National Identity Cards
 
@@ -2279,45 +2325,5 @@ Key topics included plans for an LNG supply, a proposed petroleum pipeline linki
 [Data](articles/7b49bea0.json)
 
 [Extended Data](ext_articles/7b49bea0.ext.json)
-
----
-
-### Bakeer Markar calls for accountability over breach of his Parliamentary privileges
-
-*2024-06-21 03:28:44* · [`dailyftlk`](https://www.ft.lk/news/Bakeer-Markar-calls-for-accountability-over-breach-of-his-Parliamentary-privileges/56-763334) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar in an address to Parliament yesterday highlighted significant breaches of his Parliamentary privileges, as revealed in a recent report by the Committee on Parliamentary Ethics and Privileges.
-
-He noted that the report found that a Private Members Bill submitted by him on youth representation, was eventually passed as a proposal put forward by ruling party MP Premanath C. Dolawatta.
-
-Citing the Parliamentary Privileges Committee report, Bakeer Markar pointed out numerous irregularities in the bill’s submission process to the Parliamentary Drafting Office and the Attorney General’s Department.
-
-“It is evident that this unfairness resulted from a deliberate failure to adhere to established procedures for bills presented by individual members,” Bakeer Markar said. He urged MPs to review specific sections of the report that highlight these injustices.
-
-...
-
-[Data](articles/082b94d2.json)
-
-[Extended Data](ext_articles/082b94d2.ext.json)
-
----
-
-### Visiting External Affairs Minister of India Dr. S. Jaishankar holds talks with Foreign Minister Ali Sabry
-
-*2024-06-21 03:26:56* · [`dailyftlk`](https://www.ft.lk/news/Visiting-External-Affairs-Minister-of-India-Dr-S-Jaishankar-holds-talks-with-Foreign-Minister-Ali-Sabry/56-763333) · `en`
-
-External Affairs Minister of India Dr. Subrahmanyam Jaishankar and Foreign Minister M.U.M. Ali Sabry
-
-External Affairs Minister of India Dr. Subrahmanyam Jaishankar who was on a one-day official visit to Sri Lanka met with his Sri Lankan counterpart, Foreign Minister M.U.M. Ali Sabry for bilateral talks at the Ministry of Foreign Affairs yesterday afternoon.
-
-This was Dr. Jaishankar’s first bilateral visit after being reappointed to the high office following the recent general elections in India.
-
-The bilateral discussions at the Foreign Ministry centred on a range of issues of mutual interest including in the areas of economic and development cooperation, cooperation in regional and multilateral fora as well as cooperation between the Foreign Ministries of the two countries among others.
-
-...
-
-[Data](articles/6056801e.json)
-
-[Extended Data](ext_articles/6056801e.ext.json)
 
 ---

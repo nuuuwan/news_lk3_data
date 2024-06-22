@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 14:19:30**
+As of **2024-06-22 14:35:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,566 (100.0%) of 31,568 articles have been extended.
+31,568 (100.0%) of 31,568 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,23 +44,31 @@ At least 49 Tunisians have died due to the extreme heat in Saudi Arabia during t
 
 [Data](articles/d152cefe.json)
 
+[Extended Data](ext_articles/d152cefe.ext.json)
+
 ---
 
-### බෝයිං STARLINER ගගනගාමීන් තවත් අර්බුදයක
+### Boeing Starlinger astronauts in another crisis
 
 *2024-06-22 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198021) · `si`
 
-ගගනගාමී සූනි විලියම්ස් සහ බුච් විල්මෝර් රැගත් බෝයිං සමාගමේ ස්ටාර්ලයිනර් යානය ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය වෙත ළඟාවුයේ පසුගිය ජූනි 6 වනදාය.
+Boeing's Starliner spacecraft, carrying astronauts Sunny Williams and Bob Behnken, docked with the ISS but suffered damage during docking, including a helium leak. This marks its inaugural flight, which occurred on April 26th. The crew now faces challenges as they prepare for a safe return to Earth.
 
-කෙසේ නමුත් ගමන අතරතුර ස්ටාර්ලයිනර් යානයේ ඇති වූ දෝෂ සහ හානි හේතුවෙන් එය ආපසු පෘථිවිය වෙත පැමිණීම ලබන ජූලි දෙවනදා දක්වා ප්‍රමාද වී තිබේ.
+🟩
 
-ස්ටාර්ලයිනර් යානයේ පළමු ගමන මෙය වන අතර එය ආපසු පැමිණීමට නියමිතව පැවතියේ මේ මස 26 වනදාය.
+Boeing Company Starleiner, carrying aeronautical Sunny Williams and Boech Wilmore, arrived at the International Space Station.
 
-යානය ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය වෙත සම්බන්ධවීමේදී එහි කොටස් කිහිපයකට හානි සිදුව තිබූ අතර එහි හීලියම් කාන්දුවක් ද වාර්තා වී තිබුණි.
+However, when the starlerr plane and damaged the Starlerr's plane, the return to the earth will return to the Earth.
+
+This is the first journey of the Starlerinner, and it was on the 26th of this month.
+
+A few parts of the aircraft were damaged in connecting to the International Space Station, a helium leak was reported.
 
 ◼️
 
 [Data](articles/305d83e8.json)
+
+[Extended Data](ext_articles/305d83e8.ext.json)
 
 ---
 

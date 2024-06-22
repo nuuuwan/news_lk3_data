@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 21:34:49**
+As of **2024-06-22 21:54:18**
 
 ## Newspaper Stats
 
-*Scraped **31,607** Articles*
+*Scraped **31,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,762
-adaderanalk | 3,584
+adaderanalk | 3,585
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,161
+adaderanasinhalalk | 5,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,607 (100.0%) of 31,607 articles have been extended.
+31,607 (100.0%) of 31,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### මෛත්‍රී හැදූ මෙත්සිරිපාය සුදු අලියෙක් ?
+
+*2024-06-22 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198035) · `si`
+
+පොදු මහජනතාවට යහපත සැලසීමේ අරමුණින් ක්‍රියාවට නැංවෙන සංවර්ධන ව්‍යාපෘති භාවිතයට නොගෙන අතහැර දමන අවස්ථාද නිරන්තරයෙන් වාර්තා වෙයි.
+
+වසර 8කට ආසන්න කාලයක් මුළුල්ලේ භාවිතයට නොගෙන අතහැර දමා ඇති පොළොන්නරුව මෙත්සිරිපාය පරිපාලන ගොඩනැගිලි සංකීර්ණයද ඊට කදිම නිදසුනකි.‍
+
+රුපියල් මිලියන 1500ක වියදමින් පොළොන්නරුව මෙත්සිරිපාය පරිපාලන ගොඩනැගිලි සංකීර්ණයේ ඉදිකිරීම් ආරම්භ වන්නේ 2016 දෙසැම්බර් 16 වැනිදාය.
+
+ඒ හිටපු, ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ සංකල්පයකට අනුව 2015 "යළි පිබිදෙමු පොළොන්නරුව රජරට නවෝදය" ජනපති වැඩසටහන යටතේය.
+
+පොළොන්නරුව දිස්ත්‍රික්කයේ සියලුම රාජ්‍ය ආයතන එකම ස්ථානයකට ගෙනඒම එහි අරමුණ විය.
+
+නමුත්, මෙහි ඉදිකිරීම් සිදුකිරීමට තිබියදීත් උතුරුමැද ආණ්ඩුකාරවරයාගේ කාර්යාලය පමණක් සකසා එය 2019 නොවැම්බර් පළමුවැනිදා ජනතා අයිතියට පත්කිරීමට මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කර තිබුණි.
+
+එතැන් පටන් අවස්ථා ගණනාවකදී එම පරිපාලන සංකීර්ණයේ නඩත්තු කටයුතු සිදුකෙරුණද එහි අද පරවියන්ගේ රජ දහනක් බවට ද මෙහි ඇතැම් ස්ථාන පත්ව තිබේ.
+
+...
+
+[Data](articles/30519190.json)
+
+---
+
+### Sri Lanka to advance in strong partnership with India to achieve development objectives
+
+*2024-06-22 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100033/sri-lanka-to-advance-in-strong-partnership-with-india-to-achieve-development-objectives) · `en`
+
+President Ranil Wickremesinghe expressed his commitment to maintaining a strong partnership with India to achieve Sri Lanka’s development goals. Emphasizing the urgency to expedite joint initiatives, President Wickremesinghe highlighted a comprehensive agenda aimed at transformative bilateral projects.
+
+The President highlighted the importance of enhancing cooperation between the two nations, particularly in the energy sector, aiming to foster new development for the Northern region, which has been deeply affected by three decades of conflict.
+
+President Ranil Wickremesinghe made these remarks while delivering a compelling vision for the future of Sri Lanka-India relations during his address at the 31st All India Partner’s Meet 2024 (AIPM 2024), held at ICT Ratnadipa in Colombo.
+
+...
+
+[Data](articles/e0809383.json)
+
+---
 
 ### If people find him ...
 
@@ -2307,55 +2347,5 @@ He further stated that the government is overcome during the crisis of the crisi
 [Data](articles/9b24cbb7.json)
 
 [Extended Data](ext_articles/9b24cbb7.ext.json)
-
----
-
-### Sri Lanka Police officers in India for specially-designed training course
-
-*2024-06-21 20:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100012/sri-lanka-police-officers-in-india-for-specially-designed-training-course) · `en`
-
-A batch of 23 senior Sri Lankan police officers are currently in New Delhi on a specially-designed two-week training course that started on June 18, the Indian High Commission in Colombo said on Friday.
-
-“At the request of the Sri Lanka Police, the High Commission of India has been facilitating tailor-made capacity building training courses for the personnel of the Sri Lankan Police at the premier police training institutions viz. Central Detective Training Institute (CDTI), Jaipur; CDTI, Hyderabad; CDTI, Kolkata and National Security Guard (NSG), Manesar, in India,” the mission said in a press release.
-
-...
-
-[Data](articles/97562ec0.json)
-
-[Extended Data](ext_articles/97562ec0.ext.json)
-
----
-
-### Dandu Buddha's son for Donu
-
-*2024-06-21 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198003) · `si`
-
-Dandu Buddha's son, known as Donu, inspired a commitment to promoting health and well-being. Despite not being a painter, his legacy lives on through the efforts of Mabotuwana Sri Piyaratana Nayaka, who founded a charitable organization offering free accommodation and meals to cancer patients and others needing medical care at the Kidney Teaching Hospital in Galle. This initiative, funded by donations, began in 2017 and extends its services to anyone recommended by doctors, regardless of their location. The organization also runs a school on-site, showcasing the broader impact of its philanthropic efforts.
-
-🟩
-
-We have heard in history that Buddhaliya-lifted living organizational should be committed to healing the club.
-
-Although not such a painter, we heard a story about a Buddha's son, which is a great service to the mites.
-
-That is why people are greatly committed to inherited a healthy life.
-
-In the meantime, a very few people are working hard to dedicate themselves to the other of a healthy life.
-
-Mabotuwana Sri Piyaratu Sri Piyaratana Nayaka was found in this altruistic thought.
-
-In external and internal hotel in the building, this is a company that has created a person withdrawn to the skewns.
-
-It takes free supply of accommodation and food free of charge to the cancer patients, the kidney and hearts who visit the Kidney Teaching Hospital in Galle Teaching Hospital.
-
-The healing sewna to the concept of Kalifornia, the Chief Sanganayake of the California, has been built in 2017, spending about Rs.
-
-He has felt a few who were close to the United States.
-
-...
-
-[Data](articles/852b39ca.json)
-
-[Extended Data](ext_articles/852b39ca.ext.json)
 
 ---

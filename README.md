@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 04:34:42**
+As of **2024-06-23 04:52:42**
 
 ## Newspaper Stats
 
-*Scraped **31,620** Articles*
+*Scraped **31,621** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 290
-dbsjeyarajcom | 291
+dbsjeyarajcom | 292
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,740
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,620 (100.0%) of 31,620 articles have been extended.
+31,620 (100.0%) of 31,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -285,6 +285,20 @@ Bangladesh won the advantage of the match first.
 [Data](articles/695bb62f.json)
 
 [Extended Data](ext_articles/695bb62f.ext.json)
+
+---
+
+### 
+
+*2024-06-22 19:06:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
+
+“Captain Blood:His Odyssey”was an Adventure novel written by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
+
+Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
+
+...
+
+[Data](articles/0c6c87b9.json)
 
 ---
 
@@ -2305,29 +2319,5 @@ The hospital administration, the Municipal Council, the Divisional Secretariat a
 [Data](articles/18f6b1d4.json)
 
 [Extended Data](ext_articles/18f6b1d4.ext.json)
-
----
-
-### South Africa wins
-
-*2024-06-21 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198006) · `si`
-
-South Africa triumphed over England in the Twenty20 World Cup match today, winning by 7 runs. The South Africans scored 163 runs in 6 overs before being bowled out, while England made 156 runs in their 20 overs.
-
-🟩
-
-The match between the Super 08, England and South Africa, was held today (21) in the Twenty20 World Cup.
-
-South African team won the match by 7 runs.
-
-South Africa scored 163 runs for the loss of six wickets in the loss of 6 overs.
-
-In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
-
-◼️
-
-[Data](articles/6c266452.json)
-
-[Extended Data](ext_articles/6c266452.ext.json)
 
 ---

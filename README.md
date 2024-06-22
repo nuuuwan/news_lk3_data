@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 02:19:28**
+As of **2024-06-23 02:34:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,619 (100.0%) of 31,620 articles have been extended.
+31,620 (100.0%) of 31,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -227,6 +227,8 @@ The Sri Lanka women's team had previously been on the 7th in the ICC Ratings lis
 ...
 
 [Data](articles/32f348f2.json)
+
+[Extended Data](ext_articles/32f348f2.ext.json)
 
 ---
 

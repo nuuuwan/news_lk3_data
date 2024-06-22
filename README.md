@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 21:04:24**
+As of **2024-06-22 21:19:20**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,606 (100.0%) of 31,607 articles have been extended.
+31,607 (100.0%) of 31,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### மக்களே இவரை கண்டால் உடன் தகவல் தாருங்கள்...
+### If people find him ...
 
 *2024-06-22 20:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்களே-இவரை-கண்டால்-உடன்-தகவல்-தாருங்கள்/71-339247) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் நேற்று நோயாளி ஒருவருடன் சகஜமாக பேசி, அவருடைய மோதிரம், பணம், கைப்பை போன்றவற்றை கொள்ளையடித்துச் சென்ற சந்தேகநபர் தொடர்பில் தகவல் கோரப்பட்டுள்ளது.
+A suspect was caught on CCTV robbing a patient at Jaffna Teaching Hospital, stealing a ring, money, and handbag. The hospital director urges anyone recognizing the suspect to contact Jaffna Police or the hospital. Patients are advised against bringing valuables and to beware of strangers.
 
-குறித்த நபர் சிசிடிவி கமராவின் மூலம் அடையாளம் காணப்பட்டுள்ளதாக வைத்தியசாலை பணிப்பாளர் தெரிவித்துள்ளார்.
+🟩
 
-இந்த சந்தேகநபர் தொடர்பாக விபரம் தெரிந்தால் யாழ்ப்பாணம் பொலிஸாருக்கோ வைத்தியசாலை நிர்வாகத்துக்கோ தெரிவிக்குமாறு பொதுமக்களுக்கு அவர் அறிவித்துள்ளார்.
+Information about the suspect who talked to a patient at the Jaffna Teaching Hospital yesterday and robbed his ring, money and handbag.
 
-இந்நிலையில், வைத்தியசாலைக்கு அனுமதிக்கப்படும் நோயாளிகள் தங்க ஆபரணங்களையோ பெறுமதியான பொருட்களையோ கொண்டு வரவேண்டாம் எனவும் தெரியாத நபர்களுடன் அவதானமாக இருக்கவேண்டும் எனவும் அறிவுறுத்தப்படுகிறது. R
+The person has been identified by the CCTV camera, the Director of the Hospital said.
+
+He has informed the public to report to the Jaffna Police or the hospital administration if the suspect is known.
+
+In this case, patients who are admitted to the hospital should not bring gold ornaments or valuable items and be careful with people who are unknown.. Remble
 
 ◼️
 
 [Data](articles/326943ad.json)
+
+[Extended Data](ext_articles/326943ad.ext.json)
 
 ---
 

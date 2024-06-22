@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 10:53:15**
+As of **2024-06-22 11:04:52**
 
 ## Newspaper Stats
 
-*Scraped **31,545** Articles*
+*Scraped **31,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,572
+adaderanalk | 3,574
 tamilmirrorlk | 3,703
 dailymirrorlk | 4,733
 virakesarilk | 4,903
@@ -26,11 +26,41 @@ adaderanasinhalalk | 5,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,545 (100.0%) of 31,545 articles have been extended.
+31,545 (100.0%) of 31,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Deadline for NIC applications extended
+
+*2024-06-22 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100018/deadline-for-nic-applications-extended) · `en`
+
+The Department for Registration of Persons (DRP) has announced an extension for individuals over the age of 40 who have been unable to obtain National Identity Cards (NIC) due to issues with their birth certificates.
+
+Commissioner General of the department Pradeep Saputhanthri stated that the deadline for these applications has been extended to June 30. Originally, the deadline was set for March 31.
+
+This extension was granted in response to requests from Divisional Secretaries, according to the department.
+
+◼️
+
+[Data](articles/103c1d57.json)
+
+---
+
+### President inaugurates new District Secretariat in Thiraimadu
+
+*2024-06-22 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100017/president-inaugurates-new-district-secretariat-in-thiraimadu) · `en`
+
+President Ranil Wickremesinghe has inaugurated the new District Secretariat in Thiraimadu, Batticaloa, a short while ago, the President’s Media Division (PMD) said.
+
+The new District Secretariat building was built at a cost of Rs. 1,055 million, according to the PMD.
+
+◼️
+
+[Data](articles/d9b0559b.json)
+
+---
 
 ### Medical brain drain worsens in Sri Lanka as 25% of doctors ready to migrate - report
 
@@ -2309,53 +2339,5 @@ Accordingly, Australia's target was 141 runs for the winning match.
 [Data](articles/e322b6bb.json)
 
 [Extended Data](ext_articles/e322b6bb.ext.json)
-
----
-
-### Indian FM meets Sri Lanka political leaders; focuses on committed deals
-
-*2024-06-21 07:30:00* · [`economynextcom`](https://economynext.com/indian-fm-meets-sri-lanka-political-leaders-focuses-on-committed-deals-168970/) · `en`
-
-ECONOMYNEXT – Indian External Affairs Minister (EAM) S. Jaishankar met President Ranil Wickremesinghe and a range of political leaders during his visit to Sri Lanka, focusing on commitments made by Sri Lanka to India, including land and energy pipeline connectivity.
-
-Sri Lanka has committed to renewable energy deals for the Indian Adani group, Trincomalee port development, an investment zone around the port, a bridge between the island nation’s Northern Mannar and South India’s Rameshwaram, a power grid, and an oil and gas pipeline between the two nations.
-
-Though most of the committed projects have been discussed and some already signed, they face delays amid public protests, court cases on environmental concerns, anti-Indian sentiments triggered by high prices of renewable projects, local politicians as well as perceived Chinese influence, analysts say.
-
-...
-
-[Data](articles/a2032068.json)
-
-[Extended Data](ext_articles/a2032068.ext.json)
-
----
-
-### The Greater Poson Poya - Derachananda Poson Worship begins
-
-*2024-06-21 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197976) · `si`
-
-Today marks the significant Poson Poya Day, celebrated in honor of the Buddha's first visit to Sri Lanka. The event includes various rituals such as the Derachananda Poson Worship, living Bodhi Pooja, and the Janatha Pilgrimage. President Ranil Wickremesinghe emphasized the importance of adopting the principles of Buddhism for development and peace, while Opposition Leader Sajith Premadasa highlighted the need to establish the teachings of the Supreme Buddha nationwide. The day also features the sacrifice at Ruwanwelisaya in Anuradhapura and the opening of the pilgrimage site at Nittambuwa from 6:30 am.
-
-🟩
-
-The Greatest Poson Poya Day has been played today by the Sri Lankan rice.
-
-It is in Buddhist history that the Pullchiatha, the Pooneryan and the Porcel Buddhist Buddhist Buddha, with the central Hathara, the Hathiranthra and the Sumana Tunnel is the Buddha's pure.
-
-The Poson Poya Day is today when he heard the King of Devanam Piyatissa.
-
-Meanwhile, the President has issued a pockethoo day message, the President is asked to build a developmental, social and economic issues that have been established by Mihindu.
-
-President Ranil Wickremesinghe further says that the Miwil Wickremesinghe has said that our example must be made a model to the adoption of the Chullable Stuppathi Sutta.
-
-Meanwhile, Opposition Leader Sajith Premadasa pointed out a Poson Poyaway message, said the Supreme Buddha's preached should be established in the country.
-
-The "Derakandana" will bring us to the sacrifice of Ruwanweli Maha Pharaoh in Anuradhapura today.
-
-...
-
-[Data](articles/e595a20e.json)
-
-[Extended Data](ext_articles/e595a20e.ext.json)
 
 ---

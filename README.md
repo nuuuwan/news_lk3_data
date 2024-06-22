@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 13:53:47**
+As of **2024-06-22 14:05:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,565 (100.0%) of 31,566 articles have been extended.
+31,566 (100.0%) of 31,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### 2025 දී එන දේපොළ බද්ද
+### Adapted Tax in 2025
 
 *2024-06-22 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198020) · `si`
 
-දේපොළ බද්ද ක්‍රියාත්මක වන්නේ 2025 වසරේ පළමු කාර්තුවෙන් පසුව බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+From Q1 2025, Sri Lanka's real estate tax takes effect, benefiting 90% of taxpayers.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ, මෙම බද්ද හරහා සියයට 90ක් වූ ජනතාවට ප්‍රතිලාභ හිමිවන බවය.
+🟩
+
+State Minister Ranjith Siyambalapitiya says the real estate tax is effective since the first quarter of 2025.
+
+Speaking to the media, the public minister added that the 90 percent of these levy will benefit from this tax.
 
 ◼️
 
 [Data](articles/11972b26.json)
+
+[Extended Data](ext_articles/11972b26.ext.json)
 
 ---
 

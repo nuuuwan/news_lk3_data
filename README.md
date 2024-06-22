@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 20:04:45**
+As of **2024-06-22 20:19:19**
 
 ## Newspaper Stats
 
-*Scraped **31,602** Articles*
+*Scraped **31,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 2,762
 adaderanalk | 3,584
 tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
-virakesarilk | 4,910
-adaderanasinhalalk | 5,159
+virakesarilk | 4,912
+adaderanasinhalalk | 5,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,602 (100.0%) of 31,602 articles have been extended.
+31,602 (100.0%) of 31,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### සිසුවියව දූෂණයට ලක් කළ 6ක් අත්අඩංගුවට
+
+*2024-06-22 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198032) · `si`
+
+16 හැවිරිදි දැරියක් සමූහ දූෂණයට ලක්කළ බව කියන සිද්ධිය සම්බන්ධයෙන් ඇයගේ පෙම්වතා ඇතුළු තරුණයන් 6 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 19ත් 21ත් අතර වයස්වල පසුවන්නන් වන බව පොලීසිය පැවසීය.
+
+‍කොස්ගම ප්‍රදේශයේ පදිංචි 16 හැවිරිදි පාසල් සිසුවියක් පොසොන් පොහෝදින උදෑසන සිය පුංචි අම්මා සමග දන්සැල් වෙත ගොස් තිබුණි.
+
+අනතුරුව පොත් කඩයකට යන බවට සිය පුංචි අම්මාට පැවසූ ඇය මිතුරියකගෙන් රුපියල් 300ක් ඉල්ලාගෙන සිය පෙම්වතා හමුවීමට ගොස් ඇති බව පොලීසිය සඳහන් කළේය.
+
+එහිදී ඇය සිය පෙම්වතාගේ නිවසට ගොස් ඔහු සමග ලිංගිකව එක්ව ඇති අතර පසුව පෙම්වතා අදාළ දැරියව සිය යතුරුපැදියෙන් හංවැල්ල, ඇඹුල්ගම ප්‍රදේශයෙන් බස්වා ගොස් තිබේ.
+
+ඒ අතරතුර පෙම්වතා ඔහුගේ මිතුරන් දෙදෙනෙකුට කතා කර සිය පෙම්වතිය සමග කතාකර අවශ්‍ය තැනකට රැගෙන යන ලෙසට පවසා ඇති බව පොලීසිය සඳහන් කළේය.
+
+ඒ අනුව, ඔහුගේ මිතුරන් දෙදෙනෙකු හංවැල්ල ආටිගල ප්‍රදේශයට යතුරුපැදියකින් පැමිණ අදාළ දැරිය සමග කතා කර ප්‍රදේශයේ ඉදිකෙරමින් පවතින සුසාන භූමියකට රැගෙන ගොස් ඇය සමග ලිංගිකව එක්ව තිබේ.
+
+...
+
+[Data](articles/9e2ca5d1.json)
+
+---
 
 ### Bangladesh to advantage
 
@@ -406,6 +430,26 @@ The son, who was driving the three-wheeler, and the father, who was a passenger,
 
 ---
 
+### உயிர்த்த ஞாயிறு தாக்குதலில் சேதமடைந்த சீயோன் தேவாலயத்திற்கு ஜனாதிபதி விஜயம்
+
+*2024-06-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186705) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதலுக்கு உள்ளான மட்டக்களப்பு சியோன் தேவாலயத்தின் புனரமைப்புப் பணிகளை ஆராய ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று (22) முற்பகல் அங்கு விஜயம் செய்துள்ளார்.
+
+தேவாலயத்திற்கு சென்ற ஜனாதிபதி, தேவாலயத்தின் பிரதான போதகர் ரொஷான் மகேசனுடன் கலந்துரையாடினார். தேவாலயத்தின் புனரமைப்புப் பணிகள் இதுவரை ஏன் நிறைவடையவில்லை என்பது தொடர்பில் கேட்டறிந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அது குறித்து உடனடியாக ஆராய்ந்து அறிக்கை வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+அத்துடன், தேவாலயத்தின் திருத்தப் பணிகளை ஜனாதிபதி அலுவலகத்தின் நிதி ஒதுக்கீட்டில் துரிதமாக பூர்த்தி செய்ய நடவடிக்கை எடுக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும், ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+
+அந்த நடவடிக்கைகளுக்கு இலங்கை இராணுவத்தின் ஆதரவை வழங்குமாறும் ஜனாதிபதி இராணுவத் தளபதிக்கு பணிப்புரை விடுத்தார்.
+
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், இராஜாங்க அமைச்சர் எஸ். வியாழேந்திரனும் இச்சத்தர்ப்பத்தில் ஜனாதிபதியுடன் இணைந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/93212bf0.json)
+
+---
+
 ### Youth drowning drowning in Basavakkulama tank
 
 *2024-06-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198025) · `si`
@@ -477,6 +521,20 @@ The father of the three-wheeler and his father was treated at the ICU of Matale 
 [Data](articles/a577c3ee.json)
 
 [Extended Data](ext_articles/a577c3ee.ext.json)
+
+---
+
+### மௌபிம ஜனதா கட்சியின் யாழ்.மாவட்ட அமைப்பாளராக அருண் சித்தார்த் நியமனம்
+
+*2024-06-22 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186702) · `ta`
+
+மௌபிம ஜனதா கட்சியின் யாழ்ப்பாண மாவட்ட அமைப்பாளராகவும் மற்றும் உயர் சபை உறுப்பினராகவும் அருண் சித்தார்த்  நியமிக்கப்பட்டுள்ளார்.
+
+இன்று சனிக்கிழமை (22) மௌபிம ஜனதா கட்சியின் தலைவர் திலித் ஜெயவீர நியமனக் கடிதத்தை அருண் சித்தார்த்திற்கு வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/5463763b.json)
 
 ---
 
@@ -2269,85 +2327,5 @@ The Sri Lasree Arumugar Sabha organized by the Department of Hindu Cultural Affa
 [Data](articles/e0505a65.json)
 
 [Extended Data](ext_articles/e0505a65.ext.json)
-
----
-
-### People's Demonstration Struggle in front of the Nedundevu police station
-
-*2024-06-21 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186661) · `ta`
-
-Protesters gathered outside Nedundevu police station demanding justice for a murdered youth. The victim, from Neduntivu's seventh region, was found dead from beating. His body was released post-autopsy and funeralized near the police station. A suspect was arrested and treated at Jaffna's Teaching Hospital. Protesters later marched with the casket.
-
-🟩
-
-People were involved in a protest in front of the Nedundevu police station in order to seek justice for the murdered youth in the Neduntivu area.
-
-In the early hours of this morning, a youth from the seventh region of Nedundevu was found dead after being beaten.
-
-The body was handed over to his relatives on Thursday (20) after the autopsy, and the funeral took place on Friday (21) at his residence and then carried the body of the body on the shoulders of the Nedundevu police station.
-
-A suspect in connection with the murder of a youth on Thursday (20) was already arrested on Thursday (20) and was receiving treatment at the Teaching Hospital in Jaffna.
-
-Subsequently, the dispersed people were buried in the body of the murdered young man.
-
-◼️
-
-[Data](articles/823f5b24.json)
-
-[Extended Data](ext_articles/823f5b24.ext.json)
-
----
-
-### A fisherman killed in the middle of the sea
-
-*2024-06-21 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198001) · `si`
-
-A fisherman was killed during a voyage, stabbed with a sharp object after an argument broke out. The incident occurred when one fisherman accidentally stepped on another while asleep. The victim, identified as 49-year-old Upul Shantha Fernando from Beruwala, succumbed to his injuries. The suspect, who turned himself in, claimed the killing was a result of immediate anger over the mishap.
-
-🟩
-
-One of the fishermen among a group of fishermen who were sealed from the Beruwala Fisheries Harbor to a multi-year-old fishing vessels have been attacked with a sharp object.
-
-The murder had taken place after an argument caused by an argument caused by an incident caused in sleep.
-
-The fishermen were then killed and the fishermen were killed.
-
-According to the 'Sahan Son' multi-day fishing vessels, 'had gone to Diyamba with five fishermen.
-
-One fisherman who was sleeping at the deep sea with about 180 sea miles trampled by a mistake.
-
-Police said that the fisherman was abroad who had been sleeping on the fisherman and the fisherman who had been nearing a sharp object.
-
-The fisherman has died and the rest of the fisherman had been inquired about the incident.
-
-He also threatened him to attack him.
-
-At that time, the group joined the murdered fisherman today.
-
-The murder took place yesterday and the vessel came to the land today.
-
-...
-
-[Data](articles/0159d05f.json)
-
-[Extended Data](ext_articles/0159d05f.ext.json)
-
----
-
-### Toss in the coin to England
-
-*2024-06-21 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198000) · `si`
-
-In today's Twenty20 World Cup, England faces another crucial match. The outcome could significantly impact the tournament's progress.
-
-🟩
-
-Another decisive match in the Twenty20 World Cup will be held today (21st).
-
-◼️
-
-[Data](articles/a49924aa.json)
-
-[Extended Data](ext_articles/a49924aa.ext.json)
 
 ---

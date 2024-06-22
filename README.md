@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 07:21:53**
+As of **2024-06-22 07:46:05**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,136
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,531 (100.0%) of 31,532 articles have been extended.
+31,532 (100.0%) of 31,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-06-22 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198007) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers in Western, Sabaragamuwa, and North Western provinces, including heavy rain in certain districts. Strong winds across several regions. Sea areas off the coast from Mannar to Puttalam and Hambantota to Pottuvil will experience rough conditions due to wind speeds increasing to 60-65 knots. Winds from Chilaw to Hambantota and from Trincomalee to Mullaittivu may also intensify, making sea areas rough. Fisheries and naval communities advised to be cautious.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැක.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+The Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
 
-මේ අතර, මන්නාරම සිට පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය   විටින් විට පැ.කි.මී. (60-65) දක්වා වැඩිවන අතර එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වේ.
+Some locations in the Western and Sabaragamuwa Provincial, Kandy, Nuwara Eliya and Puttalam Districts are mm mm.. Heavy rains can occur at over 100.
 
-හලාවත සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා සහ ත්‍රිකුණාමලය සිට මුලතිව් සහ කන්කසන්තුරය හරහා මන්නාරම දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල   සුළගේ වේගය විටින් විට පැ.කි.මී. (50-55) දක්වා වැඩි විය හැකි අතර මුහුදු ප්‍රදේශ විටින් විට රළු වේ.
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology has further informed the weather that there is about strong winds.
+
+Meanwhile, the roof of the sea areas off the coast extending from Mannar to Puttalam via Chilaw and Hambantota to Pottuvil.. (60-65) increases and the sea areas are very rough at times.
+
+Winds from Chilaw to Hambantota via Colombo and Galle and from Trincomalee and Mullaittivu and Kankesanthurai. (50-55) may increase to (50-55) and sea areas are rough at times.
 
 ...
 
 [Data](articles/4bdc8a56.json)
+
+[Extended Data](ext_articles/4bdc8a56.ext.json)
 
 ---
 

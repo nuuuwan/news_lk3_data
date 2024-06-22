@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 11:54:31**
+As of **2024-06-22 12:06:28**
 
 ## Newspaper Stats
 
-*Scraped **31,555** Articles*
+*Scraped **31,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,36 +13,90 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,740
-economynextcom | 1,823
+economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
 adaderanalk | 3,576
-tamilmirrorlk | 3,704
+tamilmirrorlk | 3,705
 dailymirrorlk | 4,733
 virakesarilk | 4,905
-adaderanasinhalalk | 5,143
+adaderanasinhalalk | 5,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,554 (100.0%) of 31,555 articles have been extended.
+31,555 (100.0%) of 31,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### සිරිසේනගේ කතාව සම්පූර්ණයෙන්ම ද්වේෂ සහගතයි -කාදිනල් හිමි
+### රිය අනතුරු තුනකින් තරුණ ජීවිත 3ක් අහිමි වෙයි
+
+*2024-06-22 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198016) · `si`
+
+කඩුගන්නාව සහ පිළිමතලාව දුම්රිය ස්ථාන අතර ප්‍රදේශයේදී ඊයේ (21) පස්වරුවේ දුම්රියක ගැටීමෙන් තරුණයෙකු මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ මහනුවර සිට පොල්ගහවෙල දක්වා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුරින් මියගොස් ඇත්තේ 19 හැවිරිදි කඩුගන්නාව ප්‍රදේශයේ පදිංචිව සිටි තරුණයෙකි.
+
+මෘතදේහය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය පේරාදෙණිය රෝහලේදී සිදුකිරීමට නියමිතව ඇති අතර කඩුගන්නාව පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+මේ අතර ඊයේ දහවල් නාඋල ඇලහැර මොරගහකන්ද මාර්ගයේ සිදු වූ යතුරුපැදි අනතුරකින් 17 හැවිරිදි පාසල් සිසුවෙක් මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ යතුරුපැදි දෙකක් මුහුණට මුහුණලා ගැටීමෙන් සිදු වූ මෙම අනතුරෙන් පැදිකරුවන් දෙදෙනා සහ පසුපැදිකරු‍වෙකු  තුවාල ලබා කෝන්ගහවෙල රෝහලට ඇතුළත් කර ඇති බවය.
+
+එමෙන්ම ඊයේ සිදු වූ තවත් යතුරුපැදි අනතුරකින් අවුරුදු 16ක පිරිමි දරුවෙකු මියගොස් තිබේ‍.
+
+ගලේවල පන්සියගම මාර්ගයේ අළුත්වැව හන්දියේ දී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි කැබ් රථයේ ගැටී ඉදිරියට ගොස් මාර්ගයේ අසල තිබූ පොල් ගසක ගැටී මෙම අනතුර සිදුව තිබේ.
+
+...
+
+[Data](articles/24087f05.json)
+
+---
+
+### Sirisena's story is completely malicious - Kadinal
 
 *2024-06-22 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198015) · `si`
 
-පාස්කු ප්‍රහාරයෙන් පසුව ලැබුණු මුදල් වියදම් වූ ආකාරය පිළිබඳ සියලු සංඛ්‍යා ලේඛන තමන් සතුව පවතින බව අගරදගුරු අති උතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පවසති.
+Archbishop Malcolm Cardinal Ranjith disputes former President Maithripala Sirisena's claims about funds post-Passover attack, stating his organization has detailed records and audits. The Archbishop emphasizes the importance of addressing the needs of affected individuals, including medical care, education for orphans, and other necessities, highlighting that approximately 560 million rupees have been allocated and distributed among those in need.
 
-උන්වහන්සේ පෙන්වා දෙන්නේ, අදාළ මුදල් සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය පදනම් විරහිත බවය.
+🟩
+
+Archbishop Malcolm Cardinal Ranjith says that he has all statistics on how the money has been spent after the Passover attack.
+
+The Thera points out that the statement made by former President Maithripala Sirisena regarding the money is baseless.
 
 ...
 
 [Data](articles/730681b2.json)
+
+[Extended Data](ext_articles/730681b2.ext.json)
+
+---
+
+### கர்நாடகாவில் முத்தையா முரளிதரன் 1,400 கோடி ரூபாய் முதலீடு
+
+*2024-06-22 11:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்நாடகாவில்-முத்தையா-முரளிதரன்-1-400-கோடி-ரூபாய்-முதலீடு/175-339240) · `ta`
+
+இலங்கை அணியின் முன்னாள் நட்சத்திர கிரிக்கெட் வீரர் முத்தையா முரளிதரன் இந்தியாவின் கர்நாடக மாநிலத்தில் 1,400 கோடி ரூபாய் முதலீட்டில் குளிர்பான நிறுவனத்தை ஆரம்பித்துள்ளார்.
+
+குளிர்பானம் மற்றும் இனிப்பு வகைப் பொருட்களை உற்பத்தி செய்யும் தொழிற்சாலை ஒன்றை அவர் ஆரம்பிக்க உள்ளார்.
+
+முத்தையா முரளிதரன் இலங்கையில் குளிர்பானம்,  இனிப்பு வகை தயாரிப்பு நிறுவனத்தை நடத்தி வருகிறார். தனது குளிர்பான நிறுவனத்தை இந்தியாவில் அறிமுகப்படுத்த அவர் முடிவெடுத்தார்.
+
+இதற்காக‌ கர்நாடக தொழில்துறை அமைச்சர் எம்.பி.பாட்டீலுடன் கடந்த சில மாதங்களுக்கு முன்பு பேச்சுவார்த்தை நடத்தினார். அப்போது கர்நாடக அரசு போதிய ஒத்துழைப்பும், சலுகையும் வழங்கும் என உறுதியளிக்கப்பட்டது.
+
+இலங்கையில் ஆரம்பிக்கப்பட்ட தொழிற்சாலையின் விரிவாக்கமாகவே, இந்தியாவில் இந்த தொழிற்சாலையை முத்தையா முரளிதரன் ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இந்தத் தொழிற்சாலை நிர்மாணத்திற்காக 46 ஏக்கர் நிலப்பரப்பு ஒதுக்கப்பட்டுள்ளதுடன், 2025ஆம் ஆண்டு ஜனவரி மாதம் முதல் உற்பத்தி நடவடிக்கைகள் ஆரம்பிக்கப்படும் என குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/d1c9bd1d.json)
 
 ---
 
@@ -253,6 +307,28 @@ The new District Secretariat building was built at a cost of Rs. 1,055 million, 
 [Data](articles/d9b0559b.json)
 
 [Extended Data](ext_articles/d9b0559b.ext.json)
+
+---
+
+### Sri Lanka electricity generation returns to pre-crisis levels in first quarter
+
+*2024-06-22 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-generation-returns-to-pre-crisis-levels-in-first-quarter-169016/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s electricity generation has expanded 9.6 percent in the first quarter of 2024 to 1,469 GigaWatt hours, with sales to industry growing 14.3 percent, data published by the central bank shows.
+
+Sri Lanka’s electricity sales has long been a proxy for economic activity and also gross domestic product (value added).
+
+In the first quarter of 2024 the statistics office estimated real GDP to have grown 5.3 percent and nominal GDP 8.3 percent.
+
+In the first quarter of any year, value added (GDP) in electricity is lower than other quarters due to a higher import content, amid dry weather.
+
+Sri Lanka’s electricity generation contracted 12.1 percent to 3,748 GWh in the first quarter of 2023.
+
+Sri Lanka’s first quarter electricity generation based on provisional data has now returned to pre-economic crisis and pre-pandemic levels, though still below 4,203 (revised) data of the crisis year 2022.
+
+...
+
+[Data](articles/06f68606.json)
 
 ---
 
@@ -2277,77 +2353,5 @@ The deceased has been identified as a 23 year old man who served on contract bas
 [Data](articles/8d371fd5.json)
 
 [Extended Data](ext_articles/8d371fd5.ext.json)
-
----
-
-### COPE uncovers major irregularities in Ceylon Petroleum Corporation
-
-*2024-06-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100003/cope-uncovers-major-irregularities-in-ceylon-petroleum-corporation) · `en`
-
-The Committee on Public Enterprises (COPE) has uncovered significant financial irregularities within the Ceylon Petroleum Corporation (CPC), resulting in a loss of Rs. 3,416 million from 2014 to 2022.
-
-This was attributed to internal dishonesty and a delay of 8 years and 8 months in issuing critical circulars to filling station owners by the Corporation’s marketing department.
-
-COPE has expressed strong displeasure and insisted on holding the responsible officials accountable.
-
-The issue came to light during a recent COPE meeting chaired by MP Rohitha Abeygunawardena to review the Auditor General’s 2022 report and the current status of the corporation, the Communications Dept. Of Parliament said in a press release.
-
-The Committee directed the Corporation to submit a detailed report within seven working days, listing the names of those involved in the fraud and the measures taken to address the issue.
-
-...
-
-[Data](articles/a7dd8540.json)
-
-[Extended Data](ext_articles/a7dd8540.ext.json)
-
----
-
-### A man arrested with foreign gun
-
-*2024-06-21 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186615) · `ta`
-
-A suspect linked to an underworld gang was arrested in Ambalangoda for allegedly planning four murders in the Southern Province. The arrest came after a raid where police also found a non-permit rifle, 12 bullets, and 100mg of heroin.
-
-🟩
-
-The Criminal Investigation Department said that a suspect from a underworld gang has been arrested yesterday (20) who tried to get two murders in the Southern Province and get two more murders.
-
-According to information received by a Criminal Investigation Division (CID), the suspect has been arrested in a house in Ambalangoda, Ambalangoda, during a roundup of raid in various areas, police said.
-
-The police have seized a non -permit rifle, 12 bullets and 10 g 100 milligram of heroin.
-
-◼️
-
-[Data](articles/d2f9a3f3.json)
-
-[Extended Data](ext_articles/d2f9a3f3.ext.json)
-
----
-
-### More information in the discussion between President and Indian Foreign Minister
-
-*2024-06-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197981) · `si`
-
-Dr. S. Jeyashankar concluded a one-day visit to Sri Lanka, focusing on enhancing Indo-Sri Lanka cooperation, especially in the energy sector. Discussions included progress on the Petroleum Phiros Road, Oil & Gas Exploration, and the upcoming Sampur Solar Power Plant. The development of airports and attention to the 13th Amendment were also highlighted, addressing concerns of the Tamil community.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jeyashnar had left the island yesterday after the end of his one day tour.
-
-The Indian External Affairs Minister and President Ranil Wickremesinghe were also engaged in bilateral discussions following the official meeting held at the President's House.
-
-It is said that intensify combined projects between India and Sri Lanka in relation to the energy sector said that the people had focused on the benefit of the people.
-
-Special attention has been paid to the construction of the Petroleum Phiros Road and Oil and Gas Exploration projects.
-
-It has been discussed that the construction of the Sampur Solar Power Plant is planning to commence next month, the Presidential Media Unit said.
-
-The Jaffna Airport and the Bandaranaike International Airport Development Project and the Blunkayaka International Airport Development Project in Sri Lanka and implemented as a preliminary step in Sri Lanka as a preliminary step in Sri Lanka are also exchanged.
-
-...
-
-[Data](articles/2b761bf4.json)
-
-[Extended Data](ext_articles/2b761bf4.ext.json)
 
 ---

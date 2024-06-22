@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 20:34:28**
+As of **2024-06-22 20:53:12**
 
 ## Newspaper Stats
 
-*Scraped **31,605** Articles*
+*Scraped **31,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,584
 tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,160
+adaderanasinhalalk | 5,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,605 (100.0%) of 31,605 articles have been extended.
+31,605 (100.0%) of 31,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායම ඉදිරියට
+
+*2024-06-22 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198034) · `si`
+
+ජාත්‍යන්තර එක්දින කාන්තා ක්‍රිකට් ශ්‍රේණිගත කිරීම් ලැයිස්තුවේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම 5 ස්ථානය දක්වා ඉදිරියට පැමිණ තිබේ.
+
+ඒ බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සමග පැවති තරගාවලියේ දැක්වූ දක්ෂතා හේතුවෙනි.
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායම මීට පෙර අයිසීසී ශ්‍රේණිගත කිරීමේ ලැයිස්තුවේ  7වන ස්ථානයේ පසු වුණි.
+
+◼️
+
+[Data](articles/1d7796ed.json)
+
+---
 
 ### Six arrested for rape victims
 
@@ -2333,23 +2349,5 @@ Police said that they were referred to the Panadura Base Hospital for treatment.
 [Data](articles/357360d6.json)
 
 [Extended Data](ext_articles/357360d6.ext.json)
-
----
-
-### 25 Hindu Great Organizations and Forums
-
-*2024-06-21 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186660) · `ta`
-
-The Sri Lasree Arumugar Sabha, organized by the Department of Hindu Cultural Affairs, showcases Hindu culture at the Bambalapitiya Hindu College Primary Hall.
-
-🟩
-
-The Sri Lasree Arumugar Sabha organized by the Department of Hindu Cultural Affairs, held at the Bambalapitiya Hindu College Primary Hall You can also see.
-
-◼️
-
-[Data](articles/e0505a65.json)
-
-[Extended Data](ext_articles/e0505a65.ext.json)
 
 ---

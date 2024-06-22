@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 07:46:05**
+As of **2024-06-22 07:59:18**
 
 ## Newspaper Stats
 
-*Scraped **31,532** Articles*
+*Scraped **31,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
 adaderanalk | 3,570
-tamilmirrorlk | 3,700
+tamilmirrorlk | 3,702
 dailymirrorlk | 4,733
 virakesarilk | 4,902
-adaderanasinhalalk | 5,136
+adaderanasinhalalk | 5,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,532 (100.0%) of 31,532 articles have been extended.
+31,532 (100.0%) of 31,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ජාතික හැඳුනුම්පත් සම්බන්ධයෙන් දැනුම්දීමක්
+
+*2024-06-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198008) · `si`
+
+උප්පැන්න සහතිකයක් නොමැතිවීමෙන් මෙතෙක් ජාතික හැඳුනුම්පත් ලබා ගැනීමට නොහැකි වු වයස අවුරුදු 40 ඉක්මවූ පුද්ගලයින් සඳහා ජාතික හැඳුනුම්පත් ලබා ගැනීමට තවදුරටත් අවස්ථාව පවතින බව පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් ප්‍රදීප් සපුතන්ත්‍රී මහතා සඳහන් කලේ මේ  මස 30 වනදා දක්වා ඒ සඳහා අවස්ථාව පවතින බවය.
+
+මේ සඳහා ඉල්ලුම්පත් යොමු කිරීමට පසුගිය මාර්තු මස 31 වනදා දක්වා කාලය ලබා දී තිබුණූ බව ද ඔහු සඳහන් කළේය.
+
+කෙසේවෙතත් ප්‍රාදේශීය ලේකම්වරුන් සිදුකළ ඉල්ලීම් සැලකිල්ලට ගනිමින් ඉල්ලුම්පත් යොමු කිරීම සඳහා මෙලෙස කාලය ලබා දීමට කටයුතු කල බව පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් ප්‍රදීප් සපුතන්ත්‍රී මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9e806570.json)
+
+---
 
 ### Weather today
 
@@ -389,6 +407,38 @@ In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
 [Data](articles/6c266452.json)
 
 [Extended Data](ext_articles/6c266452.ext.json)
+
+---
+
+### ’கடந்த காலத்தை யாரும் மறக்கக் கூடாது’
+
+*2024-06-21 23:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-காலத்தை-யாரும்-மறக்கக்-கூடாது/175-339237) · `ta`
+
+நாட்டுக்குத் தேவையான மருந்துகள், எரிபொருள், உரம் போன்றவற்றைக் கொள்வனவு செய்ய பணமில்லாமல் துன்பப்பட்ட கடந்த காலத்தை யாரும் மறந்துவிடக் கூடாது என்றும்  இவ்வாறான இருண்ட அனுபவத்தை அடுத்த தலைமுறைக்கு விட்டுச் செல்லாமல் புதிய பொருளாதார மாற்றத்தின் ஊடாக இலங்கையை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தில் அனைவரும் இணைந்து கொள்ள வேண்டுமெனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இருண்ட அனுபவத்தை அடுத்த தலைமுறைக்கு விட்டுச்செல்லாமல், புதிய பொருளாதார மாற்றத்தின் ஊடாக இலங்கையை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தில் அனைவரும் இணைந்துகொள்ள வேண்டுமெனவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+அகில இலங்கை தனியார் மருந்தக உரிமையாளர்கள் சங்கத்தின் 9 ஆவது மாநாட்டில் கலந்துகொண்டு உரையாற்றிய போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.  (a)
+
+◼️
+
+[Data](articles/038b9dcc.json)
+
+---
+
+### சேதமடைந்த வீடுகளுக்கு இழப்பீடு
+
+*2024-06-21 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதமடைந்த-வீடுகளுக்கு-இழப்பீடு/175-339236) · `ta`
+
+சீரற்ற காலநிலை காரணமாக முற்றிலும் சேதமடைந்த வீடுகளுக்கு அதிகபட்ச வரையறைக்கு உட்பட்டு இழப்பீடு வழங்குவதற்கு அல்லது அந்த வீடுகளை மீண்டும் நிர்மாணிக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க பணிப்புரை வழங்கியுள்ளார் என தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+அதேநேரம், பகுதியளவில் சேதமடைந்த வீடுகளை புனரமைப்பதற்காக, இடம்பெற்றுள்ள சேதங்களை மதிப்பீடு செய்து அதிகபட்ச வரையறைக்கு உட்பட்டு இழப்பீடு வழங்க நடவடிக்கை எடுக்கப்படும் என்றும் சாகல ரத்நாயக்க குறிப்பிட்டார்.
+
+கடந்த சில நாட்களாக நிலவும் சீரற்ற காலநிலையினால் முழுமையாகவும் பகுதியளவிலும் சேதமடைந்த வீடுகளை புனரமைப்பது தொடர்பாக நேற்று முன்தினம் ஜனாதிபதி செயலகத்தில் இடம்பெற்ற கலந்துரையாடலில் கலந்துகொண்ட போதே சாகல ரத்நாயக்க இவ்வாறு தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/bb7d56f8.json)
 
 ---
 
@@ -2257,69 +2307,5 @@ The summit, titled ‘Youth Aruna’ aims to engage young people in meaningful d
 [Data](articles/07bbd539.json)
 
 [Extended Data](ext_articles/07bbd539.ext.json)
-
----
-
-### Colombo International Film Festival to boost Sri Lanka’s cinema and tourism industries
-
-*2024-06-21 03:21:28* · [`dailyftlk`](https://www.ft.lk/business/Colombo-International-Film-Festival-to-boost-Sri-Lanka-s-cinema-and-tourism-industries/34-763330) · `en`
-
-Cabinet approves to host festival from 8-14 July with support from National Film Corporation, Sri Lanka Tourism Development Authority
-
-Minister Bandula Gunawardena says initiative aims to popularise global cinematography in SL by reviving local film industry and making destination an attractive tourist hub in South Asia
-
-Festival to feature over 34 award-winning films from Iran, France, India, South Korea, China, Japan, Germany
-
-In a bid to rejuvenate the Sri Lankan film industry whilst positioning the country as a major tourist hub in South Asia, the Government has decided to host the Colombo International Film Festival.
-
-Organised under the sponsorship of the National Film Corporation (NFC) and the Sri Lanka Tourism Development Authority (SLTDA), the film festival is set to take place from 8-14 July in Colombo.
-
-...
-
-[Data](articles/f7fbd081.json)
-
-[Extended Data](ext_articles/f7fbd081.ext.json)
-
----
-
-### Sri Lanka and Saudi Arabia to ink MoU to boost direct investments
-
-*2024-06-21 03:20:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Saudi-Arabia-to-ink-MoU-to-boost-direct-investments/34-763329) · `en`
-
-Sri Lanka and the Kingdom of Saudi Arabia will enter into a Memorandum of Understanding (MoU) aimed at attracting direct investment and enhancing the investment environment in both countries.
-
-The agreement seeks to promote policy and legal reforms, provide advanced and integrated infrastructure facilities and streamline processes to foster a more investor-friendly climate.
-
-“Both sides reached an agreement during the special meeting of the World Economic Forum, held in Riyadh, Saudi Arabia attended by Foreign Affairs Minister Ali Sabry in April,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
-
-Speaking at the weekly post-Cabinet meeting media briefing he disclosed that the agreement was reached when the Minister attended the World Economic Forum in Riyadh from 28-29 April.
-
-...
-
-[Data](articles/2dfca277.json)
-
-[Extended Data](ext_articles/2dfca277.ext.json)
-
----
-
-### Financial Intelligence Unit inks MoU with Bahrain counterpart
-
-*2024-06-21 03:19:47* · [`dailyftlk`](https://www.ft.lk/business/Financial-Intelligence-Unit-inks-MoU-with-Bahrain-counterpart/34-763328) · `en`
-
-FIU-Sri Lanka Director Dr. Subhani Keerthiratne (right) and FINC-Bahrain Chief Executive Shaikha May Bint Mohamed Bin Khalifa Al Khalifa signing the MoU on behalf of the respective institutions
-
-The Financial Intelligence Unit of Sri Lanka (FIU-Sri Lanka) entered into a Memorandum of Understanding (MoU) with the Financial Intelligence National Centre of the Kingdom of Bahrain (FINC-Bahrain).
-
-With the signing of this MoU, the FIU-Sri Lanka has entered into MoUs with 45 foreign counterparts for sharing of information for intelligence purposes.
-
-FIU-Sri Lanka Director Dr. Subhani Keerthiratne and FINC-Bahrain Chief Executive Shaikha May Bint Mohamed Bin Khalifa Al Khalifa signed the MoU on behalf of the respective institutions.
-
-The MoU was signed on 4 June, at the 30th Plenary of the Egmont Group, held in Paris, France to exchange financial intelligence related to money laundering (ML) and associated predicate offences, and in relation to terrorist financing (TF) offence.
-
-...
-
-[Data](articles/c4d8cd27.json)
-
-[Extended Data](ext_articles/c4d8cd27.ext.json)
 
 ---

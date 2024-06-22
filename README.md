@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 22:07:03**
+As of **2024-06-22 22:19:31**
 
 ## Newspaper Stats
 
-*Scraped **31,611** Articles*
+*Scraped **31,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
-adalk | 2,762
+adalk | 2,764
 adaderanalk | 3,586
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,609 (100.0%) of 31,611 articles have been extended.
+31,611 (100.0%) of 31,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### බංග්ලාදේශය ට ලැබුණු ඉලක්කය
+### The goal of Bangladesh received
 
 *2024-06-22 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198036) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ බංග්ලාදේශය අතර තරගය මේවන විට පැවැත්වෙයි.
+In the ongoing World Cup match between India and Bangladesh, Bangladesh won the toss and chose to field first. India made 196 runs in 20 overs, losing 5 wickets. Hardik Pandya contributed with 50 runs.
 
-තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව, පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවී ලකුණු 196ක් රැස්කළේය.
+The match between India and Bangladesh, the round of the World Cup match is currently underway.
 
-එහිදී ඉන්දීය ඉනිම වෙනුවෙන් හර්දික් පාණ්ඩ්‍යා නොදැවී ලකුණු 50ක් රැස්කළේය.
+The Bangladesh team won the toss and invited the Indian team to bat first.
+
+Accordingly, the Indian team scored 196 runs for the loss of 5 wickets at the end of the allotted 20 overs.
+
+Hardick Pandy scored 50 runs for the innutrition.
 
 ◼️
 
 [Data](articles/de61382f.json)
+
+[Extended Data](ext_articles/de61382f.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ President Ranil Wickremesinghe made these remarks while delivering a compelling 
 ...
 
 [Data](articles/b8483254.json)
+
+[Extended Data](ext_articles/b8483254.ext.json)
 
 ---
 
@@ -241,6 +249,26 @@ The President has also informed the Army Commander to assist the Army for the re
 [Data](articles/06bff11d.json)
 
 [Extended Data](ext_articles/06bff11d.ext.json)
+
+---
+
+### තන්තිරිමලය ආලෝක පූජාව දෙවැනි දිනට අදත්
+
+*2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/uncategorized/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/1-410364) · `si`
+
+විජය පුවත්පත් සමාගම සංවිධානය කරන ලංකාදීප පොසොන් ආලෝක පූජාව 21 වැනි වරටත් මෙවර , ඓතිහාසික තන්තිරිමලේ රාජමහා විහාරස්ථානයේදී පොසොන් පොහොය යෙදුන ඊයේ (21දා ) ආරම්භ කෙරිණි.
+
+උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ  ජනාධිපති රනිල් වික්‍රමසිංහ , විජය පුවත්පත් සමාගමේ සභාපති රංජිත් විජයවර්ධන  මහතා  ආලෝක පූජාව විවෘත කලහ.
+
+මෙම අවස්ථාව සඳහා එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, රුවන් විජයවර්ධන, ජනාධිපති උපදේශක සාගල රත්නායක, හිටපු අමාත්‍යවරුන් වන එස්.එම්. චන්ද්‍රසේන, පී හැරිසන්, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් එක් වූහ.
+
+ඉන් අනතුරුව දහම් පාසල් සිසුන් ඉදිරිපත් කරන බැති ගී සංදර්ශනය සහ එය අවසානයේදී  එම සිසුන්ට වටිනා  ත්‍යාග සහ සහතික පත් ලබා දීම මෙහිදී සිදු කෙරිණි.
+
+තන්තිරිමලේ ආලෝක පූජාව අද (22) සහ හෙට 23  යන දිනවලදී ද පැවැත්වේ.
+
+◼️
+
+[Data](articles/10bc09ab.json)
 
 ---
 
@@ -451,6 +479,22 @@ Governor of Eastern Province Sandil Thondaman, State Minister. Dakighteran also 
 [Data](articles/dca5c795.json)
 
 [Extended Data](ext_articles/dca5c795.ext.json)
+
+---
+
+### හෙට මිලි මීටර් 100 ඉක්මවා වහින පැති මෙන්න
+
+*2024-06-22 17:23:23* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-410360) · `si`
+
+බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+එසේම බස්නාහිර හා සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය හා පුත්තලම දිස්‍ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලි මීටර් 100ක පමණ තද වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+මාතලේ, අනුරාධපුර හා මන්නාරම දිස්ත්‍රික්කවල සිහින් වැසිවාර කිහිපයක් ඇතිවන බවද එම දෙපාර්මේන්තුව වැඩිදුරටත් කියයි.
+
+◼️
+
+[Data](articles/f884b3cc.json)
 
 ---
 
@@ -2299,55 +2343,5 @@ Police said that the mosque members were provoked to attack him, even though the
 [Data](articles/98f46ddf.json)
 
 [Extended Data](ext_articles/98f46ddf.ext.json)
-
----
-
-### The government is carrying out all measures to restore the country from Bankura - Sagala
-
-*2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186647) · `ta`
-
-The government is implementing measures to prevent the country from bankruptcy, led by Sagala Ratnayake. Economic recovery efforts focus on resolving the people's livelihood struggles and securing essential goods like cooking gas and medicines. Steps include consulting lenders for credit restructuring to stabilize the economy.
-
-🟩
-
-Country is in a very short time from bankruptcy. The government is carrying out the necessary steps. Following this, the President's Senior Alalesakar Sagala Ratnayake said that steps will be taken to resolve the people's livelihood struggle.
-
-He was speaking to the media after visiting the four -storey children's hospital at Maharagama Abeksha Hospital on the construction of the hospital on 19.
-
-Economicly we have fallen. So that our country was forced to stand up to the bank. However, this bankruptcy will come to an end in a very short time.If the bankruptcy is over, we can get the necessary assistance for our economic development.
-
-We are currently in stability. The gas that existed two years ago was not a sequence for cooking gas. No drug shortage. All the essential items needed for the people are currently in the country. Not yet without problems, though.
-
-...
-
-[Data](articles/4986fcaf.json)
-
-[Extended Data](ext_articles/4986fcaf.ext.json)
-
----
-
-### West Indies - Super 8 Competition
-
-*2024-06-21 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186662) · `ta`
-
-The Super 8 Tournament features the West Indies, US, UK, and South Africa, with the West Indies aiming to secure a spot in the semis despite losing to England. The US, having never faced the West Indies in an international T20 match before, is expected to put up a strong fight, especially considering their top six players. Meanwhile, India's chances are diminished after Pakistan's unexpected victory over them.
-
-🟩
-
-The Super 8 Tournament for the West Indies, the United States and the United States, will be held tomorrow morning at Barjdown Kensington Oval Playrang.
-
-The UK and South Africa, which have lost their first Super 8 matches, will try to get the first winning points of the West Indies and the United States, respectively.
-
-The West Indies, which won all competitions in the C. Group, started with a Super 8 round defeat of the West Indies. The West Indies, which lost to England, will only be able to enter the semi -finals only if the two teams - the United States and South Africa are in the next two matches.
-
-Meanwhile, India is not expected to win tomorrow's match after Pakistan has completely unexpectedly won the A group of India.. It is not surprising, however, that the United States shocked.
-
-However, it is not known whether or not King will play in the match against England.
-
-...
-
-[Data](articles/61a40f6f.json)
-
-[Extended Data](ext_articles/61a40f6f.ext.json)
 
 ---

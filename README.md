@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 18:53:56**
+As of **2024-06-22 19:04:31**
 
 ## Newspaper Stats
 
-*Scraped **31,596** Articles*
+*Scraped **31,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
-adalk | 2,759
-adaderanalk | 3,583
+adalk | 2,761
+adaderanalk | 3,584
 tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,157
+adaderanasinhalalk | 5,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,595 (100.0%) of 31,596 articles have been extended.
+31,596 (100.0%) of 31,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ජනපති සියෝන් දේවස්ථානයේ නිරීක්ෂණ චාරිකාවක
+
+*2024-06-22 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198030) · `si`
+
+‍පාස්කු ඉරිදා බෝම්බ ප්‍රහාරය එල්ල වූ මඩකලපුව සියොන් දේවස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු මේ දක්වාත් අවසන් නොවීම සම්බන්ධයෙන් ජනාධිපතිවරයා වාර්තාවක් කැඳවා තිබේ.
+
+සියොන් දේවස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු පිළිබඳ සොයාබැලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ දේවස්ථානය වෙත ගොස් තිබේ.
+
+එහිදී ජනාධිපතිවරයා දේවස්ථානයේ ප්‍රධාන පූජකවරයා වන රොෂාන් මහේෂන් සමඟ සාකච්ඡාවක නිරත වී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+දේවස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු මෙතෙක් අවසන් නොවීම පිළිබඳ එහිදී කරුණු විමසා සිටි ජනාධිපතිවරයා ඒ පිළිබඳ වහාම වාර්තාවක් ලබාදෙන ලෙස ද නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
+
+ජනාධිපති කාර්යාලයේ ප්‍රතිපාදන මත දේවස්ථානයේ අලුත්වැඩියා කටයුතු කඩිනමින් නිම කිරීමට පියවර ගන්නා ලෙස ද ජනාධිපතිවරයා විසින් ජාතික ආරක්ෂාව පිළිබඳව ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතා වෙත උපදෙස් ලබා දී ඇත.
+
+එමෙන්ම ප්‍රතිසංස්කරණ කටයුතු සඳහා යුද හමුදාවේ සහාය ලබාදෙන ලෙස ද ජනාධිපතිවරයා මෙහිදී යුද හමුදාපතිවරයා වෙත දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/06bff11d.json)
+
+---
+
+### Pillayan to also back Ranil at upcoming presidential poll
+
+*2024-06-22 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100031/pillayan-to-also-back-ranil-at-upcoming-presidential-poll) · `en`
+
+Leader of the Thamil Makkal Viduthalaip Puligal (TMVP) State Minister Sivanesathurai Chandrakanthan alias ‘Pillayan’ has stated that both he and his party will support President Ranil Wickremesinghe during the upcoming Presidential Election.
+
+President Wickremesinghe has held a discussion with Pillayan and his party members this evening (22) at their party’s headquarters in the Batticaloa area.
+
+During the meeting, the former LTTE paramilitary leader turned politician has assured that he and his party will support the incumbent Head of the State at the upcoming Presidential Election.
+
+Meanwhile on Wednesday (19), the leader of the Tamil United Freedom Front (TUFF), former MP Vinayagamoorthy Muralitharan alias ‘Karuna Amman’, had also confirmed that he and his party would support President Wickremesinghe at the presidential poll.
+
+...
+
+[Data](articles/d4ca1b42.json)
+
+---
+
+### පෙර පාසල් ගුරු මාසික දීමනාව  පොසොන් මහේ සිට දෙගුණයක් වේ
+
+*2024-06-22 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරු-මාසික-දීමනාව--පොසොන්-මහේ-සිට-දෙගුණයක්-වේ/11-410362) · `si`
+
+කාන්තා ,ළමා කටයුතු හා සමාජ සවිබල ගැන්වීම් අමාත්‍යාංශය මගින් ක්‍රියාත්මක කර ඇති ගුරු අභිමානි වැඩ සටහන යටතේ දිවයිනේ  පෙරපාසල් ගුරුවර ගුරුවරියන්ට  දැනට ගෙවනු ලබන රුපියල් 2500 මාසික  දීමනාව රුපියල් 5000 දක්වා සියයට සියයකින්  වැඩි කෙරේ.
+
+ඒ අනුව එම ගුරුවර ගුරුවරියන් වෙත   මෙම ජුනි  මාසයේ සිට ක්‍රියාත්මක වන පරිදි  රුපියල් 5000 ක් බැගින් එම දීමනාව  ලබාදෙන  ලෙස  කාන්තා ,ළමා කටයුතු හා සමාජ සවිබල ගැන්වීම් අමාත්‍යාංශයේ ලේකම් යමුනා පෙරේරා මහත්මිය විසින්  සියලුම දිස්ත්‍රික් හා  ප්‍රාදේශීය ලේකම් වරුන් වෙත 2024.06.19 දිනැති  චක්‍රලේඛයක් මගින් දන්වා  ඇත.
+
+◼️
+
+[Data](articles/4a7501d6.json)
+
+---
 
 ### Super actor arrested for murder of a fan
 
@@ -148,6 +202,28 @@ He has asked the US Congress to issue a warning stamp to all social websites ope
 
 ---
 
+### පාස්කු ප්‍රහාරයෙන් වසර 5කට පසුවත් සියෝන් දේවස්ථානය තවමත් සාදා නිමකර නෑ
+
+*2024-06-22 17:30:01* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයෙන්-වසර-5කට-පසුවත්-සියෝන්-දේවස්ථානය-තවමත්-සාදා-නිමකර-නෑ/11-410361) · `si`
+
+පාස්කු ඉරිදා බෝම්බ ප්‍රහාරයට ලක් වූ මඩකලපුව සියොන් දේවස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු පිළිබඳ සොයා බැලීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ එක් විය.
+
+දේවස්ථානය වෙත පැමිණි ජනාධිපතිවරයා එම දේවස්ථානයේ ප්‍රධාන පූජකතුමා වන රොෂාන් මහේෂන් පූජකතුමා සමඟ සාකච්ඡාවක නිරත විය.
+
+දේවස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු මෙතෙක් අවසන් නොවීම පිළිබඳ එහිදී කරුණු විමසා සිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ පිළිබඳ වහාම වාර්තාවක් ලබාදෙන ලෙස ද නිලධාරින්ට උපදෙස් දුන්නේය.
+
+එමෙන්ම ජනාධිපති කාර්යාලයේ ප්‍රතිපාදන මත දේවස්ථානයේ අලුත්වැඩියා කටයුතු කඩිනමින් නිම කිරීමට පියවර ගන්නා ලෙස ද ජනාධිපතිවරයා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා වෙත උපදෙස් දෙනු ලැබීය.
+
+එම කටයුතු සඳහා ශ්‍රී ලංකා යුද හමුදාවේ සහය ලබා දෙන ලෙස ද ජනාධිපතිවරයා මෙහිදී යුද හමුදාපතිවරයා වෙත දැනුම් දුන්නේය.
+
+නැගෙනහිර පළාත් ආණ්ඩුකාර සෙන්දිල් තොණ්ඩමන්, රාජ්‍ය අමාත්‍ය එස්. වියාලේන්ද්‍රන් යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/dca5c795.json)
+
+---
+
 ### Heavy showers of 100mm expected in parts of the island
 
 *2024-06-22 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100030/heavy-showers-of-100mm-expected-in-parts-of-the-island) · `en`
@@ -194,21 +270,27 @@ Outsidating temperatures outside the Derwentan Rid of Dervent Rid of Dervent Rel
 
 ---
 
-### ෆොන්සේකා සජිත් විවේනය කරන්නේ ජනපති අපේක්ෂකත්වය නොදුන් නිසාලු
+### Fonseka's led by Sajith's celebration
 
 *2024-06-22 17:15:15* · [`adalk`](https://www.ada.lk/breaking_news/ෆොන්සේකා-සජිත්-විවේනය-කරන්නේ-ජනපති-අපේක්ෂකත්වය-නොදුන්-නිසාලු/11-410359) · `si`
 
-ජනාධිපති අපෙක්ෂක ධුරය පා.ම සරත් ෆොන්සේකා මහතාට ලබා නොදුන් නිසා ඔහු විපක්ෂ නායකයා විවේචනය කරන බව දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක පා.ම පලනි දිගම්බරම් මහතා පවසයි.
+Sarath Fonseka, under Sajith Premadasa's leadership, faces criticism for not addressing his military past adequately during his presidential bid. Opposition leader Palani Digambaram highlights this issue, while MP Sarath Fonseka is open to joining forces with Ranil Wickremesinghe, indicating a readiness to move beyond his military background.
 
-පා.ම සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ ජනාධිපති අපෙක්ෂකයා වශයෙන් ඉදිරිපත් විමට අපෙක්ෂා කල බවත්, එම අපෙක්ෂක ධුරය ඔහු වෙත ලබා නොදුන් නිසා සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ නායක සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විවේචනය කරන බව දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක සහ නුවරඑලිය දිස්ත්‍රික් පා.ම පලනි දිගම්බරම් මහතා පැවසිය.
+🟩
 
-පා.ම පලනි දිගම්බරම් මහතා ඒ බැව් කියා සිටියේ (21) දින හැටන් වැලිඔය ප්‍රදේශයේ පැවති පක්ෂ රැස්විමකදිය.මෙහිදි අදහස් දැක් වු පා.ම පලනි දිගම්බරම් මහතා කියා සිටියේ සරත් ෆොන්සේකා මහතා හිටපු සැම පක්ෂයකම නායකයින් විවේචනය කරමින් කටයුතු කල අයෙකු බවයි.
+The Deputy Leader of the Palani Digambaram says that the opposition leader has been criticized by the opposition leader.
 
-හමුදා මානසිකත්වයෙන් පෙලෙන සරත් ෆොන්සේකා මහතා රනිල් වික්‍රමසිංහ මහතා සමග එක්විමට සුදානමින් සිටින බවත්, සජිත් ප්‍රේමදාස මහතා ජනාධිපතිවරණයෙන් විශිෂ්ඨ ජයග්‍රහණයක් ලබා ගන්නා බවයි පලනි දිගම්බරම් මහතා වැඩිදුරටත් කියා සිටියේ.
+MP Sarath Fonseka's presidential and opposition leader Sajith Premadasa criticizes the post of Presidential Force and not given the post aspect of the probe.Mr. Palani Digambaram said.
+
+P. Palani Digambaram said,
+
+Mr. Bandaranigambaram added that Sarath Fonseka, who is suffering from military mood, is ready to join Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/eb09206c.json)
+
+[Extended Data](ext_articles/eb09206c.ext.json)
 
 ---
 
@@ -2241,103 +2323,5 @@ Croatia’s HEP power utility said that the outage in parts of the country had b
 [Data](articles/9f7d6991.json)
 
 [Extended Data](ext_articles/9f7d6991.ext.json)
-
----
-
-### President will resume the country if everyone is supported
-
-*2024-06-21 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197999) · `si`
-
-President Ranil Wickremesinghe urges unity and support for the government's economic recovery plan for Sri Lanka, emphasizing the importance of learning from past mistakes and addressing current challenges like drug shortages, fuel, and fertilizer issues. He highlights the role of private pharmacists during crises and calls for collective effort to navigate financial difficulties and secure foreign exchange for essential imports. The President also mentions discussions with the IMF and potential agreements with China and other entities to stabilize the economy and move towards a new economic path.
-
-🟩
-
-President Ranil Wickremesinghe says that all should be joined by the government's program to build Sri Lanka through a new economic translation.
-
-The President said that the past should not be forgotten and the future should not be allowed to suffer drugs, fuel and fertilizers.
-
-President Ranil Wickremesinghe was speaking at the 9th conference of the All Ceylon Private Pharmacents Association.
-
-...
-
-[Data](articles/fd4a9682.json)
-
-[Extended Data](ext_articles/fd4a9682.ext.json)
-
----
-
-### Sri Lanka is committed to improve the environmental tourism - President
-
-*2024-06-21 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186657) · `ta`
-
-Sri Lanka aims to enhance its environmental tourism by focusing on swamp conservation, as highlighted by President Ranil Wickremesinghe. He emphasized the importance of domestic funding for climate and environmental initiatives rather than relying on foreign aid. The country is planning to transform over 1000 acres of swamp in the Southern Province into a tourist destination, alongside creating a Tourist Zone near Horton Place. Additionally, Sri Lanka is considering establishing Asia's first international climate change university to promote climate change education and research.
-
-🟩
-
-President Ranil Wickremesinghe said Sri Lanka is committed to improving the environmental tourism industry by focusing on the protection of swamps.
-
-The President pointed out that it was not worth the foreign fund for foreign funds for climate change and environmental protection, adding that the tropical countries should focus on environmental trade projects and get the necessary funds.
-
-President Ranil Wickremesinghe said this at the closing ceremony of the WLI Asia Asia Asia Oceania Conference 2024 at the Voters Age Hotel at Battaramulla yesterday (20).
-
-The conference, organized by the Sri Lanka Land Development Corporation under the Ministry of Housing, was held at the Tiyasaru Park, Pattaramulla from June 17 to 21 to improve the safety and sustainable management and cooperation of swamps.
-
-...
-
-[Data](articles/7a578baf.json)
-
-[Extended Data](ext_articles/7a578baf.ext.json)
-
----
-
-### State Minister for tax recovery
-
-*2024-06-21 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197998) · `si`
-
-State Minister Ranjith Siyambalapitiya addresses ongoing tax recovery efforts, noting a deficit due to government institutions. He assures steps are being taken to recover arrears, highlighting the government's legal authority to enforce tax laws and collect taxes owed.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that there is still a deficit deficit due to government institutions.
-
-The State Minister said that every step required to recover the arrears is taken in the future.
-
-"The world is the lowest state income in the world and now comes to a place now. The opposition now is trying to say that we are trying to do new things to do what is being recovered.. It's a simple argument. As the government, you need to say yes. The first one is the right to the preaching law of our country. It's in the world. The government has the right to go to court that the government said to the government to procept a tax in the law when he told the law to go before the law.. They are in it. Taxes payable to pay the second government institutions. I still don't say that all the powers of the government have more than the age of this period. "
-
-◼️
-
-[Data](articles/573ea072.json)
-
-[Extended Data](ext_articles/573ea072.ext.json)
-
----
-
-### At the Red Sea, a calendar is a hary missile attack
-
-*2024-06-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197997) · `si`
-
-A Greek coal ship was attacked near the Red Sea port of Solidays, causing it to sink. The incident occurred about a week ago and involved Filipino crew members, who were rescued by the US Navy. Meanwhile, Yemen's Houthis, backed by Iran, have been targeting Israel, including its ships, since November last year.
-
-🟩
-
-Foreign media reports a video of a coal transport greek ship
-
-The attack was hit by the sea from the Port of Solidays.
-
-Foreign media reports that the ship has completely drowned in the attack, about a week ago.
-
-The attack was about twenty two staff members and they all say that they were all filipino.
-
-The US Navy had taken steps to redeem the rest by air.
-
-In November last year, Yemen's Hoouti, Yemen's Hoouti, began attacking Palestine.
-
-Iran Assistant Hoothi ​​says that they will target Israeli ships.
-
-◼️
-
-[Data](articles/4e4d53c6.json)
-
-[Extended Data](ext_articles/4e4d53c6.ext.json)
 
 ---

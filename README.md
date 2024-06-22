@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 23:19:21**
+As of **2024-06-22 23:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,614** Articles*
+*Scraped **31,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,163
+adaderanasinhalalk | 5,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,614 (100.0%) of 31,614 articles have been extended.
+31,614 (100.0%) of 31,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ඉන්දියාවට ජය
+
+*2024-06-22 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198037) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ බංග්ලාදේශය අතර තරගය ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+
+තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව, ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවී ලකුණු 196ක් රැස්කළේය.
+
+එහිදී ඉන්දීය ඉනිම වෙනුවෙන් හර්දික් පාණ්ඩ්‍යා නොදැවී ලකුණු 50ක් රැස්කළේය.
+
+ඊට පිළිතුරු ලෙස බංග්ලාදේශ කණ්ඩායම කඩුලු 8ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 146කි.
+
+ඒ අනුව තරගය ලකුණු 50කින් ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/df67e52d.json)
+
+---
 
 ### Red Cross says 22 killed in strike near its Gaza office
 
@@ -2333,27 +2355,5 @@ Meanwhile, the President visited the Holy Earth in front of the Posan Pournami a
 [Data](articles/5acda1a5.json)
 
 [Extended Data](ext_articles/5acda1a5.ext.json)
-
----
-
-### Negotiations underway with China to finalize arrangements on debt repayment – President
-
-*2024-06-21 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100013/negotiations-underway-with-china-to-finalize-arrangements-on-debt-repayment-president) · `en`
-
-President Ranil Wickremesinghe emphasized the imperative of not forgetting the hardships endured in the past due to shortages of essential resources such as medicines, fuel and fertilizers critical for the country.
-
-He called upon all citizens to unite behind the government’s initiative aimed at fostering a new economic transformation in Sri Lanka, ensuring that future generations do not have to face similar challenges.
-
-He stated that the government concluded the second round of discussions with the IMF Board of Directors last week received confirmation that the program guiding Sri Lanka is on the right track.
-
-“Consequently, we have been granted an extension to repay our debts. Currently, negotiations are underway with China to finalize these arrangements.”
-
-Additionally, discussions are on-going with both Paris Club and non-Paris Club member countries, as well as with official creditors’ committees, to reach agreements, he said.
-
-...
-
-[Data](articles/30d78fe5.json)
-
-[Extended Data](ext_articles/30d78fe5.ext.json)
 
 ---

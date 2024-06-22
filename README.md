@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 13:34:57**
+As of **2024-06-22 13:53:47**
 
 ## Newspaper Stats
 
-*Scraped **31,565** Articles*
+*Scraped **31,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,65 @@ adaderanalk | 3,578
 tamilmirrorlk | 3,706
 dailymirrorlk | 4,733
 virakesarilk | 4,906
-adaderanasinhalalk | 5,147
+adaderanasinhalalk | 5,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,564 (100.0%) of 31,565 articles have been extended.
+31,565 (100.0%) of 31,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### බ්‍රිතාන්‍ය මැතිවරණ සටනට  AI අපේක්ෂකයෙක්
+### 2025 දී එන දේපොළ බද්ද
+
+*2024-06-22 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198020) · `si`
+
+දේපොළ බද්ද ක්‍රියාත්මක වන්නේ 2025 වසරේ පළමු කාර්තුවෙන් පසුව බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ, මෙම බද්ද හරහා සියයට 90ක් වූ ජනතාවට ප්‍රතිලාභ හිමිවන බවය.
+
+◼️
+
+[Data](articles/11972b26.json)
+
+---
+
+### Ai candidate to British electoral fight
 
 *2024-06-22 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198019) · `si`
 
-විප්ලවීය AI තාක්ෂණය එනම් කෘත්‍රීම බුද්ධි තාක්ෂණය දැන් ලෝකය ආක්‍රමණය කර අවසන්ය.
+Arted intelligence technology, a groundbreaking AI, is making waves in the UK's July 4 general election. Independent candidate Steve Endotot, aged 59, is leveraging AI, named "AI Steve," in his campaign, focusing on Samarizer rights and housing issues. This marks a historic moment where AI could potentially influence politics, with Steve aiming to form a new party and possibly become the world's first AI legislator. However, the British Election Commission clarifies that if AI wins, it cannot hold the seat, highlighting ethical considerations around AI representation in governance.
 
-එළැඹෙන ජූලි 4 වනදා ට යෙදී ඇති බ්‍රිතාන්‍ය මහා මැතිවරණයට සමගාමීව නැවතත් AI තාක්ෂණය සම්බන්ධව වැඩි අවධානයක් යොමුවී තිබේ.
+🟩
 
-ඒ මෙවර බ්‍රිතාන්‍ය මැතිවරණයට ඉදිරිපත්ව ඇති කෘත්‍රීම බුද්ධි තාක්ෂණයෙන් නිපදවූ අරුම පුදුම අපේක්ෂකයා හේතුවෙනි.
+The revolutionary ai technique, Arted intelligence technology has now invaded the world.
 
-ස්වාධීන අපේක්ෂකයෙක් ලෙස මෙවර මැතිවරණයට ඉදිරිපත්වන 59 හැවිරිදි අපේක්ෂක ස්ටීව් එන්ඩකොට් සිය මැතිවරණ ප්‍රචාරණ වැඩසටහන ක්‍රියාත්මක කරන්නේ AI ස්ටීව් නම් කෘත්‍රීම බුද්ධි චරිතය පාදක කරගෙනය.
+The British general election on July 4 has been rested again.
 
-ඔහු AI ස්ටීව්ගේ ආකෘතියක් රැගෙන සිය මැතිවරණ ව්‍යාපාරය මෙහෙයවන ආකාරය දැකගත හැකිය.
+This time the artistic township has been amazed by intelligence technology.
 
-AI ස්ටීව් සමරිසි අයිතීන් පිළිබඳව මෙන්ම නිවාස මිලදීගැනීමේ දී ඇතිවන ගැටලු වෙනුවෙන් පවා පෙනී සිටියි.
+59-year-old candidate Steve Endotot, which is extinguished as an independent candidate, operates its election campaign to artistic role in artist.
 
-එමෙන්ම AI ස්ටීව් අමතා අනාගත දේශපාලන ප්‍රතිපත්ති සම්පාදනය පිළිබඳ අදහස් පළ කිරීමේ අවස්ථාව ද ජනතාවට ලබා දී තිබේ.
+He can take AI Steve's model and conduct the election campaign.
 
-ස්ටීව් එන්ඩකොට් නව දේශපාලන පක්ෂයක් පිහිටුවීමට සැලසුම් කරමින් සිටින අතර ඊට තවත් AI අපේක්ෂකයින් බඳවාගැනීම ඔහුගේ අපේක්ෂාව බව සඳහන් වේ.
+Ai Steve is appearing on the rights of Samarizer as well as issues in the home purchasing.
 
-යම් හෙයකින් ස්ටීව් මෙවර මැතිවරණය ජයගතහොත් ඔහු ලොව පළමු AI නීති සම්පාදකයා බවට පත්වීමේ අවස්ථාවක් පවතී.
+It is also the opportunity to call AI Steve and expressed their views on future political policies.
 
-...
+Steve Endsoutt is planning to establish a new political party, which is said to have been recruiting more candidates.
+
+If Steve won the election this year, there is a chance to become the world's first AI lawmaker.
+
+However, the British Election Commission says the British Election Commission says that if the AI ​​has won the election, the same seat is not to the AI ​​Steve.
+
+◼️
 
 [Data](articles/9a8de793.json)
+
+[Extended Data](ext_articles/9a8de793.ext.json)
 
 ---
 
@@ -2355,23 +2377,5 @@ Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman 
 [Data](articles/fe8a1090.json)
 
 [Extended Data](ext_articles/fe8a1090.ext.json)
-
----
-
-### Perfume garbage
-
-*2024-06-21 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197985) · `si`
-
-Two businesses in Homagama celebrated Poson Poya, a significant Buddhist festival, with special events.
-
-🟩
-
-Two Business establishments in Homagama were organized to mark the Poson Poya.
-
-◼️
-
-[Data](articles/36389bbe.json)
-
-[Extended Data](ext_articles/36389bbe.ext.json)
 
 ---

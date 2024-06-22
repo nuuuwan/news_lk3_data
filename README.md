@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 14:53:30**
+As of **2024-06-22 15:04:27**
 
 ## Newspaper Stats
 
-*Scraped **31,569** Articles*
+*Scraped **31,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,579
+adaderanalk | 3,580
 tamilmirrorlk | 3,707
 dailymirrorlk | 4,733
 virakesarilk | 4,906
@@ -26,23 +26,41 @@ adaderanasinhalalk | 5,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,568 (100.0%) of 31,569 articles have been extended.
+31,569 (100.0%) of 31,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### கோர விபத்தில் மூதாட்டி மரணம் - 14 பேர் படுகாயம்
+### Arun Siddharth appointed MJP Jaffna District Organiser
+
+*2024-06-22 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100026/arun-siddharth-appointed-mjp-jaffna-district-organiser) · `en`
+
+Political and social activist Arun Siddharth has been appointed as the Jaffna District Organiser and a Supreme Council member of the Mawbima Janatha Party (MJP).
+
+◼️
+
+[Data](articles/3c394d8a.json)
+
+---
+
+### Elderly death in an accident - 14 people injured
 
 *2024-06-22 14:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கோர-விபத்தில்-மூதாட்டி-மரணம்-14-பேர்-படுகாயம்/72-339242) · `ta`
 
-மன்னார் -மதவாச்சி பிரதான வீதி, முருங்கன் பொலிஸ் பிரிவிற்கு உட்பட்ட இசைமாலைத் தாழ்வு பகுதியில் நேற்று (21)மாலை  ஹயஸ் ரக வாகனம் மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியதில்  அதில் பயணித்த 14 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்பட்டது.
+A crash involving a Hayas vehicle resulted in 14 injuries and one fatality near Mannar-Madawachi. Victims were hospitalized, with seven transferred for further care.
 
-விபத்தில்  காயமடைந்த அனைவரும்  முருங்கன் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு       மேலதிக சிகிச்சைக்காக 7 பேர் மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டனர்.
+🟩
+
+14 people were injured when a Hayas vehicle crashed into an electric pole yesterday evening (21) in the Mannar -Madawachi main road, Murungan Police Division.
+
+All those injured in the accident were taken to Murugan Hospital and seven persons were transferred to the Mannar District General Hospital for further treatment.
 
 ◼️
 
 [Data](articles/e41eb60d.json)
+
+[Extended Data](ext_articles/e41eb60d.ext.json)
 
 ---
 
@@ -2349,23 +2367,5 @@ Accordingly, 289 detained holders who have been imprisoned for minor mistakes ha
 [Data](articles/effdfbd3.json)
 
 [Extended Data](ext_articles/effdfbd3.ext.json)
-
----
-
-### 289 prisoners pardoned for Poson Poya
-
-*2024-06-21 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100006/289-prisoners-pardoned-for-poson-poya) · `en`
-
-The Department of Prisons has released 289 inmates from prisons across the island today (June 21) under a special state pardon granted by President Ranil Wickremesinghe in view of Poson Poya Day.
-
-Prisons Spokesman Gamini B. Dissanayake stated that accordingly, 263 male inmates and 06 female inmates serving time for minor offences were granted a state pardon, in accordance with Article 34 of the Constitution of Sri Lanka.
-
-Among the pardoned prisoners were 19 detained in Welikada Prison, 30 in Mahara Prison, 30 in Wariyapola Prison and 28 inmates in Kalutara Prison, according to the Department of Prisons.
-
-◼️
-
-[Data](articles/c234564a.json)
-
-[Extended Data](ext_articles/c234564a.ext.json)
 
 ---

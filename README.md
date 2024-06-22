@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 17:04:35**
+As of **2024-06-22 17:19:29**
 
 ## Newspaper Stats
 
-*Scraped **31,585** Articles*
+*Scraped **31,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,582
 tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,153
+adaderanasinhalalk | 5,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,584 (100.0%) of 31,585 articles have been extended.
+31,585 (100.0%) of 31,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ඉදිරි පැය 36 ගැන අලුත්ම කාලගුණ නිවේදනය
+
+*2024-06-22 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198026) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ඉක්මවූ තද වැසි ඇති විය හැකිය.
+
+ඉදිරි පැය 36 සඳහා නි‍වේදනයක් නිකුත් කරමින් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවය.
+
+මාතලේ, අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලටත් සිහින් වැසි වාර කිහිපයක් ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/54d2dab1.json)
+
+---
 
 ### Two from same family killed as three-wheeler collides with bus
 
@@ -49,6 +67,8 @@ The son, who was driving the three-wheeler, and the father, who was a passenger,
 ◼️
 
 [Data](articles/0feeb7d7.json)
+
+[Extended Data](ext_articles/0feeb7d7.ext.json)
 
 ---
 
@@ -2335,27 +2355,5 @@ The Animals Humanitarian Management Association, Wet of Beicher, Hard Meal, Mill
 [Data](articles/7b5515fb.json)
 
 [Extended Data](ext_articles/7b5515fb.ext.json)
-
----
-
-### Archbishop replies to Maithri's statement
-
-*2024-06-21 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197993) · `si`
-
-The Archbishop of Colombo, Pharaoh Krishantha, responded to former President Maithripala Sirisena's statement, clarifying that aid funds, totaling Rs. 500 million, were used for Easter attack victims. He criticized Sirisena's "false propaganda," emphasizing the Catholic Church's transparency and humility in its charitable efforts.
-
-🟩
-
-The Archbishop Director of Colombo Pharaoh Krishantha says that the aid received by various parties have spent Rs. 500 million for the victims of the Easter attack.
-
-He was responding to the statement made by former President Maithripala Sirisena yesterday (20).
-
-"Maithripala Sirisena has been a very bankrupt. Such false propaganda calls his bankruptcy before. The Sethshena, a relief institute, which has already received more than Rs.. Christ has a teaching that the right hand should not know the right. That is why we do so confidently without advertising what I do from the Catholic Church. "
-
-◼️
-
-[Data](articles/516a4d45.json)
-
-[Extended Data](ext_articles/516a4d45.ext.json)
 
 ---

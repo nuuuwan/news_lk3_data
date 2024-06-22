@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 05:38:00**
+As of **2024-06-22 05:59:46**
 
 ## Newspaper Stats
 
-*Scraped **31,515** Articles*
+*Scraped **31,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,263 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
-islandlk | 1,730
+islandlk | 1,738
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
 adaderanalk | 3,570
 tamilmirrorlk | 3,700
 dailymirrorlk | 4,733
-virakesarilk | 4,894
+virakesarilk | 4,902
 adaderanasinhalalk | 5,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,515 (100.0%) of 31,515 articles have been extended.
+31,515 (99.9%) of 31,531 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-22 (Saturday)
+
+### Standard Chartered Sri Lanka bags multiple honours at Asset AAA and Global Finance Awards 2024
+
+*2024-06-22 05:43:00* · [`islandlk`](http://island.lk/standard-chartered-sri-lanka-bags-multiple-honours-at-asset-aaa-and-global-finance-awards-2024/) · `en`
+
+Standard Chartered Bank Sri Lanka has achieved outstanding recognition, clinching multiple prestigious awards at the Asset Triple A Awards 2024 and being named among the leading Asia-Pacific banks in 2024 by Global Finance.
+
+The accolades at the Asset Triple A Awards recognise the Bank’s excellence across domains including cash management, trade finance, corporate treasury management, and asset servicing, while the Global Finance award highlights Standard Chartered’s position among the top sub-custodian banks in the Asia-Pacific region.
+
+At the Asset Triple A Treasury, Trade, SSC (Sustainable Supply Chain) and Risk Management Awards 2024, the Bank was honoured with the ‘Best Service Provider for Cash Management in Sri Lanka’ and ‘Best Service Provider for Trade Finance in Sri Lanka’ awards, affirming its outstanding capabilities in delivering cutting-edge solutions to support the cash management and trade finance needs of corporate clients.
+
+...
+
+[Data](articles/3b8bb3b8.json)
+
+---
+
+### DFCC Aloka hosts special event to celebrate women in healthcare at Kandy General Hospital
+
+*2024-06-22 05:41:00* · [`islandlk`](http://island.lk/dfcc-aloka-hosts-special-event-to-celebrate-women-in-healthcare-at-kandy-general-hospital/) · `en`
+
+DFCC Aloka, the women-centric banking proposition from DFCC Bank, recently conducted a unique programme to honour women in healthcare at the Kandy General Hospital to celebrate International Women’s Day. The event witnessed several exciting activities, together with an insightful panel discussion, which highlighted women’s critical role in supporting the health and well-being of our communities.
+
+Shera Hassan, Vice President and Head of Pinnacle Planning and Implementation, addressed the gathering and emphasised that DFCC Aloka can facilitate skills development workshops and training programs designed to enhance nurses’ soft skills, which are highly sought after in the job market. These workshops cover various topics, including digital literacy, leadership development, and communication skills, all supported by DFCC Aloka. She also affirmed that DFCC Aloka is dedicated to providing a wide range of products and services designed to meet the varied financial needs of its customers.
+
+...
+
+[Data](articles/a6feae5b.json)
+
+---
+
+### LOLC Finance pledges commitment to ocean conservation and sustainability
+
+*2024-06-22 05:40:00* · [`islandlk`](http://island.lk/lolc-finance-pledges-commitment-to-ocean-conservation-and-sustainability/) · `en`
+
+In a resolute commitment to environmental stewardship and sustainable corporate practices, LOLC Finance marked World Environment Day and Ocean Day with a series of impactful initiatives aimed at fostering ecological conservation and awareness.
+
+World Environment Day holds profound significance for LOLC Finance, underscoring the increasing importance of environmental, social, and governance (ESG) factors in financial decisions. Embracing this ethos, LOLC Finance has actively engaged in environmental initiatives, mitigating risks associated with climate change and environmental degradation.
+
+...
+
+[Data](articles/14680f7d.json)
+
+---
+
+### SL enters into MOU on curbing money laundering with Bahrain
+
+*2024-06-22 05:33:00* · [`islandlk`](http://island.lk/sl-enters-into-mou-on-curbing-money-laundering-with-bahrain/) · `en`
+
+The Financial Intelligence Unit of Sri Lanka (FIU-Sri Lanka) entered into a Memorandum of Understanding (MOU) with the Financial Intelligence National Center of the Kingdom of Bahrain (FINC-Bahrain) on June 04, 2024, at the 30th Plenary of the Egmont Group, held in Paris, France, to exchange financial intelligence related to money laundering (ML) and associated predicate offences, and in relation to terrorist financing (TF) offence. This MOU has been entered into by the FIU-Sri Lanka, in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006.
+
+The Financial Intelligence Units across the world enter into MOUs to co-operate with their global counterparts through exchange of information, in order to combat ML/TF, which are more often internationally connected and emanating from widespread criminal activities. The FINC-Bahrain serves as the Kingdom of Bahrain’s central hub fo the collection, analysis, and dissemination of information regarding ML/TF. The FIU-
+
+...
+
+[Data](articles/f1ef488e.json)
+
+---
+
+### Lankem Agro launches nationwide tree planting initiative for World Environment Day
+
+*2024-06-22 05:32:00* · [`islandlk`](http://island.lk/lankem-agro-launches-nationwide-tree-planting-initiative-for-world-environment-day/) · `en`
+
+Lankem Agro, the agribusiness company of the diversified conglomerate Lankem Ceylon PLC, announced a transformative initiative to celebrate World Environment Day on June 5th, followed by a tree-planting program. This ambitious effort underscores Lankem Agro’s dedication to environmental stewardship and food security, aligning with its core values and long-term sustainability goals.
+
+As part of this initiative, Lankem Agro will plant 1,500 trees across the country, including 1,300 jackfruit trees and 200 mango trees. These species were carefully selected for their substantial nutritional benefits and cultural importance, reflecting the company’s commitment to promoting sustainable and healthy food sources while assisting to improve food security in Sri Lanka. Furthermore, the program is designed to address environmental concerns and support rural communities by providing valuable resources and education on sustainable agriculture.
+
+...
+
+[Data](articles/bd4ed676.json)
+
+---
+
+### IOM trains journalists on “Responsible Reporting of Human Trafficking Incidents” in mainstream media
+
+*2024-06-22 05:27:00* · [`islandlk`](http://island.lk/iom-trains-journalists-on-responsible-reporting-of-human-trafficking-incidents-in-mainstream-media/) · `en`
+
+The International Organization for Migration (IOM) conducted a two-day training programme entitled “Responsible Reporting of Human Trafficking Incidents” for Journalists attached to various mainstream electronic and print media last week.
+
+The objective of the programme was to strengthen the capacity and raise awareness among Journalists on the effective identification of incidents of human trafficking as well as on ethical and responsible reporting of such incidents.
+
+The training covered a wide array of topics including victim-centered approaches in the identification, referral, ethical and responsible reporting of cases on media platforms.
+
+A senior representative from the Ministry of Defence representing the National Anti-Human Trafficking Task Force (NAHTTF) and IOM officials contributed to the training sessions.
+
+Further, the training emphasised on the importance of using the accurate and correct terminologies related to trafficking incidents in media reporting.
+
+...
+
+[Data](articles/b6b4a1b7.json)
+
+---
+
+### 19 வயதுக்குட்பட்ட இலங்கை அணியின் உதவித் தலைவரானார் ஷாருஜன்
+
+*2024-06-22 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186671) · `ta`
+
+இங்கிலாந்துக்கு கிரிக்கெட் விஜயம் செய்யவுள்ள 19 வயதுக்குபட்பட்ட இலங்கை அணியின் உதவித் தலைவராக சண்முகநாதன் ஷாருஜன் நியமிக்கப்பட்டுள்ளார். இவர் கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி அணியின் தலைவரும் விக்கெட்காப்பாளருமாவார்.
+
+தென் ஆபிரிக்காவில் இந்த வருட முற்பகுதியில் நடைபெற்ற 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் 5 போட்டிகளில் 118 ஓட்டங்களைப் பெற்றதுடன் 7 ஆட்டமிழப்புகளில் (5 பிடிகள், 2 ஸ்டம்ப்கள்) பங்களிப்பு செய்திருந்தார்.
+
+இதேவேளை, 19 வயதுக்குட்பட்ட இலங்கை அணியின் தலைவராக காலி, மஹிந்த கல்லூரி வீரர் தினுர களுபஹன நியமிக்கப்பட்டுள்ளார்.
+
+அவரும் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் பிரகாசித்திருந்தார். 3 அரைச் சதங்களுடன் 196 ஓட்டங்களைப் பெற்ற அவர், 5 விக்கெட்களையம் கைப்பற்றியிருந்தார்.
+
+அணியில் இடம்பெறுவோரில் புலிந்து பெரேரா, விஹாஸ் தெவ்மிக்க ஆகியோரும் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் விளையாடிய மற்றைய இரண்டு வீரர்களாவர்.
+
+...
+
+[Data](articles/6952977c.json)
+
+---
+
+### கர்நாடகாவில் முத்தையா முரளிதரன் ரூ.1400 கோடி முதலீடு!
+
+*2024-06-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186670) · `ta`
+
+இலங்கை அணியின் முன்னாள் நட்சத்திர கிரிக்கெட் வீரர் முத்தையா முரளிதரன் கர்நாடக மாநிலத்தில் ரூ.1,400 கோடி முதலீட்டில் குளிர்பான நிறுவனத்தை தொடங்கியுள்ளார்.
+
+குளிர்பானம் மற்றும் இனிப்பு வகை பொருட்களை உற்பத்தி செய்யும் தொழிற்சாலைக்காகவே முத்தையா முரளிதரன் முதலீடு செய்துள்ளதாக தகவல்கள் மேலும் குறிப்பிடுகின்றன.
+
+கர்நாடக மாநில பாரிய மற்றும் சிறுத் தொழிற்துறை அமைச்சர் M.P.பாட்டிலை மேற்கோள்காட்டி இந்த செய்தி வெளியிடப்பட்டுள்ளது.
+
+இலங்கையில் ஆரம்பிக்கப்பட்ட தொழிற்சாலையின் விரிவாக்கமாகவே, இந்தியாவில் தொழிற்சாலை ஆரம்பிக்க முத்தையா முரளிதரன் நடவடிக்கை எடுத்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இந்த தொழிற்சாலை நிர்மாணத்திற்காக 46 ஏக்கர் நிலப்பரப்பு ஒதுக்கப்பட்டுள்ளதுடன், 2025ம் ஆண்டு ஜனவரி மாதம் முதல் உற்பத்தி நடவடிக்கைகள் ஆரம்பிக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a04a8039.json)
+
+---
+
+### பொசன் பண்டிகை தினத்தை முன்னிட்டு யாழ்ப்பாண போதனா வைத்தியசாலையில் கண்புரை சிகிச்சை
+
+*2024-06-22 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186669) · `ta`
+
+பொசன் பண்டிகை தினத்தை முன்னிட்டு யாழ்ப்பாண போதனா வைத்தியசாலையில் 125 இற்கும் மேற்பட்டவர்களுக்கு இன்று கண்புரை சிகிச்சையளிக்கப்பட்டது.
+
+அலாக்கா மற்றும் ஆனந்தா பவுண்டேசனின் பங்களிப்புடன் 51  இராணுவ படைப்பிரிவின் உதவியுடன் குறித்த கண் நோயாளர்களுக்கான சிகிச்சை வைத்திய கலாநிதி மலரவனின் தலைமையில் முன்னெடுக்கப்பட்டது.
+
+நிகழ்வில் வடக்கு மாகாண சுகாதார சேவைகள் பணிப்பாளர், யாழ் மாவட்ட இராணுவ கட்டளை தளபதி, வடக்கு மாகாண பிரதி பொலிஸ்மா அதிபர், மற்றும் யாழ் போதனா வைத்தியசாலை பணிப்பாளர், வைத்தியர்கள் தாதியர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/5cbdea55.json)
+
+---
+
+### யாழில் பதிவற்ற மோட்டார் வாகனம், வாளுடன் கைது
+
+*2024-06-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186668) · `ta`
+
+யாழில் பதிவற்ற மோட்டார் வாகனம் ஒன்றினையும் ஐந்து வாளினையும் யாழ்ப்பாணம் பொலிசார் வெள்ளிக்கிழமை (21) அதிகாலை கைப்பற்றியுள்ளதாக தெரிவித்தனர்.
+
+யாழ்ப்பாணம் நகர் பகுதியில் விசேட ரோந்து பணிகளில் ஈடுபட்டிருந்த யாழ்ப்பாணம் பொலிசார் சந்தேகத்திற்கிடமான முறையில் பயணித்த மோட்டார் வாகனத்தின்  வழிமறித்து சோதனையிட்ட நிலையில் வாகனப் பதிவு இன்றி வாகனம் பயணித்தமை தெரியவந்தது.
+
+இதனையடுத்து சந்தேகநபரான நவாலி பகுதியினை சேர்ந்த இளைஞர் ஒருவர் கைது செய்யப்பட்டு முன்னெடுக்கப்பட்ட விசாரணைகளின் பிரகாரம் அவரது வீட்டிலிருந்து ஐந்து வாள்கள் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/9a758d15.json)
+
+---
+
+### குவின்டன் டி கொக், டேவிட் மில்லரின் அதிரடிகள் தென் ஆபிரிக்காவின வெற்றிக்கு வித்திட்டன
+
+*2024-06-22 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186667) · `ta`
+
+சென். லூசியா, க்ரொஸ் ஐலட் டெரன் சமி தேசிய கிரிக்கெட் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் பரபரப்புக்கு மத்தியில் நிறைவுபெற்ற குழு 2க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை 7 ஓட்டங்களால் தென் ஆபிரிக்கா வெற்றிகொண்டது.
+
+ரி20 உலகக் கிண்ண வரலாற்றில் இங்கிலாந்தை 6ஆவது தடவையாக சந்தித்த தென் ஆபிரிக்கா ஈட்டிய 5ஆவது வெற்றி இதுவாகும்.
+
+இன்றைய வெற்றியுடன் குழு 2இல் 2 வெற்றிகளுடன் 4 புள்ளிகளைப் பெற்றுள்ள தென் ஆபிரிக்கா அரை இறுதியில் விளையாடும் தனது வாய்ப்பை சற்று அதிகரித்துக்கொண்டுள்ளது.
+
+அத்துடன் இந்த உலகக் கிண்ணத்தில் தென் ஆபிரிக்கா இதுவரை தோல்வி அடையாத அணியாக இருக்கிறது.
+
+குவின்டன் டி கொக், டேவிட் மில்லர் ஆகியோரின் அதிரடி துடுப்பாட்டங்கள், கேஷவ் மஹாராஜின் சிறப்பான பந்துவீச்சு, அன்ரிச் நோக்யாவின் சாதுரியமும் கட்டுப்பாடும் கலந்த கடைசி ஓவர் என்பன தென் ஆபிரிக்காவை வெற்றிபெறச் செய்தன.
+
+அதேவேளை, இங்கிலாந்தின் முன்வரிசை வீரர்களின் மோசமான துடுப்பாட்டமும் தென் ஆபிரிக்காவுக்கு சாதகமான முடிவு கிடைக்க வழிவகுத்தன.
+
+...
+
+[Data](articles/bf6ce57e.json)
+
+---
+
+### யாழில் 2024 ம் ஆண்டுக்கான சர்வதேச யோகா தின சிறப்பு நிகழ்வு ; ஆயிரத்திற்கு மேற்பட்டோரின் பங்கேற்பு
+
+*2024-06-22 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186666) · `ta`
+
+இந்தியத் துணைத் தூதரகத்தின் ஏற்பாட்டில் யாழ்ப்பாணம் பண்பாட்டு மையத்தில் காலை 7:30 முதல் 8:30 மணி வரை யோகா நிகழ்ச்சி நடைபெற்றது.
+
+இந்நிகழ்வில் இந்தியத் துணைத் தூதர் சாய் முரளி, வடமாகாண சபை அவைத் தலைவர் சி.வி.கே.சிவஞானம், வடக்கு மாகாண கல்வி அமைச்சின் செயலாளர் பற்றிக் டிரஞ்சன், வடக்கு மாகாண விவசாயம் மற்றும் கமநல சேவைகள் மற்றும் சுகாதார அமைச்சின் செயலாளர் எம்.ஜெகு,யாழ்ப்பாணம் போதனா வைத்தியசாலையின் பணிப்பாளர் த.சத்தியமூர்த்தி, யாழ் மாநகர சபை ஆணையாளர் எஸ்.கிருஷ்ணேந்திரன், இந்தியத் தூதரக உயர் அதிகாரிகள் உட்படப் பலரும் கலந்துகொண்டனர்.
+
+நிகழ்ச்சியை ஆரம்பித்து வைத்து உரையாற்றிய துணைத் தூதுவர் சாய் முரளி, இந்தியாவில் யோகாவின் பண்டைய தோற்றத்தை வலியுறுத்தினார், இதயம், உடல் மற்றும் ஆன்மாவை இணைக்கும் ஒரு முழுமையான பயிற்சியாக அதன் முக்கியத்துவத்தை வலியுறுத்தினார்.
+
+...
+
+[Data](articles/ce0e340f.json)
+
+---
+
 ### 2024-06-21 (Friday)
+
+### மன்னார் முருங்கன் பகுதியில் கோர விபத்து ; வயோதிப பெண் பலி
+
+*2024-06-21 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186665) · `ta`
+
+மன்னார் -மதவாச்சி பிரதான வீதி, முருங்கன் பொலிஸ் பிரிவிற்கு உட்பட்ட இசைமாலைத் தாழ்வுப் பகுதியில்  ஹயஸ் ரக வாகனம் மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியதில்  அதில் பயணித்த 14 பேர் காயமடைந்துள்ளதாகத் தெரிவிக்கப்பட்டது.
+
+கல்முனையில் இருந்து மன்னார் மறிச்சுக்கட்டி  பிரதேசத்திற்குக் குறித்த வாகனத்தில்  வருகை தந்தவர்களின் வாகனம்   முருங்கன், இசைமாலை தாழ்வு, நரிக்காடு  வளைவு பகுதியில் உள்ள மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியுள்ளது.
+
+விபத்தில்  காயமடைந்த அனைவரும்  முருங்கன் வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டு       மேலதிக சிகிச்சைக்காக 7 பேர் மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டனர்.
+
+◼️
+
+[Data](articles/d8533ebd.json)
+
+---
+
+### வைத்தியசாலை வீதி ஒரு வழிப்பாதையாக மாற்றம்!
+
+*2024-06-21 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186664) · `ta`
+
+வவுனியா பொது வைத்தியசாலை சுற்று வட்ட வீதி ஒரு வழிப்பாதையாக மாற்றுவதற்குத் தீர்மானிக்கப்பட்டுள்ளது.
+
+வவுனியா பொது வைத்தியசாலைக்குச் செல்லும் குறித்த  வீதியில் நீண்டகாலமாக வாகன நெரிசல் ஏற்ப்பட்டுவருகின்றது,இதனால் அந்த வீதியினை பயன்படுத்தும் பொதுமக்கள், பல்வேறு சிரமங்களை எதிர்நோக்கியிருந்ததுடன் நோயாளர்காவு வண்டிகளும் சிரமத்துடனேயே பயணிக்கவேண்டியிருந்தது.
+
+இந்நிலையில் குறித்த வீதியானது எதிர்வரும் வாரங்களிலிருந்து ஒரு வழிப்பாதையாக மாற்றுவதற்குத் தீர்மானிக்கப்பட்டுள்ளது. இவ்விடயம் தொடர்பாக வவுனியா பிரதேச ஒருங்கிணைப்பு கூட்டத்திலும் கருத்துக்கள் முன்வைக்கப்பட்டிருந்தது.
+
+அந்தவகையில் வவுனியா கண்டி வீதி வழியாக வருகைதரும் பொதுமக்கள் வழமைபோல வைத்தியசாலை சுற்று வட்டத்தினை பயன்படுத்தி வைத்தியசாலை வீதியால் தமது பயணத்தினை மேற்கொள்ள முடியும். அத்துடன் பூந்தோட்டம் பகுதியிலிருந்து வைத்தியசாலைக்கு வருகைதரும் பொதுமக்கள் கித்துள் வீதியினையோ அல்லது குளவீதியினை பயன்படுத்தி வைத்தியசாலைக்குச் செல்ல முடியும்.
+
+...
+
+[Data](articles/18f6b1d4.json)
+
+---
 
 ### South Africa wins
 
@@ -1354,6 +1592,24 @@ A Saudi study published last month said temperatures in the area are rising 0.4 
 
 ---
 
+### Once the pride of Hong Kong, Cathay Pacific becomes government’s punchbag
+
+*2024-06-21 10:40:00* · [`islandlk`](http://island.lk/once-the-pride-of-hong-kong-cathay-pacific-becomes-governments-punchbag/) · `en`
+
+For decades, Hong Kong’s Cathay Pacific Airways (CPA) stood as a proud symbol of the city’s international status and an exemplar of Asian aviation.
+
+These days, the flagship carrier is treated more like the Chinese-ruled financial hub’s bete noire, regularly receiving severe scrutiny and criticism from its own government as it struggles to recover from the fallout of the COVID-19 pandemic.
+
+After Cathay cancelled more than 700 flights scheduled between December and February, Hong Kong Chief Executive John Lee Ka-chiu told local reporters he was “very concerned” and wanted local aviation to “rebuild its capacity fast”.
+
+Criticism from the Transport and Logistics Bureau was followed in March by Cathay CEO Ronald Lam Siu-por being subject to a public grilling by the Legislative Council, where lawmakers slammed the airline’s “chaotic management”.
+
+...
+
+[Data](articles/72ad38d2.json)
+
+---
+
 ### Australia wins
 
 *2024-06-21 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197983) · `si`
@@ -1983,323 +2239,5 @@ Participating in this exhibition provides a platform for local industries to sho
 [Data](articles/7ee658cf.json)
 
 [Extended Data](ext_articles/7ee658cf.ext.json)
-
----
-
-### SLT-Mobitel Home Telephone offers unlimited calls
-
-*2024-06-21 03:16:27* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-Home-Telephone-offers-unlimited-calls/34-763326) · `en`
-
-Reinforcing leadership in fixed line voice services, SLT-Mobitel has unveiled an unlimited voice calling package tailored specially for families and small businesses.
-
-SLT-Mobitel recognises that customers rely on SLT-Mobitel’s fixed line services for clear, uninterrupted voice communication. The Unlimited Voice Package caters to this need comprehensively by removing all limitations on calling while providing the expected superior quality and reliability of its fixed line network
-
-SLT-Mobitel understands that the home phone is often a shared family resource. A key highlight is the package’s family-friendly approach, enabling the entire household to enjoy unlimited calling without restrictions. The package therefore embraces this reality enabling all family members and other customers who use a fixed line unlimited calls at an affordable price.
-
-...
-
-[Data](articles/da1d7aad.json)
-
-[Extended Data](ext_articles/da1d7aad.ext.json)
-
----
-
-### Stigmata’s ‘Summer Storm’, a head-banging success at Taphouse by RNR
-
-*2024-06-21 02:46:00* · [`islandlk`](http://island.lk/stigmatas-summer-storm-a-head-banging-success-at-taphouse-by-rnr/) · `en`
-
-Sri Lankan heavy metal pioneers Stigmata kicked off the ‘summer’ season with a high-octane performance together with fellow metal bands Encender and Trishira at ‘Summer Storm’ held at the Taphouse by RnR, Colombo recently.
-
-While filling the Taphouse is no easy task, Summer Storm was fully packed with a diverse audience from different ages, ethnicities and backgrounds brought together by their love for metal music. Once again, Stigmata delivered a mind-blowing performance and included several iconic tracks from all their previous albums, Hollow Dreams, Silent Chaos, Serpentine, Psalms of Conscious Martyrdom, The Ascetic Paradox. The band also thrilled the audience with a taste of new music from their fifth album which is due to be released later this year. The brand new mystical emotive single ‘The Absurd’ was a highlight.
-
-...
-
-[Data](articles/aafd1954.json)
-
-[Extended Data](ext_articles/aafd1954.ext.json)
-
----
-
-### ProMate gives used exercise books a second life to aid visually impaired students’ education
-
-*2024-06-21 02:44:00* · [`islandlk`](http://island.lk/promate-gives-used-exercise-books-a-second-life-to-aid-visually-impaired-students-education/) · `en`
-
-Leading stationery manufacturer ProMate Sri Lanka participated in an impactful book collection drive recently to help visually impaired students pursue their studies, engage in communication, and interact with the world. ProMate is a product of one of the most famed and oldest pioneer book publishers in Sri Lanka, Ratna Publishers.
-
-Due to rapid inflation and rising costs, the price of school supplies has also increased by a staggering 300%. This has exacerbated existing challenges for students, especially schools for the blind across the country faced with sourcing the necessary paper for their students.
-
-...
-
-[Data](articles/e8160691.json)
-
-[Extended Data](ext_articles/e8160691.ext.json)
-
----
-
-### Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024
-
-*2024-06-21 02:38:48* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-the-polycrisis-Linkages-and-synergies-between-Rio-Conventions-in-2024/4-763317) · `en`
-
-In 2024, all three Rio Conventions are convening to address their respective aspects of the global polycrisis
-
-The global challenge of climate change is deeply interconnected with other global crises and issues. Biodiversity and ecosystem loss as well as land degradation due to desertification and drought are all part of the overall “polycrisis” facing humanity in the 21st Century. In particular, vulnerable developing countries such as Sri Lanka are exposed to serious and intertwined threats to critical sectors such as agriculture, tourism, or the coastal zone.
-
-...
-
-[Data](articles/1a831d44.json)
-
-[Extended Data](ext_articles/1a831d44.ext.json)
-
----
-
-### Nestlé Lanka fosters positive behavioural change towards responsible waste management in future generations
-
-*2024-06-21 02:37:00* · [`islandlk`](http://island.lk/nestle-lanka-fosters-positive-behavioural-change-towards-responsible-waste-management-in-future-generations/) · `en`
-
-Conducts the All-Island Schools Art Competition in collaboration with the Ministry of Education and Central Environmental Authority
-
-Nestlé Lanka’s All-Island Schools Art Competition named ‘මිහි මව රකින්නට තිළි තුඩක් මවන රූ රටා’ (Preserving Mother Earth through the Expression of Art) concluded last week, awarding the winners of the Junior and Senior categories.
-
-This competition was organized in celebration of World Environment Day together with the Ministry of Education and Central Environmental Authority (CEA) as an extension of the School Waste Management Programme, an initiative which helps create awareness on responsible waste disposal in the future generation of Sri Lanka. The programme reached approximately 400,000 students in over 800 schools around the country this year. The art competition also received a striking 80,000 entries from students representing schools across the island.
-
-...
-
-[Data](articles/56ce0aec.json)
-
-[Extended Data](ext_articles/56ce0aec.ext.json)
-
----
-
-### Bourse hits positive trend following minister’s reference to govt.-creditors MoU
-
-*2024-06-21 02:30:00* · [`islandlk`](http://island.lk/bourse-hits-positive-trend-following-ministers-reference-to-govt-creditors-mou/) · `en`
-
-The stock market got into a positive trend yesterday after Minister Bandula Gunawardena’s statement to the media that negotiations with external creditors have come to a conclusion and that a MoU is to be signed with those creditors soon, market analysts said.
-
-Apart from that, the stock market was dominated by institutional buyers due to crossings while more than 50 percent of the turnover came from JKH. Consequently, banking sector counters performed well during the day.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 23 points while S and P SL-20 rose by 11 points. Turnover stood at Rs 2.07 billion with eight crossings.
-
-...
-
-[Data](articles/f4fd5245.json)
-
-[Extended Data](ext_articles/f4fd5245.ext.json)
-
----
-
-### RW’s ETB and NPP’s ST
-
-*2024-06-21 02:29:33* · [`dailyftlk`](https://www.ft.lk/columns/RW-s-ETB-and-NPP-s-ST/4-763315) · `en`
-
-RW’s Economic Transformation Bill (ETB) passed in Parliament aims to reach an economic growth target of 5% by 2027 and 8% thereafter for 15 years. ETB has been hailed as an ambitious yet achievable agenda for promoting sustainable development, enhancing productivity, social progress, and creating equal opportunities for all citizens. These objectives are expected to be achieved through a series of institutions such as the Economic Commission of Sri Lanka, Investment Zones, Office of International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and Trade.
-
-...
-
-[Data](articles/ac0119fa.json)
-
-[Extended Data](ext_articles/ac0119fa.ext.json)
-
----
-
-### Unifying the country via macroeconomic fundamentals to resolve economic crisis soon
-
-*2024-06-21 02:25:18* · [`dailyftlk`](https://www.ft.lk/opinion/Unifying-the-country-via-macroeconomic-fundamentals-to-resolve-economic-crisis-soon/14-763314) · `en`
-
-If we want to increase capital formation and consumption allocation on a continuous basis, the only thing we have to do is expand the entrepreneurial base and entrepreneurial activity
-
-...
-
-[Data](articles/d033570a.json)
-
-[Extended Data](ext_articles/d033570a.ext.json)
-
----
-
-### 'Royal' hostage proof of Sri Lanka Maharaathan
-
-*2024-06-21 02:10:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511jd8kkzjo) · `si`
-
-Archaeologists discovered over 700 ancient structures and around 80 inscriptions in a 1085 square meter area near the Rajarata Manawaya Complex in Ampara, marking it as the earliest archaeological evidence of King Mihindu Maha Raja. This site, including the Rajarata Manawaya Complex and the Rajagala Monastery, dates back to the era of King Mihindu Maha Raja, according to Professor Karunasena Hettiarachchi from the Sri Jayewardenepura University. The findings are significant as they provide insights into the history of the region, particularly the reign of King Mihindu Maha Raja.
-
-🟩
-
-There were none of 700 of the Four Health Head, Rajagala, Rajagala, and about 80 inscriptions were found.
-
-'Royal' hostage proof of Sri Lanka Maharaathan
-
-Archaeologists say that the inseling list of the Rajirich Manary Complex in Ampara, Rajagala monastery is the oldest archaeological evidence of Mihindu Maha Rathnathan.
-
-Professor Karunasena Hettiarachchi, the relics of the Sri Jayewardenepura, and the Archaeological Department of Sri Jayewardenura, is the relics of the Sri Jayewardeapura University, which has been relics for the properties of the Sri Jayewardenepura.He told the service.
-
-History states that Pubbatissa is known as the state of Pubbatha has been built by Prince Saddhatissa's son.
-
-About 700 archaeological monuments have been found in a 1085 square meter area and about 80 inscriptions have been found.
-
-◼️
-
-[Data](articles/6443f16a.json)
-
-[Extended Data](ext_articles/6443f16a.ext.json)
-
----
-
-### Australia - Bangladesh teams clash
-
-*2024-06-21 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186608) · `ta`
-
-Australia, aiming to become the first to win the ICC trophy in the T20 World Cup, faces Bangladesh in its opening Super 8 match. Australia, champions in the ICC World Test Championships and 50 World Cup, dominates Bangladesh, having won all previous encounters in the T20 format. The match takes place today at the Antigua, North Sound Sr. Vivian Richards Stadium. Despite Bangladesh's early victory against the Netherlands and loss to South Africa, Australia remains favored due to its strong batting lineup, including centuries from players like David Warner and Travis Head, and excellent bowling performance led by Adam Zampa and Macass Stoinis.
-
-🟩
-
-Australia will face the Super 8 R20 World Cup for Australia and Group 1 with the aim of becoming the first country to win the ICC winning bowls in the three -day international cricket tournament.
-
-Australia made champion titles last year in the ICC World Test Championships and the ICC 50 World Cup.
-
-Australia meets Bangladesh in its first Super 8 match, which will clash with 3 Asian countries in Group 1.
-
-The tournament will be held this morning at the Antigua, North Sound Sr. Vivian Richards Stadium.
-
-Australia has easily won the five occasions that the two teams have met in the T20 World Cup.
-
-Australia is in the international T20s and is based on Australia 6 - 4.
-
-In the first round of this year's R20 World Cup, Australia were easily won by Oman, England, Namibia and Scotland in their four matches.
-
-Bangladesh won the starting match in the T team and lost to South Africa in the next match.. However, in the last two matches, the Netherlands and Nepal advanced to Super 8.
-
-...
-
-[Data](articles/7132e1eb.json)
-
-[Extended Data](ext_articles/7132e1eb.ext.json)
-
----
-
-### One of the four suspects arrested in connection with the murder of a youth
-
-*2024-06-21 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186607) · `ta`
-
-A suspect, injured, was arrested among four linked to a youth's murder. He's hospitalized in Jaffna Teaching Hospital. Police hunt the remaining three, including one directly involved in the killing.
-
-🟩
-
-A suspect has been arrested with injuries as police are searching for four people in connection with the murder of a youth.
-
-The suspect was also sent to the Jaffna Teaching Hospital for treatment.
-
-The police are trying to arrest the other three suspects, with one of the four suspects involved in the murder.
-
-◼️
-
-[Data](articles/2b0a4895.json)
-
-[Extended Data](ext_articles/2b0a4895.ext.json)
-
----
-
-### Mobile Service to expedite the telecommunication program
-
-*2024-06-21 00:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-விரைவுபடுத்த-நடமாடும்-சேவை/175-339211) · `ta`
-
-The President's Office is launching a nationwide mobile service from April 26th to 30th to accelerate the 'Urumaya' National Program, aiming to provide land guarantees to 20 lakh people across the country. Departmental officials will visit villages to issue these guarantees. The initiative follows the issuance of numerous land guarantees under the project, emphasizing the importance of handing over old assurances or permits to authorities during the service.
-
-🟩
-
-The President's Office has decided to conduct a nationwide service from 26th to 30th of this month to expedite the 'Urumaya' National Program to provide land guarantees to 20 lakh people in the country.
-
-According to the President's Additional Secretary Chandra Herath, we are looking forward to sending all the departmental officials to the villages to provide land guarantees.
-
-The President of the President said at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-“A large number of land guarantees have been issued under the Urumaya Project. It has been decided to conduct a mobile service to expedite this program. Accordingly, the mobile service will be carried out nationwide from 26th to 30th of this month.
-
-All officials will participate in the mobile service to provide land guarantees to the people. He said that those who come to ensure that their old assurance or permits should be handed over to the authorities only. (A)
-
-◼️
-
-[Data](articles/5beabf03.json)
-
-[Extended Data](ext_articles/5beabf03.ext.json)
-
----
-
-### Jaishankar meets with mountain leaders
-
-*2024-06-21 00:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-ஜெய்சங்கர்-சந்திப்பு/175-339210) · `ta`
-
-Dr. S. Jaishankar met with Tamil leaders from India in Sri Lanka to discuss the Sri Lankan-Indian Development Corporation and further aid for Tamil Indians. The meeting included representatives from the Tamil Progressive Alliance, Ceylon Workers Congress, and government officials like the Education Minister and President's advisor. They discussed strengthening ties and resolving issues in Sri Lanka, with a focus on support for Tamil communities.
-
-🟩
-
-During the meeting between the Minister of External Affairs, Dr. S. Jaysankar and the Tamil leaders of the Indian origin, on the Sri Lankan -Indian Development Corporation and additional cooperation on the Tamils ​​of Indian origin.
-
-The meeting was held when Indian Foreign Minister Dr. S. Jaishankar arrived in Sri Lanka yesterday after an official visit.
-
-On behalf of the Tamil Progressive Alliance, its Deputy Leader V Irathakrishnan, Members of Parliament Velukumar and Udayakumar, its leader and the Governor of the Eastern Province, Senthil Thondaman and the Governor of the Eastern Province on behalf of the Ceylon Workers Congress. General Secretary and Minister Jeevan Thondaman and Member of Parliament Maruthapandi Rameswaran were also present.
-
-In addition, Education Minister Aravinda Kumar and President's senior adviser Vadivel Suarez were also present at the meeting.
-
-...
-
-[Data](articles/84db0b37.json)
-
-[Extended Data](ext_articles/84db0b37.ext.json)
-
----
-
-### Suriyakumar, Bumrah Abara Power;India won Afghan by 47 runs
-
-*2024-06-21 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186606) · `ta`
-
-In the Super 8 T20 World Cup Group 1 final at Barbados' Kensington Oval Stadium, India triumphed over Afghanistan by 47 runs. Suryakumar Yadav's second consecutive century and Jasprit Bumrah's bowling prowess were key to India's win. India scored 181/8 in 20 overs, with Suryakumar Yadav contributing 53 runs and Hardik Pandya 32. Afghanistan was restricted to 134/10, with Rashid Khan taking 3/28 and Bumrah 3/7.
-
-🟩
-
-India won by 47 runs in the Super 8 T20 World Cup for the Group 1, which came to an end at the Barbados and Brijdown Kensington Oval Stadium against Afghanistan.
-
-The second semi -century consecutive seventh consecutive consecrations by Suriyakumar Yadav and the control of bowlers, including Jasprit Bumrah, made India's victory.
-
-India won the first match and scored 181 runs for the loss of 8 wickets in 20 overs.
-
-Rohit Sharma (8) Virat Kohli shared 43 runs in the 2nd wicket with Rishabh Banta after the first player.
-
-Virat Kohli, who failed to shine in the first three matches in the World Cup this year, scored 24 runs off 24 balls.
-
-Shivam Dubey scored only 10 runs. (90- 4 wig.)
-
-Suriyakumar Yadav and Hardik Pandya both shared 60 runs in the 5th wicket.
-
-Suriyakumar Yadav scored 53 runs with 5 pounds, 3 sixes, Hardik Pandya 32 and 32 with 2 sixes.
-
-In the bowling, Rashid Khan took 3 wickets for 28 runs while Basalhak Baruchi took 3 wickets for 33 runs.
-
-...
-
-[Data](articles/a1143e0e.json)
-
-[Extended Data](ext_articles/a1143e0e.ext.json)
-
----
-
-### 2024-06-20 (Thursday)
-
-### Jaishankar went to India
-
-*2024-06-20 23:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-சென்றார்-ஜெய்சங்கர்/175-339209) · `ta`
-
-Indian Foreign Minister Jaishankar concluded a one-day official visit to Sri Lanka today, returning from Katunayake airport.
-
-🟩
-
-Indian Foreign Minister Jaishankar returned to Sri Lanka this evening after a one -day official visit.
-
-India returned from Katunayake airport this evening (20). Remble
-
-◼️
-
-[Data](articles/98a0e25b.json)
-
-[Extended Data](ext_articles/98a0e25b.ext.json)
 
 ---

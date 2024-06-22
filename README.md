@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 23:34:46**
+As of **2024-06-22 23:53:57**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,614 (100.0%) of 31,615 articles have been extended.
+31,615 (100.0%) of 31,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ඉන්දියාවට ජය
+### India wins
 
 *2024-06-22 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198037) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ බංග්ලාදේශය අතර තරගය ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+India triumphed over Bangladesh in the World Cup match, batting first after losing the toss. They scored 196/5 in 20 overs, with Hardik Pandya contributing 50. Bangladesh replied with 146/8, securing India's victory by 50 runs.
 
-තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව, ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවී ලකුණු 196ක් රැස්කළේය.
+The Indian team won the match between India and Bangladesh in the World Cup.
 
-එහිදී ඉන්දීය ඉනිම වෙනුවෙන් හර්දික් පාණ්ඩ්‍යා නොදැවී ලකුණු 50ක් රැස්කළේය.
+The Bangladesh team won the toss and invited the Indian team to bat first.
 
-ඊට පිළිතුරු ලෙස බංග්ලාදේශ කණ්ඩායම කඩුලු 8ක් දැවී රැස්කළ ලකුණු සංඛ්‍යාව 146කි.
+Accordingly, the team scored 196 runs for the loss of 5 wickets at the end of 20 overs.
 
-ඒ අනුව තරගය ලකුණු 50කින් ජයග්‍රහණය කිරීමට ඉන්දීය කණ්ඩායම සමත්විය.
+Hardick Pandy scored 50 runs for the innutrition.
+
+In response, the Bangladesh team scored 146 runs for the loss of 8 wickets.
+
+Accordingly, India won the match by 50 runs.
 
 ◼️
 
 [Data](articles/df67e52d.json)
+
+[Extended Data](ext_articles/df67e52d.ext.json)
 
 ---
 

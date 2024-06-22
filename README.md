@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 12:06:28**
+As of **2024-06-22 12:19:37**
 
 ## Newspaper Stats
 
-*Scraped **31,558** Articles*
+*Scraped **31,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,576
+adaderanalk | 3,577
 tamilmirrorlk | 3,705
 dailymirrorlk | 4,733
 virakesarilk | 4,905
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,555 (100.0%) of 31,558 articles have been extended.
+31,555 (100.0%) of 31,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Cardinal Ranjith clarifies financial support to Easter attack victims; ready to provide verification
+
+*2024-06-22 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100021/cardinal-ranjith-clarifies-financial-support-to-easter-attack-victims-ready-to-provide-verification) · `en`
+
+The Archbishop of Colombo Cardinal Malcolm Ranjith states that he has all the documents on how the funds received for victims of Easter Sunday terror attack was spent.
+
+Responding to the allegations levelled by former President Maithripala Sirisena, Cardinal Ranjith emphasized that the statement made by the former President regarding the relevant funds is completely baseless.
+
+“The statement made by former President Sirisena is completely hateful and inappropriate. He has a duty to ask the concerned parties what happened before making such remarks”, Cardinal Ranjith said.
+
+“Following the Easter attacks, we requested assistance from both international and domestic parties to address the needs of the affected individuals. These requirements were varied, including medical treatment in private hospitals for specialized care, and educational support for orphaned children. They required assistance from us in different areas.”
+
+...
+
+[Data](articles/583555ac.json)
+
+---
 
 ### රිය අනතුරු තුනකින් තරුණ ජීවිත 3ක් අහිමි වෙයි
 
@@ -2331,27 +2349,5 @@ In a T20 international competition, Brett wood was held for Australia.
 [Data](articles/f4d921c8.json)
 
 [Extended Data](ext_articles/f4d921c8.ext.json)
-
----
-
-### Man dies after falling into a power line
-
-*2024-06-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197982) · `si`
-
-A 23-year-old man died after falling into a power line in the Medagama area, Hanguranketha. The incident happened when he was working as a power staker near a lorry carrying a ventilator for the Sri Lanka Electricity Board.
-
-🟩
-
-The accident had taken place in the Medagama area in Hanguranketha yesterday afternoon.
-
-The death has occurred when a power staker was a ventilator at the lorry with a lorry from a lorry belonging to the Sri Lanka Electricity Board.
-
-The deceased has been identified as a 23 year old man who served on contract basis at Udabulathgama, a resident basis.
-
-◼️
-
-[Data](articles/8d371fd5.json)
-
-[Extended Data](ext_articles/8d371fd5.ext.json)
 
 ---

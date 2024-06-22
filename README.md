@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 22:19:31**
+As of **2024-06-22 22:34:44**
 
 ## Newspaper Stats
 
-*Scraped **31,613** Articles*
+*Scraped **31,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,764
-adaderanalk | 3,586
+adaderanalk | 3,587
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,611 (100.0%) of 31,613 articles have been extended.
+31,613 (100.0%) of 31,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Red Cross says 22 killed in strike near its Gaza office
+
+*2024-06-22 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100034/red-cross-says-22-killed-in-strike-near-its-gaza-office) · `en`
+
+The International Committee of the Red Cross says its offices in Gaza have been damaged by shelling, which killed 22 people who had sought shelter around its compound.
+
+“Heavy-calibre projectiles landed within metres of the office and residences of the International Committee of the Red Cross on Friday afternoon,” an ICRC statement said.
+
+It added that all parties had an obligation to take precautions to avoid harm to civilians and humanitarian facilities.
+
+On Saturday the Israel Defense Forces (IDF) said an initial inquiry found there was “no direct attack carried out by the IDF against a Red Cross facility”.
+
+It said the incident would be “quickly examined” and the findings presented.
+
+Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU condemned the attack and called for an independent investigation and for those responsible to be held accountable.
+
+...
+
+[Data](articles/91f66114.json)
+
+---
 
 ### The goal of Bangladesh received
 
@@ -252,23 +274,29 @@ The President has also informed the Army Commander to assist the Army for the re
 
 ---
 
-### තන්තිරිමලය ආලෝක පූජාව දෙවැනි දිනට අදත්
+### Tantirimale Aloka Pooja today
 
 *2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/uncategorized/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/1-410364) · `si`
 
-විජය පුවත්පත් සමාගම සංවිධානය කරන ලංකාදීප පොසොන් ආලෝක පූජාව 21 වැනි වරටත් මෙවර , ඓතිහාසික තන්තිරිමලේ රාජමහා විහාරස්ථානයේදී පොසොන් පොහොය යෙදුන ඊයේ (21දා ) ආරම්භ කෙරිණි.
+The Lankadeepa Pubadeepa PLC, under the Vijaya Newspaper Company, started its third annual Aloka Pooja event yesterday. Notable attendees included President Ranil Wickremesinghe, Deputy Leader of the UNP Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Minister SM. Chandrasena, and IGP Deshabandulu Tennakoon. The event involves briefings for Dhamma School students, who receive gifts and certificates. This ceremony continues today and tomorrow.
 
-උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ  ජනාධිපති රනිල් වික්‍රමසිංහ , විජය පුවත්පත් සමාගමේ සභාපති රංජිත් විජයවර්ධන  මහතා  ආලෝක පූජාව විවෘත කලහ.
+🟩
 
-මෙම අවස්ථාව සඳහා එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, රුවන් විජයවර්ධන, ජනාධිපති උපදේශක සාගල රත්නායක, හිටපු අමාත්‍යවරුන් වන එස්.එම්. චන්ද්‍රසේන, පී හැරිසන්, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් එක් වූහ.
+The Lankadeepa Pubadeepa PLC, organizing the Vijaya Newspaper Company (Lankapuvath) commenced the 3rd consecutive year, commenced yesterday (21).
 
-ඉන් අනතුරුව දහම් පාසල් සිසුන් ඉදිරිපත් කරන බැති ගී සංදර්ශනය සහ එය අවසානයේදී  එම සිසුන්ට වටිනා  ත්‍යාග සහ සහතික පත් ලබා දීම මෙහිදී සිදු කෙරිණි.
+President Ranil Wickremesinghe, Chairman of the Maha Sanghalam, Ven.
 
-තන්තිරිමලේ ආලෝක පූජාව අද (22) සහ හෙට 23  යන දිනවලදී ද පැවැත්වේ.
+Deputy Leader of the UNP, Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena and IGP, Deshabandulu Tennakoon, were also present.
+
+The briefing of Dhamma School students and eventually provide valuable gifts and certificates to the students.
+
+The Aloka Pooja will also be held today (22) and tomorrow.
 
 ◼️
 
 [Data](articles/10bc09ab.json)
+
+[Extended Data](ext_articles/10bc09ab.ext.json)
 
 ---
 
@@ -482,19 +510,25 @@ Governor of Eastern Province Sandil Thondaman, State Minister. Dakighteran also 
 
 ---
 
-### හෙට මිලි මීටර් 100 ඉක්මවා වහින පැති මෙන්න
+### Here are the sides of over 100 millise
 
 *2024-06-22 17:23:23* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-410360) · `si`
 
-බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Showers expected in Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya districts. Approximately 100mm rainfall forecasted for Western, Sabaragamuwa, Kandy, Nuwara Eliya, Puttalam districts. Thin clouds predicted in Matale, Anuradhapura, Mannar districts.
 
-එසේම බස්නාහිර හා සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය හා පුත්තලම දිස්‍ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලි මීටර් 100ක පමණ තද වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+🟩
 
-මාතලේ, අනුරාධපුර හා මන්නාරම දිස්ත්‍රික්කවල සිහින් වැසිවාර කිහිපයක් ඇතිවන බවද එම දෙපාර්මේන්තුව වැඩිදුරටත් කියයි.
+Showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya districts.
+
+The Department is also informed that there will be around 100 millilavian in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya and Puttalam districts.
+
+Several thin closed in Matale, Anuradhapura and Mannar districts will also occur.
 
 ◼️
 
 [Data](articles/f884b3cc.json)
+
+[Extended Data](ext_articles/f884b3cc.ext.json)
 
 ---
 
@@ -2319,29 +2353,5 @@ Additionally, discussions are on-going with both Paris Club and non-Paris Club m
 [Data](articles/30d78fe5.json)
 
 [Extended Data](ext_articles/30d78fe5.ext.json)
-
----
-
-### Tourist travelers attacked by civilians on religious accusations - again in Pakistan
-
-*2024-06-21 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186663) · `ta`
-
-In Pakistan, a tourist was attacked and killed by locals in Matyan, Swat district, over alleged religious offenses. The victim was dragged from a police station and set on fire. Despite being rescued by police, mosque members initiated the assault.
-
-🟩
-
-The incident in which a person was assaulted by civilians on charges of committing a religious man has again taken place in Pakistan.
-
-A gang who had dragged the traveler from the police station in the city of Matyan, Swat district, attacked and killed him.
-
-The BBC said the police had confirmed that the particular person was burnt.
-
-Police said that the mosque members were provoked to attack him, even though they rescued the tourist who had gone to the Swat Valley.
-
-◼️
-
-[Data](articles/98f46ddf.json)
-
-[Extended Data](ext_articles/98f46ddf.ext.json)
 
 ---

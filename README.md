@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 22:34:44**
+As of **2024-06-22 22:51:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,613 (100.0%) of 31,614 articles have been extended.
+31,614 (100.0%) of 31,614 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU conde
 ...
 
 [Data](articles/91f66114.json)
+
+[Extended Data](ext_articles/91f66114.ext.json)
 
 ---
 

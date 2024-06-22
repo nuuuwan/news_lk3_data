@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 16:50:31**
+As of **2024-06-22 17:04:35**
 
 ## Newspaper Stats
 
-*Scraped **31,584** Articles*
+*Scraped **31,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,757
-adaderanalk | 3,581
+adaderanalk | 3,582
 tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
 virakesarilk | 4,910
@@ -26,27 +26,53 @@ adaderanasinhalalk | 5,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,582 (100.0%) of 31,584 articles have been extended.
+31,584 (100.0%) of 31,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### බසවක්කුලම වැවේ දියනෑමට ගිය තරුණයා දියේ ගිලෙයි
+### Two from same family killed as three-wheeler collides with bus
+
+*2024-06-22 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100029/two-from-same-family-killed-as-three-wheeler-collides-with-bus) · `en`
+
+A mother and her teenage daughter have been killed in a tragic accident involving a bus and a three-wheeler that took place in the Kirulugama area of Palapathwela, Matale today (22).
+
+The three-wheeler, traveling from Wattegama to Anuradhapura, had collided with a bus heading from Dambulla to Kandy.
+
+At the time of the accident, a family of four including the mother, father, son, and daughter were traveling in the three-wheeler, Ada Derana reporter said.
+
+The deceased have been identified as 54-year-old Dhammika Padmini and her 17-year-old daughter, Sachini Tharaka.
+
+The son, who was driving the three-wheeler, and the father, who was a passenger, are currently receiving treatment in the Intensive Care Unit (ICU) of Matale District General Hospital, according to the reporter.
+
+◼️
+
+[Data](articles/0feeb7d7.json)
+
+---
+
+### Youth drowning drowning in Basavakkulama tank
 
 *2024-06-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198025) · `si`
 
-අනුරාධපුර, බසවක්කුලම වැවේ දිය නෑමට ගොස් දියේ ගිලී අනතුරට ලක් වු පුද්ගලයෙකු පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් මුදා ගෙන තිබේ.
+In Anuradhapura, a 19-year-old boy drowned in the Basavakkulama tank. A rescue team from the Anuradhapura Police Saving Unit responded but were delayed due to being called from designated areas. The victim was from the Dollakanda area.
 
-පොසොන් උත්සවය වෙනුවෙන් විශේෂ රාජකාරී සඳහා යොදවා තිබු අනුරාධපුර පොලිස් ජීවිතාරක්ෂක ඒකකයේ සිව් දෙනෙකුගෙන් යුතු නිලධාරීන් කණ්ඩායමක් විසින් අදාළ පුද්ගලයා මුදාගෙන ඇති බව පොලීසිය පැවසීය.
+🟩
 
-එලෙස අනතුරට ලක්ව තිබු‍ණේ 19 හැවිරිදි බුස්ස, දොළුකන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Police lived officials have been released by a man drowned in the Basavakkulama tank in Anuradhapura.
 
-දිය නෑමට සුදුසු ස්ථාන ලෙස නම්කර ඇති ස්ථානවලින් පමණක් දිය නෑම සිදුකරන ලෙස ජනතාවට දැනුම් දෙන පොලිස් මුලස්ථානය පවසන්නේ එම ස්ථානවල රාජකාරී සඳහා අනුයුක්ත කර ඇති පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් ලබාදෙන උපදෙස් මත කටයුතු කිරීමට පියවර ගත යුතු බවය.
+A team of officers of the Anuradhapura Police Saving Unit that has been deployed for special duties have been liberated by the police.
+
+The victim was a 19 year old resident of the Dollakanda area.
+
+The Police Headquarters of the Police Headquarters is said to take measures only from the places designated designated locations.
 
 ◼️
 
 [Data](articles/05479cd5.json)
+
+[Extended Data](ext_articles/05479cd5.ext.json)
 
 ---
 
@@ -789,6 +815,8 @@ On 18th June 2024 President Ranil Wickremesinghe, speaking in Parliament, critic
 ...
 
 [Data](articles/d6fb3a0c.json)
+
+[Extended Data](ext_articles/d6fb3a0c.ext.json)
 
 ---
 
@@ -2329,25 +2357,5 @@ He was responding to the statement made by former President Maithripala Sirisena
 [Data](articles/516a4d45.json)
 
 [Extended Data](ext_articles/516a4d45.ext.json)
-
----
-
-### Maithripala’s attempting to mask own ‘political bankruptcy’– Catholic Church responds to ex-President
-
-*2024-06-21 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100008/maithripalas-attempting-to-mask-own-political-bankruptcy-catholic-church-responds-to-ex-president) · `en`
-
-Responding to the allegations levelled by former President Maithripala Sirisena, a Spokesman for the Catholic Church on Friday said that the Archbishop of Colombo Cardinal Malcolm Ranjith has distributed over Rs. 500 million of financial aid received to assist the victims of the Easter Sunday attacks.
-
-National Catholic Mass Communications Director, Rev. Fr. Jude Krishantha charged that the former President is making up such stories in front of the media in order to cover up his own ‘political bankruptcy’.
-
-“Mr. Maithripala Sirisena is ‘politically bankrupt’ as of today. So, he makes all these false statements in front of media to cover up his ‘political bankruptcy’”, he said.
-
-“In fact, His Eminence the Cardinal has distributed over Rs. 500 million for these victims [of the Easter attacks]…The ‘Seth Sarana Caritas’, a welfare organization maintained under Cardinal Ranjith has spent the funds for the victims.”
-
-...
-
-[Data](articles/9e0448f9.json)
-
-[Extended Data](ext_articles/9e0448f9.ext.json)
 
 ---

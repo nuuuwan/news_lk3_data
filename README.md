@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 19:52:40**
+As of **2024-06-22 20:04:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,600 (100.0%) of 31,602 articles have been extended.
+31,602 (100.0%) of 31,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### කාසියේ වාසිය බංග්ලාදේශය ට
+### Bangladesh to advantage
 
 *2024-06-22 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198031) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ තවත් තරගයක් අද (22) පැවැත්වෙයි.
+In today's Twenty20 World Cup match, Bangladesh secured the upper hand early on.
 
-එම තරගයේ කාසියේ වාසිය හිමිකරගත් බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+🟩
+
+Another match of the Twenty Twenta World Cup will be held today (22).
+
+Bangladesh won the advantage of the match first.
 
 ◼️
 
 [Data](articles/695bb62f.json)
+
+[Extended Data](ext_articles/695bb62f.ext.json)
 
 ---
 
@@ -74,23 +80,29 @@ The President has also informed the Army Commander to assist the Army for the re
 
 ---
 
-### තන්තිරිමලය ආලෝක පූජාව දෙවැනි දිනට අදත්
+### Tantirimale Aloka Pooja today
 
 *2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/religion/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/4-410364) · `si`
 
-විජය පුවත්පත් සමාගම සංවිධානය කරන ලංකාදීප පොසොන් ආලෝක පූජාව 21 වැනි වරටත් මෙවර , ඓතිහාසික තන්තිරිමලේ රාජමහා විහාරස්ථානයේදී පොසොන් පොහොය යෙදුන ඊයේ (21දා ) ආරම්භ කෙරිණි.
+The Lankadeepa Pubadeepa PLC, under the Vijaya Newspaper Company, started its third annual Aloka Pooja event yesterday. Notable attendees included President Ranil Wickremesinghe, Deputy Leader of the UNP Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena, and IGP Deshabandulu Tennakoon. The event involves briefings for Dhamma School students, who receive gifts and certificates. The Aloka Pooja continues today and tomorrow.
 
-උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ  ජනාධිපති රනිල් වික්‍රමසිංහ , විජය පුවත්පත් සමාගමේ සභාපති රංජිත් විජයවර්ධන  මහතා  ආලෝක පූජාව විවෘත කලහ.
+🟩
 
-මෙම අවස්ථාව සඳහා එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, රුවන් විජයවර්ධන, ජනාධිපති උපදේශක සාගල රත්නායක, හිටපු අමාත්‍යවරුන් වන එස්.එම්. චන්ද්‍රසේන, පී හැරිසන්, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් එක් වූහ.
+The Lankadeepa Pubadeepa PLC, organizing the Vijaya Newspaper Company (Lankapuvath) commenced the 3rd consecutive year, commenced yesterday (21).
 
-ඉන් අනතුරුව දහම් පාසල් සිසුන් ඉදිරිපත් කරන බැති ගී සංදර්ශනය සහ එය අවසානයේදී  එම සිසුන්ට වටිනා  ත්‍යාග සහ සහතික පත් ලබා දීම මෙහිදී සිදු කෙරිණි.
+President Ranil Wickremesinghe, Chairman of the Maha Sanghalam, Ven.
 
-තන්තිරිමලේ ආලෝක පූජාව අද (22) සහ හෙට 23  යන දිනවලදී ද පැවැත්වේ.
+Deputy Leader of the UNP, Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena and IGP, Deshabandulu Tennakoon, were also present.
+
+The briefing of Dhamma School students and eventually provide valuable gifts and certificates to the students.
+
+The Aloka Pooja will also be held today (22) and tomorrow.
 
 ◼️
 
 [Data](articles/a6096dcc.json)
+
+[Extended Data](ext_articles/a6096dcc.ext.json)
 
 ---
 

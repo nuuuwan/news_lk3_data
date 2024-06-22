@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 02:04:21**
+As of **2024-06-23 02:19:28**
 
 ## Newspaper Stats
 
-*Scraped **31,619** Articles*
+*Scraped **31,620** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 289
+colombotelegraphcom | 290
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,619 (100.0%) of 31,619 articles have been extended.
+31,619 (100.0%) of 31,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -217,6 +217,16 @@ The Sri Lanka women's team had previously been on the 7th in the ICC Ratings lis
 [Data](articles/1d7796ed.json)
 
 [Extended Data](ext_articles/1d7796ed.ext.json)
+
+---
+
+### Was President Ranil Apologising Or Defending Gota’s Racist Forced Cremation Policy?
+
+*2024-06-22 20:12:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/was-president-ranil-apologising-or-defending-gotas-racist-forced-cremation-policy/) · `en`
+
+...
+
+[Data](articles/32f348f2.json)
 
 ---
 
@@ -2317,29 +2327,5 @@ In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
 [Data](articles/6c266452.json)
 
 [Extended Data](ext_articles/6c266452.ext.json)
-
----
-
-### Steps to improve the tourism industry
-
-*2024-06-21 23:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழல்-சார்-சுற்றுலாத்துறையை-மேம்படுத்த-நடவடிக்கை/175-339238) · `ta`
-
-Sri Lanka aims to boost its environmental tourism by protecting swamps, avoiding foreign funding for climate change, and focusing on environmental trade projects. This initiative was highlighted by President Ranil Wickremesinghe at the WLI Asia Oceania Conference 2024, emphasizing sustainability and cooperation in managing marshlands.
-
-🟩
-
-President Ranil Wickremesinghe said Sri Lanka is dedicated to improving the environmental tourism sector by focusing on the protection of swamps.
-
-The President pointed out that it is not worth the use of foreign funds for the face of climate change and the protection of the environment, adding that tropical countries should focus on environmental trade projects and get the necessary funds.
-
-President Ranil Wickremesinghe said this at the closing ceremony of the WLI Asia Asia Oceania Conference 2024 at the Voters Age Hotel at Battaramulla yesterday.
-
-The conference, organized by the Sri Lanka Land Development Corporation under the Ministry of Housing, was held at the Thezaru Park, Pattaramullai from June 17 to 21, in order to improve the safety and sustainable management and cooperation of marshlands.. (A)
-
-◼️
-
-[Data](articles/d3795fce.json)
-
-[Extended Data](ext_articles/d3795fce.ext.json)
 
 ---

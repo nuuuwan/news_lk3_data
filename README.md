@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 13:04:20**
+As of **2024-06-22 13:19:51**
 
 ## Newspaper Stats
 
-*Scraped **31,563** Articles*
+*Scraped **31,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,578
 tamilmirrorlk | 3,706
 dailymirrorlk | 4,733
 virakesarilk | 4,906
-adaderanasinhalalk | 5,145
+adaderanasinhalalk | 5,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,562 (100.0%) of 31,563 articles have been extended.
+31,563 (100.0%) of 31,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### මඩකලපුවේ තවත් පිරිසකට සින්නක්කර ඔප්පු
+
+*2024-06-22 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198018) · `si`
+
+මඩකලපුව දිස්ත්‍රික්කයේ ප්‍රදේශීය ලේකම් කොට්ඨාස 13ක සුදුසුකම් ලැබු පවුල් 27,595න් 192 දෙනෙකු සඳහා ජනාධිපතිවරයා විසින් සංකේතාත්මකව ඔප්පු ලබාදීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/921665fc.json)
+
+---
 
 ### President Ranil awards freehold land deeds in Batticaloa
 
@@ -43,6 +55,8 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 ◼️
 
 [Data](articles/68c59f27.json)
+
+[Extended Data](ext_articles/68c59f27.ext.json)
 
 ---
 
@@ -2349,25 +2363,5 @@ It is noteworthy that the prisoners left the prison for gratitude after worshipi
 [Data](articles/90a04e32.json)
 
 [Extended Data](ext_articles/90a04e32.ext.json)
-
----
-
-### India will always be a reliable friend and ‘dependable partner’ for Sri Lanka: Jaishankar
-
-*2024-06-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100005/india-will-always-be-a-reliable-friend-and-dependable-partner-for-sri-lanka-jaishankar) · `en`
-
-The Minister of External Affairs of India Dr. S. Jaishankar while concluding his official visit to Sri Lanka on Thursday (20) said that India will always be a reliable friend and a ‘dependable partner’ for Sri Lanka.
-
-Posting on ‘X’, Dr. S. Jaishankar noted: “Concluded a productive visit to Sri Lanka, my first in this new term. We will always be a reliable friend and a dependable partner for our Sri Lankan friends.”
-
-The Indian External Minister, who arrived on the island on Thursday morning, called on President Ranil Wickremesinghe and engaged in a one-on-one meeting.
-
-During this meeting three milestones in Indo-Sri Lanka relations were achieved as President Wickremesinghe and the visiting Indian External Affairs Minister jointly unveiled the virtual plaque for 106 houses in Kandy, Nuwara Eliya and Matale under the Indian Housing Project. Meanwhile, 24 houses in each model village in Colombo and Trincomalee were also handed over virtually.
-
-...
-
-[Data](articles/2a1edc88.json)
-
-[Extended Data](ext_articles/2a1edc88.ext.json)
 
 ---

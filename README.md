@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 08:53:55**
+As of **2024-06-22 09:05:47**
 
 ## Newspaper Stats
 
-*Scraped **31,539** Articles*
+*Scraped **31,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,570
+adaderanalk | 3,571
 tamilmirrorlk | 3,702
 dailymirrorlk | 4,733
 virakesarilk | 4,902
@@ -26,55 +26,85 @@ adaderanasinhalalk | 5,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,537 (100.0%) of 31,539 articles have been extended.
+31,539 (100.0%) of 31,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### තෙත්බිම් සංරක්ෂණය ගැන ජනපති කළ කතාව
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-06-22 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100015/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provincesand in Kandy, Nuwara Eliya and Puttalam districts.
+
+Several spells of light showers will occur in Matale and Anuradhapura districts, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/b3b27f0c.json)
+
+---
+
+### President's speech about wetland conservation
 
 *2024-06-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198011) · `si`
 
-තෙත්බිම් සංරක්ෂණය කෙරෙහි අවධානය යොමු කරමින් පාරිසරික සංචාරක ව්‍යාපාරය ප්‍රවර්ධනයට ශ්‍රී ලංකාව කැපවී සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Sri Lanka commits to environmental tourism and wetland conservation, emphasizing self-reliance over waiting for climate change aid. President Ranil Wickremesinghe highlights the importance of internal funding for environmental protection and commercial ventures. He addresses the International Wetland Conference, stressing urgent action against wetland loss due to development and population growth. Plans include developing over 1,000 acres of wetland as a tourist attraction and reserving another 1,000 acres near Horton Place for wetland conservation and eco-tourism promotion.
 
-ජනාධිපතිවරයා පවසන්නේ දේශගුණික විපර්යාසවලට මුහුණ දිමේදි සහ පරිසර සංරක්ෂණයේදී බාහිරින් අරමුදල් ලැබෙන තුරු බලා සිටිමෙන් ඵලක් නොවන බවය.
+🟩
 
-පරිසරය හා බැඳුණු වාණිජ ව්‍යාපෘති කෙරෙහි අවධානය යොමු කරමින් තමන්ට අවශ්‍ය අරමුදල් තමන්ම සොයා ගැනීමට නිවර්තන කලාපීය රටවල් කටයුතු කළ යුතු බවද ඔහු පෙන්වා දෙයි.
+President Ranil Wickremesinghe says Sri Lanka is committed to promoting the environmental tourism and focusing on wetlande.
 
-අන්තර්ජාතික තෙත්බිම් එකමුතුවේ පළමු වැනි ආසියානු සහ ඕෂනියා සබැඳි සමුළුවේ සමාප්ති උත්සවයට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකශ කළේය.
+The President says that it is not worth waiting for climate change and external funds in environmental conservation.
 
-සංවර්ධනය සහ ජනගහණයේ ව්‍යාප්තිය සමඟ අද රට පුරා තෙත්බිම් අහිමි වෙමින් පැවතිම හේතුවෙන් එය සංරක්ෂණය කර ගැනිමට කඩිනම් අවධානය යොමු කළ යුතු බව ජනාධිපතිවරයා පවසයි.
+He also pointed out that the tropical countries should work for their own funds to focus on the environment and commercial projects.
 
-මෙම වැඩපිළිවලට සමගාමීව දකුණු පළාතේ තෙත්බිම් අක්කර 1,000 කට වඩා වැඩි ප්‍රදේශයක් සංචාරක ආකර්ෂණීය ප්‍රදේශයක් ලෙස සංවර්ධනය කිරීමට සැලසුම් කර ඇති බව සඳහන් වේ.
+President Ranil Wickremesinghe made this statement from the first Asian and Oshian online consecutive year in the International Wetland Conference.
+
+The President says that immediate attention to conservation of wetlands throughout the country is due to the loss of wetlands with the expansion of the development and the expansion of the population.
+
+It is said that in parallel with these programs, an area of ​​more than 1,000 acres of wetland is planned to be a tourist attraction.
 
 ...
 
 [Data](articles/be4ca942.json)
 
+[Extended Data](ext_articles/be4ca942.ext.json)
+
 ---
 
-### මහ මුහුද මැද සිදුකළ ඝාතනයේ තවත් තොරතුරු හෙළිවෙයි
+### More information in the murder was revealed in the middle of the sea
 
 *2024-06-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198009) · `si`
 
-බේරුවල ධීවර වරායේ සිට මුහුදු ගොස් සිටිය දී බහුදින ධීවර යාත්‍රාවක සිදු වූ ඝාතනය සම්බන්ධයෙන් පොලීසිය වැඩිදුර තොරතුරු වාර්තා කර තිබේ.
+A fisherman was murdered aboard a multi-day vessel off Beruwala, leading to a police investigation. The incident occurred around 180 sea miles from shore, where one fisherman allegedly killed another with a sharp object after an altercation. The victim's body was brought back to the port and is now under police protection at a local hospital.
 
-මෙම  බහුදින ධීවර යාත්‍රාව මුහුදු ගොස් ඇත්තේ පසු ගිය 9 වනදා දහවල් කාලයේදීය.
+🟩
 
-එහි සිටි එක් ධීවරයෙකු විසින් තවත් ධීවරයෙකුට තියුණු ආයුධයකින් පහර දී ඝාතනය කර සෙසු පිරිසට ද පහර දී ඇති බවට යාත්‍රාවේ ස්කීපර්වරයා කළ දැනුම් දීමක් මත හිමිකරු විසින් පසුගිය 20 වනදා මේ සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+The police have reported further information regarding the murder of a multi-day vessel in the Beruwala Fisheries Harbor.
 
-අදාළ යාත්‍රාව ඊයේ (21) බේරුවල වරායට පැමිණ ඇති අතර එහිදී සැකකරු අත්අඩංගුවට ගෙන පොලිස් ආරක්ෂාව යටතේ නාගොඩ රෝහලේ ප්‍රතිකාර ලබමින් සිටි.
+The multi-day fishing vessel was gone during the next 9th.
 
-මෙම ධීවර යාත්‍රාවේ මියගිය ධීවරයාට අමතරව පැදවුම්කරු, සැකකරු සහ තවත් ධීවරයින් දෙදෙනෙකු සිට ඇත.
+On the 20th, the owner has lodged a complaint with the police on the 20th of the incident that another fisherman had been assaulted by another fisherman and killed a fisherman with a sharp instrument.
 
-පොලීසිය පැවසුවේ මසුන් ඇල්ලීමේ නිරතව සිටියදී ඇති වූ ගැටුමක් මත සැකකාර ධීවරයා විසින් පිහියකින් මෙම පහර දීම සිදුකර ඇති බවය.
+The vessel has arrived at the Port of Beruwala yesterday (21) and is being treated at the Nagoda Hospital under police protection.
 
-මෙම පහරදීම සිදුවන විට අදාළ යාත්‍රාව මුහුදු සැතපුම් 180ක් පමණ ගැඹුරු මුහුදේ තිබූ බව සඳහන් වේ.
+In addition to the fisherman of the deceased vessel, the driveway, suspect and two more fishermen were present.
+
+According to the police, the suspect had been assaulted by a knife on a confrontation took place while fishing was engaged in fishing.
+
+The vessel was reported that the vessel was about 180 sea miles in the event of the attack.
 
 ◼️
 
 [Data](articles/7f058766.json)
+
+[Extended Data](ext_articles/7f058766.ext.json)
 
 ---
 
@@ -2301,29 +2331,5 @@ Suddenly, President Emmanuel Macron has dissolved parliament and declared that F
 [Data](articles/e66fc81e.json)
 
 [Extended Data](ext_articles/e66fc81e.ext.json)
-
----
-
-### Indo-Sri Lanka joint development projects on energy and infrastructure gain momentum
-
-*2024-06-21 03:30:31* · [`dailyftlk`](https://www.ft.lk/news/Indo-Sri-Lanka-joint-development-projects-on-energy-and-infrastructure-gain-momentum/56-763335) · `en`
-
-President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar
-
-Sampur solar power plant construction set to kickoff in July
-
-India assures support to boost liquid milk and fertiliser industries
-
-In a significant diplomatic exchange, President Ranil Wickremesinghe and Indian External Affairs Minister Dr. S. Jaishankar yesterday led bilateral discussions at the President’s House yesterday, with joint energy projects taking centre stage.
-
-The meeting between the President and Dr. Jaishankar focused on various initiatives aimed at enhancing energy connectivity and developing the renewable energy sector between the two countries.
-
-Key topics included plans for an LNG supply, a proposed petroleum pipeline linking India and Sri Lanka, and advancing oil and gas exploration projects. Notably, it was announced that the construction of the Sampur solar power plant is set to commence in July 2024.
-
-...
-
-[Data](articles/7b49bea0.json)
-
-[Extended Data](ext_articles/7b49bea0.ext.json)
 
 ---

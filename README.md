@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 09:34:46**
+As of **2024-06-22 09:53:41**
 
 ## Newspaper Stats
 
-*Scraped **31,543** Articles*
+*Scraped **31,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
-adaderanalk | 3,571
+adaderanalk | 3,572
 tamilmirrorlk | 3,703
 dailymirrorlk | 4,733
 virakesarilk | 4,903
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,542 (100.0%) of 31,543 articles have been extended.
+31,543 (100.0%) of 31,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### அமெரிக்காவில் பலசரக்கு கடை ஒன்றில்  துப்பாக்கிச் சூடு ; 3 பேர் பலி ;10 பேர் காயம்
+### Medical brain drain worsens in Sri Lanka as 25% of doctors ready to migrate - report
+
+*2024-06-22 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100016/medical-brain-drain-worsens-in-sri-lanka-as-25-of-doctors-ready-to-migrate-report) · `en`
+
+The biggest trade union of government doctors in Sri Lanka warned on Friday about a wave of economic crisis-driven brain drain among medical professionals, as 25 percent of them have already taken the necessary exams to find employment abroad.
+
+Before the worst economic crisis pummeled Sri Lanka in the wake of the COVID-19 pandemic in 2021, on average 200 doctors would migrate to work in another country, according to Ministry of Health statistics.
+
+The number has surged since early 2022, when the country defaulted on its foreign debt. Sri Lankans started experiencing power cuts and shortages of basics such as fuel, food and medicine, and the inflation rate rose to 50 percent a year.
+
+“If we consider the situation within the last two years, more than 1,800 doctors have left the country in 2022 and 2023,” Dr. Chamil Wijesinghe, spokesperson of the Government Medical Officers Association, told Arab News.
+
+...
+
+[Data](articles/d0fc0dbf.json)
+
+---
+
+### Firing at a grocery store in the United States;3 people killed; 10 people injured
 
 *2024-06-22 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186675) · `ta`
 
-அமெரிக்காவில் பலசரக்கு கடையில் நடந்த துப்பாக்கிச் சூட்டில் 3 பேர் கொல்லப்பட்டுள்ளனர். மேலும் 10 பேர் காயமடைந்துள்ளதாக ஆர்கன்சாஸ் மாநில பொலிஸ் தெரிவித்துள்ளது.
+A shooting at a U.S. grocery store resulted in three deaths and ten injuries. The incident occurred in Fort Smith, Arkansas, where the shooter was also killed by police. This tragedy is part of a broader issue of gun violence in the U.S., with 234 shootings involving four or more victims this year alone, including 21 mass shootings in recent weeks.
 
-தெற்கு ஆர்கன்சாஸ் மாநிலத்தில் ஃபோர்டைஸ் நகரத்தில் பலசரக்கு கடையில் துப்பாக்கிச் சூடு நடந்ததாகவும், துப்பாக்கிச் சூடு நடத்தியதாக சந்தேகிக்கப்படும் நபர் பொலிஸாரின் துப்பாக்கிச் சூட்டில் பலத்த காயமடைந்ததாகவும் ஆர்கன்சாஸ் மாநில பொலிஸ் தெரிவித்துள்ளது.
+🟩
 
-துப்பாக்கிச் சூடு சம்பவங்கள் தொடர்பில் அமெரிக்கத் துப்பாக்கி வன்முறை பதிவேடுகள் என்ற அமைப்பு,
+Three people were killed in a shooting at a grocery store in the United States. Arkansas state police said 10 more people were injured.
 
-2024 ஆம் ஆண்டில் அமெரிக்காவில் இதுவரை 234 துப்பாக்கிச் சூடு சம்பவங்கள் இடம்பெற்றுள்ளது. இந்த சம்பவங்களில் நான்கு அல்லது அதற்கு மேற்பட்டவர்கள்  கொல்லப்பட்டுள்ளனர்.
+Arkansas state police said that the man was shot dead at a grocery store in Forty's city in South Arcansas and was seriously injured in the police firing.
 
-கோடை வெப்பம் அதிகரித்துள்ள நிலையில் கடந்த சில வாரங்களாக அமெரிக்கா முழுவதும் துப்பாக்கிச் சூடு சம்பவங்கள் இடம்பெற்று வருகிறது. கடந்த வெள்ளிக்கிழமை முதல்  21 பாரிய துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாக தெரிவித்துள்ளது.
+American gun violence records in connection with shootings
+
+There have been 234 shootings in the United States so far in 2024. Four or more people have been killed in these incidents.
+
+With summer heat rising, there have been incidents of shootings across the United States over the past few weeks. It has been reported that 21 massive shootings have been reported since last Friday.
 
 ◼️
 
 [Data](articles/56bb4628.json)
+
+[Extended Data](ext_articles/56bb4628.ext.json)
 
 ---
 
@@ -2327,31 +2351,5 @@ Australia decided to bowl first won the toss.
 [Data](articles/9b1fa988.json)
 
 [Extended Data](ext_articles/9b1fa988.ext.json)
-
----
-
-### Short heavy showers today
-
-*2024-06-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197974) · `si`
-
-Heavy showers expected today across Western, Sabaragamuwa, North Western provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, with potential rainfall exceeding 75mm in some areas. The Department of Meteorology warns of strong winds affecting the North, North Central, and North Western provinces, along with Trincomalee, Hambantota, and Monaragala districts, posing risks to over 40,000 people.
-
-🟩
-
-Showers will occur at times in the Western, Sabaragamuwa and North Western provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology issues a latest announcement.
-
-In some places in the Western and Sabaragamuwa Provincial, Nuwara Eliya, Galle and Matara districts are mm mm.. Heavy rains can occur more than 75.
-
-Showers or thundershowers will occur at several places in the Uva province and Ampara and Batticaloa Districts.
-
-Steps in the North, North, North-central and North Western and North Western and North Western Provinces, Trincomalee, Hambantota and Monaragala Districts. Strong winds can also cause over 40,000.
-
-◼️
-
-[Data](articles/e0f98faf.json)
-
-[Extended Data](ext_articles/e0f98faf.ext.json)
 
 ---

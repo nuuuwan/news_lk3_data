@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 11:34:51**
+As of **2024-06-22 11:54:31**
 
 ## Newspaper Stats
 
-*Scraped **31,554** Articles*
+*Scraped **31,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,53 @@ adaderanalk | 3,576
 tamilmirrorlk | 3,704
 dailymirrorlk | 4,733
 virakesarilk | 4,905
-adaderanasinhalalk | 5,142
+adaderanasinhalalk | 5,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,547 (100.0%) of 31,554 articles have been extended.
+31,554 (100.0%) of 31,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### இது 40 வயதுக்கு மேற்பட்டவர்களுக்கு மட்டும்...
+### සිරිසේනගේ කතාව සම්පූර්ණයෙන්ම ද්වේෂ සහගතයි -කාදිනල් හිමි
+
+*2024-06-22 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198015) · `si`
+
+පාස්කු ප්‍රහාරයෙන් පසුව ලැබුණු මුදල් වියදම් වූ ආකාරය පිළිබඳ සියලු සංඛ්‍යා ලේඛන තමන් සතුව පවතින බව අගරදගුරු අති උතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පවසති.
+
+උන්වහන්සේ පෙන්වා දෙන්නේ, අදාළ මුදල් සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය පදනම් විරහිත බවය.
+
+...
+
+[Data](articles/730681b2.json)
+
+---
+
+### This is only for those over 40 ...
 
 *2024-06-22 11:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-40-வயதுக்கு-மேற்பட்டவர்களுக்கு-மட்டும்/175-339239) · `ta`
 
-40 வயதிற்கு மேற்பட்ட இதுவரையில் தேசிய அடையாள அட்டைகளைப் பெற்றுக் கொள்ள முடியாதவர்களுக்கு அதனைப் பெற்றுக் கொள்வதற்கான சந்தர்ப்பம் வழங்கப்பட உள்ளதாக ஆட்பதிவுத் திணைக்களம் தெரிவித்துள்ளது.
+Over 40s without national ID cards due to missing birth certificates now have until the end of this month to apply, extending from the original March 31st deadline.
 
-இவர்கள் அடையாள அட்டைகளைப் பெறுவதற்கான கால அவகாசம் இம்மாதம் 30ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக ஆட்பதிவுத் திணைக்களத்தின் ஆணையாளர் நாயகம் பிரதீப் சபுதந்திரி தெரிவித்துள்ளார்.
+🟩
 
-பிறப்புச் சான்றிதழ் இல்லாத காரணத்தினால் இவர்கள் தேசிய அடையாள அட்டையைப் பெற்றுக் கொள்ள முடியாத நிலை உள்ளது.
+The Department of Records said that those who are not able to obtain national identity cards over the age of 40 have been given the opportunity to get it.
 
-முன்னதாக இதற்கான விண்ணப்பங்களை அனுப்புவதற்கு கடந்த மார்ச் மாதம் 31ஆம் திகதி வரை கால அவகாசம் வழங்கப்பட்டிருந்தது. இந்த நிலையில் இந்தக் கால அவகாசம் இம்மாதம் 30ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக அந்த திணைக்களத்தின் ஆணையாளர் குறிப்பிட்டுள்ளார். R
+The deadline for obtaining identity cards has been extended till the 30th of this month, the Commissioner General of the Department of Records Pradeep Saputhandri said.
+
+Due to lack of birth certificate, they are unable to obtain the national identity card.
+
+Earlier, the deadline was granted until 31st March to send applications. The Commissioner of the Department said that this period has been extended till the 30th of this month.. Remble
 
 ◼️
 
 [Data](articles/2ed74b73.json)
+
+[Extended Data](ext_articles/2ed74b73.ext.json)
 
 ---
 
@@ -72,27 +92,37 @@ Governor Sarah Huckabee Sanders said on social media platform X that she was bri
 
 [Data](articles/597171c9.json)
 
+[Extended Data](ext_articles/597171c9.ext.json)
+
 ---
 
-### கடும் வெப்பத்தால் 4 பால்கன் நாடுகளில் பாரியளவில் மின் தடை
+### Massive power outage in 4 balcan countries by extreme heat
 
 *2024-06-22 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186673) · `ta`
 
-வெப்ப அலையில் தத்தளிக்கும் நான்கு பால்கன் நாடுகளில் வெள்ளிக்கிழமை ஒரே நேரத்தில் பல மணி நேரம் மின்வெட்டு ஏற்பட்டுள்ளது.
+Extreme heatwaves across four Balkan countries triggered widespread power outages, affecting coastal regions and leading to traffic signal failures. The outage began around 1 pm, impacting Albania, Bosnia, Montenegro, and Croatia. Cooling demands surged, exacerbating the situation. Power was restored by evening, though the exact cause remains under investigation.
 
-அதன்படி, அல்பேனியா, போஸ்னியா, மொண்டினீக்ரோ மற்றும் குரோஷியா ஆகிய நாடுகளின் கரையோரப் பகுதிகள் பிற்பகலில் மின்தடையால் பாதிக்கப்பட்டுள்ளன.
+🟩
 
-இப்பகுதிகளில் நிலவும் கடும் வெப்பத்தினால் வீடுகளில் குளிரூட்டும் கருவிகளை பயன்படுத்தியமையின் பின்னர் மின்பாவனை அதிகரித்த நிலையில் மின் தடை ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Four Balkan countries in the heat wave have caused several hours of lightning on Friday.
 
-இதேவேளை, மின் தடையினால் போஸ்னியா மற்றும் குரோஷியாவில் போக்குவரத்து சமிக்ஞைகள் தடைப்பட்டு, சரஜேவோ, ஸ்பிலிட் மற்றும் பிற பெரிய நகரங்களில் போக்குவரத்து நெருக்கடி ஏற்பட்டுள்ளது.
+Accordingly, the coastal areas of Albania, Bosnia, Montinegro and Croatia were affected by the resistor in the afternoon.
 
-இந்நிலையில், வெள்ளிக்கிழமை மாலை வேளையில் மின் விநியோகம் சீர் செய்யப்பட்டதாகவும், ஆனால் நான்கு நாடுகளின் ஒன்றோடொன்று இணைக்கப்பட்ட மின்சக்தி அமைப்புகளில் எங்கே பிரச்சினை ஏற்பட்டது என்பதை அடையாளம் காண முயற்சித்து வருவதாகவும் மின்சாரம் வழங்குனர்கள் தெரிவித்துள்ளது.
+Due to the prevailing heat in these areas, the power outage has been reported as the use of cooling equipment in homes has increased.
 
-உள்ளூர் நேரப்படி 13:00 மணிக்கு மின்  தடை ஏற்பட்டுள்ளதோடு, மொண்டினீக்ரோவின் தலைநகரான போட்கோரிகாவில் நீர் விநியோக தடையும் ஏற்பட்டுள்ளது.
+Meanwhile, traffic signals in Bosnia and Croatia have been blocked due to power outages, with traffic congestion in Sarajevo, Split and other major cities.
+
+In this case, the power supply said that the power supply was repaired on Friday evening, but is trying to identify where the problem occurred in the interconnected power systems of four countries.
+
+According to local time, a power outage occurred at 13:00 am and a water supply barrier in Montinegro, the capital of Montinegro.
+
+Croatia, which has attracted tourists, has been confused by the closure of restaurants, restrooms and supermarkets.
 
 ...
 
 [Data](articles/bf1b6825.json)
+
+[Extended Data](ext_articles/bf1b6825.ext.json)
 
 ---
 
@@ -116,19 +146,27 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 
 [Data](articles/35de9d59.json)
 
+[Extended Data](ext_articles/35de9d59.ext.json)
+
 ---
 
-### මඩකලපුවේ නව දිස්ත්‍රික් ලේකම් කාර්යාලය ජනපති අතින් විවෘත වෙයි
+### President opens new District Secretariat in Batticaloa
 
 *2024-06-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198014) · `si`
 
-මඩකලපුව තිරායිමඩු ප්‍රදේශයේ ඉදිකෙරුණු නව දිස්ත්‍රික් ලේකම් කාර්යාලය මීට සුළු මෙහොතකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරිණි.
+President Ranil Wickremesinghe inaugurates the new District Secretariat in Batticaloa, built at a cost of Rs. 1,055 million in Thihariyadu.
 
-මෙම නව දිස්ත්‍රික් ලේකම් කාර්යාලය ඉදිකිරීම සඳහා රුපියල් මිලියන 1,055ක වියදමක් දරා ඇති බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනයේ කළේය.
+🟩
+
+The new District Secretariat, which was constructed in Thihariyadu, was declared open by President Ranil Wickremesinghe.
+
+The Presidential Media Unit announced that a cost of construction of the new District Secretariat was Rs. 1,055 million.
 
 ◼️
 
 [Data](articles/8d242347.json)
+
+[Extended Data](ext_articles/8d242347.ext.json)
 
 ---
 
@@ -176,21 +214,29 @@ With summer heat rising, there have been incidents of shootings across the Unite
 
 ---
 
-### இலங்கையில் இடம்பெற்ற மனித உரிமை மீறல்கள் குறித்த ஆதாரங்களை சேகரிக்கும் பொறிமுறை- மீண்டும் நிராகரித்தது இலங்கை
+### Sri Lanka rejected the mechanism of collecting evidence of human rights violations in Sri Lanka
 
 *2024-06-22 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186683) · `ta`
 
-ஐக்கியநாடுகள் மனித உரிமை பேரவையின் தீர்மானத்தின் மூலம் உருவாக்கப்பட்ட ஆதாரங்களை சேகரிக்கும் வெளியக பொறிமுறையை இலங்கை மீண்டும் நிராகரித்துள்ளது.
+Sri Lanka rejects UN Human Rights Council's evidence collection mechanism, calling it ineffective and divisive. The government argues it prioritizes international politics over impartial evaluation of global human rights issues, potentially undermining trust in the UN body.
 
-ஐக்கியநாடுகள் மனித உரிமை பேரவையின் ஆதாரங்களை சேகரிக்கும் பொறிமுறை பயனற்றது இலங்கையில் சமூகங்களை பிரிக்கவும் துருவமயப்படுத்தவும் மாத்திரம் அது உதவும் அதனால் குறிப்பிடத்தக்க நன்மைகள் இல்லை என ஜெனீவாவிற்கான இலங்கையின் நிரந்தரவதிவிடப்பிரதிநிதி ஹிமாலி அருணதிலக தெரிவித்துள்ளார்.
+🟩
 
-இந்த பொறிமுறையால்  குறிப்பிடத்தக்க நன்மைகள் எதுவுமில்லை உள்நாட்டு பொறிமுறை குறித்த அர்ப்பணிப்பை இது முன்கூட்டியே தீர்மானம் செய்கின்றது,உறுப்புநாடுகளின் வளங்களை வீணடிக்கின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+Sri Lanka has once again rejected the external mechanism for collecting evidence created by the United Nations Human Rights Council.
 
-உலகெங்கிலும் உள்ள சவாலான மனித உரிமை சூழ்நிலைகளை பாரபட்சமற்றவிதத்தில்,தேர்ந்தெடுக்கப்படாத தன்மையுடன், புறநிலையுடன் இரட்டை நிலைப்பாடுகளை தவிர்த்து மதிப்பிடவேண்டும் என அவர் தெரிவித்துள்ளார்.
+The United Nations Human Rights Council (UNHRC) mechanism is ineffective, and it will only help to divide communities in Sri Lanka and therefore do not have significant benefits, said Sri Lanka's permanent government for Geneva, Himali Arunathilaka.
+
+He said that this mechanism does not have any significant advantages, it is in advance of the domestic mechanism and is wasting the resources of the member states.
+
+He said that the challenging human rights situation around the world should be evaluated with impartiality, unintelligible and objective duality.
+
+Sri Lanka is vehemently opposed to arbitrary activities that contradict these principles and the mechanism of collecting evidence is contrary to the mandate issued by the United Nations Human Council.
 
 ...
 
 [Data](articles/4d92c8ab.json)
+
+[Extended Data](ext_articles/4d92c8ab.ext.json)
 
 ---
 
@@ -210,25 +256,31 @@ The new District Secretariat building was built at a cost of Rs. 1,055 million, 
 
 ---
 
-### ගාසා තීරයට කොල්ලකරුවන්ගෙන් පීඩා
+### Persecution to Gaza
 
 *2024-06-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198013) · `si`
 
-දකුණු ගාසා තීරයට අත්‍යවශ්‍ය ආධාර රැගෙන යාම සහ බෙදාදීම අනතුරුදායක තත්ත්වයකට පත්ව ඇති බව එහි මානුෂීය කටයුතු සම්බන්ධීකරණ සිදුකරන එක්සත් ජාතීන්ගේ කාර්යාලය පවසයි.
+The UN warns that delivering aid to Gaza is perilous due to attacks on convoys carrying essential supplies like food and fuel. Armed groups intercept these deliveries, often selling them on the black market instead of distributing them as intended. This situation exacerbates the humanitarian crisis in the region.
 
-එහි ප්‍රධානීන් පවසන්නේ, අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය කොල්ලකෑමේ සිදුවීම් රැසක් වාර්තා වී ඇති බවය.
+🟩
 
-පසුගිය අඟහරුවාදා (18) ද ඇතුළු වන ලොරි රථවල තිබූ භාණ්ඩවලින් හතරෙන් තුනක් සොරකම් කර ඇති බවට එක්සත් ජාතීන්ගේ කාර්යාලය ගණන් බලා තිබේ.
+The United Nations Office which coordinates that the essential assistance to the southern Gaza is a dangerous.
 
-ආයුධ සන්නද්ධ කල්ලි විසින් ආධාර රැගෙන යන වාහනවලට පහර දී කොල්ලකෑම් සිදුකරන බව සඳහන් වේ.
+Its heads say many incidents of essential food items have been reported.
 
-අනතුරුව ආධාර ගාසා තීරයේ වෙ‌ළෙඳපොලේ අධික මිලට අලෙවි කරන බව විදෙස් වාර්තා සඳහන් කළේය.
+The UN office estimated three-quarters of the lorries in the lorries including Tuesday (18).
 
-ගාසා තීරයට ඉන්ධන රැගෙන ආ ලොරි රථ ඉලක්ක කර ද ප්‍රහාරයක් එල්ල වී තිබුණි.
+It is said that armed gangs are attacked by armed gangs and carry robes.
+
+It is then that the donations are then sold in the market in the market.
+
+The lorries that brought fuel to Gaza were also targeted.
 
 ◼️
 
 [Data](articles/57c85b73.json)
+
+[Extended Data](ext_articles/57c85b73.ext.json)
 
 ---
 
@@ -2297,33 +2349,5 @@ The Jaffna Airport and the Bandaranaike International Airport Development Projec
 [Data](articles/2b761bf4.json)
 
 [Extended Data](ext_articles/2b761bf4.ext.json)
-
----
-
-### A digital database for EPF
-
-*2024-06-21 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197980) · `si`
-
-The Ministry of Labor, led by its Secretary, is tasked with creating a digital database for the Central Bank and the Department of Labor. This initiative aims to streamline the process of provident fund payments from the Central Bank to the Department of Labor, which currently occurs biannually post-registration. The project emphasizes the need for a continuously updated system to ensure efficiency and protect workers' interests. A joint meeting between the Central Bank and Labor Office is planned to further discuss this digital transformation, focusing on utilizing government financial provisions effectively without compromising the quality of the database. Approximately 15,000 cases related to provident fund management highlight the urgency and scale of the task.
-
-🟩
-
-The Secretary to the Ministry of Labor and officials have instructed the Secretary to the Ministry of Labor Secretary to formulate a digital database of the Central Bank and the Department of Labor.
-
-The Auditor General's records and the present performance of the Department of Labor and the present performance of the Auditor General's Report and the present performance of the Government Lasantha Alagiyawanna was held under the patronage of State Minister Lasantha Alagiyawanna.
-
-The Central Bank has shown that the relevant provident funds will be paid to the Department of Labor every 6 months after the registration of employers in the Department of Labor.
-
-The Committee was shown that the Department of Labor must have a constant updated system instead of obtaining data every six months.
-
-The Committee has emphasized that it is necessary for the protection of the people.
-
-The Central Bank and Labor Office have also been instructed to conduct a joint meeting to discuss the matter.
-
-...
-
-[Data](articles/c46bc440.json)
-
-[Extended Data](ext_articles/c46bc440.ext.json)
 
 ---

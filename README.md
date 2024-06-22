@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 06:19:59**
+As of **2024-06-22 06:59:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,515 (99.9%) of 31,531 articles have been extended.
+31,529 (100.0%) of 31,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ At the Asset Triple A Treasury, Trade, SSC (Sustainable Supply Chain) and Risk M
 
 [Data](articles/3b8bb3b8.json)
 
+[Extended Data](ext_articles/3b8bb3b8.ext.json)
+
 ---
 
 ### DFCC Aloka hosts special event to celebrate women in healthcare at Kandy General Hospital
@@ -59,6 +61,8 @@ Shera Hassan, Vice President and Head of Pinnacle Planning and Implementation, a
 ...
 
 [Data](articles/a6feae5b.json)
+
+[Extended Data](ext_articles/a6feae5b.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ World Environment Day holds profound significance for LOLC Finance, underscoring
 
 [Data](articles/14680f7d.json)
 
+[Extended Data](ext_articles/14680f7d.ext.json)
+
 ---
 
 ### SL enters into MOU on curbing money laundering with Bahrain
@@ -88,6 +94,8 @@ The Financial Intelligence Units across the world enter into MOUs to co-operate 
 
 [Data](articles/f1ef488e.json)
 
+[Extended Data](ext_articles/f1ef488e.ext.json)
+
 ---
 
 ### Lankem Agro launches nationwide tree planting initiative for World Environment Day
@@ -101,6 +109,8 @@ As part of this initiative, Lankem Agro will plant 1,500 trees across the countr
 ...
 
 [Data](articles/bd4ed676.json)
+
+[Extended Data](ext_articles/bd4ed676.ext.json)
 
 ---
 
@@ -122,151 +132,213 @@ Further, the training emphasised on the importance of using the accurate and cor
 
 [Data](articles/b6b4a1b7.json)
 
+[Extended Data](ext_articles/b6b4a1b7.ext.json)
+
 ---
 
-### 19 வயதுக்குட்பட்ட இலங்கை அணியின் உதவித் தலைவரானார் ஷாருஜன்
+### Shahrujan is the assistant captain of the Sri Lankan team under 19
 
 *2024-06-22 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186671) · `ta`
 
-இங்கிலாந்துக்கு கிரிக்கெட் விஜயம் செய்யவுள்ள 19 வயதுக்குபட்பட்ட இலங்கை அணியின் உதவித் தலைவராக சண்முகநாதன் ஷாருஜன் நியமிக்கப்பட்டுள்ளார். இவர் கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி அணியின் தலைவரும் விக்கெட்காப்பாளருமாவார்.
+Shanmuganathan Shah Rujan, the assistant captain of the Sri Lankan under-19 team, led St. Blessed College and scored 118 runs in South Africa. Dinura Kalubahana, a Galle and Mahinda College player, was named captain. They will tour England, playing a 50-over match and a three-match ODI series against England's under-19 team.
 
-தென் ஆபிரிக்காவில் இந்த வருட முற்பகுதியில் நடைபெற்ற 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் 5 போட்டிகளில் 118 ஓட்டங்களைப் பெற்றதுடன் 7 ஆட்டமிழப்புகளில் (5 பிடிகள், 2 ஸ்டம்ப்கள்) பங்களிப்பு செய்திருந்தார்.
+🟩
 
-இதேவேளை, 19 வயதுக்குட்பட்ட இலங்கை அணியின் தலைவராக காலி, மஹிந்த கல்லூரி வீரர் தினுர களுபஹன நியமிக்கப்பட்டுள்ளார்.
+Shanmuganathan Shah Rujan has been appointed as the assistant captain of the 19 -year -old Sri Lankan team to visit England.. He is the leader of the St. Blessed College team and the wicketkeeper.
 
-அவரும் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் பிரகாசித்திருந்தார். 3 அரைச் சதங்களுடன் 196 ஓட்டங்களைப் பெற்ற அவர், 5 விக்கெட்களையம் கைப்பற்றியிருந்தார்.
+In South Africa, he scored 118 runs in 5 matches in 5 matches earlier this year and contributed 7 out of 7 out of 5 (5 and 2 stumps).
 
-அணியில் இடம்பெறுவோரில் புலிந்து பெரேரா, விஹாஸ் தெவ்மிக்க ஆகியோரும் 19 வயதுக்குட்பட்ட உலகக் கிண்ண கிரிக்கெட் போட்டியில் விளையாடிய மற்றைய இரண்டு வீரர்களாவர்.
+Meanwhile, Galle and Mahinda College player Dinura Kalubahana has been appointed as the captain of the Sri Lankan team under the age of 19.
+
+He also shone in all fields in the under -19 World Cup cricket match. He scored 196 runs with 3 half centuries and took 5 wickets.
+
+Perera and Vihas Thevaki are the two other players who played in the under -19 World Cup cricket match.
+
+Ruwan Kalpage, a former national player for the under -19 team and former captain of St. Anthony's College Cricket Team, Katugastota has been appointed.
+
+The 19 -year -old Sri Lankan team will leave England on Saturday morning (22) and will play a 50 -over training match.
 
 ...
 
 [Data](articles/6952977c.json)
 
+[Extended Data](ext_articles/6952977c.ext.json)
+
 ---
 
-### கர்நாடகாவில் முத்தையா முரளிதரன் ரூ.1400 கோடி முதலீடு!
+### Muttiah Muralitharan Investment in Karnataka Rs 1400 crore
 
 *2024-06-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186670) · `ta`
 
-இலங்கை அணியின் முன்னாள் நட்சத்திர கிரிக்கெட் வீரர் முத்தையா முரளிதரன் கர்நாடக மாநிலத்தில் ரூ.1,400 கோடி முதலீட்டில் குளிர்பான நிறுவனத்தை தொடங்கியுள்ளார்.
+Muttiah Muralitharan, former Sri Lankan cricket star, invests Rs 1,400 crore in Karnataka for a soft drink and sweets factory. The project, expanding from his Sri Lankan factory, will launch in January 2025 on 46 acres of land.
 
-குளிர்பானம் மற்றும் இனிப்பு வகை பொருட்களை உற்பத்தி செய்யும் தொழிற்சாலைக்காகவே முத்தையா முரளிதரன் முதலீடு செய்துள்ளதாக தகவல்கள் மேலும் குறிப்பிடுகின்றன.
+🟩
 
-கர்நாடக மாநில பாரிய மற்றும் சிறுத் தொழிற்துறை அமைச்சர் M.P.பாட்டிலை மேற்கோள்காட்டி இந்த செய்தி வெளியிடப்பட்டுள்ளது.
+Former Sri Lankan star cricketer Muttiah Muralitharan has started a soft drink company with an investment of Rs 1,400 crore in Karnataka.
 
-இலங்கையில் ஆரம்பிக்கப்பட்ட தொழிற்சாலையின் விரிவாக்கமாகவே, இந்தியாவில் தொழிற்சாலை ஆரம்பிக்க முத்தையா முரளிதரன் நடவடிக்கை எடுத்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+According to reports, Muttiah Muralitharan has invested for the factory that produces soft drinks and sweet products.
 
-இந்த தொழிற்சாலை நிர்மாணத்திற்காக 46 ஏக்கர் நிலப்பரப்பு ஒதுக்கப்பட்டுள்ளதுடன், 2025ம் ஆண்டு ஜனவரி மாதம் முதல் உற்பத்தி நடவடிக்கைகள் ஆரம்பிக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+The news has been published by Karnataka State Minister of State for Mass and Small Industries M.P. Bottle.
+
+He added that Muttiah Muralitharan has taken steps to start a factory in India as an expansion of the factory in Sri Lanka.
+
+46 acres of land has been allocated for the construction of the factory and it has been announced that manufacturing activities will be launched from January 2025.
 
 ◼️
 
 [Data](articles/a04a8039.json)
 
+[Extended Data](ext_articles/a04a8039.ext.json)
+
 ---
 
-### பொசன் பண்டிகை தினத்தை முன்னிட்டு யாழ்ப்பாண போதனா வைத்தியசாலையில் கண்புரை சிகிச்சை
+### Cataract treatment at Jaffna Teaching Hospital
 
 *2024-06-22 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186669) · `ta`
 
-பொசன் பண்டிகை தினத்தை முன்னிட்டு யாழ்ப்பாண போதனா வைத்தியசாலையில் 125 இற்கும் மேற்பட்டவர்களுக்கு இன்று கண்புரை சிகிச்சையளிக்கப்பட்டது.
+During the Poson Festival, over 125 cataract patients received treatment at Jaffna Teaching Hospital, supported by the 51 Army Brigade and foundations Alaka and Ananda. Led by Dr. Malaravan, the event saw attendance from key officials including the Director of Northern Provincial Health Services, the Jaffna District Army Commander, and the Deputy Inspector General of Police of the Northern Province, among others.
 
-அலாக்கா மற்றும் ஆனந்தா பவுண்டேசனின் பங்களிப்புடன் 51  இராணுவ படைப்பிரிவின் உதவியுடன் குறித்த கண் நோயாளர்களுக்கான சிகிச்சை வைத்திய கலாநிதி மலரவனின் தலைமையில் முன்னெடுக்கப்பட்டது.
+🟩
 
-நிகழ்வில் வடக்கு மாகாண சுகாதார சேவைகள் பணிப்பாளர், யாழ் மாவட்ட இராணுவ கட்டளை தளபதி, வடக்கு மாகாண பிரதி பொலிஸ்மா அதிபர், மற்றும் யாழ் போதனா வைத்தியசாலை பணிப்பாளர், வைத்தியர்கள் தாதியர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டனர்.
+More than 125 people were treated at the Jaffna Teaching Hospital on the occasion of Poson Festival.
+
+With the help of the 51 Army Brigade with the participation of the Alaka and Ananda Foundation, the treatment of eye patients was carried out under the leadership of Dr. Malaravan.
+
+The event was attended by the Director of the Northern Provincial Health Services, the Jaffna District Army Commander, the Deputy Inspector General of Police of the Northern Province, the Director of the Jaffna Teaching Hospital, the Nurses and many others.
 
 ◼️
 
 [Data](articles/5cbdea55.json)
 
+[Extended Data](ext_articles/5cbdea55.ext.json)
+
 ---
 
-### யாழில் பதிவற்ற மோட்டார் வாகனம், வாளுடன் கைது
+### Arrested with an unregistered motor vehicle in Jaffna
 
 *2024-06-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186668) · `ta`
 
-யாழில் பதிவற்ற மோட்டார் வாகனம் ஒன்றினையும் ஐந்து வாளினையும் யாழ்ப்பாணம் பொலிசார் வெள்ளிக்கிழமை (21) அதிகாலை கைப்பற்றியுள்ளதாக தெரிவித்தனர்.
+In Jaffna, police arrested someone for driving an unregistered car and found five swords at their home during a raid.
 
-யாழ்ப்பாணம் நகர் பகுதியில் விசேட ரோந்து பணிகளில் ஈடுபட்டிருந்த யாழ்ப்பாணம் பொலிசார் சந்தேகத்திற்கிடமான முறையில் பயணித்த மோட்டார் வாகனத்தின்  வழிமறித்து சோதனையிட்ட நிலையில் வாகனப் பதிவு இன்றி வாகனம் பயணித்தமை தெரியவந்தது.
+🟩
 
-இதனையடுத்து சந்தேகநபரான நவாலி பகுதியினை சேர்ந்த இளைஞர் ஒருவர் கைது செய்யப்பட்டு முன்னெடுக்கப்பட்ட விசாரணைகளின் பிரகாரம் அவரது வீட்டிலிருந்து ஐந்து வாள்கள் கைப்பற்றப்பட்டுள்ளன.
+Jaffna police said they had seized a motor vehicle and five swords in Jaffna early Friday morning.
+
+It was revealed that the Jaffna police, who were involved in special patrols in the Jaffna Nagar area, had been suspiciously raided by a motor vehicle.
+
+Five swords have been seized from his home following an investigation into the arrest and carried out by a youth from the suspect.
 
 ◼️
 
 [Data](articles/9a758d15.json)
 
+[Extended Data](ext_articles/9a758d15.ext.json)
+
 ---
 
-### குவின்டன் டி கொக், டேவிட் மில்லரின் அதிரடிகள் தென் ஆபிரிக்காவின வெற்றிக்கு வித்திட்டன
+### Quinton de Kock, David Miller's actions sparked South Africa's victory
 
 *2024-06-22 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186667) · `ta`
 
-சென். லூசியா, க்ரொஸ் ஐலட் டெரன் சமி தேசிய கிரிக்கெட் விளையாட்டரங்கில் சற்று நேரத்துக்கு முன்னர் பரபரப்புக்கு மத்தியில் நிறைவுபெற்ற குழு 2க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை 7 ஓட்டங்களால் தென் ஆபிரிக்கா வெற்றிகொண்டது.
+South Africa secured its fifth T20 World Cup victory, defeating England by 7 runs in the Super 8 stage. Key contributions came from Quinton de Kock and David Miller with the bat, and Keshav Maharaj with the ball. Despite a slight dip in scoring post-Power Play, South Africa managed 163/6 in 20 overs. England, struggling early on, could only manage 156/6, with Harry Brook's 57 not enough to secure a win.
 
-ரி20 உலகக் கிண்ண வரலாற்றில் இங்கிலாந்தை 6ஆவது தடவையாக சந்தித்த தென் ஆபிரிக்கா ஈட்டிய 5ஆவது வெற்றி இதுவாகும்.
+🟩
 
-இன்றைய வெற்றியுடன் குழு 2இல் 2 வெற்றிகளுடன் 4 புள்ளிகளைப் பெற்றுள்ள தென் ஆபிரிக்கா அரை இறுதியில் விளையாடும் தனது வாய்ப்பை சற்று அதிகரித்துக்கொண்டுள்ளது.
+Sen. South Africa won the current champion England by 7 runs in the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Cross Islat Terren Sammy National Cricket Stadium.
 
-அத்துடன் இந்த உலகக் கிண்ணத்தில் தென் ஆபிரிக்கா இதுவரை தோல்வி அடையாத அணியாக இருக்கிறது.
+This is the 5th victory of South Africa's earnings in the history of the R20 World Cup for the 6th time.
 
-குவின்டன் டி கொக், டேவிட் மில்லர் ஆகியோரின் அதிரடி துடுப்பாட்டங்கள், கேஷவ் மஹாராஜின் சிறப்பான பந்துவீச்சு, அன்ரிச் நோக்யாவின் சாதுரியமும் கட்டுப்பாடும் கலந்த கடைசி ஓவர் என்பன தென் ஆபிரிக்காவை வெற்றிபெறச் செய்தன.
+With today's victory, South Africa, who scored 4 points with 2 wins in Group 2, is increasing the chance of playing the semi -final.
 
-அதேவேளை, இங்கிலாந்தின் முன்வரிசை வீரர்களின் மோசமான துடுப்பாட்டமும் தென் ஆபிரிக்காவுக்கு சாதகமான முடிவு கிடைக்க வழிவகுத்தன.
+And South Africa is the never -defeated team in this World Cup.
+
+Quinton de Kock and David Miller's action bats, Keshav Maharaj's excellent bowling, and the last over of Anrich Nogya's cloak and restrictions made South Africa a win.
+
+At the same time, the worst batting of the UK's leading players led to a favorable result for South Africa.
+
+South Africa scored 163 runs for the loss of 6 wickets in 20 overs in today's match
+
+South Africa scored 63 runs without the loss of wicket in the Power Play with the help of Quinton de Kokin's action.
 
 ...
 
 [Data](articles/bf6ce57e.json)
 
+[Extended Data](ext_articles/bf6ce57e.ext.json)
+
 ---
 
-### யாழில் 2024 ம் ஆண்டுக்கான சர்வதேச யோகா தின சிறப்பு நிகழ்வு ; ஆயிரத்திற்கு மேற்பட்டோரின் பங்கேற்பு
+### International Yoga Day Special Event for 2024 in Jaffna;The participation of more than a thousand people
 
 *2024-06-22 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186666) · `ta`
 
-இந்தியத் துணைத் தூதரகத்தின் ஏற்பாட்டில் யாழ்ப்பாணம் பண்பாட்டு மையத்தில் காலை 7:30 முதல் 8:30 மணி வரை யோகா நிகழ்ச்சி நடைபெற்றது.
+Jaffna hosted a large International Yoga Day event in 2024, organized by the Indian Consulate at the Jaffna Cultural Center. Over a thousand participants engaged in yoga practices from 7:30 am to 8:30 pm. Notable attendees included the Indian Deputy Ambassador Sai Murali, who highlighted yoga's significance as a holistic practice connecting heart, body, and soul, and its global relevance. The event focused on the theme "yoga for self and society," aiming to foster a healthier community through yoga. Celebrated globally on June 21, this initiative reflects India's proposal to recognize yoga's universal benefits.
 
-இந்நிகழ்வில் இந்தியத் துணைத் தூதர் சாய் முரளி, வடமாகாண சபை அவைத் தலைவர் சி.வி.கே.சிவஞானம், வடக்கு மாகாண கல்வி அமைச்சின் செயலாளர் பற்றிக் டிரஞ்சன், வடக்கு மாகாண விவசாயம் மற்றும் கமநல சேவைகள் மற்றும் சுகாதார அமைச்சின் செயலாளர் எம்.ஜெகு,யாழ்ப்பாணம் போதனா வைத்தியசாலையின் பணிப்பாளர் த.சத்தியமூர்த்தி, யாழ் மாநகர சபை ஆணையாளர் எஸ்.கிருஷ்ணேந்திரன், இந்தியத் தூதரக உயர் அதிகாரிகள் உட்படப் பலரும் கலந்துகொண்டனர்.
+🟩
 
-நிகழ்ச்சியை ஆரம்பித்து வைத்து உரையாற்றிய துணைத் தூதுவர் சாய் முரளி, இந்தியாவில் யோகாவின் பண்டைய தோற்றத்தை வலியுறுத்தினார், இதயம், உடல் மற்றும் ஆன்மாவை இணைக்கும் ஒரு முழுமையான பயிற்சியாக அதன் முக்கியத்துவத்தை வலியுறுத்தினார்.
+The Yoga program was held at the Jaffna Cultural Center from 7:30 am to 8:30 pm organized by the Indian Consulate.
+
+Indian Deputy Ambassador Sai Murali, Northern Provincial Council Chairman CVK Sivagnanam, Secretary to the Northern Provincial Ministry of Education, Pattik Tranjan, Northern Province Agriculture Services and Health Ministry Secretary M.Jgu, Director of Jaffna Teaching HospitalMunicipal Council Commissioner S. Krishnjendran and many other Indian embassy officials were present.
+
+Speaking at the launch of the event, Sai Murali, the vice -chancellor, emphasized the ancient appearance of yoga in India, and emphasized its importance as a complete exercise that connects the heart, body and soul.
+
+He noted the global character of yoga, which is important in modern life that has crossed the borders and high. Moreover, he introduced the theme of "yoga self and society" for this year, emphasizing the importance of building a healthy and prosperous society through yoga.
 
 ...
 
 [Data](articles/ce0e340f.json)
 
+[Extended Data](ext_articles/ce0e340f.ext.json)
+
 ---
 
 ### 2024-06-21 (Friday)
 
-### மன்னார் முருங்கன் பகுதியில் கோர விபத்து ; வயோதிப பெண் பலி
+### An accident demanding the Mannar Murugan area;Elderly victim
 
 *2024-06-21 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186665) · `ta`
 
-மன்னார் -மதவாச்சி பிரதான வீதி, முருங்கன் பொலிஸ் பிரிவிற்கு உட்பட்ட இசைமாலைத் தாழ்வுப் பகுதியில்  ஹயஸ் ரக வாகனம் மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியதில்  அதில் பயணித்த 14 பேர் காயமடைந்துள்ளதாகத் தெரிவிக்கப்பட்டது.
+A crash occurred near Mannar-Madawachchi, involving a vehicle from Kalmunai to Mannar. The accident resulted in injuries, with victims transported to Murugan and Mannar District General Hospitals for treatment.
 
-கல்முனையில் இருந்து மன்னார் மறிச்சுக்கட்டி  பிரதேசத்திற்குக் குறித்த வாகனத்தில்  வருகை தந்தவர்களின் வாகனம்   முருங்கன், இசைமாலை தாழ்வு, நரிக்காடு  வளைவு பகுதியில் உள்ள மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியுள்ளது.
+🟩
 
-விபத்தில்  காயமடைந்த அனைவரும்  முருங்கன் வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டு       மேலதிக சிகிச்சைக்காக 7 பேர் மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டனர்.
+The Hayas vehicle crashed into a car in the lower part of the Mannar -Madawachi main road, Murungan police division.
+
+The vehicle of the vehicle from Kalmunai to Mannar Mirichukkatti area has been hit by an electric pole in the Murugan, Murugan, Murugan, Narikkad area.
+
+All those injured in the accident were taken to Murugan Hospital and 7 persons were transferred to the Mannar District General Hospital for further treatment.
 
 ◼️
 
 [Data](articles/d8533ebd.json)
 
+[Extended Data](ext_articles/d8533ebd.ext.json)
+
 ---
 
-### வைத்தியசாலை வீதி ஒரு வழிப்பாதையாக மாற்றம்!
+### Hospital Street is a route!
 
 *2024-06-21 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186664) · `ta`
 
-வவுனியா பொது வைத்தியசாலை சுற்று வட்ட வீதி ஒரு வழிப்பாதையாக மாற்றுவதற்குத் தீர்மானிக்கப்பட்டுள்ளது.
+Vavuniya General Hospital's road is set to become a roundabout to ease traffic issues, improving accessibility for patients and the public. The change was discussed at a local meeting, allowing normal travel via Vavuniya Kandy Road and alternative routes like Kithul Road for visitors from Poonthottam. Stakeholders including the hospital administration, municipal council, divisional secretariat, and police will address any challenges during implementation.
 
-வவுனியா பொது வைத்தியசாலைக்குச் செல்லும் குறித்த  வீதியில் நீண்டகாலமாக வாகன நெரிசல் ஏற்ப்பட்டுவருகின்றது,இதனால் அந்த வீதியினை பயன்படுத்தும் பொதுமக்கள், பல்வேறு சிரமங்களை எதிர்நோக்கியிருந்ததுடன் நோயாளர்காவு வண்டிகளும் சிரமத்துடனேயே பயணிக்கவேண்டியிருந்தது.
+🟩
 
-இந்நிலையில் குறித்த வீதியானது எதிர்வரும் வாரங்களிலிருந்து ஒரு வழிப்பாதையாக மாற்றுவதற்குத் தீர்மானிக்கப்பட்டுள்ளது. இவ்விடயம் தொடர்பாக வவுனியா பிரதேச ஒருங்கிணைப்பு கூட்டத்திலும் கருத்துக்கள் முன்வைக்கப்பட்டிருந்தது.
+It has been decided to convert the Vavuniya General Hospital to a round road.
 
-அந்தவகையில் வவுனியா கண்டி வீதி வழியாக வருகைதரும் பொதுமக்கள் வழமைபோல வைத்தியசாலை சுற்று வட்டத்தினை பயன்படுத்தி வைத்தியசாலை வீதியால் தமது பயணத்தினை மேற்கொள்ள முடியும். அத்துடன் பூந்தோட்டம் பகுதியிலிருந்து வைத்தியசாலைக்கு வருகைதரும் பொதுமக்கள் கித்துள் வீதியினையோ அல்லது குளவீதியினை பயன்படுத்தி வைத்தியசாலைக்குச் செல்ல முடியும்.
+The road to the Vavuniya General Hospital has long been trafficking, causing the public to face various difficulties and the patient's carriage has to travel with difficulty.
 
-...
+In this case, the road has been decided to turn the road into a road from the coming weeks. Comments were made at the Vavuniya Divisional Coordination Meeting.
+
+The public can travel through the Vavuniya Kandy Road as usual as usual, using the hospital circuit.. In addition, the public visiting the hospital from the Poonthottam area can go to the hospital using Kithul Road or wasps.
+
+The hospital administration, the Municipal Council, the Divisional Secretariat and the Police will discuss the difficulties that are being implemented as it is currently being made.
+
+◼️
 
 [Data](articles/18f6b1d4.json)
+
+[Extended Data](ext_articles/18f6b1d4.ext.json)
 
 ---
 

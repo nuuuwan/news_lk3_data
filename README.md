@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 17:19:29**
+As of **2024-06-22 17:34:50**
 
 ## Newspaper Stats
 
-*Scraped **31,586** Articles*
+*Scraped **31,588** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 286
+colombotelegraphcom | 287
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
-adalk | 2,757
+adalk | 2,758
 adaderanalk | 3,582
 tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,154
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,585 (100.0%) of 31,586 articles have been extended.
+31,586 (100.0%) of 31,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ඉදිරි පැය 36 ගැන අලුත්ම කාලගුණ නිවේදනය
+### The latest weather notification on the next 36 hours
 
 *2024-06-22 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198026) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ඉක්මවූ තද වැසි ඇති විය හැකිය.
+Heavy showers expected in Western, Sabaragamuwa, Kandy, Nuwara Eliya, Puttalam, Matale, Anuradhapura, Mannar, North, North Central, Northwestern, Trincomalee, Hambantota, and Moneragala districts over the next 36 hours.
 
-ඉදිරි පැය 36 සඳහා නි‍වේදනයක් නිකුත් කරමින් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවය.
+🟩
 
-මාතලේ, අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලටත් සිහින් වැසි වාර කිහිපයක් ඇති වේ.
+There may be heavy showers in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya and Puttalam districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40 - 50ක පමණ තද සුළං ඇති විය හැකිය.
+The Meteorological Department (Met Department) stated that there will be showers in the Western, Sabaragamuwa and North Western provinces, in the Western, Sabaragamuwa and North Western provinces.
+
+Thinnings in Matale, Anuradhapura and Mannar districts have several times.
+
+In the North, North, North Central and Northwestern provinces can range from the North, North Central and North Western Provinces, Trincomalee, Hambantota and Moneragala Districts.
 
 ◼️
 
 [Data](articles/54d2dab1.json)
+
+[Extended Data](ext_articles/54d2dab1.ext.json)
 
 ---
 
@@ -235,6 +241,24 @@ Matale Police are conducting further investigations.
 [Data](articles/08963e12.json)
 
 [Extended Data](ext_articles/08963e12.ext.json)
+
+---
+
+### මැණික් සෙම්බුවක් ගන්න ගිය අයෙකුට වැඩ වරදී
+
+*2024-06-22 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-සෙම්බුවක්-ගන්න-ගිය-අයෙකුට-වැඩ-වරදී/11-410356) · `si`
+
+පොසොන් පොහොය  යෙදුණු ඊයේ දින  කලු ගලක් තුළ  තිබෙන බව කියන මැණික් පුරවන ලද සෙම්බුවක් ගොඩගැනීමට කැනීම් කරමින් සිටි බව කියන 38 හැවිරිදි පුද්ගලයෙකු කැනීම් සඳහා යොදාගත් විදුලි  උපකරණ ,රසායන ද්‍රව්‍ය හා පූජා ද්‍රව්‍ය සමගින් සැකපිට  අත් අඩංගුවට ගත් බව ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන අංශය කියයි.
+
+ගොලුවාමුල්ල, වැලිමානාන ප්‍රදේශයේ පිහිටි සිය නිවස  අසල පිහිටි කලුගලක   කැනීම් සිදුකරමින් සිටියදී  සැකකරු මෙලෙස අත් අඩංගුවට ගත් බව පොලීසිය කියයි.
+
+තම දරුවෙකුගේ කේන්ද්‍රය බැලූ නක්ෂත්‍ර කරුවෙකු විසින් පැවසූ අනාවැකියකට අනුව කට්ටඩියකු ගෙන්වා දින තුනක් පුද පූජා පවත්වා  මැණික් සෙම්බුව ගැනීම සඳහා මෙම කැනීම සිදුකළ බව සැකකරු පොලීසියට පැවසූ බවද පොලීසිය පැවසීය.
+
+සැකකරු හා අත් අඩංගුවට ගත් උපකරණ කොට්ඨාස දූෂණ මර්දන අංශය මගින්  ඇල්පිටිය පොලීසියට බාර දී ඇති අතර ඇල්පිටිය පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/459cc6aa.json)
 
 ---
 
@@ -743,6 +767,20 @@ Earlier, the deadline was granted until 31st March to send applications. The Com
 [Data](articles/2ed74b73.json)
 
 [Extended Data](ext_articles/2ed74b73.ext.json)
+
+---
+
+### NPP – A Reformed & Mature Political Movement – Part II
+
+*2024-06-22 11:10:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npp-a-reformed-mature-political-movement-part-ii/) · `en`
+
+An Analysis of JPV/NPP as a Reformed Political Movement along parliamentary democracy.
+
+PART I of this article delved into the historical perspective of the JVP, tracing its path from violence in 1971 and 1988/1989 to its political evolution to the parliamentary democracy in 1994. Following the above and gradually increasing the number of seats in the parliament, JVP emerged as the main opposition party with 34 parliamentary seats. This was a significant turning point for the JVP, marking its transition towards the expectation of the masses. Part II further elucidates this transformation, presenting the JVP/NPP as a mature and refined political party backed by the masses and outperforming its rivals in the democratic arena. This narrative, of course, counters the notion that the JVP/NPP is a group of individuals unfit for national leadership, instilling confidence in its ability to lead effectively to generate the change people have wanted since 1948.
+
+...
+
+[Data](articles/f165820a.json)
 
 ---
 
@@ -2309,51 +2347,5 @@ Recently discussions with the natural disasters caused by natural disasters, suc
 [Data](articles/9e735af4.json)
 
 [Extended Data](ext_articles/9e735af4.ext.json)
-
----
-
-### President reminds President of the past
-
-*2024-06-21 15:41:52* · [`adalk`](https://www.ada.lk/breaking_news/අමතක-නොකළ-යුතු-අතීතය-ගැන-ජනපති-මතක්-කරයි/11-410353) · `si`
-
-President Ranil Wickremesinghe addressed the 9th Ceylon Private Pharmaceutical Hall, thanking them for their contributions during the economic crisis, especially in providing essential medications. He highlighted the challenges faced, including shortages of fuel and fertilizers, and praised the association's role in supporting the country's health sector. The president emphasized the importance of moving towards a new economic transformation to prevent future crises, urging the adoption of technologies like AI to boost competitiveness.
-
-🟩
-
-President Ranil Wickremesinghe said that everyone should be unable to be unable to be unable to suffer from a new economic transformation that they should not be able to afford to meet the pharmaceuticals, fuel and fertilizer.
-
-The President was addressing the 9th Ceylon Private Pharmaceutical Hall Thero, the All Ceylon Private Pharmaceutical Hall Hotel at the Boralesgamuwa Golden Rose Hotel yesterday afternoon.
-
-The President also thanked the Pharmaceutical Hall Thera, Association who was responsible for the country and the economic crisis of the Korea epidemic and the economic crisis.
-
-The All Ceylon Private Pharmaceutants Association was established with the passage of the new pharmaceutical bill 2015. The Association has contributed to a number of social skills, including the Kidney Fund and the Health Fund, which plays a unconditional role in the country's prices and not any drug deficit.
-
-...
-
-[Data](articles/f042c327.json)
-
-[Extended Data](ext_articles/f042c327.ext.json)
-
----
-
-### Food donated to Kattakali animals in Mannar
-
-*2024-06-21 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186645) · `ta`
-
-On Poson Pournami Day, various animal welfare groups in Mannar donated food to local wildlife including dogs, donkeys, monkeys, cats, and crows. The Animals Humanitarian Management Association, along with other organizations like Wet of Beicher, Hard Meal, Million Wives, Bridging Lanka, and Hendro Animal Rescue, ensured a feast of vegetables and rice for these animals.
-
-🟩
-
-Food donated to Kattakali animals in Mannar on the eve of Poson Pournami Day.
-
-In Mannar, dogs, donkeys, monkeys, cats and crows are provided with vegetables and rice.
-
-The Animals Humanitarian Management Association, Wet of Beicher, Hard Meal, Million Wives, Bridging Lanka and Hendro Animal Rescue, have organized the donation event.
-
-◼️
-
-[Data](articles/7b5515fb.json)
-
-[Extended Data](ext_articles/7b5515fb.ext.json)
 
 ---

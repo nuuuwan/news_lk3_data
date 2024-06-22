@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 00:19:14**
+As of **2024-06-23 00:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,615** Articles*
+*Scraped **31,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
 islandlk | 1,740
-economynextcom | 1,824
+economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,764
 adaderanalk | 3,587
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,615 (100.0%) of 31,615 articles have been extended.
+31,615 (100.0%) of 31,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -396,6 +396,22 @@ Accordingly, Mrs. Yamun Perera has been informed by the Ministry and the Divisio
 
 ---
 
+### Sri Lanka will expedite Indian projects: President
+
+*2024-06-22 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-expedite-indian-projects-president-169028/) · `en`
+
+ECONOMYNEXT – Sri Lanka will expedite Indian-backed projects in the island, President Ranil Wickremesinghe told Indian business people after a visit by Indian External Affairs Minister S Jaishankar this week.
+
+“I discussed with Prime Minister Modi the need to accelerate the joint program that we have decided, agreed on. So the major ones are identified, and Foreign Minister Jaishankar came down today [20] to have a discussion. Now this will show the new path we are taking,” president Ranil Wickremesinghe said.
+
+“It won’t be individual projects. We’ve discussed a fair number of them. First is the grid interconnection between Sri Lanka and India, so that sustainable energy can be transmitted to India.
+
+...
+
+[Data](articles/d928f4c5.json)
+
+---
+
 ### Super actor arrested for murder of a fan
 
 *2024-06-22 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198029) · `si`
@@ -749,6 +765,26 @@ According to foreign media reports, bilateral discussions have been held between
 [Data](articles/d17e3796.json)
 
 [Extended Data](ext_articles/d17e3796.ext.json)
+
+---
+
+### Comments by Sri Lanka President, Justice Minister, intimidates judiciary: Lawyers collective
+
+*2024-06-22 16:05:00* · [`economynextcom`](https://economynext.com/comments-by-sri-lanka-president-justice-minister-intimidates-judiciary-lawyers-collective-169026/) · `en`
+
+ECONOMYNEXT – A recent statement by President Ranil Wickremesinghe over a Supreme Court decision against a planned gender equality law and comments by Justice Minister Wijedasa Rajapakse also in parliament amounts to intimidation of the judiciary, a lawyer’s grouping has said.
+
+“The President, Minister of Justice, Minister of Education are representatives of the entire Executive,” Sri Lanka’s Lawyers Collective said in a statement.
+
+“The President also exercises a critically important Constitutional power and responsibility in appointing judges to our highest judicial forum- the Supreme Court and the Minister of Justice controls resources to the judiciary.”
+
+“Such high executive office making insidious sweeping remarks about the judiciary using parliamentary privilege is a clear abuse of their power. ”
+
+The President’s comments came after a Supreme Court decision on a law that attempts to end discrimination on the basis of gender.
+
+...
+
+[Data](articles/ce049d8b.json)
 
 ---
 
@@ -2317,49 +2353,5 @@ Sagala Ratnayake said this while attending a discussion held at the Presidential
 [Data](articles/bb7d56f8.json)
 
 [Extended Data](ext_articles/bb7d56f8.ext.json)
-
----
-
-### Two from Sri Lanka arrested trying to illegally enter India
-
-*2024-06-21 22:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100014/two-from-sri-lanka-arrested-trying-to-illegally-enter-india) · `en`
-
-India’s Marine Police on Friday detained two Sri Lankans who had allegedly sneaked into Indian waters in a fibre boat. They were taken into custody for interrogation, Indian media reported.
-
-The Hindu, quoting sources in the police department, reported that the two identified themselves as Julius (23) and Jude Antony (32) and claimed to be from Sri Lanka.
-
-They spoke in Tamil and said that they hailed from Kalpitiya in Sri Lanka. Central agencies were also interrogating independently the two suspects, it said.
-
-The fibre boat was thoroughly searched upon and a police officer said that the surveillance duty personnel spotted the boat approaching towards Mandapam and intercepted them.
-
-◼️
-
-[Data](articles/562a9b22.json)
-
-[Extended Data](ext_articles/562a9b22.ext.json)
-
----
-
-### The President launched the Tantrimalai Poson Pooja event
-
-*2024-06-21 22:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தந்திரிமலை-பொசன்-பூஜை-நிகழ்வுகளை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-339235) · `ta`
-
-President Ranil Wickremesinghe inaugurated the 21st Tantrimalai Poson Pooja event at the historic Tandrimalai Rajamaha Viharaya, organized by Vijaya Newspaper Company Limited. He engaged in discussions with local leaders and participated in religious rituals, emphasizing the importance of unity and respect for cultural heritage.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated the pooja events of the historic Tandrimalai Rajamaha Viharaya, organized by Vijaya Newspaper Company Limited for the 21st time in front of Posan Pournami.
-
-The President, who visited the Tandrimalai Rajamaha Vihara this afternoon, engaged in a minor discussion after meeting with the Deputy Chief Society of the Northern and Eastern Provinces, Tandrimalai Rajamaha Vikripathi Van, Tandrimalai Chandaradana Thera.
-
-The president then engaged in religious rituals and received the blessings. Subsequently, the Tantrimalai Pooja events were launched by the President.
-
-Meanwhile, the President visited the Holy Earth in front of the Posan Pournami and asked them to visit the Holy Earth and heard them in a friendly conversation.. Remble
-
-◼️
-
-[Data](articles/5acda1a5.json)
-
-[Extended Data](ext_articles/5acda1a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 15:04:27**
+As of **2024-06-22 15:19:12**
 
 ## Newspaper Stats
 
-*Scraped **31,570** Articles*
+*Scraped **31,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
-adalk | 2,754
+adalk | 2,756
 adaderanalk | 3,580
 tamilmirrorlk | 3,707
 dailymirrorlk | 4,733
-virakesarilk | 4,906
-adaderanasinhalalk | 5,149
+virakesarilk | 4,910
+adaderanasinhalalk | 5,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,569 (100.0%) of 31,570 articles have been extended.
+31,570 (100.0%) of 31,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### ත්‍රීරෝද රථයක් බසයක ගැටී මව හා දියණිය මරණයට
+
+*2024-06-22 15:02:35* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථයක්-බසයක-ගැටී-මව-හා-දියණිය-මරණයට/11-410357) · `si`
+
+වත්තේගම සිට අනුරාධපුරේ වන්දනාවේ යමින් සිටි තීරෝද රථයක් බස් රථයක ගැටීමෙන් අද(22)දින එකම පවුලේ මව සහ දියණිය මරණයට පත්ව ඇතැයි මාතලේ පොලිසිය පවසයි.
+
+වත්තේගම සිට එකම පවුලේ මව පියා හා පුතා හා දියණිය ඔවුන්ගේ තීරෝද රථයෙන් අනුරාධපුරේ යෑමට පිටත්ව ඇති අතර මාතලේ පලාපත්වල කිරුළුගම ප්‍රදේශයේදී දඹුල්ල ප්‍රදේශයේ සිට මහනුවර දෙසට ගමන් කළ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් තීරෝද රථයේ පිටුපස ගමන් කළ මව ධම්මිකා පද්මිනි (54) හා දියණිය සචිනි තාරකා (17) මරණයට පත්ව ඇති අතර තීරෝද රථය පැදවූ පුත්‍රයා හා පිටුපස ගමන් කළ පියා මාතලේ දිස්ත්‍රික් මහ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+
+සිද්ධිය පිළිබඳ පරීක්ෂණ කටයුතු මාතලේ පොලිසිය මගින් සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/08963e12.json)
+
+---
+
+### අරුන් සිද්ධාර්ත් ට මව්බිම ජනතා පක්ෂයේ තනතුරක්
+
+*2024-06-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198022) · `si`
+
+මව්බිම ජනතා පක්ෂයේ යාපනය දිස්ත්‍රික් සංවිධායක සහ උත්තරීතර මණ්ඩල සාමාජික ලෙස අරුන් සිද්ධාර්ත් මහතාව පත්කර තිබේ.
+
+අද (22) පැවති මාධ්‍ය හමුවක දී එම පක්ෂයේ නායක, දිල්ත් ජයවීර මහතා විසින් අදාළ පත්වීම සිදුකළේය.
+
+◼️
+
+[Data](articles/70094cc1.json)
+
+---
 
 ### Arun Siddharth appointed MJP Jaffna District Organiser
 
@@ -41,6 +71,8 @@ Political and social activist Arun Siddharth has been appointed as the Jaffna Di
 ◼️
 
 [Data](articles/3c394d8a.json)
+
+[Extended Data](ext_articles/3c394d8a.ext.json)
 
 ---
 
@@ -101,6 +133,44 @@ A few parts of the aircraft were damaged in connecting to the International Spac
 [Data](articles/305d83e8.json)
 
 [Extended Data](ext_articles/305d83e8.ext.json)
+
+---
+
+### Factum Perspective: அனைத்து ஜனாதிபதியின் நபர்கள் பொருளாதார உருமாற்ற சட்டமூலத்தில் புதிய நிறுவனங்கள்
+
+*2024-06-22 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186696) · `ta`
+
+மே 10, 2024 இன் இரண்டாம் பாகமான பொருளாதார உருமாற்றம் குறித்த அண்மைய வர்த்தமானியானது, இலங்கையில் முதலீட்டை ஊக்குவிப்பதற்காக முன்னெப்போதுமில்லாத அதிகாரம் மற்றும் புதிய அதிகார வழிமுறை கொண்ட பல புத்தம் புதிய "ஒருங்கிணைக்கப்பட்ட" நிறுவனங்கள் மற்றும் அதிசக்தி வாய்ந்த சர்வதேச தூதுவர் ஆகியவற்றை உள்ளடக்குகின்றது.
+
+குறிப்பிடத்தக்க வகையில், தலைமைப்பதவி உட்பட அவை அனைத்தும் பெரும்பாலான உறுப்பினர்களை பணியமர்த்துவதற்கும் நீக்குவதற்குமான அதிகாரம் ஜனாதிபதியின் நேரடிக் கட்டுப்பாட்டின் கீழ் வந்ததாகத் தெரிகிறது.
+
+அவை இந்தப் பொறுப்புகள் தற்போது வழங்கப்பட்டுள்ள, இப்போது புதிய நிறுவனங்களுக்கு மாற்ற முன்மொழியப்பட்டுள்ள நிறுவனங்களின் மீது அதிகாரம் கொண்டவை அல்லது அவற்றை பிரதியிடுகின்றன.
+
+அவை தங்களுடைய சொந்த நிதியத்தை வைத்திருக்கவும், ஊழியர்களை நியமிக்கவும், சில வெளிநாடுகளில் கிளைகளை நிறுவவும், பிற நாடுகளில் பிரதிநிதிகள் மற்றும் பணியாளர்களை வைத்திருக்கவும் அங்கீகரிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/e6e4ae8a.json)
+
+---
+
+### வைத்தியர்கள் பலர் நாட்டை விட்டு வெளியேறத் தயாராகுவதாக தகவல்
+
+*2024-06-22 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186695) · `ta`
+
+பொருளாதார நெருக்கடியால் மூளைச் சலவைக்கு உள்ளாகும் வைத்தியர்களில் 25 சதவீதமானவர்கள்  நாட்டை விட்டு வெளியேற தயாராகவுள்ளதாக அரசாங்க வைத்திய அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+கடந்த 2022 மற்றும் 2023 ஆகிய இரண்டு ஆண்டுகளில் 1,800 க்கும் மேற்பட்ட வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் பேச்சாளர் சம்மில் விஜேசிங்க அரபு ஊடகமொன்றுக்கு தெரிவித்துள்ளார்.
+
+இலங்கையில் 2021 ஆம் ஆண்டில் கொரோனா வைரஸ் தொற்றை தொடர்ந்து மோசமான பொருளாதார நெருக்கடி ஏற்படுவதற்கு முன்னர் சராசரியாக 200 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளதாக சுகாதார அமைச்சின் புள்ளிவிவரங்கள் தெரிவிக்கின்றன.
+
+தற்போது  அரசாங்க வைத்தியசாலைகளில் பணியாற்றும் குறைந்தது 25 சதவீதமான வைத்தியர்கள் வெளிநாட்டில் வேலை பெற்றுக் கொள்வதற்கான பரீட்சைகளில் சித்தியடைந்துள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் தரவுகள் காட்டுவதால் இன்னும் பலர் அவர்களை பின்பற்ற வாய்ப்புள்ளது.
+
+ஐக்கிய அரபு எமிரேட்ஸ் அல்லது ஓமான் நாடுகளில் வைத்திய துறையில் ஈடுபட வைத்தியர்களுக்கான பிரத்தியேகமான பரீட்சைக்கு தோற்ற வேண்டும்.
+
+...
+
+[Data](articles/1860c26d.json)
 
 ---
 
@@ -194,6 +264,42 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 
 ---
 
+### மரக்கறிகளின் விலைகள் சடுதியாக அதிகரிப்பு
+
+*2024-06-22 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186690) · `ta`
+
+நாட்டின் பல பகுதிகளில் கடந்த காலங்களில் பெய்த  கடும் மழை காரணமாக ஏற்பட்ட வெள்ளம் உள்ளிட்ட இதர காரணங்களினால்  நாடளாவிய ரீதியில் மரக்கறிகளின் விலை திடீரென  அதிகரித்துள்ளது.
+
+மரக்கறி விற்பனை நிலையங்களில் ஒரு கிலோகிராம் போஞ்சியின் மொத்த விற்பனை விலை 550 முதல் 750 ரூபாய் வரையிலும்,  ஒரு கிலோகிராம் கறி மிளகாய் மற்றும் மிளகாய் 500 முதல் 650 ரூபாய் வரையிலும்,  ஒரு கிலோகிராம் பச்சை மிளகாய் 350 முதல் 500 ரூபாய் வரையிலும் உயர்ந்துள்ளதுடன் ஏனைய மரக்கறி வகைகள் அதிகளவில் உயர்ந்த நிலையில் உள்ளதாக பாவனையாளர் கூறுகின்றனர்.
+
+அத்துடன், ஒரு கிலோ கிராம் கரட் 460 ரூபாவிற்கும், ஒரு கிலோ கிராம் வெண்டைக்காய் 500 ரூபாவிற்கும், இஞ்சி ஒரு கிலோ 3,500 ரூபாவிற்கும், தேசிக்காய் ஒரு கிலோ 1,800 ரூபாவிற்கும்  விற்பனை செய்யப்படுகிறது.
+
+இதன்படி, கடந்த நாட்களில் 100 ரூபாவிற்கு குறைவாக விற்பனை செய்யப்பட்ட மரக்கறிகள் இன்று 300 முதல் 500 ரூபாவைக் கடந்துள்ளதாக வர்த்தகர்கள் குறிப்பிட்டுள்ளனர்.
+
+...
+
+[Data](articles/2485fd71.json)
+
+---
+
+### பறவைக் காய்ச்சல் : இலங்கைக்கு உலக சுகாதார ஸ்தாபனம் எச்சரிக்கை !
+
+*2024-06-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186688) · `ta`
+
+இந்தியா போன்ற அயல் நாடுகளில் மனிதர்களுக்குபறவைக் காய்ச்சல் பாதிப்புகள் பதிவாகியுள்ள நிலையில், இலங்கையை விழிப்புடன் இருக்குமாறு உலக சுகாதார ஸ்தாபனம் அறிவுறுத்தியுள்ளதாக ஆங்கில ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+
+பறவைக் காய்ச்சல் (bird flu) அல்லது ஏவியன் இன்ப்ளுவன்சா (avian influenza) என்பது ஒரு வைரஸ் தொற்று நோயாகும்.
+
+இது முதன்மையாக பறவைகளை பாதிக்கிறது, அத்தோடு கூட மனிதர்களுக்கும் பாதிப்பை ஏற்படுத்தும். பறவைக் காய்ச்சலின் மிகவும் பொதுவான வடிவமாக H5N1 உள்ளது.
+
+H5N1 என்பது வைரஸ்/இன்ப்ளுவன்சா ஆகும். பறவைக் காய்ச்சலால் பாதிக்கப்பட்ட பறவை அல்லது விலங்குகளுடன் மனிதர்கள் தொடர்புகளை பேணினால் இந்த வைரஸ் மனிதர்களையும் தாக்கும்.
+
+...
+
+[Data](articles/0cf166a8.json)
+
+---
+
 ### The 17-year-old schoolgirl has been raped
 
 *2024-06-22 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198017) · `si`
@@ -248,29 +354,9 @@ The owners of the dogs have said that the relevant authorities should take swift
 
 ---
 
-### Cardinal Ranjith clarifies financial support to Easter attack victims; ready to provide verification
-
-*2024-06-22 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100021/cardinal-ranjith-clarifies-financial-support-to-easter-attack-victims-ready-to-provide-verification) · `en`
-
-The Archbishop of Colombo Cardinal Malcolm Ranjith states that he has all the documents on how the funds received for victims of Easter Sunday terror attack was spent.
-
-Responding to the allegations levelled by former President Maithripala Sirisena, Cardinal Ranjith emphasized that the statement made by the former President regarding the relevant funds is completely baseless.
-
-“The statement made by former President Sirisena is completely hateful and inappropriate. He has a duty to ask the concerned parties what happened before making such remarks”, Cardinal Ranjith said.
-
-“Following the Easter attacks, we requested assistance from both international and domestic parties to address the needs of the affected individuals. These requirements were varied, including medical treatment in private hospitals for specialized care, and educational support for orphaned children. They required assistance from us in different areas.”
-
-...
-
-[Data](articles/583555ac.json)
-
-[Extended Data](ext_articles/583555ac.ext.json)
-
----
-
 ### Israeli attack near the International Red Cross in Gaza
 
-*2024-06-22 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186689) · `ta`
+*2024-06-22 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186689) · `ta`
 
 In Gaza, an Israeli attack near the International Red Cross headquarters resulted in over 25 Palestinian deaths. A grieving woman reported being attacked twice; once during the initial assault and again as others investigated. Hasan al-Najai lost his two sons in the first attack while trying to rescue victims.
 
@@ -297,6 +383,26 @@ They went to save a woman.
 [Data](articles/b182cfcf.json)
 
 [Extended Data](ext_articles/b182cfcf.ext.json)
+
+---
+
+### Cardinal Ranjith clarifies financial support to Easter attack victims; ready to provide verification
+
+*2024-06-22 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100021/cardinal-ranjith-clarifies-financial-support-to-easter-attack-victims-ready-to-provide-verification) · `en`
+
+The Archbishop of Colombo Cardinal Malcolm Ranjith states that he has all the documents on how the funds received for victims of Easter Sunday terror attack was spent.
+
+Responding to the allegations levelled by former President Maithripala Sirisena, Cardinal Ranjith emphasized that the statement made by the former President regarding the relevant funds is completely baseless.
+
+“The statement made by former President Sirisena is completely hateful and inappropriate. He has a duty to ask the concerned parties what happened before making such remarks”, Cardinal Ranjith said.
+
+“Following the Easter attacks, we requested assistance from both international and domestic parties to address the needs of the affected individuals. These requirements were varied, including medical treatment in private hospitals for specialized care, and educational support for orphaned children. They required assistance from us in different areas.”
+
+...
+
+[Data](articles/583555ac.json)
+
+[Extended Data](ext_articles/583555ac.ext.json)
 
 ---
 
@@ -641,6 +747,22 @@ The lorries that brought fuel to Gaza were also targeted.
 [Data](articles/57c85b73.json)
 
 [Extended Data](ext_articles/57c85b73.ext.json)
+
+---
+
+### හාර කෝටි අසූ ලක්ෂයක රන් බිස්කට් සමග ගුවන් තොටුපොළ ආරක්ෂක නිලධාරියෙක් අල්ලයි
+
+*2024-06-22 09:41:05* · [`adalk`](https://www.ada.lk/breaking_news/හාර-කෝටි-අසූ-ලක්ෂයක-රන්-බිස්කට්-සමග-ගුවන්-තොටුපොළ-ආරක්ෂක-නිලධාරියෙක්-අල්ලයි/11-410355) · `si`
+
+රුපියල් හාර කෝටි අසූ ලක්ෂයක් පමණ වටිනා රන් බිස්කට් 18 ක් කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ගුවන් තොටුපොළ ආරක්ෂක අංශයේ පරීක්ෂක  නිලධාරීවරයෙකු 06/21 දින අලුයම රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.මෙම ගුවන් තොටුපොළ ආරක්ෂක නිලධාරීවරයා වසර 15 ක සේවා කාලයක නිරතව සිටින  මාතර , හක්මණ ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකි.
+
+මොහු තම රාත්‍රී සේවා මුරය නිමා කර, ගුවන් මගින් පැමිණි කිසියම් මගියෙකු විසින් සංක්‍රමණික ගුවන් මගී පර්යන්තයේ වැසිකිළියක් තුළ දී ලබා දුන් රන් බිස්කට් තොගය ඔහුගේ කළිසම් සාක්කු වල දමා ගෙන, කටුනායක ගුවන් තොටුපොළෙන් පිටව යමින් සිටියදී , රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි.
+
+මෙසේ මෙම රන් බිස්කට් තොගය ගුවන් තොටුපොළෙන් පිට කර දීමට රුපියල් හැට දහසක මුදලක ලබා දීමේ පොරොන්දුව මත මෙම ආරක්ෂක නිලධාරීවරයා කටයුතු කර ඇති බව රේගුව සිදු කළ මූලික විමර්ශන වලදී අනාවරණය කර ගෙන තිබේ.
+
+...
+
+[Data](articles/50b259ff.json)
 
 ---
 
@@ -2179,193 +2301,5 @@ Samurdhi officer intervening and causing confusion. We are in confusion as Grama
 [Data](articles/9c01f809.json)
 
 [Extended Data](ext_articles/9c01f809.ext.json)
-
----
-
-### Correct Recovery with Burns in Jaffna
-
-*2024-06-21 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186632) · `ta`
-
-A man from Vadamarachchi East suffered burns while sleeping alone at home. Rescued by locals, he was first taken to Maruthankani Hospital and then transferred to Jaffna Teaching Hospital for further treatment. The cause remains unknown.
-
-🟩
-
-A family member from Vadamarachchi East, Vadamarachchi East, Vadamarachchi has been rescued by the public with burns and has been admitted to hospital.
-
-The man was sleeping alone at his home in Vatrayan area last Thursday night.
-
-During this time, he was rescued by the public and was admitted to the Maruthankani Hospital when he was running out of his home and was transferred to the Jaffna Teaching Hospital for further treatment.
-
-It is suspected that the cause of the incident may not be unknown.
-
-◼️
-
-[Data](articles/17c26a22.json)
-
-[Extended Data](ext_articles/17c26a22.ext.json)
-
----
-
-### Amnesty for 280 prisoners
-
-*2024-06-21 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186635) · `ta`
-
-On Poson Pournami Day, 289 prisoners were pardoned under the President's Special Amnesty, including 283 males and 6 females from various prisons across the country.
-
-🟩
-
-The Prisons Department said that 289 prisoners have been released on Friday (21) under the President's Special Amnesty amnesty on the occasion of Poson Pournami Day.
-
-The Department of Prisons has said that 19 prisoners in the Welikada Prison, 30 prisoners in Mahara Prison, 30 inmates in Wariyapola Prison and 28 prisoners from Kalutara Prison have been released.
-
-Accordingly, 283 male prisoners and six female prisoners have obtained the president's pardon.
-
-The Department of Prisons has stated that the Public amnesty has been granted in accordance with Article 34 of the Constitution and the powers granted to the President.
-
-◼️
-
-[Data](articles/acfdab07.json)
-
-[Extended Data](ext_articles/acfdab07.ext.json)
-
----
-
-### One was remanded by businessmen by businessmen through the SIM card
-
-*2024-06-21 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197989) · `si`
-
-A suspect linked to phone fraud targeting wealthy businessmen was arrested by the Computer Switez Intelligence Unit in Embilipitiya. The individual allegedly stole business data, including bank account details, and advised victims to switch SIM cards. Investigations revealed fraudulent activities amounting to over Rs. 210 lakhs. The suspect was remanded until July 4, facing charges in the Colombo Chief Magistrate's Court.
-
-🟩
-
-A person who is said to be released from telephone companies to July 4 on July 4.
-
-The Computer Switzer Intelligence Unit, a telephone dealers in Embilipitiya, was arrested by the Computer Switness Intelligence Unit.
-
-The suspect was produced before the Colombo Chief Magistrate's Court yesterday (20).
-
-The unit has informed the court that many people, including wealthy businessmen, have been fulfilled, have been fulfilled, such as to obtain phone renovation and cash.
-
-Investigations have said that the suspect identified the wealthy businessmen who come to obtain the services from him to obtain the services of him, the investigators have taken them in the larvae of the business.
-
-The suspect has then informed the businessmen to obtain new SIMs instead of these SIMs.
-
-The suspect, which stole the data of businesses in businesses, has been confidential to the bank accounts of those business accounts and received more than Rs. 210 lakhs.
-
-...
-
-[Data](articles/89f46359.json)
-
-[Extended Data](ext_articles/89f46359.ext.json)
-
----
-
-### Hamas cannot be completely destroyed -Israel's military spokesman's opinion
-
-*2024-06-21 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/186637) · `ta`
-
-An Israeli military spokesperson stated that completely destroying Hamas is impossible, likening such efforts to "sprinkling soil in the eyes." Despite this, Israel remains committed to eliminating Hamas as part of its strategy in the Gaza War, according to the Benjamin Netanyahu Office. This stance has sparked internal disputes, highlighted by differing statements from Israeli security forces and the prime minister's office.
-
-🟩
-
-A top official of the Israeli army has said that the Hamas movement cannot be completely destroyed.
-
-He said the idea that Hamasin could be destroyed and disappeared, but it is like sprinkling soil in the eyes of the people.
-
-The Benjamin Netanyaku Office, which has decided how to destroy Israel's security cabinet Hamasin, has said that Israel considers this as a purpose of the Gaza War.
-
-The Israeli military is dedicated to this, the Benjamin Netanyaku Office said.
-
-Meanwhile, Israeli security forces have later stated that they are dedicated to the destruction of Hamasin and that spokesman Hamas has said.
-
-Although the Israeli military has commented on the controversy caused by the military speaker, CNN has said that his comments have revealed the intensification of disagreements between the Israeli prime minister and the army.
-
-◼️
-
-[Data](articles/2407d212.json)
-
-[Extended Data](ext_articles/2407d212.ext.json)
-
----
-
-### India is also a trusted friend in Sri Lanka - Jeeashid
-
-*2024-06-21 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197987) · `si`
-
-Dr. S. Jaishankar, India's Foreign Minister, visited Sri Lanka, marking his first trip there since taking office. He met with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, discussing ways to bolster bilateral ties. The visit included meetings with opposition leader Sajith Premadasa and representatives from Tamil parties, emphasizing India's commitment to being a reliable ally to Sri Lanka.
-
-🟩
-
-Indian Foreign Minister Dr. S. Mr. Jeeasankar left his ODI last yesterday (20) afternoon.
-
-He said that he had a note of the visit and the first visit to Sri Lanka was very effective in the new four-term tour.
-
-Indian External Affairs Minister Dr. S. Sahana for one day tour. Mr. Jeeasankar arrived in Sri Lanka yesterday.
-
-The Indian Foreign Minister of India, who first met President Ranil Wickremesinghe, followed Prime Minister Dinesh Gunawardena.
-
-The two foreign ministers met with foreign ministers and Foreign Minister Ali Sabri has agreed to further strengthen bilateral relations.
-
-The Indian Foreign Minister and Opposition Leader Sajith Premadasa were then held.
-
-The Tamil parties representatives met the Indian Foreign Minister yesterday afternoon and a group of MPs representing the government participated in the event.
-
-He stated that he had a note on the visit, that he was fully ended in the first visit to Sri Lanka.
-
-He added that the Indian will continue as a reliable friend in Sri Lanka.
-
-◼️
-
-[Data](articles/50b5886d.json)
-
-[Extended Data](ext_articles/50b5886d.ext.json)
-
----
-
-### Sri Lanka repays US$225mn to Reserve Bank of India in first quarter
-
-*2024-06-21 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-us225mn-to-reserve-bank-of-india-in-first-quarter-168998/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has repaid 225 million US dollars to the Reserve Bank of India in the first quarter of 2024, on top of earlier repayments, official data shows.
-
-In October 2023 the Sri Lanka gave a Treasury guarantee to cover a 2,601.43 million dollar credit from RBI to Sri Lanka’s central bank.
-
-Sri Lanka’s got deferred payments due to India via the Asian Clearing Union during the worst currency crisis triggered by rate cuts since the creation of the central bank.
-
-According to official data the outstanding debt due to the Reserve Bank of India fell to 2,226.43 million US dollars by end March 2024 from 2,451.43 million dollars in December.
-
-From October the central bank had repaid 375 million dollars to India.
-
-Sri Lanka has repaid debt and also collected reserves by avoiding precipitate rate cuts.
-
-Repaying foreign debt or collecting foreign reserves requires interest rate to be kept a little higher to crowd out domestic credit and investments.
-
-...
-
-[Data](articles/805f6871.json)
-
-[Extended Data](ext_articles/805f6871.ext.json)
-
----
-
-### A group of inmates for pursuit of Poson
-
-*2024-06-21 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197986) · `si`
-
-Inmates marking Poson Poya received a special pardon from the government, including 289 detainees held for minor offenses. This act was highlighted by the President, emphasizing the importance of mercy and redemption.
-
-🟩
-
-A special number of prisons has been paid to a group of prisons to mark the Poson Poya.
-
-The President has taken this as well as the President has taken this as well as the President has taken.
-
-Accordingly, 289 detained holders who have been imprisoned for minor mistakes have been given a special state pardon today (21).. Mr. Dissanayake said.
-
-◼️
-
-[Data](articles/effdfbd3.json)
-
-[Extended Data](ext_articles/effdfbd3.ext.json)
 
 ---

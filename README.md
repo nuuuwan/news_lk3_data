@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 15:19:12**
+As of **2024-06-22 15:34:45**
 
 ## Newspaper Stats
 
-*Scraped **31,577** Articles*
+*Scraped **31,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,756
-adaderanalk | 3,580
+adaderanalk | 3,581
 tamilmirrorlk | 3,707
 dailymirrorlk | 4,733
 virakesarilk | 4,910
@@ -26,39 +26,71 @@ adaderanasinhalalk | 5,150
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,570 (100.0%) of 31,577 articles have been extended.
+31,577 (100.0%) of 31,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ත්‍රීරෝද රථයක් බසයක ගැටී මව හා දියණිය මරණයට
+### Property tax will not burden lower-income population, State Minister assures
+
+*2024-06-22 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100027/property-tax-will-not-burden-lower-income-population-state-minister-assures) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya emphasizes that the proposed imputed rental income tax will only be implemented after the first quarter of 2025.
+
+Speaking to the media, the state minister said that 90% of the country’s population will benefit through this tax.
+
+“This is not a tax that will be implemented this year. It is expected to be introduced after the first quarter of 2025. The wealthiest segment of our society, which is about 10 percent [of the population], will be subjected to this tax. 90 percent of the population will benefit through this tax”, Siyambalapitiya claimed.
+
+He further explained that this tax will allow a reduction in the indirect taxes that the majority of the public currently pay.
+
+“Even within the wealthiest 10%, their primary asset will not be taxed. Only a small percentage of their other assets will contribute to state income. We will ensure that the tax is affordable for them and beneficial in the long run,” he noted.
+
+...
+
+[Data](articles/5f7e6152.json)
+
+---
+
+### Mother and daughter to death in bus
 
 *2024-06-22 15:02:35* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථයක්-බසයක-ගැටී-මව-හා-දියණිය-මරණයට/11-410357) · `si`
 
-වත්තේගම සිට අනුරාධපුරේ වන්දනාවේ යමින් සිටි තීරෝද රථයක් බස් රථයක ගැටීමෙන් අද(22)දින එකම පවුලේ මව සහ දියණිය මරණයට පත්ව ඇතැයි මාතලේ පොලිසිය පවසයි.
+A mother and her daughter were tragically killed during a pilgrimage trip from Wattegama to Anuradhapura. The incident occurred near the Kirulgama area. Their father, who was driving, is critically injured and hospitalized in Matale District General Hospital. Investigations are ongoing by the Matale Police.
 
-වත්තේගම සිට එකම පවුලේ මව පියා හා පුතා හා දියණිය ඔවුන්ගේ තීරෝද රථයෙන් අනුරාධපුරේ යෑමට පිටත්ව ඇති අතර මාතලේ පලාපත්වල කිරුළුගම ප්‍රදේශයේදී දඹුල්ල ප්‍රදේශයේ සිට මහනුවර දෙසට ගමන් කළ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් තීරෝද රථයේ පිටුපස ගමන් කළ මව ධම්මිකා පද්මිනි (54) හා දියණිය සචිනි තාරකා (17) මරණයට පත්ව ඇති අතර තීරෝද රථය පැදවූ පුත්‍රයා හා පිටුපස ගමන් කළ පියා මාතලේ දිස්ත්‍රික් මහ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+🟩
 
-සිද්ධිය පිළිබඳ පරීක්ෂණ කටයුතු මාතලේ පොලිසිය මගින් සිදු කරනු ලබයි.
+The mother and daughter of the same family have been killed when an accused of pilgrimage from Wattegama to Anuradhapura.
+
+The mother of the same family from Wattegama to go to their accused from their accused from their accused from the Kirulgama area in Kirulgama area.17) Death and the father who was riding the Thaimmer drove and his father is receiving treatment at the ICU of the Matale District General Hospital.
+
+Matale Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/08963e12.json)
 
+[Extended Data](ext_articles/08963e12.ext.json)
+
 ---
 
-### අරුන් සිද්ධාර්ත් ට මව්බිම ජනතා පක්ෂයේ තනතුරක්
+### Around Arun Siddharth is a position of homeland
 
 *2024-06-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198022) · `si`
 
-මව්බිම ජනතා පක්ෂයේ යාපනය දිස්ත්‍රික් සංවිධායක සහ උත්තරීතර මණ්ඩල සාමාජික ලෙස අරුන් සිද්ධාර්ත් මහතාව පත්කර තිබේ.
+Arun Siddharth has been named the Jaffna District Organizer, while Dilith Jayaweera, the party leader, was appointed during a press conference.
 
-අද (22) පැවති මාධ්‍ය හමුවක දී එම පක්ෂයේ නායක, දිල්ත් ජයවීර මහතා විසින් අදාළ පත්වීම සිදුකළේය.
+🟩
+
+Available to the Jaffna District Organizer and the Supreme Council members have been appointed as the Jaffna District Organizer and the Supreme Boards.
+
+The party leader Dilith Jayaweera was appointed in a press conference held today.
 
 ◼️
 
 [Data](articles/70094cc1.json)
+
+[Extended Data](ext_articles/70094cc1.ext.json)
 
 ---
 
@@ -136,41 +168,57 @@ A few parts of the aircraft were damaged in connecting to the International Spac
 
 ---
 
-### Factum Perspective: அனைத்து ஜனாதிபதியின் நபர்கள் பொருளாதார உருமாற்ற சட்டமூலத்தில் புதிய நிறுவனங்கள்
+### Factum Perspective: All president's persons are new companies in the Economic Transformation Bill
 
 *2024-06-22 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186696) · `ta`
 
-மே 10, 2024 இன் இரண்டாம் பாகமான பொருளாதார உருமாற்றம் குறித்த அண்மைய வர்த்தமானியானது, இலங்கையில் முதலீட்டை ஊக்குவிப்பதற்காக முன்னெப்போதுமில்லாத அதிகாரம் மற்றும் புதிய அதிகார வழிமுறை கொண்ட பல புத்தம் புதிய "ஒருங்கிணைக்கப்பட்ட" நிறுவனங்கள் மற்றும் அதிசக்தி வாய்ந்த சர்வதேச தூதுவர் ஆகியவற்றை உள்ளடக்குகின்றது.
+The Economic Transformation Bill introduces new integrated corporations in Sri Lanka, granting the president significant control over hiring and eliminating members, including leadership. These companies can manage their funds, hire globally, and are obligated to share information with select organizations and government departments. Concerns about potential misuse of power, compatibility with anti-corruption efforts, and the impact on economic policies dominate discussions. Critics argue for delays to ensure public support and avoid rushed decisions that could limit future administrations' flexibility.
 
-குறிப்பிடத்தக்க வகையில், தலைமைப்பதவி உட்பட அவை அனைத்தும் பெரும்பாலான உறுப்பினர்களை பணியமர்த்துவதற்கும் நீக்குவதற்குமான அதிகாரம் ஜனாதிபதியின் நேரடிக் கட்டுப்பாட்டின் கீழ் வந்ததாகத் தெரிகிறது.
+🟩
 
-அவை இந்தப் பொறுப்புகள் தற்போது வழங்கப்பட்டுள்ள, இப்போது புதிய நிறுவனங்களுக்கு மாற்ற முன்மொழியப்பட்டுள்ள நிறுவனங்களின் மீது அதிகாரம் கொண்டவை அல்லது அவற்றை பிரதியிடுகின்றன.
+The recent Gazette, the second part of May 10, 2024, comprises many brand new "integrated" corporations and a miraculous international ambassador to promote investment in Sri Lanka.
 
-அவை தங்களுடைய சொந்த நிதியத்தை வைத்திருக்கவும், ஊழியர்களை நியமிக்கவும், சில வெளிநாடுகளில் கிளைகளை நிறுவவும், பிற நாடுகளில் பிரதிநிதிகள் மற்றும் பணியாளர்களை வைத்திருக்கவும் அங்கீகரிக்கப்பட்டுள்ளன.
+Significantly, the power to hire and eliminate most members, including the leadership, seems to have come under the president's direct control.
+
+These responsibilities are currently empowered or replicated on companies that are currently proposed to new companies.
+
+They are authorized to hold their own funds, hire employees, establish branches abroad and have representatives and employees in other countries.
+
+They are legally obligated to request and obtain information from some selected organizations and other government departments. In addition to exceptional circumstances, such as the Right to Information Act, two new companies have confidential elements that prevent their employees from publishing information.
 
 ...
 
 [Data](articles/e6e4ae8a.json)
 
+[Extended Data](ext_articles/e6e4ae8a.ext.json)
+
 ---
 
-### வைத்தியர்கள் பலர் நாட்டை விட்டு வெளியேறத் தயாராகுவதாக தகவல்
+### Information that many doctors are preparing to leave the country
 
 *2024-06-22 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186695) · `ta`
 
-பொருளாதார நெருக்கடியால் மூளைச் சலவைக்கு உள்ளாகும் வைத்தியர்களில் 25 சதவீதமானவர்கள்  நாட்டை விட்டு வெளியேற தயாராகவுள்ளதாக அரசாங்க வைத்திய அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+Due to Sri Lanka's economic crisis, 25% of doctors are considering leaving the country. Over 1,800 doctors have emigrated since 2022, with an average of 200 leaving annually pre-pandemic. Many are preparing for exams to practice abroad, particularly in the UAE, Oman, the UK, and Australia.
 
-கடந்த 2022 மற்றும் 2023 ஆகிய இரண்டு ஆண்டுகளில் 1,800 க்கும் மேற்பட்ட வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் பேச்சாளர் சம்மில் விஜேசிங்க அரபு ஊடகமொன்றுக்கு தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையில் 2021 ஆம் ஆண்டில் கொரோனா வைரஸ் தொற்றை தொடர்ந்து மோசமான பொருளாதார நெருக்கடி ஏற்படுவதற்கு முன்னர் சராசரியாக 200 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளதாக சுகாதார அமைச்சின் புள்ளிவிவரங்கள் தெரிவிக்கின்றன.
+The Government Medical Officers Association has said that 25 percent of the doctors who are brainwashed due to the economic crisis are ready to leave the country.
 
-தற்போது  அரசாங்க வைத்தியசாலைகளில் பணியாற்றும் குறைந்தது 25 சதவீதமான வைத்தியர்கள் வெளிநாட்டில் வேலை பெற்றுக் கொள்வதற்கான பரீட்சைகளில் சித்தியடைந்துள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் தரவுகள் காட்டுவதால் இன்னும் பலர் அவர்களை பின்பற்ற வாய்ப்புள்ளது.
+State Medical Officers Association spokesman Samri Wijesinghe told a media that more than 1,800 doctors have left the country in the last two years 2022 and 2023.
 
-ஐக்கிய அரபு எமிரேட்ஸ் அல்லது ஓமான் நாடுகளில் வைத்திய துறையில் ஈடுபட வைத்தியர்களுக்கான பிரத்தியேகமான பரீட்சைக்கு தோற்ற வேண்டும்.
+According to statistics from the Ministry of Health, an average of 200 doctors have left the country before the Corona virus infection in Sri Lanka in 2021.
 
-...
+At least 25 percent of doctors who are currently working in government hospitals have passed the exams for work abroad and many others are more likely to follow them.
+
+In the United Arab Emirates or Oman, the special examination for the doctors should be for the exam.
+
+Must look for the examination of the professional and linguistic assessment group to engage in the medical field in the UK. In Australia, they have to appear for the Australian Medical Council examination.
+
+◼️
 
 [Data](articles/1860c26d.json)
+
+[Extended Data](ext_articles/1860c26d.ext.json)
 
 ---
 
@@ -264,39 +312,61 @@ The ‘Urumaya’ national program is expected to grant 2 million freehold land 
 
 ---
 
-### மரக்கறிகளின் விலைகள் சடுதியாக அதிகரிப்பு
+### A mutant increase in prices of vegetables
 
 *2024-06-22 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186690) · `ta`
 
-நாட்டின் பல பகுதிகளில் கடந்த காலங்களில் பெய்த  கடும் மழை காரணமாக ஏற்பட்ட வெள்ளம் உள்ளிட்ட இதர காரணங்களினால்  நாடளாவிய ரீதியில் மரக்கறிகளின் விலை திடீரென  அதிகரித்துள்ளது.
+Vegetable prices have surged nationwide, with costs ranging from 300 to 500 rupees per kg for items previously under 100 rupees. Factors contributing to this spike include floods affecting crop yields and unfavorable weather conditions hampering supply.
 
-மரக்கறி விற்பனை நிலையங்களில் ஒரு கிலோகிராம் போஞ்சியின் மொத்த விற்பனை விலை 550 முதல் 750 ரூபாய் வரையிலும்,  ஒரு கிலோகிராம் கறி மிளகாய் மற்றும் மிளகாய் 500 முதல் 650 ரூபாய் வரையிலும்,  ஒரு கிலோகிராம் பச்சை மிளகாய் 350 முதல் 500 ரூபாய் வரையிலும் உயர்ந்துள்ளதுடன் ஏனைய மரக்கறி வகைகள் அதிகளவில் உயர்ந்த நிலையில் உள்ளதாக பாவனையாளர் கூறுகின்றனர்.
+🟩
 
-அத்துடன், ஒரு கிலோ கிராம் கரட் 460 ரூபாவிற்கும், ஒரு கிலோ கிராம் வெண்டைக்காய் 500 ரூபாவிற்கும், இஞ்சி ஒரு கிலோ 3,500 ரூபாவிற்கும், தேசிக்காய் ஒரு கிலோ 1,800 ரூபாவிற்கும்  விற்பனை செய்யப்படுகிறது.
+Other reasons, including floods in many parts of the country, have suddenly increased the price of vegetables across the country.
 
-இதன்படி, கடந்த நாட்களில் 100 ரூபாவிற்கு குறைவாக விற்பனை செய்யப்பட்ட மரக்கறிகள் இன்று 300 முதல் 500 ரூபாவைக் கடந்துள்ளதாக வர்த்தகர்கள் குறிப்பிட்டுள்ளனர்.
+One kilogram of pongi in vegetable outlets is Rs 550 to 750, one kilogram of curry chilli and chilli from Rs 500 to Rs 650 and one kilogram of green chilli has risen from Rs 350 to 500 and other vegetables are high.
 
-...
+In addition, one kilogram of carat is sold for 460 rupees, one kilogram of peanuts for 500 rupees, ginger for 3,500 rupees and Desikai for 1,800 rupees.
+
+Accordingly, the vegetables that have been sold for less than 100 rupees in the past have crossed 300 to 500 rupees today.
+
+They noted that the prices of vegetables have increased due to the inclement weather in the past.
+
+This is why the prices of vegetables are rising nationwide.
+
+It has been pointed out that the prices of vegetables have increased due to the inclement weather at present due to the lack of supply of vegetables.
+
+◼️
 
 [Data](articles/2485fd71.json)
 
+[Extended Data](ext_articles/2485fd71.ext.json)
+
 ---
 
-### பறவைக் காய்ச்சல் : இலங்கைக்கு உலக சுகாதார ஸ்தாபனம் எச்சரிக்கை !
+### World Health Organization warns Sri Lanka
 
 *2024-06-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186688) · `ta`
 
-இந்தியா போன்ற அயல் நாடுகளில் மனிதர்களுக்குபறவைக் காய்ச்சல் பாதிப்புகள் பதிவாகியுள்ள நிலையில், இலங்கையை விழிப்புடன் இருக்குமாறு உலக சுகாதார ஸ்தாபனம் அறிவுறுத்தியுள்ளதாக ஆங்கில ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+The World Health Organization has warned Sri Lanka about the risk of Bird Flu, specifically H5N1, which can jump from birds to humans. This virus, along with others like H7N9, poses a significant threat due to its severity. Recent cases in India and Australia highlight the global spread from poultry farms. Despite no evidence of human-to-human transmission, continuous vigilance is crucial.
 
-பறவைக் காய்ச்சல் (bird flu) அல்லது ஏவியன் இன்ப்ளுவன்சா (avian influenza) என்பது ஒரு வைரஸ் தொற்று நோயாகும்.
+🟩
 
-இது முதன்மையாக பறவைகளை பாதிக்கிறது, அத்தோடு கூட மனிதர்களுக்கும் பாதிப்பை ஏற்படுத்தும். பறவைக் காய்ச்சலின் மிகவும் பொதுவான வடிவமாக H5N1 உள்ளது.
+An English media reports that the World Health Organization has advised Sri Lanka to be alerted in neighboring countries like India.
 
-H5N1 என்பது வைரஸ்/இன்ப்ளுவன்சா ஆகும். பறவைக் காய்ச்சலால் பாதிக்கப்பட்ட பறவை அல்லது விலங்குகளுடன் மனிதர்கள் தொடர்புகளை பேணினால் இந்த வைரஸ் மனிதர்களையும் தாக்கும்.
+Bird Flu or Avian Influenza is a viral infection.
+
+It primarily affects birds, as well as affects even humans. H5N1 is the most common form of bird fever.
+
+H5N1 is the virus/influenza. The virus can also attack humans if humans maintain contact with birds or animals.
+
+The main bird fever virus tribes include H5, H7, H9 and H10. H5N1, H5N8 (rarely), H7N9, H7N2, H7N3, H7N7, H9N2 and H10 NEMA. H5N1 and H7N9 are particularly severe, causing excessive death. H9N2 and H10N8 can usually cause normal disease. Continuous monitoring is essential because these viruses are likely to cause infection and cause infections.
+
+Recently, a child from West Bengal in India was found to have been infected with Avian Influenza.
 
 ...
 
 [Data](articles/0cf166a8.json)
+
+[Extended Data](ext_articles/0cf166a8.ext.json)
 
 ---
 
@@ -750,19 +820,29 @@ The lorries that brought fuel to Gaza were also targeted.
 
 ---
 
-### හාර කෝටි අසූ ලක්ෂයක රන් බිස්කට් සමග ගුවන් තොටුපොළ ආරක්ෂක නිලධාරියෙක් අල්ලයි
+### Airport security officer arrested with gold biscuits
 
 *2024-06-22 09:41:05* · [`adalk`](https://www.ada.lk/breaking_news/හාර-කෝටි-අසූ-ලක්ෂයක-රන්-බිස්කට්-සමග-ගුවන්-තොටුපොළ-ආරක්ෂක-නිලධාරියෙක්-අල්ලයි/11-410355) · `si`
 
-රුපියල් හාර කෝටි අසූ ලක්ෂයක් පමණ වටිනා රන් බිස්කට් 18 ක් කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ගුවන් තොටුපොළ ආරක්ෂක අංශයේ පරීක්ෂක  නිලධාරීවරයෙකු 06/21 දින අලුයම රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.මෙම ගුවන් තොටුපොළ ආරක්ෂක නිලධාරීවරයා වසර 15 ක සේවා කාලයක නිරතව සිටින  මාතර , හක්මණ ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකි.
+A 40-year-old airport security officer from Hakmana, Matara, was arrested at Katunayake airport for attempting to smuggle out 18 gold biscuits weighing 2.8 kg. The incident occurred early morning when the officer tried to conceal the gold biscuits. Further investigations are ongoing.
 
-මොහු තම රාත්‍රී සේවා මුරය නිමා කර, ගුවන් මගින් පැමිණි කිසියම් මගියෙකු විසින් සංක්‍රමණික ගුවන් මගී පර්යන්තයේ වැසිකිළියක් තුළ දී ලබා දුන් රන් බිස්කට් තොගය ඔහුගේ කළිසම් සාක්කු වල දමා ගෙන, කටුනායක ගුවන් තොටුපොළෙන් පිටව යමින් සිටියදී , රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි.
+🟩
 
-මෙසේ මෙම රන් බිස්කට් තොගය ගුවන් තොටුපොළෙන් පිට කර දීමට රුපියල් හැට දහසක මුදලක ලබා දීමේ පොරොන්දුව මත මෙම ආරක්ෂක නිලධාරීවරයා කටයුතු කර ඇති බව රේගුව සිදු කළ මූලික විමර්ශන වලදී අනාවරණය කර ගෙන තිබේ.
+Office Inspector General of Customs Drug Adminment Officers In the morning, the airport security officer has been arrested in the opening of 18 gold biscuits at Katunayake airport.There is a 40 year old resident of Hakmana in Matara.
 
-...
+He was arrested by the Customs Drug Administration by the Customs Drug Administration by the Customs Drug Administration by a puspect given to his nightboard and left the Katunayake airport..
+
+Customers who have been revealed that the security officer had taken measures to give the gold biscuit to leave the airport.
+
+The gold biscuits weighs 116.6 grams of gold and the gold biscuits weighs two kilograms and eight grams of gold biscuits. Customs Media Spokesperson, Director General of Customs Media Spokesperson, Savi Arukgoda was also present at the Katunayake airport to monitor the occasion.
+
+Officers who have been arrested by the Airport Defense Inspector in the manuscript have been conducting further investigations.
+
+◼️
 
 [Data](articles/50b259ff.json)
+
+[Extended Data](ext_articles/50b259ff.ext.json)
 
 ---
 
@@ -2275,31 +2355,5 @@ Initial investigations conducted by Sri Lanka Customs have revealed that the arr
 [Data](articles/66043879.json)
 
 [Extended Data](ext_articles/66043879.ext.json)
-
----
-
-### Yall. Kalundai area people protest
-
-*2024-06-21 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186634) · `ta`
-
-Residents of Jaffna and Kalundai protested on Friday against a building project funded by a German woman, affecting both areas. The project, approved by the Chandilipayi Divisional Secretary, primarily benefits one division, causing discontent among locals. A Samurdhi officer's involvement has added to the confusion, with accusations of favoritism and neglecting the needs of both communities. Protesters demand unity between the two divisions.
-
-🟩
-
-The people of Jaffna and Kalundai have launched a protest campaign near their settlement program on Friday (21).
-
-There are two Grama Niladhari Divisions, J/135 and J/136. But the total of 88 families live in. There are about 27 families in the J/135 Grama Niladhari Division. Others are in the Grama Niladhari Division.
-
-To divide the two villages, with the permission of the Chandilipayi Divisional Secretary, a German woman's fund is being built. This building is dependent on J/135. This has affected the people of J/136.
-
-For whom this building is, for what purpose, we know nothing of which management is built. When asked about this, he said that he had not been given any official information about it.
-
-Samurdhi officer intervening and causing confusion. We are in confusion as Grama Sevakara Samurdhi Officer. We were also happy with the people of two parts. But a Samurdhi officer divides the two people and causes trouble.
-
-...
-
-[Data](articles/9c01f809.json)
-
-[Extended Data](ext_articles/9c01f809.ext.json)
 
 ---

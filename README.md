@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 00:34:46**
+As of **2024-06-23 00:51:43**
 
 ## Newspaper Stats
 
-*Scraped **31,617** Articles*
+*Scraped **31,619** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 287
+colombotelegraphcom | 289
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,615 (100.0%) of 31,617 articles have been extended.
+31,617 (100.0%) of 31,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -376,6 +376,30 @@ Meanwhile on Wednesday (19), the leader of the Tamil United Freedom Front (TUFF)
 
 ---
 
+### Unbundling The CEB II: Ranil & The Politics Of Reforming SOEs
+
+*2024-06-22 18:34:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unbundling-the-ceb-ii-ranil-the-politics-of-reforming-soes/) · `en`
+
+It is an old truism in policy analysis that there is nothing purely ‘technical’ in policy decisions. Every policy decision has a political aspect to it. Technical analysis is necessary and useful to identify and evaluate feasible options, including the costs and benefits of each option. In the end, what is selected or rejected is a political matter based on political preferences. There is nothing wrong with that. What gets to be objectionable is when decisions are made to reach outcomes to benefit some or disbenefit someone else based on inappropriate considerations.
+
+...
+
+[Data](articles/7847aa78.json)
+
+---
+
+### Free Markets Predate Capitalism
+
+*2024-06-22 18:33:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/free-markets-predate-capitalism/) · `en`
+
+Göbekli Tepe is the best known of half a dozen sites which have captured the attention of archeologists. Located in south-east Anatolia (Turkey) in the upper-reaches of the river Euphretes in the northern portion of the Fertile Crescent, it is an ancient market town with archeologically interesting temples which date back to the neolithic (new stone age) period, 9500-8000 BC. The birth of agriculture is credited to women who stayed at home and planted (gatherers) as men (hunters) buggered-off, chewed on meat, munched bones and came home from time to time to empty their overfull containers before they burst, and to procreate. The point of all this for this essay is that ancient market towns predate modes of production (slavery, feudalism, capitalism). Free markets are not a creation, nor a prelude, to capitalism as bogus liberal democrats, the IMF or an assortment of crooks would have us believe. Markets have been an ancient setting of human dealings for over ten-thousand years.
+
+...
+
+[Data](articles/f20a94aa.json)
+
+---
+
 ### Pre-school teacher monthly allowance from Poson Maha
 
 *2024-06-22 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරු-මාසික-දීමනාව--පොසොන්-මහේ-සිට-දෙගුණයක්-වේ/11-410362) · `si`
@@ -409,6 +433,8 @@ ECONOMYNEXT – Sri Lanka will expedite Indian-backed projects in the island, Pr
 ...
 
 [Data](articles/d928f4c5.json)
+
+[Extended Data](ext_articles/d928f4c5.ext.json)
 
 ---
 
@@ -785,6 +811,8 @@ The President’s comments came after a Supreme Court decision on a law that att
 ...
 
 [Data](articles/ce049d8b.json)
+
+[Extended Data](ext_articles/ce049d8b.ext.json)
 
 ---
 
@@ -2309,49 +2337,5 @@ The conference, organized by the Sri Lanka Land Development Corporation under th
 [Data](articles/d3795fce.json)
 
 [Extended Data](ext_articles/d3795fce.ext.json)
-
----
-
-### No one should forget the past
-
-*2024-06-21 23:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-காலத்தை-யாரும்-மறக்கக்-கூடாது/175-339237) · `ta`
-
-President Wickremesinghe urges not to forget the past, highlighting issues like money laundering affecting medicines, fuel, and fertilizers. He calls for unity in the government's economic transformation plan to ensure a better future for Sri Lanka, avoiding repeating past mistakes for the next generation. This was part of his address at the 9th conference of the All Ceylon Private Pharmacy Owners Association.
-
-🟩
-
-President Ranil Wickremesinghe said that no one should forget the past, which has been suffering from money laundering for the country's medicines, fuel and fertilizer, and that everyone should join the government's program to build Sri Lanka through a new economic transformation rather than leave such a dark experience for the next generation.
-
-The President also stated that everyone should join the government's program to build Sri Lanka through a new economic change, rather than leaving the dark experience to the next generation.
-
-The President said this while addressing the 9th conference of the All Ceylon Private Pharmacy Owners Association.(a)
-
-◼️
-
-[Data](articles/038b9dcc.json)
-
-[Extended Data](ext_articles/038b9dcc.ext.json)
-
----
-
-### Compensation for damaged homes
-
-*2024-06-21 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதமடைந்த-வீடுகளுக்கு-இழப்பீடு/175-339236) · `ta`
-
-President Wickremesinghe directs compensation for fully damaged homes post-inclement weather, with evaluations underway for fair assessment.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to take steps to provide compensation to the houses that have been completely damaged due to inclement weather, said Sagala Ratnayake, the President's Senior Advisor and President of the President.
-
-At the same time, Sagala Ratnayake added that steps will be taken to evaluate the damaged houses and provide compensation under maximum definition.
-
-Sagala Ratnayake said this while attending a discussion held at the Presidential Secretariat yesterday regarding the rehabilitation of houses that have been completely and partially damaged due to inclement weather for the past few days.. (A)
-
-◼️
-
-[Data](articles/bb7d56f8.json)
-
-[Extended Data](ext_articles/bb7d56f8.ext.json)
 
 ---

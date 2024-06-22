@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 08:19:47**
+As of **2024-06-22 08:34:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,535 (100.0%) of 31,537 articles have been extended.
+31,537 (100.0%) of 31,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,8 @@ People’s Leasing & Finance PLC (PLC), one of Sri Lanka’s leading non-banking
 ...
 
 [Data](articles/3418c63a.json)
+
+[Extended Data](ext_articles/3418c63a.ext.json)
 
 ---
 
@@ -187,6 +189,8 @@ hSenid Business Solutions, a leading Human Capital Management (HCM) solutions pr
 ...
 
 [Data](articles/fbfc1c58.json)
+
+[Extended Data](ext_articles/fbfc1c58.ext.json)
 
 ---
 

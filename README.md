@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 21:54:18**
+As of **2024-06-22 22:07:03**
 
 ## Newspaper Stats
 
-*Scraped **31,609** Articles*
+*Scraped **31,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,83 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,762
-adaderanalk | 3,585
+adaderanalk | 3,586
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,162
+adaderanasinhalalk | 5,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,607 (100.0%) of 31,609 articles have been extended.
+31,609 (100.0%) of 31,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### මෛත්‍රී හැදූ මෙත්සිරිපාය සුදු අලියෙක් ?
+### බංග්ලාදේශය ට ලැබුණු ඉලක්කය
+
+*2024-06-22 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198036) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ බංග්ලාදේශය අතර තරගය මේවන විට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව, පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවී ලකුණු 196ක් රැස්කළේය.
+
+එහිදී ඉන්දීය ඉනිම වෙනුවෙන් හර්දික් පාණ්ඩ්‍යා නොදැවී ලකුණු 50ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/de61382f.json)
+
+---
+
+### Methsiripa, a white elephant?
 
 *2024-06-22 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198035) · `si`
 
-පොදු මහජනතාවට යහපත සැලසීමේ අරමුණින් ක්‍රියාවට නැංවෙන සංවර්ධන ව්‍යාපෘති භාවිතයට නොගෙන අතහැර දමන අවස්ථාද නිරන්තරයෙන් වාර්තා වෙයි.
+The text discusses the underutilized Mathaziriya Administrative Building Complex in Polonnaruwa, constructed at a cost of Rs. 1.5 billion as part of the "Renojara Navodaya" project aimed at centralizing government agencies. Despite being operational since 2019, issues like inadequate air conditioning prevent its full utilization. Critics question the efficiency and public benefit of such projects funded by taxpayers' money.
 
-වසර 8කට ආසන්න කාලයක් මුළුල්ලේ භාවිතයට නොගෙන අතහැර දමා ඇති පොළොන්නරුව මෙත්සිරිපාය පරිපාලන ගොඩනැගිලි සංකීර්ණයද ඊට කදිම නිදසුනකි.‍
+🟩
 
-රුපියල් මිලියන 1500ක වියදමින් පොළොන්නරුව මෙත්සිරිපාය පරිපාලන ගොඩනැගිලි සංකීර්ණයේ ඉදිකිරීම් ආරම්භ වන්නේ 2016 දෙසැම්බර් 16 වැනිදාය.
+It is also often taken to abandon the development projects implemented without use to use the good for the general public.
 
-ඒ හිටපු, ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ සංකල්පයකට අනුව 2015 "යළි පිබිදෙමු පොළොන්නරුව රජරට නවෝදය" ජනපති වැඩසටහන යටතේය.
+The Administrative Building Complex, the Administrative Building of the Polonnaruwa has not been used for nearly eight years, is a good example.
 
-පොළොන්නරුව දිස්ත්‍රික්කයේ සියලුම රාජ්‍ය ආයතන එකම ස්ථානයකට ගෙනඒම එහි අරමුණ විය.
+Construction of the Mathaziriaya Administrative Building Complex will begin at the cost of Rs. 16, 2016 at a cost of Rs. 1500 million.
 
-නමුත්, මෙහි ඉදිකිරීම් සිදුකිරීමට තිබියදීත් උතුරුමැද ආණ්ඩුකාරවරයාගේ කාර්යාලය පමණක් සකසා එය 2019 නොවැම්බර් පළමුවැනිදා ජනතා අයිතියට පත්කිරීමට මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කර තිබුණි.
+According to a concept of former, President Maithripala Sirisena, 2015 "Renojara Navodaya"
 
-එතැන් පටන් අවස්ථා ගණනාවකදී එම පරිපාලන සංකීර්ණයේ නඩත්තු කටයුතු සිදුකෙරුණද එහි අද පරවියන්ගේ රජ දහනක් බවට ද මෙහි ඇතැම් ස්ථාන පත්ව තිබේ.
+Its aim was to bring all government agencies in the Polonnaruwa District to one place.
+
+However, Maithripala Sirisena had acted only the office of the North Central Province and opened the North Central Province to operate the next November 1st of 2019.
+
+Although the maintenance of the administrative complex was conducted on several occasions, it has also been in the area of ​​the pigelogies.
 
 ...
 
 [Data](articles/30519190.json)
+
+[Extended Data](ext_articles/30519190.ext.json)
+
+---
+
+### Sri Lanka to advance in strong partnership with India to achieve development objectives - President
+
+*2024-06-22 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100033/sri-lanka-to-advance-in-strong-partnership-with-india-to-achieve-development-objectives-president-) · `en`
+
+President Ranil Wickremesinghe expressed his commitment to maintaining a strong partnership with India to achieve Sri Lanka’s development goals. Emphasizing the urgency to expedite joint initiatives, President Wickremesinghe highlighted a comprehensive agenda aimed at transformative bilateral projects.
+
+The President highlighted the importance of enhancing cooperation between the two nations, particularly in the energy sector, aiming to foster new development for the Northern region, which has been deeply affected by three decades of conflict.
+
+President Ranil Wickremesinghe made these remarks while delivering a compelling vision for the future of Sri Lanka-India relations during his address at the 31st All India Partner’s Meet 2024 (AIPM 2024), held at ICT Ratnadipa in Colombo.
+
+...
+
+[Data](articles/b8483254.json)
 
 ---
 
@@ -69,6 +109,8 @@ President Ranil Wickremesinghe made these remarks while delivering a compelling 
 ...
 
 [Data](articles/e0809383.json)
+
+[Extended Data](ext_articles/e0809383.ext.json)
 
 ---
 
@@ -2307,45 +2349,5 @@ However, it is not known whether or not King will play in the match against Engl
 [Data](articles/61a40f6f.json)
 
 [Extended Data](ext_articles/61a40f6f.ext.json)
-
----
-
-### The goal of England
-
-*2024-06-21 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198005) · `si`
-
-In the T20 World Cup, England faces South Africa in the Super 08 match. South Africa made 163 runs losing 6 wickets in 6 overs.
-
-🟩
-
-The match between the Super 08, England and South Africa, will be played between the Twenty20 World Cup.
-
-South Africa scored 163 runs for the loss of six wickets in the loss of 6 overs.
-
-◼️
-
-[Data](articles/306115e5.json)
-
-[Extended Data](ext_articles/306115e5.ext.json)
-
----
-
-### Rajitha commends President
-
-*2024-06-21 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198004) · `si`
-
-Rajitha praises President Ranil Wickremesinghe for handling Sri Lanka's financial crisis effectively, making it the fastest nation to declare bankruptcy. He criticizes opposition parties and emphasizes the importance of unity and decisive action in overcoming economic challenges.
-
-🟩
-
-Sri Lanka is the only country in which the bankruptcy is the only country in the shortest period of time.
-
-He further stated that the government is overcome during the crisis of the crisis of the President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/9b24cbb7.json)
-
-[Extended Data](ext_articles/9b24cbb7.ext.json)
 
 ---

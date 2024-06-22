@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 14:05:10**
+As of **2024-06-22 14:19:30**
 
 ## Newspaper Stats
 
-*Scraped **31,566** Articles*
+*Scraped **31,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,578
+adaderanalk | 3,579
 tamilmirrorlk | 3,706
 dailymirrorlk | 4,733
 virakesarilk | 4,906
-adaderanasinhalalk | 5,148
+adaderanasinhalalk | 5,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,566 (100.0%) of 31,566 articles have been extended.
+31,566 (100.0%) of 31,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Tunisian president sacks minister after the death of dozens on Haj pilgrimage
+
+*2024-06-22 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100025/tunisian-president-sacks-minister-after-the-death-of-dozens-on-haj-pilgrimage) · `en`
+
+Tunisian President Kais Saied sacked Brahim Chaibi, the minister of religious affairs, following widespread criticism after the deaths of dozens of Tunisians taking part in the Haj pilgrimage, the presidency said on Friday.
+
+At least 49 Tunisians have died due to the extreme heat in Saudi Arabia during the past week. Tunisian families are still searching for several missing people.
+
+◼️
+
+[Data](articles/d152cefe.json)
+
+---
+
+### බෝයිං STARLINER ගගනගාමීන් තවත් අර්බුදයක
+
+*2024-06-22 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198021) · `si`
+
+ගගනගාමී සූනි විලියම්ස් සහ බුච් විල්මෝර් රැගත් බෝයිං සමාගමේ ස්ටාර්ලයිනර් යානය ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය වෙත ළඟාවුයේ පසුගිය ජූනි 6 වනදාය.
+
+කෙසේ නමුත් ගමන අතරතුර ස්ටාර්ලයිනර් යානයේ ඇති වූ දෝෂ සහ හානි හේතුවෙන් එය ආපසු පෘථිවිය වෙත පැමිණීම ලබන ජූලි දෙවනදා දක්වා ප්‍රමාද වී තිබේ.
+
+ස්ටාර්ලයිනර් යානයේ පළමු ගමන මෙය වන අතර එය ආපසු පැමිණීමට නියමිතව පැවතියේ මේ මස 26 වනදාය.
+
+යානය ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය වෙත සම්බන්ධවීමේදී එහි කොටස් කිහිපයකට හානි සිදුව තිබූ අතර එහි හීලියම් කාන්දුවක් ද වාර්තා වී තිබුණි.
+
+◼️
+
+[Data](articles/305d83e8.json)
+
+---
 
 ### Adapted Tax in 2025
 
@@ -2339,49 +2371,5 @@ It is noteworthy that the Department of Examinations has announced that the dead
 [Data](articles/505d4d44.json)
 
 [Extended Data](ext_articles/505d4d44.ext.json)
-
----
-
-### The main notice issued to high -quality students
-
-*2024-06-21 11:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-மாணவர்களுக்கு-விடுக்கப்பட்ட-முக்கிய-அறிவிப்பு/175-339217) · `ta`
-
-High-quality students must apply for the 2024 exams via the official website or mobile app by June 10. Government and approved private school students need school principal approval. No extensions will be granted beyond this deadline.
-
-🟩
-
-The Department of Examinations has requested the Examinations to submit applications for the 2024 examinations before June 10 and submit applications before the time limit will not be extended.
-
-The Department of Examinations has announced that the Internet applications will be accepted till June 10 and students of government and state -approved private schools should send applications through their school principal.
-
-The Commissioner General of Examinations Amit Jayasundera said that applications can be sent through the official website of the Examination and the mobile phone.. Remble
-
-◼️
-
-[Data](articles/4e2b1f13.json)
-
-[Extended Data](ext_articles/4e2b1f13.ext.json)
-
----
-
-### Minister Jeevan thanked the Indian government
-
-*2024-06-21 11:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்திய-அரசாங்கத்திற்கு-அமைச்சர்-ஜீவன்-நன்றி-தெரிவிப்பு/76-339216) · `ta`
-
-President Ranil Wickremesinghe and Indian officials inaugurated 106 homes in Sri Lanka's plantation areas, funded by India. Minister Jeevan thanked the Indian government for its support, highlighting its importance for the hill country's residents.
-
-🟩
-
-President Ranil Wickremesinghe and Indian External Affairs Minister Dr. Jaishankar inaugurated the commemoration of 106 separate houses that have been constructed and completed in the upland plantation areas through the financial assistance of the Government of India.
-
-The event was held at the Presidential Palace, jointly inaugurated by Virtual, the 106 -year -old memories of the 106 households in Nuwara Eliya, Kandy and Matale districts.
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman participated in the event and thanked the Government of India for their request for the need for the people of the hill country.. Remble
-
-◼️
-
-[Data](articles/fe8a1090.json)
-
-[Extended Data](ext_articles/fe8a1090.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 17:55:12**
+As of **2024-06-22 18:12:03**
 
 ## Newspaper Stats
 
-*Scraped **31,590** Articles*
+*Scraped **31,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,758
 adaderanalk | 3,583
-tamilmirrorlk | 3,708
+tamilmirrorlk | 3,710
 dailymirrorlk | 4,733
 virakesarilk | 4,910
 adaderanasinhalalk | 5,155
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,588 (100.0%) of 31,590 articles have been extended.
+31,590 (100.0%) of 31,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### எதிர்வரும் 36 மணித்தியாலங்களில் வானிலையில் மாற்றம்
+
+*2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-36-மணித்தியாலங்களில்-வானிலையில்-மாற்றம்/175-339245) · `ta`
+
+அதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், கண்டி, நுவரெலியா மற்றும் புத்தளம் மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அறிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் எனவும் குறிப்பிட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் மணிக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/021e404a.json)
+
+---
+
+### சமூக வலைத்தளங்களால் மனநல பாதிப்பு ஏற்படும்
+
+*2024-06-22 17:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமூக-வலைத்தளங்களால்-மனநல-பாதிப்பு-ஏற்படும்/50-339244) · `ta`
+
+சமூக வலைத்தளங்கள் இளைஞர்களிடையே மனநல பாதிப்பை ஏற்படுத்தும் அபாயம் காணப்படுவதால் அனைவரும் எச்சரிக்கையுடன் செயற்படுமாறு அமெரிக்க மருத்துவரான விவேக் மூர்த்தி வலியுறுத்தியுள்ளார்.
+
+அமெரிக்காவில் 13 முதல் 17 வயதுக்குட்பட்டவர்களில் 95 சதவீதமானோர் சமூக வலைத்தளங்களைப் பயன்படுத்தி வருவதாக தெரிவிக்கப்படுகின்றது.
+
+இந்த நிலையில் அமெரிக்காவில் செயல்படும் அனைத்து சமூக வலைத்தளங்களுக்கும் எச்சரிக்கை முத்திரையினை வெளியிடுமாறு அவர் அமெரிக்க காங்கிரஸிடம் கோரிக்கை விடுத்துள்ளார். R
+
+◼️
+
+[Data](articles/b49aab73.json)
+
+---
 
 ### Heavy showers of 100mm expected in parts of the island
 
@@ -48,25 +80,33 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/e1d04142.json)
 
+[Extended Data](ext_articles/e1d04142.ext.json)
+
 ---
 
-### ඔස්ට්‍රේලියාවේ ශීත ඍතුවේ සමාරම්භය සනිටුහන් කළ නිරුවත් පිහිණුම් ඉසව්ව
+### Nude swimming event marked by the inauguration of the winter in Australia
 
 *2024-06-22 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198027) · `si`
 
-ශීත සෘතුවේ ආරම්භය සනිටුහන් කිරීම සඳහා ඔස්ට්‍රේලියාවේ හෝබාට් හි Derwent නදියේ 3,000කට වැඩි පිරිසක් නිරුවතින් පිහිනීමේ ඉසව්වකට සහභාගී වී තිබේ.
+In Australia, over 3,000 people braved cold waters at the inaugural winter nude swimming event in the Derwentan rift of Hoyabatt since its inception in 2013. The event aims to raise funds for mental health initiatives amidst outdoor temperatures around 5°C and river water at 11°C.
 
-මෙම ඉසව්ව පළමුවෙන්ම ආරම්භ කර ඇත්තේ 2013 වසරේ දී තරගකරුවන් සිය ගණනකගේ සහභාගීත්වයෙනි.
+🟩
 
-විදෙස් වාර්තා පවස්නේ මෙම වසරේ 3,000කට වැඩි පිරිසක් මෙම ඉසව්ව සඳහා සහභාගී වූ බවත් එය වාර්තා ගත පිරිසක් වන බවත්ය.
+More than 3,000 people in Australia have attended a swimming event in the Derwentan rift of Hoyabatt, Australia, to mark the beginning of the winter.
 
-පුද්ගලයන්ගේ මානසික සෞඛ්‍ය වර්ධනය සඳහා පිහිට වන ලද අරමුදලක් වෙනුවෙන් මුදල් එක් රැස් කිරීමේ අරමුණින් මෙම ඉසව්ව සංවිධානය කර ඇති බව වාර්තා වේ.
+The event was first established in the year 2013 at the participation of hundreds of competitors.
 
-සිකුරාදා අලුයම වන විට Derwent නදියේ ජලයෙන් පිටත උෂ්ණත්වය සෙල්සියස් අංශක 5ක් පමණ වන අතර ගං දියේ උෂ්ණත්වය සෙල්සියස් අංශක 11ක් පමණ වී ඇති බව සඳහන් වේ.
+More than 3,000 people have participated in this event this year in the year.
+
+It is reported that the event has been organized to collect money for a fund for a fund for the mental health development of individuals.
+
+Outsidating temperatures outside the Derwentan Rid of Dervent Rid of Dervent Relic is about 5 degrees Celsius and the temperature of the river is about 11 degrees Celsius.
 
 ◼️
 
 [Data](articles/f5a2a417.json)
+
+[Extended Data](ext_articles/f5a2a417.ext.json)
 
 ---
 
@@ -532,11 +572,11 @@ The President has assigned 192 percent of the 27,595 families who qualified in 1
 
 *2024-06-22 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100023/president-ranil-awards-freehold-land-deeds-in-batticaloa) · `en`
 
-President Ranil Wickremesinghe has symbolically distributed freehold deeds to 192 individuals from 13 divisional secretariat divisions in the Batticaloa District out of the 27,595 qualified families, under the ‘Urumaya’ freehold deeds program, the President’s Media Division (PMD) said.
+President Ranil Wickremesinghe emphasized that his primary focus is on providing “rights” to the people of the country. He made this statement during a ceremony held today (22) at the Batticaloa District Secretariat, where Urumaya freehold land deeds were awarded to 192 families across 14 divisional secretariat divisions in the Batticaloa district, as part of the government’s initiative to distribute 2 million freehold land deeds.
 
-The ‘Urumaya’ national program is expected to grant 2 million freehold land deeds to people across the island.
+Under the Urumaya program, 27,595 landless families in Batticaloa district are to receive freehold deeds, with 2,610 already granted. Additionally, 252 English diploma holders from the Higher National Engineering Diploma Institute received teacher appointments today, presided over by the President.
 
-◼️
+...
 
 [Data](articles/68c59f27.json)
 
@@ -2297,53 +2337,5 @@ The customer investigations have revealed that the security officer had tried to
 [Data](articles/bc8dacff.json)
 
 [Extended Data](ext_articles/bc8dacff.ext.json)
-
----
-
-### The checkpoint at the Mannar main bridge was removed.
-
-*2024-06-21 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186643) · `ta`
-
-Protests and demands from Mannar district's public organizations and activists led to the removal of checkpoints and roadblocks there. This decision came after a meeting where Mannar District Parliamentarian Charles Nirmalanathan was directed by President Ranil Wickremesinghe to do so. Despite this, military presence remains unchanged.
-
-🟩
-
-The main checkpoint and roadblocks that have long been inconvenienced by the people in Mannar district have been removed today (21).
-
-Mannar district public organizations and civil activists have carried out protests and issuing letters to the concerned government officials, demanding the removal of the checkpoint.
-
-At a meeting of the Special Coordinating Committee headed by President Ranil Wickremesinghe recently, Mannar District Parliamentarian Charles Nirmalanathan was asked to remove the checkpoint to President Ranil Wickremesinghe.
-
-As a result of the president's advice, the road barriers found in the bridge today have been removed.
-
-However, it is noteworthy that the military is constantly in the area and no military buildings have been removed.
-
-◼️
-
-[Data](articles/d65399d8.json)
-
-[Extended Data](ext_articles/d65399d8.ext.json)
-
----
-
-### Shahuku's records
-
-*2024-06-21 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197994) · `si`
-
-Shah Rukh Khan, known as the Indian super-actor, has surpassed others like Amir Khan, Amit Kumar, and Salman Khan to become the wealthiest actor in India, according to the latest issue of Farbs magazine.
-
-🟩
-
-According to the latest reports of the Farbs magazine, Indian super-actor Shahuk Khan has become the richest actor of India.
-
-Shah Rukh's full gross asset charged over Rs.
-
-Amir Khan also includes the richest Indian actors among the richest Indian actors, including Amit Kumar and Salman Khan.
-
-◼️
-
-[Data](articles/9b491d58.json)
-
-[Extended Data](ext_articles/9b491d58.ext.json)
 
 ---

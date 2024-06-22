@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 17:34:50**
+As of **2024-06-22 17:55:12**
 
 ## Newspaper Stats
 
-*Scraped **31,588** Articles*
+*Scraped **31,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,758
-adaderanalk | 3,582
+adaderanalk | 3,583
 tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,154
+adaderanasinhalalk | 5,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,586 (100.0%) of 31,588 articles have been extended.
+31,588 (100.0%) of 31,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Heavy showers of 100mm expected in parts of the island
+
+*2024-06-22 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100030/heavy-showers-of-100mm-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts tomorrow (23).
+
+In its latest weather forecast, the department mentioned that heavy showers of about 100mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya and Puttalam districts.
+
+Meanwhile, several spells of light showers will occur in Matale, Anuradhapura and Mannar districts, it added.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts, according to the Met. Department.
+
+◼️
+
+[Data](articles/e1d04142.json)
+
+---
+
+### ඔස්ට්‍රේලියාවේ ශීත ඍතුවේ සමාරම්භය සනිටුහන් කළ නිරුවත් පිහිණුම් ඉසව්ව
+
+*2024-06-22 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198027) · `si`
+
+ශීත සෘතුවේ ආරම්භය සනිටුහන් කිරීම සඳහා ඔස්ට්‍රේලියාවේ හෝබාට් හි Derwent නදියේ 3,000කට වැඩි පිරිසක් නිරුවතින් පිහිනීමේ ඉසව්වකට සහභාගී වී තිබේ.
+
+මෙම ඉසව්ව පළමුවෙන්ම ආරම්භ කර ඇත්තේ 2013 වසරේ දී තරගකරුවන් සිය ගණනකගේ සහභාගීත්වයෙනි.
+
+විදෙස් වාර්තා පවස්නේ මෙම වසරේ 3,000කට වැඩි පිරිසක් මෙම ඉසව්ව සඳහා සහභාගී වූ බවත් එය වාර්තා ගත පිරිසක් වන බවත්ය.
+
+පුද්ගලයන්ගේ මානසික සෞඛ්‍ය වර්ධනය සඳහා පිහිට වන ලද අරමුදලක් වෙනුවෙන් මුදල් එක් රැස් කිරීමේ අරමුණින් මෙම ඉසව්ව සංවිධානය කර ඇති බව වාර්තා වේ.
+
+සිකුරාදා අලුයම වන විට Derwent නදියේ ජලයෙන් පිටත උෂ්ණත්වය සෙල්සියස් අංශක 5ක් පමණ වන අතර ගං දියේ උෂ්ණත්වය සෙල්සියස් අංශක 11ක් පමණ වී ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/f5a2a417.json)
+
+---
 
 ### The latest weather notification on the next 36 hours
 
@@ -244,21 +282,27 @@ Matale Police are conducting further investigations.
 
 ---
 
-### මැණික් සෙම්බුවක් ගන්න ගිය අයෙකුට වැඩ වරදී
+### A man who went to take a gem cmbor at work
 
 *2024-06-22 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-සෙම්බුවක්-ගන්න-ගිය-අයෙකුට-වැඩ-වරදී/11-410356) · `si`
 
-පොසොන් පොහොය  යෙදුණු ඊයේ දින  කලු ගලක් තුළ  තිබෙන බව කියන මැණික් පුරවන ලද සෙම්බුවක් ගොඩගැනීමට කැනීම් කරමින් සිටි බව කියන 38 හැවිරිදි පුද්ගලයෙකු කැනීම් සඳහා යොදාගත් විදුලි  උපකරණ ,රසායන ද්‍රව්‍ය හා පූජා ද්‍රව්‍ය සමගින් සැකපිට  අත් අඩංගුවට ගත් බව ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන අංශය කියයි.
+A man was arrested in Welimakana for allegedly using chemical equipment and substances for illegal activities, including sacrifices related to a child's contest prediction. The arrest occurred during an excavation at his home. Further investigations are ongoing by the Elpitiya Police.
 
-ගොලුවාමුල්ල, වැලිමානාන ප්‍රදේශයේ පිහිටි සිය නිවස  අසල පිහිටි කලුගලක   කැනීම් සිදුකරමින් සිටියදී  සැකකරු මෙලෙස අත් අඩංගුවට ගත් බව පොලීසිය කියයි.
+🟩
 
-තම දරුවෙකුගේ කේන්ද්‍රය බැලූ නක්ෂත්‍ර කරුවෙකු විසින් පැවසූ අනාවැකියකට අනුව කට්ටඩියකු ගෙන්වා දින තුනක් පුද පූජා පවත්වා  මැණික් සෙම්බුව ගැනීම සඳහා මෙම කැනීම සිදුකළ බව සැකකරු පොලීසියට පැවසූ බවද පොලීසිය පැවසීය.
+The Elpitiya Divisional Corruption Unit said that the Poson Point had been arrested on suspicion, chemical equipment, chemical equipment, chemicals and sacrifices used.
 
-සැකකරු හා අත් අඩංගුවට ගත් උපකරණ කොට්ඨාස දූෂණ මර්දන අංශය මගින්  ඇල්පිටිය පොලීසියට බාර දී ඇති අතර ඇල්පිටිය පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+The suspect was arrested while excavation at a house near his home in Welimimakana, Weligamagana.
+
+The suspect has told the police that this excavation has been made to hold the sacrifices for a predictor of a child's contention by a child's center.
+
+Elpitiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/459cc6aa.json)
+
+[Extended Data](ext_articles/459cc6aa.ext.json)
 
 ---
 
@@ -781,6 +825,8 @@ PART I of this article delved into the historical perspective of the JVP, tracin
 ...
 
 [Data](articles/f165820a.json)
+
+[Extended Data](ext_articles/f165820a.ext.json)
 
 ---
 
@@ -2299,53 +2345,5 @@ Amir Khan also includes the richest Indian actors among the richest Indian actor
 [Data](articles/9b491d58.json)
 
 [Extended Data](ext_articles/9b491d58.ext.json)
-
----
-
-### Boosting Sri Lanka female employment can counter ageing population, migration
-
-*2024-06-21 16:00:00* · [`economynextcom`](https://economynext.com/boosting-sri-lanka-female-employment-can-counter-ageing-population-migration-168897/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s female employment lags Asian peers and clearing barriers to their work could be an important economic driver in the context of an ageing population and migration, Deputy Treasury Secretary R M P Rathnayake said.
-
-Sri Lanka’s female labor force participation was estimated at 29.4 percent, according to the latest survey, compared to men’s participation which is at 67.4 percent.
-
-However, many women also go abroad to countries with better monetary regimes and send back remittances.
-
-“If you compare the participation of the labor force with other regional countries, such as Indonesia, Malaysia, Vietnam and Singapore, they are very ahead of Sri Lanka,” Rathnayake said.
-
-“In Indonesia it’s 53% and Malaysia 52%, Vietnam 68%. So, it’s very high. And Singapore 62%.”
-
-Making it easier for females to work could also boost economic growth.
-
-...
-
-[Data](articles/ae9ae491.json)
-
-[Extended Data](ext_articles/ae9ae491.ext.json)
-
----
-
-### President instructs compensation to compensate for houses damaged due to inclement weather
-
-*2024-06-21 15:51:28* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්-හානි-වූ-නිවාස-වෙනුවෙන්-වන්දි-ලබාදීමට-ජනපතිගෙන්-උපදෙස්/11-410354) · `si`
-
-President Wickremesinghe ordered compensation for homes damaged by bad weather, with a focus on repair or regeneration. The Presidential Staff Head, Sagala Ratnayake, confirmed this decision, emphasizing efforts to aid both fully and partially damaged properties. Discussions included setting a maximum compensation limit for repairs or renovations, aiming to support affected individuals effectively.
-
-🟩
-
-President Ranil Wickremesinghe said that President Ranil Wickremesinghe was instructed by President Ranil Wickremesinghe and Presidential Staff Head of the President Sagala Ratnayake said President Ranil Wickremesinghe has instructed to pay compensation to be compensated or taken to regenerate these houses due to inclement weather.
-
-He also said that steps will be taken to pay the damage to repairing partially damaged houses and will be paid to a maximum limit.
-
-Mr. Sagala Ratnayake made these comments participating at the discussion held at the Presidential Secretariat yesterday (20) regarding the reconstruction of full and partially damaged houses due to adverse weather conditions.
-
-Recently discussions with the natural disasters caused by natural disasters, such as strong winds, floods and five crimes, such as strong winds, floods and five crimes, such as natural disasters, such as natural disasters, such as the inclement weather conditions.
-
-...
-
-[Data](articles/9e735af4.json)
-
-[Extended Data](ext_articles/9e735af4.ext.json)
 
 ---

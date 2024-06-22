@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 15:34:45**
+As of **2024-06-22 15:53:37**
 
 ## Newspaper Stats
 
-*Scraped **31,578** Articles*
+*Scraped **31,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,756
 adaderanalk | 3,581
-tamilmirrorlk | 3,707
+tamilmirrorlk | 3,708
 dailymirrorlk | 4,733
 virakesarilk | 4,910
 adaderanasinhalalk | 5,150
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,150
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,577 (100.0%) of 31,578 articles have been extended.
+31,578 (100.0%) of 31,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### எரிகாயங்களுடன் அலறியடித்து ஓடிவந்த நபரால் பரபரப்பு
+
+*2024-06-22 15:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எரிகாயங்களுடன்-அலறியடித்து-ஓடிவந்த-நபரால்-பரபரப்பு/71-339243) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி கிழக்கு வத்திராயன் பகுதியில் எரியூட்டப்பட்ட நிலையில் நபர் ஒருவர் பொதுமக்களால் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+மருதங்கேணியைச் சேர்ந்த பவானி(43) என்பவரே  இவ்வாறு மீட்கப்பட்டு மருதங்கேணி பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு அங்கிருந்து பருத்தித்துறை ஆதார வைத்தியசாலைக்கு மாற்றப்படிருந்த நிலையில், மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+வடமராட்சி கிழக்கு வத்திராயன் பகுதியில் உள்ள தனது வீட்டில் தனியாக உறங்கியுள்ளார். இந்நிலையில் இரவு பத்து மணியளவில்  எரிகாயங்களுடன் அலறியடித்து வீட்டில் இருந்து வெளியே ஓடிவந்த வேளை பொதுமக்களால் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+இச் சம்பவம் தொடர்பில்  மருதங்கேணி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/ca1b32bb.json)
+
+---
 
 ### Property tax will not burden lower-income population, State Minister assures
 
@@ -49,6 +67,8 @@ He further explained that this tax will allow a reduction in the indirect taxes 
 ...
 
 [Data](articles/5f7e6152.json)
+
+[Extended Data](ext_articles/5f7e6152.ext.json)
 
 ---
 
@@ -2333,27 +2353,5 @@ Chief Magistrate Thilina Kamage ordered the Criminal Investigation Department to
 [Data](articles/40faf5fc.json)
 
 [Extended Data](ext_articles/40faf5fc.ext.json)
-
----
-
-### Airport security officer arrested with gold biscuits worth Rs. 48 mn at BIA
-
-*2024-06-21 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100007/airport-security-officer-arrested-with-gold-biscuits-worth-rs-48-mn-at-bia) · `en`
-
-The Narcotics Control Unit of Sri Lanka Customs has apprehended an officer of the airport security division while attempting to smuggle 18 gold biscuits worth around Rs. 48 million out of the Bandaranaike International Airport (BIA) in Katunayake.
-
-The arrested airport security officer is a 40-year-old resident of Hakmana, Matara, who has been in service for around 15 years, Ada Derana reporter said.
-
-The individual, who had just completed his night shift, was arrested with a stash of golden biscuits hidden in his trouser pockets. He has reportedly received the gold biscuits from a passenger inside the bathroom of the arrival terminal.
-
-The suspect was apprehended as he was trying to leave the airport premises.
-
-Initial investigations conducted by Sri Lanka Customs have revealed that the arrested security officer had been promises a sum of Rs. 60,000 to get the gold biscuits out of the airport premises.
-
-...
-
-[Data](articles/66043879.json)
-
-[Extended Data](ext_articles/66043879.ext.json)
 
 ---

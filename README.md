@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 20:19:19**
+As of **2024-06-22 20:34:28**
 
 ## Newspaper Stats
 
@@ -26,33 +26,45 @@ adaderanasinhalalk | 5,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,602 (100.0%) of 31,605 articles have been extended.
+31,605 (100.0%) of 31,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### සිසුවියව දූෂණයට ලක් කළ 6ක් අත්අඩංගුවට
+### Six arrested for rape victims
 
 *2024-06-22 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198032) · `si`
 
-16 හැවිරිදි දැරියක් සමූහ දූෂණයට ලක්කළ බව කියන සිද්ධිය සම්බන්ධයෙන් ඇයගේ පෙම්වතා ඇතුළු තරුණයන් 6 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Six individuals, aged 19 to 21, were arrested in connection with the rape of a 16-year-old girl. The victim, accompanied by her younger sister, was lured to a location under false pretenses, where she was assaulted by multiple attackers. The main suspect turned himself in, and the others were apprehended by the police. The victim was treated at a hospital, and further investigations are ongoing.
 
-අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 19ත් 21ත් අතර වයස්වල පසුවන්නන් වන බව පොලීසිය පැවසීය.
+🟩
 
-‍කොස්ගම ප්‍රදේශයේ පදිංචි 16 හැවිරිදි පාසල් සිසුවියක් පොසොන් පොහෝදින උදෑසන සිය පුංචි අම්මා සමග දන්සැල් වෙත ගොස් තිබුණි.
+Her boyfriend, including her boyfriend, have arrested six youths in connection with the incident that a 16-year-old girl was raped.
 
-අනතුරුව පොත් කඩයකට යන බවට සිය පුංචි අම්මාට පැවසූ ඇය මිතුරියකගෙන් රුපියල් 300ක් ඉල්ලාගෙන සිය පෙම්වතා හමුවීමට ගොස් ඇති බව පොලීසිය සඳහන් කළේය.
+The suspects are aged between 19 and 21 years old, police said.
 
-එහිදී ඇය සිය පෙම්වතාගේ නිවසට ගොස් ඔහු සමග ලිංගිකව එක්ව ඇති අතර පසුව පෙම්වතා අදාළ දැරියව සිය යතුරුපැදියෙන් හංවැල්ල, ඇඹුල්ගම ප්‍රදේශයෙන් බස්වා ගොස් තිබේ.
+A 16-year-old schoolgirl residing in Kosgama had to go to Dansals with her little mother in the morning.
 
-ඒ අතරතුර පෙම්වතා ඔහුගේ මිතුරන් දෙදෙනෙකුට කතා කර සිය පෙම්වතිය සමග කතාකර අවශ්‍ය තැනකට රැගෙන යන ලෙසට පවසා ඇති බව පොලීසිය සඳහන් කළේය.
+She told her little mother to go to a bookpillary and asked for a friend to visit his boyfriend for Rs. 300.
 
-ඒ අනුව, ඔහුගේ මිතුරන් දෙදෙනෙකු හංවැල්ල ආටිගල ප්‍රදේශයට යතුරුපැදියකින් පැමිණ අදාළ දැරිය සමග කතා කර ප්‍රදේශයේ ඉදිකෙරමින් පවතින සුසාන භූමියකට රැගෙන ගොස් ඇය සමග ලිංගිකව එක්ව තිබේ.
+She went to his boyfriend's house and had sex with him and later fieted girl from her motorcycle from Hanwella and Hanwella.
+
+In the meantime, the boyfriend had told two friends to take their girlfriend and to take their girlfriend.
+
+Accordingly, two of his friends came to a motorbike to the Hanwella Attygalle to talk with the girl and took sex with her to a cemetery.
+
+Police said that three of their friends came and raped her.
+
+There their friends have stayed on the road and spy.
+
+A young man who was brought to the scene had been brought back to the Attygalle Junction to Hanwella Hospital.
 
 ...
 
 [Data](articles/9e2ca5d1.json)
+
+[Extended Data](ext_articles/9e2ca5d1.ext.json)
 
 ---
 
@@ -430,23 +442,29 @@ The son, who was driving the three-wheeler, and the father, who was a passenger,
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதலில் சேதமடைந்த சீயோன் தேவாலயத்திற்கு ஜனாதிபதி விஜயம்
+### President visits Zion Church damaged in a lifeblood Sunday attack
 
 *2024-06-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186705) · `ta`
 
-உயிர்த்த ஞாயிறு குண்டுத் தாக்குதலுக்கு உள்ளான மட்டக்களப்பு சியோன் தேவாலயத்தின் புனரமைப்புப் பணிகளை ஆராய ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று (22) முற்பகல் அங்கு விஜயம் செய்துள்ளார்.
+President Ranil Wickremesinghe visited the Batticaloa Zion Church post-bomb blast, urging swift investigation and reconstruction. He tasked his Senior Advisor and National Security chief with accelerating repairs and requested military support from the Army Commander. Governor Senthil Thondaman and Minister Jupiter accompanied him.
 
-தேவாலயத்திற்கு சென்ற ஜனாதிபதி, தேவாலயத்தின் பிரதான போதகர் ரொஷான் மகேசனுடன் கலந்துரையாடினார். தேவாலயத்தின் புனரமைப்புப் பணிகள் இதுவரை ஏன் நிறைவடையவில்லை என்பது தொடர்பில் கேட்டறிந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அது குறித்து உடனடியாக ஆராய்ந்து அறிக்கை வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+🟩
 
-அத்துடன், தேவாலயத்தின் திருத்தப் பணிகளை ஜனாதிபதி அலுவலகத்தின் நிதி ஒதுக்கீட்டில் துரிதமாக பூர்த்தி செய்ய நடவடிக்கை எடுக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும், ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+President Ranil Wickremesinghe made a visit to the Batticaloa Zion Church, which was subjected to a bomb blast.
 
-அந்த நடவடிக்கைகளுக்கு இலங்கை இராணுவத்தின் ஆதரவை வழங்குமாறும் ஜனாதிபதி இராணுவத் தளபதிக்கு பணிப்புரை விடுத்தார்.
+The President visited the church and discussed with Roshan Mahasan of the church. President Ranil Wickremesinghe asked the authorities to immediately investigate the matter and provide a report on why the reconstruction of the church has not been completed.
 
-கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், இராஜாங்க அமைச்சர் எஸ். வியாழேந்திரனும் இச்சத்தர்ப்பத்தில் ஜனாதிபதியுடன் இணைந்து கொண்டனர்.
+In addition, the President directed the President's Senior Advisor and President of the President of the National Security to Sagala Ratnayake to take steps to speed up the church's amendments to the President's Office.
+
+The President also issued a directive to the Army Commander to support the Sri Lankan army.
+
+Governor of the Eastern Province Senthil Thondaman, Minister of State. Jupiter also joined the President on this occasion.
 
 ◼️
 
 [Data](articles/93212bf0.json)
+
+[Extended Data](ext_articles/93212bf0.ext.json)
 
 ---
 
@@ -524,17 +542,23 @@ The father of the three-wheeler and his father was treated at the ICU of Matale 
 
 ---
 
-### மௌபிம ஜனதா கட்சியின் யாழ்.மாவட்ட அமைப்பாளராக அருண் சித்தார்த் நியமனம்
+### Arun Siddharth appointed as the organizer of the Jaffna Mawatha Party
 
 *2024-06-22 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186702) · `ta`
 
-மௌபிம ஜனதா கட்சியின் யாழ்ப்பாண மாவட்ட அமைப்பாளராகவும் மற்றும் உயர் சபை உறுப்பினராகவும் அருண் சித்தார்த்  நியமிக்கப்பட்டுள்ளார்.
+Arun Siddharth is now the Jaffna District Organizer and member of the Maubima Janata Party, having received his appointment letter from party leader Dilith Jayaweera on Saturday.
 
-இன்று சனிக்கிழமை (22) மௌபிம ஜனதா கட்சியின் தலைவர் திலித் ஜெயவீர நியமனக் கடிதத்தை அருண் சித்தார்த்திற்கு வழங்கியுள்ளார்.
+🟩
+
+Arun Siddharth has been appointed as the Jaffna District Organizer and Member of the Maubima Janata Party.
+
+Arun Siddharth handed over the appointment letter of Maubima Janata Party leader Dilith Jayaweera on Saturday (22).
 
 ◼️
 
 [Data](articles/5463763b.json)
+
+[Extended Data](ext_articles/5463763b.ext.json)
 
 ---
 

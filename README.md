@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 00:51:43**
+As of **2024-06-23 01:04:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,617 (100.0%) of 31,619 articles have been extended.
+31,619 (100.0%) of 31,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -386,6 +386,8 @@ It is an old truism in policy analysis that there is nothing purely ‘technical
 
 [Data](articles/7847aa78.json)
 
+[Extended Data](ext_articles/7847aa78.ext.json)
+
 ---
 
 ### Free Markets Predate Capitalism
@@ -397,6 +399,8 @@ Göbekli Tepe is the best known of half a dozen sites which have captured the at
 ...
 
 [Data](articles/f20a94aa.json)
+
+[Extended Data](ext_articles/f20a94aa.ext.json)
 
 ---
 

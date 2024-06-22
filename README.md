@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 16:19:30**
+As of **2024-06-22 16:34:59**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 5,152
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,580 (100.0%) of 31,582 articles have been extended.
+31,582 (100.0%) of 31,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ෂෙයික් හසීනා ඉන්දියාවේ නිල සංචාරයක
+### Sheikh Hasina on an official visit to India
 
 *2024-06-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198024) · `si`
 
-බංග්ලාදේශ අග්‍රාමාත්‍ය ෂෙයික් හසීනා ඉන්දියාවේ නිල සංචාරයක් සඳහා පැමිණ තිබේ.
+Bangladesh's PM Sheikh Hasina visits India, marking Indian PM Narendra Modi's first meeting with a foreign leader since his third term. Discussions focus on energy, trade, and security cooperation.
 
-බංග්ලාදේශ අග්‍රාමාත්‍යවරිය ඇතුළු දුත පිරිස ඉන්දීය රජය විසින් මහත් හරසරින් පිළිගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි තෙවැනි වරටත් බලයට පත්වීමෙන් පසු විදේශ නායකයකුගේ පළමු සංචාරය මෙය වේ.
+The Prime Minister of Bangladesh has arrived on a official visit to India.
 
-බලශක්තිය, වෙළෙඳාම  සහ ආරක්ෂක සහයෝගීතාව පිළිබඳව එහිදී දෙරට අතර රාජ්‍ය නායකයින් අතර ද්විපාර්ශ්වික සාකච්ඡා පවත්වා ඇති බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
+The Prime Minister of Bangladesh has welcomed the Prime Minister of India.
+
+Indian Prime Minister Narendra Modi comes to power for the third time, the first visit of a foreign leader.
+
+According to foreign media reports, bilateral discussions have been held between the two leaders of the Heads of State for energy, trade and security cooperation.
 
 ◼️
 
 [Data](articles/d17e3796.json)
 
+[Extended Data](ext_articles/d17e3796.ext.json)
+
 ---
 
-### බස් - ත්‍රිරෝද රථ අනතුරින් මව සහ දියණිය අවසන් ගමන් යයි
+### Bus - Three Wheeler crashes
 
 *2024-06-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198023) · `si`
 
-මාතලේ පළාපත්වල, කිරුළුගම ප්‍රදේශයේදී බස් රථයක් ත්‍රිරෝද රථයක ගැටී සිදුවූ අනතුරකින් එකම පවුලේ මව සහ දියණිය ජීවිතක්ෂයට පත්ව තිබේ.
+A tragic accident in Kirindagama, Matale, resulted in the deaths of a mother and her 17-year-old daughter while traveling in a three-wheeler. The vehicle was en route from Wattegama to Anuradhapura, carrying members of the same family, including the parents and children. The victims have been identified as a 54-year-old woman and her daughter. The father and another son were hospitalized following the crash.
 
-වත්තේගම සිට අනුරාධපුරේ වන්දනාවේ යමින් සිටි ත්‍රිරෝද රථයක් දඹුල්ල ප්‍රදේශයේ සිට මහනුවර දෙසට ගමන් කළ බස් රථයක මුහුණට මුහුණ ගැටී මෙම අනතුර සිදුව තිබුණි.
+🟩
 
-අනතුර සිදුව අවස්ථාවේදී එකම පවුලේ මව, පියා, පුතා හා දියණිය ත්‍රිරෝද රථයේ සිට ඇත.
+The mother and daughter died in a three-wheeler in Kirindagama, Matale.
 
-අනතුරින් මියගොස් ඇත්තේ, ත්‍රිරෝද රථයේ පිටුපස ගමන් කළ 54 හැවිරිදි මව ධම්මිකා පද්මිණී හා 17 හැවිරිදි දියණිය වන සචිනි තාරකාය.
+The accident had occurred when a three-wheeler was traveling from Wattegama to Anuradhapura.
 
-ත්‍රිරෝද රථය පැදවූ පුත්‍රයා හා පිටුපස ගමන් කළ පියා මාතලේ දිස්ත්‍රික් මහ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+The mother, father, son and daughter were in the three-wheeler of the same family at the time of the accident.
+
+The deceased has been identified as 54-year-old mother of 54-year-old mother of Padamini and 17-year-old daughter.
+
+The father of the three-wheeler and his father was treated at the ICU of Matale District General Hospital.
 
 ◼️
 
 [Data](articles/a577c3ee.json)
+
+[Extended Data](ext_articles/a577c3ee.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 18:12:03**
+As of **2024-06-22 18:24:35**
 
 ## Newspaper Stats
 
-*Scraped **31,592** Articles*
+*Scraped **31,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,90 @@ economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,758
 adaderanalk | 3,583
-tamilmirrorlk | 3,710
+tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,155
+adaderanasinhalalk | 5,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,590 (100.0%) of 31,592 articles have been extended.
+31,592 (100.0%) of 31,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### எதிர்வரும் 36 மணித்தியாலங்களில் வானிலையில் மாற்றம்
+### පිල්ලයාන්ගේ සහායත් ජනපතිට
+
+*2024-06-22 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198028) · `si`
+
+ඉදිරි ජනාධිපතිවරණයක දී තමාගේ සහ තම පක්ෂයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදෙන බව ටී.එම්.වී.පී පක්ෂ නායක ශිවනේෂතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් ප්‍රකාශ කර තිබේ.
+
+ජනාධිපතිවරයා අද (22) පස්වරුවේ ශිවනේෂතුරෙයි චන්ද්‍රකාන්තන් ඇතුළු ඔහුගේ පාක්ෂිකයින් මුණ ගැසී සාකච්ඡා කර ඇත.
+
+එහිදී ටී.එම්.වී.පී නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය සහයෝගය පළ කර තිබේ.
+
+◼️
+
+[Data](articles/22071f4f.json)
+
+---
+
+### ரணிலுக்கே பிள்ளையான் ஆதரவு
+
+*2024-06-22 17:56:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரணிலுக்கே-பிள்ளையான்-ஆதரவு/73-339246) · `ta`
+
+தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவர் சிவநேசத்துரை சந்திரகாந்தன் உள்ளிட்ட கட்சியின் உறுப்பினர்கள் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க ஆகியோருக்கிடையிலான சந்திப்பொன்று அந்தக் கட்சியின் தலைமையகத்தில் இன்று பிற்பகல் நடைபெற்றது. இதன்போது எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமது ஆதரவை ஜனாதிபதிக்கு வழங்குவதாக அந்தக் கட்சித் தலைவர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/34bf9929.json)
+
+---
+
+### Change in weather in the upcoming 36 hours
 
 *2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-36-மணித்தியாலங்களில்-வானிலையில்-மாற்றம்/175-339245) · `ta`
 
-அதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், கண்டி, நுவரெலியா மற்றும் புத்தளம் மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அறிவித்துள்ளது.
+In the next 36 hours, heavy rainfall exceeding 100mm is forecasted for the upper Sabaragamuwa Provinces, Kandy, Nuwara Eliya, and Puttalam districts. Additionally, the Western, Sabaragamuwa, North Western Provinces, along with Kandy, Nuwara Eliya, Galle, and Matara districts, are expected to experience heavy rains. Strong winds of 40-50 km/h may hit the western slopes of the Central Highlands, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, and Moneragala districts.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் எனவும் குறிப்பிட்டுள்ளது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் மணிக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. R
+Accordingly, more than 100 millimeters of heavy rainfall in the upper and Sabaragamuwa Provinces, Kandy, Nuwara Eliya and Puttalam districts will occur in some places.
+
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The Department of Meteorology has said that strong winds are likely to blow at speeds of 40 - 50 km / h in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/021e404a.json)
 
+[Extended Data](ext_articles/021e404a.ext.json)
+
 ---
 
-### சமூக வலைத்தளங்களால் மனநல பாதிப்பு ஏற்படும்
+### Mental impact on social websites
 
 *2024-06-22 17:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமூக-வலைத்தளங்களால்-மனநல-பாதிப்பு-ஏற்படும்/50-339244) · `ta`
 
-சமூக வலைத்தளங்கள் இளைஞர்களிடையே மனநல பாதிப்பை ஏற்படுத்தும் அபாயம் காணப்படுவதால் அனைவரும் எச்சரிக்கையுடன் செயற்படுமாறு அமெரிக்க மருத்துவரான விவேக் மூர்த்தி வலியுறுத்தியுள்ளார்.
+US doctor Vivek Murthy warns about the mental health risks of social media, especially for young Americans aged 13 to 17, who make up 95% of this demographic. He calls for a warning label on all US-based social media platforms.
 
-அமெரிக்காவில் 13 முதல் 17 வயதுக்குட்பட்டவர்களில் 95 சதவீதமானோர் சமூக வலைத்தளங்களைப் பயன்படுத்தி வருவதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இந்த நிலையில் அமெரிக்காவில் செயல்படும் அனைத்து சமூக வலைத்தளங்களுக்கும் எச்சரிக்கை முத்திரையினை வெளியிடுமாறு அவர் அமெரிக்க காங்கிரஸிடம் கோரிக்கை விடுத்துள்ளார். R
+US doctor Vivek Murthy has urged everyone to act with caution as social websites are at risk of mental health among young people.
+
+95 percent of the age of 13 to 17 in the United States are reportedly using social websites.
+
+He has asked the US Congress to issue a warning stamp to all social websites operating in the United States. Remble
 
 ◼️
 
 [Data](articles/b49aab73.json)
+
+[Extended Data](ext_articles/b49aab73.ext.json)
 
 ---
 
@@ -2283,59 +2323,5 @@ Initial investigations by the Customs Division revealed that the security office
 [Data](articles/7cd88726.json)
 
 [Extended Data](ext_articles/7cd88726.ext.json)
-
----
-
-### Sri Lanka women win
-
-*2024-06-21 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197996) · `si`
-
-In a cricket match, Sri Lanka's women team outperformed the West Indies, scoring 275/6 in 50 overs after winning the toss. Key performers included Chamari Atapattu with 91 runs and Nayakika Silva with 63 and 55 runs. The West Indies could only manage 115 runs in 34 balls, leading to a significant victory for Sri Lanka, their third consecutive win in the tournament.
-
-🟩
-
-Sri Lanka women's group scored 161 runs by 161 runs in the West Indies women's group and the Sri Lanka women's group.
-
-Sri Lankan women won the toss and elected to bat first in the invitation of the match and won 275 runs for the loss of 6 wickets in 50 overs.
-
-Sri Lanka's leader Chamari Atapattu scored 91 runs for the innings.
-
-Nayakika Silva scored 63 runs and 55 runs.
-
-The West Indies women's group were able to reach 115 runs at last 34 balls to the loss of 54 balls.
-
-Sri Lanka women's group win as a zero to the three tournaments.
-
-◼️
-
-[Data](articles/ad4de4db.json)
-
-[Extended Data](ext_articles/ad4de4db.ext.json)
-
----
-
-### Airport security officer arrested with gold biscuits
-
-*2024-06-21 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197995) · `si`
-
-A 40-year-old airport security officer was arrested after attempting to smuggle out 2 kg of gold biscuits worth Rs. 60,000 from the airport. The incident occurred on April 21st, where the officer was caught red-handed by customs officials during routine checks.
-
-🟩
-
-A airport security officer has been arrested by a airport security officer who tried to carry a gold biscuit from the airport.
-
-The aircraft has been given 18 gold biscuits to the relevant officer today (21).
-
-He was arrested by the officers of the Customs Drug Administration and the suspect found in the possession of two kilograms and 86 grams of gold biscuits.
-
-The 40-year-old resident of Hakmanaya is a 40 year old resident of the Airport.
-
-The customer investigations have revealed that the security officer had tried to move the gold biscuit from the airport on the promise of Rs. 60,000.
-
-◼️
-
-[Data](articles/bc8dacff.json)
-
-[Extended Data](ext_articles/bc8dacff.ext.json)
 
 ---

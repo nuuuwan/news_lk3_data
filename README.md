@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 04:52:42**
+As of **2024-06-23 05:04:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,620 (100.0%) of 31,621 articles have been extended.
+31,621 (100.0%) of 31,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -299,6 +299,8 @@ Captain Blood  became an immensely popular novel and several films based on the 
 ...
 
 [Data](articles/0c6c87b9.json)
+
+[Extended Data](ext_articles/0c6c87b9.ext.json)
 
 ---
 

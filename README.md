@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 20:53:12**
+As of **2024-06-22 21:04:24**
 
 ## Newspaper Stats
 
-*Scraped **31,606** Articles*
+*Scraped **31,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,762
 adaderanalk | 3,584
-tamilmirrorlk | 3,711
+tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
 adaderanasinhalalk | 5,161
@@ -26,25 +26,49 @@ adaderanasinhalalk | 5,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,605 (100.0%) of 31,606 articles have been extended.
+31,606 (100.0%) of 31,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ශ්‍රී ලංකා කාන්තා කණ්ඩායම ඉදිරියට
+### மக்களே இவரை கண்டால் உடன் தகவல் தாருங்கள்...
+
+*2024-06-22 20:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்களே-இவரை-கண்டால்-உடன்-தகவல்-தாருங்கள்/71-339247) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் நேற்று நோயாளி ஒருவருடன் சகஜமாக பேசி, அவருடைய மோதிரம், பணம், கைப்பை போன்றவற்றை கொள்ளையடித்துச் சென்ற சந்தேகநபர் தொடர்பில் தகவல் கோரப்பட்டுள்ளது.
+
+குறித்த நபர் சிசிடிவி கமராவின் மூலம் அடையாளம் காணப்பட்டுள்ளதாக வைத்தியசாலை பணிப்பாளர் தெரிவித்துள்ளார்.
+
+இந்த சந்தேகநபர் தொடர்பாக விபரம் தெரிந்தால் யாழ்ப்பாணம் பொலிஸாருக்கோ வைத்தியசாலை நிர்வாகத்துக்கோ தெரிவிக்குமாறு பொதுமக்களுக்கு அவர் அறிவித்துள்ளார்.
+
+இந்நிலையில், வைத்தியசாலைக்கு அனுமதிக்கப்படும் நோயாளிகள் தங்க ஆபரணங்களையோ பெறுமதியான பொருட்களையோ கொண்டு வரவேண்டாம் எனவும் தெரியாத நபர்களுடன் அவதானமாக இருக்கவேண்டும் எனவும் அறிவுறுத்தப்படுகிறது. R
+
+◼️
+
+[Data](articles/326943ad.json)
+
+---
+
+### Sri Lanka women's team forward
 
 *2024-06-22 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198034) · `si`
 
-ජාත්‍යන්තර එක්දින කාන්තා ක්‍රිකට් ශ්‍රේණිගත කිරීම් ලැයිස්තුවේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම 5 ස්ථානය දක්වා ඉදිරියට පැමිණ තිබේ.
+The Sri Lanka Women's cricket team has moved up from 7th to 5th place in the International One-Day Women's Rankings after a strong performance against the West Indies team.
 
-ඒ බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සමග පැවති තරගාවලියේ දැක්වූ දක්ෂතා හේතුවෙනි.
+🟩
 
-ශ්‍රී ලංකා කාන්තා කණ්ඩායම මීට පෙර අයිසීසී ශ්‍රේණිගත කිරීමේ ලැයිස්තුවේ  7වන ස්ථානයේ පසු වුණි.
+The Sri Lanka Women's Group's 5th has come to the 5st of the International One-Day Women's Rankings.
+
+That was the skills of the tournament of the tournament with the West Indies women's group.
+
+The Sri Lanka women's team had previously been on the 7th in the ICC Ratings list.
 
 ◼️
 
 [Data](articles/1d7796ed.json)
+
+[Extended Data](ext_articles/1d7796ed.ext.json)
 
 ---
 
@@ -2327,27 +2351,5 @@ He has felt a few who were close to the United States.
 [Data](articles/852b39ca.json)
 
 [Extended Data](ext_articles/852b39ca.ext.json)
-
----
-
-### 10 jellyfish who sent to the hospital
-
-*2024-06-21 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198002) · `si`
-
-Ten people were hospitalized after experiencing severe allergic reactions to jellyfish stings, particularly from species like the red and bluebottle jellyfish. They were treated at the Panadura Base Hospital.
-
-🟩
-
-Ten patients were hospitalized due to the allergic of the jellyfish fish by the allergic of the body, police said.
-
-This species has emerged, such as red and educating in the body.
-
-Police said that they were referred to the Panadura Base Hospital for treatment.
-
-◼️
-
-[Data](articles/357360d6.json)
-
-[Extended Data](ext_articles/357360d6.ext.json)
 
 ---

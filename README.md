@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 12:52:54**
+As of **2024-06-22 13:04:20**
 
 ## Newspaper Stats
 
-*Scraped **31,562** Articles*
+*Scraped **31,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,577
+adaderanalk | 3,578
 tamilmirrorlk | 3,706
 dailymirrorlk | 4,733
 virakesarilk | 4,906
@@ -26,33 +26,53 @@ adaderanasinhalalk | 5,145
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,561 (100.0%) of 31,562 articles have been extended.
+31,562 (100.0%) of 31,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### 17 හැවිරිදි පාසල් සිසුවියව සමූහ දුෂණයට ලක් කරලා
+### President Ranil awards freehold land deeds in Batticaloa
+
+*2024-06-22 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100023/president-ranil-awards-freehold-land-deeds-in-batticaloa) · `en`
+
+President Ranil Wickremesinghe has symbolically distributed freehold deeds to 192 individuals from 13 divisional secretariat divisions in the Batticaloa District out of the 27,595 qualified families, under the ‘Urumaya’ freehold deeds program, the President’s Media Division (PMD) said.
+
+The ‘Urumaya’ national program is expected to grant 2 million freehold land deeds to people across the island.
+
+◼️
+
+[Data](articles/68c59f27.json)
+
+---
+
+### The 17-year-old schoolgirl has been raped
 
 *2024-06-22 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198017) · `si`
 
-17 හැවිරිදි පාසල් සිසුවියක් සමූහ දූෂණයට ලක්කිරීමේ සිද්ධියක් සම්බන්ධයෙන් හංවැල්ල පොලීසිය විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+A 17-year-old schoolgirl from Kosgama was raped after being lured to a cemetery in Hanwella. She reported the incident to the Hanwella Police, leading to the arrest of a 21-year-old suspect and the ongoing search for four more.
 
-කොස්ගම ප්‍රදේශයේ පදිංචි 17 හැවිරිදි පාසල් සිසුවියක් පොසොන් පොහොය දින (21) උදෑසන සිය පුංචි අම්මා සමග දන්සැල් වෙත ගොස් ඇත.
+🟩
 
-අනතුරුව පොත් කඩයකට යන බවට සිය පුංචි අම්මාට පැවසූ ඇය සිය පෙම්වතා හමුවීමට ගොස් ඇති බව පොලීසිය සඳහන් කළේය.
+The Hanwella Police has launched a special investigation into a group of 17-year-old rape.
 
-ඉන්පසු සිය නිවස බලා පැමිණෙමින් සිටියදී හංවැල්ල, ඇඹුල්ගම ප්‍රදේශයේ පාළු සුසාන භූමියකට තමා බලහත්කාරයෙන් රැගෙන ගොස් පස් දෙනෙකුගෙන් යුත් කණ්ඩායමක් තමාව දූෂණයට ලක්කළ බවට ඇය හංවැල්ල පොලීසියට පැමිණිල්ලක් සිදුකර තිබේ.
+A 17-year-old schoolgirl residing in Kosgama has gone to Dansals with her little mother in the Poson Poya Day (21) morning.
 
-ඒ් අනුව දැරිය ඊයේ (21) රාත්‍රියේ අධිකරණ වෛද්‍ය නිලධාරියා හමුවට යොමුකළ පොලීසිය පසුව ඇයව ප්‍රතිකාර සඳහා හෝමාගම රෝහලට ඇතුළත් කර තිබේ.
+She told her little mother that he was going to a bookfire and told her boyfriend.
 
-සිද්ධිය පිළිබඳ විමර්ශනයක් ආරම්භ කළ හංවැල්ල පොලීසිය එහි ප්‍රධාන සැකකරු බවට පැවසෙන 21ක් හැවිරිදි තරුණයෙකු අද (22) උදෑසන අත්අඩංගුවට ගෙන තිබුණි.
+She had lodged a complaint with the Hanwella Police that he was forcibly taken to a lonely cemetery in Elugama, Hanwella.
 
-පොලීසිය පැවසුවේ සිද්ධියට සම්බන්ධ සෙසු සැකකරුවන් සිව්දෙනා සොයා මෙහෙයුම් ආරම්භකර ඇති බවය.
+So the girl was sent to the jurisdiction at the jurisdiction last night.
+
+A 21-year-old youth was arrested in the Hanwella police, who was launched into an investigation into the incident.
+
+Police said that the four other suspects have been found in search of the four suspects involved in the incident.
 
 ◼️
 
 [Data](articles/36b45ce5.json)
+
+[Extended Data](ext_articles/36b45ce5.ext.json)
 
 ---
 
@@ -2349,31 +2369,5 @@ During this meeting three milestones in Indo-Sri Lanka relations were achieved a
 [Data](articles/2a1edc88.json)
 
 [Extended Data](ext_articles/2a1edc88.ext.json)
-
----
-
-### Fishermen clash in Mediterranean: One killed
-
-*2024-06-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186619) · `ta`
-
-In a clash involving six fishermen off Beruwala, one, identified as Upul Chandana, was killed. Others suffered injuries. The police are investigating after receiving a complaint from the boat owner.
-
-🟩
-
-One person was killed in a clash between six fishermen who were fishing in a drag boat from Beruwala.
-
-MK from Magona, Magalkanda area. Police said the man named Upul Chandana died.
-
-Other fishermen have been injured in the incident, sources in Beruwala Fisheries Inspector's office said.
-
-Police have launched investigations on the complaint lodged by the boat owner regarding the incident.
-
-Meanwhile, the body of the deceased has been brought to the Beruwala fishing harbor in the same boat.
-
-◼️
-
-[Data](articles/2c1d8e12.json)
-
-[Extended Data](ext_articles/2c1d8e12.ext.json)
 
 ---

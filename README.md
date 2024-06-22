@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 11:04:52**
+As of **2024-06-22 11:19:47**
 
 ## Newspaper Stats
 
-*Scraped **31,547** Articles*
+*Scraped **31,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 1,740
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,754
-adaderanalk | 3,574
+adaderanalk | 3,576
 tamilmirrorlk | 3,703
 dailymirrorlk | 4,733
-virakesarilk | 4,903
-adaderanasinhalalk | 5,140
+virakesarilk | 4,905
+adaderanasinhalalk | 5,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,545 (100.0%) of 31,547 articles have been extended.
+31,547 (100.0%) of 31,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### Three people killed, 10 wounded in Arkansas supermarket shooting
+
+*2024-06-22 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100020/three-people-killed-10-wounded-in-arkansas-supermarket-shooting) · `en`
+
+A shooter opened fire at an Arkansas supermarket on Friday, killing three civilians and wounding 10 other people, including two police officers, Arkansas State Police said.
+
+The suspect was also wounded in a shootout with police, Arkansas State Police Director Mike Hagar told reporters.
+
+The shooting occurred at the Mad Butcher grocery in Fordyce, a town of 3,200 people about 70 miles (112 km) south of Little Rock.
+
+“Unfortunately, we can confirm that 11 innocent civilians were shot, and three of those are deceased. Two law enforcement officers were injured in the exchange of gunfire. The suspect was also shot and taken into custody,” Hagar said. He did not explain the circumstances of the shooting or take questions.
+
+The wounded police officers and the suspect were expected to survive, he said.
+
+Civilian injuries ranged from non-life-threatening to extremely critical, he said.
+
+Governor Sarah Huckabee Sanders said on social media platform X that she was briefed on the incident.
+
+...
+
+[Data](articles/597171c9.json)
+
+---
+
+### கடும் வெப்பத்தால் 4 பால்கன் நாடுகளில் பாரியளவில் மின் தடை
+
+*2024-06-22 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186673) · `ta`
+
+வெப்ப அலையில் தத்தளிக்கும் நான்கு பால்கன் நாடுகளில் வெள்ளிக்கிழமை ஒரே நேரத்தில் பல மணி நேரம் மின்வெட்டு ஏற்பட்டுள்ளது.
+
+அதன்படி, அல்பேனியா, போஸ்னியா, மொண்டினீக்ரோ மற்றும் குரோஷியா ஆகிய நாடுகளின் கரையோரப் பகுதிகள் பிற்பகலில் மின்தடையால் பாதிக்கப்பட்டுள்ளன.
+
+இப்பகுதிகளில் நிலவும் கடும் வெப்பத்தினால் வீடுகளில் குளிரூட்டும் கருவிகளை பயன்படுத்தியமையின் பின்னர் மின்பாவனை அதிகரித்த நிலையில் மின் தடை ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, மின் தடையினால் போஸ்னியா மற்றும் குரோஷியாவில் போக்குவரத்து சமிக்ஞைகள் தடைப்பட்டு, சரஜேவோ, ஸ்பிலிட் மற்றும் பிற பெரிய நகரங்களில் போக்குவரத்து நெருக்கடி ஏற்பட்டுள்ளது.
+
+இந்நிலையில், வெள்ளிக்கிழமை மாலை வேளையில் மின் விநியோகம் சீர் செய்யப்பட்டதாகவும், ஆனால் நான்கு நாடுகளின் ஒன்றோடொன்று இணைக்கப்பட்ட மின்சக்தி அமைப்புகளில் எங்கே பிரச்சினை ஏற்பட்டது என்பதை அடையாளம் காண முயற்சித்து வருவதாகவும் மின்சாரம் வழங்குனர்கள் தெரிவித்துள்ளது.
+
+உள்ளூர் நேரப்படி 13:00 மணிக்கு மின்  தடை ஏற்பட்டுள்ளதோடு, மொண்டினீக்ரோவின் தலைநகரான போட்கோரிகாவில் நீர் விநியோக தடையும் ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/bf1b6825.json)
+
+---
+
+### Advisory issued for strong winds and rough seas
+
+*2024-06-22 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100019/advisory-issued-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for strong winds and rough seas for the sea areas off the coasts extending from Mannar to Chilaw via Puttalam and from Hambantota to Pottuvil.
+
+The advisory is in effect for the period until 06.00 a.m. on Sunday (23 June).
+
+Accordingly, the Met. Department warned that the sea areas off the coasts extending from Mannar to Chilaw via Puttalam and from Hambantota to Pottuvil will be very rough at times with very strong gusty winds up to 60- 65 kmph.
+
+The sea areas off the coasts extending from Chilaw to Hambantota via Colombo and Galle and from Trincomalee to Mannar via Mullaitivu and Kankasanthurai will be rough at times with strong gusty winds up to 50-55 kmph, it added.
+
+Wave heights may increase about 2.0–2.5 m in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, the department said.
+
+Thus, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/35de9d59.json)
+
+---
+
+### මඩකලපුවේ නව දිස්ත්‍රික් ලේකම් කාර්යාලය ජනපති අතින් විවෘත වෙයි
+
+*2024-06-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198014) · `si`
+
+මඩකලපුව තිරායිමඩු ප්‍රදේශයේ ඉදිකෙරුණු නව දිස්ත්‍රික් ලේකම් කාර්යාලය මීට සුළු මෙහොතකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරිණි.
+
+මෙම නව දිස්ත්‍රික් ලේකම් කාර්යාලය ඉදිකිරීම සඳහා රුපියල් මිලියන 1,055ක වියදමක් දරා ඇති බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනයේ කළේය.
+
+◼️
+
+[Data](articles/8d242347.json)
+
+---
 
 ### Deadline for NIC applications extended
 
@@ -46,45 +128,13 @@ This extension was granted in response to requests from Divisional Secretaries, 
 
 [Data](articles/103c1d57.json)
 
----
-
-### President inaugurates new District Secretariat in Thiraimadu
-
-*2024-06-22 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100017/president-inaugurates-new-district-secretariat-in-thiraimadu) · `en`
-
-President Ranil Wickremesinghe has inaugurated the new District Secretariat in Thiraimadu, Batticaloa, a short while ago, the President’s Media Division (PMD) said.
-
-The new District Secretariat building was built at a cost of Rs. 1,055 million, according to the PMD.
-
-◼️
-
-[Data](articles/d9b0559b.json)
-
----
-
-### Medical brain drain worsens in Sri Lanka as 25% of doctors ready to migrate - report
-
-*2024-06-22 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100016/medical-brain-drain-worsens-in-sri-lanka-as-25-of-doctors-ready-to-migrate-report) · `en`
-
-The biggest trade union of government doctors in Sri Lanka warned on Friday about a wave of economic crisis-driven brain drain among medical professionals, as 25 percent of them have already taken the necessary exams to find employment abroad.
-
-Before the worst economic crisis pummeled Sri Lanka in the wake of the COVID-19 pandemic in 2021, on average 200 doctors would migrate to work in another country, according to Ministry of Health statistics.
-
-The number has surged since early 2022, when the country defaulted on its foreign debt. Sri Lankans started experiencing power cuts and shortages of basics such as fuel, food and medicine, and the inflation rate rose to 50 percent a year.
-
-“If we consider the situation within the last two years, more than 1,800 doctors have left the country in 2022 and 2023,” Dr. Chamil Wijesinghe, spokesperson of the Government Medical Officers Association, told Arab News.
-
-...
-
-[Data](articles/d0fc0dbf.json)
-
-[Extended Data](ext_articles/d0fc0dbf.ext.json)
+[Extended Data](ext_articles/103c1d57.ext.json)
 
 ---
 
 ### Firing at a grocery store in the United States;3 people killed; 10 people injured
 
-*2024-06-22 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186675) · `ta`
+*2024-06-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186675) · `ta`
 
 A shooting at a U.S. grocery store resulted in three deaths and ten injuries. The incident occurred in Fort Smith, Arkansas, where the shooter was also killed by police. This tragedy is part of a broader issue of gun violence in the U.S., with 234 shootings involving four or more victims this year alone, including 21 mass shootings in recent weeks.
 
@@ -105,6 +155,82 @@ With summer heat rising, there have been incidents of shootings across the Unite
 [Data](articles/56bb4628.json)
 
 [Extended Data](ext_articles/56bb4628.ext.json)
+
+---
+
+### இலங்கையில் இடம்பெற்ற மனித உரிமை மீறல்கள் குறித்த ஆதாரங்களை சேகரிக்கும் பொறிமுறை- மீண்டும் நிராகரித்தது இலங்கை
+
+*2024-06-22 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186683) · `ta`
+
+ஐக்கியநாடுகள் மனித உரிமை பேரவையின் தீர்மானத்தின் மூலம் உருவாக்கப்பட்ட ஆதாரங்களை சேகரிக்கும் வெளியக பொறிமுறையை இலங்கை மீண்டும் நிராகரித்துள்ளது.
+
+ஐக்கியநாடுகள் மனித உரிமை பேரவையின் ஆதாரங்களை சேகரிக்கும் பொறிமுறை பயனற்றது இலங்கையில் சமூகங்களை பிரிக்கவும் துருவமயப்படுத்தவும் மாத்திரம் அது உதவும் அதனால் குறிப்பிடத்தக்க நன்மைகள் இல்லை என ஜெனீவாவிற்கான இலங்கையின் நிரந்தரவதிவிடப்பிரதிநிதி ஹிமாலி அருணதிலக தெரிவித்துள்ளார்.
+
+இந்த பொறிமுறையால்  குறிப்பிடத்தக்க நன்மைகள் எதுவுமில்லை உள்நாட்டு பொறிமுறை குறித்த அர்ப்பணிப்பை இது முன்கூட்டியே தீர்மானம் செய்கின்றது,உறுப்புநாடுகளின் வளங்களை வீணடிக்கின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+உலகெங்கிலும் உள்ள சவாலான மனித உரிமை சூழ்நிலைகளை பாரபட்சமற்றவிதத்தில்,தேர்ந்தெடுக்கப்படாத தன்மையுடன், புறநிலையுடன் இரட்டை நிலைப்பாடுகளை தவிர்த்து மதிப்பிடவேண்டும் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4d92c8ab.json)
+
+---
+
+### President inaugurates new District Secretariat in Thiraimadu
+
+*2024-06-22 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100017/president-inaugurates-new-district-secretariat-in-thiraimadu) · `en`
+
+President Ranil Wickremesinghe has inaugurated the new District Secretariat in Thiraimadu, Batticaloa, a short while ago, the President’s Media Division (PMD) said.
+
+The new District Secretariat building was built at a cost of Rs. 1,055 million, according to the PMD.
+
+◼️
+
+[Data](articles/d9b0559b.json)
+
+[Extended Data](ext_articles/d9b0559b.ext.json)
+
+---
+
+### ගාසා තීරයට කොල්ලකරුවන්ගෙන් පීඩා
+
+*2024-06-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198013) · `si`
+
+දකුණු ගාසා තීරයට අත්‍යවශ්‍ය ආධාර රැගෙන යාම සහ බෙදාදීම අනතුරුදායක තත්ත්වයකට පත්ව ඇති බව එහි මානුෂීය කටයුතු සම්බන්ධීකරණ සිදුකරන එක්සත් ජාතීන්ගේ කාර්යාලය පවසයි.
+
+එහි ප්‍රධානීන් පවසන්නේ, අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය කොල්ලකෑමේ සිදුවීම් රැසක් වාර්තා වී ඇති බවය.
+
+පසුගිය අඟහරුවාදා (18) ද ඇතුළු වන ලොරි රථවල තිබූ භාණ්ඩවලින් හතරෙන් තුනක් සොරකම් කර ඇති බවට එක්සත් ජාතීන්ගේ කාර්යාලය ගණන් බලා තිබේ.
+
+ආයුධ සන්නද්ධ කල්ලි විසින් ආධාර රැගෙන යන වාහනවලට පහර දී කොල්ලකෑම් සිදුකරන බව සඳහන් වේ.
+
+අනතුරුව ආධාර ගාසා තීරයේ වෙ‌ළෙඳපොලේ අධික මිලට අලෙවි කරන බව විදෙස් වාර්තා සඳහන් කළේය.
+
+ගාසා තීරයට ඉන්ධන රැගෙන ආ ලොරි රථ ඉලක්ක කර ද ප්‍රහාරයක් එල්ල වී තිබුණි.
+
+◼️
+
+[Data](articles/57c85b73.json)
+
+---
+
+### Medical brain drain worsens in Sri Lanka as 25% of doctors ready to migrate - report
+
+*2024-06-22 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100016/medical-brain-drain-worsens-in-sri-lanka-as-25-of-doctors-ready-to-migrate-report) · `en`
+
+The biggest trade union of government doctors in Sri Lanka warned on Friday about a wave of economic crisis-driven brain drain among medical professionals, as 25 percent of them have already taken the necessary exams to find employment abroad.
+
+Before the worst economic crisis pummeled Sri Lanka in the wake of the COVID-19 pandemic in 2021, on average 200 doctors would migrate to work in another country, according to Ministry of Health statistics.
+
+The number has surged since early 2022, when the country defaulted on its foreign debt. Sri Lankans started experiencing power cuts and shortages of basics such as fuel, food and medicine, and the inflation rate rose to 50 percent a year.
+
+“If we consider the situation within the last two years, more than 1,800 doctors have left the country in 2022 and 2023,” Dr. Chamil Wijesinghe, spokesperson of the Government Medical Officers Association, told Arab News.
+
+...
+
+[Data](articles/d0fc0dbf.json)
+
+[Extended Data](ext_articles/d0fc0dbf.ext.json)
 
 ---
 
@@ -2207,137 +2333,5 @@ Jaishankar said he was happy that Sri Lanka had made the first visit to Sri Lank
 [Data](articles/59885c6a.json)
 
 [Extended Data](ext_articles/59885c6a.ext.json)
-
----
-
-### Mobile initiative to streamline ‘Urumaya’ freehold land deed distribution
-
-*2024-06-21 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100002/mobile-initiative-to-streamline-urumaya-freehold-land-deed-distribution) · `en`
-
-The Urumaya National Operations Secretariat has organized a mobile initiative across the country from the 26th to the 30th of this month in order to expedite the “Urumaya” national program, which aims to provide 02 million freehold land deeds.
-
-Senior Additional Secretary to the President, Mrs. Chandra Herath, stated that government officials responsible for issuing freehold deeds will visit villages to gather information from residents and expedite the issuance of the freehold deeds.
-
-Senior Additional Secretary, Mrs. Chandra Herath, shared these views during a press conference held Thursday (20) at the Presidential Media Centre.
-
-“Large numbers of land deeds have been distributed around the country under the “Urumaya” freehold land deeds program. This initiative is actively on-going across the country, with plans to accelerate its progress through a mobile service. The mobile program is scheduled to be implemented island wide from 26th to 30th of this month.
-
-...
-
-[Data](articles/1ae76b76.json)
-
-[Extended Data](ext_articles/1ae76b76.ext.json)
-
----
-
-### Among the Karminz Reports
-
-*2024-06-21 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197979) · `si`
-
-Pat Kinsce was elected to travel to Australia for the T20 World Cup, where he contributed significantly in the match against Bangladesh, taking crucial wickets in the final overs.
-
-🟩
-
-Pat Kinsce was elected today (21) to receive a wicket trip to Australia for Australia.
-
-The T20 World Cup match against Bangladesh is currently being held in the World Cup.
-
-He took over the last two bowlers of the 18th Owel of the Bangladesh innings and in the first ball of the 20th Overseas.
-
-Previously, the T20 was a three-wicket triple in the T20 international competition for Australia.
-
-◼️
-
-[Data](articles/01543bd0.json)
-
-[Extended Data](ext_articles/01543bd0.ext.json)
-
----
-
-### China to keep supporting Sri Lanka on debt sustainability - spokesman
-
-*2024-06-21 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100001/china-to-keep-supporting-sri-lanka-on-debt-sustainability-spokesman) · `en`
-
-China will keep supporting Sri Lanka to achieve debt sustainability as it has always been doing to help the country’s socioeconomic development, said a Chinese Foreign Ministry spokesman in Beijing.
-
-Lin Jian, the spokesman, made the remarks at a regular press conference in response to a media question about the recent diplomatic consultations between China and Sri Lanka in the Chinese capital.
-
-“On the 13th round of China-Sri Lanka diplomatic consultations, China has released a readout, which you may refer to. What I can tell you is that the Chinese side has been providing assistance to Sri Lanka’s socioeconomic development to the best of our capability.”
-
-“We stand ready to continue to work with relevant countries and international financial institutions to support Sri Lanka’s debt sustainability,” he said.
-
-◼️
-
-[Data](articles/69f37fd7.json)
-
-[Extended Data](ext_articles/69f37fd7.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-21 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100000/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/39fa942b.json)
-
-[Extended Data](ext_articles/39fa942b.ext.json)
-
----
-
-### The amount you pay more to get fuel
-
-*2024-06-21 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197978) · `si`
-
-The public was overcharged Rs. 31,021 million for fuel due to corruption within the Ceylon Petroleum Corporation, as highlighted in the Auditor General's Report. The issue came to light during a Committee on Public Enterprises meeting. Officers involved in the fraudulent activities have been identified, and the committee has demanded a detailed report and the names of those implicated within seven days.
-
-🟩
-
-It has been revealed that the public had to be added to fuel more than Rs. 31,021 million as a result of Rs. 31,021 million.
-
-These issues were revealed when the Auditor General's Report and the Ceylon Petroleum Corporation were summoned to the Committee on Public Enterprises and the present performance.
-
-The payment has been made by the officers, a sum of Rs.It has been revealed that the payment has been to pay.
-
-Rs.The marketing sector is responsible for the section of the respective section and revealed at the Committee on Public Enterprises.
-
-The COPE member MPs have expressed their displeasure by the COPE member members of the corporation to commit suicide.
-
-Accordingly, the COPE committee has also recommended to submit the names of persons involved in the fraud and submit a report in the Corporation within seven days.
-
-◼️
-
-[Data](articles/e5bd83a3.json)
-
-[Extended Data](ext_articles/e5bd83a3.ext.json)
-
----
-
-### A target of 141 runs in Bangladesh
-
-*2024-06-21 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197977) · `si`
-
-In the T20 World Cup, Bangladesh made 140/8 against Australia, setting them a target of 141 to win.
-
-🟩
-
-Bangladesh scored 140 runs for the loss of 08 wickets at the end of the eight wickets in the T20 World Cup.
-
-Accordingly, Australia's target was 141 runs for the winning match.
-
-◼️
-
-[Data](articles/e322b6bb.json)
-
-[Extended Data](ext_articles/e322b6bb.ext.json)
 
 ---

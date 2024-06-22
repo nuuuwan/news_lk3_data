@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 11:19:47**
+As of **2024-06-22 11:34:51**
 
 ## Newspaper Stats
 
-*Scraped **31,553** Articles*
+*Scraped **31,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,754
 adaderanalk | 3,576
-tamilmirrorlk | 3,703
+tamilmirrorlk | 3,704
 dailymirrorlk | 4,733
 virakesarilk | 4,905
 adaderanasinhalalk | 5,142
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,547 (100.0%) of 31,553 articles have been extended.
+31,547 (100.0%) of 31,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### இது 40 வயதுக்கு மேற்பட்டவர்களுக்கு மட்டும்...
+
+*2024-06-22 11:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-40-வயதுக்கு-மேற்பட்டவர்களுக்கு-மட்டும்/175-339239) · `ta`
+
+40 வயதிற்கு மேற்பட்ட இதுவரையில் தேசிய அடையாள அட்டைகளைப் பெற்றுக் கொள்ள முடியாதவர்களுக்கு அதனைப் பெற்றுக் கொள்வதற்கான சந்தர்ப்பம் வழங்கப்பட உள்ளதாக ஆட்பதிவுத் திணைக்களம் தெரிவித்துள்ளது.
+
+இவர்கள் அடையாள அட்டைகளைப் பெறுவதற்கான கால அவகாசம் இம்மாதம் 30ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக ஆட்பதிவுத் திணைக்களத்தின் ஆணையாளர் நாயகம் பிரதீப் சபுதந்திரி தெரிவித்துள்ளார்.
+
+பிறப்புச் சான்றிதழ் இல்லாத காரணத்தினால் இவர்கள் தேசிய அடையாள அட்டையைப் பெற்றுக் கொள்ள முடியாத நிலை உள்ளது.
+
+முன்னதாக இதற்கான விண்ணப்பங்களை அனுப்புவதற்கு கடந்த மார்ச் மாதம் 31ஆம் திகதி வரை கால அவகாசம் வழங்கப்பட்டிருந்தது. இந்த நிலையில் இந்தக் கால அவகாசம் இம்மாதம் 30ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக அந்த திணைக்களத்தின் ஆணையாளர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/2ed74b73.json)
+
+---
 
 ### Three people killed, 10 wounded in Arkansas supermarket shooting
 
@@ -2307,31 +2325,5 @@ The Central Bank and Labor Office have also been instructed to conduct a joint m
 [Data](articles/c46bc440.json)
 
 [Extended Data](ext_articles/c46bc440.ext.json)
-
----
-
-### After the presidential election, any government takes over India's financial assistance programs - Jaishankar stressed in Sri Lanka
-
-*2024-06-21 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186614) · `ta`
-
-Indian External Affairs Minister S Jaishankar, during his visit to Sri Lanka, emphasized the continuity of India's financial assistance post-elections, highlighting projects like solar power and the petroleum pipeline proposal. He expressed hope for the new government's cooperation to ensure uninterrupted aid.
-
-🟩
-
-Indian External Affairs Minister S Jaishankar has requested that the new government takes over after elections in Sri Lanka, even if India's financial assistance plans should be carried out uninterrupted.
-
-Jaishankar emphasized that during his visit to Sri Lanka yesterday, India's financial assistance, such as the re -enactment projects, should be uninterrupted.
-
-During his meetings, Jaishankar specially mentioned solar power projects, such as the petroleum pipeline proposal proposed between India.
-
-Jaishankar has urged India's financial aid programs to continue if any government takes over after the upcoming presidential election.
-
-Jaishankar said he was happy that Sri Lanka had made the first visit to Sri Lanka after his re -election as Indian Foreign Minister.
-
-◼️
-
-[Data](articles/59885c6a.json)
-
-[Extended Data](ext_articles/59885c6a.ext.json)
 
 ---

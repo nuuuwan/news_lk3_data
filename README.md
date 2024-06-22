@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 19:34:38**
+As of **2024-06-22 19:52:40**
 
 ## Newspaper Stats
 
-*Scraped **31,600** Articles*
+*Scraped **31,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,740
 economynextcom | 1,824
 dailyftlk | 1,927
-adalk | 2,761
+adalk | 2,762
 adaderanalk | 3,584
 tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,158
+adaderanasinhalalk | 5,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,600 (100.0%) of 31,600 articles have been extended.
+31,600 (100.0%) of 31,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### කාසියේ වාසිය බංග්ලාදේශය ට
+
+*2024-06-22 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198031) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ තවත් තරගයක් අද (22) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය හිමිකරගත් බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/695bb62f.json)
+
+---
 
 ### President visits Seneon Church
 
@@ -57,6 +71,26 @@ The President has also informed the Army Commander to assist the Army for the re
 [Data](articles/06bff11d.json)
 
 [Extended Data](ext_articles/06bff11d.ext.json)
+
+---
+
+### තන්තිරිමලය ආලෝක පූජාව දෙවැනි දිනට අදත්
+
+*2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/religion/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/4-410364) · `si`
+
+විජය පුවත්පත් සමාගම සංවිධානය කරන ලංකාදීප පොසොන් ආලෝක පූජාව 21 වැනි වරටත් මෙවර , ඓතිහාසික තන්තිරිමලේ රාජමහා විහාරස්ථානයේදී පොසොන් පොහොය යෙදුන ඊයේ (21දා ) ආරම්භ කෙරිණි.
+
+උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ  ජනාධිපති රනිල් වික්‍රමසිංහ , විජය පුවත්පත් සමාගමේ සභාපති රංජිත් විජයවර්ධන  මහතා  ආලෝක පූජාව විවෘත කලහ.
+
+මෙම අවස්ථාව සඳහා එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, රුවන් විජයවර්ධන, ජනාධිපති උපදේශක සාගල රත්නායක, හිටපු අමාත්‍යවරුන් වන එස්.එම්. චන්ද්‍රසේන, පී හැරිසන්, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් එක් වූහ.
+
+ඉන් අනතුරුව දහම් පාසල් සිසුන් ඉදිරිපත් කරන බැති ගී සංදර්ශනය සහ එය අවසානයේදී  එම සිසුන්ට වටිනා  ත්‍යාග සහ සහතික පත් ලබා දීම මෙහිදී සිදු කෙරිණි.
+
+තන්තිරිමලේ ආලෝක පූජාව අද (22) සහ හෙට 23  යන දිනවලදී ද පැවැත්වේ.
+
+◼️
+
+[Data](articles/a6096dcc.json)
 
 ---
 
@@ -2303,45 +2337,5 @@ Another decisive match in the Twenty20 World Cup will be held today (21st).
 [Data](articles/a49924aa.json)
 
 [Extended Data](ext_articles/a49924aa.ext.json)
-
----
-
-### Govt. to rebuild or compensate houses damaged by bad weather - Sagala
-
-*2024-06-21 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100011/govt-to-rebuild-or-compensate-houses-damaged-by-bad-weather-sagala) · `en`
-
-Senior Advisor to the President on National Security and Chief of Staff to the President Sagala Ratnayaka, announced that President Ranil Wickremesinghe has directed take the necessary measures to either rebuild or provide compensation, subject to a maximum limit, for houses that were completely damaged by the recent adverse weather conditions.
-
-Sagala Ratnayaka also stated that measures will be implemented to assess the damage and provide compensation, subject to a specified maximum limit, for the repair of partially damaged houses.
-
-Ratnayaka shared these views during a discussion held at the Presidential Secretariat yesterday (20), concerning the rebuilding of houses fully and partially damaged by recent adverse weather conditions.
-
-...
-
-[Data](articles/72978035.json)
-
-[Extended Data](ext_articles/72978035.ext.json)
-
----
-
-### Major power cut hits Bosnia, Albania, Montenegro and Croatia’s coast
-
-*2024-06-21 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100010/major-power-cut-hits-bosnia-albania-montenegro-and-croatias-coast) · `en`
-
-A major power blackout hit Montenegro, Bosnia, Albania and most of Croatia’s Adriatic coast on Friday, officials said, disrupting businesses, shutting down traffic lights and leaving people sweltering in the middle of a heatwave.
-
-Power operators in the four countries said they were investigating what caused the failure. Albania’s Top Channel TV cited unnamed sources saying an interconnector had failed in Montenegro, though there was no official confirmation.
-
-In Bosnia, there was no power in the capital Sarajevo and the cities of Banja Luka and Mostar, Reuters reporters said. Local media reported a blackout across the country.
-
-Traffic ground to a halt in the Croatian coastal city of Split after traffic lights failed, state TV HRT reported. Ambulance sirens rang out cross the city, it added.
-
-Croatia’s HEP power utility said that the outage in parts of the country had been caused by “an international disturbance that affected several countries,” without going into further detail.
-
-...
-
-[Data](articles/9f7d6991.json)
-
-[Extended Data](ext_articles/9f7d6991.ext.json)
 
 ---

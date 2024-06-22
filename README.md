@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 05:04:24**
+As of **2024-06-23 05:19:07**
 
 ## Newspaper Stats
 
@@ -288,22 +288,6 @@ Bangladesh won the advantage of the match first.
 
 ---
 
-### 
-
-*2024-06-22 19:06:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
-
-“Captain Blood:His Odyssey”was an Adventure novel written by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
-
-Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
-
-...
-
-[Data](articles/0c6c87b9.json)
-
-[Extended Data](ext_articles/0c6c87b9.ext.json)
-
----
-
 ### President visits Seneon Church
 
 *2024-06-22 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198030) · `si`
@@ -499,6 +483,22 @@ Thirteen persons have been arrested in connection with the murder of disclosed i
 [Data](articles/c8c31edf.json)
 
 [Extended Data](ext_articles/c8c31edf.ext.json)
+
+---
+
+### The Tamil Doctor who Gave Medical Aid to Injured Tigers.
+
+*2024-06-22 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
+
+“Captain Blood:His Odyssey”was an Adventure novel written by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
+
+Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
+
+...
+
+[Data](articles/0c6c87b9.json)
+
+[Extended Data](ext_articles/0c6c87b9.ext.json)
 
 ---
 

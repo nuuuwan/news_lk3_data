@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 18:24:35**
+As of **2024-06-22 18:37:05**
 
 ## Newspaper Stats
 
-*Scraped **31,594** Articles*
+*Scraped **31,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,81 @@ adaderanalk | 3,583
 tamilmirrorlk | 3,711
 dailymirrorlk | 4,733
 virakesarilk | 4,910
-adaderanasinhalalk | 5,156
+adaderanasinhalalk | 5,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,592 (100.0%) of 31,594 articles have been extended.
+31,594 (100.0%) of 31,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### පිල්ලයාන්ගේ සහායත් ජනපතිට
+### රසිකාවියක් ඝාතනය කිරීමට සැකපිට සුපිරි නළුවා අත්අඩංගුවට
+
+*2024-06-22 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198029) · `si`
+
+ඝාතන සිද්ධියක් සම්බන්ධයෙන් දකුණු ඉන්දියාවේ කර්ණාටක ප්‍රාන්තයේ සුපිරි රංගන ශිල්පියෙකු ඇතුළු 13 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+33 හැවිරිදි දර්ශන්ගේ රසිකාවියෙකු වූ රේණුකා ස්වාමි නැමැත්තියගේ සිරුර කාණුවකින් ගොඩ ගැනීමත් සමග අදාළ ඝාතනය සම්බන්ධයෙන් මොහුට චෝදනා එල්ල විය.
+
+මෙම සැකකාර රංගන ශිල්පියා සිය නිත්‍යානූකූ විවාහයෙන් වෙන්වී තවත් රංග ශිල්පිණියක් සමග ප්‍රේම සම්බන්ධතාවයක් ගොඩ නඟාගෙන සිටි අයෙකි.
+
+ඒ සම්බන්ධයෙන් රේණුකා ස්වාමි නැමැති කාන්තාව සිය මුහුණුපොතේ විවේචනාත්මක සටහන් තබා තිබිණි.
+
+ඒ සම්බන්ධයෙන් උරණ වී දර්ශන් විසින් එම ඝාතන සිදුකර ඇති බවට ඉන්දීය මාධ්‍ය වාර්තාකර තිබේ.
+
+දර්ශන් විසින් මෙම ඝාතන සිදුකර එහි සාක්ෂි යට ගැසීම සඳහා ඉන්දියානු රුපියල් ලක්ෂ 40ක් ලබාදී පුද්ගලයින් සිව්දෙනෙකු පොලිස් අත්අඩංගුවට ද පත් කර තිබුණි.
+
+පොලීසියට මේ පිළිබඳව ඇති වූ සැකයක් මත දර්ශන්ගේ සමීපතමයෙක් පසුව අත්අඩංගුවට ගෙන තිබිණි.
+
+එලෙස අත්අඩංගුවට ගත් දර්ශන්ගේ සමීපතමයාගෙන් හෙළිකරගත් තොරතුරු අනුව ඝාතනය සම්බන්ධයෙන් මේ වනවිට 13 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/c8c31edf.json)
+
+---
+
+### Pillayan's support to President
 
 *2024-06-22 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198028) · `si`
 
-ඉදිරි ජනාධිපතිවරණයක දී තමාගේ සහ තම පක්ෂයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදෙන බව ටී.එම්.වී.පී පක්ෂ නායක ශිවනේෂතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් ප්‍රකාශ කර තිබේ.
+Shivanesathurai Chandrakhanthan, leader of the TMVP, announced support for President Ranil Wickremesinghe ahead of the upcoming presidential election. This endorsement comes after a meeting between the President and his supporters, including Chandrakhanthan, on February 22nd.
 
-ජනාධිපතිවරයා අද (22) පස්වරුවේ ශිවනේෂතුරෙයි චන්ද්‍රකාන්තන් ඇතුළු ඔහුගේ පාක්ෂිකයින් මුණ ගැසී සාකච්ඡා කර ඇත.
+🟩
 
-එහිදී ටී.එම්.වී.පී නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය සහයෝගය පළ කර තිබේ.
+TMVP leader Shivanesathurai Chandrakhanthan has stated that President Ranil Wickremesinghe has been given support to President Ranil Wickremesinghe in the next presidential election.
+
+The President has met his supporters including Sivanesathurai Chandrakanthan today (22).
+
+The TMVP leader has supported President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/22071f4f.json)
 
+[Extended Data](ext_articles/22071f4f.ext.json)
+
 ---
 
-### ரணிலுக்கே பிள்ளையான் ஆதரவு
+### Pillaiyan support for Ranil
 
 *2024-06-22 17:56:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரணிலுக்கே-பிள்ளையான்-ஆதரவு/73-339246) · `ta`
 
-தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவர் சிவநேசத்துரை சந்திரகாந்தன் உள்ளிட்ட கட்சியின் உறுப்பினர்கள் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க ஆகியோருக்கிடையிலான சந்திப்பொன்று அந்தக் கட்சியின் தலைமையகத்தில் இன்று பிற்பகல் நடைபெற்றது. இதன்போது எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமது ஆதரவை ஜனாதிபதிக்கு வழங்குவதாக அந்தக் கட்சித் தலைவர் உறுதியளித்தார்.
+In a meeting, LTTE member Sivanesathurai Chandrakanthan pledged support for President Ranil Wickremesinghe in the upcoming election, signaling a potential alliance.
+
+🟩
+
+A meeting between members of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) leader Sivanesathurai Chandrakanthan and President Ranil Wickremesinghe held at the party headquarters this afternoon.. The party leader promised to give his support to the president in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/34bf9929.json)
+
+[Extended Data](ext_articles/34bf9929.ext.json)
 
 ---
 
@@ -2297,31 +2335,5 @@ Chasing the formidable target of 275 Sri Lankan women, Chedean Nation of West In
 [Data](articles/ba228b98.json)
 
 [Extended Data](ext_articles/ba228b98.ext.json)
-
----
-
-### Airport security officer arrested with gold biscuits
-
-*2024-06-21 16:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகளுடன்-விமான-நிலைய-பாதுகாப்பு-அதிகாரி-கைது/175-339221) · `ta`
-
-A Sri Lankan airport security officer was arrested for smuggling 2 kg of gold biscuits worth 4 crores 80 lakhs. The gold was hidden in his rectum during a flight. A 40-year-old from Hakmana, he served as an officer for 15 years before attempting to smuggle the gold out of the airport for 60 thousand rupees.
-
-🟩
-
-An airport security officer has been arrested for attempting to carry gold biscuits worth about 4 crores 80 lakhs illegally brought to Sri Lanka.
-
-It is reported that a person on board a flight this morning has given 18 gold biscuits to the officer in the rectum of the migrant passenger terminal.
-
-He has been arrested by officials of the Customs Drug Control Unit and the gold biscuits recovered from the suspect weigh 2 kg of 86 g.
-
-The arrested person is said to be from Hakmana, a 40 -year -old, who has been serving as airport security officer for 15 years.
-
-Initial investigations by the Customs Division revealed that the security officer had tried to take the gold biscuits for 60 thousand rupees from the airport.. Remble
-
-◼️
-
-[Data](articles/7cd88726.json)
-
-[Extended Data](ext_articles/7cd88726.ext.json)
 
 ---

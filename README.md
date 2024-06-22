@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 09:05:47**
+As of **2024-06-22 09:19:31**
 
 ## Newspaper Stats
 
-*Scraped **31,540** Articles*
+*Scraped **31,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
 adaderanalk | 3,571
-tamilmirrorlk | 3,702
+tamilmirrorlk | 3,703
 dailymirrorlk | 4,733
 virakesarilk | 4,902
-adaderanasinhalalk | 5,139
+adaderanasinhalalk | 5,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,539 (100.0%) of 31,540 articles have been extended.
+31,540 (100.0%) of 31,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### බටහිර ඉන්දීය කොදෙව් කණ්ඩායමට ජය
+
+*2024-06-22 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198012) · `si`
+
+අයි.සී.සී 20/20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ "සුපර් 08" වටයේ අමෙරිකාවත් සමඟ පැවති තරගය කඩුලු 9කින් ජය ගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+තරගයේ කාසියේ වාසිය දිනු බටහිර ඉන්දීය කොදෙව් කණ්ඩායම ප්‍රථමයෙන් පන්දුවට පහර දීමට අමෙරිකානු කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පන්දුවට පහරදුන් අමෙරිකානු කණ්ඩායම පන්දුවාර 19 යි පන්දු 5 ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 128 ක් රැස්කළේය.
+
+පිළිතුරු ඉනිම සඳහා 129ක ඉලක්කයක් හඹාගිය බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පන්දුවාර 10යි පන්දු 5 ක් අවසානයේ එක් කඩුල්ලක් දැවී ලකුණු 130 ලබාගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/fc8d7fff.json)
+
+---
 
 ### Heavy showers above 100mm expected in parts of the island
 
@@ -47,6 +65,8 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 ◼️
 
 [Data](articles/b3b27f0c.json)
+
+[Extended Data](ext_articles/b3b27f0c.ext.json)
 
 ---
 
@@ -519,6 +539,24 @@ In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
 [Data](articles/6c266452.json)
 
 [Extended Data](ext_articles/6c266452.ext.json)
+
+---
+
+### ’சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த நடவடிக்கை’
+
+*2024-06-21 23:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழல்-சார்-சுற்றுலாத்துறையை-மேம்படுத்த-நடவடிக்கை/175-339238) · `ta`
+
+சதுப்பு நிலங்களைப் பாதுகாப்பதில் கவனம் செலுத்துவதன் மூலம் சூழல் சார் சுற்றுலாத்துறையை மேம்படுத்த இலங்கை அர்ப்பணிப்புடன் இருப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+காலநிலை மாற்றத்தை எதிர்கொள்வது மற்றும் சுற்றாடல் பாதுகாப்பு ஆகியவற்றுக்காக வெளிநாட்டு நிதிக்காக காத்திருப்பதில் பயனில்லை என சுட்டிக்காட்டிய ஜனாதிபதி, வெப்பமண்டல நாடுகள் சுற்றாடல் தொடர்பான வர்த்தகத் திட்டங்களில் கவனம் செலுத்தி தமக்குத் தேவையான நிதியை பெற்றுக்கொள்ள செயற்பட வேண்டும் என்றும் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று முன்தினம் பத்தரமுல்லை வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்ற ‘WLI Asia Oceania Conference 2024’ நிறைவு விழாவில் கலந்தகொண்டு இதனைக் குறிப்பிட்டார்.
+
+சதுப்பு நிலங்களின் பாதுகாப்பு மற்றும் நிலைபேறான முகாமைத்துவம் மற்றும் ஒத்துழைப்பை மேம்படுத்தும் நோக்கில், வீடமைப்பு அமைச்சின் கீழ் உள்ள இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தினால் முதன்முறையாக ஏற்பாடு செய்யப்பட்ட இந்த மாநாடு ஜூன் 17 முதல் 21 வரை பத்தரமுல்லை தியசரு பூங்காவில் நடைபெற்றது. (a)
+
+◼️
+
+[Data](articles/d3795fce.json)
 
 ---
 
@@ -2299,37 +2337,5 @@ SLT-MOBITEL understands that the home phone is often a shared family resource. A
 [Data](articles/67528804.json)
 
 [Extended Data](ext_articles/67528804.ext.json)
-
----
-
-### Remembering Mervyn de Silva on his 25th Death Anniversary
-
-*2024-06-21 03:51:00* · [`islandlk`](http://island.lk/remembering-mervyn-de-silva-on-his-25th-death-anniversary/) · `en`
-
-When Mervyn de Silva left us on 22nd June 1999, it was not just the twentieth century that was drawing to a close. In retrospect one could sense, and now we know, that with his passing, an era in the literary history of Sri Lanka had ended. Because he was the last of a golden age of journalism, an illustrious tradition of English journalism in Sri Lanka that gave us H. A. J. Hulugalle, Jayantha Padmanabha, Tarzie Vittachi and Denzil Peiris. They were brilliant editors who provided us with not just world-class newspapers; they were also erudite men who helped build a Ceylonese literati that any society can be proud of.
-
-I make no apologies for repeating what I have written before on my editor, my guru, my role model and my friend Mervyn de Silva, because all of it remains just as valid as it did a quarter of a century ago. The defining attributes of Mervyn and their importance bear repetition and deserve considered reflection.
-
-...
-
-[Data](articles/a78d259d.json)
-
-[Extended Data](ext_articles/a78d259d.ext.json)
-
----
-
-### Rahul Gandhi – Next PM of India?
-
-*2024-06-21 03:50:00* · [`islandlk`](http://island.lk/rahul-gandhi-next-pm-of-india/) · `en`
-
-Continuing from last year proceeds election politics. Two moves this week by the President of Sri Lanka have caused waves in Parliament and among citizens of this land. But Cassandra will not comment.
-
-Suddenly, President Emmanuel Macron has dissolved parliament and declared that France will hold its elections on 30 June and 7 July, just a few weeks before the Paris Olympics. The announcement from the Elysee Palace came soon after the EU elections were over. Macron said he had heard the message for holding elections. “France needs a clear majority in serenity and harmony,” he said, adding that he could not resign himself to the far-right’s progress everywhere in the continent. He will continue as Prez since he has barely completed two years of his five-year tenure. It was seven years before change in 2002 to five years and only two consecutive terms are allowed.
-
-...
-
-[Data](articles/e66fc81e.json)
-
-[Extended Data](ext_articles/e66fc81e.ext.json)
 
 ---

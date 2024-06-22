@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 08:09:47**
+As of **2024-06-22 08:19:47**
 
 ## Newspaper Stats
 
-*Scraped **31,535** Articles*
+*Scraped **31,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 285
 dbsjeyarajcom | 291
 bbccomsinhala | 311
 newsfirstlk | 363
-islandlk | 1,738
+islandlk | 1,740
 economynextcom | 1,823
 dailyftlk | 1,927
 adalk | 2,753
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,532 (100.0%) of 31,535 articles have been extended.
+31,535 (100.0%) of 31,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
 
-### ජාතික හැඳුනුම්පත් සම්බන්ධයෙන් දැනුම්දීමක්
+### Notice on National Identity Cards
 
 *2024-06-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198008) · `si`
 
-උප්පැන්න සහතිකයක් නොමැතිවීමෙන් මෙතෙක් ජාතික හැඳුනුම්පත් ලබා ගැනීමට නොහැකි වු වයස අවුරුදු 40 ඉක්මවූ පුද්ගලයින් සඳහා ජාතික හැඳුනුම්පත් ලබා ගැනීමට තවදුරටත් අවස්ථාව පවතින බව පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව පවසයි.
+The deadline to apply for National Identity Cards for those aged 40 and above was March 31st. The Commissioner General noted that this was the final chance, as the opportunity ended on the 30th of the previous month. Applications were processed until the last day, considering submission times at Divisional Secretary offices.
 
-එම දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් ප්‍රදීප් සපුතන්ත්‍රී මහතා සඳහන් කලේ මේ  මස 30 වනදා දක්වා ඒ සඳහා අවස්ථාව පවතින බවය.
+🟩
 
-මේ සඳහා ඉල්ලුම්පත් යොමු කිරීමට පසුගිය මාර්තු මස 31 වනදා දක්වා කාලය ලබා දී තිබුණූ බව ද ඔහු සඳහන් කළේය.
+The Department of Registration of Persons has further stated that there is no longer the opportunity to obtain National Identity Cards for the age of 40.
 
-කෙසේවෙතත් ප්‍රාදේශීය ලේකම්වරුන් සිදුකළ ඉල්ලීම් සැලකිල්ලට ගනිමින් ඉල්ලුම්පත් යොමු කිරීම සඳහා මෙලෙස කාලය ලබා දීමට කටයුතු කල බව පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් ප්‍රදීප් සපුතන්ත්‍රී මහතා වැඩිදුරටත් සඳහන් කළේය.
+The Commissioner General of the Department Pradeep Sapathan said that it was the opportunity to date on the 30th of this month.
+
+He added that the applications were issued until 31st March.
+
+However, the Commissioner General of Persons Pradeep Sapathan added that the departments of the Divisional Secretaries were taken into consideration the time to submit the application.
 
 ◼️
 
 [Data](articles/9e806570.json)
+
+[Extended Data](ext_articles/9e806570.ext.json)
 
 ---
 
@@ -73,6 +79,18 @@ Winds from Chilaw to Hambantota via Colombo and Galle and from Trincomalee and M
 [Data](articles/4bdc8a56.json)
 
 [Extended Data](ext_articles/4bdc8a56.ext.json)
+
+---
+
+### People’s Leasing & Finance crowned Most Trusted Financial Institution in Sri Lanka by Global Brands Magazine
+
+*2024-06-22 05:44:00* · [`islandlk`](http://island.lk/peoples-leasing-finance-crowned-most-trusted-financial-institution-in-sri-lanka-by-global-brands-magazine/) · `en`
+
+People’s Leasing & Finance PLC (PLC), one of Sri Lanka’s leading non-banking financial services providers, has recently been honoured with the prestigious Global Brand Award for Most Trusted Financial Institution 2024. Presented by Global Brands Magazine, a renowned publication known for recognizing excellence in the international marketplace, this award signifies People’s Leasing & Finance’s unwavering commitment to building trust and empowering Sri Lankans to achieve their financial goals.
+
+...
+
+[Data](articles/3418c63a.json)
 
 ---
 
@@ -155,6 +173,20 @@ As part of this initiative, Lankem Agro will plant 1,500 trees across the countr
 [Data](articles/bd4ed676.json)
 
 [Extended Data](ext_articles/bd4ed676.ext.json)
+
+---
+
+### hSenidBiz wins “Technology Resilient Company” award at ISACA Sri Lanka’s first Digital Trust Awards ceremony
+
+*2024-06-22 05:29:00* · [`islandlk`](http://island.lk/hsenidbiz-wins-technology-resilient-company-award-at-isaca-sri-lankas-first-digital-trust-awards-ceremony/) · `en`
+
+The ISACA Sri Lanka celebrated digital trust champions at its first-ever Digital Trust Awards ceremony, held on June 13th, 2024, at the Monarch Imperial in Thalawathugoda, Sri Lanka. This first-of-its-kind event aimed to recognize and celebrate organizations and individuals championing digital trust and security within the region.
+
+hSenid Business Solutions, a leading Human Capital Management (HCM) solutions provider, emerged at the awards, taking home the coveted title of Technology Resilient Company of the Year 2024 in the Digital Services category. This recognition highlights hSenidBiz’s commitment to providing robust and secure HCM solutions that empower organizations to build resilient and future-proof workforces.
+
+...
+
+[Data](articles/fbfc1c58.json)
 
 ---
 
@@ -410,35 +442,47 @@ In reply, England won 156 runs for the loss of 6 wickets at the end of 20 balls.
 
 ---
 
-### ’கடந்த காலத்தை யாரும் மறக்கக் கூடாது’
+### No one should forget the past
 
 *2024-06-21 23:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-காலத்தை-யாரும்-மறக்கக்-கூடாது/175-339237) · `ta`
 
-நாட்டுக்குத் தேவையான மருந்துகள், எரிபொருள், உரம் போன்றவற்றைக் கொள்வனவு செய்ய பணமில்லாமல் துன்பப்பட்ட கடந்த காலத்தை யாரும் மறந்துவிடக் கூடாது என்றும்  இவ்வாறான இருண்ட அனுபவத்தை அடுத்த தலைமுறைக்கு விட்டுச் செல்லாமல் புதிய பொருளாதார மாற்றத்தின் ஊடாக இலங்கையை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தில் அனைவரும் இணைந்து கொள்ள வேண்டுமெனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Wickremesinghe urges not to forget the past, highlighting issues like money laundering affecting medicines, fuel, and fertilizers. He calls for unity in the government's economic transformation plan to ensure a better future for Sri Lanka, avoiding repeating past mistakes for the next generation. This was part of his address at the 9th conference of the All Ceylon Private Pharmacy Owners Association.
 
-இருண்ட அனுபவத்தை அடுத்த தலைமுறைக்கு விட்டுச்செல்லாமல், புதிய பொருளாதார மாற்றத்தின் ஊடாக இலங்கையை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தில் அனைவரும் இணைந்துகொள்ள வேண்டுமெனவும் ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-அகில இலங்கை தனியார் மருந்தக உரிமையாளர்கள் சங்கத்தின் 9 ஆவது மாநாட்டில் கலந்துகொண்டு உரையாற்றிய போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.  (a)
+President Ranil Wickremesinghe said that no one should forget the past, which has been suffering from money laundering for the country's medicines, fuel and fertilizer, and that everyone should join the government's program to build Sri Lanka through a new economic transformation rather than leave such a dark experience for the next generation.
+
+The President also stated that everyone should join the government's program to build Sri Lanka through a new economic change, rather than leaving the dark experience to the next generation.
+
+The President said this while addressing the 9th conference of the All Ceylon Private Pharmacy Owners Association.(a)
 
 ◼️
 
 [Data](articles/038b9dcc.json)
 
+[Extended Data](ext_articles/038b9dcc.ext.json)
+
 ---
 
-### சேதமடைந்த வீடுகளுக்கு இழப்பீடு
+### Compensation for damaged homes
 
 *2024-06-21 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதமடைந்த-வீடுகளுக்கு-இழப்பீடு/175-339236) · `ta`
 
-சீரற்ற காலநிலை காரணமாக முற்றிலும் சேதமடைந்த வீடுகளுக்கு அதிகபட்ச வரையறைக்கு உட்பட்டு இழப்பீடு வழங்குவதற்கு அல்லது அந்த வீடுகளை மீண்டும் நிர்மாணிக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க பணிப்புரை வழங்கியுள்ளார் என தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+President Wickremesinghe directs compensation for fully damaged homes post-inclement weather, with evaluations underway for fair assessment.
 
-அதேநேரம், பகுதியளவில் சேதமடைந்த வீடுகளை புனரமைப்பதற்காக, இடம்பெற்றுள்ள சேதங்களை மதிப்பீடு செய்து அதிகபட்ச வரையறைக்கு உட்பட்டு இழப்பீடு வழங்க நடவடிக்கை எடுக்கப்படும் என்றும் சாகல ரத்நாயக்க குறிப்பிட்டார்.
+🟩
 
-கடந்த சில நாட்களாக நிலவும் சீரற்ற காலநிலையினால் முழுமையாகவும் பகுதியளவிலும் சேதமடைந்த வீடுகளை புனரமைப்பது தொடர்பாக நேற்று முன்தினம் ஜனாதிபதி செயலகத்தில் இடம்பெற்ற கலந்துரையாடலில் கலந்துகொண்ட போதே சாகல ரத்நாயக்க இவ்வாறு தெரிவித்தார். (a)
+President Ranil Wickremesinghe has issued a directive to take steps to provide compensation to the houses that have been completely damaged due to inclement weather, said Sagala Ratnayake, the President's Senior Advisor and President of the President.
+
+At the same time, Sagala Ratnayake added that steps will be taken to evaluate the damaged houses and provide compensation under maximum definition.
+
+Sagala Ratnayake said this while attending a discussion held at the Presidential Secretariat yesterday regarding the rehabilitation of houses that have been completely and partially damaged due to inclement weather for the past few days.. (A)
 
 ◼️
 
 [Data](articles/bb7d56f8.json)
+
+[Extended Data](ext_articles/bb7d56f8.ext.json)
 
 ---
 
@@ -2271,41 +2315,5 @@ The bilateral discussions at the Foreign Ministry centred on a range of issues o
 [Data](articles/6056801e.json)
 
 [Extended Data](ext_articles/6056801e.ext.json)
-
----
-
-### Former Galle Mayor Lionel Premasiri joins SJB
-
-*2024-06-21 03:25:13* · [`dailyftlk`](https://www.ft.lk/news/Former-Galle-Mayor-Lionel-Premasiri-joins-SJB/56-763332) · `en`
-
-Former Galle District Member of Parliament and Deputy Minister Lionel Premasiri officially joined the Samagi Jana Balawegaya (SJB) this week, pledging his support to opposition leader Sajith Premadasa.
-
-Premasiri, a lawyer by profession and an alumnus of Galle Mahinda Vidyalaya, began his political career with the Sri Lanka Freedom Party (SLFP), where he was appointed as the Mayor of Galle. He later crossed over to the United National Party (UNP), securing re-election as Mayor.
-
-In 2004, Premasiri was elected to Parliament representing the Galle district under the UNP banner. Due to political disagreements, he switched allegiance to the United People’s Freedom Alliance (UPFA) and served as the Deputy Minister of Social Services and Social Welfare from 2007 to 2010. Additionally, he has also served as Canada’s Deputy High Commissioner.
-
-◼️
-
-[Data](articles/d4760f76.json)
-
-[Extended Data](ext_articles/d4760f76.ext.json)
-
----
-
-### ‘Youth Aruna’ conference to celebrate 200 years of plantation community arrival in Sri Lanka
-
-*2024-06-21 03:22:50* · [`dailyftlk`](https://www.ft.lk/news/Youth-Aruna-conference-to-celebrate-200-years-of-plantation-community-arrival-in-Sri-Lanka/56-763331) · `en`
-
-Summit aims to engage young people in meaningful discussions, activities related to plantation community’s history and future on 22 June in Kandy
-
-Water Supply and Plantation Infrastructure Development Ministry has announced plans to hold a youth conference as part of the national program commemorating the 200th anniversary of the plantation community’s arrival in Sri Lanka.
-
-The summit, titled ‘Youth Aruna’ aims to engage young people in meaningful discussions and activities related to the plantation community’s history and future. The conference is scheduled for 22 June, at the Sri Lanka Institute of Information Technology (SLIIT) in Kandy. Water Supply and Estate Infrastructure Development Ministry is leading the conference, in collaboration with the University of Peradeniya, SLIIT, university students and AIESEC voluntary organisations. The National Chamber of Commerce of Sri Lanka (NCCSL) has also agreed to host a job fair concurrently with the conference.
-
-...
-
-[Data](articles/07bbd539.json)
-
-[Extended Data](ext_articles/07bbd539.ext.json)
 
 ---

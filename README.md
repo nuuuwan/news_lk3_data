@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 06:59:50**
+As of **2024-06-22 07:21:53**
 
 ## Newspaper Stats
 
-*Scraped **31,531** Articles*
+*Scraped **31,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,570
 tamilmirrorlk | 3,700
 dailymirrorlk | 4,733
 virakesarilk | 4,902
-adaderanasinhalalk | 5,135
+adaderanasinhalalk | 5,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,529 (100.0%) of 31,531 articles have been extended.
+31,531 (100.0%) of 31,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### අද කාලගුණය
+
+*2024-06-22 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198007) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+
+මේ අතර, මන්නාරම සිට පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය   විටින් විට පැ.කි.මී. (60-65) දක්වා වැඩිවන අතර එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වේ.
+
+හලාවත සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා සහ ත්‍රිකුණාමලය සිට මුලතිව් සහ කන්කසන්තුරය හරහා මන්නාරම දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල   සුළගේ වේගය විටින් විට පැ.කි.මී. (50-55) දක්වා වැඩි විය හැකි අතර මුහුදු ප්‍රදේශ විටින් විට රළු වේ.
+
+...
+
+[Data](articles/4bdc8a56.json)
+
+---
 
 ### Standard Chartered Sri Lanka bags multiple honours at Asset AAA and Global Finance Awards 2024
 
@@ -1680,6 +1700,8 @@ Criticism from the Transport and Logistics Bureau was followed in March by Catha
 
 [Data](articles/72ad38d2.json)
 
+[Extended Data](ext_articles/72ad38d2.ext.json)
+
 ---
 
 ### Australia wins
@@ -2293,23 +2315,5 @@ The MoU was signed on 4 June, at the 30th Plenary of the Egmont Group, held in P
 [Data](articles/c4d8cd27.json)
 
 [Extended Data](ext_articles/c4d8cd27.ext.json)
-
----
-
-### SAIL at International Industry Expo 2024
-
-*2024-06-21 03:17:53* · [`dailyftlk`](https://www.ft.lk/business/SAIL-at-International-Industry-Expo-2024/34-763327) · `en`
-
-Sri Lanka’s premier fragrance and flavour provider, Soap and Allied Industries Ltd. (SAIL), is showcasing its range of fragrances and products at the ‘Industry 2024’ exhibition at the BMICH organised by the Industrial Development Board of the Ministry of Industries.
-
-Sri Lanka’s first international industry exhibition, Industry 2024, was officially inaugurated by President Ranil Wickremesinghe on Wednesday. The exhibition features over 1,000 stalls and will run until 23 June from 8:30 a.m. to 9 p.m.
-
-Participating in this exhibition provides a platform for local industries to showcase their products and services, demonstrating SAIL’s commitment to uplifting local industry in alignment with the Ministry of Industries framework.
-
-...
-
-[Data](articles/7ee658cf.json)
-
-[Extended Data](ext_articles/7ee658cf.ext.json)
 
 ---

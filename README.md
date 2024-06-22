@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-22 14:35:44**
+As of **2024-06-22 14:53:30**
 
 ## Newspaper Stats
 
-*Scraped **31,568** Articles*
+*Scraped **31,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,824
 dailyftlk | 1,927
 adalk | 2,754
 adaderanalk | 3,579
-tamilmirrorlk | 3,706
+tamilmirrorlk | 3,707
 dailymirrorlk | 4,733
 virakesarilk | 4,906
 adaderanasinhalalk | 5,149
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,568 (100.0%) of 31,568 articles have been extended.
+31,568 (100.0%) of 31,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-22 (Saturday)
+
+### கோர விபத்தில் மூதாட்டி மரணம் - 14 பேர் படுகாயம்
+
+*2024-06-22 14:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கோர-விபத்தில்-மூதாட்டி-மரணம்-14-பேர்-படுகாயம்/72-339242) · `ta`
+
+மன்னார் -மதவாச்சி பிரதான வீதி, முருங்கன் பொலிஸ் பிரிவிற்கு உட்பட்ட இசைமாலைத் தாழ்வு பகுதியில் நேற்று (21)மாலை  ஹயஸ் ரக வாகனம் மின் கம்பத்துடன் மோதி விபத்துக்கு உள்ளாகியதில்  அதில் பயணித்த 14 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்பட்டது.
+
+விபத்தில்  காயமடைந்த அனைவரும்  முருங்கன் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு       மேலதிக சிகிச்சைக்காக 7 பேர் மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டனர்.
+
+◼️
+
+[Data](articles/e41eb60d.json)
+
+---
 
 ### Tunisian president sacks minister after the death of dozens on Haj pilgrimage
 
@@ -2353,31 +2367,5 @@ Among the pardoned prisoners were 19 detained in Welikada Prison, 30 in Mahara P
 [Data](articles/c234564a.json)
 
 [Extended Data](ext_articles/c234564a.ext.json)
-
----
-
-### The main announcement on the term of the Advanced Level Examination Application
-
-*2024-06-21 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/186625) · `ta`
-
-The deadline for applying to the GCE A/L examination for 2024 is July 10th. Applications must be submitted through the official websites doenets.lk or onlineExams.gov.lk/eic, or via the 'Doe' mobile app. State and state-approved private school applicants need approval from their school headmaster before submitting. The Department of Examinations has stated that this deadline will not be extended.
-
-🟩
-
-The Department of Examinations has announced the date for the deadline for applying applications for the GCE A / L examination for 2024.
-
-Accordingly, the Commissioner General of Examinations HJMC can apply until July 10. Amit Jayasundara said.
-
-Applicants can apply for the official website of the Department of Examination www.doenets.lk or www.onlineExams.gov.lk/eic and the official mobile phone processor 'Doe'.
-
-Applicants of state and state -approved private schools have been asked to submit the applications only after the approved of the respective school headmaster.
-
-It is noteworthy that the Department of Examinations has announced that the deadline for accepting applications will not be extended.
-
-◼️
-
-[Data](articles/505d4d44.json)
-
-[Extended Data](ext_articles/505d4d44.ext.json)
 
 ---

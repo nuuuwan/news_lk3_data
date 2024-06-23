@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 20:04:50**
+As of **2024-06-23 20:19:24**
 
 ## Newspaper Stats
 
-*Scraped **31,741** Articles*
+*Scraped **31,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,781
+adalk | 2,782
 adaderanalk | 3,606
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
-virakesarilk | 4,921
+virakesarilk | 4,922
 adaderanasinhalalk | 5,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,741 (100.0%) of 31,741 articles have been extended.
+31,741 (100.0%) of 31,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### மட்டக்களப்பு - பூனொச்சிமுனையில் மீன்பிடி படகு எரிக்கப்பட்டமைக்கு எதிராக மீனவர்கள் ஆர்ப்பாட்டம்
+
+*2024-06-23 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186791) · `ta`
+
+மட்டக்களப்பு - காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பூனொச்சிமுனை கடற்கரைப் பகுதியில் ஞாயிற்றுக்கிழமை (23) அதிகாலை 2.30 மணியளவில் மீன்பிடி படகு ஒன்று இனம் தெரியாத நபர்கள் சிலரால் எரிக்கப்பட்டமையை கண்டித்து பூனொச்சிமுனை துறைமுக ஆழ் கடல் மீனவர்கள் ஞாயிற்றுக்கிழமை (23) காலை 9.30 மணிக்கு கண்டன ஆர்ப்பாட்டம் ஒன்றில் ஈடுபட்டனர்.
+
+பூனொச்சிமுனை துறைமுகத்தில் மீனவர் ஒருவரின் 25 லட்சம் ரூபா பெறுமதியான மீன்பிடி படகு ஒன்றும் மீன்பிடி உபகரணங்களும் எரிக்கப்பட்டமையை கண்டித்து பிரதேச மீனவர்களும் மீனவ குடும்பங்களும் இந்த கண்டன ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+எரிக்கப்பட்ட மீன்பிடி படகு உரிமையாளருக்கு நஷ்ட ஈடு வழங்கப்பட வேண்டும், பாதிக்கப்பட்ட மீனவரின் வாழ்வாதாரம் கட்டி எழுப்பப்பட வேண்டும் தமிழ், முஸ்லிம் நல்லுறவை  சீர்குலைக்கும் சக்திகளுக்கு எதிராக நடவடிக்கை எடுக்கப்பட வேண்டும் மீன்பிடி படகை எரித்தவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்க வேண்டும் என்பன கோரிக்கைகளை முன் வைத்து பதாதைகளை தாங்கியும் கோஷங்கள் எழுப்பியும் மீனவர்கள் இதன் போது கண்ட ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/b0c78191.json)
+
+---
 
 ### England to benefit the coin
 
@@ -301,6 +317,24 @@ In a significant display of solidarity, the New Kathankudy Grand Jummah Mosque d
 [Data](articles/07daaf19.json)
 
 [Extended Data](ext_articles/07daaf19.ext.json)
+
+---
+
+### 16 හැවැරිදි දියණිය සමූහ දූෂණය කළ 8 දෙනා පැය 48ක් රඳවාගෙන ප්‍රශ්න කරයි
+
+*2024-06-23 17:22:46* · [`adalk`](https://www.ada.lk/breaking_news/16-හැවැරිදි-දියණිය-සමූහ-දූෂණය-කළ-8-දෙනා-පැය-48ක්-රඳවාගෙන-ප්‍රශ්න-කරයි/11-410382) · `si`
+
+16 හැවිරිදි  පාසල් දැරියක් සමූහ දූෂණයට ලක් කිරීමේ සිද්ධියක්  සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඇයගේ පෙම්වතා ඇතුළු තරුණයන් 8 දෙනා  හෝමාගම අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව පැය 48ක කාලයක් රඳවාගෙන ප්‍රශ්න කිරීමට වැඩ බලන මහේස්ත්‍රාත් ප්‍රියංකා මද්දුම පටබැඳි මෙනවිය අද (23) පොලිසියට අවසර ලබා දුන්නේය.
+
+එම සැකකරුවන්ගෙන් තවදුරටත් ප්‍රශ්න කිරීමට අවසර ලබා දෙන ලෙස හංවැල්ල පොලිසිය අධිකරණයෙන් කරන ලද ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහේස්ත්‍රාත්වරිය එලෙස අවසර ලබා දුන්නේය.
+
+මෙලෙස අධිකරණය වෙත ඉදිරිපත් කරනු ලැබුවේ හංවැල්ල ජල්තර සහ රණාල ප්‍රදේශයේ පදිංචි තරුණයන් පිරිසකි. දැරිය රෝහල් ගත කර ඇත.
+
+දැරිය සිය පුංචි අම්මා සමග පොසොන් පොහෝ දින දන්සැල් වැඳීම සඳහා ගොස් යළි පැමිණීමේදී පොත්කඩයකට යන බව පවසා  ඇය මගහැර මිතුරියකගේ නිවසට ගොස් රුපියල් 300/= ක් ඉල්ලාගෙන අනතුරුව හංවැල්ල ඇඹුල්ගම පෙම්වතාගේ නිවසට ගොස් ඔහු සමග දැරිය ලිංගිකව එක් වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/4b39dedf.json)
 
 ---
 
@@ -2441,39 +2475,5 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/a843b864.json)
 
 [Extended Data](ext_articles/a843b864.ext.json)
-
----
-
-### SLT-MOBITEL Home Telephone offers unlimited calls
-
-*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/slt-mobitel-home-telephone-offers-unlimited-calls/) · `en`
-
-SLT-MOBITEL has unveiled an unlimited voice calling package tailored specially for families and small businesses.SLT-MOBITEL recognises that customers rely on SLT-MOBITEL’s fixed line services for clear, uninterrupted voice communication. The Unlimited Voice Package caters to this need comprehensively by removing all limitations on calling while providing the expected superior quality and reliability of its fixed line network
-
-SLT-MOBITEL understands that the home phone is often a shared family resource. A key highlight is the package’s family-friendly approach, enabling the entire household to enjoy unlimited calling without restrictions. The package therefore embraces this reality enabling all family members and other customers who use a fixed line unlimited calls at an affordable price.
-
-...
-
-[Data](articles/138fdb13.json)
-
-[Extended Data](ext_articles/138fdb13.ext.json)
-
----
-
-### Ceylinco Life’s star performers celebrate their wins in Dubai
-
-*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/ceylinco-lifes-star-performers-celebrate-their-wins-in-dubai/) · `en`
-
-Top performing sales professionals of Ceylinco Life recently celebrated their career successes for Sri Lanka’s life insurance market leader with a company-hosted holiday in Dubai. The 16-member group comprising of the achievers of Ceylinco Life’s ‘Sales Superstar’ competition targets, and the winners of another sales competition held for Ceylinco Life sales officers, toured the Gold and Souk and Spice Souk, enjoyed an Abra ride and a monorail ride to Palm Jumeirah, visited the Burj Khalifa and the Musical Fountain show, and experienced a desert safari with a barbeque night, camel riding, henna painting, a fire show, and traditional tanoura and belly dancing. Pictured here is the Group that visited Dubai for four days.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/97dd79a0.json)
-
-[Extended Data](ext_articles/97dd79a0.ext.json)
 
 ---

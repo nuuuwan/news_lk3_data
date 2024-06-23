@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 12:06:50**
+As of **2024-06-23 12:19:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,673 (100.0%) of 31,676 articles have been extended.
+31,676 (100.0%) of 31,676 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet moder
 ...
 
 [Data](articles/0601def3.json)
+
+[Extended Data](ext_articles/0601def3.ext.json)
 
 ---
 
@@ -218,6 +220,8 @@ This article marks Ranasinghe Premadasa’s 100th birth anniversary, reflecting 
 
 [Data](articles/0a298416.json)
 
+[Extended Data](ext_articles/0a298416.ext.json)
+
 ---
 
 ### RW’s “judicial cannibalism” stirs up a storm
@@ -231,6 +235,8 @@ President Ranil Wickremesinghe led the baton charge on Tuesday morning, explaini
 ...
 
 [Data](articles/6301bd18.json)
+
+[Extended Data](ext_articles/6301bd18.ext.json)
 
 ---
 

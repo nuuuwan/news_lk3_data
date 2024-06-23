@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 18:11:59**
+As of **2024-06-23 18:23:48**
 
 ## Newspaper Stats
 
-*Scraped **31,729** Articles*
+*Scraped **31,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,779
-adaderanalk | 3,603
+adaderanalk | 3,604
 tamilmirrorlk | 3,733
 dailymirrorlk | 4,733
 virakesarilk | 4,919
@@ -26,27 +26,49 @@ adaderanasinhalalk | 5,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,724 (100.0%) of 31,729 articles have been extended.
+31,729 (100.0%) of 31,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### 3 வயது சிறுமிக்கு பாலியல் தொல்லை: ஒருவர் கைது
+### Railway operations restored on Up-country Line
+
+*2024-06-23 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100050/railway-operations-restored-on-up-country-line-) · `en`
+
+The railway operations on the Up-country Line have been restored after around 09 hours of disruption caused by fallen trees, Ada Derana reporter said.
+
+Train operations had reportedly been disrupted due to several fallen trees on the tracks between the Inguru Oya and Galabada railway stations since early this morning (23).
+
+As a result, the Department of Railways took steps to limit train services on the Up-Country Line.
+
+◼️
+
+[Data](articles/46427ed4.json)
+
+---
+
+### 3 -year -old girl sexually harassed: One arrested
 
 *2024-06-23 17:35:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வயது-சிறுமிக்கு-பாலியல்-தொல்லை-ஒருவர்-கைது/175-339296) · `ta`
 
-வவுனியாவில் 3 வயது சிறுமிக்கு பாலியல் தொல்லை கொடுத்த குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டுள்ளதாக வவுனியா பொலிஸார், ஞாயிற்றுக்கிழமை (23) தெரிவித்தனர்.
+A 3-year-old girl was sexually assaulted in Vavuniya; her mother is in jail. The child was left alone while her mother worked. A man has been arrested based on the mother's complaint, and the girl is undergoing medical exams. Police will present him in court post-investigation.
 
-வவுனியா, மகாறம்பைக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வசிக்கும் குடும்பம் ஒன்றில் தந்தை சிறுகுற்றச் செயல் தொடர்பில் வவுனியா விளக்கமறியல் சிறைச்சாலையில் உள்ள நிலையில் தாயார் கூலி வேலைக்கு சென்று குடும்பத்தை பார்த்து வருகின்றார்.
+🟩
 
-தாயார் கூலி வேலைக்கு செல்லும் போது தனது பிள்ளைகளை அயலில் உள்ள வீட்டில் விட்டுச் செல்வது வழமை. இவ்வாறு விட்டுச் சென்ற நிலையில் 3 வயது சிறுமிக்கு பாலியல் தொல்லை கொடுத்திருந்தது தெரியவந்துள்ளது.
+Vavuniya police said on Sunday (23)
 
-இதனையடுத்து வவுனியா பொலிஸில் தாயாரால் செய்யப்பட்ட முறைப்பாட்டுக்கு அமைய ஒருவர் கைது செய்யப்பட்டுள்ளதுடன், சிறுமி மருத்துவ பரிசோதனைக்காக வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். கைது செய்யப்பட்டவரை மேலதிக விசாரணைகளின் பின் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர்.
+In a family living in the Vavuniya and Maharampaikulam police division, the mother is in the Vavuniya prison in connection with the act of minority.
+
+When the mother goes to work, it is customary for her children to leave her home in the neighborhood. It was revealed that a 3 -year -old girl had sexually harassed.
+
+Subsequently, a man has been arrested on a complaint lodged by the mother of the Vavuniya police and the girl has been admitted to the Vavuniya Hospital for medical examination.. The police said that the man has taken steps to appear in court after further investigations.
 
 ◼️
 
 [Data](articles/82ae196d.json)
+
+[Extended Data](ext_articles/82ae196d.ext.json)
 
 ---
 
@@ -64,45 +86,63 @@ In a significant display of solidarity, the New Kathankudy Grand Jummah Mosque d
 
 [Data](articles/07daaf19.json)
 
+[Extended Data](ext_articles/07daaf19.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනය යථා තත්ත්වයට
+### Upcountry train services restored
 
 *2024-06-23 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198065) · `si`
 
-අද (23) උදෑසන ඉඟුරු ඔය ගසක් කඩා වැටීම හේතුවෙන් බාධා එල්ල වී තිබූ උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය යථා තත්ත්වයට පත් කර තිබේ.
+Train services resumed after a tree fell on the tracks between Ginger Oya and Galaboda stations. The Railway Department cleared the obstruction by cutting down the tree around 9 pm, restoring normal service.
 
-අද (23) උදෑසන ඉඟුරු ඔය සහ ගලබොඩ දුම්රිය ස්ථාන අතර දී දුම්රිය මාර්ගයට විශාල ගසක් කඩා වැටීමෙන් දුම්රිය ධාවනය බාධා එල්ල වී තිබුණි.
+🟩
 
-මේ හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනය සීමා කිරීමටත් දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+The train services were restored due to the collapse of a tree inner tree this morning (23).
 
-කෙසේවෙතත් පැය 09ක පමණ කාලයකට පසුව පස්වරු 3ට පමණ ගස කපා ඉවත්කර දුම්රිය මාර්ගය යථා තත්ත්වයට පත් කිරීමට කටයුතු කර ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+The train was disrupted by the collapse of a large tree on the railway line between the Ginger Oya and Galaboda railway stations.
+
+As a result, the Railway Department took steps to restrict the rural road train.
+
+However, about 9 pm, however, the tree had taken steps to be cut off and restored the railway line, "said Ada Derana reporter.
 
 ◼️
 
 [Data](articles/06ec4ee2.json)
 
+[Extended Data](ext_articles/06ec4ee2.ext.json)
+
 ---
 
-### மு.கா தலைவராக ஹக்கீம் மீண்டும் தெரிவு
+### Hakeem re -elected as the leader of the MU
 
 *2024-06-23 17:19:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-தலைவராக-ஹக்கீம்-மீண்டும்-தெரிவு/175-339295) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தேசிய தலைவராக மீண்டும் பாராளுமன்ற உறுப்பினர் சட்டத்தரணி ரவூப் ஹக்கீம் ஏக மனதாக தெரிவு செய்யப்பட்டுள்ளார்
+Rauf Hakeem was re-elected as the leader of the Sri Lanka Muslim Congress (SLMC) during its 31st conference, held at Hizbullah Hall, Kattankudi. The event saw the announcement of a 33-member high-level committee, including Mansur A Khadar as Deputy Secretary and MS Udumaleb as Deputy Organizer. The conference, organized by the party's deputy leader and former governor Hizbullah, attracted attendees from across the country, including 1500 deceased members commemorated in comments.
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் 31 வது பேராளர் மாநாடு காத்தான்குடி ஹிஸ்புல்லா மண்டபத்தில் சனிக்கிழமை (22)  நடைபெற்றது. இதன் போது  முஸ்லிம் காங்கிரஸின் தேசிய தலைவராக ரவூப் ஹக்கீம் ஏகமானதாக தெரிவு செய்யப்பட்டுள்ளார்.
+🟩
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் 31 வது பேராளர் மாநாடு ஆரம்பமான போது காரி அஷ்ஷெய்க் அப்துல் ஜப்பார் அவர்களினால் கிறாஅத் ஓதப்பட்டது. இதையடுத்து கட்சியின் கீதம் பாடப்பட்டது
+Parliamentarian Rauf Hakeem has been unanimously elected as the National Leader of the Sri Lanka Muslim Congress
 
-இதன் பின்னர் கட்சியின் தேசிய தலைவராக   மீண்டும். பாராளுமன்ற உறுப்பினர் சட்டத்தரணி ரவூப் ஹக்கீம் ஏக மனதாக தெரிவு செய்யப்படுவதாக கட்சியின் தவிசாளர் முழக்கம் மஜீத் அறிவித்தார்.
+Sri Lanka Muslim Congress 31st Conference was held on Saturday (22) at Hizbullah Hall, Kattankudi. Rauf Hakeem has been elected as the national leader of the Muslim Congress.
 
-இதையடுத்து தக்பீர் முழக்கம், கரகோஷங்களுக்கு மத்தியில் தலைவர் ரவூப் ஹக்கீம் மாநாட்டுக்கு தலைமைவகித்து கட்சியின் 33 பேர் கொண்ட உயர் பீடத்தை அறிவித்தார்.
+When the Sri Lanka Muslim Congress (SLMC) was inaugurated by the 31st convention of the Sri Lanka Muslim Congress. The party's anthem was then sung
 
-பிரதி செயலாளராக மன்சூர் எ காதர் தேசிய அமைப்பாளராக பாராளுமன்ற உறுப்பினர் எம். எஸ். தெளபீக்
+After this, the party's national leader again. The party's chairman Majeed announced that MP Rauf Hakeem was unanimously elected.
+
+Subsequently, the leader of the party, Rauf Hakeem presided over the convention and announced the 33 -member high -level faculty.
+
+Mansur A Khadar National Organizer as Deputy Secretary. S.. Florebel
+
+Former Eastern Provincial Minister MS Udumaleb as Deputy Organizer. Mubin as the National Policy Area Secretary
+
+Chairman Rauf Hakeem also announced 33 people, including Yahyagan as the Deputy Treasurer.
 
 ...
 
 [Data](articles/7002d4f4.json)
+
+[Extended Data](ext_articles/7002d4f4.ext.json)
 
 ---
 
@@ -130,23 +170,29 @@ The President also joined the devotees participating in this special prayer.
 
 ---
 
-### மாணவி கூட்டு வன்புணர்வு ; ஐவர் தடுத்து வைப்பு
+### Student joint venture;Session
 
 *2024-06-23 16:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-தடுத்து-வைப்பு/175-339292) · `ta`
 
-ஹன்வெல்ல, எம்புலகம பிரதேசத்தில் 17 வயதுடைய பாடசாலை மாணவியை கடத்திச் சென்று கூட்டு வன்புணர்வு செய்த குற்றச்சாட்டில், 5 இளைஞர்கள் சனிக்கிழமை (22) கைது செய்யப்பட்டதாக நுகேகொட பொலிஸார் தெரிவித்துள்ளனர்.
+Five youths were arrested in Nugegoda for allegedly kidnapping a 17-year-old girl from Hanwella. The victim, Poson Poshiah, claimed she was forced onto a motorcycle and taken to a crematorium. Investigations are ongoing.
 
-கடுவெல, நவகமுவ பிரதேசத்தை சேர்ந்த 21 முதல் 24 வயதுக்குட்பட்ட ஐவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-துஷ்பிரயோகத்திற்கு உள்ளான மாணவி பொசன் பொஹோயா தினத்தன்று (வெள்ளிக்கிழமை 21) காலை தனது சித்தியுடன் அன்னதானத்திற்கு சென்று , தான் புத்தக கடைக்கு செல்வதாக கூறி காதலனை சந்திக்க சென்றுள்ளதாகவும்
+Nugegoda police said that five youths were arrested on Saturday (22) on charges of abducting a 17 -year -old schoolgirl in Hanwella, Embulagama area.
 
-காதலனை சந்தித்து விட்டு, வீடு திரும்பிய மாணவியை, மோட்டார் சைக்கிள்களில் வந்த ஐவர் வலுக்கட்டாயமாக ஏற்றிச் சென்று ஜல்தர பகுதியில் நிர்மாணிக்கப்பட்டு வரும் தகனசாலையொன்றுக்கு அழைத்துச் சென்று கூட்டு வன்புணர்வு செய்ததாகவும் பாதிக்கப்பட்ட சிறுமி முறைப்பாடு பதிவு செய்துள்ளார்.
+Ivarayar, aged 21 to 24, from Kaduwela, Navagamuwa area, has been arrested.
 
-மேலும் இது தொடர்பில் கைது செய்யப்பட்ட ஐவர் தடுத்துவைக்கப்பட்டு விசாரணைகள் மேற்கொண்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+Poson Poshiah, who was abused, went to Annadhanam on Friday morning (Friday 21) and went to meet her boyfriend claiming to go to the bookstore.
+
+The victim has lodged a complaint that the student had forcibly transported the student who had returned home and had been forcibly loaded with a motorcycle and took him to a crematorium in Jaltara.
+
+It is reported that five persons arrested have been detained and investigations are being carried out.
 
 ◼️
 
 [Data](articles/83a47b50.json)
+
+[Extended Data](ext_articles/83a47b50.ext.json)
 
 ---
 
@@ -2387,29 +2433,5 @@ North East Sangharanayake, President of the Maha Sangha in Sri Lanka, Lankadeepa
 [Data](articles/8bdce479.json)
 
 [Extended Data](ext_articles/8bdce479.ext.json)
-
----
-
-### The goal of Bangladesh received
-
-*2024-06-22 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198036) · `si`
-
-In the ongoing World Cup match between India and Bangladesh, Bangladesh won the toss and chose to field first. India made 196 runs in 20 overs, losing 5 wickets. Hardik Pandya contributed with 50 runs.
-
-🟩
-
-The match between India and Bangladesh, the round of the World Cup match is currently underway.
-
-The Bangladesh team won the toss and invited the Indian team to bat first.
-
-Accordingly, the Indian team scored 196 runs for the loss of 5 wickets at the end of the allotted 20 overs.
-
-Hardick Pandy scored 50 runs for the innutrition.
-
-◼️
-
-[Data](articles/de61382f.json)
-
-[Extended Data](ext_articles/de61382f.ext.json)
 
 ---

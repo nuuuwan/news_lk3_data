@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 21:19:16**
+As of **2024-06-23 21:34:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,745 (100.0%) of 31,747 articles have been extended.
+31,747 (100.0%) of 31,747 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The national secretary of the United National Party (UNP), Ravi Karunanayake, ha
 ◼️
 
 [Data](articles/ec160588.json)
+
+[Extended Data](ext_articles/ec160588.ext.json)
 
 ---
 
@@ -318,19 +320,25 @@ Police said the police department had been suspended from work immediately.
 
 ---
 
-### ජනපති කළ අධිකරණ ස්වාධීනත්වයට බලපාන වැඩේ
+### Affecting the independence of judicial judicial
 
 *2024-06-23 18:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කළ-අධිකරණ-ස්වාධීනත්වයට-බලපාන-වැඩේ/11-410385) · `si`
 
-වර්තමාන නීතිපතිවරයාගේ සේවා කාලය දීර්ඝ කිරීමට ඉදිරිපත් කළ යෝජනාව වැඩි ඡන්දයෙන් ප්‍රතික්ෂේප කිරීමෙන් පසු නැවතත් ඔහුගේම නම  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ව්‍යවස්ථාදායක සභාවට ඉදිරිපත් කරන බවට වාර්තා වන බව සමගි ජන බලවේගයේ ප්‍රධාන විධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ අජිත් පී. පෙරේරා මහතා පැවසීය.
+Ranil Wickremesinghe, a former Parliamentarian lawyer, criticized the current Attorney General's extended tenure, suggesting it undermines judicial independence. He argued against the practice of extending the Attorney General's term beyond retirement without proper legal grounds, highlighting the need for experienced lawyers from the Attorney General's Department to fill such roles. Wickremesinghe's remarks underscore concerns over the potential erosion of judicial independence and the importance of adhering to constitutional norms in appointments.
 
-ඒ අනුව මෙම ක්‍රියාව අධිකරණයේ ස්වාධීනත්වයට ඍජුව බලපාන කාරණයක් මෙන්ම, නීතිපති දෙපාර්තමේන්තුවේ ස්වාධීන නීතිඥවරුන්ට කළ බරපතළ අපහාසයක් බව අද (23දා) කොළඹ විපක්ෂනායක කාර්යාලයේ ඊයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් හිටපු පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී. පෙරේරා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Former Parliamentarian lawyer, MPs, MPs, MP Ranil Wickremesinghe has been reported to be presented to the Constitutional Council after rejection of the present Attorney General's resolution after rejection of the service of the present voting.. Mr. Perera said.
+
+He was speaking at a media briefing held at the Colombo Opposition's Office today as well as a serious insult to the independent lawyers of the Attorney General's Department (23).
+
+Former MP Ajith P. Mr. Perera said:
 
 ...
 
 [Data](articles/1e10e69d.json)
+
+[Extended Data](ext_articles/1e10e69d.ext.json)
 
 ---
 

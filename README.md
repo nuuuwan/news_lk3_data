@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 21:34:43**
+As of **2024-06-23 21:53:55**
 
 ## Newspaper Stats
 
-*Scraped **31,747** Articles*
+*Scraped **31,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,783
 adaderanalk | 3,607
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
-virakesarilk | 4,922
+virakesarilk | 4,923
 adaderanasinhalalk | 5,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,747 (100.0%) of 31,747 articles have been extended.
+31,747 (100.0%) of 31,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### காத்தான்குடியில் வேன் விபத்து : காயமடைந்த இருவர் வைத்தியசாலையில் அனுமதி
+
+*2024-06-23 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186792) · `ta`
+
+பொலன்னறுவை இருந்து கல்முனை நோக்கி பயணித்த வேன் ஒன்று மட்டக்களப்பு - கல்முனை பிரதான வீதி வழியாக பயணித்து வந்த போது வேகக் கட்டுப்பாட்டை இழந்து காத்தான்குடி பிரதான வீதி நகர வரவேற்பு பதாதை அருகில் வீதியை விட்டு விலகி வீதியின் நடுவே மோதி விபத்து இடம்பெற்றுள்ளது.
+
+குறித்த வேனில் சிறுவர்கள் உள்ளடங்களாக சுமார் 10  பேர்   ஆசனத்தில் அமர்ந்து வந்துள்ளதுடன் சாரதி உட்பட முன் ஆசனத்தில் அமர்ந்திருந்த மேலும் ஒருவர் விபத்தின் போது காயங்களுக்குள்ளாகி காத்தான்குடி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+காயமடைந்தவர்கள் காத்தானகுடி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் விபத்து குறித்த மேலதிக விசாரணைகளை காத்தான்குடி பொலிஸார் முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/687cfd7c.json)
+
+---
 
 ### President to address the nation on Wednesday
 
@@ -2473,29 +2489,5 @@ Meanwhile, a 73-year-old man was killed in a car accident that took place in the
 [Data](articles/6f19a525.json)
 
 [Extended Data](ext_articles/6f19a525.ext.json)
-
----
-
-### Sri Lanka Water Board makes profits, tax-payers inject Rs28bn
-
-*2024-06-23 07:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-board-makes-profits-tax-payers-inject-rs28bn-169040/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run National Water Supply and Drainage Board has made a profit of 5.2 billion rupees in the year to December 2023, after a tariff increase despite not getting money for 25 percent of its water it pumps out.
-
-Total revenues went up to 61.8 billion rupees in 2023 from 35.4 billion rupees, a Finance Ministry report said.
-
-Water revenue surged to 58.5 billion rupees from 33.1 billion rupees, cost of sales also went up to 32.8 billion rupees from 23.14 billion rupees, helping boost gross profits from 12.3 billion rupees to 29.0 billion rupees.
-
-Finance costs surged to 14.9 billion rupees from 3.9 billion rupees,
-
-NSWD reported net profits of 5.2 billion rupees for the year, against a loss of 2.7 billion rupees a year earlier.
-
-The Treasury had given 28 billion rupees from tax payer money to settle loans.
-
-...
-
-[Data](articles/44604a3c.json)
-
-[Extended Data](ext_articles/44604a3c.ext.json)
 
 ---

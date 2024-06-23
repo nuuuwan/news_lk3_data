@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 12:34:46**
+As of **2024-06-23 12:52:29**
 
 ## Newspaper Stats
 
-*Scraped **31,680** Articles*
+*Scraped **31,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,770
+adalk | 2,771
 adaderanalk | 3,596
-tamilmirrorlk | 3,718
+tamilmirrorlk | 3,723
 dailymirrorlk | 4,733
 virakesarilk | 4,912
 adaderanasinhalalk | 5,180
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,676 (100.0%) of 31,680 articles have been extended.
+31,680 (100.0%) of 31,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### ගලකින් හිසට පහරදී පොසොන් පොහොයදා රාත්‍රි සිය මව ඝාතනය කල පුතෙකු අත්අඩංගුවට
+
+*2024-06-23 12:33:41* · [`adalk`](https://www.ada.lk/breaking_news/ගලකින්-හිසට-පහරදී-පොසොන්-පොහොයදා-රාත්‍රි-සිය-මව-ඝාතනය-කල-පුතෙකු-අත්අඩංගුවට/11-410376) · `si`
+
+කන්දෙගෙදර සාර්නයා වත්තේ දී සිය පුතුගේ නිවසට ගිනිතබා අලාභහානි කර , ගලකින් පහරදී  පොසොන්   පොහොය දින රාත්‍රි සිය මව ඝාතනය කලැයි සැකපිට පුතෙකු ඊයේ (22) සැකපිට අත්අඩංගුවට ගත් බව කන්දෙගෙදර පොලිසිය පවසයි .
+
+සැකකාර පුතා විසින් හිසට ගලකින් පහරදී මෙන් මෙසේ ඝාතනයට ලක්වී ඇත්තේ කන්දෙගෙදර සාර්නයා වත්තේ තංගමලේ කොටසේ 3 වන ලැයිමේ පදිංචිව සිටි සිංගාරවේල් මුත්තාල් (62) නැමති කාන්තාව යැයි පොලිසිය කීය .
+
+අත්අඩංගුවට ගත් සැකකරු කන්දෙගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි තිදරු පියෙකු යැයි පොලිසිය කීය .
+
+මොහුගේ බිරිද විදේශ රටක රැකියාවක් කරන බවත් , මොහුගේ දරුවන් තිදෙනා සැකකරු ගේ මව සමඟ කන්දෙගෙදර සාර්නයා වත්තේ තංගමලේ කොටසේ වතු නිවසේ පදිංචිව සිට ඇති අතර සැකකරු සිය  කන්දේගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ සිටින සිය සහෝදරියකුගේ නිවසේ වාසය කරමින් සිටි බවද පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/1e2b7bf9.json)
+
+---
+
+### “ராஜபக்ஷ அணி வந்தால்: நாங்கள் வெளியேறுவோம்“
+
+*2024-06-23 12:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-அணி-வந்தால்-நாங்கள்-வெளியேறுவோம்/175-339277) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் வழிநடத்தல் குழுவில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ராஜபக்ச அணி தொடர்ந்தும் பங்குபற்றினால், அதில் இருந்து விலகி தமது கட்சி தனித்து நிற்கும் என ஜனாதிபதி ரணில் விக்ர மசிங்கவிற்கு அறிவிக்க பாராளுமன்ற உறுப்பினர் நிமல் லன்சா உள்ளிட்ட குழுவினர் தீர்மானித்துள்ளனர்.
+
+இதன்படி ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுனவின் ராஜபக்ச முகாமின் ஆதரவு தேவையா அல்லது தனது சொந்த அணியினரின் ஆதரவு தேவையா என்பதை ஜனாதிபதியே தெரிவு செய்ய வேண்டும் என்றும் அக்குழுவினர் தெரிவித்ததுள்ளனர்.
+
+ஜனாதிபதியின் தேர்தல் வழிநடத்தல் குழுவிற்கு திரு பசில் ராஜபக்ஷவை அழைத்தமைக்கு கடும் எதிர்ப்பு தெரிவித்துள்ள குழுவினர், அதனையும் மீறி அவர் தொடர்ந்தும் பங்குபற்றுவதாக அக்குழு சுட்டிக்காட்டியுள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் நிமல் சிறிபால டி சில்வா தரப்பினரும்  நிமல் லன்சா மற்றும் குழுவினருடன் இணைந்து செயற்படுவதால், இந்தக் கருத்தை எதிர்காலத்தில் ஜனாதிபதிக்கு அறிவிக்க திட்டமிடப்பட்டுள்ளது என்றும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/11cbae64.json)
+
+---
 
 ### Two youths dead, two critical after bus collides head-on with three-wheeler
 
@@ -54,21 +90,73 @@ The bus driver has been arrested, and Thalawa police are conducting further inve
 
 [Data](articles/dba4cd39.json)
 
+[Extended Data](ext_articles/dba4cd39.ext.json)
+
 ---
 
-### පොලීසියට දැමූ සෙල්ලම - තරුණයින් තිදෙනෙක් අත්අඩංගුවට
+### அமைச்சர், மகளிடம் கடும் சோதனை
 
-*2024-06-23 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198054) · `si`
+*2024-06-23 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-மகளிடம்-கடும்-சோதனை/175-339276) · `ta`
 
-තීරු බදු නොගෙවා මෙරටට ආනයනය කළ බවට සැක කෙරෙන රුපියල් කෝටි 1 1/2ක් පමණ වටිනා අධි ධාරිතාවෙන් යුත් යතුරුපැදි තුනක් ධාවනය කරමින් සිටි තරුණයන් තිදෙනෙක් පැපිලියානේදී අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලීසිය පවසයි.
+அமைச்சர் ஒருவரும் அவரது மகளும் சட்டவிரோதமான பொருட்களை கொண்டு வருவதாக கிடைத்த தகவலின் அடிப்படையில் கட்டுநாயக்க விமான நிலையத்தில் வைத்து சுங்க அதிகாரிகளால் அண்மையில் சோதனை நடத்தப்பட்டது. ஆனால் அந்தத் தகவலை நிரூபிக்கும் எந்த ஆதாரமும் அவர்களது பயண பொதிகளில் கிடைக்கவில்லை.
 
-අත්අඩංගුවට ගත් තරුණයන් තිදෙනා අතර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ උසස් නිලධාරියකුගේ පුතෙකුද සිටින බව පොලීසිය කීය.
+அமெரிக்காவில் இருந்து தனது மகளுடன் இலங்கை வந்த அமைச்சரவை அந்தஸ்துள்ள அமைச்சர் ஒருவரே இந்த சம்பவத்திற்கு முகம் கொடுத்துள்ளார்.
 
-යතුරුපැදි තුනෙන් දෙකක ලියාපදිංචි අංක තහඩු සවිකර තිබූ අතර එම එක් යතුරු පැදියක සවිකර ඇත්තේ අත්අඩංගුවට ගත් තරුණයෙකුගේ මවකගේ නමට ලියාපදිංචි කර ඇති ස්කූටර් යතුරු පැදියක ලියාපදිංචි අංක තහඩුව බව පොලීසිය සිදු කරන ලද මූලික විමර්ශනවලදී අනාවරණය විය.
+இந்த தகவலை அதே விமானத்தில் இருந்து வந்த தி​றைச்சேரி அதிகாரி ஒருவர் தெரிவித்துள்ளமை தெரியவந்துள்ளது.
+
+இந்த அதிகாரி பொய்யான தகவல்களை அளித்ததாக குற்றம் சாட்டப்பட்டுள்ளது. அத்துடன், தகவல் இல்லாமல் சோதனை செய்வதாக சுங்கத்துறை அதிகாரிகளுக்கு எதிராக  குற்றம் சாட்டப்படுகிறது.
+
+◼️
+
+[Data](articles/841e3d74.json)
+
+---
+
+### வீதி விபத்துகளில் 7 பேர் பலி: 15 பேர் காயம்
+
+*2024-06-23 12:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-விபத்துகளில்-7-பேர்-பலி-15-பேர்-காயம்/175-339275) · `ta`
+
+பொசன் தினத்திற்கு மறுநாள் இலங்கையின் பல இடங்களில் இடம்பெற்ற வீதி விபத்துக்களில் 7 பேர் உயிரிழந்துள்ளதுடன் மேலும் 15 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடக அலுவலகம் தெரிவித்துள்ளது.
+
+கண்டி- யாழ்ப்பாணம் வீதியில் மாத்தளை கொங்கஹமுல பிரதேசத்தில் தனியார் பேருந்து ஒன்றும் முச்சக்கர வண்டியும் நேருக்கு நேர் மோதியதில் மீகம்மன வடக்கு வத்தேகம பகுதியைச் சேர்ந்த 57 மற்றும் 17 வயதுடைய இரு பெண்கள் உயிரிழந்துள்ளதாக மாத்தளை பொலிஸார் தெரிவித்தனர்.
+
+தம்புள்ளையில் இருந்து மாத்தளை நோக்கி பயணித்த பேருந்து வீதியோரம் நிறுத்தி வைக்கப்பட்டிருந்த இ.போ.சபைக்கு சொந்தமான பேருந்தொன்றை கடக்க முற்பட்ட போது எதிர்திசையில் இருந்து வந்த முச்சக்கர வண்டியுடன் மோதி இந்த விபத்து இடம்பெற்றுள்ளதாகவும் , முச்சக்கர வண்டியில் பயணித்தவர்கள் ஒரே குடும்பத்தை சேர்ந்தவர்கள் எனவும் மாத்தளை பொலிஸார் தெரிவித்தனர்.
+
+அதேவேளை  ஹம்பேகமுவ, லிஹினாகல பிரதேசத்தில் மோட்டார் சைக்கிளுடன் மோதுண்ட பாதசாரி ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார். தம்வெல் ஒடைய பிரதேசத்தை சேர்ந்த 73 வயதுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
 
 ...
 
+[Data](articles/0d2c1427.json)
+
+---
+
+### Skipped to police - Three youth arrested
+
+*2024-06-23 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198054) · `si`
+
+Three youths, including a traffic department official's son, were arrested by the Boralesgamuwa Police for allegedly importing motorcycles worth 3 million rupees without proper registration. The arrest came after a preliminary investigation revealed issues with their vehicle registrations. The suspects, aged between 20 and 22, hail from Boralesgamuwa, Panadura, and Colombo. They were released on bail and will appear in court the following day.
+
+🟩
+
+Three youths who have been arrested by three million riders who have been imported to the country have been imported by three million rupees, said the Boralesgamuwa Police said.
+
+The three arrested persons were the son of a top officer of the Department of Motor Traffic.
+
+According to the preliminary investigations into the police have been installed on two-thirds registration number.
+
+The 98537 Police Constable Inspector of Pepiliyana junction at Boralesgakanda Police OIC Chief Inspector General Inspector of Police OIC of Pepiliyana junction in paralleliyewan junctionThe motorcyclists were sacked at the left at once to see the motorcycle was not to go to the motorcycle at a motorcycle.
+
+The OIC had taken steps to bring the deputy of the youth with a telephone call by the youth with the other two keywords.
+
+Youth residents from Boralesgamuwa, Panadura and Colombo two years old
+
+The three were released on police bail and is to be produced before the court next day.
+
+◼️
+
 [Data](articles/7cf1e192.json)
+
+[Extended Data](ext_articles/7cf1e192.ext.json)
 
 ---
 
@@ -103,6 +191,8 @@ Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet moder
 ...
 
 [Data](articles/8f8931d4.json)
+
+[Extended Data](ext_articles/8f8931d4.ext.json)
 
 ---
 
@@ -646,21 +736,35 @@ This is due to this due to the Badulla Fort, the Railway Department said.
 
 ---
 
-### ත්‍රිකුණාමලය ප්‍රධාන අපනයන ආර්ථිකයක් බවට පරිවර්තනය කරනවා
+### Trincomalee transforms a major export economy
 
 *2024-06-23 08:39:05* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-ප්‍රධාන-අපනයන-ආර්ථිකයක්-බවට-පරිවර්තනය-කරනවා/11-410366) · `si`
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” රජයේ ජාතික වැඩපිළිවෙළට සමගාමීව මඩකලපුව දිස්ත්‍රික්කයේ ඉඩම් අයිතිය නොමැති පවුල් 27,595කට ඉඩම් ඔප්පු ලබාදීම සංකේතවත් කරමින් පවුල්  192ක් සඳහා ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් මඩකලපුව, තිරයිමඩු දිස්ත්‍රික්  ලේකම්  කාර්යාලයීය පරිශ්‍රයේදී පැවති උත්සවයට එක් වෙමිනි.
+At a ceremony, the President granted land deeds to 27,595 families across 14 divisions in Trincomalee, marking a shift towards a significant export economy. The event also saw the opening of a new District Secretariat building, costing Rs. 1,055 million, aimed at enhancing efficiency in the Batticaloa district. The President outlined plans for agricultural modernization, tourism development from Weugamayu to Arugambay, and educational reforms, emphasizing job creation for youth and land ownership rights for over 27,000 individuals.
 
-දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 14 ආවරණය වන පරිදි මෙම ඉඩම් ඔප්පු ප්‍රදානය සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව ඊට එක් විය.
+🟩
 
-මීට අමතරව උසස් ජාතික ඉංජිනේරු ඩිප්ලෝමා ආයතනයේ ඉංග්‍රීසි ඩිප්ලෝමධාරීන්  252 දෙනෙකුට ගුරු පත්වීම් ලබාදීම ද අද ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණි.
+The President made this observation at a ceremony at the premises of the District Secretariat for 192 families to grant land deeds to 27,595 families to provide land deeds to 27,595 families..
 
-මේ අතර රුපියල් මිලියන 1,055ක වියදමින් මඩකලපුව තිරායිමඩු ප්‍රදේශයේ ඉදිකළ නව දිස්ත්‍රික් ලේකම් කාර්යාල ගොඩනැගිල්ල අද විවෘත කෙරුණේද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතිනි.
+The deeds were provided with the 14 Divisional Secretariat Divisions in the district and the President was figuratively joined.
+
+In addition, the president was also chaired by the President today to 252 English Diploma in the English Diploma.
+
+Meanwhile, the new District Secretariat Building, which was built in Thihae, was opened today at a cost of Rs. 1,055 million. President Ranil Wickremesinghe was opened today.
+
+On September 11, 2016, the new District Secretariat Minister Vajira Abeywardena launched the construction of President Ranil Wickremesinghe.
+
+The new District Secretariat has been constructed with the objective of expanding and efficient in the Batticaloa district.
+
+The President also opened the District Secretariat and opened the District Secretariat.
+
+President Ranil Wickremesinghe added:
 
 ...
 
 [Data](articles/4d661a5d.json)
+
+[Extended Data](ext_articles/4d661a5d.ext.json)
 
 ---
 
@@ -1732,6 +1836,22 @@ The Department of Meteorology has said that strong winds are likely to blow at s
 
 ---
 
+### 36 மணி நேரம் வானிலையில் மாற்றம்
+
+*2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணி-நேரம்-வானிலையில்-மாற்றம்/175-339245) · `ta`
+
+அதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், கண்டி, நுவரெலியா மற்றும் புத்தளம் மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அறிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் எனவும் குறிப்பிட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் மணிக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/b9766065.json)
+
+---
+
 ### Mental impact on social websites
 
 *2024-06-22 17:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமூக-வலைத்தளங்களால்-மனநல-பாதிப்பு-ஏற்படும்/50-339244) · `ta`
@@ -2117,117 +2237,5 @@ Maruthankeni police are conducting further investigations into the incident. Rem
 [Data](articles/ca1b32bb.json)
 
 [Extended Data](ext_articles/ca1b32bb.ext.json)
-
----
-
-### Sri Lankan students taken to higher education in Russia
-
-*2024-06-22 15:11:53* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-උසස්-අධ්‍යාපනයට-කියා-ලාංකික-සිසුන්-රුසියාවට-ගෙනිහින්-අතරමං-කරලා/11-410358) · `si`
-
-A group of officers allegedly swindled money from Sri Lankan students planning to study in Russia. The main suspect, a 32-year-old from Wattala, was arrested at the airport after being banned from flying due to complaints from various police divisions. Investigations are ongoing, supervised by Negombo's Superintendent of Police Eric Perera and Chief Inspector Rohana Munasinghe.
-
-🟩
-
-A group of officers who took their money across Sri Lanka to carry out higher education in Russia, carrying out their money and cheated on Sri Lanka.There is. He is a 32 year old resident of the Hunupitiya area in Wattala.
-
-He was using a flight ban from the Negombo Magistrate's Court on a complaint lodged by the Negombo Special Criminal Investigation Division regarding a complaint lodged by the Negombo Special Criminal Investigation Division about a complaint to the Negombo Special Criminal Investigation Division.He was arrested at the Katunayake airport while coming.
-
-In addition to the complaint received by the Negombo Special Criminal Investigation Division, there were 17 complaints received by the Matara Police, three complaints received by the Kuluwanpitiya Police.
-
-The OIC Chief Inspector Rohana Munasinghe said that he had been informed of the complaints on Wadduwa, Ampara and Moratuwa Police.
-
-...
-
-[Data](articles/6da5632b.json)
-
-[Extended Data](ext_articles/6da5632b.ext.json)
-
----
-
-### Property tax will not burden lower-income population, State Minister assures
-
-*2024-06-22 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100027/property-tax-will-not-burden-lower-income-population-state-minister-assures) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya emphasizes that the proposed imputed rental income tax will only be implemented after the first quarter of 2025.
-
-Speaking to the media, the state minister said that 90% of the country’s population will benefit through this tax.
-
-“This is not a tax that will be implemented this year. It is expected to be introduced after the first quarter of 2025. The wealthiest segment of our society, which is about 10 percent [of the population], will be subjected to this tax. 90 percent of the population will benefit through this tax”, Siyambalapitiya claimed.
-
-He further explained that this tax will allow a reduction in the indirect taxes that the majority of the public currently pay.
-
-“Even within the wealthiest 10%, their primary asset will not be taxed. Only a small percentage of their other assets will contribute to state income. We will ensure that the tax is affordable for them and beneficial in the long run,” he noted.
-
-...
-
-[Data](articles/5f7e6152.json)
-
-[Extended Data](ext_articles/5f7e6152.ext.json)
-
----
-
-### Mother and daughter to death in bus
-
-*2024-06-22 15:02:35* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථයක්-බසයක-ගැටී-මව-හා-දියණිය-මරණයට/11-410357) · `si`
-
-A mother and her daughter were tragically killed during a pilgrimage trip from Wattegama to Anuradhapura. The incident occurred near the Kirulgama area. Their father, who was driving, is critically injured and hospitalized in Matale District General Hospital. Investigations are ongoing by the Matale Police.
-
-🟩
-
-The mother and daughter of the same family have been killed when an accused of pilgrimage from Wattegama to Anuradhapura.
-
-The mother of the same family from Wattegama to go to their accused from their accused from their accused from the Kirulgama area in Kirulgama area.17) Death and the father who was riding the Thaimmer drove and his father is receiving treatment at the ICU of the Matale District General Hospital.
-
-Matale Police are conducting further investigations.
-
-◼️
-
-[Data](articles/08963e12.json)
-
-[Extended Data](ext_articles/08963e12.ext.json)
-
----
-
-### A man who went to take a gem cmbor at work
-
-*2024-06-22 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-සෙම්බුවක්-ගන්න-ගිය-අයෙකුට-වැඩ-වරදී/11-410356) · `si`
-
-A man was arrested in Welimakana for allegedly using chemical equipment and substances for illegal activities, including sacrifices related to a child's contest prediction. The arrest occurred during an excavation at his home. Further investigations are ongoing by the Elpitiya Police.
-
-🟩
-
-The Elpitiya Divisional Corruption Unit said that the Poson Point had been arrested on suspicion, chemical equipment, chemical equipment, chemicals and sacrifices used.
-
-The suspect was arrested while excavation at a house near his home in Welimimakana, Weligamagana.
-
-The suspect has told the police that this excavation has been made to hold the sacrifices for a predictor of a child's contention by a child's center.
-
-Elpitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/459cc6aa.json)
-
-[Extended Data](ext_articles/459cc6aa.ext.json)
-
----
-
-### Around Arun Siddharth is a position of homeland
-
-*2024-06-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198022) · `si`
-
-Arun Siddharth has been named the Jaffna District Organizer, while Dilith Jayaweera, the party leader, was appointed during a press conference.
-
-🟩
-
-Available to the Jaffna District Organizer and the Supreme Council members have been appointed as the Jaffna District Organizer and the Supreme Boards.
-
-The party leader Dilith Jayaweera was appointed in a press conference held today.
-
-◼️
-
-[Data](articles/70094cc1.json)
-
-[Extended Data](ext_articles/70094cc1.ext.json)
 
 ---

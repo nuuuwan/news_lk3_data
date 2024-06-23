@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 02:34:41**
+As of **2024-06-24 02:51:44**
 
 ## Newspaper Stats
 
-*Scraped **31,765** Articles*
+*Scraped **31,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,830
-dailyftlk | 1,933
+dailyftlk | 1,938
 adalk | 2,784
 adaderanalk | 3,608
 tamilmirrorlk | 3,735
@@ -26,9 +26,103 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,765 (100.0%) of 31,765 articles have been extended.
+31,765 (100.0%) of 31,770 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-24 (Monday)
+
+### Lion Brewery’s global success contributes to Sri Lanka’s foreign exchange gains
+
+*2024-06-24 02:36:00* · [`dailyftlk`](https://www.ft.lk/business/Lion-Brewery-s-global-success-contributes-to-Sri-Lanka-s-foreign-exchange-gains/34-763377) · `en`
+
+Lion Brewery (Ceylon) PLC, in its latest Annual Report, has reported achieving a significant 20% growth in its international business and a substantial 28% revenue growth in USD year-on-year.
+
+This achievement is particularly noteworthy given the challenging global economic conditions. The international business has not only been a significant driver of revenue for the Company but also a notable source of foreign exchange for Sri Lanka. This success was largely attributed to the restructuring of the international business strategy, focusing on key growth regions such as Africa, South Asia and the Middle East, while exiting less profitable regions.
+
+The Brewery’s decision to streamline its market presence from 35 to 17 countries has allowed for concentrated investment and effort in markets with the highest growth potential.
+
+...
+
+[Data](articles/40198eeb.json)
+
+---
+
+### Kawshi Amarasinghe appointed to Singer Sri Lanka Board
+
+*2024-06-24 02:35:26* · [`dailyftlk`](https://www.ft.lk/business/Kawshi-Amarasinghe-appointed-to-Singer-Sri-Lanka-Board/34-763376) · `en`
+
+Singer (Sri Lanka) PLC has announced the appointment of Kawshi Amarasinghe as an Independent Non-Executive Director to the Board.
+
+She fills the vacancy created by the resignation of Dumith Fernando who joined the Singer Board in October 2017.
+
+Kawshi is an Executive Director at Vallibel One PLC holding the position of Group Director of International Business Development and CSR. She is a Non-Executive Director at Fortress Resorts PLC, Greener Water Ltd. and Pan Asia Banking Corporation PLC. She is also an Independent Non-Executive Director at Hayleys Leisure PLC.
+
+Kwashi also serves as the Chief Executive Officer of the Dhammika and Priscilla Perera Foundation in which she is dedicated to the Foundation’s goal of democratising access to quality education and healthcare services through DP Education.
+
+...
+
+[Data](articles/aa141e0c.json)
+
+---
+
+### Sri Lanka strikes debt relief deal with bond holders ending bankruptcy: Ravi K
+
+*2024-06-24 02:33:04* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-strikes-debt-relief-deal-with-bond-holders-ending-bankruptcy-Ravi-K/34-763375) · `en`
+
+Former Finance Minister Ravi Karunanayake yesterday confirmed that history has been made with the end of bankruptcy in Sri Lanka consequent to striking a debt restructure deal with external creditors and sovereign bond holders this week.
+
+“The finalisation of the Memorandum of Understanding with the Official Creditor Committee and final agreements with the Export Import Bank of China along with Ad Hoc Private Bondholder’s group external on debt treatments would be expected on 26 Wednesday.
+
+Sri Lanka will announce the freedom from bankruptcy status on 27 Thursday after declaration of a pre-emptive default Aon 12 April 2022 suspending external debt repayment as it had $ 20 million as gross official reserves.
+
+The restoration of fiscal sustainability, sustenance in revenue mobilisation efforts may have been prompted by external creditors finalising the debt restructuring in accordance with the IMF supported program targets and shielding social and capital spending,” Karunanayake said.
+
+...
+
+[Data](articles/7d88917d.json)
+
+---
+
+### Sandbox secures 2024 Global Recognition Award for pioneering performance consulting
+
+*2024-06-24 02:30:19* · [`dailyftlk`](https://www.ft.lk/business/Sandbox-secures-2024-Global-Recognition-Award-for-pioneering-performance-consulting/34-763374) · `en`
+
+Sandbox Consultancy Services Ltd., a leading Sri Lankan performance consulting firm, has been honoured with the prestigious 2024 Global Recognition Award for performance consulting.
+
+This accolade highlights Sandbox’s innovative approach and excellence in delivering transformative solutions to clients worldwide.
+
+Featured in Business Insider, this recognition underscores Sandbox’s commitment to driving performance improvement and fostering success through tailored consulting services. The award cements Sandbox’s position as a pioneer in the performance consulting industry.
+
+“We are thrilled to receive this global recognition,” said Sandbox Consultancy Services Managing Director Angelo De Silva. “This award is a testament to our team’s dedication and the trust our clients place in us.”
+
+This prestigious accolade reflects the Company’s steadfast dedication to driving transformative change and setting new benchmarks for excellence and innovation in the industry.
+
+...
+
+[Data](articles/595b4913.json)
+
+---
+
+### Semasinghe urges Opposition to ditch unrealistic election promises
+
+*2024-06-24 02:29:06* · [`dailyftlk`](https://www.ft.lk/business/Semasinghe-urges-Opposition-to-ditch-unrealistic-election-promises/34-763373) · `en`
+
+State Minister of Finance Shehan Semasinghe called on the Opposition to abandon impractical election promises, asserting the need for responsible discourse focused on the country’s future rather than personal political gains.
+
+Speaking yesterday, he highlighted the potential risks of reversing crucial economic reforms at a time when Sri Lanka is recovering through challenging yet necessary measures.
+
+“We are now on the right track, implementing very difficult economic reforms and this is a time to think about the future of the country rather than personal political goals. The reversal of these reforms could lead to a significant uncertainty about the country’s future,” he warned.
+
+Semasinghe asserted that Sri Lanka is progressing through globally recognised methods, adhering to positive and realistic economic policies.
+
+“I urge all political actors to prioritise the country’s long-term stability and prosperity over short-term political ambitions,” he added.
+
+...
+
+[Data](articles/5e851eab.json)
+
+---
 
 ### 2024-06-23 (Sunday)
 
@@ -2285,133 +2379,5 @@ As a result of this, the rail control room said that the railway traffic has bee
 [Data](articles/8bae4354.json)
 
 [Extended Data](ext_articles/8bae4354.ext.json)
-
----
-
-### Israeli soldiers who tied the injured Palestinians to the front of the jeep - shocking video
-
-*2024-06-23 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186741) · `ta`
-
-A viral video shows Israeli soldiers tying injured Palestinians to their jeep during an operation in Jenin. The Israeli military confirmed this incident, stating the suspects were injured during a search operation. Despite requests for medical help, the soldiers reportedly moved one of the injured under the jeep's bonnet. The man, identified as Mujacket Ajmi, was not affiliated with any organization.
-
-🟩
-
-The picture of Israeli soldiers who were injured during the operation of Israeli soldiers in Jenin, showing that Israeli soldiers were hugging them.
-
-The Israeli security forces have confirmed the footage recorded on social media.
-
-The Israeli military said that the suspects who were injured during the search operation were tied to their vehicle.
-
-When we asked us to bring the ambulance, the Israeli soldiers took him under the jeep's bonat, the family said.
-
-The Israeli soldiers brought the Mujacket Ajmi, the public has informed Royter that he has not joined any organization.
-
-◼️
-
-[Data](articles/b59d1d29.json)
-
-[Extended Data](ext_articles/b59d1d29.ext.json)
-
----
-
-### Strong wind and sea turbulence
-
-*2024-06-23 10:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-மற்றும்-கடல்-கொந்தளிப்பு/175-339266) · `ta`
-
-The Department of Meteorology warns of strong winds and sea turbulence from Trincomalee to Kankesanthurai, Puttalam, Chilaw, Hambantota to Pottuvil, and occasional turbulence from Chilaw to Colombo and Galle. Wind speeds may reach 60-65 km/h and 50-55 km/h respectively. The warning is effective from 7:00 am today until 7:00 am tomorrow, advising caution for sailors and the naval community.
-
-🟩
-
-The Department of Meteorology has issued a warning to the people regarding strong winds and sea turbulence.
-
-The warning announcement, issued today (23) at 7:00 am, will be valid tomorrow (24) at 7:00 am, the department said.
-
-The Department of Meteorology has announced that the wind speeds can be increased at speeds of 60-65 km / h from Trincomalee to Kankesanthurai and Puttalam from Chilaw and Chilaw from Hambantota to Pottuvil.
-
-In addition, the speed of the wind from Chilaw to Colombo and Hambantota via Hambantota can be increased by up to 50-55 km per hour from time to time.
-
-In addition, the Department of Meteorology has said that the seas from Trincomalee to Kankesanthurai and Puttalam from Chilaw and Hambantota to Pottuvil will occasionally be very turbulent.
-
-The seas from Chilaw to Colombo and Galle are occasionally turbulent.
-
-It is reported that the sea waves can arise from Kalpitiya to Colombo, Galle and Hambantota via Pottuvil.
-
-...
-
-[Data](articles/28a366ad.json)
-
-[Extended Data](ext_articles/28a366ad.ext.json)
-
----
-
-### The deadly hit by the brother
-
-*2024-06-23 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198049) · `si`
-
-In the Katuwana Police Division, a 41-year-old man was fatally stabbed by his brother-in-law. The incident occurred yesterday (22), and the suspect was taken into custody.
-
-🟩
-
-A person was attacked with a sharp object, with a sharp object.
-
-The murder had been carried out in the Katuwana Police Division yesterday (22).
-
-The deceased has been identified as a 41 year old resident of Katuwana, Kataana.
-
-Investigations have revealed that the assault was attacked by the brother-in-law with a sharp weapon by the deceased and his brother-in-law.
-
-The suspect was assaulted to Katuwana Police yesterday (22).
-
-◼️
-
-[Data](articles/d2b49caa.json)
-
-[Extended Data](ext_articles/d2b49caa.ext.json)
-
----
-
-### Latest Report in Afghan - Australia match
-
-*2024-06-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198048) · `si`
-
-In the Afghan-Australia T20 match, Afghanistan won by 21 runs after scoring 148 runs in 20 overs, losing 6 wickets. This resulted in a total of 275 runs, marking the lowest team score in a T20 international match.
-
-🟩
-
-Afghanistan today (23) passed Afghanistan and Australia by 21 runs.
-
-Batting first, the Afghan group scored 148 runs for the loss of 6 wickets for the loss of 6 wickets.
-
-Accordingly, the total number of runs in this match was 275.
-
-It was reported as the lowest marks collected by both groups in a T20 of countries.
-
-◼️
-
-[Data](articles/cc84cba1.json)
-
-[Extended Data](ext_articles/cc84cba1.ext.json)
-
----
-
-### It is our duty to protect the forests as maintaining the tradition of the pilgrimage- Dr. NKS. Tiruchelvam
-
-*2024-06-23 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186740) · `ta`
-
-Dr. NKS Tiruchelvam emphasizes the importance of preserving forests during pilgrimages, highlighting the moral duty to safeguard wildlife and flora vital to the tradition of Path Yatra. He cautions against environmental damage, including littering and deforestation, urging pilgrims to respect the ecosystem. The announcement of the Ukkanda Wildfire's opening date change impacts the Adivale festival and the pilgrimage route, affecting both the environment and pilgrims' experiences. Dr. Tiruchelvam stresses the need for careful planning and adherence to traditional practices to maintain the integrity of the pilgrimage while minimizing ecological impact.
-
-🟩
-
-"It is our moral duty to preserve the tens of thousands of creatures and herbs that we use for the pilgrimage, as it maintains the tradition of Path Yatra.. This forest we travel in fact does not belong to us. It belongs to the beasts, birds and other creatures that depend on this. Therefore, we must use this forest so that we have no harm to those creatures ... "Dr. NKS, a historian and coordinator of the Sri Lanka Pilgrimage Board, appeals to pilgrims traveling through the forest from Kadirgama to Kadirgamam.. Tiruchelvam.
-
-It was first announced that the Ukkanda Wildfire would be opened on the 30th of this month, and it was announced that the date would be changed and opened on July 2.
-
-In this regard, the first day of the Adivale festival, which will be held on the 6th of July at the Kadirgamam Murugan Temple, the pilgrims' walk through the forest, the days of reaching the temple, the days of reaching the temple.
-
-...
-
-[Data](articles/87fe4ada.json)
-
-[Extended Data](ext_articles/87fe4ada.ext.json)
 
 ---

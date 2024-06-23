@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 03:04:41**
+As of **2024-06-24 03:19:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,770 (100.0%) of 31,774 articles have been extended.
+31,774 (100.0%) of 31,774 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The TGTE argued that it should not be proscribed in the UK, emphasising its comm
 
 [Data](articles/608d75f1.json)
 
+[Extended Data](ext_articles/608d75f1.ext.json)
+
 ---
 
 ### FM Ali Sabry commends UK’s continued proscription of LTTE
@@ -60,6 +62,8 @@ The UK Proscribed Organisations Appeals Commission, an independent court headed 
 
 [Data](articles/8c07aa4e.json)
 
+[Extended Data](ext_articles/8c07aa4e.ext.json)
+
 ---
 
 ### Lawyers’ Collective urges President to cease intimidating and undermining independence of judiciary
@@ -71,6 +75,8 @@ On 18 June President Ranil Wickremesinghe, speaking in Parliament, criticising t
 ...
 
 [Data](articles/9923e7df.json)
+
+[Extended Data](ext_articles/9923e7df.ext.json)
 
 ---
 
@@ -95,6 +101,8 @@ The Committee on Public Enterprises (CoPE) exposed a massive fraud by the Ceylon
 ...
 
 [Data](articles/f34e4824.json)
+
+[Extended Data](ext_articles/f34e4824.ext.json)
 
 ---
 

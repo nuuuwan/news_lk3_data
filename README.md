@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 01:53:10**
+As of **2024-06-24 02:04:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,763 (100.0%) of 31,765 articles have been extended.
+31,765 (100.0%) of 31,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -163,6 +163,8 @@ A necessary condition for a country to have an industrial revolution is the crea
 ...
 
 [Data](articles/e86ad097.json)
+
+[Extended Data](ext_articles/e86ad097.ext.json)
 
 ---
 
@@ -651,6 +653,8 @@ It contains 11 essays, some of which have been published earlier, on the present
 ...
 
 [Data](articles/95e414ad.json)
+
+[Extended Data](ext_articles/95e414ad.ext.json)
 
 ---
 

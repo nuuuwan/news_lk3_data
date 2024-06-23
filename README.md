@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 22:05:55**
+As of **2024-06-23 22:19:23**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,748 (100.0%) of 31,751 articles have been extended.
+31,751 (100.0%) of 31,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ජෝර්ඩන් ගෙනුත් හැට්ට්‍රික් එකක්
+### One hattric of Jorden
 
 *2024-06-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198073) · `si`
 
-එංගලන්තය සහ අමෙරිකාව අතර පැවැත්වෙන විස්සයි විස්ස ලෝක කුසලාන සුපිරි අට දෙනාගේ වටයේ තරගයේදී පිට පිට පන්දු තුනකදී කඩුලු ත්‍රිත්වයක් දවා ගැනීමට එංගලන්ත ක්‍රීඩක ක්‍රිස් ජෝර්ඩන් සමත්විය.
+Chris Jordan achieved a hat-trick in the 19th over of the American innings during an England vs. America match, securing three wickets. This remarkable feat contributed to England's victory as the American team was bowled out for 115 runs after being invited to bat by the England captain.
 
-ඔහු අමෙරිකානු ඉනිමේ 19වන ඕවර යේ 3, 4 සහ 5වන පන්දුවලදී එම කඩුලු ත්‍රිත්වය ලබාගත්තේය.
+🟩
 
-මෙම තරගයේ එංගලන්ත නායකයා ගේ ආරාධනය අනූව පිටියට පිවිසි අමෙරිකානු කණ්ඩායම සිය ඉනිම සඳහා රැස්කළේ ලකුණු 115ක් පමණි.
+England and England players Chris Jorden to take a triple in three-bowled outbreak between England and America.
+
+He obtained the three wickets in the 19th Over the 19th overs of the American innings.
+
+The American team scored 115 runs for the invitation of the England captain of England.
 
 ◼️
 
 [Data](articles/7ca5e202.json)
+
+[Extended Data](ext_articles/7ca5e202.ext.json)
 
 ---
 
@@ -70,19 +76,25 @@ The injured have been admitted to the Kattanagudi Resource Hospital and further 
 
 ---
 
-### මාස පහකට පමණ පසු ලොරෙන්සෝ පුතා දිවයිනට
+### About five months later, lorenzo son to arrive
 
 *2024-06-23 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198072) · `si`
 
-මාස පහකට පමණ පසු ලොරෙන්සෝ  පුතා ධීවර යාත්‍රාව ධීවරයන් හය දෙනා සමග සමග දික්ඕවිට ධීවර වරායෙන් ශ්‍රී ලංකාවට පැමිණියේය.
+Five months after its departure, the Lorenzo Son fishing vessel docked in Sri Lanka with six crew members. It had been attacked by pirates near the Fisheries Hall but was rescued by the Seychelles' Coast Guard, also freeing the six fishermen onboard.
 
-පසුගිය ජනවාරි 17 වනදා එම ධීවර වරායෙන් අරාබි මුහුද බලා යාත්‍රා කළ මෙම යාත්‍රාව  මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට හසුවිය.
+🟩
 
-පසුව සීෂෙල්ස් රාජ්‍යයේ වෙරළාරක්ෂක බළකාය විසින් ධීවරයන් හය දෙනා සමඟ මේ යාත්‍රා මුදා ගැණුනි.
+About five months later, the lorenso son fishing vessel arrived in Sri Lanka with six fishermen with six fishermen.
+
+The vessel sailed by the Fisheries Hall on January 17, this vessel was covered with pirates.
+
+Later, the Seychelles' Coast Guard were released with six fishermen with six fishermen.
 
 ◼️
 
 [Data](articles/a52defee.json)
+
+[Extended Data](ext_articles/a52defee.ext.json)
 
 ---
 
@@ -350,19 +362,27 @@ According to the National Secretary Ravi Karunanayake, the people of this countr
 
 ---
 
-### ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනපතිට
+### President visits Ceylon Workers Congress
 
 *2024-06-23 18:39:29* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය-ජනපතිට/11-410386) · `si`
 
-වතු ජනතාව වෙනුවෙන් අපි රජයෙන් ඉල්ලා ඇති කරුණු තුනක් සඳහා ජනාධිපතිවරයා එකඟතාවය පළ කොට ඒවා ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇති නිසා මෙවර ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට ලංකා කම්කරු කොංග්‍රසය විදිහට වතු ජනතාවගේ සහාය ලබාදීමට තීරණය කර ඇති බව ජලසම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍යය ජීවන් තොණ්ඩමන් මහතා ගම්පොළ පුපුරැස්ස ලෙවලන් වතු යායේදී ප්‍රකාශ කළේය.
+President visits Ceylon Workers Congress. Minister Jeewan Thondaman addresses government support for the Ceylon Workers and Estate Commission, focusing on salary increases, housing, and land rights. He highlights the need to complete stalled housing projects and improve plantation infrastructure, emphasizing transparency and accountability.
 
-අධිකරණ හා බන්ධනාගාර රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතාගේ ඉල්ලීමකට අනුව පුපුරැස්ස ලෙවලන් වතුයායේ නිවාස යෝජනා ක්‍රමයක් නිරීක්ෂණය කිරීම හා අංකෙලි පිටිය ජල යෝජනාව සංවර්ධනය කිරීම වෙනුවෙන් පැවති උත්සවයක් අමතා අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-නිවාස පනහකින් සමන්විත මෙම වතු නිවාස යෝජනා ක්‍රමයේ ඉදිකිරීම් මෙයට වසර පහකට පෙර නැවතී ඇති අතර, එය නිරීක්ෂණය කිරීමට හා මෙයට වසර අටකට පෙර නායයෑමේ අවදානමකින් අවතැන්ව ඇති තවත් පවුල් තිහකට නිවාස ඉදිකර දීම වෙනුවෙන් සොයා බැලීමට මෙම අමාත්‍යවරුන් පැමිණ තිබුණි.
+Minister Jeewan Thondaman, Minister of Water Supply and Estate Infrastructure has been reported to provide the assistance of the government as the Ceylon Workers and Estate Commission regarding three issues asking for the government.Stated in the plantation.
+
+The Minister made this observation to monitor a function to monitor a housing scheme for the expulgency of Judicial and Prison Hon.
+
+The construction of these estate housing scheme has been staying five years ago, to visit the risk of landslide at least eight years before the landslide risk.
+
+"We urged the government to increase the salaries of the people and providing houses and the right of land. Accordingly, the President has already begun to provide land deeds to increase the needs of the estate people and build houses.
 
 ...
 
 [Data](articles/9abc119b.json)
+
+[Extended Data](ext_articles/9abc119b.ext.json)
 
 ---
 

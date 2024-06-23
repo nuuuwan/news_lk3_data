@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 14:34:47**
+As of **2024-06-23 14:53:29**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 5,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,705 (100.0%) of 31,706 articles have been extended.
+31,706 (100.0%) of 31,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### විභාගය අසමත් වූ සිසුවාගේ ක්ෂණික කෝපය
+### Instant rage of student who failed the exam
 
 *2024-06-23 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198058) · `si`
 
-විභාගය අසමත් සිසුවෙක් විසින් සිය මව සහ සහෝදරයා ව ඝාතනය කිරීමේ පුවතක් ඉන්දියාවෙන් වාර්තා විය.
+In Thivattioll, Tamil Nadu, a 20-year-old undergraduate student allegedly killed his mother, 45, and brother, 15, due to exam failure. The double murder occurred on the 20th, and the suspect confessed after a phone investigation. He claimed to have killed them while asleep, intending to spare his brother from becoming an orphan.
 
-තමිල්නාඩු ප්‍රාන්තයේ තිරුවොට්ටියූර් නම් ප්‍රදේශයෙන් මෙම ද්විත්ව ඝාතනය වාර්තා විය.
+🟩
 
-මෙම ඝාතන පසුගිය 20 වනදා සිදුකර ඇති අතර සැකකරු වන 20 හැවිරිදි නිටේෂ් නම් උපාධි අපේක්ෂක සිසුවා දින දෙකකට පසුව තම නිවසට යන ලෙස පුංචි අම්මාට යැවූ කෙටි පණිවුඩයකින් අනතුරුව ඊයේ (22) එම ඝාතන ගැන තොරතුරු හෙළිවී තිබුණි.
+A student failed by a student killed his mother and brother.
 
-ජංගම දුරකථනය ඔස්සේ සිදුකළ පරීක්ෂණයකින් අනතුරුව නිටේෂ් ව අත්අඩංගුවට ගැනීමට පොලීසිය සමත් විය.
+The double murder was reported from Thivattioll, Thiwattiro, Tamil Nadu.
 
-එහිදී ඔහු පවසා ඇත්තේ තමා පසුගිය විභාගයේදී අඩු ලකුණු ලබා ගැනීම සම්බන්ධයෙන් මව නිතරම තමාට බැනවදින බවත් ඊට ඇතිවූ කෝපය හේතුවෙන් තමා ඔවුන් දෙදෙනාව නිදාගෙන සිටියදී ඝාතනය කළ බවයි.
+The killings were carried out on the 20th and the suspect, the 20-year-old undergraduate student, was revealed about the murders yesterday (22) after a SMS sent to her home two days.
 
-මව 45 හැවිරිදි වියේ පසුවූ අතර 10 වැනි ශ්‍රේණියේ ඉගෙනීම ලබමින් සිටි සහෝදරයා 15 හැවිරිදි වියේ පසුවිය.
+Nighty was arrested after a mobile phone investigation.
 
-තමා සිය සහෝදරයාව ඝාතනය කළේ ඔහු අනාථ වීම වැළැක්වීමට බව සැකකරු පවසා තිබුණි.
+He has always said that he was often murdered when he was sleeping and killed them while he was sleeping.
+
+The mother was a 45-year-old brother, who was 15-year-old.
+
+The suspect had said that he had killed his brother to prevent him from orphanity.
 
 ◼️
 
 [Data](articles/5dcd2f31.json)
+
+[Extended Data](ext_articles/5dcd2f31.ext.json)
 
 ---
 
@@ -1701,6 +1707,8 @@ Save my name, email, and website in this browser for the next time I comment.
 Vcare Skin Clinic and its Founder and Chief Executive Officer (CEO), Dr. Pramila Ranasinghe received two awards at the Business World International Awards 2023. Dr. Ranasinghe was recognised as the Best Professional of the Year (Medium-Gold) in the Healthcare and Related Services category. In addition, Vcare Skin Clinic won the award for Best Skincare Clinic of the Year (Medium-Platinum). Vcare Skin Clinic was also awarded as the Best Skin Care Clinic Brand of the Year at Asia Miracle Awards 2024 organised by the MUGP International Organisation.
 
 The Business World International Awards ceremony, organised by the Business World International Organisation (BWIO), was recently held at the Taj Samudra Hotel in Colombo. The event was graced by the presence of Speaker of Parliament Mahinda Yapa Abeywardena, along with numerous other distinguished guests, including politicians, foreign diplomats, and senior government officials.
+
+HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
 
 ...
 

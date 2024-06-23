@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 15:34:36**
+As of **2024-06-23 15:53:29**
 
 ## Newspaper Stats
 
-*Scraped **31,713** Articles*
+*Scraped **31,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,775
-adaderanalk | 3,600
-tamilmirrorlk | 3,729
+adaderanalk | 3,601
+tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
 adaderanasinhalalk | 5,186
@@ -26,21 +26,65 @@ adaderanasinhalalk | 5,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,710 (100.0%) of 31,713 articles have been extended.
+31,713 (100.0%) of 31,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### හෙට පාසල් පැවැත්වීම ගැන නිවේදනයක්
+### Notice issued on functioning of schools tomorrow
+
+*2024-06-23 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100047/notice-issued-on-functioning-of-schools-tomorrow-) · `en`
+
+The Ministry of Education states that schools across the island will function as usual tomorrow (June 24).
+
+This was communicated in a statement issued by the Ministry of Education this afternoon (23).
+
+However, the non-academic staff of the government schools have announced that they will launch a trade union action by reporting sick on Monday (24) and Tuesday (25), demanding a national policy for the non-academic service in the education sector.
+
+Meanwhile, the university non-academic staff, who have been engaged in a strike action for over 50 days, state that the necessary written agreements to resolve their problems at the minimum level have been handed over to the State Minister of Higher Education.
+
+The University Trade Union Joint Committee (UTUJC) stated that their strike action could be concluded tomorrow if the government provides a favourable response regarding the matter.
+
+◼️
+
+[Data](articles/72adc1c0.json)
+
+---
+
+### Announcement tomorrow
 
 *2024-06-23 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198060) · `si`
 
-හෙට (24) පාසල් කටයුතු සාමාන්‍ය පරිදි සිදු කෙරෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+School activities scheduled for tomorrow (24) as per Ministry of Education announcement.
+
+🟩
+
+The Ministry of Education has issued a statement that school activities will be held tomorrow (24).
 
 ◼️
 
 [Data](articles/e2e06132.json)
+
+[Extended Data](ext_articles/e2e06132.ext.json)
+
+---
+
+### வெளிநாட்டு மாணவர்களுக்கு   கிரீன் கார்டு
+
+*2024-06-23 15:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளிநாட்டு-மாணவர்களுக்கு-கிரீன்-கார்டு/50-339288) · `ta`
+
+அமெரிக்க ஜனாதிபதியாக இருந்த டொனால்ட் டிரம்ப் குடியுரிமை விவகாரத்தில் மிகவும் கண்டிப்பானவர். வெளிநாட்டவர்களுக்கு விசா வழங்கும் விஷயத்தில் மற்ற தலைவர்களை எதிர்த்தார்.
+
+புலம்பெயர்ந்த தொழிலாளர்கள் தங்கள் நாட்டிற்கு திரும்பிச் செல்லக்கூடிய சூழ்நிலையை அவர் எதிர்கொண்டார். அமெரிக்கா, அமெரிக்கர்களுக்கானது என்ற கொள்கை கொண்டவர்.
+
+தற்போது மீண்டும் குடியரசு கட்சி சார்பில் ஜனாதிபதி பதவிக்கு போட்டியிடுகிறார். ஜனாதிபதி தேர்தல் நவம்பர் மாதம் நடைபெறவுள்ளது. இந்த நிலையில், குடியுரிமை குறித்த தனது முந்தைய உரையில் இருந்து அவர் பின்வாங்கியுள்ளார்.
+
+போட்காஸ்ட் ஒன்றில் பேசிய டொனால்ட் டிரம்ப், இங்குள்ள கல்லூரிகளில் பட்டம் பெறும் வெளிநாட்டவர்களுக்கு கிரீன் கார்டு வழங்கலாம் என்று கூறினார். "நீங்கள் கல்லூரியில் பட்டம் பெற்றால், உங்கள் படிப்பின் ஒரு பகுதியாக தானாகவே கிரீன் கார்டு கிடைக்கும் என்று நான் நினைக்கிறேன்.
+
+...
+
+[Data](articles/52408f61.json)
 
 ---
 
@@ -97,6 +141,8 @@ These remarks were made by President Ranil Wickremesinghe during his attendance 
 ...
 
 [Data](articles/33b3aa9c.json)
+
+[Extended Data](ext_articles/33b3aa9c.ext.json)
 
 ---
 
@@ -790,21 +836,29 @@ Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort re
 
 ---
 
-### පන්නිපිටියේදි යකා නැටූ හිනිඳුම සැරයන්ගේ වැඩ තහනම්
+### Dannated dance dance dance threats banned
 
 *2024-06-23 11:26:54* · [`adalk`](https://www.ada.lk/breaking_news/පන්නිපිටියේදි-යකා-නැටූ-හිනිඳුම-සැරයන්ගේ-වැඩ-තහනම්/11-410374) · `si`
 
-මහරගම  පන්නිපිටිය ප්‍රදේශයේදී  කලහකාරි ලෙස හැසිරි මහරගම පොලිසියේ  නිලධාරීන්ගේ රාජකාරියට ද බාධා කළ හිනිදුම පොලිස් සැරයන් වරයා ගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය කියයි
+Hiniduma Police Sergeant's duties have been transferred to Maharagama Police due to threats. A suspect was arrested and sent to Government Analyst offices for investigation. The suspect will remain in custody until the next court date. The Galle District Superintendent has been suspended over the incident.
 
-මහරගම පන්නිපිටිය  ප්‍රදේශයේ පුද්ගලයකු බීමත්ව කලාකාරී ලෙස හැසිරෙන බවට 119 පොලිස් හදිසි ඇමතුම් මධ්‍යස්ථානයෙන් ලද පණිවිඩයක් අනුව මහරගම පොලිස් ස්ථානයේ රාත්‍රී ජංගම සංචාරයේ යෙදී සිටි කණ්ඩායමක් එම ස්ථානයට ගොස් සැකකරු අත්අඩංගුවට ගැනීමට ගැනීමට කටයුතු  කර තිබූ අතර එම අවස්ථාවේදී සැකකරු පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කර ආවේගශීලීව හැසිරී තිබූ බව පොලිසිය කියයි
+🟩
 
-පසුව සැකකරු පොලිසියට රැගෙන ඒමෙන් අනතුරුව අනතුරුව සිදු කළ විමර්ශනවලදී ඔහු හිනිදුම පොලිසියට අනුයුක්ත පොලිස් සැරයන් වරයෙකු බවට අනාවරණය වී ඇති අතර ඉකුත් 20 වෙනිදින  සැරයන්වරයා  රජයේ රස පරීක්ෂක කාර්යාල වෙත භාණ්ඩ භාරදීමට සහ දුරකථන ඇමතුම් විස්තර ලබා ගැනීමේ රාජකාරී කටයුතු සඳහා ස්ථානයෙන් පිටව ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණි
+Police Headquarters says that the duty of the Hiniduma Police Sergeant has banned the duties of the Maharagama Police, Maharagama Police, Maharagama.
 
-සැකකරු නුගේගොඩ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන මස 3 වෙනිදින  දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇත
+According to a Member of the Police Emergency Call Center, a group from the Police Emergency Call Center, a group from the Police Emergency Call Center, had gone to the police and to arrest the suspect.Says
 
-...
+Police investigations revealed that the suspect was taken to the police and exported the work to the Government Analyst offices and obtaining the duties to the Government Analyst Offices.There was
+
+The suspect was produced before the Nugegoda Magistrate's Court and remanded until the 3rd of next month.
+
+The Galle District Superintendent of Galle District has been suspended due to the suspect's misconduct
+
+◼️
 
 [Data](articles/b587e01e.json)
+
+[Extended Data](ext_articles/b587e01e.ext.json)
 
 ---
 
@@ -2331,55 +2385,5 @@ The Aloka Pooja will also be held today (22) and tomorrow.
 [Data](articles/a6096dcc.json)
 
 [Extended Data](ext_articles/a6096dcc.ext.json)
-
----
-
-### Borangladesh paid backs - Indian debt pays
-
-*2024-06-22 18:39:05* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශයෙන්-ගත්-ණය-ගෙවා-දැම්මා----ඉන්දීය-ණයත්-ගෙවනවා/11-410363) · `si`
-
-Sri Lanka, under President Ranil Wickremesinghe, aims to strengthen its partnership with India, focusing on energy and development projects. They've repaid part of their debt to India and are discussing further financial matters with officials from both countries. The partnership includes joint ventures in renewable energy, infrastructure development, and economic reforms to boost foreign investment and exports.
-
-🟩
-
-President Ranil Wickremesinghe said that he expects to proceed with India in achieving development goals in Sri Lanka.
-
-The President said that special attention to the partnership between the two countries in relation to the energy sector, the President said.
-
-President Ranil Wickremesinghe made this statement addressing the 31st Indian partner in the ICT Ratnapura Hotel on the 20th.
-
-The meeting of the 31st Indian partners in Colombo to June 22 has been organized by KPMG and KPMG in Sri Lanka.
-
-More than 600 Indian partners were assisted by the two countries and their families participating with the religious development projects between the two countries to strengthen the Indo-Lanka bilateral ties.
-
-The CEO of KPMG India presented a memorial gift to President Ranil Wickremesinghe to the President Ranil Wickremesinghe.
-
-Addressing the House, President Ranil Wickremesinghe further added:
-
-...
-
-[Data](articles/1a6ac786.json)
-
-[Extended Data](ext_articles/1a6ac786.ext.json)
-
----
-
-### Pillayan to also back Ranil at upcoming presidential poll
-
-*2024-06-22 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100031/pillayan-to-also-back-ranil-at-upcoming-presidential-poll) · `en`
-
-Leader of the Thamil Makkal Viduthalaip Puligal (TMVP) State Minister Sivanesathurai Chandrakanthan alias ‘Pillayan’ has stated that both he and his party will support President Ranil Wickremesinghe during the upcoming Presidential Election.
-
-President Wickremesinghe has held a discussion with Pillayan and his party members this evening (22) at their party’s headquarters in the Batticaloa area.
-
-During the meeting, the former LTTE paramilitary leader turned politician has assured that he and his party will support the incumbent Head of the State at the upcoming Presidential Election.
-
-Meanwhile on Wednesday (19), the leader of the Tamil United Freedom Front (TUFF), former MP Vinayagamoorthy Muralitharan alias ‘Karuna Amman’, had also confirmed that he and his party would support President Wickremesinghe at the presidential poll.
-
-...
-
-[Data](articles/d4ca1b42.json)
-
-[Extended Data](ext_articles/d4ca1b42.ext.json)
 
 ---

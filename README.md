@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 17:34:50**
+As of **2024-06-23 17:55:15**
 
 ## Newspaper Stats
 
-*Scraped **31,724** Articles*
+*Scraped **31,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,75 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,779
-adaderanalk | 3,602
+adaderanalk | 3,603
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,190
+adaderanasinhalalk | 5,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,721 (100.0%) of 31,724 articles have been extended.
+31,724 (100.0%) of 31,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ගාසා ළමා අරමුදලට කාත්තන්කුඩියෙන් රුපියල් කෝටියක්
+### Sri Lanka maintains a steadfast position on Gaza issue, says President Ranil
+
+*2024-06-23 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100049/sri-lanka-maintains-a-steadfast-position-on-gaza-issue-says-president-ranil) · `en`
+
+President Ranil Wickremesinghe reiterated Sri Lanka’s unwavering stance on the conflict in the Gaza Strip, emphasizing that Sri Lanka remains steadfast in supporting the establishment of the Palestinian state within five years.
+
+The President made these remarks during his participation in a special service held today (23) at the New Kathankudy Grand Jummah Mosque for the affected people of Gaza. The service was conducted by Maulavi Harith.
+
+In a significant display of solidarity, the New Kathankudy Grand Jummah Mosque donated ten million seven hundred and sixty-nine thousand four hundred and seventeen rupees (Rs. 10,769,417) to the “Children of Gaza” Fund, established under the President’s directives to support children affected by the conflicts in Gaza. Trustees of the mosque presented the donation cheque to the President during the ceremony.
+
+...
+
+[Data](articles/07daaf19.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනය යථා තත්ත්වයට
+
+*2024-06-23 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198065) · `si`
+
+අද (23) උදෑසන ඉඟුරු ඔය ගසක් කඩා වැටීම හේතුවෙන් බාධා එල්ල වී තිබූ උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය යථා තත්ත්වයට පත් කර තිබේ.සහ ගලබොඩ දුම්රිය ස්ථාන අතර දී දුම්රිය මාර්ගයට විශාල ගසක් කඩා වැටීමෙන් දුම්රිය ධාවනය බාධා එල්ල වී තිබුණි.
+
+මේ හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනය සීමා කිරීමටත් දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+
+කෙසේවෙතත් පැය 09ක පමණ කාලයකට පසුව පස්වරු 3ට පමණ ගස කපා ඉවත්කර දුම්රිය මාර්ගය යථා තත්ත්වයට පත් කිරීමට කටයුතු කර ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/06ec4ee2.json)
+
+---
+
+### Carthkaduwa a million
 
 *2024-06-23 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198064) · `si`
 
-ගාසා තීරයේ ගැටුම් පිළිබඳ ශ්‍රි ලංකාවේ ස්ථාවරත්වය කිසි විටෙකත් වෙනස් නොවන බවත්, වසර 05ක් තුළ පලස්තීන රාජ්‍ය පිහිටුවිය යුතුය යන්න ශ්‍රී ලංකාවේ ස්ථාවරය වන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe reaffirmed Sri Lanka's stability amidst Gaza conflicts during a special prayer event at the new Kattankudy Jumma Mosque. He initiated a donation drive for the mosque, aimed at providing aid to Gaza's children, presenting the "Trusted Moundiake" to him. The President participated in the prayers alongside devotees.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ගාසා තීරයේ විපතට පත් ජනතාව වෙනුවෙන් නව කාත්තන්කුඩි ග්‍රෑන්ඩ් ජුම්මා මුස්ලිම් පල්ලියේ අද (23) සංවිධානය කර තිබූ විශේෂ යාඥා මෙහෙයට එක්වෙමිනි.
+🟩
 
-මේ අතර ගාසා හි ගැටුම්වලින් විපතට පත් දරුවන්ට සහන සැලසීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි ආරම්භ කළ ගාසා හි ළමා අරමුදලට (Children of Gaza Fund) නව කාත්තන්කුඩි ග්‍රෑන්ඩ් ජුම්මා මුස්ලිම් පල්ලිය විසින් රුපියල් එක්කෝටි හත් ලක්ෂ හැට නව දහස් හාරසිය දාහතක මුදලක් පරිත්‍යාග කිරීමට අදාළ චෙක්පත ද භාරකාරීත්ව මවුලවිතුමන්ලා විසින් මෙහිදී ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+President Ranil Wickremesinghe said that the stability of Sri Lanka in the clashes on Gaza is never changed, he said.
 
-මෙම විශේෂ යාඥා මෙහෙයට එක්ව සිටි බැතිමතුන් සමඟ සුහද කතාබහකට ද එක් වූ ජනාධිපතිවරයා ඔවුන් සමඟ සෙල්ෆි ඡායාරූප කිහිපයකට ද පෙනි සිටියේය.
+The President was addressing the special prayer engagement organized by the new Kattankudy Jumma Mosque today (23).
+
+Meanwhile, the check to donate the new Kattanki Grand Jumma Mosque, which was started by President Ranil Wickremesinghe to provide relief from President Ranil Wickremesinghe (CHILDREN OF GAZA Muslim) to provide relief to the children of the Gaza.The Trusted Moundiake was presented to the President.
+
+The President also joined the devotees participating in this special prayer.
 
 ◼️
 
 [Data](articles/0d2ca44e.json)
+
+[Extended Data](ext_articles/0d2ca44e.ext.json)
 
 ---
 
@@ -73,6 +111,8 @@ Earlier this month federal Education Minister Dharmendra Pradhan admitted that �
 ...
 
 [Data](articles/8bc3cf5f.json)
+
+[Extended Data](ext_articles/8bc3cf5f.ext.json)
 
 ---
 
@@ -1086,21 +1126,33 @@ Israeli Army authorities said that the person who was injured was a suspect, but
 
 ---
 
-### පොසොන් පෝය දිනයේදි මවට ගලකින් පහරදී ඝාතනය කළ පුතා අල්ලයි
+### The mother arrested for hitting the mother with a stone and killed by a stone
 
 *2024-06-23 11:19:00* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝය-දිනයේදි-මවට-ගලකින්-පහරදී-ඝාතනය-කළ-පුතා-අල්ලයි/11-410373) · `si`
 
-කන්දෙගෙදර සාර්නියා වත්තේ දී සිය පුතුගේ නිවසට ගිනිතබා අලාභහානි කර , ගලකින් පහරදී  පොසොන්   පොහොය දින රාත්‍රි සිය මව ඝාතනය කලැයි සැකපිට පුතෙකු ඊයේ (22) සැකපිට අත්අඩංගුවට ගත් බව කන්දෙගෙදර පොලිසිය පවසයි .
+A 44-year-old man from Kandagedara allegedly killed his mother-in-law and set fire to his home, leading to the death of his own child. The incident occurred during Poson Poya Day, after which the suspect was arrested. His mother was hospitalized due to injuries sustained from being struck by a stone. The suspect's property was extensively damaged.
 
-සැකකාර පුතා විසින් හිසට ගලකින් පහරදී මෙන් මෙසේ ඝාතනයට ලක්වී ඇත්තේ කන්දෙගෙදර සාර්නියා වත්තේ තංගමලේ කොටසේ 3 වන ලැයිමේ පදිංචිව සිටි සිංගාරවේල් මුත්තාල් (62) නැමති කාන්තාව යැයි පොලිසිය කීය .
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු කන්දෙගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි තිදරු පියෙකු යැයි පොලිසිය කීය .
+Kandagedara Police said that the son of his son's home was burned to death in the Kandagedara Sarnia estate and assaulted her mother on the Poson Poya Day night.
 
-මොහුගේ බිරිද විදේශ රටක රැකියාවක් කරන බවත් , මොහුගේ දරුවන් තිදෙනා සැකකරු ගේ මව සමඟ කන්දෙගෙදර සාර්නියා වත්තේ තංගමලේ කොටසේ වතු නිවසේ පදිංචිව සිට ඇති අතර සැකකරු සිය  කන්දේගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ සිටින සිය සහෝදරියකුගේ නිවසේ වාසය කරමින් සිටි බවද පොලිසිය සදහන් කළේය .
+The suspect's son was assassinated by the Kandawewa Division (62), a resident of the Kandaweera Sarnia Watta area.
+
+The suspect was a 44 year old father, a resident of Kandagedara Boarno, the police said.
+
+The suspect had resided in a foreign-house estate home with his wife and his mother with the mother of his suspect.
+
+The police say that he has always come to a drunken mother's house and causing disputes with the drunk and the three children to stay with a room to stay at the house.
+
+The suspect had gone to his home to meet the Samurdhi Development Officer of the suspect, the suspect had gone to his home, and the suspect had been burnt to his mother's house.
+
+The woman was killed and the mother of the mother had been admitted to the Kandagedara hospital with a stone and the mother of the mother was taken into a stone.
 
 ...
 
 [Data](articles/a8b91412.json)
+
+[Extended Data](ext_articles/a8b91412.ext.json)
 
 ---
 
@@ -2363,51 +2415,5 @@ President Ranil Wickremesinghe made these remarks while delivering a compelling 
 [Data](articles/e0809383.json)
 
 [Extended Data](ext_articles/e0809383.ext.json)
-
----
-
-### If people find him ...
-
-*2024-06-22 20:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்களே-இவரை-கண்டால்-உடன்-தகவல்-தாருங்கள்/71-339247) · `ta`
-
-A suspect was caught on CCTV robbing a patient at Jaffna Teaching Hospital, stealing a ring, money, and handbag. The hospital director urges anyone recognizing the suspect to contact Jaffna Police or the hospital. Patients are advised against bringing valuables and to beware of strangers.
-
-🟩
-
-Information about the suspect who talked to a patient at the Jaffna Teaching Hospital yesterday and robbed his ring, money and handbag.
-
-The person has been identified by the CCTV camera, the Director of the Hospital said.
-
-He has informed the public to report to the Jaffna Police or the hospital administration if the suspect is known.
-
-In this case, patients who are admitted to the hospital should not bring gold ornaments or valuable items and be careful with people who are unknown.. Remble
-
-◼️
-
-[Data](articles/326943ad.json)
-
-[Extended Data](ext_articles/326943ad.ext.json)
-
----
-
-### Sri Lanka women's team forward
-
-*2024-06-22 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198034) · `si`
-
-The Sri Lanka Women's cricket team has moved up from 7th to 5th place in the International One-Day Women's Rankings after a strong performance against the West Indies team.
-
-🟩
-
-The Sri Lanka Women's Group's 5th has come to the 5st of the International One-Day Women's Rankings.
-
-That was the skills of the tournament of the tournament with the West Indies women's group.
-
-The Sri Lanka women's team had previously been on the 7th in the ICC Ratings list.
-
-◼️
-
-[Data](articles/1d7796ed.json)
-
-[Extended Data](ext_articles/1d7796ed.ext.json)
 
 ---

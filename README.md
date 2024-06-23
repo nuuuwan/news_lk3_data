@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 21:04:28**
+As of **2024-06-23 21:19:16**
 
 ## Newspaper Stats
 
-*Scraped **31,745** Articles*
+*Scraped **31,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,782
-adaderanalk | 3,606
+adalk | 2,783
+adaderanalk | 3,607
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,922
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,745 (100.0%) of 31,745 articles have been extended.
+31,745 (100.0%) of 31,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### President to address the nation on Wednesday
+
+*2024-06-23 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100053/president-to-address-the-nation-on-wednesday) · `en`
+
+President Ranil Wickremesinghe is scheduled to address the nation on Wednesday (June 26).
+
+In his address, the President is expected to brief the public about the current economic situation in the country and provide an update on the progress made with regard to the restructuring of foreign debt.
+
+The national secretary of the United National Party (UNP), Ravi Karunanayake, has indicated that the President’s announcement will provide significant relief to the people of country.
+
+◼️
+
+[Data](articles/ec160588.json)
+
+---
 
 ### The Professional Program - First Draft for the 27th of June
 
@@ -299,6 +315,22 @@ Police said the police department had been suspended from work immediately.
 [Data](articles/ab3de683.json)
 
 [Extended Data](ext_articles/ab3de683.ext.json)
+
+---
+
+### ජනපති කළ අධිකරණ ස්වාධීනත්වයට බලපාන වැඩේ
+
+*2024-06-23 18:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කළ-අධිකරණ-ස්වාධීනත්වයට-බලපාන-වැඩේ/11-410385) · `si`
+
+වර්තමාන නීතිපතිවරයාගේ සේවා කාලය දීර්ඝ කිරීමට ඉදිරිපත් කළ යෝජනාව වැඩි ඡන්දයෙන් ප්‍රතික්ෂේප කිරීමෙන් පසු නැවතත් ඔහුගේම නම  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ව්‍යවස්ථාදායක සභාවට ඉදිරිපත් කරන බවට වාර්තා වන බව සමගි ජන බලවේගයේ ප්‍රධාන විධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ අජිත් පී. පෙරේරා මහතා පැවසීය.
+
+ඒ අනුව මෙම ක්‍රියාව අධිකරණයේ ස්වාධීනත්වයට ඍජුව බලපාන කාරණයක් මෙන්ම, නීතිපති දෙපාර්තමේන්තුවේ ස්වාධීන නීතිඥවරුන්ට කළ බරපතළ අපහාසයක් බව අද (23දා) කොළඹ විපක්ෂනායක කාර්යාලයේ ඊයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් හිටපු පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී. පෙරේරා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/1e10e69d.json)
 
 ---
 
@@ -2457,53 +2489,5 @@ The Treasury had given 28 billion rupees from tax payer money to settle loans.
 [Data](articles/44604a3c.json)
 
 [Extended Data](ext_articles/44604a3c.ext.json)
-
----
-
-### Attack on Ukraine's Energy Structure
-
-*2024-06-23 06:43:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைனின்-எரிசக்தி-கட்டமைப்பு-மீது-தாக்குதல்/50-339263) · `ta`
-
-In the latest attack on Ukraine's energy infrastructure, two died and 18 were injured. This marks the eighth such assault by Russia in the past three months, causing frequent power blackouts across Ukraine.
-
-🟩
-
-Two people were killed and 18 injured in the attack, Ukraine said.
-
-It is said that this is the 8th attack by Russia in the last three months, targeting Ukraine's energy structure.
-
-International media report that these attacks are frequent power outages in Ukraine. (A)
-
-◼️
-
-[Data](articles/cefb6b56.json)
-
-[Extended Data](ext_articles/cefb6b56.ext.json)
-
----
-
-### The purpose is to give people rights
-
-*2024-06-23 06:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-உரிமைகளை-வழங்குவதே-நோக்கம்/175-339262) · `ta`
-
-President Ranil Wickremesinghe aims to develop Trincomalee as the nation's economic hub and expand services in Batticaloa through the Urumaya National Program, including providing land guarantees and inaugurating a new District Secretariat.
-
-🟩
-
-His main purpose is to grant the rights of the nation. President Ranil Wickremesinghe said that Trincomalee has been decided to develop as the main economic center.
-
-The President made this statement while addressing the provision of land guarantees in the Batticaloa district under the government's Urumaya National Program.
-
-The President of the Batticaloa District was chaired by the President yesterday at the Thiraimadu District Secretariat Complex, Batticaloa.
-
-Earlier, the President inaugurated the new building for the District Secretariat, which was constructed at a cost of Rs 1,055 million in the Batticaloa area.
-
-The new District Secretariat has been constructed with the aim of expanding services to the people of Batticaloa district.. The President also unveiled the name board and opened the District Secretariat, where he made a surveillance visit. (A)
-
-◼️
-
-[Data](articles/91ff6f54.json)
-
-[Extended Data](ext_articles/91ff6f54.ext.json)
 
 ---

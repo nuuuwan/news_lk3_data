@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 10:05:28**
+As of **2024-06-23 10:19:19**
 
 ## Newspaper Stats
 
-*Scraped **31,658** Articles*
+*Scraped **31,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,590
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,173
+adaderanasinhalalk | 5,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,655 (100.0%) of 31,658 articles have been extended.
+31,658 (100.0%) of 31,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### ඇෆ්ගනිස්තාන - ඔස්ට්‍රේලියා තරගයේදී බිහිවූ අලුත්ම වාර්තාව
+
+*2024-06-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198048) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඇෆ්ගනිස්තානය සහ ඔස්ට්‍රේලියාව අතර තරගයෙන් ලකුණු 21ක ජයක් වාර්තා කිරීමට ඇෆ්ගනිස්තානය අද (23) සමත්විය.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 148ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස ඔස්ට්‍රේලියාව සියලුදෙනා දැවී රැස්කළේ ලකුණු 127ක් පමණි.
+
+ඒ අනුව කණ්ඩායම් දෙකම මෙම තරගයේදී රැස්කළ මුළු ලකුණු සංඛ්‍යාව 275කි.
+
+එය දෙරට අතර පැවති විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී කණ්ඩායම් දෙකම රැස්කළ අඩුම ලකුණු එකතුව ලෙස වාර්තා ගත විය.
+
+◼️
+
+[Data](articles/cc84cba1.json)
+
+---
 
 ### Thai PM defends frequent overseas travel including Sri Lanka visit
 
@@ -50,21 +68,29 @@ Other visits aimed to draw trade and investment, said Srettha, nicknamed Thailan
 
 [Data](articles/d2f63091.json)
 
+[Extended Data](ext_articles/d2f63091.ext.json)
+
 ---
 
-### කුරුළු උණ නිසා ලංකාවට බලපෑමක් තිබේද ?
+### Is Sri Lanka affect the bird fever?
 
 *2024-06-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198047) · `si`
 
-ලොව ඇතැම් රටවල ව්‍යාප්ත වෙමින් පවතින කුරුළු උණ රෝගී තත්ත්වය පිළිබඳව ශ්‍රී ලංකාවට මෙතෙක් අවදානමක් නොමැති බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+Sri Lanka is not at risk of bird flu according to Health Minister Ramesh Pathirana. He assures the public that there's no danger, as the World Health Organization hasn't issued a specific warning. Bird flu cases have been reported globally, but it's not a concern in Sri Lanka.
 
-කුරුළු උණ සම්බන්ධයෙන් අනතුරුදායක තත්ත්වයක් මෙරටට නොමැති වුවද ඒ පිළිබඳව අවධානයෙන් කටයුතු කරන බව ඔහු ප්‍රකාශ කළේය.
+🟩
 
-"ශ්‍රී ලංකාවේ ජනතාවට අපිට කියන්න තියෙන්නේ විශේෂයෙන්ම මෙවැනි රෝගී තත්ත්ව ගැන අවදානමක් නැහැ. විශේෂ අනතුරු ඇඟවීමක් ලෝක සෞඛ්‍ය සංවිධානය අප වෙත කරලත් නැහැ. කුරුළු උණ රෝගී තත්ත්වයන් මීට පෙරත් ලෝකයේ විවිධ රටවලින් වාර්තා වුණා  නමුත් ඒවා විශේෂ පැතිරීමකට ලක්වුණේ නැහැ. ඒ නිසා ඒ සම්බන්ධයෙන් කිසිම අනියත බියක් ඇති කර ගත යුතු නැහැ මේ අවස්ථාවේදී."
+Health Minister Minister Ramesh Pathirana says that Sri Lanka has not at risk of the spread of bird flu lagoon in some countries in the world.
+
+He stated that although there is no danger of bird fever, he said.
+
+"The people of Sri Lanka have to tell us not to risk such ill health. The World Health Organization has not done a special warning to us. Bird fever has been reported from various parts of the world before but in different countries in the world, but they were not fair. This is not possible for any misinformation. "
 
 ◼️
 
 [Data](articles/d49505f8.json)
+
+[Extended Data](ext_articles/d49505f8.ext.json)
 
 ---
 
@@ -98,21 +124,29 @@ Naveen meteors (3/20) and Gulldin Nib (4/20) took 7 wickets for their victory.
 
 ---
 
-### බස් ත්‍රි රෝද ගැටුමෙන් තරුණයින් දෙදෙනෙක් මරුට
+### Two youth dies in bus triple clash
 
 *2024-06-23 09:24:19* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ත්‍රි-රෝද-ගැටුමෙන්-තරුණයින්-දෙදෙනෙක්-මරුට/11-410370) · `si`
 
-අනුරාධපුර පාදෙණිය ප්‍රධාන මාර්ගයේ තලාව ගොවිජන සේවා කේන්ද්‍රය ඉදිරිපිටදී අද (23) අළුයම ත්‍රීරෝද රථයක් සහ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් තරුණයෙන් දෙදෙනෙකු මියගොස් තවත් තරුණයින් දෙදෙනෙකු බරපතල තුවාල ලබා ඇතැයි තලාව පොලීසිය පවසයි.
+In a tragic incident, two youths died while two others were injured in a collision involving a three-wheeler and a bus near Talawa. Identified as 24-year-old Suzantha Kumara Perera and 19-year-old Kavindu Madushan Padmasiri, both residents of Madiawala, Eppawala, they were returning from the Poson Festival in Anuradhapura. The injured were hospitalized, and the driver and bus are under investigation.
 
-තුවාල ලැබූ තරුණයින් දෙදෙනා තලාව ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව අනුරාධපුර ශික්ෂණ රෝහලට මාරුකර යවා තිබෙනවා. මෙසේ මියගොස් ඇත්තේ එප්පාවල පොලිස් වසමේ මැඩියාව ප්‍රදේශයේ පදිංචි වයස අවුරුදු 24ක සහ වයස අවුරුදු 19ක තරුණයින් දෙදෙනෙකි.
+🟩
 
-මෙසේ මියගොස් ඇත්තේ එප්පාවල මැඩියාව ලිපිනයේ පදිංචි,. සුසන්ත කුමාර පෙරේරාගේ සුපුන් සාලින්ද පෙරේරා. (24) කවිඳු මදුශාන් පද්මසිරි(19) යන අයයි.
+Talawa Police says that two youths were killed and two other youth were injured in a three-wheeler and a bus.
 
-මෙම තරුණයින් පිරිස ඊයේ (22) රාත්‍රියේ අනුරාධපුර පැවැත්වෙන "පුරවර උදානය" පොසොන් සැණකෙළියට සහභාගීවී යළිත් නිවෙස් වෙත යමින් සිටියදී මෙම අනතුර සිදුව ඇති බවයි සිද්ධිය පිළිබඳව පරීක්ෂණ පවත්වන තලාව පොලිසිය සඳහන් කරයි.
+The injured youths have been transferred to the Talawa Divisional Hospital and sent to Anuradhapura Teaching Hospital. The deceased is a 24 year old and 19 years old resident of Madiawala area in Eppawala area.
+
+The deceased has been identified as Eppawala Media residential,. Suzantha Kumara Perera's Supun Salinda Perera. (24) Kavindu Madushan Padmasiri (19).
+
+The youths were attending the Poson Festival in Anuradhapura last night and were on their way to the homes again, the Talawa Police said.
+
+The police said that the Talawa to Talawa to Talawa to the Talawa towards the bus with a picnic from Ratnapura to Jaffna have confronted with the face of the bus.. The police said that the three-wheeler driver was collided with the prime minority of the road to control speed.
 
 ...
 
 [Data](articles/5614f881.json)
+
+[Extended Data](ext_articles/5614f881.ext.json)
 
 ---
 
@@ -2237,31 +2271,5 @@ PART I of this article delved into the historical perspective of the JVP, tracin
 [Data](articles/f165820a.json)
 
 [Extended Data](ext_articles/f165820a.ext.json)
-
----
-
-### Three people killed, 10 wounded in Arkansas supermarket shooting
-
-*2024-06-22 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100020/three-people-killed-10-wounded-in-arkansas-supermarket-shooting) · `en`
-
-A shooter opened fire at an Arkansas supermarket on Friday, killing three civilians and wounding 10 other people, including two police officers, Arkansas State Police said.
-
-The suspect was also wounded in a shootout with police, Arkansas State Police Director Mike Hagar told reporters.
-
-The shooting occurred at the Mad Butcher grocery in Fordyce, a town of 3,200 people about 70 miles (112 km) south of Little Rock.
-
-“Unfortunately, we can confirm that 11 innocent civilians were shot, and three of those are deceased. Two law enforcement officers were injured in the exchange of gunfire. The suspect was also shot and taken into custody,” Hagar said. He did not explain the circumstances of the shooting or take questions.
-
-The wounded police officers and the suspect were expected to survive, he said.
-
-Civilian injuries ranged from non-life-threatening to extremely critical, he said.
-
-Governor Sarah Huckabee Sanders said on social media platform X that she was briefed on the incident.
-
-...
-
-[Data](articles/597171c9.json)
-
-[Extended Data](ext_articles/597171c9.ext.json)
 
 ---

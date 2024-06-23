@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 08:53:22**
+As of **2024-06-23 09:04:27**
 
 ## Newspaper Stats
 
-*Scraped **31,647** Articles*
+*Scraped **31,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,113 @@ islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,764
-adaderanalk | 3,587
+adaderanalk | 3,588
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,169
+adaderanasinhalalk | 5,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,645 (100.0%) of 31,647 articles have been extended.
+31,647 (100.0%) of 31,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### පාසල් අනධ්‍යයන සේවකයින් හෙට සහ අනිද්දා ලෙඩ වෙයි
+### Fairly heavy showers expected in parts of the island
+
+*2024-06-23 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100035/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers of about 75mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya and Puttalam districts.
+
+Several spells of light showers will occur in Northern province and in Matale and Anuradhapura districts.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/8c955289.json)
+
+---
+
+### පැට් කමින්ස් ගෙන් තවත් කඩුලු ත්‍රිත්වයක්
+
+*2024-06-23 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198044) · `si`
+
+2024 විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සිය දෙවැනි කඩුලු ත්‍රිත්වය (හැට්ට්‍රික්) ලබා ගැනීමට ඔස්ට්‍රේලියානු වේග පන්දු යවන ක්‍රීඩක පැට් කමින්ස් අද (23) සමත්විය.
+
+ඒ ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන සුපිරි අට දෙනාගේ වටයේ තරගයේදී ලබාගත් හැට්ට්‍රික් එකත් සමගිනි.
+
+ඔහු පසුගියදා බංග්ලාදේශයට එරෙහිව ද පිට පිට පන්දු තුනකදී කඩුලු 3ක් දවාගත්තේය.
+
+මේ දක්වා විස්සයි විස්ස ලෝක කුසලාන තරගවලදී හැට්ට්‍රික් 8ක් වාර්තා කර ඇති අතර ශ්‍රී ලංකාව වෙනුවෙන් වනිඳු හසරංග 2021 දී එම දස්කම කළේය.
+
+◼️
+
+[Data](articles/a610f444.json)
+
+---
+
+### School, non-academic workers will be sick tomorrow and tomorrow
 
 *2024-06-23 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198043) · `si`
 
-අධ්‍යාපන අනධ්‍යයන සේවකයින් හෙට (24)  සහ අනිද්දා (25) දෙදින ලෙඩ නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය ක්‍රියාමාර්ගයක් සිදුකරන බව අධ්‍යාපන අනධ්‍යයන සේවක සංගමය පවසයි.
+Non-academic school staff will take two days off due to illness, affecting educational programs. They plan to participate in trade union actions to create a national policy. The Ministry of Higher Education has proposed solutions to address their concerns. University non-academic workers have been on strike for over 50 days, hoping for a positive government response to end the strike soon.
 
-අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස ඉල්ලා එම වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව ඔවුන් පැවසීය.
+🟩
 
-මේ අතර තම ගැටලු අවම මට්ටමෙන් විසඳාගැනීමට අවශ්‍ය ලිඛිත එකඟතාවයන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍යවරයා වෙත ලබාදී ඇති බව විශ්වවිද්‍යාල වෘත්තීය සමිති එකාබද්ධ කමිටුව පවසයි.
+Education Monitoring workshops will be a proceeding of the two day sick leave tomorrow (24) and the two day (25).
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ද දින 50කට වැඩි කාලයක් වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරතව සිටියි.
+They said that education non-academic program would engage in the trade union action to formulate a national policy.
 
-එහි සම සභාපති මංගල දඹරේරා මහතා පැවසුවේ ඒ සම්බන්ධයෙන් රජය පාර්ශ්වයෙන් යහපත් ප්‍රතිචාරයක් ලැබෙන්නේනම් හෙට හෝ අනිද්දා වැඩවර්ජනය අවසන් කිරීමට හැකි බවය.
+In the meantime, the recommendations of the Ministry of Higher Education have given the written agreements to resolve their problems at the lowest.
+
+University non-academic workers are engaged in a trade union action for over 50 days.
+
+The co-chairman of the co-chairman Mangala Dambarara said that if the government responds positively from the party, the strike could be completed tomorrow or tomorrow or tomorrow.
 
 ◼️
 
 [Data](articles/ac707c0e.json)
 
+[Extended Data](ext_articles/ac707c0e.ext.json)
+
 ---
 
-### ධීවර ජනතාවට හදිසි දැනුම්දීමක්
+### Emergency notice to fishermen
 
 *2024-06-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198042) · `si`
 
-තද සුළං සහ රළු මුහුද පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Strong winds and rough seas expected along Sri Lanka's coast from Trincomalee to Chilaw and Hambantota, with wind speeds potentially reaching 60-65 knots. The Department of Meteorology advises caution for sailors, especially near Kankesanthura, Puttalam, and Pottuvil coasts.
 
-අද (23) පෙරවරු 7.00ට නිකුත්කරන ලද එම නිවේදනය හෙට (24) පෙරවරු 7.00 දක්වා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා  හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශවල  සුළඟේ වේගය විටින් විට පැ.කි.මී. 60 - 65 දක්වා වැඩි විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology has issued an announcement announcement on strong winds and rough sea.
 
-එමෙන්ම හලාවත  සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 50 - 55 දක්වා වැඩි විය හැකිය.
+The announcement was issued at 7.00 am today (24th), the Department said.
 
-එසේම ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා  හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශ විටින් විට ඉතා රළුවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+From Trincomalee to Chilaw to Chilaw and Hambantota to Chilaw and Hambantota from time to time.. The Department of Meteorology announces that 60 to 65 could increase.
 
-හලාවත  සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකය.
+Also, the wind is speeds of winds in Chilaw to Hambantota via Hambantota from Colombo and Galle.. May increase to 50 - 55.
 
-...
+The Department of Meteorology is prevailing that the sea areas off the Kankesanthura and Puttalam to Chilaw and Hambantota to Chilaw and Hambantota to Pottuvil.
+
+The sea areas off the coast extending from Chilaw to Hambantota via Hambantota can be rough.
+
+It is said that the sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil.
+
+The Fisheries and Navy Community demands the Department of Meteorology to address the matter.
+
+◼️
 
 [Data](articles/f388096a.json)
+
+[Extended Data](ext_articles/f388096a.ext.json)
 
 ---
 
@@ -2201,59 +2253,5 @@ Sri Lanka’s first quarter electricity generation based on provisional data has
 [Data](articles/06f68606.json)
 
 [Extended Data](ext_articles/06f68606.ext.json)
-
----
-
-### Persecution to Gaza
-
-*2024-06-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198013) · `si`
-
-The UN warns that delivering aid to Gaza is perilous due to attacks on convoys carrying essential supplies like food and fuel. Armed groups intercept these deliveries, often selling them on the black market instead of distributing them as intended. This situation exacerbates the humanitarian crisis in the region.
-
-🟩
-
-The United Nations Office which coordinates that the essential assistance to the southern Gaza is a dangerous.
-
-Its heads say many incidents of essential food items have been reported.
-
-The UN office estimated three-quarters of the lorries in the lorries including Tuesday (18).
-
-It is said that armed gangs are attacked by armed gangs and carry robes.
-
-It is then that the donations are then sold in the market in the market.
-
-The lorries that brought fuel to Gaza were also targeted.
-
-◼️
-
-[Data](articles/57c85b73.json)
-
-[Extended Data](ext_articles/57c85b73.ext.json)
-
----
-
-### Airport security officer arrested with gold biscuits
-
-*2024-06-22 09:41:05* · [`adalk`](https://www.ada.lk/breaking_news/හාර-කෝටි-අසූ-ලක්ෂයක-රන්-බිස්කට්-සමග-ගුවන්-තොටුපොළ-ආරක්ෂක-නිලධාරියෙක්-අල්ලයි/11-410355) · `si`
-
-A 40-year-old airport security officer from Hakmana, Matara, was arrested at Katunayake airport for attempting to smuggle out 18 gold biscuits weighing 2.8 kg. The incident occurred early morning when the officer tried to conceal the gold biscuits. Further investigations are ongoing.
-
-🟩
-
-Office Inspector General of Customs Drug Adminment Officers In the morning, the airport security officer has been arrested in the opening of 18 gold biscuits at Katunayake airport.There is a 40 year old resident of Hakmana in Matara.
-
-He was arrested by the Customs Drug Administration by the Customs Drug Administration by the Customs Drug Administration by a puspect given to his nightboard and left the Katunayake airport..
-
-Customers who have been revealed that the security officer had taken measures to give the gold biscuit to leave the airport.
-
-The gold biscuits weighs 116.6 grams of gold and the gold biscuits weighs two kilograms and eight grams of gold biscuits. Customs Media Spokesperson, Director General of Customs Media Spokesperson, Savi Arukgoda was also present at the Katunayake airport to monitor the occasion.
-
-Officers who have been arrested by the Airport Defense Inspector in the manuscript have been conducting further investigations.
-
-◼️
-
-[Data](articles/50b259ff.json)
-
-[Extended Data](ext_articles/50b259ff.ext.json)
 
 ---

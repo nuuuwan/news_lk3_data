@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 00:34:43**
+As of **2024-06-24 00:51:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,758 (100.0%) of 31,763 articles have been extended.
+31,762 (100.0%) of 31,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,8 @@ The IMF Tracker maintained by Verité Research allows people to know the progres
 
 [Data](articles/d6104adb.json)
 
+[Extended Data](ext_articles/d6104adb.ext.json)
+
 ---
 
 ### Sri Lanka’s first ever participation at International Jewellery Vietnam 2024
@@ -83,6 +85,8 @@ Five Sri Lankan companies namely, Prasad Gems and Lapidary, Ranmuthu Jewellers, 
 ...
 
 [Data](articles/1c0e6e14.json)
+
+[Extended Data](ext_articles/1c0e6e14.ext.json)
 
 ---
 
@@ -132,6 +136,8 @@ The show is organised by the National Gem and Jewellery Authority (NGJA), in par
 
 [Data](articles/c01b7029.json)
 
+[Extended Data](ext_articles/c01b7029.ext.json)
+
 ---
 
 ### Poson lessons for leaders: Being brilliant in a BANI world
@@ -143,6 +149,8 @@ The rate of change has accelerated in rapid shifts in many spheres. From a plane
 ...
 
 [Data](articles/0a66462b.json)
+
+[Extended Data](ext_articles/0a66462b.ext.json)
 
 ---
 

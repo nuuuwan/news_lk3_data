@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 01:34:54**
+As of **2024-06-24 01:53:10**
 
 ## Newspaper Stats
 
-*Scraped **31,763** Articles*
+*Scraped **31,765** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 291
+colombotelegraphcom | 292
 dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,830
-dailyftlk | 1,932
+dailyftlk | 1,933
 adalk | 2,784
 adaderanalk | 3,608
 tamilmirrorlk | 3,735
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,763 (100.0%) of 31,763 articles have been extended.
+31,763 (100.0%) of 31,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -151,6 +151,18 @@ The rate of change has accelerated in rapid shifts in many spheres. From a plane
 [Data](articles/0a66462b.json)
 
 [Extended Data](ext_articles/0a66462b.ext.json)
+
+---
+
+### Dr. H.N. Thenuwara: Sri Lanka should regain the missed industrial revolutions
+
+*2024-06-23 22:48:35* · [`dailyftlk`](https://www.ft.lk/columns/Dr-H-N-Thenuwara-Sri-Lanka-should-regain-the-missed-industrial-revolutions/4-763352) · `en`
+
+A necessary condition for a country to have an industrial revolution is the creation of a suitable environment for inventions that should be innovated by entrepreneurs through a process, according to the Austrian American economist Joseph Schumpeter, known as innovation. For this to happen, people should have opportunities for acquiring skills and knowledge and business ability to put the new inventions into commercial production. If countries have gone through this process successfully embracing each of the successive industrial revolutions, the result would be the continuous increase in the income creating wealth and prosperity
+
+...
+
+[Data](articles/e86ad097.json)
 
 ---
 
@@ -625,6 +637,20 @@ Mr. A.A.M. Thassim has over 31 years of service at Central Bank of Sri Lanka (CB
 [Data](articles/5f769c9d.json)
 
 [Extended Data](ext_articles/5f769c9d.ext.json)
+
+---
+
+### Dr. H.N. Thenuwara: Sri Lanka Should Regain The Missed Industrial Revolutions
+
+*2024-06-23 18:30:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-h-n-thenuwara-sri-lanka-should-regain-the-missed-industrial-revolutions/) · `en`
+
+Central Bank’s ex-Assistant Governor and Director of Economic Research and presently Adjunct Professor at the University of Iowa, Dr. H.N. Thenuwara, unveiled the contents of his new book for comments and suggestions to a select audience in Colombo last week. The event was hosted by the Institute of Policy Studies or IPS. The book titled ‘Economic Growth, Development, Stability, and the Government in Sri Lanka’ is to be released in print form shortly.
+
+It contains 11 essays, some of which have been published earlier, on the present state of the Sri Lankan economy and prospects for its growth. It is a critical review which deserves the attention of all those with an interest in Sri Lanka and its economy. According to what he presented to the select audience, the book demonstrates his rich experience as a top central banker and scholar, on one side, and his learning from the interactions with the students at the University of Iowa, on the other.
+
+...
+
+[Data](articles/95e414ad.json)
 
 ---
 
@@ -2383,49 +2409,5 @@ In this regard, the first day of the Adivale festival, which will be held on the
 [Data](articles/87fe4ada.json)
 
 [Extended Data](ext_articles/87fe4ada.ext.json)
-
----
-
-### Thai PM defends frequent overseas travel including Sri Lanka visit
-
-*2024-06-23 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100037/thai-pm-defends-frequent-overseas-travel-including-sri-lanka-visit) · `en`
-
-(Reuters) - Thailand’s Prime Minister Srettha Thavisin defended his frequent globe-trotting during his first 10 months as leader of the Southeast Asian nation, in remarks aired in a television broadcast on Saturday.
-
-A real estate tycoon and political newcomer who became prime minister in August last year, Srettha made 15 overseas visits and pledged a two-month halt in March in response to public criticism.
-
-“Some of these visits are not avoidable,” he said, referring to those for official meetings of the Association of Southeast Asian Nations (ASEAN), as well as to China and Japan, while a third was to Sri Lanka to sign a free trade pact.
-
-Other visits aimed to draw trade and investment, said Srettha, nicknamed Thailand’s salesman, who has often spoken of his goal of luring more foreign investment to the country.
-
-“It’s necessary to go,” he said in the remarks recorded in advance.
-
-◼️
-
-[Data](articles/d2f63091.json)
-
-[Extended Data](ext_articles/d2f63091.ext.json)
-
----
-
-### Is Sri Lanka affect the bird fever?
-
-*2024-06-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198047) · `si`
-
-Sri Lanka is not at risk of bird flu according to Health Minister Ramesh Pathirana. He assures the public that there's no danger, as the World Health Organization hasn't issued a specific warning. Bird flu cases have been reported globally, but it's not a concern in Sri Lanka.
-
-🟩
-
-Health Minister Minister Ramesh Pathirana says that Sri Lanka has not at risk of the spread of bird flu lagoon in some countries in the world.
-
-He stated that although there is no danger of bird fever, he said.
-
-"The people of Sri Lanka have to tell us not to risk such ill health. The World Health Organization has not done a special warning to us. Bird fever has been reported from various parts of the world before but in different countries in the world, but they were not fair. This is not possible for any misinformation. "
-
-◼️
-
-[Data](articles/d49505f8.json)
-
-[Extended Data](ext_articles/d49505f8.ext.json)
 
 ---

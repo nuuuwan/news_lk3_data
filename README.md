@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 05:37:14**
+As of **2024-06-23 06:02:45**
 
 ## Newspaper Stats
 
-*Scraped **31,621** Articles*
+*Scraped **31,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,31 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,164
+adaderanasinhalalk | 5,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,621 (100.0%) of 31,621 articles have been extended.
+31,621 (100.0%) of 31,622 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-23 (Sunday)
+
+### කාසියේ වාසිය ඔස්ට්‍රේලියාව ට
+
+*2024-06-23 05:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198039) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ තවත් තරගයක් අද (23) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය හිමිකරගත් ඔස්ට්‍රේලියානු කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/b5b21d26.json)
+
+---
 
 ### 2024-06-22 (Saturday)
 
@@ -2295,31 +2311,5 @@ All those injured in the accident were taken to Murugan Hospital and 7 persons w
 [Data](articles/d8533ebd.json)
 
 [Extended Data](ext_articles/d8533ebd.ext.json)
-
----
-
-### Hospital Street is a route!
-
-*2024-06-21 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186664) · `ta`
-
-Vavuniya General Hospital's road is set to become a roundabout to ease traffic issues, improving accessibility for patients and the public. The change was discussed at a local meeting, allowing normal travel via Vavuniya Kandy Road and alternative routes like Kithul Road for visitors from Poonthottam. Stakeholders including the hospital administration, municipal council, divisional secretariat, and police will address any challenges during implementation.
-
-🟩
-
-It has been decided to convert the Vavuniya General Hospital to a round road.
-
-The road to the Vavuniya General Hospital has long been trafficking, causing the public to face various difficulties and the patient's carriage has to travel with difficulty.
-
-In this case, the road has been decided to turn the road into a road from the coming weeks. Comments were made at the Vavuniya Divisional Coordination Meeting.
-
-The public can travel through the Vavuniya Kandy Road as usual as usual, using the hospital circuit.. In addition, the public visiting the hospital from the Poonthottam area can go to the hospital using Kithul Road or wasps.
-
-The hospital administration, the Municipal Council, the Divisional Secretariat and the Police will discuss the difficulties that are being implemented as it is currently being made.
-
-◼️
-
-[Data](articles/18f6b1d4.json)
-
-[Extended Data](ext_articles/18f6b1d4.ext.json)
 
 ---

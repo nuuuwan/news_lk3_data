@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 18:53:05**
+As of **2024-06-23 19:04:30**
 
 ## Newspaper Stats
 
-*Scraped **31,732** Articles*
+*Scraped **31,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,780
 adaderanalk | 3,604
-tamilmirrorlk | 3,733
+tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,919
 adaderanasinhalalk | 5,192
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,731 (100.0%) of 31,732 articles have been extended.
+31,732 (100.0%) of 31,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### ஏப்பம் விட்ட  பொலிஸ் சாஜன்ட் இடைநீக்கம்
+
+*2024-06-23 18:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்பம்-விட்ட-பொலிஸ்-சாஜன்ட்-இடைநீக்கம்/175-339298) · `ta`
+
+பொலன்னறுவை பொலிஸாருக்கு வழங்கும் சன்மான பணமான 74 இலட்சம் ரூபாவை மோசடி செய்தார் என்றக் குற்றச்சாட்டில் கைது செய்யப்பட்ட ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றிவரும் பொலிஸ் சாஜன்ட் ஒருவரை வெள்ளிக்கிழமை (21) பணியில் இருந்து இடை நீக்கம் செய்யுயப்பட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் சாஜன்ட் 2021ம் ஆண்டு பொலன்னறுவை பொலிஸ் நிலையத்தில் போக்குவரத்து பிரிவில் கடமையாற்றி வந்துள்ளார். அங்கு பொலிஸாருக்கு சன்மானமாக வழங்கும் பணமான 74 இலட்சம் ரூபாவை மோசடி செய்துள்ளநிலையில் இடமாற்றம் பெற்றறு ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றி வந்துள்ளார்.
+
+இந்தநிலையில் இந்த மோசடி தொடர்பாக பொலன்னறுவை விசேட குற்றப் புலன்விசாரணைப் பிரிவினர் விசாரணைகளை மேற்கொண்டுவந்தனர். அதனடிப்படையில், இவரை கடந்த 18 ம் திகதி கைது செய்து பொலன்னறுவை நீதிமன்றில் ஆஜர்படுத்தப்பட்டார். நீதிமன்ற உத்தரவின் பிரகாரம் பிணையில் விடுவிக்கப்பட்டார்.
+
+இவ்வாறு பிணையில் வெளிவந்தவரை உடனடியாக பணியில் இருந்து பொலிஸ் திணைக்களம் இடைநீக்கம் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ab3de683.json)
+
+---
 
 ### Court orders courts against young people who were raped with girls
 
@@ -1292,25 +1310,33 @@ The woman was killed and the mother of the mother had been admitted to the Kanda
 
 ---
 
-### අභියෝග හමුවේ කිසිවිටෙකත් පැන යන්න එපා
+### Never escape in the face of challenges
 
 *2024-06-23 11:14:51* · [`adalk`](https://www.ada.lk/opinion/අභියෝග-හමුවේ-කිසිවිටෙකත්-පැන-යන්න-එපා/2-410372) · `si`
 
-අනාගත පරපුර වෙනුවෙන් තමා ලබා දෙන උපදෙස වන්නේ හොඳින් අධ්‍යාපනය ලැබීම, ප්‍රතිපත්ති ගරුක වීම සහ අභියෝග හමුවේ බිය නොවීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe advises facing challenges without fear, emphasizing meditation and resilience. He spoke to young leaders in Batticaloa, encouraging them to embrace challenges and not be deterred by obstacles. Highlighting the importance of developing local industries and focusing on exports, he urged the audience to learn well, act intelligently, and remain upright. The President also discussed government plans for extensive development in the East, including port development, new investment zones, and renewable energy projects, inviting the business community to invest in the Eastern Province over the next five years.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ රටේ සාර්ථක නායකයෙක්, දක්ෂ දේශපාලනඥයෙක් ලෙස ලද අත්දැකීම් අනුව අනාගත පරම්පරාවේ සාර්ථකත්වය වෙනුවෙන් ලබා දෙන උපදෙස කුමක්දැයි මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිත හමුවේදී, තරුණියක නැඟූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමිනි.
+🟩
 
-මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිතයින්ගේ මෙම හමුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මඩකලපුව ‘ගෝල්ඩන් රිවර්’ හෝටලයේදී ඊයේ (22) පැවැත්විණි.
+President Ranil Wickremesinghe said that his counsel for the future generation is not being frightened, meditation, and challenges.
 
-මඩකලපුව දිස්ත්‍රික්කයේ තරුණ තරුණියන් විශාල පිරිසක් මෙම හමුවට එක්ව සිටි අතර ඔවුන් නැගු ප්‍රශ්නවලට පිළිතුරු ලබාදීමට ද ජනාධිපතිවරයා කටයුතු කළේය.
+The President made this statement from the youth visit to the Young Representative of the Batticaloa District, the youth visit to the Young Representative of Batticaloa District, the advice of a successful leader of the country.
 
-මෙම සාකච්ඡාවෙන් අනතරුව ජනාධිපතිවරයා ඊට සහභාගි වූ තරුණ තරුණියන් සමඟ සෙල්ෆි ඡායාරූප කිහිපයකටද එක් විය.
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe at Batticaloa yesterday (22) under the patronage of President Ranil Wickremesinghe.
 
-මෙහිදී තරුණ තරුණියන් නැගු ප්‍රශ්න සහ ජනාධිපතිවරයා ඊට ලබා දුන් පිළිතුරු පහත පරිදි වේ.
+The President also joined the meeting in the Batticaloa district and responded to the questions they had.
+
+The discussion, the President joined several photographs with young people who had participated in this discussion.
+
+The questions raised by the youth and the answers were as follows.
+
+Mr. President: Despite the crisis of the country, you accepted the country's responsibility. How will you have the opportunity to study in schools such as royal college?
 
 ...
 
 [Data](articles/4c57e8d0.json)
+
+[Extended Data](ext_articles/4c57e8d0.ext.json)
 
 ---
 
@@ -2409,35 +2435,5 @@ The exhibition included in 25 sectors which began on June 19 (June 23).
 [Data](articles/a2dfa0d4.json)
 
 [Extended Data](ext_articles/a2dfa0d4.ext.json)
-
----
-
-### 2024-06-22 (Saturday)
-
-### India wins
-
-*2024-06-22 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198037) · `si`
-
-India triumphed over Bangladesh in the World Cup match, batting first after losing the toss. They scored 196/5 in 20 overs, with Hardik Pandya contributing 50. Bangladesh replied with 146/8, securing India's victory by 50 runs.
-
-🟩
-
-The Indian team won the match between India and Bangladesh in the World Cup.
-
-The Bangladesh team won the toss and invited the Indian team to bat first.
-
-Accordingly, the team scored 196 runs for the loss of 5 wickets at the end of 20 overs.
-
-Hardick Pandy scored 50 runs for the innutrition.
-
-In response, the Bangladesh team scored 146 runs for the loss of 8 wickets.
-
-Accordingly, India won the match by 50 runs.
-
-◼️
-
-[Data](articles/df67e52d.json)
-
-[Extended Data](ext_articles/df67e52d.ext.json)
 
 ---

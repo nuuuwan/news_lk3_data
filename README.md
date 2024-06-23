@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 16:19:28**
+As of **2024-06-23 16:34:40**
 
 ## Newspaper Stats
 
-*Scraped **31,718** Articles*
+*Scraped **31,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ adaderanalk | 3,601
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,188
+adaderanasinhalalk | 5,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,716 (100.0%) of 31,718 articles have been extended.
+31,718 (100.0%) of 31,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ශ්‍රී ලංකා කාන්තා 20යි 20 කණ්ඩායමට අනුමැතිය
+### කුරුලු කූඩුවෙන් මතුවූ හෙරොයින්
+
+*2024-06-23 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198063) · `si`
+
+කුරුලු කූඩුවක් තුළ සඟවා තිබූ රුපියල් ලක්ෂ 75කට අසන්න වටිනා හෙරොයින් මත්කුඩු තොගයක් සමග ත්‍රිරෝද රථ රියදුරෙකු අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය පවසයි.
+
+එම සැකකරු සමග මත්කුඩු ග්‍රෑම් 442 මිලිගෑම් 225ක් පොලිස් භාරයට ගෙන තිබුණි.
+
+යුක්තිය මෙහෙයුමේ යෙදී සිටි කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ උප පොලිස් පරීක්ෂක බණ්ඩාර නිලධාරියා වෙත බස්නාහිර පළාත් බුද්ධි මූලස්ථානයේ නිලධාරීන් විසින් හෙරොයින් මත්කුඩු ජාවාරම් සිදුකරනු ලබන පුද්ගලයෙකු සම්බන්ධයෙන් ලබා දෙන ලද තොරතුරකට අනුව කොළඹ 14 මාදම්පිටිය පාරේ නිවසකදී සැකපිට මෙම සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් එම සැකකරුගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී මත්ද්‍රව්‍ය සඟවා ඇති ස්ථානයක් සම්බන්ධයෙන් අනාවරණය කරන ලද තොරතුරු අනුව ඔහුගේ මඟ පෙන්වීම මත වත්තල හුණූපිටිය සංඝරාජ මාවතේ ඉදිකරමින් පවතින නිවසක් පිටුපස තිබූ කුරුල්ලන් නොසිටින කුරුලු කූඩුවක සඟවා ඇති බවට අනාවරණය කළ බව පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/64ee2c31.json)
+
+---
+
+### Sri Lanka women approve of 20 team
 
 *2024-06-23 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198062) · `si`
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සමග පැවැත්වෙන 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා කාන්තා කණ්ඩායම සඳහා ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා අනුමැතිය ලබාදී තිබේ.
+Sri Lanka's Minister of Sports, Harin Fernando, has approved the participation of the Sri Lanka Women's Team in the 20th International Cricket Tournament against the West Indies women's team, set to take place in Hambantota on June 24, 26, and 28.
 
-ජූනි 24, 26 සහ 28 යන දිනයන්හී එම තරගාවලිය හම්බන්තොට දී පැවැත්වෙයි.
+🟩
+
+Minister of Sports Harin Fernando has approved the Sri Lanka Women's Team (SLFP) team participating in the 20th International Cricket Tournament with the West Indies women's group.
+
+The tournament will be held in Hambantota on June 24, 26 and 28.
 
 ◼️
 
 [Data](articles/ba34751e.json)
+
+[Extended Data](ext_articles/ba34751e.ext.json)
 
 ---
 
@@ -114,21 +138,33 @@ The Ministry of Education has issued a statement that school activities will be 
 
 ---
 
-### බෙන්තොට රෝහලේ වෛද්‍යවරයෙකුට තර්ජනය කළ හතරක්  අල්ලයි
+### Four threatened a doctor at Bentota Hospital
 
 *2024-06-23 15:15:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලේ-වෛද්‍යවරයෙකුට-තර්ජනය-කළ-හතරක්--අල්ලයි/11-410378) · `si`
 
-බෙන්තොට රජයේ රෝහලේ වෛද්‍ය නිලධාරියෙකුට තර්ජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට තරුණයින් හතර  දෙනෙකු අත් අඩංගුවට ගත් බව බෙන්තොට පොලීසිය පැවසීය.
+Four youths were arrested after allegedly threatening a doctor at Bentota Hospital. The incident occurred when two motorcycles collided near the hospital, injuring several including a health assistant and another worker. The doctor complained about being interrupted while on duty by a group of people, leading to the arrests. Further investigations are ongoing.
 
-ඉකුත් 20 දා රාත්‍රියේ බෙන්තොට රෝහල ඉදිරිපිට කොළඹ - ගාල්ල මහා මාර්ගයේදී  යතුරු පැදි දෙකක් එකිනෙක ගැටීමෙන් තුවාල ලබා රෝහලට ඇතුළත් කළ තිදෙනෙකුට ප්‍රතිකාර කරමින් සිටියදී සහ ඉන්පසුව රෝහලට පැමිණි එක් තුවාලකරුවෙකුගේ පාර්ශවයේ පිපිරිසක්  විසින්   වෛද්‍යවරයාට මෙම තර්ජනය කර ඇතැයි පොලීසිය කියයි.
+🟩
 
-රෝහලේ පැවති දන්සලකට අවශ්‍ය ද්‍රව්‍ය ගෙන ඒම සඳහා යමින් සිටි සෞඛ්‍ය කාර්ය සහායකවරයෙකු හා සහායිකාවක රැගත් යතුරුපැදියක් සහ බෙන්තොට සංචාරක හෝටලයක සේවය කරන තරුණයෙකු විසින් පදවාගෙන ගිය යතුරු පැදියක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුවී තිබේ.
+According to the Bentota Police, four youths have been arrested on suspicion of threatening a medical officer of the Bentota Government Hospital.
 
-එම අනතුරෙන් එක් යතුරු පැදියක ගමන් ගත්  සෞඛ්‍ය සහායකවරයා සහ සහායකවරියත් අනෙක් යතුරු පැදියේ ගමන් ගත්  හෝටල් සේවකයාත් තුවාල ලබා රෝහලේ හදිසි ප්‍රතිකාර ඒකකයට ඇතුළත් කර තිබිණි .
+Two motorcycles were wounded at the Colombo-Galle Highway in front of the Bentota Hospital night and the police said.
+
+The accident had occurred when a motorcycle and a motorcycle who was driving at a Bentota in a Bentota tourist hotel and a tourist at a Bentota Tourist hotel.
+
+The health assistant and the assistant of the accident and the other motor vehicle worker were also admitted to the Emergency Department.
+
+It is said that the doctor has warned someone for the hotel worker who was watching the two hospital employees and was videoing in the ward.
+
+The doctor has lodged a complaint with the police stating that they had threatened the doctor and interrupted the duties.
+
+It was reported that a group of people who had come to the hospital on the night and had gone back to the hospital.
 
 ...
 
 [Data](articles/d91212fa.json)
+
+[Extended Data](ext_articles/d91212fa.ext.json)
 
 ---
 
@@ -2359,21 +2395,5 @@ Popular incumbent, ultra-conservative Representative Bob Good, head of the Freed
 [Data](articles/52f708d9.json)
 
 [Extended Data](ext_articles/52f708d9.ext.json)
-
----
-
-### Reflecting on Poson
-
-*2024-06-22 18:57:00* · [`islandlk`](http://island.lk/reflecting-on-poson/) · `en`
-
-Unlike Vesak, Poson is specific to Sri Lanka and India. It celebrates the coming of Buddhism to the island through an embassy of five monks, one samanera, and one layman, led by Mahinda Thera, the son of Asoka from his second wife, Vedisa-Devi. The Dipavamsa and the  Mahavamsa are the main literary sources from this country that we have for the details of this embassy. All other accounts are variations on them.
-
-According to these chronicles, Tissa, the second son of Mutasiva, was out on a hunt with 40,000 of his courtiers during a water festival, when he caught sight of an elk-stag (or a deer) which he proceeded to give chase to. He then pursued it to the top of Missaka Mountain, or Mihintale as it is known today, where he encountered Mahinda Thera, who preached the Dhamma to him after testing his intelligence.
-
-...
-
-[Data](articles/3b59155d.json)
-
-[Extended Data](ext_articles/3b59155d.ext.json)
 
 ---

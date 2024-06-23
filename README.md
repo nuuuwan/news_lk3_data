@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 11:19:28**
+As of **2024-06-23 11:35:08**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 5,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,664 (100.0%) of 31,668 articles have been extended.
+31,668 (100.0%) of 31,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### එල්ටීටීඊ තහනම ගැන එක්සත් රාජධානියෙන් තීරණයක්
+### UK's decision on LTTE ban
 
 *2024-06-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198052) · `si`
 
-එල්ටීටීඊ තහනම තවදුරටත් පවත්වා ගෙන යාමට එක්සත් රාජධානිය තීරණය කර ඇති බව ශ්‍රී ලංකා විදේශ අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+UK decides to maintain LTTE ban after advice from its "Balancing Organization Commission," an independent judicial body.
 
-එක්සත් රාජධානියේ "තහනම් සංවිධාන ආභියාචන කොමිසම" එල්ටීටීඊ තහනම ඉවත් නොකළ යුතු බවට නියෝග කර තිබේ.
+🟩
 
-එරට මහාධිකරණ විනිසුරුවෙක් ප්‍රධානත්වය දරන එම කොමිසම එරට පාර්ලිමේන්තුව මගින් ස්ථාපනය කළ ස්වාධීන අධිකරණයකි.
+Sri Lanka Foreign Minister Ali Sabri says the UK has decided to continue the LTTE ban on the LTTE ban.
+
+The UK "Balancing Organization Commission" has been ordered that the LTTE ban should not be lifted.
+
+The Commission headed by the High Court Judge is an independent judiciary established by Parliament.
 
 ◼️
 
 [Data](articles/37642d77.json)
 
+[Extended Data](ext_articles/37642d77.ext.json)
+
 ---
 
-### මක්කම වන්දනාවේ ගිය  මවුලවිවරයෙකු සහ කාන්තාවක් අත් අඩංගුවට
+### A molevian and a woman arrested in pilgrimage
 
 *2024-06-23 11:05:16* · [`adalk`](https://www.ada.lk/breaking_news/මක්කම-වන්දනාවේ-ගිය--මවුලවිවරයෙකු-සහ-කාන්තාවක්-අත්-අඩංගුවට/11-410371) · `si`
 
-සෞදි අරාබියේ , මක්කම වන්දනාවේ ගොස් , ආපසු ශ්‍රී ලංකාවට පැමිණෙමින් සිටි මවුලවිවරයෙකු සහ  ඔවුන් සමග  වන්දනාවේ නිරත වූ තවත්  කාන්තාවක විසින් රුපියල් එක් කෝටි අනූ ලක්ෂයක් වටිනා ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් කරමින් සිටියදී කටුනායක ගුවන් තොටුපොළ පොලිසියේ නිලධාරීන් පිරිසක්  විසින් පසුගිය 21 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ .
+In Saudi Arabia, a Molevian man and a woman were arrested at the Bandaranaike International Airport while trying to leave for Sri Lanka on a pilgrimage. They are from Kalmunai, Batticaloa, aged 44 and 49 respectively. The arrest occurred on August 6th, and jewelry worth 859 grams was found in their luggage. This jewelry has been handed over to the Katunayake airport customs for further investigation. The arrests were made under the instruction of several high-ranking officials, including Eric Perera and Inspector General Chandana.
 
-මොවුන් මඩකලපුව , කල්මුණේ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මෙයින් මවුලවිවරයා 44 හැවිරිදිය . අනෙක් කාන්තාව 49 හැවිරිදිය .
+🟩
 
-ඔවුන් 06/21 දින පස්වරු 02.56 ට ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි.- 390 දරන ගුවන් යානයෙන් සෞදි අරාබියේ සිට  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Saudi Arabia, a Molevian and a Molewoman, who was returning to Sri Lanka and a pilgrimage to Sri Lanka, the Katunayake airport police officers while attempting to leave the Bandaranaike International Airport.A group of people arrested for the 21st afternoon.
 
-ඔවුන් ගුවන් තොටුපොළ සියලුම පරීක්ෂණ නිමා කර කටුනායක ගුවන් තොටුපොළෙන් පිටව යාම සදහා පැමිණීමේ පර්යන්තය වෙත  පැමිණ සිටියදී ගුවන් තොටුපොළ පොලිසියේ නිලධාරීන් පිරිසක් විසින් මොවුන් අත් අඩංගුවට ගෙන තිබුණි.
+They are residents of Kalmunai, Batticaloa, with this, 44, the Moulavia. The other woman is 49 years.
+
+They were 8.56 pm on August 06/2N.A.
+
+They had been arrested by a group of airport police officers while attending the arrival of all the investigations and leave the Bandaranaike International Airport.
+
+The Katunayake airport police had recovered a jewelery of the Katunayake Airport, including 859 grams of bags in their baggage.
+
+Steps have been taken to hand over the two jewelery to the Katunayake airport customs personnel for further investigations.
 
 ...
 
 [Data](articles/68561b2b.json)
+
+[Extended Data](ext_articles/68561b2b.ext.json)
 
 ---
 
@@ -109,6 +125,8 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 ◼️
 
 [Data](articles/bd803b2b.json)
+
+[Extended Data](ext_articles/bd803b2b.ext.json)
 
 ---
 
@@ -400,21 +418,27 @@ The bus had been severely damaged due to the accident and around 12 persons trav
 
 ---
 
-### උඩරට දුම්රිය ධාවනයට බාධා
+### Upcountry train interrupts
 
 *2024-06-23 08:50:47* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410368) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ ගලබඩ සහ ඉගුරුඔය අතර දුම්රිය ස්ථාන අතර පේන්‍ රෝස් ප්‍රදේශයේ දී අද (23) උදෑසන දුම්රිය මාර්ගයට විශාල ගසක් කඩා වැටීමෙන් බදුල්ල කොළඹ කොටුව අතර දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි දුම්රිය දෙපාර්තමේන්තුව පවසයි .
+Railway service between Galadan and Eyre Oya stations is disrupted due to a fallen tree. The Railway Department plans to clear it soon, affecting travel from Galabada to Colombo Fort via Nanu Oya.
 
-මේ නිසාවෙන් නානුඔය සිට කොළඹ කොටුව බලා   අද (23)අලුයම  ධාවනය  වෙමින් තිබූ අංක 1024 ටිකිරිමැණිකේ දුම්රිය දැනට හැටන් දුම්රිය ස්ථානයේ සහ නානුඔය සිට මහනුවර බලා ධාවනය වෙමින් තිබූ අංක 1520 දරණ දුම්රිය ගලබඩ දුම්රිය ස්ථානයේ නවතා තබා ඇතැයි දුම්රිය  දෙපාර්තමේන්තුවේ ප්‍රකාශයකු කීය .
+🟩
 
-දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල ගස කපා ඉවත් කිරිමට අපහසු බවත් , චේන්බ්ලොබ්ලොක් යන්ත්‍ර යොදා ගනිමින් ගස ඉවත් කිරිමට කටයුතු සිදු කරන බවද දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය .
+The Railway Department says that the railway stations between Gala Country railway stations between Galadan and Eyre Oya railway stations have been interrupted by the Colombo Fort, Badulla.
 
-මේ නිසාවෙන් බදුල්ල  කොළඹ කොටුව අතර දුම්රිය ධාවනය ප්‍රමාද වන  බවද දුම්රිය දෙපාර්තමේන්තුවේ පැවසීය .
+The railway station was launched at the Galabada Railway Station, which was traveling at Nanu Oya to Colombo Fort today (23).
+
+The Railway Department said that the large tree that collapsed on the railway line is not difficult to remove, using Chanblobloc machines.
+
+This is due to this due to the Badulla Fort, the Railway Department said.
 
 ◼️
 
 [Data](articles/b0646b7a.json)
+
+[Extended Data](ext_articles/b0646b7a.ext.json)
 
 ---
 

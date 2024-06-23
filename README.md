@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 11:35:08**
+As of **2024-06-23 11:54:23**
 
 ## Newspaper Stats
 
-*Scraped **31,668** Articles*
+*Scraped **31,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,76 @@ dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,757
-economynextcom | 1,826
+economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,769
-adaderanalk | 3,591
+adaderanalk | 3,593
 tamilmirrorlk | 3,718
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,178
+adaderanasinhalalk | 5,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,668 (100.0%) of 31,668 articles have been extended.
+31,668 (100.0%) of 31,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Train services disrupted on Up-country Line
+
+*2024-06-23 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100040/train-services-disrupted-on-up-country-line) · `en`
+
+Railway operations on the Up-country Line have been disrupted due to several fallen trees on the tracks between the Inguru Oya and Galabada railway stations since early this morning (23), according to an Ada Derana reporter.
+
+The Department of Railways is currently working to clear the tracks and restore train services.
+
+Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort remains stopped at the Hatton railway station, awaiting the clearing of the railway tracks.
+
+◼️
+
+[Data](articles/612438d9.json)
+
+---
+
+### ඊශ්‍රායල හමුදාව සිදුකළ අමානුෂික ක්‍රියාවක තොරතුරු හෙළිවෙයි
+
+*2024-06-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198053) · `si`
+
+ඊශ්‍රායල හමුදාව පලස්තීන බටහිර ඉවුරේ ජෙනින් නගරයේ සිදුකළ හමුදා මෙහෙයුමක් අතරතුරදී සිදුකළ අමානුෂික ක්‍රියාවක් සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භකළ බව ඊශ්‍රායල ආරක්ෂක බලධාරීන් පවසයි.
+
+එහිදී ඊශ්‍රායල හමුදා භටයින් පිරිසක් තුවාල ලබා සිටි පලස්තීන වැසියෙක් ව සිය ජීප් රථයේ බොනට්ටුවේ ගැටගසා ගෙන එම හමුදා මෙහෙයුම සිදුකර ඇති බව වාර්තා විය.
+
+එම අවස්ථාව දැක්වෙන වීඩියෝවක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වී තිබුණි.
+
+ඊශ්‍රායල හමුදා බලධාරීන් පවසා ඇත්තේ තුවාල ලබා සිටි පුද්ගලයා සැකකරුවෙක් වුවද ඔහුට සිදුකළ දේ අනුමත නොකරන බවයි.
+
+◼️
+
+[Data](articles/2847d2a4.json)
+
+---
+
+### UK rejects appeal to lift ban on LTTE
+
+*2024-06-23 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100039/uk-rejects-appeal-to-lift-ban-on-ltte) · `en`
+
+The UK Proscribed Organisations Appeals Commission has rejected the appeal made by the Transitional Government of Tamil Eelam (TGTE) to lift the proscription on the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation in Britain.
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry stated that accordingly, the UK will continue to maintain the proscription on the LTTE.
+
+Taking to ‘X’ (formerly Twitter) to announce this, the Foreign Minister said that the UK proscribed organisation appeals commission, an independent court set up by parliament and headed by a high court judge and two retired senior diplomats, ruled against de-proscribing the LTTE.
+
+The Transnational Government of Tamil Eelam (“TGTE”) who support the creation of an independent Tamil state in north-east Sri Lanka appealed to the UK to lift its ban on the LTTE, he added.
+
+...
+
+[Data](articles/198e5073.json)
+
+---
 
 ### UK's decision on LTTE ban
 
@@ -418,6 +470,26 @@ The bus had been severely damaged due to the accident and around 12 persons trav
 
 ---
 
+### India supports Sri Lanka Coast Guard to boost maritime security
+
+*2024-06-23 08:53:00* · [`economynextcom`](https://economynext.com/india-supports-sri-lanka-coast-guard-to-boost-maritime-security-169049/) · `en`
+
+ECONOMYNEXT – India has given 1.2 million US dollars’ worth spare parts to Sri Lanka’s Coast Guard to be used in a vessel also gifted to the Indian Ocean Island on an earlier occasion, the Indian High Commission in Colombo said.
+
+“Handing over of the large consignment of spares symbolizes India’s commitment to support capability building towards addressing the shared challenges of Maritime Security in the region,” the Indian High Commission said
+
+The spare parts were brought to Sri Lanka on the Indian Coast Guard Ship Sachet, an offshore patrol vessel that was on a two-day visit to the island.
+
+The spares were formally handed over to the Sri Lanka Coast Guard Ship Suraksha which was gifted to Sri Lanka in October 2017 by India.
+
+India has gifted spare parts for the ship in June 2021 and April 2022 and also provided assistance in refilling of Halon cylinders in January 2024. (Colombo/June23/2024)
+
+◼️
+
+[Data](articles/2baeb347.json)
+
+---
+
 ### Upcountry train interrupts
 
 *2024-06-23 08:50:47* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410368) · `si`
@@ -569,6 +641,28 @@ Meanwhile, a 73-year-old man was killed in a car accident that took place in the
 [Data](articles/6f19a525.json)
 
 [Extended Data](ext_articles/6f19a525.ext.json)
+
+---
+
+### Sri Lanka Water Board makes profits, tax-payers inject Rs28bn
+
+*2024-06-23 07:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-board-makes-profits-tax-payers-inject-rs28bn-169040/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run National Water Supply and Drainage Board has made a profit of 5.2 billion rupees in the year to December 2023, after a tariff increase despite not getting money for 25 percent of its water it pumps out.
+
+Total revenues went up to 61.8 billion rupees in 2023 from 35.4 billion rupees, a Finance Ministry report said.
+
+Water revenue surged to 58.5 billion rupees from 33.1 billion rupees, cost of sales also went up to 32.8 billion rupees from 23.14 billion rupees, helping boost gross profits from 12.3 billion rupees to 29.0 billion rupees.
+
+Finance costs surged to 14.9 billion rupees from 3.9 billion rupees,
+
+NSWD reported net profits of 5.2 billion rupees for the year, against a loss of 2.7 billion rupees a year earlier.
+
+The Treasury had given 28 billion rupees from tax payer money to settle loans.
+
+...
+
+[Data](articles/44604a3c.json)
 
 ---
 
@@ -2147,133 +2241,5 @@ Speaking to the media, the public minister added that the 90 percent of these le
 [Data](articles/11972b26.json)
 
 [Extended Data](ext_articles/11972b26.ext.json)
-
----
-
-### Ai candidate to British electoral fight
-
-*2024-06-22 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198019) · `si`
-
-Arted intelligence technology, a groundbreaking AI, is making waves in the UK's July 4 general election. Independent candidate Steve Endotot, aged 59, is leveraging AI, named "AI Steve," in his campaign, focusing on Samarizer rights and housing issues. This marks a historic moment where AI could potentially influence politics, with Steve aiming to form a new party and possibly become the world's first AI legislator. However, the British Election Commission clarifies that if AI wins, it cannot hold the seat, highlighting ethical considerations around AI representation in governance.
-
-🟩
-
-The revolutionary ai technique, Arted intelligence technology has now invaded the world.
-
-The British general election on July 4 has been rested again.
-
-This time the artistic township has been amazed by intelligence technology.
-
-59-year-old candidate Steve Endotot, which is extinguished as an independent candidate, operates its election campaign to artistic role in artist.
-
-He can take AI Steve's model and conduct the election campaign.
-
-Ai Steve is appearing on the rights of Samarizer as well as issues in the home purchasing.
-
-It is also the opportunity to call AI Steve and expressed their views on future political policies.
-
-Steve Endsoutt is planning to establish a new political party, which is said to have been recruiting more candidates.
-
-If Steve won the election this year, there is a chance to become the world's first AI lawmaker.
-
-However, the British Election Commission says the British Election Commission says that if the AI ​​has won the election, the same seat is not to the AI ​​Steve.
-
-◼️
-
-[Data](articles/9a8de793.json)
-
-[Extended Data](ext_articles/9a8de793.ext.json)
-
----
-
-### Others in Batticaloa
-
-*2024-06-22 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198018) · `si`
-
-The President allocated aid to 192% of the 27,595 eligible families across 13 divisions in Batticaloa, exceeding the available resources.
-
-🟩
-
-The President has assigned 192 percent of the 27,595 families who qualified in 13 Divisional Secretariat Divisions in the Batticaloa district.
-
-◼️
-
-[Data](articles/921665fc.json)
-
-[Extended Data](ext_articles/921665fc.ext.json)
-
----
-
-### President Ranil awards freehold land deeds in Batticaloa
-
-*2024-06-22 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100023/president-ranil-awards-freehold-land-deeds-in-batticaloa) · `en`
-
-President Ranil Wickremesinghe emphasized that his primary focus is on providing “rights” to the people of the country. He made this statement during a ceremony held today (22) at the Batticaloa District Secretariat, where Urumaya freehold land deeds were awarded to 192 families across 14 divisional secretariat divisions in the Batticaloa district, as part of the government’s initiative to distribute 2 million freehold land deeds.
-
-Under the Urumaya program, 27,595 landless families in Batticaloa district are to receive freehold deeds, with 2,610 already granted. Additionally, 252 English diploma holders from the Higher National Engineering Diploma Institute received teacher appointments today, presided over by the President.
-
-...
-
-[Data](articles/68c59f27.json)
-
-[Extended Data](ext_articles/68c59f27.ext.json)
-
----
-
-### A mutant increase in prices of vegetables
-
-*2024-06-22 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186690) · `ta`
-
-Vegetable prices have surged nationwide, with costs ranging from 300 to 500 rupees per kg for items previously under 100 rupees. Factors contributing to this spike include floods affecting crop yields and unfavorable weather conditions hampering supply.
-
-🟩
-
-Other reasons, including floods in many parts of the country, have suddenly increased the price of vegetables across the country.
-
-One kilogram of pongi in vegetable outlets is Rs 550 to 750, one kilogram of curry chilli and chilli from Rs 500 to Rs 650 and one kilogram of green chilli has risen from Rs 350 to 500 and other vegetables are high.
-
-In addition, one kilogram of carat is sold for 460 rupees, one kilogram of peanuts for 500 rupees, ginger for 3,500 rupees and Desikai for 1,800 rupees.
-
-Accordingly, the vegetables that have been sold for less than 100 rupees in the past have crossed 300 to 500 rupees today.
-
-They noted that the prices of vegetables have increased due to the inclement weather in the past.
-
-This is why the prices of vegetables are rising nationwide.
-
-It has been pointed out that the prices of vegetables have increased due to the inclement weather at present due to the lack of supply of vegetables.
-
-◼️
-
-[Data](articles/2485fd71.json)
-
-[Extended Data](ext_articles/2485fd71.ext.json)
-
----
-
-### World Health Organization warns Sri Lanka
-
-*2024-06-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186688) · `ta`
-
-The World Health Organization has warned Sri Lanka about the risk of Bird Flu, specifically H5N1, which can jump from birds to humans. This virus, along with others like H7N9, poses a significant threat due to its severity. Recent cases in India and Australia highlight the global spread from poultry farms. Despite no evidence of human-to-human transmission, continuous vigilance is crucial.
-
-🟩
-
-An English media reports that the World Health Organization has advised Sri Lanka to be alerted in neighboring countries like India.
-
-Bird Flu or Avian Influenza is a viral infection.
-
-It primarily affects birds, as well as affects even humans. H5N1 is the most common form of bird fever.
-
-H5N1 is the virus/influenza. The virus can also attack humans if humans maintain contact with birds or animals.
-
-The main bird fever virus tribes include H5, H7, H9 and H10. H5N1, H5N8 (rarely), H7N9, H7N2, H7N3, H7N7, H9N2 and H10 NEMA. H5N1 and H7N9 are particularly severe, causing excessive death. H9N2 and H10N8 can usually cause normal disease. Continuous monitoring is essential because these viruses are likely to cause infection and cause infections.
-
-Recently, a child from West Bengal in India was found to have been infected with Avian Influenza.
-
-...
-
-[Data](articles/0cf166a8.json)
-
-[Extended Data](ext_articles/0cf166a8.ext.json)
 
 ---

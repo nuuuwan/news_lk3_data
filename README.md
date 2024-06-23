@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 00:51:08**
+As of **2024-06-24 01:04:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,762 (100.0%) of 31,763 articles have been extended.
+31,763 (100.0%) of 31,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -189,6 +189,8 @@ The most important sector in any economy is the SMI sector, as it provides the b
 ...
 
 [Data](articles/a9bc084a.json)
+
+[Extended Data](ext_articles/a9bc084a.ext.json)
 
 ---
 

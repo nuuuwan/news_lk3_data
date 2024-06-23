@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 09:19:16**
+As of **2024-06-23 09:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,651** Articles*
+*Scraped **31,653** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 290
 dbsjeyarajcom | 292
-bbccomsinhala | 311
+bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,765
-adaderanalk | 3,588
+adaderanalk | 3,589
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,649 (100.0%) of 31,651 articles have been extended.
+31,651 (100.0%) of 31,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Pat Cummins creates history with second consecutive T20 World Cup hat-trick
+
+*2024-06-23 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100036/pat-cummins-creates-history-with-second-consecutive-t20-world-cup-hat-trick) · `en`
+
+Australia quick Pat Cummins created history in St Vincent on Saturday when he became the first player to register a hat-trick in consecutive ICC Men’s T20 World Cup matches.
+
+Cummins registered a hat-trick over two overs against Bangladesh on Thursday and the right-armer completed the feat once again against Afghanistan when he had Rashid Khan, Karim Janat and Gulbadin Naib dismissed with three consecutive deliveries.
+
+It was just the eighth time that a bowler has completed a hat-trick at a Men’s T20 World Cup and the first time a player has achieved the feat on multiple occasions.
+
+Cummins is already a member of an illustrious group of seven players to have taken a hat-trick at a Men’s T20 World Cup, with Brett Lee (2007), Curtis Campher (2021), Wanindu Hasaranga (2021), Kagiso Rabada (2021), Karthik Meiyappan (2022) and Josh Little (2022) the other bowlers to have done so previously.
+
+...
+
+[Data](articles/6656e429.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -52,17 +70,23 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 ---
 
-### වේගයෙන් ආ බසය ගසක හැපෙයි
+### Fast bus crispy
 
 *2024-06-23 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198045) · `si`
 
-පැලවත්ත - නෙළුව මාර්ගයේ යට්ටපාත ප්‍රදේශයේදී මගී ප්‍රවාහන පෞද්ගලික බස් රථයක් බෝක්කුවක් සහිත ස්ථානයකින් මාර්ගයේ ඉවතට පැන අසල ඇති  විශාල ගසක ගැටීමෙන් සිදුවූ අනතුරක් සිදුව ඇත.
+An accident occurred on Pelawatta-Neluwa road when a private bus crashed near a culvert in Yattapatha. The bus, carrying about 12 passengers, was severely damaged, and all onboard were injured and taken to hospital.
 
-අනතුර හේතුවෙන් බස් රථයට දැඩි හානි සිදුව ඇති අතර බස්රථයේ ගමන්ගත් පුද්ගලයින් 12දෙනෙකු පමණ තුවාල ලබා රෝහල්ගත කිරීමට කටයුතු කර ඇති බව වාර්තා විය.
+🟩
+
+In Pelawatta - Neluwa road, a passenger private bus from a culvert in the Yattapatha area and a crash was accidental.
+
+The bus had been severely damaged due to the accident and around 12 persons traveling at the bus had been injured and hospitalized.
 
 ◼️
 
 [Data](articles/088be100.json)
+
+[Extended Data](ext_articles/088be100.ext.json)
 
 ---
 
@@ -454,6 +478,26 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 ---
 
+### 2024 කර්මාන්ත ප්‍රදර්ශනය: පාසල් සිසුවෙකුගෙන් ෆොර්මියුලා රථයක්
+
+*2024-06-23 03:25:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gg7yr3j1do) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, 'පැයට කිලෝමීටර් 130ක වේගයෙන් යන්න පුළුවන්. එන්ජින් එක හොයා ගත්තේ යකඩ කඩයකින්.'
+
+කොළඹ, බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ පැවැත්වෙන 2024 කර්මාන්ත ප්‍රදර්ශනයේ දී පාසල් සිසුවෙකු නිර්මාණය කළ ෆොර්මියුලා රථය ගැන බොහෝ දෙනාගේ අවධානය යොමු වී තිබේ.
+
+ත්‍රීරෝද රථ සහ යතුරුපැදි අමතර කොටස් එකලස් කර මලීෂ පමුදිත ජයකොඩි මේ නිර්මාණය කර ඇත.
+
+ප්‍රමුඛ පෙළේ සමාගම් නිෂ්පාදනය කළ ශ්‍රී ලංකාවේ එකලස් කරන ලද වාහන අතරට, සිසුවා දිරිගැන්වීමක් ලෙස ඔහුගේ නිර්මාණය එක් කිරීමට සංවිධායකයෝ ක්‍රියා කළහ.
+
+ජුනි 19 ආරම්භ වූ ක්ෂේත්‍ර 25ක නවෝත්පාදන ඇතුළත් මේ ප්‍රදර්ශනය අද (ජුනි 23) අවසන් වේ.
+
+◼️
+
+[Data](articles/a2dfa0d4.json)
+
+---
+
 ### 2024-06-22 (Saturday)
 
 ### India wins
@@ -508,17 +552,23 @@ Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU conde
 
 ---
 
-### තන්තිරිමලේ ආලෝක පූජාවේ දෙවන දිනය අදයි
+### Today is the second day of the Light Pooja of Tantirimale
 
 *2024-06-22 21:50:52* · [`adalk`](https://www.ada.lk/picture_story/තන්තිරිමලේ-ආලෝක-පූජාවේ-දෙවන-දිනය-අදයි/10-410365) · `si`
 
-විජය පුවත්පත් සමාගම 21වන වරටත්  ඓතිහාසික තන්තිරිමලේ පුදබිමේ පවත්වනු ලැබූ  ලංකාදීප පොසොන් ආලෝක පූජාවේ  දෙවන දිනය අද  (22දා) දිනට යෙදී තිබිණ.
+The second day of the Light Pooja at Tantirimale marks the 22nd consecutive year of the event organized by Vijaya Newspapers. Led by North East Sangharanayake and other religious and local officials, this significant cultural and religious gathering continues to hold importance in Sri Lanka's heritage.
 
-උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය සාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ, ඉරිදා ලංකාදීප පුවත් පතේ ප්‍රධාන කතෘ කාංචන දසනායක,  දිනපතා ලංකාදීප පුවත්පතේ ප්‍රධාන කතෘ  අජන්ත කුමාර අගලකඩ, නැගෙනහිර නුවර ගම් පලාත් ප්‍රාදේශිය ලේකම් සම්පත් රෝහන ධර්මදාස  යන  මහත්වරුන් සහ මහවිලච්චිය ප්‍රාදේශීය ලේකම් මංජරී සී චන්ද්‍රදාස මහත්මිය ආලෝක පූජාව විවෘත කල අයුරු.
+🟩
+
+The Vijaya Newspapers held the second day of the Poson Lake Poonery at the historic Tantiripaya at the 21st consecutive year (22).
+
+North East Sangharanayake, President of the Maha Sangha in Sri Lanka, Lankadeepa, Ven. Tantiripaya, Ven. Tantiripaya, VenRegional Secretariat Rohana Dharmadasa and Mahawilachchiya Divisional Secretary Manjari C Chandradasha opened the light offering.
 
 ◼️
 
 [Data](articles/8bdce479.json)
+
+[Extended Data](ext_articles/8bdce479.ext.json)
 
 ---
 
@@ -2197,57 +2247,5 @@ This extension was granted in response to requests from Divisional Secretaries, 
 [Data](articles/103c1d57.json)
 
 [Extended Data](ext_articles/103c1d57.ext.json)
-
----
-
-### Firing at a grocery store in the United States;3 people killed; 10 people injured
-
-*2024-06-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186675) · `ta`
-
-A shooting at a U.S. grocery store resulted in three deaths and ten injuries. The incident occurred in Fort Smith, Arkansas, where the shooter was also killed by police. This tragedy is part of a broader issue of gun violence in the U.S., with 234 shootings involving four or more victims this year alone, including 21 mass shootings in recent weeks.
-
-🟩
-
-Three people were killed in a shooting at a grocery store in the United States. Arkansas state police said 10 more people were injured.
-
-Arkansas state police said that the man was shot dead at a grocery store in Forty's city in South Arcansas and was seriously injured in the police firing.
-
-American gun violence records in connection with shootings
-
-There have been 234 shootings in the United States so far in 2024. Four or more people have been killed in these incidents.
-
-With summer heat rising, there have been incidents of shootings across the United States over the past few weeks. It has been reported that 21 massive shootings have been reported since last Friday.
-
-◼️
-
-[Data](articles/56bb4628.json)
-
-[Extended Data](ext_articles/56bb4628.ext.json)
-
----
-
-### Sri Lanka rejected the mechanism of collecting evidence of human rights violations in Sri Lanka
-
-*2024-06-22 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186683) · `ta`
-
-Sri Lanka rejects UN Human Rights Council's evidence collection mechanism, calling it ineffective and divisive. The government argues it prioritizes international politics over impartial evaluation of global human rights issues, potentially undermining trust in the UN body.
-
-🟩
-
-Sri Lanka has once again rejected the external mechanism for collecting evidence created by the United Nations Human Rights Council.
-
-The United Nations Human Rights Council (UNHRC) mechanism is ineffective, and it will only help to divide communities in Sri Lanka and therefore do not have significant benefits, said Sri Lanka's permanent government for Geneva, Himali Arunathilaka.
-
-He said that this mechanism does not have any significant advantages, it is in advance of the domestic mechanism and is wasting the resources of the member states.
-
-He said that the challenging human rights situation around the world should be evaluated with impartiality, unintelligible and objective duality.
-
-Sri Lanka is vehemently opposed to arbitrary activities that contradict these principles and the mechanism of collecting evidence is contrary to the mandate issued by the United Nations Human Council.
-
-...
-
-[Data](articles/4d92c8ab.json)
-
-[Extended Data](ext_articles/4d92c8ab.ext.json)
 
 ---

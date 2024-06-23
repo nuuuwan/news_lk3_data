@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 20:53:16**
+As of **2024-06-23 21:04:28**
 
 ## Newspaper Stats
 
@@ -26,51 +26,67 @@ adaderanasinhalalk | 5,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,743 (100.0%) of 31,745 articles have been extended.
+31,745 (100.0%) of 31,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### සර්වජන බලයේ වැඩපිළිවෙළ - පළමු කෙටුම්පත ජුනි 27 ජනතාවට
+### The Professional Program - First Draft for the 27th of June
 
 *2024-06-23 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198071) · `si`
 
-සර්වජන බලය සිය වැඩපිළිවෙළ ඇතුළත් පළමු කෙටුම්පත ජුනි 27 වනදා ජනතාවට ඉදිරිපත් කරන බව මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera, leader of the Motherland People's Party, unveiled the first draft of a universal power plan on June 27, aiming for public feedback to shape its final form. This announcement came during the Ampara district convention, emphasizing the party's commitment to incorporating public opinions into their strategic programs.
 
-ඒ පිළිබඳව ජනතා අදහස් ලබාගැනීමෙන් පසු එහි දෙවැනි කෙටුම්පත නිර්මාණය කිරීමට බලාපොරොත්තු වන බව ඒ මහතා පැවසීය.
+🟩
 
-මව්බිම ජනතා පක්ෂයේ අම්පාර දිස්ත්‍රික් සමුළුව අමතමින් ඔහු ඒ බව ප්‍රකාශ කළේය.
+The Leader of the Motherland People's Party, entrepreneral Dilith Jayaweera, said that the first draft of the universal power is presented to the people on June 27.
 
-"අපි යම් දිනයක මැතිවරණයට ඉදිරිපත් වන්නේද, එදිනට පෙර ඔබට ඔබගේ ඒ අදහස් ඇතුළත් වැඩපිළිවෙළ අපි ඉදිරිපත් කරනවා උපායමාර්ගික වැඩපිළිවෙළක් ලෙස දින වකවානු එක්ක..."
+He said that the second draft of the public is expected to create public opinion.
+
+He was speaking at the Ampara district convention, the Ampara district convention.
+
+"We present your views on the election on the day, and we present your views on that day with the dates as a strategic program ..."
 
 ◼️
 
 [Data](articles/70a4af43.json)
 
+[Extended Data](ext_articles/70a4af43.ext.json)
+
 ---
 
-### පාසල් දැරියක්ව සමූහ දූෂණය කිරීමේ සිද්ධිය ගැන එළියට ආ අලුත්ම කථාව
+### The latest story of a school girl
 
 *2024-06-23 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198070) · `si`
 
-හංවැල්ල, ජල්තර ප්‍රදේශයේදී 16 හැවිරිදි පාසල් සිසුවියක් සමූහ දූෂණයට ලක්කිරීමේ සිද්ධියට අදාළ සැකකරුවන් 8දෙනා පැය 48ක කාලයක් රඳවාගෙන ප්‍රශ්න කිරීමට අද (23) හෝමාගම මහෙස්ත්‍රාත් අධිකරණය පොලිසියට අවසර ලබාදුන්නේය.
+In Hanwella, a 16-year-old schoolgirl was allegedly raped by her boyfriend and others at a crematorium. The incident involved four individuals, including the victim's boyfriend, who took her to a secluded area. Afterward, the victim was left with only Rs. 40. Eight suspects have been arrested, and further investigation is ongoing.
 
-මේ අතර එම සිද්ධියට ආධාර අනුබල දුන් තවත් පුද්ගලයෙක් සොයා පොලිස් විමර්ශන ක්‍රියාත්මක වෙයි.
+🟩
 
-16 හැවිරිදි පාසල් සිසුවියක් ඇයගේ පෙම්වතා සහ ඔහුගේ මිතුරන් පිරිසක් විසින් සමූහ දූෂණයකට ලක්කිරීමේ සිදුවීම ඉකුත් 21වනදා වාර්තා වුණේ හංවැල්ල ජල්තර ප්‍රදේශයෙනි.
+The Homamendra Magistrate Magistrate granted permission to the police today (23) to interfere with a 16-year-old schoolgirl in Hanwella.
 
-අදාළ දැරිය ඇඹුල්ගම ප්‍රදේශයේ පිහිටි සිය පෙම්වතාගේ නිවසේදී ඔහු සමග ලිංගිකව එක්ව ඇති අතර පසුව පෙම්වතාගේ මිතුරන් දෙදෙනෙකුද ඇය සමග ජල්තර ප්‍රදේශයේ ඉදිකෙරමින් පවතින ආදාහනාගාරයකදී ලිංගිකව එක්ව ඇති බව සඳහන් ය.
+Meanwhile, police investigations are conducting search for another person who supported the incident.
 
-පසුව ඔවුන්ගේ තවත් මිතුරන් තිදෙනෙකු ද එහි පැමිණ ඇයව දූෂණයට ලක්කර ඇති බව වාර්තා විය.
+A 16-year-old schoolgirl reported to her boyfriend and a group of people's rape was reported from Hanwella juthararth.
 
-අනතුරුව සිය නිවස කරා යෑමට එම දැරිය සැකකාර තරුණයන්ගෙන් මුදල් ඉල්ලා ඇතත් ඔවුන් ඇයට ලබාදී තිබුණේ රුපියල් 40ක් පමණයි.
+The girl had been having sex with his boyfriend's home in Ambargama, and two friends and her boyfriend were having sex with him in a crematorium.
 
-කෙසේවෙතත් ඔවුන් යතුරු පැදියකින් දැරිය ආටිගල මංසන්ධියට ගෙනැවිත් දමා තිබුණි.
+It was reported that three of their friends came and raped her there.
+
+The girl then went to her home, but she had only given her only Rs. 40 rupees.
+
+However, they had been brought to the Attygalle to the Attygalle.
+
+Two police officers met with two police officers who were trying to return home.
+
+Eight suspects have been arrested in connection with the arrest of two other suspects in connection with the incident yesterday (22).
 
 ...
 
 [Data](articles/37adaf71.json)
+
+[Extended Data](ext_articles/37adaf71.ext.json)
 
 ---
 

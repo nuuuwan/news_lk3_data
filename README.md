@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 08:02:50**
+As of **2024-06-23 07:26:58**
 
 ## Newspaper Stats
 
-*Scraped **31,644** Articles*
+*Scraped **31,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,111 +20,71 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,715
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,167
+adaderanasinhalalk | 5,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,638 (100.0%) of 31,644 articles have been extended.
+31,632 (100.0%) of 31,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### බස් රථයක් අත්ට්‍රැක්ටරයක ගැටී සිදුවූ අනතුර
-
-*2024-06-23 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198041) · `si`
-
-හලාවත - පුත්තලම ප්‍රධාන මාර්ගයේ ජයබිම ප්‍රදේශයේදී බස් රථයක් ඊට ඉදිරියෙන් ධාවනය වූ අත්ට්‍රැක්ටරයක පිටුපස ගැටී සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තිබේ.
-
-එමෙන්ම එම අනතුරින් තුවාල ලැබූ තවත් පුද්ගලයින් 10 දෙනෙකු හලාවත රෝහලට ඇතුළත් කළ බව පොලීසිය පවසයි.
-
-එලෙස මියගොස් ඇත්තේ, පහළ ගිරිබාව ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි කාන්තාවකි.
-
-සිද්ධිය සම්බන්ධයෙන් බස් රථ රියදුරා අත්අඩංගුවට ගෙන ඇති අතර හලාවත පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-මේ අතර අනුරාධපුර - රඹෑව ප්‍රධාන මාර්ගයේ පරසන්ගස්වැව ප්‍රදේශයේදී යතුරුපැදියක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 57 හැවිරිදි පුද්ගලයෙක් මියගොස් තිබේ.
-
-මේ අතර හම්බේගමුව පොලිස් වසමේ ලහිනාගල - දම්වැල්ඕඩිය මාර්ගයේ ලහිනාගල ප්‍රදේශයේදී යතුරුපැදියක් පදිකයෙකුගේ ගැටී සිදුවූ රිය අනතුරකින් 73 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-◼️
-
-[Data](articles/6f19a525.json)
-
----
-
-### Attack on Ukraine's Energy Structure
+### உக்ரைனின் எரிசக்தி கட்டமைப்பு மீது தாக்குதல்
 
 *2024-06-23 06:43:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைனின்-எரிசக்தி-கட்டமைப்பு-மீது-தாக்குதல்/50-339263) · `ta`
 
-In the latest attack on Ukraine's energy infrastructure, two died and 18 were injured. This marks the eighth such assault by Russia in the past three months, causing frequent power blackouts across Ukraine.
+இந்த தாக்குதலில் 2 பேர் உயிரிழந்துள்ளதுடன், 18 பேர் காயமடைந்துள்ளனர் என உக்ரைன் தெரிவித்துள்ளது.
 
-🟩
+கடந்த மூன்று மாதங்களில் உக்ரைனின் எரிசக்தி கட்டமைப்பை இலக்கு வைத்து ரஷ்யா நடத்தும் 8 ஆவது தாக்குதல் இதுவாகும் என குறிப்பிடப்படுகின்றது.
 
-Two people were killed and 18 injured in the attack, Ukraine said.
-
-It is said that this is the 8th attack by Russia in the last three months, targeting Ukraine's energy structure.
-
-International media report that these attacks are frequent power outages in Ukraine. (A)
+இந்த தாக்குதல்களினால் உக்ரைனில் அடிக்கடி மின் தடை ஏற்படுவதாக சர்வதேச ஊடங்கள் தெரிவிக்கின்றன. (a)
 
 ◼️
 
 [Data](articles/cefb6b56.json)
 
-[Extended Data](ext_articles/cefb6b56.ext.json)
-
 ---
 
-### The purpose is to give people rights
+### ’மக்களுக்கு உரிமைகளை வழங்குவதே நோக்கம்’
 
 *2024-06-23 06:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-உரிமைகளை-வழங்குவதே-நோக்கம்/175-339262) · `ta`
 
-President Ranil Wickremesinghe aims to develop Trincomalee as the nation's economic hub and expand services in Batticaloa through the Urumaya National Program, including providing land guarantees and inaugurating a new District Secretariat.
+நாட்டு மக்களுக்கு உரிமைகளை வழங்குவதே தனது பிரதான நோக்கம். த்துடன் திருகோணமலையை பிரதான பொருளாதார மையமாக அபிவிருத்தி செய்ய தீர்மானித்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
 
-🟩
+அரசாங்கம் முன்னெடுத்து வரும் உறுமய தேசிய வேலைத்திட்டத்தின் கீழ் மட்டக்களப்பு மாவட்டத்தில் காணி உறுதிகளை வழங்கும் நிகழ்வில் உரையாற்றும்போதே ஜனாதிபதி இதனை தெரிவித்தார்.
 
-His main purpose is to grant the rights of the nation. President Ranil Wickremesinghe said that Trincomalee has been decided to develop as the main economic center.
+மட்டக்களப்பு மாவட்டத்தில் 27,595 குடும்பங்களுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு மட்டக்களப்பு, திராய்மடு மாவட்ட செயலக வளாகத்தில் ஜனாதிபதி தலைமையில் நேற்று நடைபெற்றது.
 
-The President made this statement while addressing the provision of land guarantees in the Batticaloa district under the government's Urumaya National Program.
+இதற்கு முன்னதாக மட்டக்களப்பு திராய்மடு பிரதேசத்தில் 1,055 மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்டுள்ள மாவட்ட செயலகத்திற்கான புதிய கட்டிடத்தை ஜனாதிபதி திறந்துவைத்தார்.
 
-The President of the Batticaloa District was chaired by the President yesterday at the Thiraimadu District Secretariat Complex, Batticaloa.
-
-Earlier, the President inaugurated the new building for the District Secretariat, which was constructed at a cost of Rs 1,055 million in the Batticaloa area.
-
-The new District Secretariat has been constructed with the aim of expanding services to the people of Batticaloa district.. The President also unveiled the name board and opened the District Secretariat, where he made a surveillance visit. (A)
+மட்டக்களப்பு மாவட்ட மக்களுக்கான சேவைகளை விஸ்தரித்து வினைத் திறனாக்கும் நோக்கில் இந்த புதிய மாவட்ட செயலகம் நிர்மாணிக்கப்பட்டுள்ளது. பெயர் பலகையை திரைநீக்கம் செய்து மாவட்ட செயலகத்தை திறந்து வைத்த ஜனாதிபதி, அங்கு கண்காணிப்பு விஜயத்தையும் மேற்கொண்டார். (a)
 
 ◼️
 
 [Data](articles/91ff6f54.json)
 
-[Extended Data](ext_articles/91ff6f54.ext.json)
-
 ---
 
-### President visited the church of Zion
+### சியோன் தேவாலயத்தை ஜனாதிபதி பார்வையிட்டார்
 
 *2024-06-23 06:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சியோன்-தேவாலயத்தை-ஜனாதிபதி-பார்வையிட்டார்/175-339261) · `ta`
 
-President Ranil Wickremesinghe visited the Batticaloa Zion Church post-bomb blast, discussing reconstruction delays with church officials. He directed his Senior Advisor and National Security President to expedite repairs and sought military support from the Army Commander. The Governor of the Eastern Province and Minister of State Jupiter accompanied him.
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதலுக்கு உள்ளான மட்டக்களப்பு சியோன் தேவாலயத்தின் புனரமைப்புப் பணிகளை ஆராய ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று முற்பகல் அங்கு விஜயம் செய்தார்.
 
-🟩
+தேவாலயத்திற்கு சென்ற ஜனாதிபதி, தேவாலயத்தின் பிரதான போதகர் ரொஷான் மகேசனுடன் கலந்துரையாடினார். தேவாலயத்தின் புனரமைப்புப் பணிகள் இதுவரை ஏன் நிறைவடையவில்லை என்பது தொடர்பில் கேட்டறிந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அது குறித்து உடனடியாக ஆராய்ந்து அறிக்கை வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
 
-President Ranil Wickremesinghe visited the Batticaloa Zion Church, which was subjected to a bomb blast, visited the Batticaloa Church yesterday morning.
+அத்துடன், தேவாலயத்தின் திருத்தப் பணிகளை ஜனாதிபதி அலுவலகத்தின் நிதி ஒதுக்கீட்டில் துரிதமாக பூர்த்தி செய்ய நடவடிக்கை எடுக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும், ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
 
-The President visited the church and discussed with Roshan Mahasan of the church. President Ranil Wickremesinghe asked the authorities to immediately investigate the matter and provide a report on why the reconstruction work of the church has not yet been completed.
+அந்த நடவடிக்கைகளுக்கு இலங்கை இராணுவத்தின் ஆதரவை வழங்குமாறும் ஜனாதிபதி இராணுவத் தளபதிக்கு பணிப்புரை விடுத்தார்.
 
-In addition, the President has issued a direction to the President's Senior Advisor and President of the President of the National Security, Sagala Ratnayake, to take steps to speed up the church's amendments to the President's Office.
-
-The President also issued a directive to the Army Commander to support the Sri Lankan army.
-
-Governor of the Eastern Province Senthil Thondaman, Minister of State. Jupiter also joined the President on this occasion. (A)
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், இராஜாங்க அமைச்சர் எஸ். வியாழேந்திரனும் இச்சத்தர்ப்பத்தில் ஜனாதிபதியுடன் இணைந்து கொண்டனர். (a)
 
 ◼️
 
 [Data](articles/b444f023.json)
-
-[Extended Data](ext_articles/b444f023.ext.json)
 
 ---
 
@@ -307,8 +267,6 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/ada8202b.json)
-
-[Extended Data](ext_articles/ada8202b.ext.json)
 
 ---
 
@@ -611,8 +569,6 @@ According to these chronicles, Tissa, the second son of Mutasiva, was out on a h
 ...
 
 [Data](articles/3b59155d.json)
-
-[Extended Data](ext_articles/3b59155d.ext.json)
 
 ---
 
@@ -925,8 +881,6 @@ Young people of those days were just as keen as their successors of today to tra
 ...
 
 [Data](articles/2eda3ca1.json)
-
-[Extended Data](ext_articles/2eda3ca1.ext.json)
 
 ---
 
@@ -2247,5 +2201,33 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/b3b27f0c.json)
 
 [Extended Data](ext_articles/b3b27f0c.ext.json)
+
+---
+
+### President's speech about wetland conservation
+
+*2024-06-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198011) · `si`
+
+Sri Lanka commits to environmental tourism and wetland conservation, emphasizing self-reliance over waiting for climate change aid. President Ranil Wickremesinghe highlights the importance of internal funding for environmental protection and commercial ventures. He addresses the International Wetland Conference, stressing urgent action against wetland loss due to development and population growth. Plans include developing over 1,000 acres of wetland as a tourist attraction and reserving another 1,000 acres near Horton Place for wetland conservation and eco-tourism promotion.
+
+🟩
+
+President Ranil Wickremesinghe says Sri Lanka is committed to promoting the environmental tourism and focusing on wetlande.
+
+The President says that it is not worth waiting for climate change and external funds in environmental conservation.
+
+He also pointed out that the tropical countries should work for their own funds to focus on the environment and commercial projects.
+
+President Ranil Wickremesinghe made this statement from the first Asian and Oshian online consecutive year in the International Wetland Conference.
+
+The President says that immediate attention to conservation of wetlands throughout the country is due to the loss of wetlands with the expansion of the development and the expansion of the population.
+
+It is said that in parallel with these programs, an area of ​​more than 1,000 acres of wetland is planned to be a tourist attraction.
+
+...
+
+[Data](articles/be4ca942.json)
+
+[Extended Data](ext_articles/be4ca942.ext.json)
 
 ---

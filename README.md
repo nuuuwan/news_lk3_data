@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 11:54:23**
+As of **2024-06-23 12:06:50**
 
 ## Newspaper Stats
 
-*Scraped **31,673** Articles*
+*Scraped **31,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 290
 dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
-islandlk | 1,757
+islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,769
-adaderanalk | 3,593
+adaderanalk | 3,594
 tamilmirrorlk | 3,718
 dailymirrorlk | 4,733
 virakesarilk | 4,912
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,668 (100.0%) of 31,673 articles have been extended.
+31,673 (100.0%) of 31,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Sri Lankan Airlines’ future is bright, whether privatised or not – CEO
+
+*2024-06-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100041/sri-lankan-airlines-future-is-bright-whether-privatised-or-not-ceo) · `en`
+
+SriLankan Airlines will spread its wings across the Middle East region after acquiring more aircraft on lease this year to strengthen its fleet, its top official says.
+
+Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet modernisation plays an important in the carrier’s turnaround as well as caters to growing passengers demand in the region. He said the airline will strengthen its current fleet of 21 to 22 in July, with plans to add three more aircraft within the next three months to increase the tally to 25 aircraft this year.
+
+“We are aiming to boost SriLankan Airlines fleet with more leased aircraft that will help increase frequency on existing routes as well as add two or three new routes. The airline will place major orders for fleet replacement after its restructuring is completed under the International Monetary Funds (IMF) programme,” Nuttall told Khaleej Times during his recent visit to Dubai.
+
+...
+
+[Data](articles/0601def3.json)
+
+---
 
 ### Train services disrupted on Up-country Line
 
@@ -46,23 +62,31 @@ Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort re
 
 [Data](articles/612438d9.json)
 
+[Extended Data](ext_articles/612438d9.ext.json)
+
 ---
 
-### ඊශ්‍රායල හමුදාව සිදුකළ අමානුෂික ක්‍රියාවක තොරතුරු හෙළිවෙයි
+### The Israeli Army's brutal act reveals
 
 *2024-06-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198053) · `si`
 
-ඊශ්‍රායල හමුදාව පලස්තීන බටහිර ඉවුරේ ජෙනින් නගරයේ සිදුකළ හමුදා මෙහෙයුමක් අතරතුරදී සිදුකළ අමානුෂික ක්‍රියාවක් සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භකළ බව ඊශ්‍රායල ආරක්ෂක බලධාරීන් පවසයි.
+The Israeli military will probe an incident where a Palestinian was seriously injured during an operation in the West Bank. The victim, suspected of wrongdoing, was hit by a vehicle. This incident, captured on video and shared online, has sparked controversy.
 
-එහිදී ඊශ්‍රායල හමුදා භටයින් පිරිසක් තුවාල ලබා සිටි පලස්තීන වැසියෙක් ව සිය ජීප් රථයේ බොනට්ටුවේ ගැටගසා ගෙන එම හමුදා මෙහෙයුම සිදුකර ඇති බව වාර්තා විය.
+🟩
 
-එම අවස්ථාව දැක්වෙන වීඩියෝවක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වී තිබුණි.
+The Israeli defense authorities say that the Israeli military has decided to investigate an inquiry into a brutal act during a military operation conducted during a military operation conducted in the Palestinian West Bank.
 
-ඊශ්‍රායල හමුදා බලධාරීන් පවසා ඇත්තේ තුවාල ලබා සිටි පුද්ගලයා සැකකරුවෙක් වුවද ඔහුට සිදුකළ දේ අනුමත නොකරන බවයි.
+It was reported that a Palestinian was injured in a Palestinian infected Palestinian and took place in the bonnator of his jeep.
+
+The video shown that is circulated on social media.
+
+Israeli Army authorities said that the person who was injured was a suspect, but what he had done was not approved.
 
 ◼️
 
 [Data](articles/2847d2a4.json)
+
+[Extended Data](ext_articles/2847d2a4.ext.json)
 
 ---
 
@@ -81,6 +105,8 @@ The Transnational Government of Tamil Eelam (“TGTE”) who support the creatio
 ...
 
 [Data](articles/198e5073.json)
+
+[Extended Data](ext_articles/198e5073.ext.json)
 
 ---
 
@@ -179,6 +205,32 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 [Data](articles/bd803b2b.json)
 
 [Extended Data](ext_articles/bd803b2b.ext.json)
+
+---
+
+### Ranasinghe Premadasa :Triumphs and Turmoil
+
+*2024-06-23 10:34:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-triumphs-and-turmoil/) · `en`
+
+This article marks Ranasinghe Premadasa’s 100th birth anniversary, reflecting on his impactful legacy as a leader of Sri Lanka.
+
+...
+
+[Data](articles/0a298416.json)
+
+---
+
+### RW’s “judicial cannibalism” stirs up a storm
+
+*2024-06-23 10:34:00* · [`islandlk`](http://island.lk/rws-judicial-cannibalism-stirs-up-a-storm/) · `en`
+
+The topics of the judiciary and its independence were a recurring theme during last week’s parliamentary sittings. Both government and opposition MPs took turns discussing various aspects of the judiciary, with some using their parliamentary privileges to criticize judges and the courts.
+
+President Ranil Wickremesinghe led the baton charge on Tuesday morning, explaining his stance on the recent Supreme Court determination on the constitutionality of the Gender Equality Bill. Using the words “judicial cannibalism”, he found fault with the court for holding that the Bill violated the powers of Parliament under Article 4 of the Constitution and called for the appointment of a parliamentary select committee to study and make recommendations on this matter. But he did say he was not proposing summoning judges before the select committee.
+
+...
+
+[Data](articles/6301bd18.json)
 
 ---
 
@@ -488,6 +540,8 @@ India has gifted spare parts for the ship in June 2021 and April 2022 and also p
 
 [Data](articles/2baeb347.json)
 
+[Extended Data](ext_articles/2baeb347.ext.json)
+
 ---
 
 ### Upcountry train interrupts
@@ -663,6 +717,8 @@ The Treasury had given 28 billion rupees from tax payer money to settle loans.
 ...
 
 [Data](articles/44604a3c.json)
+
+[Extended Data](ext_articles/44604a3c.ext.json)
 
 ---
 
@@ -2167,79 +2223,5 @@ A few parts of the aircraft were damaged in connecting to the International Spac
 [Data](articles/305d83e8.json)
 
 [Extended Data](ext_articles/305d83e8.ext.json)
-
----
-
-### Factum Perspective: All president's persons are new companies in the Economic Transformation Bill
-
-*2024-06-22 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186696) · `ta`
-
-The Economic Transformation Bill introduces new integrated corporations in Sri Lanka, granting the president significant control over hiring and eliminating members, including leadership. These companies can manage their funds, hire globally, and are obligated to share information with select organizations and government departments. Concerns about potential misuse of power, compatibility with anti-corruption efforts, and the impact on economic policies dominate discussions. Critics argue for delays to ensure public support and avoid rushed decisions that could limit future administrations' flexibility.
-
-🟩
-
-The recent Gazette, the second part of May 10, 2024, comprises many brand new "integrated" corporations and a miraculous international ambassador to promote investment in Sri Lanka.
-
-Significantly, the power to hire and eliminate most members, including the leadership, seems to have come under the president's direct control.
-
-These responsibilities are currently empowered or replicated on companies that are currently proposed to new companies.
-
-They are authorized to hold their own funds, hire employees, establish branches abroad and have representatives and employees in other countries.
-
-They are legally obligated to request and obtain information from some selected organizations and other government departments. In addition to exceptional circumstances, such as the Right to Information Act, two new companies have confidential elements that prevent their employees from publishing information.
-
-...
-
-[Data](articles/e6e4ae8a.json)
-
-[Extended Data](ext_articles/e6e4ae8a.ext.json)
-
----
-
-### Information that many doctors are preparing to leave the country
-
-*2024-06-22 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186695) · `ta`
-
-Due to Sri Lanka's economic crisis, 25% of doctors are considering leaving the country. Over 1,800 doctors have emigrated since 2022, with an average of 200 leaving annually pre-pandemic. Many are preparing for exams to practice abroad, particularly in the UAE, Oman, the UK, and Australia.
-
-🟩
-
-The Government Medical Officers Association has said that 25 percent of the doctors who are brainwashed due to the economic crisis are ready to leave the country.
-
-State Medical Officers Association spokesman Samri Wijesinghe told a media that more than 1,800 doctors have left the country in the last two years 2022 and 2023.
-
-According to statistics from the Ministry of Health, an average of 200 doctors have left the country before the Corona virus infection in Sri Lanka in 2021.
-
-At least 25 percent of doctors who are currently working in government hospitals have passed the exams for work abroad and many others are more likely to follow them.
-
-In the United Arab Emirates or Oman, the special examination for the doctors should be for the exam.
-
-Must look for the examination of the professional and linguistic assessment group to engage in the medical field in the UK. In Australia, they have to appear for the Australian Medical Council examination.
-
-◼️
-
-[Data](articles/1860c26d.json)
-
-[Extended Data](ext_articles/1860c26d.ext.json)
-
----
-
-### Adapted Tax in 2025
-
-*2024-06-22 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198020) · `si`
-
-From Q1 2025, Sri Lanka's real estate tax takes effect, benefiting 90% of taxpayers.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says the real estate tax is effective since the first quarter of 2025.
-
-Speaking to the media, the public minister added that the 90 percent of these levy will benefit from this tax.
-
-◼️
-
-[Data](articles/11972b26.json)
-
-[Extended Data](ext_articles/11972b26.ext.json)
 
 ---

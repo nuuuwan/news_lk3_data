@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 06:02:45**
+As of **2024-06-23 06:24:27**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,621 (100.0%) of 31,622 articles have been extended.
+31,622 (100.0%) of 31,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### කාසියේ වාසිය ඔස්ට්‍රේලියාව ට
+### Australia to benefit from the coin
 
 *2024-06-23 05:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198039) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ තවත් තරගයක් අද (23) පැවැත්වෙයි.
+In the Twenty20 World Cup, Australia, benefiting from a strategic decision, chose to bowl in today's match against another team.
 
-එම තරගයේ කාසියේ වාසිය හිමිකරගත් ඔස්ට්‍රේලියානු කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+🟩
+
+Another match in the Twenty Twenty World Cup will be held today (23).
+
+The Australian team, which was advantage of the match, decided to return to bowling.
 
 ◼️
 
 [Data](articles/b5b21d26.json)
+
+[Extended Data](ext_articles/b5b21d26.ext.json)
 
 ---
 

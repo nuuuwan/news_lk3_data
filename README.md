@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 15:53:29**
+As of **2024-06-23 16:05:35**
 
 ## Newspaper Stats
 
-*Scraped **31,715** Articles*
+*Scraped **31,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,601
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,186
+adaderanasinhalalk | 5,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,713 (100.0%) of 31,715 articles have been extended.
+31,715 (100.0%) of 31,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### පුද්ගල ඝාතනයකට පාකිස්තානුවන් 27ක් අත්අඩංගුවට
+
+*2024-06-23 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198061) · `si`
+
+කුරානයට අපහාස කළ බව කියන පුද්ගලයෙකුව පාකිස්තානයේ ස්වාත් ප්‍රදේශයේදී වධහිංසනයට ලක්කර ඝාතනය කිරීමේ සිද්ධියකට සම්බන්ධ සැකකරුවන් 27 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 36 හැවිරිදි එරට පන්ජාබ් ප්‍රාන්තයේ පදිංචිකරුවෙකු බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ පුද්ගලයා කුරානයට අපහාස කළ බවට ලද පැමිණිල්ලකට අනුව පොලීසිය විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+
+කෙසේවෙතත් පොලිස් ස්ථානයට කඩා වැදී එහි දේපොළවලට ද පහරදී රථවාහනවලට ගිනි තැබූ පිරිසක් විසින් අත්අඩංගුවේ පසුවූ පුද්ගලයාව රැගෙන ගොස් ඇති බව ස්වාත් පොලිස් ප්‍රධානියා ප්‍රකාශ කළේය.
+
+පසුව එම පුද්ගලයාට අමානුෂික ලෙස පහරදී ඇති ඔවුන් ඔහුගේ සිරුරට  ගිනි තබා තිබේ.
+
+එම අවස්ථාවේ විශාල පිරිසක් එහි රැස්ව සිට ඇති අතර සිද්ධියට සම්බන්ධ සැකකරුවන් 27 දෙනෙකු මේ වන විට අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/23600adf.json)
+
+---
 
 ### Notice issued on functioning of schools tomorrow
 
@@ -49,6 +71,8 @@ The University Trade Union Joint Committee (UTUJC) stated that their strike acti
 ◼️
 
 [Data](articles/72adc1c0.json)
+
+[Extended Data](ext_articles/72adc1c0.ext.json)
 
 ---
 
@@ -70,21 +94,29 @@ The Ministry of Education has issued a statement that school activities will be 
 
 ---
 
-### வெளிநாட்டு மாணவர்களுக்கு   கிரீன் கார்டு
+### Green card for foreign students
 
 *2024-06-23 15:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளிநாட்டு-மாணவர்களுக்கு-கிரீன்-கார்டு/50-339288) · `ta`
 
-அமெரிக்க ஜனாதிபதியாக இருந்த டொனால்ட் டிரம்ப் குடியுரிமை விவகாரத்தில் மிகவும் கண்டிப்பானவர். வெளிநாட்டவர்களுக்கு விசா வழங்கும் விஷயத்தில் மற்ற தலைவர்களை எதிர்த்தார்.
+Donald Trump, a Republican presidential candidate, proposed allowing foreign students who graduate from U.S. colleges to automatically receive a green card, aiming to retain talent and encourage entrepreneurship.
 
-புலம்பெயர்ந்த தொழிலாளர்கள் தங்கள் நாட்டிற்கு திரும்பிச் செல்லக்கூடிய சூழ்நிலையை அவர் எதிர்கொண்டார். அமெரிக்கா, அமெரிக்கர்களுக்கானது என்ற கொள்கை கொண்டவர்.
+🟩
 
-தற்போது மீண்டும் குடியரசு கட்சி சார்பில் ஜனாதிபதி பதவிக்கு போட்டியிடுகிறார். ஜனாதிபதி தேர்தல் நவம்பர் மாதம் நடைபெறவுள்ளது. இந்த நிலையில், குடியுரிமை குறித்த தனது முந்தைய உரையில் இருந்து அவர் பின்வாங்கியுள்ளார்.
+Donald Trump, the US president, is the most strict in the citizenship affair. He opposed other leaders in the matter of issuing a visa to foreigners.
 
-போட்காஸ்ட் ஒன்றில் பேசிய டொனால்ட் டிரம்ப், இங்குள்ள கல்லூரிகளில் பட்டம் பெறும் வெளிநாட்டவர்களுக்கு கிரீன் கார்டு வழங்கலாம் என்று கூறினார். "நீங்கள் கல்லூரியில் பட்டம் பெற்றால், உங்கள் படிப்பின் ஒரு பகுதியாக தானாகவே கிரீன் கார்டு கிடைக்கும் என்று நான் நினைக்கிறேன்.
+He faced the situation where migrant workers could return to their country. The United States has the principle of Americans.
+
+Currently contesting for the presidency on behalf of the Republican Party. The presidential election is scheduled for November. In this case, he has withdrawn from his previous speech on citizenship.
+
+Speaking at one of the Bottcast, Donald Trump said the green card could be issued to foreigners who graduate from the colleges here.. “If you graduate from college, I think you will automatically get a green card as part of your study.
+
+Green card is necessary to stay in this country. This includes junior colleges, ”he said. Also, “Graduates at leading colleges or universities will plan to stay here and start the company.
 
 ...
 
 [Data](articles/52408f61.json)
+
+[Extended Data](ext_articles/52408f61.ext.json)
 
 ---
 
@@ -2359,31 +2391,5 @@ The Aloka Pooja will also be held today (22) and tomorrow.
 [Data](articles/10bc09ab.json)
 
 [Extended Data](ext_articles/10bc09ab.ext.json)
-
----
-
-### Tantirimale Aloka Pooja today
-
-*2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/religion/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/4-410364) · `si`
-
-The Lankadeepa Pubadeepa PLC, under the Vijaya Newspaper Company, started its third annual Aloka Pooja event yesterday. Notable attendees included President Ranil Wickremesinghe, Deputy Leader of the UNP Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena, and IGP Deshabandulu Tennakoon. The event involves briefings for Dhamma School students, who receive gifts and certificates. The Aloka Pooja continues today and tomorrow.
-
-🟩
-
-The Lankadeepa Pubadeepa PLC, organizing the Vijaya Newspaper Company (Lankapuvath) commenced the 3rd consecutive year, commenced yesterday (21).
-
-President Ranil Wickremesinghe, Chairman of the Maha Sanghalam, Ven.
-
-Deputy Leader of the UNP, Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena and IGP, Deshabandulu Tennakoon, were also present.
-
-The briefing of Dhamma School students and eventually provide valuable gifts and certificates to the students.
-
-The Aloka Pooja will also be held today (22) and tomorrow.
-
-◼️
-
-[Data](articles/a6096dcc.json)
-
-[Extended Data](ext_articles/a6096dcc.ext.json)
 
 ---

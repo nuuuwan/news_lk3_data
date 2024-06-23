@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 19:34:57**
+As of **2024-06-23 19:52:21**
 
 ## Newspaper Stats
 
-*Scraped **31,737** Articles*
+*Scraped **31,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,76 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,780
+adalk | 2,781
 adaderanalk | 3,606
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
-virakesarilk | 4,919
-adaderanasinhalalk | 5,194
+virakesarilk | 4,921
+adaderanasinhalalk | 5,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,735 (100.0%) of 31,737 articles have been extended.
+31,737 (100.0%) of 31,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### සත්ත්ව නිෂ්පාදන ආනයනය ගැන ගත් තීරණය
+### කාසියේ වාසිය එංගලන්තය ට
+
+*2024-06-23 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198069) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ එංගලන්තය සහ අමෙරිකාව අතර තරගය අද (23) පැවැත්වෙයි.
+
+ඒ අනුව ජෝස් බට්ලර් තීරණය කළේ පළමුව පන්දුවට පහරදීමේ අවස්ථාව අමෙරිකාවට ලබා දීමටය.
+
+◼️
+
+[Data](articles/1367b1d8.json)
+
+---
+
+### பொலிசாரின் சன்மான பணத்தை மோசடி செய்த பொலிஸ் சாஜன் ஒருவருக்கு பணி இடைநீக்கம்
+
+*2024-06-23 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186790) · `ta`
+
+பொலன்னறுவை பொலிசாருக்கு வழங்கும் சன்மான பணமான 74 இலட்சம் ரூபாவை மோசடி செய்த குற்றச்சாட்டில் கைது செய்து பிணையில் வெளிவந்த ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றிவரும் பொலிஸ் சாஜன் ஒருவரை வெள்ளிக்கிழமை (21) பணியிலிருந்து இடை நீக்கம் செய்யப்பட்டுள்ளதாக ஏறாவூர் பொலிசார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் சாஜன் 2021ம் ஆண்டு பொலன்னறுவை பொலிஸ் நிலையத்தில் போக்குவரத்து பிரிவில் கடமையாற்றி வந்த போது அங்கு பொலிசாருக்கு சன்மானமாக வழங்கும் பணமான 74 இலட்சம் ரூபாவை மோசடி செய்துள்ள நிலையில் இடமாற்றம் பெற்று ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றி வந்துள்ளார்.
+
+இந்த நிலையில் இந்த மோசடி தொடர்பாக பொலன்னறுவை விசேட குற்றப் புலன் விசாரணைப் பிரிவினர் விசாரணைகளை மேற்கொண்டுவந்த நிலையில் இவரைக் கடந்த 18 ம் திகதி கைது செய்து பொலன்னறுவை நீதிமன்றில் ஆஜர்படுத்தப்பட்டு பிணையில் வெளிவந்துள்ளார்.
+
+இவ்வாறு பிணையில் வெளிவந்தவரை உடனடியாக பணியிலிருந்து இடைநீக்கம் செய்யப்பட்டுள்ளதாக பொலிஸ் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3a2694d2.json)
+
+---
+
+### Decision on Importation of Animal Products
 
 *2024-06-23 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198068) · `si`
 
-කුරුළු උණ රෝගය වාර්තා වී ඇති කිසිදු රටකින් සතුන් හෝ සත්ත්ව නිෂ්පාදන මෙරටට ආනයනය කිරීමට අවසර ලබා නොදෙන බව සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව අවධාරණය කරයි.
+The Animal Production and Health Department has banned importing animals or animal products due to bird fever concerns. Despite this, measures to support affected countries remain in place. The Director General highlighted the seriousness of the disease found in U.S. cows but stressed the strengthening of the country's life survival program and warned against misuse of the term "bird fever."
 
-එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්, ආචාර්ය හේමාලි කොතලාවල මහත්මිය පවසන්නේ රටවල් කිහිපයක යළි හිස ඔසවා ඇති කුරුළු උණ රෝග කාරක වෛරසය මෙරටට ඇතුළුවීම වැළැක්වීම සඳහා ගෙන ඇති පියවර අඛණ්ඩව ක්‍රියාත්මක කරන බවයි.
+🟩
 
-පළමුවරට අමෙරිකා එක්සත් ජනපදයේ ගවයින් ආශ්‍රිතව ද මෙම රෝගය වාර්තාවීම දරුණු තත්ත්වයක් බව ද අධ්‍යක්ෂ ජනරාල්වරිය පැවසුවාය.
+The Animal Production and Health Department emphasizes that the bird fever has not been allowed to import animals or animal products to the country.
 
-එසේ වුවත් මෙරට තුළ ක්‍රියාත්මක වන රෝග ආවේක්ෂණ වැඩපිළිවෙළ තවදුරටත් ශක්තිමත් කර ඇති  බැවින් කුරුළු උණ රෝගය පිළිබඳව අනිසි බියක් ඇති කර ගත යුතු නොමැති බව ඇය අවධාරණය කළාය.
+The Director General of the Department, Dr. Heali Kotelawala says that the steps taken to prevent the back of the burden of the bird victims of several countries continues to be implemented.
+
+The Director General also said that the diagnosis of cows in the United States for the first time is a serious situation.
+
+However, she emphasized that the life survival program of the country has further strengthened, "she emphasized that the bird fever should not be misused.
 
 ◼️
 
 [Data](articles/46dc3923.json)
+
+[Extended Data](ext_articles/46dc3923.ext.json)
 
 ---
 
@@ -65,6 +103,8 @@ The Parliamentarian, who was a researcher on epidemic kidney disease in agricult
 ...
 
 [Data](articles/7034bcd2.json)
+
+[Extended Data](ext_articles/7034bcd2.ext.json)
 
 ---
 
@@ -85,6 +125,26 @@ Mr. A.A.M. Thassim has over 31 years of service at the CBSL in different capacit
 [Data](articles/803f0e58.json)
 
 [Extended Data](ext_articles/803f0e58.ext.json)
+
+---
+
+### ரி20 உலகக் கிண்ண அரை இறுதிக்கு செல்லும் முதலாவது அணிகள் எவை? இன்றும் நாளையும் தீர்மானம் மிக்க போட்டிகள்
+
+*2024-06-23 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186789) · `ta`
+
+ஐக்கிய அமெரிக்காவும் மேற்கிந்தியத் தீவுகளும் கூட்டாக நடத்தும் 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் அரை இறுதிக்கு செல்லப்போகும் முதலாவது அணிகள் எவை என்பதைத் தீர்மானிக்கும் குழு 2க்கான சுப்பர் 8 போட்டிகள் இன்றும் நாளையும் நடைபெறவுள்ளன.
+
+பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் இன்று இரவு நடைபெறவுள்ள போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை வரவேற்பு நாடுகளில் ஒன்றான ஐக்கிய அமெரிக்கா எதிர்த்தாடவுள்ளது.
+
+இதேவேளை இக் குழுவில் முதல் இரண்டு இடங்களில் உள்ள தென் ஆபிரிக்கா (4 புள்ளிகள்), முன்னாள் சம்பியனும் மற்றொரு வரவேற்பு நாடுமான மேற்கிந்தியத் தீவுகள் ஆகிய அணிகள் மோதும் போட்டி அன்டிகுவா, நோர்த் சவுண்ட் சேர் விவியன் றிச்சர்ட்ஸ் விளையாட்டரங்கில் நாளைக் காலை நடைபெறவுள்ளது.
+
+இன்றைய போட்டியில் இங்கிலாந்து வெற்றிபெற்றால் இக் குழுவிலிருந்து அரை இறுதித் தகுதயைப் பெறுவதற்கு 3 அணிகளுக்கு இடையில் போட்டி நிலவும்.
+
+ஐக்கிய அமெரிக்கா வெற்றிபெற்றால் தென் ஆபிரிக்கா முதாலாவது அணியாக அரை இறுதியில் விளையாட தகுதிபெறும்.
+
+...
+
+[Data](articles/e2db0605.json)
 
 ---
 
@@ -323,6 +383,22 @@ It is reported that five persons arrested have been detained and investigations 
 [Data](articles/83a47b50.json)
 
 [Extended Data](ext_articles/83a47b50.ext.json)
+
+---
+
+### චමුදිත පදිංචි නිවාස සංකීර්ණය අසලට ආ පුද්ගලයන්  දෙදෙනා හඳුනා ගැනීමට සීසීටීවී දර්ශන ඔස්සේ විමර්ශන
+
+*2024-06-23 16:42:14* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-පදිංචි-නිවාස-සංකීර්ණය-අසලට-ආ-පුද්ගලයන්--දෙදෙනා-හඳුනා-ගැනීමට-සීසීටීවී-දර්ශන-ඔස්සේ-විමර්ශන/11-410380) · `si`
+
+ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා පදිංචිව සිටිනපිළියන්දල වෑවල කේම්බ්‍රීජ් කෝට්  නිවාස සංකීර්ණයේ පිවිසුමේ ප්‍රධාන දොරටුව අසලට ඉකුත් (20) රාත්‍රී පැමි ඇතුළු වීමට උත්සාහ දැරූ නාඳුනන පුද්ගලයන් දෙදෙනා හඳුනා ගැනීම සඳහා  සීසීටීවී දර්ශන ඔස්සේ විමර්ශන සිදු කරන බව පිළියන්දල පොලිසිය කියයි.
+
+එම අවස්ථාවේදී ප්‍රධාන දොරටුවේ රාජකාරී කරමින් සිටි ආරක්ෂක නිලධාරියාව පිළියන්දල පොලිසියට කැඳවා ප්‍රකාශ ලබා ගත් බවද පොලිස් නිලධාරියකු පැවසීය.
+
+එම පුද්ගලයන් දෙදෙනා ප්‍රධාන දොරටුව අසලට පැමිණි අවස්ථාවේදී  ඔවුන් කාගේ නිවසට යන්නේ දැයි විමසීමේදී කිසිදු පුද්ගලයෙකුගේ නමක් සඳහන් නොකළ බවත් එම නිලධාරියාගේ ප්‍රකාශයකින් අනාවරණය වූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/499be553.json)
 
 ---
 
@@ -2367,81 +2443,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/97dd79a0.json)
 
 [Extended Data](ext_articles/97dd79a0.ext.json)
-
----
-
-### AIA’s top performers represent Lanka at President Club Convention in Cannes
-
-*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/aias-top-performers-represent-lanka-at-president-club-convention-in-cannes/) · `en`
-
-The AIA Insurance’s outstanding wealth planners represented Sri Lanka at the AIA President Club Convention in Cannes, France. Marking its 12th consecutive year, Sri Lanka’s participation highlighted AIA Sri Lanka’s consistent excellence at this prestigious global event.
-
-This year, 268 elite Leaders and Agents from 18 different AIA markets convened in France for a truly unique convention that blended training, inspiration, leisure and awards across five days.
-
-The Sri Lankan delegation comprised Sanjeewani Somarathne, K Piran, P A Ruwini Chaturangika, W A Osaka, Ajith Fernando, Yashoda Rupasinghe, Rasika Sandakelum, K. Gamini, Krishan Dassanayaka, S S Priyantha Dias, Vinol Priyasenarath, Indunil Kumari, AIA Sri Lanka’s CEO Chathuri Munaweera, Deputy CEO Upul Wijesinghe, and the Chief Agency Officer Chanaka Liyanage.
-
-Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
-
-...
-
-[Data](articles/bb3cf987.json)
-
-[Extended Data](ext_articles/bb3cf987.ext.json)
-
----
-
-### Australia to benefit from the coin
-
-*2024-06-23 05:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198039) · `si`
-
-In the Twenty20 World Cup, Australia, benefiting from a strategic decision, chose to bowl in today's match against another team.
-
-🟩
-
-Another match in the Twenty Twenty World Cup will be held today (23).
-
-The Australian team, which was advantage of the match, decided to return to bowling.
-
-◼️
-
-[Data](articles/b5b21d26.json)
-
-[Extended Data](ext_articles/b5b21d26.ext.json)
-
----
-
-### Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
-
-*2024-06-23 04:48:00* · [`islandlk`](http://island.lk/axiatas-telecom-chief-foresees-1-trillion-opportunity-for-global-telcos/) · `en`
-
-Axiata Group CEO and Executive Director, Dr Hans Wijayasuriya says the telecommunications industry needs to look past its mistakes of not adopting new technologies fast enough and seize the opportunities in AI.Speaking as a keynote speaker at Digital Transformation World (DTW24 Ignite) in Copenhagen on June 19, Dr Wijayasuriya said that the telecom sector stands on the cusp of a transformative era.
-
-Dr Wijayasuriya highlighted the potential for telcos to tap into a growing $1tn by moving beyond traditional connectivity to offering end-to-end solutions. He said that it’s time for telcos to unite on a global level to access this emerging market. The future of telecom lies in shifting from simply providing connectivity to offering comprehensive digital solutions. The current challenge for telcos is not just about growth and that significant value can be unlocked by addressing customer demands for new ways to purchase services.
-
-...
-
-[Data](articles/04feced6.json)
-
-[Extended Data](ext_articles/04feced6.ext.json)
-
----
-
-### New pain and fever relief tablet ‘Meldol’ launched by Sands Active
-
-*2024-06-23 04:47:00* · [`islandlk`](http://island.lk/new-pain-and-fever-relief-tablet-meldol-launched-by-sands-active/) · `en`
-
-Meldol, a 500 mg Paracetamol BP tablet offering reliable relief from pain and fever, manufactured by Sands Active Pvt. Ltd., was officially launched on 6 June at a ceremony held at Ekala in the presence of President Ranil Wickremesinghe, Minister of Tourism, Land, Sports and Youth Affairs, Harin Fernando, Chief of Staff and National Security Advisor to the President, Sagala Ratnayake, former Minister of Health, Nutrition and Indigenous Medicine Dr Rajitha Senaratne, and directors of the Melwa Group. During the event, a new Cephalosporin Injectable Plant owned by Sands Active Pvt. Ltd was also inaugurated by the President.
-
-Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/0e9554d5.json)
-
-[Extended Data](ext_articles/0e9554d5.ext.json)
 
 ---

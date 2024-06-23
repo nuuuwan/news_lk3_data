@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 12:19:19**
+As of **2024-06-23 12:34:46**
 
 ## Newspaper Stats
 
-*Scraped **31,676** Articles*
+*Scraped **31,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,769
-adaderanalk | 3,594
+adalk | 2,770
+adaderanalk | 3,596
 tamilmirrorlk | 3,718
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,179
+adaderanasinhalalk | 5,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,676 (100.0%) of 31,676 articles have been extended.
+31,676 (100.0%) of 31,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Two youths dead, two critical after bus collides head-on with three-wheeler
+
+*2024-06-23 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100042/two-youths-dead-two-critical-after-bus-collides-head-on-with-three-wheeler) · `en`
+
+Two persons have been killed, while two others sustained critical injuries after a bus carrying a group of people going on an excursion towards Anuradhapura, collided head-on with a three-wheeler in Thalawa on the Anuradhapura – Padeniya main road, early this morning (23).
+
+The driver and three passengers in the three-wheeler who sustained critical injuries in the collision had been rushed to Thalawa Hospital.
+
+However, the driver and one of the passengers of the three-wheeler have succumbed to their injuries upon admission to the hospital, the police said.
+
+The remaining two injured individuals have been referred to Anuradhapura Teaching Hospital for further treatment.
+
+Police said that the deceased, aged 19 and 21, were residents of the Eppawala area.
+
+Their bodies have been placed at the mortuary of the Thalawa Hospital.
+
+The bus driver has been arrested, and Thalawa police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/dba4cd39.json)
+
+---
+
+### පොලීසියට දැමූ සෙල්ලම - තරුණයින් තිදෙනෙක් අත්අඩංගුවට
+
+*2024-06-23 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198054) · `si`
+
+තීරු බදු නොගෙවා මෙරටට ආනයනය කළ බවට සැක කෙරෙන රුපියල් කෝටි 1 1/2ක් පමණ වටිනා අධි ධාරිතාවෙන් යුත් යතුරුපැදි තුනක් ධාවනය කරමින් සිටි තරුණයන් තිදෙනෙක් පැපිලියානේදී අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් තරුණයන් තිදෙනා අතර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ උසස් නිලධාරියකුගේ පුතෙකුද සිටින බව පොලීසිය කීය.
+
+යතුරුපැදි තුනෙන් දෙකක ලියාපදිංචි අංක තහඩු සවිකර තිබූ අතර එම එක් යතුරු පැදියක සවිකර ඇත්තේ අත්අඩංගුවට ගත් තරුණයෙකුගේ මවකගේ නමට ලියාපදිංචි කර ඇති ස්කූටර් යතුරු පැදියක ලියාපදිංචි අංක තහඩුව බව පොලීසිය සිදු කරන ලද මූලික විමර්ශනවලදී අනාවරණය විය.
+
+...
+
+[Data](articles/7cf1e192.json)
+
+---
 
 ### Sri Lankan Airlines’ future is bright, whether privatised or not – CEO
 
@@ -47,6 +87,22 @@ Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet moder
 [Data](articles/0601def3.json)
 
 [Extended Data](ext_articles/0601def3.ext.json)
+
+---
+
+### SriLankan Airlines’ future is bright, whether privatised or not – CEO
+
+*2024-06-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100041/srilankan-airlines-future-is-bright-whether-privatised-or-not-ceo) · `en`
+
+SriLankan Airlines will spread its wings across the Middle East region after acquiring more aircraft on lease this year to strengthen its fleet, its top official says.
+
+Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet modernisation plays an important in the carrier’s turnaround as well as caters to growing passengers demand in the region. He said the airline will strengthen its current fleet of 21 to 22 in July, with plans to add three more aircraft within the next three months to increase the tally to 25 aircraft this year.
+
+“We are aiming to boost SriLankan Airlines fleet with more leased aircraft that will help increase frequency on existing routes as well as add two or three new routes. The airline will place major orders for fleet replacement after its restructuring is completed under the International Monetary Funds (IMF) programme,” Nuttall told Khaleej Times during his recent visit to Dubai.
+
+...
+
+[Data](articles/8f8931d4.json)
 
 ---
 
@@ -237,6 +293,22 @@ President Ranil Wickremesinghe led the baton charge on Tuesday morning, explaini
 [Data](articles/6301bd18.json)
 
 [Extended Data](ext_articles/6301bd18.ext.json)
+
+---
+
+### Ranasinghe Premadasa Birth Centenary – An evergreen leader
+
+*2024-06-23 10:33:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-birth-centenary-an-evergreen-leader/) · `en`
+
+“All theory is grey… But forever green is the tree of life. “Goethe (Faust)
+
+For three months in late 1990’s, American author and political activist Barbara Ehrenreich lived the life of a low-wage worker. She wanted to discover, first hand, how President Bill Clinton’s welfare reforms were impacting on the lives of the working poor. Her experiences gave birth to her most celebrated book, Nickle and Dimed: On (Not) Getting By in America. In it, she focuses on the phenomenon of employed-homeless, workers who often do more than one job but are still unable to afford a roof over their heads. The conjunction of low wages and high rents create poverty traps from which few workers escape, Ehrenreich notes.
+
+...
+
+[Data](articles/f6a2cedc.json)
+
+[Extended Data](ext_articles/f6a2cedc.ext.json)
 
 ---
 
@@ -571,6 +643,24 @@ This is due to this due to the Badulla Fort, the Railway Department said.
 [Data](articles/b0646b7a.json)
 
 [Extended Data](ext_articles/b0646b7a.ext.json)
+
+---
+
+### ත්‍රිකුණාමලය ප්‍රධාන අපනයන ආර්ථිකයක් බවට පරිවර්තනය කරනවා
+
+*2024-06-23 08:39:05* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-ප්‍රධාන-අපනයන-ආර්ථිකයක්-බවට-පරිවර්තනය-කරනවා/11-410366) · `si`
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” රජයේ ජාතික වැඩපිළිවෙළට සමගාමීව මඩකලපුව දිස්ත්‍රික්කයේ ඉඩම් අයිතිය නොමැති පවුල් 27,595කට ඉඩම් ඔප්පු ලබාදීම සංකේතවත් කරමින් පවුල්  192ක් සඳහා ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් මඩකලපුව, තිරයිමඩු දිස්ත්‍රික්  ලේකම්  කාර්යාලයීය පරිශ්‍රයේදී පැවති උත්සවයට එක් වෙමිනි.
+
+දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 14 ආවරණය වන පරිදි මෙම ඉඩම් ඔප්පු ප්‍රදානය සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව ඊට එක් විය.
+
+මීට අමතරව උසස් ජාතික ඉංජිනේරු ඩිප්ලෝමා ආයතනයේ ඉංග්‍රීසි ඩිප්ලෝමධාරීන්  252 දෙනෙකුට ගුරු පත්වීම් ලබාදීම ද අද ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණි.
+
+මේ අතර රුපියල් මිලියන 1,055ක වියදමින් මඩකලපුව තිරායිමඩු ප්‍රදේශයේ ඉදිකළ නව දිස්ත්‍රික් ලේකම් කාර්යාල ගොඩනැගිල්ල අද විවෘත කෙරුණේද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතිනි.
+
+...
+
+[Data](articles/4d661a5d.json)
 
 ---
 
@@ -1794,22 +1884,6 @@ Outsidating temperatures outside the Derwentan Rid of Dervent Rid of Dervent Rel
 
 ---
 
-### Ranasinghe Premadasa Birth Centenary – An evergreen leader
-
-*2024-06-22 17:17:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-birth-centenary-an-evergreen-leader/) · `en`
-
-“All theory is grey… But forever green is the tree of life. “Goethe (Faust)
-
-For three months in late 1990’s, American author and political activist Barbara Ehrenreich lived the life of a low-wage worker. She wanted to discover, first hand, how President Bill Clinton’s welfare reforms were impacting on the lives of the working poor. Her experiences gave birth to her most celebrated book, Nickle and Dimed: On (Not) Getting By in America. In it, she focuses on the phenomenon of employed-homeless, workers who often do more than one job but are still unable to afford a roof over their heads. The conjunction of low wages and high rents create poverty traps from which few workers escape, Ehrenreich notes.
-
-...
-
-[Data](articles/f6a2cedc.json)
-
-[Extended Data](ext_articles/f6a2cedc.ext.json)
-
----
-
 ### Fonseka's led by Sajith's celebration
 
 *2024-06-22 17:15:15* · [`adalk`](https://www.ada.lk/breaking_news/ෆොන්සේකා-සජිත්-විවේනය-කරන්නේ-ජනපති-අපේක්ෂකත්වය-නොදුන්-නිසාලු/11-410359) · `si`
@@ -2155,79 +2229,5 @@ The party leader Dilith Jayaweera was appointed in a press conference held today
 [Data](articles/70094cc1.json)
 
 [Extended Data](ext_articles/70094cc1.ext.json)
-
----
-
-### Arun Siddharth appointed MJP Jaffna District Organiser
-
-*2024-06-22 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100026/arun-siddharth-appointed-mjp-jaffna-district-organiser) · `en`
-
-Political and social activist Arun Siddharth has been appointed as the Jaffna District Organiser and a Supreme Council member of the Mawbima Janatha Party (MJP).
-
-◼️
-
-[Data](articles/3c394d8a.json)
-
-[Extended Data](ext_articles/3c394d8a.ext.json)
-
----
-
-### Elderly death in an accident - 14 people injured
-
-*2024-06-22 14:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கோர-விபத்தில்-மூதாட்டி-மரணம்-14-பேர்-படுகாயம்/72-339242) · `ta`
-
-A crash involving a Hayas vehicle resulted in 14 injuries and one fatality near Mannar-Madawachi. Victims were hospitalized, with seven transferred for further care.
-
-🟩
-
-14 people were injured when a Hayas vehicle crashed into an electric pole yesterday evening (21) in the Mannar -Madawachi main road, Murungan Police Division.
-
-All those injured in the accident were taken to Murugan Hospital and seven persons were transferred to the Mannar District General Hospital for further treatment.
-
-◼️
-
-[Data](articles/e41eb60d.json)
-
-[Extended Data](ext_articles/e41eb60d.ext.json)
-
----
-
-### Tunisian president sacks minister after the death of dozens on Haj pilgrimage
-
-*2024-06-22 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100025/tunisian-president-sacks-minister-after-the-death-of-dozens-on-haj-pilgrimage) · `en`
-
-Tunisian President Kais Saied sacked Brahim Chaibi, the minister of religious affairs, following widespread criticism after the deaths of dozens of Tunisians taking part in the Haj pilgrimage, the presidency said on Friday.
-
-At least 49 Tunisians have died due to the extreme heat in Saudi Arabia during the past week. Tunisian families are still searching for several missing people.
-
-◼️
-
-[Data](articles/d152cefe.json)
-
-[Extended Data](ext_articles/d152cefe.ext.json)
-
----
-
-### Boeing Starlinger astronauts in another crisis
-
-*2024-06-22 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198021) · `si`
-
-Boeing's Starliner spacecraft, carrying astronauts Sunny Williams and Bob Behnken, docked with the ISS but suffered damage during docking, including a helium leak. This marks its inaugural flight, which occurred on April 26th. The crew now faces challenges as they prepare for a safe return to Earth.
-
-🟩
-
-Boeing Company Starleiner, carrying aeronautical Sunny Williams and Boech Wilmore, arrived at the International Space Station.
-
-However, when the starlerr plane and damaged the Starlerr's plane, the return to the earth will return to the Earth.
-
-This is the first journey of the Starlerinner, and it was on the 26th of this month.
-
-A few parts of the aircraft were damaged in connecting to the International Space Station, a helium leak was reported.
-
-◼️
-
-[Data](articles/305d83e8.json)
-
-[Extended Data](ext_articles/305d83e8.ext.json)
 
 ---

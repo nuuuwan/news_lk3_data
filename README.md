@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 06:24:27**
+As of **2024-06-23 07:01:12**
 
 ## Newspaper Stats
 
-*Scraped **31,622** Articles*
+*Scraped **31,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 290
 dbsjeyarajcom | 292
 bbccomsinhala | 311
 newsfirstlk | 363
-islandlk | 1,740
+islandlk | 1,754
 economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,764
@@ -20,17 +20,83 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,712
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,165
+adaderanasinhalalk | 5,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,622 (100.0%) of 31,622 articles have been extended.
+31,622 (100.0%) of 31,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2024-06-23 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198040) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+උතුරු පළාතෙත් මාතලේ සහ අනුරාධපුර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/a843b864.json)
+
+---
+
+### SLT-MOBITEL Home Telephone offers unlimited calls
+
+*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/slt-mobitel-home-telephone-offers-unlimited-calls/) · `en`
+
+SLT-MOBITEL has unveiled an unlimited voice calling package tailored specially for families and small businesses.SLT-MOBITEL recognises that customers rely on SLT-MOBITEL’s fixed line services for clear, uninterrupted voice communication. The Unlimited Voice Package caters to this need comprehensively by removing all limitations on calling while providing the expected superior quality and reliability of its fixed line network
+
+SLT-MOBITEL understands that the home phone is often a shared family resource. A key highlight is the package’s family-friendly approach, enabling the entire household to enjoy unlimited calling without restrictions. The package therefore embraces this reality enabling all family members and other customers who use a fixed line unlimited calls at an affordable price.
+
+...
+
+[Data](articles/138fdb13.json)
+
+---
+
+### Ceylinco Life’s star performers celebrate their wins in Dubai
+
+*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/ceylinco-lifes-star-performers-celebrate-their-wins-in-dubai/) · `en`
+
+Top performing sales professionals of Ceylinco Life recently celebrated their career successes for Sri Lanka’s life insurance market leader with a company-hosted holiday in Dubai. The 16-member group comprising of the achievers of Ceylinco Life’s ‘Sales Superstar’ competition targets, and the winners of another sales competition held for Ceylinco Life sales officers, toured the Gold and Souk and Spice Souk, enjoyed an Abra ride and a monorail ride to Palm Jumeirah, visited the Burj Khalifa and the Musical Fountain show, and experienced a desert safari with a barbeque night, camel riding, henna painting, a fire show, and traditional tanoura and belly dancing. Pictured here is the Group that visited Dubai for four days.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/97dd79a0.json)
+
+---
+
+### AIA’s top performers represent Lanka at President Club Convention in Cannes
+
+*2024-06-23 05:56:00* · [`islandlk`](http://island.lk/aias-top-performers-represent-lanka-at-president-club-convention-in-cannes/) · `en`
+
+The AIA Insurance’s outstanding wealth planners represented Sri Lanka at the AIA President Club Convention in Cannes, France. Marking its 12th consecutive year, Sri Lanka’s participation highlighted AIA Sri Lanka’s consistent excellence at this prestigious global event.
+
+This year, 268 elite Leaders and Agents from 18 different AIA markets convened in France for a truly unique convention that blended training, inspiration, leisure and awards across five days.
+
+The Sri Lankan delegation comprised Sanjeewani Somarathne, K Piran, P A Ruwini Chaturangika, W A Osaka, Ajith Fernando, Yashoda Rupasinghe, Rasika Sandakelum, K. Gamini, Krishan Dassanayaka, S S Priyantha Dias, Vinol Priyasenarath, Indunil Kumari, AIA Sri Lanka’s CEO Chathuri Munaweera, Deputy CEO Upul Wijesinghe, and the Chief Agency Officer Chanaka Liyanage.
+
+Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
+
+...
+
+[Data](articles/bb3cf987.json)
+
+---
 
 ### Australia to benefit from the coin
 
@@ -49,6 +115,64 @@ The Australian team, which was advantage of the match, decided to return to bowl
 [Data](articles/b5b21d26.json)
 
 [Extended Data](ext_articles/b5b21d26.ext.json)
+
+---
+
+### Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
+
+*2024-06-23 04:48:00* · [`islandlk`](http://island.lk/axiatas-telecom-chief-foresees-1-trillion-opportunity-for-global-telcos/) · `en`
+
+Axiata Group CEO and Executive Director, Dr Hans Wijayasuriya says the telecommunications industry needs to look past its mistakes of not adopting new technologies fast enough and seize the opportunities in AI.Speaking as a keynote speaker at Digital Transformation World (DTW24 Ignite) in Copenhagen on June 19, Dr Wijayasuriya said that the telecom sector stands on the cusp of a transformative era.
+
+Dr Wijayasuriya highlighted the potential for telcos to tap into a growing $1tn by moving beyond traditional connectivity to offering end-to-end solutions. He said that it’s time for telcos to unite on a global level to access this emerging market. The future of telecom lies in shifting from simply providing connectivity to offering comprehensive digital solutions. The current challenge for telcos is not just about growth and that significant value can be unlocked by addressing customer demands for new ways to purchase services.
+
+...
+
+[Data](articles/04feced6.json)
+
+---
+
+### New pain and fever relief tablet ‘Meldol’ launched by Sands Active
+
+*2024-06-23 04:47:00* · [`islandlk`](http://island.lk/new-pain-and-fever-relief-tablet-meldol-launched-by-sands-active/) · `en`
+
+Meldol, a 500 mg Paracetamol BP tablet offering reliable relief from pain and fever, manufactured by Sands Active Pvt. Ltd., was officially launched on 6 June at a ceremony held at Ekala in the presence of President Ranil Wickremesinghe, Minister of Tourism, Land, Sports and Youth Affairs, Harin Fernando, Chief of Staff and National Security Advisor to the President, Sagala Ratnayake, former Minister of Health, Nutrition and Indigenous Medicine Dr Rajitha Senaratne, and directors of the Melwa Group. During the event, a new Cephalosporin Injectable Plant owned by Sands Active Pvt. Ltd was also inaugurated by the President.
+
+Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/0e9554d5.json)
+
+---
+
+### Sri Lanka Insurance City Office Branch relocated
+
+*2024-06-23 04:46:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-city-office-branch-relocated-2/) · `en`
+
+...
+
+[Data](articles/dc648eb0.json)
+
+---
+
+### Dr. Pramila Ranasinghe and Vcare Skin Clinic shine at BWIO and Asia Miracle Awards
+
+*2024-06-23 04:44:00* · [`islandlk`](http://island.lk/dr-pramila-ranasinghe-and-vcare-skin-clinic-shine-at-bwio-and-asia-miracle-awards/) · `en`
+
+Vcare Skin Clinic and its Founder and Chief Executive Officer (CEO), Dr. Pramila Ranasinghe received two awards at the Business World International Awards 2023. Dr. Ranasinghe was recognised as the Best Professional of the Year (Medium-Gold) in the Healthcare and Related Services category. In addition, Vcare Skin Clinic won the award for Best Skincare Clinic of the Year (Medium-Platinum). Vcare Skin Clinic was also awarded as the Best Skin Care Clinic Brand of the Year at Asia Miracle Awards 2024 organised by the MUGP International Organisation.
+
+The Business World International Awards ceremony, organised by the Business World International Organisation (BWIO), was recently held at the Taj Samudra Hotel in Colombo. The event was graced by the presence of Speaker of Parliament Mahinda Yapa Abeywardena, along with numerous other distinguished guests, including politicians, foreign diplomats, and senior government officials.
+
+HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
+
+...
+
+[Data](articles/a2371d5c.json)
 
 ---
 
@@ -307,6 +431,46 @@ Bangladesh won the advantage of the match first.
 [Data](articles/695bb62f.json)
 
 [Extended Data](ext_articles/695bb62f.ext.json)
+
+---
+
+### Free-Markets Pre-Date Capitalism
+
+*2024-06-22 19:22:00* · [`islandlk`](http://island.lk/free-markets-pre-date-capitalism/) · `en`
+
+Gobeli Teppe is the best known of half a dozen sites which have captured the attention of archeologists. Located in south-east Anatolia (Turkey) in the upper-reaches of the river Euphretes in the northern portion of the Fertile Crescent, it is an ancient market town with archeologically interesting temples which date back to the neolothic (new stone age) period, 9500-8000 BC. The birth of agriculture is credited to women who stayed at home and planted (gatherers) as men (hunters) pushed-off, chewed on meat, munched bones and came home from time to time to empty their overful containers# before they burst, and to procreate. The point of all this for this essay is that ancient market towns predate modes of production (slavery, feudalism, capitalism). Free markets are not a creation, nor a prelude, to capitalism as bogus liberal democrats, the IMF or an assortment of crooks would have us believe. Markets have been an ancient setting of human dealings for over ten-thousand years.
+
+...
+
+[Data](articles/5dbf0dd8.json)
+
+---
+
+### Republican hardliners already sowing doubts on presidential election integrity
+
+*2024-06-22 19:12:00* · [`islandlk`](http://island.lk/republican-hardliners-already-sowing-doubts-on-presidential-election-integrity/) · `en`
+
+Adjudicated rapist and convicted felon Donald Trump’s pathological yearning for absolute fealty was on display at Tuesday’s Republican primary election in Virginia’s Fifth District, a deep-red Republican seat.
+
+Popular incumbent, ultra-conservative Representative Bob Good, head of the Freedom Caucus, which includes indomitable Trump warriors like Marjorie Taylor Greene, Matt Gaetz and Jim Jordan, was seeking a third Congressional term. In a primary where a Republican victory was a foregone conclusion in the general election, Good faced a challenge for this safe Republican seat from Republican State Senator, John J. McGuire III, also a Republican hard-liner, endorsed by Donald Trump.
+
+...
+
+[Data](articles/52f708d9.json)
+
+---
+
+### Reflecting on Poson
+
+*2024-06-22 18:57:00* · [`islandlk`](http://island.lk/reflecting-on-poson/) · `en`
+
+Unlike Vesak, Poson is specific to Sri Lanka and India. It celebrates the coming of Buddhism to the island through an embassy of five monks, one samanera, and one layman, led by Mahinda Thera, the son of Asoka from his second wife, Vedisa-Devi. The Dipavamsa and the  Mahavamsa are the main literary sources from this country that we have for the details of this embassy. All other accounts are variations on them.
+
+According to these chronicles, Tissa, the second son of Mutasiva, was out on a hunt with 40,000 of his courtiers during a water festival, when he caught sight of an elk-stag (or a deer) which he proceeded to give chase to. He then pursued it to the top of Missaka Mountain, or Mihintale as it is known today, where he encountered Mahinda Thera, who preached the Dhamma to him after testing his intelligence.
+
+...
+
+[Data](articles/3b59155d.json)
 
 ---
 
@@ -608,6 +772,20 @@ He has asked the US Congress to issue a warning stamp to all social websites ope
 
 ---
 
+### Scholars and Gentlemen
+
+*2024-06-22 17:38:00* · [`islandlk`](http://island.lk/scholars-and-gentlemen/) · `en`
+
+There are now a large number of scholarships for education abroad, including many given by foreign governments and institutions. Fifty years ago (this article was written in 1976) there were only two scholarships (before that, only one) awarded on the results of the Intermediate examination held in Colombo by the London University. If I remember correctly they were worth Stg. 400 per annum for three years.
+
+Young people of those days were just as keen as their successors of today to travel and to study abroad. But, with some exceptions, they came back to pursue their careers at home. Rich parents sent the more promising among their progeny to Oxford and Cambridge, to medical schools in the United Kingdom, and to the Inns of Court in London so that they could become barristers who had the right to practise in Ceylon.
+
+...
+
+[Data](articles/2eda3ca1.json)
+
+---
+
 ### The Seon Church has not yet been completed after five years after the Passover attack
 
 *2024-06-22 17:30:01* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයෙන්-වසර-5කට-පසුවත්-සියෝන්-දේවස්ථානය-තවමත්-සාදා-නිමකර-නෑ/11-410361) · `si`
@@ -633,6 +811,22 @@ Governor of Eastern Province Sandil Thondaman, State Minister. Dakighteran also 
 [Data](articles/dca5c795.json)
 
 [Extended Data](ext_articles/dca5c795.ext.json)
+
+---
+
+### Landmarks in tea industry:More recent developments
+
+*2024-06-22 17:28:00* · [`islandlk`](http://island.lk/landmarks-in-tea-industrymore-recent-developments/) · `en`
+
+The Tea Propaganda Board was established in 1932 with participation by Government to plan and market teas rather than purely effect sales. All interested parties such as producers, traders, brokers etc. contributed generously in cash and with their expertise to assist the Board to achieve its objectives.
+
+Mention has been made earlier of the Planters Association of Ceylon (PA) but a few significant stages of its development over the years must necessarily be mentioned.
+
+The inaugural meeting of the Association was held on March 13, 1854 (also recorded as February 17, 1854) at which Captain Keith Jolly (ex Merchant Navy) was elected Chairman with headquarters in Kandy. Some of the early problems, which received the Association’s attention, were recruitment of South Indian labour, transport of produce (estimated at about 79,000 cartloads in one year from Kandy to Colombo) marketing, determination of Planting Districts etc.
+
+...
+
+[Data](articles/92af4b5f.json)
 
 ---
 
@@ -701,6 +895,20 @@ Outsidating temperatures outside the Derwentan Rid of Dervent Rid of Dervent Rel
 [Data](articles/f5a2a417.json)
 
 [Extended Data](ext_articles/f5a2a417.ext.json)
+
+---
+
+### Ranasinghe Premadasa Birth Centenary – An evergreen leader
+
+*2024-06-22 17:17:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-birth-centenary-an-evergreen-leader/) · `en`
+
+“All theory is grey… But forever green is the tree of life. “Goethe (Faust)
+
+For three months in late 1990’s, American author and political activist Barbara Ehrenreich lived the life of a low-wage worker. She wanted to discover, first hand, how President Bill Clinton’s welfare reforms were impacting on the lives of the working poor. Her experiences gave birth to her most celebrated book, Nickle and Dimed: On (Not) Getting By in America. In it, she focuses on the phenomenon of employed-homeless, workers who often do more than one job but are still unable to afford a roof over their heads. The conjunction of low wages and high rents create poverty traps from which few workers escape, Ehrenreich notes.
+
+...
+
+[Data](articles/f6a2cedc.json)
 
 ---
 
@@ -2017,305 +2225,5 @@ People’s Leasing & Finance PLC (PLC), one of Sri Lanka’s leading non-banking
 [Data](articles/3418c63a.json)
 
 [Extended Data](ext_articles/3418c63a.ext.json)
-
----
-
-### Standard Chartered Sri Lanka bags multiple honours at Asset AAA and Global Finance Awards 2024
-
-*2024-06-22 05:43:00* · [`islandlk`](http://island.lk/standard-chartered-sri-lanka-bags-multiple-honours-at-asset-aaa-and-global-finance-awards-2024/) · `en`
-
-Standard Chartered Bank Sri Lanka has achieved outstanding recognition, clinching multiple prestigious awards at the Asset Triple A Awards 2024 and being named among the leading Asia-Pacific banks in 2024 by Global Finance.
-
-The accolades at the Asset Triple A Awards recognise the Bank’s excellence across domains including cash management, trade finance, corporate treasury management, and asset servicing, while the Global Finance award highlights Standard Chartered’s position among the top sub-custodian banks in the Asia-Pacific region.
-
-At the Asset Triple A Treasury, Trade, SSC (Sustainable Supply Chain) and Risk Management Awards 2024, the Bank was honoured with the ‘Best Service Provider for Cash Management in Sri Lanka’ and ‘Best Service Provider for Trade Finance in Sri Lanka’ awards, affirming its outstanding capabilities in delivering cutting-edge solutions to support the cash management and trade finance needs of corporate clients.
-
-...
-
-[Data](articles/3b8bb3b8.json)
-
-[Extended Data](ext_articles/3b8bb3b8.ext.json)
-
----
-
-### DFCC Aloka hosts special event to celebrate women in healthcare at Kandy General Hospital
-
-*2024-06-22 05:41:00* · [`islandlk`](http://island.lk/dfcc-aloka-hosts-special-event-to-celebrate-women-in-healthcare-at-kandy-general-hospital/) · `en`
-
-DFCC Aloka, the women-centric banking proposition from DFCC Bank, recently conducted a unique programme to honour women in healthcare at the Kandy General Hospital to celebrate International Women’s Day. The event witnessed several exciting activities, together with an insightful panel discussion, which highlighted women’s critical role in supporting the health and well-being of our communities.
-
-Shera Hassan, Vice President and Head of Pinnacle Planning and Implementation, addressed the gathering and emphasised that DFCC Aloka can facilitate skills development workshops and training programs designed to enhance nurses’ soft skills, which are highly sought after in the job market. These workshops cover various topics, including digital literacy, leadership development, and communication skills, all supported by DFCC Aloka. She also affirmed that DFCC Aloka is dedicated to providing a wide range of products and services designed to meet the varied financial needs of its customers.
-
-...
-
-[Data](articles/a6feae5b.json)
-
-[Extended Data](ext_articles/a6feae5b.ext.json)
-
----
-
-### LOLC Finance pledges commitment to ocean conservation and sustainability
-
-*2024-06-22 05:40:00* · [`islandlk`](http://island.lk/lolc-finance-pledges-commitment-to-ocean-conservation-and-sustainability/) · `en`
-
-In a resolute commitment to environmental stewardship and sustainable corporate practices, LOLC Finance marked World Environment Day and Ocean Day with a series of impactful initiatives aimed at fostering ecological conservation and awareness.
-
-World Environment Day holds profound significance for LOLC Finance, underscoring the increasing importance of environmental, social, and governance (ESG) factors in financial decisions. Embracing this ethos, LOLC Finance has actively engaged in environmental initiatives, mitigating risks associated with climate change and environmental degradation.
-
-...
-
-[Data](articles/14680f7d.json)
-
-[Extended Data](ext_articles/14680f7d.ext.json)
-
----
-
-### SL enters into MOU on curbing money laundering with Bahrain
-
-*2024-06-22 05:33:00* · [`islandlk`](http://island.lk/sl-enters-into-mou-on-curbing-money-laundering-with-bahrain/) · `en`
-
-The Financial Intelligence Unit of Sri Lanka (FIU-Sri Lanka) entered into a Memorandum of Understanding (MOU) with the Financial Intelligence National Center of the Kingdom of Bahrain (FINC-Bahrain) on June 04, 2024, at the 30th Plenary of the Egmont Group, held in Paris, France, to exchange financial intelligence related to money laundering (ML) and associated predicate offences, and in relation to terrorist financing (TF) offence. This MOU has been entered into by the FIU-Sri Lanka, in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006.
-
-The Financial Intelligence Units across the world enter into MOUs to co-operate with their global counterparts through exchange of information, in order to combat ML/TF, which are more often internationally connected and emanating from widespread criminal activities. The FINC-Bahrain serves as the Kingdom of Bahrain’s central hub fo the collection, analysis, and dissemination of information regarding ML/TF. The FIU-
-
-...
-
-[Data](articles/f1ef488e.json)
-
-[Extended Data](ext_articles/f1ef488e.ext.json)
-
----
-
-### Lankem Agro launches nationwide tree planting initiative for World Environment Day
-
-*2024-06-22 05:32:00* · [`islandlk`](http://island.lk/lankem-agro-launches-nationwide-tree-planting-initiative-for-world-environment-day/) · `en`
-
-Lankem Agro, the agribusiness company of the diversified conglomerate Lankem Ceylon PLC, announced a transformative initiative to celebrate World Environment Day on June 5th, followed by a tree-planting program. This ambitious effort underscores Lankem Agro’s dedication to environmental stewardship and food security, aligning with its core values and long-term sustainability goals.
-
-As part of this initiative, Lankem Agro will plant 1,500 trees across the country, including 1,300 jackfruit trees and 200 mango trees. These species were carefully selected for their substantial nutritional benefits and cultural importance, reflecting the company’s commitment to promoting sustainable and healthy food sources while assisting to improve food security in Sri Lanka. Furthermore, the program is designed to address environmental concerns and support rural communities by providing valuable resources and education on sustainable agriculture.
-
-...
-
-[Data](articles/bd4ed676.json)
-
-[Extended Data](ext_articles/bd4ed676.ext.json)
-
----
-
-### hSenidBiz wins “Technology Resilient Company” award at ISACA Sri Lanka’s first Digital Trust Awards ceremony
-
-*2024-06-22 05:29:00* · [`islandlk`](http://island.lk/hsenidbiz-wins-technology-resilient-company-award-at-isaca-sri-lankas-first-digital-trust-awards-ceremony/) · `en`
-
-The ISACA Sri Lanka celebrated digital trust champions at its first-ever Digital Trust Awards ceremony, held on June 13th, 2024, at the Monarch Imperial in Thalawathugoda, Sri Lanka. This first-of-its-kind event aimed to recognize and celebrate organizations and individuals championing digital trust and security within the region.
-
-hSenid Business Solutions, a leading Human Capital Management (HCM) solutions provider, emerged at the awards, taking home the coveted title of Technology Resilient Company of the Year 2024 in the Digital Services category. This recognition highlights hSenidBiz’s commitment to providing robust and secure HCM solutions that empower organizations to build resilient and future-proof workforces.
-
-...
-
-[Data](articles/fbfc1c58.json)
-
-[Extended Data](ext_articles/fbfc1c58.ext.json)
-
----
-
-### IOM trains journalists on “Responsible Reporting of Human Trafficking Incidents” in mainstream media
-
-*2024-06-22 05:27:00* · [`islandlk`](http://island.lk/iom-trains-journalists-on-responsible-reporting-of-human-trafficking-incidents-in-mainstream-media/) · `en`
-
-The International Organization for Migration (IOM) conducted a two-day training programme entitled “Responsible Reporting of Human Trafficking Incidents” for Journalists attached to various mainstream electronic and print media last week.
-
-The objective of the programme was to strengthen the capacity and raise awareness among Journalists on the effective identification of incidents of human trafficking as well as on ethical and responsible reporting of such incidents.
-
-The training covered a wide array of topics including victim-centered approaches in the identification, referral, ethical and responsible reporting of cases on media platforms.
-
-A senior representative from the Ministry of Defence representing the National Anti-Human Trafficking Task Force (NAHTTF) and IOM officials contributed to the training sessions.
-
-Further, the training emphasised on the importance of using the accurate and correct terminologies related to trafficking incidents in media reporting.
-
-...
-
-[Data](articles/b6b4a1b7.json)
-
-[Extended Data](ext_articles/b6b4a1b7.ext.json)
-
----
-
-### Shahrujan is the assistant captain of the Sri Lankan team under 19
-
-*2024-06-22 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186671) · `ta`
-
-Shanmuganathan Shah Rujan, the assistant captain of the Sri Lankan under-19 team, led St. Blessed College and scored 118 runs in South Africa. Dinura Kalubahana, a Galle and Mahinda College player, was named captain. They will tour England, playing a 50-over match and a three-match ODI series against England's under-19 team.
-
-🟩
-
-Shanmuganathan Shah Rujan has been appointed as the assistant captain of the 19 -year -old Sri Lankan team to visit England.. He is the leader of the St. Blessed College team and the wicketkeeper.
-
-In South Africa, he scored 118 runs in 5 matches in 5 matches earlier this year and contributed 7 out of 7 out of 5 (5 and 2 stumps).
-
-Meanwhile, Galle and Mahinda College player Dinura Kalubahana has been appointed as the captain of the Sri Lankan team under the age of 19.
-
-He also shone in all fields in the under -19 World Cup cricket match. He scored 196 runs with 3 half centuries and took 5 wickets.
-
-Perera and Vihas Thevaki are the two other players who played in the under -19 World Cup cricket match.
-
-Ruwan Kalpage, a former national player for the under -19 team and former captain of St. Anthony's College Cricket Team, Katugastota has been appointed.
-
-The 19 -year -old Sri Lankan team will leave England on Saturday morning (22) and will play a 50 -over training match.
-
-...
-
-[Data](articles/6952977c.json)
-
-[Extended Data](ext_articles/6952977c.ext.json)
-
----
-
-### Muttiah Muralitharan Investment in Karnataka Rs 1400 crore
-
-*2024-06-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186670) · `ta`
-
-Muttiah Muralitharan, former Sri Lankan cricket star, invests Rs 1,400 crore in Karnataka for a soft drink and sweets factory. The project, expanding from his Sri Lankan factory, will launch in January 2025 on 46 acres of land.
-
-🟩
-
-Former Sri Lankan star cricketer Muttiah Muralitharan has started a soft drink company with an investment of Rs 1,400 crore in Karnataka.
-
-According to reports, Muttiah Muralitharan has invested for the factory that produces soft drinks and sweet products.
-
-The news has been published by Karnataka State Minister of State for Mass and Small Industries M.P. Bottle.
-
-He added that Muttiah Muralitharan has taken steps to start a factory in India as an expansion of the factory in Sri Lanka.
-
-46 acres of land has been allocated for the construction of the factory and it has been announced that manufacturing activities will be launched from January 2025.
-
-◼️
-
-[Data](articles/a04a8039.json)
-
-[Extended Data](ext_articles/a04a8039.ext.json)
-
----
-
-### Cataract treatment at Jaffna Teaching Hospital
-
-*2024-06-22 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186669) · `ta`
-
-During the Poson Festival, over 125 cataract patients received treatment at Jaffna Teaching Hospital, supported by the 51 Army Brigade and foundations Alaka and Ananda. Led by Dr. Malaravan, the event saw attendance from key officials including the Director of Northern Provincial Health Services, the Jaffna District Army Commander, and the Deputy Inspector General of Police of the Northern Province, among others.
-
-🟩
-
-More than 125 people were treated at the Jaffna Teaching Hospital on the occasion of Poson Festival.
-
-With the help of the 51 Army Brigade with the participation of the Alaka and Ananda Foundation, the treatment of eye patients was carried out under the leadership of Dr. Malaravan.
-
-The event was attended by the Director of the Northern Provincial Health Services, the Jaffna District Army Commander, the Deputy Inspector General of Police of the Northern Province, the Director of the Jaffna Teaching Hospital, the Nurses and many others.
-
-◼️
-
-[Data](articles/5cbdea55.json)
-
-[Extended Data](ext_articles/5cbdea55.ext.json)
-
----
-
-### Arrested with an unregistered motor vehicle in Jaffna
-
-*2024-06-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/186668) · `ta`
-
-In Jaffna, police arrested someone for driving an unregistered car and found five swords at their home during a raid.
-
-🟩
-
-Jaffna police said they had seized a motor vehicle and five swords in Jaffna early Friday morning.
-
-It was revealed that the Jaffna police, who were involved in special patrols in the Jaffna Nagar area, had been suspiciously raided by a motor vehicle.
-
-Five swords have been seized from his home following an investigation into the arrest and carried out by a youth from the suspect.
-
-◼️
-
-[Data](articles/9a758d15.json)
-
-[Extended Data](ext_articles/9a758d15.ext.json)
-
----
-
-### Quinton de Kock, David Miller's actions sparked South Africa's victory
-
-*2024-06-22 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186667) · `ta`
-
-South Africa secured its fifth T20 World Cup victory, defeating England by 7 runs in the Super 8 stage. Key contributions came from Quinton de Kock and David Miller with the bat, and Keshav Maharaj with the ball. Despite a slight dip in scoring post-Power Play, South Africa managed 163/6 in 20 overs. England, struggling early on, could only manage 156/6, with Harry Brook's 57 not enough to secure a win.
-
-🟩
-
-Sen. South Africa won the current champion England by 7 runs in the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Cross Islat Terren Sammy National Cricket Stadium.
-
-This is the 5th victory of South Africa's earnings in the history of the R20 World Cup for the 6th time.
-
-With today's victory, South Africa, who scored 4 points with 2 wins in Group 2, is increasing the chance of playing the semi -final.
-
-And South Africa is the never -defeated team in this World Cup.
-
-Quinton de Kock and David Miller's action bats, Keshav Maharaj's excellent bowling, and the last over of Anrich Nogya's cloak and restrictions made South Africa a win.
-
-At the same time, the worst batting of the UK's leading players led to a favorable result for South Africa.
-
-South Africa scored 163 runs for the loss of 6 wickets in 20 overs in today's match
-
-South Africa scored 63 runs without the loss of wicket in the Power Play with the help of Quinton de Kokin's action.
-
-...
-
-[Data](articles/bf6ce57e.json)
-
-[Extended Data](ext_articles/bf6ce57e.ext.json)
-
----
-
-### International Yoga Day Special Event for 2024 in Jaffna;The participation of more than a thousand people
-
-*2024-06-22 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186666) · `ta`
-
-Jaffna hosted a large International Yoga Day event in 2024, organized by the Indian Consulate at the Jaffna Cultural Center. Over a thousand participants engaged in yoga practices from 7:30 am to 8:30 pm. Notable attendees included the Indian Deputy Ambassador Sai Murali, who highlighted yoga's significance as a holistic practice connecting heart, body, and soul, and its global relevance. The event focused on the theme "yoga for self and society," aiming to foster a healthier community through yoga. Celebrated globally on June 21, this initiative reflects India's proposal to recognize yoga's universal benefits.
-
-🟩
-
-The Yoga program was held at the Jaffna Cultural Center from 7:30 am to 8:30 pm organized by the Indian Consulate.
-
-Indian Deputy Ambassador Sai Murali, Northern Provincial Council Chairman CVK Sivagnanam, Secretary to the Northern Provincial Ministry of Education, Pattik Tranjan, Northern Province Agriculture Services and Health Ministry Secretary M.Jgu, Director of Jaffna Teaching HospitalMunicipal Council Commissioner S. Krishnjendran and many other Indian embassy officials were present.
-
-Speaking at the launch of the event, Sai Murali, the vice -chancellor, emphasized the ancient appearance of yoga in India, and emphasized its importance as a complete exercise that connects the heart, body and soul.
-
-He noted the global character of yoga, which is important in modern life that has crossed the borders and high. Moreover, he introduced the theme of "yoga self and society" for this year, emphasizing the importance of building a healthy and prosperous society through yoga.
-
-...
-
-[Data](articles/ce0e340f.json)
-
-[Extended Data](ext_articles/ce0e340f.ext.json)
-
----
-
-### 2024-06-21 (Friday)
-
-### An accident demanding the Mannar Murugan area;Elderly victim
-
-*2024-06-21 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186665) · `ta`
-
-A crash occurred near Mannar-Madawachchi, involving a vehicle from Kalmunai to Mannar. The accident resulted in injuries, with victims transported to Murugan and Mannar District General Hospitals for treatment.
-
-🟩
-
-The Hayas vehicle crashed into a car in the lower part of the Mannar -Madawachi main road, Murungan police division.
-
-The vehicle of the vehicle from Kalmunai to Mannar Mirichukkatti area has been hit by an electric pole in the Murugan, Murugan, Murugan, Narikkad area.
-
-All those injured in the accident were taken to Murugan Hospital and 7 persons were transferred to the Mannar District General Hospital for further treatment.
-
-◼️
-
-[Data](articles/d8533ebd.json)
-
-[Extended Data](ext_articles/d8533ebd.ext.json)
 
 ---

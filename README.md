@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 09:53:40**
+As of **2024-06-23 10:05:28**
 
 ## Newspaper Stats
 
-*Scraped **31,655** Articles*
+*Scraped **31,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,104 @@ newsfirstlk | 363
 islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
-adalk | 2,766
-adaderanalk | 3,589
+adalk | 2,767
+adaderanalk | 3,590
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,172
+adaderanasinhalalk | 5,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,653 (100.0%) of 31,655 articles have been extended.
+31,655 (100.0%) of 31,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ඇෆ්ගනිස්තානයෙන් ඔස්ට්‍රේලියාවට මතක හිටින පාඩමක්
+### Thai PM defends frequent overseas travel including Sri Lanka visit
+
+*2024-06-23 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100037/thai-pm-defends-frequent-overseas-travel-including-sri-lanka-visit) · `en`
+
+(Reuters) - Thailand’s Prime Minister Srettha Thavisin defended his frequent globe-trotting during his first 10 months as leader of the Southeast Asian nation, in remarks aired in a television broadcast on Saturday.
+
+A real estate tycoon and political newcomer who became prime minister in August last year, Srettha made 15 overseas visits and pledged a two-month halt in March in response to public criticism.
+
+“Some of these visits are not avoidable,” he said, referring to those for official meetings of the Association of Southeast Asian Nations (ASEAN), as well as to China and Japan, while a third was to Sri Lanka to sign a free trade pact.
+
+Other visits aimed to draw trade and investment, said Srettha, nicknamed Thailand’s salesman, who has often spoken of his goal of luring more foreign investment to the country.
+
+“It’s necessary to go,” he said in the remarks recorded in advance.
+
+◼️
+
+[Data](articles/d2f63091.json)
+
+---
+
+### කුරුළු උණ නිසා ලංකාවට බලපෑමක් තිබේද ?
+
+*2024-06-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198047) · `si`
+
+ලොව ඇතැම් රටවල ව්‍යාප්ත වෙමින් පවතින කුරුළු උණ රෝගී තත්ත්වය පිළිබඳව ශ්‍රී ලංකාවට මෙතෙක් අවදානමක් නොමැති බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+
+කුරුළු උණ සම්බන්ධයෙන් අනතුරුදායක තත්ත්වයක් මෙරටට නොමැති වුවද ඒ පිළිබඳව අවධානයෙන් කටයුතු කරන බව ඔහු ප්‍රකාශ කළේය.
+
+"ශ්‍රී ලංකාවේ ජනතාවට අපිට කියන්න තියෙන්නේ විශේෂයෙන්ම මෙවැනි රෝගී තත්ත්ව ගැන අවදානමක් නැහැ. විශේෂ අනතුරු ඇඟවීමක් ලෝක සෞඛ්‍ය සංවිධානය අප වෙත කරලත් නැහැ. කුරුළු උණ රෝගී තත්ත්වයන් මීට පෙරත් ලෝකයේ විවිධ රටවලින් වාර්තා වුණා  නමුත් ඒවා විශේෂ පැතිරීමකට ලක්වුණේ නැහැ. ඒ නිසා ඒ සම්බන්ධයෙන් කිසිම අනියත බියක් ඇති කර ගත යුතු නැහැ මේ අවස්ථාවේදී."
+
+◼️
+
+[Data](articles/d49505f8.json)
+
+---
+
+### A lesson in Afghanistan
 
 *2024-06-23 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198046) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඇෆ්ගනිස්තානය සහ ඔස්ට්‍රේලියාව අතර තරගයෙන් විශිෂ්ට ජයක් වාර්තා කිරීමට ඇෆ්ගනිස්තානය අද (23) සමත්විය.
+In a thrilling match, Afghanistan won against Australia in the Twenty20 World Cup, scoring 148 runs with key contributions from Ramanullah Gurbaz and Ibrahim Zadran. Pat Cummins' 28 runs weren't enough as Australia fell short with 127 runs. Afghan bowlers Naveen-ul-Haq and Gulbadin Naib secured victory with 7 wickets each.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන ක්‍රීඩකයෝ සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 148ක් රැස්කළේය.
+🟩
 
-රමනුල්ලා ගුර්බාස්  ලකුණු 60 (පන්දු 49) සහ ඊබ්‍රාහිම් සඩ්රාන් (ලකුණු 51) රැස්කළහ.
+Afghanistan today (23) passed Afghanistan to win the round of the Twenty20 World Cup.
 
-පන්දු යැවීමෙන් ඔස්ට්‍රේලියාව වෙනුවෙන් පැට් කමින්ස් ලකුණු 28කට කඩුලු 3යි. එය මෙම ලෝක කුසලාන තරගාවලියේ කමින්ස් ලබාගත් දෙවැනි හැට්ට්‍රික් එක ලෙස වාර්තා පොත් අතරට එක්විය.
+Batting first, Afghanistan scored 148 runs for the loss of 6 wickets in the loss of 6 overs.
 
-ලකුණු 149ක ඉලක්කයක් හඹා යෑම ඇරඹු ඔස්ට්‍රේලියානු පිතිකරුවන්ට ඇෆ්ගනිස්තාන වේග පන්දු යවන්නන්ගෙන් එල්ල වූයේ දැඩි තර්ජනයකි.
+Ramanullah Gurbas scored 60 (49 balls) and Ibrahim Zedran (51).
 
-එහිදී ඔස්ට්‍රේලියානු කණ්ඩායම පන්දු ඕවර 19.2 කදී සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 127ක් පමණි.
+Pat Kumarks for 28 runs for Australia by bowling. It was among the document books to be the second hattric of the World Cup.
 
-නවීන් උල්හක් (3/20) සහ ගුල්බඩීන් නයිබ් (4/20) කඩුලු 7ක් දවා ගනිමින් සිය කණ්ඩායම ජයග්‍රහණය සඳහා ගෙන ගියහ.
+The Australian fast bowlers were threatened with the Australian fast bowlers to chase 149 runs.
+
+Australian team scored 127 runs in 19.2 overs.
+
+Naveen meteors (3/20) and Gulldin Nib (4/20) took 7 wickets for their victory.
 
 ◼️
 
 [Data](articles/79348c8d.json)
+
+[Extended Data](ext_articles/79348c8d.ext.json)
+
+---
+
+### බස් ත්‍රි රෝද ගැටුමෙන් තරුණයින් දෙදෙනෙක් මරුට
+
+*2024-06-23 09:24:19* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ත්‍රි-රෝද-ගැටුමෙන්-තරුණයින්-දෙදෙනෙක්-මරුට/11-410370) · `si`
+
+අනුරාධපුර පාදෙණිය ප්‍රධාන මාර්ගයේ තලාව ගොවිජන සේවා කේන්ද්‍රය ඉදිරිපිටදී අද (23) අළුයම ත්‍රීරෝද රථයක් සහ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් තරුණයෙන් දෙදෙනෙකු මියගොස් තවත් තරුණයින් දෙදෙනෙකු බරපතල තුවාල ලබා ඇතැයි තලාව පොලීසිය පවසයි.
+
+තුවාල ලැබූ තරුණයින් දෙදෙනා තලාව ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව අනුරාධපුර ශික්ෂණ රෝහලට මාරුකර යවා තිබෙනවා. මෙසේ මියගොස් ඇත්තේ එප්පාවල පොලිස් වසමේ මැඩියාව ප්‍රදේශයේ පදිංචි වයස අවුරුදු 24ක සහ වයස අවුරුදු 19ක තරුණයින් දෙදෙනෙකි.
+
+මෙසේ මියගොස් ඇත්තේ එප්පාවල මැඩියාව ලිපිනයේ පදිංචි,. සුසන්ත කුමාර පෙරේරාගේ සුපුන් සාලින්ද පෙරේරා. (24) කවිඳු මදුශාන් පද්මසිරි(19) යන අයයි.
+
+මෙම තරුණයින් පිරිස ඊයේ (22) රාත්‍රියේ අනුරාධපුර පැවැත්වෙන "පුරවර උදානය" පොසොන් සැණකෙළියට සහභාගීවී යළිත් නිවෙස් වෙත යමින් සිටියදී මෙම අනතුර සිදුව ඇති බවයි සිද්ධිය පිළිබඳව පරීක්ෂණ පවත්වන තලාව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/5614f881.json)
 
 ---
 
@@ -934,23 +994,33 @@ The Aloka Pooja will also be held today (22) and tomorrow.
 
 ---
 
-### බංග්ලාදේශයෙන් ගත් ණය ගෙවා දැම්මා  - ඉන්දීය ණයත් ගෙවනවා
+### Borangladesh paid backs - Indian debt pays
 
 *2024-06-22 18:39:05* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශයෙන්-ගත්-ණය-ගෙවා-දැම්මා----ඉන්දීය-ණයත්-ගෙවනවා/11-410363) · `si`
 
-ශ්‍රී ලංකාවේ සංවර්ධන ඉලක්ක ඉටු කර ගැනීමේදී ඉන්දියාව සමඟ මනා හවුල්කාරිත්වයකින් ඉදිරියට යාමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka, under President Ranil Wickremesinghe, aims to strengthen its partnership with India, focusing on energy and development projects. They've repaid part of their debt to India and are discussing further financial matters with officials from both countries. The partnership includes joint ventures in renewable energy, infrastructure development, and economic reforms to boost foreign investment and exports.
 
-එහිදි බලශක්ති ක්ෂේත්‍රයට අදාළව දෙරට අතර හවුල්කාරිත්වය ඉහළ නංවා ගැනීමට විශේෂ අවධානයක් යොමුව ඇති බවත්, වසර 30ක යුද්ධයෙන් පීඩාවට පත් වූ උතුරේ ජනතාවට නව සංවර්ධනයක් අත්කර දීම අරමුණ බවත් ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ පසුගිය 20වනදා කොළඹ ICT රත්නදීප හෝටලයේදී පැවති 31 වැනි සමස්ත ඉන්දීය හවුල්කාර හමුව 2024 (AIPM 2024) අමතමිනි.
+President Ranil Wickremesinghe said that he expects to proceed with India in achieving development goals in Sri Lanka.
 
-ජූනි 22 දක්වා කොළඹදී පැවැත්වෙන 31 වැනි සමස්ත ඉන්දීය හවුල්කරුවන්ගේ හමුව, ඉන්දියාවේ KPMG ආයතනය සහ ශ්‍රී ලංකාවේ KPMG ආයතනයේ සහයෝගයෙන් සංවිධානය කර තිබේ.
+The President said that special attention to the partnership between the two countries in relation to the energy sector, the President said.
 
-ඉන්දු-ලංකා ද්විපාර්ශ්වික සබඳතා ශක්තිමත් කරමින් දෙරට අතර සමාජ-ආර්ථික වර්ධනය ඉලක්ක කරගත් සහයෝගීතා ව්‍යාපෘති වෙනුවෙන් දෙරට අතර පවතින කැපවීම තහවුරු කරමින් පැවති මෙම හමුවට ඉන්දීය හවුල්කරුවන් 600 කට අධික සංඛ්‍යාවක් සහ ඔවුන්ගේ පවුල්වල සාමාජිකයින් එක්ව සිටියහ.
+President Ranil Wickremesinghe made this statement addressing the 31st Indian partner in the ICT Ratnapura Hotel on the 20th.
+
+The meeting of the 31st Indian partners in Colombo to June 22 has been organized by KPMG and KPMG in Sri Lanka.
+
+More than 600 Indian partners were assisted by the two countries and their families participating with the religious development projects between the two countries to strengthen the Indo-Lanka bilateral ties.
+
+The CEO of KPMG India presented a memorial gift to President Ranil Wickremesinghe to the President Ranil Wickremesinghe.
+
+Addressing the House, President Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/1a6ac786.json)
+
+[Extended Data](ext_articles/1a6ac786.ext.json)
 
 ---
 
@@ -2193,73 +2263,5 @@ Governor Sarah Huckabee Sanders said on social media platform X that she was bri
 [Data](articles/597171c9.json)
 
 [Extended Data](ext_articles/597171c9.ext.json)
-
----
-
-### Massive power outage in 4 balcan countries by extreme heat
-
-*2024-06-22 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/186673) · `ta`
-
-Extreme heatwaves across four Balkan countries triggered widespread power outages, affecting coastal regions and leading to traffic signal failures. The outage began around 1 pm, impacting Albania, Bosnia, Montenegro, and Croatia. Cooling demands surged, exacerbating the situation. Power was restored by evening, though the exact cause remains under investigation.
-
-🟩
-
-Four Balkan countries in the heat wave have caused several hours of lightning on Friday.
-
-Accordingly, the coastal areas of Albania, Bosnia, Montinegro and Croatia were affected by the resistor in the afternoon.
-
-Due to the prevailing heat in these areas, the power outage has been reported as the use of cooling equipment in homes has increased.
-
-Meanwhile, traffic signals in Bosnia and Croatia have been blocked due to power outages, with traffic congestion in Sarajevo, Split and other major cities.
-
-In this case, the power supply said that the power supply was repaired on Friday evening, but is trying to identify where the problem occurred in the interconnected power systems of four countries.
-
-According to local time, a power outage occurred at 13:00 am and a water supply barrier in Montinegro, the capital of Montinegro.
-
-Croatia, which has attracted tourists, has been confused by the closure of restaurants, restrooms and supermarkets.
-
-...
-
-[Data](articles/bf1b6825.json)
-
-[Extended Data](ext_articles/bf1b6825.ext.json)
-
----
-
-### Advisory issued for strong winds and rough seas
-
-*2024-06-22 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100019/advisory-issued-for-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ advisory for strong winds and rough seas for the sea areas off the coasts extending from Mannar to Chilaw via Puttalam and from Hambantota to Pottuvil.
-
-The advisory is in effect for the period until 06.00 a.m. on Sunday (23 June).
-
-Accordingly, the Met. Department warned that the sea areas off the coasts extending from Mannar to Chilaw via Puttalam and from Hambantota to Pottuvil will be very rough at times with very strong gusty winds up to 60- 65 kmph.
-
-The sea areas off the coasts extending from Chilaw to Hambantota via Colombo and Galle and from Trincomalee to Mannar via Mullaitivu and Kankasanthurai will be rough at times with strong gusty winds up to 50-55 kmph, it added.
-
-Wave heights may increase about 2.0–2.5 m in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, the department said.
-
-Thus, naval and fishing communities are requested to be attentive in this regard.
-
-◼️
-
-[Data](articles/35de9d59.json)
-
-[Extended Data](ext_articles/35de9d59.ext.json)
-
----
-
-### Executive Must Cease Intimidating & Undermining The Independence Of The Judiciary: Lawyers’ Collective
-
-*2024-06-22 10:53:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/executive-must-cease-intimidating-undermining-the-independence-of-the-judiciary-lawyers-collective/) · `en`
-
-On 18th June 2024 President Ranil Wickremesinghe, speaking in Parliament, criticizing the recent Supreme Court determination on the Gender Equality Bill referred to the court as having engaged in ‘judicial cannibalism’. The President went on to say that Parliament ‘could not agree with the Supreme Court ruling’ and that he while he doesn’t propose to summon judges before parliament, he proposes the appointment a Parliamentary Select Committee to review the determination. Previously, the President also demanded the appointment of a parliamentary Select Committee to investigate the workings of the Constitutional Council when it did not approve his nominee to the Supreme Court.
-
-...
-
-[Data](articles/d6fb3a0c.json)
-
-[Extended Data](ext_articles/d6fb3a0c.ext.json)
 
 ---

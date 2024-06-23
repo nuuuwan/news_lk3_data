@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 10:52:49**
+As of **2024-06-23 11:04:29**
 
 ## Newspaper Stats
 
-*Scraped **31,659** Articles*
+*Scraped **31,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,767
 adaderanalk | 3,590
-tamilmirrorlk | 3,716
+tamilmirrorlk | 3,718
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,174
+adaderanasinhalalk | 5,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,659 (100.0%) of 31,659 articles have been extended.
+31,661 (100.0%) of 31,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### මධ්‍යම කඳුකරයේ කාලගුණයේ ලොකු වෙනසක්
+
+*2024-06-23 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198051) · `si`
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලට ඊයේ (22) දින සිට කඩින් කඩ අධික වැසි සමග අධික සුළං තත්ත්වයක් පැවතිම හේතුවෙන් ජන ජිවිතයට බාධා පැමිණ ඇති බව අප වාර්තාකරු පවසයි.
+
+අධික සුළං තත්ත්වය හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ඉඟුරුඔය සහ ගලබඩ දුම්රිය ස්ථාන දෙක අතර දුම්රිය මාර්ගයට ස්ථාන කිහිපයකින්ම ගස් කඩා වැටිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනා ගමන කටයුතුවලට අද (23) දින අලුයම සිට බාධා පැමිණ ඇත.
+
+දුම්රිය මාර්ගය කඩා වැටි ඇති ගස් කපා ඉවත්කිරිමේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+
+දුම්රිය මාර්ගයට කඩා වැටුණු ගස් කපා ඉවත් කරන තෙක් නානුඔය සිට කොළඹ දක්වා ධාවනය කරමින් තිබූ ටිකිරි මැණිකේ දුම්රිය හැටන් දුම්රිය ස්ථානයේ නතර කර ඇති අයුරු අප කැමරාවේ සටහන් විය.
+
+◼️
+
+[Data](articles/82e7cd8f.json)
+
+---
+
+### ජීවිත දෙකක් බිළිගත් තලාව අනතුර
+
+*2024-06-23 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198050) · `si`
+
+බස් රථයක් හා ත්‍රිරෝද රථයක් මුහුණට මුහුණලා ගැටීමෙන් දෙදෙනෙකු මියගොස් තවත් දෙදෙනෙකු රෝහල්ගත කර තිබේ.
+
+අනුරාධපුර - පාදෙනිය මාර්ගයේ, තලාව ඉන්ධනහල අසලදී අද (23) අලුයම මෙම බිහිසුණු අනතුර සිදුවිය.
+
+ඉන් මියගොස් ඇත්තේ වයස අවුරුදු 19ක් සහ 24ක් වූ තරුණයින් දෙදෙනෙකි.
+
+විනෝද චාරිකාවක් සඳහා පිරිසක් සමග රත්නපුර සිට යාපනය බලා පිටත් ගමන්කරමින් තිබූ බස් රථයක ත්‍රිරෝද රිය ගැටීමෙන් මෙම අනතුර සිදුවී ඇතැයි තලාව පොලීසිය පවසයි.
+
+අනතුරින් එම ස්ථානයේම දෙදෙනෙකු මියගොස් ඇති අතර තුවාලකරුවන් තලාව රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇතැයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/81356a06.json)
+
+---
+
+### Mountaineer train service is blocked
+
+*2024-06-23 10:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவை-தடைப்பட்டது/76-339268) · `ta`
+
+A tree fell near Galapoda and I Eenuru Oya stations on the Nawalapitiya railway line, blocking the mountain rail service. The railway control room confirmed the blockage and mentioned ongoing efforts to clear the tree.
+
+🟩
+
+A tree fell this morning between the Galapoda and the I Eenuru Oya railway stations on the Nawalapitiya railway line.
+
+As a result, the Nawalapitiya Railway Control Room said that the mountain rail service has been blocked.
+
+As a result of this, the rail control room said that the railway traffic has been blocked and the work of cutting down the tree that has fallen on the road is underway.. Remble
+
+◼️
+
+[Data](articles/8bae4354.json)
+
+[Extended Data](ext_articles/8bae4354.ext.json)
+
+---
+
+### Strong wind and sea turbulence
+
+*2024-06-23 10:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-மற்றும்-கடல்-கொந்தளிப்பு/175-339266) · `ta`
+
+The Department of Meteorology warns of strong winds and sea turbulence from Trincomalee to Kankesanthurai, Puttalam, Chilaw, Hambantota to Pottuvil, and occasional turbulence from Chilaw to Colombo and Galle. Wind speeds may reach 60-65 km/h and 50-55 km/h respectively. The warning is effective from 7:00 am today until 7:00 am tomorrow, advising caution for sailors and the naval community.
+
+🟩
+
+The Department of Meteorology has issued a warning to the people regarding strong winds and sea turbulence.
+
+The warning announcement, issued today (23) at 7:00 am, will be valid tomorrow (24) at 7:00 am, the department said.
+
+The Department of Meteorology has announced that the wind speeds can be increased at speeds of 60-65 km / h from Trincomalee to Kankesanthurai and Puttalam from Chilaw and Chilaw from Hambantota to Pottuvil.
+
+In addition, the speed of the wind from Chilaw to Colombo and Hambantota via Hambantota can be increased by up to 50-55 km per hour from time to time.
+
+In addition, the Department of Meteorology has said that the seas from Trincomalee to Kankesanthurai and Puttalam from Chilaw and Hambantota to Pottuvil will occasionally be very turbulent.
+
+The seas from Chilaw to Colombo and Galle are occasionally turbulent.
+
+It is reported that the sea waves can arise from Kalpitiya to Colombo, Galle and Hambantota via Pottuvil.
+
+...
+
+[Data](articles/28a366ad.json)
+
+[Extended Data](ext_articles/28a366ad.ext.json)
+
+---
+
+### මස්සිනාගෙන් එල්ල වූ මාරාන්තික පහර
+
+*2024-06-23 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198049) · `si`
+
+බහින් බස්වීමක් දුරදිග යාමෙන් පුද්ගලයෙක් විසින් තියුණු ආයුධයකින් පහරදී තවත් පුද්ගලයෙක්ව ඝාතනය කර තිබේ.
+
+ඊයේ (22) අලුයම් කාලයේදී කටුවන පොලිස් වසමේ අමුදමන ප්‍රදේශයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, අමුදමන, කටුවන ප්‍රදේශයේ පදිංචිව සිටි 41 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු හා ඔහුගේ මස්සිනා අතර ඇතිවූ අමනාපයක් මත බහින් බස්වීමක් දුරදිගයාමෙන් මස්සිනා විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+එම ඝාතනය සිදුකළ සැකකරු ඊයේ (22) රාත්‍රී කටුවන පොලීසියට භාරවී තිබේ.
+
+◼️
+
+[Data](articles/d2b49caa.json)
+
+---
 
 ### Latest Report in Afghan - Australia match
 
@@ -2155,127 +2265,5 @@ Responding to the allegations levelled by former President Maithripala Sirisena,
 [Data](articles/583555ac.json)
 
 [Extended Data](ext_articles/583555ac.ext.json)
-
----
-
-### Three LTTE accidents lose 3 young lives
-
-*2024-06-22 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198016) · `si`
-
-In separate incidents, three young lives were lost: a 19-year-old in a train accident near Kadugannawa, a 17-year-old girl in a motorcycle crash on Naula, and a 16-year-old boy in another motorcycle accident near Pensala. Investigations are ongoing.
-
-🟩
-
-A youth was killed following train accident in general area Kadugannawa and Pilimatalawa areas.
-
-The police said that the accident had occurred when the train traveling from Kandy to Polgahawela.
-
-The deceased has been identified as a 19 year old resident of Kadugannawa.
-
-The post mortem examination on the body is to be held at the Peradeniya Hospital while Kadugannawa Police are conducting further investigations.
-
-Meanwhile, a 17-year-old schoolgirl has died in a motorcycle accident on Naula yesterday afternoon.
-
-Police said that the two rugs and a followers were injured and admitted to the Kongahawela Hospital with injuries due to two motorbikes.
-
-A 16-year-old boy was killed in another motorcycle accident yesterday.
-
-The accident had taken place in the opposite cab and collided with a coconut tree in the pathway to control the motorcycle on the Pensala, Paniwalawa Junction.
-
-Serious injuries in the accident have died of hospitalization and hospitalized.
-
-◼️
-
-[Data](articles/24087f05.json)
-
-[Extended Data](ext_articles/24087f05.ext.json)
-
----
-
-### Sirisena's story is completely malicious - Kadinal
-
-*2024-06-22 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198015) · `si`
-
-Archbishop Malcolm Cardinal Ranjith disputes former President Maithripala Sirisena's claims about funds post-Passover attack, stating his organization has detailed records and audits. The Archbishop emphasizes the importance of addressing the needs of affected individuals, including medical care, education for orphans, and other necessities, highlighting that approximately 560 million rupees have been allocated and distributed among those in need.
-
-🟩
-
-Archbishop Malcolm Cardinal Ranjith says that he has all statistics on how the money has been spent after the Passover attack.
-
-The Thera points out that the statement made by former President Maithripala Sirisena regarding the money is baseless.
-
-...
-
-[Data](articles/730681b2.json)
-
-[Extended Data](ext_articles/730681b2.ext.json)
-
----
-
-### Muttiah Muralitharan invests Rs 1,400 crore in Karnataka
-
-*2024-06-22 11:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்நாடகாவில்-முத்தையா-முரளிதரன்-1-400-கோடி-ரூபாய்-முதலீடு/175-339240) · `ta`
-
-Muttiah Muralitharan, former Sri Lankan cricket star, invests Rs 1,400 crore in Karnataka, India, launching a soft drink and sweet products company. The venture expands his existing business in Sri Lanka, with a factory set to open in January 2025 on 46 acres of land.
-
-🟩
-
-Former Sri Lankan star cricketer Muttiah Muralitharan has started a soft drink company with an investment of Rs 1,400 crore in Karnataka, India.
-
-He is about to launch a factory that produces soft drinks and sweet products.
-
-Muttiah Muralitharan runs a soft drink and sweet type of product in Sri Lanka. He decided to introduce his soft drink company in India.
-
-Karnataka Industries Minister MP Patel held talks a few months ago. It was then promised that the Karnataka government would provide adequate cooperation and concessions.
-
-It is reported that Muttiah Muralitharan has launched the factory in India as an expansion of the factory in Sri Lanka.
-
-46 acres of land has been allocated for the construction of the factory and the manufacturing process will be launched from January 2025.. Remble
-
-◼️
-
-[Data](articles/d1c9bd1d.json)
-
-[Extended Data](ext_articles/d1c9bd1d.ext.json)
-
----
-
-### This is only for those over 40 ...
-
-*2024-06-22 11:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-40-வயதுக்கு-மேற்பட்டவர்களுக்கு-மட்டும்/175-339239) · `ta`
-
-Over 40s without national ID cards due to missing birth certificates now have until the end of this month to apply, extending from the original March 31st deadline.
-
-🟩
-
-The Department of Records said that those who are not able to obtain national identity cards over the age of 40 have been given the opportunity to get it.
-
-The deadline for obtaining identity cards has been extended till the 30th of this month, the Commissioner General of the Department of Records Pradeep Saputhandri said.
-
-Due to lack of birth certificate, they are unable to obtain the national identity card.
-
-Earlier, the deadline was granted until 31st March to send applications. The Commissioner of the Department said that this period has been extended till the 30th of this month.. Remble
-
-◼️
-
-[Data](articles/2ed74b73.json)
-
-[Extended Data](ext_articles/2ed74b73.ext.json)
-
----
-
-### NPP – A Reformed & Mature Political Movement – Part II
-
-*2024-06-22 11:10:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npp-a-reformed-mature-political-movement-part-ii/) · `en`
-
-An Analysis of JPV/NPP as a Reformed Political Movement along parliamentary democracy.
-
-PART I of this article delved into the historical perspective of the JVP, tracing its path from violence in 1971 and 1988/1989 to its political evolution to the parliamentary democracy in 1994. Following the above and gradually increasing the number of seats in the parliament, JVP emerged as the main opposition party with 34 parliamentary seats. This was a significant turning point for the JVP, marking its transition towards the expectation of the masses. Part II further elucidates this transformation, presenting the JVP/NPP as a mature and refined political party backed by the masses and outperforming its rivals in the democratic arena. This narrative, of course, counters the notion that the JVP/NPP is a group of individuals unfit for national leadership, instilling confidence in its ability to lead effectively to generate the change people have wanted since 1948.
-
-...
-
-[Data](articles/f165820a.json)
-
-[Extended Data](ext_articles/f165820a.ext.json)
 
 ---

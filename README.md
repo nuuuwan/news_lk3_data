@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 22:52:07**
+As of **2024-06-23 23:04:21**
 
 ## Newspaper Stats
 
-*Scraped **31,752** Articles*
+*Scraped **31,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,608
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,923
-adaderanasinhalalk | 5,199
+adaderanasinhalalk | 5,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,751 (100.0%) of 31,752 articles have been extended.
+31,752 (100.0%) of 31,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### එංගලන්තය ජය
+
+*2024-06-23 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198074) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ එංගලන්තය සහ අමෙරිකාව අතර තරගය අද (23) පැවැති තරගය ජය ගැනීමට එංගලන්තය සමත් විය.
+
+ඒ අමෙරිකාවට එරෙහිව පන්දුවාර 9යි පන්දු 4 කදී ලකුණු 117ක් ලබා ගනිමින්ය.
+
+කාසියේ වාසිය හිමිකර ගත්  එංගලන්තය තීරණය කළේ පළමුව පන්දුවට පහරදීමේ අවස්ථාව අමෙරිකාවට ලබා දීමටය.
+
+ඒ අනුව පන්දුවය පහරදුන් අමෙරිකාව පන්දුවාර 18 යි පන්දු 5කදී සියල්ලන් දැවී ලකුණූ 115ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/1274f23a.json)
+
+---
 
 ### Bird flu: Sri Lanka bars import of animals and animal products from affected countries
 
@@ -47,6 +65,8 @@ She also highlighted a serious new development, where cattle in the United State
 ...
 
 [Data](articles/037d282d.json)
+
+[Extended Data](ext_articles/037d282d.ext.json)
 
 ---
 
@@ -2451,29 +2471,5 @@ President Ranil Wickremesinghe added:
 [Data](articles/4d661a5d.json)
 
 [Extended Data](ext_articles/4d661a5d.ext.json)
-
----
-
-### Another wicket triple from Pat Kamins
-
-*2024-06-23 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198044) · `si`
-
-Pat Kamins, Australia's fast bowler, achieved his second hat-trick in the 2024 Twenty20 World Cup, securing it during the Super Eights against Afghanistan. This feat follows his performance where he took three wickets in three consecutive matches abroad. The Twenty20 format has seen eight hat-tricks so far, with Wanindu Hasaranga of Sri Lanka being one of the notable players to achieve this in 2021.
-
-🟩
-
-Australia's fast bowler patches today (23) showed Australia fast bowler patches to obtain their second wickets (Hattric) in the 2024 Twenty20 World Cup.
-
-With the hatstric obtained in the round of the Super Eights against Afghanistan.
-
-He recently took 3 wickets in three overseas.
-
-The Twenty20 Hattrics have recorded 8 hattrics in the T20 and the Twunu Hasaranga on behalf of Sri Lanka in 2021.
-
-◼️
-
-[Data](articles/a610f444.json)
-
-[Extended Data](ext_articles/a610f444.ext.json)
 
 ---

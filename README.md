@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 18:23:48**
+As of **2024-06-23 18:35:08**
 
 ## Newspaper Stats
 
-*Scraped **31,730** Articles*
+*Scraped **31,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,604
 tamilmirrorlk | 3,733
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,191
+adaderanasinhalalk | 5,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,729 (100.0%) of 31,730 articles have been extended.
+31,730 (100.0%) of 31,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### පාසල් දැරියව සමූහ දූෂණයට ලක්කළ තරුණයින්ට එරෙහිව අධිකරණය දුන් නියෝගය
+
+*2024-06-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198066) · `si`
+
+හංවැල්ල ජල්තර ප්‍රදේශයේ දී පාසල් ශිෂ්‍යාවක් සමූහ දූෂණයට ලක්කිරීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් තරුණයින් 08දෙනා අධිකරණය වෙත අද (23) ඉදිරිපත් කෙරිණි.
+
+අනතුරුව ඔවුන්ව පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට හෝමාගම වැඩබලන මහෙස්ත්‍රාත්  ප්‍රියංකා මද්දුම පටබැඳි මෙනෙවිය නියෝග කළාය.
+
+හංවැල්ල පොලිසිය මගින් අදාළ සැකකරුවන් තවදුරටත් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර ලබා දෙන ලෙස කරන ලද ඉල්ලීමක් අනුව මෙම නියෝගය නිකුත් කෙරිණි.
+
+මෙලෙස අධිකරණය වෙත ඉදිරිපත්කර තිබුණේ රණාල සහ ජල්තර පදිංචි පිරිසකි.
+
+16 හැවිරිදි පාසල් සිසුවියක් ඇයගේ පෙම්වතා සහ ඔහුගේ මිතුරන් පිරිසක් විසින් සමූහ දූෂණයකට ලක්කිරීමේ සිදුවීම ඉකුත් 21 වනදා වාර්තාවිය.
+
+◼️
+
+[Data](articles/267ac6af.json)
+
+---
 
 ### Railway operations restored on Up-country Line
 
@@ -45,6 +65,8 @@ As a result, the Department of Railways took steps to limit train services on th
 ◼️
 
 [Data](articles/46427ed4.json)
+
+[Extended Data](ext_articles/46427ed4.ext.json)
 
 ---
 
@@ -2413,25 +2435,5 @@ Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU conde
 [Data](articles/91f66114.json)
 
 [Extended Data](ext_articles/91f66114.ext.json)
-
----
-
-### Today is the second day of the Light Pooja of Tantirimale
-
-*2024-06-22 21:50:52* · [`adalk`](https://www.ada.lk/picture_story/තන්තිරිමලේ-ආලෝක-පූජාවේ-දෙවන-දිනය-අදයි/10-410365) · `si`
-
-The second day of the Light Pooja at Tantirimale marks the 22nd consecutive year of the event organized by Vijaya Newspapers. Led by North East Sangharanayake and other religious and local officials, this significant cultural and religious gathering continues to hold importance in Sri Lanka's heritage.
-
-🟩
-
-The Vijaya Newspapers held the second day of the Poson Lake Poonery at the historic Tantiripaya at the 21st consecutive year (22).
-
-North East Sangharanayake, President of the Maha Sangha in Sri Lanka, Lankadeepa, Ven. Tantiripaya, Ven. Tantiripaya, VenRegional Secretariat Rohana Dharmadasa and Mahawilachchiya Divisional Secretary Manjari C Chandradasha opened the light offering.
-
-◼️
-
-[Data](articles/8bdce479.json)
-
-[Extended Data](ext_articles/8bdce479.ext.json)
 
 ---

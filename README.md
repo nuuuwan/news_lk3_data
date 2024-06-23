@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 16:50:25**
+As of **2024-06-23 17:04:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,719 (100.0%) of 31,721 articles have been extended.
+31,721 (100.0%) of 31,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### රජයේ පාසල්වලට නිවාඩු දී නෑ
+### Public schools notices
 
 *2024-06-23 16:22:56* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පාසල්වලට-නිවාඩු-දී-නෑ/11-410379) · `si`
 
-රජයේ සියලුම පාසල් අද (24දා) සාමාන්‍ය  පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි. අද (24දා) සිට දින තුනක් රජයේ පාසල් සදහා නිවාඩු ලබා දී ඇති බවට අසත්‍ය පුවතක් ප්‍රචාරය වීම හේතුවෙන් අමාත්‍යාංශය මේ බව නිවේදනය කර තිබුණි.
+The Ministry of Education announced that all government schools will open as usual today (24), debunking rumors of closure. They urged against believing unofficial announcements, emphasizing the importance of relying only on official sources.
 
-අධ්‍යාපන අමාත්‍යාංශය නිකුත් කරනු ලබන නිල නිවේදනය හැර අනෙකුත් ප්‍රචාරයට නොරැවටෙන ලෙස ද අමාත්‍යංශය සදහන් කරයි.
+🟩
+
+The Ministry of Education says that all government schools will be held today (24). The Ministry stated that this was due to the propaganda that a falsehood was given to three days from today (24).
+
+The Ministry of Technology also stated that the Ministry of Education does not be deceived to propaganda other than the official announcement.
 
 ◼️
 
 [Data](articles/c4989d5e.json)
+
+[Extended Data](ext_articles/c4989d5e.ext.json)
 
 ---
 
@@ -698,19 +704,25 @@ Investigators reported that Matesh was the one who sells a methanol. The CBCID p
 
 ---
 
-### කිසිම පක්ෂයකට 113ක් ගන්න බෑ
+### No party can't get 113
 
 *2024-06-23 12:28:53* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පක්ෂයකට-113ක්-ගන්න-බෑ/11-410375) · `si`
 
-‘මැතිවරණයේදී අපිට ආසන 125 ක් ගන්න බැරිවෙයි. හැබැයි අපට විතරක් නෙවෙයි. මේ තියෙන අනුපාත ක්‍රමය යටතේ තියෙන ඡන්ද ටික පක්ෂවලට බෙදිලා ගියාම කිසිම පක්ෂයකට ආසන 113 ක් දිනාගන්න බැහැ. හැබැයි අපිට වැඩි ආසන ගණනක් ගන්න පුළුවන්. එතකොට කවුරු බලය ගත්තත් අපි නැතුව ආණ්ඩුවක් පිහිටුවන්න බැරි වෙනවා.’ යැයි වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+In a recent address, Sri Lanka's Port Naval and Aviation Minister Nimal Siripala de Silva highlighted the political landscape, stating that no single party could secure 113 seats in the upcoming election due to the fragmented nature of the vote. However, his party remains a significant player, emphasizing its influence regardless of the government formation. He called for unity within the Sri Lanka Freedom Party (SLFP) and the appointment of a capable president to lead the country forward, criticizing past leadership for constitutional violations and lack of party loyalty.
 
-ඒ මහතා මේ බව සඳහන් කළේ ඉකුත්දා මහියංගණය ප්‍රදේශයේ පැවැති ශ්‍රී ලංකා නිදහස් පක්ෂ ක්‍රියාකාරීන්ගේ රැස්වීමක් අමතමිනි. එහිදී වැඩි දුරටත් අදහස් දැක්වූ අමාත්‍යවරයා මෙසේද පැවසීය.
+🟩
 
-“අද අපේ බලාපොරොත්තුව ආණ්ඩුවක් පිහිටුවීම සඳහා අවශ්‍ය බහුතරය ලබාගැනීමයි. ආණ්ඩුවක් ලැබුණත් නැතත් ආසන ප්‍රමාණවත් සංඛ්‍යාවක් ගත්තම අපි තමයි තීරණාත්මක බලවේගය වෙන්නේ. දැන් අපේ 14 දෙනෙක් ඉන්නවා. අපිට ලේසියෙන්ම හැට හැත්තෑවකට මේක වැඩිකරගන්න පුළුවන්.
+'We can't take 125 seats in the election. But we are not the only one. When the votes under this rate is divided into parties, no party can win 113 seats. But we can take more seats. Then, whoever takes the government, there will be no government without us. "Port Naval and Aviation Minister Nimal Siripala de Silva said.
+
+He was addressing a meeting of the SLFP activists in Mahiyanganaya recently. The Minister further said,
+
+"Today we get the majority needed to establish a government. Whether you have a government or not, we are the decisive force that takes adequate number of seats. Now there are 14 of us. We can easily increase this for sixty-seven times.
 
 ...
 
 [Data](articles/7c5ad899.json)
+
+[Extended Data](ext_articles/7c5ad899.ext.json)
 
 ---
 

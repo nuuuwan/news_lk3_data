@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 15:19:33**
+As of **2024-06-23 15:34:36**
 
 ## Newspaper Stats
 
-*Scraped **31,710** Articles*
+*Scraped **31,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,68 +15,114 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,774
-adaderanalk | 3,599
+adalk | 2,775
+adaderanalk | 3,600
 tamilmirrorlk | 3,729
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,185
+adaderanasinhalalk | 5,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,706 (100.0%) of 31,710 articles have been extended.
+31,710 (100.0%) of 31,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### බ්‍රිතාන්‍යයේ ධනවත්ම පවුලේ සාමාජිකයින් ට සිර දඬුවම්
+### හෙට පාසල් පැවැත්වීම ගැන නිවේදනයක්
 
-*2024-06-23 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198059) · `si`
+*2024-06-23 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198060) · `si`
 
-බ්‍රිතාන්‍යයේ ධනවත්ම පවුලේ සාමාජිකයින් සිව් දෙනෙකුට එරෙහිව සිර දඬුවම් නියම කිරීමට ස්විට්සර්ලන්තයේ අධිකරණයක් කටයුතු කර ඇති බව වාර්තා වෙයි.
+හෙට (24) පාසල් කටයුතු සාමාන්‍ය පරිදි සිදු කෙරෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
 
-ඔවුන් ඉන්දියාවෙන් රැගෙනවිත් ජිනීවා මන්දිරයක සේවයේ යොදවා සිටි සේවකයින්ට නිසි ලෙස සලකා නොමැති බවට චෝදනා එල්ල වුණි.
+◼️
 
-ප්‍රකාශ් සහ කමාල් හින්දුජා, ඔවුන්ගේ පුත්‍රයා වන අජේ සහ ඔහුගේ බිරිඳ වන නම්රතා ට එරෙහිව එම දඬුවම පැනවීය.
-
-ඔවුන්ට එරෙහිව වසර 4 සිට වසර 4 1/2 දක්වා සිර දඬුවම් නියම කර තිබුණි.
-
-මිනිස් ජාවාරම සම්බන්ධයෙන්ද ඔවුන්ට එරෙහිව චෝදනා එල්ලවී තිබුණු අතර එම චෝදනාවෙන් ඔවුන්ව නිදොස් කර තිබේ.
-
-ඉන්දීය සම්භවයක් සහිත හින්දුජා, සිය මන්දිරයේ සේවය කිරීම සඳහා ඉන්දියාවෙන් පුද්ගලයින් තිදෙනෙක් රැගෙනවිත් තිබුණි.
-
-අධිකරණයේදී හෙළිවූයේ දිනකට පැය 18ක් පමණ ඔවුන්ව සේවයේ යොදවා ඇති බවත් පැයක් සඳහා එක් අයෙකුට ගෙවා ඇත්තේ ඩොලර් 8ක් පමණක් බවත් ය.
-
-එය ස්විස් නීතිය අනුව ගෙවිය යුතු මුදලට වඩා 10න් එකකටත් වඩා අඩුය. ඔවුන්ගේ විදෙස් ගමන් බලපත්‍ර ද හින්දුජා බාරයේ තබාගෙන තිබුණි.
-
-පැමිණිලිකරුවන්ගේ නීතිඥයින් අධිකරණයේදී පවසා ඇත්තේ චූදිතයින් ඔවුන්ගේ බල්ලන් වෙනුවෙන් ඊට වඩා වැඩි මුදලක් වියදම් කර ඇති බවයි.
-
-...
-
-[Data](articles/bccca2cb.json)
+[Data](articles/e2e06132.json)
 
 ---
 
-### பொன்சேகாவுக்கு உலகின் உயர்ந்த பதவி
+### The British richest family members sentenced to imprisonment
+
+*2024-06-23 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198059) · `si`
+
+Four wealthy British-based Hinduja brothers, originally from India, were sentenced to 4.5 years in prison for human trafficking. They were accused of exploiting workers from India, paying them significantly below the legal minimum wage, and forcing them to work excessive hours. The case highlighted issues of labor exploitation and the mistreatment of foreign workers.
+
+🟩
+
+It is reported that a Switzerland has been sentenced to prison with four richest family members in Britain.
+
+The employees who were employed in India from India were accused of not properly considered.
+
+Prakash and Kamal Hinduja imposed that punishment against the name of Ajay and his wife, their son.
+
+The 4th to 4 years have been sentenced to 4 1/2 years against them.
+
+They were accused of the human trafficking and accused of their accusation.
+
+Hinduja, with Indian origin, was backed by three people from India to serve in his House.
+
+In court revealed that they were employed for about 18 hours a day and that one had paid only $ 8 for an hour.
+
+It is less than one 10 above the amount owed by Swiss law. Their passports were also placed in Hindinga.
+
+The complainant lawyers have said in court that the accused have spent more money for their dogs.
+
+The Hindujah family members are considered to reach about 37 billion in £ 37 billion.
+
+The Hinduja family owns the industry like fuel, gas and banks.
+
+◼️
+
+[Data](articles/bccca2cb.json)
+
+[Extended Data](ext_articles/bccca2cb.ext.json)
+
+---
+
+### Country cannot prosper under leaders who abandon it in times of crisis – President
+
+*2024-06-23 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100046/country-cannot-prosper-under-leaders-who-abandon-it-in-times-of-crisis-president) · `en`
+
+President Ranil Wickremesinghe emphasized that a nation cannot prosper under leaders who flee during times of crisis.
+
+He further highlighted that had he not taken charge during the country’s period of turmoil, he shuddered to think of the current state of affairs.
+
+These remarks were made by President Ranil Wickremesinghe during his attendance at a meeting of United National Party representatives from the Batticaloa District, held yesterday (22) at the Municipal Council Auditorium, Batticaloa.
+
+“I had the opportunity to engage with various political and public organizations in Batticaloa. Presently, our country faces significant challenges. During the previous administration, I consistently emphasized the necessity of maintaining a reserve of at least USD 03 billion to propel our economy forward.
+
+...
+
+[Data](articles/33b3aa9c.json)
+
+---
+
+### Fonseka is the highest position in the world
 
 *2024-06-23 14:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-உலகின்-உயர்ந்த-பதவி/175-339285) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கு உலகின் பாதுகாப்புத் துறையில் மிக உயர்ந்த மார்ஷல் பதவி விரைவில் வழங்கப்படவுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+Field Marshal Sarath Fonseka, a United People's Power MP, is set to receive the prestigious title of "Marshall," equivalent to a six-star general rank, making it the highest military rank globally. This honor comes after his significant contributions to securing victories, notably in the North. The title of Marshall has been bestowed upon notable global figures including former presidents and military leaders from various countries, highlighting its significance.
 
-அரசாங்கத்திடம்  பொன்சேகா விடுத்த கோரிக்கைக்கு அமைய ஆறு நட்சத்திர ஜெனரலாக கருதப்படும்  "மார்ஷல்" பதவி அவருக்கு வழங்கப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-வடக்கின் யுத்த வெற்றிக்காக  பொன்சேகா ஆற்றிய தியாகத்தை கருத்தில் கொண்டு இதற்கு முன்னர் பீல்ட் மார்ஷல் பதவிக்கு நியமிக்கப்பட்டார்.
+It is reported that United People's Power MP Field Marshal Sarath Fonseka will soon be given the highest number of Marshal post in the world's security sector.
 
-அவருக்கு இம்முறை வழங்கப்பட உத்தேசிக்கப்பட்ட மார்ஷல் பதவி இதற்கு முன்னர் உலகின் பிரபல அரசியல் தலைவர்கள் மற்றும் இராணுவத் தலைவர்கள் பலருக்கு வழங்கப்பட்டிருந்தது.
+It is reported that he will be given the post of "Marshall", which is considered a six star general on Fonseka's request to the government.
 
-யூகோஸ்லாவியாவின் முன்னாள் ஜனாதிபதி மார்ஷல் டிட்டோ, அமெரிக்காவின் முன்னாள் ஜனாதிபதி ஜார்ஜ் வாஷிங்டன், ரஷ்யாவின் முன்னாள் ஜனாதிபதி ஜோசப் ஸ்டாலின், சீனாவின் முன்னாள் ஜனாதிபதி மாவோ சேதுங், வடகொரியாவின் முன்னாள் ஜனாதிபதி கிம் இல் சுங், ஜெர்மனியின் முன்னாள் போர்த் தலைவர் ஹெர்மன் கோரிங் மற்றும் பிற உயர்மட்ட ரஷ்யாவின் தலைவர்கள் இதற்கு முன் மார்ஷல் பட்டத்துடன் கௌரவிக்கப்பட்டனர்.
+Fonseka was previously appointed as Fonseka's sacrifice for the victory of the North.
+
+Marshall, who was proposed to be given this time, had previously been given to many of the world's leading political leaders and military leaders.
+
+Former President of Yugoslavia, Marshall Ditto, former US President George Washington, former Russian President Joseph Stalin, former Chinese President Mao Sethung, former North Korean President Kiml Chung, former German war leader Herman Goring and other top Russian leaders have been honored.
 
 ◼️
 
 [Data](articles/9de9b9af.json)
+
+[Extended Data](ext_articles/9de9b9af.ext.json)
 
 ---
 
@@ -110,39 +156,57 @@ The suspect had said that he had killed his brother to prevent him from orphanit
 
 ---
 
-### புலிகள் மீதான தடை  நீக்கக்கோரிக்கை  நிராகரிப்பு
+### Ban
 
 *2024-06-23 14:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடை-நீக்கக்கோரிக்கை-நிராகரிப்பு/175-339284) · `ta`
 
-இங்கிலாந்தில் விடுதலைப் புலிகள் மீதான தடையை நீக்கக் கோரி நாடு கடந்த தமிழீழ அரசாங்கம் (TGTE) சமர்ப்பித்த விண்ணப்பத்தை அந்த நாட்டின் தடைசெய்யப்பட்ட அமைப்புகளின் மேன்முறையீட்டு ஆணையம்  வெள்ளிக்கிழமை (21)  நிராகரித்துள்ளது.
+The UK Appeal Authority upheld the ban on the LTTE, rejecting the Tamil Eelam government's request to lift it. This decision aligns with the UK's stance on the LTTE's violent past and ongoing concerns about its activities.
 
-இந்த முடிவு விடுதலைப் புலிகள் இங்கிலாந்தில் தடை செய்யப்பட்ட அமைப்பாக இருப்பதை உறுதி செய்கிறது.
+🟩
 
-அகிம்சை வழிகளில் அதன் அரசியல் மற்றும் கருத்தியல் நோக்கங்களைத் தொடர விரும்புவதால், ஐக்கிய இராச்சியத்தில், தமிழீழ விடுதலைப்புலிகள் அமைப்பு தடைசெய்யப்படக்கூடாது என்று நாடு கடந்த தமிழீழ அரசாங்கம் வாதத்தை முன்வைத்திருந்தது.
+The Appeal Authority of the country on Friday (21) has rejected the application submitted by the Tamil Eelam government (TGTE) to remove the ban on the LTTE in the UK.
 
-எனினும் இலங்கையின் சுதந்திர தமிழ் அரசை நிறுவுவதற்கு நாடு கடந்த தமிழீழ அரசாங்கம் ஆதரவளிக்கிறது என்ற நிலைப்பாட்டை இலங்கை அரசாங்கம் கொண்டிருக்கிறது என்பதை ஆணையகம் கவனத்தில் கொண்டதாக தெரிவிக்கப்பட்டுள்ளது.
+This decision ensures that the LTTE is a banned organization in the UK.
 
-ஐக்கிய இராச்சியத்தின் இராஜாங்க செயலர், தமிழீழ விடுதலைப்புலிகளை பயங்கரவாதப் பட்டியலில் 2001ஆம் ஆண்டு மார்ச் 29 ஆம் திகதியன்று சேர்த்தார்.
+In the United Kingdom, the Liberation Tigers of Tamil Eelam (LTTE) in the United Kingdom has argued that the Liberation Tigers of Tamil Eelam (LTTE) should not be banned in nonviolence.
 
-இந்தநிலையில் தமிழீழ விடுதலைப் புலிகளின் மீதான தடையை நீக்குவதற்கு முன்னரும் முயற்சிகள் மேற்கொள்ளப்பட்டன.
+However, the Commission has stated that the Sri Lankan government is in the position that the country's Tamil Eelam government is supporting the establishment of the independent Tamil state of Sri Lanka.
+
+The Secretary of the United Kingdom added the Liberation Tigers of Tamil Eelam (LTTE) on March 29, 2001.
+
+At this juncture, efforts were made before the LTTE's ban on the LTTE.
+
+On December 7, 2018, the Government of Tamil Eelam (LTTE) has applied to the British Home Ministry to remove the LTTE's ban.
 
 ...
 
 [Data](articles/7dd52cfc.json)
 
+[Extended Data](ext_articles/7dd52cfc.ext.json)
+
 ---
 
-### மீனவர்களை விடுதலை செய்க: கண்ணீருடன் உறவுகள்
+### Release fishermen: Relationships with tears
 
 *2024-06-23 14:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுதலை-செய்க-கண்ணீருடன்-உறவுகள்/175-339283) · `ta`
 
-இராமேஸ்வரம் மீன் பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் சென்ற மூன்று படகையும் அதிலிருந்த 22 மீனவர்களையும் எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் இலங்கை கடற்படை கைது செய்து காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்து  சென்று விசாரணைக்கு பின்னர் யாழ்ப்பாணம் மீன் வளத்துறை அதிகாரிகளிடம் மீனவர்கள் படகுடன் ஒப்படைக்கப்பட்டனர்.
+In a tense situation, 22 Sri Lankan fishermen were arrested by their own navy for crossing borders while fishing near Rameswaram. They were taken to a naval camp and later released after health checks. This incident sparked protests in coastal villages, highlighting the struggle of fishermen during a 60-day fishing ban. Relatives urge immediate release, emphasizing the need for survival.
 
-இராமநாதபுரம் மாவட்டம் ராமேஸ்வரம் மீன் பிடித்து துறைமுகத்தில் இருந்து சனிக்கிழமை (22)  507 விசைப்படகுகளில் 5 ஆயிரத்திற்கும் அதிகமான மீனவர்கள் மீன்பிடி அனுமதி சீட்டு பெற்று மீன் பிடிக்க கடலுக்கு சென்றனர்.
+🟩
+
+The Sri Lankan Navy arrested the Sri Lankan Navy on charges of crossing the border with the 22 fishermen who were fishing from the Rameswaram fishing port and taken to the Kankesanthurai Naval Camp.
+
+More than 5 thousand fishermen went to sea for fishing from 507 fishermen from the port of Rameswaram in Ramanathapuram district on Saturday (22).
+
+Accordingly, Suresh Babu, Kalidas, Rubin, Rubin, Nagarajan, including the Sri Lankan navy, who had been fishing in the area where fishermen were fishing in the Neduntivu seas on Sunday (23), were fishing in the area.The fishermen were taken to the Kankesanthurai Naval Camp and the fishermen were handed over to the first phase of the fishermen at the Mayiliti fishing port.
+
+After malaria and corona testing to the fishermen handed over, all the fishermen are currently being taken to the Jaffna Fisheries Office and are being investigated.
 
 ...
 
 [Data](articles/065935c9.json)
+
+[Extended Data](ext_articles/065935c9.ext.json)
 
 ---
 
@@ -723,6 +787,24 @@ Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort re
 [Data](articles/612438d9.json)
 
 [Extended Data](ext_articles/612438d9.ext.json)
+
+---
+
+### පන්නිපිටියේදි යකා නැටූ හිනිඳුම සැරයන්ගේ වැඩ තහනම්
+
+*2024-06-23 11:26:54* · [`adalk`](https://www.ada.lk/breaking_news/පන්නිපිටියේදි-යකා-නැටූ-හිනිඳුම-සැරයන්ගේ-වැඩ-තහනම්/11-410374) · `si`
+
+මහරගම  පන්නිපිටිය ප්‍රදේශයේදී  කලහකාරි ලෙස හැසිරි මහරගම පොලිසියේ  නිලධාරීන්ගේ රාජකාරියට ද බාධා කළ හිනිදුම පොලිස් සැරයන් වරයා ගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය කියයි
+
+මහරගම පන්නිපිටිය  ප්‍රදේශයේ පුද්ගලයකු බීමත්ව කලාකාරී ලෙස හැසිරෙන බවට 119 පොලිස් හදිසි ඇමතුම් මධ්‍යස්ථානයෙන් ලද පණිවිඩයක් අනුව මහරගම පොලිස් ස්ථානයේ රාත්‍රී ජංගම සංචාරයේ යෙදී සිටි කණ්ඩායමක් එම ස්ථානයට ගොස් සැකකරු අත්අඩංගුවට ගැනීමට ගැනීමට කටයුතු  කර තිබූ අතර එම අවස්ථාවේදී සැකකරු පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කර ආවේගශීලීව හැසිරී තිබූ බව පොලිසිය කියයි
+
+පසුව සැකකරු පොලිසියට රැගෙන ඒමෙන් අනතුරුව අනතුරුව සිදු කළ විමර්ශනවලදී ඔහු හිනිදුම පොලිසියට අනුයුක්ත පොලිස් සැරයන් වරයෙකු බවට අනාවරණය වී ඇති අතර ඉකුත් 20 වෙනිදින  සැරයන්වරයා  රජයේ රස පරීක්ෂක කාර්යාල වෙත භාණ්ඩ භාරදීමට සහ දුරකථන ඇමතුම් විස්තර ලබා ගැනීමේ රාජකාරී කටයුතු සඳහා ස්ථානයෙන් පිටව ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණි
+
+සැකකරු නුගේගොඩ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන මස 3 වෙනිදින  දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇත
+
+...
+
+[Data](articles/b587e01e.json)
 
 ---
 
@@ -2299,53 +2381,5 @@ Meanwhile on Wednesday (19), the leader of the Tamil United Freedom Front (TUFF)
 [Data](articles/d4ca1b42.json)
 
 [Extended Data](ext_articles/d4ca1b42.ext.json)
-
----
-
-### Unbundling The CEB II: Ranil & The Politics Of Reforming SOEs
-
-*2024-06-22 18:34:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unbundling-the-ceb-ii-ranil-the-politics-of-reforming-soes/) · `en`
-
-It is an old truism in policy analysis that there is nothing purely ‘technical’ in policy decisions. Every policy decision has a political aspect to it. Technical analysis is necessary and useful to identify and evaluate feasible options, including the costs and benefits of each option. In the end, what is selected or rejected is a political matter based on political preferences. There is nothing wrong with that. What gets to be objectionable is when decisions are made to reach outcomes to benefit some or disbenefit someone else based on inappropriate considerations.
-
-...
-
-[Data](articles/7847aa78.json)
-
-[Extended Data](ext_articles/7847aa78.ext.json)
-
----
-
-### Free Markets Predate Capitalism
-
-*2024-06-22 18:33:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/free-markets-predate-capitalism/) · `en`
-
-Göbekli Tepe is the best known of half a dozen sites which have captured the attention of archeologists. Located in south-east Anatolia (Turkey) in the upper-reaches of the river Euphretes in the northern portion of the Fertile Crescent, it is an ancient market town with archeologically interesting temples which date back to the neolithic (new stone age) period, 9500-8000 BC. The birth of agriculture is credited to women who stayed at home and planted (gatherers) as men (hunters) buggered-off, chewed on meat, munched bones and came home from time to time to empty their overfull containers before they burst, and to procreate. The point of all this for this essay is that ancient market towns predate modes of production (slavery, feudalism, capitalism). Free markets are not a creation, nor a prelude, to capitalism as bogus liberal democrats, the IMF or an assortment of crooks would have us believe. Markets have been an ancient setting of human dealings for over ten-thousand years.
-
-...
-
-[Data](articles/f20a94aa.json)
-
-[Extended Data](ext_articles/f20a94aa.ext.json)
-
----
-
-### Pre-school teacher monthly allowance from Poson Maha
-
-*2024-06-22 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-ගුරු-මාසික-දීමනාව--පොසොන්-මහේ-සිට-දෙගුණයක්-වේ/11-410362) · `si`
-
-Mrs. Yamun Perera, informed by the Ministry and Divisional Secretariats, will provide pre-school teachers with a monthly allowance as per the Poson Maha budget.
-
-🟩
-
-The Rs.
-
-Accordingly, Mrs. Yamun Perera has been informed by the Ministry and the Divisional Secretariats to provide the allowance to the teachers from Rs..
-
-◼️
-
-[Data](articles/4a7501d6.json)
-
-[Extended Data](ext_articles/4a7501d6.ext.json)
 
 ---

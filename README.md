@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 16:34:40**
+As of **2024-06-23 16:50:25**
 
 ## Newspaper Stats
 
-*Scraped **31,719** Articles*
+*Scraped **31,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,776
+adalk | 2,778
 adaderanalk | 3,601
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
@@ -26,27 +26,49 @@ adaderanasinhalalk | 5,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,718 (100.0%) of 31,719 articles have been extended.
+31,719 (100.0%) of 31,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### කුරුලු කූඩුවෙන් මතුවූ හෙරොයින්
+### රජයේ පාසල්වලට නිවාඩු දී නෑ
+
+*2024-06-23 16:22:56* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පාසල්වලට-නිවාඩු-දී-නෑ/11-410379) · `si`
+
+රජයේ සියලුම පාසල් අද (24දා) සාමාන්‍ය  පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි. අද (24දා) සිට දින තුනක් රජයේ පාසල් සදහා නිවාඩු ලබා දී ඇති බවට අසත්‍ය පුවතක් ප්‍රචාරය වීම හේතුවෙන් අමාත්‍යාංශය මේ බව නිවේදනය කර තිබුණි.
+
+අධ්‍යාපන අමාත්‍යාංශය නිකුත් කරනු ලබන නිල නිවේදනය හැර අනෙකුත් ප්‍රචාරයට නොරැවටෙන ලෙස ද අමාත්‍යංශය සදහන් කරයි.
+
+◼️
+
+[Data](articles/c4989d5e.json)
+
+---
+
+### Heroin emerged from the bird cage
 
 *2024-06-23 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198063) · `si`
 
-කුරුලු කූඩුවක් තුළ සඟවා තිබූ රුපියල් ලක්ෂ 75කට අසන්න වටිනා හෙරොයින් මත්කුඩු තොගයක් සමග ත්‍රිරෝද රථ රියදුරෙකු අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය පවසයි.
+A three-wheeler driver was arrested in Colombo with 440 grams of heroin hidden in a bird cage. The drugs were discovered during a search at the Western Province Investigation headquarters. The suspect, who also had a white plastic bottle containing more drugs, revealed the location of another stash in Sangharaja Mawatha, Wattala. The 46-year-old man was later sent to court.
 
-එම සැකකරු සමග මත්කුඩු ග්‍රෑම් 442 මිලිගෑම් 225ක් පොලිස් භාරයට ගෙන තිබුණි.
+🟩
 
-යුක්තිය මෙහෙයුමේ යෙදී සිටි කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ උප පොලිස් පරීක්ෂක බණ්ඩාර නිලධාරියා වෙත බස්නාහිර පළාත් බුද්ධි මූලස්ථානයේ නිලධාරීන් විසින් හෙරොයින් මත්කුඩු ජාවාරම් සිදුකරනු ලබන පුද්ගලයෙකු සම්බන්ධයෙන් ලබා දෙන ලද තොරතුරකට අනුව කොළඹ 14 මාදම්පිටිය පාරේ නිවසකදී සැකපිට මෙම සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+The Colombo Crimes Division says that a three-wheeler driver has been arrested along with a large haul of heroin concealed in a bird cage.
 
-අත්අඩංගුවට ගත් එම සැකකරුගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී මත්ද්‍රව්‍ය සඟවා ඇති ස්ථානයක් සම්බන්ධයෙන් අනාවරණය කරන ලද තොරතුරු අනුව ඔහුගේ මඟ පෙන්වීම මත වත්තල හුණූපිටිය සංඝරාජ මාවතේ ඉදිකරමින් පවතින නිවසක් පිටුපස තිබූ කුරුල්ලන් නොසිටින කුරුලු කූඩුවක සඟවා ඇති බවට අනාවරණය කළ බව පොලීසිය පැවසීය.
+The suspects were taken into custody by 442 mph 440 grams of drugs with the suspect.
+
+The suspect has been arrested on suspect at the Western Province Investigation (SLTB headquarters) at the UN Ministerial Investigation Department (Crime Division) of the Colombo Criminal Investigation Unit of the Colombo Crimes Division in Colombo.
+
+The arrested suspect had revealed that the birds were hidden in a house in Sangharaja Mawatha, Wattala, Wattala, Wattala, Wattala, Wattala.
+
+Accordingly, the bird cage had been closed with the suspect with the suspect, while the suspect's possession was a cylinder of the bird cyplape, which had a cylinder in a cylinder of the bird and inspecting it.The drug was found in a white plastic bottle.
 
 ...
 
 [Data](articles/64ee2c31.json)
+
+[Extended Data](ext_articles/64ee2c31.ext.json)
 
 ---
 
@@ -673,6 +695,22 @@ Investigators reported that Matesh was the one who sells a methanol. The CBCID p
 [Data](articles/8f800573.json)
 
 [Extended Data](ext_articles/8f800573.ext.json)
+
+---
+
+### කිසිම පක්ෂයකට 113ක් ගන්න බෑ
+
+*2024-06-23 12:28:53* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පක්ෂයකට-113ක්-ගන්න-බෑ/11-410375) · `si`
+
+‘මැතිවරණයේදී අපිට ආසන 125 ක් ගන්න බැරිවෙයි. හැබැයි අපට විතරක් නෙවෙයි. මේ තියෙන අනුපාත ක්‍රමය යටතේ තියෙන ඡන්ද ටික පක්ෂවලට බෙදිලා ගියාම කිසිම පක්ෂයකට ආසන 113 ක් දිනාගන්න බැහැ. හැබැයි අපිට වැඩි ආසන ගණනක් ගන්න පුළුවන්. එතකොට කවුරු බලය ගත්තත් අපි නැතුව ආණ්ඩුවක් පිහිටුවන්න බැරි වෙනවා.’ යැයි වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+
+ඒ මහතා මේ බව සඳහන් කළේ ඉකුත්දා මහියංගණය ප්‍රදේශයේ පැවැති ශ්‍රී ලංකා නිදහස් පක්ෂ ක්‍රියාකාරීන්ගේ රැස්වීමක් අමතමිනි. එහිදී වැඩි දුරටත් අදහස් දැක්වූ අමාත්‍යවරයා මෙසේද පැවසීය.
+
+“අද අපේ බලාපොරොත්තුව ආණ්ඩුවක් පිහිටුවීම සඳහා අවශ්‍ය බහුතරය ලබාගැනීමයි. ආණ්ඩුවක් ලැබුණත් නැතත් ආසන ප්‍රමාණවත් සංඛ්‍යාවක් ගත්තම අපි තමයි තීරණාත්මක බලවේගය වෙන්නේ. දැන් අපේ 14 දෙනෙක් ඉන්නවා. අපිට ලේසියෙන්ම හැට හැත්තෑවකට මේක වැඩිකරගන්න පුළුවන්.
+
+...
+
+[Data](articles/7c5ad899.json)
 
 ---
 
@@ -2365,35 +2403,5 @@ Bangladesh won the advantage of the match first.
 [Data](articles/695bb62f.json)
 
 [Extended Data](ext_articles/695bb62f.ext.json)
-
----
-
-### Free-Markets Pre-Date Capitalism
-
-*2024-06-22 19:22:00* · [`islandlk`](http://island.lk/free-markets-pre-date-capitalism/) · `en`
-
-Gobeli Teppe is the best known of half a dozen sites which have captured the attention of archeologists. Located in south-east Anatolia (Turkey) in the upper-reaches of the river Euphretes in the northern portion of the Fertile Crescent, it is an ancient market town with archeologically interesting temples which date back to the neolothic (new stone age) period, 9500-8000 BC. The birth of agriculture is credited to women who stayed at home and planted (gatherers) as men (hunters) pushed-off, chewed on meat, munched bones and came home from time to time to empty their overful containers# before they burst, and to procreate. The point of all this for this essay is that ancient market towns predate modes of production (slavery, feudalism, capitalism). Free markets are not a creation, nor a prelude, to capitalism as bogus liberal democrats, the IMF or an assortment of crooks would have us believe. Markets have been an ancient setting of human dealings for over ten-thousand years.
-
-...
-
-[Data](articles/5dbf0dd8.json)
-
-[Extended Data](ext_articles/5dbf0dd8.ext.json)
-
----
-
-### Republican hardliners already sowing doubts on presidential election integrity
-
-*2024-06-22 19:12:00* · [`islandlk`](http://island.lk/republican-hardliners-already-sowing-doubts-on-presidential-election-integrity/) · `en`
-
-Adjudicated rapist and convicted felon Donald Trump’s pathological yearning for absolute fealty was on display at Tuesday’s Republican primary election in Virginia’s Fifth District, a deep-red Republican seat.
-
-Popular incumbent, ultra-conservative Representative Bob Good, head of the Freedom Caucus, which includes indomitable Trump warriors like Marjorie Taylor Greene, Matt Gaetz and Jim Jordan, was seeking a third Congressional term. In a primary where a Republican victory was a foregone conclusion in the general election, Good faced a challenge for this safe Republican seat from Republican State Senator, John J. McGuire III, also a Republican hard-liner, endorsed by Donald Trump.
-
-...
-
-[Data](articles/52f708d9.json)
-
-[Extended Data](ext_articles/52f708d9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 08:17:18**
+As of **2024-06-23 08:22:18**
 
 ## Newspaper Stats
 
-*Scraped **31,644** Articles*
+*Scraped **31,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,764
 adaderanalk | 3,587
-tamilmirrorlk | 3,715
+tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
 adaderanasinhalalk | 5,167
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,641 (100.0%) of 31,644 articles have been extended.
+31,644 (100.0%) of 31,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### இந்திய மீனவர்கள் 18 பேர் கைது
+
+*2024-06-23 08:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-18-பேர்-கைது/175-339264) · `ta`
+
+இலங்கை கடல் எல்லைக்குள் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட 18 இந்திய மீனவர்களை இலங்கைக் கடற்படையினர் கைது செய்துள்ளனர்.
+
+அத்துடன் 3 இந்திய மீன்பிடி இழுவை படகுகளையும் கைப்பற்றியுள்ளதாக இலங்கை கடற்படையின் ஊடகப் பிரிவு தெரிவித்துள்ளது
+
+◼️
+
+[Data](articles/fe5c4625.json)
+
+---
 
 ### The accident occurred in a manufacturer of a bus
 
@@ -2237,25 +2251,5 @@ Chasing a 129 target for reply, West Indies won the match with 130 runs in 5 ove
 [Data](articles/fc8d7fff.json)
 
 [Extended Data](ext_articles/fc8d7fff.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-06-22 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100015/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provincesand in Kandy, Nuwara Eliya and Puttalam districts.
-
-Several spells of light showers will occur in Matale and Anuradhapura districts, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/b3b27f0c.json)
-
-[Extended Data](ext_articles/b3b27f0c.ext.json)
 
 ---

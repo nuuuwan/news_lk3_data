@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 16:05:35**
+As of **2024-06-23 16:19:28**
 
 ## Newspaper Stats
 
-*Scraped **31,716** Articles*
+*Scraped **31,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,62 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,775
+adalk | 2,776
 adaderanalk | 3,601
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,187
+adaderanasinhalalk | 5,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,715 (100.0%) of 31,716 articles have been extended.
+31,716 (100.0%) of 31,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### පුද්ගල ඝාතනයකට පාකිස්තානුවන් 27ක් අත්අඩංගුවට
+### ශ්‍රී ලංකා කාන්තා 20යි 20 කණ්ඩායමට අනුමැතිය
+
+*2024-06-23 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198062) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කාන්තා කණ්ඩායම සමග පැවැත්වෙන 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා කාන්තා කණ්ඩායම සඳහා ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා අනුමැතිය ලබාදී තිබේ.
+
+ජූනි 24, 26 සහ 28 යන දිනයන්හී එම තරගාවලිය හම්බන්තොට දී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/ba34751e.json)
+
+---
+
+### 27 Pakistani arrested for murder
 
 *2024-06-23 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198061) · `si`
 
-කුරානයට අපහාස කළ බව කියන පුද්ගලයෙකුව පාකිස්තානයේ ස්වාත් ප්‍රදේශයේදී වධහිංසනයට ලක්කර ඝාතනය කිරීමේ සිද්ධියකට සම්බන්ධ සැකකරුවන් 27 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Pakistan, 27 individuals were arrested for allegedly insulting the Qur'an in the Mahathath area, leading to a violent incident where a 36-year-old man was killed. The arrests followed a complaint about the desecration, with police detaining suspects linked to the violence and property damage.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 36 හැවිරිදි එරට පන්ජාබ් ප්‍රාන්තයේ පදිංචිකරුවෙකු බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අදාළ පුද්ගලයා කුරානයට අපහාස කළ බවට ලද පැමිණිල්ලකට අනුව පොලීසිය විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+A person who was saying that the Qur'an was insulted in the Mahathath area in Pakistan has arrested 27 suspects.
 
-කෙසේවෙතත් පොලිස් ස්ථානයට කඩා වැදී එහි දේපොළවලට ද පහරදී රථවාහනවලට ගිනි තැබූ පිරිසක් විසින් අත්අඩංගුවේ පසුවූ පුද්ගලයාව රැගෙන ගොස් ඇති බව ස්වාත් පොලිස් ප්‍රධානියා ප්‍රකාශ කළේය.
+The victim was a 36 year old resident of Punjab.
 
-පසුව එම පුද්ගලයාට අමානුෂික ලෙස පහරදී ඇති ඔවුන් ඔහුගේ සිරුරට  ගිනි තබා තිබේ.
+He was arrested by the police according to a complaint lodged by the complaint that the person had been insulted to the Quran.
 
-එම අවස්ථාවේ විශාල පිරිසක් එහි රැස්ව සිට ඇති අතර සිද්ධියට සම්බන්ධ සැකකරුවන් 27 දෙනෙකු මේ වන විට අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The Head of the Head of the Police said that the police had taken away from a group of people who had been arrested and burned to property.
+
+They have been brutally assaulted in brutally beaten that person.
+
+A large number of people had been gathered at the time and 27 suspects involved in the incident have been arrested.
 
 ◼️
 
 [Data](articles/23600adf.json)
+
+[Extended Data](ext_articles/23600adf.ext.json)
 
 ---
 
@@ -91,6 +111,24 @@ The Ministry of Education has issued a statement that school activities will be 
 [Data](articles/e2e06132.json)
 
 [Extended Data](ext_articles/e2e06132.ext.json)
+
+---
+
+### බෙන්තොට රෝහලේ වෛද්‍යවරයෙකුට තර්ජනය කළ හතරක්  අල්ලයි
+
+*2024-06-23 15:15:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලේ-වෛද්‍යවරයෙකුට-තර්ජනය-කළ-හතරක්--අල්ලයි/11-410378) · `si`
+
+බෙන්තොට රජයේ රෝහලේ වෛද්‍ය නිලධාරියෙකුට තර්ජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට තරුණයින් හතර  දෙනෙකු අත් අඩංගුවට ගත් බව බෙන්තොට පොලීසිය පැවසීය.
+
+ඉකුත් 20 දා රාත්‍රියේ බෙන්තොට රෝහල ඉදිරිපිට කොළඹ - ගාල්ල මහා මාර්ගයේදී  යතුරු පැදි දෙකක් එකිනෙක ගැටීමෙන් තුවාල ලබා රෝහලට ඇතුළත් කළ තිදෙනෙකුට ප්‍රතිකාර කරමින් සිටියදී සහ ඉන්පසුව රෝහලට පැමිණි එක් තුවාලකරුවෙකුගේ පාර්ශවයේ පිපිරිසක්  විසින්   වෛද්‍යවරයාට මෙම තර්ජනය කර ඇතැයි පොලීසිය කියයි.
+
+රෝහලේ පැවති දන්සලකට අවශ්‍ය ද්‍රව්‍ය ගෙන ඒම සඳහා යමින් සිටි සෞඛ්‍ය කාර්ය සහායකවරයෙකු හා සහායිකාවක රැගත් යතුරුපැදියක් සහ බෙන්තොට සංචාරක හෝටලයක සේවය කරන තරුණයෙකු විසින් පදවාගෙන ගිය යතුරු පැදියක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුවී තිබේ.
+
+එම අනතුරෙන් එක් යතුරු පැදියක ගමන් ගත්  සෞඛ්‍ය සහායකවරයා සහ සහායකවරියත් අනෙක් යතුරු පැදියේ ගමන් ගත්  හෝටල් සේවකයාත් තුවාල ලබා රෝහලේ හදිසි ප්‍රතිකාර ඒකකයට ඇතුළත් කර තිබිණි .
+
+...
+
+[Data](articles/d91212fa.json)
 
 ---
 
@@ -2337,59 +2375,5 @@ According to these chronicles, Tissa, the second son of Mutasiva, was out on a h
 [Data](articles/3b59155d.json)
 
 [Extended Data](ext_articles/3b59155d.ext.json)
-
----
-
-### President visits Seneon Church
-
-*2024-06-22 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198030) · `si`
-
-President Ranil Wickremesinghe visited the Zone Church in Batticaloa to assess its reconstruction. He discussed the progress with the Chief Priest and directed officials to expedite repairs, allocating resources through the Presidential Secretariat. The Army Commander was also tasked with assisting in the renovation efforts.
-
-🟩
-
-The President has been summoned to the reconstruction of the Zone Church in Batticaloa, Batticaloa.
-
-President Ranil Wickremesinghe has gone to the church this morning to investigate the reconstruction of the Zone's restoration work today (22).
-
-The President has held a discussion with the Chief Priest of the church, the Presidential Media Unit.
-
-The President has instructed the officials to submit a report to the government that the repair work of the church has not completed.
-
-Senior Presidential Advisor Sagala Ratnayake has instructed the Secretary to the President to take steps to complete the repairs of the church on the allocation of the Presidential Secretariat.
-
-The President has also informed the Army Commander to assist the Army for the renovation work.
-
-◼️
-
-[Data](articles/06bff11d.json)
-
-[Extended Data](ext_articles/06bff11d.ext.json)
-
----
-
-### Tantirimale Aloka Pooja today
-
-*2024-06-22 18:47:48* · [`adalk`](https://www.ada.lk/uncategorized/තන්තිරිමලය-ආලෝක-පූජාව-දෙවැනි-දිනට-අදත්/1-410364) · `si`
-
-The Lankadeepa Pubadeepa PLC, under the Vijaya Newspaper Company, started its third annual Aloka Pooja event yesterday. Notable attendees included President Ranil Wickremesinghe, Deputy Leader of the UNP Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Minister SM. Chandrasena, and IGP Deshabandulu Tennakoon. The event involves briefings for Dhamma School students, who receive gifts and certificates. This ceremony continues today and tomorrow.
-
-🟩
-
-The Lankadeepa Pubadeepa PLC, organizing the Vijaya Newspaper Company (Lankapuvath) commenced the 3rd consecutive year, commenced yesterday (21).
-
-President Ranil Wickremesinghe, Chairman of the Maha Sanghalam, Ven.
-
-Deputy Leader of the UNP, Ruwan Wijewardena, Presidential Advisor SM Ratnayake, former Ministers SM. Chandrasena and IGP, Deshabandulu Tennakoon, were also present.
-
-The briefing of Dhamma School students and eventually provide valuable gifts and certificates to the students.
-
-The Aloka Pooja will also be held today (22) and tomorrow.
-
-◼️
-
-[Data](articles/10bc09ab.json)
-
-[Extended Data](ext_articles/10bc09ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 20:34:42**
+As of **2024-06-23 20:53:16**
 
 ## Newspaper Stats
 
-*Scraped **31,743** Articles*
+*Scraped **31,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,606
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,922
-adaderanasinhalalk | 5,195
+adaderanasinhalalk | 5,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,743 (100.0%) of 31,743 articles have been extended.
+31,743 (100.0%) of 31,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### සර්වජන බලයේ වැඩපිළිවෙළ - පළමු කෙටුම්පත ජුනි 27 ජනතාවට
+
+*2024-06-23 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198071) · `si`
+
+සර්වජන බලය සිය වැඩපිළිවෙළ ඇතුළත් පළමු කෙටුම්පත ජුනි 27 වනදා ජනතාවට ඉදිරිපත් කරන බව මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඒ පිළිබඳව ජනතා අදහස් ලබාගැනීමෙන් පසු එහි දෙවැනි කෙටුම්පත නිර්මාණය කිරීමට බලාපොරොත්තු වන බව ඒ මහතා පැවසීය.
+
+මව්බිම ජනතා පක්ෂයේ අම්පාර දිස්ත්‍රික් සමුළුව අමතමින් ඔහු ඒ බව ප්‍රකාශ කළේය.
+
+"අපි යම් දිනයක මැතිවරණයට ඉදිරිපත් වන්නේද, එදිනට පෙර ඔබට ඔබගේ ඒ අදහස් ඇතුළත් වැඩපිළිවෙළ අපි ඉදිරිපත් කරනවා උපායමාර්ගික වැඩපිළිවෙළක් ලෙස දින වකවානු එක්ක..."
+
+◼️
+
+[Data](articles/70a4af43.json)
+
+---
+
+### පාසල් දැරියක්ව සමූහ දූෂණය කිරීමේ සිද්ධිය ගැන එළියට ආ අලුත්ම කථාව
+
+*2024-06-23 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198070) · `si`
+
+හංවැල්ල, ජල්තර ප්‍රදේශයේදී 16 හැවිරිදි පාසල් සිසුවියක් සමූහ දූෂණයට ලක්කිරීමේ සිද්ධියට අදාළ සැකකරුවන් 8දෙනා පැය 48ක කාලයක් රඳවාගෙන ප්‍රශ්න කිරීමට අද (23) හෝමාගම මහෙස්ත්‍රාත් අධිකරණය පොලිසියට අවසර ලබාදුන්නේය.
+
+මේ අතර එම සිද්ධියට ආධාර අනුබල දුන් තවත් පුද්ගලයෙක් සොයා පොලිස් විමර්ශන ක්‍රියාත්මක වෙයි.
+
+16 හැවිරිදි පාසල් සිසුවියක් ඇයගේ පෙම්වතා සහ ඔහුගේ මිතුරන් පිරිසක් විසින් සමූහ දූෂණයකට ලක්කිරීමේ සිදුවීම ඉකුත් 21වනදා වාර්තා වුණේ හංවැල්ල ජල්තර ප්‍රදේශයෙනි.
+
+අදාළ දැරිය ඇඹුල්ගම ප්‍රදේශයේ පිහිටි සිය පෙම්වතාගේ නිවසේදී ඔහු සමග ලිංගිකව එක්ව ඇති අතර පසුව පෙම්වතාගේ මිතුරන් දෙදෙනෙකුද ඇය සමග ජල්තර ප්‍රදේශයේ ඉදිකෙරමින් පවතින ආදාහනාගාරයකදී ලිංගිකව එක්ව ඇති බව සඳහන් ය.
+
+පසුව ඔවුන්ගේ තවත් මිතුරන් තිදෙනෙකු ද එහි පැමිණ ඇයව දූෂණයට ලක්කර ඇති බව වාර්තා විය.
+
+අනතුරුව සිය නිවස කරා යෑමට එම දැරිය සැකකාර තරුණයන්ගෙන් මුදල් ඉල්ලා ඇතත් ඔවුන් ඇයට ලබාදී තිබුණේ රුපියල් 40ක් පමණයි.
+
+කෙසේවෙතත් ඔවුන් යතුරු පැදියකින් දැරිය ආටිගල මංසන්ධියට ගෙනැවිත් දමා තිබුණි.
+
+...
+
+[Data](articles/37adaf71.json)
+
+---
 
 ### Fishermen protest against the burning of fishing boat at Poonchimunai - Batticaloa
 
@@ -2447,55 +2489,5 @@ The new District Secretariat has been constructed with the aim of expanding serv
 [Data](articles/91ff6f54.json)
 
 [Extended Data](ext_articles/91ff6f54.ext.json)
-
----
-
-### President visited the church of Zion
-
-*2024-06-23 06:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சியோன்-தேவாலயத்தை-ஜனாதிபதி-பார்வையிட்டார்/175-339261) · `ta`
-
-President Ranil Wickremesinghe visited the Batticaloa Zion Church post-bomb blast, discussing reconstruction delays with church officials. He directed his Senior Advisor and National Security President to expedite repairs and sought military support from the Army Commander. The Governor of the Eastern Province and Minister of State Jupiter accompanied him.
-
-🟩
-
-President Ranil Wickremesinghe visited the Batticaloa Zion Church, which was subjected to a bomb blast, visited the Batticaloa Church yesterday morning.
-
-The President visited the church and discussed with Roshan Mahasan of the church. President Ranil Wickremesinghe asked the authorities to immediately investigate the matter and provide a report on why the reconstruction work of the church has not yet been completed.
-
-In addition, the President has issued a direction to the President's Senior Advisor and President of the President of the National Security, Sagala Ratnayake, to take steps to speed up the church's amendments to the President's Office.
-
-The President also issued a directive to the Army Commander to support the Sri Lankan army.
-
-Governor of the Eastern Province Senthil Thondaman, Minister of State. Jupiter also joined the President on this occasion. (A)
-
-◼️
-
-[Data](articles/b444f023.json)
-
-[Extended Data](ext_articles/b444f023.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-06-23 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198040) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, Northwestern, and some areas of Central provinces, with potential for heavy rainfall in Kandy, Nuwara Eliya, Puttalam, Matale, Anuradhapura, Trincomalee, Hambantota, and Moneragala districts. Strong winds of 40-50 km/h also forecasted.
-
-🟩
-
-The Meteorological Department says that there will be showers in the Western, Sabaragamuwa and Northwestern provinces.
-
-The department states in some places in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya and Puttalam Districts. Heavy rains can occur about 75 years.
-
-There are several thin closures in the Northern Province and the districts of Matale and Anuradhapura districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology added that there were 40-50 strong winds.
-
-◼️
-
-[Data](articles/a843b864.json)
-
-[Extended Data](ext_articles/a843b864.ext.json)
 
 ---

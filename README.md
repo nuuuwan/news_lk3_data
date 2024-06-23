@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 09:04:27**
+As of **2024-06-23 09:19:16**
 
 ## Newspaper Stats
 
-*Scraped **31,649** Articles*
+*Scraped **31,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
-adalk | 2,764
+adalk | 2,765
 adaderanalk | 3,588
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,170
+adaderanasinhalalk | 5,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,647 (100.0%) of 31,649 articles have been extended.
+31,649 (100.0%) of 31,651 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,45 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/8c955289.json)
 
+[Extended Data](ext_articles/8c955289.ext.json)
+
 ---
 
-### පැට් කමින්ස් ගෙන් තවත් කඩුලු ත්‍රිත්වයක්
+### වේගයෙන් ආ බසය ගසක හැපෙයි
+
+*2024-06-23 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198045) · `si`
+
+පැලවත්ත - නෙළුව මාර්ගයේ යට්ටපාත ප්‍රදේශයේදී මගී ප්‍රවාහන පෞද්ගලික බස් රථයක් බෝක්කුවක් සහිත ස්ථානයකින් මාර්ගයේ ඉවතට පැන අසල ඇති  විශාල ගසක ගැටීමෙන් සිදුවූ අනතුරක් සිදුව ඇත.
+
+අනතුර හේතුවෙන් බස් රථයට දැඩි හානි සිදුව ඇති අතර බස්රථයේ ගමන්ගත් පුද්ගලයින් 12දෙනෙකු පමණ තුවාල ලබා රෝහල්ගත කිරීමට කටයුතු කර ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/088be100.json)
+
+---
+
+### Another wicket triple from Pat Kamins
 
 *2024-06-23 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198044) · `si`
 
-2024 විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සිය දෙවැනි කඩුලු ත්‍රිත්වය (හැට්ට්‍රික්) ලබා ගැනීමට ඔස්ට්‍රේලියානු වේග පන්දු යවන ක්‍රීඩක පැට් කමින්ස් අද (23) සමත්විය.
+Pat Kamins, Australia's fast bowler, achieved his second hat-trick in the 2024 Twenty20 World Cup, securing it during the Super Eights against Afghanistan. This feat follows his performance where he took three wickets in three consecutive matches abroad. The Twenty20 format has seen eight hat-tricks so far, with Wanindu Hasaranga of Sri Lanka being one of the notable players to achieve this in 2021.
 
-ඒ ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන සුපිරි අට දෙනාගේ වටයේ තරගයේදී ලබාගත් හැට්ට්‍රික් එකත් සමගිනි.
+🟩
 
-ඔහු පසුගියදා බංග්ලාදේශයට එරෙහිව ද පිට පිට පන්දු තුනකදී කඩුලු 3ක් දවාගත්තේය.
+Australia's fast bowler patches today (23) showed Australia fast bowler patches to obtain their second wickets (Hattric) in the 2024 Twenty20 World Cup.
 
-මේ දක්වා විස්සයි විස්ස ලෝක කුසලාන තරගවලදී හැට්ට්‍රික් 8ක් වාර්තා කර ඇති අතර ශ්‍රී ලංකාව වෙනුවෙන් වනිඳු හසරංග 2021 දී එම දස්කම කළේය.
+With the hatstric obtained in the round of the Super Eights against Afghanistan.
+
+He recently took 3 wickets in three overseas.
+
+The Twenty20 Hattrics have recorded 8 hattrics in the T20 and the Twunu Hasaranga on behalf of Sri Lanka in 2021.
 
 ◼️
 
 [Data](articles/a610f444.json)
+
+[Extended Data](ext_articles/a610f444.ext.json)
 
 ---
 
@@ -483,6 +505,20 @@ Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU conde
 [Data](articles/91f66114.json)
 
 [Extended Data](ext_articles/91f66114.ext.json)
+
+---
+
+### තන්තිරිමලේ ආලෝක පූජාවේ දෙවන දිනය අදයි
+
+*2024-06-22 21:50:52* · [`adalk`](https://www.ada.lk/picture_story/තන්තිරිමලේ-ආලෝක-පූජාවේ-දෙවන-දිනය-අදයි/10-410365) · `si`
+
+විජය පුවත්පත් සමාගම 21වන වරටත්  ඓතිහාසික තන්තිරිමලේ පුදබිමේ පවත්වනු ලැබූ  ලංකාදීප පොසොන් ආලෝක පූජාවේ  දෙවන දිනය අද  (22දා) දිනට යෙදී තිබිණ.
+
+උතුරු නැගෙනහිර දෙපළාතේ උප ප්‍රධාන සංඝනායක , මහවිලච්චිය සාසනාරක්ෂක බල මණ්ඩලයේ සභාපති , තන්තිරිමලේ රාජමහා විහාරාධිපති , පූජ්‍ය තන්තිරිමලේ චන්දරතන නාහිමිපාණන් ඇතුළු මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ඣායනා මධ්‍යයේ, ඉරිදා ලංකාදීප පුවත් පතේ ප්‍රධාන කතෘ කාංචන දසනායක,  දිනපතා ලංකාදීප පුවත්පතේ ප්‍රධාන කතෘ  අජන්ත කුමාර අගලකඩ, නැගෙනහිර නුවර ගම් පලාත් ප්‍රාදේශිය ලේකම් සම්පත් රෝහන ධර්මදාස  යන  මහත්වරුන් සහ මහවිලච්චිය ප්‍රාදේශීය ලේකම් මංජරී සී චන්ද්‍රදාස මහත්මිය ආලෝක පූජාව විවෘත කල අයුරු.
+
+◼️
+
+[Data](articles/8bdce479.json)
 
 ---
 
@@ -2213,45 +2249,5 @@ Sri Lanka is vehemently opposed to arbitrary activities that contradict these pr
 [Data](articles/4d92c8ab.json)
 
 [Extended Data](ext_articles/4d92c8ab.ext.json)
-
----
-
-### President inaugurates new District Secretariat in Thiraimadu
-
-*2024-06-22 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100017/president-inaugurates-new-district-secretariat-in-thiraimadu) · `en`
-
-President Ranil Wickremesinghe has inaugurated the new District Secretariat in Thiraimadu, Batticaloa, a short while ago, the President’s Media Division (PMD) said.
-
-The new District Secretariat building was built at a cost of Rs. 1,055 million, according to the PMD.
-
-◼️
-
-[Data](articles/d9b0559b.json)
-
-[Extended Data](ext_articles/d9b0559b.ext.json)
-
----
-
-### Sri Lanka electricity generation returns to pre-crisis levels in first quarter
-
-*2024-06-22 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-generation-returns-to-pre-crisis-levels-in-first-quarter-169016/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s electricity generation has expanded 9.6 percent in the first quarter of 2024 to 1,469 GigaWatt hours, with sales to industry growing 14.3 percent, data published by the central bank shows.
-
-Sri Lanka’s electricity sales has long been a proxy for economic activity and also gross domestic product (value added).
-
-In the first quarter of 2024 the statistics office estimated real GDP to have grown 5.3 percent and nominal GDP 8.3 percent.
-
-In the first quarter of any year, value added (GDP) in electricity is lower than other quarters due to a higher import content, amid dry weather.
-
-Sri Lanka’s electricity generation contracted 12.1 percent to 3,748 GWh in the first quarter of 2023.
-
-Sri Lanka’s first quarter electricity generation based on provisional data has now returned to pre-economic crisis and pre-pandemic levels, though still below 4,203 (revised) data of the crisis year 2022.
-
-...
-
-[Data](articles/06f68606.json)
-
-[Extended Data](ext_articles/06f68606.ext.json)
 
 ---

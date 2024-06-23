@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 10:19:19**
+As of **2024-06-23 10:34:47**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,658 (100.0%) of 31,659 articles have been extended.
+31,659 (100.0%) of 31,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ඇෆ්ගනිස්තාන - ඔස්ට්‍රේලියා තරගයේදී බිහිවූ අලුත්ම වාර්තාව
+### Latest Report in Afghan - Australia match
 
 *2024-06-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198048) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඇෆ්ගනිස්තානය සහ ඔස්ට්‍රේලියාව අතර තරගයෙන් ලකුණු 21ක ජයක් වාර්තා කිරීමට ඇෆ්ගනිස්තානය අද (23) සමත්විය.
+In the Afghan-Australia T20 match, Afghanistan won by 21 runs after scoring 148 runs in 20 overs, losing 6 wickets. This resulted in a total of 275 runs, marking the lowest team score in a T20 international match.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 148ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස ඔස්ට්‍රේලියාව සියලුදෙනා දැවී රැස්කළේ ලකුණු 127ක් පමණි.
+🟩
 
-ඒ අනුව කණ්ඩායම් දෙකම මෙම තරගයේදී රැස්කළ මුළු ලකුණු සංඛ්‍යාව 275කි.
+Afghanistan today (23) passed Afghanistan and Australia by 21 runs.
 
-එය දෙරට අතර පැවති විස්සයි විස්ස ජාත්‍යන්තර තරගයකදී කණ්ඩායම් දෙකම රැස්කළ අඩුම ලකුණු එකතුව ලෙස වාර්තා ගත විය.
+Batting first, the Afghan group scored 148 runs for the loss of 6 wickets for the loss of 6 wickets.
+
+Accordingly, the total number of runs in this match was 275.
+
+It was reported as the lowest marks collected by both groups in a T20 of countries.
 
 ◼️
 
 [Data](articles/cc84cba1.json)
+
+[Extended Data](ext_articles/cc84cba1.ext.json)
 
 ---
 

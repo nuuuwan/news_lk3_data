@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 13:53:51**
+As of **2024-06-23 14:04:27**
 
 ## Newspaper Stats
 
-*Scraped **31,698** Articles*
+*Scraped **31,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,773
-adaderanalk | 3,598
-tamilmirrorlk | 3,723
+adalk | 2,774
+adaderanalk | 3,599
+tamilmirrorlk | 3,726
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,181
+adaderanasinhalalk | 5,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,698 (100.0%) of 31,698 articles have been extended.
+31,698 (100.0%) of 31,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Semasinghe urges opposition to avoid making false promises on economy ahead of polls
+
+*2024-06-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100045/semasinghe-urges-opposition-to-avoid-making-false-promises-on-economy-ahead-of-polls) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe says that any reversal of the hard-earned reforms could result in a catastrophe for the country.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe expressed that as the elections approach, it is concerning to see opposition parties and their main advisors expressing unrealistic views on managing the economy.
+
+“Any reversal of the hard-earned reforms could result in a catastrophe for the country”, he added.
+
+Furthermore, the Finance State Minister also noted that the International Monetary Fund (IMF) and international stakeholders have played a pivotal role in reshaping Sri Lanka’s economic landscape, which was in total chaos two years ago.
+
+“I urge all opposition parties and their advisers to avoid making false promises that may not even offer short-term gains but definitely lead to long-term pain”, Semasinghe expressed.
+
+...
+
+[Data](articles/e5841ae0.json)
+
+---
+
+### අභියෝග හමුවේ බිය නොවන්න - ජනපති
+
+*2024-06-23 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198057) · `si`
+
+අනාගත පරපුර වෙනුවෙන් තමා ලබාදෙන උපදෙස වන්නේ හොඳින් අධ්‍යාපනය ලැබීම, ප්‍රතිපත්ති ගරුක වීම සහ අභියෝග හමුවේ බිය නොවීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා ඒ බව සඳහන් කර සිටියේ  මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිත හමුවේදී, තරුණියක නැඟූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමිනි.
+
+මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිතයින්ගේ මෙම හමුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මඩකලපුවේදී ඊයේ (22) පැවැත්විණි.
+
+මඩකලපුව දිස්ත්‍රික්කයේ තරුණ තරුණියන් විශාල පිරිසක් එම හමුවට එක්ව සිටි අතර ඔවුන් නැගූ ප්‍රශ්නවලට පිළිතුරු ලබාදීමට ද ජනාධිපතිවරයා කටයුතු කළේය.
+
+ප්‍රශ්නය - ජනාධිපතිතුමනි රට අර්බුදකාරී තත්ත්වයක තිබියදී ඔබතුමා රටේ වගකීම භාර ගත්තා. ඔබතුමා එම අභියෝගය ජයග්‍රහණය කළේ කොහොමද, රාජකීය විද්‍යාලය වැනි පාසල්වල අධ්‍යාපනය ලැබීමට අනාගත පරම්පරාවට අවස්ථාවක් ලැබේවිද?
+
+...
+
+[Data](articles/75b268cb.json)
+
+---
 
 ### Tension on the commercial premises in Adelaide - the person with weapons
 
@@ -58,6 +98,30 @@ The Wellbeet Business Park announces the message that the armed criminal can dis
 
 ---
 
+### අද දෙරණ හෙළිදරව්ව ඵල දරයි - පුංචි රවිඳු ට උපකාර ගලාඑයි
+
+*2024-06-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198056) · `si`
+
+හීනවලින් පිරුණු පුංචි හිතකට දරාගන්න බැරි තරමේ වගකීමක් පුංචි වයසේදීම දරාගන්න සිදුවූ පුංචි රවිඳුට සවියක්වෙන්න ආදරණීය හිත් තියෙන අපේ මිනිසුන් මේ වනවිටත් පෙළ ගැසෙමින් සිටියි.
+
+සිය පවුලේ බොහෝ වගකීම් සිය කරට ගනිමින් මව්පියන් රැක බලාගන්නා ගාල්ල බෝගහගොඩ විලේවත්ත ප්‍රදේශයේ පදිංචි පුංචි රවිඳු තමයි ඒ.
+
+පොතක් පතක් අතට ගන්න, දුවලා පැනලා සෙල්ලම් කරන්න ඕන වයසේ ඉන්න පුංචි රවිදු අද වෙනකොට වයසට දරාගන්න බැරිතරමේ වගකීමක් කරට අරගෙන ඉන්නේ අම්මටයි තාත්තටයි තියෙන ආදරය නිසාම ය.
+
+මේ රවිඳු ගැන "අද දෙරණ" අපි රටටම කිව්වේ පුංචි රවිඳුට ඔබේ උපකාරය අවැසිම මොහොතක යි.
+
+ඒ පණිවුඩයත් එක්කම කෙනෙකුගේ දුකකදී හිත් උණුවෙන ඒ දිහා සානුකම්පිතව බලමින් උපකාර ලබා දෙන ආදරණීය හිත් තියෙන අපේ මිනිසුන් මේ වනවිටත් පුංචි රවිඳුට උපකාර කරන්න ඔහුව සොයාගෙන ගිහින්.
+
+වැස්සට තෙමෙන අව්වට රත්වෙන නිවස වෙනුවට පුංචි රවිඳුට ඉඩමක් මිලදී ගෙන නිවසක් සාදා දීමට අවශ්‍ය මූලික පියවර මේවනවිටත් මේ ආදරණීය මිනිසුන් ආරම්භ කරලා.
+
+ඒ සඳහා අවශ්‍ය කරන මූල්‍ය පහසුකම්ද මේ වනවිට ලැබී තිබීමෙන් ගම්‍යවන්නේ අපේම මිනිසුන්ගේ පරිත්‍යාගශීලිත්වය යි.
+
+...
+
+[Data](articles/21b57330.json)
+
+---
+
 ### Trump says foreigners who graduate from US colleges should get green cards
 
 *2024-06-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100044/trump-says-foreigners-who-graduate-from-us-colleges-should-get-green-cards) · `en`
@@ -75,6 +139,42 @@ During the All-In podcast hosted by Silicon Valley tech investors, angel investo
 [Data](articles/ba900daa.json)
 
 [Extended Data](ext_articles/ba900daa.ext.json)
+
+---
+
+### பணத்தை காலால் மிதித்தவரிடம் வாக்குமூலம்
+
+*2024-06-23 12:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-காலால்-மிதித்தவரிடம்-வாக்குமூலம்/175-339280) · `ta`
+
+ஐந்தாயிரம் ரூபாய் தாள்களை கீழே போட்டு காலில் போட்டு மிதித்த சம்பவம் தொடர்பில் தியாகி அறக்கொடை நிறுவனத்தின் தலைவர் வாமதேவா தியாகேந்திரனை சனிக்கிழமை (22) அன்று யாழ்ப்பாண பொலிஸ் நிலையத்திற்கு அழைத்து பொலிஸாரால் , வாக்கு மூலத்தை பதிவு செய்துள்ளனர்.
+
+தியாகி அறக்கொடை நிறுவன தலைவரின் மகளின்  பிறந்த தினத்தை முன்னிட்டு, கடந்த 7ஆம் திகதி யாழ்ப்பாணம் நாவலர் வீதியில் உள்ள தனது அறக்கட்டளை அலுவலகத்திற்கு  முன்பாக  வறிய மக்களுக்கு நிவாரணம் வழங்கியுள்ளார்
+
+அதன் போது, நிவாரணம் பெறுவதற்கு தான் எதிர்பார்த்த மக்கள் வரவில்லை என கூறி , தனது சட்டை பையில் இருந்த பெருமளவான 5000 ரூபாய் தாள்களை எடுத்து காலால் மிதித்த படி நின்று கருத்து தெரிவித்த காணொளி சமூக வலைத்தளங்களில் வைரலாகியதையடுத்து பெருமளவானோர் அதற்கு கடும் எதிர்ப்புக்களை தெரிவிப்பதுடன் கண்டனங்களையும் பதிவு செய்தனர்.
+
+இந்நிலையில், குறித்த சம்பவம் தொடர்பில் பொலிஸ் உயர்மட்ட விசாரணைகள் ஆரம்பிக்கப்பட்ட நிலையில் , தியாகேந்திரனை  யாழ்ப்பாண பொலிஸ் நிலையத்திற்கு அழைத்த பொலிஸார் வாக்குமூலத்தினை பெற்றுள்ளனர் .
+
+...
+
+[Data](articles/6e9f6877.json)
+
+---
+
+### කලාකාරී ලෙස හැසිරුනු  පොලිස් සැරයන්ගේ වැඩ තහනම්
+
+*2024-06-23 12:56:29* · [`adalk`](https://www.ada.lk/breaking_news/කලාකාරී-ලෙස-හැසිරුනු--පොලිස්-සැරයන්ගේ-වැඩ-තහනම්/11-410377) · `si`
+
+මහරගම  පන්නිපිටිය ප්‍රදේශයේදී  කලහකාරි  ලෙස හැසිරි මහරගම පොලිසියේ  නිලධාරීන්ගේ රාජකාරියට ද බාධා කළ හිනිදුම පොලිස් සැරයන් වරයා ගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය කියයි.
+
+මහරගම පන්නිපිටිය  ප්‍රදේශයේ පුද්ගලයකු බීමත්ව කලාකාරී ලෙස හැසිරෙන බවට 119 පොලිස් හදිසි ඇමතුම් මධ්‍යස්ථානයෙන් ලද පණිවිඩයක් අනුව මහරගම පොලිස් ස්ථානයේ රාත්‍රී ජංගම සංචාරයේ යෙදී සිටි කණ්ඩායමක් එම ස්ථානයට ගොස් සැකකරු අත්අඩංගුවට ගැනීමට ගැනීමට කටයුතු  කර තිබූ අතර එම අවස්ථාවේදී සැකකරු පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කර ආවේගශීලීව හැසිරී තිබූ බව පොලිසිය කියයි.
+
+පසුව සැකකරු පොලිසියට රැගෙන ඒමෙන් අනතුරුව අනතුරුව සිදු කළ විමර්ශනවලදී ඔහු හිනිදුම පොලිසියට අනුයුක්ත පොලිස් සැරයන් වරයෙකු බවට අනාවරණය වී ඇති අතර ඉකුත් 20 වෙනිදින  සැරයන්වරයා  රජයේ රස පරීක්ෂක කාර්යාල වෙත භාණ්ඩ භාරදීමට සහ දුරකථන ඇමතුම් විස්තර ලබා ගැනීමේ රාජකාරී කටයුතු සඳහා ස්ථානයෙන් පිටව ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණි.
+
+සැකකරු නුගේගොඩ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන මස 3 වෙනිදින  දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇත.
+
+...
+
+[Data](articles/0ba888f5.json)
 
 ---
 
@@ -119,6 +219,26 @@ Meanwhile, several players of the Sri Lanka women’s team have also climbed up 
 [Data](articles/097bd542.json)
 
 [Extended Data](ext_articles/097bd542.ext.json)
+
+---
+
+### கோட்டாவிடம் பியூமி, ஜீப் பெற்றது எப்படி
+
+*2024-06-23 12:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவிடம்-பியூமி-ஜீப்-பெற்றது-எப்படி/175-339278) · `ta`
+
+நடிகையும் மாடலுமான பியூமி ஹன்சமாலி, முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ பயன்படுத்திய CB M 1949 எனும் இலக்கத்தைக்கொண்ட ரேஞ்ச் ரோவர் ஜீப்பை  2021 ஆம் ஆண்டு கொள்வனவு செய்யவுள்ளார்.
+
+780 இலட்சம் ரூபாய் பெறுமதியான அந்த வாகனத்தை வாகன குத்தகை நிதி நிறுவனத்திடம் 400 இலட்சம் ரூபாய் செலுத்தி கொடுக்கல் வாங்கல் ஊடாக கொள்வனவு செய்துள்ளார்.
+
+குத்தகை வசதி பெற்று முதல் தவணை கட்டணத்தை செலுத்திய பியூமி, பின்னர் பலமுறை மீதியை செலுத்தியிருப்பது குற்றப் புலனாய்வுத் துறையினரின்  விசாரணையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இது குறித்து வேலியேபிள் ஃபைனான்ஸ் நிறுவனத்தின் விற்பனை அதிகாரியிடம் விசாரித்த குற்றப் புலனாய்வு அதிகாரிகள், ஸ்பீட் டிராப்டின் கீழ் 400 லட்சம் ரூபாயை பியூமி ஹன்சமாலி பெற்றதாகவும், அந்தத் தொகையை நாளொன்றுக்கு ரூ.33,425 ஆகக் ஒரு வருட காலத்திற்குள் கொடுக்கப்பட்டதாகவும் தெரிவித்தனர்.
+
+அவர் கிட்டத்தட்ட ஒரு மில்லியன் மாதத் தவணைகளைச் செலுத்தி, முழுத் தொகையையும் 2023 ஜூன் 30  அன்று செலுத்தி முடித்துள்ளார்.
+
+...
+
+[Data](articles/b3c72c2b.json)
 
 ---
 
@@ -275,6 +395,24 @@ Also, 10 people, including a driver of the plowing machine, were injured when a 
 [Data](articles/0d2c1427.json)
 
 [Extended Data](ext_articles/0d2c1427.ext.json)
+
+---
+
+### 7 பேர் பலி: 15 பேர் காயம்
+
+*2024-06-23 12:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேர்-பலி-15-பேர்-காயம்/175-339275) · `ta`
+
+பொசன் தினத்திற்கு மறுநாள் இலங்கையின் பல இடங்களில் இடம்பெற்ற வீதி விபத்துக்களில் 7 பேர் உயிரிழந்துள்ளதுடன் மேலும் 15 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடக அலுவலகம் தெரிவித்துள்ளது.
+
+கண்டி- யாழ்ப்பாணம் வீதியில் மாத்தளை கொங்கஹமுல பிரதேசத்தில் தனியார் பேருந்து ஒன்றும் முச்சக்கர வண்டியும் நேருக்கு நேர் மோதியதில் மீகம்மன வடக்கு வத்தேகம பகுதியைச் சேர்ந்த 57 மற்றும் 17 வயதுடைய இரு பெண்கள் உயிரிழந்துள்ளதாக மாத்தளை பொலிஸார் தெரிவித்தனர்.
+
+தம்புள்ளையில் இருந்து மாத்தளை நோக்கி பயணித்த பேருந்து வீதியோரம் நிறுத்தி வைக்கப்பட்டிருந்த இ.போ.சபைக்கு சொந்தமான பேருந்தொன்றை கடக்க முற்பட்ட போது எதிர்திசையில் இருந்து வந்த முச்சக்கர வண்டியுடன் மோதி இந்த விபத்து இடம்பெற்றுள்ளதாகவும் , முச்சக்கர வண்டியில் பயணித்தவர்கள் ஒரே குடும்பத்தை சேர்ந்தவர்கள் எனவும் மாத்தளை பொலிஸார் தெரிவித்தனர்.
+
+அதேவேளை  ஹம்பேகமுவ, லிஹினாகல பிரதேசத்தில் மோட்டார் சைக்கிளுடன் மோதுண்ட பாதசாரி ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார். தம்வெல் ஒடைய பிரதேசத்தை சேர்ந்த 73 வயதுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/803b6528.json)
 
 ---
 
@@ -1484,8 +1622,6 @@ Vcare Skin Clinic and its Founder and Chief Executive Officer (CEO), Dr. Pramila
 
 The Business World International Awards ceremony, organised by the Business World International Organisation (BWIO), was recently held at the Taj Samudra Hotel in Colombo. The event was graced by the presence of Speaker of Parliament Mahinda Yapa Abeywardena, along with numerous other distinguished guests, including politicians, foreign diplomats, and senior government officials.
 
-HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
-
 ...
 
 [Data](articles/a2371d5c.json)
@@ -2145,155 +2281,5 @@ A meeting between members of the Tamil People's Liberation Tigers of Tamil Eelam
 [Data](articles/34bf9929.json)
 
 [Extended Data](ext_articles/34bf9929.ext.json)
-
----
-
-### Change in weather in the upcoming 36 hours
-
-*2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-36-மணித்தியாலங்களில்-வானிலையில்-மாற்றம்/175-339245) · `ta`
-
-In the next 36 hours, heavy rainfall exceeding 100mm is forecasted for the upper Sabaragamuwa Provinces, Kandy, Nuwara Eliya, and Puttalam districts. Additionally, the Western, Sabaragamuwa, North Western Provinces, along with Kandy, Nuwara Eliya, Galle, and Matara districts, are expected to experience heavy rains. Strong winds of 40-50 km/h may hit the western slopes of the Central Highlands, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, and Moneragala districts.
-
-🟩
-
-Accordingly, more than 100 millimeters of heavy rainfall in the upper and Sabaragamuwa Provinces, Kandy, Nuwara Eliya and Puttalam districts will occur in some places.
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology has said that strong winds are likely to blow at speeds of 40 - 50 km / h in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/021e404a.json)
-
-[Extended Data](ext_articles/021e404a.ext.json)
-
----
-
-### 36 hours change in weather
-
-*2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணி-நேரம்-வானிலையில்-மாற்றம்/175-339245) · `ta`
-
-Heavy rains exceeding 100mm are forecasted for areas including Western, Sabaragamuwa provinces, Kandy, Nuwara Eliya, and Puttalam districts. Strong winds of 40-50km/h are also expected in several regions, affecting weather conditions significantly.
-
-🟩
-
-Accordingly, more than 100 millimeters of heavy rains are expected in some places in the Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya and Puttalam districts.
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology has said that strong winds are likely to blow at speeds of 40 to 50 km / h in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/b9766065.json)
-
-[Extended Data](ext_articles/b9766065.ext.json)
-
----
-
-### Mental impact on social websites
-
-*2024-06-22 17:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமூக-வலைத்தளங்களால்-மனநல-பாதிப்பு-ஏற்படும்/50-339244) · `ta`
-
-US doctor Vivek Murthy warns about the mental health risks of social media, especially for young Americans aged 13 to 17, who make up 95% of this demographic. He calls for a warning label on all US-based social media platforms.
-
-🟩
-
-US doctor Vivek Murthy has urged everyone to act with caution as social websites are at risk of mental health among young people.
-
-95 percent of the age of 13 to 17 in the United States are reportedly using social websites.
-
-He has asked the US Congress to issue a warning stamp to all social websites operating in the United States. Remble
-
-◼️
-
-[Data](articles/b49aab73.json)
-
-[Extended Data](ext_articles/b49aab73.ext.json)
-
----
-
-### Scholars and Gentlemen
-
-*2024-06-22 17:38:00* · [`islandlk`](http://island.lk/scholars-and-gentlemen/) · `en`
-
-There are now a large number of scholarships for education abroad, including many given by foreign governments and institutions. Fifty years ago (this article was written in 1976) there were only two scholarships (before that, only one) awarded on the results of the Intermediate examination held in Colombo by the London University. If I remember correctly they were worth Stg. 400 per annum for three years.
-
-Young people of those days were just as keen as their successors of today to travel and to study abroad. But, with some exceptions, they came back to pursue their careers at home. Rich parents sent the more promising among their progeny to Oxford and Cambridge, to medical schools in the United Kingdom, and to the Inns of Court in London so that they could become barristers who had the right to practise in Ceylon.
-
-...
-
-[Data](articles/2eda3ca1.json)
-
-[Extended Data](ext_articles/2eda3ca1.ext.json)
-
----
-
-### The Seon Church has not yet been completed after five years after the Passover attack
-
-*2024-06-22 17:30:01* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයෙන්-වසර-5කට-පසුවත්-සියෝන්-දේවස්ථානය-තවමත්-සාදා-නිමකර-නෑ/11-410361) · `si`
-
-After five years post-Passover attack, the Seon Church remains incomplete. President Ranil Wickremesinghe visited the site, discussing progress with the church's chief priest, Roshan Mahesan. He directed officials, including the Presidential Advisor Sagala Ratnayake and the Army Commander, to expedite repairs. The Governor of Eastern Province, Sandil Thondaman, and State Minister Dakittel also attended.
-
-🟩
-
-President Ranil Wickremesinghe today (22) at the reconstruction work of the Past Sunday, President Ranil Wickremesinghe today (22).
-
-The President arrived at the church and discussed the chief priest of the church Roshan Mahesan.
-
-President Ranil Wickremesinghe has instructed the officials to submit a report to the officials.
-
-The President also instructed the Presidential Advisor to the Presidential Advisor and Presidential Chief of Staff Sagala Ratnayake.
-
-The President also informed the Army Commander to support the Sri Lanka Army to support the work.
-
-Governor of Eastern Province Sandil Thondaman, State Minister. Dakighteran also participated in the event.
-
-◼️
-
-[Data](articles/dca5c795.json)
-
-[Extended Data](ext_articles/dca5c795.ext.json)
-
----
-
-### Landmarks in tea industry:More recent developments
-
-*2024-06-22 17:28:00* · [`islandlk`](http://island.lk/landmarks-in-tea-industrymore-recent-developments/) · `en`
-
-The Tea Propaganda Board was established in 1932 with participation by Government to plan and market teas rather than purely effect sales. All interested parties such as producers, traders, brokers etc. contributed generously in cash and with their expertise to assist the Board to achieve its objectives.
-
-Mention has been made earlier of the Planters Association of Ceylon (PA) but a few significant stages of its development over the years must necessarily be mentioned.
-
-The inaugural meeting of the Association was held on March 13, 1854 (also recorded as February 17, 1854) at which Captain Keith Jolly (ex Merchant Navy) was elected Chairman with headquarters in Kandy. Some of the early problems, which received the Association’s attention, were recruitment of South Indian labour, transport of produce (estimated at about 79,000 cartloads in one year from Kandy to Colombo) marketing, determination of Planting Districts etc.
-
-...
-
-[Data](articles/92af4b5f.json)
-
-[Extended Data](ext_articles/92af4b5f.ext.json)
-
----
-
-### Here are the sides of over 100 millise
-
-*2024-06-22 17:23:23* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-410360) · `si`
-
-Showers expected in Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya districts. Approximately 100mm rainfall forecasted for Western, Sabaragamuwa, Kandy, Nuwara Eliya, Puttalam districts. Thin clouds predicted in Matale, Anuradhapura, Mannar districts.
-
-🟩
-
-Showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya districts.
-
-The Department is also informed that there will be around 100 millilavian in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya and Puttalam districts.
-
-Several thin closed in Matale, Anuradhapura and Mannar districts will also occur.
-
-◼️
-
-[Data](articles/f884b3cc.json)
-
-[Extended Data](ext_articles/f884b3cc.ext.json)
 
 ---

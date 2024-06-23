@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 11:04:29**
+As of **2024-06-23 11:19:28**
 
 ## Newspaper Stats
 
-*Scraped **31,664** Articles*
+*Scraped **31,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,126 @@ newsfirstlk | 363
 islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
-adalk | 2,767
-adaderanalk | 3,590
+adalk | 2,769
+adaderanalk | 3,591
 tamilmirrorlk | 3,718
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,177
+adaderanasinhalalk | 5,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,661 (100.0%) of 31,664 articles have been extended.
+31,664 (100.0%) of 31,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### මධ්‍යම කඳුකරයේ කාලගුණයේ ලොකු වෙනසක්
+### එල්ටීටීඊ තහනම ගැන එක්සත් රාජධානියෙන් තීරණයක්
+
+*2024-06-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198052) · `si`
+
+එල්ටීටීඊ තහනම තවදුරටත් පවත්වා ගෙන යාමට එක්සත් රාජධානිය තීරණය කර ඇති බව ශ්‍රී ලංකා විදේශ අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+
+එක්සත් රාජධානියේ "තහනම් සංවිධාන ආභියාචන කොමිසම" එල්ටීටීඊ තහනම ඉවත් නොකළ යුතු බවට නියෝග කර තිබේ.
+
+එරට මහාධිකරණ විනිසුරුවෙක් ප්‍රධානත්වය දරන එම කොමිසම එරට පාර්ලිමේන්තුව මගින් ස්ථාපනය කළ ස්වාධීන අධිකරණයකි.
+
+◼️
+
+[Data](articles/37642d77.json)
+
+---
+
+### මක්කම වන්දනාවේ ගිය  මවුලවිවරයෙකු සහ කාන්තාවක් අත් අඩංගුවට
+
+*2024-06-23 11:05:16* · [`adalk`](https://www.ada.lk/breaking_news/මක්කම-වන්දනාවේ-ගිය--මවුලවිවරයෙකු-සහ-කාන්තාවක්-අත්-අඩංගුවට/11-410371) · `si`
+
+සෞදි අරාබියේ , මක්කම වන්දනාවේ ගොස් , ආපසු ශ්‍රී ලංකාවට පැමිණෙමින් සිටි මවුලවිවරයෙකු සහ  ඔවුන් සමග  වන්දනාවේ නිරත වූ තවත්  කාන්තාවක විසින් රුපියල් එක් කෝටි අනූ ලක්ෂයක් වටිනා ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් කරමින් සිටියදී කටුනායක ගුවන් තොටුපොළ පොලිසියේ නිලධාරීන් පිරිසක්  විසින් පසුගිය 21 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් මඩකලපුව , කල්මුණේ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මෙයින් මවුලවිවරයා 44 හැවිරිදිය . අනෙක් කාන්තාව 49 හැවිරිදිය .
+
+ඔවුන් 06/21 දින පස්වරු 02.56 ට ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි.- 390 දරන ගුවන් යානයෙන් සෞදි අරාබියේ සිට  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් ගුවන් තොටුපොළ සියලුම පරීක්ෂණ නිමා කර කටුනායක ගුවන් තොටුපොළෙන් පිටව යාම සදහා පැමිණීමේ පර්යන්තය වෙත  පැමිණ සිටියදී ගුවන් තොටුපොළ පොලිසියේ නිලධාරීන් පිරිසක් විසින් මොවුන් අත් අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/68561b2b.json)
+
+---
+
+### A big change in the weather in the central hills
 
 *2024-06-23 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198051) · `si`
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලට ඊයේ (22) දින සිට කඩින් කඩ අධික වැසි සමග අධික සුළං තත්ත්වයක් පැවතිම හේතුවෙන් ජන ජිවිතයට බාධා පැමිණ ඇති බව අප වාර්තාකරු පවසයි.
+Heavy rains and winds in the Central Hills disrupted the railway line between the upcountry and Galabada stations, requiring tree removal efforts to restore service.
 
-අධික සුළං තත්ත්වය හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ඉඟුරුඔය සහ ගලබඩ දුම්රිය ස්ථාන දෙක අතර දුම්රිය මාර්ගයට ස්ථාන කිහිපයකින්ම ගස් කඩා වැටිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනා ගමන කටයුතුවලට අද (23) දින අලුයම සිට බාධා පැමිණ ඇත.
+🟩
 
-දුම්රිය මාර්ගය කඩා වැටි ඇති ගස් කපා ඉවත්කිරිමේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+According to our correspondent, we have been interrupted due to heavy rains with heavy rains in the Central Mountains yesterday (22).
 
-දුම්රිය මාර්ගයට කඩා වැටුණු ගස් කපා ඉවත් කරන තෙක් නානුඔය සිට කොළඹ දක්වා ධාවනය කරමින් තිබූ ටිකිරි මැණිකේ දුම්රිය හැටන් දුම්රිය ස්ථානයේ නතර කර ඇති අයුරු අප කැමරාවේ සටහන් විය.
+Due to heavy winds, the railway line between the upcountry railway line and the Galabada railway stations have been interrupted from the morning on the morning of the Upcountry Railway Line this morning.
+
+The work has been launched to cut down trees cut down the railway line.
+
+We came to the camera from the camera where the train from Nanu Oya to Colombo, which was sacked from Nanu Oya to Colombo until the trees were cut off.
 
 ◼️
 
 [Data](articles/82e7cd8f.json)
 
+[Extended Data](ext_articles/82e7cd8f.ext.json)
+
 ---
 
-### ජීවිත දෙකක් බිළිගත් තලාව අනතුර
+### Warning issued over strong winds and rough seas
+
+*2024-06-23 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100038/warning-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for the sea areas off the coasts extending from Trincomalee to Chilaw via Kankasanthurai and Puttalam and from Hambantota to Pottuvil.
+
+The advisory, issued at 07.00 a.m. this morning (23), will be effective for the next 24 hours until 07.00 a.m. on Monday (24).
+
+The sea areas off the coasts extending from Trincomalee to Chilaw via Kankasanthurai and Puttalam and from Hambantota to Pottuvil will be very rough at times with very strong gusty winds up to 60-65 kmph, it added.
+
+The sea areas off the coasts extending fromChilaw to Hambantota via Colombo and Galle will be rough at times with strong gusty winds up to 50-55 kmph.
+
+Meanwhile, the wave heights may increase about 2.0–2.5 m in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, according to the Met. Department.
+
+Thus, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/bd803b2b.json)
+
+---
+
+### Two lives in the paal Talawa accident
 
 *2024-06-23 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198050) · `si`
 
-බස් රථයක් හා ත්‍රිරෝද රථයක් මුහුණට මුහුණලා ගැටීමෙන් දෙදෙනෙකු මියගොස් තවත් දෙදෙනෙකු රෝහල්ගත කර තිබේ.
+In a tragic accident on the Anuradhapura-Paduniya road near Talawa, two died and two were hospitalized after a bus collided head-on with a three-wheeler. The victims, aged 19 and 24, were part of a group heading to Jaffna. They were taken to the Anuradhapura Teaching Hospital for treatment.
 
-අනුරාධපුර - පාදෙනිය මාර්ගයේ, තලාව ඉන්ධනහල අසලදී අද (23) අලුයම මෙම බිහිසුණු අනතුර සිදුවිය.
+🟩
 
-ඉන් මියගොස් ඇත්තේ වයස අවුරුදු 19ක් සහ 24ක් වූ තරුණයින් දෙදෙනෙකි.
+Two people were killed and two others were hospitalized after a bus and three-wheeler were facing the face.
 
-විනෝද චාරිකාවක් සඳහා පිරිසක් සමග රත්නපුර සිට යාපනය බලා පිටත් ගමන්කරමින් තිබූ බස් රථයක ත්‍රිරෝද රිය ගැටීමෙන් මෙම අනතුර සිදුවී ඇතැයි තලාව පොලීසිය පවසයි.
+The terrible accident occurred at the Anuradhapura-Paduniya road, the Talawa filling ground at the Talawa - 23rd.
 
-අනතුරින් එම ස්ථානයේම දෙදෙනෙකු මියගොස් ඇති අතර තුවාලකරුවන් තලාව රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇතැයි වාර්තා වෙයි.
+The deceased have been identified as 19 and 24 youths.
+
+Talawa Police said that the accident had occurred when a group of people were traveling with a grief to Jaffna to Jaffna.
+
+Two persons were killed in the accident and the injured were admitted to the Anuradhapura Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/81356a06.json)
+
+[Extended Data](ext_articles/81356a06.ext.json)
 
 ---
 
@@ -122,23 +190,29 @@ It is reported that the sea waves can arise from Kalpitiya to Colombo, Galle and
 
 ---
 
-### මස්සිනාගෙන් එල්ල වූ මාරාන්තික පහර
+### The deadly hit by the brother
 
 *2024-06-23 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198049) · `si`
 
-බහින් බස්වීමක් දුරදිග යාමෙන් පුද්ගලයෙක් විසින් තියුණු ආයුධයකින් පහරදී තවත් පුද්ගලයෙක්ව ඝාතනය කර තිබේ.
+In the Katuwana Police Division, a 41-year-old man was fatally stabbed by his brother-in-law. The incident occurred yesterday (22), and the suspect was taken into custody.
 
-ඊයේ (22) අලුයම් කාලයේදී කටුවන පොලිස් වසමේ අමුදමන ප්‍රදේශයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, අමුදමන, කටුවන ප්‍රදේශයේ පදිංචිව සිටි 41 හැවිරිදි පුද්ගලයෙකි.
+A person was attacked with a sharp object, with a sharp object.
 
-මරණකරු හා ඔහුගේ මස්සිනා අතර ඇතිවූ අමනාපයක් මත බහින් බස්වීමක් දුරදිගයාමෙන් මස්සිනා විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට විමර්ශනයේදී අනාවරණය වී තිබේ.
+The murder had been carried out in the Katuwana Police Division yesterday (22).
 
-එම ඝාතනය සිදුකළ සැකකරු ඊයේ (22) රාත්‍රී කටුවන පොලීසියට භාරවී තිබේ.
+The deceased has been identified as a 41 year old resident of Katuwana, Kataana.
+
+Investigations have revealed that the assault was attacked by the brother-in-law with a sharp weapon by the deceased and his brother-in-law.
+
+The suspect was assaulted to Katuwana Police yesterday (22).
 
 ◼️
 
 [Data](articles/d2b49caa.json)
+
+[Extended Data](ext_articles/d2b49caa.ext.json)
 
 ---
 
@@ -323,6 +397,24 @@ The bus had been severely damaged due to the accident and around 12 persons trav
 [Data](articles/088be100.json)
 
 [Extended Data](ext_articles/088be100.ext.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනයට බාධා
+
+*2024-06-23 08:50:47* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410368) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ ගලබඩ සහ ඉගුරුඔය අතර දුම්රිය ස්ථාන අතර පේන්‍ රෝස් ප්‍රදේශයේ දී අද (23) උදෑසන දුම්රිය මාර්ගයට විශාල ගසක් කඩා වැටීමෙන් බදුල්ල කොළඹ කොටුව අතර දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි දුම්රිය දෙපාර්තමේන්තුව පවසයි .
+
+මේ නිසාවෙන් නානුඔය සිට කොළඹ කොටුව බලා   අද (23)අලුයම  ධාවනය  වෙමින් තිබූ අංක 1024 ටිකිරිමැණිකේ දුම්රිය දැනට හැටන් දුම්රිය ස්ථානයේ සහ නානුඔය සිට මහනුවර බලා ධාවනය වෙමින් තිබූ අංක 1520 දරණ දුම්රිය ගලබඩ දුම්රිය ස්ථානයේ නවතා තබා ඇතැයි දුම්රිය  දෙපාර්තමේන්තුවේ ප්‍රකාශයකු කීය .
+
+දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල ගස කපා ඉවත් කිරිමට අපහසු බවත් , චේන්බ්ලොබ්ලොක් යන්ත්‍ර යොදා ගනිමින් ගස ඉවත් කිරිමට කටයුතු සිදු කරන බවද දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය .
+
+මේ නිසාවෙන් බදුල්ල  කොළඹ කොටුව අතර දුම්රිය ධාවනය ප්‍රමාද වන  බවද දුම්රිය දෙපාර්තමේන්තුවේ පැවසීය .
+
+◼️
+
+[Data](articles/b0646b7a.json)
 
 ---
 
@@ -2159,111 +2251,5 @@ Recently, a child from West Bengal in India was found to have been infected with
 [Data](articles/0cf166a8.json)
 
 [Extended Data](ext_articles/0cf166a8.ext.json)
-
----
-
-### The 17-year-old schoolgirl has been raped
-
-*2024-06-22 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198017) · `si`
-
-A 17-year-old schoolgirl from Kosgama was raped after being lured to a cemetery in Hanwella. She reported the incident to the Hanwella Police, leading to the arrest of a 21-year-old suspect and the ongoing search for four more.
-
-🟩
-
-The Hanwella Police has launched a special investigation into a group of 17-year-old rape.
-
-A 17-year-old schoolgirl residing in Kosgama has gone to Dansals with her little mother in the Poson Poya Day (21) morning.
-
-She told her little mother that he was going to a bookfire and told her boyfriend.
-
-She had lodged a complaint with the Hanwella Police that he was forcibly taken to a lonely cemetery in Elugama, Hanwella.
-
-So the girl was sent to the jurisdiction at the jurisdiction last night.
-
-A 21-year-old youth was arrested in the Hanwella police, who was launched into an investigation into the incident.
-
-Police said that the four other suspects have been found in search of the four suspects involved in the incident.
-
-◼️
-
-[Data](articles/36b45ce5.json)
-
-[Extended Data](ext_articles/36b45ce5.ext.json)
-
----
-
-### Dogs and crows mysteriously die
-
-*2024-06-22 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாய்கள்-காகங்கள்-மர்மமான-முறையில்-உயிரிழப்பு/72-339241) · `ta`
-
-In Mannar - Uppukkulam and Nalavan Wadi, residents report mysterious deaths of dogs and crows despite vaccination efforts. Eight dogs have died, and three are critically ill, suspected to be from poisoned food. Owners urge quick action from authorities.
-
-🟩
-
-Residents of Mannar - Uppukkulam and Nalavan Wadi area have been mysteriously killed in mysterious deaths.
-
-They said that all the healthy vaccines were put in place and the sudden death of dogs that were maintained.
-
-So far, eight dogs have died and suspect that the condition of three more dogs is in critical condition and that the dogs may have provided poison mixed food.
-
-The owners of the dogs have said that the relevant authorities should take swift action on the incident.. Remble
-
-◼️
-
-[Data](articles/d3e606f0.json)
-
-[Extended Data](ext_articles/d3e606f0.ext.json)
-
----
-
-### Israeli attack near the International Red Cross in Gaza
-
-*2024-06-22 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186689) · `ta`
-
-In Gaza, an Israeli attack near the International Red Cross headquarters resulted in over 25 Palestinian deaths. A grieving woman reported being attacked twice; once during the initial assault and again as others investigated. Hasan al-Najai lost his two sons in the first attack while trying to rescue victims.
-
-🟩
-
-More than 25 Palestinians have been killed in an attack by Israeli soldiers on a tent camp near the International Red Cross headquarters in Gaza.
-
-A woman who lost her husband in the attack has been reported to AB for an attack twice.
-
-Mona Azur said the second attack took place when the other people went to see what was going on.
-
-We were inside the camps. They said that they went out of my husband, where my husband went out. The woman said.
-
-They then carried out a second attack, near the office of the Red Cross, he said.
-
-Hasan al -Najai said his two sons were killed by the first attack.
-
-My sons rushed to save them following the screaming of women and children, he said at the hospital.
-
-They went to save a woman.
-
-◼️
-
-[Data](articles/b182cfcf.json)
-
-[Extended Data](ext_articles/b182cfcf.ext.json)
-
----
-
-### Cardinal Ranjith clarifies financial support to Easter attack victims; ready to provide verification
-
-*2024-06-22 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100021/cardinal-ranjith-clarifies-financial-support-to-easter-attack-victims-ready-to-provide-verification) · `en`
-
-The Archbishop of Colombo Cardinal Malcolm Ranjith states that he has all the documents on how the funds received for victims of Easter Sunday terror attack was spent.
-
-Responding to the allegations levelled by former President Maithripala Sirisena, Cardinal Ranjith emphasized that the statement made by the former President regarding the relevant funds is completely baseless.
-
-“The statement made by former President Sirisena is completely hateful and inappropriate. He has a duty to ask the concerned parties what happened before making such remarks”, Cardinal Ranjith said.
-
-“Following the Easter attacks, we requested assistance from both international and domestic parties to address the needs of the affected individuals. These requirements were varied, including medical treatment in private hospitals for specialized care, and educational support for orphaned children. They required assistance from us in different areas.”
-
-...
-
-[Data](articles/583555ac.json)
-
-[Extended Data](ext_articles/583555ac.ext.json)
 
 ---

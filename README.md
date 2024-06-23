@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 02:51:44**
+As of **2024-06-24 03:04:41**
 
 ## Newspaper Stats
 
-*Scraped **31,770** Articles*
+*Scraped **31,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,830
-dailyftlk | 1,938
+dailyftlk | 1,942
 adalk | 2,784
 adaderanalk | 3,608
 tamilmirrorlk | 3,735
@@ -26,11 +26,77 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,765 (100.0%) of 31,770 articles have been extended.
+31,770 (100.0%) of 31,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### UK to maintain LTTE terrorist status
+
+*2024-06-24 02:45:26* · [`dailyftlk`](https://www.ft.lk/news/UK-to-maintain-LTTE-terrorist-status/56-763381) · `en`
+
+The UK Proscribed Organisations Appeals Commission on Friday dismissed an appeal from the Transitional Government of Tamil Eelam (TGTE) to lift the UK’s designation of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation. This decision was made in response to the case Arumugam and Others vs. the Secretary of State for the Home Department.
+
+The TGTE argued that it should not be proscribed in the UK, emphasising its commitment to achieving its political and ideological goals through non-violent means. The TGTE advocates for the establishment of an independent Tamil state in the north-east of Sri Lanka.
+
+...
+
+[Data](articles/608d75f1.json)
+
+---
+
+### FM Ali Sabry commends UK’s continued proscription of LTTE
+
+*2024-06-24 02:44:48* · [`dailyftlk`](https://www.ft.lk/news/FM-Ali-Sabry-commends-UK-s-continued-proscription-of-LTTE/56-763380) · `en`
+
+Foreign Affairs Minister Ali Sabry has applauded the United Kingdom’s decision to uphold the proscription of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation.
+
+In a statement posted on the social media platform X, Sabry highlighted the LTTE’s international network’s strategy to influence foreign governments into lifting the ban. “The LTTE’s international network’s approach and strategy is to get foreign Governments to de-proscribe the LTTE so that they could revive the LTTE,” Sabry wrote.
+
+The UK Proscribed Organisations Appeals Commission, an independent court headed by a high court judge and supported by two retired senior diplomats, ruled against the de-proscription of the LTTE. The decision was made on 21 June confirming that the UK will continue to maintain the LTTE on its list of banned organisations.
+
+...
+
+[Data](articles/8c07aa4e.json)
+
+---
+
+### Lawyers’ Collective urges President to cease intimidating and undermining independence of judiciary
+
+*2024-06-24 02:41:32* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-urges-President-to-cease-intimidating-and-undermining-independence-of-judiciary/56-763379) · `en`
+
+On 18 June President Ranil Wickremesinghe, speaking in Parliament, criticising the recent Supreme Court determination on the Gender Equality Bill referred to the court as having engaged in ‘judicial cannibalism’. The President went on to say that Parliament ‘could not agree with the Supreme Court ruling’ and that while he doesn’t propose to summon judges before Parliament, he proposes the appointment of a Parliamentary Select Committee to review the determination. Previously, the President also demanded the appointment of a Parliamentary Select Committee to investigate the workings of the Constitutional Council when it did not approve his nominee to the Supreme Court.
+
+...
+
+[Data](articles/9923e7df.json)
+
+---
+
+### CoPE uncovers massive fraud of over Rs. 31 b at CPC for extra commissions
+
+*2024-06-24 02:39:34* · [`dailyftlk`](https://www.ft.lk/news/CoPE-uncovers-massive-fraud-of-over-Rs-31-b-at-CPC-for-extra-commissions/56-763378) · `en`
+
+Overpayments result in customers paying extra Rs. 5.85 per litre of petrol 92 Octane, Rs. 7.50 for petrol 95 Octane, Rs. 5.88 for LED, Rs. 6.96 for LSD as of 19 June 2024
+
+Discloses deliberate delay in issuing circular for filling stations cause over Rs. 3.4 b loss from 2014-2022
+
+Asserts internal officials of CPC clearly responsible for fraudulent activities
+
+Demands to know what actions CPC took to address issue so far
+
+Directs Chief Accounting Officer and Administrative Officer to submit detailed report within 7 working days; including names of individuals
+
+Discloses officials responsible for fraud are no longer in Sri Lanka
+
+The Committee on Public Enterprises (CoPE) exposed a massive fraud by the Ceylon Petroleum Corporation (CPC), where the public has borne additional fuel costs due to an overpayment of Rs. 31,021.07 million in extra commissions to its distributors.
+
+...
+
+[Data](articles/f34e4824.json)
+
+---
 
 ### Lion Brewery’s global success contributes to Sri Lanka’s foreign exchange gains
 
@@ -45,6 +111,8 @@ The Brewery’s decision to streamline its market presence from 35 to 17 countri
 ...
 
 [Data](articles/40198eeb.json)
+
+[Extended Data](ext_articles/40198eeb.ext.json)
 
 ---
 
@@ -64,6 +132,8 @@ Kwashi also serves as the Chief Executive Officer of the Dhammika and Priscilla 
 
 [Data](articles/aa141e0c.json)
 
+[Extended Data](ext_articles/aa141e0c.ext.json)
+
 ---
 
 ### Sri Lanka strikes debt relief deal with bond holders ending bankruptcy: Ravi K
@@ -81,6 +151,8 @@ The restoration of fiscal sustainability, sustenance in revenue mobilisation eff
 ...
 
 [Data](articles/7d88917d.json)
+
+[Extended Data](ext_articles/7d88917d.ext.json)
 
 ---
 
@@ -102,6 +174,8 @@ This prestigious accolade reflects the Company’s steadfast dedication to drivi
 
 [Data](articles/595b4913.json)
 
+[Extended Data](ext_articles/595b4913.ext.json)
+
 ---
 
 ### Semasinghe urges Opposition to ditch unrealistic election promises
@@ -121,6 +195,8 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 ...
 
 [Data](articles/5e851eab.json)
+
+[Extended Data](ext_articles/5e851eab.ext.json)
 
 ---
 
@@ -2299,85 +2375,5 @@ This article marks Ranasinghe Premadasa’s 100th birth anniversary, reflecting 
 [Data](articles/0a298416.json)
 
 [Extended Data](ext_articles/0a298416.ext.json)
-
----
-
-### RW’s “judicial cannibalism” stirs up a storm
-
-*2024-06-23 10:34:00* · [`islandlk`](http://island.lk/rws-judicial-cannibalism-stirs-up-a-storm/) · `en`
-
-The topics of the judiciary and its independence were a recurring theme during last week’s parliamentary sittings. Both government and opposition MPs took turns discussing various aspects of the judiciary, with some using their parliamentary privileges to criticize judges and the courts.
-
-President Ranil Wickremesinghe led the baton charge on Tuesday morning, explaining his stance on the recent Supreme Court determination on the constitutionality of the Gender Equality Bill. Using the words “judicial cannibalism”, he found fault with the court for holding that the Bill violated the powers of Parliament under Article 4 of the Constitution and called for the appointment of a parliamentary select committee to study and make recommendations on this matter. But he did say he was not proposing summoning judges before the select committee.
-
-...
-
-[Data](articles/6301bd18.json)
-
-[Extended Data](ext_articles/6301bd18.ext.json)
-
----
-
-### Ranasinghe Premadasa Birth Centenary – An evergreen leader
-
-*2024-06-23 10:33:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-birth-centenary-an-evergreen-leader/) · `en`
-
-“All theory is grey… But forever green is the tree of life. “Goethe (Faust)
-
-For three months in late 1990’s, American author and political activist Barbara Ehrenreich lived the life of a low-wage worker. She wanted to discover, first hand, how President Bill Clinton’s welfare reforms were impacting on the lives of the working poor. Her experiences gave birth to her most celebrated book, Nickle and Dimed: On (Not) Getting By in America. In it, she focuses on the phenomenon of employed-homeless, workers who often do more than one job but are still unable to afford a roof over their heads. The conjunction of low wages and high rents create poverty traps from which few workers escape, Ehrenreich notes.
-
-...
-
-[Data](articles/f6a2cedc.json)
-
-[Extended Data](ext_articles/f6a2cedc.ext.json)
-
----
-
-### Two lives in the paal Talawa accident
-
-*2024-06-23 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198050) · `si`
-
-In a tragic accident on the Anuradhapura-Paduniya road near Talawa, two died and two were hospitalized after a bus collided head-on with a three-wheeler. The victims, aged 19 and 24, were part of a group heading to Jaffna. They were taken to the Anuradhapura Teaching Hospital for treatment.
-
-🟩
-
-Two people were killed and two others were hospitalized after a bus and three-wheeler were facing the face.
-
-The terrible accident occurred at the Anuradhapura-Paduniya road, the Talawa filling ground at the Talawa - 23rd.
-
-The deceased have been identified as 19 and 24 youths.
-
-Talawa Police said that the accident had occurred when a group of people were traveling with a grief to Jaffna to Jaffna.
-
-Two persons were killed in the accident and the injured were admitted to the Anuradhapura Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/81356a06.json)
-
-[Extended Data](ext_articles/81356a06.ext.json)
-
----
-
-### Mountaineer train service is blocked
-
-*2024-06-23 10:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவை-தடைப்பட்டது/76-339268) · `ta`
-
-A tree fell near Galapoda and I Eenuru Oya stations on the Nawalapitiya railway line, blocking the mountain rail service. The railway control room confirmed the blockage and mentioned ongoing efforts to clear the tree.
-
-🟩
-
-A tree fell this morning between the Galapoda and the I Eenuru Oya railway stations on the Nawalapitiya railway line.
-
-As a result, the Nawalapitiya Railway Control Room said that the mountain rail service has been blocked.
-
-As a result of this, the rail control room said that the railway traffic has been blocked and the work of cutting down the tree that has fallen on the road is underway.. Remble
-
-◼️
-
-[Data](articles/8bae4354.json)
-
-[Extended Data](ext_articles/8bae4354.ext.json)
 
 ---

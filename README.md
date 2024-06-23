@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 08:22:18**
+As of **2024-06-23 08:34:37**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,644 (100.0%) of 31,645 articles have been extended.
+31,645 (100.0%) of 31,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### இந்திய மீனவர்கள் 18 பேர் கைது
+### 18 Indian fishermen arrested
 
 *2024-06-23 08:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-18-பேர்-கைது/175-339264) · `ta`
 
-இலங்கை கடல் எல்லைக்குள் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட 18 இந்திய மீனவர்களை இலங்கைக் கடற்படையினர் கைது செய்துள்ளனர்.
+The Sri Lankan navy arrested 18 Indian fishermen and confiscated three boats for poaching in their territorial waters.
 
-அத்துடன் 3 இந்திய மீன்பிடி இழுவை படகுகளையும் கைப்பற்றியுள்ளதாக இலங்கை கடற்படையின் ஊடகப் பிரிவு தெரிவித்துள்ளது
+🟩
+
+Sri Lankan navy has arrested 18 Indian fishermen for fishing in Sri Lankan waters.
+
+The Sri Lanka Navy's media unit said that 3 Indian fishing drag boats have also been seized
 
 ◼️
 
 [Data](articles/fe5c4625.json)
+
+[Extended Data](ext_articles/fe5c4625.ext.json)
 
 ---
 

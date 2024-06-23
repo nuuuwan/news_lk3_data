@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 19:19:32**
+As of **2024-06-23 19:34:57**
 
 ## Newspaper Stats
 
-*Scraped **31,735** Articles*
+*Scraped **31,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,780
-adaderanalk | 3,605
+adaderanalk | 3,606
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,193
+adaderanasinhalalk | 5,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,733 (100.0%) of 31,735 articles have been extended.
+31,735 (100.0%) of 31,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### සත්ත්ව නිෂ්පාදන ආනයනය ගැන ගත් තීරණය
+
+*2024-06-23 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198068) · `si`
+
+කුරුළු උණ රෝගය වාර්තා වී ඇති කිසිදු රටකින් සතුන් හෝ සත්ත්ව නිෂ්පාදන මෙරටට ආනයනය කිරීමට අවසර ලබා නොදෙන බව සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව අවධාරණය කරයි.
+
+එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්, ආචාර්ය හේමාලි කොතලාවල මහත්මිය පවසන්නේ රටවල් කිහිපයක යළි හිස ඔසවා ඇති කුරුළු උණ රෝග කාරක වෛරසය මෙරටට ඇතුළුවීම වැළැක්වීම සඳහා ගෙන ඇති පියවර අඛණ්ඩව ක්‍රියාත්මක කරන බවයි.
+
+පළමුවරට අමෙරිකා එක්සත් ජනපදයේ ගවයින් ආශ්‍රිතව ද මෙම රෝගය වාර්තාවීම දරුණු තත්ත්වයක් බව ද අධ්‍යක්ෂ ජනරාල්වරිය පැවසුවාය.
+
+එසේ වුවත් මෙරට තුළ ක්‍රියාත්මක වන රෝග ආවේක්ෂණ වැඩපිළිවෙළ තවදුරටත් ශක්තිමත් කර ඇති  බැවින් කුරුළු උණ රෝගය පිළිබඳව අනිසි බියක් ඇති කර ගත යුතු නොමැති බව ඇය අවධාරණය කළාය.
+
+◼️
+
+[Data](articles/46dc3923.json)
+
+---
+
+### Jayasumana slams AKD over ‘misleading comments’ on chronic kidney disease
+
+*2024-06-23 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100052/jayasumana-slams-akd-over-misleading-comments-on-chronic-kidney-disease) · `en`
+
+Prof. Channa Jayasumana says that the recent statement made by leader of the National People’s Power (NPP) Anura Kumara Dissanayake regarding the chronic kidney disease spreading associated with agricultural communities in Anuradhapura and Polonnaruwa districts is completely false.
+
+The Parliamentarian, who was a researcher on epidemic kidney disease in agricultural communities in Sri Lanka, alleged that research has already confirmed the cause of kidney disease in these areas.
+
+“There is nothing new to discover about this, nor any new treatment to be found. We have been conducting research on the matter for 15 years, and all the facts have been revealed”, he said.
+
+“Two main causes have been identified for this kidney disease: one is the impact of certain types of agrochemicals, and the other is long-term dehydration.”
+
+...
+
+[Data](articles/7034bcd2.json)
+
+---
 
 ### New Deputy Governors appointed to Central Bank
 
@@ -48,21 +84,29 @@ Mr. A.A.M. Thassim has over 31 years of service at the CBSL in different capacit
 
 [Data](articles/803f0e58.json)
 
+[Extended Data](ext_articles/803f0e58.ext.json)
+
 ---
 
-### ජනපති බදාදා ජාතිය අමතයි
+### President calls race on Wednesday
 
 *2024-06-23 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198067) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා ජාතිය ඇමතීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe plans to address the nation on October 26th, focusing on the economy and foreign loan restructuring. This announcement aims to provide relief to the citizens.
 
-රටේ වත්මන් ආර්ථික තත්ත්වය පිළිබඳව හා විදෙස් ණය ප්‍රතිව්‍යූහගතකිරීම සම්බන්ධයෙන් ලබා ඇති ප්‍රගතිය පිළිබඳව මෙහිදී ජනාධිපතිවරයා ජනතාව දැනුවත් කිරීමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-ජනාධිපතිවරයාගේ ප්‍රකාශයත් සමග මෙරට ජනතාවට සහන රැසක් හිමිවනු ඇති බව එක්සත් ජාතික පක්ෂයේ ජාතික ලේකම් රවී කරුණානායක මහතා පවසයි.
+President Ranil Wickremesinghe is due to call the nation on the 26th.
+
+It is reported that the President is to educate the public on the progress of the current economic situation and the restructuring of foreign loans.
+
+According to the National Secretary Ravi Karunanayake, the people of this country will have many relief along with the President's statement.
 
 ◼️
 
 [Data](articles/1ce61bf9.json)
+
+[Extended Data](ext_articles/1ce61bf9.ext.json)
 
 ---
 
@@ -2399,35 +2443,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/0e9554d5.json)
 
 [Extended Data](ext_articles/0e9554d5.ext.json)
-
----
-
-### Sri Lanka Insurance City Office Branch relocated
-
-*2024-06-23 04:46:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-city-office-branch-relocated-2/) · `en`
-
-...
-
-[Data](articles/dc648eb0.json)
-
-[Extended Data](ext_articles/dc648eb0.ext.json)
-
----
-
-### Dr. Pramila Ranasinghe and Vcare Skin Clinic shine at BWIO and Asia Miracle Awards
-
-*2024-06-23 04:44:00* · [`islandlk`](http://island.lk/dr-pramila-ranasinghe-and-vcare-skin-clinic-shine-at-bwio-and-asia-miracle-awards/) · `en`
-
-Vcare Skin Clinic and its Founder and Chief Executive Officer (CEO), Dr. Pramila Ranasinghe received two awards at the Business World International Awards 2023. Dr. Ranasinghe was recognised as the Best Professional of the Year (Medium-Gold) in the Healthcare and Related Services category. In addition, Vcare Skin Clinic won the award for Best Skincare Clinic of the Year (Medium-Platinum). Vcare Skin Clinic was also awarded as the Best Skin Care Clinic Brand of the Year at Asia Miracle Awards 2024 organised by the MUGP International Organisation.
-
-The Business World International Awards ceremony, organised by the Business World International Organisation (BWIO), was recently held at the Taj Samudra Hotel in Colombo. The event was graced by the presence of Speaker of Parliament Mahinda Yapa Abeywardena, along with numerous other distinguished guests, including politicians, foreign diplomats, and senior government officials.
-
-HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
-
-...
-
-[Data](articles/a2371d5c.json)
-
-[Extended Data](ext_articles/a2371d5c.ext.json)
 
 ---

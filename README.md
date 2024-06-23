@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 12:52:29**
+As of **2024-06-23 13:04:22**
 
 ## Newspaper Stats
 
-*Scraped **31,686** Articles*
+*Scraped **31,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,771
-adaderanalk | 3,596
+adaderanalk | 3,597
 tamilmirrorlk | 3,723
 dailymirrorlk | 4,733
 virakesarilk | 4,912
@@ -26,45 +26,81 @@ adaderanasinhalalk | 5,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,680 (100.0%) of 31,686 articles have been extended.
+31,686 (100.0%) of 31,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ගලකින් හිසට පහරදී පොසොන් පොහොයදා රාත්‍රි සිය මව ඝාතනය කල පුතෙකු අත්අඩංගුවට
+### Sri Lanka women’s cricket team makes historic top five entry in ODI rankings
+
+*2024-06-23 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100043/sri-lanka-womens-cricket-team-makes-historic-top-five-entry-in-odi-rankings) · `en`
+
+In a historic milestone for Sri Lankan cricket, the national women’s team has climbed into the top five of the ICC Women’s ODI Team Rankings for the first time ever.
+
+This groundbreaking achievement comes as it climbed up two spots in the Women’s ODI Team Rankings after completing a clean sweep of the ODI series against the West Indies, clinching a decisive 3-0 victory.
+
+Their recent series victories and standout individual performances have been pivotal in securing their place among the top five ODI teams. The team, led by veteran Chamaru Athapaththu has only lost one match out of the six ODI matches they played so far in 2024.
+
+Meanwhile, several players of the Sri Lanka women’s team have also climbed up several spots in both ODI batting and bowling rankings after their brilliant individual performances.
+
+◼️
+
+[Data](articles/097bd542.json)
+
+---
+
+### A son arrested for hitting his mother in the Poson Poya Day
 
 *2024-06-23 12:33:41* · [`adalk`](https://www.ada.lk/breaking_news/ගලකින්-හිසට-පහරදී-පොසොන්-පොහොයදා-රාත්‍රි-සිය-මව-ඝාතනය-කල-පුතෙකු-අත්අඩංගුවට/11-410376) · `si`
 
-කන්දෙගෙදර සාර්නයා වත්තේ දී සිය පුතුගේ නිවසට ගිනිතබා අලාභහානි කර , ගලකින් පහරදී  පොසොන්   පොහොය දින රාත්‍රි සිය මව ඝාතනය කලැයි සැකපිට පුතෙකු ඊයේ (22) සැකපිට අත්අඩංගුවට ගත් බව කන්දෙගෙදර පොලිසිය පවසයි .
+On Poson Poya Day, a 44-year-old man from Kandagedara allegedly assaulted his mother, leading to her death. The incident occurred after the suspect, under the influence of alcohol, caused disputes at his mother's residence. He was later arrested and remanded for the murder.
 
-සැකකාර පුතා විසින් හිසට ගලකින් පහරදී මෙන් මෙසේ ඝාතනයට ලක්වී ඇත්තේ කන්දෙගෙදර සාර්නයා වත්තේ තංගමලේ කොටසේ 3 වන ලැයිමේ පදිංචිව සිටි සිංගාරවේල් මුත්තාල් (62) නැමති කාන්තාව යැයි පොලිසිය කීය .
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු කන්දෙගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි තිදරු පියෙකු යැයි පොලිසිය කීය .
+Kandagedara Police said that the son of his son's home was bowled out for a stone and assassinated his son's home on the Poson Poya Day night.
 
-මොහුගේ බිරිද විදේශ රටක රැකියාවක් කරන බවත් , මොහුගේ දරුවන් තිදෙනා සැකකරු ගේ මව සමඟ කන්දෙගෙදර සාර්නයා වත්තේ තංගමලේ කොටසේ වතු නිවසේ පදිංචිව සිට ඇති අතර සැකකරු සිය  කන්දේගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ සිටින සිය සහෝදරියකුගේ නිවසේ වාසය කරමින් සිටි බවද පොලිසිය සදහන් කළේය .
+The suspect's son had been assassinated with the head of the head of the Hongel Muththale (62), a resident of Kandaweera Vidyalaya.
+
+The suspect was a 44 year old father, a resident of Kandagedara Boarno, the police said.
+
+The suspect had resided in the Colombo Divisional estate home with his wife and his two children with the mother of his suspect.
+
+The police say that he has always come to a drunken mother's house and causing disputes with the drunk and the three children to stay with a room to stay at the house.
+
+The suspect had gone to his home to meet the Samurdhi Development Officer of the suspect, the suspect had gone to his home, and the suspect had been burnt to his mother's house.
+
+The woman was killed and the mother of the mother had been admitted to the Kandagedara hospital with a stone and the mother of the mother was taken into a stone.
 
 ...
 
 [Data](articles/1e2b7bf9.json)
 
+[Extended Data](ext_articles/1e2b7bf9.ext.json)
+
 ---
 
-### “ராஜபக்ஷ அணி வந்தால்: நாங்கள் வெளியேறுவோம்“
+### “If the Rajapaksa team comes: we will leave”
 
 *2024-06-23 12:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-அணி-வந்தால்-நாங்கள்-வெளியேறுவோம்/175-339277) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தல் வழிநடத்தல் குழுவில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ராஜபக்ச அணி தொடர்ந்தும் பங்குபற்றினால், அதில் இருந்து விலகி தமது கட்சி தனித்து நிற்கும் என ஜனாதிபதி ரணில் விக்ர மசிங்கவிற்கு அறிவிக்க பாராளுமன்ற உறுப்பினர் நிமல் லன்சா உள்ளிட்ட குழுவினர் தீர்மானித்துள்ளனர்.
+Nimal Lansa plans to inform President Ranil Wickramasinghe about the Rajapaksa team's continued participation in the upcoming presidential election committee. The President suggests choosing between the Rajapaksa camp's support or his own team's support. The committee protests against Basil Rajapakse's inclusion but he remains involved. The SLFP, led by Nimal Siripala de Silva, is expected to back the President, with Nimal Lansa's group also supporting him.
 
-இதன்படி ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுனவின் ராஜபக்ச முகாமின் ஆதரவு தேவையா அல்லது தனது சொந்த அணியினரின் ஆதரவு தேவையா என்பதை ஜனாதிபதியே தெரிவு செய்ய வேண்டும் என்றும் அக்குழுவினர் தெரிவித்ததுள்ளனர்.
+🟩
 
-ஜனாதிபதியின் தேர்தல் வழிநடத்தல் குழுவிற்கு திரு பசில் ராஜபக்ஷவை அழைத்தமைக்கு கடும் எதிர்ப்பு தெரிவித்துள்ள குழுவினர், அதனையும் மீறி அவர் தொடர்ந்தும் பங்குபற்றுவதாக அக்குழு சுட்டிக்காட்டியுள்ளது.
+Parliamentarian Nimal Lansa has decided to announce to President Ranil Wickra Masinghe that the Sri Lankan PA's Rajapaksa team will continue to take part in the upcoming presidential election committee.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் நிமல் சிறிபால டி சில்வா தரப்பினரும்  நிமல் லன்சா மற்றும் குழுவினருடன் இணைந்து செயற்படுவதால், இந்தக் கருத்தை எதிர்காலத்தில் ஜனாதிபதிக்கு அறிவிக்க திட்டமிடப்பட்டுள்ளது என்றும் அறியமுடிகின்றது.
+Accordingly, the President has said that the president should elect the support of the PA Rajapaksa camp in the presidential election or the support of his own team.
+
+The committee has pointed out that the group has protested against Mr. Basil Rajapakse's invitation to the president's electoral committee and that he continues to participate in it.
+
+It is also known that the SLFP is planning to announce the president in the future as the Sri Lanka Freedom Party (SLFP) Nimal Siripala de Silva is working with Nimal Lansa and the group.
 
 ◼️
 
 [Data](articles/11cbae64.json)
+
+[Extended Data](ext_articles/11cbae64.ext.json)
 
 ---
 
@@ -94,39 +130,53 @@ The bus driver has been arrested, and Thalawa police are conducting further inve
 
 ---
 
-### அமைச்சர், மகளிடம் கடும் சோதனை
+### Minister and daughter
 
 *2024-06-23 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-மகளிடம்-கடும்-சோதனை/175-339276) · `ta`
 
-அமைச்சர் ஒருவரும் அவரது மகளும் சட்டவிரோதமான பொருட்களை கொண்டு வருவதாக கிடைத்த தகவலின் அடிப்படையில் கட்டுநாயக்க விமான நிலையத்தில் வைத்து சுங்க அதிகாரிகளால் அண்மையில் சோதனை நடத்தப்பட்டது. ஆனால் அந்தத் தகவலை நிரூபிக்கும் எந்த ஆதாரமும் அவர்களது பயண பொதிகளில் கிடைக்கவில்லை.
+Customs officials raided Katunayake airport, suspecting a minister and her daughter of smuggling illegal goods. However, no proof was found in their luggage. The minister and her daughter had traveled from the US with another passenger, a customs officer, who allegedly spread false information about them. This officer and the customs officials are now under investigation for misconduct.
 
-அமெரிக்காவில் இருந்து தனது மகளுடன் இலங்கை வந்த அமைச்சரவை அந்தஸ்துள்ள அமைச்சர் ஒருவரே இந்த சம்பவத்திற்கு முகம் கொடுத்துள்ளார்.
+🟩
 
-இந்த தகவலை அதே விமானத்தில் இருந்து வந்த தி​றைச்சேரி அதிகாரி ஒருவர் தெரிவித்துள்ளமை தெரியவந்துள்ளது.
+Customs officials recently conducted a raid on the Katunayake airport based on information that a minister and her daughter were bringing illegal items.. But no evidence that proves that information is available on their travel packages.
 
-இந்த அதிகாரி பொய்யான தகவல்களை அளித்ததாக குற்றம் சாட்டப்பட்டுள்ளது. அத்துடன், தகவல் இல்லாமல் சோதனை செய்வதாக சுங்கத்துறை அதிகாரிகளுக்கு எதிராக  குற்றம் சாட்டப்படுகிறது.
+A minister who came to Sri Lanka with his daughter from the United States faced the incident.
+
+This information was revealed by a Rircheri official who was on the same plane.
+
+This officer is accused of providing false information. In addition, customs officials are accused of testing without information.
 
 ◼️
 
 [Data](articles/841e3d74.json)
 
+[Extended Data](ext_articles/841e3d74.ext.json)
+
 ---
 
-### வீதி விபத்துகளில் 7 பேர் பலி: 15 பேர் காயம்
+### 7 killed in road accidents: 15 injured
 
 *2024-06-23 12:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-விபத்துகளில்-7-பேர்-பலி-15-பேர்-காயம்/175-339275) · `ta`
 
-பொசன் தினத்திற்கு மறுநாள் இலங்கையின் பல இடங்களில் இடம்பெற்ற வீதி விபத்துக்களில் 7 பேர் உயிரிழந்துள்ளதுடன் மேலும் 15 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடக அலுவலகம் தெரிவித்துள்ளது.
+On Poson Day, seven fatalities and 15 injuries occurred in various road accidents across Sri Lanka. Incidents included collisions between buses, three-wheelers, and pedestrians, with victims ranging from elderly to youths.
 
-கண்டி- யாழ்ப்பாணம் வீதியில் மாத்தளை கொங்கஹமுல பிரதேசத்தில் தனியார் பேருந்து ஒன்றும் முச்சக்கர வண்டியும் நேருக்கு நேர் மோதியதில் மீகம்மன வடக்கு வத்தேகம பகுதியைச் சேர்ந்த 57 மற்றும் 17 வயதுடைய இரு பெண்கள் உயிரிழந்துள்ளதாக மாத்தளை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-தம்புள்ளையில் இருந்து மாத்தளை நோக்கி பயணித்த பேருந்து வீதியோரம் நிறுத்தி வைக்கப்பட்டிருந்த இ.போ.சபைக்கு சொந்தமான பேருந்தொன்றை கடக்க முற்பட்ட போது எதிர்திசையில் இருந்து வந்த முச்சக்கர வண்டியுடன் மோதி இந்த விபத்து இடம்பெற்றுள்ளதாகவும் , முச்சக்கர வண்டியில் பயணித்தவர்கள் ஒரே குடும்பத்தை சேர்ந்தவர்கள் எனவும் மாத்தளை பொலிஸார் தெரிவித்தனர்.
+Seven people were killed and 15 others were injured in road accidents in Sri Lanka on the day of Poson Day, the police media office said.
 
-அதேவேளை  ஹம்பேகமுவ, லிஹினாகல பிரதேசத்தில் மோட்டார் சைக்கிளுடன் மோதுண்ட பாதசாரி ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார். தம்வெல் ஒடைய பிரதேசத்தை சேர்ந்த 73 வயதுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+Two women aged 57 and 17, aged 57 and 17, from Meegammana North Wattegama, were killed when a private bus and three-wheeler collided head-on in the Kongahamula area in Matale on Jaffna road, Matale police said.
+
+Matale police said that the accident occurred when a three -wheeler collided with a three -wheeler from Dambulla to Matale.
+
+Meanwhile, a pedestrian collided with a motorcycle in Lihinagala, Hambagamuwa, who died after being admitted to the hospital after being admitted to the hospital.. The deceased is a 73 -year -old man from Tamvel.
+
+Also, 10 people, including a driver of the plowing machine, were injured when a bus collided with a former plowing machine in Puttalam Road, Puttalam Road.. The injured have been admitted to the Chilaw Hospital, police said.
 
 ...
 
 [Data](articles/0d2c1427.json)
+
+[Extended Data](ext_articles/0d2c1427.ext.json)
 
 ---
 
@@ -1836,19 +1886,25 @@ The Department of Meteorology has said that strong winds are likely to blow at s
 
 ---
 
-### 36 மணி நேரம் வானிலையில் மாற்றம்
+### 36 hours change in weather
 
 *2024-06-22 17:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணி-நேரம்-வானிலையில்-மாற்றம்/175-339245) · `ta`
 
-அதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், கண்டி, நுவரெலியா மற்றும் புத்தளம் மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அறிவித்துள்ளது.
+Heavy rains exceeding 100mm are forecasted for areas including Western, Sabaragamuwa provinces, Kandy, Nuwara Eliya, and Puttalam districts. Strong winds of 40-50km/h are also expected in several regions, affecting weather conditions significantly.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் எனவும் குறிப்பிட்டுள்ளது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் மணிக்கு 40 - 50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. R
+Accordingly, more than 100 millimeters of heavy rains are expected in some places in the Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya and Puttalam districts.
+
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The Department of Meteorology has said that strong winds are likely to blow at speeds of 40 to 50 km / h in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/b9766065.json)
+
+[Extended Data](ext_articles/b9766065.ext.json)
 
 ---
 
@@ -2213,29 +2269,5 @@ Arun Siddharth handed over the appointment letter of Maubima Janata Party leader
 [Data](articles/5463763b.json)
 
 [Extended Data](ext_articles/5463763b.ext.json)
-
----
-
-### Stir
-
-*2024-06-22 15:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எரிகாயங்களுடன்-அலறியடித்து-ஓடிவந்த-நபரால்-பரபரப்பு/71-339243) · `ta`
-
-In East Vatarayan, Vadamarachchi, a 43-year-old named Bhavani was rescued by locals after being trapped in her home. She was first taken to the Maruthankani Divisional Hospital before being transferred to the Point Pedro Hospital. The incident occurred around 10 pm, and the police are investigating.
-
-🟩
-
-A person has been rescued by the public and has been admitted to hospital after being fired in the East Vatarayan area of ​​Vadamarachchi - Vadamarachchi.
-
-Bhavani (43) from Maruthankani has been rescued and admitted to the Maruthankani Divisional Hospital and has been transferred to the Point Pedro Hospital.
-
-Vadamarachchi is sleeping alone in his home in East Vatrayan area. It is noteworthy that the public was rescued and admitted to the hospital when he ran out of the house at around 10 pm.
-
-Maruthankeni police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/ca1b32bb.json)
-
-[Extended Data](ext_articles/ca1b32bb.ext.json)
 
 ---

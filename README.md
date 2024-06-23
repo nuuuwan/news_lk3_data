@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 21:53:55**
+As of **2024-06-23 22:05:55**
 
 ## Newspaper Stats
 
-*Scraped **31,748** Articles*
+*Scraped **31,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,74 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,783
+adalk | 2,784
 adaderanalk | 3,607
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,923
-adaderanasinhalalk | 5,197
+adaderanasinhalalk | 5,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,747 (100.0%) of 31,748 articles have been extended.
+31,748 (100.0%) of 31,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### காத்தான்குடியில் வேன் விபத்து : காயமடைந்த இருவர் வைத்தியசாலையில் அனுமதி
+### ජෝර්ඩන් ගෙනුත් හැට්ට්‍රික් එකක්
+
+*2024-06-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198073) · `si`
+
+එංගලන්තය සහ අමෙරිකාව අතර පැවැත්වෙන විස්සයි විස්ස ලෝක කුසලාන සුපිරි අට දෙනාගේ වටයේ තරගයේදී පිට පිට පන්දු තුනකදී කඩුලු ත්‍රිත්වයක් දවා ගැනීමට එංගලන්ත ක්‍රීඩක ක්‍රිස් ජෝර්ඩන් සමත්විය.
+
+ඔහු අමෙරිකානු ඉනිමේ 19වන ඕවර යේ 3, 4 සහ 5වන පන්දුවලදී එම කඩුලු ත්‍රිත්වය ලබාගත්තේය.
+
+මෙම තරගයේ එංගලන්ත නායකයා ගේ ආරාධනය අනූව පිටියට පිවිසි අමෙරිකානු කණ්ඩායම සිය ඉනිම සඳහා රැස්කළේ ලකුණු 115ක් පමණි.
+
+◼️
+
+[Data](articles/7ca5e202.json)
+
+---
+
+### Van accident in Kattankudi: Two injured
 
 *2024-06-23 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186792) · `ta`
 
-பொலன்னறுவை இருந்து கல்முனை நோக்கி பயணித்த வேன் ஒன்று மட்டக்களப்பு - கல்முனை பிரதான வீதி வழியாக பயணித்து வந்த போது வேகக் கட்டுப்பாட்டை இழந்து காத்தான்குடி பிரதான வீதி நகர வரவேற்பு பதாதை அருகில் வீதியை விட்டு விலகி வீதியின் நடுவே மோதி விபத்து இடம்பெற்றுள்ளது.
+A van accident in Kattankudi injured two passengers, including children, on the Batticaloa-Kalmunai road. The victims were taken to Kattankudy Resource Hospital for treatment, and police are investigating.
 
-குறித்த வேனில் சிறுவர்கள் உள்ளடங்களாக சுமார் 10  பேர்   ஆசனத்தில் அமர்ந்து வந்துள்ளதுடன் சாரதி உட்பட முன் ஆசனத்தில் அமர்ந்திருந்த மேலும் ஒருவர் விபத்தின் போது காயங்களுக்குள்ளாகி காத்தான்குடி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
 
-காயமடைந்தவர்கள் காத்தானகுடி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் விபத்து குறித்த மேலதிக விசாரணைகளை காத்தான்குடி பொலிஸார் முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+When a van traveling from Polonnaruwa to Kalmunai was traveling along the Batticaloa - Kalmunai main road, the accident occurred in the middle of the road, leaving the road near the Kattankudy main road.
+
+About 10 people, including children in the van, have been seated in the seat and another person who was sitting in front of the seat, including the driver, was injured and admitted to the Kattankudy Resource Hospital.
+
+The injured have been admitted to the Kattanagudi Resource Hospital and further investigations are being carried out by the Kattankudy police.
 
 ◼️
 
 [Data](articles/687cfd7c.json)
+
+[Extended Data](ext_articles/687cfd7c.ext.json)
+
+---
+
+### මාස පහකට පමණ පසු ලොරෙන්සෝ පුතා දිවයිනට
+
+*2024-06-23 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198072) · `si`
+
+මාස පහකට පමණ පසු ලොරෙන්සෝ  පුතා ධීවර යාත්‍රාව ධීවරයන් හය දෙනා සමග සමග දික්ඕවිට ධීවර වරායෙන් ශ්‍රී ලංකාවට පැමිණියේය.
+
+පසුගිය ජනවාරි 17 වනදා එම ධීවර වරායෙන් අරාබි මුහුද බලා යාත්‍රා කළ මෙම යාත්‍රාව  මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට හසුවිය.
+
+පසුව සීෂෙල්ස් රාජ්‍යයේ වෙරළාරක්ෂක බළකාය විසින් ධීවරයන් හය දෙනා සමඟ මේ යාත්‍රා මුදා ගැණුනි.
+
+◼️
+
+[Data](articles/a52defee.json)
 
 ---
 
@@ -309,6 +347,22 @@ According to the National Secretary Ravi Karunanayake, the people of this countr
 [Data](articles/1ce61bf9.json)
 
 [Extended Data](ext_articles/1ce61bf9.ext.json)
+
+---
+
+### ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනපතිට
+
+*2024-06-23 18:39:29* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය-ජනපතිට/11-410386) · `si`
+
+වතු ජනතාව වෙනුවෙන් අපි රජයෙන් ඉල්ලා ඇති කරුණු තුනක් සඳහා ජනාධිපතිවරයා එකඟතාවය පළ කොට ඒවා ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇති නිසා මෙවර ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට ලංකා කම්කරු කොංග්‍රසය විදිහට වතු ජනතාවගේ සහාය ලබාදීමට තීරණය කර ඇති බව ජලසම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍යය ජීවන් තොණ්ඩමන් මහතා ගම්පොළ පුපුරැස්ස ලෙවලන් වතු යායේදී ප්‍රකාශ කළේය.
+
+අධිකරණ හා බන්ධනාගාර රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතාගේ ඉල්ලීමකට අනුව පුපුරැස්ස ලෙවලන් වතුයායේ නිවාස යෝජනා ක්‍රමයක් නිරීක්ෂණය කිරීම හා අංකෙලි පිටිය ජල යෝජනාව සංවර්ධනය කිරීම වෙනුවෙන් පැවති උත්සවයක් අමතා අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+නිවාස පනහකින් සමන්විත මෙම වතු නිවාස යෝජනා ක්‍රමයේ ඉදිකිරීම් මෙයට වසර පහකට පෙර නැවතී ඇති අතර, එය නිරීක්ෂණය කිරීමට හා මෙයට වසර අටකට පෙර නායයෑමේ අවදානමකින් අවතැන්ව ඇති තවත් පවුල් තිහකට නිවාස ඉදිකර දීම වෙනුවෙන් සොයා බැලීමට මෙම අමාත්‍යවරුන් පැමිණ තිබුණි.
+
+...
+
+[Data](articles/9abc119b.json)
 
 ---
 
@@ -2409,85 +2463,5 @@ The co-chairman of the co-chairman Mangala Dambarara said that if the government
 [Data](articles/ac707c0e.json)
 
 [Extended Data](ext_articles/ac707c0e.ext.json)
-
----
-
-### Emergency notice to fishermen
-
-*2024-06-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198042) · `si`
-
-Strong winds and rough seas expected along Sri Lanka's coast from Trincomalee to Chilaw and Hambantota, with wind speeds potentially reaching 60-65 knots. The Department of Meteorology advises caution for sailors, especially near Kankesanthura, Puttalam, and Pottuvil coasts.
-
-🟩
-
-The Department of Meteorology has issued an announcement announcement on strong winds and rough sea.
-
-The announcement was issued at 7.00 am today (24th), the Department said.
-
-From Trincomalee to Chilaw to Chilaw and Hambantota to Chilaw and Hambantota from time to time.. The Department of Meteorology announces that 60 to 65 could increase.
-
-Also, the wind is speeds of winds in Chilaw to Hambantota via Hambantota from Colombo and Galle.. May increase to 50 - 55.
-
-The Department of Meteorology is prevailing that the sea areas off the Kankesanthura and Puttalam to Chilaw and Hambantota to Chilaw and Hambantota to Pottuvil.
-
-The sea areas off the coast extending from Chilaw to Hambantota via Hambantota can be rough.
-
-It is said that the sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil.
-
-The Fisheries and Navy Community demands the Department of Meteorology to address the matter.
-
-◼️
-
-[Data](articles/f388096a.json)
-
-[Extended Data](ext_articles/f388096a.ext.json)
-
----
-
-### 18 Indian fishermen arrested
-
-*2024-06-23 08:01:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-18-பேர்-கைது/175-339264) · `ta`
-
-The Sri Lankan navy arrested 18 Indian fishermen and confiscated three boats for poaching in their territorial waters.
-
-🟩
-
-Sri Lankan navy has arrested 18 Indian fishermen for fishing in Sri Lankan waters.
-
-The Sri Lanka Navy's media unit said that 3 Indian fishing drag boats have also been seized
-
-◼️
-
-[Data](articles/fe5c4625.json)
-
-[Extended Data](ext_articles/fe5c4625.ext.json)
-
----
-
-### The accident occurred in a manufacturer of a bus
-
-*2024-06-23 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198041) · `si`
-
-In separate incidents, a woman died in a bus accident near Jayambima, ten others were injured and taken to hospital. The bus driver was arrested. A motorcyclist was killed in a collision with a lorry in Parasangaswewa. Also, a 73-year-old man died in a car crash on the Lahainagoda road in Hambadagala.
-
-🟩
-
-A woman was killed in a catering of a manuscript in the Jayambima area on the Chilaw-Puttalam main road.
-
-Ten more injured were rushed to the Chilaw Hospital, police said.
-
-The victim was a 58 year old resident of the lower Giribawa.
-
-The driver of the bus has been arrested and the Chilaw Police are conducting further investigations.
-
-Meanwhile, a motorcycle was killed in a crash, a motorbike hit by a lorry in the Parasangaswewa area on the Anuradhapura-Rambewa main road.
-
-Meanwhile, a 73-year-old man was killed in a car accident that took place in the Lahainagoda road in the Hambadagala area in the Hambadagala area in the Hambadagala area.
-
-◼️
-
-[Data](articles/6f19a525.json)
-
-[Extended Data](ext_articles/6f19a525.ext.json)
 
 ---

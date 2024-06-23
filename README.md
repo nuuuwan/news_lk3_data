@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 18:35:08**
+As of **2024-06-23 18:53:05**
 
 ## Newspaper Stats
 
-*Scraped **31,731** Articles*
+*Scraped **31,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,779
+adalk | 2,780
 adaderanalk | 3,604
 tamilmirrorlk | 3,733
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,730 (100.0%) of 31,731 articles have been extended.
+31,731 (100.0%) of 31,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### පාසල් දැරියව සමූහ දූෂණයට ලක්කළ තරුණයින්ට එරෙහිව අධිකරණය දුන් නියෝගය
+### Court orders courts against young people who were raped with girls
 
 *2024-06-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198066) · `si`
 
-හංවැල්ල ජල්තර ප්‍රදේශයේ දී පාසල් ශිෂ්‍යාවක් සමූහ දූෂණයට ලක්කිරීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් තරුණයින් 08දෙනා අධිකරණය වෙත අද (23) ඉදිරිපත් කෙරිණි.
+Eight youths arrested in Hanwella, Jaltraya, on suspicion of rape; magistrate orders detention for 48 hours for interrogation after a 16-year-old girl reports being assaulted by her boyfriend and his friends.
 
-අනතුරුව ඔවුන්ව පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට හෝමාගම වැඩබලන මහෙස්ත්‍රාත්  ප්‍රියංකා මද්දුම පටබැඳි මෙනෙවිය නියෝග කළාය.
+🟩
 
-හංවැල්ල පොලිසිය මගින් අදාළ සැකකරුවන් තවදුරටත් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර ලබා දෙන ලෙස කරන ලද ඉල්ලීමක් අනුව මෙම නියෝගය නිකුත් කෙරිණි.
+The eight youths who were arrested on suspicion of rape in Jaltraya in Hanwella were presented to the court today (23).
 
-මෙලෙස අධිකරණය වෙත ඉදිරිපත්කර තිබුණේ රණාල සහ ජල්තර පදිංචි පිරිසකි.
+The Homagama Acting Magistrate Maddune Pamanka Maddumana was ordered to detaine them for 48 hours.
 
-16 හැවිරිදි පාසල් සිසුවියක් ඇයගේ පෙම්වතා සහ ඔහුගේ මිතුරන් පිරිසක් විසින් සමූහ දූෂණයකට ලක්කිරීමේ සිදුවීම ඉකුත් 21 වනදා වාර්තාවිය.
+The order was issued on a request made by the Hanwella Police and to interrogate the suspects.
+
+The suspect was produced before the Ranala and Juthara.
+
+A 16-year-old schoolgirl reported that her boyfriend and a group of his friends were reported on the 21st.
 
 ◼️
 
 [Data](articles/267ac6af.json)
+
+[Extended Data](ext_articles/267ac6af.ext.json)
 
 ---
 
@@ -1286,6 +1292,28 @@ The woman was killed and the mother of the mother had been admitted to the Kanda
 
 ---
 
+### අභියෝග හමුවේ කිසිවිටෙකත් පැන යන්න එපා
+
+*2024-06-23 11:14:51* · [`adalk`](https://www.ada.lk/opinion/අභියෝග-හමුවේ-කිසිවිටෙකත්-පැන-යන්න-එපා/2-410372) · `si`
+
+අනාගත පරපුර වෙනුවෙන් තමා ලබා දෙන උපදෙස වන්නේ හොඳින් අධ්‍යාපනය ලැබීම, ප්‍රතිපත්ති ගරුක වීම සහ අභියෝග හමුවේ බිය නොවීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ රටේ සාර්ථක නායකයෙක්, දක්ෂ දේශපාලනඥයෙක් ලෙස ලද අත්දැකීම් අනුව අනාගත පරම්පරාවේ සාර්ථකත්වය වෙනුවෙන් ලබා දෙන උපදෙස කුමක්දැයි මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිත හමුවේදී, තරුණියක නැඟූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමිනි.
+
+මඩකලපුව දිස්ත්‍රික් තරුණ නියෝජිතයින්ගේ මෙම හමුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මඩකලපුව ‘ගෝල්ඩන් රිවර්’ හෝටලයේදී ඊයේ (22) පැවැත්විණි.
+
+මඩකලපුව දිස්ත්‍රික්කයේ තරුණ තරුණියන් විශාල පිරිසක් මෙම හමුවට එක්ව සිටි අතර ඔවුන් නැගු ප්‍රශ්නවලට පිළිතුරු ලබාදීමට ද ජනාධිපතිවරයා කටයුතු කළේය.
+
+මෙම සාකච්ඡාවෙන් අනතරුව ජනාධිපතිවරයා ඊට සහභාගි වූ තරුණ තරුණියන් සමඟ සෙල්ෆි ඡායාරූප කිහිපයකටද එක් විය.
+
+මෙහිදී තරුණ තරුණියන් නැගු ප්‍රශ්න සහ ජනාධිපතිවරයා ඊට ලබා දුන් පිළිතුරු පහත පරිදි වේ.
+
+...
+
+[Data](articles/4c57e8d0.json)
+
+---
+
 ### UK rejects appeal to lift ban on LTTE
 
 *2024-06-23 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100039/uk-rejects-appeal-to-lift-ban-on-ltte) · `en`
@@ -2411,29 +2439,5 @@ Accordingly, India won the match by 50 runs.
 [Data](articles/df67e52d.json)
 
 [Extended Data](ext_articles/df67e52d.ext.json)
-
----
-
-### Red Cross says 22 killed in strike near its Gaza office
-
-*2024-06-22 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100034/red-cross-says-22-killed-in-strike-near-its-gaza-office) · `en`
-
-The International Committee of the Red Cross says its offices in Gaza have been damaged by shelling, which killed 22 people who had sought shelter around its compound.
-
-“Heavy-calibre projectiles landed within metres of the office and residences of the International Committee of the Red Cross on Friday afternoon,” an ICRC statement said.
-
-It added that all parties had an obligation to take precautions to avoid harm to civilians and humanitarian facilities.
-
-On Saturday the Israel Defense Forces (IDF) said an initial inquiry found there was “no direct attack carried out by the IDF against a Red Cross facility”.
-
-It said the incident would be “quickly examined” and the findings presented.
-
-Also on Saturday the EU’s foreign policy chief Josep Borrell said the EU condemned the attack and called for an independent investigation and for those responsible to be held accountable.
-
-...
-
-[Data](articles/91f66114.json)
-
-[Extended Data](ext_articles/91f66114.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 23:04:21**
+As of **2024-06-23 23:19:35**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,752 (100.0%) of 31,753 articles have been extended.
+31,753 (100.0%) of 31,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### එංගලන්තය ජය
+### England win
 
 *2024-06-23 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198074) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ එංගලන්තය සහ අමෙරිකාව අතර තරගය අද (23) පැවැති තරගය ජය ගැනීමට එංගලන්තය සමත් විය.
+In a cricket match today, England defeated the USA, scoring 117 runs in just 9 overs after winning the toss and choosing to bat first. The US bowled aggressively, taking 5 wickets.
 
-ඒ අමෙරිකාවට එරෙහිව පන්දුවාර 9යි පන්දු 4 කදී ලකුණු 117ක් ලබා ගනිමින්ය.
+🟩
 
-කාසියේ වාසිය හිමිකර ගත්  එංගලන්තය තීරණය කළේ පළමුව පන්දුවට පහරදීමේ අවස්ථාව අමෙරිකාවට ලබා දීමටය.
+England won the match between England and the United States of America today (23).
 
-ඒ අනුව පන්දුවය පහරදුන් අමෙරිකාව පන්දුවාර 18 යි පන්දු 5කදී සියල්ලන් දැවී ලකුණූ 115ක් ලබා ගත්තේය.
+It scored 117 overs in 9 overs against the US.
+
+England won the toss and giving the batting to bat first.
+
+Accordingly, the ball assaulted by 115 overs and 5 burn.
 
 ◼️
 
 [Data](articles/1274f23a.json)
+
+[Extended Data](ext_articles/1274f23a.ext.json)
 
 ---
 

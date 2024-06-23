@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 08:34:37**
+As of **2024-06-23 08:53:22**
 
 ## Newspaper Stats
 
-*Scraped **31,645** Articles*
+*Scraped **31,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,716
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,167
+adaderanasinhalalk | 5,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,645 (100.0%) of 31,645 articles have been extended.
+31,645 (100.0%) of 31,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### පාසල් අනධ්‍යයන සේවකයින් හෙට සහ අනිද්දා ලෙඩ වෙයි
+
+*2024-06-23 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198043) · `si`
+
+අධ්‍යාපන අනධ්‍යයන සේවකයින් හෙට (24)  සහ අනිද්දා (25) දෙදින ලෙඩ නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය ක්‍රියාමාර්ගයක් සිදුකරන බව අධ්‍යාපන අනධ්‍යයන සේවක සංගමය පවසයි.
+
+අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස ඉල්ලා එම වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව ඔවුන් පැවසීය.
+
+මේ අතර තම ගැටලු අවම මට්ටමෙන් විසඳාගැනීමට අවශ්‍ය ලිඛිත එකඟතාවයන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍යවරයා වෙත ලබාදී ඇති බව විශ්වවිද්‍යාල වෘත්තීය සමිති එකාබද්ධ කමිටුව පවසයි.
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ද දින 50කට වැඩි කාලයක් වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරතව සිටියි.
+
+එහි සම සභාපති මංගල දඹරේරා මහතා පැවසුවේ ඒ සම්බන්ධයෙන් රජය පාර්ශ්වයෙන් යහපත් ප්‍රතිචාරයක් ලැබෙන්නේනම් හෙට හෝ අනිද්දා වැඩවර්ජනය අවසන් කිරීමට හැකි බවය.
+
+◼️
+
+[Data](articles/ac707c0e.json)
+
+---
+
+### ධීවර ජනතාවට හදිසි දැනුම්දීමක්
+
+*2024-06-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198042) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (23) පෙරවරු 7.00ට නිකුත්කරන ලද එම නිවේදනය හෙට (24) පෙරවරු 7.00 දක්වා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා  හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශවල  සුළඟේ වේගය විටින් විට පැ.කි.මී. 60 - 65 දක්වා වැඩි විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එමෙන්ම හලාවත  සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 50 - 55 දක්වා වැඩි විය හැකිය.
+
+එසේම ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා  හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු  ප්‍රදේශ විටින් විට ඉතා රළුවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+හලාවත  සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකය.
+
+...
+
+[Data](articles/f388096a.json)
+
+---
 
 ### 18 Indian fishermen arrested
 
@@ -844,7 +886,7 @@ Thirteen persons have been arrested in connection with the murder of disclosed i
 
 *2024-06-22 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
 
-“Captain Blood:His Odyssey”was an Adventure novel written by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
+“Captain Blood:His Odyssey”was an Adventure novel authored  by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
 
 Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
 
@@ -2213,49 +2255,5 @@ Officers who have been arrested by the Airport Defense Inspector in the manuscri
 [Data](articles/50b259ff.json)
 
 [Extended Data](ext_articles/50b259ff.ext.json)
-
----
-
-### Medical brain drain worsens in Sri Lanka as 25% of doctors ready to migrate - report
-
-*2024-06-22 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100016/medical-brain-drain-worsens-in-sri-lanka-as-25-of-doctors-ready-to-migrate-report) · `en`
-
-The biggest trade union of government doctors in Sri Lanka warned on Friday about a wave of economic crisis-driven brain drain among medical professionals, as 25 percent of them have already taken the necessary exams to find employment abroad.
-
-Before the worst economic crisis pummeled Sri Lanka in the wake of the COVID-19 pandemic in 2021, on average 200 doctors would migrate to work in another country, according to Ministry of Health statistics.
-
-The number has surged since early 2022, when the country defaulted on its foreign debt. Sri Lankans started experiencing power cuts and shortages of basics such as fuel, food and medicine, and the inflation rate rose to 50 percent a year.
-
-“If we consider the situation within the last two years, more than 1,800 doctors have left the country in 2022 and 2023,” Dr. Chamil Wijesinghe, spokesperson of the Government Medical Officers Association, told Arab News.
-
-...
-
-[Data](articles/d0fc0dbf.json)
-
-[Extended Data](ext_articles/d0fc0dbf.ext.json)
-
----
-
-### West Indies win
-
-*2024-06-22 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198012) · `si`
-
-In the ICC 20/20 World Cup 'Super 08', West Indies won against the American team. They chose to field first after winning the toss. The Americans made 128 runs in 19 overs. Chasing 129, West Indies achieved victory with 130 runs in just 5 overs.
-
-🟩
-
-West Indies won the match in the ICC 20/20 World Cup match in the 'Super 08 ".
-
-West Indies won the toss and invited the American group to bat first.
-
-Batting the American team assembly scored 128 runs for the loss of 19 overs.
-
-Chasing a 129 target for reply, West Indies won the match with 130 runs in 5 overs.
-
-◼️
-
-[Data](articles/fc8d7fff.json)
-
-[Extended Data](ext_articles/fc8d7fff.ext.json)
 
 ---

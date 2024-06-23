@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 00:05:23**
+As of **2024-06-24 00:19:18**
 
 ## Newspaper Stats
 
-*Scraped **31,756** Articles*
+*Scraped **31,758** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 290
+colombotelegraphcom | 291
 dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 1,830
 dailyftlk | 1,927
 adalk | 2,784
 adaderanalk | 3,608
-tamilmirrorlk | 3,734
+tamilmirrorlk | 3,735
 dailymirrorlk | 4,733
 virakesarilk | 4,924
 adaderanasinhalalk | 5,200
@@ -26,29 +26,61 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,755 (100.0%) of 31,756 articles have been extended.
+31,756 (100.0%) of 31,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### அமெரிக்காவை நையப்புடைத்து வெற்றியீட்டிய இங்கிலாந்து முதலாவது அணியாக அரை இறுதிக்குள் நுழைந்தது
+### ஜீவன் தொண்டமான் சீனாவுக்கு விஜயம்
+
+*2024-06-23 23:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமான்-சீனாவுக்கு-விஜயம்/175-339299) · `ta`
+
+உலக பொருளாதார மையத்தின் அழைப்பின்பேரில் சீனா நாட்டில் இடம்பெறவுள்ள உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துகொள்ள அமைச்சர் ஜீவன் தொண்டமான் இன்று (23) மாலை சீன நாட்டுக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு பயணித்துள்ளார்.
+
+இவருடன் நீர் வழங்கள் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சின் அதிகாரிகள் உட்பட பலர் சென்றுள்ளனர் என அமைச்சர் ஜீவன் தொண்டமானின் ஊடக பிரிவு தெரிவித்துள்ளது.
+
+ஒருவாரகால உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள அமைச்சர் ஜீவன் தொண்டமான் சீனாவில் முக்கிய நிகழ்வுகளில் பங்கேற்கவுள்ளார்.
+
+இதில் உலக பொருளாதார மையத்தின் அழைப்பின்பேரில் உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துக்கொண்டு விசேட உரையாற்றவுள்ளார்.
+
+அத்துடன், சீன விஞ்ஞான ஆய்வகத்தின்(JRDC-Joint Research and Demonstration Center for Water Technology) அழைப்பையேற்று நீர் வளத்துறை, தோட்ட மற்றும் கிராமிய நீர்வளங்களை மேம்படுத்த அடுத்த 5 ஆண்டுக்கான திட்டங்களை வடிவமைத்தல் தொடர்பான நிகழ்வுகளிலும் பங்கேற்க உள்ளதாக அமைச்சின் ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/35475a20.json)
+
+---
+
+### England entered the semi -finals as the first team to win the United States
 
 *2024-06-23 23:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186793) · `ta`
 
-ஐக்கிய அமெரிக்காவும் மேற்கிந்தியத் தீவுகளும் கூட்டாக நடத்தும் 9ஆவது ரி20 உலகக் கிண்ண கிரிக்கெட் அத்தியாயத்தில் நடப்பு சம்பியன் இங்கிலாந்து முதலாவது அணியாக அரை இறுதியில் விளையாட தகுதிபெற்றது.
+England became the first team to reach the semi-finals of the 9th R20 World Cup after defeating the United States and West Indies. In the Super 8 stage, Barjdown qualified for Group 2, where Chris Jordan's 4-wicket haul and Jose Butler's aggressive batting led to a significant win against the United States, scoring 115 runs in 18.5 overs. The match saw Nitish Kumar, Gore Andasan, and Hameed Singh score notable runs, with Chris Jordan achieving the historic 9th Head-Trick in the tournament's history. England secured victory with a 117-run win in 9.4 overs, setting them up for further competition with a high net run rate.
 
-பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் சற்று நேரத்திற்கு முன்னர் நிறைவடைந்த குழு 2க்கான சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் ஐக்கிய அமெரிக்காவை நையப்புடைத்து 10 விக்கெட்களால் வெற்றிபெற்றதன் மூலம் இங்கிலாந்து அரை இறுதியில் விளையாட தகுதிபெற்றது.
+🟩
 
-கிறிஸ் ஜோர்டன் பதிவு செய்த ஹெட்-ட்ரிக் உடனான 4 விக்கெட் குவியல், அணித் தலைவர் ஜொஸ் பட்லரின் அதிரடி துடுப்பாட்டம் என்பன இங்கிலாந்தின் வெற்றியை மிகவும் இலகுவாக்கியதுடன் நிகர ஓட்ட வேகத்தையும் கணிசமான அளவு அதிகரிக்கச் செய்தது.
+The United States and the West Indies are partially eligible to play the Joint Champions England's first team in the 9th R20 World Cup chapter.
 
-தென் ஆபிரிக்காவுக்கும் மேற்கிந்தியத் தீவுகளுக்கும் இடையிலான நாளைய போட்டியில் வெற்றிபெறும் அணி குழு 2இலிருந்து 2ஆவது அணியாக அரை இறுதியில் விளையாட தகுதிபெறும்.
+Barjdown was qualified to play at the Super 8 T20 World Cup for the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Brijdown Kensington Oval Stadium.
 
-இன்றைய சுப்பர் 8 போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஐக்கிய அமெரிக்கா 18.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 115 ஓட்டங்களை மாத்திரம் பெற்றது.
+The 4-wicket pile of Chris Jordan's Hed-Trick, and the squad of team captain Jose Butler's action made the UK's success and increased the net speed.
+
+The team that win tomorrow's match between South Africa and the West Indies will qualify for the semi -finals as the 2nd team.
+
+In today's Super 8 match, the United States lost all wickets in 18.5 overs and scored 115 runs.
+
+The United States lost 3 wickets in 10 overs and scored 65 runs and then scored 115 runs for the remaining 7 wickets by 50 runs.
+
+Nitish Kumar (30), Gore Andasan (29) and Hameed Singh (21) scored more than 20 runs.
+
+In the 18th over of the match, Chris Jordan took wickets in the head -trick and made history.
 
 ...
 
 [Data](articles/d21b2c89.json)
+
+[Extended Data](ext_articles/d21b2c89.ext.json)
 
 ---
 
@@ -471,6 +503,20 @@ Police said the police department had been suspended from work immediately.
 [Data](articles/ab3de683.json)
 
 [Extended Data](ext_articles/ab3de683.ext.json)
+
+---
+
+### Nathasha Edirisooriya: Comedian Or Social Commentator?
+
+*2024-06-23 18:33:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nathasha-edirisooriya-comedian-or-social-commentator/) · `en`
+
+Nathasha Edirisooriya, a stand-up comedian known for her humorous performances, recently found herself at the center of a national controversy in Sri Lanka. Her performance on the show ‘Modabhimanaya‘ led to her arrest following several complaints by groups consisting of Buddhist monks and ‘Sinhala Buddhist patriots’ who accused her of insulting Lord Buddha. This incident sparked a significant public discourse about freedom of speech, social norms, and the role of comedy in addressing societal issues.
+
+Nathasha’s arrest drew widespread attention and criticism, highlighting the sensitive nature of religious nuances in Sri Lanka. The complaints against her were rooted in the belief that her jokes about Lord Buddha were disrespectful and harmful to religious sentiments. Consequently, she was remanded in custody for several weeks, a period during which her arrest and the subsequent legal proceedings became a focal point of national debate.
+
+...
+
+[Data](articles/4a4139dc.json)
 
 ---
 
@@ -2417,47 +2463,5 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 [Data](articles/8c955289.json)
 
 [Extended Data](ext_articles/8c955289.ext.json)
-
----
-
-### Fast bus crispy
-
-*2024-06-23 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198045) · `si`
-
-An accident occurred on Pelawatta-Neluwa road when a private bus crashed near a culvert in Yattapatha. The bus, carrying about 12 passengers, was severely damaged, and all onboard were injured and taken to hospital.
-
-🟩
-
-In Pelawatta - Neluwa road, a passenger private bus from a culvert in the Yattapatha area and a crash was accidental.
-
-The bus had been severely damaged due to the accident and around 12 persons traveling at the bus had been injured and hospitalized.
-
-◼️
-
-[Data](articles/088be100.json)
-
-[Extended Data](ext_articles/088be100.ext.json)
-
----
-
-### India supports Sri Lanka Coast Guard to boost maritime security
-
-*2024-06-23 08:53:00* · [`economynextcom`](https://economynext.com/india-supports-sri-lanka-coast-guard-to-boost-maritime-security-169049/) · `en`
-
-ECONOMYNEXT – India has given 1.2 million US dollars’ worth spare parts to Sri Lanka’s Coast Guard to be used in a vessel also gifted to the Indian Ocean Island on an earlier occasion, the Indian High Commission in Colombo said.
-
-“Handing over of the large consignment of spares symbolizes India’s commitment to support capability building towards addressing the shared challenges of Maritime Security in the region,” the Indian High Commission said
-
-The spare parts were brought to Sri Lanka on the Indian Coast Guard Ship Sachet, an offshore patrol vessel that was on a two-day visit to the island.
-
-The spares were formally handed over to the Sri Lanka Coast Guard Ship Suraksha which was gifted to Sri Lanka in October 2017 by India.
-
-India has gifted spare parts for the ship in June 2021 and April 2022 and also provided assistance in refilling of Halon cylinders in January 2024. (Colombo/June23/2024)
-
-◼️
-
-[Data](articles/2baeb347.json)
-
-[Extended Data](ext_articles/2baeb347.ext.json)
 
 ---

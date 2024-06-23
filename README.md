@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 00:19:18**
+As of **2024-06-24 00:34:43**
 
 ## Newspaper Stats
 
-*Scraped **31,758** Articles*
+*Scraped **31,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,830
-dailyftlk | 1,927
+dailyftlk | 1,932
 adalk | 2,784
 adaderanalk | 3,608
 tamilmirrorlk | 3,735
@@ -26,29 +26,63 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,756 (100.0%) of 31,758 articles have been extended.
+31,758 (100.0%) of 31,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ஜீவன் தொண்டமான் சீனாவுக்கு விஜயம்
+### Jeevan Thondaman visits China
 
 *2024-06-23 23:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமான்-சீனாவுக்கு-விஜயம்/175-339299) · `ta`
 
-உலக பொருளாதார மையத்தின் அழைப்பின்பேரில் சீனா நாட்டில் இடம்பெறவுள்ள உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துகொள்ள அமைச்சர் ஜீவன் தொண்டமான் இன்று (23) மாலை சீன நாட்டுக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு பயணித்துள்ளார்.
+Minister Jeevan Thondaman visited China to attend the World Young Leaders Conference, invited by the World Economic Center. Accompanied by officials from the Ministry of Development and others, he will participate in significant events and contribute to planning for improving water resources over the next five years through the JRDC-Joint Research and Demonstration Center for Water Technology.
 
-இவருடன் நீர் வழங்கள் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சின் அதிகாரிகள் உட்பட பலர் சென்றுள்ளனர் என அமைச்சர் ஜீவன் தொண்டமானின் ஊடக பிரிவு தெரிவித்துள்ளது.
+🟩
 
-ஒருவாரகால உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள அமைச்சர் ஜீவன் தொண்டமான் சீனாவில் முக்கிய நிகழ்வுகளில் பங்கேற்கவுள்ளார்.
+Minister Jeevan Thondaman made an official visit to the Chinese this evening to attend the World Young Leaders Conference to be held in China at the invitation of the World Economic Center.
 
-இதில் உலக பொருளாதார மையத்தின் அழைப்பின்பேரில் உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துக்கொண்டு விசேட உரையாற்றவுள்ளார்.
+Minister Jeevan Thondaman's media unit said that many people, including officials of the Ministry of Development and Development, have accompanied him.
 
-அத்துடன், சீன விஞ்ஞான ஆய்வகத்தின்(JRDC-Joint Research and Demonstration Center for Water Technology) அழைப்பையேற்று நீர் வளத்துறை, தோட்ட மற்றும் கிராமிய நீர்வளங்களை மேம்படுத்த அடுத்த 5 ஆண்டுக்கான திட்டங்களை வடிவமைத்தல் தொடர்பான நிகழ்வுகளிலும் பங்கேற்க உள்ளதாக அமைச்சின் ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது. (a)
+Minister Jeevan Thondaman, who has made a weekly official visit, will attend major events in China.
+
+At the invitation of the World Economic Center, he will attend the World Young Leaders Conference.
+
+In addition, the JRDC-Joint Research and Demonstration Center for Water Technology will be participating in the formation of plans for the next 5 years to improve the water resources, garden and rural water resources.. (A)
 
 ◼️
 
 [Data](articles/35475a20.json)
+
+[Extended Data](ext_articles/35475a20.ext.json)
+
+---
+
+### The IMF Review: How does it align with the IMF Tracker by Verité Research?
+
+*2024-06-23 23:35:18* · [`dailyftlk`](https://www.ft.lk/opinion/The-IMF-Review-How-does-it-align-with-the-IMF-Tracker-by-Verité-Research/14-763361) · `en`
+
+The IMF made a significant positive contribution to Sri Lanka by reinforcing the agenda of governance and anti-corruption in keeping with the overwhelming voice of the people of Sri Lanka. It produced an excellent Governance Diagnostic Assessment, that was very much in sync with the Civil Society Governance Diagnostic Report produced in Sri Lanka
+
+The IMF Tracker maintained by Verité Research allows people to know the progress of actions in the IMF program on a month-by-month basis without having to wait 6-9 months for an IMF review. The last update of the Tracker was for the end of May, and the second IMF Review came out on 12 June, 2024. How did the IMF’s evaluation in the second review compare with the Tracker?
+
+...
+
+[Data](articles/d6104adb.json)
+
+---
+
+### Sri Lanka’s first ever participation at International Jewellery Vietnam 2024
+
+*2024-06-23 23:31:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-first-ever-participation-at-International-Jewellery-Vietnam-2024/34-763360) · `en`
+
+The Embassy of Sri Lanka in Vietnam in collaboration with the National Gem and Jewellery Authority (NGJA) and Industrial Development Board (IDB) organised the participation of Sri Lankan companies at the International Jewellery Vietnam 2024 for the first time. The fair was held from 8 to 11 June 2024 at Nguyen Du Stadium in Ho Chi Minh City.
+
+Five Sri Lankan companies namely, Prasad Gems and Lapidary, Ranmuthu Jewellers, Elegant Jewellery Works, Oriental Jewel Craft and Southern Jewellery and WorkShop participated in the fair. The fair displayed many products such as diamonds, sapphires, rubies, emeralds, coloured gemstones, amber, pearls of high quality, attractive jewellery collections made from gold and silver, and also machinery, equipment, tools, chemicals, and packaging used in the jewellery industry.
+
+...
+
+[Data](articles/1c0e6e14.json)
 
 ---
 
@@ -84,6 +118,34 @@ In the 18th over of the match, Chris Jordan took wickets in the head -trick and 
 
 ---
 
+### SLGJA, Gold sponsor of Ratnapura International Gem and Jewellery show
+
+*2024-06-23 23:21:19* · [`dailyftlk`](https://www.ft.lk/business/SLGJA-Gold-sponsor-of-Ratnapura-International-Gem-and-Jewellery-show/34-763359) · `en`
+
+From left : NGJA Chairman Viraj de Silva, Industries State Minister Chamara Sampath Dassanayake, Industries Ministry Secretary Shantha Weerasinghe, NGJA Director General Janaka Udaya Kumara, SLGJA President Ajward Deen, SLGJA Former President A. H. M. Imtizam, SLGJA Vice President – Operations Firaz Hameed, Foreign Promotions Vice President and FACETS Sri Lanka Chairman Armil Sammoon
+
+The Sri Lanka Gem and Jewellery Association (SLGJA), the apex body of Sri Lanka’s gem and jewellery industry, has announce their support for the Ratnapura International Gem and Jewellery show as its Gold sponsor.
+
+The show is organised by the National Gem and Jewellery Authority (NGJA), in partnership with Lanka Gem Miners and Traders Association and other established gem societies in Ratnapura. The SLGJA’s support as Gold sponsor underscores the associations support for the industry and initiatives that promote the growth of its members.
+
+...
+
+[Data](articles/c01b7029.json)
+
+---
+
+### Poson lessons for leaders: Being brilliant in a BANI world
+
+*2024-06-23 22:59:35* · [`dailyftlk`](https://www.ft.lk/columns/Poson-lessons-for-leaders-Being-brilliant-in-a-BANI-world/4-763354) · `en`
+
+The rate of change has accelerated in rapid shifts in many spheres. From a planetary pandemic we have been exposed to a perilous path of turbulence. We just witnessed a serene Poson Poya with Sri Lanka experiencing some signs of recovery. It is an opportune time to reflect on leading in a BANI world drawing inspirations from Poson.
+
+...
+
+[Data](articles/0a66462b.json)
+
+---
+
 ### England win
 
 *2024-06-23 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198074) · `si`
@@ -105,6 +167,20 @@ Accordingly, the ball assaulted by 115 overs and 5 burn.
 [Data](articles/1274f23a.json)
 
 [Extended Data](ext_articles/1274f23a.ext.json)
+
+---
+
+### Which is needed more, Economic Transformation Bill or Economic Development Plan?
+
+*2024-06-23 22:38:41* · [`dailyftlk`](https://www.ft.lk/columns/Which-is-needed-more-Economic-Transformation-Bill-or-Economic-Development-Plan/4-763351) · `en`
+
+The most dangerous part of these ‘illusions’, propagated by irresponsible governments, is the fact that the populace is made to believe that they could have the benefits of development, without true development
+
+The most important sector in any economy is the SMI sector, as it provides the best possibility to widespread the manufacturing process bringing benefits to many, rather than develop a few big companies. To do so development banking plays a major role and if this ETB was serious about it, development banks should have been one of those institutions created, within the bill. Therefore, development banking should be a major focus and not just an afterthought. All this would come up when developing a plan, which does not seem to be on the table
+
+...
+
+[Data](articles/a9bc084a.json)
 
 ---
 
@@ -517,6 +593,8 @@ Nathasha’s arrest drew widespread attention and criticism, highlighting the se
 ...
 
 [Data](articles/4a4139dc.json)
+
+[Extended Data](ext_articles/4a4139dc.ext.json)
 
 ---
 
@@ -2339,129 +2417,5 @@ He stated that although there is no danger of bird fever, he said.
 [Data](articles/d49505f8.json)
 
 [Extended Data](ext_articles/d49505f8.ext.json)
-
----
-
-### A lesson in Afghanistan
-
-*2024-06-23 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198046) · `si`
-
-In a thrilling match, Afghanistan won against Australia in the Twenty20 World Cup, scoring 148 runs with key contributions from Ramanullah Gurbaz and Ibrahim Zadran. Pat Cummins' 28 runs weren't enough as Australia fell short with 127 runs. Afghan bowlers Naveen-ul-Haq and Gulbadin Naib secured victory with 7 wickets each.
-
-🟩
-
-Afghanistan today (23) passed Afghanistan to win the round of the Twenty20 World Cup.
-
-Batting first, Afghanistan scored 148 runs for the loss of 6 wickets in the loss of 6 overs.
-
-Ramanullah Gurbas scored 60 (49 balls) and Ibrahim Zedran (51).
-
-Pat Kumarks for 28 runs for Australia by bowling. It was among the document books to be the second hattric of the World Cup.
-
-The Australian fast bowlers were threatened with the Australian fast bowlers to chase 149 runs.
-
-Australian team scored 127 runs in 19.2 overs.
-
-Naveen meteors (3/20) and Gulldin Nib (4/20) took 7 wickets for their victory.
-
-◼️
-
-[Data](articles/79348c8d.json)
-
-[Extended Data](ext_articles/79348c8d.ext.json)
-
----
-
-### Two youth dies in bus triple clash
-
-*2024-06-23 09:24:19* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ත්‍රි-රෝද-ගැටුමෙන්-තරුණයින්-දෙදෙනෙක්-මරුට/11-410370) · `si`
-
-In a tragic incident, two youths died while two others were injured in a collision involving a three-wheeler and a bus near Talawa. Identified as 24-year-old Suzantha Kumara Perera and 19-year-old Kavindu Madushan Padmasiri, both residents of Madiawala, Eppawala, they were returning from the Poson Festival in Anuradhapura. The injured were hospitalized, and the driver and bus are under investigation.
-
-🟩
-
-Talawa Police says that two youths were killed and two other youth were injured in a three-wheeler and a bus.
-
-The injured youths have been transferred to the Talawa Divisional Hospital and sent to Anuradhapura Teaching Hospital. The deceased is a 24 year old and 19 years old resident of Madiawala area in Eppawala area.
-
-The deceased has been identified as Eppawala Media residential,. Suzantha Kumara Perera's Supun Salinda Perera. (24) Kavindu Madushan Padmasiri (19).
-
-The youths were attending the Poson Festival in Anuradhapura last night and were on their way to the homes again, the Talawa Police said.
-
-The police said that the Talawa to Talawa to Talawa to the Talawa towards the bus with a picnic from Ratnapura to Jaffna have confronted with the face of the bus.. The police said that the three-wheeler driver was collided with the prime minority of the road to control speed.
-
-...
-
-[Data](articles/5614f881.json)
-
-[Extended Data](ext_articles/5614f881.ext.json)
-
----
-
-### Pat Cummins creates history with second consecutive T20 World Cup hat-trick
-
-*2024-06-23 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100036/pat-cummins-creates-history-with-second-consecutive-t20-world-cup-hat-trick) · `en`
-
-Australia quick Pat Cummins created history in St Vincent on Saturday when he became the first player to register a hat-trick in consecutive ICC Men’s T20 World Cup matches.
-
-Cummins registered a hat-trick over two overs against Bangladesh on Thursday and the right-armer completed the feat once again against Afghanistan when he had Rashid Khan, Karim Janat and Gulbadin Naib dismissed with three consecutive deliveries.
-
-It was just the eighth time that a bowler has completed a hat-trick at a Men’s T20 World Cup and the first time a player has achieved the feat on multiple occasions.
-
-Cummins is already a member of an illustrious group of seven players to have taken a hat-trick at a Men’s T20 World Cup, with Brett Lee (2007), Curtis Campher (2021), Wanindu Hasaranga (2021), Kagiso Rabada (2021), Karthik Meiyappan (2022) and Josh Little (2022) the other bowlers to have done so previously.
-
-...
-
-[Data](articles/6656e429.json)
-
-[Extended Data](ext_articles/6656e429.ext.json)
-
----
-
-### Siri Vaddamaramaya, Siri Vaddamaramaya in the sixths of mango or maize
-
-*2024-06-23 09:16:29* · [`adalk`](https://www.ada.lk/breaking_news/දානයට-අඹ-හෝ-බඩ-ඉරිඟු-වළඳන-දෙහිවත්ත-හයේ-කොළණියේ-පිහිටි-සිරි-වඩ්ඩනාරාමය/11-410369) · `si`
-
-Monks in Sri Lanka's Seruwila face hardships due to unpaid electricity bills, resorting to boiling water over fires and eating fruits from temple trees. The Siri Vaddamaramaya, a historic site, requires donations of corn and mangoes.
-
-🟩
-
-The monks living in the six-year-old section of Seruwila Divisional Secretariat is due to the allegations of the Siri Vaddamarama, which is in some days, has to devote corn and mango.
-
-The Chief Incumbent Ven.
-
-"There is another two student monks with me in the work here. Some of the days will give the army. Electricity bill could not be paid for two years. So the power cut off three months ago, the electricity was turned off three months ago.
-
-The days of no deduction and boiling the hummy pods and boil and embarked on. Or the mango tree in the temple break down two mangoes and adjusted. Some of the days will boil the pumpkin and formulate the pumpkin, "the Chief Incumbent of the Viharadhipathi.
-
-The mobile number of the monastery Lord, which is constructed by the sixth-century king of Christ, is the 1950961000.
-
-Kosala Tissa Thero, who is ready to stop mango to the afternoon
-
-◼️
-
-[Data](articles/e0ce3d50.json)
-
-[Extended Data](ext_articles/e0ce3d50.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-06-23 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100035/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers of about 75mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya and Puttalam districts.
-
-Several spells of light showers will occur in Northern province and in Matale and Anuradhapura districts.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/8c955289.json)
-
-[Extended Data](ext_articles/8c955289.ext.json)
 
 ---

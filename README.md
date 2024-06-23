@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 07:01:12**
+As of **2024-06-23 07:26:58**
 
 ## Newspaper Stats
 
-*Scraped **31,637** Articles*
+*Scraped **31,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 290
 dbsjeyarajcom | 292
 bbccomsinhala | 311
 newsfirstlk | 363
-islandlk | 1,754
+islandlk | 1,757
 economynextcom | 1,826
 dailyftlk | 1,927
 adalk | 2,764
 adaderanalk | 3,587
-tamilmirrorlk | 3,712
+tamilmirrorlk | 3,715
 dailymirrorlk | 4,733
 virakesarilk | 4,912
 adaderanasinhalalk | 5,166
@@ -26,27 +26,89 @@ adaderanasinhalalk | 5,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,622 (100.0%) of 31,637 articles have been extended.
+31,632 (100.0%) of 31,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+### உக்ரைனின் எரிசக்தி கட்டமைப்பு மீது தாக்குதல்
+
+*2024-06-23 06:43:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைனின்-எரிசக்தி-கட்டமைப்பு-மீது-தாக்குதல்/50-339263) · `ta`
+
+இந்த தாக்குதலில் 2 பேர் உயிரிழந்துள்ளதுடன், 18 பேர் காயமடைந்துள்ளனர் என உக்ரைன் தெரிவித்துள்ளது.
+
+கடந்த மூன்று மாதங்களில் உக்ரைனின் எரிசக்தி கட்டமைப்பை இலக்கு வைத்து ரஷ்யா நடத்தும் 8 ஆவது தாக்குதல் இதுவாகும் என குறிப்பிடப்படுகின்றது.
+
+இந்த தாக்குதல்களினால் உக்ரைனில் அடிக்கடி மின் தடை ஏற்படுவதாக சர்வதேச ஊடங்கள் தெரிவிக்கின்றன. (a)
+
+◼️
+
+[Data](articles/cefb6b56.json)
+
+---
+
+### ’மக்களுக்கு உரிமைகளை வழங்குவதே நோக்கம்’
+
+*2024-06-23 06:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-உரிமைகளை-வழங்குவதே-நோக்கம்/175-339262) · `ta`
+
+நாட்டு மக்களுக்கு உரிமைகளை வழங்குவதே தனது பிரதான நோக்கம். த்துடன் திருகோணமலையை பிரதான பொருளாதார மையமாக அபிவிருத்தி செய்ய தீர்மானித்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அரசாங்கம் முன்னெடுத்து வரும் உறுமய தேசிய வேலைத்திட்டத்தின் கீழ் மட்டக்களப்பு மாவட்டத்தில் காணி உறுதிகளை வழங்கும் நிகழ்வில் உரையாற்றும்போதே ஜனாதிபதி இதனை தெரிவித்தார்.
+
+மட்டக்களப்பு மாவட்டத்தில் 27,595 குடும்பங்களுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு மட்டக்களப்பு, திராய்மடு மாவட்ட செயலக வளாகத்தில் ஜனாதிபதி தலைமையில் நேற்று நடைபெற்றது.
+
+இதற்கு முன்னதாக மட்டக்களப்பு திராய்மடு பிரதேசத்தில் 1,055 மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்டுள்ள மாவட்ட செயலகத்திற்கான புதிய கட்டிடத்தை ஜனாதிபதி திறந்துவைத்தார்.
+
+மட்டக்களப்பு மாவட்ட மக்களுக்கான சேவைகளை விஸ்தரித்து வினைத் திறனாக்கும் நோக்கில் இந்த புதிய மாவட்ட செயலகம் நிர்மாணிக்கப்பட்டுள்ளது. பெயர் பலகையை திரைநீக்கம் செய்து மாவட்ட செயலகத்தை திறந்து வைத்த ஜனாதிபதி, அங்கு கண்காணிப்பு விஜயத்தையும் மேற்கொண்டார். (a)
+
+◼️
+
+[Data](articles/91ff6f54.json)
+
+---
+
+### சியோன் தேவாலயத்தை ஜனாதிபதி பார்வையிட்டார்
+
+*2024-06-23 06:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சியோன்-தேவாலயத்தை-ஜனாதிபதி-பார்வையிட்டார்/175-339261) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதலுக்கு உள்ளான மட்டக்களப்பு சியோன் தேவாலயத்தின் புனரமைப்புப் பணிகளை ஆராய ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று முற்பகல் அங்கு விஜயம் செய்தார்.
+
+தேவாலயத்திற்கு சென்ற ஜனாதிபதி, தேவாலயத்தின் பிரதான போதகர் ரொஷான் மகேசனுடன் கலந்துரையாடினார். தேவாலயத்தின் புனரமைப்புப் பணிகள் இதுவரை ஏன் நிறைவடையவில்லை என்பது தொடர்பில் கேட்டறிந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அது குறித்து உடனடியாக ஆராய்ந்து அறிக்கை வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+அத்துடன், தேவாலயத்தின் திருத்தப் பணிகளை ஜனாதிபதி அலுவலகத்தின் நிதி ஒதுக்கீட்டில் துரிதமாக பூர்த்தி செய்ய நடவடிக்கை எடுக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும், ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+
+அந்த நடவடிக்கைகளுக்கு இலங்கை இராணுவத்தின் ஆதரவை வழங்குமாறும் ஜனாதிபதி இராணுவத் தளபதிக்கு பணிப்புரை விடுத்தார்.
+
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், இராஜாங்க அமைச்சர் எஸ். வியாழேந்திரனும் இச்சத்தர்ப்பத்தில் ஜனாதிபதியுடன் இணைந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/b444f023.json)
+
+---
+
+### Heavy rains in several areas
 
 *2024-06-23 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198040) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Western, Sabaragamuwa, Northwestern, and some areas of Central provinces, with potential for heavy rainfall in Kandy, Nuwara Eliya, Puttalam, Matale, Anuradhapura, Trincomalee, Hambantota, and Moneragala districts. Strong winds of 40-50 km/h also forecasted.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-උතුරු පළාතෙත් මාතලේ සහ අනුරාධපුර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවේ.
+The Meteorological Department says that there will be showers in the Western, Sabaragamuwa and Northwestern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+The department states in some places in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya and Puttalam Districts. Heavy rains can occur about 75 years.
+
+There are several thin closures in the Northern Province and the districts of Matale and Anuradhapura districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology added that there were 40-50 strong winds.
 
 ◼️
 
 [Data](articles/a843b864.json)
+
+[Extended Data](ext_articles/a843b864.ext.json)
 
 ---
 
@@ -61,6 +123,8 @@ SLT-MOBITEL understands that the home phone is often a shared family resource. A
 ...
 
 [Data](articles/138fdb13.json)
+
+[Extended Data](ext_articles/138fdb13.ext.json)
 
 ---
 
@@ -77,6 +141,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/97dd79a0.json)
+
+[Extended Data](ext_articles/97dd79a0.ext.json)
 
 ---
 
@@ -95,6 +161,8 @@ Axiata’s Telecom chief foresees $1 Trillion opportunity for global telcos
 ...
 
 [Data](articles/bb3cf987.json)
+
+[Extended Data](ext_articles/bb3cf987.ext.json)
 
 ---
 
@@ -130,6 +198,8 @@ Dr Wijayasuriya highlighted the potential for telcos to tap into a growing $1tn 
 
 [Data](articles/04feced6.json)
 
+[Extended Data](ext_articles/04feced6.ext.json)
+
 ---
 
 ### New pain and fever relief tablet ‘Meldol’ launched by Sands Active
@@ -148,6 +218,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/0e9554d5.json)
 
+[Extended Data](ext_articles/0e9554d5.ext.json)
+
 ---
 
 ### Sri Lanka Insurance City Office Branch relocated
@@ -157,6 +229,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ...
 
 [Data](articles/dc648eb0.json)
+
+[Extended Data](ext_articles/dc648eb0.ext.json)
 
 ---
 
@@ -173,6 +247,26 @@ HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
 ...
 
 [Data](articles/a2371d5c.json)
+
+[Extended Data](ext_articles/a2371d5c.ext.json)
+
+---
+
+### Three Sinha Industries announces Gold Sponsorship for DS Senanayake College Rugby Team
+
+*2024-06-23 04:44:00* · [`islandlk`](http://island.lk/three-sinha-industries-announces-gold-sponsorship-for-ds-senanayake-college-rugby-team/) · `en`
+
+Roller door manufacturer, Three Sinha Industries Pvt. Ltd., recently announced its Gold Sponsorship for the rugby team of D. S. Senanayake College in Colombo for the year 2024. Three Sinha Group’s Managing Director, Manjula Ariyakumara, led D. S. Senanayake College’s Rugby Team as captain in 1987. His brothers, Thushara Chandana Kumara and Mahesh Kumara, followed in his footsteps, captaining the Team in 1989 and 1994, respectively. Continuing this legacy, Manjula Ariyakumara’s son, Devin Ariyakumara, captained the team in 2012, further strengthening the bond between his generation and the Team.
+
+Three Sinha Group MD Manjula Ariyakumara said that he had nurtured a passion for rugby from a young age and had the honour of supporting DS Senanayake College’s Rugby Team for many years.
+
+SLGJA, Gold Sponsor of the Ratnapura International Gem and Jewellery Show
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/ada8202b.json)
 
 ---
 
@@ -444,6 +538,8 @@ Gobeli Teppe is the best known of half a dozen sites which have captured the att
 
 [Data](articles/5dbf0dd8.json)
 
+[Extended Data](ext_articles/5dbf0dd8.ext.json)
+
 ---
 
 ### Republican hardliners already sowing doubts on presidential election integrity
@@ -457,6 +553,8 @@ Popular incumbent, ultra-conservative Representative Bob Good, head of the Freed
 ...
 
 [Data](articles/52f708d9.json)
+
+[Extended Data](ext_articles/52f708d9.ext.json)
 
 ---
 
@@ -2131,99 +2229,5 @@ It is said that in parallel with these programs, an area of ​​more than 1,00
 [Data](articles/be4ca942.json)
 
 [Extended Data](ext_articles/be4ca942.ext.json)
-
----
-
-### More information in the murder was revealed in the middle of the sea
-
-*2024-06-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198009) · `si`
-
-A fisherman was murdered aboard a multi-day vessel off Beruwala, leading to a police investigation. The incident occurred around 180 sea miles from shore, where one fisherman allegedly killed another with a sharp object after an altercation. The victim's body was brought back to the port and is now under police protection at a local hospital.
-
-🟩
-
-The police have reported further information regarding the murder of a multi-day vessel in the Beruwala Fisheries Harbor.
-
-The multi-day fishing vessel was gone during the next 9th.
-
-On the 20th, the owner has lodged a complaint with the police on the 20th of the incident that another fisherman had been assaulted by another fisherman and killed a fisherman with a sharp instrument.
-
-The vessel has arrived at the Port of Beruwala yesterday (21) and is being treated at the Nagoda Hospital under police protection.
-
-In addition to the fisherman of the deceased vessel, the driveway, suspect and two more fishermen were present.
-
-According to the police, the suspect had been assaulted by a knife on a confrontation took place while fishing was engaged in fishing.
-
-The vessel was reported that the vessel was about 180 sea miles in the event of the attack.
-
-◼️
-
-[Data](articles/7f058766.json)
-
-[Extended Data](ext_articles/7f058766.ext.json)
-
----
-
-### Notice on National Identity Cards
-
-*2024-06-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198008) · `si`
-
-The deadline to apply for National Identity Cards for those aged 40 and above was March 31st. The Commissioner General noted that this was the final chance, as the opportunity ended on the 30th of the previous month. Applications were processed until the last day, considering submission times at Divisional Secretary offices.
-
-🟩
-
-The Department of Registration of Persons has further stated that there is no longer the opportunity to obtain National Identity Cards for the age of 40.
-
-The Commissioner General of the Department Pradeep Sapathan said that it was the opportunity to date on the 30th of this month.
-
-He added that the applications were issued until 31st March.
-
-However, the Commissioner General of Persons Pradeep Sapathan added that the departments of the Divisional Secretaries were taken into consideration the time to submit the application.
-
-◼️
-
-[Data](articles/9e806570.json)
-
-[Extended Data](ext_articles/9e806570.ext.json)
-
----
-
-### Weather today
-
-*2024-06-22 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198007) · `si`
-
-Expect showers in Western, Sabaragamuwa, and North Western provinces, including heavy rain in certain districts. Strong winds across several regions. Sea areas off the coast from Mannar to Puttalam and Hambantota to Pottuvil will experience rough conditions due to wind speeds increasing to 60-65 knots. Winds from Chilaw to Hambantota and from Trincomalee to Mullaittivu may also intensify, making sea areas rough. Fisheries and naval communities advised to be cautious.
-
-🟩
-
-The Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
-
-Some locations in the Western and Sabaragamuwa Provincial, Kandy, Nuwara Eliya and Puttalam Districts are mm mm.. Heavy rains can occur at over 100.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology has further informed the weather that there is about strong winds.
-
-Meanwhile, the roof of the sea areas off the coast extending from Mannar to Puttalam via Chilaw and Hambantota to Pottuvil.. (60-65) increases and the sea areas are very rough at times.
-
-Winds from Chilaw to Hambantota via Colombo and Galle and from Trincomalee and Mullaittivu and Kankesanthurai. (50-55) may increase to (50-55) and sea areas are rough at times.
-
-...
-
-[Data](articles/4bdc8a56.json)
-
-[Extended Data](ext_articles/4bdc8a56.ext.json)
-
----
-
-### People’s Leasing & Finance crowned Most Trusted Financial Institution in Sri Lanka by Global Brands Magazine
-
-*2024-06-22 05:44:00* · [`islandlk`](http://island.lk/peoples-leasing-finance-crowned-most-trusted-financial-institution-in-sri-lanka-by-global-brands-magazine/) · `en`
-
-People’s Leasing & Finance PLC (PLC), one of Sri Lanka’s leading non-banking financial services providers, has recently been honoured with the prestigious Global Brand Award for Most Trusted Financial Institution 2024. Presented by Global Brands Magazine, a renowned publication known for recognizing excellence in the international marketplace, this award signifies People’s Leasing & Finance’s unwavering commitment to building trust and empowering Sri Lankans to achieve their financial goals.
-
-...
-
-[Data](articles/3418c63a.json)
-
-[Extended Data](ext_articles/3418c63a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 07:26:58**
+As of **2024-06-23 07:48:19**
 
 ## Newspaper Stats
 
-*Scraped **31,643** Articles*
+*Scraped **31,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,587
 tamilmirrorlk | 3,715
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,166
+adaderanasinhalalk | 5,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,632 (100.0%) of 31,643 articles have been extended.
+31,632 (100.0%) of 31,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### බස් රථයක් අත්ට්‍රැක්ටරයක ගැටී සිදුවූ අනතුර
+
+*2024-06-23 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198041) · `si`
+
+හලාවත - පුත්තලම ප්‍රධාන මාර්ගයේ ජයබිම ප්‍රදේශයේදී බස් රථයක් ඊට ඉදිරියෙන් ධාවනය වූ අත්ට්‍රැක්ටරයක පිටුපස ගැටී සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තිබේ.
+
+එමෙන්ම එම අනතුරින් තුවාල ලැබූ තවත් පුද්ගලයින් 10 දෙනෙකු හලාවත රෝහලට ඇතුළත් කළ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, පහළ ගිරිබාව ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි කාන්තාවකි.
+
+සිද්ධිය සම්බන්ධයෙන් බස් රථ රියදුරා අත්අඩංගුවට ගෙන ඇති අතර හලාවත පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+මේ අතර අනුරාධපුර - රඹෑව ප්‍රධාන මාර්ගයේ පරසන්ගස්වැව ප්‍රදේශයේදී යතුරුපැදියක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 57 හැවිරිදි පුද්ගලයෙක් මියගොස් තිබේ.
+
+මේ අතර හම්බේගමුව පොලිස් වසමේ ලහිනාගල - දම්වැල්ඕඩිය මාර්ගයේ ලහිනාගල ප්‍රදේශයේදී යතුරුපැදියක් පදිකයෙකුගේ ගැටී සිදුවූ රිය අනතුරකින් 73 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/6f19a525.json)
+
+---
 
 ### உக்ரைனின் எரிசக்தி கட்டமைப்பு மீது தாக்குதல்
 
@@ -2201,33 +2223,5 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/b3b27f0c.json)
 
 [Extended Data](ext_articles/b3b27f0c.ext.json)
-
----
-
-### President's speech about wetland conservation
-
-*2024-06-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198011) · `si`
-
-Sri Lanka commits to environmental tourism and wetland conservation, emphasizing self-reliance over waiting for climate change aid. President Ranil Wickremesinghe highlights the importance of internal funding for environmental protection and commercial ventures. He addresses the International Wetland Conference, stressing urgent action against wetland loss due to development and population growth. Plans include developing over 1,000 acres of wetland as a tourist attraction and reserving another 1,000 acres near Horton Place for wetland conservation and eco-tourism promotion.
-
-🟩
-
-President Ranil Wickremesinghe says Sri Lanka is committed to promoting the environmental tourism and focusing on wetlande.
-
-The President says that it is not worth waiting for climate change and external funds in environmental conservation.
-
-He also pointed out that the tropical countries should work for their own funds to focus on the environment and commercial projects.
-
-President Ranil Wickremesinghe made this statement from the first Asian and Oshian online consecutive year in the International Wetland Conference.
-
-The President says that immediate attention to conservation of wetlands throughout the country is due to the loss of wetlands with the expansion of the development and the expansion of the population.
-
-It is said that in parallel with these programs, an area of ​​more than 1,000 acres of wetland is planned to be a tourist attraction.
-
-...
-
-[Data](articles/be4ca942.json)
-
-[Extended Data](ext_articles/be4ca942.ext.json)
 
 ---

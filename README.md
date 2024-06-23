@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 23:34:49**
+As of **2024-06-23 23:54:09**
 
 ## Newspaper Stats
 
-*Scraped **31,753** Articles*
+*Scraped **31,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
 islandlk | 1,759
-economynextcom | 1,828
+economynextcom | 1,830
 dailyftlk | 1,927
 adalk | 2,784
 adaderanalk | 3,608
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,753 (100.0%) of 31,753 articles have been extended.
+31,753 (100.0%) of 31,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -454,6 +454,24 @@ Police said the police department had been suspended from work immediately.
 
 ---
 
+### Sri Lanka central bank appoints two Deputy Governors
+
+*2024-06-23 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-appoints-two-deputy-governors-169113/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank said Assistant Governors A A M Thassim and J P R Karunaratne were promoted to the post of Deputy Governor.
+
+APPOINTMENT OF NEW DEPUTY GOVERNORS OF THE CENTRAL BANK OF SRI LANKA
+
+In terms of the provisions in the Central Bank of Sri Lanka Act, No. 16 of 2023, Hon. Minister of Finance, as recommended by the Governing Board, has appointed Mr. A A M Thassim, Assistant Governor and Secretary to the Governing Board, and Mr. J P R Karunaratne, Assistant Governor, as Deputy Governors of the Central Bank of Sri Lanka with effect from 20.06.2024 and 24.06.2024, respectively.
+
+Mr. A.A.M. Thassim has over 31 years of service at Central Bank of Sri Lanka (CBSL) in different capacities in the areas of Supervision and Regulation of Banking Institutions, International Operations, Communication, Payments and Settlements, Employees Provident Fund, Finance, Risk Management, Deposit Insurance, Security Services and Information Technology.
+
+...
+
+[Data](articles/5f769c9d.json)
+
+---
+
 ### Affecting the independence of judicial judicial
 
 *2024-06-23 18:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කළ-අධිකරණ-ස්වාධීනත්වයට-බලපාන-වැඩේ/11-410385) · `si`
@@ -645,6 +663,28 @@ Chairman Rauf Hakeem also announced 33 people, including Yahyagan as the Deputy 
 [Data](articles/7002d4f4.json)
 
 [Extended Data](ext_articles/7002d4f4.ext.json)
+
+---
+
+### Sri Lanka opposition questions claims that IMF housing tax is only for kulaks
+
+*2024-06-23 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-questions-claims-that-imf-housing-tax-is-only-for-kulaks-169071/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s opposition has questioned claims made by government spokesmen that a tax on housing proposed in an International Monetary Fund deal is only limited to rich people but if as promised by President one house is exempt, it is welcome, legislator Harsha de Silva said.
+
+Sri Lanka President Ranil Wickremesinghe made a promise in parliament that the first house of a citizen will be excluded from the property tax.
+
+Related Sri Lanka to exempt one house from imputed rent wealth tax: President
+
+But opposition legislator Harsha de Silva pointed out that the IMF program documents clearly says taxes will be levied on owner occupied houses on ‘imputed taxes’, not second houses.
+
+Under current inland revenue laws, actual rent income from a second house is already captured as part of taxable income.
+
+The IMF document mentions a threshold value from which taxes will be exempt but not that a whole owner-occupied primary residence will be exempt.
+
+...
+
+[Data](articles/1eec3392.json)
 
 ---
 
@@ -2419,63 +2459,5 @@ This is due to this due to the Badulla Fort, the Railway Department said.
 [Data](articles/b0646b7a.json)
 
 [Extended Data](ext_articles/b0646b7a.ext.json)
-
----
-
-### President support Pillayan's party
-
-*2024-06-23 08:46:35* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලෙයාන්ගේ-පක්ෂයේ-සහාය-ජනපතිට/11-410367) · `si`
-
-The TMVP supports President Ranil Wickremesinghe, promising development in the Eastern Province and a permanent solution to the ethnic issue. Wickremesinghe aims to transform the Eastern Province within five years, focusing on economic growth, agriculture, tourism, and infrastructure development. The President emphasizes cooperation with India and foreign nations to achieve these goals.
-
-🟩
-
-TMVP supports President Ranil Wickremesinghe in the presidential election. Sivanesathurai Chandrakanthan said the leader of the party.
-
-President Ranil Wickremesinghe and TMVP. The party leader Sivanesathurai Chandrakanthan was held at the party headquarters in Batticaloa today (22).
-
-Sivanesathurai Chandrakanthan said that if President Ranil Wickremesinghe's plan to develop the Eastern Province successfully, said Sivanesathurai Chandrakan.
-
-President Ranil Wickremesinghe said that the economy of the country would be a permanent solution to ethnic problem. It is said that everyone has been assigned to be joining the Janadhipatism that he is said to be brought to a broad development of the Eastern Province within the next five years.
-
-Speaking further, President Ranil Wickremesinghe said,
-
-...
-
-[Data](articles/f66a4f6a.json)
-
-[Extended Data](ext_articles/f66a4f6a.ext.json)
-
----
-
-### Trincomalee transforms a major export economy
-
-*2024-06-23 08:39:05* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-ප්‍රධාන-අපනයන-ආර්ථිකයක්-බවට-පරිවර්තනය-කරනවා/11-410366) · `si`
-
-At a ceremony, the President granted land deeds to 27,595 families across 14 divisions in Trincomalee, marking a shift towards a significant export economy. The event also saw the opening of a new District Secretariat building, costing Rs. 1,055 million, aimed at enhancing efficiency in the Batticaloa district. The President outlined plans for agricultural modernization, tourism development from Weugamayu to Arugambay, and educational reforms, emphasizing job creation for youth and land ownership rights for over 27,000 individuals.
-
-🟩
-
-The President made this observation at a ceremony at the premises of the District Secretariat for 192 families to grant land deeds to 27,595 families to provide land deeds to 27,595 families..
-
-The deeds were provided with the 14 Divisional Secretariat Divisions in the district and the President was figuratively joined.
-
-In addition, the president was also chaired by the President today to 252 English Diploma in the English Diploma.
-
-Meanwhile, the new District Secretariat Building, which was built in Thihae, was opened today at a cost of Rs. 1,055 million. President Ranil Wickremesinghe was opened today.
-
-On September 11, 2016, the new District Secretariat Minister Vajira Abeywardena launched the construction of President Ranil Wickremesinghe.
-
-The new District Secretariat has been constructed with the objective of expanding and efficient in the Batticaloa district.
-
-The President also opened the District Secretariat and opened the District Secretariat.
-
-President Ranil Wickremesinghe added:
-
-...
-
-[Data](articles/4d661a5d.json)
-
-[Extended Data](ext_articles/4d661a5d.ext.json)
 
 ---

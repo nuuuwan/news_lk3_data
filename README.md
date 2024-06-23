@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 22:34:31**
+As of **2024-06-23 22:52:07**
 
 ## Newspaper Stats
 
-*Scraped **31,751** Articles*
+*Scraped **31,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,784
-adaderanalk | 3,607
+adaderanalk | 3,608
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,923
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,751 (100.0%) of 31,751 articles have been extended.
+31,751 (100.0%) of 31,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Bird flu: Sri Lanka bars import of animals and animal products from affected countries
+
+*2024-06-23 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100054/bird-flu-sri-lanka-bars-import-of-animals-and-animal-products-from-affected-countries) · `en`
+
+Sri Lanka’s Department of Animal Production and Health (DAPH) has emphasized that it will not allow the import of animals and animal products from any country where cases of bird flu have been reported.
+
+Dr. Hemali Kothalawala, Director General of DAPH, stated that steps and measures have been implemented to prevent the entry of the Avian Influenza A(H5N1) virus (or “bird flu”), which has recently resurfaced in several countries.
+
+Pointing out that she is frequently asked by the media regarding this issue, Dr. Kothalawala clarified that no animals or animal products will be permitted for importation into Sri Lanka from countries where bird flu cases have been reported.
+
+She also highlighted a serious new development, where cattle in the United States have been afflicted with avian influenza virus for the first time.
+
+...
+
+[Data](articles/037d282d.json)
+
+---
 
 ### One hattric of Jorden
 
@@ -2457,31 +2475,5 @@ The Twenty20 Hattrics have recorded 8 hattrics in the T20 and the Twunu Hasarang
 [Data](articles/a610f444.json)
 
 [Extended Data](ext_articles/a610f444.ext.json)
-
----
-
-### School, non-academic workers will be sick tomorrow and tomorrow
-
-*2024-06-23 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198043) · `si`
-
-Non-academic school staff will take two days off due to illness, affecting educational programs. They plan to participate in trade union actions to create a national policy. The Ministry of Higher Education has proposed solutions to address their concerns. University non-academic workers have been on strike for over 50 days, hoping for a positive government response to end the strike soon.
-
-🟩
-
-Education Monitoring workshops will be a proceeding of the two day sick leave tomorrow (24) and the two day (25).
-
-They said that education non-academic program would engage in the trade union action to formulate a national policy.
-
-In the meantime, the recommendations of the Ministry of Higher Education have given the written agreements to resolve their problems at the lowest.
-
-University non-academic workers are engaged in a trade union action for over 50 days.
-
-The co-chairman of the co-chairman Mangala Dambarara said that if the government responds positively from the party, the strike could be completed tomorrow or tomorrow or tomorrow.
-
-◼️
-
-[Data](articles/ac707c0e.json)
-
-[Extended Data](ext_articles/ac707c0e.ext.json)
 
 ---

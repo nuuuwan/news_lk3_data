@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 13:34:40**
+As of **2024-06-23 13:53:51**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,691 (100.0%) of 31,698 articles have been extended.
+31,698 (100.0%) of 31,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### அடிலெய்டில் வணிக வளாகத்தில் பதற்றம் - ஆயுதங்களுடன் நபர்
+### Tension on the commercial premises in Adelaide - the person with weapons
 
 *2024-06-23 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186764) · `ta`
 
-அவுஸ்திரேலியாவின் அடிலெய்டில் உள்ள வணிகவளாகத்தில் ஆயுதத்துடன் நபர் ஒருவர் காணப்பட்டதை தொடர்ந்து அங்கிருந்து பொதுமக்களை வெளியேற்றும் நடவடிக்கைகள் இடம்பெறுகின்றன.
+In Adelaide, a situation involving a woman with weapons led to evacuations from the Wellbeet Business Park. The South Australian police responded quickly, engaging with the individual. Two men involved are receiving treatment but are not in danger.
 
-தென்அவுஸ்திரேலிய காவல்துறையினர் சம்பவம் ஒன்று உறுதிசெய்துள்ளதுடன் காவல்துறையினர் உடனடி நடவடிக்கைகளில் ஈடுபட்டுள்ளனர் என தெரிவித்துள்ளனர்.
+🟩
 
-அவசர நிலை என யாரோ தெரிவிப்பதையும்  காவல்துறையினர் உள்ளே ஒடுவதையும் பார்த்தோம் என சிலர் டுவிட்டரில் தகவல்களை வெளியிட்டுள்ளனர்.
+Following the founder of a person with weapon in a businesswoman in Adelaide, Australia, there are activities to evacuate public.
 
-இருவருக்கு உதவிமருத்துவ பணியாளர்கள் சிகிச்சை வழங்கிவருகின்றனர் அவர்கள் ஆபத்தான நிலையில் இல்லை என அம்புலன்ஸ் சேவையை சேர்ந்தவர்கள் தெரிவித்துள்ளனர்.
+South Australian police have confirmed an incident and the police said they were engaged in immediate activities.
 
-ஆயுதமேந்திய குற்றவாளி தப்புங்கள் மறைந்துகொள்ளுங்கள் ஏனையவர்களிற்கு தெரிவியுங்கள் என்ற செய்தியை வெல்ஸ்பீட் வணிகவளாகத்தின் அறிவிப்பு பலகையில் காணமுடிகின்றது.
+Some have posted on Twitter that we have seen someone reporting as an emergency and the police are blowing inside.
+
+The two men are being treated for the two, and the ambulance service said they were not in danger.
+
+The Wellbeet Business Park announces the message that the armed criminal can disappear and inform others.
 
 ◼️
 
 [Data](articles/10e316f5.json)
+
+[Extended Data](ext_articles/10e316f5.ext.json)
 
 ---
 
@@ -146,21 +152,29 @@ The woman was killed and the mother of the mother had been admitted to the Kanda
 
 ---
 
-### கள்ளக்குறிச்சி கள்ளச்சாராயம்; சென்னையில் பதுங்கி இருந்த முக்கிய குற்றவாளி கைது
+### Kallakurichi counterfeit liquor;The main culprit in Chennai was arrested
 
 *2024-06-23 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186760) · `ta`
 
-கள்ளக்குறிச்சியில் கள்ளச்சாராயம் விற்பனை செய்த விவகாரத்தில் முக்கிய குற்றவாளி சிவகுமார் என்பவரை எம்ஜிஆர் நகரில் வைத்து போலீசார் கைது செய்தனர்.
+In Kallakurichi, 55 died from poisoned alcohol; key suspect Sivakumar arrested. Police investigating sales network, including brokers.
 
-கள்ளக்குறிச்சியில் கள்ளச்சாராயம் விற்பனை செய்த நபர்களை காவல்துறையினது தொடர்ந்து கைது செய்து வருகின்றனர். இதுவரை சிபிசிஐடி போலீசார் 9 பேரை கைது செய்து உள்ள நிலையில், நேற்று இரவு சென்னையில் அருகே உள்ள சிவகுமார் என்பவரை காவல் துறையினர் கைது செய்துள்ளனர்.
+🟩
 
-கள்ளக்குறிச்சி மற்றும் அதனை சுற்றியுள்ள பகுதியில் விஷ சாராயம் அருந்தியதால் தற்போதுவரை 55 பேர் உயிரிழந்துள்ளனர். மேலும் பலர் மருத்துவமனைகளில் தொடர் சிகிச்சை பெற்று வருகின்றனர். இவ்விவகாரத்தில் முன்னதாகவே விஷ சாராயத்தை விற்பனை செய்த கள்ளக்குறிச்சியை சேர்ந்த கன்னுக்குட்டி என்கிற கோவிந்தராஜ், அவரின் மனைவி விஜயா, சகோதரர் தாமோதரன் ஆகியோர் மீது நான்கு பிரிவுகளின் கீழ் கள்ளக்குறிச்சி போலீசார் வழக்குப்பதிவு செய்தனர்.
+Police have arrested Sivakumar, the main accused in the sale of a counterfeit liquor in Kallakurichi.
 
-இவ்வழக்கு சிபிசிஐடிக்கு மாற்றப்பட்ட நிலையில், இரண்டாம் தரகராக மெத்தனாலை சப்ளை செய்த சின்னத்துரை, ஜோசப் ராஜா, மதன்குமார் ஆகியோரும் கைது செய்யப்பட்டுள்ளனர்.
+Police continue to arrest the persons who sold the liquor liquor at Kallakurichi. Sivakumar has been arrested by the CBCID police, who have been arrested by the CBCID police.
+
+55 people have died due to poisonous alcohol in Kallakurichi and surrounding areas.. Many more are receiving treatment in hospitals. Kallakurichi police have filed a case against Kannukkutty alias Govindaraj, his wife Vijaya and brother Damodharan, who had earlier sold poisonous alcohol.
+
+While the incident has been transferred to CBCID, Chinnathurai, Joseph Raja and Madhankumar have been arrested for supplying Methhanal as a second broker.
+
+Investigators reported that Matesh was the one who sells a methanol. The CBCID police are conducting an investigation into Mathesh.
 
 ...
 
 [Data](articles/8f800573.json)
+
+[Extended Data](ext_articles/8f800573.ext.json)
 
 ---
 
@@ -264,23 +278,31 @@ Also, 10 people, including a driver of the plowing machine, were injured when a 
 
 ---
 
-### தாய்வானின் சுதந்திரத்துக்காக முயற்சி செய்பவர்களுக்கு மரண தண்டனை - சீனா
+### Death punishment for those who try for Taiwan's independence - China
 
 *2024-06-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186752) · `ta`
 
-தாய்வானின் சுதந்திரத்திற்காக தீவிரமாக குரல்கொடுப்பவர்கள் முயற்சி செய்பவர்களிற்கு - பிரிவினைவாதிகளிற்கு மரணதண்டனை விதிக்கப்போவதாக சீனா எச்சரித்துள்ளது.
+China threatens death penalty for advocating Taiwan's independence, with sentences ranging from 10 years to life imprisonment. New guidelines aim to crush any separatist efforts, emphasizing severe punishment for leaders involved.
 
-சீனாவின் நீதிமன்றங்கள் வழக்கறிஞர்கள் பொதுமற்றும் அரசபாதுகாப்பு அமைப்புகள் நாட்டை துண்டாடுவதற்காக தாய்வானின் சுதந்திரத்திற்காக குரல்கொடுக்கும் தீவிரபிரிவினைவாதிகளை தண்டிக்கவேண்டும் என்ற புதிய வழிகாட்டுதல்கள் வெளியாகியுள்ளன என ஜிங்குவா செய்தி நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-வெள்ளிக்கிழமை வெளியாகியுள்ள இந்த அறிவிப்பு நாட்டிற்கும் மக்களிற்கும் கடும் தீங்கு விளைவிக்கும் சுதந்திர முயற்சிகளின் தலைவர்களிற்கு மரணதண்டனையை விதிக்குமாறு கேட்டுக்கொண்டுள்ளது என ஜிங்வா தெரிவித்துள்ளது.
+China has warned that those who are seriously voiced for the independence of Taiwan will be executed for separatists.
 
-தாய்வானின் சுதந்திரத்திற்காக குரல்கொடுக்கும் ஏனையவர்களிற்கு பத்து வருட சிறைத்தண்டனை முதல் ஆயுள்தண்டனை வரை விதிக்கப்படலாம்.
+China's courts are new guidelines for punishing radicals for the independence of Taiwan to dismantle the country, according to the Jingua News Agency.
 
-தாய்வான் பிரிவினையை அறிவித்தாலோ அல்லது அதற்கான முயற்சிகளை மேற்கொண்டாலோ அதற்கு எதிராக இராணுவநடவடிக்கையில் ஈடுபடுவதற்கான அடிப்படையை இந்த புதிய உத்தரவுகள் சீனாவிற்கு வழங்கியுள்ளன.
+The announcement on Friday has been asked to impose the death penalty to the leaders of the freedom efforts that will harm the country and the people.
 
-...
+Others who voice the independence of Taiwan can be imposed from ten years in prison to life imprisonment.
+
+These new orders have provided the basis for the military action against the military action against the Taiwan separation or its efforts.
+
+China's Public Security Ministry official said the maximum sentence for separation was the death penalty.
+
+◼️
 
 [Data](articles/a2fbcc51.json)
+
+[Extended Data](ext_articles/a2fbcc51.ext.json)
 
 ---
 
@@ -350,23 +372,31 @@ Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet moder
 
 ---
 
-### பிரிட்டனில் விடுதலைப்புலிகள் அமைப்பின் மீதான தடை நீக்கம்; நிராகரித்தது மேல்முறையீட்டு ஆணையகம்
+### Brandle of Liberation Tigers of Tamil Eelam (LTTE) in Britain;Rejected the Appeal Authority
 
 *2024-06-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186755) · `ta`
 
-பிரித்தானியாவில் தமிழீழ விடுதலைப் புலிகள் மீதான தடையை நீக்குமாறு  நாடு கடந்த தமிழீழ அரசாங்கம்விடுத்த வேண்டுகோளை தடைசெய்யப்பட்ட அமைப்புகளின் மேல்முறையீட்டு ஆணையம் நிராகரித்துள்ளது.
+The British Appeal Authority upheld the ban on the Liberation Tigers of Tamil Eelam (LTTE), rejecting the Tamil Eelam government's request to lift it. This decision means Britain will maintain the ban, as stated by Sri Lanka's Foreign Minister Ali Sabri. The ban was affirmed by an independent court, including a High Court judge and two retired senior ambassadors, established by Parliament. Despite the LTTE not being banned in the UK, the organization aims to revive its activities globally through what Sabri describes as "casteist methods."
 
-இதன்படி விடுதலைப் புலிகள் மீதான தடையை பிரித்தானியா தொடர்ந்தும் கடைப்பிடிக்கும் என இலங்கையின் வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்
+🟩
 
-இங்கிலாந்து தடை செய்யப்பட்ட அமைப்பு மேல்முறையீட்டு ஆணையம் பாராளுமன்றத்தால் அமைக்கப்பட்ட ஒரு சுயாதீன நீதிமன்றம் மற்றும் உயர் நீதிமன்ற நீதிபதி மற்றும் இரண்டு ஓய்வுபெற்ற மூத்த தூதர்கள் தலைமையில் தடை நீக்கத்திற்கு எதிராக தீர்ப்பளித்தது என அவர் குறிப்பிட்டுள்ளார்.
+The Appeal Authority of the country has rejected the ban on the Tamil Eelam government's request to remove the ban on the Liberation Tigers of Tamil Eelam (LTTE) in Britain.
 
-இலங்கையின் வடக்குகிழக்கில் தனிநாட்டு கோரிக்கைக்கு ஆதரவளிக்கும் நாடு கடந்த தமிழீழ அரசாங்கம் இந்த வேண்டுகோளை விடுத்திருந்தது என அலிசப்ரி தெரிவித்துள்ளார்.
+Accordingly, Britain will continue to observe the ban on the LTTE, Sri Lanka's Foreign Minister Ali Sabri said
 
-நாடு கடந்த தமிழீழ அரசாங்கம் ஐக்கிய இராச்சியத்தில் தடை செய்யப்படவில்லை,என டுவிட்டரில் தெரிவித்துள்ள அலிசப்ரி அந்த அமைப்பு சாத்வீக வழிமுறைகள் ஊடாக தனது நோக்கங்களை அடைய முயல்கின்றது எனவும் தெரிவித்துள்ளார்.
+He noted that the UK banned organization has ruled against the lifting of the ban, headed by an independent court and a High Court judge and two retired senior ambassadors set up by Parliament.
 
-...
+Alizabri said the government of Tamil Eelam had made this request to support foreign demand in the North East of Sri Lanka.
+
+The country's Tamil Eelam government has not been banned in the United Kingdom, said Alisabri, who said on Twitter, "The organization is trying to achieve its objectives through casteist methods.
+
+Ali Sabri said the strategy of the Liberation Tigers of Tamil Eelam (LTTE) is to create their lives again by lifting the ban on the world.
+
+◼️
 
 [Data](articles/11ca7f6d.json)
+
+[Extended Data](ext_articles/11ca7f6d.ext.json)
 
 ---
 
@@ -482,21 +512,31 @@ Steps have been taken to hand over the two jewelery to the Katunayake airport cu
 
 ---
 
-### ஜனாதிபதியும் நீதியமைச்சரும் தங்கள் கருத்துக்கள் மூலம் நீதித்துறையை அச்சுறுத்துகின்றனர் - சட்டத்தரணிகள் அமைப்பு
+### The President and the Justice Minister threaten the judiciary through their views - the lawyers organization
 
 *2024-06-23 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186749) · `ta`
 
-ஜனாதிபதியும் நீதியமைச்சரும் சமீபத்தில் உயர்நீதிமன்றத்திற்கு எதிராக வெளியிட்டுள்ள கருத்துக்கள் நீதித்துறையை அச்சுறுத்தும் தன்மை கொண்டவை என என இலங்கை சட்டத்தரணிகள் ஒன்றிணைவு என்ற சட்டத்தரணிகள் அமைப்பு தெரிவித்துள்ளது.
+The Attorneys' Organization of Sri Lanka criticized President Ranil Wickremesinghe and the Justice Minister for comments deemed threatening to the judiciary. The organization highlighted concerns over potential misuse of power in judicial appointments and expressed worry over the impact of political statements on the judiciary's independence and public trust in the democratic process.
 
-பால்நிலைசமத்துவ சட்டங்கள் தொடர்பில் ஜனாதிபதி ரணில்விக்கிரமசிங்க நீதிமன்றத்தின் தீர்ப்பிற்கு எதிராக தெரிவித்த கருத்துக்களும் நீதியமைச்சர் தெரிவித்த கருத்துக்களும் நீதித்துறையை அச்சுறுத்தும் தன்மை கொண்டவை என சட்டத்தரணிகள் அமைப்பு தெரிவித்துள்ளது.
+🟩
 
-ஜனாதிபதி நீதியமைச்சர் கல்வியமைச்சர் ஆகியோர் நிறைவேற்று அதிகாரத்தின் முழுமையான பிரதிநிதிகள் என சட்டத்தரணிகள் அமைப்பு தெரிவித்துள்ளது.
+The Attorneys' Organization of Sri Lanka's Attorney General said that the president and the Justice Minister recently issued their comments against the Supreme Court.
 
-உயர்நீதிமன்றத்திற்கு நீதிபதிகளை நியமிக்கும் முக்கியஅரசமைப்பு அதிகாரம் மற்றும் பொறுப்பை ஜனாதிபதி செயற்படுத்துகின்றார் என சட்டத்தரணிகள் அமைப்பு தெரிவித்துள்ளது.நீதியமைச்சர் நீதித்துறையின் வளங்களை கட்டுப்படுத்துகின்றார் எனவும் அந்த அமைப்பு தெரிவித்துள்ளது.
+The Lawyers Organization said that President Ranil Wickremesinghe's comments against the court's verdict on the laws and the judiciary were threatening the judiciary.
+
+The Attorneys' Organization said the President's Justice Minister and Education Minister were a complete representative of executive power.
+
+The Attorneys' Organization has said that the president is implementing the key government's power and responsibility to appoint judges to the High Court.
+
+The Sri Lanka Lawyers Organization has said that it is a clear abuse of power to make a sense of insidious comments on the judiciary of the Highway Office using the Parliamentary Privacy.
+
+The lawyers' organization, which has stated that creative criticism is the right forms of freedom of freedom of freedom of freedom, cannot be turned into a threat or intimidation.
 
 ...
 
 [Data](articles/d32adb08.json)
+
+[Extended Data](ext_articles/d32adb08.ext.json)
 
 ---
 
@@ -642,23 +682,29 @@ As a result of this, the rail control room said that the railway traffic has bee
 
 ---
 
-### காயமடைந்த பாலஸ்தீனியரை ஜீப்பின் முன்பகுதியில் கட்டிப்போட்டு கொண்டுசென்ற இஸ்ரேலிய படையினர் - வெளியானது அதிர்ச்சி வீடியோ
+### Israeli soldiers who tied the injured Palestinians to the front of the jeep - shocking video
 
 *2024-06-23 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186741) · `ta`
 
-ஜெனினில் இஸ்ரேலிய படையினர் மேற்கொண்ட நடவடிக்கையின் போது காயமடைந்த பாலஸ்தீனியர் ஒருவரை இஸ்ரேலிய படையினர் தங்கள் முன்பகுதியில் கட்டிப்போட்டவாறு கொண்டு சென்றதை காண்பிக்கும் படம் வெளியாகியுள்ளது.
+A viral video shows Israeli soldiers tying injured Palestinians to their jeep during an operation in Jenin. The Israeli military confirmed this incident, stating the suspects were injured during a search operation. Despite requests for medical help, the soldiers reportedly moved one of the injured under the jeep's bonnet. The man, identified as Mujacket Ajmi, was not affiliated with any organization.
 
-வீடியோவில் பதிவாகி சமூக ஊடகங்களில் வெளியாகியுள்ள இந்த காட்சியை இஸ்ரேலிய பாதுகாப்பு படையினர் உறுதி செய்துள்ளனர்.
+🟩
 
-தேடுதல் நடவடிக்கையின் போது காயமடைந்த சந்தேகநபரையே இவ்வாறு தங்கள் வாகனத்தில் கட்டிப்போட்டு கொண்டு சென்றதாக இஸ்ரேலிய இராணுவம் தெரிவித்துள்ளது.
+The picture of Israeli soldiers who were injured during the operation of Israeli soldiers in Jenin, showing that Israeli soldiers were hugging them.
 
-நாங்கள் அம்புலன்சை கொண்டுவருமாறு கேட்டவேளை இஸ்ரேலிய படையினர் அவரை ஜீப்பின் பொனட்டின் கட்டுப்போட்டு கொண்டு சென்றனர் என அந்த நபரின் குடும்பத்தினர் தெரிவித்துள்ளனர்.
+The Israeli security forces have confirmed the footage recorded on social media.
 
-முஜாகெட் அஜ்மி என்ற ஒருவரையே இஸ்ரேலிய படையினர் இவ்வாறு கொண்டு சென்றனர் அவர் எந்த அமைப்பையும் சேராதவர்  என பொதுமக்கள் ரொய்ட்டருக்கு தெரிவித்துள்ளனர்.
+The Israeli military said that the suspects who were injured during the search operation were tied to their vehicle.
+
+When we asked us to bring the ambulance, the Israeli soldiers took him under the jeep's bonat, the family said.
+
+The Israeli soldiers brought the Mujacket Ajmi, the public has informed Royter that he has not joined any organization.
 
 ◼️
 
 [Data](articles/b59d1d29.json)
+
+[Extended Data](ext_articles/b59d1d29.ext.json)
 
 ---
 
@@ -742,17 +788,25 @@ It was reported as the lowest marks collected by both groups in a T20 of countri
 
 ---
 
-### பாத யாத்திரை பாரம்பரியத்தை பேணுவது போல் காடுகளை பாதுகாப்பதும் நம் கடமையே - கலாநிதி என்.கே.எஸ். திருச்செல்வம்
+### It is our duty to protect the forests as maintaining the tradition of the pilgrimage- Dr. NKS. Tiruchelvam
 
 *2024-06-23 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186740) · `ta`
 
-"பாத யாத்திரை பாரம்பரியத்தை பேணுவது போல, பாத யாத்திரைக்காக நாம் பயன்படுத்தும் பல்லாயிரக்கணக்கான உயிரினங்கள், மூலிகைகள் நிறைந்த காட்டையும் பேணிப் பாதுகாப்பது எமது தார்மீகக் கடமை. உண்மையில் நாம் பயணிக்கும் இந்த காடு நமக்கு சொந்தமானதல்ல. இக்காட்டையே நம்பி வாழ்கிற மிருகங்கள், பறவைகள் மற்றும் ஏனைய உயிரினங்களுக்கே சொந்தம். எனவே, அந்த உயிரினங்களுக்கு எவ்வித பாதிப்பும் ஏற்படாத வகையில் நாம் இந்தக் காட்டைப் பயன்படுத்த வேண்டும்..." என உகந்தை முதல் கதிர்காமம் வரையான வனப் பகுதியூடாக பயணிக்கும் யாத்திரீகர்களுக்கு வேண்டுகோள் விடுக்கிறார் வரலாற்று ஆய்வாளரும் இலங்கை யாத்திரை சபையின் ஒருங்கிணைப்பாளருமான கலாநிதி என்.கே.எஸ். திருச்செல்வம்.
+Dr. NKS Tiruchelvam emphasizes the importance of preserving forests during pilgrimages, highlighting the moral duty to safeguard wildlife and flora vital to the tradition of Path Yatra. He cautions against environmental damage, including littering and deforestation, urging pilgrims to respect the ecosystem. The announcement of the Ukkanda Wildfire's opening date change impacts the Adivale festival and the pilgrimage route, affecting both the environment and pilgrims' experiences. Dr. Tiruchelvam stresses the need for careful planning and adherence to traditional practices to maintain the integrity of the pilgrimage while minimizing ecological impact.
 
-கதிர்காமம் நோக்கிய பாத யாத்திரைக்காக உகந்தை காட்டுப்பாதை எதிர்வரும் 30ஆம் திகதி திறக்கப்படும் என முதலில் அறிவிக்கப்பட்டு, பின்னர், அந்த திகதியில் மாற்றம் செய்யப்பட்டு, ஜூலை 2ஆம் திகதி திறக்கப்படுவதாக தெரிவிக்கப்பட்டிருந்தது.
+🟩
+
+"It is our moral duty to preserve the tens of thousands of creatures and herbs that we use for the pilgrimage, as it maintains the tradition of Path Yatra.. This forest we travel in fact does not belong to us. It belongs to the beasts, birds and other creatures that depend on this. Therefore, we must use this forest so that we have no harm to those creatures ... "Dr. NKS, a historian and coordinator of the Sri Lanka Pilgrimage Board, appeals to pilgrims traveling through the forest from Kadirgama to Kadirgamam.. Tiruchelvam.
+
+It was first announced that the Ukkanda Wildfire would be opened on the 30th of this month, and it was announced that the date would be changed and opened on July 2.
+
+In this regard, the first day of the Adivale festival, which will be held on the 6th of July at the Kadirgamam Murugan Temple, the pilgrims' walk through the forest, the days of reaching the temple, the days of reaching the temple.
 
 ...
 
 [Data](articles/87fe4ada.json)
+
+[Extended Data](ext_articles/87fe4ada.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 19:52:21**
+As of **2024-06-23 20:04:50**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 5,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,737 (100.0%) of 31,741 articles have been extended.
+31,741 (100.0%) of 31,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### කාසියේ වාසිය එංගලන්තය ට
+### England to benefit the coin
 
 *2024-06-23 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198069) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ එංගලන්තය සහ අමෙරිකාව අතර තරගය අද (23) පැවැත්වෙයි.
+In today's cricket match, England will face the USA, with Jose Butler opting to bat first. This decision could significantly impact England's strategy and performance.
 
-ඒ අනුව ජෝස් බට්ලර් තීරණය කළේ පළමුව පන්දුවට පහරදීමේ අවස්ථාව අමෙරිකාවට ලබා දීමටය.
+🟩
+
+The match between England and the United States of America will be held today (23).
+
+Accordingly, Jose Butler decided to give the batting to the United States first.
 
 ◼️
 
 [Data](articles/1367b1d8.json)
 
+[Extended Data](ext_articles/1367b1d8.ext.json)
+
 ---
 
-### பொலிசாரின் சன்மான பணத்தை மோசடி செய்த பொலிஸ் சாஜன் ஒருவருக்கு பணி இடைநீக்கம்
+### Task suspended for police sajan for allegedly defrauding police
 
 *2024-06-23 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186790) · `ta`
 
-பொலன்னறுவை பொலிசாருக்கு வழங்கும் சன்மான பணமான 74 இலட்சம் ரூபாவை மோசடி செய்த குற்றச்சாட்டில் கைது செய்து பிணையில் வெளிவந்த ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றிவரும் பொலிஸ் சாஜன் ஒருவரை வெள்ளிக்கிழமை (21) பணியிலிருந்து இடை நீக்கம் செய்யப்பட்டுள்ளதாக ஏறாவூர் பொலிசார் தெரிவித்தனர்.
+Sajan, a police officer, was suspended for allegedly defrauding Rs 74 lakh while posted at the Polonnaruwa Police Station in 2021. He was transferred to the Eravur police station but was arrested during an investigation into the fraud. The police department confirmed his suspension on bail.
 
-குறித்த பொலிஸ் சாஜன் 2021ம் ஆண்டு பொலன்னறுவை பொலிஸ் நிலையத்தில் போக்குவரத்து பிரிவில் கடமையாற்றி வந்த போது அங்கு பொலிசாருக்கு சன்மானமாக வழங்கும் பணமான 74 இலட்சம் ரூபாவை மோசடி செய்துள்ள நிலையில் இடமாற்றம் பெற்று ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றி வந்துள்ளார்.
+🟩
 
-இந்த நிலையில் இந்த மோசடி தொடர்பாக பொலன்னறுவை விசேட குற்றப் புலன் விசாரணைப் பிரிவினர் விசாரணைகளை மேற்கொண்டுவந்த நிலையில் இவரைக் கடந்த 18 ம் திகதி கைது செய்து பொலன்னறுவை நீதிமன்றில் ஆஜர்படுத்தப்பட்டு பிணையில் வெளிவந்துள்ளார்.
+Eravur police said that a policeman who was working at the Eravur police station was suspended from work on Friday (21).
 
-இவ்வாறு பிணையில் வெளிவந்தவரை உடனடியாக பணியிலிருந்து இடைநீக்கம் செய்யப்பட்டுள்ளதாக பொலிஸ் திணைக்களம் அறிவித்துள்ளது.
+When the police Sajan was on duty at the Polonnaruwa Police Station in 2021, he had been deployed at the Eravur police station after defrauding the Rs 74 lakhs of Rs.
+
+He was arrested on the 18th of this month as the Polonnaruwa Special Crime Investigation Unit was conducting investigations into the fraud.
+
+The police department has announced that the person on the bail has been suspended immediately.
 
 ◼️
 
 [Data](articles/3a2694d2.json)
+
+[Extended Data](ext_articles/3a2694d2.ext.json)
 
 ---
 
@@ -128,23 +140,35 @@ Mr. A.A.M. Thassim has over 31 years of service at the CBSL in different capacit
 
 ---
 
-### ரி20 உலகக் கிண்ண அரை இறுதிக்கு செல்லும் முதலாவது அணிகள் எவை? இன்றும் நாளையும் தீர்மானம் மிக்க போட்டிகள்
+### What are the first teams that go to the R20 World Cup semi -final?Today and tomorrow
 
 *2024-06-23 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186789) · `ta`
 
-ஐக்கிய அமெரிக்காவும் மேற்கிந்தியத் தீவுகளும் கூட்டாக நடத்தும் 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் அரை இறுதிக்கு செல்லப்போகும் முதலாவது அணிகள் எவை என்பதைத் தீர்மானிக்கும் குழு 2க்கான சுப்பர் 8 போட்டிகள் இன்றும் நாளையும் நடைபெறவுள்ளன.
+The R20 World Cup semi-finalists will be determined by the outcomes of today's and tomorrow's Super 8 matches. The United States faces the UK, and if they win, they'll compete alongside either England or South Africa, depending on their performance against the West Indies, for a spot in the semi-finals. If the West Indies beat the United States, both they and South Africa will automatically qualify. England needs to win today to secure a semi-final berth, facing a three-way rivalry with the US and South Africa if they do.
 
-பார்படொஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் இன்று இரவு நடைபெறவுள்ள போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை வரவேற்பு நாடுகளில் ஒன்றான ஐக்கிய அமெரிக்கா எதிர்த்தாடவுள்ளது.
+🟩
 
-இதேவேளை இக் குழுவில் முதல் இரண்டு இடங்களில் உள்ள தென் ஆபிரிக்கா (4 புள்ளிகள்), முன்னாள் சம்பியனும் மற்றொரு வரவேற்பு நாடுமான மேற்கிந்தியத் தீவுகள் ஆகிய அணிகள் மோதும் போட்டி அன்டிகுவா, நோர்த் சவுண்ட் சேர் விவியன் றிச்சர்ட்ஸ் விளையாட்டரங்கில் நாளைக் காலை நடைபெறவுள்ளது.
+The Super 8 matches for the team will be held today and tomorrow for the team that determines the first teams that will go to the semi -finals of the United States and the West Indies.
 
-இன்றைய போட்டியில் இங்கிலாந்து வெற்றிபெற்றால் இக் குழுவிலிருந்து அரை இறுதித் தகுதயைப் பெறுவதற்கு 3 அணிகளுக்கு இடையில் போட்டி நிலவும்.
+The United States will oppose the current champion UK at the Barjdown Kensington Oval Stadium, Barjdown.
 
-ஐக்கிய அமெரிக்கா வெற்றிபெற்றால் தென் ஆபிரிக்கா முதாலாவது அணியாக அரை இறுதியில் விளையாட தகுதிபெறும்.
+Meanwhile, South Africa (4 points), former champion and another reception, will be played tomorrow morning at the North Sound Sound Vivian Richards Stadium.
+
+If England wins in today's match, there will be a rivalry between the 3 teams to win the semi -final.
+
+If the United States wins, South Africa will qualify for the semi -finals.
+
+If the West Indies win the United States winning tomorrow, South Africa and the West Indies will qualify for the semi -finals without any competition.
+
+In today's match, England and the West Indies win in tomorrow's match will advance to the semi -finals.
+
+If South Africa wins tomorrow's match, South Africa and South Africa will advance to the semi -finals.
 
 ...
 
 [Data](articles/e2db0605.json)
+
+[Extended Data](ext_articles/e2db0605.ext.json)
 
 ---
 
@@ -386,19 +410,27 @@ It is reported that five persons arrested have been detained and investigations 
 
 ---
 
-### චමුදිත පදිංචි නිවාස සංකීර්ණය අසලට ආ පුද්ගලයන්  දෙදෙනා හඳුනා ගැනීමට සීසීටීවී දර්ශන ඔස්සේ විමර්ශන
+### Investigations into the two persons identify the two persons who came to the Chamuditha resident of Chamuditha
 
 *2024-06-23 16:42:14* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-පදිංචි-නිවාස-සංකීර්ණය-අසලට-ආ-පුද්ගලයන්--දෙදෙනා-හඳුනා-ගැනීමට-සීසීටීවී-දර්ශන-ඔස්සේ-විමර්ශන/11-410380) · `si`
 
-ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා පදිංචිව සිටිනපිළියන්දල වෑවල කේම්බ්‍රීජ් කෝට්  නිවාස සංකීර්ණයේ පිවිසුමේ ප්‍රධාන දොරටුව අසලට ඉකුත් (20) රාත්‍රී පැමි ඇතුළු වීමට උත්සාහ දැරූ නාඳුනන පුද්ගලයන් දෙදෙනා හඳුනා ගැනීම සඳහා  සීසීටීවී දර්ශන ඔස්සේ විමර්ශන සිදු කරන බව පිළියන්දල පොලිසිය කියයි.
+Chamuditha Samarawickrema investigates two unknown individuals who visited the Cambreetge Court Housing Complex. The Piliyandala Police were alerted but couldn't confirm their intentions as they didn't know the residents. The duo refused to reveal their names, attempted to record a motorcycle's license plate, and were armed. This incident recalls a previous assault on Samarawickrema's home. Investigations continue to uncover their identities and motives.
 
-එම අවස්ථාවේදී ප්‍රධාන දොරටුවේ රාජකාරී කරමින් සිටි ආරක්ෂක නිලධාරියාව පිළියන්දල පොලිසියට කැඳවා ප්‍රකාශ ලබා ගත් බවද පොලිස් නිලධාරියකු පැවසීය.
+🟩
 
-එම පුද්ගලයන් දෙදෙනා ප්‍රධාන දොරටුව අසලට පැමිණි අවස්ථාවේදී  ඔවුන් කාගේ නිවසට යන්නේ දැයි විමසීමේදී කිසිදු පුද්ගලයෙකුගේ නමක් සඳහන් නොකළ බවත් එම නිලධාරියාගේ ප්‍රකාශයකින් අනාවරණය වූ බව පොලිසිය කියයි
+Veteran journalist Chamuditha Samarawickrema is conducting further investigations to identify the two unidentified persons in the Cambreetge Court Housing Complex.
+
+A police officer said that the Piliyandala Police said that the Piliyandala police said that the main entrance was taken to the Piliyandala Police.
+
+According to a statement, the officer said that when the two people arrived at the main entrance, the official said that no person had no idea whether they were going to the house they were going to the house.
+
+The two people were able to allow the name of anyone in the housing complex, and after he said that they could not allow it to be allowed to enter and had the mobile of the motorbike when they tried to record the registration number of the motorcycle.A police officer said that it was not possible to write the registration number of the motorcycle due to the telephone.
 
 ...
 
 [Data](articles/499be553.json)
+
+[Extended Data](ext_articles/499be553.ext.json)
 
 ---
 

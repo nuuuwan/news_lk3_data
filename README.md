@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 17:19:24**
+As of **2024-06-23 17:34:50**
 
 ## Newspaper Stats
 
-*Scraped **31,721** Articles*
+*Scraped **31,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,778
-adaderanalk | 3,601
+adalk | 2,779
+adaderanalk | 3,602
 tamilmirrorlk | 3,730
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,189
+adaderanasinhalalk | 5,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,721 (100.0%) of 31,721 articles have been extended.
+31,721 (100.0%) of 31,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### ගාසා ළමා අරමුදලට කාත්තන්කුඩියෙන් රුපියල් කෝටියක්
+
+*2024-06-23 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198064) · `si`
+
+ගාසා තීරයේ ගැටුම් පිළිබඳ ශ්‍රි ලංකාවේ ස්ථාවරත්වය කිසි විටෙකත් වෙනස් නොවන බවත්, වසර 05ක් තුළ පලස්තීන රාජ්‍ය පිහිටුවිය යුතුය යන්න ශ්‍රී ලංකාවේ ස්ථාවරය වන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ගාසා තීරයේ විපතට පත් ජනතාව වෙනුවෙන් නව කාත්තන්කුඩි ග්‍රෑන්ඩ් ජුම්මා මුස්ලිම් පල්ලියේ අද (23) සංවිධානය කර තිබූ විශේෂ යාඥා මෙහෙයට එක්වෙමිනි.
+
+මේ අතර ගාසා හි ගැටුම්වලින් විපතට පත් දරුවන්ට සහන සැලසීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි ආරම්භ කළ ගාසා හි ළමා අරමුදලට (Children of Gaza Fund) නව කාත්තන්කුඩි ග්‍රෑන්ඩ් ජුම්මා මුස්ලිම් පල්ලිය විසින් රුපියල් එක්කෝටි හත් ලක්ෂ හැට නව දහස් හාරසිය දාහතක මුදලක් පරිත්‍යාග කිරීමට අදාළ චෙක්පත ද භාරකාරීත්ව මවුලවිතුමන්ලා විසින් මෙහිදී ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+
+මෙම විශේෂ යාඥා මෙහෙයට එක්ව සිටි බැතිමතුන් සමඟ සුහද කතාබහකට ද එක් වූ ජනාධිපතිවරයා ඔවුන් සමඟ සෙල්ෆි ඡායාරූප කිහිපයකට ද පෙනි සිටියේය.
+
+◼️
+
+[Data](articles/0d2ca44e.json)
+
+---
+
+### India exam chief sacked after outcry over marks
+
+*2024-06-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100048/india-exam-chief-sacked-after-outcry-over-marks) · `en`
+
+The head of India’s National Testing Agency (NTA) has been dismissed following accusations of irregularities in recent exams for higher education.
+
+The government has also appointed a committee to recommend reforms in the fiercely competitive process.
+
+There have been calls to rerun a medical entrance test after thousands of candidates secured unusually high marks, prompting protests over alleged cheating.
+
+The National Eligibility Cum Entrance Test (NEET) is the gateway to studying medicine in India.
+
+Millions of students sit the exam every year, but only a small percentage get good enough marks to secure a placement.
+
+The results announced on 4 June meant that even high-scorers found it difficult to do so.
+
+Since then, the exam has come under scrutiny for reasons ranging from errors in the question paper to unwarranted grace marks (compensatory marks) and fraud.
+
+Earlier this month federal Education Minister Dharmendra Pradhan admitted that “some irregularities” had come to light.
+
+...
+
+[Data](articles/8bc3cf5f.json)
+
+---
 
 ### Public schools notices
 
@@ -1039,6 +1083,24 @@ Israeli Army authorities said that the person who was injured was a suspect, but
 [Data](articles/2847d2a4.json)
 
 [Extended Data](ext_articles/2847d2a4.ext.json)
+
+---
+
+### පොසොන් පෝය දිනයේදි මවට ගලකින් පහරදී ඝාතනය කළ පුතා අල්ලයි
+
+*2024-06-23 11:19:00* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝය-දිනයේදි-මවට-ගලකින්-පහරදී-ඝාතනය-කළ-පුතා-අල්ලයි/11-410373) · `si`
+
+කන්දෙගෙදර සාර්නියා වත්තේ දී සිය පුතුගේ නිවසට ගිනිතබා අලාභහානි කර , ගලකින් පහරදී  පොසොන්   පොහොය දින රාත්‍රි සිය මව ඝාතනය කලැයි සැකපිට පුතෙකු ඊයේ (22) සැකපිට අත්අඩංගුවට ගත් බව කන්දෙගෙදර පොලිසිය පවසයි .
+
+සැකකාර පුතා විසින් හිසට ගලකින් පහරදී මෙන් මෙසේ ඝාතනයට ලක්වී ඇත්තේ කන්දෙගෙදර සාර්නියා වත්තේ තංගමලේ කොටසේ 3 වන ලැයිමේ පදිංචිව සිටි සිංගාරවේල් මුත්තාල් (62) නැමති කාන්තාව යැයි පොලිසිය කීය .
+
+අත්අඩංගුවට ගත් සැකකරු කන්දෙගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි තිදරු පියෙකු යැයි පොලිසිය කීය .
+
+මොහුගේ බිරිද විදේශ රටක රැකියාවක් කරන බවත් , මොහුගේ දරුවන් තිදෙනා සැකකරු ගේ මව සමඟ කන්දෙගෙදර සාර්නියා වත්තේ තංගමලේ කොටසේ වතු නිවසේ පදිංචිව සිට ඇති අතර සැකකරු සිය  කන්දේගෙදර කොල්ලුමංඩිය ප්‍රදේශයේ සිටින සිය සහෝදරියකුගේ නිවසේ වාසය කරමින් සිටි බවද පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/a8b91412.json)
 
 ---
 
@@ -2347,73 +2409,5 @@ The Sri Lanka women's team had previously been on the 7th in the ICC Ratings lis
 [Data](articles/1d7796ed.json)
 
 [Extended Data](ext_articles/1d7796ed.ext.json)
-
----
-
-### Was President Ranil Apologising Or Defending Gota’s Racist Forced Cremation Policy?
-
-*2024-06-22 20:12:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/was-president-ranil-apologising-or-defending-gotas-racist-forced-cremation-policy/) · `en`
-
-...
-
-[Data](articles/32f348f2.json)
-
-[Extended Data](ext_articles/32f348f2.ext.json)
-
----
-
-### Six arrested for rape victims
-
-*2024-06-22 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198032) · `si`
-
-Six individuals, aged 19 to 21, were arrested in connection with the rape of a 16-year-old girl. The victim, accompanied by her younger sister, was lured to a location under false pretenses, where she was assaulted by multiple attackers. The main suspect turned himself in, and the others were apprehended by the police. The victim was treated at a hospital, and further investigations are ongoing.
-
-🟩
-
-Her boyfriend, including her boyfriend, have arrested six youths in connection with the incident that a 16-year-old girl was raped.
-
-The suspects are aged between 19 and 21 years old, police said.
-
-A 16-year-old schoolgirl residing in Kosgama had to go to Dansals with her little mother in the morning.
-
-She told her little mother to go to a bookpillary and asked for a friend to visit his boyfriend for Rs. 300.
-
-She went to his boyfriend's house and had sex with him and later fieted girl from her motorcycle from Hanwella and Hanwella.
-
-In the meantime, the boyfriend had told two friends to take their girlfriend and to take their girlfriend.
-
-Accordingly, two of his friends came to a motorbike to the Hanwella Attygalle to talk with the girl and took sex with her to a cemetery.
-
-Police said that three of their friends came and raped her.
-
-There their friends have stayed on the road and spy.
-
-A young man who was brought to the scene had been brought back to the Attygalle Junction to Hanwella Hospital.
-
-...
-
-[Data](articles/9e2ca5d1.json)
-
-[Extended Data](ext_articles/9e2ca5d1.ext.json)
-
----
-
-### Bangladesh to advantage
-
-*2024-06-22 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198031) · `si`
-
-In today's Twenty20 World Cup match, Bangladesh secured the upper hand early on.
-
-🟩
-
-Another match of the Twenty Twenta World Cup will be held today (22).
-
-Bangladesh won the advantage of the match first.
-
-◼️
-
-[Data](articles/695bb62f.json)
-
-[Extended Data](ext_articles/695bb62f.ext.json)
 
 ---

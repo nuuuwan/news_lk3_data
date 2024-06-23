@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 19:04:30**
+As of **2024-06-23 19:19:32**
 
 ## Newspaper Stats
 
-*Scraped **31,733** Articles*
+*Scraped **31,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,77 @@ islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
 adalk | 2,780
-adaderanalk | 3,604
+adaderanalk | 3,605
 tamilmirrorlk | 3,734
 dailymirrorlk | 4,733
 virakesarilk | 4,919
-adaderanasinhalalk | 5,192
+adaderanasinhalalk | 5,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,732 (100.0%) of 31,733 articles have been extended.
+31,733 (100.0%) of 31,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
 
-### ஏப்பம் விட்ட  பொலிஸ் சாஜன்ட் இடைநீக்கம்
+### New Deputy Governors appointed to Central Bank
+
+*2024-06-23 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100051/new-deputy-governors-appointed-to-central-bank) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has appointed two new Deputy Governors with effect from this week.
+
+Accordingly, Assistant Governor and Secretary to the Governing Board A. A. M. Thassim and Assistant Governor J. P. R. Karunaratne have been appointed as Deputy Governors of the CBSL with effect from June 20 and June 24, respectively.
+
+In a statement, the CBSL stated that the new appointments were made by the Minister of Finance as recommended by the CBSL Governing Board in terms of the provisions in the Central Bank of Sri Lanka Act, No. 16 of 2023.
+
+Mr. A.A.M. Thassim has over 31 years of service at the CBSL in different capacities in the areas of Supervision and Regulation of Banking Institutions, International Operations, Communication, Payments and Settlements, Employees Provident Fund, Finance, Risk Management, Deposit Insurance, Security Services and Information Technology.
+
+...
+
+[Data](articles/803f0e58.json)
+
+---
+
+### ජනපති බදාදා ජාතිය අමතයි
+
+*2024-06-23 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198067) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා ජාතිය ඇමතීමට නියමිතව තිබේ.
+
+රටේ වත්මන් ආර්ථික තත්ත්වය පිළිබඳව හා විදෙස් ණය ප්‍රතිව්‍යූහගතකිරීම සම්බන්ධයෙන් ලබා ඇති ප්‍රගතිය පිළිබඳව මෙහිදී ජනාධිපතිවරයා ජනතාව දැනුවත් කිරීමට නියමිත බව වාර්තා වෙයි.
+
+ජනාධිපතිවරයාගේ ප්‍රකාශයත් සමග මෙරට ජනතාවට සහන රැසක් හිමිවනු ඇති බව එක්සත් ජාතික පක්ෂයේ ජාතික ලේකම් රවී කරුණානායක මහතා පවසයි.
+
+◼️
+
+[Data](articles/1ce61bf9.json)
+
+---
+
+### APPUMS SUPPOSH SUPPOSED
 
 *2024-06-23 18:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்பம்-விட்ட-பொலிஸ்-சாஜன்ட்-இடைநீக்கம்/175-339298) · `ta`
 
-பொலன்னறுவை பொலிஸாருக்கு வழங்கும் சன்மான பணமான 74 இலட்சம் ரூபாவை மோசடி செய்தார் என்றக் குற்றச்சாட்டில் கைது செய்யப்பட்ட ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றிவரும் பொலிஸ் சாஜன்ட் ஒருவரை வெள்ளிக்கிழமை (21) பணியில் இருந்து இடை நீக்கம் செய்யுயப்பட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+A police sergeant at the Eravur station was suspended and arrested on fraud charges, having previously served at the Polonnaruwa Transport Division. The Special Criminal Investigation Department is leading the probe, and he was later released on bail.
 
-குறித்த பொலிஸ் சாஜன்ட் 2021ம் ஆண்டு பொலன்னறுவை பொலிஸ் நிலையத்தில் போக்குவரத்து பிரிவில் கடமையாற்றி வந்துள்ளார். அங்கு பொலிஸாருக்கு சன்மானமாக வழங்கும் பணமான 74 இலட்சம் ரூபாவை மோசடி செய்துள்ளநிலையில் இடமாற்றம் பெற்றறு ஏறாவூர் பொலிஸ் நிலையத்தில் கடமையாற்றி வந்துள்ளார்.
+🟩
 
-இந்தநிலையில் இந்த மோசடி தொடர்பாக பொலன்னறுவை விசேட குற்றப் புலன்விசாரணைப் பிரிவினர் விசாரணைகளை மேற்கொண்டுவந்தனர். அதனடிப்படையில், இவரை கடந்த 18 ம் திகதி கைது செய்து பொலன்னறுவை நீதிமன்றில் ஆஜர்படுத்தப்பட்டார். நீதிமன்ற உத்தரவின் பிரகாரம் பிணையில் விடுவிக்கப்பட்டார்.
+The Eravur police said that a police sauce at the Eravur police station was suspended from work on Friday (21).
 
-இவ்வாறு பிணையில் வெளிவந்தவரை உடனடியாக பணியில் இருந்து பொலிஸ் திணைக்களம் இடைநீக்கம் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In 2021, the Police Sahant was on duty at the Polonnaruwa Police Station at the Transport Division. There, he has been deployed at the Eravur police station after being transferred to the police.
+
+In this context, the Special Criminal Investigation Department is conducting investigations into the fraud. Accordingly, he was arrested on the 18th and produced before the Polonnaruwa court.. He was released on bail according to the court order.
+
+Police said the police department had been suspended from work immediately.
 
 ◼️
 
 [Data](articles/ab3de683.json)
+
+[Extended Data](ext_articles/ab3de683.ext.json)
 
 ---
 
@@ -2389,51 +2429,5 @@ HNBA and HNBGI celebrate partnership with HNB at Golden Awards 2024
 [Data](articles/a2371d5c.json)
 
 [Extended Data](ext_articles/a2371d5c.ext.json)
-
----
-
-### Three Sinha Industries announces Gold Sponsorship for DS Senanayake College Rugby Team
-
-*2024-06-23 04:44:00* · [`islandlk`](http://island.lk/three-sinha-industries-announces-gold-sponsorship-for-ds-senanayake-college-rugby-team/) · `en`
-
-Roller door manufacturer, Three Sinha Industries Pvt. Ltd., recently announced its Gold Sponsorship for the rugby team of D. S. Senanayake College in Colombo for the year 2024. Three Sinha Group’s Managing Director, Manjula Ariyakumara, led D. S. Senanayake College’s Rugby Team as captain in 1987. His brothers, Thushara Chandana Kumara and Mahesh Kumara, followed in his footsteps, captaining the Team in 1989 and 1994, respectively. Continuing this legacy, Manjula Ariyakumara’s son, Devin Ariyakumara, captained the team in 2012, further strengthening the bond between his generation and the Team.
-
-Three Sinha Group MD Manjula Ariyakumara said that he had nurtured a passion for rugby from a young age and had the honour of supporting DS Senanayake College’s Rugby Team for many years.
-
-SLGJA, Gold Sponsor of the Ratnapura International Gem and Jewellery Show
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/ada8202b.json)
-
-[Extended Data](ext_articles/ada8202b.ext.json)
-
----
-
-### 2024 Industrial Exhibition: Fongula from a schoolgirl
-
-*2024-06-23 03:25:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gg7yr3j1do) · `si`
-
-The 2024 Industrial Exhibition in Colombo featured innovative creations like Malishaditha Jayakody's assembly machine for three-wheelers and motorcycle parts, aimed at boosting Sri Lanka's vehicle production. The event spanned 25 sectors, starting June 19, showcasing advancements across various industries.
-
-🟩
-
-None contains anything here. The engine found in an iron shop. '
-
-Many have also focused on the fomence of the Fonemula, which was created at the 2024 Industry Exhibition in the Colombo, Bandaranaike Memorial.
-
-Malishaditha Jayakody is designed to assemble three-wheelers and motorcycle spare parts.
-
-Sri Lanka's assembled vehicles in Sri Lanka, who produced leading companies, was organized to add his creation as encouraging.
-
-The exhibition included in 25 sectors which began on June 19 (June 23).
-
-◼️
-
-[Data](articles/a2dfa0d4.json)
-
-[Extended Data](ext_articles/a2dfa0d4.ext.json)
 
 ---

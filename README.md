@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-23 13:04:22**
+As of **2024-06-23 13:19:09**
 
 ## Newspaper Stats
 
-*Scraped **31,687** Articles*
+*Scraped **31,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,759
 economynextcom | 1,828
 dailyftlk | 1,927
-adalk | 2,771
-adaderanalk | 3,597
+adalk | 2,773
+adaderanalk | 3,598
 tamilmirrorlk | 3,723
 dailymirrorlk | 4,733
 virakesarilk | 4,912
-adaderanasinhalalk | 5,180
+adaderanasinhalalk | 5,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,686 (100.0%) of 31,687 articles have been extended.
+31,687 (100.0%) of 31,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-23 (Sunday)
+
+### Trump says foreigners who graduate from US colleges should get green cards
+
+*2024-06-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100044/trump-says-foreigners-who-graduate-from-us-colleges-should-get-green-cards) · `en`
+
+Republican presidential candidate Donald Trump in a podcast released on Thursday said that students graduating from U.S. colleges should get a green card to stay in the country, a proposal that runs counter to his hardline immigration stance.
+
+During the All-In podcast hosted by Silicon Valley tech investors, angel investor Jason Calacanis told Trump that the U.S. needs to be able to legally retain more high-skilled workers, a major issue for the tech industry.
+
+“Can you please promise us you will give us more ability to import the best and brightest around the world to America?” Calacanis said.
+
+“I do promise,” Trump said. “But I happen to agree, otherwise I wouldn’t promise... You graduate from a college, I think you should get automatically as part of your diploma a green card to be able to stay in this country and that includes junior colleges too.”
+
+...
+
+[Data](articles/ba900daa.json)
+
+---
+
+### ට්‍රම්ප් ගෙන් ග්‍රීන් කාඩ්
+
+*2024-06-23 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198055) · `si`
+
+මෙවර ජනාධිපතිවරණය ජයගෙන තමන් බලයට පත්වීමෙන් පසුව සංක්‍රමණික ප්‍රතිපත්ති ලිහිල් කරන බව හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා තිබේ.
+
+ඒ අනුව අමෙරිකානු විශ්වවිද්‍යාලයකින් උපාධිය ලැබූ විදෙස් සිසුන්ට "ග්‍රීන් කාඩ්" එනම් අමෙරිකානු ස්ථිර පදිංචිය ලබාදෙන බව ඔහු පවසා ඇත.
+
+සංක්‍රමණිකයින් සම්බන්ධව දැඩි ප්‍රතිපත්ති අනුගමනය කළ ට්‍රම්ප් මෙවැනි ප්‍රකාශයක් සිදුකිරීම විශේෂත්වයකි.
+
+එමගින් අමෙරිකාවේ අධ්‍යාපනය ලැබූ ඉන්දීය සහ චීන ජාතිකයින් නැවත සිය මව් රටවලට යෑම පාලනය කිරීමට ඔහු බලාපොරොත්තු වන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/e2c20c1b.json)
+
+---
 
 ### Sri Lanka women’s cricket team makes historic top five entry in ODI rankings
 
@@ -47,6 +83,8 @@ Meanwhile, several players of the Sri Lanka women’s team have also climbed up 
 ◼️
 
 [Data](articles/097bd542.json)
+
+[Extended Data](ext_articles/097bd542.ext.json)
 
 ---
 
@@ -700,6 +738,24 @@ Cummins is already a member of an illustrious group of seven players to have tak
 
 ---
 
+### දානයට අඹ හෝ බඩ ඉරිඟු වළඳන දෙහිවත්ත හයේ කොළණියේ පිහිටි සිරි වඩ්ඩනාරාමය
+
+*2024-06-23 09:16:29* · [`adalk`](https://www.ada.lk/breaking_news/දානයට-අඹ-හෝ-බඩ-ඉරිඟු-වළඳන-දෙහිවත්ත-හයේ-කොළණියේ-පිහිටි-සිරි-වඩ්ඩනාරාමය/11-410369) · `si`
+
+සේරුවිල ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් දෙහිවත්ත හයේ කොළණියේ පිහිටි සිරි වඩ්ඩනාරාමයට ඇතැම් දිනවල දානය නොලැබීම නිසා එහි වැඩ වැඩ වාසය කරන ස්වාමීන් වහන්සේලාට එවැනි දිනවලට බඩ ඉරිඟු හා අඹ වැළඳීමට සිදුවී තිබේ.
+
+විහාරාධිපති පූජ්‍ය කලවානේ කෝසල තිස්ස නැගෙනහිර පළාතේ උප ප්‍රධාන සංඝනායක හිමියෝ පවසන්නේ විහාරස්ථානය අවට සිටිනුයේ දායක පවුල් විසිපහක් පමණක් බවත් ඉන් වැඩි පිරිසක් දරිද්‍රතාවයට මුහුණ දී සිටියදී විහාරස්ථානයට දානය දීමට නොහැකි බවය .
+
+"මම සමග තවත් ශිෂ්‍ය භික්ෂූන් වහන්සේලා දෙනමක් මෙහි වැඩ වාසය කරනවා. සමහර දිනවලට යුද හමුදාවෙන් දානය දෙනවා දෙනවා. අවුරුදු දෙකක් විදුලි බිල ගෙවිමට නොහැකි වුණා. ඒ නිසා දැන් මාස තුනකට පෙර විදුලිය විසන්ධි කර දැමුවා.ලක්ෂ පහක හිඟ මුදල් තියෙනවා එහෙම  තියාගෙන තමයි අපි මේ බුද්ධ ශාසනය රැක ගැනීමට මහත් වෙහෙසක් දරන්නේ.
+
+දානය නොමැති දවස්වලට හේනකට ගිහිල්ලා බඩ ඉරැඟු කරල් කිහිපයක් ඉල්ලගෙන ඇවිල්ල තම්බගෙන දානයට වළඳනවා. එහෙම නැත්තං විහාරස්ථානයේ තියෙන අඹ ගහෙන් අඹ ගෙඩියක් දෙකක් කඩාගෙන දානයට සකස් කරගන්නවා. සමහර දිනවලට වට්ටක්කා තම්බා ගෙන දානය සකස් කර ගන්නවා" යැයි විහාරාධිපති හිමියෝ පැවැසුහ.
+
+...
+
+[Data](articles/e0ce3d50.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-06-23 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100035/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -783,6 +839,26 @@ This is due to this due to the Badulla Fort, the Railway Department said.
 [Data](articles/b0646b7a.json)
 
 [Extended Data](ext_articles/b0646b7a.ext.json)
+
+---
+
+### පිල්ලෙයාන්ගේ පක්ෂයේ සහාය ජනපතිට
+
+*2024-06-23 08:46:35* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලෙයාන්ගේ-පක්ෂයේ-සහාය-ජනපතිට/11-410367) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට තම පක්ෂයේ සහාය ලබාදෙන බව ටී.එම්.වී.පී. පක්ෂයේ නායක රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් මහතා පැවසිය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ටී.එම්.වී.පී. පක්ෂයේ නායක සිවනේසතුරෙයි චන්ද්‍රකාන්තන් මහතා ඇතුළු පාක්ෂිකයින් අතර හමුවක් අද (22) මඩකලපුවේ පිහිටි එම පක්ෂ මුලස්ථානයේ දී පැවැත්වුණු අතර එහිදි මේ බව සඳහන් කෙරිනි.
+
+නැගෙනහිර පළාත සංවර්ධනය කිරීම සඳහා වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සැලැස්ම සාර්ථක කර ගැනීමට සහාය ලබාදුනහොත් පසෙන් යැපෙන නැගෙනහිර ජනතාවට දෙපයින් නැඟී සිටීමට අවස්ථාව හිමිවන බවද සිවනේසතුරෙයි චන්ද්‍රකාන්තන් මහතා මෙහිදී පැවසීය.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රටේ ආර්ථිකය ගොඩනගන අතරම ජනවාර්ගික ප්‍රශ්නයටද ස්ථීර සාර විසඳුමක් ලබා දෙන බවයි. ඒ වෙනුවෙන් සියලුදෙනා එක්විය යුතු බව පැවසු ජනාධිතිවරයා ඉදිරි වසර 05 තුළ නැගෙනහිර පළාත පුළුල් සංවර්ධනයකට ගෙන ඒමේ අභියෝගය තමා භාරගන්නා බවද අවධාරණය කළේය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේ ද පැවසීය,
+
+...
+
+[Data](articles/f66a4f6a.json)
 
 ---
 
@@ -2177,97 +2253,5 @@ The Police Headquarters of the Police Headquarters is said to take measures only
 [Data](articles/05479cd5.json)
 
 [Extended Data](ext_articles/05479cd5.ext.json)
-
----
-
-### Sheikh Hasina on an official visit to India
-
-*2024-06-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198024) · `si`
-
-Bangladesh's PM Sheikh Hasina visits India, marking Indian PM Narendra Modi's first meeting with a foreign leader since his third term. Discussions focus on energy, trade, and security cooperation.
-
-🟩
-
-The Prime Minister of Bangladesh has arrived on a official visit to India.
-
-The Prime Minister of Bangladesh has welcomed the Prime Minister of India.
-
-Indian Prime Minister Narendra Modi comes to power for the third time, the first visit of a foreign leader.
-
-According to foreign media reports, bilateral discussions have been held between the two leaders of the Heads of State for energy, trade and security cooperation.
-
-◼️
-
-[Data](articles/d17e3796.json)
-
-[Extended Data](ext_articles/d17e3796.ext.json)
-
----
-
-### Comments by Sri Lanka President, Justice Minister, intimidates judiciary: Lawyers collective
-
-*2024-06-22 16:05:00* · [`economynextcom`](https://economynext.com/comments-by-sri-lanka-president-justice-minister-intimidates-judiciary-lawyers-collective-169026/) · `en`
-
-ECONOMYNEXT – A recent statement by President Ranil Wickremesinghe over a Supreme Court decision against a planned gender equality law and comments by Justice Minister Wijedasa Rajapakse also in parliament amounts to intimidation of the judiciary, a lawyer’s grouping has said.
-
-“The President, Minister of Justice, Minister of Education are representatives of the entire Executive,” Sri Lanka’s Lawyers Collective said in a statement.
-
-“The President also exercises a critically important Constitutional power and responsibility in appointing judges to our highest judicial forum- the Supreme Court and the Minister of Justice controls resources to the judiciary.”
-
-“Such high executive office making insidious sweeping remarks about the judiciary using parliamentary privilege is a clear abuse of their power. ”
-
-The President’s comments came after a Supreme Court decision on a law that attempts to end discrimination on the basis of gender.
-
-...
-
-[Data](articles/ce049d8b.json)
-
-[Extended Data](ext_articles/ce049d8b.ext.json)
-
----
-
-### Bus - Three Wheeler crashes
-
-*2024-06-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198023) · `si`
-
-A tragic accident in Kirindagama, Matale, resulted in the deaths of a mother and her 17-year-old daughter while traveling in a three-wheeler. The vehicle was en route from Wattegama to Anuradhapura, carrying members of the same family, including the parents and children. The victims have been identified as a 54-year-old woman and her daughter. The father and another son were hospitalized following the crash.
-
-🟩
-
-The mother and daughter died in a three-wheeler in Kirindagama, Matale.
-
-The accident had occurred when a three-wheeler was traveling from Wattegama to Anuradhapura.
-
-The mother, father, son and daughter were in the three-wheeler of the same family at the time of the accident.
-
-The deceased has been identified as 54-year-old mother of 54-year-old mother of Padamini and 17-year-old daughter.
-
-The father of the three-wheeler and his father was treated at the ICU of Matale District General Hospital.
-
-◼️
-
-[Data](articles/a577c3ee.json)
-
-[Extended Data](ext_articles/a577c3ee.ext.json)
-
----
-
-### Arun Siddharth appointed as the organizer of the Jaffna Mawatha Party
-
-*2024-06-22 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186702) · `ta`
-
-Arun Siddharth is now the Jaffna District Organizer and member of the Maubima Janata Party, having received his appointment letter from party leader Dilith Jayaweera on Saturday.
-
-🟩
-
-Arun Siddharth has been appointed as the Jaffna District Organizer and Member of the Maubima Janata Party.
-
-Arun Siddharth handed over the appointment letter of Maubima Janata Party leader Dilith Jayaweera on Saturday (22).
-
-◼️
-
-[Data](articles/5463763b.json)
-
-[Extended Data](ext_articles/5463763b.ext.json)
 
 ---

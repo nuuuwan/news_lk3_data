@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 12:09:26**
+As of **2024-06-24 11:54:36**
 
 ## Newspaper Stats
 
-*Scraped **31,833** Articles*
+*Scraped **31,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,791
-adaderanalk | 3,616
+adalk | 2,790
+adaderanalk | 3,613
 tamilmirrorlk | 3,747
 dailymirrorlk | 4,733
 virakesarilk | 4,931
@@ -26,135 +26,67 @@ adaderanasinhalalk | 5,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,829 (100.0%) of 31,833 articles have been extended.
+31,826 (100.0%) of 31,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### World first epilepsy device fitted in UK boy’s skull
-
-*2024-06-24 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100061/world-first-epilepsy-device-fitted-in-uk-boys-skull) · `en`
-
-A boy with severe epilepsy has become the first patient in the world to trial a new device fitted in their skull to control seizures.
-
-The neurostimulator, which sends electrical signals deep into his brain, has reduced Oran Knowlson’s daytime seizures by 80%.
-
-His mother, Justine, told the BBC he was happier and had a “much better quality of life”.
-
-The surgery was carried out in October as part of a trial at Great Ormond Street Hospital in London when Oran - who is now 13 - was 12.
-
-Oran, from Somerset, has Lennox-Gastaut syndrome, a treatment-resistant form of epilepsy which he developed at the age of three.
-
-Since then he has suffered several daily seizures ranging from two dozen to hundreds.
-
-When we first spoke to Oran’s mum last autumn, prior to surgery, she explained how Oran’s epilepsy dominated his life: "It has robbed him of all of his childhood."
-
-She told us Oran had a range of different seizures, including those where he fell to the ground, shook violently, and lost consciousness.
-
-...
-
-[Data](articles/47bbe87f.json)
-
----
-
-### Robbery at the house of former cricketer
+### முன்னாள் கிரிக்கெட் வீரரின் வீட்டில் கொள்ளை
 
 *2024-06-24 11:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முன்னாள்-கிரிக்கெட்-வீரரின்-வீட்டில்-கொள்ளை/44-339317) · `ta`
 
-Thieves broke into the house of former cricketer Sasithra Senanayake in Kalgoda, stealing watches, laptops, machinery, gold, and cash. They disabled the security system and entered through a broken window. The incident was reported after the family found their return home with no electricity and an open front door.
+பன்னிபிட்டிய, கலல்கொட கிராமோதய மாவத்தையில் அமைந்துள்ள முன்னாள் கிரிக்கெட் வீரர் சசித்ர சேனாநாயக்கவின் வீட்டிற்குள் திருடர்கள் நுழைந்து பல சொத்துக்களை திருடிச் சென்றுள்ளதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
 
-🟩
+பெறுமதியான கைக்கடிகாரங்கள், மடி கணினிகள்,  இயந்திரங்கள், தங்கப் பொருட்கள் மற்றும் பணம் என்பன திருடப்பட்ட சொத்துக்களில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
 
-Talangama police say that thieves have entered the house of former cricketer Sasithra Senanayake in Kalgoda Gramodaya, Kalgoda, Pannipitiya.
+வீட்டிற்குள் நுழைந்த திருடர்கள் பாதுகாப்பு கமெரா அமைப்பின் சேமிப்புக் கருவியையும் எடுத்துச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
 
-Police said the stolen assets include watches, fold computers, machinery, gold items and money.
+சசித்ர சேனநாயக்கா மற்றும் அவரது குடும்பத்தினர் தேவைக்காக வீட்டை விட்டு வெளியேறிய போது, ​​தரைத்தளத்தில் உள்ள ஜன்னலை உடைத்து வீட்டிற்குள் நுழைந்து படுக்கையறையில் இருந்த அலுமாரியை உடைத்து அங்கிருந்த சொத்துக்களை திருடிச் சென்றுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
 
-Initial investigations by the police revealed that the thieves who entered the house had also taken the savings equipment of the security camera system.
-
-Police investigations revealed that when Sasitra Senanayake and his family left the house for the purpose, the window of the house had been broken into and broke into the bedroom and stole the property.
-
-The next night, when Sasitra and her family returned home, the electricity was cut off and the front door was open.. Subsequently a complaint has been lodged with the police.
+மறுநாள் இரவு   சசித்ராவும் அவரது குடும்பத்தினரும் வீடு திரும்பியபோது மின்சாரம் துண்டிக்கப்பட்டிருந்ததுடன் முன்பக்க கதவும் திறந்திருந்துள்ளது. அதனையடுத்தே பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/f175173d.json)
 
-[Extended Data](ext_articles/f175173d.ext.json)
-
 ---
 
-### Case against former President Sirisena fixed for ex parte trial
-
-*2024-06-24 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100060/case-against-former-president-sirisena-fixed-for-ex-parte-trial) · `en`
-
-The Colombo District Court has ordered for a case against former President Maithripala Sirisena to be heard ex parte.
-
-This order was issued when the case related to the injunction issued preventing the former President from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) was taken up this morning (24).
-
-However, this decision was reached as former President Maithripala Sirisena did not appear for the court proceedings.
-
-The case has been filed by Montague Sarathchandra, an executive committee member of the SLFP.
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-However, the former President resigned from the post of Chairman of the SLFP on May 12, following which the faction of the SLFP led by Sirisena appointed Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
-
-◼️
-
-[Data](articles/47a0c075.json)
-
----
-
-### The device that comes to the remedy of epilepsy
+### අපස්මාර රෝගයට පිළියමක් ලෙස එන උපකරණය
 
 *2024-06-24 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198085) · `si`
 
-An experimental device implanted in the head of an English patient with severe epilepsy allows doctors to communicate directly with the patient's brain, potentially improving quality of life. This marks a significant step forward in treating "Lennox-Gastaut Syndrome," a form of treatment-resistant epilepsy. The patient, who began experiencing symptoms around three years old, now sees improved outcomes thanks to this innovative technology.
+උග්‍ර අපස්මාර රෝගී තත්ත්වයෙන් පෙළෙන පිරිමි දරුවෙකුගේ හිසට නව උපකරණයක් සවිකර එම රෝගී තත්ත්වය පාලනය කිරීමේ අත්හදාබැලීමක් එංගලන්තයේ සිදුකර තිබේ.
 
-🟩
+එවැනි අත්හදාබැලීමකට මුහුණදුන් ලොව පළමු අපස්මාර රෝගියා වන්නේ ඕරන් නෝල්සන් නම් 13 හැවිරිදි එම දරුවා ය.
 
-In England, an experimental was to control the condition by installing a new device to the head of an acute epilepsy.
+Neurostimulator නම් එම උපකරණය මගින් රෝගියාගේ මොළය අභ්‍යන්තරයට විද්‍යුත් පණිවුඩ යැවිය හැකි බවත් එමගින් රෝගියා අසනීප වන වාර ගණන දහවල් කාලයේදී 80%ක් පමණ අඩුවී ඇති බව වෛද්‍යවරු පවසති.
 
-The first epileptic patient in the world is the world's first epilepsy.
+දැන් සිය දරුවාගේ ජීවිතය වඩා යහපත් වී ඇති බව එම දරුවාගේ මව පැවසුවා ය.
 
-The doctors say that the patient's brain can send e-messages in the innermost number of patient by the device.
-
-The mother of the child said that his child's life has been better than better.
-
-"Lennox-Gastaut Syndrome" is in the treatment-resistant epilepsy. He had first manipulated the disease around three years of age.
+"Lennox-Gastaut syndrome" නම් ප්‍රතිකාර-ප්‍රතිරෝධී අපස්මාර රෝගයෙන් එම දරුවා පෙළෙයි. ඔහුට වයස අවුරුදු තුනේදී පමණ එම රෝගය පළමුව වැළඳී තිබුණි.
 
 ◼️
 
 [Data](articles/dc4a78e8.json)
 
-[Extended Data](ext_articles/dc4a78e8.ext.json)
-
 ---
 
-### The planet that strikes the earth in 2038
+### 2038இல் பூமியைத் தாக்கும் கோள்
 
 *2024-06-24 11:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2038இல்-பூமியைத்-தாக்கும்-கோள்/175-339313) · `ta`
 
-In 2038, a significant planet threatens Earth, hitting it on July 12th, according to NASA. This prediction came from a workshop at Johns Hopkins University, where astronomers and military leaders discussed planetary defense strategies. The event could impact 72% of Earth, highlighting the need for plans to either destroy or divert the incoming planet.
+இன்னும் 14 ஆண்டுகளில், அதாவது ஜூலை 12, 2038 அன்று, ஒரு பெரிய கோள் ஒன்று பூமியைத் தாக்கக்கூடும் என நாசா நிறுவனம் தெரிவித்துள்ளது.
 
-🟩
+மேரிலாந்தில் உள்ள ஜான்ஸ் ஹாப்கின்ஸ் பல்கலைக்கழகத்தில் இயற்பியல் துறையுடன் இணைந்து பூமியை கோள்களில் இருந்து பாதுகாப்பது குறித்து இடம்பெற்ற விஷேட பட்டறையின் முடிவின் போதே நாசா நிறுவனம் இவ்வாறு தெரிவித்துள்ளது .
 
-In another 14 years, on July 12, 2038, a large planet could hit the earth, NASA said.
+இந்த பட்டறையில் வானியலாளர்கள், வானியற்பியல் வல்லுநர்கள் மற்றும் அமெரிக்க இராணுவத் துறைகளின் தலைவர்களும் பங்கேற்று கோள்கள் பற்றிய தங்களின் அறிவையும் தரவையும் பகிர்ந்து கொண்டனர்.
 
-NASA said this at the conclusion of a special workshop on the protection of Earth from planets at the University of Johns Hopkins in Maryland.
+இதன்போது பூமி அருகில் அவ்வப்போது கடந்து செல்லும் கோள்கள் மற்றும் அவற்றின் பாதைகளை கணினி மூலம் ஆய்வு செய்ததில், பூமிக்கு பாதிப்பை ஏற்படுத்தக்கூடிய பெரிய கோள் ஒன்று 2038 ஆம் ஆண்டு ஜூலை 12 ஆம் திகதி பூமியை நோக்கி வரும் என்றும், அது பூமியில் மோதும் சதவிகிதம் 72 % என்றும் நாசா நிறுவனம் தெரிவித்துள்ளது .
 
-Astronomers, astronomers and leaders of the US military departments participated in the workshop and shared their knowledge and data about planets.
-
-NASA said that a large planet that could affect the Earth, which was occasionally passing near the Earth, would come to Earth on July 12, 2038, and 72 % of the Earth's percentage.
-
-It is said that the US military commanders have pointed out the importance of building plans to destroy or change its path if the planet is attacking the earth.
-
-◼️
+...
 
 [Data](articles/3b2f8ac5.json)
-
-[Extended Data](ext_articles/3b2f8ac5.ext.json)
 
 ---
 
@@ -285,26 +217,6 @@ MP Waleboda stated that several rounds of diplomatic talks are scheduled to take
 [Data](articles/61774c22.json)
 
 [Extended Data](ext_articles/61774c22.ext.json)
-
----
-
-### Special delegation to leave for Russia to help repatriate ex-soldiers
-
-*2024-06-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100059/special-delegation-to-leave-for-russia-to-help-repatriate-ex-soldiers) · `en`
-
-MP Gamini Waleboda says that a special delegation will depart for Russia today (24) to arrange for the repatriation of Sri Lankan ex-military personnel fighting in the ongoing Russia-Ukraine war and for the related discussions.
-
-The parliamentarian further stated that a delegation comprising six members including the Defence Secretary and officials from the Ministry of Foreign Affairs are scheduled to leave for Russia.
-
-The official meeting between the Sri Lankan delegation and the representatives of the Russian government will be held in Moscow on Wednesday (26).
-
-These discussions are planned to include meetings with the Russian Deputy Minister of Defense in the morning and the Deputy Foreign Minister of Russia in the evening.
-
-MP Waleboda stated that several rounds of diplomatic talks are scheduled to take place during this visit.
-
-◼️
-
-[Data](articles/a43e1124.json)
 
 ---
 
@@ -543,24 +455,6 @@ The match between Scotland and Hungary, the match was a warm flavor, and Kevin S
 [Data](articles/c656ed78.json)
 
 [Extended Data](ext_articles/c656ed78.ext.json)
-
----
-
-### සීගිරිය වගේ ස්ථාන පෞද්ගලීකරණය කළ යුතුයි
-
-*2024-06-24 09:29:57* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-වගේ-ස්ථාන-පෞද්ගලීකරණය-කළ-යුතුයි/11-410389) · `si`
-
-මෙරට තුළ දෙස් විදෙස් සංචාරකයින් සංචාරය කරන පූජනීය ස්ථාන හැර, සීගිරිය වැනි  සංචාරක ස්ථාන පෞද්ගලිකකරණය කළ යුතුයි යැයි නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් පැවසූහ.
-
-උන්වහන්සේ මේ බව ප්‍රකාශ කර සිටියේ, අද පෙරවරුවේ නාමල් උයනේ පැවති මාධ්‍ය හමුවකදීය,
-
-"දෙස් විදෙස් සංචාරකයෝ යන පූජනීය ස්ථාන හැර,  සංචාරක ස්ථාන පවා පෞද්ගලිකකරණය කළ යුතුයි. සීගිරියට යන සුද්ධන්ට හරියට වැසිකිලි පහසුකමක්වත් නෑ, කෝටි ගණනින් ටිකට් කඩනවා, ඇත්ත කථාව ඒක, වාහනයක් නවත්වන්න තැනක් නෑ.
-
-රට වටේම සුද්දන්ගේ ඉහ මොළ හූරාගෙන කන තත්වයක් තියෙන්නේ. සුද්දෝ ඒන්නේ හෝටල් වල ගිහින් සැප විඳලා ෆන් අරන් යන්න නෙමෙයි. මේ රටේ තියෙන පාරිසරික, ‌ඓතිහාසික, භූවිද්‍යාත්මක තැන් බලන්න එන්නේ. ඒ මිනිස්සුන්ට ආකර්ෂණයක් වෙන විදිහට සංචාරක අමාත්‍යංශයට, සංචාරක මණ්ඩලයට වගකීමක් තියෙනවා ඒ අවශ්‍යය කරන දේ කරන්න.
-
-...
-
-[Data](articles/1f5640d0.json)
 
 ---
 
@@ -2247,5 +2141,103 @@ Audit report contains only no technical properties or specialist in charge of th
 [Data](articles/2eeb5805.json)
 
 [Extended Data](ext_articles/2eeb5805.ext.json)
+
+---
+
+### Student joint venture;Session
+
+*2024-06-23 16:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-தடுத்து-வைப்பு/175-339292) · `ta`
+
+Five youths were arrested in Nugegoda for allegedly kidnapping a 17-year-old girl from Hanwella. The victim, Poson Poshiah, claimed she was forced onto a motorcycle and taken to a crematorium. Investigations are ongoing.
+
+🟩
+
+Nugegoda police said that five youths were arrested on Saturday (22) on charges of abducting a 17 -year -old schoolgirl in Hanwella, Embulagama area.
+
+Ivarayar, aged 21 to 24, from Kaduwela, Navagamuwa area, has been arrested.
+
+Poson Poshiah, who was abused, went to Annadhanam on Friday morning (Friday 21) and went to meet her boyfriend claiming to go to the bookstore.
+
+The victim has lodged a complaint that the student had forcibly transported the student who had returned home and had been forcibly loaded with a motorcycle and took him to a crematorium in Jaltara.
+
+It is reported that five persons arrested have been detained and investigations are being carried out.
+
+◼️
+
+[Data](articles/83a47b50.json)
+
+[Extended Data](ext_articles/83a47b50.ext.json)
+
+---
+
+### Investigations into the two persons identify the two persons who came to the Chamuditha resident of Chamuditha
+
+*2024-06-23 16:42:14* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-පදිංචි-නිවාස-සංකීර්ණය-අසලට-ආ-පුද්ගලයන්--දෙදෙනා-හඳුනා-ගැනීමට-සීසීටීවී-දර්ශන-ඔස්සේ-විමර්ශන/11-410380) · `si`
+
+Chamuditha Samarawickrema investigates two unknown individuals who visited the Cambreetge Court Housing Complex. The Piliyandala Police were alerted but couldn't confirm their intentions as they didn't know the residents. The duo refused to reveal their names, attempted to record a motorcycle's license plate, and were armed. This incident recalls a previous assault on Samarawickrema's home. Investigations continue to uncover their identities and motives.
+
+🟩
+
+Veteran journalist Chamuditha Samarawickrema is conducting further investigations to identify the two unidentified persons in the Cambreetge Court Housing Complex.
+
+A police officer said that the Piliyandala Police said that the Piliyandala police said that the main entrance was taken to the Piliyandala Police.
+
+According to a statement, the officer said that when the two people arrived at the main entrance, the official said that no person had no idea whether they were going to the house they were going to the house.
+
+The two people were able to allow the name of anyone in the housing complex, and after he said that they could not allow it to be allowed to enter and had the mobile of the motorbike when they tried to record the registration number of the motorcycle.A police officer said that it was not possible to write the registration number of the motorcycle due to the telephone.
+
+...
+
+[Data](articles/499be553.json)
+
+[Extended Data](ext_articles/499be553.ext.json)
+
+---
+
+### India exam chief sacked after outcry over marks
+
+*2024-06-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100048/india-exam-chief-sacked-after-outcry-over-marks) · `en`
+
+The head of India’s National Testing Agency (NTA) has been dismissed following accusations of irregularities in recent exams for higher education.
+
+The government has also appointed a committee to recommend reforms in the fiercely competitive process.
+
+There have been calls to rerun a medical entrance test after thousands of candidates secured unusually high marks, prompting protests over alleged cheating.
+
+The National Eligibility Cum Entrance Test (NEET) is the gateway to studying medicine in India.
+
+Millions of students sit the exam every year, but only a small percentage get good enough marks to secure a placement.
+
+The results announced on 4 June meant that even high-scorers found it difficult to do so.
+
+Since then, the exam has come under scrutiny for reasons ranging from errors in the question paper to unwarranted grace marks (compensatory marks) and fraud.
+
+Earlier this month federal Education Minister Dharmendra Pradhan admitted that “some irregularities” had come to light.
+
+...
+
+[Data](articles/8bc3cf5f.json)
+
+[Extended Data](ext_articles/8bc3cf5f.ext.json)
+
+---
+
+### Public schools notices
+
+*2024-06-23 16:22:56* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පාසල්වලට-නිවාඩු-දී-නෑ/11-410379) · `si`
+
+The Ministry of Education announced that all government schools will open as usual today (24), debunking rumors of closure. They urged against believing unofficial announcements, emphasizing the importance of relying only on official sources.
+
+🟩
+
+The Ministry of Education says that all government schools will be held today (24). The Ministry stated that this was due to the propaganda that a falsehood was given to three days from today (24).
+
+The Ministry of Technology also stated that the Ministry of Education does not be deceived to propaganda other than the official announcement.
+
+◼️
+
+[Data](articles/c4989d5e.json)
+
+[Extended Data](ext_articles/c4989d5e.ext.json)
 
 ---

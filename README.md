@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 11:54:36**
+As of **2024-06-24 12:19:24**
 
 ## Newspaper Stats
 
-*Scraped **31,829** Articles*
+*Scraped **31,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,80 +13,204 @@ dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
-economynextcom | 1,830
+economynextcom | 1,834
 dailyftlk | 1,942
-adalk | 2,790
-adaderanalk | 3,613
-tamilmirrorlk | 3,747
+adalk | 2,792
+adaderanalk | 3,616
+tamilmirrorlk | 3,748
 dailymirrorlk | 4,733
 virakesarilk | 4,931
-adaderanasinhalalk | 5,210
+adaderanasinhalalk | 5,211
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,826 (100.0%) of 31,829 articles have been extended.
+31,833 (100.0%) of 31,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### முன்னாள் கிரிக்கெட் வீரரின் வீட்டில் கொள்ளை
+### பழ நுகர்வு இலங்கையில் அதிகரிப்பு
+
+*2024-06-24 11:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழ-நுகர்வு-இலங்கையில்-அதிகரிப்பு/175-339320) · `ta`
+
+2023 ஆம் ஆண்டில் இலங்கையில் பழ நுகர்வு 12.8 மில்லியன் மெட்ரிக் தொன்களாக (1,283,039 மெட்ரிக் தொன்) அதிகரித்துள்ளது என விவசாயத் திணைக்கள  தகவல்கள் தெரிவிக்கின்றன.
+
+இந்நாட்டின் வருடாந்தப் பழங்களின் தேவை 19.6 மில்லியன் மெட்ரிக் தொன்களாகும். (196,9371 மெட்ரிக் தொன்). 2023ஆம் ஆண்டு பழ உற்பத்தி அதிகரிப்பைப் பார்க்கும் போது வாழை, மா, அன்னாசி, பப்பாளி போன்றவற்றின் உற்பத்தி அதிகரித்துள்ளது என விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
+
+இது தவிர, 2023 ஆம் ஆண்டில் பழங்களின் ஏற்றுமதியும் அதிகரித்துள்ளது. அதன்படி, 38,201 மெட்ரிக் தொன் பழங்கள் ஏற்றுமதி செய்யப்பட்டுள்ளன.
+
+2027-ம் ஆண்டுக்குள் வாழை உற்பத்தி ஹெக்டேருக்கு 19.5 மெட்ரிக் தொன்னாகவும், மா உற்பத்தியை 9.5 மெட்ரிக் தொன்னாகவும், பப்பாளி 45 மெட்ரிக் தொன்னாகவும், அன்னாசி 14 மெட்ரிக் தொன்னாகவும், ஆரஞ்சு பழத்தை 30 மெட்ரிக் தொன்னாகவும் உயர்த்த திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/2ae3cdc3.json)
+
+---
+
+### ව්‍යාජ මැණිකක් විකුණන්න ගිය දෙදෙනෙකුට සිදුවූ දේ
+
+*2024-06-24 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198086) · `si`
+
+අධික වටිනාකමකින් යුත් මැණික් ගලක් බවට අඟවමින් ව්‍යාජ පාෂාණයක් අලෙවිකිරීමට සූදානම් වු පුද්ගලයින් දෙදෙනෙකු ආණමඩුව පොලීසිය විසින් ඊයේ (23) රාත්‍රී අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් දෙදෙනා ආණමඩුව නගරයේ ව්‍යාපාරීකයෙකුට එම පාශානය රුපියල් කෝටියක විකිණීමට උත්සාහ දරා තිබුණි.
+
+ඒ සම්බන්ධයෙන් සැකසිතු අදාළ ව්‍යාපාරිකයා ඒ සම්බන්ධයෙන් පොලීසිය දැනුම්වත් කර තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ආණමඩුව පරමාකන්ද ගම්මානයේ පදිංචි අවුරුදු 34 හා 38 හැවිරිදි විවිධ ජාවාරම්වලට සම්බන්ධ බවට සැකකරන පුද්ගලයින් දෙදෙනෙකි.
+
+ව්‍යාපාරිකයාට පැමිණෙන ලෙස දන්වා තිබු ස්ථාන කිහිපයක් මඟ හරිමින් පසුව නවගත්තේගම මාර්ගයේ තෙන්නන්කුරියාව ප්‍රදේශයෙදී අදාළ මැණික් ගල පෙන්වා මුදල් පැහැර ගැනිමට සැරසිමත් සමගම ආසන්නයේ සිටි පොලිස් නිලධාරින් මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/2a7982df.json)
+
+---
+
+### World first epilepsy device fitted in UK boy’s skull
+
+*2024-06-24 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100061/world-first-epilepsy-device-fitted-in-uk-boys-skull) · `en`
+
+A boy with severe epilepsy has become the first patient in the world to trial a new device fitted in their skull to control seizures.
+
+The neurostimulator, which sends electrical signals deep into his brain, has reduced Oran Knowlson’s daytime seizures by 80%.
+
+His mother, Justine, told the BBC he was happier and had a “much better quality of life”.
+
+The surgery was carried out in October as part of a trial at Great Ormond Street Hospital in London when Oran - who is now 13 - was 12.
+
+Oran, from Somerset, has Lennox-Gastaut syndrome, a treatment-resistant form of epilepsy which he developed at the age of three.
+
+Since then he has suffered several daily seizures ranging from two dozen to hundreds.
+
+When we first spoke to Oran’s mum last autumn, prior to surgery, she explained how Oran’s epilepsy dominated his life: "It has robbed him of all of his childhood."
+
+She told us Oran had a range of different seizures, including those where he fell to the ground, shook violently, and lost consciousness.
+
+...
+
+[Data](articles/47bbe87f.json)
+
+[Extended Data](ext_articles/47bbe87f.ext.json)
+
+---
+
+### Robbery at the house of former cricketer
 
 *2024-06-24 11:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முன்னாள்-கிரிக்கெட்-வீரரின்-வீட்டில்-கொள்ளை/44-339317) · `ta`
 
-பன்னிபிட்டிய, கலல்கொட கிராமோதய மாவத்தையில் அமைந்துள்ள முன்னாள் கிரிக்கெட் வீரர் சசித்ர சேனாநாயக்கவின் வீட்டிற்குள் திருடர்கள் நுழைந்து பல சொத்துக்களை திருடிச் சென்றுள்ளதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+Thieves broke into the house of former cricketer Sasithra Senanayake in Kalgoda, stealing watches, laptops, machinery, gold, and cash. They disabled the security system and entered through a broken window. The incident was reported after the family found their return home with no electricity and an open front door.
 
-பெறுமதியான கைக்கடிகாரங்கள், மடி கணினிகள்,  இயந்திரங்கள், தங்கப் பொருட்கள் மற்றும் பணம் என்பன திருடப்பட்ட சொத்துக்களில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வீட்டிற்குள் நுழைந்த திருடர்கள் பாதுகாப்பு கமெரா அமைப்பின் சேமிப்புக் கருவியையும் எடுத்துச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+Talangama police say that thieves have entered the house of former cricketer Sasithra Senanayake in Kalgoda Gramodaya, Kalgoda, Pannipitiya.
 
-சசித்ர சேனநாயக்கா மற்றும் அவரது குடும்பத்தினர் தேவைக்காக வீட்டை விட்டு வெளியேறிய போது, ​​தரைத்தளத்தில் உள்ள ஜன்னலை உடைத்து வீட்டிற்குள் நுழைந்து படுக்கையறையில் இருந்த அலுமாரியை உடைத்து அங்கிருந்த சொத்துக்களை திருடிச் சென்றுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+Police said the stolen assets include watches, fold computers, machinery, gold items and money.
 
-மறுநாள் இரவு   சசித்ராவும் அவரது குடும்பத்தினரும் வீடு திரும்பியபோது மின்சாரம் துண்டிக்கப்பட்டிருந்ததுடன் முன்பக்க கதவும் திறந்திருந்துள்ளது. அதனையடுத்தே பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Initial investigations by the police revealed that the thieves who entered the house had also taken the savings equipment of the security camera system.
+
+Police investigations revealed that when Sasitra Senanayake and his family left the house for the purpose, the window of the house had been broken into and broke into the bedroom and stole the property.
+
+The next night, when Sasitra and her family returned home, the electricity was cut off and the front door was open.. Subsequently a complaint has been lodged with the police.
 
 ◼️
 
 [Data](articles/f175173d.json)
 
+[Extended Data](ext_articles/f175173d.ext.json)
+
 ---
 
-### අපස්මාර රෝගයට පිළියමක් ලෙස එන උපකරණය
+### Case against former President Sirisena fixed for ex parte trial
+
+*2024-06-24 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100060/case-against-former-president-sirisena-fixed-for-ex-parte-trial) · `en`
+
+The Colombo District Court has ordered for a case against former President Maithripala Sirisena to be heard ex parte.
+
+This order was issued when the case related to the injunction issued preventing the former President from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) was taken up this morning (24).
+
+However, this decision was reached as former President Maithripala Sirisena did not appear for the court proceedings.
+
+The case has been filed by Montague Sarathchandra, an executive committee member of the SLFP.
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+However, the former President resigned from the post of Chairman of the SLFP on May 12, following which the faction of the SLFP led by Sirisena appointed Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
+
+◼️
+
+[Data](articles/47a0c075.json)
+
+[Extended Data](ext_articles/47a0c075.ext.json)
+
+---
+
+### The device that comes to the remedy of epilepsy
 
 *2024-06-24 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198085) · `si`
 
-උග්‍ර අපස්මාර රෝගී තත්ත්වයෙන් පෙළෙන පිරිමි දරුවෙකුගේ හිසට නව උපකරණයක් සවිකර එම රෝගී තත්ත්වය පාලනය කිරීමේ අත්හදාබැලීමක් එංගලන්තයේ සිදුකර තිබේ.
+An experimental device implanted in the head of an English patient with severe epilepsy allows doctors to communicate directly with the patient's brain, potentially improving quality of life. This marks a significant step forward in treating "Lennox-Gastaut Syndrome," a form of treatment-resistant epilepsy. The patient, who began experiencing symptoms around three years old, now sees improved outcomes thanks to this innovative technology.
 
-එවැනි අත්හදාබැලීමකට මුහුණදුන් ලොව පළමු අපස්මාර රෝගියා වන්නේ ඕරන් නෝල්සන් නම් 13 හැවිරිදි එම දරුවා ය.
+🟩
 
-Neurostimulator නම් එම උපකරණය මගින් රෝගියාගේ මොළය අභ්‍යන්තරයට විද්‍යුත් පණිවුඩ යැවිය හැකි බවත් එමගින් රෝගියා අසනීප වන වාර ගණන දහවල් කාලයේදී 80%ක් පමණ අඩුවී ඇති බව වෛද්‍යවරු පවසති.
+In England, an experimental was to control the condition by installing a new device to the head of an acute epilepsy.
 
-දැන් සිය දරුවාගේ ජීවිතය වඩා යහපත් වී ඇති බව එම දරුවාගේ මව පැවසුවා ය.
+The first epileptic patient in the world is the world's first epilepsy.
 
-"Lennox-Gastaut syndrome" නම් ප්‍රතිකාර-ප්‍රතිරෝධී අපස්මාර රෝගයෙන් එම දරුවා පෙළෙයි. ඔහුට වයස අවුරුදු තුනේදී පමණ එම රෝගය පළමුව වැළඳී තිබුණි.
+The doctors say that the patient's brain can send e-messages in the innermost number of patient by the device.
+
+The mother of the child said that his child's life has been better than better.
+
+"Lennox-Gastaut Syndrome" is in the treatment-resistant epilepsy. He had first manipulated the disease around three years of age.
 
 ◼️
 
 [Data](articles/dc4a78e8.json)
 
+[Extended Data](ext_articles/dc4a78e8.ext.json)
+
 ---
 
-### 2038இல் பூமியைத் தாக்கும் கோள்
+### තවත් ඇමතිවරයෙක් ජනාධිපති ඉදිරියේදී  දිවුරුම් දෙයි
+
+*2024-06-24 11:21:39* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-ඇමතිවරයෙක්-ජනාධිපති-ඉදිරියේදී--දිවුරුම්-දෙයි/11-410392) · `si`
+
+වෙළෙඳ හා පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස මඩකලපුව දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුව නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී සතාසිවම් වියාලේන්ද්‍රන් මහතා ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේදී  දිවුරුම් දී ඇති බව වාර්තා වේ.
+
+මීට අමතරව සතාසිවම් වියාලේන්ද්‍රන් මහතා පාර්ලිමේන්තු මහජන පෙත්සම් පිළිබඳ කාරක සභාවේ සහ, වෙළඳ, වාණිජ හා ආහාර සුරක්ෂිතතා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ නියෝජිතයෙක් ලෙසද කටයුතු කරයි.
+
+◼️
+
+[Data](articles/e3e449f0.json)
+
+---
+
+### The planet that strikes the earth in 2038
 
 *2024-06-24 11:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2038இல்-பூமியைத்-தாக்கும்-கோள்/175-339313) · `ta`
 
-இன்னும் 14 ஆண்டுகளில், அதாவது ஜூலை 12, 2038 அன்று, ஒரு பெரிய கோள் ஒன்று பூமியைத் தாக்கக்கூடும் என நாசா நிறுவனம் தெரிவித்துள்ளது.
+In 2038, a significant planet threatens Earth, hitting it on July 12th, according to NASA. This prediction came from a workshop at Johns Hopkins University, where astronomers and military leaders discussed planetary defense strategies. The event could impact 72% of Earth, highlighting the need for plans to either destroy or divert the incoming planet.
 
-மேரிலாந்தில் உள்ள ஜான்ஸ் ஹாப்கின்ஸ் பல்கலைக்கழகத்தில் இயற்பியல் துறையுடன் இணைந்து பூமியை கோள்களில் இருந்து பாதுகாப்பது குறித்து இடம்பெற்ற விஷேட பட்டறையின் முடிவின் போதே நாசா நிறுவனம் இவ்வாறு தெரிவித்துள்ளது .
+🟩
 
-இந்த பட்டறையில் வானியலாளர்கள், வானியற்பியல் வல்லுநர்கள் மற்றும் அமெரிக்க இராணுவத் துறைகளின் தலைவர்களும் பங்கேற்று கோள்கள் பற்றிய தங்களின் அறிவையும் தரவையும் பகிர்ந்து கொண்டனர்.
+In another 14 years, on July 12, 2038, a large planet could hit the earth, NASA said.
 
-இதன்போது பூமி அருகில் அவ்வப்போது கடந்து செல்லும் கோள்கள் மற்றும் அவற்றின் பாதைகளை கணினி மூலம் ஆய்வு செய்ததில், பூமிக்கு பாதிப்பை ஏற்படுத்தக்கூடிய பெரிய கோள் ஒன்று 2038 ஆம் ஆண்டு ஜூலை 12 ஆம் திகதி பூமியை நோக்கி வரும் என்றும், அது பூமியில் மோதும் சதவிகிதம் 72 % என்றும் நாசா நிறுவனம் தெரிவித்துள்ளது .
+NASA said this at the conclusion of a special workshop on the protection of Earth from planets at the University of Johns Hopkins in Maryland.
 
-...
+Astronomers, astronomers and leaders of the US military departments participated in the workshop and shared their knowledge and data about planets.
+
+NASA said that a large planet that could affect the Earth, which was occasionally passing near the Earth, would come to Earth on July 12, 2038, and 72 % of the Earth's percentage.
+
+It is said that the US military commanders have pointed out the importance of building plans to destroy or change its path if the planet is attacking the earth.
+
+◼️
 
 [Data](articles/3b2f8ac5.json)
+
+[Extended Data](ext_articles/3b2f8ac5.ext.json)
 
 ---
 
@@ -220,6 +344,28 @@ MP Waleboda stated that several rounds of diplomatic talks are scheduled to take
 
 ---
 
+### Special delegation to leave for Russia to help repatriate ex-soldiers
+
+*2024-06-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100059/special-delegation-to-leave-for-russia-to-help-repatriate-ex-soldiers) · `en`
+
+MP Gamini Waleboda says that a special delegation will depart for Russia today (24) to arrange for the repatriation of Sri Lankan ex-military personnel fighting in the ongoing Russia-Ukraine war and for the related discussions.
+
+The parliamentarian further stated that a delegation comprising six members including the Defence Secretary and officials from the Ministry of Foreign Affairs are scheduled to leave for Russia.
+
+The official meeting between the Sri Lankan delegation and the representatives of the Russian government will be held in Moscow on Wednesday (26).
+
+These discussions are planned to include meetings with the Russian Deputy Minister of Defense in the morning and the Deputy Foreign Minister of Russia in the evening.
+
+MP Waleboda stated that several rounds of diplomatic talks are scheduled to take place during this visit.
+
+◼️
+
+[Data](articles/a43e1124.json)
+
+[Extended Data](ext_articles/a43e1124.ext.json)
+
+---
+
 ### Disciplinary action against Fonseka
 
 *2024-06-24 10:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-339310) · `ta`
@@ -237,6 +383,24 @@ Mathuma Bandara said the party's executive committee would meet this week to dec
 [Data](articles/0f864c0f.json)
 
 [Extended Data](ext_articles/0f864c0f.ext.json)
+
+---
+
+### Sri Lanka appoints new state minister of trade and environment
+
+*2024-06-24 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-state-minister-of-trade-and-environment-169193/) · `en`
+
+ECONOMYNEXT – Sathasivam Viyalendiran has been appointed as Sri Lanka’s new state minister of trade and environment, the president’s media division said.
+
+“MP Sathasivam Viyalendiran took oath as the State Minister of Trade and Environment before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago.”
+
+Viyalendiran was elected to parliament through the Sri Lanka Podujana Peramuna (SLPP) party from the Batticaloa District.
+
+He previously has held the posts of media state minister and state minister of Backward Rural Areas Development and Promotion of Domestic Animal Husbandry and Minor Economic Crop Cultivation, under President Gotabaya Rajapaksa. (Colombo/June24/2024)
+
+◼️
+
+[Data](articles/2425b466.json)
 
 ---
 
@@ -323,6 +487,26 @@ Rajitha Senaratne said that I am not engaged in any talks with the government.
 [Data](articles/e0a76d1e.json)
 
 [Extended Data](ext_articles/e0a76d1e.ext.json)
+
+---
+
+### Sri Lanka’s Nation Lanka Finance delays private placement
+
+*2024-06-24 10:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-nation-lanka-finance-delays-private-placement-169186/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Nation Lanka Finance Plc said it was delaying a sale of its shares to pre-selected individuals due to various circumstances; and that the postponement was leading to an erosion of capital.
+
+“The continuous erosion of capital resulting from the delay has required further negotiations for additional capital to meet the minimum capital requirement from a strategic investor with the concurrence the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
+
+There was no finality or certainty on the conclusion of these discussions, the finance company said.
+
+“We are unable to make a further definitive statement in relation to the way forward with regard to the private placement of shares.”
+
+The company said a disclosure will be made when discussions result in ‘some form of definitive arrangement’.
+
+...
+
+[Data](articles/def98b78.json)
 
 ---
 
@@ -414,6 +598,28 @@ Following this, the leaders of the Rameswaram All Fisheries Association held an 
 
 ---
 
+### Sri Lanka rupee opens stronger at 305.30/50 to US dollar
+
+*2024-06-24 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-305-30-50-to-us-dollar-169177/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.30/50 to the US dollar on Monday, while bond yields were down, and stocks opened 0.31 percent up, dealers said.
+
+The rupee closed at 305.50/90 to the greenback on Thursday, ahead of a long weekend.
+
+In equities, Colombo’s All Share Price Index opened 37.44 points higher at 12,286 while the S&P SL20 of more liquid stocks opened up at 0.47 percent or 17.02 points to 3,627.
+
+A bond maturing on 15.12.2026 was quoted at 10.25/75, down from 10.35/60 percent.
+
+A bond maturing on 10.07.2028 was quoted at 11.25/50 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.05/15 percent, from 12.00/15 percent. (Colombo/Jun24/2024)
+
+◼️
+
+[Data](articles/273c5ba5.json)
+
+---
+
 ### Non-academic staff of schools launch trade union action
 
 *2024-06-24 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100057/non-academic-staff-of-schools-launch-trade-union-action) · `en`
@@ -455,6 +661,32 @@ The match between Scotland and Hungary, the match was a warm flavor, and Kevin S
 [Data](articles/c656ed78.json)
 
 [Extended Data](ext_articles/c656ed78.ext.json)
+
+---
+
+### Places like Sigiriya should be privatized
+
+*2024-06-24 09:29:57* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-වගේ-ස්ථාන-පෞද්ගලීකරණය-කළ-යුතුයි/11-410389) · `si`
+
+Ven. calls for privatization of sites like Sigiriya to enhance privacy for tourists, criticizing lack of facilities and corruption. He urges the tourism ministry to reduce waste and corruption, emphasizing the importance of preserving environmental, historical, and geological sites. Ven. advocates for systemic changes to prevent misuse of funds and ensure sustainable development.
+
+🟩
+
+Ven.
+
+He was speaking at a press conference held at Namal Uyana this morning,
+
+"Even tourist stations should be privacy except local and foreign tourists. The saudi to Sigiriya is no toilet facility, breaking crores, and the real story has no place to stop it.
+
+There is an enatory of the floor around the country. The white people go to hotels, not going to take the Fun. See the environmental, historic, historical and geological places in this country. The traveling ministry, the Tourist Board has a responsibility to do what is needed.
+
+Not stealing the money that Suddha has been drawn, but it must facilitate the association of the people to make the people to make up the methods of the people. We need to reduce waste, corruption and fraud to build this country. These should be stopped using political disciples. They want to provide jobs in foreign countries.
+
+...
+
+[Data](articles/1f5640d0.json)
+
+[Extended Data](ext_articles/1f5640d0.ext.json)
 
 ---
 
@@ -695,6 +927,24 @@ He added that several rounds of public duty talks are due to be held in general 
 [Data](articles/027ce260.json)
 
 [Extended Data](ext_articles/027ce260.ext.json)
+
+---
+
+### Central bank swaps symptomatic of Sri Lanka’s IMF return tickets and default
+
+*2024-06-24 06:54:00* · [`economynextcom`](https://economynext.com/central-bank-swaps-symptomatic-of-sri-lankas-imf-return-tickets-and-default-169124/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has been playing with swaps for some time and the agency’s 778 billion rupee forex loss in 2022 was directly related to swaps and other borrowings, which allows it to maintain an artificial policy rate.
+
+Central bank swaps along with other doctrines like portfolio balance channels, are the foundation of modern age-of-inflation forex crises, default, outmigration and sudden soaring poverty.
+
+As part of steps to prevent the next sovereign default by macro-economic policy, outlawing forex swaps will be a key measure that legislators can take.
+
+The Nick Leeson style losses came not only from swaps but also IMF borrowings taken during an earlier flexible inflation targeting crisis and borrowings from India through the Asian Clearing Union, which have since been converted to a term facility.
+
+...
+
+[Data](articles/08e81aef.json)
 
 ---
 
@@ -1965,279 +2215,5 @@ Subsequently, a man has been arrested on a complaint lodged by the mother of the
 [Data](articles/82ae196d.json)
 
 [Extended Data](ext_articles/82ae196d.ext.json)
-
----
-
-### Sri Lanka maintains a steadfast position on Gaza issue, says President Ranil
-
-*2024-06-23 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100049/sri-lanka-maintains-a-steadfast-position-on-gaza-issue-says-president-ranil) · `en`
-
-President Ranil Wickremesinghe reiterated Sri Lanka’s unwavering stance on the conflict in the Gaza Strip, emphasizing that Sri Lanka remains steadfast in supporting the establishment of the Palestinian state within five years.
-
-The President made these remarks during his participation in a special service held today (23) at the New Kathankudy Grand Jummah Mosque for the affected people of Gaza. The service was conducted by Maulavi Harith.
-
-In a significant display of solidarity, the New Kathankudy Grand Jummah Mosque donated ten million seven hundred and sixty-nine thousand four hundred and seventeen rupees (Rs. 10,769,417) to the “Children of Gaza” Fund, established under the President’s directives to support children affected by the conflicts in Gaza. Trustees of the mosque presented the donation cheque to the President during the ceremony.
-
-...
-
-[Data](articles/07daaf19.json)
-
-[Extended Data](ext_articles/07daaf19.ext.json)
-
----
-
-### 16 The raping of the raping of the rapidly raped the 20 hours and interrogates 48 hours
-
-*2024-06-23 17:22:46* · [`adalk`](https://www.ada.lk/breaking_news/16-හැවැරිදි-දියණිය-සමූහ-දූෂණය-කළ-8-දෙනා-පැය-48ක්-රඳවාගෙන-ප්‍රශ්න-කරයි/11-410382) · `si`
-
-A 16-year-old schoolgirl was raped by two youths, leading to her hospitalization. Arrested for questioning, the suspects include a married man aged 19 and another aged 21. The case involves the Hanwella and Ranala groups, with police investigations ongoing.
-
-🟩
-
-A 16-year-old schoolgirl was taken to the Homagama Courts and the two youths, who were arrested for rape and rape, was handed over to the Homagama Court and question the police.
-
-After considering the suspects to further question the suspects, the magistrate gave them such permission.
-
-The victims were presented to the Hanwella and Ranala, a group of youths from Hanwella and Ranala. The girl was hospitalized.
-
-Police investigations have revealed that she went to a friend's home to a school to go to a bookstore at the return of Poson Poshas with her little mother.
-
-Then thereafter, the girl was opened by a brand by a brand to the Hanwella junction and then wanted to talk to his girlfriend and was asked to take their girlfriend to where needed.
-
-Investigations have revealed that she had sex with her two and had sex with her and had sex with her.
-
-The youths were then opened her at the Attygalle Junction, police said.
-
-...
-
-[Data](articles/4b39dedf.json)
-
-[Extended Data](ext_articles/4b39dedf.ext.json)
-
----
-
-### Upcountry train services restored
-
-*2024-06-23 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198065) · `si`
-
-Train services resumed after a tree fell on the tracks between Ginger Oya and Galaboda stations. The Railway Department cleared the obstruction by cutting down the tree around 9 pm, restoring normal service.
-
-🟩
-
-The train services were restored due to the collapse of a tree inner tree this morning (23).
-
-The train was disrupted by the collapse of a large tree on the railway line between the Ginger Oya and Galaboda railway stations.
-
-As a result, the Railway Department took steps to restrict the rural road train.
-
-However, about 9 pm, however, the tree had taken steps to be cut off and restored the railway line, "said Ada Derana reporter.
-
-◼️
-
-[Data](articles/06ec4ee2.json)
-
-[Extended Data](ext_articles/06ec4ee2.ext.json)
-
----
-
-### Hakeem re -elected as the leader of the MU
-
-*2024-06-23 17:19:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-தலைவராக-ஹக்கீம்-மீண்டும்-தெரிவு/175-339295) · `ta`
-
-Rauf Hakeem was re-elected as the leader of the Sri Lanka Muslim Congress (SLMC) during its 31st conference, held at Hizbullah Hall, Kattankudi. The event saw the announcement of a 33-member high-level committee, including Mansur A Khadar as Deputy Secretary and MS Udumaleb as Deputy Organizer. The conference, organized by the party's deputy leader and former governor Hizbullah, attracted attendees from across the country, including 1500 deceased members commemorated in comments.
-
-🟩
-
-Parliamentarian Rauf Hakeem has been unanimously elected as the National Leader of the Sri Lanka Muslim Congress
-
-Sri Lanka Muslim Congress 31st Conference was held on Saturday (22) at Hizbullah Hall, Kattankudi. Rauf Hakeem has been elected as the national leader of the Muslim Congress.
-
-When the Sri Lanka Muslim Congress (SLMC) was inaugurated by the 31st convention of the Sri Lanka Muslim Congress. The party's anthem was then sung
-
-After this, the party's national leader again. The party's chairman Majeed announced that MP Rauf Hakeem was unanimously elected.
-
-Subsequently, the leader of the party, Rauf Hakeem presided over the convention and announced the 33 -member high -level faculty.
-
-Mansur A Khadar National Organizer as Deputy Secretary. S.. Florebel
-
-Former Eastern Provincial Minister MS Udumaleb as Deputy Organizer. Mubin as the National Policy Area Secretary
-
-Chairman Rauf Hakeem also announced 33 people, including Yahyagan as the Deputy Treasurer.
-
-...
-
-[Data](articles/7002d4f4.json)
-
-[Extended Data](ext_articles/7002d4f4.ext.json)
-
----
-
-### Sri Lanka opposition questions claims that IMF housing tax is only for kulaks
-
-*2024-06-23 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-questions-claims-that-imf-housing-tax-is-only-for-kulaks-169071/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s opposition has questioned claims made by government spokesmen that a tax on housing proposed in an International Monetary Fund deal is only limited to rich people but if as promised by President one house is exempt, it is welcome, legislator Harsha de Silva said.
-
-Sri Lanka President Ranil Wickremesinghe made a promise in parliament that the first house of a citizen will be excluded from the property tax.
-
-Related Sri Lanka to exempt one house from imputed rent wealth tax: President
-
-But opposition legislator Harsha de Silva pointed out that the IMF program documents clearly says taxes will be levied on owner occupied houses on ‘imputed taxes’, not second houses.
-
-Under current inland revenue laws, actual rent income from a second house is already captured as part of taxable income.
-
-The IMF document mentions a threshold value from which taxes will be exempt but not that a whole owner-occupied primary residence will be exempt.
-
-...
-
-[Data](articles/1eec3392.json)
-
-[Extended Data](ext_articles/1eec3392.ext.json)
-
----
-
-### Carthkaduwa a million
-
-*2024-06-23 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198064) · `si`
-
-President Ranil Wickremesinghe reaffirmed Sri Lanka's stability amidst Gaza conflicts during a special prayer event at the new Kattankudy Jumma Mosque. He initiated a donation drive for the mosque, aimed at providing aid to Gaza's children, presenting the "Trusted Moundiake" to him. The President participated in the prayers alongside devotees.
-
-🟩
-
-President Ranil Wickremesinghe said that the stability of Sri Lanka in the clashes on Gaza is never changed, he said.
-
-The President was addressing the special prayer engagement organized by the new Kattankudy Jumma Mosque today (23).
-
-Meanwhile, the check to donate the new Kattanki Grand Jumma Mosque, which was started by President Ranil Wickremesinghe to provide relief from President Ranil Wickremesinghe (CHILDREN OF GAZA Muslim) to provide relief to the children of the Gaza.The Trusted Moundiake was presented to the President.
-
-The President also joined the devotees participating in this special prayer.
-
-◼️
-
-[Data](articles/0d2ca44e.json)
-
-[Extended Data](ext_articles/0d2ca44e.ext.json)
-
----
-
-### Despite the pure drug, it is priced at 254 percent more than the average price
-
-*2024-06-23 17:00:21* · [`adalk`](https://www.ada.lk/breaking_news/පිලිකා-ඖෂධය-තිබියදී-එයම-සාමාන්‍ය-මිලට-වඩා-සියයට-254-මිලකට-මිලදි-ගෙන/11-410381) · `si`
-
-RituxiAb inj, despite being a pure drug, was found to be priced 254% above the average cost of 500mg, leading to significant losses for the government. An audit highlighted issues with 2250 vials labeled as Human Immunoglobulin, purchased under emergency conditions for $152 each, without a clear need for such procurement. The audit also pointed out lapses in ensuring the quality, safety, and authenticity of imported drugs, with the logistics company providing a certificate of exemption and naming an Indian producer. However, the audit report lacked technical details or a specialist in charge of the Aenic Committee.
-
-🟩
-
-RituxiAb inj, which provides for more than 10 months during the reign of former Health Minister Keheliya Rambukwella. The National Audit office says that due to the prices of 254% higher than the average price of 500mg, the government has taken a loss of Rs.
-
-The audit had revealed that 2250 vials from the vaccine vials as questionable by Human Imunoglobulin, which is US $ 152 under the Emergency Purchase of the Emergency.The Audit Report also states that this drug has no need to be compiled under the emergency purchase.
-
-Audit audit has revealed that the company has given a portion of the company to import quality, security and confirmed drugs. The logistics company had submitted a certificate of exemption and the name of India's producer in India.
-
-Audit report contains only no technical properties or specialist in charge of the Agenic Committee.Happened.
-
-◼️
-
-[Data](articles/2eeb5805.json)
-
-[Extended Data](ext_articles/2eeb5805.ext.json)
-
----
-
-### Student joint venture;Session
-
-*2024-06-23 16:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-தடுத்து-வைப்பு/175-339292) · `ta`
-
-Five youths were arrested in Nugegoda for allegedly kidnapping a 17-year-old girl from Hanwella. The victim, Poson Poshiah, claimed she was forced onto a motorcycle and taken to a crematorium. Investigations are ongoing.
-
-🟩
-
-Nugegoda police said that five youths were arrested on Saturday (22) on charges of abducting a 17 -year -old schoolgirl in Hanwella, Embulagama area.
-
-Ivarayar, aged 21 to 24, from Kaduwela, Navagamuwa area, has been arrested.
-
-Poson Poshiah, who was abused, went to Annadhanam on Friday morning (Friday 21) and went to meet her boyfriend claiming to go to the bookstore.
-
-The victim has lodged a complaint that the student had forcibly transported the student who had returned home and had been forcibly loaded with a motorcycle and took him to a crematorium in Jaltara.
-
-It is reported that five persons arrested have been detained and investigations are being carried out.
-
-◼️
-
-[Data](articles/83a47b50.json)
-
-[Extended Data](ext_articles/83a47b50.ext.json)
-
----
-
-### Investigations into the two persons identify the two persons who came to the Chamuditha resident of Chamuditha
-
-*2024-06-23 16:42:14* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-පදිංචි-නිවාස-සංකීර්ණය-අසලට-ආ-පුද්ගලයන්--දෙදෙනා-හඳුනා-ගැනීමට-සීසීටීවී-දර්ශන-ඔස්සේ-විමර්ශන/11-410380) · `si`
-
-Chamuditha Samarawickrema investigates two unknown individuals who visited the Cambreetge Court Housing Complex. The Piliyandala Police were alerted but couldn't confirm their intentions as they didn't know the residents. The duo refused to reveal their names, attempted to record a motorcycle's license plate, and were armed. This incident recalls a previous assault on Samarawickrema's home. Investigations continue to uncover their identities and motives.
-
-🟩
-
-Veteran journalist Chamuditha Samarawickrema is conducting further investigations to identify the two unidentified persons in the Cambreetge Court Housing Complex.
-
-A police officer said that the Piliyandala Police said that the Piliyandala police said that the main entrance was taken to the Piliyandala Police.
-
-According to a statement, the officer said that when the two people arrived at the main entrance, the official said that no person had no idea whether they were going to the house they were going to the house.
-
-The two people were able to allow the name of anyone in the housing complex, and after he said that they could not allow it to be allowed to enter and had the mobile of the motorbike when they tried to record the registration number of the motorcycle.A police officer said that it was not possible to write the registration number of the motorcycle due to the telephone.
-
-...
-
-[Data](articles/499be553.json)
-
-[Extended Data](ext_articles/499be553.ext.json)
-
----
-
-### India exam chief sacked after outcry over marks
-
-*2024-06-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100048/india-exam-chief-sacked-after-outcry-over-marks) · `en`
-
-The head of India’s National Testing Agency (NTA) has been dismissed following accusations of irregularities in recent exams for higher education.
-
-The government has also appointed a committee to recommend reforms in the fiercely competitive process.
-
-There have been calls to rerun a medical entrance test after thousands of candidates secured unusually high marks, prompting protests over alleged cheating.
-
-The National Eligibility Cum Entrance Test (NEET) is the gateway to studying medicine in India.
-
-Millions of students sit the exam every year, but only a small percentage get good enough marks to secure a placement.
-
-The results announced on 4 June meant that even high-scorers found it difficult to do so.
-
-Since then, the exam has come under scrutiny for reasons ranging from errors in the question paper to unwarranted grace marks (compensatory marks) and fraud.
-
-Earlier this month federal Education Minister Dharmendra Pradhan admitted that “some irregularities” had come to light.
-
-...
-
-[Data](articles/8bc3cf5f.json)
-
-[Extended Data](ext_articles/8bc3cf5f.ext.json)
-
----
-
-### Public schools notices
-
-*2024-06-23 16:22:56* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පාසල්වලට-නිවාඩු-දී-නෑ/11-410379) · `si`
-
-The Ministry of Education announced that all government schools will open as usual today (24), debunking rumors of closure. They urged against believing unofficial announcements, emphasizing the importance of relying only on official sources.
-
-🟩
-
-The Ministry of Education says that all government schools will be held today (24). The Ministry stated that this was due to the propaganda that a falsehood was given to three days from today (24).
-
-The Ministry of Technology also stated that the Ministry of Education does not be deceived to propaganda other than the official announcement.
-
-◼️
-
-[Data](articles/c4989d5e.json)
-
-[Extended Data](ext_articles/c4989d5e.ext.json)
 
 ---

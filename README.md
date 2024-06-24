@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 14:06:27**
+As of **2024-06-24 14:19:30**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 5,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,851 (100.0%) of 31,856 articles have been extended.
+31,856 (100.0%) of 31,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### கணவருடன் உடலுறவு: கப்பம் கோரிய மனைவி கைது
+### Sexual intercourse with her husband: Wife arrested for demanding
 
 *2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-கப்பம்-கோரிய-மனைவி-கைது/175-339326) · `ta`
 
-தனது கணவருடன் உறவு கொண்ட பெண்ணிடம் ஐம்பது இலட்சம் ரூபா கப்பம் கோரி, அந்த நபரின் மனைவி கைது செய்யப்பட்டுள்ளார்.
+A wife was arrested for extorting money after discovering her husband's affair with a retired policewoman, Liz, who also faces charges for allegedly threatening to release explicit videos. The police minister and a security unit constable, implicated in the scandal, were also arrested.
 
-குறித்த உடலுறவுக் காட்சிகளின் காணொளிகளை இணையத்தில் வெளியிடப் போவதாக அச்சுறுத்திய குற்றச்சாட்டில் ஓய்வுபெற்ற பெண் பொலிஸ் கான்ஸ்டபிளே லிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோகத் தடுப்புப் பணியகத்தினால் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இந்தக் குற்றத்துக்கு உதவியதாக சந்தேகிக்கப்படும் அமைச்சர் பாதுகாப்புப் பிரிவில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிளும் கைது செய்யப்பட்டுள்ளார்.
+The man's wife has been arrested for demanding fifty lakhs of rupees for a woman who has been in a relationship with her husband.
 
-அமைச்சரின் பாதுகாப்புப் பிரிவின் பொலிஸ் கான்ஸ்டபிள் பன்னிப்பிட்டிய தெபானம பகுதியைச் சேர்ந்த பெண்ணொருவருடன் தொடர்பு வைத்திருந்துள்ளார்.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
+Retired Female Police Constable Liz has been arrested by the Children's and Women's Abuse Bureau for allegedly threatening to publish videos of sexual footage.
 
-இருவரும் உடலுறவில் ஈடுபடும்போது, அதனை பொலிஸ் கான்ஸ்டபிள் தனது அலைதொலைபேசியில் பதிவு செய்துள்ளார்.
+The Minister of Police and the Police Constable, which is suspected of assisting the crime, has been arrested.
 
-இந்நிலையில், கணவரின் அலைபேசியில் காணப்பட்ட வீடியோக்களை தனது கணவருடன் உடலுறவு கொண்ட பெண்ணிடம் காட்டி, இவற்றை இணையத்தில் வெளியிடாமல் இருக்கவேண்டுமாயின் ஐம்பது லட்சம் ரூபாவை தனக்கு கப்பமாக தருமாறு ​அப்பெண் மிரட்டியுள்ளார்.
+Police Constable of the Minister's Security Unit.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
 
-...
+When the two have intercourse, the police constable has recorded it on his mobile phone.
+
+In this case, the woman has threatened her to pay her fifty lakhs of rupees if she does not publish the videos on her husband's cell phone with her husband.
+
+In this regard, the authorities of the Bureau of the Bureau were investigating the complaint lodged by the Woman Police Children and Women's Abuse Prevention Bureau.
+
+The retired female Constable and her husband, Constable, have been arrested.
+
+◼️
 
 [Data](articles/cfedb286.json)
+
+[Extended Data](ext_articles/cfedb286.ext.json)
 
 ---
 
@@ -74,19 +84,27 @@ The diplomats said the cause of death in most cases was heat-related.
 
 [Data](articles/08cf5da3.json)
 
+[Extended Data](ext_articles/08cf5da3.ext.json)
+
 ---
 
-### LPL ටිකට් විකිණීම ඇරඹෙයි
+### LPL tickets start selling
 
 *2024-06-24 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198090) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලිය ජූලි 01 වනදා ආරම්භ වෙයි. එහි පළමු තරගය නුවර සහ දඹුල්ල අතර පැවැත්වෙයි.
+Lanka Premier League starts July 1st with Colombo vs Dambulla. Tickets for Kandy matches go on sale today.
 
-මේ අතර නුවර පැවැත්වෙන තරග සඳහා ප්‍රවේශපත්‍ර අලෙවිය අද (24) දහවල් 3සිට අරඹන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+🟩
+
+Lanka Premier League Tournament begins on July 1. Its first match will be held between the city and Dambulla.
+
+Meanwhile, SLC says that tickets for Kandy competitions will be launched today (24).
 
 ◼️
 
 [Data](articles/de4c67a7.json)
+
+[Extended Data](ext_articles/de4c67a7.ext.json)
 
 ---
 
@@ -108,23 +126,29 @@ Sri Lanka won the first T20 from the first T20 match between the West Indies wom
 
 ---
 
-### காய்ச்சலுக்கு மருந்தெடுத்த பெண் உயிரிழப்பு
+### Casatalitis
 
 *2024-06-24 13:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலுக்கு-மருந்தெடுத்த-பெண்-உயிரிழப்பு/71-339325) · `ta`
 
-காய்ச்சலுக்கு சிகிச்சை பெற்று , மருந்தை உட்கொண்ட பெண் ஒருவர் உயிரிழந்த சம்பவம் ஞாயிற்றுக்கிழமை (23) இடம்பெற்றுள்ளது .
+Vijayakumar Gunarani, a 63-year-old from Jaffna, died suddenly after returning home from hospital where she was treated for a fever. Her condition worsened on Sunday, leading to her death. An autopsy was conducted, with samples sent to Colombo for further analysis.
 
-யாழ்ப்பாணம் , சாவற்காட்டு பகுதியை சேர்ந்த 63 வயதுடைய விஜயகுமார் குணராணி என்ற பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்
+🟩
 
-குறித்த பெண்ணுக்கு கடந்த 20ஆம் திகதி ஏற்பட்ட திடீர் காய்ச்சல் காரணமாக , 22ஆம் திகதி யாழ்.போதனா வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்று , மருந்தினை பெற்றுக்கொண்டு வீடு திரும்பியுள்ளார்.
+The incident took place on Sunday (23), who was killed by a woman who was treated for a fever and taking her medicine.
 
-பெற்றுக்கொண்ட மருந்தை உட்கொண்ட பின்னர்,ஞாயிற்றுக்கிழமை (23) அன்று குறித்த பெண்ணின் உடல் நிலை மிக மோசமாகி மூச்சுவிட சிரமப்பட்ட நிலையில் , யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார் .
+Vijayakumar Gunarani, a 63 -year -old woman from Jaffna, Jaffna, has died.
 
-குறித்த பெண்ணின் உடற்கூற்று பரிசோதனைகள் யாழ்.போதனா வைத்தியசாலையில் மேற்கொள்ளப்பட்டு, மேலதிக பரிசோதனை நடவடிக்கைக்காக மாதிரிகள் கொழும்புக்கு அனுப்பி வைக்கப்பட்டுள்ளது
+Due to the sudden fever on the 20th of last month, she went to the Jaffna Bodhana Hospital on the 22nd and returned home after receiving treatment.
+
+After taking the medicine he received, the woman's body was bad on Sunday (23) and died after being admitted to the Jaffna Bodhana Hospital.
+
+The woman's anatomical examination has been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
 
 ◼️
 
 [Data](articles/cc9958fe.json)
+
+[Extended Data](ext_articles/cc9958fe.ext.json)
 
 ---
 
@@ -368,23 +392,33 @@ Dr. Dr. Kamani Ranatunga, Director General of the Department of Agriculture, Dr.
 
 ---
 
-### தாய் சித்திரவதை:   சிறுவன்  தஞ்சம்
+### Mother torture: boy asylum
 
 *2024-06-24 11:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தாய்-சித்திரவதை-சிறுவன்-தஞ்சம்/71-339318) · `ta`
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் வந்து, பொலிஸ் நிலையத்தில் தஞ்சமடைந்த சிறுவன் மீள அவனது தாயாரிடம் ஒப்படைக்கப்பட்டுள்ளான்.
+A boy from North India, seeking refuge in Jaffna after allegedly assaulting his mother and stepfather in Colombo, was returned to his mother by the police. The investigation revealed the boy's mother worked in a Colombo casino and was temporarily living with a local Sri Lankan. The boy mistakenly took a bus to Jaffna instead of Mannar, ending up at the police station. The police decided to send him back to Colombo, warning his mother about his actions.
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் வந்த சிறுவன் ஒருவன் , தனது தாய் மற்றும் தாயின் இரண்டாவது கணவர் தன்னை அடித்து சித்திரவதை செய்வதாக தெரிவித்து யாழ்ப்பாண பொலிஸ் நிலையத்தில் தஞ்சமடைந்திருந்தான்.
+🟩
 
-சிறுவன் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார், குறித்த சிறுவன் வடஇந்தியாவை சேர்ந்தவன் எனவும், அவனது தாய் கொழும்பில் கஸீனோவில் வேலை செய்வதாகவும், இங்கு இலங்கையை சேர்ந்த நபருடன் தங்கி இருப்பதும் தெரியவந்துள்ளது.
+The boy who came to Jaffna from Colombo and the refugee at the police station has been handed over to his mother.
 
-இதற்கமைய, சிறுவன் மன்னார் சென்று அங்கிருந்து கடல் வழியாக இந்தியா செல்வதற்கு திட்டமிட்டு, கொழும்பில் இருந்து வெளியேறி மன்னார் பேருந்தில் ஏறுவதற்கு பதிலாக யாழ்ப்பாணம் செல்லும் பேருந்தில் ஏறியமையால், யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+A boy who came to Jaffna from Colombo had taken shelter at the Jaffna police station for allegedly beating her mother and mother's second husband.
 
-யாழ்ப்பாணம் வந்த சிறுவனுக்கு எங்கே செல்வது என தெரியாததால் , பொலிஸ் நிலையத்தில் தஞ்சமடைந்துள்ளான்.
+Police, who investigated the boy, revealed that the boy was from North India and that his mother was working in Gasino in Colombo and staying with a Sri Lankan person here.
 
-...
+Accordingly, the boy was planning to go to Mannar from the sea and boarded the Jaffna bus instead of boarding the Mannar bus.
+
+The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
+
+In addition, the mother said that the boy's mother would be punished for the mistakes of the boy, while the police were investigating the Jaffna police.
+
+It is noteworthy that the police then compromised the boy and warned the mother and sent the boy to Colombo.
+
+◼️
 
 [Data](articles/30347f35.json)
+
+[Extended Data](ext_articles/30347f35.ext.json)
 
 ---
 

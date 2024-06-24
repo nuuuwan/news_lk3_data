@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 00:52:19**
+As of **2024-06-25 01:04:39**
 
 ## Newspaper Stats
 
-*Scraped **31,952** Articles*
+*Scraped **31,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,845
-dailyftlk | 1,942
-adalk | 2,809
+dailyftlk | 1,951
+adalk | 2,810
 adaderanalk | 3,633
-tamilmirrorlk | 3,765
+tamilmirrorlk | 3,766
 dailymirrorlk | 4,733
 virakesarilk | 4,949
 adaderanasinhalalk | 5,238
@@ -26,11 +26,115 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,952 (100.0%) of 31,952 articles have been extended.
+31,952 (100.0%) of 31,963 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-25 (Tuesday)
+
+### Harin affirms no delay in Presidential Elections
+
+*2024-06-25 00:52:54* · [`dailyftlk`](https://www.ft.lk/news/Harin-affirms-no-delay-in-Presidential-Elections/56-763421) · `en`
+
+Tourism, Lands, Sports and Youth Affairs Minister Harin Fernando yesterday confirmed that the upcoming Presidential Elections will not be postponed.
+
+Highlighting the importance of voter participation, he said, “If citizens exercise their voting rights wisely, the upcoming decade can be hailed as the decade of the citizen.” Speaking to journalists at the Presidential Media Centre, he said campaign work has already begun.
+
+...
+
+[Data](articles/5d763a2e.json)
+
+---
+
+### New Chief of Staff of Sri Lanka Army
+
+*2024-06-25 00:51:11* · [`dailyftlk`](https://www.ft.lk/news/New-Chief-of-Staff-of-Sri-Lanka-Army/56-763420) · `en`
+
+Major General Rohitha Aluvihare of the Vijayabahu Infantry Regiment assumed duties as the 64th Chief of Staff of the Sri Lanka Army at the Army Headquarters yesterday. He joined the Sri Lanka Army on 26 July 1988 and was commissioned and posted to the Vijayabahu Infantry Regiment on 5 October 1990. Prior to his new appointment, he served as the Commander of the Security Force – Central.
+
+◼️
+
+[Data](articles/b22dc7a2.json)
+
+---
+
+### Uvindu Wijeweera criticises JVP’s deviation from founding principles
+
+*2024-06-25 00:49:48* · [`dailyftlk`](https://www.ft.lk/news/Uvindu-Wijeweera-criticises-JVP-s-deviation-from-founding-principles/56-763419) · `en`
+
+Criticises JVP for veering off course from its original anti-imperialist and socialist stance
+
+Expresses disillusionment with JVP’s current trajectory and predicts potential electoral setbacks
+
+Slams JVP’s current stance on 13A and its position on Indian influence in SL
+
+Claims JVP has sacrificed its foundational principles in favour of gaining political advantage
+
+Second Generation organisation leader Uvindu Wijeweera has accused the Janatha Vimukthi Peramuna (JVP) formed by his father Rohana Wijeweera of straying from its original principles and policies.
+
+Addressing a press conference on Sunday, Wijeweera criticised the JVP for forsaking the foundational principles established by his father. Expressing disillusionment with the trajectory of the JVP, he remarked that the party has veered off course and will likely face defeat as a political movement.
+
+...
+
+[Data](articles/ce40b093.json)
+
+---
+
+### Experts evaluate sustainability of proposed Economic Transformation Bill
+
+*2024-06-25 00:46:13* · [`dailyftlk`](https://www.ft.lk/news/Experts-evaluate-sustainability-of-proposed-Economic-Transformation-Bill/56-763418) · `en`
+
+From left: Harsha Fernando PC, Avinda Rodrigo PC, former BOI Chairman Upul Jayasuriya PC, Peradeniya University Economics and Statistics Department Senior Lecturer Dr. Kalpa Rajapaksha and Moderator Jessica Nimali Abeyratne – Pic by Ruwan Walpola
+
+All Union Alliance of BOI together with FTZMA holds awareness campaign
+
+A panel of experts last week assessed the sustainability of the proposed Economic Transformation Bill and its amendments aimed at restructuring institutional frameworks.
+
+In an awareness campaign organised by the All Union Alliance of the Board of Investment of Sri Lanka sponsored by the Free Trade Zone Manufacturers Association (FTZMA) last Thursday at Ramada Hotel, the dialogue featured insights from prominent figures in the field.
+
+...
+
+[Data](articles/65dca719.json)
+
+---
+
+### Sri Lanka economic recovery gathers pace
+
+*2024-06-25 00:20:02* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-economic-recovery-gathers-pace/14-763413) · `en`
+
+AFC Asia Frontier Fund Co-Fund Manager Ruchir Desai travelled to Colombo from 29 May to 2 June 2024 to meet with policymakers and the fund’s Sri Lankan portfolio companies
+
+project in partnership with Melco Resorts of Macau – seen from the Galle Face Green promenade
+
+At the One Galle Face Mall which is part of the Shangri-La Hotel in downtown Colombo
+
+I was in Colombo one year ago in June 2023 and things then were already beginning to look better for Sri Lanka. Inflation was falling, the Central Bank had just begun its interest rate easing cycle, the currency and stock market were seeing a rebound from the bottom, and tourism was starting to pick up momentum. All the major macro indicators were showing an improvement a year ago, which made me optimistic about the outlook for Sri Lanka.
+
+...
+
+[Data](articles/20862c8d.json)
+
+---
+
 ### 2024-06-24 (Monday)
+
+### கல்முனையில் தமிழர்கள் வெகுண்டெழுந்தனர்
+
+*2024-06-24 23:57:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனையில்-தமிழர்கள்-வெகுண்டெழுந்தனர்/175-339363) · `ta`
+
+கடந்த முப்பது வருடங்களுக்கு மேலாக கல்முனை வடக்கு பிரதேச செயலகத்துக்கு எதிராக இடம் பெற்று வரும் சூழ்ச்சிகளையும் நிருவாக அடக்குமுறைகளையும் கண்டித்து பிரதேச மக்கள் 92வது நாளாக போராட்டத்தில்  ஈடுபட்டனர்.
+
+ஆனால், திங்கட்கிழமை  (24)  போராட்ட வடிவத்தை மாற்றி,செயலகத்தை மூடி, வீதிகளை மறித்து ஆக்ரோஷமான முறையில் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர். இதனால் போக்குவரத்து முற்றாக செயலிழந்தது.பிரதேச செயலகம் இயங்கவில்லை. நகரில் ஒருவித பதட்டம் நிலவியது.
+
+“கல்முனை வடக்கு பிரதேய செயலக உரிமைகளை திட்டமிடப்பட்டு ஒடுக்கும் நிருவாக அடக்குமுறைகளை இனியும் பொறுத்துக்கொண்டு இருக்க முடியாது, அரசாங்கம் இனியும் வாக்குறுதிகளை வழங்கி காலத்தை இழுத்தடிக்காது உடன் தீர்வை தரும் வரை எமது போராட்டம் தொடரும்” என மக்கள் தெரிவித்தனர்.
+
+கல்முனை வடக்கு பிரதேச செயலகம் முன்பாக மக்கள் குவிந்ததுடன், கல்முனை மட்டக்களப்பு பிரதான வீதியையும் முற்றுகையிட்டுள்ளனர்.
+
+...
+
+[Data](articles/2d6196a3.json)
+
+---
 
 ### India to the semi-finals
 
@@ -57,6 +161,68 @@ Accordingly, the Indian team was able to qualify for the semi-finals.
 [Data](articles/19fef0c5.json)
 
 [Extended Data](ext_articles/19fef0c5.ext.json)
+
+---
+
+### Sri Lanka must renegotiate IMF Agreement for sustainable recovery from crisis
+
+*2024-06-24 23:37:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-must-renegotiate-IMF-Agreement-for-sustainable-recovery-from-crisis/4-763403) · `en`
+
+A minimum condition for any progressive and humane way out of this crisis is that the democratic space for citizens must be defended and extended
+
+There should be a change of orientation in dealings with the IMF and Sri Lanka’s creditors. The aim must be to protect the living standards of the people and to promote the growth of the economy in ways that expand incomes, create good-quality jobs, and improve the trade balance. This means that the debt restructuring process has to be based on ensuring that the debt stock does not increase with interest payments; on a haircut on commercial debt that is far more than 30%; on multilateral and bilateral agencies also accepting a reduction of their contribution to the debt stock
+
+We were invited to Sri Lanka between 9-11 June 2024, where we participated in consultations in Colombo with academics, researchers, activists and political parties.
+
+...
+
+[Data](articles/12a0bafa.json)
+
+---
+
+### Request for immediate publishing of National Socio-economic Recovery Program of party for social discourse
+
+*2024-06-24 23:30:19* · [`dailyftlk`](https://www.ft.lk/opinion/Request-for-immediate-publishing-of-National-Socio-economic-Recovery-Program-of-party-for-social-discourse/14-763402) · `en`
+
+Following is a letter to political party leaders of SLPP, SJB, JVP/NPP, SLFP, UNP, TNA and SLMC
+
+With elections, possibly the Presidential election first, followed by a parliamentary election thereafter, we see mainstream political parties focussing on elections, with heavy criticism of previous Governments, they were also party to at different times in different alliances. It is an irony therefore, the whole focus of all Opposition parties is on “corruption and economic crisis” with no mention of their responsibility for any of them. They also have only vague deviations from the IMF Program pursued by President Wickremesinghe-led Government. Shared perception nevertheless in both the Government and the Opposition is the IMF remains the sole saviour this moment, while the crisis is not merely economic.
+
+...
+
+[Data](articles/59d75eff.json)
+
+---
+
+### New property taxes are coming: Key changes and impacts
+
+*2024-06-24 23:28:29* · [`dailyftlk`](https://www.ft.lk/columns/New-property-taxes-are-coming-Key-changes-and-impacts/4-763401) · `en`
+
+The new property taxes are on the horizon, bringing significant changes to property taxation in Sri Lanka. Here’s a brief overview of what you need to know about the new imputed rental income tax, its impact, and how it might affect your financial planning.
+
+The primary change is the introduction of an imputed rental income tax. This tax targets the notional income homeowners could earn from renting their properties, ensuring a fair contribution to public finances. It will be implemented before 1 April 2025.
+
+Currently, Sri Lanka does not have an imputed rental income tax. Under the new policy, owner-occupied and vacant residential properties will be taxed with an exemption threshold and graduated rates. Importantly, interest repayments on loans related to the property can reduce the taxable portion of rental income.
+
+...
+
+[Data](articles/854dab36.json)
+
+---
+
+### Price or quality: Is NMRA barking up the wrong tree?
+
+*2024-06-24 23:21:23* · [`dailyftlk`](https://www.ft.lk/opinion/Price-or-quality-Is-NMRA-barking-up-the-wrong-tree/14-763399) · `en`
+
+Instead of harping on price, however politically popular it may be, the authorities should concentrate on preserving the quality of medicines
+
+I recently had to see my doctor (who is also a personal friend) regarding some infected skin wounds that I had developed on my forearms. Little did I know that this would lead to the horrific realisation of the problems that the public are facing when obtaining their medications.
+
+I was prescribed a cream called Fusidic acid and the doctor, being a friend, wrote it by brand and told me that this is the original product which would be a little difficult to find. With that recommendation I went to almost a dozen pharmacies and was informed at each one that it was not available and was offered various substitutes, some of the same medicine and some of a similar nature. The reason given for unavailability was that the manufacturer had withdrawn from the country.
+
+...
+
+[Data](articles/bcc66efd.json)
 
 ---
 
@@ -451,6 +617,24 @@ The Australia received the advantage of the match was first decided to boast.
 [Data](articles/9320ae0a.json)
 
 [Extended Data](ext_articles/9320ae0a.ext.json)
+
+---
+
+### රු. කෝටි 20ක අයිස් අල්ලයි
+
+*2024-06-24 19:30:38* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-20ක-අයිස්-අල්ලයි/11-410410) · `si`
+
+කොළඹ මධ්‍යම තැපැල් කාර්‍යාලයට ලැබී තිබුණු පාර්සලයක තිබූ රුපියල් මිලියන දෙසීයක පමණ වෙළෙඳ පොළ වටිනාකමකින් යුත් අයිස් නමැති මත්ද්‍රව්‍ය තොගයක් අත් අඩංගුවට ගත් බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+පකිස්තානයේ සිට කොළඹ මොදර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු වෙත ත්‍යාග පාර්සලයක් ලෙස එවා තිබූ පාර්සලයක් පිළිබඳව සැක සිතී අද (24දා) සවස මෙම පාර්සලය පරීක්ෂාවට ලක් කර තිබේ.
+
+මේ අනුව අදාළ පාර්සලයේ තිබී අයිස් නැමැති මත්ද්‍රව්‍ය කිලෝ  හතරයි ග්‍රෑම් 847 ක්  සොයාගෙන තිබෙන අතර, පාර්සලය රැගෙන යාමට පැමිණි මෝදර ප්‍රදේශයේ පුද්ගලයාද අත්අඩංගුවට ගත් බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඉන් පසුව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මෙම සිද්ධිය සම්බන්ධ තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබෙන අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය වැඩි දුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/28171e60.json)
 
 ---
 
@@ -2099,257 +2283,5 @@ On October 28, 2022 departed to the Saudi domestic work on the Kurunegala area o
 [Data](articles/de74329e.json)
 
 [Extended Data](ext_articles/de74329e.ext.json)
-
----
-
-### Sri Lanka in final steps of completing debt restructuring – CBSL Governor
-
-*2024-06-24 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100063/sri-lanka-in-final-steps-of-completing-debt-restructuring-cbsl-governor) · `en`
-
-The Governor of the Central Bank of Sri Lanka Dr. Nandalal Weerasinghe says that Sri Lanka will record positive annual economic growth in 2024 for the first time since the economic crisis.
-
-Joining Ada Derana’s current affairs program “At HydePark”, the CBSL chief highlighted the need to persist along the narrow positive economic path it trails at the moment.
-
-Furthermore, Dr. Weerasinghe noted that Sri Lanka is in the final steps of completing the debt restructuring programme and has almost achieved the short-term economic sustainability.
-
-He also mentioned that, as part of the long-term plan for the economic revival of the country, Sri Lanka must ensure an economic growth rate between 4% and 5% in the coming years, while preserving the short term gains of the country under the restructuring programme.
-
-◼️
-
-[Data](articles/ef07876a.json)
-
-[Extended Data](ext_articles/ef07876a.ext.json)
-
----
-
-### Case Maithri has ordered to be heard
-
-*2024-06-24 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198088) · `si`
-
-Maithripala Sirisena faces investigation by the Colombo District Court over his tenure as SLFP Chairman, following a petition by Montegu Sarachchandra. The court has ordered the case to proceed despite Sirisena's absence.
-
-🟩
-
-The Colombo District Court has been appointed to investigate the conclusion of former President Maithripala Sirisena as the Chairman of the Sri Lanka Freedom Party (SLFP).
-
-The case was taken up today (24), a lawy reporter said that a lawyer was not present on behalf of the defendant Maithripala Sirisena.
-
-Accordingly, the Colombo District Court has ordered to investigate the case.
-
-The petition was presented by Montegu Sarachchandra, a SLFP Executive.
-
-◼️
-
-[Data](articles/cd6e5a64.json)
-
-[Extended Data](ext_articles/cd6e5a64.ext.json)
-
----
-
-### ‘Lorenzo Putha 04’ crew repatriated 5 months after capture by pirates
-
-*2024-06-24 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100062/lorenzo-putha-04-crew-repatriated-5-months-after-capture-by-pirates-) · `en`
-
-The six Sri Lankan fishermen, who were rescued after their trawler was hijacked by Somali pirates in the Arabian Sea and were subsequently detained at Victoria Port in Seychelles, have been repatriated to the island yesterday (23) after 5 months.
-
-The six crew members of the multi-day fishing trawler arrived at the Dikovita fisheries harbor on Sunday.
-
-On January 27, the Sri Lankan multi-day fishing trawler “Lorenzo Putha - 4” with 6 crew members aboard was hijacked by Somali pirates and were later rescued by the Seychelles Defence Forces.
-
-However, their repatriation to the island was delayed for 5 months due to required paperwork and legal proceedings.
-
-Five months after the judicial process conducted by the Seychelles government regarding the pirates, the multi-day vessel “Lorenzo Putha - 4” and the 6 fishermen arrived safely in the island yesterday.
-
-◼️
-
-[Data](articles/b27ece12.json)
-
-[Extended Data](ext_articles/b27ece12.ext.json)
-
----
-
-### The decision to investigate the case without Maithri
-
-*2024-06-24 12:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இன்றி-வழக்கை-விசாரிக்க-முடிவு/175-339322) · `ta`
-
-Chandun Vidhan, Colombo Chief District Magistrate, decided to proceed with a case against former President Maithripala Sirisena, filed by an SLFP member, due to Sirisena's absence of legal representation. The case involves allegations related to the appointment of an SLFP leader, with the court issuing an interim injunction against Sirisena based on a petition by Mundiku Sarachandran, an SLFP executive committee member.
-
-🟩
-
-Colombo Chief District Magistrate Chandun Vidhan today decided to unilaterally investigate the case filed by a SLFP member of the Sri Lanka Freedom Party (SLFP) against former President Maithripala Sirisena.
-
-It was decided to take the case unilaterally due to the lack of a lawyer appearing in court for Maithripala Sirisena.
-
-The case has been filed against the appointment of the Sri Lanka Freedom Party (SLFP) leader and the court has issued an interim injunction to Sirisena.
-
-The interim injunction was issued when the petition filed by Mundiku Sarachandran, a member of the Sri Lanka Freedom Party (SLFP) executive committee and the organizer of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/133dcce2.json)
-
-[Extended Data](ext_articles/133dcce2.ext.json)
-
----
-
-### Decide to investigate
-
-*2024-06-24 12:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இன்றி-விசாரிக்க-முடிவு/175-339322) · `ta`
-
-Chandun Vidhan, Colombo Chief District Magistrate, decided to investigate a case filed by a Sri Lanka Freedom Party member against former President Maithripala Sirisena, due to Sirisena not having legal representation. The case involves the appointment of the SLFP leader, with an interim injunction issued against Sirisena upon the filing of the petition by Mundiku Sarachandran, an SLFP executive committee member.
-
-🟩
-
-Colombo Chief District Magistrate Chandun Vidhan today decided to unilaterally investigate the case filed by a Sri Lanka Freedom Party member against former President Maithripala Sirisena.
-
-It was decided to take the case unilaterally due to the lack of a lawyer appearing in court for Maithripala Sirisena.
-
-The case has been filed against the appointment of the Sri Lanka Freedom Party (SLFP) leader and the court has issued an interim injunction to Sirisena.
-
-The interim injunction was issued when the petition was filed by Mundiku Sarachandran, a member of the Sri Lanka Freedom Party (SLFP) executive committee and the organizer of the Sri Lanka Freedom Party.
-
-◼️
-
-[Data](articles/c232395c.json)
-
-[Extended Data](ext_articles/c232395c.ext.json)
-
----
-
-### Give Symposes Say one lie
-
-*2024-06-24 12:39:09* · [`adalk`](https://www.ada.lk/breaking_news/දෙන්න-කථාවෙලා-එක-බොරුවක්-කියන්න/11-410396) · `si`
-
-Leaders from two political parties in Sri Lanka are at odds over the country's financial situation. The Mahanayaka Gammanpila claims the government is preparing to sign a control to restructure agreements, denying readiness for bankruptcy. Meanwhile, the Plandani Hela Urumaya criticizes the government for failing to restructure private debts, which are a significant portion of Sri Lanka's $42 billion foreign loans. The IMF agreement requires restructuring these debts to avoid bankruptcy. The finance minister and central bank governor have conflicting statements on the country's financial status, adding to public confusion.
-
-🟩
-
-Leader of the Mahanayaka Gammanpila says the government is preparing to signing a controll to the restructuring of an agreement, but it is not the government is ready to have the bankruptcy.. He was addressing a media briefing at the party headquarters today (24). The leader of the Plandani Hela Urumaya said:
-
-"We need to organize the government to bilate the crackers to sign a controll to the restructuring of a controll to the restructuring of the bilateral.We don't get bankruptcy.
-
-According to the IMF agreement, by the end of 2022, foreign loans were $ 42 billion.We went bankrupt by the unbearable payment.These loans are divided into three main parts.The first part is multilateral debt.That means the loans obtained from international institutions like Asian Development Bank.11.5 billion.We continued to pay without taking away.Then the payment was broken bilateral loans and private debt.Bilateral loans will pay $ 11.5 billion.That's what it is now trying to agree on the restructuring.
-
-...
-
-[Data](articles/18376d75.json)
-
-[Extended Data](ext_articles/18376d75.ext.json)
-
----
-
-### The leaders of the fleeing will not benefit from the fleeing leaders
-
-*2024-06-24 12:30:14* · [`adalk`](https://www.ada.lk/breaking_news/අර්බුද-හමුවේ-පලායන-නායකයන්ගෙන්-රටට-සෙතක්-නෑ/11-410395) · `si`
-
-President Ranil Wickremesinghe criticized leaders who abandon their country during crises, emphasizing the importance of leadership in addressing national issues. He highlighted his efforts to stabilize the economy and improve public servant allowances despite challenging circumstances.
-
-🟩
-
-President Ranil Wickremesinghe said that he could not expect the country from the leaders who flee the crisis in a country.
-
-The President pointed out that if the anarchy of the country is not the leading leader of the country, the situation in the country cannot be considered.
-
-President Ranil Wickremesinghe was speaking at the UNP Representatives of Batticaloa District Party (UNP) at the Batticaloa Municipal Council Auditorium.
-
-I had the opportunity to meet many political and public organizations in Batticaloa. Today is a difficult situation. In the past reign, I clearly said that if the economy of this country should be carried forward at least three million dollars.
-
-No political party said that. Samagi-forthcoming power, what did the JVP say?People thought that we were leaving false propaganda because we told the country alone. We must declare the truth for the future of the country. In politics, we should always speak the truth.
-
-...
-
-[Data](articles/f92b7568.json)
-
-[Extended Data](ext_articles/f92b7568.ext.json)
-
----
-
-### Importation of Vehicles: 'Started is newly after importing vehicles for personal profit
-
-*2024-06-24 12:28:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggg710z7no) · `si`
-
-In a recent press conference, Arosh Radreigu discussed the possibility of removing vehicle import restrictions in Sri Lanka, which were initially introduced for personal profit. The move sparked debate over potential tax losses due to reduced revenue from the tourism industry.
-
-🟩
-
-It contains nothing here.Video header, 'If we give us the dollars left. Will be taxed. You get a good vehicle. "
-
-Importation of Vehicles: 'Started is newly after importing vehicles for personal profit
-
-Arosh Radreigu was a press conference held in Colombo today (June 24), whether it was possible to eliminate vehicle import boundaries.
-
-The media commented on the tax relief that the cabinet approved by the tourism industry and the government had given a company to lose tax revenue.
-
-◼️
-
-[Data](articles/1a67d262.json)
-
-[Extended Data](ext_articles/1a67d262.ext.json)
-
----
-
-### A fourteen-year-old girl missing
-
-*2024-06-24 12:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දාහත්හැවිරිදි-තරුණියක්-අතුරුදහන්/11-410394) · `si`
-
-A fourteen-year-old girl went missing from the Pakurawa Police Division, last seen leaving home to collect her salary. A thousand-year-old woman also vanished from the same area. Both cases are under investigation by the Karangala Police Division.
-
-🟩
-
-A thousand-year-old woman living in the Pakurawa Police Division of the Karangala Police Division has reportedly disappeared from yesterday (23).
-
-He was written by her series yesterday and left the house, saying that her salaries were going to get her wages, but has not returned. The Karaadagala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/531a1f23.json)
-
-[Extended Data](ext_articles/531a1f23.ext.json)
-
----
-
-### President's Special Notice on Wednesday
-
-*2024-06-24 12:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புதனன்று-விசேட-அறிவிப்பு/175-339321) · `ta`
-
-President Ranil Wickremesinghe will address the nation on April 26, discussing the economy and foreign debt restructuring. The United National Party expects significant relief for Sri Lankans from his announcements.
-
-🟩
-
-It is reported that President Ranil Wickremesinghe will address the nation on the 26th.
-
-It is also reported that the president will also inform the public about the current economic status of the country and the progress of foreign debt restructuring.
-
-United National Party National Secretary Ravi Karunanayake has said that the Sri Lankan people will get many relief through the announcement of the President.
-
-◼️
-
-[Data](articles/5cbf0b0e.json)
-
-[Extended Data](ext_articles/5cbf0b0e.ext.json)
-
----
-
-### Saudi Arabia reveals about the deceased during the Hajj pilgrimage
-
-*2024-06-24 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198087) · `si`
-
-Saudi Arabia reported deaths among Hajj pilgrims, mostly undocumented and elderly with pre-existing conditions, due to long walks without proper medical care.
-
-🟩
-
-Saudi Arabia officially announced that he had died during the Hajj pilgrimage this year.
-
-It is said that the majority of the dead pilgrims have been illegal pilgrims and they had to walk in a long way.
-
-About 75% of the dead people had not had the official licenses for the Hajj pilgrimage and the majority of them were older illnesses.
-
-The health sector was treated with the health sector, which had been treated with heavy warmth, about 1400,000 people have not had the official licenses.
-
-◼️
-
-[Data](articles/2c143d29.json)
-
-[Extended Data](ext_articles/2c143d29.ext.json)
 
 ---

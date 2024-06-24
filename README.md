@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 01:34:52**
+As of **2024-06-25 01:53:19**
 
 ## Newspaper Stats
 
-*Scraped **31,966** Articles*
+*Scraped **31,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,845
-dailyftlk | 1,953
+dailyftlk | 1,956
 adalk | 2,810
 adaderanalk | 3,633
 tamilmirrorlk | 3,767
@@ -26,11 +26,57 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,963 (100.0%) of 31,966 articles have been extended.
+31,966 (100.0%) of 31,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Orit wins at Green Productivity Awards 2024
+
+*2024-06-25 01:28:42* · [`dailyftlk`](https://www.ft.lk/business/Orit-wins-at-Green-Productivity-Awards-2024/34-763426) · `en`
+
+Orit Apparels Manager Compliance Isuru Karunaratne, Head of Engineering Mahesh Samarakoon, CMO Moditha Silva, CEO Ajith Wijesinghe, CFO Chaminda Ekanayake, COO Thiwanka Rajapakshe, Head of Administration Prasad Samarasinghe, Manager Corporate Communications Dhianushka Kurukulasuriya, and Head of Human Resources Ravindra Rajapakshe
+
+Orit Apparels CMO Moditha Silva, Orit Apparels CEO Ajith Wijesinghe, keynote speaker and CBL Natural Foods Cluster Director/CEO Randeewa Malalasooriya, SLAAQP Council Member Ifhaama Azeem, SLAAQP Vice President Medhani Somasinghe, Orit Apparels CFO Chaminda Ekanayake, and Orit Apparels COO Thiwanka Rajapakshe
+
+Orit Apparels Lanka Ltd., excelled at the Green Productivity Awards by winning the Silver Award at a gala ceremony held at the Water’s Edge Hotel recently.
+
+...
+
+[Data](articles/4f45b7e5.json)
+
+---
+
+### The Boardroom introduces business made easy tools
+
+*2024-06-25 01:26:08* · [`dailyftlk`](https://www.ft.lk/business/The-Boardroom-introduces-business-made-easy-tools/34-763425) · `en`
+
+Developer of Sri Lanka’s first Company Secretary App, Ananda Sirisena and Company (ASAC) recently announced a range of value additions and new features to “The Boardroom” app.
+
+The pioneering app which enables companies to store, view and work with key documentation ensures a more streamlined approach to business management. The new additions include easy document sharing, notifications in one place, and password-free logins.
+
+Ananda Sirisena & Company Chief Operating Officer Isura Sirisena said: “At The Boardroom, we believe that innovation should never be a bore. That’s why our development team is dedicated to keeping our customers engaged and excited for the next great feature. What we have in store for you with these new features will definitely add value to your business and make management much easier.”
+
+...
+
+[Data](articles/665f7fbc.json)
+
+---
+
+### Largest Dubai property show in Colombo on Saturday
+
+*2024-06-25 01:25:43* · [`dailyftlk`](https://www.ft.lk/business/Largest-Dubai-property-show-in-Colombo-on-Saturday/34-763424) · `en`
+
+This June, Colombo will host an unparalleled event aimed at reshaping the landscape of international property investment for Sri Lankans. The Largest Dubai property show, organised by Grit Real Estate Dubai, a distinguished subsidiary of the globally recognised Grit Property Group, is set to take place at the Hilton Colombo on 29 June from 4 p.m. to 9 p.m.
+
+Grit Real Estate Dubai, with its expansive presence across Australia, Dubai, and Sri Lanka, brings this exclusive event to the local shores, offering a unique platform for investors to understand and leverage the lucrative opportunities available in Dubai’s dynamic property market.
+
+...
+
+[Data](articles/c34ac7b8.json)
+
+---
 
 ### Marikkar challenges President’s bankruptcy recovery claims
 
@@ -52,6 +98,8 @@ Addressing a press conference in Colombo, Marikkar highlighted that President Wi
 
 [Data](articles/f14742c8.json)
 
+[Extended Data](ext_articles/f14742c8.ext.json)
+
 ---
 
 ### Dayasiri claims Sajith leading Presidential opinion polls
@@ -67,6 +115,8 @@ MP Dayasiri Jayasekara commented on the President’s plan to declare Sri Lanka 
 ...
 
 [Data](articles/29e25281.json)
+
+[Extended Data](ext_articles/29e25281.ext.json)
 
 ---
 
@@ -164,21 +214,29 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 
 ---
 
-### 8,000 அடுக்குமாடிகளுக்கு அறுதி உறுதிப் பத்திரங்கள்
+### Correcting bonds for 8,000 apartments
 
 *2024-06-25 00:07:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-000-அடுக்குமாடிகளுக்கு-அறுதி-உறுதிப்-பத்திரங்கள்/175-339364) · `ta`
 
-கொழும்பு அடுக்குமாடி குடியிருப்பாளர்களுக்கு உரிமைப் பத்திரம் வழங்கும் அரசாங்கத்தின் வேலைத்திட்டத்தின் கீழ், நகர அபிவிருத்தி அதிகார சபையின் கீழ் உள்ள 8,000 அடுக்குமாடி குடியிருப்புகளுக்கு அறுதி உறுதிப் பத்திரங்களை அடுத்த மாதம் வழங்குவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Under Sri Lanka's government program, 8,000 apartments will be issued next month through the Urban Development Authority (UDA), with 1,070 certainty bonds planned by the National Housing Development Authority. President Wickremesinghe announced 50,000 residential owners would receive housing bonds in the last budget. The UDA has also provided 14,559 houses to low-income individuals from 22 residential projects. These initiatives aim to address housing needs, with the 2024 budget allocating two billion rupees for issuing "Urumaya" rights.
 
-இது தவிர தேசிய வீடமைப்பு அபிவிருத்தி அதிகாரசபை 1,070 உறுதிப் பத்திரங்களை வழங்கவும் திட்டமிட்டுள்ளது.
+🟩
 
-கடந்த வரவு- செலவுத் திட்டத்தில் கொழும்பு அடுக்குமாடி குடியிருப்பு உரிமையாளர்கள் 50,000 பேருக்கு வீட்டு உரிமைப் பத்திரங்கள் வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார். அதன்படி இந்த உரிமைப் பத்திரங்கள் வழங்கப்படுகின்றன.
+Urban Development and Housing Minister Prasanna Ranatunga said that under the government's program of issuing the Right to Colombo Apartments, the Urban Development Authority has arranged that 8,000 apartments under the Urban Development Authority have been issued next month.
 
-நகர அபிவிருத்தி அதிகார சபையினால் வழங்கப்பட்ட 22 குடியிருப்பு வீடுகளில் 14,559 வீடுகள் குறைந்த வருமானம் பெறும் மக்களுக்கு வழங்கப்பட்டுள்ளதாக நகர அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+In addition, the National Housing Development Authority plans to issue 1,070 certainty bonds.
+
+President Ranil Wickremesinghe says 50,000 residential owners will be given housing bonds in the last budget.. Accordingly these rights bonds are issued.
+
+The Urban Development Authority said that 14,559 houses were given to the low -income people of the 22 residential houses provided by the Urban Development Authority.
+
+The National Housing Development Authority first issues the rights of apartments implemented in the Colombo Municipal Council.
 
 ...
 
 [Data](articles/a0cabfaa.json)
+
+[Extended Data](ext_articles/a0cabfaa.ext.json)
 
 ---
 
@@ -2229,75 +2287,5 @@ Ordinary Level Examinations held last March. 452,979 examiners appeared for the 
 [Data](articles/e0d67af8.json)
 
 [Extended Data](ext_articles/e0d67af8.ext.json)
-
----
-
-### Sri Lanka women win by 4 wickets
-
-*2024-06-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198089) · `si`
-
-In the inaugural T20 match, Sri Lanka's women team secured a victory by 4 wickets over the West Indies women's team.
-
-🟩
-
-Sri Lanka won the first T20 from the first T20 match between the West Indies women and Sri Lanka women today.
-
-◼️
-
-[Data](articles/f34bc536.json)
-
-[Extended Data](ext_articles/f34bc536.ext.json)
-
----
-
-### Casatalitis
-
-*2024-06-24 13:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலுக்கு-மருந்தெடுத்த-பெண்-உயிரிழப்பு/71-339325) · `ta`
-
-Vijayakumar Gunarani, a 63-year-old from Jaffna, died suddenly after returning home from hospital where she was treated for a fever. Her condition worsened on Sunday, leading to her death. An autopsy was conducted, with samples sent to Colombo for further analysis.
-
-🟩
-
-The incident took place on Sunday (23), who was killed by a woman who was treated for a fever and taking her medicine.
-
-Vijayakumar Gunarani, a 63 -year -old woman from Jaffna, Jaffna, has died.
-
-Due to the sudden fever on the 20th of last month, she went to the Jaffna Bodhana Hospital on the 22nd and returned home after receiving treatment.
-
-After taking the medicine he received, the woman's body was bad on Sunday (23) and died after being admitted to the Jaffna Bodhana Hospital.
-
-The woman's anatomical examination has been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
-
-◼️
-
-[Data](articles/cc9958fe.json)
-
-[Extended Data](ext_articles/cc9958fe.ext.json)
-
----
-
-### Dieselia
-
-*2024-06-24 13:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலுக்கு-மருந்து-குடித்த-பெண்-உயிரிழப்பு/71-339325) · `ta`
-
-Vijayakumar Gunarani, a 63-year-old from Jaffna, died suddenly after returning home from hospital where she was treated for a fever. Her condition worsened on Sunday, leading to her death. An autopsy was conducted, with samples sent to Colombo for further analysis.
-
-🟩
-
-The incident took place on Sunday (23), who was killed by a woman who was treated for a fever and taking her medicine.
-
-Vijayakumar Gunarani, a 63 -year -old woman from Jaffna, Jaffna, has died.
-
-Due to the sudden fever on the 20th of last month, she went to the Jaffna Bodhana Hospital on the 22nd and returned home after receiving treatment.
-
-After taking the medicine he received, the woman's body was bad on Sunday (23) and died after being admitted to the Jaffna Bodhana Hospital.
-
-The woman's anatomical examination has been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
-
-◼️
-
-[Data](articles/e3102b39.json)
-
-[Extended Data](ext_articles/e3102b39.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 13:19:23**
+As of **2024-06-24 13:34:47**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,845 (100.0%) of 31,847 articles have been extended.
+31,847 (100.0%) of 31,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### මෛත්‍රී ට එරෙහි නඩුවක් ඒකපාක්ෂිකව විභාග කිරීමට නියෝග
+### Case Maithri has ordered to be heard
 
 *2024-06-24 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198088) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා ඇති අතුරු තහනම් නියෝගයට අදාළ නඩුව ඒකපාක්ෂිකව විභාග කිරීමට කොළඹ දිසා අධිකරණය නියම කර තිබේ.
+Maithripala Sirisena faces investigation by the Colombo District Court over his tenure as SLFP Chairman, following a petition by Montegu Sarachchandra. The court has ordered the case to proceed despite Sirisena's absence.
 
-නඩුව අද (24) කැඳවූ අවස්ථාවේදී විත්තිකාර මෛත්‍රීපාල සිරිසේන මහතා වෙනුවෙන් නීතිඥයෙකු පෙනී සිටීමක් සිදු නොවූ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-ඒ අනුව අදාළ නඩුව ඒකපාක්ෂිකව විභාග කිරීමට කොළඹ දිසා අධිකරණය නියෝග කර තිබේ.
+The Colombo District Court has been appointed to investigate the conclusion of former President Maithripala Sirisena as the Chairman of the Sri Lanka Freedom Party (SLFP).
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි‍.
+The case was taken up today (24), a lawy reporter said that a lawyer was not present on behalf of the defendant Maithripala Sirisena.
+
+Accordingly, the Colombo District Court has ordered to investigate the case.
+
+The petition was presented by Montegu Sarachchandra, a SLFP Executive.
 
 ◼️
 
 [Data](articles/cd6e5a64.json)
+
+[Extended Data](ext_articles/cd6e5a64.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ Five months after the judicial process conducted by the Seychelles government re
 ◼️
 
 [Data](articles/b27ece12.json)
+
+[Extended Data](ext_articles/b27ece12.ext.json)
 
 ---
 

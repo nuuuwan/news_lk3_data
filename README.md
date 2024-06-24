@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 20:53:44**
+As of **2024-06-24 21:04:51**
 
 ## Newspaper Stats
 
-*Scraped **31,931** Articles*
+*Scraped **31,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,806
+adalk | 2,807
 adaderanalk | 3,631
-tamilmirrorlk | 3,763
+tamilmirrorlk | 3,764
 dailymirrorlk | 4,733
 virakesarilk | 4,944
 adaderanasinhalalk | 5,233
@@ -26,25 +26,49 @@ adaderanasinhalalk | 5,233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,930 (100.0%) of 31,931 articles have been extended.
+31,931 (100.0%) of 31,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### අබුඩාබිය හැඩ කළ පොසොන් කලාපය
+### கோர விபத்தில் இளம் குடும்பஸ்தர் மரணம்
+
+*2024-06-24 20:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கோர-விபத்தில்-இளம்-குடும்பஸ்தர்-மரணம்/72-339348) · `ta`
+
+மன்னார் - முருங்கன் பொலிஸ் பிரிவுக்கு உட்பட்ட முருங்கன் ரயில் கடவை பகுதியில் இன்று (24) மாலை  பேருந்தும் மோட்டார் சைக்கிளும் மோதியதில் மோட்டார் சைக்கிளில் பயணித்த இளம் குடும்பஸ்தர்  சம்பவ இடத்திலேயே மரணமடைந்துள்ளார்.
+
+மன்னாரில் இருந்து சென்ற தனியார் பேருந்தும், வவுனியா பகுதியில் இருந்து முருங்கன் வீதி நோக்கி வந்த மோட்டார் சைக்கிளும் முருங்கன்- கற்கிடந்தகுளம் கிராமத்திற்கும் இடையில் உள்ள  ரயில்வே கடவைப் பகுதியில்  மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+மரணமடைந்தவர் நானாட்டான் பிரதேசத்தில் உள்ள சாளம்பன் நாக செட்டி கிராமத்தைச் சேர்ந்த சுந்தரலிங்கம் தீபன்  (வயது-35) இளம் குடும்பஸ்தர் என தெரிய வருகிறது.
+
+சடலம் முருங்கன் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணையை முருங்கன் பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/0424168b.json)
+
+---
+
+### The Poson Zone that was shaped Abuadabi
 
 *2024-06-24 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198110) · `si`
 
-එක්සත් අරාබි එමීර් රාජ්‍යයේ අබුඩාබි හි ශ්‍රී ලංකා තානාපති කාර්යාලය සංවිධානය කරන පොසොන් කලාපය පසුගියදා පැවැත්වුණි.
+The recent Poson Zone event in Abu Dhabi featured various activities like the Swarna Siriana scenic pandal. It received support from the Ethnic Students Association of the Ceylon Institute of Indured Industry and the Abu Dhabi Cricket Sports Clubs.
 
-ස්වර්ණ මයුර ජාතකය ඇතුළත් දර්ශනීය තොරණ සමග පහන් කූඩු, බැති ගී, දන්සල් ආදී අංශ රැසක් තෙදිනක් පුරා පැවැත්වුණි.
+🟩
 
-ලංකා ජර්මානු කාර්මික අභ්‍යාස ආයතනයේ ආදි ශිෂ්‍ය සංගමය,අබුඩාබි ක්‍රිකට් ක්‍රීඩා සමාජ එකමුතුව පොසොන් කලාපය සඳහා සංවිධාන දායකත්වය ලබාදී තිබුණි.
+The Poson Zone organized by Abu Dhay was held recently.
+
+Little has launched a number of areas such as Swarna Sirania scenic pandal.
+
+The Ethnic Students Association of the Ceylon Indured Industry Institute, Abu Dhabi Cricket Sports Clubs had contributed to the Poson Zone.
 
 ◼️
 
 [Data](articles/1d8a7444.json)
+
+[Extended Data](ext_articles/1d8a7444.ext.json)
 
 ---
 
@@ -69,6 +93,22 @@ It is reported most of the landslides to mislead individuals.
 [Data](articles/bfd25815.json)
 
 [Extended Data](ext_articles/bfd25815.ext.json)
+
+---
+
+### රනිල් එක්ක එක්වෙනවාද තීරණය පසුවයි
+
+*2024-06-24 20:08:18* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-එක්ක-එක්වෙනවාද-තීරණය-පසුවයි/11-410417) · `si`
+
+ආණ්ඩුව මහජනයාට තව තවත් බදු බර පටවන බවත්, අනිවාර්යයෙන්ම තම කණ්ඩායම ආණ්ඩුවක් පිහිටුවන බවත් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ගම්පොලදී ප්‍රකාශ කළේය.
+
+ගම්පොළ ගුරුකැලේ ශ්‍රී බෝධිරාජරාම විහාරාධිපති මුල්ගම සුමනතිතිස්ස හිමිපාණන් වෙත අමරපුර අරියවංශ සද්ධම්ම යුක්තික මහානිකායේ මහා නායක හිමියන් ප්‍රමුඛ සිරිසුමනජෝති කාරක සංඝ සභාව මගින් පිරිනමන ලද ගෞරව නාමය සහිත මහනුවර නුවරඑළිය දෙදිසාවේ ප්‍රධාන අධිකරණ සංඝනායක පදවිය පිළිබඳ අක්තපත්‍ර ප්‍රදානෝත්සවයට එක් වූ අවස්ථාවේදී මාධ්‍යවේදීන් අමතමින් හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+නව ආණ්ඩුවක් පිහිටුවීමේදී රනිල් වික්‍රමසිංහ මහතා සමග එක්වනවාද යන්න පසුව තීරණය කරන බවත්, තම පක්ෂයේ අපේක්ෂකයන් ඕනෑ තරම් සිටින බවත් මෙහිදී මහින්ද රාජපක්ෂ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/fd2447da.json)
 
 ---
 
@@ -2355,49 +2395,5 @@ Criminal Division OIC Inspector General of Police Gayan Krizhahantha and Sergean
 [Data](articles/a6245d6d.json)
 
 [Extended Data](ext_articles/a6245d6d.ext.json)
-
----
-
-### Special delegation to leave for Russia to help repatriate ex-soldiers
-
-*2024-06-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100059/special-delegation-to-leave-for-russia-to-help-repatriate-ex-soldiers-) · `en`
-
-MP Gamini Waleboda says that a special delegation will depart for Russia today (24) to arrange for the repatriation of Sri Lankan ex-military personnel fighting in the ongoing Russia-Ukraine war and for the related discussions.
-
-The parliamentarian further stated that a delegation comprising six members including the Defence Secretary and officials from the Ministry of Foreign Affairs are scheduled to leave for Russia.
-
-The official meeting between the Sri Lankan delegation and the representatives of the Russian government will be held in Moscow on Wednesday (26).
-
-These discussions are planned to include meetings with the Russian Deputy Minister of Defense in the morning and the Deputy Foreign Minister of Russia in the evening.
-
-MP Waleboda stated that several rounds of diplomatic talks are scheduled to take place during this visit.
-
-◼️
-
-[Data](articles/61774c22.json)
-
-[Extended Data](ext_articles/61774c22.ext.json)
-
----
-
-### Special delegation to leave for Russia to help repatriate ex-soldiers
-
-*2024-06-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100059/special-delegation-to-leave-for-russia-to-help-repatriate-ex-soldiers) · `en`
-
-MP Gamini Waleboda says that a special delegation will depart for Russia today (24) to arrange for the repatriation of Sri Lankan ex-military personnel fighting in the ongoing Russia-Ukraine war and for the related discussions.
-
-The parliamentarian further stated that a delegation comprising six members including the Defence Secretary and officials from the Ministry of Foreign Affairs are scheduled to leave for Russia.
-
-The official meeting between the Sri Lankan delegation and the representatives of the Russian government will be held in Moscow on Wednesday (26).
-
-These discussions are planned to include meetings with the Russian Deputy Minister of Defense in the morning and the Deputy Foreign Minister of Russia in the evening.
-
-MP Waleboda stated that several rounds of diplomatic talks are scheduled to take place during this visit.
-
-◼️
-
-[Data](articles/a43e1124.json)
-
-[Extended Data](ext_articles/a43e1124.ext.json)
 
 ---

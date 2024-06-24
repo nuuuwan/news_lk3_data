@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 22:52:34**
+As of **2024-06-24 23:04:34**
 
 ## Newspaper Stats
 
-*Scraped **31,941** Articles*
+*Scraped **31,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,633
 tamilmirrorlk | 3,765
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,236
+adaderanasinhalalk | 5,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,939 (100.0%) of 31,941 articles have been extended.
+31,939 (100.0%) of 31,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,28 @@ The Strategic Steering Committee meeting and summary workshop of the Biogas, Bio
 ...
 
 [Data](articles/42563f20.json)
+
+---
+
+### හොල්මන් මන්දිරයේ පවුල් ආරවුලක්
+
+*2024-06-24 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198114) · `si`
+
+සිය අනියම් පෙම්වතා සමග නවගමුව ප්‍රදේශයේ හොල්මන් මන්දිරයක් නැරඹීමට ගොස් සිටියදී එහි මිනීපෙට්ටියේ මෘතදේහය ලෙස සිටි විවාහක සැමියා ඇයව හඳුනාගැනීමෙන් එම ස්ථානයේ ගැටුමක් ඇතිවී තිබේ.
+
+එම අවස්ථාවේදී සැමියා විසින් අදාළ 21 හැවිරිදි බිරිඳට පහරදීමට තැත්කර ඇති අරත එහිදී ඇතිවූ ගැටුමේදී පුද්ගලයන් 12 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත මුදාහරින ලෙස කඩුවෙල මහෙස්ත්‍රාත්වරිය අද (24) නියෝග කර තිබුණි.
+
+මෙලෙස ඇප මත මුදාහරින ලද්දේ නවගමුව ප්‍රදේශයේ පදිංචිකරුවන් වන අවුරුදු 19ත් 24ත් අතර වයසේ පසුවූ පිරිසකි.
+
+අදාළ විවාහක යුවළ කලක සිට වෙන්ව ජීවත්වී ඇති අතර නීත්‍යානුකූලව වෙන්වී නොමැති බවත් හෙළිවී තිබේ.
+
+එමෙන්ම පහර දීමට සම්බන්ධ දෙපාර්ශ්වයේම පුද්ගලයන් හය දෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබා පිටව ගොස් ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/eea4dff9.json)
 
 ---
 
@@ -2355,31 +2377,5 @@ She told us Oran had a range of different seizures, including those where he fel
 [Data](articles/47bbe87f.json)
 
 [Extended Data](ext_articles/47bbe87f.ext.json)
-
----
-
-### Robbery at the house of former cricketer
-
-*2024-06-24 11:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முன்னாள்-கிரிக்கெட்-வீரரின்-வீட்டில்-கொள்ளை/44-339317) · `ta`
-
-Thieves broke into the house of former cricketer Sasithra Senanayake in Kalgoda, stealing watches, laptops, machinery, gold, and cash. They disabled the security system and entered through a broken window. The incident was reported after the family found their return home with no electricity and an open front door.
-
-🟩
-
-Talangama police say that thieves have entered the house of former cricketer Sasithra Senanayake in Kalgoda Gramodaya, Kalgoda, Pannipitiya.
-
-Police said the stolen assets include watches, fold computers, machinery, gold items and money.
-
-Initial investigations by the police revealed that the thieves who entered the house had also taken the savings equipment of the security camera system.
-
-Police investigations revealed that when Sasitra Senanayake and his family left the house for the purpose, the window of the house had been broken into and broke into the bedroom and stole the property.
-
-The next night, when Sasitra and her family returned home, the electricity was cut off and the front door was open.. Subsequently a complaint has been lodged with the police.
-
-◼️
-
-[Data](articles/f175173d.json)
-
-[Extended Data](ext_articles/f175173d.ext.json)
 
 ---

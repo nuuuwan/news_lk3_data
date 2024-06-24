@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 01:04:39**
+As of **2024-06-25 01:19:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,952 (100.0%) of 31,963 articles have been extended.
+31,958 (100.0%) of 31,963 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Highlighting the importance of voter participation, he said, “If citizens exer
 
 [Data](articles/5d763a2e.json)
 
+[Extended Data](ext_articles/5d763a2e.ext.json)
+
 ---
 
 ### New Chief of Staff of Sri Lanka Army
@@ -55,6 +57,8 @@ Major General Rohitha Aluvihare of the Vijayabahu Infantry Regiment assumed duti
 ◼️
 
 [Data](articles/b22dc7a2.json)
+
+[Extended Data](ext_articles/b22dc7a2.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ Addressing a press conference on Sunday, Wijeweera criticised the JVP for forsak
 
 [Data](articles/ce40b093.json)
 
+[Extended Data](ext_articles/ce40b093.ext.json)
+
 ---
 
 ### Experts evaluate sustainability of proposed Economic Transformation Bill
@@ -95,6 +101,8 @@ In an awareness campaign organised by the All Union Alliance of the Board of Inv
 ...
 
 [Data](articles/65dca719.json)
+
+[Extended Data](ext_articles/65dca719.ext.json)
 
 ---
 
@@ -114,25 +122,33 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 
 [Data](articles/20862c8d.json)
 
+[Extended Data](ext_articles/20862c8d.ext.json)
+
 ---
 
 ### 2024-06-24 (Monday)
 
-### கல்முனையில் தமிழர்கள் வெகுண்டெழுந்தனர்
+### Tamils ​​in Kalmunai
 
 *2024-06-24 23:57:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனையில்-தமிழர்கள்-வெகுண்டெழுந்தனர்/175-339363) · `ta`
 
-கடந்த முப்பது வருடங்களுக்கு மேலாக கல்முனை வடக்கு பிரதேச செயலகத்துக்கு எதிராக இடம் பெற்று வரும் சூழ்ச்சிகளையும் நிருவாக அடக்குமுறைகளையும் கண்டித்து பிரதேச மக்கள் 92வது நாளாக போராட்டத்தில்  ஈடுபட்டனர்.
+For over three decades, residents of Kalmunai North Divisional Secretariat have been protesting against administrative repression, escalating their struggle into an aggressive demonstration blocking roads and disrupting traffic. Led by the Sri Lanka Tamil National Alliance, they demand an end to what they perceive as oppressive governance tactics aimed at suppressing their rights. Despite the office's upgrade to a separate Divisional Secretariat in 1988, ongoing political maneuvering and alleged misuse of authority have fueled the protests. The community seeks a peaceful resolution, highlighting the need for fair treatment and justice.
 
-ஆனால், திங்கட்கிழமை  (24)  போராட்ட வடிவத்தை மாற்றி,செயலகத்தை மூடி, வீதிகளை மறித்து ஆக்ரோஷமான முறையில் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர். இதனால் போக்குவரத்து முற்றாக செயலிழந்தது.பிரதேச செயலகம் இயங்கவில்லை. நகரில் ஒருவித பதட்டம் நிலவியது.
+🟩
 
-“கல்முனை வடக்கு பிரதேய செயலக உரிமைகளை திட்டமிடப்பட்டு ஒடுக்கும் நிருவாக அடக்குமுறைகளை இனியும் பொறுத்துக்கொண்டு இருக்க முடியாது, அரசாங்கம் இனியும் வாக்குறுதிகளை வழங்கி காலத்தை இழுத்தடிக்காது உடன் தீர்வை தரும் வரை எமது போராட்டம் தொடரும்” என மக்கள் தெரிவித்தனர்.
+For more than thirty years, the people of the area have been protesting for the 92nd day, condemning the maneuvers and administrative repression against the Kalmunai North Divisional Secretariat.
 
-கல்முனை வடக்கு பிரதேச செயலகம் முன்பாக மக்கள் குவிந்ததுடன், கல்முனை மட்டக்களப்பு பிரதான வீதியையும் முற்றுகையிட்டுள்ளனர்.
+But on Monday (24), they changed the form of struggle, closed the secretariat, crossed the streets and protested in an aggressive protest.. The traffic was completely inaccessible.. There was some sort of tension in the city.
+
+“The people said," Our struggle will continue until the government will no longer be able to depend on the administrative repression that can be planned and suppressed the rights of Kalmunai Northern Province. "
+
+People gathered in front of the Kalmunai North Divisional Secretariat and the main road in Kalmunai Batticaloa has been blocked.
 
 ...
 
 [Data](articles/2d6196a3.json)
+
+[Extended Data](ext_articles/2d6196a3.ext.json)
 
 ---
 

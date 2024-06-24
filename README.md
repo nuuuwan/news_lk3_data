@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 08:22:59**
+As of **2024-06-24 08:34:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,791 (100.0%) of 31,794 articles have been extended.
+31,794 (100.0%) of 31,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,25 +106,33 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 
 ---
 
-### டாகெஸ்தான் குடியரசில் கிறிஸ்தவ  தேவாலயங்கள்யூதவழிபாட்டு தலங்கள் மீது தாக்குதல் - பொலிஸார் உட்பட பலர் பலி
+### Christian churches attack in the Republic of Doctrine - many people, including police,
 
 *2024-06-24 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186794) · `ta`
 
-ரஸ்யாவின் வடபகுதியில் உள்ள டாகெஸ்தான் குடியரசில் கிறிஸ்தவ தேவாலயங்கள் யூதவழிபாட்டுதலங்கள் மீது மேற்கொள்ளப்பட்ட தாக்குதல்களில் பலர் கொல்லப்பட்டுள்ளனர்.
+In northern Russia, several Christian churches were attacked during a religious event, resulting in numerous deaths, including seven police officers and six assailants. The victims included Christians and Jews, with no clear perpetrator identified yet. This incident follows a history of extremist attacks in the region.
 
-டெர்பென்ட் மற்றும் மகச்சலா நகரங்களில் பெந்தகோஸ்மத பிரிவினரின் மதவழிபாட்டு நிகழ்வின்போது இந்த தாக்குதல் இடம்பெற்றுள்ளது.
+🟩
 
-ஏழு பொலிஸார் மதகுரு பாதுகாப்பு உத்தியோகத்தர் உட்பட பலர் கொல்லப்பட்டுள்ளனர் தாக்குதலை மேற்கொண்டவர்களில் ஆறு பேர் கொல்லப்பட்டுள்ளனர்.
+In the North of Russia, many have been killed in attacks on Christian churches on Jewish transactions.
 
-தாக்குதலை மேற்கொண்டவர்கள் யார் என்பது இதுவரை உறுதியாக தெரியவில்லை எனினும் கடந்த காலங்களில் டாகெஸ்தான் பல தடவை இஸ்லாமிய தீவிரவாதிகளின் தாக்குதல்களை எதிர்கொண்டிருந்தது.
+The attack took place during the religious event of the Benthagosamadhumans in the cities of Terbent and Makachala.
 
-ஞாயிற்றுக்கிழமை தாக்குதலில் இரண்டு கிறிஸ்தவ தேவலாயங்களும் யூதவழிபாட்டுதலமும் இலக்குவைக்கப்பட்டதாகவும் கிறிஸ்தவமதகுரு ஒருவர் கொல்லப்பட்டுள்ளார் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+Seven policemen, including a cleric security officer, have been killed and six of the attackers have been killed.
 
-கறுப்புநிறத்தில் உடையணிந்தவர்கள் பொலிஸாரின் வாகத்தொடரணி மீது தாக்குதலை மேற்கொள்வதை காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+It is not yet certain who carried out the attack, but in the past, Dagestan has been facing attacks by Islamic extremists many times.
 
-...
+It is reported that two Christian heavens and Jews have been targeted in the Sunday attack and a Christian man has been killed.
+
+Videos have been revealed that black -dressed people are carrying out an attack on the police.
+
+Those who attacked the Christian church on the Jews in the Jews, which have been living in the Jews for many years, have set fire to them.
+
+◼️
 
 [Data](articles/141796b7.json)
+
+[Extended Data](ext_articles/141796b7.ext.json)
 
 ---
 
@@ -420,41 +428,59 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 
 ---
 
-### ජනාධිපතිවරණයේ දී උතුරු - නැගෙනහිර පළාත්වල ජය කාටද ?
+### Who wins North and East in the presidential election?
 
 *2024-06-24 02:07:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72221znrx5o) · `si`
 
-ශ්‍රී ලංකාවේ නම වැනි ජනාධිපතිවරයා තෝරා පත් කරගන්නා ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමට මැතිවරණ කොමිසමට බලය ලැබීමට තවත් ඇත්තේ දින ගණනකි.
+The summary of the text focuses on the dynamics of presidential elections in Sri Lanka, particularly in the North and East regions, highlighting key moments and figures such as Anura Kumara Dissanayake, Mahinda Rajapaksa, Sarath Fonseka, and others. It mentions the importance of votes from these regions, the strategies employed by candidates, and the historical outcomes of past elections.
 
-එසේ ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරිමට තිබිය දී ජනමත විචාරණයකින් වත්මන් ජනාධිපතිවරයාගේ කාලය දිර්ඝ කර ගැනීමට මෙන්ම ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාට වසර 6ක කාලයක් ධූරයේ රැඳි සිටිය හැකි බවට මත පළ වීමත් සමගම දේශපාලන පිටිය උණුසුම් වී තිබේ.
+🟩
 
-සමගි ජන බලවේගය නියෝජනය කරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස සහ ජාතික ජනබලවේගයෙන් අනුර කුමාර දිසානායක ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත අතර අනුප්‍රාප්තික ජනාධිපතිවරයා වශයෙන් කටයුතු කරන රනිල් වික්‍රමසිංහ එක්සත් ජාතික පක්ෂ නියෝජනය කරමින් ජනාධිපතිවරණයට ඉදිරිපත් වන බව එම පක්ෂයේ කෘත්‍යාධිකාර මණ්ඩල සභිකයයෝ පවසති.
+There are days, the Elections Commission has any more than days to publish the Presidential Election, the name of the President of Sri Lanka.
 
-කෙසේවෙතත් තම ප්‍රථම ජනාධිපතිවරණයට මුහුණ දී එය ජය ගත් ශ්‍රී ලංකා පොදු ජන පෙරමුණ මෙතෙක් තම පක්ෂයෙන් ඉදිරිපත් වන අපේක්ෂකයා කවුදැයි ප්‍රකාශ කර නැත.
+The political field has been warm, as well as the president's period of the present president as well as the constitution is to be resolved in a referendum.
 
-මෙරට පැවති පසුගිය ජනාධිපතිවරණ පිළිබඳ නිරීක්ෂණය කිරිමේ දී උතුරු නැගෙනහිර ප්‍රමුඛව රට පුරා දෙමළ සහ මුස්ලිම් ජනතාවගේ ඡන්දය අතිශය තීරණාත්මක වී තිබේ.
+UNP's Working Committee member says that Anura Kumara Dissanayake is due to contest the presidential election by representing the reconciliation force.
+
+However, the Sri Lanka Common Filling Front who has won his first presidential election has not been declared who the party's candidate has ever committed.
+
+The votes of the North and the Muslim Tamil and the Muslim people throughout the North and the country have become critical in the North and East.
+
+The main candidates are trying to increase their votes by aimed at the next presidential election.
+
+President Ranil Wickremesinghe visited the Jaffna and Nuwara Eliya districts, Ranil Wickremesinghe visited the weekend last weekend.
 
 ...
 
 [Data](articles/6f9a8475.json)
 
+[Extended Data](ext_articles/6f9a8475.ext.json)
+
 ---
 
-### ’பொருளாதாரத்தை கட்டியெழுப்புவேன் ’
+### I will build the economy
 
 *2024-06-24 01:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-கட்டியெழுப்புவேன்/175-339302) · `ta`
 
-நாட்டின் பொருளாதாரத்தை மீளக் கட்டியெழுப்பவே தாம் நாட்டைப் பொறுப்பேற்றதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, நாட்டின் விவசாயிகளின் வாழ்விலும் புதிய மாற்றம் ஏற்படும் என்றும் குறிப்பிட்டார்.
+President Ranil Wickremesinghe aims to revitalize Sri Lanka's economy, focusing on agricultural modernization. He inaugurated a groundnut processing center in Batticaloa, funded by the Ministry of Agriculture, and gifted laptops to farmers. Additionally, he visited a pomegranate estate in Mylambavali, highlighting his commitment to supporting farmers and boosting the agricultural sector.
 
-விவசாய அமைச்சினால் நடைமுறைப்படுத்தப்பட்டுள்ள விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ் 55 மில்லியன் ரூபா செலவில் மட்டக்களப்பு – கரடியனாறு பிரதேசத்தில் நிர்மாணிக்கப்பட்டிருக்கும் நிலக்கடலை பதப்படுத்தும் நிலையத்தை நேற்று திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இதனைக் தெரிவித்தார்.
+🟩
 
-இந்நிகழ்வில் கலந்து கொண்ட ஜனாதிபதிக்கு தமிழ் கலாச்சார முறைப்படி வரவேற்பு அளிக்கப்ப்பட்டது. நிலக்கடலை பதப்படுத்தும் நிலையத்தை திறந்து வைத்த ஜனாதிபதி அதன் செயற்பாடுகளைப் பார்வையிட்டார். அதனையடுத்து விவசாயிலுக்கு ஜனாதிபதியால் மடிக்கணினிகளும் வழங்கப்பட்டன.
+President Ranil Wickremesinghe said that he took over the country to rebuild the country's economy and that a new change would be a new change in the lives of the farmers of the country.
 
-இதேவேளை, மைலம்பாவலி – செங்கலடி பிரதேசத்தில் அமைந்துள்ள மாதுளை தோட்டத்தையும் ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று முற்பகல் பார்வையிட்டார்.
+The President said this while addressing the inauguration of the groundnut processing center in Batticaloa - Karadiyanaru area at a cost of 55 million rupees under the Agricultural Modernization Program implemented by the Ministry of Agriculture.
 
-...
+The President who attended the event was welcomed by the Tamil cultural system. The President opened the groundnut processing center and visited its activities. Subsequently, the farmer was given laptops by the president.
+
+Meanwhile, President Ranil Wickremesinghe also visited the Pomegranate Estate in the Mylambavali -Chengaladi area yesterday morning.
+
+The pomegranate is located on 150 acres and 300 farmers are involved in the cultivation.. Farmers earned an income of up to 36 lakhs of pomegranates last year. (A)
+
+◼️
 
 [Data](articles/cd860773.json)
+
+[Extended Data](ext_articles/cd860773.ext.json)
 
 ---
 

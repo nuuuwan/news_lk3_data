@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 15:19:36**
+As of **2024-06-24 15:34:58**
 
 ## Newspaper Stats
 
-*Scraped **31,879** Articles*
+*Scraped **31,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,620
 tamilmirrorlk | 3,757
 dailymirrorlk | 4,733
 virakesarilk | 4,940
-adaderanasinhalalk | 5,216
+adaderanasinhalalk | 5,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,877 (100.0%) of 31,879 articles have been extended.
+31,879 (100.0%) of 31,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### දකුණු කොරියාවේ කර්මාන්ත ශාලාවක ගින්නක් - 16ක් මරුට
+
+*2024-06-24 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198092) · `si`
+
+දකුණු කොරියාවේ ලිතියම් බැටරි කර්මාන්ත ශාලාවක ඇතිවූ ගින්නකින් 16 දෙනෙක් මියගොස් 5 දෙනෙක් අතුරුදන්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+සෝල් අගනුවරට ආසන්න Hwaseong නම් ප්‍රදේශයේ පිහිටි "Aricell"  කර්මාන්ත ශාලාවේ එම ගින්න අද (24) උදෑසන ඇතිවිය.
+
+එහි ගබඩාවක තිබූ බැටරි සෙල් පුපුරා ගොස් ඇති අතර එම පිපිරීමට හේතුව අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/10f459b3.json)
+
+---
 
 ### Teacher and husband arrested for annual discounts
 
@@ -60,23 +76,29 @@ According to reports, when the couple was arrested, 40 grams of heroin from the 
 
 ---
 
-### බද්දේගම, අලුත්වල ප්‍රදේශයේ නිවසක් තුල කාන්තා මළ සිරුරක්
+### Woman's dead body found in Angala area in Baddegama
 
 *2024-06-24 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/බද්දේගම--අලුත්වල-ප්‍රදේශයේ-නිවසක්-තුල-කාන්තා-මළ-සිරුරක්/11-410399) · `si`
 
-බද්දේගම, අලුත්වල, සාමගම ප්‍රදේශයේ නිවසක් තුළ කාන්තාවක් ඝාතනය කර ඇතැයි ගෝනපීනුවල පොලීසිය කියයි.
+A 76-year-old woman, K. Dayawathi, was found murdered in her house in Navalagama, Aluthgama, Baddegama. The discovery was made during a police investigation following a tip-off. The victim, who lived alone, had returned home on the evening of the 21st. A wooden rod was found near her body. Her son has fled the area, and the case is under investigation by the Gonapinuwa police, with the body being sent to the Karapitiya Teaching Hospital.
 
-23 දා 119 පොලසිස් හදිසි ඇමතුම් ඒකකයට ලද තොරතුරක් මත සිදු කළ සොයා බැලීමේ දී මිටගිය කාන්තාවකගේ මළ සිරුරක් නිවස තුළ තිබී හමුවී ඇත. මියගොස් තිබෙන්නේ කේ. දයාවති නැමැති 76 වියැති අවිවාහක තැනැත්තියකී. ඇයගේ සහෝදරයාගේ පූත්‍රයා ද එම නිවසේ පදිංචිව සිට ඇති අතර, පොසොන් පෝය දින එම කාන්තාව සිල් සමාදන්වී ඇති බවද, අනාවරණය වී තිබේ.
+🟩
 
-සිල් සමාදන්වීමෙන් පසු 21 දා සන්ධ්‍යාවේ එම කාන්තාව නිවසට පැමිණ ඇති බව ද මුලික පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ. මියගිය කාන්තාවගේ මෘත ශරීරය අසල තිබී ලී දණ්ඩක් ද පොලීසියට හමුවී තිබේ.
+Gonapinuwa police say that a woman has been murdered in a house in Navalagama, Aluthgama, in Baddegama.
 
-ඉන් සිදු කළ පහරදීමකින් මියයන්නට ඇතැයි පොලීසිය සැක කරයි.පොසොන් පෝය දින සන්ධ්‍යාවත්, 23 වෙනිදාත්, අතර කාලයේ දී මෙම අපරාධය සිදු කර තිබේන බව ද පොලීසිය කියයි.
+The body of a woman was found in the house when he was investigating a tip off received on Tuesday. The deceased is K. Dayawathi's 76-year-old unmarried. She has also resided at the house and that the woman has been in peace with the Poson Poya.
 
-නිවසේ පදිංචිව සිටි පුත්‍රයා ප්‍රදේශයෙන් පළාගොස් ඇති බවද පොලීසිය කියයි. මෘත ශරිරය කරාපිටිය ශික්ෂණ රෝහලට යොමු කර අති අතර, ගෝනපීනුවල පොලීසිය පරීක්ෂණ පවත්වයි.
+The basic police investigations have revealed that the woman had come home on the evening of the 21st after the silmon was informed.. Police also met a wooden rod near the body of the deceased woman.
+
+Police say that the crime was killed in a incident that had been killed in a incident.
+
+The son of the resident of the house has fled the area. The body is being sent to the Karapitiya Teaching Hospital and the Gonapinuwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/743f9da3.json)
+
+[Extended Data](ext_articles/743f9da3.ext.json)
 
 ---
 
@@ -1562,6 +1584,8 @@ However, despite these developments, the Ministry of Education had issued a stat
 
 [Data](articles/8c045719.json)
 
+[Extended Data](ext_articles/8c045719.ext.json)
+
 ---
 
 ### Scotland twenty
@@ -2283,31 +2307,5 @@ President Ranil Wickremesinghe visited the Jaffna and Nuwara Eliya districts, Ra
 [Data](articles/6f9a8475.json)
 
 [Extended Data](ext_articles/6f9a8475.ext.json)
-
----
-
-### Do not escape the challenges
-
-*2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/175-339303) · `ta`
-
-President Ranil Wickremesinghe urged future generations to embrace education, understand policies, and face challenges head-on. He addressed young people in Batticaloa, emphasizing the importance of leadership and political excellence. The gathering, held at the "Golden River" hotel, saw a significant turnout from youth and women, with the President engaging in discussions post-meeting.
-
-🟩
-
-President Ranil Wickremesinghe said the future generations should get better education and appreciate policies and never escape the challenges.
-
-Responding to a question raised by the youth of the Batticaloa district, the President was responding to a question raised by the youth of the Batticaloa district that the country's successful leadership and the best politician as a great politician.
-
-President Ranil Wickremesinghe made this statement at a meeting of the youth team held at the "Golden River" hotel in Batticaloa yesterday.
-
-A large number of youth and women attended the meeting and the president gave favorable answers to their questions.
-
-The President joined the films with the younger ones who attended the meeting after the meeting. (A)
-
-◼️
-
-[Data](articles/35c6f66b.json)
-
-[Extended Data](ext_articles/35c6f66b.ext.json)
 
 ---

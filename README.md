@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 17:04:40**
+As of **2024-06-24 17:19:31**
 
 ## Newspaper Stats
 
-*Scraped **31,906** Articles*
+*Scraped **31,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,800
+adalk | 2,801
 adaderanalk | 3,627
 tamilmirrorlk | 3,760
 dailymirrorlk | 4,733
-virakesarilk | 4,943
-adaderanasinhalalk | 5,224
+virakesarilk | 4,944
+adaderanasinhalalk | 5,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,904 (100.0%) of 31,906 articles have been extended.
+31,906 (100.0%) of 31,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### ජාතික උද්ධමනය පහළට
+
+*2024-06-24 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198101) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 2024 අප්‍රේල් මාසයේ දී වාර්තා වූ 2.7% සිට 2024 මැයි මාසයේ දී 1.6% ක් දක්වා පහළ බැස ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනය කර සිටී.
+
+එහිදී 2024 අප්‍රේල් මාසයේ දී 3.3% ක්ව පැවති ආහාර කාණ්ඩයේ වාර්ෂික ලක්ෂ්‍යමය උද්ධමනය, 2024 මැයි මාසයේ දී 0.5% ක් දක්වා පහළ ගොස් ඇත.
+
+මේ අතර 2024 අප්‍රේල් මාසයේ දී 2.3% ක් ලෙසින් වාර්තා වී තිබුණු ආහාර නොවන කාණ්ඩයේ උද්ධමනය 2024 මැයි මාසයේ දී 2.4% ක් දක්වා සුළු වැඩිවීමක් වාර්තා කර ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c8ba8078.json)
+
+---
+
+### இலங்கை விவகாரத்தை சர்வதேச நீதிமன்றத்தில் பாரப்படுத்துவோம் - பிரிட்டனின் தொழில்கட்சி உறுதி மொழி-     பொருளாதார தடைகள் , இனப்படுகொலை இடம்பெற்றதை அங்கீகரிப்பது சாத்தியமில்லை,  கென்சவேர்ட்டிவ் கட்சி-
+
+*2024-06-24 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186854) · `ta`
+
+பிரிட்டனின் தொழில்கட்சி இலங்கை விவகாரத்தை சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு பாரப்படுத்துவதாக உறுதிமொழி வழங்கியுள்ளது.
+
+ஜூலை நான்காம் திகதி பிரிட்டனில் நாடாளுமன்ற தேர்தல் இடம்பெறவுள்ள நிலையில் கென்சவேர்ட்டிவ் தொழில்கட்சி மற்றும் பசுமை கட்சிகளின் பிரதிநிதிகள் பிரிட்டனில் முதல்தடவையாக இடம்பெற்றுள்ள தமிழ் தேர்தல் மேடை நிகழ்வில் கலந்துகொண்டு உரையாற்றியுள்ளதுடன்  இலங்கையில் இடம்பெற்ற பாரிய அநீதிகளிற்கு நீதி பொறுப்புக்கூறலை உறுதி செய்வதை நோக்கிய நடவடிக்கைகளை எடுக்கப்போவதாக உறுதியளித்துள்ளனர்.
+
+தமிழ் கார்டியன் பிரிட்டிஸ் தமிழ் கூட்டமைப்பு ஆகியன இணைந்து ஏற்பாடு செய்த இந்த நிகழ்வு வெஸ்ட்மினிஸ்டரில் இடம்பெற்றது.
+
+இதில் கலந்துகொண்ட பிரிட்டனின் பிரதான கட்சிகளின் பிரதிநிதிகள் நாட்டிற்கான அவர்களின் தொலைநோக்கையும் பிரிட்டனின் தமிழ் சமூகத்திற்கான தங்களின் பகிரப்பட்ட அர்ப்பணிப்பையும் முன்வைத்தனர்.
+
+...
+
+[Data](articles/a73e4014.json)
+
+---
 
 ### SLFP leadership issue will be solved after winning Presidential Election - Wijeyadasa
 
@@ -47,6 +81,8 @@ Commenting further, he expressed that he will contest for the upcoming President
 ...
 
 [Data](articles/a08fe231.json)
+
+[Extended Data](ext_articles/a08fe231.ext.json)
 
 ---
 
@@ -132,7 +168,15 @@ If the allegations against the Sri Lankan cricket team went to the T20 World Cup
 
 The Education Ministry Secretary has requested the Defence Secretary to ensure the security of all schools, National Colleges of Education island-wide, their staff and students while the non-academic staff engage in their ‘sick leave’ campaign today and tomorrow.
 
-◼️
+The non-academic staff of government schools have launched a trade union action by reporting sick today (24) and tomorrow (25).
+
+Accordingly, the Ministry of Education has issued a notice to the school principals on the functioning of schools on these days.
+
+It is instructed to initiate a proper plan to effectively coordinate academic activities in collaboration with the school community to ensure continuous education without any interruptions.
+
+The notice has been issued to all the Provincial Educational Secretaries and the Provincial Educational Directors.
+
+...
 
 [Data](articles/e823fdda.json)
 
@@ -184,7 +228,7 @@ The backhouse was slipped with the driver, which was loaded into the lorry, and 
 
 ### Make sure the vegetarians worship freely in Hindu temples in the North and East - Minister Vidura
 
-*2024-06-24 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186825) · `ta`
+*2024-06-24 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186825) · `ta`
 
 Minister Vidura Wickramanayake, during his visit to Nallai Athena, was tasked with ensuring vegetarian worshippers' rights in Shiva temples in Kurundurmalai and Vedukkunni. He was also asked to facilitate the handover of land used by Saivas near the Talsevana Hotel in Kankesanthurai. In response, Minister Kurundurmalai promised an alternative solution after relocating the Thirukoneeswara box. This discussion took place on Monday, 24th.
 
@@ -1198,6 +1242,20 @@ The interim injunction was issued when the petition was filed by Mundiku Saracha
 
 ---
 
+### දෙන්න කථාවෙලා එක බොරුවක් කියන්න
+
+*2024-06-24 12:39:09* · [`adalk`](https://www.ada.lk/breaking_news/දෙන්න-කථාවෙලා-එක-බොරුවක්-කියන්න/11-410396) · `si`
+
+ද්විපාර්ශවිය ණය ප්‍රතිව්‍යුහකරණයට ගිවිසුමක් අත්සන් කිරීම පදනම් කර ගෙන රට බංකොලොත් බවින් මිදුනා යැයි පවසමින් සැණකෙලි පවත්වන්න ආණ්ඩුව සූදානම් වුවද සැබැවින්ම රට බංකොලොත් භාවයෙන් මිදී නොමැති බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (24) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවක් අමතමිනි. පිවිතුරු හෙළ උරුමයේ නායකයා එහිදී වැඩි දුරටත් මෙසේ අදහස් දැක්වීය.
+
+"ජූනි 27 දිනට ද්විපාර්ශවිය ණය ප්‍රතිව්‍යුහකරණයට ගිවිසුමක් අත්සන් කිරීම පදනම් කරගෙන රට බංකොලොත් බවින් මිදුනා කියලා රබන් ගහලා රතිඤ්ඤා පත්තු කරලා සැණකෙලි පවත්වන්න ආණ්ඩුව කටයුතු සංවිධානය කරනවා කියලා අපට ආරංචියි.  නමුත් ද්විපාර්ශවික ණය කියන්නේ අපේ විදේශ ණය වලින් පොඩි කොටසක් විතරයි.  ඒක ආපසු ගෙවන ක්‍රමවේදයක් පිළිබඳ එකඟතාවයක් ඇති කර ගත්තා කියලා අපි බංකොලොත් බවින් මිදෙන්නේ නෑ.
+
+...
+
+[Data](articles/18376d75.json)
+
+---
+
 ### A fourteen-year-old girl missing
 
 *2024-06-24 12:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දාහත්හැවිරිදි-තරුණියක්-අතුරුදහන්/11-410394) · `si`
@@ -1878,15 +1936,21 @@ The Twenty-Twenty World Cup was held today (24).
 
 ---
 
-### இராஜாங்க அமைச்சரானார் வியாழேந்திரன்
+### Jupiter became Minister of State
 
 *2024-06-24 10:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரானார்-வியாழேந்திரன்/175-339307) · `ta`
 
-வர்த்தக மற்றும் சுற்றாடல் இராஜாங்க அமைச்சராக பாராளுமன்ற உறுப்பினர் சதாசிவம் வியாழேந்திரன் சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Sadasivam Judendran was appointed Minister of Commerce and Environment, while Jupiter assumed a state ministerial role, both in the presence of President Ranil Wickremesinghe.
+
+🟩
+
+Parliamentarian Sadasivam Judendran was sworn in as the Minister of Commerce and Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/a0c516e2.json)
+
+[Extended Data](ext_articles/a0c516e2.ext.json)
 
 ---
 
@@ -2267,75 +2331,5 @@ It is also worth noting that journalists have not been allowed to display the ne
 [Data](articles/e7c8a2ef.json)
 
 [Extended Data](ext_articles/e7c8a2ef.ext.json)
-
----
-
-### England entered the semi -finals as the first team to win the United States
-
-*2024-06-24 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186793) · `ta`
-
-England became the first team to reach the semi-finals of the 9th R20 World Cup after defeating the United States and West Indies. In the Super 8 stage, Barjdown qualified for Group 2, where Chris Jordan's 4-wicket haul and Jose Butler's aggressive batting led to a significant win against the United States, scoring 115 runs in 18.5 overs. The match saw Nitish Kumar, Gore Andasan, and Hameed Singh score notable runs, with Chris Jordan achieving the historic 9th Head-Trick in the tournament's history. England secured victory with a 117-run win in 9.4 overs, setting them up for further competition with a high net run rate.
-
-🟩
-
-The United States and the West Indies are partially eligible to play the Joint Champions England's first team in the 9th R20 World Cup chapter.
-
-Barjdown was qualified to play at the Super 8 T20 World Cup for the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Brijdown Kensington Oval Stadium.
-
-The 4-wicket pile of Chris Jordan's Hed-Trick, and the squad of team captain Jose Butler's action made the UK's success and increased the net speed.
-
-The team that win tomorrow's match between South Africa and the West Indies will qualify for the semi -finals as the 2nd team.
-
-In today's Super 8 match, the United States lost all wickets in 18.5 overs and scored 115 runs.
-
-The United States lost 3 wickets in 10 overs and scored 65 runs and then scored 115 runs for the remaining 7 wickets by 50 runs.
-
-Nitish Kumar (30), Gore Andasan (29) and Hameed Singh (21) scored more than 20 runs.
-
-In the 18th over of the match, Chris Jordan took wickets in the head -trick and made history.
-
-...
-
-[Data](articles/d21b2c89.json)
-
-[Extended Data](ext_articles/d21b2c89.ext.json)
-
----
-
-### The Economic Transformation Bill: For Whom & For What ?
-
-*2024-06-24 09:17:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-economic-transformation-bill-for-whom-for-what/) · `en`
-
-The Economic Transformation Bill, is said to be emanating from a “Vision” of President Ranil Wickremesinghe (Ref.media statements of Actg. Finance Minister Semasinghe)  of how to prevent future economic collapse and not based on any IMF prescriptions. Even a cursory  reading of the Bill shows that this “vision” seems to be tipping the balance of  hallucination and unilaterally setting  economic benchmarks for the country in a futuristic scenario without a ghost of a plan or action as to how and why these targets were prescribed and by what means other than abolishing existing technocracies and  establishing institutions that are entirely politicised .
-
-...
-
-[Data](articles/5b3e8a58.json)
-
-[Extended Data](ext_articles/5b3e8a58.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-06-24 09:07:09* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-410388) · `si`
-
-The Department of Meteorology warns of rough seas in several coastal regions, including Trincomalee, Puttalam, Chilaw, and Hambantota, with waves reaching heights of 2.0m to 2.5m. It advises caution for fishing communities and the public until 7 am tomorrow.
-
-🟩
-
-The Department of Meteorology was released this morning by the Department of Meteorology.
-
-The announcement of the natural disasters of the Department of Meteorology Department will be valid until 7am tomorrow.
-
-According to the statement from the Trincomalee and Puttalam to Chilaw to Chilaw and Puttalam to Chilaw and Hambantota to the coast extending from the coast extending from the beach.. (60-65) says that the sea areas will be very rough at times.. (50-55) increases to (50-55) and are rough at the titles of titles.
-
-Sea in areas of sea areas off the coast extending from Kalpitiya to Colombo, Galle and Hambantota there is a high yield of highway (2.0m 2.5). The Fisheries and Navy Community has requested the fisheries and the community to pay attention to the land.
-
-◼️
-
-[Data](articles/6c9a29b8.json)
-
-[Extended Data](ext_articles/6c9a29b8.ext.json)
 
 ---

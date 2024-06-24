@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 12:19:24**
+As of **2024-06-24 12:34:44**
 
 ## Newspaper Stats
 
-*Scraped **31,840** Articles*
+*Scraped **31,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,106 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,834
 dailyftlk | 1,942
-adalk | 2,792
+adalk | 2,793
 adaderanalk | 3,616
-tamilmirrorlk | 3,748
+tamilmirrorlk | 3,749
 dailymirrorlk | 4,733
 virakesarilk | 4,931
-adaderanasinhalalk | 5,211
+adaderanasinhalalk | 5,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,833 (100.0%) of 31,840 articles have been extended.
+31,840 (100.0%) of 31,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### பழ நுகர்வு இலங்கையில் அதிகரிப்பு
+### ஜனாதிபதி புதனன்று விசேட அறிவிப்பு
 
-*2024-06-24 11:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழ-நுகர்வு-இலங்கையில்-அதிகரிப்பு/175-339320) · `ta`
+*2024-06-24 12:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புதனன்று-விசேட-அறிவிப்பு/175-339321) · `ta`
 
-2023 ஆம் ஆண்டில் இலங்கையில் பழ நுகர்வு 12.8 மில்லியன் மெட்ரிக் தொன்களாக (1,283,039 மெட்ரிக் தொன்) அதிகரித்துள்ளது என விவசாயத் திணைக்கள  தகவல்கள் தெரிவிக்கின்றன.
+ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் 26ஆம் திகதி நாட்டு மக்களுக்கு உரையாற்றவுள்ளதாக தெரிவிக்கப்படுகின்றது.
 
-இந்நாட்டின் வருடாந்தப் பழங்களின் தேவை 19.6 மில்லியன் மெட்ரிக் தொன்களாகும். (196,9371 மெட்ரிக் தொன்). 2023ஆம் ஆண்டு பழ உற்பத்தி அதிகரிப்பைப் பார்க்கும் போது வாழை, மா, அன்னாசி, பப்பாளி போன்றவற்றின் உற்பத்தி அதிகரித்துள்ளது என விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
+நாட்டின் தற்போதைய பொருளாதார நிலை மற்றும் வெளிநாட்டு கடன் மறுசீரமைப்பில் ஏற்பட்டுள்ள முன்னேற்றம் குறித்தும் ஜனாதிபதி மக்களுக்கு தெரியப்படுத்தவுள்ளதாகவும் கூறப்படுகிறது.
 
-இது தவிர, 2023 ஆம் ஆண்டில் பழங்களின் ஏற்றுமதியும் அதிகரித்துள்ளது. அதன்படி, 38,201 மெட்ரிக் தொன் பழங்கள் ஏற்றுமதி செய்யப்பட்டுள்ளன.
+ஜனாதிபதியின் அறிவிப்பின் மூலம் இலங்கை மக்களுக்கு பல நிவாரணங்கள் கிடைக்கும் என ஐக்கிய தேசியக் கட்சியின் தேசிய செயலாளர்  ரவி கருணாநாயக்க தெரிவித்துள்ளார்.
 
-2027-ம் ஆண்டுக்குள் வாழை உற்பத்தி ஹெக்டேருக்கு 19.5 மெட்ரிக் தொன்னாகவும், மா உற்பத்தியை 9.5 மெட்ரிக் தொன்னாகவும், பப்பாளி 45 மெட்ரிக் தொன்னாகவும், அன்னாசி 14 மெட்ரிக் தொன்னாகவும், ஆரஞ்சு பழத்தை 30 மெட்ரிக் தொன்னாகவும் உயர்த்த திட்டமிடப்பட்டுள்ளது.
+◼️
 
-...
-
-[Data](articles/2ae3cdc3.json)
+[Data](articles/5cbf0b0e.json)
 
 ---
 
-### ව්‍යාජ මැණිකක් විකුණන්න ගිය දෙදෙනෙකුට සිදුවූ දේ
+### හජ් වන්දනා සමයේ මියගිය පිරිස ගැන සෞදි අරාබිය හෙළිකරයි
+
+*2024-06-24 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198087) · `si`
+
+මෙවර හජ් වන්දනා සමයේදී පුද්ගලයින් 1,301ක් මියගොස් ඇති බව සෞදි අරාබිය නිල වශයෙන් නිවේදනය කර තිබේ.
+
+මිය ගිය බහුතරය නීතිවිරෝධී ලෙස පැමිණි වන්දනාකරුවන් බවත් ඔවුන් ට දැඩි උණුසුම මධ්‍යයේ දීර්ඝ දුරක් ඇවිදීමට සිදුව තිබූ බවත් සඳහන් වෙයි.
+
+මියගොස් සිටි පුද්ගලයින්ගෙන් 75%කට පමණ හජ් වන්දනාව සඳහා නිල බලපත්‍ර තිබී නොමැති බවත් ඔවුන්ගෙන් බහුතරයක් මහලු විවිධ රෝගාබාධ සහිත අය බවත් වාර්තා විය.
+
+දැඩි උණුසුම නිසා රෝගී වූ 500,000කට පමණ සෞඛ්‍ය අංශ ප්‍රතිකාර කර ඇති අතර ඉන් 140,000ක් පමණ පිරිසකට නිල බලපත්‍ර තිබී නොමැත.
+
+◼️
+
+[Data](articles/2c143d29.json)
+
+---
+
+### Increase in Sri Lanka
+
+*2024-06-24 11:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழ-நுகர்வு-இலங்கையில்-அதிகரிப்பு/175-339320) · `ta`
+
+In 2023, Sri Lanka saw a rise in fruit consumption to 12.8 million metric tons, with total annual fruit production reaching 19.6 million metric tons. Exports also increased, with 38,201 metric tons shipped abroad. Plans for 2027 aim to boost banana production to 19.5 metric tons per hectare, along with increases for papaya, pineapple, and oranges. The Department of Agriculture is implementing technical activities like introducing hybrids and high-density cultivation to enhance productivity and reduce crop damage.
+
+🟩
+
+In 2023, fruit consumption in Sri Lanka increased to 12.8 million metric tons (1,283,039 metric tonnes), according to the Department of Agriculture.
+
+The country's annual fruit is 19.6 million metric tons. (196,9371 metric ton). The Department of Agriculture said that the production of banana, mango, pineapple and papaya has increased in 2023.
+
+In addition, the exports of fruit have increased by 2023. Accordingly, 38,201 metric tons of fruits have been exported.
+
+By 2027, the banana production is planned to be 19.5 metric tonnes per hectare, 9.5 metric tonnes, papaya 45 metric tonnes, pineapple 14 metric tonnes and orange fruit to 30 metric tonnes.
+
+Dr. Dr. Kamani Ranatunga, Director General of the Department of Agriculture, Dr. Kamani Ranatunga, said that various technical activities have been planned, such as variants, hybrid varieties, high -density cultivation, integrated pest control, plant nutrition, reduce crop damage and introduction.
+
+◼️
+
+[Data](articles/2ae3cdc3.json)
+
+[Extended Data](ext_articles/2ae3cdc3.ext.json)
+
+---
+
+### What happened to two people who went to sell a false gem
 
 *2024-06-24 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198086) · `si`
 
-අධික වටිනාකමකින් යුත් මැණික් ගලක් බවට අඟවමින් ව්‍යාජ පාෂාණයක් අලෙවිකිරීමට සූදානම් වු පුද්ගලයින් දෙදෙනෙකු ආණමඩුව පොලීසිය විසින් ඊයේ (23) රාත්‍රී අත්අඩංගුවට ගෙන තිබේ.
+Two individuals attempting to sell a fake gemstone as a valuable one were arrested by the Anamaduwa Police. The suspects, linked to gem trafficking in Anamaduwa Pammakanda village, planned to deceive local businessmen. Their plot was foiled after a concerned businessman alerted the police, leading to their arrest and the recovery of the fake gemstone.
 
-එම සැකකරුවන් දෙදෙනා ආණමඩුව නගරයේ ව්‍යාපාරීකයෙකුට එම පාශානය රුපියල් කෝටියක විකිණීමට උත්සාහ දරා තිබුණි.
+🟩
 
-ඒ සම්බන්ධයෙන් සැකසිතු අදාළ ව්‍යාපාරිකයා ඒ සම්බන්ධයෙන් පොලීසිය දැනුම්වත් කර තිබේ.
+Anamaduwa Police have arrested two persons who were prepared to marke a fake rock by indicating that a high value gem stone.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ආණමඩුව පරමාකන්ද ගම්මානයේ පදිංචි අවුරුදු 34 හා 38 හැවිරිදි විවිධ ජාවාරම්වලට සම්බන්ධ බවට සැකකරන පුද්ගලයින් දෙදෙනෙකි.
+The two suspects had tried to sell the business for the Anamaduwa town.
 
-ව්‍යාපාරිකයාට පැමිණෙන ලෙස දන්වා තිබු ස්ථාන කිහිපයක් මඟ හරිමින් පසුව නවගත්තේගම මාර්ගයේ තෙන්නන්කුරියාව ප්‍රදේශයෙදී අදාළ මැණික් ගල පෙන්වා මුදල් පැහැර ගැනිමට සැරසිමත් සමගම ආසන්නයේ සිටි පොලිස් නිලධාරින් මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+The process of the relevant businessman has informed the police regarding this.
+
+The arrested persons were suspected to be involved in various trafficking in Anamaduwa Pammakanda village.
+
+The suspects were arrested along with police officers who were informed of several places where the businessman had been informed and then to abduct the relevant gem rock in the Nawanetegama road.
 
 ◼️
 
 [Data](articles/2a7982df.json)
+
+[Extended Data](ext_articles/2a7982df.ext.json)
 
 ---
 
@@ -174,17 +222,23 @@ The mother of the child said that his child's life has been better than better.
 
 ---
 
-### තවත් ඇමතිවරයෙක් ජනාධිපති ඉදිරියේදී  දිවුරුම් දෙයි
+### Another minister sworn in the president in the future
 
 *2024-06-24 11:21:39* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-ඇමතිවරයෙක්-ජනාධිපති-ඉදිරියේදී--දිවුරුම්-දෙයි/11-410392) · `si`
 
-වෙළෙඳ හා පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස මඩකලපුව දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුව නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී සතාසිවම් වියාලේන්ද්‍රන් මහතා ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේදී  දිවුරුම් දී ඇති බව වාර්තා වේ.
+Parliamentarian Sathaasivam Dakurandran, representing Batticaloa District, was sworn into the presidential Secretariat. He also serves on the Select Committee of Parliament and the Ministry of Trade, Commerce, and Food Security.
 
-මීට අමතරව සතාසිවම් වියාලේන්ද්‍රන් මහතා පාර්ලිමේන්තු මහජන පෙත්සම් පිළිබඳ කාරක සභාවේ සහ, වෙළඳ, වාණිජ හා ආහාර සුරක්ෂිතතා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ නියෝජිතයෙක් ලෙසද කටයුතු කරයි.
+🟩
+
+Parliamentarian Sathaasivam Dakurandran, who represents Parliament from Batticaloa District, has been sworn in in the presidential Secretariat.
+
+The Seatering Dickurandran also serves as a representative of the Select Committee of Parliament and the Ministry of Trade, Commerce and Food Security.
 
 ◼️
 
 [Data](articles/e3e449f0.json)
+
+[Extended Data](ext_articles/e3e449f0.ext.json)
 
 ---
 
@@ -402,6 +456,8 @@ He previously has held the posts of media state minister and state minister of B
 
 [Data](articles/2425b466.json)
 
+[Extended Data](ext_articles/2425b466.ext.json)
+
 ---
 
 ### West Indies will be defeated
@@ -508,6 +564,8 @@ The company said a disclosure will be made when discussions result in ‘some fo
 
 [Data](articles/def98b78.json)
 
+[Extended Data](ext_articles/def98b78.ext.json)
+
 ---
 
 ### This week's action against Fonseka - there is nothing against Rajitha - United People's Power
@@ -535,6 +593,28 @@ Ranjithmathupandara has said that Rajitha Senaratne has not severely criticized 
 [Data](articles/16c3aa50.json)
 
 [Extended Data](ext_articles/16c3aa50.ext.json)
+
+---
+
+### මම රට භාරගත්තේ රටේ ආර්ථිකය අලුතින් ගොඩනැගීමටයි
+
+*2024-06-24 09:59:20* · [`adalk`](https://www.ada.lk/picture_story/මම-රට-භාරගත්තේ-රටේ-ආර්ථිකය-අලුතින්-ගොඩනැගීමටයි/10-410390) · `si`
+
+තමා රට භාරගත්තේ රටේ ආර්ථිකය අලුතින් ගොඩනැගීමට බව පැවසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ සමඟම රටේ ගොවි ජනතාවගේ ජීවිත ද නව පරිවර්තනයකට ලක්වන බව සඳහන් කළේය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කෘෂිකර්ම අමාත්‍යාංශය මගින් ක්‍රියාත්මක කරනු ලබන කෘෂි නවීකරණ වැඩසටහන යටතේ රුපියල් මිලියන 55ක වියදමින් කරදියනාරු ප්‍රදේශයේ ඉදිකරන ලද රටකජු සැකසුම් මධ්‍යස්ථානය පෙරවරුවේ විවෘත කරමිනි.
+
+පීත්ත පටිය කපා රටකජු සැකසුම් මධ්‍යස්ථානය විවෘත කළ ජනාධිපතිවරයා එහි කටයුතු ද නිරීක්ෂණය කළේය.
+
+අනතුරුව පැවති උත්සව සභාවේ දී කෘෂි සංවිධාන සඳහා ලැප්ටොප් පරිගණක ප්‍රදානය කිරීම ද ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මයිලම්පාවලි චෙන්කලඩි ප්‍රදේශයේ පිහිටි දෙලුම් ගොවිපොළේ ද අද නිරීක්ෂණ චාරිකාවක නිරත විය.
+
+මෙම දෙළුම් වගාව අක්කර 150ක පමණ භූමි භාගයක පවත්වාගෙන යනු ලබන අතර, 300ක පමණ ගොවි ජනතාවක් එහි ප්‍රතිලාභ ලබති. පසුගිය වසරේ අක්කර භාගයක දෙළුම් වගාවෙන් රුපියල් ලක්ෂ 36ක් පමණ වටිනා අස්වැන්නක් ලබා ගැනීමට මෙම ගොවි ජනතාවට හැකිව තිබේ.
+
+...
+
+[Data](articles/6b752ad9.json)
 
 ---
 
@@ -617,6 +697,8 @@ A bond maturing on 15.09.2029 was quoted at 12.05/15 percent, from 12.00/15 perc
 ◼️
 
 [Data](articles/273c5ba5.json)
+
+[Extended Data](ext_articles/273c5ba5.ext.json)
 
 ---
 
@@ -945,6 +1027,8 @@ The Nick Leeson style losses came not only from swaps but also IMF borrowings ta
 ...
 
 [Data](articles/08e81aef.json)
+
+[Extended Data](ext_articles/08e81aef.ext.json)
 
 ---
 
@@ -2147,73 +2231,5 @@ In addition, about $ 90.6 million in 5 European countries, including Japan, Sout
 [Data](articles/2d1abcb6.json)
 
 [Extended Data](ext_articles/2d1abcb6.ext.json)
-
----
-
-### Court orders courts against young people who were raped with girls
-
-*2024-06-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198066) · `si`
-
-Eight youths arrested in Hanwella, Jaltraya, on suspicion of rape; magistrate orders detention for 48 hours for interrogation after a 16-year-old girl reports being assaulted by her boyfriend and his friends.
-
-🟩
-
-The eight youths who were arrested on suspicion of rape in Jaltraya in Hanwella were presented to the court today (23).
-
-The Homagama Acting Magistrate Maddune Pamanka Maddumana was ordered to detaine them for 48 hours.
-
-The order was issued on a request made by the Hanwella Police and to interrogate the suspects.
-
-The suspect was produced before the Ranala and Juthara.
-
-A 16-year-old schoolgirl reported that her boyfriend and a group of his friends were reported on the 21st.
-
-◼️
-
-[Data](articles/267ac6af.json)
-
-[Extended Data](ext_articles/267ac6af.ext.json)
-
----
-
-### Railway operations restored on Up-country Line
-
-*2024-06-23 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100050/railway-operations-restored-on-up-country-line-) · `en`
-
-The railway operations on the Up-country Line have been restored after around 09 hours of disruption caused by fallen trees, Ada Derana reporter said.
-
-Train operations had reportedly been disrupted due to several fallen trees on the tracks between the Inguru Oya and Galabada railway stations since early this morning (23).
-
-As a result, the Department of Railways took steps to limit train services on the Up-Country Line.
-
-◼️
-
-[Data](articles/46427ed4.json)
-
-[Extended Data](ext_articles/46427ed4.ext.json)
-
----
-
-### 3 -year -old girl sexually harassed: One arrested
-
-*2024-06-23 17:35:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வயது-சிறுமிக்கு-பாலியல்-தொல்லை-ஒருவர்-கைது/175-339296) · `ta`
-
-A 3-year-old girl was sexually assaulted in Vavuniya; her mother is in jail. The child was left alone while her mother worked. A man has been arrested based on the mother's complaint, and the girl is undergoing medical exams. Police will present him in court post-investigation.
-
-🟩
-
-Vavuniya police said on Sunday (23)
-
-In a family living in the Vavuniya and Maharampaikulam police division, the mother is in the Vavuniya prison in connection with the act of minority.
-
-When the mother goes to work, it is customary for her children to leave her home in the neighborhood. It was revealed that a 3 -year -old girl had sexually harassed.
-
-Subsequently, a man has been arrested on a complaint lodged by the mother of the Vavuniya police and the girl has been admitted to the Vavuniya Hospital for medical examination.. The police said that the man has taken steps to appear in court after further investigations.
-
-◼️
-
-[Data](articles/82ae196d.json)
-
-[Extended Data](ext_articles/82ae196d.ext.json)
 
 ---

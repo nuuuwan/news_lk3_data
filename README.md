@@ -1,74 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 08:02:15**
+As of **2024-06-24 08:22:59**
 
 ## Newspaper Stats
 
-*Scraped **31,789** Articles*
+*Scraped **31,794** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 292
 dbsjeyarajcom | 292
-bbccomsinhala | 312
+bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,784
+adalk | 2,785
 adaderanalk | 3,608
-tamilmirrorlk | 3,736
+tamilmirrorlk | 3,738
 dailymirrorlk | 4,733
-virakesarilk | 4,924
+virakesarilk | 4,925
 adaderanasinhalalk | 5,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,787 (100.0%) of 31,789 articles have been extended.
+31,791 (100.0%) of 31,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### යුද්ධයට මැදිවූ අපේ අය බේරාගැනීමට නියෝජිත පිරිසක් රුසියාවට
+### A delegation to Russia to save our war
 
 *2024-06-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198078) · `si`
 
-රුසියානු – යුක්‍රේන යුද්ධයට මැදි වී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් සොයා බැලීමට විශේෂිත දූත පිරිසක් අද (24) දිනයේ දී රුසියාව බලා පිටව යාමට නියමිත බව පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතා පවසයි.
+A delegation from Sri Lanka, including defense and foreign affairs officials, is set to travel to Russia today to discuss the involvement of Sri Lankans in the Ukrainian conflict. Meetings with Russian government representatives are scheduled for tomorrow in Moscow, focusing on defense and diplomatic relations.
 
-ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයා, සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන්ගෙන් සමන්විත 6 දෙනෙකුගෙන් යුත් දූත පිරිසක් මෙලෙස පිටත්වීමට නියමිත ව බව මන්ත්‍රීවරයා පැවසුවේය.
+🟩
 
-මෙම ශ්‍රී ලාංකික දුත පිරිස සහ රුසියානු රජයේ නියෝජිතයින් අතර නිල හමුව අනිද්දා (26) දිනයේ දී මොස්කව් නුවරදී පැවැත්වෙනු ඇති.
+A special delegation to look into Sri Lankans who have been involved in Sri Lankans in the Ukrainian war is to leave for Russia today (24).
 
-එදින උදෑසන රුසියානු නියෝජ්‍ය ආරක්ෂක අමාත්‍යවරයා සමගත් සවස්වරුවේ රුසියාවේ නියෝජ්‍ය විදේශ අමාත්‍යවරයා සමගත් මෙම සාකච්ඡා පැවැත්වීමට නියමිතය.
+The MP said that the Secretary of the Ministry of Defense and the Ministry of External Affairs have been appointed to depart.
 
-එහිදී රාජ්‍ය තාන්ත්‍රක සාකච්ඡා වට කිහිපයක් ම පැවැත්වීමට නියමිත බව ගාමිණී වලේබොඩ මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේය.
+The official meeting between the Sri Lankan and the representatives of the Russian government meetings will be held in Moscow on the 26th.
+
+The discussions will be held on the evening of the evening of the Russian Deputy Minister of Defense.
+
+He added that several rounds of public duty talks are due to be held in general area.
 
 ◼️
 
 [Data](articles/027ce260.json)
 
+[Extended Data](ext_articles/027ce260.ext.json)
+
 ---
 
-### පාසල් අනධ්‍යයන සේවකයින් ලෙඩවෙයි
+### School non-academic workers get sick
 
 *2024-06-24 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198077) · `si`
 
-දිවයින පුරා අධ්‍යාපන අනධ්‍යයන සේවකයින් අද (24) සහ හෙට (25)  දින අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව අධ්‍යාපන අනධ්‍යයන සේවක සංගමය පවසයි.
+Non-academic staff at schools are sick, leading to trade union actions in Kandy, North Central, and North Western regions. The Ministry of Education announced the absence of these employees on the 25th and 26th due to sickness. Trade unions aim to create a national policy for education, with a planned strike on the 26th. Despite the situation, normal operations resume post-Possan holidays.
 
-ඒ අනුව මහනුවර, උතුරු මැද සහ වයඹ යන ප්‍රදේශ තුළ අද දින එම වෘත්තීය ක්‍රියාමාර්ගය ක්‍රියාත්මක වේ.
+🟩
 
-අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස සහ තවත් ඉල්ලීම් කිහිපයක් මුල් කරගෙන එම වෘත්තීය සමිති ක්‍රියාමාර්ගයේ නිරත වන බව එම සංගමයේ ප්‍රධාන ලේකම් අජිත් කේ තිලකරත්න මහතා පැවසුවේය.
+The Ministry of Education states that education non-academic employees have been reported today and tomorrow (25) and will leave the ministry.
 
-මේ අතර විදුහල්පති සේවා සංගමයේ ජාතික සංවිධායක සිසිර රාජපක්ෂ මහතා පැවසුවේ එළැඹෙන 26 වනදා දීපව්‍යාප්ත වැඩ වර්ජනයක නිරත වීමට තීරණය කර ඇති බවයි.
+Accordingly, the trade union action is being implemented today in Kandy, North Central and North Western areas.
 
-කෙසේවෙතත් පොසොන් නිවාඩුවෙන් අනතුරුව සුපුරුදු පරිදි අද දිනයේ සිට රජයේ පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනවක් නිකුත් කරමින් ඊයේ පැවසීය.
+The General Secretary of the Union Ajith K. Thilakaratne said that the trade union action will be implemented to formulate a national policy to the educational and education.
+
+Meanwhile, National Organizer of the Principal Services Union Sisira Rajapaksa has decided to take place on the 26th station strike on the 26th.
+
+However, after the Poson's vacation, the Ministry of Education has issued announcement in this day as usual yesterday.
 
 ◼️
 
 [Data](articles/4c30934d.json)
+
+[Extended Data](ext_articles/4c30934d.ext.json)
 
 ---
 
@@ -91,6 +103,28 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/2cd34734.json)
 
 [Extended Data](ext_articles/2cd34734.ext.json)
+
+---
+
+### டாகெஸ்தான் குடியரசில் கிறிஸ்தவ  தேவாலயங்கள்யூதவழிபாட்டு தலங்கள் மீது தாக்குதல் - பொலிஸார் உட்பட பலர் பலி
+
+*2024-06-24 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186794) · `ta`
+
+ரஸ்யாவின் வடபகுதியில் உள்ள டாகெஸ்தான் குடியரசில் கிறிஸ்தவ தேவாலயங்கள் யூதவழிபாட்டுதலங்கள் மீது மேற்கொள்ளப்பட்ட தாக்குதல்களில் பலர் கொல்லப்பட்டுள்ளனர்.
+
+டெர்பென்ட் மற்றும் மகச்சலா நகரங்களில் பெந்தகோஸ்மத பிரிவினரின் மதவழிபாட்டு நிகழ்வின்போது இந்த தாக்குதல் இடம்பெற்றுள்ளது.
+
+ஏழு பொலிஸார் மதகுரு பாதுகாப்பு உத்தியோகத்தர் உட்பட பலர் கொல்லப்பட்டுள்ளனர் தாக்குதலை மேற்கொண்டவர்களில் ஆறு பேர் கொல்லப்பட்டுள்ளனர்.
+
+தாக்குதலை மேற்கொண்டவர்கள் யார் என்பது இதுவரை உறுதியாக தெரியவில்லை எனினும் கடந்த காலங்களில் டாகெஸ்தான் பல தடவை இஸ்லாமிய தீவிரவாதிகளின் தாக்குதல்களை எதிர்கொண்டிருந்தது.
+
+ஞாயிற்றுக்கிழமை தாக்குதலில் இரண்டு கிறிஸ்தவ தேவலாயங்களும் யூதவழிபாட்டுதலமும் இலக்குவைக்கப்பட்டதாகவும் கிறிஸ்தவமதகுரு ஒருவர் கொல்லப்பட்டுள்ளார் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+கறுப்புநிறத்தில் உடையணிந்தவர்கள் பொலிஸாரின் வாகத்தொடரணி மீது தாக்குதலை மேற்கொள்வதை காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/141796b7.json)
 
 ---
 
@@ -383,6 +417,68 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 [Data](articles/5e851eab.json)
 
 [Extended Data](ext_articles/5e851eab.ext.json)
+
+---
+
+### ජනාධිපතිවරණයේ දී උතුරු - නැගෙනහිර පළාත්වල ජය කාටද ?
+
+*2024-06-24 02:07:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72221znrx5o) · `si`
+
+ශ්‍රී ලංකාවේ නම වැනි ජනාධිපතිවරයා තෝරා පත් කරගන්නා ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමට මැතිවරණ කොමිසමට බලය ලැබීමට තවත් ඇත්තේ දින ගණනකි.
+
+එසේ ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරිමට තිබිය දී ජනමත විචාරණයකින් වත්මන් ජනාධිපතිවරයාගේ කාලය දිර්ඝ කර ගැනීමට මෙන්ම ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාට වසර 6ක කාලයක් ධූරයේ රැඳි සිටිය හැකි බවට මත පළ වීමත් සමගම දේශපාලන පිටිය උණුසුම් වී තිබේ.
+
+සමගි ජන බලවේගය නියෝජනය කරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස සහ ජාතික ජනබලවේගයෙන් අනුර කුමාර දිසානායක ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත අතර අනුප්‍රාප්තික ජනාධිපතිවරයා වශයෙන් කටයුතු කරන රනිල් වික්‍රමසිංහ එක්සත් ජාතික පක්ෂ නියෝජනය කරමින් ජනාධිපතිවරණයට ඉදිරිපත් වන බව එම පක්ෂයේ කෘත්‍යාධිකාර මණ්ඩල සභිකයයෝ පවසති.
+
+කෙසේවෙතත් තම ප්‍රථම ජනාධිපතිවරණයට මුහුණ දී එය ජය ගත් ශ්‍රී ලංකා පොදු ජන පෙරමුණ මෙතෙක් තම පක්ෂයෙන් ඉදිරිපත් වන අපේක්ෂකයා කවුදැයි ප්‍රකාශ කර නැත.
+
+මෙරට පැවති පසුගිය ජනාධිපතිවරණ පිළිබඳ නිරීක්ෂණය කිරිමේ දී උතුරු නැගෙනහිර ප්‍රමුඛව රට පුරා දෙමළ සහ මුස්ලිම් ජනතාවගේ ඡන්දය අතිශය තීරණාත්මක වී තිබේ.
+
+...
+
+[Data](articles/6f9a8475.json)
+
+---
+
+### ’பொருளாதாரத்தை கட்டியெழுப்புவேன் ’
+
+*2024-06-24 01:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-கட்டியெழுப்புவேன்/175-339302) · `ta`
+
+நாட்டின் பொருளாதாரத்தை மீளக் கட்டியெழுப்பவே தாம் நாட்டைப் பொறுப்பேற்றதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, நாட்டின் விவசாயிகளின் வாழ்விலும் புதிய மாற்றம் ஏற்படும் என்றும் குறிப்பிட்டார்.
+
+விவசாய அமைச்சினால் நடைமுறைப்படுத்தப்பட்டுள்ள விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ் 55 மில்லியன் ரூபா செலவில் மட்டக்களப்பு – கரடியனாறு பிரதேசத்தில் நிர்மாணிக்கப்பட்டிருக்கும் நிலக்கடலை பதப்படுத்தும் நிலையத்தை நேற்று திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இதனைக் தெரிவித்தார்.
+
+இந்நிகழ்வில் கலந்து கொண்ட ஜனாதிபதிக்கு தமிழ் கலாச்சார முறைப்படி வரவேற்பு அளிக்கப்ப்பட்டது. நிலக்கடலை பதப்படுத்தும் நிலையத்தை திறந்து வைத்த ஜனாதிபதி அதன் செயற்பாடுகளைப் பார்வையிட்டார். அதனையடுத்து விவசாயிலுக்கு ஜனாதிபதியால் மடிக்கணினிகளும் வழங்கப்பட்டன.
+
+இதேவேளை, மைலம்பாவலி – செங்கலடி பிரதேசத்தில் அமைந்துள்ள மாதுளை தோட்டத்தையும் ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று முற்பகல் பார்வையிட்டார்.
+
+...
+
+[Data](articles/cd860773.json)
+
+---
+
+### Kattankudi Big Jumma School Donation
+
+*2024-06-24 01:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-பெரிய-ஜும்மா-பள்ளிவாசல்-நன்கொடை/175-339301) · `ta`
+
+In a speech following a special prayer for Gaza victims, President Ranil Wickremesinghe reaffirmed Sri Lanka's support for establishing Palestine within five years. He also announced a donation of Rs 10,769,417 from the Kattankudy Big Jumma School to the Gaza Children's Fund, emphasizing Sri Lanka's unwavering stance on the Israeli-Palestinian conflict.
+
+🟩
+
+President Ranil Wickremesinghe said that Sri Lanka's position on the clashes in Gaza will never change and that Sri Lanka's position is to establish the Palestinian state within five years.
+
+The President said this in a speech after participating in a special prayer organized by the Kattankudy Periya Jumma School for the affected people in Gaza.
+
+Meanwhile, the Kattankudy Big Jumma School was donated to the Gaza Children's Fund on the directive of President Ranil Wickremesinghe, a donation of Rs 10,769,417.. After the prayer, the check for the Gaza Fund was handed over to President Ranil Wickremesinghe by the school administration.
+
+The President, who attended the special prayer events, discussed with those who visited there and joined Selby photos.. (A)
+
+◼️
+
+[Data](articles/2dabf6b3.json)
+
+[Extended Data](ext_articles/2dabf6b3.ext.json)
 
 ---
 
@@ -929,6 +1025,32 @@ According to the National Secretary Ravi Karunanayake, the people of this countr
 [Data](articles/1ce61bf9.json)
 
 [Extended Data](ext_articles/1ce61bf9.ext.json)
+
+---
+
+### Paragahadeniya says about politics at National School
+
+*2024-06-23 18:49:26* · [`adalk`](https://www.ada.lk/breaking_news/පරගහදෙනිය-ජාතික-පාසලේදී-සජිත්-ඩීල්-දේශපාලනය-ගැන-කියයි/11-410387) · `si`
+
+Sajith Premadasa criticized deal politicians for betraying voters' trust during a speech at the Keymal Program ceremony in Kurunegala, Mawathagama, and Paragahadeniya National Schools. He warned of a culture of betrayal affecting the nation's youth, promising transparency and accountability in governance.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that Deal politicians who betrayed the soul of the people who voted are present and the people will be seen in the future.
+
+He was speaking at a ceremony of the Keymal Program to the National School to Kurunegala, Mawathagama and Paragahadeniya National School.
+
+Opposition Leader Sajith Premadasa said so.
+
+"All groups of these groups are duled. There is a culture of a great betrayal culture that betray the soul to the vote by the people and the vote. Not shy. Forgot the journey. Forgot where. There are a number of gang politicians, deale politicians who have been sold to these children and destroy these children in the country, and destroy these children and destroy their children in the country.. You'll be watching good deals in the future.
+
+I believe everyone is eagerly waiting for the souls of the mother, and captivates 22,000 lakhs of the country for retail, and 2200 lakhs of proposals this year. "
+
+◼️
+
+[Data](articles/ec9981c1.json)
+
+[Extended Data](ext_articles/ec9981c1.ext.json)
 
 ---
 
@@ -2197,117 +2319,5 @@ China's Public Security Ministry official said the maximum sentence for separati
 [Data](articles/a2fbcc51.json)
 
 [Extended Data](ext_articles/a2fbcc51.ext.json)
-
----
-
-### Skipped to police - Three youth arrested
-
-*2024-06-23 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198054) · `si`
-
-Three youths, including a traffic department official's son, were arrested by the Boralesgamuwa Police for allegedly importing motorcycles worth 3 million rupees without proper registration. The arrest came after a preliminary investigation revealed issues with their vehicle registrations. The suspects, aged between 20 and 22, hail from Boralesgamuwa, Panadura, and Colombo. They were released on bail and will appear in court the following day.
-
-🟩
-
-Three youths who have been arrested by three million riders who have been imported to the country have been imported by three million rupees, said the Boralesgamuwa Police said.
-
-The three arrested persons were the son of a top officer of the Department of Motor Traffic.
-
-According to the preliminary investigations into the police have been installed on two-thirds registration number.
-
-The 98537 Police Constable Inspector of Pepiliyana junction at Boralesgakanda Police OIC Chief Inspector General Inspector of Police OIC of Pepiliyana junction in paralleliyewan junctionThe motorcyclists were sacked at the left at once to see the motorcycle was not to go to the motorcycle at a motorcycle.
-
-The OIC had taken steps to bring the deputy of the youth with a telephone call by the youth with the other two keywords.
-
-Youth residents from Boralesgamuwa, Panadura and Colombo two years old
-
-The three were released on police bail and is to be produced before the court next day.
-
-◼️
-
-[Data](articles/7cf1e192.json)
-
-[Extended Data](ext_articles/7cf1e192.ext.json)
-
----
-
-### Sri Lankan Airlines’ future is bright, whether privatised or not – CEO
-
-*2024-06-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100041/sri-lankan-airlines-future-is-bright-whether-privatised-or-not-ceo) · `en`
-
-SriLankan Airlines will spread its wings across the Middle East region after acquiring more aircraft on lease this year to strengthen its fleet, its top official says.
-
-Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet modernisation plays an important in the carrier’s turnaround as well as caters to growing passengers demand in the region. He said the airline will strengthen its current fleet of 21 to 22 in July, with plans to add three more aircraft within the next three months to increase the tally to 25 aircraft this year.
-
-“We are aiming to boost SriLankan Airlines fleet with more leased aircraft that will help increase frequency on existing routes as well as add two or three new routes. The airline will place major orders for fleet replacement after its restructuring is completed under the International Monetary Funds (IMF) programme,” Nuttall told Khaleej Times during his recent visit to Dubai.
-
-...
-
-[Data](articles/0601def3.json)
-
-[Extended Data](ext_articles/0601def3.ext.json)
-
----
-
-### SriLankan Airlines’ future is bright, whether privatised or not – CEO
-
-*2024-06-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100041/srilankan-airlines-future-is-bright-whether-privatised-or-not-ceo) · `en`
-
-SriLankan Airlines will spread its wings across the Middle East region after acquiring more aircraft on lease this year to strengthen its fleet, its top official says.
-
-Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet modernisation plays an important in the carrier’s turnaround as well as caters to growing passengers demand in the region. He said the airline will strengthen its current fleet of 21 to 22 in July, with plans to add three more aircraft within the next three months to increase the tally to 25 aircraft this year.
-
-“We are aiming to boost SriLankan Airlines fleet with more leased aircraft that will help increase frequency on existing routes as well as add two or three new routes. The airline will place major orders for fleet replacement after its restructuring is completed under the International Monetary Funds (IMF) programme,” Nuttall told Khaleej Times during his recent visit to Dubai.
-
-...
-
-[Data](articles/8f8931d4.json)
-
-[Extended Data](ext_articles/8f8931d4.ext.json)
-
----
-
-### Brandle of Liberation Tigers of Tamil Eelam (LTTE) in Britain;Rejected the Appeal Authority
-
-*2024-06-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186755) · `ta`
-
-The British Appeal Authority upheld the ban on the Liberation Tigers of Tamil Eelam (LTTE), rejecting the Tamil Eelam government's request to lift it. This decision means Britain will maintain the ban, as stated by Sri Lanka's Foreign Minister Ali Sabri. The ban was affirmed by an independent court, including a High Court judge and two retired senior ambassadors, established by Parliament. Despite the LTTE not being banned in the UK, the organization aims to revive its activities globally through what Sabri describes as "casteist methods."
-
-🟩
-
-The Appeal Authority of the country has rejected the ban on the Tamil Eelam government's request to remove the ban on the Liberation Tigers of Tamil Eelam (LTTE) in Britain.
-
-Accordingly, Britain will continue to observe the ban on the LTTE, Sri Lanka's Foreign Minister Ali Sabri said
-
-He noted that the UK banned organization has ruled against the lifting of the ban, headed by an independent court and a High Court judge and two retired senior ambassadors set up by Parliament.
-
-Alizabri said the government of Tamil Eelam had made this request to support foreign demand in the North East of Sri Lanka.
-
-The country's Tamil Eelam government has not been banned in the United Kingdom, said Alisabri, who said on Twitter, "The organization is trying to achieve its objectives through casteist methods.
-
-Ali Sabri said the strategy of the Liberation Tigers of Tamil Eelam (LTTE) is to create their lives again by lifting the ban on the world.
-
-◼️
-
-[Data](articles/11ca7f6d.json)
-
-[Extended Data](ext_articles/11ca7f6d.ext.json)
-
----
-
-### Train services disrupted on Up-country Line
-
-*2024-06-23 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100040/train-services-disrupted-on-up-country-line) · `en`
-
-Railway operations on the Up-country Line have been disrupted due to several fallen trees on the tracks between the Inguru Oya and Galabada railway stations since early this morning (23), according to an Ada Derana reporter.
-
-The Department of Railways is currently working to clear the tracks and restore train services.
-
-Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort remains stopped at the Hatton railway station, awaiting the clearing of the railway tracks.
-
-◼️
-
-[Data](articles/612438d9.json)
-
-[Extended Data](ext_articles/612438d9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 17:35:12**
+As of **2024-06-24 17:55:53**
 
 ## Newspaper Stats
 
-*Scraped **31,909** Articles*
+*Scraped **31,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,801
-adaderanalk | 3,627
+adaderanalk | 3,630
 tamilmirrorlk | 3,760
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,225
+adaderanasinhalalk | 5,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,909 (100.0%) of 31,909 articles have been extended.
+31,909 (100.0%) of 31,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Princess Anne in hospital after being injured by a horse
+
+*2024-06-24 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100075/princess-anne-in-hospital-after-being-injured-by-a-horse) · `en`
+
+The Princess Royal has been admitted to hospital after she suffered minor injuries and concussion on her estate in Gloucestershire, Buckingham Palace has said.
+
+Princess Anne, 73, is expected to make a full and swift recovery after an incident at her Gatcombe Park estate, a statement said.
+
+She remains in Southmead Hospital, Bristol, “as a precautionary measure for observation”.
+
+“The King has been kept closely informed and joins the whole Royal Family in sending his fondest love and well-wishes to the Princess for a speedy recovery,” the statement added.
+
+The cause of the injury is unconfirmed, but it’s understood to be consistent with a potential impact from a horse’s head or legs.
+
+The Princess Royal had been expected to begin a visit to Canada at the end of this week.
+
+Canadian media had reported she was due to take part in a ceremony at a war memorial in Newfoundland.
+
+During the recent D-Day commemorations Princess Anne met veterans and their families at the Bayeux War Cemetery in France.
+
+...
+
+[Data](articles/9245ff75.json)
+
+---
+
+### 4kg of ‘Ice’ found inside parcel sent from Pakistan
+
+*2024-06-24 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100074/4kg-of-ice-found-inside-parcel-sent-from-pakistan) · `en`
+
+A package with 04 kilograms of ‘Ice’ (Crystal methamphetamine) drugs has been taken into custody at the Central Mail Exchange in Colombo, the police said.
+
+Meanwhile, police mentioned that three suspects have been arrested in connection with the parcel sent to Colombo from Pakistan.
+
+The street value of the haul of drugs is estimated to be around Rs. 400 million, according to police.
+
+◼️
+
+[Data](articles/dbbfe7ed.json)
+
+---
+
+### මධ්‍යම තැපැල් හුවමාරුවේ අයිස් මත්ද්‍රව්‍ය තොගයක්
+
+*2024-06-24 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198102) · `si`
+
+පාකිස්තානයේ සිට මෙරටට එවා තිබූ පාර්සලයක තිබී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 4ක් සොයාගෙන තිබේ.
+
+මධ්‍යම තැපැල් හුවමාරුවේදී මෙම සැකසහිත පාර්සලය හමුවී තිබූ අතර එහි වටිනාකම රුපියල් මිලියන 400ක් බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/0aa43f92.json)
+
+---
+
+### Sri Lanka CERT issues warning over social media scams
+
+*2024-06-24 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100073/sri-lanka-cert-issues-warning-over-social-media-scams) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SL CERT) urges the public to be cautious of fake messages purportedly sent by various banks, commercial institutions, and international organizations.
+
+Issuing a statement, the Sri Lanka CERT stated that these scams promise donations, cash gifts, lucky draws, and job insurance, using the names of legitimate entities.
+
+“Cyber criminals attempt to contact individuals through fake websites, social media platforms, SMS, and WhatsApp. By accessing the links provided in these messages, they can steal data from computers and mobile phones, leading to various forms of abuse and financial fraud”, it added.
+
+The Sri Lanka CERT reports that these types of crimes have been increasing recently, with a growing number of victims. Fraudsters often operate around national and religious festivals, exploiting the public’s trust during these times, warned SL CERT.
+
+...
+
+[Data](articles/1b51a7f4.json)
+
+---
 
 ### National inflation down
 
@@ -2261,97 +2335,5 @@ The match between Scotland and Hungary, the match was a warm flavor, and Kevin S
 [Data](articles/c656ed78.json)
 
 [Extended Data](ext_articles/c656ed78.ext.json)
-
----
-
-### Places like Sigiriya should be privatized
-
-*2024-06-24 09:29:57* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-වගේ-ස්ථාන-පෞද්ගලීකරණය-කළ-යුතුයි/11-410389) · `si`
-
-Ven. calls for privatization of sites like Sigiriya to enhance privacy for tourists, criticizing lack of facilities and corruption. He urges the tourism ministry to reduce waste and corruption, emphasizing the importance of preserving environmental, historical, and geological sites. Ven. advocates for systemic changes to prevent misuse of funds and ensure sustainable development.
-
-🟩
-
-Ven.
-
-He was speaking at a press conference held at Namal Uyana this morning,
-
-"Even tourist stations should be privacy except local and foreign tourists. The saudi to Sigiriya is no toilet facility, breaking crores, and the real story has no place to stop it.
-
-There is an enatory of the floor around the country. The white people go to hotels, not going to take the Fun. See the environmental, historic, historical and geological places in this country. The traveling ministry, the Tourist Board has a responsibility to do what is needed.
-
-Not stealing the money that Suddha has been drawn, but it must facilitate the association of the people to make the people to make up the methods of the people. We need to reduce waste, corruption and fraud to build this country. These should be stopped using political disciples. They want to provide jobs in foreign countries.
-
-...
-
-[Data](articles/1f5640d0.json)
-
-[Extended Data](ext_articles/1f5640d0.ext.json)
-
----
-
-### GCE Ordinary Level Examination This week?
-
-*2024-06-24 09:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதாரண-தர-பரீட்சை-பெறுபேறுகள்-இந்த-வாரம்/175-339305) · `ta`
-
-The GCE Ordinary Level Examination results for 2023, initially planned for release this week, will now be out in 10 days due to unforeseen circumstances. The exams took place between May 6th and 15th.
-
-🟩
-
-The results of the GCE Ordinary Level Examination for 2023 will be released in 10 days.
-
-The exams were held from 6th to 15th May.
-
-He stated that its results were intended to be released this week and that if it was not possible, it could be released within 10 days. Remble
-
-◼️
-
-[Data](articles/671c2526.json)
-
-[Extended Data](ext_articles/671c2526.ext.json)
-
----
-
-### Miscarriage found in Kilinochchi
-
-*2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-காணப்பட்ட-கருச்சிதைவுகள்/72-339304) · `ta`
-
-A miscarriage occurred last night at a private garment factory in Kilinochchi, but journalists aren't allowed to report from the site.
-
-🟩
-
-Police say that miscarriage was identified last night at a private garment factory in Kilinochchi.
-
-The police have been informed that the miscarriage was identified at a garment factory located in the Kilinochchi science city area.
-
-It is also worth noting that journalists have not been allowed to display the news on the private company premises. Remble
-
-◼️
-
-[Data](articles/bccd7f65.json)
-
-[Extended Data](ext_articles/bccd7f65.ext.json)
-
----
-
-### Miscarriage in Kilinochchi
-
-*2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கருச்சிதைவுகள்/72-339304) · `ta`
-
-A miscarriage occurred last night at a private garment factory in Kilinochchi's science city area. Police were notified but journalists are barred from reporting on the incident within the company grounds.
-
-🟩
-
-Police say that miscarriage was identified last night at a private garment factory in Kilinochchi.
-
-The police have been informed that the miscarriage was identified at a garment factory located in the Kilinochchi science city area.
-
-It is also worth noting that journalists have not been allowed to display the news on the private company premises. Remble
-
-◼️
-
-[Data](articles/e7c8a2ef.json)
-
-[Extended Data](ext_articles/e7c8a2ef.ext.json)
 
 ---

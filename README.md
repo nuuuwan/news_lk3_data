@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 09:19:22**
+As of **2024-06-24 09:34:45**
 
 ## Newspaper Stats
 
-*Scraped **31,797** Articles*
+*Scraped **31,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,610
 tamilmirrorlk | 3,739
 dailymirrorlk | 4,733
 virakesarilk | 4,925
-adaderanasinhalalk | 5,203
+adaderanasinhalalk | 5,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,795 (100.0%) of 31,797 articles have been extended.
+31,797 (100.0%) of 31,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### රුසියාවේ දරුණු ත්‍රස්ත ප්‍රහාරයක් - විශාල පිරිසක් මරුට
+
+*2024-06-24 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198080) · `si`
+
+රුසියානු පාලනය යටතේ පවතින ඩජෙස්තාන් කලාපයට ත්‍රස්ත ප්‍රහාරයක් එල්ලකර තිබේ.
+
+ඉන් 23 දෙනෙක් පමණ මියගොස් ඇති අතර ඊට පොලිස් නිලධාරීන් 15 දෙනෙක් ඇතුළත් ය.
+
+එසේම පූජකයෙක්, ආරක්ෂක නිලධාරියෙක් සහ ප්‍රහාරයට පැමිණි සන්නද්ධ පුද්ගලයින් 6 දෙනෙක් ද මියගොස් ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/688d2073.json)
+
+---
 
 ### Gunmen kill police, priest in attacks on places of worship in Russia’s Dagestan
 
@@ -47,6 +63,8 @@ A security guard armed with a pistol was also shot, Khadulaev said. The guard’
 ...
 
 [Data](articles/15643df7.json)
+
+[Extended Data](ext_articles/15643df7.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 ◼️
 
 [Data](articles/ae7dffc4.json)
+
+[Extended Data](ext_articles/ae7dffc4.ext.json)
 
 ---
 
@@ -2303,29 +2323,5 @@ The bus driver has been arrested, and Thalawa police are conducting further inve
 [Data](articles/dba4cd39.json)
 
 [Extended Data](ext_articles/dba4cd39.ext.json)
-
----
-
-### Minister and daughter
-
-*2024-06-23 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-மகளிடம்-கடும்-சோதனை/175-339276) · `ta`
-
-Customs officials raided Katunayake airport, suspecting a minister and her daughter of smuggling illegal goods. However, no proof was found in their luggage. The minister and her daughter had traveled from the US with another passenger, a customs officer, who allegedly spread false information about them. This officer and the customs officials are now under investigation for misconduct.
-
-🟩
-
-Customs officials recently conducted a raid on the Katunayake airport based on information that a minister and her daughter were bringing illegal items.. But no evidence that proves that information is available on their travel packages.
-
-A minister who came to Sri Lanka with his daughter from the United States faced the incident.
-
-This information was revealed by a Rircheri official who was on the same plane.
-
-This officer is accused of providing false information. In addition, customs officials are accused of testing without information.
-
-◼️
-
-[Data](articles/841e3d74.json)
-
-[Extended Data](ext_articles/841e3d74.ext.json)
 
 ---

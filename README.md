@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 12:53:09**
+As of **2024-06-24 13:04:29**
 
 ## Newspaper Stats
 
-*Scraped **31,843** Articles*
+*Scraped **31,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,834
 dailyftlk | 1,942
-adalk | 2,793
+adalk | 2,794
 adaderanalk | 3,616
-tamilmirrorlk | 3,749
+tamilmirrorlk | 3,750
 dailymirrorlk | 4,733
 virakesarilk | 4,931
 adaderanasinhalalk | 5,212
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,843 (100.0%) of 31,843 articles have been extended.
+31,843 (100.0%) of 31,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### மைத்திரி இன்றி விசாரிக்க முடிவு
+
+*2024-06-24 12:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இன்றி-விசாரிக்க-முடிவு/175-339322) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு எதிராக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்பினர் ஒருவர் தாக்கல் செய்த வழக்கை ஒருதலைப்பட்சமாக ஆராய கொழும்பு பிரதான மாவட்ட நீதவான்  சந்துன் விதான இன்று தீர்மானித்தார்.
+
+மைத்திரிபால சிறிசேனவுக்காக நீதிமன்றில் ஆஜராக சட்டத்தரணி இல்லாத காரணத்தினால், இந்த வழக்கை ஒருதலைப்பட்சமாக விசாரணைக்கு எடுத்துக்கொள்ள தீர்மானிக்கப்பட்டது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவிக்கு நியமித்ததை எதிர்த்து   இந்த வழக்கைத் தாக்கல் செய்திருப்பதுடன், நீதிமன்றமும் சிறிசேனாவுக்கு இடைக்காலத் தடை உத்தரவு பிறப்பித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான  முண்டிகு சரச்சந்திரனால் தாக்கல் செய்யப்பட்ட மனுவை பரிசீலித்த போதே இந்த இடைக்கால தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c232395c.json)
+
+---
 
 ### President's Special Notice on Wednesday
 
@@ -75,6 +93,22 @@ The health sector was treated with the health sector, which had been treated wit
 [Data](articles/2c143d29.json)
 
 [Extended Data](ext_articles/2c143d29.ext.json)
+
+---
+
+### පාසල් ගුරැවරියක කුඩු විකුණා වසරක් සපිරුණු දා ලබාදුන් විශේෂ වට්ටම
+
+*2024-06-24 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ගුරැවරියක-කුඩු-විකුණා-වසරක්-සපිරුණු-දා-ලබාදුන්-විශේෂ-වට්ටම/11-410393) · `si`
+
+පොසොන් සමය ඉලක්ක කර ගනිමින් අනුරාධපුරයට පැමිණෙන මත්ද්‍රව්‍ය ලෝලීන් හට මත්කුඩු බෙදා හැරීමට සූදානම්ව සිටි, අනුරාධපුර නගර මධ්‍යයේ ඇති, ප්‍රධාන පාසලක පුහුණු ගුරුවරියක් සහ ඇගේ සැමියා රුපියල් කෝටියකට ආසන්න හෙරොයින් මත්කුඩු තොගයක් සහ එය ප්‍රවාහනය කල කාන්තා යතුරු පැදියක් සමග අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට  පත්ව ඇත්තේ වාරියපොල පදිංචි 26 හැවිරිදි  එම ගුරුවරිය , කෑගල්ල ප්‍රදේශයේ පදිංචි 28 හැවිරිදි ඇගේ සැමියා වන, අනුරාධපුර සංචාරක නිවාඩු නිකේතනයක සූපවේදී සහායකවරයකු ලෙස කටයුතු කරන අයෙකු බවත්, එම සැකකරු සහ සැකකාරිය  අනුරාධපුර  පූජා නගරයේ කුට්ටම් පොකුණ ආසන්නයේ නිවසක තාවකාලිකව  නවාතැන්ගෙන සිට ඇති බව පොලිසිය සඳහන් කළේය.
+
+සැකකාර මෙම යුවල මත්ද්‍රව්‍ය ජාවාරම ආරම්භ කර මේ වන විට වසරක කාලයක් සම්පූර්ණ වීම නිමිත්තෙන් , එහි වර්ෂ පූර්ණය  සැමරීම සඳහා විශේෂ දීමනාවක් ලෙස මේ දිනවල මත්කුඩු පැකට්ටුවක් සඳහා  රුපියල් 500 සිට 1000 දක්වා වට්ටමක්  ලබා දී ඇති බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/acca8756.json)
 
 ---
 
@@ -2207,49 +2241,5 @@ It contains 11 essays, some of which have been published earlier, on the present
 [Data](articles/95e414ad.json)
 
 [Extended Data](ext_articles/95e414ad.ext.json)
-
----
-
-### Affecting the independence of judicial judicial
-
-*2024-06-23 18:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කළ-අධිකරණ-ස්වාධීනත්වයට-බලපාන-වැඩේ/11-410385) · `si`
-
-Ranil Wickremesinghe, a former Parliamentarian lawyer, criticized the current Attorney General's extended tenure, suggesting it undermines judicial independence. He argued against the practice of extending the Attorney General's term beyond retirement without proper legal grounds, highlighting the need for experienced lawyers from the Attorney General's Department to fill such roles. Wickremesinghe's remarks underscore concerns over the potential erosion of judicial independence and the importance of adhering to constitutional norms in appointments.
-
-🟩
-
-Former Parliamentarian lawyer, MPs, MPs, MP Ranil Wickremesinghe has been reported to be presented to the Constitutional Council after rejection of the present Attorney General's resolution after rejection of the service of the present voting.. Mr. Perera said.
-
-He was speaking at a media briefing held at the Colombo Opposition's Office today as well as a serious insult to the independent lawyers of the Attorney General's Department (23).
-
-Former MP Ajith P. Mr. Perera said:
-
-...
-
-[Data](articles/1e10e69d.json)
-
-[Extended Data](ext_articles/1e10e69d.ext.json)
-
----
-
-### In 2023, US $ 2120 million is owned by loans and assistance
-
-*2024-06-23 18:09:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවට-ඩොලර්-මිලියන-2120ක්-ණය-හා-ආධාර-ලෙස-ලැබිලා/11-410384) · `si`
-
-In 2023, the US government disclosed that it received $2.12 billion in foreign loans and aid from January to December. This included $728 million from the IMF and $90.6 million from five European countries, among others. The government also made payments totaling $2.16 billion to foreign countries and multilateral institutions.
-
-🟩
-
-The government has uncovered foreign loans and assistance from January 8 to December 31, a report filed by the Government, the Department of External Affairs was US $ 2.120 million.Disclosed with a prompt by 2024/06/22.
-
-The International Monetary Fund (IMF) has received 728 million and US $ 550 million, US $ 692 million, US $ 692 million, USD 692 million.
-
-In addition, about $ 90.6 million in 5 European countries, including Japan, South Korea, America. Accordingly, the loans and assistance received by the foreign country have received $ 2.1 billion and the government has paid $ 2.16 billion in foreign countries for multilateral institutions in the year.
-
-◼️
-
-[Data](articles/2d1abcb6.json)
-
-[Extended Data](ext_articles/2d1abcb6.ext.json)
 
 ---

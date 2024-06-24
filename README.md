@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 09:34:45**
+As of **2024-06-24 09:53:58**
 
 ## Newspaper Stats
 
-*Scraped **31,798** Articles*
+*Scraped **31,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,110 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,785
-adaderanalk | 3,610
-tamilmirrorlk | 3,739
+adalk | 2,786
+adaderanalk | 3,611
+tamilmirrorlk | 3,741
 dailymirrorlk | 4,733
 virakesarilk | 4,925
-adaderanasinhalalk | 5,204
+adaderanasinhalalk | 5,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,797 (100.0%) of 31,798 articles have been extended.
+31,798 (100.0%) of 31,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### රුසියාවේ දරුණු ත්‍රස්ත ප්‍රහාරයක් - විශාල පිරිසක් මරුට
+### Non-academic staff of schools launch trade union action
+
+*2024-06-24 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100057/non-academic-staff-of-schools-launch-trade-union-action) · `en`
+
+The non-academic staff of government schools have announced that they will engage in a trade union action by reporting sick today (24) and tomorrow (25).
+
+The trade union action is being carried out in the North Central, and North Western provinces and Kandy District today (24), according to the Education Non-Academic Employees’ Union.
+
+General Secretary of the association Ajith K. Thilakarathne stated that the trade union action is being carried out based on several demands including a national policy for non-academic staff in the education sector.
+
+Meanwhile, the National Organizer of the Principal Service Union, Sisira Rajapakse, announced that a nationwide strike has been planned for June 26.
+
+However, despite these developments, the Ministry of Education had issued a statement yesterday (23) asserting that public schools will continue their regular schedule from today, following the Poson Poya holiday.
+
+◼️
+
+[Data](articles/70483491.json)
+
+---
+
+### ස්කොට්ලන්තය විසිවෙයි
+
+*2024-06-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198081) · `si`
+
+2024 යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් 16 දෙනා අතරට පිවිසීමට ස්කොට්ලන්තය අසමත් විය.
+
+ඒ ඔවුන් හංගේරියාව සමග පැවති තරගය 1ට බිංදුවක් ලෙස පරාජය වීම හේතුවෙනි.
+
+ස්කොට්ලන්තය සහ හංගේරියාව අතර පැවති තරගය ඉතා උණුසුම් මුහුණුවරක් ගත් අතර හංගේරියාව වෙනුවෙන් තරගයේ 100වැනි මිනිත්තුවේදී කෙවින් සොබෝත් ජයග්‍රාහී ගෝලය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/c656ed78.json)
+
+---
+
+### சாதாரண தர பரீட்சை பெறுபேறுகள் இந்த வாரம்?
+
+*2024-06-24 09:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதாரண-தர-பரீட்சை-பெறுபேறுகள்-இந்த-வாரம்/175-339305) · `ta`
+
+நடைபெற்று முடிந்த 2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையின் பெறுபேறுகள் இன்னும் 10 நாட்களில் வெளியாகவுள்ளன.
+
+கடந்த மே மாதம் 6ஆம் திகதி முதல் 15ஆம் திகதி வரையான காலப்பகுதியில் இந்தப் பரீட்சைகள் இடம்பெற்றிருந்தன.
+
+அதன் முடிவுகளை இந்த வாரம் வெளியிட உத்தேசித்திருப்பதாகவும், அது சாத்தியப்படாவிட்டால், 10 நாட்களுக்குள் வெளியிட முடியும் எனவும் அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/671c2526.json)
+
+---
+
+### கிளிநொச்சியில் காணப்பட்ட கருச்சிதைவுகள்
+
+*2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-காணப்பட்ட-கருச்சிதைவுகள்/72-339304) · `ta`
+
+கிளிநொச்சியில் உள்ள தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் நேற்று இரவு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கிளிநொச்சி அறிவியல் நகர் பகுதியில் அமைந்துள்ள ஆடைத்தொழிற்சாலை ஒன்றில் இவ்வாறு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதையடுத்து பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+
+தனியார் நிறுவன வளாகத்தில் குறித்த செய்தியை காட்சிப்படுத்த ஊடகவியலாளர்களுக்கு அனுமதி வழங்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/bccd7f65.json)
+
+---
+
+### Russia's terrorist attack attack - A large number of people killed
 
 *2024-06-24 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198080) · `si`
 
-රුසියානු පාලනය යටතේ පවතින ඩජෙස්තාන් කලාපයට ත්‍රස්ත ප්‍රහාරයක් එල්ලකර තිබේ.
+In a tragic incident, a terrorist attack in Russia's Dagestan region resulted in the deaths of 23 individuals, including 15 police officers and a priest. The assailants, along with six armed men who came to carry out the attack, were also killed.
 
-ඉන් 23 දෙනෙක් පමණ මියගොස් ඇති අතර ඊට පොලිස් නිලධාරීන් 15 දෙනෙක් ඇතුළත් ය.
+🟩
 
-එසේම පූජකයෙක්, ආරක්ෂක නිලධාරියෙක් සහ ප්‍රහාරයට පැමිණි සන්නද්ධ පුද්ගලයින් 6 දෙනෙක් ද මියගොස් ඇති බව වාර්තා වෙයි.
+Terrorist attacked by a terrorist attack on the Dagestan region under Russian regime.
+
+About 23 of them were killed and 15 police officers included.
+
+A priest and six armed persons who had come to attack were also killed.
 
 ◼️
 
 [Data](articles/688d2073.json)
+
+[Extended Data](ext_articles/688d2073.ext.json)
 
 ---
 
@@ -85,6 +159,30 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/ae7dffc4.json)
 
 [Extended Data](ext_articles/ae7dffc4.ext.json)
+
+---
+
+### පන්සල් ගොස් නිවසට පැමිණි කාන්තාවට අත්වූ ඉරණම
+
+*2024-06-24 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198079) · `si`
+
+ගෝනපිටුවල සාමගම, අලුත්වල ප්‍රදේශයේ නිවසක් තුළ කාන්තාවක්ව ඝාතනය කර තිබේ.
+
+මෙලෙස ඝාතනයට කර ඇත්තේ එම නිවසේ පදිංචිව සිටි 76 හැවිරිදි කාන්තාවක් බව පොලීසිය පවසයි.
+
+මෙම කාන්තාව අවිවාහක තැනැත්තියක් වන අතර ඇය සිය සහෝදරයාගේ පුතා සමග වසර කිහිපයක් මෙම නිවසේ පදිංචිව සිට ඇත.
+
+මෙම කාන්තාව පසුගිය පොසොන් පොහොය දිනයේ සිල් සමාදන් වී නිවසට පැමිණිමෙන් පසු ඇයට පොල්ලකින් පහර දී ඝාතනය කර ඇති බවට අනාවරණ වී තිබේ.
+
+මෙම කාන්තාව ඝාතනය වූ ස්ථානයේ තිබී ඇයට පහර දුන් බවට සැක කෙරෙන පොල්ලක්ද පොලිස් විමර්ශන නිලධාරීන් විසින් සොයා‌ගෙන ඇත.
+
+ඒ අනුව පොලීසිය පවසන්නේ පොසොන් පොහොය දිනයේ (21) සවස් කාලයත් ඊයේ දිනයේ (23) උදෑසන කාලයත් අතරතුර මෙම ඝාතනය සිදුකර ඇති බවය.
+
+මෙම කාන්තාවගේ සහෝදරයාගේ පුත්‍රයා විසින් මෙම ඝාතනය සිදු කර ඇති බවට පොලීසිය සැක කරයි.
+
+◼️
+
+[Data](articles/11b69e8e.json)
 
 ---
 
@@ -1504,6 +1602,20 @@ The President also joined the devotees participating in this special prayer.
 
 ---
 
+### පිලිකා ඖෂධය තිබියදී එයම සාමාන්‍ය මිලට වඩා සියයට 254 මිලකට මිලදි ගෙන
+
+*2024-06-23 17:00:21* · [`adalk`](https://www.ada.lk/breaking_news/පිලිකා-ඖෂධය-තිබියදී-එයම-සාමාන්‍ය-මිලට-වඩා-සියයට-254-මිලකට-මිලදි-ගෙන/11-410381) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පාලන කාලයේ  මාස 10ක්  සදහා ප්‍රමානවත් අයුරින්  පිළිකා රෝගීන්ට ලබාදෙන රිටොක්සි මැප් නමැති (Rituximab inj. 500mg) ඖෂධය ගබඩාවල තිබියදි  බාල පිලික ඖෂධයක්  සාමාන්‍ය මිලට වඩා සියයට 254ක ඉහළ මිලකට මිලදි ගැනිම හේතුවෙන් රජයට රුපියල්  හයකෝටි පනස්තුන් ලක්ෂ පනස්දහස් තුන්සිය හතළිස් දෙකක (65,350,342 ) පාඩුවක් සිදුකොට ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+
+මෙකී එක් එන්නතක් හදිසි මිලදී ගැනීම යටතේ ඇමරිකානු ඩොලර් 152ක් වැනි ඉහළ මිලක් යටතේ  එන්නත් කුප්පි 2250ක් මිලදිගෙන ඇත්තේ ප්‍රශ්න සහගත හියුමන් ඉමියුනොග්ලොබියුලින් (Human Immunoglobulin) නමැති ඖෂධ වංචාවට සම්බන්ද  සැපයුම්කාර සමාගමෙන් බවද  විගණනය මගින් අනාවරණය කොට තිබුණි.  එමෙන්ම මෙකී ඖෂධය හදිසි මිලදී ගැනීම යටතේ  සම්පාදනය කරගැනිමේ අවශ්‍යතාවයක් නොතිබු බවද විගණන වාර්තාවේ සදහන් වේ.
+
+...
+
+[Data](articles/2eeb5805.json)
+
+---
+
 ### Student joint venture;Session
 
 *2024-06-23 16:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-தடுத்து-வைப்பு/175-339292) · `ta`
@@ -2163,165 +2275,5 @@ Meanwhile, several players of the Sri Lanka women’s team have also climbed up 
 [Data](articles/097bd542.json)
 
 [Extended Data](ext_articles/097bd542.ext.json)
-
----
-
-### How to get the pumi and jeep to Kota
-
-*2024-06-23 12:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவிடம்-பியூமி-ஜீப்-பெற்றது-எப்படி/175-339278) · `ta`
-
-Pumi Hansamali bought a Range Rover Jeep, previously used by former President Gotabhaya Rajapaksa, from a lease company for Rs 400 lakhs upfront. The purchase sparked investigations due to repeated payments, including a large sum paid within 33 days. Pumi financed her purchase through her beauty business, making significant monthly installments until full payment in December 2023.
-
-🟩
-
-Actress and Model Pumi Hansamali will buy a Range Rover Jeep, a CB M 1949, used by former President Gotabhaya Rajapaksa in 2021.
-
-The vehicle worth Rs 780 lakh was purchased to the vehicle lease company by paying Rs 400 lakhs.
-
-Investigations by the Criminal Investigation Department have found that the first installment fee has been paid and the rest has been repeatedly paid.
-
-Criminal Investigations Officers inquired about this to the sales officer of the fence, and said that Pumi Hansamali had received Rs 400 lakh under Speed ​​Draft and that the amount was paid within a period of Rs 33,425 per day.
-
-He paid nearly a million months of installments and paid the entire amount on June 30, 2023.
-
-Then on 24.07.2023, under the same feature of Rs.. Velipple Finance said that the amount was paid 450 lakh and the amount was paid on 18.12.2023.
-
-On 19.12.2023, in two files of Rs.. 450 lakhs were received in which Rs.
-
-Through this, Pumi's big credit installments were made through the beauty business.
-
-◼️
-
-[Data](articles/b3c72c2b.json)
-
-[Extended Data](ext_articles/b3c72c2b.ext.json)
-
----
-
-### A son arrested for hitting his mother in the Poson Poya Day
-
-*2024-06-23 12:33:41* · [`adalk`](https://www.ada.lk/breaking_news/ගලකින්-හිසට-පහරදී-පොසොන්-පොහොයදා-රාත්‍රි-සිය-මව-ඝාතනය-කල-පුතෙකු-අත්අඩංගුවට/11-410376) · `si`
-
-On Poson Poya Day, a 44-year-old man from Kandagedara allegedly assaulted his mother, leading to her death. The incident occurred after the suspect, under the influence of alcohol, caused disputes at his mother's residence. He was later arrested and remanded for the murder.
-
-🟩
-
-Kandagedara Police said that the son of his son's home was bowled out for a stone and assassinated his son's home on the Poson Poya Day night.
-
-The suspect's son had been assassinated with the head of the head of the Hongel Muththale (62), a resident of Kandaweera Vidyalaya.
-
-The suspect was a 44 year old father, a resident of Kandagedara Boarno, the police said.
-
-The suspect had resided in the Colombo Divisional estate home with his wife and his two children with the mother of his suspect.
-
-The police say that he has always come to a drunken mother's house and causing disputes with the drunk and the three children to stay with a room to stay at the house.
-
-The suspect had gone to his home to meet the Samurdhi Development Officer of the suspect, the suspect had gone to his home, and the suspect had been burnt to his mother's house.
-
-The woman was killed and the mother of the mother had been admitted to the Kandagedara hospital with a stone and the mother of the mother was taken into a stone.
-
-...
-
-[Data](articles/1e2b7bf9.json)
-
-[Extended Data](ext_articles/1e2b7bf9.ext.json)
-
----
-
-### Kallakurichi counterfeit liquor;The main culprit in Chennai was arrested
-
-*2024-06-23 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186760) · `ta`
-
-In Kallakurichi, 55 died from poisoned alcohol; key suspect Sivakumar arrested. Police investigating sales network, including brokers.
-
-🟩
-
-Police have arrested Sivakumar, the main accused in the sale of a counterfeit liquor in Kallakurichi.
-
-Police continue to arrest the persons who sold the liquor liquor at Kallakurichi. Sivakumar has been arrested by the CBCID police, who have been arrested by the CBCID police.
-
-55 people have died due to poisonous alcohol in Kallakurichi and surrounding areas.. Many more are receiving treatment in hospitals. Kallakurichi police have filed a case against Kannukkutty alias Govindaraj, his wife Vijaya and brother Damodharan, who had earlier sold poisonous alcohol.
-
-While the incident has been transferred to CBCID, Chinnathurai, Joseph Raja and Madhankumar have been arrested for supplying Methhanal as a second broker.
-
-Investigators reported that Matesh was the one who sells a methanol. The CBCID police are conducting an investigation into Mathesh.
-
-...
-
-[Data](articles/8f800573.json)
-
-[Extended Data](ext_articles/8f800573.ext.json)
-
----
-
-### No party can't get 113
-
-*2024-06-23 12:28:53* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පක්ෂයකට-113ක්-ගන්න-බෑ/11-410375) · `si`
-
-In a recent address, Sri Lanka's Port Naval and Aviation Minister Nimal Siripala de Silva highlighted the political landscape, stating that no single party could secure 113 seats in the upcoming election due to the fragmented nature of the vote. However, his party remains a significant player, emphasizing its influence regardless of the government formation. He called for unity within the Sri Lanka Freedom Party (SLFP) and the appointment of a capable president to lead the country forward, criticizing past leadership for constitutional violations and lack of party loyalty.
-
-🟩
-
-'We can't take 125 seats in the election. But we are not the only one. When the votes under this rate is divided into parties, no party can win 113 seats. But we can take more seats. Then, whoever takes the government, there will be no government without us. "Port Naval and Aviation Minister Nimal Siripala de Silva said.
-
-He was addressing a meeting of the SLFP activists in Mahiyanganaya recently. The Minister further said,
-
-"Today we get the majority needed to establish a government. Whether you have a government or not, we are the decisive force that takes adequate number of seats. Now there are 14 of us. We can easily increase this for sixty-seven times.
-
-...
-
-[Data](articles/7c5ad899.json)
-
-[Extended Data](ext_articles/7c5ad899.ext.json)
-
----
-
-### “If the Rajapaksa team comes: we will leave”
-
-*2024-06-23 12:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-அணி-வந்தால்-நாங்கள்-வெளியேறுவோம்/175-339277) · `ta`
-
-Nimal Lansa plans to inform President Ranil Wickramasinghe about the Rajapaksa team's continued participation in the upcoming presidential election committee. The President suggests choosing between the Rajapaksa camp's support or his own team's support. The committee protests against Basil Rajapakse's inclusion but he remains involved. The SLFP, led by Nimal Siripala de Silva, is expected to back the President, with Nimal Lansa's group also supporting him.
-
-🟩
-
-Parliamentarian Nimal Lansa has decided to announce to President Ranil Wickra Masinghe that the Sri Lankan PA's Rajapaksa team will continue to take part in the upcoming presidential election committee.
-
-Accordingly, the President has said that the president should elect the support of the PA Rajapaksa camp in the presidential election or the support of his own team.
-
-The committee has pointed out that the group has protested against Mr. Basil Rajapakse's invitation to the president's electoral committee and that he continues to participate in it.
-
-It is also known that the SLFP is planning to announce the president in the future as the Sri Lanka Freedom Party (SLFP) Nimal Siripala de Silva is working with Nimal Lansa and the group.
-
-◼️
-
-[Data](articles/11cbae64.json)
-
-[Extended Data](ext_articles/11cbae64.ext.json)
-
----
-
-### Two youths dead, two critical after bus collides head-on with three-wheeler
-
-*2024-06-23 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100042/two-youths-dead-two-critical-after-bus-collides-head-on-with-three-wheeler) · `en`
-
-Two persons have been killed, while two others sustained critical injuries after a bus carrying a group of people going on an excursion towards Anuradhapura, collided head-on with a three-wheeler in Thalawa on the Anuradhapura – Padeniya main road, early this morning (23).
-
-The driver and three passengers in the three-wheeler who sustained critical injuries in the collision had been rushed to Thalawa Hospital.
-
-However, the driver and one of the passengers of the three-wheeler have succumbed to their injuries upon admission to the hospital, the police said.
-
-The remaining two injured individuals have been referred to Anuradhapura Teaching Hospital for further treatment.
-
-Police said that the deceased, aged 19 and 21, were residents of the Eppawala area.
-
-Their bodies have been placed at the mortuary of the Thalawa Hospital.
-
-The bus driver has been arrested, and Thalawa police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/dba4cd39.json)
-
-[Extended Data](ext_articles/dba4cd39.ext.json)
 
 ---

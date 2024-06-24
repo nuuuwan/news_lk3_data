@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 00:06:54**
+As of **2024-06-25 00:19:30**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,951 (100.0%) of 31,952 articles have been extended.
+31,952 (100.0%) of 31,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ඉන්දියාව අවසන් පූර්ව වටයට
+### India to the semi-finals
 
 *2024-06-24 23:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198115) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට්  තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර තරගයෙන් විශිෂ්ට ජයක් වාර්තා කිරීමට ඉන්දියාව අද (24) සමත්විය.
+In the T20 World Cup match on 24th, India and Australia competed. Batting first, India made 205/5, Rohit Sharma scoring 92. Mitchell Starc and Marcus Stoinis took 2 wickets each. Australia chased 206 but fell short, allowing India to reach the semi-finals.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දියාව සිය පන්දු ඕවර 20දී කඩුලු 5ක් දැවී ලකුණු 205ක් රැස් කළේය.
+🟩
 
-එහිදී ඉන්දීය ඉනිම වෙනුවෙන් නායක රෝහිත් ශර්මා පන්දු 41කට මුහුණ දෙමින් ලකුණු 92ක් රැස් කළේය.
+India and Australia were able to win the Twenty Twenty World Cup match today (24).
 
-පන්දු යැවීමේදී Mitchell Starc සහ Marcus Stoinis කඩුලු 2ක බැගින් දවා ගත්තේය.
+Batting first India scored 205 runs for the loss of 5 wickets in the loss of 5 wickets.
 
-ලකුණු 206ක ඉලක්කයක් හඹා යෑම ඇරඹු ඔස්ට්‍රේලියානු පිතිකරුවන්ට නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 7ක් දැවී ලබා ගැනීමට හැකි වූයේ  ලකුණු 181ක් පමණි.
+Rohit Sharma scored 92 runs in front of the Indian innings.
 
-ඒ අනුව අවසන් පූර්ව වටයට සුදුසුකම් ලබාගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
+Mitchell Starc and Marcus Stoinis took 2 wickets each.
+
+The Australian batsmen began to score 181 runs in the end of 20 overs, which was chasing a target of 206 runs.
+
+Accordingly, the Indian team was able to qualify for the semi-finals.
 
 ◼️
 
 [Data](articles/19fef0c5.json)
+
+[Extended Data](ext_articles/19fef0c5.ext.json)
 
 ---
 

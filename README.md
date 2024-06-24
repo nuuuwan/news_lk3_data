@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 17:19:31**
+As of **2024-06-24 17:35:12**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 5,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,906 (100.0%) of 31,909 articles have been extended.
+31,909 (100.0%) of 31,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ජාතික උද්ධමනය පහළට
+### National inflation down
 
 *2024-06-24 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198101) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 2024 අප්‍රේල් මාසයේ දී වාර්තා වූ 2.7% සිට 2024 මැයි මාසයේ දී 1.6% ක් දක්වා පහළ බැස ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව නිවේදනය කර සිටී.
+Inflation in the country decreased slightly from 2.7% to 1.6% according to the NCPI from April to May 2024. Food inflation dropped from 3.3% to 0.5%, while non-food inflation rose slightly from 2.3% to 2.4%.
 
-එහිදී 2024 අප්‍රේල් මාසයේ දී 3.3% ක්ව පැවති ආහාර කාණ්ඩයේ වාර්ෂික ලක්ෂ්‍යමය උද්ධමනය, 2024 මැයි මාසයේ දී 0.5% ක් දක්වා පහළ ගොස් ඇත.
+🟩
 
-මේ අතර 2024 අප්‍රේල් මාසයේ දී 2.3% ක් ලෙසින් වාර්තා වී තිබුණු ආහාර නොවන කාණ්ඩයේ උද්ධමනය 2024 මැයි මාසයේ දී 2.4% ක් දක්වා සුළු වැඩිවීමක් වාර්තා කර ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+According to the National Customer Price Index (NCPI), the country's point of surface has been reduced from 2.7% to 1.6% in April 2024 to 1.6% in May 2024.
+
+The annual point inflation of the feeding of 3.3% has fell to 0.5% in May 2024 in April 2024.
+
+Meanwhile, a small increase in non-food category inflation recorded at 2.3% in April 2024 has increased to 2.4% in May 2024, the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/c8ba8078.json)
 
+[Extended Data](ext_articles/c8ba8078.ext.json)
+
 ---
 
-### இலங்கை விவகாரத்தை சர்வதேச நீதிமன்றத்தில் பாரப்படுத்துவோம் - பிரிட்டனின் தொழில்கட்சி உறுதி மொழி-     பொருளாதார தடைகள் , இனப்படுகொலை இடம்பெற்றதை அங்கீகரிப்பது சாத்தியமில்லை,  கென்சவேர்ட்டிவ் கட்சி-
+### The British Labor Party's affirmative language- sanctions, genocide is unlikely to recognize the Sri Lankan affair in the International Court.
 
 *2024-06-24 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186854) · `ta`
 
-பிரிட்டனின் தொழில்கட்சி இலங்கை விவகாரத்தை சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு பாரப்படுத்துவதாக உறுதிமொழி வழங்கியுள்ளது.
+The British Labor Party has committed to addressing the Sri Lankan conflict through the International Criminal Court, contrasting with the Conservative Party's stance. Ahead of the UK's July 4th elections, both Kensawarde's and the Green Party have shown support for the Tamil community, promising action against Sri Lanka's injustices. The Deputy Minister of Kenzavertivi emphasized continued advocacy at the UN Human Rights Council, while also suggesting diplomatic solutions over sanctions. Despite acknowledging potential obstacles, the party remains committed to pursuing justice based on crimes, not countries.
 
-ஜூலை நான்காம் திகதி பிரிட்டனில் நாடாளுமன்ற தேர்தல் இடம்பெறவுள்ள நிலையில் கென்சவேர்ட்டிவ் தொழில்கட்சி மற்றும் பசுமை கட்சிகளின் பிரதிநிதிகள் பிரிட்டனில் முதல்தடவையாக இடம்பெற்றுள்ள தமிழ் தேர்தல் மேடை நிகழ்வில் கலந்துகொண்டு உரையாற்றியுள்ளதுடன்  இலங்கையில் இடம்பெற்ற பாரிய அநீதிகளிற்கு நீதி பொறுப்புக்கூறலை உறுதி செய்வதை நோக்கிய நடவடிக்கைகளை எடுக்கப்போவதாக உறுதியளித்துள்ளனர்.
+🟩
 
-தமிழ் கார்டியன் பிரிட்டிஸ் தமிழ் கூட்டமைப்பு ஆகியன இணைந்து ஏற்பாடு செய்த இந்த நிகழ்வு வெஸ்ட்மினிஸ்டரில் இடம்பெற்றது.
+The British Labor Party has pledged the Sri Lankan affair to the International Criminal Court.
 
-இதில் கலந்துகொண்ட பிரிட்டனின் பிரதான கட்சிகளின் பிரதிநிதிகள் நாட்டிற்கான அவர்களின் தொலைநோக்கையும் பிரிட்டனின் தமிழ் சமூகத்திற்கான தங்களின் பகிரப்பட்ட அர்ப்பணிப்பையும் முன்வைத்தனர்.
+With the parliamentary elections in Britain on the 4th of July, representatives of Kensawarde's and Green Party have addressed the first Tamil election stage in Britain and have promised to take steps to ensure the responsibility of justice for the massive injustices in Sri Lanka.
+
+The event was organized by the Tamil Guardian British British Federation.
+
+Representatives of Britain's major parties presented their vision for the country and their shared dedication to Britain's Tamil community.
+
+The Deputy Minister of Kenzavertivi's Deputy Minister of State for Mitchell, the Shadow of Asia, was raised by the Tamil Cardist editor Dusian Nandakumar and the International Constitutional International Constitutional International Constitutional International Constitutional Internationals.
 
 ...
 
 [Data](articles/a73e4014.json)
+
+[Extended Data](ext_articles/a73e4014.ext.json)
 
 ---
 
@@ -1242,17 +1256,25 @@ The interim injunction was issued when the petition was filed by Mundiku Saracha
 
 ---
 
-### දෙන්න කථාවෙලා එක බොරුවක් කියන්න
+### Give Symposes Say one lie
 
 *2024-06-24 12:39:09* · [`adalk`](https://www.ada.lk/breaking_news/දෙන්න-කථාවෙලා-එක-බොරුවක්-කියන්න/11-410396) · `si`
 
-ද්විපාර්ශවිය ණය ප්‍රතිව්‍යුහකරණයට ගිවිසුමක් අත්සන් කිරීම පදනම් කර ගෙන රට බංකොලොත් බවින් මිදුනා යැයි පවසමින් සැණකෙලි පවත්වන්න ආණ්ඩුව සූදානම් වුවද සැබැවින්ම රට බංකොලොත් භාවයෙන් මිදී නොමැති බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (24) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවක් අමතමිනි. පිවිතුරු හෙළ උරුමයේ නායකයා එහිදී වැඩි දුරටත් මෙසේ අදහස් දැක්වීය.
+Leaders from two political parties in Sri Lanka are at odds over the country's financial situation. The Mahanayaka Gammanpila claims the government is preparing to sign a control to restructure agreements, denying readiness for bankruptcy. Meanwhile, the Plandani Hela Urumaya criticizes the government for failing to restructure private debts, which are a significant portion of Sri Lanka's $42 billion foreign loans. The IMF agreement requires restructuring these debts to avoid bankruptcy. The finance minister and central bank governor have conflicting statements on the country's financial status, adding to public confusion.
 
-"ජූනි 27 දිනට ද්විපාර්ශවිය ණය ප්‍රතිව්‍යුහකරණයට ගිවිසුමක් අත්සන් කිරීම පදනම් කරගෙන රට බංකොලොත් බවින් මිදුනා කියලා රබන් ගහලා රතිඤ්ඤා පත්තු කරලා සැණකෙලි පවත්වන්න ආණ්ඩුව කටයුතු සංවිධානය කරනවා කියලා අපට ආරංචියි.  නමුත් ද්විපාර්ශවික ණය කියන්නේ අපේ විදේශ ණය වලින් පොඩි කොටසක් විතරයි.  ඒක ආපසු ගෙවන ක්‍රමවේදයක් පිළිබඳ එකඟතාවයක් ඇති කර ගත්තා කියලා අපි බංකොලොත් බවින් මිදෙන්නේ නෑ.
+🟩
+
+Leader of the Mahanayaka Gammanpila says the government is preparing to signing a controll to the restructuring of an agreement, but it is not the government is ready to have the bankruptcy.. He was addressing a media briefing at the party headquarters today (24). The leader of the Plandani Hela Urumaya said:
+
+"We need to organize the government to bilate the crackers to sign a controll to the restructuring of a controll to the restructuring of the bilateral.We don't get bankruptcy.
+
+According to the IMF agreement, by the end of 2022, foreign loans were $ 42 billion.We went bankrupt by the unbearable payment.These loans are divided into three main parts.The first part is multilateral debt.That means the loans obtained from international institutions like Asian Development Bank.11.5 billion.We continued to pay without taking away.Then the payment was broken bilateral loans and private debt.Bilateral loans will pay $ 11.5 billion.That's what it is now trying to agree on the restructuring.
 
 ...
 
 [Data](articles/18376d75.json)
+
+[Extended Data](ext_articles/18376d75.ext.json)
 
 ---
 

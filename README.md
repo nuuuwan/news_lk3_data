@@ -1,36 +1,144 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 11:19:30**
+As of **2024-06-24 11:34:56**
 
 ## Newspaper Stats
 
-*Scraped **31,817** Articles*
+*Scraped **31,826** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 292
-dbsjeyarajcom | 294
+dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,789
+adalk | 2,790
 adaderanalk | 3,613
-tamilmirrorlk | 3,744
+tamilmirrorlk | 3,745
 dailymirrorlk | 4,733
-virakesarilk | 4,925
+virakesarilk | 4,931
 adaderanasinhalalk | 5,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,817 (100.0%) of 31,817 articles have been extended.
+31,826 (100.0%) of 31,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Next up is the war in Lebanon?Benjamin Netanyaku has announced that he will send more soldiers to face the Hesbullah organization
+
+*2024-06-24 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186808) · `ta`
+
+Israel's PM Netanyahu warns of escalating tensions, announcing additional troops deployment to face Hezbollah in Lebanon, post-Hamas conflict conclusion.
+
+🟩
+
+Israeli Prime Minister Benjamin Netanyaku, who has said that Israel is in the process of ending the current stage of the war with Hamas, has warned of the war.
+
+He said that the current phase of the war with Hamas in Gaza is coming to an end, and Israel will send further soldiers to his northern border to face the Lebanon's Hesbullah organization.
+
+In a television interview, Benjamin Nettanyaku said that the Israeli military is in the process of completing its action in Rabba, but it does not mean that the Gaza War has come to an end.
+
+However, the Israeli prime minister said that in the future, the Israeli Prime Minister said that there would be less soldiers than the current situation in Gaza, he said.
+
+He also said that we will have the opportunity to change our soldiers to the North.
+
+These ideas are seen as an increase in tension as the Hesbullah organization and Israel are moving towards the war.
+
+...
+
+[Data](articles/9e2d3b19.json)
+
+[Extended Data](ext_articles/9e2d3b19.ext.json)
+
+---
+
+### The presidential candidate's dollars
+
+*2024-06-24 10:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளரின்-டொலர்களை-அரித்த-கரையான்/175-339312) · `ta`
+
+A former presidential candidate in Sri Lanka reportedly received USD worth Rs 25 crore from both local and international donors during the last election. These funds were later replaced with new currency due to legal issues, raising questions in the political sphere.
+
+🟩
+
+Karayan raised the US dollars worth Rs 25 crore, which had a former presidential candidate.
+
+The Sri Lankan website reports that the US dollars worth about Rs 25 crore from domestic and foreign donors during the last presidential election have been eroded.
+
+According to reliable sources, a former candidate contesting the presidential election has secretly secretly in the security box.
+
+At the request of the former candidate, the new dollar banknotes have been issued to the former candidate, replacing the dollar notes made by a chief.. .
+
+It has been revealed that the chief has helped the former candidate in the presidential election.
+
+The former candidate is said to have received these dollars from domestic and foreign donors in the last presidential election after court proceedings.
+
+Accordingly, in order to take the dollars, when the dollar deposits, the coarse was destroyed.
+
+Subsequently, the chief has asked the chief to help the chief to convert the dollars into new notes.
+
+...
+
+[Data](articles/879412ad.json)
+
+[Extended Data](ext_articles/879412ad.ext.json)
+
+---
+
+### Kalmunai North Divisional Secretariat Gate
+
+*2024-06-24 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186807) · `ta`
+
+For 91 days, residents near Kalmunai North Divisional Secretariat have protested peacefully, demanding justice and an end to administrative repression. Despite a brief hunger strike in 2019, sparked by false promises, the struggle continues, with plans for street protests and road blockades. This division, established in 1988, marks its 30th year as a separate entity, highlighting a long-standing fight for rights amidst political and bureaucratic challenges.
+
+🟩
+
+People have been struggling for the past 91 days for their fundamental rights to seek justice for the Kalmunai North Divisional Secretariat. People gathered in front of the Kalmunai North Divisional Secretariat today. The top officials and the government are gathering slogans that the government should give us a solution to the entrance of the secretariat.
+
+On Monday (25) in front of the Divisional Secretariat, the public gathered in a peaceful way, carrying out various slogans.
+
+As a result of this, the 92nd day is still continuing the struggle by presenting various slogans. The organizers said that the people involved in the struggle would go to the streets and engage in a road picket.
+
+...
+
+[Data](articles/fd2601d3.json)
+
+[Extended Data](ext_articles/fd2601d3.ext.json)
+
+---
+
+### The body of boardless father, who was not in his back, is Yach
+
+*2024-06-24 10:52:04* · [`adalk`](https://www.ada.lk/breaking_news/ආගිය-අතක්-නොමැතිව-සිටි-තිදරු-පියෙකු-ගේ-මළසිරුරක්--වෙල්‍-යායක/11-410391) · `si`
+
+A 42-year-old man named PH, known as "father of a father of Nagoda," was found dead. His body was identified by family members and had been hospitalized in Nagoda, Kalutara, before being removed. The case is under investigation by Inspector General Gayan Krizhahantha and Sergeant Priyadarshana.
+
+🟩
+
+The body of a four-day father, a father of a father of Nagoda, has met with a father of Nagoda.
+
+The deceased is PH. Police said that Sirisena was a father of 42-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year old.
+
+The body has been identified by the nearest relatives of the victim.
+
+The deceased has been admitted to the Nagoda Hospital in Kalutara and had been admitted to the Nagoda Hospital in Kalutara and had been withdrawn from the day.
+
+Criminal Division OIC Inspector General of Police Gayan Krizhahantha and Sergeant W.. Priyadarshana (7859) are investigating.
+
+◼️
+
+[Data](articles/a6245d6d.json)
+
+[Extended Data](ext_articles/a6245d6d.ext.json)
+
+---
 
 ### Special delegation to leave for Russia to help repatriate ex-soldiers
 
@@ -92,6 +200,26 @@ The Twenty-Twenty World Cup was held today (24).
 
 ---
 
+### Sadasivam Jupiter became Minister of Commerce and Environment
+
+*2024-06-24 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186801) · `ta`
+
+Sadasivam Jupiter, a Parliamentarian, has been named the Minister of Commerce and Environment, taking his oath at the Presidential Secretariat before President Ranil Wickremesinghe on April 24th.
+
+🟩
+
+Parliamentarian Sadasivam Jupiter has been appointed as the Minister of Commerce and Environment.
+
+He was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe today (24), the Presidential Media Unit said.
+
+◼️
+
+[Data](articles/c1a14de2.json)
+
+[Extended Data](ext_articles/c1a14de2.ext.json)
+
+---
+
 ### Unidentified body found in the middle of a city
 
 *2024-06-24 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198083) · `si`
@@ -111,6 +239,60 @@ The deceased is a seminar of the height of 5 feet five feet with a four-inch thi
 [Data](articles/8f04bde6.json)
 
 [Extended Data](ext_articles/8f04bde6.ext.json)
+
+---
+
+### Trying to get the post of Health Minister with the government?Rajitha denies
+
+*2024-06-24 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186803) · `ta`
+
+Rajitha Senaratne, a United People's Power MP, denied rumors about seeking the Health Minister position in the government. He clarified he wasn't in discussions with the government regarding this or other matters, stating no political changes are likely as elections approach.
+
+🟩
+
+United People's Power Member of Parliament Rajitha Senaratne has rejected the reports that he is trying to become a health minister with the government.
+
+It has been speculated that after attending several events led by Rajitha Senaratne President Ranil Wickremesinghe, he will be the Minister of Health with the government.
+
+However, Rajitha Senaratne, who has rejected these speculation, said he was not in talks with the government on the post or other issues.
+
+As the elections are approaching, there is no chance of political changes, he said.
+
+Rajitha Senaratne said that I am not engaged in any talks with the government.
+
+◼️
+
+[Data](articles/e0a76d1e.json)
+
+[Extended Data](ext_articles/e0a76d1e.ext.json)
+
+---
+
+### This week's action against Fonseka - there is nothing against Rajitha - United People's Power
+
+*2024-06-24 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186799) · `ta`
+
+The United People's Power party plans to take action against Sarath Fonseka this week for not aligning with its policies. However, no action will be taken against Rajitha Senaratne, who hasn't criticized the party leadership as harshly as Fonseka has.
+
+🟩
+
+The party's general secretary Ranjithmathumabandara has said that the party will take action this week against Sarath Fonseka, a former Member of Parliament and United People's Power Member of Parliament.
+
+He said the party's executive committee would take up to investigate what action would be taken against Sarath Fonseka.
+
+Ranjithmathumapandara has said that Sarath Fonseka is not actively acting in accordance with the policies of the party beyond his positions in the party.
+
+Ranjithmathumapandara said that we should be able to work with the party leader as long as he is in the party, and we are ready to take action against him and what action will be taken against him this week.
+
+Responding to a question of praising the president, Rajitha Senaratne, Ranjithmathumabandara said he would not take action against him.
+
+Ranjithmathupandara has said that Rajitha Senaratne has not severely criticized the leader of the United People's Power like Sarath Fonseka.
+
+◼️
+
+[Data](articles/16c3aa50.json)
+
+[Extended Data](ext_articles/16c3aa50.ext.json)
 
 ---
 
@@ -145,6 +327,32 @@ MP Sathasivam Viyalendiran was sworn in as the State Minister of Trade and Envir
 [Data](articles/e4e8153f.json)
 
 [Extended Data](ext_articles/e4e8153f.ext.json)
+
+---
+
+### Fishermen in Tamil Nadu condemning the Sri Lankan government
+
+*2024-06-24 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186797) · `ta`
+
+Rameshwaram fishermen in Tamil Nadu staged a one-day strike against the Sri Lankan government for arresting 22 of their colleagues for cross-border fishing. This protest led to over 800 fishermen staying ashore and more than 5,000 losing their jobs. The strike was a response to the detention of five fishermen, including Suresh Babu, Kalidas, Rubin, Kannan, and Nagaraj, by the Sri Lankan navy near Nedundi Island.
+
+🟩
+
+Rameshwaram fishermen are engaged in a one -day strike in Tamil Nadu today (24), condemning the Sri Lankan government for the arrest of 22 fishermen for fishing across the border and urging the Indian Central State Governments to take immediate action to release the fishermen.
+
+Due to this strike by the fishermen, more than 800 fishermen have been shut down on the shore without going to sea and more than 5 thousand fishermen have lost their jobs.
+
+More than 5 thousand fishermen from the Rameswaram fishing harbor in Ramanathapuram district went to fishing in 507 fishing boats last Saturday.
+
+Suresh Babu, Kalidas, Rubin, Kannan and Nagaraj, who were owned by Justin, Raimant and Kinen, were arrested by the Sri Lankan navy who were fishing in the area on Sunday morning while fishing in the Nedundi Island sea.They were imprisoned.
+
+Following this, the leaders of the Rameswaram All Fisheries Association held an emergency consultation meeting at the Rameswaram port yesterday.
+
+...
+
+[Data](articles/4179bac1.json)
+
+[Extended Data](ext_articles/4179bac1.ext.json)
 
 ---
 
@@ -255,6 +463,38 @@ It is also worth noting that journalists have not been allowed to display the ne
 [Data](articles/e7c8a2ef.json)
 
 [Extended Data](ext_articles/e7c8a2ef.ext.json)
+
+---
+
+### England entered the semi -finals as the first team to win the United States
+
+*2024-06-24 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186793) · `ta`
+
+England became the first team to reach the semi-finals of the 9th R20 World Cup after defeating the United States and West Indies. In the Super 8 stage, Barjdown qualified for Group 2, where Chris Jordan's 4-wicket haul and Jose Butler's aggressive batting led to a significant win against the United States, scoring 115 runs in 18.5 overs. The match saw Nitish Kumar, Gore Andasan, and Hameed Singh score notable runs, with Chris Jordan achieving the historic 9th Head-Trick in the tournament's history. England secured victory with a 117-run win in 9.4 overs, setting them up for further competition with a high net run rate.
+
+🟩
+
+The United States and the West Indies are partially eligible to play the Joint Champions England's first team in the 9th R20 World Cup chapter.
+
+Barjdown was qualified to play at the Super 8 T20 World Cup for the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Brijdown Kensington Oval Stadium.
+
+The 4-wicket pile of Chris Jordan's Hed-Trick, and the squad of team captain Jose Butler's action made the UK's success and increased the net speed.
+
+The team that win tomorrow's match between South Africa and the West Indies will qualify for the semi -finals as the 2nd team.
+
+In today's Super 8 match, the United States lost all wickets in 18.5 overs and scored 115 runs.
+
+The United States lost 3 wickets in 10 overs and scored 65 runs and then scored 115 runs for the remaining 7 wickets by 50 runs.
+
+Nitish Kumar (30), Gore Andasan (29) and Hameed Singh (21) scored more than 20 runs.
+
+In the 18th over of the match, Chris Jordan took wickets in the head -trick and made history.
+
+...
+
+[Data](articles/d21b2c89.json)
+
+[Extended Data](ext_articles/d21b2c89.ext.json)
 
 ---
 
@@ -852,6 +1092,20 @@ The President joined the films with the younger ones who attended the meeting af
 
 ---
 
+### President  Ranasinghe  Premadasa Belived that asting unity – be it national or social – could be built only by effecting tangible improvements in the living-conditions of all the poor, Sinhala, Tamil, and Muslim.
+
+*2024-06-24 01:32:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84253) · `en`
+
+For three months in late 1990’s, American author and political activist Barbara Ehrenreich lived the life of a low-wage worker. She wanted to discover, first hand, how President Bill Clinton’s welfare reforms were impacting on the lives of the working poor. Her experiences gave birth to her most celebrated book, Nickle and Dimed: On (Not) Getting By in America. In it, she focuses on the phenomenon of employed-homeless, workers who often do more than one job but are still unable to afford a roof over their heads. The conjunction of low wages and high rents create poverty traps from which few workers escape, Ehrenreich notes.
+
+...
+
+[Data](articles/a16dae91.json)
+
+[Extended Data](ext_articles/a16dae91.ext.json)
+
+---
+
 ### I will build the economy
 
 *2024-06-24 01:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-கட்டியெழுப்புவேன்/175-339302) · `ta`
@@ -977,38 +1231,6 @@ Five Sri Lankan companies namely, Prasad Gems and Lapidary, Ranmuthu Jewellers, 
 [Data](articles/1c0e6e14.json)
 
 [Extended Data](ext_articles/1c0e6e14.ext.json)
-
----
-
-### England entered the semi -finals as the first team to win the United States
-
-*2024-06-23 23:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186793) · `ta`
-
-England became the first team to reach the semi-finals of the 9th R20 World Cup after defeating the United States and West Indies. In the Super 8 stage, Barjdown qualified for Group 2, where Chris Jordan's 4-wicket haul and Jose Butler's aggressive batting led to a significant win against the United States, scoring 115 runs in 18.5 overs. The match saw Nitish Kumar, Gore Andasan, and Hameed Singh score notable runs, with Chris Jordan achieving the historic 9th Head-Trick in the tournament's history. England secured victory with a 117-run win in 9.4 overs, setting them up for further competition with a high net run rate.
-
-🟩
-
-The United States and the West Indies are partially eligible to play the Joint Champions England's first team in the 9th R20 World Cup chapter.
-
-Barjdown was qualified to play at the Super 8 T20 World Cup for the Super 8 T20 World Cup for the Group 2, which was completed shortly before at the Brijdown Kensington Oval Stadium.
-
-The 4-wicket pile of Chris Jordan's Hed-Trick, and the squad of team captain Jose Butler's action made the UK's success and increased the net speed.
-
-The team that win tomorrow's match between South Africa and the West Indies will qualify for the semi -finals as the 2nd team.
-
-In today's Super 8 match, the United States lost all wickets in 18.5 overs and scored 115 runs.
-
-The United States lost 3 wickets in 10 overs and scored 65 runs and then scored 115 runs for the remaining 7 wickets by 50 runs.
-
-Nitish Kumar (30), Gore Andasan (29) and Hameed Singh (21) scored more than 20 runs.
-
-In the 18th over of the match, Chris Jordan took wickets in the head -trick and made history.
-
-...
-
-[Data](articles/d21b2c89.json)
-
-[Extended Data](ext_articles/d21b2c89.ext.json)
 
 ---
 
@@ -2019,243 +2241,5 @@ The tournament will be held in Hambantota on June 24, 26 and 28.
 [Data](articles/ba34751e.json)
 
 [Extended Data](ext_articles/ba34751e.ext.json)
-
----
-
-### 27 Pakistani arrested for murder
-
-*2024-06-23 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198061) · `si`
-
-In Pakistan, 27 individuals were arrested for allegedly insulting the Qur'an in the Mahathath area, leading to a violent incident where a 36-year-old man was killed. The arrests followed a complaint about the desecration, with police detaining suspects linked to the violence and property damage.
-
-🟩
-
-A person who was saying that the Qur'an was insulted in the Mahathath area in Pakistan has arrested 27 suspects.
-
-The victim was a 36 year old resident of Punjab.
-
-He was arrested by the police according to a complaint lodged by the complaint that the person had been insulted to the Quran.
-
-The Head of the Head of the Police said that the police had taken away from a group of people who had been arrested and burned to property.
-
-They have been brutally assaulted in brutally beaten that person.
-
-A large number of people had been gathered at the time and 27 suspects involved in the incident have been arrested.
-
-◼️
-
-[Data](articles/23600adf.json)
-
-[Extended Data](ext_articles/23600adf.ext.json)
-
----
-
-### Notice issued on functioning of schools tomorrow
-
-*2024-06-23 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100047/notice-issued-on-functioning-of-schools-tomorrow-) · `en`
-
-The Ministry of Education states that schools across the island will function as usual tomorrow (June 24).
-
-This was communicated in a statement issued by the Ministry of Education this afternoon (23).
-
-However, the non-academic staff of the government schools have announced that they will launch a trade union action by reporting sick on Monday (24) and Tuesday (25), demanding a national policy for the non-academic service in the education sector.
-
-Meanwhile, the university non-academic staff, who have been engaged in a strike action for over 50 days, state that the necessary written agreements to resolve their problems at the minimum level have been handed over to the State Minister of Higher Education.
-
-The University Trade Union Joint Committee (UTUJC) stated that their strike action could be concluded tomorrow if the government provides a favourable response regarding the matter.
-
-◼️
-
-[Data](articles/72adc1c0.json)
-
-[Extended Data](ext_articles/72adc1c0.ext.json)
-
----
-
-### Announcement tomorrow
-
-*2024-06-23 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198060) · `si`
-
-School activities scheduled for tomorrow (24) as per Ministry of Education announcement.
-
-🟩
-
-The Ministry of Education has issued a statement that school activities will be held tomorrow (24).
-
-◼️
-
-[Data](articles/e2e06132.json)
-
-[Extended Data](ext_articles/e2e06132.ext.json)
-
----
-
-### Four threatened a doctor at Bentota Hospital
-
-*2024-06-23 15:15:41* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලේ-වෛද්‍යවරයෙකුට-තර්ජනය-කළ-හතරක්--අල්ලයි/11-410378) · `si`
-
-Four youths were arrested after allegedly threatening a doctor at Bentota Hospital. The incident occurred when two motorcycles collided near the hospital, injuring several including a health assistant and another worker. The doctor complained about being interrupted while on duty by a group of people, leading to the arrests. Further investigations are ongoing.
-
-🟩
-
-According to the Bentota Police, four youths have been arrested on suspicion of threatening a medical officer of the Bentota Government Hospital.
-
-Two motorcycles were wounded at the Colombo-Galle Highway in front of the Bentota Hospital night and the police said.
-
-The accident had occurred when a motorcycle and a motorcycle who was driving at a Bentota in a Bentota tourist hotel and a tourist at a Bentota Tourist hotel.
-
-The health assistant and the assistant of the accident and the other motor vehicle worker were also admitted to the Emergency Department.
-
-It is said that the doctor has warned someone for the hotel worker who was watching the two hospital employees and was videoing in the ward.
-
-The doctor has lodged a complaint with the police stating that they had threatened the doctor and interrupted the duties.
-
-It was reported that a group of people who had come to the hospital on the night and had gone back to the hospital.
-
-...
-
-[Data](articles/d91212fa.json)
-
-[Extended Data](ext_articles/d91212fa.ext.json)
-
----
-
-### Green card for foreign students
-
-*2024-06-23 15:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளிநாட்டு-மாணவர்களுக்கு-கிரீன்-கார்டு/50-339288) · `ta`
-
-Donald Trump, a Republican presidential candidate, proposed allowing foreign students who graduate from U.S. colleges to automatically receive a green card, aiming to retain talent and encourage entrepreneurship.
-
-🟩
-
-Donald Trump, the US president, is the most strict in the citizenship affair. He opposed other leaders in the matter of issuing a visa to foreigners.
-
-He faced the situation where migrant workers could return to their country. The United States has the principle of Americans.
-
-Currently contesting for the presidency on behalf of the Republican Party. The presidential election is scheduled for November. In this case, he has withdrawn from his previous speech on citizenship.
-
-Speaking at one of the Bottcast, Donald Trump said the green card could be issued to foreigners who graduate from the colleges here.. “If you graduate from college, I think you will automatically get a green card as part of your study.
-
-Green card is necessary to stay in this country. This includes junior colleges, ”he said. Also, “Graduates at leading colleges or universities will plan to stay here and start the company.
-
-...
-
-[Data](articles/52408f61.json)
-
-[Extended Data](ext_articles/52408f61.ext.json)
-
----
-
-### The British richest family members sentenced to imprisonment
-
-*2024-06-23 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198059) · `si`
-
-Four wealthy British-based Hinduja brothers, originally from India, were sentenced to 4.5 years in prison for human trafficking. They were accused of exploiting workers from India, paying them significantly below the legal minimum wage, and forcing them to work excessive hours. The case highlighted issues of labor exploitation and the mistreatment of foreign workers.
-
-🟩
-
-It is reported that a Switzerland has been sentenced to prison with four richest family members in Britain.
-
-The employees who were employed in India from India were accused of not properly considered.
-
-Prakash and Kamal Hinduja imposed that punishment against the name of Ajay and his wife, their son.
-
-The 4th to 4 years have been sentenced to 4 1/2 years against them.
-
-They were accused of the human trafficking and accused of their accusation.
-
-Hinduja, with Indian origin, was backed by three people from India to serve in his House.
-
-In court revealed that they were employed for about 18 hours a day and that one had paid only $ 8 for an hour.
-
-It is less than one 10 above the amount owed by Swiss law. Their passports were also placed in Hindinga.
-
-The complainant lawyers have said in court that the accused have spent more money for their dogs.
-
-The Hindujah family members are considered to reach about 37 billion in £ 37 billion.
-
-The Hinduja family owns the industry like fuel, gas and banks.
-
-◼️
-
-[Data](articles/bccca2cb.json)
-
-[Extended Data](ext_articles/bccca2cb.ext.json)
-
----
-
-### Country cannot prosper under leaders who abandon it in times of crisis – President
-
-*2024-06-23 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100046/country-cannot-prosper-under-leaders-who-abandon-it-in-times-of-crisis-president) · `en`
-
-President Ranil Wickremesinghe emphasized that a nation cannot prosper under leaders who flee during times of crisis.
-
-He further highlighted that had he not taken charge during the country’s period of turmoil, he shuddered to think of the current state of affairs.
-
-These remarks were made by President Ranil Wickremesinghe during his attendance at a meeting of United National Party representatives from the Batticaloa District, held yesterday (22) at the Municipal Council Auditorium, Batticaloa.
-
-“I had the opportunity to engage with various political and public organizations in Batticaloa. Presently, our country faces significant challenges. During the previous administration, I consistently emphasized the necessity of maintaining a reserve of at least USD 03 billion to propel our economy forward.
-
-...
-
-[Data](articles/33b3aa9c.json)
-
-[Extended Data](ext_articles/33b3aa9c.ext.json)
-
----
-
-### Fonseka is the highest position in the world
-
-*2024-06-23 14:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-உலகின்-உயர்ந்த-பதவி/175-339285) · `ta`
-
-Field Marshal Sarath Fonseka, a United People's Power MP, is set to receive the prestigious title of "Marshall," equivalent to a six-star general rank, making it the highest military rank globally. This honor comes after his significant contributions to securing victories, notably in the North. The title of Marshall has been bestowed upon notable global figures including former presidents and military leaders from various countries, highlighting its significance.
-
-🟩
-
-It is reported that United People's Power MP Field Marshal Sarath Fonseka will soon be given the highest number of Marshal post in the world's security sector.
-
-It is reported that he will be given the post of "Marshall", which is considered a six star general on Fonseka's request to the government.
-
-Fonseka was previously appointed as Fonseka's sacrifice for the victory of the North.
-
-Marshall, who was proposed to be given this time, had previously been given to many of the world's leading political leaders and military leaders.
-
-Former President of Yugoslavia, Marshall Ditto, former US President George Washington, former Russian President Joseph Stalin, former Chinese President Mao Sethung, former North Korean President Kiml Chung, former German war leader Herman Goring and other top Russian leaders have been honored.
-
-◼️
-
-[Data](articles/9de9b9af.json)
-
-[Extended Data](ext_articles/9de9b9af.ext.json)
-
----
-
-### Instant rage of student who failed the exam
-
-*2024-06-23 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198058) · `si`
-
-In Thivattioll, Tamil Nadu, a 20-year-old undergraduate student allegedly killed his mother, 45, and brother, 15, due to exam failure. The double murder occurred on the 20th, and the suspect confessed after a phone investigation. He claimed to have killed them while asleep, intending to spare his brother from becoming an orphan.
-
-🟩
-
-A student failed by a student killed his mother and brother.
-
-The double murder was reported from Thivattioll, Thiwattiro, Tamil Nadu.
-
-The killings were carried out on the 20th and the suspect, the 20-year-old undergraduate student, was revealed about the murders yesterday (22) after a SMS sent to her home two days.
-
-Nighty was arrested after a mobile phone investigation.
-
-He has always said that he was often murdered when he was sleeping and killed them while he was sleeping.
-
-The mother was a 45-year-old brother, who was 15-year-old.
-
-The suspect had said that he had killed his brother to prevent him from orphanity.
-
-◼️
-
-[Data](articles/5dcd2f31.json)
-
-[Extended Data](ext_articles/5dcd2f31.ext.json)
 
 ---

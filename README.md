@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 02:19:31**
+As of **2024-06-25 02:34:38**
 
 ## Newspaper Stats
 
-*Scraped **31,977** Articles*
+*Scraped **31,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,810
 adaderanalk | 3,633
-tamilmirrorlk | 3,767
+tamilmirrorlk | 3,768
 dailymirrorlk | 4,733
 virakesarilk | 4,950
 adaderanasinhalalk | 5,238
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,969 (100.0%) of 31,977 articles have been extended.
+31,977 (100.0%) of 31,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ This landmark event, the first of its kind in the UK, showcased the best of Sri 
 
 [Data](articles/1bd78309.json)
 
+[Extended Data](ext_articles/1bd78309.ext.json)
+
 ---
 
 ### Thai Chamber of Commerce President visits BOI
@@ -55,6 +57,8 @@ The Thai Chamber of Commerce Chairman Sanan Angubolkul and his delegation visite
 ◼️
 
 [Data](articles/8a5070eb.json)
+
+[Extended Data](ext_articles/8a5070eb.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ The Ceylon Chamber Chairman Duminda Hulangamuwa will address the AGM, providing 
 
 [Data](articles/1620079f.json)
 
+[Extended Data](ext_articles/1620079f.ext.json)
+
 ---
 
 ### Ravi Wijewantha appointed to Board of John Keells Plc
@@ -92,6 +98,8 @@ Controller of the Property Industry Group in July 2006 and Chief Financial Offic
 
 [Data](articles/72f40570.json)
 
+[Extended Data](ext_articles/72f40570.ext.json)
+
 ---
 
 ### Ceylon Chamber renews historic partnership with Board of Trade of Thailand
@@ -106,6 +114,8 @@ The MOU was signed in the presence of Ambassador designated to Thailand Wijayant
 
 [Data](articles/0dfb3cc6.json)
 
+[Extended Data](ext_articles/0dfb3cc6.ext.json)
+
 ---
 
 ### Ceylon Green Life Plantation ties up with NIPM for major developments
@@ -119,6 +129,8 @@ Speaking to media, Founder/Entrepreneur Dr. Marlon Petersay said, “This total 
 ...
 
 [Data](articles/2989b17c.json)
+
+[Extended Data](ext_articles/2989b17c.ext.json)
 
 ---
 
@@ -137,6 +149,8 @@ The program will have an inaugural session, two technical sessions, panel discus
 ...
 
 [Data](articles/f7bc8094.json)
+
+[Extended Data](ext_articles/f7bc8094.ext.json)
 
 ---
 
@@ -308,25 +322,33 @@ In an awareness campaign organised by the All Union Alliance of the Board of Inv
 
 ---
 
-### ஆஸி.யை வீழ்த்தி அரை இறுதிக்குள் நுழைந்தது இந்தியா; பங்ளாதேஷின் கைகளில் ஆஸி.யின் தலைவிதி
+### India entered the semi -finals by defeating Aussie;Aussie's fate in the hands of Bangladesh
 
 *2024-06-25 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186884) · `ta`
 
-சென். லுசியா, க்ரொஸ் ஐலட் டெரன் சமி தேசிய கிரிக்கெட் விளையாட்டரங்கில் இன்று நடைபெற்ற குழு 1க்கான கடைசிக்கு முந்தைய சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் அவுஸ்திரேலியாவை 24 ஓட்டங்களால் வெற்றிகொண்ட இந்தியா 3ஆவது அணியாக அரை இறுதியில் விளையாட தகுதிபெற்றது.
+India advanced to the semi-finals of the T20 World Cup after defeating Australia, securing its spot for the fifth time. The match was won by 24 runs, with Rohit Sharma's impressive batting and bowling playing crucial roles. Australia's fate now hinges on Bangladesh's performance against Afghanistan. If Afghanistan wins, Australia is out; if Bangladesh wins closely, Australia might still qualify.
 
-ஐந்தாவது தடவையாக அரை இறுதிக்குள் நுழைந்துள்ள இந்தியா, இரண்டாவது அரை இறுதியில் நடப்பு சம்பியன் இங்கிலாந்தை 27ஆம் திகதி எதிர்த்தாடும்.
+🟩
 
-ரோஹித் ஷர்மாவின் அதிரடி துடுப்பாட்டம், பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சு ஆகியன இந்தியாவின் வெற்றியில் பிரதான பங்காற்றின.
+Sen. India qualified to play Australia by 24 runs in the previous Super 8 T20 World Cup in Lucia, Cross Islat Terren Sammy National Cricket Stadium today.
 
-இந்தப் போட்டி முடிவை அடுத்து அவுஸ்திரேலியாவின் அரை இறுதி வாய்ப்பு ஊசலாடத் தொடங்கியுள்ளது. அதன் தலைவிதி இப்போது பங்களாதேஷின் கைகளில் தங்கியிருக்கிறது.
+India, which has entered the semi -finals for the fifth time, will oppose the current champion England on the 27th.
 
-காலையில் நடைபெறும் போட்டியில் ஆப்கானிஸ்தான் வெற்றிபெற்றால் அவுஸ்திரேலியா நாடு திரும்ப நேரிடுவதுடன் ஆப்கானிஸ்தான் அரை இறுதிக்குள் நுழையும்.
+Rohit Sharma's action playing and bowling of bowlers played a major role in India's victory.
 
-வெற்றி பெற்றால் பங்களாதேஷ் அரை இறுதி வாய்ப்பை பெறும். பங்களாதேஷ் சிறிய வித்தியாசத்தில் வெற்றிபெற்றால் அவுஸ்திரேலியா அரை இறுதி வாய்ப்பை பெறும்.
+Australia's semi -final chance has begun to swing in the aftermath of the match. Its fate is now in the hands of Bangladesh.
+
+If Afghanistan wins the morning match, Australia will return to the country and Afghanistan will enter the semi -finals.
+
+If winning wins, Bangladesh will get a semi -final offer. If Bangladesh wins a small margin, Australia will get a semi -final.
+
+India, who were first invited to bat in the match between the two former champions teams, scored 205 runs for the loss of 5 wickets in 20 overs with the help of team captain Rohit Sharma.
 
 ...
 
 [Data](articles/752b9f91.json)
+
+[Extended Data](ext_articles/752b9f91.ext.json)
 
 ---
 
@@ -347,6 +369,24 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 [Data](articles/20862c8d.json)
 
 [Extended Data](ext_articles/20862c8d.ext.json)
+
+---
+
+### பறவைக் காய்ச்சல் பதிவாகி இருந்தால் இறக்குமதி இல்லை
+
+*2024-06-25 00:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவைக்-காய்ச்சல்-பதிவாகி-இருந்தால்-இறக்குமதி-இல்லை/175-339365) · `ta`
+
+பறவைக் காய்ச்சல் பதிவாகியுள்ள எந்தவொரு நாட்டிலிருந்தும் விலங்குகள் அல்லது விலங்குப் பொருட்களை இலங்கைக்கு இறக்குமதி செய்ய அனுமதிக்கப்பட மாட்டாது என கால்நடை உற்பத்தி மற்றும் சுகாதாரத் திணைக்களம் வலியுறுத்தியுள்ளது.
+
+அண்மைக்காலமாக பல நாடுகளில் மீண்டும் தலைதூக்கிய பறவைக் காய்ச்சல் ஏ(H5N1) வைரஸ் பரவுவதைத் தடுக்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன என    கால்நடை உற்பத்தி மற்றும் சுகாதார திணைக்களத்தின் பணிப்பாளர் நாயகம் டொக்டர் ஹேமலி கொத்தலாவல தெரிவித்துள்ளார்
+
+பறவைக் காய்ச்சல் பதிவாகும் எந்தவொரு நாட்டிலிருந்தும் இலங்கைக்குள் எந்தவொரு விலங்கினப் பொருட்களையோ அல்லது விலங்குகளையோ இறக்குமதி செய்ய அனுமதிக்கப்படவில்லை என்றும் குறிப்பிட்டார்.
+
+மேலும், அமெரிக்காவில் முதன்முறையாக பறவைக் காய்ச்சலால் கால்நடைகளால் பாதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது, எனவே இது ஒரு தீவிரமான நிலைமை, இருப்பினும், இந்நாட்டில் நடைமுறைப்படுத்தப்பட்ட நோய் கட்டுப்பாட்டு நடவடிக்கைகள் மேலும் பலப்படுத்தப்பட்டுள்ளன. எனவே தேவையற்ற பயத்தை உருவாக்க வேண்டிய அவசியமில்லை என்றும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a5835edd.json)
 
 ---
 
@@ -2211,25 +2251,5 @@ He was speaking at a press conference held at the President's Media Center today
 [Data](articles/8b89e7cf.json)
 
 [Extended Data](ext_articles/8b89e7cf.ext.json)
-
----
-
-### Sri Lanka’s Port City to have international university
-
-*2024-06-24 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-to-have-international-university-169217/) · `en`
-
-ECONOMYNEXT – An international university to be established in Sri Lanka’s Port City, a multi-services special economic zone, will offer undergraduate and postgraduate degree programmes including in medicine and IT.
-
-The university is estimated to accommodate 3,000 to 4,000 students, and will be located next to the City’s international school on a 2.5 Ha land plot, CHEC Port City Colombo Pvt Ltd said in a statement.
-
-“Fulfilling the regional demand for undergraduate and postgraduate degree programmes in engineering, information technology, business studies/management, finance, marketing, and medicine, Port City Colombo aims to contribute positively towards the reversal of ‘brain drain’ and reduction of the current skills gap in the local employment market.”
-
-The university, with research and development facilities, aims to position Colombo as a regional hub for tertiary education.
-
-...
-
-[Data](articles/e6f64d83.json)
-
-[Extended Data](ext_articles/e6f64d83.ext.json)
 
 ---

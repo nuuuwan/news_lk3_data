@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 13:34:47**
+As of **2024-06-24 13:54:14**
 
 ## Newspaper Stats
 
-*Scraped **31,847** Articles*
+*Scraped **31,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,834
 dailyftlk | 1,942
-adalk | 2,794
-adaderanalk | 3,617
+adalk | 2,796
+adaderanalk | 3,618
 tamilmirrorlk | 3,750
 dailymirrorlk | 4,733
 virakesarilk | 4,931
-adaderanasinhalalk | 5,213
+adaderanasinhalalk | 5,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,847 (100.0%) of 31,847 articles have been extended.
+31,847 (100.0%) of 31,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### ශ්‍රී ලංකා කාන්තා පිලට කඩුලු 4ක ජයක්
+
+*2024-06-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198089) · `si`
+
+බටහිර ඉන්දීය කොදෙව් කාන්තා පිල සහ ශ්‍රී ලංකා කාන්තා පිල අතර අද (24) පැවැති පළමු T20 තරගයෙන් කඩුලු 4ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකාව සමත් විය.
+
+◼️
+
+[Data](articles/f34bc536.json)
+
+---
+
+### පොසොන් තොරන් නරඹා එද්දි  නිවසම ගිනිබත් වෙලා
+
+*2024-06-24 13:23:40* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-තොරන්-නරඹා-එද්දි--නිවසම-ගිනිබත්-වෙලා/11-410398) · `si`
+
+බේරුවල, පින්හේන ජනපදයේ අසරණ පවුලක් පදිංචිව සිටී නිවසක  ඊයේ (23) රාත්‍රි හටගත් ගින්නකින් එම නිවස මුළුමනින්ම ගිනිගෙන අලුවී තිබේ.
+
+කොස් කඩා පාපැදියෙන් නිවෙස් වලට ගොස් අලෙවි කරන එම්.ඩී කසුන් කුමාර, ඔහුගේ බිරිඳ වන දිල්මි මධුරංගි සහ අවුරුදු හතරහමාරක් වයසැති  ජනිදු රෂ්මික පුතු සමග ජිවත්වන නිවස මෙසේ ගිනිගෙන තිබේ.
+
+අසල්වාසින් සමග බේරුවල හා අවට ප්‍රදේශවල පොසොන් උත්සවය නිමිත්තෙන් ඉදිකොට ඇති තොරණ නරඹා නිවසට පැමිණෙන අතරවාරයේදී නිවස ගිනිගෙන ඇති බව සදහන් වේ.
+
+ගින්නෙන් ඔවුන්ගේ ඇදුම් පැලදුම්, ගෘහ උපකරන සහ පුංචි පුතුගේ පෙර පාසල් නිළ ඇදුම් සහ පොත්පත් මෙන්ම විනෝදයට පදින කුඩා පාපැදිය අලුවී තිබෙන අයුරු දැකගත හැකිවිය.
+
+දිනපතාම බුදුන් වහන්සේට පහනක් පත්තු කිරීම පුරුද්දක් ලෙස සිදුකරන බවත් එයින් ගින්න පැතිරෙන්නට ඇති බවට සැකපලකරන බවත් පැවසේ.
+
+උප්පැන්න සහතිකයේ පටන් සියලු දැ ගින්නට හසුවි අලුවී ඇදිවත පමණක් ඉතිරිව ඇති ඔවුන්ට උපකාරයක් වන්නට කැමති පරිත්‍යාග ශීලින්ගේ අවධානය සදහා කසුන්ගේ  ජංගම දුරකථනය සටහන් කරමි. 076 5788178
+
+◼️
+
+[Data](articles/0a7a9658.json)
+
+---
+
+### Sri Lanka in final steps of completing debt restructuring – CBSL Governor
+
+*2024-06-24 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100063/sri-lanka-in-final-steps-of-completing-debt-restructuring-cbsl-governor) · `en`
+
+The Governor of the Central Bank of Sri Lanka Dr. Nandalal Weerasinghe says that Sri Lanka will record positive annual economic growth in 2024 for the first time since the economic crisis.
+
+Joining Ada Derana’s current affairs program “At HydePark”, the CBSL chief highlighted the need to persist along the narrow positive economic path it trails at the moment.
+
+Furthermore, Dr. Weerasinghe noted that Sri Lanka is in the final steps of completing the debt restructuring programme and has almost achieved the short-term economic sustainability.
+
+He also mentioned that, as part of the long-term plan for the economic revival of the country, Sri Lanka must ensure an economic growth rate between 4% and 5% in the coming years, while preserving the short term gains of the country under the restructuring programme.
+
+◼️
+
+[Data](articles/ef07876a.json)
+
+---
 
 ### Case Maithri has ordered to be heard
 
@@ -99,6 +151,20 @@ The interim injunction was issued when the petition was filed by Mundiku Saracha
 [Data](articles/c232395c.json)
 
 [Extended Data](ext_articles/c232395c.ext.json)
+
+---
+
+### දාහත්හැවිරිදි තරුණියක් අතුරුදහන්
+
+*2024-06-24 12:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දාහත්හැවිරිදි-තරුණියක්-අතුරුදහන්/11-410394) · `si`
+
+කරාඩුගල පොලිස් වසමට අයත් පිටඹුර අලුත්වලව්ව පදිංචි දාහත්හැවිරිදි තරුණියක් ඊයේ (23) වෙනිදා සිට අතුරුදහන්වී ඇතැයි කරාඩුගල පොලීසිය පවසයි.
+
+ඊයේ උදෑසන ඇය සේවයකරන වෙළෙඳසැලෙන් ඇගේ වැටුප් ලබාගැනීමට යන බව පවසමින් ලිපියක් ලියා තබා නිවසෙන් පිටව ගොස් ඇතත් ආපසු පැමිණ නැත. සිද්ධිය පිළිබඳව කරාඩුගල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/531a1f23.json)
 
 ---
 
@@ -2191,85 +2257,5 @@ I believe everyone is eagerly waiting for the souls of the mother, and captivate
 [Data](articles/ec9981c1.json)
 
 [Extended Data](ext_articles/ec9981c1.ext.json)
-
----
-
-### President visits Ceylon Workers Congress
-
-*2024-06-23 18:39:29* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය-ජනපතිට/11-410386) · `si`
-
-President visits Ceylon Workers Congress. Minister Jeewan Thondaman addresses government support for the Ceylon Workers and Estate Commission, focusing on salary increases, housing, and land rights. He highlights the need to complete stalled housing projects and improve plantation infrastructure, emphasizing transparency and accountability.
-
-🟩
-
-Minister Jeewan Thondaman, Minister of Water Supply and Estate Infrastructure has been reported to provide the assistance of the government as the Ceylon Workers and Estate Commission regarding three issues asking for the government.Stated in the plantation.
-
-The Minister made this observation to monitor a function to monitor a housing scheme for the expulgency of Judicial and Prison Hon.
-
-The construction of these estate housing scheme has been staying five years ago, to visit the risk of landslide at least eight years before the landslide risk.
-
-"We urged the government to increase the salaries of the people and providing houses and the right of land. Accordingly, the President has already begun to provide land deeds to increase the needs of the estate people and build houses.
-
-...
-
-[Data](articles/9abc119b.json)
-
-[Extended Data](ext_articles/9abc119b.ext.json)
-
----
-
-### APPUMS SUPPOSH SUPPOSED
-
-*2024-06-23 18:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்பம்-விட்ட-பொலிஸ்-சாஜன்ட்-இடைநீக்கம்/175-339298) · `ta`
-
-A police sergeant at the Eravur station was suspended and arrested on fraud charges, having previously served at the Polonnaruwa Transport Division. The Special Criminal Investigation Department is leading the probe, and he was later released on bail.
-
-🟩
-
-The Eravur police said that a police sauce at the Eravur police station was suspended from work on Friday (21).
-
-In 2021, the Police Sahant was on duty at the Polonnaruwa Police Station at the Transport Division. There, he has been deployed at the Eravur police station after being transferred to the police.
-
-In this context, the Special Criminal Investigation Department is conducting investigations into the fraud. Accordingly, he was arrested on the 18th and produced before the Polonnaruwa court.. He was released on bail according to the court order.
-
-Police said the police department had been suspended from work immediately.
-
-◼️
-
-[Data](articles/ab3de683.json)
-
-[Extended Data](ext_articles/ab3de683.ext.json)
-
----
-
-### Nathasha Edirisooriya: Comedian Or Social Commentator?
-
-*2024-06-23 18:33:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nathasha-edirisooriya-comedian-or-social-commentator/) · `en`
-
-Nathasha Edirisooriya, a stand-up comedian known for her humorous performances, recently found herself at the center of a national controversy in Sri Lanka. Her performance on the show ‘Modabhimanaya‘ led to her arrest following several complaints by groups consisting of Buddhist monks and ‘Sinhala Buddhist patriots’ who accused her of insulting Lord Buddha. This incident sparked a significant public discourse about freedom of speech, social norms, and the role of comedy in addressing societal issues.
-
-Nathasha’s arrest drew widespread attention and criticism, highlighting the sensitive nature of religious nuances in Sri Lanka. The complaints against her were rooted in the belief that her jokes about Lord Buddha were disrespectful and harmful to religious sentiments. Consequently, she was remanded in custody for several weeks, a period during which her arrest and the subsequent legal proceedings became a focal point of national debate.
-
-...
-
-[Data](articles/4a4139dc.json)
-
-[Extended Data](ext_articles/4a4139dc.ext.json)
-
----
-
-### The Tamil Doctor who Gave Medical Aid to Injured Tigers.
-
-*2024-06-23 18:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
-
-“Captain Blood:His Odyssey”was an Adventure novel authored  by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
-
-Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
-
-...
-
-[Data](articles/0c6c87b9.json)
-
-[Extended Data](ext_articles/0c6c87b9.ext.json)
 
 ---

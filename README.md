@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 05:04:37**
+As of **2024-06-25 05:19:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,979 (100.0%) of 31,980 articles have been extended.
+31,980 (100.0%) of 31,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -898,17 +898,25 @@ President Mahinda Rajapaksa said that he would later determine whether Ranil Wic
 
 ---
 
-### කියන්න යන සුබ ආරංචිය මරික්කාර් කලින්ම කියයි
+### Marikkar foretold to say
 
 *2024-06-24 20:00:01* · [`adalk`](https://www.ada.lk/breaking_news/කියන්න-යන-සුබ-ආරංචිය-මරික්කාර්-කලින්ම-කියයි/11-410415) · `si`
 
-'ආරංචිය සුබයි' යනුවෙන් ප්‍රචාර යවමින් පසුගිය වසරේ ප්‍රකාශ කළ ආකාරයෙන් නැවතත් රට බංකොලොත් භාවයෙන් මුදා ගත් බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජාතිය අමතා ප්‍රකාශයක් කිරීමට සූදානම් වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+President Ranil Wickremesinghe announced measures to revive Sri Lanka's economy, addressing concerns over taxes and living costs. He mentioned a mysterious upcoming event, possibly related to the government's efforts to avoid bankruptcy, as seen in a recent poster campaign across Colombo. Critics argue that despite these efforts, the average citizen faces increased burdens, questioning the effectiveness of the government's actions.
 
-පසුගිය වසරේ රට බංකොලොත් භාවයෙන් මුදාගත් බව පවසා බදු වැඩි කරමින් ජනතාව පීඩාවට පත් කළ බවත්, ඒ අනුව මෙවරද මන්දිර බද්ද ඇතුළු තවත් බදු ගසමින් ජනතාව පීඩාවට පත් කරනු ඇති බවට බියක් තිබෙන බවත් අද (24දා) කොළඹ විපක්ෂනායක කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+🟩
+
+President Ranil Wickremesinghe said that he was preparing to resume the nation that the country was resumed again in the way the country was rescued again.
+
+Speaking at a media briefing at the Opposition Lease and another tax in the Colombo Opposition, he said that the people were affected by the Colombo Opposition and other taxes.
+
+"We hear that something special is going to happen if something special will be. Today we saw a latest poster campaign throughout Colombo, the latest poster. When we find out what this good news is, we hear about the Triumphuric monks and call the nation and make a special statement in the bankruptcy.. The president asked the nation on March 21st last year, said the country was rescued from bankruptcy.
 
 ...
 
 [Data](articles/1ef4a6f9.json)
+
+[Extended Data](ext_articles/1ef4a6f9.ext.json)
 
 ---
 

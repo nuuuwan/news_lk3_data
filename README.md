@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 23:04:34**
+As of **2024-06-24 23:19:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,939 (100.0%) of 31,942 articles have been extended.
+31,942 (100.0%) of 31,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,27 +42,35 @@ The Strategic Steering Committee meeting and summary workshop of the Biogas, Bio
 
 [Data](articles/42563f20.json)
 
+[Extended Data](ext_articles/42563f20.ext.json)
+
 ---
 
-### හොල්මන් මන්දිරයේ පවුල් ආරවුලක්
+### A family dispute at the haunk mansion
 
 *2024-06-24 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198114) · `si`
 
-සිය අනියම් පෙම්වතා සමග නවගමුව ප්‍රදේශයේ හොල්මන් මන්දිරයක් නැරඹීමට ගොස් සිටියදී එහි මිනීපෙට්ටියේ මෘතදේහය ලෙස සිටි විවාහක සැමියා ඇයව හඳුනාගැනීමෙන් එම ස්ථානයේ ගැටුමක් ඇතිවී තිබේ.
+During a family dispute at the Haunk Mansion in Navagamuwa, a confrontation involving a married couple escalated, leading to the arrest of 12 individuals. The Kaduwela Magistrate later released them on bail after revealing the couple had been living apart for a significant period without legal separation. Six people from both sides were hospitalized.
 
-එම අවස්ථාවේදී සැමියා විසින් අදාළ 21 හැවිරිදි බිරිඳට පහරදීමට තැත්කර ඇති අරත එහිදී ඇතිවූ ගැටුමේදී පුද්ගලයන් 12 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඔවුන් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත මුදාහරින ලෙස කඩුවෙල මහෙස්ත්‍රාත්වරිය අද (24) නියෝග කර තිබුණි.
+While visiting a holiday in Navagamuwa, along with its ill loan, had a confrontation of a married husband of the grave.
 
-මෙලෙස ඇප මත මුදාහරින ලද්දේ නවගමුව ප්‍රදේශයේ පදිංචිකරුවන් වන අවුරුදු 19ත් 24ත් අතර වයසේ පසුවූ පිරිසකි.
+Police have arrested 12 persons in the confrontation took place at the confrontation took place in the confrontation took place in the incident.
 
-අදාළ විවාහක යුවළ කලක සිට වෙන්ව ජීවත්වී ඇති අතර නීත්‍යානුකූලව වෙන්වී නොමැති බවත් හෙළිවී තිබේ.
+Kaduwela Magistrate had ordered the release of Rs. 100,000 each on personal bail of Rs.
 
-එමෙන්ම පහර දීමට සම්බන්ධ දෙපාර්ශ්වයේම පුද්ගලයන් හය දෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබා පිටව ගොස් ඇති බවද වාර්තා වෙයි.
+The suspects were released on bail, aged 19 and 24 years.
+
+It is revealed that the married couples have lived separately from a long time and have not been legally separated.
+
+Six persons in both sides of both sides have been hospitalized have been treated in the hospital.
 
 ◼️
 
 [Data](articles/eea4dff9.json)
+
+[Extended Data](ext_articles/eea4dff9.ext.json)
 
 ---
 
@@ -374,15 +382,21 @@ Furthermore, Fernando revealed a number of government initiatives intended to at
 
 ---
 
-### විශ්වවිද්‍යාල ආරක්ෂාවට පොලීසිය කැඳවයි
+### Police call for university security
 
 *2024-06-24 18:55:22* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාල-ආරක්ෂාවට-පොලීසිය-කැඳවයි/11-410408) · `si`
 
-රාජ්‍ය විශ්වවිද්‍යාල කාර්යමණ්ඩලවල හා සිසුන්ගේ ආරක්ෂාව සඳහා විශ්වවිද්‍යාල අවට ප්‍රදේශවලට පොලිස් ආරක්ෂාව යෙදවීමට පියවර ගෙන ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has deployed police to protect university staff and students, ensuring safety on campus.
+
+🟩
+
+The Ministry of Education has announced that steps have been taken to deploy police protection to the areas of state university staff and students.
 
 ◼️
 
 [Data](articles/fe1ec842.json)
+
+[Extended Data](ext_articles/fe1ec842.ext.json)
 
 ---
 

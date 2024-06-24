@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 07:25:34**
+As of **2024-06-24 07:47:48**
 
 ## Newspaper Stats
 
-*Scraped **31,787** Articles*
+*Scraped **31,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,77 @@ adaderanalk | 3,608
 tamilmirrorlk | 3,736
 dailymirrorlk | 4,733
 virakesarilk | 4,924
-adaderanasinhalalk | 5,201
+adaderanasinhalalk | 5,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,785 (100.0%) of 31,787 articles have been extended.
+31,787 (100.0%) of 31,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### අද කාලගුණය
+### යුද්ධයට මැදිවූ අපේ අය බේරාගැනීමට නියෝජිත පිරිසක් රුසියාවට
+
+*2024-06-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198078) · `si`
+
+රුසියානු – යුක්‍රේන යුද්ධයට මැදි වී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් සොයා බැලීමට විශේෂිත දූත පිරිසක් අද (24) දිනයේ දී රුසියාව බලා පිටව යාමට නියමිත බව පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතා පවසයි.
+
+ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයා, සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන්ගෙන් සමන්විත 6 දෙනෙකුගෙන් යුත් දූත පිරිසක් මෙලෙස පිටත්වීමට නියමිත ව බව මන්ත්‍රීවරයා පැවසුවේය.
+
+මෙම ශ්‍රී ලාංකික දුත පිරිස සහ රුසියානු රජයේ නියෝජිතයින් අතර නිල හමුව අනිද්දා (26) දිනයේ දී මොස්කව් නුවරදී පැවැත්වෙනු ඇති.
+
+එදින උදෑසන රුසියානු නියෝජ්‍ය ආරක්ෂක අමාත්‍යවරයා සමගත් සවස්වරුවේ රුසියාවේ නියෝජ්‍ය විදේශ අමාත්‍යවරයා සමගත් මෙම සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+එහිදී රාජ්‍ය තාන්ත්‍රක සාකච්ඡා වට කිහිපයක් ම පැවැත්වීමට නියමිත බව ගාමිණී වලේබොඩ මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/027ce260.json)
+
+---
+
+### පාසල් අනධ්‍යයන සේවකයින් ලෙඩවෙයි
+
+*2024-06-24 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198077) · `si`
+
+දිවයින පුරා අධ්‍යාපන අනධ්‍යයන සේවකයින් අද (24) සහ හෙට (25)  දින අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව අධ්‍යාපන අනධ්‍යයන සේවක සංගමය පවසයි.
+
+ඒ අනුව මහනුවර, උතුරු මැද සහ වයඹ යන ප්‍රදේශ තුළ අද දින එම වෘත්තීය ක්‍රියාමාර්ගය ක්‍රියාත්මක වේ.
+
+අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස සහ තවත් ඉල්ලීම් කිහිපයක් මුල් කරගෙන එම වෘත්තීය සමිති ක්‍රියාමාර්ගයේ නිරත වන බව එම සංගමයේ ප්‍රධාන ලේකම් අජිත් කේ තිලකරත්න මහතා පැවසුවේය.
+
+මේ අතර විදුහල්පති සේවා සංගමයේ ජාතික සංවිධායක සිසිර රාජපක්ෂ මහතා පැවසුවේ එළැඹෙන 26 වනදා දීපව්‍යාප්ත වැඩ වර්ජනයක නිරත වීමට තීරණය කර ඇති බවයි.
+
+කෙසේවෙතත් පොසොන් නිවාඩුවෙන් අනතුරුව සුපුරුදු පරිදි අද දිනයේ සිට රජයේ පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනවක් නිකුත් කරමින් ඊයේ පැවසීය.
+
+◼️
+
+[Data](articles/4c30934d.json)
+
+---
+
+### Weather today
 
 *2024-06-24 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198075) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි‍.
+Today, expect showers in Western, Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle, Matara districts, with strong showers possible around 5pm. Wind warnings issued for Central Hills' western slopes, Trincomalee, Hambantota, Moneragala districts, with wind speeds of 40-50 km/h.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ක පමණ තරමක් තද වැසි ඇතිවිය හැක.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකිබව දැනුම් දී තිබේ.
+Showers will occur at times in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+In some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Strong showers can occur around 50.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50) have been informed of strong winds.
 
 ◼️
 
 [Data](articles/2cd34734.json)
+
+[Extended Data](ext_articles/2cd34734.ext.json)
 
 ---
 
@@ -340,15 +386,21 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 
 ---
 
-### மத்திய வங்கிக்கு துணை ஆளுநர்கள் நியமனம்
+### Appointment of Deputy Governors to Central Bank
 
 *2024-06-24 01:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கிக்கு-துணை-ஆளுநர்கள்-நியமனம்/175-339300) · `ta`
 
-இதன்படி ஏ.ஏ.எம். தாசிம் மற்றும் ஜே.பி.ஆர். கருணாரத்ன ஆகியோர் துணை ஆளுநர்களாக நியமிக்கப்பட்டுள்ளனர். (a)
+AAM. Tasim and JPR. Karunaratne have been named Deputy Governors of the Central Bank.
+
+🟩
+
+Accordingly AAM. Tasim and JPR. Karunaratne has been appointed as Deputy Governors. (A)
 
 ◼️
 
 [Data](articles/382f98e1.json)
+
+[Extended Data](ext_articles/382f98e1.ext.json)
 
 ---
 
@@ -2257,55 +2309,5 @@ Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort re
 [Data](articles/612438d9.json)
 
 [Extended Data](ext_articles/612438d9.ext.json)
-
----
-
-### Dannated dance dance dance threats banned
-
-*2024-06-23 11:26:54* · [`adalk`](https://www.ada.lk/breaking_news/පන්නිපිටියේදි-යකා-නැටූ-හිනිඳුම-සැරයන්ගේ-වැඩ-තහනම්/11-410374) · `si`
-
-Hiniduma Police Sergeant's duties have been transferred to Maharagama Police due to threats. A suspect was arrested and sent to Government Analyst offices for investigation. The suspect will remain in custody until the next court date. The Galle District Superintendent has been suspended over the incident.
-
-🟩
-
-Police Headquarters says that the duty of the Hiniduma Police Sergeant has banned the duties of the Maharagama Police, Maharagama Police, Maharagama.
-
-According to a Member of the Police Emergency Call Center, a group from the Police Emergency Call Center, a group from the Police Emergency Call Center, had gone to the police and to arrest the suspect.Says
-
-Police investigations revealed that the suspect was taken to the police and exported the work to the Government Analyst offices and obtaining the duties to the Government Analyst Offices.There was
-
-The suspect was produced before the Nugegoda Magistrate's Court and remanded until the 3rd of next month.
-
-The Galle District Superintendent of Galle District has been suspended due to the suspect's misconduct
-
-◼️
-
-[Data](articles/b587e01e.json)
-
-[Extended Data](ext_articles/b587e01e.ext.json)
-
----
-
-### The Israeli Army's brutal act reveals
-
-*2024-06-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198053) · `si`
-
-The Israeli military will probe an incident where a Palestinian was seriously injured during an operation in the West Bank. The victim, suspected of wrongdoing, was hit by a vehicle. This incident, captured on video and shared online, has sparked controversy.
-
-🟩
-
-The Israeli defense authorities say that the Israeli military has decided to investigate an inquiry into a brutal act during a military operation conducted during a military operation conducted in the Palestinian West Bank.
-
-It was reported that a Palestinian was injured in a Palestinian infected Palestinian and took place in the bonnator of his jeep.
-
-The video shown that is circulated on social media.
-
-Israeli Army authorities said that the person who was injured was a suspect, but what he had done was not approved.
-
-◼️
-
-[Data](articles/2847d2a4.json)
-
-[Extended Data](ext_articles/2847d2a4.ext.json)
 
 ---

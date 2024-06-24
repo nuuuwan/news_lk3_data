@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 09:53:58**
+As of **2024-06-24 10:05:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,798 (100.0%) of 31,804 articles have been extended.
+31,804 (100.0%) of 31,804 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,53 +50,73 @@ However, despite these developments, the Ministry of Education had issued a stat
 
 [Data](articles/70483491.json)
 
+[Extended Data](ext_articles/70483491.ext.json)
+
 ---
 
-### ස්කොට්ලන්තය විසිවෙයි
+### Scotland twenty
 
 *2024-06-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198081) · `si`
 
-2024 යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් 16 දෙනා අතරට පිවිසීමට ස්කොට්ලන්තය අසමත් විය.
+Scotland missed out on the Euro 2020 tournament after losing to Hungary, despite a close match where Kevin Sobooth scored for Hungary.
 
-ඒ ඔවුන් හංගේරියාව සමග පැවති තරගය 1ට බිංදුවක් ලෙස පරාජය වීම හේතුවෙනි.
+🟩
 
-ස්කොට්ලන්තය සහ හංගේරියාව අතර පැවති තරගය ඉතා උණුසුම් මුහුණුවරක් ගත් අතර හංගේරියාව වෙනුවෙන් තරගයේ 100වැනි මිනිත්තුවේදී කෙවින් සොබෝත් ජයග්‍රාහී ගෝලය වාර්තා කළේය.
+Scotland failed to enter the 16th of the European Cup Football Tournament.
+
+They were due to the defeat of 1 match with Hungary.
+
+The match between Scotland and Hungary, the match was a warm flavor, and Kevin Sobooth recorded the triumph of the match for Hungary.
 
 ◼️
 
 [Data](articles/c656ed78.json)
 
+[Extended Data](ext_articles/c656ed78.ext.json)
+
 ---
 
-### சாதாரண தர பரீட்சை பெறுபேறுகள் இந்த வாரம்?
+### GCE Ordinary Level Examination This week?
 
 *2024-06-24 09:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதாரண-தர-பரீட்சை-பெறுபேறுகள்-இந்த-வாரம்/175-339305) · `ta`
 
-நடைபெற்று முடிந்த 2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையின் பெறுபேறுகள் இன்னும் 10 நாட்களில் வெளியாகவுள்ளன.
+The GCE Ordinary Level Examination results for 2023, initially planned for release this week, will now be out in 10 days due to unforeseen circumstances. The exams took place between May 6th and 15th.
 
-கடந்த மே மாதம் 6ஆம் திகதி முதல் 15ஆம் திகதி வரையான காலப்பகுதியில் இந்தப் பரீட்சைகள் இடம்பெற்றிருந்தன.
+🟩
 
-அதன் முடிவுகளை இந்த வாரம் வெளியிட உத்தேசித்திருப்பதாகவும், அது சாத்தியப்படாவிட்டால், 10 நாட்களுக்குள் வெளியிட முடியும் எனவும் அவர் குறிப்பிட்டுள்ளார். R
+The results of the GCE Ordinary Level Examination for 2023 will be released in 10 days.
+
+The exams were held from 6th to 15th May.
+
+He stated that its results were intended to be released this week and that if it was not possible, it could be released within 10 days. Remble
 
 ◼️
 
 [Data](articles/671c2526.json)
 
+[Extended Data](ext_articles/671c2526.ext.json)
+
 ---
 
-### கிளிநொச்சியில் காணப்பட்ட கருச்சிதைவுகள்
+### Miscarriage found in Kilinochchi
 
 *2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-காணப்பட்ட-கருச்சிதைவுகள்/72-339304) · `ta`
 
-கிளிநொச்சியில் உள்ள தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் நேற்று இரவு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A miscarriage occurred last night at a private garment factory in Kilinochchi, but journalists aren't allowed to report from the site.
 
-கிளிநொச்சி அறிவியல் நகர் பகுதியில் அமைந்துள்ள ஆடைத்தொழிற்சாலை ஒன்றில் இவ்வாறு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதையடுத்து பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+🟩
 
-தனியார் நிறுவன வளாகத்தில் குறித்த செய்தியை காட்சிப்படுத்த ஊடகவியலாளர்களுக்கு அனுமதி வழங்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது. R
+Police say that miscarriage was identified last night at a private garment factory in Kilinochchi.
+
+The police have been informed that the miscarriage was identified at a garment factory located in the Kilinochchi science city area.
+
+It is also worth noting that journalists have not been allowed to display the news on the private company premises. Remble
 
 ◼️
 
 [Data](articles/bccd7f65.json)
+
+[Extended Data](ext_articles/bccd7f65.ext.json)
 
 ---
 
@@ -162,27 +182,33 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 ---
 
-### පන්සල් ගොස් නිවසට පැමිණි කාන්තාවට අත්වූ ඉරණම
+### The fate of the woman who went to the house
 
 *2024-06-24 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198079) · `si`
 
-ගෝනපිටුවල සාමගම, අලුත්වල ප්‍රදේශයේ නිවසක් තුළ කාන්තාවක්ව ඝාතනය කර තිබේ.
+An elderly, unmarried woman was found murdered in her home in Aluthwala, Samalgama, Gonasegama. She lived with her brother's son. The crime occurred on Poson Poya Day when she was attacked with a stick. Police suspect her nephew.
 
-මෙලෙස ඝාතනයට කර ඇත්තේ එම නිවසේ පදිංචිව සිටි 76 හැවිරිදි කාන්තාවක් බව පොලීසිය පවසයි.
+🟩
 
-මෙම කාන්තාව අවිවාහක තැනැත්තියක් වන අතර ඇය සිය සහෝදරයාගේ පුතා සමග වසර කිහිපයක් මෙම නිවසේ පදිංචිව සිට ඇත.
+A woman has been murdered in a house in Aluthwala, Samalgama, Gonasegama.
 
-මෙම කාන්තාව පසුගිය පොසොන් පොහොය දිනයේ සිල් සමාදන් වී නිවසට පැමිණිමෙන් පසු ඇයට පොල්ලකින් පහර දී ඝාතනය කර ඇති බවට අනාවරණ වී තිබේ.
+Police say that 76-year-old woman was residing in the house, police said.
 
-මෙම කාන්තාව ඝාතනය වූ ස්ථානයේ තිබී ඇයට පහර දුන් බවට සැක කෙරෙන පොල්ලක්ද පොලිස් විමර්ශන නිලධාරීන් විසින් සොයා‌ගෙන ඇත.
+The woman is unmarried and she has been living with his brother's son several years.
 
-ඒ අනුව පොලීසිය පවසන්නේ පොසොන් පොහොය දිනයේ (21) සවස් කාලයත් ඊයේ දිනයේ (23) උදෑසන කාලයත් අතරතුර මෙම ඝාතනය සිදුකර ඇති බවය.
+It has been revealed that the woman has been attacked with a stick after returning home.
 
-මෙම කාන්තාවගේ සහෝදරයාගේ පුත්‍රයා විසින් මෙම ඝාතනය සිදු කර ඇති බවට පොලීසිය සැක කරයි.
+Police investigates a stick suspected to attack her woman in the murder.
+
+Accordingly, the police have committed the murder in the Poson Poya Day (21) in the evening.
+
+Police suspect that the woman's son's son had committed the murder.
 
 ◼️
 
 [Data](articles/11b69e8e.json)
+
+[Extended Data](ext_articles/11b69e8e.ext.json)
 
 ---
 
@@ -1602,17 +1628,27 @@ The President also joined the devotees participating in this special prayer.
 
 ---
 
-### පිලිකා ඖෂධය තිබියදී එයම සාමාන්‍ය මිලට වඩා සියයට 254 මිලකට මිලදි ගෙන
+### Despite the pure drug, it is priced at 254 percent more than the average price
 
 *2024-06-23 17:00:21* · [`adalk`](https://www.ada.lk/breaking_news/පිලිකා-ඖෂධය-තිබියදී-එයම-සාමාන්‍ය-මිලට-වඩා-සියයට-254-මිලකට-මිලදි-ගෙන/11-410381) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පාලන කාලයේ  මාස 10ක්  සදහා ප්‍රමානවත් අයුරින්  පිළිකා රෝගීන්ට ලබාදෙන රිටොක්සි මැප් නමැති (Rituximab inj. 500mg) ඖෂධය ගබඩාවල තිබියදි  බාල පිලික ඖෂධයක්  සාමාන්‍ය මිලට වඩා සියයට 254ක ඉහළ මිලකට මිලදි ගැනිම හේතුවෙන් රජයට රුපියල්  හයකෝටි පනස්තුන් ලක්ෂ පනස්දහස් තුන්සිය හතළිස් දෙකක (65,350,342 ) පාඩුවක් සිදුකොට ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+RituxiAb inj, despite being a pure drug, was found to be priced 254% above the average cost of 500mg, leading to significant losses for the government. An audit highlighted issues with 2250 vials labeled as Human Immunoglobulin, purchased under emergency conditions for $152 each, without a clear need for such procurement. The audit also pointed out lapses in ensuring the quality, safety, and authenticity of imported drugs, with the logistics company providing a certificate of exemption and naming an Indian producer. However, the audit report lacked technical details or a specialist in charge of the Aenic Committee.
 
-මෙකී එක් එන්නතක් හදිසි මිලදී ගැනීම යටතේ ඇමරිකානු ඩොලර් 152ක් වැනි ඉහළ මිලක් යටතේ  එන්නත් කුප්පි 2250ක් මිලදිගෙන ඇත්තේ ප්‍රශ්න සහගත හියුමන් ඉමියුනොග්ලොබියුලින් (Human Immunoglobulin) නමැති ඖෂධ වංචාවට සම්බන්ද  සැපයුම්කාර සමාගමෙන් බවද  විගණනය මගින් අනාවරණය කොට තිබුණි.  එමෙන්ම මෙකී ඖෂධය හදිසි මිලදී ගැනීම යටතේ  සම්පාදනය කරගැනිමේ අවශ්‍යතාවයක් නොතිබු බවද විගණන වාර්තාවේ සදහන් වේ.
+🟩
 
-...
+RituxiAb inj, which provides for more than 10 months during the reign of former Health Minister Keheliya Rambukwella. The National Audit office says that due to the prices of 254% higher than the average price of 500mg, the government has taken a loss of Rs.
+
+The audit had revealed that 2250 vials from the vaccine vials as questionable by Human Imunoglobulin, which is US $ 152 under the Emergency Purchase of the Emergency.The Audit Report also states that this drug has no need to be compiled under the emergency purchase.
+
+Audit audit has revealed that the company has given a portion of the company to import quality, security and confirmed drugs. The logistics company had submitted a certificate of exemption and the name of India's producer in India.
+
+Audit report contains only no technical properties or specialist in charge of the Agenic Committee.Happened.
+
+◼️
 
 [Data](articles/2eeb5805.json)
+
+[Extended Data](ext_articles/2eeb5805.ext.json)
 
 ---
 

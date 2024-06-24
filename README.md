@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 16:19:28**
+As of **2024-06-24 16:35:52**
 
 ## Newspaper Stats
 
-*Scraped **31,890** Articles*
+*Scraped **31,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,799
-adaderanalk | 3,623
-tamilmirrorlk | 3,757
+adaderanalk | 3,624
+tamilmirrorlk | 3,758
 dailymirrorlk | 4,733
-virakesarilk | 4,940
-adaderanasinhalalk | 5,220
+virakesarilk | 4,943
+adaderanasinhalalk | 5,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,890 (100.0%) of 31,890 articles have been extended.
+31,890 (100.0%) of 31,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Eight arrested over gang rape of 16-year-old girl remanded
+
+*2024-06-24 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100069/eight-arrested-over-gang-rape-of-16-year-old-girl-remanded) · `en`
+
+Eight youths who were arrested in connection with the alleged gang rape of a 16-year-old girl in the Jalthara area of Hanwella, have been remanded until June 28.
+
+The suspects were produced before the Homagama Acting Magistrate Padmasiri Jayawardena today (24).
+
+Hanwella Police have filed charges against the suspects, including rape, forcible detention, abduction, and unlawful assembly.
+
+◼️
+
+[Data](articles/727cc3bb.json)
+
+---
+
+### බැකෝ යන්ත්‍රයක් රියදුරු සමග පෙරළෙයි
+
+*2024-06-24 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198097) · `si`
+
+බැකෝ යන්ත්‍රයක් පෙරළීමෙන් සිදුවූ අනතුරකින් බැකෝ යන්ත්‍රයේ රියදුරු බරපතළ තුවාල ලබා රෝහල්ගත කර තිබේ.
+
+ඊයේ (23) පස්වරුවේ බලංගොඩ මැද්දේ කන්ද ප්‍රදේශයේදී එම අනතුර සිදුවී ඇත.
+
+අදාළ බැකෝ යන්ත්‍රය ලොරියකට පටවා පිටත් වූ අවස්ථාවේ කන්දක් සහිත මාර්ගයක ලොරිය පසූ පස්සට ධාවනය වී තිබුණි.
+
+එහිදී ලොරි රථයට පටවා තිබූ බැකෝ යන්ත්‍රය රියදුරු සමග ලිස්සා ගොස් පෙරළී එම අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/53943e89.json)
+
+---
+
+### வடக்கு, கிழக்கிலுள்ள இந்து ஆலயங்களில் சைவமக்கள் சுதந்திரமாக வழிபாடு செய்வதை உறுதிப்படுத்துங்கள் - அமைச்சர் விதுரவிடம் நல்லை ஆதீனம் கேரிக்கை
+
+*2024-06-24 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186825) · `ta`
+
+நல்லை ஆதீனத்துக்கு வருகை தந்த புத்தசாசன மத மற்றும் கலாசார விவகாரங்களுக்கான அமைச்சர் விதுர விக்கிரமநாயக்காவிடம் சைவமக்கள் சுதந்திரமாக குருந்தூர்மலை மற்றும் வெடுக்குநாறி சிவன் ஆலயங்களில் வழிபாடு செய்ய ஏற்பாடு செய்யவேண்டும் என வேண்டுதல் விடப்பட்டதுடன், திருக்கோணேமலை திருக்கோணேஸ்வரம் ஆலயம் அருகே பாதை இருமருங்கிலும் அமைக்கப்பட்டுள்ள பெட்டிக்கடைகளை அப்புறப்படுத்தி புனித தலத்தின் மேன்மையைப் பேண வழிசெய்ய வேண்டும் என்று எடுத்துரைக்கப்பட்டது.
+
+காங்கேசன்துறையில் தல்செவன ஹோட்டல் அமைந்துள்ள பகுதியானது சைவமக்களின் பாவனையில் உள்ள சத்திரம் இருந்த நிலம். அது இதுவரை ஒப்படைக்கப்படவில்லை. அதனை உடன் வழங்க ஏற்பாடு செய்யுமாறும் கோரிக்கை விடுக்கப்பட்டது.
+
+இவற்றுக்கு பதில் கூறிய அமைச்சர் குருந்தூர்மலை வெடுக்கு நாறி பகுதியில் சுதந்திரமாக வழிபாடு செய்யலாம் என்றும் அப்பகுதி தொல்லியல் திணைகளத்தின் கட்டுப்பாட்டிலுள்ளது என்றும் திருக்கோணேஸ்வர பெட்டிக்கடை அகற்றுவது தொடர்பாக மாற்று ஏற்பாடு விரைவில் செய்யப்படும் என தெரிவித்தார்.
+
+...
+
+[Data](articles/ef52d8a6.json)
+
+---
+
+### පාසල් කටයුතු ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-06-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198096) · `si`
+
+පාසල්වල සිටින අනධ්‍යයන කාර්යමණ්ඩලය අද (24) සහ හෙට (25) දෙදින අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වී තිබේ.
+
+ඒ අනුව පාසල් පවත්වාගෙන යෑම සම්බන්ධයෙන් විදුහල්පතිවරුන් දැනුවත් කරමින් අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක් නිකුත් කර ඇත.
+
+එහි දැක්වෙන්නේ පාසල්වල අධ්‍යාපන කටයුතුවලට බාධාවක් නොවීම සඳහා පාසල් ප්‍රජාව සමග එක්ව, පාසල්වල කටයුතු කළමනාකරණය කරගැනීමට විධිමත් වැඩපිළිවෙලක් සකස් කර ගන්නා ලෙසය.
+
+සියලුම පළාත් අධ්‍යාපන ලේකම්වරුන් සහ සියලුම පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත එම දැනුම්දීම සිදුකර ඇත.
+
+මේ අතර දිවයින පුරා පිහිටි පාසල්, විද්‍යාපීඨ, අධ්‍යාපන කාර්ය මණ්ඩලය, ශිෂ්‍ය ප්‍රජාව සහ භෞතික සම්පත් ආරක්ෂාව සුදුසු ආරක්ෂාවක් ලබාදෙන ලෙස ආරක්ෂක අමාත්‍යාංශයෙන් ඉල්ලීමක් කර තිබේ.
+
+අධ්‍යාපන අමාත්‍යාංශයේ ලේකම්වරයා විසින් ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගෙන් ඒ බව ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/4e3a6c8f.json)
+
+---
+
+### கல்முனை  பகுதியில்  பதற்ற நிலை ; போக்குவரத்து பாதிப்பு; 7 மணித்தியாலங்களாக போராட்டகாரர் வசமான நகரம்
+
+*2024-06-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186845) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலக விடயங்களுக்கு உடனடி தீர்வினை பெற்றுத்தருமாறு கோரி இன்று திங்கட்கிழமை (24) ஆர்ப்பாட்டமொன்று முன்னெடுக்கப்பட்டுள்ளமையினால் மட்டக்களப்பு - கல்முனை பிரதான வீதியின் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளதுடன் பதற்ற நிலை தொடர்ந்தது.
+
+அத்துடன், பிரதேச செயலகத்தின் நுழைவாயிலையும் பூட்டிய நிலையில்  அதிகாரிகளை உள்நுழைய விடாமல் பொதுமக்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+கல்முனை வடக்கு பிரதேச செயலகத்துக்கு எதிராக இடம்பெறும் நிர்வாக அடக்குமுறைகளை கண்டித்தும்  அதற்கான உரிய தீர்வு கோரியும்  தொடர்ச்சியாக 92 நாட்களாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில்  இன்று பாரிய ஆர்ப்பாட்டம் இடம்பெறுகின்றது.
+
+இந்த ஆர்ப்பாட்டம் காரணமாக மட்டக்களப்பு - கல்முனை வீதி தடைப்பட்டுள்ளதால்  வாகனங்களை மாற்று வீதிகளில் அனுப்புவதற்கு பொலிஸார்  நடவடிக்கை எடுத்திருந்தனர்.
+
+...
+
+[Data](articles/bf2793cd.json)
+
+---
 
 ### There will be the case after Wijayadasa
 
@@ -55,6 +145,20 @@ The International Representative of the Sri Lanka Freedom Party (SLFP) Meeting w
 [Data](articles/006d33c4.json)
 
 [Extended Data](ext_articles/006d33c4.ext.json)
+
+---
+
+### தரம் 8-12 வரை ’’Cambridge Climate Quest’’
+
+*2024-06-24 15:41:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-12-வரை-Cambridge-Climate-Quest/175-339336) · `ta`
+
+இலங்கையின் கல்வித் துறையை மேலும் மேம்படுத்தும் நோக்கில், 8ஆம் தரம் முதல் 12ஆம் தரம் வரை கல்வி கற்கும் பாடசாலை மாணவர்களுக்கு 3 மொழிகளிலும் "Cambridge Climate Quest" சுயக் கற்கை நெறியை    கற்பதற்கான வாய்ப்பு இலவசமாக வழங்கப்பட உள்ளது.
+
+மேலும், பிராந்திய உயர்கல்வி தேவையைப் பூர்த்தி செய்வதற்காக,  அவுஸ்திரேலியாவின் பிலின்டர்ஸ் பல்கலைக்கழகம் (Flinders University)   இலங்கையில் தனது பல்கலைக்கழக வளாகத்தை ஆரம்பித்து பல்வேறு துறைகளில் இளமாணி, முதுமாணி பட்டப்படிப்பு மற்றும் உயர்கல்விப் பிரவேசத்திற்கான வாய்ப்புகளை வழங்க உள்ளது என்று ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2c8550ec.json)
 
 ---
 
@@ -139,6 +243,22 @@ The identity of the deceased is yet to be ascertained while police revealed that
 [Data](articles/2a165093.json)
 
 [Extended Data](ext_articles/2a165093.ext.json)
+
+---
+
+### 2024இல் இதுவரையான காலப்பகுதியில் 27 இந்திய படகுகள் கைப்பற்றல் ; 204 மீனவர்கள் கைது
+
+*2024-06-24 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186841) · `ta`
+
+2024 ஆம் ஆண்டு இதுவரையான காலப்பகுதியில் 27 இந்திய இழுவை படகுகள் கைப்பற்றப்பட்டுள்ளதுடன், 204 மீனவர்கள்  இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கடந்த  22 மற்றும் 23 ஆம் திகதி அதிகாலையில் யாழ்ப்பாணம் நெடுந்தீவில் கடற்படையினரால் சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+இதன்போது, நெடுந்தீவு கடற்பரப்பில் அத்துமீறி மீன்பிடித்துக் கொண்டிருந்த மூன்று படகுகளையும் அதிலிருந்த 18 இந்திய மீனவர்களையும் கடற்படையினர் கைது செய்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/93912970.json)
 
 ---
 
@@ -2213,121 +2333,5 @@ Those who attacked the Christian church on the Jews in the Jews, which have been
 [Data](articles/141796b7.json)
 
 [Extended Data](ext_articles/141796b7.ext.json)
-
----
-
-### Sampath Bank’s ‘Wewata Jeewayak’ empowers farming community in Puttalam
-
-*2024-06-24 04:21:00* · [`islandlk`](http://island.lk/sampath-banks-wewata-jeewayak-empowers-farming-community-in-puttalam/) · `en`
-
-Sampath Bank set forth on a mission to support the nation’s farming community through the ‘Wewata Jeewayak’ Programme. The programme aims to strengthen local harvesting by reviving traditional irrigation systems that can be restored to increase agriculture for farmers. Through the ‘Wewata Jeewayak’ programme, the Kohombagas Tank at the Mahakumbukkadawala Divisional Secretariat of Puttalam District has been revived and handed over to the local farmers which brought renewed hope and opportunities to them.
-
-...
-
-[Data](articles/0fc84b94.json)
-
-[Extended Data](ext_articles/0fc84b94.ext.json)
-
----
-
-### DigiEcon 2024 Investment Summit to have speakers from diverse industries
-
-*2024-06-24 04:21:00* · [`islandlk`](http://island.lk/digiecon-2024-investment-summit-to-have-speakers-from-diverse-industries/) · `en`
-
-The DigiEcon 2024 Investment Summit, Sri Lanka’s premier technology and investment event organized by the Ministry of Technology and powered by Mastercard, is set to host a remarkable lineup of speakers this year.The highly anticipated summit, scheduled for June 25, 2024, promises to unlock invaluable insights and power strategic alliances that will provide a platform to redefine success in the digital economy.
-
-The speaker lineup for this year includes Jonas Thürig, VP, Business Development & Sales, Asia, Tenity; Megha Jain, Senior Advisor, Bill and Melinda Gates Foundation (BMGF); Mohan Belani, Co-founder & CEO, e27; Craig Dixon, General Partner, Accelerate Asia; and David Mann, Chief Economist, APAC, Mastercard Economics Institute.
-
-...
-
-[Data](articles/c71aa334.json)
-
-[Extended Data](ext_articles/c71aa334.ext.json)
-
----
-
-### ComBank ‘biggest’ lender to Sri Lanka’s SMEs for 4th consecutive year
-
-*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/combank-biggest-lender-to-sri-lankas-smes-for-4th-consecutive-year/) · `en`
-
-The Commercial Bank of Ceylon was the biggest lender to Sri Lanka’s small and medium enterprises (SME) sector by a huge margin in 2023, accounting for nearly a third of the value of the loans disbursed by a total of 17 state and private sector lending institutions, the Ministry of Finance has confirmed.
-
-According to the Ministry’s Final Budget Position Report (Annual Report) for 2023, Commercial Bank lent Rs 231.655 billion out of the total loans of Rs 704.142 billion to SMEs, accounting for 33% of the total in value terms.
-
-This is the fourth consecutive year that Commercial Bank has been the biggest lender to the country’s small and medium enterprises, which, according to the Ministry of Finance, contribute 52% of the country’s Gross Domestic Production (GDP), 45% of employment, and 20% of exports.
-
-...
-
-[Data](articles/254ed875.json)
-
-[Extended Data](ext_articles/254ed875.ext.json)
-
----
-
-### China-Sri Lanka exploring enhancement of trade and tourism
-
-*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/china-sri-lanka-exploring-enhancement-of-trade-and-tourism/) · `en`
-
-Sri Lanka and China concluded the 13th Round of Diplomatic consultations on 17 June 2024 in Beijing. The consultations were led by Secretary, Foreign Affairs of Sri Lanka, Aruni Wijewardane and Vice Minister of Foreign Affairs of the People’s Republic of China, Sun Weidong.
-
-The two sides reviewed bilateral cooperation in a wide range of areas including recent high-level visits, economic and trade enhancement, debt restructuring, people to people exchanges, tourism as well as recent developments in multilateral fora.
-
-The Foreign Secretary appreciated China’s assistance to Sri Lanka during challenging times, and in the context of the priority given by Sri Lanka to economic recovery and growth, identified potential avenues for further cooperation on green initiatives, agriculture modernization, renewable energy, food security, investment promotion as well as enhancement of trade, tourism and people to people contacts.
-
-...
-
-[Data](articles/514e1b9f.json)
-
-[Extended Data](ext_articles/514e1b9f.ext.json)
-
----
-
-### Export-oriented firm originating from Jaffna launches historic IPO
-
-*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/export-oriented-firm-originating-from-jaffna-launches-historic-ipo/) · `en`
-
-Also the first listing under USAID Private Sector Development Programme
-
-With the large number of companies listed on the Colombo Stock Exchange (CSE) across multiple sectors which are operating on different business models, deciding where to invest one’s money can be overwhelming.Most ‘growth investors’ determine a stock’s potential over the long run; nevertheless they want to catch the stock on an upswing instead of hoping for one in the future.
-
-In this context, the Initial Public Offering (IPO) by Maharaja Foods Ltd which will open on 4th July 2024 may be in alignment with the strategy of many first time investors as well as portfolio investors. It could be an opportunity for them to pursue growth by taking a path of less volatility and more predictability because it involves a food manufacturing business that is least affected by inflation.
-
-...
-
-[Data](articles/b6e4aa78.json)
-
-[Extended Data](ext_articles/b6e4aa78.ext.json)
-
----
-
-### IBM to co-create tailored solutions to specific needs of SL market
-
-*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/ibm-to-co-create-tailored-solutions-to-specific-needs-of-sl-market/) · `en`
-
-Sandip Patel is the Managing Director for IBM India & South Asia region. He is responsible for all of IBM’s sales, marketing, services and delivery operations in the region, including Bangladesh, Nepal and Sri Lanka. He was in Sri Lanka recently to celebrate IBM’s 25-year-long partnership with Redington where he met with a significant number of key stakeholders of the industry in Sri Lanka.
-
-...
-
-[Data](articles/d802c867.json)
-
-[Extended Data](ext_articles/d802c867.ext.json)
-
----
-
-### Litro Gas reaffirms its commitment to food industry in Sri Lanka
-
-*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/litro-gas-reaffirms-its-commitment-to-food-industry-in-sri-lanka/) · `en`
-
-Litro Gas Lanka continued its partnership with Chefs Guild Lanka (CGL) as a key sponsor of the 21st edition of the Culinary Art Food Expo 2024 (CAFE), which took place from June 7th to 9th at the Sirimavo Bandaranaike Memorial Exhibition Centre (SBMEC). This event proved to be an international sensation showcasing the pinnacle of culinary artistry and innovation.
-
-For the 21st consecutive year, Litro Gas Lanka, the largest importer and supplier of LP Gas in Sri Lanka, was honored to energize this grand culinary exhibition and trade show. Litro Gas was once again the official and exclusive LP Gas partner, ensuring a seamless energy supply to all 75 live cooking stations.
-
-CAFE 2024 featured a comprehensive showcase of food products and services, highlighting every aspect of culinary arts from food processing to consumption. The event is renowned for its culinary competitions, trade stalls, food festivals, cookery demonstrations, and cooking classes.
-
-...
-
-[Data](articles/e0076c6a.json)
-
-[Extended Data](ext_articles/e0076c6a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 09:04:56**
+As of **2024-06-24 09:19:22**
 
 ## Newspaper Stats
 
-*Scraped **31,795** Articles*
+*Scraped **31,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
 adalk | 2,785
-adaderanalk | 3,608
+adaderanalk | 3,610
 tamilmirrorlk | 3,739
 dailymirrorlk | 4,733
 virakesarilk | 4,925
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,794 (100.0%) of 31,795 articles have been extended.
+31,795 (100.0%) of 31,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Gunmen kill police, priest in attacks on places of worship in Russia’s Dagestan
+
+*2024-06-24 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100056/gunmen-kill-police-priest-in-attacks-on-places-of-worship-in-russias-dagestan) · `en`
+
+At least 15 police officers and a priest were killed by gunmen on Sunday in what appear to be coordinated attacks on multiple places of worship in Russia’s southernmost Dagestan province, local authorities said.
+
+Sergey Melikov, head of the Dagestan Republic, said at least six “militants” were also killed following the attacks on churches, synagogues and police posts in the cities of Derbent and the regional capital Makhachkala, which are about 120 kilometers (75 miles) apart.
+
+A priest killed during an attack on a church in Derbent was identified by Dagestan Public Monitoring Commission Chairman Shamil Khadulaev as Father Nikolay. “They slit his throat. He was 66 years old and very ill,” Khadulaev said.
+
+A security guard armed with a pistol was also shot, Khadulaev said. The guard’s condition, along with the total number of victims, remains unclear.
+
+...
+
+[Data](articles/15643df7.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-24 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100055/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers about 50mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara Eliya districts.
+
+Several spells of showers will occur in North-western province and in Matale district, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/ae7dffc4.json)
+
+---
 
 ### A delegation to Russia to save our war
 
@@ -458,23 +494,29 @@ President Ranil Wickremesinghe visited the Jaffna and Nuwara Eliya districts, Ra
 
 ---
 
-### ’சவால்களைக் கண்டு தப்பியோட வேண்டாம்’
+### Do not escape the challenges
 
 *2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/175-339303) · `ta`
 
-எதிர்கால சந்ததியினர் சிறந்த கல்வியைப் பெற்றுக்கொண்டு கொள்கைகளுக்கு மதிபளிக்க வேண்டும் எனவும் சவால்களை கண்டு ஒருபோதும் தப்பியோட கூடாது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe urged future generations to embrace education, understand policies, and face challenges head-on. He addressed young people in Batticaloa, emphasizing the importance of leadership and political excellence. The gathering, held at the "Golden River" hotel, saw a significant turnout from youth and women, with the President engaging in discussions post-meeting.
 
-நாட்டில் வெற்றிகரமான தலைமைத்தும், தலைசிறந்த அரசியல்வாதி என்ற வகையில் ஜனாதிபதி கொண்டிருக்கும் அனுபவங்களுக்கமைய எதிர்கால சந்ததியினருக்கு வழங்கும் அறிவுரை யாதென மட்டக்களப்பு மாவட்ட இளையோருடனான சந்திப்பில் எழுப்பட்ட கேள்விக்கு பதிலளித்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-மட்டக்களப்பு”கோல்டன் ரிவர்” ஹோட்டலில் நேற்று முன்தினம் நடை்பெற்ற இளையோர் அணி சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனை தெரிவித்தார்.
+President Ranil Wickremesinghe said the future generations should get better education and appreciate policies and never escape the challenges.
 
-இந்தச் சந்திப்பில் பெருமளவான இளைஞர், யுவதிகள் கலந்துகொண்டிருந்ததோடு, அவர்களின் கேள்விகளுக்கு ஜனாதிபதி சாதகமான பதில்களை வழங்கினார்.
+Responding to a question raised by the youth of the Batticaloa district, the President was responding to a question raised by the youth of the Batticaloa district that the country's successful leadership and the best politician as a great politician.
 
-இந்த சந்திப்பின் பின்னர் இந்த சந்திப்பில் கலந்துகொண்ட இளையோருடன் ஜனாதிபதி படங்களிலும் இணைந்துகொண்டார். (a)
+President Ranil Wickremesinghe made this statement at a meeting of the youth team held at the "Golden River" hotel in Batticaloa yesterday.
+
+A large number of youth and women attended the meeting and the president gave favorable answers to their questions.
+
+The President joined the films with the younger ones who attended the meeting after the meeting. (A)
 
 ◼️
 
 [Data](articles/35c6f66b.json)
+
+[Extended Data](ext_articles/35c6f66b.ext.json)
 
 ---
 
@@ -2285,57 +2327,5 @@ This officer is accused of providing false information. In addition, customs off
 [Data](articles/841e3d74.json)
 
 [Extended Data](ext_articles/841e3d74.ext.json)
-
----
-
-### 7 killed in road accidents: 15 injured
-
-*2024-06-23 12:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-விபத்துகளில்-7-பேர்-பலி-15-பேர்-காயம்/175-339275) · `ta`
-
-On Poson Day, seven fatalities and 15 injuries occurred in various road accidents across Sri Lanka. Incidents included collisions between buses, three-wheelers, and pedestrians, with victims ranging from elderly to youths.
-
-🟩
-
-Seven people were killed and 15 others were injured in road accidents in Sri Lanka on the day of Poson Day, the police media office said.
-
-Two women aged 57 and 17, aged 57 and 17, from Meegammana North Wattegama, were killed when a private bus and three-wheeler collided head-on in the Kongahamula area in Matale on Jaffna road, Matale police said.
-
-Matale police said that the accident occurred when a three -wheeler collided with a three -wheeler from Dambulla to Matale.
-
-Meanwhile, a pedestrian collided with a motorcycle in Lihinagala, Hambagamuwa, who died after being admitted to the hospital after being admitted to the hospital.. The deceased is a 73 -year -old man from Tamvel.
-
-Also, 10 people, including a driver of the plowing machine, were injured when a bus collided with a former plowing machine in Puttalam Road, Puttalam Road.. The injured have been admitted to the Chilaw Hospital, police said.
-
-...
-
-[Data](articles/0d2c1427.json)
-
-[Extended Data](ext_articles/0d2c1427.ext.json)
-
----
-
-### 7 killed: 15 injured
-
-*2024-06-23 12:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேர்-பலி-15-பேர்-காயம்/175-339275) · `ta`
-
-On Poson Day, seven fatalities and 15 injuries occurred in Sri Lanka due to various road accidents. Incidents included collisions between buses, three-wheelers, and pedestrians, resulting in deaths and hospital admissions across different regions.
-
-🟩
-
-Seven people were killed and 15 others were injured in road accidents in Sri Lanka on the day of Poson Day, the police media office said.
-
-Two women aged 57 and 17, aged 57 and 17, from Meegammana North Wattegama, were killed when a private bus and three-wheeler collided head-on in the Kongahamula area in Matale on Jaffna road, Matale police said.
-
-Matale police said that the accident occurred when a three -wheeler collided with a three -wheeler from Dambulla to Matale.
-
-Meanwhile, a pedestrian collided with a motorcycle in Lihinagala, Hambagamuwa, who died after being admitted to the hospital after being admitted to the hospital.. The deceased is a 73 -year -old man from Tamvel.
-
-Also, 10 people, including a driver of the plowing machine, were injured when a bus collided with a former plowing machine in Puttalam Road, Puttalam Road.. The injured have been admitted to the Chilaw Hospital, police said.
-
-...
-
-[Data](articles/803b6528.json)
-
-[Extended Data](ext_articles/803b6528.ext.json)
 
 ---

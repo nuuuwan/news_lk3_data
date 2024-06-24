@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 14:54:13**
+As of **2024-06-24 15:04:46**
 
 ## Newspaper Stats
 
-*Scraped **31,874** Articles*
+*Scraped **31,877** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 292
+colombotelegraphcom | 293
 dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,838
 dailyftlk | 1,942
-adalk | 2,796
+adalk | 2,797
 adaderanalk | 3,620
-tamilmirrorlk | 3,756
+tamilmirrorlk | 3,757
 dailymirrorlk | 4,733
 virakesarilk | 4,940
 adaderanasinhalalk | 5,216
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,867 (100.0%) of 31,874 articles have been extended.
+31,874 (100.0%) of 31,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### வருட தள்ளுபடி கொடுத்த ஆசிரியையும் கணவனும் கைது
+
+*2024-06-24 14:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-தள்ளுபடி-கொடுத்த-ஆசிரியையும்-கணவனும்-கைது/175-339333) · `ta`
+
+தாங்கள் ஆரம்பித்த சட்டவிரோதமான வர்த்தகத்துக்கு ஒருவருடம் நிறைவடைவதை முன்னிட்டு, வருட தள்ளுபடி கொடுத்த ஆசிரியையும், அவருடைய கணவனும் கைது செய்யப்பட்டள்ளனர்.
+
+போதைப்பொருள் பிரியர்களுக்கு போதைப்பொருள் விநியோகம் செய்ய தயாராக இருந்த பயிற்சி ஆசிரியர் ஒருவரும் அவரது கணவரும் சுமார் ஒரு கோடி ரூபாய் பெறுமதியான ஹெரோயின் போதைப்பொருளுடன் அநுராதபுரம் நகரின் மையப்பகுதியில் வைத்து கைது செய்யப்பட்டனர்.
+
+பொசொன் காலப்பகுதியில், போதைப்பொருளை ஏற்றிச் சென்ற பெண்ணின் மோட்டார் சைக்கிளுடன் கைது செய்யப்பட்டதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+வாரியபொல பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஆசிரியை மற்றும் அனுராதபுரம் சுற்றுலா விடுதி ஒன்றில் சமையல்காரரின் உதவியாளராக கடமையாற்றும் கேகாலை பிரதேசத்தை சேர்ந்த 28 வயதுடைய  அவரது கணவர், ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்
+
+...
+
+[Data](articles/3ad73b73.json)
+
+---
 
 ### Two individuals arrested over attempt to sell fake gemstone for Rs. 10M
 
@@ -52,23 +70,31 @@ The arrested suspects are to be produced before the Anamaduwa Magistrate’s Cou
 
 [Data](articles/567fb1f7.json)
 
+[Extended Data](ext_articles/567fb1f7.ext.json)
+
 ---
 
-### யாழ்.இளைஞனை வெளிநாட்டு அனுப்புவதாக கூறி பணமோசடி செய்த நபர் கைது
+### A man arrested for allegedly sending a foreign man to Jaffna
 
 *2024-06-24 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186834) · `ta`
 
-மனித உரிமைகள் ஆணைக்குழுவின் ஊடாக வெளிநாட்டிற்கு அனுப்பி வைக்க முடியும் என இளைஞனிடம் கூறி , 60 இலட்ச ரூபாய் பணத்தினை பெற்றுக்கொண்டுள்ளார்.
+A man was arrested for allegedly defrauding a foreigner by promising to send them to Jaffna but instead kept the money. The suspect worked for the International Human Rights Commission in Colombo and advised the victim to move to the Eastern Province. Investigations are ongoing to determine if he deceived others.
 
-பணத்தினை பெற்றுக்கொண்டவர் , நீண்ட காலமாகியும் இளைஞனை வெளிநாட்டிற்கு அனுப்பி வைக்காததால், இளைஞன் பணத்தினை மீள கோரிய போது, பணத்தினை மீள வழங்காததால் பாதிக்கப்பட்ட இளைஞன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து , விசாரணைகளை முன்னெடுத்த பொலிஸார் குறித்த நபரை கைது செய்துள்ளனர்.
+🟩
 
-விசாரணைகளில், குறித்த நபர் சர்வதேச மனித உரிமைகள் ஆணைக்குழுவில் வேலை செய்வதாகவும், கொழும்பில் வசிப்பதாகவும் இளைஞனிடம் கூறியது பொய் எனவும், கிழக்கு மாகாணத்தை சொந்த இடமாக கொண்டு, கிழக்கு மாகாணத்திலேயே வசித்து வருகிறார் என்பது தெரியவந்துள்ளது.
+He has received a sum of Rs.
 
-குறித்த நபர் வேறு நபர்களையும் இவ்வாறு ஏமாற்றியுள்ளாரா? என்பது தொடர்பில் பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Police have arrested a man who carried out an investigation after the victim lodged a complaint at the police station for not returning the money when the young man had not returned the money as the young man did not send money for a long time.
+
+Investigations revealed that the person was working in the International Human Rights Commission and that he was living in Colombo and told the young man to live in the Eastern Province.
+
+Did the person deceive other people?Police are conducting serious investigations into the matter.
 
 ◼️
 
 [Data](articles/07ae01cb.json)
+
+[Extended Data](ext_articles/07ae01cb.ext.json)
 
 ---
 
@@ -85,6 +111,8 @@ ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim communit
 ...
 
 [Data](articles/a9b887b2.json)
+
+[Extended Data](ext_articles/a9b887b2.ext.json)
 
 ---
 
@@ -110,19 +138,25 @@ Here are the first pages of the Weerakesari magazines published on June 24 and 2
 
 ---
 
-### අපේ කොල්ලෝ මේ පාරත් පැරදුණේ නයිට් ක්ලබ් ගිහින් ද ?
+### Do our boys go to the nightclub to defeat this road?
 
 *2024-06-24 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198091) · `si`
 
-මෙවර T20 ලෝක කුසලානයට සහභාගී වූ ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් රාත්‍රී සමාජ ශාලාවල කාලය ගතකර ඇති බවට යමෙක් ප්‍රකාශ කරන්නේ නම් එය ඔප්පු කර පෙන්වන්නැයි අභියෝග කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Sports Minister Harin Fernando challenges anyone to prove allegations that the Sri Lankan T20 World Cup team visited nightclubs instead of focusing on sports. He vows to resign if proven true, emphasizing his commitment to supporting children through sports.
 
-ඔහු මෙම අදහස් පළ කළේ අද (24) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+🟩
 
-"අපේ හිටපු අමාත්‍යවරයෙක් මං දැක්කා කියනවා අපේ කණ්ඩායම රාත්‍රී 12ට කොහෙදෝ එළියට ගිහිල්ලා තමයි අනිත් දවසේ ප්‍රැක්ටිස් එකට අවේ කියලා... අමෙරිකවේ. මේක ඔප්පු කරන්න පුළුවන් නම් ඕනම කෙනෙකුට. නයිට් ක්ලබ් එකක හෝ පාටි එකක මේ ක්‍රීඩකයෝ මේ ටුවර් එක තුළ හිටියා කියලා. එහෙම කළොත් මම ඉල්ලා අස් වෙනවා. රටක් හැටිය දරුවන්ට උදව් කරන ඕනේ. මම දකින්නේ නෑ... සෝෂල් මීඩියා තුළ මඩ ගහලා, ජිල් බෝලයක්වත් ගහපු නැති උන් කතා කරන එක හරි කියලා."
+The Sports Minister Harin Fernando says that if one declares that the Sri Lankan team who participated in the T20 World Cup would be able to prove it.
+
+He was speaking at a press conference held at the President's Media Center today (24).
+
+"One of our former minister I saw that the schools were gone out to 12 pm to the next 12 nights.. United States. Anyone if you can prove this.These players were in a knight club or in a balat. Doing so, I resign. I want to help children as a country. I don't see ... It is okay to speak up in Sudha Media and the billion of jill. "
 
 ◼️
 
 [Data](articles/8b89e7cf.json)
+
+[Extended Data](ext_articles/8b89e7cf.ext.json)
 
 ---
 
@@ -141,6 +175,8 @@ The university, with research and development facilities, aims to position Colom
 ...
 
 [Data](articles/e6f64d83.json)
+
+[Extended Data](ext_articles/e6f64d83.ext.json)
 
 ---
 
@@ -201,6 +237,8 @@ Speaking at a religious service held on Sunday June 23 at the New Kathankudy Gra
 ...
 
 [Data](articles/ca2c849f.json)
+
+[Extended Data](ext_articles/ca2c849f.ext.json)
 
 ---
 
@@ -450,6 +488,20 @@ Donations will not be able to focus on the focus of the burden of the fire from 
 
 ---
 
+### අනේ බුදු බව අත්වෙයි මාව මරාගන්න කලින් ලංකාවට ගෙන්වා ගන්න
+
+*2024-06-24 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/අනේ-බුදු-බව-අත්වෙයි-මාව-මරාගන්න-කලින්-ලංකාවට-ගෙන්වා-ගන්න/11-410397) · `si`
+
+"මාව දැන් දවස් තුන හතරක් තිස්සේ කාමරයකට දාලා වහලා කන්ඩ බොන්ඩ දෙන්නැතුව ගහනවා, මේ ගෙදර හය දෙනෙක්ගෙ වැඩ මට කරන්න වෙලා, ඒ වැඩ කරන්න අමාරු නිසා තමයි මගේ කම්බුලට ගහලා මාව කාමරයක හිර කරලා දාලා කන්න බොන්නවත්, දෙන්නේ නැත්තේ, මට ඇල්වතුරක් දෙන්නෑ. මට මේ ගෙදර අය පඩි දුන්නෙත් නෑ. මම පොලිසියේ පැමිණිල්ලක් දැම්මා, පොලිසියත් කිව්වේ වැඩිය කියවන්න එපා ගහලා හිරේ දානවා කියලා, මේ ගෙදර පිරිමි ළමයෙක් ඉන්නවා ඒ ළමයා මාත් එක්ක හැමදාම රණ්ඩු වෙනවා, පොලිසියට පැමිණිලි කළත් වැඩක් නෑ.
+
+මේ ගෙදර එක්කෙනෙක් තමයි පොලිසියේ වැඩ කරන්නේ. ඒ පොලිසියේ කෙනා තමයි කිව්වේ ආයෙත් ගෙදරට ගිහිල්ලා වැඩ කරන්න කියලා, ලංකාවට පෙට්ටියකින් යන්න ආසද කියලා කියනවා, අනේ බුදු බව අත්වෙයි මාව මරාගන්න කලින් ලංකාවට ඉගෙන්වා ගන්න" යැයි පොළොන්නරුව දිඹුලාගල අංක 38 මහඋල්පත කාශ්‍යපපුර ගම්මානයේ සිට මීට වසරකට පෙර සෞදියේ ගෘහ සේවයට ගොස් කාමරයක සිර කරගෙන සිටින, දෙදරු මවක වන 33 වියති දිස්නා ශිරෝමි මහත්මිය හැඬූ කඳුළුන් සඳහන් කළාය.
+
+...
+
+[Data](articles/de74329e.json)
+
+---
+
 ### Sri Lanka in final steps of completing debt restructuring – CBSL Governor
 
 *2024-06-24 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100063/sri-lanka-in-final-steps-of-completing-debt-restructuring-cbsl-governor) · `en`
@@ -683,6 +735,8 @@ Sri Lanka expects 2.3 million tourists in 2024 and the tourist authorities said 
 ...
 
 [Data](articles/ba523913.json)
+
+[Extended Data](ext_articles/ba523913.ext.json)
 
 ---
 
@@ -1606,6 +1660,18 @@ In the 18th over of the match, Chris Jordan took wickets in the head -trick and 
 
 ---
 
+### The Economic Transformation Bill: For Whom & For What ?
+
+*2024-06-24 09:17:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-economic-transformation-bill-for-whom-for-what/) · `en`
+
+The Economic Transformation Bill, is said to be emanating from a “Vision” of President Ranil Wickremesinghe (Ref.media statements of Actg. Finance Minister Semasinghe)  of how to prevent future economic collapse and not based on any IMF prescriptions. Even a cursory  reading of the Bill shows that this “vision” seems to be tipping the balance of  hallucination and unilaterally setting  economic benchmarks for the country in a futuristic scenario without a ghost of a plan or action as to how and why these targets were prescribed and by what means other than abolishing existing technocracies and  establishing institutions that are entirely politicised .
+
+...
+
+[Data](articles/5b3e8a58.json)
+
+---
+
 ### An announcement of the weather
 
 *2024-06-24 09:07:09* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-410388) · `si`
@@ -2243,75 +2309,5 @@ The pomegranate is located on 150 acres and 300 farmers are involved in the cult
 [Data](articles/cd860773.json)
 
 [Extended Data](ext_articles/cd860773.ext.json)
-
----
-
-### Kattankudi Big Jumma School Donation
-
-*2024-06-24 01:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-பெரிய-ஜும்மா-பள்ளிவாசல்-நன்கொடை/175-339301) · `ta`
-
-In a speech following a special prayer for Gaza victims, President Ranil Wickremesinghe reaffirmed Sri Lanka's support for establishing Palestine within five years. He also announced a donation of Rs 10,769,417 from the Kattankudy Big Jumma School to the Gaza Children's Fund, emphasizing Sri Lanka's unwavering stance on the Israeli-Palestinian conflict.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka's position on the clashes in Gaza will never change and that Sri Lanka's position is to establish the Palestinian state within five years.
-
-The President said this in a speech after participating in a special prayer organized by the Kattankudy Periya Jumma School for the affected people in Gaza.
-
-Meanwhile, the Kattankudy Big Jumma School was donated to the Gaza Children's Fund on the directive of President Ranil Wickremesinghe, a donation of Rs 10,769,417.. After the prayer, the check for the Gaza Fund was handed over to President Ranil Wickremesinghe by the school administration.
-
-The President, who attended the special prayer events, discussed with those who visited there and joined Selby photos.. (A)
-
-◼️
-
-[Data](articles/2dabf6b3.json)
-
-[Extended Data](ext_articles/2dabf6b3.ext.json)
-
----
-
-### Appointment of Deputy Governors to Central Bank
-
-*2024-06-24 01:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கிக்கு-துணை-ஆளுநர்கள்-நியமனம்/175-339300) · `ta`
-
-AAM. Tasim and JPR. Karunaratne have been named Deputy Governors of the Central Bank.
-
-🟩
-
-Accordingly AAM. Tasim and JPR. Karunaratne has been appointed as Deputy Governors. (A)
-
-◼️
-
-[Data](articles/382f98e1.json)
-
-[Extended Data](ext_articles/382f98e1.ext.json)
-
----
-
-### 2024-06-23 (Sunday)
-
-### Jeevan Thondaman visits China
-
-*2024-06-23 23:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமான்-சீனாவுக்கு-விஜயம்/175-339299) · `ta`
-
-Minister Jeevan Thondaman visited China to attend the World Young Leaders Conference, invited by the World Economic Center. Accompanied by officials from the Ministry of Development and others, he will participate in significant events and contribute to planning for improving water resources over the next five years through the JRDC-Joint Research and Demonstration Center for Water Technology.
-
-🟩
-
-Minister Jeevan Thondaman made an official visit to the Chinese this evening to attend the World Young Leaders Conference to be held in China at the invitation of the World Economic Center.
-
-Minister Jeevan Thondaman's media unit said that many people, including officials of the Ministry of Development and Development, have accompanied him.
-
-Minister Jeevan Thondaman, who has made a weekly official visit, will attend major events in China.
-
-At the invitation of the World Economic Center, he will attend the World Young Leaders Conference.
-
-In addition, the JRDC-Joint Research and Demonstration Center for Water Technology will be participating in the formation of plans for the next 5 years to improve the water resources, garden and rural water resources.. (A)
-
-◼️
-
-[Data](articles/35475a20.json)
-
-[Extended Data](ext_articles/35475a20.ext.json)
 
 ---

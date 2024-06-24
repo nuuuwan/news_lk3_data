@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 13:04:29**
+As of **2024-06-24 13:19:23**
 
 ## Newspaper Stats
 
-*Scraped **31,845** Articles*
+*Scraped **31,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,81 @@ islandlk | 1,770
 economynextcom | 1,834
 dailyftlk | 1,942
 adalk | 2,794
-adaderanalk | 3,616
+adaderanalk | 3,617
 tamilmirrorlk | 3,750
 dailymirrorlk | 4,733
 virakesarilk | 4,931
-adaderanasinhalalk | 5,212
+adaderanasinhalalk | 5,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,843 (100.0%) of 31,845 articles have been extended.
+31,845 (100.0%) of 31,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### மைத்திரி இன்றி விசாரிக்க முடிவு
+### මෛත්‍රී ට එරෙහි නඩුවක් ඒකපාක්ෂිකව විභාග කිරීමට නියෝග
+
+*2024-06-24 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198088) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා ඇති අතුරු තහනම් නියෝගයට අදාළ නඩුව ඒකපාක්ෂිකව විභාග කිරීමට කොළඹ දිසා අධිකරණය නියම කර තිබේ.
+
+නඩුව අද (24) කැඳවූ අවස්ථාවේදී විත්තිකාර මෛත්‍රීපාල සිරිසේන මහතා වෙනුවෙන් නීතිඥයෙකු පෙනී සිටීමක් සිදු නොවූ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+ඒ අනුව අදාළ නඩුව ඒකපාක්ෂිකව විභාග කිරීමට කොළඹ දිසා අධිකරණය නියෝග කර තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරච්චන්ද්‍ර මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි‍.
+
+◼️
+
+[Data](articles/cd6e5a64.json)
+
+---
+
+### ‘Lorenzo Putha 04’ crew repatriated 5 months after capture by pirates
+
+*2024-06-24 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100062/lorenzo-putha-04-crew-repatriated-5-months-after-capture-by-pirates-) · `en`
+
+The six Sri Lankan fishermen, who were rescued after their trawler was hijacked by Somali pirates in the Arabian Sea and were subsequently detained at Victoria Port in Seychelles, have been repatriated to the island yesterday (23) after 5 months.
+
+The six crew members of the multi-day fishing trawler arrived at the Dikovita fisheries harbor on Sunday.
+
+On January 27, the Sri Lankan multi-day fishing trawler “Lorenzo Putha - 4” with 6 crew members aboard was hijacked by Somali pirates and were later rescued by the Seychelles Defence Forces.
+
+However, their repatriation to the island was delayed for 5 months due to required paperwork and legal proceedings.
+
+Five months after the judicial process conducted by the Seychelles government regarding the pirates, the multi-day vessel “Lorenzo Putha - 4” and the 6 fishermen arrived safely in the island yesterday.
+
+◼️
+
+[Data](articles/b27ece12.json)
+
+---
+
+### Decide to investigate
 
 *2024-06-24 12:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இன்றி-விசாரிக்க-முடிவு/175-339322) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு எதிராக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்பினர் ஒருவர் தாக்கல் செய்த வழக்கை ஒருதலைப்பட்சமாக ஆராய கொழும்பு பிரதான மாவட்ட நீதவான்  சந்துன் விதான இன்று தீர்மானித்தார்.
+Chandun Vidhan, Colombo Chief District Magistrate, decided to investigate a case filed by a Sri Lanka Freedom Party member against former President Maithripala Sirisena, due to Sirisena not having legal representation. The case involves the appointment of the SLFP leader, with an interim injunction issued against Sirisena upon the filing of the petition by Mundiku Sarachandran, an SLFP executive committee member.
 
-மைத்திரிபால சிறிசேனவுக்காக நீதிமன்றில் ஆஜராக சட்டத்தரணி இல்லாத காரணத்தினால், இந்த வழக்கை ஒருதலைப்பட்சமாக விசாரணைக்கு எடுத்துக்கொள்ள தீர்மானிக்கப்பட்டது.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவிக்கு நியமித்ததை எதிர்த்து   இந்த வழக்கைத் தாக்கல் செய்திருப்பதுடன், நீதிமன்றமும் சிறிசேனாவுக்கு இடைக்காலத் தடை உத்தரவு பிறப்பித்துள்ளது.
+Colombo Chief District Magistrate Chandun Vidhan today decided to unilaterally investigate the case filed by a Sri Lanka Freedom Party member against former President Maithripala Sirisena.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான  முண்டிகு சரச்சந்திரனால் தாக்கல் செய்யப்பட்ட மனுவை பரிசீலித்த போதே இந்த இடைக்கால தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+It was decided to take the case unilaterally due to the lack of a lawyer appearing in court for Maithripala Sirisena.
+
+The case has been filed against the appointment of the Sri Lanka Freedom Party (SLFP) leader and the court has issued an interim injunction to Sirisena.
+
+The interim injunction was issued when the petition was filed by Mundiku Sarachandran, a member of the Sri Lanka Freedom Party (SLFP) executive committee and the organizer of the Sri Lanka Freedom Party.
 
 ◼️
 
 [Data](articles/c232395c.json)
+
+[Extended Data](ext_articles/c232395c.ext.json)
 
 ---
 
@@ -96,19 +140,33 @@ The health sector was treated with the health sector, which had been treated wit
 
 ---
 
-### පාසල් ගුරැවරියක කුඩු විකුණා වසරක් සපිරුණු දා ලබාදුන් විශේෂ වට්ටම
+### Special discounts given by a school teacher teacher
 
 *2024-06-24 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ගුරැවරියක-කුඩු-විකුණා-වසරක්-සපිරුණු-දා-ලබාදුන්-විශේෂ-වට්ටම/11-410393) · `si`
 
-පොසොන් සමය ඉලක්ක කර ගනිමින් අනුරාධපුරයට පැමිණෙන මත්ද්‍රව්‍ය ලෝලීන් හට මත්කුඩු බෙදා හැරීමට සූදානම්ව සිටි, අනුරාධපුර නගර මධ්‍යයේ ඇති, ප්‍රධාන පාසලක පුහුණු ගුරුවරියක් සහ ඇගේ සැමියා රුපියල් කෝටියකට ආසන්න හෙරොයින් මත්කුඩු තොගයක් සහ එය ප්‍රවාහනය කල කාන්තා යතුරු පැදියක් සමග අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+In Anuradhapura, a couple, including a school teacher, were arrested with 40 grams of heroin and a motorcycle. The 26-year-old male suspect is from Wariyapola, and the drugs were sourced from a dealer in Kurunegala. This case marks one of the largest heroin seizures in the area, highlighting a significant blow to drug trafficking operations.
 
-මෙලෙස අත්අඩංගුවට  පත්ව ඇත්තේ වාරියපොල පදිංචි 26 හැවිරිදි  එම ගුරුවරිය , කෑගල්ල ප්‍රදේශයේ පදිංචි 28 හැවිරිදි ඇගේ සැමියා වන, අනුරාධපුර සංචාරක නිවාඩු නිකේතනයක සූපවේදී සහායකවරයකු ලෙස කටයුතු කරන අයෙකු බවත්, එම සැකකරු සහ සැකකාරිය  අනුරාධපුර  පූජා නගරයේ කුට්ටම් පොකුණ ආසන්නයේ නිවසක තාවකාලිකව  නවාතැන්ගෙන සිට ඇති බව පොලිසිය සඳහන් කළේය.
+🟩
 
-සැකකාර මෙම යුවල මත්ද්‍රව්‍ය ජාවාරම ආරම්භ කර මේ වන විට වසරක කාලයක් සම්පූර්ණ වීම නිමිත්තෙන් , එහි වර්ෂ පූර්ණය  සැමරීම සඳහා විශේෂ දීමනාවක් ලෙස මේ දිනවල මත්කුඩු පැකට්ටුවක් සඳහා  රුපියල් 500 සිට 1000 දක්වා වට්ටමක්  ලබා දී ඇති බව පොලිසිය කියයි.
+A training teacher and her husband have been arrested in Anuradhapura, a tradition teacher and her husband had been arrested with a large number of heroin and a woman motorcycle for the Poson.
 
-...
+The suspect is a 26 year old resident of Wariyapola, a 28-year-old hospital resident of Wariyapola, a resident of Anuradhapura.Did.
+
+The suspects have been launched to a special allowance to mark the drug trafficking and a special allowance for the completion of its year.
+
+According to the police, heroin had been in possession of 40 grams of heroin and a woman motorcycle in possession of her husband and her husband was in possession of heroin.
+
+Drugs sustains from a drug dealer in Kurunegala will be hidden in the city of Anuradhapura and Pooja to the city of Anuradhapura and Pooja.
+
+Police say that this is the largest consignment of the heroin, who was arrested in Anuradhapura regarding the operation of justice.
+
+The arrested persons were to be produced before the Anuradhapura Magistrate's Court. (I J)
+
+◼️
 
 [Data](articles/acca8756.json)
+
+[Extended Data](ext_articles/acca8756.ext.json)
 
 ---
 
@@ -2205,41 +2263,5 @@ Captain Blood  became an immensely popular novel and several films based on the 
 [Data](articles/0c6c87b9.json)
 
 [Extended Data](ext_articles/0c6c87b9.ext.json)
-
----
-
-### Sri Lanka central bank appoints two Deputy Governors
-
-*2024-06-23 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-appoints-two-deputy-governors-169113/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank said Assistant Governors A A M Thassim and J P R Karunaratne were promoted to the post of Deputy Governor.
-
-APPOINTMENT OF NEW DEPUTY GOVERNORS OF THE CENTRAL BANK OF SRI LANKA
-
-In terms of the provisions in the Central Bank of Sri Lanka Act, No. 16 of 2023, Hon. Minister of Finance, as recommended by the Governing Board, has appointed Mr. A A M Thassim, Assistant Governor and Secretary to the Governing Board, and Mr. J P R Karunaratne, Assistant Governor, as Deputy Governors of the Central Bank of Sri Lanka with effect from 20.06.2024 and 24.06.2024, respectively.
-
-Mr. A.A.M. Thassim has over 31 years of service at Central Bank of Sri Lanka (CBSL) in different capacities in the areas of Supervision and Regulation of Banking Institutions, International Operations, Communication, Payments and Settlements, Employees Provident Fund, Finance, Risk Management, Deposit Insurance, Security Services and Information Technology.
-
-...
-
-[Data](articles/5f769c9d.json)
-
-[Extended Data](ext_articles/5f769c9d.ext.json)
-
----
-
-### Dr. H.N. Thenuwara: Sri Lanka Should Regain The Missed Industrial Revolutions
-
-*2024-06-23 18:30:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-h-n-thenuwara-sri-lanka-should-regain-the-missed-industrial-revolutions/) · `en`
-
-Central Bank’s ex-Assistant Governor and Director of Economic Research and presently Adjunct Professor at the University of Iowa, Dr. H.N. Thenuwara, unveiled the contents of his new book for comments and suggestions to a select audience in Colombo last week. The event was hosted by the Institute of Policy Studies or IPS. The book titled ‘Economic Growth, Development, Stability, and the Government in Sri Lanka’ is to be released in print form shortly.
-
-It contains 11 essays, some of which have been published earlier, on the present state of the Sri Lankan economy and prospects for its growth. It is a critical review which deserves the attention of all those with an interest in Sri Lanka and its economy. According to what he presented to the select audience, the book demonstrates his rich experience as a top central banker and scholar, on one side, and his learning from the interactions with the students at the University of Iowa, on the other.
-
-...
-
-[Data](articles/95e414ad.json)
-
-[Extended Data](ext_articles/95e414ad.ext.json)
 
 ---

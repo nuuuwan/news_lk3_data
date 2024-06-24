@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 16:07:12**
+As of **2024-06-24 16:19:28**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,888 (100.0%) of 31,890 articles have been extended.
+31,890 (100.0%) of 31,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### විජයදාස දින්නට පස්සේ වෙනදේ
+### There will be the case after Wijayadasa
 
 *2024-06-24 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198095) · `si`
 
-තමන් ජනාධිපතිවරණය ජයග්‍රහණය කිරීමෙන් අනතුරුව පක්ෂ නායකත්වය සම්බන්ධයෙන් ගැටලු පැන නොනගිනු ඇති බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ වාරණයට ලක් වූ සභාපති, අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+After Wijayadasa's case, the SLFP Chairman assures no leadership crisis post-presidential election victory. He spoke in Kandy, mentioning Maithripala Sirisena's meeting where it was discussed that all constitutional issues against him had been dismissed, ensuring party unity. He also mentioned efforts to tackle internal issues and introduce a new logo, indicating a fresh start for the party.
 
-ඔහු මේ බව කියා සිටියේ මහනුවරදී ඊයේ (23) මාධ්‍ය වෙත අදහස් දක්වමිනි.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහනුවර දිස්ත්‍රික්කයේ කොට්ඨාශ නියෝජිත හමුව ඊයේ පැවැත්වුණේ පක්ෂයේ හිටපු සභාපති මෛත්‍රීපාල සිරිසේන සහ වාරණයට ලක්වූ සභාපති අමාත්‍ය විජයදාස රාජපක්ෂගේ ප්‍රධානත්වයෙනි.
+The Chairman of the Sri Lanka Freedom Party (SLFP) says that after the victory of the presidential election, the SLFP's censorship will not arise regarding the leadership of the party.
 
-"ජනාධිපතිවරණයට එනවා. අපි දිනනවා. ඊට පසසේ මට විරුද්ධව ආපු නඩු ටික ඔක්කොම ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් නිෂ්ප්‍රභ වෙනවා. එතකොට පක්ෂ නායකත්වය ගැන ගැටලු එන්නේ නෑ. පක්ෂයේ නායකත්වය සහ ‍තනතුරු දරනවා කියන අය‍ මේ මහනුවරට ආවොත් එහෙ ගහලා පන්නනවා කිව්වා පාක්ෂියෝ. පාක්ෂිකයෝ යහතින් ඉන්නවා. අර පැනපු කණ්ඩාමේ අය 10ක් 12ක් එයාලගේ මඩි තර කර ගන්න පක්ෂය පවා දෙන්න උත්සහ කරනවා."
+He was speaking to the media yesterday (23) in Kandy yesterday.
 
-"ඡන්දයක් ආවාම ගොඩක් වෙලාවට ඉල්ලුවේ වෙන ලකුණු වලින්. පුටුවෙන්, බුලතින්, හංසයාගෙන්, පොහොට්ටුවෙන්. එතකොට මේ මැතිවරණයට පසු ගිය දශකයේ ලාංඡන ගැලපෙන එකක් නෑ. අපි අලුත් ලාංඡනයක් හඳුන්වා දෙනවා."
+The International Representative of the Sri Lanka Freedom Party (SLFP) Meeting was held yesterday by the former party Maithripala Sirisena and the Chairman of the Block.
+
+"Coming to presidential election. We win. All the cases against me dismissed all the constitution. Then the party leadership will not appear. If those who are being held in the Kandy's leadership and positions, they were told by the Boxed. The party is good. Trying 10 of those who have been in the guns are trying to give the party to stir their stadia. "
+
+"When a vote came from other points. From the chair, from the bullets, hunz, pove. Then the last decade has not been compatable. We introduce a new logo. "
 
 ◼️
 
 [Data](articles/006d33c4.json)
+
+[Extended Data](ext_articles/006d33c4.ext.json)
 
 ---
 
@@ -71,6 +77,8 @@ A Reuters witness saw firefighters moving as many as six bodies out of the facto
 ...
 
 [Data](articles/ada06a0b.json)
+
+[Extended Data](ext_articles/ada06a0b.ext.json)
 
 ---
 

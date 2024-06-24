@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 04:53:46**
+As of **2024-06-25 05:04:37**
 
 ## Newspaper Stats
 
-*Scraped **31,979** Articles*
+*Scraped **31,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,845
 dailyftlk | 1,963
-adalk | 2,810
+adalk | 2,811
 adaderanalk | 3,633
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,979 (100.0%) of 31,979 articles have been extended.
+31,979 (100.0%) of 31,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -895,6 +895,20 @@ President Mahinda Rajapaksa said that he would later determine whether Ranil Wic
 [Data](articles/fd2447da.json)
 
 [Extended Data](ext_articles/fd2447da.ext.json)
+
+---
+
+### කියන්න යන සුබ ආරංචිය මරික්කාර් කලින්ම කියයි
+
+*2024-06-24 20:00:01* · [`adalk`](https://www.ada.lk/breaking_news/කියන්න-යන-සුබ-ආරංචිය-මරික්කාර්-කලින්ම-කියයි/11-410415) · `si`
+
+'ආරංචිය සුබයි' යනුවෙන් ප්‍රචාර යවමින් පසුගිය වසරේ ප්‍රකාශ කළ ආකාරයෙන් නැවතත් රට බංකොලොත් භාවයෙන් මුදා ගත් බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජාතිය අමතා ප්‍රකාශයක් කිරීමට සූදානම් වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+
+පසුගිය වසරේ රට බංකොලොත් භාවයෙන් මුදාගත් බව පවසා බදු වැඩි කරමින් ජනතාව පීඩාවට පත් කළ බවත්, ඒ අනුව මෙවරද මන්දිර බද්ද ඇතුළු තවත් බදු ගසමින් ජනතාව පීඩාවට පත් කරනු ඇති බවට බියක් තිබෙන බවත් අද (24දා) කොළඹ විපක්ෂනායක කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+...
+
+[Data](articles/1ef4a6f9.json)
 
 ---
 
@@ -2241,27 +2255,5 @@ ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim communit
 [Data](articles/a9b887b2.json)
 
 [Extended Data](ext_articles/a9b887b2.ext.json)
-
----
-
-### Today in History: 1980
-
-*2024-06-24 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186831) · `ta`
-
-On June 23, 1980, Sanjay Gandhi, son of India's PM Indira Gandhi, died in a plane crash. The next day, the remains of Mahatma Gandhi and Jawaharlal Nehru were cremated near the Yamuna River.
-
-🟩
-
-Sanjay Gandhi, the youngest son of the late Indian Prime Minister Indira Gandhi and Rajiv Gandhi's younger brother, died on June 23, 1980 in a plane crash in New Delhi.
-
-The bodies of Mahatma Gandhi and Jawaharlal Nehru were cremated in the Shanti forest of the Yamuna River, which was cremated, and on the same date (June 24).
-
-Here are the first pages of the Weerakesari magazines published on June 24 and 25, 1980.
-
-◼️
-
-[Data](articles/b7958136.json)
-
-[Extended Data](ext_articles/b7958136.ext.json)
 
 ---

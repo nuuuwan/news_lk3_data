@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 18:36:36**
+As of **2024-06-24 18:54:13**
 
 ## Newspaper Stats
 
-*Scraped **31,921** Articles*
+*Scraped **31,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,61 @@ adaderanalk | 3,630
 tamilmirrorlk | 3,762
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,228
+adaderanasinhalalk | 5,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,917 (100.0%) of 31,921 articles have been extended.
+31,921 (100.0%) of 31,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### சிறுமி பலாத்காரம்: 35 வருடம் சிறைத்தண்டனை
+### 16 හැවිරිදි දැරියක් දූෂණය කළාට ලැබුණු දඬුවම
+
+*2024-06-24 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198105) · `si`
+
+අවුරුදු 16ක දැරියක් දූෂණයට ලක්කළ බව කියන සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ලවූ  පුද්ගලයෙකුට වසර 30ක සිරදඬුවම් නියම කර තිබේ.
+
+පානදුර මහාධිකරණ විනිසුරු සමන් කුමාර මහතා විසින් අද (24) ඔහුට එම සිරදඬුවම් නියම කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+මොරටුව, ලක්ෂපතිය, කනගරත්න මාවත ප්‍රදේශයේ පදිංචි රජීව රවිනාත් ජයතිලක නමැති 38 හැවිරිදි  පුද්ගලයෙකුට මෙසේ දඬුවම් නියම කෙරිණි.
+
+විත්තිකරු 2021 ජනවාරි සහ මාර්තු මාස අතරතුර කාලය තුළ 16 හැවිරිදි දැරියක දූෂණය කිරීම සම්බන්ධයෙන් කොළඹ ළමා හා කාන්තා අපයෝජන නිවාරණ කාර්යාංශය විසින් අත්අඩංගුවට ගෙන චෝදනා තුනක් යටතේ අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු නීතිපතිවරයා විසින් මහාධිකරණය හමුවේ නඩු පවරා තිබුණි.
+
+එකී චෝදනා තුනෙන් එක් චෝදනාවකට එම සැකකරු නිදොස් කොට නිදහස් කර ඇති අතර, චෝදනා දෙකකට වරදකරු කර තිබේ.
+
+එකී සිරදඬුවමට අමතරව විත්තිකරුට රුපියල් 50,000 දඩ මුදලක්ද වින්දිත දැරිය වෙත රුපියල් 500,000ක වන්දියක් ගෙවන ලෙසත් මහාධිකරණ විනිසුරුවරයා නියෝග කර ඇත.
+
+එම දඩ මුදල නොගෙවන්නේ නම් මාස හයක ලිහිල් වැඩ සහිත සිරදඬුවමක්ද, වන්දි මුදල නොගෙවන්නේ නම් මාස 18ක ලිහිල් වැඩ සහිත සිරදඬුවමක්ද නියම කර තිබේ.
+
+...
+
+[Data](articles/632eac1d.json)
+
+---
+
+### Girl rape: 35 years in prison
 
 *2024-06-24 17:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பலாத்காரம்-35-வருடம்-சிறைத்தண்டனை/175-339345) · `ta`
 
-16 வயது சிறுமியை பாலியல் பலாத்காரம் செய்ததாக குற்றம் சாட்டப்பட்ட ஒருவருக்கு 35 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+A man, aged 38, from Moratuwa, has been sentenced to death by the Panadura High Court for alleged child abuse. Additionally, another man faces 35 years in prison for reportedly raping a 16-year-old girl. These cases were brought to court by the Colombo Child and Women's Abuse Bureau.
 
-மொரட்டுவ, லக்ஷபதி, கன்னகர மாவத்தையைச் சேர்ந்த 38 வயதுடைய நபருக்கே இவ்வாறு தண்டனை விதிக்கப்பட்டுள்ளது. பாணந்துறை மேல் நீதிமன்ற நீதிபதி  சமன் குமார, திங்கட்கிழமை (24) தீர்ப்பளித்தார்.
+🟩
 
-2021 ஜனவரி முதல் மார்ச் வரை 16 வயது சிறுமியை பலாத்காரம் செய்த குற்றச்சாட்டில் குற்றம் சாட்டப்பட்டவர் கொழும்பு சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோக தடுப்பு பணியகத்தால் கைது செய்யப்பட்டு மூன்று குற்றச்சாட்டுகளின் கீழ் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதை அடுத்து, சட்டமா அதிபர், மேல் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்தார்.
+A man has been sentenced to 35 years in prison for allegedly raping a 16 -year -old girl.
+
+A 38 -year -old man from Moratuwa, Lakshapati and Chinnaka Mawatha has been sentenced to death. Panadura High Court Judge Saman Kumara ruled on Monday (24).
+
+The Attorney General has filed a case in the Supreme Court after the Colombo Child and Women's Abuse Bureau was arrested by the Child and Women's Abuse Bureau and produced in court under three charges.
 
 ◼️
 
 [Data](articles/d083e00e.json)
+
+[Extended Data](ext_articles/d083e00e.ext.json)
 
 ---
 
@@ -72,17 +102,23 @@ It is reported that further statements will be taken tomorrow (24).
 
 ---
 
-### பல்கலைக்கழகங்களுக்கு விசேட பாதுகாப்பு
+### Special protection to universities
 
 *2024-06-24 17:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களுக்கு-விசேட-பாதுகாப்பு/175-339344) · `ta`
 
-அரச பல்கலைக்கழக விரிவுரையாளர்கள், மாணவர்கள் மற்றும் கல்விசாரா ஊழியர்களின் பாதுகாப்பு மற்றும் பொதுச் சொத்துக்களைப் பாதுகாப்பதற்காக விசேட பாதுகாப்பு நடவடிக்கைகளை உறுதிப்படுத்துமாறு பொது பாதுகாப்பு அமைச்சின் செயலாளரிடம் கல்வி அமைச்சு கோரிக்கை விடுத்துள்ளது.
+The Ministry of Education has asked the Ministry of Public Security to enhance security for state university personnel, including lecturers, students, and non-academic staff, to safeguard their safety and public property. This request follows a letter from Education Minister Susil Premajayantha, emphasizing the need for increased protection within the State University system.
 
-கல்வியமைச்சர் சுசில் பிரேமஜயந்தவின் பணிப்புரைக்கு அமைய கல்வி அமைச்சின் செயலாளர் ஜே.எம்.திலகா ஜயசுந்தர அரச பல்கலைக்கழக அமைப்பின் பாதுகாப்பை உறுதிப்படுத்துமாறு கோரி கடிதமொன்றை, திங்கட்கிழமை (24) அனுப்பிவைத்துள்ளார்.
+🟩
+
+The Ministry of Education has requested the Secretary of the Ministry of Public Security to ensure special security measures to protect the safety and public property of state university lecturers, students and non -academic staff.
+
+Education Minister Susil Premajayantha has issued a letter on Monday (24) demanding that the Ministry of Education JM Tilaka Jayasundara Jayasundara ensure the safety of the State University Organization.
 
 ◼️
 
 [Data](articles/6c3242af.json)
+
+[Extended Data](ext_articles/6c3242af.ext.json)
 
 ---
 
@@ -1496,21 +1532,27 @@ No political party said that. Samagi-forthcoming power, what did the JVP say?Peo
 
 ---
 
-### වාහන ආනයනය : 'අලුතෙන්  පටන් අරන් තියෙනවා පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයනය කරන ක්‍රම'
+### Importation of Vehicles: 'Started is newly after importing vehicles for personal profit
 
 *2024-06-24 12:28:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggg710z7no) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''අපි කියන ක්‍රමයට දුන්නොත් ඩොලර් ඉතුරුයි. බදු ලැබෙනවා. හොඳ වාහනයකුත් ලැබෙනවා.''
+In a recent press conference, Arosh Radreigu discussed the possibility of removing vehicle import restrictions in Sri Lanka, which were initially introduced for personal profit. The move sparked debate over potential tax losses due to reduced revenue from the tourism industry.
 
-වාහන ආනයනය : 'අලුතෙන්  පටන් අරන් තියෙනවා පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයනය කරන ක්‍රම'
+🟩
 
-වාහන ආනයන සීමා ඉවත් කිරීමේ හැකියාව තිබුණ ද පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයන යෝජනා ක්‍රම දියත් ඉරීමේ උත්සහයක් දක්නට ලැබෙන බව ශ්‍රී ලංකා වාහන ආනයනයකරුවන්ගේ සංගමයේ ලේකම් අරෝෂ් රුද්‍රිගු අද (ජුනි 24) කොළඹ පැවති මාධ්‍ය හමුවක දී පැවසුවේය.
+It contains nothing here.Video header, 'If we give us the dollars left. Will be taxed. You get a good vehicle. "
 
-සංචාරක ක්ෂේත්‍රයට වාහන 1000ක් ගෙන්වීමට ලබා දී ඇති කැබිනට් අනුමැතිය ගැන මෙන්ම රජයට බදු අදායම අහිමිවන ලෙස සමාගමකට දී ඇති බව කියන බදු සහන පිළිබඳව මේ මාධ්‍ය හමුවේ දී අදහස් පළ විය.
+Importation of Vehicles: 'Started is newly after importing vehicles for personal profit
+
+Arosh Radreigu was a press conference held in Colombo today (June 24), whether it was possible to eliminate vehicle import boundaries.
+
+The media commented on the tax relief that the cabinet approved by the tourism industry and the government had given a company to lose tax revenue.
 
 ◼️
 
 [Data](articles/1a67d262.json)
+
+[Extended Data](ext_articles/1a67d262.ext.json)
 
 ---
 
@@ -1694,27 +1736,35 @@ The police then compromised the boy and warned the mother and sent the boy to Co
 
 ---
 
-### ශ්‍රී ලංකාවේ ආහාර මිල පාලනය කරන්න 'සක්කරයටවත්' බැරි ද?
+### Is there not even the 'grassed' control over Sri Lanka's food prices?
 
 *2024-06-24 11:47:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn000e2nm45o) · `si`
 
-කොළඹ පමණක් නොව රටේ ප්‍රධාන නගර ආශ්‍රිතව ජීවත් වන බොහෝ දෙනෙකු තම දෛනික ආහාර අවශ්‍යතාව සපුරා ගැනීමට යොමු වන්නේ ‘කඩ කෑම’ වෙත ය.
+Sri Lanka faces significant challenges with food pricing, especially in major cities like Colombo. High costs and limited facilities force many to spend a substantial portion of their wages on food, often leading to malnutrition despite increased spending. Inflation exacerbates the issue, with prices rising faster than wages. Despite government efforts to stabilize the economy, consumers struggle to afford adequate nutrition. Informal sectors like hotels see minimal wage increases, contributing to the problem. Quality and affordability issues persist, with some resorting to cheaper, less nutritious options. Online food ordering platforms add to the burden with high service charges. Economists suggest regulating food prices is challenging due to the nature of food consumption and the variety of products available. However, some praise small shops for maintaining quality. The situation highlights the need for effective regulation and consumer protection measures.
 
-ඒ, බොහෝ විට ඔවුන්ට තම ආහාර සකසා ගැනීමට පහසුකම් නොමැති වීම හේතුවෙනි.
+🟩
 
-එබැවින් තම මාසික වේතනයෙන් වැඩි කොටසක් ඔවුන්ට ආහාර සඳහා වැය කිරීමට සිදුව ඇත. එම පිරිවැය සාමාන්‍යයෙන් නිවසක ආහාර වේලක් සකස් කර ගැනීමේ පිරිවැයට සාපේක්ෂව ඉහළ බව ඔවුන්ගේ අදහසයි.
+Not only but in Colombo but also in the main cities of the country is to 'snack' to meet their daily diet.
 
-නමුත් වසර කිහිපයක සිට රට තුළ නිර්මාණය වී ඇති අර්බුදකාරී තත්ත්වය හේතුවෙන් තම ආහාර අවශ්‍යතාව සඳහා වැය කරන මුදල දරාගත නොහැකි තත්ත්වයකට පත්ව ඇතැයි ඔවුහු පවසති.
+It is often because they have no facilities to set their food.
 
-ඔවුන් පෙන්වා දෙන්නේ, පාරිභෝගිකයින් ලෙස වැඩි මුදලක් වැය කළ ද ගුණාත්මක සහ ප්‍රමාණවත් ආහාර වේලක් සපයා ගැනීම අසීරු කාර්යයක් වී ඇති බව ය.
+So most of their monthly wage has had to spend on foods. They are generally the point that the cost is usually higher than the cost of preparation of a diet.
 
-රටේ ආර්ථිකය ප්‍රකෘතිමත් කිරීමේ අරමුණින් රජය විවිධ පියවර ගත්ත ද ඔවුන්ගේ ජීවන අර්බුදය සඳහා මෙතෙක් දැනෙන පිළිතුරක් ලැබී නොමැති බවට ඔවුහු මැසිවිලි නගති.
+However, due to the crisis in the country, the cost of the crisis is in a state of money has been unable to afford it is impossible.
 
-ඔවුන් පෙන්වා දෙන්නේ, ‘කඩ කෑම’ අධික මිල ගණන් යටතේ අලෙවි වීම හේතුවෙන් ‘මූලික අවශ්‍යතාවක් ලෙස ආහාර ගැනීමට ඇති තම අයිතිය පවා අහිමි වී ගොස් ඇති’ බව ය.
+They point out that the quality and sufficient meal has become a difficult task, even as customers have spent more money.
+
+They complain that the government has taken various steps to recover the economy of the country, but they have not received any answer to their living crisis.
+
+They point out that 'the sword is' that has lost even the right to eat as a basic need as a basic need.'
+
+Accordingly, BBC was looking for whether the authorities are unable to regulate foods in general, which is in general, which is sold as hotels and restaurants.
 
 ...
 
 [Data](articles/b046729b.json)
+
+[Extended Data](ext_articles/b046729b.ext.json)
 
 ---
 
@@ -2323,33 +2373,5 @@ The company said a disclosure will be made when discussions result in ‘some fo
 [Data](articles/def98b78.json)
 
 [Extended Data](ext_articles/def98b78.ext.json)
-
----
-
-### This week's action against Fonseka - there is nothing against Rajitha - United People's Power
-
-*2024-06-24 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186799) · `ta`
-
-The United People's Power party plans to take action against Sarath Fonseka this week for not aligning with its policies. However, no action will be taken against Rajitha Senaratne, who hasn't criticized the party leadership as harshly as Fonseka has.
-
-🟩
-
-The party's general secretary Ranjithmathumabandara has said that the party will take action this week against Sarath Fonseka, a former Member of Parliament and United People's Power Member of Parliament.
-
-He said the party's executive committee would take up to investigate what action would be taken against Sarath Fonseka.
-
-Ranjithmathumapandara has said that Sarath Fonseka is not actively acting in accordance with the policies of the party beyond his positions in the party.
-
-Ranjithmathumapandara said that we should be able to work with the party leader as long as he is in the party, and we are ready to take action against him and what action will be taken against him this week.
-
-Responding to a question of praising the president, Rajitha Senaratne, Ranjithmathumabandara said he would not take action against him.
-
-Ranjithmathupandara has said that Rajitha Senaratne has not severely criticized the leader of the United People's Power like Sarath Fonseka.
-
-◼️
-
-[Data](articles/16c3aa50.json)
-
-[Extended Data](ext_articles/16c3aa50.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 11:04:57**
+As of **2024-06-24 11:19:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,811 (100.0%) of 31,817 articles have been extended.
+31,817 (100.0%) of 31,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ MP Waleboda stated that several rounds of diplomatic talks are scheduled to take
 
 [Data](articles/61774c22.json)
 
+[Extended Data](ext_articles/61774c22.ext.json)
+
 ---
 
-### பொன்சேகாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை
+### Disciplinary action against Fonseka
 
 *2024-06-24 10:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-339310) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின்  (SJB) தவிசாளர் சரத் பொன்சேகாவுக்கு எதிராக இந்த வாரம் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என கட்சியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+Disciplinary action against Sarath Fonseka, chairman of the United People's Power (SJB), will be decided this week by the party's executive committee, as announced by General Secretary Ranjith Mathuma Bandara.
 
-பொன்சேகாவுக்கு எதிரான நடவடிக்கை குறித்து தீர்மானிக்க கட்சியின் செயற்குழு இந்த வாரம் கூடும் என மத்தும பண்டார தெரிவித்தார்.
+🟩
+
+The party's general secretary Ranjith Mathuma Bandara has said that disciplinary action will be taken this week against the United People's Power (SJB) Chairman Sarath Fonseka.
+
+Mathuma Bandara said the party's executive committee would meet this week to decide on Fonseka.
 
 ◼️
 
 [Data](articles/0f864c0f.json)
+
+[Extended Data](ext_articles/0f864c0f.ext.json)
 
 ---
 
@@ -228,37 +236,49 @@ It is also worth noting that journalists have not been allowed to display the ne
 
 ---
 
-### கிளிநொச்சியில்  கருச்சிதைவுகள்
+### Miscarriage in Kilinochchi
 
 *2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கருச்சிதைவுகள்/72-339304) · `ta`
 
-கிளிநொச்சியில் உள்ள தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் நேற்று இரவு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A miscarriage occurred last night at a private garment factory in Kilinochchi's science city area. Police were notified but journalists are barred from reporting on the incident within the company grounds.
 
-கிளிநொச்சி அறிவியல் நகர் பகுதியில் அமைந்துள்ள ஆடைத்தொழிற்சாலை ஒன்றில் இவ்வாறு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதையடுத்து பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+🟩
 
-தனியார் நிறுவன வளாகத்தில் குறித்த செய்தியை காட்சிப்படுத்த ஊடகவியலாளர்களுக்கு அனுமதி வழங்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது. R
+Police say that miscarriage was identified last night at a private garment factory in Kilinochchi.
+
+The police have been informed that the miscarriage was identified at a garment factory located in the Kilinochchi science city area.
+
+It is also worth noting that journalists have not been allowed to display the news on the private company premises. Remble
 
 ◼️
 
 [Data](articles/e7c8a2ef.json)
 
+[Extended Data](ext_articles/e7c8a2ef.ext.json)
+
 ---
 
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+### An announcement of the weather
 
 *2024-06-24 09:07:09* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-410388) · `si`
 
-තද සුළං සහ රළු මුහුද පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් අද පෙරවරුවේ නිකුත් කළේය.
+The Department of Meteorology warns of rough seas in several coastal regions, including Trincomalee, Puttalam, Chilaw, and Hambantota, with waves reaching heights of 2.0m to 2.5m. It advises caution for fishing communities and the public until 7 am tomorrow.
 
-කාලගුණ විද්‍යා දෙපාර්මේන්තුවේ ස්වභාවික විපත් පිළිබඳ පූර්ව අනුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් නිකුත් කල මෙම නිවේදනය හෙට පෙරවරු 7.00 තෙක් වලංගු වෙයි.
+🟩
 
-එම නිවේදනයට අනුව ත්‍රිකුණාමලය සිට කන්තකසන්තුරය සහ පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. (60-65) දක්වා වැඩි වන බවත් එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බවත් සඳහන් වෙයි.වේගය විටින් විට පැ.කි.මී. (50-55) දක්වා වැඩි වන අතර එමමුහුදු ප්‍රදේශ විටින්ත විට රළු වන බවද පවසයි.
+The Department of Meteorology was released this morning by the Department of Meteorology.
 
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් (2.0 – 2.5) ක් පමණ ඉහළ යාදම් හැකියාවක් පවතී. (මෙය ගොඩබිමට පැමිණෙන රළ නොවේ) දම් පිළිබඳ සිය අවධානය යොමුකර කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටින  බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+The announcement of the natural disasters of the Department of Meteorology Department will be valid until 7am tomorrow.
+
+According to the statement from the Trincomalee and Puttalam to Chilaw to Chilaw and Puttalam to Chilaw and Hambantota to the coast extending from the coast extending from the beach.. (60-65) says that the sea areas will be very rough at times.. (50-55) increases to (50-55) and are rough at the titles of titles.
+
+Sea in areas of sea areas off the coast extending from Kalpitiya to Colombo, Galle and Hambantota there is a high yield of highway (2.0m 2.5). The Fisheries and Navy Community has requested the fisheries and the community to pay attention to the land.
 
 ◼️
 
 [Data](articles/6c9a29b8.json)
+
+[Extended Data](ext_articles/6c9a29b8.ext.json)
 
 ---
 

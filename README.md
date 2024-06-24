@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 13:54:14**
+As of **2024-06-24 14:06:27**
 
 ## Newspaper Stats
 
-*Scraped **31,851** Articles*
+*Scraped **31,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,143 @@ islandlk | 1,770
 economynextcom | 1,834
 dailyftlk | 1,942
 adalk | 2,796
-adaderanalk | 3,618
-tamilmirrorlk | 3,750
+adaderanalk | 3,619
+tamilmirrorlk | 3,753
 dailymirrorlk | 4,733
 virakesarilk | 4,931
-adaderanasinhalalk | 5,214
+adaderanasinhalalk | 5,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,847 (100.0%) of 31,851 articles have been extended.
+31,851 (100.0%) of 31,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ශ්‍රී ලංකා කාන්තා පිලට කඩුලු 4ක ජයක්
+### கணவருடன் உடலுறவு: கப்பம் கோரிய மனைவி கைது
+
+*2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-கப்பம்-கோரிய-மனைவி-கைது/175-339326) · `ta`
+
+தனது கணவருடன் உறவு கொண்ட பெண்ணிடம் ஐம்பது இலட்சம் ரூபா கப்பம் கோரி, அந்த நபரின் மனைவி கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த உடலுறவுக் காட்சிகளின் காணொளிகளை இணையத்தில் வெளியிடப் போவதாக அச்சுறுத்திய குற்றச்சாட்டில் ஓய்வுபெற்ற பெண் பொலிஸ் கான்ஸ்டபிளே லிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோகத் தடுப்புப் பணியகத்தினால் கைது செய்யப்பட்டுள்ளார்.
+
+இந்தக் குற்றத்துக்கு உதவியதாக சந்தேகிக்கப்படும் அமைச்சர் பாதுகாப்புப் பிரிவில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிளும் கைது செய்யப்பட்டுள்ளார்.
+
+அமைச்சரின் பாதுகாப்புப் பிரிவின் பொலிஸ் கான்ஸ்டபிள் பன்னிப்பிட்டிய தெபானம பகுதியைச் சேர்ந்த பெண்ணொருவருடன் தொடர்பு வைத்திருந்துள்ளார்.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
+
+இருவரும் உடலுறவில் ஈடுபடும்போது, அதனை பொலிஸ் கான்ஸ்டபிள் தனது அலைதொலைபேசியில் பதிவு செய்துள்ளார்.
+
+இந்நிலையில், கணவரின் அலைபேசியில் காணப்பட்ட வீடியோக்களை தனது கணவருடன் உடலுறவு கொண்ட பெண்ணிடம் காட்டி, இவற்றை இணையத்தில் வெளியிடாமல் இருக்கவேண்டுமாயின் ஐம்பது லட்சம் ரூபாவை தனக்கு கப்பமாக தருமாறு ​அப்பெண் மிரட்டியுள்ளார்.
+
+...
+
+[Data](articles/cfedb286.json)
+
+---
+
+### Saudi says 1,301 deaths during Hajj were mostly unregistered pilgrims
+
+*2024-06-24 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100064/saudi-says-1301-deaths-during-hajj-were-mostly-unregistered-pilgrims) · `en`
+
+More than 1,300 faithful died during the Hajj pilgrimage, which took place amid intense heat, and most of the deceased did not have official permits, Saudi Arabia said on Sunday.
+
+“Regrettably, the number of mortalities reached 1,301, with 83% being unauthorized to perform Hajj and having walked long distances under direct sunlight, without adequate shelter or comfort,” the official Saudi Press Agency reported.
+
+Based on official statements and reports from diplomats involved in their countries’ responses, an AFP tally last week put the toll at more than 1,100.
+
+The dead came from more than 10 countries stretching from the United States to Indonesia, and some governments are continuing to update their totals.
+
+Arab diplomats said last week that Egyptians accounted for 658 deaths — 630 of them unregistered pilgrims.
+
+The diplomats said the cause of death in most cases was heat-related.
+
+...
+
+[Data](articles/08cf5da3.json)
+
+---
+
+### LPL ටිකට් විකිණීම ඇරඹෙයි
+
+*2024-06-24 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198090) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලිය ජූලි 01 වනදා ආරම්භ වෙයි. එහි පළමු තරගය නුවර සහ දඹුල්ල අතර පැවැත්වෙයි.
+
+මේ අතර නුවර පැවැත්වෙන තරග සඳහා ප්‍රවේශපත්‍ර අලෙවිය අද (24) දහවල් 3සිට අරඹන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+
+◼️
+
+[Data](articles/de4c67a7.json)
+
+---
+
+### Sri Lanka women win by 4 wickets
 
 *2024-06-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198089) · `si`
 
-බටහිර ඉන්දීය කොදෙව් කාන්තා පිල සහ ශ්‍රී ලංකා කාන්තා පිල අතර අද (24) පැවැති පළමු T20 තරගයෙන් කඩුලු 4ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකාව සමත් විය.
+In the inaugural T20 match, Sri Lanka's women team secured a victory by 4 wickets over the West Indies women's team.
+
+🟩
+
+Sri Lanka won the first T20 from the first T20 match between the West Indies women and Sri Lanka women today.
 
 ◼️
 
 [Data](articles/f34bc536.json)
 
+[Extended Data](ext_articles/f34bc536.ext.json)
+
 ---
 
-### පොසොන් තොරන් නරඹා එද්දි  නිවසම ගිනිබත් වෙලා
+### காய்ச்சலுக்கு மருந்தெடுத்த பெண் உயிரிழப்பு
+
+*2024-06-24 13:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலுக்கு-மருந்தெடுத்த-பெண்-உயிரிழப்பு/71-339325) · `ta`
+
+காய்ச்சலுக்கு சிகிச்சை பெற்று , மருந்தை உட்கொண்ட பெண் ஒருவர் உயிரிழந்த சம்பவம் ஞாயிற்றுக்கிழமை (23) இடம்பெற்றுள்ளது .
+
+யாழ்ப்பாணம் , சாவற்காட்டு பகுதியை சேர்ந்த 63 வயதுடைய விஜயகுமார் குணராணி என்ற பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்
+
+குறித்த பெண்ணுக்கு கடந்த 20ஆம் திகதி ஏற்பட்ட திடீர் காய்ச்சல் காரணமாக , 22ஆம் திகதி யாழ்.போதனா வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்று , மருந்தினை பெற்றுக்கொண்டு வீடு திரும்பியுள்ளார்.
+
+பெற்றுக்கொண்ட மருந்தை உட்கொண்ட பின்னர்,ஞாயிற்றுக்கிழமை (23) அன்று குறித்த பெண்ணின் உடல் நிலை மிக மோசமாகி மூச்சுவிட சிரமப்பட்ட நிலையில் , யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார் .
+
+குறித்த பெண்ணின் உடற்கூற்று பரிசோதனைகள் யாழ்.போதனா வைத்தியசாலையில் மேற்கொள்ளப்பட்டு, மேலதிக பரிசோதனை நடவடிக்கைக்காக மாதிரிகள் கொழும்புக்கு அனுப்பி வைக்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/cc9958fe.json)
+
+---
+
+### The home has set fire on Posonless MPs
 
 *2024-06-24 13:23:40* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-තොරන්-නරඹා-එද්දි--නිවසම-ගිනිබත්-වෙලා/11-410398) · `si`
 
-බේරුවල, පින්හේන ජනපදයේ අසරණ පවුලක් පදිංචිව සිටී නිවසක  ඊයේ (23) රාත්‍රි හටගත් ගින්නකින් එම නිවස මුළුමනින්ම ගිනිගෙන අලුවී තිබේ.
+A tragic fire engulfed a house in Beruwala on July 23, killing MDK Kasun Kumara, his wife Dilmi Madurangi, and their four-year-old child. The blaze, suspected to have started near a Buddha statue known for daily oil lamps, also destroyed their belongings and a small bicycle. Neighbors reported the fire during the Poson Festival celebrations, highlighting the devastating impact of the tragedy.
 
-කොස් කඩා පාපැදියෙන් නිවෙස් වලට ගොස් අලෙවි කරන එම්.ඩී කසුන් කුමාර, ඔහුගේ බිරිඳ වන දිල්මි මධුරංගි සහ අවුරුදු හතරහමාරක් වයසැති  ජනිදු රෂ්මික පුතු සමග ජිවත්වන නිවස මෙසේ ගිනිගෙන තිබේ.
+🟩
 
-අසල්වාසින් සමග බේරුවල හා අවට ප්‍රදේශවල පොසොන් උත්සවය නිමිත්තෙන් ඉදිකොට ඇති තොරණ නරඹා නිවසට පැමිණෙන අතරවාරයේදී නිවස ගිනිගෙන ඇති බව සදහන් වේ.
+The house has been completely burning in a house yesterday (23), a residential in Beruwala yesterday (23).
 
-ගින්නෙන් ඔවුන්ගේ ඇදුම් පැලදුම්, ගෘහ උපකරන සහ පුංචි පුතුගේ පෙර පාසල් නිළ ඇදුම් සහ පොත්පත් මෙන්ම විනෝදයට පදින කුඩා පාපැදිය අලුවී තිබෙන අයුරු දැකගත හැකිවිය.
+MDK Kasun Kumara, his wife, Dilmi Madurangi and four-and a half years old, has been burning.
 
-දිනපතාම බුදුන් වහන්සේට පහනක් පත්තු කිරීම පුරුද්දක් ලෙස සිදුකරන බවත් එයින් ගින්න පැතිරෙන්නට ඇති බවට සැකපලකරන බවත් පැවසේ.
+It is said that the house is burning at the vicinity of the Poson Festival, Beruwala and surrounding areas with neighbors.
 
-උප්පැන්න සහතිකයේ පටන් සියලු දැ ගින්නට හසුවි අලුවී ඇදිවත පමණක් ඉතිරිව ඇති ඔවුන්ට උපකාරයක් වන්නට කැමති පරිත්‍යාග ශීලින්ගේ අවධානය සදහා කසුන්ගේ  ජංගම දුරකථනය සටහන් කරමි. 076 5788178
+Fire has found their clothes, housewives, housewives and small son, and a small bicycle filled with fun.
+
+It is said that the Buddha is a habit of blowing daily and suspicions that it may have spread.
+
+Donations will not be able to focus on the focus of the burden of the fire from the birth certificate since the birth certificate. 076 5788178888
 
 ◼️
 
 [Data](articles/0a7a9658.json)
+
+[Extended Data](ext_articles/0a7a9658.ext.json)
 
 ---
 
@@ -81,6 +171,8 @@ He also mentioned that, as part of the long-term plan for the economic revival o
 ◼️
 
 [Data](articles/ef07876a.json)
+
+[Extended Data](ext_articles/ef07876a.ext.json)
 
 ---
 
@@ -154,17 +246,23 @@ The interim injunction was issued when the petition was filed by Mundiku Saracha
 
 ---
 
-### දාහත්හැවිරිදි තරුණියක් අතුරුදහන්
+### A fourteen-year-old girl missing
 
 *2024-06-24 12:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දාහත්හැවිරිදි-තරුණියක්-අතුරුදහන්/11-410394) · `si`
 
-කරාඩුගල පොලිස් වසමට අයත් පිටඹුර අලුත්වලව්ව පදිංචි දාහත්හැවිරිදි තරුණියක් ඊයේ (23) වෙනිදා සිට අතුරුදහන්වී ඇතැයි කරාඩුගල පොලීසිය පවසයි.
+A fourteen-year-old girl went missing from the Pakurawa Police Division, last seen leaving home to collect her salary. A thousand-year-old woman also vanished from the same area. Both cases are under investigation by the Karangala Police Division.
 
-ඊයේ උදෑසන ඇය සේවයකරන වෙළෙඳසැලෙන් ඇගේ වැටුප් ලබාගැනීමට යන බව පවසමින් ලිපියක් ලියා තබා නිවසෙන් පිටව ගොස් ඇතත් ආපසු පැමිණ නැත. සිද්ධිය පිළිබඳව කරාඩුගල පොලීසිය පරීක්ෂණ පවත්වයි.
+🟩
+
+A thousand-year-old woman living in the Pakurawa Police Division of the Karangala Police Division has reportedly disappeared from yesterday (23).
+
+He was written by her series yesterday and left the house, saying that her salaries were going to get her wages, but has not returned. The Karaadagala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/531a1f23.json)
+
+[Extended Data](ext_articles/531a1f23.ext.json)
 
 ---
 
@@ -267,6 +365,26 @@ Dr. Dr. Kamani Ranatunga, Director General of the Department of Agriculture, Dr.
 [Data](articles/2ae3cdc3.json)
 
 [Extended Data](ext_articles/2ae3cdc3.ext.json)
+
+---
+
+### தாய் சித்திரவதை:   சிறுவன்  தஞ்சம்
+
+*2024-06-24 11:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தாய்-சித்திரவதை-சிறுவன்-தஞ்சம்/71-339318) · `ta`
+
+கொழும்பில் இருந்து யாழ்ப்பாணம் வந்து, பொலிஸ் நிலையத்தில் தஞ்சமடைந்த சிறுவன் மீள அவனது தாயாரிடம் ஒப்படைக்கப்பட்டுள்ளான்.
+
+கொழும்பில் இருந்து யாழ்ப்பாணம் வந்த சிறுவன் ஒருவன் , தனது தாய் மற்றும் தாயின் இரண்டாவது கணவர் தன்னை அடித்து சித்திரவதை செய்வதாக தெரிவித்து யாழ்ப்பாண பொலிஸ் நிலையத்தில் தஞ்சமடைந்திருந்தான்.
+
+சிறுவன் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார், குறித்த சிறுவன் வடஇந்தியாவை சேர்ந்தவன் எனவும், அவனது தாய் கொழும்பில் கஸீனோவில் வேலை செய்வதாகவும், இங்கு இலங்கையை சேர்ந்த நபருடன் தங்கி இருப்பதும் தெரியவந்துள்ளது.
+
+இதற்கமைய, சிறுவன் மன்னார் சென்று அங்கிருந்து கடல் வழியாக இந்தியா செல்வதற்கு திட்டமிட்டு, கொழும்பில் இருந்து வெளியேறி மன்னார் பேருந்தில் ஏறுவதற்கு பதிலாக யாழ்ப்பாணம் செல்லும் பேருந்தில் ஏறியமையால், யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+
+யாழ்ப்பாணம் வந்த சிறுவனுக்கு எங்கே செல்வது என தெரியாததால் , பொலிஸ் நிலையத்தில் தஞ்சமடைந்துள்ளான்.
+
+...
+
+[Data](articles/30347f35.json)
 
 ---
 
@@ -2137,125 +2255,5 @@ However, she emphasized that the life survival program of the country has furthe
 [Data](articles/46dc3923.json)
 
 [Extended Data](ext_articles/46dc3923.ext.json)
-
----
-
-### Jayasumana slams AKD over ‘misleading comments’ on chronic kidney disease
-
-*2024-06-23 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100052/jayasumana-slams-akd-over-misleading-comments-on-chronic-kidney-disease) · `en`
-
-Prof. Channa Jayasumana says that the recent statement made by leader of the National People’s Power (NPP) Anura Kumara Dissanayake regarding the chronic kidney disease spreading associated with agricultural communities in Anuradhapura and Polonnaruwa districts is completely false.
-
-The Parliamentarian, who was a researcher on epidemic kidney disease in agricultural communities in Sri Lanka, alleged that research has already confirmed the cause of kidney disease in these areas.
-
-“There is nothing new to discover about this, nor any new treatment to be found. We have been conducting research on the matter for 15 years, and all the facts have been revealed”, he said.
-
-“Two main causes have been identified for this kidney disease: one is the impact of certain types of agrochemicals, and the other is long-term dehydration.”
-
-...
-
-[Data](articles/7034bcd2.json)
-
-[Extended Data](ext_articles/7034bcd2.ext.json)
-
----
-
-### New Deputy Governors appointed to Central Bank
-
-*2024-06-23 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100051/new-deputy-governors-appointed-to-central-bank) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has appointed two new Deputy Governors with effect from this week.
-
-Accordingly, Assistant Governor and Secretary to the Governing Board A. A. M. Thassim and Assistant Governor J. P. R. Karunaratne have been appointed as Deputy Governors of the CBSL with effect from June 20 and June 24, respectively.
-
-In a statement, the CBSL stated that the new appointments were made by the Minister of Finance as recommended by the CBSL Governing Board in terms of the provisions in the Central Bank of Sri Lanka Act, No. 16 of 2023.
-
-Mr. A.A.M. Thassim has over 31 years of service at the CBSL in different capacities in the areas of Supervision and Regulation of Banking Institutions, International Operations, Communication, Payments and Settlements, Employees Provident Fund, Finance, Risk Management, Deposit Insurance, Security Services and Information Technology.
-
-...
-
-[Data](articles/803f0e58.json)
-
-[Extended Data](ext_articles/803f0e58.ext.json)
-
----
-
-### What are the first teams that go to the R20 World Cup semi -final?Today and tomorrow
-
-*2024-06-23 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186789) · `ta`
-
-The R20 World Cup semi-finalists will be determined by the outcomes of today's and tomorrow's Super 8 matches. The United States faces the UK, and if they win, they'll compete alongside either England or South Africa, depending on their performance against the West Indies, for a spot in the semi-finals. If the West Indies beat the United States, both they and South Africa will automatically qualify. England needs to win today to secure a semi-final berth, facing a three-way rivalry with the US and South Africa if they do.
-
-🟩
-
-The Super 8 matches for the team will be held today and tomorrow for the team that determines the first teams that will go to the semi -finals of the United States and the West Indies.
-
-The United States will oppose the current champion UK at the Barjdown Kensington Oval Stadium, Barjdown.
-
-Meanwhile, South Africa (4 points), former champion and another reception, will be played tomorrow morning at the North Sound Sound Vivian Richards Stadium.
-
-If England wins in today's match, there will be a rivalry between the 3 teams to win the semi -final.
-
-If the United States wins, South Africa will qualify for the semi -finals.
-
-If the West Indies win the United States winning tomorrow, South Africa and the West Indies will qualify for the semi -finals without any competition.
-
-In today's match, England and the West Indies win in tomorrow's match will advance to the semi -finals.
-
-If South Africa wins tomorrow's match, South Africa and South Africa will advance to the semi -finals.
-
-...
-
-[Data](articles/e2db0605.json)
-
-[Extended Data](ext_articles/e2db0605.ext.json)
-
----
-
-### President calls race on Wednesday
-
-*2024-06-23 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198067) · `si`
-
-President Ranil Wickremesinghe plans to address the nation on October 26th, focusing on the economy and foreign loan restructuring. This announcement aims to provide relief to the citizens.
-
-🟩
-
-President Ranil Wickremesinghe is due to call the nation on the 26th.
-
-It is reported that the President is to educate the public on the progress of the current economic situation and the restructuring of foreign loans.
-
-According to the National Secretary Ravi Karunanayake, the people of this country will have many relief along with the President's statement.
-
-◼️
-
-[Data](articles/1ce61bf9.json)
-
-[Extended Data](ext_articles/1ce61bf9.ext.json)
-
----
-
-### Paragahadeniya says about politics at National School
-
-*2024-06-23 18:49:26* · [`adalk`](https://www.ada.lk/breaking_news/පරගහදෙනිය-ජාතික-පාසලේදී-සජිත්-ඩීල්-දේශපාලනය-ගැන-කියයි/11-410387) · `si`
-
-Sajith Premadasa criticized deal politicians for betraying voters' trust during a speech at the Keymal Program ceremony in Kurunegala, Mawathagama, and Paragahadeniya National Schools. He warned of a culture of betrayal affecting the nation's youth, promising transparency and accountability in governance.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that Deal politicians who betrayed the soul of the people who voted are present and the people will be seen in the future.
-
-He was speaking at a ceremony of the Keymal Program to the National School to Kurunegala, Mawathagama and Paragahadeniya National School.
-
-Opposition Leader Sajith Premadasa said so.
-
-"All groups of these groups are duled. There is a culture of a great betrayal culture that betray the soul to the vote by the people and the vote. Not shy. Forgot the journey. Forgot where. There are a number of gang politicians, deale politicians who have been sold to these children and destroy these children in the country, and destroy these children and destroy their children in the country.. You'll be watching good deals in the future.
-
-I believe everyone is eagerly waiting for the souls of the mother, and captivates 22,000 lakhs of the country for retail, and 2200 lakhs of proposals this year. "
-
-◼️
-
-[Data](articles/ec9981c1.json)
-
-[Extended Data](ext_articles/ec9981c1.ext.json)
 
 ---

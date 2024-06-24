@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 16:52:33**
+As of **2024-06-24 17:04:40**
 
 ## Newspaper Stats
 
-*Scraped **31,904** Articles*
+*Scraped **31,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,800
-adaderanalk | 3,626
-tamilmirrorlk | 3,759
+adaderanalk | 3,627
+tamilmirrorlk | 3,760
 dailymirrorlk | 4,733
 virakesarilk | 4,943
 adaderanasinhalalk | 5,224
@@ -26,33 +26,63 @@ adaderanasinhalalk | 5,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,890 (100.0%) of 31,904 articles have been extended.
+31,904 (100.0%) of 31,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ජනපති 26 වනදා ජාතිය අමතයි
+### SLFP leadership issue will be solved after winning Presidential Election - Wijeyadasa
+
+*2024-06-24 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100072/slfp-leadership-issue-will-be-solved-after-winning-presidential-election-wijeyadasa) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe states that the leadership issue of the Sri Lanka Freedom Party (SLFP) will be resolved after he wins the Presidential Election.
+
+Speaking to the media in Kandy, Minister Rajapakshe expressed that all the court cases against him will automatically be dismissed as per the Constitution, once he becomes the President.
+
+In response to a question raised by a journalist regarding the upcoming Presidential Election, the Minister said: “Yes, I will run for the presidency, and I will win. After that, all the court cases against me will automatically be dismissed as per the Constitution. Then, there will be no issues pertaining to the party’s leadership.”
+
+Commenting further, he expressed that he will contest for the upcoming Presidential Election under a new symbol.
+
+...
+
+[Data](articles/a08fe231.json)
+
+---
+
+### President addresses race on 26th
 
 *2024-06-24 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198099) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ජුනි 26 වනදා රාත්‍රී 8ට ජාතිය අමතමින් විශේෂ ප්‍රකාශය සිදුකිරීමට නියමිත බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පවසයි.
+President Ranil Wickremesinghe will speak about race issues at the Nation 26 event on June 26.
+
+🟩
+
+President Ranil Wickremesinghe is scheduled to address the race at the Nation 26 at the Nation on June 26 at the nation.
 
 ◼️
 
 [Data](articles/5a50f4ed.json)
 
+[Extended Data](ext_articles/5a50f4ed.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අවට පොලිස් ආරක්ෂාවක්
+### Police protection surrounding universities
 
 *2024-06-24 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198098) · `si`
 
-අධ්‍යාපන අමාත්‍යාංශ්‍ය දැනුම්දෙන්නේ රාජ්‍ය විශ්වවිද්‍යාල කාර්යමණ්ඩලවල හා සිසුන්ගේ ආරක්ෂාව සඳහා එම පියවර ගත් බවය.
+The Ministry acknowledges the need for enhanced police protection around universities to ensure the safety of both staff and students.
+
+🟩
+
+The Ministry is aware of the security of state university staff and students.
 
 ◼️
 
 [Data](articles/7552c3b8.json)
+
+[Extended Data](ext_articles/7552c3b8.ext.json)
 
 ---
 
@@ -72,19 +102,27 @@ Meanwhile, the national secretary of the United National Party (UNP), Ravi Karun
 
 [Data](articles/f355a342.json)
 
+[Extended Data](ext_articles/f355a342.ext.json)
+
 ---
 
-### இராஜினாமா செய்வேன்: ஹரின் அதிரடி
+### Will resign: Harin Action
 
 *2024-06-24 16:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜினாமா-செய்வேன்-ஹரின்-அதிரடி/175-339338) · `ta`
 
-விளையாட்டுத்துறை அமைச்சு பதவியை இராஜினாமா செய்வேன் என அமைச்சர் ஹரின் பெர்னாண்டோ அறிவித்துள்ளார்.
+Harin Fernando, Sri Lanka's Sports Minister, announced his resignation due to allegations surrounding the national cricket team during the T20 World Cup.
 
-T20 உலகக் கிண்ணத்திற்குச் சென்ற இலங்கை கிரிக்கெட் அணி மீதான குற்றச்சாட்டுகள் நிரூபிக்கப்பட்டால் அமைச்சர் பதவியை இராஜினாமா செய்வேன் என்கிறார்.
+🟩
+
+Minister Harin Fernando has announced that he will resign from the post of Sports Ministry.
+
+If the allegations against the Sri Lankan cricket team went to the T20 World Cup, he would resign from the post of Minister.
 
 ◼️
 
 [Data](articles/1760e724.json)
+
+[Extended Data](ext_articles/1760e724.ext.json)
 
 ---
 
@@ -97,6 +135,8 @@ The Education Ministry Secretary has requested the Defence Secretary to ensure t
 ◼️
 
 [Data](articles/e823fdda.json)
+
+[Extended Data](ext_articles/e823fdda.ext.json)
 
 ---
 
@@ -114,79 +154,109 @@ Hanwella Police have filed charges against the suspects, including rape, forcibl
 
 [Data](articles/727cc3bb.json)
 
+[Extended Data](ext_articles/727cc3bb.ext.json)
+
 ---
 
-### බැකෝ යන්ත්‍රයක් රියදුරු සමග පෙරළෙයි
+### Backhoe rolls with driver
 
 *2024-06-24 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198097) · `si`
 
-බැකෝ යන්ත්‍රයක් පෙරළීමෙන් සිදුවූ අනතුරකින් බැකෝ යන්ත්‍රයේ රියදුරු බරපතළ තුවාල ලබා රෝහල්ගත කර තිබේ.
+A backhoe driver was seriously injured in an accident near Balangodama Mount Balangoda yesterday. The incident happened while transporting the backhoe down a mountain path; it slipped from the lorry, leading to the accident.
 
-ඊයේ (23) පස්වරුවේ බලංගොඩ මැද්දේ කන්ද ප්‍රදේශයේදී එම අනතුර සිදුවී ඇත.
+🟩
 
-අදාළ බැකෝ යන්ත්‍රය ලොරියකට පටවා පිටත් වූ අවස්ථාවේ කන්දක් සහිත මාර්ගයක ලොරිය පසූ පස්සට ධාවනය වී තිබුණි.
+The driver of the backhoes has been seriously injured in accidents that rolling a backhoe machine.
 
-එහිදී ලොරි රථයට පටවා තිබූ බැකෝ යන්ත්‍රය රියදුරු සමග ලිස්සා ගොස් පෙරළී එම අනතුර සිදුවී ඇත.
+The accident occurred at the Balangodama Mount Balangoda yesterday.
+
+The lorry had been driven over a mountain path when the backhouse was loaded into a lorry.
+
+The backhouse was slipped with the driver, which was loaded into the lorry, and the accident had occurred.
 
 ◼️
 
 [Data](articles/53943e89.json)
 
+[Extended Data](ext_articles/53943e89.ext.json)
+
 ---
 
-### வடக்கு, கிழக்கிலுள்ள இந்து ஆலயங்களில் சைவமக்கள் சுதந்திரமாக வழிபாடு செய்வதை உறுதிப்படுத்துங்கள் - அமைச்சர் விதுரவிடம் நல்லை ஆதீனம் கேரிக்கை
+### Make sure the vegetarians worship freely in Hindu temples in the North and East - Minister Vidura
 
 *2024-06-24 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186825) · `ta`
 
-நல்லை ஆதீனத்துக்கு வருகை தந்த புத்தசாசன மத மற்றும் கலாசார விவகாரங்களுக்கான அமைச்சர் விதுர விக்கிரமநாயக்காவிடம் சைவமக்கள் சுதந்திரமாக குருந்தூர்மலை மற்றும் வெடுக்குநாறி சிவன் ஆலயங்களில் வழிபாடு செய்ய ஏற்பாடு செய்யவேண்டும் என வேண்டுதல் விடப்பட்டதுடன், திருக்கோணேமலை திருக்கோணேஸ்வரம் ஆலயம் அருகே பாதை இருமருங்கிலும் அமைக்கப்பட்டுள்ள பெட்டிக்கடைகளை அப்புறப்படுத்தி புனித தலத்தின் மேன்மையைப் பேண வழிசெய்ய வேண்டும் என்று எடுத்துரைக்கப்பட்டது.
+Minister Vidura Wickramanayake, during his visit to Nallai Athena, was tasked with ensuring vegetarian worshippers' rights in Shiva temples in Kurundurmalai and Vedukkunni. He was also asked to facilitate the handover of land used by Saivas near the Talsevana Hotel in Kankesanthurai. In response, Minister Kurundurmalai promised an alternative solution after relocating the Thirukoneeswara box. This discussion took place on Monday, 24th.
 
-காங்கேசன்துறையில் தல்செவன ஹோட்டல் அமைந்துள்ள பகுதியானது சைவமக்களின் பாவனையில் உள்ள சத்திரம் இருந்த நிலம். அது இதுவரை ஒப்படைக்கப்படவில்லை. அதனை உடன் வழங்க ஏற்பாடு செய்யுமாறும் கோரிக்கை விடுக்கப்பட்டது.
+🟩
 
-இவற்றுக்கு பதில் கூறிய அமைச்சர் குருந்தூர்மலை வெடுக்கு நாறி பகுதியில் சுதந்திரமாக வழிபாடு செய்யலாம் என்றும் அப்பகுதி தொல்லியல் திணைகளத்தின் கட்டுப்பாட்டிலுள்ளது என்றும் திருக்கோணேஸ்வர பெட்டிக்கடை அகற்றுவது தொடர்பாக மாற்று ஏற்பாடு விரைவில் செய்யப்படும் என தெரிவித்தார்.
+Vidura Wickramanayake, Minister of Buddha Sasana, who visited the Nallai Athena, was asked to arrange to be worshiped in the Shiva temples in Kurundurmalai and Vedukkunni Shiva temples.
 
-...
+The area where the Talsevana Hotel is located in the Kankesanthurai is the land in the use of the Saivas. It has not yet been handed over. It was also requested to arrange for it.
+
+Responding to this, Minister Kurundurmalai said that an alternative arrangement will be made on the removal of the Thirukoneeswara box.
+
+The meeting was held on Monday (24).
+
+◼️
 
 [Data](articles/ef52d8a6.json)
 
+[Extended Data](ext_articles/ef52d8a6.ext.json)
+
 ---
 
-### පාසල් කටයුතු ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry of Education announced on school activities
 
 *2024-06-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198096) · `si`
 
-පාසල්වල සිටින අනධ්‍යයන කාර්යමණ්ඩලය අද (24) සහ හෙට (25) දෙදින අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වී තිබේ.
+Academic staff in schools will engage in a trade union action on April 25th, leading to a formal program by the Ministry of Education to manage school activities and ensure educational continuity. The Ministry of Defense has also been involved, ensuring the safety of students, staff, and resources nationwide.
 
-ඒ අනුව පාසල් පවත්වාගෙන යෑම සම්බන්ධයෙන් විදුහල්පතිවරුන් දැනුවත් කරමින් අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක් නිකුත් කර ඇත.
+🟩
 
-එහි දැක්වෙන්නේ පාසල්වල අධ්‍යාපන කටයුතුවලට බාධාවක් නොවීම සඳහා පාසල් ප්‍රජාව සමග එක්ව, පාසල්වල කටයුතු කළමනාකරණය කරගැනීමට විධිමත් වැඩපිළිවෙලක් සකස් කර ගන්නා ලෙසය.
+The academic staff in schools have been reported today and tomorrow (25) to report a trade union action.
 
-සියලුම පළාත් අධ්‍යාපන ලේකම්වරුන් සහ සියලුම පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත එම දැනුම්දීම සිදුකර ඇත.
+Accordingly, the Ministry of Education has issued a statement from the Ministry of Education with the maintenance of schools.
 
-මේ අතර දිවයින පුරා පිහිටි පාසල්, විද්‍යාපීඨ, අධ්‍යාපන කාර්ය මණ්ඩලය, ශිෂ්‍ය ප්‍රජාව සහ භෞතික සම්පත් ආරක්ෂාව සුදුසු ආරක්ෂාවක් ලබාදෙන ලෙස ආරක්ෂක අමාත්‍යාංශයෙන් ඉල්ලීමක් කර තිබේ.
+It states that a formal program to manage activities in schools is to arrange to manage the activities of schools to prevent the education of schools.
 
-අධ්‍යාපන අමාත්‍යාංශයේ ලේකම්වරයා විසින් ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගෙන් ඒ බව ඉල්ලා තිබේ.
+The notice has been made to all Provincial Education Secretaries and All Provincial Education Directors.
+
+Meanwhile, the Ministry of Defense has requested schools, science, education staff, student community and physical resource security throughout the country.
+
+The Secretary of the Ministry of Education has asked the Secretary to the Ministry of Defense.
 
 ◼️
 
 [Data](articles/4e3a6c8f.json)
 
+[Extended Data](ext_articles/4e3a6c8f.ext.json)
+
 ---
 
-### கல்முனை  பகுதியில்  பதற்ற நிலை ; போக்குவரத்து பாதிப்பு; 7 மணித்தியாலங்களாக போராட்டகாரர் வசமான நகரம்
+### Tension in Kalmunai area;Traffic impact;7 hours
 
 *2024-06-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186845) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலக விடயங்களுக்கு உடனடி தீர்வினை பெற்றுத்தருமாறு கோரி இன்று திங்கட்கிழமை (24) ஆர்ப்பாட்டமொன்று முன்னெடுக்கப்பட்டுள்ளமையினால் மட்டக்களப்பு - கல்முனை பிரதான வீதியின் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளதுடன் பதற்ற நிலை தொடர்ந்தது.
+Protests in Kalmunai disrupt traffic, blocking the Batticaloa-Kalmunai road for 7 hours. Demonstrators demand solutions from the Kalmunai North Divisional Secretariat, highlighting 92 days of administrative repression. Authorities negotiate with civil society activists, suspending the road blockade temporarily.
 
-அத்துடன், பிரதேச செயலகத்தின் நுழைவாயிலையும் பூட்டிய நிலையில்  அதிகாரிகளை உள்நுழைய விடாமல் பொதுமக்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+🟩
 
-கல்முனை வடக்கு பிரதேச செயலகத்துக்கு எதிராக இடம்பெறும் நிர்வாக அடக்குமுறைகளை கண்டித்தும்  அதற்கான உரிய தீர்வு கோரியும்  தொடர்ச்சியாக 92 நாட்களாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில்  இன்று பாரிய ஆர்ப்பாட்டம் இடம்பெறுகின்றது.
+The traffic of the Batticaloa -Kalmunai main road has been disrupted as a demonstration has been held on Monday (24) demanding an immediate solution to the Kalmunai North Divisional Secretariat.
 
-இந்த ஆர்ப்பாட்டம் காரணமாக மட்டக்களப்பு - கல்முனை வீதி தடைப்பட்டுள்ளதால்  வாகனங்களை மாற்று வீதிகளில் அனுப்புவதற்கு பொலிஸார்  நடவடிக்கை எடுத்திருந்தனர்.
+In addition, the public was protesting that the authorities were locked at the entrance of the Divisional Secretariat.
+
+A massive demonstration is taking place today as the struggle is being carried out for 92 consecutive days, condemning the administrative repression against the Kalmunai North Divisional Secretariat.
+
+Due to this demonstration, the police have taken steps to send vehicles to alternate streets as the Batticaloa -Kalmunai road has been blocked.
+
+Meanwhile, the Kalmunai Nagar protesters were in the hands of the Kalmunai Nagar protesters for 7 hours and the road picket struggle was suspended by the authorities to hold a discussion with the District Government Agent and civil society activists.
 
 ...
 
 [Data](articles/bf2793cd.json)
+
+[Extended Data](ext_articles/bf2793cd.ext.json)
 
 ---
 
@@ -216,17 +286,23 @@ The International Representative of the Sri Lanka Freedom Party (SLFP) Meeting w
 
 ---
 
-### தரம் 8-12 வரை ’’Cambridge Climate Quest’’
+### Grade 8-12
 
 *2024-06-24 15:41:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-12-வரை-Cambridge-Climate-Quest/175-339336) · `ta`
 
-இலங்கையின் கல்வித் துறையை மேலும் மேம்படுத்தும் நோக்கில், 8ஆம் தரம் முதல் 12ஆம் தரம் வரை கல்வி கற்கும் பாடசாலை மாணவர்களுக்கு 3 மொழிகளிலும் "Cambridge Climate Quest" சுயக் கற்கை நெறியை    கற்பதற்கான வாய்ப்பு இலவசமாக வழங்கப்பட உள்ளது.
+Sri Lanka's education sector is improving: Grade 8-12 students now have access to the "Cambridge Climate Quest" self-learning program. Additionally, Flinders University from Australia plans to open a campus in Sri Lanka, addressing the demand for higher education in the region.
 
-மேலும், பிராந்திய உயர்கல்வி தேவையைப் பூர்த்தி செய்வதற்காக,  அவுஸ்திரேலியாவின் பிலின்டர்ஸ் பல்கலைக்கழகம் (Flinders University)   இலங்கையில் தனது பல்கலைக்கழக வளாகத்தை ஆரம்பித்து பல்வேறு துறைகளில் இளமாணி, முதுமாணி பட்டப்படிப்பு மற்றும் உயர்கல்விப் பிரவேசத்திற்கான வாய்ப்புகளை வழங்க உள்ளது என்று ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+🟩
+
+In order to further enhance the education sector of Sri Lanka, school students who are educated from grade 8 to 12 are given the opportunity to teach "Cambridge Climate Quest" self -learning.
+
+In addition, the Presidential Media University has announced that Australia's Flinders University will launch its university campus in Sri Lanka to meet the need for regional higher education.
 
 ◼️
 
 [Data](articles/2c8550ec.json)
+
+[Extended Data](ext_articles/2c8550ec.ext.json)
 
 ---
 
@@ -314,35 +390,47 @@ The identity of the deceased is yet to be ascertained while police revealed that
 
 ---
 
-### 2024இல் இதுவரையான காலப்பகுதியில் 27 இந்திய படகுகள் கைப்பற்றல் ; 204 மீனவர்கள் கைது
+### 27 Indian boats seized in 2024;204 fishermen arrested
 
 *2024-06-24 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186841) · `ta`
 
-2024 ஆம் ஆண்டு இதுவரையான காலப்பகுதியில் 27 இந்திய இழுவை படகுகள் கைப்பற்றப்பட்டுள்ளதுடன், 204 மீனவர்கள்  இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+In 2024, 27 Indian boats were seized and 204 fishermen arrested by the Sri Lankan navy near Neduntivu, Jaffna, during operations on the 22nd and 23rd.
 
-கடந்த  22 மற்றும் 23 ஆம் திகதி அதிகாலையில் யாழ்ப்பாணம் நெடுந்தீவில் கடற்படையினரால் சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
+🟩
 
-இதன்போது, நெடுந்தீவு கடற்பரப்பில் அத்துமீறி மீன்பிடித்துக் கொண்டிருந்த மூன்று படகுகளையும் அதிலிருந்த 18 இந்திய மீனவர்களையும் கடற்படையினர் கைது செய்தமை குறிப்பிடத்தக்கது.
+So far, 27 Indian drag boats have been seized and 204 fishermen have been arrested by the Sri Lankan navy.
+
+In the early hours of the 22nd and 23rd, the surrounding activities were carried out by the Navy in Neduntivu, Jaffna.
+
+It is noteworthy that the Navy arrested three boats and 18 Indian fishermen who were fishing in the Neduntivu seas.
 
 ◼️
 
 [Data](articles/93912970.json)
 
+[Extended Data](ext_articles/93912970.ext.json)
+
 ---
 
-### කුරියර් ක්‍රමයට ගංජා ගෙන්වා බෙදාහැරල
+### Courier system distributed marijuana
 
 *2024-06-24 15:24:39* · [`adalk`](https://www.ada.lk/breaking_news/කුරියර්-ක්‍රමයට-ගංජා-ගෙන්වා-බෙදාහැරල/11-410401) · `si`
 
-කුරියර් ක්‍රමයට කේරළ ගංජා ගෙන්වා ගත් පුද්ගලයෙකු ඊයේ (23දා) බළපිටිය වලගෙදර ප්‍රදේශයේදී සැකපිට ප්‍රශ්න කිරීමට අත්අඩංගුවට ගත් බව ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන ඒකකය සඳහන් කරයි. බළපිටිය, වලගෙදර පදිංචි හතළිස් පස්හැවිරිදි පුද්ගලයෙක් මෙසේ අත්අඩංගුවට පත්ව ඇත.
+A 45-year-old man from Walagedara was arrested for distributing marijuana, including Kerala cannabis, to fishermen in the Galle district. The police found 5 grams of cannabis during his arrest. Further investigation is being conducted by the Elpitiya Divisional Corruption Division and the Ambalangoda Police.
 
-සැකකරු සතුව තිබූ ගංජා ග්‍රෑම් පන්සීයක්ද පොලිස් භාරයට ගෙන තිබේ. සැකකරු විසින් ගෙන්වා ගන්වා ගන්නා ලද ගංජා ගාලු දිසාවේ ධීවර වරාය වලින් මුහුදු රැකියාවට යන ධීවරයන්ට අලෙවි කරන බවට අනාවරණය වූ බවද එම ඒකකය සඳහන් කරයි.
+🟩
 
-අත්අඩංගුවට පත් සැකකරු වැඩිදුර විමර්ශන සඳහා අම්බලන්ගොඩ පොලීසියට භාරදී තිබේ. ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන අංශය සිද්ධිය පිළිබඳ වැඩිදුර පරීක්ෂණ සිදු කරයි.
+Elpitiya Divisional Corruption Unit stated that a person who had kept the Kerala cannabis in Kururu yesterday (23) was arrested yesterday (23) at Walagedara area yesterday (23).. Forty five-year-old man of Walagedara has been arrested.
+
+Police also seized a five gram of cannabis. It was revealed that marijana who was imported by the suspect was sold to the fishermen in the Galle district, the unit said.
+
+The suspect was handed over to the Ambalangoda Police for further investigations.The Elpitiya Divisional Corruption Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/e5d4768e.json)
+
+[Extended Data](ext_articles/e5d4768e.ext.json)
 
 ---
 
@@ -1736,27 +1824,39 @@ He previously has held the posts of media state minister and state minister of B
 
 ---
 
-### තරුෂි කරුණාරත්න : ඔලිම්පික් යන්න හැකි වෙයිද ?
+### Talki Karunaratne: Will Olympic able to go?
 
 *2024-06-24 10:30:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv222j90v9jo) · `si`
 
-ස්පාඤ්ඤයේ පැවති ආරාධිත මලල ක්‍රීඩා තරගාවලියේදී මීටර් 600 තරග ඉසව්වෙන් නව ආසියානු වාර්තාවකට හිමිකම් කී තරුෂි කරුණාරත්න ගැන මෙරට ක්‍රීඩා ලෝලීන් විශාල බලාපොරොත්තුවකින් පසුවේ.
+Talki Karunaratne, a promising athlete from Sri Lanka, is aiming to qualify for the Olympics, particularly in the 600m event at the GCE Athletics Championship in Spain, hoping to bring home a medal. Despite setbacks like missed competitions due to travel issues and injuries, she remains hopeful, especially after her impressive performance in the Taiwan Open Athletic Championship where she won gold in the 400m and 800m events. Her coach, Susantha Fernando, highlights the challenges faced in qualifying but expresses optimism about her chances. Additionally, Talki has been offered a scholarship to study in the USA, which she plans to pursue alongside her athletic career, aiming to balance both achievements.
 
-ඒ ඇය මෙවර ඔලිම්පික් තරගාවලිය සඳහා සුදුසුකම් ලබා ගනිමින් ශ්‍රී ලංකාවට පදක්කමක් දිනා දෙනු ඇතැයි යන බලාපොරොත්තුව නිසාවෙනි.
+🟩
 
-සුසන්තිකා ජයසිංහ, දමයන්ති දර්ෂා වැනි ක්‍රීඩිකාවන් ගෙන් පසුව මෙරට ජනතාවට මලල ක්‍රීඩාව හරහා වඩාත් සමීප වූ ක්‍රීඩිකාවක් ලෙස තරුෂිව හැඳින්විය හැකිය.
+Sri Lanka's sports flights have been following a great hope about the 600m event at the GCE Athletics Championship in Spain.
 
-මෙවර ඔලිම්පික් තරගාවලිය ජුලි මස 26 වෙනිදා ප්‍රංශයේ පැරිස් නුවරදී ආරම්භ වීමට නියමිතයි.
+It is because she hopes Sri Lanka will win a medal in this year's Olympics.
 
-පසුගිය සතියේ ස්පාඤ්ඤයේ පැවති ආරාධිත මලල ක්‍රීඩා තරගාවලියේදී මීටර් 600 තරග ඉසව්ව විනාඩි 01.24.84කින් නිමා කළ තරුෂි කරුණාරත්න රිදී පදක්කමට හිමිකම් කියනු ලැබිය.
+Subsequently, Susanthika Jayasinghe has been known as a player to the people of Sri Lanka as a closer game through athletics.
 
-මේ අතර තායිවාන විවෘත මලල ක්‍රීඩා තරගාවලියේ මීටර් 400 ඉසව්ව තත්ත්පර 52.48ක් ලෙස සනිටුහන් කරමින් තරුෂි රන් පදක්කම ජයග්‍රහණය කිරීමට සමත් වුවාය.
+This year's Olympics will begin in Paris, France on July 26th July.
 
-එම තරගාවලියේදීම මීටර් 800 තරග ඉසව්ව විනාඩි 2.05.74 කින් නිමා කරමින් ඇය රන් පදක්කමට හිමිකම් කියනු ලැබීය.
+Last week, Tharusi Karunaratne, which was completed by 1.24.84 meters in Spain, was entitled to the silver medal.
+
+Meanwhile, Taiwan Open Athletic Championship was able to win the 400m event.
+
+At 2.05.74 meters the tournament, she claimed to the gold medal by concluding the 800m event.
+
+In October last year, Talki Karunaratne won the gold medal in 800m women's event.
+
+It was 21 years later, Sri Lanka won a gold medal in a Asian Games.
+
+Her coach Susantha Fernando told BBC that she could not compete with two participants to qualify for the Olympic Games.
 
 ...
 
 [Data](articles/70ef446e.json)
+
+[Extended Data](ext_articles/70ef446e.ext.json)
 
 ---
 
@@ -1775,6 +1875,18 @@ The Twenty-Twenty World Cup was held today (24).
 [Data](articles/f2242f93.json)
 
 [Extended Data](ext_articles/f2242f93.ext.json)
+
+---
+
+### இராஜாங்க அமைச்சரானார் வியாழேந்திரன்
+
+*2024-06-24 10:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரானார்-வியாழேந்திரன்/175-339307) · `ta`
+
+வர்த்தக மற்றும் சுற்றாடல் இராஜாங்க அமைச்சராக பாராளுமன்ற உறுப்பினர் சதாசிவம் வியாழேந்திரன் சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/a0c516e2.json)
 
 ---
 
@@ -2225,47 +2337,5 @@ Sea in areas of sea areas off the coast extending from Kalpitiya to Colombo, Gal
 [Data](articles/6c9a29b8.json)
 
 [Extended Data](ext_articles/6c9a29b8.ext.json)
-
----
-
-### Russia's terrorist attack attack - A large number of people killed
-
-*2024-06-24 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198080) · `si`
-
-In a tragic incident, a terrorist attack in Russia's Dagestan region resulted in the deaths of 23 individuals, including 15 police officers and a priest. The assailants, along with six armed men who came to carry out the attack, were also killed.
-
-🟩
-
-Terrorist attacked by a terrorist attack on the Dagestan region under Russian regime.
-
-About 23 of them were killed and 15 police officers included.
-
-A priest and six armed persons who had come to attack were also killed.
-
-◼️
-
-[Data](articles/688d2073.json)
-
-[Extended Data](ext_articles/688d2073.ext.json)
-
----
-
-### Gunmen kill police, priest in attacks on places of worship in Russia’s Dagestan
-
-*2024-06-24 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100056/gunmen-kill-police-priest-in-attacks-on-places-of-worship-in-russias-dagestan) · `en`
-
-At least 15 police officers and a priest were killed by gunmen on Sunday in what appear to be coordinated attacks on multiple places of worship in Russia’s southernmost Dagestan province, local authorities said.
-
-Sergey Melikov, head of the Dagestan Republic, said at least six “militants” were also killed following the attacks on churches, synagogues and police posts in the cities of Derbent and the regional capital Makhachkala, which are about 120 kilometers (75 miles) apart.
-
-A priest killed during an attack on a church in Derbent was identified by Dagestan Public Monitoring Commission Chairman Shamil Khadulaev as Father Nikolay. “They slit his throat. He was 66 years old and very ill,” Khadulaev said.
-
-A security guard armed with a pistol was also shot, Khadulaev said. The guard’s condition, along with the total number of victims, remains unclear.
-
-...
-
-[Data](articles/15643df7.json)
-
-[Extended Data](ext_articles/15643df7.ext.json)
 
 ---

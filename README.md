@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 02:04:41**
+As of **2024-06-25 02:19:31**
 
 ## Newspaper Stats
 
-*Scraped **31,969** Articles*
+*Scraped **31,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,131 @@ bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,845
-dailyftlk | 1,956
+dailyftlk | 1,963
 adalk | 2,810
 adaderanalk | 3,633
 tamilmirrorlk | 3,767
 dailymirrorlk | 4,733
-virakesarilk | 4,949
+virakesarilk | 4,950
 adaderanasinhalalk | 5,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,969 (100.0%) of 31,969 articles have been extended.
+31,969 (100.0%) of 31,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Sri Lanka holds first ever fashion and textile tradeshow in UK
+
+*2024-06-25 02:07:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-first-ever-fashion-and-textile-tradeshowin-UK/34-763441) · `en`
+
+The High Commission of Sri Lanka in the United Kingdom in collaboration with the Sri Lanka Export Development Board (EDB), Sri Lanka Apparel Sourcing Association (SLASA), and Joint Apparel Association Forum (JAAF), proudly presented the ‘Sourced Sri Lanka’ Fashion and Textile Tradeshow on 17 -18 June at the Royal Horticultural Hall in London.
+
+This landmark event, the first of its kind in the UK, showcased the best of Sri Lankan fashion and textiles with 80 exhibiting stalls. The event provided a unique platform for UK buyers and fashion enthusiasts to engage directly with Sri Lankan manufacturers and designers.
+
+...
+
+[Data](articles/1bd78309.json)
+
+---
+
+### Thai Chamber of Commerce President visits BOI
+
+*2024-06-25 02:05:25* · [`dailyftlk`](https://www.ft.lk/business/Thai-Chamber-of-Commerce-President-visits-BOI/34-763440) · `en`
+
+The Thai Chamber of Commerce Chairman Sanan Angubolkul and his delegation visited the Board of Investment of Sri Lanka to discuss several areas of cooperation between the two institutions. BOI Chairman Dinesh Weerakkody and senior officials met with the delegation. The delegation included Thai -Sri Lanka Chamber of Commerce Trading and Manufacturing committee member Dr. Saraniya Lekplipol and Thai Chamber of Commerce Advisor Susheel Kumar Saraff and Sanjewa Wickramasuriya from the Thai - Sri Lanka Chamber of Commerce.
+
+◼️
+
+[Data](articles/8a5070eb.json)
+
+---
+
+### Ceylon Chamber of Commerce AGM on Thursday
+
+*2024-06-25 02:03:54* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-of-Commerce-AGM-on-Thursday/34-763439) · `en`
+
+The Ceylon Chamber of Commerce will hold its 185th Annual General Meeting on 27 June at 6 p.m. at the Shangri-La Hotel, Colombo.
+
+WSO2 Founder and CEO Dr. Sanjiva Weerawarana who is a pioneering figure in Sri Lanka’s technology sector, will be the Keynote Speaker at the AGM.
+
+As the leading business Chamber in Sri Lanka, representing a diverse spectrum of industries and sectors, The Ceylon Chamber of Commerce is a premier platform for the business community, driving advocacy, fostering collaboration, and facilitating business networking opportunities.
+
+The Ceylon Chamber Chairman Duminda Hulangamuwa will address the AGM, providing insights into the Chamber’s strategic initiatives and its role in advocating policies that support sustainable economic development, as well as its ongoing efforts to promote a conducive business environment that encourages growth and prosperity across industries.
+
+...
+
+[Data](articles/1620079f.json)
+
+---
+
+### Ravi Wijewantha appointed to Board of John Keells Plc
+
+*2024-06-25 02:03:28* · [`dailyftlk`](https://www.ft.lk/business/Ravi-Wijewantha-appointed-to-Board-of-John-Keells-Plc/34-763438) · `en`
+
+To take over additional responsibilities as CFO of JKH Plantation Services Sector as well as oversight responsibilities over John Keells IT and Infomate
+
+Ravi Wijewantha has been appointed to the Board of John Keells PLC as a Non-Executive Director with effect from 1 July.
+
+Wijewantha joined the John Keells Group in September 2003 and was appointed as Sector Financial
+
+Controller of the Property Industry Group in July 2006 and Chief Financial Officer of the same Industry Group in July 2017. He is a member of the Group Operating Committee of the John Keells Group and will be taking over additional responsibilities as the Chief Financial Officer of the Plantation Services Sector as well as oversight responsibilities over John Keells IT and Infomate with effect from 1 July 2024.
+
+...
+
+[Data](articles/72f40570.json)
+
+---
+
+### Ceylon Chamber renews historic partnership with Board of Trade of Thailand
+
+*2024-06-25 01:59:57* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-renews-historic-partnership-with-Board-of-Trade-of-Thailand/34-763437) · `en`
+
+A seven member delegation led by the Thai Chamber of Commerce and the Board of Trade of Thailand Chairman Sanan Angubolgul met with the Ceylon Chamber Chairman Duminda Hulangamuwa, along with senior representatives of the Chamber yesterday, culminating in the renewing of a Memorandum of Understanding (MOU) to further enhance trade, investment and tourism between Sri Lanka and Thailand.
+
+The MOU was signed in the presence of Ambassador designated to Thailand Wijayanthi Edirisinghe, and Sri Lanka – Greater Mekong Business Council of the Ceylon Chamber of Commerce President S.M.D. Suriyakumara.
+
+...
+
+[Data](articles/0dfb3cc6.json)
+
+---
+
+### Ceylon Green Life Plantation ties up with NIPM for major developments
+
+*2024-06-25 01:58:43* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Green-Life-Plantation-ties-up-with-NIPM-for-major-developments/34-763436) · `en`
+
+Sri Lanka’s prominent guava and agro cultivators Ceylon Green Life Plantation Ltd. exchanged letters of understanding with National Institute of Plantation Management for 6 key projects – development of worlds 1st guava tea, creating strategic agroprenuers to Sri Lanka and to the world, and creating Sri Lanka’s 1st agro marketing lab driven with innovations from guava plantation are few major highlights.
+
+Speaking to media, Founder/Entrepreneur Dr. Marlon Petersay said, “This total tie up was initiated under the leadership of our CEO Hashan Haputhanthri, who spearheaded this strategic relationship and I am grateful for him for this historic move. We as an organisation who cultivates lands with guava widely on three strategic, well thought out plans and extremely delighted to partner for this National project. Through this, Sri Lanka will have agroprenuers and scientific modelling with AI technology will be introduce as well.”
+
+...
+
+[Data](articles/2989b17c.json)
+
+---
+
+### CMA Sri Lanka UN MSME Day Development Summit 2024 on Thursday
+
+*2024-06-25 01:57:21* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-UN-MSME-Day-Development-Summit-2024-on-Thursday/34-763435) · `en`
+
+Theme – “MSMEs the key driving force for economic growth in Sri Lanka”
+
+The CMA Sri Lanka SME Development Committee will be celebrating the UN MSME Day falling on 27 June by conducting the CMA Sri Lanka UN MSME Development Summit 2024 under the theme of “MSMEs the key driving force for economic growth in Sri Lanka” for the third time, at Ballroom, Hotel Galadari.
+
+The UN Day MSME summit will be inaugurated on 27 June at 8:30 a.m. at Hotel Galadari by the Chief Guest ADB Country Director Takafumi Kadono, in the distinguished presence of representatives from UN, Secretary Ministry of Industries, Deputy General Manager Grameen Trust Bangladesh, General Managers of participating banks and finance companies, MSMEs, industry experts, professionals and committee members.
+
+The program will have an inaugural session, two technical sessions, panel discussion and presentations from SME bank customers on business revival with the support of participating banks.
+
+...
+
+[Data](articles/f7bc8094.json)
+
+---
 
 ### Orit wins at Green Productivity Awards 2024
 
@@ -197,6 +305,28 @@ In an awareness campaign organised by the All Union Alliance of the Board of Inv
 [Data](articles/65dca719.json)
 
 [Extended Data](ext_articles/65dca719.ext.json)
+
+---
+
+### ஆஸி.யை வீழ்த்தி அரை இறுதிக்குள் நுழைந்தது இந்தியா; பங்ளாதேஷின் கைகளில் ஆஸி.யின் தலைவிதி
+
+*2024-06-25 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/186884) · `ta`
+
+சென். லுசியா, க்ரொஸ் ஐலட் டெரன் சமி தேசிய கிரிக்கெட் விளையாட்டரங்கில் இன்று நடைபெற்ற குழு 1க்கான கடைசிக்கு முந்தைய சுப்பர் 8 ரி20 உலகக் கிண்ணப் போட்டியில் அவுஸ்திரேலியாவை 24 ஓட்டங்களால் வெற்றிகொண்ட இந்தியா 3ஆவது அணியாக அரை இறுதியில் விளையாட தகுதிபெற்றது.
+
+ஐந்தாவது தடவையாக அரை இறுதிக்குள் நுழைந்துள்ள இந்தியா, இரண்டாவது அரை இறுதியில் நடப்பு சம்பியன் இங்கிலாந்தை 27ஆம் திகதி எதிர்த்தாடும்.
+
+ரோஹித் ஷர்மாவின் அதிரடி துடுப்பாட்டம், பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சு ஆகியன இந்தியாவின் வெற்றியில் பிரதான பங்காற்றின.
+
+இந்தப் போட்டி முடிவை அடுத்து அவுஸ்திரேலியாவின் அரை இறுதி வாய்ப்பு ஊசலாடத் தொடங்கியுள்ளது. அதன் தலைவிதி இப்போது பங்களாதேஷின் கைகளில் தங்கியிருக்கிறது.
+
+காலையில் நடைபெறும் போட்டியில் ஆப்கானிஸ்தான் வெற்றிபெற்றால் அவுஸ்திரேலியா நாடு திரும்ப நேரிடுவதுடன் ஆப்கானிஸ்தான் அரை இறுதிக்குள் நுழையும்.
+
+வெற்றி பெற்றால் பங்களாதேஷ் அரை இறுதி வாய்ப்பை பெறும். பங்களாதேஷ் சிறிய வித்தியாசத்தில் வெற்றிபெற்றால் அவுஸ்திரேலியா அரை இறுதி வாய்ப்பை பெறும்.
+
+...
+
+[Data](articles/752b9f91.json)
 
 ---
 
@@ -2101,197 +2231,5 @@ The university, with research and development facilities, aims to position Colom
 [Data](articles/e6f64d83.json)
 
 [Extended Data](ext_articles/e6f64d83.ext.json)
-
----
-
-### Sword cut on couple in Jaffna
-
-*2024-06-24 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/186830) · `ta`
-
-In Jaffna, an intruder attacked a sleeping couple with a sword before fleeing. The incident occurred in the northern part of Nawali.
-
-🟩
-
-An unidentified person who entered Jaffna has fled after a sword attack on a couple.
-
-A man who broke into a house in the northern part of Nawali has fled after a sword attack on a sleeping couple.
-
-◼️
-
-[Data](articles/defba9b7.json)
-
-[Extended Data](ext_articles/defba9b7.ext.json)
-
----
-
-### Woman dies in fever - incident in Jaffna
-
-*2024-06-24 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186829) · `ta`
-
-In Jaffna, a woman died from fever complications. She sought treatment at the Jaffna Bodhana Hospital but passed away after returning home. Autopsies were conducted, with samples sent to Colombo for more analysis.
-
-🟩
-
-A person who has taken the drug for fever in the Jaffna, Jaffna area has died.
-
-The woman had a sudden fever on the 20th. On the 22nd of this month, he went to the Jaffna Bodhana Hospital and returned home after receiving treatment.
-
-He died after being taken to the Jaffna Bodhana Hospital after taking the pharmacy on the 23rd of yesterday.
-
-Anatomical examinations have been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
-
-◼️
-
-[Data](articles/36e61d0a.json)
-
-[Extended Data](ext_articles/36e61d0a.ext.json)
-
----
-
-### Sri Lanka president calls for establishment of Palestinian state within five years
-
-*2024-06-24 13:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-establishment-of-palestinian-state-within-five-years-169250/) · `en`
-
-ECONOMYNEXT — Sri Lanka continues to support the establishment of a Palestinian state within five years, President Ranil Wickremesinghe said.
-
-Speaking at a religious service held on Sunday June 23 at the New Kathankudy Grand Jummah Mosque for the people of Gaza affected by the ongoing Israel-Hamas war, Wickremesinghe said it is essential to set a deadline because discussions have been ongoing over four to five decades.
-
-“The government maintains a steadfast position on the Gaza issue, which will not change. If Israel has issues with Hamas, retaliation should not be taken against the people of Gaza. It is crucial to assist Palestine in finding solutions. Our stance is to establish the Palestinian state within five years. It is essential to set a deadline because discussions have been ongoing over four to five decades. Therefore, we must take action according to a specific time frame,” the President’s Media Division (PMD) quoted Wickremesinghe as saying.
-
-...
-
-[Data](articles/ca2c849f.json)
-
-[Extended Data](ext_articles/ca2c849f.ext.json)
-
----
-
-### Husband intercourse: wife arrested
-
-*2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-மனைவி-கைது/175-339326) · `ta`
-
-A retired female police constable and her husband, also a police constable, were arrested for allegedly extorting money by threatening to release explicit videos. The woman demanded 50 lakh rupees from another woman involved with the husband. The constable had recorded their intimate moments, leading to the arrest of both parties.
-
-🟩
-
-The man's wife has been arrested for demanding fifty lakhs of rupees for a woman who has been in a relationship with her husband.
-
-Retired Female Police Constable Liz has been arrested by the Children's and Women's Abuse Bureau for allegedly threatening to publish videos of sexual footage.
-
-The Minister of Police and the Police Constable, which is suspected of assisting the crime, has been arrested.
-
-Police Constable of the Minister's Security Unit.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
-
-When the two have intercourse, the police constable has recorded it on his mobile phone.
-
-In this case, the woman has threatened her to pay her fifty lakhs of rupees if she does not publish the videos on her husband's cell phone with her husband.
-
-In this regard, the authorities of the Bureau of the Bureau were investigating the complaint lodged by the Woman Police Children and Women's Abuse Prevention Bureau.
-
-The retired female Constable and her husband, Constable, have been arrested.
-
-◼️
-
-[Data](articles/079471ba.json)
-
-[Extended Data](ext_articles/079471ba.ext.json)
-
----
-
-### Sexual intercourse with her husband: Wife arrested for demanding
-
-*2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-கப்பம்-கோரிய-மனைவி-கைது/175-339326) · `ta`
-
-A wife was arrested for extorting money after discovering her husband's affair with a retired policewoman, Liz, who also faces charges for allegedly threatening to release explicit videos. The police minister and a security unit constable, implicated in the scandal, were also arrested.
-
-🟩
-
-The man's wife has been arrested for demanding fifty lakhs of rupees for a woman who has been in a relationship with her husband.
-
-Retired Female Police Constable Liz has been arrested by the Children's and Women's Abuse Bureau for allegedly threatening to publish videos of sexual footage.
-
-The Minister of Police and the Police Constable, which is suspected of assisting the crime, has been arrested.
-
-Police Constable of the Minister's Security Unit.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
-
-When the two have intercourse, the police constable has recorded it on his mobile phone.
-
-In this case, the woman has threatened her to pay her fifty lakhs of rupees if she does not publish the videos on her husband's cell phone with her husband.
-
-In this regard, the authorities of the Bureau of the Bureau were investigating the complaint lodged by the Woman Police Children and Women's Abuse Prevention Bureau.
-
-The retired female Constable and her husband, Constable, have been arrested.
-
-◼️
-
-[Data](articles/cfedb286.json)
-
-[Extended Data](ext_articles/cfedb286.ext.json)
-
----
-
-### Saudi says 1,301 deaths during Hajj were mostly unregistered pilgrims
-
-*2024-06-24 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100064/saudi-says-1301-deaths-during-hajj-were-mostly-unregistered-pilgrims) · `en`
-
-More than 1,300 faithful died during the Hajj pilgrimage, which took place amid intense heat, and most of the deceased did not have official permits, Saudi Arabia said on Sunday.
-
-“Regrettably, the number of mortalities reached 1,301, with 83% being unauthorized to perform Hajj and having walked long distances under direct sunlight, without adequate shelter or comfort,” the official Saudi Press Agency reported.
-
-Based on official statements and reports from diplomats involved in their countries’ responses, an AFP tally last week put the toll at more than 1,100.
-
-The dead came from more than 10 countries stretching from the United States to Indonesia, and some governments are continuing to update their totals.
-
-Arab diplomats said last week that Egyptians accounted for 658 deaths — 630 of them unregistered pilgrims.
-
-The diplomats said the cause of death in most cases was heat-related.
-
-...
-
-[Data](articles/08cf5da3.json)
-
-[Extended Data](ext_articles/08cf5da3.ext.json)
-
----
-
-### LPL tickets start selling
-
-*2024-06-24 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198090) · `si`
-
-Lanka Premier League starts July 1st with Colombo vs Dambulla. Tickets for Kandy matches go on sale today.
-
-🟩
-
-Lanka Premier League Tournament begins on July 1. Its first match will be held between the city and Dambulla.
-
-Meanwhile, SLC says that tickets for Kandy competitions will be launched today (24).
-
-◼️
-
-[Data](articles/de4c67a7.json)
-
-[Extended Data](ext_articles/de4c67a7.ext.json)
-
----
-
-### Information on GCE Ordinary Level Examination
-
-*2024-06-24 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/186824) · `ta`
-
-The GCE Ordinary Level Examination results, from exams held in March with over 453,000 participants, including school and private candidates, will be out in the next 10 days according to the Department of Examinations and Commissioner General Amit Jayasundera.
-
-🟩
-
-The Department of Examinations has announced that the results of the GCE Ordinary Level Examination will be released within the next 10 days.
-
-The Commissioner General of Examinations Amit Jayasundera said that the results are being released within the next 10 days.
-
-Ordinary Level Examinations held last March. 452,979 examiners appeared for the exam. They include 387,648 school candidates and 65,331 private applicants.
-
-◼️
-
-[Data](articles/e0d67af8.json)
-
-[Extended Data](ext_articles/e0d67af8.ext.json)
 
 ---

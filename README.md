@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 14:35:01**
+As of **2024-06-24 14:54:13**
 
 ## Newspaper Stats
 
-*Scraped **31,867** Articles*
+*Scraped **31,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,92 +13,226 @@ dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
-economynextcom | 1,834
+economynextcom | 1,838
 dailyftlk | 1,942
 adalk | 2,796
-adaderanalk | 3,619
+adaderanalk | 3,620
 tamilmirrorlk | 3,756
 dailymirrorlk | 4,733
-virakesarilk | 4,939
-adaderanasinhalalk | 5,215
+virakesarilk | 4,940
+adaderanasinhalalk | 5,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,856 (100.0%) of 31,867 articles have been extended.
+31,867 (100.0%) of 31,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### வரலாற்றில் இன்று : 1980
+### Two individuals arrested over attempt to sell fake gemstone for Rs. 10M
+
+*2024-06-24 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100065/two-individuals-arrested-over-attempt-to-sell-fake-gemstone-for-rs-10m) · `en`
+
+Anamaduwa Police has arrested two individuals for allegedly attempting to sell a fake gemstone to a businessman by falsely claiming that it is a valuable gem.
+
+The two suspects had attempted to sell the relevant fake gemstone for a sum of Rs. 10 million to a businessman in Anamaduwa last night (23).
+
+The businessman in question has informed the police about the matter due to a suspicion.
+
+The arrested suspects, aged 34 and 38, are residents of Paramakanda in Anamaduwa while they are suspected to be involved in various rackets.
+
+The two suspects were arrested in the Thennankuriyawa area on the Nawagaththegama road by the police officers as they were attempting to rob him of the money after showing the fake gemstone to the businessman, who had been directed to several locations before finally meeting him.
+
+The arrested suspects are to be produced before the Anamaduwa Magistrate’s Court.
+
+◼️
+
+[Data](articles/567fb1f7.json)
+
+---
+
+### யாழ்.இளைஞனை வெளிநாட்டு அனுப்புவதாக கூறி பணமோசடி செய்த நபர் கைது
+
+*2024-06-24 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186834) · `ta`
+
+மனித உரிமைகள் ஆணைக்குழுவின் ஊடாக வெளிநாட்டிற்கு அனுப்பி வைக்க முடியும் என இளைஞனிடம் கூறி , 60 இலட்ச ரூபாய் பணத்தினை பெற்றுக்கொண்டுள்ளார்.
+
+பணத்தினை பெற்றுக்கொண்டவர் , நீண்ட காலமாகியும் இளைஞனை வெளிநாட்டிற்கு அனுப்பி வைக்காததால், இளைஞன் பணத்தினை மீள கோரிய போது, பணத்தினை மீள வழங்காததால் பாதிக்கப்பட்ட இளைஞன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து , விசாரணைகளை முன்னெடுத்த பொலிஸார் குறித்த நபரை கைது செய்துள்ளனர்.
+
+விசாரணைகளில், குறித்த நபர் சர்வதேச மனித உரிமைகள் ஆணைக்குழுவில் வேலை செய்வதாகவும், கொழும்பில் வசிப்பதாகவும் இளைஞனிடம் கூறியது பொய் எனவும், கிழக்கு மாகாணத்தை சொந்த இடமாக கொண்டு, கிழக்கு மாகாணத்திலேயே வசித்து வருகிறார் என்பது தெரியவந்துள்ளது.
+
+குறித்த நபர் வேறு நபர்களையும் இவ்வாறு ஏமாற்றியுள்ளாரா? என்பது தொடர்பில் பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/07ae01cb.json)
+
+---
+
+### Sri Lanka burial issue: president says govt to introduce laws allowing free choice
+
+*2024-06-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-burial-issue-president-says-govt-to-introduce-laws-allowing-free-choice-169255/) · `en`
+
+ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim community on behalf of the government, President Ranil Wickremesinghe has said the government has decided to introduce new legislation allowing people to choose between burial and cremation.
+
+“The issue of burial has been a significant concern over the Muslim community in the country. Initially, a separate committee was appointed, deviating from the guidelines of the World Health Organisation (WHO), which created problems and caused hurt feelings among the Muslim community.
+
+“In response, the government has decided to introduce new legislation allowing individuals to choose between burial and cremation according to their wishes. Additionally, provisions have been made for bodies to be donated to medical faculties if desired. These measures aim to prevent similar issues from arising in the future,” he said.
+
+...
+
+[Data](articles/a9b887b2.json)
+
+---
+
+### Today in History: 1980
 
 *2024-06-24 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/186831) · `ta`
 
-மறைந்த முன்னாள் இந்திய பிரதமர் இந்திரா காந்தியின் இளைய மகனும் ராஜீவ் காந்தியின் தம்பியுமான சஞ்சய் காந்தி புது டெல்லியில் இடம்பெற்ற விமான விபத்தில் சிக்கி 1980ஆம் ஆண்டு ஜூன் 23ஆம் திகதி உயிரிழந்தார்.
+On June 23, 1980, Sanjay Gandhi, son of India's PM Indira Gandhi, died in a plane crash. The next day, the remains of Mahatma Gandhi and Jawaharlal Nehru were cremated near the Yamuna River.
 
-மகாத்மா காந்தி, ஜவஹர்லால் நேரு போன்றோரின் உடல்கள் தகனம் செய்யப்பட்ட யமுனை நதி தீரத்தின் சாந்தி வனத்திலேயே சஞ்சய் காந்தியின் பூதவுடலும் தகனம் செய்யப்பட்டது, இதே திகதியில் (ஜூன் 24) ஆகும்.
+🟩
 
-அவரது மரணம் தொடர்பான செய்திகளை 1980 ஜூன் 24, 25 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் முதல் பக்கங்களை இங்கே காணலாம்.
+Sanjay Gandhi, the youngest son of the late Indian Prime Minister Indira Gandhi and Rajiv Gandhi's younger brother, died on June 23, 1980 in a plane crash in New Delhi.
+
+The bodies of Mahatma Gandhi and Jawaharlal Nehru were cremated in the Shanti forest of the Yamuna River, which was cremated, and on the same date (June 24).
+
+Here are the first pages of the Weerakesari magazines published on June 24 and 25, 1980.
 
 ◼️
 
 [Data](articles/b7958136.json)
 
+[Extended Data](ext_articles/b7958136.ext.json)
+
 ---
 
-### யாழில் தம்பதியினர் மீது வாள் வெட்டு
+### අපේ කොල්ලෝ මේ පාරත් පැරදුණේ නයිට් ක්ලබ් ගිහින් ද ?
+
+*2024-06-24 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198091) · `si`
+
+මෙවර T20 ලෝක කුසලානයට සහභාගී වූ ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් රාත්‍රී සමාජ ශාලාවල කාලය ගතකර ඇති බවට යමෙක් ප්‍රකාශ කරන්නේ නම් එය ඔප්පු කර පෙන්වන්නැයි අභියෝග කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ඔහු මෙම අදහස් පළ කළේ අද (24) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+
+"අපේ හිටපු අමාත්‍යවරයෙක් මං දැක්කා කියනවා අපේ කණ්ඩායම රාත්‍රී 12ට කොහෙදෝ එළියට ගිහිල්ලා තමයි අනිත් දවසේ ප්‍රැක්ටිස් එකට අවේ කියලා... අමෙරිකවේ. මේක ඔප්පු කරන්න පුළුවන් නම් ඕනම කෙනෙකුට. නයිට් ක්ලබ් එකක හෝ පාටි එකක මේ ක්‍රීඩකයෝ මේ ටුවර් එක තුළ හිටියා කියලා. එහෙම කළොත් මම ඉල්ලා අස් වෙනවා. රටක් හැටිය දරුවන්ට උදව් කරන ඕනේ. මම දකින්නේ නෑ... සෝෂල් මීඩියා තුළ මඩ ගහලා, ජිල් බෝලයක්වත් ගහපු නැති උන් කතා කරන එක හරි කියලා."
+
+◼️
+
+[Data](articles/8b89e7cf.json)
+
+---
+
+### Sri Lanka’s Port City to have international university
+
+*2024-06-24 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-to-have-international-university-169217/) · `en`
+
+ECONOMYNEXT – An international university to be established in Sri Lanka’s Port City, a multi-services special economic zone, will offer undergraduate and postgraduate degree programmes including in medicine and IT.
+
+The university is estimated to accommodate 3,000 to 4,000 students, and will be located next to the City’s international school on a 2.5 Ha land plot, CHEC Port City Colombo Pvt Ltd said in a statement.
+
+“Fulfilling the regional demand for undergraduate and postgraduate degree programmes in engineering, information technology, business studies/management, finance, marketing, and medicine, Port City Colombo aims to contribute positively towards the reversal of ‘brain drain’ and reduction of the current skills gap in the local employment market.”
+
+The university, with research and development facilities, aims to position Colombo as a regional hub for tertiary education.
+
+...
+
+[Data](articles/e6f64d83.json)
+
+---
+
+### Sword cut on couple in Jaffna
 
 *2024-06-24 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/186830) · `ta`
 
-யாழ்ப்பாணத்தில் வீடு புகுந்த இனம் தெரியாத நபரொருவர் தம்பதியினர் மீது வாள் வெட்டு தாக்குதலை மேற்கொண்டு விட்டு தப்பி சென்றுள்ளார்.
+In Jaffna, an intruder attacked a sleeping couple with a sword before fleeing. The incident occurred in the northern part of Nawali.
 
-நவாலி வடக்கு பகுதியில் உள்ள வீடொன்றினுள் அத்துமீறி நுழைந்த நபர் ஒருவர் தூக்கத்தில் இருந்த தம்பதியினர் மீது வாள் வெட்டு தாக்குதலை மேற்கொண்டு விட்டு தப்பி சென்றுள்ளார்.
+🟩
+
+An unidentified person who entered Jaffna has fled after a sword attack on a couple.
+
+A man who broke into a house in the northern part of Nawali has fled after a sword attack on a sleeping couple.
 
 ◼️
 
 [Data](articles/defba9b7.json)
 
+[Extended Data](ext_articles/defba9b7.ext.json)
+
 ---
 
-### காய்ச்சலுக்கு மருந்தெடுத்த பெண் உயிரிழப்பு - யாழில் சம்பவம்
+### Woman dies in fever - incident in Jaffna
 
 *2024-06-24 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186829) · `ta`
 
-யாழ்ப்பாணம், சாவற்காட்டு பகுதியில் காய்ச்சலுக்கு மருந்து எடுத்து, மருந்தை உட்கொண்ட  நபரொருவர் உயிரிழந்துள்ளார்.
+In Jaffna, a woman died from fever complications. She sought treatment at the Jaffna Bodhana Hospital but passed away after returning home. Autopsies were conducted, with samples sent to Colombo for more analysis.
 
-குறித்த பெண்ணுக்கு கடந்த 20ஆம் திகதி திடீரென காய்ச்சல் ஏற்பட்டுள்ளது. அதற்காக 22ஆம் திகதி யாழ்.போதனா வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்று, மருந்தினை பெற்றுக்கொண்டு வீடு திரும்பியுள்ளார்.
+🟩
 
-மருந்தினை உட்கொண்ட பின்னர், மறுநாள் 23ஆம் திகதியான நேற்றைய தினம் உடல் நிலை மிக மோசமாகி மூச்சுவிட சிரமப்பட்ட நிலையில், யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து செல்லப்பட்ட நிலையில் அவர் உயிரிழந்துள்ளார்.
+A person who has taken the drug for fever in the Jaffna, Jaffna area has died.
 
-யாழ்.போதனா வைத்தியசாலையில் உடற்கூற்று பரிசோதனைகள் மேற்கொள்ளப்பட்டு மேலதிக பரிசோதனை நடவடிக்கைக்காக மாதிரிகள் கொழும்புக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+The woman had a sudden fever on the 20th. On the 22nd of this month, he went to the Jaffna Bodhana Hospital and returned home after receiving treatment.
+
+He died after being taken to the Jaffna Bodhana Hospital after taking the pharmacy on the 23rd of yesterday.
+
+Anatomical examinations have been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
 
 ◼️
 
 [Data](articles/36e61d0a.json)
 
+[Extended Data](ext_articles/36e61d0a.ext.json)
+
 ---
 
-### கணவருடன் உடலுறவு: மனைவி கைது
+### Sri Lanka president calls for establishment of Palestinian state within five years
 
-*2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-மனைவி-கைது/175-339326) · `ta`
+*2024-06-24 13:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-establishment-of-palestinian-state-within-five-years-169250/) · `en`
 
-தனது கணவருடன் உறவு கொண்ட பெண்ணிடம் ஐம்பது இலட்சம் ரூபா கப்பம் கோரி, அந்த நபரின் மனைவி கைது செய்யப்பட்டுள்ளார்.
+ECONOMYNEXT — Sri Lanka continues to support the establishment of a Palestinian state within five years, President Ranil Wickremesinghe said.
 
-குறித்த உடலுறவுக் காட்சிகளின் காணொளிகளை இணையத்தில் வெளியிடப் போவதாக அச்சுறுத்திய குற்றச்சாட்டில் ஓய்வுபெற்ற பெண் பொலிஸ் கான்ஸ்டபிளே லிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோகத் தடுப்புப் பணியகத்தினால் கைது செய்யப்பட்டுள்ளார்.
+Speaking at a religious service held on Sunday June 23 at the New Kathankudy Grand Jummah Mosque for the people of Gaza affected by the ongoing Israel-Hamas war, Wickremesinghe said it is essential to set a deadline because discussions have been ongoing over four to five decades.
 
-இந்தக் குற்றத்துக்கு உதவியதாக சந்தேகிக்கப்படும் அமைச்சர் பாதுகாப்புப் பிரிவில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபிளும் கைது செய்யப்பட்டுள்ளார்.
-
-அமைச்சரின் பாதுகாப்புப் பிரிவின் பொலிஸ் கான்ஸ்டபிள் பன்னிப்பிட்டிய தெபானம பகுதியைச் சேர்ந்த பெண்ணொருவருடன் தொடர்பு வைத்திருந்துள்ளார்.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
-
-இருவரும் உடலுறவில் ஈடுபடும்போது, அதனை பொலிஸ் கான்ஸ்டபிள் தனது அலைதொலைபேசியில் பதிவு செய்துள்ளார்.
-
-இந்நிலையில், கணவரின் அலைபேசியில் காணப்பட்ட வீடியோக்களை தனது கணவருடன் உடலுறவு கொண்ட பெண்ணிடம் காட்டி, இவற்றை இணையத்தில் வெளியிடாமல் இருக்கவேண்டுமாயின் ஐம்பது லட்சம் ரூபாவை தனக்கு கப்பமாக தருமாறு ​அப்பெண் மிரட்டியுள்ளார்.
+“The government maintains a steadfast position on the Gaza issue, which will not change. If Israel has issues with Hamas, retaliation should not be taken against the people of Gaza. It is crucial to assist Palestine in finding solutions. Our stance is to establish the Palestinian state within five years. It is essential to set a deadline because discussions have been ongoing over four to five decades. Therefore, we must take action according to a specific time frame,” the President’s Media Division (PMD) quoted Wickremesinghe as saying.
 
 ...
 
+[Data](articles/ca2c849f.json)
+
+---
+
+### Husband intercourse: wife arrested
+
+*2024-06-24 13:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவு-மனைவி-கைது/175-339326) · `ta`
+
+A retired female police constable and her husband, also a police constable, were arrested for allegedly extorting money by threatening to release explicit videos. The woman demanded 50 lakh rupees from another woman involved with the husband. The constable had recorded their intimate moments, leading to the arrest of both parties.
+
+🟩
+
+The man's wife has been arrested for demanding fifty lakhs of rupees for a woman who has been in a relationship with her husband.
+
+Retired Female Police Constable Liz has been arrested by the Children's and Women's Abuse Bureau for allegedly threatening to publish videos of sexual footage.
+
+The Minister of Police and the Police Constable, which is suspected of assisting the crime, has been arrested.
+
+Police Constable of the Minister's Security Unit.  இருவரும் பல தடவைகள் உடலுறவு கொண்டுள்ளனர் என கூறப்படுகிறது.
+
+When the two have intercourse, the police constable has recorded it on his mobile phone.
+
+In this case, the woman has threatened her to pay her fifty lakhs of rupees if she does not publish the videos on her husband's cell phone with her husband.
+
+In this regard, the authorities of the Bureau of the Bureau were investigating the complaint lodged by the Woman Police Children and Women's Abuse Prevention Bureau.
+
+The retired female Constable and her husband, Constable, have been arrested.
+
+◼️
+
 [Data](articles/079471ba.json)
+
+[Extended Data](ext_articles/079471ba.ext.json)
 
 ---
 
@@ -178,19 +312,25 @@ Meanwhile, SLC says that tickets for Kandy competitions will be launched today (
 
 ---
 
-### க.பொ.த சாதாரணதரப் பரீட்சை பெறுகள் தொடர்பில் வெளியான தகவல்
+### Information on GCE Ordinary Level Examination
 
 *2024-06-24 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/186824) · `ta`
 
-2023 (2024) ஆம் ஆண்டு கல்விப் பொதுத் தராதர சாதாரணதரப் பரீட்சை பெறுபேறுகள் அடுத்த 10 நாட்களுக்குள் வெளியிடப்படும் என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+The GCE Ordinary Level Examination results, from exams held in March with over 453,000 participants, including school and private candidates, will be out in the next 10 days according to the Department of Examinations and Commissioner General Amit Jayasundera.
 
-இந்த வாரத்திற்குள் பெறுபேறுகளை வெளியிட நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும், அவ்வாறு இல்லையெனில் அடுத்த 10 நாட்களுக்குள் பெறுபேறுகள் வெளியிடப்படும் என பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+🟩
 
-சாதாரண தரப் பரீட்சைகள் கடந்த மார்ச் மாதம் நடைபெற்றது. அதில்  452,979 பரீட்சார்த்திகள் பரீட்சைக்குத் தோற்றினர். அவர்களில் 387,648 பேர் பாடசாலை பரீட்சார்த்திகள் மற்றும் 65,331 பேர் தனியார் விண்ணப்பதாரர்கள் அடங்குவர்.
+The Department of Examinations has announced that the results of the GCE Ordinary Level Examination will be released within the next 10 days.
+
+The Commissioner General of Examinations Amit Jayasundera said that the results are being released within the next 10 days.
+
+Ordinary Level Examinations held last March. 452,979 examiners appeared for the exam. They include 387,648 school candidates and 65,331 private applicants.
 
 ◼️
 
 [Data](articles/e0d67af8.json)
+
+[Extended Data](ext_articles/e0d67af8.ext.json)
 
 ---
 
@@ -238,35 +378,47 @@ The woman's anatomical examination has been carried out at the Jaffna Bodhana Ho
 
 ---
 
-### காய்ச்சலுக்கு மருந்து குடித்த பெண் உயிரிழப்பு
+### Dieselia
 
 *2024-06-24 13:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காய்ச்சலுக்கு-மருந்து-குடித்த-பெண்-உயிரிழப்பு/71-339325) · `ta`
 
-காய்ச்சலுக்கு சிகிச்சை பெற்று , மருந்தை உட்கொண்ட பெண் ஒருவர் உயிரிழந்த சம்பவம் ஞாயிற்றுக்கிழமை (23) இடம்பெற்றுள்ளது .
+Vijayakumar Gunarani, a 63-year-old from Jaffna, died suddenly after returning home from hospital where she was treated for a fever. Her condition worsened on Sunday, leading to her death. An autopsy was conducted, with samples sent to Colombo for further analysis.
 
-யாழ்ப்பாணம் , சாவற்காட்டு பகுதியை சேர்ந்த 63 வயதுடைய விஜயகுமார் குணராணி என்ற பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்
+🟩
 
-குறித்த பெண்ணுக்கு கடந்த 20ஆம் திகதி ஏற்பட்ட திடீர் காய்ச்சல் காரணமாக , 22ஆம் திகதி யாழ்.போதனா வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்று , மருந்தினை பெற்றுக்கொண்டு வீடு திரும்பியுள்ளார்.
+The incident took place on Sunday (23), who was killed by a woman who was treated for a fever and taking her medicine.
 
-பெற்றுக்கொண்ட மருந்தை உட்கொண்ட பின்னர்,ஞாயிற்றுக்கிழமை (23) அன்று குறித்த பெண்ணின் உடல் நிலை மிக மோசமாகி மூச்சுவிட சிரமப்பட்ட நிலையில் , யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார் .
+Vijayakumar Gunarani, a 63 -year -old woman from Jaffna, Jaffna, has died.
 
-குறித்த பெண்ணின் உடற்கூற்று பரிசோதனைகள் யாழ்.போதனா வைத்தியசாலையில் மேற்கொள்ளப்பட்டு, மேலதிக பரிசோதனை நடவடிக்கைக்காக மாதிரிகள் கொழும்புக்கு அனுப்பி வைக்கப்பட்டுள்ளது
+Due to the sudden fever on the 20th of last month, she went to the Jaffna Bodhana Hospital on the 22nd and returned home after receiving treatment.
+
+After taking the medicine he received, the woman's body was bad on Sunday (23) and died after being admitted to the Jaffna Bodhana Hospital.
+
+The woman's anatomical examination has been carried out at the Jaffna Bodhana Hospital and samples have been sent to Colombo for further testing.
 
 ◼️
 
 [Data](articles/e3102b39.json)
 
+[Extended Data](ext_articles/e3102b39.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-24 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186828) · `ta`
 
-இன்று திங்கட்கிழமை (ஜூன் 24) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 300.5658 ஆகவும் கொள்வனவு விலை ரூபா 309.8847 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On June 24, the US dollar sold for 300.5658 and bought back for 309.8847 according to the Central Bank's rates.
+
+🟩
+
+The US dollar sales price was 300.5658 and the purchase price was Rs 309.8847 based on the Central Bank's currency exchange rate on Monday (June 24).
 
 ◼️
 
 [Data](articles/85e573ba.json)
+
+[Extended Data](ext_articles/85e573ba.ext.json)
 
 ---
 
@@ -364,21 +516,27 @@ Five months after the judicial process conducted by the Seychelles government re
 
 ---
 
-### மைத்திரி இன்றி வழக்கை விசாரிக்க முடிவு
+### The decision to investigate the case without Maithri
 
 *2024-06-24 12:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-இன்றி-வழக்கை-விசாரிக்க-முடிவு/175-339322) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு எதிராக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்பினர் ஒருவர் தாக்கல் செய்த வழக்கை ஒருதலைப்பட்சமாக ஆராய கொழும்பு பிரதான மாவட்ட நீதவான்  சந்துன் விதான இன்று தீர்மானித்தார்.
+Chandun Vidhan, Colombo Chief District Magistrate, decided to proceed with a case against former President Maithripala Sirisena, filed by an SLFP member, due to Sirisena's absence of legal representation. The case involves allegations related to the appointment of an SLFP leader, with the court issuing an interim injunction against Sirisena based on a petition by Mundiku Sarachandran, an SLFP executive committee member.
 
-மைத்திரிபால சிறிசேனவுக்காக நீதிமன்றில் ஆஜராக சட்டத்தரணி இல்லாத காரணத்தினால், இந்த வழக்கை ஒருதலைப்பட்சமாக விசாரணைக்கு எடுத்துக்கொள்ள தீர்மானிக்கப்பட்டது.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவிக்கு நியமித்ததை எதிர்த்து   இந்த வழக்கைத் தாக்கல் செய்திருப்பதுடன், நீதிமன்றமும் சிறிசேனாவுக்கு இடைக்காலத் தடை உத்தரவு பிறப்பித்துள்ளது.
+Colombo Chief District Magistrate Chandun Vidhan today decided to unilaterally investigate the case filed by a SLFP member of the Sri Lanka Freedom Party (SLFP) against former President Maithripala Sirisena.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான  முண்டிகு சரச்சந்திரனால் தாக்கல் செய்யப்பட்ட மனுவை பரிசீலித்த போதே இந்த இடைக்கால தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+It was decided to take the case unilaterally due to the lack of a lawyer appearing in court for Maithripala Sirisena.
+
+The case has been filed against the appointment of the Sri Lanka Freedom Party (SLFP) leader and the court has issued an interim injunction to Sirisena.
+
+The interim injunction was issued when the petition filed by Mundiku Sarachandran, a member of the Sri Lanka Freedom Party (SLFP) executive committee and the organizer of the Sri Lanka Freedom Party (SLFP).
 
 ◼️
 
 [Data](articles/133dcce2.json)
+
+[Extended Data](ext_articles/133dcce2.ext.json)
 
 ---
 
@@ -502,6 +660,32 @@ The arrested persons were to be produced before the Anuradhapura Magistrate's Co
 
 ---
 
+### Ed Sheeran concert in Sri Lanka in January: Minister
+
+*2024-06-24 12:05:00* · [`economynextcom`](https://economynext.com/ed-sheeran-concert-in-sri-lanka-in-january-minister-169206/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to host Ed Sheeran concert in January 2025, supported by Cinnamon hospitality group, Minister of Tourism Harin Fernando said.
+
+“Recently a company came forward to bring Ed Sheeran, the one of key singers to Sri Lanka in January or February,” Fernando told reporters in Colombo Monday.
+
+“Cinnamon Life is the firm that has undertaken to bring him.”
+
+This would be a first international pop star performance in the island for many years.
+
+The Sri Lanka Tourism Promotion Bureau also said that they would be developing Sri Lanka’s entertainment in order to compete with neighboring countries.
+
+“We compete with countries such as Thailand, Maldives and Singapore,” Fernando said.
+
+Despite the competition, Sri Lanka has not had a concert by an international artist since 2015.
+
+Sri Lanka expects 2.3 million tourists in 2024 and the tourist authorities said initially an even higher number was possible.
+
+...
+
+[Data](articles/ba523913.json)
+
+---
+
 ### Increase in Sri Lanka
 
 *2024-06-24 11:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழ-நுகர்வு-இலங்கையில்-அதிகரிப்பு/175-339320) · `ta`
@@ -528,43 +712,57 @@ Dr. Dr. Kamani Ranatunga, Director General of the Department of Agriculture, Dr.
 
 ---
 
-### தாய் சித்திரவதை புரிவதாக யாழில் தஞ்சமடைந்த இந்திய சிறுவன்
+### Indian boy who has taken refuge in Jaffna
 
 *2024-06-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186820) · `ta`
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் வந்து, பொலிஸ் நிலையத்தில் தஞ்சமடைந்த சிறுவன் மீள அவனது தாயாரிடம் ஒப்படைக்கப்பட்டுள்ளான்.
+An Indian boy sought refuge in Jaffna after fleeing from Colombo due to alleged abuse against his mother and her second husband. The boy, originally from North India, was living with his mother in Colombo while she worked at a Gazino. He planned to travel to Mannar and then to India by sea but ended up in Jaffna. Unable to find shelter, he took refuge at a police station. His mother was brought to Jaffna, where she agreed to take him back to Colombo, and the police facilitated their return.
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் வந்த சிறுவன் ஒருவன், தனது தாய் மற்றும் தாயின் இரண்டாவது கணவர் ஆகியோர் தன்னை அடித்து சித்திரவதை புரிவதாக கூறி யாழ்ப்பாண பொலிஸ் நிலையத்தில் தஞ்சமடைந்திருந்தான்.
+🟩
 
-சிறுவன் தொடர்பில் விசாரணைகளை முன்னெடுத்த போது , சிறுவன் வடஇந்தியாவை சேர்ந்தவன் எனவும், அவனது தாய் கொழும்பில் கஸீனோவில் வேலை செய்வதாகவும், இங்கு இலங்கையைச் சேர்ந்த நபருடன் தங்கி இருப்பதும் தெரிய வந்துள்ளது.
+The boy who came to Jaffna from Colombo and the refugee at the police station has been handed over to his mother.
 
-அதேவேளை, சிறுவன் மன்னார் சென்று அங்கிருந்து கடல் வழியாக இந்தியா செல்வதற்கு திட்டமிட்டு, கொழும்பில் இருந்து வெளியேறி மன்னார் பேருந்தில் ஏறுவதற்கு பதிலாக யாழ்ப்பாணம் செல்லும் பேருந்தில் ஏறியமையால், யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+A boy from Colombo, a boy from Colombo, had taken refuge at the Jaffna police station claiming that his mother and mother's second husband were beaten and tortured.
 
-யாழ்ப்பாணம் வந்த சிறுவனுக்கு எங்கே செல்வது என தெரியாததால், பொலிஸ் நிலையத்தில் தஞ்சமடைந்துள்ளான்.
+When the boy was investigating the boy, it was revealed that the boy was from North India, his mother was working in Gazino in Colombo and staying with a Sri Lankan person here.
 
-சிறுவனின் தாயை பொலிஸார் யாழ்ப்பாணம் அழைத்து விசாரணை செய்த வேளை சிறுவன் செய்யும் தவறுகளுக்கு தான் சிறுவனை தண்டிப்பதாக கூறியுள்ளார்.
+Meanwhile, the boy is planning to go to Mannar and then travel to India by sea, leaving Colombo and boarding a bus to Jaffna instead of boarding the Mannar bus.
 
-...
+The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
+
+When the boy's mother was called in Jaffna, he said that he would punish the boy for the mistakes of the boy.
+
+The police then compromised the boy and warned the mother and sent the boy to Colombo.
+
+◼️
 
 [Data](articles/3ad5a94a.json)
 
+[Extended Data](ext_articles/3ad5a94a.ext.json)
+
 ---
 
-### நாம் ஒற்றுமையாக இல்லையெனில் எமது இனத்தை சிங்கள தேசத்திடமிருந்து காப்பாற்ற முடியாது : இப்போதும் ஒற்றுமையில்லை என செல்வம் கவலை !
+### If we are not united, we will not be able to save our race from the Sinhalese nation: Wealth is still united!
 
 *2024-06-24 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186805) · `ta`
 
-நாங்கள் ஒற்றுமையாக இல்லையெனில் எமது இனத்தை சிங்கள தேசத்தில் இருந்து காப்பாற்ற முடியாது. துப்பாக்கி சத்தம் இல்லாத போதும் எமது மக்களின் பூர்வீகத்தை ஒழித்து நிலங்களை அபகரிக்கின்ற திணைக்களங்களை வைத்துக் கொண்டு நிலத்தை பறிக்கும் செயற்பாடுகள் தொடர்கின்றன. ஒற்றுமை என்பது இப்போதும் இல்லாமல் இருப்பதை எண்ணுகின்ற போது கவலையாக இருக்கிறதென தமிழீழ விடுதலை இயக்கத்தின் (ரெலோ)  தலைவரும் வன்னி மாவட்ட நாடாளுமன்ற உறுப்பினருமான செல்வம் அடை க்கலநாதன் தெரிவித்துள்ளார்.
+Unity among the Sinhalese nation is crucial for survival; without it, the race faces extinction due to land seizures and oppression. The absence of unity is alarming, despite efforts to address native rights. Leaders emphasize the importance of collaboration and unity in facing challenges, highlighting the need for all parties to work together for the liberation of the Tamil people.
 
-வவுனியாவில் தமிழீழ விடுதலை இயக்கத்தின் ஸ்தாபக தலைவர் சிறி சபாரத்தினத்தின் சிலையை ஞாயிற்றுக்கிழமை (23) திறந்து வைத்து உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ் மக்களின் விடுதலைக்காக தென்னிலங்கையில் பல சமர்களை செய்து தியாகங்கள் புரிந்து விடுதலைக்காக பாடுபட்ட ஒரு இயக்கமே தமிழீழ விடுதலை இயக்கம். அதன் தலைவருடைய சிலையை இன்று திறந்து வைத்துள்ளோம்.
+If we are not united, we cannot save our race from the Sinhala nation. Despite the lack of noise, the landfall continues with the departments that abolish the natives of our people and extort the land.The leader of the Liberation Tigers of Tamil Eelam (RELO) of the Liberation Tigers of Tamil Eelam (RELO) and Vanni district parliamentarian Selvam Adhakkalanathan said that unity is still not present.
 
-நாங்கள் ஒற்றுமையாக இல்லை என்றால் எங்களது இனத்தையும், எங்களது நிலத்தையும், எங்களது  பூர்வீகத்தையும் காப்பாற்ற முடியாது என்பதை சிறி அண்ணாவின் சிலை வெளிப்படுத்துகின்றது.
+He said this while addressing the inauguration of the statue of Siri Sabarathinam in Vavuniya on Sunday (23).
+
+The Liberation Tigers of Tamil Eelam (LTTE) is a movement that has made many sacrifices in the South for the liberation of the Tamil people. We have opened the statue of its leader today.
+
+The statue of Siri Anna reveals that if we are not united, we cannot save our race, our land and our ancestry.
 
 ...
 
 [Data](articles/b3bc92c3.json)
+
+[Extended Data](ext_articles/b3bc92c3.ext.json)
 
 ---
 
@@ -624,21 +822,27 @@ The suspects were arrested along with police officers who were informed of sever
 
 ---
 
-### சீனா பயணமானார் அமைச்சர் ஜீவன் தொண்டமான்
+### China travels Minister Jeevan Thondaman
 
 *2024-06-24 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186815) · `ta`
 
-உலக பொருளாதார மையத்தின் அழைப்பின்பேரில் சீனா நாட்டில் நடைபெறவுள்ள உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துகொள்ள அமைச்சர் ஜீவன் தொண்டமான் (23) ஞாயிற்றுக்கிழமை மாலை சீன நாட்டுக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு பயணித்துள்ளார்.
+Jeevan Thondaman, Sri Lanka's young Minister of Plantation Infrastructure, visited China for the World Young Leaders Conference, invited by the World Economic Center. Accompanied by ministry officials, he plans to engage in several key events over a week, including addressing the World Economic Center and participating in the JRDC-Joint Research and Demonstration Center for Water Technology. His aim is to enhance water resource management and rural development projects over the next five years.
 
-இவருடன் நீர் வழங்கள் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சின் அதிகாரிகள் உட்பட பலர் சென்றுள்ளதாக அமைச்சர் ஜீவன் தொண்டமானின் ஊடக பிரிவு தெரிவித்துள்ளது.
+🟩
 
-ஒருவாரகால உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள அமைச்சர் ஜீவன் தொண்டமான் சீனாவில் முக்கிய பல நிகழ்வுகளில் பங்கேற்கவுள்ளார்.
+Minister Jeevan Thondaman (23) made an official visit to the Chinese on Sunday evening to attend the World Young Leaders Conference to be held in China at the invitation of the World Economic Center.
 
-இதில் உலக பொருளாதார மையத்தின் அழைப்பின்பேரில்  உலக இளம் தலைவர்களுக்கான மாநாட்டில் கலந்துக்கொண்டு விசேட உரையாற்றவுள்ள அவர், சீன விஞ்ஞான ஆய்வகத்தின் (JRDC-Joint Research and Demonstration Center for Water Technology) அழைப்பையேற்று நீர் வளத்துறை, தோட்ட மற்றும் கிராமிய நீர்வளங்களை மேம்படுத்த அடுத்த 5 ஆண்டுக்கான திட்டங்களை வடிவமைத்தல் தொடர்பான நிகழ்வுகளிலும் பங்கேற்க உள்ளதாக அமைச்சின் ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது.
+Minister Jeevan Thondaman's media unit said that he had accompanied him, including officials of the Ministry of Plantation Infrastructure.
+
+Minister Jeevan Thondaman, who has made an official visit for a week, will attend several major events in China.
+
+Speaking at the World Economic Center, he will address the World Economic Center and a special speech, he will call on the JRDC-Joint Research and Demonstration Center for Water Technology to participate in the next 5 years to improve the projects for the next 5 years to improve the water resources, plantation and rural water resources.Has been reported.
 
 ◼️
 
 [Data](articles/dbca96a8.json)
+
+[Extended Data](ext_articles/dbca96a8.ext.json)
 
 ---
 
@@ -2109,123 +2313,5 @@ In addition, the JRDC-Joint Research and Demonstration Center for Water Technolo
 [Data](articles/35475a20.json)
 
 [Extended Data](ext_articles/35475a20.ext.json)
-
----
-
-### The IMF Review: How does it align with the IMF Tracker by Verité Research?
-
-*2024-06-23 23:35:18* · [`dailyftlk`](https://www.ft.lk/opinion/The-IMF-Review-How-does-it-align-with-the-IMF-Tracker-by-Verité-Research/14-763361) · `en`
-
-The IMF made a significant positive contribution to Sri Lanka by reinforcing the agenda of governance and anti-corruption in keeping with the overwhelming voice of the people of Sri Lanka. It produced an excellent Governance Diagnostic Assessment, that was very much in sync with the Civil Society Governance Diagnostic Report produced in Sri Lanka
-
-The IMF Tracker maintained by Verité Research allows people to know the progress of actions in the IMF program on a month-by-month basis without having to wait 6-9 months for an IMF review. The last update of the Tracker was for the end of May, and the second IMF Review came out on 12 June, 2024. How did the IMF’s evaluation in the second review compare with the Tracker?
-
-...
-
-[Data](articles/d6104adb.json)
-
-[Extended Data](ext_articles/d6104adb.ext.json)
-
----
-
-### Sri Lanka’s first ever participation at International Jewellery Vietnam 2024
-
-*2024-06-23 23:31:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-first-ever-participation-at-International-Jewellery-Vietnam-2024/34-763360) · `en`
-
-The Embassy of Sri Lanka in Vietnam in collaboration with the National Gem and Jewellery Authority (NGJA) and Industrial Development Board (IDB) organised the participation of Sri Lankan companies at the International Jewellery Vietnam 2024 for the first time. The fair was held from 8 to 11 June 2024 at Nguyen Du Stadium in Ho Chi Minh City.
-
-Five Sri Lankan companies namely, Prasad Gems and Lapidary, Ranmuthu Jewellers, Elegant Jewellery Works, Oriental Jewel Craft and Southern Jewellery and WorkShop participated in the fair. The fair displayed many products such as diamonds, sapphires, rubies, emeralds, coloured gemstones, amber, pearls of high quality, attractive jewellery collections made from gold and silver, and also machinery, equipment, tools, chemicals, and packaging used in the jewellery industry.
-
-...
-
-[Data](articles/1c0e6e14.json)
-
-[Extended Data](ext_articles/1c0e6e14.ext.json)
-
----
-
-### SLGJA, Gold sponsor of Ratnapura International Gem and Jewellery show
-
-*2024-06-23 23:21:19* · [`dailyftlk`](https://www.ft.lk/business/SLGJA-Gold-sponsor-of-Ratnapura-International-Gem-and-Jewellery-show/34-763359) · `en`
-
-From left : NGJA Chairman Viraj de Silva, Industries State Minister Chamara Sampath Dassanayake, Industries Ministry Secretary Shantha Weerasinghe, NGJA Director General Janaka Udaya Kumara, SLGJA President Ajward Deen, SLGJA Former President A. H. M. Imtizam, SLGJA Vice President – Operations Firaz Hameed, Foreign Promotions Vice President and FACETS Sri Lanka Chairman Armil Sammoon
-
-The Sri Lanka Gem and Jewellery Association (SLGJA), the apex body of Sri Lanka’s gem and jewellery industry, has announce their support for the Ratnapura International Gem and Jewellery show as its Gold sponsor.
-
-The show is organised by the National Gem and Jewellery Authority (NGJA), in partnership with Lanka Gem Miners and Traders Association and other established gem societies in Ratnapura. The SLGJA’s support as Gold sponsor underscores the associations support for the industry and initiatives that promote the growth of its members.
-
-...
-
-[Data](articles/c01b7029.json)
-
-[Extended Data](ext_articles/c01b7029.ext.json)
-
----
-
-### Poson lessons for leaders: Being brilliant in a BANI world
-
-*2024-06-23 22:59:35* · [`dailyftlk`](https://www.ft.lk/columns/Poson-lessons-for-leaders-Being-brilliant-in-a-BANI-world/4-763354) · `en`
-
-The rate of change has accelerated in rapid shifts in many spheres. From a planetary pandemic we have been exposed to a perilous path of turbulence. We just witnessed a serene Poson Poya with Sri Lanka experiencing some signs of recovery. It is an opportune time to reflect on leading in a BANI world drawing inspirations from Poson.
-
-...
-
-[Data](articles/0a66462b.json)
-
-[Extended Data](ext_articles/0a66462b.ext.json)
-
----
-
-### Dr. H.N. Thenuwara: Sri Lanka should regain the missed industrial revolutions
-
-*2024-06-23 22:48:35* · [`dailyftlk`](https://www.ft.lk/columns/Dr-H-N-Thenuwara-Sri-Lanka-should-regain-the-missed-industrial-revolutions/4-763352) · `en`
-
-A necessary condition for a country to have an industrial revolution is the creation of a suitable environment for inventions that should be innovated by entrepreneurs through a process, according to the Austrian American economist Joseph Schumpeter, known as innovation. For this to happen, people should have opportunities for acquiring skills and knowledge and business ability to put the new inventions into commercial production. If countries have gone through this process successfully embracing each of the successive industrial revolutions, the result would be the continuous increase in the income creating wealth and prosperity
-
-...
-
-[Data](articles/e86ad097.json)
-
-[Extended Data](ext_articles/e86ad097.ext.json)
-
----
-
-### England win
-
-*2024-06-23 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198074) · `si`
-
-In a cricket match today, England defeated the USA, scoring 117 runs in just 9 overs after winning the toss and choosing to bat first. The US bowled aggressively, taking 5 wickets.
-
-🟩
-
-England won the match between England and the United States of America today (23).
-
-It scored 117 overs in 9 overs against the US.
-
-England won the toss and giving the batting to bat first.
-
-Accordingly, the ball assaulted by 115 overs and 5 burn.
-
-◼️
-
-[Data](articles/1274f23a.json)
-
-[Extended Data](ext_articles/1274f23a.ext.json)
-
----
-
-### Which is needed more, Economic Transformation Bill or Economic Development Plan?
-
-*2024-06-23 22:38:41* · [`dailyftlk`](https://www.ft.lk/columns/Which-is-needed-more-Economic-Transformation-Bill-or-Economic-Development-Plan/4-763351) · `en`
-
-The most dangerous part of these ‘illusions’, propagated by irresponsible governments, is the fact that the populace is made to believe that they could have the benefits of development, without true development
-
-The most important sector in any economy is the SMI sector, as it provides the best possibility to widespread the manufacturing process bringing benefits to many, rather than develop a few big companies. To do so development banking plays a major role and if this ETB was serious about it, development banks should have been one of those institutions created, within the bill. Therefore, development banking should be a major focus and not just an afterthought. All this would come up when developing a plan, which does not seem to be on the table
-
-...
-
-[Data](articles/a9bc084a.json)
-
-[Extended Data](ext_articles/a9bc084a.ext.json)
 
 ---

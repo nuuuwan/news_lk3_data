@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 21:36:55**
+As of **2024-06-24 21:54:04**
 
 ## Newspaper Stats
 
-*Scraped **31,933** Articles*
+*Scraped **31,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,631
 tamilmirrorlk | 3,764
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,233
+adaderanasinhalalk | 5,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,933 (100.0%) of 31,933 articles have been extended.
+31,933 (100.0%) of 31,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### ව්‍යාපෘති ජාවාරම් කරගත් හැටි
+
+*2024-06-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198111) · `si`
+
+කුරුණෑගල දිස්ත්‍රික්කයේ වැව්වල රොන්මඩ ඉවත්කිරීමේ ව්‍යාපෘති රැසක් වැලි ජාවාරම් බවට පත්වී ඇතැයි රාජ්‍ය ගිණුම් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+
+ඒ ගොවිජන සේවා දෙපාර්තමේන්තුවේ නිලධාරීන් එම කාරක සභාව හමුවට ඊයේ (23) කැඳවූ අවස්ථාවේදීය.
+
+නියෝජ්‍ය විගණකාධිපති -  "ප්‍රධාන කාර්යාලයට යැවූ විගණන විමසුම් 98කට තවමත් පිළිතුරු දීලා නැහැ. 2019 වර්ෂයේ සිට තියෙනවා."
+
+සභාපති ලසන්ත අලගියවන්න - "පොදු ව්‍යාපාර කාරක සභාවේදී මේ ගැන කතා කරන්නේ නැද්ද.... ලේකම්තුමා ?"
+
+අමාත්‍යාංශ ලේකම් - "කතා කරනවා. කතා කරලා අවශ්‍ය උපදෙස් ලබාදී පසුවිපරම් සිදුකරනවා."
+
+...
+
+[Data](articles/c2831d6a.json)
+
+---
 
 ### Young family death in an accident
 
@@ -2381,31 +2401,5 @@ As a result of this, the 92nd day is still continuing the struggle by presenting
 [Data](articles/fd2601d3.json)
 
 [Extended Data](ext_articles/fd2601d3.ext.json)
-
----
-
-### The body of boardless father, who was not in his back, is Yach
-
-*2024-06-24 10:52:04* · [`adalk`](https://www.ada.lk/breaking_news/ආගිය-අතක්-නොමැතිව-සිටි-තිදරු-පියෙකු-ගේ-මළසිරුරක්--වෙල්‍-යායක/11-410391) · `si`
-
-A 42-year-old man named PH, known as "father of a father of Nagoda," was found dead. His body was identified by family members and had been hospitalized in Nagoda, Kalutara, before being removed. The case is under investigation by Inspector General Gayan Krizhahantha and Sergeant Priyadarshana.
-
-🟩
-
-The body of a four-day father, a father of a father of Nagoda, has met with a father of Nagoda.
-
-The deceased is PH. Police said that Sirisena was a father of 42-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year-old four-year old.
-
-The body has been identified by the nearest relatives of the victim.
-
-The deceased has been admitted to the Nagoda Hospital in Kalutara and had been admitted to the Nagoda Hospital in Kalutara and had been withdrawn from the day.
-
-Criminal Division OIC Inspector General of Police Gayan Krizhahantha and Sergeant W.. Priyadarshana (7859) are investigating.
-
-◼️
-
-[Data](articles/a6245d6d.json)
-
-[Extended Data](ext_articles/a6245d6d.ext.json)
 
 ---

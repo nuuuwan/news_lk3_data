@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 10:05:58**
+As of **2024-06-24 10:19:30**
 
 ## Newspaper Stats
 
-*Scraped **31,804** Articles*
+*Scraped **31,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,786
-adaderanalk | 3,611
+adalk | 2,788
+adaderanalk | 3,612
 tamilmirrorlk | 3,741
 dailymirrorlk | 4,733
 virakesarilk | 4,925
-adaderanasinhalalk | 5,206
+adaderanasinhalalk | 5,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,804 (100.0%) of 31,804 articles have been extended.
+31,804 (100.0%) of 31,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### තවත් රාජ්‍ය අමාත්‍යවරයෙක්
+
+*2024-06-24 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198082) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී සතාසිවම් වියාලේන්ද්‍රන් මහතා වෙළෙඳ හා පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස මීට සුළු මොහොතකට පෙර දිවුරුම් දී තිබේ.
+
+ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේදී ඒ මහතා මෙලෙස දිවුරුම් දුන් බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/c73b55be.json)
+
+---
+
+### New State Minister sworn in
+
+*2024-06-24 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100058/new-state-minister-sworn-in) · `en`
+
+MP Sathasivam Viyalendiran was sworn in as the State Minister of Trade and Environment before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/e4e8153f.json)
+
+---
 
 ### Non-academic staff of schools launch trade union action
 
@@ -1408,6 +1434,22 @@ Former MP Ajith P. Mr. Perera said:
 
 ---
 
+### 2023දී ලංකාවට ඩොලර් මිලියන 2120ක් ණය හා ආධාර ලෙස ලැබිලා
+
+*2024-06-23 18:09:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවට-ඩොලර්-මිලියන-2120ක්-ණය-හා-ආධාර-ලෙස-ලැබිලා/11-410384) · `si`
+
+2023 වසරේ ජනවාරි 8 වෙනිදා සිට දෙසැම්බර් 31 දක්වා වර්ෂයේ කාල සීමාවේදී රජයට බැරවි ඇති විදේශීය ණය සහ ආධාර ප්‍රමාණය ඩොලර් මිලියන 2.120ක් බව විදේශ සම්පත් දෙපාර්තමේන්තුව විසින් ඉදිරිපත් කර ඇති වාර්තාවක් මගින් ජුනි මස 20 වන දින අනාවරණය වී ඇති බව පේරාදෙණිය විශ්වවිද්‍යාලයේ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සමග 2024/06/22 දින කරන ලද විමසුමකින් අනාවරණය කරන ලදී.
+
+මෙහිදී ජාත්‍යන්තර මූල්‍ය අරමුදල මගින්ඩොලර් මිලියන 728ක්ද, ආසියානු සංවර්ධන බැංකුව මගින් ඩොලර් මිලියන 550ක්ද, දෙවැනි ඒකාබද්ධ මාර්ග ආයෝජන වැඩසටහන යටතේ ඩොලර් මිලියන 550ක්ද, දෙවැනි ඒකාබද්ධ මාර්ග ආයෝජන වැඩසටහන යටතේ ඩොලර් මිලියන 60ක්ද, ලෝක බැංකුවෙන් ඩොලර් මිලියන 692ක්ද, රජයේ විදේශීය ණය ලෙස ලැබී ඇත.
+
+තවද ජපානය, දකුණු කොරියාව, ඇමරිකාව ඇතුළු යුරෝපීය රටවල් 5කින් ඩොලර් මිලියන 90.6ක පමණ ආධාර ලැබී ඇත. මේ අනුව විදේශ රටවලින්රජයට ලැබී ඇති ණය සහ ආධාර ප්‍රමාණය ඩොලර් බිලියන 2.1ක් වන අතර, අදාළ වසර තුළදී බහුපාර්ශ්වීය ආයතන සඳහා රජය විසින් ණය ආපසු ගෙවීම් යටතේ ඩොලර් බිලියන 2.16ක් විදේශීය රටවලට ගෙවා ඇති බව මහාචාර්ය චන්දන අතුකෝරාල මහතා මෙහිදී අනාවරණය කරන ලදී.
+
+◼️
+
+[Data](articles/2d1abcb6.json)
+
+---
+
 ### Court orders courts against young people who were raped with girls
 
 *2024-06-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198066) · `si`
@@ -2241,75 +2283,5 @@ Further, the next step will be taken on the basis of the police, police said.
 [Data](articles/6e9f6877.json)
 
 [Extended Data](ext_articles/6e9f6877.ext.json)
-
----
-
-### The work of the artistry was suspended
-
-*2024-06-23 12:56:29* · [`adalk`](https://www.ada.lk/breaking_news/කලාකාරී-ලෙස-හැසිරුනු--පොලිස්-සැරයන්ගේ-වැඩ-තහනම්/11-410377) · `si`
-
-A Hiniduma Police Sergeant was suspended after being accused of misconduct, including exporting work to the Government Analyst Offices. The suspect was arrested by a team from the Police Emergency Call Center and later remanded until the 3rd of next month by the Nugegoda Magistrate's Court. Additionally, the Galle District Superintendent was banned due to the suspect's actions.
-
-🟩
-
-Police headquarters said that the duty of the Hiniduma Police Sergeant has banned the duties of the custody of the Maharagama Police in Maharagama.
-
-According to a Member of the Police Emergency Call Center, a group from the Police Emergency Call Center, a group from the Police Emergency Call Center, had gone to the police and to arrest the suspect.Says.
-
-Police investigations revealed that the suspect was taken to the police and exported the work to the Government Analyst offices and obtaining the duties to the Government Analyst Offices.There was.
-
-The suspect was produced before the Nugegoda Magistrate's Court and remanded until the 3rd of next month.
-
-The Galle SSP has banned the Galle District Superintendent of the Galle District due to the suspect's misconduct.
-
-◼️
-
-[Data](articles/0ba888f5.json)
-
-[Extended Data](ext_articles/0ba888f5.ext.json)
-
----
-
-### Green Card from Trump
-
-*2024-06-23 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198055) · `si`
-
-Donald Trump plans to ease U.S. immigration policies post-election, offering green cards to American university graduates, including many Indians and Chinese, aiming to influence their home countries' politics.
-
-🟩
-
-Former American President Donald Trump has said that it will relax migrant policies after he won the presidential election.
-
-Accordingly, the students who graduated from the American university is the 'Green Card "and US permanent residency.
-
-Trump, which followed strenuous policies on migrants, makes such a statement.
-
-It is said that the Indian and Chinese educated in the United States seek to control their home countries.
-
-◼️
-
-[Data](articles/e2c20c1b.json)
-
-[Extended Data](ext_articles/e2c20c1b.ext.json)
-
----
-
-### Sri Lanka women’s cricket team makes historic top five entry in ODI rankings
-
-*2024-06-23 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100043/sri-lanka-womens-cricket-team-makes-historic-top-five-entry-in-odi-rankings) · `en`
-
-In a historic milestone for Sri Lankan cricket, the national women’s team has climbed into the top five of the ICC Women’s ODI Team Rankings for the first time ever.
-
-This groundbreaking achievement comes as it climbed up two spots in the Women’s ODI Team Rankings after completing a clean sweep of the ODI series against the West Indies, clinching a decisive 3-0 victory.
-
-Their recent series victories and standout individual performances have been pivotal in securing their place among the top five ODI teams. The team, led by veteran Chamaru Athapaththu has only lost one match out of the six ODI matches they played so far in 2024.
-
-Meanwhile, several players of the Sri Lanka women’s team have also climbed up several spots in both ODI batting and bowling rankings after their brilliant individual performances.
-
-◼️
-
-[Data](articles/097bd542.json)
-
-[Extended Data](ext_articles/097bd542.ext.json)
 
 ---

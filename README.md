@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 08:15:05**
+As of **2024-06-24 08:02:15**
 
 ## Newspaper Stats
 
-*Scraped **31,791** Articles*
+*Scraped **31,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,785
+adalk | 2,784
 adaderanalk | 3,608
-tamilmirrorlk | 3,737
+tamilmirrorlk | 3,736
 dailymirrorlk | 4,733
 virakesarilk | 4,924
 adaderanasinhalalk | 5,203
@@ -26,61 +26,49 @@ adaderanasinhalalk | 5,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,789 (100.0%) of 31,791 articles have been extended.
+31,787 (100.0%) of 31,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### A delegation to Russia to save our war
+### යුද්ධයට මැදිවූ අපේ අය බේරාගැනීමට නියෝජිත පිරිසක් රුසියාවට
 
 *2024-06-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198078) · `si`
 
-A delegation from Sri Lanka, including defense and foreign affairs officials, is set to travel to Russia today to discuss the involvement of Sri Lankans in the Ukrainian conflict. Meetings with Russian government representatives are scheduled for tomorrow in Moscow, focusing on defense and diplomatic relations.
+රුසියානු – යුක්‍රේන යුද්ධයට මැදි වී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් සොයා බැලීමට විශේෂිත දූත පිරිසක් අද (24) දිනයේ දී රුසියාව බලා පිටව යාමට නියමිත බව පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතා පවසයි.
 
-🟩
+ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයා, සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන්ගෙන් සමන්විත 6 දෙනෙකුගෙන් යුත් දූත පිරිසක් මෙලෙස පිටත්වීමට නියමිත ව බව මන්ත්‍රීවරයා පැවසුවේය.
 
-A special delegation to look into Sri Lankans who have been involved in Sri Lankans in the Ukrainian war is to leave for Russia today (24).
+මෙම ශ්‍රී ලාංකික දුත පිරිස සහ රුසියානු රජයේ නියෝජිතයින් අතර නිල හමුව අනිද්දා (26) දිනයේ දී මොස්කව් නුවරදී පැවැත්වෙනු ඇති.
 
-The MP said that the Secretary of the Ministry of Defense and the Ministry of External Affairs have been appointed to depart.
+එදින උදෑසන රුසියානු නියෝජ්‍ය ආරක්ෂක අමාත්‍යවරයා සමගත් සවස්වරුවේ රුසියාවේ නියෝජ්‍ය විදේශ අමාත්‍යවරයා සමගත් මෙම සාකච්ඡා පැවැත්වීමට නියමිතය.
 
-The official meeting between the Sri Lankan and the representatives of the Russian government meetings will be held in Moscow on the 26th.
-
-The discussions will be held on the evening of the evening of the Russian Deputy Minister of Defense.
-
-He added that several rounds of public duty talks are due to be held in general area.
+එහිදී රාජ්‍ය තාන්ත්‍රක සාකච්ඡා වට කිහිපයක් ම පැවැත්වීමට නියමිත බව ගාමිණී වලේබොඩ මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/027ce260.json)
 
-[Extended Data](ext_articles/027ce260.ext.json)
-
 ---
 
-### School non-academic workers get sick
+### පාසල් අනධ්‍යයන සේවකයින් ලෙඩවෙයි
 
 *2024-06-24 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198077) · `si`
 
-Non-academic staff at schools are sick, leading to trade union actions in Kandy, North Central, and North Western regions. The Ministry of Education announced the absence of these employees on the 25th and 26th due to sickness. Trade unions aim to create a national policy for education, with a planned strike on the 26th. Despite the situation, normal operations resume post-Possan holidays.
+දිවයින පුරා අධ්‍යාපන අනධ්‍යයන සේවකයින් අද (24) සහ හෙට (25)  දින අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව අධ්‍යාපන අනධ්‍යයන සේවක සංගමය පවසයි.
 
-🟩
+ඒ අනුව මහනුවර, උතුරු මැද සහ වයඹ යන ප්‍රදේශ තුළ අද දින එම වෘත්තීය ක්‍රියාමාර්ගය ක්‍රියාත්මක වේ.
 
-The Ministry of Education states that education non-academic employees have been reported today and tomorrow (25) and will leave the ministry.
+අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස සහ තවත් ඉල්ලීම් කිහිපයක් මුල් කරගෙන එම වෘත්තීය සමිති ක්‍රියාමාර්ගයේ නිරත වන බව එම සංගමයේ ප්‍රධාන ලේකම් අජිත් කේ තිලකරත්න මහතා පැවසුවේය.
 
-Accordingly, the trade union action is being implemented today in Kandy, North Central and North Western areas.
+මේ අතර විදුහල්පති සේවා සංගමයේ ජාතික සංවිධායක සිසිර රාජපක්ෂ මහතා පැවසුවේ එළැඹෙන 26 වනදා දීපව්‍යාප්ත වැඩ වර්ජනයක නිරත වීමට තීරණය කර ඇති බවයි.
 
-The General Secretary of the Union Ajith K. Thilakaratne said that the trade union action will be implemented to formulate a national policy to the educational and education.
-
-Meanwhile, National Organizer of the Principal Services Union Sisira Rajapaksa has decided to take place on the 26th station strike on the 26th.
-
-However, after the Poson's vacation, the Ministry of Education has issued announcement in this day as usual yesterday.
+කෙසේවෙතත් පොසොන් නිවාඩුවෙන් අනතුරුව සුපුරුදු පරිදි අද දිනයේ සිට රජයේ පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනවක් නිකුත් කරමින් ඊයේ පැවසීය.
 
 ◼️
 
 [Data](articles/4c30934d.json)
-
-[Extended Data](ext_articles/4c30934d.ext.json)
 
 ---
 
@@ -395,24 +383,6 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 [Data](articles/5e851eab.json)
 
 [Extended Data](ext_articles/5e851eab.ext.json)
-
----
-
-### காத்தான்குடி பெரிய ஜும்மா பள்ளிவாசல் நன்கொடை
-
-*2024-06-24 01:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-பெரிய-ஜும்மா-பள்ளிவாசல்-நன்கொடை/175-339301) · `ta`
-
-காஸா பகுதியில் இடம்பெற்று வரும் மோதல்கள் தொடர்பில் இலங்கையின் நிலைப்பாடு ஒருபோதும் மாறாது எனவும், 5 வருடங்களுக்குள் பாலஸ்தீன அரசை ஸ்தாபிக்க வேண்டும் என்பதே இலங்கையின் நிலைப்பாடாகும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-காஸாவில் பாதிக்கப்பட்ட மக்களுக்காக காத்தான்குடி பெரிய ஜும்மா பள்ளிவாசலில் நேற்று ஏற்பாடு செய்யப்பட்டிருந்த விசேட பிரார்த்தனையில் கலந்துகொண்டதன் பின்னர் ஆற்றிய உரையிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
-
-இதேவேளை, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரையின் பேரில் ஸ்தாபிக்கப்பட்ட காஸா சிறுவர் நிதியத்திற்கு காத்தான்குடி பெரிய ஜும்மா பள்ளிவாசல், 10,769,417 ரூபாயை நன்கொடையாக வழங்கியது. பிரார்த்தனையின் பின்னர், காஸா நிதியத்திற்கான காசோலை பள்ளிவாசல் நிர்வாகத்தினரால் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
-
-இந்த விசேட பிரார்த்தனை நிகழ்வுகளில் கலந்து கொண்ட ஜனாதிபதி, அங்கு வருகைத் தந்திருந்தவர்களோடு சிநேகபூர்வமாக கலந்துரையாடியதோடு, செல்பி புகைப்படங்களிலும் இணைந்துகொண்டார். (a)
-
-◼️
-
-[Data](articles/2dabf6b3.json)
 
 ---
 
@@ -959,24 +929,6 @@ According to the National Secretary Ravi Karunanayake, the people of this countr
 [Data](articles/1ce61bf9.json)
 
 [Extended Data](ext_articles/1ce61bf9.ext.json)
-
----
-
-### පරගහදෙනිය ජාතික පාසලේදී සජිත් ඩීල් දේශපාලනය ගැන කියයි
-
-*2024-06-23 18:49:26* · [`adalk`](https://www.ada.lk/breaking_news/පරගහදෙනිය-ජාතික-පාසලේදී-සජිත්-ඩීල්-දේශපාලනය-ගැන-කියයි/11-410387) · `si`
-
-ඡන්දය දුන් ජනතාවගේ ආත්මය පාවා දෙන ඩීල් දේශපාලඥයන් වර්තමානයේ මතු වෙමින් තිබෙන බවත්, ඉදිරියේදී තවත් ඩීල් ජනතාවට දැකගත හැකි බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-කුරුණෑගල, මාවතගම, පරගහදෙනිය ජාතික පාසලට සක්වළ වැඩසටහනේ සුහුරු පන්ති කාමරයක් ලබා දීමේ අවස්ථාවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-එහිදී වැඩිදුරටත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
-
-"මේ කාලයේ කණ්ඩායම් සියල්ල ඩීල් දාලා තියෙන්නේ. ජනතාවගේ ඡන්දයෙන් මැතිසබයට ඇවිල්ලා ඡන්දය දුන්න අයගේත් ආත්මය පාවා දෙන මහා පාවාදීමේ සංස්කෘතියක් අද දේශපාලන සමාජයේ තිබෙනවා. ලැජ්ජ නෑ. ආපු ගමන අමතකයි. කොහෙන්ද ආවේ කියලා අමතකයි. මේ රටේ 41 ලක්ෂයක් දූ දරුවන් තුට්ටු දෙකට, සිල්ලරයට අලෙවි කරලා, මේ දූ දරුවන්ට වින කරලා රටේ දරු පරපුර විනාශ කරන කල්ලි දේශපාලඥයෝ, ඩීල් දේශපාලඥයෝ ගණනාවක් අද පොඩ්ඩ පොඩ්ඩ මතුවෙනවා. ඉදිරියේදී හොඳ හොඳ ඩීල් ඔබට බලාගන්න පුලුවන් වෙයි.
-
-...
-
-[Data](articles/ec9981c1.json)
 
 ---
 
@@ -2311,5 +2263,51 @@ Richard Nuttall, chief executive officer of SriLankan Airlines, said fleet moder
 [Data](articles/8f8931d4.json)
 
 [Extended Data](ext_articles/8f8931d4.ext.json)
+
+---
+
+### Brandle of Liberation Tigers of Tamil Eelam (LTTE) in Britain;Rejected the Appeal Authority
+
+*2024-06-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186755) · `ta`
+
+The British Appeal Authority upheld the ban on the Liberation Tigers of Tamil Eelam (LTTE), rejecting the Tamil Eelam government's request to lift it. This decision means Britain will maintain the ban, as stated by Sri Lanka's Foreign Minister Ali Sabri. The ban was affirmed by an independent court, including a High Court judge and two retired senior ambassadors, established by Parliament. Despite the LTTE not being banned in the UK, the organization aims to revive its activities globally through what Sabri describes as "casteist methods."
+
+🟩
+
+The Appeal Authority of the country has rejected the ban on the Tamil Eelam government's request to remove the ban on the Liberation Tigers of Tamil Eelam (LTTE) in Britain.
+
+Accordingly, Britain will continue to observe the ban on the LTTE, Sri Lanka's Foreign Minister Ali Sabri said
+
+He noted that the UK banned organization has ruled against the lifting of the ban, headed by an independent court and a High Court judge and two retired senior ambassadors set up by Parliament.
+
+Alizabri said the government of Tamil Eelam had made this request to support foreign demand in the North East of Sri Lanka.
+
+The country's Tamil Eelam government has not been banned in the United Kingdom, said Alisabri, who said on Twitter, "The organization is trying to achieve its objectives through casteist methods.
+
+Ali Sabri said the strategy of the Liberation Tigers of Tamil Eelam (LTTE) is to create their lives again by lifting the ban on the world.
+
+◼️
+
+[Data](articles/11ca7f6d.json)
+
+[Extended Data](ext_articles/11ca7f6d.ext.json)
+
+---
+
+### Train services disrupted on Up-country Line
+
+*2024-06-23 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100040/train-services-disrupted-on-up-country-line) · `en`
+
+Railway operations on the Up-country Line have been disrupted due to several fallen trees on the tracks between the Inguru Oya and Galabada railway stations since early this morning (23), according to an Ada Derana reporter.
+
+The Department of Railways is currently working to clear the tracks and restore train services.
+
+Meanwhile, the ‘Tikiri Menike’ train plying from Nanu Oya to Colombo Fort remains stopped at the Hatton railway station, awaiting the clearing of the railway tracks.
+
+◼️
+
+[Data](articles/612438d9.json)
+
+[Extended Data](ext_articles/612438d9.ext.json)
 
 ---

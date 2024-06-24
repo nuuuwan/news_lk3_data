@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 22:06:57**
+As of **2024-06-24 22:19:36**
 
 ## Newspaper Stats
 
-*Scraped **31,936** Articles*
+*Scraped **31,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,105 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,808
-adaderanalk | 3,631
-tamilmirrorlk | 3,764
+adaderanalk | 3,632
+tamilmirrorlk | 3,765
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,235
+adaderanasinhalalk | 5,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,934 (100.0%) of 31,936 articles have been extended.
+31,936 (100.0%) of 31,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ඉන්දියාවෙන් ලකුණු 206ක ඉලක්කයක්
+### හෙට සහ අනිද්දා තවත් වෘත්තීය ක්‍රියාමාර්ගයක්
+
+*2024-06-24 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198113) · `si`
+
+තම වැටුප් විෂමතා මුල්කරගනිමින් රජයේ විධායක නිලධාරින් හෙට (25) සහ අනිද්දා (26) අසනීප නිවාඩු වාර්තා කර වෘත්තීය ක්‍රියාමාර්ගයකට එළඹීමට තීරණය කර තිබේ.
+
+එමෙන්ම හෙට කොළඹදී උද්ඝෝෂණයක් පැවැත්වීමටද කටයුතු සුදානම් කර ඇති බව රජයේ විධායක නිලධාරින්ගේ ඒකාබද්ධ කමිටුව සඳහන් කරයි.
+
+එසේම එළඹෙන 26 වනදා ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානයද අසනීප නිවාඩු වාර්තා කර වෘත්තීය ක්‍රියාමාර්ගයකට එළැඹෙන බව අද පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී සඳහන් කළේය.
+
+මේ අතර වැටුප් විෂමතා ගැටලුවලට කඩිනමින් විසඳුම් ලබා දෙන ලෙස බලකරමින් අද ක්ෂේත්‍ර කිහිපයක වෘත්තිය සමිති වෘත්තිය ක්‍රියාමාර්ග ආරම්භ කළේය.
+
+මොරටුව සහ රජරට විශ්වවිද්‍යාලවල අනධ්‍යයන සේවකයින් අද සත්‍යග්‍රහයක් ඇරඹූ අතර පාසල් අනධ්‍යයන සේවකයින් අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටී.
+
+අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස ඉල්ලා පාසල්, ගුරු විද්‍යාල සහ විද්‍යා පීඨවල අනධ්‍යයන සේවකයින් අසනීප නිවාඩු වාර්තා කරමින් අද සිට දෙදින වෘත්තිය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
+
+ඒ අනුව මධ්‍යම, උතුරු මැද සහ දකුණු පළාත් කේන්ද්‍ර කරගනිමින් අද විරෝධතා පැවැත්වුණි.
+
+...
+
+[Data](articles/ae617f5f.json)
+
+---
+
+### Sri Lanka set to start next round of investor talks this week
+
+*2024-06-24 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100077/sri-lanka-set-to-start-next-round-of-investor-talks-this-week) · `en`
+
+Sri Lankan officials and global investors are expected to hold a second round of direct talks this week to agree on the restructuring of $12 billion in defaulted bonds, according to people familiar with the matter.
+
+A group of bondholders, known as the steering committee, will continue to negotiate on the government’s new proposal in this round of the talks, the people said. The bondholders went “restricted,” meaning the conversations with the government are covered by temporary trading limitations because the topics under discussion may be market sensitive, one of the people said.
+
+Representatives for the bondholders and the government were not immediately available to comment.
+
+...
+
+[Data](articles/a589c30c.json)
+
+---
+
+### தாய் கொடுமை ; யாழ். பொலிஸில் தஞ்சமடைந்த கொழும்பு சிறுவன்
+
+*2024-06-24 22:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-கொடுமை-யாழ்-பொலிஸில்-தஞ்சமடைந்த-கொழும்பு-சிறுவன்/175-339362) · `ta`
+
+கொழும்பில் இருந்து யாழ்ப்பாணம் வந்த சிறுவன் ஒருவன், தனது தாய் மற்றும் தாயின் இரண்டாவது கணவர் ஆகியோர் தன்னை அடித்து சித்திரவதை புரிவதாக கூறி யாழ்ப்பாண பொலிஸ் நிலையத்தில் தஞ்சமடைந்திருந்தான்.
+
+சிறுவன் தொடர்பில் விசாரணைகளை முன்னெடுத்த போது , சிறுவன் வடஇந்தியாவை சேர்ந்தவன் எனவும் , அவனது தாய் கொழும்பில் கஸீனோவில் வேலை செய்வதாகவும் , இங்கு இலங்கையை சேர்ந்த நபருடன் தங்கி இருப்பதும் தெரிய வந்துள்ளது.
+
+அதேவேளை , சிறுவன் மன்னார் சென்று அங்கிருந்து கடல் வழியாக இந்தியா செல்வதற்கு திட்டமிட்டு , கொழும்பில் இருந்து வெளியேறி மன்னார் பேருந்தில் ஏறுவதற்கு பதிலாக யாழ்ப்பாணம் செல்லும் பேருந்தில் ஏறியமையால், யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+
+யாழ்ப்பாணம் வந்த சிறுவனுக்கு எங்கே செல்வது என தெரியாததால் , பொலிஸ் நிலையத்தில் தஞ்சமடைந்துள்ளான்.
+
+சிறுவனின் தாயை பொலிஸார் யாழ்ப்பாணம் அழைத்து விசாரணை செய்த வேளை சிறுவன் செய்யும் தவறுகளுக்கு தான் சிறுவனை தண்டிப்பதாக கூறியுள்ளார்.
+
+அதனை அடுத்து சிறுவனை சமரசப்படுத்தி, தாயாரையும் எச்சரித்த பொலிஸார் , சிறுவனை தாயாருடன் கொழும்புக்கு அனுப்பி வைத்துள்ளனர். R
+
+◼️
+
+[Data](articles/02777bfa.json)
+
+---
+
+### 206 runs in India
 
 *2024-06-24 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198112) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+In the World Cup quarterfinals, India faced Australia. India made 205/5, led by Rohit Sharma's 92 runs. Despite this strong effort, Australia secured victory with 206 runs.
 
-එම තරගයේ ප්‍රමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 205ක් රැස්කළේය.
+🟩
 
-එහිදී ඉන්දීය ඉනිම වෙනුවෙන් නායක රෝහිත් ශර්මා පන්දු 41කට මුහුණ දෙමින් ලකුණු 92ක් රැස්කළේය.
+The match between India and Australia is the round of 8 Superse of the 8 World Cup.
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඔස්ට්‍රේලියානු කණ්ඩායමට හිමිවී ඇති ඉලක්කය ලකුණු 206කි.
+The Indian team scored 205 runs for the loss of 5 wickets at the end of the end.
+
+Rohit Sharma scored 92 runs for the innings of the Indian innings.
+
+Accordingly, the Australian team has won 206 runs for winning the competition.
 
 ◼️
 
 [Data](articles/f0951de6.json)
+
+[Extended Data](ext_articles/f0951de6.ext.json)
 
 ---
 
@@ -292,25 +360,31 @@ The High Court Judge was ordered to pay 15 years of prison in two years.
 
 ---
 
-### වල්ලපට්ට ශාකය ප්‍රවර්ධනයට ඇති ගැටලු පිළිබඳව කාරක සභාවේ අවධානය
+### Attention to the Promotion of Wallapatta
 
 *2024-06-24 18:29:28* · [`adalk`](https://www.ada.lk/breaking_news/වල්ලපට්ට-ශාකය-ප්‍රවර්ධනයට-ඇති-ගැටලු-පිළිබඳව-කාරක-සභාවේ-අවධානය/11-410406) · `si`
 
-අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුව පුළුල් පරාසයක් තුළ අපනයනය වර්ධනය කිරීමට උත්සාහ නොකිරීම සම්බන්ධයෙන් කාරක සභාවේ අප්‍රසාදය
+The Committee expressed dissatisfaction with the Export Agriculture Department over its export performance, particularly highlighting a missed target to double export earnings from $500 million in 2016 to $1 billion by 2020. They also focused on promoting Wallapatta, inquiring about its significance and the steps taken to cultivate it. The Committee criticized the delay in responding to audit queries and requested a report on land reclamation across 25 districts. The meeting highlighted concerns over the departments' current performance and emphasized the need for improvement strategies.
 
-වල්ලපට්ට ශාකය ප්‍රවර්ධනය සම්බන්ධයෙන් වන ගැටලු පිළිබඳව කාරක සභාවේ අවධානය
+🟩
 
-ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව සම්බන්ධයෙන් වන විගණන විමසුම් සඳහා පිළිතුරු ලැබීම ප්‍රමාදවීම සම්බන්ධයෙන් කාරක සභාවේ අවධානය
+The Committee displeasure against the department of Export Agriculture in a wide range of export
 
-කුඹුරු ඉඩම් ගොඩකිරීම සම්බන්ධයෙන් දිස්ත්‍රික්ක 25ම ආවරණය වන ආකාරයේ වාර්තාවක් කාරක සභාවට ලබාදීමට නිර්දේශ
+Committee focus on promotion of Valtapatta
 
-අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ සහ ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ   වත්මන් කාර්යසාධනය සම්බන්ධයෙන් ර‍ජයේ ගිණුම් පිළිබඳ කාරක සභාවේ අවධානය යොමු විය.
+The Committee focused on delaying the answer to audit queries on the department of Agrarian Development Department
 
-මේ පිළිබඳ අවධානය යොමු වූයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා (18) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+Recommendation to provide a report to the Committee covering 25 districts regarding the reclamation of paddy lands
+
+The Committee on Public Accounts focused on the current performance of the Department of Export Agriculture and Agrarian Development Department.
+
+The Committee on the Government Accounts Committee was held at the Chairman of the State Minister Hon. Lasantha Alagiyawanna recently.
 
 ...
 
 [Data](articles/0946b84f.json)
+
+[Extended Data](ext_articles/0946b84f.ext.json)
 
 ---
 
@@ -2319,79 +2393,5 @@ The mother of the child said that his child's life has been better than better.
 [Data](articles/dc4a78e8.json)
 
 [Extended Data](ext_articles/dc4a78e8.ext.json)
-
----
-
-### Another minister sworn in the president in the future
-
-*2024-06-24 11:21:39* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-ඇමතිවරයෙක්-ජනාධිපති-ඉදිරියේදී--දිවුරුම්-දෙයි/11-410392) · `si`
-
-Parliamentarian Sathaasivam Dakurandran, representing Batticaloa District, was sworn into the presidential Secretariat. He also serves on the Select Committee of Parliament and the Ministry of Trade, Commerce, and Food Security.
-
-🟩
-
-Parliamentarian Sathaasivam Dakurandran, who represents Parliament from Batticaloa District, has been sworn in in the presidential Secretariat.
-
-The Seatering Dickurandran also serves as a representative of the Select Committee of Parliament and the Ministry of Trade, Commerce and Food Security.
-
-◼️
-
-[Data](articles/e3e449f0.json)
-
-[Extended Data](ext_articles/e3e449f0.ext.json)
-
----
-
-### The planet that strikes the earth in 2038
-
-*2024-06-24 11:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2038இல்-பூமியைத்-தாக்கும்-கோள்/175-339313) · `ta`
-
-In 2038, a significant planet threatens Earth, hitting it on July 12th, according to NASA. This prediction came from a workshop at Johns Hopkins University, where astronomers and military leaders discussed planetary defense strategies. The event could impact 72% of Earth, highlighting the need for plans to either destroy or divert the incoming planet.
-
-🟩
-
-In another 14 years, on July 12, 2038, a large planet could hit the earth, NASA said.
-
-NASA said this at the conclusion of a special workshop on the protection of Earth from planets at the University of Johns Hopkins in Maryland.
-
-Astronomers, astronomers and leaders of the US military departments participated in the workshop and shared their knowledge and data about planets.
-
-NASA said that a large planet that could affect the Earth, which was occasionally passing near the Earth, would come to Earth on July 12, 2038, and 72 % of the Earth's percentage.
-
-It is said that the US military commanders have pointed out the importance of building plans to destroy or change its path if the planet is attacking the earth.
-
-◼️
-
-[Data](articles/3b2f8ac5.json)
-
-[Extended Data](ext_articles/3b2f8ac5.ext.json)
-
----
-
-### Next up is the war in Lebanon?Benjamin Netanyaku has announced that he will send more soldiers to face the Hesbullah organization
-
-*2024-06-24 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186808) · `ta`
-
-Israel's PM Netanyahu warns of escalating tensions, announcing additional troops deployment to face Hezbollah in Lebanon, post-Hamas conflict conclusion.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyaku, who has said that Israel is in the process of ending the current stage of the war with Hamas, has warned of the war.
-
-He said that the current phase of the war with Hamas in Gaza is coming to an end, and Israel will send further soldiers to his northern border to face the Lebanon's Hesbullah organization.
-
-In a television interview, Benjamin Nettanyaku said that the Israeli military is in the process of completing its action in Rabba, but it does not mean that the Gaza War has come to an end.
-
-However, the Israeli prime minister said that in the future, the Israeli Prime Minister said that there would be less soldiers than the current situation in Gaza, he said.
-
-He also said that we will have the opportunity to change our soldiers to the North.
-
-These ideas are seen as an increase in tension as the Hesbullah organization and Israel are moving towards the war.
-
-...
-
-[Data](articles/9e2d3b19.json)
-
-[Extended Data](ext_articles/9e2d3b19.ext.json)
 
 ---

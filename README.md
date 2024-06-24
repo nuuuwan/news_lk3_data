@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 21:54:04**
+As of **2024-06-24 22:06:57**
 
 ## Newspaper Stats
 
-*Scraped **31,934** Articles*
+*Scraped **31,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,64 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,807
+adalk | 2,808
 adaderanalk | 3,631
 tamilmirrorlk | 3,764
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,234
+adaderanasinhalalk | 5,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,933 (100.0%) of 31,934 articles have been extended.
+31,934 (100.0%) of 31,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ව්‍යාපෘති ජාවාරම් කරගත් හැටි
+### ඉන්දියාවෙන් ලකුණු 206ක ඉලක්කයක්
+
+*2024-06-24 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198112) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+
+එම තරගයේ ප්‍රමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 205ක් රැස්කළේය.
+
+එහිදී ඉන්දීය ඉනිම වෙනුවෙන් නායක රෝහිත් ශර්මා පන්දු 41කට මුහුණ දෙමින් ලකුණු 92ක් රැස්කළේය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඔස්ට්‍රේලියානු කණ්ඩායමට හිමිවී ඇති ඉලක්කය ලකුණු 206කි.
+
+◼️
+
+[Data](articles/f0951de6.json)
+
+---
+
+### How many trafficking
 
 *2024-06-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198111) · `si`
 
-කුරුණෑගල දිස්ත්‍රික්කයේ වැව්වල රොන්මඩ ඉවත්කිරීමේ ව්‍යාපෘති රැසක් වැලි ජාවාරම් බවට පත්වී ඇතැයි රාජ්‍ය ගිණුම් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+Summaries of public account selections reveal sand racketeering in Kurunegala District, with issues highlighted by the Department of Agrarian Services and the Deputy Auditor General. Concerns include incomplete responses to audit queries since 2019, lack of action on recommendations, and allegations of corruption in the construction of the district office. The situation involves private contractors receiving payments without fulfilling obligations, and the misuse of sand resources, affecting 5,000 tanks in the area.
 
-ඒ ගොවිජන සේවා දෙපාර්තමේන්තුවේ නිලධාරීන් එම කාරක සභාව හමුවට ඊයේ (23) කැඳවූ අවස්ථාවේදීය.
+🟩
 
-නියෝජ්‍ය විගණකාධිපති -  "ප්‍රධාන කාර්යාලයට යැවූ විගණන විමසුම් 98කට තවමත් පිළිතුරු දීලා නැහැ. 2019 වර්ෂයේ සිට තියෙනවා."
+Selectings on Public Accounts have revealed that there have been a number of sand rackets of tanks in the Kurunegala District.
 
-සභාපති ලසන්ත අලගියවන්න - "පොදු ව්‍යාපාර කාරක සභාවේදී මේ ගැන කතා කරන්නේ නැද්ද.... ලේකම්තුමා ?"
+Officers of the Department of Agrarian Services summoned the same Committee yesterday (23).
 
-අමාත්‍යාංශ ලේකම් - "කතා කරනවා. කතා කරලා අවශ්‍ය උපදෙස් ලබාදී පසුවිපරම් සිදුකරනවා."
+Deputy Auditor General's - "98 Audit Queries have been answered yet. Been in the year 2019. "
+
+Chairman Lasantha Alagiyawanna - "Is Not Talking about this at the Commonwealth .... The Secretary? "
+
+"Secretary to the Ministry". Talking and followed by the necessary advice. "
 
 ...
 
 [Data](articles/c2831d6a.json)
+
+[Extended Data](ext_articles/c2831d6a.ext.json)
 
 ---
 
@@ -265,6 +289,28 @@ The High Court Judge was ordered to pay 15 years of prison in two years.
 [Data](articles/632eac1d.json)
 
 [Extended Data](ext_articles/632eac1d.ext.json)
+
+---
+
+### වල්ලපට්ට ශාකය ප්‍රවර්ධනයට ඇති ගැටලු පිළිබඳව කාරක සභාවේ අවධානය
+
+*2024-06-24 18:29:28* · [`adalk`](https://www.ada.lk/breaking_news/වල්ලපට්ට-ශාකය-ප්‍රවර්ධනයට-ඇති-ගැටලු-පිළිබඳව-කාරක-සභාවේ-අවධානය/11-410406) · `si`
+
+අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුව පුළුල් පරාසයක් තුළ අපනයනය වර්ධනය කිරීමට උත්සාහ නොකිරීම සම්බන්ධයෙන් කාරක සභාවේ අප්‍රසාදය
+
+වල්ලපට්ට ශාකය ප්‍රවර්ධනය සම්බන්ධයෙන් වන ගැටලු පිළිබඳව කාරක සභාවේ අවධානය
+
+ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව සම්බන්ධයෙන් වන විගණන විමසුම් සඳහා පිළිතුරු ලැබීම ප්‍රමාදවීම සම්බන්ධයෙන් කාරක සභාවේ අවධානය
+
+කුඹුරු ඉඩම් ගොඩකිරීම සම්බන්ධයෙන් දිස්ත්‍රික්ක 25ම ආවරණය වන ආකාරයේ වාර්තාවක් කාරක සභාවට ලබාදීමට නිර්දේශ
+
+අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ සහ ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ   වත්මන් කාර්යසාධනය සම්බන්ධයෙන් ර‍ජයේ ගිණුම් පිළිබඳ කාරක සභාවේ අවධානය යොමු විය.
+
+මේ පිළිබඳ අවධානය යොමු වූයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා (18) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/0946b84f.json)
 
 ---
 
@@ -2347,59 +2393,5 @@ These ideas are seen as an increase in tension as the Hesbullah organization and
 [Data](articles/9e2d3b19.json)
 
 [Extended Data](ext_articles/9e2d3b19.ext.json)
-
----
-
-### The presidential candidate's dollars
-
-*2024-06-24 10:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளரின்-டொலர்களை-அரித்த-கரையான்/175-339312) · `ta`
-
-A former presidential candidate in Sri Lanka reportedly received USD worth Rs 25 crore from both local and international donors during the last election. These funds were later replaced with new currency due to legal issues, raising questions in the political sphere.
-
-🟩
-
-Karayan raised the US dollars worth Rs 25 crore, which had a former presidential candidate.
-
-The Sri Lankan website reports that the US dollars worth about Rs 25 crore from domestic and foreign donors during the last presidential election have been eroded.
-
-According to reliable sources, a former candidate contesting the presidential election has secretly secretly in the security box.
-
-At the request of the former candidate, the new dollar banknotes have been issued to the former candidate, replacing the dollar notes made by a chief.. .
-
-It has been revealed that the chief has helped the former candidate in the presidential election.
-
-The former candidate is said to have received these dollars from domestic and foreign donors in the last presidential election after court proceedings.
-
-Accordingly, in order to take the dollars, when the dollar deposits, the coarse was destroyed.
-
-Subsequently, the chief has asked the chief to help the chief to convert the dollars into new notes.
-
-...
-
-[Data](articles/879412ad.json)
-
-[Extended Data](ext_articles/879412ad.ext.json)
-
----
-
-### Kalmunai North Divisional Secretariat Gate
-
-*2024-06-24 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186807) · `ta`
-
-For 91 days, residents near Kalmunai North Divisional Secretariat have protested peacefully, demanding justice and an end to administrative repression. Despite a brief hunger strike in 2019, sparked by false promises, the struggle continues, with plans for street protests and road blockades. This division, established in 1988, marks its 30th year as a separate entity, highlighting a long-standing fight for rights amidst political and bureaucratic challenges.
-
-🟩
-
-People have been struggling for the past 91 days for their fundamental rights to seek justice for the Kalmunai North Divisional Secretariat. People gathered in front of the Kalmunai North Divisional Secretariat today. The top officials and the government are gathering slogans that the government should give us a solution to the entrance of the secretariat.
-
-On Monday (25) in front of the Divisional Secretariat, the public gathered in a peaceful way, carrying out various slogans.
-
-As a result of this, the 92nd day is still continuing the struggle by presenting various slogans. The organizers said that the people involved in the struggle would go to the streets and engage in a road picket.
-
-...
-
-[Data](articles/fd2601d3.json)
-
-[Extended Data](ext_articles/fd2601d3.ext.json)
 
 ---

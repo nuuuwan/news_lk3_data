@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 23:35:01**
+As of **2024-06-24 23:54:26**
 
 ## Newspaper Stats
 
-*Scraped **31,947** Articles*
+*Scraped **31,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 295
 bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
-economynextcom | 1,841
+economynextcom | 1,845
 dailyftlk | 1,942
 adalk | 2,809
 adaderanalk | 3,633
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,942 (100.0%) of 31,947 articles have been extended.
+31,947 (100.0%) of 31,951 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -174,33 +174,45 @@ Accordingly, the Australian team has won 206 runs for winning the competition.
 
 ---
 
-### பாகிஸ்தானில் இருந்து இலங்கைக்கு அனுப்பப்பட்ட பொதியில் 400 மில்லியன் பெறுமதியான ஐஸ் கண்டுபிடிப்பு
+### 400 million worth of ice in a package sent to Sri Lanka from Pakistan
 
 *2024-06-24 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186883) · `ta`
 
-மத்திய தபால் பரிவர்த்தனை நிலையத்தில் இந்த சந்தேகத்திற்கிடமான பொதி கண்டுபிடிக்கப்பட்டதாகவும் இதன் பெறுமதி சுமார் 400 மில்லியன் ரூபா எனவும் தெரிவிக்கப்படுகிறது.
+A suspicious package valued at 400 million rupees, containing ice, was intercepted at Sri Lanka's Central Postal Transaction Center, believed to be sent from Pakistan.
+
+🟩
+
+It is reported that the suspected package was found at the Central Postal Transaction Center and the value of about 400 million rupees.
 
 ◼️
 
 [Data](articles/3e8973a7.json)
 
+[Extended Data](ext_articles/3e8973a7.ext.json)
+
 ---
 
-### மன்னார் முருங்கன் பிரதான வீதியில் கோர விபத்து; இளம் குடும்பஸ்தர் பலி
+### An accident on the main road of Mannar;Adulterant killed
 
 *2024-06-24 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186882) · `ta`
 
-மன்னார்- முருங்கன் பொலிஸ் பிரிவுக்கு உட்பட்ட முருங்கன் ரயில் கடவை பகுதியில்  பேருந்தும் மோட்டார் சைக்கிளும் மோதியதில் மோட்டார் சைக்கிளில் பயணித்த இளம் குடும்பஸ்தர் சம்பவ இடத்தில் மரணமடைந்துள்ளதாக தெரிய வருகிறது.
+In Mannar, a fatal crash occurred at the main road involving a bus and a motorcycle. Sundaralingam Deepan, aged 35, from Naga Chetty village, was killed. The incident happened near the Murugan railway area, and his body is at Murugan Hospital for investigation.
 
-மன்னாரில் இருந்து சென்ற தென் பகுதியை சேர்ந்த தனியார் பேருந்தும், வவுனியா பகுதியில் இருந்து முருங்கன் வீதி நோக்கி வந்த மோட்டார் சைக்கிளும் முருங்கன்- கற்கிடந்தகுளம் கிராமத்திற்கும் இடையில் உள்ள  ரயில்வே கடவைப் பகுதியில்  மோதி விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-மரணமடைந்தவர் நானாட்டான் பிரதேசத்தில் உள்ள சாளம்பன் நாக செட்டி கிராமத்தைச் சேர்ந்த சுந்தரலிங்கம் தீபன்   (வயது-35) இளம் குடும்பஸ்தர் என  தெரிய வருகிறது.
+It is reported that a young family member on a motorcycle has died at the scene of a bus and motorcycle crash in the Murugan railway area, which belongs to the Mannar-Murugan police division.
 
-சடலம் முருங்கன் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணையை முருங்கன் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A private bus from Mannar and a motorcycle from Vavuniya to Murugan Road has crashed into the railway crossing area between the Murungan-Kallakkittakulam village.
+
+Sundaralingam Deepan (age-35) from Nanatan area in Nanattan area is known as a young family member from Naga Chetty village.
+
+The body is being kept at the Murugan Hospital and further investigations are being carried out by the Murugan police.
 
 ◼️
 
 [Data](articles/6c4b6ddc.json)
+
+[Extended Data](ext_articles/6c4b6ddc.ext.json)
 
 ---
 
@@ -254,19 +266,25 @@ The body is being kept at the Murugan Hospital and further investigations are be
 
 ---
 
-### கட்சி யாப்பின் பிரகாரம் நானே ஸ்ரீலங்கா சுதந்திர கட்சியின் தலைவர் - அமைச்சர் விஜேதாச ராஜபக்ஷ்
+### According to the party, I am the leader of the Sri Lanka Freedom Party -Minister Wijeyadasa Rajapaksa
 
 *2024-06-24 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186881) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் யாப்புக்கமைய நானே கட்சியின் தலைவர். நீதிமன்ற தடை உத்தரவு காரணமாக தற்போதைக்கு அந்த பதவியில் செயற்படுவதில்லை. அத்துடன் எதிர்வரும் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி புதிய இச்சினையில் போட்டியிடும் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Wijeyadasa Rajapaksa, despite being the SLFP leader due to a court injunction, cannot lead as the party's offices are seized. He plans to contest in the upcoming elections, promising to address financial losses in royal rituals and potentially run for president, vowing to uphold constitutional electoral processes.
 
-ஸ்ரீலங்கா சுதந்திர கட்சி தொகுதி அமைப்பாளர்களின் கூட்டம் ஞாயிற்றுக்கிழமை (23) கண்டியில் இடம்பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் யாப்பின் பிரகாரம் நானே கட்சியின் தலைவர். என்றாலும் நான் தலைவராக செயற்பட நீதிமன்ற இடைக்கால தடை உத்தரவு ஒன்று இருப்பதால் தற்போதைக்கு தலைவர் பதவியில் செயற்படுவதில்லை. மிக விரைவில் நீதிமன்றம் இது தொடர்பில் தீர்ப்பொன்றை வழங்கும் என எதிர்பார்க்கிறோம்.  கட்சியின் தலைமை அலுவலத்தை கைப்பற்றிக்காெண்டிருப்பதால், அவர்கள் யாரும் தலைவர்களாக முடியாது.
+I am the leader of the party in accordance with the Sri Lanka Freedom Party (SLFP). Due to a court order, it is currently not in office. Minister of Justice Wijeyadasa Rajapaksa said that the Sri Lanka Freedom Party (SLFP) will contest the upcoming elections.
+
+He was speaking to the media after a meeting of the Sri Lanka Freedom Party (SLFP) organizers in Kandy on Sunday (23).
+
+According to the Sri Lanka Freedom Party (SLFP) I am the leader of the party. However, as I am a leader, there is a court interim injunction and is currently not in office. We expect the court to make a verdict in this regard.Since the party's headquarters are captured, none of them can become leaders.
 
 ...
 
 [Data](articles/eb6a4a01.json)
+
+[Extended Data](ext_articles/eb6a4a01.ext.json)
 
 ---
 
@@ -408,19 +426,27 @@ The Australia received the advantage of the match was first decided to boast.
 
 ---
 
-### அரசாங்கத்திலுள்ள அரசியல் மூடர்களின் விளையாட்டுக்கள் இரண்டே மாதங்களில் நிறைவடையும் - முன்னாள் ஜனாதிபதி மைத்திரி
+### The games of the political fools in the government will end in two months - former President Maithri
 
 *2024-06-24 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186879) · `ta`
 
-அரசாங்கத்துடன் இணைந்து செயற்பட்டுக் கொண்டிருக்கும் சில அரசியல் மூடர்களின் விளையாட்டுக்கள் இன்னும் இரண்டே மாதங்களில் நிறைவடையவுள்ளன. உத்தேச ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சியின் வேட்பாளராக விஜேதாச ராஜபக்ஷவை களமிறக்கி வெற்றி வாகை சூடுவோம் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Former President Maithripala Sirisena predicts political changes within two months, stating Wijeyadasa Rajapakse will win the SLFP candidacy for the upcoming presidential election. He addresses legal challenges and calls for responsible journalism, emphasizing the SLFP's readiness for the election despite opposition.
 
-கண்டியில் திங்கட்கிழமை (24) சுதந்திர கட்சி தொகுதி அமைப்பாளர்களுடன் இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-கட்சி தலைவராக செயற்படுவதற்கே நீதிமன்றம் தடையுத்தரவு பிறப்பித்துள்ளது. மதறாக அரசியல் நடவடிக்கைகளில் ஈடுபடுவதற்கு அல்ல. எனவே நாம் எமது வழமையான அரசியல் நடவடிக்கைகளை முன்னெடுத்துச் செல்வதில் சிக்கல் இல்லை. சில அரசியல் மூடர்களின் விளையாட்டுக்கள் இன்னும் இரண்டே மாதங்களில் நிறைவடையவுள்ளன. அதன் பின் அவர்கள் எங்கு ஓட்டமெடுப்பார்கள் என்று தெரியாது.
+The games of some political fools working with the government will be completed in two more months. Former President Maithripala Sirisena has said that Wijeyadasa Rajapakse will win the Sri Lanka Freedom Party (SLFP) candidate in the proposed presidential election.
+
+He made this statement while addressing the media after a meeting with the SLFP organizers in Kandy on Monday (24). As he further notes,
+
+The court has issued a ban on acting as party leader. Not to engage in political activities as religious. So we have no problem with carrying out our usual political activities. The games of some political fools will be completed in two more months. Then they don't know where they will drive.
+
+We cannot close anyone's mouth in politics. Those who are currently working with the government have no right to the Freedom Party. The trial filed against us is yet to be completed. Only the interim injunction has been issued.
 
 ...
 
 [Data](articles/1c151026.json)
+
+[Extended Data](ext_articles/1c151026.ext.json)
 
 ---
 
@@ -441,6 +467,30 @@ Furthermore, Fernando revealed a number of government initiatives intended to at
 [Data](articles/2a8376bd.json)
 
 [Extended Data](ext_articles/2a8376bd.ext.json)
+
+---
+
+### Sri Lanka to launch marine tourism campaign in Trinco, Arugam Bay from August: Harin
+
+*2024-06-24 19:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-launch-marine-tourism-campaign-in-trinco-arugam-bay-from-august-harin-169328/) · `en`
+
+ECONOMYNEXT – Sri Lanka will launch a campaign to promote Trincomalee and Arugam Bay as part of efforts to promote marine tourism and attract higher spending tourists, Tourism Minister Harin Fernando said.
+
+“We will do a marine tourism launch in August,” Minister Fernando told reporters at the Presidential Media Centre Monday.
+
+“We will take Trincomalee to the world as a brand. Arugam Bay is a brand.”
+
+“We will focus on deep-sea diving in Arugam Bay and Trincomalee as a form of bringing Marine Tourism in the country.”
+
+Trincomalee and Arugam Bay in the island’s Eastern Coast has sunny weather around August, as the beach tourism hotspots in the South and Western coasts are struck by Moonsoon rain.
+
+Sri Lanka expects 2.3 million tourists for the year 2024 while striving to attract high-end tourists.
+
+“Currently our average spender is 180 dollars but we are looking to attracting 30 percent or 20 percent of our arrivals to spend up to 300 to 400 dollars next year,” Fernando said.
+
+...
+
+[Data](articles/fd13ba20.json)
 
 ---
 
@@ -628,6 +678,26 @@ It is reported that further statements will be taken tomorrow (24).
 
 ---
 
+### State minister visits Myanmar, Thailand to seek repatriation of trafficked Sri Lankans
+
+*2024-06-24 17:52:00* · [`economynextcom`](https://economynext.com/state-minister-visits-myanmar-thailand-to-seek-repatriation-of-trafficked-sri-lankans-169312/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya is visiting Myanmar and Thailand to secure the release of Sri Lankans trapped in forced labour camps in Myanmar.
+
+Balasuriya held discussions with high-ranking Thai officials including ambassador Russ Jalichandra and  Minister of Justice of Thailand Tawee Sodsong.
+
+“We are optimistic that some of these students will be released in the near future,” Balasuriya said on X (twitter).
+
+The Thai government facilitated the repatriation of eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar in April. They were in rebel held area of Myawaddy in Myanmar close to the Thai border.
+
+Balasuriya also visited Myanmar and held talks with officials including U Than Swe, Deputy Prime Minister and Union Minister for Foreign Affairs, Deputy Minister of Foreign Affairs U Lwin Oo and Union Minister for Home Affairs Lt Gen Yar Pyae.
+
+...
+
+[Data](articles/2a0a4a44.json)
+
+---
+
 ### If the cricket team is wrong, Harins resigns
 
 *2024-06-24 17:47:02* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-වැරදි-නම්-හරීන්-ඉල්ලා-අස්වෙනවලු/9-410403) · `si`
@@ -772,21 +842,73 @@ The suspicious parcel was found in the Central Mail transfer and is worth 400 mi
 
 ---
 
-### சமூக ஊடகங்கள் வாயிலாக மோசடி : பொதுமக்களே எச்சரிக்கை !
+### Sri Lanka stocks close up, renewed foreign interest
+
+*2024-06-24 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-renewed-foreign-interest-169294/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.18 percent, or 22.49 points, at 12,271; while the more liquid S&P SL20 Index closed up 0.68 percent, or 24.66 points, at 3,634.
+
+Turnover was 1.3 billion. A part of this (Rs209mn) came from trades on John Keells Holdings Plc. The share closed up at 206.50.
+
+“This was from foreign buying,” market participants said. “There is renewed foreign interest now that Sri Lanka has announced debt restructuring is close to being finalised.”
+
+“The market has seen days of consecutive foreign inflows, which is a positive sign. We’ve bee waiting for this, and now we are witnessing it. It’s encouraging for participants.”
+
+Sri Lanka’s president announced that the country was on the verge of debt restructuring.
+
+Banking stocks did well in the day. Sampath Bank Plc was up at 79.70, Commercial Bank Of Ceylon Plc was up at 105.75, and National Development Bank Plc closed up at 80.00.
+
+...
+
+[Data](articles/fc0a33b4.json)
+
+---
+
+### Fraud through social media: Public warning!
 
 *2024-06-24 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186842) · `ta`
 
-சமூக ஊடகங்கள்  வாயிலாக பிரபல நிறுவனங்களின் பெயர்களைப் பயன்படுத்தி மேற்கொள்ளப்படும் மோசடிகள் குறித்து பொதுமக்கள் எச்சரிக்கையாக செயற்படுமாறு இலங்கை கணினி அவசர தயார் நிலைக் குழு கோரிக்கை விடுத்துள்ளது.
+The Sri Lanka Computer Emergency Committee warns against social media scams impersonating popular companies for donations, prizes, jobs, and more. Fraudsters use fake websites, social media, and messaging apps to defraud users. These scams often target during national and religious events, preying on public ignorance. To avoid falling victim, verify information through official channels and ignore unconfirmed messages.
 
-சமூக ஊடகங்களில் பல்வேறு வங்கிகள், வணிக நிறுவனங்கள், சர்வதேச நிறுவனங்களின் பெயர்களைப் பயன்படுத்தி நன்கொடைகள், பணப் பரிசுகள், வெற்றிகள், வேலைவாய்ப்பு போன்றவற்றைப் பெறுவதற்கு உடனடியாக பதிவுசெய்துக் கொள்ளுமாறு பகிரப்படும் போலி தகவல் குறித்து பொதுமக்கள் எச்சரிக்கையுடன் செயற்பட வேண்டும்.
+🟩
 
-போலி இணையதளங்கள், சமூக ஊடகங்கள், குறுஞ்செய்தி மற்றும் வட்ஸ்அப் செயலி மூலம் பகிரப்படும் போலி தகவல்கள் வாயிலாக இணைய மோசடியில் ஈடுபடுபவர்கள்அதன் வாயிலாக  உங்களை தொடர்பு கொள்ள முயற்சிப்பார்கள்.
+The Sri Lanka Computer Emergency Committee has called for the public to be cautious about the frauds being used by the names of popular companies through social media.
 
-போலி செய்தியின் இணைப்புகளை அணுகுவதன் மூலம் மோசடிக்காரர்கள் தங்களுடன் இணைக்கப்பட்ட நபர்களின் கணினி, தொலைப்பேசியில் உள்ள தகவல்களைத் திருடி முறைகேடான மற்றும் பண மோசடியில் ஈடுபடுவதாக உறுதிப்படுத்தப்பட்டுள்ளது.
+The public should be cautious about the duplicate information shared immediately to register for donations, cash prizes, successes and employment using various banks, businesses and international organizations on social media.
+
+Those who are involved in internet frauds will try to contact you through fake websites, social media, SMS and WhatsApp processor.
+
+It has been confirmed that the fraudsters are involved in the abuse and money laundering of the computer, the computer, the telephone, by accessing the connections of fake news.
+
+In recent years, such scams have increased and the number of victims has increased muddy.. It is seen that the fraudsters are more involved in such activities during national and religious ceremonies. The ignorance and negligence of the general public is favorable to increase in society.
 
 ...
 
 [Data](articles/94123be9.json)
+
+[Extended Data](ext_articles/94123be9.ext.json)
+
+---
+
+### Sri Lanka rupee closes steady at 305.20/30 to US dollar
+
+*2024-06-24 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-steady-at-305-20-30-to-us-dollar-169298/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 305.20/30 to the US dollar on Monday, up from 305.10/30 to the US dollar on Thursday last week before the long weekend, dealers said, while  bond yields up.
+
+A bond maturing on 15.12.2026 closed at 10.45/85 percent, up from 10.45/80 percent.
+
+A bond maturing on 01.07.2028 closed at 11.20/55 percent up from 11.20/45 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/17 percent, up from 12.00/15 percent.
+
+A bond maturing on 01.12.2031 closed at 12.08/15 percent, down from 12.05/25 percent.
+
+◼️
+
+[Data](articles/140417b1.json)
 
 ---
 
@@ -2223,121 +2345,5 @@ The arrested persons were to be produced before the Anuradhapura Magistrate's Co
 [Data](articles/acca8756.json)
 
 [Extended Data](ext_articles/acca8756.ext.json)
-
----
-
-### Ed Sheeran concert in Sri Lanka in January: Minister
-
-*2024-06-24 12:05:00* · [`economynextcom`](https://economynext.com/ed-sheeran-concert-in-sri-lanka-in-january-minister-169206/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to host Ed Sheeran concert in January 2025, supported by Cinnamon hospitality group, Minister of Tourism Harin Fernando said.
-
-“Recently a company came forward to bring Ed Sheeran, the one of key singers to Sri Lanka in January or February,” Fernando told reporters in Colombo Monday.
-
-“Cinnamon Life is the firm that has undertaken to bring him.”
-
-This would be a first international pop star performance in the island for many years.
-
-The Sri Lanka Tourism Promotion Bureau also said that they would be developing Sri Lanka’s entertainment in order to compete with neighboring countries.
-
-“We compete with countries such as Thailand, Maldives and Singapore,” Fernando said.
-
-Despite the competition, Sri Lanka has not had a concert by an international artist since 2015.
-
-Sri Lanka expects 2.3 million tourists in 2024 and the tourist authorities said initially an even higher number was possible.
-
-...
-
-[Data](articles/ba523913.json)
-
-[Extended Data](ext_articles/ba523913.ext.json)
-
----
-
-### Increase in Sri Lanka
-
-*2024-06-24 11:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழ-நுகர்வு-இலங்கையில்-அதிகரிப்பு/175-339320) · `ta`
-
-In 2023, Sri Lanka saw a rise in fruit consumption to 12.8 million metric tons, with total annual fruit production reaching 19.6 million metric tons. Exports also increased, with 38,201 metric tons shipped abroad. Plans for 2027 aim to boost banana production to 19.5 metric tons per hectare, along with increases for papaya, pineapple, and oranges. The Department of Agriculture is implementing technical activities like introducing hybrids and high-density cultivation to enhance productivity and reduce crop damage.
-
-🟩
-
-In 2023, fruit consumption in Sri Lanka increased to 12.8 million metric tons (1,283,039 metric tonnes), according to the Department of Agriculture.
-
-The country's annual fruit is 19.6 million metric tons. (196,9371 metric ton). The Department of Agriculture said that the production of banana, mango, pineapple and papaya has increased in 2023.
-
-In addition, the exports of fruit have increased by 2023. Accordingly, 38,201 metric tons of fruits have been exported.
-
-By 2027, the banana production is planned to be 19.5 metric tonnes per hectare, 9.5 metric tonnes, papaya 45 metric tonnes, pineapple 14 metric tonnes and orange fruit to 30 metric tonnes.
-
-Dr. Dr. Kamani Ranatunga, Director General of the Department of Agriculture, Dr. Kamani Ranatunga, said that various technical activities have been planned, such as variants, hybrid varieties, high -density cultivation, integrated pest control, plant nutrition, reduce crop damage and introduction.
-
-◼️
-
-[Data](articles/2ae3cdc3.json)
-
-[Extended Data](ext_articles/2ae3cdc3.ext.json)
-
----
-
-### Indian boy who has taken refuge in Jaffna
-
-*2024-06-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186820) · `ta`
-
-An Indian boy sought refuge in Jaffna after fleeing from Colombo due to alleged abuse against his mother and her second husband. The boy, originally from North India, was living with his mother in Colombo while she worked at a Gazino. He planned to travel to Mannar and then to India by sea but ended up in Jaffna. Unable to find shelter, he took refuge at a police station. His mother was brought to Jaffna, where she agreed to take him back to Colombo, and the police facilitated their return.
-
-🟩
-
-The boy who came to Jaffna from Colombo and the refugee at the police station has been handed over to his mother.
-
-A boy from Colombo, a boy from Colombo, had taken refuge at the Jaffna police station claiming that his mother and mother's second husband were beaten and tortured.
-
-When the boy was investigating the boy, it was revealed that the boy was from North India, his mother was working in Gazino in Colombo and staying with a Sri Lankan person here.
-
-Meanwhile, the boy is planning to go to Mannar and then travel to India by sea, leaving Colombo and boarding a bus to Jaffna instead of boarding the Mannar bus.
-
-The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
-
-When the boy's mother was called in Jaffna, he said that he would punish the boy for the mistakes of the boy.
-
-The police then compromised the boy and warned the mother and sent the boy to Colombo.
-
-◼️
-
-[Data](articles/3ad5a94a.json)
-
-[Extended Data](ext_articles/3ad5a94a.ext.json)
-
----
-
-### Is there not even the 'grassed' control over Sri Lanka's food prices?
-
-*2024-06-24 11:47:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn000e2nm45o) · `si`
-
-Sri Lanka faces significant challenges with food pricing, especially in major cities like Colombo. High costs and limited facilities force many to spend a substantial portion of their wages on food, often leading to malnutrition despite increased spending. Inflation exacerbates the issue, with prices rising faster than wages. Despite government efforts to stabilize the economy, consumers struggle to afford adequate nutrition. Informal sectors like hotels see minimal wage increases, contributing to the problem. Quality and affordability issues persist, with some resorting to cheaper, less nutritious options. Online food ordering platforms add to the burden with high service charges. Economists suggest regulating food prices is challenging due to the nature of food consumption and the variety of products available. However, some praise small shops for maintaining quality. The situation highlights the need for effective regulation and consumer protection measures.
-
-🟩
-
-Not only but in Colombo but also in the main cities of the country is to 'snack' to meet their daily diet.
-
-It is often because they have no facilities to set their food.
-
-So most of their monthly wage has had to spend on foods. They are generally the point that the cost is usually higher than the cost of preparation of a diet.
-
-However, due to the crisis in the country, the cost of the crisis is in a state of money has been unable to afford it is impossible.
-
-They point out that the quality and sufficient meal has become a difficult task, even as customers have spent more money.
-
-They complain that the government has taken various steps to recover the economy of the country, but they have not received any answer to their living crisis.
-
-They point out that 'the sword is' that has lost even the right to eat as a basic need as a basic need.'
-
-Accordingly, BBC was looking for whether the authorities are unable to regulate foods in general, which is in general, which is sold as hotels and restaurants.
-
-...
-
-[Data](articles/b046729b.json)
-
-[Extended Data](ext_articles/b046729b.ext.json)
 
 ---

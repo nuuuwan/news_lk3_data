@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 20:34:50**
+As of **2024-06-24 20:53:44**
 
 ## Newspaper Stats
 
-*Scraped **31,930** Articles*
+*Scraped **31,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 3,631
 tamilmirrorlk | 3,763
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,232
+adaderanasinhalalk | 5,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,928 (100.0%) of 31,930 articles have been extended.
+31,930 (100.0%) of 31,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### සිරගත වන පිරිස වැඩි වෙයි
+### අබුඩාබිය හැඩ කළ පොසොන් කලාපය
+
+*2024-06-24 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198110) · `si`
+
+එක්සත් අරාබි එමීර් රාජ්‍යයේ අබුඩාබි හි ශ්‍රී ලංකා තානාපති කාර්යාලය සංවිධානය කරන පොසොන් කලාපය පසුගියදා පැවැත්වුණි.
+
+ස්වර්ණ මයුර ජාතකය ඇතුළත් දර්ශනීය තොරණ සමග පහන් කූඩු, බැති ගී, දන්සල් ආදී අංශ රැසක් තෙදිනක් පුරා පැවැත්වුණි.
+
+ලංකා ජර්මානු කාර්මික අභ්‍යාස ආයතනයේ ආදි ශිෂ්‍ය සංගමය,අබුඩාබි ක්‍රිකට් ක්‍රීඩා සමාජ එකමුතුව පොසොන් කලාපය සඳහා සංවිධාන දායකත්වය ලබාදී තිබුණි.
+
+◼️
+
+[Data](articles/1d8a7444.json)
+
+---
+
+### The imprisoned group increases
 
 *2024-06-24 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198109) · `si`
 
-මෙරට තුළ සොරකම් සහ මංකොල්ලකෑම් සම්බන්ධයෙන් සිරගත වන පුද්ගලයන් සංඛ්‍යාවේ කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කෙරෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+The number of people imprisoned for theft and robbery in the country significantly increased from 1,756 in 2021 to 2,061 in 2023. This rise includes a notable increase in female prisoners, from 19 in 2021 to 61 in 2023, primarily due to misleading activities.
 
-බන්ධනාගාර දෙපාර්තමේන්තු වාර්තා අනුව මෙරට තුළ සොරකම් සහ මංකොල්ලකෑම්වලට අදාළව 2021 වසරේදී 1,202ක්, 2022 වසරේදී 3,956 දෙනෙකුත්, 2023 වසරේදී 5,687 දෙනෙකුත් සිරගත කර තිබේ.
+🟩
 
-එමෙන්ම 2021 වසරේදී සොරකම් සහ මංකොල්ලකෑම්වලට අදාළව  කාන්තාවන් 19 දෙනෙකු සිරගත වී ඇති අතර 2022 වසරේදී එය 49 දක්වාත් 2023 වසරේදී 61 දක්වාත් ඉහළ ගොස් තිබුණි.
+The number of people who are imprisoned on theft and robbery in the country show that there is a significant increase in the number of persons imprisoned.
 
-පුද්ගලයන් නොමග යවා රවටමින් මුදල් පැහැරගැනීමේ සිද්ධිද මේ වනවිට වැඩි වශයෙන් වාර්තා වෙමින් තිබේ.
+According to the Department of Prisons, 1,756, in 2021, 2021, 2023, was imprisoned in 2021, 2023, 2023, 2023, 2023.
+
+In the year 2021, 19 women have been imprisoned in connection with theft and robbery, and in 2022, it was up to 49 and 61 to 61 in 2023.
+
+It is reported most of the landslides to mislead individuals.
 
 ◼️
 
 [Data](articles/bfd25815.json)
+
+[Extended Data](ext_articles/bfd25815.ext.json)
 
 ---
 
@@ -174,17 +196,29 @@ The High Court Judge was ordered to pay 15 years of prison in two years.
 
 ---
 
-### සන්නස්ගල මිලියනය ගෙවයි - නඩුවෙන් නිදහස් වෙයි
+### Million Sannasgala pays million - Freed from the case
 
 *2024-06-24 18:18:38* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගල-මිලියනය-ගෙවයි---නඩුවෙන්-නිදහස්-වෙයි/11-410405) · `si`
 
-චිත්‍රපටයක් නිෂ්පාදනය කිරීමට බව පවසා කඳාන ප්‍රදේශයේ පුද්ගලයකුගෙන් රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන එම මුදල ලබානොදී විශ්වාසය කඩ කරන ලදැයි කියන සිද්ධියක් සම්බන්ධයෙන් උපුල් ශාන්ත සන්නස්ගල මහතාට එරෙහිව කඳාන පොලිසිය කෙටුම්පත් කළ චෝදනා ඉදිරිපත් කිරීම ප්‍රතික්‍ෂෙප කළ වැලිසර මහෙස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා චෝදනාවන්ගෙන් සන්නස්ගල මහතා මුදාහැරීමට අද (24) නියම කළේය.
+Million Sannasgala, accused of purchasing Rs. 1 million worth of goods without payment, was acquitted after the complainant failed to appear in court. The case involved Upul Shantha Police and was represented by Attorney-at-Law Sarath Jayamanna. Despite the complainant's absence, the court proceedings continued, questioning the credibility of the accusations.
 
-තමාගෙන් ලබාගත් රුපියල් ලක්ෂ 10ක මුදල උපුල් ශාන්ත සන්නස්ගල මහතා ගෙවා අවසන් කළ බවත් නඩුවක් ගෙන යෑමට තමන්ට අවශ්‍යතාවයක් නැති බවත් පැමිණිලිකරු කළ දැනුම් දීමක් සැළකිල්ලට ගනිමින් එලෙස නියම කළ මහෙස්ත්‍රාත්වරයා වරදක් සංස්ථාපනය නොවන අවස්ථාවකදී පුද්ගලයින්ට එරෙහිව චෝදනා කෙටුම්පත් කරන්නේ කෙසේදැයි කඳාන පොලිසියෙන් ප්‍රශ්න කළේය.
+🟩
+
+Mr. Bandaranayake Uddasa Udahara of Kandana Magistrates against Upul Shantha Police have been released against Upul Shantha Police (Thamuna Police Uddasy) to obtain the allegations of a person who had been accused of purchase of Rs.) Set.
+
+The complainant questioned by the complainant, taking a case of Mr. Upul Shantha Sannrasgala, which was paid by Upul Shantha Sannrasgala, was ignored by the complainant, and questioned people.
+
+Upul Shantha Sannrasgala appeared in court to appear in courtSubmitted.
+
+Attorney-at-Law Sarath Jayamanna, who appeared on behalf of the accused to the defendant, was said to the court.He was produced before the Appointed Court.
+
+Did the complainant of the incident appear to appear in court if he was required if the President's Counsel was needed if he needed?And they may be able to doubt him.
 
 ...
 
 [Data](articles/bb6230c5.json)
+
+[Extended Data](ext_articles/bb6230c5.ext.json)
 
 ---
 
@@ -2365,25 +2399,5 @@ MP Waleboda stated that several rounds of diplomatic talks are scheduled to take
 [Data](articles/a43e1124.json)
 
 [Extended Data](ext_articles/a43e1124.ext.json)
-
----
-
-### Disciplinary action against Fonseka
-
-*2024-06-24 10:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-339310) · `ta`
-
-Disciplinary action against Sarath Fonseka, chairman of the United People's Power (SJB), will be decided this week by the party's executive committee, as announced by General Secretary Ranjith Mathuma Bandara.
-
-🟩
-
-The party's general secretary Ranjith Mathuma Bandara has said that disciplinary action will be taken this week against the United People's Power (SJB) Chairman Sarath Fonseka.
-
-Mathuma Bandara said the party's executive committee would meet this week to decide on Fonseka.
-
-◼️
-
-[Data](articles/0f864c0f.json)
-
-[Extended Data](ext_articles/0f864c0f.ext.json)
 
 ---

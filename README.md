@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 19:05:29**
+As of **2024-06-24 19:19:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,922 (100.0%) of 31,923 articles have been extended.
+31,923 (100.0%) of 31,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,21 +112,29 @@ It is reported that further statements will be taken tomorrow (24).
 
 ---
 
-### ක්‍රිකට් කණ්ඩායම වැරදි නම් හරීන් ඉල්ලා අස්වෙනවලු
+### If the cricket team is wrong, Harins resigns
 
 *2024-06-24 17:47:02* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-වැරදි-නම්-හරීන්-ඉල්ලා-අස්වෙනවලු/9-410403) · `si`
 
-2024 T 20  ලෝක කුසලානය ක්‍රිකට් තරඟාවලිය සඳහා පිටත්ව ගිය ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම විනය විරෝධී කටයුතු සිදු කර ඇති බවට එල්ල කරන චෝදනා ඔප්පු කළහොත්   තමා අමාත්‍ය  ධූරයෙන් ඉල්ලා අස්වන බව සංචාරක හා ඉඩම් සහ ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා ප්‍රකාශ කළේය .
+Harin Fernando, Minister of Tourism and Youth Affairs, announced his readiness to resign if allegations against the Sri Lanka Cricket team prove true. He highlighted government efforts to support athletes, including insurance coverage for school rugby players and a heritage program granting freehold deeds. Despite challenges, initiatives like promoting tourism and developing sports infrastructure are underway, aiming to boost the economy and prepare for future elections.
 
-ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සුභසාධනය සඳහා විශාල වැය බරක් දැරීමට රජය කටයුතු කර ඇති බවත් එහිදී ජාත්‍යන්තර මට්ටමේ පරිසාධනය සපුරා ඇති ක්‍රීඩක ක්‍රීඩිකාවන් 60ක් තෝරාගෙන ඔවුන්ට මසකට රුපියල් 50,000 බැගින් ද, තවත්  තෝරා ගත්  ක්‍රීඩක ක්‍රීඩිකාවන් 850ක් සඳහා  මාසයකට රුපියල් 10,000බැගින් වන  දීමනාවක් ලබාදීමට කටයුතු කර ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-සංචාරක හා ඉඩම් සහ ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා මේ බව සඳහන් කර සිටියේ ” ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (24) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+Minister of Tourism and Lands and Youth Affairs Harin Fernando said that he would resign from the Minister to the cricket team that the Sri Lanka Cricket Cup has departed for the cricket tournament.
 
-පාසල් රග්බි ක්‍රීඩකයන් ආරක්ෂා කර ගැනීම වෙනුවෙන් ඔවුන් වෙත රක්ෂණ ආවරණයක් පිරිනැමීමට ද  රජය කටයුතු කර තිබෙන බවද  හරින් ප්‍රනාන්දු අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that the government had taken measures to take a large cost of the sportsmen and the international level.Did.
+
+Minister Harin Fernando, Minister of Tourism and Youth Affairs, was held at a press conference held today (24) at the President's Media Center today.
+
+Minister Harin Fernando stated that the government has also served the insurance cover to protect school rugby players.
+
+As the first step in the history of 75 years of free Sri Lanka history, the "heritage" is shown in Sinchkara Land Deeds. Established in February, the program has been able to grant more than 50,000 freeholding deeds. Troops of the heritage program are expected to be given Rs. 20 lakhs of land deeds.
 
 ...
 
 [Data](articles/805b4ba0.json)
+
+[Extended Data](ext_articles/805b4ba0.ext.json)
 
 ---
 

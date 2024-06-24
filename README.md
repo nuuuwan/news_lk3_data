@@ -1,36 +1,104 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 16:35:52**
+As of **2024-06-24 16:52:33**
 
 ## Newspaper Stats
 
-*Scraped **31,897** Articles*
+*Scraped **31,904** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 294
 dbsjeyarajcom | 295
-bbccomsinhala | 313
+bbccomsinhala | 314
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,799
-adaderanalk | 3,624
-tamilmirrorlk | 3,758
+adalk | 2,800
+adaderanalk | 3,626
+tamilmirrorlk | 3,759
 dailymirrorlk | 4,733
 virakesarilk | 4,943
-adaderanasinhalalk | 5,222
+adaderanasinhalalk | 5,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,890 (100.0%) of 31,897 articles have been extended.
+31,890 (100.0%) of 31,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### ජනපති 26 වනදා ජාතිය අමතයි
+
+*2024-06-24 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198099) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ජුනි 26 වනදා රාත්‍රී 8ට ජාතිය අමතමින් විශේෂ ප්‍රකාශය සිදුකිරීමට නියමිත බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/5a50f4ed.json)
+
+---
+
+### විශ්වවිද්‍යාල අවට පොලිස් ආරක්ෂාවක්
+
+*2024-06-24 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198098) · `si`
+
+අධ්‍යාපන අමාත්‍යාංශ්‍ය දැනුම්දෙන්නේ රාජ්‍ය විශ්වවිද්‍යාල කාර්යමණ්ඩලවල හා සිසුන්ගේ ආරක්ෂාව සඳහා එම පියවර ගත් බවය.
+
+◼️
+
+[Data](articles/7552c3b8.json)
+
+---
+
+### President Ranil to address the nation
+
+*2024-06-24 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100071/president-ranil-to-address-the-nation-) · `en`
+
+President Ranil Wickremesinghe will address the nation at 8.00 p.m. on Wednesday (26 June), the Government Information Department announced.
+
+It is reported that the President, in his address, is expected to brief the public about the current economic situation in the country and provide an update on the progress made with regard to the restructuring of foreign debt.
+
+Speculation is rife that the President is likely to announce Sri Lanka’s emergence out of bankruptcy during his special statement.
+
+Meanwhile, the national secretary of the United National Party (UNP), Ravi Karunanayake, yesterday (23) indicated that the President’s announcement will provide significant relief to the people of country.
+
+◼️
+
+[Data](articles/f355a342.json)
+
+---
+
+### இராஜினாமா செய்வேன்: ஹரின் அதிரடி
+
+*2024-06-24 16:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜினாமா-செய்வேன்-ஹரின்-அதிரடி/175-339338) · `ta`
+
+விளையாட்டுத்துறை அமைச்சு பதவியை இராஜினாமா செய்வேன் என அமைச்சர் ஹரின் பெர்னாண்டோ அறிவித்துள்ளார்.
+
+T20 உலகக் கிண்ணத்திற்குச் சென்ற இலங்கை கிரிக்கெட் அணி மீதான குற்றச்சாட்டுகள் நிரூபிக்கப்பட்டால் அமைச்சர் பதவியை இராஜினாமா செய்வேன் என்கிறார்.
+
+◼️
+
+[Data](articles/1760e724.json)
+
+---
+
+### Education Secretary requests security for all schools, staff and students
+
+*2024-06-24 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100070/education-secretary-requests-security-for-all-schools-staff-and-students) · `en`
+
+The Education Ministry Secretary has requested the Defence Secretary to ensure the security of all schools, National Colleges of Education island-wide, their staff and students while the non-academic staff engage in their ‘sick leave’ campaign today and tomorrow.
+
+◼️
+
+[Data](articles/e823fdda.json)
+
+---
 
 ### Eight arrested over gang rape of 16-year-old girl remanded
 
@@ -259,6 +327,22 @@ The identity of the deceased is yet to be ascertained while police revealed that
 ◼️
 
 [Data](articles/93912970.json)
+
+---
+
+### කුරියර් ක්‍රමයට ගංජා ගෙන්වා බෙදාහැරල
+
+*2024-06-24 15:24:39* · [`adalk`](https://www.ada.lk/breaking_news/කුරියර්-ක්‍රමයට-ගංජා-ගෙන්වා-බෙදාහැරල/11-410401) · `si`
+
+කුරියර් ක්‍රමයට කේරළ ගංජා ගෙන්වා ගත් පුද්ගලයෙකු ඊයේ (23දා) බළපිටිය වලගෙදර ප්‍රදේශයේදී සැකපිට ප්‍රශ්න කිරීමට අත්අඩංගුවට ගත් බව ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන ඒකකය සඳහන් කරයි. බළපිටිය, වලගෙදර පදිංචි හතළිස් පස්හැවිරිදි පුද්ගලයෙක් මෙසේ අත්අඩංගුවට පත්ව ඇත.
+
+සැකකරු සතුව තිබූ ගංජා ග්‍රෑම් පන්සීයක්ද පොලිස් භාරයට ගෙන තිබේ. සැකකරු විසින් ගෙන්වා ගන්වා ගන්නා ලද ගංජා ගාලු දිසාවේ ධීවර වරාය වලින් මුහුදු රැකියාවට යන ධීවරයන්ට අලෙවි කරන බවට අනාවරණය වූ බවද එම ඒකකය සඳහන් කරයි.
+
+අත්අඩංගුවට පත් සැකකරු වැඩිදුර විමර්ශන සඳහා අම්බලන්ගොඩ පොලීසියට භාරදී තිබේ. ඇල්පිටිය කොට්ඨාස දූෂණ මර්දන අංශය සිද්ධිය පිළිබඳ වැඩිදුර පරීක්ෂණ සිදු කරයි.
+
+◼️
+
+[Data](articles/e5d4768e.json)
 
 ---
 
@@ -1652,6 +1736,30 @@ He previously has held the posts of media state minister and state minister of B
 
 ---
 
+### තරුෂි කරුණාරත්න : ඔලිම්පික් යන්න හැකි වෙයිද ?
+
+*2024-06-24 10:30:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv222j90v9jo) · `si`
+
+ස්පාඤ්ඤයේ පැවති ආරාධිත මලල ක්‍රීඩා තරගාවලියේදී මීටර් 600 තරග ඉසව්වෙන් නව ආසියානු වාර්තාවකට හිමිකම් කී තරුෂි කරුණාරත්න ගැන මෙරට ක්‍රීඩා ලෝලීන් විශාල බලාපොරොත්තුවකින් පසුවේ.
+
+ඒ ඇය මෙවර ඔලිම්පික් තරගාවලිය සඳහා සුදුසුකම් ලබා ගනිමින් ශ්‍රී ලංකාවට පදක්කමක් දිනා දෙනු ඇතැයි යන බලාපොරොත්තුව නිසාවෙනි.
+
+සුසන්තිකා ජයසිංහ, දමයන්ති දර්ෂා වැනි ක්‍රීඩිකාවන් ගෙන් පසුව මෙරට ජනතාවට මලල ක්‍රීඩාව හරහා වඩාත් සමීප වූ ක්‍රීඩිකාවක් ලෙස තරුෂිව හැඳින්විය හැකිය.
+
+මෙවර ඔලිම්පික් තරගාවලිය ජුලි මස 26 වෙනිදා ප්‍රංශයේ පැරිස් නුවරදී ආරම්භ වීමට නියමිතයි.
+
+පසුගිය සතියේ ස්පාඤ්ඤයේ පැවති ආරාධිත මලල ක්‍රීඩා තරගාවලියේදී මීටර් 600 තරග ඉසව්ව විනාඩි 01.24.84කින් නිමා කළ තරුෂි කරුණාරත්න රිදී පදක්කමට හිමිකම් කියනු ලැබිය.
+
+මේ අතර තායිවාන විවෘත මලල ක්‍රීඩා තරගාවලියේ මීටර් 400 ඉසව්ව තත්ත්පර 52.48ක් ලෙස සනිටුහන් කරමින් තරුෂි රන් පදක්කම ජයග්‍රහණය කිරීමට සමත් වුවාය.
+
+එම තරගාවලියේදීම මීටර් 800 තරග ඉසව්ව විනාඩි 2.05.74 කින් නිමා කරමින් ඇය රන් පදක්කමට හිමිකම් කියනු ලැබීය.
+
+...
+
+[Data](articles/70ef446e.json)
+
+---
+
 ### West Indies will be defeated
 
 *2024-06-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198084) · `si`
@@ -2159,179 +2267,5 @@ A security guard armed with a pistol was also shot, Khadulaev said. The guard’
 [Data](articles/15643df7.json)
 
 [Extended Data](ext_articles/15643df7.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-24 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100055/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers about 50mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara Eliya districts.
-
-Several spells of showers will occur in North-western province and in Matale district, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/ae7dffc4.json)
-
-[Extended Data](ext_articles/ae7dffc4.ext.json)
-
----
-
-### The fate of the woman who went to the house
-
-*2024-06-24 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198079) · `si`
-
-An elderly, unmarried woman was found murdered in her home in Aluthwala, Samalgama, Gonasegama. She lived with her brother's son. The crime occurred on Poson Poya Day when she was attacked with a stick. Police suspect her nephew.
-
-🟩
-
-A woman has been murdered in a house in Aluthwala, Samalgama, Gonasegama.
-
-Police say that 76-year-old woman was residing in the house, police said.
-
-The woman is unmarried and she has been living with his brother's son several years.
-
-It has been revealed that the woman has been attacked with a stick after returning home.
-
-Police investigates a stick suspected to attack her woman in the murder.
-
-Accordingly, the police have committed the murder in the Poson Poya Day (21) in the evening.
-
-Police suspect that the woman's son's son had committed the murder.
-
-◼️
-
-[Data](articles/11b69e8e.json)
-
-[Extended Data](ext_articles/11b69e8e.ext.json)
-
----
-
-### A delegation to Russia to save our war
-
-*2024-06-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198078) · `si`
-
-A delegation from Sri Lanka, including defense and foreign affairs officials, is set to travel to Russia today to discuss the involvement of Sri Lankans in the Ukrainian conflict. Meetings with Russian government representatives are scheduled for tomorrow in Moscow, focusing on defense and diplomatic relations.
-
-🟩
-
-A special delegation to look into Sri Lankans who have been involved in Sri Lankans in the Ukrainian war is to leave for Russia today (24).
-
-The MP said that the Secretary of the Ministry of Defense and the Ministry of External Affairs have been appointed to depart.
-
-The official meeting between the Sri Lankan and the representatives of the Russian government meetings will be held in Moscow on the 26th.
-
-The discussions will be held on the evening of the evening of the Russian Deputy Minister of Defense.
-
-He added that several rounds of public duty talks are due to be held in general area.
-
-◼️
-
-[Data](articles/027ce260.json)
-
-[Extended Data](ext_articles/027ce260.ext.json)
-
----
-
-### Central bank swaps symptomatic of Sri Lanka’s IMF return tickets and default
-
-*2024-06-24 06:54:00* · [`economynextcom`](https://economynext.com/central-bank-swaps-symptomatic-of-sri-lankas-imf-return-tickets-and-default-169124/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has been playing with swaps for some time and the agency’s 778 billion rupee forex loss in 2022 was directly related to swaps and other borrowings, which allows it to maintain an artificial policy rate.
-
-Central bank swaps along with other doctrines like portfolio balance channels, are the foundation of modern age-of-inflation forex crises, default, outmigration and sudden soaring poverty.
-
-As part of steps to prevent the next sovereign default by macro-economic policy, outlawing forex swaps will be a key measure that legislators can take.
-
-The Nick Leeson style losses came not only from swaps but also IMF borrowings taken during an earlier flexible inflation targeting crisis and borrowings from India through the Asian Clearing Union, which have since been converted to a term facility.
-
-...
-
-[Data](articles/08e81aef.json)
-
-[Extended Data](ext_articles/08e81aef.ext.json)
-
----
-
-### School non-academic workers get sick
-
-*2024-06-24 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198077) · `si`
-
-Non-academic staff at schools are sick, leading to trade union actions in Kandy, North Central, and North Western regions. The Ministry of Education announced the absence of these employees on the 25th and 26th due to sickness. Trade unions aim to create a national policy for education, with a planned strike on the 26th. Despite the situation, normal operations resume post-Possan holidays.
-
-🟩
-
-The Ministry of Education states that education non-academic employees have been reported today and tomorrow (25) and will leave the ministry.
-
-Accordingly, the trade union action is being implemented today in Kandy, North Central and North Western areas.
-
-The General Secretary of the Union Ajith K. Thilakaratne said that the trade union action will be implemented to formulate a national policy to the educational and education.
-
-Meanwhile, National Organizer of the Principal Services Union Sisira Rajapaksa has decided to take place on the 26th station strike on the 26th.
-
-However, after the Poson's vacation, the Ministry of Education has issued announcement in this day as usual yesterday.
-
-◼️
-
-[Data](articles/4c30934d.json)
-
-[Extended Data](ext_articles/4c30934d.ext.json)
-
----
-
-### Weather today
-
-*2024-06-24 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198075) · `si`
-
-Today, expect showers in Western, Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle, Matara districts, with strong showers possible around 5pm. Wind warnings issued for Central Hills' western slopes, Trincomalee, Hambantota, Moneragala districts, with wind speeds of 40-50 km/h.
-
-🟩
-
-Showers will occur at times in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Strong showers can occur around 50.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50) have been informed of strong winds.
-
-◼️
-
-[Data](articles/2cd34734.json)
-
-[Extended Data](ext_articles/2cd34734.ext.json)
-
----
-
-### Christian churches attack in the Republic of Doctrine - many people, including police,
-
-*2024-06-24 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/186794) · `ta`
-
-In northern Russia, several Christian churches were attacked during a religious event, resulting in numerous deaths, including seven police officers and six assailants. The victims included Christians and Jews, with no clear perpetrator identified yet. This incident follows a history of extremist attacks in the region.
-
-🟩
-
-In the North of Russia, many have been killed in attacks on Christian churches on Jewish transactions.
-
-The attack took place during the religious event of the Benthagosamadhumans in the cities of Terbent and Makachala.
-
-Seven policemen, including a cleric security officer, have been killed and six of the attackers have been killed.
-
-It is not yet certain who carried out the attack, but in the past, Dagestan has been facing attacks by Islamic extremists many times.
-
-It is reported that two Christian heavens and Jews have been targeted in the Sunday attack and a Christian man has been killed.
-
-Videos have been revealed that black -dressed people are carrying out an attack on the police.
-
-Those who attacked the Christian church on the Jews in the Jews, which have been living in the Jews for many years, have set fire to them.
-
-◼️
-
-[Data](articles/141796b7.json)
-
-[Extended Data](ext_articles/141796b7.ext.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 15:04:46**
+As of **2024-06-24 15:19:36**
 
 ## Newspaper Stats
 
-*Scraped **31,877** Articles*
+*Scraped **31,879** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 293
+colombotelegraphcom | 294
 dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,838
 dailyftlk | 1,942
-adalk | 2,797
+adalk | 2,798
 adaderanalk | 3,620
 tamilmirrorlk | 3,757
 dailymirrorlk | 4,733
@@ -26,27 +26,57 @@ adaderanasinhalalk | 5,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,874 (100.0%) of 31,877 articles have been extended.
+31,877 (100.0%) of 31,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### வருட தள்ளுபடி கொடுத்த ஆசிரியையும் கணவனும் கைது
+### Teacher and husband arrested for annual discounts
 
 *2024-06-24 14:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-தள்ளுபடி-கொடுத்த-ஆசிரியையும்-கணவனும்-கைது/175-339333) · `ta`
 
-தாங்கள் ஆரம்பித்த சட்டவிரோதமான வர்த்தகத்துக்கு ஒருவருடம் நிறைவடைவதை முன்னிட்டு, வருட தள்ளுபடி கொடுத்த ஆசிரியையும், அவருடைய கணவனும் கைது செய்யப்பட்டள்ளனர்.
+A teacher and her husband were arrested in Anuradhapura for distributing heroin worth Rs 1 crore. They planned to sell the drugs during the Poson period. Police found 120 grams of heroin and confiscated a motorcycle. This case marks one of the largest heroin seizures, with the suspects set to appear in court.
 
-போதைப்பொருள் பிரியர்களுக்கு போதைப்பொருள் விநியோகம் செய்ய தயாராக இருந்த பயிற்சி ஆசிரியர் ஒருவரும் அவரது கணவரும் சுமார் ஒரு கோடி ரூபாய் பெறுமதியான ஹெரோயின் போதைப்பொருளுடன் அநுராதபுரம் நகரின் மையப்பகுதியில் வைத்து கைது செய்யப்பட்டனர்.
+🟩
 
-பொசொன் காலப்பகுதியில், போதைப்பொருளை ஏற்றிச் சென்ற பெண்ணின் மோட்டார் சைக்கிளுடன் கைது செய்யப்பட்டதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+The teacher and her husband have been arrested for the anniversary dismissal, in view of the end of the illegal trade they started.
 
-வாரியபொல பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஆசிரியை மற்றும் அனுராதபுரம் சுற்றுலா விடுதி ஒன்றில் சமையல்காரரின் உதவியாளராக கடமையாற்றும் கேகாலை பிரதேசத்தை சேர்ந்த 28 வயதுடைய  அவரது கணவர், ஆகியோரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்
+A trainee teacher and her husband, who were ready to distribute drugs to drug lovers, were arrested in the center of the city of Anuradhapura with heroin worth about Rs 1 crore.
+
+During the Poson period, the Anuradhapura headquarters headquarters police said that the woman who was carrying the drug was arrested with a motorcycle.
+
+The 26 -year -old teacher from Wariyapola area and her 28 -year -old husband from Kegalle, who is working as an assistant to a cook at a tourist hostel at Anuradhapura, has been arrested.
+
+The suspects have issued a discount of 500 to Rs.
+
+According to reports, when the couple was arrested, 40 grams of heroin from the woman was recovered and 80 grams of heroin was recovered from her husband and a woman's motorcycle was seized.
 
 ...
 
 [Data](articles/3ad73b73.json)
+
+[Extended Data](ext_articles/3ad73b73.ext.json)
+
+---
+
+### බද්දේගම, අලුත්වල ප්‍රදේශයේ නිවසක් තුල කාන්තා මළ සිරුරක්
+
+*2024-06-24 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/බද්දේගම--අලුත්වල-ප්‍රදේශයේ-නිවසක්-තුල-කාන්තා-මළ-සිරුරක්/11-410399) · `si`
+
+බද්දේගම, අලුත්වල, සාමගම ප්‍රදේශයේ නිවසක් තුළ කාන්තාවක් ඝාතනය කර ඇතැයි ගෝනපීනුවල පොලීසිය කියයි.
+
+23 දා 119 පොලසිස් හදිසි ඇමතුම් ඒකකයට ලද තොරතුරක් මත සිදු කළ සොයා බැලීමේ දී මිටගිය කාන්තාවකගේ මළ සිරුරක් නිවස තුළ තිබී හමුවී ඇත. මියගොස් තිබෙන්නේ කේ. දයාවති නැමැති 76 වියැති අවිවාහක තැනැත්තියකී. ඇයගේ සහෝදරයාගේ පූත්‍රයා ද එම නිවසේ පදිංචිව සිට ඇති අතර, පොසොන් පෝය දින එම කාන්තාව සිල් සමාදන්වී ඇති බවද, අනාවරණය වී තිබේ.
+
+සිල් සමාදන්වීමෙන් පසු 21 දා සන්ධ්‍යාවේ එම කාන්තාව නිවසට පැමිණ ඇති බව ද මුලික පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ. මියගිය කාන්තාවගේ මෘත ශරීරය අසල තිබී ලී දණ්ඩක් ද පොලීසියට හමුවී තිබේ.
+
+ඉන් සිදු කළ පහරදීමකින් මියයන්නට ඇතැයි පොලීසිය සැක කරයි.පොසොන් පෝය දින සන්ධ්‍යාවත්, 23 වෙනිදාත්, අතර කාලයේ දී මෙම අපරාධය සිදු කර තිබේන බව ද පොලීසිය කියයි.
+
+නිවසේ පදිංචිව සිටි පුත්‍රයා ප්‍රදේශයෙන් පළාගොස් ඇති බවද පොලීසිය කියයි. මෘත ශරිරය කරාපිටිය ශික්ෂණ රෝහලට යොමු කර අති අතර, ගෝනපීනුවල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/743f9da3.json)
 
 ---
 
@@ -488,17 +518,27 @@ Donations will not be able to focus on the focus of the burden of the fire from 
 
 ---
 
-### අනේ බුදු බව අත්වෙයි මාව මරාගන්න කලින් ලංකාවට ගෙන්වා ගන්න
+### Please bring me to Sri Lanka before the Buddha is killed
 
 *2024-06-24 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/අනේ-බුදු-බව-අත්වෙයි-මාව-මරාගන්න-කලින්-ලංකාවට-ගෙන්වා-ගන්න/11-410397) · `si`
 
-"මාව දැන් දවස් තුන හතරක් තිස්සේ කාමරයකට දාලා වහලා කන්ඩ බොන්ඩ දෙන්නැතුව ගහනවා, මේ ගෙදර හය දෙනෙක්ගෙ වැඩ මට කරන්න වෙලා, ඒ වැඩ කරන්න අමාරු නිසා තමයි මගේ කම්බුලට ගහලා මාව කාමරයක හිර කරලා දාලා කන්න බොන්නවත්, දෙන්නේ නැත්තේ, මට ඇල්වතුරක් දෙන්නෑ. මට මේ ගෙදර අය පඩි දුන්නෙත් නෑ. මම පොලිසියේ පැමිණිල්ලක් දැම්මා, පොලිසියත් කිව්වේ වැඩිය කියවන්න එපා ගහලා හිරේ දානවා කියලා, මේ ගෙදර පිරිමි ළමයෙක් ඉන්නවා ඒ ළමයා මාත් එක්ක හැමදාම රණ්ඩු වෙනවා, පොලිසියට පැමිණිලි කළත් වැඩක් නෑ.
+A woman from Sri Lanka, employed as a domestic worker in Saudi Arabia, faces abuse and exploitation. She cries out for help, urging someone to take her back to Sri Lanka before she is killed. Despite lodging complaints with the police, her situation worsens, highlighting the plight of migrant workers abroad.
 
-මේ ගෙදර එක්කෙනෙක් තමයි පොලිසියේ වැඩ කරන්නේ. ඒ පොලිසියේ කෙනා තමයි කිව්වේ ආයෙත් ගෙදරට ගිහිල්ලා වැඩ කරන්න කියලා, ලංකාවට පෙට්ටියකින් යන්න ආසද කියලා කියනවා, අනේ බුදු බව අත්වෙයි මාව මරාගන්න කලින් ලංකාවට ඉගෙන්වා ගන්න" යැයි පොළොන්නරුව දිඹුලාගල අංක 38 මහඋල්පත කාශ්‍යපපුර ගම්මානයේ සිට මීට වසරකට පෙර සෞදියේ ගෘහ සේවයට ගොස් කාමරයක සිර කරගෙන සිටින, දෙදරු මවක වන 33 වියති දිස්නා ශිරෝමි මහත්මිය හැඬූ කඳුළුන් සඳහන් කළාය.
+🟩
+
+"I have to do my wimbula and bread me in a room and eat me in a room and eat me for three days.. I didn't even pay the house with this house. I was lodged a complaint at the police, but there is a boy who complains with me every day, but it doesn't matter.
+
+One of these house is the police work. That's the police person to go back home and get to Sri Lanka before I will kill Sri Lanka to go to Sri Lanka. "The Vasabha Shiromi, a mother of two, said Mrs. Shiromi, weeping.
+
+On October 28, 2022 departed to the Saudi domestic work on the Kurunegala area on October 28, 2022, a permanent house and children to earn education.
+
+"I don't pay these households,. Later, he lodged a complaint monthly. Currently, I have nobody to eat, drink, drink, drink, to eat and drink in Saudi Arabia.. All the men and women of the girls have to work all work.
 
 ...
 
 [Data](articles/de74329e.json)
+
+[Extended Data](ext_articles/de74329e.ext.json)
 
 ---
 
@@ -1514,6 +1554,16 @@ However, despite these developments, the Ministry of Education had issued a stat
 
 ---
 
+### Another Controversy Surrounding The Tender For The Construction Of The New Terminal Building At The BIA
+
+*2024-06-24 09:35:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/another-controversy-surrounding-the-tender-for-the-construction-of-the-new-terminal-building-at-the-bia/) · `en`
+
+...
+
+[Data](articles/8c045719.json)
+
+---
+
 ### Scotland twenty
 
 *2024-06-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198081) · `si`
@@ -1669,6 +1719,8 @@ The Economic Transformation Bill, is said to be emanating from a “Vision” of
 ...
 
 [Data](articles/5b3e8a58.json)
+
+[Extended Data](ext_articles/5b3e8a58.ext.json)
 
 ---
 
@@ -2257,57 +2309,5 @@ The President joined the films with the younger ones who attended the meeting af
 [Data](articles/35c6f66b.json)
 
 [Extended Data](ext_articles/35c6f66b.ext.json)
-
----
-
-### Do not escape the challenges
-
-*2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/150-339303) · `ta`
-
-President Ranil Wickremesinghe urged future generations to embrace education, understand policies, and face challenges head-on. He addressed young people in Batticaloa, emphasizing the importance of leadership and political excellence. The gathering, held at the "Golden River" hotel, saw a significant turnout from the youth and women, who received positive responses to their queries. Post-meeting, the President engaged in informal discussions with the attendees.
-
-🟩
-
-President Ranil Wickremesinghe said the future generations should get better education and appreciate policies and never escape the challenges.
-
-Responding to a question raised by the youth of the Batticaloa district, the President was responding to a question raised by the youth of the Batticaloa district that the country's successful leadership and the best politician as a great politician.
-
-President Ranil Wickremesinghe made this statement at a meeting of the youth team held at the "Golden River" hotel in Batticaloa yesterday.
-
-A large number of youth and women attended the meeting and the president gave favorable answers to their questions.
-
-The President joined the films with the younger ones who attended the meeting after the meeting. (A)
-
-◼️
-
-[Data](articles/6b97bbc0.json)
-
-[Extended Data](ext_articles/6b97bbc0.ext.json)
-
----
-
-### I will build the economy
-
-*2024-06-24 01:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தை-கட்டியெழுப்புவேன்/175-339302) · `ta`
-
-President Ranil Wickremesinghe aims to revitalize Sri Lanka's economy, focusing on agricultural modernization. He inaugurated a groundnut processing center in Batticaloa, funded by the Ministry of Agriculture, and gifted laptops to farmers. Additionally, he visited a pomegranate estate in Mylambavali, highlighting his commitment to supporting farmers and boosting the agricultural sector.
-
-🟩
-
-President Ranil Wickremesinghe said that he took over the country to rebuild the country's economy and that a new change would be a new change in the lives of the farmers of the country.
-
-The President said this while addressing the inauguration of the groundnut processing center in Batticaloa - Karadiyanaru area at a cost of 55 million rupees under the Agricultural Modernization Program implemented by the Ministry of Agriculture.
-
-The President who attended the event was welcomed by the Tamil cultural system. The President opened the groundnut processing center and visited its activities. Subsequently, the farmer was given laptops by the president.
-
-Meanwhile, President Ranil Wickremesinghe also visited the Pomegranate Estate in the Mylambavali -Chengaladi area yesterday morning.
-
-The pomegranate is located on 150 acres and 300 farmers are involved in the cultivation.. Farmers earned an income of up to 36 lakhs of pomegranates last year. (A)
-
-◼️
-
-[Data](articles/cd860773.json)
-
-[Extended Data](ext_articles/cd860773.ext.json)
 
 ---

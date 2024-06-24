@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 08:53:48**
+As of **2024-06-24 09:04:56**
 
 ## Newspaper Stats
 
-*Scraped **31,794** Articles*
+*Scraped **31,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,830
 dailyftlk | 1,942
 adalk | 2,785
 adaderanalk | 3,608
-tamilmirrorlk | 3,738
+tamilmirrorlk | 3,739
 dailymirrorlk | 4,733
 virakesarilk | 4,925
 adaderanasinhalalk | 5,203
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,794 (100.0%) of 31,794 articles have been extended.
+31,794 (100.0%) of 31,795 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -455,6 +455,26 @@ President Ranil Wickremesinghe visited the Jaffna and Nuwara Eliya districts, Ra
 [Data](articles/6f9a8475.json)
 
 [Extended Data](ext_articles/6f9a8475.ext.json)
+
+---
+
+### ’சவால்களைக் கண்டு தப்பியோட வேண்டாம்’
+
+*2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/175-339303) · `ta`
+
+எதிர்கால சந்ததியினர் சிறந்த கல்வியைப் பெற்றுக்கொண்டு கொள்கைகளுக்கு மதிபளிக்க வேண்டும் எனவும் சவால்களை கண்டு ஒருபோதும் தப்பியோட கூடாது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நாட்டில் வெற்றிகரமான தலைமைத்தும், தலைசிறந்த அரசியல்வாதி என்ற வகையில் ஜனாதிபதி கொண்டிருக்கும் அனுபவங்களுக்கமைய எதிர்கால சந்ததியினருக்கு வழங்கும் அறிவுரை யாதென மட்டக்களப்பு மாவட்ட இளையோருடனான சந்திப்பில் எழுப்பட்ட கேள்விக்கு பதிலளித்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+மட்டக்களப்பு”கோல்டன் ரிவர்” ஹோட்டலில் நேற்று முன்தினம் நடை்பெற்ற இளையோர் அணி சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனை தெரிவித்தார்.
+
+இந்தச் சந்திப்பில் பெருமளவான இளைஞர், யுவதிகள் கலந்துகொண்டிருந்ததோடு, அவர்களின் கேள்விகளுக்கு ஜனாதிபதி சாதகமான பதில்களை வழங்கினார்.
+
+இந்த சந்திப்பின் பின்னர் இந்த சந்திப்பில் கலந்துகொண்ட இளையோருடன் ஜனாதிபதி படங்களிலும் இணைந்துகொண்டார். (a)
+
+◼️
+
+[Data](articles/35c6f66b.json)
 
 ---
 
@@ -2317,33 +2337,5 @@ Also, 10 people, including a driver of the plowing machine, were injured when a 
 [Data](articles/803b6528.json)
 
 [Extended Data](ext_articles/803b6528.ext.json)
-
----
-
-### Death punishment for those who try for Taiwan's independence - China
-
-*2024-06-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/186752) · `ta`
-
-China threatens death penalty for advocating Taiwan's independence, with sentences ranging from 10 years to life imprisonment. New guidelines aim to crush any separatist efforts, emphasizing severe punishment for leaders involved.
-
-🟩
-
-China has warned that those who are seriously voiced for the independence of Taiwan will be executed for separatists.
-
-China's courts are new guidelines for punishing radicals for the independence of Taiwan to dismantle the country, according to the Jingua News Agency.
-
-The announcement on Friday has been asked to impose the death penalty to the leaders of the freedom efforts that will harm the country and the people.
-
-Others who voice the independence of Taiwan can be imposed from ten years in prison to life imprisonment.
-
-These new orders have provided the basis for the military action against the military action against the Taiwan separation or its efforts.
-
-China's Public Security Ministry official said the maximum sentence for separation was the death penalty.
-
-◼️
-
-[Data](articles/a2fbcc51.json)
-
-[Extended Data](ext_articles/a2fbcc51.ext.json)
 
 ---

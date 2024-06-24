@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 12:34:44**
+As of **2024-06-24 12:53:09**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,840 (100.0%) of 31,843 articles have been extended.
+31,843 (100.0%) of 31,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### ஜனாதிபதி புதனன்று விசேட அறிவிப்பு
+### President's Special Notice on Wednesday
 
 *2024-06-24 12:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புதனன்று-விசேட-அறிவிப்பு/175-339321) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் 26ஆம் திகதி நாட்டு மக்களுக்கு உரையாற்றவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+President Ranil Wickremesinghe will address the nation on April 26, discussing the economy and foreign debt restructuring. The United National Party expects significant relief for Sri Lankans from his announcements.
 
-நாட்டின் தற்போதைய பொருளாதார நிலை மற்றும் வெளிநாட்டு கடன் மறுசீரமைப்பில் ஏற்பட்டுள்ள முன்னேற்றம் குறித்தும் ஜனாதிபதி மக்களுக்கு தெரியப்படுத்தவுள்ளதாகவும் கூறப்படுகிறது.
+🟩
 
-ஜனாதிபதியின் அறிவிப்பின் மூலம் இலங்கை மக்களுக்கு பல நிவாரணங்கள் கிடைக்கும் என ஐக்கிய தேசியக் கட்சியின் தேசிய செயலாளர்  ரவி கருணாநாயக்க தெரிவித்துள்ளார்.
+It is reported that President Ranil Wickremesinghe will address the nation on the 26th.
+
+It is also reported that the president will also inform the public about the current economic status of the country and the progress of foreign debt restructuring.
+
+United National Party National Secretary Ravi Karunanayake has said that the Sri Lankan people will get many relief through the announcement of the President.
 
 ◼️
 
 [Data](articles/5cbf0b0e.json)
 
+[Extended Data](ext_articles/5cbf0b0e.ext.json)
+
 ---
 
-### හජ් වන්දනා සමයේ මියගිය පිරිස ගැන සෞදි අරාබිය හෙළිකරයි
+### Saudi Arabia reveals about the deceased during the Hajj pilgrimage
 
 *2024-06-24 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198087) · `si`
 
-මෙවර හජ් වන්දනා සමයේදී පුද්ගලයින් 1,301ක් මියගොස් ඇති බව සෞදි අරාබිය නිල වශයෙන් නිවේදනය කර තිබේ.
+Saudi Arabia reported deaths among Hajj pilgrims, mostly undocumented and elderly with pre-existing conditions, due to long walks without proper medical care.
 
-මිය ගිය බහුතරය නීතිවිරෝධී ලෙස පැමිණි වන්දනාකරුවන් බවත් ඔවුන් ට දැඩි උණුසුම මධ්‍යයේ දීර්ඝ දුරක් ඇවිදීමට සිදුව තිබූ බවත් සඳහන් වෙයි.
+🟩
 
-මියගොස් සිටි පුද්ගලයින්ගෙන් 75%කට පමණ හජ් වන්දනාව සඳහා නිල බලපත්‍ර තිබී නොමැති බවත් ඔවුන්ගෙන් බහුතරයක් මහලු විවිධ රෝගාබාධ සහිත අය බවත් වාර්තා විය.
+Saudi Arabia officially announced that he had died during the Hajj pilgrimage this year.
 
-දැඩි උණුසුම නිසා රෝගී වූ 500,000කට පමණ සෞඛ්‍ය අංශ ප්‍රතිකාර කර ඇති අතර ඉන් 140,000ක් පමණ පිරිසකට නිල බලපත්‍ර තිබී නොමැත.
+It is said that the majority of the dead pilgrims have been illegal pilgrims and they had to walk in a long way.
+
+About 75% of the dead people had not had the official licenses for the Hajj pilgrimage and the majority of them were older illnesses.
+
+The health sector was treated with the health sector, which had been treated with heavy warmth, about 1400,000 people have not had the official licenses.
 
 ◼️
 
 [Data](articles/2c143d29.json)
+
+[Extended Data](ext_articles/2c143d29.ext.json)
 
 ---
 
@@ -596,25 +608,33 @@ Ranjithmathupandara has said that Rajitha Senaratne has not severely criticized 
 
 ---
 
-### මම රට භාරගත්තේ රටේ ආර්ථිකය අලුතින් ගොඩනැගීමටයි
+### I took over the country to build the economy of the country
 
 *2024-06-24 09:59:20* · [`adalk`](https://www.ada.lk/picture_story/මම-රට-භාරගත්තේ-රටේ-ආර්ථිකය-අලුතින්-ගොඩනැගීමටයි/10-410390) · `si`
 
-තමා රට භාරගත්තේ රටේ ආර්ථිකය අලුතින් ගොඩනැගීමට බව පැවසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ සමඟම රටේ ගොවි ජනතාවගේ ජීවිත ද නව පරිවර්තනයකට ලක්වන බව සඳහන් කළේය.
+President Ranil Wickremesinghe inaugurated a peanut processing center in Tarakiyanaru, costing Rs. 55 million, as part of the agro-Navinna program. He also gifted laptops to agricultural organizations and visited a pomegranate farm benefiting 300 farmers. Highlighting the importance of modernizing agriculture, he emphasized the potential for exporting crops to earn foreign exchange, reduce reliance on loans, and improve farmers' incomes through technological advancements.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කෘෂිකර්ම අමාත්‍යාංශය මගින් ක්‍රියාත්මක කරනු ලබන කෘෂි නවීකරණ වැඩසටහන යටතේ රුපියල් මිලියන 55ක වියදමින් කරදියනාරු ප්‍රදේශයේ ඉදිකරන ලද රටකජු සැකසුම් මධ්‍යස්ථානය පෙරවරුවේ විවෘත කරමිනි.
+🟩
 
-පීත්ත පටිය කපා රටකජු සැකසුම් මධ්‍යස්ථානය විවෘත කළ ජනාධිපතිවරයා එහි කටයුතු ද නිරීක්ෂණය කළේය.
+President Ranil Wickremesinghe said that he was taken over by President Ranil Wickremesinghe that the lives of the country was translated into a new transformation.
 
-අනතුරුව පැවති උත්සව සභාවේ දී කෘෂි සංවිධාන සඳහා ලැප්ටොප් පරිගණක ප්‍රදානය කිරීම ද ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
+The President made this observation by opening the peanut processing center built in Tarakiyanaru at a cost of Rs. 55 million under the agro-Navinna program implemented by the Ministry of Agriculture.
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මයිලම්පාවලි චෙන්කලඩි ප්‍රදේශයේ පිහිටි දෙලුම් ගොවිපොළේ ද අද නිරීක්ෂණ චාරිකාවක නිරත විය.
+The President who opened the Peanut Processing Center cut the ribbon and the President also observed its arrangements.
 
-මෙම දෙළුම් වගාව අක්කර 150ක පමණ භූමි භාගයක පවත්වාගෙන යනු ලබන අතර, 300ක පමණ ගොවි ජනතාවක් එහි ප්‍රතිලාභ ලබති. පසුගිය වසරේ අක්කර භාගයක දෙළුම් වගාවෙන් රුපියල් ලක්ෂ 36ක් පමණ වටිනා අස්වැන්නක් ලබා ගැනීමට මෙම ගොවි ජනතාවට හැකිව තිබේ.
+The President also offered laptop computers for Agricultural organizations in the event.
+
+Meanwhile, President Ranil Wickremesinghe visited the Delam farm in Mylampaveli Chenkaladi today.
+
+The pomegranation is run in a 150 acres of land, and 300 farmers will benefit from around 300 farmers. These peasants have been able to harvest around Rs. 36 lakhs of Rs.
+
+President Ranil Wickremesinghe further said, "President Ranil Wickremesinghe said:
 
 ...
 
 [Data](articles/6b752ad9.json)
+
+[Extended Data](ext_articles/6b752ad9.ext.json)
 
 ---
 

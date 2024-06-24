@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 23:19:34**
+As of **2024-06-24 23:35:01**
 
 ## Newspaper Stats
 
-*Scraped **31,942** Articles*
+*Scraped **31,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,809
 adaderanalk | 3,633
 tamilmirrorlk | 3,765
 dailymirrorlk | 4,733
-virakesarilk | 4,944
+virakesarilk | 4,949
 adaderanasinhalalk | 5,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,942 (100.0%) of 31,942 articles have been extended.
+31,942 (100.0%) of 31,947 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -174,6 +174,36 @@ Accordingly, the Australian team has won 206 runs for winning the competition.
 
 ---
 
+### பாகிஸ்தானில் இருந்து இலங்கைக்கு அனுப்பப்பட்ட பொதியில் 400 மில்லியன் பெறுமதியான ஐஸ் கண்டுபிடிப்பு
+
+*2024-06-24 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186883) · `ta`
+
+மத்திய தபால் பரிவர்த்தனை நிலையத்தில் இந்த சந்தேகத்திற்கிடமான பொதி கண்டுபிடிக்கப்பட்டதாகவும் இதன் பெறுமதி சுமார் 400 மில்லியன் ரூபா எனவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/3e8973a7.json)
+
+---
+
+### மன்னார் முருங்கன் பிரதான வீதியில் கோர விபத்து; இளம் குடும்பஸ்தர் பலி
+
+*2024-06-24 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186882) · `ta`
+
+மன்னார்- முருங்கன் பொலிஸ் பிரிவுக்கு உட்பட்ட முருங்கன் ரயில் கடவை பகுதியில்  பேருந்தும் மோட்டார் சைக்கிளும் மோதியதில் மோட்டார் சைக்கிளில் பயணித்த இளம் குடும்பஸ்தர் சம்பவ இடத்தில் மரணமடைந்துள்ளதாக தெரிய வருகிறது.
+
+மன்னாரில் இருந்து சென்ற தென் பகுதியை சேர்ந்த தனியார் பேருந்தும், வவுனியா பகுதியில் இருந்து முருங்கன் வீதி நோக்கி வந்த மோட்டார் சைக்கிளும் முருங்கன்- கற்கிடந்தகுளம் கிராமத்திற்கும் இடையில் உள்ள  ரயில்வே கடவைப் பகுதியில்  மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+மரணமடைந்தவர் நானாட்டான் பிரதேசத்தில் உள்ள சாளம்பன் நாக செட்டி கிராமத்தைச் சேர்ந்த சுந்தரலிங்கம் தீபன்   (வயது-35) இளம் குடும்பஸ்தர் என  தெரிய வருகிறது.
+
+சடலம் முருங்கன் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணையை முருங்கன் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6c4b6ddc.json)
+
+---
+
 ### How many trafficking
 
 *2024-06-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198111) · `si`
@@ -221,6 +251,22 @@ The body is being kept at the Murugan Hospital and further investigations are be
 [Data](articles/0424168b.json)
 
 [Extended Data](ext_articles/0424168b.ext.json)
+
+---
+
+### கட்சி யாப்பின் பிரகாரம் நானே ஸ்ரீலங்கா சுதந்திர கட்சியின் தலைவர் - அமைச்சர் விஜேதாச ராஜபக்ஷ்
+
+*2024-06-24 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186881) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் யாப்புக்கமைய நானே கட்சியின் தலைவர். நீதிமன்ற தடை உத்தரவு காரணமாக தற்போதைக்கு அந்த பதவியில் செயற்படுவதில்லை. அத்துடன் எதிர்வரும் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி புதிய இச்சினையில் போட்டியிடும் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திர கட்சி தொகுதி அமைப்பாளர்களின் கூட்டம் ஞாயிற்றுக்கிழமை (23) கண்டியில் இடம்பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் யாப்பின் பிரகாரம் நானே கட்சியின் தலைவர். என்றாலும் நான் தலைவராக செயற்பட நீதிமன்ற இடைக்கால தடை உத்தரவு ஒன்று இருப்பதால் தற்போதைக்கு தலைவர் பதவியில் செயற்படுவதில்லை. மிக விரைவில் நீதிமன்றம் இது தொடர்பில் தீர்ப்பொன்றை வழங்கும் என எதிர்பார்க்கிறோம்.  கட்சியின் தலைமை அலுவலத்தை கைப்பற்றிக்காெண்டிருப்பதால், அவர்கள் யாரும் தலைவர்களாக முடியாது.
+
+...
+
+[Data](articles/eb6a4a01.json)
 
 ---
 
@@ -359,6 +405,22 @@ The Australia received the advantage of the match was first decided to boast.
 [Data](articles/9320ae0a.json)
 
 [Extended Data](ext_articles/9320ae0a.ext.json)
+
+---
+
+### அரசாங்கத்திலுள்ள அரசியல் மூடர்களின் விளையாட்டுக்கள் இரண்டே மாதங்களில் நிறைவடையும் - முன்னாள் ஜனாதிபதி மைத்திரி
+
+*2024-06-24 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186879) · `ta`
+
+அரசாங்கத்துடன் இணைந்து செயற்பட்டுக் கொண்டிருக்கும் சில அரசியல் மூடர்களின் விளையாட்டுக்கள் இன்னும் இரண்டே மாதங்களில் நிறைவடையவுள்ளன. உத்தேச ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சியின் வேட்பாளராக விஜேதாச ராஜபக்ஷவை களமிறக்கி வெற்றி வாகை சூடுவோம் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+கண்டியில் திங்கட்கிழமை (24) சுதந்திர கட்சி தொகுதி அமைப்பாளர்களுடன் இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+
+கட்சி தலைவராக செயற்படுவதற்கே நீதிமன்றம் தடையுத்தரவு பிறப்பித்துள்ளது. மதறாக அரசியல் நடவடிக்கைகளில் ஈடுபடுவதற்கு அல்ல. எனவே நாம் எமது வழமையான அரசியல் நடவடிக்கைகளை முன்னெடுத்துச் செல்வதில் சிக்கல் இல்லை. சில அரசியல் மூடர்களின் விளையாட்டுக்கள் இன்னும் இரண்டே மாதங்களில் நிறைவடையவுள்ளன. அதன் பின் அவர்கள் எங்கு ஓட்டமெடுப்பார்கள் என்று தெரியாது.
+
+...
+
+[Data](articles/1c151026.json)
 
 ---
 
@@ -707,6 +769,24 @@ The suspicious parcel was found in the Central Mail transfer and is worth 400 mi
 [Data](articles/0aa43f92.json)
 
 [Extended Data](ext_articles/0aa43f92.ext.json)
+
+---
+
+### சமூக ஊடகங்கள் வாயிலாக மோசடி : பொதுமக்களே எச்சரிக்கை !
+
+*2024-06-24 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186842) · `ta`
+
+சமூக ஊடகங்கள்  வாயிலாக பிரபல நிறுவனங்களின் பெயர்களைப் பயன்படுத்தி மேற்கொள்ளப்படும் மோசடிகள் குறித்து பொதுமக்கள் எச்சரிக்கையாக செயற்படுமாறு இலங்கை கணினி அவசர தயார் நிலைக் குழு கோரிக்கை விடுத்துள்ளது.
+
+சமூக ஊடகங்களில் பல்வேறு வங்கிகள், வணிக நிறுவனங்கள், சர்வதேச நிறுவனங்களின் பெயர்களைப் பயன்படுத்தி நன்கொடைகள், பணப் பரிசுகள், வெற்றிகள், வேலைவாய்ப்பு போன்றவற்றைப் பெறுவதற்கு உடனடியாக பதிவுசெய்துக் கொள்ளுமாறு பகிரப்படும் போலி தகவல் குறித்து பொதுமக்கள் எச்சரிக்கையுடன் செயற்பட வேண்டும்.
+
+போலி இணையதளங்கள், சமூக ஊடகங்கள், குறுஞ்செய்தி மற்றும் வட்ஸ்அப் செயலி மூலம் பகிரப்படும் போலி தகவல்கள் வாயிலாக இணைய மோசடியில் ஈடுபடுபவர்கள்அதன் வாயிலாக  உங்களை தொடர்பு கொள்ள முயற்சிப்பார்கள்.
+
+போலி செய்தியின் இணைப்புகளை அணுகுவதன் மூலம் மோசடிக்காரர்கள் தங்களுடன் இணைக்கப்பட்ட நபர்களின் கணினி, தொலைப்பேசியில் உள்ள தகவல்களைத் திருடி முறைகேடான மற்றும் பண மோசடியில் ஈடுபடுவதாக உறுதிப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/94123be9.json)
 
 ---
 
@@ -2259,137 +2339,5 @@ Accordingly, BBC was looking for whether the authorities are unable to regulate 
 [Data](articles/b046729b.json)
 
 [Extended Data](ext_articles/b046729b.ext.json)
-
----
-
-### If we are not united, we will not be able to save our race from the Sinhalese nation: Wealth is still united!
-
-*2024-06-24 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/186805) · `ta`
-
-Unity among the Sinhalese nation is crucial for survival; without it, the race faces extinction due to land seizures and oppression. The absence of unity is alarming, despite efforts to address native rights. Leaders emphasize the importance of collaboration and unity in facing challenges, highlighting the need for all parties to work together for the liberation of the Tamil people.
-
-🟩
-
-If we are not united, we cannot save our race from the Sinhala nation. Despite the lack of noise, the landfall continues with the departments that abolish the natives of our people and extort the land.The leader of the Liberation Tigers of Tamil Eelam (RELO) of the Liberation Tigers of Tamil Eelam (RELO) and Vanni district parliamentarian Selvam Adhakkalanathan said that unity is still not present.
-
-He said this while addressing the inauguration of the statue of Siri Sabarathinam in Vavuniya on Sunday (23).
-
-The Liberation Tigers of Tamil Eelam (LTTE) is a movement that has made many sacrifices in the South for the liberation of the Tamil people. We have opened the statue of its leader today.
-
-The statue of Siri Anna reveals that if we are not united, we cannot save our race, our land and our ancestry.
-
-...
-
-[Data](articles/b3bc92c3.json)
-
-[Extended Data](ext_articles/b3bc92c3.ext.json)
-
----
-
-### Mother torture: boy asylum
-
-*2024-06-24 11:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தாய்-சித்திரவதை-சிறுவன்-தஞ்சம்/71-339318) · `ta`
-
-A boy from North India, seeking refuge in Jaffna after allegedly assaulting his mother and stepfather in Colombo, was returned to his mother by the police. The investigation revealed the boy's mother worked in a Colombo casino and was temporarily living with a local Sri Lankan. The boy mistakenly took a bus to Jaffna instead of Mannar, ending up at the police station. The police decided to send him back to Colombo, warning his mother about his actions.
-
-🟩
-
-The boy who came to Jaffna from Colombo and the refugee at the police station has been handed over to his mother.
-
-A boy who came to Jaffna from Colombo had taken shelter at the Jaffna police station for allegedly beating her mother and mother's second husband.
-
-Police, who investigated the boy, revealed that the boy was from North India and that his mother was working in Gasino in Colombo and staying with a Sri Lankan person here.
-
-Accordingly, the boy was planning to go to Mannar from the sea and boarded the Jaffna bus instead of boarding the Mannar bus.
-
-The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
-
-In addition, the mother said that the boy's mother would be punished for the mistakes of the boy, while the police were investigating the Jaffna police.
-
-It is noteworthy that the police then compromised the boy and warned the mother and sent the boy to Colombo.
-
-◼️
-
-[Data](articles/30347f35.json)
-
-[Extended Data](ext_articles/30347f35.ext.json)
-
----
-
-### What happened to two people who went to sell a false gem
-
-*2024-06-24 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198086) · `si`
-
-Two individuals attempting to sell a fake gemstone as a valuable one were arrested by the Anamaduwa Police. The suspects, linked to gem trafficking in Anamaduwa Pammakanda village, planned to deceive local businessmen. Their plot was foiled after a concerned businessman alerted the police, leading to their arrest and the recovery of the fake gemstone.
-
-🟩
-
-Anamaduwa Police have arrested two persons who were prepared to marke a fake rock by indicating that a high value gem stone.
-
-The two suspects had tried to sell the business for the Anamaduwa town.
-
-The process of the relevant businessman has informed the police regarding this.
-
-The arrested persons were suspected to be involved in various trafficking in Anamaduwa Pammakanda village.
-
-The suspects were arrested along with police officers who were informed of several places where the businessman had been informed and then to abduct the relevant gem rock in the Nawanetegama road.
-
-◼️
-
-[Data](articles/2a7982df.json)
-
-[Extended Data](ext_articles/2a7982df.ext.json)
-
----
-
-### China travels Minister Jeevan Thondaman
-
-*2024-06-24 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/186815) · `ta`
-
-Jeevan Thondaman, Sri Lanka's young Minister of Plantation Infrastructure, visited China for the World Young Leaders Conference, invited by the World Economic Center. Accompanied by ministry officials, he plans to engage in several key events over a week, including addressing the World Economic Center and participating in the JRDC-Joint Research and Demonstration Center for Water Technology. His aim is to enhance water resource management and rural development projects over the next five years.
-
-🟩
-
-Minister Jeevan Thondaman (23) made an official visit to the Chinese on Sunday evening to attend the World Young Leaders Conference to be held in China at the invitation of the World Economic Center.
-
-Minister Jeevan Thondaman's media unit said that he had accompanied him, including officials of the Ministry of Plantation Infrastructure.
-
-Minister Jeevan Thondaman, who has made an official visit for a week, will attend several major events in China.
-
-Speaking at the World Economic Center, he will address the World Economic Center and a special speech, he will call on the JRDC-Joint Research and Demonstration Center for Water Technology to participate in the next 5 years to improve the projects for the next 5 years to improve the water resources, plantation and rural water resources.Has been reported.
-
-◼️
-
-[Data](articles/dbca96a8.json)
-
-[Extended Data](ext_articles/dbca96a8.ext.json)
-
----
-
-### World first epilepsy device fitted in UK boy’s skull
-
-*2024-06-24 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100061/world-first-epilepsy-device-fitted-in-uk-boys-skull) · `en`
-
-A boy with severe epilepsy has become the first patient in the world to trial a new device fitted in their skull to control seizures.
-
-The neurostimulator, which sends electrical signals deep into his brain, has reduced Oran Knowlson’s daytime seizures by 80%.
-
-His mother, Justine, told the BBC he was happier and had a “much better quality of life”.
-
-The surgery was carried out in October as part of a trial at Great Ormond Street Hospital in London when Oran - who is now 13 - was 12.
-
-Oran, from Somerset, has Lennox-Gastaut syndrome, a treatment-resistant form of epilepsy which he developed at the age of three.
-
-Since then he has suffered several daily seizures ranging from two dozen to hundreds.
-
-When we first spoke to Oran’s mum last autumn, prior to surgery, she explained how Oran’s epilepsy dominated his life: "It has robbed him of all of his childhood."
-
-She told us Oran had a range of different seizures, including those where he fell to the ground, shook violently, and lost consciousness.
-
-...
-
-[Data](articles/47bbe87f.json)
-
-[Extended Data](ext_articles/47bbe87f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 01:53:19**
+As of **2024-06-25 02:04:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,966 (100.0%) of 31,969 articles have been extended.
+31,969 (100.0%) of 31,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Orit Apparels Lanka Ltd., excelled at the Green Productivity Awards by winning t
 
 [Data](articles/4f45b7e5.json)
 
+[Extended Data](ext_articles/4f45b7e5.ext.json)
+
 ---
 
 ### The Boardroom introduces business made easy tools
@@ -62,6 +64,8 @@ Ananda Sirisena & Company Chief Operating Officer Isura Sirisena said: “At The
 
 [Data](articles/665f7fbc.json)
 
+[Extended Data](ext_articles/665f7fbc.ext.json)
+
 ---
 
 ### Largest Dubai property show in Colombo on Saturday
@@ -75,6 +79,8 @@ Grit Real Estate Dubai, with its expansive presence across Australia, Dubai, and
 ...
 
 [Data](articles/c34ac7b8.json)
+
+[Extended Data](ext_articles/c34ac7b8.ext.json)
 
 ---
 

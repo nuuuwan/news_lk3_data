@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 19:34:57**
+As of **2024-06-24 19:53:02**
 
 ## Newspaper Stats
 
-*Scraped **31,924** Articles*
+*Scraped **31,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,804
 adaderanalk | 3,631
-tamilmirrorlk | 3,762
+tamilmirrorlk | 3,763
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,229
+adaderanasinhalalk | 5,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,923 (100.0%) of 31,924 articles have been extended.
+31,924 (100.0%) of 31,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### 4 கிலோ ஐஸ் சிக்கியது
+
+*2024-06-24 19:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-ஐஸ்-சிக்கியது/175-339347) · `ta`
+
+பாகிஸ்தானில் இருந்து இலங்கைக்கு அனுப்பப்பட்ட பொதியில் 4 கிலோ ஐஸ் போதைப்பொருள் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+மத்திய தபால் பரிவர்த்தனை நிலையத்தில் இந்த சந்தேகத்திற்கிடமான பொதி கண்டுபிடிக்கப்பட்டதாகவும் இதன் பெறுமதி சுமார் 400 மில்லியன் ரூபா எனவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/6572188f.json)
+
+---
+
+### කාසියේ වාසිය ඔස්ට්‍රේලියාව ට
+
+*2024-06-24 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198106) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ තවත් තරගයක් අද (24) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය හිමිකරගත් ඔස්ට්‍රේලියාකණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/9320ae0a.json)
+
+---
 
 ### Sri Lanka must extend free visa to more countries to compete with regional competitors - Tourism Minister
 
@@ -47,6 +75,8 @@ Furthermore, Fernando revealed a number of government initiatives intended to at
 ...
 
 [Data](articles/2a8376bd.json)
+
+[Extended Data](ext_articles/2a8376bd.ext.json)
 
 ---
 
@@ -2337,47 +2367,5 @@ Parliamentarian Sadasivam Judendran was sworn in as the Minister of Commerce and
 [Data](articles/a0c516e2.json)
 
 [Extended Data](ext_articles/a0c516e2.ext.json)
-
----
-
-### Sadasivam Jupiter became Minister of Commerce and Environment
-
-*2024-06-24 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/186801) · `ta`
-
-Sadasivam Jupiter, a Parliamentarian, has been named the Minister of Commerce and Environment, taking his oath at the Presidential Secretariat before President Ranil Wickremesinghe on April 24th.
-
-🟩
-
-Parliamentarian Sadasivam Jupiter has been appointed as the Minister of Commerce and Environment.
-
-He was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe today (24), the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/c1a14de2.json)
-
-[Extended Data](ext_articles/c1a14de2.ext.json)
-
----
-
-### Unidentified body found in the middle of a city
-
-*2024-06-24 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198083) · `si`
-
-A stranger's body was discovered in front of a bank in the Matara Police Division, identified as a 5'5" tall individual with a thin build. The discovery was made yesterday through a police message.
-
-🟩
-
-A corpse of a stranger was found in front of a bank in the Matara Police Division in Matara Police Division.
-
-The body was found yesterday (23) by a message received by the police.
-
-The deceased is a seminar of the height of 5 feet five feet with a four-inch thin body, police said.
-
-◼️
-
-[Data](articles/8f04bde6.json)
-
-[Extended Data](ext_articles/8f04bde6.ext.json)
 
 ---

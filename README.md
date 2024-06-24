@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 15:53:37**
+As of **2024-06-24 16:07:12**
 
 ## Newspaper Stats
 
-*Scraped **31,888** Articles*
+*Scraped **31,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,799
-adaderanalk | 3,622
+adaderanalk | 3,623
 tamilmirrorlk | 3,757
 dailymirrorlk | 4,733
 virakesarilk | 4,940
-adaderanasinhalalk | 5,219
+adaderanasinhalalk | 5,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,880 (100.0%) of 31,888 articles have been extended.
+31,888 (100.0%) of 31,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### විජයදාස දින්නට පස්සේ වෙනදේ
+
+*2024-06-24 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198095) · `si`
+
+තමන් ජනාධිපතිවරණය ජයග්‍රහණය කිරීමෙන් අනතුරුව පක්ෂ නායකත්වය සම්බන්ධයෙන් ගැටලු පැන නොනගිනු ඇති බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ වාරණයට ලක් වූ සභාපති, අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+ඔහු මේ බව කියා සිටියේ මහනුවරදී ඊයේ (23) මාධ්‍ය වෙත අදහස් දක්වමිනි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහනුවර දිස්ත්‍රික්කයේ කොට්ඨාශ නියෝජිත හමුව ඊයේ පැවැත්වුණේ පක්ෂයේ හිටපු සභාපති මෛත්‍රීපාල සිරිසේන සහ වාරණයට ලක්වූ සභාපති අමාත්‍ය විජයදාස රාජපක්ෂගේ ප්‍රධානත්වයෙනි.
+
+"ජනාධිපතිවරණයට එනවා. අපි දිනනවා. ඊට පසසේ මට විරුද්ධව ආපු නඩු ටික ඔක්කොම ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් නිෂ්ප්‍රභ වෙනවා. එතකොට පක්ෂ නායකත්වය ගැන ගැටලු එන්නේ නෑ. පක්ෂයේ නායකත්වය සහ ‍තනතුරු දරනවා කියන අය‍ මේ මහනුවරට ආවොත් එහෙ ගහලා පන්නනවා කිව්වා පාක්ෂියෝ. පාක්ෂිකයෝ යහතින් ඉන්නවා. අර පැනපු කණ්ඩාමේ අය 10ක් 12ක් එයාලගේ මඩි තර කර ගන්න පක්ෂය පවා දෙන්න උත්සහ කරනවා."
+
+"ඡන්දයක් ආවාම ගොඩක් වෙලාවට ඉල්ලුවේ වෙන ලකුණු වලින්. පුටුවෙන්, බුලතින්, හංසයාගෙන්, පොහොට්ටුවෙන්. එතකොට මේ මැතිවරණයට පසු ගිය දශකයේ ලාංඡන ගැලපෙන එකක් නෑ. අපි අලුත් ලාංඡනයක් හඳුන්වා දෙනවා."
+
+◼️
+
+[Data](articles/006d33c4.json)
+
+---
+
+### Fire at South Korea lithium battery plant kills at least 16 people
+
+*2024-06-24 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100068/fire-at-south-korea-lithium-battery-plant-kills-at-least-16-people) · `en`
+
+A fire broke out at a lithium battery factory in South Korea on Monday, killing at least 16 people and leaving five others missing, local fire officials said.
+
+The fire, which has largely been extinguished, occurred around 10:30 a.m. (9:30 p.m. Sunday ET) at a factory run by battery manufacturer Aricell in Hwaseong, south of the capital, Seoul.
+
+The blaze began after a series of battery cells exploded inside a warehouse with some 35,000 units, said Kim Jin-young, a local fire official. What triggered the explosion remains unclear, he added.
+
+The Yonhap news agency had earlier reported that some 20 bodies had been found inside the plant, but Kim told a televised briefing that 16 people died and two others had suffered serious injuries.
+
+He said rescuers were trying to find the five people unaccounted for.
+
+A Reuters witness saw firefighters moving as many as six bodies out of the factory, which is in an industrial area.
+
+...
+
+[Data](articles/ada06a0b.json)
+
+---
 
 ### Sri Lanka should control import of old vehicles: importer
 
@@ -50,21 +92,29 @@ Sri Lankan conglomerate Dimo, the agents for Mercedes-Benz and Jeep in Sri Lanka
 
 [Data](articles/c8bd3331.json)
 
+[Extended Data](ext_articles/c8bd3331.ext.json)
+
 ---
 
-### දැරියක් දූෂණය කළ සිද්ධියේ 08දෙනා රිමාන්ඩ්
+### Each incident killed in raping girl remanded
 
 *2024-06-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198094) · `si`
 
-හංවැල්ල ජල්තර ප්‍රදේශයේදී 16 හැවිරිදි ශිෂ්‍යාවක් සමූහ දූෂණයට ලක්කළ බව කියන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඇයගේ පෙම්වතා ඇතුළු තරුණයින් 08දෙනා එළඹෙන 28 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Eight suspects, including a girl's boyfriend, face charges of rape, corruption, and illegal activities. They've been remanded until 2028, appearing before Magistrate Padmasiri Jayawardena.
 
-සැකකරුවන් අද (24) හෝමාගම වැඩබලන මහෙස්ත්‍රාත් පද්මසිරි ජයවර්ධන මහතා වෙත ඉදිරිපත් කර තිබුණි.
+🟩
 
-හංවැල්ල පොලීසිය මගින් අදාළ සැකකරුවන් දූෂණය සිදු කිරීම, බලහත්කාරයෙන් රඳවා ගැනීම, පැහැරගෙන යාම සහ නීතිවිරෝධී රැස්වීමක සාමාජිකයන් වීම යන චෝදනා හතරක් යටතේ චෝදනා ගොනුකර තිබුණි.
+The eight youths including her boyfriend and the eight youths have been remanded until 28 years.
+
+The suspects were produced before Acting Magistrate Padmasiri Jayawardena today.
+
+Hanwella police have been charged with corruption, forcibly retention, abduction and members of a illegal meeting.
 
 ◼️
 
 [Data](articles/98fcd746.json)
+
+[Extended Data](ext_articles/98fcd746.ext.json)
 
 ---
 
@@ -80,27 +130,35 @@ The identity of the deceased is yet to be ascertained while police revealed that
 
 [Data](articles/2a165093.json)
 
+[Extended Data](ext_articles/2a165093.ext.json)
+
 ---
 
-### හෙට මිලිමීටර් 75ක වැස්සක්
+### Rainy in 75 mm tomorrow
 
 *2024-06-24 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198093) · `si`
 
-හෙට (25) දිනයේ ප්‍රදේශ රැසක මිලිමීටර් 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected across several regions including Sabaragamuwa Province, Kandy, Nuwara Eliya, and coastal areas from Trincomalee to Chilaw and Hambantota. Showers predicted in Western, Sabaragamuwa, and North Western provinces. Sea areas may become rough with wave heights reaching 2.0-2.2 meters along the coast from Kalpitiya to Pottuvil, affecting fisheries and naval operations.
 
-සබරගමුව පළාතේත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල එලෙස තරමක තද වැසි ඇතිවිය හැකිය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බවද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Met Department forecasts around 75 mm in several areas tomorrow (25).
 
-මේ අතර අද (24) දිනයේ ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. 60ක් 65ක් දක්වා වැඩි වන අතර එම මුහුදු ප්‍රදේශ විටින්විට ඉතා රළු විය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+In some places in the Sabaragamuwa Province, Kandy and Nuwara Eliya districts can occur.
 
-කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.0–2.5) ක් පමණ වැඩි විය හැකි බවද දැනුම්දෙයි.
+Showers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මේ පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටී.
+Meanwhile, the coast of the sea areas off Trincomalee and Puttalam to Chilaw from Trincomalee and Puttalam to Chilaw and Hambantota to Chilaw and Hambantota from time to time.. The Met Department forecasts up to 60 to 65 and the sea areas can be very rough at times.
+
+It is reported that the sea waves can be increased to 2.0-22m of coastal areas from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil via Pottuvil through Kalpitiya.
+
+The fisheries and the naval community calls for his attention.
 
 ◼️
 
 [Data](articles/f1a38da1.json)
+
+[Extended Data](ext_articles/f1a38da1.ext.json)
 
 ---
 
@@ -117,6 +175,8 @@ The NCPI for all items for the month of May 2024 is 206.3 and it records a decre
 ◼️
 
 [Data](articles/7b385d05.json)
+
+[Extended Data](ext_articles/7b385d05.ext.json)
 
 ---
 
@@ -158,23 +218,35 @@ Asked when the SLPP would announce its plans for the presidential poll, he said:
 
 [Data](articles/6c59ccf1.json)
 
+[Extended Data](ext_articles/6c59ccf1.ext.json)
+
 ---
 
-### කුඩු සික් එක හැදිලා හෝමාගම රෝහලේ යකා නටල
+### Datawa hospital, Homagama hospital
 
 *2024-06-24 15:03:21* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සික්-එක-හැදිලා-හෝමාගම-රෝහලේ-යකා-නටල/11-410400) · `si`
 
-හෝමාගම මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී එහි මූලික ප්‍රතිකාර ඒකකයේ ජනේලයකට හිසින් පහර දී වීදුරුවක් බිද, වීදුරු කැබැල්ලකින් සිරුරේ ස්ථාන රැසක් කපාගෙන බරපතල තුවාල සිදුකර ගත් පුද්ගලයකු අයිස්  මිලිග්‍රෑම් එකක් සමග අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+A man seriously injured with glass wounds at Homagama Base Hospital was attacked by another patient, who then fled. The attacker, from Kandahawatta, Meegoda, is suspected to have been under the influence of drugs. He was apprehended by the Homagama Police and is now under their protection at the hospital. Further investigations are ongoing, led by Sub Inspector Ajantha Prabhakara.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මීගොඩ කන්දෙවත්ත ප්‍රදේශයේ පදිංචි (34) හැවිරිදි පුද්ගලයකු බව පොලිසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා ගසකින් වැටී සිදුවූ අනතුරක් හේතුවෙන්  ප්‍රතිකාර ලබා ගැනීම සඳහා හෝමාගම මූලික රෝහලට ඇතුළත්ව එහි මූලික ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී වීදුරු කැබැල්ලක් කටේ දමාගෙන හපමින් සිටින අයුරු රෝහල් කාර්ය මණ්ඩලය දැක ඇති අතර මුඛයෙන්  ලේ වැගිරෙමින් තිබී ඇති බවද පැවසේ.
+While receiving treatment at the Homagama Base Hospital, a person who was seriously injured with a glass and a large glass of glass and a large wound was taken with a milligratic, Homagama Police said.
 
-ඒ අනුව ක්ෂණයකින් ක්‍රියාත්මක වී මුඛයේ දමාගන හපමින් තිබූ වීදුරු කැබලි ඉවත්කොට ඉන් සිදු වූ තුවාල වලට ප්‍රතිකාර කිරීමට සූදානම් වෙද්දී එක්වරම ඉන් මිදී පැන ගොස් මූලික ප්‍රතිකාර ඒකකයේ ජනේලයක වීදුරුවකට සැකකරුගේ හිසින් පහරදී බිඳ දමා එහි වීදුරු කැබැල්ලකින් සිරුරේ ස්ථාන රැසක් කපාගනිමින් තුවාල සිදුකරගෙන තිබූ බව පොලිසිය පවසයි.
+The arrest was a resident of the Kandahawatta area in Meegoda, police said.
+
+It is said that the hospital staff have been seen in the Homagama Base Hospital while receiving treatment at the Homagama Base Hospital while receiving treatment at the Homagama Base Hospital.
+
+According to the police, the suspect had fled the jewel of the main treatment and cut a large number of bodies with a glass piece of the body.
+
+The hospital and staff have been handed over to the hospital and handed over to the Homagama Headquarters police officers.
+
+Investigations have revealed that the arrested suspect has become an excessive drug drink, and the courageousness caused by the accident has been a cause of the munge into the accident.
 
 ...
 
 [Data](articles/0a5d40ab.json)
+
+[Extended Data](ext_articles/0a5d40ab.ext.json)
 
 ---
 
@@ -293,6 +365,8 @@ ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim communit
 ...
 
 [Data](articles/85bf58d9.json)
+
+[Extended Data](ext_articles/85bf58d9.ext.json)
 
 ---
 
@@ -2247,39 +2321,5 @@ CAFE 2024 featured a comprehensive showcase of food products and services, highl
 [Data](articles/e0076c6a.json)
 
 [Extended Data](ext_articles/e0076c6a.ext.json)
-
----
-
-### UK to maintain LTTE terrorist status
-
-*2024-06-24 02:45:26* · [`dailyftlk`](https://www.ft.lk/news/UK-to-maintain-LTTE-terrorist-status/56-763381) · `en`
-
-The UK Proscribed Organisations Appeals Commission on Friday dismissed an appeal from the Transitional Government of Tamil Eelam (TGTE) to lift the UK’s designation of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation. This decision was made in response to the case Arumugam and Others vs. the Secretary of State for the Home Department.
-
-The TGTE argued that it should not be proscribed in the UK, emphasising its commitment to achieving its political and ideological goals through non-violent means. The TGTE advocates for the establishment of an independent Tamil state in the north-east of Sri Lanka.
-
-...
-
-[Data](articles/608d75f1.json)
-
-[Extended Data](ext_articles/608d75f1.ext.json)
-
----
-
-### FM Ali Sabry commends UK’s continued proscription of LTTE
-
-*2024-06-24 02:44:48* · [`dailyftlk`](https://www.ft.lk/news/FM-Ali-Sabry-commends-UK-s-continued-proscription-of-LTTE/56-763380) · `en`
-
-Foreign Affairs Minister Ali Sabry has applauded the United Kingdom’s decision to uphold the proscription of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation.
-
-In a statement posted on the social media platform X, Sabry highlighted the LTTE’s international network’s strategy to influence foreign governments into lifting the ban. “The LTTE’s international network’s approach and strategy is to get foreign Governments to de-proscribe the LTTE so that they could revive the LTTE,” Sabry wrote.
-
-The UK Proscribed Organisations Appeals Commission, an independent court headed by a high court judge and supported by two retired senior diplomats, ruled against the de-proscription of the LTTE. The decision was made on 21 June confirming that the UK will continue to maintain the LTTE on its list of banned organisations.
-
-...
-
-[Data](articles/8c07aa4e.json)
-
-[Extended Data](ext_articles/8c07aa4e.ext.json)
 
 ---

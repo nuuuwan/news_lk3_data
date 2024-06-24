@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 23:54:26**
+As of **2024-06-25 00:06:54**
 
 ## Newspaper Stats
 
-*Scraped **31,951** Articles*
+*Scraped **31,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,633
 tamilmirrorlk | 3,765
 dailymirrorlk | 4,733
 virakesarilk | 4,949
-adaderanasinhalalk | 5,237
+adaderanasinhalalk | 5,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,947 (100.0%) of 31,951 articles have been extended.
+31,951 (100.0%) of 31,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### ඉන්දියාව අවසන් පූර්ව වටයට
+
+*2024-06-24 23:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198115) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට්  තරගාවලියේ සුපිරි අට දෙනාගේ වටයේ ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර තරගයෙන් විශිෂ්ට ජයක් වාර්තා කිරීමට ඉන්දියාව අද (24) සමත්විය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දියාව සිය පන්දු ඕවර 20දී කඩුලු 5ක් දැවී ලකුණු 205ක් රැස් කළේය.
+
+එහිදී ඉන්දීය ඉනිම වෙනුවෙන් නායක රෝහිත් ශර්මා පන්දු 41කට මුහුණ දෙමින් ලකුණු 92ක් රැස් කළේය.
+
+පන්දු යැවීමේදී Mitchell Starc සහ Marcus Stoinis කඩුලු 2ක බැගින් දවා ගත්තේය.
+
+ලකුණු 206ක ඉලක්කයක් හඹා යෑම ඇරඹු ඔස්ට්‍රේලියානු පිතිකරුවන්ට නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 7ක් දැවී ලබා ගැනීමට හැකි වූයේ  ලකුණු 181ක් පමණි.
+
+ඒ අනුව අවසන් පූර්ව වටයට සුදුසුකම් ලබාගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/19fef0c5.json)
+
+---
 
 ### Sri Lanka hosts UNDP’s strategic steering committee meeting on trilateral cooperation project
 
@@ -492,6 +514,8 @@ Sri Lanka expects 2.3 million tourists for the year 2024 while striving to attra
 
 [Data](articles/fd13ba20.json)
 
+[Extended Data](ext_articles/fd13ba20.ext.json)
+
 ---
 
 ### Police call for university security
@@ -696,6 +720,8 @@ Balasuriya also visited Myanmar and held talks with officials including U Than S
 
 [Data](articles/2a0a4a44.json)
 
+[Extended Data](ext_articles/2a0a4a44.ext.json)
+
 ---
 
 ### If the cricket team is wrong, Harins resigns
@@ -864,6 +890,8 @@ Banking stocks did well in the day. Sampath Bank Plc was up at 79.70, Commercial
 
 [Data](articles/fc0a33b4.json)
 
+[Extended Data](ext_articles/fc0a33b4.ext.json)
+
 ---
 
 ### Fraud through social media: Public warning!
@@ -909,6 +937,8 @@ A bond maturing on 01.12.2031 closed at 12.08/15 percent, down from 12.05/25 per
 ◼️
 
 [Data](articles/140417b1.json)
+
+[Extended Data](ext_articles/140417b1.ext.json)
 
 ---
 
@@ -2315,35 +2345,5 @@ The health sector was treated with the health sector, which had been treated wit
 [Data](articles/2c143d29.json)
 
 [Extended Data](ext_articles/2c143d29.ext.json)
-
----
-
-### Special discounts given by a school teacher teacher
-
-*2024-06-24 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ගුරැවරියක-කුඩු-විකුණා-වසරක්-සපිරුණු-දා-ලබාදුන්-විශේෂ-වට්ටම/11-410393) · `si`
-
-In Anuradhapura, a couple, including a school teacher, were arrested with 40 grams of heroin and a motorcycle. The 26-year-old male suspect is from Wariyapola, and the drugs were sourced from a dealer in Kurunegala. This case marks one of the largest heroin seizures in the area, highlighting a significant blow to drug trafficking operations.
-
-🟩
-
-A training teacher and her husband have been arrested in Anuradhapura, a tradition teacher and her husband had been arrested with a large number of heroin and a woman motorcycle for the Poson.
-
-The suspect is a 26 year old resident of Wariyapola, a 28-year-old hospital resident of Wariyapola, a resident of Anuradhapura.Did.
-
-The suspects have been launched to a special allowance to mark the drug trafficking and a special allowance for the completion of its year.
-
-According to the police, heroin had been in possession of 40 grams of heroin and a woman motorcycle in possession of her husband and her husband was in possession of heroin.
-
-Drugs sustains from a drug dealer in Kurunegala will be hidden in the city of Anuradhapura and Pooja to the city of Anuradhapura and Pooja.
-
-Police say that this is the largest consignment of the heroin, who was arrested in Anuradhapura regarding the operation of justice.
-
-The arrested persons were to be produced before the Anuradhapura Magistrate's Court. (I J)
-
-◼️
-
-[Data](articles/acca8756.json)
-
-[Extended Data](ext_articles/acca8756.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 15:34:58**
+As of **2024-06-24 15:53:37**
 
 ## Newspaper Stats
 
-*Scraped **31,880** Articles*
+*Scraped **31,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,168 @@ dbsjeyarajcom | 295
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
-economynextcom | 1,838
+economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,798
-adaderanalk | 3,620
+adalk | 2,799
+adaderanalk | 3,622
 tamilmirrorlk | 3,757
 dailymirrorlk | 4,733
 virakesarilk | 4,940
-adaderanasinhalalk | 5,217
+adaderanasinhalalk | 5,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,879 (100.0%) of 31,880 articles have been extended.
+31,880 (100.0%) of 31,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### දකුණු කොරියාවේ කර්මාන්ත ශාලාවක ගින්නක් - 16ක් මරුට
+### Sri Lanka should control import of old vehicles: importer
+
+*2024-06-24 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-control-import-of-old-vehicles-importer-169251/) · `en`
+
+ECONOMYNEXT – Ahead of Sri Lanka’s move to restart import of vehicles, industry players say that the government should impose strict controls in allowing old vehicles into the country.
+
+“It is very important that the country regulates the import of vehicles well; while revenue must be protected, there should be strict controls on allowing old vehicles into the market,” Diesel & Motor Engineering Plc’s chairman Ranjith Pandithage has said.
+
+Allowing old vehicles in “will become a burden on the country in terms of subsequent demand for spare part imports and emissions,” Pandithage told shareholders in the annual report.
+
+Sri Lankan conglomerate Dimo, the agents for Mercedes-Benz and Jeep in Sri Lanka expects its vehicle sales segment to become active once again.
+
+“This is a great opportunity to bring healthy new regulations for vehicle imports,” Pandithage pointed out.
+
+...
+
+[Data](articles/c8bd3331.json)
+
+---
+
+### දැරියක් දූෂණය කළ සිද්ධියේ 08දෙනා රිමාන්ඩ්
+
+*2024-06-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198094) · `si`
+
+හංවැල්ල ජල්තර ප්‍රදේශයේදී 16 හැවිරිදි ශිෂ්‍යාවක් සමූහ දූෂණයට ලක්කළ බව කියන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඇයගේ පෙම්වතා ඇතුළු තරුණයින් 08දෙනා එළඹෙන 28 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+සැකකරුවන් අද (24) හෝමාගම වැඩබලන මහෙස්ත්‍රාත් පද්මසිරි ජයවර්ධන මහතා වෙත ඉදිරිපත් කර තිබුණි.
+
+හංවැල්ල පොලීසිය මගින් අදාළ සැකකරුවන් දූෂණය සිදු කිරීම, බලහත්කාරයෙන් රඳවා ගැනීම, පැහැරගෙන යාම සහ නීතිවිරෝධී රැස්වීමක සාමාජිකයන් වීම යන චෝදනා හතරක් යටතේ චෝදනා ගොනුකර තිබුණි.
+
+◼️
+
+[Data](articles/98fcd746.json)
+
+---
+
+### Unidentified body found in Matara
+
+*2024-06-24 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100067/unidentified-body-found-in-matara) · `en`
+
+The body of an unidentified individual has been discovered in front of a bank in Meddawatta area in Matara police devision last morning (23).
+
+The identity of the deceased is yet to be ascertained while police revealed that the individual is around 5’4” in height with a slender figure.
+
+◼️
+
+[Data](articles/2a165093.json)
+
+---
+
+### හෙට මිලිමීටර් 75ක වැස්සක්
+
+*2024-06-24 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198093) · `si`
+
+හෙට (25) දිනයේ ප්‍රදේශ රැසක මිලිමීටර් 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව පළාතේත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල එලෙස තරමක තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බවද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ අතර අද (24) දිනයේ ත්‍රිකුණාමලය සිට කන්කසන්තුරය සහ පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. 60ක් 65ක් දක්වා වැඩි වන අතර එම මුහුදු ප්‍රදේශ විටින්විට ඉතා රළු විය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.0–2.5) ක් පමණ වැඩි විය හැකි බවද දැනුම්දෙයි.
+
+මේ පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f1a38da1.json)
+
+---
+
+### Sri Lanka’s inflation eases to 1.6% in May 2024
+
+*2024-06-24 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100066/sri-lankas-inflation-eases-to-16-in-may-2024) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to 1.6% in May 2024, compared to 2.7% in April 2024, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has decreased to 0.5% in May 2024 compared to 3.3% in April 2024 and the Year-on-Year inflation of the non-food group increased to 2.4% in May 2024 from 2.3% in April 2024.
+
+The NCPI for all items for the month of May 2024 is 206.3 and it records a decrease of 1.9 in index points compared to April 2024.
+
+◼️
+
+[Data](articles/7b385d05.json)
+
+---
+
+### Fire breaks out in South Korea
 
 *2024-06-24 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198092) · `si`
 
-දකුණු කොරියාවේ ලිතියම් බැටරි කර්මාන්ත ශාලාවක ඇතිවූ ගින්නකින් 16 දෙනෙක් මියගොස් 5 දෙනෙක් අතුරුදන්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+A fire at the "Aicell" battery factory in South Korea's Hwaseong area resulted in 16 deaths and 5 missing individuals. The blaze, which started from an exploding battery in a store, occurred early this morning.
 
-සෝල් අගනුවරට ආසන්න Hwaseong නම් ප්‍රදේශයේ පිහිටි "Aricell"  කර්මාන්ත ශාලාවේ එම ගින්න අද (24) උදෑසන ඇතිවිය.
+🟩
 
-එහි ගබඩාවක තිබූ බැටරි සෙල් පුපුරා ගොස් ඇති අතර එම පිපිරීමට හේතුව අනාවරණය වී නොමැත.
+Foreign media reports that 16 people were killed and 5 missing due to a fire in a liturist factory in South Korea.
+
+The fire was found in the "Aicell" factory in Hwaseong area near Seoul's capital this morning.
+
+The battery she was in a store has exploded and the cause of the explosion has been revealed.
 
 ◼️
 
 [Data](articles/10f459b3.json)
+
+[Extended Data](ext_articles/10f459b3.ext.json)
+
+---
+
+### Sri Lanka Podujana Peramuna must work with leaders in line with its principles: committee
+
+*2024-06-24 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-must-work-with-leaders-in-line-with-its-principles-committee-169268/) · `en`
+
+ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP)’s All Island Working Committee has said the SLPP must work with leaders whose thinking is in line with that of the party, general secretary Sagara Kariyawasam said.
+
+Speaking to reporters in Colombo on Monday June 24 after a committee meeting to approve amendments made to the party’s constitution, Kariyawasam said the SLPP will announce in due course its decision on whether or not it will field its own candidate at the upcoming presidential election or support another candidate.
+
+“The all island working committee members have voiced their views. The idea expressed at the meeting was to work with leaders who agree with our party’s fundamental principles, can work together with our party and accepts our identity and our culture,” said Kariyawasam.
+
+Asked when the SLPP would announce its plans for the presidential poll, he said: “We will make that decision at the right time.”
+
+...
+
+[Data](articles/6c59ccf1.json)
+
+---
+
+### කුඩු සික් එක හැදිලා හෝමාගම රෝහලේ යකා නටල
+
+*2024-06-24 15:03:21* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සික්-එක-හැදිලා-හෝමාගම-රෝහලේ-යකා-නටල/11-410400) · `si`
+
+හෝමාගම මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී එහි මූලික ප්‍රතිකාර ඒකකයේ ජනේලයකට හිසින් පහර දී වීදුරුවක් බිද, වීදුරු කැබැල්ලකින් සිරුරේ ස්ථාන රැසක් කපාගෙන බරපතල තුවාල සිදුකර ගත් පුද්ගලයකු අයිස්  මිලිග්‍රෑම් එකක් සමග අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මීගොඩ කන්දෙවත්ත ප්‍රදේශයේ පදිංචි (34) හැවිරිදි පුද්ගලයකු බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා ගසකින් වැටී සිදුවූ අනතුරක් හේතුවෙන්  ප්‍රතිකාර ලබා ගැනීම සඳහා හෝමාගම මූලික රෝහලට ඇතුළත්ව එහි මූලික ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී වීදුරු කැබැල්ලක් කටේ දමාගෙන හපමින් සිටින අයුරු රෝහල් කාර්ය මණ්ඩලය දැක ඇති අතර මුඛයෙන්  ලේ වැගිරෙමින් තිබී ඇති බවද පැවසේ.
+
+ඒ අනුව ක්ෂණයකින් ක්‍රියාත්මක වී මුඛයේ දමාගන හපමින් තිබූ වීදුරු කැබලි ඉවත්කොට ඉන් සිදු වූ තුවාල වලට ප්‍රතිකාර කිරීමට සූදානම් වෙද්දී එක්වරම ඉන් මිදී පැන ගොස් මූලික ප්‍රතිකාර ඒකකයේ ජනේලයක වීදුරුවකට සැකකරුගේ හිසින් පහරදී බිඳ දමා එහි වීදුරු කැබැල්ලකින් සිරුරේ ස්ථාන රැසක් කපාගනිමින් තුවාල සිදුකරගෙන තිබූ බව පොලිසිය පවසයි.
+
+...
+
+[Data](articles/0a5d40ab.json)
 
 ---
 
@@ -147,6 +277,22 @@ Did the person deceive other people?Police are conducting serious investigations
 [Data](articles/07ae01cb.json)
 
 [Extended Data](ext_articles/07ae01cb.ext.json)
+
+---
+
+### Sri Lanka burial issue: president says govt to introduce laws allowing choice
+
+*2024-06-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-burial-issue-president-says-govt-to-introduce-laws-allowing-choice-169255/) · `en`
+
+ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim community on behalf of the government, President Ranil Wickremesinghe has said the government has decided to introduce new legislation allowing people to choose between burial and cremation.
+
+“The issue of burial has been a significant concern over the Muslim community in the country. Initially, a separate committee was appointed, deviating from the guidelines of the World Health Organisation (WHO), which created problems and caused hurt feelings among the Muslim community.
+
+“In response, the government has decided to introduce new legislation allowing individuals to choose between burial and cremation according to their wishes. Additionally, provisions have been made for bodies to be donated to medical faculties if desired. These measures aim to prevent similar issues from arising in the future,” he said.
+
+...
+
+[Data](articles/85bf58d9.json)
 
 ---
 
@@ -2135,177 +2281,5 @@ The UK Proscribed Organisations Appeals Commission, an independent court headed 
 [Data](articles/8c07aa4e.json)
 
 [Extended Data](ext_articles/8c07aa4e.ext.json)
-
----
-
-### Lawyers’ Collective urges President to cease intimidating and undermining independence of judiciary
-
-*2024-06-24 02:41:32* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-urges-President-to-cease-intimidating-and-undermining-independence-of-judiciary/56-763379) · `en`
-
-On 18 June President Ranil Wickremesinghe, speaking in Parliament, criticising the recent Supreme Court determination on the Gender Equality Bill referred to the court as having engaged in ‘judicial cannibalism’. The President went on to say that Parliament ‘could not agree with the Supreme Court ruling’ and that while he doesn’t propose to summon judges before Parliament, he proposes the appointment of a Parliamentary Select Committee to review the determination. Previously, the President also demanded the appointment of a Parliamentary Select Committee to investigate the workings of the Constitutional Council when it did not approve his nominee to the Supreme Court.
-
-...
-
-[Data](articles/9923e7df.json)
-
-[Extended Data](ext_articles/9923e7df.ext.json)
-
----
-
-### CoPE uncovers massive fraud of over Rs. 31 b at CPC for extra commissions
-
-*2024-06-24 02:39:34* · [`dailyftlk`](https://www.ft.lk/news/CoPE-uncovers-massive-fraud-of-over-Rs-31-b-at-CPC-for-extra-commissions/56-763378) · `en`
-
-Overpayments result in customers paying extra Rs. 5.85 per litre of petrol 92 Octane, Rs. 7.50 for petrol 95 Octane, Rs. 5.88 for LED, Rs. 6.96 for LSD as of 19 June 2024
-
-Discloses deliberate delay in issuing circular for filling stations cause over Rs. 3.4 b loss from 2014-2022
-
-Asserts internal officials of CPC clearly responsible for fraudulent activities
-
-Demands to know what actions CPC took to address issue so far
-
-Directs Chief Accounting Officer and Administrative Officer to submit detailed report within 7 working days; including names of individuals
-
-Discloses officials responsible for fraud are no longer in Sri Lanka
-
-The Committee on Public Enterprises (CoPE) exposed a massive fraud by the Ceylon Petroleum Corporation (CPC), where the public has borne additional fuel costs due to an overpayment of Rs. 31,021.07 million in extra commissions to its distributors.
-
-...
-
-[Data](articles/f34e4824.json)
-
-[Extended Data](ext_articles/f34e4824.ext.json)
-
----
-
-### Lion Brewery’s global success contributes to Sri Lanka’s foreign exchange gains
-
-*2024-06-24 02:36:00* · [`dailyftlk`](https://www.ft.lk/business/Lion-Brewery-s-global-success-contributes-to-Sri-Lanka-s-foreign-exchange-gains/34-763377) · `en`
-
-Lion Brewery (Ceylon) PLC, in its latest Annual Report, has reported achieving a significant 20% growth in its international business and a substantial 28% revenue growth in USD year-on-year.
-
-This achievement is particularly noteworthy given the challenging global economic conditions. The international business has not only been a significant driver of revenue for the Company but also a notable source of foreign exchange for Sri Lanka. This success was largely attributed to the restructuring of the international business strategy, focusing on key growth regions such as Africa, South Asia and the Middle East, while exiting less profitable regions.
-
-The Brewery’s decision to streamline its market presence from 35 to 17 countries has allowed for concentrated investment and effort in markets with the highest growth potential.
-
-...
-
-[Data](articles/40198eeb.json)
-
-[Extended Data](ext_articles/40198eeb.ext.json)
-
----
-
-### Kawshi Amarasinghe appointed to Singer Sri Lanka Board
-
-*2024-06-24 02:35:26* · [`dailyftlk`](https://www.ft.lk/business/Kawshi-Amarasinghe-appointed-to-Singer-Sri-Lanka-Board/34-763376) · `en`
-
-Singer (Sri Lanka) PLC has announced the appointment of Kawshi Amarasinghe as an Independent Non-Executive Director to the Board.
-
-She fills the vacancy created by the resignation of Dumith Fernando who joined the Singer Board in October 2017.
-
-Kawshi is an Executive Director at Vallibel One PLC holding the position of Group Director of International Business Development and CSR. She is a Non-Executive Director at Fortress Resorts PLC, Greener Water Ltd. and Pan Asia Banking Corporation PLC. She is also an Independent Non-Executive Director at Hayleys Leisure PLC.
-
-Kwashi also serves as the Chief Executive Officer of the Dhammika and Priscilla Perera Foundation in which she is dedicated to the Foundation’s goal of democratising access to quality education and healthcare services through DP Education.
-
-...
-
-[Data](articles/aa141e0c.json)
-
-[Extended Data](ext_articles/aa141e0c.ext.json)
-
----
-
-### Sri Lanka strikes debt relief deal with bond holders ending bankruptcy: Ravi K
-
-*2024-06-24 02:33:04* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-strikes-debt-relief-deal-with-bond-holders-ending-bankruptcy-Ravi-K/34-763375) · `en`
-
-Former Finance Minister Ravi Karunanayake yesterday confirmed that history has been made with the end of bankruptcy in Sri Lanka consequent to striking a debt restructure deal with external creditors and sovereign bond holders this week.
-
-“The finalisation of the Memorandum of Understanding with the Official Creditor Committee and final agreements with the Export Import Bank of China along with Ad Hoc Private Bondholder’s group external on debt treatments would be expected on 26 Wednesday.
-
-Sri Lanka will announce the freedom from bankruptcy status on 27 Thursday after declaration of a pre-emptive default Aon 12 April 2022 suspending external debt repayment as it had $ 20 million as gross official reserves.
-
-The restoration of fiscal sustainability, sustenance in revenue mobilisation efforts may have been prompted by external creditors finalising the debt restructuring in accordance with the IMF supported program targets and shielding social and capital spending,” Karunanayake said.
-
-...
-
-[Data](articles/7d88917d.json)
-
-[Extended Data](ext_articles/7d88917d.ext.json)
-
----
-
-### Sandbox secures 2024 Global Recognition Award for pioneering performance consulting
-
-*2024-06-24 02:30:19* · [`dailyftlk`](https://www.ft.lk/business/Sandbox-secures-2024-Global-Recognition-Award-for-pioneering-performance-consulting/34-763374) · `en`
-
-Sandbox Consultancy Services Ltd., a leading Sri Lankan performance consulting firm, has been honoured with the prestigious 2024 Global Recognition Award for performance consulting.
-
-This accolade highlights Sandbox’s innovative approach and excellence in delivering transformative solutions to clients worldwide.
-
-Featured in Business Insider, this recognition underscores Sandbox’s commitment to driving performance improvement and fostering success through tailored consulting services. The award cements Sandbox’s position as a pioneer in the performance consulting industry.
-
-“We are thrilled to receive this global recognition,” said Sandbox Consultancy Services Managing Director Angelo De Silva. “This award is a testament to our team’s dedication and the trust our clients place in us.”
-
-This prestigious accolade reflects the Company’s steadfast dedication to driving transformative change and setting new benchmarks for excellence and innovation in the industry.
-
-...
-
-[Data](articles/595b4913.json)
-
-[Extended Data](ext_articles/595b4913.ext.json)
-
----
-
-### Semasinghe urges Opposition to ditch unrealistic election promises
-
-*2024-06-24 02:29:06* · [`dailyftlk`](https://www.ft.lk/business/Semasinghe-urges-Opposition-to-ditch-unrealistic-election-promises/34-763373) · `en`
-
-State Minister of Finance Shehan Semasinghe called on the Opposition to abandon impractical election promises, asserting the need for responsible discourse focused on the country’s future rather than personal political gains.
-
-Speaking yesterday, he highlighted the potential risks of reversing crucial economic reforms at a time when Sri Lanka is recovering through challenging yet necessary measures.
-
-“We are now on the right track, implementing very difficult economic reforms and this is a time to think about the future of the country rather than personal political goals. The reversal of these reforms could lead to a significant uncertainty about the country’s future,” he warned.
-
-Semasinghe asserted that Sri Lanka is progressing through globally recognised methods, adhering to positive and realistic economic policies.
-
-“I urge all political actors to prioritise the country’s long-term stability and prosperity over short-term political ambitions,” he added.
-
-...
-
-[Data](articles/5e851eab.json)
-
-[Extended Data](ext_articles/5e851eab.ext.json)
-
----
-
-### Who wins North and East in the presidential election?
-
-*2024-06-24 02:07:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72221znrx5o) · `si`
-
-The summary of the text focuses on the dynamics of presidential elections in Sri Lanka, particularly in the North and East regions, highlighting key moments and figures such as Anura Kumara Dissanayake, Mahinda Rajapaksa, Sarath Fonseka, and others. It mentions the importance of votes from these regions, the strategies employed by candidates, and the historical outcomes of past elections.
-
-🟩
-
-There are days, the Elections Commission has any more than days to publish the Presidential Election, the name of the President of Sri Lanka.
-
-The political field has been warm, as well as the president's period of the present president as well as the constitution is to be resolved in a referendum.
-
-UNP's Working Committee member says that Anura Kumara Dissanayake is due to contest the presidential election by representing the reconciliation force.
-
-However, the Sri Lanka Common Filling Front who has won his first presidential election has not been declared who the party's candidate has ever committed.
-
-The votes of the North and the Muslim Tamil and the Muslim people throughout the North and the country have become critical in the North and East.
-
-The main candidates are trying to increase their votes by aimed at the next presidential election.
-
-President Ranil Wickremesinghe visited the Jaffna and Nuwara Eliya districts, Ranil Wickremesinghe visited the weekend last weekend.
-
-...
-
-[Data](articles/6f9a8475.json)
-
-[Extended Data](ext_articles/6f9a8475.ext.json)
 
 ---

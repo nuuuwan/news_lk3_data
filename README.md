@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 10:53:09**
+As of **2024-06-24 11:04:57**
 
 ## Newspaper Stats
 
-*Scraped **31,811** Articles*
+*Scraped **31,817** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 292
-dbsjeyarajcom | 292
+dbsjeyarajcom | 294
 bbccomsinhala | 313
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
-adalk | 2,788
-adaderanalk | 3,612
-tamilmirrorlk | 3,742
+adalk | 2,789
+adaderanalk | 3,613
+tamilmirrorlk | 3,744
 dailymirrorlk | 4,733
 virakesarilk | 4,925
 adaderanasinhalalk | 5,209
@@ -26,21 +26,61 @@ adaderanasinhalalk | 5,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,810 (100.0%) of 31,811 articles have been extended.
+31,811 (100.0%) of 31,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### බටහිර ඉන්දීය කොදෙව් පරාජය වෙයි
+### Special delegation to leave for Russia to help repatriate ex-soldiers
+
+*2024-06-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100059/special-delegation-to-leave-for-russia-to-help-repatriate-ex-soldiers-) · `en`
+
+MP Gamini Waleboda says that a special delegation will depart for Russia today (24) to arrange for the repatriation of Sri Lankan ex-military personnel fighting in the ongoing Russia-Ukraine war and for the related discussions.
+
+The parliamentarian further stated that a delegation comprising six members including the Defence Secretary and officials from the Ministry of Foreign Affairs are scheduled to leave for Russia.
+
+The official meeting between the Sri Lankan delegation and the representatives of the Russian government will be held in Moscow on Wednesday (26).
+
+These discussions are planned to include meetings with the Russian Deputy Minister of Defense in the morning and the Deputy Foreign Minister of Russia in the evening.
+
+MP Waleboda stated that several rounds of diplomatic talks are scheduled to take place during this visit.
+
+◼️
+
+[Data](articles/61774c22.json)
+
+---
+
+### பொன்சேகாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை
+
+*2024-06-24 10:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-எதிராக-ஒழுக்காற்று-நடவடிக்கை/175-339310) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின்  (SJB) தவிசாளர் சரத் பொன்சேகாவுக்கு எதிராக இந்த வாரம் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என கட்சியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+பொன்சேகாவுக்கு எதிரான நடவடிக்கை குறித்து தீர்மானிக்க கட்சியின் செயற்குழு இந்த வாரம் கூடும் என மத்தும பண்டார தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0f864c0f.json)
+
+---
+
+### West Indies will be defeated
 
 *2024-06-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198084) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අටදෙනාගේ වටයේ තීරණාත්මක තරගයක් අද (24) පැවැත්වුණි.
+In the Twenty-Twenty World Cup held today, West Indies lost.
+
+🟩
+
+The Twenty-Twenty World Cup was held today (24).
 
 ◼️
 
 [Data](articles/f2242f93.json)
+
+[Extended Data](ext_articles/f2242f93.ext.json)
 
 ---
 
@@ -185,6 +225,40 @@ It is also worth noting that journalists have not been allowed to display the ne
 [Data](articles/bccd7f65.json)
 
 [Extended Data](ext_articles/bccd7f65.ext.json)
+
+---
+
+### கிளிநொச்சியில்  கருச்சிதைவுகள்
+
+*2024-06-24 09:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கருச்சிதைவுகள்/72-339304) · `ta`
+
+கிளிநொச்சியில் உள்ள தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் நேற்று இரவு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கிளிநொச்சி அறிவியல் நகர் பகுதியில் அமைந்துள்ள ஆடைத்தொழிற்சாலை ஒன்றில் இவ்வாறு கருச்சிதைவுகள் அடையாளம் காணப்பட்டதையடுத்து பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+
+தனியார் நிறுவன வளாகத்தில் குறித்த செய்தியை காட்சிப்படுத்த ஊடகவியலாளர்களுக்கு அனுமதி வழங்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/e7c8a2ef.json)
+
+---
+
+### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-06-24 09:07:09* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-410388) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් අද පෙරවරුවේ නිකුත් කළේය.
+
+කාලගුණ විද්‍යා දෙපාර්මේන්තුවේ ස්වභාවික විපත් පිළිබඳ පූර්ව අනුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් නිකුත් කල මෙම නිවේදනය හෙට පෙරවරු 7.00 තෙක් වලංගු වෙයි.
+
+එම නිවේදනයට අනුව ත්‍රිකුණාමලය සිට කන්තකසන්තුරය සහ පුත්තලම හරහා හලාවත දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. (60-65) දක්වා වැඩි වන බවත් එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බවත් සඳහන් වෙයි.වේගය විටින් විට පැ.කි.මී. (50-55) දක්වා වැඩි වන අතර එමමුහුදු ප්‍රදේශ විටින්ත විට රළු වන බවද පවසයි.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් (2.0 – 2.5) ක් පමණ ඉහළ යාදම් හැකියාවක් පවතී. (මෙය ගොඩබිමට පැමිණෙන රළ නොවේ) දම් පිළිබඳ සිය අවධානය යොමුකර කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටින  බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6c9a29b8.json)
 
 ---
 
@@ -1444,6 +1518,22 @@ Nathasha’s arrest drew widespread attention and criticism, highlighting the se
 
 ---
 
+### The Tamil Doctor who Gave Medical Aid to Injured Tigers.
+
+*2024-06-23 18:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
+
+“Captain Blood:His Odyssey”was an Adventure novel authored  by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
+
+Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
+
+...
+
+[Data](articles/0c6c87b9.json)
+
+[Extended Data](ext_articles/0c6c87b9.ext.json)
+
+---
+
 ### Sri Lanka central bank appoints two Deputy Governors
 
 *2024-06-23 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-appoints-two-deputy-governors-169113/) · `en`
@@ -2147,133 +2237,5 @@ The suspect had said that he had killed his brother to prevent him from orphanit
 [Data](articles/5dcd2f31.json)
 
 [Extended Data](ext_articles/5dcd2f31.ext.json)
-
----
-
-### Ban
-
-*2024-06-23 14:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகள்-மீதான-தடை-நீக்கக்கோரிக்கை-நிராகரிப்பு/175-339284) · `ta`
-
-The UK Appeal Authority upheld the ban on the LTTE, rejecting the Tamil Eelam government's request to lift it. This decision aligns with the UK's stance on the LTTE's violent past and ongoing concerns about its activities.
-
-🟩
-
-The Appeal Authority of the country on Friday (21) has rejected the application submitted by the Tamil Eelam government (TGTE) to remove the ban on the LTTE in the UK.
-
-This decision ensures that the LTTE is a banned organization in the UK.
-
-In the United Kingdom, the Liberation Tigers of Tamil Eelam (LTTE) in the United Kingdom has argued that the Liberation Tigers of Tamil Eelam (LTTE) should not be banned in nonviolence.
-
-However, the Commission has stated that the Sri Lankan government is in the position that the country's Tamil Eelam government is supporting the establishment of the independent Tamil state of Sri Lanka.
-
-The Secretary of the United Kingdom added the Liberation Tigers of Tamil Eelam (LTTE) on March 29, 2001.
-
-At this juncture, efforts were made before the LTTE's ban on the LTTE.
-
-On December 7, 2018, the Government of Tamil Eelam (LTTE) has applied to the British Home Ministry to remove the LTTE's ban.
-
-...
-
-[Data](articles/7dd52cfc.json)
-
-[Extended Data](ext_articles/7dd52cfc.ext.json)
-
----
-
-### Release fishermen: Relationships with tears
-
-*2024-06-23 14:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுதலை-செய்க-கண்ணீருடன்-உறவுகள்/175-339283) · `ta`
-
-In a tense situation, 22 Sri Lankan fishermen were arrested by their own navy for crossing borders while fishing near Rameswaram. They were taken to a naval camp and later released after health checks. This incident sparked protests in coastal villages, highlighting the struggle of fishermen during a 60-day fishing ban. Relatives urge immediate release, emphasizing the need for survival.
-
-🟩
-
-The Sri Lankan Navy arrested the Sri Lankan Navy on charges of crossing the border with the 22 fishermen who were fishing from the Rameswaram fishing port and taken to the Kankesanthurai Naval Camp.
-
-More than 5 thousand fishermen went to sea for fishing from 507 fishermen from the port of Rameswaram in Ramanathapuram district on Saturday (22).
-
-Accordingly, Suresh Babu, Kalidas, Rubin, Rubin, Nagarajan, including the Sri Lankan navy, who had been fishing in the area where fishermen were fishing in the Neduntivu seas on Sunday (23), were fishing in the area.The fishermen were taken to the Kankesanthurai Naval Camp and the fishermen were handed over to the first phase of the fishermen at the Mayiliti fishing port.
-
-After malaria and corona testing to the fishermen handed over, all the fishermen are currently being taken to the Jaffna Fisheries Office and are being investigated.
-
-...
-
-[Data](articles/065935c9.json)
-
-[Extended Data](ext_articles/065935c9.ext.json)
-
----
-
-### Semasinghe urges opposition to avoid making false promises on economy ahead of polls
-
-*2024-06-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100045/semasinghe-urges-opposition-to-avoid-making-false-promises-on-economy-ahead-of-polls) · `en`
-
-Sri Lanka’s State Minister of Finance Shehan Semasinghe says that any reversal of the hard-earned reforms could result in a catastrophe for the country.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe expressed that as the elections approach, it is concerning to see opposition parties and their main advisors expressing unrealistic views on managing the economy.
-
-“Any reversal of the hard-earned reforms could result in a catastrophe for the country”, he added.
-
-Furthermore, the Finance State Minister also noted that the International Monetary Fund (IMF) and international stakeholders have played a pivotal role in reshaping Sri Lanka’s economic landscape, which was in total chaos two years ago.
-
-“I urge all opposition parties and their advisers to avoid making false promises that may not even offer short-term gains but definitely lead to long-term pain”, Semasinghe expressed.
-
-...
-
-[Data](articles/e5841ae0.json)
-
-[Extended Data](ext_articles/e5841ae0.ext.json)
-
----
-
-### Don't be afraid of challenges - President
-
-*2024-06-23 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198057) · `si`
-
-President Ranil Wickremesinghe encourages facing challenges head-on, emphasizing courage and integrity over fear. He highlights the importance of accepting responsibilities, developing local industries, and focusing on exports to improve the nation's economy.
-
-🟩
-
-President Ranil Wickremesinghe says that his counsel for future generations is not frightened by meditation, policy and challenges.
-
-The President was responding to the youth agent in Batticaloa and answers a question raised by a girl.
-
-President Ranil Wickremesinghe was held yesterday under the patronage of President Ranil Wickremesinghe.
-
-The President also joined the meeting in the Batticaloa district and responded to the questions they raised.
-
-Q. Despite the fact that the country is in a crisis, you accepted the country's responsibility. How will you have the opportunity to study in schools such as royal college?
-
-...
-
-[Data](articles/75b268cb.json)
-
-[Extended Data](ext_articles/75b268cb.ext.json)
-
----
-
-### Tension on the commercial premises in Adelaide - the person with weapons
-
-*2024-06-23 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/186764) · `ta`
-
-In Adelaide, a situation involving a woman with weapons led to evacuations from the Wellbeet Business Park. The South Australian police responded quickly, engaging with the individual. Two men involved are receiving treatment but are not in danger.
-
-🟩
-
-Following the founder of a person with weapon in a businesswoman in Adelaide, Australia, there are activities to evacuate public.
-
-South Australian police have confirmed an incident and the police said they were engaged in immediate activities.
-
-Some have posted on Twitter that we have seen someone reporting as an emergency and the police are blowing inside.
-
-The two men are being treated for the two, and the ambulance service said they were not in danger.
-
-The Wellbeet Business Park announces the message that the armed criminal can disappear and inform others.
-
-◼️
-
-[Data](articles/10e316f5.json)
-
-[Extended Data](ext_articles/10e316f5.ext.json)
 
 ---

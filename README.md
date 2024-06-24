@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 19:19:40**
+As of **2024-06-24 19:34:57**
 
 ## Newspaper Stats
 
-*Scraped **31,923** Articles*
+*Scraped **31,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,804
-adaderanalk | 3,630
+adaderanalk | 3,631
 tamilmirrorlk | 3,762
 dailymirrorlk | 4,733
 virakesarilk | 4,944
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,923 (100.0%) of 31,923 articles have been extended.
+31,923 (100.0%) of 31,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Sri Lanka must extend free visa to more countries to compete with regional competitors - Tourism Minister
+
+*2024-06-24 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100076/sri-lanka-must-extend-free-visa-to-more-countries-to-compete-with-regional-competitors-tourism-minister) · `en`
+
+Sri Lanka’s Minister of Tourism Harin Fernando says that the country must issue free visas to tourists for more countries in order to compete with its regional competitors and to achieve the nation’s ambitious target of 2.3 million tourist arrivals within the year.
+
+Speaking during a press conference held today, the Minister expressed that the special committee report on the proposal to issue free visas to tourists from 67 countries will be presented to the Cabinet of Ministers within the next 2 weeks.
+
+Furthermore, Fernando revealed a number of government initiatives intended to attract more tourists to the country.
+
+“Cabinet has appointed a special committee to provide a report on the proposal to issue free visas to tourists from 67 countries. That committee’s report will be submitted to Cabinet either this week or the next”, the Minister said.
+
+...
+
+[Data](articles/2a8376bd.json)
+
+---
 
 ### The punishment of a 16-year-old girl was raped
 
@@ -2361,31 +2379,5 @@ The deceased is a seminar of the height of 5 feet five feet with a four-inch thi
 [Data](articles/8f04bde6.json)
 
 [Extended Data](ext_articles/8f04bde6.ext.json)
-
----
-
-### Trying to get the post of Health Minister with the government?Rajitha denies
-
-*2024-06-24 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186803) · `ta`
-
-Rajitha Senaratne, a United People's Power MP, denied rumors about seeking the Health Minister position in the government. He clarified he wasn't in discussions with the government regarding this or other matters, stating no political changes are likely as elections approach.
-
-🟩
-
-United People's Power Member of Parliament Rajitha Senaratne has rejected the reports that he is trying to become a health minister with the government.
-
-It has been speculated that after attending several events led by Rajitha Senaratne President Ranil Wickremesinghe, he will be the Minister of Health with the government.
-
-However, Rajitha Senaratne, who has rejected these speculation, said he was not in talks with the government on the post or other issues.
-
-As the elections are approaching, there is no chance of political changes, he said.
-
-Rajitha Senaratne said that I am not engaged in any talks with the government.
-
-◼️
-
-[Data](articles/e0a76d1e.json)
-
-[Extended Data](ext_articles/e0a76d1e.ext.json)
 
 ---

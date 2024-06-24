@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 20:19:32**
+As of **2024-06-24 20:34:50**
 
 ## Newspaper Stats
 
-*Scraped **31,928** Articles*
+*Scraped **31,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,68 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,805
+adalk | 2,806
 adaderanalk | 3,631
 tamilmirrorlk | 3,763
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,231
+adaderanasinhalalk | 5,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,927 (100.0%) of 31,928 articles have been extended.
+31,928 (100.0%) of 31,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### පෙරපාසල් ගුරු දීමනාව රුපියල් 2,500කින් වැඩි කරයි
+### සිරගත වන පිරිස වැඩි වෙයි
+
+*2024-06-24 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198109) · `si`
+
+මෙරට තුළ සොරකම් සහ මංකොල්ලකෑම් සම්බන්ධයෙන් සිරගත වන පුද්ගලයන් සංඛ්‍යාවේ කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කෙරෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+
+බන්ධනාගාර දෙපාර්තමේන්තු වාර්තා අනුව මෙරට තුළ සොරකම් සහ මංකොල්ලකෑම්වලට අදාළව 2021 වසරේදී 1,202ක්, 2022 වසරේදී 3,956 දෙනෙකුත්, 2023 වසරේදී 5,687 දෙනෙකුත් සිරගත කර තිබේ.
+
+එමෙන්ම 2021 වසරේදී සොරකම් සහ මංකොල්ලකෑම්වලට අදාළව  කාන්තාවන් 19 දෙනෙකු සිරගත වී ඇති අතර 2022 වසරේදී එය 49 දක්වාත් 2023 වසරේදී 61 දක්වාත් ඉහළ ගොස් තිබුණි.
+
+පුද්ගලයන් නොමග යවා රවටමින් මුදල් පැහැරගැනීමේ සිද්ධිද මේ වනවිට වැඩි වශයෙන් වාර්තා වෙමින් තිබේ.
+
+◼️
+
+[Data](articles/bfd25815.json)
+
+---
+
+### Prepaidal teacher allowance increases by Rs.2,500
 
 *2024-06-24 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198107) · `si`
 
-මෙම සතියේ සිට ක්‍රියාත්මක වනපරිදි පෙර පාසල් ගුරුවරුන් සඳහා ලබාදෙන දීමනාව රුපියල් 2,500කින් ඉහළ නංවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced a Rs. 2,500 increase in allowances for pre-school teachers, effective immediately. During a visit to the East, he discussed issues with local youths, promising new housing projects and economic improvements through tourism and agriculture modernization, with cooperation from India for Trincomalee's development.
 
-ජනාධිපතිවරයා ඒ බව පැවසුවේ, මඩකලපුව ප්‍රදේශයේ තරුණ පිරිස් හමුවූ අවස්ථාවේදීය.
+🟩
 
-සිය නැගෙනහිර සංචාරය අතරතුර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ මඩකලපුව චෙන්කලඩි ප්‍රදේශයට පැමිණියේය.
+President Ranil Wickremesinghe says that the allowance for pre-school teachers will be increased by Rs. 2,500.
 
-එහිදී පාසල් හැරගිය සහ රැකියා විරහිත තරුණ තරුණියන් පිරිසක් ජනාධිපතිවරයා සමඟ සාකච්ඡාවකට එක්වූ අතර ඔවුන් සිය ගැටලු ජනාධිපතිවරයාට ඉදිරිපත් කළේය.
+The President made this observation when he met the youth of the Batticaloa area.
 
-ප්‍රශ්නය - නැගෙනහිර පළාතේ පමණක් පෙර පාසල් 1800 කට වැඩි ප්‍රමාණයක් තිබෙනවා. නමුත් එහි ඉගැන්වීම් කටයුතු කරන ගුරුවරුන්ට ලැබෙන දීමනාව ප්‍රමාණවත් නැහැ. ඔවුන්ගේ දිමනාව වැඩි කිරීමට අදහසක් තිබෙනවාද?
+During his visit to the East, President Ranil Wickremesinghe arrived in Chenkaladi.
 
-ජනාධිපතිවරයා - "පෙර පාසල් ගුරුවරුන්ගේ දීමනාව රුපියල් 2500කින් වැඩි කිරීමට අප තීරණය කළා. එම වැඩි කිරීම මේ සතියේ සිට ක්‍රියාත්මක වන බව කිවයුතුයි."
+There were a group of school leavets and unemployed youths with the President and presented their problems to the President.
 
-ප්‍රශ්නය - ස්ථීර නිවාස ඇතුළු මූලික පහසුකම් නොමැති විශාල පිරිසක් මේ ප්‍රදේශයේ ජීවත් වෙනවා. ඔවුන් වෙනුවෙන් නිවාස යටිතල පහසුකම් සපුරාදීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබෙනවාද?
+Q. There are over 1800 pre-schools in the Eastern Province alone. But the gift of the teaching of its teaching is not enough. Is there any idea to increase their date?
+
+President: "We decided to increase the pre-school teachers' allowance by Rs 2,500. That increment must be operated from this week. "
+
+Q. There is a large number of basic facilities including permanent housing. Are you planning to implement a housing infrastructure program for them?
 
 ...
 
 [Data](articles/b68f78a3.json)
+
+[Extended Data](ext_articles/b68f78a3.ext.json)
 
 ---
 
@@ -147,6 +171,20 @@ The High Court Judge was ordered to pay 15 years of prison in two years.
 [Data](articles/632eac1d.json)
 
 [Extended Data](ext_articles/632eac1d.ext.json)
+
+---
+
+### සන්නස්ගල මිලියනය ගෙවයි - නඩුවෙන් නිදහස් වෙයි
+
+*2024-06-24 18:18:38* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගල-මිලියනය-ගෙවයි---නඩුවෙන්-නිදහස්-වෙයි/11-410405) · `si`
+
+චිත්‍රපටයක් නිෂ්පාදනය කිරීමට බව පවසා කඳාන ප්‍රදේශයේ පුද්ගලයකුගෙන් රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන එම මුදල ලබානොදී විශ්වාසය කඩ කරන ලදැයි කියන සිද්ධියක් සම්බන්ධයෙන් උපුල් ශාන්ත සන්නස්ගල මහතාට එරෙහිව කඳාන පොලිසිය කෙටුම්පත් කළ චෝදනා ඉදිරිපත් කිරීම ප්‍රතික්‍ෂෙප කළ වැලිසර මහෙස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා චෝදනාවන්ගෙන් සන්නස්ගල මහතා මුදාහැරීමට අද (24) නියම කළේය.
+
+තමාගෙන් ලබාගත් රුපියල් ලක්ෂ 10ක මුදල උපුල් ශාන්ත සන්නස්ගල මහතා ගෙවා අවසන් කළ බවත් නඩුවක් ගෙන යෑමට තමන්ට අවශ්‍යතාවයක් නැති බවත් පැමිණිලිකරු කළ දැනුම් දීමක් සැළකිල්ලට ගනිමින් එලෙස නියම කළ මහෙස්ත්‍රාත්වරයා වරදක් සංස්ථාපනය නොවන අවස්ථාවකදී පුද්ගලයින්ට එරෙහිව චෝදනා කෙටුම්පත් කරන්නේ කෙසේදැයි කඳාන පොලිසියෙන් ප්‍රශ්න කළේය.
+
+...
+
+[Data](articles/bb6230c5.json)
 
 ---
 
@@ -2347,61 +2385,5 @@ Mathuma Bandara said the party's executive committee would meet this week to dec
 [Data](articles/0f864c0f.json)
 
 [Extended Data](ext_articles/0f864c0f.ext.json)
-
----
-
-### Sri Lanka appoints new state minister of trade and environment
-
-*2024-06-24 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-state-minister-of-trade-and-environment-169193/) · `en`
-
-ECONOMYNEXT – Sathasivam Viyalendiran has been appointed as Sri Lanka’s new state minister of trade and environment, the president’s media division said.
-
-“MP Sathasivam Viyalendiran took oath as the State Minister of Trade and Environment before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago.”
-
-Viyalendiran was elected to parliament through the Sri Lanka Podujana Peramuna (SLPP) party from the Batticaloa District.
-
-He previously has held the posts of media state minister and state minister of Backward Rural Areas Development and Promotion of Domestic Animal Husbandry and Minor Economic Crop Cultivation, under President Gotabaya Rajapaksa. (Colombo/June24/2024)
-
-◼️
-
-[Data](articles/2425b466.json)
-
-[Extended Data](ext_articles/2425b466.ext.json)
-
----
-
-### Talki Karunaratne: Will Olympic able to go?
-
-*2024-06-24 10:30:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv222j90v9jo) · `si`
-
-Talki Karunaratne, a promising athlete from Sri Lanka, is aiming to qualify for the Olympics, particularly in the 600m event at the GCE Athletics Championship in Spain, hoping to bring home a medal. Despite setbacks like missed competitions due to travel issues and injuries, she remains hopeful, especially after her impressive performance in the Taiwan Open Athletic Championship where she won gold in the 400m and 800m events. Her coach, Susantha Fernando, highlights the challenges faced in qualifying but expresses optimism about her chances. Additionally, Talki has been offered a scholarship to study in the USA, which she plans to pursue alongside her athletic career, aiming to balance both achievements.
-
-🟩
-
-Sri Lanka's sports flights have been following a great hope about the 600m event at the GCE Athletics Championship in Spain.
-
-It is because she hopes Sri Lanka will win a medal in this year's Olympics.
-
-Subsequently, Susanthika Jayasinghe has been known as a player to the people of Sri Lanka as a closer game through athletics.
-
-This year's Olympics will begin in Paris, France on July 26th July.
-
-Last week, Tharusi Karunaratne, which was completed by 1.24.84 meters in Spain, was entitled to the silver medal.
-
-Meanwhile, Taiwan Open Athletic Championship was able to win the 400m event.
-
-At 2.05.74 meters the tournament, she claimed to the gold medal by concluding the 800m event.
-
-In October last year, Talki Karunaratne won the gold medal in 800m women's event.
-
-It was 21 years later, Sri Lanka won a gold medal in a Asian Games.
-
-Her coach Susantha Fernando told BBC that she could not compete with two participants to qualify for the Olympic Games.
-
-...
-
-[Data](articles/70ef446e.json)
-
-[Extended Data](ext_articles/70ef446e.ext.json)
 
 ---

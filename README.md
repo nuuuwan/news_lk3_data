@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 10:34:48**
+As of **2024-06-24 10:53:09**
 
 ## Newspaper Stats
 
-*Scraped **31,810** Articles*
+*Scraped **31,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,49 @@ adaderanalk | 3,612
 tamilmirrorlk | 3,742
 dailymirrorlk | 4,733
 virakesarilk | 4,925
-adaderanasinhalalk | 5,208
+adaderanasinhalalk | 5,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,808 (100.0%) of 31,810 articles have been extended.
+31,810 (100.0%) of 31,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### නගරයක් මැද නාඳුනන මළ සිරුරක්
+### බටහිර ඉන්දීය කොදෙව් පරාජය වෙයි
+
+*2024-06-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198084) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අටදෙනාගේ වටයේ තීරණාත්මක තරගයක් අද (24) පැවැත්වුණි.
+
+◼️
+
+[Data](articles/f2242f93.json)
+
+---
+
+### Unidentified body found in the middle of a city
 
 *2024-06-24 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198083) · `si`
 
-මාතර පොලිස් වසමේ මැද්දවත්ත ප්‍රදේශයේ බැංකුවක් ඉදිරිපිට තිබී නාඳුනන පුද්ගලයෙකුගේ මළසිරුරක්  හමුවී තිබේ.
+A stranger's body was discovered in front of a bank in the Matara Police Division, identified as a 5'5" tall individual with a thin build. The discovery was made yesterday through a police message.
 
-පොලීසියට ලද පණිවිඩයක් අනුව ඊයේ(23) උදෑසන මෙම මළසිරුර සොයා ගෙන ඇත.
+🟩
 
-මියගිය පුද්ගලයා උස අඩි 05 අඟල් 04ක් පමණ වන සිහින් සිරුරක් සහිත තළෙළු පුද්ගලයෙක් බව පොලීසිය පවසයි.
+A corpse of a stranger was found in front of a bank in the Matara Police Division in Matara Police Division.
+
+The body was found yesterday (23) by a message received by the police.
+
+The deceased is a seminar of the height of 5 feet five feet with a four-inch thin body, police said.
 
 ◼️
 
 [Data](articles/8f04bde6.json)
+
+[Extended Data](ext_articles/8f04bde6.ext.json)
 
 ---
 
@@ -714,23 +732,29 @@ The President joined the films with the younger ones who attended the meeting af
 
 ---
 
-### ’சவால்களைக் கண்டு தப்பியோட வேண்டாம்’
+### Do not escape the challenges
 
 *2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/150-339303) · `ta`
 
-எதிர்கால சந்ததியினர் சிறந்த கல்வியைப் பெற்றுக்கொண்டு கொள்கைகளுக்கு மதிபளிக்க வேண்டும் எனவும் சவால்களை கண்டு ஒருபோதும் தப்பியோட கூடாது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe urged future generations to embrace education, understand policies, and face challenges head-on. He addressed young people in Batticaloa, emphasizing the importance of leadership and political excellence. The gathering, held at the "Golden River" hotel, saw a significant turnout from the youth and women, who received positive responses to their queries. Post-meeting, the President engaged in informal discussions with the attendees.
 
-நாட்டில் வெற்றிகரமான தலைமைத்தும், தலைசிறந்த அரசியல்வாதி என்ற வகையில் ஜனாதிபதி கொண்டிருக்கும் அனுபவங்களுக்கமைய எதிர்கால சந்ததியினருக்கு வழங்கும் அறிவுரை யாதென மட்டக்களப்பு மாவட்ட இளையோருடனான சந்திப்பில் எழுப்பட்ட கேள்விக்கு பதிலளித்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-மட்டக்களப்பு”கோல்டன் ரிவர்” ஹோட்டலில் நேற்று முன்தினம் நடை்பெற்ற இளையோர் அணி சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனை தெரிவித்தார்.
+President Ranil Wickremesinghe said the future generations should get better education and appreciate policies and never escape the challenges.
 
-இந்தச் சந்திப்பில் பெருமளவான இளைஞர், யுவதிகள் கலந்துகொண்டிருந்ததோடு, அவர்களின் கேள்விகளுக்கு ஜனாதிபதி சாதகமான பதில்களை வழங்கினார்.
+Responding to a question raised by the youth of the Batticaloa district, the President was responding to a question raised by the youth of the Batticaloa district that the country's successful leadership and the best politician as a great politician.
 
-இந்த சந்திப்பின் பின்னர் இந்த சந்திப்பில் கலந்துகொண்ட இளையோருடன் ஜனாதிபதி படங்களிலும் இணைந்துகொண்டார். (a)
+President Ranil Wickremesinghe made this statement at a meeting of the youth team held at the "Golden River" hotel in Batticaloa yesterday.
+
+A large number of youth and women attended the meeting and the president gave favorable answers to their questions.
+
+The President joined the films with the younger ones who attended the meeting after the meeting. (A)
 
 ◼️
 
 [Data](articles/6b97bbc0.json)
+
+[Extended Data](ext_articles/6b97bbc0.ext.json)
 
 ---
 
@@ -2251,41 +2275,5 @@ The Wellbeet Business Park announces the message that the armed criminal can dis
 [Data](articles/10e316f5.json)
 
 [Extended Data](ext_articles/10e316f5.ext.json)
-
----
-
-### Ada Derana sees the fruit - Little Rivi is the GDP
-
-*2024-06-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198056) · `si`
-
-Ravindu from Walawatta, Galle, faces financial struggles but receives community support for his education and future home purchase. His story highlights the importance of collective aid in overcoming personal challenges.
-
-🟩
-
-A Little Latestness That Filled With a Little Agendaker Our little Ravindu is still rallying to Lariety.
-
-It is Ravindu, a resident of Walawatta area in Bogahagoda, Galle, Galle, Galle, Galle.
-
-The young Ravindu who has to run and play a book, Ravindu is the only responsibility to bear the barravel of the age.
-
-About Ravindu about Ravindu about Ravindu. Today, we told the country at a time when Little Ravi was to endure your help.
-
-At the same message, we have found him to help Little Raviu to help Little.
-
-These dear men have also begun the initiative to buy a house to buy a land and make a house instead of the veined.
-
-The money required for this is the donor of our own people.
-
-This will not forget to help Raviu's parents.
-
-Moreover, they are ready to help Little Raviu's future.
-
-"Today Ada Derana" is a tribute to these dear.
-
-◼️
-
-[Data](articles/21b57330.json)
-
-[Extended Data](ext_articles/21b57330.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 07:00:48**
+As of **2024-06-24 07:25:34**
 
 ## Newspaper Stats
 
-*Scraped **31,785** Articles*
+*Scraped **31,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 1,830
 dailyftlk | 1,942
 adalk | 2,784
 adaderanalk | 3,608
-tamilmirrorlk | 3,735
+tamilmirrorlk | 3,736
 dailymirrorlk | 4,733
 virakesarilk | 4,924
-adaderanasinhalalk | 5,200
+adaderanasinhalalk | 5,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,777 (100.0%) of 31,785 articles have been extended.
+31,785 (100.0%) of 31,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### අද කාලගුණය
+
+*2024-06-24 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198075) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි‍.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ක පමණ තරමක් තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකිබව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/2cd34734.json)
+
+---
 
 ### Sampath Bank’s ‘Wewata Jeewayak’ empowers farming community in Puttalam
 
@@ -41,6 +57,8 @@ Sampath Bank set forth on a mission to support the nation’s farming community 
 ...
 
 [Data](articles/0fc84b94.json)
+
+[Extended Data](ext_articles/0fc84b94.ext.json)
 
 ---
 
@@ -55,6 +73,8 @@ The speaker lineup for this year includes Jonas Thürig, VP, Business Developmen
 ...
 
 [Data](articles/c71aa334.json)
+
+[Extended Data](ext_articles/c71aa334.ext.json)
 
 ---
 
@@ -72,6 +92,8 @@ This is the fourth consecutive year that Commercial Bank has been the biggest le
 
 [Data](articles/254ed875.json)
 
+[Extended Data](ext_articles/254ed875.ext.json)
+
 ---
 
 ### China-Sri Lanka exploring enhancement of trade and tourism
@@ -87,6 +109,8 @@ The Foreign Secretary appreciated China’s assistance to Sri Lanka during chall
 ...
 
 [Data](articles/514e1b9f.json)
+
+[Extended Data](ext_articles/514e1b9f.ext.json)
 
 ---
 
@@ -104,6 +128,8 @@ In this context, the Initial Public Offering (IPO) by Maharaja Foods Ltd which w
 
 [Data](articles/b6e4aa78.json)
 
+[Extended Data](ext_articles/b6e4aa78.ext.json)
+
 ---
 
 ### IBM to co-create tailored solutions to specific needs of SL market
@@ -115,6 +141,8 @@ Sandip Patel is the Managing Director for IBM India & South Asia region. He is r
 ...
 
 [Data](articles/d802c867.json)
+
+[Extended Data](ext_articles/d802c867.ext.json)
 
 ---
 
@@ -131,6 +159,8 @@ CAFE 2024 featured a comprehensive showcase of food products and services, highl
 ...
 
 [Data](articles/e0076c6a.json)
+
+[Extended Data](ext_articles/e0076c6a.ext.json)
 
 ---
 
@@ -307,6 +337,18 @@ Semasinghe asserted that Sri Lanka is progressing through globally recognised me
 [Data](articles/5e851eab.json)
 
 [Extended Data](ext_articles/5e851eab.ext.json)
+
+---
+
+### மத்திய வங்கிக்கு துணை ஆளுநர்கள் நியமனம்
+
+*2024-06-24 01:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கிக்கு-துணை-ஆளுநர்கள்-நியமனம்/175-339300) · `ta`
+
+இதன்படி ஏ.ஏ.எம். தாசிம் மற்றும் ஜே.பி.ஆர். கருணாரத்ன ஆகியோர் துணை ஆளுநர்களாக நியமிக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/382f98e1.json)
 
 ---
 
@@ -2265,65 +2307,5 @@ Israeli Army authorities said that the person who was injured was a suspect, but
 [Data](articles/2847d2a4.json)
 
 [Extended Data](ext_articles/2847d2a4.ext.json)
-
----
-
-### The mother arrested for hitting the mother with a stone and killed by a stone
-
-*2024-06-23 11:19:00* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-පෝය-දිනයේදි-මවට-ගලකින්-පහරදී-ඝාතනය-කළ-පුතා-අල්ලයි/11-410373) · `si`
-
-A 44-year-old man from Kandagedara allegedly killed his mother-in-law and set fire to his home, leading to the death of his own child. The incident occurred during Poson Poya Day, after which the suspect was arrested. His mother was hospitalized due to injuries sustained from being struck by a stone. The suspect's property was extensively damaged.
-
-🟩
-
-Kandagedara Police said that the son of his son's home was burned to death in the Kandagedara Sarnia estate and assaulted her mother on the Poson Poya Day night.
-
-The suspect's son was assassinated by the Kandawewa Division (62), a resident of the Kandaweera Sarnia Watta area.
-
-The suspect was a 44 year old father, a resident of Kandagedara Boarno, the police said.
-
-The suspect had resided in a foreign-house estate home with his wife and his mother with the mother of his suspect.
-
-The police say that he has always come to a drunken mother's house and causing disputes with the drunk and the three children to stay with a room to stay at the house.
-
-The suspect had gone to his home to meet the Samurdhi Development Officer of the suspect, the suspect had gone to his home, and the suspect had been burnt to his mother's house.
-
-The woman was killed and the mother of the mother had been admitted to the Kandagedara hospital with a stone and the mother of the mother was taken into a stone.
-
-...
-
-[Data](articles/a8b91412.json)
-
-[Extended Data](ext_articles/a8b91412.ext.json)
-
----
-
-### Never escape in the face of challenges
-
-*2024-06-23 11:14:51* · [`adalk`](https://www.ada.lk/opinion/අභියෝග-හමුවේ-කිසිවිටෙකත්-පැන-යන්න-එපා/2-410372) · `si`
-
-President Ranil Wickremesinghe advises facing challenges without fear, emphasizing meditation and resilience. He spoke to young leaders in Batticaloa, encouraging them to embrace challenges and not be deterred by obstacles. Highlighting the importance of developing local industries and focusing on exports, he urged the audience to learn well, act intelligently, and remain upright. The President also discussed government plans for extensive development in the East, including port development, new investment zones, and renewable energy projects, inviting the business community to invest in the Eastern Province over the next five years.
-
-🟩
-
-President Ranil Wickremesinghe said that his counsel for the future generation is not being frightened, meditation, and challenges.
-
-The President made this statement from the youth visit to the Young Representative of the Batticaloa District, the youth visit to the Young Representative of Batticaloa District, the advice of a successful leader of the country.
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe at Batticaloa yesterday (22) under the patronage of President Ranil Wickremesinghe.
-
-The President also joined the meeting in the Batticaloa district and responded to the questions they had.
-
-The discussion, the President joined several photographs with young people who had participated in this discussion.
-
-The questions raised by the youth and the answers were as follows.
-
-Mr. President: Despite the crisis of the country, you accepted the country's responsibility. How will you have the opportunity to study in schools such as royal college?
-
-...
-
-[Data](articles/4c57e8d0.json)
-
-[Extended Data](ext_articles/4c57e8d0.ext.json)
 
 ---

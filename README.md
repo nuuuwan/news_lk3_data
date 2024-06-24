@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 06:23:27**
+As of **2024-06-24 07:00:48**
 
 ## Newspaper Stats
 
-*Scraped **31,777** Articles*
+*Scraped **31,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 292
 dbsjeyarajcom | 292
 bbccomsinhala | 312
 newsfirstlk | 363
-islandlk | 1,762
+islandlk | 1,770
 economynextcom | 1,830
 dailyftlk | 1,942
 adalk | 2,784
@@ -26,11 +26,113 @@ adaderanasinhalalk | 5,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,777 (100.0%) of 31,777 articles have been extended.
+31,777 (100.0%) of 31,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### Sampath Bank’s ‘Wewata Jeewayak’ empowers farming community in Puttalam
+
+*2024-06-24 04:21:00* · [`islandlk`](http://island.lk/sampath-banks-wewata-jeewayak-empowers-farming-community-in-puttalam/) · `en`
+
+Sampath Bank set forth on a mission to support the nation’s farming community through the ‘Wewata Jeewayak’ Programme. The programme aims to strengthen local harvesting by reviving traditional irrigation systems that can be restored to increase agriculture for farmers. Through the ‘Wewata Jeewayak’ programme, the Kohombagas Tank at the Mahakumbukkadawala Divisional Secretariat of Puttalam District has been revived and handed over to the local farmers which brought renewed hope and opportunities to them.
+
+...
+
+[Data](articles/0fc84b94.json)
+
+---
+
+### DigiEcon 2024 Investment Summit to have speakers from diverse industries
+
+*2024-06-24 04:21:00* · [`islandlk`](http://island.lk/digiecon-2024-investment-summit-to-have-speakers-from-diverse-industries/) · `en`
+
+The DigiEcon 2024 Investment Summit, Sri Lanka’s premier technology and investment event organized by the Ministry of Technology and powered by Mastercard, is set to host a remarkable lineup of speakers this year.The highly anticipated summit, scheduled for June 25, 2024, promises to unlock invaluable insights and power strategic alliances that will provide a platform to redefine success in the digital economy.
+
+The speaker lineup for this year includes Jonas Thürig, VP, Business Development & Sales, Asia, Tenity; Megha Jain, Senior Advisor, Bill and Melinda Gates Foundation (BMGF); Mohan Belani, Co-founder & CEO, e27; Craig Dixon, General Partner, Accelerate Asia; and David Mann, Chief Economist, APAC, Mastercard Economics Institute.
+
+...
+
+[Data](articles/c71aa334.json)
+
+---
+
+### ComBank ‘biggest’ lender to Sri Lanka’s SMEs for 4th consecutive year
+
+*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/combank-biggest-lender-to-sri-lankas-smes-for-4th-consecutive-year/) · `en`
+
+The Commercial Bank of Ceylon was the biggest lender to Sri Lanka’s small and medium enterprises (SME) sector by a huge margin in 2023, accounting for nearly a third of the value of the loans disbursed by a total of 17 state and private sector lending institutions, the Ministry of Finance has confirmed.
+
+According to the Ministry’s Final Budget Position Report (Annual Report) for 2023, Commercial Bank lent Rs 231.655 billion out of the total loans of Rs 704.142 billion to SMEs, accounting for 33% of the total in value terms.
+
+This is the fourth consecutive year that Commercial Bank has been the biggest lender to the country’s small and medium enterprises, which, according to the Ministry of Finance, contribute 52% of the country’s Gross Domestic Production (GDP), 45% of employment, and 20% of exports.
+
+...
+
+[Data](articles/254ed875.json)
+
+---
+
+### China-Sri Lanka exploring enhancement of trade and tourism
+
+*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/china-sri-lanka-exploring-enhancement-of-trade-and-tourism/) · `en`
+
+Sri Lanka and China concluded the 13th Round of Diplomatic consultations on 17 June 2024 in Beijing. The consultations were led by Secretary, Foreign Affairs of Sri Lanka, Aruni Wijewardane and Vice Minister of Foreign Affairs of the People’s Republic of China, Sun Weidong.
+
+The two sides reviewed bilateral cooperation in a wide range of areas including recent high-level visits, economic and trade enhancement, debt restructuring, people to people exchanges, tourism as well as recent developments in multilateral fora.
+
+The Foreign Secretary appreciated China’s assistance to Sri Lanka during challenging times, and in the context of the priority given by Sri Lanka to economic recovery and growth, identified potential avenues for further cooperation on green initiatives, agriculture modernization, renewable energy, food security, investment promotion as well as enhancement of trade, tourism and people to people contacts.
+
+...
+
+[Data](articles/514e1b9f.json)
+
+---
+
+### Export-oriented firm originating from Jaffna launches historic IPO
+
+*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/export-oriented-firm-originating-from-jaffna-launches-historic-ipo/) · `en`
+
+Also the first listing under USAID Private Sector Development Programme
+
+With the large number of companies listed on the Colombo Stock Exchange (CSE) across multiple sectors which are operating on different business models, deciding where to invest one’s money can be overwhelming.Most ‘growth investors’ determine a stock’s potential over the long run; nevertheless they want to catch the stock on an upswing instead of hoping for one in the future.
+
+In this context, the Initial Public Offering (IPO) by Maharaja Foods Ltd which will open on 4th July 2024 may be in alignment with the strategy of many first time investors as well as portfolio investors. It could be an opportunity for them to pursue growth by taking a path of less volatility and more predictability because it involves a food manufacturing business that is least affected by inflation.
+
+...
+
+[Data](articles/b6e4aa78.json)
+
+---
+
+### IBM to co-create tailored solutions to specific needs of SL market
+
+*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/ibm-to-co-create-tailored-solutions-to-specific-needs-of-sl-market/) · `en`
+
+Sandip Patel is the Managing Director for IBM India & South Asia region. He is responsible for all of IBM’s sales, marketing, services and delivery operations in the region, including Bangladesh, Nepal and Sri Lanka. He was in Sri Lanka recently to celebrate IBM’s 25-year-long partnership with Redington where he met with a significant number of key stakeholders of the industry in Sri Lanka.
+
+...
+
+[Data](articles/d802c867.json)
+
+---
+
+### Litro Gas reaffirms its commitment to food industry in Sri Lanka
+
+*2024-06-24 03:52:00* · [`islandlk`](http://island.lk/litro-gas-reaffirms-its-commitment-to-food-industry-in-sri-lanka/) · `en`
+
+Litro Gas Lanka continued its partnership with Chefs Guild Lanka (CGL) as a key sponsor of the 21st edition of the Culinary Art Food Expo 2024 (CAFE), which took place from June 7th to 9th at the Sirimavo Bandaranaike Memorial Exhibition Centre (SBMEC). This event proved to be an international sensation showcasing the pinnacle of culinary artistry and innovation.
+
+For the 21st consecutive year, Litro Gas Lanka, the largest importer and supplier of LP Gas in Sri Lanka, was honored to energize this grand culinary exhibition and trade show. Litro Gas was once again the official and exclusive LP Gas partner, ensuring a seamless energy supply to all 75 live cooking stations.
+
+CAFE 2024 featured a comprehensive showcase of food products and services, highlighting every aspect of culinary arts from food processing to consumption. The event is renowned for its culinary competitions, trade stalls, food festivals, cookery demonstrations, and cooking classes.
+
+...
+
+[Data](articles/e0076c6a.json)
+
+---
 
 ### UK to maintain LTTE terrorist status
 
@@ -2223,165 +2325,5 @@ Mr. President: Despite the crisis of the country, you accepted the country's res
 [Data](articles/4c57e8d0.json)
 
 [Extended Data](ext_articles/4c57e8d0.ext.json)
-
----
-
-### UK rejects appeal to lift ban on LTTE
-
-*2024-06-23 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100039/uk-rejects-appeal-to-lift-ban-on-ltte) · `en`
-
-The UK Proscribed Organisations Appeals Commission has rejected the appeal made by the Transitional Government of Tamil Eelam (TGTE) to lift the proscription on the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation in Britain.
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry stated that accordingly, the UK will continue to maintain the proscription on the LTTE.
-
-Taking to ‘X’ (formerly Twitter) to announce this, the Foreign Minister said that the UK proscribed organisation appeals commission, an independent court set up by parliament and headed by a high court judge and two retired senior diplomats, ruled against de-proscribing the LTTE.
-
-The Transnational Government of Tamil Eelam (“TGTE”) who support the creation of an independent Tamil state in north-east Sri Lanka appealed to the UK to lift its ban on the LTTE, he added.
-
-...
-
-[Data](articles/198e5073.json)
-
-[Extended Data](ext_articles/198e5073.ext.json)
-
----
-
-### UK's decision on LTTE ban
-
-*2024-06-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198052) · `si`
-
-UK decides to maintain LTTE ban after advice from its "Balancing Organization Commission," an independent judicial body.
-
-🟩
-
-Sri Lanka Foreign Minister Ali Sabri says the UK has decided to continue the LTTE ban on the LTTE ban.
-
-The UK "Balancing Organization Commission" has been ordered that the LTTE ban should not be lifted.
-
-The Commission headed by the High Court Judge is an independent judiciary established by Parliament.
-
-◼️
-
-[Data](articles/37642d77.json)
-
-[Extended Data](ext_articles/37642d77.ext.json)
-
----
-
-### A molevian and a woman arrested in pilgrimage
-
-*2024-06-23 11:05:16* · [`adalk`](https://www.ada.lk/breaking_news/මක්කම-වන්දනාවේ-ගිය--මවුලවිවරයෙකු-සහ-කාන්තාවක්-අත්-අඩංගුවට/11-410371) · `si`
-
-In Saudi Arabia, a Molevian man and a woman were arrested at the Bandaranaike International Airport while trying to leave for Sri Lanka on a pilgrimage. They are from Kalmunai, Batticaloa, aged 44 and 49 respectively. The arrest occurred on August 6th, and jewelry worth 859 grams was found in their luggage. This jewelry has been handed over to the Katunayake airport customs for further investigation. The arrests were made under the instruction of several high-ranking officials, including Eric Perera and Inspector General Chandana.
-
-🟩
-
-Saudi Arabia, a Molevian and a Molewoman, who was returning to Sri Lanka and a pilgrimage to Sri Lanka, the Katunayake airport police officers while attempting to leave the Bandaranaike International Airport.A group of people arrested for the 21st afternoon.
-
-They are residents of Kalmunai, Batticaloa, with this, 44, the Moulavia. The other woman is 49 years.
-
-They were 8.56 pm on August 06/2N.A.
-
-They had been arrested by a group of airport police officers while attending the arrival of all the investigations and leave the Bandaranaike International Airport.
-
-The Katunayake airport police had recovered a jewelery of the Katunayake Airport, including 859 grams of bags in their baggage.
-
-Steps have been taken to hand over the two jewelery to the Katunayake airport customs personnel for further investigations.
-
-...
-
-[Data](articles/68561b2b.json)
-
-[Extended Data](ext_articles/68561b2b.ext.json)
-
----
-
-### The President and the Justice Minister threaten the judiciary through their views - the lawyers organization
-
-*2024-06-23 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/186749) · `ta`
-
-The Attorneys' Organization of Sri Lanka criticized President Ranil Wickremesinghe and the Justice Minister for comments deemed threatening to the judiciary. The organization highlighted concerns over potential misuse of power in judicial appointments and expressed worry over the impact of political statements on the judiciary's independence and public trust in the democratic process.
-
-🟩
-
-The Attorneys' Organization of Sri Lanka's Attorney General said that the president and the Justice Minister recently issued their comments against the Supreme Court.
-
-The Lawyers Organization said that President Ranil Wickremesinghe's comments against the court's verdict on the laws and the judiciary were threatening the judiciary.
-
-The Attorneys' Organization said the President's Justice Minister and Education Minister were a complete representative of executive power.
-
-The Attorneys' Organization has said that the president is implementing the key government's power and responsibility to appoint judges to the High Court.
-
-The Sri Lanka Lawyers Organization has said that it is a clear abuse of power to make a sense of insidious comments on the judiciary of the Highway Office using the Parliamentary Privacy.
-
-The lawyers' organization, which has stated that creative criticism is the right forms of freedom of freedom of freedom of freedom, cannot be turned into a threat or intimidation.
-
-...
-
-[Data](articles/d32adb08.json)
-
-[Extended Data](ext_articles/d32adb08.ext.json)
-
----
-
-### A big change in the weather in the central hills
-
-*2024-06-23 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198051) · `si`
-
-Heavy rains and winds in the Central Hills disrupted the railway line between the upcountry and Galabada stations, requiring tree removal efforts to restore service.
-
-🟩
-
-According to our correspondent, we have been interrupted due to heavy rains with heavy rains in the Central Mountains yesterday (22).
-
-Due to heavy winds, the railway line between the upcountry railway line and the Galabada railway stations have been interrupted from the morning on the morning of the Upcountry Railway Line this morning.
-
-The work has been launched to cut down trees cut down the railway line.
-
-We came to the camera from the camera where the train from Nanu Oya to Colombo, which was sacked from Nanu Oya to Colombo until the trees were cut off.
-
-◼️
-
-[Data](articles/82e7cd8f.json)
-
-[Extended Data](ext_articles/82e7cd8f.ext.json)
-
----
-
-### Warning issued over strong winds and rough seas
-
-*2024-06-23 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100038/warning-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ advisory for the sea areas off the coasts extending from Trincomalee to Chilaw via Kankasanthurai and Puttalam and from Hambantota to Pottuvil.
-
-The advisory, issued at 07.00 a.m. this morning (23), will be effective for the next 24 hours until 07.00 a.m. on Monday (24).
-
-The sea areas off the coasts extending from Trincomalee to Chilaw via Kankasanthurai and Puttalam and from Hambantota to Pottuvil will be very rough at times with very strong gusty winds up to 60-65 kmph, it added.
-
-The sea areas off the coasts extending fromChilaw to Hambantota via Colombo and Galle will be rough at times with strong gusty winds up to 50-55 kmph.
-
-Meanwhile, the wave heights may increase about 2.0–2.5 m in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, according to the Met. Department.
-
-Thus, naval and fishing communities are requested to be attentive in this regard.
-
-◼️
-
-[Data](articles/bd803b2b.json)
-
-[Extended Data](ext_articles/bd803b2b.ext.json)
-
----
-
-### Ranasinghe Premadasa :Triumphs and Turmoil
-
-*2024-06-23 10:34:00* · [`islandlk`](http://island.lk/ranasinghe-premadasa-triumphs-and-turmoil/) · `en`
-
-This article marks Ranasinghe Premadasa’s 100th birth anniversary, reflecting on his impactful legacy as a leader of Sri Lanka.
-
-...
-
-[Data](articles/0a298416.json)
-
-[Extended Data](ext_articles/0a298416.ext.json)
 
 ---

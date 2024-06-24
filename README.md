@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 18:25:29**
+As of **2024-06-24 18:36:36**
 
 ## Newspaper Stats
 
-*Scraped **31,917** Articles*
+*Scraped **31,921** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 294
 dbsjeyarajcom | 295
-bbccomsinhala | 314
+bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
 adalk | 2,803
 adaderanalk | 3,630
-tamilmirrorlk | 3,760
+tamilmirrorlk | 3,762
 dailymirrorlk | 4,733
 virakesarilk | 4,944
 adaderanasinhalalk | 5,228
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,228
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,915 (100.0%) of 31,917 articles have been extended.
+31,917 (100.0%) of 31,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### சிறுமி பலாத்காரம்: 35 வருடம் சிறைத்தண்டனை
+
+*2024-06-24 17:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பலாத்காரம்-35-வருடம்-சிறைத்தண்டனை/175-339345) · `ta`
+
+16 வயது சிறுமியை பாலியல் பலாத்காரம் செய்ததாக குற்றம் சாட்டப்பட்ட ஒருவருக்கு 35 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+மொரட்டுவ, லக்ஷபதி, கன்னகர மாவத்தையைச் சேர்ந்த 38 வயதுடைய நபருக்கே இவ்வாறு தண்டனை விதிக்கப்பட்டுள்ளது. பாணந்துறை மேல் நீதிமன்ற நீதிபதி  சமன் குமார, திங்கட்கிழமை (24) தீர்ப்பளித்தார்.
+
+2021 ஜனவரி முதல் மார்ச் வரை 16 வயது சிறுமியை பலாத்காரம் செய்த குற்றச்சாட்டில் குற்றம் சாட்டப்பட்டவர் கொழும்பு சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோக தடுப்பு பணியகத்தால் கைது செய்யப்பட்டு மூன்று குற்றச்சாட்டுகளின் கீழ் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதை அடுத்து, சட்டமா அதிபர், மேல் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்தார்.
+
+◼️
+
+[Data](articles/d083e00e.json)
+
+---
 
 ### A confidential statement from Birajith Ukkala
 
@@ -53,6 +69,20 @@ It is reported that further statements will be taken tomorrow (24).
 [Data](articles/718a78f6.json)
 
 [Extended Data](ext_articles/718a78f6.ext.json)
+
+---
+
+### பல்கலைக்கழகங்களுக்கு விசேட பாதுகாப்பு
+
+*2024-06-24 17:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களுக்கு-விசேட-பாதுகாப்பு/175-339344) · `ta`
+
+அரச பல்கலைக்கழக விரிவுரையாளர்கள், மாணவர்கள் மற்றும் கல்விசாரா ஊழியர்களின் பாதுகாப்பு மற்றும் பொதுச் சொத்துக்களைப் பாதுகாப்பதற்காக விசேட பாதுகாப்பு நடவடிக்கைகளை உறுதிப்படுத்துமாறு பொது பாதுகாப்பு அமைச்சின் செயலாளரிடம் கல்வி அமைச்சு கோரிக்கை விடுத்துள்ளது.
+
+கல்வியமைச்சர் சுசில் பிரேமஜயந்தவின் பணிப்புரைக்கு அமைய கல்வி அமைச்சின் செயலாளர் ஜே.எம்.திலகா ஜயசுந்தர அரச பல்கலைக்கழக அமைப்பின் பாதுகாப்பை உறுதிப்படுத்துமாறு கோரி கடிதமொன்றை, திங்கட்கிழமை (24) அனுப்பிவைத்துள்ளார்.
+
+◼️
+
+[Data](articles/6c3242af.json)
 
 ---
 
@@ -192,17 +222,27 @@ Meanwhile, a small increase in non-food category inflation recorded at 2.3% in A
 
 ---
 
-### කලාවැවේ පිටවානේ කර ඇති විනාශයක්
+### A disaster that has been exited art
 
 *2024-06-24 16:59:03* · [`adalk`](https://www.ada.lk/breaking_news/කලාවැවේ-පිටවානේ-කර-ඇති-විනාශයක්/11-410402) · `si`
 
-කළාවැවේ පිට වාන අභියස ඇති කළු ගල කැනීම් සිදු කර එහි තිබූ නිධානයක් කිසියම් පිරිසක් විසින් ලබා ගෙන ඇති  බවට යන සිද්ධියේ ඇත්ත නැත්ත සම්බන්ධයෙන් සොයා බැලීම සඳහා කළාවැව යටතේ වගා කටයු සිදු කරන මහවැලි එච් කළාපයේ ගොවි සංවිධාන නියෝජිතයින් පිරිසක් අද(24) අදාළ ස්ථානය නිරීක්ෂණය කර ඊට සම්බන්ධ පිරිසට දඩුවම් කරන ලෙස ඉල්ලා කළාවැව් බැම්ම මත පිහිටි කඩවර දේවාලයේදී පොල් ගසා දේව කන්නලව්වක්ද සිදු කරනු ලැබීය.
+Farmer groups in Sri Lanka's Mahaweli H Zone inspected ancient sites, including the coconut grove sacred to King Dhatusena's era. They found evidence of illegal activities, prompting a call for legal action against those damaging national heritage.
 
-ක්‍රිස්තු වර්ෂ පස්වන ශතවර්ශයේ රජකම් කළ ධාතුසේන රජ විසින් කළාවැව ඉදි කරන බව ඉතාහසයේ සඳහන් වේ, කළාවැවේ ඉදිකිරීම් වලින් අනතුරුව රජු විසින් ඊට ආසන්නයේම බළලු වැව නමින් තවත් වැවක්ද ඉදි කර එම වැව් දෙක එක් කිරීමෙන් ශ්‍රී ලංකාවේ විශාලතම වැව ඉදි කර ඇත. කළාවැව උතුරු මැද පළාතේ, අනුරාධපුර දිස්ත්‍රික්කයේ ඇති පුරාණම ජලාශයකි.සිගිරිය තම රාජධානිය කර ගත් කාශ්‍යප රජු තම පියා වන ධාතුසේන රජතුමන්ගෙන් වස්තුව ඉල්ලා සිටි අවස්ථාවකදී, කළාවැව තමාගේ එකම වස්තුව බව ධාතුසේන රජු පැවසූ විට, ධාතුසේන රජු කළාවැව් බැම්මට තබා පස් ගසා  ඝාතනය කළ බව ඉතිහාසයේ සඳහන් වේ.
+🟩
+
+A group of farmer organizations representatives in the Mahaweli H Zone of the Kaluwawewa area have been tracked today (24)The coconut kills of the Kaduwara Devalaya, which demanded the link, was also conducted in the Kaduwara Devale.
+
+King Dhatusena, who reigned in the fifth century CE, the king has built the two tanks in Sri Lanka after the construction of two tanks after the construction of the crobe.. The ancient reservoir in the Anuradhapura district, Kawwawewa, claimed that King Dhatusena had told the king of King Dhatusena when he had asked King Dhatusena.Is.
+
+Sacred to a restorative capacity of Kawwawewa area of ​​Rs. 54 miles from the Tisa Wewa.has.
+
+A large number of farmer leaders were conducting an inspection of Mahaweli H Zones, which have been nosed by the Paranawa area of ​​the old Kavuwewa.
 
 ...
 
 [Data](articles/1c1b01c7.json)
+
+[Extended Data](ext_articles/1c1b01c7.ext.json)
 
 ---
 
@@ -1430,23 +1470,47 @@ According to the IMF agreement, by the end of 2022, foreign loans were $ 42 bill
 
 ---
 
-### අර්බුද හමුවේ පලායන නායකයන්ගෙන් රටට සෙතක් නෑ
+### The leaders of the fleeing will not benefit from the fleeing leaders
 
 *2024-06-24 12:30:14* · [`adalk`](https://www.ada.lk/breaking_news/අර්බුද-හමුවේ-පලායන-නායකයන්ගෙන්-රටට-සෙතක්-නෑ/11-410395) · `si`
 
-රටක අර්බුද හමුවේ පලා යන නායකයන්ගෙන් රටට සෙතක් වනු ඇතැයි බලාපොරොත්තු විය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe criticized leaders who abandon their country during crises, emphasizing the importance of leadership in addressing national issues. He highlighted his efforts to stabilize the economy and improve public servant allowances despite challenging circumstances.
 
-මෙරට අරාජික වූ අවස්ථාවේ තමන් රටේ නායකත්වය භාර නොගත්තානම් අද රටේ තත්වය ගැන සිතා ගත නොහැකි බව ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කලේ මඩකලපුව මහා නගර සභා ශ්‍රවනාගාරයේ පැවැති මඩකලපුව දිස්ත්‍රික් එක්සත් ජාතික පක්ෂ නියෝජිත හමුවට එක්වෙමිනි.
+President Ranil Wickremesinghe said that he could not expect the country from the leaders who flee the crisis in a country.
 
-මඩකලපුව ප්‍රදේශයේ දේශපාලන හා පොදු සංවිධානවල බොහෝ දෙනෙක් හමුවීමට මට අවස්ථාව ලැබුණා. අද රට තිබෙන්නේ බොහොම අමාරු අවස්ථාවකයි. පසුගිය පාලන සමයේදී මම පැහැදිලිවම කිව්වා මේ රටේ ආර්ථිකය ඉදිරියට ගෙනයාමට නම් අඩුම තරමින් ඩොලර් මිලියන තුනක සංචිතයක් පවත්වා ගත යුතු බව.
+The President pointed out that if the anarchy of the country is not the leading leader of the country, the situation in the country cannot be considered.
 
-කිසිදු දේශපාලන පක්ෂයක් ඒ බව ප්‍රකාශ කළේ නැහැ. සමගි ජන බලවේගය, ජනතා විමුක්ති පෙරමුණ ඒ සම්බන්ධව කුමක්ද ප්‍රකාශ කළේ? මේවා අපි තනිවම රටට කිව්ව නිසා ජනතාව හිතුවේ අප අසත්‍ය ප්‍රචාර ගෙන යනවා කියලා. කුමන දේශපාලන මත දැරුවත් රටේ අනාගතය වෙනුවෙන් අපි සත්‍ය ප්‍රකාශ කළ යුතුයි. දේශපාලනයේදී අපි සැම විටම ඇත්ත කතා කළ යුතුයි.
+President Ranil Wickremesinghe was speaking at the UNP Representatives of Batticaloa District Party (UNP) at the Batticaloa Municipal Council Auditorium.
+
+I had the opportunity to meet many political and public organizations in Batticaloa. Today is a difficult situation. In the past reign, I clearly said that if the economy of this country should be carried forward at least three million dollars.
+
+No political party said that. Samagi-forthcoming power, what did the JVP say?People thought that we were leaving false propaganda because we told the country alone. We must declare the truth for the future of the country. In politics, we should always speak the truth.
 
 ...
 
 [Data](articles/f92b7568.json)
+
+[Extended Data](ext_articles/f92b7568.ext.json)
+
+---
+
+### වාහන ආනයනය : 'අලුතෙන්  පටන් අරන් තියෙනවා පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයනය කරන ක්‍රම'
+
+*2024-06-24 12:28:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggg710z7no) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''අපි කියන ක්‍රමයට දුන්නොත් ඩොලර් ඉතුරුයි. බදු ලැබෙනවා. හොඳ වාහනයකුත් ලැබෙනවා.''
+
+වාහන ආනයනය : 'අලුතෙන්  පටන් අරන් තියෙනවා පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයනය කරන ක්‍රම'
+
+වාහන ආනයන සීමා ඉවත් කිරීමේ හැකියාව තිබුණ ද පුද්ගලික ලාභය වෙනුවෙන් වාහන ආනයන යෝජනා ක්‍රම දියත් ඉරීමේ උත්සහයක් දක්නට ලැබෙන බව ශ්‍රී ලංකා වාහන ආනයනයකරුවන්ගේ සංගමයේ ලේකම් අරෝෂ් රුද්‍රිගු අද (ජුනි 24) කොළඹ පැවති මාධ්‍ය හමුවක දී පැවසුවේය.
+
+සංචාරක ක්ෂේත්‍රයට වාහන 1000ක් ගෙන්වීමට ලබා දී ඇති කැබිනට් අනුමැතිය ගැන මෙන්ම රජයට බදු අදායම අහිමිවන ලෙස සමාගමකට දී ඇති බව කියන බදු සහන පිළිබඳව මේ මාධ්‍ය හමුවේ දී අදහස් පළ විය.
+
+◼️
+
+[Data](articles/1a67d262.json)
 
 ---
 
@@ -1627,6 +1691,30 @@ The police then compromised the boy and warned the mother and sent the boy to Co
 [Data](articles/3ad5a94a.json)
 
 [Extended Data](ext_articles/3ad5a94a.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ආහාර මිල පාලනය කරන්න 'සක්කරයටවත්' බැරි ද?
+
+*2024-06-24 11:47:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn000e2nm45o) · `si`
+
+කොළඹ පමණක් නොව රටේ ප්‍රධාන නගර ආශ්‍රිතව ජීවත් වන බොහෝ දෙනෙකු තම දෛනික ආහාර අවශ්‍යතාව සපුරා ගැනීමට යොමු වන්නේ ‘කඩ කෑම’ වෙත ය.
+
+ඒ, බොහෝ විට ඔවුන්ට තම ආහාර සකසා ගැනීමට පහසුකම් නොමැති වීම හේතුවෙනි.
+
+එබැවින් තම මාසික වේතනයෙන් වැඩි කොටසක් ඔවුන්ට ආහාර සඳහා වැය කිරීමට සිදුව ඇත. එම පිරිවැය සාමාන්‍යයෙන් නිවසක ආහාර වේලක් සකස් කර ගැනීමේ පිරිවැයට සාපේක්ෂව ඉහළ බව ඔවුන්ගේ අදහසයි.
+
+නමුත් වසර කිහිපයක සිට රට තුළ නිර්මාණය වී ඇති අර්බුදකාරී තත්ත්වය හේතුවෙන් තම ආහාර අවශ්‍යතාව සඳහා වැය කරන මුදල දරාගත නොහැකි තත්ත්වයකට පත්ව ඇතැයි ඔවුහු පවසති.
+
+ඔවුන් පෙන්වා දෙන්නේ, පාරිභෝගිකයින් ලෙස වැඩි මුදලක් වැය කළ ද ගුණාත්මක සහ ප්‍රමාණවත් ආහාර වේලක් සපයා ගැනීම අසීරු කාර්යයක් වී ඇති බව ය.
+
+රටේ ආර්ථිකය ප්‍රකෘතිමත් කිරීමේ අරමුණින් රජය විවිධ පියවර ගත්ත ද ඔවුන්ගේ ජීවන අර්බුදය සඳහා මෙතෙක් දැනෙන පිළිතුරක් ලැබී නොමැති බවට ඔවුහු මැසිවිලි නගති.
+
+ඔවුන් පෙන්වා දෙන්නේ, ‘කඩ කෑම’ අධික මිල ගණන් යටතේ අලෙවි වීම හේතුවෙන් ‘මූලික අවශ්‍යතාවක් ලෙස ආහාර ගැනීමට ඇති තම අයිතිය පවා අහිමි වී ගොස් ඇති’ බව ය.
+
+...
+
+[Data](articles/b046729b.json)
 
 ---
 
@@ -2263,95 +2351,5 @@ Ranjithmathupandara has said that Rajitha Senaratne has not severely criticized 
 [Data](articles/16c3aa50.json)
 
 [Extended Data](ext_articles/16c3aa50.ext.json)
-
----
-
-### I took over the country to build the economy of the country
-
-*2024-06-24 09:59:20* · [`adalk`](https://www.ada.lk/picture_story/මම-රට-භාරගත්තේ-රටේ-ආර්ථිකය-අලුතින්-ගොඩනැගීමටයි/10-410390) · `si`
-
-President Ranil Wickremesinghe inaugurated a peanut processing center in Tarakiyanaru, costing Rs. 55 million, as part of the agro-Navinna program. He also gifted laptops to agricultural organizations and visited a pomegranate farm benefiting 300 farmers. Highlighting the importance of modernizing agriculture, he emphasized the potential for exporting crops to earn foreign exchange, reduce reliance on loans, and improve farmers' incomes through technological advancements.
-
-🟩
-
-President Ranil Wickremesinghe said that he was taken over by President Ranil Wickremesinghe that the lives of the country was translated into a new transformation.
-
-The President made this observation by opening the peanut processing center built in Tarakiyanaru at a cost of Rs. 55 million under the agro-Navinna program implemented by the Ministry of Agriculture.
-
-The President who opened the Peanut Processing Center cut the ribbon and the President also observed its arrangements.
-
-The President also offered laptop computers for Agricultural organizations in the event.
-
-Meanwhile, President Ranil Wickremesinghe visited the Delam farm in Mylampaveli Chenkaladi today.
-
-The pomegranation is run in a 150 acres of land, and 300 farmers will benefit from around 300 farmers. These peasants have been able to harvest around Rs. 36 lakhs of Rs.
-
-President Ranil Wickremesinghe further said, "President Ranil Wickremesinghe said:
-
-...
-
-[Data](articles/6b752ad9.json)
-
-[Extended Data](ext_articles/6b752ad9.ext.json)
-
----
-
-### Another State Minister
-
-*2024-06-24 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198082) · `si`
-
-Sathasivam Dickrang, MP, has been appointed as the Minister of Trade and Environment. The announcement was made by President Ranil Wickremesinghe at the Presidential Secretariat.
-
-🟩
-
-MP Sathasivam Dickrang has been sworn in as the Minister of Trade and Environment.
-
-President Ranil Wickremesinghe at the Presidential Secretariat, he announced this.
-
-◼️
-
-[Data](articles/c73b55be.json)
-
-[Extended Data](ext_articles/c73b55be.ext.json)
-
----
-
-### New State Minister sworn in
-
-*2024-06-24 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100058/new-state-minister-sworn-in) · `en`
-
-MP Sathasivam Viyalendiran was sworn in as the State Minister of Trade and Environment before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago, the President’s Media Division (PMD) said.
-
-◼️
-
-[Data](articles/e4e8153f.json)
-
-[Extended Data](ext_articles/e4e8153f.ext.json)
-
----
-
-### Fishermen in Tamil Nadu condemning the Sri Lankan government
-
-*2024-06-24 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186797) · `ta`
-
-Rameshwaram fishermen in Tamil Nadu staged a one-day strike against the Sri Lankan government for arresting 22 of their colleagues for cross-border fishing. This protest led to over 800 fishermen staying ashore and more than 5,000 losing their jobs. The strike was a response to the detention of five fishermen, including Suresh Babu, Kalidas, Rubin, Kannan, and Nagaraj, by the Sri Lankan navy near Nedundi Island.
-
-🟩
-
-Rameshwaram fishermen are engaged in a one -day strike in Tamil Nadu today (24), condemning the Sri Lankan government for the arrest of 22 fishermen for fishing across the border and urging the Indian Central State Governments to take immediate action to release the fishermen.
-
-Due to this strike by the fishermen, more than 800 fishermen have been shut down on the shore without going to sea and more than 5 thousand fishermen have lost their jobs.
-
-More than 5 thousand fishermen from the Rameswaram fishing harbor in Ramanathapuram district went to fishing in 507 fishing boats last Saturday.
-
-Suresh Babu, Kalidas, Rubin, Kannan and Nagaraj, who were owned by Justin, Raimant and Kinen, were arrested by the Sri Lankan navy who were fishing in the area on Sunday morning while fishing in the Nedundi Island sea.They were imprisoned.
-
-Following this, the leaders of the Rameswaram All Fisheries Association held an emergency consultation meeting at the Rameswaram port yesterday.
-
-...
-
-[Data](articles/4179bac1.json)
-
-[Extended Data](ext_articles/4179bac1.ext.json)
 
 ---

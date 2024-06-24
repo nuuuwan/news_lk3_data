@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 10:19:30**
+As of **2024-06-24 10:34:48**
 
 ## Newspaper Stats
 
-*Scraped **31,808** Articles*
+*Scraped **31,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,54 @@ economynextcom | 1,830
 dailyftlk | 1,942
 adalk | 2,788
 adaderanalk | 3,612
-tamilmirrorlk | 3,741
+tamilmirrorlk | 3,742
 dailymirrorlk | 4,733
 virakesarilk | 4,925
-adaderanasinhalalk | 5,207
+adaderanasinhalalk | 5,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,804 (100.0%) of 31,808 articles have been extended.
+31,808 (100.0%) of 31,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### තවත් රාජ්‍ය අමාත්‍යවරයෙක්
+### නගරයක් මැද නාඳුනන මළ සිරුරක්
+
+*2024-06-24 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198083) · `si`
+
+මාතර පොලිස් වසමේ මැද්දවත්ත ප්‍රදේශයේ බැංකුවක් ඉදිරිපිට තිබී නාඳුනන පුද්ගලයෙකුගේ මළසිරුරක්  හමුවී තිබේ.
+
+පොලීසියට ලද පණිවිඩයක් අනුව ඊයේ(23) උදෑසන මෙම මළසිරුර සොයා ගෙන ඇත.
+
+මියගිය පුද්ගලයා උස අඩි 05 අඟල් 04ක් පමණ වන සිහින් සිරුරක් සහිත තළෙළු පුද්ගලයෙක් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/8f04bde6.json)
+
+---
+
+### Another State Minister
 
 *2024-06-24 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198082) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී සතාසිවම් වියාලේන්ද්‍රන් මහතා වෙළෙඳ හා පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස මීට සුළු මොහොතකට පෙර දිවුරුම් දී තිබේ.
+Sathasivam Dickrang, MP, has been appointed as the Minister of Trade and Environment. The announcement was made by President Ranil Wickremesinghe at the Presidential Secretariat.
 
-ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේදී ඒ මහතා මෙලෙස දිවුරුම් දුන් බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+🟩
+
+MP Sathasivam Dickrang has been sworn in as the Minister of Trade and Environment.
+
+President Ranil Wickremesinghe at the Presidential Secretariat, he announced this.
 
 ◼️
 
 [Data](articles/c73b55be.json)
+
+[Extended Data](ext_articles/c73b55be.ext.json)
 
 ---
 
@@ -55,6 +77,8 @@ MP Sathasivam Viyalendiran was sworn in as the State Minister of Trade and Envir
 ◼️
 
 [Data](articles/e4e8153f.json)
+
+[Extended Data](ext_articles/e4e8153f.ext.json)
 
 ---
 
@@ -687,6 +711,26 @@ The President joined the films with the younger ones who attended the meeting af
 [Data](articles/35c6f66b.json)
 
 [Extended Data](ext_articles/35c6f66b.ext.json)
+
+---
+
+### ’சவால்களைக் கண்டு தப்பியோட வேண்டாம்’
+
+*2024-06-24 01:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சவால்களைக்-கண்டு-தப்பியோட-வேண்டாம்/150-339303) · `ta`
+
+எதிர்கால சந்ததியினர் சிறந்த கல்வியைப் பெற்றுக்கொண்டு கொள்கைகளுக்கு மதிபளிக்க வேண்டும் எனவும் சவால்களை கண்டு ஒருபோதும் தப்பியோட கூடாது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நாட்டில் வெற்றிகரமான தலைமைத்தும், தலைசிறந்த அரசியல்வாதி என்ற வகையில் ஜனாதிபதி கொண்டிருக்கும் அனுபவங்களுக்கமைய எதிர்கால சந்ததியினருக்கு வழங்கும் அறிவுரை யாதென மட்டக்களப்பு மாவட்ட இளையோருடனான சந்திப்பில் எழுப்பட்ட கேள்விக்கு பதிலளித்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+மட்டக்களப்பு”கோல்டன் ரிவர்” ஹோட்டலில் நேற்று முன்தினம் நடை்பெற்ற இளையோர் அணி சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனை தெரிவித்தார்.
+
+இந்தச் சந்திப்பில் பெருமளவான இளைஞர், யுவதிகள் கலந்துகொண்டிருந்ததோடு, அவர்களின் கேள்விகளுக்கு ஜனாதிபதி சாதகமான பதில்களை வழங்கினார்.
+
+இந்த சந்திப்பின் பின்னர் இந்த சந்திப்பில் கலந்துகொண்ட இளையோருடன் ஜனாதிபதி படங்களிலும் இணைந்துகொண்டார். (a)
+
+◼️
+
+[Data](articles/6b97bbc0.json)
 
 ---
 
@@ -1434,19 +1478,25 @@ Former MP Ajith P. Mr. Perera said:
 
 ---
 
-### 2023දී ලංකාවට ඩොලර් මිලියන 2120ක් ණය හා ආධාර ලෙස ලැබිලා
+### In 2023, US $ 2120 million is owned by loans and assistance
 
 *2024-06-23 18:09:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවට-ඩොලර්-මිලියන-2120ක්-ණය-හා-ආධාර-ලෙස-ලැබිලා/11-410384) · `si`
 
-2023 වසරේ ජනවාරි 8 වෙනිදා සිට දෙසැම්බර් 31 දක්වා වර්ෂයේ කාල සීමාවේදී රජයට බැරවි ඇති විදේශීය ණය සහ ආධාර ප්‍රමාණය ඩොලර් මිලියන 2.120ක් බව විදේශ සම්පත් දෙපාර්තමේන්තුව විසින් ඉදිරිපත් කර ඇති වාර්තාවක් මගින් ජුනි මස 20 වන දින අනාවරණය වී ඇති බව පේරාදෙණිය විශ්වවිද්‍යාලයේ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සමග 2024/06/22 දින කරන ලද විමසුමකින් අනාවරණය කරන ලදී.
+In 2023, the US government disclosed that it received $2.12 billion in foreign loans and aid from January to December. This included $728 million from the IMF and $90.6 million from five European countries, among others. The government also made payments totaling $2.16 billion to foreign countries and multilateral institutions.
 
-මෙහිදී ජාත්‍යන්තර මූල්‍ය අරමුදල මගින්ඩොලර් මිලියන 728ක්ද, ආසියානු සංවර්ධන බැංකුව මගින් ඩොලර් මිලියන 550ක්ද, දෙවැනි ඒකාබද්ධ මාර්ග ආයෝජන වැඩසටහන යටතේ ඩොලර් මිලියන 550ක්ද, දෙවැනි ඒකාබද්ධ මාර්ග ආයෝජන වැඩසටහන යටතේ ඩොලර් මිලියන 60ක්ද, ලෝක බැංකුවෙන් ඩොලර් මිලියන 692ක්ද, රජයේ විදේශීය ණය ලෙස ලැබී ඇත.
+🟩
 
-තවද ජපානය, දකුණු කොරියාව, ඇමරිකාව ඇතුළු යුරෝපීය රටවල් 5කින් ඩොලර් මිලියන 90.6ක පමණ ආධාර ලැබී ඇත. මේ අනුව විදේශ රටවලින්රජයට ලැබී ඇති ණය සහ ආධාර ප්‍රමාණය ඩොලර් බිලියන 2.1ක් වන අතර, අදාළ වසර තුළදී බහුපාර්ශ්වීය ආයතන සඳහා රජය විසින් ණය ආපසු ගෙවීම් යටතේ ඩොලර් බිලියන 2.16ක් විදේශීය රටවලට ගෙවා ඇති බව මහාචාර්ය චන්දන අතුකෝරාල මහතා මෙහිදී අනාවරණය කරන ලදී.
+The government has uncovered foreign loans and assistance from January 8 to December 31, a report filed by the Government, the Department of External Affairs was US $ 2.120 million.Disclosed with a prompt by 2024/06/22.
+
+The International Monetary Fund (IMF) has received 728 million and US $ 550 million, US $ 692 million, US $ 692 million, USD 692 million.
+
+In addition, about $ 90.6 million in 5 European countries, including Japan, South Korea, America. Accordingly, the loans and assistance received by the foreign country have received $ 2.1 billion and the government has paid $ 2.16 billion in foreign countries for multilateral institutions in the year.
 
 ◼️
 
 [Data](articles/2d1abcb6.json)
+
+[Extended Data](ext_articles/2d1abcb6.ext.json)
 
 ---
 
@@ -2237,51 +2287,5 @@ Moreover, they are ready to help Little Raviu's future.
 [Data](articles/21b57330.json)
 
 [Extended Data](ext_articles/21b57330.ext.json)
-
----
-
-### Trump says foreigners who graduate from US colleges should get green cards
-
-*2024-06-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100044/trump-says-foreigners-who-graduate-from-us-colleges-should-get-green-cards) · `en`
-
-Republican presidential candidate Donald Trump in a podcast released on Thursday said that students graduating from U.S. colleges should get a green card to stay in the country, a proposal that runs counter to his hardline immigration stance.
-
-During the All-In podcast hosted by Silicon Valley tech investors, angel investor Jason Calacanis told Trump that the U.S. needs to be able to legally retain more high-skilled workers, a major issue for the tech industry.
-
-“Can you please promise us you will give us more ability to import the best and brightest around the world to America?” Calacanis said.
-
-“I do promise,” Trump said. “But I happen to agree, otherwise I wouldn’t promise... You graduate from a college, I think you should get automatically as part of your diploma a green card to be able to stay in this country and that includes junior colleges too.”
-
-...
-
-[Data](articles/ba900daa.json)
-
-[Extended Data](ext_articles/ba900daa.ext.json)
-
----
-
-### Confession to the man who trampled money
-
-*2024-06-23 12:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-காலால்-மிதித்தவரிடம்-வாக்குமூலம்/175-339280) · `ta`
-
-Vamadeva Tyjendran, leader of the martyrdom company, was called to Jaffna Police Station regarding allegations of mishandling 5,000 rupees intended for the needy. The incident occurred during a charity event for a leader's daughter's birthday, where Tyjendran allegedly kept the money instead of distributing it. This led to public outrage, prompting a police investigation.
-
-🟩
-
-The leader of the martyrdom company Vamadeva Tyjendran was summoned to the Jaffna Police Station on Saturday (22) in connection with the incident of putting down five thousand rupees of sheets.
-
-On the occasion of the birthday of the daughter of the head of the martyrdom, he gave relief to the poor people in front of her trust office at Naval Road, Jaffna.
-
-At the same time, a large number of people expressed fierce protests, saying that the people who were expected to get relief did not come and take a large amount of 5000 rupees in his pocket and trample on their feet.
-
-In this case, the police have received a confession that Tyjendran has been summoned to the Jaffna Police Station as the police have launched a high -level investigation into the incident.
-
-Further, the next step will be taken on the basis of the police, police said.
-
-◼️
-
-[Data](articles/6e9f6877.json)
-
-[Extended Data](ext_articles/6e9f6877.ext.json)
 
 ---

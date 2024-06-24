@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 03:34:46**
+As of **2024-06-25 03:53:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,978 (100.0%) of 31,979 articles have been extended.
+31,979 (100.0%) of 31,979 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -248,23 +248,31 @@ MP Dayasiri Jayasekara commented on the President’s plan to declare Sri Lanka 
 
 ---
 
-### குருந்தூர்மலை, வெடுக்குநாறியில்  ’சைவர்கள் வழிபடலாம்’
+### Kurundurmalai, Vedukkunni
 
 *2024-06-25 00:53:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருந்தூர்மலை-வெடுக்குநாறியில்-சைவர்கள்-வழிபடலாம்/175-339366) · `ta`
 
-குருந்தூர்மலை, வெடுக்குநாறி  சிவன் ஆலயங்களில் சைவ மக்கள் சுதந்திரமாக வழிபாடு செய்யலாம் என புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க  இந்து அமைப்புக்களின் தலைவர்களிடம் தெரிவித்துள்ளார்.
+Vidura Wickramanayake, Buddha Sasana's Religious and Cultural Affairs Minister, assured Hindu leaders during a visit to Jaffna that Saivas could freely worship in Shiva temples at Kurundurmalai and Vetturmalai. The meeting highlighted requests for vegetarian worship spaces and the removal of shops near Tirukonamalai and Tirukoneswaram temples. The Minister promised to address concerns about land ownership and alternative arrangements for shop removals.
 
-யாழ்ப்பாணத்துக்கு விஜயம் செய்த புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க, இந்து மதத் தலைவர்களைச் சந்தித்து கலந்துரையாடியுள்ளார்.
+🟩
 
-நல்லை ஆதீன குருமுதல்வர் தலைமையில் நல்லை ஆதீனத்தில் ஞாயிற்றுக்கிழமை (23) இடம்பெற்ற இச்சந்திப்பில் இந்து மக்கள் எதிர்நோக்கும் பல்வேறு பிரச்சனைகள் தொடர்பாக கலந்துரையாடப்பட்டது என கலாநிதி ஆருதிருமுருகன் தெரிவித்தார்.
+Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake has told the leaders of the Hindu organizations that the Saiva people can freely worship the Shiva temples in Kurundurmalai and Vetturmalai.
 
-குருந்தூர்மலை, வெடுக்குநாறி  சிவன் ஆலயங்களில் சைவ மக்கள் சுதந்திரமாக வழிபாடு செய்ய ஏற்பாடு செய்ய வேண்டும் என வேண்டுகோள் விடப்பட்டது.
+Buddha Sasana, Minister of Religious and Cultural Affairs Vidura Wickramanayake, who visited Jaffna, met with Hindu leaders.
 
-மேலும் திருக்கோணமலை மற்றும் திருக்கோணேஸ்வரம் ஆலயம் அருகே உள்ள பாதையின் இருமருங்குகளிலும் அமைக்கப்பட்டு இருக்கின்ற பெட்டிக் கடைகளை அப்புறப்படுத்தி புனித தலத்தின் மேன்மையைப் பேண வழிசெய்ய வேண்டும் என்று எடுத்துரைக்கப்பட்டது.
+Dr. Arudirumurugan said that the meeting was held on Sunday (23) under the leadership of Nallai Adheen Kurumudalwar.
+
+It was requested that the vegetarians be worshiped independently in the Shiva temples of Kurundurmalai.
+
+It was also stated that the box shops set up on both the roads near the Tirukonamalai and Tirukoneswaram temple should be dismantled and maintained the superiority of the holy place.
+
+The place where the Kankesan Department Talsevan Hotel is located is the land of the Saivamas and the land has not been released and the minister has been asked to arrange for it to be released immediately.
 
 ...
 
 [Data](articles/38708c86.json)
+
+[Extended Data](ext_articles/38708c86.ext.json)
 
 ---
 

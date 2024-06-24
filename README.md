@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 17:55:53**
+As of **2024-06-24 18:14:00**
 
 ## Newspaper Stats
 
-*Scraped **31,913** Articles*
+*Scraped **31,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,630
 tamilmirrorlk | 3,760
 dailymirrorlk | 4,733
 virakesarilk | 4,944
-adaderanasinhalalk | 5,226
+adaderanasinhalalk | 5,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,909 (100.0%) of 31,913 articles have been extended.
+31,913 (100.0%) of 31,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
+
+### විරංජිත් තාඹුගල ගෙන් රහසිගත ප්‍රකාශයක්
+
+*2024-06-24 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198104) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් තමන්ට එරෙහිව සිදු කරන විමර්ශනවලට අදාළව ව්‍යාපාරික විරංජිත් තාඹුගල මහතා විසින්  කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ රහසිගත ප්‍රකාශයක් ලබාදී තිබේ.
+
+කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා පතිරාජ මහත්මිය හමුවේ මෙම ප්‍රකාශය ලබාදී ඇත.
+
+ඒ අනුව තාඹුගල මහතා විසින් පැය දෙකහමාරකට ආසන්න කාලයක් මෙම ප්‍රකාශය ලබාදී තිබෙන බව වාර්තා විය.
+
+වැඩිදුර ප්‍රකාශ හෙට (24) දිනයේ සිදු කිරීමට නියමිත බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/718a78f6.json)
+
+---
+
+### සචිත්‍ර සේනානායකගේ නිවසට හොරු පනී
+
+*2024-06-24 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198103) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ජාතික කණ්ඩායමේ හිටපු ක්‍රීඩක සචිත්‍ර සේනානායකගේ කලල්ගොඩ පිහිටි නිවස හොරු බිඳ තිබේ.
+
+සචිත්‍ර සේනානායක පැවසුවේ පසුගිය 21 වනදා රාත්‍රියේ තම නිවස හොරු බිඳ ඇති බවය.
+
+එම අවස්ථාවේ නිවසේ කිසිවෙකුත් සිට නොමැති අතර නිවසේ දොරවල් දෙකක් ද කඩා ඇති අතර ජනේලයක් බිඳ නිවසට ඇතුළු වී තිබෙන බව ඔහු පවසයි.
+
+නිවසේ තිබුණු මුදල්, අත්ඔරලෝසු, පළඳනා, පරිගණයක්, ටැබ් දෙකක් ඇතුළු භාණ්ඩ සොරා ගෙන ඇති බවට ද සචිත්‍ර සේනානායක සඳහන් කරයි.
+
+එමෙන්ම සීසීටිවී කැමරා සම්බන්ධ කර තිබූ DVR  යන්ත්‍රයද ගලවාගෙන ගොස් ඇති බව පැවසීය.
+
+සිද්ධිය සම්බන්ධයෙන් තලංගම පොලීසියේ අපරාධ විමර්ශන ඒකකය විසින් විමර්ශන කටයුතු සිදුකරයි.
+
+◼️
+
+[Data](articles/a4664601.json)
+
+---
 
 ### Princess Anne in hospital after being injured by a horse
 
@@ -56,6 +96,8 @@ During the recent D-Day commemorations Princess Anne met veterans and their fami
 
 [Data](articles/9245ff75.json)
 
+[Extended Data](ext_articles/9245ff75.ext.json)
+
 ---
 
 ### 4kg of ‘Ice’ found inside parcel sent from Pakistan
@@ -72,19 +114,27 @@ The street value of the haul of drugs is estimated to be around Rs. 400 million,
 
 [Data](articles/dbbfe7ed.json)
 
+[Extended Data](ext_articles/dbbfe7ed.ext.json)
+
 ---
 
-### මධ්‍යම තැපැල් හුවමාරුවේ අයිස් මත්ද්‍රව්‍ය තොගයක්
+### A stock of ice drugs on the central mail transfer
 
 *2024-06-24 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198102) · `si`
 
-පාකිස්තානයේ සිට මෙරටට එවා තිබූ පාර්සලයක තිබී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 4ක් සොයාගෙන තිබේ.
+In a major bust, 4kg of ice drugs valued at 400 million rupees were intercepted from Pakistan to Sri Lanka via the Central Mail Transfer.
 
-මධ්‍යම තැපැල් හුවමාරුවේදී මෙම සැකසහිත පාර්සලය හමුවී තිබූ අතර එහි වටිනාකම රුපියල් මිලියන 400ක් බවද වාර්තා වෙයි.
+🟩
+
+4 kilograms of ice drugs were found in Pakistan to Sri Lanka.
+
+The suspicious parcel was found in the Central Mail transfer and is worth 400 million rupees.
 
 ◼️
 
 [Data](articles/0aa43f92.json)
+
+[Extended Data](ext_articles/0aa43f92.ext.json)
 
 ---
 
@@ -103,6 +153,8 @@ The Sri Lanka CERT reports that these types of crimes have been increasing recen
 ...
 
 [Data](articles/1b51a7f4.json)
+
+[Extended Data](ext_articles/1b51a7f4.ext.json)
 
 ---
 
@@ -2301,39 +2353,5 @@ However, despite these developments, the Ministry of Education had issued a stat
 [Data](articles/70483491.json)
 
 [Extended Data](ext_articles/70483491.ext.json)
-
----
-
-### Another Controversy Surrounding The Tender For The Construction Of The New Terminal Building At The BIA
-
-*2024-06-24 09:35:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/another-controversy-surrounding-the-tender-for-the-construction-of-the-new-terminal-building-at-the-bia/) · `en`
-
-...
-
-[Data](articles/8c045719.json)
-
-[Extended Data](ext_articles/8c045719.ext.json)
-
----
-
-### Scotland twenty
-
-*2024-06-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198081) · `si`
-
-Scotland missed out on the Euro 2020 tournament after losing to Hungary, despite a close match where Kevin Sobooth scored for Hungary.
-
-🟩
-
-Scotland failed to enter the 16th of the European Cup Football Tournament.
-
-They were due to the defeat of 1 match with Hungary.
-
-The match between Scotland and Hungary, the match was a warm flavor, and Kevin Sobooth recorded the triumph of the match for Hungary.
-
-◼️
-
-[Data](articles/c656ed78.json)
-
-[Extended Data](ext_articles/c656ed78.ext.json)
 
 ---

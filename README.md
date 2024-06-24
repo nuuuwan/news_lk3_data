@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 22:34:42**
+As of **2024-06-24 22:52:34**
 
 ## Newspaper Stats
 
-*Scraped **31,939** Articles*
+*Scraped **31,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,808
-adaderanalk | 3,632
+adalk | 2,809
+adaderanalk | 3,633
 tamilmirrorlk | 3,765
 dailymirrorlk | 4,733
 virakesarilk | 4,944
@@ -26,33 +26,51 @@ adaderanasinhalalk | 5,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,936 (100.0%) of 31,939 articles have been extended.
+31,939 (100.0%) of 31,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### හෙට සහ අනිද්දා තවත් වෘත්තීය ක්‍රියාමාර්ගයක්
+### Sri Lanka hosts UNDP’s strategic steering committee meeting on trilateral cooperation project
+
+*2024-06-24 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100078/sri-lanka-hosts-undps-strategic-steering-committee-meeting-on-trilateral-cooperation-project) · `en`
+
+The Strategic Steering Committee meeting and summary workshop of the Biogas, Biomass and Solar South-south and Trilateral Cooperation Project was successfully held in Colombo, Sri Lanka from 12-14 June with the participation of 30 key stakeholders from the Strategic Steering Committee Board, with thematic focus on presenting the project’s results and achievements, alongside an independent evaluation to assess lessons learned and provide recommendations for ensuring the project’s continued sustainability.
+
+...
+
+[Data](articles/42563f20.json)
+
+---
+
+### Another trade union action tomorrow and tomorrow
 
 *2024-06-24 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198113) · `si`
 
-තම වැටුප් විෂමතා මුල්කරගනිමින් රජයේ විධායක නිලධාරින් හෙට (25) සහ අනිද්දා (26) අසනීප නිවාඩු වාර්තා කර වෘත්තීය ක්‍රියාමාර්ගයකට එළඹීමට තීරණය කර තිබේ.
+Trade unions across various sectors in Sri Lanka, including education and healthcare, are planning widespread protests and sick leaves due to unresolved salary issues. The government executives have also decided to take sick leave to highlight these anomalies. Protests are scheduled in Colombo and other provinces, with non-academic staff from universities and schools leading the charge. Despite efforts to resolve the issues, including discussions between ministries, the situation remains tense, affecting services like ayurvedic treatments.
 
-එමෙන්ම හෙට කොළඹදී උද්ඝෝෂණයක් පැවැත්වීමටද කටයුතු සුදානම් කර ඇති බව රජයේ විධායක නිලධාරින්ගේ ඒකාබද්ධ කමිටුව සඳහන් කරයි.
+🟩
 
-එසේම එළඹෙන 26 වනදා ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානයද අසනීප නිවාඩු වාර්තා කර වෘත්තීය ක්‍රියාමාර්ගයකට එළැඹෙන බව අද පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී සඳහන් කළේය.
+Government executives have decided to report sick leave tomorrow (25) and tomorrow (26) based on their salary anomalies.
 
-මේ අතර වැටුප් විෂමතා ගැටලුවලට කඩිනමින් විසඳුම් ලබා දෙන ලෙස බලකරමින් අද ක්ෂේත්‍ර කිහිපයක වෘත්තිය සමිති වෘත්තිය ක්‍රියාමාර්ග ආරම්භ කළේය.
+The Joint Committee of Government Executives states that steps will be taken to hold a protest in Colombo tomorrow.
 
-මොරටුව සහ රජරට විශ්වවිද්‍යාලවල අනධ්‍යයන සේවකයින් අද සත්‍යග්‍රහයක් ඇරඹූ අතර පාසල් අනධ්‍යයන සේවකයින් අසනීප නිවාඩු වාර්තා කර සේවයෙන් ඉවත්ව සිටී.
+At a press conference, the Guru Pupathi Alliance (Gum Gumuru Principal) and the trade union alliance has been reported to a trade union leave.
 
-අධ්‍යාපන අනධ්‍යයන සේවාවට ජාතික ප්‍රතිපත්තියක් සකස් කරන ලෙස ඉල්ලා පාසල්, ගුරු විද්‍යාල සහ විද්‍යා පීඨවල අනධ්‍යයන සේවකයින් අසනීප නිවාඩු වාර්තා කරමින් අද සිට දෙදින වෘත්තිය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
+Meanwhile, several trade unions have commenced the professional measures of several sectors today demanding immediate solutions to the problems of pay anomalies.
 
-ඒ අනුව මධ්‍යම, උතුරු මැද සහ දකුණු පළාත් කේන්ද්‍ර කරගනිමින් අද විරෝධතා පැවැත්වුණි.
+The non-academic workers of Moratuwa and Rajarata universities began today and school academic workers are reported to have dismissed sick leave.
+
+The non-academic workers of schools, teacher colleges and science faculty have commenced a two-day trade union action to prepare a national policy to the educational service.
+
+Accordingly, the protests were held today and the central, North Central and Southern provinces.
 
 ...
 
 [Data](articles/ae617f5f.json)
+
+[Extended Data](ext_articles/ae617f5f.ext.json)
 
 ---
 
@@ -70,27 +88,35 @@ Representatives for the bondholders and the government were not immediately avai
 
 [Data](articles/a589c30c.json)
 
+[Extended Data](ext_articles/a589c30c.ext.json)
+
 ---
 
-### தாய் கொடுமை ; யாழ். பொலிஸில் தஞ்சமடைந்த கொழும்பு சிறுவன்
+### Mother cruelty;Yall. Colombo boy who sought refuge in police
 
 *2024-06-24 22:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-கொடுமை-யாழ்-பொலிஸில்-தஞ்சமடைந்த-கொழும்பு-சிறுவன்/175-339362) · `ta`
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் வந்த சிறுவன் ஒருவன், தனது தாய் மற்றும் தாயின் இரண்டாவது கணவர் ஆகியோர் தன்னை அடித்து சித்திரவதை புரிவதாக கூறி யாழ்ப்பாண பொலிஸ் நிலையத்தில் தஞ்சமடைந்திருந்தான்.
+A boy from North India, seeking refuge in a Jaffna police station after alleging abuse by his mother and stepfather in Colombo, was actually from there himself. He worked in a Gasino and stayed with a local family. Planning to move to Mannar and then to India, he mistakenly went to Jaffna instead of Mannar. Unable to find shelter, he approached the police. His mother, contacted in Jaffna, agreed to return with him to Colombo, where the police mediated and ensured their safe journey back.
 
-சிறுவன் தொடர்பில் விசாரணைகளை முன்னெடுத்த போது , சிறுவன் வடஇந்தியாவை சேர்ந்தவன் எனவும் , அவனது தாய் கொழும்பில் கஸீனோவில் வேலை செய்வதாகவும் , இங்கு இலங்கையை சேர்ந்த நபருடன் தங்கி இருப்பதும் தெரிய வந்துள்ளது.
+🟩
 
-அதேவேளை , சிறுவன் மன்னார் சென்று அங்கிருந்து கடல் வழியாக இந்தியா செல்வதற்கு திட்டமிட்டு , கொழும்பில் இருந்து வெளியேறி மன்னார் பேருந்தில் ஏறுவதற்கு பதிலாக யாழ்ப்பாணம் செல்லும் பேருந்தில் ஏறியமையால், யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+A boy from Colombo, a boy from Colombo, had taken refuge at the Jaffna police station claiming that his mother and mother's second husband were beaten torture.
 
-யாழ்ப்பாணம் வந்த சிறுவனுக்கு எங்கே செல்வது என தெரியாததால் , பொலிஸ் நிலையத்தில் தஞ்சமடைந்துள்ளான்.
+When investigating the boy, it was revealed that the boy was from North India, his mother was working in Gasino in Colombo and staying with a Sri Lankan person here.
 
-சிறுவனின் தாயை பொலிஸார் யாழ்ப்பாணம் அழைத்து விசாரணை செய்த வேளை சிறுவன் செய்யும் தவறுகளுக்கு தான் சிறுவனை தண்டிப்பதாக கூறியுள்ளார்.
+Meanwhile, the boy is planning to go to Mannar and then travel to India by sea, leaving Colombo and boarding a bus to Jaffna instead of boarding the Mannar bus.
 
-அதனை அடுத்து சிறுவனை சமரசப்படுத்தி, தாயாரையும் எச்சரித்த பொலிஸார் , சிறுவனை தாயாருடன் கொழும்புக்கு அனுப்பி வைத்துள்ளனர். R
+The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
+
+When the boy's mother was called in Jaffna, he said that he would punish the boy for the mistakes of the boy.
+
+The police then compromised the boy and warned the mother and sent the boy to Colombo with the mother.. Remble
 
 ◼️
 
 [Data](articles/02777bfa.json)
+
+[Extended Data](ext_articles/02777bfa.ext.json)
 
 ---
 
@@ -323,6 +349,18 @@ Furthermore, Fernando revealed a number of government initiatives intended to at
 [Data](articles/2a8376bd.json)
 
 [Extended Data](ext_articles/2a8376bd.ext.json)
+
+---
+
+### විශ්වවිද්‍යාල ආරක්ෂාවට පොලීසිය කැඳවයි
+
+*2024-06-24 18:55:22* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාල-ආරක්ෂාවට-පොලීසිය-කැඳවයි/11-410408) · `si`
+
+රාජ්‍ය විශ්වවිද්‍යාල කාර්යමණ්ඩලවල හා සිසුන්ගේ ආරක්ෂාව සඳහා විශ්වවිද්‍යාල අවට ප්‍රදේශවලට පොලිස් ආරක්ෂාව යෙදවීමට පියවර ගෙන ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/fe1ec842.json)
 
 ---
 
@@ -2343,55 +2381,5 @@ The next night, when Sasitra and her family returned home, the electricity was c
 [Data](articles/f175173d.json)
 
 [Extended Data](ext_articles/f175173d.ext.json)
-
----
-
-### Case against former President Sirisena fixed for ex parte trial
-
-*2024-06-24 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100060/case-against-former-president-sirisena-fixed-for-ex-parte-trial) · `en`
-
-The Colombo District Court has ordered for a case against former President Maithripala Sirisena to be heard ex parte.
-
-This order was issued when the case related to the injunction issued preventing the former President from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) was taken up this morning (24).
-
-However, this decision was reached as former President Maithripala Sirisena did not appear for the court proceedings.
-
-The case has been filed by Montague Sarathchandra, an executive committee member of the SLFP.
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-However, the former President resigned from the post of Chairman of the SLFP on May 12, following which the faction of the SLFP led by Sirisena appointed Justice Minister Wijeyadasa Rajapakshe as the new Chairman of the party.
-
-◼️
-
-[Data](articles/47a0c075.json)
-
-[Extended Data](ext_articles/47a0c075.ext.json)
-
----
-
-### The device that comes to the remedy of epilepsy
-
-*2024-06-24 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198085) · `si`
-
-An experimental device implanted in the head of an English patient with severe epilepsy allows doctors to communicate directly with the patient's brain, potentially improving quality of life. This marks a significant step forward in treating "Lennox-Gastaut Syndrome," a form of treatment-resistant epilepsy. The patient, who began experiencing symptoms around three years old, now sees improved outcomes thanks to this innovative technology.
-
-🟩
-
-In England, an experimental was to control the condition by installing a new device to the head of an acute epilepsy.
-
-The first epileptic patient in the world is the world's first epilepsy.
-
-The doctors say that the patient's brain can send e-messages in the innermost number of patient by the device.
-
-The mother of the child said that his child's life has been better than better.
-
-"Lennox-Gastaut Syndrome" is in the treatment-resistant epilepsy. He had first manipulated the disease around three years of age.
-
-◼️
-
-[Data](articles/dc4a78e8.json)
-
-[Extended Data](ext_articles/dc4a78e8.ext.json)
 
 ---

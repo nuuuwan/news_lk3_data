@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 01:19:27**
+As of **2024-06-25 01:34:52**
 
 ## Newspaper Stats
 
-*Scraped **31,963** Articles*
+*Scraped **31,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,845
-dailyftlk | 1,951
+dailyftlk | 1,953
 adalk | 2,810
 adaderanalk | 3,633
-tamilmirrorlk | 3,766
+tamilmirrorlk | 3,767
 dailymirrorlk | 4,733
 virakesarilk | 4,949
 adaderanasinhalalk | 5,238
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,958 (100.0%) of 31,963 articles have been extended.
+31,963 (100.0%) of 31,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Marikkar challenges President’s bankruptcy recovery claims
+
+*2024-06-25 00:56:31* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-challenges-President-s-bankruptcy-recovery-claims/56-763423) · `en`
+
+SJB MP S.M. Marikkar says President Ranil Wickremesinghe cannot declare SL free from bankruptcy
+
+Stresses credit rating agencies say SL remains in state of selective default or default, contradicting any claims of recovery
+
+Accuses Wickremesinghe of attempting to stage performance by declaring SL is free from bankruptcy to sway undecided voters
+
+Warns repercussions of current borrowing will be felt within next two to three years, not in 2048
+
+(SJB) MP S.M. Marikkar yesterday said President Ranil Wickremesinghe cannot declare Sri Lanka free from bankruptcy, asserting that such an announcement should come from international credit rating agencies instead.
+
+Addressing a press conference in Colombo, Marikkar highlighted that President Wickremesinghe plans to declare this week that he has rescued Sri Lanka from bankruptcy.
+
+...
+
+[Data](articles/f14742c8.json)
+
+---
+
+### Dayasiri claims Sajith leading Presidential opinion polls
+
+*2024-06-25 00:54:33* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-claims-Sajith-leading-Presidential-opinion-polls/56-763422) · `en`
+
+Humane People’s Alliance leader MP Dayasiri Jayasekara asserted in a press conference yesterday that Opposition leader Sajith Premadasa is currently leading in public opinion polls for the upcoming Presidential election.
+
+According to Jayasekara, National People’s Power (NPP) leader Anura Kumar Dissanayake follows in second place, with current President Ranil Wickremesinghe trailing in third.
+
+MP Dayasiri Jayasekara commented on the President’s plan to declare Sri Lanka free from bankruptcy on 27 June, emphasising that such an announcement should be made by international credit rating agencies. He pointed out that Sri Lanka remains in a crisis, grappling with both old and new debts, while sovereign bond holders have been reluctant to agree to the government’s proposed debt reduction percentages. “Reports indicate they are only willing to reduce the debt by 10%,” he added.
+
+...
+
+[Data](articles/29e25281.json)
+
+---
 
 ### Harin affirms no delay in Presidential Elections
 
@@ -126,6 +164,24 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 
 ---
 
+### 8,000 அடுக்குமாடிகளுக்கு அறுதி உறுதிப் பத்திரங்கள்
+
+*2024-06-25 00:07:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-000-அடுக்குமாடிகளுக்கு-அறுதி-உறுதிப்-பத்திரங்கள்/175-339364) · `ta`
+
+கொழும்பு அடுக்குமாடி குடியிருப்பாளர்களுக்கு உரிமைப் பத்திரம் வழங்கும் அரசாங்கத்தின் வேலைத்திட்டத்தின் கீழ், நகர அபிவிருத்தி அதிகார சபையின் கீழ் உள்ள 8,000 அடுக்குமாடி குடியிருப்புகளுக்கு அறுதி உறுதிப் பத்திரங்களை அடுத்த மாதம் வழங்குவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இது தவிர தேசிய வீடமைப்பு அபிவிருத்தி அதிகாரசபை 1,070 உறுதிப் பத்திரங்களை வழங்கவும் திட்டமிட்டுள்ளது.
+
+கடந்த வரவு- செலவுத் திட்டத்தில் கொழும்பு அடுக்குமாடி குடியிருப்பு உரிமையாளர்கள் 50,000 பேருக்கு வீட்டு உரிமைப் பத்திரங்கள் வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார். அதன்படி இந்த உரிமைப் பத்திரங்கள் வழங்கப்படுகின்றன.
+
+நகர அபிவிருத்தி அதிகார சபையினால் வழங்கப்பட்ட 22 குடியிருப்பு வீடுகளில் 14,559 வீடுகள் குறைந்த வருமானம் பெறும் மக்களுக்கு வழங்கப்பட்டுள்ளதாக நகர அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/a0cabfaa.json)
+
+---
+
 ### 2024-06-24 (Monday)
 
 ### Tamils ​​in Kalmunai
@@ -194,6 +250,8 @@ We were invited to Sri Lanka between 9-11 June 2024, where we participated in co
 
 [Data](articles/12a0bafa.json)
 
+[Extended Data](ext_articles/12a0bafa.ext.json)
+
 ---
 
 ### Request for immediate publishing of National Socio-economic Recovery Program of party for social discourse
@@ -207,6 +265,8 @@ With elections, possibly the Presidential election first, followed by a parliame
 ...
 
 [Data](articles/59d75eff.json)
+
+[Extended Data](ext_articles/59d75eff.ext.json)
 
 ---
 
@@ -224,6 +284,8 @@ Currently, Sri Lanka does not have an imputed rental income tax. Under the new p
 
 [Data](articles/854dab36.json)
 
+[Extended Data](ext_articles/854dab36.ext.json)
+
 ---
 
 ### Price or quality: Is NMRA barking up the wrong tree?
@@ -239,6 +301,8 @@ I was prescribed a cream called Fusidic acid and the doctor, being a friend, wro
 ...
 
 [Data](articles/bcc66efd.json)
+
+[Extended Data](ext_articles/bcc66efd.ext.json)
 
 ---
 
@@ -636,21 +700,27 @@ The Australia received the advantage of the match was first decided to boast.
 
 ---
 
-### රු. කෝටි 20ක අයිස් අල්ලයි
+### Rs. 20 crores in ice
 
 *2024-06-24 19:30:38* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-20ක-අයිස්-අල්ලයි/11-410410) · `si`
 
-කොළඹ මධ්‍යම තැපැල් කාර්‍යාලයට ලැබී තිබුණු පාර්සලයක තිබූ රුපියල් මිලියන දෙසීයක පමණ වෙළෙඳ පොළ වටිනාකමකින් යුත් අයිස් නමැති මත්ද්‍රව්‍ය තොගයක් අත් අඩංගුවට ගත් බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+Colombo Central Post Office seized 4 kg of drugs worth Rs. 20 crores. The arrest occurred during an inspection, leading to the detention of several suspects involved in the case.
 
-පකිස්තානයේ සිට කොළඹ මොදර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු වෙත ත්‍යාග පාර්සලයක් ලෙස එවා තිබූ පාර්සලයක් පිළිබඳව සැක සිතී අද (24දා) සවස මෙම පාර්සලය පරීක්ෂාවට ලක් කර තිබේ.
+🟩
 
-මේ අනුව අදාළ පාර්සලයේ තිබී අයිස් නැමැති මත්ද්‍රව්‍ය කිලෝ  හතරයි ග්‍රෑම් 847 ක්  සොයාගෙන තිබෙන අතර, පාර්සලය රැගෙන යාමට පැමිණි මෝදර ප්‍රදේශයේ පුද්ගලයාද අත්අඩංගුවට ගත් බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Colombo Central Post Office has arrested a stock of ice with a market value of a market value of a parcel at the Colombo Central Post Office.
 
-ඉන් පසුව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මෙම සිද්ධිය සම්බන්ධ තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබෙන අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය වැඩි දුර විමර්ශන සිදුකරයි.
+The parcel has been inspected today (24) evening today (24).
+
+According to the Customs, the number of four kilos of drugs in the relevant parcel was arrested and was arrested in Modara, who had come to take the parcel.
+
+Thereafter, two other suspects have been arrested by the Police Narcotics Bureau and two other suspects involved in the incident have been arrested.
 
 ◼️
 
 [Data](articles/28171e60.json)
+
+[Extended Data](ext_articles/28171e60.ext.json)
 
 ---
 
@@ -2229,75 +2299,5 @@ The woman's anatomical examination has been carried out at the Jaffna Bodhana Ho
 [Data](articles/e3102b39.json)
 
 [Extended Data](ext_articles/e3102b39.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-24 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186828) · `ta`
-
-On June 24, the US dollar sold for 300.5658 and bought back for 309.8847 according to the Central Bank's rates.
-
-🟩
-
-The US dollar sales price was 300.5658 and the purchase price was Rs 309.8847 based on the Central Bank's currency exchange rate on Monday (June 24).
-
-◼️
-
-[Data](articles/85e573ba.json)
-
-[Extended Data](ext_articles/85e573ba.ext.json)
-
----
-
-### The home has set fire on Posonless MPs
-
-*2024-06-24 13:23:40* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-තොරන්-නරඹා-එද්දි--නිවසම-ගිනිබත්-වෙලා/11-410398) · `si`
-
-A tragic fire engulfed a house in Beruwala on July 23, killing MDK Kasun Kumara, his wife Dilmi Madurangi, and their four-year-old child. The blaze, suspected to have started near a Buddha statue known for daily oil lamps, also destroyed their belongings and a small bicycle. Neighbors reported the fire during the Poson Festival celebrations, highlighting the devastating impact of the tragedy.
-
-🟩
-
-The house has been completely burning in a house yesterday (23), a residential in Beruwala yesterday (23).
-
-MDK Kasun Kumara, his wife, Dilmi Madurangi and four-and a half years old, has been burning.
-
-It is said that the house is burning at the vicinity of the Poson Festival, Beruwala and surrounding areas with neighbors.
-
-Fire has found their clothes, housewives, housewives and small son, and a small bicycle filled with fun.
-
-It is said that the Buddha is a habit of blowing daily and suspicions that it may have spread.
-
-Donations will not be able to focus on the focus of the burden of the fire from the birth certificate since the birth certificate. 076 5788178888
-
-◼️
-
-[Data](articles/0a7a9658.json)
-
-[Extended Data](ext_articles/0a7a9658.ext.json)
-
----
-
-### Please bring me to Sri Lanka before the Buddha is killed
-
-*2024-06-24 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/අනේ-බුදු-බව-අත්වෙයි-මාව-මරාගන්න-කලින්-ලංකාවට-ගෙන්වා-ගන්න/11-410397) · `si`
-
-A woman from Sri Lanka, employed as a domestic worker in Saudi Arabia, faces abuse and exploitation. She cries out for help, urging someone to take her back to Sri Lanka before she is killed. Despite lodging complaints with the police, her situation worsens, highlighting the plight of migrant workers abroad.
-
-🟩
-
-"I have to do my wimbula and bread me in a room and eat me in a room and eat me for three days.. I didn't even pay the house with this house. I was lodged a complaint at the police, but there is a boy who complains with me every day, but it doesn't matter.
-
-One of these house is the police work. That's the police person to go back home and get to Sri Lanka before I will kill Sri Lanka to go to Sri Lanka. "The Vasabha Shiromi, a mother of two, said Mrs. Shiromi, weeping.
-
-On October 28, 2022 departed to the Saudi domestic work on the Kurunegala area on October 28, 2022, a permanent house and children to earn education.
-
-"I don't pay these households,. Later, he lodged a complaint monthly. Currently, I have nobody to eat, drink, drink, drink, to eat and drink in Saudi Arabia.. All the men and women of the girls have to work all work.
-
-...
-
-[Data](articles/de74329e.json)
-
-[Extended Data](ext_articles/de74329e.ext.json)
 
 ---

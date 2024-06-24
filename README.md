@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-24 18:54:13**
+As of **2024-06-24 19:05:29**
 
 ## Newspaper Stats
 
-*Scraped **31,922** Articles*
+*Scraped **31,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,770
 economynextcom | 1,841
 dailyftlk | 1,942
-adalk | 2,803
+adalk | 2,804
 adaderanalk | 3,630
 tamilmirrorlk | 3,762
 dailymirrorlk | 4,733
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,921 (100.0%) of 31,922 articles have been extended.
+31,922 (100.0%) of 31,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-24 (Monday)
 
-### 16 හැවිරිදි දැරියක් දූෂණය කළාට ලැබුණු දඬුවම
+### The punishment of a 16-year-old girl was raped
 
 *2024-06-24 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198105) · `si`
 
-අවුරුදු 16ක දැරියක් දූෂණයට ලක්කළ බව කියන සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ලවූ  පුද්ගලයෙකුට වසර 30ක සිරදඬුවම් නියම කර තිබේ.
+A 38-year-old man from Moratuwa was sentenced to 30 years in jail by the Panadura High Court for raping a 16-year-old girl between January and March 2021. The judge also ordered him to pay Rs 500,000 in compensation, threatening additional imprisonment if unpaid.
 
-පානදුර මහාධිකරණ විනිසුරු සමන් කුමාර මහතා විසින් අද (24) ඔහුට එම සිරදඬුවම් නියම කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+🟩
 
-මොරටුව, ලක්ෂපතිය, කනගරත්න මාවත ප්‍රදේශයේ පදිංචි රජීව රවිනාත් ජයතිලක නමැති 38 හැවිරිදි  පුද්ගලයෙකුට මෙසේ දඬුවම් නියම කෙරිණි.
+30 years of jail has been sentenced to a person accused of rape of a 16 year old girl.
 
-විත්තිකරු 2021 ජනවාරි සහ මාර්තු මාස අතරතුර කාලය තුළ 16 හැවිරිදි දැරියක දූෂණය කිරීම සම්බන්ධයෙන් කොළඹ ළමා හා කාන්තා අපයෝජන නිවාරණ කාර්යාංශය විසින් අත්අඩංගුවට ගෙන චෝදනා තුනක් යටතේ අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු නීතිපතිවරයා විසින් මහාධිකරණය හමුවේ නඩු පවරා තිබුණි.
+The Panadura High Court Judge Saman Kumara has sentenced him today (24), Ada Derana reporter said.
 
-එකී චෝදනා තුනෙන් එක් චෝදනාවකට එම සැකකරු නිදොස් කොට නිදහස් කර ඇති අතර, චෝදනා දෙකකට වරදකරු කර තිබේ.
+Ravinath Jayatilleke, a 38-year-old man, a 38-year-old resident of Moratuwa, Moratuwa, Moratuwa.
 
-එකී සිරදඬුවමට අමතරව විත්තිකරුට රුපියල් 50,000 දඩ මුදලක්ද වින්දිත දැරිය වෙත රුපියල් 500,000ක වන්දියක් ගෙවන ලෙසත් මහාධිකරණ විනිසුරුවරයා නියෝග කර ඇත.
+The Attorney General had filed a case before the Colombo Children's and Women's Abuse Prevention Bureau over the raping of a 16-year-old girl during the period of January and March 2021.
 
-එම දඩ මුදල නොගෙවන්නේ නම් මාස හයක ලිහිල් වැඩ සහිත සිරදඬුවමක්ද, වන්දි මුදල නොගෙවන්නේ නම් මාස 18ක ලිහිල් වැඩ සහිත සිරදඬුවමක්ද නියම කර තිබේ.
+The suspect has been acquitted of the allegations of these three charges and has been convicted to two charges.
+
+The High Court Judge has ordered the accused to pay Rs 500,000 to the victim.
+
+If you do not pay the fine, a six-month-to-one-month-to-date prison is prescribed if he does not pay compensation.
+
+The suspected be held on two years of suspicion to suspend the accused to the accused to the defendant another sexual abuse.
+
+The High Court Judge was ordered to pay 15 years of prison in two years.
 
 ...
 
 [Data](articles/632eac1d.json)
+
+[Extended Data](ext_articles/632eac1d.ext.json)
 
 ---
 
@@ -99,6 +109,24 @@ It is reported that further statements will be taken tomorrow (24).
 [Data](articles/718a78f6.json)
 
 [Extended Data](ext_articles/718a78f6.ext.json)
+
+---
+
+### ක්‍රිකට් කණ්ඩායම වැරදි නම් හරීන් ඉල්ලා අස්වෙනවලු
+
+*2024-06-24 17:47:02* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-වැරදි-නම්-හරීන්-ඉල්ලා-අස්වෙනවලු/9-410403) · `si`
+
+2024 T 20  ලෝක කුසලානය ක්‍රිකට් තරඟාවලිය සඳහා පිටත්ව ගිය ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම විනය විරෝධී කටයුතු සිදු කර ඇති බවට එල්ල කරන චෝදනා ඔප්පු කළහොත්   තමා අමාත්‍ය  ධූරයෙන් ඉල්ලා අස්වන බව සංචාරක හා ඉඩම් සහ ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා ප්‍රකාශ කළේය .
+
+ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සුභසාධනය සඳහා විශාල වැය බරක් දැරීමට රජය කටයුතු කර ඇති බවත් එහිදී ජාත්‍යන්තර මට්ටමේ පරිසාධනය සපුරා ඇති ක්‍රීඩක ක්‍රීඩිකාවන් 60ක් තෝරාගෙන ඔවුන්ට මසකට රුපියල් 50,000 බැගින් ද, තවත්  තෝරා ගත්  ක්‍රීඩක ක්‍රීඩිකාවන් 850ක් සඳහා  මාසයකට රුපියල් 10,000බැගින් වන  දීමනාවක් ලබාදීමට කටයුතු කර ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+සංචාරක හා ඉඩම් සහ ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා මේ බව සඳහන් කර සිටියේ ” ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (24) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+
+පාසල් රග්බි ක්‍රීඩකයන් ආරක්ෂා කර ගැනීම වෙනුවෙන් ඔවුන් වෙත රක්ෂණ ආවරණයක් පිරිනැමීමට ද  රජය කටයුතු කර තිබෙන බවද  හරින් ප්‍රනාන්දු අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/805b4ba0.json)
 
 ---
 
@@ -2351,27 +2379,5 @@ Rajitha Senaratne said that I am not engaged in any talks with the government.
 [Data](articles/e0a76d1e.json)
 
 [Extended Data](ext_articles/e0a76d1e.ext.json)
-
----
-
-### Sri Lanka’s Nation Lanka Finance delays private placement
-
-*2024-06-24 10:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-nation-lanka-finance-delays-private-placement-169186/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Nation Lanka Finance Plc said it was delaying a sale of its shares to pre-selected individuals due to various circumstances; and that the postponement was leading to an erosion of capital.
-
-“The continuous erosion of capital resulting from the delay has required further negotiations for additional capital to meet the minimum capital requirement from a strategic investor with the concurrence the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
-
-There was no finality or certainty on the conclusion of these discussions, the finance company said.
-
-“We are unable to make a further definitive statement in relation to the way forward with regard to the private placement of shares.”
-
-The company said a disclosure will be made when discussions result in ‘some form of definitive arrangement’.
-
-...
-
-[Data](articles/def98b78.json)
-
-[Extended Data](ext_articles/def98b78.ext.json)
 
 ---

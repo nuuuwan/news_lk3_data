@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 11:35:06**
+As of **2024-06-25 11:54:33**
 
 ## Newspaper Stats
 
-*Scraped **32,042** Articles*
+*Scraped **32,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 316
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
-dailyftlk | 1,963
+dailyftlk | 1,964
 adalk | 2,816
 adaderanalk | 3,640
 tamilmirrorlk | 3,778
@@ -26,67 +26,87 @@ adaderanasinhalalk | 5,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,039 (100.0%) of 32,042 articles have been extended.
+32,042 (100.0%) of 32,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### பெண் ஒருவரால் பேய் வீட்டில் பிசாசுகள் ஆட்டம்
+### Devils play in the ghost house by a woman
 
 *2024-06-25 11:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவரால்-பேய்-வீட்டில்-பிசாசுகள்-ஆட்டம்/175-339386) · `ta`
 
-பொசன் போயா தினத்தன்று நாட்டின் பல பிரதேசங்களிலும் தானசாலைகள் அமைக்கப்பட்டிருந்தன. அத்துடன் பேய் வீடுகளும் நிர்மாணிக்கப்பட்டிருந்தன. ஆங்காங்கே ​தோரணங்களும் அலங்கரிக்கப்பட்டிருந்தன.
+During Poson Poya Days, a ghost house was constructed in the Navagamuwa area, where a woman unknowingly found her husband's corpse. Believing it was a ghost, she attacked him along with her companion, leading to a brawl. Twelve individuals were arrested but later released on bail.
 
-இவ்வாறு, நவகமுவ பிரதேசத்தில் பேய் வீடு நிர்மாணிக்கப்பட்டிருந்தது. அங்கு பெண்ணொருவர், மற்றுமொரு நபருடன் சென்றிருந்துள்ளார். எனினும், அங்கிருந்த சவப்பெட்டியில் படுத்திருந்தவர், தன்னுடைய கணவர் என்று அப்பெண்ணுக்கு தெரியாது.
+🟩
 
-எனினும், மற்றுமொரு நபருடன் வந்திருக்கும் பெண், தன்னுடைய மனைவி என்பதை அறிந்துகொண்ட சவப்பெட்டியில் படுத்திருந்த நபர், மனைவியுடன் வந்திருந்த நபரையும் அப்பெண்ணையும் (மனைவியையும்)  தாக்கியுள்ளார். எனினும், பேய்தான் நண்பனையும் அவரது காதலியையும் தாக்குவதாக ஊகித்த சக நண்பர்கள், அந்த பேயை அடித்துள்ளனர்.
+Poson Poya Days were set up in many parts of the country. As well as ghost houses were constructed. The postures were decorated.
 
-இதனால், நவகமுவ பேய் வீடு அல்லோலகல்லோலப்பட்டது. அதன்பின்னர், மோதல்களில் ஈடுபட்டனர் என்றக் குற்றச்சாட்டின் 12 பேர் கைது செய்யப்பட்டனர்.   கைது செய்யப்பட்ட 12 பேரை விடுதலை செய்யுமாறு கடுவலை நீதவான் சனிமா விஜயபண்டார, திங்கட்கிழமை (25) உத்தரவிட்டுள்ளார்
+Thus, the ghost house was built in the Navagamuwa area. There was a woman, and the other person had gone. However, she did not know that the man who was lying in the coffin was her husband.
+
+However, the woman who had come with another man, who was lying in the coffin, who was lying in the coffin, attacked the man and the woman (wife) with his wife.. However, fellow friends who speculated that the ghost was attacking a friend and his girlfriend, beaten the ghost.
+
+Thus, the Navagamuwa ghost house became all. Thereafter, 12 people were arrested on charges of involvement in clashes.   கைது செய்யப்பட்ட 12 பேரை விடுதலை செய்யுமாறு கடுவலை நீதவான் சனிமா விஜயபண்டார, திங்கட்கிழமை (25) உத்தரவிட்டுள்ளார்
+
+12 youths between the ages of 19 and 24 from the Navagamuwa Ranaval area were released on bail.
 
 ...
 
 [Data](articles/81e6ebb6.json)
 
+[Extended Data](ext_articles/81e6ebb6.ext.json)
+
 ---
 
-### අවසන් පූර්ව වටයට සුදුසුකම් ලැබූ කණ්ඩායම් මෙන්න
+### Here are the groups eligible for the semi-finals
 
 *2024-06-25 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198131) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් පූර්ව වටයට සඳහා මේ වනවිට කණ්ඩායම් 4ක් සුදුසුකම් ලබා තිබේ.
+In the 20 World Cup, the semi-finals feature teams from India, England, South Africa, and Afghanistan, marking significant milestones for Afghanistan. The Afghan team not only made it to the semi-finals for the first time but also secured victory over Bangladesh in a thrilling match. The semi-final matches are set: South Africa vs Afghanistan and England vs India, with the latter starting at 8:00 pm on Thursday.
 
-ඒ ඉන්දීය කණ්ඩාම, එංගලන්ත කණ්ඩාම, දකුණු අප්‍රිකාණු කණ්ඩායම සහ අෆ්ගනිස්තාන කණ්ඩායමයි.
+🟩
 
-මේ අතර අද (25) පැවති සුපිරි 8 දෙනාගේ තරගයෙන් බංග්ලාදේශයට එරෙහිව ලකුණු 8ක ජයග්‍රහණයක් ලබාගනිමින් ඇෆ්ගනිස්තාන කණ්ඩායම වාර්තා අතරට එක්විය.
+Troops qualify for the semi-finals of the 20 World Cup.
 
-ඒ 20යි 20 ලෝක කුසලාන ඉතිහාසයේ ඇෆ්ගනිස්තාන කණ්ඩායමක් අවසන් අවසන් පූර්ව වටය සඳහා සුදුසුකම් ලැබූ පළමු අවස්ථාව ලෙසය.
+The Indian dress, the Englandist team, South African team and Afghanistan group.
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු අවසන් පූර්ව වටයේ පළමු තරගය එළැඹෙන බ්‍රහස්පතින්දා දකුණු අප්‍රිකාණුව සහ ඇෆ්ගනිස්තානය අතර පැවැත් වීමට නියමිතය.
+Meanwhile, the Afghan group scored 8 runs against Bangladesh by 8 runs in the 8 Superintendent.
 
-අවසන් පූර්ව වටයේ දෙවන තරගය එංගලන්ත සහ ඉන්දියව අතර පැවැත්වීමට නියමිත අතර  එම තරගය ද එළැබෙන බ්‍රහස්පතින්දා මෙරට වේලාවෙන් රාත්‍රි 8.00ට ආරම්භ වීමට නියමිතය.
+The first time a Afghanistan team qualified for the final semi-final in the history of 20 20 World Cup history.
+
+The first round of the first semi-finals of the World Cup will be held between the South African and Afghanistan.
+
+The semi-finals are to be held between England and India, which will begin at 8:00 pm on Thursday.
 
 ◼️
 
 [Data](articles/229409e4.json)
 
+[Extended Data](ext_articles/229409e4.ext.json)
+
 ---
 
-### மகளுக்கு கழிவறை திரவம்: தந்தை கைது
+### Toilet fluid for daughter: father arrested
 
 *2024-06-25 11:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளுக்கு-கழிவறை-திரவம்-தந்தை-கைது/175-339383) · `ta`
 
-தனது ஆறு வயது மகளுக்கு கழிவறையை துப்புரவு செய்யும் திரவத்தை  (டாய்லெட் கிளீனர் திரவத்தை) வாயில் பலவந்தமாக ஊற்ற முயன்ற தந்தை கைது செய்யப்பட்டள்ளார்.
+Father arrested for forcing cleaning liquid down toilet for daughter; wife suspected of withholding money. Suspect drunk during incident; child hospitalized for observation.
 
-வெளிநாட்டில் உள்ள சந்தேக நபரின் மனைவி பணம் அனுப்பாததால் கோபமடைந்த கணவன், மனைவி மற்றும் குடும்ப உறுப்பினர்களை பயமுறுத்துவதற்காக இவ்வாறு செய்துள்ளார் என ஹங்கம பொலிஸார் தெரிவித்தார்.,  சந்தேக நபர் ஹுங்கம, படாட பிரதேசத்தில் வசிக்கும் தொழிலாளி ஆவார்.
+🟩
 
-பொலிஸ் அவசர சிகிச்சைப் பிரிவுக்கு (119) கிடைத்த தொலைபேசி அழைப்பின் பிரகாரம், சந்தேகநபர் கைது செய்யப்பட்டதாகவும், சந்தேகநபர் அவ்வேளையில் அதிகளவில் குடிபோதையில் இருந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+The father has been arrested for forcibly pouring into the toilet cleaner liquid to the toilet cleaner for his six -year -old daughter.
 
-கழிவறையை துப்புரவு செய்யும் திரவம் பருகப்பட்டதா என்பதை பரிசோதிப்பதற்காக ஹம்பாந்தோட்டை பொது வைத்தியசாலையில் ஆறு வயது சிறுமி  அனுமதிக்கப்பட்டுள்ளார்.
+Hangama police said that the suspect's wife, who was not sending money abroad, has done so to intimidate her husband, wife and family members.
+
+According to a telephone call to the Police Emergency Department (119), the suspect was arrested and the suspect was drunk at the time.
+
+A six -year -old girl has been admitted to the Hambantota General Hospital to check whether the toilet was dried.
 
 ◼️
 
 [Data](articles/a53617eb.json)
+
+[Extended Data](ext_articles/a53617eb.ext.json)
 
 ---
 
@@ -1456,6 +1476,24 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 
 ---
 
+### Sri Lanka economic recovery gathers pace
+
+*2024-06-25 00:20:02* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-economic-recovery-gathers-pace/4-763413) · `en`
+
+AFC Asia Frontier Fund Co-Fund Manager Ruchir Desai travelled to Colombo from 29 May to 2 June 2024 to meet with policymakers and the fund’s Sri Lankan portfolio companies
+
+project in partnership with Melco Resorts of Macau – seen from the Galle Face Green promenade
+
+At the One Galle Face Mall which is part of the Shangri-La Hotel in downtown Colombo
+
+I was in Colombo one year ago in June 2023 and things then were already beginning to look better for Sri Lanka. Inflation was falling, the Central Bank had just begun its interest rate easing cycle, the currency and stock market were seeing a rebound from the bottom, and tourism was starting to pick up momentum. All the major macro indicators were showing an improvement a year ago, which made me optimistic about the outlook for Sri Lanka.
+
+...
+
+[Data](articles/f2872e6d.json)
+
+---
+
 ### If the bird fever has been recorded there is no import
 
 *2024-06-25 00:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவைக்-காய்ச்சல்-பதிவாகி-இருந்தால்-இறக்குமதி-இல்லை/175-339365) · `ta`
@@ -2185,25 +2223,5 @@ Colombo South Senior Superintendent of Police Normangeant Superintendent of Poli
 [Data](articles/57a14b03.json)
 
 [Extended Data](ext_articles/57a14b03.ext.json)
-
----
-
-### 4 kg of ice stuck
-
-*2024-06-24 19:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-கிலோ-ஐஸ்-சிக்கியது/175-339347) · `ta`
-
-A package from Pakistan to Sri Lanka contained 4 kg of ice drugs, valued at around 400 million rupees, discovered at the Central Postal Transaction Center.
-
-🟩
-
-4 kg of ice drug has been found in a package sent from Pakistan to Sri Lanka.
-
-The suspicious package was found at the Central Postal Transaction Center and the value of about 400 million rupees.
-
-◼️
-
-[Data](articles/6572188f.json)
-
-[Extended Data](ext_articles/6572188f.ext.json)
 
 ---

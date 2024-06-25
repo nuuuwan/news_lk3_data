@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 01:53:41**
+As of **2024-06-26 02:04:46**
 
 ## Newspaper Stats
 
-*Scraped **32,151** Articles*
+*Scraped **32,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,868
 dailyftlk | 1,964
 adalk | 2,834
 adaderanalk | 3,653
-tamilmirrorlk | 3,790
+tamilmirrorlk | 3,791
 dailymirrorlk | 4,733
 virakesarilk | 4,984
 adaderanasinhalalk | 5,274
@@ -26,9 +26,25 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,151 (100.0%) of 32,151 articles have been extended.
+32,151 (100.0%) of 32,152 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-26 (Wednesday)
+
+### ‘உறுமய திட்டத்தை சீர்குலைக்க முயற்சி’
+
+*2024-06-26 01:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-சீர்குலைக்க-முயற்சி/175-339433) · `ta`
+
+உறுமய நிரந்தர காணி உறுதித் திட்டத்திற்காக அரச அதிகாரிகள் பலர் அர்ப்பணிப்புடன் செயற்படும் அதேவேளை, சிலர் அதனை சீர்குலைக்க முயல்வதாக தகவல்கள் கிடைத்துள்ளதெனவும் அவ்வாறான அதிகாரிகள் குறித்த தகவல்களை பிரதேசத்திலுள்ள பாராளுமன்ற உறுப்பினர்களுக்கு வழங்குங்கள் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+20 லட்சம் ‘உறுமய’ காணி உறுதி வழங்கும் தேசிய வேலைத்திட்டத்தின் கீழ் அம்பாறை மாவட்டத்தின் 17 பிரதேச செயலகப் பிரிவுகளில் தகுதியான 20 ஆயிரம் பேரில் 1768 பேருக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு நேற்று அம்பாறை வீரசிங்க விளையாட்டரங்கில் நடைபெற்றது.
+
+...
+
+[Data](articles/73f61585.json)
+
+---
 
 ### 2024-06-25 (Tuesday)
 
@@ -2377,29 +2393,5 @@ The semi-finals are to be held between England and India, which will begin at 8:
 [Data](articles/229409e4.json)
 
 [Extended Data](ext_articles/229409e4.ext.json)
-
----
-
-### Toilet fluid for daughter: father arrested
-
-*2024-06-25 11:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளுக்கு-கழிவறை-திரவம்-தந்தை-கைது/175-339383) · `ta`
-
-Father arrested for forcing cleaning liquid down toilet for daughter; wife suspected of withholding money. Suspect drunk during incident; child hospitalized for observation.
-
-🟩
-
-The father has been arrested for forcibly pouring into the toilet cleaner liquid to the toilet cleaner for his six -year -old daughter.
-
-Hangama police said that the suspect's wife, who was not sending money abroad, has done so to intimidate her husband, wife and family members.
-
-According to a telephone call to the Police Emergency Department (119), the suspect was arrested and the suspect was drunk at the time.
-
-A six -year -old girl has been admitted to the Hambantota General Hospital to check whether the toilet was dried.
-
-◼️
-
-[Data](articles/a53617eb.json)
-
-[Extended Data](ext_articles/a53617eb.ext.json)
 
 ---

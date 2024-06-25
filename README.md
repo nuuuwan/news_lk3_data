@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 21:04:30**
+As of **2024-06-25 21:19:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,137 (100.0%) of 32,138 articles have been extended.
+32,138 (100.0%) of 32,138 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -174,21 +174,29 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### ජනපති කරන්න යන ප්‍රකාශය ජනතාව ඇන්දවීමක්
+### The public is announced by the public
 
 *2024-06-25 18:43:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කරන්න-යන-ප්‍රකාශය-ජනතාව-ඇන්දවීමක්/11-410432) · `si`
 
-සුබ ආරංචියක් යනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෙට (26දා) සිදු කිරීමට යන ප්‍රකාශය ඉදිරි ජනාධිපතිවරණය වෙනුවෙන් සිදු කරනු ලබන ජනතාව ඇන්දවීමක් බව සමගි ජන බලවේගයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා පැවසීය.
+MP Tissa Attanayake criticized President Ranil Wickremesinghe's announcement about the upcoming presidential election, calling it deceptive and lacking transparency. He questioned the government's claims of delivering Sri Lanka from bankruptcy without addressing the root causes of the crisis.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ අද (25දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-"හෙට දෙන්න යන සුබ ආරංචිය මොකක්ද? ජනාධිපතිවරයා රටටම ඒ සුබ ආරංචිය කියනවා කියලා ලොකු ප්‍රචාරයක් දෙනවා. අපි හොයලා බැලුවා මේ මොකක්ද කියන්න යන්නේ කියලා. එහිදී ලංකාව බංකොලොත්භාවයෙන් මුදවා ගත්තා කියලා පණිවිඩය දෙන්න යනවා කියලා තමයි කියන්නේ.
+The statement of President Ranil Wickremesinghe, President Ranil Wickremesinghe is a public election for the next presidential election, said the national organizer MP Tissa Attanayake.
 
-අපිට ලොකු ප්‍රශ්නයක් මතු වුණා කොහොමද එහෙම ජනාධිපතිවරයා කියන්නෙ කියලා.ඇත්තටම ලංකාව මුහුණ දෙන මූල්‍ය අර්බුදය, ආර්ථික අර්බුදය, බංකොලොත්භාවය යන සියල්ල එකට ගමන් කරන දේවල්. අපිට අහන්න ප්‍රශ්න කිහිපයක් තියෙනවා. කාවද මේ රවට්ටන්න හදන්නේ?
+He was speaking at a media briefing held at the Colombo Opposition's Office today (25).
+
+"What is the best news for you to give tomorrow?. We've been looking for what's going on to say. It is said that Sri Lanka will be delivered from bankruptcy.
+
+How did we raise a big problem?. We have some questions to ask. Who is trying to deceive this?
+
+The government is ready to give people the people bull. We see as a story that the government is trying to attract the people to the political gains that the country has been released and released.. This is very serious. It doesn't go before the country through deception.
 
 ...
 
 [Data](articles/1ee56acf.json)
+
+[Extended Data](ext_articles/1ee56acf.ext.json)
 
 ---
 

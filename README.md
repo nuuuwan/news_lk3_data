@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 09:34:58**
+As of **2024-06-25 09:53:59**
 
 ## Newspaper Stats
 
-*Scraped **32,019** Articles*
+*Scraped **32,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,97 @@ islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,814
-adaderanalk | 3,635
+adaderanalk | 3,637
 tamilmirrorlk | 3,770
 dailymirrorlk | 4,733
 virakesarilk | 4,961
-adaderanasinhalalk | 5,248
+adaderanasinhalalk | 5,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,018 (100.0%) of 32,019 articles have been extended.
+32,019 (100.0%) of 32,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### பொலிஸ் அதிகாரிக்கு இந்த நிலையா? ஐவர் கைது
+### Navy sailor dies from injuries during arrest of Indian fishermen off Delft
+
+*2024-06-25 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100082/navy-sailor-dies-from-injuries-during-arrest-of-indian-fishermen-off-delft) · `en`
+
+Sri Lanka Navy has taken into custody 10 Indian fishermen in a trawler while poaching in seas off Delft Island.
+
+A sailor who was injured during the incident has succumbed to his injuries after admission to hospital, the Sri Lanka Navy Spokesman said.
+
+The Navy says it continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 Indian poaching trawlers in Sri Lankan waters so far in 2024, and subsequently handed them over to authorities for legal proceedings.
+
+◼️
+
+[Data](articles/b85690c3.json)
+
+---
+
+### ඉන්දීය ධීවරයින් අත්අඩංගුවට ගැනීමට යෑමේ දී නාවික සෙබළෙක් මරුට
+
+*2024-06-25 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198127) · `si`
+
+ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යෑමේ දී තුවාල ලැබූ නාවික හමුදා සෙබළෙක් රෝහල්ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+
+නාවික හමුදාව සඳහන් කළේ, ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ නීතිවිරෝධීව ට්‍රෝලර් යාත්‍රාවකින් ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 10 දෙනෙකු අත්අඩංගුවට ගත් බවය.
+
+එම පිරිස අත්අඩංගුවට ගැනීමට යෑමේ දී ඇති වූ සිදුවීමක දී නාවික සෙබළෙක් තුවාල ලබා ඇත.
+
+◼️
+
+[Data](articles/5868f294.json)
+
+---
+
+### World Bank approves $150 million to improve primary healthcare services in Sri Lanka
+
+*2024-06-25 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100081/world-bank-approves-150-million-to-improve-primary-healthcare-services-in-sri-lanka) · `en`
+
+The World Bank’s Board of Executive Directors has approved $150 million in financing for Sri Lanka to improve the quality and utilization of its primary healthcare services.
+
+The newly approved Sri Lanka Primary Healthcare System Enhancing Project will help improve quality of care and increase the use of primary medical care institutions, which provide essential health services to local communities, a statement said.
+
+Capacity challenges and absence of a formal referral mechanism have led to the underutilization of primary healthcare facilities and overcrowding in tertiary care facilities in Sri Lanka.
+
+The previous World Bank-supported Primary Healthcare Systems Strengthening Project had already enhanced 550 Primary Medical Care Institutions with essential equipment, medicines, health workers and basic laboratory testing facilities.
+
+...
+
+[Data](articles/65a10fc5.json)
+
+---
+
+### Is this the case for the police officer?Arrest
 
 *2024-06-25 09:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிக்கு-இந்த-நிலையா-ஐவர்-கைது/175-339370) · `ta`
 
-மிரிஹான பொலிஸ் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரை தாக்கி அவரிடம் இருந்து 3 இலட்சத்து 30 ஆயிரம் ரூபா பெறுமதியான உடமைகளை கொள்ளையிடப்பட்ட சம்பவம் தொடர்பில் 5 சந்தேகநபர்கள் நேற்று (24) கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+Five suspects aged 30-42 from Dunuwanka were arrested for robbing a Mirihana police officer, who was attacked at his home during vacation. The officer is hospitalized in Badulla.
 
-இச்சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் 30 - 42 வயதுக்கு இடைப்பட்டவர்கள் எனவும், துனுவாங்கிய பகுதியைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மிரிஹான பொலிஸில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் விடுமுறையில் அவரது வீட்டிற்கு வந்த போதே இந்த தாக்குதல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது
+Badulla police said that five suspects have been arrested yesterday (24) in connection with the robbery of a police officer working in the Mirihana Police Division and robbed 3 lakhs of 30 thousand rupees.
 
-தாக்குதலில் காயமடைந்த பொலிஸ் உத்தியோகத்தர் தற்போது பதுளை போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன
+The suspects arrested in connection with the incident were between the ages of 30 - 42 and were from the Dunuwanka area, police said.
 
-சந்தேக நபர்களை இன்று நீதிவான் நீதிமன்றதாதில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர். R
+It is reported that the attack took place when the police officer who was working at the Mirihana police arrived at his home on vacation.
+
+Hospital sources say that the police officer who was injured in the attack is currently being treated at the Badulla Teaching Hospital.
+
+Police are taking steps to appear in the court today. Remble
 
 ◼️
 
 [Data](articles/e1186e7d.json)
+
+[Extended Data](ext_articles/e1186e7d.ext.json)
 
 ---
 
@@ -2173,79 +2231,5 @@ The suspicious parcel was found in the Central Mail transfer and is worth 400 mi
 [Data](articles/0aa43f92.json)
 
 [Extended Data](ext_articles/0aa43f92.ext.json)
-
----
-
-### Sri Lanka stocks close up, renewed foreign interest
-
-*2024-06-24 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-renewed-foreign-interest-169294/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.18 percent, or 22.49 points, at 12,271; while the more liquid S&P SL20 Index closed up 0.68 percent, or 24.66 points, at 3,634.
-
-Turnover was 1.3 billion. A part of this (Rs209mn) came from trades on John Keells Holdings Plc. The share closed up at 206.50.
-
-“This was from foreign buying,” market participants said. “There is renewed foreign interest now that Sri Lanka has announced debt restructuring is close to being finalised.”
-
-“The market has seen days of consecutive foreign inflows, which is a positive sign. We’ve bee waiting for this, and now we are witnessing it. It’s encouraging for participants.”
-
-Sri Lanka’s president announced that the country was on the verge of debt restructuring.
-
-Banking stocks did well in the day. Sampath Bank Plc was up at 79.70, Commercial Bank Of Ceylon Plc was up at 105.75, and National Development Bank Plc closed up at 80.00.
-
-...
-
-[Data](articles/fc0a33b4.json)
-
-[Extended Data](ext_articles/fc0a33b4.ext.json)
-
----
-
-### Fraud through social media: Public warning!
-
-*2024-06-24 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186842) · `ta`
-
-The Sri Lanka Computer Emergency Committee warns against social media scams impersonating popular companies for donations, prizes, jobs, and more. Fraudsters use fake websites, social media, and messaging apps to defraud users. These scams often target during national and religious events, preying on public ignorance. To avoid falling victim, verify information through official channels and ignore unconfirmed messages.
-
-🟩
-
-The Sri Lanka Computer Emergency Committee has called for the public to be cautious about the frauds being used by the names of popular companies through social media.
-
-The public should be cautious about the duplicate information shared immediately to register for donations, cash prizes, successes and employment using various banks, businesses and international organizations on social media.
-
-Those who are involved in internet frauds will try to contact you through fake websites, social media, SMS and WhatsApp processor.
-
-It has been confirmed that the fraudsters are involved in the abuse and money laundering of the computer, the computer, the telephone, by accessing the connections of fake news.
-
-In recent years, such scams have increased and the number of victims has increased muddy.. It is seen that the fraudsters are more involved in such activities during national and religious ceremonies. The ignorance and negligence of the general public is favorable to increase in society.
-
-...
-
-[Data](articles/94123be9.json)
-
-[Extended Data](ext_articles/94123be9.ext.json)
-
----
-
-### Sri Lanka rupee closes steady at 305.20/30 to US dollar
-
-*2024-06-24 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-steady-at-305-20-30-to-us-dollar-169298/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 305.20/30 to the US dollar on Monday, up from 305.10/30 to the US dollar on Thursday last week before the long weekend, dealers said, while  bond yields up.
-
-A bond maturing on 15.12.2026 closed at 10.45/85 percent, up from 10.45/80 percent.
-
-A bond maturing on 01.07.2028 closed at 11.20/55 percent up from 11.20/45 percent.
-
-A bond maturing on 15.09.2029 closed at 12.05/17 percent, up from 12.00/15 percent.
-
-A bond maturing on 01.12.2031 closed at 12.08/15 percent, down from 12.05/25 percent.
-
-◼️
-
-[Data](articles/140417b1.json)
-
-[Extended Data](ext_articles/140417b1.ext.json)
 
 ---

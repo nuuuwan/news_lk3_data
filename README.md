@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 06:20:47**
+As of **2024-06-25 07:01:03**
 
 ## Newspaper Stats
 
-*Scraped **31,991** Articles*
+*Scraped **31,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 3,633
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
 virakesarilk | 4,950
-adaderanasinhalalk | 5,238
+adaderanasinhalalk | 5,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,980 (100.0%) of 31,991 articles have been extended.
+31,989 (100.0%) of 31,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+
+*2024-06-25 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198117) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (25) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c1aa0c8c.json)
+
+---
+
+### කාසියේ වාසිය ඇෆ්ගනිස්තානය ට
+
+*2024-06-25 05:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198116) · `si`
+
+20යි 20 ලෝක කුසලාන තරගාවලියේ සුපර් 08 වටයේ තවත් තීරණාත්මක තරගයක් අද (25) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/220cc15d.json)
+
+---
 
 ### Sri Lanka holds first ever fashion and textile tradeshow in UK
 
@@ -600,6 +628,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/5be2d6f6.json)
 
+[Extended Data](ext_articles/5be2d6f6.ext.json)
+
 ---
 
 ### Orit Apparels bags six accolades at NBE Awards 2024
@@ -612,6 +642,8 @@ Orit Apparels Lanka stole the limelight at the National Business Excellence Awar
 
 [Data](articles/0fde189d.json)
 
+[Extended Data](ext_articles/0fde189d.ext.json)
+
 ---
 
 ### UNDP Sri Lanka launches 2023/ 24 Global Human Development Report
@@ -623,6 +655,8 @@ The UNDP Sri Lanka recently launched the 2023/24 Global Human Development Report
 ...
 
 [Data](articles/792238c4.json)
+
+[Extended Data](ext_articles/792238c4.ext.json)
 
 ---
 
@@ -640,6 +674,8 @@ Weerathunge added: “In Sri Lanka, talk of a manufacturing economy often begins
 
 [Data](articles/8b1204ed.json)
 
+[Extended Data](ext_articles/8b1204ed.ext.json)
+
 ---
 
 ### Local fruit production to be boosted to meet rising demand
@@ -656,6 +692,8 @@ According to data from the Department of Agriculture, Sri Lanka’s fruit consum
 
 [Data](articles/1d8617c8.json)
 
+[Extended Data](ext_articles/1d8617c8.ext.json)
+
 ---
 
 ### News of SL ridding itself of loan default stigma buoys bourse
@@ -669,6 +707,8 @@ Amid those developments both indices moved upwards. The All- Share Price Index w
 ...
 
 [Data](articles/39ab51dc.json)
+
+[Extended Data](ext_articles/39ab51dc.ext.json)
 
 ---
 
@@ -2175,53 +2215,5 @@ The battery she was in a store has exploded and the cause of the explosion has b
 [Data](articles/10f459b3.json)
 
 [Extended Data](ext_articles/10f459b3.ext.json)
-
----
-
-### Sri Lanka Podujana Peramuna must work with leaders in line with its principles: committee
-
-*2024-06-24 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-must-work-with-leaders-in-line-with-its-principles-committee-169268/) · `en`
-
-ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP)’s All Island Working Committee has said the SLPP must work with leaders whose thinking is in line with that of the party, general secretary Sagara Kariyawasam said.
-
-Speaking to reporters in Colombo on Monday June 24 after a committee meeting to approve amendments made to the party’s constitution, Kariyawasam said the SLPP will announce in due course its decision on whether or not it will field its own candidate at the upcoming presidential election or support another candidate.
-
-“The all island working committee members have voiced their views. The idea expressed at the meeting was to work with leaders who agree with our party’s fundamental principles, can work together with our party and accepts our identity and our culture,” said Kariyawasam.
-
-Asked when the SLPP would announce its plans for the presidential poll, he said: “We will make that decision at the right time.”
-
-...
-
-[Data](articles/6c59ccf1.json)
-
-[Extended Data](ext_articles/6c59ccf1.ext.json)
-
----
-
-### Datawa hospital, Homagama hospital
-
-*2024-06-24 15:03:21* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සික්-එක-හැදිලා-හෝමාගම-රෝහලේ-යකා-නටල/11-410400) · `si`
-
-A man seriously injured with glass wounds at Homagama Base Hospital was attacked by another patient, who then fled. The attacker, from Kandahawatta, Meegoda, is suspected to have been under the influence of drugs. He was apprehended by the Homagama Police and is now under their protection at the hospital. Further investigations are ongoing, led by Sub Inspector Ajantha Prabhakara.
-
-🟩
-
-While receiving treatment at the Homagama Base Hospital, a person who was seriously injured with a glass and a large glass of glass and a large wound was taken with a milligratic, Homagama Police said.
-
-The arrest was a resident of the Kandahawatta area in Meegoda, police said.
-
-It is said that the hospital staff have been seen in the Homagama Base Hospital while receiving treatment at the Homagama Base Hospital while receiving treatment at the Homagama Base Hospital.
-
-According to the police, the suspect had fled the jewel of the main treatment and cut a large number of bodies with a glass piece of the body.
-
-The hospital and staff have been handed over to the hospital and handed over to the Homagama Headquarters police officers.
-
-Investigations have revealed that the arrested suspect has become an excessive drug drink, and the courageousness caused by the accident has been a cause of the munge into the accident.
-
-...
-
-[Data](articles/0a5d40ab.json)
-
-[Extended Data](ext_articles/0a5d40ab.ext.json)
 
 ---

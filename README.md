@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 19:35:03**
+As of **2024-06-25 20:19:33**
 
 ## Newspaper Stats
 
-*Scraped **32,131** Articles*
+*Scraped **32,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,867
 dailyftlk | 1,964
-adalk | 2,829
+adalk | 2,830
 adaderanalk | 3,651
 tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
-virakesarilk | 4,980
-adaderanasinhalalk | 5,268
+virakesarilk | 4,984
+adaderanasinhalalk | 5,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,116 (100.0%) of 32,131 articles have been extended.
+32,135 (100.0%) of 32,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### මීගමුවේ සිට ලොවම රැවටූ ඔන්ලයින් ජාවාරම
+
+*2024-06-25 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198149) · `si`
+
+ලොව රටවල් කිහිපයක් ඉලක්ක කරගනිමින් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය මහා පරිමාණ අන්තර්ජාල මූල්‍ය වංචාවක් නීතියේ රැහැනට හසුකර ගැනීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සමත් වුණි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අංක දෙක දරන මූල්‍ය විමර්ශන අංශයට පසුගිය 13 වනදා කාන්තාවකගෙන් පැමිණිල්ලක් ලැබී තිබුණි.
+
+එහි දැක්වුණේ නාඳුනන පුද්ගලයෙකු විසින් වට්ස්ඇප් සමූහයකට තමන්ව  එක්කරගත් අතර ටික්ටොක් සමාජ මාධ්‍ය ජාලයේ වීඩියෝ සඳහා ලයික් හා කමෙන්ට් දැමීමෙන් මුදල් ඉපැයිය හැකි බවට එම සමූහය මගින් දැනුම්දුන් බවය.
+
+එලෙස ලයික් සහ කමෙන්ට් කිරීම වෙනුවෙන් අවස්ථා කිහිපයකදී රුපියල් 750 බැගින් මුදල් ලැබුණු අතර, පසුව වැඩිදුරටත් මුදල් ඉපැයීමට අවශ්‍යනම් ඔවුන්ගේ ටෙලිග්‍රෑම් සමූහයකට එක්ව මුදල් ආයෝජනය කරන ලෙස අදාළ සමූහය මගින් කාන්තාවට දැනුම් දී තිබුණි.
+
+ඒ අනුව මුදල් ආයෝජනය කළද, ඊට අදාළ ලාභය ඉල්ලා සිටි අවස්ථාවේදී අදාළ සමූහයේ ඇඩ්මින්වරයා පවසා ඇත්තේ, එම මුදල් ලබාගැනීමට නම්  බැංකු ගිණුමක් වෙත මුදලක් බැර කරන ලෙසය.
+
+ඒ අනුව අදාළ කාන්තාව රුපියල් ලක්ෂ 54ක මුදලක් අවස්ථා කිහිපයකදී එම බැංකු ගිණුම වෙත යොමුකර තිබුණි.
+
+...
+
+[Data](articles/4a03027c.json)
+
+---
+
+### Investigate the two judges who have been acting in Parliament to inquire to the Minister of Parliament -letter to Minister Wijeyadasa
+
+*2024-06-25 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186974) · `ta`
+
+Minister Wijeyadasa Rajapakse has requested the summoning of Judges Ruwan Dissanayake and Isuru Nethikumarake to the Committee of Parliament and Privileges due to public comments deemed immoral. The minister, in a letter to the Speaker, highlighted the need for a formal order against the judges for potentially disrupting judicial investigations and violating parliamentary privileges.
+
+🟩
+
+District Judge Ruwan Dissanayake and Secretary Isuru Nethikumarake have publicly worked immoral about a statement in Parliament. Minister of Justice Wijeyadasa Rajapakse said that the two judges should be summoned to the Committee of Parliament and Private Rights.
+
+Justice Minister Wijeyadasa Rajapakse has appealed to the Speaker Mahinda Yapa Abeywardena in a letter to the Speaker.
+
+I have responded to a number of questions raised in Parliament regarding court proceedings on the 19th of last month. District Judge Ruwan Dissanayake and Secretary Isuru Nethikumarage have publicly commented on this in this regard.. Therefore, the two judges should be summoned to the Committee of Parliament and Privitations and issued a formal order.
+
+...
+
+[Data](articles/71930bd9.json)
+
+[Extended Data](ext_articles/71930bd9.ext.json)
+
+---
+
+### Tourism Information Center at Palali International Airport
+
+*2024-06-25 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186973) · `ta`
+
+The Governor of the Northern Province, BSM. Mars, inaugurated the Tourism Information Center at Palali International Airport, facilitated by Charles. This center provides tourist guides, highlighting historical sites, places of worship, and local crafts from the Northern Province. Post-inauguration, the Governor toured the airport, engaging with passengers. Key officials including the Chief Secretary, Secretary to the Ministry of Local Government, Chairman of the Tourism Bureau, and Airport Officers were present at the launch.
+
+🟩
+
+Governor of the Northern Province BSM. Mars (25) was opened by Charles.
+
+Tourist guide manuals can be available at the Communications Station, including historic places and places of worship that can travel to tourists in the Northern Province.. The crafts produced in the Northern Province are also on sale.
+
+After the opening of the Communications Center for the tourists, the governor visited the airport activities and discussed with the passengers.
+
+The inauguration of the Communications Center for Tourism, the Chief Secretary of the Northern Province, Secretary to the Ministry of Local Government, Chairman of the Tourism Bureau and Airport Officers.
+
+◼️
+
+[Data](articles/71f4997a.json)
+
+[Extended Data](ext_articles/71f4997a.ext.json)
+
+---
 
 ### NPP will back bill to decriminalize same-sex relationships - Harini Amarasuriya
 
@@ -74,6 +142,8 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 
 [Data](articles/291c1139.json)
 
+[Extended Data](ext_articles/291c1139.ext.json)
+
 ---
 
 ### Company is for the amendment to Samarizer Law
@@ -96,19 +166,43 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### උරුමය වැඩසටහන කඩාකප්පල් කරන නිලධාරීන් ගැන තොරතුරු ජනපති ඉල්ලයි
+### කාන්තාවන් පිළිබඳ ජාතික කොමිෂන් සභාවක්
+
+*2024-06-25 18:33:14* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-පිළිබඳ-ජාතික-කොමිෂන්-සභාවක්/11-410430) · `si`
+
+ශ්‍රී ලංකා දේශපාලන ඉතිහාසය තුළ කාන්තාවන්ගේ අයිතිවාසිකම් හෝ කාන්තාවට සම තැන ලබාදීම වෙනුවෙන් පනතක් ගෙනවිත් නොමැති බව කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය සඳහන් කළාය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව පාර්ලිමේන්තුවට ඉදිරිපත් කළ කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත මේ වන විට සම්මත වී තිබෙන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නේය.
+
+කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (25) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත මේ වන විට පාර්ලිමේන්තුවේ දී සම්මත වී තිබෙනවා. ශ්‍රී ලංකාවේ දේශපාලන ඉතිහාසය තුළ කාන්තාවන්ගේ අයිතිවාසිකම් හෝ කාන්තාවට සම තැන වෙනුවෙන් සම්බන්ධයෙන් මීට පෙර පනතක් ගෙනවිත් නොමැති බව පැවසිය යුතුයි. මෙම පනත මඟින් කාන්තාවන් සවිබල ගැන්වීම සඳහා විධිවිධාන සැලැස්වීම පිණිස ද මෙන්ම කාන්තාවන්ගේ අභිවෘද්ධිය සඳහා ජාතික ප්‍රතිපත්තියක් සකස් කිරීම සිදුවනවා.
+
+...
+
+[Data](articles/1b056d02.json)
+
+---
+
+### President requests the officers who sabotage heritage program
 
 *2024-06-25 18:23:48* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-වැඩසටහන-කඩාකප්පල්-කරන-නිලධාරීන්-ගැන-තොරතුරු-ජනපති-ඉල්ලයි/11-410429) · `si`
 
-උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන වෙනුවෙන් බොහෝ රාජ්‍ය නිලධාරින් කැපවී කටයුතු කරද්දි, එය කඩාප්පල් කිරීමට උත්සාහ කරන සුළුතරයක් පිළිබඳව ද කරුණු වාර්තා වී ඇති බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එවන් නිලධාරීන් පිළිබඳ තොරතුරු තමන්ගේ ප්‍රදේශයේ මන්ත්‍රීවරුන් වෙත ලබා දෙන ලෙස ජනතාවගෙන් ඉල්ලා සිටි අතර, එම තොරතුරු තමා වෙත ලබා දෙන ලෙස මන්ත්‍රීවරුන්ට දැනුම් දෙන බව ද සඳහන් කළේය.
+President Ranil Wickremesinghe addressed issues regarding the Heritage National Program, emphasizing the importance of protecting land rights and increasing agricultural productivity. He criticized officers sabotaging the program and urged MPs to investigate and report any disruptions. The president announced plans to distribute Rs. 2 lakh heritage freehold deeds and called for support from all MPs to ensure the program's success.
 
-තමන්ගේ උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ දිය නොහැකි බව අවධාරණය කළ ජනාධිපතිවරයා මෙම වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් පක්ෂ විපක්ෂ බේදයකින් තොරව සියලු මන්ත්‍රීවරුන්ගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 17ක සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය වෙනුවෙන් අද (25) පෙරවරුවේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe said that the inheritance was committed to the provision of the Land Registration, President Ranil Wickremesinghe said that it was reported to be a minority attempt to a candap.He also said that MPs will inform the MPs to give him information.
+
+He stressed that no one could allow anyone to lose the right to the people to get their inheritance, he said that the party would seek the assistance of all MPs, regardless of opposition opposition.
+
+President Ranil Wickremesinghe made this statement in the 'Heritage National Program' of 20,000 Divisional Secretariat Divisions in the Ampara District.Addressing.
 
 ...
 
 [Data](articles/df33598a.json)
+
+[Extended Data](ext_articles/df33598a.ext.json)
 
 ---
 
@@ -219,6 +313,28 @@ In 2026, a 115 MW gas turbine, a CEB owned diesel plants of 68 MW and 72 MW are 
 ◼️
 
 [Data](articles/fb6c3c50.json)
+
+[Extended Data](ext_articles/fb6c3c50.ext.json)
+
+---
+
+### July 2 Parliament is specially assembled
+
+*2024-06-25 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186970) · `ta`
+
+A special session of Parliament is scheduled for July 2 at 9:30 am, convened at the request of Prime Minister Dinesh Gunawardena, with all MPs expected to attend.
+
+🟩
+
+At the request of Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeyardhana has announced that all Members of Parliament will participate in the meeting, as a special meeting has been summoned in Parliament at 9.30 am on Tuesday, July 2, at the request of the Parliament.
+
+At the request of Prime Minister Dinesh Gunawardena, the Parliament will be held on Tuesday, July 2, at 9.30 am, at the request of Prime Minister Dinesh Gunawardena, when the Parliament was adjourned on the 20th.
+
+◼️
+
+[Data](articles/05dc716b.json)
+
+[Extended Data](ext_articles/05dc716b.ext.json)
 
 ---
 
@@ -344,6 +460,8 @@ A bond maturing on 01.12.2031 closed at 12.10/20 percent, up from 12.08/15 perce
 
 [Data](articles/169d7a83.json)
 
+[Extended Data](ext_articles/169d7a83.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, Commercial Bank crossing pushes turnover to 3.9bn
@@ -365,6 +483,8 @@ Top foreign buying was seen on John Keells Holdings Plc (down at 206.00), Tokyo 
 ...
 
 [Data](articles/f5d18979.json)
+
+[Extended Data](ext_articles/f5d18979.ext.json)
 
 ---
 
@@ -504,6 +624,36 @@ The hunger province in China has been affected and thousands of houses have been
 
 ---
 
+### Harshana Rajakaruna can only be accepted if international companies declare that the country has recovered from the bank -
+
+*2024-06-25 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186951) · `ta`
+
+Harshana Rajakaruna argues that without international acknowledgment of Sri Lanka's recovery from bankruptcy, any acceptance of this status by the government or its ministers is deceptive. He criticizes the current government's limited efforts in foreign debt restructuring and questions the credibility of claims about the nation's financial recovery. Rajakaruna emphasizes the importance of transparency and adherence to international standards in declaring such significant economic milestones.
+
+🟩
+
+If the country has recovered from the bankruptcy, international standards must be notified of the announcement.
+
+Without doing so, the president or no other ministers cannot accept the announcement. United People's Shakti Gampaha District Parliamentarian Harshana Rajakaruna said this is a move to deceive the people.
+
+Foreign debt restructuring is very important to recover from that state of affairs.
+
+But the government has so far gone into a very narrow amount of debt renovation in foreign debt restructuring.
+
+Based on this, the government is trying to release the report that the country is currently recovering from bankruptcy.
+
+When many bankrupt countries recover from bankruptcy, the debt reorganization is very successful. But such a situation did not include the Ranil Wickremesinghe -led government.
+
+How can the country recover from bankruptcy. We also wish to recover from the bankruptcy. We will be happy if such a situation happens. But it is not possible to take action to deceive people.
+
+...
+
+[Data](articles/ec7e8369.json)
+
+[Extended Data](ext_articles/ec7e8369.ext.json)
+
+---
+
 ### A panel of judges panel to petition to Graduoda's petition
 
 *2024-06-25 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198143) · `si`
@@ -563,6 +713,8 @@ However, political parties may be compelled to forge alliances to form a stable 
 ...
 
 [Data](articles/98e85e33.json)
+
+[Extended Data](ext_articles/98e85e33.ext.json)
 
 ---
 
@@ -786,6 +938,8 @@ The meeting was attended by Minister of Foreign Affairs Ali Sabri, Chief of Defe
 
 [Data](articles/0ac03354.json)
 
+[Extended Data](ext_articles/0ac03354.ext.json)
+
 ---
 
 ### Cabinet approval for signing agreement on bilateral debt renovation agreement
@@ -938,6 +1092,8 @@ The export promotion programme titled “Sourced Sri Lanka” was organized by t
 
 [Data](articles/5df3b1d0.json)
 
+[Extended Data](ext_articles/5df3b1d0.ext.json)
+
 ---
 
 ### Maximum support of the Bora Federation Success
@@ -1053,6 +1209,8 @@ The Colombo Stock Exchange (CSE) has approved in principle the listing of the de
 ...
 
 [Data](articles/e4d05085.json)
+
+[Extended Data](ext_articles/e4d05085.ext.json)
 
 ---
 
@@ -1274,6 +1432,8 @@ The cabinet of ministers has thus approved a proposal by Minister of Justice, Pr
 
 [Data](articles/7d0b4095.json)
 
+[Extended Data](ext_articles/7d0b4095.ext.json)
+
 ---
 
 ### The land of the Co-operative Society was written to his name
@@ -1354,6 +1514,8 @@ Sri Lanka is in the process of digitizing its classrooms with funding from the C
 
 [Data](articles/2318e232.json)
 
+[Extended Data](ext_articles/2318e232.ext.json)
+
 ---
 
 ### Enjoining order against Wijayadasa extended
@@ -1394,6 +1556,8 @@ According to the statement, the purported preparations will be based on the reco
 
 [Data](articles/da01f7e2.json)
 
+[Extended Data](ext_articles/da01f7e2.ext.json)
+
 ---
 
 ### Sri Lanka to sign Paris Club debt deals Wednesday: Minister
@@ -1415,6 +1579,8 @@ Discussion with private bondholders are also taking place separately, he said. (
 ◼️
 
 [Data](articles/fe58b01a.json)
+
+[Extended Data](ext_articles/fe58b01a.ext.json)
 
 ---
 
@@ -1710,6 +1876,8 @@ Situated on Mannar Island in Sri Lanka’s north west coast, Thambapavani is the
 
 [Data](articles/fdce4e19.json)
 
+[Extended Data](ext_articles/fdce4e19.ext.json)
+
 ---
 
 ### Sri Lanka’s Interim Secretariat for Truth and Reconciliation holds consultations in Monaragala
@@ -1725,6 +1893,8 @@ On June 6, consultations were held with villagers affected by the war in Ethimal
 ...
 
 [Data](articles/86e10af4.json)
+
+[Extended Data](ext_articles/86e10af4.ext.json)
 
 ---
 
@@ -2205,139 +2375,5 @@ The World Bank Executive Board has approved financial assistance to improve the 
 [Data](articles/afb0e3d0.json)
 
 [Extended Data](ext_articles/afb0e3d0.ext.json)
-
----
-
-### Navy intercepts fishing trawler with 200kg of narcotics; six arrested
-
-*2024-06-25 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100083/navy-intercepts-fishing-trawler-with-200kg-of-narcotics-six-arrested) · `en`
-
-Sri Lanka Navy says it seized a local multi-day fishing trawler carrying nearly 200 kg of narcotics on seas off the western coast and arrested 06 suspects.
-
-The interception was made during an operation carried out by the Navy on high seas about 121 nautical miles (about 223 km) west of Sri Lanka.
-
-Six suspects were arrested along with the multi-day fishing vessel that was transporting nearly 200 kg of narcotics substance, the navy said.
-
-The arrested suspects, trawler and seized drugs are currently being escorted to land, it said.
-
-◼️
-
-[Data](articles/42804234.json)
-
-[Extended Data](ext_articles/42804234.ext.json)
-
----
-
-### Rain today in many parts of the country
-
-*2024-06-25 09:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-இன்றும்-மழை/175-339371) · `ta`
-
-Heavy rain expected in Western, Sabaragamuwa, North Western Provinces, and districts like Galle, Matara, Kandy, Nuwara Eliya. Up to 100mm rainfall possible in upper areas and strong winds up to 50km/h in several regions including Central Highlands' western slopes, North, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
-
-🟩
-
-The Department of Meteorology has said that there will be occasional rainfall in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In addition, 100 mm of heavy rainfall may be recorded in some places in the upper, Sabaragamuwa provinces, Kandy and Nuwara Eliya districts.
-
-Meanwhile, strong winds are likely to blow up to 40-50 kilometers per hour in the western slopes of the Central Highlands, North, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
-
-◼️
-
-[Data](articles/e2698927.json)
-
-[Extended Data](ext_articles/e2698927.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 305.10/40 to US dollar
-
-*2024-06-25 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-305-10-40-to-us-dollar-169388/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 305.10/40 to the US dollar on Tuesday, while bond yields were up, and stocks opened 0.01 percent up, dealers said.
-
-In equities, Colombo’s All Share Price Index opened 1.39 points higher at 12,272. while the S&P SL20 of more liquid stocks opened up at 0.04 percent or 1.46 points to 3,633.
-
-A bond maturing on 01.08.2026 was quoted at 10.70/11.00 percent.
-
-A bond maturing on 01.10.2027 was quoted at 10.60/11.10 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 12.05/15 percent. (Colombo/Jun25/2024)
-
-◼️
-
-[Data](articles/1040de8a.json)
-
-[Extended Data](ext_articles/1040de8a.ext.json)
-
----
-
-### Sri Lanka to get US$150mn from World Bank for health amid ageing population
-
-*2024-06-25 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-us150mn-from-world-bank-for-health-amid-ageing-population-169384/) · `en`
-
-ECONOMYNEXT – Washington-based World Bank said it has approved a 150 million US dollar loan to boost primary healthcare facilities which will help reduce current overcrowding of tertiary facilities and help cope with an ageing population.
-
-A previous World Bank project has already upgraded 550 primary facilities with equipment, health workers and basic testing facilities.
-
-The new project will enhance result in 1,000 facilities being improved. Pandemic preparedness will also be improved.
-
-“Sri Lanka’s health system has demonstrated remarkable performance, but it needs to be strengthened to face emerging health care challenges,” said Faris Hadad-Zervos, World Bank Country Director for Maldives, Nepal, and Sri Lanka said in a statement.
-
-“This project will support the country’s forward-looking primary care reorganization agenda, laying the foundation for a more responsive and people-centric healthcare system.”
-
-...
-
-[Data](articles/054a5c3e.json)
-
-[Extended Data](ext_articles/054a5c3e.ext.json)
-
----
-
-### Sri Lanka Teachers Union appeals to support the sick holiday struggle
-
-*2024-06-25 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186898) · `ta`
-
-The Sri Lanka Teachers Union urges support for a sick leave protest by educators on April 26, following failed government negotiations. The union emphasizes no threats from teachers regarding trade union activities and asks parents to ensure student safety during the protest.
-
-🟩
-
-The Sri Lanka Teachers Union has requested all parties to support the sick holiday struggle carried out by principals, teachers and teacher advisers on the 26th of this month.
-
-Media Meeting of the Sri Lanka Teachers Union Monday (24). Held at the media conference. Eastern Province Coordinator of the Sri Lanka Teachers Union
-
-Due to the failure of negotiations with the government with the government, we will carry out a sick holiday struggle for principals, teachers and teachers across the country.
-
-Last week, we staged a demonstration in Sri Lanka to defeat the government as the principals and teachers' federation was united.
-
-Eastern Provincial Coordinator of the Sri Lanka Teachers Union, Eastern Province Coordinator, said that the teachers did not submit any threats due to the notification of the trade union activities.
-
-He appealed to the parents to take responsibility for the safety of the students on this day of the protest.
-
-◼️
-
-[Data](articles/fb9c20ea.json)
-
-[Extended Data](ext_articles/fb9c20ea.ext.json)
-
----
-
-### Navy sailor dies from injuries during arrest of Indian fishermen off Delft
-
-*2024-06-25 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100082/navy-sailor-dies-from-injuries-during-arrest-of-indian-fishermen-off-delft) · `en`
-
-Sri Lanka Navy has taken into custody 10 Indian fishermen in a trawler while poaching in seas off Delft Island.
-
-A sailor who was injured during the incident has succumbed to his injuries after admission to hospital, the Sri Lanka Navy Spokesman said.
-
-The Navy says it continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
-
-Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 Indian poaching trawlers in Sri Lankan waters so far in 2024, and subsequently handed them over to authorities for legal proceedings.
-
-◼️
-
-[Data](articles/b85690c3.json)
-
-[Extended Data](ext_articles/b85690c3.ext.json)
 
 ---

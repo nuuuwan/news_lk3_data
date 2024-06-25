@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 19:04:34**
+As of **2024-06-25 19:19:25**
 
 ## Newspaper Stats
 
-*Scraped **32,115** Articles*
+*Scraped **32,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,828
-adaderanalk | 3,650
+adaderanalk | 3,651
 tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
 virakesarilk | 4,980
@@ -26,23 +26,47 @@ adaderanasinhalalk | 5,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,113 (100.0%) of 32,115 articles have been extended.
+32,115 (100.0%) of 32,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### සමරිසි නීති සංශෝධනයට මාලිමාව පක්ෂයි
+### NPP will back bill to decriminalize same-sex relationships - Harini Amarasuriya
+
+*2024-06-25 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100098/npp-will-back-bill-to-decriminalize-same-sex-relationships-harini-amarasuriya) · `en`
+
+National People’s Power (NPP) Parliamentarian Dr. Harini Amarasuriya states that their party will support the private member’s bill tabled by SLPP MP Premnath C. Dolawaththa to decriminalize same-sex relationships under the penal code.
+
+Joining the ‘Derana 360’ programme, Dr. Amarasuriya explained their party’s stance regarding the LGBTQ+ community.
+
+“We have been advocating for this community for a while. They are also a part of this society. Gender identities are diverse, including those of the same-sex community. From the beginning, we are of the stance that individuals should not be discriminated based on their gender”, she said.
+
+“Specifically, these same-sex relationships have been criminalized in our penal code. This is not a law which was originated in our country; it was introduced during the Victorian era by the British. Therefore, we believe it should be amended,” Dr. Amarasuriya expressed.
+
+...
+
+[Data](articles/474888d7.json)
+
+---
+
+### Company is for the amendment to Samarizer Law
 
 *2024-06-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198148) · `si`
 
-සමරිසි ලිංගික ඇසුර දණ්ඩ නීති සංග්‍රහය යටතේ අපරාධමය වරදක් නොවන ලෙස සංශෝධනය කිරීම සඳහා ප්‍රේම්නාත් සී. දොලවත්ත මන්ත්‍රීවරයා ගෙනආ පෞද්ගලික මන්ත්‍රී යෝජනාවට ජාතික ජන බලවේගය සහයෝගය පළ කරන බව ආචාර්ය හරිනි අමරසූරිය මහත්මිය පවසයි.
+Premicith Company seeks to amend the Samarizer Law, supported by the National Folk Force and highlighted in Derana 360's political program. Dr. Harini Amarasuriya emphasizes the backing from the National Member of Parliament, while the program discusses the LGBTQ community's stance.
 
-දෙරණ 360 දේශපාලන සංවාදාත්මක වැඩසටහනේදී LGBTQ ප්‍රජාව පිළිබඳ සිය පක්ෂයේ මතය පැහැදිලි කරමින් ඇය මේ බව සඳහන් කළාය.
+🟩
+
+Premicith C.. Dr. Harini Amarasuriya says that the National Folk Force has been supporting the private member of the National Member of Parliament.
+
+Derana 360 political program explained this, explaining the opinion of the LGBTQ community in the political program.
 
 ◼️
 
 [Data](articles/aa8ee9c3.json)
+
+[Extended Data](ext_articles/aa8ee9c3.ext.json)
 
 ---
 
@@ -896,21 +920,27 @@ The appointment of Keerthi Udawatta as the respondent of the Freedom Party, the 
 
 ---
 
-### ලෝකයේ විශාලම ගංජා සමාගම් පාඩු ලබනවලු
+### The world's largest cannabis bread
 
 *2024-06-25 13:38:23* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-විශාලම-ගංජා-සමාගම්-පාඩු-ලබනවලු/11-410425) · `si`
 
-අධික සැපයුම, වෙළඳපොළ ඉල්ලුම සහ වෙළඳපොළ කොටස කුඩා නිසා ලොව විශාලතම ගංජා සමාගම් ඩොලර් බිලියන ගණන් වලින් වසර කිහිපයක සිට පාඩු ලබන බව මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානයේ විධායක අධ්‍යක්ෂක සම්පත් ද සේරම් මහතා පවසයි.
+Sampath De Saram, Executive Director of the Drugs Center, highlights concerns over the potential legalization of cannabis in Sri Lanka, citing it as a move towards a global trend despite local bans. He warns against the influence of multinational tobacco companies promoting cannabis under medicinal pretenses, noting the lack of support from health and investment boards. The proposal faces opposition due to its potential to exacerbate existing drug issues and the difficulty in controlling its distribution. Despite societal acceptance and economic incentives, the Drugs Center advocates for halting the process to prevent further drug-related problems.
 
-ශ්‍රී ලංකාව තුළ නීති විරෝධී මත්ද්‍රව්‍යක් ලෙස නම් කර ඇති ගංජා සන්තකයේ තබා ගැනීම, වගා කිරීම සහ විකිණීම තහනම් කර ඇතත් තෛලෝක විජය පත්‍ර යන නාමයට මුවා වී ගංජා වගාව ප්‍රචලිත කිරීමට මේ වන විටත් ව්‍යාපෘති යෝජනා කැඳවා ඇතැයි ඔහු පෙන්වා දෙයි. මෙවැනි ඖෂධීය නාමයන් මුල් කර ගනිමින් ගංජා ව්‍යාප්ත කිරීමේ විශාල උත්සාහයක බහු ජාතික ගංජා ව්‍යාපාරය කටයුතු කරමින් සිටන බවද ඔහු පවසයි.
+🟩
 
-“ගෝලීය වශයෙන් දුම්වැටි භාවිතය අවම වෙමින් පවතින කාල වකවානුවක ගංජා ව්‍යාපාරයක් ලෙස ලොව පුරා ක්‍රියාත්මක කිරීමට දුම්කොළ සමාගම් මේ වන විටත් මුදල් යොදවයි. ගංජා ප්‍රවර්ධනය කිරීම දුම්කොළ සමාගම්වල තවත් කූඨ උපක්‍රමයකි.
+Sampath and Drugs Center Executive Director Sampath De Saram said that the largest cannabis companies in the world due to the largest cannabis and market share of the market, the largest cannabis and the market is small.
 
-දේශීය සෞඛ්‍ය අමාත්‍යංශය සහ ආයෝජන ප්‍රවර්ධන මණ්ඩලය ප්‍රකාශ කර සිටින්නේ මෙම වගාව අපනයන සඳහා මිස කිසිදු අයුරකින් රට අභ්‍යයන්තරයට ඒමට අවකාශ නොමැති බවයි.
+He pointed out that the cultivation and sale of cannabis in Sri Lanka has been banned, cultivating and selling the name of Thalagon Vijaya leaf, he has already called project proposals to popularize cannabis cultivation.. He said that the multi-national cannabis movement of expanding cannabis is based on such medicinal names.
+
+"Tobacco companies already make money as a cannabis movement in a time when the use of globally cigarettes are minimal. Promote cannabis is another trick of other categories of tobacco companies.
+
+The Department of Local Health and the Board of Investment Promotion (Investment Promotion Board) says that the cultivation is not allowed to do the country in any way.
 
 ...
 
 [Data](articles/75b7f958.json)
+
+[Extended Data](ext_articles/75b7f958.ext.json)
 
 ---
 
@@ -2345,29 +2375,5 @@ The President of the Sri Lanka Administrative Service Union (SLBC) has decided t
 [Data](articles/8c8317bc.json)
 
 [Extended Data](ext_articles/8c8317bc.ext.json)
-
----
-
-### Beat with a sharp object and another murder
-
-*2024-06-25 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198120) · `si`
-
-A 51-year-old man was murdered in his home in the Yakkalamulla area, beaten with a sharp object. The crime occurred at night, and the victim lived alone. No suspects have been identified.
-
-🟩
-
-In the Poolpitagama area, a person has been attacked with a sharp instrument in the Poolpitagama area in the Yakkalamulla area.
-
-The murder had been carried out in the night at night.
-
-The deceased has been identified as a 51 year old resident of the Yakkalamulla area.
-
-The deceased has been living alone at home and has not yet revealed the suspect regarding the murder or the suspect.
-
-◼️
-
-[Data](articles/21380d8d.json)
-
-[Extended Data](ext_articles/21380d8d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 18:13:30**
+As of **2024-06-25 18:25:14**
 
 ## Newspaper Stats
 
-*Scraped **32,108** Articles*
+*Scraped **32,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,827
 adaderanalk | 3,650
-tamilmirrorlk | 3,783
+tamilmirrorlk | 3,786
 dailymirrorlk | 4,733
 virakesarilk | 4,980
 adaderanasinhalalk | 5,267
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,106 (100.0%) of 32,108 articles have been extended.
+32,108 (100.0%) of 32,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### மாணவன் ஒருவர் துப்பாக்கியால் சுட்டு தற்கொலை
+
+*2024-06-25 18:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-ஒருவர்-துப்பாக்கியால்-சுட்டு-தற்கொலை/175-339417) · `ta`
+
+கம்பளை பிரதேசத்தில் உயர்தரப் பாடசாலை மாணவன் ஒருவர் தன்னைத் தானே துப்பாக்கியால் சுட்டுக் கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த மாணவன் தனது அறையின் கதவைப் பூட்டிவிட்டு  துப்பாக்கியால் சுட்டு உயிரிழந்துள்ளதாக கம்பளை ஹெத்கால பொலிஸார் தெரிவித்தனர்.
+
+கம்பளை வீதி உலப்பனையைச் சேர்ந்த கே.எம்.பி.ஆர்.ஜி. குலசேகர என்ற 18 வயது மாணவனே இவ்வாறு தற்கொலை செய்துக் கொண்டுள்ளார்.
+
+இவரது தாய் ஆசிரியை எனவும், தந்தை வனத்துறையில் பணியாற்றி ஓய்வு பெற்று, தற்போது தனியார் நிறுவன ஊழியர் எனவும் தெரிவிக்கப்படுகிறது.
+
+சகோதரன் பேராதனை பல்கலைக்கழகத்தில் விரிவுரையாளராகவும், ஒரே சகோதரி குருநாகல் போதனா வைத்தியசாலையில் பயிற்சி வைத்தியராகவும் கடமையாற்றுகின்றனர்.
+
+தந்தை மறைத்து வைத்திந்த அவரது  துப்பாக்கியை கண்டு பிடித்த மாணவன்,  துப்பாக்கியால் சுட்டுத் தற்கொலை செய்துக் கொண்டுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/e4051f8d.json)
+
+---
 
 ### Five-member judge bench appointed to hear ex-Navy chief’s writ
 
@@ -47,6 +69,42 @@ Accordingly, the petition will be taken up for hearing before a five-member judg
 [Data](articles/ef152ab2.json)
 
 [Extended Data](ext_articles/ef152ab2.ext.json)
+
+---
+
+### 6 மாதங்களில்  இந்திய மீனவர்கள் 214 பேர் கைது
+
+*2024-06-25 17:31:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-இந்திய-மீனவர்கள்-214-பேர்-கைது/175-339415) · `ta`
+
+2024  ஜனவரி மாதம் முதல் தற்போதைய காலம் வரை  இந்திய மீனவர்கள் 214 பேர் கடற் படையினரால் கைது செய்யப்பட்டுள்ளனர் என இலங்கை கடற்படை ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+வடக்கு கடற்பரப்பு மற்றும் கிழக்கு கடற் பரப்புகளில் அத்துமீறி நுழைந்து மீன் பிடித்தனர் என்றக் குற்றச்சாட்டில் 28 இந்திய மீன்பிடி படகுகள் கைப்பற்றப்பட்டுள்ளன. 214 இந்திய மீனவர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+இலங்கை கடற்படையினர்,  யாழ்ப்பாணம் காங்கேசன்துறை பகுதிக்குள் அப்பால் கடலில், செவ்வாய்க்கிழமை (25) மேற்கொண்ட இந்த விசேட சுற்றி வளைப்பு நடவடிக்கையின் போது 10 இந்திய மீனவர்களை கடற் படையினர் கைது செய்துள்ளனர்.
+
+“எமது வளங்களை பாதுகாக்கவும் எம்நாட்டு மக்களின் வாழ்வாதாரத்தை பாதுகாக்கவும் கடற்படையினர் மேற்கொண்ட நடவடிக்கையின் போது அந்த கடற்படை அதிகாரி உயிரிழந்துள்ளார்” என கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/6d54cf1a.json)
+
+---
+
+### அதிபர், ஆசிரியர்களுக்கு  நாளை சுகயீனம்
+
+*2024-06-25 17:29:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்களுக்கு-நாளை-சுகயீனம்/175-339414) · `ta`
+
+அதிபர்கள், ஆசிரியர்களால் நாளைய தினம் (26) முன்னெடுக்கவிருக்கும் சுகயீன விடுமுறைப் போராட்டத்திற்கு ஒத்துழைக்குமாறு இலங்கைத் தமிழர் ஆசிரியர் சங்கம் அழைப்பு விடுத்துள்ளது.
+
+இலங்கைத் தமிழர் ஆசிரியர் சங்கத்தின் நிர்வாகச் செயலாளர் சி. சசிதரன்   வெளியிட்டுள்ள அறிக்கையில் இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளது.
+
+மேலும் அந்த அறிக்கையில், சம்பள உயர்ச்சிக்காக ஒருநாள் விடுமுறையை அறிவிப்போம். அதிபர்கள் ஆசிரியர்களின் வேதன முரண்பாடுகளைத் தீர்ப்பதற்காக 1998 ஆம் ஆண்டுமுதல் மாறி மாறி வருகின்ற ஆட்சியாளர்களிடம் சம்பள முரண்பாடுகளைத் தீர்ப்பதற்கான வழிமுறைகளைக் கையளித்தோம். ஆட்சிக்கு வருவதற்கு முன்னர் தீர்ப்பதாக வாக்குறுதியளித்து பின்னர் ஏமாற்றப்பட்டோம்.
+
+இது காலம் காலமாகத் தொடர்கின்றது. இன்றைய கால கட்டத்தில் வாழ்வதற்குப் போதுமான வருமானமின்றி நாம் ஒவ்வொருவரும் கடனாளிகளாக மாறியுள்ளோம்.
+
+...
+
+[Data](articles/3e17e631.json)
 
 ---
 
@@ -266,19 +324,29 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 
 ---
 
-### පරිගණකයට ඇබ්බැහි වී උ.පෙළ සිසුවා දිවි නහගෙන
+### A-student addicted to the computer
 
 *2024-06-25 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණකයට-ඇබ්බැහි-වී-උ-පෙළ-සිසුවා-දිවි-නහගෙන/11-410428) · `si`
 
-රැකියාවට යන මවට වැඳ කාමරයට වී දොරගුලු ලාගත් උසස් පෙළ පාසල් සිසුවෙකු පතරොම් තුවක්කුවකින් වෙඩි තබාගෙන මියගොස් ඇතැයි පරීක්ෂණ පවත්වන ගම්පොළ ඇත්ගාල පොලීසිය පවසයි.
+A high school student from Gampola, known for his addiction to computers and online learning, was tragically shot dead by his mother. The incident occurred while he was staying with his brother, a university lecturer, after their parents left for work. The boy, who feared being overheard during online classes, was found with three self-inflicted wounds before the shooting. Further investigations are ongoing.
 
-මෙසේ මියගොස් ඇත්තේ ගම්පොළ පාර උලපනේ පදිංචි  දහඅට හැවිරිදි සිසුවෙකි .මොහුගේ මව ගුරුවරියක වන අතර පියා වන සංරක්ෂණ දෙපාර්තමේන්තු සේවයෙන් විශ්‍රාම ගොස් පුද්ගලික අංශයේ සේවය කරයි.
+🟩
 
-එකම සොහොයුරා පේරාදෙණිය විශ්ව විද්‍යාලයේ කථිකාචාර්යවරයකු වන අතර එකම සොයුරිය කුරුණෑගල ශික්ෂණ රෝහලේ පුහුණුවන වෛද්‍යවරියකි.මෙම සිසුවා සිය කාමරයේ පුටුවක සිටිමින් මෙම වෙඩි තබා ගැනීම සිදුකරගෙන ඇති අතර එයින් හිසේ පසුපසට බරපතළ හානි සිදුව තිබූ බව පොලීසිය පවසයි.පියා සතු මෙම තුවක්කුව සඟවා තිබියදී එය සොයා ගෙන මෙම වෙඩි තබා ගැනීම සිදුකර ගෙන තිබේ .
+A high school student who has been shot dead by the mother of the job has been investigated, police said.
+
+The deceased has been a 10-year-old student of the Gampola road.
+
+The same brother is a lecturer at the University of Peradeniya and the student has been trained in his room.Shooting has been carried out.
+
+He has been home with the brother, after his mother and father left the home for services.. The eldest brother says that the brother is alone in the room and work lessons. Learned at a International School in Gampola has gone to Kingswood College, Kandy to study the GCE O / Lined O / L examination.
+
+It is said that he was afraid that he could not be heard at the time of time ago. This student has been exerting the online lessons and frequently used the computer and mobile. Investigations also revealed that the student had cut three left-handed places with a sharp knife before being shot. The. He also said that he may have been stress and stressful.
 
 ...
 
 [Data](articles/23deb979.json)
+
+[Extended Data](ext_articles/23deb979.ext.json)
 
 ---
 
@@ -794,19 +862,25 @@ Accordingly, the Cabinet approved the joint proposal presented by the President 
 
 ---
 
-### සාපෙළ හා  ශිෂ්‍යත්ව උත්තර පත්‍ර සමීක්ෂණ දීමනා ඉහළට
+### Survey allowances to be increased and scholarship scheme
 
 *2024-06-25 13:28:38* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-හා--ශිෂ්‍යත්ව-උත්තර-පත්‍ර-සමීක්ෂණ-දීමනා-ඉහළට/11-410424) · `si`
 
-අ.පො.ස සාමාන්‍ය පෙළ හා පහ ශ්‍රේණි ශිෂ්‍යත්ව විභාගවල උත්තර පත්‍ර සමීක්ෂණය සඳහා ගෙවනු ලබන දීමනා ප්‍රතිශතයාත්මකව ඉහළ දැමීමට අනුකමිටු නිර්දේශය ලැබී ඇති අතර එම නිර්දේශ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර අනුමැතිය ලබා ගැනීමට කටයුතු කරනු ලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education plans to increase allowances for A/L scholarship exams and may replace the teachers' trade union with the Teachers' Union. It aims to reduce educational expenses by cutting down on essential textbooks and equipment in 2022.
 
-තව ද ගුරු සේවයේ ගුරුවරුන් සඳහා මෙතෙක් ක්‍රියාත්මක වු මොඩ්‍යුලර් ක්‍රමය වෙනුවට ගුරු වෘත්තීය සමිති දැනුම්වත් කර රාජ්‍ය සේවා කොමිෂන් සභාවට යොමු කරන ලද යෝජනාව කොමිසම විසින් සලකා බලා අධ්‍යාපන අමාත්‍යාංශයට යොමු කිරීමට නියමිත බවද එම අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+🟩
 
-මේ අතර 2022 වර්ෂයට වඩා 2024 වර්ෂය වන විට අධ්‍යාපන කටයුතු සඳහා අත්‍යවශ්‍ය අභ්‍යාස පොත් හා උපකරණ මිල අඩු කිරීමට අධ්‍යාපන අමාත්‍යාංශය මැදිහත්ව කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+The Ministry of Education has been subjected to increase the allowances paid to the A / L scholarship examination examination.
+
+The Commission also issued a statement to the Ministry of Education and to the Ministry of Education, the Commission will consider the proposal to replace the teacher's trade union to the Teachers' Union.
+
+According to the Ministry of Education, the Ministry of Education is intervener, to reduce the essential exercise books and equipment for education as per 2022.
 
 ◼️
 
 [Data](articles/4146f321.json)
+
+[Extended Data](ext_articles/4146f321.ext.json)
 
 ---
 
@@ -2277,73 +2351,5 @@ Another decisive match in the World Cup will be held today (25).
 [Data](articles/220cc15d.json)
 
 [Extended Data](ext_articles/220cc15d.ext.json)
-
----
-
-### We will cancel all liquor licenses and make the names of those involved. Sajith Premadasa
-
-*2024-06-25 04:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186894) · `ta`
-
-The government plans to revoke liquor licenses, highlighting concerns over corruption and misuse for political gain. The Opposition Leader criticizes the focus on liquor licenses over education and infrastructure, advocating for transparency and responsible use of funds. He supports initiatives like providing tablets and safety gear to schools and developing the manufacturing sector. The leader also emphasizes the need for disaster preparedness and flood prevention programs, drawing parallels with successful IT development in India.
-
-🟩
-
-Today, the politics of the party to the favorable pages in the country is in practice. In the absence of authority, the action is being carried out by offering money, privileges and gifts. MPs are trying to pull the parliamentaries using pear license and liquor licenses. The Opposition Leader said that even if there are no computer skills in schools, the policymakers in Parliament are thinking that the country can be built with liquor licenses without thinking about it.
-
-Therefore, the fake beer, liquor and liquor road licensing issued in recent years will be canceled in the United People's Power.. The future of the country should be provided with tape and iPads with appropriate safety equipment to school children, not based on liquor licenses.. Opposition Leader Sajith Premadasa said that if these liquor licenses are issued to improve the tourism industry, they should be provided with proper research and transparency.
-
-...
-
-[Data](articles/19b36e98.json)
-
-[Extended Data](ext_articles/19b36e98.ext.json)
-
----
-
-### Meeting of the Interim Secretariat for True and Reconciliation Mechanism in Moneragala
-
-*2024-06-25 04:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186893) · `ta`
-
-The Interim Secretariat for Truth and Reconciliation (ISTRM) convened in Moneragala from June 5-8, 2024, engaging with various stakeholders to address conflicts from 1983-2009. The initiative aimed to identify key issues and propose solutions through 12 meetings involving district officials, civil society representatives, military officers, and local communities. Discussions centered around the "Truth, Integration and Reconciliation Commission Bill" and the challenges faced by war-affected areas like Etimale, Okampitiya, and Mahagodayaya. The event also included briefings for local journalists and interactions with plantation workers and Muslim communities, highlighting a comprehensive approach to reconciliation.
-
-🟩
-
-The Interim Secretariat for Truth and Reconciliation (ISTRM) held meetings with various parties in the Moneragala district from June 05 to 08, 2024, with the aim of collecting and finding solutions due to the conflict caused by the conflict between 1983 - 2009.
-
-During that time, the Interim Secretariat for Truth and Reconciliation Mechanism held 12 meetings with a multi -faceted parties to identify the major issues and needs of the people of Moneragala district.
-
-Moneragala District Secretary R.. M.. B.. S.. B.. At the meeting with Ratnayake, the proposed “Truth, Integration and Reconciliation Commission Bill” and the role of the Interim Secretariat for Truth and Reconciliation Mechanism.
-
-Several meetings have been held in the respective Divisional Secretariats with the people of Etimale, Okampitiya and Mahagodayaya, who have been affected by the war and focused on the problems faced by the people affected by the 30 years of war.
-
-...
-
-[Data](articles/2a295093.json)
-
-[Extended Data](ext_articles/2a295093.ext.json)
-
----
-
-### If the allegation is proven, I will resign as Minister - Minister Harin Fernando
-
-*2024-06-25 04:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/186892) · `ta`
-
-Minister Harin Fernando announced his readiness to resign if the Sri Lankan cricket team is found guilty of misconduct during the 2024 T20 World Cup. He highlighted government support for athletes, including insurance for school rugby players and financial aid for selected athletes. The Minister discussed the Urumaya Land Recognition Program, aiming to grant land rights to over 50,000 people, and the importance of tourism, with efforts to increase foreign visitors and improve the maritime tourism sector. He also mentioned the new Sports Law to prevent political interference in sports associations and the government's investment in sports infrastructure.
-
-🟩
-
-Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando said that the Sri Lankan cricket team, who went for the 2024 T20 World Cup cricket, would resign from the post of Minister if it was accused of acting in a disorderly manner.
-
-The Minister said that as the government is carrying out a huge cost for the benefit of athletes, 60 international athletes have been selected and paid 50,000 rupees per month and 850 selected athletes have been paid a monthly payment of 10,000 rupees.
-
-Minister Harin Fernando made this statement at a media briefing held at the Presidential Media Center on Monday (24).
-
-Minister Harin Fernando said the government has taken steps to insure them for the safety of school rugby players.
-
-...
-
-[Data](articles/5b809d31.json)
-
-[Extended Data](ext_articles/5b809d31.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 13:35:06**
+As of **2024-06-25 13:54:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,063 (100.0%) of 32,065 articles have been extended.
+32,065 (100.0%) of 32,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,29 +44,43 @@ Speaking during the Cabinet press briefing held today (25), Minister Gunawardana
 
 [Data](articles/08dbb4de.json)
 
+[Extended Data](ext_articles/08dbb4de.ext.json)
+
 ---
 
-### මියගිය නාවික සෙබළා ගැන තවත් තොරතුරු
+### More information about the dead salary soldier
 
 *2024-06-25 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198136) · `si`
 
-උතුරු මුහුදේ නීතිවිරෝධීව ධීවර කටයුතුවල නිරත වීමේ දී අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් 10දෙනා කන්කසන්තුරය වරාය වෙත රැගෙන විත් තිබේ.
+In a recent incident involving Indian fishermen in the North Sea, ten were arrested for illegal fishing and taken to the Kankasanthurai harbor. A navy personnel, identified as a 40-year-old from Kurunegala, tragically died during the operation. The fishermen are now under the jurisdiction of the Mylidi Fisheries Office for further legal proceedings.
 
-එම පිරිස ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+🟩
 
-මෙම ඉන්දීය ධීවරයින් පිරිස අත්අඩංගුවට ගැනීමේ මෙහෙයුමේ දී සිදුවූ අනතුරකින් නාවික හමුදා නිලධාරියෙකු ජීවිතක්ෂයට පත්ව තිබුණි.
+The 10 Indian fishermen who were arrested were taken to the Kankasanthurai harbor to engage in illegal fishing activities in the North Sea.
 
-අනතුරින් මියගියේ 40 හැවිරිදි වියේ පසුවූ නාවික හමුදා විශේෂ බලඝනයේ නාවිකයෙකි.
+The group will be handed over to Mylidi Fisheries Office for further legal action.
 
-යාපනය කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවට ඇතුළු වී අනවසර ධීවර කටයුතුවල යෙදෙන ඉන්දීය ධීවර යාත්‍රා රැසක් නිරීක්ෂණය කර ඒම යාත්‍රා මෙරට මුහුදු සීමාවෙන් පළවා හැරීමේ විශේෂ මෙහෙයුමක් දියත් කර තිබුණේ අද (25) අලුයම් කාලයේදීය.
+An accident was killed in an accident in the operation to arrest the Indian fishermen.
 
-උතුරු නාවික විධානයේ වේග ප්‍රහාරය යාත්‍රා යොදාගෙන එම මෙහෙයුම සිදුකර තිබුණි.
+Navy was a 40-year-old Navy personnel who died in the accident.
 
-එහිදී අනවසර ධීවර කටයුතුවල නිරත වී සිටි ඉන්දීය ධීවර යාත්‍රාවක් සමග ධීවරයින් 10 දෙනෙකු නාවික හමුදා භාරයට ගැණුනි.
+A special operation was launched in Sri Lanka today (25), including the Indian fishing vessels in the local kankesanthurai area.
 
-...
+The operation was carried out using the northern naval command of the Northern Naval Command.
+
+Ten fishermen were taken into custody with a Indian fishing vessel who had been involved in unauthorized fisheries.
+
+The Navy said that with the arrest of the Indian fishermen and dangerous the Indian fishermen were aggressively and a sailor was seriously injured.
+
+He was then taken to the land of Jaffna Teaching Hospital.
+
+The maritime is a 40 year old Navy, a resident of the Ibbagamuwa, Kurunegala.
+
+◼️
 
 [Data](articles/ba9e483d.json)
+
+[Extended Data](ext_articles/ba9e483d.ext.json)
 
 ---
 

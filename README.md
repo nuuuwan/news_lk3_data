@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 00:19:48**
+As of **2024-06-26 00:36:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,150 (100.0%) of 32,151 articles have been extended.
+32,151 (100.0%) of 32,151 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -411,6 +411,8 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 ...
 
 [Data](articles/9397fda4.json)
+
+[Extended Data](ext_articles/9397fda4.ext.json)
 
 ---
 

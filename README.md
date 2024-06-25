@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 16:07:47**
+As of **2024-06-25 15:53:35**
 
 ## Newspaper Stats
 
@@ -26,57 +26,45 @@ adaderanasinhalalk | 5,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,078 (100.0%) of 32,078 articles have been extended.
+32,076 (100.0%) of 32,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### Cabinet approval for Hingurakgoda Airport development
+### හිඟුරක්ගොඩ ගුවන්තොටුපොළ සංවර්ධනයට කැබිනට් අනුමැතිය
 
 *2024-06-25 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198141) · `si`
 
-Cabinet approves development of Hingurakgoda Airport, a joint initiative by the President and the Ports, Navy, and Aviation Minister. Managed by the Sri Lanka Air Force, the project involves collaboration with the Civil Aviation Authority, Limited Airport and Air Services, and the Road Development Authority. A committee has been formed to oversee this endeavor.
+හිඟුරක්ගොඩ ගුවන්තොටුපොළ අංග සම්පූර්ණ ගුවන්තොටුපොළක් වශයෙන් සංවර්ධනය කිරීම සඳහා අවශ්‍ය පියවර ගැනීම සඳහා කැබිනට් අනුමැතිය හිමිවී තිබේ.
 
-🟩
+ආරක්ෂක අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවක් එලෙස අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
 
-Cabinet approval has been paid to take necessary steps to develop the Hingurakgoda Airport as a full airport.
+හිඟුරක්ගොඩ ගුවන්තොටුපොළ සංවර්ධනය කිරීම දැනට ශ්‍රී ලංකා ගුවන් හමුදාවේ කළමනාකාරිත්වය යටතේ මෙහෙයවනු ලබන අතර මෙය ජාත්‍යන්තර සිවිල් ගුවන්සේවා ප්‍රමිතීන්ට අනුකූලව සංවර්ධනය කිරීමේ අවශ්‍යතාව හඳුනා ගනු ලැබ තිබුණි.
 
-As the Minister of Defense, the Cabinet has approved a joint proposal made by the President and Ports, Navy and Aviation Minister.
-
-The development of Hingurakgoda Airport is currently managed by the Sri Lanka Air Force.
-
-Accordingly, the Sri Lanka Air Force, Civil Aviation Authority, Limited Airport and Air Services (Sri Lanka) and Road Development Authority (Sri Lanka) and Road Development Authority (Sri Lanka)A committee has been appointed.
+ඒ අනුව, එම ගුවන්තොටුපොළ සඳහා ප්‍රධාන සැලැස්ම සකස් කිරීම සහ ඊට අදාළ අනෙකුත් කාර්යයන් සඳහා ශ්‍රී ලංකා ගුවන් හමුදාව, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරිය, සීමා සහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා ( ශ්‍රී ලංකා) (පුද්ගලික) සමාගම සහ මාර්ග සංවර්ධන අධිකාරිය යන ආයතනවල නියෝජිතයින්ගෙන් යුත් කමිටුවක් පත් කර ඇත.
 
 ◼️
 
 [Data](articles/8d8d95ac.json)
 
-[Extended Data](ext_articles/8d8d95ac.ext.json)
-
 ---
 
-### Mother death by a separate wasps
+### தனி குளவியால்   தாய் மரணம்
 
 *2024-06-25 15:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனி-குளவியால்-தாய்-மரணம்/76-339398) · `ta`
 
-Sivakumar Anthony Terinda, a 44-year-old mother of two from Maskeliya, died six days post-treatment at Peradeniya Source Hospital due to a wasp attack. She was initially treated at Maskeliya District Hospital before being transferred to Dikoya-Klangan Source Hospital and then to the Teaching Hospital. The incident occurred on the 19th when workers at Maskeliya Gilland Division encountered separate wasps.
+குளவி கொட்டுக்கு இலக்கான, மஸ்கெலியாவைச் சேர்ந்த பெண்ணொருவர், பேராதனை ஆதார வைத்திய சாலையில் சிகிச்சைப்பெற்று வந்த நிலையில் ஆறு நாட்களுக்குப் பின்னர் மரணமடைந்துள்ளார்.
 
-🟩
+இரண்டு பிள்ளைகளின் தாயான, சிவகுமார் அந்தோனி டெரிண்டா (வயது 44) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
 
-A woman from Maskeliya, who was targeted for the wasp, has died six days later after being treated at Peradeniya Source Hospital.
+மஸ்கெலியா பெருந்தோட்ட கம்பனியின் மஸ்கெலியா கிலன்டில் பிரிவில், 19 ம் திகதி  பணிபுரிந்து கொண்டு இருந்த போது,  தனி ஒரு குளவி கொட்டியுள்ளது.
 
-The deceased is Sivakumar Anthony Terinda (age 44), the mother of two children.  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
-
-Maskeliya Plantation Company's Maskeliya Gilland Division has been working on the 19th, a separate wasps.
-
-The victim was admitted to the Maskeliya District Hospital and was transferred to the Dikoya-Klangan Source Hospital. However, he has died only after being transferred to the Teaching Hospital for further treatment.
+பாதிக்கப்பட்ட பெண்,  மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்கப்பட்டு, டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலையில் மாற்றப்பட்டார். எனினும், மேலதிக சிகிச்சைகளுக்காக பேராதனை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டதன் பின்னரே மரணமடைந்துள்ளார்.
 
 ◼️
 
 [Data](articles/bb0da0ec.json)
-
-[Extended Data](ext_articles/bb0da0ec.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 04:52:52**
+As of **2024-06-26 05:04:34**
 
 ## Newspaper Stats
 
-*Scraped **32,157** Articles*
+*Scraped **32,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,868
-dailyftlk | 1,965
+dailyftlk | 1,967
 adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,156 (100.0%) of 32,157 articles have been extended.
+32,157 (100.0%) of 32,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### ADIC urges halt to cannabis cultivation initiative in SL
+
+*2024-06-26 04:53:15* · [`dailyftlk`](https://www.ft.lk/news/ADIC-urges-halt-to-cannabis-cultivation-initiative-in-SL/56-763459) · `en`
+
+Marking the International Day against Drug Abuse and Illicit Trafficking the Alcohol and Drug Information Centre (ADIC) has issued a pressing call to halt recent efforts to legalise the cultivation of cannabis in Sri Lanka.
+
+Despite the Investment Promotion Ministry and the Indigenous Medicine Section of the Health Ministry actively seeking project proposals for the cultivation of cannabis for export and medicinal purposes; ADIC raised significant concerns about the initiative’s true impact on the country.
+
+In a press release, ADIC noted that while the ministries assert that their primary aim is to achieve economic benefits through cannabis exports, thereby enhancing Sri Lanka’s foreign exchange reserves, a comprehensive review by ADIC of financial records from leading cannabis firms worldwide suggests otherwise.
+
+...
+
+[Data](articles/d143b5ed.json)
+
+---
+
+### Govt. pledges full support for Bora Conference and Convention
+
+*2024-06-26 04:52:55* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-full-support-for-Bora-Conference-and-Convention/56-763458) · `en`
+
+National Security Senior Advisor to the President and Presidential Staff Chief Sagala Ratnayaka, has instructed relevant officials to provide maximum support for the successful organisation of the Bora community’s spiritual conference and annual convention in Sri Lanka.
+
+These instructions were given during a discussion held at the Presidential Secretariat on Monday regarding the upcoming Bora Conference and Convention.
+
+The Bora conference and Convention are scheduled to take place from 7 to 16 July at the Bambalapitiya Bora Mosque and the Sri Lanka Convention and Convention Centre, coinciding with the Bora community’s spiritual conference in Karachi, Pakistan.
+
+Approximately 15,000 members of the Bora community from various countries, including India, are expected to attend this event in Sri Lanka. Consequently, extensive discussions were held regarding the provision of all necessary infrastructures, including airport facilities.
+
+...
+
+[Data](articles/446cb006.json)
+
+---
 
 ### PM calls for Special Parliament session on 2 July
 
@@ -45,6 +79,8 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 ◼️
 
 [Data](articles/22b72b4a.json)
+
+[Extended Data](ext_articles/22b72b4a.ext.json)
 
 ---
 
@@ -2339,45 +2375,5 @@ Minister Mahinda Amaravarared Minister further stated that there is no fertilize
 [Data](articles/32a3d31e.json)
 
 [Extended Data](ext_articles/32a3d31e.ext.json)
-
----
-
-### Sri Lanka to call bids for new O&M contractor for Mannar wind farm
-
-*2024-06-25 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-bids-for-new-om-contractor-for-mannar-wind-farm-169425/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call call competitive bids to select a new operation and maintenance contractor for Ceylon Electricity Board’s ‘Thambapavahini’ wind farm, cabinet spokesman minister Bandula Gunawardena said.
-
-The existing O&M contract with Vestas Wind Lanka (Pvt) Limited for three years had ended in May this year.
-
-“Therefore, a new service provider should be selected for those functions,” Minister Gunawardana said.
-
-“Accordingly, the Cabinet approved the proposal presented by the Minister of Power and Energy to select a suitable service provider following a competitive procurement process.”
-
-Situated on Mannar Island in Sri Lanka’s north west coast, Thambapavani is the country’s largest wind farm.
-
-◼️
-
-[Data](articles/fdce4e19.json)
-
-[Extended Data](ext_articles/fdce4e19.ext.json)
-
----
-
-### Sri Lanka’s Interim Secretariat for Truth and Reconciliation holds consultations in Monaragala
-
-*2024-06-25 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-interim-secretariat-for-truth-and-reconciliation-holds-consultations-in-monaragala-169407/) · `en`
-
-ECONOMYNEXT — A cabinet-approved Interim Secretariat for Truth and Reconciliation Mechanism (ISTRM) has conducted stakeholder consultations in the Monaragala district to “gather insights and address community challenges” stemming from Sri Lanka’s ethnic conflict, the president’s office said.
-
-The President’s Media Division (PMD) said on Monday June 24 that the ISTRM team met Monaragala District Secretary R M P S. B Rathnayake on June 5 to brief him on the proposed Commission for Truth, Unity, and Reconciliation Bill and the work undertaken by the ISTRM.
-
-On June 6, consultations were held with villagers affected by the war in Ethimale, Okkampitiya, and Mahagodayaya at their respective Divisional Secretariat offices to address issues stemming from the 30-year conflict.
-
-...
-
-[Data](articles/86e10af4.json)
-
-[Extended Data](ext_articles/86e10af4.ext.json)
 
 ---

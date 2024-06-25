@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 11:04:56**
+As of **2024-06-25 11:19:17**
 
 ## Newspaper Stats
 
-*Scraped **32,037** Articles*
+*Scraped **32,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,816
-adaderanalk | 3,639
-tamilmirrorlk | 3,775
+adaderanalk | 3,640
+tamilmirrorlk | 3,776
 dailymirrorlk | 4,733
 virakesarilk | 4,964
 adaderanasinhalalk | 5,252
@@ -26,119 +26,199 @@ adaderanasinhalalk | 5,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,029 (100.0%) of 32,037 articles have been extended.
+32,037 (100.0%) of 32,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### වාහන ගෙන්වීම ගැන සංචාරක අමාත්‍යාංශයට චෝදනාවක්
+### Body of person who died under suspicious circumstances found near BMICH
+
+*2024-06-25 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100085/body-of-person-who-died-under-suspicious-circumstances-found-near-bmich) · `en`
+
+The body of a person who had died under suspicious circumstances has been found near the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo 07.
+
+The body was recovered based on information received by Cinnamon Garden Police yesterday (24).
+
+Police revealed that the deceased person was identified as a 39-year-old resident of Rawatawatte area of Moratuwa.
+
+Following the conducting of the postmortem examination, the body has been handed over to the family members of deceased, police said.
+
+Cinnamon Garden Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/6b8d26e7.json)
+
+---
+
+### விண்வெளியில் இருந்து, “ராமர் பாலம் ”
+
+*2024-06-25 10:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்வெளியில்-இருந்து-ராமர்-பாலம்/175-339382) · `ta`
+
+விண்வெளியில் இருந்து செயற்கைக்கோள் மூலம் எடுக்கப்பட்ட, இந்தியா - இலங்கை இடையிலான ராமர் பாலத்தின் படத்தை ஐரோப்பிய ஏஜென்சி வெளியிட்டது.
+
+இந்தியா - இலங்கை இடையிலுள்ள , கடலுக்கடியில் 48 கிலோ மீட்டர் தொலைவுக்கு, இந்தியாவின் தென்கிழக்குத் தீவுப்பகுதியான ராமேஸ்வரம் தீவிலிருந்து, இலங்கையின் மன்னார் தீவுப்பகுதிக்கு இடையில் ராமர் பாலம் அமைந்துள்ளது.
+
+இந்த்நிலையில், ராமர் பாலத்தை ஐரோப்பிய விண்வெளி ஆய்வு மையத்தின் கோப்பர்நிக்கஸ் சென்டினெல் - 2 செயற்கைக்கோள் புகைப்படம் எடுத்து ஆய்வு மையத்துக்கு அனுப்பியிருக்கிறது.
+
+இந்த புகைப்படத்தில் ராமர் பாலத்தில் இருக்கும் மண் அமைப்புகள் உலர்ந்து காணப்படுகிறதுடன் இங்கு கடலின் ஆழமே ஒன்று முதல் 10 மீட்டர் வரைதான் என ஐரோப்பிய ஏஜென்சி தெரிவித்துள்ளது.
+
+பாலம் எப்படி உருவானது என்பது பற்றி பல கோட்பாடுகள் இருந்தாலும், புவியியல் சான்றுகள்படி இந்த சுண்ணாம்புக் கற்கள் ஒரு காலத்தில் இந்தியாவை இலங்கையுடன் இணைத்த நிலத்தின் எச்சங்கள் என்று புவியியல் சான்றுகள் கூறுகின்றன.
+
+◼️
+
+[Data](articles/33fcdad8.json)
+
+---
+
+### Ministry of Traveling is alleged to import vehicles
 
 *2024-06-25 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198130) · `si`
 
-සංචාරක අමාත්‍යංශය මඟින් වාහන 1,000ක් ආනයනය කිරීම සඳහා ඉදිරිපත්කර ඇති කැබිනට් පත්‍රිකාව මඟින් එක් පාර්ශ්වයකට පමණක් සහන සැලසීමට කටයුතු කර ඇති බවට ශ්‍රී ලංකා වාහන ආනයනකරුවන්ගේ සංගමය චෝදනා කරයි.
+The Sri Lanka Chamber of Commerce accuses the Ministry of Tourism of attempting to import 1,000 vehicles without clear government purpose. This comes after a four-to-five-year ban on vehicle imports starting March 20, 2020. The initiative allegedly originates from the Ministry of Lands and Tourism, focusing on importing buses and vans. Critics argue that only a select few benefit from these imports, questioning the efficiency and fairness of the process.
 
-ඔවුන් පෙන්වා දෙන්නේ එමඟින් රජයේ අපේක්ෂිත කිසිදු අරමුණක් ඉටුනොවන බවය.
+🟩
 
-"සියලුදෙනාම දන්නවා මේ වාහන ආනයනය 2020 මාර්තු 20 වෙනිද ඉදන් නැවැත්තුවා. ඊට පස්සේ මේ වෙනකම් අවුරුදු 04ක් 05 අතර කාලයක් කිසිම වාහනයක් ආනයනය කරන්න රජය විසින් කිසිම අවස්ථාවක් ලබාදීලා නැහැ. පළවෙනි කාරණය තමයි සංචාරක අමාත්‍යාංශය විසින් ඉදිරිපත්කරලා තියෙන මේ වාහන 1,000ක් ගෙන්න හදන කැබිනට් පත්‍රිකාව.
+The Association of Sri Lanka Chamber has alleges that the Cabinet paper to import 1,000 vehicles by the Ministry of Tourism.
 
-මේක ඇත්තටම ඇවිල්ලා තියෙන්නේ ඉඩම් හා සංචාරක අමාත්‍යාංශයෙන්. මේකේ තියෙන විදිහට වාහන 1,000ක් ඒ කියන්නේ බස් සහ වෑන් රථ ආනයන කරන්න සුළු පිරිසකට ඒ කියන්නේ බ්‍රෑන්ඩ්නිව් එජන්ට්ලට විතරක් අවස්ථාවක් ලබාදිලා තියෙනවා.
+They point out that there is no purpose in the government.
 
-එකෙන් කරලා තියෙන්නේ දහස් ගණනක් ඉන්න තව ආනයනකරුවන් ඔක්කොම කපලා. ඒ අයට නොදී මේ සුළු පිරිසකට විතරක් ඒ අයගේ ලාභ ප්‍රයෝජන තකා බොහොම සූක්ෂම විදිහට සංචාකර අමාත්‍යාංශය විසින් ඒක ක්‍රියාවට නංවලා තියෙනවා.
+"All of these vehicles stopped importing from March 20, 2020. Then the government has not given any opportunity to import any vehicle for four to five years.. The first is that the cabinet paper to be brought by the Ministry of Tourism.
+
+This is really come from the Ministry of Lands and Tourism. According to a few vehicles, a small group of buses, imports of buses and vans have a chance to import buses.
+
+All the importers have thousands cut down. Only a few minorities have been implemented by their profitability.
+
+If we order a vehicle from a BrandNew agent, it goes between eight months to come. That's the NMALL PASHER. But if we donate, we can bring the vehicle when we next month. We are looking ready to the Tuckin season.
 
 ...
 
 [Data](articles/9a0a7053.json)
 
+[Extended Data](ext_articles/9a0a7053.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානය අවසන් පූර්ව වටයට
+### Afghanistan to the semi-end
 
 *2024-06-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198129) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශය සහ ඇෆ්ගනිස්තානය අතර තරගය ලකුණු 8කින් ජයගැනීමට ඇෆ්ගනිස්තාන කණ්ඩායම සමත්විය.
+In the World Cup, Afghanistan defeated Bangladesh, scoring 115 runs in 20 overs despite losing 5 wickets. Rishad Hossain took 3 wickets for Bangladesh, who set a target of 114 runs in 19 overs but could only score 105, allowing Afghanistan to advance to the semi-finals.
 
-තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 115ක් රැස්කළේය.
+🟩
 
-පන්දු යැවීමේදී බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් Rishad Hossain කඩුලු 03ක් දවාගත්තේය.
+The Afghanistan won the match between Bangladesh and Afghanistan in the World Cup.
 
-බංග්ලාදේශ කණ්ඩායම පන්දුවට පහරදෙන අවස්ථාවේ විටින් විට වර්ෂාවෙන් තරගයට බාධා ඇති වුණි.
+The Afghan group scored 115 runs for the loss of 5 wickets at the end of the total 20 overs.
 
-ඒ අනුව ඩක්වත් ලුවිස් න්‍යායට අනුව පන්දුවාර 19 කදී බංග්ලාදේශ කණ්ඩායමට හිමි වූ ඉලක්කය ලකුණු 114කි.
+Rishad HOSSAIN took 03 wickets for Bangladesh.
 
-එම ඉලක්කය හඹා යෑම ඇරඹු බංග්ලාදේශ කණ්ඩායමේ පිතිකරුවන්ට නියමිත පන්දු ඕවර 19 අවසානයේ සියලුදෙනා දැවී ලබාගැනීමට හැකි වූයේ ලකුණු 105ක් පමණි.
+When the Bangladesh team banding the Bangladesh, the race was interrupted by time to time.
 
-ඒ අනුව අවසන් පූර්ව වටයට සුදුසුකම් ලබාගැනීමට ඇෆ්ගනිස්තාන කණ්ඩායම සමත් විය.
+Accordingly, the Bangladesh target was 114 runs in 19 overs.
+
+The Batsulambaya team begun to chase that target only 105 runs in the end of 19 overs.
+
+Accordingly, Afghan group was able to qualify for the semi-finals.
 
 ◼️
 
 [Data](articles/1362db14.json)
 
+[Extended Data](ext_articles/1362db14.ext.json)
+
 ---
 
-### இந்திய மீனவர்களின் தாக்குதலில் கடற்படை சிப்பாய் மரணம்
+### Navy soldier death in Indian fishermen's attack
 
 *2024-06-25 10:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களின்-தாக்குதலில்-கடற்படை-சிப்பாய்-மரணம்/175-339376) · `ta`
 
-இந்திய மீனவர்களின் தாக்குதலுக்கு இலக்கான நிலையில் கடற்படை சிப்பாய் ஒருவர் உயிரிழந்த சம்பவம் செவ்வாய்க்கிழமை (25) இடம்பெற்றுள்ளது .
+A navy soldier named Ratnayake was killed during an incident where navy personnel from the Kankesanthurai Naval Camp attempted to apprehend Indian fishermen near the Nedundevu area. The fishermen resisted, leading to an altercation where they attacked the naval boat. Following this, the navy arrested 10 fishermen and took them aboard their vessel. The deceased sailor's body is now at the Jaffna Bodhana Hospital for examination, with ongoing investigations by the Navy and police.
 
-காங்கேசன்துறை கடற்படை முகாமில் கடமையாற்றும் ரத்நாயக்க எனும் கடற்படை வீரரே இவ்வாறு  உயிரிழந்துள்ளார்.
+🟩
 
-காங்கேசன்துறை கடற்படை முகாமை சேர்ந்த கடற்படையினர் செவ்வாய்க்கிழமை (25) அதிகாலை கடலில் சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டிருந்தபோது நெடுந்தீவு கடற்பரப்பை அண்டிய பகுதியில்,இந்திய மீனவர்கள் அத்துமீறி நுழைந்து கடற்தொழிலில் ஈடுபட்டுள்ளதை அவதானித்து , அவர்களை கைது செய்ய முயன்றுள்ளனர்.
+The death of a navy soldier on Tuesday (25) after the Indian fishermen were attacked.
 
-அதன் போது கடற்படை படகில் இருந்து , மீனவர்களின் படகுக்கு சென்ற கடற்படை வீரர் மீது இந்திய மீனவர்கள் தாக்குதல் மேற்கொண்டுள்ளதுடன் அதில் கடற்படை வீரர் பலத்த காயமடைந்துள்ளார் .
+Ratnayake, a navy person who works at the Kankesanthurai naval camp, died.
 
-அதனையடுத்து மேலதிக கடற்படையினர் , மீனவர்களின் படகுக்கு சென்று , படகில் இருந்த 10 மீனவர்களையும் கைது செய்து கடற்படை படகில் ஏற்றியுள்ளத்துடன் அவர்களின் படகும், காங்கேசன்துறை கடற்படை முகாமிற்கு கொண்டு வரப்பட்டுள்ளது .
+Navy personnel from the Kankesanthurai Naval Camp on Tuesday (25), when they were engaged in a surrounding area in the sea, Indian fishermen were trying to arrest the Indian fishermen in the area near the Nedundevu area.
 
-...
+Indian fishermen attacked the fisherman's boat from the naval boat and the fisherman's boat.
+
+Subsequently, the fishermen went to the fishermen's boat and arrested the 10 fishermen on the boat and loaded them into the navy boat.
+
+It has been revealed that the body of the deceased naval soldier has been placed at the Jaffna Bodhana Hospital for anatomical examination and further investigations are being carried out by the Navy and the police.
+
+◼️
 
 [Data](articles/83e189d5.json)
 
+[Extended Data](ext_articles/83e189d5.ext.json)
+
 ---
 
-### ஜூலியன் அசாஞ்சே சிறையில் இருந்து விடுதலை
+### Julian Assange is free from jail
 
 *2024-06-25 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜூலியன்-அசாஞ்சே-சிறையில்-இருந்து-விடுதலை/50-339375) · `ta`
 
-விக்கி லீக்ஸ் நிறுவன தலைவர் ஜூலியன் அசாஞ்சே. இவர் ஆப்கானிஸ்தான், ஈராக் போன்ற நாடுகளில் அமெரிக்கா நடத்திய போர் குற்றங்கள், மனித உரிமை மீறல்கள், ஊழல் தொடர்பான ரகசிய ஆவணங்களை ஹேக் செய்து விக்கிலீக்ஸ் இணையதளத்தில் வெளியிட்டார்.
+Julian Assange, founder of WikiLeaks, known for exposing US war crimes and corruption, was released from a UK jail on June 25, 2022. Arrested in 2019 for seeking asylum in the Ecuadorian embassy, he faced extradition to the US over charges related to publishing classified military documents. After signing a plea deal in the UK, where he had served his sentence, Assange was allowed to leave for the US to face charges there. He later appeared in court in Marina Island, acknowledging guilt but aiming for a resolution that would allow him to return to Australia.
 
-இந்த சம்பவம் உலக அளவில் பெரும் பரபரப்பை ஏற்படுத்தியது. இதையடுத்து, ஜூலியன் அசாஞ்சேவை தேடப்படும் குற்றவாளியாக அமெரிக்கா அறிவித்தது.
+🟩
 
-இந்த விவகாரத்தில் அமெரிக்கா கொடுத்த நெருக்கடிகளின் காரணமாக இங்கிலாந்தில் உள்ள ஈகுவடார் தூதரகத்தில் தஞ்சம் அடைந்த அசாஞ்சே, கடந்த 2019-ம் ஆண்டு ஏப்ரல் மாதம் கைது செய்யப்பட்டார். பின்னர் அவர் லண்டனில் உள்ள சிறையில் அடைக்கப்பட்டார். உளவு குற்றச்சாட்டை எதிர்கொண்டுள்ள ஜூலியன் அசாஞ்சேவை அமெரிக்காவிற்கு கொண்டு வரும் சட்ட நடவடிக்கைகளை அந்நாட்டு அரசு தொடங்கியது.
+Julian Assange, president of Vicky League. He posted on the WikiLeaks website by hacking the US war crimes, human rights violations and corruption in countries like Afghanistan and Iraq.
 
-இதையடுத்து, ஜூலியன் அசாஞ்சேவை அமெரிக்காவிற்கு நாடு கடத்தும்படி இங்கிலாந்து அரசு 2022-ம் ஆண்டு ஜூன் மாதம் உத்தரவிட்டது. அமெரிக்காவுக்கு நாடு கடத்தப்படுவதை எதிர்த்து அசாஞ்சே இங்கிலாந்து நீதிமன்றத்தில் முறையீடு செய்தார். இந்த வழக்கு விசாரணை இங்கிலாந்து நீதிமன்றத்தில் நடைபெற்று வந்தது.
+The incident caused a global stir. Subsequently, the US declared Julian Assange as a culprit.
+
+Asannge was arrested in April 2019 as she sought refuge at the Ecuadorian embassy in the UK due to the US crises on the issue.. Then he was imprisoned in London. The state government has begun legal action to bring Julian Assange to the United States, which is facing intelligence.
+
+Subsequently, in June 2022, the UK government ordered Julian Assange to be deported to the US. Assange appealed to the UK court to oppose deportation of the United States. The trial is being held in the UK court.
 
 ...
 
 [Data](articles/a0624e19.json)
 
+[Extended Data](ext_articles/a0624e19.ext.json)
+
 ---
 
-### கொழும்பில் ஆணொருவரின் சடலம் மீட்பு
+### Recovery of a man's body in Colombo
 
 *2024-06-25 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186901) · `ta`
 
-கொழும்பில் பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்திற்கு அருகில் ஆணொருவரின் சடலம் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man's body was found near the Bandaranaike Memorial International Conference Hall in Colombo. Identified as a 39-year-old from Moratuwa and Ravatawatte areas.
 
-சடலாமாக மீட்கப்பட்டவர் 39 வயதுடைய மொரட்டுவை, ராவத்தவத்தை பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+🟩
+
+The body of a man has been recovered near the Bandaranaike Memorial International Conference Hall in Colombo, police said.
+
+The body of the body has been identified as a 39 -year -old Moratuwa and Ravatawatte area.
 
 ◼️
 
 [Data](articles/72c1dc0d.json)
 
+[Extended Data](ext_articles/72c1dc0d.ext.json)
+
 ---
 
-### இலங்கையில் ஆரம்ப சுகாதார சேவைகளை மேம்படுத்துவதற்கு நிதியுதவி வழங்க உலக வங்கி அனுமதி
+### World Bank permits to provide financial assistance to improve primary health services in Sri Lanka
 
 *2024-06-25 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186900) · `ta`
 
-இலங்கையின் ஆரம்ப சுகாதார சேவைகளின் தரம் மற்றும் பயன்பாட்டினை மேம்படுத்துவதற்காக 150 மில்லியன் டொலர் நிதியுதவியை வழங்க உலக வங்கியின் நிறைவேற்றுப் பணிப்பாளர்கள் சபையானது அனுமதி வழங்கியுள்ளது.
+The World Bank has approved $150 million to boost Sri Lanka's primary healthcare system, aiming to enhance service delivery and quality across local health centers.
 
-இதன்மூலம்,  இலங்கையில் ஆரம்ப சுகாதார அமைப்பை மேம்படுத்தும் திட்டத்திற்கு அனுமதி வழங்கப்பட்டதன் ஊடாக உள்ளூர் மக்களுக்கு அத்தியாவசிய சுகாதார சேவைகளை வழங்கும் ஆரம்ப சுகாதார பராமரிப்பு நிலையங்களின் பயன்பாட்டை அதிகரிக்கவும், பராமரிப்பின் தரத்தை மேம்படுத்தவும் உதவும் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+The World Bank Executive Directors have granted permission to provide $ 150 million funding to improve the quality and use of Sri Lankan primary health services.
+
+It has been approved by the permission to enhance the Primary Health Organization in Sri Lanka to enhance the use of primary health care centers to provide essential health services to the locals and improve the quality of maintenance.
 
 ◼️
 
 [Data](articles/5ec332c2.json)
+
+[Extended Data](ext_articles/5ec332c2.ext.json)
 
 ---
 
@@ -264,21 +344,31 @@ Meanwhile, strong winds are likely to blow up to 40-50 kilometers per hour in th
 
 ---
 
-### சுகவீன விடுமுறை போராட்டத்திற்கு ஆதரவு வழங்குமாறு இலங்கை ஆசிரியர் சங்கம் வேண்டுகோள்
+### Sri Lanka Teachers Union appeals to support the sick holiday struggle
 
 *2024-06-25 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186898) · `ta`
 
-சம்பள நிலுவையினை வலியுறுத்தி எதிர்வரும் 26ஆம் திகதி அதிபர்கள், ஆசிரியர்கள், ஆசிரிய ஆலோசகர்கள் முன்னெடுக்கும் சுகவீன விடுமுறை போராட்டத்திற்கு அனைத்து தரப்பினரையும் ஆதரவு வழங்குமாறு இலங்கை ஆசிரியர் சங்கம் வேண்டுகோள் விடுத்துள்ளது.
+The Sri Lanka Teachers Union urges support for a sick leave protest by educators on April 26, following failed government negotiations. The union emphasizes no threats from teachers regarding trade union activities and asks parents to ensure student safety during the protest.
 
-இலங்கை ஆசிரியர் சங்கத்தின் ஊடக சந்திப்பு திங்கட்கிழமை (24) மாலை மட்டு. ஊடக அமையத்தில் நடைபெற்றது. இந்த ஊடக சந்திப்பில் இலங்கை ஆசிரியர் சங்கத்தின் கிழக்கு மாகாண இணைப்பாளர் பொ.உதயரூபன் கலந்துகொண்டு கருத்துகளை முன்வைத்தார்.
+🟩
 
-அரசாங்கத்துடன் எமது சம்பள முரண்பாடுகள் தொடர்பில் நடாத்தப்பட்ட பேச்சுவார்த்தைகள் தோல்வியடைந்ததன் காரணமாக நாடெங்கிலும் உள்ள அதிபர்கள், ஆசிரியர்கள், ஆசிரிய ஆலோசகர்கள் சுகவீன விடுமுறை போராட்டத்தினை முன்னெடுக்கவுள்ளளோம்.
+The Sri Lanka Teachers Union has requested all parties to support the sick holiday struggle carried out by principals, teachers and teacher advisers on the 26th of this month.
 
-அதிபர்கள், ஆசிரியர்கள் கூட்டமைப்பானது ஒற்றுமையாக சென்றுகொண்டிருக்கும் நிலையில் அதனை பலவீனப்படுத்துவதற்கான நடவடிக்கையினையே அரசாங்கம் முற்படுவதாகவும் அதனை முறியடிக்கும் வகையில் இலங்கை பூராகவும் கடந்த வாரம் ஆர்ப்பாட்டத்தினை முன்னெடுத்திருந்தோம்.
+Media Meeting of the Sri Lanka Teachers Union Monday (24). Held at the media conference. Eastern Province Coordinator of the Sri Lanka Teachers Union
 
-...
+Due to the failure of negotiations with the government with the government, we will carry out a sick holiday struggle for principals, teachers and teachers across the country.
+
+Last week, we staged a demonstration in Sri Lanka to defeat the government as the principals and teachers' federation was united.
+
+Eastern Provincial Coordinator of the Sri Lanka Teachers Union, Eastern Province Coordinator, said that the teachers did not submit any threats due to the notification of the trade union activities.
+
+He appealed to the parents to take responsibility for the safety of the students on this day of the protest.
+
+◼️
 
 [Data](articles/fb9c20ea.json)
+
+[Extended Data](ext_articles/fb9c20ea.ext.json)
 
 ---
 
@@ -1960,23 +2050,29 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
-### උසස්පෙළට 10දාට පෙර අයදුම් කරන්න
+### Apply before 10h to A / L
 
 *2024-06-24 19:45:56* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළට-10දාට-පෙර-අයදුම්-කරන්න/11-410413) · `si`
 
-අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය (2024 ) සඳහා පෙනී සිටින  පාසල් හා පෞද්ගලික අයදුම්කරුවන් ඔන්ලයින් තාක්ෂණය ඔස්සේ  ලබන මස 10 වැනි දිනට පෙර අයදුම්පත් යොමු කළ යුතු බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+Submit GCE Advanced Level Exam 2024 applications by October 10th. No extensions. Apply online via doenets.lk or onlinexams.gov.lk. School applicants must be processed by principals; private candidates apply directly. For inquiries, call 1912, 0112784208, or 0112784537.
 
-අයදුම්පත් භාරගැනීමේ  අවසාන දිනය දීර්ඝ නොකරන බවත්, මේ නිසා නියමිත දිනට පෙර විභාගයට ඉල්ලුම් කළ යුතු බවත් පෙන්වා දෙයි.
+🟩
 
-විභාග දෙපාර්තමේන්තුවේ www.doenets.lk  හෝ www. Onlineexams.gov.lk/eic   වෙත පිවිස  හෝ DoE  නිල ජංගම යෙදුම මගින් අදාෙළ අයදුම්පත් යොමු කිරීම සිදුකළ හැකි බවද සඳහන් කරයි.
+Applications for the Advanced Level Examination (2024) the GCE Advanced Level Examination should be forwarded before the 10th of this month.
 
-පාසල් අයදුම්කරුවන් විදුහල්පතිවරයා මගින් හා පෞද්ගලික අයදුම්කරුවන් තමන් විසින් අදාළ  අයදුම්පත් යොමු කළ යුතු බවත් , පෞද්ගලික අයදුම්කරුවන්  අයදුම්පත් ඉදිරිපත් කිරිමෙන්  පසුව එහි මුද්‍රිත පිටපතක්  තමන් භාරයේ සුරක්ෂිතව තබාගත යුතු බතේ පෙන්වා දෙයි.
+The closing date of applications will not be extended, he pointed out that the deadline should be applied for the date.
 
-මේ පිළිබඳව කිසියම් විමසීමක් සිදුකිරීමට අවශ්‍ය නම් 1911 හෝ 0112784208 හෝ 0112784537 යන දුරකතන අංක මගින් විමසීම් සිදුකළ හැකිය.
+Examination Department www.doenets.lk or www. It is said that the onlinexams.gov.lk can be accessed or the DOE official application can be forwarded.
+
+School applicants should pay applications by the principal and the private candidates should be submitted by private candidates after they submit applications.
+
+If you want to be inquiring into the matter, you can contact the telephone numbers of 1912 or 0112784208 or 0112784537.
 
 ◼️
 
 [Data](articles/ad2476c3.json)
+
+[Extended Data](ext_articles/ad2476c3.ext.json)
 
 ---
 
@@ -2113,49 +2209,5 @@ Acting Director General of the Department Dr. Kamani Ranatunga, the introduction
 [Data](articles/06764fea.json)
 
 [Extended Data](ext_articles/06764fea.ext.json)
-
----
-
-### The games of the political fools in the government will end in two months - former President Maithri
-
-*2024-06-24 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186879) · `ta`
-
-Former President Maithripala Sirisena predicts political changes within two months, stating Wijeyadasa Rajapakse will win the SLFP candidacy for the upcoming presidential election. He addresses legal challenges and calls for responsible journalism, emphasizing the SLFP's readiness for the election despite opposition.
-
-🟩
-
-The games of some political fools working with the government will be completed in two more months. Former President Maithripala Sirisena has said that Wijeyadasa Rajapakse will win the Sri Lanka Freedom Party (SLFP) candidate in the proposed presidential election.
-
-He made this statement while addressing the media after a meeting with the SLFP organizers in Kandy on Monday (24). As he further notes,
-
-The court has issued a ban on acting as party leader. Not to engage in political activities as religious. So we have no problem with carrying out our usual political activities. The games of some political fools will be completed in two more months. Then they don't know where they will drive.
-
-We cannot close anyone's mouth in politics. Those who are currently working with the government have no right to the Freedom Party. The trial filed against us is yet to be completed. Only the interim injunction has been issued.
-
-...
-
-[Data](articles/1c151026.json)
-
-[Extended Data](ext_articles/1c151026.ext.json)
-
----
-
-### Sri Lanka must extend free visa to more countries to compete with regional competitors - Tourism Minister
-
-*2024-06-24 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100076/sri-lanka-must-extend-free-visa-to-more-countries-to-compete-with-regional-competitors-tourism-minister) · `en`
-
-Sri Lanka’s Minister of Tourism Harin Fernando says that the country must issue free visas to tourists for more countries in order to compete with its regional competitors and to achieve the nation’s ambitious target of 2.3 million tourist arrivals within the year.
-
-Speaking during a press conference held today, the Minister expressed that the special committee report on the proposal to issue free visas to tourists from 67 countries will be presented to the Cabinet of Ministers within the next 2 weeks.
-
-Furthermore, Fernando revealed a number of government initiatives intended to attract more tourists to the country.
-
-“Cabinet has appointed a special committee to provide a report on the proposal to issue free visas to tourists from 67 countries. That committee’s report will be submitted to Cabinet either this week or the next”, the Minister said.
-
-...
-
-[Data](articles/2a8376bd.json)
-
-[Extended Data](ext_articles/2a8376bd.ext.json)
 
 ---

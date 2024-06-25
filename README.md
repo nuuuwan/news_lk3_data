@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 00:08:19**
+As of **2024-06-25 23:54:35**
 
 ## Newspaper Stats
 
@@ -26,37 +26,27 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,150 (100.0%) of 32,150 articles have been extended.
+32,149 (100.0%) of 32,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### Sri Lanka arrived in Sri Lanka as a two -day visit "Sachet"
+### இரு நாள் விஜயமாக இலங்கை வந்தது “சச்செட்”
 
 *2024-06-25 23:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-நாள்-விஜயமாக-இலங்கை-வந்தது-சச்செட்/175-339432) · `ta`
 
-During a two-day visit, the Indian Coast Guard presented a $1.2 million gift of spare parts to the Sri Lankan coastal police vessel, Suraksha. This gesture, involving high-ranking officials from both nations, underscores India's commitment to enhancing maritime security in the region through mutual cooperation.
+இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க டொலர் பெறுமதியான உதிரிப் பாகங்களை இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் அன்பளிப்பாக வழங்கியது இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் இரு நாள்
 
-🟩
+இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க  டொலர் பெறுமதியான உதிரிப் பாகங்களை அன்பளிப்பாக வழங்குவதற்காக கரையோரக் காவல் படையின் குறித்த ரோந்துக் கப்பல் இவ்விஜயத்தினை மேற்கொண்டிருந்தது.
 
-Sri Lanka Coastal Police Ship
+இவ்வருகையின் அங்கமாக இக்கப்பலின் கட்டளை அதிகாரி பிரதி அத்தியட்சகர் ஜெனரல் ஆர் ராஜேஷ் நம்பிராஜ் TM அவர்கள் மேற்கு கடற் பிராந்திய தளபதி ரியர் அட்மிரல் TSK பெரேரா அவர்களையும் இலங்கை கரையோரக் காவல் படையின் பணிப்பாளர் நாயகம் ரியர் அட்மிரல் பூஜித விதான அவர்களையும் சந்தித்திருந்தார்.
 
-The Patrol Ship on the Coastal Police for giving a gift of US $ 1.2 million worth of spare parts for the Sri Lankan coastal police vessel, Suraksha.
-
-As a part of the ship's Commanding Officer, R. Rajesh Nambiraj TM, the Western Western Regional Commander Rear Admiral TSK Perera and the Director General of the Sri Lanka Coast Guard, Rear Admiral Poojitha Vidhana.
-
-௨. At an event held as part of the visit, the Indian Coast Guard was officially handed over to the Sri Lankan Coast Guard, Suraksha, the Sri Lanka Coast Guard, Suraksha.. At the event
-
-Sri Lanka's High Commissioner of India, Hon. Santosh Ja, Sri Lanka's Defense Secretary General Kamal Gunaratne (Retired), Navy Commander Vice Admiral Priyantha Perera, Western Regional Navy Commander Rear Admiral TSK Perera
-
-Senior officials of the Sri Lanka Coastal Police Force were also in the limelight. The ship left on June 21, 2024.
+2. இந்த விஜயத்தின் ஓர் அங்கமாக நடைபெற்றிருந்த நிகழ்வொன்றில் இந்திய கரையோரக் காவல் படையின் இக்கப்பலால் இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்ஷாவுக்கு தேவையான உதிரிப் பாகங்கள் உத்தியோகபூர்வமாக கையளிக்கப்பட்டிருந்தன. இந்நிகழ்வில்
 
 ...
 
 [Data](articles/dd307911.json)
-
-[Extended Data](ext_articles/dd307911.ext.json)
 
 ---
 

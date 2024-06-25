@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 18:25:14**
+As of **2024-06-25 18:36:25**
 
 ## Newspaper Stats
 
-*Scraped **32,111** Articles*
+*Scraped **32,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,827
 adaderanalk | 3,650
-tamilmirrorlk | 3,786
+tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
 virakesarilk | 4,980
 adaderanasinhalalk | 5,267
@@ -26,15 +26,67 @@ adaderanasinhalalk | 5,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,108 (100.0%) of 32,111 articles have been extended.
+32,111 (100.0%) of 32,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### மாணவன் ஒருவர் துப்பாக்கியால் சுட்டு தற்கொலை
+### பலாலியில் சுற்றுலாத் தகவல் மையம்
+
+*2024-06-25 18:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலாலியில்-சுற்றுலாத்-தகவல்-மையம்/175-339418) · `ta`
+
+யாழ்ப்பாணம், பலாலி சர்வதேச விமான நிலையத்தில் பயணிகள் வெளியேறும் பகுதியில் சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தை வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ், செவ்வாய்க்கிழமை (25) திறந்து  வைத்தார்.
+
+வடக்கு மாகாணத்தில் சுற்றுலாப் பயணிகள் இலகுவாக பயணிக்க கூடிய வரலாற்று சிறப்புமிக்க இடங்கள், வழிபாட்டு தளங்கள் உள்ளிட்ட விடயங்கள் அடங்கிய  சுற்றுலா வழிகாட்டி கையேடுகளை தகவல் தொடர்பு நிலையத்தில் இலவசமாக பெற்றுக்கொள்ள முடியும்.
+
+அத்துடன் வடக்கு மாகாணத்தில் உற்பத்தி செய்யப்படும் கைவினைப் பொருட்களும் இங்கு விற்பனைக்கு வைக்கப்பட்டுள்ளன.
+
+சுற்றுலாப் பயணிகளுக்கான  தகவல்  தொடர்பு நிலையத்தை திறந்து வைத்ததன் பின்னர், விமான நிலைய செயற்பாடுகளை ஆளுநர்  பார்வையிட்டதுடன், விமான பயணிகளுடனும் கலந்துரையாடினார்.
+
+சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் வடக்கு மாகாண பிரதம செயலாளர், உள்ளூராட்சி அமைச்சின் செயலாளர், சுற்றுலாப் பணியகத்தின் தலைவர், விமான நிலைய அதிகாரிகள் என பலரும் கலந்துச் சிறப்பித்தனர்.
+
+◼️
+
+[Data](articles/a5cb9145.json)
+
+---
+
+### A student shot dead by a gun
 
 *2024-06-25 18:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-ஒருவர்-துப்பாக்கியால்-சுட்டு-தற்கொலை/175-339417) · `ta`
+
+An 18-year-old student from Gampola, Kulasekara, tragically ended his life by shooting himself. The incident occurred after finding his father's hidden gun. Kulasekara, who aspired to join a prestigious school in Kandy for his GCE Ordinary Level exams, feared failing due to poor preparation. His family includes a teacher mother, a retired forest department official turned private company employee father, a brother who is a university lecturer, and a sister who is a doctor at Kurunegala Teaching Hospital.
+
+🟩
+
+A high school student in Gampola area has shot himself a fire, police said.
+
+The student locked the door of his room and shot dead, the Gampala police said.
+
+KMPRG of Gampola Road. Kulasekara, an 18 -year -old student, committed suicide.
+
+It is reported that her mother is a teacher and the father is retired in the Forest Department and is currently a private company employee.
+
+Brother is a lecturer at Peradeniya University and the only sister is a training doctor at the Kurunegala Teaching Hospital.
+
+Investigators say that a student who found his father's hidden gun had committed suicide by shooting himself.
+
+The student, who is studying at the Gampola International School, has joined a popular school in Kandy to study with the 08A Siddhi and B Siddhi in the GCE Ordinary Level Examination.
+
+Preparing for high quality a year ago, he was reportedly fearing that he would not be able to write the exam.
+
+...
+
+[Data](articles/e4051f8d.json)
+
+[Extended Data](ext_articles/e4051f8d.ext.json)
+
+---
+
+### தன்னுயிரை மாய்த்த   உ/த மாணவன்
+
+*2024-06-25 18:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்னுயிரை-மாய்த்த-உ-த-மாணவன்/175-339417) · `ta`
 
 கம்பளை பிரதேசத்தில் உயர்தரப் பாடசாலை மாணவன் ஒருவர் தன்னைத் தானே துப்பாக்கியால் சுட்டுக் கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
@@ -50,7 +102,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/e4051f8d.json)
+[Data](articles/fdf80abb.json)
 
 ---
 
@@ -72,39 +124,53 @@ Accordingly, the petition will be taken up for hearing before a five-member judg
 
 ---
 
-### 6 மாதங்களில்  இந்திய மீனவர்கள் 214 பேர் கைது
+### 214 Indian fishermen arrested in 6 months
 
 *2024-06-25 17:31:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-இந்திய-மீனவர்கள்-214-பேர்-கைது/175-339415) · `ta`
 
-2024  ஜனவரி மாதம் முதல் தற்போதைய காலம் வரை  இந்திய மீனவர்கள் 214 பேர் கடற் படையினரால் கைது செய்யப்பட்டுள்ளனர் என இலங்கை கடற்படை ஊடகப் பிரிவு தெரிவித்துள்ளது.
+In the past six months, 214 Indian fishermen were arrested, and 28 boats were seized by the Sri Lanka Navy for allegedly fishing in restricted waters. The arrests included a special operation near Kankesanthurai, where one naval officer died. The navy aims to curb illegal foreign fishing to safeguard local fisheries.
 
-வடக்கு கடற்பரப்பு மற்றும் கிழக்கு கடற் பரப்புகளில் அத்துமீறி நுழைந்து மீன் பிடித்தனர் என்றக் குற்றச்சாட்டில் 28 இந்திய மீன்பிடி படகுகள் கைப்பற்றப்பட்டுள்ளன. 214 இந்திய மீனவர்களும் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இலங்கை கடற்படையினர்,  யாழ்ப்பாணம் காங்கேசன்துறை பகுதிக்குள் அப்பால் கடலில், செவ்வாய்க்கிழமை (25) மேற்கொண்ட இந்த விசேட சுற்றி வளைப்பு நடவடிக்கையின் போது 10 இந்திய மீனவர்களை கடற் படையினர் கைது செய்துள்ளனர்.
+From January 2024 to the present, 214 Indian fishermen have been arrested by the Sri Lanka Navy Media Unit.
 
-“எமது வளங்களை பாதுகாக்கவும் எம்நாட்டு மக்களின் வாழ்வாதாரத்தை பாதுகாக்கவும் கடற்படையினர் மேற்கொண்ட நடவடிக்கையின் போது அந்த கடற்படை அதிகாரி உயிரிழந்துள்ளார்” என கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+28 Indian fishing boats have been seized on charges that they have been fishing in the northern seas and eastern seas.. 214 Indian fishermen have also been arrested.
 
-...
+The Sri Lankan navy has arrested 10 Indian fishermen during a special surrounding campaign, which was carried out on Tuesday (25) in the sea beyond the Kankesanthurai area in Jaffna.
+
+“The Navy officer died during the operation of the Navy to protect our resources and to protect the livelihood of the people of the country,” the Navy Media Unit said.
+
+The Navy is facing the most difficult and dangerous situations to prevent illegal fishing operations by foreign fishing vessels and boats in the country to protect the livelihood of domestic fishermen.
+
+◼️
 
 [Data](articles/6d54cf1a.json)
 
+[Extended Data](ext_articles/6d54cf1a.ext.json)
+
 ---
 
-### அதிபர், ஆசிரியர்களுக்கு  நாளை சுகயீனம்
+### Chancellor, teachers will be ill tomorrow
 
 *2024-06-25 17:29:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்களுக்கு-நாளை-சுகயீனம்/175-339414) · `ta`
 
-அதிபர்கள், ஆசிரியர்களால் நாளைய தினம் (26) முன்னெடுக்கவிருக்கும் சுகயீன விடுமுறைப் போராட்டத்திற்கு ஒத்துழைக்குமாறு இலங்கைத் தமிழர் ஆசிரியர் சங்கம் அழைப்பு விடுத்துள்ளது.
+The Sri Lanka Tamil Teachers Association has called for a one-day holiday tomorrow to protest against unresolved salary issues dating back to 1998. They urge cooperation from principals and teachers to support this strike, emphasizing the need for the government to address their financial struggles promptly.
 
-இலங்கைத் தமிழர் ஆசிரியர் சங்கத்தின் நிர்வாகச் செயலாளர் சி. சசிதரன்   வெளியிட்டுள்ள அறிக்கையில் இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளது.
+🟩
 
-மேலும் அந்த அறிக்கையில், சம்பள உயர்ச்சிக்காக ஒருநாள் விடுமுறையை அறிவிப்போம். அதிபர்கள் ஆசிரியர்களின் வேதன முரண்பாடுகளைத் தீர்ப்பதற்காக 1998 ஆம் ஆண்டுமுதல் மாறி மாறி வருகின்ற ஆட்சியாளர்களிடம் சம்பள முரண்பாடுகளைத் தீர்ப்பதற்கான வழிமுறைகளைக் கையளித்தோம். ஆட்சிக்கு வருவதற்கு முன்னர் தீர்ப்பதாக வாக்குறுதியளித்து பின்னர் ஏமாற்றப்பட்டோம்.
+The Sri Lanka Tamil Teachers Association has called on the Principals and Teachers to cooperate with the ongoing holiday struggle to be launched tomorrow (26).
 
-இது காலம் காலமாகத் தொடர்கின்றது. இன்றைய கால கட்டத்தில் வாழ்வதற்குப் போதுமான வருமானமின்றி நாம் ஒவ்வொருவரும் கடனாளிகளாக மாறியுள்ளோம்.
+Executive Secretary of the Sri Lanka Tamil Teachers Union. Sasitharan's statement was made.
+
+And in that report, we will announce the one -day holiday for the salary high. In order to solve the painful contradictions of the principals, we have handed over to the rulers who have been changing since 1998 to resolve pay conflicts. We promised to judge before coming to power and later deceived.
+
+It continues for a period of time. In today's time, we have become a debtor without enough income to live.
 
 ...
 
 [Data](articles/3e17e631.json)
+
+[Extended Data](ext_articles/3e17e631.ext.json)
 
 ---
 
@@ -2311,45 +2377,5 @@ The bill is that the bill is to prepare mechanisms to protect women and prosecut
 [Data](articles/446f71fa.json)
 
 [Extended Data](ext_articles/446f71fa.ext.json)
-
----
-
-### Showers over 100mm
-
-*2024-06-25 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198117) · `si`
-
-Heavy rainfall expected today across Western, Sabaragamuwa, North Western provinces, and certain districts including Kandy, Nuwara Eliya, Trincomalee, Hambantota, and Moneragala. Wind gusts of 40-50 km/h also predicted.
-
-🟩
-
-The Department of Meteorology states today (25) in the Western, Sabaragamuwa and North Western provinces.
-
-The department states in some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Heavy showers can occur around 100.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Met Department further stated that there are 40-50 strong winds.
-
-◼️
-
-[Data](articles/c1aa0c8c.json)
-
-[Extended Data](ext_articles/c1aa0c8c.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2024-06-25 05:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198116) · `si`
-
-A crucial World Cup match against Afghanistan takes place today, aiming to secure a significant advantage.
-
-🟩
-
-Another decisive match in the World Cup will be held today (25).
-
-◼️
-
-[Data](articles/220cc15d.json)
-
-[Extended Data](ext_articles/220cc15d.ext.json)
 
 ---

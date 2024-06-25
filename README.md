@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 15:19:23**
+As of **2024-06-25 15:34:53**
 
 ## Newspaper Stats
 
@@ -26,35 +26,39 @@ adaderanasinhalalk | 5,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,074 (100.0%) of 32,076 articles have been extended.
+32,076 (100.0%) of 32,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### උසස් පෙළ සිසුවෙක් නිවසෙදී වෙඩිතබා ගනී
+### A higher texts shot at home
 
 *2024-06-25 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198140) · `si`
 
-වෙඩිතබා ගෙන සියදිවි නසා ගත් උසස් පෙළ පාසල් සිසුවෙකු පිළිබඳ පුවතක් ගම්පොළ ප්‍රදේශයෙන් වාර්තා වෙයි.
+In Gampola, a student named Kulasekara, 18, was shot dead at his home. The incident occurred when he went to his room, which was locked. He was identified as a resident of Ulapane Road, Gampola, and was preparing to move to a school in Kandy after passing the GCE O/L exams. His family includes a teacher mother, a retired forest department father, a university lecturer brother, and a doctor sister. The police are investigating the motive behind the shooting.
 
-ගම්පොළ ඇත්ගාල පොලීසිය පැවසුවේ, රැකියාවට යන මවට වැඳ කාමරයට ගොස් ඇති අදාළ සිසුවා කාමරයේ දොර අගුල් දමාගෙන පතොරම් තුවක්කුවකින් මුඛයට වෙඩිතබා ගෙන මියගොස් ඇති බවය.
+🟩
 
-මෙසේ මියගොස් ඇත්තේ ගම්පොළ පාර උලපනේ පදිංචි කේ.එම්.බී.ආර්.ජී. කුලසේකර නමැති 18 හැවිරිදි සිසුවෙකි.
+A meeting of a suicide school student who has been shot dead is reported from the Gampola area.
 
-ඔහුගේ මව ගුරුවරියක වන අතර පියා වන සංරක්ෂණ දෙපාර්තමේන්තු සේවයෙන් විශ්‍රාම ගොස් පුද්ගලික අංශයේ සේවය කරන්නෙකි.
+The Idola Police said that the student who had gone to the host of the work to the host of the work, the door of the room was locked and shot dead by a ammunition gun.
 
-එකම සොහොයුරා පේරාදෙණිය විශ්වවිද්‍යාලයේ කථිකාචාර්යවරයකු වන අතර එකම සොයුරිය කුරුණෑගල ශික්ෂණ රෝහලේ පුහුණුවන වෛද්‍යවරියකි.
+The deceased has been identified by KMBRG, a resident of Ulapane road, Gampola. Kulasekara is an 18 year old student.
 
-පියා සතු මෙම ගිනිඅවිය සඟවා තිබියදී එය සොයා ගෙන ඇති සිසුවා ඉන් මෙම වෙඩිතබා ගැනීම සිදු කරගෙන තිබූ බව පරීක්ෂණ පවත්වන පොලීසිය පවසයි.
+His mother is a teacher and the father is retired from the Department of Forest Conservation.
 
-ගම්පොළ ජාත්‍යන්තර පාසලක ඉගෙනුම ලැබූ මෙම සිසුවා A සාමාර්ථ 08ක් හා B සාමාර්ථයක් සහිතව අ.පො.ස සාමාන්‍ය පෙළ විභාගය සමත්වීමෙන් පසු උසස් පෙළ හැදෑරීම සඳහා මෙලෙස මහනුවර ජනප්‍රිය පාසලකට ඇතුළුවී තිබුණි.
+The same son is a lecturer at the University of Peradeniya and is a doctor in Kurunegala Teaching Hospital.
 
-නියමිත කාලයට වසරකට කලින් උසස් පෙළට සූදානම් වූ මොහුට විභාගය කරගැනීමට නොහැකි වෙතැයි බියක් තිබූ බවද පැවසෙයි.
+Police are conducting further investigations that the student who had found the victbage had taken place when the father had hidden the father.
+
+The student who studied at a International School in Gampola was passing out to a popular school in Kandy after passing the GCE O / L examination with the GCE Ordinary Level Examination with the GCE O / L examination.
 
 ...
 
 [Data](articles/fd79a9cb.json)
+
+[Extended Data](ext_articles/fd79a9cb.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ Subsequently, the case was ordered to be recalled on July 09, and the injunction
 ◼️
 
 [Data](articles/c756ea4b.json)
+
+[Extended Data](ext_articles/c756ea4b.ext.json)
 
 ---
 

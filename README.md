@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 07:47:21**
+As of **2024-06-25 08:13:59**
 
 ## Newspaper Stats
 
-*Scraped **32,000** Articles*
+*Scraped **32,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
-adalk | 2,811
+adalk | 2,812
 adaderanalk | 3,635
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
 virakesarilk | 4,950
-adaderanasinhalalk | 5,244
+adaderanasinhalalk | 5,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,993 (100.0%) of 32,000 articles have been extended.
+32,000 (100.0%) of 32,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### BMICH ළඟ සැකකටයුතු මරණයක්
+
+*2024-06-25 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198123) · `si`
+
+කුරුඳුවත්ත පොලිස් වසමේ බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව අසල පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් තිබේ.
+
+ඊයේ (24) අලුයම් කාලයේදී එම සිරුර සොයාගෙන තිබුණේ කුරුඳුවත්ත පොලීසියට ලද පණිවුඩයකට අනුවය.
+
+මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය සම පශ්චාත් මරණ පරීක්ෂණය සිදුකර මෘත ශරීරය ඥාතීන් වෙත භාරදී තිබේ.
+
+මේ අතර පොල්පිතගම පොලිස් වසමේ නියදවනය ප්‍රදේශයේ කැලෑබද ප්‍රදේශයක තිබී සැකකටයුතු ලෙස මියගෝ පුද්ගලයෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+
+මෙලස මියගොස් ඇත්තේ, මල්අස්න, පොල්පිතිගම ප්‍රදේශයේ පදිංචිව සිටි 53 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු මාසයකට පමණ පෙර සිට ඇතුරුදන්ව සිට ඇති අතර මීමැස්මොරය රෝගය සඳහා ප්‍රතිකාර ලබාගන්න අයෙකු බවටත් අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/014ab327.json)
+
+---
 
 ### WikiLeaks founder Julian Assange to plead guilty in deal with US and be freed from prison
 
@@ -44,23 +66,31 @@ Assange left a British prison on Monday and will appear later this week in the U
 
 [Data](articles/b0b78f6b.json)
 
+[Extended Data](ext_articles/b0b78f6b.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානයෙන් ලකුණු 116ක ඉලක්කයක්
+### 116 runs in Afghanistan
 
 *2024-06-25 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198122) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශ කණ්ඩායම සහ ඇෆ්ගනිස්තාන අතර තරගය මේ වනවිට පැවැත්වෙයි.
+In the World Cup, Bangladesh defeated Afghanistan by 116 runs. Afghanistan scored 115 runs in 20 overs, losing 5 wickets. Rishad Hossain was Bangladesh's top bowler with 3 wickets.
 
-තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 115ක් රැස්කළේය.
+🟩
 
-පන්දු යැවීමේදී බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් Rishad Hossain කඩුලු 03ක් දවාගත්තේය.
+The match between the Bangladesh team and Afghanistan in the World Cup match will be held in the world.
 
-ඒ අනුව තරගය ජය ගැනීම සඳහා බංග්ලාදේශ කණ්ඩායමට ලකුණු 116ක ඉලක්කයක් හිමිව තිබේ.
+The Afghan group scored 115 runs for the loss of 5 wickets at the end of the total 20 overs.
+
+Rishad HOSSAIN took 03 wickets for Bangladesh.
+
+Bangladesh has won 116 runs in order to win the match.
 
 ◼️
 
 [Data](articles/980f350e.json)
+
+[Extended Data](ext_articles/980f350e.ext.json)
 
 ---
 
@@ -80,63 +110,81 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 [Data](articles/89512c42.json)
 
+[Extended Data](ext_articles/89512c42.ext.json)
+
 ---
 
-### පරිපාලන සංගමය වෘත්තීය සමිති ක්‍රියාමාර්ගය අත්හරියි
+### Administrative Society abandals trade union action
 
 *2024-06-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198121) · `si`
 
-‍අග්‍රාමාත්‍යවරයා සමග පැවති සාකච්ඡාවෙන් අනතුරුව සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය තාවකාලිකව නතර කිරීමට තීරණය කළ බව ශ්‍රී ලංකා පරිපාලන සේවා සංගමය පවසයි.
+After discussions with the Prime Minister, the Sri Lanka Administrative Service Union temporarily halted its trade union action. The union agreed to resume work from June 1st, following an increase in allowances. The President of the Association, Mahesh Gammanpila, announced this decision. Despite this, other unions, including the Education Management Workers Union and Teacher-Principal Trade Unions, plan to continue striking. The university union integration committee also indicated that the ongoing strike by university employees would persist.
 
-එම සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා සඳහන් කළේ, ජුනි මස පළමු වනදා සිට ක්‍රියාත්මක වන පරිදි දීමනා වැඩිවීමක් ලබා දීමට එකඟතාව පළවූ බවය.
+🟩
 
-වැටුප් වැඩිවීම  ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ශ්‍රී ලංකා පරිපාලන සේවා සංගමය අසනීප නිවාඩු වාර්තා කරමින් වැඩවර්ජනයක නිතර වීමට තීරණයය කර තිබිණි.
+The Sri Lanka Administrative Service Association says that after the discussion with the Prime Minister, the Sri Lanka Administrative Service Union states that his trade union action has been temporarily suspended.
 
-අදාළ ඉල්ලීම් සම්බන්ධයෙන් ඊයේ (24) පස්වරුවේ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහ වෘත්තීය සමිති නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක් පවත්වා තිබේ.
+The President of the Association Mahesh Gammanpila stated that it has been agreed to increase the allowances to operate from the first June.
 
-එම සාකච්ඡාවේදී එකඟතාවයකට පැමිණීමට හැකි වූ බැවින් සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය තාවකාලීකව නතර කිරීමට තීරණය කළ බව ශ්‍රී ලංකා පරිපාලන සේවා සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා පැවසුවේය.
+The Sri Lanka Administrative Service Union had decided to be frequent of being frequent of the sick leave, reports the sick leave.
 
-අ‍ග්‍රාමාත්‍යවරයා සමග පැවති සාකච්ජාවට විධායක නිලධාරීන්ගේ සංගමයේ නියෝජතයින්ද සහභාගී වී සිටි අතර එහෙත් සිය ඉල්ලීම්වලට යහපත් ප්‍රතිචාර නොලැබුණු බව රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුවේ සභාපති එච්.ඒ.එල් උදයසිරි මහතා සඳහන් කළේය.
+Prime Minister Dinesh Gunawardena and the trade union representatives have held a special discussion regarding the demands yesterday (24).
+
+The President of the Sri Lanka Administrative Service Union (SLBC) has decided to stop the trade union action, as it was possible to reach the discussion.
 
 ...
 
 [Data](articles/8c8317bc.json)
 
+[Extended Data](ext_articles/8c8317bc.ext.json)
+
 ---
 
-### තියුණු ආයුධයකින් පහර දී තවත් ඝාතනයක්
+### Beat with a sharp object and another murder
 
 *2024-06-25 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198120) · `si`
 
-යක්කලමුල්ල පොලිස් වසමේ පොල්පගොඩ ප්‍රදේශයේදී පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A 51-year-old man was murdered in his home in the Yakkalamulla area, beaten with a sharp object. The crime occurred at night, and the victim lived alone. No suspects have been identified.
 
-ඊයේ (24) රාත්‍රී කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, පොල්පගොඩ, යක්කලමුල්ල ප්‍රදේශයේ පදිංචිව සිටි 51 හැවිරිදි පුද්ගලයෙකි.
+In the Poolpitagama area, a person has been attacked with a sharp instrument in the Poolpitagama area in the Yakkalamulla area.
 
-මරණකරු නිවසේ තනිව ජීවත්ව සිට ඇති අතර ඝාතනය සිදුකිරීමට හේතුව හෝ සැකකරු සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැත.
+The murder had been carried out in the night at night.
+
+The deceased has been identified as a 51 year old resident of the Yakkalamulla area.
+
+The deceased has been living alone at home and has not yet revealed the suspect regarding the murder or the suspect.
 
 ◼️
 
 [Data](articles/21380d8d.json)
 
+[Extended Data](ext_articles/21380d8d.ext.json)
+
 ---
 
-### අධිකරණ ඇමතිට අධිකරණ සේවා සංගමයේ විරෝධය
+### Judicial Service Association protest against court
 
 *2024-06-25 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198119) · `si`
 
-පාර්ලිමේන්තු වරප්‍රසාදවලට මුවා වී අධිකරණ පද්ධතිය විවේචනයට ලක්කරමින් අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා සිදුකරන වගකීම් විරහිත ප්‍රකාශවලින් අධිකරණයේ ස්වාධීනත්වය ප්‍රසිද්ධියේ අභියෝගයට ලක්ව ඇති බව අධිකරණ සේවා සංගමය පවසයි.
+The Judicial Service Union protests against perceived threats to judicial independence, criticizing parliamentary privileges and a targeted project allegedly aimed at discrediting judges. The union emphasizes the importance of legislative and judicial declarations aligning with the principles of the judicial system, advocating for decisive action to uphold these principles.
 
-නිවේදනයක් නිකුත් කරමින් එම සංගමය පෙන්වා දෙන්නේ , පසුගිය 19 වන දින පාර්ලිමේන්තුවේ පැවති විවාදයක් අතරතුර දී අධිකරණ අමාත්‍යවරයා සිදුකළ ප්‍රකාශ අපක්ෂපාතී විනිශ්චයකාරවරුන් අපකීර්තියට පත්කිරීම සඳහා වූ නිශ්චිත ඉලක්ක ගත ව්‍යාපෘතියක කොටසක් වශයෙන් දිග හැරෙමින් පවතින බවය.
+🟩
 
-එම විවේචන අසත්‍යයෙන් සත්‍ය වෙන්කර නොගෙන අමාත්‍යවරයාගේ දේශපාලන පැවැත්ම අභියෝගයට ලක්කර ඇති නඩුකරවලදී අදාළ අධිකරණ නීත්‍යානුකූලව ලබාදුන් තීන්දු සහ නියෝගවලින් අතෘප්තියට පත්වීම මත සැලසුම් සහගතව සිදුකරන ලද්දක් බව අධිකරණ සේවා සංගමය පවසයි.
+The Judicial Service Union states that the independence of the judiciary is publicly aware of the independence of the judiciary, criticizing the judicial system of parliamentary privileges.
 
-පාර්ලිමේන්තු සභාව තුළ දී අධිකරණ පද්ධතිය හෑල්ලු වන ප්‍රකාශ සිදුකිරීමෙන් ව්‍යවස්ථාදායකය හා අධිකරණය අතර අනවශ්‍ය ගැටුමක් ඇතිකිරීමට හේතුවිය හැකි බවත් එවැනි තත්ත්වයන් කොන්දේසි විරහිතව පරාජය කළ යුතු බව එම සංගමය පෙන්වා දෙයි.
+The association issues an announcement on the 19th, the statement made by the Justice Minister in the 19th, the Minister of Justice is unfolding as part of a specific targeted project to discredit the judicial judges.
+
+The Judicial Service Union states that although those criticisms were not resolved with regard to the actual political existence, the judicial service association was planned to be discontent on cases.
+
+The association points out that the declarations of the legislation and the judiciary should cause the declarations of the legislation and the judiciary should be caused by the declaration of the judicial system and that such conditions should be defeated unconditionally.
 
 ...
 
 [Data](articles/0603e0bc.json)
+
+[Extended Data](ext_articles/0603e0bc.ext.json)
 
 ---
 
@@ -311,6 +359,8 @@ With elections and a change of government in one way or the other imminent, the 
 ...
 
 [Data](articles/e50f63cc.json)
+
+[Extended Data](ext_articles/e50f63cc.ext.json)
 
 ---
 
@@ -1217,6 +1267,22 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 [Data](articles/b68f78a3.json)
 
 [Extended Data](ext_articles/b68f78a3.ext.json)
+
+---
+
+### ඉන්දීය සමාගමකින් ලක්ෂ 50ක් අල්ලස් ඉල්ලූ එස්.අයිට වැඩ වරදියි
+
+*2024-06-24 19:38:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සමාගමකින්-ලක්ෂ-50ක්-අල්ලස්-ඉල්ලූ-එස්-අයිට-වැඩ-වරදියි/11-410411) · `si`
+
+වැටලීමක් කරන මුවාවෙන් බම්බලපිටිය ක්රෙිස්ටර්  පෙදෙසේ  ඉන්දියන් පුද්ගලික සමාගමක්  වෙත ගොස් රුපියල් ලක්ෂ 50  ක  අල්ලස්   මුදලක් ඉල්ලීම සම්බන්ධයෙන්   කොළඹ දකුණු කොට්ඨාස අපරාධ විමර්ශන අංශයේ උපපොලිස් පරීක්ෂකවරයෙකු වැඩ තහනමට ලක් කර  ඇතැයි පොලිස් මූලස්ථාන ආරංචි මාර්ග සඳහන්  කරයි.
+
+ව්‍යාපාර සඳහා උපදේශන, දත්ත ඇතුළත් කිරීම් , අලෙවිකරණ ඇතුළු විවිධ සේවා සපයන එම ආයතනය වෙත ඉකුත් 21 වැනිදින  ගොස් තිබූ උපපොලිස් පරීක්ෂකවරයා වැටලීමක් සිදු කිරීමට පැමිණි බව පවසා ඔවුන්ගේ නිදහසට කරුණු උසාවියේදී ඔප්පු කරන ලෙසත්, එසේ නොමැති නම් ලක්ෂ 5 ක් හෝ එයට ආසන්න මුදලක් ගෙවා සම්පූර්ණයෙන්ම සමථයක් කර ගත හැකි බවත් පවසා තිබූ  බව එම සමාගමේ  උසස් නිලධාරියකු බස්නාහිර පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය  පොලිස්පති මහින්ද ගුණරත්න මහතා වෙත  පැමිණිලි කර තිබුණේ යැයි පොලීසිය කියයි.
+
+උපපොලිස් පරීක්ෂකවරයා එදින එම අංශයේ වැඩ බලන ස්ථානාධිපතිවරයා ලෙසද කටයුතු කර තිබූ බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/57a14b03.json)
 
 ---
 
@@ -2151,51 +2217,5 @@ In addition, the Presidential Media University has announced that Australia's Fl
 [Data](articles/2c8550ec.json)
 
 [Extended Data](ext_articles/2c8550ec.ext.json)
-
----
-
-### Fire at South Korea lithium battery plant kills at least 16 people
-
-*2024-06-24 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100068/fire-at-south-korea-lithium-battery-plant-kills-at-least-16-people) · `en`
-
-A fire broke out at a lithium battery factory in South Korea on Monday, killing at least 16 people and leaving five others missing, local fire officials said.
-
-The fire, which has largely been extinguished, occurred around 10:30 a.m. (9:30 p.m. Sunday ET) at a factory run by battery manufacturer Aricell in Hwaseong, south of the capital, Seoul.
-
-The blaze began after a series of battery cells exploded inside a warehouse with some 35,000 units, said Kim Jin-young, a local fire official. What triggered the explosion remains unclear, he added.
-
-The Yonhap news agency had earlier reported that some 20 bodies had been found inside the plant, but Kim told a televised briefing that 16 people died and two others had suffered serious injuries.
-
-He said rescuers were trying to find the five people unaccounted for.
-
-A Reuters witness saw firefighters moving as many as six bodies out of the factory, which is in an industrial area.
-
-...
-
-[Data](articles/ada06a0b.json)
-
-[Extended Data](ext_articles/ada06a0b.ext.json)
-
----
-
-### Sri Lanka should control import of old vehicles: importer
-
-*2024-06-24 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-control-import-of-old-vehicles-importer-169251/) · `en`
-
-ECONOMYNEXT – Ahead of Sri Lanka’s move to restart import of vehicles, industry players say that the government should impose strict controls in allowing old vehicles into the country.
-
-“It is very important that the country regulates the import of vehicles well; while revenue must be protected, there should be strict controls on allowing old vehicles into the market,” Diesel & Motor Engineering Plc’s chairman Ranjith Pandithage has said.
-
-Allowing old vehicles in “will become a burden on the country in terms of subsequent demand for spare part imports and emissions,” Pandithage told shareholders in the annual report.
-
-Sri Lankan conglomerate Dimo, the agents for Mercedes-Benz and Jeep in Sri Lanka expects its vehicle sales segment to become active once again.
-
-“This is a great opportunity to bring healthy new regulations for vehicle imports,” Pandithage pointed out.
-
-...
-
-[Data](articles/c8bd3331.json)
-
-[Extended Data](ext_articles/c8bd3331.ext.json)
 
 ---

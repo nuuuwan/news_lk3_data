@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 16:34:43**
+As of **2024-06-25 16:51:47**
 
 ## Newspaper Stats
 
-*Scraped **32,096** Articles*
+*Scraped **32,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,825
-adaderanalk | 3,647
+adaderanalk | 3,648
 tamilmirrorlk | 3,783
 dailymirrorlk | 4,733
 virakesarilk | 4,976
@@ -26,27 +26,49 @@ adaderanasinhalalk | 5,264
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,092 (100.0%) of 32,096 articles have been extended.
+32,096 (100.0%) of 32,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### කරන්නාගොඩගේ පෙත්සමට පංච පුද්ගල විනිසුරු මඩුල්ලක්
+### A panel of judges panel to petition to Graduoda's petition
 
 *2024-06-25 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198143) · `si`
 
-හිටපු නාවික හමුදාපති වසන්ත කරන්නාගොඩ මහතා විසින් ගොනුකර තිබෙන පෙත්සම පංච පුද්ගල විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගැනීමට අභියාචනාධිකරණය තීරණය කර තිබේ.
+The Court of Appeal will hear a petition before one filed by former Navy Commander Wasantha Karannagoda. The original petition sought a three-member High Court in Colombo and its suburbs, filed in 2008. Now, it will be presented to a five-member Court of Appeal, including judges Mayadunna Cow, Chamatna Cowkara, and Chamatna Kawasundara, with the case scheduled for September 25.
 
-2008 වසරේ කොළඹ හා තදාසන්න ප්‍රදේශවල තරුණයන් 11 දෙනෙකු පැහැරගෙන ගොස් අතුරුදන් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් තමන්ට එරෙහිව නීතිපතිවරයා විසින් කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ ගොනු කර තිබෙන නඩුව අත්හිටුවීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ඔහු මෙම පෙත්සම ගොනුකර තිබුණි.
+🟩
 
-ඒ අනුව අදාළ පෙත්සම සෝභිත රාජකරුණා, මේනකා විජේසුන්දර, සම්පත් අබේකෝන්, මායාදුන්නේ කොරයා සහ චමත් මොරායස් යන  පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගැනීමට නියමිතය.
+The Court of Appeal has decided to hear the petition before the petition filed by former Navy Commander Wasantha Karannagoda.
 
-තවද අදාළ නඩුව සැප්තැම්බර් මස 25 වනදා විභාගයට ගැනීමට විනිසුරුවරයා විසින් දින නියම කළේය.
+He had filed the petition to issue a three-member High Court in Colombo and the Court of High Court in Colombo and suburbs in 2008.
+
+Accordingly, the petition is to be heard in front of the five-member Court of Appeal, Mayadunna Cow and Chamatna Cowkara and Chamatna Kawasundara, Mayadunna.
+
+The judge also set the case to be heard on September 25.
 
 ◼️
 
 [Data](articles/702f71cd.json)
+
+[Extended Data](ext_articles/702f71cd.ext.json)
+
+---
+
+### Allowance increase for O/L and Scholarship exam evaluators?
+
+*2024-06-25 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100094/-allowance-increase-for-ol-and-scholarship-exam-evaluators-) · `en`
+
+The Ministry of Education has announced that the sub-committee’s recommendation has been received to increase the allowances provided for the teachers engaged in answer sheet evaluation activities of G.C.E. Ordinary Level and Grade 5 Scholarship examinations.
+
+Furthermore, the Education Ministry stated that the recommendations will be forwarded to the Cabinet of Ministers for approval.
+
+Additionally, the Ministry of Education stated that it will intervene to bring down the prices of essential exercise books and other types of stationaries.
+
+◼️
+
+[Data](articles/b81346a0.json)
 
 ---
 
@@ -178,21 +200,27 @@ The victim was admitted to the Maskeliya District Hospital and was transferred t
 
 ---
 
-### தாயைக் கொன்ற தனி குளவி
+### Ceoon
 
 *2024-06-25 15:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாயைக்-கொன்ற-தனி-குளவி/76-339398) · `ta`
 
-குளவி கொட்டுக்கு இலக்கான, மஸ்கெலியாவைச் சேர்ந்த பெண்ணொருவர், பேராதனை ஆதார வைத்திய சாலையில் சிகிச்சைப்பெற்று வந்த நிலையில் ஆறு நாட்களுக்குப் பின்னர் மரணமடைந்துள்ளார்.
+Sivakumar Anthony Terinda, a 44-year-old mother of two from Maskeliya, died six days post-treatment for a wasp sting at various hospitals including Peradeniya Source Hospital. She was initially treated at Maskeliya District Hospital before being transferred to Dikoya-Klangan Source Hospital and finally to the Teaching Hospital, where she passed away.
 
-இரண்டு பிள்ளைகளின் தாயான, சிவகுமார் அந்தோனி டெரிண்டா (வயது 44) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
+🟩
 
-மஸ்கெலியா பெருந்தோட்ட கம்பனியின் மஸ்கெலியா கிலன்டில் பிரிவில், 19 ம் திகதி  பணிபுரிந்து கொண்டு இருந்த போது,  தனி ஒரு குளவி கொட்டியுள்ளது.
+A woman from Maskeliya, who was targeted for the wasp, has died six days later after being treated at Peradeniya Source Hospital.
 
-பாதிக்கப்பட்ட பெண்,  மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்கப்பட்டு, டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலையில் மாற்றப்பட்டார். எனினும், மேலதிக சிகிச்சைகளுக்காக பேராதனை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டதன் பின்னரே மரணமடைந்துள்ளார்.
+The deceased is Sivakumar Anthony Terinda (age 44), the mother of two children..  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
+
+Maskeliya Plantation Company's Maskeliya Gilet Division has been working on the 19th, a separate wasps.
+
+The victim was admitted to the Maskeliya District Hospital and was transferred to the Dikoya-Klangan Source Hospital. However, he has died only after being transferred to the Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/dc2ec1bd.json)
+
+[Extended Data](ext_articles/dc2ec1bd.ext.json)
 
 ---
 
@@ -836,15 +864,21 @@ The child who is hospitalized has been profounded into a demon, and that the thr
 
 ---
 
-### இலங்கையை அச்சுறுத்தும் எலிக்காய்ச்சல்! ; 5 மாதங்களில் 4,904 பேர் பாதிப்பு
+### Eligious fever threatens Sri Lanka!;4,904 victims in 5 months
 
 *2024-06-25 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186919) · `ta`
 
-பதிவாகும் நோயாளர்களில் பெருமளவானோர் நெற் பயிர்செய்கையில் ஈடுபடும் விவசாயிகளாகவோ அல்லது அதனை அண்மித்த தொழில்புரிபவர்களாகவோ உள்ளனர். வருடத்தில் இரண்டு அல்லது இரண்டுக்கு மேற்பட்ட சந்தர்ப்பங்களில்  விவசாய நடவடிக்கைகளில் அதாவது அறுவடையில் ஈடுபடுபவர்கள்  தமது சுகாதார மருத்துவ அதிகாரி பிரிவில் எலிக்காய்ச்சல் தடுப்பு மருந்தினைப்  பெற்றுக் கொள்ள முடியும் - விசேட வைத்திய நிபுணர் துஷானி டி பெரேரா
+Sri Lanka faces religious violence, affecting 4,904 in 5 months, primarily targeting farmers and agricultural workers. Vaccination is available seasonally through local health officers.
+
+🟩
+
+Most of the patients who are reported are farmers who engage in paddy cultivation or neighboring professionals.. Those who are harvesting in agricultural activities, on two or two occasions of the year, can obtain a vaccine in their health medical officer - Specialist Tushani de Perera
 
 ◼️
 
 [Data](articles/28d2d7e5.json)
+
+[Extended Data](ext_articles/28d2d7e5.ext.json)
 
 ---
 
@@ -978,21 +1012,31 @@ President of the Joint Committee of Government Executive Officers H.A.L. Udayasi
 
 ---
 
-### அருந்ததிராயிற்கு எதிராக வழக்கு தொடர்வதற்கு வழங்கப்பட்ட அனுமதியை மீளபெறவேண்டும் - 200க்கும் மேற்பட்ட இந்திய கல்விமான்கள் பத்திரிகையாளர்கள் கூட்டாக வேண்டுகோள்
+### Repeat the permission granted to prosecute Arundhatarai - more than 200 Indian academics jointly appealing
 
 *2024-06-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186914) · `ta`
 
-எழுத்தாளர் அருந்ததி ராயிற்கு எதிராக வழக்குதொடருவதற்கு வழங்கப்பட்ட அனுமதியை மீளப்பெறவேண்டும் என 200க்கும் இந்திய கல்விமான்களும் பத்திரிகையாளர்களும் சிவில் சமூக செயற்பாட்டாளர்களும் வேண்டுகோள் விடுத்துள்ளனர்.
+More than 200 Indian academics, journalists, and activists have appealed to revoke the permission granted to sue author Arundhati Roy under India's anti-terrorism law. They argue it infringes on her right to free speech, as guaranteed by the Indian Constitution. The decision has sparked protests and condemnation from various sectors, including a farmers' organization.
 
-இந்திய அரசாங்கம் கடந்த வாரம் நாட்டின் கடுமையான பயங்கரவாத எதிர்ப்பு சட்டத்தின் கீழ் அருந்ததி ராயிற்க்கு எதிராக வழக்கு தொடர்வதற் கு அனுமதிவழங்கியிருந்தது.
+🟩
 
-இந்த நடவடிக்கையை நாங்கள் கண்டிக்கின்றோம்,எங்கள் நாடு தொடர்பான எந்த விடயம் குறித்தும் அச்சமின்றி சுதந்திரமாக கருத்துக்களை வெளியிடுவதற்கான உரிமை மீறப்படாமல் இருப்பதை உறுதி செய்யவேண்டும் என அரசாங்கத்திற்கும் நாட்டில் உள்ள ஜனநாயக சக்திகளிற்கும் வேண்டுகோள் விடுக்கின்றோம் என கல்விமான்களும் சிவில்சமூக செயற்பாட்டாளர்களும் பத்திரிகையாளர்களும் தங்கள் பகிரங்க கடிதத்தில் தெரிவித்துள்ளனர்.
+Over 200 Indian academics, journalists and civil society activists have requested that the permission granted to sue writer Arundhati Roy be recovered.
 
-அருந்ததி ராய்க்கு எதிராகவழக்கு தொடர்வது என்ற முடிவை நியாயப்படுத்த முடியாது என இந்த கடிதத்தில் கைச்சாத்திட்டுள்ள  வரலாற்று பேராசிரியர் அஜய் டன்டேகர் தெரிவித்துள்ளார்.
+Last week, the Indian government had allowed the case against Arundhati Roy under the country's fierce anti -terrorism law.
+
+Educators, civil society activists and journalists have said in their public letter that we condemn this move, and that we should make sure that the government and the democratic forces in the country are not violating the right to make free comments without fear of any issues related to our country.
+
+History Professor Ajay Dundekar, who signed the letter, said that the decision to continue against Arundhati Roy cannot be justified.
+
+He said that the Constitution of India ensures the right to freedom of the expression of Arundhati Roy.
+
+A farmers' organization has also condemned the move against Arundhati Roy, and protests have taken place in New Delhi.
 
 ...
 
 [Data](articles/9108ef8b.json)
+
+[Extended Data](ext_articles/9108ef8b.ext.json)
 
 ---
 
@@ -2315,21 +2359,5 @@ Controller of the Property Industry Group in July 2006 and Chief Financial Offic
 [Data](articles/72f40570.json)
 
 [Extended Data](ext_articles/72f40570.ext.json)
-
----
-
-### Ceylon Chamber renews historic partnership with Board of Trade of Thailand
-
-*2024-06-25 01:59:57* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-renews-historic-partnership-with-Board-of-Trade-of-Thailand/34-763437) · `en`
-
-A seven member delegation led by the Thai Chamber of Commerce and the Board of Trade of Thailand Chairman Sanan Angubolgul met with the Ceylon Chamber Chairman Duminda Hulangamuwa, along with senior representatives of the Chamber yesterday, culminating in the renewing of a Memorandum of Understanding (MOU) to further enhance trade, investment and tourism between Sri Lanka and Thailand.
-
-The MOU was signed in the presence of Ambassador designated to Thailand Wijayanthi Edirisinghe, and Sri Lanka – Greater Mekong Business Council of the Ceylon Chamber of Commerce President S.M.D. Suriyakumara.
-
-...
-
-[Data](articles/0dfb3cc6.json)
-
-[Extended Data](ext_articles/0dfb3cc6.ext.json)
 
 ---

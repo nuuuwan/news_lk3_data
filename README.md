@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 12:07:44**
+As of **2024-06-25 12:19:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,043 (100.0%) of 32,045 articles have been extended.
+32,045 (100.0%) of 32,045 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ President of the Joint Committee of Government Executive Officers H.A.L. Udayasi
 ...
 
 [Data](articles/922dcb93.json)
+
+[Extended Data](ext_articles/922dcb93.ext.json)
 
 ---
 
@@ -2176,19 +2178,25 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
-### මුරුංගා රු. 1100යි, තක්කාලි රු. 1000යි, කැරට් රු. 700
+### Murunga Rs. 1100, tomatoes. 1000, carrot Rs. 700
 
 *2024-06-24 19:50:16* · [`adalk`](https://www.ada.lk/breaking_news/මුරුංගා-රු--1100යි--තක්කාලි-රු--1000යි--කැරට්-රු--700/11-410414) · `si`
 
-එළවළු වර්ග රැසක මිල විශාල ලෙස ඉහළ ගොස්  තිබේ.  මුරුංගා  කිලෝවක සිල්ලර මිල රු. 1100 දක්වාත් තක්කාලි කිලෝවක සිල්ලර මිල රු. 900 -1000  දක්වාත් බීට් කිලෝවක සිල්ලර මිල රු .900-1000 දක්වාත් ඉහළ ගොස් තිබේ.වැඩිවී ඇති මිල මිල ගණන් මෙසේය.
+Vegetable prices have significantly increased: murunga to Rs. 1100/kg, tomatoes to Rs. 1000/kg, beetroot to Rs. 900-1000/kg, fish chillies to Rs. 900/kg, beans to Rs. 800/kg, carrots to Rs. 700/kg, leaks to Rs. 750/kg, eggplant to Rs. 600/kg, raw chilli to Rs. 500-600/kg, brinjal to Rs. 480/kg, spinach to Rs. 400/kg, cabbage to Rs. 380/kg, lime to Rs. 1800/kg, and coconut to Rs. 4000/kg.
 
-මාළු මිරිස් කිලෝවක සිල්ලර මිල  රු. 900 යි. බෝංචි  රු.800යි. කැරට් රු. 700යි. ලීක්ස් රු. 750යි. වම්බටු  රු.600යි.
+🟩
 
-අමු මිරිස් රු.  500-600 අතර වේ. බටු රු. 480 යි. පතෝල රු. 400යි. ගෝවා  රු. 380යි.  රු.  320 යි. දෙහි රු. 1800 යි.  ඉඟුරු  4000යි.ඇතැම් ප්‍රදේශවල පොල් ගෙඩියක මිල රුපියල් 150 ක් දක්වා ඉහළ ගොස්  තිබෙන අතර,  මාළු හා මස් මිලද ඉහළ ගොස් ඇත.
+The price of a number of vegetables has increased largely.Retail of murunga at Rs. Retail of a kilogram of tomatoes up to 1100. Retail of a kilogram of beets has increased to Rs. 900-1000. The prices of the prices have been increased by Rs.
+
+Retail of a kilogram of fish chillies is Rs. 900. Beans Rs.800. Carrot's Rs. 700. Leaks Rs. 750. Eggplant is Rs. 600.
+
+Raw chilli costs Rs.Is between 500-600. Deceased Rs. 480. Paint Rs. 400. Cabbage Rs. 380.  රු.  320 යි. Lime. 1800.The price of a coconut prices in 4,000 has risen to Rs.
 
 ◼️
 
 [Data](articles/80a1570f.json)
+
+[Extended Data](ext_articles/80a1570f.ext.json)
 
 ---
 

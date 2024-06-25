@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 13:04:32**
+As of **2024-06-25 13:19:26**
 
 ## Newspaper Stats
 
-*Scraped **32,062** Articles*
+*Scraped **32,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,75 @@ adaderanalk | 3,643
 tamilmirrorlk | 3,779
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,256
+adaderanasinhalalk | 5,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,051 (100.0%) of 32,062 articles have been extended.
+32,062 (100.0%) of 32,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### LPL සම්පූර්ණ සංචිත මෙන්න
+### විජයදාස ට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+
+*2024-06-25 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198135) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙසත් එම පක්ෂයේ සාමාජිකයෙකු ලෙසත් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය අද (25) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් එම පැමිණිල්ල ඉදිරිපත් කර තිබුණි.
+
+පැමිණිල්ල අද කැඳවනු ලැබූ අවස්ථාවේදී වගඋත්තරකරුවන්ට විරෝධතා ගොනුකිරීම සඳහා අධිකරණය විසින් කල්ලබා දුනි.
+
+ඉන් අනතුරුව පැමිණිල්ල ජූලි මස 09 වනදා යළි කැඳවීමට නියෝග කළ අධිකරණය එදින දක්වා දැනට නිකුත් කර තිබෙන වාරණ නියෝගය දිර්ඝ කරන ලෙසත් නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/4a2b4cb5.json)
+
+---
+
+### LPL complete reserves here
 
 *2024-06-25 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198134) · `si`
 
-2014 ලංකා ප්‍රිමියර් ලීග් තරගාවලිය සඳහා ක්‍රීඩා කරන කණ්ඩායම් 5හි සම්පූර්ණ සංචිත නම්කර තිබේ.
+The Lanka Premier League (LPL) has announced the total reserves for its five participating teams.
+
+🟩
+
+The total reserves of the 5 teams played for the Lanka Premier League Tournament have been named.
 
 ◼️
 
 [Data](articles/d0f532b3.json)
 
+[Extended Data](ext_articles/d0f532b3.ext.json)
+
 ---
 
-### புதிய சின்னத்தில் குதிப்பேன்: விஜயதாச
+### I will jump into the new symbol: Vijayadasa
 
 *2024-06-25 12:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதிய-சின்னத்தில்-குதிப்பேன்-விஜயதாச/76-339394) · `ta`
 
-ஜனாதிபதித் தேர்தலில் வெற்றி பெற்றதன் பின்னர் கட்சித் தலைமை தொடர்பில் பிரச்சினை ஏற்படாது என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் இடைக்கால தடை விதிக்கப்பட்ட தலைவரும், அமைச்சருமான விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+Vijayadasa Rajapakse, SLFP's interim injunction leader and minister, assures no issues with party leadership post-presidential victory. He mentions introducing a new symbol for the party, hinting at changes in political strategy.
 
-கண்டியில் திங்கட்கிழமை (23) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-கண்டி மாவட்ட ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பிரதேச பிரதிநிதிகள் கூட்டம் கட்சியின் முன்னாள் தலைவர் மைத்திரிபால சிறிசேன மற்றும் இடைக்கால தடை விதிக்கப்பட்டதலைவர் அமைச்சர்  விஜயதாச ராஜபக்ஷ தலைமையில்  நடைபெற்றது.
+The Sri Lanka Freedom Party (SLFP) interim injunction leader and minister Vijayadasa Rajapakse has said that there will be no problem with the party leadership after winning the presidential election.
 
-“ஜனாதிபதி தேர்தலுக்கு வருகிறேன். நாங்கள் வெற்றி பெறுகிறோம் அதன்பிறகு, என் மீது போடப்பட்ட அனைத்து வழக்குகளும் அரசியல் சாசனத்தால் ரத்து செய்யப்படும். அப்போது கட்சித் தலைமை குறித்து எந்தப் பிரச்னையும் இருக்காது. கட்சியின் தலைவர்கள் என கூறி பதவிகளை வகிப்பவர்கள் கண்டிக்கு வந்தால் அடித்து விரட்டியடிப்பதாக கட்சி உறுப்பினர்கள் தெரிவித்தனர். கட்சி ​அங்கத்தவர்கள் சிறப்பாக செயல்படுகின்றனர்.  10 முதல் 12 பேர் தங்களை பலப்படுத்த கட்சியை காட்டிக்கொடுக்க முயற்சிக்கின்றனர்.
+He was speaking to the media on Monday (23) in Kandy.
+
+A meeting of the Sri Lanka Freedom Party (SLFP) regional representatives of the Kandy District was chaired by former leader Maithripala Sirisena and the interim injunction under the chairmanship of Minister Vijayadasa Rajapaksa.
+
+“I am coming to the presidential election. We win, then, all the cases filed against me will be canceled by the Constitution. There will be no problem with the party leadership then. Party members have said that those who hold positions as party leaders are beaten if they come to Kandy. Party members do better.  10 முதல் 12 பேர் தங்களை பலப்படுத்த கட்சியை காட்டிக்கொடுக்க முயற்சிக்கின்றனர்.
 
 ...
 
 [Data](articles/282b70a6.json)
+
+[Extended Data](ext_articles/282b70a6.ext.json)
 
 ---
 
@@ -106,17 +136,25 @@ Despite this, yet again, on June 22, 22 fishermen from Rameswaram fishing harbou
 
 ---
 
-### ඉන්දීය ධීවරයන් අත්අඩංගුවට ගන්න යාමේදී නාවික හමුදා සෙබලෙක් මරුට
+### Navy woman dies after he was arrested for arrest Indian fishermen
 
 *2024-06-25 12:09:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-අත්අඩංගුවට-ගන්න-යාමේදී-නාවික-හමුදා-සෙබලෙක්-මරුට/11-410420) · `si`
 
-නාවික හමුදාව, අද දින (2024 ජුනි 25) අළුයම් කාලයේ යාපනය, කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මෙරට මුහුදු ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමක් මඟින්, මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදු කල ඉන්දීය ධීවර යාත්‍රාවක් (01) සමඟ ඉන්දීය ධීවරයින් දස දෙනෙකු (10) නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරුණු අතර, එම මෙහෙයුම අතරතුර නාවික හමුදා අත්අඩංගුවට පත්වීමට එරෙහිව අනතුරුදායක හා කලහකාරී ලෙස (Aggressive Manoeuvres) ඉන්දීය ධීවර යාත්‍රාව හැසිරවීම හේතුවෙන්, නාවික හමුදා විශේෂ යාත්‍රා බලඝණයේ නාවිකයෙකු බරපතල තුවාල ලබා යාපනය ශික්ෂණ රෝහල වෙත ඇතුලත් කිරීමේදී ජීවිතක්ෂයට පත් විය.
+In June 2024, a naval operation off the coast of Jaffna resulted in the hospitalization of ten Indian fishermen after their vessel was intercepted for alleged poaching within Sri Lankan waters. The incident highlights ongoing tensions between the Sri Lankan Navy and foreign fishing fleets, emphasizing the navy's efforts to protect local fisheries and enforce maritime boundaries.
 
-විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරනු ලබන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව ඉතාමත් අසීරු සහ අවධානම් තත්වයන්ට මුහුණ දෙමින් නිරන්තර මෙහෙයුම් සිදු කරනු ලබයි.
+🟩
+
+Navy, today (June 254), a special operation conducted in the Kankesanthurai area in general area Jaffna (10) Indian fishermen navalTroops of the Indian fishing vessel against the handling of Indian fishing vessels were seriously injured and admitted to the Jaffna Teaching Hospital.
+
+The Navy is conducting constant operations to combat the illegal fishing of foreign fishing boundaries and maintaining the livelihood of the local fishing community.
+
+Accordingly, today (June 2024), the unauthorized fishing vessels have been monitored by the Northern Naval Command, which has been traveled by the North Naval Command beyond the Sri Lankan waters.Was done. Ten Indian fishermen (10) Indian fishermen were taken into custody with a Indian fishermen (10) of the Indian fishermen.
 
 ...
 
 [Data](articles/5697f209.json)
+
+[Extended Data](ext_articles/5697f209.ext.json)
 
 ---
 
@@ -229,6 +267,8 @@ Browns Group is spread across several industry sectors including power generatio
 ◼️
 
 [Data](articles/07e53d2f.json)
+
+[Extended Data](ext_articles/07e53d2f.ext.json)
 
 ---
 
@@ -382,6 +422,8 @@ Sri Lanka is also expected to start talks with sovereign bond holders around Thu
 
 [Data](articles/5384f72a.json)
 
+[Extended Data](ext_articles/5384f72a.ext.json)
+
 ---
 
 ### Afghanistan to the semi-end
@@ -485,6 +527,8 @@ His interest was to boost tourism, which can conflict with national security.
 ...
 
 [Data](articles/8b5880df.json)
+
+[Extended Data](ext_articles/8b5880df.ext.json)
 
 ---
 
@@ -668,6 +712,8 @@ A bond maturing on 15.09.2029 was quoted stable at 12.05/15 percent. (Colombo/Ju
 
 [Data](articles/1040de8a.json)
 
+[Extended Data](ext_articles/1040de8a.ext.json)
+
 ---
 
 ### Sri Lanka to get US$150mn from World Bank for health amid ageing population
@@ -687,6 +733,8 @@ The new project will enhance result in 1,000 facilities being improved. Pandemic
 ...
 
 [Data](articles/054a5c3e.json)
+
+[Extended Data](ext_articles/054a5c3e.ext.json)
 
 ---
 
@@ -865,6 +913,8 @@ The style of bonds have not been used in sovereign restructurings before. In the
 ...
 
 [Data](articles/de5139ca.json)
+
+[Extended Data](ext_articles/de5139ca.ext.json)
 
 ---
 
@@ -2161,23 +2211,5 @@ Accordingly, the protests were held today and the central, North Central and Sou
 [Data](articles/ae617f5f.json)
 
 [Extended Data](ext_articles/ae617f5f.ext.json)
-
----
-
-### Sri Lanka set to start next round of investor talks this week
-
-*2024-06-24 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100077/sri-lanka-set-to-start-next-round-of-investor-talks-this-week) · `en`
-
-Sri Lankan officials and global investors are expected to hold a second round of direct talks this week to agree on the restructuring of $12 billion in defaulted bonds, according to people familiar with the matter.
-
-A group of bondholders, known as the steering committee, will continue to negotiate on the government’s new proposal in this round of the talks, the people said. The bondholders went “restricted,” meaning the conversations with the government are covered by temporary trading limitations because the topics under discussion may be market sensitive, one of the people said.
-
-Representatives for the bondholders and the government were not immediately available to comment.
-
-...
-
-[Data](articles/a589c30c.json)
-
-[Extended Data](ext_articles/a589c30c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 17:19:48**
+As of **2024-06-25 17:35:05**
 
 ## Newspaper Stats
 
-*Scraped **32,099** Articles*
+*Scraped **32,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,825
-adaderanalk | 3,648
+adaderanalk | 3,649
 tamilmirrorlk | 3,783
 dailymirrorlk | 4,733
 virakesarilk | 4,976
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,099 (100.0%) of 32,099 articles have been extended.
+32,099 (100.0%) of 32,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### PM requests special parliamentary sitting on July 2
+
+*2024-06-25 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100096/pm-requests-special-parliamentary-sitting-on-july-2) · `en`
+
+The Speaker of Parliament Mahinda Yapa Abeywardena has informed all the Members of Parliament in writing to attend a special parliamentary sitting on July 2, 2024 at 9.30 a.m., the Parliamentary Communications Department said.
+
+The special parliamentary sitting has been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
+
+◼️
+
+[Data](articles/6688189e.json)
+
+---
 
 ### Modi - a hint of the meeting of Putin
 
@@ -2351,19 +2365,5 @@ This landmark event, the first of its kind in the UK, showcased the best of Sri 
 [Data](articles/1bd78309.json)
 
 [Extended Data](ext_articles/1bd78309.ext.json)
-
----
-
-### Thai Chamber of Commerce President visits BOI
-
-*2024-06-25 02:05:25* · [`dailyftlk`](https://www.ft.lk/business/Thai-Chamber-of-Commerce-President-visits-BOI/34-763440) · `en`
-
-The Thai Chamber of Commerce Chairman Sanan Angubolkul and his delegation visited the Board of Investment of Sri Lanka to discuss several areas of cooperation between the two institutions. BOI Chairman Dinesh Weerakkody and senior officials met with the delegation. The delegation included Thai -Sri Lanka Chamber of Commerce Trading and Manufacturing committee member Dr. Saraniya Lekplipol and Thai Chamber of Commerce Advisor Susheel Kumar Saraff and Sanjewa Wickramasuriya from the Thai - Sri Lanka Chamber of Commerce.
-
-◼️
-
-[Data](articles/8a5070eb.json)
-
-[Extended Data](ext_articles/8a5070eb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 04:34:39**
+As of **2024-06-26 04:52:52**
 
 ## Newspaper Stats
 
-*Scraped **32,156** Articles*
+*Scraped **32,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,868
-dailyftlk | 1,964
+dailyftlk | 1,965
 adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,156 (100.0%) of 32,156 articles have been extended.
+32,156 (100.0%) of 32,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### PM calls for Special Parliament session on 2 July
+
+*2024-06-26 04:31:32* · [`dailyftlk`](https://www.ft.lk/news/PM-calls-for-Special-Parliament-session-on-2-July/56-763457) · `en`
+
+The Parliamentary Communications Department said a special Parliamentary sitting has been scheduled for 2 July.
+
+“The Speaker of Parliament Mahinda Yapa Abeywardena has informed all the Members of Parliament in writing to attend a special Parliamentary sitting on 2 July 2024 at 9:30 a.m.,” it added.
+
+The special parliamentary sitting has been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
+
+◼️
+
+[Data](articles/22b72b4a.json)
+
+---
 
 ### Trying to disrupt the project
 
@@ -2363,27 +2379,5 @@ On June 6, consultations were held with villagers affected by the war in Ethimal
 [Data](articles/86e10af4.json)
 
 [Extended Data](ext_articles/86e10af4.ext.json)
-
----
-
-### Administrative officers call-off strike; other trade unions continue islandwide strikes
-
-*2024-06-25 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100086/administrative-officers-call-off-strike-other-trade-unions-continue-islandwide-strikes-) · `en`
-
-The Sri Lanka Administrative Services Association (SASA) has decided to temporarily suspend its planned trade union action following a discussion with Prime Minister Dinesh Gunawardena.
-
-This decision comes after an agreement was reached to increase their allowances effective from June 01, the President of the association Mahesh Gammanpila said.
-
-The association had planned to launch a strike action by reporting sick leave over several demands including a salary increment.
-
-Meanwhile, the representatives of the Government Executive Officers have also held a discussion with the Prime Minister regarding their issues.
-
-President of the Joint Committee of Government Executive Officers H.A.L. Udayasiri expressed that they have decided to continue their trade union action by reporting sick on Tuesday (25) and Wednesday (26), as their demands were not adequately addressed.
-
-...
-
-[Data](articles/922dcb93.json)
-
-[Extended Data](ext_articles/922dcb93.ext.json)
 
 ---

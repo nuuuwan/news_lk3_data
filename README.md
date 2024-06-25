@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 12:52:15**
+As of **2024-06-25 13:04:32**
 
 ## Newspaper Stats
 
-*Scraped **32,051** Articles*
+*Scraped **32,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,76 @@ dbsjeyarajcom | 295
 bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
-economynextcom | 1,845
+economynextcom | 1,853
 dailyftlk | 1,964
-adalk | 2,818
+adalk | 2,819
 adaderanalk | 3,643
-tamilmirrorlk | 3,778
+tamilmirrorlk | 3,779
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,255
+adaderanasinhalalk | 5,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,049 (100.0%) of 32,051 articles have been extended.
+32,051 (100.0%) of 32,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### නිවසක් තුළ අබිරහස් ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක්
+### LPL සම්පූර්ණ සංචිත මෙන්න
+
+*2024-06-25 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198134) · `si`
+
+2014 ලංකා ප්‍රිමියර් ලීග් තරගාවලිය සඳහා ක්‍රීඩා කරන කණ්ඩායම් 5හි සම්පූර්ණ සංචිත නම්කර තිබේ.
+
+◼️
+
+[Data](articles/d0f532b3.json)
+
+---
+
+### புதிய சின்னத்தில் குதிப்பேன்: விஜயதாச
+
+*2024-06-25 12:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதிய-சின்னத்தில்-குதிப்பேன்-விஜயதாச/76-339394) · `ta`
+
+ஜனாதிபதித் தேர்தலில் வெற்றி பெற்றதன் பின்னர் கட்சித் தலைமை தொடர்பில் பிரச்சினை ஏற்படாது என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் இடைக்கால தடை விதிக்கப்பட்ட தலைவரும், அமைச்சருமான விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+கண்டியில் திங்கட்கிழமை (23) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+கண்டி மாவட்ட ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பிரதேச பிரதிநிதிகள் கூட்டம் கட்சியின் முன்னாள் தலைவர் மைத்திரிபால சிறிசேன மற்றும் இடைக்கால தடை விதிக்கப்பட்டதலைவர் அமைச்சர்  விஜயதாச ராஜபக்ஷ தலைமையில்  நடைபெற்றது.
+
+“ஜனாதிபதி தேர்தலுக்கு வருகிறேன். நாங்கள் வெற்றி பெறுகிறோம் அதன்பிறகு, என் மீது போடப்பட்ட அனைத்து வழக்குகளும் அரசியல் சாசனத்தால் ரத்து செய்யப்படும். அப்போது கட்சித் தலைமை குறித்து எந்தப் பிரச்னையும் இருக்காது. கட்சியின் தலைவர்கள் என கூறி பதவிகளை வகிப்பவர்கள் கண்டிக்கு வந்தால் அடித்து விரட்டியடிப்பதாக கட்சி உறுப்பினர்கள் தெரிவித்தனர். கட்சி ​அங்கத்தவர்கள் சிறப்பாக செயல்படுகின்றனர்.  10 முதல் 12 பேர் தங்களை பலப்படுத்த கட்சியை காட்டிக்கொடுக்க முயற்சிக்கின்றனர்.
+
+...
+
+[Data](articles/282b70a6.json)
+
+---
+
+### A body of a person who died in a house
 
 *2024-06-25 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198133) · `si`
 
-පොළොන්නරුව දිස්ත්‍රික්කයට අයත් මැදිරිගිරිය පොලිස් වසමේ දහම් වැව ප්‍රදේශයේ පාළු නිවසක් තුළ තිබී අබිරහස් ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+In the Medirigiriya Police Division, Polonnaruwa District, a body was discovered in a deserted house. The deceased suffered heavy bleeding from the nose and mouth but no foul play was evident. The body will be examined by Polonnaruwa Judicial Medicine for further investigation.
 
-එම පුද්ගලයාගේ නාසයෙන් සහ කනින් අධික ලෙස ලේ වහනය වී ඇති බව එම ස්ථානයට ගිය අප වාර්තාකරු පැවසීය.
+🟩
 
-ගෙල වැලලාගැනීමකින් මියගිය බවට කිසිදු සාක්ෂියක් සිරුර හමුවූ ස්ථානයෙන් සොයාගැනීමට නොහැකි වී ඇති අතර, මැදිරිගිරිය පොලීසිය සඳහන් කර ඇත්තේ අදාළ මරණය සැකසහිත බවය.
+The body of a person who died in a deserted house in the Medirigiriya Police Division in the Polonnaruwa District has been found in a desolate house.
 
-ඒ අනුව මෘත ශරීරය වැඩිදුර පරීක්ෂණ සඳහා පොළොන්නරුව අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Our correspondent said that the person's nose and the panin had bleeding heavily.
+
+No evidence was found in the founding of the body, while the Medirigiriya police said.
+
+Accordingly, the body is to be produced before the Polonnaruwa Judicial Medicine for further investigations.
 
 ◼️
 
 [Data](articles/d6920d67.json)
+
+[Extended Data](ext_articles/d6920d67.ext.json)
 
 ---
 
@@ -70,6 +106,20 @@ Despite this, yet again, on June 22, 22 fishermen from Rameswaram fishing harbou
 
 ---
 
+### ඉන්දීය ධීවරයන් අත්අඩංගුවට ගන්න යාමේදී නාවික හමුදා සෙබලෙක් මරුට
+
+*2024-06-25 12:09:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-අත්අඩංගුවට-ගන්න-යාමේදී-නාවික-හමුදා-සෙබලෙක්-මරුට/11-410420) · `si`
+
+නාවික හමුදාව, අද දින (2024 ජුනි 25) අළුයම් කාලයේ යාපනය, කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මෙරට මුහුදු ප්‍රදේශයේ සිදුකළ විශේෂ මෙහෙයුමක් මඟින්, මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදු කල ඉන්දීය ධීවර යාත්‍රාවක් (01) සමඟ ඉන්දීය ධීවරයින් දස දෙනෙකු (10) නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරුණු අතර, එම මෙහෙයුම අතරතුර නාවික හමුදා අත්අඩංගුවට පත්වීමට එරෙහිව අනතුරුදායක හා කලහකාරී ලෙස (Aggressive Manoeuvres) ඉන්දීය ධීවර යාත්‍රාව හැසිරවීම හේතුවෙන්, නාවික හමුදා විශේෂ යාත්‍රා බලඝණයේ නාවිකයෙකු බරපතල තුවාල ලබා යාපනය ශික්ෂණ රෝහල වෙත ඇතුලත් කිරීමේදී ජීවිතක්ෂයට පත් විය.
+
+විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරනු ලබන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව ඉතාමත් අසීරු සහ අවධානම් තත්වයන්ට මුහුණ දෙමින් නිරන්තර මෙහෙයුම් සිදු කරනු ලබයි.
+
+...
+
+[Data](articles/5697f209.json)
+
+---
+
 ### UNDP offers submersible water pumps for flood relief assistance efforts in Sri Lanka
 
 *2024-06-25 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100087/undp-offers-submersible-water-pumps-for-flood-relief-assistance-efforts-in-sri-lanka) · `en`
@@ -90,19 +140,25 @@ According to the DMC, numerous dug wells, which serve as the primary source of s
 
 ---
 
-### ඉදිරි කන්න දෙකට ගොවීන්ට බංඩි පොහොර නොමිලේ
+### Biddy fertilizer is free to the farmers for next two seasons
 
 *2024-06-25 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198132) · `si`
 
-ඉදිරි කන්න දෙකේ දී සියලු වී ගොවීන්ට බංඩි පොහොර නොමිලේ ලබාදෙන බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+Sri Lanka's Minister of Agriculture, Mahinda Amaraweera, announced that farmers will receive free Biddy fertilizer for the next two seasons. The country expects 55,000 metric tons of this fertilizer, thanks to a request from the World Food and Agriculture Organization. Despite concerns, the minister assures there's no fertilizer shortage in the country, attributing any delays to minor administrative errors.
 
-ඔහු ප්‍රකාශ කළේ, ලෝක ආහාර හා කෘෂිකර්ම සංවිධානය විසින් රජය කළ ඉල්ලීමකට අනුව බංඩි පොහොර මෙට්‍රික් ටොන් 55,000ක ප්‍රමාණයක් ශ්‍රී ලංකාවට ලැබීමට නියමිත බවය.
+🟩
 
-කිසිදු පොහොර හිඟයක් රටතුළ නොමැති බව ද මහින්ද අමරවීර අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera says he will provide a free body fertilizer free of the paddy farmers in the next two seasons.
+
+He said Sri Lanka is to receive 55,000 metric tons of Boddi fertilizer according to a request made by the World Food and Agriculture Organization.
+
+Minister Mahinda Amaravarared Minister further stated that there is no fertilizer shortage in the country.
 
 ...
 
 [Data](articles/32a3d31e.json)
+
+[Extended Data](ext_articles/32a3d31e.ext.json)
 
 ---
 
@@ -151,6 +207,28 @@ Thus, the Navagamuwa ghost house became all. Thereafter, 12 people were arrested
 [Data](articles/81e6ebb6.json)
 
 [Extended Data](ext_articles/81e6ebb6.ext.json)
+
+---
+
+### Sri Lanka’s Brown and Company sells subsidiary to Ceylon Knit Trend
+
+*2024-06-25 11:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-brown-and-company-sells-subsidiary-to-ceylon-knit-trend-169405/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Brown and Company Plc has sold its subsidiary Browns Fabric Limited to Ceylon Knit Trend (Private) Limited, it said.
+
+“Brown and Company PLC has disposed it’s 100% shareholding of Browns Fabric Limited to Ceylon Knit Trend (Private) Limited on 20th June 2024, for a total consideration of Rs.50,000,000,” the company said in a stock exchange filing.
+
+Browns Fabric Limited operates a knit fabric manufacturing and processing plant in Pannala, in Kurunegala.
+
+The Board of Investment (BOI) backed state-of-the-art weft knit fabric production facility was established with an investment of 52.3 million dollars to produce fabric for the export-oriented apparel industry in Sri Lanka.
+
+Shares of Brown and Company, a subsidiary of the LOLC group, was trading up at 123.00.
+
+Browns Group is spread across several industry sectors including power generation, agriculture and plantation, pharmaceuticals, investments, marine and manufacturing, and leisure. (Colombo/June25/2024)
+
+◼️
+
+[Data](articles/07e53d2f.json)
 
 ---
 
@@ -282,6 +360,30 @@ If we order a vehicle from a BrandNew agent, it goes between eight months to com
 
 ---
 
+### Sri Lanka cabinet approves signing restructured bilateral debt deals: Minister
+
+*2024-06-25 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-signing-restructured-bilateral-debt-deals-minister-169399/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the signing of restructured debt agreements with bilateral creditors, Minister Bandula Gunawardana said.
+
+Sri Lanka has been negotiating with the Paris Club, India and China to restructure debt after declaring sovereign default in 2022 with in-principle deals reached last year.
+
+The signing of finalized agreements called MOUs are required to re-start stalled projects and new financing.
+
+President Ranil Wickremesinghe has said Sri Lanka is seeking debt relief up to 2042.
+
+President Wickremesinghe is due to make a “special” national address on Wednesday evening, the state information office said.
+
+Bilateral lenders give maturity extensions and coupon cuts but not hair cuts, unlike private creditors, though present values are expected to be comparable.
+
+Sri Lanka is also expected to start talks with sovereign bond holders around Thursday, source said. (Colombo/June26/20
+
+◼️
+
+[Data](articles/5384f72a.json)
+
+---
+
 ### Afghanistan to the semi-end
 
 *2024-06-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198129) · `si`
@@ -361,6 +463,28 @@ Subsequently, in June 2022, the UK government ordered Julian Assange to be depor
 [Data](articles/a0624e19.json)
 
 [Extended Data](ext_articles/a0624e19.ext.json)
+
+---
+
+### Sri Lanka ‘free’ visas likely to face $10 VFS Global fee, website: Harin
+
+*2024-06-25 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-visas-likely-to-face-10-vfs-global-fee-website-harin-169392/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s attempt to woo tourists from 67 countries with free visas is likely to face a 10 dollar charge from VFS Global, an outsourcing provider and also the website, Tourism Minister Harin Fernando said.
+
+“There is a doubt about that. Our government will not take anything,” Minister Fernando told reporters in Colombo Monday.
+
+“I think the current thinking is (mathaya) that the 10 dollar VFS fee will have to be paid.”
+
+Minister Fernando said he could not say exactly what will be in the final cabinet paper. But the ‘facilitation’ fee paid to VFS Global would help reduce potential congestion in the airport, he said.
+
+The Public Security Ministry has said the VFS website was required on national security considerations on which he was unable to comment, he said.
+
+His interest was to boost tourism, which can conflict with national security.
+
+...
+
+[Data](articles/8b5880df.json)
 
 ---
 
@@ -526,6 +650,46 @@ Meanwhile, strong winds are likely to blow up to 40-50 kilometers per hour in th
 
 ---
 
+### Sri Lanka rupee opens flat at 305.10/40 to US dollar
+
+*2024-06-25 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-305-10-40-to-us-dollar-169388/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 305.10/40 to the US dollar on Tuesday, while bond yields were up, and stocks opened 0.01 percent up, dealers said.
+
+In equities, Colombo’s All Share Price Index opened 1.39 points higher at 12,272. while the S&P SL20 of more liquid stocks opened up at 0.04 percent or 1.46 points to 3,633.
+
+A bond maturing on 01.08.2026 was quoted at 10.70/11.00 percent.
+
+A bond maturing on 01.10.2027 was quoted at 10.60/11.10 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.05/15 percent. (Colombo/Jun25/2024)
+
+◼️
+
+[Data](articles/1040de8a.json)
+
+---
+
+### Sri Lanka to get US$150mn from World Bank for health amid ageing population
+
+*2024-06-25 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-us150mn-from-world-bank-for-health-amid-ageing-population-169384/) · `en`
+
+ECONOMYNEXT – Washington-based World Bank said it has approved a 150 million US dollar loan to boost primary healthcare facilities which will help reduce current overcrowding of tertiary facilities and help cope with an ageing population.
+
+A previous World Bank project has already upgraded 550 primary facilities with equipment, health workers and basic testing facilities.
+
+The new project will enhance result in 1,000 facilities being improved. Pandemic preparedness will also be improved.
+
+“Sri Lanka’s health system has demonstrated remarkable performance, but it needs to be strengthened to face emerging health care challenges,” said Faris Hadad-Zervos, World Bank Country Director for Maldives, Nepal, and Sri Lanka said in a statement.
+
+“This project will support the country’s forward-looking primary care reorganization agenda, laying the foundation for a more responsive and people-centric healthcare system.”
+
+...
+
+[Data](articles/054a5c3e.json)
+
+---
+
 ### Sri Lanka Teachers Union appeals to support the sick holiday struggle
 
 *2024-06-25 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186898) · `ta`
@@ -681,6 +845,26 @@ The US Department of Justice has said that he will appear at the Samastine Court
 [Data](articles/b93d64ff.json)
 
 [Extended Data](ext_articles/b93d64ff.ext.json)
+
+---
+
+### Sri Lanka to begin second round of talks with ISB holders: report
+
+*2024-06-25 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-second-round-of-talks-with-isb-holders-report-169353/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning a second round of talks with sovereign bond holders later this week, a media report said as the island is also expecting the announcement of a final deal by bilateral lenders.
+
+Investors in a steering committee representing key bondholders have halted trading and are in a ‘restricted’ period, indicating a new round of direct talks, Bloomberg Newswires said.
+
+Sri Lanka is attempting to restructure 12.5 billion dollars of sovereign bonds and about 1.7 billion dollars of past due interest following the declaration of an external default in 2022.
+
+Private investors are seeking some so-called macro-linked bonds whose final haircut is linked to dollar GDP as well as some standard or ‘plain vanilla’ bonds with an upfront haircut.
+
+The style of bonds have not been used in sovereign restructurings before. In the latest round of talks more plain vanilla bonds may be discussed, sources aware of the thinking of some bond investors said.
+
+...
+
+[Data](articles/de5139ca.json)
 
 ---
 
@@ -1995,217 +2179,5 @@ Representatives for the bondholders and the government were not immediately avai
 [Data](articles/a589c30c.json)
 
 [Extended Data](ext_articles/a589c30c.ext.json)
-
----
-
-### Mother cruelty;Yall. Colombo boy who sought refuge in police
-
-*2024-06-24 22:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-கொடுமை-யாழ்-பொலிஸில்-தஞ்சமடைந்த-கொழும்பு-சிறுவன்/175-339362) · `ta`
-
-A boy from North India, seeking refuge in a Jaffna police station after alleging abuse by his mother and stepfather in Colombo, was actually from there himself. He worked in a Gasino and stayed with a local family. Planning to move to Mannar and then to India, he mistakenly went to Jaffna instead of Mannar. Unable to find shelter, he approached the police. His mother, contacted in Jaffna, agreed to return with him to Colombo, where the police mediated and ensured their safe journey back.
-
-🟩
-
-A boy from Colombo, a boy from Colombo, had taken refuge at the Jaffna police station claiming that his mother and mother's second husband were beaten torture.
-
-When investigating the boy, it was revealed that the boy was from North India, his mother was working in Gasino in Colombo and staying with a Sri Lankan person here.
-
-Meanwhile, the boy is planning to go to Mannar and then travel to India by sea, leaving Colombo and boarding a bus to Jaffna instead of boarding the Mannar bus.
-
-The boy who came to Jaffna did not know where to go, and she has taken refuge at the police station.
-
-When the boy's mother was called in Jaffna, he said that he would punish the boy for the mistakes of the boy.
-
-The police then compromised the boy and warned the mother and sent the boy to Colombo with the mother.. Remble
-
-◼️
-
-[Data](articles/02777bfa.json)
-
-[Extended Data](ext_articles/02777bfa.ext.json)
-
----
-
-### 206 runs in India
-
-*2024-06-24 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198112) · `si`
-
-In the World Cup quarterfinals, India faced Australia. India made 205/5, led by Rohit Sharma's 92 runs. Despite this strong effort, Australia secured victory with 206 runs.
-
-🟩
-
-The match between India and Australia is the round of 8 Superse of the 8 World Cup.
-
-The Indian team scored 205 runs for the loss of 5 wickets at the end of the end.
-
-Rohit Sharma scored 92 runs for the innings of the Indian innings.
-
-Accordingly, the Australian team has won 206 runs for winning the competition.
-
-◼️
-
-[Data](articles/f0951de6.json)
-
-[Extended Data](ext_articles/f0951de6.ext.json)
-
----
-
-### 400 million worth of ice in a package sent to Sri Lanka from Pakistan
-
-*2024-06-24 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/186883) · `ta`
-
-A suspicious package valued at 400 million rupees, containing ice, was intercepted at Sri Lanka's Central Postal Transaction Center, believed to be sent from Pakistan.
-
-🟩
-
-It is reported that the suspected package was found at the Central Postal Transaction Center and the value of about 400 million rupees.
-
-◼️
-
-[Data](articles/3e8973a7.json)
-
-[Extended Data](ext_articles/3e8973a7.ext.json)
-
----
-
-### An accident on the main road of Mannar;Adulterant killed
-
-*2024-06-24 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/186882) · `ta`
-
-In Mannar, a fatal crash occurred at the main road involving a bus and a motorcycle. Sundaralingam Deepan, aged 35, from Naga Chetty village, was killed. The incident happened near the Murugan railway area, and his body is at Murugan Hospital for investigation.
-
-🟩
-
-It is reported that a young family member on a motorcycle has died at the scene of a bus and motorcycle crash in the Murugan railway area, which belongs to the Mannar-Murugan police division.
-
-A private bus from Mannar and a motorcycle from Vavuniya to Murugan Road has crashed into the railway crossing area between the Murungan-Kallakkittakulam village.
-
-Sundaralingam Deepan (age-35) from Nanatan area in Nanattan area is known as a young family member from Naga Chetty village.
-
-The body is being kept at the Murugan Hospital and further investigations are being carried out by the Murugan police.
-
-◼️
-
-[Data](articles/6c4b6ddc.json)
-
-[Extended Data](ext_articles/6c4b6ddc.ext.json)
-
----
-
-### How many trafficking
-
-*2024-06-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198111) · `si`
-
-Summaries of public account selections reveal sand racketeering in Kurunegala District, with issues highlighted by the Department of Agrarian Services and the Deputy Auditor General. Concerns include incomplete responses to audit queries since 2019, lack of action on recommendations, and allegations of corruption in the construction of the district office. The situation involves private contractors receiving payments without fulfilling obligations, and the misuse of sand resources, affecting 5,000 tanks in the area.
-
-🟩
-
-Selectings on Public Accounts have revealed that there have been a number of sand rackets of tanks in the Kurunegala District.
-
-Officers of the Department of Agrarian Services summoned the same Committee yesterday (23).
-
-Deputy Auditor General's - "98 Audit Queries have been answered yet. Been in the year 2019. "
-
-Chairman Lasantha Alagiyawanna - "Is Not Talking about this at the Commonwealth .... The Secretary? "
-
-"Secretary to the Ministry". Talking and followed by the necessary advice. "
-
-...
-
-[Data](articles/c2831d6a.json)
-
-[Extended Data](ext_articles/c2831d6a.ext.json)
-
----
-
-### Young family death in an accident
-
-*2024-06-24 20:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கோர-விபத்தில்-இளம்-குடும்பஸ்தர்-மரணம்/72-339348) · `ta`
-
-In a tragic accident involving a bus and a motorcycle near the Murugan railway area, Sundaralingam Deepan, a 35-year-old family member from Naga Chetty village, was killed instantly. The crash occurred at the railway crossing between Murugan and Kalpittanagulam villages. The victim's body is at Murugan Hospital, and the Murugan police are investigating the incident.
-
-🟩
-
-A young family member who was traveling on a motorcycle was killed on the spot when a bus and a motorcycle crashed into the Murugan railway area this evening.
-
-A private bus from Mannar and a motorcycle from Vavuniya to Murugan Road have crashed into the railway crossing area between the village of Murugan and Kalpittanagulam.
-
-Sundaralingam Deepan (age-35) from Nanatan area in Nanattan area is known as a young family member from Naga Chetty village.
-
-The body is being kept at the Murugan Hospital and further investigations are being carried out by the Murugan police.. Remble
-
-◼️
-
-[Data](articles/0424168b.json)
-
-[Extended Data](ext_articles/0424168b.ext.json)
-
----
-
-### According to the party, I am the leader of the Sri Lanka Freedom Party -Minister Wijeyadasa Rajapaksa
-
-*2024-06-24 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/186881) · `ta`
-
-Wijeyadasa Rajapaksa, despite being the SLFP leader due to a court injunction, cannot lead as the party's offices are seized. He plans to contest in the upcoming elections, promising to address financial losses in royal rituals and potentially run for president, vowing to uphold constitutional electoral processes.
-
-🟩
-
-I am the leader of the party in accordance with the Sri Lanka Freedom Party (SLFP). Due to a court order, it is currently not in office. Minister of Justice Wijeyadasa Rajapaksa said that the Sri Lanka Freedom Party (SLFP) will contest the upcoming elections.
-
-He was speaking to the media after a meeting of the Sri Lanka Freedom Party (SLFP) organizers in Kandy on Sunday (23).
-
-According to the Sri Lanka Freedom Party (SLFP) I am the leader of the party. However, as I am a leader, there is a court interim injunction and is currently not in office. We expect the court to make a verdict in this regard.Since the party's headquarters are captured, none of them can become leaders.
-
-...
-
-[Data](articles/eb6a4a01.json)
-
-[Extended Data](ext_articles/eb6a4a01.ext.json)
-
----
-
-### The Poson Zone that was shaped Abuadabi
-
-*2024-06-24 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198110) · `si`
-
-The recent Poson Zone event in Abu Dhabi featured various activities like the Swarna Siriana scenic pandal. It received support from the Ethnic Students Association of the Ceylon Institute of Indured Industry and the Abu Dhabi Cricket Sports Clubs.
-
-🟩
-
-The Poson Zone organized by Abu Dhay was held recently.
-
-Little has launched a number of areas such as Swarna Sirania scenic pandal.
-
-The Ethnic Students Association of the Ceylon Indured Industry Institute, Abu Dhabi Cricket Sports Clubs had contributed to the Poson Zone.
-
-◼️
-
-[Data](articles/1d8a7444.json)
-
-[Extended Data](ext_articles/1d8a7444.ext.json)
-
----
-
-### The imprisoned group increases
-
-*2024-06-24 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198109) · `si`
-
-The number of people imprisoned for theft and robbery in the country significantly increased from 1,756 in 2021 to 2,061 in 2023. This rise includes a notable increase in female prisoners, from 19 in 2021 to 61 in 2023, primarily due to misleading activities.
-
-🟩
-
-The number of people who are imprisoned on theft and robbery in the country show that there is a significant increase in the number of persons imprisoned.
-
-According to the Department of Prisons, 1,756, in 2021, 2021, 2023, was imprisoned in 2021, 2023, 2023, 2023, 2023.
-
-In the year 2021, 19 women have been imprisoned in connection with theft and robbery, and in 2022, it was up to 49 and 61 to 61 in 2023.
-
-It is reported most of the landslides to mislead individuals.
-
-◼️
-
-[Data](articles/bfd25815.json)
-
-[Extended Data](ext_articles/bfd25815.ext.json)
 
 ---
